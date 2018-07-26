@@ -24,9 +24,9 @@ def return_url_line_type(cardName):
     name = name.strip()
     global memoizer
     if name in memoizer:
-        temp = memoizer[name]
-        temp[0] = f"{quantity} {temp[0]}"
-        return memoizer[name]
+        url_string, card_type, name = memoizer[name]
+        url_string = f"{quantity} {url_string}"
+        return url_string, card_type, name
     cards = Card.where(name=name).iter()
     try:
         card = next(cards)
@@ -51,7 +51,7 @@ def return_url_line_type(cardName):
         card_type = "Planeswalker"
     else:
         card_type = "Unknown"
-    memoizer[name] = "[{}]({})".format(quantity, name, url), card_type, name
+    memoizer[name] = "[{}]({})".format(name, url), card_type, name
     return "{} [{}]({})".format(quantity, name, url), card_type, name
     
 def get_links_group_by_types(input):
