@@ -12,9 +12,11 @@ from time import time, sleep
 import datetime
 
 
-#make it so that if it doesn't exist, create
-with open("card_backup.pkl", "rb") as fp:
-    memoizer = pickle.load(fp)
+if exists("card_backup.pkl"):
+    with open("card_backup.pkl", "rb") as fp:
+        memoizer = pickle.load(fp)
+else:
+    memoizer = {}
 
 def return_url_line_type(cardName):
     quantity, name = cardName.split(" ", 1)
@@ -22,6 +24,8 @@ def return_url_line_type(cardName):
     name = name.strip()
     global memoizer
     if name in memoizer:
+        temp = memoizer[name]
+        temp[0] = f"{quantity} {temp[0]}"
         return memoizer[name]
     cards = Card.where(name=name).iter()
     try:
@@ -47,7 +51,7 @@ def return_url_line_type(cardName):
         card_type = "Planeswalker"
     else:
         card_type = "Unknown"
-    memoizer[name] = "{} [{}]({})".format(quantity, name, url), card_type, name
+    memoizer[name] = "[{}]({})".format(quantity, name, url), card_type, name
     return "{} [{}]({})".format(quantity, name, url), card_type, name
     
 def get_links_group_by_types(input):
