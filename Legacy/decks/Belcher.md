@@ -1,7 +1,7 @@
 
 # Maindeck
 
-|                                           Artifact                                            |                                            Creature                                            |                                           Instant                                           |                                       Land                                       |                                           Sorcery                                            |
+|                                          Artifact 4                                           |                                           Creature 3                                           |                                          Instant 4                                          |                                      Land 1                                      |                                          Sorcery 4                                           |
 |-----------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
 |4 [Chrome Mox](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=None)          |4 [Elvish Spirit Guide](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=184542)|4 [Desperate Ritual](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370546)|1 [Taiga](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383122)|4 [Burning Wish](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=None)       |
 |4 [Goblin Charbelcher](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413764)|4 [Simian Spirit Guide](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442137)|4 [Manamorphose](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370568)    |                                                                                  |3 [Empty the Warrens](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370480)|
@@ -11,7 +11,7 @@
 
 # Sideboard
 
-|                                        Creature                                         |                                            Sorcery                                             |
+|                                       Creature 1                                        |                                           Sorcery 11                                           |
 |-----------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
 |4 [Xantid Swarm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413735)|1 [Chain Lightning](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=217977)    |
 |                                                                                         |1 [Diminishing Returns](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=159090)|

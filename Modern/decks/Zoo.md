@@ -1,7 +1,7 @@
 
 # Maindeck
 
-|                                             Creature                                             |                                          Instant                                          |                                            Land                                            |
+|                                            Creature 9                                            |                                         Instant 3                                         |                                           Land 8                                           |
 |--------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
 |4 [Burning-Tree Emissary](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426032)|4 [Atarka's Command](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=None)|4 [Arid Mesa](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426054)      |
 |4 [Experiment One](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=None)         |4 [Lightning Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=None)  |1 [Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439605)         |
@@ -16,7 +16,7 @@
 
 # Sideboard
 
-|                                             Creature                                             |                                            Instant                                             |                                      Sorcery                                       |
+|                                            Creature 4                                            |                                           Instant 4                                            |                                     Sorcery 1                                      |
 |--------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------|
 |1 [Kataki, War's Wage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370414)   |1 [Deflecting Palm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=None)      |2 [Pyroclasm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=None)|
 |2 [Kor Firewalker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=None)         |3 [Destructive Revelry](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373351)|                                                                                    |

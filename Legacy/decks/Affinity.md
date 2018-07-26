@@ -1,7 +1,7 @@
 
 # Maindeck
 
-|                                            Artifact                                            |                                           Creature                                           |                                             Land                                             |                                          Planeswalker                                          |
+|                                           Artifact 4                                           |                                          Creature 7                                          |                                            Land 6                                            |                                         Planeswalker 1                                         |
 |------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
 |4 [Chalice of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370411)|4 [Arcbound Ravager](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370510) |4 [Ancient Tomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382842)     |4 [Karn, Scion of Urza](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442889)|
 |1 [Lotus Petal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420602)        |4 [Hangarback Walker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420600)|4 [Blinkmoth Nexus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370407)  |                                                                                                |
@@ -14,7 +14,7 @@
 
 # Sideboard
 
-|                                           Artifact                                            |                                          Enchantment                                           |                                          Planeswalker                                          |
+|                                          Artifact 4                                           |                                         Enchantment 1                                          |                                         Planeswalker 1                                         |
 |-----------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
 |3 [Ensnaring Bridge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442213)  |4 [Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205013)|1 [Karn, Scion of Urza](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442889)|
 |2 [Ratchet Bomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=None)        |                                                                                                |                                                                                                |

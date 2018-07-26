@@ -67,7 +67,7 @@ def generate_markdown_table_mainside(link_dictionary, title):
     writer = pytablewriter.MarkdownTableWriter()
     writer.stream = res
     writer.table_name=title
-    writer.header_list = list(link_dictionary.keys())
+    writer.header_list = list([f"{x}\n{len(link_dictionary[x])}" for x in link_dictionary.keys()])
     writer.value_matrix = list(zip_longest(*list(link_dictionary.values())))
     writer.write_table()
     return res

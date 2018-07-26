@@ -1,7 +1,7 @@
 
 # Maindeck
 
-|                                        Artifact                                        |                                               Creature                                               |                                              Land                                              |
+|                                       Artifact 1                                       |                                             Creature 10                                              |                                             Land 7                                             |
 |----------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
 |4 [Aether Vial](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370514)|4 [Champion of the Parish](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409580)   |4 [Ancient Ziggurat](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=None)     |
 |                                                                                        |1 [Kessig Malcontents](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=240114)       |4 [Cavern of Souls](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426057)    |
@@ -17,7 +17,7 @@
 
 # Sideboard
 
-|                                         Artifact                                          |                                            Creature                                             |                                       Instant                                       |
+|                                        Artifact 1                                         |                                           Creature 6                                            |                                      Instant 2                                      |
 |-------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|
 |1 [Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)|2 [Auriok Champion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438575)     |1 [Dismember](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=None) |
 |                                                                                           |1 [Dire Fleet Daredevil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439756)|2 [Gut Shot](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397673)|

@@ -1,7 +1,7 @@
 
 # Maindeck
 
-|                                            Artifact                                            |                                            Creature                                             |                                            Land                                             |                                            Planeswalker                                            |
+|                                           Artifact 8                                           |                                           Creature 8                                            |                                           Land 5                                            |                                           Planeswalker 2                                           |
 |------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
 |4 [Chalice of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370411)|1 [Blightsteel Colossus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=221563)|4 [Ancient Tomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382842)    |2 [Karn, Scion of Urza](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442889)    |
 |2 [Ensnaring Bridge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442213)   |2 [Goblin Welder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=None)         |4 [Cavern of Souls](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426057) |1 [Ugin, the Spirit Dragon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394086)|
@@ -15,7 +15,7 @@
 
 # Sideboard
 
-|                                           Artifact                                            |                                         Creature                                          |                                       Sorcery                                        |
+|                                          Artifact 3                                           |                                        Creature 2                                         |                                      Sorcery 1                                       |
 |-----------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
 |1 [Batterskull](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=None)         |2 [Duplicant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413762)     |2 [All Is Dust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=None)|
 |3 [Sorcerous Spyglass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435407)|4 [Faerie Macabre](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370410)|                                                                                      |

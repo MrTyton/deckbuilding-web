@@ -4,3 +4,4 @@ python generate_deck_page.py
 python generate_readme.py
 git add .
 git commit -m "Update"
+git push

@@ -1,7 +1,7 @@
 
 # Maindeck
 
-|                                            Creature                                            |                                         Enchantment                                         |                                              Land                                              |                                          Sorcery                                           |
+|                                           Creature 5                                           |                                        Enchantment 2                                        |                                             Land 8                                             |                                         Sorcery 4                                          |
 |------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
 |4 [Bloodghast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438648)         |2 [Bitterblossom](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=None)     |3 [Badlands](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382852)           |4 [Cabal Therapy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=None)    |
 |4 [Carrion Feeder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=None)       |3 [Goblin Bombardment](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=None)|3 [Bloodstained Mire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=None)    |4 [Faithless Looting](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=None)|
@@ -15,7 +15,7 @@
 
 # Sideboard
 
-|                                          Artifact                                           |                                           Instant                                            |                                         Sorcery                                          |   Unknown   |
+|                                         Artifact 2                                          |                                          Instant 2                                           |                                        Sorcery 2                                         |  Unknown 1  |
 |---------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|-------------|
 |2 [Ensnaring Bridge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442213)|2 [Diabolic Edict](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=None)     |1 [Perish](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=4676)         |3 Wear / Tear|
 |2 [Pithing Needle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425815)  |3 [Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=None)|2 [Sudden Demise](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376528)|             |
