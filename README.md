@@ -19,7 +19,7 @@
 |1 [Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426046)|                                                                                            |2 [Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)       |2 [Stubborn Denial](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386673)|                                                                                      |
 
 
-#Other Options
+# Other Options
 <table>
 <tr><th>Maindeck Options </th><th>Sideboard Options</th></tr>
 <tr><td valign="top">
