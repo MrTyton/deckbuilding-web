@@ -1,0 +1,27 @@
+
+# Maindeck
+
+|                                         Artifact                                          |                                               Creature                                                |                                           Instant                                            |                                              Land                                              |                                             Planeswalker                                              |
+|-------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
+|4 [Dragon's Hoard](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447369)|1 [Chromium, the Mutable](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447350)     |1 [Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)           |1 [Canyon Slough](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426941)      |2 [Chandra, Torch of Defiance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417683)|
+|1 [Treasure Map](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435410)  |2 [Darigaaz Reincarnated](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443081)     |1 [Cast Down](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442969)        |1 [Dragonskull Summit](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420909) |1 [Sarkhan, Fireblood](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447290)        |
+|                                                                                           |1 [Demanding Dragon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447271)          |2 [Fatal Push](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423724)       |1 [Fetid Pools](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426945)        |                                                                                                       |
+|                                                                                           |1 [Glorybringer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426836)              |1 [Vraska's Contempt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435283)|1 [Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439604)           |                                                                                                       |
+|                                                                                           |1 [Nicol Bolas, the Ravager](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447354)  |                                                                                              |1 [Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439603)              |                                                                                                       |
+|                                                                                           |1 [Vaevictis Asmadi, the Dire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447362)|                                                                                              |1 [Unclaimed Territory](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435419)|                                                                                                       |
+
+
+# Sideboard
+
+|                                          Enchantment                                           |                                       Instant                                        |                                          Sorcery                                           |
+|------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
+|1 [Arguel's Blood Fast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439316)|1 [Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)   |2 [Doomfall](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430751)       |
+|                                                                                                |1 [Cast Down](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442969)|1 [Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=None)           |
+|                                                                                                |1 [Magma Spray](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=None)|1 [Sweltering Suns](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426851)|
+
+
+# Other Options
+
+|*n*<sup>th</sup> copy|Maindeck Card|*n*<sup>th</sup> copy|Sideboard Card|
+|---------------------|-------------|---------------------|--------------|
+

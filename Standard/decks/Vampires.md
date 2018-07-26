@@ -1,0 +1,28 @@
+
+# Maindeck
+
+|                                               Creature                                               |                                          Enchantment                                           |                                       Instant                                        |                                              Land                                              |                                            Sorcery                                            |
+|------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
+|2 [Crested Sunmare](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430695)          |1 [Arguel's Blood Fast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439316)|1 [Cast Down](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442969)|1 [Concealed Courtyard](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417818)|4 [Call to the Feast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435375) |
+|3 [Dusk Legion Zealot](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442078)       |1 [Ixalan's Binding](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435168)   |                                                                                      |3 [Isolated Chapel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382189)    |4 [Queen's Commission](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435181)|
+|4 [Legion Lieutenant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439822)        |3 [Legion's Landing](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435173)   |                                                                                      |1 [Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439601)             |                                                                                               |
+|4 [Martyr of Dusk](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439671)           |4 [Radiant Destiny](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439675)    |                                                                                      |3 [Shefet Dunes](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430872)       |                                                                                               |
+|1 [Mavren Fein, Dusk Apostle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435176)|                                                                                                |                                                                                      |1 [Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439603)              |                                                                                               |
+
+
+# Sideboard
+
+|                                          Artifact                                           |                                             Enchantment                                             |                                        Sorcery                                         |    Unknown     |
+|---------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|----------------|
+|1 [The Immortal Sun](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439844)|1 [Arguel's Blood Fast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439316)     |1 [Fragmentize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417587)|2 Never / Return|
+|                                                                                             |1 [Authority of the Consuls](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417578)|1 [Lost Legacy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417661)|                |
+|                                                                                             |1 [Ixalan's Binding](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435168)        |                                                                                        |                |
+|                                                                                             |2 [Seal Away](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442919)               |                                                                                        |                |
+|                                                                                             |1 [Solemnity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430711)               |                                                                                        |                |
+
+
+# Other Options
+
+|*n*<sup>th</sup> copy|Maindeck Card|*n*<sup>th</sup> copy|Sideboard Card|
+|---------------------|-------------|---------------------|--------------|
+

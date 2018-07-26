@@ -1,0 +1,29 @@
+
+# Maindeck
+
+|                                           Artifact                                           |                                            Creature                                            |                                         Enchantment                                         |                                             Land                                              |
+|----------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
+|4 [Oketra's Monument](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426935)|1 [Angel of Invention](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417577) |1 [Ixalan's Binding](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435168)|1 [Glacial Fortress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435416)  |
+|                                                                                              |4 [Aviary Mechanic](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417579)    |1 [Thopter Arrest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423692)  |1 [Irrigated Farmland](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426947)|
+|                                                                                              |4 [Cloudblazer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442190)        |                                                                                             |1 [Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439602)            |
+|                                                                                              |4 [Knight of Grace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442911)    |                                                                                             |1 [Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439601)            |
+|                                                                                              |4 [Mentor of the Meek](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420686) |                                                                                             |1 [Scavenger Grounds](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430871) |
+|                                                                                              |1 [Militia Bugler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447165)     |                                                                                             |3 [Shefet Dunes](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430872)      |
+|                                                                                              |4 [Skymarcher Aspirant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439678)|                                                                                             |                                                                                               |
+|                                                                                              |3 [Suncleanser](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447175)        |                                                                                             |                                                                                               |
+|                                                                                              |1 [Trophy Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442778)        |                                                                                             |                                                                                               |
+
+
+# Sideboard
+
+|                                          Creature                                           |                                     Enchantment                                      |                                     Instant                                     |                                          Planeswalker                                          |   Unknown   |
+|---------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|-------------|
+|1 [Lyra Dawnbringer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442914)|2 [Seal Away](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442919)|1 [Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=None)|2 [Karn, Scion of Urza](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442889)|3 Dusk / Dawn|
+|3 [Shield Mare](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447173)     |                                                                                      |                                                                                 |                                                                                                |             |
+
+
+# Other Options
+
+|*n*<sup>th</sup> copy|Maindeck Card|*n*<sup>th</sup> copy|Sideboard Card|
+|---------------------|-------------|---------------------|--------------|
+
