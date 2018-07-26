@@ -1,5 +1,5 @@
 
-# Maindeck2
+# Maindeck
 |                                          Artifact                                          |                                           Creature                                            |                                          Instant                                          |                                             Land                                             |                                          Planeswalker                                          |
 |--------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
 |4 [Cranial Plating](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205328)|4 [Arcbound Ravager](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370510)  |3 [Galvanic Blast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442781)|4 [Blinkmoth Nexus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370407)  |2 [Karn, Scion of Urza](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442889)|
@@ -24,7 +24,6 @@
 <table>
 
 <tr><th>Maindeck Options </th><th>Sideboard Options</th></tr>
-
 <tr><td valign="top">
 |*n*<sup>th</sup> copy|                                               Card                                                |
 |--------------------:|---------------------------------------------------------------------------------------------------|
