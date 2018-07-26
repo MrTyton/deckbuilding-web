@@ -22,6 +22,7 @@
 
 
 # Other Options
+
 |*n*<sup>th</sup> copy|                                           Maindeck Card                                           |*n*<sup>th</sup> copy|                                          Sideboard Card                                           |
 |--------------------:|---------------------------------------------------------------------------------------------------|--------------------:|---------------------------------------------------------------------------------------------------|
 |                    4|[Spire of Industry](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423851)       |                    1|[Gut Shot](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397673)                |
