@@ -1,4 +1,5 @@
 
+# Maindeck
 <table id="Maindeck">
     <caption>Maindeck</caption>
     <thead>
@@ -12,57 +13,57 @@
     </thead>
     <tbody>
         <tr>
-            <td align="left">4 [Cranial Plating](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205328)</td>
-            <td align="left">4 [Arcbound Ravager](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370510)</td>
-            <td align="left">3 [Galvanic Blast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442781)</td>
-            <td align="left">4 [Blinkmoth Nexus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370407)</td>
-            <td align="left">2 [Karn, Scion of Urza](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442889)</td>
+            <td align="left">4 <a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205328>Cranial Plating</a></td>
+            <td align="left">4 <a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370510>Arcbound Ravager</a></td>
+            <td align="left">3 <a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442781>Galvanic Blast</a></td>
+            <td align="left">4 <a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370407>Blinkmoth Nexus</a></td>
+            <td align="left">2 <a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442889>Karn, Scion of Urza</a></td>
         </tr>
         <tr>
-            <td align="left">4 [Mox Opal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397719)</td>
-            <td align="left">2 [Etched Champion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397710)</td>
+            <td align="left">4 <a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397719>Mox Opal</a></td>
+            <td align="left">2 <a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397710>Etched Champion</a></td>
             <td align="left"></td>
-            <td align="left">4 [Darksteel Citadel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397853)</td>
-            <td align="left"></td>
-        </tr>
-        <tr>
-            <td align="left">4 [Springleaf Drum](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=139509)</td>
-            <td align="left">2 [Master of Etherium](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205325)</td>
-            <td align="left"></td>
-            <td align="left">4 [Inkmoth Nexus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370407)</td>
+            <td align="left">4 <a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397853>Darksteel Citadel</a></td>
             <td align="left"></td>
         </tr>
         <tr>
-            <td align="left">1 [Welding Jar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=48328)</td>
-            <td align="left">2 [Memnite](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=None)</td>
+            <td align="left">4 <a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=139509>Springleaf Drum</a></td>
+            <td align="left">2 <a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205325>Master of Etherium</a></td>
             <td align="left"></td>
-            <td align="left">1 [Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439604)</td>
+            <td align="left">4 <a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370407>Inkmoth Nexus</a></td>
             <td align="left"></td>
         </tr>
         <tr>
+            <td align="left">1 <a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=48328>Welding Jar</a></td>
+            <td align="left">2 <a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=None>Memnite</a></td>
             <td align="left"></td>
-            <td align="left">4 [Ornithopter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425813)</td>
-            <td align="left"></td>
-            <td align="left">3 [Spire of Industry](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423851)</td>
+            <td align="left">1 <a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439604>Mountain</a></td>
             <td align="left"></td>
         </tr>
         <tr>
             <td align="left"></td>
-            <td align="left">4 [Signal Pest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=None)</td>
+            <td align="left">4 <a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425813>Ornithopter</a></td>
             <td align="left"></td>
-            <td align="left"></td>
+            <td align="left">3 <a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423851>Spire of Industry</a></td>
             <td align="left"></td>
         </tr>
         <tr>
             <td align="left"></td>
-            <td align="left">4 [Steel Overseer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420614)</td>
+            <td align="left">4 <a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=None>Signal Pest</a></td>
             <td align="left"></td>
             <td align="left"></td>
             <td align="left"></td>
         </tr>
         <tr>
             <td align="left"></td>
-            <td align="left">4 [Vault Skirge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=None)</td>
+            <td align="left">4 <a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420614>Steel Overseer</a></td>
+            <td align="left"></td>
+            <td align="left"></td>
+            <td align="left"></td>
+        </tr>
+        <tr>
+            <td align="left"></td>
+            <td align="left">4 <a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=None>Vault Skirge</a></td>
             <td align="left"></td>
             <td align="left"></td>
             <td align="left"></td>
@@ -70,6 +71,7 @@
     </tbody>
 </table>
 
+# Sideboard
 <table id="Sideboard">
     <caption>Sideboard</caption>
     <thead>
@@ -83,17 +85,17 @@
     </thead>
     <tbody>
         <tr>
-            <td align="left">2 [Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)</td>
-            <td align="left">2 [Etched Champion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397710)</td>
-            <td align="left">2 [Ghirapur Aether Grid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=398517)</td>
-            <td align="left">2 [Ancient Grudge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=None)</td>
-            <td align="left">2 [Whipflare](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446866)</td>
+            <td align="left">2 <a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101>Damping Sphere</a></td>
+            <td align="left">2 <a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397710>Etched Champion</a></td>
+            <td align="left">2 <a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=398517>Ghirapur Aether Grid</a></td>
+            <td align="left">2 <a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=None>Ancient Grudge</a></td>
+            <td align="left">2 <a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446866>Whipflare</a></td>
         </tr>
         <tr>
-            <td align="left">1 [Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426046)</td>
+            <td align="left">1 <a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426046>Grafdigger's Cage</a></td>
             <td align="left"></td>
-            <td align="left">2 [Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)</td>
-            <td align="left">2 [Stubborn Denial](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386673)</td>
+            <td align="left">2 <a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021>Rest in Peace</a></td>
+            <td align="left">2 <a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386673>Stubborn Denial</a></td>
             <td align="left"></td>
         </tr>
     </tbody>
@@ -107,334 +109,334 @@
 <table>
     <thead>
         <tr>
-            <th>*n*&lt;sup&gt;th&lt;/sup&gt; copy</th>
+            <th><i>n</i><sup>th</sup> copy</th>
             <th>Card</th>
         </tr>
     </thead>
     <tbody>
         <tr>
             <td align="right">4</td>
-            <td align="left">[Spire of Industry](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423851)</td>
+            <td align="left"><a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423851>Spire of Industry</a></td>
         </tr>
         <tr>
             <td align="right">1</td>
-            <td align="left">[Glimmervoid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370425)</td>
+            <td align="left"><a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370425>Glimmervoid</a></td>
         </tr>
         <tr>
             <td align="right">2</td>
-            <td align="left">[Welding Jar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=48328)</td>
+            <td align="left"><a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=48328>Welding Jar</a></td>
         </tr>
         <tr>
             <td align="right">1</td>
-            <td align="left">[Ancient Stirrings](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442148)</td>
+            <td align="left"><a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442148>Ancient Stirrings</a></td>
         </tr>
         <tr>
             <td align="right">2</td>
-            <td align="left">[Ancient Stirrings](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442148)</td>
+            <td align="left"><a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442148>Ancient Stirrings</a></td>
         </tr>
         <tr>
             <td align="right">1</td>
-            <td align="left">[Arcbound Worker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370517)</td>
+            <td align="left"><a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370517>Arcbound Worker</a></td>
         </tr>
         <tr>
             <td align="right">1</td>
-            <td align="left">[Throne of Geth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=202675)</td>
+            <td align="left"><a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=202675>Throne of Geth</a></td>
         </tr>
         <tr>
             <td align="right">1</td>
-            <td align="left">[Walking Ballista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423848)</td>
+            <td align="left"><a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423848>Walking Ballista</a></td>
         </tr>
         <tr>
             <td align="right">1</td>
-            <td align="left">[Hardened Scales](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=None)</td>
+            <td align="left"><a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=None>Hardened Scales</a></td>
         </tr>
         <tr>
             <td align="right">1</td>
-            <td align="left">[Hangarback Walker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420600)</td>
+            <td align="left"><a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420600>Hangarback Walker</a></td>
         </tr>
         <tr>
             <td align="right">1</td>
-            <td align="left">[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439605)</td>
+            <td align="left"><a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439605>Forest</a></td>
         </tr>
         <tr>
             <td align="right">2</td>
-            <td align="left">[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439605)</td>
+            <td align="left"><a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439605>Forest</a></td>
         </tr>
         <tr>
             <td align="right">2</td>
-            <td align="left">[Hardened Scales](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=None)</td>
+            <td align="left"><a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=None>Hardened Scales</a></td>
         </tr>
         <tr>
             <td align="right">2</td>
-            <td align="left">[Arcbound Worker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370517)</td>
+            <td align="left"><a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370517>Arcbound Worker</a></td>
         </tr>
         <tr>
             <td align="right">2</td>
-            <td align="left">[Throne of Geth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=202675)</td>
+            <td align="left"><a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=202675>Throne of Geth</a></td>
         </tr>
         <tr>
             <td align="right">2</td>
-            <td align="left">[Walking Ballista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423848)</td>
+            <td align="left"><a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423848>Walking Ballista</a></td>
         </tr>
         <tr>
             <td align="right">2</td>
-            <td align="left">[Hangarback Walker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420600)</td>
+            <td align="left"><a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420600>Hangarback Walker</a></td>
         </tr>
         <tr>
             <td align="right">3</td>
-            <td align="left">[Walking Ballista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423848)</td>
+            <td align="left"><a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423848>Walking Ballista</a></td>
         </tr>
         <tr>
             <td align="right">3</td>
-            <td align="left">[Hangarback Walker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420600)</td>
+            <td align="left"><a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420600>Hangarback Walker</a></td>
         </tr>
         <tr>
             <td align="right">3</td>
-            <td align="left">[Ancient Stirrings](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442148)</td>
+            <td align="left"><a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442148>Ancient Stirrings</a></td>
         </tr>
         <tr>
             <td align="right">3</td>
-            <td align="left">[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439605)</td>
+            <td align="left"><a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439605>Forest</a></td>
         </tr>
         <tr>
             <td align="right">3</td>
-            <td align="left">[Hardened Scales](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=None)</td>
+            <td align="left"><a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=None>Hardened Scales</a></td>
         </tr>
         <tr>
             <td align="right">3</td>
-            <td align="left">[Arcbound Worker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370517)</td>
+            <td align="left"><a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370517>Arcbound Worker</a></td>
         </tr>
         <tr>
             <td align="right">4</td>
-            <td align="left">[Arcbound Worker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370517)</td>
+            <td align="left"><a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370517>Arcbound Worker</a></td>
         </tr>
         <tr>
             <td align="right">4</td>
-            <td align="left">[Hangarback Walker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420600)</td>
+            <td align="left"><a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420600>Hangarback Walker</a></td>
         </tr>
         <tr>
             <td align="right">4</td>
-            <td align="left">[Hardened Scales](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=None)</td>
+            <td align="left"><a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=None>Hardened Scales</a></td>
         </tr>
         <tr>
             <td align="right">4</td>
-            <td align="left">[Walking Ballista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423848)</td>
+            <td align="left"><a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423848>Walking Ballista</a></td>
         </tr>
         <tr>
             <td align="right">1</td>
-            <td align="left">[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439602)</td>
+            <td align="left"><a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439602>Island</a></td>
         </tr>
         <tr>
             <td align="right">1</td>
-            <td align="left">[Evolutionary Leap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=None)</td>
+            <td align="left"><a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=None>Evolutionary Leap</a></td>
         </tr>
         <tr>
             <td align="right">1</td>
-            <td align="left">[Sparring Construct](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443120)</td>
+            <td align="left"><a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443120>Sparring Construct</a></td>
         </tr>
         <tr>
             <td align="right">2</td>
-            <td align="left">[Sparring Construct](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443120)</td>
+            <td align="left"><a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443120>Sparring Construct</a></td>
         </tr>
         <tr>
             <td align="right">4</td>
-            <td align="left">[Ancient Stirrings](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442148)</td>
+            <td align="left"><a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442148>Ancient Stirrings</a></td>
         </tr>
         <tr>
             <td align="right">4</td>
-            <td align="left">[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439605)</td>
+            <td align="left"><a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439605>Forest</a></td>
         </tr>
         <tr>
             <td align="right">5</td>
-            <td align="left">[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439605)</td>
+            <td align="left"><a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439605>Forest</a></td>
         </tr>
         <tr>
             <td align="right">6</td>
-            <td align="left">[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439605)</td>
+            <td align="left"><a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439605>Forest</a></td>
         </tr>
         <tr>
             <td align="right">3</td>
-            <td align="left">[Master of Etherium](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205325)</td>
+            <td align="left"><a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205325>Master of Etherium</a></td>
         </tr>
         <tr>
             <td align="right">4</td>
-            <td align="left">[Galvanic Blast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442781)</td>
+            <td align="left"><a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442781>Galvanic Blast</a></td>
         </tr>
         <tr>
             <td align="right">1</td>
-            <td align="left">[Pendelhaven](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=None)</td>
+            <td align="left"><a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=None>Pendelhaven</a></td>
         </tr>
         <tr>
             <td align="right">7</td>
-            <td align="left">[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439605)</td>
+            <td align="left"><a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439605>Forest</a></td>
         </tr>
         <tr>
             <td align="right">1</td>
-            <td align="left">[Horizon Canopy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438806)</td>
+            <td align="left"><a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438806>Horizon Canopy</a></td>
         </tr>
         <tr>
             <td align="right">3</td>
-            <td align="left">[Memnite](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=None)</td>
+            <td align="left"><a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=None>Memnite</a></td>
         </tr>
         <tr>
             <td align="right">4</td>
-            <td align="left">[Master of Etherium](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205325)</td>
+            <td align="left"><a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205325>Master of Etherium</a></td>
         </tr>
         <tr>
             <td align="right">3</td>
-            <td align="left">[Etched Champion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397710)</td>
+            <td align="left"><a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397710>Etched Champion</a></td>
         </tr>
         <tr>
             <td align="right">8</td>
-            <td align="left">[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439605)</td>
+            <td align="left"><a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439605>Forest</a></td>
         </tr>
         <tr>
             <td align="right">2</td>
-            <td align="left">[Horizon Canopy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438806)</td>
+            <td align="left"><a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438806>Horizon Canopy</a></td>
         </tr>
         <tr>
             <td align="right">3</td>
-            <td align="left">[Throne of Geth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=202675)</td>
+            <td align="left"><a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=202675>Throne of Geth</a></td>
         </tr>
         <tr>
             <td align="right">1</td>
-            <td align="left">[Myr Enforcer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=None)</td>
+            <td align="left"><a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=None>Myr Enforcer</a></td>
         </tr>
         <tr>
             <td align="right">1</td>
-            <td align="left">[Bomat Courier](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417772)</td>
+            <td align="left"><a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417772>Bomat Courier</a></td>
         </tr>
         <tr>
             <td align="right">1</td>
-            <td align="left">[Contested War Zone](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=213775)</td>
+            <td align="left"><a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=213775>Contested War Zone</a></td>
         </tr>
         <tr>
             <td align="right">1</td>
-            <td align="left">[Frogmite](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370434)</td>
+            <td align="left"><a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370434>Frogmite</a></td>
         </tr>
         <tr>
             <td align="right">1</td>
-            <td align="left">[Chalice of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370411)</td>
+            <td align="left"><a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370411>Chalice of the Void</a></td>
         </tr>
         <tr>
             <td align="right">2</td>
-            <td align="left">[Frogmite](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370434)</td>
+            <td align="left"><a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370434>Frogmite</a></td>
         </tr>
         <tr>
             <td align="right">2</td>
-            <td align="left">[Contested War Zone](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=213775)</td>
+            <td align="left"><a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=213775>Contested War Zone</a></td>
         </tr>
         <tr>
             <td align="right">2</td>
-            <td align="left">[Chalice of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370411)</td>
+            <td align="left"><a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370411>Chalice of the Void</a></td>
         </tr>
         <tr>
             <td align="right">2</td>
-            <td align="left">[Bomat Courier](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417772)</td>
+            <td align="left"><a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417772>Bomat Courier</a></td>
         </tr>
         <tr>
             <td align="right">2</td>
-            <td align="left">[Myr Enforcer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=None)</td>
+            <td align="left"><a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=None>Myr Enforcer</a></td>
         </tr>
         <tr>
             <td align="right">3</td>
-            <td align="left">[Myr Enforcer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=None)</td>
+            <td align="left"><a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=None>Myr Enforcer</a></td>
         </tr>
         <tr>
             <td align="right">3</td>
-            <td align="left">[Frogmite](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370434)</td>
+            <td align="left"><a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370434>Frogmite</a></td>
         </tr>
         <tr>
             <td align="right">3</td>
-            <td align="left">[Contested War Zone](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=213775)</td>
+            <td align="left"><a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=213775>Contested War Zone</a></td>
         </tr>
         <tr>
             <td align="right">3</td>
-            <td align="left">[Welding Jar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=48328)</td>
+            <td align="left"><a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=48328>Welding Jar</a></td>
         </tr>
         <tr>
             <td align="right">4</td>
-            <td align="left">[Myr Enforcer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=None)</td>
+            <td align="left"><a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=None>Myr Enforcer</a></td>
         </tr>
         <tr>
             <td align="right">4</td>
-            <td align="left">[Memnite](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=None)</td>
+            <td align="left"><a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=None>Memnite</a></td>
         </tr>
         <tr>
             <td align="right">4</td>
-            <td align="left">[Frogmite](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370434)</td>
+            <td align="left"><a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370434>Frogmite</a></td>
         </tr>
         <tr>
             <td align="right">4</td>
-            <td align="left">[Welding Jar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=48328)</td>
+            <td align="left"><a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=48328>Welding Jar</a></td>
         </tr>
         <tr>
             <td align="right">9</td>
-            <td align="left">[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439605)</td>
+            <td align="left"><a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439605>Forest</a></td>
         </tr>
         <tr>
             <td align="right">1</td>
-            <td align="left">[Apostle's Blessing](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397768)</td>
+            <td align="left"><a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397768>Apostle's Blessing</a></td>
         </tr>
         <tr>
             <td align="right">1</td>
-            <td align="left">[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439603)</td>
+            <td align="left"><a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439603>Swamp</a></td>
         </tr>
         <tr>
             <td align="right">1</td>
-            <td align="left">[Tezzeret, Agent of Bolas](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=214065)</td>
+            <td align="left"><a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=214065>Tezzeret, Agent of Bolas</a></td>
         </tr>
         <tr>
             <td align="right">1</td>
-            <td align="left">[Temur Battle Rage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391940)</td>
+            <td align="left"><a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391940>Temur Battle Rage</a></td>
         </tr>
         <tr>
             <td align="right">1</td>
-            <td align="left">[Snow-Covered Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=184814)</td>
+            <td align="left"><a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=184814>Snow-Covered Mountain</a></td>
         </tr>
         <tr>
             <td align="right">1</td>
-            <td align="left">[Glint-Nest Crane](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417623)</td>
+            <td align="left"><a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417623>Glint-Nest Crane</a></td>
         </tr>
         <tr>
             <td align="right">1</td>
-            <td align="left">[Thoughtcast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397804)</td>
+            <td align="left"><a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397804>Thoughtcast</a></td>
         </tr>
         <tr>
             <td align="right">2</td>
-            <td align="left">[Glimmervoid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370425)</td>
+            <td align="left"><a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370425>Glimmervoid</a></td>
         </tr>
         <tr>
             <td align="right">1</td>
-            <td align="left">[Gavony Township](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=233242)</td>
+            <td align="left"><a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=233242>Gavony Township</a></td>
         </tr>
         <tr>
             <td align="right">1</td>
-            <td align="left">[Razorverge Thicket](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=209407)</td>
+            <td align="left"><a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=209407>Razorverge Thicket</a></td>
         </tr>
         <tr>
             <td align="right">2</td>
-            <td align="left">[Razorverge Thicket](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=209407)</td>
+            <td align="left"><a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=209407>Razorverge Thicket</a></td>
         </tr>
         <tr>
             <td align="right">2</td>
-            <td align="left">[Gavony Township](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=233242)</td>
+            <td align="left"><a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=233242>Gavony Township</a></td>
         </tr>
         <tr>
             <td align="right">1</td>
-            <td align="left">[Animation Module](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417767)</td>
+            <td align="left"><a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417767>Animation Module</a></td>
         </tr>
         <tr>
             <td align="right">3</td>
-            <td align="left">[Horizon Canopy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438806)</td>
+            <td align="left"><a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438806>Horizon Canopy</a></td>
         </tr>
         <tr>
             <td align="right">2</td>
-            <td align="left">[Evolutionary Leap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=None)</td>
+            <td align="left"><a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=None>Evolutionary Leap</a></td>
         </tr>
         <tr>
             <td align="right">10</td>
-            <td align="left">[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439605)</td>
+            <td align="left"><a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439605>Forest</a></td>
         </tr>
     </tbody>
 </table>
@@ -445,62 +447,62 @@
 <table>
     <thead>
         <tr>
-            <th>*n*&lt;sup&gt;th&lt;/sup&gt; copy</th>
+            <th><i>n</i><sup>th</sup> copy</th>
             <th>Card</th>
         </tr>
     </thead>
     <tbody>
         <tr>
             <td align="right">1</td>
-            <td align="left">[Gut Shot](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397673)</td>
+            <td align="left"><a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397673>Gut Shot</a></td>
         </tr>
         <tr>
             <td align="right">2</td>
-            <td align="left">[Gut Shot](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397673)</td>
+            <td align="left"><a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397673>Gut Shot</a></td>
         </tr>
         <tr>
             <td align="right">1</td>
-            <td align="left">[Dismember](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=None)</td>
+            <td align="left"><a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=None>Dismember</a></td>
         </tr>
         <tr>
             <td align="right">1</td>
-            <td align="left">[Relic of Progenitus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205326)</td>
+            <td align="left"><a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205326>Relic of Progenitus</a></td>
         </tr>
         <tr>
             <td align="right">1</td>
-            <td align="left">[Nature's Claim](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438743)</td>
+            <td align="left"><a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438743>Nature's Claim</a></td>
         </tr>
         <tr>
             <td align="right">2</td>
-            <td align="left">[Nature's Claim](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438743)</td>
+            <td align="left"><a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438743>Nature's Claim</a></td>
         </tr>
         <tr>
             <td align="right">2</td>
-            <td align="left">[Dismember](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=None)</td>
+            <td align="left"><a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=None>Dismember</a></td>
         </tr>
         <tr>
             <td align="right">2</td>
-            <td align="left">[Relic of Progenitus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205326)</td>
+            <td align="left"><a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205326>Relic of Progenitus</a></td>
         </tr>
         <tr>
             <td align="right">3</td>
-            <td align="left">[Nature's Claim](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438743)</td>
+            <td align="left"><a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438743>Nature's Claim</a></td>
         </tr>
         <tr>
             <td align="right">1</td>
-            <td align="left">[Shapers' Sanctuary](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435362)</td>
+            <td align="left"><a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435362>Shapers' Sanctuary</a></td>
         </tr>
         <tr>
             <td align="right">1</td>
-            <td align="left">[Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)</td>
+            <td align="left"><a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676>Thoughtseize</a></td>
         </tr>
         <tr>
             <td align="right">2</td>
-            <td align="left">[Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)</td>
+            <td align="left"><a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676>Thoughtseize</a></td>
         </tr>
         <tr>
             <td align="right">4</td>
-            <td align="left">[Nature's Claim](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438743)</td>
+            <td align="left"><a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438743>Nature's Claim</a></td>
         </tr>
         <tr>
             <td align="right">1</td>
@@ -508,175 +510,175 @@
         </tr>
         <tr>
             <td align="right">1</td>
-            <td align="left">[Dispatch](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439432)</td>
+            <td align="left"><a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439432>Dispatch</a></td>
         </tr>
         <tr>
             <td align="right">3</td>
-            <td align="left">[Etched Champion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397710)</td>
+            <td align="left"><a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397710>Etched Champion</a></td>
         </tr>
         <tr>
             <td align="right">1</td>
-            <td align="left">[Nissa, Voice of Zendikar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417424)</td>
+            <td align="left"><a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417424>Nissa, Voice of Zendikar</a></td>
         </tr>
         <tr>
             <td align="right">3</td>
-            <td align="left">[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)</td>
+            <td align="left"><a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101>Damping Sphere</a></td>
         </tr>
         <tr>
             <td align="right">1</td>
-            <td align="left">[Torpor Orb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=233069)</td>
+            <td align="left"><a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=233069>Torpor Orb</a></td>
         </tr>
         <tr>
             <td align="right">1</td>
-            <td align="left">[The Antiquities War](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442930)</td>
+            <td align="left"><a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442930>The Antiquities War</a></td>
         </tr>
         <tr>
             <td align="right">1</td>
-            <td align="left">[Evolutionary Leap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=None)</td>
+            <td align="left"><a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=None>Evolutionary Leap</a></td>
         </tr>
         <tr>
             <td align="right">1</td>
-            <td align="left">[Welding Jar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=48328)</td>
+            <td align="left"><a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=48328>Welding Jar</a></td>
         </tr>
         <tr>
             <td align="right">2</td>
-            <td align="left">[Shapers' Sanctuary](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435362)</td>
+            <td align="left"><a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435362>Shapers' Sanctuary</a></td>
         </tr>
         <tr>
             <td align="right">2</td>
-            <td align="left">[Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426046)</td>
+            <td align="left"><a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426046>Grafdigger's Cage</a></td>
         </tr>
         <tr>
             <td align="right">2</td>
-            <td align="left">[The Antiquities War](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442930)</td>
+            <td align="left"><a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442930>The Antiquities War</a></td>
         </tr>
         <tr>
             <td align="right">1</td>
-            <td align="left">[Spell Pierce](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425876)</td>
+            <td align="left"><a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425876>Spell Pierce</a></td>
         </tr>
         <tr>
             <td align="right">1</td>
-            <td align="left">[Master of Etherium](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205325)</td>
+            <td align="left"><a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205325>Master of Etherium</a></td>
         </tr>
         <tr>
             <td align="right">1</td>
-            <td align="left">[Bitterblossom](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=None)</td>
+            <td align="left"><a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=None>Bitterblossom</a></td>
         </tr>
         <tr>
             <td align="right">1</td>
-            <td align="left">[Blood Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370419)</td>
+            <td align="left"><a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370419>Blood Moon</a></td>
         </tr>
         <tr>
             <td align="right">1</td>
-            <td align="left">[Spellskite](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397743)</td>
+            <td align="left"><a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397743>Spellskite</a></td>
         </tr>
         <tr>
             <td align="right">2</td>
-            <td align="left">[Evolutionary Leap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=None)</td>
+            <td align="left"><a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=None>Evolutionary Leap</a></td>
         </tr>
         <tr>
             <td align="right">2</td>
-            <td align="left">[Dispatch](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439432)</td>
+            <td align="left"><a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439432>Dispatch</a></td>
         </tr>
         <tr>
             <td align="right">3</td>
-            <td align="left">[Gut Shot](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397673)</td>
+            <td align="left"><a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397673>Gut Shot</a></td>
         </tr>
         <tr>
             <td align="right">3</td>
-            <td align="left">[Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426046)</td>
+            <td align="left"><a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426046>Grafdigger's Cage</a></td>
         </tr>
         <tr>
             <td align="right">1</td>
-            <td align="left">[Hazoret the Fervent](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=429886)</td>
+            <td align="left"><a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=429886>Hazoret the Fervent</a></td>
         </tr>
         <tr>
             <td align="right">1</td>
-            <td align="left">[Ray of Revelation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=34199)</td>
+            <td align="left"><a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=34199>Ray of Revelation</a></td>
         </tr>
         <tr>
             <td align="right">1</td>
-            <td align="left">[Ceremonious Rejection](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417613)</td>
+            <td align="left"><a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417613>Ceremonious Rejection</a></td>
         </tr>
         <tr>
             <td align="right">2</td>
-            <td align="left">[Spell Pierce](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425876)</td>
+            <td align="left"><a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425876>Spell Pierce</a></td>
         </tr>
         <tr>
             <td align="right">1</td>
-            <td align="left">[Path to Exile](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=None)</td>
+            <td align="left"><a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=None>Path to Exile</a></td>
         </tr>
         <tr>
             <td align="right">1</td>
-            <td align="left">[Karn, Scion of Urza](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442889)</td>
+            <td align="left"><a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442889>Karn, Scion of Urza</a></td>
         </tr>
         <tr>
             <td align="right">2</td>
-            <td align="left">[Path to Exile](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=None)</td>
+            <td align="left"><a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=None>Path to Exile</a></td>
         </tr>
         <tr>
             <td align="right">1</td>
-            <td align="left">[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439604)</td>
+            <td align="left"><a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439604>Mountain</a></td>
         </tr>
         <tr>
             <td align="right">1</td>
-            <td align="left">[Scale of Chiss-Goria](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=48400)</td>
+            <td align="left"><a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=48400>Scale of Chiss-Goria</a></td>
         </tr>
         <tr>
             <td align="right">2</td>
-            <td align="left">[Scale of Chiss-Goria](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=48400)</td>
+            <td align="left"><a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=48400>Scale of Chiss-Goria</a></td>
         </tr>
         <tr>
             <td align="right">1</td>
-            <td align="left">[Galvanic Blast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442781)</td>
+            <td align="left"><a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442781>Galvanic Blast</a></td>
         </tr>
         <tr>
             <td align="right">1</td>
-            <td align="left">[Eidolon of Rhetoric](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=380409)</td>
+            <td align="left"><a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=380409>Eidolon of Rhetoric</a></td>
         </tr>
         <tr>
             <td align="right">2</td>
-            <td align="left">[Eidolon of Rhetoric](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=380409)</td>
+            <td align="left"><a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=380409>Eidolon of Rhetoric</a></td>
         </tr>
         <tr>
             <td align="right">1</td>
-            <td align="left">[Snow-Covered Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=184814)</td>
+            <td align="left"><a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=184814>Snow-Covered Mountain</a></td>
         </tr>
         <tr>
             <td align="right">1</td>
-            <td align="left">[Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=None)</td>
+            <td align="left"><a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=None>Tormod's Crypt</a></td>
         </tr>
         <tr>
             <td align="right">2</td>
-            <td align="left">[Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=None)</td>
+            <td align="left"><a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=None>Tormod's Crypt</a></td>
         </tr>
         <tr>
             <td align="right">1</td>
-            <td align="left">[Dromoka's Command](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=None)</td>
+            <td align="left"><a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=None>Dromoka's Command</a></td>
         </tr>
         <tr>
             <td align="right">1</td>
-            <td align="left">[Detention Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=270356)</td>
+            <td align="left"><a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=270356>Detention Sphere</a></td>
         </tr>
         <tr>
             <td align="right">2</td>
-            <td align="left">[Dromoka's Command](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=None)</td>
+            <td align="left"><a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=None>Dromoka's Command</a></td>
         </tr>
         <tr>
             <td align="right">2</td>
-            <td align="left">[Spellskite](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397743)</td>
+            <td align="left"><a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397743>Spellskite</a></td>
         </tr>
         <tr>
             <td align="right">2</td>
-            <td align="left">[Detention Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=270356)</td>
+            <td align="left"><a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=270356>Detention Sphere</a></td>
         </tr>
         <tr>
             <td align="right">3</td>
-            <td align="left">[Dispatch](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439432)</td>
+            <td align="left"><a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439432>Dispatch</a></td>
         </tr>
         <tr>
             <td align="right">3</td>
-            <td align="left">[Ancient Grudge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=None)</td>
+            <td align="left"><a href=http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=None>Ancient Grudge</a></td>
         </tr>
     </tbody>
 </table>
