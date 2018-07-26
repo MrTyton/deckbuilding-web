@@ -113,7 +113,7 @@ def run(title, dir, format):
     
     if not exists(f"./{format}/decks"):
         makedirs(f"./{format}/decks")
-    with open(f"./{format}/decks/{title}.md", "w") as fp:
+    with open(f"./{format}/decks/{title.replace(' ', '_')}.md", "w") as fp:
         fp.write(everything)
 
 if __name__ == "__main__":

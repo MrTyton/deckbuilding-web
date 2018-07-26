@@ -9,7 +9,7 @@ from math import ceil
 
 def format_paths(format):
     mypath = f"./{format}/decks/"
-    onlyfiles = [f"[{f[:-3]}]({mypath}{f.replace(' ', '%20')})" for f in listdir(mypath) if isfile(join(mypath, f))]
+    onlyfiles = [f"[{f[:-3].replace('_', ' ')}]({mypath}{f})" for f in listdir(mypath) if isfile(join(mypath, f))]
     return onlyfiles
     
 def chunks(l, n):
