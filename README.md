@@ -1,5 +1,6 @@
 
 # Maindeck
+
 |                                          Artifact                                          |                                           Creature                                            |                                          Instant                                          |                                             Land                                             |                                          Planeswalker                                          |
 |--------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
 |4 [Cranial Plating](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205328)|4 [Arcbound Ravager](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370510)  |3 [Galvanic Blast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442781)|4 [Blinkmoth Nexus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370407)  |2 [Karn, Scion of Urza](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442889)|
@@ -13,6 +14,7 @@
 
 
 # Sideboard
+
 |                                           Artifact                                           |                                          Creature                                          |                                           Enchantment                                           |                                          Instant                                           |                                       Sorcery                                        |
 |----------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
 |2 [Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)   |2 [Etched Champion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397710)|2 [Ghirapur Aether Grid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=398517)|2 [Ancient Grudge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=None)   |2 [Whipflare](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446866)|
@@ -20,6 +22,7 @@
 
 
 # Other Options
+
 <table>
 <tr><th>Maindeck Options </th><th>Sideboard Options</th></tr>
 <tr><td valign="top">
