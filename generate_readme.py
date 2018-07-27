@@ -1,7 +1,6 @@
 from os import listdir
 from os.path import isfile, join
 import pytablewriter
-from pprint import pprint
 from io import StringIO
 from itertools import zip_longest
 from math import ceil

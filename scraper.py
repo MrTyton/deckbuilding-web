@@ -1,7 +1,6 @@
 from bs4 import BeautifulSoup as BS
 from requests import get
 from tempfile import NamedTemporaryFile
-from tqdm import tqdm
 from time import sleep
 
 """

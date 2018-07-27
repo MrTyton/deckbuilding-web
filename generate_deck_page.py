@@ -1,7 +1,5 @@
 from mtgsdk import Card
-#from processing import run
 from itertools import groupby, zip_longest
-from pprint import pprint
 import pytablewriter
 from io import StringIO
 import os

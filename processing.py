@@ -1,7 +1,6 @@
 from classes import Ranking, parseDecklist
 from os import listdir, remove, makedirs
 from os.path import isfile, join, exists
-from tqdm import tqdm
 from scraper import load_page
 from optparse import OptionParser
 
@@ -65,52 +64,6 @@ def call_this_function(name, format, n=2, mypath=None, onlyfiles=None):
         for cardname, quantity in data[2]:
             fp.write("{} {}\n".format(quantity, cardname))
 
-    
-if __name__ == "__main__":
-    option_parser = OptionParser()
-    option_parser.add_option(
-        "-n",
-        "--number",
-        dest="n",
-        default=2,
-        action="store",
-        type="int",
-        help="How many combinations of cards to look at. The higher the number, the longer the program will take to run. Default is 2.")
-    option_parser.add_option(
-        "-u",
-        "--url",
-        dest="url",
-        action="store",
-        type="string",
-        help="mtgtop8 url to the archetype that you want to determine the best list for. Either this or -f must be specified. Example: 'http://mtgtop8.com/archetype?a=189&meta=51&f=MO'")
-    option_parser.add_option(
-        "-f",
-        "--folder",
-        dest="folder",
-        action="store",
-        type="string",
-        help="Path to folder containing decklists. Either this or -u must be specified.")
-
-    options, args = option_parser.parse_args()
-    if not options.url and not options.folder:
-        print "Need an input. Use -h for more information."
-        exit()
-    elif options.url and options.folder:
-        print "Choose one of the input types."
-        exit()
-    if options.url:
-        options.url = load_page(options.url)
-    data = run(options.n, options.folder, options.url)
-    
-    for filename, cur_data in zip(['Maindeck', 'Maindeck_options', 'Sideboard', 'Sideboard_options'], data):
-        print filename, cur_data
-        print type(cur_data[0])
-        if type(cur_data[0]) != tuple:
-            cur_data = [(x.name, x.position) for x in cur_data]
-        print filename, cur_data
-        with open("{}.txt".format(filename), "w") as fp:
-            for name, quantity in cur_data:
-                fp.write("{} {}\n".format(quantity, name))
 
         
     

@@ -1,6 +1,5 @@
 from bs4 import BeautifulSoup
 from requests import get
-from pprint import pprint
 from processing import call_this_function
 from scraper import load_page
 from time import time, sleep
