@@ -68,8 +68,8 @@ def generate_markdown_table_mainside(link_dictionary, title):
     writer.stream = res
     writer.table_name=title
     summation = {}
-    for cur in link_directory:
-        nums = [link_directory[cur][x].split(" ")[0] for x in link_directory[cur]]
+    for cur in link_dictionary:
+        nums = [link_dictionary[cur][x].split(" ")[0] for x in link_dictionary[cur]]
         summation[cur] = sum(int(x) for x in nums)
     writer.header_list = list([f"{x} ({summation[x]})" for x in link_dictionary.keys()])
     writer.value_matrix = list(zip_longest(*list(link_dictionary.values())))
