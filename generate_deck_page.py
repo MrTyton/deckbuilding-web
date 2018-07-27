@@ -67,7 +67,11 @@ def generate_markdown_table_mainside(link_dictionary, title):
     writer = pytablewriter.MarkdownTableWriter()
     writer.stream = res
     writer.table_name=title
-    writer.header_list = list([f"{x} ({sum(int(link_dictionary[x][y].split(" ")[0]) for y in link_directory[x])})" for x in link_dictionary.keys()])
+    summation = {}
+    for cur in link_directory:
+        nums = [link_directory[cur][x].split(" ")[0] for x in link_directory[cur]]
+        summation[cur] = sum(int(x) for x in nums)
+    writer.header_list = list([f"{x} ({summation[x]})" for x in link_dictionary.keys()])
     writer.value_matrix = list(zip_longest(*list(link_dictionary.values())))
     writer.write_table()
     return res
