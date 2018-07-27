@@ -15,9 +15,9 @@
 
 # Sideboard
 
-|                                        Enchantment (1)                                         |                                     Instant (5)                                      |                                        Sorcery (9)                                         |
-|------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
-|1 [Arguel's Blood Fast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439316)|1 [Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)   |3 [Doomfall](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430751)       |
-|                                                                                                |1 [Cast Down](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442969)|4 [Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=None)           |
-|                                                                                                |3 [Magma Spray](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=None)|2 [Sweltering Suns](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426851)|
+|                                        Enchantment (1)                                         |                                      Instant (5)                                       |                                        Sorcery (9)                                         |
+|------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
+|1 [Arguel's Blood Fast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439316)|1 [Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)     |3 [Doomfall](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430751)       |
+|                                                                                                |1 [Cast Down](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442969)  |4 [Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=270465)         |
+|                                                                                                |3 [Magma Spray](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=338470)|2 [Sweltering Suns](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426851)|
 

@@ -30,7 +30,7 @@ def return_url_line_type(cardName):
     cards = Card.where(name=name).iter()
     try:
         card = next(cards)
-        while("Land" not in card.type and "Creature" not in card.type and "Sorcery" not in card.type and "Instant" not in card.type and "Enchantment" not in card.type and "Artifact" not in card.type and "Planeswalker" not in card.type):
+        while(("Land" not in card.type and "Creature" not in card.type and "Sorcery" not in card.type and "Instant" not in card.type and "Enchantment" not in card.type and "Artifact" not in card.type and "Planeswalker" not in card.type) or (not card.multiverse_id)):
             card = next(cards)
     except:
         return cardName, "Unknown", name
