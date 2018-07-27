@@ -27,7 +27,7 @@
 
 |*n*<sup>th</sup> copy|                                         Maindeck Card                                          |*n*<sup>th</sup> copy|                                        Sideboard Card                                         |
 |--------------------:|------------------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------------|
-|                    3|[Ramunap Ruins](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430870)        |                    1|[Boil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=4330)                  |
+|                    3|[Ramunap Ruins](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430870)        |                    1|[Boil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430682)                |
 |                    3|[Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)               |                    1|[Shattering Spree](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=97233)     |
 |                    2|[Koth of the Hammer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=266362)   |                    1|[Koth of the Hammer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=266362)  |
 |                    2|[Pia and Kiran Nalaar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442783) |                    2|[Goblin Chainwhirler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443017) |

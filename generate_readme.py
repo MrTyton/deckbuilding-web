@@ -36,7 +36,7 @@ def create(format):
     return q.getvalue()
     
 def output():
-    everything = ""
+    everything = "# Stock Decklists\n\n"
     for format in ["Standard", "Modern", "Legacy"]:
         everything += "\n" + create(format)
         

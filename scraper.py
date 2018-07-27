@@ -24,7 +24,7 @@ def load_page(url):
     urls = ["http://mtgtop8.com/{}".format(x.find("a")['href']) for x in decks]
     print "{} decks to download and process...".format(len(urls))
     decklists = []
-    for cur in tqdm(urls):
+    for cur in urls:
         decklists.append(parse_deck_page(cur))#list(map(parse_deck_page, urls))
     return decklists
 
