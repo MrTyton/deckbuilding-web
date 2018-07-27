@@ -1,7 +1,7 @@
 
 # Maindeck
 
-|                                           Creature (8)                                            |                                     Instant (2)                                      |                                           Land (6)                                           |                                     Sorcery (1)                                     |
+|                                           Creature (26)                                           |                                     Instant (6)                                      |                                          Land (25)                                           |                                     Sorcery (3)                                     |
 |---------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|
 |4 [Glorybringer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426836)          |3 [Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)   |4 [Aether Hub](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417815)       |3 [Banefire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397676)|
 |3 [Jadelight Ranger](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439793)      |3 [Magma Spray](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=None)|7 [Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439605)           |                                                                                     |
@@ -15,7 +15,7 @@
 
 # Sideboard
 
-|                                          Creature (3)                                           |                                         Instant (1)                                         |                                           Planeswalker (2)                                            |    Unknown (1)     |
+|                                          Creature (6)                                           |                                         Instant (3)                                         |                                           Planeswalker (5)                                            |    Unknown (1)     |
 |-------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|--------------------|
 |2 [Deathgorge Scavenger](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435339)|3 [Chandra's Defeat](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430775)|3 [Chandra, Torch of Defiance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417683)|1 Struggle / Survive|
 |2 [Reclamation Sage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=None)      |                                                                                             |2 [Vivien Reid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447344)               |                    |

@@ -1,7 +1,7 @@
 
 # Maindeck
 
-|                                           Creature (9)                                            |                                         Instant (2)                                          |                                             Land (10)                                             |
+|                                           Creature (35)                                           |                                         Instant (7)                                          |                                             Land (18)                                             |
 |---------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
 |4 [Dwynen's Elite](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442739)        |3 [Chord of Calling](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=89064)  |2 [Blooming Marsh](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417816)        |
 |4 [Elvish Archdruid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442741)      |4 [Collected Company](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394519)|4 [Cavern of Souls](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426057)       |
@@ -17,7 +17,7 @@
 
 # Sideboard
 
-|                                           Creature (6)                                            |                                        Enchantment (2)                                         |                                        Instant (1)                                         |                                         Sorcery (1)                                          |
+|                                           Creature (7)                                            |                                        Enchantment (6)                                         |                                        Instant (1)                                         |                                         Sorcery (1)                                          |
 |---------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
 |1 [Burrenton Forge-Tender](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438580)|3 [Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205013)|1 [Fracturing Gust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386290)|1 [Lead the Stampede](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438739)|
 |1 [Chameleon Colossus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373321)    |3 [Shapers' Sanctuary](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435362) |                                                                                            |                                                                                              |

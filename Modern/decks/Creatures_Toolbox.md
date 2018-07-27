@@ -1,7 +1,7 @@
 
 # Maindeck
 
-|                                         Creature (11)                                          |                                         Instant (2)                                          |                                          Land (11)                                           |
+|                                         Creature (29)                                          |                                         Instant (8)                                          |                                          Land (23)                                           |
 |------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
 |4 [Birds of Paradise](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=None)    |4 [Chord of Calling](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=89064)  |1 [Breeding Pool](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405095)    |
 |4 [Devoted Druid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=135500)      |4 [Collected Company](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394519)|3 [Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439605)           |
@@ -18,7 +18,7 @@
 
 # Sideboard
 
-|                                          Creature (7)                                          |                                  Enchantment (1)                                   |                                       Instant (2)                                       |
+|                                          Creature (8)                                          |                                  Enchantment (1)                                   |                                       Instant (6)                                       |
 |------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
 |1 [Eidolon of Rhetoric](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=380409)|1 [Worship](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=429865)|3 [Abrupt Decay](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425971)|
 |1 [Kataki, War's Wage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370414) |                                                                                    |3 [Path to Exile](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=None) |

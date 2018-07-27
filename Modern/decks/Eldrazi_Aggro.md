@@ -1,7 +1,7 @@
 
 # Maindeck
 
-|                                    Artifact (1)                                     |                                         Creature (6)                                         |                                       Instant (2)                                       |                                              Land (11)                                              |                                         Sorcery (1)                                          |
+|                                    Artifact (1)                                     |                                        Creature (23)                                         |                                       Instant (6)                                       |                                              Land (26)                                              |                                         Sorcery (4)                                          |
 |-------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
 |1 [Mind Stone](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=None)|3 [Bloodbraid Elf](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=None)     |2 [Dismember](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=None)     |3 [Cavern of Souls](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426057)         |4 [Ancient Stirrings](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442148)|
 |                                                                                     |4 [Eldrazi Obligator](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407606)|4 [Lightning Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=None)|4 [Eldrazi Temple](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397690)          |                                                                                              |
@@ -18,7 +18,7 @@
 
 # Sideboard
 
-|                                           Artifact (7)                                           |                                          Instant (3)                                          |
+|                                          Artifact (10)                                           |                                          Instant (5)                                          |
 |--------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
 |1 [Chalice of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370411)  |2 [Natural State](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407646)     |
 |1 [Engineered Explosives](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370549)|1 [Spatial Contortion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407518)|
