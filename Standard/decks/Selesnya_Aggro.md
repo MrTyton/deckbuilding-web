@@ -1,6 +1,6 @@
 # Selesnya Aggro
 
-####[Download MTGO](../collection/Selesnya%20Aggro.txt)
+#### [Download MTGO](../collection/Selesnya%20Aggro/Selesnya%20Aggro.txt)
 # Maindeck
 
 |                                               Artifact (2)                                               |                                           Creature (25)                                            |                                   Enchantment (3)                                   |                                          Instant (4)                                          |                                          Land (24)                                          |                                      Planeswalker (2)                                       |

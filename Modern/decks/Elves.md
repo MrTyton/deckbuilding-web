@@ -1,6 +1,6 @@
 # Elves
 
-####[Download MTGO](../collection/Elves.txt)
+#### [Download MTGO](../collection/Elves/Elves.txt)
 # Maindeck
 
 |                                           Creature (35)                                           |                                         Instant (7)                                          |                                             Land (18)                                             |

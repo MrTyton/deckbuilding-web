@@ -1,6 +1,6 @@
 # UWx Midrange
 
-####[Download MTGO](../collection/UWx%20Midrange.txt)
+#### [Download MTGO](../collection/UWx%20Midrange/UWx%20Midrange.txt)
 # Maindeck
 
 |                                         Creature (12)                                         |                                        Instant (20)                                        |                                          Land (24)                                           |                                      Sorcery (4)                                       |

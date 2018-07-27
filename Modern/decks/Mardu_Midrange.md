@@ -1,6 +1,6 @@
 # Mardu Midrange
 
-####[Download MTGO](../collection/Mardu%20Midrange.txt)
+#### [Download MTGO](../collection/Mardu%20Midrange/Mardu%20Midrange.txt)
 # Maindeck
 
 |                                        Creature (8)                                         |                                    Enchantment (2)                                    |                                        Instant (11)                                         |                                           Land (20)                                           |                                       Planeswalker (1)                                       |                                           Sorcery (18)                                            |

@@ -1,6 +1,6 @@
 # Creatures Toolbox
 
-####[Download MTGO](../collection/Creatures%20Toolbox.txt)
+#### [Download MTGO](../collection/Creatures%20Toolbox/Creatures%20Toolbox.txt)
 # Maindeck
 
 |                                         Creature (29)                                          |                                         Instant (8)                                          |                                          Land (23)                                           |

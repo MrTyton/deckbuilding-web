@@ -1,6 +1,6 @@
 # Azorius Aggro
 
-####[Download MTGO](../collection/Azorius%20Aggro.txt)
+#### [Download MTGO](../collection/Azorius%20Aggro/Azorius%20Aggro.txt)
 # Maindeck
 
 |                                         Artifact (4)                                         |                                         Creature (29)                                          |                                       Enchantment (3)                                       |                                           Land (24)                                           |

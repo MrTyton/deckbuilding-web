@@ -1,6 +1,6 @@
 # Eldrazi Aggro
 
-####[Download MTGO](../collection/Eldrazi%20Aggro.txt)
+#### [Download MTGO](../collection/Eldrazi%20Aggro/Eldrazi%20Aggro.txt)
 # Maindeck
 
 |                                          Artifact (6)                                          |                                             Creature (31)                                             |                                    Instant (1)                                     |                                              Land (21)                                              |                                     Sorcery (1)                                      |

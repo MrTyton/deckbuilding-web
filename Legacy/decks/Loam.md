@@ -1,6 +1,6 @@
 # Loam
 
-####[Download MTGO](../collection/Loam.txt)
+#### [Download MTGO](../collection/Loam/Loam.txt)
 # Maindeck
 
 |                                          Artifact (8)                                          |                                           Creature (15)                                            |                                      Enchantment (1)                                      |                                        Instant (6)                                        |                                              Land (23)                                              |                                       Planeswalker (3)                                       |                                          Sorcery (4)                                          |

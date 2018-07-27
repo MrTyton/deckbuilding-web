@@ -1,6 +1,6 @@
 # Tezzeret Control
 
-####[Download MTGO](../collection/Tezzeret%20Control.txt)
+#### [Download MTGO](../collection/Tezzeret%20Control/Tezzeret%20Control.txt)
 # Maindeck
 
 |                                          Artifact (19)                                           |                                        Creature (7)                                         |                                      Instant (4)                                       |                                          Land (21)                                           |                                             Planeswalker (6)                                             |                                          Sorcery (3)                                          |

@@ -1,6 +1,6 @@
 # BUG Control
 
-####[Download MTGO](../collection/BUG%20Control.txt)
+#### [Download MTGO](../collection/BUG%20Control/BUG%20Control.txt)
 # Maindeck
 
 |                                       Artifact (1)                                       |                                             Creature (16)                                             |                                      Instant (15)                                       |                                          Land (19)                                           |                                          Planeswalker (3)                                          |                                        Sorcery (6)                                         |

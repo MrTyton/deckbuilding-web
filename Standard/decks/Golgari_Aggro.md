@@ -1,6 +1,6 @@
 # Golgari Aggro
 
-####[Download MTGO](../collection/Golgari%20Aggro.txt)
+#### [Download MTGO](../collection/Golgari%20Aggro/Golgari%20Aggro.txt)
 # Maindeck
 
 |                                           Artifact (2)                                            |                                           Creature (30)                                            |                                         Instant (2)                                          |                                          Land (22)                                           |                                          Sorcery (4)                                           |

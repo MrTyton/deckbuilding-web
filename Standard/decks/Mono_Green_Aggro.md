@@ -1,6 +1,6 @@
 # Mono Green Aggro
 
-####[Download MTGO](../collection/Mono%20Green%20Aggro.txt)
+#### [Download MTGO](../collection/Mono%20Green%20Aggro/Mono%20Green%20Aggro.txt)
 # Maindeck
 
 |                                               Artifact (4)                                               |                                           Creature (28)                                           |                                          Instant (4)                                          |                                          Land (24)                                           |

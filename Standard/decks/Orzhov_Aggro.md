@@ -1,6 +1,6 @@
 # Orzhov Aggro
 
-####[Download MTGO](../collection/Orzhov%20Aggro.txt)
+#### [Download MTGO](../collection/Orzhov%20Aggro/Orzhov%20Aggro.txt)
 # Maindeck
 
 |                                       Artifact (3)                                        |                                         Creature (17)                                          |                                        Enchantment (7)                                        |                                      Instant (4)                                      |                                           Land (24)                                            |                                        Planeswalker (5)                                         |

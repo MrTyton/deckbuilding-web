@@ -1,6 +1,6 @@
 # Bant
 
-####[Download MTGO](../collection/Bant.txt)
+#### [Download MTGO](../collection/Bant/Bant.txt)
 # Maindeck
 
 |                                       Artifact (2)                                       |                                           Creature (18)                                            |                                         Instant (15)                                          |                                          Land (18)                                          |                                          Planeswalker (2)                                          |                                          Sorcery (5)                                          |

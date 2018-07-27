@@ -1,6 +1,6 @@
 # Valakut
 
-####[Download MTGO](../collection/Valakut.txt)
+#### [Download MTGO](../collection/Valakut/Valakut.txt)
 # Maindeck
 
 |                                        Creature (12)                                        |                                        Instant (6)                                         |                                               Land (27)                                               |                                          Sorcery (15)                                          |

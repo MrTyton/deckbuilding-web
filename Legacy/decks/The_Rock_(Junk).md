@@ -1,6 +1,6 @@
 # The Rock (Junk)
 
-####[Download MTGO](../collection/The%20Rock%20(Junk).txt)
+#### [Download MTGO](../collection/The%20Rock%20(Junk)/The%20Rock%20(Junk).txt)
 # Maindeck
 
 |                                       Artifact (2)                                       |                                        Creature (18)                                        |                                      Enchantment (1)                                      |                                          Instant (8)                                          |                                          Land (19)                                           |                                         Planeswalker (4)                                          |                                        Sorcery (8)                                         |

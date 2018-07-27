@@ -1,6 +1,6 @@
 # UWx Control
 
-####[Download MTGO](../collection/UWx%20Control.txt)
+#### [Download MTGO](../collection/UWx%20Control/UWx%20Control.txt)
 # Maindeck
 
 |                                           Artifact (1)                                           |                                        Creature (4)                                         |                                        Enchantment (3)                                        |                                         Instant (16)                                          |                                         Land (21)                                          |                                          Planeswalker (3)                                          |                                         Sorcery (12)                                          |

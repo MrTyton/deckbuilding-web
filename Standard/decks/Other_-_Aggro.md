@@ -1,6 +1,6 @@
 # Other - Aggro
 
-####[Download MTGO](../collection/Other%20-%20Aggro.txt)
+#### [Download MTGO](../collection/Other%20-%20Aggro/Other%20-%20Aggro.txt)
 # Maindeck
 
 |                                           Artifact (9)                                            |                                           Creature (21)                                           |                                        Instant (2)                                         |                                          Land (24)                                           |                                        Planeswalker (4)                                        |

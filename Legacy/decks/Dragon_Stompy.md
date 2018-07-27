@@ -1,6 +1,6 @@
 # Dragon Stompy
 
-####[Download MTGO](../collection/Dragon%20Stompy.txt)
+#### [Download MTGO](../collection/Dragon%20Stompy/Dragon%20Stompy.txt)
 # Maindeck
 
 |                                         Artifact (14)                                          |                                         Creature (15)                                          |                                    Enchantment (4)                                    |                                          Land (19)                                          |                                           Planeswalker (4)                                            |                                         Sorcery (4)                                         |

@@ -1,6 +1,6 @@
 # Aluren
 
-####[Download MTGO](../collection/Aluren.txt)
+#### [Download MTGO](../collection/Aluren/Aluren.txt)
 # Maindeck
 
 |                                             Creature (18)                                             |                                  Enchantment (4)                                  |                                      Instant (11)                                       |                                          Land (21)                                           |                                          Planeswalker (2)                                          |                                      Sorcery (4)                                       |

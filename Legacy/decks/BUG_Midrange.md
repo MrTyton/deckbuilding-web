@@ -1,6 +1,6 @@
 # BUG Midrange
 
-####[Download MTGO](../collection/BUG%20Midrange.txt)
+#### [Download MTGO](../collection/BUG%20Midrange/BUG%20Midrange.txt)
 # Maindeck
 
 |                                             Creature (18)                                             |                                      Instant (13)                                       |                                          Land (18)                                           |                                          Planeswalker (3)                                          |                                        Sorcery (8)                                         |

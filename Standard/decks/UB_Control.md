@@ -1,6 +1,6 @@
 # UB Control
 
-####[Download MTGO](../collection/UB%20Control.txt)
+#### [Download MTGO](../collection/UB%20Control/UB%20Control.txt)
 # Maindeck
 
 |                                          Creature (5)                                          |                                        Enchantment (2)                                        |                                         Instant (23)                                         |                                          Land (26)                                          |                                          Planeswalker (4)                                           |

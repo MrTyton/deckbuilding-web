@@ -1,6 +1,6 @@
 # Other - Control
 
-####[Download MTGO](../collection/Other%20-%20Control.txt)
+#### [Download MTGO](../collection/Other%20-%20Control/Other%20-%20Control.txt)
 # Maindeck
 
 |                                       Artifact (1)                                       |                                        Creature (13)                                         |                                        Enchantment (2)                                        |                                      Instant (14)                                      |                                          Land (16)                                           |                                          Planeswalker (4)                                          |                                           Sorcery (10)                                            |

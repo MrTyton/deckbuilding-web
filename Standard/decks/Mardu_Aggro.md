@@ -1,6 +1,6 @@
 # Mardu Aggro
 
-####[Download MTGO](../collection/Mardu%20Aggro.txt)
+#### [Download MTGO](../collection/Mardu%20Aggro/Mardu%20Aggro.txt)
 # Maindeck
 
 |                                       Artifact (2)                                        |                                          Creature (18)                                           |                                         Instant (9)                                          |                                           Land (23)                                           |                                           Planeswalker (6)                                            |  Unknown (2)  |

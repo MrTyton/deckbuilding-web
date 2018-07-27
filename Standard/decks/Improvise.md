@@ -1,6 +1,6 @@
 # Improvise
 
-####[Download MTGO](../collection/Improvise.txt)
+#### [Download MTGO](../collection/Improvise/Improvise.txt)
 # Maindeck
 
 |                                            Artifact (19)                                             |                                           Creature (8)                                            |                                        Enchantment (2)                                         |                                          Instant (7)                                           |                                          Land (19)                                           |                                        Planeswalker (1)                                        |                                           Sorcery (3)                                           |   Unknown (1)   |

@@ -1,6 +1,6 @@
 # Jund
 
-####[Download MTGO](../collection/Jund.txt)
+#### [Download MTGO](../collection/Jund/Jund.txt)
 # Maindeck
 
 |                                        Creature (19)                                        |                                      Enchantment (1)                                      |                                        Instant (10)                                         |                                              Land (20)                                              |                                         Planeswalker (4)                                          |                                        Sorcery (6)                                         |

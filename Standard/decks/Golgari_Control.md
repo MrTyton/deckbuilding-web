@@ -1,6 +1,6 @@
 # Golgari Control
 
-####[Download MTGO](../collection/Golgari%20Control.txt)
+#### [Download MTGO](../collection/Golgari%20Control/Golgari%20Control.txt)
 # Maindeck
 
 |                                          Creature (7)                                          |                                        Enchantment (5)                                         |                                         Instant (11)                                         |                                          Land (25)                                           |                                        Planeswalker (6)                                         |                                        Sorcery (5)                                         |  Unknown (1)   |

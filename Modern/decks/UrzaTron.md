@@ -1,6 +1,6 @@
 # UrzaTron
 
-####[Download MTGO](../collection/UrzaTron.txt)
+#### [Download MTGO](../collection/UrzaTron/UrzaTron.txt)
 # Maindeck
 
 |                                         Artifact (18)                                          |                                             Creature (8)                                              |                                    Instant (1)                                     |                                           Land (19)                                           |                                          Planeswalker (6)                                          |                                         Sorcery (8)                                          |

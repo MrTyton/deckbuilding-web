@@ -1,6 +1,6 @@
 # Smallpox
 
-####[Download MTGO](../collection/Smallpox.txt)
+#### [Download MTGO](../collection/Smallpox/Smallpox.txt)
 # Maindeck
 
 |                                    Artifact (4)                                     |                                         Enchantment (4)                                         |                                      Instant (7)                                       |                                              Land (23)                                              |                                       Planeswalker (4)                                       |                                           Sorcery (18)                                            |

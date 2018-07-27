@@ -1,6 +1,6 @@
 # Grixis Aggro
 
-####[Download MTGO](../collection/Grixis%20Aggro.txt)
+#### [Download MTGO](../collection/Grixis%20Aggro/Grixis%20Aggro.txt)
 # Maindeck
 
 |                                            Creature (17)                                            |                                        Enchantment (1)                                         |                                          Instant (14)                                          |                                           Land (26)                                           |                                          Planeswalker (1)                                           |   Unknown (1)   |

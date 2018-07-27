@@ -1,6 +1,6 @@
 # Landstill
 
-####[Download MTGO](../collection/Landstill.txt)
+#### [Download MTGO](../collection/Landstill/Landstill.txt)
 # Maindeck
 
 |                                       Creature (3)                                       |                                    Enchantment (8)                                     |                                         Instant (16)                                          |                                         Land (22)                                         |                                          Planeswalker (2)                                          |                                          Sorcery (9)                                          |

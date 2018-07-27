@@ -1,6 +1,6 @@
 # KCI
 
-####[Download MTGO](../collection/KCI.txt)
+#### [Download MTGO](../collection/KCI/KCI.txt)
 # Maindeck
 
 |                                          Artifact (32)                                           |                                       Creature (6)                                       |                                              Land (18)                                              |                                         Sorcery (4)                                          |

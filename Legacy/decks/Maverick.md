@@ -1,6 +1,6 @@
 # Maverick
 
-####[Download MTGO](../collection/Maverick.txt)
+#### [Download MTGO](../collection/Maverick/Maverick.txt)
 # Maindeck
 
 |                                          Artifact (2)                                          |                                            Creature (30)                                             |                                      Enchantment (1)                                      |                                          Instant (4)                                          |                                          Land (19)                                           |                                          Sorcery (4)                                          |

@@ -1,6 +1,6 @@
 # MUD
 
-####[Download MTGO](../collection/MUD.txt)
+#### [Download MTGO](../collection/MUD/MUD.txt)
 # Maindeck
 
 |                                         Artifact (18)                                          |                                          Creature (21)                                          |                                          Land (18)                                          |                                          Planeswalker (3)                                          |

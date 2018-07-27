@@ -1,6 +1,6 @@
 # Tokens
 
-####[Download MTGO](../collection/Tokens.txt)
+#### [Download MTGO](../collection/Tokens/Tokens.txt)
 # Maindeck
 
 |                                       Enchantment (9)                                        |                                        Instant (9)                                         |                                             Land (24)                                             |                                         Planeswalker (4)                                          |                                           Sorcery (14)                                            |

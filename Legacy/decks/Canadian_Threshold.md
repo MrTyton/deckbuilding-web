@@ -1,6 +1,6 @@
 # Canadian Threshold
 
-####[Download MTGO](../collection/Canadian%20Threshold.txt)
+#### [Download MTGO](../collection/Canadian%20Threshold/Canadian%20Threshold.txt)
 # Maindeck
 
 |                                        Creature (16)                                         |                                      Instant (25)                                       |                                          Land (15)                                          |                                   Sorcery (4)                                   |

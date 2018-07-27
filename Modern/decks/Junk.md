@@ -1,6 +1,6 @@
 # Junk
 
-####[Download MTGO](../collection/Junk.txt)
+#### [Download MTGO](../collection/Junk/Junk.txt)
 # Maindeck
 
 |                                        Creature (11)                                        |                                       Instant (8)                                       |                                          Land (22)                                           |                                         Planeswalker (4)                                          |                                           Sorcery (15)                                            |

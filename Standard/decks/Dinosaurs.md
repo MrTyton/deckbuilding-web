@@ -1,6 +1,6 @@
 # Dinosaurs
 
-####[Download MTGO](../collection/Dinosaurs.txt)
+#### [Download MTGO](../collection/Dinosaurs/Dinosaurs.txt)
 # Maindeck
 
 |                                           Creature (25)                                           |                                        Enchantment (4)                                         |                                    Instant (2)                                    |                                          Land (24)                                           |                                            Sorcery (5)                                            |

@@ -1,6 +1,6 @@
 # Orzhov Midrange
 
-####[Download MTGO](../collection/Orzhov%20Midrange.txt)
+#### [Download MTGO](../collection/Orzhov%20Midrange/Orzhov%20Midrange.txt)
 # Maindeck
 
 |                                          Artifact (5)                                          |                                        Creature (15)                                         |                                          Instant (8)                                           |                                             Land (23)                                             |                                            Sorcery (9)                                            |

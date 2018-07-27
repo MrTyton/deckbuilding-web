@@ -1,6 +1,6 @@
 # Dredge
 
-####[Download MTGO](../collection/Dredge.txt)
+#### [Download MTGO](../collection/Dredge/Dredge.txt)
 # Maindeck
 
 |                                     Artifact (3)                                      |                                       Creature (20)                                       |                                     Instant (2)                                     |                                          Land (20)                                          |                                         Sorcery (15)                                          |

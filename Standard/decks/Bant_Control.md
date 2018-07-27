@@ -1,6 +1,6 @@
 # Bant Control
 
-####[Download MTGO](../collection/Bant%20Control.txt)
+#### [Download MTGO](../collection/Bant%20Control/Bant%20Control.txt)
 # Maindeck
 
 |                                      Enchantment (11)                                       |                                          Instant (7)                                           |                                              Land (26)                                               |                                           Planeswalker (3)                                           |                                              Sorcery (9)                                              |  Unknown (4)  |

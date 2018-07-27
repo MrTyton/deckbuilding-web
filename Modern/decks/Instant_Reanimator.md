@@ -1,6 +1,6 @@
 # Instant Reanimator
 
-####[Download MTGO](../collection/Instant%20Reanimator.txt)
+#### [Download MTGO](../collection/Instant%20Reanimator/Instant%20Reanimator.txt)
 # Maindeck
 
 |                                         Creature (14)                                          |                                         Instant (16)                                          |                                           Land (19)                                           |                                          Sorcery (11)                                           |

@@ -1,6 +1,6 @@
 # Walks
 
-####[Download MTGO](../collection/Walks.txt)
+#### [Download MTGO](../collection/Walks/Walks.txt)
 # Maindeck
 
 |                                      Artifact (2)                                       |                                       Creature (1)                                       |                                       Enchantment (7)                                       |                                          Instant (9)                                           |                                               Land (22)                                                |                                          Planeswalker (1)                                          |                                        Sorcery (18)                                         |

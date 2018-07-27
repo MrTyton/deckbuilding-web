@@ -1,6 +1,6 @@
 # Lantern Control
 
-####[Download MTGO](../collection/Lantern%20Control.txt)
+#### [Download MTGO](../collection/Lantern%20Control/Lantern%20Control.txt)
 # Maindeck
 
 |                                          Artifact (26)                                          |                                         Instant (5)                                          |                                          Land (18)                                           |                                           Sorcery (11)                                            |

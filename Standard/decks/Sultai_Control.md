@@ -1,6 +1,6 @@
 # Sultai Control
 
-####[Download MTGO](../collection/Sultai%20Control.txt)
+#### [Download MTGO](../collection/Sultai%20Control/Sultai%20Control.txt)
 # Maindeck
 
 |                                          Artifact (4)                                           |                                         Creature (12)                                          |                                        Enchantment (1)                                         |                                         Instant (8)                                          |                                          Land (26)                                           |                                          Planeswalker (1)                                           |                                           Sorcery (7)                                           |  Unknown (1)   |

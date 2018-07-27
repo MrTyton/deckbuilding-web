@@ -1,6 +1,6 @@
 # Death & Taxes
 
-####[Download MTGO](../collection/Death%20&%20Taxes.txt)
+#### [Download MTGO](../collection/Death%20&%20Taxes/Death%20&%20Taxes.txt)
 # Maindeck
 
 |                                          Artifact (7)                                          |                                            Creature (30)                                             |                                          Instant (4)                                          |                                         Land (19)                                          |

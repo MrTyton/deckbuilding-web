@@ -1,6 +1,6 @@
 # BUG
 
-####[Download MTGO](../collection/BUG.txt)
+#### [Download MTGO](../collection/BUG/BUG.txt)
 # Maindeck
 
 |                                           Artifact (1)                                           |                                        Creature (12)                                        |                                       Instant (9)                                        |                                          Land (21)                                           |                                          Planeswalker (4)                                          |                                           Sorcery (13)                                            |

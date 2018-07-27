@@ -1,6 +1,6 @@
 # Painter
 
-####[Download MTGO](../collection/Painter.txt)
+#### [Download MTGO](../collection/Painter/Painter.txt)
 # Maindeck
 
 |                                          Artifact (14)                                           |                                         Creature (17)                                          |                                    Enchantment (1)                                    |                                          Instant (9)                                           |                                          Land (19)                                          |

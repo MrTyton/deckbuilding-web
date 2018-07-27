@@ -1,6 +1,6 @@
 # Nahiri Control
 
-####[Download MTGO](../collection/Nahiri%20Control.txt)
+#### [Download MTGO](../collection/Nahiri%20Control/Nahiri%20Control.txt)
 # Maindeck
 
 |                                          Artifact (4)                                          |                                           Creature (5)                                           |                                    Enchantment (6)                                    |                                       Instant (4)                                        |                                           Land (24)                                           |                                           Planeswalker (9)                                            |                                         Sorcery (8)                                          |

@@ -1,6 +1,6 @@
 # All my Spells
 
-####[Download MTGO](../collection/All%20my%20Spells.txt)
+#### [Download MTGO](../collection/All%20my%20Spells/All%20my%20Spells.txt)
 # Maindeck
 
 |                                      Artifact (8)                                      |                                          Creature (27)                                           |                                        Instant (19)                                         |                                       Sorcery (6)                                       |

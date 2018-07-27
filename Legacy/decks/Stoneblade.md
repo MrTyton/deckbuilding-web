@@ -1,6 +1,6 @@
 # Stoneblade
 
-####[Download MTGO](../collection/Stoneblade.txt)
+#### [Download MTGO](../collection/Stoneblade/Stoneblade.txt)
 # Maindeck
 
 |                                           Artifact (3)                                           |                                        Creature (10)                                         |                                         Instant (16)                                          |                                          Land (24)                                          |                                          Planeswalker (2)                                          |                                          Sorcery (5)                                          |

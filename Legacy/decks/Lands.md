@@ -1,6 +1,6 @@
 # Lands
 
-####[Download MTGO](../collection/Lands.txt)
+#### [Download MTGO](../collection/Lands/Lands.txt)
 # Maindeck
 
 |                                      Artifact (4)                                      |                                    Creature (4)                                    |                                     Enchantment (6)                                      |                                        Instant (7)                                        |                                                 Land (31)                                                  |                                          Sorcery (8)                                          |

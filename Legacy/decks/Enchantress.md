@@ -1,6 +1,6 @@
 # Enchantress
 
-####[Download MTGO](../collection/Enchantress.txt)
+#### [Download MTGO](../collection/Enchantress/Enchantress.txt)
 # Maindeck
 
 |                                         Artifact (1)                                         |                                           Creature (7)                                           |                                           Enchantment (30)                                           |                                         Land (21)                                         |                                          Sorcery (1)                                          |

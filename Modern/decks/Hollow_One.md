@@ -1,6 +1,6 @@
 # Hollow One
 
-####[Download MTGO](../collection/Hollow%20One.txt)
+#### [Download MTGO](../collection/Hollow%20One/Hollow%20One.txt)
 # Maindeck
 
 |                                           Creature (24)                                           |                                       Instant (4)                                       |                                           Land (18)                                           |                                          Sorcery (14)                                           |

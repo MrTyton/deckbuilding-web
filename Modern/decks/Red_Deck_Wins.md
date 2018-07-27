@@ -1,6 +1,6 @@
 # Red Deck Wins
 
-####[Download MTGO](../collection/Red%20Deck%20Wins.txt)
+#### [Download MTGO](../collection/Red%20Deck%20Wins/Red%20Deck%20Wins.txt)
 # Maindeck
 
 |                                             Creature (13)                                             |                                       Instant (19)                                       |                                          Land (20)                                           |                                      Sorcery (8)                                      |

@@ -1,6 +1,6 @@
 # Grixis Control
 
-####[Download MTGO](../collection/Grixis%20Control.txt)
+#### [Download MTGO](../collection/Grixis%20Control/Grixis%20Control.txt)
 # Maindeck
 
 |                                          Creature (5)                                          |                                        Enchantment (2)                                         |                                          Instant (21)                                          |                                           Land (27)                                           |                                          Planeswalker (1)                                           |                                          Sorcery (4)                                           |

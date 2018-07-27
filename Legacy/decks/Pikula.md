@@ -1,6 +1,6 @@
 # Pikula
 
-####[Download MTGO](../collection/Pikula.txt)
+#### [Download MTGO](../collection/Pikula/Pikula.txt)
 # Maindeck
 
 |                                         Artifact (11)                                          |                                            Creature (25)                                             |                                          Instant (2)                                          |                                              Land (20)                                              |                                       Sorcery (2)                                       |

@@ -1,6 +1,6 @@
 # Orzhov Control
 
-####[Download MTGO](../collection/Orzhov%20Control.txt)
+#### [Download MTGO](../collection/Orzhov%20Control/Orzhov%20Control.txt)
 # Maindeck
 
 |                                       Artifact (2)                                        |                                         Creature (13)                                          |                                        Enchantment (8)                                        |                                         Instant (7)                                          |                                           Land (25)                                            |                                        Planeswalker (5)                                         |

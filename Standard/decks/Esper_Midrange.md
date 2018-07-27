@@ -1,6 +1,6 @@
 # Esper Midrange
 
-####[Download MTGO](../collection/Esper%20Midrange.txt)
+#### [Download MTGO](../collection/Esper%20Midrange/Esper%20Midrange.txt)
 # Maindeck
 
 |                                        Creature (14)                                        |                                        Enchantment (7)                                        |                                         Instant (8)                                          |                                           Land (27)                                            |                                           Planeswalker (4)                                           |

@@ -1,6 +1,6 @@
 # Zombi Bombardment
 
-####[Download MTGO](../collection/Zombi%20Bombardment.txt)
+#### [Download MTGO](../collection/Zombi%20Bombardment/Zombi%20Bombardment.txt)
 # Maindeck
 
 |                                         Creature (18)                                          |                                       Enchantment (5)                                       |                                           Land (21)                                            |                                        Sorcery (16)                                        |

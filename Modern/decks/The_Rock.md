@@ -1,6 +1,6 @@
 # The Rock
 
-####[Download MTGO](../collection/The%20Rock.txt)
+#### [Download MTGO](../collection/The%20Rock/The%20Rock.txt)
 # Maindeck
 
 |                                            Creature (17)                                            |                                       Instant (6)                                       |                                          Land (23)                                           |                                       Planeswalker (4)                                       |                                           Sorcery (10)                                            |

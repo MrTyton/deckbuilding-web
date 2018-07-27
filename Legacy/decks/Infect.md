@@ -1,6 +1,6 @@
 # Infect
 
-####[Download MTGO](../collection/Infect.txt)
+#### [Download MTGO](../collection/Infect/Infect.txt)
 # Maindeck
 
 |                                       Creature (15)                                       |                                      Enchantment (1)                                      |                                         Instant (22)                                         |                                          Land (19)                                           |                                   Sorcery (3)                                   |

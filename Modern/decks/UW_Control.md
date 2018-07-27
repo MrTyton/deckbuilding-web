@@ -1,6 +1,6 @@
 # UW Control
 
-####[Download MTGO](../collection/UW%20Control.txt)
+#### [Download MTGO](../collection/UW%20Control/UW%20Control.txt)
 # Maindeck
 
 |                                  Artifact (2)                                  |                                       Creature (4)                                       |                                        Enchantment (2)                                        |                                         Instant (21)                                         |                                          Land (25)                                           |                                           Planeswalker (2)                                           |                                       Sorcery (4)                                        |

@@ -1,6 +1,6 @@
 # Bant
 
-####[Download MTGO](../collection/Bant.txt)
+#### [Download MTGO](../collection/Bant/Bant.txt)
 # Maindeck
 
 |                                           Creature (26)                                            |                                         Enchantment (2)                                         |                                         Instant (8)                                          |                                          Land (24)                                           |

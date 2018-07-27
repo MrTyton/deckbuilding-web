@@ -1,6 +1,6 @@
 # Weenie White
 
-####[Download MTGO](../collection/Weenie%20White.txt)
+#### [Download MTGO](../collection/Weenie%20White/Weenie%20White.txt)
 # Maindeck
 
 |                                          Artifact (8)                                          |                                            Creature (25)                                             |                                       Enchantment (4)                                       |                                       Instant (2)                                       |                                            Land (19)                                             |                                          Sorcery (2)                                          |

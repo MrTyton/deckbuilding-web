@@ -1,6 +1,6 @@
 # Storm
 
-####[Download MTGO](../collection/Storm.txt)
+#### [Download MTGO](../collection/Storm/Storm.txt)
 # Maindeck
 
 |                                         Artifact (8)                                          |                                      Instant (13)                                       |                                          Land (15)                                          |                                         Sorcery (24)                                         |
