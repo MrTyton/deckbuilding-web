@@ -1,3 +1,4 @@
 theme: jekyll-theme-dinky
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 markdown: kramdown
+google_analytics: UA-122940872-1
