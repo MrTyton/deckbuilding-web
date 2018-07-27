@@ -8,12 +8,13 @@ from os import makedirs
 from os.path import exists
 from time import time, sleep
 import datetime
-
+from logger import log
 
 if exists("card_backup.pkl"):
     with open("card_backup.pkl", "rb") as fp:
         memoizer = pickle.load(fp)
 else:
+    log("Creating memoizer")
     memoizer = {}
 
 
@@ -129,6 +130,8 @@ def run(title, dir, format):
     q = generate_markdown_table_options(temp, "Other Options\n")
     if q:
         everything += "\n" + q.getvalue()
+    else:
+        log("\t\tNo other options for maindeck or sideboard", 'warning')
 
     if not exists(f"./{format}/decks"):
         makedirs(f"./{format}/decks")
@@ -143,9 +146,9 @@ if __name__ == "__main__":
         archetypes = [(o, os.path.join(d, o)) for o in os.listdir(d)
                       if os.path.isdir(os.path.join(d, o))]
         for title, dir in archetypes:
-            print(f"Working on {title}")
+            log(f"\tGenerating Page for {title}")
             run(title, dir, format)
 
         with open("card_backup.pkl", "wb") as fp:
             pickle.dump(memoizer, fp)
-    print("Time to completion:", str(datetime.timedelta(seconds=time()-start)))
+    log(f"Time for generating decklists: {str(datetime.timedelta(seconds=time()-start))}")

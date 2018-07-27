@@ -5,7 +5,7 @@ from io import StringIO
 from itertools import zip_longest
 from math import ceil
 import datetime
-
+from logger import log
 
 def format_paths(format):
     mypath = f"./{format}/decks/"
@@ -29,7 +29,6 @@ def generate_table(title, files):
     val = 1
     while (ceil(len(files) / val) != 5):
         val += 1
-    print(val)
     writer.value_matrix = list(zip_longest(*list(chunks(files, val))))
     writer.write_table()
     return res
@@ -52,4 +51,5 @@ def output():
 
 
 if __name__ == "__main__":
+    log("Generating readme.")
     output()

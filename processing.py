@@ -3,6 +3,7 @@ from os import listdir, remove, makedirs
 from os.path import isfile, join, exists
 from scraper import load_page
 from optparse import OptionParser
+from logger import log
 
 
 def compute(collective, rankings, deck_size=60):
@@ -29,7 +30,6 @@ def compute(collective, rankings, deck_size=60):
 
 
 def run(n=2, mypath=None, onlyfiles=None):
-    print "Processing Decks..."
     if mypath:
         onlyfiles = [f for f in listdir(mypath) if isfile(join(mypath, f))]
         onlyfiles = ["{}/{}".format(mypath, x) for x in onlyfiles]
@@ -48,9 +48,12 @@ def run(n=2, mypath=None, onlyfiles=None):
     return mainDeck, removed_mainDeck, sideBoard, removed_sideBoard
 
 def call_this_function(name, format, n=2, mypath=None, onlyfiles=None):
+    log("\t\tComputing final and sideboard")
     data = run(n, mypath, onlyfiles)
+    log("\t\tFinished Computation")
     if not exists("{}/collection/{}".format(format, name)):
         makedirs("{}/collection/{}".format(format,  name))
+    log("\t\tSaving decklists")
     for filename, cur_data in zip(['Maindeck', 'Maindeck_options', 'Sideboard', 'Sideboard_options'], data):
         if cur_data and type(cur_data[0]) != tuple:
             cur_data = [(x.name, x.position) for x in cur_data]
@@ -63,6 +66,7 @@ def call_this_function(name, format, n=2, mypath=None, onlyfiles=None):
         fp.write("Sideboard\n")
         for cardname, quantity in data[2]:
             fp.write("{} {}\n".format(quantity, cardname))
+    log("\t\tDone Saving Decklists")
 
 
         
