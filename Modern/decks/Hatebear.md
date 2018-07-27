@@ -1,6 +1,6 @@
 # Hatebear
 
-#### [Download MTGO](../collection/Hatebear/Hatebear.txt)
+#### [Export MTGO List](../collection/Hatebear/Hatebear.txt)
 # Maindeck
 
 |                                      Artifact (4)                                      |                                             Creature (29)                                              |                                       Instant (5)                                        |                                         Land (22)                                         |

@@ -1,6 +1,6 @@
 # 4c Control
 
-#### [Download MTGO](../collection/4c%20Control/4c%20Control.txt)
+#### [Export MTGO List](../collection/4c%20Control/4c%20Control.txt)
 # Maindeck
 
 |                                             Creature (13)                                             |                                         Instant (16)                                          |                                          Land (20)                                           |                                          Planeswalker (2)                                          |                                        Sorcery (9)                                         |

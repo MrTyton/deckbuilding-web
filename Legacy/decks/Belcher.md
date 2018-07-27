@@ -1,6 +1,6 @@
 # Belcher
 
-#### [Download MTGO](../collection/Belcher/Belcher.txt)
+#### [Export MTGO List](../collection/Belcher/Belcher.txt)
 # Maindeck
 
 |                                         Artifact (16)                                         |                                         Creature (12)                                          |                                        Instant (16)                                         |                                     Land (1)                                     |                                         Sorcery (15)                                         |

@@ -1,6 +1,6 @@
 # Esper Control
 
-#### [Download MTGO](../collection/Esper%20Control/Esper%20Control.txt)
+#### [Export MTGO List](../collection/Esper%20Control/Esper%20Control.txt)
 # Maindeck
 
 |                                          Creature (4)                                          |                                        Enchantment (2)                                        |                                          Instant (23)                                          |                                           Land (27)                                           |                                           Planeswalker (3)                                           |   Unknown (1)   |

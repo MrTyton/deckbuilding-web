@@ -1,6 +1,6 @@
 # Selesnya Aggro
 
-#### [Download MTGO](../collection/Selesnya%20Aggro/Selesnya%20Aggro.txt)
+#### [Export MTGO List](../collection/Selesnya%20Aggro/Selesnya%20Aggro.txt)
 # Maindeck
 
 |                                           Creature (30)                                            |                                         Instant (8)                                          |                                          Land (22)                                          |

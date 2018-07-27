@@ -1,6 +1,6 @@
 # Delver BUG  4c
 
-#### [Download MTGO](../collection/Delver%20BUG%20%204c/Delver%20BUG%20%204c.txt)
+#### [Export MTGO List](../collection/Delver%20BUG%20%204c/Delver%20BUG%20%204c.txt)
 # Maindeck
 
 |                                        Creature (13)                                         |                                       Instant (17)                                       |                                          Land (20)                                           |                                         Planeswalker (2)                                          |                                        Sorcery (8)                                         |

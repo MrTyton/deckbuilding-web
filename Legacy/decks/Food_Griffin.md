@@ -1,6 +1,6 @@
 # Food Griffin
 
-#### [Download MTGO](../collection/Food%20Griffin/Food%20Griffin.txt)
+#### [Export MTGO List](../collection/Food%20Griffin/Food%20Griffin.txt)
 # Maindeck
 
 |                                          Artifact (1)                                          |                                             Creature (18)                                             |                                   Enchantment (4)                                    |                                       Instant (11)                                       |                                          Land (20)                                           |                                        Sorcery (6)                                        |

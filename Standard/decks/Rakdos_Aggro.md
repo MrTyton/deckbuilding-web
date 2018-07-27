@@ -1,6 +1,6 @@
 # Rakdos Aggro
 
-#### [Download MTGO](../collection/Rakdos%20Aggro/Rakdos%20Aggro.txt)
+#### [Export MTGO List](../collection/Rakdos%20Aggro/Rakdos%20Aggro.txt)
 # Maindeck
 
 |                                       Artifact (3)                                        |                                            Creature (23)                                            |                                             Instant (5)                                              |                                           Land (25)                                           |                                           Planeswalker (3)                                            |  Unknown (1)  |

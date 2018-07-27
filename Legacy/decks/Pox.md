@@ -1,6 +1,6 @@
 # Pox
 
-#### [Download MTGO](../collection/Pox/Pox.txt)
+#### [Export MTGO List](../collection/Pox/Pox.txt)
 # Maindeck
 
 |                                         Artifact (4)                                          |                                      Creature (3)                                       |                                           Enchantment (1)                                           |                                       Instant (4)                                        |                                              Land (26)                                              |                                        Planeswalker (5)                                        |                                           Sorcery (17)                                            |

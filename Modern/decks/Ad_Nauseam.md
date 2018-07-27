@@ -1,6 +1,6 @@
 # Ad Nauseam
 
-#### [Download MTGO](../collection/Ad%20Nauseam/Ad%20Nauseam.txt)
+#### [Export MTGO List](../collection/Ad%20Nauseam/Ad%20Nauseam.txt)
 # Maindeck
 
 |                                      Artifact (8)                                       |                                          Creature (5)                                          |                                       Enchantment (4)                                       |                                         Instant (15)                                          |                                             Land (20)                                              |                                       Sorcery (8)                                        |

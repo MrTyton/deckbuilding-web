@@ -1,6 +1,6 @@
 # Death's Shadow
 
-#### [Download MTGO](../collection/Death's%20Shadow/Death's%20Shadow.txt)
+#### [Export MTGO List](../collection/Death's%20Shadow/Death's%20Shadow.txt)
 # Maindeck
 
 |                                        Creature (15)                                         |                                        Instant (19)                                        |                                          Land (18)                                           |                                       Sorcery (8)                                       |

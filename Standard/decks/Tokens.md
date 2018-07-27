@@ -1,6 +1,6 @@
 # Tokens
 
-#### [Download MTGO](../collection/Tokens/Tokens.txt)
+#### [Export MTGO List](../collection/Tokens/Tokens.txt)
 # Maindeck
 
 |                                           Creature (19)                                           |                                        Enchantment (15)                                        |                                         Instant (2)                                         |                                           Land (23)                                           |                                     Sorcery (1)                                     |

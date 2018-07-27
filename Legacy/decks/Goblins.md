@@ -1,6 +1,6 @@
 # Goblins
 
-#### [Download MTGO](../collection/Goblins/Goblins.txt)
+#### [Export MTGO List](../collection/Goblins/Goblins.txt)
 # Maindeck
 
 |                                      Artifact (4)                                      |                                            Creature (31)                                             |                                    Instant (3)                                     |                                         Land (22)                                          |

@@ -1,6 +1,6 @@
 # Naya Aggro
 
-#### [Download MTGO](../collection/Naya%20Aggro/Naya%20Aggro.txt)
+#### [Export MTGO List](../collection/Naya%20Aggro/Naya%20Aggro.txt)
 # Maindeck
 
 |                                       Artifact (4)                                        |                                           Creature (23)                                            |                                          Instant (4)                                          |                                          Land (25)                                           |                                        Planeswalker (4)                                         |

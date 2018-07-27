@@ -1,6 +1,6 @@
 # UR Delver
 
-#### [Download MTGO](../collection/UR%20Delver/UR%20Delver.txt)
+#### [Export MTGO List](../collection/UR%20Delver/UR%20Delver.txt)
 # Maindeck
 
 |                                        Creature (12)                                         |                                       Instant (18)                                        |                                         Land (19)                                          |                                        Sorcery (11)                                        |

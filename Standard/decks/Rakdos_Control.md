@@ -1,6 +1,6 @@
 # Rakdos Control
 
-#### [Download MTGO](../collection/Rakdos%20Control/Rakdos%20Control.txt)
+#### [Export MTGO List](../collection/Rakdos%20Control/Rakdos%20Control.txt)
 # Maindeck
 
 |                                       Artifact (6)                                        |                                             Creature (13)                                             |                                         Instant (12)                                         |                                           Land (25)                                            |                                           Planeswalker (4)                                            |

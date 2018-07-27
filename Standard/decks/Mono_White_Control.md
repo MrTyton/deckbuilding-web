@@ -1,6 +1,6 @@
 # Mono White Control
 
-#### [Download MTGO](../collection/Mono%20White%20Control/Mono%20White%20Control.txt)
+#### [Export MTGO List](../collection/Mono%20White%20Control/Mono%20White%20Control.txt)
 # Maindeck
 
 |                                         Artifact (9)                                          |                                      Enchantment (14)                                       |                                          Instant (3)                                           |                                           Land (25)                                           |                                        Planeswalker (4)                                        |                                              Sorcery (5)                                              |

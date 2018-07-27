@@ -1,6 +1,6 @@
 # Jeskai Control
 
-#### [Download MTGO](../collection/Jeskai%20Control/Jeskai%20Control.txt)
+#### [Export MTGO List](../collection/Jeskai%20Control/Jeskai%20Control.txt)
 # Maindeck
 
 |                                          Creature (6)                                          |                                        Enchantment (2)                                        |                                          Instant (22)                                          |                                           Land (26)                                           |                                           Planeswalker (4)                                           |

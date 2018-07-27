@@ -1,6 +1,6 @@
 # Bomberman
 
-#### [Download MTGO](../collection/Bomberman/Bomberman.txt)
+#### [Export MTGO List](../collection/Bomberman/Bomberman.txt)
 # Maindeck
 
 |                                          Artifact (20)                                           |                                        Creature (7)                                         |                                        Enchantment (4)                                         |                                    Instant (4)                                     |                                          Land (21)                                           |                                        Planeswalker (4)                                        |

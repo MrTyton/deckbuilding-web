@@ -1,6 +1,6 @@
 # Affinity
 
-#### [Download MTGO](../collection/Affinity/Affinity.txt)
+#### [Export MTGO List](../collection/Affinity/Affinity.txt)
 # Maindeck
 
 |                                         Artifact (10)                                          |                                        Creature (22)                                         |                                          Land (24)                                           |                                        Planeswalker (4)                                        |

@@ -1,6 +1,6 @@
 # Faeries
 
-#### [Download MTGO](../collection/Faeries/Faeries.txt)
+#### [Export MTGO List](../collection/Faeries/Faeries.txt)
 # Maindeck
 
 |                                           Artifact (1)                                           |                                            Creature (13)                                            |                                     Enchantment (3)                                      |                                         Instant (12)                                         |                                          Land (23)                                          |                                          Planeswalker (2)                                          |                                            Sorcery (6)                                            |

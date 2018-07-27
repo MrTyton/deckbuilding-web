@@ -1,6 +1,6 @@
 # Dark Depths
 
-#### [Download MTGO](../collection/Dark%20Depths/Dark%20Depths.txt)
+#### [Export MTGO List](../collection/Dark%20Depths/Dark%20Depths.txt)
 # Maindeck
 
 |                                       Artifact (10)                                       |                                         Creature (11)                                          |                                      Enchantment (1)                                      |                                       Instant (4)                                        |                                              Land (22)                                              |                                       Sorcery (12)                                       |

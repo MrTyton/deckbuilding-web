@@ -1,6 +1,6 @@
 # UR Storm
 
-#### [Download MTGO](../collection/UR%20Storm/UR%20Storm.txt)
+#### [Export MTGO List](../collection/UR%20Storm/UR%20Storm.txt)
 # Maindeck
 
 |                                             Creature (6)                                              |                                        Instant (24)                                         |                                           Land (17)                                            |                                       Sorcery (13)                                        |

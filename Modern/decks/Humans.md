@@ -1,6 +1,6 @@
 # Humans
 
-#### [Download MTGO](../collection/Humans/Humans.txt)
+#### [Export MTGO List](../collection/Humans/Humans.txt)
 # Maindeck
 
 |                                      Artifact (4)                                      |                                             Creature (36)                                              |                                           Land (20)                                            |

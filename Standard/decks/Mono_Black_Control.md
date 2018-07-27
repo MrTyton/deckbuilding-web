@@ -1,6 +1,6 @@
 # Mono Black Control
 
-#### [Download MTGO](../collection/Mono%20Black%20Control/Mono%20Black%20Control.txt)
+#### [Export MTGO List](../collection/Mono%20Black%20Control/Mono%20Black%20Control.txt)
 # Maindeck
 
 |                                           Creature (6)                                           |                                        Enchantment (4)                                         |                                         Instant (10)                                         |                                          Land (27)                                           |                                        Planeswalker (4)                                        |                                          Sorcery (5)                                           |  Unknown (4)   |

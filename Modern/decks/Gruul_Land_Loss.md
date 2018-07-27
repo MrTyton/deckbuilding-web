@@ -1,6 +1,6 @@
 # Gruul Land Loss
 
-#### [Download MTGO](../collection/Gruul%20Land%20Loss/Gruul%20Land%20Loss.txt)
+#### [Export MTGO List](../collection/Gruul%20Land%20Loss/Gruul%20Land%20Loss.txt)
 # Maindeck
 
 |                                          Creature (19)                                          |                                     Enchantment (8)                                      |                                        Instant (3)                                        |                                          Land (21)                                          |                                           Planeswalker (2)                                            |                                      Sorcery (7)                                       |

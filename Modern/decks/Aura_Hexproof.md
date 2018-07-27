@@ -1,6 +1,6 @@
 # Aura Hexproof
 
-#### [Download MTGO](../collection/Aura%20Hexproof/Aura%20Hexproof.txt)
+#### [Export MTGO List](../collection/Aura%20Hexproof/Aura%20Hexproof.txt)
 # Maindeck
 
 |                                        Creature (12)                                        |                                        Enchantment (26)                                        |                                       Instant (2)                                        |                                           Land (20)                                           |

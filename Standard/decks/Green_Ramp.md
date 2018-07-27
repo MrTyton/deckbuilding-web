@@ -1,6 +1,6 @@
 # Green Ramp
 
-#### [Download MTGO](../collection/Green%20Ramp/Green%20Ramp.txt)
+#### [Export MTGO List](../collection/Green%20Ramp/Green%20Ramp.txt)
 # Maindeck
 
 |                                         Artifact (3)                                         |                                       Enchantment (10)                                        |                                          Instant (7)                                           |                                              Land (25)                                               |                                             Sorcery (11)                                              |  Unknown (4)  |

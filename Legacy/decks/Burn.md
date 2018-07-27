@@ -1,6 +1,6 @@
 # Burn
 
-#### [Download MTGO](../collection/Burn/Burn.txt)
+#### [Export MTGO List](../collection/Burn/Burn.txt)
 # Maindeck
 
 |                                             Creature (13)                                             |                                      Enchantment (1)                                       |                                         Instant (15)                                         |                                          Land (19)                                           |                                        Sorcery (12)                                        |

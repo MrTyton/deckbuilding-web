@@ -1,6 +1,6 @@
 # Grixis Delver
 
-#### [Download MTGO](../collection/Grixis%20Delver/Grixis%20Delver.txt)
+#### [Export MTGO List](../collection/Grixis%20Delver/Grixis%20Delver.txt)
 # Maindeck
 
 |                                        Creature (14)                                         |                                       Instant (18)                                        |                                         Land (19)                                          |                                        Sorcery (9)                                        |

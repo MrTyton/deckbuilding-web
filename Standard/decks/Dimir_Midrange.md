@@ -1,6 +1,6 @@
 # Dimir Midrange
 
-#### [Download MTGO](../collection/Dimir%20Midrange/Dimir%20Midrange.txt)
+#### [Export MTGO List](../collection/Dimir%20Midrange/Dimir%20Midrange.txt)
 # Maindeck
 
 |                                          Creature (15)                                           |                                        Enchantment (1)                                         |                                         Instant (13)                                         |                                          Land (25)                                          |                                          Planeswalker (2)                                           |                                     Sorcery (2)                                     |   Unknown (2)   |

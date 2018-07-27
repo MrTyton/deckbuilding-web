@@ -1,6 +1,6 @@
 # Martyr Life
 
-#### [Download MTGO](../collection/Martyr%20Life/Martyr%20Life.txt)
+#### [Export MTGO List](../collection/Martyr%20Life/Martyr%20Life.txt)
 # Maindeck
 
 |                                        Creature (20)                                         |                                      Enchantment (4)                                      |                                       Instant (4)                                        |                                            Land (25)                                             |                                          Planeswalker (1)                                          |                                            Sorcery (6)                                             |

@@ -1,6 +1,6 @@
 # Mono Red Sneak Attack
 
-#### [Download MTGO](../collection/Mono%20Red%20Sneak%20Attack/Mono%20Red%20Sneak%20Attack.txt)
+#### [Export MTGO List](../collection/Mono%20Red%20Sneak%20Attack/Mono%20Red%20Sneak%20Attack.txt)
 # Maindeck
 
 |                                          Artifact (8)                                          |                                           Creature (16)                                            |                                     Enchantment (8)                                     |                                          Instant (6)                                          |                                          Land (20)                                          |                                           Planeswalker (2)                                            |

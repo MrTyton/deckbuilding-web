@@ -1,6 +1,6 @@
 # Reanimator
 
-#### [Download MTGO](../collection/Reanimator/Reanimator.txt)
+#### [Export MTGO List](../collection/Reanimator/Reanimator.txt)
 # Maindeck
 
 |                                      Artifact (4)                                      |                                             Creature (10)                                             |                                     Enchantment (4)                                     |                                      Instant (8)                                       |                                          Land (14)                                           |                                         Sorcery (20)                                         |

@@ -1,6 +1,6 @@
 # Mono Black Aggro
 
-#### [Download MTGO](../collection/Mono%20Black%20Aggro/Mono%20Black%20Aggro.txt)
+#### [Export MTGO List](../collection/Mono%20Black%20Aggro/Mono%20Black%20Aggro.txt)
 # Maindeck
 
 |                                           Artifact (2)                                            |                                          Creature (27)                                           |                                           Instant (6)                                           |                                          Land (24)                                           |                                        Sorcery (1)                                        |

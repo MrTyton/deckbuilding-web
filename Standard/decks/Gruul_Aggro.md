@@ -1,6 +1,6 @@
 # Gruul Aggro
 
-#### [Download MTGO](../collection/Gruul%20Aggro/Gruul%20Aggro.txt)
+#### [Export MTGO List](../collection/Gruul%20Aggro/Gruul%20Aggro.txt)
 # Maindeck
 
 |                                           Creature (26)                                           |                                      Instant (6)                                       |                                          Land (25)                                           |                                     Sorcery (3)                                     |

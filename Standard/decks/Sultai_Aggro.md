@@ -1,6 +1,6 @@
 # Sultai Aggro
 
-#### [Download MTGO](../collection/Sultai%20Aggro/Sultai%20Aggro.txt)
+#### [Export MTGO List](../collection/Sultai%20Aggro/Sultai%20Aggro.txt)
 # Maindeck
 
 |                                           Creature (26)                                            |                                         Instant (4)                                          |                                          Land (28)                                           |                                          Sorcery (2)                                           |

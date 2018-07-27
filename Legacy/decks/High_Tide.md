@@ -1,6 +1,6 @@
 # High Tide
 
-#### [Download MTGO](../collection/High%20Tide/High%20Tide.txt)
+#### [Export MTGO List](../collection/High%20Tide/High%20Tide.txt)
 # Maindeck
 
 |                                        Enchantment (1)                                        |                                       Instant (25)                                       |                                          Land (18)                                          |                                       Sorcery (16)                                       |

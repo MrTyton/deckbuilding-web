@@ -1,6 +1,6 @@
 # God-Pharaoh's Gift Control
 
-#### [Download MTGO](../collection/God-Pharaoh's%20Gift%20Control/God-Pharaoh's%20Gift%20Control.txt)
+#### [Export MTGO List](../collection/God-Pharaoh's%20Gift%20Control/God-Pharaoh's%20Gift%20Control.txt)
 # Maindeck
 
 |                                         Artifact (4)                                          |                                          Creature (15)                                           |                                        Enchantment (4)                                        |                                           Land (23)                                           |                                         Sorcery (14)                                         |

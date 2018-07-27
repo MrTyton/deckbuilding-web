@@ -1,6 +1,6 @@
 # Other - Combo
 
-#### [Download MTGO](../collection/Other%20-%20Combo/Other%20-%20Combo.txt)
+#### [Export MTGO List](../collection/Other%20-%20Combo/Other%20-%20Combo.txt)
 # Maindeck
 
 |                                          Artifact (10)                                           |                                        Creature (8)                                         |                                        Enchantment (8)                                         |                                           Instant (7)                                           |                                          Land (22)                                           |                                        Planeswalker (2)                                        |                                           Sorcery (3)                                           |

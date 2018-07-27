@@ -1,6 +1,6 @@
 # Dredge
 
-#### [Download MTGO](../collection/Dredge/Dredge.txt)
+#### [Export MTGO List](../collection/Dredge/Dredge.txt)
 # Maindeck
 
 |                                         Artifact (4)                                          |                                         Creature (27)                                          |                                       Enchantment (4)                                        |                                          Land (13)                                           |                                         Sorcery (12)                                         |

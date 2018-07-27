@@ -1,6 +1,6 @@
 # Nic Fit
 
-#### [Download MTGO](../collection/Nic%20Fit/Nic%20Fit.txt)
+#### [Export MTGO List](../collection/Nic%20Fit/Nic%20Fit.txt)
 # Maindeck
 
 |                                              Creature (13)                                              |                                       Enchantment (4)                                        |                                           Instant (4)                                           |                                          Land (24)                                           |                                          Planeswalker (4)                                          |                                          Sorcery (11)                                           |

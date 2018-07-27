@@ -1,6 +1,6 @@
 # Scapeshift
 
-#### [Download MTGO](../collection/Scapeshift/Scapeshift.txt)
+#### [Export MTGO List](../collection/Scapeshift/Scapeshift.txt)
 # Maindeck
 
 |                                         Creature (5)                                          |                                        Enchantment (2)                                        |                                        Instant (13)                                        |                                                Land (26)                                                |                                          Sorcery (14)                                          |

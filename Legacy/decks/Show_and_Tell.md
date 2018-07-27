@@ -1,6 +1,6 @@
 # Show and Tell
 
-#### [Download MTGO](../collection/Show%20and%20Tell/Show%20and%20Tell.txt)
+#### [Export MTGO List](../collection/Show%20and%20Tell/Show%20and%20Tell.txt)
 # Maindeck
 
 |                                      Artifact (4)                                      |                                            Creature (8)                                            |                                     Enchantment (6)                                     |                                       Instant (12)                                       |                                          Land (19)                                          |                                       Sorcery (11)                                       |

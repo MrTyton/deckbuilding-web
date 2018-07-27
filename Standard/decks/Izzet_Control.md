@@ -1,6 +1,6 @@
 # Izzet Control
 
-#### [Download MTGO](../collection/Izzet%20Control/Izzet%20Control.txt)
+#### [Export MTGO List](../collection/Izzet%20Control/Izzet%20Control.txt)
 # Maindeck
 
 |                                      Artifact (1)                                       |                                          Creature (5)                                           |                                             Instant (23)                                             |                                          Land (24)                                          |                                            Sorcery (6)                                            |   Unknown (1)   |

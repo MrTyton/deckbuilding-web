@@ -1,6 +1,6 @@
 # UR Aggro
 
-#### [Download MTGO](../collection/UR%20Aggro/UR%20Aggro.txt)
+#### [Export MTGO List](../collection/UR%20Aggro/UR%20Aggro.txt)
 # Maindeck
 
 |                                           Creature (19)                                            |                                       Enchantment (4)                                        |                                         Instant (13)                                          |                                          Land (21)                                          |                                        Sorcery (3)                                        |

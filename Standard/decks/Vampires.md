@@ -1,6 +1,6 @@
 # Vampires
 
-#### [Download MTGO](../collection/Vampires/Vampires.txt)
+#### [Export MTGO List](../collection/Vampires/Vampires.txt)
 # Maindeck
 
 |                                            Creature (14)                                             |                                        Enchantment (12)                                        |                                     Instant (3)                                      |                                           Land (23)                                            |                                          Sorcery (8)                                          |

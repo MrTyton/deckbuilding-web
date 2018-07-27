@@ -1,6 +1,6 @@
 # Elves
 
-#### [Download MTGO](../collection/Elves/Elves.txt)
+#### [Export MTGO List](../collection/Elves/Elves.txt)
 # Maindeck
 
 |                                         Creature (29)                                          |                                          Land (20)                                           |                                         Sorcery (11)                                          |

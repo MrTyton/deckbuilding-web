@@ -1,6 +1,6 @@
 # Living End
 
-#### [Download MTGO](../collection/Living%20End/Living%20End.txt)
+#### [Export MTGO List](../collection/Living%20End/Living%20End.txt)
 # Maindeck
 
 |                                             Creature (27)                                             |                                         Instant (7)                                         |                                              Land (19)                                              |                                       Sorcery (7)                                        |

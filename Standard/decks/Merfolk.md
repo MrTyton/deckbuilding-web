@@ -1,6 +1,6 @@
 # Merfolk
 
-#### [Download MTGO](../collection/Merfolk/Merfolk.txt)
+#### [Export MTGO List](../collection/Merfolk/Merfolk.txt)
 # Maindeck
 
 |                                            Creature (22)                                            |                                          Enchantment (6)                                          |                                         Instant (10)                                          |                                          Land (22)                                           |

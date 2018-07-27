@@ -1,6 +1,6 @@
 # Mono Red Control
 
-#### [Download MTGO](../collection/Mono%20Red%20Control/Mono%20Red%20Control.txt)
+#### [Export MTGO List](../collection/Mono%20Red%20Control/Mono%20Red%20Control.txt)
 # Maindeck
 
 |                                          Artifact (8)                                          |                                          Creature (12)                                          |                                    Enchantment (4)                                    |                                         Instant (7)                                         |                                          Land (22)                                           |                                           Planeswalker (5)                                            |                                         Sorcery (2)                                          |

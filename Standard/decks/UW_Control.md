@@ -1,6 +1,6 @@
 # UW Control
 
-#### [Download MTGO](../collection/UW%20Control/UW%20Control.txt)
+#### [Export MTGO List](../collection/UW%20Control/UW%20Control.txt)
 # Maindeck
 
 |                                        Enchantment (9)                                        |                                          Instant (16)                                          |                                           Land (27)                                           |                                           Planeswalker (4)                                           |                                              Sorcery (4)                                              |

@@ -1,6 +1,6 @@
 # Zoo
 
-#### [Download MTGO](../collection/Zoo/Zoo.txt)
+#### [Export MTGO List](../collection/Zoo/Zoo.txt)
 # Maindeck
 
 |                                          Creature (32)                                           |                                        Instant (10)                                         |                                          Land (18)                                          |

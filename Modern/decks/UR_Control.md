@@ -1,6 +1,6 @@
 # UR Control
 
-#### [Download MTGO](../collection/UR%20Control/UR%20Control.txt)
+#### [Export MTGO List](../collection/UR%20Control/UR%20Control.txt)
 # Maindeck
 
 |                                        Creature (9)                                         |                                    Enchantment (3)                                    |                                        Instant (20)                                        |                                           Land (22)                                            |                                          Planeswalker (2)                                          |                                       Sorcery (4)                                        |

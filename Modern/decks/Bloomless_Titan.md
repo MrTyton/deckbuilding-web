@@ -1,6 +1,6 @@
 # Bloomless Titan
 
-#### [Download MTGO](../collection/Bloomless%20Titan/Bloomless%20Titan.txt)
+#### [Export MTGO List](../collection/Bloomless%20Titan/Bloomless%20Titan.txt)
 # Maindeck
 
 |                                           Artifact (5)                                           |                                           Creature (14)                                            |                                         Instant (5)                                         |                                                 Land (28)                                                  |                                         Sorcery (8)                                          |

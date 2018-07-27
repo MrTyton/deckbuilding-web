@@ -1,6 +1,6 @@
 # Cloudpost Ramp
 
-#### [Download MTGO](../collection/Cloudpost%20Ramp/Cloudpost%20Ramp.txt)
+#### [Export MTGO List](../collection/Cloudpost%20Ramp/Cloudpost%20Ramp.txt)
 # Maindeck
 
 |                                         Artifact (17)                                          |                                              Creature (12)                                               |                                              Land (27)                                              |                                          Planeswalker (2)                                          |                                      Sorcery (2)                                       |
