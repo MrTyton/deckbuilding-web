@@ -102,7 +102,7 @@ def merge_markdown_tables(input1, input2, title):
     return res
     
 def run(title, dir, format):
-    everything = f"# {title}\n\n####[Download](../collection/{title}.txt)"
+    everything = f"# {title}\n\n####[Download MTGO](../collection/{title.replace(' ', '%20')}.txt)"
     for cur in ["Maindeck", "Sideboard"]:
         with open(os.path.join(dir, f"{cur}.txt")) as fp:
             inputs = fp.readlines()

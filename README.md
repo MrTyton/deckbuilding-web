@@ -45,3 +45,6 @@
 |[Burn](./Legacy/decks/Burn.md)                            |[Enchantress](./Legacy/decks/Enchantress.md)      |[Maverick](./Legacy/decks/Maverick.md)            |[Reanimator](./Legacy/decks/Reanimator.md)                      |                                                        |
 |[Canadian Threshold](./Legacy/decks/Canadian_Threshold.md)|[Food Griffin](./Legacy/decks/Food_Griffin.md)    |[Merfolk](./Legacy/decks/Merfolk.md)              |[Show and Tell](./Legacy/decks/Show_and_Tell.md)                |                                                        |
 
+
+
+#### Last Updated at 09:16PM on July 26, 2018

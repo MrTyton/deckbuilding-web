@@ -5,7 +5,7 @@ from pprint import pprint
 from io import StringIO
 from itertools import zip_longest
 from math import ceil
-
+import datetime
 
 def format_paths(format):
     mypath = f"./{format}/decks/"
@@ -40,6 +40,8 @@ def output():
     everything = ""
     for format in ["Standard", "Modern", "Legacy"]:
         everything += "\n" + create(format)
+        
+    everything += f"\n\n#### Last Updated at {datetime.datetime.now().strftime('%I:%M%p on %B %d, %Y')}"
     with open("README.md", "w") as fp:
         fp.write(everything)
     
