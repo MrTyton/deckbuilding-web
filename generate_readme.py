@@ -8,7 +8,7 @@ import datetime
 
 def format_paths(format):
     mypath = f"./{format}/decks/"
-    onlyfiles = sorted([f"[{f[:-3].replace('_', ' ')}]({mypath}{f})" for f in listdir(mypath) if isfile(join(mypath, f))], reverse=True)
+    onlyfiles = sorted([f"[{f[:-3].replace('_', ' ')}]({mypath}{f})" for f in listdir(mypath) if isfile(join(mypath, f))])
     return onlyfiles
     
 def chunks(l, n):
