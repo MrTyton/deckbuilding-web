@@ -78,6 +78,8 @@ def generate_markdown_table_mainside(link_dictionary, title):
     
 def generate_markdown_table_options(input, title):
     maindeck, sideboard = input
+    if not maindeck and not sideboard:
+        return None
     nmd, md = [x[0] for x in maindeck], [x[1] for x in maindeck]
     nsb, sb= [x[0] for x in sideboard], [x[1] for x in sideboard]
     res = StringIO()
@@ -100,7 +102,7 @@ def merge_markdown_tables(input1, input2, title):
     return res
     
 def run(title, dir, format):
-    everything = ""
+    everything = f"# {title}\n\n####[Download](../collection/{title}.txt)"
     for cur in ["Maindeck", "Sideboard"]:
         with open(os.path.join(dir, f"{cur}.txt")) as fp:
             inputs = fp.readlines()
@@ -108,7 +110,7 @@ def run(title, dir, format):
         a = get_links_group_by_types(inputs)
         q = generate_markdown_table_mainside(a, f"{cur}\n")
         everything += "\n" + q.getvalue()
-    other = ""
+    
     temp = []
     for cur in ["Maindeck", "Sideboard"]:
         with open(os.path.join(dir, f"{cur}_options.txt")) as fp:
@@ -117,7 +119,8 @@ def run(title, dir, format):
         temp.append([return_url_line_type(x)[0].split(" ", 1) for x in inputs])
     
     q = generate_markdown_table_options(temp, "Other Options\n")
-    everything += "\n" + q.getvalue()
+    if q:
+        everything += "\n" + q.getvalue()
     
     if not exists(f"./{format}/decks"):
         makedirs(f"./{format}/decks")

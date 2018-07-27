@@ -58,6 +58,12 @@ def call_this_function(name, format, n=2, mypath=None, onlyfiles=None):
         with open("{}/collection/{}/{}.txt".format(format, name, filename), "w") as fp:
             for cardname, quantity in cur_data:
                 fp.write("{} {}\n".format(quantity, cardname))
+    with open("{}/collection/{}/{}.txt".format(format, name, name), "w") as fp:
+        for cardname, quantity in data[0]:
+            fp.write("{} {}\n".format(quantity, cardname)
+        fp.write("Sideboard\n")
+        for cardname, quantity in data[2]:
+            fp.write("{} {}\n".format(quantity, cardname)
 
     
 if __name__ == "__main__":
