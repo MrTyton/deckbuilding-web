@@ -1,7 +1,7 @@
 
 # Maindeck
 
-|                                             Creature 6                                             |                                        Enchantment 1                                         |                                           Instant 4                                           |                                           Land 4                                            |                                         Sorcery 1                                         |
+|                                            Creature (6)                                            |                                       Enchantment (1)                                        |                                          Instant (4)                                          |                                          Land (4)                                           |                                        Sorcery (1)                                        |
 |----------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
 |3 [Adeliz, the Cinder Wind](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443078)|4 [The Flame of Keld](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443011)|1 [Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)            |1 [Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439602)          |3 [Warlord's Fury](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443039)|
 |4 [Bomat Courier](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417772)          |                                                                                              |4 [Lightning Strike](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435303)  |12 [Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439604)       |                                                                                           |
@@ -13,7 +13,7 @@
 
 # Sideboard
 
-|                                          Instant 5                                          |                                         Sorcery 1                                          |
+|                                         Instant (5)                                         |                                        Sorcery (1)                                         |
 |---------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
 |2 [Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)          |2 [Fight with Fire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443007)|
 |3 [Chandra's Defeat](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430775)|                                                                                            |

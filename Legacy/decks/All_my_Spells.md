@@ -1,7 +1,7 @@
 
 # Maindeck
 
-|                                       Artifact 2                                       |                                            Creature 9                                            |                                          Instant 5                                          |                                        Sorcery 3                                        |
+|                                      Artifact (2)                                      |                                           Creature (9)                                           |                                         Instant (5)                                         |                                       Sorcery (3)                                       |
 |----------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
 |4 [Chrome Mox](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=None)   |4 [Balustrade Spy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438646)       |4 [Cabal Ritual](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382877)    |1 [Cabal Therapy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=None) |
 |4 [Lotus Petal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420602)|4 [Elvish Spirit Guide](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=184542)  |4 [Dark Ritual](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=None)       |1 [Dread Return](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=270463)|
@@ -16,7 +16,7 @@
 
 # Sideboard
 
-|                                          Artifact 2                                           |                                           Instant 1                                           |                                        Sorcery 1                                         |
+|                                         Artifact (2)                                          |                                          Instant (1)                                          |                                       Sorcery (1)                                        |
 |-----------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
 |4 [Goblin Charbelcher](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413764)|4 [Spoils of the Vault](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=46572)|3 [Rite of Flame](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121217)|
 |4 [Lion's Eye Diamond](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383000)|                                                                                               |                                                                                          |
