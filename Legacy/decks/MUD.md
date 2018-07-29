@@ -44,8 +44,8 @@
 |                    3|[Glimmerpost](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=209043)            |                     |                                                                                                  |
 |                    3|[Cloudpost](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=49050)               |                     |                                                                                                  |
 |                    3|[Vesuva](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=287332)                 |                     |                                                                                                  |
-|                    4|[Cloudpost](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=49050)               |                     |                                                                                                  |
 |                    4|[Glimmerpost](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=209043)            |                     |                                                                                                  |
+|                    4|[Cloudpost](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=49050)               |                     |                                                                                                  |
 |                    4|[Kuldotha Forgemaster](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=215098)   |                     |                                                                                                  |
 |                    4|[Trinisphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425823)            |                     |                                                                                                  |
 
