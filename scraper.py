@@ -59,7 +59,6 @@ def parse_deck_page(url):
     global cached_files
     if link in cached_files:
         if exists(cached_files[link]):
-            log("Cache hit")
             return cached_files[link]
         else:
             del cached_files[link]
