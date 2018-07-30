@@ -56,7 +56,7 @@ def parse_deck_page(url):
             bs.find("a", text="MTGO")['href'].encode("utf-8"))
     except BaseException:
         raise ValueError("Could not find deck on URL {}, possibly not a decklist page".format(url))
-    global cahced_files
+    global cached_files
     if link in cached_files:
         if exists(cached_files[link]):
             log("Cache hit")
