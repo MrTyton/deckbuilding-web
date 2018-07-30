@@ -3,6 +3,8 @@ from requests import get, ConnectionError
 from tempfile import NamedTemporaryFile
 from time import sleep
 from logger import log
+import pickle
+from os.path import exists
 
 """
 This module scrapes the first page of the linked mtgtop8 page and pulls all of the decklists into temporary files.
@@ -10,6 +12,12 @@ Does not yet scrape the second+ pages due to javascript shenanigans.
 """
 
 headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.36'}
+
+if exists("./cached_decklists.pkl"):
+    with open("./cached_decklists.pkl") as fp:
+        cached_files = pickle.load(fp)
+else:
+    cached_files = {}
 
 def load_page(url):
     log("\t\tLoading {}".format(url))
@@ -31,6 +39,9 @@ def load_page(url):
         except Exception as e:
             log("\t\tError connecting to website: {}".format(e), 'error')
     log("\t\tFinished processing decks.")
+    global cached_files
+    with open("./cached_decklists.pkl", "wb") as fp:
+        pickle.dump(cached_files, fp)
     return decklists
 
 
@@ -45,6 +56,13 @@ def parse_deck_page(url):
             bs.find("a", text="MTGO")['href'].encode("utf-8"))
     except BaseException:
         raise ValueError("Could not find deck on URL {}, possibly not a decklist page".format(url))
+    global cahced_files
+    if link in cached_files:
+        if exists(cached_files[link]):
+            log("Cache hit")
+            return cached_files[link]
+        else:
+            del cached_files[link]
     try:
         resp = get(link)
     except:
@@ -54,4 +72,5 @@ def parse_deck_page(url):
     with NamedTemporaryFile(delete=False) as fp:
         fp.write(resp.text)
         name = fp.name
+    cached_files[link] = name
     return name
