@@ -49,4 +49,4 @@
 
 
 
-#### Last Updated at 12:23AM on July 31, 2018
+#### Last Updated at 12:31PM on July 31, 2018
