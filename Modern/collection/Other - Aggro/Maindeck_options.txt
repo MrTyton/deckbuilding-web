@@ -1,5 +1,5 @@
-1 Wooded Foothills
-1 Eternal Witness
+1 Utopia Sprawl
+1 Windswept Heath
 1 Forest
 1 Arbor Elf
 1 Stomping Ground
@@ -11,9 +11,9 @@
 3 Windswept Heath
 3 Arbor Elf
 3 Utopia Sprawl
+4 Forest
 4 Utopia Sprawl
 4 Windswept Heath
-4 Forest
 5 Forest
 1 Garruk Wildspeaker
 1 Burning-Tree Emissary
@@ -28,9 +28,9 @@
 1 Breeding Pool
 1 Temple Garden
 1 Walking Ballista
-2 Walking Ballista
 2 Eternal Witness
 2 Wooded Foothills
+2 Walking Ballista
 3 Wooded Foothills
 1 Birds of Paradise
 1 Craterhoof Behemoth
@@ -38,8 +38,8 @@
 1 Eiganjo Castle
 1 Geist of Saint Traft
 2 Geist of Saint Traft
-1 Shalai, Voice of Plenty
 1 Courser of Kruphix
+1 Shalai, Voice of Plenty
 1 Duskwatch Recruiter
 1 Vizier of the Menagerie
 1 Nissa, Steward of Elements
@@ -62,8 +62,8 @@
 4 Wooded Foothills
 1 Primeval Titan
 1 Nissa, Vital Force
-1 Overgrown Tomb
 1 Kessig Wolf Run
+1 Overgrown Tomb
 1 Spellskite
 1 Vizier of Remedies
 1 Grapple with the Past
@@ -90,8 +90,8 @@
 4 Devoted Druid
 4 Grapple with the Past
 1 Bloodbraid Elf
-1 Steel Leaf Champion
 1 Scavenging Ooze
+1 Steel Leaf Champion
 1 Domri Rade
 1 Ruric Thar, the Unbowed
 1 Wurmcoil Engine
@@ -100,14 +100,14 @@
 1 Runic Armasaur
 1 Elvish Visionary
 2 Bloodbraid Elf
-2 Misty Rainforest
 2 Steel Leaf Champion
 2 Gigantosaurus
 2 Elvish Visionary
 2 Runic Armasaur
+2 Misty Rainforest
 3 Bloodbraid Elf
-3 Misty Rainforest
 3 Runic Armasaur
+3 Misty Rainforest
 3 Steel Leaf Champion
 3 Elvish Visionary
 4 Bloodbraid Elf
@@ -116,7 +116,7 @@
 4 Steel Leaf Champion
 8 Forest
 1 Minamo, School at Water's Edge
-1 Thalia, Guardian of Thraben
 1 Polluted Delta
+1 Thalia, Guardian of Thraben
 2 Thalia, Guardian of Thraben
 4 Mutavault
