@@ -83,8 +83,8 @@
 |                    2|[Spell Snare](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370447)            |                     |                                                                                                   |
 |                    2|[Mana Leak](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397773)              |                     |                                                                                                   |
 |                    2|[Delver of Secrets](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439326)      |                     |                                                                                                   |
-|                    3|[Spell Snare](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370447)            |                     |                                                                                                   |
 |                    3|[Mana Leak](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397773)              |                     |                                                                                                   |
+|                    3|[Spell Snare](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370447)            |                     |                                                                                                   |
 |                    3|[Delver of Secrets](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439326)      |                     |                                                                                                   |
 |                    4|[Delver of Secrets](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439326)      |                     |                                                                                                   |
 

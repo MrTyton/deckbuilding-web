@@ -43,33 +43,11 @@
 1 Polluted Delta
 1 Thalia, Guardian of Thraben
 2 Thalia, Guardian of Thraben
-1 Courser of Kruphix
-1 Shalai, Voice of Plenty
-1 Duskwatch Recruiter
-1 Vizier of the Menagerie
-1 Nissa, Steward of Elements
-1 Dryad Greenseeker
-1 Kiora, Master of the Depths
-1 Jadelight Ranger
-1 Vivien Reid
-2 Tireless Tracker
-2 Courser of Kruphix
-2 Jadelight Ranger
-2 Vizier of the Menagerie
-2 Dryad Greenseeker
-2 Kiora, Master of the Depths
-3 Walking Ballista
-3 Courser of Kruphix
-3 Nykthos, Shrine to Nyx
-3 Jadelight Ranger
-4 Walking Ballista
-4 Nykthos, Shrine to Nyx
-4 Wooded Foothills
 1 Primeval Titan
 1 Kessig Wolf Run
-1 Overgrown Tomb
 1 Nissa, Vital Force
 1 Spellskite
+1 Overgrown Tomb
 1 Vizier of Remedies
 1 Grapple with the Past
 1 Fatal Push
@@ -85,17 +63,22 @@
 2 Primal Command
 2 Fatal Push
 3 Traverse the Ulvenwald
-3 Fatal Push
 3 Devoted Druid
 3 Primal Command
 3 Eternal Witness
 3 Grapple with the Past
+3 Fatal Push
 4 Traverse the Ulvenwald
 4 Primal Command
 4 Devoted Druid
 4 Grapple with the Past
+1 Remorseful Cleric
+1 Cavern of Souls
+2 Remorseful Cleric
+3 Island
+3 Remorseful Cleric
+4 Selfless Spirit
 1 Bloodbraid Elf
-1 Scavenging Ooze
 1 Steel Leaf Champion
 1 Domri Rade
 1 Ruric Thar, the Unbowed
@@ -104,6 +87,7 @@
 1 Gigantosaurus
 1 Runic Armasaur
 1 Elvish Visionary
+1 Scavenging Ooze
 2 Bloodbraid Elf
 2 Steel Leaf Champion
 2 Gigantosaurus
@@ -120,9 +104,25 @@
 4 Elvish Visionary
 4 Steel Leaf Champion
 8 Forest
-1 Remorseful Cleric
-1 Cavern of Souls
-2 Remorseful Cleric
-3 Island
-3 Remorseful Cleric
-4 Selfless Spirit
+1 Courser of Kruphix
+1 Shalai, Voice of Plenty
+1 Duskwatch Recruiter
+1 Vizier of the Menagerie
+1 Nissa, Steward of Elements
+1 Dryad Greenseeker
+1 Kiora, Master of the Depths
+1 Jadelight Ranger
+1 Vivien Reid
+2 Courser of Kruphix
+2 Tireless Tracker
+2 Jadelight Ranger
+2 Vizier of the Menagerie
+2 Dryad Greenseeker
+2 Kiora, Master of the Depths
+3 Courser of Kruphix
+3 Nykthos, Shrine to Nyx
+3 Walking Ballista
+3 Jadelight Ranger
+4 Nykthos, Shrine to Nyx
+4 Wooded Foothills
+4 Walking Ballista
