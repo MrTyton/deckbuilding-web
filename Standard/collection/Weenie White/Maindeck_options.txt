@@ -1,3 +1,16 @@
+1 Ajani's Pridemate
+1 Leonin Vanguard
+2 Leonin Vanguard
+2 Ajani's Pridemate
+3 Leonin Vanguard
+3 Ajani's Pridemate
+4 Ajani's Pridemate
+4 Leonin Vanguard
+1 Sunpetal Grove
+1 Scattered Groves
+1 Forest
+2 Scattered Groves
+2 Sunpetal Grove
 3 Sunpetal Grove
 3 Scattered Groves
 4 Sunpetal Grove
@@ -5,8 +18,13 @@
 1 Adorned Pouncer
 2 Adorned Pouncer
 3 Adorned Pouncer
+1 Dauntless Bodyguard
+2 Dauntless Bodyguard
+3 Dauntless Bodyguard
+4 Dauntless Bodyguard
+2 Ajani, Adversary of Tyrants
+3 Ajani, Adversary of Tyrants
 1 Aethersphere Harvester
-1 Ixalan's Binding
 1 Baffling End
 1 Adanto Vanguard
 1 Legion's Landing
@@ -23,6 +41,31 @@
 4 Trueheart Duelist
 4 Legion's Landing
 4 Adanto Vanguard
+1 Sacred Cat
+1 Pride Sovereign
+1 Leonin Warleader
+1 Radiant Destiny
+1 Regal Caracal
+1 Thopter Arrest
+2 Pride Sovereign
+2 Sacred Cat
+2 Radiant Destiny
+2 Leonin Warleader
+2 Regal Caracal
+2 Forest
+2 Thopter Arrest
+3 Regal Caracal
+3 Sacred Cat
+3 Radiant Destiny
+3 Pride Sovereign
+3 Leonin Warleader
+3 Forest
+4 Radiant Destiny
+4 Sacred Cat
+4 Leonin Warleader
+4 Pride Sovereign
+4 Regal Caracal
+4 Adorned Pouncer
 1 Karn, Scion of Urza
 1 Glory-Bound Initiate
 2 Karn, Scion of Urza
@@ -37,62 +80,34 @@
 4 Glory-Bound Initiate
 4 Angel of Sanctions
 4 Gideon of the Trials
-1 Ajani, Adversary of Tyrants
-2 Ajani, Adversary of Tyrants
-3 Ajani, Adversary of Tyrants
-1 Regal Caracal
-1 Leonin Vanguard
-1 Thopter Arrest
-1 Leonin Warleader
-1 Pride Sovereign
-1 Sacred Cat
-1 Ajani's Pridemate
-1 Radiant Destiny
-2 Regal Caracal
-2 Forest
-2 Leonin Warleader
-2 Thopter Arrest
-2 Radiant Destiny
-2 Sacred Cat
-2 Ajani's Pridemate
-2 Leonin Vanguard
-2 Pride Sovereign
-3 Leonin Warleader
-3 Ajani's Pridemate
-3 Pride Sovereign
-3 Sacred Cat
-3 Radiant Destiny
-3 Forest
-3 Leonin Vanguard
-3 Regal Caracal
-4 Adorned Pouncer
-4 Sacred Cat
-4 Regal Caracal
-4 Pride Sovereign
-4 Leonin Warleader
-4 Ajani's Pridemate
-4 Leonin Vanguard
-4 Radiant Destiny
-1 Militia Bugler
+1 Fairgrounds Warden
+1 Diamond Mare
+1 Crested Sunmare
+2 Fairgrounds Warden
+2 Ixalan's Binding
+2 Crested Sunmare
+2 Diamond Mare
+3 Ixalan's Binding
+3 Crested Sunmare
+3 Diamond Mare
+4 Crested Sunmare
+4 Ixalan's Binding
+4 Diamond Mare
 1 Arch of Orazca
-1 Remorseful Cleric
 1 Suncleanser
+1 Remorseful Cleric
 1 Field of Ruin
 1 Dusk / Dawn
-1 Mentor of the Meek
 1 Sunscourge Champion
 1 Angel of Invention
 1 Oketra's Monument
-2 Militia Bugler
 2 Field of Ruin
-2 Mentor of the Meek
 2 Oketra's Monument
 2 Sunscourge Champion
 2 Remorseful Cleric
 2 Suncleanser
 2 Angel of Invention
 2 Dusk / Dawn
-3 Militia Bugler
 3 Remorseful Cleric
 3 Oketra's Monument
 3 Mentor of the Meek
@@ -100,7 +115,6 @@
 3 Suncleanser
 3 Sunscourge Champion
 3 Angel of Invention
-4 Militia Bugler
 4 Remorseful Cleric
 4 Mentor of the Meek
 4 Sunscourge Champion
@@ -110,11 +124,11 @@
 1 Paladin of Atonement
 1 Aryel, Knight of Windgrace
 1 Valiant Knight
-1 Unclaimed Territory
 1 Fatal Push
 1 Ifnir Deadlands
-1 Cast Down
 1 Doomfall
+1 Cast Down
+1 Unclaimed Territory
 1 Knight of Malice
 1 Isolated Chapel
 1 Concealed Courtyard
@@ -122,8 +136,8 @@
 2 Doomfall
 2 Aryel, Knight of Windgrace
 2 Valiant Knight
-2 Unclaimed Territory
 2 Fatal Push
+2 Unclaimed Territory
 2 Knight of Malice
 2 Ifnir Deadlands
 2 Isolated Chapel
@@ -141,7 +155,6 @@
 1 Settle the Wreckage
 1 Resplendent Angel
 2 Seal Away
-2 Scavenger Grounds
 2 Resplendent Angel
 2 Lyra Dawnbringer
 3 Lyra Dawnbringer

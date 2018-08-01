@@ -34,6 +34,7 @@
 2 Ravenous Chupacabra
 8 Island
 4 Irrigated Farmland
+7 Plains
 1 Seekers' Squire
 2 Seekers' Squire
 4 Swamp
@@ -80,9 +81,6 @@
 2 Glint-Sleeve Siphoner
 3 Concealed Courtyard
 4 Concealed Courtyard
-7 Plains
-1 Thopter Arrest
-1 Shalai, Voice of Plenty
 4 Fetid Pools
 4 Drowned Catacomb
 3 Ravenous Chupacabra
@@ -96,10 +94,12 @@
 2 The Scarab God
 1 Teferi, Hero of Dominaria
 1 Angel of Sanctions
+1 Thopter Arrest
 1 Settle the Wreckage
+1 Shalai, Voice of Plenty
 2 Thopter Arrest
-1 Inspiring Cleric
-2 Inspiring Cleric
+1 Exclusion Mage
+2 Exclusion Mage
 1 Liliana, Death's Majesty
 1 Noxious Gearhulk
 1 Servant of the Conduit
@@ -125,8 +125,8 @@
 1 Skirk Prospector
 1 Sulfur Falls
 1 Spirebluff Canal
-1 Bomat Courier
 1 Mountain
+1 Bomat Courier
 1 Vizier of Many Faces
 1 Warkite Marauder
 1 Combat Celebrant

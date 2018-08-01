@@ -1,9 +1,9 @@
 4 Spell Queller
 1 Prairie Stream
-1 Mana Leak
 1 Kira, Great Glass-Spinner
 1 Nebelgast Herald
 1 Selfless Spirit
+1 Mana Leak
 1 Aether Vial
 1 Moorland Haunt
 1 Rattlechains
@@ -12,20 +12,20 @@
 1 Polluted Delta
 1 Drogskol Captain
 2 Glacial Fortress
-2 Mana Leak
+2 Polluted Delta
 2 Kira, Great Glass-Spinner
 2 Nebelgast Herald
 2 Selfless Spirit
 2 Aether Vial
+2 Mana Leak
 2 Favorable Winds
 2 Rattlechains
 2 Mausoleum Wanderer
 2 Prairie Stream
-2 Polluted Delta
 2 Drogskol Captain
 3 Glacial Fortress
-3 Mana Leak
 3 Favorable Winds
+3 Mana Leak
 3 Drogskol Captain
 3 Mausoleum Wanderer
 3 Selfless Spirit
@@ -39,11 +39,11 @@
 4 Mana Leak
 4 Glacial Fortress
 1 Sacred Foundry
-1 Lightning Helix
 1 Sulfur Falls
+1 Lightning Helix
+1 Serum Visions
 1 Geist of Saint Traft
 1 Electrolyze
-1 Serum Visions
 1 Steam Vents
 1 Mountain
 1 Scalding Tarn
@@ -51,6 +51,7 @@
 1 Logic Knot
 1 Snapcaster Mage
 2 Lightning Helix
+2 Serum Visions
 2 Geist of Saint Traft
 2 Snapcaster Mage
 2 Sulfur Falls
@@ -59,7 +60,6 @@
 2 Scalding Tarn
 2 Electrolyze
 2 Lightning Bolt
-2 Serum Visions
 3 Logic Knot
 3 Lightning Bolt
 3 Geist of Saint Traft

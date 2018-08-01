@@ -10,10 +10,10 @@
 3 Noble Hierarch
 4 Ancient Stirrings
 4 Noble Hierarch
-1 Wooded Foothills
 1 Grove of the Burnwillows
 1 Eldrazi Obligator
 1 Bloodbraid Elf
+1 Wooded Foothills
 1 Lightning Bolt
 1 Karplusan Forest
 1 Kessig Wolf Run
@@ -38,6 +38,25 @@
 3 Bloodbraid Elf
 1 Scavenging Ooze
 1 Batterskull
+3 Relic of Progenitus
+1 Mutavault
+1 Gemstone Caverns
+1 Serum Powder
+1 Eternal Scourge
+1 Eldrazi Mimic
+2 Mutavault
+2 Eternal Scourge
+2 Gemstone Caverns
+2 Serum Powder
+2 Eldrazi Mimic
+3 Eternal Scourge
+3 Dismember
+3 Eldrazi Mimic
+3 Serum Powder
+4 Dismember
+4 Eternal Scourge
+4 Eldrazi Mimic
+4 Serum Powder
 4 Bloodbraid Elf
 1 Boreal Druid
 2 Boreal Druid
@@ -45,49 +64,32 @@
 1 Warping Wail
 2 Warping Wail
 1 Spatial Contortion
-3 Relic of Progenitus
-1 Mutavault
-1 Gemstone Caverns
-1 Serum Powder
-1 Eternal Scourge
-1 Eldrazi Mimic
 1 Endless One
 1 Tectonic Edge
-2 Mutavault
-2 Eternal Scourge
 2 Tectonic Edge
-2 Gemstone Caverns
-2 Serum Powder
-2 Eldrazi Mimic
 2 Endless One
 3 Mutavault
-3 Eternal Scourge
-3 Dismember
-3 Eldrazi Mimic
 3 Endless One
 3 Gemstone Caverns
-3 Serum Powder
 4 Ghost Quarter
-4 Dismember
 4 Relic of Progenitus
-4 Eternal Scourge
-4 Eldrazi Mimic
-4 Serum Powder
 4 Mutavault
 1 Scavenger Grounds
 1 Karn Liberated
+1 Zhalfirin Void
+2 Zhalfirin Void
 1 Buried Ruin
 2 Spatial Contortion
 3 Boreal Druid
 3 Tectonic Edge
 4 Tectonic Edge
 4 Endless One
-1 Zhalfirin Void
-2 Zhalfirin Void
 1 Sanctum of Ugin
 2 Scavenging Ooze
 2 Karn Liberated
 2 Wurmcoil Engine
+3 Zhalfirin Void
+4 Zhalfirin Void
 4 Cavern of Souls
 1 Thragtusk
 1 Engineered Explosives
@@ -100,9 +102,6 @@
 1 Sorcerous Spyglass
 3 Warping Wail
 4 Endbringer
-3 Zhalfirin Void
-4 Zhalfirin Void
-1 Hallowed Fountain
 1 Breeding Pool
 1 Eldrazi Displacer
 1 Island
@@ -110,6 +109,7 @@
 1 Eldrazi Skyspawner
 1 Temple Garden
 1 Windswept Heath
+1 Hallowed Fountain
 1 Misty Rainforest
 1 Drowner of Hope
 1 Plains
@@ -140,3 +140,12 @@
 3 Karn Liberated
 3 Mind Stone
 4 Karn Liberated
+1 Smuggler's Copter
+1 Blinkmoth Nexus
+1 Simian Spirit Guide
+2 Smuggler's Copter
+2 Simian Spirit Guide
+2 Blinkmoth Nexus
+3 Blinkmoth Nexus
+3 Simian Spirit Guide
+4 Simian Spirit Guide

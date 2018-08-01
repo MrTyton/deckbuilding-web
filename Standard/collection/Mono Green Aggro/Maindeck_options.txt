@@ -4,10 +4,9 @@
 1 Merfolk Branchwalker
 2 Merfolk Branchwalker
 13 Forest
-3 Merfolk Branchwalker
 3 Vine Mare
-4 Merfolk Branchwalker
-4 Heart of Kiran
+3 Merfolk Branchwalker
+1 Aethersphere Harvester
 1 Resilient Khenra
 2 Resilient Khenra
 4 Vine Mare
@@ -20,8 +19,6 @@
 2 Servant of the Conduit
 3 Servant of the Conduit
 4 Servant of the Conduit
-4 Greenbelt Rampager
-4 Ghalta, Primal Hunger
 1 Botanical Sanctum
 1 Commit / Memory
 1 Hinterland Harbor
@@ -32,7 +29,10 @@
 3 Hinterland Harbor
 4 Botanical Sanctum
 4 Hinterland Harbor
-1 Aethersphere Harvester
+4 Greenbelt Rampager
+4 Ghalta, Primal Hunger
+4 Merfolk Branchwalker
+4 Heart of Kiran
 1 Jadelight Ranger
 19 Forest
 2 Aethersphere Harvester
@@ -75,9 +75,9 @@
 2 Sheltered Thicket
 2 Sarkhan's Unsealing
 2 Aether Hub
-3 Aether Hub
 3 Sarkhan's Unsealing
 3 Sheltered Thicket
+3 Aether Hub
 3 Rootbound Crag
 3 Traxos, Scourge of Kroog
 3 Verdurous Gearhulk
