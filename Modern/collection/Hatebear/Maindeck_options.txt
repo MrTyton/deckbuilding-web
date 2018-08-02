@@ -1,9 +1,4 @@
-4 Restoration Angel
-3 Horizon Canopy
-1 Wastes
 1 Reality Smasher
-2 Thraben Inspector
-1 Field of Ruin
 1 Simian Spirit Guide
 1 Chalice of the Void
 1 Cavern of Souls
@@ -22,8 +17,12 @@
 4 Simian Spirit Guide
 4 Chalice of the Void
 4 Reality Smasher
-1 Mountain
+3 Horizon Canopy
+2 Thraben Inspector
+1 Field of Ruin
+1 Tectonic Edge
 1 Lightning Bolt
+1 Mountain
 1 Sacred Foundry
 1 Battlefield Forge
 1 Kiki-Jiki, Mirror Breaker
@@ -40,7 +39,6 @@
 3 Inspiring Vantage
 4 Inspiring Vantage
 4 Lightning Bolt
-4 Shefet Dunes
 1 Tidehollow Sculler
 1 Swamp
 1 Caves of Koilos
@@ -59,6 +57,8 @@
 4 Concealed Courtyard
 4 Caves of Koilos
 4 Tidehollow Sculler
+4 Shefet Dunes
+7 Plains
 1 Pia Nalaar
 1 Slayers' Stronghold
 4 Horizon Canopy
@@ -67,10 +67,6 @@
 1 Sea Gate Wreckage
 8 Plains
 1 Eiganjo Castle
-1 Wall of Omens
-2 Wall of Omens
-3 Wall of Omens
-2 Tectonic Edge
 1 Mirran Crusader
 1 Scavenging Ooze
 1 Forest
@@ -87,11 +83,10 @@
 3 Noble Hierarch
 3 Temple Garden
 3 Razorverge Thicket
-4 Noble Hierarch
 4 Temple Garden
+4 Noble Hierarch
 4 Razorverge Thicket
 1 Phyrexian Revoker
-1 Shalai, Voice of Plenty
 1 Godless Shrine
 1 Ixalan's Binding
 1 Matter Reshaper
@@ -102,8 +97,12 @@
 3 Vryn Wingmare
 3 Thraben Inspector
 4 Dismember
+1 Wall of Omens
 2 Field of Ruin
+2 Wall of Omens
+3 Wall of Omens
 4 Wall of Omens
+2 Tectonic Edge
 3 Tectonic Edge
 3 Voice of Resurgence
 4 Voice of Resurgence
