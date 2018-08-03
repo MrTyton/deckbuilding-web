@@ -3,16 +3,16 @@
 
 # Standard
 
-|                                     A                                      |                          B                           |                             C                              |                         D                          |                         E                          |
-|----------------------------------------------------------------------------|------------------------------------------------------|------------------------------------------------------------|----------------------------------------------------|----------------------------------------------------|
-|[Azorius Aggro](./Standard/decks/Azorius_Aggro.md)                          |[Golgari Control](./Standard/decks/Golgari_Control.md)|[Mardu Aggro](./Standard/decks/Mardu_Aggro.md)              |[Orzhov Control](./Standard/decks/Orzhov_Control.md)|[Sultai Control](./Standard/decks/Sultai_Control.md)|
-|[Bant Control](./Standard/decks/Bant_Control.md)                            |[Green Ramp](./Standard/decks/Green_Ramp.md)          |[Merfolk](./Standard/decks/Merfolk.md)                      |[Other - Aggro](./Standard/decks/Other_-_Aggro.md)  |[Tokens](./Standard/decks/Tokens.md)                |
-|[Dimir Midrange](./Standard/decks/Dimir_Midrange.md)                        |[Grixis Aggro](./Standard/decks/Grixis_Aggro.md)      |[Mono Black Aggro](./Standard/decks/Mono_Black_Aggro.md)    |[Other - Combo](./Standard/decks/Other_-_Combo.md)  |[UB Control](./Standard/decks/UB_Control.md)        |
-|[Dinosaurs](./Standard/decks/Dinosaurs.md)                                  |[Grixis Control](./Standard/decks/Grixis_Control.md)  |[Mono Black Control](./Standard/decks/Mono_Black_Control.md)|[Rakdos Aggro](./Standard/decks/Rakdos_Aggro.md)    |[UR Aggro](./Standard/decks/UR_Aggro.md)            |
-|[Esper Control](./Standard/decks/Esper_Control.md)                          |[Gruul Aggro](./Standard/decks/Gruul_Aggro.md)        |[Mono Green Aggro](./Standard/decks/Mono_Green_Aggro.md)    |[Rakdos Control](./Standard/decks/Rakdos_Control.md)|[UW Control](./Standard/decks/UW_Control.md)        |
-|[Esper Midrange](./Standard/decks/Esper_Midrange.md)                        |[Improvise](./Standard/decks/Improvise.md)            |[Mono White Control](./Standard/decks/Mono_White_Control.md)|[Red Deck Wins](./Standard/decks/Red_Deck_Wins.md)  |[Vampires](./Standard/decks/Vampires.md)            |
-|[God-Pharaoh's Gift Control](./Standard/decks/God-Pharaoh's_Gift_Control.md)|[Izzet Control](./Standard/decks/Izzet_Control.md)    |[Naya Aggro](./Standard/decks/Naya_Aggro.md)                |[Selesnya Aggro](./Standard/decks/Selesnya_Aggro.md)|[Weenie White](./Standard/decks/Weenie_White.md)    |
-|[Golgari Aggro](./Standard/decks/Golgari_Aggro.md)                          |[Jeskai Control](./Standard/decks/Jeskai_Control.md)  |[Orzhov Aggro](./Standard/decks/Orzhov_Aggro.md)            |[Sultai Aggro](./Standard/decks/Sultai_Aggro.md)    |                                                    |
+|                                     A                                      |                          B                           |                             C                              |                         D                          |                       E                        |
+|----------------------------------------------------------------------------|------------------------------------------------------|------------------------------------------------------------|----------------------------------------------------|------------------------------------------------|
+|[Azorius Aggro](./Standard/decks/Azorius_Aggro.md)                          |[Golgari Control](./Standard/decks/Golgari_Control.md)|[Merfolk](./Standard/decks/Merfolk.md)                      |[Other - Aggro](./Standard/decks/Other_-_Aggro.md)  |[Tokens](./Standard/decks/Tokens.md)            |
+|[Bant Control](./Standard/decks/Bant_Control.md)                            |[Green Ramp](./Standard/decks/Green_Ramp.md)          |[Mono Black Aggro](./Standard/decks/Mono_Black_Aggro.md)    |[Other - Combo](./Standard/decks/Other_-_Combo.md)  |[UB Control](./Standard/decks/UB_Control.md)    |
+|[Dimir Midrange](./Standard/decks/Dimir_Midrange.md)                        |[Grixis Aggro](./Standard/decks/Grixis_Aggro.md)      |[Mono Black Control](./Standard/decks/Mono_Black_Control.md)|[Rakdos Aggro](./Standard/decks/Rakdos_Aggro.md)    |[UR Aggro](./Standard/decks/UR_Aggro.md)        |
+|[Dinosaurs](./Standard/decks/Dinosaurs.md)                                  |[Grixis Control](./Standard/decks/Grixis_Control.md)  |[Mono Green Aggro](./Standard/decks/Mono_Green_Aggro.md)    |[Rakdos Control](./Standard/decks/Rakdos_Control.md)|[UW Control](./Standard/decks/UW_Control.md)    |
+|[Esper Control](./Standard/decks/Esper_Control.md)                          |[Gruul Aggro](./Standard/decks/Gruul_Aggro.md)        |[Mono White Control](./Standard/decks/Mono_White_Control.md)|[Red Deck Wins](./Standard/decks/Red_Deck_Wins.md)  |[Vampires](./Standard/decks/Vampires.md)        |
+|[Esper Midrange](./Standard/decks/Esper_Midrange.md)                        |[Improvise](./Standard/decks/Improvise.md)            |[Naya Aggro](./Standard/decks/Naya_Aggro.md)                |[Selesnya Aggro](./Standard/decks/Selesnya_Aggro.md)|[Weenie White](./Standard/decks/Weenie_White.md)|
+|[God-Pharaoh's Gift Control](./Standard/decks/God-Pharaoh's_Gift_Control.md)|[Jeskai Control](./Standard/decks/Jeskai_Control.md)  |[Orzhov Aggro](./Standard/decks/Orzhov_Aggro.md)            |[Sultai Aggro](./Standard/decks/Sultai_Aggro.md)    |                                                |
+|[Golgari Aggro](./Standard/decks/Golgari_Aggro.md)                          |[Mardu Aggro](./Standard/decks/Mardu_Aggro.md)        |[Orzhov Control](./Standard/decks/Orzhov_Control.md)        |[Sultai Control](./Standard/decks/Sultai_Control.md)|                                                |
 
 
 # Modern
@@ -49,4 +49,4 @@
 
 
 
-#### Last Updated at 12:30PM on August 02, 2018
+#### Last Updated at 12:22AM on August 03, 2018

@@ -1,9 +1,9 @@
 1 Glorybringer
 1 Mountain
 1 Chandra, Torch of Defiance
-1 Abrade
 1 Canyon Slough
 1 Dragonskull Summit
+1 Abrade
 2 Abrade
 2 Mountain
 2 Canyon Slough
@@ -11,17 +11,16 @@
 3 Canyon Slough
 3 Dragonskull Summit
 4 Canyon Slough
-5 Island
 1 Siren Stormtamer
 1 Ruin Raider
 1 Kari Zev, Skyship Raider
 1 Kitesail Freebooter
 1 Sulfur Falls
 1 Lookout's Dispersal
-1 Dire Fleet Poisoner
-1 Dire Fleet Captain
 1 Admiral Beckett Brass
 1 Captain Lannery Storm
+1 Dire Fleet Poisoner
+1 Dire Fleet Captain
 2 Kari Zev, Skyship Raider
 2 Hostage Taker
 2 Siren Stormtamer
@@ -35,63 +34,14 @@
 2 Dire Fleet Poisoner
 3 Kitesail Freebooter
 3 Siren Stormtamer
-3 Ruin Raider
 3 Dire Fleet Captain
+3 Ruin Raider
 3 Sulfur Falls
 3 Lookout's Dispersal
 4 Kitesail Freebooter
 4 Siren Stormtamer
 4 Lookout's Dispersal
-1 Karn, Scion of Urza
-2 Karn, Scion of Urza
-1 Glint-Nest Crane
-1 Aethersphere Harvester
-1 Thrashing Brontodon
-1 Hashep Oasis
-1 Metallic Rebuke
-1 Verdurous Gearhulk
-1 Hinterland Harbor
-1 Sorcerous Spyglass
-1 Blossoming Defense
-1 Botanical Sanctum
-1 Implement of Ferocity
-1 Servant of the Conduit
-1 Scrap Trawler
-1 Llanowar Elves
-1 Forest
-2 Glint-Nest Crane
-2 Aethersphere Harvester
-2 Thrashing Brontodon
-2 Scrap Trawler
-2 Metallic Rebuke
-2 Verdurous Gearhulk
-2 Implement of Ferocity
-2 Forest
-2 Hinterland Harbor
-2 Hashep Oasis
-2 Llanowar Elves
-2 Botanical Sanctum
-3 Forest
-3 Aethersphere Harvester
-3 Implement of Ferocity
-3 Walking Ballista
-3 Llanowar Elves
-3 Botanical Sanctum
-3 Glint-Nest Crane
-3 Karn, Scion of Urza
-3 Verdurous Gearhulk
-4 Aether Hub
-4 Karn, Scion of Urza
-4 Forest
-4 Glint-Nest Crane
-4 Llanowar Elves
-4 Botanical Sanctum
-4 Aethersphere Harvester
-4 Walking Ballista
-4 Verdurous Gearhulk
-5 Forest
-6 Forest
-7 Forest
+5 Island
 1 Hazoret the Fervent
 1 Magma Spray
 1 Pia Nalaar
@@ -100,25 +50,27 @@
 1 Heart of Kiran
 1 Rekindling Phoenix
 1 Cinder Barrens
+1 Karn, Scion of Urza
 1 Scrapheap Scrounger
 2 Magma Spray
 2 Pia Nalaar
 2 Glorybringer
 2 Cinder Barrens
 2 Heart of Kiran
+2 Goblin Chainwhirler
 2 Rekindling Phoenix
 2 Cut / Ribbons
 2 Chandra, Torch of Defiance
 2 Scrapheap Scrounger
-2 Goblin Chainwhirler
+2 Karn, Scion of Urza
 3 Magma Spray
 3 Scrapheap Scrounger
 3 Goblin Chainwhirler
 3 Abrade
 3 Glorybringer
-3 Mountain
 3 Cinder Barrens
 3 Rekindling Phoenix
+3 Mountain
 4 Abrade
 4 Dragonskull Summit
 4 Goblin Chainwhirler
@@ -154,8 +106,8 @@
 3 Memorial to Folly
 3 Ifnir Deadlands
 3 Desert of the Glorified
-3 Doomfall
 3 Seekers' Squire
+3 Doomfall
 4 Memorial to Folly
 9 Swamp
 10 Swamp

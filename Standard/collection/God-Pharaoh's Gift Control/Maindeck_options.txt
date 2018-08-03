@@ -41,14 +41,14 @@
 5 Swamp
 1 The Scarab God
 6 Swamp
-1 Forest
 1 Llanowar Elves
 1 Jadelight Ranger
-2 Llanowar Elves
-2 Forest
+1 Forest
 2 Jadelight Ranger
-3 Llanowar Elves
+2 Forest
+2 Llanowar Elves
 3 Forest
+3 Llanowar Elves
 4 Llanowar Elves
 3 Seekers' Squire
 4 Seekers' Squire
@@ -62,8 +62,8 @@
 2 Merfolk Branchwalker
 3 Verdurous Gearhulk
 3 Merfolk Branchwalker
-4 Verdurous Gearhulk
 4 Merfolk Branchwalker
+4 Verdurous Gearhulk
 1 Botanical Sanctum
 2 Botanical Sanctum
 3 Botanical Sanctum
@@ -102,8 +102,8 @@
 2 Exclusion Mage
 1 Liliana, Death's Majesty
 1 Noxious Gearhulk
-1 Servant of the Conduit
 1 Pelakka Wurm
+1 Servant of the Conduit
 1 Reclamation Sage
 1 Torgaar, Famine Incarnate
 2 Liliana, Death's Majesty
