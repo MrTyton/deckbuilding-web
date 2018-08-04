@@ -20,3 +20,20 @@
 |2 [Ratchet Bomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205482)|3 [Fulminator Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397686)|4 [Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205013)|1 [Fatal Push](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423724)         |2 [Bontu's Last Reckoning](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430749)|
 |                                                                                         |                                                                                            |                                                                                                |2 [Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|1 [Flaying Tendrils](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407580)      |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                          Maindeck Card                                          |*n*<sup>th</sup> copy|                                      Sideboard Card                                      |
+|--------------------:|-------------------------------------------------------------------------------------------------|--------------------:|------------------------------------------------------------------------------------------|
+|                    1|[Dismember](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397830)             |                    1|[Dark Confidant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370413) |
+|                    1|[Ensnaring Bridge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442213)      |                    1|[Delirium Skeins](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425890)|
+|                    1|[Marsh Flats](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426064)           |                    2|[Delirium Skeins](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425890)|
+|                    2|[Ensnaring Bridge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442213)      |                    2|[Dark Confidant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370413) |
+|                    9|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439603)                 |                    3|[Delirium Skeins](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425890)|
+|                   10|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439603)                 |                    3|[Dark Confidant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370413) |
+|                   11|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439603)                 |                    4|[Dark Confidant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370413) |
+|                   12|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439603)                 |                     |                                                                                          |
+|                   13|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439603)                 |                     |                                                                                          |
+|                   14|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439603)                 |                     |                                                                                          |
+|                    4|[Inquisition of Kozilek](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425900)|                     |                                                                                          |
+
