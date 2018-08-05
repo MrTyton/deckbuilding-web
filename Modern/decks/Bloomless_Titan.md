@@ -1,6 +1,7 @@
 # Bloomless Titan
 
 #### [Export MTGO List](../collection/Bloomless%20Titan/Bloomless%20Titan.txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Amulet%20of%20Vigor%0A4%09Ancient%20Stirrings%0A4%09Azusa,%20Lost%20but%20Seeking%0A1%09Bojuka%20Bog%0A1%09Boros%20Garrison%0A1%09Cavern%20of%20Souls%0A1%09Engineered%20Explosives%0A4%09Explore%0A3%09Forest%0A4%09Gemstone%20Mine%0A1%09Ghost%20Quarter%0A1%09Grove%20of%20the%20Burnwillows%0A3%09Gruul%20Turf%0A1%09Khalni%20Garden%0A1%09Pact%20of%20Negation%0A4%09Primeval%20Titan%0A1%09Radiant%20Fountain%0A1%09Reclamation%20Sage%0A4%09Sakura-Tribe%20Scout%0A1%09Selesnya%20Sanctuary%0A4%09Simic%20Growth%20Chamber%0A1%09Slayers'%20Stronghold%0A4%09Summoner's%20Pact%0A1%09Sunhome,%20Fortress%20of%20the%20Legion%0A3%09Tolaria%20West%0A1%09Vesuva%0A1%09Walking%20Ballista&deckside=2%09Abrade%0A1%09Dismember%0A1%09Engineered%20Explosives%0A2%09Firespout%0A1%09Ghost%20Quarter%0A1%09Hornet%20Queen%0A2%09Obstinate%20Baloth%0A1%09Reclamation%20Sage%0A1%09Ruric%20Thar,%20the%20Unbowed%0A3%09Spell%20Pierce)
 # Maindeck
 
 |                                           Artifact (5)                                           |                                           Creature (14)                                            |                                         Instant (5)                                         |                                                 Land (28)                                                  |                                         Sorcery (8)                                          |

@@ -1,6 +1,7 @@
 # Affinity
 
 #### [Export MTGO List](../collection/Affinity/Affinity.txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Ancient%20Tomb%0A4%09Arcbound%20Ravager%0A4%09Blinkmoth%20Nexus%0A4%09Chalice%20of%20the%20Void%0A4%09City%20of%20Traitors%0A3%09Darksteel%20Citadel%0A4%09Hangarback%20Walker%0A1%09Karakas%0A3%09Karn,%20Scion%20of%20Urza%0A2%09Lodestone%20Golem%0A1%09Lotus%20Petal%0A4%09Mishra's%20Factory%0A3%09Mox%20Opal%0A2%09Phyrexian%20Revoker%0A4%09Steel%20Overseer%0A4%09Vault%20Skirge%0A4%09Walking%20Ballista%0A4%09Wasteland%0A1%09Welding%20Jar&deckside=3%09Ensnaring%20Bridge%0A1%09Karakas%0A4%09Leyline%20of%20the%20Void%0A2%09Ratchet%20Bomb%0A2%09Sorcerous%20Spyglass%0A3%09Thorn%20of%20Amethyst)
 # Maindeck
 
 |                                          Artifact (9)                                          |                                        Creature (24)                                         |                                          Land (24)                                           |                                        Planeswalker (3)                                        |

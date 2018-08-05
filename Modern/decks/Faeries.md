@@ -1,6 +1,7 @@
 # Faeries
 
 #### [Export MTGO List](../collection/Faeries/Faeries.txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Delver%20of%20Secrets%0A1%09Flooded%20Strand%0A2%09Grim%20Lavamancer%0A1%09Inquisition%20of%20Kozilek%0A3%09Island%0A4%09Lightning%20Bolt%0A3%09Mana%20Leak%0A1%09Misty%20Rainforest%0A1%09Mountain%0A1%09Murderous%20Cut%0A4%09Mutavault%0A2%09Nimble%20Obstructionist%0A3%09Opt%0A1%09Polluted%20Delta%0A3%09Remand%0A4%09Scalding%20Tarn%0A1%09Scion%20of%20Oona%0A4%09Snapcaster%20Mage%0A4%09Spellstutter%20Sprite%0A4%09Spirebluff%20Canal%0A3%09Steam%20Vents%0A2%09Vendilion%20Clique%0A4%09Wizard's%20Lightning&deckside=2%09Abrade%0A2%09Alpine%20Moon%0A1%09Ceremonious%20Rejection%0A1%09Damnation%0A1%09Disdainful%20Stroke%0A1%09Dispel%0A1%09Izzet%20Staticaster%0A1%09Jace,%20the%20Mind%20Sculptor%0A1%09Negate%0A1%09Nihil%20Spellbomb%0A1%09Spell%20Pierce%0A1%09Sun%20Droplet%0A1%09Surgical%20Extraction)
 # Maindeck
 
 |                                          Creature (19)                                           |                                         Instant (18)                                          |                                          Land (22)                                          |                                            Sorcery (1)                                            |

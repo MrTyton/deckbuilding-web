@@ -1,6 +1,7 @@
 # Merfolk
 
 #### [Export MTGO List](../collection/Merfolk/Merfolk.txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Aether%20Vial%0A1%09Cavern%20of%20Souls%0A2%09Dismember%0A2%09Faerie%20Conclave%0A4%09Harbinger%20of%20the%20Tides%0A11%09Island%0A4%09Lord%20of%20Atlantis%0A4%09Master%20of%20Waves%0A4%09Master%20of%20the%20Pearl%20Trident%0A4%09Merfolk%20Trickster%0A2%09Merrow%20Reejerey%0A4%09Mutavault%0A1%09Oboro,%20Palace%20in%20the%20Clouds%0A4%09Silvergill%20Adept%0A3%09Spell%20Pierce%0A4%09Spreading%20Seas%0A2%09Wanderwine%20Hub&deckside=2%09Ceremonious%20Rejection%0A4%09Deprive%0A1%09Dispel%0A2%09Echoing%20Truth%0A1%09Hurkyl's%20Recall%0A3%09Relic%20of%20Progenitus%0A2%09Tidebinder%20Mage)
 # Maindeck
 
 |                                      Artifact (4)                                      |                                             Creature (26)                                              |                                      Enchantment (4)                                      |                                       Instant (5)                                       |                                               Land (21)                                               |

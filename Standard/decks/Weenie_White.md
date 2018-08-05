@@ -1,6 +1,7 @@
 # Weenie White
 
 #### [Export MTGO List](../collection/Weenie%20White/Weenie%20White.txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=1%09Ajani,%20Adversary%20of%20Tyrants%0A2%09Angel%20of%20Sanctions%0A4%09Benalish%20Marshal%0A4%09Cast%20Out%0A2%09Gideon%20of%20the%20Trials%0A2%09Heart%20of%20Kiran%0A4%09History%20of%20Benalia%0A1%09Ixalan's%20Binding%0A4%09Knight%20of%20Grace%0A1%09Lyra%20Dawnbringer%0A2%09Mentor%20of%20the%20Meek%0A4%09Militia%20Bugler%0A17%09Plains%0A2%09Scavenger%20Grounds%0A4%09Shalai,%20Voice%20of%20Plenty%0A4%09Shefet%20Dunes%0A2%09Walking%20Ballista&deckside=2%09Authority%20of%20the%20Consuls%0A2%09Baird,%20Steward%20of%20Argive%0A1%09Dusk%20/%20Dawn%0A2%09Forsake%20the%20Worldly%0A1%09Gideon's%20Intervention%0A1%09Ixalan's%20Binding%0A1%09Karn,%20Scion%20of%20Urza%0A2%09Seal%20Away%0A1%09Settle%20the%20Wreckage%0A2%09Sorcerous%20Spyglass)
 # Maindeck
 
 |                                       Artifact (2)                                        |                                           Creature (23)                                            |                                        Enchantment (9)                                        |                                          Land (23)                                           |                                            Planeswalker (3)                                            |

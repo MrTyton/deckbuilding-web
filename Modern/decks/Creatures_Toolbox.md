@@ -1,6 +1,7 @@
 # Creatures Toolbox
 
 #### [Export MTGO List](../collection/Creatures%20Toolbox/Creatures%20Toolbox.txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Birds%20of%20Paradise%0A4%09Chord%20of%20Calling%0A4%09Collected%20Company%0A4%09Devoted%20Druid%0A3%09Duskwatch%20Recruiter%0A3%09Eternal%20Witness%0A3%09Forest%0A2%09Gavony%20Township%0A2%09Horizon%20Canopy%0A4%09Kitchen%20Finks%0A3%09Noble%20Hierarch%0A2%09Overgrown%20Tomb%0A1%09Plains%0A1%09Scavenging%20Ooze%0A1%09Selfless%20Spirit%0A1%09Swamp%0A2%09Temple%20Garden%0A4%09Verdant%20Catacombs%0A1%09Viscera%20Seer%0A4%09Vizier%20of%20Remedies%0A2%09Voice%20of%20Resurgence%0A1%09Walking%20Ballista%0A4%09Windswept%20Heath&deckside=3%09Abrupt%20Decay%0A1%09Damping%20Sphere%0A1%09Eidolon%20of%20Rhetoric%0A1%09Kataki,%20War's%20Wage%0A1%09Orzhov%20Pontiff%0A3%09Path%20to%20Exile%0A1%09Qasali%20Pridemage%0A1%09Reclamation%20Sage%0A1%09Scavenging%20Ooze%0A2%09Sin%20Collector)
 # Maindeck
 
 |                                         Creature (31)                                          |                                         Instant (8)                                          |                                          Land (21)                                           |

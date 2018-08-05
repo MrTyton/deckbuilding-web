@@ -1,6 +1,7 @@
 # Storm
 
 #### [Export MTGO List](../collection/Storm/Storm.txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=1%09Ad%20Nauseam%0A1%09Bayou%0A2%09Bloodstained%20Mire%0A4%09Brainstorm%0A4%09Cabal%20Ritual%0A3%09Cabal%20Therapy%0A1%09Dark%20Petition%0A4%09Dark%20Ritual%0A3%09Duress%0A1%09Empty%20the%20Warrens%0A1%09Gitaxian%20Probe%0A4%09Infernal%20Tutor%0A1%09Island%0A4%09Lion's%20Eye%20Diamond%0A4%09Lotus%20Petal%0A1%09Misty%20Rainforest%0A1%09Past%20in%20Flames%0A4%09Polluted%20Delta%0A4%09Ponder%0A2%09Preordain%0A1%09Scalding%20Tarn%0A1%09Swamp%0A1%09Tendrils%20of%20Agony%0A4%09Thoughtseize%0A2%09Underground%20Sea%0A1%09Volcanic%20Island&deckside=2%09Abrupt%20Decay%0A2%09Chain%20of%20Vapor%0A2%09Echoing%20Truth%0A1%09Empty%20the%20Warrens%0A2%09Fatal%20Push%0A2%09Flusterstorm%0A1%09Hurkyl's%20Recall%0A1%09Surgical%20Extraction%0A1%09Tendrils%20of%20Agony%0A1%09Xantid%20Swarm)
 # Maindeck
 
 |                                         Artifact (8)                                          |                                      Instant (13)                                       |                                          Land (14)                                           |                                         Sorcery (25)                                         |

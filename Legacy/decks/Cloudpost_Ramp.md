@@ -1,6 +1,7 @@
 # Cloudpost Ramp
 
 #### [Export MTGO List](../collection/Cloudpost%20Ramp/Cloudpost%20Ramp.txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=2%09All%20Is%20Dust%0A4%09Ancient%20Tomb%0A4%09Chalice%20of%20the%20Void%0A2%09City%20of%20Traitors%0A4%09Cloudpost%0A4%09Eldrazi%20Temple%0A1%09Emrakul,%20the%20Aeons%20Torn%0A2%09Endbringer%0A2%09Eye%20of%20Ugin%0A4%09Glimmerpost%0A4%09Grim%20Monolith%0A1%09Karakas%0A1%09Kozilek,%20the%20Great%20Distortion%0A1%09Thespian's%20Stage%0A4%09Thought-Knot%20Seer%0A3%09Thran%20Dynamo%0A3%09Trinisphere%0A2%09Ugin,%20the%20Spirit%20Dragon%0A2%09Ulamog,%20the%20Ceaseless%20Hunger%0A2%09Urborg,%20Tomb%20of%20Yawgmoth%0A3%09Vesuva%0A3%09Voltaic%20Key%0A1%09Walking%20Ballista%0A1%09Wurmcoil%20Engine&deckside=1%09Ensnaring%20Bridge%0A4%09Leyline%20of%20the%20Void%0A1%09Ratchet%20Bomb%0A3%09Sorcerous%20Spyglass%0A1%09Spatial%20Contortion%0A1%09Trinisphere%0A2%09Warping%20Wail%0A2%09Wurmcoil%20Engine)
 # Maindeck
 
 |                                         Artifact (17)                                          |                                              Creature (12)                                               |                                              Land (27)                                              |                                          Planeswalker (2)                                          |                                      Sorcery (2)                                       |

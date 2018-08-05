@@ -1,6 +1,7 @@
 # Lantern Control
 
 #### [Export MTGO List](../collection/Lantern%20Control/Lantern%20Control.txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=1%09Abrupt%20Decay%0A1%09Academy%20Ruins%0A4%09Ancient%20Stirrings%0A3%09Botanical%20Sanctum%0A4%09Codex%20Shredder%0A3%09Darkslick%20Shores%0A3%09Ensnaring%20Bridge%0A4%09Glimmervoid%0A1%09Grafdigger's%20Cage%0A4%09Inquisition%20of%20Kozilek%0A1%09Inventors'%20Fair%0A1%09Island%0A4%09Lantern%20of%20Insight%0A4%09Mishra's%20Bauble%0A4%09Mox%20Opal%0A2%09Pithing%20Needle%0A1%09Pyrite%20Spellbomb%0A2%09Pyxis%20of%20Pandemonium%0A1%09River%20of%20Tears%0A4%09Spire%20of%20Industry%0A3%09Thoughtseize%0A4%09Whir%20of%20Invention%0A1%09Witchbane%20Orb&deckside=1%09Abrupt%20Decay%0A1%09Ancient%20Grudge%0A1%09Damping%20Sphere%0A2%09Leyline%20of%20Sanctity%0A1%09Maelstrom%20Pulse%0A1%09Nature's%20Claim%0A1%09Pithing%20Needle%0A1%09Porphyry%20Nodes%0A1%09Pyroclasm%0A1%09Search%20for%20Azcanta%0A1%09Tezzeret,%20Agent%20of%20Bolas%0A1%09Torpor%20Orb%0A2%09Welding%20Jar)
 # Maindeck
 
 |                                          Artifact (26)                                          |                                         Instant (5)                                          |                                          Land (18)                                           |                                           Sorcery (11)                                            |

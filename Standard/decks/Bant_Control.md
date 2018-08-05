@@ -1,6 +1,7 @@
 # Bant Control
 
 #### [Export MTGO List](../collection/Bant%20Control/Bant%20Control.txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=2%09Approach%20of%20the%20Second%20Sun%0A1%09Arch%20of%20Orazca%0A3%09Cast%20Out%0A2%09Desert%20of%20the%20Indomitable%0A1%09Forest%0A3%09Fumigate%0A4%09Gift%20of%20Paradise%0A2%09Hashep%20Oasis%0A1%09Hostile%20Desert%0A4%09Hour%20of%20Promise%0A4%09Ipnu%20Rivulet%0A2%09Island%0A2%09Naturalize%0A3%09Plains%0A2%09Pull%20from%20Tomorrow%0A4%09Scattered%20Groves%0A1%09Scavenger%20Grounds%0A4%09Seal%20Away%0A3%09Settle%20the%20Wreckage%0A1%09Shefet%20Dunes%0A4%09Spring%20/%20Mind%0A4%09Sunpetal%20Grove%0A3%09Teferi,%20Hero%20of%20Dominaria&deckside=2%09Baffling%20End%0A2%09Carnage%20Tyrant%0A3%09Disallow%0A1%09Fumigate%0A4%09Negate%0A3%09Regal%20Caracal)
 # Maindeck
 
 |                                      Enchantment (11)                                       |                                          Instant (7)                                           |                                              Land (26)                                               |                                           Planeswalker (3)                                           |                                              Sorcery (9)                                              |  Unknown (4)  |

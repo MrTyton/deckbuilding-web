@@ -1,6 +1,7 @@
 # Dredge
 
 #### [Export MTGO List](../collection/Dredge/Dredge.txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=2%09Arid%20Mesa%0A1%09Blackcleave%20Cliffs%0A2%09Blood%20Crypt%0A4%09Bloodghast%0A2%09Bloodstained%20Mire%0A4%09Cathartic%20Reunion%0A3%09Conflagrate%0A4%09Copperline%20Gorge%0A1%09Dakmor%20Salvage%0A1%09Darkblast%0A4%09Faithless%20Looting%0A1%09Gemstone%20Mine%0A1%09Ghost%20Quarter%0A3%09Golgari%20Thug%0A4%09Life%20from%20the%20Loam%0A2%09Mountain%0A4%09Narcomoeba%0A4%09Prized%20Amalgam%0A3%09Shriekhorn%0A4%09Stinkweed%20Imp%0A2%09Stomping%20Ground%0A1%09Tormenting%20Voice%0A3%09Wooded%20Foothills&deckside=2%09Abrupt%20Decay%0A3%09Ancient%20Grudge%0A2%09Collective%20Brutality%0A1%09Damping%20Sphere%0A1%09Ghost%20Quarter%0A3%09Lightning%20Axe%0A3%09Nature's%20Claim)
 # Maindeck
 
 |                                     Artifact (3)                                      |                                       Creature (19)                                       |                                     Instant (1)                                     |                                           Land (21)                                           |                                         Sorcery (16)                                          |

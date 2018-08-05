@@ -1,6 +1,7 @@
 # Sultai Aggro
 
 #### [Export MTGO List](../collection/Sultai%20Aggro/Sultai%20Aggro.txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Adventurous%20Impulse%0A4%09Aether%20Hub%0A4%09Blooming%20Marsh%0A2%09Drowned%20Catacomb%0A2%09Fatal%20Push%0A4%09Forest%0A4%09Glint-Sleeve%20Siphoner%0A2%09Hinterland%20Harbor%0A3%09Jadelight%20Ranger%0A3%09Merfolk%20Branchwalker%0A3%09Ravenous%20Chupacabra%0A2%09Rishkar,%20Peema%20Renegade%0A4%09Swamp%0A2%09The%20Scarab%20God%0A1%09Thrashing%20Brontodon%0A2%09Verdurous%20Gearhulk%0A2%09Vraska's%20Contempt%0A4%09Walking%20Ballista%0A4%09Winding%20Constrictor%0A4%09Woodland%20Cemetery&deckside=2%09Aethersphere%20Harvester%0A2%09Blossoming%20Defense%0A2%09Doomfall%0A3%09Duress%0A1%09Fatal%20Push%0A1%09Lifecrafter's%20Bestiary%0A2%09Thrashing%20Brontodon%0A1%09Vraska's%20Contempt%0A1%09Vraska,%20Relic%20Seeker)
 # Maindeck
 
 |                                           Creature (28)                                            |                                         Instant (4)                                          |                                          Land (24)                                           |                                          Sorcery (4)                                           |

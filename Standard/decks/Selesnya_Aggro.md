@@ -1,6 +1,7 @@
 # Selesnya Aggro
 
 #### [Export MTGO List](../collection/Selesnya%20Aggro/Selesnya%20Aggro.txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=2%09Ajani%20Unyielding%0A1%09Angel%20of%20Sanctions%0A3%09Blossoming%20Defense%0A3%09Cast%20Out%0A7%09Forest%0A2%09Hashep%20Oasis%0A3%09Jadelight%20Ranger%0A4%09Llanowar%20Elves%0A3%09Lyra%20Dawnbringer%0A6%09Plains%0A2%09Rishkar,%20Peema%20Renegade%0A4%09Scattered%20Groves%0A4%09Servant%20of%20the%20Conduit%0A3%09Shalai,%20Voice%20of%20Plenty%0A1%09Shefet%20Dunes%0A2%09Skysovereign,%20Consul%20Flagship%0A4%09Sunpetal%20Grove%0A2%09Thrashing%20Brontodon%0A4%09Walking%20Ballista&deckside=3%09Baffling%20End%0A2%09Heroic%20Intervention%0A1%09Karn,%20Scion%20of%20Urza%0A1%09Naturalize%0A2%09Nissa,%20Vital%20Force%0A3%09Prowling%20Serpopard%0A1%09Sentinel%20Totem%0A2%09Thopter%20Arrest)
 # Maindeck
 
 |                                               Artifact (2)                                               |                                           Creature (26)                                            |                                   Enchantment (3)                                   |                                          Instant (3)                                          |                                          Land (24)                                          |                                      Planeswalker (2)                                       |

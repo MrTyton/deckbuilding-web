@@ -1,6 +1,7 @@
 # Dragon Stompy
 
 #### [Export MTGO List](../collection/Dragon%20Stompy/Dragon%20Stompy.txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Ancient%20Tomb%0A4%09Blood%20Moon%0A4%09Chalice%20of%20the%20Void%0A4%09Chandra,%20Torch%20of%20Defiance%0A4%09Chrome%20Mox%0A4%09City%20of%20Traitors%0A4%09Ensnaring%20Bridge%0A4%09Fiery%20Confluence%0A4%09Goblin%20Rabblemaster%0A1%09Hazoret%20the%20Fervent%0A4%09Magus%20of%20the%20Moon%0A11%09Mountain%0A2%09Pia%20and%20Kiran%20Nalaar%0A4%09Simian%20Spirit%20Guide%0A2%09Trinisphere&deckside=2%09Abrade%0A2%09Kozilek's%20Return%0A4%09Leyline%20of%20the%20Void%0A3%09Scab-Clan%20Berserker%0A2%09Sorcerous%20Spyglass%0A2%09Sulfur%20Elemental)
 # Maindeck
 
 |                                         Artifact (14)                                          |                                          Creature (15)                                          |                                    Enchantment (4)                                    |                                          Land (19)                                          |                                           Planeswalker (4)                                            |                                         Sorcery (4)                                         |

@@ -1,6 +1,7 @@
 # Merfolk
 
 #### [Export MTGO List](../collection/Merfolk/Merfolk.txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Blossoming%20Defense%0A4%09Botanical%20Sanctum%0A2%09Cartouche%20of%20Knowledge%0A4%09Deeproot%20Elite%0A2%09Deeproot%20Waters%0A2%09Essence%20Scatter%0A2%09Forest%0A4%09Hashep%20Oasis%0A4%09Hinterland%20Harbor%0A6%09Island%0A2%09Jade%20Bearer%0A2%09Kopala,%20Warden%20of%20Waves%0A2%09Kumena,%20Tyrant%20of%20Orazca%0A4%09Merfolk%20Mistbinder%0A4%09Merfolk%20Trickster%0A2%09Scavenger%20Grounds%0A2%09Shapers'%20Sanctuary%0A4%09Silvergill%20Adept%0A2%09Spell%20Pierce%0A2%09Unsummon&deckside=2%09Deeproot%20Waters%0A1%09Essence%20Scatter%0A1%09Field%20of%20Ruin%0A1%09Jace's%20Defeat%0A2%09Kopala,%20Warden%20of%20Waves%0A2%09Naru%20Meha,%20Master%20Wizard%0A3%09Negate%0A2%09Sorcerous%20Spyglass%0A1%09Spell%20Pierce)
 # Maindeck
 
 |                                            Creature (22)                                            |                                          Enchantment (6)                                          |                                         Instant (10)                                          |                                          Land (22)                                           |

@@ -1,6 +1,7 @@
 # Esper Control
 
 #### [Export MTGO List](../collection/Esper%20Control/Esper%20Control.txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=1%09Cast%20Down%0A1%09Commit%20/%20Memory%0A4%09Disallow%0A4%09Drowned%20Catacomb%0A2%09Essence%20Scatter%0A4%09Fatal%20Push%0A4%09Fetid%20Pools%0A2%09Field%20of%20Ruin%0A1%09Forsake%20the%20Worldly%0A3%09Glacial%20Fortress%0A3%09Glimmer%20of%20Genius%0A3%09Irrigated%20Farmland%0A3%09Island%0A3%09Isolated%20Chapel%0A1%09Negate%0A1%09Plains%0A2%09Search%20for%20Azcanta%0A1%09Supreme%20Will%0A4%09Swamp%0A2%09Syncopate%0A3%09Teferi,%20Hero%20of%20Dominaria%0A1%09The%20Scarab%20God%0A3%09Torrential%20Gearhulk%0A4%09Vraska's%20Contempt&deckside=2%09Arguel's%20Blood%20Fast%0A1%09Cast%20Down%0A1%09Chromium,%20the%20Mutable%0A2%09Duress%0A1%09Essence%20Scatter%0A1%09Forsake%20the%20Worldly%0A1%09Jace's%20Defeat%0A2%09Negate%0A1%09The%20Eldest%20Reborn%0A1%09The%20Scarab%20God%0A2%09Walking%20Ballista)
 # Maindeck
 
 |                                          Creature (4)                                          |                                        Enchantment (2)                                        |                                          Instant (23)                                          |                                           Land (27)                                           |                                           Planeswalker (3)                                           |   Unknown (1)   |

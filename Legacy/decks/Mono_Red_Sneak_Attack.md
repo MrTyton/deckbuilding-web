@@ -1,6 +1,7 @@
 # Mono Red Sneak Attack
 
 #### [Export MTGO List](../collection/Mono%20Red%20Sneak%20Attack/Mono%20Red%20Sneak%20Attack.txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Ancient%20Tomb%0A4%09Blood%20Moon%0A4%09Chalice%20of%20the%20Void%0A2%09Chandra,%20Torch%20of%20Defiance%0A4%09City%20of%20Traitors%0A2%09Emrakul,%20the%20Aeons%20Torn%0A3%09Griselbrand%0A4%09Inferno%20Titan%0A4%09Lotus%20Petal%0A10%09Mountain%0A1%09Sandstone%20Needle%0A2%09Seething%20Song%0A4%09Simian%20Spirit%20Guide%0A4%09Sneak%20Attack%0A4%09Through%20the%20Breach%0A1%09Woodfall%20Primus%0A2%09Worldspine%20Wurm%0A1%09Zhalfirin%20Void&deckside=2%09Abrade%0A1%09Chaos%20Warp%0A2%09Defense%20Grid%0A4%09Faerie%20Macabre%0A3%09Pyroclasm%0A3%09Trinisphere)
 # Maindeck
 
 |                                          Artifact (8)                                          |                                           Creature (16)                                            |                                     Enchantment (8)                                     |                                          Instant (6)                                          |                                          Land (20)                                          |                                           Planeswalker (2)                                            |

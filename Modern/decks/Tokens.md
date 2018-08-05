@@ -1,6 +1,7 @@
 # Tokens
 
 #### [Export MTGO List](../collection/Tokens/Tokens.txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=2%09Bitterblossom%0A2%09Collective%20Brutality%0A4%09Concealed%20Courtyard%0A4%09Fatal%20Push%0A1%09Fetid%20Heath%0A2%09Field%20of%20Ruin%0A1%09Flooded%20Strand%0A1%09Gideon,%20Ally%20of%20Zendikar%0A2%09Godless%20Shrine%0A3%09Inquisition%20of%20Kozilek%0A4%09Intangible%20Virtue%0A3%09Legion's%20Landing%0A1%09Liliana%20of%20the%20Veil%0A4%09Lingering%20Souls%0A4%09Marsh%20Flats%0A2%09Path%20to%20Exile%0A3%09Plains%0A1%09Polluted%20Delta%0A3%09Raise%20the%20Alarm%0A2%09Shambling%20Vent%0A2%09Sorin,%20Solemn%20Visitor%0A2%09Spectral%20Procession%0A2%09Swamp%0A2%09Thoughtseize%0A2%09Vault%20of%20the%20Archangel%0A1%09Wrath%20of%20God&deckside=1%09Bontu's%20Last%20Reckoning%0A1%09Cast%20Down%0A1%09Cast%20Out%0A2%09Collective%20Brutality%0A1%09Liliana,%20the%20Last%20Hope%0A1%09Ob%20Nixilis%20Reignited%0A2%09Rest%20in%20Peace%0A3%09Stony%20Silence%0A1%09Surgical%20Extraction%0A2%09Timely%20Reinforcements)
 # Maindeck
 
 |                                       Enchantment (9)                                        |                                        Instant (9)                                         |                                             Land (24)                                             |                                          Planeswalker (4)                                           |                                           Sorcery (14)                                            |

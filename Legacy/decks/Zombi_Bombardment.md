@@ -1,6 +1,7 @@
 # Zombi Bombardment
 
 #### [Export MTGO List](../collection/Zombi%20Bombardment/Zombi%20Bombardment.txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=3%09Badlands%0A2%09Bitterblossom%0A4%09Bloodghast%0A3%09Bloodstained%20Mire%0A4%09Cabal%20Therapy%0A4%09Carrion%20Feeder%0A4%09Faithless%20Looting%0A3%09Goblin%20Bombardment%0A4%09Gravecrawler%0A2%09Gurmag%20Angler%0A4%09Lingering%20Souls%0A2%09Marsh%20Flats%0A3%09Polluted%20Delta%0A3%09Scrubland%0A4%09Stitcher's%20Supplier%0A3%09Swamp%0A4%09Thoughtseize%0A1%09Undiscovered%20Paradise%0A3%09Verdant%20Catacombs&deckside=2%09Diabolic%20Edict%0A2%09Ensnaring%20Bridge%0A1%09Perish%0A2%09Pithing%20Needle%0A2%09Sudden%20Demise%0A3%09Surgical%20Extraction%0A3%09Wear%20/%20Tear)
 # Maindeck
 
 |                                         Creature (18)                                          |                                        Enchantment (5)                                        |                                           Land (21)                                            |                                         Sorcery (16)                                         |

@@ -1,6 +1,7 @@
 # High Tide
 
 #### [Export MTGO List](../collection/High%20Tide/High%20Tide.txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Brainstorm%0A3%09Cunning%20Wish%0A1%09Flooded%20Strand%0A3%09Flusterstorm%0A4%09Force%20of%20Will%0A4%09High%20Tide%0A1%09Intuition%0A12%09Island%0A4%09Merchant%20Scroll%0A2%09Misty%20Rainforest%0A1%09Polluted%20Delta%0A4%09Ponder%0A3%09Predict%0A4%09Preordain%0A2%09Scalding%20Tarn%0A1%09Search%20for%20Azcanta%0A4%09Time%20Spiral%0A3%09Turnabout&deckside=1%09Blue%20Sun's%20Zenith%0A1%09Brain%20Freeze%0A1%09Echoing%20Truth%0A1%09Flusterstorm%0A2%09Grafdigger's%20Cage%0A1%09Hurkyl's%20Recall%0A1%09Meditate%0A1%09Snap%0A1%09Surgical%20Extraction%0A2%09Teferi's%20Realm%0A2%09Thing%20in%20the%20Ice%0A1%09Turnabout)
 # Maindeck
 
 |                                        Enchantment (1)                                        |                                       Instant (25)                                       |                                          Land (18)                                          |                                       Sorcery (16)                                       |

@@ -1,6 +1,7 @@
 # Food Griffin
 
 #### [Export MTGO List](../collection/Food%20Griffin/Food%20Griffin.txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=3%09Abrupt%20Decay%0A4%09Baleful%20Strix%0A1%09Bayou%0A4%09Brainstorm%0A4%09Deathrite%20Shaman%0A1%09Eternal%20Scourge%0A4%09Food%20Chain%0A4%09Force%20of%20Will%0A1%09Forest%0A2%09Island%0A2%09Leovold,%20Emissary%20of%20Trest%0A3%09Manipulate%20Fate%0A3%09Misthollow%20Griffin%0A4%09Misty%20Rainforest%0A4%09Polluted%20Delta%0A3%09Ponder%0A1%09Relic%20of%20Progenitus%0A1%09Swamp%0A1%09Trinket%20Mage%0A2%09Tropical%20Island%0A2%09Underground%20Sea%0A3%09Verdant%20Catacombs%0A3%09Walking%20Ballista&deckside=1%09Collective%20Brutality%0A2%09Diabolic%20Edict%0A1%09Engineered%20Explosives%0A1%09Fatal%20Push%0A2%09Flusterstorm%0A1%09Golgari%20Charm%0A1%09Grafdigger's%20Cage%0A1%09Pithing%20Needle%0A2%09Surgical%20Extraction%0A2%09Thoughtseize%0A1%09Toxic%20Deluge)
 # Maindeck
 
 |                                          Artifact (1)                                          |                                             Creature (18)                                             |                                   Enchantment (4)                                    |                                       Instant (11)                                       |                                          Land (20)                                           |                                        Sorcery (6)                                        |

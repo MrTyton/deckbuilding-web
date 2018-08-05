@@ -1,6 +1,7 @@
 # Selesnya Aggro
 
 #### [Export MTGO List](../collection/Selesnya%20Aggro/Selesnya%20Aggro.txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Birds%20of%20Paradise%0A4%09Chord%20of%20Calling%0A4%09Collected%20Company%0A2%09Courser%20of%20Kruphix%0A4%09Devoted%20Druid%0A1%09Duskwatch%20Recruiter%0A1%09Eternal%20Witness%0A1%09Field%20of%20Ruin%0A5%09Forest%0A1%09Gavony%20Township%0A3%09Ghost%20Quarter%0A1%09Horizon%20Canopy%0A4%09Knight%20of%20the%20Reliquary%0A4%09Noble%20Hierarch%0A1%09Path%20to%20Exile%0A1%09Plains%0A1%09Ramunap%20Excavator%0A1%09Scavenging%20Ooze%0A2%09Temple%20Garden%0A3%09Tireless%20Tracker%0A4%09Vizier%20of%20Remedies%0A1%09Voice%20of%20Resurgence%0A1%09Walking%20Ballista%0A4%09Windswept%20Heath%0A2%09Wooded%20Foothills&deckside=1%09Bojuka%20Bog%0A1%09Burrenton%20Forge-Tender%0A1%09Choke%0A1%09Eidolon%20of%20Rhetoric%0A1%09Kataki,%20War's%20Wage%0A3%09Path%20to%20Exile%0A1%09Qasali%20Pridemage%0A1%09Reclamation%20Sage%0A2%09Stony%20Silence%0A2%09Voice%20of%20Resurgence%0A1%09Worship)
 # Maindeck
 
 |                                           Creature (31)                                            |                                         Instant (9)                                          |                                          Land (20)                                          |

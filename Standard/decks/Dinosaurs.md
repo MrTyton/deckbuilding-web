@@ -1,6 +1,7 @@
 # Dinosaurs
 
 #### [Export MTGO List](../collection/Dinosaurs/Dinosaurs.txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=2%09Abrade%0A1%09Banefire%0A3%09Carnage%20Tyrant%0A4%09Commune%20with%20Dinosaurs%0A4%09Drover%20of%20the%20Mighty%0A12%09Forest%0A1%09Ghalta,%20Primal%20Hunger%0A4%09Gigantosaurus%0A3%09Hashep%20Oasis%0A4%09Llanowar%20Elves%0A1%09Mountain%0A4%09Regisaur%20Alpha%0A1%09Rhonas%20the%20Indomitable%0A4%09Rootbound%20Crag%0A4%09Sarkhan's%20Unsealing%0A4%09Sheltered%20Thicket%0A4%09Steel%20Leaf%20Champion&deckside=2%09Abrade%0A1%09Banefire%0A2%09Deathgorge%20Scavenger%0A2%09Magma%20Spray%0A1%09Nissa,%20Vital%20Force%0A3%09Thrashing%20Brontodon%0A2%09Vine%20Mare%0A2%09Vivien%20Reid)
 # Maindeck
 
 |                                           Creature (25)                                           |                                        Enchantment (4)                                         |                                    Instant (2)                                    |                                          Land (24)                                           |                                            Sorcery (5)                                            |

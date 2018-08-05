@@ -1,6 +1,7 @@
 # Ad Nauseam
 
 #### [Export MTGO List](../collection/Ad%20Nauseam/Ad%20Nauseam.txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Ad%20Nauseam%0A4%09Angel's%20Grace%0A3%09City%20of%20Brass%0A3%09Darkslick%20Shores%0A3%09Gemstone%20Mine%0A1%09Island%0A1%09Laboratory%20Maniac%0A1%09Lightning%20Storm%0A4%09Lotus%20Bloom%0A3%09Pact%20of%20Negation%0A4%09Pentad%20Prism%0A4%09Phyrexian%20Unlife%0A1%09Plains%0A3%09Seachrome%20Coast%0A4%09Serum%20Visions%0A4%09Simian%20Spirit%20Guide%0A4%09Sleight%20of%20Hand%0A3%09Spoils%20of%20the%20Vault%0A3%09Temple%20of%20Deceit%0A3%09Temple%20of%20Enlightenment&deckside=3%09Bontu's%20Last%20Reckoning%0A1%09Echoing%20Truth%0A2%09Fatal%20Push%0A1%09Hurkyl's%20Recall%0A4%09Leyline%20of%20Sanctity%0A1%09Pact%20of%20Negation%0A1%09Slaughter%20Pact%0A2%09Thoughtseize)
 # Maindeck
 
 |                                      Artifact (8)                                       |                                          Creature (5)                                          |                                       Enchantment (4)                                       |                                         Instant (15)                                          |                                             Land (20)                                              |                                       Sorcery (8)                                        |

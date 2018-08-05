@@ -1,6 +1,7 @@
 # Zoo
 
 #### [Export MTGO List](../collection/Zoo/Zoo.txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Arid%20Mesa%0A4%09Atarka's%20Command%0A4%09Burning-Tree%20Emissary%0A3%09Experiment%20One%0A1%09Forest%0A4%09Goblin%20Guide%0A4%09Kird%20Ape%0A4%09Lightning%20Bolt%0A1%09Mountain%0A3%09Narnam%20Renegade%0A3%09Path%20to%20Exile%0A4%09Reckless%20Bushwhacker%0A1%09Sacred%20Foundry%0A2%09Stomping%20Ground%0A3%09Tarmogoyf%0A1%09Temple%20Garden%0A2%09Thalia,%20Guardian%20of%20Thraben%0A4%09Wild%20Nacatl%0A4%09Windswept%20Heath%0A4%09Wooded%20Foothills&deckside=1%09Deflecting%20Palm%0A3%09Destructive%20Revelry%0A2%09Dromoka's%20Command%0A1%09Kataki,%20War's%20Wage%0A2%09Kor%20Firewalker%0A1%09Path%20to%20Exile%0A2%09Pyroclasm%0A2%09Selfless%20Spirit%0A1%09Thrun,%20the%20Last%20Troll)
 # Maindeck
 
 |                                             Creature (31)                                              |                                        Instant (11)                                         |                                          Land (18)                                          |

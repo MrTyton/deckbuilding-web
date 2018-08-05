@@ -1,6 +1,7 @@
 # Dredge
 
 #### [Export MTGO List](../collection/Dredge/Dredge.txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=3%09Breakthrough%0A4%09Bridge%20from%20Below%0A4%09Cabal%20Therapy%0A2%09Careful%20Study%0A4%09Cephalid%20Coliseum%0A2%09City%20of%20Brass%0A4%09Faithless%20Looting%0A3%09Gemstone%20Mine%0A4%09Golgari%20Grave-Troll%0A4%09Golgari%20Thug%0A4%09Ichorid%0A4%09Lion's%20Eye%20Diamond%0A4%09Mana%20Confluence%0A4%09Narcomoeba%0A2%09Putrid%20Imp%0A4%09Stinkweed%20Imp%0A4%09Street%20Wraith&deckside=1%09Ashen%20Rider%0A2%09Dread%20Return%0A3%09Firestorm%0A1%09Iona,%20Shield%20of%20Emeria%0A2%09Lotus%20Petal%0A2%09Serenity%0A3%09Silent%20Gravestone%0A1%09Wear%20/%20Tear)
 # Maindeck
 
 |                                         Artifact (4)                                          |                                         Creature (26)                                          |                                       Enchantment (4)                                        |                                          Land (13)                                           |                                         Sorcery (13)                                         |

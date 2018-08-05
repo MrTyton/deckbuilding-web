@@ -1,6 +1,7 @@
 # Elves
 
 #### [Export MTGO List](../collection/Elves/Elves.txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=3%09Blooming%20Marsh%0A4%09Cavern%20of%20Souls%0A3%09Chord%20of%20Calling%0A4%09Collected%20Company%0A4%09Dwynen's%20Elite%0A4%09Elvish%20Archdruid%0A4%09Elvish%20Mystic%0A3%09Elvish%20Visionary%0A3%09Ezuri,%20Renegade%20Leader%0A4%09Forest%0A3%09Gilt-Leaf%20Palace%0A4%09Heritage%20Druid%0A1%09Horizon%20Canopy%0A2%09Lead%20the%20Stampede%0A4%09Llanowar%20Elves%0A3%09Nettle%20Sentinel%0A1%09Overgrown%20Tomb%0A1%09Pendelhaven%0A4%09Shaman%20of%20the%20Pack%0A1%09Windswept%20Heath&deckside=1%09Burrenton%20Forge-Tender%0A2%09Damping%20Sphere%0A1%09Eidolon%20of%20Rhetoric%0A1%09Fracturing%20Gust%0A1%09Lead%20the%20Stampede%0A1%09Path%20to%20Exile%0A1%09Phyrexian%20Revoker%0A2%09Reclamation%20Sage%0A1%09Rest%20in%20Peace%0A1%09Scavenging%20Ooze%0A2%09Shapers'%20Sanctuary%0A1%09Stony%20Silence)
 # Maindeck
 
 |                                           Creature (33)                                           |                                         Instant (7)                                          |                                          Land (18)                                          |                                         Sorcery (2)                                          |

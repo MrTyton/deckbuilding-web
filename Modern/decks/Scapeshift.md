@@ -1,6 +1,7 @@
 # Scapeshift
 
 #### [Export MTGO List](../collection/Scapeshift/Scapeshift.txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=1%09Anger%20of%20the%20Gods%0A1%09Breeding%20Pool%0A4%09Bring%20to%20Light%0A1%09Cinder%20Glade%0A4%09Cryptic%20Command%0A1%09Cultivate%0A1%09Damnation%0A1%09Farseek%0A2%09Forest%0A3%09Island%0A4%09Lightning%20Bolt%0A1%09Maelstrom%20Pulse%0A4%09Misty%20Rainforest%0A2%09Mountain%0A1%09Opt%0A1%09Overgrown%20Tomb%0A1%09Quicken%0A3%09Remand%0A4%09Sakura-Tribe%20Elder%0A2%09Scapeshift%0A2%09Search%20for%20Azcanta%0A4%09Search%20for%20Tomorrow%0A1%09Snapcaster%20Mage%0A4%09Steam%20Vents%0A3%09Stomping%20Ground%0A1%09Sunken%20Hollow%0A1%09Swamp%0A2%09Valakut,%20the%20Molten%20Pinnacle&deckside=1%09Abrupt%20Decay%0A1%09Anger%20of%20the%20Gods%0A1%09Crumble%20to%20Dust%0A2%09Dispel%0A1%09Fatal%20Push%0A1%09Madcap%20Experiment%0A2%09Nature's%20Claim%0A2%09Negate%0A2%09Obstinate%20Baloth%0A1%09Platinum%20Emperion%0A1%09Shatterstorm)
 # Maindeck
 
 |                                         Creature (5)                                          |                                        Enchantment (2)                                        |                                        Instant (13)                                        |                                                Land (25)                                                |                                          Sorcery (15)                                          |

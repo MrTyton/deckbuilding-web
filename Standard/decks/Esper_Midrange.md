@@ -1,6 +1,7 @@
 # Esper Midrange
 
 #### [Export MTGO List](../collection/Esper%20Midrange/Esper%20Midrange.txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=1%09Arguel's%20Blood%20Fast%0A2%09Cast%20Down%0A3%09Champion%20of%20Wits%0A4%09Concealed%20Courtyard%0A1%09Drowned%20Catacomb%0A1%09Essence%20Scatter%0A4%09Fatal%20Push%0A4%09Fetid%20Pools%0A3%09Glacial%20Fortress%0A4%09History%20of%20Benalia%0A4%09Irrigated%20Farmland%0A1%09Island%0A4%09Isolated%20Chapel%0A4%09Knight%20of%20Grace%0A4%09Knight%20of%20Malice%0A2%09Liliana,%20Death's%20Majesty%0A2%09Plains%0A3%09Ravenous%20Chupacabra%0A3%09Swamp%0A3%09The%20Scarab%20God%0A3%09Vraska's%20Contempt&deckside=1%09Arguel's%20Blood%20Fast%0A3%09Duress%0A2%09Dusk%20/%20Dawn%0A1%09Essence%20Scatter%0A1%09Invoke%20the%20Divine%0A3%09Negate%0A2%09Settle%20the%20Wreckage%0A2%09Teferi,%20Hero%20of%20Dominaria)
 # Maindeck
 
 |                                         Creature (17)                                          |                                        Enchantment (5)                                         |                                         Instant (10)                                         |                                           Land (26)                                            |                                          Planeswalker (2)                                           |

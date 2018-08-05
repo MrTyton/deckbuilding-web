@@ -1,6 +1,7 @@
 # Mono Green Aggro
 
 #### [Export MTGO List](../collection/Mono%20Green%20Aggro/Mono%20Green%20Aggro.txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=1%09Birds%20of%20Paradise%0A4%09Copperline%20Gorge%0A4%09Cragganwick%20Cremator%0A3%09Eldritch%20Evolution%0A1%09Emrakul,%20the%20Aeons%20Torn%0A2%09Fauna%20Shaman%0A3%09Fire-Lit%20Thicket%0A6%09Forest%0A1%09Ghalta,%20Primal%20Hunger%0A1%09Huntmaster%20of%20the%20Fells%0A1%09Kessig%20Wolf%20Run%0A1%09Kitchen%20Finks%0A4%09Lightning%20Bolt%0A1%09Magus%20of%20the%20Moon%0A3%09Misty%20Rainforest%0A4%09Noble%20Hierarch%0A1%09Scavenging%20Ooze%0A4%09Steel%20Leaf%20Champion%0A2%09Stomping%20Ground%0A4%09Strangleroot%20Geist%0A1%09Surrak,%20the%20Hunt%20Caller%0A2%09Tireless%20Tracker%0A4%09Wooded%20Foothills%0A2%09Worldspine%20Wurm&deckside=1%09Ancient%20Grudge%0A1%09Caldera%20Hellion%0A2%09Damping%20Sphere%0A2%09Obstinate%20Baloth%0A2%09Reclamation%20Sage%0A2%09Relic%20of%20Progenitus%0A1%09Scavenging%20Ooze%0A1%09Shatterstorm%0A2%09Slagstorm%0A1%09Thrun,%20the%20Last%20Troll)
 # Maindeck
 
 |                                           Creature (30)                                            |                                        Instant (4)                                        |                                          Land (23)                                          |                                          Sorcery (3)                                          |

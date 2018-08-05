@@ -1,6 +1,7 @@
 # Dimir Midrange
 
 #### [Export MTGO List](../collection/Dimir%20Midrange/Dimir%20Midrange.txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Aether%20Hub%0A1%09Arguel's%20Blood%20Fast%0A2%09Cast%20Down%0A4%09Champion%20of%20Wits%0A1%09Commit%20/%20Memory%0A2%09Doomfall%0A4%09Drowned%20Catacomb%0A2%09Essence%20Scatter%0A4%09Fatal%20Push%0A4%09Fetid%20Pools%0A2%09Field%20of%20Ruin%0A4%09Glint-Sleeve%20Siphoner%0A3%09Island%0A2%09Liliana,%20Death's%20Majesty%0A1%09Never%20/%20Return%0A2%09Ravenous%20Chupacabra%0A1%09Supreme%20Will%0A8%09Swamp%0A3%09The%20Scarab%20God%0A2%09Torrential%20Gearhulk%0A4%09Vraska's%20Contempt&deckside=1%09Arguel's%20Blood%20Fast%0A1%09Cast%20Down%0A3%09Duress%0A2%09Essence%20Extraction%0A3%09Gifted%20Aetherborn%0A3%09Negate%0A1%09Torrential%20Gearhulk%0A1%09Yahenni's%20Expertise)
 # Maindeck
 
 |                                          Creature (15)                                           |                                        Enchantment (1)                                         |                                         Instant (13)                                         |                                          Land (25)                                          |                                          Planeswalker (2)                                           |                                     Sorcery (2)                                     |   Unknown (2)   |

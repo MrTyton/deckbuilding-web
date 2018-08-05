@@ -1,6 +1,7 @@
 # Show and Tell
 
 #### [Export MTGO List](../collection/Show%20and%20Tell/Show%20and%20Tell.txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=3%09Ancient%20Tomb%0A4%09Brainstorm%0A2%09City%20of%20Traitors%0A4%09Emrakul,%20the%20Aeons%20Torn%0A1%09Flooded%20Strand%0A2%09Flusterstorm%0A4%09Force%20of%20Will%0A4%09Griselbrand%0A3%09Island%0A4%09Lotus%20Petal%0A1%09Misty%20Rainforest%0A1%09Mountain%0A2%09Omniscience%0A1%09Polluted%20Delta%0A4%09Ponder%0A3%09Preordain%0A4%09Scalding%20Tarn%0A4%09Show%20and%20Tell%0A4%09Sneak%20Attack%0A2%09Spell%20Pierce%0A3%09Volcanic%20Island&deckside=2%09Abrade%0A2%09Blood%20Moon%0A1%09Boseiju,%20Who%20Shelters%20All%0A2%09Defense%20Grid%0A2%09Grafdigger's%20Cage%0A1%09Intuition%0A1%09Kozilek's%20Return%0A2%09Pyroclasm%0A1%09Surgical%20Extraction%0A1%09Through%20the%20Breach)
 # Maindeck
 
 |                                      Artifact (4)                                      |                                            Creature (8)                                            |                                     Enchantment (6)                                     |                                       Instant (12)                                       |                                          Land (19)                                          |                                       Sorcery (11)                                       |

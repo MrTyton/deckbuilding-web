@@ -1,6 +1,7 @@
 # Landstill
 
 #### [Export MTGO List](../collection/Landstill/Landstill.txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=1%09Arid%20Mesa%0A4%09Brainstorm%0A1%09Council's%20Judgment%0A2%09Counterspell%0A1%09Daze%0A4%09Flooded%20Strand%0A4%09Force%20of%20Will%0A4%09Island%0A2%09Jace,%20the%20Mind%20Sculptor%0A1%09Karakas%0A3%09Mishra's%20Factory%0A4%09Myth%20Realized%0A2%09Plains%0A4%09Ponder%0A4%09Scalding%20Tarn%0A3%09Snapcaster%20Mage%0A1%09Spell%20Pierce%0A4%09Standstill%0A4%09Swords%20to%20Plowshares%0A4%09Terminus%0A3%09Tundra&deckside=2%09Back%20to%20Basics%0A2%09Containment%20Priest%0A1%09Council's%20Judgment%0A2%09Disenchant%0A2%09Flusterstorm%0A1%09Humility%0A1%09Null%20Rod%0A1%09Snapcaster%20Mage%0A2%09Surgical%20Extraction%0A1%09Vendilion%20Clique)
 # Maindeck
 
 |                                        Creature (3)                                        |                                     Enchantment (8)                                      |                                          Instant (16)                                           |                                          Land (22)                                          |                                          Planeswalker (2)                                          |                                          Sorcery (9)                                          |

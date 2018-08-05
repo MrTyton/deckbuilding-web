@@ -1,6 +1,7 @@
 # Golgari Control
 
 #### [Export MTGO List](../collection/Golgari%20Control/Golgari%20Control.txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=1%09Arch%20of%20Orazca%0A1%09Arguel's%20Blood%20Fast%0A4%09Blooming%20Marsh%0A3%09Carnage%20Tyrant%0A4%09Cast%20Down%0A2%09Doomfall%0A1%09Evolving%20Wilds%0A4%09Fatal%20Push%0A3%09Forest%0A4%09Gift%20of%20Paradise%0A3%09Hashep%20Oasis%0A4%09Hour%20of%20Promise%0A4%09Ifnir%20Deadlands%0A4%09Karn,%20Scion%20of%20Urza%0A1%09Naturalize%0A2%09Never%20/%20Return%0A2%09Scavenger%20Grounds%0A4%09Swamp%0A4%09Vraska's%20Contempt%0A1%09Vraska,%20Relic%20Seeker%0A4%09Woodland%20Cemetery&deckside=1%09Arguel's%20Blood%20Fast%0A2%09Doomfall%0A1%09Duress%0A4%09Glint-Sleeve%20Siphoner%0A1%09Gonti,%20Lord%20of%20Luxury%0A3%09Moment%20of%20Craving%0A1%09Nissa,%20Vital%20Force%0A1%09Thrashing%20Brontodon%0A1%09Vraska,%20Relic%20Seeker)
 # Maindeck
 
 |                                       Creature (3)                                        |                                        Enchantment (5)                                         |                                         Instant (13)                                         |                                          Land (26)                                           |                                        Planeswalker (5)                                         |                                        Sorcery (6)                                         |  Unknown (2)   |

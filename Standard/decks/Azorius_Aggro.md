@@ -1,6 +1,7 @@
 # Azorius Aggro
 
 #### [Export MTGO List](../collection/Azorius%20Aggro/Azorius%20Aggro.txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=1%09Angel%20of%20Invention%0A4%09Aviary%20Mechanic%0A4%09Cloudblazer%0A4%09Glacial%20Fortress%0A4%09Irrigated%20Farmland%0A2%09Island%0A2%09Ixalan's%20Binding%0A4%09Knight%20of%20Grace%0A4%09Mentor%20of%20the%20Meek%0A4%09Militia%20Bugler%0A4%09Oketra's%20Monument%0A9%09Plains%0A1%09Scavenger%20Grounds%0A4%09Shefet%20Dunes%0A4%09Skymarcher%20Aspirant%0A3%09Suncleanser%0A1%09Thopter%20Arrest%0A1%09Trophy%20Mage&deckside=3%09Dusk%20/%20Dawn%0A2%09Karn,%20Scion%20of%20Urza%0A2%09Lyra%20Dawnbringer%0A3%09Negate%0A2%09Seal%20Away%0A3%09Shield%20Mare)
 # Maindeck
 
 |                                         Artifact (4)                                         |                                         Creature (29)                                          |                                       Enchantment (3)                                       |                                           Land (24)                                           |

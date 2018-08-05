@@ -1,6 +1,7 @@
 # Aluren
 
 #### [Export MTGO List](../collection/Aluren/Aluren.txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=3%09Abrupt%20Decay%0A3%09Aluren%0A4%09Baleful%20Strix%0A2%09Bayou%0A4%09Brainstorm%0A1%09Cabal%20Therapy%0A3%09Cavern%20Harpy%0A1%09Coiling%20Oracle%0A1%09Collective%20Brutality%0A4%09Deathrite%20Shaman%0A4%09Force%20of%20Will%0A1%09Forest%0A1%09Island%0A1%09Jace,%20the%20Mind%20Sculptor%0A2%09Leovold,%20Emissary%20of%20Trest%0A1%09Liliana%20of%20the%20Veil%0A4%09Misty%20Rainforest%0A1%09Parasitic%20Strix%0A4%09Polluted%20Delta%0A2%09Ponder%0A4%09Shardless%20Agent%0A1%09Swamp%0A2%09Tropical%20Island%0A2%09Underground%20Sea%0A4%09Verdant%20Catacombs&deckside=1%09Abrupt%20Decay%0A2%09Cabal%20Therapy%0A2%09Carpet%20of%20Flowers%0A1%09Duress%0A1%09Golgari%20Charm%0A1%09Grafdigger's%20Cage%0A1%09Scavenging%20Ooze%0A1%09Surgical%20Extraction%0A3%09Tarmogoyf%0A1%09Thorn%20of%20Amethyst%0A1%09Toxic%20Deluge)
 # Maindeck
 
 |                                             Creature (19)                                             |                                  Enchantment (3)                                  |                                       Instant (11)                                       |                                          Land (21)                                           |                                          Planeswalker (2)                                          |                                           Sorcery (4)                                           |

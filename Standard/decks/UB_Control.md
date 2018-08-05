@@ -1,6 +1,7 @@
 # UB Control
 
 #### [Export MTGO List](../collection/UB%20Control/UB%20Control.txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=2%09Aether%20Hub%0A1%09Blink%20of%20an%20Eye%0A3%09Cast%20Down%0A1%09Commit%20/%20Memory%0A4%09Disallow%0A4%09Drowned%20Catacomb%0A2%09Essence%20Scatter%0A4%09Fatal%20Push%0A4%09Fetid%20Pools%0A2%09Field%20of%20Ruin%0A2%09Glimmer%20of%20Genius%0A1%09Hieroglyphic%20Illumination%0A6%09Island%0A1%09Liliana,%20Death's%20Majesty%0A1%09Negate%0A2%09Search%20for%20Azcanta%0A7%09Swamp%0A3%09Syncopate%0A3%09The%20Scarab%20God%0A3%09Torrential%20Gearhulk%0A4%09Vraska's%20Contempt&deckside=1%09Arguel's%20Blood%20Fast%0A1%09Cast%20Down%0A3%09Duress%0A4%09Glint-Sleeve%20Siphoner%0A2%09Knight%20of%20Malice%0A2%09Negate%0A1%09Sorcerous%20Spyglass%0A1%09The%20Eldest%20Reborn)
 # Maindeck
 
 |                                          Creature (6)                                          |                                        Enchantment (2)                                        |                                             Instant (25)                                             |                                          Land (25)                                          |                                          Planeswalker (1)                                           |   Unknown (1)   |
@@ -77,8 +78,8 @@
 |                    1|[Censor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426748)                   |                     |                                                                                                 |
 |                    2|[Censor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426748)                   |                     |                                                                                                 |
 |                    2|[Evolving Wilds](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397871)           |                     |                                                                                                 |
-|                    3|[Hieroglyphic Illumination](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426759)|                     |                                                                                                 |
 |                    3|[Search for Azcanta](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435226)       |                     |                                                                                                 |
+|                    3|[Hieroglyphic Illumination](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426759)|                     |                                                                                                 |
 |                    3|[Censor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426748)                   |                     |                                                                                                 |
 |                    3|[Evolving Wilds](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397871)           |                     |                                                                                                 |
 |                    4|[Hieroglyphic Illumination](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426759)|                     |                                                                                                 |

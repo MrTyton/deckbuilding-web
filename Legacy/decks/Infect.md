@@ -1,6 +1,7 @@
 # Infect
 
 #### [Export MTGO List](../collection/Infect/Infect.txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=1%09Become%20Immense%0A2%09Berserk%0A4%09Blighted%20Agent%0A4%09Brainstorm%0A1%09Crop%20Rotation%0A4%09Daze%0A1%09Flusterstorm%0A3%09Force%20of%20Will%0A1%09Forest%0A4%09Glistener%20Elf%0A4%09Inkmoth%20Nexus%0A4%09Invigorate%0A2%09Misty%20Rainforest%0A4%09Noble%20Hierarch%0A1%09Pendelhaven%0A4%09Ponder%0A1%09Spell%20Pierce%0A1%09Sylvan%20Library%0A4%09Tropical%20Island%0A2%09Verdant%20Catacombs%0A3%09Vines%20of%20Vastwood%0A1%09Wasteland%0A2%09Windswept%20Heath%0A2%09Wooded%20Foothills&deckside=1%09Bojuka%20Bog%0A1%09Crop%20Rotation%0A1%09Dissenter's%20Deliverance%0A1%09Flusterstorm%0A1%09Force%20of%20Will%0A1%09Grafdigger's%20Cage%0A1%09Hydroblast%0A1%09Karakas%0A1%09Nature's%20Claim%0A1%09Pithing%20Needle%0A1%09Spell%20Pierce%0A1%09Submerge%0A2%09Surgical%20Extraction%0A1%09Viridian%20Corrupter)
 # Maindeck
 
 |                                       Creature (12)                                       |                                      Enchantment (1)                                      |                                         Instant (24)                                         |                                          Land (19)                                           |                                    Sorcery (4)                                    |

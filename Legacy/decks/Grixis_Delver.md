@@ -1,6 +1,7 @@
 # Grixis Delver
 
 #### [Export MTGO List](../collection/Grixis%20Delver/Grixis%20Delver.txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Brainstorm%0A4%09Daze%0A4%09Deathrite%20Shaman%0A4%09Delver%20of%20Secrets%0A1%09Flooded%20Strand%0A4%09Force%20of%20Will%0A1%09Forked%20Bolt%0A4%09Gitaxian%20Probe%0A2%09Gurmag%20Angler%0A4%09Lightning%20Bolt%0A4%09Polluted%20Delta%0A4%09Ponder%0A3%09Scalding%20Tarn%0A2%09Spell%20Pierce%0A1%09Tropical%20Island%0A1%09True-Name%20Nemesis%0A3%09Underground%20Sea%0A3%09Volcanic%20Island%0A4%09Wasteland%0A3%09Young%20Pyromancer&deckside=1%09Abrade%0A1%09Ancient%20Grudge%0A2%09Cabal%20Therapy%0A1%09Diabolic%20Edict%0A1%09Flusterstorm%0A1%09Hydroblast%0A1%09Liliana,%20the%20Last%20Hope%0A1%09Marsh%20Casualties%0A1%09Pithing%20Needle%0A2%09Pyroblast%0A1%09Red%20Elemental%20Blast%0A2%09Surgical%20Extraction)
 # Maindeck
 
 |                                        Creature (14)                                         |                                       Instant (18)                                        |                                         Land (19)                                          |                                        Sorcery (9)                                        |

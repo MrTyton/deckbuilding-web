@@ -1,6 +1,7 @@
 # Orzhov Midrange
 
 #### [Export MTGO List](../collection/Orzhov%20Midrange/Orzhov%20Midrange.txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=2%09Bloodstained%20Mire%0A1%09Collective%20Brutality%0A4%09Concealed%20Courtyard%0A4%09Dark%20Confidant%0A4%09Dread%20Wanderer%0A4%09Fatal%20Push%0A2%09Godless%20Shrine%0A4%09Gravecrawler%0A4%09Inquisition%20of%20Kozilek%0A3%09Liliana%20of%20the%20Veil%0A4%09Lingering%20Souls%0A4%09Marsh%20Flats%0A3%09Mutavault%0A1%09Path%20to%20Exile%0A1%09Plains%0A1%09Shambling%20Vent%0A4%09Smuggler's%20Copter%0A5%09Swamp%0A4%09Tidehollow%20Sculler%0A1%09Urborg,%20Tomb%20of%20Yawgmoth&deckside=1%09Anguished%20Unmaking%0A2%09Collective%20Brutality%0A2%09Damnation%0A3%09Fulminator%20Mage%0A1%09Kambal,%20Consul%20of%20Allocation%0A3%09Leyline%20of%20the%20Void%0A2%09Path%20to%20Exile%0A1%09Thoughtseize)
 # Maindeck
 
 |                                         Artifact (4)                                         |                                         Creature (16)                                         |                                       Instant (5)                                        |                                              Land (23)                                              |                                        Planeswalker (3)                                        |                                            Sorcery (9)                                            |

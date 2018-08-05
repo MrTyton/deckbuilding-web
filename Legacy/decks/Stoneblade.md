@@ -1,6 +1,7 @@
 # Stoneblade
 
 #### [Export MTGO List](../collection/Stoneblade/Stoneblade.txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=1%09Arid%20Mesa%0A1%09Batterskull%0A4%09Brainstorm%0A1%09Council's%20Judgment%0A1%09Counterspell%0A1%09Engineered%20Explosives%0A4%09Flooded%20Strand%0A4%09Force%20of%20Will%0A5%09Island%0A2%09Jace,%20the%20Mind%20Sculptor%0A1%09Karakas%0A1%09Marsh%20Flats%0A2%09Plains%0A4%09Polluted%20Delta%0A4%09Ponder%0A3%09Snapcaster%20Mage%0A2%09Spell%20Pierce%0A4%09Stoneforge%20Mystic%0A1%09Swamp%0A4%09Swords%20to%20Plowshares%0A2%09True-Name%20Nemesis%0A3%09Tundra%0A1%09Umezawa's%20Jitte%0A1%09Underground%20Sea%0A1%09Vendilion%20Clique%0A2%09Wasteland&deckside=2%09Containment%20Priest%0A2%09Disenchant%0A1%09Engineered%20Explosives%0A1%09Ethersworn%20Canonist%0A2%09Flusterstorm%0A1%09Gideon,%20Ally%20of%20Zendikar%0A1%09Supreme%20Verdict%0A3%09Surgical%20Extraction%0A1%09Vendilion%20Clique%0A1%09Zealous%20Persecution)
 # Maindeck
 
 |                                           Artifact (3)                                           |                                        Creature (10)                                         |                                          Instant (15)                                           |                                         Land (25)                                          |                                          Planeswalker (2)                                          |                                          Sorcery (5)                                          |

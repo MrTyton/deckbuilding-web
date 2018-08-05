@@ -1,6 +1,7 @@
 # Red Deck Wins
 
 #### [Export MTGO List](../collection/Red%20Deck%20Wins/Red%20Deck%20Wins.txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=2%09Ahn-Crop%20Crasher%0A4%09Bomat%20Courier%0A3%09Earthshaker%20Khenra%0A4%09Ghitu%20Lavarunner%0A4%09Goblin%20Chainwhirler%0A3%09Hazoret%20the%20Fervent%0A2%09Kari%20Zev,%20Skyship%20Raider%0A4%09Lightning%20Strike%0A22%09Mountain%0A4%09Shock%0A4%09Soul-Scar%20Mage%0A4%09Wizard's%20Lightning&deckside=3%09Abrade%0A1%09Aethersphere%20Harvester%0A3%09Chandra's%20Defeat%0A3%09Chandra,%20Torch%20of%20Defiance%0A2%09Fight%20with%20Fire%0A1%09Glorybringer%0A2%09Rekindling%20Phoenix)
 # Maindeck
 
 |                                            Creature (26)                                            |                                         Instant (12)                                          |                                      Land (22)                                       |

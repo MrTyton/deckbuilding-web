@@ -1,8 +1,10 @@
 2 Teferi, Hero of Dominaria
-1 Fumigate
+1 Search for Azcanta
 1 Sorcerous Spyglass
 2 Settle the Wreckage
 2 Thopter Arrest
+1 Walking Ballista
+2 Walking Ballista
 1 Vraska's Contempt
 2 Vraska's Contempt
 1 Fatal Push
@@ -10,8 +12,6 @@
 2 Glint-Sleeve Siphoner
 1 Aethersphere Harvester
 2 Aethersphere Harvester
-1 Walking Ballista
-2 Walking Ballista
 2 Fatal Push
 1 Duress
 2 Duress
@@ -29,39 +29,36 @@
 1 Thrashing Brontodon
 1 Glint-Nest Crane
 3 Aethersphere Harvester
-2 Thrashing Brontodon
 1 Nissa, Vital Force
-1 Lifecrafter's Bestiary
 1 Hostage Taker
-1 Nissa, Steward of Elements
-2 Nissa, Steward of Elements
-1 Wildgrowth Walker
-2 Wildgrowth Walker
-3 Wildgrowth Walker
-4 Wildgrowth Walker
-1 River's Rebuke
-1 Spell Pierce
-1 Padeem, Consul of Innovation
+1 Lifecrafter's Bestiary
+2 Thrashing Brontodon
+3 Jace's Defeat
 1 Deadeye Tracker
 1 Vivien Reid
 1 Ravenous Chupacabra
-1 Liliana, Death's Majesty
 1 Nezahal, Primal Tide
 1 Suncleanser
+1 River's Rebuke
 1 Fairgrounds Warden
 1 Forsake the Worldly
 1 Arguel's Blood Fast
 2 Sorcerous Spyglass
 2 Exclusion Mage
-1 Academy Journeymage
-2 Academy Journeymage
-1 History of Benalia
-2 History of Benalia
-3 History of Benalia
+1 Cataclysmic Gearhulk
+1 Remorseful Cleric
+1 Baffling End
+1 Fragmentize
+2 Baffling End
+2 Fragmentize
+1 Nissa, Steward of Elements
+2 Nissa, Steward of Elements
 1 Manglehorn
 2 Manglehorn
 2 Vivien Reid
-3 Jace's Defeat
+1 History of Benalia
+2 History of Benalia
+3 History of Benalia
 1 Yahenni's Expertise
 2 Yahenni's Expertise
 3 Fatal Push
@@ -77,9 +74,16 @@
 3 Vraska's Contempt
 3 Authority of the Consuls
 4 Negate
+1 Liliana, Death's Majesty
+1 Wildgrowth Walker
+2 Wildgrowth Walker
+3 Wildgrowth Walker
+4 Wildgrowth Walker
 1 Siege-Gang Commander
+1 Spell Pierce
 1 Silent Gravestone
 1 Abrade
+1 Padeem, Consul of Innovation
 2 Siege-Gang Commander
 2 Abrade
 2 Spell Pierce

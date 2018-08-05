@@ -1,6 +1,7 @@
 # Weenie White
 
 #### [Export MTGO List](../collection/Weenie%20White/Weenie%20White.txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Ancient%20Tomb%0A2%09Angel%20of%20Sanctions%0A4%09Chalice%20of%20the%20Void%0A4%09Chrome%20Mox%0A4%09City%20of%20Traitors%0A2%09Council's%20Judgment%0A2%09Flagstones%20of%20Trokair%0A2%09Karakas%0A3%09Palace%20Jailer%0A3%09Phyrexian%20Revoker%0A7%09Plains%0A3%09Restoration%20Angel%0A4%09Suppression%20Field%0A4%09Thalia,%20Guardian%20of%20Thraben%0A3%09Thalia,%20Heretic%20Cathar%0A3%09Thought-Knot%20Seer%0A2%09Warping%20Wail%0A4%09Wasteland&deckside=1%09Blessed%20Alliance%0A2%09Cataclysm%0A1%09Disenchant%0A2%09Ethersworn%20Canonist%0A2%09Holy%20Light%0A1%09Moat%0A3%09Rest%20in%20Peace%0A2%09Thorn%20of%20Amethyst%0A1%09Worship)
 # Maindeck
 
 |                                          Artifact (8)                                          |                                             Creature (21)                                              |                                       Enchantment (4)                                       |                                       Instant (2)                                       |                                            Land (23)                                             |                                          Sorcery (2)                                          |

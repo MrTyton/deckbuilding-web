@@ -1,6 +1,7 @@
 # Reanimator
 
 #### [Export MTGO List](../collection/Reanimator/Reanimator.txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Animate%20Dead%0A2%09Badlands%0A1%09Bayou%0A3%09Bloodstained%20Mire%0A4%09Chancellor%20of%20the%20Annex%0A1%09Chrome%20Mox%0A4%09Dark%20Ritual%0A4%09Entomb%0A4%09Exhume%0A4%09Faithless%20Looting%0A4%09Griselbrand%0A4%09Lotus%20Petal%0A4%09Polluted%20Delta%0A4%09Reanimate%0A1%09Sire%20of%20Insanity%0A2%09Swamp%0A4%09Thoughtseize%0A1%09Tidespout%20Tyrant%0A4%09Unmask%0A1%09Verdant%20Catacombs&deckside=2%09Abrupt%20Decay%0A1%09Archetype%20of%20Endurance%0A2%09Duress%0A1%09Elesh%20Norn,%20Grand%20Cenobite%0A1%09Inkwell%20Leviathan%0A1%09Iona,%20Shield%20of%20Emeria%0A1%09Massacre%0A2%09Pithing%20Needle%0A3%09Reverent%20Silence%0A1%09Stronghold%20Gambit)
 # Maindeck
 
 |                                      Artifact (5)                                      |                                           Creature (10)                                            |                                     Enchantment (4)                                     |                                      Instant (8)                                       |                                          Land (13)                                           |                                         Sorcery (20)                                         |

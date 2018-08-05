@@ -1,6 +1,7 @@
 # Jund
 
 #### [Export MTGO List](../collection/Jund/Jund.txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=3%09Abrupt%20Decay%0A3%09Badlands%0A3%09Bayou%0A3%09Bloodbraid%20Elf%0A2%09Bloodstained%20Mire%0A4%09Dark%20Confidant%0A4%09Deathrite%20Shaman%0A1%09Forest%0A4%09Grove%20of%20the%20Burnwillows%0A3%09Hymn%20to%20Tourach%0A1%09Kolaghan's%20Command%0A2%09Lightning%20Bolt%0A4%09Liliana%20of%20the%20Veil%0A3%09Punishing%20Fire%0A2%09Swamp%0A1%09Sylvan%20Library%0A4%09Tarmogoyf%0A3%09Thoughtseize%0A4%09Verdant%20Catacombs%0A4%09Wasteland%0A2%09Wooded%20Foothills&deckside=2%09Choke%0A2%09Diabolic%20Edict%0A1%09Duress%0A1%09Golgari%20Charm%0A1%09Kolaghan's%20Command%0A1%09Pithing%20Needle%0A3%09Pyroblast%0A3%09Surgical%20Extraction%0A1%09Toxic%20Deluge)
 # Maindeck
 
 |                                        Creature (15)                                        |                                      Enchantment (1)                                      |                                          Instant (9)                                          |                                              Land (25)                                              |                                        Planeswalker (4)                                        |                                        Sorcery (6)                                         |

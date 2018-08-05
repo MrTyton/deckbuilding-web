@@ -1,6 +1,7 @@
 # Burn
 
 #### [Export MTGO List](../collection/Burn/Burn.txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=2%09Arid%20Mesa%0A3%09Bloodstained%20Mire%0A4%09Chain%20Lightning%0A4%09Eidolon%20of%20the%20Great%20Revel%0A4%09Fireblast%0A4%09Goblin%20Guide%0A1%09Grim%20Lavamancer%0A4%09Lava%20Spike%0A4%09Lightning%20Bolt%0A4%09Monastery%20Swiftspear%0A10%09Mountain%0A4%09Price%20of%20Progress%0A4%09Rift%20Bolt%0A2%09Searing%20Blaze%0A1%09Searing%20Blood%0A1%09Sulfuric%20Vortex%0A4%09Wooded%20Foothills&deckside=2%09Exquisite%20Firecraft%0A2%09Faerie%20Macabre%0A1%09Grafdigger's%20Cage%0A2%09Pyrostatic%20Pillar%0A1%09Searing%20Blaze%0A4%09Smash%20to%20Smithereens%0A2%09Sulfuric%20Vortex%0A1%09Volcanic%20Fallout)
 # Maindeck
 
 |                                             Creature (13)                                             |                                      Enchantment (1)                                       |                                         Instant (15)                                         |                                          Land (19)                                           |                                        Sorcery (12)                                        |

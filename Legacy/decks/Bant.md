@@ -1,6 +1,7 @@
 # Bant
 
 #### [Export MTGO List](../collection/Bant/Bant.txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=1%09Batterskull%0A4%09Brainstorm%0A3%09Daze%0A1%09Dryad%20Arbor%0A4%09Force%20of%20Will%0A1%09Forest%0A3%09Green%20Sun's%20Zenith%0A1%09Island%0A2%09Jace,%20the%20Mind%20Sculptor%0A1%09Karakas%0A2%09Knight%20of%20the%20Reliquary%0A4%09Misty%20Rainforest%0A4%09Noble%20Hierarch%0A2%09Ponder%0A1%09Qasali%20Pridemage%0A1%09Savannah%0A1%09Scavenging%20Ooze%0A4%09Stoneforge%20Mystic%0A4%09Swords%20to%20Plowshares%0A3%09Tropical%20Island%0A3%09True-Name%20Nemesis%0A2%09Tundra%0A1%09Umezawa's%20Jitte%0A3%09Wasteland%0A4%09Windswept%20Heath&deckside=1%09Detention%20Sphere%0A2%09Faerie%20Macabre%0A1%09Gaddock%20Teeg%0A1%09Grafdigger's%20Cage%0A2%09Meddling%20Mage%0A1%09Path%20to%20Exile%0A1%09Pithing%20Needle%0A1%09Reclamation%20Sage%0A1%09Spell%20Pierce%0A1%09Swan%20Song%0A1%09Sword%20of%20Fire%20and%20Ice%0A1%09Sylvan%20Library%0A1%09Vendilion%20Clique)
 # Maindeck
 
 |                                        Artifact (2)                                        |                                           Creature (15)                                            |                                          Instant (15)                                           |                                          Land (21)                                          |                                          Planeswalker (2)                                          |                                          Sorcery (5)                                          |

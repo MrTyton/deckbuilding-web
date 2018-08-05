@@ -1,6 +1,7 @@
 # All my Spells
 
 #### [Export MTGO List](../collection/All%20my%20Spells/All%20my%20Spells.txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Balustrade%20Spy%0A4%09Cabal%20Ritual%0A1%09Cabal%20Therapy%0A4%09Chrome%20Mox%0A4%09Dark%20Ritual%0A1%09Dread%20Return%0A4%09Elvish%20Spirit%20Guide%0A1%09Garna,%20the%20Bloodflame%0A4%09Gitaxian%20Probe%0A1%09Laboratory%20Maniac%0A4%09Lotus%20Petal%0A4%09Manamorphose%0A4%09Narcomoeba%0A3%09Pact%20of%20Negation%0A4%09Simian%20Spirit%20Guide%0A4%09Street%20Wraith%0A4%09Summoner's%20Pact%0A4%09Undercity%20Informer%0A1%09Wild%20Cantor&deckside=4%09Goblin%20Charbelcher%0A4%09Lion's%20Eye%20Diamond%0A3%09Rite%20of%20Flame%0A4%09Spoils%20of%20the%20Vault)
 # Maindeck
 
 |                                      Artifact (8)                                      |                                          Creature (27)                                           |                                        Instant (19)                                         |                                        Sorcery (6)                                        |

@@ -1,6 +1,7 @@
 # UR Aggro
 
 #### [Export MTGO List](../collection/UR%20Aggro/UR%20Aggro.txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=1%09Abrade%0A3%09Adeliz,%20the%20Cinder%20Wind%0A4%09Bomat%20Courier%0A4%09Ghitu%20Lavarunner%0A2%09Goblin%20Chainwhirler%0A2%09Hazoret%20the%20Fervent%0A1%09Island%0A4%09Lightning%20Strike%0A12%09Mountain%0A4%09Shock%0A4%09Soul-Scar%20Mage%0A4%09Spirebluff%20Canal%0A4%09Sulfur%20Falls%0A4%09The%20Flame%20of%20Keld%0A3%09Warlord's%20Fury%0A4%09Wizard's%20Lightning&deckside=2%09Abrade%0A3%09Chandra's%20Defeat%0A2%09Fight%20with%20Fire%0A3%09Negate%0A2%09Spell%20Pierce%0A3%09Unsummon)
 # Maindeck
 
 |                                           Creature (19)                                            |                                       Enchantment (4)                                        |                                         Instant (13)                                          |                                          Land (21)                                          |                                        Sorcery (3)                                        |

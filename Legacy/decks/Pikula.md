@@ -1,6 +1,7 @@
 # Pikula
 
 #### [Export MTGO List](../collection/Pikula/Pikula.txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Aether%20Vial%0A1%09Batterskull%0A1%09Bloodstained%20Mire%0A4%09Chrome%20Mox%0A4%09Dark%20Confidant%0A2%09Flickerwisp%0A2%09Karakas%0A4%09Marsh%20Flats%0A1%09Orzhov%20Pontiff%0A4%09Phyrexian%20Crusader%0A2%09Phyrexian%20Obliterator%0A1%09Phyrexian%20Revoker%0A1%09Plains%0A1%09Polluted%20Delta%0A2%09Recruiter%20of%20the%20Guard%0A1%09Sanctum%20Prelate%0A4%09Scrubland%0A4%09Stoneforge%20Mystic%0A3%09Swamp%0A1%09Sword%20of%20Fire%20and%20Ice%0A2%09Swords%20to%20Plowshares%0A4%09Thalia,%20Guardian%20of%20Thraben%0A2%09Thoughtseize%0A1%09Umezawa's%20Jitte%0A1%09Urborg,%20Tomb%20of%20Yawgmoth%0A3%09Verdant%20Catacombs&deckside=2%09Cabal%20Therapy%0A1%09Cataclysm%0A2%09Council's%20Judgment%0A1%09Engineered%20Explosives%0A1%09Liliana,%20the%20Last%20Hope%0A1%09Orzhov%20Pontiff%0A1%09Phyrexian%20Obliterator%0A2%09Sanctum%20Prelate%0A2%09Surgical%20Extraction%0A2%09Swords%20to%20Plowshares)
 # Maindeck
 
 |                                          Artifact (11)                                           |                                             Creature (25)                                              |                                           Instant (2)                                           |                                              Land (20)                                              |                                       Sorcery (2)                                       |

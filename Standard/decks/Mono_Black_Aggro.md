@@ -1,6 +1,7 @@
 # Mono Black Aggro
 
 #### [Export MTGO List](../collection/Mono%20Black%20Aggro/Mono%20Black%20Aggro.txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Death%20Baron%0A4%09Diregraf%20Ghoul%0A4%09Dread%20Wanderer%0A3%09Fatal%20Push%0A4%09Graveyard%20Marshal%0A4%09Ifnir%20Deadlands%0A4%09Liliana's%20Mastery%0A4%09Lord%20of%20the%20Accursed%0A1%09Scavenger%20Grounds%0A4%09Scrapheap%20Scrounger%0A19%09Swamp%0A3%09Vraska's%20Contempt%0A2%09Walk%20the%20Plank&deckside=3%09Doomfall%0A4%09Duress%0A1%09Fatal%20Push%0A4%09Gifted%20Aetherborn%0A2%09Liliana,%20Untouched%20by%20Death%0A1%09Walk%20the%20Plank)
 # Maindeck
 
 |                                          Creature (24)                                          |                                       Enchantment (4)                                        |                                         Instant (6)                                          |                                          Land (24)                                           |                                        Sorcery (2)                                        |

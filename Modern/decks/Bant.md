@@ -1,6 +1,7 @@
 # Bant
 
 #### [Export MTGO List](../collection/Bant/Bant.txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=1%09Birds%20of%20Paradise%0A2%09Botanical%20Sanctum%0A1%09Breeding%20Pool%0A4%09Collected%20Company%0A4%09Drogskol%20Captain%0A3%09Flooded%20Strand%0A1%09Forest%0A2%09Hallowed%20Fountain%0A2%09Horizon%20Canopy%0A1%09Island%0A4%09Mausoleum%20Wanderer%0A3%09Misty%20Rainforest%0A1%09Moorland%20Haunt%0A4%09Noble%20Hierarch%0A4%09Path%20to%20Exile%0A2%09Phantasmal%20Image%0A1%09Plains%0A4%09Rattlechains%0A3%09Selfless%20Spirit%0A4%09Spell%20Queller%0A4%09Supreme%20Phantom%0A1%09Temple%20Garden%0A4%09Windswept%20Heath&deckside=2%09Damping%20Sphere%0A3%09Geist%20of%20Saint%20Traft%0A2%09Rest%20in%20Peace%0A1%09Settle%20the%20Wreckage%0A2%09Stony%20Silence%0A2%09Thalia,%20Guardian%20of%20Thraben%0A2%09Unified%20Will%0A1%09Worship)
 # Maindeck
 
 |                                         Creature (30)                                         |                                         Instant (8)                                          |                                          Land (22)                                           |

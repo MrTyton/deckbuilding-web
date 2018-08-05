@@ -1,6 +1,7 @@
 # Other - Combo
 
 #### [Export MTGO List](../collection/Other%20-%20Combo/Other%20-%20Combo.txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=3%09Aetherflux%20Reservoir%0A3%09Baral's%20Expertise%0A2%09Commit%20/%20Memory%0A4%09Glint-Nest%20Crane%0A4%09Inspiring%20Statuary%0A1%09Inventors'%20Fair%0A13%09Island%0A2%09Metallic%20Rebuke%0A2%09Metalspinner's%20Puzzleknot%0A3%09Mox%20Amber%0A4%09Ornithopter%0A4%09Paradoxical%20Outcome%0A4%09Prophetic%20Prism%0A4%09Renegade%20Map%0A3%09Sai,%20Master%20Thopterist%0A4%09Zhalfirin%20Void&deckside=2%09Aether%20Meltdown%0A1%09Baral,%20Chief%20of%20Compliance%0A3%09Karn,%20Scion%20of%20Urza%0A1%09Metallic%20Rebuke%0A4%09Negate%0A1%09Sai,%20Master%20Thopterist%0A2%09Sorcerous%20Spyglass%0A1%09Walking%20Ballista)
 # Maindeck
 
 |                                            Artifact (20)                                             |                                           Creature (11)                                           |                                          Instant (6)                                           |                                         Land (18)                                          |                                         Sorcery (3)                                          |   Unknown (2)   |

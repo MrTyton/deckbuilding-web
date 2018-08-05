@@ -1,6 +1,7 @@
 # Red Deck Wins
 
 #### [Export MTGO List](../collection/Red%20Deck%20Wins/Red%20Deck%20Wins.txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=2%09Arid%20Mesa%0A4%09Bloodstained%20Mire%0A4%09Boros%20Charm%0A4%09Eidolon%20of%20the%20Great%20Revel%0A4%09Goblin%20Guide%0A1%09Grim%20Lavamancer%0A3%09Inspiring%20Vantage%0A4%09Lava%20Spike%0A4%09Lightning%20Bolt%0A4%09Lightning%20Helix%0A4%09Monastery%20Swiftspear%0A3%09Mountain%0A4%09Rift%20Bolt%0A2%09Sacred%20Foundry%0A4%09Searing%20Blaze%0A4%09Skullcrack%0A1%09Stomping%20Ground%0A4%09Wooded%20Foothills&deckside=2%09Deflecting%20Palm%0A3%09Destructive%20Revelry%0A1%09Ensnaring%20Bridge%0A2%09Exquisite%20Firecraft%0A1%09Kor%20Firewalker%0A2%09Path%20to%20Exile%0A2%09Rest%20in%20Peace%0A2%09Searing%20Blood)
 # Maindeck
 
 |                                             Creature (13)                                             |                                        Instant (20)                                        |                                          Land (19)                                           |                                      Sorcery (8)                                      |

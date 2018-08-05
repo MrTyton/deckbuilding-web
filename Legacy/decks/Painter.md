@@ -1,6 +1,7 @@
 # Painter
 
 #### [Export MTGO List](../collection/Painter/Painter.txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Ancient%20Tomb%0A1%09Blood%20Moon%0A3%09Bloodstained%20Mire%0A3%09City%20of%20Traitors%0A1%09Engineered%20Explosives%0A3%09Enlightened%20Tutor%0A1%09Ensnaring%20Bridge%0A4%09Ethersworn%20Canonist%0A2%09Goblin%20Welder%0A1%09Great%20Furnace%0A1%09Grim%20Lavamancer%0A4%09Grindstone%0A4%09Imperial%20Recruiter%0A4%09Lotus%20Petal%0A4%09Mountain%0A4%09Painter's%20Servant%0A2%09Plateau%0A4%09Pyroblast%0A2%09Red%20Elemental%20Blast%0A1%09Simian%20Spirit%20Guide%0A4%09Smuggler's%20Copter%0A1%09Walking%20Ballista%0A2%09Wooded%20Foothills&deckside=1%09Blood%20Moon%0A1%09Ensnaring%20Bridge%0A1%09Goblin%20Welder%0A2%09Karn,%20Scion%20of%20Urza%0A4%09Pyroclasm%0A4%09Surgical%20Extraction%0A1%09Tormod's%20Crypt%0A1%09Viashino%20Heretic)
 # Maindeck
 
 |                                          Artifact (14)                                           |                                         Creature (17)                                          |                                    Enchantment (1)                                    |                                          Instant (9)                                           |                                          Land (19)                                           |

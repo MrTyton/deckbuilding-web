@@ -1,6 +1,7 @@
 # Bomberman
 
 #### [Export MTGO List](../collection/Bomberman/Bomberman.txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Ancient%20Den%0A4%09Ancient%20Tomb%0A3%09Auriok%20Salvagers%0A3%09Cavern%20of%20Souls%0A4%09Chalice%20of%20the%20Void%0A4%09City%20of%20Traitors%0A2%09Engineered%20Explosives%0A4%09Impulse%0A2%09Island%0A4%09Karn,%20Scion%20of%20Urza%0A3%09Lion's%20Eye%20Diamond%0A1%09Lodestone%20Bauble%0A4%09Mox%20Opal%0A4%09Seat%20of%20the%20Synod%0A2%09Sorcerous%20Spyglass%0A4%09Talisman%20of%20Progress%0A4%09The%20Antiquities%20War%0A4%09Walking%20Ballista&deckside=2%09Cast%20Out%0A2%09Containment%20Priest%0A1%09Engineered%20Explosives%0A3%09Ensnaring%20Bridge%0A2%09Ethersworn%20Canonist%0A1%09Lodestone%20Golem%0A2%09Sanctum%20Prelate%0A2%09Sorcerous%20Spyglass)
 # Maindeck
 
 |                                          Artifact (20)                                           |                                        Creature (7)                                         |                                        Enchantment (4)                                         |                                    Instant (4)                                     |                                          Land (21)                                           |                                        Planeswalker (4)                                        |

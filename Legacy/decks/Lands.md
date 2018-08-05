@@ -1,6 +1,7 @@
 # Lands
 
 #### [Export MTGO List](../collection/Lands/Lands.txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=1%09Barbarian%20Ring%0A1%09Bojuka%20Bog%0A4%09Crop%20Rotation%0A3%09Dark%20Depths%0A4%09Exploration%0A1%09Forest%0A4%09Gamble%0A1%09Ghost%20Quarter%0A1%09Glacial%20Chasm%0A4%09Grove%20of%20the%20Burnwillows%0A1%09Karakas%0A4%09Life%20from%20the%20Loam%0A1%09Manabond%0A2%09Maze%20of%20Ith%0A1%09Misty%20Rainforest%0A1%09Molten%20Vortex%0A4%09Mox%20Diamond%0A3%09Punishing%20Fire%0A3%09Rishadan%20Port%0A1%09Sheltered%20Thicket%0A2%09Taiga%0A1%09The%20Tabernacle%20at%20Pendrell%20Vale%0A4%09Thespian's%20Stage%0A1%09Tranquil%20Thicket%0A1%09Verdant%20Catacombs%0A4%09Wasteland%0A1%09Windswept%20Heath%0A1%09Wooded%20Foothills&deckside=1%09Ancient%20Tomb%0A1%09Chalice%20of%20the%20Void%0A2%09Choke%0A1%09Drop%20of%20Honey%0A3%09Krosan%20Grip%0A4%09Sphere%20of%20Resistance%0A3%09Tireless%20Tracker)
 # Maindeck
 
 |                                      Artifact (4)                                      |                                     Enchantment (6)                                      |                                        Instant (7)                                        |                                                 Land (35)                                                  |                                          Sorcery (8)                                          |

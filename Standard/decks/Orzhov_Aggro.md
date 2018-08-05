@@ -1,6 +1,7 @@
 # Orzhov Aggro
 
 #### [Export MTGO List](../collection/Orzhov%20Aggro/Orzhov%20Aggro.txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=2%09Aether%20Hub%0A2%09Ajani,%20Adversary%20of%20Tyrants%0A1%09Angel%20of%20Sanctions%0A2%09Cast%20Down%0A3%09Cast%20Out%0A4%09Concealed%20Courtyard%0A4%09Fatal%20Push%0A2%09Gideon%20of%20the%20Trials%0A4%09History%20of%20Benalia%0A4%09Ifnir%20Deadlands%0A4%09Isolated%20Chapel%0A3%09Karn,%20Scion%20of%20Urza%0A4%09Knight%20of%20Grace%0A4%09Knight%20of%20Malice%0A2%09Lyra%20Dawnbringer%0A8%09Plains%0A1%09Shefet%20Dunes%0A4%09Swamp%0A2%09Walking%20Ballista&deckside=2%09Angel%20of%20Sanctions%0A2%09Arguel's%20Blood%20Fast%0A1%09Doomfall%0A4%09Duress%0A1%09Forsake%20the%20Worldly%0A2%09Fumigate%0A2%09Remorseful%20Cleric%0A1%09Settle%20the%20Wreckage)
 # Maindeck
 
 |                                         Creature (13)                                         |                                        Enchantment (7)                                        |                                      Instant (6)                                      |                                           Land (27)                                            |                                            Planeswalker (7)                                            |

@@ -1,6 +1,7 @@
 # Walks
 
 #### [Export MTGO List](../collection/Walks/Walks.txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=2%09Cryptic%20Command%0A4%09Dictate%20of%20Kruphix%0A3%09Exhaustion%0A4%09Flooded%20Strand%0A3%09Gigadrowse%0A2%09Glacial%20Fortress%0A2%09Hallowed%20Fountain%0A2%09Howling%20Mine%0A1%09Inkmoth%20Nexus%0A9%09Island%0A1%09Jace,%20the%20Mind%20Sculptor%0A1%09Mikokoro,%20Center%20of%20the%20Sea%0A3%09Part%20the%20Waterveil%0A1%09Polluted%20Delta%0A2%09Prairie%20Stream%0A3%09Remand%0A4%09Serum%20Visions%0A1%09Settle%20the%20Wreckage%0A1%09Snapcaster%20Mage%0A3%09Spreading%20Seas%0A3%09Temporal%20Mastery%0A1%09Terminus%0A4%09Time%20Warp&deckside=3%09Chalice%20of%20the%20Void%0A1%09Gigadrowse%0A2%09Path%20to%20Exile%0A2%09Rest%20in%20Peace%0A2%09Stony%20Silence%0A1%09Supreme%20Verdict%0A1%09Terminus%0A3%09Timely%20Reinforcements)
 # Maindeck
 
 |                                      Artifact (2)                                       |                                        Creature (1)                                        |                                        Enchantment (7)                                        |                                          Instant (9)                                           |                                               Land (22)                                                |                                          Planeswalker (1)                                          |                                         Sorcery (18)                                          |

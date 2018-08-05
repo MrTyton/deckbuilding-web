@@ -1,6 +1,7 @@
 # Grixis Control
 
 #### [Export MTGO List](../collection/Grixis%20Control/Grixis%20Control.txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=2%09Badlands%0A4%09Baleful%20Strix%0A2%09Bloodstained%20Mire%0A4%09Brainstorm%0A1%09Counterspell%0A2%09Diabolic%20Edict%0A2%09Fatal%20Push%0A4%09Force%20of%20Will%0A2%09Gurmag%20Angler%0A3%09Hymn%20to%20Tourach%0A2%09Island%0A2%09Jace,%20the%20Mind%20Sculptor%0A3%09Kolaghan's%20Command%0A2%09Lightning%20Bolt%0A1%09Liliana,%20the%20Last%20Hope%0A1%09Mountain%0A4%09Polluted%20Delta%0A4%09Ponder%0A4%09Scalding%20Tarn%0A4%09Snapcaster%20Mage%0A1%09Swamp%0A1%09Thoughtseize%0A3%09Underground%20Sea%0A2%09Volcanic%20Island&deckside=1%09Diabolic%20Edict%0A1%09Engineered%20Explosives%0A3%09Flusterstorm%0A1%09Hydroblast%0A2%09Pithing%20Needle%0A2%09Pyroblast%0A1%09Red%20Elemental%20Blast%0A3%09Surgical%20Extraction%0A1%09Toxic%20Deluge)
 # Maindeck
 
 |                                       Creature (10)                                        |                                         Instant (18)                                          |                                          Land (21)                                           |                                          Planeswalker (3)                                          |                                        Sorcery (8)                                         |

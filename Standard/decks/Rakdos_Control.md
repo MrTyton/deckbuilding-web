@@ -1,6 +1,7 @@
 # Rakdos Control
 
 #### [Export MTGO List](../collection/Rakdos%20Control/Rakdos%20Control.txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=3%09Abrade%0A4%09Canyon%20Slough%0A1%09Cast%20Down%0A1%09Chandra,%20Torch%20of%20Defiance%0A1%09Chromium,%20the%20Mutable%0A2%09Darigaaz%20Reincarnated%0A1%09Demanding%20Dragon%0A4%09Dragon's%20Hoard%0A4%09Dragonskull%20Summit%0A4%09Fatal%20Push%0A3%09Fetid%20Pools%0A4%09Glorybringer%0A7%09Mountain%0A4%09Nicol%20Bolas,%20the%20Ravager%0A3%09Sarkhan,%20Fireblood%0A3%09Swamp%0A2%09Treasure%20Map%0A4%09Unclaimed%20Territory%0A1%09Vaevictis%20Asmadi,%20the%20Dire%0A4%09Vraska's%20Contempt&deckside=1%09Abrade%0A1%09Arguel's%20Blood%20Fast%0A1%09Cast%20Down%0A3%09Doomfall%0A4%09Duress%0A3%09Magma%20Spray%0A2%09Sweltering%20Suns)
 # Maindeck
 
 |                                       Artifact (6)                                        |                                             Creature (13)                                             |                                         Instant (12)                                         |                                           Land (25)                                            |                                           Planeswalker (4)                                            |

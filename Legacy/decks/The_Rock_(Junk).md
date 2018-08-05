@@ -1,6 +1,7 @@
 # The Rock (Junk)
 
 #### [Export MTGO List](../collection/The%20Rock%20(Junk)/The%20Rock%20(Junk).txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Abrupt%20Decay%0A1%09Batterskull%0A2%09Bayou%0A4%09Dark%20Confidant%0A4%09Deathrite%20Shaman%0A1%09Forest%0A4%09Hymn%20to%20Tourach%0A2%09Karakas%0A2%09Liliana%20of%20the%20Veil%0A2%09Liliana,%20the%20Last%20Hope%0A3%09Marsh%20Flats%0A1%09Plains%0A2%09Scrubland%0A2%09Stoneforge%20Mystic%0A2%09Swamp%0A4%09Swords%20to%20Plowshares%0A1%09Sylvan%20Library%0A4%09Tarmogoyf%0A4%09Thoughtseize%0A1%09Umezawa's%20Jitte%0A4%09Verdant%20Catacombs%0A4%09Wasteland%0A2%09Windswept%20Heath&deckside=2%09Choke%0A3%09Containment%20Priest%0A2%09Diabolic%20Edict%0A2%09Duress%0A4%09Leyline%20of%20the%20Void%0A2%09Toxic%20Deluge)
 # Maindeck
 
 |                                        Artifact (2)                                        |                                        Creature (14)                                         |                                      Enchantment (1)                                      |                                           Instant (8)                                           |                                          Land (23)                                           |                                         Planeswalker (4)                                          |                                        Sorcery (8)                                         |

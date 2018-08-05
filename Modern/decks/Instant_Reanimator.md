@@ -1,6 +1,7 @@
 # Instant Reanimator
 
 #### [Export MTGO List](../collection/Instant%20Reanimator/Instant%20Reanimator.txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=2%09Blackcleave%20Cliffs%0A1%09Blood%20Crypt%0A4%09Bloodstained%20Mire%0A2%09Borborygmos%20Enraged%0A1%09Collective%20Brutality%0A2%09Desperate%20Ritual%0A4%09Faithless%20Looting%0A4%09Goryo's%20Vengeance%0A4%09Griselbrand%0A1%09Lightning%20Axe%0A1%09Manamorphose%0A3%09Mountain%0A4%09Night's%20Whisper%0A4%09Nourishing%20Shoal%0A4%09Simian%20Spirit%20Guide%0A5%09Swamp%0A4%09Temple%20of%20Malice%0A4%09Through%20the%20Breach%0A2%09Tormenting%20Voice%0A4%09Worldspine%20Wurm&deckside=3%09Blood%20Moon%0A2%09Bontu's%20Last%20Reckoning%0A2%09Chalice%20of%20the%20Void%0A1%09Collective%20Brutality%0A1%09Engineered%20Explosives%0A2%09Leyline%20of%20Sanctity%0A3%09Pact%20of%20Negation%0A1%09Shattering%20Spree)
 # Maindeck
 
 |                                         Creature (14)                                          |                                         Instant (16)                                          |                                           Land (19)                                           |                                          Sorcery (11)                                           |

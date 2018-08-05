@@ -1,6 +1,7 @@
 # Delver BUG  4c
 
 #### [Export MTGO List](../collection/Delver%20BUG%20%204c/Delver%20BUG%20%204c.txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=3%09Abrupt%20Decay%0A2%09Bayou%0A4%09Brainstorm%0A4%09Daze%0A4%09Deathrite%20Shaman%0A4%09Delver%20of%20Secrets%0A3%09Fatal%20Push%0A4%09Force%20of%20Will%0A4%09Hymn%20to%20Tourach%0A1%09Liliana%20of%20the%20Veil%0A2%09Misty%20Rainforest%0A4%09Polluted%20Delta%0A4%09Ponder%0A4%09Tarmogoyf%0A1%09Tombstalker%0A1%09Tropical%20Island%0A1%09True-Name%20Nemesis%0A3%09Underground%20Sea%0A3%09Verdant%20Catacombs%0A4%09Wasteland&deckside=2%09Diabolic%20Edict%0A2%09Flusterstorm%0A2%09Golgari%20Charm%0A1%09Jace,%20the%20Mind%20Sculptor%0A1%09Life%20from%20the%20Loam%0A1%09Pithing%20Needle%0A2%09Surgical%20Extraction%0A1%09Sylvan%20Library%0A2%09Thoughtseize%0A1%09Toxic%20Deluge)
 # Maindeck
 
 |                                        Creature (14)                                         |                                       Instant (18)                                       |                                          Land (19)                                           |                                        Planeswalker (1)                                        |                                        Sorcery (8)                                         |

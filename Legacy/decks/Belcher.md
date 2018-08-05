@@ -1,6 +1,7 @@
 # Belcher
 
 #### [Export MTGO List](../collection/Belcher/Belcher.txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Burning%20Wish%0A4%09Chrome%20Mox%0A4%09Desperate%20Ritual%0A4%09Elvish%20Spirit%20Guide%0A3%09Empty%20the%20Warrens%0A4%09Goblin%20Charbelcher%0A4%09Land%20Grant%0A4%09Lion's%20Eye%20Diamond%0A4%09Lotus%20Petal%0A4%09Manamorphose%0A4%09Pyretic%20Ritual%0A4%09Rite%20of%20Flame%0A4%09Seething%20Song%0A4%09Simian%20Spirit%20Guide%0A1%09Taiga%0A4%09Tinder%20Wall&deckside=1%09Chain%20Lightning%0A1%09Diminishing%20Returns%0A1%09Empty%20the%20Warrens%0A1%09Goblin%20War%20Strike%0A1%09Pyroclasm%0A1%09Reanimate%0A1%09Reverent%20Silence%0A1%09Shattering%20Spree%0A1%09Telemin%20Performance%0A1%09Tendrils%20of%20Agony%0A1%09Trash%20for%20Treasure%0A4%09Xantid%20Swarm)
 # Maindeck
 
 |                                         Artifact (16)                                         |                                         Creature (12)                                          |                                        Instant (16)                                         |                                     Land (1)                                     |                                         Sorcery (15)                                         |

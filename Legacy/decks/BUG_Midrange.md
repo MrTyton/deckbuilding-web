@@ -1,6 +1,7 @@
 # BUG Midrange
 
 #### [Export MTGO List](../collection/BUG%20Midrange/BUG%20Midrange.txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=2%09Abrupt%20Decay%0A3%09Baleful%20Strix%0A2%09Bayou%0A4%09Brainstorm%0A4%09Deathrite%20Shaman%0A2%09Fatal%20Push%0A4%09Force%20of%20Will%0A3%09Hymn%20to%20Tourach%0A1%09Island%0A2%09Jace,%20the%20Mind%20Sculptor%0A2%09Leovold,%20Emissary%20of%20Trest%0A1%09Liliana,%20the%20Last%20Hope%0A3%09Misty%20Rainforest%0A4%09Polluted%20Delta%0A3%09Ponder%0A1%09Snapcaster%20Mage%0A1%09Swamp%0A3%09Tarmogoyf%0A2%09Thoughtseize%0A2%09Tropical%20Island%0A2%09True-Name%20Nemesis%0A3%09Underground%20Sea%0A3%09Verdant%20Catacombs%0A3%09Wasteland&deckside=1%09Diabolic%20Edict%0A1%09Fatal%20Push%0A2%09Flusterstorm%0A1%09Golgari%20Charm%0A1%09Grafdigger's%20Cage%0A1%09Life%20from%20the%20Loam%0A1%09Liliana,%20the%20Last%20Hope%0A1%09Maelstrom%20Pulse%0A1%09Marsh%20Casualties%0A2%09Surgical%20Extraction%0A1%09Sylvan%20Library%0A1%09Thoughtseize%0A1%09Toxic%20Deluge)
 # Maindeck
 
 |                                             Creature (15)                                             |                                       Instant (12)                                       |                                          Land (22)                                           |                                          Planeswalker (3)                                          |                                        Sorcery (8)                                         |

@@ -1,6 +1,7 @@
 # Valakut
 
 #### [Export MTGO List](../collection/Valakut/Valakut.txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=1%09Anger%20of%20the%20Gods%0A4%09Bloodbraid%20Elf%0A3%09Cinder%20Glade%0A4%09Farseek%0A3%09Forest%0A4%09Lightning%20Bolt%0A6%09Mountain%0A4%09Primeval%20Titan%0A1%09Reclamation%20Sage%0A4%09Sakura-Tribe%20Elder%0A4%09Scapeshift%0A4%09Search%20for%20Tomorrow%0A4%09Stomping%20Ground%0A2%09Summoner's%20Pact%0A1%09Sweltering%20Suns%0A4%09Valakut,%20the%20Molten%20Pinnacle%0A3%09Windswept%20Heath%0A4%09Wooded%20Foothills&deckside=1%09Ancient%20Grudge%0A2%09Anger%20of%20the%20Gods%0A2%09Damping%20Sphere%0A1%09Engineered%20Explosives%0A1%09Fracturing%20Gust%0A3%09Obstinate%20Baloth%0A1%09Reclamation%20Sage%0A1%09Relic%20of%20Progenitus%0A1%09Roast%0A2%09Tireless%20Tracker)
 # Maindeck
 
 |                                         Creature (13)                                         |                                        Instant (6)                                         |                                                Land (27)                                                |                                          Sorcery (14)                                          |

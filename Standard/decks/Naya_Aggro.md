@@ -1,6 +1,7 @@
 # Naya Aggro
 
 #### [Export MTGO List](../collection/Naya%20Aggro/Naya%20Aggro.txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Blossoming%20Defense%0A4%09Evolving%20Wilds%0A3%09Forest%0A4%09Gideon%20of%20the%20Trials%0A4%09Heart%20of%20Kiran%0A4%09Lyra%20Dawnbringer%0A1%09Mountain%0A1%09Plains%0A4%09Prowling%20Serpopard%0A4%09Rekindling%20Phoenix%0A3%09Rhonas%20the%20Indomitable%0A4%09Rootbound%20Crag%0A4%09Scattered%20Groves%0A4%09Shalai,%20Voice%20of%20Plenty%0A4%09Sheltered%20Thicket%0A4%09Steel%20Leaf%20Champion%0A4%09Sunpetal%20Grove&deckside=4%09Authority%20of%20the%20Consuls%0A4%09Carnage%20Tyrant%0A4%09Settle%20the%20Wreckage%0A3%09Sweltering%20Suns)
 # Maindeck
 
 |                                       Artifact (4)                                        |                                           Creature (23)                                            |                                          Instant (4)                                          |                                          Land (25)                                           |                                        Planeswalker (4)                                         |

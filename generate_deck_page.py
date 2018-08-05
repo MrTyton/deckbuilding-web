@@ -134,12 +134,8 @@ def run(title, dir, format):
     
     everything += other
     
-    for cur in ["Maindeck", "Sideboard"]:
-        with open(os.path.join(dir, f"{cur}.txt")) as fp:
-            inputs = fp.readlines()
-        inputs = [x.strip() for x in inputs]
-
     temp = []
+
     for cur in ["Maindeck", "Sideboard"]:
         with open(os.path.join(dir, f"{cur}_options.txt")) as fp:
             inputs = fp.readlines()

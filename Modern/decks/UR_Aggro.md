@@ -1,6 +1,7 @@
 # UR Aggro
 
 #### [Export MTGO List](../collection/UR%20Aggro/UR%20Aggro.txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Delver%20of%20Secrets%0A4%09Flooded%20Strand%0A1%09Forked%20Bolt%0A2%09Grim%20Lavamancer%0A3%09Island%0A4%09Lightning%20Bolt%0A3%09Mana%20Leak%0A2%09Mountain%0A4%09Opt%0A4%09Scalding%20Tarn%0A4%09Serum%20Visions%0A4%09Snapcaster%20Mage%0A4%09Soul-Scar%20Mage%0A1%09Spell%20Snare%0A4%09Spirebluff%20Canal%0A3%09Steam%20Vents%0A4%09Stormchaser%20Mage%0A1%09Vapor%20Snag%0A4%09Wizard's%20Lightning&deckside=2%09Abrade%0A2%09Alpine%20Moon%0A2%09Blood%20Moon%0A1%09Disdainful%20Stroke%0A1%09Dispel%0A1%09Entrancing%20Melody%0A2%09Izzet%20Staticaster%0A1%09Magma%20Spray%0A2%09Negate%0A1%09Roast)
 # Maindeck
 
 |                                        Creature (18)                                         |                                         Instant (17)                                          |                                          Land (20)                                          |                                       Sorcery (5)                                        |

@@ -1,6 +1,7 @@
 # Merfolk
 
 #### [Export MTGO List](../collection/Merfolk/Merfolk.txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Aether%20Vial%0A4%09Cavern%20of%20Souls%0A4%09Chalice%20of%20the%20Void%0A4%09Cursecatcher%0A2%09Daze%0A1%09Echoing%20Truth%0A4%09Force%20of%20Will%0A2%09Harbinger%20of%20the%20Tides%0A12%09Island%0A4%09Lord%20of%20Atlantis%0A4%09Master%20of%20the%20Pearl%20Trident%0A4%09Mutavault%0A3%09Phantasmal%20Image%0A4%09Silvergill%20Adept%0A4%09True-Name%20Nemesis&deckside=2%09Back%20to%20Basics%0A3%09Dismember%0A2%09Echoing%20Truth%0A2%09Flusterstorm%0A2%09Grafdigger's%20Cage%0A2%09Relic%20of%20Progenitus%0A1%09Sorcerous%20Spyglass%0A1%09Surgical%20Extraction)
 # Maindeck
 
 |                                          Artifact (8)                                          |                                             Creature (25)                                              |                                       Instant (7)                                        |                                         Land (20)                                          |

@@ -1,6 +1,7 @@
 # Tokens
 
 #### [Export MTGO List](../collection/Tokens/Tokens.txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Anointed%20Procession%0A4%09Anointer%20Priest%0A1%09Arch%20of%20Orazca%0A4%09Concealed%20Courtyard%0A4%09Evolving%20Wilds%0A4%09Fatal%20Push%0A1%09Forest%0A2%09Fungal%20Infection%0A4%09Hidden%20Stockpile%0A4%09History%20of%20Benalia%0A4%09Isolated%20Chapel%0A4%09Karn,%20Scion%20of%20Urza%0A5%09Plains%0A4%09Regal%20Caracal%0A4%09Renegade%20Map%0A2%09Sunpetal%20Grove%0A2%09Swamp%0A1%09Thopter%20Arrest%0A2%09Vraska,%20Relic%20Seeker&deckside=2%09Angel%20of%20Sanctions%0A1%09Arguel's%20Blood%20Fast%0A1%09Baffling%20End%0A1%09Cast%20Down%0A1%09Deadeye%20Tracker%0A1%09Dispossess%0A4%09Duress%0A1%09Forsake%20the%20Worldly%0A2%09Ixalan's%20Binding%0A1%09Thopter%20Arrest)
 # Maindeck
 
 |                                      Artifact (4)                                       |                                        Creature (8)                                        |                                        Enchantment (13)                                        |                                         Instant (6)                                         |                                           Land (23)                                            |                                        Planeswalker (6)                                         |

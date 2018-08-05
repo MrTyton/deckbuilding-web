@@ -1,6 +1,7 @@
 # Smallpox
 
 #### [Export MTGO List](../collection/Smallpox/Smallpox.txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=2%09Bloodstained%20Mire%0A2%09Collective%20Brutality%0A3%09Fatal%20Push%0A4%09Funeral%20Charm%0A2%09Hostile%20Desert%0A3%09Inquisition%20of%20Kozilek%0A4%09Liliana%20of%20the%20Veil%0A4%09Mutavault%0A3%09Polluted%20Delta%0A4%09Raven's%20Crime%0A4%09Shrieking%20Affliction%0A4%09Smallpox%0A8%09Swamp%0A4%09The%20Rack%0A3%09Thoughtseize%0A4%09Urborg,%20Tomb%20of%20Yawgmoth%0A2%09Wrench%20Mind&deckside=2%09Bontu's%20Last%20Reckoning%0A1%09Fatal%20Push%0A1%09Flaying%20Tendrils%0A3%09Fulminator%20Mage%0A4%09Leyline%20of%20the%20Void%0A2%09Ratchet%20Bomb%0A2%09Surgical%20Extraction)
 # Maindeck
 
 |                                    Artifact (4)                                     |                                         Enchantment (4)                                         |                                      Instant (7)                                       |                                              Land (23)                                              |                                        Planeswalker (4)                                        |                                           Sorcery (18)                                            |

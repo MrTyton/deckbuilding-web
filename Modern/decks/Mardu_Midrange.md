@@ -1,6 +1,7 @@
 # Mardu Midrange
 
 #### [Export MTGO List](../collection/Mardu%20Midrange/Mardu%20Midrange.txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Bedlam%20Reveler%0A4%09Blackcleave%20Cliffs%0A2%09Blood%20Crypt%0A2%09Blood%20Moon%0A4%09Bloodstained%20Mire%0A2%09Collective%20Brutality%0A1%09Dreadbore%0A4%09Faithless%20Looting%0A2%09Fatal%20Push%0A4%09Inquisition%20of%20Kozilek%0A3%09Kolaghan's%20Command%0A4%09Lightning%20Bolt%0A1%09Liliana%20of%20the%20Veil%0A4%09Lingering%20Souls%0A1%09Manamorphose%0A4%09Marsh%20Flats%0A2%09Mountain%0A2%09Sacred%20Foundry%0A2%09Swamp%0A1%09Terminate%0A3%09Thoughtseize%0A4%09Young%20Pyromancer&deckside=1%09Collective%20Brutality%0A2%09Engineered%20Explosives%0A2%09Goblin%20Rabblemaster%0A2%09Kambal,%20Consul%20of%20Allocation%0A3%09Molten%20Rain%0A1%09Nihil%20Spellbomb%0A2%09Surgical%20Extraction%0A2%09Wear%20/%20Tear)
 # Maindeck
 
 |                                        Creature (8)                                         |                                    Enchantment (2)                                    |                                         Instant (11)                                          |                                           Land (20)                                           |                                        Planeswalker (1)                                        |                                           Sorcery (18)                                            |

@@ -1,6 +1,7 @@
 # Gruul Aggro
 
 #### [Export MTGO List](../collection/Gruul%20Aggro/Gruul%20Aggro.txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=3%09Abrade%0A4%09Aether%20Hub%0A3%09Banefire%0A7%09Forest%0A4%09Glorybringer%0A2%09Hashep%20Oasis%0A3%09Jadelight%20Ranger%0A4%09Llanowar%20Elves%0A3%09Magma%20Spray%0A4%09Merfolk%20Branchwalker%0A5%09Mountain%0A4%09Rekindling%20Phoenix%0A1%09Rhonas%20the%20Indomitable%0A4%09Rootbound%20Crag%0A4%09Sheltered%20Thicket%0A2%09Thorn%20Lieutenant%0A3%09Thrashing%20Brontodon&deckside=3%09Chandra's%20Defeat%0A3%09Chandra,%20Torch%20of%20Defiance%0A2%09Deathgorge%20Scavenger%0A2%09Reclamation%20Sage%0A1%09Struggle%20/%20Survive%0A2%09Vine%20Mare%0A2%09Vivien%20Reid)
 # Maindeck
 
 |                                           Creature (25)                                           |                                      Instant (6)                                       |                                          Land (26)                                           |                                     Sorcery (3)                                     |

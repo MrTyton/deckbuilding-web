@@ -1,6 +1,7 @@
 # Other - Aggro
 
 #### [Export MTGO List](../collection/Other%20-%20Aggro/Other%20-%20Aggro.txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Aether%20Vial%0A1%09Cavern%20of%20Souls%0A4%09Drogskol%20Captain%0A4%09Flooded%20Strand%0A2%09Geist%20of%20Saint%20Traft%0A2%09Hallowed%20Fountain%0A3%09Island%0A4%09Mausoleum%20Wanderer%0A1%09Moorland%20Haunt%0A4%09Mutavault%0A4%09Path%20to%20Exile%0A3%09Phantasmal%20Image%0A2%09Plains%0A4%09Rattlechains%0A2%09Remorseful%20Cleric%0A4%09Seachrome%20Coast%0A4%09Selfless%20Spirit%0A4%09Spell%20Queller%0A4%09Supreme%20Phantom&deckside=2%09Blessed%20Alliance%0A2%09Damping%20Sphere%0A2%09Kor%20Firewalker%0A1%09Nikko-Onna%0A2%09Rest%20in%20Peace%0A2%09Stony%20Silence%0A2%09Unified%20Will%0A2%09Worship)
 # Maindeck
 
 |                                      Artifact (4)                                      |                                          Creature (31)                                          |                                       Instant (4)                                        |                                          Land (21)                                           |
@@ -105,9 +106,9 @@
 |                    2|[Dryad Greenseeker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447314)            |                     |                                                                                                      |
 |                    2|[Courser of Kruphix](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442153)           |                     |                                                                                                      |
 |                    2|[Kiora, Master of the Depths](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401931)  |                     |                                                                                                      |
+|                    3|[Walking Ballista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423848)             |                     |                                                                                                      |
 |                    3|[Courser of Kruphix](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442153)           |                     |                                                                                                      |
 |                    3|[Nykthos, Shrine to Nyx](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373713)       |                     |                                                                                                      |
-|                    3|[Walking Ballista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423848)             |                     |                                                                                                      |
 |                    3|[Jadelight Ranger](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439793)             |                     |                                                                                                      |
 |                    4|[Walking Ballista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423848)             |                     |                                                                                                      |
 |                    4|[Nykthos, Shrine to Nyx](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373713)       |                     |                                                                                                      |

@@ -1,6 +1,7 @@
 # MUD
 
 #### [Export MTGO List](../collection/MUD/MUD.txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Ancient%20Tomb%0A1%09Blightsteel%20Colossus%0A4%09Cavern%20of%20Souls%0A4%09Chalice%20of%20the%20Void%0A4%09City%20of%20Traitors%0A4%09Cloudpost%0A4%09Glimmerpost%0A4%09Grim%20Monolith%0A1%09Inventors'%20Fair%0A4%09Kuldotha%20Forgemaster%0A2%09Lightning%20Greaves%0A4%09Lodestone%20Golem%0A4%09Metalworker%0A1%09Platinum%20Emperion%0A1%09Staff%20of%20Domination%0A1%09Steel%20Hellkite%0A1%09Sundering%20Titan%0A3%09Trinisphere%0A1%09Ugin,%20the%20Spirit%20Dragon%0A2%09Vesuva%0A4%09Wasteland%0A2%09Wurmcoil%20Engine&deckside=2%09All%20Is%20Dust%0A1%09Batterskull%0A2%09Duplicant%0A4%09Faerie%20Macabre%0A3%09Sorcerous%20Spyglass%0A3%09Thorn%20of%20Amethyst)
 # Maindeck
 
 |                                         Artifact (14)                                          |                                          Creature (18)                                          |                                          Land (27)                                          |                                          Planeswalker (1)                                          |

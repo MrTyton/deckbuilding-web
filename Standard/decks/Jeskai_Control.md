@@ -1,6 +1,7 @@
 # Jeskai Control
 
 #### [Export MTGO List](../collection/Jeskai%20Control/Jeskai%20Control.txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Aether%20Hub%0A2%09Censor%0A2%09Clifftop%20Retreat%0A4%09Disallow%0A2%09Essence%20Scatter%0A4%09Glimmer%20of%20Genius%0A4%09Harnessed%20Lightning%0A4%09Irrigated%20Farmland%0A4%09Island%0A4%09Magma%20Spray%0A4%09Mountain%0A2%09Search%20for%20Azcanta%0A4%09Spirebluff%20Canal%0A4%09Sulfur%20Falls%0A2%09Syncopate%0A4%09Teferi,%20Hero%20of%20Dominaria%0A3%09Torrential%20Gearhulk%0A3%09Whirler%20Virtuoso&deckside=2%09Abrade%0A2%09Chandra's%20Defeat%0A1%09Forsake%20the%20Worldly%0A2%09Jace's%20Defeat%0A2%09Negate%0A1%09Seal%20Away%0A2%09Vizier%20of%20Many%20Faces%0A3%09Walking%20Ballista)
 # Maindeck
 
 |                                          Creature (6)                                          |                                        Enchantment (2)                                        |                                          Instant (22)                                          |                                           Land (26)                                           |                                           Planeswalker (4)                                           |

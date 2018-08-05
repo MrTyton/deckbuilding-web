@@ -1,6 +1,7 @@
 # The Rock
 
 #### [Export MTGO List](../collection/The%20Rock/The%20Rock.txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=2%09Abrupt%20Decay%0A3%09Blooming%20Marsh%0A2%09Collective%20Brutality%0A1%09Courser%20of%20Kruphix%0A4%09Dark%20Confidant%0A4%09Fatal%20Push%0A4%09Field%20of%20Ruin%0A2%09Forest%0A1%09Hissing%20Quagmire%0A4%09Inquisition%20of%20Kozilek%0A1%09Kalitas,%20Traitor%20of%20Ghet%0A4%09Liliana%20of%20the%20Veil%0A2%09Maelstrom%20Pulse%0A2%09Overgrown%20Tomb%0A1%09Polluted%20Delta%0A3%09Scavenging%20Ooze%0A4%09Swamp%0A4%09Tarmogoyf%0A2%09Thoughtseize%0A4%09Tireless%20Tracker%0A2%09Treetop%20Village%0A4%09Verdant%20Catacombs&deckside=1%09Collective%20Brutality%0A1%09Damnation%0A2%09Damping%20Sphere%0A1%09Drown%20in%20Sorrow%0A1%09Duress%0A1%09Ghost%20Quarter%0A1%09Golgari%20Charm%0A1%09Kalitas,%20Traitor%20of%20Ghet%0A1%09Liliana,%20the%20Last%20Hope%0A1%09Nihil%20Spellbomb%0A1%09Obstinate%20Baloth%0A2%09Surgical%20Extraction%0A1%09Thrun,%20the%20Last%20Troll)
 # Maindeck
 
 |                                            Creature (17)                                            |                                       Instant (6)                                       |                                          Land (23)                                           |                                        Planeswalker (4)                                        |                                           Sorcery (10)                                            |

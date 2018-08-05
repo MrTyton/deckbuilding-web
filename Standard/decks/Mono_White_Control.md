@@ -1,6 +1,7 @@
 # Mono White Control
 
 #### [Export MTGO List](../collection/Mono%20White%20Control/Mono%20White%20Control.txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=2%09Approach%20of%20the%20Second%20Sun%0A2%09Arch%20of%20Orazca%0A2%09Baffling%20End%0A4%09Cast%20Out%0A3%09Fumigate%0A4%09Glacial%20Fortress%0A1%09Invoke%20the%20Divine%0A4%09Irrigated%20Farmland%0A4%09Ixalan's%20Binding%0A4%09Karn,%20Scion%20of%20Urza%0A4%09Orazca%20Relic%0A9%09Plains%0A2%09Scavenger%20Grounds%0A4%09Seal%20Away%0A2%09Settle%20the%20Wreckage%0A2%09Sorcerous%20Spyglass%0A3%09Treasure%20Map%0A4%09Zhalfirin%20Void&deckside=1%09Gideon%20of%20the%20Trials%0A4%09History%20of%20Benalia%0A1%09Invoke%20the%20Divine%0A4%09Negate%0A4%09Regal%20Caracal%0A1%09Settle%20the%20Wreckage)
 # Maindeck
 
 |                                         Artifact (9)                                          |                                      Enchantment (14)                                       |                                          Instant (3)                                           |                                           Land (25)                                           |                                        Planeswalker (4)                                        |                                              Sorcery (5)                                              |

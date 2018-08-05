@@ -1,6 +1,7 @@
 # Other - Aggro
 
 #### [Export MTGO List](../collection/Other%20-%20Aggro/Other%20-%20Aggro.txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=3%09Aether%20Hub%0A1%09Arguel's%20Blood%20Fast%0A1%09Cast%20Down%0A3%09Champion%20of%20Wits%0A1%09Commit%20/%20Memory%0A2%09Doomfall%0A4%09Drowned%20Catacomb%0A2%09Essence%20Scatter%0A4%09Fatal%20Push%0A4%09Fetid%20Pools%0A2%09Field%20of%20Ruin%0A4%09Gifted%20Aetherborn%0A1%09Gonti,%20Lord%20of%20Luxury%0A1%09Hostage%20Taker%0A4%09Island%0A2%09Liliana,%20Death's%20Majesty%0A1%09Ravenous%20Chupacabra%0A1%09Submerged%20Boneyard%0A1%09Supreme%20Will%0A8%09Swamp%0A3%09The%20Scarab%20God%0A1%09Torrential%20Gearhulk%0A4%09Vraska's%20Contempt%0A2%09Walking%20Ballista&deckside=1%09Angrath,%20the%20Flame-Chained%0A2%09Arguel's%20Blood%20Fast%0A1%09Chandra,%20Torch%20of%20Defiance%0A3%09Doomfall%0A3%09Duress%0A1%09Fungal%20Infection%0A1%09Hazoret%20the%20Fervent%0A2%09Negate%0A1%09Vraska's%20Contempt)
 # Maindeck
 
 |                                          Creature (16)                                           |                                        Enchantment (1)                                         |                                         Instant (12)                                         |                                           Land (26)                                           |                                          Planeswalker (2)                                           |                                     Sorcery (2)                                     |   Unknown (1)   |

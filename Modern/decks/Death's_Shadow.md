@@ -1,6 +1,7 @@
 # Death's Shadow
 
 #### [Export MTGO List](../collection/Death's%20Shadow/Death's%20Shadow.txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=2%09Blood%20Crypt%0A4%09Bloodstained%20Mire%0A4%09Death's%20Shadow%0A2%09Dismember%0A2%09Faithless%20Looting%0A2%09Fatal%20Push%0A4%09Gurmag%20Angler%0A2%09Inquisition%20of%20Kozilek%0A1%09Island%0A3%09Lightning%20Bolt%0A4%09Mishra's%20Bauble%0A4%09Polluted%20Delta%0A2%09Scalding%20Tarn%0A3%09Snapcaster%20Mage%0A1%09Steam%20Vents%0A4%09Street%20Wraith%0A3%09Stubborn%20Denial%0A1%09Swamp%0A2%09Temur%20Battle%20Rage%0A4%09Thought%20Scour%0A4%09Thoughtseize%0A2%09Watery%20Grave&deckside=2%09Abrade%0A2%09Ceremonious%20Rejection%0A2%09Collective%20Brutality%0A1%09Disdainful%20Stroke%0A1%09Engineered%20Explosives%0A2%09Grim%20Lavamancer%0A2%09Kolaghan's%20Command%0A2%09Liliana,%20the%20Last%20Hope%0A1%09Stubborn%20Denial)
 # Maindeck
 
 |                                        Artifact (4)                                        |                                       Creature (15)                                        |                                         Instant (16)                                         |                                          Land (17)                                           |                                            Sorcery (8)                                            |

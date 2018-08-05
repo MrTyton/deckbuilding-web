@@ -1,6 +1,7 @@
 # Vampires
 
 #### [Export MTGO List](../collection/Vampires/Vampires.txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=1%09Arguel's%20Blood%20Fast%0A4%09Call%20to%20the%20Feast%0A3%09Cast%20Down%0A4%09Concealed%20Courtyard%0A2%09Crested%20Sunmare%0A3%09Dusk%20Legion%20Zealot%0A4%09Isolated%20Chapel%0A3%09Ixalan's%20Binding%0A4%09Legion%20Lieutenant%0A4%09Legion's%20Landing%0A4%09Martyr%20of%20Dusk%0A1%09Mavren%20Fein,%20Dusk%20Apostle%0A5%09Plains%0A4%09Queen's%20Commission%0A4%09Radiant%20Destiny%0A4%09Shefet%20Dunes%0A6%09Swamp&deckside=1%09Arguel's%20Blood%20Fast%0A2%09Authority%20of%20the%20Consuls%0A3%09Fragmentize%0A1%09Ixalan's%20Binding%0A2%09Lost%20Legacy%0A2%09Never%20/%20Return%0A1%09Seal%20Away%0A2%09Solemnity%0A1%09The%20Immortal%20Sun)
 # Maindeck
 
 |                                            Creature (14)                                             |                                        Enchantment (12)                                        |                                     Instant (3)                                      |                                           Land (23)                                            |                                          Sorcery (8)                                          |

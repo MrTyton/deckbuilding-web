@@ -1,6 +1,7 @@
 # Mardu Aggro
 
 #### [Export MTGO List](../collection/Mardu%20Aggro/Mardu%20Aggro.txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=3%09Abrade%0A2%09Aether%20Hub%0A4%09Canyon%20Slough%0A3%09Chandra,%20Torch%20of%20Defiance%0A4%09Cinder%20Barrens%0A2%09Cut%20/%20Ribbons%0A4%09Dragonskull%20Summit%0A3%09Glint-Sleeve%20Siphoner%0A2%09Glorybringer%0A4%09Goblin%20Chainwhirler%0A2%09Heart%20of%20Kiran%0A3%09Karn,%20Scion%20of%20Urza%0A3%09Magma%20Spray%0A7%09Mountain%0A2%09Pia%20Nalaar%0A3%09Rekindling%20Phoenix%0A4%09Scrapheap%20Scrounger%0A2%09Swamp%0A3%09Vraska's%20Contempt&deckside=1%09Angrath,%20the%20Flame-Chained%0A3%09Chandra's%20Defeat%0A3%09Doomfall%0A2%09Duress%0A3%09Glint-Sleeve%20Siphoner%0A2%09The%20Eldest%20Reborn%0A1%09Vraska's%20Contempt)
 # Maindeck
 
 |                                       Artifact (2)                                        |                                          Creature (18)                                           |                                         Instant (9)                                          |                                           Land (23)                                           |                                           Planeswalker (6)                                            |  Unknown (2)  |

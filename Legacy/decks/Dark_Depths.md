@@ -1,6 +1,7 @@
 # Dark Depths
 
 #### [Export MTGO List](../collection/Dark%20Depths/Dark%20Depths.txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=2%09Bayou%0A1%09Bojuka%20Bog%0A4%09Crop%20Rotation%0A4%09Dark%20Depths%0A4%09Duress%0A4%09Elvish%20Spirit%20Guide%0A2%09Expedition%20Map%0A1%09Forest%0A1%09Ghost%20Quarter%0A4%09Lotus%20Petal%0A4%09Pithing%20Needle%0A1%09Sejiri%20Steppe%0A1%09Snow-Covered%20Swamp%0A1%09Swamp%0A1%09Sylvan%20Library%0A2%09Sylvan%20Safekeeper%0A4%09Sylvan%20Scrying%0A4%09Thespian's%20Stage%0A4%09Thoughtseize%0A3%09Urborg,%20Tomb%20of%20Yawgmoth%0A4%09Vampire%20Hexmage%0A4%09Verdant%20Catacombs&deckside=3%09Abrupt%20Decay%0A1%09Dread%20of%20Night%0A1%09Grafdigger's%20Cage%0A1%09Karakas%0A1%09Krosan%20Grip%0A2%09Rite%20of%20Consumption%0A3%09Surgical%20Extraction%0A1%09Sylvan%20Library%0A1%09Sylvan%20Safekeeper%0A1%09Toxic%20Deluge)
 # Maindeck
 
 |                                       Artifact (10)                                       |                                         Creature (10)                                          |                                      Enchantment (1)                                      |                                       Instant (4)                                        |                                              Land (23)                                              |                                       Sorcery (12)                                       |

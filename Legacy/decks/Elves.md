@@ -1,6 +1,7 @@
 # Elves
 
 #### [Export MTGO List](../collection/Elves/Elves.txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=2%09Bayou%0A2%09Birchlore%20Rangers%0A1%09Cavern%20of%20Souls%0A2%09Craterhoof%20Behemoth%0A1%09Deathrite%20Shaman%0A2%09Dryad%20Arbor%0A4%09Elvish%20Visionary%0A3%09Forest%0A4%09Gaea's%20Cradle%0A4%09Glimpse%20of%20Nature%0A4%09Green%20Sun's%20Zenith%0A4%09Heritage%20Druid%0A1%09Llanowar%20Elves%0A2%09Misty%20Rainforest%0A3%09Natural%20Order%0A4%09Nettle%20Sentinel%0A1%09Pendelhaven%0A4%09Quirion%20Ranger%0A1%09Reclamation%20Sage%0A1%09Scavenging%20Ooze%0A2%09Verdant%20Catacombs%0A2%09Windswept%20Heath%0A4%09Wirewood%20Symbiote%0A2%09Wooded%20Foothills&deckside=3%09Abrupt%20Decay%0A2%09Cabal%20Therapy%0A2%09Choke%0A1%09Progenitus%0A1%09Scavenging%20Ooze%0A3%09Surgical%20Extraction%0A3%09Thoughtseize)
 # Maindeck
 
 |                                         Creature (28)                                          |                                          Land (21)                                           |                                         Sorcery (11)                                          |

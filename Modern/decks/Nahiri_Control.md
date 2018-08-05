@@ -1,6 +1,7 @@
 # Nahiri Control
 
 #### [Export MTGO List](../collection/Nahiri%20Control/Nahiri%20Control.txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Anger%20of%20the%20Gods%0A4%09Arid%20Mesa%0A4%09Blood%20Moon%0A2%09Cast%20Out%0A4%09Chalice%20of%20the%20Void%0A2%09Chandra,%20Torch%20of%20Defiance%0A1%09Day%20of%20Judgment%0A1%09Emrakul,%20the%20Aeons%20Torn%0A2%09Field%20of%20Ruin%0A3%09Gideon%20Jura%0A4%09Lightning%20Helix%0A1%09Mountain%0A4%09Nahiri,%20the%20Harbinger%0A8%09Plains%0A3%09Rugged%20Prairie%0A1%09Sacred%20Foundry%0A4%09Simian%20Spirit%20Guide%0A1%09Temple%20of%20Epiphany%0A4%09Temple%20of%20Triumph%0A3%09Wrath%20of%20God&deckside=3%09Boil%0A1%09Cast%20Out%0A1%09Damping%20Sphere%0A1%09Elspeth,%20Sun's%20Champion%0A2%09Leyline%20of%20Sanctity%0A3%09Rest%20in%20Peace%0A4%09Stony%20Silence)
 # Maindeck
 
 |                                          Artifact (4)                                          |                                            Creature (5)                                            |                                    Enchantment (6)                                    |                                        Instant (4)                                         |                                           Land (24)                                           |                                           Planeswalker (9)                                            |                                         Sorcery (8)                                          |

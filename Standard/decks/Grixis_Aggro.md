@@ -1,6 +1,7 @@
 # Grixis Aggro
 
 #### [Export MTGO List](../collection/Grixis%20Aggro/Grixis%20Aggro.txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=3%09Abrade%0A4%09Aether%20Hub%0A4%09Canyon%20Slough%0A2%09Champion%20of%20Wits%0A1%09Chandra,%20Torch%20of%20Defiance%0A1%09Commit%20/%20Memory%0A4%09Dragonskull%20Summit%0A3%09Drowned%20Catacomb%0A4%09Fetid%20Pools%0A4%09Glint-Sleeve%20Siphoner%0A2%09Harnessed%20Lightning%0A1%09Island%0A1%09Liliana,%20Death's%20Majesty%0A3%09Magma%20Spray%0A2%09Mountain%0A3%09Nicol%20Bolas,%20the%20Ravager%0A1%09Spirebluff%20Canal%0A3%09Sulfur%20Falls%0A2%09Swamp%0A2%09The%20Scarab%20God%0A2%09Torrential%20Gearhulk%0A1%09Unlicensed%20Disintegration%0A4%09Vraska's%20Contempt%0A3%09Whirler%20Virtuoso&deckside=1%09Abrade%0A1%09Arguel's%20Blood%20Fast%0A2%09Chandra's%20Defeat%0A1%09Doomfall%0A3%09Duress%0A2%09Hour%20of%20Glory%0A2%09Jace's%20Defeat%0A3%09Negate)
 # Maindeck
 
 |                                            Creature (16)                                            |                                             Instant (13)                                             |                                           Land (28)                                           |                                           Planeswalker (2)                                            |   Unknown (1)   |

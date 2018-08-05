@@ -1,6 +1,7 @@
 # UR Delver
 
 #### [Export MTGO List](../collection/UR%20Delver/UR%20Delver.txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Brainstorm%0A3%09Chain%20Lightning%0A4%09Daze%0A4%09Delver%20of%20Secrets%0A2%09Flooded%20Strand%0A4%09Force%20of%20Will%0A1%09Forked%20Bolt%0A4%09Gitaxian%20Probe%0A2%09Grim%20Lavamancer%0A2%09Island%0A4%09Lightning%20Bolt%0A2%09Misty%20Rainforest%0A1%09Mountain%0A2%09Polluted%20Delta%0A4%09Ponder%0A4%09Scalding%20Tarn%0A2%09Spell%20Pierce%0A2%09Stormchaser%20Mage%0A1%09True-Name%20Nemesis%0A4%09Volcanic%20Island%0A4%09Wasteland&deckside=1%09Abrade%0A1%09Blood%20Moon%0A2%09Flusterstorm%0A1%09Grafdigger's%20Cage%0A1%09Pithing%20Needle%0A1%09Price%20of%20Progress%0A2%09Pyroblast%0A2%09Smash%20to%20Smithereens%0A1%09Spell%20Pierce%0A1%09Submerge%0A2%09Surgical%20Extraction)
 # Maindeck
 
 |                                         Creature (9)                                         |                                       Instant (18)                                        |                                          Land (21)                                          |                                        Sorcery (12)                                        |
