@@ -112,6 +112,22 @@ def merge_markdown_tables(input1, input2, title):
 
 def run(title, dir, format):
     everything = f"# {title}\n\n#### [Export MTGO List](../collection/{title.replace(' ', '%20')}/{title.replace(' ', '%20')}.txt)"
+    maindeckString = ""
+    sideboardString = ""
+    for cur in ["Maindeck", "Sideboard"]:
+        with open(os.path.join(dir, f"{cur}.txt")) as fp:
+            inputs = fp.readlines()
+        inputs = [x.strip() for x in inputs]
+        w = [x.split(" ", 1) for x in inputs]
+        w = [f"{x[0]}%09{x[1].replace(' ', '%20')}" for x in w]
+        if cur == "Maindeck":
+            maindeckString += "%0A".join(w)
+        else:
+            sideboardString += "%0A".join(w)
+    everything += f"\n#### [Print on decklist.org](http://decklist.org/?deckmain={maindeckString}&deckside={sideboardString})"
+        
+        
+        
     for cur in ["Maindeck", "Sideboard"]:
         with open(os.path.join(dir, f"{cur}.txt")) as fp:
             inputs = fp.readlines()
