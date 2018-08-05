@@ -114,6 +114,7 @@ def run(title, dir, format):
     everything = f"# {title}\n\n#### [Export MTGO List](../collection/{title.replace(' ', '%20')}/{title.replace(' ', '%20')}.txt)"
     maindeckString = ""
     sideboardString = ""
+    other = ""
     for cur in ["Maindeck", "Sideboard"]:
         with open(os.path.join(dir, f"{cur}.txt")) as fp:
             inputs = fp.readlines()
@@ -124,17 +125,19 @@ def run(title, dir, format):
             maindeckString += "%0A".join(w)
         else:
             sideboardString += "%0A".join(w)
+            
+        a = get_links_group_by_types(inputs)
+        q = generate_markdown_table_mainside(a, f"{cur}\n")
+        other += "\n" + q.getvalue()
+        
     everything += f"\n#### [Print on decklist.org](http://decklist.org/?deckmain={maindeckString}&deckside={sideboardString})"
-        
-        
-        
+    
+    everything += other
+    
     for cur in ["Maindeck", "Sideboard"]:
         with open(os.path.join(dir, f"{cur}.txt")) as fp:
             inputs = fp.readlines()
         inputs = [x.strip() for x in inputs]
-        a = get_links_group_by_types(inputs)
-        q = generate_markdown_table_mainside(a, f"{cur}\n")
-        everything += "\n" + q.getvalue()
 
     temp = []
     for cur in ["Maindeck", "Sideboard"]:
