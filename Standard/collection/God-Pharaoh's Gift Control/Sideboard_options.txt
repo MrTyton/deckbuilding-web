@@ -3,36 +3,36 @@
 1 Sorcerous Spyglass
 2 Settle the Wreckage
 2 Thopter Arrest
-1 Walking Ballista
-2 Walking Ballista
+1 Fatal Push
 1 Vraska's Contempt
 2 Vraska's Contempt
-1 Fatal Push
 1 Glint-Sleeve Siphoner
 2 Glint-Sleeve Siphoner
-1 Aethersphere Harvester
-2 Aethersphere Harvester
-2 Fatal Push
-1 Duress
-2 Duress
-3 Duress
 1 The Scarab God
-1 Exclusion Mage
-1 Seal Away
+2 Fatal Push
 1 Kitesail Freebooter
-1 Commit / Memory
 1 Cast Down
 2 The Scarab God
 2 Cast Down
+1 Walking Ballista
+2 Walking Ballista
+1 Exclusion Mage
+1 Seal Away
+1 Duress
+2 Duress
+3 Duress
+1 Commit / Memory
+1 Aethersphere Harvester
+2 Aethersphere Harvester
 3 Glint-Sleeve Siphoner
 4 Glint-Sleeve Siphoner
 1 Thrashing Brontodon
-1 Glint-Nest Crane
-3 Aethersphere Harvester
 1 Nissa, Vital Force
-1 Hostage Taker
 1 Lifecrafter's Bestiary
 2 Thrashing Brontodon
+1 Hostage Taker
+1 Glint-Nest Crane
+3 Aethersphere Harvester
 3 Jace's Defeat
 1 Deadeye Tracker
 1 Vivien Reid
@@ -45,10 +45,10 @@
 1 Arguel's Blood Fast
 2 Sorcerous Spyglass
 2 Exclusion Mage
+1 Fragmentize
 1 Cataclysmic Gearhulk
 1 Remorseful Cleric
 1 Baffling End
-1 Fragmentize
 2 Baffling End
 2 Fragmentize
 1 Nissa, Steward of Elements
@@ -62,6 +62,11 @@
 1 Yahenni's Expertise
 2 Yahenni's Expertise
 3 Fatal Push
+1 Silent Gravestone
+1 Dreamstealer
+2 Silent Gravestone
+2 Dreamstealer
+3 Dreamstealer
 1 Reclamation Sage
 1 Gonti, Lord of Luxury
 1 Deathgorge Scavenger
@@ -79,12 +84,3 @@
 2 Wildgrowth Walker
 3 Wildgrowth Walker
 4 Wildgrowth Walker
-1 Siege-Gang Commander
-1 Spell Pierce
-1 Silent Gravestone
-1 Abrade
-1 Padeem, Consul of Innovation
-2 Siege-Gang Commander
-2 Abrade
-2 Spell Pierce
-4 Aethersphere Harvester

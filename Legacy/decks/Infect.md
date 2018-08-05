@@ -72,6 +72,6 @@
 |                    2|[Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=270465)                    |                     |                                                                                                |
 |                    2|[Tainted Strike](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=209049)            |                     |                                                                                                |
 |                    3|[Abrupt Decay](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425971)              |                     |                                                                                                |
-|                    3|[Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=270465)                    |                     |                                                                                                |
 |                    4|[Verdant Catacombs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426074)         |                     |                                                                                                |
+|                    3|[Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=270465)                    |                     |                                                                                                |
 
