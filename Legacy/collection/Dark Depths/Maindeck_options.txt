@@ -1,22 +1,21 @@
-1 Snow-Covered Swamp
-1 Snow-Covered Forest
+3 Bayou
 1 Dark Confidant
 2 Dark Confidant
 3 Dark Confidant
-1 Misty Rainforest
-1 Inquisition of Kozilek
 1 Abrupt Decay
+4 Pithing Needle
+1 Misty Rainforest
+1 Into the North
+1 Inquisition of Kozilek
 2 Abrupt Decay
 1 Dryad Arbor
-1 Karakas
-1 Into the North
 2 Inquisition of Kozilek
-2 Forest
+1 Karakas
 3 Sylvan Safekeeper
 1 Deathrite Shaman
 2 Deathrite Shaman
-3 Deathrite Shaman
 3 Abrupt Decay
+3 Deathrite Shaman
 4 Deathrite Shaman
 3 Expedition Map
 1 Tropical Island
@@ -36,8 +35,10 @@
 4 Mox Diamond
 4 Urborg, Tomb of Yawgmoth
 4 Brainstorm
+2 Forest
 2 Swamp
 4 Dark Confidant
+2 Into the North
 2 Snow-Covered Swamp
 2 Sylvan Library
 4 Misty Rainforest
@@ -52,9 +53,9 @@
 2 Helm of Obedience
 2 Leyline of the Void
 2 Sorcerous Spyglass
+2 Thought-Knot Seer
 2 City of Traitors
 2 Ancient Tomb
-2 Thought-Knot Seer
 3 City of Traitors
 3 Chalice of the Void
 3 Leyline of the Void
@@ -70,24 +71,22 @@
 1 Wooded Foothills
 2 Snow-Covered Forest
 1 Windswept Heath
-2 Into the North
-1 Polluted Delta
 1 Hymn to Tourach
 2 Hymn to Tourach
+1 Polluted Delta
 1 Grim Tutor
 2 Grim Tutor
 1 Overgrown Tomb
-1 Not of This World
 1 Life from the Loam
+1 Not of This World
 1 Maze of Ith
 2 Not of This World
 3 Not of This World
+3 Inquisition of Kozilek
+4 Inquisition of Kozilek
 2 Polluted Delta
 3 Polluted Delta
 4 Polluted Delta
-3 Inquisition of Kozilek
-4 Inquisition of Kozilek
-1 Marsh Flats
 1 Scrubland
 1 Children of Korlis
 1 Shallow Grave
@@ -100,6 +99,7 @@
 1 Griselbrand
 1 Bloodstained Mire
 1 Entomb
+1 Marsh Flats
 1 Dark Ritual
 2 Marsh Flats
 2 Shallow Grave
@@ -124,3 +124,10 @@
 4 Exhume
 4 Lion's Eye Diamond
 4 Entomb
+1 Blooming Marsh
+1 Llanowar Wastes
+2 Blooming Marsh
+2 Llanowar Wastes
+3 Into the North
+3 Blooming Marsh
+4 Blooming Marsh

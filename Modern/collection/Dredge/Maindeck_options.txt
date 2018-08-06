@@ -1,7 +1,7 @@
+1 Scourge Devil
+1 Tormenting Voice
 4 Wooded Foothills
 3 Bloodstained Mire
-2 Darkblast
-1 Scourge Devil
 2 Tormenting Voice
 1 Insolent Neonate
 2 Insolent Neonate
@@ -12,8 +12,11 @@
 2 City of Brass
 1 Forest
 2 Dakmor Salvage
-4 Bloodstained Mire
 4 Shriekhorn
+4 Bloodstained Mire
+1 Scalding Tarn
+2 Scalding Tarn
+3 Scalding Tarn
 1 Vengevine
 2 Vengevine
 3 Vengevine
@@ -29,9 +32,6 @@
 3 Gravecrawler
 4 Gravecrawler
 4 Stitcher's Supplier
-1 Scalding Tarn
-2 Scalding Tarn
-3 Scalding Tarn
 1 Goblin Bushwhacker
 1 Hangarback Walker
 1 Walking Ballista
@@ -58,6 +58,7 @@
 4 Hangarback Walker
 1 Lightning Axe
 3 Gemstone Mine
+1 Mana Confluence
 1 Verdant Catacombs
 2 Verdant Catacombs
 1 Swamp
@@ -72,6 +73,7 @@
 1 Driven / Despair
 2 Overgrown Tomb
 2 Lotleth Troll
+3 Arid Mesa
 1 Sheltered Thicket
 1 Steam Vents
 4 Golgari Thug
@@ -79,7 +81,6 @@
 3 Verdant Catacombs
 4 Verdant Catacombs
 1 Karplusan Forest
-1 Mana Confluence
 2 Mana Confluence
 3 Mana Confluence
 4 Gemstone Mine

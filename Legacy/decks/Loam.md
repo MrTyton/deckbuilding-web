@@ -98,6 +98,6 @@
 |                    3|[Dark Depths](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416746)                 |                     |                                                                                                      |
 |                    3|[Smallpox](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417484)                    |                     |                                                                                                      |
 |                    3|[Hymn to Tourach](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382976)             |                     |                                                                                                      |
-|                    4|[Hymn to Tourach](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382976)             |                     |                                                                                                      |
 |                    4|[Smallpox](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417484)                    |                     |                                                                                                      |
+|                    4|[Hymn to Tourach](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382976)             |                     |                                                                                                      |
 
