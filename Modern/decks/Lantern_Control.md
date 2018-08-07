@@ -30,13 +30,19 @@
 
 # Other Options
 
-|*n*<sup>th</sup> copy|                                  Maindeck Card                                  |*n*<sup>th</sup> copy|                                          Sideboard Card                                           |
-|--------------------:|---------------------------------------------------------------------------------|--------------------:|---------------------------------------------------------------------------------------------------|
-|                    2|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439602)|                    1|[Ensnaring Bridge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442213)        |
-|                     |                                                                                 |                    1|[Collective Brutality](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414380)    |
-|                     |                                                                                 |                    1|Wear / Tear                                                                                        |
-|                     |                                                                                 |                    1|[Ghirapur Aether Grid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=398517)    |
-|                     |                                                                                 |                    1|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)     |
-|                     |                                                                                 |                    2|[Tezzeret, Agent of Bolas](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=214065)|
-|                     |                                                                                 |                    2|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)          |
+|*n*<sup>th</sup> copy|                                        Maindeck Card                                        |*n*<sup>th</sup> copy|                                            Sideboard Card                                             |
+|--------------------:|---------------------------------------------------------------------------------------------|--------------------:|-------------------------------------------------------------------------------------------------------|
+|                    2|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439602)            |                    1|[Collective Brutality](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414380)        |
+|                    1|[Spellskite](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397743)        |                    1|[Ensnaring Bridge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442213)            |
+|                    1|[Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=270465)            |                    1|Wear / Tear                                                                                            |
+|                    1|[Ghoulcaller's Bell](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=237362)|                    1|[Ghirapur Aether Grid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=398517)        |
+|                    4|[Ensnaring Bridge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442213)  |                    1|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)         |
+|                     |                                                                                             |                    2|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)              |
+|                     |                                                                                             |                    2|[Tezzeret, Agent of Bolas](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=214065)    |
+|                     |                                                                                             |                    1|[Spellskite](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397743)                  |
+|                     |                                                                                             |                    1|[Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426046)           |
+|                     |                                                                                             |                    1|[Padeem, Consul of Innovation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417632)|
+|                     |                                                                                             |                    2|[Nature's Claim](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438743)              |
+|                     |                                                                                             |                    2|[Pithing Needle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425815)              |
+|                     |                                                                                             |                    3|[Nature's Claim](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438743)              |
 

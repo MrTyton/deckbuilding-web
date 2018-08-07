@@ -19,16 +19,17 @@
 
 |                           A                            |                            B                             |                          C                           |                         D                          |                      E                       |
 |--------------------------------------------------------|----------------------------------------------------------|------------------------------------------------------|----------------------------------------------------|----------------------------------------------|
-|[Ad Nauseam](./Modern/decks/Ad_Nauseam.md)              |[Elves](./Modern/decks/Elves.md)                          |[Jund](./Modern/decks/Jund.md)                        |[Orzhov Midrange](./Modern/decks/Orzhov_Midrange.md)|[Tokens](./Modern/decks/Tokens.md)            |
-|[Affinity](./Modern/decks/Affinity.md)                  |[Faeries](./Modern/decks/Faeries.md)                      |[Junk](./Modern/decks/Junk.md)                        |[Other - Aggro](./Modern/decks/Other_-_Aggro.md)    |[UR Aggro](./Modern/decks/UR_Aggro.md)        |
-|[Aura Hexproof](./Modern/decks/Aura_Hexproof.md)        |[Gift Control](./Modern/decks/Gift_Control.md)            |[KCI](./Modern/decks/KCI.md)                          |[Other - Combo](./Modern/decks/Other_-_Combo.md)    |[UR Control](./Modern/decks/UR_Control.md)    |
-|[BUG](./Modern/decks/BUG.md)                            |[Grixis Control](./Modern/decks/Grixis_Control.md)        |[Lantern Control](./Modern/decks/Lantern_Control.md)  |[Other - Control](./Modern/decks/Other_-_Control.md)|[UR Storm](./Modern/decks/UR_Storm.md)        |
-|[Bant](./Modern/decks/Bant.md)                          |[Gruul Land Loss](./Modern/decks/Gruul_Land_Loss.md)      |[Living End](./Modern/decks/Living_End.md)            |[Red Deck Wins](./Modern/decks/Red_Deck_Wins.md)    |[UW Control](./Modern/decks/UW_Control.md)    |
-|[Bloomless Titan](./Modern/decks/Bloomless_Titan.md)    |[Hatebear](./Modern/decks/Hatebear.md)                    |[Mardu Midrange](./Modern/decks/Mardu_Midrange.md)    |[Scapeshift](./Modern/decks/Scapeshift.md)          |[UWx Midrange](./Modern/decks/UWx_Midrange.md)|
-|[Creatures Toolbox](./Modern/decks/Creatures_Toolbox.md)|[Hollow One](./Modern/decks/Hollow_One.md)                |[Merfolk](./Modern/decks/Merfolk.md)                  |[Selesnya Aggro](./Modern/decks/Selesnya_Aggro.md)  |[UrzaTron](./Modern/decks/UrzaTron.md)        |
-|[Death's Shadow](./Modern/decks/Death's_Shadow.md)      |[Humans](./Modern/decks/Humans.md)                        |[Mono Green Aggro](./Modern/decks/Mono_Green_Aggro.md)|[Smallpox](./Modern/decks/Smallpox.md)              |[Valakut](./Modern/decks/Valakut.md)          |
-|[Dredge](./Modern/decks/Dredge.md)                      |[Infect](./Modern/decks/Infect.md)                        |[Mono Red Control](./Modern/decks/Mono_Red_Control.md)|[Spirit Aggro](./Modern/decks/Spirit_Aggro.md)      |[Walks](./Modern/decks/Walks.md)              |
-|[Eldrazi Aggro](./Modern/decks/Eldrazi_Aggro.md)        |[Instant Reanimator](./Modern/decks/Instant_Reanimator.md)|[Nahiri Control](./Modern/decks/Nahiri_Control.md)    |[The Rock](./Modern/decks/The_Rock.md)              |[Zoo](./Modern/decks/Zoo.md)                  |
+|[Ad Nauseam](./Modern/decks/Ad_Nauseam.md)              |[Faeries](./Modern/decks/Faeries.md)                      |[KCI](./Modern/decks/KCI.md)                          |[Other - Control](./Modern/decks/Other_-_Control.md)|[UR Storm](./Modern/decks/UR_Storm.md)        |
+|[Affinity](./Modern/decks/Affinity.md)                  |[Gift Control](./Modern/decks/Gift_Control.md)            |[Lantern Control](./Modern/decks/Lantern_Control.md)  |[Red Deck Wins](./Modern/decks/Red_Deck_Wins.md)    |[UW Control](./Modern/decks/UW_Control.md)    |
+|[Aura Hexproof](./Modern/decks/Aura_Hexproof.md)        |[Grixis Control](./Modern/decks/Grixis_Control.md)        |[Living End](./Modern/decks/Living_End.md)            |[Scapeshift](./Modern/decks/Scapeshift.md)          |[UWx Midrange](./Modern/decks/UWx_Midrange.md)|
+|[BUG](./Modern/decks/BUG.md)                            |[Gruul Land Loss](./Modern/decks/Gruul_Land_Loss.md)      |[Mardu Midrange](./Modern/decks/Mardu_Midrange.md)    |[Selesnya Aggro](./Modern/decks/Selesnya_Aggro.md)  |[UrzaTron](./Modern/decks/UrzaTron.md)        |
+|[Bant](./Modern/decks/Bant.md)                          |[Hatebear](./Modern/decks/Hatebear.md)                    |[Merfolk](./Modern/decks/Merfolk.md)                  |[Smallpox](./Modern/decks/Smallpox.md)              |[Valakut](./Modern/decks/Valakut.md)          |
+|[Bloomless Titan](./Modern/decks/Bloomless_Titan.md)    |[Hollow One](./Modern/decks/Hollow_One.md)                |[Mono Green Aggro](./Modern/decks/Mono_Green_Aggro.md)|[Spirit Aggro](./Modern/decks/Spirit_Aggro.md)      |[Walks](./Modern/decks/Walks.md)              |
+|[Creatures Toolbox](./Modern/decks/Creatures_Toolbox.md)|[Humans](./Modern/decks/Humans.md)                        |[Mono Red Control](./Modern/decks/Mono_Red_Control.md)|[Tezzerator](./Modern/decks/Tezzerator.md)          |[Zoo](./Modern/decks/Zoo.md)                  |
+|[Death's Shadow](./Modern/decks/Death's_Shadow.md)      |[Infect](./Modern/decks/Infect.md)                        |[Nahiri Control](./Modern/decks/Nahiri_Control.md)    |[The Rock](./Modern/decks/The_Rock.md)              |                                              |
+|[Dredge](./Modern/decks/Dredge.md)                      |[Instant Reanimator](./Modern/decks/Instant_Reanimator.md)|[Orzhov Midrange](./Modern/decks/Orzhov_Midrange.md)  |[Tokens](./Modern/decks/Tokens.md)                  |                                              |
+|[Eldrazi Aggro](./Modern/decks/Eldrazi_Aggro.md)        |[Jund](./Modern/decks/Jund.md)                            |[Other - Aggro](./Modern/decks/Other_-_Aggro.md)      |[UR Aggro](./Modern/decks/UR_Aggro.md)              |                                              |
+|[Elves](./Modern/decks/Elves.md)                        |[Junk](./Modern/decks/Junk.md)                            |[Other - Combo](./Modern/decks/Other_-_Combo.md)      |[UR Control](./Modern/decks/UR_Control.md)          |                                              |
 
 
 # Legacy
@@ -49,4 +50,4 @@
 
 
 
-#### Last Updated at 12:24AM on August 07, 2018
+#### Last Updated at 12:40PM on August 07, 2018

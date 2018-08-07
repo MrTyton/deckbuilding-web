@@ -43,8 +43,8 @@
 |                    2|[Darkslick Shores](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=209400)       |                    2|[Rain of Tears](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=4235)         |
 |                    2|[Liliana of the Veil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425901)    |                     |                                                                                               |
 |                    2|[Cast Down](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442969)              |                     |                                                                                               |
-|                    3|[Creeping Tar Pit](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=177520)       |                     |                                                                                               |
 |                    3|[Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)           |                     |                                                                                               |
+|                    3|[Creeping Tar Pit](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=177520)       |                     |                                                                                               |
 |                    3|[Cast Down](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442969)              |                     |                                                                                               |
 |                    4|[Verdant Catacombs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426074)      |                     |                                                                                               |
 
