@@ -1,11 +1,10 @@
-4 Restoration Angel
-3 Horizon Canopy
 1 Wastes
 1 Reality Smasher
+3 Horizon Canopy
+1 Cavern of Souls
 1 Simian Spirit Guide
 1 Chalice of the Void
 1 Gemstone Caverns
-1 Cavern of Souls
 1 Dismember
 2 Gemstone Caverns
 2 Simian Spirit Guide
@@ -21,12 +20,13 @@
 4 Chalice of the Void
 4 Reality Smasher
 1 Field of Ruin
-1 Tectonic Edge
+4 Restoration Angel
 1 Lightning Bolt
-1 Mountain
 1 Dire Fleet Daredevil
+1 Tectonic Edge
 1 Battlefield Forge
 1 Kiki-Jiki, Mirror Breaker
+1 Mountain
 1 Sacred Foundry
 1 Inspiring Vantage
 1 Pia and Kiran Nalaar
@@ -57,9 +57,9 @@
 3 Wasteland Strangler
 3 Caves of Koilos
 3 Tidehollow Sculler
+4 Concealed Courtyard
 4 Caves of Koilos
 4 Tidehollow Sculler
-4 Concealed Courtyard
 1 Pia Nalaar
 1 Slayers' Stronghold
 3 Thraben Inspector
@@ -69,24 +69,6 @@
 1 Dark Confidant
 2 Dark Confidant
 1 Mirran Crusader
-1 Scavenging Ooze
-1 Voice of Resurgence
-1 Stirring Wildwood
-1 Noble Hierarch
-1 Razorverge Thicket
-1 Temple Garden
-1 Forest
-2 Scavenging Ooze
-2 Noble Hierarch
-2 Temple Garden
-2 Razorverge Thicket
-2 Voice of Resurgence
-3 Noble Hierarch
-3 Temple Garden
-3 Razorverge Thicket
-4 Temple Garden
-4 Noble Hierarch
-4 Razorverge Thicket
 1 Mutavault
 1 Phyrexian Revoker
 1 Ixalan's Binding
@@ -104,71 +86,85 @@
 2 Field of Ruin
 3 Wall of Omens
 4 Wall of Omens
-2 Tectonic Edge
-3 Tectonic Edge
-3 Voice of Resurgence
-4 Voice of Resurgence
+1 Seachrome Coast
+1 Curious Obsession
 1 Selfless Spirit
-1 Hallowed Fountain
 1 Spell Queller
 1 Island
-1 Phantasmal Image
 1 Moorland Haunt
-1 Curious Obsession
 1 Rattlechains
+1 Hallowed Fountain
 1 Mausoleum Wanderer
-1 Seachrome Coast
+1 Phantasmal Image
 1 Drogskol Captain
 1 Adarkar Wastes
-2 Seachrome Coast
-2 Selfless Spirit
+2 Moorland Haunt
 2 Island
+2 Seachrome Coast
+2 Curious Obsession
 2 Adarkar Wastes
 2 Rattlechains
-2 Moorland Haunt
-2 Curious Obsession
+2 Selfless Spirit
 2 Phantasmal Image
 2 Hallowed Fountain
 2 Mausoleum Wanderer
 2 Spell Queller
 2 Drogskol Captain
+3 Seachrome Coast
+3 Curious Obsession
 3 Spell Queller
 3 Drogskol Captain
 3 Adarkar Wastes
 3 Mausoleum Wanderer
-3 Seachrome Coast
 3 Selfless Spirit
 3 Rattlechains
 3 Hallowed Fountain
-3 Curious Obsession
+4 Seachrome Coast
 4 Spell Queller
 4 Mausoleum Wanderer
 4 Drogskol Captain
 4 Curious Obsession
 4 Adarkar Wastes
 4 Rattlechains
-4 Seachrome Coast
 3 Needle Spires
 4 Blade Splicer
-1 Birds of Paradise
-1 Eternal Witness
-1 Ramunap Excavator
-1 Kitchen Finks
 1 Gavony Township
+1 Scavenging Ooze
+1 Eternal Witness
+1 Kitchen Finks
+1 Voice of Resurgence
+1 Ramunap Excavator
+1 Stirring Wildwood
+1 Noble Hierarch
+1 Razorverge Thicket
+1 Temple Garden
 1 Loxodon Smiter
 1 Collected Company
-2 Forest
+1 Birds of Paradise
+1 Forest
+2 Voice of Resurgence
 2 Birds of Paradise
+2 Scavenging Ooze
+2 Forest
+2 Eternal Witness
+2 Temple Garden
 2 Mirran Crusader
 2 Gavony Township
+2 Noble Hierarch
 2 Stirring Wildwood
+2 Razorverge Thicket
 2 Loxodon Smiter
 2 Collected Company
-2 Eternal Witness
+3 Scavenging Ooze
+3 Noble Hierarch
 3 Collected Company
 3 Loxodon Smiter
-3 Scavenging Ooze
 3 Mirran Crusader
+3 Temple Garden
+3 Razorverge Thicket
+4 Temple Garden
 4 Collected Company
 4 Mirran Crusader
+4 Razorverge Thicket
+4 Noble Hierarch
 4 Loxodon Smiter

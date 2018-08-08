@@ -1,19 +1,19 @@
 1 Chandra, Torch of Defiance
-1 Grafdigger's Cage
 1 Magus of the Moon
-1 Selfless Spirit
+1 Grafdigger's Cage
 2 Worship
 3 Tocatli Honor Guard
 1 Sorcerous Spyglass
 1 Damping Sphere
-1 Dismember
-1 Fatal Push
-1 Orzhov Pontiff
 1 Karn, Scion of Urza
 1 Cast Out
+1 Fatal Push
+1 Orzhov Pontiff
+1 Selfless Spirit
 1 Blessed Alliance
-1 Disenchant
 2 Magus of the Moon
+1 Disenchant
+1 Dismember
 2 Blessed Alliance
 1 Path to Exile
 1 Eidolon of Rhetoric
@@ -31,11 +31,6 @@
 1 Oblivion Ring
 1 Sunlance
 2 Reality Smasher
-1 Mirran Crusader
-1 Kitchen Finks
-1 Engineered Explosives
-1 Reclamation Sage
-2 Mirran Crusader
 1 Thought-Knot Seer
 1 Blade Splicer
 2 Leonin Relic-Warder
@@ -50,9 +45,11 @@
 2 Orzhov Pontiff
 1 Cunning Sparkmage
 2 Chandra, Torch of Defiance
-2 Dismember
-2 Disenchant
-2 Relic of Progenitus
+1 Qasali Pridemage
+1 Auriok Champion
+2 Qasali Pridemage
+2 Auriok Champion
+2 Damping Sphere
 1 Chalice of the Void
 1 Zealous Persecution
 2 Chalice of the Void
@@ -61,11 +58,9 @@
 3 Fatal Push
 1 Kataki, War's Wage
 1 Ceremonious Rejection
-2 Ceremonious Rejection
 2 Burrenton Forge-Tender
+2 Ceremonious Rejection
 3 Ceremonious Rejection
-1 Qasali Pridemage
-1 Auriok Champion
-2 Damping Sphere
-2 Qasali Pridemage
-2 Auriok Champion
+2 Dismember
+2 Relic of Progenitus
+2 Disenchant
