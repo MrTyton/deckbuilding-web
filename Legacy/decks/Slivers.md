@@ -25,3 +25,19 @@
 |2 [Pithing Needle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425815)     |3 [Ethersworn Canonist](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370504)|                                                                                                |
 |                                                                                                |2 [Harmonic Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=109706)    |                                                                                                |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|Maindeck Card|*n*<sup>th</sup> copy|                                            Sideboard Card                                            |
+|---------------------|-------------|--------------------:|------------------------------------------------------------------------------------------------------|
+|                     |             |                    1|[Faerie Macabre](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370410)             |
+|                     |             |                    1|[Darkheart Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=126012)           |
+|                     |             |                    1|[Hunter Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=44772)               |
+|                     |             |                    1|[Thalia, Guardian of Thraben](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442025)|
+|                     |             |                    1|[Syphon Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370752)              |
+|                     |             |                    2|[Faerie Macabre](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370410)             |
+|                     |             |                    2|[Hunter Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=44772)               |
+|                     |             |                    3|[Faerie Macabre](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370410)             |
+|                     |             |                    4|[Faerie Macabre](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370410)             |
+|                     |             |                    2|[Thalia, Guardian of Thraben](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442025)|
+
