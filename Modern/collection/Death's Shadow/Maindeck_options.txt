@@ -4,14 +4,13 @@
 2 Serum Visions
 1 Tasigur, the Golden Fang
 3 Serum Visions
-4 Serum Visions
 1 Overgrown Tomb
 1 Verdant Catacombs
 2 Verdant Catacombs
 3 Verdant Catacombs
 4 Verdant Catacombs
-1 Traverse the Ulvenwald
 1 Forest
+1 Traverse the Ulvenwald
 1 Abrupt Decay
 1 Tarmogoyf
 2 Kolaghan's Command
@@ -23,6 +22,7 @@
 3 Fatal Push
 3 Tarmogoyf
 4 Tarmogoyf
+4 Serum Visions
 1 Marsh Flats
 2 Marsh Flats
 1 Grim Flayer
@@ -64,9 +64,9 @@
 3 Monastery Swiftspear
 3 Soul-Scar Mage
 4 Wooded Foothills
-4 Monastery Swiftspear
-4 Blossoming Defense
 4 Lightning Bolt
 4 Temur Battle Rage
+4 Monastery Swiftspear
+4 Blossoming Defense
 4 Soul-Scar Mage
 4 Mutagenic Growth

@@ -30,8 +30,8 @@
 
 |*n*<sup>th</sup> copy|                                         Maindeck Card                                         |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
 |--------------------:|-----------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
-|                    1|[Gideon of the Trials](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426716)|                    1|[Squee, the Immortal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443034)|
-|                    1|[Blessed Alliance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414302)    |                    1|[Hazoret the Fervent](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=429886)|
+|                    1|[Gideon of the Trials](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426716)|                    1|[Hazoret the Fervent](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=429886)|
+|                    1|[Blessed Alliance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414302)    |                    1|[Squee, the Immortal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443034)|
 |                    1|[Wooded Foothills](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405116)    |                    1|[Lightning Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=234704)     |
 |                    1|[Urza's Ruinous Blast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442927)|                    1|[Anger of the Gods](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438682)  |
 |                    1|[Glorious End](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426835)        |                    1|[Jaya Ballard](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443020)       |

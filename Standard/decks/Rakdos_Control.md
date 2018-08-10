@@ -42,7 +42,7 @@
 |                    2|[Fetid Pools](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426945)               |                     |                                                                                                |
 |                    3|[Fatal Push](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423724)                |                     |                                                                                                |
 |                    3|[Fetid Pools](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426945)               |                     |                                                                                                |
-|                    4|[Unclaimed Territory](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435419)       |                     |                                                                                                |
-|                    7|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439604)                  |                     |                                                                                                |
 |                    4|[Fatal Push](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423724)                |                     |                                                                                                |
+|                    7|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439604)                  |                     |                                                                                                |
+|                    4|[Unclaimed Territory](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435419)       |                     |                                                                                                |
 
