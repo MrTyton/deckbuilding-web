@@ -1,22 +1,22 @@
-1 Dark Confidant
-1 Mantis Rider
-1 Karakas
-1 Wasteland
-2 Wasteland
-2 Dark Confidant
-2 Karakas
-2 Mantis Rider
-2 Seachrome Coast
-3 Karakas
-3 Wasteland
-3 Mantis Rider
 3 Dark Confidant
 4 Wasteland
+1 Plains
+1 Recruiter of the Guard
+1 Palace Jailer
+1 Horizon Canopy
+2 Horizon Canopy
+2 Recruiter of the Guard
+2 Plains
+3 Reflector Mage
+3 Horizon Canopy
+3 Plains
+4 Horizon Canopy
+4 Meddling Mage
 1 Bayou
+1 Bedlam Reveler
 1 Young Pyromancer
 1 Plateau
 1 Fatal Push
-1 Bedlam Reveler
 1 Lingering Souls
 1 Scrubland
 1 Lightning Bolt
@@ -36,6 +36,7 @@
 1 Collective Brutality
 1 Faithless Looting
 2 Bedlam Reveler
+2 Mountain
 2 Young Pyromancer
 2 Kolaghan's Command
 2 Lingering Souls
@@ -49,7 +50,6 @@
 2 Bloodstained Mire
 2 Swamp
 2 Faithless Looting
-2 Mountain
 2 Badlands
 2 Fatal Push
 3 Young Pyromancer
@@ -73,21 +73,19 @@
 4 Deathrite Shaman
 4 Cabal Therapy
 1 Renegade Rallier
-1 Scavenging Ooze
-1 Qasali Pridemage
-1 Gaddock Teeg
 1 Leovold, Emissary of Trest
 1 Shalai, Voice of Plenty
-1 True-Name Nemesis
-1 Umezawa's Jitte
 1 Vendilion Clique
+1 Gaddock Teeg
 1 Brainstorm
 1 Tropical Island
 1 Dryad Arbor
 1 Phyrexian Revoker
 1 Green Sun's Zenith
+1 True-Name Nemesis
 1 Windswept Heath
 1 Savannah
+1 Umezawa's Jitte
 1 Abrupt Decay
 1 Tundra
 1 Atraxa, Praetors' Voice
@@ -95,9 +93,10 @@
 1 Forest
 1 Birds of Paradise
 1 Fauna Shaman
+1 Scavenging Ooze
 1 Scryb Ranger
+1 Qasali Pridemage
 1 Misty Rainforest
-2 Tropical Island
 2 Windswept Heath
 2 Green Sun's Zenith
 2 Savannah
@@ -106,12 +105,13 @@
 2 Brainstorm
 2 Bayou
 2 Birds of Paradise
+2 Tropical Island
 2 Fauna Shaman
 2 Scryb Ranger
 2 Misty Rainforest
-3 Misty Rainforest
 3 Birds of Paradise
 3 Fauna Shaman
+3 Misty Rainforest
 3 Green Sun's Zenith
 3 Brainstorm
 3 Windswept Heath
@@ -124,7 +124,6 @@
 1 Walking Ballista
 1 Seat of the Synod
 1 Karn, Scion of Urza
-1 Force of Will
 1 Daze
 1 Island
 1 Thoughtcast
@@ -135,12 +134,13 @@
 1 Darksteel Citadel
 1 Lotus Petal
 1 Chalice of the Void
+1 Force of Will
 2 Etched Champion
 2 Karn, Scion of Urza
 2 Seat of the Synod
+2 Island
 2 Walking Ballista
 2 Force of Will
-2 Island
 2 The Antiquities War
 2 Mox Opal
 2 Thoughtcast
