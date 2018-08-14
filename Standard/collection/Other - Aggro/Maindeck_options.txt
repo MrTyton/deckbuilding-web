@@ -1,8 +1,8 @@
 1 Plains
-1 Hostage Taker
+1 Drowned Catacomb
 1 Cast Down
 1 Island
-1 Drowned Catacomb
+1 Hostage Taker
 2 Island
 2 Drowned Catacomb
 3 Island
@@ -14,29 +14,29 @@
 2 Vraska's Contempt
 2 Aether Hub
 1 Submerged Boneyard
-1 Ravenous Chupacabra
-1 Torrential Gearhulk
 1 Commit / Memory
+1 Torrential Gearhulk
+1 Walking Ballista
 1 Field of Ruin
+1 Ravenous Chupacabra
 1 Essence Scatter
 1 Gonti, Lord of Luxury
 1 Liliana, Death's Majesty
 1 Arguel's Blood Fast
-1 The Scarab God
 1 Supreme Will
 1 Fetid Pools
 1 Gifted Aetherborn
 1 Doomfall
-1 Walking Ballista
+1 The Scarab God
 1 Champion of Wits
 2 Essence Scatter
 2 Liliana, Death's Majesty
+2 Walking Ballista
 2 Field of Ruin
 2 Doomfall
 2 Gifted Aetherborn
 2 Fetid Pools
 2 The Scarab God
-2 Walking Ballista
 2 Champion of Wits
 3 Champion of Wits
 3 Aether Hub
@@ -60,9 +60,9 @@
 3 Canyon Slough
 3 Dragonskull Summit
 4 Canyon Slough
-1 Kari Zev, Skyship Raider
 1 Siren Stormtamer
 1 Ruin Raider
+1 Kari Zev, Skyship Raider
 1 Kitesail Freebooter
 1 Sulfur Falls
 1 Dire Fleet Poisoner
@@ -71,10 +71,10 @@
 1 Captain Lannery Storm
 1 Dire Fleet Captain
 2 Kari Zev, Skyship Raider
-2 Hostage Taker
 2 Siren Stormtamer
 2 Ruin Raider
 2 Kitesail Freebooter
+2 Hostage Taker
 2 Admiral Beckett Brass
 2 Sulfur Falls
 2 Lookout's Dispersal
@@ -120,10 +120,10 @@
 3 Cinder Barrens
 3 Rekindling Phoenix
 3 Mountain
+4 Abrade
 4 Goblin Chainwhirler
 4 Dragonskull Summit
 4 Scrapheap Scrounger
-4 Abrade
 4 Mountain
 5 Mountain
 6 Mountain
