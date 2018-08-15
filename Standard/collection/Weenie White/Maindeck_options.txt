@@ -53,9 +53,9 @@
 2 Sunpetal Grove
 2 Glory-Bound Initiate
 3 Karn, Scion of Urza
+3 Heart of Kiran
 3 Angel of Sanctions
 3 Gideon of the Trials
-3 Heart of Kiran
 3 Sunpetal Grove
 3 Glory-Bound Initiate
 3 Scattered Groves
@@ -66,12 +66,12 @@
 4 Gideon of the Trials
 4 Sunpetal Grove
 4 Scattered Groves
-1 Arch of Orazca
+1 Field of Ruin
 1 Sunscourge Champion
 1 Suncleanser
 1 Remorseful Cleric
-1 Field of Ruin
 1 Dusk / Dawn
+1 Arch of Orazca
 1 Angel of Invention
 1 Oketra's Monument
 2 Oketra's Monument
@@ -94,19 +94,18 @@
 4 Angel of Invention
 4 Oketra's Monument
 4 Suncleanser
-1 Fatal Push
 1 Paladin of Atonement
 1 Aryel, Knight of Windgrace
 1 Valiant Knight
 1 Unclaimed Territory
 1 Cast Down
+1 Fatal Push
 1 Isolated Chapel
 1 Concealed Courtyard
 1 Swamp
 1 Doomfall
 1 Ifnir Deadlands
 1 Knight of Malice
-2 Fatal Push
 2 Aryel, Knight of Windgrace
 2 Valiant Knight
 2 Unclaimed Territory
@@ -116,11 +115,12 @@
 2 Ifnir Deadlands
 2 Isolated Chapel
 2 Concealed Courtyard
-3 Fatal Push
+2 Fatal Push
 3 Aryel, Knight of Windgrace
 3 Ajani, Adversary of Tyrants
 3 Concealed Courtyard
 3 Knight of Malice
+3 Fatal Push
 3 Isolated Chapel
 4 Fatal Push
 4 Knight of Malice

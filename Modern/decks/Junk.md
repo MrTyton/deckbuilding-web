@@ -72,6 +72,6 @@
 |                    3|[Dark Confidant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370413)          |                     |                                                                                                       |
 |                    3|[Tireless Tracker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409997)        |                     |                                                                                                       |
 |                    2|[Stirring Wildwood](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401675)       |                     |                                                                                                       |
-|                    4|[Marsh Flats](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426064)             |                     |                                                                                                       |
 |                    4|[Path to Exile](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370408)           |                     |                                                                                                       |
+|                    4|[Marsh Flats](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426064)             |                     |                                                                                                       |
 
