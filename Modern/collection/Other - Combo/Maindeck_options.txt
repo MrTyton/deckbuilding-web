@@ -1,3 +1,4 @@
+1 Island
 2 Island
 1 Mountain
 1 Sulfur Falls
@@ -11,8 +12,8 @@
 1 Wall of Omens
 1 Spreading Seas
 1 Celestial Colonnade
-1 Path to Exile
 1 Remand
+1 Path to Exile
 1 Lightning Helix
 1 Snapcaster Mage
 2 Felidar Guardian
@@ -33,23 +34,25 @@
 3 Path to Exile
 3 Lightning Bolt
 3 Snapcaster Mage
-4 Scalding Tarn
+4 Path to Exile
 4 Saheeli Rai
 4 Serum Visions
-4 Remand
-4 Path to Exile
+4 Scalding Tarn
 4 Spreading Seas
+4 Remand
 4 Felidar Guardian
 4 Snapcaster Mage
-1 Paradoxical Outcome
+1 Marsh Flats
 3 Repeal
+1 Glacial Fortress
 1 Teferi, Hero of Dominaria
 1 Jace, Architect of Thought
-1 Glacial Fortress
 2 Lightning Helix
 3 Wall of Omens
-1 Tectonic Edge
+2 Marsh Flats
+3 Marsh Flats
 1 Nahiri, the Harbinger
+1 Tectonic Edge
 1 Supreme Verdict
 1 Jace, the Mind Sculptor
 1 Desolate Lighthouse
@@ -58,14 +61,13 @@
 3 Island
 1 Watery Grave
 1 Polluted Delta
-1 Marsh Flats
+1 Academy Ruins
 1 Ensnaring Bridge
 1 Search for Azcanta
 1 Surgical Extraction
 1 Field of Ruin
 1 Glimpse the Unthinkable
 1 Crypt Incursion
-1 Academy Ruins
 1 Fatal Push
 1 Swamp
 1 Manic Scribe
@@ -99,9 +101,9 @@
 3 Field of Ruin
 3 Surgical Extraction
 3 Manic Scribe
-3 Hedron Crab
 3 Glimpse the Unthinkable
 3 Mesmeric Orb
+3 Hedron Crab
 3 Archive Trap
 3 Visions of Beyond
 3 Shelldock Isle
@@ -114,8 +116,8 @@
 4 Mesmeric Orb
 1 Greater Gargadon
 1 Wooded Foothills
-1 Blackcleave Cliffs
 1 Blood Crypt
+1 Blackcleave Cliffs
 1 Goblin Bushwhacker
 1 Gravecrawler
 1 Bloodstained Mire
@@ -145,8 +147,8 @@
 2 Goblin Bushwhacker
 3 Hangarback Walker
 3 Insolent Neonate
-3 Walking Ballista
 3 Vengevine
+3 Walking Ballista
 3 Stitcher's Supplier
 3 Faithless Looting
 3 Blackcleave Cliffs
@@ -181,10 +183,10 @@
 2 Sulfur Falls
 2 Anger of the Gods
 2 Swiftwater Cliffs
-2 Cascade Bluffs
 2 Swans of Bryn Argoll
 2 Mountain
 2 Shivan Reef
+2 Cascade Bluffs
 2 Treasure Hunt
 2 Molten Vortex
 2 Temple of Epiphany
@@ -203,9 +205,9 @@
 4 Island
 4 Swans of Bryn Argoll
 4 Swiftwater Cliffs
+4 Temple of Epiphany
 4 Seismic Assault
 4 Treasure Hunt
-4 Temple of Epiphany
 4 Shivan Reef
 4 Cascade Bluffs
 5 Mountain

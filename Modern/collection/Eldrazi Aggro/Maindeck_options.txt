@@ -1,5 +1,5 @@
-1 Noble Hierarch
 1 Forest
+1 Ancient Stirrings
 2 Ancient Stirrings
 2 Noble Hierarch
 3 Ancient Stirrings
@@ -15,17 +15,17 @@
 1 Boreal Druid
 1 Wooded Foothills
 1 Lightning Bolt
-1 Stomping Ground
 1 Karplusan Forest
 1 Kessig Wolf Run
+1 Stomping Ground
 2 Forest
 2 Wooded Foothills
 2 Grove of the Burnwillows
-2 Boreal Druid
 2 Lightning Bolt
 2 Bloodbraid Elf
 2 Eldrazi Obligator
 2 Karplusan Forest
+2 Boreal Druid
 3 Grove of the Burnwillows
 3 Lightning Bolt
 3 Karplusan Forest
@@ -34,11 +34,11 @@
 4 Eldrazi Obligator
 4 Grove of the Burnwillows
 4 Bloodbraid Elf
-4 Karplusan Forest
 4 Lightning Bolt
-2 Spatial Contortion
-1 Ugin, the Spirit Dragon
-1 Relic of Progenitus
+4 Karplusan Forest
+1 Karn Liberated
+2 Warping Wail
+3 Wastes
 1 Mutavault
 2 Mutavault
 1 Gemstone Caverns
@@ -57,33 +57,12 @@
 4 Eternal Scourge
 4 Eldrazi Mimic
 4 Serum Powder
-1 Warping Wail
 1 Scavenger Grounds
-2 Relic of Progenitus
 1 Zhalfirin Void
 2 Zhalfirin Void
-3 Boreal Druid
-3 Endbringer
-1 Batterskull
-2 Warping Wail
-1 Karn Liberated
-3 Mutavault
-3 Relic of Progenitus
-4 Relic of Progenitus
-4 Mutavault
-1 Endless One
-1 Tectonic Edge
-2 Tectonic Edge
-2 Endless One
-3 Endless One
-3 Gemstone Caverns
-4 Ghost Quarter
 3 Zhalfirin Void
 4 Zhalfirin Void
-1 Buried Ruin
-3 Tectonic Edge
-4 Tectonic Edge
-4 Endless One
+3 Boreal Druid
 1 Blinkmoth Nexus
 1 Simian Spirit Guide
 1 Smuggler's Copter
@@ -93,17 +72,33 @@
 3 Blinkmoth Nexus
 3 Simian Spirit Guide
 4 Simian Spirit Guide
-1 Karn, Scion of Urza
-1 Emrakul, the Promised End
 1 Sanctum of Ugin
+2 Karn Liberated
 1 Mind Stone
 2 Mind Stone
-1 Skysovereign, Consul Flagship
-1 Phyrexian Metamorph
-2 Phyrexian Metamorph
-2 Ulamog, the Ceaseless Hunger
-2 Karn Liberated
+2 Spatial Contortion
+3 Endbringer
+1 Relic of Progenitus
+2 Relic of Progenitus
+3 Mutavault
+3 Relic of Progenitus
+4 Relic of Progenitus
+4 Mutavault
 2 Scavenger Grounds
+1 Karn, Scion of Urza
+1 Buried Ruin
+1 Ugin, the Spirit Dragon
+1 Batterskull
+1 Emrakul, the Promised End
+1 Endless One
+1 Tectonic Edge
+2 Tectonic Edge
+2 Endless One
+3 Endless One
+3 Gemstone Caverns
+4 Ghost Quarter
+1 Skysovereign, Consul Flagship
+2 Ulamog, the Ceaseless Hunger
 1 Sorcerous Spyglass
 3 Warping Wail
 1 Plains
@@ -112,8 +107,10 @@
 3 Path to Exile
 4 Path to Exile
 4 Endbringer
+3 Tectonic Edge
+4 Endless One
+4 Tectonic Edge
 1 Breeding Pool
-1 Misty Rainforest
 1 Eldrazi Displacer
 1 Yavimaya Coast
 1 Island
@@ -121,8 +118,9 @@
 1 Temple Garden
 1 Windswept Heath
 1 Hallowed Fountain
-1 Brushland
+1 Misty Rainforest
 1 Drowner of Hope
+1 Brushland
 2 Eldrazi Displacer
 2 Brushland
 2 Eldrazi Skyspawner
@@ -135,19 +133,19 @@
 3 Eldrazi Skyspawner
 4 Eldrazi Displacer
 4 Brushland
+4 Cavern of Souls
+4 Eldrazi Skyspawner
 4 Yavimaya Coast
 4 Drowner of Hope
-4 Eldrazi Skyspawner
-4 Cavern of Souls
+1 Godless Shrine
 1 Lingering Souls
 1 Thoughtseize
 1 Fatal Push
 1 Ratchet Bomb
 1 Tidehollow Sculler
-1 Collective Brutality
 1 Inquisition of Kozilek
+1 Collective Brutality
 1 Swamp
-1 Godless Shrine
 1 Caves of Koilos
 1 Concealed Courtyard
 1 Fetid Heath
@@ -158,11 +156,11 @@
 2 Concealed Courtyard
 2 Caves of Koilos
 2 Swamp
+2 Godless Shrine
 2 Wasteland Strangler
 2 Inquisition of Kozilek
-2 Godless Shrine
-3 Swamp
 3 Lingering Souls
+3 Swamp
 3 Concealed Courtyard
 3 Wasteland Strangler
 3 Inquisition of Kozilek
