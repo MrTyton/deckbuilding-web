@@ -31,10 +31,10 @@
 1 History of Benalia
 1 Walking Ballista
 1 Karn, Scion of Urza
+2 Gideon of the Trials
 2 Karn, Scion of Urza
 2 History of Benalia
 2 Walking Ballista
-2 Gideon of the Trials
 3 History of Benalia
 4 History of Benalia
 9 Plains
@@ -47,20 +47,28 @@
 3 Memorial to Genius
 1 Shalai, Voice of Plenty
 1 Spirebluff Canal
-1 Sulfur Falls
 1 Spire of Industry
 1 Nezahal, Primal Tide
 1 Treasure Map
+1 Sulfur Falls
 1 Spell Swindle
 1 The Locust God
-2 Sulfur Falls
 2 Spirebluff Canal
 2 Spire of Industry
 2 Treasure Map
 2 Spell Swindle
+2 Sulfur Falls
 3 Treasure Map
 3 Ipnu Rivulet
 4 Ipnu Rivulet
+3 Search for Azcanta
+4 Field of Ruin
+1 Fetid Pools
+1 Chromium, the Mutable
+2 Fetid Pools
+2 Commit / Memory
+3 Commit / Memory
+4 Glimmer of Genius
 1 Zhalfirin Void
 1 Resplendent Angel
 1 Heart of Kiran
@@ -70,19 +78,11 @@
 2 Arch of Orazca
 2 Lyra Dawnbringer
 3 Walking Ballista
-3 Zhalfirin Void
 3 Gideon of the Trials
+3 Zhalfirin Void
 3 Heart of Kiran
 3 Karn, Scion of Urza
 4 Karn, Scion of Urza
-3 Search for Azcanta
-4 Field of Ruin
-1 Fetid Pools
-1 Chromium, the Mutable
-2 Fetid Pools
-2 Commit / Memory
-3 Commit / Memory
-4 Glimmer of Genius
 1 Djeru's Renunciation
 1 Renewed Faith
 1 Abandoned Sarcophagus
@@ -104,12 +104,12 @@
 4 Hieroglyphic Illumination
 4 Drake Haven
 4 Djeru's Renunciation
-1 Glory-Bound Initiate
 1 Thopter Arrest
 1 Knight of Grace
-2 Glory-Bound Initiate
+1 Glory-Bound Initiate
 2 Knight of Grace
 2 Gideon's Reproach
+2 Glory-Bound Initiate
 3 Knight of Grace
 3 Gideon's Reproach
 4 Champion of Wits
