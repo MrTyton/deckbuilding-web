@@ -32,8 +32,8 @@
 
 |*n*<sup>th</sup> copy|                                       Maindeck Card                                        |*n*<sup>th</sup> copy|                                           Sideboard Card                                            |
 |--------------------:|--------------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------------------|
-|                    2|[Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)     |                    1|[Hymn to Tourach](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382976)           |
-|                    2|[Trinket Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442777)     |                    1|[Liliana, the Last Hope](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414388)    |
+|                    2|[Trinket Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442777)     |                    1|[Hymn to Tourach](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382976)           |
+|                    2|[Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)     |                    1|[Liliana, the Last Hope](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414388)    |
 |                    3|[Deathrite Shaman](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413757) |                    1|[Relic of Progenitus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205326)       |
 |                    3|[Trinket Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442777)     |                    2|[Hymn to Tourach](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382976)           |
 |                    4|[Deathrite Shaman](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413757) |                    2|[Golgari Charm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430396)             |
