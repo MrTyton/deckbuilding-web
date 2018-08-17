@@ -2,31 +2,31 @@
 1 Search for Azcanta
 2 Search for Azcanta
 1 Nexus of Fate
-1 Irrigated Farmland
-1 Scattered Groves
-1 Sunpetal Grove
 1 Teferi, Hero of Dominaria
 1 Haze of Pollen
 1 Root Snare
 1 Gift of Paradise
 1 Glacial Fortress
+1 Sunpetal Grove
+1 Scattered Groves
 1 Hinterland Harbor
+1 Irrigated Farmland
 1 Forest
 2 Nexus of Fate
-2 Sunpetal Grove
-2 Scattered Groves
-2 Teferi, Hero of Dominaria
-2 Gift of Paradise
-2 Forest
 2 Irrigated Farmland
+2 Gift of Paradise
+2 Teferi, Hero of Dominaria
+2 Forest
+2 Scattered Groves
 2 Root Snare
 2 Hinterland Harbor
 2 Glacial Fortress
+2 Sunpetal Grove
 2 Haze of Pollen
 3 Scattered Groves
-3 Teferi, Hero of Dominaria
 3 Nexus of Fate
 3 Irrigated Farmland
+3 Teferi, Hero of Dominaria
 3 Forest
 3 Gift of Paradise
 3 Haze of Pollen
@@ -44,11 +44,23 @@
 4 Glint-Nest Crane
 4 Sai, Master Thopterist
 1 Traveler's Amulet
+1 The Mirari Conjecture
+1 Chart a Course
+1 Karn's Temporal Sundering
+1 Glimmer of Genius
+1 Secrets of the Golden City
+1 Botanical Sanctum
+2 Glimmer of Genius
+2 Secrets of the Golden City
+2 Chart a Course
+3 Glacial Fortress
+3 Chart a Course
+4 Chart a Course
 1 Oath of Teferi
 1 Anticipate
 1 Nissa, Steward of Elements
-1 Plains
 1 Beneath the Sands
+1 Plains
 2 Anticipate
 2 Nissa, Steward of Elements
 2 Beneath the Sands
@@ -62,18 +74,6 @@
 3 Inspiring Vantage
 3 Metallic Rebuke
 4 Inspiring Vantage
-1 The Mirari Conjecture
-1 Chart a Course
-1 Karn's Temporal Sundering
-1 Glimmer of Genius
-1 Secrets of the Golden City
-1 Botanical Sanctum
-2 Glimmer of Genius
-2 Secrets of the Golden City
-2 Chart a Course
-3 Glacial Fortress
-3 Chart a Course
-4 Chart a Course
 1 Cultivator's Caravan
 1 Paradox Engine
 1 One with the Machine
@@ -106,6 +106,7 @@
 4 Fountain of Renewal
 4 Reverse Engineer
 14 Island
+1 Wizard's Lightning
 1 Fetid Pools
 1 Insult / Injury
 1 Cathartic Reunion
@@ -116,7 +117,6 @@
 1 Swamp
 1 Sweltering Suns
 1 Drowned Catacomb
-1 Wizard's Lightning
 1 Mountain
 1 Doomfall
 1 Canyon Slough
@@ -125,6 +125,7 @@
 1 Vraska's Contempt
 1 Dragonskull Summit
 1 Abrade
+2 Wizard's Lightning
 2 Evolving Wilds
 2 Fetid Pools
 2 Insult / Injury
@@ -135,7 +136,6 @@
 2 Abrade
 2 Sulfur Falls
 2 Cut / Ribbons
-2 Wizard's Lightning
 2 Swamp
 2 Vraska's Contempt
 2 Shock

@@ -15,14 +15,14 @@
 1 Hostage Taker
 2 Hostage Taker
 4 Ipnu Rivulet
-1 Blooming Marsh
-1 Llanowar Elves
 1 Forest
-2 Blooming Marsh
-2 Forest
+1 Llanowar Elves
+1 Blooming Marsh
 2 Llanowar Elves
-3 Llanowar Elves
+2 Forest
+2 Blooming Marsh
 3 Forest
+3 Llanowar Elves
 3 Blooming Marsh
 4 Llanowar Elves
 4 Blooming Marsh
@@ -32,16 +32,16 @@
 2 Merfolk Branchwalker
 3 Verdurous Gearhulk
 3 Merfolk Branchwalker
-4 Merfolk Branchwalker
 4 Verdurous Gearhulk
+4 Merfolk Branchwalker
 1 Botanical Sanctum
 2 Botanical Sanctum
 3 Botanical Sanctum
 4 Botanical Sanctum
 1 Jadelight Ranger
+1 Hinterland Harbor
 1 Glint-Nest Crane
 1 Thrashing Brontodon
-1 Hinterland Harbor
 2 Glint-Nest Crane
 3 Glint-Nest Crane
 3 Hostage Taker
@@ -66,9 +66,9 @@
 2 Glint-Sleeve Siphoner
 2 Fetid Pools
 2 Drowned Catacomb
-3 Kitesail Freebooter
 3 Concealed Courtyard
 3 Drowned Catacomb
+3 Kitesail Freebooter
 3 Fetid Pools
 4 Concealed Courtyard
 4 Irrigated Farmland
@@ -94,11 +94,11 @@
 2 Exclusion Mage
 3 Sunscourge Champion
 4 Fetid Pools
-1 The Scarab God
+1 Servant of the Conduit
 1 Liliana, Death's Majesty
 1 Pelakka Wurm
 1 Multani, Yavimaya's Avatar
-1 Servant of the Conduit
+1 The Scarab God
 1 Reclamation Sage
 1 Torgaar, Famine Incarnate
 1 Noxious Gearhulk
@@ -106,21 +106,9 @@
 2 The Scarab God
 2 Servant of the Conduit
 6 Swamp
-2 Woodland Cemetery
-3 Woodland Cemetery
-3 Ravenous Chupacabra
-3 Seekers' Squire
-4 Woodland Cemetery
-4 Ravenous Chupacabra
-4 Forest
-4 Seekers' Squire
-5 Forest
-6 Forest
-7 Forest
-8 Island
 1 Cathartic Reunion
-1 Spirebluff Canal
 1 Vizier of Many Faces
+1 Spirebluff Canal
 1 Bomat Courier
 1 Fanatical Firebrand
 1 Mountain
@@ -144,3 +132,15 @@
 4 Mountain
 5 Mountain
 6 Mountain
+2 Woodland Cemetery
+3 Woodland Cemetery
+3 Ravenous Chupacabra
+3 Seekers' Squire
+4 Woodland Cemetery
+4 Forest
+4 Ravenous Chupacabra
+4 Seekers' Squire
+5 Forest
+6 Forest
+7 Forest
+8 Island
