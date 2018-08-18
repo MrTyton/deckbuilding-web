@@ -1,6 +1,3 @@
-1 Lightning Bolt
-1 Mountain
-1 Dire Fleet Daredevil
 1 Battlefield Forge
 1 Sacred Foundry
 1 Inspiring Vantage
@@ -15,35 +12,17 @@
 3 Inspiring Vantage
 4 Lightning Bolt
 4 Inspiring Vantage
-1 Thalia, Heretic Cathar
+4 Eldrazi Displacer
 3 Horizon Canopy
 3 Thraben Inspector
+6 Plains
 7 Plains
-3 Shefet Dunes
-2 Thalia, Heretic Cathar
+2 Shefet Dunes
+1 Thalia, Heretic Cathar
 1 Pia Nalaar
 1 Slayers' Stronghold
 1 Eiganjo Castle
-1 Simian Spirit Guide
-1 Cavern of Souls
-1 Gemstone Caverns
-1 Chalice of the Void
-1 Dismember
-1 Wastes
-1 Reality Smasher
-2 Gemstone Caverns
-2 Simian Spirit Guide
-2 Chalice of the Void
-2 Reality Smasher
-2 Dismember
-3 Dismember
-3 Simian Spirit Guide
-3 Gemstone Caverns
-3 Chalice of the Void
-3 Reality Smasher
-4 Simian Spirit Guide
-4 Chalice of the Void
-4 Reality Smasher
+3 Shefet Dunes
 1 Wasteland Strangler
 1 Concealed Courtyard
 1 Caves of Koilos
@@ -63,10 +42,11 @@
 4 Caves of Koilos
 4 Concealed Courtyard
 1 Mutavault
-1 Phyrexian Revoker
-4 Horizon Canopy
 4 Blade Splicer
 8 Plains
+2 Thalia, Heretic Cathar
+1 Phyrexian Revoker
+4 Horizon Canopy
 1 Sea Gate Wreckage
 1 Godless Shrine
 1 Dark Confidant
@@ -117,8 +97,26 @@
 4 Curious Obsession
 4 Adarkar Wastes
 4 Rattlechains
-1 Ixalan's Binding
-4 Shefet Dunes
+1 Simian Spirit Guide
+1 Cavern of Souls
+1 Gemstone Caverns
+1 Chalice of the Void
+1 Dismember
+1 Wastes
+1 Reality Smasher
+2 Gemstone Caverns
+2 Simian Spirit Guide
+2 Chalice of the Void
+2 Reality Smasher
+2 Dismember
+3 Dismember
+3 Simian Spirit Guide
+3 Gemstone Caverns
+3 Chalice of the Void
+3 Reality Smasher
+4 Simian Spirit Guide
+4 Chalice of the Void
+4 Reality Smasher
 1 Eternal Witness
 1 Gavony Township
 1 Scavenging Ooze
@@ -148,10 +146,10 @@
 2 Loxodon Smiter
 2 Collected Company
 3 Scavenging Ooze
-3 Noble Hierarch
 3 Collected Company
 3 Loxodon Smiter
 3 Mirran Crusader
+3 Noble Hierarch
 3 Temple Garden
 3 Razorverge Thicket
 4 Temple Garden
