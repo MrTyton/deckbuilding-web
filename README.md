@@ -50,4 +50,4 @@
 
 
 
-#### Last Updated at 12:26PM on August 19, 2018
+#### Last Updated at 12:22AM on August 20, 2018
