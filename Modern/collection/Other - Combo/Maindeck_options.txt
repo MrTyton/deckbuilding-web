@@ -52,9 +52,9 @@
 4 Felidar Guardian
 4 Snapcaster Mage
 3 Island
+1 Ensnaring Bridge
 1 Watery Grave
 1 Academy Ruins
-1 Ensnaring Bridge
 1 Search for Azcanta
 1 Polluted Delta
 1 Surgical Extraction
@@ -71,9 +71,9 @@
 1 Collective Brutality
 1 Hedron Crab
 1 Shelldock Isle
+2 Ensnaring Bridge
 2 Polluted Delta
 2 Search for Azcanta
-2 Ensnaring Bridge
 2 Surgical Extraction
 2 Collective Brutality
 2 Mesmeric Orb
@@ -108,9 +108,9 @@
 4 Manic Scribe
 4 Mesmeric Orb
 1 Wooded Foothills
+1 Goblin Bushwhacker
 1 Blood Crypt
 1 Blackcleave Cliffs
-1 Goblin Bushwhacker
 1 Gravecrawler
 1 Bloodstained Mire
 1 Bridge from Below
@@ -138,6 +138,7 @@
 2 Blackcleave Cliffs
 2 Bridge from Below
 2 Goblin Bushwhacker
+3 Greater Gargadon
 3 Hangarback Walker
 3 Insolent Neonate
 3 Vengevine
@@ -148,7 +149,6 @@
 3 Blood Crypt
 3 Bloodghast
 3 Goblin Bushwhacker
-3 Greater Gargadon
 3 Gravecrawler
 3 Bridge from Below
 4 Bloodghast
@@ -173,13 +173,13 @@
 1 Seismic Assault
 1 Swans of Bryn Argoll
 1 Swiftwater Cliffs
-2 Sulfur Falls
 2 Anger of the Gods
 2 Swiftwater Cliffs
 2 Swans of Bryn Argoll
 2 Mountain
 2 Shivan Reef
 2 Cascade Bluffs
+2 Sulfur Falls
 2 Treasure Hunt
 2 Molten Vortex
 2 Temple of Epiphany

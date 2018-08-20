@@ -67,7 +67,7 @@
 |                     |                                                                                                   |                    1|[Pact of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370354)       |
 |                     |                                                                                                   |                    2|[Nature's Claim](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438743)         |
 |                     |                                                                                                   |                    3|[Nature's Claim](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438743)         |
-|                     |                                                                                                   |                    1|[Seal of Primordium](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425960)     |
 |                     |                                                                                                   |                    1|[Carnage Tyrant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435334)         |
+|                     |                                                                                                   |                    1|[Seal of Primordium](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425960)     |
 |                     |                                                                                                   |                    2|[Seal of Primordium](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425960)     |
 

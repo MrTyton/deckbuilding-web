@@ -45,6 +45,7 @@
 2 Glint-Nest Crane
 3 Glint-Nest Crane
 3 Hostage Taker
+4 Irrigated Farmland
 1 Ravenous Chupacabra
 1 Stitcher's Supplier
 2 Stitcher's Supplier
@@ -71,10 +72,10 @@
 3 Kitesail Freebooter
 3 Fetid Pools
 4 Concealed Courtyard
-4 Irrigated Farmland
 2 Ravenous Chupacabra
 2 Thrashing Brontodon
 1 Negate
+1 Thopter Arrest
 1 Woodland Cemetery
 1 Seekers' Squire
 2 Seekers' Squire
@@ -89,16 +90,18 @@
 1 Angel of Sanctions
 1 Aethersphere Harvester
 1 Teferi, Hero of Dominaria
-1 Thopter Arrest
 1 Exclusion Mage
 2 Exclusion Mage
+1 Baffling End
+1 Ixalan's Binding
+2 Baffling End
 3 Sunscourge Champion
 4 Fetid Pools
+1 The Scarab God
 1 Servant of the Conduit
 1 Liliana, Death's Majesty
 1 Pelakka Wurm
 1 Multani, Yavimaya's Avatar
-1 The Scarab God
 1 Reclamation Sage
 1 Torgaar, Famine Incarnate
 1 Noxious Gearhulk
@@ -106,6 +109,17 @@
 2 The Scarab God
 2 Servant of the Conduit
 6 Swamp
+2 Woodland Cemetery
+3 Woodland Cemetery
+3 Ravenous Chupacabra
+3 Seekers' Squire
+4 Woodland Cemetery
+4 Forest
+4 Ravenous Chupacabra
+4 Seekers' Squire
+5 Forest
+6 Forest
+7 Forest
 1 Cathartic Reunion
 1 Vizier of Many Faces
 1 Spirebluff Canal
@@ -132,15 +146,3 @@
 4 Mountain
 5 Mountain
 6 Mountain
-2 Woodland Cemetery
-3 Woodland Cemetery
-3 Ravenous Chupacabra
-3 Seekers' Squire
-4 Woodland Cemetery
-4 Forest
-4 Ravenous Chupacabra
-4 Seekers' Squire
-5 Forest
-6 Forest
-7 Forest
-8 Island
