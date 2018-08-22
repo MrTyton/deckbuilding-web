@@ -7,23 +7,23 @@
 3 Elvish Visionary
 4 Stomping Ground
 4 Elvish Visionary
-1 Devoted Druid
 1 Primeval Titan
-1 Spellskite
 1 Nissa, Vital Force
 1 Misty Rainforest
+1 Spellskite
 1 Overgrown Tomb
 1 Vizier of Remedies
-1 Grapple with the Past
-1 Birds of Paradise
 1 Fatal Push
+1 Devoted Druid
 1 Polukranos, World Eater
+1 Birds of Paradise
 1 Traverse the Ulvenwald
 1 Kessig Wolf Run
+1 Grapple with the Past
 2 Devoted Druid
 2 Traverse the Ulvenwald
-2 Grapple with the Past
 2 Overgrown Tomb
+2 Grapple with the Past
 2 Fatal Push
 3 Devoted Druid
 3 Traverse the Ulvenwald
@@ -44,19 +44,19 @@
 2 Naban, Dean of Iteration
 3 Merfolk Trickster
 3 Island
-4 Island
 4 Merfolk Trickster
+4 Island
 5 Island
 6 Island
 1 Plains
-1 Field of Ruin
 1 Reflector Mage
 1 Hallowed Fountain
 1 Seachrome Coast
 1 Venser, Shaper Savant
 1 Silvergill Adept
-1 Aether Vial
 1 Flooded Strand
+1 Aether Vial
+1 Field of Ruin
 1 Restoration Angel
 1 Path to Exile
 2 Reflector Mage
@@ -88,9 +88,9 @@
 4 Silvergill Adept
 4 Naban, Dean of Iteration
 4 Field of Ruin
-1 Duskwatch Recruiter
 1 Courser of Kruphix
 1 Shalai, Voice of Plenty
+1 Duskwatch Recruiter
 1 Jadelight Ranger
 1 Vizier of the Menagerie
 1 Nissa, Steward of Elements
@@ -105,9 +105,9 @@
 2 Burning-Tree Emissary
 2 Dryad Greenseeker
 2 Kiora, Master of the Depths
-3 Burning-Tree Emissary
 3 Jadelight Ranger
 3 Courser of Kruphix
+3 Burning-Tree Emissary
 3 Walking Ballista
 4 Burning-Tree Emissary
 4 Walking Ballista
@@ -123,8 +123,8 @@
 2 Tempest Djinn
 2 Cyclonic Rift
 2 Cloudfin Raptor
-2 Thassa, God of the Sea
 2 Voidmage Prodigy
+2 Thassa, God of the Sea
 2 Mystic Archaeologist
 2 Dismember
 2 Cursecatcher
@@ -153,3 +153,63 @@
 20 Island
 21 Island
 22 Island
+1 Kalitas, Traitor of Ghet
+1 Collective Brutality
+1 Liliana, the Last Hope
+1 Thoughtseize
+1 Bloodghast
+1 Inquisition of Kozilek
+1 Gray Merchant of Asphodel
+1 Swamp
+1 Liliana of the Veil
+1 Geralf's Messenger
+1 Phyrexian Obliterator
+1 Relentless Dead
+2 Swamp
+2 Kalitas, Traitor of Ghet
+2 Collective Brutality
+2 Geralf's Messenger
+2 Bloodghast
+2 Thoughtseize
+2 Inquisition of Kozilek
+2 Phyrexian Obliterator
+2 Gray Merchant of Asphodel
+2 Relentless Dead
+2 Liliana of the Veil
+3 Swamp
+3 Collective Brutality
+3 Phyrexian Obliterator
+3 Inquisition of Kozilek
+3 Thoughtseize
+3 Relentless Dead
+3 Bloodghast
+3 Liliana of the Veil
+3 Geralf's Messenger
+3 Gray Merchant of Asphodel
+4 Swamp
+4 Collective Brutality
+4 Relentless Dead
+4 Phyrexian Obliterator
+4 Thoughtseize
+4 Gray Merchant of Asphodel
+4 Inquisition of Kozilek
+4 Bloodghast
+4 Geralf's Messenger
+5 Swamp
+6 Swamp
+7 Swamp
+8 Swamp
+9 Swamp
+10 Swamp
+11 Swamp
+12 Swamp
+13 Swamp
+14 Swamp
+15 Swamp
+16 Swamp
+17 Swamp
+18 Swamp
+19 Swamp
+20 Swamp
+21 Swamp
+22 Swamp

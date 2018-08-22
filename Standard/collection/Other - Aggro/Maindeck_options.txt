@@ -7,20 +7,20 @@
 3 Aether Hub
 3 Island
 4 Island
-1 Submerged Boneyard
 1 Liliana, Death's Majesty
 1 Ravenous Chupacabra
 1 Commit / Memory
 1 Torrential Gearhulk
-1 Hostage Taker
 1 Cast Down
 1 Field of Ruin
+1 Hostage Taker
 1 Essence Scatter
 1 Gonti, Lord of Luxury
 1 Arguel's Blood Fast
 1 The Scarab God
 1 Supreme Will
 1 Fetid Pools
+1 Submerged Boneyard
 1 Vraska's Contempt
 1 Gifted Aetherborn
 1 Doomfall
@@ -47,11 +47,11 @@
 4 Fatal Push
 4 Fetid Pools
 4 Gifted Aetherborn
-1 Glint-Nest Crane
 1 Hinterland Harbor
-1 Llanowar Elves
+1 Glint-Nest Crane
 1 Botanical Sanctum
 1 Aethersphere Harvester
+1 Servant of the Conduit
 1 Sorcerous Spyglass
 1 Thrashing Brontodon
 1 Karn, Scion of Urza
@@ -60,11 +60,9 @@
 1 Verdurous Gearhulk
 1 Implement of Ferocity
 1 Scrap Trawler
-1 Servant of the Conduit
+1 Llanowar Elves
 1 Forest
 2 Hinterland Harbor
-2 Llanowar Elves
-2 Hashep Oasis
 2 Botanical Sanctum
 2 Aethersphere Harvester
 2 Thrashing Brontodon
@@ -76,25 +74,27 @@
 2 Sorcerous Spyglass
 2 Glint-Nest Crane
 2 Karn, Scion of Urza
+2 Hashep Oasis
+2 Llanowar Elves
 3 Walking Ballista
-3 Llanowar Elves
 3 Botanical Sanctum
 3 Aethersphere Harvester
 3 Implement of Ferocity
+3 Llanowar Elves
 3 Glint-Nest Crane
 3 Forest
 3 Karn, Scion of Urza
 3 Verdurous Gearhulk
+4 Karn, Scion of Urza
 4 Walking Ballista
-4 Forest
 4 Aether Hub
-4 Llanowar Elves
+4 Forest
 4 Botanical Sanctum
 4 Glint-Nest Crane
 4 Aethersphere Harvester
-4 Karn, Scion of Urza
+4 Llanowar Elves
+4 Verdurous Gearhulk
 5 Island
 5 Forest
 6 Forest
 7 Forest
-4 Verdurous Gearhulk

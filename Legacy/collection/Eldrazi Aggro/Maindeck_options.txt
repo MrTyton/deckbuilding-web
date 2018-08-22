@@ -1,10 +1,9 @@
 3 City of Traitors
 2 Karakas
-1 All Is Dust
 3 Mishra's Factory
+1 All Is Dust
 2 Urborg, Tomb of Yawgmoth
 3 Walking Ballista
-2 All Is Dust
 1 Ulamog, the Ceaseless Hunger
 1 Cloudpost
 1 Glimmerpost
@@ -18,12 +17,13 @@
 4 Glimmerpost
 1 Thorn of Amethyst
 2 Thorn of Amethyst
-1 Warping Wail
 4 Walking Ballista
+2 All Is Dust
 3 Endbringer
 1 Grim Monolith
 2 Grim Monolith
 3 Thorn of Amethyst
+1 Warping Wail
 2 Warping Wail
 1 Wastes
 1 Sorcerous Spyglass
@@ -43,8 +43,8 @@
 2 Thran Dynamo
 3 Grim Monolith
 2 Ulamog, the Ceaseless Hunger
-4 Eye of Ugin
 2 Phyrexian Revoker
+1 Scavenger Grounds
 2 Spatial Contortion
 1 Batterskull
 1 Ugin, the Spirit Dragon
@@ -57,12 +57,6 @@
 2 Basalt Monolith
 3 Urborg, Tomb of Yawgmoth
 4 Endbringer
-1 Chalice of Life
-1 Ghost Quarter
-2 Ghost Quarter
-2 Chalice of Life
-3 Chalice of Life
-4 Chalice of Life
 4 City of Traitors
 1 Trinisphere
 2 Trinisphere
@@ -71,6 +65,7 @@
 3 Trinisphere
 3 All Is Dust
 4 Ulamog, the Ceaseless Hunger
+4 Eye of Ugin
 4 Thran Dynamo
 4 Grim Monolith
 4 Vesuva
@@ -79,10 +74,10 @@
 4 Mishra's Factory
 1 Thalia, Heretic Cathar
 1 Eldrazi Displacer
-1 Containment Priest
 1 Mox Diamond
 1 Thalia, Guardian of Thraben
 1 Plains
+1 Containment Priest
 2 Plains
 2 Thalia, Heretic Cathar
 2 Eldrazi Displacer

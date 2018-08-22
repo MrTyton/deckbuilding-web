@@ -51,9 +51,9 @@
 3 Inspiring Vantage
 3 Metallic Rebuke
 4 Inspiring Vantage
-1 Nissa, Steward of Elements
 1 Oath of Teferi
 1 Anticipate
+1 Nissa, Steward of Elements
 1 Beneath the Sands
 1 Plains
 2 Anticipate
@@ -106,8 +106,6 @@
 4 Fountain of Renewal
 4 Reverse Engineer
 14 Island
-1 Wizard's Lightning
-1 Insult / Injury
 1 Fetid Pools
 1 Cathartic Reunion
 1 Sulfur Falls
@@ -115,8 +113,10 @@
 1 Lightning Strike
 1 Shock
 1 Swamp
+1 Insult / Injury
 1 Sweltering Suns
 1 Drowned Catacomb
+1 Wizard's Lightning
 1 Mountain
 1 Doomfall
 1 Canyon Slough
@@ -125,9 +125,7 @@
 1 Vraska's Contempt
 1 Dragonskull Summit
 1 Abrade
-2 Wizard's Lightning
 2 Evolving Wilds
-2 Insult / Injury
 2 Fetid Pools
 2 Cathartic Reunion
 2 Doomfall
@@ -136,8 +134,10 @@
 2 Abrade
 2 Sulfur Falls
 2 Cut / Ribbons
+2 Wizard's Lightning
 2 Swamp
 2 Vraska's Contempt
+2 Insult / Injury
 2 Shock
 2 Lightning Strike
 2 Canyon Slough
@@ -153,12 +153,12 @@
 3 Shock
 3 The Mirari Conjecture
 3 Mountain
-4 Lightning Strike
-4 Shock
 4 Cathartic Reunion
 4 Canyon Slough
 4 Fetid Pools
+4 Lightning Strike
 4 Dragonskull Summit
 4 Mountain
 4 The Mirari Conjecture
+4 Shock
 5 Mountain
