@@ -4,19 +4,19 @@
 3 Repeal
 1 Island
 2 Island
-1 Mountain
-1 Sulfur Falls
-1 Lightning Bolt
 1 Arid Mesa
 1 Scalding Tarn
+1 Mountain
 2 Scalding Tarn
 1 Steam Vents
 1 Lightning Helix
 1 Wall of Omens
+1 Sulfur Falls
 1 Spreading Seas
 1 Saheeli Rai
 1 Felidar Guardian
 1 Jace, Architect of Thought
+1 Lightning Bolt
 1 Teferi, Hero of Dominaria
 1 Glacial Fortress
 1 Remand
@@ -30,13 +30,13 @@
 2 Felidar Guardian
 2 Saheeli Rai
 2 Snapcaster Mage
-2 Remand
 2 Celestial Colonnade
+2 Remand
 2 Path to Exile
 2 Lightning Bolt
 3 Scalding Tarn
-3 Wall of Omens
 3 Spreading Seas
+3 Wall of Omens
 3 Remand
 3 Felidar Guardian
 3 Saheeli Rai
@@ -51,7 +51,6 @@
 4 Spreading Seas
 4 Felidar Guardian
 4 Snapcaster Mage
-3 Island
 1 Ensnaring Bridge
 1 Watery Grave
 1 Academy Ruins
@@ -94,11 +93,12 @@
 3 Fatal Push
 3 Surgical Extraction
 3 Manic Scribe
-3 Glimpse the Unthinkable
 3 Mesmeric Orb
+3 Glimpse the Unthinkable
+3 Island
 3 Hedron Crab
-3 Archive Trap
 3 Visions of Beyond
+3 Archive Trap
 3 Shelldock Isle
 4 Polluted Delta
 4 Hedron Crab
@@ -128,91 +128,38 @@
 2 Arid Mesa
 2 Wooded Foothills
 2 Bloodstained Mire
+2 Vengevine
 2 Bloodghast
 2 Insolent Neonate
-2 Hangarback Walker
-2 Vengevine
 2 Stitcher's Supplier
 2 Gravecrawler
 2 Faithless Looting
 2 Blackcleave Cliffs
 2 Bridge from Below
 2 Goblin Bushwhacker
+2 Hangarback Walker
 3 Greater Gargadon
 3 Hangarback Walker
 3 Insolent Neonate
 3 Vengevine
 3 Walking Ballista
-3 Stitcher's Supplier
 3 Faithless Looting
 3 Blackcleave Cliffs
 3 Blood Crypt
 3 Bloodghast
 3 Goblin Bushwhacker
+3 Stitcher's Supplier
 3 Gravecrawler
 3 Bridge from Below
 4 Bloodghast
 4 Blackcleave Cliffs
-4 Faithless Looting
 4 Insolent Neonate
 4 Bridge from Below
 4 Gravecrawler
 4 Goblin Bushwhacker
+4 Faithless Looting
 4 Stitcher's Supplier
 4 Vengevine
 4 Greater Gargadon
 4 Walking Ballista
 4 Blood Crypt
-1 Molten Vortex
-1 Temple of Epiphany
-1 Shivan Reef
-1 Cascade Bluffs
-1 Treasure Hunt
-1 Anger of the Gods
-1 Day's Undoing
-1 Seismic Assault
-1 Swans of Bryn Argoll
-1 Swiftwater Cliffs
-2 Anger of the Gods
-2 Swiftwater Cliffs
-2 Swans of Bryn Argoll
-2 Mountain
-2 Shivan Reef
-2 Cascade Bluffs
-2 Sulfur Falls
-2 Treasure Hunt
-2 Molten Vortex
-2 Temple of Epiphany
-2 Seismic Assault
-3 Sulfur Falls
-3 Cascade Bluffs
-3 Shivan Reef
-3 Seismic Assault
-3 Swans of Bryn Argoll
-3 Temple of Epiphany
-3 Swiftwater Cliffs
-3 Treasure Hunt
-3 Mountain
-4 Sulfur Falls
-4 Mountain
-4 Swans of Bryn Argoll
-4 Swiftwater Cliffs
-4 Temple of Epiphany
-4 Seismic Assault
-4 Treasure Hunt
-4 Island
-4 Shivan Reef
-4 Cascade Bluffs
-5 Mountain
-5 Island
-6 Island
-6 Mountain
-7 Mountain
-7 Island
-8 Mountain
-9 Mountain
-10 Mountain
-11 Mountain
-12 Mountain
-13 Mountain
-14 Mountain
