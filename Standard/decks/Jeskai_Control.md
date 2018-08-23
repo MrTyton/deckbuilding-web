@@ -40,6 +40,6 @@
 |                     |                                                                                              |                    2|[Whirler Virtuoso](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417763)          |
 |                     |                                                                                              |                    3|[Whirler Virtuoso](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417763)          |
 |                     |                                                                                              |                    2|[Forsake the Worldly](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426715)       |
-|                     |                                                                                              |                    3|[Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447135)                    |
 |                     |                                                                                              |                    4|[Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447135)                    |
+|                     |                                                                                              |                    3|[Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447135)                    |
 

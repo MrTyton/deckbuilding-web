@@ -37,6 +37,7 @@
 2 Karn Liberated
 1 Mind Stone
 2 Mind Stone
+2 Spatial Contortion
 1 Ancient Stirrings
 1 Noble Hierarch
 1 Forest
@@ -55,28 +56,26 @@
 1 Boreal Druid
 1 Mountain
 1 Lightning Bolt
+1 Stomping Ground
 1 Karplusan Forest
 1 Kessig Wolf Run
-1 Stomping Ground
 2 Forest
 2 Wooded Foothills
 2 Grove of the Burnwillows
+2 Boreal Druid
 2 Lightning Bolt
 2 Bloodbraid Elf
 2 Eldrazi Obligator
 2 Karplusan Forest
-2 Boreal Druid
 3 Grove of the Burnwillows
 3 Lightning Bolt
 3 Karplusan Forest
 3 Eldrazi Obligator
 3 Bloodbraid Elf
 4 Eldrazi Obligator
-4 Grove of the Burnwillows
 4 Bloodbraid Elf
 4 Lightning Bolt
 4 Karplusan Forest
-2 Spatial Contortion
 3 Endbringer
 2 Relic of Progenitus
 3 Relic of Progenitus
@@ -84,12 +83,12 @@
 3 Mutavault
 4 Mutavault
 2 Scavenger Grounds
-3 Boreal Druid
 1 Karn, Scion of Urza
 1 Buried Ruin
 1 Ugin, the Spirit Dragon
 1 Batterskull
 1 Emrakul, the Promised End
+4 Grove of the Burnwillows
 1 Endless One
 1 Tectonic Edge
 2 Tectonic Edge
@@ -108,9 +107,9 @@
 1 Thoughtseize
 1 Tidehollow Sculler
 1 Inquisition of Kozilek
-1 Collective Brutality
 1 Swamp
 1 Caves of Koilos
+1 Collective Brutality
 1 Wasteland Strangler
 2 Lingering Souls
 2 Tidehollow Sculler
@@ -129,6 +128,8 @@
 4 Wasteland Strangler
 1 Eldrazi Displacer
 2 Eldrazi Displacer
+1 Abrade
+1 Rhonas the Indomitable
 1 Skysovereign, Consul Flagship
 2 Ulamog, the Ceaseless Hunger
 1 Bojuka Bog
@@ -145,6 +146,7 @@
 3 Plains
 1 Sorcerous Spyglass
 3 Warping Wail
+3 Boreal Druid
 4 Endbringer
 3 Tectonic Edge
 4 Endless One
@@ -169,8 +171,8 @@
 1 Drowner of Hope
 1 Brushland
 2 Brushland
-2 Drowner of Hope
 2 Eldrazi Skyspawner
+2 Drowner of Hope
 2 Yavimaya Coast
 3 Eldrazi Displacer
 3 Brushland
@@ -179,7 +181,7 @@
 3 Eldrazi Skyspawner
 4 Eldrazi Displacer
 4 Brushland
-4 Cavern of Souls
 4 Eldrazi Skyspawner
 4 Yavimaya Coast
 4 Drowner of Hope
+4 Cavern of Souls
