@@ -1,9 +1,10 @@
-2 The Flame of Keld
 2 Viashino Pyromancer
 3 Viashino Pyromancer
-4 Ghitu Lavarunner
-4 Earthshaker Khenra
+1 Abrade
+2 Abrade
 4 Viashino Pyromancer
+3 The Flame of Keld
+4 Earthshaker Khenra
 3 Abrade
 1 Rekindling Phoenix
 1 Scrapheap Scrounger
@@ -15,17 +16,16 @@
 3 Hazoret the Fervent
 4 Hazoret the Fervent
 3 Ahn-Crop Crasher
-3 The Flame of Keld
-4 Abrade
 2 Scrapheap Scrounger
 3 Scrapheap Scrounger
 4 Scrapheap Scrounger
 21 Mountain
+4 Abrade
+22 Mountain
 1 Cut / Ribbons
 4 Ahn-Crop Crasher
-22 Mountain
-1 Magma Spray
 3 Rekindling Phoenix
+1 Magma Spray
 1 Canyon Slough
 1 Pia Nalaar
 1 Glorybringer
@@ -33,6 +33,8 @@
 2 Chandra, Torch of Defiance
 2 Pia Nalaar
 3 Kari Zev, Skyship Raider
+1 Fanatical Firebrand
+2 Fanatical Firebrand
 1 Aether Hub
 2 Canyon Slough
 2 Aether Hub
@@ -44,18 +46,27 @@
 1 Heart of Kiran
 2 Cut / Ribbons
 4 Rekindling Phoenix
-1 Fanatical Firebrand
-2 Fanatical Firebrand
 4 The Flame of Keld
 1 Dismissive Pyromancer
 2 Dismissive Pyromancer
 3 Dismissive Pyromancer
 4 Dismissive Pyromancer
+1 Insult / Injury
+1 Daring Buccaneer
+1 Rigging Runner
+2 Daring Buccaneer
+2 Rigging Runner
+3 Fanatical Firebrand
+3 Daring Buccaneer
+3 Rigging Runner
+4 Fanatical Firebrand
+4 Rigging Runner
+4 Daring Buccaneer
 1 Unlicensed Disintegration
 1 The Scarab God
-1 Fetid Pools
 1 Spirebluff Canal
 1 Nicol Bolas, the Ravager
+1 Fetid Pools
 1 Supreme Will
 1 Sulfur Falls
 2 Nicol Bolas, the Ravager

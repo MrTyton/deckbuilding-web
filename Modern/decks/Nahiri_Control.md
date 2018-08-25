@@ -44,6 +44,6 @@
 |                    3|[Blessed Alliance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414302)    |                    4|[Lightning Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=234704)     |
 |                    3|[Clifftop Retreat](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=241980)    |                    4|[Path to Exile](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370408)      |
 |                    3|[Gideon of the Trials](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426716)|                     |                                                                                              |
-|                    4|[Clifftop Retreat](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=241980)    |                     |                                                                                              |
 |                    4|[Sacred Foundry](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405106)      |                     |                                                                                              |
+|                    4|[Clifftop Retreat](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=241980)    |                     |                                                                                              |
 
