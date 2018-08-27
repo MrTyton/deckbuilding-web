@@ -1,3 +1,9 @@
+1 Concealed Courtyard
+2 Wasteland Strangler
+2 Caves of Koilos
+2 Tidehollow Sculler
+2 Shambling Vent
+2 Concealed Courtyard
 3 Caves of Koilos
 3 Wasteland Strangler
 3 Tidehollow Sculler
@@ -5,53 +11,74 @@
 4 Tidehollow Sculler
 4 Caves of Koilos
 4 Concealed Courtyard
-5 Plains
-1 Shefet Dunes
-1 Tectonic Edge
-2 Horizon Canopy
-3 Horizon Canopy
-6 Plains
-2 Shefet Dunes
-1 Smuggler's Copter
-2 Smuggler's Copter
 1 Field of Ruin
-1 Godless Shrine
 4 Restoration Angel
-1 Kiki-Jiki, Mirror Breaker
 1 Sacred Foundry
 1 Lightning Bolt
 1 Mountain
-1 Dire Fleet Daredevil
 1 Battlefield Forge
 1 Inspiring Vantage
 1 Pia and Kiran Nalaar
 1 Needle Spires
 2 Lightning Bolt
-2 Dire Fleet Daredevil
 2 Sacred Foundry
-2 Needle Spires
 2 Inspiring Vantage
 3 Lightning Bolt
 3 Inspiring Vantage
 4 Inspiring Vantage
 4 Lightning Bolt
-1 Eiganjo Castle
+3 Horizon Canopy
+6 Plains
+2 Shefet Dunes
 4 Blade Splicer
+1 Thalia, Heretic Cathar
+1 Kiki-Jiki, Mirror Breaker
+1 Dire Fleet Daredevil
+2 Dire Fleet Daredevil
+2 Needle Spires
+1 Pia Nalaar
+1 Slayers' Stronghold
+1 Godless Shrine
+1 Eiganjo Castle
 1 Mutavault
 3 Thraben Inspector
 7 Plains
-1 Thalia, Heretic Cathar
-1 Pia Nalaar
-1 Slayers' Stronghold
+1 Selfless Spirit
+2 Selfless Spirit
 3 Shambling Vent
 3 Shefet Dunes
 2 Tectonic Edge
 8 Plains
 9 Plains
+1 Mirran Crusader
+1 Stirring Wildwood
+1 Noble Hierarch
+1 Razorverge Thicket
+1 Temple Garden
+1 Scavenging Ooze
+1 Gavony Township
+1 Forest
+2 Scavenging Ooze
+2 Gavony Township
+2 Mirran Crusader
+2 Forest
+2 Noble Hierarch
+2 Stirring Wildwood
+2 Temple Garden
+2 Razorverge Thicket
+3 Temple Garden
+3 Noble Hierarch
+3 Razorverge Thicket
+4 Temple Garden
+4 Razorverge Thicket
+4 Noble Hierarch
+2 Thalia, Heretic Cathar
 1 Phyrexian Revoker
 4 Horizon Canopy
 1 Dark Confidant
 2 Dark Confidant
+1 Hazoret the Fervent
+3 Sacred Foundry
 1 Vault of the Archangel
 1 Vryn Wingmare
 2 Vryn Wingmare
@@ -59,23 +86,21 @@
 3 Needle Spires
 1 Curious Obsession
 1 Seachrome Coast
-1 Selfless Spirit
-1 Spell Queller
 1 Island
+1 Hallowed Fountain
 1 Moorland Haunt
 1 Rattlechains
-1 Hallowed Fountain
-1 Drogskol Captain
 1 Phantasmal Image
+1 Spell Queller
 1 Mausoleum Wanderer
+1 Drogskol Captain
 1 Adarkar Wastes
-2 Curious Obsession
-2 Moorland Haunt
-2 Seachrome Coast
 2 Island
+2 Moorland Haunt
+2 Curious Obsession
+2 Seachrome Coast
 2 Adarkar Wastes
 2 Rattlechains
-2 Selfless Spirit
 2 Phantasmal Image
 2 Hallowed Fountain
 2 Mausoleum Wanderer
@@ -98,15 +123,14 @@
 4 Adarkar Wastes
 4 Rattlechains
 1 Simian Spirit Guide
-1 Cavern of Souls
 1 Gemstone Caverns
 1 Chalice of the Void
+1 Reality Smasher
+1 Cavern of Souls
 1 Dismember
 1 Wastes
-1 Reality Smasher
 2 Simian Spirit Guide
 2 Gemstone Caverns
-2 Thalia, Heretic Cathar
 2 Reality Smasher
 2 Chalice of the Void
 2 Dismember
@@ -119,46 +143,24 @@
 4 Chalice of the Void
 4 Reality Smasher
 4 Shefet Dunes
-1 Eternal Witness
-1 Scavenging Ooze
-1 Gavony Township
-1 Razorverge Thicket
-1 Voice of Resurgence
-1 Kitchen Finks
 1 Ramunap Excavator
-1 Mirran Crusader
-1 Stirring Wildwood
-1 Noble Hierarch
-1 Temple Garden
+1 Kitchen Finks
 1 Loxodon Smiter
 1 Collected Company
 1 Birds of Paradise
-1 Forest
-2 Voice of Resurgence
-2 Scavenging Ooze
-2 Birds of Paradise
+1 Voice of Resurgence
+1 Eternal Witness
 2 Eternal Witness
-2 Forest
-2 Temple Garden
-2 Gavony Township
-2 Mirran Crusader
-2 Noble Hierarch
-2 Stirring Wildwood
-2 Razorverge Thicket
+2 Birds of Paradise
 2 Loxodon Smiter
 2 Collected Company
-3 Temple Garden
-3 Scavenging Ooze
-3 Noble Hierarch
+2 Voice of Resurgence
 3 Collected Company
 3 Loxodon Smiter
+3 Scavenging Ooze
 3 Mirran Crusader
-3 Razorverge Thicket
-4 Temple Garden
 4 Collected Company
 4 Mirran Crusader
-4 Razorverge Thicket
-4 Noble Hierarch
 4 Loxodon Smiter
 2 Mutavault
 2 Phyrexian Revoker
