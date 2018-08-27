@@ -26,18 +26,3 @@
 |1 [Gonti, Lord of Luxury](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417657)|                                                                                                |                                                                                              |1 [Vraska, Relic Seeker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435388)|1 [Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=270465)  |
 |1 [Thrashing Brontodon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439805)  |                                                                                                |                                                                                              |                                                                                                 |                                                                                     |
 
-
-# Other Options
-
-|*n*<sup>th</sup> copy|                                       Maindeck Card                                        |*n*<sup>th</sup> copy|                                         Sideboard Card                                         |
-|--------------------:|--------------------------------------------------------------------------------------------|--------------------:|------------------------------------------------------------------------------------------------|
-|                    1|[Naturalize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442755)       |                    1|[Fungal Infection](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442982)     |
-|                    1|[Doomfall](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430751)         |                    1|[Sorcerous Spyglass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435407)   |
-|                    2|[Scavenger Grounds](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430871)|                    2|[Gonti, Lord of Luxury](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417657)|
-|                    2|Never / Return                                                                              |                    2|[Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=270465)               |
-|                    2|[Doomfall](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430751)         |                    2|[Sorcerous Spyglass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435407)   |
-|                    3|[Cast Down](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442969)        |                    2|[Fungal Infection](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442982)     |
-|                    4|[Cast Down](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442969)        |                    3|[Fungal Infection](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442982)     |
-|                    4|[Ifnir Deadlands](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430868)  |                    4|[Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=270465)               |
-|                     |                                                                                            |                    3|[Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=270465)               |
-
