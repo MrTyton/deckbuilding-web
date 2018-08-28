@@ -1,7 +1,7 @@
-1 Marsh Flats
-2 Marsh Flats
-3 Marsh Flats
+2 Windswept Heath
+3 Windswept Heath
 3 Repeal
+4 Windswept Heath
 1 Island
 2 Island
 1 Arid Mesa
@@ -13,8 +13,8 @@
 1 Wall of Omens
 1 Sulfur Falls
 1 Spreading Seas
-1 Saheeli Rai
 1 Felidar Guardian
+1 Saheeli Rai
 1 Lightning Bolt
 1 Jace, Architect of Thought
 1 Teferi, Hero of Dominaria
@@ -36,8 +36,8 @@
 2 Lightning Bolt
 3 Scalding Tarn
 3 Spreading Seas
-3 Felidar Guardian
 3 Saheeli Rai
+3 Felidar Guardian
 3 Path to Exile
 3 Lightning Bolt
 3 Wall of Omens
@@ -52,7 +52,6 @@
 4 Felidar Guardian
 4 Snapcaster Mage
 1 Academy Ruins
-1 Ensnaring Bridge
 1 Watery Grave
 1 Polluted Delta
 1 Search for Azcanta
@@ -67,10 +66,10 @@
 1 Darkslick Shores
 1 Archive Trap
 1 Field of Ruin
+1 Ensnaring Bridge
 1 Collective Brutality
 1 Hedron Crab
 1 Shelldock Isle
-2 Ensnaring Bridge
 2 Polluted Delta
 2 Field of Ruin
 2 Search for Azcanta
@@ -80,6 +79,7 @@
 2 Mesmeric Orb
 2 Manic Scribe
 2 Visions of Beyond
+2 Ensnaring Bridge
 2 Crypt Incursion
 2 Darkslick Shores
 2 Swamp
@@ -153,6 +153,7 @@
 3 Bridge from Below
 4 Blood Crypt
 4 Bloodghast
+4 Greater Gargadon
 4 Blackcleave Cliffs
 4 Insolent Neonate
 4 Bridge from Below
@@ -161,5 +162,4 @@
 4 Faithless Looting
 4 Stitcher's Supplier
 4 Vengevine
-4 Greater Gargadon
 4 Walking Ballista
