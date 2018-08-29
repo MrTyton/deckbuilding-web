@@ -30,12 +30,3 @@
 |                                                                                              |                                                                                             |                                                                                         |1 [Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|
 |                                                                                              |                                                                                             |                                                                                         |1 [Turnabout](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383140)          |
 
-
-# Other Options
-
-|*n*<sup>th</sup> copy|                                      Maindeck Card                                      |*n*<sup>th</sup> copy|                                      Sideboard Card                                       |
-|--------------------:|-----------------------------------------------------------------------------------------|--------------------:|-------------------------------------------------------------------------------------------|
-|                    2|[Polluted Delta](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405104)|                    3|[Thing in the Ice](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409836)|
-|                    2|[Flooded Strand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405098)|                    4|[Thing in the Ice](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409836)|
-|                    4|[Predict](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=29823)        |                     |                                                                                           |
-

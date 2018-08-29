@@ -1,10 +1,10 @@
-1 Spellskite
 1 Qasali Pridemage
+1 Spellskite
 1 Shalai, Voice of Plenty
-1 Tireless Tracker
-2 Tireless Tracker
 1 Voice of Resurgence
 1 Rhonas the Indomitable
+1 Tireless Tracker
+2 Tireless Tracker
 2 Voice of Resurgence
 3 Voice of Resurgence
 4 Eternal Witness
@@ -12,34 +12,29 @@
 2 Scavenging Ooze
 2 Viscera Seer
 4 Duskwatch Recruiter
-1 Misty Rainforest
-4 Noble Hierarch
 1 Eldritch Evolution
 1 Wooded Foothills
 2 Wooded Foothills
-2 Misty Rainforest
 1 Stomping Ground
 3 Wooded Foothills
+1 Marsh Flats
+4 Voice of Resurgence
 1 Hallowed Fountain
 1 Breeding Pool
-1 Renegade Rallier
-2 Renegade Rallier
-3 Renegade Rallier
-4 Voice of Resurgence
-4 Forest
+1 Misty Rainforest
 1 Murderous Redcap
+4 Forest
 1 Militia Bugler
 2 Militia Bugler
 3 Militia Bugler
+4 Noble Hierarch
 2 Eldritch Evolution
-1 Knight of the Reliquary
-1 Field of Ruin
-2 Walking Ballista
+4 Wooded Foothills
 1 Courser of Kruphix
 2 Courser of Kruphix
+2 Misty Rainforest
 3 Misty Rainforest
 4 Misty Rainforest
-4 Wooded Foothills
 2 Selfless Spirit
 1 Path to Exile
 1 Ethersworn Canonist
@@ -48,28 +43,34 @@
 3 Path to Exile
 1 Reflector Mage
 1 Flooded Strand
+1 Renegade Rallier
 1 Lotus Cobra
 2 Flooded Strand
+2 Renegade Rallier
 2 Lotus Cobra
+3 Renegade Rallier
 1 Arid Mesa
 1 Sacred Foundry
 1 Pia and Kiran Nalaar
 2 Plains
 1 Phantasmal Image
-1 Scattered Groves
 1 Whirler Rogue
+1 Scattered Groves
 1 Jace, Vryn's Prodigy
 1 Lumbering Falls
 1 Island
 2 Phantasmal Image
 3 Flooded Strand
-1 Stirring Wildwood
-1 Marsh Flats
 1 Fiend Hunter
+1 Stirring Wildwood
 2 Razorverge Thicket
 1 Spell Queller
 2 Breeding Pool
 2 Spell Queller
+1 Tidehollow Sculler
+2 Tidehollow Sculler
+2 Marsh Flats
+3 Gavony Township
 1 Orzhov Pontiff
 1 Phyrexian Revoker
 1 Melira, Sylvok Outcast
@@ -88,14 +89,6 @@
 3 Restoration Angel
 3 Scavenging Ooze
 4 Path to Exile
-1 Ghost Quarter
-2 Ghost Quarter
-2 Knight of the Reliquary
-2 Field of Ruin
-3 Ghost Quarter
-3 Knight of the Reliquary
-3 Field of Ruin
-4 Knight of the Reliquary
 1 Cavern of Souls
 1 Llanowar Elves
 1 Dwynen's Elite
@@ -133,6 +126,9 @@
 4 Heritage Druid
 4 Dwynen's Elite
 1 Runic Armasaur
+1 Knight of the Reliquary
+1 Field of Ruin
+2 Walking Ballista
 4 Militia Bugler
 5 Forest
 1 Acidic Slime

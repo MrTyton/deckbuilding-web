@@ -33,8 +33,8 @@
 |                     |             |                    1|[Darkheart Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=126012)           |
 |                     |             |                    1|[Hazoret the Fervent](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=429886)        |
 |                     |             |                    2|[Hazoret the Fervent](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=429886)        |
-|                     |             |                    1|[Thalia, Guardian of Thraben](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442025)|
 |                     |             |                    1|[Faerie Macabre](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370410)             |
+|                     |             |                    1|[Thalia, Guardian of Thraben](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442025)|
 |                     |             |                    1|[Hunter Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=44772)               |
 |                     |             |                    1|[Syphon Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370752)              |
 |                     |             |                    2|[Hunter Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=44772)               |

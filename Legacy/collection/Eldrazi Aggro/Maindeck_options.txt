@@ -1,6 +1,5 @@
 3 City of Traitors
 2 Karakas
-3 Mishra's Factory
 1 All Is Dust
 2 Urborg, Tomb of Yawgmoth
 3 Walking Ballista
@@ -15,25 +14,22 @@
 3 Glimmerpost
 4 Glimmerpost
 4 Cloudpost
-1 Thorn of Amethyst
-2 Thorn of Amethyst
 4 Walking Ballista
 2 All Is Dust
-3 Endbringer
 1 Grim Monolith
 2 Grim Monolith
-3 Thorn of Amethyst
-1 Warping Wail
-2 Warping Wail
+3 Endbringer
+3 Mishra's Factory
 1 Wastes
+1 Karn, Scion of Urza
+2 Karn, Scion of Urza
 1 Sorcerous Spyglass
 2 Sorcerous Spyglass
 3 Vesuva
-1 Karn, Scion of Urza
-2 Karn, Scion of Urza
-1 Phyrexian Revoker
-1 Spatial Contortion
-4 Thorn of Amethyst
+1 Thorn of Amethyst
+2 Thorn of Amethyst
+1 Warping Wail
+2 Warping Wail
 2 Wastes
 1 Oblivion Sower
 2 Oblivion Sower
@@ -41,6 +37,9 @@
 3 Sorcerous Spyglass
 1 Thran Dynamo
 2 Thran Dynamo
+1 Phyrexian Revoker
+3 Thorn of Amethyst
+1 Spatial Contortion
 3 Grim Monolith
 2 Ulamog, the Ceaseless Hunger
 2 Phyrexian Revoker
@@ -58,6 +57,7 @@
 3 Urborg, Tomb of Yawgmoth
 4 Endbringer
 4 City of Traitors
+4 Thorn of Amethyst
 1 Trinisphere
 2 Trinisphere
 3 Ulamog, the Ceaseless Hunger
@@ -69,9 +69,6 @@
 4 Thran Dynamo
 4 Grim Monolith
 4 Vesuva
-1 Eternal Scourge
-2 Eternal Scourge
-4 Mishra's Factory
 1 Thalia, Heretic Cathar
 1 Eldrazi Displacer
 1 Smuggler's Copter

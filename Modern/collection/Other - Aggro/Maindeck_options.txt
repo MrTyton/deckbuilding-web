@@ -14,43 +14,43 @@
 4 Island
 5 Island
 6 Island
-1 Field of Ruin
-1 Plains
 1 Hallowed Fountain
-1 Reflector Mage
 1 Seachrome Coast
+1 Reflector Mage
 1 Aether Vial
+1 Path to Exile
 1 Venser, Shaper Savant
 1 Silvergill Adept
+1 Field of Ruin
+1 Plains
 1 Flooded Strand
 1 Restoration Angel
-1 Path to Exile
 2 Flooded Strand
 2 Venser, Shaper Savant
-2 Seachrome Coast
 2 Reflector Mage
 2 Aether Vial
+2 Hallowed Fountain
+2 Seachrome Coast
+2 Path to Exile
 2 Silvergill Adept
 2 Field of Ruin
-2 Path to Exile
-2 Hallowed Fountain
 2 Restoration Angel
 3 Flooded Strand
 3 Field of Ruin
-3 Seachrome Coast
 3 Reflector Mage
 3 Aether Vial
+3 Seachrome Coast
 3 Hallowed Fountain
 3 Path to Exile
 3 Venser, Shaper Savant
 3 Restoration Angel
 3 Silvergill Adept
 3 Naban, Dean of Iteration
-4 Flooded Strand
 4 Path to Exile
+4 Flooded Strand
 4 Reflector Mage
-4 Seachrome Coast
 4 Aether Vial
+4 Seachrome Coast
 4 Naban, Dean of Iteration
 4 Silvergill Adept
 4 Field of Ruin
@@ -59,7 +59,6 @@
 2 Windswept Heath
 3 Windswept Heath
 4 Windswept Heath
-1 Knight of the Reliquary
 1 Sejiri Steppe
 1 Plated Geopede
 1 Explore
@@ -72,7 +71,7 @@
 1 Valakut, the Molten Pinnacle
 1 Boom / Bust
 1 Steppe Lynx
-2 Knight of the Reliquary
+1 Knight of the Reliquary
 2 Sacred Foundry
 2 Explore
 2 Scapeshift
@@ -83,18 +82,18 @@
 2 Manamorphose
 2 Valakut, the Molten Pinnacle
 2 Boom / Bust
+2 Knight of the Reliquary
 3 Sacred Foundry
-3 Knight of the Reliquary
 3 Explore
 3 Boom / Bust
 3 Valakut, the Molten Pinnacle
 3 Prismatic Omen
 3 Steppe Lynx
+3 Knight of the Reliquary
 3 Plated Geopede
 3 Scapeshift
 3 Manamorphose
 3 Flagstones of Trokair
-4 Knight of the Reliquary
 4 Manamorphose
 4 Plated Geopede
 4 Prismatic Omen
@@ -104,11 +103,12 @@
 4 Scapeshift
 4 Boom / Bust
 4 Steppe Lynx
+4 Knight of the Reliquary
 4 Explore
 1 Courser of Kruphix
+1 Burning-Tree Emissary
 1 Walking Ballista
 1 Duskwatch Recruiter
-1 Shalai, Voice of Plenty
 1 Jadelight Ranger
 1 Vizier of the Menagerie
 1 Tireless Tracker
@@ -116,19 +116,19 @@
 1 Dryad Greenseeker
 1 Breeding Pool
 1 Kiora, Master of the Depths
-1 Burning-Tree Emissary
+1 Shalai, Voice of Plenty
 1 Vivien Reid
 2 Walking Ballista
 2 Courser of Kruphix
+2 Burning-Tree Emissary
 2 Tireless Tracker
 2 Jadelight Ranger
 2 Vizier of the Menagerie
 2 Kiora, Master of the Depths
-2 Burning-Tree Emissary
 2 Dryad Greenseeker
+3 Burning-Tree Emissary
 3 Courser of Kruphix
 3 Jadelight Ranger
-3 Burning-Tree Emissary
 3 Walking Ballista
 4 Burning-Tree Emissary
 4 Walking Ballista

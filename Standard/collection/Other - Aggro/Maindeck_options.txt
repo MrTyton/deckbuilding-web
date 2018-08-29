@@ -1,58 +1,15 @@
 1 Plains
+1 Aethersphere Harvester
 1 Island
+2 Aethersphere Harvester
 2 Island
 3 Island
 4 Island
-1 Walking Ballista
-2 Walking Ballista
-2 Aether Hub
-3 Aether Hub
-1 Commit / Memory
-1 Essence Scatter
-2 Essence Scatter
-1 Liliana, Death's Majesty
-1 Ravenous Chupacabra
-1 Torrential Gearhulk
-1 Cast Down
-1 Field of Ruin
-1 Hostage Taker
-1 Gonti, Lord of Luxury
-1 Arguel's Blood Fast
-1 Champion of Wits
-1 Supreme Will
-1 Fetid Pools
-1 Submerged Boneyard
-1 Drowned Catacomb
-1 Vraska's Contempt
-1 Gifted Aetherborn
-1 Doomfall
-1 The Scarab God
-2 Field of Ruin
-2 Gifted Aetherborn
-2 Doomfall
-2 Liliana, Death's Majesty
-2 Drowned Catacomb
-2 Vraska's Contempt
-2 Fetid Pools
-2 The Scarab God
-2 Champion of Wits
-3 The Scarab God
-3 Champion of Wits
-3 Fetid Pools
-3 Gifted Aetherborn
-3 Drowned Catacomb
-3 Vraska's Contempt
-4 Vraska's Contempt
-4 Fatal Push
-4 Fetid Pools
-4 Drowned Catacomb
-4 Gifted Aetherborn
-1 Aethersphere Harvester
-2 Aethersphere Harvester
 5 Island
 1 Hinterland Harbor
 1 Servant of the Conduit
 1 Glint-Nest Crane
+1 Walking Ballista
 1 Botanical Sanctum
 1 Thrashing Brontodon
 1 Karn, Scion of Urza
@@ -66,6 +23,7 @@
 1 Forest
 2 Hinterland Harbor
 2 Forest
+2 Walking Ballista
 2 Botanical Sanctum
 2 Thrashing Brontodon
 2 Scrap Trawler
@@ -76,21 +34,23 @@
 2 Karn, Scion of Urza
 2 Hashep Oasis
 2 Llanowar Elves
+2 Aether Hub
 2 Glint-Nest Crane
+3 Aethersphere Harvester
 3 Forest
 3 Botanical Sanctum
-3 Aethersphere Harvester
 3 Implement of Ferocity
 3 Walking Ballista
 3 Llanowar Elves
 3 Glint-Nest Crane
 3 Karn, Scion of Urza
+3 Aether Hub
 3 Verdurous Gearhulk
 4 Karn, Scion of Urza
-4 Aether Hub
 4 Botanical Sanctum
 4 Glint-Nest Crane
 4 Llanowar Elves
+4 Aether Hub
 4 Forest
 4 Aethersphere Harvester
 4 Walking Ballista
@@ -100,10 +60,12 @@
 7 Forest
 1 Wizard's Retort
 1 Siren Stormtamer
+1 Commit / Memory
 1 Spell Pierce
-1 Tempest Djinn
 1 Curious Obsession
+1 Tempest Djinn
 1 Merfolk Trickster
+1 Essence Scatter
 1 Unsummon
 1 Slither Blade
 1 Baral, Chief of Compliance
@@ -113,6 +75,7 @@
 2 Curious Obsession
 2 Tempest Djinn
 2 Merfolk Trickster
+2 Essence Scatter
 2 Wizard's Retort
 2 Unsummon
 2 Slither Blade
