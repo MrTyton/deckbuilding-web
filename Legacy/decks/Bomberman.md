@@ -23,28 +23,3 @@
 |2 [Helm of Obedience](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=184550)    |1 [Engineered Plague](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=12944)   |                                                                                             |
 |1 [Sorcerous Spyglass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435407)   |4 [Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205013)|                                                                                             |
 
-
-# Other Options
-
-|*n*<sup>th</sup> copy|                                         Maindeck Card                                          |*n*<sup>th</sup> copy|                                          Sideboard Card                                          |
-|--------------------:|------------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------------|
-|                    1|[Impulse](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373330)              |                    1|[Warping Wail](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407522)           |
-|                    1|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439602)               |                    1|[Flusterstorm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382942)           |
-|                    1|[Sorcerous Spyglass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435407)   |                    1|[Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)         |
-|                    1|[Cavern of Souls](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426057)      |                    1|[Llawan, Cephalid Empress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=27175)|
-|                    1|[Engineered Explosives](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370549)|                    1|[Ratchet Bomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205482)           |
-|                    1|[Talisman of Progress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=39597)  |                    1|[Seal of Cleansing](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383085)      |
-|                    2|[Cavern of Souls](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426057)      |                    1|[Faerie Macabre](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370410)         |
-|                    2|[Impulse](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373330)              |                    1|[Ethersworn Canonist](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370504)    |
-|                    2|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439602)               |                    2|[Warping Wail](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407522)           |
-|                    2|[Sorcerous Spyglass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435407)   |                    2|[Flusterstorm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382942)           |
-|                    2|[Engineered Explosives](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370549)|                    2|[Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)         |
-|                    2|[Talisman of Progress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=39597)  |                    2|[Ratchet Bomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205482)           |
-|                    3|[Cavern of Souls](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426057)      |                    2|[Faerie Macabre](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370410)         |
-|                    3|[Impulse](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373330)              |                    2|[Ethersworn Canonist](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370504)    |
-|                    3|[Talisman of Progress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=39597)  |                    3|[Ethersworn Canonist](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370504)    |
-|                    4|[Impulse](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373330)              |                     |                                                                                                  |
-|                    4|[Karn, Scion of Urza](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442889)  |                     |                                                                                                  |
-|                    4|[City of Traitors](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397543)     |                     |                                                                                                  |
-|                    4|[Talisman of Progress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=39597)  |                     |                                                                                                  |
-
