@@ -3,15 +3,15 @@
 
 # Standard
 
-|                                     A                                      |                         B                          |                           C                            |                          D                           |                       E                        |
-|----------------------------------------------------------------------------|----------------------------------------------------|--------------------------------------------------------|------------------------------------------------------|------------------------------------------------|
-|[Azorius Aggro](./Standard/decks/Azorius_Aggro.md)                          |[Golgari Aggro](./Standard/decks/Golgari_Aggro.md)  |[Mardu Aggro](./Standard/decks/Mardu_Aggro.md)          |[Other - Combo](./Standard/decks/Other_-_Combo.md)    |[Sultai Aggro](./Standard/decks/Sultai_Aggro.md)|
-|[Boros Aggro](./Standard/decks/Boros_Aggro.md)                              |[Green Ramp](./Standard/decks/Green_Ramp.md)        |[Merfolk](./Standard/decks/Merfolk.md)                  |[Other - Control](./Standard/decks/Other_-_Control.md)|[UB Control](./Standard/decks/UB_Control.md)    |
-|[Dimir Midrange](./Standard/decks/Dimir_Midrange.md)                        |[Grixis Aggro](./Standard/decks/Grixis_Aggro.md)    |[Mono Black Aggro](./Standard/decks/Mono_Black_Aggro.md)|[Pummeler](./Standard/decks/Pummeler.md)              |[UW Control](./Standard/decks/UW_Control.md)    |
-|[Dinosaurs](./Standard/decks/Dinosaurs.md)                                  |[Grixis Control](./Standard/decks/Grixis_Control.md)|[Mono Green Aggro](./Standard/decks/Mono_Green_Aggro.md)|[Rakdos Aggro](./Standard/decks/Rakdos_Aggro.md)      |[Weenie White](./Standard/decks/Weenie_White.md)|
-|[Esper Control](./Standard/decks/Esper_Control.md)                          |[Gruul Aggro](./Standard/decks/Gruul_Aggro.md)      |[Orzhov Aggro](./Standard/decks/Orzhov_Aggro.md)        |[Rakdos Control](./Standard/decks/Rakdos_Control.md)  |                                                |
-|[Fog](./Standard/decks/Fog.md)                                              |[Improvise](./Standard/decks/Improvise.md)          |[Orzhov Control](./Standard/decks/Orzhov_Control.md)    |[Red Deck Wins](./Standard/decks/Red_Deck_Wins.md)    |                                                |
-|[God-Pharaoh's Gift Control](./Standard/decks/God-Pharaoh's_Gift_Control.md)|[Jeskai Control](./Standard/decks/Jeskai_Control.md)|[Other - Aggro](./Standard/decks/Other_-_Aggro.md)      |[Selesnya Aggro](./Standard/decks/Selesnya_Aggro.md)  |                                                |
+|                         A                          |                                     B                                      |                           C                            |                          D                           |                         E                          |
+|----------------------------------------------------|----------------------------------------------------------------------------|--------------------------------------------------------|------------------------------------------------------|----------------------------------------------------|
+|[Abzan Midrange](./Standard/decks/Abzan_Midrange.md)|[Fog](./Standard/decks/Fog.md)                                              |[Improvise](./Standard/decks/Improvise.md)              |[Orzhov Control](./Standard/decks/Orzhov_Control.md)  |[Red Deck Wins](./Standard/decks/Red_Deck_Wins.md)  |
+|[Azorius Aggro](./Standard/decks/Azorius_Aggro.md)  |[God-Pharaoh's Gift Control](./Standard/decks/God-Pharaoh's_Gift_Control.md)|[Jeskai Control](./Standard/decks/Jeskai_Control.md)    |[Other - Aggro](./Standard/decks/Other_-_Aggro.md)    |[Selesnya Aggro](./Standard/decks/Selesnya_Aggro.md)|
+|[Bant Aggro](./Standard/decks/Bant_Aggro.md)        |[Golgari Aggro](./Standard/decks/Golgari_Aggro.md)                          |[Mardu Aggro](./Standard/decks/Mardu_Aggro.md)          |[Other - Combo](./Standard/decks/Other_-_Combo.md)    |[Sultai Aggro](./Standard/decks/Sultai_Aggro.md)    |
+|[Boros Aggro](./Standard/decks/Boros_Aggro.md)      |[Green Ramp](./Standard/decks/Green_Ramp.md)                                |[Merfolk](./Standard/decks/Merfolk.md)                  |[Other - Control](./Standard/decks/Other_-_Control.md)|[UB Control](./Standard/decks/UB_Control.md)        |
+|[Dimir Midrange](./Standard/decks/Dimir_Midrange.md)|[Grixis Aggro](./Standard/decks/Grixis_Aggro.md)                            |[Mono Black Aggro](./Standard/decks/Mono_Black_Aggro.md)|[Pummeler](./Standard/decks/Pummeler.md)              |[UW Control](./Standard/decks/UW_Control.md)        |
+|[Dinosaurs](./Standard/decks/Dinosaurs.md)          |[Grixis Control](./Standard/decks/Grixis_Control.md)                        |[Mono Green Aggro](./Standard/decks/Mono_Green_Aggro.md)|[Rakdos Aggro](./Standard/decks/Rakdos_Aggro.md)      |[Weenie White](./Standard/decks/Weenie_White.md)    |
+|[Esper Control](./Standard/decks/Esper_Control.md)  |[Gruul Aggro](./Standard/decks/Gruul_Aggro.md)                              |[Orzhov Aggro](./Standard/decks/Orzhov_Aggro.md)        |[Rakdos Control](./Standard/decks/Rakdos_Control.md)  |                                                    |
 
 
 # Modern
@@ -49,4 +49,4 @@
 
 
 
-#### Last Updated at 12:27PM on August 31, 2018
+#### Last Updated at 12:24AM on September 01, 2018
