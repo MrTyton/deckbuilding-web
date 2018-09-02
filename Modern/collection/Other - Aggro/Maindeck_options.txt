@@ -1,19 +1,20 @@
-1 Merfolk Trickster
 1 Island
 1 Vendilion Clique
 1 Master of Waves
+1 Merfolk Trickster
 1 Naban, Dean of Iteration
-2 Merfolk Trickster
 2 Vendilion Clique
+2 Merfolk Trickster
 2 Master of Waves
 2 Island
 2 Naban, Dean of Iteration
-3 Island
 3 Merfolk Trickster
-4 Island
+3 Island
 4 Merfolk Trickster
+4 Island
 5 Island
 6 Island
+1 Field of Ruin
 1 Hallowed Fountain
 1 Venser, Shaper Savant
 1 Seachrome Coast
@@ -21,7 +22,6 @@
 1 Aether Vial
 1 Path to Exile
 1 Silvergill Adept
-1 Field of Ruin
 1 Plains
 1 Flooded Strand
 1 Restoration Angel
@@ -31,24 +31,24 @@
 2 Aether Vial
 2 Seachrome Coast
 2 Hallowed Fountain
-2 Path to Exile
-2 Silvergill Adept
 2 Field of Ruin
+2 Silvergill Adept
+2 Path to Exile
 2 Restoration Angel
 3 Flooded Strand
 3 Field of Ruin
+3 Path to Exile
 3 Reflector Mage
 3 Aether Vial
 3 Seachrome Coast
 3 Hallowed Fountain
-3 Path to Exile
-3 Venser, Shaper Savant
 3 Restoration Angel
 3 Silvergill Adept
 3 Naban, Dean of Iteration
-4 Path to Exile
+3 Venser, Shaper Savant
 4 Flooded Strand
 4 Reflector Mage
+4 Path to Exile
 4 Aether Vial
 4 Seachrome Coast
 4 Naban, Dean of Iteration
@@ -59,27 +59,111 @@
 2 Windswept Heath
 3 Windswept Heath
 4 Windswept Heath
+1 Vivien Reid
+1 Burning-Tree Emissary
+1 Walking Ballista
+1 Duskwatch Recruiter
+1 Vizier of the Menagerie
+1 Tireless Tracker
+1 Nissa, Steward of Elements
+1 Dryad Greenseeker
+1 Breeding Pool
+1 Kiora, Master of the Depths
+1 Courser of Kruphix
+1 Shalai, Voice of Plenty
+1 Jadelight Ranger
+2 Tireless Tracker
+2 Burning-Tree Emissary
+2 Walking Ballista
+2 Jadelight Ranger
+2 Vizier of the Menagerie
+2 Kiora, Master of the Depths
+2 Dryad Greenseeker
+2 Courser of Kruphix
+3 Courser of Kruphix
+3 Burning-Tree Emissary
+3 Walking Ballista
+3 Jadelight Ranger
+4 Burning-Tree Emissary
+4 Walking Ballista
+1 Mountain
+1 Manamorphose
+2 Manamorphose
+3 Manamorphose
+4 Manamorphose
+1 Collective Brutality
+1 Thoughtseize
+1 Swamp
+1 Liliana of the Veil
+1 Inquisition of Kozilek
+2 Swamp
+2 Thoughtseize
+2 Inquisition of Kozilek
+3 Thoughtseize
+3 Inquisition of Kozilek
+4 Thoughtseize
+4 Inquisition of Kozilek
+1 Forked Bolt
+1 Hazoret the Fervent
+1 Bedlam Reveler
+1 Blackcleave Cliffs
+1 Fatal Push
+1 Arid Mesa
+1 Kiln Fiend
+1 Bloodstained Mire
+1 Lightning Bolt
+1 Blood Crypt
+1 Marsh Flats
+1 Monastery Swiftspear
+1 Faithless Looting
+2 Blood Crypt
+2 Mountain
+2 Forked Bolt
+2 Bedlam Reveler
+2 Bloodstained Mire
+2 Marsh Flats
+2 Arid Mesa
+2 Faithless Looting
+2 Monastery Swiftspear
+2 Blackcleave Cliffs
+2 Lightning Bolt
+2 Fatal Push
+2 Kiln Fiend
+3 Forked Bolt
+3 Mountain
+3 Blood Crypt
+3 Bedlam Reveler
+3 Kiln Fiend
+3 Lightning Bolt
+3 Faithless Looting
+3 Blackcleave Cliffs
+3 Bloodstained Mire
+3 Monastery Swiftspear
+4 Bloodstained Mire
+4 Bedlam Reveler
+4 Blackcleave Cliffs
+4 Faithless Looting
+4 Lightning Bolt
+4 Monastery Swiftspear
+4 Kiln Fiend
 1 Sejiri Steppe
-1 Plated Geopede
 1 Explore
 1 Prismatic Omen
 1 Flagstones of Trokair
+1 Plated Geopede
 1 Scapeshift
-1 Mountain
-1 Manamorphose
 1 Sacred Foundry
 1 Valakut, the Molten Pinnacle
 1 Boom / Bust
 1 Steppe Lynx
 1 Knight of the Reliquary
 2 Sacred Foundry
-2 Explore
 2 Scapeshift
 2 Flagstones of Trokair
+2 Explore
 2 Prismatic Omen
 2 Steppe Lynx
 2 Plated Geopede
-2 Manamorphose
 2 Valakut, the Molten Pinnacle
 2 Boom / Bust
 2 Knight of the Reliquary
@@ -92,87 +176,46 @@
 3 Knight of the Reliquary
 3 Plated Geopede
 3 Scapeshift
-3 Manamorphose
 3 Flagstones of Trokair
-4 Manamorphose
+4 Knight of the Reliquary
 4 Plated Geopede
 4 Prismatic Omen
-4 Flagstones of Trokair
 4 Sacred Foundry
 4 Valakut, the Molten Pinnacle
 4 Scapeshift
+4 Flagstones of Trokair
 4 Boom / Bust
 4 Steppe Lynx
-4 Knight of the Reliquary
 4 Explore
-1 Burning-Tree Emissary
-1 Duskwatch Recruiter
-1 Jadelight Ranger
-1 Vizier of the Menagerie
-1 Tireless Tracker
-1 Nissa, Steward of Elements
-1 Dryad Greenseeker
-1 Walking Ballista
-1 Breeding Pool
-1 Kiora, Master of the Depths
-1 Courser of Kruphix
-1 Shalai, Voice of Plenty
-1 Vivien Reid
-2 Walking Ballista
-2 Burning-Tree Emissary
-2 Tireless Tracker
-2 Jadelight Ranger
-2 Vizier of the Menagerie
-2 Kiora, Master of the Depths
-2 Dryad Greenseeker
-2 Courser of Kruphix
-3 Courser of Kruphix
-3 Burning-Tree Emissary
-3 Jadelight Ranger
-3 Walking Ballista
-4 Burning-Tree Emissary
-4 Walking Ballista
 1 Kalitas, Traitor of Ghet
-1 Collective Brutality
 1 Liliana, the Last Hope
-1 Thoughtseize
 1 Bloodghast
-1 Swamp
-1 Inquisition of Kozilek
 1 Gray Merchant of Asphodel
-1 Liliana of the Veil
 1 Geralf's Messenger
 1 Phyrexian Obliterator
 1 Relentless Dead
-2 Swamp
 2 Kalitas, Traitor of Ghet
 2 Collective Brutality
 2 Geralf's Messenger
+2 Relentless Dead
 2 Bloodghast
-2 Thoughtseize
-2 Inquisition of Kozilek
 2 Phyrexian Obliterator
 2 Gray Merchant of Asphodel
-2 Relentless Dead
 2 Liliana of the Veil
 3 Swamp
 3 Collective Brutality
 3 Bloodghast
 3 Phyrexian Obliterator
 3 Relentless Dead
-3 Thoughtseize
-3 Inquisition of Kozilek
 3 Gray Merchant of Asphodel
 3 Liliana of the Veil
 3 Geralf's Messenger
 4 Swamp
 4 Collective Brutality
 4 Relentless Dead
-4 Phyrexian Obliterator
-4 Inquisition of Kozilek
-4 Gray Merchant of Asphodel
-4 Thoughtseize
 4 Bloodghast
+4 Phyrexian Obliterator
+4 Gray Merchant of Asphodel
 4 Geralf's Messenger
 5 Swamp
 6 Swamp
@@ -197,9 +240,9 @@
 1 Dismember
 1 Mystic Archaeologist
 1 Rapid Hybridization
+1 Cursecatcher
 1 Tempest Djinn
 1 Voidmage Prodigy
-1 Cursecatcher
 1 Cloudfin Raptor
 2 Dismember
 2 Tempest Djinn
@@ -208,12 +251,12 @@
 2 Voidmage Prodigy
 2 Thassa, God of the Sea
 2 Mystic Archaeologist
-2 Rapid Hybridization
 2 Cursecatcher
-3 Master of Waves
+2 Rapid Hybridization
 3 Cloudfin Raptor
 3 Voidmage Prodigy
 3 Tempest Djinn
+3 Master of Waves
 4 Master of Waves
 4 Tempest Djinn
 4 Voidmage Prodigy

@@ -36,9 +36,9 @@
 |                    2|[Hymn to Tourach](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382976)|                    1|[Engineered Plague](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=12944)   |
 |                    2|[Sylvan Library](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383120) |                    2|[Mindbreak Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197532)     |
 |                    3|[Hymn to Tourach](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382976)|                    2|[Carpet of Flowers](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=5858)    |
-|                    3|[Bloodbraid Elf](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423509) |                    2|[Pithing Needle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425815)     |
+|                    3|[Bloodbraid Elf](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423509) |                    3|[Mindbreak Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197532)     |
 |                    4|[Wasteland](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413790)      |                    3|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|
-|                    4|[Abrupt Decay](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425971)   |                    3|[Mindbreak Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197532)     |
+|                    4|[Abrupt Decay](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425971)   |                    2|[Pithing Needle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425815)     |
 |                    4|[Punishing Fire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=243483) |                     |                                                                                              |
 |                    4|[Dark Confidant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370413) |                     |                                                                                              |
 
