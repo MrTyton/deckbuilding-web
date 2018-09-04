@@ -67,6 +67,6 @@
 |                    1|[Karplusan Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420922)   |                    1|Failure/Comply                                                                                   |
 |                    3|[Gemstone Mine](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=4592)        |                    2|Failure/Comply                                                                                   |
 |                    3|[Blackcleave Cliffs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=209401) |                    3|Failure/Comply                                                                                   |
-|                    4|[Mana Confluence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409573)    |                     |                                                                                                 |
 |                    4|[Gemstone Mine](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=4592)        |                     |                                                                                                 |
+|                    4|[Mana Confluence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409573)    |                     |                                                                                                 |
 

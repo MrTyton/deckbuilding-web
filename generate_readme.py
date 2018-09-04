@@ -41,7 +41,7 @@ def create(format, site):
 
 
 def output():
-    everything = "# Stock Decklists\n #### Based on mtggoldfish\n\n"
+    everything = "# Stock Decklists\n#### Based on mtggoldfish\n\n"
     for format in ["Standard", "Modern", "Legacy"]:
         everything += "\n" + create(format, 'mtggoldfish')
 
@@ -49,7 +49,7 @@ def output():
     with open("README.md", "w") as fp:
         fp.write(everything)
 
-    everything = "# Stock Decklists\n #### Based on mtgtop8\n\n"
+    everything = "# Stock Decklists\n#### Based on mtgtop8\n\n"
     for format in ["Standard", "Modern", "Legacy"]:
         everything += "\n" + create(format, 'mtgtop8')
 

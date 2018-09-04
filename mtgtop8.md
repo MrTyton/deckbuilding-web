@@ -1,5 +1,5 @@
 # Stock Decklists
- #### Based on mtgtop8
+#### Based on mtgtop8
 
 
 # Standard
@@ -50,4 +50,4 @@
 
 
 
-#### Last Updated at 01:53AM on September 04, 2018
+#### Last Updated at 02:25AM on September 04, 2018

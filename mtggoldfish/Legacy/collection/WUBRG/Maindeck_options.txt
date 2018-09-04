@@ -1,5 +1,4 @@
 1 Wasteland
-1 Thalia, Guardian of Thraben
 1 Thalia's Lieutenant
 1 Champion of the Parish
 1 Meddling Mage
@@ -9,23 +8,24 @@
 1 Mother of Runes
 1 Mantis Rider
 1 Noble Hierarch
+1 Thalia, Guardian of Thraben
 2 Wasteland
 2 Thalia's Lieutenant
 2 Champion of the Parish
 2 Kitesail Freebooter
 2 Reflector Mage
-2 Thalia, Guardian of Thraben
 2 Meddling Mage
 2 Noble Hierarch
 2 Mother of Runes
+2 Thalia, Guardian of Thraben
 2 Mantis Rider
 3 Wasteland
 3 Champion of the Parish
 3 Thalia's Lieutenant
+3 Thalia, Guardian of Thraben
 3 Reflector Mage
 3 Meddling Mage
 3 Mother of Runes
-3 Thalia, Guardian of Thraben
 3 Mantis Rider
 3 Noble Hierarch
 4 Mother of Runes
@@ -113,14 +113,11 @@
 4 Narcomoeba
 4 Shambling Shell
 4 Dread Return
-1 Savannah
 1 Swamp
-1 Windswept Heath
-1 Forest
-1 Phyrexian Tower
 1 Bayou
-1 Sylvan Library
+1 Phyrexian Tower
 1 Nicol Bolas, God-Pharaoh
+1 Sylvan Library
 1 Evolutionary Leap
 1 Sandwurm Convergence
 1 Collective Brutality
@@ -132,6 +129,8 @@
 1 Omniscience
 1 Ancient Tomb
 1 Dovescape
+1 Windswept Heath
+1 Savannah
 1 Thoughtseize
 1 Verdant Catacombs
 1 Scrubland
@@ -142,6 +141,7 @@
 1 Eureka
 1 Plains
 1 Overwhelming Splendor
+1 Forest
 2 Swamp
 2 Eureka
 2 Forest
@@ -164,8 +164,8 @@
 3 Verdant Catacombs
 3 Veteran Explorer
 4 Windswept Heath
-4 Verdant Catacombs
 4 Forest
+4 Verdant Catacombs
 4 Veteran Explorer
 4 Living Wish
 5 Forest
@@ -204,8 +204,8 @@
 3 Impulse
 3 Scalding Tarn
 3 Island
-3 Preordain
 3 Pact of Negation
+3 Preordain
 3 Blighted Agent
 3 Progenitus
 3 Daze
@@ -214,14 +214,14 @@
 3 Inkmoth Nexus
 3 Blazing Shoal
 4 Ponder
-4 Preordain
 4 Cunning Wish
+4 Preordain
 4 Scalding Tarn
 4 Blighted Agent
 4 Progenitus
 4 Island
 4 Inkmoth Nexus
 4 Brainstorm
-6 Island
-7 Island
 5 Island
+7 Island
+6 Island
