@@ -8,6 +8,10 @@ if exists("./Legacy"):
     rmtree("./Legacy")
 if exists("./Standard"):
     rmtree("./Standard")
+if exists("./mtggoldfish"):
+    rmtree("./mtggoldfish")
+if exists("./mtgtop8"):
+    rmtree("./mtgtop8")
 if exists("cached_files.pkl"):
     with open("cached_decklists.pkl") as fp:
         cached_files = pickle.load(fp)

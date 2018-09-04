@@ -110,7 +110,7 @@ def merge_markdown_tables(input1, input2, title):
     return res
 
 
-def run(title, dir, format):
+def run(title, dir, format, site):
     everything = f"# {title}\n\n#### [Export MTGO List](../collection/{title.replace(' ', '%20')}/{title.replace(' ', '%20')}.txt)"
     maindeckString = ""
     sideboardString = ""
@@ -148,22 +148,23 @@ def run(title, dir, format):
     else:
         log("\t\tNo other options for maindeck or sideboard", 'warning')
 
-    if not exists(f"./{format}/decks"):
-        makedirs(f"./{format}/decks")
-    with open(f"./{format}/decks/{title.replace(' ', '_')}.md", "w") as fp:
+    if not exists(f"./{site}/{format}/decks"):
+        makedirs(f"./{site}/{format}/decks")
+    with open(f"./{site}/{format}/decks/{title.replace(' ', '_')}.md", "w") as fp:
         fp.write(everything)
 
 
 if __name__ == "__main__":
     start = time()
-    for format in ["Standard", "Modern", "Legacy"]:
-        d = f'./{format}/collection'
-        archetypes = [(o, os.path.join(d, o)) for o in os.listdir(d)
-                      if os.path.isdir(os.path.join(d, o))]
-        for title, dir in archetypes:
-            log(f"\tGenerating Page for {title}")
-            run(title, dir, format)
+    for site in ["mtggoldfish", "mtgtop8"]:
+        for format in ["Standard", "Modern", "Legacy"]:
+            d = f'./{site}/{format}/collection'
+            archetypes = [(o, os.path.join(d, o)) for o in os.listdir(d)
+                          if os.path.isdir(os.path.join(d, o))]
+            for title, dir in archetypes:
+                log(f"\tGenerating Page for {title}")
+                run(title, dir, format, site)
 
-        with open("card_backup.pkl", "wb") as fp:
-            pickle.dump(memoizer, fp)
+            with open("card_backup.pkl", "wb") as fp:
+                pickle.dump(memoizer, fp)
     log(f"Time for generating decklists: {str(datetime.timedelta(seconds=time()-start))}")

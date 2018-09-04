@@ -47,20 +47,20 @@ def run(n=2, mypath=None, onlyfiles=None):
 
     return mainDeck, removed_mainDeck, sideBoard, removed_sideBoard
 
-def call_this_function(name, format, n=2, mypath=None, onlyfiles=None):
+def call_this_function(name, format, site, n=2, mypath=None, onlyfiles=None):
     log("\t\tComputing final and sideboard")
     data = run(n, mypath, onlyfiles)
     log("\t\tFinished Computation")
-    if not exists("{}/collection/{}".format(format, name)):
-        makedirs("{}/collection/{}".format(format,  name))
+    if not exists("{}/{}/collection/{}".format(site, format, name)):
+        makedirs("{}/{}/collection/{}".format(site, format,  name))
     log("\t\tSaving decklists")
     for filename, cur_data in zip(['Maindeck', 'Maindeck_options', 'Sideboard', 'Sideboard_options'], data):
         if cur_data and type(cur_data[0]) != tuple:
             cur_data = [(x.name, x.position) for x in cur_data]
-        with open("{}/collection/{}/{}.txt".format(format, name, filename), "w") as fp:
+        with open("{}/{}/collection/{}/{}.txt".format(site, format, name, filename), "w") as fp:
             for cardname, quantity in cur_data:
                 fp.write("{} {}\n".format(quantity, cardname))
-    with open("{}/collection/{}/{}.txt".format(format, name, name), "w") as fp:
+    with open("{}/{}/collection/{}/{}.txt".format(site, format, name, name), "w") as fp:
         for cardname, quantity in data[0]:
             fp.write("{} {}\n".format(quantity, cardname))
         fp.write("Sideboard\n")

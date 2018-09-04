@@ -7,8 +7,8 @@ from math import ceil
 import datetime
 from logger import log
 
-def format_paths(format):
-    mypath = f"./{format}/decks/"
+def format_paths(format, site):
+    mypath = f"./{site}/{format}/decks/"
     onlyfiles = sorted(
         [f"[{f[:-3].replace('_', ' ')}]({mypath}{f})" for f in listdir(mypath) if isfile(join(mypath, f))])
     return onlyfiles
@@ -34,21 +34,29 @@ def generate_table(title, files):
     return res
 
 
-def create(format):
-    files = format_paths(format)
+def create(format, site):
+    files = format_paths(format, site)
     q = generate_table(f"{format}\n", files)
     return q.getvalue()
 
 
 def output():
-    everything = "# Stock Decklists\n\n"
+    everything = "# Stock Decklists\n #### Based on mtggoldfish\n\n"
     for format in ["Standard", "Modern", "Legacy"]:
-        everything += "\n" + create(format)
+        everything += "\n" + create(format, 'mtggoldfish')
 
     everything += f"\n\n#### Last Updated at {datetime.datetime.now().strftime('%I:%M%p on %B %d, %Y')}"
     with open("README.md", "w") as fp:
         fp.write(everything)
 
+    everything = "# Stock Decklists\n #### Based on mtgtop8\n\n"
+    for format in ["Standard", "Modern", "Legacy"]:
+        everything += "\n" + create(format, 'mtgtop8')
+
+    everything += f"\n\n#### Last Updated at {datetime.datetime.now().strftime('%I:%M%p on %B %d, %Y')}"
+    with open("mtgtop8.md", "w") as fp:
+        fp.write(everything)
+        
 
 if __name__ == "__main__":
     log("Generating readme.")
