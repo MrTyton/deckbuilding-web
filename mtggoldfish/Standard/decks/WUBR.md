@@ -45,7 +45,7 @@
 |                    3|[Syncopate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=270369)          |                    2|[Sweltering Suns](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426851)     |
 |                    4|[Magma Spray](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=338470)        |                    2|[Walking Ballista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423848)    |
 |                    3|[Essence Scatter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438446)    |                    2|[Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)              |
-|                     |                                                                                              |                    3|[Walking Ballista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423848)    |
 |                     |                                                                                              |                    3|[Vizier of Many Faces](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426776)|
+|                     |                                                                                              |                    3|[Walking Ballista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423848)    |
 |                     |                                                                                              |                    4|[Walking Ballista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423848)    |
 

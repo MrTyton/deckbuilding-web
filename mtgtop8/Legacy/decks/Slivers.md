@@ -37,8 +37,8 @@
 |                     |             |                    1|[Thalia, Guardian of Thraben](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442025)|
 |                     |             |                    1|[Hunter Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=44772)               |
 |                     |             |                    1|[Syphon Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370752)              |
-|                     |             |                    2|[Hunter Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=44772)               |
 |                     |             |                    2|[Faerie Macabre](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370410)             |
+|                     |             |                    2|[Hunter Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=44772)               |
 |                     |             |                    3|[Faerie Macabre](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370410)             |
 |                     |             |                    4|[Faerie Macabre](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370410)             |
 |                     |             |                    2|[Thalia, Guardian of Thraben](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442025)|

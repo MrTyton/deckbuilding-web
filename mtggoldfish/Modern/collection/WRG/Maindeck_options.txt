@@ -1,4 +1,4 @@
-3 Windswept Heath
+1 Chandra, Torch of Defiance
 1 Tireless Tracker
 1 Temple Garden
 4 Windswept Heath
@@ -11,34 +11,72 @@
 2 Birds of Paradise
 3 Birds of Paradise
 2 Temple Garden
+1 Nykthos, Shrine to Nyx
+1 Utopia Sprawl
+1 Arbor Elf
+2 Nykthos, Shrine to Nyx
+2 Utopia Sprawl
+2 Arbor Elf
+3 Arbor Elf
+3 Nykthos, Shrine to Nyx
+3 Utopia Sprawl
+4 Utopia Sprawl
+4 Arbor Elf
+4 Forest
+2 Tireless Tracker
+1 Eternal Witness
+1 Primal Command
+1 Courser of Kruphix
+2 Primal Command
+2 Eternal Witness
+3 Primal Command
+1 Craterhoof Behemoth
+1 Burning-Tree Emissary
+2 Burning-Tree Emissary
+3 Burning-Tree Emissary
+4 Burning-Tree Emissary
+4 Nykthos, Shrine to Nyx
 1 Scavenging Ooze
+1 Collected Company
+1 Woodland Bellower
+1 Reclamation Sage
+1 Fauna Shaman
+1 Strangleroot Geist
+2 Courser of Kruphix
+2 Collected Company
+2 Fauna Shaman
+2 Strangleroot Geist
+3 Eternal Witness
+3 Collected Company
+4 Collected Company
+1 Walking Ballista
+1 Vizier of Remedies
+1 Devoted Druid
+2 Devoted Druid
+3 Devoted Druid
+4 Devoted Druid
 1 Ghost Quarter
 1 Shalai, Voice of Plenty
 1 Chord of Calling
 1 Duskwatch Recruiter
 1 Rhonas the Indomitable
-1 Walking Ballista
 1 Eldritch Evolution
-1 Vizier of Remedies
 1 Noble Hierarch
 1 Field of Ruin
 1 Horizon Canopy
 1 Voice of Resurgence
 1 Plains
-1 Devoted Druid
 2 Walking Ballista
 2 Chord of Calling
 2 Noble Hierarch
-2 Devoted Druid
 2 Field of Ruin
 2 Ghost Quarter
 2 Duskwatch Recruiter
 2 Voice of Resurgence
-2 Vizier of Remedies
 2 Eldritch Evolution
+2 Vizier of Remedies
 3 Voice of Resurgence
 3 Chord of Calling
-3 Devoted Druid
 3 Duskwatch Recruiter
 3 Eldritch Evolution
 3 Vizier of Remedies
@@ -46,7 +84,6 @@
 4 Chord of Calling
 4 Birds of Paradise
 4 Vizier of Remedies
-4 Devoted Druid
 4 Eldritch Evolution
 1 Prismatic Omen
 2 Prismatic Omen
@@ -84,30 +121,22 @@
 4 Boom/Bust
 4 Scapeshift
 2 Emrakul, the Aeons Torn
+1 Path to Exile
+2 Path to Exile
+3 Path to Exile
 1 Obstinate Baloth
 1 Relic of Progenitus
 2 Relic of Progenitus
-2 Tireless Tracker
-4 Forest
 4 Summoner's Pact
+1 Acidic Slime
+1 Garruk Wildspeaker
+1 Hornet Queen
+1 Oath of Nissa
+2 Garruk Wildspeaker
+2 Oath of Nissa
+3 Oath of Nissa
+3 Garruk Wildspeaker
 1 Misty Rainforest
-1 Nykthos, Shrine to Nyx
-1 Craterhoof Behemoth
-1 Utopia Sprawl
-1 Arbor Elf
-1 Burning-Tree Emissary
-2 Nykthos, Shrine to Nyx
-2 Utopia Sprawl
-2 Arbor Elf
-2 Burning-Tree Emissary
-3 Arbor Elf
-3 Burning-Tree Emissary
-3 Nykthos, Shrine to Nyx
-3 Utopia Sprawl
-4 Burning-Tree Emissary
-4 Utopia Sprawl
-4 Nykthos, Shrine to Nyx
-4 Arbor Elf
 1 Nahiri, the Harbinger
 1 Cavern of Souls
 1 Engineered Explosives
@@ -122,29 +151,23 @@
 4 Prismatic Omen
 4 Simian Spirit Guide
 4 Lightning Bolt
-1 Collected Company
-1 Courser of Kruphix
-1 Primal Command
-1 Woodland Bellower
-1 Reclamation Sage
-1 Fauna Shaman
-1 Eternal Witness
-1 Strangleroot Geist
-2 Courser of Kruphix
-2 Collected Company
-2 Primal Command
-2 Eternal Witness
-2 Fauna Shaman
-2 Strangleroot Geist
-3 Eternal Witness
-3 Collected Company
-3 Primal Command
-4 Collected Company
 1 Molten Vortex
-1 Path to Exile
-2 Path to Exile
-3 Path to Exile
 4 Path to Exile
+1 Thragtusk
+1 Nissa, Voice of Zendikar
+1 Kitchen Finks
+1 Thrun, the Last Troll
+1 Ruric Thar, the Unbowed
+1 Snow-Covered Forest
+1 Gigantosaurus
+2 Nissa, Voice of Zendikar
+2 Snow-Covered Forest
+3 Snow-Covered Forest
+4 Oath of Nissa
+4 Garruk Wildspeaker
+4 Snow-Covered Forest
+5 Snow-Covered Forest
+6 Snow-Covered Forest
 1 Wurmcoil Engine
 1 Chandra, Flamecaller
 1 Vivien Reid
@@ -155,26 +178,7 @@
 2 Obstinate Baloth
 2 Generator Servant
 7 Mountain
-1 Thragtusk
-1 Nissa, Voice of Zendikar
-1 Kitchen Finks
-1 Thrun, the Last Troll
-1 Ruric Thar, the Unbowed
-1 Acidic Slime
-1 Garruk Wildspeaker
-1 Snow-Covered Forest
-1 Gigantosaurus
-1 Hornet Queen
-1 Oath of Nissa
-2 Nissa, Voice of Zendikar
-2 Garruk Wildspeaker
-2 Oath of Nissa
-2 Snow-Covered Forest
-3 Oath of Nissa
-3 Snow-Covered Forest
-3 Garruk Wildspeaker
-4 Oath of Nissa
-4 Garruk Wildspeaker
-5 Snow-Covered Forest
-6 Snow-Covered Forest
-4 Snow-Covered Forest
+1 Verdant Catacombs
+1 Polukranos, World Eater
+4 Primal Command
+5 Forest
