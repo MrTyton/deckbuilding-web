@@ -106,7 +106,7 @@
 |                     |                                                                                                    |                    3|[Qasali Ambusher](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174869)            |
 |                     |                                                                                                    |                    1|[Auriok Champion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438575)            |
 |                     |                                                                                                    |                    2|[Auriok Champion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438575)            |
-|                     |                                                                                                    |                    3|[Fiery Justice](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425989)              |
 |                     |                                                                                                    |                    3|[Auriok Champion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438575)            |
+|                     |                                                                                                    |                    3|[Fiery Justice](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425989)              |
 |                     |                                                                                                    |                    4|[Auriok Champion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438575)            |
 

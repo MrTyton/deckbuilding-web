@@ -78,6 +78,7 @@
 2 Plains
 1 Sphere of Safety
 1 Oblivion Ring
+1 Arbor Elf
 1 Dovescape
 1 Sandwurm Convergence
 1 Leyline of Sanctity
@@ -87,17 +88,16 @@
 1 Utopia Sprawl
 1 Abundant Growth
 1 Unbridled Growth
-1 Arbor Elf
 1 Courser of Kruphix
 1 Fertile Ground
 1 Enduring Ideal
+2 Courser of Kruphix
+2 Arbor Elf
 2 Leyline of Sanctity
 2 Enduring Ideal
-2 Arbor Elf
 2 Utopia Sprawl
 2 Abundant Growth
 2 Fertile Ground
-2 Courser of Kruphix
 2 Unbridled Growth
 2 Eidolon of Blossoms
 2 Ghostly Prison
@@ -112,11 +112,11 @@
 3 Utopia Sprawl
 4 Courser of Kruphix
 4 Temple Garden
+4 Arbor Elf
 4 Abundant Growth
 4 Eidolon of Blossoms
 4 Enduring Ideal
 4 Utopia Sprawl
-4 Arbor Elf
 4 Ghostly Prison
 1 Steel Leaf Champion
 2 Steel Leaf Champion
@@ -130,24 +130,24 @@
 4 Boreal Druid
 5 Forest
 6 Forest
-1 Eiganjo Castle
-1 Archangel Avacyn
 1 Field of Ruin
 1 Squadron Hawk
-1 Thalia's Lancers
 1 Oketra's Monument
-1 Ranger of Eos
 1 Cataclysmic Gearhulk
 1 Path to Exile
 1 Hex Parasite
 1 Whitemane Lion
+1 Thalia's Lancers
 1 Bruna, the Fading Light
+1 Archangel Avacyn
 1 Karametra, God of Harvests
 1 Gisela, the Broken Blade
 1 Emeria, the Sky Ruin
 1 Scattered Groves
 1 Thraben Inspector
 1 Martyr of Sands
+1 Eiganjo Castle
+1 Ranger of Eos
 2 Field of Ruin
 2 Path to Exile
 2 Squadron Hawk
@@ -163,21 +163,21 @@
 2 Scattered Groves
 2 Whitemane Lion
 3 Plains
-3 Thraben Inspector
 3 Squadron Hawk
 3 Field of Ruin
 3 Oketra's Monument
 3 Path to Exile
+3 Thraben Inspector
 3 Martyr of Sands
 3 Emeria, the Sky Ruin
 3 Whitemane Lion
 3 Ranger of Eos
-4 Path to Exile
 4 Squadron Hawk
-4 Thraben Inspector
 4 Field of Ruin
 4 Emeria, the Sky Ruin
 4 Plains
+4 Path to Exile
+4 Thraben Inspector
 4 Martyr of Sands
 5 Plains
 6 Plains

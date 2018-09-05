@@ -3,14 +3,14 @@
 3 Vine Mare
 1 Servant of the Conduit
 2 Servant of the Conduit
-1 Hinterland Harbor
 1 Botanical Sanctum
-2 Hinterland Harbor
+1 Hinterland Harbor
 2 Botanical Sanctum
-3 Botanical Sanctum
+2 Hinterland Harbor
 3 Hinterland Harbor
-4 Botanical Sanctum
+3 Botanical Sanctum
 4 Hinterland Harbor
+4 Botanical Sanctum
 13 Forest
 1 Aether Hub
 4 Thrashing Brontodon
@@ -49,8 +49,8 @@
 17 Forest
 18 Forest
 3 Resilient Khenra
-1 Spell Pierce
 1 Swamp
+1 Spell Pierce
 1 Scavenger Grounds
 1 Jadelight Ranger
 2 Jadelight Ranger
@@ -79,10 +79,10 @@
 3 Longtusk Cub
 4 Resilient Khenra
 4 Longtusk Cub
-1 Hazoret the Fervent
 1 Rootbound Crag
 1 Sheltered Thicket
 1 Sarkhan's Unsealing
+1 Hazoret the Fervent
 2 Sheltered Thicket
 2 Rootbound Crag
 2 Sarkhan's Unsealing

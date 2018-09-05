@@ -80,8 +80,8 @@
 |                    3|[Spellstutter Sprite](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370380)   |                     |                                                                                                  |
 |                    3|[Bitterblossom](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397701)         |                     |                                                                                                  |
 |                    3|[Mutavault](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=152724)             |                     |                                                                                                  |
-|                    4|[Scalding Tarn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426069)         |                     |                                                                                                  |
 |                    4|[Snapcaster Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425875)       |                     |                                                                                                  |
+|                    4|[Scalding Tarn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426069)         |                     |                                                                                                  |
 |                    4|[Spellstutter Sprite](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370380)   |                     |                                                                                                  |
 |                    4|[Bitterblossom](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397701)         |                     |                                                                                                  |
 

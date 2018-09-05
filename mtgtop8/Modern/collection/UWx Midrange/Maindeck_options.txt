@@ -6,16 +6,6 @@
 5 Island
 1 Polluted Delta
 2 Polluted Delta
-1 Teferi, Hero of Dominaria
-1 Geist of Saint Traft
-1 Opt
-1 Logic Knot
-2 Geist of Saint Traft
-2 Logic Knot
-2 Opt
-3 Geist of Saint Traft
-3 Opt
-4 Opt
 1 Arid Mesa
 1 Emrakul, the Aeons Torn
 1 Remand
@@ -42,10 +32,10 @@
 1 Fatal Push
 1 Creeping Tar Pit
 1 Godless Shrine
+1 River of Tears
 1 Batterskull
 1 Thoughtseize
 1 Serum Visions
-1 River of Tears
 2 Inquisition of Kozilek
 2 Tasigur, the Golden Fang
 2 Fatal Push
@@ -59,6 +49,16 @@
 3 Tasigur, the Golden Fang
 4 Polluted Delta
 4 Serum Visions
+1 Teferi, Hero of Dominaria
+1 Geist of Saint Traft
+1 Opt
+1 Logic Knot
+2 Geist of Saint Traft
+2 Logic Knot
+2 Opt
+3 Geist of Saint Traft
+3 Opt
+4 Opt
 1 Venser, Shaper Savant
 1 Supreme Verdict
 1 Settle the Wreckage
@@ -70,10 +70,10 @@
 2 Knight of the White Orchid
 2 Glory-Bound Initiate
 3 Cryptic Command
+3 Spreading Seas
 3 Field of Ruin
 3 Glory-Bound Initiate
 3 Restoration Angel
-3 Spreading Seas
 4 Glory-Bound Initiate
 4 Spreading Seas
 4 Celestial Colonnade
