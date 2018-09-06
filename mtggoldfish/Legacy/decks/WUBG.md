@@ -146,7 +146,6 @@
 |                    3|[Marsh Flats](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426064)               |                     |              |
 |                    3|[Serum Visions](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425874)             |                     |              |
 |                    3|[Preordain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=265979)                 |                     |              |
-|                    3|[Into the North](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121199)            |                     |              |
 |                    3|[Intuition](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397633)                 |                     |              |
 |                    3|[Leovold, Emissary of Trest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416834)|                     |              |
 |                    3|[Jace, Vryn's Prodigy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439335)      |                     |              |
@@ -177,6 +176,7 @@
 |                    3|[Search for Azcanta](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435226)        |                     |              |
 |                    3|[Green Sun's Zenith](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413711)        |                     |              |
 |                    3|[Underground Sea](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383142)           |                     |              |
+|                    3|[Into the North](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121199)            |                     |              |
 |                    3|[Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)              |                     |              |
 |                    3|[Diabolic Edict](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442074)            |                     |              |
 |                    3|[Baleful Strix](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423507)             |                     |              |
