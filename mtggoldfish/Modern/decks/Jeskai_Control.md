@@ -110,8 +110,8 @@
 |                    1|[Wall of Omens](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413576)            |                     |                                                                                                  |
 |                    3|[Supreme Verdict](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438776)          |                     |                                                                                                  |
 |                    3|[Glacial Fortress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435416)         |                     |                                                                                                  |
-|                    4|[Glacial Fortress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435416)         |                     |                                                                                                  |
 |                    4|[Field of Ruin](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435415)            |                     |                                                                                                  |
+|                    4|[Glacial Fortress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435416)         |                     |                                                                                                  |
 |                    5|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439602)                   |                     |                                                                                                  |
 |                    6|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439602)                   |                     |                                                                                                  |
 

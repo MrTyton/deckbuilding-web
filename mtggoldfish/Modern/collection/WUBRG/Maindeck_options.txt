@@ -38,10 +38,10 @@
 3 Misty Rainforest
 3 Jeskai Ascendancy
 3 Glittering Wish
-3 Serum Visions
 3 Sleight of Hand
 3 Birds of Paradise
 3 Manamorphose
+3 Serum Visions
 3 Cerulean Wisps
 4 Misty Rainforest
 4 Serum Visions
@@ -89,11 +89,11 @@
 2 Tribal Flames
 2 Street Wraith
 2 Death's Shadow
+2 Marsh Flats
 2 Blightning
 2 Bloodbraid Elf
 2 Tarmogoyf
 2 Arid Mesa
-2 Marsh Flats
 3 Thoughtseize
 3 Lightning Bolt
 3 Mantis Rider
@@ -125,38 +125,38 @@
 1 Forest
 3 Bloodstained Mire
 4 Bloodstained Mire
-1 Grisly Salvage
 1 Cavern of Souls
 1 Bomat Courier
 1 Lightning Axe
 1 Hazoret the Fervent
 1 Lotleth Troll
 1 Soulflayer
+1 Grisly Salvage
 1 Zetalpa, Primal Dawn
+1 Traverse the Ulvenwald
 1 Verdant Catacombs
 1 Samut, Voice of Dissent
 1 Chromanticore
 1 Drogskol Reaver
-1 Traverse the Ulvenwald
-2 Grisly Salvage
 2 Bomat Courier
 2 Traverse the Ulvenwald
 2 Swamp
 2 Overgrown Tomb
-2 Soulflayer
 2 Zetalpa, Primal Dawn
+2 Grisly Salvage
 2 Verdant Catacombs
 2 Samut, Voice of Dissent
 2 Drogskol Reaver
+2 Soulflayer
 2 Lotleth Troll
 3 Bomat Courier
 3 Grisly Salvage
 3 Soulflayer
 3 Samut, Voice of Dissent
 3 Zetalpa, Primal Dawn
-3 Traverse the Ulvenwald
 3 Lotleth Troll
 3 Verdant Catacombs
+3 Traverse the Ulvenwald
 4 Bomat Courier
 4 Grisly Salvage
 4 Traverse the Ulvenwald
@@ -170,8 +170,8 @@
 3 Stitcher's Supplier
 4 Stitcher's Supplier
 1 Field of Ruin
-1 Cathartic Reunion
 1 Urborg, Tomb of Yawgmoth
+1 Cathartic Reunion
 1 Lingering Souls
 1 Borborygmos Enraged
 1 Conflagrate
@@ -188,10 +188,10 @@
 2 Sacred Foundry
 2 Unburial Rites
 2 Lingering Souls
-2 Urborg, Tomb of Yawgmoth
 2 Stinkweed Imp
 2 Stomping Ground
 2 Conflagrate
+2 Urborg, Tomb of Yawgmoth
 2 Narcomoeba
 2 Life from the Loam
 3 Lingering Souls
@@ -205,18 +205,18 @@
 4 Life from the Loam
 1 Polluted Delta
 1 Bloodghast
+1 Gravecrawler
 1 Hedron Crab
 1 Walking Ballista
-1 Insolent Neonate
 1 Vengevine
+1 Insolent Neonate
 1 Bridge from Below
-1 Gravecrawler
 1 Viscera Seer
 1 Prized Amalgam
 2 Walking Ballista
 2 Polluted Delta
-2 Prized Amalgam
 2 Bloodghast
+2 Prized Amalgam
 2 Insolent Neonate
 2 Hedron Crab
 2 Vengevine
@@ -225,20 +225,20 @@
 2 Viscera Seer
 2 Bridge from Below
 3 Polluted Delta
+3 Bloodghast
 3 Walking Ballista
 3 Hedron Crab
 3 Insolent Neonate
-3 Bloodghast
 3 Vengevine
 3 Prized Amalgam
 3 Viscera Seer
-3 Gravecrawler
 3 Bridge from Below
+3 Gravecrawler
 4 Prized Amalgam
 4 Insolent Neonate
 4 Gravecrawler
-4 Polluted Delta
 4 Hedron Crab
+4 Polluted Delta
 4 Vengevine
 4 Bridge from Below
 4 Walking Ballista

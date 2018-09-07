@@ -3,8 +3,8 @@
 3 Vine Mare
 1 Servant of the Conduit
 2 Servant of the Conduit
-1 Botanical Sanctum
 1 Hinterland Harbor
+1 Botanical Sanctum
 2 Botanical Sanctum
 2 Hinterland Harbor
 3 Hinterland Harbor
@@ -55,6 +55,7 @@
 1 Jadelight Ranger
 2 Jadelight Ranger
 3 Jadelight Ranger
+4 Aether Hub
 1 Cast Out
 1 Shalai, Voice of Plenty
 1 Lyra Dawnbringer
@@ -75,24 +76,23 @@
 4 Scattered Groves
 1 Longtusk Cub
 2 Longtusk Cub
-3 Rishkar, Peema Renegade
 3 Longtusk Cub
+3 Rishkar, Peema Renegade
 4 Resilient Khenra
 4 Longtusk Cub
-1 Rootbound Crag
-1 Sheltered Thicket
-1 Sarkhan's Unsealing
-1 Hazoret the Fervent
-2 Sheltered Thicket
-2 Rootbound Crag
-2 Sarkhan's Unsealing
-3 Sheltered Thicket
-3 Rootbound Crag
-3 Sarkhan's Unsealing
-4 Sheltered Thicket
-4 Rootbound Crag
-4 Sarkhan's Unsealing
 2 Aethersphere Harvester
 2 Skysovereign, Consul Flagship
 19 Forest
-4 Aether Hub
+1 Sheltered Thicket
+1 Rootbound Crag
+1 Sarkhan's Unsealing
+1 Hazoret the Fervent
+2 Rootbound Crag
+2 Sarkhan's Unsealing
+2 Sheltered Thicket
+3 Sheltered Thicket
+3 Rootbound Crag
+3 Sarkhan's Unsealing
+4 Rootbound Crag
+4 Sheltered Thicket
+4 Sarkhan's Unsealing

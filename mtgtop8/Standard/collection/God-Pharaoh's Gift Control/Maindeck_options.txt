@@ -4,10 +4,10 @@
 4 Irrigated Farmland
 3 Ipnu Rivulet
 1 Gate to the Afterlife
-2 Gate to the Afterlife
 2 Walking Ballista
-3 Walking Ballista
+2 Gate to the Afterlife
 3 Aether Hub
+3 Walking Ballista
 3 Gate to the Afterlife
 4 Gate to the Afterlife
 4 Walking Ballista
@@ -19,21 +19,21 @@
 1 Botanical Sanctum
 1 Llanowar Elves
 1 Forest
+2 Llanowar Elves
 2 Botanical Sanctum
 2 Forest
-2 Llanowar Elves
-3 Botanical Sanctum
 3 Llanowar Elves
+3 Botanical Sanctum
 3 Forest
-4 Botanical Sanctum
 4 Llanowar Elves
-1 Hinterland Harbor
+4 Botanical Sanctum
 1 Verdurous Gearhulk
+1 Hinterland Harbor
 1 Merfolk Branchwalker
 1 Glint-Nest Crane
 2 Verdurous Gearhulk
-2 Merfolk Branchwalker
 2 Glint-Nest Crane
+2 Merfolk Branchwalker
 3 Verdurous Gearhulk
 3 Merfolk Branchwalker
 4 Merfolk Branchwalker
@@ -48,34 +48,34 @@
 3 Glint-Nest Crane
 3 Hostage Taker
 1 Thopter Arrest
+1 Ravenous Chupacabra
 1 Stitcher's Supplier
 1 Drowned Catacomb
-1 Ravenous Chupacabra
-2 Stitcher's Supplier
 2 Swamp
-3 Stitcher's Supplier
+2 Stitcher's Supplier
 3 Swamp
+3 Stitcher's Supplier
 1 Trophy Mage
 2 Trophy Mage
 1 Exclusion Mage
-1 Kitesail Freebooter
 1 Fetid Pools
-2 Kitesail Freebooter
-2 Fetid Pools
+1 Kitesail Freebooter
 2 Drowned Catacomb
-3 Kitesail Freebooter
-3 Fetid Pools
+2 Fetid Pools
+2 Kitesail Freebooter
 3 Drowned Catacomb
+3 Fetid Pools
+3 Kitesail Freebooter
 2 Jadelight Ranger
 4 Stitcher's Supplier
 2 Ravenous Chupacabra
 1 Angel of Sanctions
 1 Negate
 2 Thrashing Brontodon
-1 Concealed Courtyard
 1 Glint-Sleeve Siphoner
-2 Concealed Courtyard
+1 Concealed Courtyard
 2 Glint-Sleeve Siphoner
+2 Concealed Courtyard
 3 Concealed Courtyard
 4 Concealed Courtyard
 4 Fetid Pools
@@ -90,37 +90,37 @@
 1 Aethersphere Harvester
 1 Teferi, Hero of Dominaria
 1 Shalai, Voice of Plenty
-2 Exclusion Mage
 1 Baffling End
 1 Ixalan's Binding
 2 Baffling End
-1 Servant of the Conduit
-1 Liliana, Death's Majesty
+2 Exclusion Mage
+1 Reclamation Sage
 1 The Scarab God
+1 Liliana, Death's Majesty
+1 Servant of the Conduit
 1 Multani, Yavimaya's Avatar
 1 Pelakka Wurm
 1 Woodland Cemetery
 1 Seekers' Squire
-1 Reclamation Sage
 1 Torgaar, Famine Incarnate
 1 Noxious Gearhulk
-2 Servant of the Conduit
 2 Liliana, Death's Majesty
+2 Servant of the Conduit
 2 The Scarab God
 2 Seekers' Squire
 3 Sunscourge Champion
-1 Cathartic Reunion
+1 Spirebluff Canal
 1 Fanatical Firebrand
 1 Bomat Courier
-1 Mountain
-1 Spirebluff Canal
 1 Vizier of Many Faces
+1 Cathartic Reunion
+1 Mountain
 1 Combat Celebrant
 1 Warkite Marauder
-2 Cathartic Reunion
-2 Fanatical Firebrand
-2 Bomat Courier
 2 Spirebluff Canal
+2 Fanatical Firebrand
+2 Cathartic Reunion
+2 Bomat Courier
 2 Vizier of Many Faces
 2 Combat Celebrant
 2 Mountain
@@ -129,9 +129,9 @@
 3 Bomat Courier
 3 Combat Celebrant
 3 Mountain
-4 Bomat Courier
 4 Fanatical Firebrand
 4 Combat Celebrant
+4 Bomat Courier
 4 Mountain
 5 Mountain
 6 Mountain

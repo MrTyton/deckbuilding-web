@@ -36,8 +36,8 @@
 3 Elvish Mystic
 3 Dwynen's Elite
 3 Llanowar Elves
-3 Collected Company
 3 Elvish Clancaller
+3 Collected Company
 3 Heritage Druid
 3 Elvish Archdruid
 4 Elvish Clancaller
@@ -54,11 +54,11 @@
 2 Overgrown Tomb
 1 Breeding Pool
 1 Ghost Quarter
+1 Scavenging Ooze
 1 Godless Shrine
 1 Marsh Flats
 1 Murderous Redcap
 1 Swamp
-1 Scavenging Ooze
 2 Eternal Witness
 2 Marsh Flats
 2 Ghost Quarter
@@ -80,8 +80,8 @@
 1 Oblivion Ring
 1 Arbor Elf
 1 Dovescape
-1 Sandwurm Convergence
 1 Leyline of Sanctity
+1 Sandwurm Convergence
 1 Eidolon of Blossoms
 1 Ghostly Prison
 1 Boseiju, Who Shelters All
@@ -132,7 +132,6 @@
 6 Forest
 1 Field of Ruin
 1 Squadron Hawk
-1 Oketra's Monument
 1 Cataclysmic Gearhulk
 1 Path to Exile
 1 Hex Parasite
@@ -142,6 +141,7 @@
 1 Archangel Avacyn
 1 Karametra, God of Harvests
 1 Gisela, the Broken Blade
+1 Oketra's Monument
 1 Emeria, the Sky Ruin
 1 Scattered Groves
 1 Thraben Inspector
@@ -151,10 +151,10 @@
 2 Field of Ruin
 2 Path to Exile
 2 Squadron Hawk
-2 Oketra's Monument
 2 Mistveil Plains
 2 Emeria, the Sky Ruin
 2 Thraben Inspector
+2 Oketra's Monument
 2 Ranger of Eos
 2 Cataclysmic Gearhulk
 2 Martyr of Sands
@@ -165,9 +165,9 @@
 3 Plains
 3 Squadron Hawk
 3 Field of Ruin
-3 Oketra's Monument
 3 Path to Exile
 3 Thraben Inspector
+3 Oketra's Monument
 3 Martyr of Sands
 3 Emeria, the Sky Ruin
 3 Whitemane Lion

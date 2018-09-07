@@ -1,7 +1,9 @@
 1 Scalding Tarn
 1 Fury of the Horde
 1 Urborg, Tomb of Yawgmoth
+1 Serum Visions
 1 Through the Breach
+1 Search for Azcanta
 1 Emrakul, the Aeons Torn
 1 Chart a Course
 1 Mountain
@@ -9,8 +11,6 @@
 1 Goryo's Vengeance
 1 Griselbrand
 1 Spirebluff Canal
-1 Serum Visions
-1 Search for Azcanta
 1 Swamp
 1 Steam Vents
 1 Bloodstained Mire
@@ -20,8 +20,8 @@
 1 Simian Spirit Guide
 1 Izzet Charm
 1 Faithless Looting
-2 Through the Breach
 2 Emrakul, the Aeons Torn
+2 Through the Breach
 2 Chart a Course
 2 Fury of the Horde
 2 Blood Crypt
@@ -46,10 +46,10 @@
 3 Bloodstained Mire
 3 Simian Spirit Guide
 4 Through the Breach
-4 Serum Visions
 4 Fury of the Horde
 4 Goryo's Vengeance
 4 Griselbrand
+4 Serum Visions
 4 Izzet Charm
 4 Faithless Looting
 4 Simian Spirit Guide
@@ -58,11 +58,11 @@
 1 Darkslick Shores
 1 Welding Jar
 1 Aether Spellbomb
-2 Scalding Tarn
 2 Aether Spellbomb
 2 Necrogen Spellbomb
 2 Welding Jar
 2 Darkslick Shores
+2 Scalding Tarn
 3 Scalding Tarn
 3 Island
 4 Scalding Tarn
