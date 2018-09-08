@@ -73,7 +73,7 @@ def parse_deck_page(url, mtgtop8=True):
         raise ConnectionError("Could not connect to website")
     if resp.status_code != 200:
         raise ConnectionError("Error code ".format(resp.status_code))
-    with NamedTemporaryFile(delete=False) as fp:
+    with NamedTemporaryFile(delete=False, dir="./temp") as fp:
         fp.write(resp.text)
         name = fp.name
     cached_files[link] = name

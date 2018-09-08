@@ -12,11 +12,11 @@
 1 Arbor Elf
 1 Utopia Sprawl
 1 Garruk Wildspeaker
-2 Forest
 2 Eternal Witness
 2 Arbor Elf
 2 Utopia Sprawl
 2 Garruk Wildspeaker
+2 Forest
 3 Utopia Sprawl
 3 Nykthos, Shrine to Nyx
 3 Arbor Elf
@@ -76,12 +76,12 @@
 1 Valakut, the Molten Pinnacle
 1 Boom / Bust
 1 Knight of the Reliquary
+2 Prismatic Omen
 2 Explore
 2 Steppe Lynx
 2 Scapeshift
 2 Flagstones of Trokair
 2 Sacred Foundry
-2 Prismatic Omen
 2 Plated Geopede
 2 Valakut, the Molten Pinnacle
 2 Boom / Bust
@@ -133,20 +133,20 @@
 3 Jadelight Ranger
 4 Burning-Tree Emissary
 4 Walking Ballista
+1 Master of Waves
 1 Vendilion Clique
 1 Island
-1 Master of Waves
 1 Merfolk Trickster
 1 Naban, Dean of Iteration
 2 Vendilion Clique
 2 Island
-2 Merfolk Trickster
 2 Master of Waves
+2 Merfolk Trickster
 2 Naban, Dean of Iteration
 3 Island
 3 Merfolk Trickster
-4 Merfolk Trickster
 4 Island
+4 Merfolk Trickster
 5 Island
 6 Island
 1 Hallowed Fountain
@@ -175,11 +175,11 @@
 3 Reflector Mage
 3 Restoration Angel
 3 Path to Exile
-3 Field of Ruin
 3 Aether Vial
 3 Flooded Strand
 3 Silvergill Adept
 3 Naban, Dean of Iteration
+3 Field of Ruin
 3 Venser, Shaper Savant
 4 Reflector Mage
 4 Seachrome Coast
@@ -197,20 +197,20 @@
 1 Phyrexian Obliterator
 1 Relentless Dead
 2 Kalitas, Traitor of Ghet
+2 Liliana of the Veil
+2 Collective Brutality
 2 Geralf's Messenger
 2 Relentless Dead
 2 Bloodghast
-2 Collective Brutality
 2 Phyrexian Obliterator
 2 Gray Merchant of Asphodel
-2 Liliana of the Veil
 3 Liliana of the Veil
-3 Swamp
 3 Collective Brutality
 3 Bloodghast
 3 Phyrexian Obliterator
 3 Relentless Dead
 3 Gray Merchant of Asphodel
+3 Swamp
 3 Geralf's Messenger
 4 Bloodghast
 4 Collective Brutality
@@ -255,10 +255,10 @@
 2 Mystic Archaeologist
 2 Cursecatcher
 2 Rapid Hybridization
+3 Master of Waves
 3 Cloudfin Raptor
 3 Voidmage Prodigy
 3 Tempest Djinn
-3 Master of Waves
 4 Master of Waves
 4 Tempest Djinn
 4 Voidmage Prodigy

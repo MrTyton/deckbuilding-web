@@ -2,9 +2,9 @@
 1 Mantis Rider
 1 Thalia's Lieutenant
 1 Champion of the Parish
+1 Meddling Mage
 1 Kitesail Freebooter
 1 Dark Confidant
-1 Meddling Mage
 1 Reflector Mage
 1 Mother of Runes
 1 Noble Hierarch
@@ -33,18 +33,6 @@
 4 Champion of the Parish
 4 Thalia's Lieutenant
 4 Noble Hierarch
-1 Thalia, Heretic Cathar
-1 Horizon Canopy
-1 Phantasmal Image
-1 Militia Bugler
-1 Sanctum Prelate
-2 Horizon Canopy
-2 Militia Bugler
-2 Phantasmal Image
-3 Horizon Canopy
-4 Mantis Rider
-4 Meddling Mage
-4 Horizon Canopy
 1 Tundra
 2 Dark Confidant
 2 Tundra
@@ -53,6 +41,18 @@
 4 Kitesail Freebooter
 4 Thalia, Guardian of Thraben
 4 Ancient Ziggurat
+1 Thalia, Heretic Cathar
+1 Horizon Canopy
+1 Militia Bugler
+1 Sanctum Prelate
+1 Phantasmal Image
+2 Horizon Canopy
+2 Militia Bugler
+2 Phantasmal Image
+3 Horizon Canopy
+4 Mantis Rider
+4 Horizon Canopy
+4 Meddling Mage
 1 Cabal Therapy
 2 Cabal Therapy
 3 Cabal Therapy
@@ -65,13 +65,13 @@
 1 Golgari Thug
 1 Phantasmagorian
 1 Ichorid
-1 Stinkweed Imp
+1 Nether Shadow
 1 Shambling Shell
 1 Narcomoeba
 1 Bridge from Below
 1 Golgari Grave-Troll
-1 Nether Shadow
 1 Dread Return
+1 Stinkweed Imp
 2 Prized Amalgam
 2 Chancellor of the Annex
 2 Street Wraith
@@ -82,10 +82,10 @@
 2 Whirlpool Rider
 2 Narcomoeba
 2 Stinkweed Imp
-2 Bridge from Below
 2 Dread Return
 2 Nether Shadow
 2 Golgari Grave-Troll
+2 Bridge from Below
 3 Prized Amalgam
 3 Dread Return
 3 Chancellor of the Annex
@@ -102,17 +102,17 @@
 3 Street Wraith
 4 Prized Amalgam
 4 Golgari Thug
+4 Chancellor of the Annex
 4 Ichorid
 4 Bridge from Below
 4 Stinkweed Imp
 4 Phantasmagorian
 4 Nether Shadow
-4 Dread Return
-4 Chancellor of the Annex
 4 Golgari Grave-Troll
 4 Street Wraith
 4 Narcomoeba
 4 Shambling Shell
+4 Dread Return
 1 Swamp
 1 Bayou
 1 Phyrexian Tower
