@@ -1,58 +1,63 @@
-1 Wasteland
+2 Mutavault
+2 Sinew Sliver
+2 Hibernation Sliver
+2 Sliver Hive
+2 Sidewinder Sliver
+2 Muscle Sliver
+2 Predatory Sliver
+2 Crystalline Sliver
+2 Striking Sliver
+2 Galerider Sliver
+2 Winged Sliver
+3 Striking Sliver
+3 Hibernation Sliver
+3 Sliver Hive
+3 Mutavault
+3 Galerider Sliver
+3 Sinew Sliver
+3 Muscle Sliver
+3 Predatory Sliver
+3 Crystalline Sliver
+4 Crystalline Sliver
+4 Hibernation Sliver
+4 Predatory Sliver
+4 Sliver Hive
+4 Galerider Sliver
+4 Striking Sliver
+4 Sinew Sliver
+4 Mutavault
 1 Mantis Rider
-1 Thalia's Lieutenant
-1 Champion of the Parish
-1 Meddling Mage
-1 Kitesail Freebooter
 1 Dark Confidant
 1 Reflector Mage
-1 Mother of Runes
-1 Noble Hierarch
-1 Thalia, Guardian of Thraben
-2 Wasteland
 2 Mantis Rider
-2 Thalia's Lieutenant
-2 Champion of the Parish
 2 Reflector Mage
-2 Kitesail Freebooter
-2 Meddling Mage
-2 Noble Hierarch
-2 Mother of Runes
-2 Thalia, Guardian of Thraben
-3 Wasteland
 3 Mantis Rider
-3 Champion of the Parish
-3 Thalia's Lieutenant
-3 Thalia, Guardian of Thraben
 3 Reflector Mage
-3 Meddling Mage
-3 Mother of Runes
-3 Noble Hierarch
-4 Mother of Runes
-4 Wasteland
-4 Champion of the Parish
-4 Thalia's Lieutenant
-4 Noble Hierarch
-1 Tundra
-2 Dark Confidant
-2 Tundra
-3 Kitesail Freebooter
-3 Karakas
-4 Kitesail Freebooter
-4 Thalia, Guardian of Thraben
-4 Ancient Ziggurat
-1 Thalia, Heretic Cathar
 1 Horizon Canopy
-1 Militia Bugler
-1 Sanctum Prelate
 1 Phantasmal Image
 2 Horizon Canopy
-2 Militia Bugler
 2 Phantasmal Image
 3 Horizon Canopy
-4 Mantis Rider
 4 Horizon Canopy
 4 Meddling Mage
+3 Kitesail Freebooter
+4 Thalia, Guardian of Thraben
+4 Ancient Ziggurat
+1 Imperial Recruiter
+1 Palace Jailer
+1 Orzhov Pontiff
+2 Imperial Recruiter
+3 Phantasmal Image
+1 Thalia, Heretic Cathar
+1 Militia Bugler
+1 Sanctum Prelate
+2 Militia Bugler
+4 Mantis Rider
+1 Tundra
+2 Tundra
+2 Dark Confidant
+3 Karakas
+4 Kitesail Freebooter
 1 Cabal Therapy
 2 Cabal Therapy
 3 Cabal Therapy
@@ -65,13 +70,13 @@
 1 Golgari Thug
 1 Phantasmagorian
 1 Ichorid
-1 Nether Shadow
-1 Shambling Shell
 1 Narcomoeba
+1 Shambling Shell
+1 Stinkweed Imp
 1 Bridge from Below
 1 Golgari Grave-Troll
+1 Nether Shadow
 1 Dread Return
-1 Stinkweed Imp
 2 Prized Amalgam
 2 Chancellor of the Annex
 2 Street Wraith
@@ -80,16 +85,16 @@
 2 Shambling Shell
 2 Ichorid
 2 Whirlpool Rider
-2 Narcomoeba
-2 Stinkweed Imp
-2 Dread Return
 2 Nether Shadow
-2 Golgari Grave-Troll
+2 Stinkweed Imp
 2 Bridge from Below
+2 Dread Return
+2 Narcomoeba
+2 Golgari Grave-Troll
 3 Prized Amalgam
 3 Dread Return
-3 Chancellor of the Annex
 3 Golgari Grave-Troll
+3 Chancellor of the Annex
 3 Whirlpool Rider
 3 Golgari Thug
 3 Ichorid
@@ -116,6 +121,8 @@
 1 Swamp
 1 Bayou
 1 Phyrexian Tower
+1 Eureka
+1 Nicol Bolas, Planeswalker
 1 Evolutionary Leap
 1 Sylvan Library
 1 Sandwurm Convergence
@@ -129,23 +136,21 @@
 1 Omniscience
 1 Ancient Tomb
 1 Dovescape
+1 Overwhelming Splendor
 1 Windswept Heath
 1 Savannah
 1 Thoughtseize
 1 Verdant Catacombs
 1 Scrubland
-1 Nicol Bolas, Planeswalker
 1 Curse of Death's Hold
 1 Cruel Reality
 1 Karn Liberated
-1 Eureka
 1 Plains
-1 Overwhelming Splendor
 1 Forest
 2 Swamp
-2 Eureka
 2 Forest
 2 Phyrexian Tower
+2 Eureka
 2 Arena Rector
 2 Academy Rector
 2 Collective Brutality
@@ -173,11 +178,11 @@
 1 Impulse
 1 Spell Pierce
 1 Island
-1 Searing Wind
 1 Progenitus
 1 Pact of Negation
 1 Daze
 1 Brainstorm
+1 Searing Wind
 1 Blighted Agent
 1 Ponder
 1 Scalding Tarn

@@ -14,37 +14,37 @@
 3 Sylvan Caryatid
 4 Sylvan Caryatid
 1 Misty Rainforest
-1 Hallowed Fountain
 1 Fatestitcher
 1 Jeskai Ascendancy
+1 Silence
 1 Noxious Revival
 1 Birds of Paradise
 1 Serum Visions
+1 Hallowed Fountain
 1 Glittering Wish
 1 Sleight of Hand
-1 Silence
 1 Cerulean Wisps
 1 Nagging Thoughts
 1 Manamorphose
-2 Misty Rainforest
+2 Serum Visions
 2 Fatestitcher
 2 Jeskai Ascendancy
+2 Misty Rainforest
 2 Manamorphose
 2 Cerulean Wisps
 2 Glittering Wish
 2 Birds of Paradise
 2 Sleight of Hand
-2 Serum Visions
 3 Misty Rainforest
+3 Serum Visions
 3 Jeskai Ascendancy
 3 Glittering Wish
-3 Serum Visions
 3 Sleight of Hand
 3 Birds of Paradise
 3 Manamorphose
 3 Cerulean Wisps
-4 Misty Rainforest
 4 Serum Visions
+4 Misty Rainforest
 4 Birds of Paradise
 4 Glittering Wish
 4 Sleight of Hand
@@ -60,8 +60,8 @@
 1 Sorcerous Spyglass
 2 Faithless Looting
 1 Blood Crypt
-1 Bloodstained Mire
 1 Swamp
+1 Bloodstained Mire
 2 Bloodstained Mire
 2 Blood Crypt
 3 Faithless Looting
@@ -83,8 +83,9 @@
 1 Gravecrawler
 1 Viscera Seer
 1 Prized Amalgam
-2 Polluted Delta
+2 Viscera Seer
 2 Bloodghast
+2 Polluted Delta
 2 Prized Amalgam
 2 Insolent Neonate
 2 Hedron Crab
@@ -92,16 +93,15 @@
 2 Watery Grave
 2 Gravecrawler
 2 Walking Ballista
-2 Viscera Seer
 2 Bridge from Below
 3 Polluted Delta
+3 Viscera Seer
 3 Bloodghast
 3 Walking Ballista
 3 Hedron Crab
 3 Insolent Neonate
 3 Vengevine
 3 Prized Amalgam
-3 Viscera Seer
 3 Gravecrawler
 3 Bridge from Below
 4 Prized Amalgam
@@ -125,66 +125,66 @@
 1 Sacred Foundry
 3 Wooded Foothills
 4 Wooded Foothills
-1 Tribal Flames
 1 Mantis Rider
+1 Tarmogoyf
+1 Tribal Flames
 1 Death's Shadow
 1 Marsh Flats
 1 Arid Mesa
 1 Bloodbraid Elf
-1 Tarmogoyf
 1 Blightning
 1 Godless Shrine
 1 Street Wraith
 2 Lightning Bolt
 2 Mantis Rider
+2 Tarmogoyf
 2 Tribal Flames
 2 Street Wraith
 2 Death's Shadow
 2 Blightning
 2 Bloodbraid Elf
-2 Tarmogoyf
 2 Arid Mesa
 2 Marsh Flats
-3 Thoughtseize
 3 Lightning Bolt
 3 Marsh Flats
 3 Mantis Rider
+3 Tarmogoyf
 3 Tribal Flames
 3 Arid Mesa
 3 Street Wraith
 3 Death's Shadow
+3 Thoughtseize
 3 Blightning
 3 Scalding Tarn
 3 Bloodbraid Elf
-3 Tarmogoyf
 4 Lightning Bolt
+4 Tarmogoyf
+4 Mantis Rider
 4 Thoughtseize
 4 Death's Shadow
 4 Tribal Flames
-4 Mantis Rider
 4 Street Wraith
 4 Arid Mesa
-4 Tarmogoyf
 4 Blightning
 1 Overgrown Tomb
 1 Forest
 1 Cavern of Souls
 1 Bomat Courier
-1 Lightning Axe
 1 Hazoret the Fervent
 1 Lotleth Troll
 1 Soulflayer
 1 Grisly Salvage
 1 Zetalpa, Primal Dawn
+1 Lightning Axe
 1 Verdant Catacombs
 1 Samut, Voice of Dissent
 1 Chromanticore
 1 Drogskol Reaver
 1 Traverse the Ulvenwald
 2 Bomat Courier
-2 Traverse the Ulvenwald
-2 Swamp
 2 Overgrown Tomb
+2 Swamp
+2 Traverse the Ulvenwald
 2 Soulflayer
 2 Zetalpa, Primal Dawn
 2 Grisly Salvage
@@ -200,27 +200,27 @@
 3 Traverse the Ulvenwald
 3 Lotleth Troll
 3 Verdant Catacombs
+4 Verdant Catacombs
 4 Grisly Salvage
 4 Traverse the Ulvenwald
 4 Bomat Courier
-4 Verdant Catacombs
 4 Lotleth Troll
 4 Zetalpa, Primal Dawn
 4 Soulflayer
 4 Samut, Voice of Dissent
-1 Field of Ruin
-1 Urborg, Tomb of Yawgmoth
 1 Cathartic Reunion
 1 Lingering Souls
 1 Borborygmos Enraged
 1 Conflagrate
 1 Unburial Rites
+1 Urborg, Tomb of Yawgmoth
 1 Narcomoeba
 1 Mulch
 1 Iona, Shield of Emeria
 1 Stinkweed Imp
 1 Darkblast
 1 Elesh Norn, Grand Cenobite
+1 Field of Ruin
 1 Raven's Crime
 1 Life from the Loam
 1 Plains

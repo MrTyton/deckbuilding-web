@@ -34,6 +34,6 @@
 |                     |                                                                                          |                    3|[Lost Legacy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417661)         |
 |                     |                                                                                          |                    4|[Lost Legacy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417661)         |
 |                     |                                                                                          |                    4|[Deathgorge Scavenger](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435339)|
-|                     |                                                                                          |                    1|[Arguel's Blood Fast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439316) |
 |                     |                                                                                          |                    2|[Arguel's Blood Fast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439316) |
+|                     |                                                                                          |                    1|[Arguel's Blood Fast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439316) |
 

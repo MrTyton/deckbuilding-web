@@ -1,7 +1,7 @@
 # R
 
 #### [Export MTGO List](../collection/R/R.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Chain%20Lightning%0A4%09Eidolon%20of%20the%20Great%20Revel%0A4%09Fireblast%0A3%09Flame%20Rift%0A4%09Goblin%20Guide%0A4%09Lava%20Spike%0A4%09Lightning%20Bolt%0A4%09Monastery%20Swiftspear%0A20%09Mountain%0A4%09Price%20of%20Progress%0A4%09Rift%20Bolt%0A1%09Skullcrack&deckside=4%09Exquisite%20Firecraft%0A3%09Pyrostatic%20Pillar%0A1%09Skullcrack%0A3%09Smash%20to%20Smithereens%0A2%09Sulfuric%20Vortex%0A2%09Volcanic%20Fallout)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Chain%20Lightning%0A4%09Eidolon%20of%20the%20Great%20Revel%0A4%09Fireblast%0A3%09Flame%20Rift%0A4%09Goblin%20Guide%0A4%09Lava%20Spike%0A4%09Lightning%20Bolt%0A4%09Monastery%20Swiftspear%0A20%09Mountain%0A4%09Price%20of%20Progress%0A4%09Rift%20Bolt%0A1%09Skullcrack&deckside=1%09Ashen%20Rider%0A2%09Exquisite%20Firecraft%0A2%09Faerie%20Macabre%0A1%09Pyrostatic%20Pillar%0A1%09Relic%20of%20Progenitus%0A2%09Searing%20Blood%0A4%09Smash%20to%20Smithereens%0A2%09Sulfuric%20Vortex)
 # Maindeck
 
 |                                             Creature (12)                                             |                                         Instant (13)                                         |                                      Land (20)                                       |                                        Sorcery (15)                                        |
@@ -14,9 +14,21 @@
 
 # Sideboard
 
-|                                       Enchantment (5)                                       |                                           Instant (6)                                           |                                          Sorcery (4)                                           |
-|---------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
-|3 [Pyrostatic Pillar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=44290)|1 [Skullcrack](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=366238)          |4 [Exquisite Firecraft](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=398513)|
-|2 [Sulfuric Vortex](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383117) |3 [Smash to Smithereens](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397795)|                                                                                                |
-|                                                                                             |2 [Volcanic Fallout](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382401)    |                                                                                                |
+|                                          Artifact (1)                                          |                                       Creature (3)                                        |                                       Enchantment (3)                                       |                                           Instant (6)                                           |                                          Sorcery (2)                                           |
+|------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
+|1 [Relic of Progenitus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205326)|1 [Ashen Rider](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373689)   |1 [Pyrostatic Pillar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=44290)|2 [Searing Blood](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=378483)       |2 [Exquisite Firecraft](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=398513)|
+|                                                                                                |2 [Faerie Macabre](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370410)|2 [Sulfuric Vortex](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383117) |4 [Smash to Smithereens](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397795)|                                                                                                |
+
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                      Maindeck Card                                       |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
+|--------------------:|------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
+|                    1|[Searing Blaze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=270873)  |                    1|[Skullcrack](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=366238)         |
+|                    1|[Grim Lavamancer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=234706)|                    1|[Volcanic Fallout](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382401)   |
+|                    2|[Searing Blaze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=270873)  |                    2|[Pyrostatic Pillar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=44290)   |
+|                    3|[Searing Blaze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=270873)  |                    3|[Pyrostatic Pillar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=44290)   |
+|                    4|[Searing Blaze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=270873)  |                    3|[Exquisite Firecraft](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=398513)|
+|                     |                                                                                          |                    4|[Exquisite Firecraft](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=398513)|
+|                     |                                                                                          |                    2|[Volcanic Fallout](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382401)   |
 

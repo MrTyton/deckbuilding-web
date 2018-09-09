@@ -1,61 +1,3 @@
-1 Mountain
-1 Lightning Bolt
-1 Snapcaster Mage
-1 Island
-1 Steam Vents
-1 Wooded Foothills
-1 Breeding Pool
-1 Stomping Ground
-2 Lightning Bolt
-2 Snapcaster Mage
-2 Steam Vents
-2 Island
-3 Lightning Bolt
-1 Scapeshift
-1 Remand
-1 Valakut, the Molten Pinnacle
-1 Cinder Glade
-1 Sakura-Tribe Elder
-1 Search for Tomorrow
-1 Cryptic Command
-1 Peer Through Depths
-2 Scapeshift
-2 Valakut, the Molten Pinnacle
-2 Remand
-2 Peer Through Depths
-2 Sakura-Tribe Elder
-2 Search for Tomorrow
-2 Mountain
-2 Cryptic Command
-2 Breeding Pool
-2 Stomping Ground
-3 Scapeshift
-3 Stomping Ground
-3 Peer Through Depths
-3 Remand
-3 Sakura-Tribe Elder
-3 Search for Tomorrow
-3 Steam Vents
-3 Island
-3 Cryptic Command
-4 Scapeshift
-4 Stomping Ground
-4 Search for Tomorrow
-4 Sakura-Tribe Elder
-1 Misty Rainforest
-2 Misty Rainforest
-3 Misty Rainforest
-4 Misty Rainforest
-1 Scalding Tarn
-4 Lightning Bolt
-1 Harvest Pyre
-1 Anticipate
-1 Condescend
-1 Anger of the Gods
-1 Mizzium Mortars
-1 Supreme Will
-1 Izzet Charm
-2 Condescend
 2 Izzet Charm
 3 Mountain
 4 Mountain
@@ -70,18 +12,20 @@
 2 Opt
 4 Remand
 4 Cryptic Command
+1 Serum Visions
 1 Mana Leak
+1 Spirebluff Canal
 1 Hooting Mandrills
 1 Tarfire
-1 Spirebluff Canal
+1 Dismember
 1 Vapor Snag
 1 Young Pyromancer
 1 Faithless Looting
-1 Dismember
-1 Stubborn Denial
 1 Forked Bolt
 1 Delver of Secrets
 1 Tarmogoyf
+1 Stubborn Denial
+2 Serum Visions
 2 Hooting Mandrills
 2 Tarfire
 2 Stubborn Denial
@@ -94,6 +38,7 @@
 2 Delver of Secrets
 2 Tarmogoyf
 2 Scalding Tarn
+3 Serum Visions
 3 Hooting Mandrills
 3 Stubborn Denial
 3 Faithless Looting
@@ -103,7 +48,7 @@
 3 Vapor Snag
 4 Serum Visions
 4 Stubborn Denial
+4 Scalding Tarn
 4 Tarmogoyf
 4 Delver of Secrets
-4 Scalding Tarn
 4 Vapor Snag

@@ -70,6 +70,6 @@
 |                     |                                                                                                     |                    4|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)         |
 |                     |                                                                                                     |                    1|[Rakdos Charm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=433122)                |
 |                     |                                                                                                     |                    1|[Path to Exile](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370408)               |
-|                     |                                                                                                     |                    3|[Kambal, Consul of Allocation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417756)|
 |                     |                                                                                                     |                    2|[Path to Exile](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370408)               |
+|                     |                                                                                                     |                    3|[Kambal, Consul of Allocation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417756)|
 
