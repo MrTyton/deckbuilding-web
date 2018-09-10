@@ -1,20 +1,19 @@
-1 Ancestral Vision
 2 Shardless Agent
-2 Ancestral Vision
-3 Shardless Agent
 3 Ancestral Vision
+3 Shardless Agent
 4 Shardless Agent
-4 Misty Rainforest
 4 Abrupt Decay
 2 Liliana of the Veil
 3 Thoughtseize
 3 Fatal Push
+3 Ponder
 2 Snapcaster Mage
-1 Bitterblossom
 1 Toxic Deluge
+1 Bitterblossom
 1 Creeping Tar Pit
-2 Island
+4 Ponder
 1 Diabolic Edict
+4 Misty Rainforest
 4 Thoughtseize
 3 Hymn to Tourach
 1 Umezawa's Jitte
@@ -24,34 +23,14 @@
 1 Dismember
 3 Snapcaster Mage
 2 Swamp
+2 Island
 1 Inquisition of Kozilek
-1 Gurmag Angler
-2 Gurmag Angler
-1 Eternal Scourge
-1 Misthollow Griffin
-1 Manipulate Fate
-1 Walking Ballista
-1 Food Chain
-2 Food Chain
-2 Misthollow Griffin
-2 Walking Ballista
-2 Manipulate Fate
-3 Food Chain
-4 Food Chain
 1 Maelstrom Pulse
 4 Ancestral Vision
 2 Diabolic Edict
+1 Gurmag Angler
+2 Gurmag Angler
 2 Spell Pierce
-1 Scavenging Ooze
-1 Birds of Paradise
-1 Trinket Mage
-1 Relic of Progenitus
-2 Birds of Paradise
-2 Relic of Progenitus
-3 Walking Ballista
-3 Manipulate Fate
-3 Misthollow Griffin
-1 Murderous Cut
 1 Spell Snare
 1 True-Name Nemesis
 2 True-Name Nemesis
@@ -65,24 +44,19 @@
 1 Reanimate
 1 Tireless Tracker
 1 Bontu's Last Reckoning
+1 Scavenging Ooze
 1 Green Sun's Zenith
 1 Dark Confidant
 2 Dark Confidant
 2 Umezawa's Jitte
-1 Emrakul, the Aeons Torn
-1 Fierce Empath
-2 Fierce Empath
-1 Tombstalker
-3 Birds of Paradise
-4 Birds of Paradise
 2 Liliana, the Last Hope
 4 Fatal Push
-1 Counterspell
 1 Vapor Snag
+1 Counterspell
 1 Aether Vial
 2 Vapor Snag
-2 Counterspell
 2 Aether Vial
+2 Counterspell
 3 Aether Vial
 4 Aether Vial
 1 Fetid Pools
@@ -107,6 +81,7 @@
 2 Preordain
 3 Preordain
 4 Preordain
+1 Murderous Cut
 1 Noble Hierarch
 2 Noble Hierarch
 3 Noble Hierarch

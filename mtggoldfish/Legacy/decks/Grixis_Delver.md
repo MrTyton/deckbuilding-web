@@ -69,6 +69,7 @@
 |                    4|[Misty Rainforest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426065)      |                     |                                                                                               |
 |                    3|[Thought Scour](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438642)         |                     |                                                                                               |
 |                    4|[Gurmag Angler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391850)         |                     |                                                                                               |
+|                    4|[Stifle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=429877)                |                     |                                                                                               |
 |                    1|[Bedlam Reveler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414415)        |                     |                                                                                               |
 |                    1|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439604)              |                     |                                                                                               |
 |                    1|[Cryptic Serpent](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426750)       |                     |                                                                                               |
@@ -76,5 +77,4 @@
 |                    2|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439602)                |                     |                                                                                               |
 |                    2|[Cryptic Serpent](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426750)       |                     |                                                                                               |
 |                    4|[Volcanic Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383147)       |                     |                                                                                               |
-|                    4|[Stifle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=429877)                |                     |                                                                                               |
 
