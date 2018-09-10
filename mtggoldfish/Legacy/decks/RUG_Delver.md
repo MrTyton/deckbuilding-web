@@ -68,8 +68,8 @@
 |                    2|[Tarfire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=157921)                   |                    1|[Spell Snare](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370447)        |
 |                    1|[Preordain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=265979)                 |                    2|[Spell Snare](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370447)        |
 |                     |                                                                                                     |                    2|[Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)     |
-|                     |                                                                                                     |                    3|[Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)     |
 |                     |                                                                                                     |                    3|[Pyroblast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=159243)          |
+|                     |                                                                                                     |                    3|[Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)     |
 |                     |                                                                                                     |                    1|[Reclamation Sage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430359)   |
 |                     |                                                                                                     |                    1|[Force of Will](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382943)      |
 

@@ -73,6 +73,6 @@
 |                     |                                                                                            |                    2|[Dismember](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397830)          |
 |                     |                                                                                            |                    2|[Faerie Macabre](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370410)     |
 |                     |                                                                                            |                    3|[Pyroblast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=159243)          |
-|                     |                                                                                            |                    3|[True-Name Nemesis](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376562)  |
 |                     |                                                                                            |                    1|[Seal of Fire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=393869)       |
+|                     |                                                                                            |                    3|[True-Name Nemesis](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376562)  |
 
