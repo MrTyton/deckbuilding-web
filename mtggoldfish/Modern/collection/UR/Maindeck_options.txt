@@ -10,11 +10,11 @@
 1 Serum Visions
 1 Lightning Bolt
 1 Snapcaster Mage
-2 Snapcaster Mage
 2 Lightning Bolt
+2 Snapcaster Mage
 2 Serum Visions
-3 Serum Visions
 3 Lightning Bolt
+3 Serum Visions
 1 Opt
 2 Opt
 3 Opt
@@ -28,19 +28,19 @@
 2 Remand
 3 Remand
 4 Sulfur Falls
+1 Gigadrowse
+1 Time Warp
 1 Mikokoro, Center of the Sea
-1 Minamo, School at Water's Edge
 1 Dictate of Kruphix
 1 Day's Undoing
 1 Exhaustion
-1 Gigadrowse
-1 Time Warp
 1 Ancestral Vision
+1 Minamo, School at Water's Edge
 1 Temporal Trespass
-2 Gigadrowse
+2 Time Warp
 2 Dictate of Kruphix
 2 Exhaustion
-2 Time Warp
+2 Gigadrowse
 2 Ancestral Vision
 2 Day's Undoing
 3 Time Warp
@@ -59,20 +59,20 @@
 3 Scalding Tarn
 4 Scalding Tarn
 1 Mountain
-1 Delver of Secrets
 1 Vapor Snag
 1 Wizard's Lightning
-2 Delver of Secrets
+1 Delver of Secrets
 2 Spirebluff Canal
 2 Wizard's Lightning
+2 Delver of Secrets
 2 Mountain
-3 Spirebluff Canal
 3 Delver of Secrets
+3 Spirebluff Canal
 3 Wizard's Lightning
-4 Spirebluff Canal
-4 Delver of Secrets
-4 Wizard's Lightning
 4 Lightning Bolt
+4 Wizard's Lightning
+4 Delver of Secrets
+4 Spirebluff Canal
 1 Walk the Aeons
 1 Cascade Bluffs
 2 Pyrite Spellbomb
@@ -87,8 +87,8 @@
 2 Burst Lightning
 1 Shivan Reef
 2 Shivan Reef
-3 Mountain
 3 Shivan Reef
+3 Mountain
 4 Shivan Reef
 1 Stormchaser Mage
 2 Stormchaser Mage
@@ -109,8 +109,8 @@
 4 Ghitu Lavarunner
 1 Arid Mesa
 1 Lava Spike
-2 Arid Mesa
 2 Lava Spike
+2 Arid Mesa
 3 Arid Mesa
 3 Lava Spike
 4 Lava Spike
@@ -119,28 +119,28 @@
 1 Howling Mine
 1 Ghirapur Aether Grid
 2 Polluted Delta
+1 Sleight of Hand
+2 Sleight of Hand
+3 Sleight of Hand
+4 Sleight of Hand
 3 Steam Vents
 4 Steam Vents
 4 Ancestral Vision
-4 Mountain
 1 Monastery Swiftspear
 2 Monastery Swiftspear
 3 Grim Lavamancer
 3 Monastery Swiftspear
 4 Monastery Swiftspear
 4 Welding Jar
-1 Sleight of Hand
-2 Sleight of Hand
-3 Sleight of Hand
-4 Sleight of Hand
-1 Mana Leak
-1 Vendilion Clique
-1 Abrade
+4 Mountain
 1 Young Pyromancer
+1 Abrade
+1 Vendilion Clique
 1 Spell Snare
-2 Mana Leak
-2 Vendilion Clique
+1 Mana Leak
 2 Young Pyromancer
+2 Mana Leak
 2 Spell Snare
+2 Vendilion Clique
 3 Young Pyromancer
 4 Snapcaster Mage

@@ -1,7 +1,7 @@
 # G
 
 #### [Export MTGO List](../collection/G/G.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Ancient%20Stirrings%0A2%09Animation%20Module%0A4%09Arcbound%20Ravager%0A4%09Arcbound%20Worker%0A1%09Blinkmoth%20Nexus%0A4%09Darksteel%20Citadel%0A1%09Evolutionary%20Leap%0A4%09Hangarback%20Walker%0A4%09Hardened%20Scales%0A4%09Inkmoth%20Nexus%0A4%09Mox%20Opal%0A1%09Pendelhaven%0A1%09Phyrexia's%20Core%0A1%09Ruins%20of%20Oran-Rief%0A1%09Sea%20Gate%20Wreckage%0A7%09Snow-Covered%20Forest%0A4%09Steel%20Overseer%0A2%09Throne%20of%20Geth%0A4%09Walking%20Ballista%0A3%09Welding%20Jar&deckside=3%09Damping%20Sphere%0A2%09Dismember%0A3%09Karn,%20Scion%20of%20Urza%0A1%09Natural%20State%0A4%09Nature's%20Claim%0A2%09Pithing%20Needle)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Ancient%20Stirrings%0A2%09Animation%20Module%0A4%09Arcbound%20Ravager%0A4%09Arcbound%20Worker%0A1%09Blinkmoth%20Nexus%0A4%09Darksteel%20Citadel%0A1%09Evolutionary%20Leap%0A4%09Hangarback%20Walker%0A4%09Hardened%20Scales%0A4%09Inkmoth%20Nexus%0A4%09Mox%20Opal%0A1%09Pendelhaven%0A1%09Phyrexia's%20Core%0A1%09Ruins%20of%20Oran-Rief%0A1%09Sea%20Gate%20Wreckage%0A7%09Snow-Covered%20Forest%0A4%09Steel%20Overseer%0A2%09Throne%20of%20Geth%0A4%09Walking%20Ballista%0A3%09Welding%20Jar&deckside=2%09Choke%0A4%09Damping%20Sphere%0A2%09Dismember%0A2%09Grafdigger's%20Cage%0A4%09Nature's%20Claim%0A1%09Surgical%20Extraction)
 # Maindeck
 
 |                                        Artifact (11)                                        |                                        Creature (20)                                         |                                       Enchantment (5)                                        |                                           Land (20)                                            |                                         Sorcery (4)                                          |
@@ -18,31 +18,9 @@
 
 # Sideboard
 
-|                                       Artifact (5)                                        |                                        Instant (7)                                        |                                        Planeswalker (3)                                        |
-|-------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
-|3 [Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)|2 [Dismember](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397830)     |3 [Karn, Scion of Urza](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442889)|
-|2 [Pithing Needle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425815)|1 [Natural State](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407646) |                                                                                                |
-|                                                                                           |4 [Nature's Claim](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438743)|                                                                                                |
-
-
-# Other Options
-
-|*n*<sup>th</sup> copy|                                      Maindeck Card                                       |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
-|--------------------:|------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
-|                    1|[Horizon Canopy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438806) |                    1|[Choke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430685)              |
-|                    1|[Llanowar Reborn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373368)|                    1|[Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426046)  |
-|                    1|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439605)         |                    1|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|
-|                    1|[Metallic Mimic](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423831) |                    2|[Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426046)  |
-|                    2|[Horizon Canopy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438806) |                    2|[Choke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430685)              |
-|                    2|[Metallic Mimic](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423831) |                    4|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)     |
-|                    2|[Llanowar Reborn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373368)|                     |                                                                                              |
-|                    2|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439605)         |                     |                                                                                              |
-|                    3|[Horizon Canopy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438806) |                     |                                                                                              |
-|                    3|[Llanowar Reborn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373368)|                     |                                                                                              |
-|                    3|[Metallic Mimic](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423831) |                     |                                                                                              |
-|                    3|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439605)         |                     |                                                                                              |
-|                    3|[Throne of Geth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=202675) |                     |                                                                                              |
-|                    4|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439605)         |                     |                                                                                              |
-|                    4|[Metallic Mimic](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423831) |                     |                                                                                              |
-|                    5|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439605)         |                     |                                                                                              |
+|                                         Artifact (6)                                         |                                 Enchantment (2)                                  |                                          Instant (7)                                           |
+|----------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
+|4 [Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)   |2 [Choke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430685)|2 [Dismember](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397830)          |
+|2 [Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426046)|                                                                                  |4 [Nature's Claim](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438743)     |
+|                                                                                              |                                                                                  |1 [Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|
 

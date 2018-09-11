@@ -38,8 +38,8 @@
 2 Horizon Canopy
 2 Phantasmal Image
 3 Horizon Canopy
-4 Horizon Canopy
 4 Meddling Mage
+4 Horizon Canopy
 3 Kitesail Freebooter
 4 Thalia, Guardian of Thraben
 4 Ancient Ziggurat
@@ -49,8 +49,8 @@
 2 Imperial Recruiter
 3 Phantasmal Image
 1 Thalia, Heretic Cathar
-1 Militia Bugler
 1 Sanctum Prelate
+1 Militia Bugler
 2 Militia Bugler
 4 Mantis Rider
 1 Tundra
@@ -62,13 +62,12 @@
 2 Cabal Therapy
 3 Cabal Therapy
 4 Cabal Therapy
-1 Swamp
 1 Bayou
 1 Phyrexian Tower
 1 Eureka
 1 Nicol Bolas, Planeswalker
 1 Evolutionary Leap
-1 Sylvan Library
+1 Thoughtseize
 1 Sandwurm Convergence
 1 Nicol Bolas, God-Pharaoh
 1 Collective Brutality
@@ -76,16 +75,17 @@
 1 Arena Rector
 1 Ugin, the Spirit Dragon
 1 Veteran Explorer
+1 Swamp
 1 Living Wish
 1 Omniscience
 1 Dovescape
 1 Windswept Heath
 1 Savannah
-1 Thoughtseize
 1 Ancient Tomb
 1 Overwhelming Splendor
 1 Verdant Catacombs
 1 Scrubland
+1 Sylvan Library
 1 Curse of Death's Hold
 1 Cruel Reality
 1 Karn Liberated
@@ -96,26 +96,26 @@
 2 Eureka
 2 Arena Rector
 2 Academy Rector
-2 Forest
 2 Collective Brutality
 2 Windswept Heath
+2 Forest
 2 Verdant Catacombs
 2 Living Wish
 2 Ugin, the Spirit Dragon
 2 Bayou
 2 Veteran Explorer
-3 Windswept Heath
 3 Academy Rector
 3 Arena Rector
 3 Living Wish
 3 Eureka
 3 Forest
+3 Windswept Heath
 3 Verdant Catacombs
 3 Veteran Explorer
-4 Windswept Heath
 4 Living Wish
 4 Forest
 4 Verdant Catacombs
+4 Windswept Heath
 4 Veteran Explorer
 5 Forest
 1 Prized Amalgam

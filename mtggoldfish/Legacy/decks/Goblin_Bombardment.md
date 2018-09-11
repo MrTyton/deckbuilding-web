@@ -28,9 +28,9 @@
 
 |*n*<sup>th</sup> copy|                                        Maindeck Card                                         |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
 |--------------------:|----------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
-|                    4|[Bloodstained Mire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405094)  |                    1|[Tidehollow Sculler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370375) |
-|                    2|[Undiscovered Paradise](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3755)|                    1|[Zealous Persecution](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413755)|
-|                     |                                                                                              |                    2|[Tidehollow Sculler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370375) |
-|                     |                                                                                              |                    3|[Tidehollow Sculler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370375) |
+|                    2|[Undiscovered Paradise](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3755)|                    1|[Tidehollow Sculler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370375) |
+|                    4|[Bloodstained Mire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405094)  |                    1|[Zealous Persecution](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413755)|
 |                     |                                                                                              |                    2|[Zealous Persecution](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413755)|
+|                     |                                                                                              |                    3|[Tidehollow Sculler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370375) |
+|                     |                                                                                              |                    2|[Tidehollow Sculler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370375) |
 
