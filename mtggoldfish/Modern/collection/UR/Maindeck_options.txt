@@ -1,8 +1,7 @@
-2 Glimmervoid
+2 Flooded Strand
 1 Tezzeret the Seeker
 2 Island
 1 Orbs of Warding
-1 Grafdigger's Cage
 3 Island
 4 Island
 1 Spirebluff Canal
@@ -11,90 +10,102 @@
 1 Lightning Bolt
 1 Snapcaster Mage
 2 Lightning Bolt
-2 Snapcaster Mage
 2 Serum Visions
-3 Lightning Bolt
 3 Serum Visions
+3 Lightning Bolt
+4 Serum Visions
+2 Snapcaster Mage
 1 Opt
 2 Opt
 3 Opt
 4 Opt
-4 Serum Visions
-3 Snapcaster Mage
 1 Sulfur Falls
 2 Sulfur Falls
 3 Sulfur Falls
+3 Snapcaster Mage
+2 Scalding Tarn
+3 Scalding Tarn
+4 Scalding Tarn
 1 Remand
 2 Remand
 3 Remand
+4 Remand
 4 Sulfur Falls
-1 Gigadrowse
-1 Time Warp
 1 Mikokoro, Center of the Sea
-1 Dictate of Kruphix
-1 Day's Undoing
-1 Exhaustion
-1 Ancestral Vision
 1 Minamo, School at Water's Edge
+1 Dictate of Kruphix
+1 Ancestral Vision
+1 Day's Undoing
+1 Gigadrowse
+1 Exhaustion
+1 Time Warp
 1 Temporal Trespass
-2 Time Warp
+2 Ancestral Vision
+2 Gigadrowse
 2 Dictate of Kruphix
 2 Exhaustion
-2 Gigadrowse
-2 Ancestral Vision
+2 Time Warp
 2 Day's Undoing
 3 Time Warp
+3 Ancestral Vision
 3 Dictate of Kruphix
 3 Exhaustion
-3 Ancestral Vision
 4 Time Warp
-4 Remand
 4 Exhaustion
 6 Island
 7 Island
 8 Island
 9 Island
 10 Island
-2 Scalding Tarn
-3 Scalding Tarn
-4 Scalding Tarn
+1 Grafdigger's Cage
 1 Mountain
+2 Spirebluff Canal
+2 Mountain
+3 Spirebluff Canal
+4 Lightning Bolt
+1 Delver of Secrets
 1 Vapor Snag
 1 Wizard's Lightning
-1 Delver of Secrets
-2 Spirebluff Canal
-2 Wizard's Lightning
 2 Delver of Secrets
-2 Mountain
+2 Wizard's Lightning
 3 Delver of Secrets
-3 Spirebluff Canal
 3 Wizard's Lightning
-4 Lightning Bolt
-4 Wizard's Lightning
-4 Delver of Secrets
 4 Spirebluff Canal
-1 Walk the Aeons
-1 Cascade Bluffs
-2 Pyrite Spellbomb
+4 Delver of Secrets
+4 Wizard's Lightning
 1 Soul-Scar Mage
 2 Soul-Scar Mage
 3 Soul-Scar Mage
 4 Soul-Scar Mage
 2 Vapor Snag
+2 Steam Vents
 1 Grim Lavamancer
-1 Burst Lightning
 2 Grim Lavamancer
+1 Stormchaser Mage
+2 Stormchaser Mage
+3 Stormchaser Mage
+4 Stormchaser Mage
+1 Burst Lightning
 2 Burst Lightning
+1 Walk the Aeons
+1 Cascade Bluffs
+2 Pyrite Spellbomb
+1 Arid Mesa
+1 Lava Spike
+2 Arid Mesa
+2 Lava Spike
+3 Lava Spike
+4 Lava Spike
+1 Sleight of Hand
+2 Sleight of Hand
+3 Sleight of Hand
+4 Sleight of Hand
+3 Steam Vents
 1 Shivan Reef
 2 Shivan Reef
 3 Shivan Reef
 3 Mountain
 4 Shivan Reef
-1 Stormchaser Mage
-2 Stormchaser Mage
-3 Stormchaser Mage
-4 Stormchaser Mage
-2 Steam Vents
 5 Snow-Covered Island
 1 Field of Ruin
 1 Mutagenic Growth
@@ -107,40 +118,52 @@
 3 Ghitu Lavarunner
 3 Adeliz, the Cinder Wind
 4 Ghitu Lavarunner
-1 Arid Mesa
-1 Lava Spike
-2 Lava Spike
-2 Arid Mesa
-3 Arid Mesa
-3 Lava Spike
-4 Lava Spike
-1 Ideas Unbound
-1 Cryptic Command
-1 Howling Mine
-1 Ghirapur Aether Grid
 2 Polluted Delta
-1 Sleight of Hand
-2 Sleight of Hand
-3 Sleight of Hand
-4 Sleight of Hand
-3 Steam Vents
+3 Arid Mesa
+1 Cryptic Command
+1 Ghirapur Aether Grid
+1 Ideas Unbound
+1 Merchant Scroll
+1 Watery Grave
+1 Tezzeret, Agent of Bolas
+1 Howling Mine
 4 Steam Vents
 4 Ancestral Vision
+1 Spell Snare
+1 Abrade
+1 Vendilion Clique
+1 Young Pyromancer
+1 Mana Leak
+2 Spell Snare
+2 Vendilion Clique
+2 Young Pyromancer
+2 Mana Leak
+3 Young Pyromancer
+4 Snapcaster Mage
 1 Monastery Swiftspear
 2 Monastery Swiftspear
 3 Grim Lavamancer
 3 Monastery Swiftspear
 4 Monastery Swiftspear
+1 Forked Bolt
+2 Forked Bolt
+3 Vapor Snag
+4 Vapor Snag
 4 Welding Jar
+1 Pyromancer Ascension
+1 Manamorphose
+1 Negate
+1 Anger of the Gods
+2 Manamorphose
+2 Pyromancer Ascension
+2 Cryptic Command
+2 Negate
+3 Manamorphose
+3 Burst Lightning
+3 Cryptic Command
+3 Negate
+3 Pyromancer Ascension
+4 Burst Lightning
+4 Manamorphose
+4 Pyromancer Ascension
 4 Mountain
-1 Young Pyromancer
-1 Abrade
-1 Vendilion Clique
-1 Spell Snare
-1 Mana Leak
-2 Young Pyromancer
-2 Mana Leak
-2 Spell Snare
-2 Vendilion Clique
-3 Young Pyromancer
-4 Snapcaster Mage
