@@ -30,10 +30,10 @@
 |--------------------:|---------------------------------------------------------------------------------|---------------------|--------------|
 |                    1|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439601)|                     |              |
 |                    2|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439601)|                     |              |
+|                    3|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439601)|                     |              |
 |                    4|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439601)|                     |              |
 |                    5|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439601)|                     |              |
 |                    6|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439601)|                     |              |
 |                    7|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439601)|                     |              |
 |                    8|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439601)|                     |              |
-|                    3|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439601)|                     |              |
 

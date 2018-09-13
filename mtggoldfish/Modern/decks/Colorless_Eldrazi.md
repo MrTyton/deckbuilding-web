@@ -32,7 +32,7 @@
 |                    1|[Relic of Progenitus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205326)|                    2|[Sorcerous Spyglass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435407) |
 |                    3|[Wastes](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407693)             |                    4|[Relic of Progenitus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205326)|
 |                    4|[Blinkmoth Nexus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370407)    |                    1|[Karn, Scion of Urza](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442889)|
-|                    2|[Relic of Progenitus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205326)|                    2|[Karn, Scion of Urza](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442889)|
-|                    3|[Mutavault](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=152724)          |                    2|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|
+|                    3|[Mutavault](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=152724)          |                    2|[Karn, Scion of Urza](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442889)|
 |                    4|[Mutavault](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=152724)          |                    1|[Thorn of Amethyst](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=140166)  |
+|                    2|[Relic of Progenitus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205326)|                    2|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|
 

@@ -1,70 +1,9 @@
-3 Serum Visions
-1 Hallowed Fountain
-1 Sacred Foundry
-1 Plains
-2 Hallowed Fountain
-2 Flooded Strand
-3 Flooded Strand
-4 Flooded Strand
-1 Seachrome Coast
-1 Windswept Heath
-1 Repeal
-1 Noxious Revival
-1 Sigil of Distinction
-1 Paradise Mantle
-1 Spidersilk Net
-1 Cathar's Shield
-1 Mox Opal
-1 Sram, Senior Edificer
-1 Puresteel Paladin
-1 Retract
-1 Grapeshot
-1 Accorder's Shield
-2 Repeal
-2 Seachrome Coast
-2 Paradise Mantle
-2 Sigil of Distinction
-2 Sram, Senior Edificer
-2 Noxious Revival
-2 Retract
-2 Mox Opal
-2 Spidersilk Net
-2 Cathar's Shield
-2 Puresteel Paladin
-2 Accorder's Shield
-2 Plains
-3 Retract
-3 Cathar's Shield
-3 Accorder's Shield
-3 Mox Opal
-3 Paradise Mantle
-3 Sigil of Distinction
-3 Sram, Senior Edificer
-3 Spidersilk Net
-3 Puresteel Paladin
-4 Puresteel Paladin
-4 Accorder's Shield
-4 Paradise Mantle
-4 Retract
-4 Spidersilk Net
-4 Mox Opal
-4 Sigil of Distinction
-4 Cathar's Shield
-4 Sram, Senior Edificer
-1 Scalding Tarn
-3 Island
-1 Bloodstained Mire
+1 Marsh Flats
 2 Crypt Incursion
-1 Paradoxical Outcome
-2 Marsh Flats
-3 Marsh Flats
 3 Darkslick Shores
 3 Ensnaring Bridge
-2 Windswept Heath
-3 Repeal
-3 Windswept Heath
-4 Windswept Heath
-1 Mountain
+1 Serum Visions
+2 Serum Visions
 2 Scalding Tarn
 1 Lightning Bolt
 1 Steam Vents
@@ -73,11 +12,33 @@
 2 Remand
 2 Steam Vents
 3 Lightning Bolt
-3 Remand
 3 Scalding Tarn
+4 Scalding Tarn
+3 Serum Visions
+1 Mountain
+1 Cryptic Command
+1 Opt
+1 Spell Snare
+1 Anger of the Gods
+2 Cryptic Command
+2 Spell Snare
+2 Anger of the Gods
+2 Opt
+4 Lightning Bolt
+3 Remand
 4 Serum Visions
 4 Remand
-4 Scalding Tarn
+1 Snapcaster Mage
+2 Snapcaster Mage
+3 Snapcaster Mage
+4 Snapcaster Mage
+1 Hallowed Fountain
+1 Sacred Foundry
+1 Plains
+2 Hallowed Fountain
+2 Flooded Strand
+3 Flooded Strand
+4 Flooded Strand
 1 Arid Mesa
 1 Lightning Helix
 1 Wall of Omens
@@ -89,11 +50,9 @@
 1 Glacial Fortress
 1 Saheeli Rai
 1 Path to Exile
-1 Snapcaster Mage
 1 Felidar Guardian
 2 Lightning Helix
 2 Wall of Omens
-2 Snapcaster Mage
 2 Spreading Seas
 2 Felidar Guardian
 2 Celestial Colonnade
@@ -101,36 +60,74 @@
 2 Saheeli Rai
 3 Wall of Omens
 3 Path to Exile
-3 Snapcaster Mage
 3 Spreading Seas
 3 Felidar Guardian
 3 Saheeli Rai
-4 Snapcaster Mage
 4 Spreading Seas
 4 Path to Exile
 4 Felidar Guardian
 4 Saheeli Rai
+1 Seachrome Coast
+1 Windswept Heath
+1 Repeal
+1 Noxious Revival
+1 Sigil of Distinction
+1 Paradise Mantle
+1 Paradoxical Outcome
+1 Spidersilk Net
+1 Cathar's Shield
+1 Mox Opal
+1 Sram, Senior Edificer
+1 Puresteel Paladin
+1 Retract
+1 Grapeshot
+1 Accorder's Shield
+2 Repeal
+2 Seachrome Coast
+2 Retract
+2 Marsh Flats
+2 Paradise Mantle
+2 Sigil of Distinction
+2 Sram, Senior Edificer
+2 Mox Opal
+2 Spidersilk Net
+2 Puresteel Paladin
+2 Cathar's Shield
+2 Accorder's Shield
+2 Noxious Revival
+2 Plains
+3 Retract
+3 Marsh Flats
+3 Cathar's Shield
+3 Accorder's Shield
+3 Mox Opal
+3 Paradise Mantle
+3 Sigil of Distinction
+3 Sram, Senior Edificer
+3 Spidersilk Net
+3 Puresteel Paladin
+4 Accorder's Shield
+4 Puresteel Paladin
+4 Spidersilk Net
+4 Paradise Mantle
+4 Retract
+4 Mox Opal
+4 Sigil of Distinction
+4 Cathar's Shield
+4 Sram, Senior Edificer
 1 Walking Ballista
 1 Izzet Charm
 1 Kozilek's Return
-1 Cryptic Command
 1 Jace, the Mind Sculptor
 1 Emrakul, the Aeons Torn
-1 Opt
 1 Tolaria West
-1 Spell Snare
-1 Anger of the Gods
 1 Desolate Lighthouse
 1 Possibility Storm
 2 Tolaria West
 2 Izzet Charm
-2 Cryptic Command
 2 Jace, the Mind Sculptor
 2 Mountain
 2 Possibility Storm
-2 Spell Snare
-2 Anger of the Gods
-2 Opt
 3 Tolaria West
 3 Steam Vents
 3 Izzet Charm
@@ -140,10 +137,42 @@
 4 Island
 4 Possibility Storm
 4 Cryptic Command
-4 Lightning Bolt
 5 Island
 6 Island
 7 Island
+1 Misty Rainforest
+1 Skred
+1 Scrying Sheets
+1 Snow-Covered Island
+1 Mana Leak
+1 Blood Moon
+1 Kefnet the Mindful
+1 Stubborn Denial
+1 Anticipate
+1 Swans of Bryn Argoll
+2 Misty Rainforest
+2 Skred
+2 Mana Leak
+2 Snow-Covered Island
+2 Stubborn Denial
+2 Swans of Bryn Argoll
+3 Skred
+3 Snow-Covered Island
+3 Swans of Bryn Argoll
+3 Opt
+3 Stubborn Denial
+4 Skred
+4 Snow-Covered Island
+4 Swans of Bryn Argoll
+5 Snow-Covered Island
+6 Snow-Covered Island
+7 Snow-Covered Island
+8 Snow-Covered Island
+9 Snow-Covered Island
+10 Snow-Covered Island
+11 Snow-Covered Island
+12 Snow-Covered Island
+13 Snow-Covered Island
 1 Bloodghast
 1 Blood Crypt
 1 Goblin Bushwhacker
@@ -190,11 +219,11 @@
 4 Greater Gargadon
 4 Bloodghast
 4 Blackcleave Cliffs
-4 Faithless Looting
 4 Stitcher's Supplier
 4 Insolent Neonate
-4 Bridge from Below
 4 Gravecrawler
+4 Faithless Looting
 4 Goblin Bushwhacker
+4 Bridge from Below
 4 Vengevine
 4 Walking Ballista
