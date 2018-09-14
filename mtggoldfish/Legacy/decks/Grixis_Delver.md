@@ -67,9 +67,9 @@
 |                    1|[Bomat Courier](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417772)         |                     |                                                                                              |
 |                    2|[Bomat Courier](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417772)         |                     |                                                                                              |
 |                    3|[Bomat Courier](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417772)         |                     |                                                                                              |
+|                    4|[Stifle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=429877)                |                     |                                                                                              |
 |                    1|[Thought Scour](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438642)         |                     |                                                                                              |
 |                    2|[Thought Scour](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438642)         |                     |                                                                                              |
 |                    3|[Thought Scour](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438642)         |                     |                                                                                              |
 |                    4|[Gurmag Angler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391850)         |                     |                                                                                              |
-|                    4|[Stifle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=429877)                |                     |                                                                                              |
 

@@ -21,3 +21,11 @@
 |1 [Engineered Explosives](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370549)|2 [Padeem, Consul of Innovation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417632)|2 [Dread of Night](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=4658)       |1 [Flusterstorm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382942)|2 [Painful Truths](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=433050)|
 |2 [Sorcerous Spyglass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435407)   |                                                                                                         |4 [Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205013)|                                                                                         |1 [Toxic Deluge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413650)  |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                     Maindeck Card                                     |*n*<sup>th</sup> copy|                                         Sideboard Card                                          |
+|--------------------:|---------------------------------------------------------------------------------------|--------------------:|-------------------------------------------------------------------------------------------------|
+|                    1|[Toxic Deluge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413650)|                    1|[Karn, Scion of Urza](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442889)   |
+|                     |                                                                                       |                    1|[Liliana, the Last Hope](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414388)|
+

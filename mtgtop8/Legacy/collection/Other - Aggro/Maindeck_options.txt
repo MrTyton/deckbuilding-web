@@ -1,3 +1,4 @@
+1 Dark Confidant
 1 Champion of the Parish
 1 Thalia, Guardian of Thraben
 1 Kitesail Freebooter
@@ -5,7 +6,6 @@
 1 Karakas
 1 Mother of Runes
 1 Ancient Ziggurat
-1 Dark Confidant
 1 Mantis Rider
 1 Aether Vial
 1 Unclaimed Territory
@@ -14,13 +14,13 @@
 1 Seachrome Coast
 1 Meddling Mage
 1 Reflector Mage
+2 Dark Confidant
 2 Thalia, Guardian of Thraben
 2 Thalia's Lieutenant
 2 Champion of the Parish
 2 Kitesail Freebooter
 2 Karakas
 2 Meddling Mage
-2 Dark Confidant
 2 Aether Vial
 2 Ancient Ziggurat
 2 Unclaimed Territory
@@ -30,6 +30,7 @@
 2 Mother of Runes
 2 Cavern of Souls
 2 Mantis Rider
+3 Dark Confidant
 3 Thalia, Guardian of Thraben
 3 Kitesail Freebooter
 3 Thalia's Lieutenant
@@ -41,7 +42,6 @@
 3 Mother of Runes
 3 Ancient Ziggurat
 3 Mantis Rider
-3 Dark Confidant
 3 Aether Vial
 3 Unclaimed Territory
 3 Noble Hierarch
@@ -58,9 +58,9 @@
 4 Noble Hierarch
 1 Daze
 1 Seat of the Synod
-1 Walking Ballista
 1 Karn, Scion of Urza
 1 Thoughtcast
+1 Walking Ballista
 1 Ensoul Artifact
 1 The Antiquities War
 1 Mox Opal
@@ -74,18 +74,19 @@
 2 Daze
 2 Seat of the Synod
 2 Karn, Scion of Urza
-2 Walking Ballista
 2 The Antiquities War
 2 Mox Opal
 2 Thoughtcast
 2 Chalice of the Void
 2 Master of Etherium
+2 Walking Ballista
 2 Ensoul Artifact
 2 Darksteel Citadel
 2 Ancient Tomb
 2 Lotus Petal
 3 Darksteel Citadel
 3 Daze
+3 Karn, Scion of Urza
 3 Ensoul Artifact
 3 The Antiquities War
 3 Mox Opal
@@ -94,11 +95,10 @@
 3 Thoughtcast
 3 Master of Etherium
 3 Seat of the Synod
-3 Karn, Scion of Urza
 3 Lotus Petal
+4 Daze
 4 Darksteel Citadel
 4 Island
-4 Daze
 4 Mox Opal
 4 Chalice of the Void
 4 Master of Etherium
