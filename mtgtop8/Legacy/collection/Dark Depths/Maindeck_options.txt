@@ -1,26 +1,22 @@
-1 Snow-Covered Swamp
-1 Into the North
 1 Snow-Covered Forest
+1 Snow-Covered Swamp
 1 Karakas
+1 Into the North
 1 Inquisition of Kozilek
 2 Inquisition of Kozilek
 1 Sylvan Library
 2 Into the North
-1 Misty Rainforest
-1 Dryad Arbor
-3 Expedition Map
 1 Abrupt Decay
-1 Dark Confidant
-2 Dark Confidant
-1 Maze of Ith
+3 Expedition Map
+1 Dryad Arbor
 2 Abrupt Decay
-3 Abrupt Decay
+1 Maze of Ith
+1 Misty Rainforest
 1 Not of This World
 1 Life from the Loam
 2 Not of This World
 3 Not of This World
-2 Forest
-3 Dark Confidant
+3 Abrupt Decay
 1 Mox Diamond
 2 Mox Diamond
 1 Tropical Island
@@ -38,11 +34,12 @@
 4 Mox Diamond
 4 Urborg, Tomb of Yawgmoth
 4 Brainstorm
+1 Dark Confidant
+2 Dark Confidant
 1 Living Wish
 2 Living Wish
 3 Living Wish
 1 Polluted Delta
-2 Swamp
 1 Bloodstained Mire
 1 Shallow Grave
 1 Exhume
@@ -76,10 +73,13 @@
 1 Overgrown Tomb
 1 Ramunap Excavator
 1 Rancor
+2 Forest
 1 Cabal Therapy
 2 Unmask
+2 Swamp
 1 Hymn to Tourach
 2 Hymn to Tourach
+3 Dark Confidant
 2 Polluted Delta
 3 Polluted Delta
 4 Polluted Delta
@@ -89,5 +89,11 @@
 2 Collective Brutality
 2 Snow-Covered Swamp
 4 Exhume
+1 Llanowar Wastes
+1 Blooming Marsh
 2 Sylvan Library
-4 Dark Confidant
+2 Blooming Marsh
+2 Llanowar Wastes
+3 Llanowar Wastes
+3 Blooming Marsh
+4 Blooming Marsh
