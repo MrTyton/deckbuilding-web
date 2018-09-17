@@ -9,9 +9,9 @@
 1 Breeding Pool
 1 Lightning Bolt
 1 Stomping Ground
+1 Serum Visions
 1 Sleight of Hand
 1 Noxious Revival
-1 Serum Visions
 1 Silence
 1 Manamorphose
 1 Birds of Paradise
@@ -23,8 +23,8 @@
 1 Cerulean Wisps
 1 Nagging Thoughts
 1 Misty Rainforest
-2 Sleight of Hand
 2 Serum Visions
+2 Sleight of Hand
 2 Manamorphose
 2 Jeskai Ascendancy
 2 Sylvan Caryatid
@@ -34,8 +34,8 @@
 2 Birds of Paradise
 2 Misty Rainforest
 3 Misty Rainforest
-3 Sleight of Hand
 3 Serum Visions
+3 Sleight of Hand
 3 Manamorphose
 3 Glittering Wish
 3 Birds of Paradise
@@ -43,16 +43,16 @@
 3 Sylvan Caryatid
 3 Cerulean Wisps
 4 Misty Rainforest
-4 Sleight of Hand
 4 Serum Visions
+4 Sleight of Hand
 4 Sylvan Caryatid
 4 Birds of Paradise
 4 Manamorphose
 4 Glittering Wish
 1 Scalding Tarn
 2 Scalding Tarn
-1 Opt
 1 Abundant Growth
+1 Opt
 1 Noble Hierarch
 1 Botanical Sanctum
 2 Nagging Thoughts
@@ -71,9 +71,9 @@
 4 Faithless Looting
 4 Stitcher's Supplier
 1 Watery Grave
+1 Polluted Delta
 1 Viscera Seer
 1 Vengevine
-1 Polluted Delta
 1 Insolent Neonate
 1 Walking Ballista
 1 Prized Amalgam
@@ -81,10 +81,10 @@
 1 Hedron Crab
 1 Bloodghast
 1 Bridge from Below
+2 Polluted Delta
 2 Walking Ballista
 2 Viscera Seer
 2 Vengevine
-2 Polluted Delta
 2 Insolent Neonate
 2 Prized Amalgam
 2 Bloodghast
@@ -92,10 +92,10 @@
 2 Watery Grave
 2 Gravecrawler
 2 Bridge from Below
+3 Polluted Delta
 3 Bridge from Below
 3 Viscera Seer
 3 Vengevine
-3 Polluted Delta
 3 Insolent Neonate
 3 Prized Amalgam
 3 Hedron Crab
@@ -105,16 +105,16 @@
 3 Gravecrawler
 4 Polluted Delta
 4 Vengevine
-4 Walking Ballista
 4 Bridge from Below
+4 Walking Ballista
 4 Insolent Neonate
 4 Prized Amalgam
 4 Gravecrawler
 4 Hedron Crab
 4 Bloodstained Mire
 2 Silence
-1 Flooded Strand
 1 Path to Exile
+1 Flooded Strand
 1 Horizon Canopy
 1 Mystic Speculation
 3 Fatestitcher
@@ -128,18 +128,18 @@
 1 Conflagrate
 1 Overgrown Tomb
 1 Life from the Loam
+1 Urborg, Tomb of Yawgmoth
 1 Plains
-1 Field of Ruin
 1 Cathartic Reunion
 1 Stinkweed Imp
 1 Narcomoeba
-1 Urborg, Tomb of Yawgmoth
 1 Unburial Rites
 1 Mulch
 1 Iona, Shield of Emeria
 1 Elesh Norn, Grand Cenobite
 1 Borborygmos Enraged
 1 Darkblast
+1 Field of Ruin
 1 Raven's Crime
 1 Lingering Souls
 1 Forest
@@ -164,9 +164,9 @@
 1 Mantis Rider
 1 Tribal Flames
 1 Tarmogoyf
+1 Bloodbraid Elf
 1 Marsh Flats
 1 Arid Mesa
-1 Bloodbraid Elf
 1 Death's Shadow
 1 Blightning
 1 Godless Shrine
@@ -174,9 +174,9 @@
 2 Mantis Rider
 2 Tribal Flames
 2 Tarmogoyf
+2 Bloodbraid Elf
 2 Death's Shadow
 2 Blightning
-2 Bloodbraid Elf
 2 Arid Mesa
 2 Street Wraith
 2 Lightning Bolt
@@ -185,13 +185,13 @@
 3 Tarmogoyf
 3 Mantis Rider
 3 Tribal Flames
+3 Bloodbraid Elf
 3 Death's Shadow
 3 Marsh Flats
 3 Street Wraith
 3 Lightning Bolt
 3 Blightning
 3 Thoughtseize
-3 Bloodbraid Elf
 3 Arid Mesa
 4 Thoughtseize
 4 Mantis Rider

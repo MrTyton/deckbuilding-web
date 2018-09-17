@@ -51,7 +51,7 @@
 |                    2|[Dismember](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397830)             |                     |                                                                                                 |
 |                    2|[True-Name Nemesis](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376562)     |                     |                                                                                                 |
 |                    2|[Spell Snare](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370447)           |                     |                                                                                                 |
-|                    4|[Verdant Catacombs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426074)     |                     |                                                                                                 |
 |                    4|[Stifle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=429877)                |                     |                                                                                                 |
+|                    4|[Verdant Catacombs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426074)     |                     |                                                                                                 |
 |                    4|[Nimble Mongoose](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413721)       |                     |                                                                                                 |
 

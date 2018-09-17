@@ -84,6 +84,6 @@
 |                     |                                                                                                        |                    1|[Thorn of Amethyst](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=140166)            |
 |                     |                                                                                                        |                    1|[Faerie Macabre](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370410)               |
 |                     |                                                                                                        |                    2|[Faerie Macabre](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370410)               |
-|                     |                                                                                                        |                    3|[Faerie Macabre](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370410)               |
 |                     |                                                                                                        |                    4|[Faerie Macabre](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370410)               |
+|                     |                                                                                                        |                    3|[Faerie Macabre](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370410)               |
 

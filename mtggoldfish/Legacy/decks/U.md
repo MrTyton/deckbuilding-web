@@ -33,6 +33,6 @@
 |                     |                                                                                 |                    2|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205013)|
 |                     |                                                                                 |                    3|[Lodestone Golem](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397736)    |
 |                     |                                                                                 |                    3|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205013)|
-|                     |                                                                                 |                    4|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205013)|
 |                     |                                                                                 |                    4|[Lodestone Golem](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397736)    |
+|                     |                                                                                 |                    4|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205013)|
 
