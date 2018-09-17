@@ -95,7 +95,7 @@
 |                     |                                                                                                     |                    3|[Stronghold Gambit](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=21357)      |
 |                     |                                                                                                     |                    4|[Stronghold Gambit](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=21357)      |
 |                     |                                                                                                     |                    1|[Carpet of Flowers](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=5858)       |
-|                     |                                                                                                     |                    2|[Carpet of Flowers](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=5858)       |
 |                     |                                                                                                     |                    3|[Carpet of Flowers](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=5858)       |
 |                     |                                                                                                     |                    4|[Carpet of Flowers](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=5858)       |
+|                     |                                                                                                     |                    2|[Carpet of Flowers](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=5858)       |
 

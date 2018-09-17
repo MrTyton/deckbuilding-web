@@ -1,6 +1,6 @@
-# U
+# Mono-Blue Tempo
 
-#### [Export MTGO List](../collection/U/U.txt)
+#### [Export MTGO List](../collection/Mono-Blue%20Tempo/Mono-Blue%20Tempo.txt)
 #### [Print on decklist.org](http://decklist.org/?deckmain=1%09Aethersphere%20Harvester%0A2%09Baral,%20Chief%20of%20Compliance%0A1%09Chart%20a%20Course%0A1%09Commit/Memory%0A4%09Curious%20Obsession%0A1%09Dive%20Down%0A3%09Essence%20Scatter%0A22%09Island%0A4%09Merfolk%20Trickster%0A4%09Siren%20Stormtamer%0A4%09Slither%20Blade%0A2%09Spell%20Pierce%0A4%09Tempest%20Djinn%0A3%09Unsummon%0A4%09Wizard's%20Retort&deckside=2%09Aether%20Meltdown%0A1%09Aethersphere%20Harvester%0A1%09Deep%20Freeze%0A1%09Diamond%20Mare%0A1%09Jace's%20Defeat%0A3%09Negate%0A3%09Nimble%20Obstructionist%0A3%09Syncopate)
 # Maindeck
 
@@ -41,10 +41,10 @@
 |                    1|[Mystic Archaeologist](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447199)      |                    1|[Shielded Aether Thief](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423711) |
 |                    1|[Memorial to Genius](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443131)        |                    2|[Thriving Turtle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417639)       |
 |                    1|[Revolutionary Rebuff](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417634)      |                    2|[Shielded Aether Thief](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423711) |
-|                    2|[Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447135)                    |                    4|[Nimble Obstructionist](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430729) |
-|                    1|[Spellweaver Eternal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430735)       |                    1|[Dive Down](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435205)             |
-|                    1|[Mist-Cloaked Herald](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439700)       |                    1|[Chart a Course](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435200)        |
-|                    2|[Spellweaver Eternal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430735)       |                    1|[Unsummon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439355)              |
+|                    1|[Spellweaver Eternal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430735)       |                    4|[Nimble Obstructionist](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430729) |
+|                    1|[Mist-Cloaked Herald](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439700)       |                    1|[Dive Down](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435205)             |
+|                    2|[Spellweaver Eternal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430735)       |                    1|[Chart a Course](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435200)        |
+|                    2|[Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447135)                    |                    1|[Unsummon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439355)              |
 |                    3|[Thriving Turtle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417639)           |                    2|[Unsummon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439355)              |
 |                    3|[Baral, Chief of Compliance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423695)|                    1|[Surge Mare](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447213)            |
 |                    4|[Essence Scatter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438446)           |                    2|[Surge Mare](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447213)            |
@@ -53,10 +53,10 @@
 |                    4|[Unsummon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439355)                  |                    1|[Metamorphic Alteration](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447196)|
 |                    4|[Exclusion Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447191)            |                    1|[Entrancing Melody](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435207)     |
 |                     |                                                                                                     |                    2|[Chart a Course](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435200)        |
-|                     |                                                                                                     |                    1|[Jace, Cunning Castaway](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435212)|
-|                     |                                                                                                     |                    2|[Jace, Cunning Castaway](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435212)|
 |                     |                                                                                                     |                    1|[Vizier of Many Faces](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426776)  |
 |                     |                                                                                                     |                    2|[Vizier of Many Faces](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426776)  |
+|                     |                                                                                                     |                    1|[Jace, Cunning Castaway](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435212)|
+|                     |                                                                                                     |                    2|[Jace, Cunning Castaway](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435212)|
 |                     |                                                                                                     |                    2|[Jace's Defeat](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430727)         |
 |                     |                                                                                                     |                    3|[Jace's Defeat](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430727)         |
 |                     |                                                                                                     |                    3|[Sleep](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405385)                 |

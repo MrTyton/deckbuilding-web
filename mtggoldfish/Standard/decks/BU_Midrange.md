@@ -69,6 +69,6 @@
 |                     |                                                                                                |                    2|[Dreamstealer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430752)          |
 |                     |                                                                                                |                    3|[Dreamstealer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430752)          |
 |                     |                                                                                                |                    2|[Kitesail Freebooter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435264)   |
-|                     |                                                                                                |                    2|[Contraband Kingpin](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417750)    |
 |                     |                                                                                                |                    3|[Vraska's Contempt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435283)     |
+|                     |                                                                                                |                    2|[Contraband Kingpin](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417750)    |
 

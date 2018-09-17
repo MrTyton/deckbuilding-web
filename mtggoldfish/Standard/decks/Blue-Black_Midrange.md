@@ -71,6 +71,6 @@
 |                    4|[Censor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426748)                   |                     |                                                                                                |
 |                    4|[Syncopate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=270369)                |                     |                                                                                                |
 |                    4|Commit/Memory                                                                                       |                     |                                                                                                |
-|                    8|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439602)                   |                     |                                                                                                |
 |                    7|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439602)                   |                     |                                                                                                |
+|                    8|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439602)                   |                     |                                                                                                |
 
