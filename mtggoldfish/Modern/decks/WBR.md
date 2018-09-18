@@ -32,9 +32,9 @@
 
 |*n*<sup>th</sup> copy|                                         Maindeck Card                                          |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
 |--------------------:|------------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
-|                    1|[Engineered Explosives](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370549)|                    1|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205013)|
-|                    2|[Bedlam Reveler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414415)       |                    1|[Bitterblossom](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397701)      |
-|                     |                                                                                                |                    1|[Anguished Unmaking](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=410006) |
+|                    1|[Engineered Explosives](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370549)|                    1|[Bitterblossom](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397701)      |
+|                    2|[Bedlam Reveler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414415)       |                    1|[Anguished Unmaking](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=410006) |
+|                     |                                                                                                |                    1|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205013)|
 |                     |                                                                                                |                    2|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205013)|
 |                     |                                                                                                |                    3|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205013)|
 

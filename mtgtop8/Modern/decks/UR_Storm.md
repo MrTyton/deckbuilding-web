@@ -1,7 +1,7 @@
 # UR Storm
 
 #### [Export MTGO List](../collection/UR%20Storm/UR%20Storm.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Baral,%20Chief%20of%20Compliance%0A4%09Desperate%20Ritual%0A4%09Gifts%20Ungiven%0A2%09Goblin%20Electromancer%0A3%09Grapeshot%0A2%09Island%0A4%09Manamorphose%0A1%09Mountain%0A1%09Noxious%20Revival%0A3%09Opt%0A2%09Past%20in%20Flames%0A4%09Pyretic%20Ritual%0A2%09Remand%0A1%09Repeal%0A4%09Serum%20Visions%0A4%09Shivan%20Reef%0A4%09Sleight%20of%20Hand%0A2%09Snow-Covered%20Island%0A4%09Spirebluff%20Canal%0A4%09Steam%20Vents%0A1%09Unsubstantiate&deckside=2%09Abrade%0A1%09Echoing%20Truth%0A3%09Empty%20the%20Warrens%0A3%09Lightning%20Bolt%0A1%09Peer%20Through%20Depths%0A4%09Pieces%20of%20the%20Puzzle%0A1%09Wipe%20Away)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Baral,%20Chief%20of%20Compliance%0A4%09Desperate%20Ritual%0A4%09Gifts%20Ungiven%0A2%09Goblin%20Electromancer%0A3%09Grapeshot%0A2%09Island%0A4%09Manamorphose%0A1%09Mountain%0A1%09Noxious%20Revival%0A3%09Opt%0A2%09Past%20in%20Flames%0A4%09Pyretic%20Ritual%0A2%09Remand%0A1%09Repeal%0A4%09Serum%20Visions%0A4%09Shivan%20Reef%0A4%09Sleight%20of%20Hand%0A2%09Snow-Covered%20Island%0A4%09Spirebluff%20Canal%0A4%09Steam%20Vents%0A1%09Unsubstantiate&deckside=2%09Abrade%0A1%09Echoing%20Truth%0A3%09Empty%20the%20Warrens%0A1%09Gigadrowse%0A3%09Lightning%20Bolt%0A4%09Pieces%20of%20the%20Puzzle%0A1%09Wipe%20Away)
 # Maindeck
 
 |                                             Creature (6)                                              |                                        Instant (24)                                         |                                           Land (17)                                            |                                       Sorcery (13)                                        |
@@ -19,29 +19,29 @@
 
 # Sideboard
 
-|                                          Instant (8)                                           |                                           Sorcery (7)                                           |
-|------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
-|2 [Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)             |3 [Empty the Warrens](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370480)   |
-|1 [Echoing Truth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370394)      |4 [Pieces of the Puzzle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409821)|
-|3 [Lightning Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=234704)     |                                                                                                 |
-|1 [Peer Through Depths](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370540)|                                                                                                 |
-|1 [Wipe Away](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=118911)          |                                                                                                 |
+|                                        Instant (8)                                        |                                           Sorcery (7)                                           |
+|-------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
+|2 [Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)        |3 [Empty the Warrens](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370480)   |
+|1 [Echoing Truth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370394) |4 [Pieces of the Puzzle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409821)|
+|1 [Gigadrowse](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=96864)     |                                                                                                 |
+|3 [Lightning Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=234704)|                                                                                                 |
+|1 [Wipe Away](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=118911)     |                                                                                                 |
 
 
 # Other Options
 
 |*n*<sup>th</sup> copy|                                          Maindeck Card                                          |*n*<sup>th</sup> copy|                                         Sideboard Card                                         |
 |--------------------:|-------------------------------------------------------------------------------------------------|--------------------:|------------------------------------------------------------------------------------------------|
-|                    4|[Opt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435217)                   |                    1|[Gigadrowse](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=96864)            |
-|                    3|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439602)                |                    1|[Shattering Spree](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=97233)      |
-|                    1|[Lightning Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=234704)        |                    1|[Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447135)               |
+|                    4|[Opt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435217)                   |                    1|[Shattering Spree](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=97233)      |
+|                    1|[Lightning Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=234704)        |                    1|[Peer Through Depths](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370540)  |
+|                    3|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439602)                |                    1|[Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447135)               |
 |                    3|[Goblin Electromancer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425991)  |                    1|[Thing in the Ice](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409836)     |
 |                    1|[Empty the Warrens](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370480)     |                    2|[Thing in the Ice](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409836)     |
 |                    1|[Pyromancer Ascension](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425933)  |                    1|[Dispel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=201562)               |
 |                    2|[Pyromancer Ascension](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425933)  |                    1|[Grim Lavamancer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=234706)      |
-|                    3|[Remand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397881)                |                    1|[Fiery Impulse](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=398516)        |
-|                    4|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439602)                |                    2|[Dispel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=201562)               |
-|                    2|[Lightning Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=234704)        |                    2|[Shattering Spree](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=97233)      |
+|                    2|[Lightning Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=234704)        |                    1|[Fiery Impulse](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=398516)        |
+|                    3|[Remand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397881)                |                    2|[Dispel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=201562)               |
+|                    4|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439602)                |                    2|[Shattering Spree](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=97233)      |
 |                    1|[Polluted Delta](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405104)        |                    1|[Blood Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370419)           |
 |                    1|[Peek](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=30686)                   |                    2|[Blood Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370419)           |
 |                    1|[Snow-Covered Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=184814) |                    1|[Engineered Explosives](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370549)|

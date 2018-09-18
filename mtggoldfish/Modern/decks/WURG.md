@@ -34,8 +34,8 @@
 |*n*<sup>th</sup> copy|                                       Maindeck Card                                       |*n*<sup>th</sup> copy|                                       Sideboard Card                                       |
 |--------------------:|-------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------|
 |                    1|[Stomping Ground](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405110) |                    1|[Meddling Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=26591)     |
-|                    3|[Militia Bugler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447165)  |                    1|[Izzet Staticaster](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=253638)|
-|                    4|[Path to Exile](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370408)   |                    1|[Qasali Pridemage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=249405) |
-|                    3|[Misty Rainforest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426065)|                    2|[Izzet Staticaster](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=253638)|
-|                     |                                                                                           |                    2|[Meddling Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=26591)     |
+|                    3|[Militia Bugler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447165)  |                    1|[Qasali Pridemage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=249405) |
+|                    3|[Misty Rainforest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426065)|                    2|[Meddling Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=26591)     |
+|                    4|[Path to Exile](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370408)   |                    2|[Izzet Staticaster](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=253638)|
+|                     |                                                                                           |                    1|[Izzet Staticaster](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=253638)|
 
