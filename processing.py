@@ -1,8 +1,6 @@
 from classes import Ranking, parseDecklist
 from os import listdir, remove, makedirs
 from os.path import isfile, join, exists
-from scraper import load_page
-from optparse import OptionParser
 from logger import log
 
 

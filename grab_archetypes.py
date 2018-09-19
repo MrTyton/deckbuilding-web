@@ -53,9 +53,11 @@ def runer(base, format):
                     break
                 else:
                     i += 1
+                    log("\t\tSomething broke. Breaking for 30 seconds.", 'warning')
+                    sleep(30)
             except Exception as e:
-                log("\t\tSomething broke with error {}.\n\t\tBreaking for 5 seconds.".format(e), 'warning')
-                sleep(5)
+                log("\t\tSomething broke with error {}.\n\t\tBreaking for 30 seconds.".format(e), 'warning')
+                sleep(30)
                 i += 1
         if i == 10:
             log("\tCould not scrape {} at {}".format(name, link), 'error')
@@ -63,7 +65,7 @@ def runer(base, format):
     return failed
     
 start = time()
-#a = []
+a = []
 a = runer("http://mtgtop8.com/format?f=LE", "Legacy")
 a.extend(runer("http://mtgtop8.com/format?f=MO", "Modern"))
 a.extend(runer("http://mtgtop8.com/format?f=ST", "Standard"))

@@ -17,8 +17,8 @@
 1 Sylvan Caryatid
 1 Hallowed Fountain
 1 Glittering Wish
-1 Cerulean Wisps
 1 Jeskai Ascendancy
+1 Cerulean Wisps
 1 Fatestitcher
 1 Nagging Thoughts
 1 Manamorphose
@@ -49,19 +49,19 @@
 4 Birds of Paradise
 4 Glittering Wish
 4 Manamorphose
+1 Sorcerous Spyglass
 1 Scalding Tarn
 2 Scalding Tarn
-1 Opt
 1 Abundant Growth
+1 Opt
 1 Noble Hierarch
 1 Botanical Sanctum
 2 Nagging Thoughts
 1 Swan Song
-1 Sorcerous Spyglass
+1 Swamp
 2 Faithless Looting
 1 Blood Crypt
 1 Stitcher's Supplier
-1 Swamp
 1 Bloodstained Mire
 2 Stitcher's Supplier
 2 Bloodstained Mire
@@ -104,8 +104,8 @@
 3 Walking Ballista
 3 Bloodstained Mire
 4 Polluted Delta
-4 Walking Ballista
 4 Bridge from Below
+4 Walking Ballista
 4 Gravecrawler
 4 Insolent Neonate
 4 Vengevine
@@ -113,23 +113,23 @@
 4 Hedron Crab
 4 Bloodstained Mire
 2 Silence
+1 Forest
 1 Flooded Strand
 1 Horizon Canopy
 1 Mystic Speculation
 1 Path to Exile
 3 Fatestitcher
 3 Pithing Needle
-1 Forest
 1 Wooded Foothills
 1 Mountain
 1 Sacred Foundry
 2 Wooded Foothills
 3 Wooded Foothills
 4 Wooded Foothills
-1 Field of Ruin
-1 Overgrown Tomb
 1 Conflagrate
+1 Overgrown Tomb
 1 Life from the Loam
+1 Field of Ruin
 1 Cathartic Reunion
 1 Urborg, Tomb of Yawgmoth
 1 Narcomoeba
@@ -143,8 +143,8 @@
 1 Elesh Norn, Grand Cenobite
 1 Raven's Crime
 1 Lingering Souls
-2 Life from the Loam
 2 Conflagrate
+2 Life from the Loam
 2 Urborg, Tomb of Yawgmoth
 2 Stomping Ground
 2 Stinkweed Imp
@@ -204,8 +204,9 @@
 4 Arid Mesa
 1 Tendo Ice Bridge
 1 Mind Stone
-1 Emrakul, the Aeons Torn
+1 Artificer's Assistant
 1 Conjurer's Bauble
+1 Emrakul, the Aeons Torn
 1 Sai, Master Thopterist
 1 Buried Ruin
 1 Pyrite Spellbomb
@@ -215,31 +216,30 @@
 1 Chromatic Star
 1 Krark-Clan Ironworks
 1 Darksteel Citadel
-1 Artificer's Assistant
+2 Artificer's Assistant
+2 Tendo Ice Bridge
+2 Conjurer's Bauble
 2 Engineered Explosives
 2 Scrap Trawler
-2 Conjurer's Bauble
 2 Krark-Clan Ironworks
 2 Ichor Wellspring
 2 Mind Stone
-2 Tendo Ice Bridge
 2 Darksteel Citadel
-2 Artificer's Assistant
 2 Buried Ruin
 2 Myr Retriever
 2 Chromatic Star
+3 Conjurer's Bauble
 3 Tendo Ice Bridge
 3 Ichor Wellspring
 3 Chromatic Star
 3 Scrap Trawler
 3 Darksteel Citadel
 3 Mind Stone
-3 Conjurer's Bauble
 3 Krark-Clan Ironworks
+4 Conjurer's Bauble
 4 Chromatic Star
 4 Mind Stone
 4 Darksteel Citadel
 4 Scrap Trawler
-4 Conjurer's Bauble
 4 Krark-Clan Ironworks
 4 Ichor Wellspring

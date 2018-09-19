@@ -10,8 +10,8 @@ from time import time, sleep
 import datetime
 from logger import log
 
-if exists("card_backup.pkl"):
-    with open("card_backup.pkl", "rb") as fp:
+if exists("./data/card_backup.pkl"):
+    with open("./data/card_backup.pkl", "rb") as fp:
         memoizer = pickle.load(fp)
 else:
     log("Creating memoizer")
@@ -165,6 +165,6 @@ if __name__ == "__main__":
                 log(f"\tGenerating Page for {title}")
                 run(title, dir, format, site)
 
-            with open("card_backup.pkl", "wb") as fp:
+            with open("./data/card_backup.pkl", "wb") as fp:
                 pickle.dump(memoizer, fp)
     log(f"Time for generating decklists: {str(datetime.timedelta(seconds=time()-start))}")

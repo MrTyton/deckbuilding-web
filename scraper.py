@@ -17,8 +17,8 @@ mtggoldfishcompile = re.compile(r"/(\d+)")
 
 headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.36'}
 
-if exists("./cached_decklists.pkl"):
-    with open("./cached_decklists.pkl") as fp:
+if exists("./data/cached_decklists.pkl"):
+    with open("./data/cached_decklists.pkl") as fp:
         cached_files = pickle.load(fp)
 else:
     cached_files = {}
@@ -41,6 +41,8 @@ def load_page(url):
         mtgtop8 = False
         decks = bs.find_all("a", href = lambda href: href and "/deck" in href and "#paper" in href)
         urls = ["https://mtggoldfish.com{}".format(x['href']) for x in decks]
+        if len(urls) == 0:
+            raise Exception("Issue grabbing lists.")
     log("\t\t{} decks to download and process...".format(len(urls)))
     decklists = []
     for cur in urls:
@@ -50,7 +52,7 @@ def load_page(url):
             log("\t\tError connecting to website: {}".format(e), 'error')
     log("\t\tFinished processing decks.")
     global cached_files
-    with open("./cached_decklists.pkl", "wb") as fp:
+    with open("./data/cached_decklists.pkl", "wb") as fp:
         pickle.dump(cached_files, fp)
     return decklists
 
@@ -73,7 +75,7 @@ def parse_deck_page(url, mtgtop8=True):
         raise ConnectionError("Could not connect to website")
     if resp.status_code != 200:
         raise ConnectionError("Error code ".format(resp.status_code))
-    with NamedTemporaryFile(delete=False, dir="./temp") as fp:
+    with NamedTemporaryFile(delete=False, dir="./data/temp") as fp:
         fp.write(resp.text)
         name = fp.name
     cached_files[link] = name
