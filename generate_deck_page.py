@@ -163,7 +163,10 @@ if __name__ == "__main__":
                           if os.path.isdir(os.path.join(d, o))]
             for title, dir in archetypes:
                 log(f"\tGenerating Page for {title}")
-                run(title, dir, format, site)
+                try:
+                    run(title, dir, format, site)
+                except:
+                    continue
 
             with open("./data/card_backup.pkl", "wb") as fp:
                 pickle.dump(memoizer, fp)

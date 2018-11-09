@@ -66,12 +66,12 @@ def runer(base, format):
     
 start = time()
 a = []
-a = runer("http://mtgtop8.com/format?f=LE", "Legacy")
-a.extend(runer("http://mtgtop8.com/format?f=MO", "Modern"))
-a.extend(runer("http://mtgtop8.com/format?f=ST", "Standard"))
-a.extend(runer("https://www.mtggoldfish.com/metagame/legacy/full#paper", "Legacy"))
-a.extend(runer("https://www.mtggoldfish.com/metagame/modern/full#paper", "Modern"))
 a.extend(runer("https://www.mtggoldfish.com/metagame/standard/full#paper", "Standard"))
+a.extend(runer("http://mtgtop8.com/format?f=LE", "Legacy"))
+a.extend(runer("https://www.mtggoldfish.com/metagame/modern/full#paper", "Modern"))
+a.extend(runer("http://mtgtop8.com/format?f=MO", "Modern"))
+a.extend(runer("https://www.mtggoldfish.com/metagame/legacy/full#paper", "Legacy"))
+a.extend(runer("http://mtgtop8.com/format?f=ST", "Standard"))
 log("Time for scraping decklists: {}".format(str(timedelta(seconds=time()-start))))    
 if a:
     log("Didn't get the following: {}".format(a), 'error')

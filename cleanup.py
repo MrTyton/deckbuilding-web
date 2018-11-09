@@ -21,7 +21,7 @@ if not exists("./data/temp"):
 if exists("./data/temp"):
     now = time()
     for f in os.listdir("./data/temp"):
-        if os.stat(os.path.join("./data/temp",f)).st_mtime < now - 14 * 86400:
+        if os.stat(os.path.join("./data/temp",f)).st_mtime < now - 60 * 86400:
             os.remove(os.path.join("./data/temp", f))
 if exists("./data/cached_files.pkl"):
     with open("./data/cached_decklists.pkl") as fp:

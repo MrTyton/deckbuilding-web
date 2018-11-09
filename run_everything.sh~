@@ -4,6 +4,6 @@ python2.7 cleanup.py
 python2.7 grab_archetypes.py
 python3.6 generate_deck_page.py
 python3.6 generate_readme.py
-#git add .
-#git commit -m "Update"
-#git push
+git add .
+git commit -m "Update"
+git push

@@ -5,21 +5,20 @@ from logger import log
 
 
 def compute(collective, rankings, deck_size=60):
-    if len(collective) < deck_size:
-        return None, None
     removed = []
-    for _ in range(len(collective) - deck_size):
-        for cards, rank in rankings.getNext():
-            updater = rank * (1. / (2 ** len(cards)))
-            for card in cards:
-                card.updateRank(updater)
-        collective = sorted(
-            collective, key=lambda x: (
-                x.uprank, 100 - x.position))
-        removed.append(collective[0])
-        rankings.remove(collective[0])
-        collective = collective[1:]
-        [x.resetRank() for x in collective]
+    if len(collective) >= deck_size:
+        for _ in range(len(collective) - deck_size):
+            for cards, rank in rankings.getNext():
+                updater = rank * (1. / (2 ** len(cards)))
+                for card in cards:
+                    card.updateRank(updater)
+            collective = sorted(
+                collective, key=lambda x: (
+                    x.uprank, 100 - x.position))
+            removed.append(collective[0])
+            rankings.remove(collective[0])
+            collective = collective[1:]
+            [x.resetRank() for x in collective]
     names = set(x.name for x in collective)
     namelist = [x.name for x in collective]
     finallist = sorted([(x, namelist.count(x)) for x in names])

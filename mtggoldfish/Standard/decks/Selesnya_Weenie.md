@@ -1,0 +1,27 @@
+# Selesnya Weenie
+
+#### [Export MTGO List](../collection/Selesnya%20Weenie/Selesnya%20Weenie.txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Adanto%20Vanguard%0A4%09Benalish%20Marshal%0A4%09Conclave%20Tribunal%0A3%09Dauntless%20Bodyguard%0A3%09Emmara,%20Soul%20of%20the%20Accord%0A4%09History%20of%20Benalia%0A4%09Hunted%20Witness%0A3%09Legion's%20Landing%0A14%09Plains%0A2%09Shalai,%20Voice%20of%20Plenty%0A4%09Sunpetal%20Grove%0A4%09Temple%20Garden%0A3%09Trostani%20Discordant%0A4%09Venerated%20Loxodon&deckside=2%09Ajani,%20Adversary%20of%20Tyrants%0A2%09Baffling%20End%0A2%09Bounty%20Agent%0A3%09Lyra%20Dawnbringer%0A3%09Shield%20Mare%0A3%09Tocatli%20Honor%20Guard)
+# Maindeck
+
+|                                             Creature (27)                                             |                                       Enchantment (11)                                        |                                         Land (22)                                         |
+|-------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
+|4 [Adanto Vanguard](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435152)           |4 [Conclave Tribunal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452756) |14 [Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439601)       |
+|4 [Benalish Marshal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442894)          |4 [History of Benalia](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442909)|4 [Sunpetal Grove](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420946)|
+|3 [Dauntless Bodyguard](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442902)       |3 [Legion's Landing](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435173)  |4 [Temple Garden](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405112) |
+|3 [Emmara, Soul of the Accord](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452918)|                                                                                               |                                                                                           |
+|4 [Hunted Witness](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452765)            |                                                                                               |                                                                                           |
+|2 [Shalai, Voice of Plenty](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442923)   |                                                                                               |                                                                                           |
+|3 [Trostani Discordant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452958)       |                                                                                               |                                                                                           |
+|4 [Venerated Loxodon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452780)         |                                                                                               |                                                                                           |
+
+
+# Sideboard
+
+|                                         Creature (11)                                          |                                     Enchantment (2)                                     |                                            Planeswalker (2)                                            |
+|------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|
+|2 [Bounty Agent](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452752)       |2 [Baffling End](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439658)|2 [Ajani, Adversary of Tyrants](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447139)|
+|3 [Lyra Dawnbringer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442914)   |                                                                                         |                                                                                                        |
+|3 [Shield Mare](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447173)        |                                                                                         |                                                                                                        |
+|3 [Tocatli Honor Guard](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435194)|                                                                                         |                                                                                                        |
+

@@ -1,0 +1,33 @@
+# Hollow Phoenix
+
+#### [Export MTGO List](../collection/Hollow%20Phoenix/Hollow%20Phoenix.txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Arclight%20Phoenix%0A4%09Burning%20Inquiry%0A4%09Faithless%20Looting%0A3%09Fiery%20Temper%0A4%09Flameblade%20Adept%0A3%09Goblin%20Lore%0A3%09Gut%20Shot%0A4%09Hollow%20One%0A4%09Lightning%20Bolt%0A4%09Manamorphose%0A18%09Mountain%0A1%09Risk%20Factor%0A4%09Street%20Wraith&deckside=2%09Abrade%0A2%09Blood%20Moon%0A3%09Dragon's%20Claw%0A2%09Ravenous%20Trap%0A2%09Shrine%20of%20Burning%20Rage%0A4%09Surgical%20Extraction)
+# Maindeck
+
+|                                        Creature (16)                                        |                                       Instant (15)                                        |                                      Land (18)                                       |                                         Sorcery (11)                                         |
+|---------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
+|4 [Arclight Phoenix](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452841)|3 [Fiery Temper](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=108880)  |18 [Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439604)|4 [Burning Inquiry](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=191096)  |
+|4 [Flameblade Adept](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426833)|3 [Gut Shot](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397673)      |                                                                                      |4 [Faithless Looting](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413670)|
+|4 [Hollow One](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430852)      |4 [Lightning Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=234704)|                                                                                      |3 [Goblin Lore](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=6602)        |
+|4 [Street Wraith](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370428)   |4 [Manamorphose](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370568)  |                                                                                      |                                                                                              |
+|                                                                                             |1 [Risk Factor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452863)   |                                                                                      |                                                                                              |
+
+
+# Sideboard
+
+|                                           Artifact (5)                                            |                                    Enchantment (2)                                    |                                          Instant (8)                                           |
+|---------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
+|3 [Dragon's Claw](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=243481)         |2 [Blood Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370419)|2 [Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)             |
+|2 [Shrine of Burning Rage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=218018)|                                                                                       |2 [Ravenous Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197537)      |
+|                                                                                                   |                                                                                       |4 [Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|
+
+
+# Other Options
+
+|*n*<sup>th</sup> copy|Maindeck Card|*n*<sup>th</sup> copy|                                      Sideboard Card                                       |
+|---------------------|-------------|--------------------:|-------------------------------------------------------------------------------------------|
+|                     |             |                    1|[Kozilek's Return](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407608)|
+|                     |             |                    2|[Kozilek's Return](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407608)|
+|                     |             |                    3|[Blood Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370419)      |
+|                     |             |                    3|[Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)          |
+

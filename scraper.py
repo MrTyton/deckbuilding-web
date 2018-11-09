@@ -75,6 +75,10 @@ def parse_deck_page(url, mtgtop8=True):
         raise ConnectionError("Could not connect to website")
     if resp.status_code != 200:
         raise ConnectionError("Error code ".format(resp.status_code))
+    if resp.text == "Throttled":
+        print "Breaking for 30 seconds while downloading list."
+        sleep(30)
+        return parse_deck_page(url, mtgtop8)
     with NamedTemporaryFile(delete=False, dir="./data/temp") as fp:
         fp.write(resp.text)
         name = fp.name
