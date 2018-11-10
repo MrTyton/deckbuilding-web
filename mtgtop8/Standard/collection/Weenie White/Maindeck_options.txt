@@ -1,20 +1,24 @@
-1 Snubhorn Sentry
-2 Snubhorn Sentry
-3 Snubhorn Sentry
-21 Plains
-1 Baffling End
 1 Remorseful Cleric
-2 Remorseful Cleric
-3 Remorseful Cleric
-2 Pride of Conquerors
 1 Sacred Foundry
 1 Clifftop Retreat
 2 Sacred Foundry
 2 Clifftop Retreat
 3 Sacred Foundry
 4 Sacred Foundry
+1 Snubhorn Sentry
+2 Snubhorn Sentry
+3 Snubhorn Sentry
+1 Baffling End
+21 Plains
+2 Remorseful Cleric
+3 Remorseful Cleric
 3 Clifftop Retreat
 4 Clifftop Retreat
+2 Pride of Conquerors
+1 Heroic Reinforcements
+2 Heroic Reinforcements
+3 Heroic Reinforcements
+4 Heroic Reinforcements
 4 Conclave Tribunal
 1 Shalai, Voice of Plenty
 2 Shalai, Voice of Plenty
@@ -24,10 +28,6 @@
 2 Leonin Vanguard
 3 Leonin Vanguard
 4 Leonin Vanguard
-1 Heroic Reinforcements
-2 Heroic Reinforcements
-3 Heroic Reinforcements
-4 Heroic Reinforcements
 1 Healer's Hawk
 2 Healer's Hawk
 3 Healer's Hawk
@@ -36,9 +36,9 @@
 3 Rustwing Falcon
 1 Make a Stand
 1 Mountain
-1 Emmara, Soul of the Accord
 1 Sunpetal Grove
 1 Temple Garden
+1 Emmara, Soul of the Accord
 1 Flower / Flourish
 1 Thorn Lieutenant
 1 Forest
@@ -61,6 +61,7 @@
 4 Flower / Flourish
 4 Thorn Lieutenant
 2 Ajani, Adversary of Tyrants
+1 Experimental Frenzy
 1 Tocatli Honor Guard
 4 Rustwing Falcon
 2 Make a Stand
@@ -76,7 +77,7 @@
 3 Resplendent Angel
 3 Lyra Dawnbringer
 3 Aurelia, Exemplar of Justice
-1 Experimental Frenzy
+1 Chance for Glory
 2 Baffling End
 1 Bounty Agent
 2 Bounty Agent
@@ -91,6 +92,9 @@
 4 Duskborne Skymarcher
 4 Healer's Hawk
 4 Remorseful Cleric
+2 Tocatli Honor Guard
+3 Tocatli Honor Guard
+4 Tocatli Honor Guard
 1 Response / Resurgence
 1 Goblin Instigator
 1 Siege-Gang Commander
@@ -104,9 +108,6 @@
 3 Goblin Instigator
 4 Resplendent Angel
 4 Boros Guildgate
-2 Tocatli Honor Guard
-3 Tocatli Honor Guard
-4 Tocatli Honor Guard
 1 Tajic, Legion's Edge
 1 Boros Challenger
 1 Integrity / Intervention

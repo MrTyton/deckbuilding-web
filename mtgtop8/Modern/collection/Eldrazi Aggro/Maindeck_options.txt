@@ -1,8 +1,9 @@
-3 Dismember
-2 Cavern of Souls
-1 Relic of Progenitus
 1 Simian Spirit Guide
 2 Simian Spirit Guide
+2 Karn Liberated
+3 Dismember
+1 Relic of Progenitus
+2 Cavern of Souls
 4 Ghost Quarter
 1 Mutavault
 1 Gemstone Caverns
@@ -22,7 +23,6 @@
 4 Eldrazi Mimic
 4 Serum Powder
 2 Relic of Progenitus
-2 Karn Liberated
 1 Scavenger Grounds
 1 Smuggler's Copter
 1 Zhalfirin Void
@@ -36,10 +36,26 @@
 1 Ugin, the Spirit Dragon
 3 Endbringer
 4 Wastes
+1 Oblivion Sower
+2 Oblivion Sower
+1 Buried Ruin
+1 Wurmcoil Engine
+1 Spatial Contortion
+2 Spatial Contortion
+3 Spatial Contortion
+2 Smuggler's Copter
+1 Batterskull
 1 Eldrazi Obligator
 2 Eldrazi Obligator
 3 Eldrazi Obligator
 4 Eldrazi Obligator
+3 Mutavault
+4 Mutavault
+1 Endless One
+2 Endless One
+3 Endless One
+4 Endless One
+3 Gemstone Caverns
 1 Noble Hierarch
 1 Forest
 1 Ancient Stirrings
@@ -50,6 +66,7 @@
 3 Noble Hierarch
 4 Ancient Stirrings
 4 Noble Hierarch
+1 Mountain
 1 Bloodbraid Elf
 1 Grove of the Burnwillows
 1 Karplusan Forest
@@ -68,29 +85,6 @@
 4 Grove of the Burnwillows
 4 Karplusan Forest
 3 Cavern of Souls
-2 Smuggler's Copter
-1 Buried Ruin
-1 Wurmcoil Engine
-1 Spatial Contortion
-2 Spatial Contortion
-3 Spatial Contortion
-1 Blood Moon
-1 Talisman of Impulse
-2 Blood Moon
-2 Talisman of Impulse
-3 Blood Moon
-3 Talisman of Impulse
-3 Forest
-4 Forest
-1 Mountain
-1 Batterskull
-3 Mutavault
-4 Mutavault
-1 Endless One
-2 Endless One
-3 Endless One
-4 Endless One
-3 Gemstone Caverns
 3 Relic of Progenitus
 4 Relic of Progenitus
 1 Eldrazi Displacer
@@ -104,8 +98,6 @@
 4 Eldrazi Displacer
 1 Warping Wail
 1 Sorcerous Spyglass
-1 Oblivion Sower
-2 Oblivion Sower
 2 Ulamog, the Ceaseless Hunger
 1 Scavenging Ooze
 1 Stomping Ground
@@ -139,6 +131,14 @@
 3 Windswept Heath
 4 Windswept Heath
 4 Drowner of Hope
+1 Blood Moon
+1 Talisman of Impulse
+2 Blood Moon
+2 Talisman of Impulse
+3 Blood Moon
+3 Talisman of Impulse
+3 Forest
+4 Forest
 1 Godless Shrine
 1 Fetid Heath
 1 Thalia, Heretic Cathar

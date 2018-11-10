@@ -24,12 +24,20 @@
 
 # Other Options
 
-|*n*<sup>th</sup> copy|                                       Maindeck Card                                        |*n*<sup>th</sup> copy|                                    Sideboard Card                                    |
-|--------------------:|--------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------|
-|                    1|[Gut Shot](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397673)         |                    2|[Risk Factor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452863)|
-|                    2|[Gut Shot](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397673)         |                     |                                                                                      |
-|                    2|[The Flame of Keld](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443011)|                     |                                                                                      |
-|                    3|[Gut Shot](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397673)         |                     |                                                                                      |
-|                    4|[Gut Shot](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397673)         |                     |                                                                                      |
-|                    1|[The Flame of Keld](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443011)|                     |                                                                                      |
+|*n*<sup>th</sup> copy|                                       Maindeck Card                                        |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
+|--------------------:|--------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
+|                    1|[Gut Shot](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397673)         |                    2|[Risk Factor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452863)        |
+|                    2|[Gut Shot](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397673)         |                    1|[Flame Slash](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=368536)        |
+|                    1|[The Flame of Keld](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443011)|                    1|[Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)             |
+|                    2|[The Flame of Keld](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443011)|                    1|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|
+|                    3|[Gut Shot](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397673)         |                    1|[Alpine Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447264)        |
+|                    4|[Gut Shot](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397673)         |                    1|[Ravenous Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197537)      |
+|                    3|[Tormenting Voice](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438716) |                    2|[Alpine Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447264)        |
+|                   19|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439604)         |                    2|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|
+|                    2|[Tormenting Voice](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438716) |                    2|[Ravenous Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197537)      |
+|                     |                                                                                            |                    2|[Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)             |
+|                     |                                                                                            |                    3|[Alpine Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447264)        |
+|                     |                                                                                            |                    3|[Dragon's Claw](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=243481)      |
+|                     |                                                                                            |                    3|[Ravenous Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197537)      |
+|                     |                                                                                            |                    4|[Ravenous Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197537)      |
 
