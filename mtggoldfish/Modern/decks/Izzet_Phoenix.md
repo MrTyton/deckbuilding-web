@@ -83,6 +83,6 @@
 |                    3|[Rift Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370469)           |                     |                                                                                                 |
 |                    4|[Arid Mesa](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426054)           |                     |                                                                                                 |
 |                    4|[Rift Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370469)           |                     |                                                                                                 |
-|                    5|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439604)            |                     |                                                                                                 |
 |                    4|[Lava Spike](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370409)          |                     |                                                                                                 |
+|                    5|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439604)            |                     |                                                                                                 |
 
