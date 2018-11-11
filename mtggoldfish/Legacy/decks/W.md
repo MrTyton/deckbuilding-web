@@ -1,0 +1,27 @@
+# W
+
+#### [Export MTGO List](../collection/W/W.txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Ancient%20Tomb%0A1%09Batterskull%0A3%09Cavern%20of%20Souls%0A4%09Chalice%20of%20the%20Void%0A3%09City%20of%20Traitors%0A2%09Containment%20Priest%0A4%09Eldrazi%20Displacer%0A4%09Eldrazi%20Temple%0A2%09Karakas%0A3%09Mox%20Diamond%0A1%09Palace%20Jailer%0A5%09Plains%0A3%09Reality%20Smasher%0A1%09Recruiter%20of%20the%20Guard%0A3%09Stoneforge%20Mystic%0A1%09Sword%20of%20Fire%20and%20Ice%0A4%09Thalia,%20Guardian%20of%20Thraben%0A3%09Thalia,%20Heretic%20Cathar%0A4%09Thought-Knot%20Seer%0A1%09Umezawa's%20Jitte%0A4%09Wasteland&deckside=1%09Cataclysm%0A2%09Disenchant%0A2%09Oblivion%20Ring%0A4%09Rest%20in%20Peace%0A3%09Spatial%20Contortion%0A3%09Swords%20to%20Plowshares)
+# Maindeck
+
+|                                          Artifact (10)                                           |                                             Creature (25)                                              |                                          Land (25)                                          |
+|--------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|
+|1 [Batterskull](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=233055)          |2 [Containment Priest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=429862)         |4 [Ancient Tomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382842)    |
+|4 [Chalice of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370411)  |4 [Eldrazi Displacer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407523)          |3 [Cavern of Souls](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426057) |
+|3 [Mox Diamond](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=212634)          |1 [Palace Jailer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416775)              |3 [City of Traitors](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397543)|
+|1 [Sword of Fire and Ice](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370471)|3 [Reality Smasher](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407517)            |4 [Eldrazi Temple](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397690)  |
+|1 [Umezawa's Jitte](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416756)      |1 [Recruiter of the Guard](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416779)     |2 [Karakas](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=201198)         |
+|                                                                                                  |3 [Stoneforge Mystic](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=198383)          |5 [Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439601)          |
+|                                                                                                  |4 [Thalia, Guardian of Thraben](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442025)|4 [Wasteland](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413790)       |
+|                                                                                                  |3 [Thalia, Heretic Cathar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414338)     |                                                                                             |
+|                                                                                                  |4 [Thought-Knot Seer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407519)          |                                                                                             |
+
+
+# Sideboard
+
+|                                     Enchantment (6)                                      |                                           Instant (8)                                           |                                     Sorcery (1)                                      |
+|------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
+|2 [Oblivion Ring](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205396)|2 [Disenchant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=201162)          |1 [Cataclysm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386286)|
+|4 [Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)|3 [Spatial Contortion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407518)  |                                                                                      |
+|                                                                                          |3 [Swords to Plowshares](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383119)|                                                                                      |
+

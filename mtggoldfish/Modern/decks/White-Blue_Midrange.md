@@ -1,7 +1,7 @@
 # White-Blue Midrange
 
 #### [Export MTGO List](../collection/White-Blue%20Midrange/White-Blue%20Midrange.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=1%09Cavern%20of%20Souls%0A4%09Celestial%20Colonnade%0A3%09Cryptic%20Command%0A2%09Detention%20Sphere%0A4%09Field%20of%20Ruin%0A4%09Flooded%20Strand%0A2%09Glacial%20Fortress%0A2%09Hallowed%20Fountain%0A5%09Island%0A3%09Kitchen%20Finks%0A1%09Mana%20Leak%0A1%09Mystic%20Gate%0A1%09Negate%0A4%09Opt%0A4%09Path%20to%20Exile%0A2%09Plains%0A4%09Restoration%20Angel%0A1%09Settle%20the%20Wreckage%0A3%09Snapcaster%20Mage%0A1%09Spell%20Snare%0A2%09Supreme%20Verdict%0A2%09Vendilion%20Clique%0A4%09Wall%20of%20Omens&deckside=2%09Cataclysmic%20Gearhulk%0A1%09Celestial%20Purge%0A1%09Disdainful%20Stroke%0A2%09Dispel%0A2%09Lyra%20Dawnbringer%0A2%09Negate%0A4%09Rest%20in%20Peace%0A1%09Teferi,%20Mage%20of%20Zhalfir)
+#### [Print on decklist.org](http://decklist.org/?deckmain=1%09Cavern%20of%20Souls%0A4%09Celestial%20Colonnade%0A3%09Cryptic%20Command%0A2%09Detention%20Sphere%0A4%09Field%20of%20Ruin%0A4%09Flooded%20Strand%0A2%09Glacial%20Fortress%0A2%09Hallowed%20Fountain%0A5%09Island%0A3%09Kitchen%20Finks%0A1%09Mana%20Leak%0A1%09Mystic%20Gate%0A1%09Negate%0A4%09Opt%0A4%09Path%20to%20Exile%0A2%09Plains%0A4%09Restoration%20Angel%0A1%09Settle%20the%20Wreckage%0A3%09Snapcaster%20Mage%0A1%09Spell%20Snare%0A2%09Supreme%20Verdict%0A2%09Vendilion%20Clique%0A4%09Wall%20of%20Omens&deckside=1%09Baneslayer%20Angel%0A2%09Cataclysmic%20Gearhulk%0A1%09Celestial%20Purge%0A1%09Disdainful%20Stroke%0A2%09Dispel%0A2%09Lyra%20Dawnbringer%0A1%09Negate%0A4%09Rest%20in%20Peace%0A1%09Teferi,%20Mage%20of%20Zhalfir)
 # Maindeck
 
 |                                        Creature (16)                                         |                                       Enchantment (2)                                       |                                          Instant (15)                                          |                                           Land (25)                                            |                                        Sorcery (2)                                         |
@@ -19,17 +19,17 @@
 
 # Sideboard
 
-|                                            Creature (5)                                            |                                     Enchantment (4)                                      |                                         Instant (6)                                          |
+|                                            Creature (6)                                            |                                     Enchantment (4)                                      |                                         Instant (5)                                          |
 |----------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
-|2 [Cataclysmic Gearhulk](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420588)   |4 [Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)|1 [Celestial Purge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397699)  |
-|2 [Lyra Dawnbringer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442914)       |                                                                                          |1 [Disdainful Stroke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446776)|
-|1 [Teferi, Mage of Zhalfir](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438641)|                                                                                          |2 [Dispel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=201562)           |
-|                                                                                                    |                                                                                          |2 [Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447135)           |
+|1 [Baneslayer Angel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401633)       |4 [Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)|1 [Celestial Purge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397699)  |
+|2 [Cataclysmic Gearhulk](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420588)   |                                                                                          |1 [Disdainful Stroke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446776)|
+|2 [Lyra Dawnbringer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442914)       |                                                                                          |2 [Dispel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=201562)           |
+|1 [Teferi, Mage of Zhalfir](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438641)|                                                                                          |1 [Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447135)           |
 
 
 # Other Options
 
-|*n*<sup>th</sup> copy|Maindeck Card|*n*<sup>th</sup> copy|                                      Sideboard Card                                       |
-|---------------------|-------------|--------------------:|-------------------------------------------------------------------------------------------|
-|                     |             |                    1|[Baneslayer Angel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401633)|
+|*n*<sup>th</sup> copy|Maindeck Card|*n*<sup>th</sup> copy|                                 Sideboard Card                                  |
+|---------------------|-------------|--------------------:|---------------------------------------------------------------------------------|
+|                     |             |                    2|[Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447135)|
 

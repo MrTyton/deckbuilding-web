@@ -31,7 +31,7 @@
 |--------------------:|--------------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------|
 |                    1|[Academy Ruins](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370424)    |                    1|[Misdirection](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438455)  |
 |                    1|[Darksteel Citadel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397853)|                    1|[Mindbreak Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197532)|
-|                    2|[Darksteel Citadel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397853)|                    2|[Misdirection](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438455)  |
+|                    1|[Lotus Petal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420602)      |                    2|[Misdirection](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438455)  |
+|                    2|[Darksteel Citadel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397853)|                     |                                                                                         |
 |                    3|[Darksteel Citadel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397853)|                     |                                                                                         |
-|                    1|[Lotus Petal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420602)      |                     |                                                                                         |
 
