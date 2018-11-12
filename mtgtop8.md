@@ -6,12 +6,12 @@
 
 |                             A                              |                             B                              |                                 C                                  |                              D                               |                             E                              |
 |------------------------------------------------------------|------------------------------------------------------------|--------------------------------------------------------------------|--------------------------------------------------------------|------------------------------------------------------------|
-|[45C Control](./mtgtop8/Standard/decks/45C_Control.md)      |[Fog](./mtgtop8/Standard/decks/Fog.md)                      |[Jeskai Control](./mtgtop8/Standard/decks/Jeskai_Control.md)        |[Orzhov Aggro](./mtgtop8/Standard/decks/Orzhov_Aggro.md)      |[Sultai Control](./mtgtop8/Standard/decks/Sultai_Control.md)|
-|[Abzan Midrange](./mtgtop8/Standard/decks/Abzan_Midrange.md)|[Golgari Aggro](./mtgtop8/Standard/decks/Golgari_Aggro.md)  |[Jeskai Midrange](./mtgtop8/Standard/decks/Jeskai_Midrange.md)      |[Other - Combo](./mtgtop8/Standard/decks/Other_-_Combo.md)    |[UB Control](./mtgtop8/Standard/decks/UB_Control.md)        |
-|[Boros Aggro](./mtgtop8/Standard/decks/Boros_Aggro.md)      |[Grixis Aggro](./mtgtop8/Standard/decks/Grixis_Aggro.md)    |[Mono Black Control](./mtgtop8/Standard/decks/Mono_Black_Control.md)|[Other - Control](./mtgtop8/Standard/decks/Other_-_Control.md)|[UR Aggro](./mtgtop8/Standard/decks/UR_Aggro.md)            |
-|[Dimir Midrange](./mtgtop8/Standard/decks/Dimir_Midrange.md)|[Grixis Control](./mtgtop8/Standard/decks/Grixis_Control.md)|[Mono Blue Aggro](./mtgtop8/Standard/decks/Mono_Blue_Aggro.md)      |[Red Deck Wins](./mtgtop8/Standard/decks/Red_Deck_Wins.md)    |[UW Control](./mtgtop8/Standard/decks/UW_Control.md)        |
-|[Dinosaurs](./mtgtop8/Standard/decks/Dinosaurs.md)          |[Gruul Aggro](./mtgtop8/Standard/decks/Gruul_Aggro.md)      |[Mono Green Aggro](./mtgtop8/Standard/decks/Mono_Green_Aggro.md)    |[Selesnya Aggro](./mtgtop8/Standard/decks/Selesnya_Aggro.md)  |[Weenie White](./mtgtop8/Standard/decks/Weenie_White.md)    |
-|[Esper Control](./mtgtop8/Standard/decks/Esper_Control.md)  |[Izzet Control](./mtgtop8/Standard/decks/Izzet_Control.md)  |[Naya Aggro](./mtgtop8/Standard/decks/Naya_Aggro.md)                |[Sultai Aggro](./mtgtop8/Standard/decks/Sultai_Aggro.md)      |                                                            |
+|[45C Control](./mtgtop8/Standard/decks/45C_Control.md)      |[Fog](./mtgtop8/Standard/decks/Fog.md)                      |[Jeskai Control](./mtgtop8/Standard/decks/Jeskai_Control.md)        |[Orzhov Aggro](./mtgtop8/Standard/decks/Orzhov_Aggro.md)      |[Sultai Aggro](./mtgtop8/Standard/decks/Sultai_Aggro.md)    |
+|[Abzan Midrange](./mtgtop8/Standard/decks/Abzan_Midrange.md)|[Golgari Aggro](./mtgtop8/Standard/decks/Golgari_Aggro.md)  |[Jeskai Midrange](./mtgtop8/Standard/decks/Jeskai_Midrange.md)      |[Other - Aggro](./mtgtop8/Standard/decks/Other_-_Aggro.md)    |[Sultai Control](./mtgtop8/Standard/decks/Sultai_Control.md)|
+|[Boros Aggro](./mtgtop8/Standard/decks/Boros_Aggro.md)      |[Grixis Aggro](./mtgtop8/Standard/decks/Grixis_Aggro.md)    |[Mono Black Control](./mtgtop8/Standard/decks/Mono_Black_Control.md)|[Other - Combo](./mtgtop8/Standard/decks/Other_-_Combo.md)    |[UB Control](./mtgtop8/Standard/decks/UB_Control.md)        |
+|[Dimir Midrange](./mtgtop8/Standard/decks/Dimir_Midrange.md)|[Grixis Control](./mtgtop8/Standard/decks/Grixis_Control.md)|[Mono Blue Aggro](./mtgtop8/Standard/decks/Mono_Blue_Aggro.md)      |[Other - Control](./mtgtop8/Standard/decks/Other_-_Control.md)|[UR Aggro](./mtgtop8/Standard/decks/UR_Aggro.md)            |
+|[Dinosaurs](./mtgtop8/Standard/decks/Dinosaurs.md)          |[Gruul Aggro](./mtgtop8/Standard/decks/Gruul_Aggro.md)      |[Mono Green Aggro](./mtgtop8/Standard/decks/Mono_Green_Aggro.md)    |[Red Deck Wins](./mtgtop8/Standard/decks/Red_Deck_Wins.md)    |[UW Control](./mtgtop8/Standard/decks/UW_Control.md)        |
+|[Esper Control](./mtgtop8/Standard/decks/Esper_Control.md)  |[Izzet Control](./mtgtop8/Standard/decks/Izzet_Control.md)  |[Naya Aggro](./mtgtop8/Standard/decks/Naya_Aggro.md)                |[Selesnya Aggro](./mtgtop8/Standard/decks/Selesnya_Aggro.md)  |[Weenie White](./mtgtop8/Standard/decks/Weenie_White.md)    |
 
 
 # Modern
@@ -49,4 +49,4 @@
 
 
 
-#### Last Updated at 12:26AM on November 12, 2018
+#### Last Updated at 12:29PM on November 12, 2018
