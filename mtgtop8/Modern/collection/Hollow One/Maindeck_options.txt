@@ -1,6 +1,6 @@
-3 Arid Mesa
 3 Wooded Foothills
 4 Wooded Foothills
+3 Arid Mesa
 4 Arid Mesa
 2 Tasigur, the Golden Fang
 1 Fatal Push
@@ -13,9 +13,6 @@
 8 Mountain
 9 Mountain
 10 Mountain
-1 Snow-Covered Swamp
-1 Scalding Tarn
-2 Scalding Tarn
 1 Copperline Gorge
 1 Insolent Neonate
 1 Vengevine
@@ -45,8 +42,8 @@
 1 Fiery Temper
 1 Arclight Phoenix
 1 Manamorphose
-1 Risk Factor
 1 Gut Shot
+1 Risk Factor
 2 Fiery Temper
 2 Arclight Phoenix
 2 Manamorphose
@@ -65,24 +62,24 @@
 16 Mountain
 17 Mountain
 18 Mountain
-1 Desperate Ravings
-1 Hellspark Elemental
 1 Duress
 1 Evolving Wilds
+1 Desperate Ravings
+1 Hellspark Elemental
 1 Cathartic Reunion
 2 Evolving Wilds
+2 Duress
 2 Desperate Ravings
 2 Hellspark Elemental
-2 Duress
 2 Swamp
 2 Cathartic Reunion
 3 Evolving Wilds
-3 Hellspark Elemental
 3 Swamp
+3 Hellspark Elemental
 3 Cathartic Reunion
-4 Hellspark Elemental
 4 Swamp
 4 Cathartic Reunion
+4 Hellspark Elemental
 5 Swamp
 6 Swamp
 7 Swamp

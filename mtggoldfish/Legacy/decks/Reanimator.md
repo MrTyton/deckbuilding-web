@@ -114,7 +114,7 @@
 |                    3|[Vampire Hexmage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382397)           |                     |                                                                                                    |
 |                    3|[Dark Depths](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416746)               |                     |                                                                                                    |
 |                    3|[Lion's Eye Diamond](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383000)        |                     |                                                                                                    |
-|                    4|[Living Wish](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442168)               |                     |                                                                                                    |
 |                    4|[Shallow Grave](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3310)               |                     |                                                                                                    |
 |                    4|[Lion's Eye Diamond](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383000)        |                     |                                                                                                    |
+|                    4|[Living Wish](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442168)               |                     |                                                                                                    |
 
