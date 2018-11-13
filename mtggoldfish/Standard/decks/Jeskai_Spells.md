@@ -34,7 +34,7 @@
 |                    2|[Siren Stormtamer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435232)|                    1|[Fight with Fire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443007)    |
 |                    4|[Chart a Course](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435200)  |                    2|[Ral, Izzet Viceroy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452945) |
 |                     |                                                                                           |                    3|[Settle the Wreckage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435186)|
-|                     |                                                                                           |                    1|[Lyra Dawnbringer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442914)   |
 |                     |                                                                                           |                    1|[Siren Stormtamer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435232)   |
+|                     |                                                                                           |                    1|[Lyra Dawnbringer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442914)   |
 |                     |                                                                                           |                    3|[Disdainful Stroke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446776)  |
 

@@ -23,3 +23,15 @@
 |3 [Melira, Sylvok Outcast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=194274)|3 [Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)|4 [Path to Exile](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370408)|2 [Creeping Corrosion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=214029)|
 |                                                                                                   |3 [Stony Silence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425850)|                                                                                          |                                                                                               |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                      Maindeck Card                                       |*n*<sup>th</sup> copy|                                      Sideboard Card                                       |
+|--------------------:|------------------------------------------------------------------------------------------|--------------------:|-------------------------------------------------------------------------------------------|
+|                    1|[Stomping Ground](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405110)|                    1|[Blessed Alliance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414302)|
+|                     |                                                                                          |                    1|[Firespout](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386289)       |
+|                     |                                                                                          |                    2|[Blessed Alliance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414302)|
+|                     |                                                                                          |                    2|[Firespout](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386289)       |
+|                     |                                                                                          |                    3|[Blessed Alliance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414302)|
+|                     |                                                                                          |                    3|[Firespout](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386289)       |
+

@@ -81,7 +81,7 @@
 |                    3|[Watery Grave](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405114)              |                     |                                                                                                |
 |                    3|[Drowned Catacomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430633)          |                     |                                                                                                |
 |                    4|[Hinterland Harbor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=241988)         |                     |                                                                                                |
-|                    4|[Seekers' Squire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435275)           |                     |                                                                                                |
 |                    4|[Watery Grave](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405114)              |                     |                                                                                                |
+|                    4|[Seekers' Squire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435275)           |                     |                                                                                                |
 |                    4|Find / Finality                                                                                      |                     |                                                                                                |
 

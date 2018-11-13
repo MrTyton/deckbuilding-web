@@ -27,16 +27,3 @@
 |                                                                                        |1 [Elesh Norn, Grand Cenobite](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397880)|2 [Choke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430685)          |                                                                                                |                                                                                     |
 |                                                                                        |2 [Gaddock Teeg](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=140188)              |                                                                                            |                                                                                                |                                                                                     |
 
-
-# Other Options
-
-|*n*<sup>th</sup> copy|                                       Maindeck Card                                       |*n*<sup>th</sup> copy|Sideboard Card|
-|--------------------:|-------------------------------------------------------------------------------------------|---------------------|--------------|
-|                    1|[Words of Wind](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=40188)    |                     |              |
-|                    1|[Karakas](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=201198)         |                     |              |
-|                    1|[Cloud of Faeries](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382893)|                     |              |
-|                    2|[Words of Wind](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=40188)    |                     |              |
-|                    2|[Cloud of Faeries](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382893)|                     |              |
-|                    3|[Cloud of Faeries](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382893)|                     |              |
-|                    4|[Cloud of Faeries](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382893)|                     |              |
-

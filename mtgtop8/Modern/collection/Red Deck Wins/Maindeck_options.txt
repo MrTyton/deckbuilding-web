@@ -56,19 +56,19 @@
 1 Shard Volley
 19 Mountain
 1 The Flame of Keld
+1 Soul-Scar Mage
 1 Wizard's Lightning
 1 Ghitu Lavarunner
-1 Soul-Scar Mage
 1 Viashino Pyromancer
 2 The Flame of Keld
+2 Soul-Scar Mage
 2 Wizard's Lightning
 2 Viashino Pyromancer
-2 Soul-Scar Mage
 2 Ghitu Lavarunner
 3 The Flame of Keld
-3 Wizard's Lightning
 3 Soul-Scar Mage
 3 Ghitu Lavarunner
+3 Wizard's Lightning
 4 Soul-Scar Mage
 4 Wizard's Lightning
 4 Ghitu Lavarunner
@@ -118,11 +118,11 @@
 1 Pyretic Ritual
 2 Pyretic Ritual
 4 Ramunap Ruins
-3 Pyretic Ritual
-1 Field of Ruin
 1 Risk Factor
+1 Field of Ruin
 2 Risk Factor
 3 Risk Factor
+3 Pyretic Ritual
 1 Needle Drop
 2 Needle Drop
 3 Needle Drop
@@ -136,13 +136,13 @@
 2 Burst Lightning
 3 Burst Lightning
 4 Burst Lightning
-1 Goblin Chieftain
 1 Cavern of Souls
+1 Goblin Chieftain
 1 Legion Warboss
 1 Chandra, Torch of Defiance
-1 Chalice of the Void
-1 Simian Spirit Guide
 1 Gemstone Caverns
+1 Simian Spirit Guide
+1 Chalice of the Void
 1 Goblin Rabblemaster
 1 Goblin Cratermaker
 1 Blood Moon
@@ -150,6 +150,7 @@
 1 Chancellor of the Tangle
 1 Goblin King
 2 Cavern of Souls
+2 Chandra, Torch of Defiance
 2 Goblin Chieftain
 2 Legion Warboss
 2 Simian Spirit Guide
@@ -157,7 +158,6 @@
 2 Gemstone Caverns
 2 Blood Moon
 2 Goblin Cratermaker
-2 Chandra, Torch of Defiance
 2 Goblin Rabblemaster
 2 Chancellor of the Tangle
 2 Goblin King
