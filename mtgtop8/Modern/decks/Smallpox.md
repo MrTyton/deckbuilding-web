@@ -75,7 +75,6 @@
 |                    4|[Shambling Vent](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=402031)          |                     |                                                                                                   |
 |                    4|[Fetid Heath](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442227)             |                     |                                                                                                   |
 |                    4|[Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)            |                     |                                                                                                   |
-|                   13|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439603)                   |                     |                                                                                                   |
 |                    1|[Smoldering Marsh](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405108)        |                     |                                                                                                   |
 |                    1|[Blightning](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442187)              |                     |                                                                                                   |
 |                    1|[Bojuka Bog](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=247536)              |                     |                                                                                                   |
@@ -102,4 +101,5 @@
 |                    4|[Blightning](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442187)              |                     |                                                                                                   |
 |                    4|[Gatekeeper of Malakir](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=368479)   |                     |                                                                                                   |
 |                    4|[Vicious Rumors](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452839)          |                     |                                                                                                   |
+|                   13|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439603)                   |                     |                                                                                                   |
 
