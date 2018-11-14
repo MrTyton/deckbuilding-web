@@ -31,8 +31,8 @@
 1 Vault of the Archangel
 2 Dark Confidant
 3 Wall of Omens
-3 Field of Ruin
 3 Shefet Dunes
+3 Field of Ruin
 4 Shefet Dunes
 4 Blade Splicer
 9 Plains
@@ -59,7 +59,6 @@
 3 Horizon Canopy
 3 Shambling Vent
 4 Wall of Omens
-1 Kiki-Jiki, Mirror Breaker
 1 Pia Nalaar
 1 Lightning Bolt
 1 Mountain
@@ -67,6 +66,7 @@
 1 Pia and Kiran Nalaar
 1 Dire Fleet Daredevil
 1 Battlefield Forge
+1 Kiki-Jiki, Mirror Breaker
 1 Slayers' Stronghold
 1 Inspiring Vantage
 1 Needle Spires
@@ -79,13 +79,10 @@
 4 Inspiring Vantage
 4 Lightning Bolt
 4 Field of Ruin
-2 Serra Avenger
-2 Cavern of Souls
-10 Plains
 1 Simian Spirit Guide
 1 Chalice of the Void
-1 Gemstone Caverns
 1 Walking Ballista
+1 Gemstone Caverns
 1 Dismember
 2 Simian Spirit Guide
 2 Gemstone Caverns
@@ -99,3 +96,6 @@
 4 Chalice of the Void
 4 Reality Smasher
 4 Simian Spirit Guide
+2 Serra Avenger
+2 Cavern of Souls
+10 Plains

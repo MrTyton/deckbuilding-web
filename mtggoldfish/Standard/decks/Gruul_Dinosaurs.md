@@ -30,7 +30,7 @@
 
 |*n*<sup>th</sup> copy|                                         Maindeck Card                                         |*n*<sup>th</sup> copy|                                        Sideboard Card                                         |
 |--------------------:|-----------------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------------|
-|                    3|[Charging Monstrosaur](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435292)|                    1|[Deathgorge Scavenger](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435339)|
-|                   12|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439605)              |                    1|[Reckless Rage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439767)       |
-|                     |                                                                                               |                    1|[Ripjaw Raptor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435359)       |
+|                    3|[Charging Monstrosaur](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435292)|                    1|[Reckless Rage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439767)       |
+|                   12|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439605)              |                    1|[Ripjaw Raptor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435359)       |
+|                     |                                                                                               |                    1|[Deathgorge Scavenger](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435339)|
 

@@ -24,10 +24,20 @@
 
 # Other Options
 
-|*n*<sup>th</sup> copy|                                   Maindeck Card                                    |*n*<sup>th</sup> copy|                                      Sideboard Card                                       |
-|--------------------:|------------------------------------------------------------------------------------|--------------------:|-------------------------------------------------------------------------------------------|
-|                    4|[Goblin Lore](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=6602)|                    1|[Kozilek's Return](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407608)|
-|                     |                                                                                    |                    2|[Kozilek's Return](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407608)|
-|                     |                                                                                    |                    3|[Blood Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370419)      |
-|                     |                                                                                    |                    3|[Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)          |
+|*n*<sup>th</sup> copy|                                      Maindeck Card                                      |*n*<sup>th</sup> copy|                                           Sideboard Card                                            |
+|--------------------:|-----------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------------------|
+|                    4|[Goblin Lore](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=6602)     |                    1|[Kozilek's Return](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407608)          |
+|                    1|[Forked Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401702)   |                    2|[Kozilek's Return](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407608)          |
+|                    1|[Bedlam Reveler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414415)|                    3|[Blood Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370419)                |
+|                    1|[Ramunap Ruins](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430870) |                    3|[Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)                    |
+|                    2|[Forked Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401702)   |                    1|[Forked Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401702)               |
+|                    2|[Bedlam Reveler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414415)|                    1|[Shattering Spree](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=97233)           |
+|                    3|[Forked Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401702)   |                    1|[Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)            |
+|                    3|[Bedlam Reveler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414415)|                    1|[Searing Blaze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=270873)             |
+|                    4|[Fiery Temper](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=108880)  |                    1|[Eidolon of the Great Revel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442117)|
+|                    4|[Bedlam Reveler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414415)|                    2|[Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)            |
+|                     |                                                                                         |                    2|[Shattering Spree](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=97233)           |
+|                     |                                                                                         |                    2|[Eidolon of the Great Revel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442117)|
+|                     |                                                                                         |                    3|[Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)            |
+|                     |                                                                                         |                    3|[Shrine of Burning Rage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=218018)    |
 

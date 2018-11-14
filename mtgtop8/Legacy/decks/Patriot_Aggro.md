@@ -27,20 +27,3 @@
 |1 [Vendilion Clique](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370390)  |                                                                                       |1 [Spell Pierce](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425876)       |                                                                                                    |
 |                                                                                               |                                                                                       |2 [Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|                                                                                                    |
 
-
-# Other Options
-
-|*n*<sup>th</sup> copy|                                         Maindeck Card                                         |*n*<sup>th</sup> copy|                                         Sideboard Card                                         |
-|--------------------:|-----------------------------------------------------------------------------------------------|--------------------:|------------------------------------------------------------------------------------------------|
-|                    1|[Polluted Delta](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405104)      |                    1|Wear / Tear                                                                                     |
-|                    2|[Polluted Delta](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405104)      |                    1|[Pithing Needle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425815)       |
-|                    2|[Volcanic Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383147)     |                    1|[Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)               |
-|                    3|[Tundra](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383139)              |                    1|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)        |
-|                    3|[Volcanic Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383147)     |                    1|[Sword of Fire and Ice](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370471)|
-|                    3|[Scalding Tarn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426069)       |                    1|[Meddling Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=26591)         |
-|                    4|[Scalding Tarn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426069)       |                    2|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)        |
-|                    4|[Wasteland](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413790)           |                    2|[Meddling Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=26591)         |
-|                    4|[Tundra](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383139)              |                    3|[Meddling Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=26591)         |
-|                    4|[Swords to Plowshares](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383119)|                     |                                                                                                |
-|                    4|[Lightning Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=234704)      |                     |                                                                                                |
-

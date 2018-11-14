@@ -29,11 +29,11 @@
 
 |*n*<sup>th</sup> copy|                                        Maindeck Card                                         |*n*<sup>th</sup> copy|                                     Sideboard Card                                     |
 |--------------------:|----------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------|
-|                    1|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205013)|                    1|[Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676) |
-|                    2|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205013)|                    1|[Alpine Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447264)  |
-|                    3|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205013)|                    1|[Lightning Axe](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=113567)|
-|                    4|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205013)|                    2|[Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676) |
-|                    4|[Viscera Seer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376569)       |                    2|[Alpine Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447264)  |
-|                     |                                                                                              |                    2|[Lightning Axe](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=113567)|
+|                    1|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205013)|                    1|[Alpine Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447264)  |
+|                    2|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205013)|                    1|[Lightning Axe](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=113567)|
+|                    3|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205013)|                    1|[Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676) |
+|                    4|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205013)|                    2|[Alpine Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447264)  |
+|                    4|[Viscera Seer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376569)       |                    2|[Lightning Axe](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=113567)|
+|                     |                                                                                              |                    2|[Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676) |
 |                     |                                                                                              |                    3|[Lightning Axe](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=113567)|
 

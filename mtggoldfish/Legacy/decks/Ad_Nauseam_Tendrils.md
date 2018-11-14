@@ -77,6 +77,7 @@
 |                     |                                                                                              |                    1|[Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)              |
 |                     |                                                                                              |                    2|[Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)              |
 |                     |                                                                                              |                    3|[Extirpate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370384)           |
+|                     |                                                                                              |                    3|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706) |
 |                     |                                                                                              |                    1|[Pernicious Deed](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442201)     |
 |                     |                                                                                              |                    1|[Karakas](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=201198)             |
 |                     |                                                                                              |                    1|[Ad Nauseam](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174915)          |
@@ -96,5 +97,4 @@
 |                     |                                                                                              |                    2|[Containment Priest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=429862)  |
 |                     |                                                                                              |                    2|[Serenity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=4586)              |
 |                     |                                                                                              |                    3|[Serenity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=4586)              |
-|                     |                                                                                              |                    3|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706) |
 

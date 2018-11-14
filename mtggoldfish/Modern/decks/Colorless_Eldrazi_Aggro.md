@@ -39,7 +39,7 @@
 |                    2|[Endless One](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401871)        |                    3|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205013)|
 |                    3|[Endless One](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401871)        |                    4|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205013)|
 |                    4|[Endless One](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401871)        |                    1|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205013)|
-|                    4|[Blinkmoth Nexus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370407)    |                     |                                                                                              |
 |                    2|[Relic of Progenitus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205326)|                     |                                                                                              |
 |                    4|[Mutavault](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=152724)          |                     |                                                                                              |
+|                    4|[Blinkmoth Nexus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370407)    |                     |                                                                                              |
 
