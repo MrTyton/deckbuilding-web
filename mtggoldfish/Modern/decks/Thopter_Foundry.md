@@ -1,7 +1,7 @@
 # Thopter Foundry
 
 #### [Export MTGO List](../collection/Thopter%20Foundry/Thopter%20Foundry.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=1%09Battle%20at%20the%20Bridge%0A1%09Breeding%20Pool%0A1%09Chromatic%20Star%0A1%09Collective%20Brutality%0A1%09Damping%20Sphere%0A4%09Darkslick%20Shores%0A1%09Ensnaring%20Bridge%0A1%09Glimmervoid%0A1%09Grafdigger's%20Cage%0A4%09Island%0A1%09Krark-Clan%20Ironworks%0A4%09Mishra's%20Bauble%0A4%09Mox%20Opal%0A2%09Muddle%20the%20Mixture%0A4%09Nihil%20Spellbomb%0A2%09Pithing%20Needle%0A4%09Polluted%20Delta%0A4%09Serum%20Visions%0A4%09Spire%20of%20Industry%0A1%09Swamp%0A4%09Sword%20of%20the%20Meek%0A4%09Thopter%20Foundry%0A1%09Watery%20Grave%0A1%09Welding%20Jar%0A4%09Whir%20of%20Invention&deckside=2%09Abrupt%20Decay%0A3%09Battle%20at%20the%20Bridge%0A1%09Etched%20Champion%0A1%09Golgari%20Charm%0A1%09Phyrexian%20Revoker%0A2%09Sai,%20Master%20Thopterist%0A2%09Surgical%20Extraction%0A3%09Unmoored%20Ego)
+#### [Print on decklist.org](http://decklist.org/?deckmain=1%09Battle%20at%20the%20Bridge%0A1%09Breeding%20Pool%0A1%09Chromatic%20Star%0A1%09Collective%20Brutality%0A1%09Damping%20Sphere%0A4%09Darkslick%20Shores%0A1%09Ensnaring%20Bridge%0A1%09Glimmervoid%0A1%09Grafdigger's%20Cage%0A4%09Island%0A1%09Krark-Clan%20Ironworks%0A4%09Mishra's%20Bauble%0A4%09Mox%20Opal%0A2%09Muddle%20the%20Mixture%0A4%09Nihil%20Spellbomb%0A2%09Pithing%20Needle%0A4%09Polluted%20Delta%0A4%09Serum%20Visions%0A4%09Spire%20of%20Industry%0A1%09Swamp%0A4%09Sword%20of%20the%20Meek%0A4%09Thopter%20Foundry%0A1%09Watery%20Grave%0A1%09Welding%20Jar%0A4%09Whir%20of%20Invention&deckside=1%09Abrupt%20Decay%0A3%09Battle%20at%20the%20Bridge%0A1%09Echoing%20Truth%0A1%09Etched%20Champion%0A1%09Phyrexian%20Revoker%0A2%09Sai,%20Master%20Thopterist%0A2%09Surgical%20Extraction%0A4%09Unmoored%20Ego)
 # Maindeck
 
 |                                         Artifact (28)                                          |                                         Instant (6)                                          |                                          Land (20)                                           |                                           Sorcery (6)                                           |
@@ -22,10 +22,10 @@
 
 # Sideboard
 
-|                                           Creature (4)                                            |                                          Instant (5)                                           |                                           Sorcery (6)                                           |
+|                                           Creature (4)                                            |                                          Instant (4)                                           |                                           Sorcery (7)                                           |
 |---------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
-|1 [Etched Champion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397710)       |2 [Abrupt Decay](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425971)       |3 [Battle at the Bridge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423720)|
-|1 [Phyrexian Revoker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220589)     |1 [Golgari Charm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430396)      |3 [Unmoored Ego](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452962)        |
+|1 [Etched Champion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397710)       |1 [Abrupt Decay](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425971)       |3 [Battle at the Bridge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423720)|
+|1 [Phyrexian Revoker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220589)     |1 [Echoing Truth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370394)      |4 [Unmoored Ego](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452962)        |
 |2 [Sai, Master Thopterist](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447205)|2 [Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|                                                                                                 |
 
 
@@ -33,6 +33,6 @@
 
 |*n*<sup>th</sup> copy|                                      Maindeck Card                                      |*n*<sup>th</sup> copy|                                     Sideboard Card                                     |
 |--------------------:|-----------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------|
-|                    1|[Abrupt Decay](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425971)  |                    1|[Echoing Truth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370394)|
-|                    2|[Chromatic Star](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=118891)|                    4|[Unmoored Ego](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452962) |
+|                    1|[Abrupt Decay](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425971)  |                    2|[Abrupt Decay](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425971) |
+|                    2|[Chromatic Star](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=118891)|                    1|[Golgari Charm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430396)|
 
