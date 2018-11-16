@@ -1,7 +1,7 @@
 # Gruul Aggro
 
 #### [Export MTGO List](../collection/Gruul%20Aggro/Gruul%20Aggro.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=2%09Banefire%0A4%09Druid%20of%20the%20Cowl%0A4%09Experimental%20Frenzy%0A13%09Forest%0A2%09Ghalta,%20Primal%20Hunger%0A2%09Jadelight%20Ranger%0A4%09Kraul%20Harpooner%0A4%09Llanowar%20Elves%0A5%09Mountain%0A4%09Rootbound%20Crag%0A4%09Steel%20Leaf%20Champion%0A1%09Timber%20Gorge%0A4%09Treasure%20Map%0A2%09Vine%20Mare%0A1%09Vivien%20Reid%0A4%09Wayward%20Swordtooth&deckside=2%09Banefire%0A4%09Carnage%20Tyrant%0A2%09Fiery%20Cannonade%0A2%09Lava%20Coil%0A3%09Nullhide%20Ferox%0A2%09Vine%20Mare)
+#### [Print on decklist.org](http://decklist.org/?deckmain=2%09Banefire%0A4%09Druid%20of%20the%20Cowl%0A4%09Experimental%20Frenzy%0A13%09Forest%0A2%09Ghalta,%20Primal%20Hunger%0A2%09Jadelight%20Ranger%0A4%09Kraul%20Harpooner%0A4%09Llanowar%20Elves%0A5%09Mountain%0A4%09Rootbound%20Crag%0A4%09Steel%20Leaf%20Champion%0A1%09Timber%20Gorge%0A4%09Treasure%20Map%0A2%09Vine%20Mare%0A1%09Vivien%20Reid%0A4%09Wayward%20Swordtooth&deckside=2%09Banefire%0A3%09Carnage%20Tyrant%0A2%09Fiery%20Cannonade%0A2%09Lava%20Coil%0A3%09Nullhide%20Ferox%0A2%09Vine%20Mare%0A1%09Vivien%20Reid)
 # Maindeck
 
 |                                      Artifact (4)                                       |                                          Creature (26)                                           |                                        Enchantment (4)                                         |                                         Land (23)                                         |                                    Planeswalker (1)                                    |                                     Sorcery (2)                                     |
@@ -18,17 +18,17 @@
 
 # Sideboard
 
-|                                       Creature (9)                                        |                                        Instant (2)                                         |                                     Sorcery (4)                                      |
-|-------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
-|4 [Carnage Tyrant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435334)|2 [Fiery Cannonade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435297)|2 [Banefire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397676) |
-|3 [Nullhide Ferox](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452888)|                                                                                            |2 [Lava Coil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452858)|
-|2 [Vine Mare](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447343)     |                                                                                            |                                                                                      |
+|                                       Creature (8)                                        |                                        Instant (2)                                         |                                    Planeswalker (1)                                    |                                     Sorcery (4)                                      |
+|-------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
+|3 [Carnage Tyrant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435334)|2 [Fiery Cannonade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435297)|1 [Vivien Reid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447344)|2 [Banefire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397676) |
+|3 [Nullhide Ferox](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452888)|                                                                                            |                                                                                        |2 [Lava Coil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452858)|
+|2 [Vine Mare](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447343)     |                                                                                            |                                                                                        |                                                                                      |
 
 
 # Other Options
 
-|*n*<sup>th</sup> copy|Maindeck Card|*n*<sup>th</sup> copy|                                    Sideboard Card                                    |
-|---------------------|-------------|--------------------:|--------------------------------------------------------------------------------------|
-|                     |             |                    3|[Lava Coil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452858)  |
-|                     |             |                    1|[Vivien Reid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447344)|
+|*n*<sup>th</sup> copy|Maindeck Card|*n*<sup>th</sup> copy|                                     Sideboard Card                                      |
+|---------------------|-------------|--------------------:|-----------------------------------------------------------------------------------------|
+|                     |             |                    3|[Lava Coil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452858)     |
+|                     |             |                    3|[Carnage Tyrant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435334)|
 

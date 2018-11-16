@@ -34,11 +34,11 @@
 |*n*<sup>th</sup> copy|Maindeck Card|*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
 |---------------------|-------------|--------------------:|----------------------------------------------------------------------------------------------|
 |                     |             |                    1|[Treasure Map](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435410)       |
+|                     |             |                    1|[Relic of Progenitus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205326)|
 |                     |             |                    1|[Silent Gravestone](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439846)  |
 |                     |             |                    1|[Karn, Scion of Urza](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442889)|
-|                     |             |                    1|[Relic of Progenitus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205326)|
-|                     |             |                    2|[Silent Gravestone](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439846)  |
 |                     |             |                    2|[Relic of Progenitus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205326)|
+|                     |             |                    2|[Silent Gravestone](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439846)  |
 |                     |             |                    2|[Karn, Scion of Urza](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442889)|
 |                     |             |                    1|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205013)|
 |                     |             |                    2|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205013)|

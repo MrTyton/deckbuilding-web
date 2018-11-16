@@ -66,6 +66,6 @@
 |                     |                                                                                                     |                    1|[Profane Memento](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383353)         |
 |                     |                                                                                                     |                    1|[Hurkyl's Recall](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397868)         |
 |                     |                                                                                                     |                    2|[Winds of Rebuke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426778)         |
-|                     |                                                                                                     |                    3|[Dispel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=201562)                  |
 |                     |                                                                                                     |                    4|[Dispel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=201562)                  |
+|                     |                                                                                                     |                    3|[Dispel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=201562)                  |
 

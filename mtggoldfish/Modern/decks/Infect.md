@@ -67,8 +67,8 @@
 |                     |                                                                                               |                    3|[Geist of Saint Traft](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409577)    |
 |                     |                                                                                               |                    1|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)     |
 |                     |                                                                                               |                    1|[Vapor Snag](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397738)              |
-|                     |                                                                                               |                    2|[Vapor Snag](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397738)              |
 |                     |                                                                                               |                    2|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)     |
+|                     |                                                                                               |                    2|[Vapor Snag](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397738)              |
 |                     |                                                                                               |                    3|[Dispel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=201562)                  |
 |                     |                                                                                               |                    3|[Kitchen Finks](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370458)           |
 

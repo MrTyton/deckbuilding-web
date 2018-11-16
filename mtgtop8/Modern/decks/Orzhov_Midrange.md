@@ -69,7 +69,7 @@
 |                    4|[Lingering Souls](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425837)             |                     |                                                                                               |
 |                    4|[Fatal Push](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423724)                  |                     |                                                                                               |
 |                    4|[Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)                |                     |                                                                                               |
-|                    4|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439603)                       |                     |                                                                                               |
-|                    6|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439603)                       |                     |                                                                                               |
 |                    5|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439603)                       |                     |                                                                                               |
+|                    6|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439603)                       |                     |                                                                                               |
+|                    4|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439603)                       |                     |                                                                                               |
 

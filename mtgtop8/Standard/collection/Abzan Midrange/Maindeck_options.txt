@@ -1,10 +1,17 @@
+2 Plains
+1 Knight of Grace
+2 Knight of Grace
+3 Knight of Grace
+1 Shalai, Voice of Plenty
+4 Vraska's Contempt
+1 The Eldest Reborn
 4 History of Benalia
-2 March of the Multitudes
-1 Vraska's Contempt
-2 Vraska's Contempt
-3 Vraska's Contempt
-2 Swamp
-3 Find / Finality
+1 Conclave Tribunal
+2 Conclave Tribunal
+1 Wildgrowth Walker
+2 Wildgrowth Walker
+2 Find / Finality
+4 Forest
 1 Memorial to Glory
 1 Path of Discovery
 2 Memorial to Glory
@@ -14,32 +21,30 @@
 3 Trostani Discordant
 4 Wildgrowth Walker
 5 Forest
-1 Militia Bugler
+1 The Immortal Sun
 3 March of the Multitudes
+3 Find / Finality
+1 Ixalan's Binding
+1 Militia Bugler
 1 Vraska, Golgari Queen
 3 Ravenous Chupacabra
-1 Knight of Grace
-2 Knight of Grace
-3 Knight of Grace
-1 Shalai, Voice of Plenty
+1 Thorn Lieutenant
+2 Thorn Lieutenant
+1 Cast Down
+2 Cast Down
+3 Swamp
+3 Assassin's Trophy
 2 Vivien Reid
-1 Conclave Tribunal
-2 Conclave Tribunal
-4 Vraska's Contempt
+2 The Eldest Reborn
 1 Conclave Cavalier
 2 Conclave Cavalier
-3 Assassin's Trophy
-1 The Eldest Reborn
-2 The Eldest Reborn
 1 District Guide
 1 Kraul Harpooner
-1 The Immortal Sun
 2 Kraul Harpooner
 2 The Immortal Sun
 3 Path of Discovery
 4 Trostani Discordant
 4 Path of Discovery
-1 Ixalan's Binding
 2 Ixalan's Binding
 4 Memorial to Glory
 6 Forest
@@ -48,27 +53,24 @@
 4 Militia Bugler
 2 District Guide
 3 District Guide
-1 Thorn Lieutenant
-2 Thorn Lieutenant
+1 Arch of Orazca
+3 Thorn Lieutenant
 1 Ritual of Soot
-1 Cast Down
 1 Golgari Findbroker
 2 Golgari Findbroker
 2 Ritual of Soot
-2 Cast Down
 1 Field of Ruin
 3 The Eldest Reborn
 1 Karn, Scion of Urza
-3 Swamp
 1 Doom Whisperer
 1 Baffling End
 2 Baffling End
-3 Plains
-3 Conclave Cavalier
-4 Conclave Cavalier
 1 Dryad Greenseeker
 2 Dryad Greenseeker
 3 Dryad Greenseeker
+3 Plains
+3 Conclave Cavalier
+4 Conclave Cavalier
 1 Lyra Dawnbringer
 2 Lyra Dawnbringer
 3 Lyra Dawnbringer
@@ -81,6 +83,11 @@
 1 Memorial to Folly
 1 Tendershoot Dryad
 2 Vraska, Golgari Queen
+1 Azor's Gateway
+1 Carnage Tyrant
+1 Price of Fame
+1 Twilight Prophet
+2 Carnage Tyrant
 1 Izoni, Thousand-Eyed
 1 Seekers' Squire
 2 Seekers' Squire
@@ -93,19 +100,9 @@
 3 Legion's Landing
 3 Saproling Migration
 1 Treasure Map
-1 Arch of Orazca
 2 Treasure Map
 2 Karn, Scion of Urza
-3 Thorn Lieutenant
 4 Thorn Lieutenant
-1 Thrashing Brontodon
-2 Field of Ruin
-2 Doom Whisperer
-2 Thrashing Brontodon
-3 Doom Whisperer
-3 Thrashing Brontodon
-4 Assassin's Trophy
-4 Swamp
 3 Ixalan's Binding
 4 Ixalan's Binding
 1 Ajani, Adversary of Tyrants
@@ -124,3 +121,11 @@
 4 Conclave Tribunal
 4 Knight of Malice
 4 Dryad Greenseeker
+1 Thrashing Brontodon
+2 Field of Ruin
+2 Doom Whisperer
+2 Thrashing Brontodon
+3 Doom Whisperer
+3 Thrashing Brontodon
+4 Assassin's Trophy
+4 Swamp
