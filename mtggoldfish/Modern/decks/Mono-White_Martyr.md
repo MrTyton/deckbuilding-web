@@ -55,6 +55,6 @@
 |                    1|[Cast Out](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426710)                |                    2|[Runed Halo](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=154005)          |
 |                    2|[Oblivion Ring](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205396)           |                    3|[Runed Halo](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=154005)          |
 |                    3|[Proclamation of Rebirth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107341) |                    4|[Ghostly Prison](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423432)      |
-|                    4|[Flagstones of Trokair](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=116733)   |                     |                                                                                               |
 |                    4|[Proclamation of Rebirth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107341) |                     |                                                                                               |
+|                    4|[Flagstones of Trokair](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=116733)   |                     |                                                                                               |
 
