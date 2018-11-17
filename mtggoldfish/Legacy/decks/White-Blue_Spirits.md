@@ -31,8 +31,8 @@
 
 |*n*<sup>th</sup> copy|                                            Maindeck Card                                             |*n*<sup>th</sup> copy|                                    Sideboard Card                                     |
 |--------------------:|------------------------------------------------------------------------------------------------------|--------------------:|---------------------------------------------------------------------------------------|
-|                    1|[Mana Breach](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=6078)                  |                    1|[Meddling Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=26591)|
-|                    2|[Divert](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=429872)                     |                    1|[Absolute Law](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=8437)  |
+|                    1|[Mana Breach](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=6078)                  |                    1|[Absolute Law](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=8437)  |
+|                    2|[Divert](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=429872)                     |                    1|[Meddling Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=26591)|
 |                    2|[Kira, Great Glass-Spinner](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370349)  |                    1|[Armageddon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=4373)    |
 |                    2|[Mana Breach](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=6078)                  |                     |                                                                                       |
 |                    4|[Spell Queller](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414494)              |                     |                                                                                       |
