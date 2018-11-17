@@ -43,10 +43,10 @@
 |[BUG Midrange](./mtgtop8/Legacy/decks/BUG_Midrange.md)            |[Dredge](./mtgtop8/Legacy/decks/Dredge.md)                |[Infect](./mtgtop8/Legacy/decks/Infect.md)                |[Other - Aggro](./mtgtop8/Legacy/decks/Other_-_Aggro.md)                |[The Antiquities War](./mtgtop8/Legacy/decks/The_Antiquities_War.md)|
 |[Bomberman](./mtgtop8/Legacy/decks/Bomberman.md)                  |[Eldrazi Aggro](./mtgtop8/Legacy/decks/Eldrazi_Aggro.md)  |[Jund](./mtgtop8/Legacy/decks/Jund.md)                    |[Other - Combo](./mtgtop8/Legacy/decks/Other_-_Combo.md)                |[UR Delver](./mtgtop8/Legacy/decks/UR_Delver.md)                    |
 |[Burn](./mtgtop8/Legacy/decks/Burn.md)                            |[Elves](./mtgtop8/Legacy/decks/Elves.md)                  |[Lands](./mtgtop8/Legacy/decks/Lands.md)                  |[Painter](./mtgtop8/Legacy/decks/Painter.md)                            |[UWx Control](./mtgtop8/Legacy/decks/UWx_Control.md)                |
-|[Canadian Threshold](./mtgtop8/Legacy/decks/Canadian_Threshold.md)|[Enchantress](./mtgtop8/Legacy/decks/Enchantress.md)      |[Landstill](./mtgtop8/Legacy/decks/Landstill.md)          |[Patriot Aggro](./mtgtop8/Legacy/decks/Patriot_Aggro.md)                |[Zombi Bombardment](./mtgtop8/Legacy/decks/Zombi_Bombardment.md)    |
+|[Canadian Threshold](./mtgtop8/Legacy/decks/Canadian_Threshold.md)|[Enchantress](./mtgtop8/Legacy/decks/Enchantress.md)      |[Landstill](./mtgtop8/Legacy/decks/Landstill.md)          |[Patriot Aggro](./mtgtop8/Legacy/decks/Patriot_Aggro.md)                |                                                                    |
 |[Cloudpost Ramp](./mtgtop8/Legacy/decks/Cloudpost_Ramp.md)        |[Esper Delver](./mtgtop8/Legacy/decks/Esper_Delver.md)    |[Loam](./mtgtop8/Legacy/decks/Loam.md)                    |[Pox](./mtgtop8/Legacy/decks/Pox.md)                                    |                                                                    |
 |[Dark Depths](./mtgtop8/Legacy/decks/Dark_Depths.md)              |[Food Griffin](./mtgtop8/Legacy/decks/Food_Griffin.md)    |[MUD](./mtgtop8/Legacy/decks/MUD.md)                      |[Reanimator](./mtgtop8/Legacy/decks/Reanimator.md)                      |                                                                    |
 
 
 
-#### Last Updated at 12:28PM on November 16, 2018
+#### Last Updated at 12:27AM on November 17, 2018
