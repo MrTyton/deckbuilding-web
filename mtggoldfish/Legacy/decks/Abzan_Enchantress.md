@@ -41,6 +41,6 @@
 |--------------------:|-------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
 |                    1|[Gaea's Touch](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=201211)    |                    1|[Leyline of Sanctity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397677)|
 |                    2|[Gaea's Touch](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=201211)    |                    2|[Leyline of Sanctity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397677)|
-|                    2|[Misty Rainforest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426065)|                    2|[Seal of Primordium](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425960) |
-|                    3|[Misty Rainforest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426065)|                    1|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)      |
+|                    3|[Misty Rainforest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426065)|                    2|[Seal of Primordium](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425960) |
+|                    2|[Misty Rainforest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426065)|                    1|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)      |
 

@@ -31,3 +31,20 @@
 |1 [Surrak Dragonclaw](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386681)    |                                                                                           |1 [Shatterstorm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430683)     |
 |1 [Vendilion Clique](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370390)     |                                                                                           |1 [Slaughter Games](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=290532)  |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                           Maindeck Card                                           |*n*<sup>th</sup> copy|                                          Sideboard Card                                          |
+|--------------------:|---------------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------------|
+|                    1|[Worldly Counsel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=22982)          |                    1|[Assassin's Trophy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452902)      |
+|                    1|[Verdant Catacombs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426074)       |                    1|[Obstinate Baloth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438745)       |
+|                    1|[Grove of the Burnwillows](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438804)|                    1|[Spell Pierce](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425876)           |
+|                    1|[Sunken Hollow](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405111)           |                    1|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)    |
+|                    1|[Lightning Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=234704)          |                    1|[Fatal Push](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423724)             |
+|                    2|[Worldly Counsel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=22982)          |                    2|[Obstinate Baloth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438745)       |
+|                    2|[Verdant Catacombs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426074)       |                    3|[Obstinate Baloth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438745)       |
+|                    2|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439604)                |                    1|[Jace, the Mind Sculptor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382979)|
+|                    2|[Lightning Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=234704)          |                     |                                                                                                  |
+|                    3|[Lightning Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=234704)          |                     |                                                                                                  |
+|                    4|[Lightning Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=234704)          |                     |                                                                                                  |
+

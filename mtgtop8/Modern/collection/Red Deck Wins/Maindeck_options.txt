@@ -11,7 +11,6 @@
 14 Mountain
 15 Mountain
 16 Mountain
-17 Mountain
 1 Fiery Temper
 1 Faithless Looting
 2 Fiery Temper
@@ -20,6 +19,7 @@
 3 Faithless Looting
 4 Fiery Temper
 4 Faithless Looting
+17 Mountain
 18 Mountain
 1 Bedlam Reveler
 1 Arclight Phoenix
@@ -34,23 +34,24 @@
 4 Manamorphose
 4 Bedlam Reveler
 4 Arclight Phoenix
+1 Bomat Courier
+2 Bomat Courier
+3 Bomat Courier
 1 Scalding Tarn
 3 Sacred Foundry
 1 Shard Volley
+4 Bomat Courier
 1 Desperate Ritual
 2 Tormenting Voice
 2 Desperate Ritual
 3 Tormenting Voice
 3 Desperate Ritual
 4 Desperate Ritual
-1 Bomat Courier
-2 Bomat Courier
-3 Bomat Courier
-4 Bomat Courier
 4 Skullcrack
 3 Arid Mesa
 2 Scalding Tarn
 1 Flame Jab
+1 Ramunap Ruins
 19 Mountain
 1 The Flame of Keld
 1 Soul-Scar Mage
@@ -69,11 +70,11 @@
 4 Soul-Scar Mage
 4 Wizard's Lightning
 4 Ghitu Lavarunner
-1 Ramunap Ruins
+2 Grim Lavamancer
+2 Ramunap Ruins
 4 Tormenting Voice
 3 Scalding Tarn
 4 Scalding Tarn
-2 Grim Lavamancer
 4 Arid Mesa
 1 Risk Factor
 2 Risk Factor
@@ -81,7 +82,10 @@
 2 Runaway Steam-Kin
 3 Runaway Steam-Kin
 4 Runaway Steam-Kin
-2 Ramunap Ruins
+1 Burst Lightning
+2 Burst Lightning
+3 Burst Lightning
+4 Burst Lightning
 1 Pyretic Ritual
 2 Pyretic Ritual
 3 Pyretic Ritual
@@ -96,48 +100,22 @@
 3 Gut Shot
 4 Gut Shot
 4 The Flame of Keld
-1 Burst Lightning
-2 Burst Lightning
-3 Burst Lightning
-4 Burst Lightning
-1 Burning-Tree Emissary
-1 Reckless Bushwhacker
-1 Foundry Street Denizen
-1 Devastating Summons
-1 Goblin Bushwhacker
-1 Mogg Fanatic
-1 Legion Loyalist
-1 Fanatical Firebrand
-1 Goblin Grenade
-2 Mogg Fanatic
-2 Burning-Tree Emissary
-2 Reckless Bushwhacker
-2 Goblin Grenade
-2 Foundry Street Denizen
-2 Devastating Summons
-2 Legion Loyalist
-2 Fanatical Firebrand
-2 Goblin Bushwhacker
-3 Mogg Fanatic
-3 Reckless Bushwhacker
-3 Burning-Tree Emissary
-3 Fanatical Firebrand
-3 Goblin Grenade
-3 Foundry Street Denizen
-3 Goblin Bushwhacker
-3 Legion Loyalist
-4 Mogg Fanatic
-4 Burning-Tree Emissary
-4 Legion Loyalist
-4 Fanatical Firebrand
-4 Goblin Grenade
-4 Reckless Bushwhacker
-4 Goblin Bushwhacker
-4 Foundry Street Denizen
+1 Bump in the Night
+1 Blackcleave Cliffs
+1 Blood Crypt
+2 Bump in the Night
+2 Blood Crypt
+2 Blackcleave Cliffs
+3 Bump in the Night
+3 Grim Lavamancer
+3 Blackcleave Cliffs
+4 Bump in the Night
+4 Grim Lavamancer
+4 Blackcleave Cliffs
 3 Viashino Pyromancer
 3 Ramunap Ruins
-4 Ramunap Ruins
 4 Viashino Pyromancer
+4 Ramunap Ruins
 1 Ball Lightning
 1 Flames of the Blood Hand
 1 Exquisite Firecraft

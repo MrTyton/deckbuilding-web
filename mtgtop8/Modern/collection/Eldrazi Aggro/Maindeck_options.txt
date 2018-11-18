@@ -1,9 +1,6 @@
-1 Simian Spirit Guide
 2 Simian Spirit Guide
-2 Karn Liberated
 3 Dismember
 1 Relic of Progenitus
-2 Cavern of Souls
 4 Ghost Quarter
 1 Mutavault
 1 Eternal Scourge
@@ -22,7 +19,10 @@
 4 Eternal Scourge
 4 Eldrazi Mimic
 4 Serum Powder
+1 Basilisk Collar
 2 Relic of Progenitus
+2 Karn Liberated
+2 Cavern of Souls
 1 Scavenger Grounds
 1 Smuggler's Copter
 1 Zhalfirin Void
@@ -36,6 +36,15 @@
 1 Ugin, the Spirit Dragon
 3 Endbringer
 4 Wastes
+1 Endless One
+2 Endless One
+3 Endless One
+4 Endless One
+3 Mutavault
+4 Mutavault
+3 Gemstone Caverns
+3 Relic of Progenitus
+4 Relic of Progenitus
 1 Oblivion Sower
 2 Oblivion Sower
 1 Buried Ruin
@@ -43,19 +52,16 @@
 1 Spatial Contortion
 2 Spatial Contortion
 3 Spatial Contortion
-2 Smuggler's Copter
 1 Batterskull
+2 Smuggler's Copter
+1 Tectonic Edge
+2 Tectonic Edge
+3 Tectonic Edge
+4 Tectonic Edge
 1 Eldrazi Obligator
 2 Eldrazi Obligator
 3 Eldrazi Obligator
 4 Eldrazi Obligator
-3 Mutavault
-4 Mutavault
-1 Endless One
-2 Endless One
-3 Endless One
-4 Endless One
-3 Gemstone Caverns
 1 Noble Hierarch
 1 Forest
 1 Ancient Stirrings
@@ -68,8 +74,8 @@
 4 Noble Hierarch
 1 Mountain
 1 Bloodbraid Elf
-1 Grove of the Burnwillows
 1 Karplusan Forest
+1 Grove of the Burnwillows
 1 Lightning Bolt
 1 Kessig Wolf Run
 2 Bloodbraid Elf
@@ -85,8 +91,8 @@
 4 Lightning Bolt
 4 Karplusan Forest
 3 Cavern of Souls
-3 Relic of Progenitus
-4 Relic of Progenitus
+1 Field of Ruin
+2 Field of Ruin
 1 Eldrazi Displacer
 1 Plains
 1 Path to Exile
@@ -97,17 +103,12 @@
 4 Path to Exile
 4 Eldrazi Displacer
 1 Warping Wail
-1 Sorcerous Spyglass
 2 Ulamog, the Ceaseless Hunger
 1 Scavenging Ooze
 1 Stomping Ground
 1 Wooded Foothills
 2 Wooded Foothills
 2 Stomping Ground
-1 Tectonic Edge
-2 Tectonic Edge
-3 Tectonic Edge
-4 Tectonic Edge
 2 Scavenger Grounds
 3 Blinkmoth Nexus
 4 Blinkmoth Nexus
@@ -141,9 +142,8 @@
 4 Forest
 1 Godless Shrine
 1 Collective Brutality
-1 Fetid Heath
 1 Thoughtseize
-1 Field of Ruin
+1 Fetid Heath
 1 Tidehollow Sculler
 1 Fatal Push
 1 Inquisition of Kozilek
@@ -159,7 +159,6 @@
 2 Concealed Courtyard
 2 Caves of Koilos
 2 Thoughtseize
-2 Field of Ruin
 2 Wasteland Strangler
 2 Ifnir Deadlands
 2 Fatal Push
