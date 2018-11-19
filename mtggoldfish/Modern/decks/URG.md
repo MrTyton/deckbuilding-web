@@ -96,6 +96,6 @@
 |                    4|[Arbor Elf](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442149)                  |                     |                                                                                                  |
 |                    4|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439605)                     |                     |                                                                                                  |
 |                    5|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439605)                     |                     |                                                                                                  |
-|                    6|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439605)                     |                     |                                                                                                  |
 |                    7|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439605)                     |                     |                                                                                                  |
+|                    6|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439605)                     |                     |                                                                                                  |
 

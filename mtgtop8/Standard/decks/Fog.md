@@ -33,7 +33,7 @@
 |                    1|[Anticipate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447180)         |                    1|Expansion / Explosion                                                                          |
 |                    1|[Cleansing Nova](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447145)     |                    1|[Sinister Sabotage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452804)   |
 |                    1|[Settle the Wreckage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435186)|                    1|[Mystic Archaeologist](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447199)|
-|                    2|[Karn, Scion of Urza](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442889)|                    2|[Cleansing Nova](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447145)      |
-|                    5|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439602)             |                    2|[Nezahal, Primal Tide](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439702)|
+|                    2|[Karn, Scion of Urza](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442889)|                    2|[Nezahal, Primal Tide](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439702)|
+|                    5|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439602)             |                    2|[Cleansing Nova](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447145)      |
 |                     |                                                                                              |                    4|[Knight of Autumn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452933)    |
 
