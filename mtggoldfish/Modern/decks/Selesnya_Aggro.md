@@ -1,7 +1,7 @@
 # Selesnya Aggro
 
 #### [Export MTGO List](../collection/Selesnya%20Aggro/Selesnya%20Aggro.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Aspect%20of%20Hydra%0A4%09Avatar%20of%20the%20Resolute%0A4%09Dryad%20Militant%0A4%09Experiment%20One%0A2%09Kalonian%20Tusker%0A4%09Misty%20Rainforest%0A4%09Narnam%20Renegade%0A3%09Rancor%0A2%09Scavenging%20Ooze%0A4%09Snow-Covered%20Forest%0A4%09Steel%20Leaf%20Champion%0A1%09Stomping%20Ground%0A4%09Strangleroot%20Geist%0A2%09Temple%20Garden%0A3%09Treetop%20Village%0A4%09Vines%20of%20Vastwood%0A3%09Windswept%20Heath%0A4%09Wooded%20Foothills&deckside=2%09Creeping%20Corrosion%0A3%09Melira,%20Sylvok%20Outcast%0A4%09Path%20to%20Exile%0A3%09Rest%20in%20Peace%0A3%09Stony%20Silence)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Aspect%20of%20Hydra%0A4%09Avatar%20of%20the%20Resolute%0A4%09Dryad%20Militant%0A4%09Experiment%20One%0A2%09Kalonian%20Tusker%0A4%09Misty%20Rainforest%0A4%09Narnam%20Renegade%0A3%09Rancor%0A2%09Scavenging%20Ooze%0A4%09Snow-Covered%20Forest%0A4%09Steel%20Leaf%20Champion%0A1%09Stomping%20Ground%0A4%09Strangleroot%20Geist%0A2%09Temple%20Garden%0A3%09Treetop%20Village%0A4%09Vines%20of%20Vastwood%0A3%09Windswept%20Heath%0A4%09Wooded%20Foothills&deckside=3%09Blessed%20Alliance%0A3%09Firespout%0A4%09Path%20to%20Exile%0A3%09Rest%20in%20Peace%0A2%09Stony%20Silence)
 # Maindeck
 
 |                                           Creature (28)                                           |                                  Enchantment (3)                                  |                                         Instant (8)                                          |                                           Land (21)                                            |
@@ -18,20 +18,20 @@
 
 # Sideboard
 
-|                                           Creature (3)                                            |                                     Enchantment (6)                                      |                                       Instant (4)                                        |                                          Sorcery (2)                                          |
-|---------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
-|3 [Melira, Sylvok Outcast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=194274)|3 [Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)|4 [Path to Exile](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370408)|2 [Creeping Corrosion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=214029)|
-|                                                                                                   |3 [Stony Silence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425850)|                                                                                          |                                                                                               |
+|                                     Enchantment (5)                                      |                                         Instant (7)                                         |                                     Sorcery (3)                                      |
+|------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
+|3 [Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)|3 [Blessed Alliance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414302)|3 [Firespout](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386289)|
+|2 [Stony Silence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425850)|4 [Path to Exile](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370408)   |                                                                                      |
 
 
 # Other Options
 
-|*n*<sup>th</sup> copy|                                      Maindeck Card                                       |*n*<sup>th</sup> copy|                                      Sideboard Card                                       |
-|--------------------:|------------------------------------------------------------------------------------------|--------------------:|-------------------------------------------------------------------------------------------|
-|                    4|[Windswept Heath](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405115)|                    1|[Blessed Alliance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414302)|
-|                     |                                                                                          |                    1|[Firespout](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386289)       |
-|                     |                                                                                          |                    2|[Blessed Alliance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414302)|
-|                     |                                                                                          |                    2|[Firespout](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386289)       |
-|                     |                                                                                          |                    3|[Blessed Alliance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414302)|
-|                     |                                                                                          |                    3|[Firespout](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386289)       |
+|*n*<sup>th</sup> copy|                                      Maindeck Card                                       |*n*<sup>th</sup> copy|                                         Sideboard Card                                          |
+|--------------------:|------------------------------------------------------------------------------------------|--------------------:|-------------------------------------------------------------------------------------------------|
+|                    4|[Windswept Heath](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405115)|                    1|[Melira, Sylvok Outcast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=194274)|
+|                     |                                                                                          |                    1|[Creeping Corrosion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=214029)    |
+|                     |                                                                                          |                    2|[Melira, Sylvok Outcast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=194274)|
+|                     |                                                                                          |                    2|[Creeping Corrosion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=214029)    |
+|                     |                                                                                          |                    3|[Stony Silence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425850)         |
+|                     |                                                                                          |                    3|[Melira, Sylvok Outcast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=194274)|
 

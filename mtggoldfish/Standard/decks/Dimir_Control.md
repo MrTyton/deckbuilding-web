@@ -72,6 +72,7 @@
 |                    2|[Fungal Infection](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442982)   |                     |                                                                                                  |
 |                    1|[Price of Fame](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452833)      |                     |                                                                                                  |
 |                    1|[Walk the Plank](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435284)     |                     |                                                                                                  |
+|                    2|[Ravenous Chupacabra](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442093)|                     |                                                                                                  |
 |                    1|[Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447135)             |                     |                                                                                                  |
 |                    2|[Arguel's Blood Fast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439316)|                     |                                                                                                  |
 |                    1|[Submerged Boneyard](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=451238) |                     |                                                                                                  |
@@ -79,5 +80,4 @@
 |                    1|[Divination](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416866)         |                     |                                                                                                  |
 |                    1|[Syncopate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=270369)          |                     |                                                                                                  |
 |                    2|[Syncopate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=270369)          |                     |                                                                                                  |
-|                    2|[Ravenous Chupacabra](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442093)|                     |                                                                                                  |
 
