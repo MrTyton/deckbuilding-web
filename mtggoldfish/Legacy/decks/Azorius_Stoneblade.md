@@ -63,6 +63,6 @@
 |                    2|[Counterspell](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382897)             |                    3|[Flusterstorm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382942)            |
 |                    2|[Snow-Covered Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=184813)      |                    3|[Snapcaster Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425875)         |
 |                    2|[Back to Basics](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=5711)             |                    2|[Snapcaster Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425875)         |
-|                    4|[Snow-Covered Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=184813)      |                     |                                                                                                   |
 |                    3|[Snow-Covered Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=184813)      |                     |                                                                                                   |
+|                    4|[Snow-Covered Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=184813)      |                     |                                                                                                   |
 

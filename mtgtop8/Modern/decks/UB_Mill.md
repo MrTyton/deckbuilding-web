@@ -27,23 +27,3 @@
 |                                                                                             |                                                                                                     |1 [Murderous Cut](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386613)      |                                                                                                   |
 |                                                                                             |                                                                                                     |1 [Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|                                                                                                   |
 
-
-# Other Options
-
-|*n*<sup>th</sup> copy|                                            Maindeck Card                                            |*n*<sup>th</sup> copy|                                        Sideboard Card                                         |
-|--------------------:|-----------------------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------------|
-|                    1|[Echoing Truth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370394)             |                    1|[Mindbreak Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197532)      |
-|                    1|[Mind Funeral](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370509)              |                    1|[Pithing Needle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425815)      |
-|                    1|[Ensnaring Bridge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442213)          |                    1|[Ravenous Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197537)       |
-|                    1|[Fraying Sanity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430724)            |                    1|[Profane Memento](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383353)     |
-|                    1|[Manic Scribe](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409816)              |                    1|[Darkness](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=108919)            |
-|                    1|[Oboro, Palace in the Clouds](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=74206)|                    1|[Collective Brutality](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414380)|
-|                    1|[Ipnu Rivulet](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430869)              |                    2|[Ravenous Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197537)       |
-|                    2|[Ensnaring Bridge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442213)          |                    2|[Darkness](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=108919)            |
-|                    2|[Manic Scribe](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409816)              |                    2|[Set Adrift](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386661)          |
-|                    3|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439603)                     |                    2|[Collective Brutality](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414380)|
-|                    3|[Manic Scribe](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409816)              |                     |                                                                                               |
-|                    4|[Field of Ruin](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435415)             |                     |                                                                                               |
-|                    4|[Manic Scribe](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409816)              |                     |                                                                                               |
-|                    4|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439602)                    |                     |                                                                                               |
-

@@ -33,10 +33,18 @@
 
 # Other Options
 
-|*n*<sup>th</sup> copy|                                       Maindeck Card                                        |*n*<sup>th</sup> copy|                                          Sideboard Card                                           |
-|--------------------:|--------------------------------------------------------------------------------------------|--------------------:|---------------------------------------------------------------------------------------------------|
-|                    1|[Verdant Catacombs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426074)|                    2|[Gideon, Ally of Zendikar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401897)|
-|                    2|[Horizon Canopy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438806)   |                    1|[Worship](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=429865)                 |
-|                    1|[Gavony Township](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=233242)  |                    2|[Worship](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=429865)                 |
-|                     |                                                                                            |                    1|[Nissa, Vital Force](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417736)      |
+|*n*<sup>th</sup> copy|                                          Maindeck Card                                          |*n*<sup>th</sup> copy|                                           Sideboard Card                                            |
+|--------------------:|-------------------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------------------|
+|                    1|[Verdant Catacombs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426074)     |                    1|[Worship](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=429865)                   |
+|                    2|[Horizon Canopy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438806)        |                    1|[Nissa, Vital Force](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417736)        |
+|                    1|[Gavony Township](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=233242)       |                    2|[Worship](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=429865)                   |
+|                    1|[Wooded Foothills](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405116)      |                    2|[Gideon, Ally of Zendikar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401897)  |
+|                    1|[Collected Company](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394519)     |                    1|[Collected Company](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394519)         |
+|                    1|[Rhonas the Indomitable](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=429887)|                    1|[Linvala, Keeper of Silence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425838)|
+|                    1|[Eidolon of Rhetoric](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=380409)   |                    1|[Remorseful Cleric](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447169)         |
+|                    2|[Collected Company](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394519)     |                    1|[Scavenging Ooze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425959)           |
+|                     |                                                                                                 |                    1|[Eternal Witness](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370427)           |
+|                     |                                                                                                 |                    2|[Knight of Autumn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452933)          |
+|                     |                                                                                                 |                    2|[Collected Company](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394519)         |
+|                     |                                                                                                 |                    2|[Eternal Witness](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370427)           |
 

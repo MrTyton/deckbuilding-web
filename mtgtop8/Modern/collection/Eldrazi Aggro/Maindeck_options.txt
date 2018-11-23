@@ -1,4 +1,3 @@
-2 Simian Spirit Guide
 3 Dismember
 1 Relic of Progenitus
 4 Ghost Quarter
@@ -20,6 +19,7 @@
 4 Eldrazi Mimic
 4 Serum Powder
 1 Basilisk Collar
+1 Sanctum of Ugin
 2 Relic of Progenitus
 2 Karn Liberated
 2 Cavern of Souls
@@ -33,8 +33,6 @@
 2 Blinkmoth Nexus
 3 Zhalfirin Void
 4 Zhalfirin Void
-1 Ugin, the Spirit Dragon
-3 Endbringer
 4 Wastes
 1 Endless One
 2 Endless One
@@ -43,21 +41,20 @@
 3 Mutavault
 4 Mutavault
 3 Gemstone Caverns
-3 Relic of Progenitus
-4 Relic of Progenitus
 1 Oblivion Sower
 2 Oblivion Sower
-1 Buried Ruin
-1 Wurmcoil Engine
-1 Spatial Contortion
-2 Spatial Contortion
-3 Spatial Contortion
-1 Batterskull
 2 Smuggler's Copter
+1 Buried Ruin
+1 Ugin, the Spirit Dragon
+1 Batterskull
+3 Endbringer
 1 Tectonic Edge
 2 Tectonic Edge
+3 Relic of Progenitus
 3 Tectonic Edge
+4 Relic of Progenitus
 4 Tectonic Edge
+1 Wurmcoil Engine
 1 Eldrazi Obligator
 2 Eldrazi Obligator
 3 Eldrazi Obligator
@@ -91,24 +88,18 @@
 4 Lightning Bolt
 4 Karplusan Forest
 3 Cavern of Souls
-1 Field of Ruin
-2 Field of Ruin
-1 Eldrazi Displacer
-1 Plains
-1 Path to Exile
-2 Eldrazi Displacer
-2 Path to Exile
-3 Path to Exile
-3 Eldrazi Displacer
-4 Path to Exile
-4 Eldrazi Displacer
 1 Warping Wail
 2 Ulamog, the Ceaseless Hunger
-1 Stomping Ground
 1 Wooded Foothills
+1 Stomping Ground
 1 Scavenging Ooze
 2 Wooded Foothills
 2 Stomping Ground
+1 Field of Ruin
+2 Field of Ruin
+1 Spatial Contortion
+2 Spatial Contortion
+3 Spatial Contortion
 2 Scavenger Grounds
 3 Blinkmoth Nexus
 4 Blinkmoth Nexus
@@ -120,17 +111,26 @@
 1 Breeding Pool
 1 Temple Garden
 1 Windswept Heath
+1 Eldrazi Displacer
 1 Drowner of Hope
+1 Plains
+1 Path to Exile
 2 Yavimaya Coast
 2 Brushland
 2 Tireless Tracker
 2 Windswept Heath
 2 Drowner of Hope
+2 Eldrazi Displacer
+2 Path to Exile
 3 Yavimaya Coast
+3 Path to Exile
 3 Brushland
 3 Drowner of Hope
+3 Eldrazi Displacer
 3 Windswept Heath
+4 Path to Exile
 4 Windswept Heath
+4 Eldrazi Displacer
 4 Drowner of Hope
 1 Blood Moon
 1 Talisman of Impulse
@@ -140,36 +140,3 @@
 3 Talisman of Impulse
 3 Forest
 4 Forest
-1 Godless Shrine
-1 Fetid Heath
-1 Tidehollow Sculler
-1 Collective Brutality
-1 Thoughtseize
-1 Fatal Push
-1 Inquisition of Kozilek
-1 Swamp
-1 Caves of Koilos
-1 Ifnir Deadlands
-1 Concealed Courtyard
-1 Thalia, Heretic Cathar
-1 Shefet Dunes
-1 Wasteland Strangler
-2 Plains
-2 Tidehollow Sculler
-2 Concealed Courtyard
-2 Caves of Koilos
-2 Thoughtseize
-2 Wasteland Strangler
-2 Ifnir Deadlands
-2 Fatal Push
-2 Inquisition of Kozilek
-2 Godless Shrine
-3 Concealed Courtyard
-3 Field of Ruin
-3 Wasteland Strangler
-3 Tidehollow Sculler
-3 Caves of Koilos
-4 Concealed Courtyard
-4 Caves of Koilos
-4 Tidehollow Sculler
-4 Wasteland Strangler

@@ -31,8 +31,8 @@
 
 |*n*<sup>th</sup> copy|                                          Maindeck Card                                          |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
 |--------------------:|-------------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
-|                    1|[Vendilion Clique](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370390)      |                    1|[Relic of Progenitus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205326)|
-|                    1|[Mistcaller](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447198)            |                    1|[Flusterstorm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382942)       |
+|                    1|[Mistcaller](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447198)            |                    1|[Relic of Progenitus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205326)|
+|                    1|[Vendilion Clique](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370390)      |                    1|[Flusterstorm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382942)       |
 |                    1|[Harbinger of the Tides](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438447)|                    1|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|
 |                    2|[Harbinger of the Tides](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438447)|                    2|[Relic of Progenitus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205326)|
 |                    2|[Mistcaller](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447198)            |                    2|[Flusterstorm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382942)       |

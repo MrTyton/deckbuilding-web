@@ -37,7 +37,7 @@
 |                    2|[Reality Smasher](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407517)    |                    2|[Leyline of Sanctity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397677)         |
 |                    2|[Field of Ruin](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435415)      |                    2|[Orzhov Pontiff](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=96844)               |
 |                    2|[Cavern of Souls](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426057)    |                    2|[Kambal, Consul of Allocation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417756)|
-|                    3|[Reality Smasher](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407517)    |                    3|[Stony Silence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425850)               |
-|                    3|[Field of Ruin](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435415)      |                     |                                                                                                       |
+|                    3|[Field of Ruin](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435415)      |                    3|[Stony Silence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425850)               |
+|                    3|[Reality Smasher](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407517)    |                     |                                                                                                       |
 |                    4|[Field of Ruin](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435415)      |                     |                                                                                                       |
 

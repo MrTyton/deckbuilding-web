@@ -1,35 +1,7 @@
 1 Cavern of Souls
-1 Brainstorm
-1 Tropical Island
-1 Show and Tell
-1 Island
-1 Misty Rainforest
-1 Primeval Titan
-2 Brainstorm
-2 Tropical Island
-2 Show and Tell
-2 Primeval Titan
-2 Misty Rainforest
-3 Brainstorm
-3 Misty Rainforest
-3 Primeval Titan
-3 Show and Tell
-4 Brainstorm
-4 Misty Rainforest
-4 Primeval Titan
-1 Kozilek, Butcher of Truth
-1 Underground Sea
-1 Abrupt Decay
-1 Bayou
-1 Verdant Catacombs
-1 Polluted Delta
-2 Abrupt Decay
-3 Abrupt Decay
-4 Show and Tell
-1 Walking Ballista
 1 Grim Monolith
-1 Ancient Tomb
 1 Thought-Knot Seer
+1 Ancient Tomb
 1 Chalice of the Void
 2 Grim Monolith
 2 Thought-Knot Seer
@@ -38,11 +10,9 @@
 3 Ancient Tomb
 3 Thought-Knot Seer
 4 Thought-Knot Seer
-1 Ponder
-2 Ponder
-3 Tropical Island
-2 Walking Ballista
+1 Kozilek, Butcher of Truth
 1 Urborg, Tomb of Yawgmoth
+1 Walking Ballista
 1 Eldrazi Temple
 2 Urborg, Tomb of Yawgmoth
 2 Eldrazi Temple
@@ -64,6 +34,24 @@
 4 Grim Monolith
 4 Chalice of the Void
 4 Ancient Tomb
+1 Brainstorm
+1 Tropical Island
+1 Show and Tell
+1 Island
+1 Misty Rainforest
+1 Primeval Titan
+2 Brainstorm
+2 Tropical Island
+2 Show and Tell
+2 Primeval Titan
+2 Misty Rainforest
+3 Brainstorm
+3 Misty Rainforest
+3 Primeval Titan
+3 Show and Tell
+4 Brainstorm
+4 Misty Rainforest
+4 Primeval Titan
 1 Trinisphere
 1 Wastes
 2 Karakas
@@ -87,17 +75,27 @@
 1 City of Traitors
 1 Artisan of Kozilek
 2 Oblivion Sower
+2 Walking Ballista
 2 City of Traitors
 3 Oblivion Sower
 3 All Is Dust
-3 Ponder
-4 Ponder
+1 Underground Sea
+1 Abrupt Decay
+1 Bayou
+1 Verdant Catacombs
+1 Polluted Delta
+2 Abrupt Decay
+3 Abrupt Decay
+4 Show and Tell
+1 Ponder
 1 Trickbind
 1 Engineered Explosives
 1 Flusterstorm
 1 Scroll Rack
+2 Ponder
 2 Engineered Explosives
 2 Flusterstorm
 2 Scroll Rack
 3 Flusterstorm
+3 Tropical Island
 4 Tropical Island

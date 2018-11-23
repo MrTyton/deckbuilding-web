@@ -1,28 +1,29 @@
+3 Teferi, Hero of Dominaria
+1 Chemister's Insight
 2 Deafening Clarion
 2 Island
 3 Island
 3 Deafening Clarion
 4 Island
-1 Chart a Course
 1 Enigma Drake
 1 Crackling Drake
+1 Chart a Course
 1 Opt
-2 Chart a Course
 2 Enigma Drake
 2 Crackling Drake
 2 Opt
-3 Chart a Course
+2 Chart a Course
 3 Enigma Drake
+3 Chart a Course
 3 Crackling Drake
 3 Opt
-4 Crackling Drake
 4 Enigma Drake
+4 Crackling Drake
 4 Opt
 2 Chemister's Insight
-4 Knight of Grace
 1 Syncopate
 2 Syncopate
-4 Rekindling Phoenix
+3 Lava Coil
 4 Sulfur Falls
 1 Shock
 2 Shock
@@ -41,23 +42,23 @@
 3 Resplendent Angel
 1 Sinister Sabotage
 1 Radical Idea
-2 Mountain
-2 Sinister Sabotage
 2 Radical Idea
-3 Radical Idea
+2 Sinister Sabotage
+2 Mountain
 3 Justice Strike
-3 Mountain
 3 Sinister Sabotage
+3 Radical Idea
+3 Mountain
 4 Justice Strike
 4 Sinister Sabotage
 1 Fight with Fire
 2 Niv-Mizzet, Parun
-3 Lava Coil
 1 Dive Down
 2 Dive Down
 3 Dive Down
 1 Seal Away
 4 Deafening Clarion
+1 Negate
 1 Search for Azcanta
 2 Ixalan's Binding
 1 Vance's Blasting Cannons
@@ -85,10 +86,9 @@
 3 Seal Away
 4 Seal Away
 1 Ionize
-1 Cleansing Nova
 1 Expansion / Explosion
+1 Cleansing Nova
 1 Essence Scatter
-1 Negate
 1 Field of Ruin
 2 Ionize
 2 Expansion / Explosion
@@ -100,6 +100,11 @@
 4 Ionize
 4 Chemister's Insight
 4 Teferi, Hero of Dominaria
+1 Banefire
+1 Remorseful Cleric
+2 Remorseful Cleric
+2 Negate
+6 Plains
 1 Tocatli Honor Guard
 2 Tocatli Honor Guard
 3 Tocatli Honor Guard
