@@ -1,15 +1,16 @@
-3 Izzet Charm
-4 Izzet Charm
-4 Opt
+3 Opt
 1 Polluted Delta
 3 Sleight of Hand
+4 Izzet Charm
+4 Opt
+3 Thought Scour
+3 Chart a Course
 4 Sleight of Hand
 2 Polluted Delta
 3 Mountain
-3 Thought Scour
-3 Chart a Course
 4 Chart a Course
 1 Burst Lightning
+4 Thought Scour
 2 Burst Lightning
 1 Wizard's Lightning
 1 Delver of Secrets
@@ -17,8 +18,9 @@
 2 Delver of Secrets
 3 Wizard's Lightning
 3 Delver of Secrets
-4 Delver of Secrets
 4 Wizard's Lightning
+4 Delver of Secrets
+1 Flooded Strand
 1 Mutavault
 1 Grim Lavamancer
 1 Nimble Obstructionist
@@ -32,14 +34,15 @@
 4 Snapcaster Mage
 1 Blood Crypt
 4 Island
-4 Thought Scour
+2 Shivan Reef
+3 Shivan Reef
+1 Lightning Axe
 1 Jace, Vryn's Prodigy
 1 Remand
 2 Remand
 2 Grim Lavamancer
 3 Remand
 4 Nimble Obstructionist
-1 Flooded Strand
 1 Mana Leak
 1 Vendilion Clique
 2 Mana Leak
@@ -49,19 +52,21 @@
 1 Abrade
 2 Spell Snare
 2 Abrade
+4 Steam Vents
 1 Soul-Scar Mage
 2 Soul-Scar Mage
 3 Soul-Scar Mage
-4 Steam Vents
 1 Vapor Snag
 1 Bloodstained Mire
 2 Bloodstained Mire
+1 Noxious Revival
+2 Noxious Revival
 1 Cryptic Command
 1 Faerie Conclave
 2 Faerie Conclave
 3 Faerie Conclave
-1 Mission Briefing
 1 Risk Factor
+1 Mission Briefing
 1 Sulfur Falls
 2 Sulfur Falls
 3 Sulfur Falls
@@ -73,10 +78,15 @@
 1 Wooded Foothills
 1 Misty Rainforest
 4 Remand
-1 Lightning Axe
+1 Crackling Drake
+1 Gut Shot
+1 Watery Grave
+2 Gut Shot
+2 Crackling Drake
+3 Gut Shot
+3 Crackling Drake
+4 Crackling Drake
 4 Mountain
-2 Shivan Reef
-3 Shivan Reef
 4 Shivan Reef
 1 Roast
 1 Adeliz, the Cinder Wind
@@ -100,8 +110,8 @@
 2 Stormchaser Mage
 3 Monastery Swiftspear
 3 Mutagenic Growth
-3 Goblin Guide
 3 Stormchaser Mage
+3 Goblin Guide
 4 Monastery Swiftspear
 4 Soul-Scar Mage
 4 Stormchaser Mage
