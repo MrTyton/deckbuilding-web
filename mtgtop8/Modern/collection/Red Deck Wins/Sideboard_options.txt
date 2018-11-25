@@ -1,8 +1,8 @@
 1 Destructive Revelry
 2 Destructive Revelry
 3 Destructive Revelry
-1 Wear / Tear
 2 Ensnaring Bridge
+1 Wear / Tear
 2 Wear / Tear
 1 Skullcrack
 3 Path to Exile
@@ -11,8 +11,8 @@
 1 Tormod's Crypt
 1 Shrine of Burning Rage
 2 Shrine of Burning Rage
-3 Shrine of Burning Rage
 2 Tormod's Crypt
+3 Shrine of Burning Rage
 3 Tormod's Crypt
 4 Tormod's Crypt
 1 Gut Shot
@@ -24,21 +24,15 @@
 3 Gut Shot
 3 Rest in Peace
 4 Rest in Peace
-1 Anger of the Gods
-2 Anger of the Gods
-1 Surgical Extraction
-2 Surgical Extraction
-1 Dragon's Claw
-1 Blood Moon
-1 Abrade
-2 Blood Moon
-2 Abrade
-2 Dragon's Claw
-3 Blood Moon
-3 Anger of the Gods
+1 Grim Lavamancer
 4 Destructive Revelry
 1 Relic of Progenitus
 2 Relic of Progenitus
+1 Surgical Extraction
+2 Surgical Extraction
+1 Anger of the Gods
+2 Anger of the Gods
+1 Stony Silence
 1 Eidolon of the Great Revel
 2 Eidolon of the Great Revel
 3 Eidolon of the Great Revel
@@ -46,12 +40,9 @@
 2 Dismember
 1 Volcanic Fallout
 1 Grafdigger's Cage
-1 Grim Lavamancer
 1 Ravenous Trap
 2 Ravenous Trap
-3 Surgical Extraction
 1 Searing Blaze
-1 Stony Silence
 1 Damping Sphere
 1 Goblin Chainwhirler
 2 Searing Blaze
@@ -59,7 +50,15 @@
 2 Goblin Chainwhirler
 2 Damping Sphere
 3 Goblin Chainwhirler
-4 Shrine of Burning Rage
+1 Dragon's Claw
+1 Blood Moon
+1 Abrade
+2 Blood Moon
+2 Abrade
+2 Dragon's Claw
+3 Surgical Extraction
+3 Blood Moon
+3 Anger of the Gods
 1 Satyr Firedancer
 1 Leyline of Punishment
 2 Satyr Firedancer
