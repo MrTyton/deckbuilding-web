@@ -61,7 +61,6 @@
 |                    1|[Larger Than Life](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417733)    |                    1|[Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)          |
 |                    2|[Peek](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=30686)                 |                    1|[Echoing Truth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370394)           |
 |                    4|[Breeding Pool](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405095)       |                    2|[Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)          |
-|                     |                                                                                               |                    3|[Kitchen Finks](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370458)           |
 |                     |                                                                                               |                    3|[Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426046)       |
 |                     |                                                                                               |                    1|[Geist of Saint Traft](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409577)    |
 |                     |                                                                                               |                    2|[Geist of Saint Traft](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409577)    |
@@ -73,4 +72,5 @@
 |                     |                                                                                               |                    2|[Vapor Snag](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397738)              |
 |                     |                                                                                               |                    2|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)     |
 |                     |                                                                                               |                    3|[Dispel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=201562)                  |
+|                     |                                                                                               |                    3|[Kitchen Finks](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370458)           |
 
