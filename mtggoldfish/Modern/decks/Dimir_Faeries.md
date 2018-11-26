@@ -32,10 +32,10 @@
 
 |*n*<sup>th</sup> copy|                                          Maindeck Card                                          |*n*<sup>th</sup> copy|                                         Sideboard Card                                         |
 |--------------------:|-------------------------------------------------------------------------------------------------|--------------------:|------------------------------------------------------------------------------------------------|
-|                    1|[Flooded Strand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405098)        |                    1|[Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=270465)               |
-|                    1|[Liliana, the Last Hope](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414388)|                    1|[Field of Ruin](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435415)        |
+|                    1|[Flooded Strand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405098)        |                    1|[Field of Ruin](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435415)        |
+|                    1|[Liliana, the Last Hope](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414388)|                    1|[Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=270465)               |
 |                    1|[Remand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397881)                |                    2|[Vendilion Clique](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370390)     |
-|                    3|[Mutavault](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=152724)             |                    2|[Damnation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425888)            |
-|                    3|[Spellstutter Sprite](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370380)   |                    3|[Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447135)               |
+|                    3|[Spellstutter Sprite](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370380)   |                    2|[Damnation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425888)            |
+|                    3|[Mutavault](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=152724)             |                    3|[Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447135)               |
 |                    4|[Cryptic Command](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370439)       |                    3|[Engineered Explosives](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370549)|
 

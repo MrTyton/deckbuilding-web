@@ -31,10 +31,10 @@
 
 |*n*<sup>th</sup> copy|                                        Maindeck Card                                         |*n*<sup>th</sup> copy|                                         Sideboard Card                                         |
 |--------------------:|----------------------------------------------------------------------------------------------|--------------------:|------------------------------------------------------------------------------------------------|
-|                    1|[Blessed Alliance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414302)   |                    1|[Baneslayer Angel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401633)     |
-|                    1|[Serum Visions](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425874)      |                    1|[Ceremonious Rejection](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417613)|
+|                    1|[Blessed Alliance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414302)   |                    1|[Ceremonious Rejection](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417613)|
+|                    1|[Serum Visions](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425874)      |                    2|[Disdainful Stroke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446776)    |
 |                    2|[Spell Snare](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370447)        |                    2|[Ceremonious Rejection](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417613)|
-|                    2|[Settle the Wreckage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435186)|                    2|[Disdainful Stroke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446776)    |
+|                    2|[Settle the Wreckage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435186)|                    1|[Baneslayer Angel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401633)     |
 |                    2|[Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447135)             |                     |                                                                                                |
 |                    4|[Snapcaster Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425875)    |                     |                                                                                                |
 
