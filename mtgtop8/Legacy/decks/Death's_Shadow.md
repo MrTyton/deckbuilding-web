@@ -69,7 +69,7 @@
 |                    3|[Hymn to Tourach](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382976)       |                    3|[True-Name Nemesis](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376562)    |
 |                     |                                                                                                 |                    1|[Extirpate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370384)            |
 |                     |                                                                                                 |                    2|[Pithing Needle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425815)       |
-|                     |                                                                                                 |                    2|[Extirpate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370384)            |
 |                     |                                                                                                 |                    2|[Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426046)    |
+|                     |                                                                                                 |                    2|[Extirpate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370384)            |
 |                     |                                                                                                 |                    3|[Extirpate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370384)            |
 
