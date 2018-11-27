@@ -28,8 +28,8 @@
 
 |*n*<sup>th</sup> copy|                                      Maindeck Card                                       |*n*<sup>th</sup> copy|                                         Sideboard Card                                          |
 |--------------------:|------------------------------------------------------------------------------------------|--------------------:|-------------------------------------------------------------------------------------------------|
-|                    1|[Stomping Ground](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405110)|                    1|[Creeping Corrosion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=214029)    |
-|                     |                                                                                          |                    1|[Melira, Sylvok Outcast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=194274)|
+|                    1|[Stomping Ground](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405110)|                    1|[Melira, Sylvok Outcast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=194274)|
+|                     |                                                                                          |                    1|[Creeping Corrosion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=214029)    |
 |                     |                                                                                          |                    2|[Melira, Sylvok Outcast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=194274)|
 |                     |                                                                                          |                    2|[Creeping Corrosion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=214029)    |
 |                     |                                                                                          |                    3|[Stony Silence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425850)         |

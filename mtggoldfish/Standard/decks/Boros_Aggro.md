@@ -76,6 +76,6 @@
 |                    2|[Heroic Reinforcements](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447353)      |                     |                                                                                                       |
 |                    3|[Heroic Reinforcements](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447353)      |                     |                                                                                                       |
 |                    4|[Heroic Reinforcements](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447353)      |                     |                                                                                                       |
-|                   13|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439601)                     |                     |                                                                                                       |
 |                   14|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439601)                     |                     |                                                                                                       |
+|                   13|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439601)                     |                     |                                                                                                       |
 

@@ -26,3 +26,16 @@
 |                                                                                                  |                                                                                                       |                                                                                            |1 [Spell Pierce](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425876)       |                                                                                         |
 |                                                                                                  |                                                                                                       |                                                                                            |2 [Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|                                                                                         |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                           Maindeck Card                                           |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
+|--------------------:|---------------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
+|                    1|[Spellseeker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446009)             |                    1|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205013)|
+|                    1|[Muldrotha, the Gravetide](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443087)|                    1|[Engineered Plague](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=12944)   |
+|                    1|[Assassin's Trophy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452902)       |                    1|[Hymn to Tourach](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382976)    |
+|                    1|[Traverse the Ulvenwald](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409998)  |                    2|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205013)|
+|                    1|[Notion Thief](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442200)            |                    3|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205013)|
+|                    2|[Assassin's Trophy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452902)       |                    2|[Hymn to Tourach](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382976)    |
+|                    2|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439603)                   |                     |                                                                                              |
+

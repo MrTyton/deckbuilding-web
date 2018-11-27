@@ -29,8 +29,8 @@
 
 |*n*<sup>th</sup> copy|                                  Maindeck Card                                  |*n*<sup>th</sup> copy|                                        Sideboard Card                                         |
 |--------------------:|---------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------------|
-|                    2|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439601)|                    1|[Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)      |
-|                    3|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439601)|                    1|[Aura of Silence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405132)     |
+|                    3|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439601)|                    1|[Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)      |
+|                    2|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439601)|                    1|[Aura of Silence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405132)     |
 |                     |                                                                                 |                    1|[Swords to Plowshares](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383119)|
 |                     |                                                                                 |                    2|[Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)      |
 |                     |                                                                                 |                    2|[Swords to Plowshares](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383119)|
