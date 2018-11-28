@@ -53,8 +53,8 @@
 |                    3|[Fatal Push](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423724)         |                     |                                                                                                 |
 |                    3|[Tarmogoyf](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370404)          |                     |                                                                                                 |
 |                    3|[Raging Ravine](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=177583)      |                     |                                                                                                 |
-|                    4|[Lingering Souls](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425837)    |                     |                                                                                                 |
 |                    4|[Dark Confidant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370413)     |                     |                                                                                                 |
+|                    4|[Lingering Souls](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425837)    |                     |                                                                                                 |
 |                    4|[Liliana of the Veil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425901)|                     |                                                                                                 |
 |                    4|[Tarmogoyf](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370404)          |                     |                                                                                                 |
 
