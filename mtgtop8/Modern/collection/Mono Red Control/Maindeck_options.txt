@@ -1,12 +1,6 @@
 4 Relic of Progenitus
 19 Snow-Covered Mountain
 20 Snow-Covered Mountain
-1 Chandra, Flamecaller
-1 Squee, Goblin Nabob
-2 Squee, Goblin Nabob
-3 Scrying Sheets
-4 Scrying Sheets
-4 Lightning Bolt
 1 Desperate Ritual
 1 Ramunap Ruins
 1 Faithless Looting
@@ -26,19 +20,20 @@
 2 Mountain
 3 Desperate Ritual
 3 Faithless Looting
+3 Ramunap Ruins
 3 Simian Spirit Guide
 3 Chalice of the Void
 3 Ensnaring Bridge
 3 Abrade
-3 Ramunap Ruins
 3 Mountain
 4 Mountain
 4 Desperate Ritual
 4 Faithless Looting
+4 Ramunap Ruins
+4 Ensnaring Bridge
 4 Simian Spirit Guide
 4 Chalice of the Void
 4 Abrade
-4 Ensnaring Bridge
 5 Mountain
 6 Mountain
 7 Mountain
@@ -53,4 +48,9 @@
 16 Mountain
 17 Mountain
 18 Mountain
-4 Ramunap Ruins
+1 Chandra, Flamecaller
+1 Squee, Goblin Nabob
+2 Squee, Goblin Nabob
+3 Scrying Sheets
+4 Scrying Sheets
+4 Lightning Bolt
