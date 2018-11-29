@@ -36,6 +36,6 @@
 |                    4|[Chalice of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370411)|                     |                                                                                            |
 |                    1|[Scalding Tarn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426069)      |                     |                                                                                            |
 |                    2|[Scalding Tarn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426069)      |                     |                                                                                            |
-|                    3|[Scalding Tarn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426069)      |                     |                                                                                            |
 |                    7|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439604)           |                     |                                                                                            |
+|                    3|[Scalding Tarn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426069)      |                     |                                                                                            |
 

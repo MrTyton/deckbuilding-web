@@ -1,45 +1,17 @@
-1 Copperline Gorge
-2 Arid Mesa
-2 Goblin Lore
-2 Burning Inquiry
-2 Stomping Ground
-2 Copperline Gorge
-2 Maximize Velocity
-2 Hollow One
-2 Flameblade Adept
-3 Arid Mesa
-3 Flameblade Adept
-3 Copperline Gorge
-3 Burning Inquiry
-3 Goblin Lore
-3 Hollow One
-4 Arid Mesa
-4 Flameblade Adept
-4 Hollow One
-4 Copperline Gorge
-4 Burning Inquiry
-4 Goblin Lore
-3 Fiery Temper
-4 Fiery Temper
-4 Bedlam Reveler
-15 Mountain
-16 Mountain
-17 Mountain
-18 Mountain
-2 Ramunap Ruins
 1 Hazoret the Fervent
 1 Blood Moon
 2 Blood Moon
 3 Blood Moon
+2 Ramunap Ruins
 1 Simian Spirit Guide
-1 Legion Warboss
 1 Chandra, Torch of Defiance
 1 Chalice of the Void
 1 Desperate Ritual
-1 Gemstone Caverns
 1 Ensnaring Bridge
+1 Gemstone Caverns
 1 Goblin Rabblemaster
 1 Pyretic Ritual
+1 Legion Warboss
 1 Abrade
 2 Simian Spirit Guide
 2 Legion Warboss
@@ -64,6 +36,15 @@
 4 Goblin Rabblemaster
 4 Blood Moon
 4 Chandra, Torch of Defiance
+6 Mountain
+7 Mountain
+8 Mountain
+9 Mountain
+10 Mountain
+11 Mountain
+12 Mountain
+13 Mountain
+14 Mountain
 1 Scavenger Grounds
 1 Magus of the Moon
 1 Eidolon of the Great Revel
@@ -71,45 +52,6 @@
 2 Pyretic Ritual
 2 Eidolon of the Great Revel
 2 Scavenger Grounds
-1 Bloodstained Mire
-1 Blood Crypt
-1 Grim Lavamancer
-2 Bloodstained Mire
-2 Grim Lavamancer
-2 Blood Crypt
-3 Bloodstained Mire
-4 Bloodstained Mire
-1 Bomat Courier
-1 Searing Blaze
-1 Blackcleave Cliffs
-1 Burst Lightning
-1 Goblin Guide
-1 Bump in the Night
-2 Searing Blaze
-2 Bomat Courier
-2 Goblin Guide
-2 Bump in the Night
-2 Burst Lightning
-2 Blackcleave Cliffs
-3 Searing Blaze
-3 Bomat Courier
-3 Wooded Foothills
-3 Grim Lavamancer
-3 Bump in the Night
-3 Blackcleave Cliffs
-3 Goblin Guide
-3 Burst Lightning
-4 Wooded Foothills
-4 Grim Lavamancer
-4 Searing Blaze
-4 Blackcleave Cliffs
-4 Bomat Courier
-4 Burst Lightning
-4 Goblin Guide
-4 Bump in the Night
-1 The Flame of Keld
-2 The Flame of Keld
-4 Gut Shot
 1 Mutavault
 1 Anger of the Gods
 2 Anger of the Gods
@@ -117,10 +59,54 @@
 3 Ramunap Ruins
 4 Legion Warboss
 4 Ramunap Ruins
-1 Tormenting Voice
-2 Tormenting Voice
-3 Tormenting Voice
-19 Mountain
+1 Bloodstained Mire
+1 Blood Crypt
+1 Monastery Swiftspear
+1 Grim Lavamancer
+2 Bloodstained Mire
+2 Grim Lavamancer
+2 Blood Crypt
+2 Monastery Swiftspear
+3 Bloodstained Mire
+3 Monastery Swiftspear
+4 Bloodstained Mire
+4 Monastery Swiftspear
+1 Bomat Courier
+1 Searing Blaze
+1 Blackcleave Cliffs
+1 Rift Bolt
+1 Burst Lightning
+1 Lava Spike
+1 Bump in the Night
+1 Goblin Guide
+2 Searing Blaze
+2 Bomat Courier
+2 Goblin Guide
+2 Bump in the Night
+2 Burst Lightning
+2 Blackcleave Cliffs
+2 Lava Spike
+2 Rift Bolt
+3 Searing Blaze
+3 Bomat Courier
+3 Wooded Foothills
+3 Bump in the Night
+3 Grim Lavamancer
+3 Lava Spike
+3 Rift Bolt
+3 Blackcleave Cliffs
+3 Goblin Guide
+3 Burst Lightning
+4 Wooded Foothills
+4 Grim Lavamancer
+4 Blackcleave Cliffs
+4 Searing Blaze
+4 Bomat Courier
+4 Rift Bolt
+4 Goblin Guide
+4 Burst Lightning
+4 Lava Spike
+4 Bump in the Night
 1 Polluted Delta
 1 Smuggler's Copter
 1 Field of Ruin
@@ -140,8 +126,8 @@
 2 Swamp
 2 Collective Brutality
 2 Bloodghast
-2 Thoughtseize
 2 Bloodsoaked Champion
+2 Thoughtseize
 2 Sulfurous Springs
 2 Fatal Push
 3 Swamp
@@ -152,7 +138,7 @@
 3 Bloodsoaked Champion
 3 Sulfurous Springs
 4 Thoughtseize
-4 Sulfurous Springs
 4 Bloodsoaked Champion
+4 Sulfurous Springs
 4 Bloodghast
 4 Blood Crypt
