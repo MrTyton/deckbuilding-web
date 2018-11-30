@@ -33,3 +33,20 @@
 |1 [Plaguecrafter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452832)       |                                                                                           |                                                                                                  |                                                                                           |
 |2 [Reclamation Sage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430359)    |                                                                                           |                                                                                                  |                                                                                           |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                         Maindeck Card                                          |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
+|--------------------:|------------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
+|                    1|[Ritual of Soot](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452834)       |                    1|[Karn, Scion of Urza](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442889)|
+|                    1|[Vraska, Golgari Queen](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452963)|                    1|[Golgari Findbroker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452925) |
+|                    1|[Golgari Findbroker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452925)   |                    1|[Cast Down](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442969)          |
+|                    1|[Dryad Greenseeker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447314)    |                    1|[The Eldest Reborn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442978)  |
+|                    1|[Jadelight Ranger](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439793)     |                    1|[The Immortal Sun](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439844)   |
+|                    1|[Carnage Tyrant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435334)       |                    1|[Vraska's Contempt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435283)  |
+|                    2|[Dryad Greenseeker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447314)    |                    2|[Vraska's Contempt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435283)  |
+|                    3|[Dryad Greenseeker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447314)    |                     |                                                                                              |
+|                    4|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439603)                |                     |                                                                                              |
+|                    7|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439605)               |                     |                                                                                              |
+|                    8|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439605)               |                     |                                                                                              |
+
