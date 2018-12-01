@@ -71,6 +71,6 @@
 |                     |                                                                                                  |                    2|[Suppression Field](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=83617)    |
 |                     |                                                                                                  |                    3|[Natural Obsolescence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423785)|
 |                     |                                                                                                  |                    3|[Auriok Champion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438575)     |
-|                     |                                                                                                  |                    4|[Gaddock Teeg](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=140188)        |
 |                     |                                                                                                  |                    4|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)       |
+|                     |                                                                                                  |                    4|[Gaddock Teeg](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=140188)        |
 
