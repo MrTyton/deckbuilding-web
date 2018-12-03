@@ -1,13 +1,9 @@
-1 Shard Volley
 4 Skullcrack
+1 Shard Volley
 2 Grim Lavamancer
 3 Arid Mesa
-1 Scalding Tarn
-3 Sacred Foundry
 4 Mountain
 5 Mountain
-2 Scalding Tarn
-4 Arid Mesa
 6 Mountain
 1 Fiery Temper
 1 Arclight Phoenix
@@ -38,39 +34,41 @@
 15 Mountain
 16 Mountain
 17 Mountain
-1 Desperate Ritual
+1 Risk Factor
 1 Tormenting Voice
 2 Tormenting Voice
-2 Desperate Ritual
 3 Tormenting Voice
 4 Fiery Temper
-4 Bedlam Reveler
-18 Mountain
-1 Flame Jab
-3 Desperate Ritual
-4 Desperate Ritual
-4 Tormenting Voice
-19 Mountain
-3 Scalding Tarn
-4 Scalding Tarn
-1 Blood Crypt
+1 Scalding Tarn
 1 Gut Shot
 2 Gut Shot
 1 Ramunap Ruins
+3 Sacred Foundry
+4 Arid Mesa
+2 Risk Factor
+4 Tormenting Voice
+4 Bedlam Reveler
+2 Scalding Tarn
+1 Flame Jab
+1 Runaway Steam-Kin
+2 Runaway Steam-Kin
+3 Runaway Steam-Kin
+1 Desperate Ritual
+2 Desperate Ritual
+18 Mountain
+1 Maximize Velocity
+1 Blood Crypt
 3 Grim Lavamancer
 4 Grim Lavamancer
-1 Sudden Shock
 1 Snow-Covered Mountain
 1 Plains
 2 Snow-Covered Mountain
-1 Risk Factor
-2 Risk Factor
+1 Sudden Shock
+3 Scalding Tarn
+4 Scalding Tarn
 1 Monastery Mentor
-1 Runaway Steam-Kin
 2 Monastery Mentor
-2 Runaway Steam-Kin
 3 Monastery Mentor
-3 Runaway Steam-Kin
 4 Monastery Mentor
 1 Dragon Fodder
 1 Goblin Grenade
@@ -102,7 +100,7 @@
 4 Legion Loyalist
 4 Burning-Tree Emissary
 4 Fanatical Firebrand
-1 Maximize Velocity
+4 Runaway Steam-Kin
 1 Burning Inquiry
 1 Goblin Lore
 1 Flameblade Adept
@@ -120,6 +118,9 @@
 4 Hollow One
 4 Burning Inquiry
 4 Goblin Lore
+3 Desperate Ritual
+4 Desperate Ritual
+19 Mountain
 1 Burst Lightning
 1 Bomat Courier
 1 Blackcleave Cliffs
