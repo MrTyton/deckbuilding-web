@@ -4,26 +4,26 @@
 3 Arid Mesa
 1 Scalding Tarn
 3 Sacred Foundry
-2 Scalding Tarn
 4 Mountain
 5 Mountain
+2 Scalding Tarn
 4 Arid Mesa
 6 Mountain
+1 Fiery Temper
 1 Arclight Phoenix
 1 Bedlam Reveler
-1 Fiery Temper
 1 Manamorphose
 1 Faithless Looting
+2 Fiery Temper
 2 Arclight Phoenix
 2 Bedlam Reveler
-2 Fiery Temper
 2 Manamorphose
 2 Faithless Looting
 3 Arclight Phoenix
 3 Bedlam Reveler
 3 Manamorphose
-3 Fiery Temper
 3 Faithless Looting
+3 Fiery Temper
 4 Arclight Phoenix
 4 Manamorphose
 4 Faithless Looting
@@ -37,79 +37,76 @@
 14 Mountain
 15 Mountain
 16 Mountain
+17 Mountain
 1 Desperate Ritual
 1 Tormenting Voice
 2 Tormenting Voice
 2 Desperate Ritual
-3 Desperate Ritual
 3 Tormenting Voice
-4 Desperate Ritual
 4 Fiery Temper
 4 Bedlam Reveler
-17 Mountain
-1 Ramunap Ruins
-1 Flame Jab
-4 Tormenting Voice
 18 Mountain
+1 Flame Jab
+3 Desperate Ritual
+4 Desperate Ritual
+4 Tormenting Voice
 19 Mountain
 3 Scalding Tarn
 4 Scalding Tarn
-1 Risk Factor
-2 Risk Factor
 1 Blood Crypt
-1 Bomat Courier
-2 Bomat Courier
-3 Bomat Courier
-4 Bomat Courier
+1 Gut Shot
+2 Gut Shot
+1 Ramunap Ruins
 3 Grim Lavamancer
 4 Grim Lavamancer
 1 Sudden Shock
 1 Snow-Covered Mountain
 1 Plains
 2 Snow-Covered Mountain
-1 Field of Ruin
+1 Risk Factor
+2 Risk Factor
+1 Monastery Mentor
 1 Runaway Steam-Kin
+2 Monastery Mentor
 2 Runaway Steam-Kin
-3 Risk Factor
+3 Monastery Mentor
 3 Runaway Steam-Kin
-4 Runaway Steam-Kin
+4 Monastery Mentor
 1 Dragon Fodder
-1 Foundry Street Denizen
-1 Devastating Summons
-1 Goblin Bushwhacker
+1 Goblin Grenade
 1 Legion Loyalist
+1 Devastating Summons
+1 Foundry Street Denizen
+1 Goblin Bushwhacker
 1 Fanatical Firebrand
 1 Burning-Tree Emissary
-1 Goblin Grenade
 1 Reckless Bushwhacker
-2 Reckless Bushwhacker
-2 Goblin Grenade
-2 Foundry Street Denizen
+2 Legion Loyalist
 2 Devastating Summons
+2 Foundry Street Denizen
+2 Goblin Grenade
+2 Reckless Bushwhacker
 2 Burning-Tree Emissary
 2 Fanatical Firebrand
-2 Legion Loyalist
 2 Goblin Bushwhacker
+3 Legion Loyalist
+3 Foundry Street Denizen
 3 Fanatical Firebrand
 3 Burning-Tree Emissary
-3 Foundry Street Denizen
-3 Reckless Bushwhacker
 3 Devastating Summons
 3 Goblin Bushwhacker
-3 Legion Loyalist
+3 Reckless Bushwhacker
 4 Goblin Bushwhacker
 4 Reckless Bushwhacker
+4 Foundry Street Denizen
 4 Legion Loyalist
 4 Burning-Tree Emissary
 4 Fanatical Firebrand
-4 Foundry Street Denizen
 1 Maximize Velocity
-1 Gut Shot
 1 Burning Inquiry
 1 Goblin Lore
 1 Flameblade Adept
 1 Hollow One
-2 Gut Shot
 2 Maximize Velocity
 2 Burning Inquiry
 2 Goblin Lore
@@ -123,17 +120,21 @@
 4 Hollow One
 4 Burning Inquiry
 4 Goblin Lore
+1 Burst Lightning
+1 Bomat Courier
 1 Blackcleave Cliffs
 1 Bump in the Night
-1 Burst Lightning
 2 Burst Lightning
 2 Ramunap Ruins
+2 Bomat Courier
 2 Bump in the Night
 2 Blackcleave Cliffs
 2 Blood Crypt
+3 Bomat Courier
 3 Bump in the Night
 3 Blackcleave Cliffs
 3 Burst Lightning
-4 Blackcleave Cliffs
+4 Bomat Courier
 4 Burst Lightning
+4 Blackcleave Cliffs
 4 Bump in the Night

@@ -33,9 +33,9 @@
 |                    1|[Field of Ruin](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435415)   |                    1|[Asylum Visitor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409846)     |
 |                    1|[Funeral Charm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3618)     |                    1|[Phyrexian Arena](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205417)    |
 |                    2|[Bojuka Bog](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=247536)      |                    1|[Death's Shadow](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425889)     |
-|                    2|[Funeral Charm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3618)     |                    2|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205013)|
-|                    3|[Ensnaring Bridge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442213)|                    2|[Death's Shadow](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425889)     |
+|                    2|[Funeral Charm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3618)     |                    2|[Death's Shadow](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425889)     |
+|                    3|[Ensnaring Bridge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442213)|                    2|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205013)|
 |                    4|[Ensnaring Bridge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442213)|                    2|[Asylum Visitor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409846)     |
-|                     |                                                                                           |                    3|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205013)|
 |                     |                                                                                           |                    3|[Delirium Skeins](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425890)    |
+|                     |                                                                                           |                    3|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205013)|
 

@@ -1,3 +1,11 @@
+1 Collective Brutality
+1 Thoughtseize
+1 Marsh Flats
+1 Damnation
+2 Thoughtseize
+2 Marsh Flats
+2 Swamp
+3 Swamp
 1 Mountain
 1 Lightning Bolt
 2 Mountain
@@ -6,7 +14,6 @@
 1 Arid Mesa
 1 Bloodstained Mire
 1 Goblin Rabblemaster
-1 Collective Brutality
 1 Ensnaring Bridge
 1 Chandra, Torch of Defiance
 1 Grim Lavamancer
@@ -17,12 +24,9 @@
 1 Asylum Visitor
 1 Kolaghan's Command
 1 Blood Crypt
-1 Thoughtseize
-1 Simian Spirit Guide
 1 Liliana, the Last Hope
-1 Marsh Flats
 1 Graven Cairns
-1 Damnation
+1 Simian Spirit Guide
 2 Bloodstained Mire
 2 Arid Mesa
 2 Goblin Rabblemaster
@@ -30,13 +34,9 @@
 2 Asylum Visitor
 2 Kolaghan's Command
 2 Blood Crypt
-2 Thoughtseize
-2 Marsh Flats
 2 Blood Moon
-2 Swamp
 2 Chandra, Torch of Defiance
 2 Simian Spirit Guide
-3 Swamp
 3 Goblin Rabblemaster
 3 Bloodstained Mire
 3 Blood Crypt
@@ -48,27 +48,68 @@
 4 Blood Moon
 4 Simian Spirit Guide
 5 Swamp
+1 Gideon of the Trials
+1 Gideon Jura
+1 Godless Shrine
+1 Path to Exile
+1 Ob Nixilis Reignited
+1 Day of Judgment
+1 Gideon, Ally of Zendikar
+1 Lingering Souls
+1 Settle the Wreckage
+1 Wrath of God
+1 Vault of the Archangel
+1 Concealed Courtyard
+1 Relic of Progenitus
+1 Plains
+1 Shambling Vent
+1 Ratchet Bomb
+2 Gideon of the Trials
+2 Relic of Progenitus
+2 Collective Brutality
+2 Path to Exile
+2 Lingering Souls
+2 Gideon, Ally of Zendikar
+2 Plains
+2 Concealed Courtyard
+2 Gideon Jura
+2 Shambling Vent
+2 Godless Shrine
+3 Gideon of the Trials
+3 Thoughtseize
+3 Path to Exile
+3 Lingering Souls
+3 Marsh Flats
+3 Gideon, Ally of Zendikar
+3 Plains
+3 Shambling Vent
+4 Marsh Flats
+4 Field of Ruin
+4 Path to Exile
+4 Lingering Souls
+4 Plains
+5 Plains
+6 Plains
 1 Into the Roil
+1 Izzet Charm
 1 Wildfire
 1 Shivan Reef
+1 Mind Stone
 1 Frost Titan
 1 Anger of the Gods
 1 Izzet Boilerworks
 1 Dream Leash
 1 Annex
-1 Mind Stone
 1 Izzet Signet
-1 Izzet Charm
 2 Shivan Reef
 2 Dream Leash
-2 Mind Stone
 2 Frost Titan
+2 Mind Stone
 2 Anger of the Gods
 2 Izzet Charm
 2 Wildfire
 2 Izzet Signet
 2 Annex
-3 Izzet Charm
 3 Shivan Reef
 3 Mountain
 3 Mind Stone
@@ -77,6 +118,7 @@
 3 Dream Leash
 3 Wildfire
 3 Frost Titan
+3 Izzet Charm
 4 Lightning Bolt
 4 Mind Stone
 4 Shivan Reef
