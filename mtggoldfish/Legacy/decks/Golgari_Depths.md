@@ -103,8 +103,8 @@
 |                     |                                                                                                 |                    1|[Underground Sea](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383142)       |
 |                     |                                                                                                 |                    2|[Flusterstorm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382942)          |
 |                     |                                                                                                 |                    2|[Extirpate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370384)             |
-|                     |                                                                                                 |                    3|[Flusterstorm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382942)          |
 |                     |                                                                                                 |                    3|[Extirpate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370384)             |
+|                     |                                                                                                 |                    3|[Flusterstorm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382942)          |
 |                     |                                                                                                 |                    3|[Faerie Macabre](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370410)        |
 |                     |                                                                                                 |                    4|[Gloom](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=202516)                 |
 

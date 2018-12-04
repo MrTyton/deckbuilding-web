@@ -67,7 +67,7 @@
 |                     |                                                                                               |                    1|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)     |
 |                     |                                                                                               |                    1|[Vapor Snag](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397738)              |
 |                     |                                                                                               |                    1|[Seal of Primordium](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425960)      |
-|                     |                                                                                               |                    2|[Vapor Snag](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397738)              |
 |                     |                                                                                               |                    2|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)     |
+|                     |                                                                                               |                    2|[Vapor Snag](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397738)              |
 |                     |                                                                                               |                    3|[Dispel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=201562)                  |
 

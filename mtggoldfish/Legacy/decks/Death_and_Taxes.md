@@ -101,6 +101,6 @@
 |                    2|[Horizon Canopy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438806)         |                     |                                                                                                    |
 |                    3|[Umezawa's Jitte](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416756)        |                     |                                                                                                    |
 |                    4|[Umezawa's Jitte](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416756)        |                     |                                                                                                    |
-|                   13|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439601)                 |                     |                                                                                                    |
 |                    7|[Snow-Covered Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=184815)    |                     |                                                                                                    |
+|                   13|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439601)                 |                     |                                                                                                    |
 

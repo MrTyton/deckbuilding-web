@@ -7,13 +7,13 @@
 2 Reverent Silence
 3 Assassin's Trophy
 1 Carpet of Flowers
-4 Assassin's Trophy
 1 Cryptbreaker
 2 Cryptbreaker
+4 Assassin's Trophy
 2 Abrade
-3 Faerie Macabre
 1 Magus of the Moon
 2 Magus of the Moon
+3 Faerie Macabre
 1 Massacre
 1 Echoing Truth
 2 Echoing Truth
@@ -31,7 +31,10 @@
 4 Reverent Silence
 1 Collective Brutality
 2 Pithing Needle
+2 Massacre
 1 Serenity
+1 Stronghold Gambit
+1 Flusterstorm
 1 Karakas
 1 Children of Korlis
 1 Thespian's Stage
@@ -44,18 +47,15 @@
 2 Silent Gravestone
 1 Monastery Mentor
 2 Monastery Mentor
-1 Flusterstorm
-2 Massacre
 1 Cabal Therapy
-1 Fatal Push
+1 Sire of Insanity
 1 Blood Moon
+1 Fatal Push
 2 Collective Brutality
 1 Ancient Grudge
 1 Toxic Deluge
 1 Infernal Reckoning
-1 Stronghold Gambit
 1 Necrotic Ooze
-1 Sire of Insanity
 1 Ratchet Bomb
 2 Ratchet Bomb
 2 Blood Moon
@@ -66,12 +66,14 @@
 1 Bitterblossom
 2 Bitterblossom
 3 Bitterblossom
-1 Keranos, God of Storms
-1 Leovold, Emissary of Trest
-3 Carpet of Flowers
+2 Stronghold Gambit
+3 Stronghold Gambit
 1 Sylvan Safekeeper
 1 Loyal Retainers
 3 Silent Gravestone
+1 Keranos, God of Storms
+1 Leovold, Emissary of Trest
+3 Carpet of Flowers
 1 Tormod's Crypt
 2 Tormod's Crypt
 3 Echoing Truth

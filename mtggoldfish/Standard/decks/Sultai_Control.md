@@ -47,7 +47,7 @@
 |                    3|[Treasure Map](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435410)         |                     |                                                                                               |
 |                    3|[Drowned Catacomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430633)     |                     |                                                                                               |
 |                    4|[Karn, Scion of Urza](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442889)  |                     |                                                                                               |
-|                    4|[Carnage Tyrant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435334)       |                     |                                                                                               |
 |                    4|[Treasure Map](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435410)         |                     |                                                                                               |
+|                    4|[Carnage Tyrant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435334)       |                     |                                                                                               |
 |                    4|[Thunderherd Migration](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439806)|                     |                                                                                               |
 
