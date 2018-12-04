@@ -78,7 +78,7 @@
 |                    3|[Bloodstained Mire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405094)    |                     |                                                                                                     |
 |                    3|[Bomat Courier](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417772)        |                     |                                                                                                     |
 |                    3|[Experimental Frenzy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452849)  |                     |                                                                                                     |
-|                    3|[Wooded Foothills](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405116)     |                     |                                                                                                     |
 |                    4|[Bomat Courier](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417772)        |                     |                                                                                                     |
 |                    4|[Experimental Frenzy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452849)  |                     |                                                                                                     |
+|                    3|[Wooded Foothills](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405116)     |                     |                                                                                                     |
 

@@ -19,13 +19,13 @@
 2 Crackling Drake
 2 Enigma Drake
 2 Chart a Course
-3 Chart a Course
 3 Opt
 3 Crackling Drake
 3 Enigma Drake
+3 Chart a Course
+4 Enigma Drake
 4 Opt
 4 Crackling Drake
-4 Enigma Drake
 2 Chemister's Insight
 4 Sulfur Falls
 1 Shock
@@ -49,9 +49,9 @@
 1 Radical Idea
 2 Sinister Sabotage
 2 Radical Idea
-3 Radical Idea
 3 Justice Strike
 3 Sinister Sabotage
+3 Radical Idea
 4 Sinister Sabotage
 4 Justice Strike
 1 Dive Down
@@ -111,31 +111,31 @@
 2 Negate
 6 Plains
 1 Runaway Steam-Kin
+1 Sarkhan, Fireblood
 1 Demanding Dragon
 1 Ral, Izzet Viceroy
 1 Tezzeret, Artifice Master
 1 Goblin Chainwhirler
 1 Dragon Egg
-1 Sarkhan, Fireblood
 1 Dragon's Hoard
 1 Verix Bladewing
 2 Runaway Steam-Kin
 2 Ral, Izzet Viceroy
-2 Demanding Dragon
-2 Verix Bladewing
-2 Goblin Chainwhirler
 2 Sarkhan, Fireblood
+2 Demanding Dragon
+2 Goblin Chainwhirler
+2 Verix Bladewing
 2 Dragon's Hoard
 3 Runaway Steam-Kin
 3 Demanding Dragon
 3 Sarkhan, Fireblood
 3 Dragon's Hoard
-4 Shock
 4 Runaway Steam-Kin
-4 Demanding Dragon
-4 Sarkhan, Fireblood
 4 Dragon's Hoard
 4 Mountain
+4 Sarkhan, Fireblood
+4 Demanding Dragon
+4 Shock
 5 Mountain
 6 Mountain
 7 Mountain
