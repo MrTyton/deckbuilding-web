@@ -40,7 +40,7 @@
 |*n*<sup>th</sup> copy|                                         Maindeck Card                                          |*n*<sup>th</sup> copy|                                      Sideboard Card                                       |
 |--------------------:|------------------------------------------------------------------------------------------------|--------------------:|-------------------------------------------------------------------------------------------|
 |                    2|[Ghalta, Primal Hunger](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439787)|                    2|[Knight of Autumn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452933)|
-|                    1|[Verdant Catacombs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426074)    |                    2|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)  |
-|                    2|[Verdant Catacombs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426074)    |                    2|[Slagstorm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=214054)       |
+|                    1|[Verdant Catacombs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426074)    |                    2|[Slagstorm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=214054)       |
+|                    2|[Verdant Catacombs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426074)    |                    2|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)  |
 |                    3|[Verdant Catacombs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426074)    |                    2|[Reclamation Sage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430359)|
 
