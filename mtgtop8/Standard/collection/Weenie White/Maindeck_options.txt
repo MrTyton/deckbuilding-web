@@ -1,35 +1,29 @@
-18 Plains
-19 Plains
 2 Snubhorn Sentry
 3 Snubhorn Sentry
-1 Hunted Witness
-20 Plains
-2 Hunted Witness
-3 Hunted Witness
-1 Rustwing Falcon
-2 Rustwing Falcon
-3 Rustwing Falcon
+18 Plains
+19 Plains
 4 Snubhorn Sentry
+20 Plains
+1 Hunted Witness
 1 Leonin Vanguard
 2 Leonin Vanguard
 3 Leonin Vanguard
-3 Healer's Hawk
+2 Hunted Witness
+3 Hunted Witness
 4 Hunted Witness
-4 Rustwing Falcon
+1 Rustwing Falcon
+2 Rustwing Falcon
+3 Rustwing Falcon
 4 Leonin Vanguard
 1 Knight of Grace
 2 Knight of Grace
 3 Knight of Grace
 3 Pride of Conquerors
-4 Knight of Grace
-1 Heroic Reinforcements
-2 Heroic Reinforcements
-3 Clifftop Retreat
-3 Heroic Reinforcements
-4 Clifftop Retreat
-4 Heroic Reinforcements
+3 Healer's Hawk
 1 Ajani, Adversary of Tyrants
 21 Plains
+4 Knight of Grace
+4 Rustwing Falcon
 2 Ajani, Adversary of Tyrants
 1 Temple Garden
 1 Sunpetal Grove
@@ -38,9 +32,15 @@
 2 Sunpetal Grove
 3 Sunpetal Grove
 3 Temple Garden
-4 Temple Garden
 4 Sunpetal Grove
+4 Temple Garden
 1 Mountain
+1 Heroic Reinforcements
+2 Heroic Reinforcements
+3 Clifftop Retreat
+3 Heroic Reinforcements
+4 Clifftop Retreat
+4 Heroic Reinforcements
 1 Silverbeak Griffin
 2 Silverbeak Griffin
 3 Silverbeak Griffin
@@ -59,7 +59,6 @@
 1 Flower / Flourish
 1 Forest
 2 Flower / Flourish
-1 Experimental Frenzy
 1 Lyra Dawnbringer
 1 Bounty Agent
 2 Bounty Agent

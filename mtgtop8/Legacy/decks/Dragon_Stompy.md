@@ -27,8 +27,8 @@
 
 |*n*<sup>th</sup> copy|                                         Maindeck Card                                          |*n*<sup>th</sup> copy|                                        Sideboard Card                                         |
 |--------------------:|------------------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------------|
-|                    4|[Magus of the Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438704)    |                    1|[Thought-Knot Seer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407519)   |
-|                    4|[Fiery Confluence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446834)     |                    2|[Thought-Knot Seer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407519)   |
+|                    4|[Fiery Confluence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446834)     |                    1|[Thought-Knot Seer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407519)   |
+|                    4|[Magus of the Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438704)    |                    2|[Thought-Knot Seer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407519)   |
 |                    4|[Ensnaring Bridge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442213)     |                    3|[Sulfur Elemental](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=122416)    |
 |                    1|[Karn, Scion of Urza](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442889)  |                    1|[Volcanic Fallout](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382401)    |
 |                    3|[Trinisphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425823)          |                    2|[Volcanic Fallout](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382401)    |
