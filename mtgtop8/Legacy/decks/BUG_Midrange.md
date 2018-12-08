@@ -62,7 +62,7 @@
 |                    1|[Search for Azcanta](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435226)    |                     |                                                                                                 |
 |                    1|[Sylvan Library](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383120)        |                     |                                                                                                 |
 |                    3|[Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)          |                     |                                                                                                 |
-|                    4|[Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)          |                     |                                                                                                 |
 |                    4|[Underground Sea](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383142)       |                     |                                                                                                 |
+|                    4|[Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)          |                     |                                                                                                 |
 |                    4|[Ponder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=451051)                |                     |                                                                                                 |
 

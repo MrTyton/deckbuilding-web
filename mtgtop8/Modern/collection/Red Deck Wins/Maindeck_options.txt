@@ -97,9 +97,6 @@
 2 Shard Volley
 1 Plains
 2 Snow-Covered Mountain
-1 Sudden Shock
-3 Scalding Tarn
-4 Scalding Tarn
 1 Soul-Scar Mage
 1 Surgical Extraction
 1 Lightning Axe
@@ -107,6 +104,9 @@
 3 Risk Factor
 3 Soul-Scar Mage
 4 Soul-Scar Mage
+1 Sudden Shock
+3 Scalding Tarn
+4 Scalding Tarn
 1 Dragon Fodder
 1 Foundry Street Denizen
 1 Devastating Summons
@@ -139,13 +139,20 @@
 4 Foundry Street Denizen
 2 Maximize Velocity
 4 Goblin Lore
+1 Monastery Mentor
+1 Desperate Ritual
+2 Monastery Mentor
+2 Desperate Ritual
+3 Monastery Mentor
+4 Monastery Mentor
+18 Mountain
 1 Bomat Courier
 1 Blackcleave Cliffs
 1 Bump in the Night
+2 Ramunap Ruins
 2 Bomat Courier
 2 Blackcleave Cliffs
 2 Bump in the Night
-2 Ramunap Ruins
 2 Blood Crypt
 3 Bomat Courier
 3 Bump in the Night
@@ -155,10 +162,3 @@
 4 Burst Lightning
 4 Blackcleave Cliffs
 4 Bump in the Night
-1 Monastery Mentor
-1 Desperate Ritual
-2 Monastery Mentor
-2 Desperate Ritual
-3 Monastery Mentor
-4 Monastery Mentor
-18 Mountain
