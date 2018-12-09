@@ -27,8 +27,8 @@
 
 |*n*<sup>th</sup> copy|                                       Maindeck Card                                        |*n*<sup>th</sup> copy|                                           Sideboard Card                                            |
 |--------------------:|--------------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------------------|
-|                    1|[Anger of the Gods](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438682)|                    1|[Boil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430682)                      |
-|                    1|[Mutavault](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=152724)        |                    1|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205013)       |
+|                    1|[Mutavault](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=152724)        |                    1|[Boil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430682)                      |
+|                    1|[Anger of the Gods](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438682)|                    1|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205013)       |
 |                    2|[Anger of the Gods](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438682)|                    1|[Spellskite](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397743)                |
 |                    3|[Ramunap Ruins](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430870)    |                    1|[Eidolon of the Great Revel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442117)|
 |                    3|[Legion Warboss](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452859)   |                    2|[Boil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430682)                      |

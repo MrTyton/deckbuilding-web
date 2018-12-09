@@ -1,17 +1,16 @@
-2 Cabal Therapy
-3 Bloodstained Mire
+3 Swamp
 3 Cabal Therapy
 4 Cabal Therapy
+3 Bloodstained Mire
 3 Thoughtseize
 1 Bayou
 4 Bloodstained Mire
+3 Verdant Catacombs
 4 Polluted Delta
 1 Sire of Insanity
-3 Verdant Catacombs
 3 Badlands
 1 Iona, Shield of Emeria
 1 Elesh Norn, Grand Cenobite
-1 Grave Titan
 1 Brainstorm
 1 Daze
 1 Careful Study
@@ -31,6 +30,7 @@
 4 Force of Will
 4 Thoughtseize
 4 Verdant Catacombs
+1 Grave Titan
 1 Ponder
 2 Ponder
 1 Island
@@ -41,11 +41,9 @@
 4 Underground Sea
 1 Flooded Strand
 2 Flooded Strand
+1 Chrome Mox
 1 Lim-Dul's Vault
 2 Lim-Dul's Vault
-1 Collective Brutality
-2 Collective Brutality
-1 Chrome Mox
 2 Grave Titan
 3 Grave Titan
 1 Dark Depths
@@ -53,9 +51,9 @@
 1 Unburial Rites
 1 Lion's Eye Diamond
 1 Urborg, Tomb of Yawgmoth
-1 Vampire Hexmage
 1 Living Wish
 1 Thespian's Stage
+1 Vampire Hexmage
 1 Children of Korlis
 2 Thespian's Stage
 2 Shallow Grave
@@ -66,21 +64,26 @@
 2 Lion's Eye Diamond
 3 Shallow Grave
 3 Thespian's Stage
-3 Living Wish
 3 Vampire Hexmage
+3 Living Wish
 3 Dark Depths
 3 Lion's Eye Diamond
 4 Shallow Grave
 4 Lion's Eye Diamond
 3 Ponder
+1 Collective Brutality
+2 Collective Brutality
 2 Chrome Mox
-1 Preordain
 1 Volcanic Island
 1 Izzet Charm
 1 Inkwell Leviathan
+1 Preordain
 1 Scalding Tarn
 2 Scalding Tarn
 2 Izzet Charm
+1 Snow-Covered Swamp
+2 Snow-Covered Swamp
+3 Snow-Covered Swamp
 3 Urborg, Tomb of Yawgmoth
 4 Grave Titan
 4 Daze

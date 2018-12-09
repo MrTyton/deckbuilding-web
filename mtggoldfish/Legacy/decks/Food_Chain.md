@@ -26,3 +26,19 @@
 |1 [Pithing Needle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425815)       |1 [Engineered Plague](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=12944)   |1 [Spell Pierce](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425876)|2 [Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)   |
 |                                                                                                  |3 [Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205013)|                                                                                         |1 [Toxic Deluge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413650)   |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                       Maindeck Card                                        |*n*<sup>th</sup> copy|                                           Sideboard Card                                            |
+|--------------------:|--------------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------------------|
+|                    1|[Hymn to Tourach](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382976)  |                    1|[Liliana, the Last Hope](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414388)    |
+|                    1|[Gurmag Angler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391850)    |                    1|[Fatal Push](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423724)                |
+|                    1|[Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)     |                    1|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)       |
+|                    1|[Ponder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=451051)           |                    1|[Leovold, Emissary of Trest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416834)|
+|                    2|[Hymn to Tourach](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382976)  |                    1|[Diabolic Edict](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442074)            |
+|                    2|[Ponder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=451051)           |                    2|[Carpet of Flowers](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=5858)           |
+|                    3|[Verdant Catacombs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426074)|                    2|[Leovold, Emissary of Trest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416834)|
+|                    3|[Walking Ballista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423848) |                    2|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)       |
+|                    3|[Assassin's Trophy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452902)|                     |                                                                                                     |
+|                    2|[Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)     |                     |                                                                                                     |
+

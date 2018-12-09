@@ -73,8 +73,8 @@
 |                    1|[Liliana of the Veil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425901)       |                     |                                                                                              |
 |                    3|[Volcanic Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383147)           |                     |                                                                                              |
 |                    3|[Fatal Push](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423724)                |                     |                                                                                              |
-|                    4|[Scalding Tarn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426069)             |                     |                                                                                              |
 |                    4|[Underground Sea](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383142)           |                     |                                                                                              |
+|                    4|[Scalding Tarn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426069)             |                     |                                                                                              |
 |                    3|[Verdant Catacombs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426074)         |                     |                                                                                              |
 |                    4|[Verdant Catacombs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426074)         |                     |                                                                                              |
 
