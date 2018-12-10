@@ -56,6 +56,6 @@
 |                    2|[Snow-Covered Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=184812) |                     |                                                                                                      |
 |                    2|[Sylvan Library](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383120)      |                     |                                                                                                      |
 |                    2|[Ancient Tomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382842)        |                     |                                                                                                      |
-|                    3|[Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)        |                     |                                                                                                      |
 |                    3|[Snow-Covered Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=184812) |                     |                                                                                                      |
+|                    3|[Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)        |                     |                                                                                                      |
 

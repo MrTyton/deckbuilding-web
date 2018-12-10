@@ -64,6 +64,6 @@
 |                    2|[Chandra, Pyromaster](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430581)  |                    2|[Ghirapur Aether Grid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=398517)|
 |                    2|[Quicksmith Rebel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423760)     |                    1|[Boil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430682)                |
 |                     |                                                                                                |                    3|[Sorcerous Spyglass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435407)  |
-|                     |                                                                                                |                    4|[Scab-Clan Berserker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=398461) |
 |                     |                                                                                                |                    4|[Thought-Knot Seer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407519)   |
+|                     |                                                                                                |                    4|[Scab-Clan Berserker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=398461) |
 

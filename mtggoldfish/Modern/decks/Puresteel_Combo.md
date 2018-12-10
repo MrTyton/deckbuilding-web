@@ -45,6 +45,6 @@
 |                     |                                                                                                   |                    2|[Kemba, Kha Regent](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=432995)     |
 |                     |                                                                                                   |                    3|[Kemba, Kha Regent](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=432995)     |
 |                     |                                                                                                   |                    3|[Geist of Saint Traft](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409577)  |
-|                     |                                                                                                   |                    4|[Inquisition of Kozilek](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425900)|
 |                     |                                                                                                   |                    3|[Monastery Mentor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391883)      |
+|                     |                                                                                                   |                    4|[Inquisition of Kozilek](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425900)|
 
