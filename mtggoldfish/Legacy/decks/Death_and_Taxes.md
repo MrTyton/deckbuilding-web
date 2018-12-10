@@ -99,8 +99,8 @@
 |                    1|[Ethersworn Canonist](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370504)    |                     |                                                                                                  |
 |                    2|[Remorseful Cleric](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447169)      |                     |                                                                                                  |
 |                    3|[Serra Avenger](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=113519)          |                     |                                                                                                  |
+|                   13|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439601)                 |                     |                                                                                                  |
 |                    2|[Horizon Canopy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438806)         |                     |                                                                                                  |
 |                    3|[Umezawa's Jitte](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416756)        |                     |                                                                                                  |
 |                    4|[Umezawa's Jitte](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416756)        |                     |                                                                                                  |
-|                   13|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439601)                 |                     |                                                                                                  |
 

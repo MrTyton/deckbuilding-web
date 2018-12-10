@@ -27,3 +27,19 @@
 |                                                                                             |                                                                                                     |1 [Murderous Cut](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386613)      |                                                                                                   |
 |                                                                                             |                                                                                                     |1 [Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|                                                                                                   |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                       Maindeck Card                                       |*n*<sup>th</sup> copy|                                      Sideboard Card                                       |
+|--------------------:|-------------------------------------------------------------------------------------------|--------------------:|-------------------------------------------------------------------------------------------|
+|                    1|[Cast Down](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442969)       |                    1|[Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=270465)          |
+|                    1|[Ensnaring Bridge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442213)|                    1|[Flaying Tendrils](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407580)|
+|                    2|[Ensnaring Bridge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442213)|                    1|[Ravenous Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197537)   |
+|                    3|[Ensnaring Bridge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442213)|                    1|[Profane Memento](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383353) |
+|                    3|[Flooded Strand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405098)  |                    2|[Set Adrift](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386661)      |
+|                    4|[Mission Briefing](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452794)|                    2|[Damnation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425888)       |
+|                    4|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439602)          |                    2|[Ravenous Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197537)   |
+|                    4|[Field of Ruin](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435415)   |                    2|[Profane Memento](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383353) |
+|                     |                                                                                           |                    3|[Ravenous Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197537)   |
+|                     |                                                                                           |                    3|[Profane Memento](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383353) |
+
