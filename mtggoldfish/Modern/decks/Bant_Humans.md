@@ -29,3 +29,15 @@
 |1 [Militia Bugler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447165)     |2 [Stony Silence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425850)     |                                                                                              |
 |2 [Selfless Spirit](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414332)    |                                                                                               |                                                                                              |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                        Maindeck Card                                         |*n*<sup>th</sup> copy|                                       Sideboard Card                                        |
+|--------------------:|----------------------------------------------------------------------------------------------|--------------------:|---------------------------------------------------------------------------------------------|
+|                    1|[Snow-Covered Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=184815)|                    1|[Gaddock Teeg](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=140188)      |
+|                    1|[Snow-Covered Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=184813)|                    2|[Gaddock Teeg](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=140188)      |
+|                    1|[Snow-Covered Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=184812)|                    3|[Knight of Autumn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452933)  |
+|                    4|[Militia Bugler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447165)     |                    3|[Stony Silence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425850)     |
+|                    4|[Aether Vial](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370514)        |                    3|[Shapers' Sanctuary](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435362)|
+|                     |                                                                                              |                    3|[Gaddock Teeg](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=140188)      |
+

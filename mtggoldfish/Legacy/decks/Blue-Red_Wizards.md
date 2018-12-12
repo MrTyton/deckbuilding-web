@@ -67,6 +67,6 @@
 |                    2|[Snapcaster Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425875)   |                    2|[Snapcaster Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425875)      |
 |                    3|[Snapcaster Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425875)   |                    2|[Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)       |
 |                    1|[True-Name Nemesis](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376562) |                    3|[Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)       |
-|                    3|[True-Name Nemesis](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376562) |                    4|[Flusterstorm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382942)         |
-|                    2|[True-Name Nemesis](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376562) |                    2|Rough/Tumble                                                                                    |
+|                    2|[True-Name Nemesis](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376562) |                    4|[Flusterstorm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382942)         |
+|                    3|[True-Name Nemesis](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376562) |                    2|Rough/Tumble                                                                                    |
 

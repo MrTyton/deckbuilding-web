@@ -1,27 +1,5 @@
-1 Thalia, Heretic Cathar
-1 Horizon Canopy
-2 Horizon Canopy
-2 Shefet Dunes
-5 Plains
-6 Plains
-1 Restoration Angel
-2 Blade Splicer
-2 Restoration Angel
-3 Blade Splicer
-1 Reality Smasher
-2 Reality Smasher
-1 Eiganjo Castle
-1 Shalai, Voice of Plenty
-2 Shambling Vent
-1 Wall of Omens
-1 Tectonic Edge
-2 Wall of Omens
-3 Wall of Omens
-7 Plains
-8 Plains
-1 Remorseful Cleric
-1 Smuggler's Copter
 1 Chalice of the Void
+1 Reality Smasher
 1 Wastes
 1 Gemstone Caverns
 1 Cavern of Souls
@@ -29,6 +7,7 @@
 1 Simian Spirit Guide
 2 Thalia, Heretic Cathar
 2 Chalice of the Void
+2 Reality Smasher
 2 Gemstone Caverns
 2 Simian Spirit Guide
 2 Dismember
@@ -40,16 +19,11 @@
 4 Simian Spirit Guide
 3 Restoration Angel
 4 Restoration Angel
-1 Mutavault
 1 Spirit of the Labyrinth
 1 Warping Wail
+1 Remorseful Cleric
 1 Zhalfirin Void
 2 Spirit of the Labyrinth
-2 Remorseful Cleric
-1 Vault of the Archangel
-1 Dark Confidant
-2 Dark Confidant
-3 Dark Confidant
 2 Tectonic Edge
 3 Shefet Dunes
 4 Wall of Omens
@@ -59,10 +33,10 @@
 3 Gemstone Caverns
 3 Horizon Canopy
 4 Horizon Canopy
-1 Thraben Inspector
 1 Sacred Foundry
-1 Pia Nalaar
+1 Thraben Inspector
 1 Scavenger Grounds
+1 Pia Nalaar
 1 Pia and Kiran Nalaar
 1 Lightning Bolt
 1 Dire Fleet Daredevil
@@ -85,5 +59,25 @@
 4 Lightning Bolt
 4 Inspiring Vantage
 4 Thraben Inspector
+1 Shalai, Voice of Plenty
+1 Wasteland Strangler
+1 Godless Shrine
+1 Tidehollow Sculler
+1 Swamp
+1 Caves of Koilos
+1 Concealed Courtyard
+1 Mutavault
+1 Shambling Vent
+2 Tidehollow Sculler
+2 Concealed Courtyard
+2 Caves of Koilos
+2 Wasteland Strangler
+3 Concealed Courtyard
+3 Wasteland Strangler
+3 Tidehollow Sculler
+3 Caves of Koilos
+4 Concealed Courtyard
+4 Caves of Koilos
+4 Tidehollow Sculler
 4 Blade Splicer
 9 Plains

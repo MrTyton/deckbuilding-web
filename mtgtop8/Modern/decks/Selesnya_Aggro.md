@@ -1,7 +1,7 @@
 # Selesnya Aggro
 
 #### [Export MTGO List](../collection/Selesnya%20Aggro/Selesnya%20Aggro.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=3%09Birds%20of%20Paradise%0A4%09Chord%20of%20Calling%0A4%09Collected%20Company%0A1%09Courser%20of%20Kruphix%0A4%09Devoted%20Druid%0A3%09Duskwatch%20Recruiter%0A2%09Eternal%20Witness%0A2%09Field%20of%20Ruin%0A5%09Forest%0A1%09Gavony%20Township%0A2%09Horizon%20Canopy%0A2%09Knight%20of%20Autumn%0A4%09Knight%20of%20the%20Reliquary%0A2%09Misty%20Rainforest%0A4%09Noble%20Hierarch%0A2%09Overgrown%20Tomb%0A1%09Plains%0A1%09Tectonic%20Edge%0A2%09Temple%20Garden%0A2%09Tireless%20Tracker%0A4%09Vizier%20of%20Remedies%0A1%09Walking%20Ballista%0A4%09Windswept%20Heath&deckside=1%09Abrupt%20Decay%0A2%09Assassin's%20Trophy%0A1%09Eidolon%20of%20Rhetoric%0A1%09Kataki,%20War's%20Wage%0A1%09Kitchen%20Finks%0A2%09Knight%20of%20Autumn%0A3%09Path%20to%20Exile%0A1%09Scavenging%20Ooze%0A2%09Sin%20Collector%0A1%09Voice%20of%20Resurgence)
+#### [Print on decklist.org](http://decklist.org/?deckmain=3%09Birds%20of%20Paradise%0A4%09Chord%20of%20Calling%0A4%09Collected%20Company%0A1%09Courser%20of%20Kruphix%0A4%09Devoted%20Druid%0A3%09Duskwatch%20Recruiter%0A2%09Eternal%20Witness%0A2%09Field%20of%20Ruin%0A5%09Forest%0A1%09Gavony%20Township%0A2%09Horizon%20Canopy%0A2%09Knight%20of%20Autumn%0A4%09Knight%20of%20the%20Reliquary%0A2%09Misty%20Rainforest%0A4%09Noble%20Hierarch%0A2%09Overgrown%20Tomb%0A1%09Plains%0A1%09Tectonic%20Edge%0A2%09Temple%20Garden%0A2%09Tireless%20Tracker%0A4%09Vizier%20of%20Remedies%0A1%09Walking%20Ballista%0A4%09Windswept%20Heath&deckside=2%09Assassin's%20Trophy%0A1%09Burrenton%20Forge-Tender%0A1%09Eidolon%20of%20Rhetoric%0A1%09Kataki,%20War's%20Wage%0A1%09Kitchen%20Finks%0A2%09Knight%20of%20Autumn%0A3%09Path%20to%20Exile%0A1%09Scavenging%20Ooze%0A2%09Sin%20Collector%0A1%09Voice%20of%20Resurgence)
 # Maindeck
 
 |                                           Creature (30)                                            |                                         Instant (8)                                          |                                          Land (22)                                          |
@@ -21,32 +21,31 @@
 
 # Sideboard
 
-|                                          Creature (9)                                          |                                         Instant (6)                                          |
-|------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
-|1 [Eidolon of Rhetoric](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=380409)|1 [Abrupt Decay](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425971)     |
-|1 [Kataki, War's Wage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370414) |2 [Assassin's Trophy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452902)|
-|1 [Kitchen Finks](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370458)      |3 [Path to Exile](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370408)    |
-|2 [Knight of Autumn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452933)   |                                                                                              |
-|1 [Scavenging Ooze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425959)    |                                                                                              |
-|2 [Sin Collector](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426008)      |                                                                                              |
-|1 [Voice of Resurgence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426025)|                                                                                              |
+|                                           Creature (10)                                           |                                         Instant (5)                                          |
+|---------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
+|1 [Burrenton Forge-Tender](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438580)|2 [Assassin's Trophy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452902)|
+|1 [Eidolon of Rhetoric](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=380409)   |3 [Path to Exile](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370408)    |
+|1 [Kataki, War's Wage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370414)    |                                                                                              |
+|1 [Kitchen Finks](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370458)         |                                                                                              |
+|2 [Knight of Autumn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452933)      |                                                                                              |
+|1 [Scavenging Ooze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425959)       |                                                                                              |
+|2 [Sin Collector](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426008)         |                                                                                              |
+|1 [Voice of Resurgence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426025)   |                                                                                              |
 
 
 # Other Options
 
 |*n*<sup>th</sup> copy|                                          Maindeck Card                                           |*n*<sup>th</sup> copy|                                          Sideboard Card                                           |
 |--------------------:|--------------------------------------------------------------------------------------------------|--------------------:|---------------------------------------------------------------------------------------------------|
-|                    1|[Verdant Catacombs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426074)      |                    1|[Burrenton Forge-Tender](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438580)  |
-|                    1|[Scavenging Ooze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425959)        |                    1|[Worship](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=429865)                 |
-|                    1|[Ghost Quarter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430470)          |                    1|[Settle the Wreckage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435186)     |
+|                    1|[Verdant Catacombs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426074)      |                    1|[Worship](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=429865)                 |
+|                    1|[Scavenging Ooze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425959)        |                    1|[Settle the Wreckage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435186)     |
+|                    1|[Ghost Quarter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430470)          |                    1|[Abrupt Decay](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425971)            |
 |                    2|[Ghost Quarter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430470)          |                    1|[Sigarda, Host of Herons](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=240033) |
-|                    1|[Wooded Foothills](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405116)       |                    1|[Selfless Spirit](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414332)         |
-|                    2|[Wooded Foothills](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405116)       |                    1|[Tireless Tracker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409997)        |
-|                    1|[Anafenza, the Foremost](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386476) |                    2|[Worship](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=429865)                 |
-|                    2|[Verdant Catacombs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426074)      |                    1|[Kor Firewalker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442010)          |
-|                    3|[Verdant Catacombs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426074)      |                    3|[Assassin's Trophy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452902)       |
-|                    1|[Remorseful Cleric](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447169)      |                    2|[Abrupt Decay](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425971)            |
-|                    1|[Archangel Avacyn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439314)       |                    3|[Abrupt Decay](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425971)            |
+|                    1|[Anafenza, the Foremost](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386476) |                    1|[Selfless Spirit](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414332)         |
+|                    2|[Verdant Catacombs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426074)      |                    1|[Tireless Tracker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409997)        |
+|                    3|[Verdant Catacombs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426074)      |                    2|[Worship](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=429865)                 |
+|                    1|[Remorseful Cleric](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447169)      |                    1|[Kor Firewalker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442010)          |
+|                    1|[Archangel Avacyn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439314)       |                    3|[Assassin's Trophy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452902)       |
 |                    1|[Bojuka Bog](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=247536)             |                    1|[Bojuka Bog](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=247536)              |
 |                    1|[Shalai, Voice of Plenty](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442923)|                    1|[Choke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430685)                   |
 |                    1|[Renegade Rallier](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423800)       |                    1|[Gideon, Ally of Zendikar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401897)|

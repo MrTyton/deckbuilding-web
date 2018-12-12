@@ -1,4 +1,3 @@
-1 Ancient Tomb
 1 Chalice of the Void
 2 Grim Monolith
 2 Thought-Knot Seer
@@ -7,16 +6,12 @@
 3 Ancient Tomb
 3 Thought-Knot Seer
 4 Thought-Knot Seer
-1 Eldrazi Temple
-2 Eldrazi Temple
-3 Eldrazi Temple
-4 Eldrazi Temple
-1 Voltaic Key
 1 Trinisphere
+1 Voltaic Key
 1 Thran Dynamo
 2 Ulamog, the Ceaseless Hunger
-2 Voltaic Key
 2 Trinisphere
+2 Voltaic Key
 2 Thran Dynamo
 2 Chalice of the Void
 2 Eye of Ugin
@@ -25,24 +20,35 @@
 4 Grim Monolith
 4 Chalice of the Void
 4 Ancient Tomb
-1 From Beyond
 3 Maze of Ith
 4 Candelabra of Tawnos
-1 Cavern of Souls
+4 Warping Wail
 1 Kozilek, Butcher of Truth
 2 Walking Ballista
-1 Endbringer
-1 City of Traitors
-2 Endbringer
-2 City of Traitors
-3 Eye of Ugin
 3 Ugin, the Spirit Dragon
 3 Voltaic Key
 3 Trinisphere
+1 Eldrazi Temple
+2 Eldrazi Temple
+3 Eldrazi Temple
+4 Eldrazi Temple
+1 City of Traitors
+2 City of Traitors
+1 From Beyond
+1 Cavern of Souls
+1 Endbringer
+2 Endbringer
+3 Eye of Ugin
+4 Ugin, the Spirit Dragon
 1 Urborg, Tomb of Yawgmoth
 2 Urborg, Tomb of Yawgmoth
+1 Karn, Scion of Urza
+2 Karn, Scion of Urza
+3 City of Traitors
 1 Sorcerous Spyglass
 2 Sorcerous Spyglass
+2 Karakas
+2 Thespian's Stage
 1 Island
 1 Brainstorm
 1 Tropical Island
@@ -62,21 +68,16 @@
 4 Misty Rainforest
 4 Primeval Titan
 1 Wastes
-2 Karakas
 2 Wastes
-2 Thespian's Stage
 3 Sorcerous Spyglass
 3 Thespian's Stage
 3 Ulamog, the Ceaseless Hunger
 4 Thespian's Stage
-4 Ugin, the Spirit Dragon
 1 Ratchet Bomb
 1 Pulse of Murasa
 2 Pulse of Murasa
 8 Forest
-1 Karn, Scion of Urza
-2 Karn, Scion of Urza
-3 City of Traitors
+1 Relic of Progenitus
 3 Endbringer
 1 Wurmcoil Engine
 1 Batterskull
@@ -92,6 +93,10 @@
 2 Abrupt Decay
 3 Abrupt Decay
 4 Show and Tell
+1 Basalt Monolith
+2 Kozilek, the Great Distortion
+4 City of Traitors
+4 Voltaic Key
 1 Ponder
 1 Flusterstorm
 1 Trickbind

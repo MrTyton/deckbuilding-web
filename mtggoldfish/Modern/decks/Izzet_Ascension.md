@@ -29,9 +29,9 @@
 
 |*n*<sup>th</sup> copy|                                       Maindeck Card                                        |*n*<sup>th</sup> copy|                                     Sideboard Card                                     |
 |--------------------:|--------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------|
-|                    1|[Bedlam Reveler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414415)   |                    1|[Ravenous Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197537)|
-|                    1|[Faithless Looting](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413670)|                    1|[Flame Slash](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=368536)  |
-|                    2|[Faithless Looting](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413670)|                    1|[Lava Coil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452858)    |
+|                    1|[Bedlam Reveler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414415)   |                    1|[Lava Coil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452858)    |
+|                    1|[Faithless Looting](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413670)|                    1|[Ravenous Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197537)|
+|                    2|[Faithless Looting](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413670)|                    1|[Flame Slash](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=368536)  |
 |                    2|[Bedlam Reveler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414415)   |                    2|[Lava Coil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452858)    |
 |                    3|[Faithless Looting](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413670)|                    2|[Ravenous Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197537)|
 |                    4|[Faithless Looting](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413670)|                    3|[Ravenous Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197537)|
