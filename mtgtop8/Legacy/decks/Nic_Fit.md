@@ -137,8 +137,8 @@
 |                    2|[Hymn to Tourach](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382976)         |                     |                                                                                                  |
 |                    2|[The Gitrog Monster](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=410010)      |                     |                                                                                                  |
 |                    2|[Liliana of the Veil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425901)     |                     |                                                                                                  |
-|                    3|[Hymn to Tourach](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382976)         |                     |                                                                                                  |
 |                    3|[Liliana of the Veil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425901)     |                     |                                                                                                  |
 |                    3|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439603)                   |                     |                                                                                                  |
+|                    3|[Hymn to Tourach](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382976)         |                     |                                                                                                  |
 |                    4|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439603)                   |                     |                                                                                                  |
 
