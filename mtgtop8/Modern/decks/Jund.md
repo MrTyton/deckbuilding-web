@@ -74,6 +74,7 @@
 |                     |                                                                                                   |                    2|[Torpor Orb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=233069)             |
 |                     |                                                                                                   |                    3|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)    |
 |                     |                                                                                                   |                    3|[Kitchen Finks](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370458)          |
+|                     |                                                                                                   |                    4|[Fulminator Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397686)        |
 |                     |                                                                                                   |                    1|[Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)           |
 |                     |                                                                                                   |                    2|[Damnation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425888)              |
 |                     |                                                                                                   |                    2|[Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)           |
@@ -81,5 +82,4 @@
 |                     |                                                                                                   |                    3|[Damnation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425888)              |
 |                     |                                                                                                   |                    4|[Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)           |
 |                     |                                                                                                   |                    4|[Damnation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425888)              |
-|                     |                                                                                                   |                    4|[Fulminator Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397686)        |
 
