@@ -4,9 +4,9 @@
 1 Dragon's Claw
 2 Dragon's Claw
 3 Surgical Extraction
+1 Spell Pierce
 1 Collective Brutality
 2 Collective Brutality
-1 Spell Pierce
 2 Engineered Explosives
 1 Disdainful Stroke
 3 Abrade
@@ -37,17 +37,19 @@
 1 Young Pyromancer
 2 Young Pyromancer
 3 Crackling Drake
+1 Flame Slash
 2 Tormod's Crypt
 1 Leyline of the Void
 1 Keranos, God of Storms
-1 Hazoret the Fervent
-1 Flame Slash
 1 Shattering Spree
 1 Pyroclasm
-1 Molten Rain
 1 Chandra, Torch of Defiance
+1 Molten Rain
+1 Hazoret the Fervent
 1 Rending Volley
 1 Izzet Charm
+1 Threads of Disloyalty
+2 Flame Slash
 1 Dismember
 2 Spell Pierce
 2 Dismember
@@ -55,8 +57,6 @@
 2 Thoughtseize
 1 Izzet Staticaster
 2 Izzet Staticaster
-1 Relic of Progenitus
-2 Negate
 1 Stony Silence
 1 Spell Snare
 2 Stony Silence
@@ -64,10 +64,12 @@
 1 Vendilion Clique
 3 Collective Brutality
 3 Firemind's Research
+3 Alpine Moon
 3 Tormod's Crypt
 4 Tormod's Crypt
 2 Leyline of the Void
 3 Leyline of the Void
 4 Leyline of the Void
 4 Ceremonious Rejection
-3 Alpine Moon
+1 Relic of Progenitus
+2 Negate

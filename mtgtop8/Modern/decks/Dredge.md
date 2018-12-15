@@ -59,6 +59,6 @@
 |                    2|[City of Brass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370490)     |                    2|[Back to Nature](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383187)       |
 |                    3|[Mana Confluence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409573)   |                    2|[Ravenous Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197537)        |
 |                    3|[Gemstone Mine](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=4592)       |                    3|[Back to Nature](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383187)       |
-|                    4|[Mana Confluence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409573)   |                    1|[Engineered Explosives](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370549)|
-|                    4|[Gemstone Mine](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=4592)       |                     |                                                                                                |
+|                    4|[Gemstone Mine](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=4592)       |                    1|[Engineered Explosives](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370549)|
+|                    4|[Mana Confluence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409573)   |                     |                                                                                                |
 

@@ -28,8 +28,8 @@
 
 |*n*<sup>th</sup> copy|                                             Maindeck Card                                             |*n*<sup>th</sup> copy|                                        Sideboard Card                                         |
 |--------------------:|-------------------------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------------|
-|                    1|[Lightning Strike](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435303)            |                    1|[Settle the Wreckage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435186) |
-|                    1|[Boros Guildgate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426056)             |                    1|[Sorcerous Spyglass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435407)  |
+|                    1|[Lightning Strike](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435303)            |                    1|[Sorcerous Spyglass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435407)  |
+|                    1|[Boros Guildgate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426056)             |                    1|[Settle the Wreckage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435186) |
 |                    2|[Boros Guildgate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426056)             |                    1|[Fight with Fire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443007)     |
 |                    2|[Lightning Strike](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435303)            |                    2|[The Immortal Sun](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439844)    |
 |                    2|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439604)                    |                    3|[Dire Fleet Daredevil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439756)|
@@ -42,6 +42,6 @@
 |                    5|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439604)                    |                     |                                                                                               |
 |                    6|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439601)                      |                     |                                                                                               |
 |                    7|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439601)                      |                     |                                                                                               |
-|                    9|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439601)                      |                     |                                                                                               |
 |                    8|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439601)                      |                     |                                                                                               |
+|                    9|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439601)                      |                     |                                                                                               |
 
