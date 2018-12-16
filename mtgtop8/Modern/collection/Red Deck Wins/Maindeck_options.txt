@@ -1,4 +1,3 @@
-4 Mountain
 5 Mountain
 6 Mountain
 1 Fiery Temper
@@ -29,10 +28,11 @@
 14 Mountain
 15 Mountain
 16 Mountain
+1 Risk Factor
+1 Shard Volley
 17 Mountain
 3 Bedlam Reveler
 3 Fiery Temper
-1 Risk Factor
 1 Tormenting Voice
 2 Tormenting Voice
 4 Fiery Temper
@@ -46,14 +46,13 @@
 2 Risk Factor
 4 Arid Mesa
 2 Grim Lavamancer
-3 Sacred Foundry
 1 Flame Jab
 4 Tormenting Voice
 1 Runaway Steam-Kin
 2 Runaway Steam-Kin
 3 Runaway Steam-Kin
-1 Stomping Ground
 2 Scalding Tarn
+3 Sacred Foundry
 3 Scalding Tarn
 1 Burning Inquiry
 1 Goblin Lore
@@ -76,6 +75,7 @@
 3 Soul-Scar Mage
 4 Runaway Steam-Kin
 1 Snow-Covered Mountain
+1 Stomping Ground
 1 Atarka's Command
 1 Windswept Heath
 1 Wild Nacatl
