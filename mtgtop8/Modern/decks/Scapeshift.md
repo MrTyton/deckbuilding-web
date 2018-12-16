@@ -47,6 +47,6 @@
 |                    1|[Detention Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=270356) |                     |                                                                                                |
 |                    2|[Izzet Charm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425996)      |                     |                                                                                                |
 |                    2|[Path to Exile](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370408)    |                     |                                                                                                |
-|                    3|[Path to Exile](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370408)    |                     |                                                                                                |
 |                    4|[Path to Exile](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370408)    |                     |                                                                                                |
+|                    3|[Path to Exile](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370408)    |                     |                                                                                                |
 
