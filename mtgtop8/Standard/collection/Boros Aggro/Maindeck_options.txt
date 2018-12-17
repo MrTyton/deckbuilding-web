@@ -1,22 +1,22 @@
+1 Ajani, Adversary of Tyrants
+2 Ajani, Adversary of Tyrants
+1 Aurelia, Exemplar of Justice
 2 Mountain
+1 Tocatli Honor Guard
+2 Tocatli Honor Guard
 1 Lava Coil
 2 Lava Coil
-1 Aurelia, Exemplar of Justice
 2 Aurelia, Exemplar of Justice
 3 Mountain
 4 Mountain
 5 Mountain
-1 Tocatli Honor Guard
-2 Tocatli Honor Guard
-1 Ajani, Adversary of Tyrants
-2 Ajani, Adversary of Tyrants
 3 Tocatli Honor Guard
 3 Lava Coil
 4 Tocatli Honor Guard
 1 Snubhorn Sentry
-2 Snubhorn Sentry
-3 Snubhorn Sentry
-4 Snubhorn Sentry
+1 Healer's Hawk
+2 Healer's Hawk
+3 Healer's Hawk
 1 Lyra Dawnbringer
 2 Lyra Dawnbringer
 3 Lyra Dawnbringer
@@ -36,14 +36,13 @@
 4 Rustwing Falcon
 3 Skymarcher Aspirant
 4 Skymarcher Aspirant
-1 Healer's Hawk
-2 Healer's Hawk
-3 Healer's Hawk
+2 Snubhorn Sentry
+3 Snubhorn Sentry
+4 Snubhorn Sentry
+1 Experimental Frenzy
+4 Healer's Hawk
 4 Lava Coil
 3 Aurelia, Exemplar of Justice
-1 Boros Challenger
-2 Boros Challenger
-3 Boros Challenger
 4 Rekindling Phoenix
 1 Legion Warboss
 2 Legion Warboss
@@ -53,35 +52,22 @@
 2 Response / Resurgence
 1 Pride of Conquerors
 2 Pride of Conquerors
-4 Boros Challenger
+2 Experimental Frenzy
 1 Teferi, Hero of Dominaria
 1 Steam Vents
 1 Sulfur Falls
 1 Glacial Fortress
 2 Teferi, Hero of Dominaria
 2 Glacial Fortress
-2 Steam Vents
 2 Sulfur Falls
+2 Steam Vents
 3 Ixalan's Binding
 3 Glacial Fortress
 3 Steam Vents
 4 Steam Vents
 4 Glacial Fortress
-1 Experimental Frenzy
-2 Experimental Frenzy
-1 Divine Visitation
-2 Divine Visitation
-3 Legion Warboss
-4 Legion Warboss
-4 Lyra Dawnbringer
-1 Boros Guildgate
-2 Boros Guildgate
-4 Healer's Hawk
-14 Plains
-1 Memorial to Genius
 1 Knight of Grace
 2 Knight of Grace
-3 Boros Guildgate
 1 Leonin Vanguard
 1 Ajani's Pridemate
 2 Leonin Vanguard
@@ -90,6 +76,20 @@
 3 Ajani's Pridemate
 4 Leonin Vanguard
 4 Ajani's Pridemate
+14 Plains
+1 Divine Visitation
+2 Divine Visitation
+3 Legion Warboss
+4 Legion Warboss
+4 Lyra Dawnbringer
+1 Boros Guildgate
+2 Boros Guildgate
+1 Boros Challenger
+2 Boros Challenger
+3 Boros Challenger
+1 Memorial to Genius
+3 Boros Guildgate
+4 Boros Challenger
 1 The Immortal Sun
 1 Slaughter the Strong
 1 Fight with Fire
