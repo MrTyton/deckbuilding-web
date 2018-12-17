@@ -36,6 +36,6 @@
 |                    4|[Legion Warboss](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452859)   |                    2|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205013)       |
 |                     |                                                                                            |                    3|[Eidolon of the Great Revel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442117)|
 |                     |                                                                                            |                    3|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205013)       |
-|                     |                                                                                            |                    4|[Eidolon of the Great Revel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442117)|
 |                     |                                                                                            |                    4|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205013)       |
+|                     |                                                                                            |                    4|[Eidolon of the Great Revel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442117)|
 

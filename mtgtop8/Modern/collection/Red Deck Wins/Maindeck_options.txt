@@ -1,13 +1,7 @@
-5 Mountain
-6 Mountain
-1 Fiery Temper
-1 Arclight Phoenix
 1 Bedlam Reveler
 1 Manamorphose
-1 Gut Shot
 1 Faithless Looting
 2 Arclight Phoenix
-2 Gut Shot
 2 Bedlam Reveler
 2 Manamorphose
 2 Fiery Temper
@@ -28,38 +22,37 @@
 14 Mountain
 15 Mountain
 16 Mountain
+3 Bloodstained Mire
+1 Gut Shot
+2 Gut Shot
+3 Bedlam Reveler
 1 Risk Factor
 1 Shard Volley
 17 Mountain
-3 Bedlam Reveler
 3 Fiery Temper
 1 Tormenting Voice
 2 Tormenting Voice
 4 Fiery Temper
+1 Ramunap Ruins
 3 Arid Mesa
+4 Bloodstained Mire
 4 Skullcrack
+4 Lightning Helix
+4 Wooded Foothills
 3 Tormenting Voice
 1 Scalding Tarn
-1 Ramunap Ruins
 1 Maximize Velocity
 4 Bedlam Reveler
 2 Risk Factor
 4 Arid Mesa
-2 Grim Lavamancer
 1 Flame Jab
 4 Tormenting Voice
-1 Runaway Steam-Kin
-2 Runaway Steam-Kin
-3 Runaway Steam-Kin
-2 Scalding Tarn
-3 Sacred Foundry
-3 Scalding Tarn
 1 Burning Inquiry
 1 Goblin Lore
 1 Flameblade Adept
 1 Hollow One
-2 Burning Inquiry
 2 Goblin Lore
+2 Burning Inquiry
 2 Flameblade Adept
 2 Hollow One
 3 Goblin Lore
@@ -69,17 +62,24 @@
 4 Flameblade Adept
 4 Hollow One
 4 Burning Inquiry
+1 Runaway Steam-Kin
+2 Runaway Steam-Kin
+3 Runaway Steam-Kin
+2 Scalding Tarn
+2 Grim Lavamancer
+3 Sacred Foundry
+3 Scalding Tarn
+4 Goblin Lore
 18 Mountain
 1 Soul-Scar Mage
 2 Soul-Scar Mage
 3 Soul-Scar Mage
 4 Runaway Steam-Kin
-1 Snow-Covered Mountain
-1 Stomping Ground
 1 Atarka's Command
 1 Windswept Heath
 1 Wild Nacatl
 1 Kird Ape
+1 Stomping Ground
 2 Kird Ape
 2 Windswept Heath
 2 Stomping Ground
@@ -94,18 +94,21 @@
 4 Wild Nacatl
 4 Windswept Heath
 4 Atarka's Command
-1 Blood Crypt
+2 Maximize Velocity
 2 Shard Volley
-1 Plains
-2 Snow-Covered Mountain
+1 Pyretic Ritual
+2 Ramunap Ruins
+2 Pyretic Ritual
+3 Pyretic Ritual
 1 Burst Lightning
+1 Snow-Covered Mountain
 1 Surgical Extraction
 1 Lightning Axe
 2 Burst Lightning
 3 Risk Factor
 4 Soul-Scar Mage
-1 Monastery Mentor
 1 Desperate Ritual
+1 Monastery Mentor
 2 Monastery Mentor
 2 Desperate Ritual
 3 Monastery Mentor
@@ -142,5 +145,3 @@
 4 Burning-Tree Emissary
 4 Fanatical Firebrand
 4 Foundry Street Denizen
-2 Maximize Velocity
-4 Goblin Lore

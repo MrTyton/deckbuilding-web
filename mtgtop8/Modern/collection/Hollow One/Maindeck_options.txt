@@ -5,15 +5,10 @@
 3 Arid Mesa
 2 Collective Brutality
 4 Arid Mesa
-1 Copperline Gorge
-2 Stomping Ground
-2 Copperline Gorge
-3 Copperline Gorge
-4 Mountain
 1 Manamorphose
-1 Fiery Temper
 1 Arclight Phoenix
 1 Gut Shot
+1 Fiery Temper
 2 Fiery Temper
 2 Manamorphose
 2 Arclight Phoenix
@@ -23,7 +18,12 @@
 3 Arclight Phoenix
 4 Manamorphose
 4 Arclight Phoenix
+4 Mountain
 5 Mountain
+1 Copperline Gorge
+2 Stomping Ground
+2 Copperline Gorge
+3 Copperline Gorge
 1 Scalding Tarn
 1 Maximize Velocity
 1 Bedlam Reveler
@@ -32,38 +32,33 @@
 3 Bedlam Reveler
 4 Copperline Gorge
 3 Stomping Ground
-1 Hooting Mandrills
-1 Insolent Neonate
-1 Vengevine
-1 Forest
-2 Hooting Mandrills
-2 Insolent Neonate
-2 Vengevine
-3 Vengevine
-3 Insolent Neonate
-4 Insolent Neonate
-4 Vengevine
 1 Ramunap Ruins
 2 Scalding Tarn
-1 Grim Lavamancer
-1 Noose Constrictor
-2 Grim Lavamancer
-2 Noose Constrictor
-3 Hooting Mandrills
-3 Noose Constrictor
 1 Ghor-Clan Rampager
+1 Hooting Mandrills
 1 Vexing Devil
+1 Insolent Neonate
+1 Vengevine
 1 Burning-Tree Emissary
 1 Reckless Bushwhacker
+1 Forest
+2 Hooting Mandrills
 2 Vexing Devil
+2 Insolent Neonate
+2 Vengevine
 2 Burning-Tree Emissary
 2 Reckless Bushwhacker
 3 Vexing Devil
+3 Vengevine
 3 Reckless Bushwhacker
+3 Insolent Neonate
 3 Burning-Tree Emissary
 4 Burning-Tree Emissary
+4 Insolent Neonate
 4 Vexing Devil
 4 Reckless Bushwhacker
+4 Vengevine
+4 Blackcleave Cliffs
 1 Risk Factor
 3 Fiery Temper
 6 Mountain

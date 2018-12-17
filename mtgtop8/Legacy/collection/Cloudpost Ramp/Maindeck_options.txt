@@ -1,10 +1,10 @@
 2 Walking Ballista
-1 Thought-Knot Seer
-1 Ancient Tomb
-1 Grim Monolith
 1 Chalice of the Void
-2 Thought-Knot Seer
+1 Ancient Tomb
+1 Thought-Knot Seer
+1 Grim Monolith
 2 Ancient Tomb
+2 Thought-Knot Seer
 2 Grim Monolith
 3 Ancient Tomb
 3 Grim Monolith
@@ -14,21 +14,21 @@
 2 Eldrazi Temple
 3 Eldrazi Temple
 4 Eldrazi Temple
-1 City of Traitors
 1 Trinisphere
+1 City of Traitors
 1 Voltaic Key
 1 Thran Dynamo
-2 City of Traitors
+2 Chalice of the Void
 2 Trinisphere
+2 City of Traitors
 2 Voltaic Key
 2 Ulamog, the Ceaseless Hunger
 2 Thran Dynamo
-2 Chalice of the Void
 2 Eye of Ugin
 3 Chalice of the Void
 3 Thran Dynamo
-4 Chalice of the Void
 4 Ancient Tomb
+4 Chalice of the Void
 4 Grim Monolith
 1 Kozilek, Butcher of Truth
 1 From Beyond
@@ -46,20 +46,20 @@
 2 Karn, Scion of Urza
 3 City of Traitors
 1 Island
+1 Show and Tell
 1 Brainstorm
 1 Tropical Island
-1 Show and Tell
 1 Misty Rainforest
 1 Primeval Titan
-2 Brainstorm
-2 Tropical Island
-2 Primeval Titan
 2 Show and Tell
+2 Brainstorm
+2 Primeval Titan
+2 Tropical Island
 2 Misty Rainforest
-3 Brainstorm
 3 Misty Rainforest
 3 Primeval Titan
 3 Show and Tell
+3 Brainstorm
 4 Brainstorm
 4 Misty Rainforest
 4 Primeval Titan
@@ -77,9 +77,9 @@
 2 Wurmcoil Engine
 2 Mind Stone
 3 Wurmcoil Engine
-1 Bayou
 1 Underground Sea
 1 Abrupt Decay
+1 Bayou
 1 Verdant Catacombs
 1 Polluted Delta
 2 Abrupt Decay

@@ -20,12 +20,16 @@
 3 Blood Moon
 2 Thoughtseize
 1 Shatterstorm
-1 Laboratory Maniac
 1 Vandalblast
+1 Laboratory Maniac
 1 Lightning Axe
 1 Doom Whisperer
 2 Doom Whisperer
 2 Fatal Push
+1 Pentad Prism
+1 Through the Breach
+2 Pentad Prism
+2 Through the Breach
 1 Tormod's Crypt
 1 Pyroclasm
 1 Damnation
@@ -34,10 +38,6 @@
 1 Thran Temporal Gateway
 1 Gurmag Angler
 2 Thran Temporal Gateway
-1 Through the Breach
-1 Pentad Prism
-2 Through the Breach
-2 Pentad Prism
 3 Abrade
 1 Chalice of the Void
 2 Chalice of the Void
@@ -52,7 +52,6 @@
 1 Ravenous Trap
 2 Ravenous Trap
 3 Ravenous Trap
-4 Leyline of the Void
 1 Ensnaring Bridge
 1 Chandra, Torch of Defiance
 1 Torpor Orb
@@ -60,10 +59,11 @@
 2 Grim Lavamancer
 2 Chandra, Torch of Defiance
 2 Torpor Orb
-3 Ensnaring Bridge
 3 Chandra, Torch of Defiance
-4 Ensnaring Bridge
+3 Ensnaring Bridge
 4 Chandra, Torch of Defiance
+4 Ensnaring Bridge
+4 Leyline of the Void
 1 Defense Grid
 1 By Force
 2 Boseiju, Who Shelters All

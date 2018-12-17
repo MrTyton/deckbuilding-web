@@ -1,8 +1,8 @@
 1 Misty Rainforest
 1 Ensnaring Bridge
+1 Daze
 1 Flooded Strand
 1 Surgical Extraction
-1 Daze
 1 Glimpse the Unthinkable
 1 Hedron Crab
 1 Visions of Beyond
@@ -10,6 +10,7 @@
 1 Archive Trap
 2 Misty Rainforest
 2 Flooded Strand
+2 Daze
 2 Surgical Extraction
 2 Ensnaring Bridge
 2 Underground Sea
@@ -18,13 +19,12 @@
 2 Archive Trap
 2 Glimpse the Unthinkable
 2 Brain Freeze
-2 Daze
+3 Daze
 3 Surgical Extraction
 3 Hedron Crab
 3 Brain Freeze
 3 Glimpse the Unthinkable
 3 Underground Sea
-3 Daze
 3 Visions of Beyond
 3 Archive Trap
 4 Daze
@@ -34,9 +34,10 @@
 4 Archive Trap
 4 Visions of Beyond
 4 Glimpse the Unthinkable
-1 Burning Wish
 1 Ancient Tomb
+1 Rite of Flame
 1 Past in Flames
+1 Burning Wish
 1 Fiery Confluence
 1 Desperate Ritual
 1 Ruby Medallion
@@ -45,12 +46,11 @@
 1 Seething Song
 1 Wooded Foothills
 1 Manamorphose
-1 Rite of Flame
 1 Reforge the Soul
 1 Lotus Petal
 2 Ancient Tomb
-2 Burning Wish
 2 Rite of Flame
+2 Burning Wish
 2 Bonus Round
 2 Ruby Medallion
 2 Manamorphose

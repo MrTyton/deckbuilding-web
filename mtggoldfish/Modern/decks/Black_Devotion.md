@@ -28,6 +28,7 @@
 |                    1|[Bloodstained Mire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405094) |                     |              |
 |                    2|[Bloodstained Mire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405094) |                     |              |
 |                    3|[Bloodstained Mire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405094) |                     |              |
+|                   12|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439603)             |                     |              |
 |                    1|[Snow-Covered Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=184816)|                     |              |
 |                    2|[Snow-Covered Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=184816)|                     |              |
 |                    3|[Snow-Covered Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=184816)|                     |              |
@@ -39,5 +40,4 @@
 |                    9|[Snow-Covered Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=184816)|                     |              |
 |                   10|[Snow-Covered Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=184816)|                     |              |
 |                   11|[Snow-Covered Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=184816)|                     |              |
-|                   12|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439603)             |                     |              |
 
