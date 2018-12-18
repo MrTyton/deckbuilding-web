@@ -29,15 +29,15 @@
 
 |*n*<sup>th</sup> copy|                                       Maindeck Card                                       |*n*<sup>th</sup> copy|                                     Sideboard Card                                      |
 |--------------------:|-------------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------|
-|                    1|[Mogg War Marshal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370547)|                    1|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)|
-|                    1|[Bomat Courier](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417772)   |                    2|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)|
-|                    1|[Signal Pest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=213773)     |                    3|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021) |
-|                    2|[Signal Pest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=213773)     |                    3|[Stony Silence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425850) |
+|                    1|[Mogg War Marshal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370547)|                    3|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021) |
+|                    1|[Bomat Courier](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417772)   |                    3|[Stony Silence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425850) |
+|                    1|[Signal Pest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=213773)     |                    2|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)|
+|                    2|[Signal Pest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=213773)     |                    1|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)|
 |                    2|[Bomat Courier](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417772)   |                     |                                                                                         |
+|                    3|[Scalding Tarn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426069)   |                     |                                                                                         |
 |                    3|[Bomat Courier](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417772)   |                     |                                                                                         |
 |                    3|[Signal Pest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=213773)     |                     |                                                                                         |
-|                    3|[Scalding Tarn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426069)   |                     |                                                                                         |
+|                    4|[Scalding Tarn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426069)   |                     |                                                                                         |
 |                    4|[Arid Mesa](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426054)       |                     |                                                                                         |
 |                    4|[Bomat Courier](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417772)   |                     |                                                                                         |
-|                    4|[Scalding Tarn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426069)   |                     |                                                                                         |
 

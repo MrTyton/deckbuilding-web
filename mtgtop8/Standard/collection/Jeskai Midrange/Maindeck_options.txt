@@ -10,9 +10,9 @@
 3 Deafening Clarion
 3 Island
 4 Island
+1 Enigma Drake
 1 Crackling Drake
 1 Chart a Course
-1 Enigma Drake
 1 Opt
 2 Chart a Course
 2 Crackling Drake
@@ -22,9 +22,9 @@
 3 Crackling Drake
 3 Enigma Drake
 3 Opt
-4 Enigma Drake
 4 Crackling Drake
 4 Opt
+4 Enigma Drake
 4 Sulfur Falls
 1 Shock
 2 Shock
@@ -49,43 +49,48 @@
 1 Shalai, Voice of Plenty
 2 Shalai, Voice of Plenty
 3 Syncopate
-1 Discovery / Dispersal
 1 Quasiduplicate
+1 Discovery / Dispersal
 1 Beacon Bolt
 2 Discovery / Dispersal
 3 Discovery / Dispersal
-1 Sinister Sabotage
 1 Radical Idea
-2 Sinister Sabotage
+1 Sinister Sabotage
 2 Radical Idea
+2 Sinister Sabotage
+3 Radical Idea
 3 Justice Strike
 3 Sinister Sabotage
-3 Radical Idea
-4 Sinister Sabotage
 4 Justice Strike
+4 Sinister Sabotage
 1 Expansion / Explosion
 1 Seal Away
 4 Deafening Clarion
 1 Negate
 3 Shock
-1 Memorial to Genius
 1 Vance's Blasting Cannons
+1 Memorial to Genius
 2 Fight with Fire
 1 Unknown Card
 1 Siren Stormtamer
 2 Unknown Card
 2 Siren Stormtamer
-1 Maximize Velocity
-4 Dive Down
 1 Conclave Tribunal
 2 Conclave Tribunal
 3 Lightning Strike
 4 Lightning Strike
 4 Resplendent Angel
+1 Maximize Velocity
+4 Dive Down
 2 Seal Away
 3 Niv-Mizzet, Parun
 3 Seal Away
 4 Seal Away
+1 Tocatli Honor Guard
+2 Tocatli Honor Guard
+3 Tocatli Honor Guard
+4 Lava Coil
+4 Tocatli Honor Guard
 1 Ionize
 1 Cleansing Nova
 1 Essence Scatter
@@ -100,29 +105,24 @@
 4 Ionize
 4 Chemister's Insight
 4 Teferi, Hero of Dominaria
-1 Tocatli Honor Guard
-2 Tocatli Honor Guard
-3 Tocatli Honor Guard
-4 Tocatli Honor Guard
-4 Lava Coil
 1 Banefire
 1 Remorseful Cleric
 2 Remorseful Cleric
 2 Negate
 6 Plains
 1 Runaway Steam-Kin
-1 Demanding Dragon
 1 Ral, Izzet Viceroy
 1 Sarkhan, Fireblood
-1 Tezzeret, Artifice Master
 1 Goblin Chainwhirler
+1 Tezzeret, Artifice Master
+1 Demanding Dragon
 1 Dragon Egg
 1 Dragon's Hoard
 1 Verix Bladewing
 2 Runaway Steam-Kin
 2 Ral, Izzet Viceroy
-2 Demanding Dragon
 2 Sarkhan, Fireblood
+2 Demanding Dragon
 2 Verix Bladewing
 2 Goblin Chainwhirler
 2 Dragon's Hoard

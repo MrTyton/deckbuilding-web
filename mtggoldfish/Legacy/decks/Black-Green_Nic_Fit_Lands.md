@@ -32,8 +32,8 @@
 
 |*n*<sup>th</sup> copy|                                          Maindeck Card                                          |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
 |--------------------:|-------------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
-|                    1|[Underrealm Lich](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452961)       |                    1|[Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)       |
-|                    1|[Sylvan Library](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383120)        |                    1|[Dread of Night](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=4658)       |
+|                    1|[Sylvan Library](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383120)        |                    1|[Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)       |
+|                    1|[Underrealm Lich](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452961)       |                    1|[Dread of Night](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=4658)       |
 |                    1|[Wooded Foothills](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405116)      |                    1|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205013)|
 |                    1|[Dryad Arbor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=282542)           |                    1|[Scavenging Ooze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425959)    |
 |                    1|[Diabolic Edict](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442074)        |                    1|[Bramble Sovereign](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446033)  |

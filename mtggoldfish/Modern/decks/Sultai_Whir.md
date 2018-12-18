@@ -39,6 +39,6 @@
 |                    4|[Welding Jar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=48328)         |                    1|[Bow of Nylea](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373603)          |
 |                     |                                                                                              |                    1|[Maelstrom Pulse](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370521)       |
 |                     |                                                                                              |                    2|[Welding Jar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=48328)            |
-|                     |                                                                                              |                    2|[Collective Brutality](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414380)  |
 |                     |                                                                                              |                    1|[Ghirapur Aether Grid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=398517)  |
+|                     |                                                                                              |                    2|[Collective Brutality](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414380)  |
 

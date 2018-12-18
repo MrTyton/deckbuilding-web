@@ -34,8 +34,8 @@
 
 |*n*<sup>th</sup> copy|                                        Maindeck Card                                         |*n*<sup>th</sup> copy|                                         Sideboard Card                                         |
 |--------------------:|----------------------------------------------------------------------------------------------|--------------------:|------------------------------------------------------------------------------------------------|
-|                    1|[Snow-Covered Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=184813)|                    1|[Invasive Surgery](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409811)     |
-|                   13|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439602)             |                    1|[Umezawa's Jitte](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416756)      |
+|                    1|[Snow-Covered Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=184813)|                    1|[Umezawa's Jitte](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416756)      |
+|                   13|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439602)             |                    1|[Invasive Surgery](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409811)     |
 |                     |                                                                                              |                    1|[Venser, Shaper Savant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425880)|
 |                     |                                                                                              |                    1|[Faerie Macabre](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370410)       |
 |                     |                                                                                              |                    2|[Faerie Macabre](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370410)       |

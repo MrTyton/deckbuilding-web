@@ -41,8 +41,8 @@
 |                    2|[Endless One](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401871)        |                    1|[Batterskull](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=233055)        |
 |                    3|[Endless One](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401871)        |                    2|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)     |
 |                    4|[Endless One](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401871)        |                    4|[Spatial Contortion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407518) |
-|                    4|[Blinkmoth Nexus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370407)    |                    2|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|
+|                    4|[Blinkmoth Nexus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370407)    |                    1|[Thorn of Amethyst](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=140166)  |
 |                    2|[Relic of Progenitus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205326)|                    1|[Warping Wail](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407522)       |
 |                    4|[Mutavault](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=152724)          |                    3|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|
-|                     |                                                                                              |                    1|[Thorn of Amethyst](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=140166)  |
+|                     |                                                                                              |                    2|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|
 
