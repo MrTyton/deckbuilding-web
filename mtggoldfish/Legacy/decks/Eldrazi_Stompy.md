@@ -52,7 +52,7 @@
 |                    3|[Elvish Spirit Guide](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=184542)         |                    1|[Dismember](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397830)          |
 |                    1|[Warping Wail](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407522)                |                    2|[Dismember](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397830)          |
 |                    1|[Karn, Scion of Urza](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442889)         |                    1|[Phyrexian Metamorph](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=214375)|
-|                    3|[Endbringer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407513)                  |                    2|[Phyrexian Metamorph](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=214375)|
+|                    3|[Endbringer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407513)                  |                    2|[All Is Dust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397750)        |
 |                    1|[Sea Gate Wreckage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407687)           |                    4|[Ratchet Bomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205482)       |
-|                     |                                                                                                       |                    2|[All Is Dust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397750)        |
+|                     |                                                                                                       |                    2|[Phyrexian Metamorph](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=214375)|
 

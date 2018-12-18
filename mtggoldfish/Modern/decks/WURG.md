@@ -35,8 +35,8 @@
 
 |*n*<sup>th</sup> copy|                                             Maindeck Card                                             |*n*<sup>th</sup> copy|                                       Sideboard Card                                       |
 |--------------------:|-------------------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------|
-|                    4|[Sakura-Tribe Elder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382351)          |                    1|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)    |
-|                    4|[Valakut, the Molten Pinnacle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=190400)|                    1|[Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426046)|
+|                    4|[Sakura-Tribe Elder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382351)          |                    1|[Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426046)|
+|                    4|[Valakut, the Molten Pinnacle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=190400)|                    1|[Baneslayer Angel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401633) |
 |                    4|[Farseek](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=433081)                     |                    2|[Baneslayer Angel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401633) |
-|                    4|[Search for Tomorrow](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205408)         |                    1|[Baneslayer Angel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401633) |
+|                    4|[Search for Tomorrow](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205408)         |                    1|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)    |
 
