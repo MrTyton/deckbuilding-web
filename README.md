@@ -36,7 +36,7 @@
 |[Black-Green Lantern Control](./mtggoldfish/Modern/decks/Black-Green_Lantern_Control.md)|[Grixis Control](./mtggoldfish/Modern/decks/Grixis_Control.md)                |[Kiki Evolution](./mtggoldfish/Modern/decks/Kiki_Evolution.md)                  |[Selesnya Taxes](./mtggoldfish/Modern/decks/Selesnya_Taxes.md)          |[White-Black Tokens](./mtggoldfish/Modern/decks/White-Black_Tokens.md)          |
 |[Black-Red Phoenix](./mtggoldfish/Modern/decks/Black-Red_Phoenix.md)                    |[Grixis Death's Shadow](./mtggoldfish/Modern/decks/Grixis_Death's_Shadow.md)  |[Krark-Clan Ironworks](./mtggoldfish/Modern/decks/Krark-Clan_Ironworks.md)      |[Storm](./mtggoldfish/Modern/decks/Storm.md)                            |[White-Blue Control (A)](./mtggoldfish/Modern/decks/White-Blue_Control_(A).md)  |
 |[Blue-Black Control](./mtggoldfish/Modern/decks/Blue-Black_Control.md)                  |[Gruul Land Destruction](./mtggoldfish/Modern/decks/Gruul_Land_Destruction.md)|[Living End](./mtggoldfish/Modern/decks/Living_End.md)                          |[Sultai Mill](./mtggoldfish/Modern/decks/Sultai_Mill.md)                |[White-Blue Midrange](./mtggoldfish/Modern/decks/White-Blue_Midrange.md)        |
-|[Bogles (B)](./mtggoldfish/Modern/decks/Bogles_(B).md)                                  |[Hardened Scales (B)](./mtggoldfish/Modern/decks/Hardened_Scales_(B).md)      |[Mardu Pyromancer](./mtggoldfish/Modern/decks/Mardu_Pyromancer.md)              |[Sultai Whir](./mtggoldfish/Modern/decks/Sultai_Whir.md)                |                                                                                |
+|[Bogles](./mtggoldfish/Modern/decks/Bogles.md)                                          |[Hardened Scales (B)](./mtggoldfish/Modern/decks/Hardened_Scales_(B).md)      |[Mardu Pyromancer](./mtggoldfish/Modern/decks/Mardu_Pyromancer.md)              |[Sultai Whir](./mtggoldfish/Modern/decks/Sultai_Whir.md)                |                                                                                |
 |[BridgeVine](./mtggoldfish/Modern/decks/BridgeVine.md)                                  |[Hollow One](./mtggoldfish/Modern/decks/Hollow_One.md)                        |[Merfolk](./mtggoldfish/Modern/decks/Merfolk.md)                                |[Taking Turns](./mtggoldfish/Modern/decks/Taking_Turns.md)              |                                                                                |
 
 
@@ -61,4 +61,4 @@
 
 
 
-#### Last Updated at 12:28AM on December 19, 2018
+#### Last Updated at 12:25PM on December 19, 2018

@@ -1,6 +1,6 @@
-# Bogles (B)
+# Bogles
 
-#### [Export MTGO List](../collection/Bogles%20(B)/Bogles%20(B).txt)
+#### [Export MTGO List](../collection/Bogles/Bogles.txt)
 #### [Print on decklist.org](http://decklist.org/?deckmain=4%09Daybreak%20Coronet%0A1%09Dryad%20Arbor%0A4%09Ethereal%20Armor%0A1%09Forest%0A4%09Gladecover%20Scout%0A2%09Gryff's%20Boon%0A4%09Horizon%20Canopy%0A2%09Hyena%20Umbra%0A4%09Kor%20Spiritdancer%0A4%09Leyline%20of%20Sanctity%0A2%09Path%20to%20Exile%0A1%09Plains%0A4%09Rancor%0A4%09Razorverge%20Thicket%0A4%09Slippery%20Bogle%0A4%09Spider%20Umbra%0A1%09Spirit%20Link%0A2%09Spirit%20Mantle%0A3%09Temple%20Garden%0A4%09Windswept%20Heath%0A1%09Wooded%20Foothills&deckside=2%09Damping%20Sphere%0A3%09Gaddock%20Teeg%0A2%09Path%20to%20Exile%0A3%09Rest%20in%20Peace%0A2%09Seal%20of%20Primordium%0A3%09Stony%20Silence)
 # Maindeck
 
@@ -52,14 +52,14 @@
 |                    1|[Silhana Ledgewalker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423502)    |                    1|[Worship](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=429865)             |
 |                    2|[Silhana Ledgewalker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423502)    |                    1|[Ethersworn Canonist](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370504) |
 |                    3|[Gryff's Boon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409758)           |                    1|[Auriok Champion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438575)     |
-|                    1|[Keen Sense](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=122451)             |                    2|[Dromoka's Command](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394558)   |
-|                    2|[Keen Sense](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=122451)             |                    1|[Natural State](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407646)       |
-|                    3|[Keen Sense](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=122451)             |                    2|[Natural State](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407646)       |
-|                    2|[Cartouche of Solidarity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426709)|                    1|[Choke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430685)               |
-|                    3|[Verdant Catacombs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426074)      |                    2|[Choke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430685)               |
-|                     |                                                                                                  |                    1|[Heroic Intervention](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423776) |
+|                    1|[Keen Sense](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=122451)             |                    1|[Natural State](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407646)       |
+|                    2|[Keen Sense](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=122451)             |                    2|[Natural State](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407646)       |
+|                    3|[Keen Sense](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=122451)             |                    1|[Choke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430685)               |
+|                    2|[Cartouche of Solidarity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426709)|                    2|[Choke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430685)               |
+|                    3|[Verdant Catacombs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426074)      |                    1|[Heroic Intervention](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423776) |
 |                     |                                                                                                  |                    1|[Blessed Alliance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414302)    |
 |                     |                                                                                                  |                    2|[Blessed Alliance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414302)    |
+|                     |                                                                                                  |                    2|[Dromoka's Command](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394558)   |
 |                     |                                                                                                  |                    3|[Path to Exile](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370408)       |
 |                     |                                                                                                  |                    1|[Tocatli Honor Guard](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435194) |
 |                     |                                                                                                  |                    2|[Tocatli Honor Guard](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435194) |
