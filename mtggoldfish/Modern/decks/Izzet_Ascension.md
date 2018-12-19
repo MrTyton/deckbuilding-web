@@ -29,8 +29,8 @@
 
 |*n*<sup>th</sup> copy|                                      Maindeck Card                                       |*n*<sup>th</sup> copy|                                     Sideboard Card                                     |
 |--------------------:|------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------|
-|                    1|[Crackling Drake](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452913)|                    1|[Ravenous Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197537)|
-|                    1|[Thought Scour](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438642)  |                    1|[Flame Slash](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=368536)  |
+|                    1|[Crackling Drake](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452913)|                    1|[Flame Slash](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=368536)  |
+|                    1|[Thought Scour](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438642)  |                    1|[Ravenous Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197537)|
 |                    2|[Thought Scour](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438642)  |                    1|[Lava Coil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452858)    |
 |                    2|[Crackling Drake](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452913)|                    2|[Lava Coil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452858)    |
 |                    3|[Thought Scour](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438642)  |                    2|[Ravenous Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197537)|

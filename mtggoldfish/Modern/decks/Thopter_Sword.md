@@ -49,6 +49,6 @@
 |                    2|[Tezzeret, Agent of Bolas](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=214065)|                    1|[Echoing Truth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370394)       |
 |                    2|[Collective Brutality](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414380)    |                    4|[Unmoored Ego](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452962)        |
 |                    2|[Misty Rainforest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426065)        |                     |                                                                                               |
-|                    3|[Pentad Prism](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205331)            |                     |                                                                                               |
 |                    3|[Misty Rainforest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426065)        |                     |                                                                                               |
+|                    3|[Pentad Prism](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205331)            |                     |                                                                                               |
 

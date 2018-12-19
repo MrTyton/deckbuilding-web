@@ -39,9 +39,9 @@
 |                    2|[Preordain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=265979)        |                    3|[Pyroblast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=159243)     |
 |                    2|[Young Pyromancer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413697) |                    1|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021) |
 |                    2|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439602)           |                     |                                                                                         |
+|                    3|[Spell Pierce](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425876)     |                     |                                                                                         |
 |                    3|[Flooded Strand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405098)   |                     |                                                                                         |
 |                    3|[True-Name Nemesis](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376562)|                     |                                                                                         |
-|                    3|[Spell Pierce](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425876)     |                     |                                                                                         |
 |                    4|[Flooded Strand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405098)   |                     |                                                                                         |
 |                    4|[Daze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413586)             |                     |                                                                                         |
 
