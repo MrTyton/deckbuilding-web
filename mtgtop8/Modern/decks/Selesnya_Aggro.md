@@ -68,8 +68,8 @@
 |                    3|[Path to Exile](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370408)          |                     |                                                                                                   |
 |                    3|[Courser of Kruphix](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442153)     |                     |                                                                                                   |
 |                    3|[Ghost Quarter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430470)          |                     |                                                                                                   |
-|                    4|[Ghost Quarter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430470)          |                     |                                                                                                   |
 |                    4|[Path to Exile](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370408)          |                     |                                                                                                   |
 |                    4|[Birds of Paradise](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416933)      |                     |                                                                                                   |
 |                    4|[Courser of Kruphix](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442153)     |                     |                                                                                                   |
+|                    4|[Ghost Quarter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430470)          |                     |                                                                                                   |
 
