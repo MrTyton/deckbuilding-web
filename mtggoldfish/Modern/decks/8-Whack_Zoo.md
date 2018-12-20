@@ -1,6 +1,6 @@
-# 2-Whack
+# 8-Whack Zoo
 
-#### [Export MTGO List](../collection/2-Whack/2-Whack.txt)
+#### [Export MTGO List](../collection/8-Whack%20Zoo/8-Whack%20Zoo.txt)
 #### [Print on decklist.org](http://decklist.org/?deckmain=4%09Arid%20Mesa%0A4%09Burning-Tree%20Emissary%0A2%09Devastating%20Summons%0A4%09Foundry%20Street%20Denizen%0A4%09Goblin%20Bushwhacker%0A3%09Goblin%20Grenade%0A4%09Goblin%20Guide%0A4%09Kird%20Ape%0A3%09Legion%20Loyalist%0A4%09Lightning%20Bolt%0A6%09Mountain%0A4%09Reckless%20Bushwhacker%0A4%09Stomping%20Ground%0A4%09Tattermunge%20Maniac%0A4%09Wooded%20Foothills%0A2%09Zurgo%20Bellstriker&deckside=2%09Damping%20Sphere%0A2%09Destructive%20Revelry%0A2%09Dragon's%20Claw%0A4%09Leyline%20of%20the%20Void%0A3%09Searing%20Blood%0A2%09Tin%20Street%20Hooligan)
 # Maindeck
 

@@ -1,6 +1,6 @@
-# Shadow (A)
+# Grixis Death's Shadow
 
-#### [Export MTGO List](../collection/Shadow%20(A)/Shadow%20(A).txt)
+#### [Export MTGO List](../collection/Grixis%20Death's%20Shadow/Grixis%20Death's%20Shadow.txt)
 #### [Print on decklist.org](http://decklist.org/?deckmain=2%09Blood%20Crypt%0A4%09Bloodstained%20Mire%0A4%09Death's%20Shadow%0A2%09Dismember%0A1%09Faithless%20Looting%0A2%09Fatal%20Push%0A4%09Gurmag%20Angler%0A2%09Inquisition%20of%20Kozilek%0A1%09Island%0A2%09Lightning%20Bolt%0A3%09Mishra's%20Bauble%0A4%09Polluted%20Delta%0A2%09Scalding%20Tarn%0A3%09Serum%20Visions%0A3%09Snapcaster%20Mage%0A1%09Steam%20Vents%0A4%09Street%20Wraith%0A3%09Stubborn%20Denial%0A1%09Swamp%0A2%09Temur%20Battle%20Rage%0A4%09Thought%20Scour%0A4%09Thoughtseize%0A2%09Watery%20Grave&deckside=1%09Abrade%0A1%09Anger%20of%20the%20Gods%0A1%09Ceremonious%20Rejection%0A2%09Disdainful%20Stroke%0A1%09Engineered%20Explosives%0A1%09Grim%20Lavamancer%0A2%09Kolaghan's%20Command%0A4%09Leyline%20of%20the%20Void%0A1%09Liliana,%20the%20Last%20Hope%0A1%09Stubborn%20Denial)
 # Maindeck
 
@@ -44,13 +44,13 @@
 |                    4|[Snapcaster Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425875)         |                    2|[Liliana, the Last Hope](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414388) |
 |                    1|[Gut Shot](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397673)                |                    2|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)    |
 |                    1|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)     |                    1|[Radiant Flames](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=402002)         |
-|                    2|[Terminate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426019)               |                    1|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439604)               |
+|                    1|[Liliana, the Last Hope](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414388)  |                    1|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439604)               |
 |                    1|[Wooded Foothills](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405116)        |                    2|[Ceremonious Rejection](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417613)  |
-|                    1|[Liliana, the Last Hope](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414388)  |                    1|[Izzet Staticaster](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=253638)      |
-|                    1|[Mausoleum Secrets](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452825)       |                    2|[Engineered Explosives](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370549)  |
-|                    1|[Misty Rainforest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426065)        |                    1|[Nihil Spellbomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442215)        |
-|                    2|[Mausoleum Secrets](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452825)       |                    1|[Dispel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=201562)                 |
-|                    3|[Dismember](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397830)               |                    1|[Lightning Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=234704)         |
+|                    1|[Mausoleum Secrets](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452825)       |                    1|[Izzet Staticaster](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=253638)      |
+|                    1|[Misty Rainforest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426065)        |                    2|[Engineered Explosives](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370549)  |
+|                    2|[Mausoleum Secrets](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452825)       |                    1|[Nihil Spellbomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442215)        |
+|                    2|[Terminate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426019)               |                    1|[Lightning Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=234704)         |
+|                    3|[Dismember](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397830)               |                    1|[Dispel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=201562)                 |
 |                    4|[Scalding Tarn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426069)           |                    2|[Liliana of the Veil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425901)    |
 |                    4|[Lightning Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=234704)          |                    2|[Radiant Flames](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=402002)         |
 |                     |                                                                                                   |                    2|[Stubborn Denial](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386673)        |
