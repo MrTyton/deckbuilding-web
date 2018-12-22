@@ -84,8 +84,8 @@
 |                     |                                                                                                    |                    1|[Ashen Rider](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373689)          |
 |                     |                                                                                                    |                    2|[Ashen Rider](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373689)          |
 |                     |                                                                                                    |                    3|[Ashen Rider](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373689)          |
-|                     |                                                                                                    |                    3|[Chalice of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370411)  |
 |                     |                                                                                                    |                    1|[From the Ashes](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376346)       |
 |                     |                                                                                                    |                    2|[From the Ashes](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376346)       |
 |                     |                                                                                                    |                    4|[Relic of Progenitus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205326)  |
+|                     |                                                                                                    |                    3|[Chalice of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370411)  |
 
