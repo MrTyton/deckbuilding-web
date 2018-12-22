@@ -32,8 +32,8 @@
 
 |*n*<sup>th</sup> copy|                                        Maindeck Card                                         |*n*<sup>th</sup> copy|                                         Sideboard Card                                          |
 |--------------------:|----------------------------------------------------------------------------------------------|--------------------:|-------------------------------------------------------------------------------------------------|
-|                    1|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|                    1|[Pithing Needle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425815)        |
-|                    2|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439602)             |                    1|[Bontu's Last Reckoning](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430749)|
+|                    1|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|                    1|[Bontu's Last Reckoning](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430749)|
+|                    2|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439602)             |                    1|[Pithing Needle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425815)        |
 |                    2|[Welding Jar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=48328)         |                    1|[Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)          |
 |                    3|[Welding Jar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=48328)         |                    1|[Abrupt Decay](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425971)          |
 |                    4|[Welding Jar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=48328)         |                    1|[Bow of Nylea](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373603)          |

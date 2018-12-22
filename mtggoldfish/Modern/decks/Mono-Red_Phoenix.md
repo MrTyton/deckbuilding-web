@@ -81,6 +81,6 @@
 |                    3|[Hollow One](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430852)           |                    2|[Rampaging Ferocidon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435308)       |
 |                    4|[Flameblade Adept](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426833)     |                    3|[Flame Slash](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=368536)               |
 |                    4|[Hollow One](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430852)           |                    3|[Rampaging Ferocidon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435308)       |
-|                    4|[Burning Inquiry](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=191096)      |                    3|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)       |
-|                    4|[Lightning Strike](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435303)     |                    4|[Young Pyromancer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413697)          |
+|                    4|[Burning Inquiry](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=191096)      |                    4|[Young Pyromancer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413697)          |
+|                    4|[Lightning Strike](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435303)     |                    3|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)       |
 
