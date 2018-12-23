@@ -27,3 +27,13 @@
 |                                                                                               |                                                                                                  |                                                                                         |1 [Flusterstorm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382942)       |                                                                                                   |1 [Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)    |
 |                                                                                               |                                                                                                  |                                                                                         |2 [Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|                                                                                                   |                                                                                             |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                        Maindeck Card                                         |*n*<sup>th</sup> copy|                                    Sideboard Card                                     |
+|--------------------:|----------------------------------------------------------------------------------------------|--------------------:|---------------------------------------------------------------------------------------|
+|                    1|[Spellstutter Sprite](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370380)|                    2|[Flusterstorm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382942)|
+|                    2|[Spellstutter Sprite](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370380)|                     |                                                                                       |
+|                    4|[Fatal Push](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423724)         |                     |                                                                                       |
+|                    2|[Misty Rainforest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426065)   |                     |                                                                                       |
+

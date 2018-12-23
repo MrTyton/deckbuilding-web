@@ -23,3 +23,15 @@
 |2 [Sorcerous Spyglass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435407)|2 [Sanctum Prelate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416780)   |2 [Seal of Cleansing](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383085)|                                                                                                 |
 |2 [Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)    |                                                                                               |                                                                                              |                                                                                                 |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                        Maindeck Card                                         |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
+|--------------------:|----------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
+|                    1|[Karakas](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=201198)            |                    1|[Cast Out](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426710)           |
+|                    1|[Lodestone Bauble](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=184559)   |                    1|[Ethersworn Canonist](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370504)|
+|                    2|[Karakas](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=201198)            |                    2|[Ethersworn Canonist](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370504)|
+|                    4|[City of Traitors](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397543)   |                    3|[Containment Priest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=429862) |
+|                    4|[Mox Opal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397719)           |                    2|[Aura of Silence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405132)    |
+|                    4|[Karn, Scion of Urza](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442889)|                     |                                                                                              |
+

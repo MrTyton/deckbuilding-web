@@ -1,25 +1,35 @@
 1 Scrubland
-1 Maze of Ith
-1 Ghost Quarter
-1 Snow-Covered Plains
 1 Batterskull
 3 Stoneforge Mystic
+1 Maze of Ith
+1 Wooded Foothills
+1 Ghost Quarter
+1 Snow-Covered Plains
 2 Palace Jailer
 1 Sword of Light and Shadow
 3 Verdant Catacombs
-1 Wooded Foothills
 2 Horizon Canopy
+2 Wooded Foothills
+2 Sylvan Library
 1 Sylvan Safekeeper
 1 Dark Depths
 1 Thespian's Stage
+2 Plains
 1 Marsh Flats
 2 Marsh Flats
-2 Plains
 4 Verdant Catacombs
 2 Qasali Pridemage
 2 Bayou
-2 Wooded Foothills
-2 Sylvan Library
+3 Wooded Foothills
+1 Birds of Paradise
+1 Plateau
+1 Taiga
+1 Punishing Fire
+1 Grove of the Burnwillows
+2 Punishing Fire
+2 Grove of the Burnwillows
+3 Punishing Fire
+3 Grove of the Burnwillows
 2 Scavenging Ooze
 2 Tireless Tracker
 2 Ramunap Excavator
@@ -34,21 +44,11 @@
 1 Bitterblossom
 1 Abrupt Decay
 1 Garruk Relentless
-1 Birds of Paradise
 1 Assassin's Trophy
-3 Wooded Foothills
-1 Plateau
-1 Taiga
-1 Punishing Fire
-1 Grove of the Burnwillows
 1 Arid Mesa
 1 Exploration
-2 Punishing Fire
-2 Grove of the Burnwillows
 2 Exploration
 3 Exploration
-3 Punishing Fire
-3 Grove of the Burnwillows
 1 Cavern of Souls
 3 Misty Rainforest
 4 Savannah
@@ -65,3 +65,5 @@
 3 Mox Diamond
 4 Chalice of the Void
 4 Mox Diamond
+2 Taiga
+4 Stoneforge Mystic
