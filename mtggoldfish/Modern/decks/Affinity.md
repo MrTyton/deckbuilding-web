@@ -76,8 +76,8 @@
 |                     |                                                                                              |                    3|[Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)          |
 |                     |                                                                                              |                    3|[Relic of Progenitus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205326)   |
 |                     |                                                                                              |                    1|[Unified Will](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=193456)          |
-|                     |                                                                                              |                    2|[Unified Will](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=193456)          |
 |                     |                                                                                              |                    2|Wear/Tear                                                                                        |
+|                     |                                                                                              |                    2|[Unified Will](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=193456)          |
 |                     |                                                                                              |                    3|[Unified Will](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=193456)          |
 |                     |                                                                                              |                    4|[Unified Will](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=193456)          |
 
