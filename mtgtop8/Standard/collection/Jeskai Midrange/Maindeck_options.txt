@@ -10,9 +10,9 @@
 3 Deafening Clarion
 3 Island
 4 Island
-1 Enigma Drake
-1 Crackling Drake
 1 Chart a Course
+1 Crackling Drake
+1 Enigma Drake
 1 Opt
 2 Chart a Course
 2 Crackling Drake
@@ -86,11 +86,6 @@
 3 Niv-Mizzet, Parun
 3 Seal Away
 4 Seal Away
-1 Tocatli Honor Guard
-2 Tocatli Honor Guard
-3 Tocatli Honor Guard
-4 Lava Coil
-4 Tocatli Honor Guard
 1 Ionize
 1 Cleansing Nova
 1 Essence Scatter
@@ -105,14 +100,19 @@
 4 Ionize
 4 Chemister's Insight
 4 Teferi, Hero of Dominaria
-1 Banefire
+1 Tocatli Honor Guard
+2 Tocatli Honor Guard
+3 Tocatli Honor Guard
+4 Tocatli Honor Guard
+4 Lava Coil
 1 Remorseful Cleric
+1 Banefire
 2 Remorseful Cleric
 2 Negate
 6 Plains
 1 Runaway Steam-Kin
-1 Ral, Izzet Viceroy
 1 Sarkhan, Fireblood
+1 Ral, Izzet Viceroy
 1 Tezzeret, Artifice Master
 1 Demanding Dragon
 1 Goblin Chainwhirler
@@ -122,8 +122,8 @@
 2 Ral, Izzet Viceroy
 2 Runaway Steam-Kin
 2 Sarkhan, Fireblood
-2 Demanding Dragon
 2 Verix Bladewing
+2 Demanding Dragon
 2 Goblin Chainwhirler
 2 Dragon's Hoard
 3 Runaway Steam-Kin

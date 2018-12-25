@@ -24,3 +24,22 @@
 |2 [Thrashing Brontodon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439805)|2 [Shapers' Sanctuary](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435362)|2 [Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447135) |2 [Karn, Scion of Urza](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442889)|3 [Lava Coil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452858)   |
 |                                                                                                |                                                                                               |2 [Plummet](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397786)|                                                                                                |2 [Savage Stomp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435361)|
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                         Maindeck Card                                         |*n*<sup>th</sup> copy|                                      Sideboard Card                                      |
+|--------------------:|-----------------------------------------------------------------------------------------------|--------------------:|------------------------------------------------------------------------------------------|
+|                    1|[Rekindling Phoenix](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439768)  |                    1|[Fiery Cannonade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435297)|
+|                    1|[Drover of the Mighty](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435342)|                    2|[Fiery Cannonade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435297)|
+|                    2|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439604)            |                    3|[Fiery Cannonade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435297)|
+|                    2|[Rekindling Phoenix](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439768)  |                    3|[Plummet](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397786)        |
+|                    2|[Drover of the Mighty](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435342)|                    4|[Fiery Cannonade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435297)|
+|                    3|[Drover of the Mighty](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435342)|                    4|[Plummet](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397786)        |
+|                    3|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439604)            |                     |                                                                                          |
+|                    4|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439604)            |                     |                                                                                          |
+|                    4|[Drover of the Mighty](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435342)|                     |                                                                                          |
+|                    5|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439604)            |                     |                                                                                          |
+|                    6|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439604)            |                     |                                                                                          |
+|                   12|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439605)              |                     |                                                                                          |
+|                   13|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439605)              |                     |                                                                                          |
+

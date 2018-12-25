@@ -28,7 +28,7 @@
 |--------------------:|-----------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
 |                    1|[Carnage Tyrant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435334)|                    1|[Cast Down](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442969)          |
 |                    1|[Cast Down](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442969)     |                    1|[Overflowing Insight](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435218)|
-|                    2|[Carnage Tyrant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435334)|                    2|[Arguel's Blood Fast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439316)|
-|                    3|[Ritual of Soot](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452834)|                    1|[Star of Extinction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435315) |
-|                    2|[Cast Down](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442969)     |                     |                                                                                              |
+|                    2|[Cast Down](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442969)     |                    2|[Arguel's Blood Fast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439316)|
+|                    2|[Carnage Tyrant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435334)|                    1|[Star of Extinction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435315) |
+|                    3|[Ritual of Soot](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452834)|                     |                                                                                              |
 
