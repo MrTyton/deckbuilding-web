@@ -34,9 +34,9 @@
 |                    1|[Lightning Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=234704)  |                    1|[Bloodghast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438648)   |
 |                    2|[Lightning Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=234704)  |                    1|[Karakas](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=201198)      |
 |                    2|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439602)          |                    1|[Force of Will](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382943)|
-|                    3|[Lightning Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=234704)  |                    2|[Bloodghast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438648)   |
-|                    4|[Young Pyromancer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413697)|                    2|[Force of Will](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382943)|
-|                     |                                                                                           |                    2|[Karakas](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=201198)      |
+|                    3|[Lightning Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=234704)  |                    2|[Karakas](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=201198)      |
+|                    4|[Young Pyromancer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413697)|                    2|[Bloodghast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438648)   |
+|                     |                                                                                           |                    2|[Force of Will](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382943)|
 |                     |                                                                                           |                    3|[Force of Will](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382943)|
 |                     |                                                                                           |                    4|[Force of Will](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382943)|
 

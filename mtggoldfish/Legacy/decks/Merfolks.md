@@ -1,6 +1,6 @@
-# U
+# Merfolks
 
-#### [Export MTGO List](../collection/U/U.txt)
+#### [Export MTGO List](../collection/Merfolks/Merfolks.txt)
 #### [Print on decklist.org](http://decklist.org/?deckmain=3%09Aether%20Vial%0A2%09Cavern%20of%20Souls%0A3%09Chalice%20of%20the%20Void%0A1%09Cursecatcher%0A1%09Daze%0A1%09Echoing%20Truth%0A4%09Force%20of%20Will%0A2%09Harbinger%20of%20the%20Tides%0A6%09Island%0A1%09Karakas%0A3%09Lord%20of%20Atlantis%0A4%09Master%20of%20the%20Pearl%20Trident%0A1%09Maze%20of%20Ith%0A2%09Merfolk%20Trickster%0A2%09Mutavault%0A2%09Phantasmal%20Image%0A3%09Silvergill%20Adept%0A6%09Snow-Covered%20Island%0A1%09Thassa,%20God%20of%20the%20Sea%0A2%09Tolaria%20West%0A4%09True-Name%20Nemesis%0A2%09Umezawa's%20Jitte%0A2%09Vendilion%20Clique%0A1%09Venser,%20Shaper%20Savant%0A1%09Wasteland&deckside=2%09Back%20to%20Basics%0A1%09Cryptic%20Command%0A1%09Cursed%20Totem%0A2%09Damping%20Sphere%0A1%09Echoing%20Truth%0A2%09Flusterstorm%0A1%09Grafdigger's%20Cage%0A2%09Sorcerous%20Spyglass%0A1%09Surgical%20Extraction%0A1%09Venser,%20Shaper%20Savant%0A1%09Walking%20Ballista)
 # Maindeck
 

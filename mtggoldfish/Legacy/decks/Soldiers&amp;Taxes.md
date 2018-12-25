@@ -1,6 +1,6 @@
-# W
+# Soldiers&amp;Taxes
 
-#### [Export MTGO List](../collection/W/W.txt)
+#### [Export MTGO List](../collection/Soldiers&amp;Taxes/Soldiers&amp;Taxes.txt)
 #### [Print on decklist.org](http://decklist.org/?deckmain=4%09Ancient%20Tomb%0A4%09Ballyrush%20Banneret%0A1%09Captain%20of%20the%20Watch%0A4%09Cavern%20of%20Souls%0A4%09Chalice%20of%20the%20Void%0A4%09Chrome%20Mox%0A3%09Daru%20Warchief%0A4%09Enlistment%20Officer%0A3%09Karakas%0A3%09Militia%20Bugler%0A3%09Palace%20Jailer%0A6%09Plains%0A4%09Preeminent%20Captain%0A3%09Recruiter%20of%20the%20Guard%0A4%09Thalia,%20Guardian%20of%20Thraben%0A2%09Thalia,%20Heretic%20Cathar%0A4%09Wasteland&deckside=2%09Containment%20Priest%0A2%09Grafdigger's%20Cage%0A2%09Oblivion%20Ring%0A2%09Rest%20in%20Peace%0A2%09Sorcerous%20Spyglass%0A1%09Surgical%20Extraction%0A2%09Thorn%20of%20Amethyst%0A2%09Worship)
 # Maindeck
 

@@ -32,8 +32,8 @@
 
 |*n*<sup>th</sup> copy|                                       Maindeck Card                                        |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
 |--------------------:|--------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
-|                    2|[Hooting Mandrills](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386558)|                    1|[Vendilion Clique](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370390)   |
-|                    2|[True-Name Nemesis](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376562)|                    1|[Izzet Staticaster](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=253638)  |
+|                    2|[True-Name Nemesis](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376562)|                    1|[Vendilion Clique](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370390)   |
+|                    2|[Hooting Mandrills](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386558)|                    1|[Izzet Staticaster](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=253638)  |
 |                    3|[Hooting Mandrills](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386558)|                    1|[Red Elemental Blast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=202447)|
 |                    2|[Spell Snare](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370447)      |                    1|[Hydroblast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=159231)         |
 |                    1|Fire/Ice                                                                                    |                    2|[Flusterstorm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382942)       |

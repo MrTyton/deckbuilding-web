@@ -1,6 +1,6 @@
-# WU
+# White-Blue Nivmagus Delver
 
-#### [Export MTGO List](../collection/WU/WU.txt)
+#### [Export MTGO List](../collection/White-Blue%20Nivmagus%20Delver/White-Blue%20Nivmagus%20Delver.txt)
 #### [Print on decklist.org](http://decklist.org/?deckmain=2%09Arid%20Mesa%0A1%09Batterskull%0A4%09Brainstorm%0A4%09Daze%0A4%09Delver%20of%20Secrets%0A4%09Flooded%20Strand%0A4%09Flusterstorm%0A4%09Force%20of%20Will%0A1%09Misty%20Rainforest%0A3%09Nivmagus%20Elemental%0A1%09Path%20to%20Exile%0A4%09Ponder%0A2%09Scalding%20Tarn%0A3%09Snow-Covered%20Island%0A1%09Snow-Covered%20Plains%0A4%09Stoneforge%20Mystic%0A4%09Swords%20to%20Plowshares%0A3%09True-Name%20Nemesis%0A2%09Tundra%0A1%09Umezawa's%20Jitte%0A4%09Wasteland&deckside=2%09Back%20to%20Basics%0A1%09Containment%20Priest%0A1%09Council's%20Judgment%0A2%09Disenchant%0A1%09Engineered%20Explosives%0A1%09Gideon,%20Ally%20of%20Zendikar%0A1%09Karakas%0A1%09Meddling%20Mage%0A1%09Pithing%20Needle%0A2%09Rest%20in%20Peace%0A1%09Snapcaster%20Mage%0A1%09Sword%20of%20Fire%20and%20Ice)
 # Maindeck
 
