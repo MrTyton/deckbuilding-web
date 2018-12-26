@@ -1,0 +1,22 @@
+# RG
+
+#### [Export MTGO List](../collection/RG/RG.txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Arid%20Mesa%0A4%09Bloodstained%20Mire%0A4%09Eidolon%20of%20the%20Great%20Revel%0A4%09Fanatical%20Firebrand%0A4%09Goblin%20Guide%0A4%09Grim%20Lavamancer%0A4%09Lava%20Spike%0A4%09Lightning%20Bolt%0A4%09Monastery%20Swiftspear%0A8%09Mountain%0A4%09Rift%20Bolt%0A4%09Searing%20Blaze%0A4%09Shard%20Volley%0A4%09Wooded%20Foothills&deckside=4%09Atarka's%20Command%0A4%09Destructive%20Revelry%0A4%09Shrine%20of%20Burning%20Rage%0A3%09Stomping%20Ground)
+# Maindeck
+
+|                                             Creature (20)                                             |                                       Instant (12)                                        |                                          Land (20)                                           |                                      Sorcery (8)                                      |
+|-------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
+|4 [Eidolon of the Great Revel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442117)|4 [Lightning Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=234704)|4 [Arid Mesa](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426054)        |4 [Lava Spike](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370409)|
+|4 [Fanatical Firebrand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439758)       |4 [Searing Blaze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=270873) |4 [Bloodstained Mire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405094)|4 [Rift Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370469) |
+|4 [Goblin Guide](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425921)              |4 [Shard Volley](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=152837)  |8 [Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439604)         |                                                                                       |
+|4 [Grim Lavamancer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=234706)           |                                                                                           |4 [Wooded Foothills](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405116) |                                                                                       |
+|4 [Monastery Swiftspear](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438706)      |                                                                                           |                                                                                              |                                                                                       |
+
+
+# Sideboard
+
+|                                           Artifact (4)                                            |                                          Instant (8)                                           |                                          Land (3)                                          |
+|---------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
+|4 [Shrine of Burning Rage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=218018)|4 [Atarka's Command](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394502)   |3 [Stomping Ground](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405110)|
+|                                                                                                   |4 [Destructive Revelry](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373351)|                                                                                            |
+

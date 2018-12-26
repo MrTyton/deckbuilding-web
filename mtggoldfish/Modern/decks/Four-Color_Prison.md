@@ -29,3 +29,10 @@
 |1 [Sorcerous Spyglass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435407) |4 [Spellskite](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397743)            |                                                                                                 |                                                                                                     |
 |1 [Torpor Orb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=233069)         |                                                                                                   |                                                                                                 |                                                                                                     |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                       Maindeck Card                                        |*n*<sup>th</sup> copy|Sideboard Card|
+|--------------------:|--------------------------------------------------------------------------------------------|---------------------|--------------|
+|                    4|[Botanical Sanctum](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417817)|                     |              |
+
