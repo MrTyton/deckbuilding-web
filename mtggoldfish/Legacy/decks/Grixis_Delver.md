@@ -77,6 +77,6 @@
 |                    1|[Liliana, the Last Hope](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414388)|                     |                                                                                                 |
 |                    4|[Flooded Strand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405098)        |                     |                                                                                                 |
 |                    3|[Thought Scour](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438642)         |                     |                                                                                                 |
-|                    4|[Gurmag Angler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391850)         |                     |                                                                                                 |
 |                    4|[Thought Scour](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438642)         |                     |                                                                                                 |
+|                    4|[Gurmag Angler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391850)         |                     |                                                                                                 |
 

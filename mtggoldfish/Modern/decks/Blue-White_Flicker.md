@@ -32,11 +32,11 @@
 
 |*n*<sup>th</sup> copy|                                            Maindeck Card                                             |*n*<sup>th</sup> copy|                                         Sideboard Card                                         |
 |--------------------:|------------------------------------------------------------------------------------------------------|--------------------:|------------------------------------------------------------------------------------------------|
-|                    2|[Thalia, Guardian of Thraben](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442025)|                    1|[Venser, Shaper Savant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425880)|
-|                     |                                                                                                      |                    1|[Spell Queller](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414494)        |
+|                    2|[Thalia, Guardian of Thraben](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442025)|                    1|[Spell Queller](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414494)        |
+|                     |                                                                                                      |                    1|[Venser, Shaper Savant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425880)|
 |                     |                                                                                                      |                    1|[Meddling Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=26591)         |
 |                     |                                                                                                      |                    1|[Eidolon of Rhetoric](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=380409)  |
+|                     |                                                                                                      |                    2|[Spell Queller](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414494)        |
 |                     |                                                                                                      |                    2|[Meddling Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=26591)         |
 |                     |                                                                                                      |                    3|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)        |
-|                     |                                                                                                      |                    2|[Spell Queller](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414494)        |
 

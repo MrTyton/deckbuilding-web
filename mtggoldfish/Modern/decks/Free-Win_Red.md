@@ -34,7 +34,7 @@
 |                    2|[Scavenger Grounds](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430871)         |                    2|[Damping Matrix](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426043)    |
 |                     |                                                                                                     |                    2|[Ravenous Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197537)     |
 |                     |                                                                                                     |                    2|[Molten Rain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425928)       |
-|                     |                                                                                                     |                    3|[Molten Rain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425928)       |
 |                     |                                                                                                     |                    3|[Anger of the Gods](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438682) |
+|                     |                                                                                                     |                    3|[Molten Rain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425928)       |
 |                     |                                                                                                     |                    3|[Ravenous Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197537)     |
 

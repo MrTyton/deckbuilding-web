@@ -80,7 +80,7 @@
 |                    3|[Bayou](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382860)                     |                     |                                                                                                |
 |                    4|[Verdant Catacombs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426074)         |                     |                                                                                                |
 |                    4|[Misty Rainforest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426065)          |                     |                                                                                                |
-|                    4|[Wasteland](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413790)                 |                     |                                                                                                |
 |                    4|[Chalice of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370411)       |                     |                                                                                                |
 |                    4|[Mox Diamond](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=212634)               |                     |                                                                                                |
+|                    4|[Wasteland](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413790)                 |                     |                                                                                                |
 
