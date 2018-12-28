@@ -30,8 +30,8 @@
 
 |*n*<sup>th</sup> copy|                                        Maindeck Card                                         |*n*<sup>th</sup> copy|                                        Sideboard Card                                         |
 |--------------------:|----------------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------------|
-|                    2|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439601)             |                    1|[War Priest of Thune](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413577) |
-|                    1|[Horizon Canopy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438806)     |                    1|[Ethersworn Canonist](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370504) |
+|                    2|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439601)             |                    1|[Ethersworn Canonist](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370504) |
+|                    1|[Horizon Canopy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438806)     |                    1|[War Priest of Thune](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413577) |
 |                    1|[Lodestone Bauble](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=184559)   |                    1|[Seal of Cleansing](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383085)   |
 |                    2|[Horizon Canopy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438806)     |                    1|[Swords to Plowshares](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383119)|
 |                    3|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439601)             |                    2|[Ethersworn Canonist](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370504) |
