@@ -39,7 +39,7 @@
 |                    4|[Snapcaster Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425875)    |                    2|[Spell Queller](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414494)        |
 |                    1|[Remorseful Cleric](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447169)  |                     |                                                                                                |
 |                    1|[Archangel Avacyn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439314)   |                     |                                                                                                |
-|                    2|[Remorseful Cleric](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447169)  |                     |                                                                                                |
 |                    2|[Archangel Avacyn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439314)   |                     |                                                                                                |
+|                    2|[Remorseful Cleric](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447169)  |                     |                                                                                                |
 |                    6|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439602)             |                     |                                                                                                |
 
