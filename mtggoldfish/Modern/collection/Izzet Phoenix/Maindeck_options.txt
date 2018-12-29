@@ -1,7 +1,7 @@
 1 Lightning Axe
-1 Crackling Drake
-2 Polluted Delta
 2 Crackling Drake
+4 Fiery Temper
+2 Polluted Delta
 2 Lightning Axe
 1 Sleight of Hand
 2 Sleight of Hand
@@ -11,13 +11,13 @@
 4 Thought Scour
 3 Izzet Charm
 1 Shivan Reef
-1 Monastery Swiftspear
 3 Gut Shot
+1 Monastery Swiftspear
 2 Monastery Swiftspear
 3 Chart a Course
-4 Chart a Course
 3 Crackling Drake
 1 Flooded Strand
+4 Chart a Course
 4 Izzet Charm
 1 Pyromancer Ascension
 2 Pyromancer Ascension
@@ -28,8 +28,9 @@
 4 Steam Vents
 1 Abrade
 2 Shivan Reef
-4 Island
+2 Flooded Strand
 1 Hallowed Fountain
+4 Island
 1 Bloodstained Mire
 1 Lava Spike
 2 Lava Spike
@@ -38,8 +39,8 @@
 1 Snow-Covered Mountain
 1 Snow-Covered Island
 2 Snow-Covered Mountain
+1 Maximize Velocity
 1 Arid Mesa
-2 Flooded Strand
 1 Noxious Revival
 2 Noxious Revival
 3 Shivan Reef
@@ -48,14 +49,12 @@
 1 Flame Slash
 3 Monastery Swiftspear
 3 Pyromancer Ascension
-1 Maximize Velocity
 1 Misty Rainforest
 1 Burst Lightning
 2 Burst Lightning
 4 Shivan Reef
 2 Snow-Covered Island
 4 Monastery Swiftspear
-1 Watery Grave
 2 Jace, Vryn's Prodigy
 1 Wooded Foothills
 3 Polluted Delta
@@ -64,6 +63,7 @@
 3 Remand
 4 Remand
 4 Mountain
+1 Watery Grave
 2 Bloodstained Mire
 3 Flooded Strand
 1 Temur Battle Rage

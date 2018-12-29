@@ -32,7 +32,7 @@
 
 # Other Options
 
-|*n*<sup>th</sup> copy|                                       Maindeck Card                                        |*n*<sup>th</sup> copy|Sideboard Card|
-|--------------------:|--------------------------------------------------------------------------------------------|---------------------|--------------|
-|                    4|[Botanical Sanctum](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417817)|                     |              |
+|*n*<sup>th</sup> copy|                                       Maindeck Card                                        |*n*<sup>th</sup> copy|                                         Sideboard Card                                          |
+|--------------------:|--------------------------------------------------------------------------------------------|--------------------:|-------------------------------------------------------------------------------------------------|
+|                    4|[Botanical Sanctum](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417817)|                    3|[Sai, Master Thopterist](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447205)|
 

@@ -26,8 +26,8 @@
 
 |*n*<sup>th</sup> copy|                                          Maindeck Card                                          |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
 |--------------------:|-------------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
-|                    1|[Master of Waves](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438441)       |                    1|[Relic of Progenitus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205326)|
-|                    1|[Cursecatcher](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442042)          |                    1|[Deprive](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=193519)            |
+|                    1|[Master of Waves](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438441)       |                    1|[Deprive](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=193519)            |
+|                    1|[Cursecatcher](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442042)          |                    1|[Relic of Progenitus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205326)|
 |                    1|[Merrow Reejerey](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438453)       |                    1|[Chalice of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370411)|
 |                    1|[Harbinger of the Tides](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438447)|                    1|[Tectonic Edge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409575)      |
 |                    2|[Harbinger of the Tides](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438447)|                    2|[Chalice of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370411)|
