@@ -95,7 +95,7 @@
 |                    4|[Vexing Devil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278257)         |                     |                                                                                                     |
 |                    4|[Vengevine](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=193556)            |                     |                                                                                                     |
 |                    1|[Flame Jab](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413673)            |                     |                                                                                                     |
+|                    6|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439604)             |                     |                                                                                                     |
 |                    7|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439604)             |                     |                                                                                                     |
 |                    8|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439604)             |                     |                                                                                                     |
-|                    6|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439604)             |                     |                                                                                                     |
 

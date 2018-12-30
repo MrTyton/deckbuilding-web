@@ -39,7 +39,7 @@
 
 |*n*<sup>th</sup> copy|                                          Maindeck Card                                           |*n*<sup>th</sup> copy|                                      Sideboard Card                                       |
 |--------------------:|--------------------------------------------------------------------------------------------------|--------------------:|-------------------------------------------------------------------------------------------|
-|                    1|[Horizon Canopy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438806)         |                    4|[Faerie Macabre](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370410)  |
-|                    1|[Palace Jailer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416775)          |                    1|[Reclamation Sage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430359)|
+|                    1|[Palace Jailer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416775)          |                    4|[Faerie Macabre](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370410)  |
+|                    1|[Horizon Canopy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438806)         |                    1|[Reclamation Sage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430359)|
 |                    4|[Knight of the Reliquary](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370379)|                     |                                                                                           |
 
