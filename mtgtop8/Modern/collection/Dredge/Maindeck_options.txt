@@ -25,8 +25,6 @@
 4 Crippling Chill
 1 Overgrown Tomb
 1 Verdant Catacombs
-1 Insolent Neonate
-1 Vengevine
 1 Viscera Seer
 1 Goblin Bushwhacker
 1 Swamp
@@ -35,12 +33,14 @@
 1 Stitcher's Supplier
 1 Walking Ballista
 1 Bridge from Below
+1 Vengevine
+1 Insolent Neonate
 1 Collective Brutality
 2 Verdant Catacombs
 2 Walking Ballista
-2 Insolent Neonate
-2 Vengevine
 2 Goblin Bushwhacker
+2 Vengevine
+2 Insolent Neonate
 2 Collective Brutality
 2 Stitcher's Supplier
 2 Gravecrawler
@@ -49,9 +49,9 @@
 3 Viscera Seer
 3 Verdant Catacombs
 3 Walking Ballista
-3 Vengevine
-3 Insolent Neonate
 3 Goblin Bushwhacker
+3 Insolent Neonate
+3 Vengevine
 3 Blackcleave Cliffs
 3 Bridge from Below
 3 Stitcher's Supplier
@@ -59,9 +59,9 @@
 4 Verdant Catacombs
 4 Viscera Seer
 4 Walking Ballista
-4 Vengevine
-4 Insolent Neonate
 4 Blackcleave Cliffs
+4 Insolent Neonate
 4 Bridge from Below
 4 Gravecrawler
 4 Stitcher's Supplier
+4 Vengevine
