@@ -64,10 +64,6 @@
 1 Haazda Marshal
 2 Haazda Marshal
 3 Haazda Marshal
-1 Silverbeak Griffin
-2 Silverbeak Griffin
-3 Silverbeak Griffin
-4 Silverbeak Griffin
 1 Thorn Lieutenant
 2 Thorn Lieutenant
 3 Thorn Lieutenant
@@ -96,25 +92,27 @@
 3 Knight of Autumn
 3 Merfolk Branchwalker
 4 Merfolk Branchwalker
-1 Mentor of the Meek
+1 Silverbeak Griffin
+2 Silverbeak Griffin
+3 Silverbeak Griffin
+4 Silverbeak Griffin
 1 Shalai, Voice of Plenty
 1 Resplendent Angel
 1 Dawn of Hope
-1 Ajani's Welcome
 1 Ajani, Wise Counselor
+1 Ajani's Welcome
 1 Leonin Warleader
 1 Arch of Orazca
+1 Mentor of the Meek
 2 Resplendent Angel
-2 Make a Stand
 2 Mentor of the Meek
 2 Ajani's Welcome
+2 Make a Stand
 2 Leonin Warleader
-3 Ajani's Welcome
 3 Leonin Warleader
 3 Make a Stand
+3 Ajani's Welcome
 4 Leonin Warleader
-1 Lyra Dawnbringer
-22 Plains
 1 Memorial to Glory
 1 Divine Visitation
 1 Famished Paladin
@@ -123,3 +121,5 @@
 3 Memorial to Glory
 3 Famished Paladin
 4 Famished Paladin
+1 Lyra Dawnbringer
+22 Plains

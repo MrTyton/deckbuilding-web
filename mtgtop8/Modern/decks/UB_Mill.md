@@ -40,9 +40,9 @@
 |                    4|[Mission Briefing](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452794)|                    1|[Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=270465)          |
 |                    4|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439602)          |                    1|[Set Adrift](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386661)      |
 |                    4|[Mesmeric Orb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=30008)     |                    2|[Set Adrift](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386661)      |
+|                     |                                                                                           |                    2|[Damnation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425888)       |
 |                     |                                                                                           |                    2|[Ravenous Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197537)   |
 |                     |                                                                                           |                    2|[Profane Memento](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383353) |
-|                     |                                                                                           |                    2|[Damnation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425888)       |
 |                     |                                                                                           |                    3|[Ravenous Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197537)   |
 |                     |                                                                                           |                    3|[Profane Memento](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383353) |
 
