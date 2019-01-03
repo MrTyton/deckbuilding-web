@@ -1,11 +1,4 @@
-3 Island
-4 Island
 2 Flooded Strand
-1 Snow-Covered Island
-2 Snow-Covered Island
-3 Snow-Covered Island
-4 Snow-Covered Island
-2 Tormod's Crypt
 1 Ancient Stirrings
 2 Spire of Industry
 2 Ancient Stirrings
@@ -13,11 +6,17 @@
 3 Ancient Stirrings
 4 Glimmervoid
 4 Ancient Stirrings
+1 Snow-Covered Island
+2 Tormod's Crypt
 1 Botanical Sanctum
 2 Botanical Sanctum
 3 Spire of Industry
 3 Botanical Sanctum
 4 Spire of Industry
+3 Sorcerous Spyglass
+2 Snow-Covered Island
+2 Misty Rainforest
+1 Scalding Tarn
 1 Thoughtseize
 1 Lantern of Insight
 1 Inquisition of Kozilek
@@ -37,8 +36,8 @@
 3 Codex Shredder
 4 Codex Shredder
 4 Lantern of Insight
-1 Abrupt Decay
 1 Darkslick Shores
+1 Abrupt Decay
 2 Darkslick Shores
 3 Thoughtseize
 3 Darkslick Shores
@@ -49,10 +48,9 @@
 2 Thopter Foundry
 3 Thopter Foundry
 3 Expedition Map
-3 Sorcerous Spyglass
 1 Blooming Marsh
-1 Snow-Covered Forest
 1 Snow-Covered Swamp
+1 Snow-Covered Forest
 1 Mastermind's Acquisition
 1 Assassin's Trophy
 2 Blooming Marsh
@@ -64,6 +62,9 @@
 2 Pyxis of Pandemonium
 3 Blooming Marsh
 4 Blooming Marsh
+4 Botanical Sanctum
+3 Snow-Covered Island
+4 Snow-Covered Island
 2 Polluted Delta
 3 Polluted Delta
 4 Chalice of the Void
