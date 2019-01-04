@@ -31,7 +31,7 @@
 |                    1|[Karakas](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=201198)            |                    1|[Cast Out](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426710)           |
 |                    1|[Lodestone Bauble](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=184559)   |                    1|[Ethersworn Canonist](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370504)|
 |                    2|[Karakas](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=201198)            |                    2|[Ethersworn Canonist](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370504)|
-|                    4|[City of Traitors](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397543)   |                    2|[Aura of Silence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405132)    |
-|                    4|[Mox Opal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397719)           |                    3|[Containment Priest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=429862) |
-|                    4|[Karn, Scion of Urza](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442889)|                     |                                                                                              |
+|                    4|[Karn, Scion of Urza](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442889)|                    2|[Aura of Silence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405132)    |
+|                    4|[City of Traitors](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397543)   |                    3|[Containment Priest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=429862) |
+|                    4|[Mox Opal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397719)           |                     |                                                                                              |
 

@@ -4,12 +4,13 @@
 
 # Standard
 
-|                              A                               |                                  B                                   |                               C                                |                                  D                                   |                                E                                 |
-|--------------------------------------------------------------|----------------------------------------------------------------------|----------------------------------------------------------------|----------------------------------------------------------------------|------------------------------------------------------------------|
-|[Boros Aggro](./mtggoldfish/Standard/decks/Boros_Aggro.md)    |[Dimir Control](./mtggoldfish/Standard/decks/Dimir_Control.md)        |[Grixis Dragons](./mtggoldfish/Standard/decks/Grixis_Dragons.md)|[Jund Midrange](./mtggoldfish/Standard/decks/Jund_Midrange.md)        |[Selesnya Tokens](./mtggoldfish/Standard/decks/Selesnya_Tokens.md)|
-|[Boros Angels](./mtggoldfish/Standard/decks/Boros_Angels.md)  |[Golgari Graveyard](./mtggoldfish/Standard/decks/Golgari_Graveyard.md)|[Izzet Dragons](./mtggoldfish/Standard/decks/Izzet_Dragons.md)  |[Mono-Blue Tempo](./mtggoldfish/Standard/decks/Mono-Blue_Tempo.md)    |[Temur Dinosaurs](./mtggoldfish/Standard/decks/Temur_Dinosaurs.md)|
-|[Boros Control](./mtggoldfish/Standard/decks/Boros_Control.md)|[Golgari Midrange](./mtggoldfish/Standard/decks/Golgari_Midrange.md)  |[Izzet Drakes](./mtggoldfish/Standard/decks/Izzet_Drakes.md)    |[Mono-Red Aggro](./mtggoldfish/Standard/decks/Mono-Red_Aggro.md)      |[Turbo Fog](./mtggoldfish/Standard/decks/Turbo_Fog.md)            |
-|[Boros Weenie](./mtggoldfish/Standard/decks/Boros_Weenie.md)  |[Grixis Control](./mtggoldfish/Standard/decks/Grixis_Control.md)      |[Jeskai Control](./mtggoldfish/Standard/decks/Jeskai_Control.md)|[Mono-Red Midrange](./mtggoldfish/Standard/decks/Mono-Red_Midrange.md)|[WR](./mtggoldfish/Standard/decks/WR.md)                          |
+|                              A                               |                                  B                                   |                                C                                 |                                  D                                   |                    E                     |
+|--------------------------------------------------------------|----------------------------------------------------------------------|------------------------------------------------------------------|----------------------------------------------------------------------|------------------------------------------|
+|[Boros Aggro](./mtggoldfish/Standard/decks/Boros_Aggro.md)    |[Golgari Graveyard](./mtggoldfish/Standard/decks/Golgari_Graveyard.md)|[Izzet Drakes](./mtggoldfish/Standard/decks/Izzet_Drakes.md)      |[Mono-Red Midrange](./mtggoldfish/Standard/decks/Mono-Red_Midrange.md)|[WUR](./mtggoldfish/Standard/decks/WUR.md)|
+|[Boros Angels](./mtggoldfish/Standard/decks/Boros_Angels.md)  |[Golgari Midrange](./mtggoldfish/Standard/decks/Golgari_Midrange.md)  |[Jeskai Control](./mtggoldfish/Standard/decks/Jeskai_Control.md)  |[Selesnya Tokens](./mtggoldfish/Standard/decks/Selesnya_Tokens.md)    |                                          |
+|[Boros Control](./mtggoldfish/Standard/decks/Boros_Control.md)|[Grixis Control](./mtggoldfish/Standard/decks/Grixis_Control.md)      |[Jund Midrange](./mtggoldfish/Standard/decks/Jund_Midrange.md)    |[Temur Dinosaurs](./mtggoldfish/Standard/decks/Temur_Dinosaurs.md)    |                                          |
+|[Boros Weenie](./mtggoldfish/Standard/decks/Boros_Weenie.md)  |[Grixis Dragons](./mtggoldfish/Standard/decks/Grixis_Dragons.md)      |[Mono-Blue Tempo](./mtggoldfish/Standard/decks/Mono-Blue_Tempo.md)|[Turbo Fog](./mtggoldfish/Standard/decks/Turbo_Fog.md)                |                                          |
+|[Dimir Control](./mtggoldfish/Standard/decks/Dimir_Control.md)|[Izzet Dragons](./mtggoldfish/Standard/decks/Izzet_Dragons.md)        |[Mono-Red Aggro](./mtggoldfish/Standard/decks/Mono-Red_Aggro.md)  |[WR](./mtggoldfish/Standard/decks/WR.md)                              |                                          |
 
 
 # Modern
@@ -55,4 +56,4 @@
 
 
 
-#### Last Updated at 04:14PM on January 03, 2019
+#### Last Updated at 12:28AM on January 04, 2019
