@@ -43,6 +43,6 @@
 |                     |                                                                                           |                    2|[Ravenous Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197537)   |
 |                     |                                                                                           |                    2|[Profane Memento](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383353) |
 |                     |                                                                                           |                    2|[Damnation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425888)       |
-|                     |                                                                                           |                    3|[Ravenous Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197537)   |
 |                     |                                                                                           |                    3|[Profane Memento](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383353) |
+|                     |                                                                                           |                    3|[Ravenous Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197537)   |
 

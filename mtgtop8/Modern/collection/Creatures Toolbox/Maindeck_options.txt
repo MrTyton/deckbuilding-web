@@ -7,8 +7,8 @@
 2 Commune with Nature
 2 Shalai, Voice of Plenty
 4 Forest
-3 Commune with Nature
 3 Horizon Canopy
+3 Commune with Nature
 4 Commune with Nature
 2 Misty Rainforest
 3 Misty Rainforest
@@ -25,18 +25,18 @@
 1 Selfless Spirit
 2 Scavenging Ooze
 1 Magus of the Moon
-1 Sacred Foundry
-1 Stomping Ground
 1 Path to Exile
 1 Kiki-Jiki, Mirror Breaker
+1 Sacred Foundry
 1 Restoration Angel
+1 Stomping Ground
+2 Voice of Resurgence
+2 Path to Exile
 2 Plains
 2 Stomping Ground
-2 Path to Exile
 2 Restoration Angel
-2 Voice of Resurgence
-3 Wooded Foothills
 3 Voice of Resurgence
+3 Wooded Foothills
 4 Voice of Resurgence
 4 Wooded Foothills
 3 Eternal Witness
@@ -67,25 +67,18 @@
 1 Orzhov Pontiff
 3 Temple Garden
 4 Temple Garden
-1 Linvala, Keeper of Silence
-1 Inspiring Vantage
 1 Anafenza, the Foremost
 1 Spellskite
 1 Ezuri, Renegade Leader
 1 Blooming Marsh
-1 Flame Slash
-1 Wall of Omens
-1 Grove of the Burnwillows
-2 Chandra, Torch of Defiance
-2 Wall of Omens
-2 Grove of the Burnwillows
-3 Plains
+1 Inspiring Vantage
+1 Linvala, Keeper of Silence
 1 Flooded Strand
 1 Wall of Roots
 1 Avacyn's Pilgrim
 1 Fiery Justice
-1 Eidolon of Rhetoric
 1 Worship
+1 Eidolon of Rhetoric
 1 Reclamation Sage
 2 Flooded Strand
 2 Wall of Roots
@@ -94,9 +87,13 @@
 3 Flooded Strand
 3 Wall of Roots
 3 Fiery Justice
-1 Botanical Sanctum
-1 Breeding Pool
-4 Razorverge Thicket
+1 Flame Slash
+1 Grove of the Burnwillows
+1 Wall of Omens
+2 Chandra, Torch of Defiance
+2 Grove of the Burnwillows
+2 Wall of Omens
+3 Plains
 1 Tectonic Edge
 1 Knight of the Reliquary
 1 Field of Ruin
@@ -105,6 +102,9 @@
 3 Knight of the Reliquary
 3 Tireless Tracker
 4 Knight of the Reliquary
+1 Botanical Sanctum
+1 Breeding Pool
+4 Razorverge Thicket
 1 Mirror Entity
 1 Aether Vial
 1 Phantasmal Image
@@ -129,6 +129,7 @@
 3 Aether Vial
 3 Unclaimed Territory
 3 Zulaport Cutthroat
+4 Knight of Autumn
 4 Eternal Witness
 4 Militia Bugler
 4 Phantasmal Image
@@ -136,7 +137,6 @@
 4 Unclaimed Territory
 4 Scryb Ranger
 4 Zulaport Cutthroat
-4 Knight of Autumn
 4 Aether Vial
 4 Cavern of Souls
 5 Forest
