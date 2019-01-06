@@ -35,9 +35,9 @@
 |                    4|[Inferno Titan](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446845)|                    2|[Defense Grid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425805)   |
 |                    9|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439604)     |                    2|[Pyroclasm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=4354)        |
 |                   10|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439604)     |                    2|[Trinisphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425823)    |
-|                     |                                                                                        |                    3|[Faerie Macabre](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370410) |
 |                     |                                                                                        |                    3|[Pyroclasm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=4354)        |
 |                     |                                                                                        |                    3|[Trinisphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425823)    |
 |                     |                                                                                        |                    3|[Defense Grid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425805)   |
+|                     |                                                                                        |                    3|[Faerie Macabre](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370410) |
 |                     |                                                                                        |                    4|[Trinisphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425823)    |
 

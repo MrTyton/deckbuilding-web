@@ -1,7 +1,7 @@
 # Manaless Dredge
 
 #### [Export MTGO List](../collection/Manaless%20Dredge/Manaless%20Dredge.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Bridge%20from%20Below%0A4%09Cabal%20Therapy%0A4%09Chancellor%20of%20the%20Annex%0A4%09Dread%20Return%0A1%09Flayer%20of%20the%20Hatebound%0A4%09Golgari%20Grave-Troll%0A4%09Golgari%20Thug%0A4%09Ichorid%0A4%09Narcomoeba%0A4%09Nether%20Shadow%0A4%09Phantasmagorian%0A4%09Prized%20Amalgam%0A4%09Shambling%20Shell%0A4%09Stinkweed%20Imp%0A4%09Street%20Wraith%0A3%09Whirlpool%20Rider&deckside=1%09Ashen%20Rider%0A1%09Elesh%20Norn,%20Grand%20Cenobite%0A1%09Faerie%20Macabre%0A4%09Force%20of%20Will%0A4%09Leyline%20of%20the%20Void%0A3%09Mindbreak%20Trap%0A1%09Sickening%20Shoal)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Bridge%20from%20Below%0A4%09Cabal%20Therapy%0A4%09Chancellor%20of%20the%20Annex%0A4%09Dread%20Return%0A1%09Flayer%20of%20the%20Hatebound%0A4%09Golgari%20Grave-Troll%0A4%09Golgari%20Thug%0A4%09Ichorid%0A4%09Narcomoeba%0A4%09Nether%20Shadow%0A4%09Phantasmagorian%0A4%09Prized%20Amalgam%0A4%09Shambling%20Shell%0A4%09Stinkweed%20Imp%0A4%09Street%20Wraith%0A3%09Whirlpool%20Rider&deckside=1%09Ashen%20Rider%0A2%09Contagion%0A2%09Disrupting%20Shoal%0A3%09Faerie%20Macabre%0A4%09Force%20of%20Will%0A3%09Mindbreak%20Trap)
 # Maindeck
 
 |                                           Creature (48)                                            |                                       Enchantment (4)                                        |                                       Sorcery (8)                                        |
@@ -23,25 +23,29 @@
 
 # Sideboard
 
-|                                             Creature (3)                                              |                                        Enchantment (4)                                         |                                        Instant (8)                                        |
-|-------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
-|1 [Ashen Rider](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373689)               |4 [Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205013)|4 [Force of Will](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382943) |
-|1 [Elesh Norn, Grand Cenobite](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397880)|                                                                                                |3 [Mindbreak Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197532)|
-|1 [Faerie Macabre](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370410)            |                                                                                                |1 [Sickening Shoal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=74127)|
+|                                       Creature (4)                                        |                                        Instant (11)                                        |
+|-------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
+|1 [Ashen Rider](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373689)   |2 [Contagion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=159089)      |
+|3 [Faerie Macabre](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370410)|2 [Disrupting Shoal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=74128)|
+|                                                                                           |4 [Force of Will](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382943)  |
+|                                                                                           |3 [Mindbreak Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197532) |
 
 
 # Other Options
 
 |*n*<sup>th</sup> copy|                                      Maindeck Card                                      |*n*<sup>th</sup> copy|                                           Sideboard Card                                            |
 |--------------------:|-----------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------------------|
-|                    1|[Lotleth Giant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452824) |                    2|[Faerie Macabre](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370410)            |
-|                    1|[Creeping Chill](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452816)|                    1|[Disrupting Shoal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=74128)           |
-|                    2|[Creeping Chill](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452816)|                    3|[Faerie Macabre](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370410)            |
-|                    3|[Creeping Chill](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452816)|                    1|[Contagion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=159089)                 |
-|                    4|[Creeping Chill](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452816)|                    2|[Contagion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=159089)                 |
-|                    1|[Balustrade Spy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438646)|                    2|[Disrupting Shoal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=74128)           |
+|                    1|[Creeping Chill](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452816)|                    1|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205013)       |
+|                    2|[Creeping Chill](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452816)|                    2|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205013)       |
+|                    3|[Creeping Chill](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452816)|                    3|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205013)       |
+|                    4|[Creeping Chill](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452816)|                    1|[Elesh Norn, Grand Cenobite](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397880)|
+|                    1|[Lotleth Giant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452824) |                    4|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205013)       |
+|                    1|[Balustrade Spy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438646)|                    1|[Sickening Shoal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=74127)            |
 |                    2|[Balustrade Spy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438646)|                    2|[Sickening Shoal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=74127)            |
 |                    3|[Balustrade Spy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438646)|                    4|[Faerie Macabre](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370410)            |
+|                     |                                                                                         |                    1|[Balustrade Spy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438646)            |
+|                     |                                                                                         |                    3|[Contagion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=159089)                 |
+|                     |                                                                                         |                    4|[Mindbreak Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197532)            |
 |                     |                                                                                         |                    3|[Disrupting Shoal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=74128)           |
 |                     |                                                                                         |                    1|[Platinum Angel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425817)            |
 |                     |                                                                                         |                    1|[Progenitus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370405)                |
@@ -52,9 +56,6 @@
 |                     |                                                                                         |                    1|[Whirlpool Drake](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=27671)            |
 |                     |                                                                                         |                    1|[Wayward Servant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426910)           |
 |                     |                                                                                         |                    1|[Gisela, Blade of Goldnight](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442193)|
-|                     |                                                                                         |                    1|[Balustrade Spy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438646)            |
-|                     |                                                                                         |                    3|[Contagion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=159089)                 |
-|                     |                                                                                         |                    4|[Mindbreak Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197532)            |
 |                     |                                                                                         |                    1|[Dryad Arbor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=282542)               |
 |                     |                                                                                         |                    1|[Nature's Claim](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438743)            |
 |                     |                                                                                         |                    2|[Dryad Arbor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=282542)               |

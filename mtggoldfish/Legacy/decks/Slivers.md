@@ -27,3 +27,10 @@
 |                                                                                                |2 [Harmonic Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=109706)    |                                                                                                |
 |                                                                                                |1 [Telekinetic Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=111085) |                                                                                                |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                        Maindeck Card                                        |*n*<sup>th</sup> copy|Sideboard Card|
+|--------------------:|---------------------------------------------------------------------------------------------|---------------------|--------------|
+|                    1|[Telekinetic Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=111085)|                     |              |
+
