@@ -35,8 +35,8 @@
 |*n*<sup>th</sup> copy|                                        Maindeck Card                                         |*n*<sup>th</sup> copy|                                         Sideboard Card                                          |
 |--------------------:|----------------------------------------------------------------------------------------------|--------------------:|-------------------------------------------------------------------------------------------------|
 |                    1|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439602)             |                    1|[Tezzeret the Seeker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397700)   |
-|                    1|[Pyrite Spellbomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370512)   |                    2|[Sorcerous Spyglass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435407)    |
-|                    2|[Snow-Covered Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=184813)|                    3|[Sai, Master Thopterist](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447205)|
+|                    1|[Pyrite Spellbomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370512)   |                    3|[Sai, Master Thopterist](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447205)|
+|                    2|[Snow-Covered Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=184813)|                    2|[Sorcerous Spyglass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435407)    |
 |                    1|[Yavimaya Coast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=398566)     |                     |                                                                                                 |
 |                    2|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439602)             |                     |                                                                                                 |
 
