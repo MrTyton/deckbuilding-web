@@ -25,8 +25,8 @@
 
 |*n*<sup>th</sup> copy|                                     Maindeck Card                                      |*n*<sup>th</sup> copy|                                      Sideboard Card                                      |
 |--------------------:|----------------------------------------------------------------------------------------|--------------------:|------------------------------------------------------------------------------------------|
-|                    1|[Griselbrand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425897)  |                    1|[Defense Grid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425805)   |
-|                    1|[Inferno Titan](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446845)|                    1|[Shattering Spree](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=97233)|
+|                    1|[Griselbrand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425897)  |                    1|[Shattering Spree](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=97233)|
+|                    1|[Inferno Titan](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446845)|                    1|[Defense Grid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425805)   |
 |                    2|[Inferno Titan](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446845)|                    1|[Pyroclasm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=4354)        |
 |                    2|[Griselbrand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425897)  |                    1|[Faerie Macabre](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370410) |
 |                    3|[Inferno Titan](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446845)|                    1|[Trinisphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425823)    |

@@ -48,7 +48,7 @@
 |                    2|[Search for Azcanta](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435226)      |                    2|[Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)         |
 |                    2|[Terminate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426019)               |                     |                                                                                                |
 |                    3|[Thought Scour](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438642)           |                     |                                                                                                |
-|                    3|[Field of Ruin](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435415)           |                     |                                                                                                |
 |                    4|[Thought Scour](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438642)           |                     |                                                                                                |
 |                    4|[Kolaghan's Command](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394613)      |                     |                                                                                                |
+|                    3|[Field of Ruin](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435415)           |                     |                                                                                                |
 
