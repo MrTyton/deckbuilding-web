@@ -26,3 +26,11 @@
 |3 [Sphere of Resistance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383106)|                                                                                           |                                                                                         |                                                                                                    |
 |1 [Spine of Ish Sah](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446956)    |                                                                                           |                                                                                         |                                                                                                    |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|Maindeck Card|*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
+|---------------------|-------------|--------------------:|----------------------------------------------------------------------------------------------|
+|                     |             |                    1|[Phyrexian Metamorph](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=214375)|
+|                     |             |                    1|[Batterskull](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=233055)        |
+

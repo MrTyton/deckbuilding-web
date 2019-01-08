@@ -25,3 +25,10 @@
 |                                                                                            |                                                                                                |1 [Invasive Surgery](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409811)   |                                                                                    |                                                                                                    |                                                                                               |
 |                                                                                            |                                                                                                |2 [Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|                                                                                    |                                                                                                    |                                                                                               |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                  Maindeck Card                                  |*n*<sup>th</sup> copy|Sideboard Card|
+|--------------------:|---------------------------------------------------------------------------------|---------------------|--------------|
+|                    3|[Tundra](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383139)|                     |              |
+

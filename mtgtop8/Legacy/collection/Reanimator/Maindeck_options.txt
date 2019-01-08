@@ -1,9 +1,9 @@
-3 Thoughtseize
-3 Cabal Therapy
 1 Bayou
 1 Ashen Rider
-1 Scrubland
+1 Iona, Shield of Emeria
 4 Cabal Therapy
+3 Thoughtseize
+1 Scrubland
 1 Collective Brutality
 2 Collective Brutality
 3 Bloodstained Mire
@@ -20,18 +20,18 @@
 4 Thoughtseize
 1 Careful Study
 2 Careful Study
-1 Force of Will
-2 Force of Will
-2 Island
-3 Force of Will
-4 Force of Will
-3 Underground Sea
 2 Marsh Flats
 4 Bloodstained Mire
+1 Force of Will
 1 Misty Rainforest
+2 Force of Will
+2 Island
 3 Careful Study
+3 Force of Will
 4 Careful Study
+4 Force of Will
 1 Grave Titan
+3 Underground Sea
 1 Shallow Grave
 1 Children of Korlis
 2 Shallow Grave
@@ -51,8 +51,8 @@
 1 Sire of Insanity
 4 Verdant Catacombs
 1 Goryo's Vengeance
-1 Flooded Strand
 1 Emrakul, the Aeons Torn
+1 Flooded Strand
 3 Collective Brutality
 4 Collective Brutality
 1 Duress
@@ -63,8 +63,8 @@
 3 Hymn to Tourach
 3 Grave Titan
 4 Hymn to Tourach
-4 Grave Titan
 4 Swamp
+4 Grave Titan
 5 Swamp
 6 Swamp
 7 Swamp
@@ -79,43 +79,18 @@
 16 Swamp
 17 Swamp
 2 Liliana of the Veil
-1 Scalding Tarn
-3 Ponder
-4 Ponder
-1 Spellseeker
 1 Jin-Gitaxias, Core Augur
 1 Wurmcoil Engine
 1 Oona's Prowler
-1 Overgrown Tomb
 1 Blood Crypt
+1 Overgrown Tomb
 1 Mountain
 1 Forest
+1 Scalding Tarn
 2 Chrome Mox
 1 Wasteland
 2 Goryo's Vengeance
 3 Goryo's Vengeance
-1 Fatal Push
-1 Worldgorger Dragon
-1 Baleful Strix
-1 Stroke of Genius
-1 Necromancy
-1 Lightning Bolt
-1 Desolate Lighthouse
-1 Far / Away
-1 Volcanic Island
-1 Snapcaster Mage
-2 Necromancy
-2 Baleful Strix
-2 Desolate Lighthouse
-2 Scalding Tarn
-2 Fatal Push
-2 Snapcaster Mage
-2 Volcanic Island
-3 Scalding Tarn
-3 Snapcaster Mage
-3 Desolate Lighthouse
-3 Baleful Strix
-4 Baleful Strix
 1 Thespian's Stage
 1 Living Wish
 1 Unburial Rites
@@ -125,9 +100,9 @@
 1 Dark Depths
 2 Urborg, Tomb of Yawgmoth
 2 Living Wish
-2 Vampire Hexmage
 2 Thespian's Stage
 2 Dark Depths
+2 Vampire Hexmage
 2 Bayou
 2 Lion's Eye Diamond
 3 Living Wish
@@ -136,6 +111,9 @@
 3 Dark Depths
 3 Lion's Eye Diamond
 4 Lion's Eye Diamond
+1 Spellseeker
+3 Ponder
+4 Ponder
 2 Duress
 2 Massacre Wurm
 3 Duress
