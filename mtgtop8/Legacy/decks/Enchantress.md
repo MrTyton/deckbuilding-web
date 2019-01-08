@@ -40,8 +40,8 @@
 
 |*n*<sup>th</sup> copy|                                        Maindeck Card                                         |*n*<sup>th</sup> copy|                                          Sideboard Card                                          |
 |--------------------:|----------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------------|
-|                    1|[Wooded Foothills](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405116)   |                    1|[Leyline of Sanctity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397677)    |
-|                    1|[Living Wish](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442168)        |                    1|[Seal of Cleansing](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383085)      |
+|                    1|[Wooded Foothills](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405116)   |                    1|[Seal of Cleansing](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383085)      |
+|                    1|[Living Wish](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442168)        |                    1|[Leyline of Sanctity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397677)    |
 |                    1|[Ixalan's Binding](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435168)   |                    1|[Sigarda, Host of Herons](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=240033)|
 |                    1|[Ground Seal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=451104)        |                    1|[Banishing Light](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446754)        |
 |                    1|[Tropical Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383138)    |                    1|[Dragonlord Dromoka](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394547)     |

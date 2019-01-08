@@ -1,8 +1,32 @@
-1 Kitesail Freebooter
-2 Kitesail Freebooter
-7 Island
-1 Dive Down
-2 Dive Down
+3 Siren Stormtamer
+3 Fathom Fleet Captain
+3 Dire Fleet Poisoner
+3 Lookout's Dispersal
+4 Lookout's Dispersal
+4 Kitesail Freebooter
+4 Curious Obsession
+4 Dire Fleet Poisoner
+4 Siren Stormtamer
+4 Fathom Fleet Captain
+8 Island
+1 Seekers' Squire
+1 Quasiduplicate
+2 Seekers' Squire
+2 Dream Eater
+2 Quasiduplicate
+3 Ravenous Chupacabra
+3 Dream Eater
+3 Quasiduplicate
+3 Seekers' Squire
+4 Quasiduplicate
+4 Dream Eater
+4 Seekers' Squire
+1 Golden Demise
+1 Vraska's Contempt
+1 Dimir Guildgate
+2 Vraska's Contempt
+3 Thought Erasure
+4 Thought Erasure
 1 Stitcher's Supplier
 1 Necrotic Wound
 1 Dusk Legion Zealot
@@ -23,44 +47,21 @@
 2 Essence Scatter
 2 Isareth the Awakener
 2 Notion Rain
-2 Dimir Guildgate
 2 Lazav, the Multifarious
+2 Dimir Guildgate
 3 Vraska's Contempt
 3 Notion Rain
 3 Cast Down
 4 Vraska's Contempt
-1 Curious Obsession
-1 Unclaimed Territory
-1 Lookout's Dispersal
-1 Siren Stormtamer
 1 Deadeye Tracker
-1 Dire Fleet Poisoner
-1 Fathom Fleet Captain
 1 Daring Saboteur
 1 Dreamcaller Siren
-2 Curious Obsession
-2 Siren Stormtamer
 2 Unclaimed Territory
 2 Deadeye Tracker
 2 Daring Saboteur
-2 Lookout's Dispersal
-2 Dire Fleet Poisoner
 2 Dreamcaller Siren
-2 Fathom Fleet Captain
-3 Curious Obsession
-3 Kitesail Freebooter
-3 Siren Stormtamer
-3 Fathom Fleet Captain
 3 Daring Saboteur
-3 Dire Fleet Poisoner
-3 Lookout's Dispersal
-4 Lookout's Dispersal
-4 Kitesail Freebooter
-4 Curious Obsession
 4 Daring Saboteur
-4 Dire Fleet Poisoner
-4 Siren Stormtamer
-4 Fathom Fleet Captain
 1 Plague Mare
 1 Sailor of Means
 1 Vampire Sovereign
@@ -70,7 +71,11 @@
 3 Sailor of Means
 3 Vampire Sovereign
 4 Sailor of Means
-8 Island
+1 Opt
+2 Opt
+3 Dive Down
+4 Dive Down
+9 Island
 1 Discovery / Dispersal
 1 Fungal Infection
 1 Detection Tower
