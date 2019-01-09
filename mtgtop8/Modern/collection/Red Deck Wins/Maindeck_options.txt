@@ -5,28 +5,13 @@
 1 Stomping Ground
 2 Grim Lavamancer
 3 Arid Mesa
-4 Arid Mesa
-3 Sacred Foundry
-1 Copperline Gorge
-1 Wild Nacatl
-1 Atarka's Command
-2 Copperline Gorge
-2 Wild Nacatl
-2 Atarka's Command
-3 Copperline Gorge
-3 Wild Nacatl
-3 Atarka's Command
-4 Wild Nacatl
-4 Atarka's Command
 4 Mountain
 1 Fiery Temper
 1 Manamorphose
 1 Arclight Phoenix
-1 Bedlam Reveler
 1 Gut Shot
 1 Tormenting Voice
 1 Faithless Looting
-2 Bedlam Reveler
 2 Fiery Temper
 2 Manamorphose
 2 Arclight Phoenix
@@ -34,7 +19,6 @@
 2 Tormenting Voice
 2 Faithless Looting
 3 Arclight Phoenix
-3 Bedlam Reveler
 3 Manamorphose
 3 Fiery Temper
 3 Faithless Looting
@@ -43,7 +27,6 @@
 4 Manamorphose
 4 Fiery Temper
 4 Faithless Looting
-4 Bedlam Reveler
 5 Mountain
 6 Mountain
 7 Mountain
@@ -56,6 +39,26 @@
 14 Mountain
 15 Mountain
 16 Mountain
+4 Arid Mesa
+3 Sacred Foundry
+1 Copperline Gorge
+1 Wild Nacatl
+1 Atarka's Command
+2 Copperline Gorge
+2 Atarka's Command
+2 Wild Nacatl
+3 Copperline Gorge
+3 Wild Nacatl
+3 Atarka's Command
+4 Wild Nacatl
+4 Atarka's Command
+1 Ramunap Ruins
+1 Bedlam Reveler
+2 Bedlam Reveler
+3 Bedlam Reveler
+4 Bedlam Reveler
+4 Tormenting Voice
+17 Mountain
 1 Searing Blood
 2 Stomping Ground
 4 Copperline Gorge
@@ -65,13 +68,11 @@
 1 Snow-Covered Mountain
 2 Snow-Covered Mountain
 3 Snow-Covered Mountain
-1 Ramunap Ruins
-3 Gut Shot
-4 Tormenting Voice
-17 Mountain
-1 Risk Factor
-1 Lightning Axe
 2 Ramunap Ruins
+3 Gut Shot
+18 Mountain
+1 Shrine of Burning Rage
+2 Shrine of Burning Rage
 3 Shard Volley
 4 Shard Volley
 1 Maximize Velocity
@@ -81,4 +82,4 @@
 3 Soul-Scar Mage
 3 Maximize Velocity
 4 Gut Shot
-18 Mountain
+1 Lightning Axe
