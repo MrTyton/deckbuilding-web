@@ -57,9 +57,9 @@
 |                    1|[Standstill](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=29936)        |                    3|[Pyroblast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=159243)          |
 |                    2|[Wooded Foothills](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405116) |                     |                                                                                              |
 |                    3|[Spell Snare](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370447)      |                     |                                                                                              |
-|                    1|[Young Pyromancer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413697) |                     |                                                                                              |
 |                    1|[Snapcaster Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425875)  |                     |                                                                                              |
 |                    1|[Noble Hierarch](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397709)   |                     |                                                                                              |
+|                    1|[Young Pyromancer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413697) |                     |                                                                                              |
 |                    2|[Noble Hierarch](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397709)   |                     |                                                                                              |
 |                    3|[Noble Hierarch](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397709)   |                     |                                                                                              |
 
