@@ -60,6 +60,6 @@
 |                     |                                                                                                      |                    1|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)         |
 |                     |                                                                                                      |                    1|[Phyrexian Revoker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220589)           |
 |                     |                                                                                                      |                    1|[Worship](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=429865)                     |
-|                     |                                                                                                      |                    2|[Spellskite](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397743)                  |
 |                     |                                                                                                      |                    1|[Spellskite](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397743)                  |
+|                     |                                                                                                      |                    2|[Spellskite](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397743)                  |
 
