@@ -27,3 +27,21 @@
 |1 [Pithing Needle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425815)  |4 [Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205013)     |1 [Pyroblast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=159243)          |                                                                                         |
 |                                                                                             |                                                                                                     |1 [Red Elemental Blast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=202447)|                                                                                         |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                          Maindeck Card                                          |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
+|--------------------:|-------------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
+|                    1|[Liliana, the Last Hope](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414388)|                    1|[Mindbreak Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197532)     |
+|                    1|[Bloodbraid Elf](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423509)        |                    1|[Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426046)  |
+|                    1|[Sylvan Library](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383120)        |                    1|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|
+|                    2|[Sylvan Library](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383120)        |                    2|[Pyroblast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=159243)          |
+|                    2|[Wasteland](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413790)             |                    2|[Mindbreak Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197532)     |
+|                    2|[Bloodbraid Elf](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423509)        |                    2|[Pithing Needle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425815)     |
+|                    3|[Abrupt Decay](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425971)          |                    2|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|
+|                    3|[Wasteland](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413790)             |                    2|[Toxic Deluge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413650)       |
+|                    3|[Bayou](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382860)                 |                    3|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|
+|                    3|[Bloodbraid Elf](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423509)        |                    3|[Mindbreak Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197532)     |
+|                    4|[Abrupt Decay](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425971)          |                     |                                                                                              |
+|                    4|[Punishing Fire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=243483)        |                     |                                                                                              |
+

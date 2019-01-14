@@ -1,13 +1,10 @@
 1 Bayou
-1 Ashen Rider
-1 Iona, Shield of Emeria
+3 Cabal Therapy
 4 Cabal Therapy
-3 Thoughtseize
-1 Scrubland
+1 Iona, Shield of Emeria
 1 Collective Brutality
 2 Collective Brutality
-3 Bloodstained Mire
-3 Verdant Catacombs
+1 Scrubland
 1 Ponder
 1 Brainstorm
 1 Island
@@ -17,11 +14,27 @@
 2 Brainstorm
 3 Brainstorm
 4 Brainstorm
+2 Verdant Catacombs
 4 Thoughtseize
+3 Bloodstained Mire
+1 Grave Titan
+1 Lake of the Dead
+2 Grave Titan
+3 Underground Sea
+1 Shallow Grave
+1 Children of Korlis
+2 Shallow Grave
+3 Shallow Grave
+4 Shallow Grave
 1 Careful Study
 2 Careful Study
 2 Marsh Flats
-4 Bloodstained Mire
+3 Collective Brutality
+4 Collective Brutality
+1 Flooded Strand
+1 Goryo's Vengeance
+1 Emrakul, the Aeons Torn
+3 Verdant Catacombs
 1 Force of Will
 1 Misty Rainforest
 2 Force of Will
@@ -30,35 +43,9 @@
 3 Force of Will
 4 Careful Study
 4 Force of Will
-1 Grave Titan
-3 Underground Sea
-1 Shallow Grave
-1 Children of Korlis
-2 Shallow Grave
-3 Shallow Grave
-4 Shallow Grave
-1 Liliana of the Veil
-3 Badlands
-1 Daze
-1 Elesh Norn, Grand Cenobite
-2 Daze
-2 Misty Rainforest
-3 Daze
-4 Daze
-1 Chrome Mox
-1 Lake of the Dead
-2 Grave Titan
-1 Sire of Insanity
-4 Verdant Catacombs
-1 Flooded Strand
-1 Goryo's Vengeance
-1 Emrakul, the Aeons Torn
-3 Collective Brutality
-4 Collective Brutality
-1 Duress
-1 Massacre Wurm
-1 Hymn to Tourach
 2 Lake of the Dead
+1 Elesh Norn, Grand Cenobite
+1 Hymn to Tourach
 2 Hymn to Tourach
 3 Hymn to Tourach
 3 Grave Titan
@@ -78,31 +65,46 @@
 15 Swamp
 16 Swamp
 17 Swamp
+3 Badlands
+1 Spellseeker
+3 Ponder
+4 Ponder
+1 Daze
+2 Daze
+2 Misty Rainforest
+3 Daze
+4 Daze
+1 Chrome Mox
+4 Bloodstained Mire
+1 Duress
+1 Massacre Wurm
+1 Liliana of the Veil
 2 Liliana of the Veil
+1 Sire of Insanity
 1 Jin-Gitaxias, Core Augur
 1 Wurmcoil Engine
 1 Oona's Prowler
-1 Overgrown Tomb
-1 Blood Crypt
-1 Mountain
-1 Forest
 1 Scalding Tarn
 2 Chrome Mox
+1 Smallpox
+2 Smallpox
+3 Marsh Flats
 1 Wasteland
 2 Goryo's Vengeance
 3 Goryo's Vengeance
+4 Verdant Catacombs
 1 Thespian's Stage
 1 Living Wish
 1 Lion's Eye Diamond
 1 Urborg, Tomb of Yawgmoth
-1 Vampire Hexmage
 1 Dark Depths
 1 Unburial Rites
+1 Vampire Hexmage
 2 Urborg, Tomb of Yawgmoth
 2 Living Wish
+2 Vampire Hexmage
 2 Thespian's Stage
 2 Dark Depths
-2 Vampire Hexmage
 2 Bayou
 2 Lion's Eye Diamond
 3 Living Wish
@@ -111,9 +113,6 @@
 3 Dark Depths
 3 Lion's Eye Diamond
 4 Lion's Eye Diamond
-1 Spellseeker
-3 Ponder
-4 Ponder
 2 Duress
 2 Massacre Wurm
 3 Duress

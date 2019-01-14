@@ -25,3 +25,10 @@
 |                                                                                            |                                                                                              |                                                                                              |1 [Lava Coil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452858)         |
 |                                                                                            |                                                                                              |                                                                                              |1 [Star of Extinction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435315)|
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                     Maindeck Card                                      |*n*<sup>th</sup> copy|                                       Sideboard Card                                        |
+|--------------------:|----------------------------------------------------------------------------------------|--------------------:|---------------------------------------------------------------------------------------------|
+|                    2|[Golden Demise](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439730)|                    1|[Search for Azcanta](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435226)|
+

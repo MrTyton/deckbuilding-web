@@ -27,7 +27,7 @@ def generate_table(title, files):
     writer.table_name = title
     # writer.header_list = #list(link_dictionary.keys())
     val = 1
-    while (ceil(len(files) / val) != 5):
+    while (ceil(len(files) / val) > 5):
         val += 1
     writer.value_matrix = list(zip_longest(*list(chunks(files, val))))
     writer.write_table()
