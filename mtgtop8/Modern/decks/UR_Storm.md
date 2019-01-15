@@ -47,8 +47,8 @@
 |                    1|[Flooded Strand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405098)      |                    1|[Ravenous Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197537)      |
 |                    3|[Remand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397881)              |                    2|[Flame Slash](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=368536)        |
 |                    2|[Polluted Delta](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405104)      |                    2|[Dismember](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397830)          |
-|                    2|[Peek](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=30686)                 |                    2|[Shattering Spree](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=97233)    |
-|                    1|[Peek](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=30686)                 |                    2|[Dispel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=201562)             |
+|                    2|[Peek](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=30686)                 |                    2|[Dispel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=201562)             |
+|                    1|[Peek](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=30686)                 |                    2|[Shattering Spree](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=97233)    |
 |                     |                                                                                               |                    3|[Blood Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370419)         |
 |                     |                                                                                               |                    1|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|
 
