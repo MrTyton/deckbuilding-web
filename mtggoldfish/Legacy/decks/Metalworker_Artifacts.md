@@ -30,8 +30,8 @@
 
 # Other Options
 
-|*n*<sup>th</sup> copy|Maindeck Card|*n*<sup>th</sup> copy|                                    Sideboard Card                                     |
-|---------------------|-------------|--------------------:|---------------------------------------------------------------------------------------|
-|                     |             |                    1|[Warping Wail](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407522)|
-|                     |             |                    2|[Warping Wail](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407522)|
+|*n*<sup>th</sup> copy|                                       Maindeck Card                                        |*n*<sup>th</sup> copy|                                    Sideboard Card                                     |
+|--------------------:|--------------------------------------------------------------------------------------------|--------------------:|---------------------------------------------------------------------------------------|
+|                    1|[Platinum Emperion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=215092)|                    1|[Warping Wail](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407522)|
+|                     |                                                                                            |                    2|[Warping Wail](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407522)|
 
