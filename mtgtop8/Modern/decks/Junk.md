@@ -70,7 +70,7 @@
 |                    3|[Grim Flayer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414489)             |                     |                                                                                                   |
 |                    3|[Mishra's Bauble](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438787)         |                     |                                                                                                   |
 |                    3|[Traverse the Ulvenwald](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409998)  |                     |                                                                                                   |
-|                    4|[Grim Flayer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414489)             |                     |                                                                                                   |
 |                    4|[Mishra's Bauble](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438787)         |                     |                                                                                                   |
+|                    4|[Grim Flayer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414489)             |                     |                                                                                                   |
 |                    4|[Fatal Push](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423724)              |                     |                                                                                                   |
 

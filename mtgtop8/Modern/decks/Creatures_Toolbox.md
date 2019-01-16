@@ -156,6 +156,6 @@
 |                    4|[Militia Bugler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447165)            |                     |                                                                                                       |
 |                    5|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439605)                    |                     |                                                                                                       |
 |                    6|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439605)                    |                     |                                                                                                       |
-|                    7|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439605)                    |                     |                                                                                                       |
 |                    8|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439605)                    |                     |                                                                                                       |
+|                    7|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439605)                    |                     |                                                                                                       |
 
