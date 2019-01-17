@@ -29,3 +29,10 @@
 |                                                                                                  |2 [Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447135)               |                                                                                              |
 |                                                                                                  |2 [Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)  |                                                                                              |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|Maindeck Card|*n*<sup>th</sup> copy|                                         Sideboard Card                                          |
+|---------------------|-------------|--------------------:|-------------------------------------------------------------------------------------------------|
+|                     |             |                    1|[Keranos, God of Storms](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=380442)|
+

@@ -27,8 +27,8 @@
 
 |*n*<sup>th</sup> copy|                                           Maindeck Card                                           |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
 |--------------------:|---------------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
-|                    1|[Gideon, Ally of Zendikar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401897)|                    1|[Gideon Jura](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430549)        |
-|                    1|[Elspeth, Sun's Champion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394361) |                    1|[Blessed Alliance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414302)   |
+|                    1|[Elspeth, Sun's Champion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394361) |                    1|[Gideon Jura](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430549)        |
+|                    1|[Gideon, Ally of Zendikar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401897)|                    1|[Blessed Alliance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414302)   |
 |                    1|[Gideon of the Trials](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426716)    |                    1|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)      |
 |                    1|[Archangel Avacyn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439314)        |                    1|[Relic of Progenitus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205326)|
 |                    2|[Gideon, Ally of Zendikar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401897)|                    1|[Eidolon of Rhetoric](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=380409)|
