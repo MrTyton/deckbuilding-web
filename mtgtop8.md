@@ -19,10 +19,9 @@
 
 |                               A                                |                                B                                 |                              C                               |                             D                              |                          E                           |
 |----------------------------------------------------------------|------------------------------------------------------------------|--------------------------------------------------------------|------------------------------------------------------------|------------------------------------------------------|
-|[Ad Nauseam](./mtgtop8/Modern/decks/Ad_Nauseam.md)              |[Faeries](./mtgtop8/Modern/decks/Faeries.md)                      |[Junk](./mtgtop8/Modern/decks/Junk.md)                        |[Other - Combo](./mtgtop8/Modern/decks/Other_-_Combo.md)    |[UR Control](./mtgtop8/Modern/decks/UR_Control.md)    |
-|[Affinity](./mtgtop8/Modern/decks/Affinity.md)                  |[Grixis Control](./mtgtop8/Modern/decks/Grixis_Control.md)        |[KCI](./mtgtop8/Modern/decks/KCI.md)                          |[Other - Control](./mtgtop8/Modern/decks/Other_-_Control.md)|[UR Storm](./mtgtop8/Modern/decks/UR_Storm.md)        |
-|[Aura Hexproof](./mtgtop8/Modern/decks/Aura_Hexproof.md)        |[Gruul Land Loss](./mtgtop8/Modern/decks/Gruul_Land_Loss.md)      |[Lantern Control](./mtgtop8/Modern/decks/Lantern_Control.md)  |[Red Deck Wins](./mtgtop8/Modern/decks/Red_Deck_Wins.md)    |[UW Control](./mtgtop8/Modern/decks/UW_Control.md)    |
-|[Bant](./mtgtop8/Modern/decks/Bant.md)                          |[Hatebear](./mtgtop8/Modern/decks/Hatebear.md)                    |[Living End](./mtgtop8/Modern/decks/Living_End.md)            |[Scapeshift](./mtgtop8/Modern/decks/Scapeshift.md)          |[UWx Midrange](./mtgtop8/Modern/decks/UWx_Midrange.md)|
+|[Ad Nauseam](./mtgtop8/Modern/decks/Ad_Nauseam.md)              |[Grixis Control](./mtgtop8/Modern/decks/Grixis_Control.md)        |[KCI](./mtgtop8/Modern/decks/KCI.md)                          |[Other - Control](./mtgtop8/Modern/decks/Other_-_Control.md)|[UR Storm](./mtgtop8/Modern/decks/UR_Storm.md)        |
+|[Affinity](./mtgtop8/Modern/decks/Affinity.md)                  |[Gruul Land Loss](./mtgtop8/Modern/decks/Gruul_Land_Loss.md)      |[Lantern Control](./mtgtop8/Modern/decks/Lantern_Control.md)  |[Red Deck Wins](./mtgtop8/Modern/decks/Red_Deck_Wins.md)    |[UW Control](./mtgtop8/Modern/decks/UW_Control.md)    |
+|[Aura Hexproof](./mtgtop8/Modern/decks/Aura_Hexproof.md)        |[Hatebear](./mtgtop8/Modern/decks/Hatebear.md)                    |[Living End](./mtgtop8/Modern/decks/Living_End.md)            |[Scapeshift](./mtgtop8/Modern/decks/Scapeshift.md)          |[UWx Midrange](./mtgtop8/Modern/decks/UWx_Midrange.md)|
 |[Bloomless Titan](./mtgtop8/Modern/decks/Bloomless_Titan.md)    |[Hollow One](./mtgtop8/Modern/decks/Hollow_One.md)                |[Mardu Midrange](./mtgtop8/Modern/decks/Mardu_Midrange.md)    |[Smallpox](./mtgtop8/Modern/decks/Smallpox.md)              |[UrzaTron](./mtgtop8/Modern/decks/UrzaTron.md)        |
 |[Boros](./mtgtop8/Modern/decks/Boros.md)                        |[Humans](./mtgtop8/Modern/decks/Humans.md)                        |[Martyr Life](./mtgtop8/Modern/decks/Martyr_Life.md)          |[Spirit Aggro](./mtgtop8/Modern/decks/Spirit_Aggro.md)      |[Valakut](./mtgtop8/Modern/decks/Valakut.md)          |
 |[Creatures Toolbox](./mtgtop8/Modern/decks/Creatures_Toolbox.md)|[Infect](./mtgtop8/Modern/decks/Infect.md)                        |[Merfolk](./mtgtop8/Modern/decks/Merfolk.md)                  |[Tezzerator](./mtgtop8/Modern/decks/Tezzerator.md)          |[Walks](./mtgtop8/Modern/decks/Walks.md)              |
@@ -30,6 +29,7 @@
 |[Dredge](./mtgtop8/Modern/decks/Dredge.md)                      |[Jeskai Ascendancy](./mtgtop8/Modern/decks/Jeskai_Ascendancy.md)  |[Nahiri Control](./mtgtop8/Modern/decks/Nahiri_Control.md)    |[Twin Exarch](./mtgtop8/Modern/decks/Twin_Exarch.md)        |                                                      |
 |[Eldrazi Aggro](./mtgtop8/Modern/decks/Eldrazi_Aggro.md)        |[Jeskai Control](./mtgtop8/Modern/decks/Jeskai_Control.md)        |[Orzhov Midrange](./mtgtop8/Modern/decks/Orzhov_Midrange.md)  |[UB Mill](./mtgtop8/Modern/decks/UB_Mill.md)                |                                                      |
 |[Elves](./mtgtop8/Modern/decks/Elves.md)                        |[Jund](./mtgtop8/Modern/decks/Jund.md)                            |[Other - Aggro](./mtgtop8/Modern/decks/Other_-_Aggro.md)      |[UR Aggro](./mtgtop8/Modern/decks/UR_Aggro.md)              |                                                      |
+|[Faeries](./mtgtop8/Modern/decks/Faeries.md)                    |[Junk](./mtgtop8/Modern/decks/Junk.md)                            |[Other - Combo](./mtgtop8/Modern/decks/Other_-_Combo.md)      |[UR Control](./mtgtop8/Modern/decks/UR_Control.md)          |                                                      |
 
 
 # Legacy
@@ -49,4 +49,4 @@
 
 
 
-#### Last Updated at 12:24PM on January 18, 2019
+#### Last Updated at 12:24AM on January 19, 2019

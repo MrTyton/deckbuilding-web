@@ -32,8 +32,8 @@
 
 |*n*<sup>th</sup> copy|                                         Maindeck Card                                          |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
 |--------------------:|------------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
-|                    1|[Phyrexian Tower](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=10677)       |                    1|[Zealous Persecution](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413755)|
-|                    1|[Engineered Explosives](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370549)|                    1|[Silent Gravestone](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439846)  |
+|                    1|[Phyrexian Tower](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=10677)       |                    1|[Silent Gravestone](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439846)  |
+|                    1|[Engineered Explosives](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370549)|                    1|[Zealous Persecution](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413755)|
 |                    1|[Phyrexian Altar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=23226)       |                    1|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205013)|
 |                    1|[Greater Gargadon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370560)     |                    1|[Karakas](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=201198)            |
 |                    2|[Verdant Catacombs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426074)    |                    2|[Karakas](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=201198)            |
