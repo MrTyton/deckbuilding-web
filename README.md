@@ -56,4 +56,4 @@
 
 
 
-#### Last Updated at 12:26AM on January 20, 2019
+#### Last Updated at 12:26PM on January 20, 2019
