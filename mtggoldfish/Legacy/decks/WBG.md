@@ -36,8 +36,8 @@
 |                    1|[Dragonlord Dromoka](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394547)     |                     |              |
 |                    1|[Ghost Quarter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430470)          |                     |              |
 |                    1|[Swords to Plowshares](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383119)   |                     |              |
-|                    2|[Swords to Plowshares](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383119)   |                     |              |
 |                    2|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439601)                 |                     |              |
+|                    2|[Swords to Plowshares](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383119)   |                     |              |
 |                    3|[Swords to Plowshares](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383119)   |                     |              |
 |                    4|[Swords to Plowshares](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383119)   |                     |              |
 

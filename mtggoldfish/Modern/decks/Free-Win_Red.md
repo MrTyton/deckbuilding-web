@@ -39,8 +39,8 @@
 |                     |                                                                                                     |                    2|[Ravenous Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197537)     |
 |                     |                                                                                                     |                    3|[Molten Rain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425928)       |
 |                     |                                                                                                     |                    3|[Ravenous Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197537)     |
-|                     |                                                                                                     |                    1|[Shattering Spree](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=97233)   |
 |                     |                                                                                                     |                    1|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)    |
+|                     |                                                                                                     |                    1|[Shattering Spree](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=97233)   |
 |                     |                                                                                                     |                    2|[Shattering Spree](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=97233)   |
 |                     |                                                                                                     |                    4|[Anger of the Gods](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438682) |
 
