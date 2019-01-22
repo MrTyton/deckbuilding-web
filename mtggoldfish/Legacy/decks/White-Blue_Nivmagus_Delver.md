@@ -34,8 +34,8 @@
 |                    3|[Nivmagus Elemental](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=290526)|                    1|[Winter Orb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=159277)              |
 |                    2|[Scalding Tarn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426069)     |                    2|[Winter Orb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=159277)              |
 |                     |                                                                                             |                    1|[Containment Priest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=429862)      |
-|                     |                                                                                             |                    1|[Back to Basics](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=5711)            |
 |                     |                                                                                             |                    1|[Gideon, Ally of Zendikar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401897)|
-|                     |                                                                                             |                    2|[Back to Basics](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=5711)            |
 |                     |                                                                                             |                    1|[Council's Judgment](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382896)      |
+|                     |                                                                                             |                    2|[Back to Basics](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=5711)            |
+|                     |                                                                                             |                    1|[Back to Basics](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=5711)            |
 

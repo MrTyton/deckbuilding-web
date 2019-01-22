@@ -36,6 +36,6 @@
 |                    1|[Muldrotha, the Gravetide](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443087)|                    1|[Engineered Explosives](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370549)|
 |                    1|[Tombstalker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370539)             |                    1|[Engineered Plague](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=12944)     |
 |                    1|[Spellseeker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446009)             |                    2|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205013)  |
-|                    1|[Murderous Cut](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386613)           |                    2|[Flusterstorm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382942)         |
-|                    2|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439603)                   |                    3|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205013)  |
+|                    2|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439603)                   |                    2|[Flusterstorm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382942)         |
+|                    1|[Murderous Cut](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386613)           |                    3|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205013)  |
 
