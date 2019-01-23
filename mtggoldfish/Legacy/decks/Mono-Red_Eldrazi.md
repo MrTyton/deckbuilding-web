@@ -29,8 +29,8 @@
 
 |*n*<sup>th</sup> copy|                                        Maindeck Card                                        |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
 |--------------------:|---------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
-|                    1|[Wurmcoil Engine](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425825)   |                    1|[Red Elemental Blast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=202447)|
-|                    1|[Eldrazi Obligator](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407606) |                    1|[Pyroblast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=159243)          |
-|                    2|[Talisman of Impulse](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=39600)|                     |                                                                                              |
+|                    1|[Eldrazi Obligator](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407606) |                    1|[Red Elemental Blast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=202447)|
+|                    1|[Wurmcoil Engine](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425825)   |                    1|[Pyroblast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=159243)          |
 |                    2|[Eldrazi Obligator](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407606) |                     |                                                                                              |
+|                    2|[Talisman of Impulse](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=39600)|                     |                                                                                              |
 

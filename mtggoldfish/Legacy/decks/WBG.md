@@ -31,8 +31,8 @@
 
 |*n*<sup>th</sup> copy|                                          Maindeck Card                                           |*n*<sup>th</sup> copy|Sideboard Card|
 |--------------------:|--------------------------------------------------------------------------------------------------|---------------------|--------------|
-|                    1|[Volrath's Stronghold](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397619)   |                     |              |
 |                    1|[Knight of the Reliquary](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370379)|                     |              |
+|                    1|[Volrath's Stronghold](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397619)   |                     |              |
 |                    1|[Dragonlord Dromoka](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394547)     |                     |              |
 |                    1|[Ghost Quarter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430470)          |                     |              |
 |                    1|[Swords to Plowshares](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383119)   |                     |              |
