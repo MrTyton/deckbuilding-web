@@ -49,7 +49,7 @@
 |                    4|[Vraska's Contempt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435283)      |                     |                                                                                               |
 |                    4|[Assassin's Trophy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452902)      |                     |                                                                                               |
 |                    3|[Sinister Sabotage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452804)      |                     |                                                                                               |
+|                    3|[Vraska, Relic Seeker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435388)   |                     |                                                                                               |
 |                    4|[Disinformation Campaign](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452917)|                     |                                                                                               |
 |                    4|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439602)                 |                     |                                                                                               |
-|                    3|[Vraska, Relic Seeker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435388)   |                     |                                                                                               |
 
