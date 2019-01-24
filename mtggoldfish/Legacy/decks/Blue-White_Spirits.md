@@ -30,7 +30,7 @@
 
 |*n*<sup>th</sup> copy|                                  Maindeck Card                                  |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
 |--------------------:|---------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
-|                    3|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439601)|                    2|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|
-|                    3|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439602)|                    1|[Force of Will](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382943)      |
+|                    3|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439602)|                    2|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|
+|                    3|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439601)|                    1|[Force of Will](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382943)      |
 |                    4|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439602)|                     |                                                                                              |
 

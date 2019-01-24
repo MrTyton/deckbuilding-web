@@ -33,7 +33,7 @@
 |*n*<sup>th</sup> copy|                                       Maindeck Card                                       |*n*<sup>th</sup> copy|                                         Sideboard Card                                         |
 |--------------------:|-------------------------------------------------------------------------------------------|--------------------:|------------------------------------------------------------------------------------------------|
 |                    2|[Misty Rainforest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426065)|                    1|[Venser, Shaper Savant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425880)|
-|                    1|[Counterspell](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382897)    |                     |                                                                                                |
-|                    2|[Spellseeker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446009)     |                     |                                                                                                |
 |                    1|[Spellseeker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446009)     |                     |                                                                                                |
+|                    2|[Spellseeker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446009)     |                     |                                                                                                |
+|                    1|[Counterspell](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382897)    |                     |                                                                                                |
 
