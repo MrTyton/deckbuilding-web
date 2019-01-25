@@ -36,8 +36,8 @@
 
 |*n*<sup>th</sup> copy|                                         Maindeck Card                                         |*n*<sup>th</sup> copy|                                          Sideboard Card                                          |
 |--------------------:|-----------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------------|
-|                    2|[Scalding Tarn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426069)       |                    1|[Gigadrowse](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=96864)              |
-|                    2|[Misty Rainforest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426065)    |                    1|[Chill](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=4692)                    |
+|                    2|[Misty Rainforest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426065)    |                    1|[Gigadrowse](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=96864)              |
+|                    2|[Scalding Tarn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426069)       |                    1|[Chill](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=4692)                    |
 |                    1|[Wipe Away](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=118911)           |                    1|[Pearl Lake Ancient](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386621)     |
 |                    1|[Pieces of the Puzzle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409821)|                    1|[Teferi, Mage of Zhalfir](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438641)|
 |                    1|[Candelabra of Tawnos](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=202627)|                    1|[Annul](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=10420)                   |
