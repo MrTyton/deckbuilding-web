@@ -30,8 +30,8 @@
 
 |*n*<sup>th</sup> copy|                                      Maindeck Card                                       |*n*<sup>th</sup> copy|                                     Sideboard Card                                      |
 |--------------------:|------------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------|
-|                    1|[Burning Inquiry](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=191096)|                    1|[Conflagrate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=114909)   |
-|                    2|[Burning Inquiry](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=191096)|                    1|[Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)|
+|                    1|[Burning Inquiry](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=191096)|                    1|[Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)|
+|                    2|[Burning Inquiry](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=191096)|                    1|[Conflagrate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=114909)   |
 |                    3|[Burning Inquiry](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=191096)|                    2|Driven/Despair                                                                           |
 |                    4|[Burning Inquiry](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=191096)|                     |                                                                                         |
 
