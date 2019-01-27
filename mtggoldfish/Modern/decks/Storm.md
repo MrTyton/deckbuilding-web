@@ -1,6 +1,6 @@
-# Izzet Storm
+# Storm
 
-#### [Export MTGO List](../collection/Izzet%20Storm/Izzet%20Storm.txt)
+#### [Export MTGO List](../collection/Storm/Storm.txt)
 #### [Print on decklist.org](http://decklist.org/?deckmain=4%09Baral,%20Chief%20of%20Compliance%0A4%09Desperate%20Ritual%0A1%09Empty%20the%20Warrens%0A4%09Gifts%20Ungiven%0A2%09Goblin%20Electromancer%0A2%09Grapeshot%0A3%09Island%0A4%09Manamorphose%0A1%09Mountain%0A4%09Opt%0A2%09Past%20in%20Flames%0A4%09Pyretic%20Ritual%0A2%09Remand%0A1%09Repeal%0A4%09Serum%20Visions%0A4%09Shivan%20Reef%0A4%09Sleight%20of%20Hand%0A1%09Snow-Covered%20Island%0A4%09Spirebluff%20Canal%0A4%09Steam%20Vents%0A1%09Unsubstantiate&deckside=2%09Abrade%0A1%09Dismember%0A1%09Echoing%20Truth%0A2%09Empty%20the%20Warrens%0A1%09Flame%20Slash%0A2%09Lightning%20Bolt%0A1%09Negate%0A3%09Pieces%20of%20the%20Puzzle%0A1%09Spell%20Pierce%0A1%09Wipe%20Away)
 # Maindeck
 
@@ -49,13 +49,13 @@
 |                    4|[Goblin Electromancer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425991) |                    1|[Ancestral Vision](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438608)    |
 |                    1|[Snow-Covered Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=184814)|                    2|[Ancestral Vision](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438608)    |
 |                    2|[Lightning Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=234704)       |                    2|[Flame Slash](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=368536)         |
-|                    1|[Peek](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=30686)                  |                    2|[Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447135)              |
-|                    2|[Polluted Delta](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405104)       |                    2|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706) |
+|                    1|[Peek](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=30686)                  |                    2|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706) |
+|                    2|[Polluted Delta](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405104)       |                    2|[Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447135)              |
 |                    3|[Remand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397881)               |                    2|[Shattering Spree](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=97233)     |
 |                     |                                                                                                |                    2|[Dispel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=201562)              |
 |                     |                                                                                                |                    3|[Blood Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370419)          |
-|                     |                                                                                                |                    1|[Madcap Experiment](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417695)   |
 |                     |                                                                                                |                    1|[Platinum Emperion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=215092)   |
+|                     |                                                                                                |                    1|[Madcap Experiment](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417695)   |
 |                     |                                                                                                |                    2|[Madcap Experiment](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417695)   |
 |                     |                                                                                                |                    2|[Platinum Emperion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=215092)   |
 |                     |                                                                                                |                    3|[Madcap Experiment](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417695)   |
