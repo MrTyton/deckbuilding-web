@@ -62,6 +62,6 @@
 |                    4|[Skewer the Critics](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457259)      |                    1|[Goblin Chainwhirler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443017)     |
 |                     |                                                                                                   |                    2|[Goblin Chainwhirler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443017)     |
 |                     |                                                                                                   |                    1|[Detection Tower](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447386)         |
-|                     |                                                                                                   |                    3|[Banefire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397676)                |
 |                     |                                                                                                   |                    2|[Detection Tower](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447386)         |
+|                     |                                                                                                   |                    3|[Banefire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397676)                |
 
