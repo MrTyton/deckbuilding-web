@@ -32,8 +32,8 @@
 
 |*n*<sup>th</sup> copy|                                          Maindeck Card                                          |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
 |--------------------:|-------------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
-|                    1|[Goblin Guide](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425921)          |                    1|[Skullcrack](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=366238)         |
-|                    1|[Ramunap Ruins](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430870)         |                    1|[Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426046)  |
+|                    1|[Goblin Guide](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425921)          |                    1|[Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426046)  |
+|                    1|[Ramunap Ruins](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430870)         |                    1|[Skullcrack](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=366238)         |
 |                    1|[Foundry Street Denizen](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438478)|                    1|[Goblin Rabblemaster](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438486)|
 |                    1|[Goblin Bushwhacker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=177501)    |                    1|[Goblin Heelcutter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391845)  |
 |                    1|[Legion Loyalist](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=366348)       |                    1|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|

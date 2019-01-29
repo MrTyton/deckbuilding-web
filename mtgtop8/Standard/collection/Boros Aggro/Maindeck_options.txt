@@ -1,17 +1,17 @@
-1 Mountain
-1 Aurelia, Exemplar of Justice
-4 Venerated Loxodon
-1 Pride of Conquerors
-2 Snubhorn Sentry
-3 Snubhorn Sentry
+4 Hunted Witness
+13 Plains
 2 Aurelia, Exemplar of Justice
 2 Mountain
 3 Mountain
 4 Mountain
 5 Mountain
+2 Snubhorn Sentry
+3 Snubhorn Sentry
+1 Pride of Conquerors
 1 Lava Coil
 1 Ajani, Adversary of Tyrants
 2 Ajani, Adversary of Tyrants
+4 Venerated Loxodon
 4 Snubhorn Sentry
 2 Pride of Conquerors
 1 Tajic, Legion's Edge
@@ -36,19 +36,19 @@
 6 Mountain
 7 Mountain
 8 Mountain
-1 Goblin Chainwhirler
-1 Fanatical Firebrand
 1 Lightning Strike
+1 Fanatical Firebrand
 1 Experimental Frenzy
+1 Goblin Chainwhirler
 1 Runaway Steam-Kin
-2 Goblin Chainwhirler
 2 Lightning Strike
 2 Fanatical Firebrand
 2 Experimental Frenzy
+2 Goblin Chainwhirler
 2 Runaway Steam-Kin
-3 Goblin Chainwhirler
 3 Lightning Strike
 3 Fanatical Firebrand
+3 Goblin Chainwhirler
 3 Experimental Frenzy
 3 Runaway Steam-Kin
 4 Fanatical Firebrand
@@ -62,17 +62,26 @@
 3 Dire Fleet Daredevil
 4 Dire Fleet Daredevil
 2 Shock
-2 Ixalan's Binding
 2 Boros Guildgate
+2 Ixalan's Binding
 1 Tocatli Honor Guard
 1 Lyra Dawnbringer
 2 Tocatli Honor Guard
 2 Lyra Dawnbringer
-3 Tocatli Honor Guard
 3 Lyra Dawnbringer
+3 Tocatli Honor Guard
 3 Rekindling Phoenix
 4 Lava Coil
 4 Rekindling Phoenix
+1 Temple Garden
+1 Sunpetal Grove
+1 Stomping Ground
+2 Stomping Ground
+2 Temple Garden
+3 Temple Garden
+3 Stomping Ground
+4 Temple Garden
+4 Stomping Ground
 1 Resplendent Angel
 1 Detection Tower
 1 Justice Strike
@@ -86,14 +95,14 @@
 1 Stone Quarry
 1 Sunhome Stalwart
 1 Goblin Instigator
-2 Goblin Instigator
 2 Sunhome Stalwart
+2 Goblin Instigator
 1 Ajani's Pridemate
 1 Leonin Vanguard
 1 Healer's Hawk
 2 Ajani's Pridemate
-2 Healer's Hawk
 2 Leonin Vanguard
+2 Healer's Hawk
 3 Leonin Vanguard
 3 Healer's Hawk
 3 Pride of Conquerors
@@ -124,28 +133,19 @@
 3 Knight of Grace
 4 Knight of Grace
 4 Tajic, Legion's Edge
-1 Temple Garden
-1 Sunpetal Grove
 1 Rhythm of the Wild
 1 Rootbound Crag
 1 Growth-Chamber Guardian
 1 Gruul Spellbreaker
-1 Stomping Ground
 2 Sunpetal Grove
 2 Rhythm of the Wild
 2 Gruul Spellbreaker
 2 Rootbound Crag
-2 Temple Garden
-2 Stomping Ground
 2 Growth-Chamber Guardian
-3 Temple Garden
 3 Rhythm of the Wild
 3 Sunpetal Grove
 3 Growth-Chamber Guardian
-3 Stomping Ground
-4 Temple Garden
 4 Sunpetal Grove
-4 Stomping Ground
 4 Growth-Chamber Guardian
 1 Viashino Pyromancer
 1 Integrity / Intervention
@@ -158,6 +158,30 @@
 3 Integrity / Intervention
 4 Viashino Pyromancer
 4 Goblin Banneret
+1 Forest
+1 Emmara, Soul of the Accord
+1 Flower / Flourish
+1 Trostani Discordant
+1 March of the Multitudes
+1 Shanna, Sisay's Legacy
+1 Footlight Fiend
+1 Hero of Precinct One
+2 Emmara, Soul of the Accord
+2 Flower / Flourish
+2 Trostani Discordant
+2 March of the Multitudes
+2 Footlight Fiend
+2 Shanna, Sisay's Legacy
+2 Hero of Precinct One
+3 March of the Multitudes
+3 Flower / Flourish
+3 Emmara, Soul of the Accord
+3 Hero of Precinct One
+3 Footlight Fiend
+4 Flower / Flourish
+4 March of the Multitudes
+4 Footlight Fiend
+4 Hero of Precinct One
 1 Fiery Cannonade
 1 Fight with Fire
 1 Rigging Runner

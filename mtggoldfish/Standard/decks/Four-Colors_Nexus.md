@@ -25,3 +25,14 @@
 |3 [Knight of Autumn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452933)|4 [Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447135)         |
 |2 [Lyra Dawnbringer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442914)|                                                                                            |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                          Maindeck Card                                           |*n*<sup>th</sup> copy|                                        Sideboard Card                                         |
+|--------------------:|--------------------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------------|
+|                    1|[Dawn of Hope](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452758)           |                    1|[Disdainful Stroke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446776)   |
+|                    2|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439602)                 |                    1|[Nezahal, Primal Tide](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439702)|
+|                    2|[Precognitive Perception](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457189)|                    2|[Nezahal, Primal Tide](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439702)|
+|                    3|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439602)                 |                    2|[Disdainful Stroke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446776)   |
+|                     |                                                                                                  |                    3|[Lyra Dawnbringer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442914)    |
+

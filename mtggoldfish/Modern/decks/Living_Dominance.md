@@ -25,3 +25,19 @@
 |                                                                                          |                                                                                            |2 [Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447135)               |                                                                                                    |                                                                                              |
 |                                                                                          |                                                                                            |2 [Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)  |                                                                                                    |                                                                                              |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                         Maindeck Card                                          |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
+|--------------------:|------------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
+|                    1|[Faerie Macabre](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370410)       |                    1|[Echoing Truth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370394)      |
+|                    1|[Chalice of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370411)  |                    1|[Magma Spray](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=338470)        |
+|                    1|[Nimble Obstructionist](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430729)|                    1|[Chalice of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370411)|
+|                    1|[Izzet Charm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425996)          |                    1|[Ingot Chewer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=393845)       |
+|                    2|[Architects of Will](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220517)   |                    1|[Bottle Gnomes](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129495)      |
+|                    3|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439602)               |                    1|[Drake Haven](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426753)        |
+|                    4|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439602)               |                    2|[Magma Spray](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=338470)        |
+|                    4|[As Foretold](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426744)          |                    2|[Ingot Chewer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=393845)       |
+|                    4|[Living End](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=113521)           |                    2|[Bottle Gnomes](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129495)      |
+|                     |                                                                                                |                    3|[Bottle Gnomes](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129495)      |
+

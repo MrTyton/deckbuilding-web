@@ -27,3 +27,17 @@
 |                                                                                          |                                                                                        |3 [Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447135)         |                                                                                      |               |
 |                                                                                          |                                                                                        |2 [Shivan Fire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443030)    |                                                                                      |               |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                        Maindeck Card                                        |*n*<sup>th</sup> copy|                                        Sideboard Card                                         |
+|--------------------:|---------------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------------|
+|                    1|[Gateway Plaza](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452997)     |                    1|[Nezahal, Primal Tide](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439702)|
+|                    1|[Deafening Clarion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452915) |                    1|[Mass Manipulation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457186)   |
+|                    2|[Selesnya Guildgate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426071)|                    2|[Nezahal, Primal Tide](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439702)|
+|                    2|[Gateway Plaza](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452997)     |                    2|[Mass Manipulation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457186)   |
+|                    2|[Azorius Guildgate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376256) |                    3|[Nezahal, Primal Tide](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439702)|
+|                    3|[Selesnya Guildgate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426071)|                    4|[Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447135)              |
+|                    3|[Azorius Guildgate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376256) |                    4|[Nezahal, Primal Tide](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439702)|
+|                    2|[Deafening Clarion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452915) |                     |                                                                                               |
+
