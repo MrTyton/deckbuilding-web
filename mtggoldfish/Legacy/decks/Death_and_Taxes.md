@@ -108,8 +108,8 @@
 |                    3|[Flooded Strand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405098)         |                     |                                                                                                   |
 |                    3|[Kitesail Freebooter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435264)    |                     |                                                                                                   |
 |                    4|[Flooded Strand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405098)         |                     |                                                                                                   |
-|                    4|[Palace Jailer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416775)          |                     |                                                                                                   |
 |                    1|[Knight of Grace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442911)        |                     |                                                                                                   |
 |                   12|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439601)                 |                     |                                                                                                   |
 |                   13|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439601)                 |                     |                                                                                                   |
+|                    4|[Palace Jailer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416775)          |                     |                                                                                                   |
 
