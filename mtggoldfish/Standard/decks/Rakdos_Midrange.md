@@ -31,8 +31,8 @@
 
 |*n*<sup>th</sup> copy|                                           Maindeck Card                                           |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
 |--------------------:|---------------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
-|                    3|[Ravenous Chupacabra](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442093)     |                    1|[Legion Warboss](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452859)     |
-|                    3|[Legion Warboss](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452859)          |                    2|[Legion Warboss](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452859)     |
+|                    3|[Legion Warboss](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452859)          |                    1|[Legion Warboss](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452859)     |
+|                    3|[Ravenous Chupacabra](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442093)     |                    2|[Legion Warboss](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452859)     |
 |                    3|[Footlight Fiend](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457360)         |                    3|[Legion Warboss](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452859)     |
 |                    4|[Footlight Fiend](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457360)         |                    3|[Banefire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397676)           |
 |                    1|[Goblin Instigator](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447278)       |                    4|[Legion Warboss](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452859)     |

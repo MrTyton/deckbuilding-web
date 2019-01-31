@@ -135,7 +135,7 @@
 |                    3|[Eidolon of the Great Revel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442117)|                     |                                                                                                |
 |                    3|[Fireblast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=234736)                 |                     |                                                                                                |
 |                    3|[Wooded Foothills](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405116)          |                     |                                                                                                |
-|                    4|[Arid Mesa](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426054)                 |                     |                                                                                                |
 |                    4|[Bloodstained Mire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405094)         |                     |                                                                                                |
+|                    4|[Arid Mesa](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426054)                 |                     |                                                                                                |
 |                    4|[Wooded Foothills](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405116)          |                     |                                                                                                |
 
