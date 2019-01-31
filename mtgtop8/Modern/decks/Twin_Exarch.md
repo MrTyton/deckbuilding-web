@@ -32,7 +32,20 @@
 
 # Other Options
 
-|*n*<sup>th</sup> copy|Maindeck Card|*n*<sup>th</sup> copy|                                         Sideboard Card                                          |
-|---------------------|-------------|--------------------:|-------------------------------------------------------------------------------------------------|
-|                     |             |                    1|[Keranos, God of Storms](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=380442)|
+|*n*<sup>th</sup> copy|                                           Maindeck Card                                            |*n*<sup>th</sup> copy|                                         Sideboard Card                                          |
+|--------------------:|----------------------------------------------------------------------------------------------------|--------------------:|-------------------------------------------------------------------------------------------------|
+|                    1|[Hieroglyphic Illumination](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426759)|                    1|[Keranos, God of Storms](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=380442)|
+|                    1|[Peek](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=30686)                      |                    1|[Collective Brutality](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414380)  |
+|                    1|[Nihil Spellbomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442215)          |                    1|[Rakdos Charm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=433122)          |
+|                    1|[Spell Pierce](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425876)             |                    1|[Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)                |
+|                    1|[Creeping Tar Pit](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=177520)         |                    1|[Alpine Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447264)           |
+|                    1|[Cascade Bluffs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442226)           |                    1|[Ravenous Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197537)         |
+|                    2|[Peek](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=30686)                      |                    1|[Unmoored Ego](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452962)          |
+|                    2|[Nihil Spellbomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442215)          |                    2|[Collective Brutality](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414380)  |
+|                    2|[Spell Pierce](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425876)             |                    2|[Alpine Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447264)           |
+|                    2|[Fatal Push](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423724)               |                    2|[Ravenous Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197537)         |
+|                    2|[Kolaghan's Command](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394613)       |                    1|[Dismember](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397830)             |
+|                    4|[Polluted Delta](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405104)           |                     |                                                                                                 |
+|                    4|[Lightning Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=234704)           |                     |                                                                                                 |
+|                    2|[Hieroglyphic Illumination](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426759)|                     |                                                                                                 |
 

@@ -34,8 +34,8 @@
 
 |*n*<sup>th</sup> copy|                                       Maindeck Card                                       |*n*<sup>th</sup> copy|                                      Sideboard Card                                       |
 |--------------------:|-------------------------------------------------------------------------------------------|--------------------:|-------------------------------------------------------------------------------------------|
-|                    2|[Scalding Tarn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426069)   |                    1|[Defense Grid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425805)    |
-|                    2|[Misty Rainforest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426065)|                    1|[Meditate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397394)        |
+|                    2|[Misty Rainforest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426065)|                    1|[Defense Grid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425805)    |
+|                    2|[Scalding Tarn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426069)   |                    1|[Meditate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397394)        |
 |                     |                                                                                           |                    2|[Defense Grid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425805)    |
 |                     |                                                                                           |                    1|[Pact of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370354)|
 
