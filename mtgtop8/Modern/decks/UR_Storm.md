@@ -56,7 +56,7 @@
 |                     |                                                                                               |                    3|[Madcap Experiment](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417695)   |
 |                     |                                                                                               |                    4|[Madcap Experiment](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417695)   |
 |                     |                                                                                               |                    1|[Shattering Spree](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=97233)     |
-|                     |                                                                                               |                    2|[Dispel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=201562)              |
 |                     |                                                                                               |                    2|[Shattering Spree](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=97233)     |
+|                     |                                                                                               |                    2|[Dispel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=201562)              |
 |                     |                                                                                               |                    3|[Blood Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370419)          |
 

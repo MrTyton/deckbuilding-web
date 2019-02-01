@@ -78,7 +78,7 @@
 |                     |                                                                                                |                    4|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205013)      |
 |                     |                                                                                                |                    1|[By Force](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426825)                 |
 |                     |                                                                                                |                    1|[Defense Grid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425805)             |
-|                     |                                                                                                |                    2|[Defense Grid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425805)             |
 |                     |                                                                                                |                    2|[Boseiju, Who Shelters All](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=291507)|
+|                     |                                                                                                |                    2|[Defense Grid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425805)             |
 |                     |                                                                                                |                    2|[By Force](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426825)                 |
 

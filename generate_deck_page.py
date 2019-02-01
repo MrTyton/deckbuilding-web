@@ -27,7 +27,7 @@ def return_url_line_type(cardName):
         url_string, card_type, name = memoizer[name]
         url_string = f"{quantity} {url_string}"
         return url_string, card_type, name
-    cards = Card.where(name=name).iter()
+    cards = Card.where(name=name.split("/")[0]).iter()
     try:
         card = next(cards)
         while(("Land" not in card.type and "Creature" not in card.type and "Sorcery" not in card.type and "Instant" not in card.type and "Enchantment" not in card.type and "Artifact" not in card.type and "Planeswalker" not in card.type) or (not card.multiverse_id) or (not card.name.lower().strip() == name.lower().strip())):

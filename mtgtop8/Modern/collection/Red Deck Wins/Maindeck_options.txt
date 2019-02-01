@@ -1,26 +1,22 @@
-3 Arid Mesa
-2 Grim Lavamancer
-1 Stomping Ground
-4 Mountain
-1 Shard Volley
-1 Scalding Tarn
 1 Skewer the Critics
 2 Skewer the Critics
 3 Skewer the Critics
 4 Skewer the Critics
-4 Arid Mesa
-3 Sacred Foundry
+4 Mountain
+3 Arid Mesa
+1 Shard Volley
+2 Grim Lavamancer
+1 Stomping Ground
 5 Mountain
-2 Scalding Tarn
-2 Shard Volley
-1 Light Up the Stage
-2 Light Up the Stage
-3 Light Up the Stage
-4 Light Up the Stage
 6 Mountain
 7 Mountain
 8 Mountain
 9 Mountain
+2 Shard Volley
+1 Scalding Tarn
+1 Light Up the Stage
+2 Light Up the Stage
+3 Light Up the Stage
 10 Mountain
 11 Mountain
 12 Mountain
@@ -53,6 +49,10 @@
 4 Fiery Temper
 4 Faithless Looting
 17 Mountain
+4 Arid Mesa
+3 Sacred Foundry
+3 Gut Shot
+4 Light Up the Stage
 1 Desperate Ritual
 1 Maximize Velocity
 1 Soul-Scar Mage
@@ -61,7 +61,6 @@
 2 Soul-Scar Mage
 3 Desperate Ritual
 3 Maximize Velocity
-3 Gut Shot
 3 Soul-Scar Mage
 4 Bedlam Reveler
 3 Shard Volley
@@ -75,6 +74,7 @@
 3 Blackcleave Cliffs
 4 Bump in the Night
 1 Ramunap Ruins
+2 Scalding Tarn
 3 Scalding Tarn
 1 Exquisite Firecraft
 1 Lightning Axe
@@ -128,13 +128,16 @@
 3 Atarka's Command
 4 Wild Nacatl
 4 Atarka's Command
+1 Forked Bolt
+2 Forked Bolt
+18 Mountain
 1 Mutavault
 1 Goblin Motivator
-1 Krenko, Mob Boss
 1 Blood Moon
 1 Legion Warboss
 1 Goblin Chieftain
 1 Siege-Gang Commander
+1 Krenko, Mob Boss
 1 Goblin Trashmaster
 1 Skirk Prospector
 1 Cavern of Souls
