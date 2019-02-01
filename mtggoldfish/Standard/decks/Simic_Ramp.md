@@ -1,0 +1,27 @@
+# Simic Ramp
+
+#### [Export MTGO List](../collection/Simic%20Ramp/Simic%20Ramp.txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=2%09Beast%20Whisperer%0A4%09Breeding%20Pool%0A2%09District%20Guide%0A4%09Druid%20of%20the%20Cowl%0A11%09Forest%0A4%09Growth-Chamber%20Guardian%0A4%09Hinterland%20Harbor%0A4%09Hydroid%20Krasis%0A4%09Incubation%20Druid%0A3%09Incubation/Incongruity%0A1%09Island%0A4%09Llanowar%20Elves%0A3%09Marwyn,%20the%20Nurturer%0A4%09Steel%20Leaf%20Champion%0A4%09Stony%20Strength%0A2%09Unclaimed%20Territory&deckside=3%09Kraul%20Harpooner%0A3%09Negate%0A4%09Nullhide%20Ferox%0A2%09Spell%20Pierce%0A3%09Thrashing%20Brontodon)
+# Maindeck
+
+|                                           Creature (31)                                            |                                        Instant (4)                                        |                                           Land (22)                                            |      Unknown (3)       |
+|----------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|------------------------|
+|2 [Beast Whisperer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452873)        |4 [Stony Strength](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457287)|4 [Breeding Pool](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=97088)       |3 Incubation/Incongruity|
+|2 [District Guide](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452878)         |                                                                                           |11 [Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129559)            |                        |
+|4 [Druid of the Cowl](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423773)      |                                                                                           |4 [Hinterland Harbor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443128)  |                        |
+|4 [Growth-Chamber Guardian](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457272)|                                                                                           |1 [Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129606)             |                        |
+|4 [Hydroid Krasis](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457327)         |                                                                                           |2 [Unclaimed Territory](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435419)|                        |
+|4 [Incubation Druid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457275)       |                                                                                           |                                                                                                |                        |
+|4 [Llanowar Elves](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129626)         |                                                                                           |                                                                                                |                        |
+|3 [Marwyn, the Nurturer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443060)   |                                                                                           |                                                                                                |                        |
+|4 [Steel Leaf Champion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443070)    |                                                                                           |                                                                                                |                        |
+
+
+# Sideboard
+
+|                                         Creature (10)                                          |                                       Instant (5)                                       |
+|------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
+|3 [Kraul Harpooner](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452886)    |3 [Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)      |
+|4 [Nullhide Ferox](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452888)     |2 [Spell Pierce](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425876)|
+|3 [Thrashing Brontodon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456570)|                                                                                         |
+
