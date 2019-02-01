@@ -38,7 +38,7 @@
 |                    3|[Treasure Map](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435410)       |                     |                                                                                               |
 |                    3|[Assassin's Trophy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452902)  |                     |                                                                                               |
 |                    3|[Karn, Scion of Urza](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442889)|                     |                                                                                               |
-|                    4|[Vraska's Contempt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435283)  |                     |                                                                                               |
 |                    4|[Assassin's Trophy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452902)  |                     |                                                                                               |
+|                    4|[Vraska's Contempt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435283)  |                     |                                                                                               |
 |                    4|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439603)              |                     |                                                                                               |
 

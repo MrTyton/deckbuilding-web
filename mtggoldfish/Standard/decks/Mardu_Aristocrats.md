@@ -23,3 +23,21 @@
 |1 [Midnight Reaper](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452827)|2 [Ethereal Absolution](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457314)|2 [Angrath, the Flame-Chained](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439809)|4 [Drill Bit](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457217)|
 |2 [Plaguecrafter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452832)  |1 [Theater of Horrors](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457357) |                                                                                                       |3 [Lava Coil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452858)|
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                         Maindeck Card                                          |*n*<sup>th</sup> copy|                                 Sideboard Card                                  |
+|--------------------:|------------------------------------------------------------------------------------------------|--------------------:|---------------------------------------------------------------------------------|
+|                    1|[Fireblade Artist](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457316)     |                    1|[Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=270465)|
+|                    1|[Heroic Reinforcements](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447353)|                    2|[Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=270465)|
+|                    2|[Heroic Reinforcements](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447353)|                    3|[Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=270465)|
+|                    2|[Theater of Horrors](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457357)   |                    4|[Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=270465)|
+|                    2|[Fireblade Artist](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457316)     |                     |                                                                                 |
+|                    2|[Dragonskull Summit](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420909)   |                     |                                                                                 |
+|                    3|[Heroic Reinforcements](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447353)|                     |                                                                                 |
+|                    3|[Fireblade Artist](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457316)     |                     |                                                                                 |
+|                    3|[Mortify](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420829)              |                     |                                                                                 |
+|                    3|[Dragonskull Summit](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420909)   |                     |                                                                                 |
+|                    4|[Heroic Reinforcements](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447353)|                     |                                                                                 |
+|                    4|[Fireblade Artist](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457316)     |                     |                                                                                 |
+
