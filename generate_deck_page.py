@@ -120,10 +120,8 @@ def create_arena_export(title, site, format):
     log(f"Opening ./{site}/{format}/collection/{title.replace(' ', '%20')}/{title.replace(' ', '%20')}.txt")
     with open(f"./{site}/{format}/collection/{title.replace(' ', '%20')}/{title.replace(' ', '%20')}.txt", "r") as fp:
         data = fp.readlines()
-        print(data)
     results = []
     log(len(data))
-    log(data)
     for line in data:
         if line == Sideboard:
             results.append("\n")
@@ -132,12 +130,13 @@ def create_arena_export(title, site, format):
         log(name)
         global memoizer
         if name in memoizer:
-            print("Found it")
+            log("Found it")
             url_string, card_type, name, last_set, number = memoizer[name]
-            print(url_string, card_type, name, last_set, number)
+            log(url_string, card_type, name, last_set, number)
         else:
+            log("Didn't find it")
             continue
-        results.append(f"{line.replace('/', '//')} ({last_set}) {number}\n")
+        results.append(f"{line.replace('/', '//').strip()} ({last_set}) {number}\n")
     with open(f"./{site}/{format}/collection/{title.replace(' ', '%20')}/{title.replace(' ', '%20')}_arena.txt", "w") as fp:
         log(f"Writing to: ./{site}/{format}/collection/{title.replace(' ', '%20')}/{title.replace(' ', '%20')}_arena.txt")
         fp.writelines(results)
