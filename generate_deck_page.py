@@ -1,4 +1,4 @@
-from mtgsdk import Card
+from mtgsdk import Card, Set
 from itertools import groupby, zip_longest
 import pytablewriter
 from io import StringIO
@@ -56,7 +56,7 @@ def return_url_line_type(cardName):
     try:
         number = Card.where(name=name.split("/")[0], set=last_set).all()[0].number
     except:
-        number=0
+        number = 0
     if last_set == "DOM":
         last_set = "DAR"
     memoizer[name] = "[{}]({})".format(name, url), card_type, name, last_set, number
@@ -116,30 +116,7 @@ def merge_markdown_tables(input1, input2, title):
     writer.write_table()
     return res
 
-def create_arena_export(title, site, format):
-    global memoizer
-    log(memoizer.keys())
-    with open(f"./{site}/{format}/collection/{title}/{title}.txt", "r") as fp:
-        data = fp.readlines()
-    results = []
-    for line in data:
-        if line == "Sideboard":
-            results.append("\n")
-            continue
-        name = line.split(" ", 1)[1].strip()
-        #log(name)
-        #global memoizer
-        if name in memoizer:
-            url_string, card_type, name, last_set, number = memoizer[name]
-            log(url_string, card_type, name, last_set, number)
-            results.append(f"{line.replace('/', '//').strip()} ({last_set}) {number}\n")
-        else:
-            continue
-    log(results)
-    with open(f"./{site}/{format}/collection/{title}/{title}_arena.txt", "w") as fp:
-        log(f"Writing to: ./{site}/{format}/collection/{title}/{title}_arena.txt")
-        fp.writelines(results)
-        
+
 def run(title, dir, format, site):
     everything = f"# {title}\n\n#### [Export MTGO List](../collection/{title.replace(' ', '%20')}/{title.replace(' ', '%20')}.txt)"
     maindeckString = ""
@@ -177,10 +154,6 @@ def run(title, dir, format, site):
         everything += "\n" + q.getvalue()
     else:
         log("\t\tNo other options for maindeck or sideboard", 'warning')
-    log(format == "Standard")
-    if format == "Standard":
-        create_arena_export(title, site, format)
-        everything += f"# {title}\n\n#### [Export Arena List](../collection/{title.replace(' ', '%20')}/{title.replace(' ', '%20')}_arena.txt)"
 
     if not exists(f"./{site}/{format}/decks"):
         makedirs(f"./{site}/{format}/decks")
@@ -188,11 +161,10 @@ def run(title, dir, format, site):
         fp.write(everything)
 
 
-
 if __name__ == "__main__":
     start = time()
     for site in ["mtggoldfish", "mtgtop8"]:
-        for format in ["Standard",]:
+        for format in ["Standard"]#, "Modern", "Legacy"]:
             d = f'./{site}/{format}/collection'
             archetypes = [(o, os.path.join(d, o)) for o in os.listdir(d)
                           if os.path.isdir(os.path.join(d, o))]
@@ -202,6 +174,7 @@ if __name__ == "__main__":
                     run(title, dir, format, site)
                 except:
                     continue
-    with open("./data/card_backup.pkl", "wb") as fp:
-        pickle.dump(memoizer, fp)
+
+            with open("./data/card_backup.pkl", "wb") as fp:
+                pickle.dump(memoizer, fp)
     log(f"Time for generating decklists: {str(datetime.timedelta(seconds=time()-start))}")
