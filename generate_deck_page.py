@@ -52,7 +52,14 @@ def return_url_line_type(cardName):
         card_type = "Planeswalker"
     else:
         card_type = "Unknown"
-    memoizer[name] = "[{}]({})".format(name, url), card_type, name
+	last_set = [x for x in card.printings if Set.find(x).type in ['expansion', 'core']][-1]
+	try:
+		number = Card.where(name=name.split("/")[0], set=last_set).all()[0].number
+	except:
+		number=0
+    if last_set == "DOM":
+        last_set = "DAR"
+    memoizer[name] = "[{}]({})".format(name, url), card_type, name, last_set, number
     return "{} [{}]({})".format(quantity, name, url), card_type, name
 
 
@@ -109,9 +116,30 @@ def merge_markdown_tables(input1, input2, title):
     writer.write_table()
     return res
 
-
+def create_arena_export(title, site, format):
+    with open(f"./{site}/{format}/decks/collection/{title.replace(' ', '%20')}/{title.replace(' ', '%20'}.txt)", "r") as fp:
+		data = fp.readlines()
+	results = []
+	for line in data:
+		if line == Sideboard:
+			results.append("\n")
+			continue
+		name = line.split(" ", 1)[1]
+		global memoizer
+		if name in memoizer:
+			url_string, card_type, name, last_set, number = memoizer[name]
+        else:
+            continue
+        results.append(f"{line.replace('/', '//')} ({last_set}) {number}\n")
+    
+    with open(f"./{site}/{format}/decks/collection/{title.replace(' ', '%20')}/{title.replace(' ', '%20'}_arena.txt)", "w") as fp:
+        fp.writelines(results)
+        
 def run(title, dir, format, site):
     everything = f"# {title}\n\n#### [Export MTGO List](../collection/{title.replace(' ', '%20')}/{title.replace(' ', '%20')}.txt)"
+    if format == "Standard":
+        create_arena_export(title, dir, format)
+        everything += f"# {title}\n\n#### [Export Arena List](../collection/{title.replace(' ', '%20')}/{title.replace(' ', '%20')}_arena.txt)"
     maindeckString = ""
     sideboardString = ""
     other = ""
@@ -152,6 +180,7 @@ def run(title, dir, format, site):
         makedirs(f"./{site}/{format}/decks")
     with open(f"./{site}/{format}/decks/{title.replace(' ', '_')}.md", "w") as fp:
         fp.write(everything)
+
 
 
 if __name__ == "__main__":
