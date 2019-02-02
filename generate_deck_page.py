@@ -128,7 +128,7 @@ def create_arena_export(title, site, format):
             continue
         name = line.split(" ", 1)[1].strip()
         log(name)
-        global memoizer
+        #global memoizer
         if name in memoizer:
             log("Found it")
             url_string, card_type, name, last_set, number = memoizer[name]
