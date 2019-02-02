@@ -203,7 +203,6 @@ if __name__ == "__main__":
                     run(title, dir, format, site)
                 except:
                     continue
-    global memoizer
     with open("./data/card_backup.pkl", "wb") as fp:
         pickle.dump(memoizer, fp)
     log(f"Time for generating decklists: {str(datetime.timedelta(seconds=time()-start))}")
