@@ -118,11 +118,12 @@ def merge_markdown_tables(input1, input2, title):
 
 def create_arena_export(title, site, format):
     log("WATAP PEOPLE")
-    log("Opening ./{site}/{format}/decks/collection/{title.replace(' ', '%20')}/{title.replace(' ', '%20')}.txt")
+    log(f"Opening ./{site}/{format}/decks/collection/{title.replace(' ', '%20')}/{title.replace(' ', '%20')}.txt")
     with open(f"./{site}/{format}/decks/collection/{title.replace(' ', '%20')}/{title.replace(' ', '%20')}.txt", "r") as fp:
         data = fp.readlines()
     results = []
     log(len(data))
+    log(data)
     for line in data:
         if line == Sideboard:
             results.append("\n")
