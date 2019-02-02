@@ -127,17 +127,19 @@ def create_arena_export(title, site, format):
         name = line.split(" ", 1)[1]
         global memoizer
         if name in memoizer:
+            print("Found it")
             url_string, card_type, name, last_set, number = memoizer[name]
+            print(url_string, card_type, name, last_set, number)
         else:
             continue
         results.append(f"{line.replace('/', '//')} ({last_set}) {number}\n")
-    
     with open(f"./{site}/{format}/decks/collection/{title.replace(' ', '%20')}/{title.replace(' ', '%20')}_arena.txt", "w") as fp:
         fp.writelines(results)
         
 def run(title, dir, format, site):
     everything = f"# {title}\n\n#### [Export MTGO List](../collection/{title.replace(' ', '%20')}/{title.replace(' ', '%20')}.txt)"
     if format == "Standard":
+        print("Hi working on standard")
         create_arena_export(title, dir, format)
         everything += f"# {title}\n\n#### [Export Arena List](../collection/{title.replace(' ', '%20')}/{title.replace(' ', '%20')}_arena.txt)"
     maindeckString = ""
