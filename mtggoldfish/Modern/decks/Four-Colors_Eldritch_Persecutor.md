@@ -25,13 +25,13 @@
 
 # Sideboard
 
-|                                            Creature (9)                                            |                                       Sorcery (5)                                       |   Unknown (1)    |
-|----------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|------------------|
-|1 [Distended Mindbender](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414292)   |2 [Damnation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425888)   |1 Crime/Punishment|
-|1 [Gonti, Lord of Luxury](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417657)  |3 [Unmoored Ego](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452962)|                  |
-|2 [Heartwood Storyteller](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=132216)  |                                                                                         |                  |
-|1 [Master of the Wild Hunt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442170)|                                                                                         |                  |
-|1 [Obstinate Baloth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438745)       |                                                                                         |                  |
-|2 [Reclamation Sage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389651)       |                                                                                         |                  |
-|1 [Thrun, the Last Troll](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=214050)  |                                                                                         |                  |
+|                                            Creature (9)                                            |                                         Sorcery (6)                                         |
+|----------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|
+|1 [Distended Mindbender](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414292)   |1 [Crime/Punishment](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107285)|
+|1 [Gonti, Lord of Luxury](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417657)  |2 [Damnation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425888)       |
+|2 [Heartwood Storyteller](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=132216)  |3 [Unmoored Ego](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452962)    |
+|1 [Master of the Wild Hunt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442170)|                                                                                             |
+|1 [Obstinate Baloth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438745)       |                                                                                             |
+|2 [Reclamation Sage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389651)       |                                                                                             |
+|1 [Thrun, the Last Troll](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=214050)  |                                                                                             |
 

@@ -67,6 +67,6 @@
 |                     |                                                                                                    |                    3|[Thalia, Guardian of Thraben](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442025)|
 |                     |                                                                                                    |                    4|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)              |
 |                     |                                                                                                    |                    4|[Stony Silence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=247425)              |
-|                     |                                                                                                    |                    1|Repudiate/Replicate                                                                                   |
-|                     |                                                                                                    |                    2|Repudiate/Replicate                                                                                   |
+|                     |                                                                                                    |                    1|[Repudiate/Replicate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457371)        |
+|                     |                                                                                                    |                    2|[Repudiate/Replicate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457371)        |
 

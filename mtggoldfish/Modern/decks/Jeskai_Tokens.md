@@ -20,10 +20,11 @@
 
 # Sideboard
 
-|                                     Enchantment (3)                                      |                                           Instant (10)                                           |Unknown (2)|
-|------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|-----------|
-|3 [Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)|2 [Celestial Purge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=183055)      |2 Wear/Tear|
-|                                                                                          |3 [Ceremonious Rejection](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417613)|           |
-|                                                                                          |1 [Dispel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401858)               |           |
-|                                                                                          |4 [Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)               |           |
+|                                     Enchantment (3)                                      |                                           Instant (12)                                           |
+|------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
+|3 [Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)|2 [Celestial Purge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=183055)      |
+|                                                                                          |3 [Ceremonious Rejection](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417613)|
+|                                                                                          |1 [Dispel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401858)               |
+|                                                                                          |4 [Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)               |
+|                                                                                          |2 [Wear/Tear](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=368950)            |
 

@@ -14,10 +14,10 @@
 
 # Sideboard
 
-|                                          Creature (4)                                           |                                    Enchantment (4)                                     |                                     Sorcery (3)                                      |    Unknown (4)     |
-|-------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|--------------------|
-|2 [Dire Fleet Daredevil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439756)|4 [Cindervines](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457305)|3 [Lava Coil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452858)|4 Collision/Colossus|
-|2 [Rekindling Phoenix](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439768)  |                                                                                        |                                                                                      |                    |
+|                                          Creature (4)                                           |                                    Enchantment (4)                                     |                                          Instant (4)                                          |                                     Sorcery (3)                                      |
+|-------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
+|2 [Dire Fleet Daredevil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439756)|4 [Cindervines](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457305)|4 [Collision/Colossus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457367)|3 [Lava Coil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452858)|
+|2 [Rekindling Phoenix](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439768)  |                                                                                        |                                                                                               |                                                                                      |
 
 
 # Other Options
