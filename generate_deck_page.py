@@ -54,7 +54,7 @@ def return_url_line_type(cardName):
         card_type = "Unknown"
     last_set = [x for x in card.printings if Set.find(x).type in ['expansion', 'core']][-1]
     try:
-        number = ''.join(q for q in [x for x in Card.where(name=name.split("/")[0], set=last_set).all() where x.name == name.split("/")[0]][0].number if c.isdigit())
+        number = [x for x in Card.where(name=name.split("/")[0], set=last_set).all() where x.name == name.split("/")[0]][0].number
     except:
         number = 0
     if last_set == "DOM":
