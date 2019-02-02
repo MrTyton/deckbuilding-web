@@ -1,6 +1,8 @@
 # Bant Control
 
-#### [Export MTGO List](../collection/Bant%20Control/Bant%20Control.txt)
+#### [Export MTGO List](../collection/Bant%20Control/Bant%20Control.txt)# Bant Control
+
+#### [Export Arena List](../collection/Bant%20Control/Bant%20Control_arena.txt)
 #### [Print on decklist.org](http://decklist.org/?deckmain=4%09Absorb%0A2%09Angel%20of%20Grace%0A2%09Breeding%20Pool%0A4%09Chemister's%20Insight%0A2%09Cleansing%20Nova%0A1%09Forest%0A3%09Frilled%20Mystic%0A4%09Glacial%20Fortress%0A4%09Growth%20Spiral%0A4%09Hallowed%20Fountain%0A4%09Hinterland%20Harbor%0A3%09Hydroid%20Krasis%0A2%09Island%0A1%09Plains%0A2%09Seal%20Away%0A2%09Search%20for%20Azcanta%0A3%09Sunpetal%20Grove%0A2%09Syncopate%0A4%09Teferi,%20Hero%20of%20Dominaria%0A4%09Temple%20Garden%0A3%09Wilderness%20Reclamation&deckside=1%09Angel%20of%20Grace%0A1%09Crushing%20Canopy%0A3%09Deputy%20of%20Detention%0A2%09Disdainful%20Stroke%0A3%09Knight%20of%20Autumn%0A2%09Lyra%20Dawnbringer%0A3%09Negate)
 # Maindeck
 

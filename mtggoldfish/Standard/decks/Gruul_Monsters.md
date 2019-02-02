@@ -1,6 +1,8 @@
 # Gruul Monsters
 
-#### [Export MTGO List](../collection/Gruul%20Monsters/Gruul%20Monsters.txt)
+#### [Export MTGO List](../collection/Gruul%20Monsters/Gruul%20Monsters.txt)# Gruul Monsters
+
+#### [Export Arena List](../collection/Gruul%20Monsters/Gruul%20Monsters_arena.txt)
 #### [Print on decklist.org](http://decklist.org/?deckmain=2%09Adventurous%20Impulse%0A4%09Carnage%20Tyrant%0A4%09Commune%20with%20Dinosaurs%0A4%09Drover%20of%20the%20Mighty%0A8%09Forest%0A4%09Jadelight%20Ranger%0A4%09Llanowar%20Elves%0A2%09Mountain%0A4%09Otepec%20Huntmaster%0A4%09Regisaur%20Alpha%0A4%09Ripjaw%20Raptor%0A4%09Rootbound%20Crag%0A4%09Shock%0A4%09Stomping%20Ground%0A4%09Thrashing%20Brontodon&deckside=2%09Banefire%0A2%09Collision/Colossus%0A3%09Cosmotronic%20Wave%0A2%09Deathgorge%20Scavenger%0A2%09Lava%20Coil%0A2%09Sorcerous%20Spyglass%0A2%09Vivien%20Reid)
 # Maindeck
 

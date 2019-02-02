@@ -1,6 +1,8 @@
 # Naya Tokens
 
-#### [Export MTGO List](../collection/Naya%20Tokens/Naya%20Tokens.txt)
+#### [Export MTGO List](../collection/Naya%20Tokens/Naya%20Tokens.txt)# Naya Tokens
+
+#### [Export Arena List](../collection/Naya%20Tokens/Naya%20Tokens_arena.txt)
 #### [Print on decklist.org](http://decklist.org/?deckmain=3%09Boros%20Challenger%0A4%09Clifftop%20Retreat%0A3%09Conclave%20Tribunal%0A3%09Emmara,%20Soul%20of%20the%20Accord%0A4%09Flower/Flourish%0A4%09Footlight%20Fiend%0A1%09Forest%0A4%09Hero%20of%20Precinct%20One%0A4%09Heroic%20Reinforcements%0A4%09History%20of%20Benalia%0A4%09March%20of%20the%20Multitudes%0A2%09Plains%0A4%09Sacred%20Foundry%0A2%09Shanna,%20Sisay's%20Legacy%0A4%09Stomping%20Ground%0A1%09Sunpetal%20Grove%0A4%09Temple%20Garden%0A2%09Trostani%20Discordant%0A3%09Venerated%20Loxodon&deckside=2%09Aurelia,%20Exemplar%20of%20Justice%0A1%09Cindervines%0A2%09Collision/Colossus%0A2%09Gruul%20Spellbreaker%0A2%09Huatli,%20Radiant%20Champion%0A2%09Integrity/Intervention%0A3%09Knight%20of%20Autumn%0A1%09Lava%20Coil)
 # Maindeck
 

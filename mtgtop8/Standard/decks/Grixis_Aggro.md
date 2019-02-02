@@ -1,6 +1,8 @@
 # Grixis Aggro
 
-#### [Export MTGO List](../collection/Grixis%20Aggro/Grixis%20Aggro.txt)
+#### [Export MTGO List](../collection/Grixis%20Aggro/Grixis%20Aggro.txt)# Grixis Aggro
+
+#### [Export Arena List](../collection/Grixis%20Aggro/Grixis%20Aggro_arena.txt)
 #### [Print on decklist.org](http://decklist.org/?deckmain=1%09Beacon%20Bolt%0A4%09Chart%20a%20Course%0A4%09Crackling%20Drake%0A4%09Discovery%20/%20Dispersal%0A3%09Dive%20Down%0A1%09Dragonskull%20Summit%0A4%09Enigma%20Drake%0A7%09Island%0A4%09Lava%20Coil%0A5%09Mountain%0A2%09Niv-Mizzet,%20Parun%0A4%09Opt%0A2%09Search%20for%20Azcanta%0A4%09Shock%0A3%09Spell%20Pierce%0A4%09Steam%20Vents%0A4%09Sulfur%20Falls&deckside=1%09Beacon%20Bolt%0A2%09Disdainful%20Stroke%0A2%09Fiery%20Cannonade%0A1%09Niv-Mizzet,%20Parun%0A2%09Ral,%20Izzet%20Viceroy%0A4%09Raptor%20Hatchling%0A1%09Star%20of%20Extinction%0A2%09Treasure%20Map)
 # Maindeck
 

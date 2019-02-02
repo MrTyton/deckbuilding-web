@@ -1,6 +1,8 @@
 # Jeskai Control
 
-#### [Export MTGO List](../collection/Jeskai%20Control/Jeskai%20Control.txt)
+#### [Export MTGO List](../collection/Jeskai%20Control/Jeskai%20Control.txt)# Jeskai Control
+
+#### [Export Arena List](../collection/Jeskai%20Control/Jeskai%20Control_arena.txt)
 #### [Print on decklist.org](http://decklist.org/?deckmain=4%09Absorb%0A1%09Blink%20of%20an%20Eye%0A3%09Chemister's%20Insight%0A4%09Clifftop%20Retreat%0A3%09Crackling%20Drake%0A4%09Deafening%20Clarion%0A1%09Dive%20Down%0A1%09Expansion/Explosion%0A4%09Glacial%20Fortress%0A4%09Hallowed%20Fountain%0A2%09Island%0A2%09Justice%20Strike%0A1%09Mass%20Manipulation%0A1%09Negate%0A3%09Opt%0A1%09Quench%0A1%09Revitalize%0A3%09Sacred%20Foundry%0A1%09Search%20for%20Azcanta%0A1%09Settle%20the%20Wreckage%0A1%09Shock%0A4%09Steam%20Vents%0A4%09Sulfur%20Falls%0A2%09Syncopate%0A4%09Teferi,%20Hero%20of%20Dominaria&deckside=1%09Cleansing%20Nova%0A1%09Disdainful%20Stroke%0A1%09Dive%20Down%0A1%09Ixalan's%20Binding%0A3%09Legion%20Warboss%0A2%09Lyra%20Dawnbringer%0A1%09Mass%20Manipulation%0A2%09Negate%0A2%09Niv-Mizzet,%20Parun%0A1%09Settle%20the%20Wreckage)
 # Maindeck
 

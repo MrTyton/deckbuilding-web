@@ -1,6 +1,8 @@
 # Boros Weenie
 
-#### [Export MTGO List](../collection/Boros%20Weenie/Boros%20Weenie.txt)
+#### [Export MTGO List](../collection/Boros%20Weenie/Boros%20Weenie.txt)# Boros Weenie
+
+#### [Export Arena List](../collection/Boros%20Weenie/Boros%20Weenie_arena.txt)
 #### [Print on decklist.org](http://decklist.org/?deckmain=4%09Adanto%20Vanguard%0A4%09Benalish%20Marshal%0A3%09Clifftop%20Retreat%0A4%09Conclave%20Tribunal%0A4%09Dauntless%20Bodyguard%0A4%09History%20of%20Benalia%0A2%09Hunted%20Witness%0A4%09Legion's%20Landing%0A13%09Plains%0A2%09Pride%20of%20Conquerors%0A4%09Sacred%20Foundry%0A4%09Skymarcher%20Aspirant%0A4%09Snubhorn%20Sentry%0A4%09Venerated%20Loxodon&deckside=2%09Ajani,%20Adversary%20of%20Tyrants%0A3%09Baffling%20End%0A1%09Banefire%0A1%09Clifftop%20Retreat%0A3%09Experimental%20Frenzy%0A1%09Mountain%0A4%09Tocatli%20Honor%20Guard)
 # Maindeck
 

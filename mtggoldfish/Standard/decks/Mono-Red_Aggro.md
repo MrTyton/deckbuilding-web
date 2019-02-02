@@ -1,6 +1,8 @@
 # Mono-Red Aggro
 
-#### [Export MTGO List](../collection/Mono-Red%20Aggro/Mono-Red%20Aggro.txt)
+#### [Export MTGO List](../collection/Mono-Red%20Aggro/Mono-Red%20Aggro.txt)# Mono-Red Aggro
+
+#### [Export Arena List](../collection/Mono-Red%20Aggro/Mono-Red%20Aggro_arena.txt)
 #### [Print on decklist.org](http://decklist.org/?deckmain=3%09Fanatical%20Firebrand%0A4%09Ghitu%20Lavarunner%0A4%09Goblin%20Chainwhirler%0A4%09Light%20Up%20the%20Stage%0A4%09Lightning%20Strike%0A20%09Mountain%0A1%09Risk%20Factor%0A4%09Runaway%20Steam-Kin%0A4%09Shock%0A4%09Skewer%20the%20Critics%0A4%09Viashino%20Pyromancer%0A4%09Wizard's%20Lightning&deckside=2%09Banefire%0A3%09Fiery%20Cannonade%0A2%09Fight%20with%20Fire%0A4%09Lava%20Coil%0A1%09Mountain%0A1%09Risk%20Factor%0A2%09Treasure%20Map)
 # Maindeck
 

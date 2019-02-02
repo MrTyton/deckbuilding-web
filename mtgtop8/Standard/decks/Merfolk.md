@@ -1,6 +1,8 @@
 # Merfolk
 
-#### [Export MTGO List](../collection/Merfolk/Merfolk.txt)
+#### [Export MTGO List](../collection/Merfolk/Merfolk.txt)# Merfolk
+
+#### [Export Arena List](../collection/Merfolk/Merfolk_arena.txt)
 #### [Print on decklist.org](http://decklist.org/?deckmain=4%09Benthic%20Biomancer%0A4%09Breeding%20Pool%0A4%09Deeproot%20Elite%0A4%09Deeproot%20Waters%0A5%09Forest%0A4%09Hinterland%20Harbor%0A4%09Incubation%20/%20Incongruity%0A5%09Island%0A4%09Kumena's%20Speaker%0A4%09Kumena,%20Tyrant%20of%20Orazca%0A4%09Merfolk%20Mistbinder%0A4%09Merfolk%20Trickster%0A4%09Silvergill%20Adept%0A2%09Spell%20Pierce%0A4%09Unclaimed%20Territory&deckside=2%09Crushing%20Canopy%0A2%09Dive%20Down%0A4%09Negate%0A2%09Shapers'%20Sanctuary%0A2%09Tempest%20Caller%0A3%09Vineshaper%20Mystic)
 # Maindeck
 

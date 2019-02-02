@@ -1,6 +1,8 @@
 # UB Control
 
-#### [Export MTGO List](../collection/UB%20Control/UB%20Control.txt)
+#### [Export MTGO List](../collection/UB%20Control/UB%20Control.txt)# UB Control
+
+#### [Export Arena List](../collection/UB%20Control/UB%20Control_arena.txt)
 #### [Print on decklist.org](http://decklist.org/?deckmain=1%09Blink%20of%20an%20Eye%0A2%09Cast%20Down%0A1%09Detection%20Tower%0A4%09Discovery%20/%20Dispersal%0A3%09Disinformation%20Campaign%0A2%09Dream%20Eater%0A4%09Drowned%20Catacomb%0A8%09Island%0A2%09Moment%20of%20Craving%0A3%09Ritual%20of%20Soot%0A2%09Search%20for%20Azcanta%0A3%09Sinister%20Sabotage%0A8%09Swamp%0A2%09Syncopate%0A4%09The%20Eldest%20Reborn%0A4%09Thought%20Erasure%0A3%09Vraska's%20Contempt%0A4%09Watery%20Grave&deckside=1%09Cast%20Down%0A1%09Disinformation%20Campaign%0A3%09Duress%0A1%09Fungal%20Infection%0A2%09Golden%20Demise%0A1%09Moment%20of%20Craving%0A2%09Negate%0A4%09Thief%20of%20Sanity)
 # Maindeck
 

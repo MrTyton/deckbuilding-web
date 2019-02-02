@@ -1,6 +1,8 @@
 # Golgari Aggro
 
-#### [Export MTGO List](../collection/Golgari%20Aggro/Golgari%20Aggro.txt)
+#### [Export MTGO List](../collection/Golgari%20Aggro/Golgari%20Aggro.txt)# Golgari Aggro
+
+#### [Export Arena List](../collection/Golgari%20Aggro/Golgari%20Aggro_arena.txt)
 #### [Print on decklist.org](http://decklist.org/?deckmain=3%09Carnage%20Tyrant%0A2%09Cast%20Down%0A1%09Detection%20Tower%0A3%09Find%20/%20Finality%0A8%09Forest%0A4%09Jadelight%20Ranger%0A4%09Llanowar%20Elves%0A2%09Memorial%20to%20Folly%0A4%09Merfolk%20Branchwalker%0A3%09Midnight%20Reaper%0A4%09Overgrown%20Tomb%0A3%09Ravenous%20Chupacabra%0A6%09Swamp%0A3%09Vivien%20Reid%0A3%09Vraska's%20Contempt%0A3%09Wildgrowth%20Walker%0A4%09Woodland%20Cemetery&deckside=1%09Assassin's%20Trophy%0A1%09Carnage%20Tyrant%0A1%09Cast%20Down%0A2%09Deathgorge%20Scavenger%0A4%09Duress%0A2%09Golden%20Demise%0A1%09The%20Eldest%20Reborn%0A2%09Thrashing%20Brontodon%0A1%09Vraska's%20Contempt)
 # Maindeck
 

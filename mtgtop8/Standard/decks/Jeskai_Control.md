@@ -1,6 +1,8 @@
 # Jeskai Control
 
-#### [Export MTGO List](../collection/Jeskai%20Control/Jeskai%20Control.txt)
+#### [Export MTGO List](../collection/Jeskai%20Control/Jeskai%20Control.txt)# Jeskai Control
+
+#### [Export Arena List](../collection/Jeskai%20Control/Jeskai%20Control_arena.txt)
 #### [Print on decklist.org](http://decklist.org/?deckmain=3%09Chemister's%20Insight%0A4%09Clifftop%20Retreat%0A1%09Crackling%20Drake%0A4%09Deafening%20Clarion%0A2%09Expansion%20/%20Explosion%0A4%09Glacial%20Fortress%0A5%09Island%0A1%09Justice%20Strike%0A1%09Lava%20Coil%0A1%09Negate%0A2%09Niv-Mizzet,%20Parun%0A4%09Opt%0A2%09Revitalize%0A4%09Sacred%20Foundry%0A2%09Seal%20Away%0A2%09Settle%20the%20Wreckage%0A3%09Sinister%20Sabotage%0A4%09Steam%20Vents%0A4%09Sulfur%20Falls%0A2%09Syncopate%0A3%09Teferi,%20Hero%20of%20Dominaria%0A2%09Treasure%20Map&deckside=1%09Cleansing%20Nova%0A1%09Invoke%20the%20Divine%0A1%09Ixalan's%20Binding%0A1%09Justice%20Strike%0A3%09Legion%20Warboss%0A2%09Lyra%20Dawnbringer%0A2%09Negate%0A1%09Niv-Mizzet,%20Parun%0A1%09Seal%20Away%0A2%09Star%20of%20Extinction)
 # Maindeck
 

@@ -1,6 +1,8 @@
 # Golgari Control
 
-#### [Export MTGO List](../collection/Golgari%20Control/Golgari%20Control.txt)
+#### [Export MTGO List](../collection/Golgari%20Control/Golgari%20Control.txt)# Golgari Control
+
+#### [Export Arena List](../collection/Golgari%20Control/Golgari%20Control_arena.txt)
 #### [Print on decklist.org](http://decklist.org/?deckmain=4%09Assassin's%20Trophy%0A3%09Carnage%20Tyrant%0A2%09Detection%20Tower%0A4%09Druid%20of%20the%20Cowl%0A2%09Find%20/%20Finality%0A5%09Forest%0A2%09Foul%20Orchard%0A3%09Golden%20Demise%0A2%09Josu%20Vess,%20Lich%20Knight%0A1%09Memorial%20to%20Folly%0A2%09Never%20Happened%0A4%09Overgrown%20Tomb%0A2%09Ravenous%20Chupacabra%0A7%09Swamp%0A4%09Thorn%20Lieutenant%0A4%09Treasure%20Map%0A1%09Vivien%20Reid%0A2%09Vraska's%20Contempt%0A2%09Vraska,%20Relic%20Seeker%0A4%09Woodland%20Cemetery&deckside=2%09Cast%20Down%0A4%09Duress%0A2%09Pelakka%20Wurm%0A2%09Plaguecrafter%0A1%09Reclamation%20Sage%0A2%09Ritual%20of%20Soot%0A2%09The%20Eldest%20Reborn)
 # Maindeck
 

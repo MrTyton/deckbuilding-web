@@ -1,6 +1,8 @@
 # Rakdos Aggro
 
-#### [Export MTGO List](../collection/Rakdos%20Aggro/Rakdos%20Aggro.txt)
+#### [Export MTGO List](../collection/Rakdos%20Aggro/Rakdos%20Aggro.txt)# Rakdos Aggro
+
+#### [Export Arena List](../collection/Rakdos%20Aggro/Rakdos%20Aggro_arena.txt)
 #### [Print on decklist.org](http://decklist.org/?deckmain=4%09Blood%20Crypt%0A4%09Dragonskull%20Summit%0A1%09Electrostatic%20Field%0A4%09Ghitu%20Lavarunner%0A4%09Goblin%20Chainwhirler%0A4%09Light%20Up%20the%20Stage%0A4%09Lightning%20Strike%0A12%09Mountain%0A1%09Rakdos%20Guildgate%0A3%09Risk%20Factor%0A4%09Shock%0A4%09Skewer%20the%20Critics%0A1%09Sovereign's%20Bite%0A1%09Swamp%0A1%09Sword-Point%20Diplomacy%0A4%09Viashino%20Pyromancer%0A4%09Wizard's%20Lightning&deckside=3%09Dire%20Fleet%20Daredevil%0A4%09Drill%20Bit%0A3%09Fiery%20Cannonade%0A2%09Plaguecrafter%0A3%09Theater%20of%20Horrors)
 # Maindeck
 

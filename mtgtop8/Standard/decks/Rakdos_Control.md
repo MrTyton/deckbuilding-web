@@ -1,6 +1,8 @@
 # Rakdos Control
 
-#### [Export MTGO List](../collection/Rakdos%20Control/Rakdos%20Control.txt)
+#### [Export MTGO List](../collection/Rakdos%20Control/Rakdos%20Control.txt)# Rakdos Control
+
+#### [Export Arena List](../collection/Rakdos%20Control/Rakdos%20Control_arena.txt)
 #### [Print on decklist.org](http://decklist.org/?deckmain=1%09Arch%20of%20Orazca%0A2%09Banefire%0A3%09Bedeck%20/%20Bedazzle%0A4%09Bedevil%0A4%09Blood%20Crypt%0A4%09Dire%20Fleet%20Daredevil%0A4%09Dragonskull%20Summit%0A2%09Duress%0A3%09Lava%20Coil%0A6%09Mountain%0A4%09Rakdos%20Guildgate%0A4%09Rekindling%20Phoenix%0A2%09Shock%0A4%09Siege-Gang%20Commander%0A6%09Swamp%0A3%09The%20Eldest%20Reborn%0A4%09Treasure%20Map&deckside=1%09Banefire%0A2%09Duress%0A2%09Fiery%20Cannonade%0A2%09Fight%20with%20Fire%0A2%09Karn,%20Scion%20of%20Urza%0A1%09Lava%20Coil%0A4%09Legion%20Warboss%0A1%09Sorcerous%20Spyglass)
 # Maindeck
 

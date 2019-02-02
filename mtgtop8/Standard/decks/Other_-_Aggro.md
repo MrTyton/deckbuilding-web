@@ -1,6 +1,8 @@
 # Other - Aggro
 
-#### [Export MTGO List](../collection/Other%20-%20Aggro/Other%20-%20Aggro.txt)
+#### [Export MTGO List](../collection/Other%20-%20Aggro/Other%20-%20Aggro.txt)# Other - Aggro
+
+#### [Export Arena List](../collection/Other%20-%20Aggro/Other%20-%20Aggro_arena.txt)
 #### [Print on decklist.org](http://decklist.org/?deckmain=4%09Adanto%20Vanguard%0A2%09Ajani,%20Adversary%20of%20Tyrants%0A1%09Aurelia,%20Exemplar%20of%20Justice%0A1%09Banefire%0A1%09Benalish%20Marshal%0A1%09Captain%20Lannery%20Storm%0A4%09Clifftop%20Retreat%0A4%09Conclave%20Tribunal%0A1%09Glacial%20Fortress%0A4%09Heroic%20Reinforcements%0A4%09History%20of%20Benalia%0A4%09Hunted%20Witness%0A3%09Lava%20Coil%0A3%09Legion's%20Landing%0A1%09Lyra%20Dawnbringer%0A1%09Mountain%0A11%09Plains%0A4%09Sacred%20Foundry%0A1%09Sulfur%20Falls%0A1%09Teferi,%20Hero%20of%20Dominaria%0A4%09Tocatli%20Honor%20Guard&deckside=1%09Ajani,%20Adversary%20of%20Tyrants%0A2%09Aurelia,%20Exemplar%20of%20Justice%0A2%09Banefire%0A2%09Deafening%20Clarion%0A2%09Dire%20Fleet%20Daredevil%0A2%09Ixalan's%20Binding%0A2%09Lyra%20Dawnbringer%0A2%09Tajic,%20Legion's%20Edge)
 # Maindeck
 

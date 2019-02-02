@@ -1,6 +1,8 @@
 # WR
 
-#### [Export MTGO List](../collection/WR/WR.txt)
+#### [Export MTGO List](../collection/WR/WR.txt)# WR
+
+#### [Export Arena List](../collection/WR/WR_arena.txt)
 #### [Print on decklist.org](http://decklist.org/?deckmain=4%09Adanto%20Vanguard%0A2%09Ajani,%20Adversary%20of%20Tyrants%0A4%09Clifftop%20Retreat%0A2%09Divine%20Visitation%0A4%09Heroic%20Reinforcements%0A4%09History%20of%20Benalia%0A2%09Hunted%20Witness%0A4%09Lava%20Coil%0A4%09Legion%20Warboss%0A4%09Legion's%20Landing%0A6%09Mountain%0A10%09Plains%0A4%09Sacred%20Foundry%0A2%09Tithe%20Taker%0A4%09Tocatli%20Honor%20Guard&deckside=2%09Aurelia,%20Exemplar%20of%20Justice%0A1%09Banefire%0A2%09Deafening%20Clarion%0A1%09Demystify%0A1%09Fight%20with%20Fire%0A2%09Hunted%20Witness%0A2%09Ixalan's%20Binding%0A2%09Lyra%20Dawnbringer%0A2%09Tithe%20Taker)
 # Maindeck
 

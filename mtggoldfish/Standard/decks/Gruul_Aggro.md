@@ -1,6 +1,8 @@
 # Gruul Aggro
 
-#### [Export MTGO List](../collection/Gruul%20Aggro/Gruul%20Aggro.txt)
+#### [Export MTGO List](../collection/Gruul%20Aggro/Gruul%20Aggro.txt)# Gruul Aggro
+
+#### [Export Arena List](../collection/Gruul%20Aggro/Gruul%20Aggro_arena.txt)
 #### [Print on decklist.org](http://decklist.org/?deckmain=9%09Forest%0A4%09Growth-Chamber%20Guardian%0A4%09Gruul%20Spellbreaker%0A4%09Jadelight%20Ranger%0A4%09Lightning%20Strike%0A4%09Merfolk%20Branchwalker%0A7%09Mountain%0A4%09Rekindling%20Phoenix%0A4%09Rootbound%20Crag%0A4%09Shock%0A4%09Skarrgan%20Hellkite%0A4%09Stomping%20Ground%0A4%09Zhur-Taa%20Goblin&deckside=4%09Cindervines%0A2%09Kraul%20Harpooner%0A4%09Lava%20Coil%0A1%09Ravager%20Wurm%0A2%09Vivien%20Reid%0A2%09Wildgrowth%20Walker)
 # Maindeck
 

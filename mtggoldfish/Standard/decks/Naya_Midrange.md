@@ -1,6 +1,8 @@
 # Naya Midrange
 
-#### [Export MTGO List](../collection/Naya%20Midrange/Naya%20Midrange.txt)
+#### [Export MTGO List](../collection/Naya%20Midrange/Naya%20Midrange.txt)# Naya Midrange
+
+#### [Export Arena List](../collection/Naya%20Midrange/Naya%20Midrange_arena.txt)
 #### [Print on decklist.org](http://decklist.org/?deckmain=2%09Aurelia,%20Exemplar%20of%20Justice%0A2%09Forest%0A4%09Growth-Chamber%20Guardian%0A4%09Gruul%20Spellbreaker%0A4%09Knight%20of%20Autumn%0A2%09Lava%20Coil%0A3%09Lightning%20Strike%0A4%09Llanowar%20Elves%0A2%09Mountain%0A4%09Rekindling%20Phoenix%0A4%09Rootbound%20Crag%0A4%09Sacred%20Foundry%0A3%09Shock%0A4%09Skarrgan%20Hellkite%0A4%09Stomping%20Ground%0A4%09Sunpetal%20Grove%0A4%09Temple%20Garden%0A2%09Vivien%20Reid&deckside=2%09Karn,%20Scion%20of%20Urza%0A2%09Kraul%20Harpooner%0A2%09Lava%20Coil%0A2%09Lyra%20Dawnbringer%0A3%09Rhythm%20of%20the%20Wild%0A2%09Star%20of%20Extinction%0A2%09Thrash/Threat)
 # Maindeck
 

@@ -1,6 +1,8 @@
 # Boros Aggro
 
-#### [Export MTGO List](../collection/Boros%20Aggro/Boros%20Aggro.txt)
+#### [Export MTGO List](../collection/Boros%20Aggro/Boros%20Aggro.txt)# Boros Aggro
+
+#### [Export Arena List](../collection/Boros%20Aggro/Boros%20Aggro_arena.txt)
 #### [Print on decklist.org](http://decklist.org/?deckmain=4%09Adanto%20Vanguard%0A4%09Benalish%20Marshal%0A4%09Clifftop%20Retreat%0A4%09Conclave%20Tribunal%0A4%09Dauntless%20Bodyguard%0A3%09Heroic%20Reinforcements%0A4%09History%20of%20Benalia%0A4%09Hunted%20Witness%0A4%09Legion's%20Landing%0A1%09Mountain%0A12%09Plains%0A4%09Sacred%20Foundry%0A4%09Skymarcher%20Aspirant%0A1%09Snubhorn%20Sentry%0A3%09Venerated%20Loxodon&deckside=1%09Ajani,%20Adversary%20of%20Tyrants%0A1%09Aurelia,%20Exemplar%20of%20Justice%0A3%09Baffling%20End%0A2%09Banefire%0A1%09Citywide%20Bust%0A3%09Experimental%20Frenzy%0A4%09Tocatli%20Honor%20Guard)
 # Maindeck
 

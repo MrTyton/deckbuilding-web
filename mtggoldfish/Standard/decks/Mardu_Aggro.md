@@ -1,6 +1,8 @@
 # Mardu Aggro
 
-#### [Export MTGO List](../collection/Mardu%20Aggro/Mardu%20Aggro.txt)
+#### [Export MTGO List](../collection/Mardu%20Aggro/Mardu%20Aggro.txt)# Mardu Aggro
+
+#### [Export Arena List](../collection/Mardu%20Aggro/Mardu%20Aggro_arena.txt)
 #### [Print on decklist.org](http://decklist.org/?deckmain=4%09Blood%20Crypt%0A4%09Boros%20Challenger%0A2%09Clifftop%20Retreat%0A4%09Dauntless%20Bodyguard%0A1%09Dragonskull%20Summit%0A4%09Fanatical%20Firebrand%0A4%09Godless%20Shrine%0A4%09Healer's%20Hawk%0A4%09Heroic%20Reinforcements%0A4%09Hunted%20Witness%0A3%09Isolated%20Chapel%0A4%09Judith,%20the%20Scourge%20Diva%0A3%09Legion's%20Landing%0A2%09Plains%0A4%09Sacred%20Foundry%0A4%09Shock%0A2%09Skymarcher%20Aspirant%0A3%09Tithe%20Taker&deckside=4%09Adanto%20Vanguard%0A2%09Conclave%20Tribunal%0A4%09Drill%20Bit%0A3%09Lava%20Coil%0A2%09Tocatli%20Honor%20Guard)
 # Maindeck
 

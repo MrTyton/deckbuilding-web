@@ -1,6 +1,8 @@
 # Naya Aggro
 
-#### [Export MTGO List](../collection/Naya%20Aggro/Naya%20Aggro.txt)
+#### [Export MTGO List](../collection/Naya%20Aggro/Naya%20Aggro.txt)# Naya Aggro
+
+#### [Export Arena List](../collection/Naya%20Aggro/Naya%20Aggro_arena.txt)
 #### [Print on decklist.org](http://decklist.org/?deckmain=2%09Adanto%20Vanguard%0A2%09Benalish%20Marshal%0A1%09Clifftop%20Retreat%0A1%09Conclave%20Tribunal%0A3%09Forest%0A4%09Gruul%20Spellbreaker%0A2%09Heroic%20Reinforcements%0A2%09History%20of%20Benalia%0A1%09Ixalan's%20Binding%0A2%09Lava%20Coil%0A2%09Legion's%20Landing%0A4%09Llanowar%20Elves%0A2%09March%20of%20the%20Multitudes%0A2%09Plains%0A4%09Rootbound%20Crag%0A4%09Sacred%20Foundry%0A1%09Saproling%20Migration%0A2%09Shanna,%20Sisay's%20Legacy%0A4%09Skarrgan%20Hellkite%0A4%09Stomping%20Ground%0A4%09Sunpetal%20Grove%0A4%09Temple%20Garden%0A1%09Tendershoot%20Dryad%0A2%09Trostani%20Discordant&deckside=2%09Carnage%20Tyrant%0A3%09Deafening%20Clarion%0A3%09Experimental%20Frenzy%0A3%09Knight%20of%20Autumn%0A2%09Ravager%20Wurm%0A2%09Vivien%20Reid)
 # Maindeck
 

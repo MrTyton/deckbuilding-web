@@ -1,6 +1,8 @@
 # Four-Color Gates
 
-#### [Export MTGO List](../collection/Four-Color%20Gates/Four-Color%20Gates.txt)
+#### [Export MTGO List](../collection/Four-Color%20Gates/Four-Color%20Gates.txt)# Four-Color Gates
+
+#### [Export Arena List](../collection/Four-Color%20Gates/Four-Color%20Gates_arena.txt)
 #### [Print on decklist.org](http://decklist.org/?deckmain=2%09Archway%20Angel%0A3%09Azorius%20Guildgate%0A2%09Breeding%20Pool%0A4%09Circuitous%20Route%0A3%09Expansion/Explosion%0A1%09Forest%0A4%09Gate%20Colossus%0A4%09Gatebreaker%20Ram%0A4%09Gates%20Ablaze%0A4%09Growth%20Spiral%0A4%09Gruul%20Guildgate%0A4%09Guild%20Summit%0A1%09Island%0A4%09Izzet%20Guildgate%0A1%09Negate%0A4%09Plaza%20of%20Harmony%0A1%09Selesnya%20Guildgate%0A3%09Shimmer%20of%20Possibility%0A4%09Simic%20Guildgate%0A2%09Steam%20Vents%0A1%09Stomping%20Ground&deckside=2%09Archway%20Angel%0A1%09Carnage%20Tyrant%0A3%09Cindervines%0A1%09Crushing%20Canopy%0A2%09Lava%20Coil%0A1%09Mass%20Manipulation%0A3%09Negate%0A2%09Shivan%20Fire)
 # Maindeck
 

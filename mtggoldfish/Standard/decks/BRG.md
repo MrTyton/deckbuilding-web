@@ -1,6 +1,8 @@
 # BRG
 
-#### [Export MTGO List](../collection/BRG/BRG.txt)
+#### [Export MTGO List](../collection/BRG/BRG.txt)# BRG
+
+#### [Export Arena List](../collection/BRG/BRG_arena.txt)
 #### [Print on decklist.org](http://decklist.org/?deckmain=2%09Blood%20Crypt%0A2%09Carnage%20Tyrant%0A1%09Cast%20Down%0A2%09Evolving%20Wilds%0A3%09Find/Finality%0A4%09Forest%0A4%09Jadelight%20Ranger%0A3%09Lava%20Coil%0A4%09Llanowar%20Elves%0A4%09Merfolk%20Branchwalker%0A2%09Midnight%20Reaper%0A3%09Mountain%0A4%09Overgrown%20Tomb%0A4%09Rekindling%20Phoenix%0A4%09Rootbound%20Crag%0A2%09Status/Statue%0A4%09Stomping%20Ground%0A1%09Swamp%0A3%09Vivien%20Reid%0A4%09Wildgrowth%20Walker&deckside=2%09Angrath,%20the%20Flame-Chained%0A1%09Carnage%20Tyrant%0A1%09Cast%20Down%0A2%09Drill%20Bit%0A4%09Duress%0A3%09Fiery%20Cannonade%0A1%09Lava%20Coil%0A1%09Midnight%20Reaper)
 # Maindeck
 

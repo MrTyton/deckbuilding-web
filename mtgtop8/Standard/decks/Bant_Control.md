@@ -1,6 +1,8 @@
 # Bant Control
 
-#### [Export MTGO List](../collection/Bant%20Control/Bant%20Control.txt)
+#### [Export MTGO List](../collection/Bant%20Control/Bant%20Control.txt)# Bant Control
+
+#### [Export Arena List](../collection/Bant%20Control/Bant%20Control_arena.txt)
 #### [Print on decklist.org](http://decklist.org/?deckmain=4%09Angel%20of%20Grace%0A1%09Blink%20of%20an%20Eye%0A4%09Breeding%20Pool%0A1%09Chemister's%20Insight%0A2%09Depose%20/%20Deploy%0A1%09Forest%0A4%09Frilled%20Mystic%0A4%09Glacial%20Fortress%0A4%09Growth-Chamber%20Guardian%0A4%09Hallowed%20Fountain%0A3%09Hinterland%20Harbor%0A4%09History%20of%20Benalia%0A1%09March%20of%20the%20Multitudes%0A1%09Memorial%20to%20Genius%0A1%09Plains%0A3%09Seal%20Away%0A2%09Settle%20the%20Wreckage%0A1%09Shalai,%20Voice%20of%20Plenty%0A2%09Spell%20Pierce%0A4%09Sunpetal%20Grove%0A2%09Syncopate%0A2%09Teferi,%20Hero%20of%20Dominaria%0A4%09Temple%20Garden%0A1%09Warrant%20/%20Warden&deckside=1%09Baffling%20End%0A1%09Cleansing%20Nova%0A2%09Crushing%20Canopy%0A1%09Deputy%20of%20Detention%0A2%09Disdainful%20Stroke%0A3%09Knight%20of%20Autumn%0A1%09Lyra%20Dawnbringer%0A1%09Mass%20Manipulation%0A2%09Negate%0A1%09Shalai,%20Voice%20of%20Plenty)
 # Maindeck
 

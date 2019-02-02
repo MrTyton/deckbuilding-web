@@ -1,6 +1,8 @@
 # Golgari Midrange
 
-#### [Export MTGO List](../collection/Golgari%20Midrange/Golgari%20Midrange.txt)
+#### [Export MTGO List](../collection/Golgari%20Midrange/Golgari%20Midrange.txt)# Golgari Midrange
+
+#### [Export Arena List](../collection/Golgari%20Midrange/Golgari%20Midrange_arena.txt)
 #### [Print on decklist.org](http://decklist.org/?deckmain=1%09Assassin's%20Trophy%0A3%09Carnage%20Tyrant%0A1%09Cast%20Down%0A1%09Detection%20Tower%0A3%09Find/Finality%0A8%09Forest%0A4%09Jadelight%20Ranger%0A4%09Llanowar%20Elves%0A2%09Memorial%20to%20Folly%0A4%09Merfolk%20Branchwalker%0A3%09Midnight%20Reaper%0A4%09Overgrown%20Tomb%0A2%09Ravenous%20Chupacabra%0A1%09Seekers'%20Squire%0A5%09Swamp%0A3%09Vivien%20Reid%0A3%09Vraska's%20Contempt%0A4%09Wildgrowth%20Walker%0A4%09Woodland%20Cemetery&deckside=1%09Assassin's%20Trophy%0A2%09Cast%20Down%0A4%09Duress%0A2%09Golden%20Demise%0A1%09Midnight%20Reaper%0A1%09Plaguecrafter%0A1%09The%20Eldest%20Reborn%0A2%09Thrashing%20Brontodon%0A1%09Vraska's%20Contempt)
 # Maindeck
 

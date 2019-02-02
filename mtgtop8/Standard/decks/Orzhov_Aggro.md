@@ -1,6 +1,8 @@
 # Orzhov Aggro
 
-#### [Export MTGO List](../collection/Orzhov%20Aggro/Orzhov%20Aggro.txt)
+#### [Export MTGO List](../collection/Orzhov%20Aggro/Orzhov%20Aggro.txt)# Orzhov Aggro
+
+#### [Export Arena List](../collection/Orzhov%20Aggro/Orzhov%20Aggro_arena.txt)
 #### [Print on decklist.org](http://decklist.org/?deckmain=1%09Ajani,%20Adversary%20of%20Tyrants%0A2%09Angel%20of%20Grace%0A4%09Basilica%20Bell-Haunt%0A2%09Cast%20Down%0A2%09Forbidding%20Spirit%0A4%09Godless%20Shrine%0A4%09Isolated%20Chapel%0A2%09Lyra%20Dawnbringer%0A4%09Memorial%20to%20Folly%0A3%09Midnight%20Reaper%0A4%09Mortify%0A9%09Plains%0A4%09Seekers'%20Squire%0A4%09Seraph%20of%20the%20Scales%0A4%09Swamp%0A1%09The%20Immortal%20Sun%0A4%09Tithe%20Taker%0A2%09Vraska's%20Contempt&deckside=1%09Cast%20Down%0A3%09Duress%0A1%09Forbidding%20Spirit%0A2%09Ixalan's%20Binding%0A2%09Moment%20of%20Craving%0A1%09Revival%20/%20Revenge%0A2%09Settle%20the%20Wreckage%0A1%09Sorcerous%20Spyglass%0A2%09Vraska's%20Contempt)
 # Maindeck
 

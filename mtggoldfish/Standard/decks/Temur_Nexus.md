@@ -1,6 +1,8 @@
 # Temur Nexus
 
-#### [Export MTGO List](../collection/Temur%20Nexus/Temur%20Nexus.txt)
+#### [Export MTGO List](../collection/Temur%20Nexus/Temur%20Nexus.txt)# Temur Nexus
+
+#### [Export Arena List](../collection/Temur%20Nexus/Temur%20Nexus_arena.txt)
 #### [Print on decklist.org](http://decklist.org/?deckmain=4%09Breeding%20Pool%0A3%09Chemister's%20Insight%0A4%09Expansion/Explosion%0A4%09Forest%0A4%09Gift%20of%20Paradise%0A4%09Growth%20Spiral%0A4%09Hinterland%20Harbor%0A5%09Island%0A4%09Nexus%20of%20Fate%0A4%09Precognitive%20Perception%0A3%09Rootbound%20Crag%0A3%09Search%20for%20Azcanta%0A2%09Steam%20Vents%0A2%09Stomping%20Ground%0A2%09Sulfur%20Falls%0A4%09Uncomfortable%20Chill%0A4%09Wilderness%20Reclamation&deckside=2%09Cindervines%0A3%09Fiery%20Cannonade%0A4%09Hydroid%20Krasis%0A4%09Negate%0A2%09Pelakka%20Wurm)
 # Maindeck
 

@@ -1,6 +1,8 @@
 # Temur Reclamation
 
-#### [Export MTGO List](../collection/Temur%20Reclamation/Temur%20Reclamation.txt)
+#### [Export MTGO List](../collection/Temur%20Reclamation/Temur%20Reclamation.txt)# Temur Reclamation
+
+#### [Export Arena List](../collection/Temur%20Reclamation/Temur%20Reclamation_arena.txt)
 #### [Print on decklist.org](http://decklist.org/?deckmain=4%09Breeding%20Pool%0A3%09Chemister's%20Insight%0A4%09Expansion/Explosion%0A4%09Growth%20Spiral%0A4%09Hinterland%20Harbor%0A3%09Island%0A3%09Lightning%20Strike%0A1%09Negate%0A3%09Opt%0A2%09Precognitive%20Perception%0A3%09Rootbound%20Crag%0A2%09Search%20for%20Azcanta%0A4%09Sinister%20Sabotage%0A3%09Star%20of%20Extinction%0A4%09Steam%20Vents%0A3%09Stomping%20Ground%0A4%09Sulfur%20Falls%0A2%09Syncopate%0A4%09Wilderness%20Reclamation&deckside=1%09Expansion/Explosion%0A3%09Fiery%20Cannonade%0A3%09Karn,%20Scion%20of%20Urza%0A3%09Lava%20Coil%0A4%09Negate%0A1%09Niv-Mizzet,%20Parun)
 # Maindeck
 

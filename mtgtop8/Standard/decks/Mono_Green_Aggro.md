@@ -1,6 +1,8 @@
 # Mono Green Aggro
 
-#### [Export MTGO List](../collection/Mono%20Green%20Aggro/Mono%20Green%20Aggro.txt)
+#### [Export MTGO List](../collection/Mono%20Green%20Aggro/Mono%20Green%20Aggro.txt)# Mono Green Aggro
+
+#### [Export Arena List](../collection/Mono%20Green%20Aggro/Mono%20Green%20Aggro_arena.txt)
 #### [Print on decklist.org](http://decklist.org/?deckmain=4%09Breeding%20Pool%0A9%09Forest%0A3%09Frilled%20Mystic%0A4%09Growth-Chamber%20Guardian%0A4%09Hinterland%20Harbor%0A4%09Incubation%20Druid%0A4%09Jadelight%20Ranger%0A4%09Llanowar%20Elves%0A4%09Merfolk%20Branchwalker%0A4%09Nullhide%20Ferox%0A4%09Pelt%20Collector%0A4%09Steel%20Leaf%20Champion%0A4%09Unclaimed%20Territory%0A4%09Wildgrowth%20Walker&deckside=2%09Crushing%20Canopy%0A2%09Disdainful%20Stroke%0A1%09Frilled%20Mystic%0A1%09Island%0A3%09Spell%20Pierce%0A3%09Thrash%20/%20Threat%0A3%09Watertrap%20Weaver)
 # Maindeck
 

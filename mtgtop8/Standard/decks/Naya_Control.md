@@ -1,6 +1,8 @@
 # Naya Control
 
-#### [Export MTGO List](../collection/Naya%20Control/Naya%20Control.txt)
+#### [Export MTGO List](../collection/Naya%20Control/Naya%20Control.txt)# Naya Control
+
+#### [Export Arena List](../collection/Naya%20Control/Naya%20Control_arena.txt)
 #### [Print on decklist.org](http://decklist.org/?deckmain=2%09Adanto%20Vanguard%0A2%09Aurelia,%20Exemplar%20of%20Justice%0A3%09Banefire%0A4%09Clifftop%20Retreat%0A2%09Deafening%20Clarion%0A1%09Forest%0A2%09History%20of%20Benalia%0A3%09Ixalan's%20Binding%0A4%09Knight%20of%20Autumn%0A3%09Lava%20Coil%0A2%09Lyra%20Dawnbringer%0A1%09March%20of%20the%20Multitudes%0A1%09Mountain%0A2%09Plains%0A4%09Rekindling%20Phoenix%0A4%09Rootbound%20Crag%0A4%09Sacred%20Foundry%0A2%09Settle%20the%20Wreckage%0A2%09Shalai,%20Voice%20of%20Plenty%0A4%09Sunpetal%20Grove%0A4%09Temple%20Garden%0A2%09Trostani%20Discordant%0A2%09Vivien%20Reid&deckside=3%09Carnage%20Tyrant%0A2%09Cleansing%20Nova%0A2%09Deathgorge%20Scavenger%0A2%09Huatli,%20Warrior%20Poet%0A1%09Remorseful%20Cleric%0A2%09Shield%20Mare%0A3%09Tocatli%20Honor%20Guard)
 # Maindeck
 

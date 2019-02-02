@@ -1,6 +1,8 @@
 # Simic Ramp
 
-#### [Export MTGO List](../collection/Simic%20Ramp/Simic%20Ramp.txt)
+#### [Export MTGO List](../collection/Simic%20Ramp/Simic%20Ramp.txt)# Simic Ramp
+
+#### [Export Arena List](../collection/Simic%20Ramp/Simic%20Ramp_arena.txt)
 #### [Print on decklist.org](http://decklist.org/?deckmain=2%09Beast%20Whisperer%0A4%09Breeding%20Pool%0A2%09District%20Guide%0A4%09Druid%20of%20the%20Cowl%0A11%09Forest%0A4%09Growth-Chamber%20Guardian%0A4%09Hinterland%20Harbor%0A4%09Hydroid%20Krasis%0A4%09Incubation%20Druid%0A3%09Incubation/Incongruity%0A1%09Island%0A4%09Llanowar%20Elves%0A3%09Marwyn,%20the%20Nurturer%0A4%09Steel%20Leaf%20Champion%0A4%09Stony%20Strength%0A2%09Unclaimed%20Territory&deckside=3%09Kraul%20Harpooner%0A3%09Negate%0A4%09Nullhide%20Ferox%0A2%09Spell%20Pierce%0A3%09Thrashing%20Brontodon)
 # Maindeck
 

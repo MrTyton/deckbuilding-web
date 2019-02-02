@@ -1,6 +1,8 @@
 # Jund
 
-#### [Export MTGO List](../collection/Jund/Jund.txt)
+#### [Export MTGO List](../collection/Jund/Jund.txt)# Jund
+
+#### [Export Arena List](../collection/Jund/Jund_arena.txt)
 #### [Print on decklist.org](http://decklist.org/?deckmain=4%09Blood%20Crypt%0A1%09Carnival%20/%20Carnage%0A2%09Dire%20Fleet%20Daredevil%0A4%09Dragonskull%20Summit%0A3%09Find%20/%20Finality%0A4%09Goblin%20Chainwhirler%0A2%09Kitesail%20Freebooter%0A4%09Lava%20Coil%0A6%09Mountain%0A2%09Rakdos%20Guildgate%0A4%09Rekindling%20Phoenix%0A4%09Rix%20Maadi%20Reveler%0A4%09Rootbound%20Crag%0A3%09Shivan%20Fire%0A4%09Siege-Gang%20Commander%0A4%09Status%20/%20Statue%0A4%09Stomping%20Ground%0A1%09Swamp&deckside=1%09Angrath,%20the%20Flame-Chained%0A4%09Duress%0A3%09Legion%20Warboss%0A2%09Moment%20of%20Craving%0A1%09Shivan%20Fire%0A1%09The%20Eldest%20Reborn%0A3%09Treasure%20Map)
 # Maindeck
 

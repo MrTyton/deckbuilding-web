@@ -1,6 +1,8 @@
 # Dimir Midrange
 
-#### [Export MTGO List](../collection/Dimir%20Midrange/Dimir%20Midrange.txt)
+#### [Export MTGO List](../collection/Dimir%20Midrange/Dimir%20Midrange.txt)# Dimir Midrange
+
+#### [Export Arena List](../collection/Dimir%20Midrange/Dimir%20Midrange_arena.txt)
 #### [Print on decklist.org](http://decklist.org/?deckmain=2%09Cast%20Down%0A4%09Curious%20Obsession%0A4%09Dire%20Fleet%20Poisoner%0A4%09Dive%20Down%0A4%09Drowned%20Catacomb%0A4%09Fathom%20Fleet%20Captain%0A2%09Hostage%20Taker%0A9%09Island%0A4%09Kitesail%20Freebooter%0A4%09Lookout's%20Dispersal%0A2%09Opt%0A4%09Siren%20Stormtamer%0A4%09Swamp%0A4%09Thief%20of%20Sanity%0A1%09Unclaimed%20Territory%0A4%09Watery%20Grave&deckside=2%09Cast%20Down%0A2%09Disdainful%20Stroke%0A2%09Dreamcaller%20Siren%0A2%09Moment%20of%20Craving%0A2%09Price%20of%20Fame%0A2%09Ruin%20Raider%0A1%09The%20Eldest%20Reborn%0A2%09Thought%20Erasure)
 # Maindeck
 

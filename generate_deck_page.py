@@ -24,7 +24,7 @@ def return_url_line_type(cardName):
     name = name.strip()
     global memoizer
     if name in memoizer:
-        url_string, card_type, name = memoizer[name]
+        url_string, card_type, name, _, _ = memoizer[name]
         url_string = f"{quantity} {url_string}"
         return url_string, card_type, name
     cards = Card.where(name=name.split("/")[0]).iter()
@@ -58,11 +58,9 @@ def return_url_line_type(cardName):
     except:
         number = 0
     if last_set == "DOM":
-        log("Changing set")
         last_set = "DAR"
         
     memoizer[name] = ("[{}]({})".format(name, url), card_type, name, last_set, number)
-    log(memoizer[name])
     return "{} [{}]({})".format(quantity, name, url), card_type, name
 
 
@@ -118,7 +116,35 @@ def merge_markdown_tables(input1, input2, title):
     writer.value_matrix = [[input1, input2]]
     writer.write_table()
     return res
-
+    
+def create_arena_export(title, site, format):
+    global memoizer
+    with open(f"./{site}/{format}/collection/{title}/{title}.txt", "r") as fp:
+        data = fp.readlines()
+    results = []
+    #log(f"{len(data)}, {data}")
+    for line in data:
+        line = line.strip()
+        #log(line)
+        if line == "Sideboard":
+            results.append("\n")
+            continue
+        name = line.split(" ", 1)[1].strip()
+        #log(name)
+        if name in memoizer:
+            #log(f"Found {name}")
+            res = memoizer[name]
+            #log(res[3])
+            #log(res[4])
+            results.append(f"{line.replace('/', '//')} ({res[3]}) {res[4]}\n")
+        else:
+            #log("Not in memoizer")
+            continue
+    #log(results)
+    with open(f"./{site}/{format}/collection/{title}/{title}_arena.txt", "w") as fp:
+        #log(f"Writing to: ./{site}/{format}/collection/{title}/{title}_arena.txt")
+        fp.writelines(results)
+    return
 
 def run(title, dir, format, site):
     everything = f"# {title}\n\n#### [Export MTGO List](../collection/{title.replace(' ', '%20')}/{title.replace(' ', '%20')}.txt)"
@@ -140,6 +166,11 @@ def run(title, dir, format, site):
         q = generate_markdown_table_mainside(a, f"{cur}\n")
         other += "\n" + q.getvalue()
         
+    
+    if format == "Standard":
+        create_arena_export(title, site, format)
+        everything += f"# {title}\n\n#### [Export Arena List](../collection/{title.replace(' ', '%20')}/{title.replace(' ', '%20')}_arena.txt)"
+
     everything += f"\n#### [Print on decklist.org](http://decklist.org/?deckmain={maindeckString}&deckside={sideboardString})"
     
     everything += other
@@ -151,7 +182,7 @@ def run(title, dir, format, site):
             inputs = fp.readlines()
         inputs = [x.strip() for x in inputs]
         temp.append([return_url_line_type(x)[0].split(" ", 1) for x in inputs])
-    log(temp)
+    
     q = generate_markdown_table_options(temp, "Other Options\n")
     if q:
         everything += "\n" + q.getvalue()

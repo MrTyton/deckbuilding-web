@@ -1,6 +1,8 @@
 # Mardu Angels
 
-#### [Export MTGO List](../collection/Mardu%20Angels/Mardu%20Angels.txt)
+#### [Export MTGO List](../collection/Mardu%20Angels/Mardu%20Angels.txt)# Mardu Angels
+
+#### [Export Arena List](../collection/Mardu%20Angels/Mardu%20Angels_arena.txt)
 #### [Print on decklist.org](http://decklist.org/?deckmain=4%09Adanto%20Vanguard%0A2%09Aurelia,%20Exemplar%20of%20Justice%0A4%09Blood%20Crypt%0A4%09Clifftop%20Retreat%0A3%09Deafening%20Clarion%0A2%09Dragonskull%20Summit%0A4%09Godless%20Shrine%0A4%09History%20of%20Benalia%0A4%09Isolated%20Chapel%0A4%09Lava%20Coil%0A4%09Lyra%20Dawnbringer%0A4%09Mortify%0A2%09Plains%0A4%09Resplendent%20Angel%0A4%09Sacred%20Foundry%0A2%09Seraph%20of%20the%20Scales%0A1%09Shalai,%20Voice%20of%20Plenty%0A4%09Tocatli%20Honor%20Guard&deckside=2%09Angrath,%20the%20Flame-Chained%0A1%09Deafening%20Clarion%0A2%09Drill%20Bit%0A4%09Duress%0A1%09Ixalan's%20Binding%0A1%09Kaya,%20Orzhov%20Usurper%0A1%09Profane%20Procession%0A3%09Theater%20of%20Horrors)
 # Maindeck
 

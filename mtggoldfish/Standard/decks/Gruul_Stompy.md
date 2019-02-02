@@ -1,6 +1,8 @@
 # Gruul Stompy
 
-#### [Export MTGO List](../collection/Gruul%20Stompy/Gruul%20Stompy.txt)
+#### [Export MTGO List](../collection/Gruul%20Stompy/Gruul%20Stompy.txt)# Gruul Stompy
+
+#### [Export Arena List](../collection/Gruul%20Stompy/Gruul%20Stompy_arena.txt)
 #### [Print on decklist.org](http://decklist.org/?deckmain=4%09Collision/Colossus%0A11%09Forest%0A3%09Ghalta,%20Primal%20Hunger%0A4%09Gruul%20Spellbreaker%0A4%09Llanowar%20Elves%0A2%09Mountain%0A4%09Nullhide%20Ferox%0A4%09Pelt%20Collector%0A1%09Ripjaw%20Raptor%0A4%09Rootbound%20Crag%0A4%09Steel%20Leaf%20Champion%0A4%09Stomping%20Ground%0A4%09Thorn%20Lieutenant%0A2%09Thud%0A1%09Timber%20Gorge%0A4%09Zhur-Taa%20Goblin&deckside=1%09Carnage%20Tyrant%0A2%09Cindervines%0A3%09Deathgorge%20Scavenger%0A1%09Domri,%20Chaos%20Bringer%0A3%09Fiery%20Cannonade%0A2%09Kraul%20Harpooner%0A2%09Thrashing%20Brontodon%0A1%09Vivien%20Reid)
 # Maindeck
 
