@@ -54,7 +54,7 @@ def return_url_line_type(cardName):
         card_type = "Unknown"
     last_set = [x for x in card.printings if Set.find(x).type in ['expansion', 'core']][-1]
     try:
-        number = Card.where(name=name.split("/")[0], set=last_set).all()[0].number
+        number = ''.join(q for q in [x for x in Card.where(name=name.split("/")[0], set=last_set).all() where x.name == name.split("/")[0]][0].number if c.isdigit())
     except:
         number = 0
     if last_set == "DOM":
@@ -165,11 +165,10 @@ def run(title, dir, format, site):
         a = get_links_group_by_types(inputs)
         q = generate_markdown_table_mainside(a, f"{cur}\n")
         other += "\n" + q.getvalue()
-        
     
     if format == "Standard":
         create_arena_export(title, site, format)
-        everything += f"# {title}\n\n#### [Export Arena List](../collection/{title.replace(' ', '%20')}/{title.replace(' ', '%20')}_arena.txt)"
+        everything += f"\n#### [Export Arena List](../collection/{title.replace(' ', '%20')}/{title.replace(' ', '%20')}_arena.txt)"
 
     everything += f"\n#### [Print on decklist.org](http://decklist.org/?deckmain={maindeckString}&deckside={sideboardString})"
     
