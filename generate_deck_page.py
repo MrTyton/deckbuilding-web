@@ -136,7 +136,7 @@ def create_arena_export(title, site, format):
             res = memoizer[name]
             #log(res[3])
             #log(res[4])
-            results.append(f"{line.replace('/', '//')} ({res[3]}) {res[4]}\n")
+            results.append(f"{line.replace('/', ' // ')} ({res[3]}) {res[4]}\n")
         else:
             #log("Not in memoizer")
             continue
