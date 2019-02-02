@@ -38,7 +38,7 @@
 |                    1|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129606)             |                    2|[Ghirapur Aether Grid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=398517)  |
 |                    3|[Sorcerous Spyglass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435407) |                    1|[Sun Droplet](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220530)           |
 |                    2|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129606)             |                    2|[Sun Droplet](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220530)           |
-|                    2|[Snow-Covered Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121130)|                    3|[Sai, Master Thopterist](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447205)|
-|                    1|[Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452)  |                     |                                                                                                 |
+|                    1|[Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452)  |                    3|[Sai, Master Thopterist](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447205)|
+|                    2|[Snow-Covered Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121130)|                     |                                                                                                 |
 |                    1|[Yavimaya Coast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129810)     |                     |                                                                                                 |
 

@@ -35,9 +35,9 @@
 |                    3|[Arid Mesa](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405092)      |                    2|[Chained to the Rocks](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373521)  |
 |                    1|[Lightning Helix](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=249386)|                    3|[Chained to the Rocks](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373521)  |
 |                    2|[Lightning Helix](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=249386)|                    1|[Kor Firewalker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442010)        |
-|                    4|[Arid Mesa](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405092)      |                    1|[Exquisite Firecraft](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=398513)   |
+|                    4|[Arid Mesa](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405092)      |                    2|[Exquisite Firecraft](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=398513)   |
 |                    1|[Scalding Tarn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405107)  |                    2|[Kor Firewalker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442010)        |
 |                    2|[Grim Lavamancer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430589)|                    3|[Searing Blood](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=378483)         |
-|                    2|[Scalding Tarn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405107)  |                    2|[Exquisite Firecraft](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=398513)   |
+|                    2|[Scalding Tarn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405107)  |                    1|[Exquisite Firecraft](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=398513)   |
 |                    3|[Scalding Tarn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405107)  |                     |                                                                                                 |
 

@@ -32,8 +32,8 @@
 
 |*n*<sup>th</sup> copy|                                        Maindeck Card                                        |*n*<sup>th</sup> copy|                                      Sideboard Card                                      |
 |--------------------:|---------------------------------------------------------------------------------------------|--------------------:|------------------------------------------------------------------------------------------|
-|                    2|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129606)            |                    1|[Grand Abolisher](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389538)|
-|                    2|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129680)            |                    1|[Solemnity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430711)      |
+|                    2|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129680)            |                    1|[Grand Abolisher](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389538)|
+|                    2|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129606)            |                    1|[Solemnity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430711)      |
 |                    1|[Mystical Teachings](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425869)|                    1|[Painful Truths](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401981) |
 |                    1|[Flooded Strand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405098)    |                    2|[Grand Abolisher](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389538)|
 |                    1|[Watery Grave](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405114)      |                    2|[Painful Truths](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401981) |
