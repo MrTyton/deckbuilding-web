@@ -1,7 +1,6 @@
 # Mardu Aristocrats
 
-#### [Export MTGO List](../collection/Mardu%20Aristocrats/Mardu%20Aristocrats.txt)# Mardu Aristocrats
-
+#### [Export MTGO List](../collection/Mardu%20Aristocrats/Mardu%20Aristocrats.txt)
 #### [Export Arena List](../collection/Mardu%20Aristocrats/Mardu%20Aristocrats_arena.txt)
 #### [Print on decklist.org](http://decklist.org/?deckmain=4%09Blood%20Crypt%0A3%09Carnival/Carnage%0A4%09Clifftop%20Retreat%0A1%09Dragonskull%20Summit%0A3%09Elenda,%20the%20Dusk%20Rose%0A4%09Footlight%20Fiend%0A4%09Godless%20Shrine%0A4%09Gutterbones%0A4%09Hero%20of%20Precinct%20One%0A4%09Isolated%20Chapel%0A4%09Judith,%20the%20Scourge%20Diva%0A3%09Midnight%20Reaper%0A2%09Mortify%0A4%09Pitiless%20Pontiff%0A4%09Priest%20of%20Forgotten%20Gods%0A4%09Sacred%20Foundry%0A3%09Swamp%0A1%09Theater%20of%20Horrors&deckside=2%09Angrath,%20the%20Flame-Chained%0A4%09Drill%20Bit%0A2%09Ethereal%20Absolution%0A3%09Lava%20Coil%0A1%09Midnight%20Reaper%0A2%09Plaguecrafter%0A1%09Theater%20of%20Horrors)
 # Maindeck

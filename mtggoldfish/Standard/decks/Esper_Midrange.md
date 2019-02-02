@@ -1,7 +1,6 @@
 # Esper Midrange
 
-#### [Export MTGO List](../collection/Esper%20Midrange/Esper%20Midrange.txt)# Esper Midrange
-
+#### [Export MTGO List](../collection/Esper%20Midrange/Esper%20Midrange.txt)
 #### [Export Arena List](../collection/Esper%20Midrange/Esper%20Midrange_arena.txt)
 #### [Print on decklist.org](http://decklist.org/?deckmain=4%09Basilica%20Bell-Haunt%0A4%09Deputy%20of%20Detention%0A4%09Discovery/Dispersal%0A2%09Dovin,%20Grand%20Arbiter%0A4%09Drowned%20Catacomb%0A4%09Glacial%20Fortress%0A4%09Godless%20Shrine%0A3%09Hallowed%20Fountain%0A4%09Hero%20of%20Precinct%20One%0A2%09Hostage%20Taker%0A4%09Isolated%20Chapel%0A2%09Lyra%20Dawnbringer%0A4%09Mortify%0A3%09Seraph%20of%20the%20Scales%0A1%09Swamp%0A3%09Thief%20of%20Sanity%0A4%09Thought%20Erasure%0A4%09Watery%20Grave&deckside=1%09Cast%20Down%0A2%09Consecrate/Consume%0A1%09Disdainful%20Stroke%0A2%09Duress%0A2%09Karn,%20Scion%20of%20Urza%0A1%09Moment%20of%20Craving%0A2%09Negate%0A1%09The%20Eldest%20Reborn%0A1%09Thief%20of%20Sanity%0A2%09Vraska's%20Contempt)
 # Maindeck

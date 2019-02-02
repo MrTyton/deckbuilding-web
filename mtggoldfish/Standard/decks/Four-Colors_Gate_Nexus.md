@@ -1,7 +1,6 @@
 # Four-Colors Gate Nexus
 
-#### [Export MTGO List](../collection/Four-Colors%20Gate%20Nexus/Four-Colors%20Gate%20Nexus.txt)# Four-Colors Gate Nexus
-
+#### [Export MTGO List](../collection/Four-Colors%20Gate%20Nexus/Four-Colors%20Gate%20Nexus.txt)
 #### [Export Arena List](../collection/Four-Colors%20Gate%20Nexus/Four-Colors%20Gate%20Nexus_arena.txt)
 #### [Print on decklist.org](http://decklist.org/?deckmain=4%09Azorius%20Guildgate%0A1%09Chemister's%20Insight%0A4%09Circuitous%20Route%0A2%09Deafening%20Clarion%0A3%09Expansion/Explosion%0A1%09Forest%0A4%09Gates%20Ablaze%0A4%09Growth%20Spiral%0A4%09Gruul%20Guildgate%0A4%09Guild%20Summit%0A4%09Hydroid%20Krasis%0A1%09Island%0A4%09Izzet%20Guildgate%0A4%09Nexus%20of%20Fate%0A4%09Plaza%20of%20Harmony%0A4%09Selesnya%20Guildgate%0A4%09Simic%20Guildgate%0A4%09Wilderness%20Reclamation&deckside=3%09Archway%20Angel%0A1%09Crushing%20Canopy%0A1%09Deafening%20Clarion%0A2%09Disdainful%20Stroke%0A4%09Gatebreaker%20Ram%0A1%09Ionize%0A3%09Negate)
 # Maindeck

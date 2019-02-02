@@ -1,7 +1,6 @@
 # Jeskai Midrange
 
-#### [Export MTGO List](../collection/Jeskai%20Midrange/Jeskai%20Midrange.txt)# Jeskai Midrange
-
+#### [Export MTGO List](../collection/Jeskai%20Midrange/Jeskai%20Midrange.txt)
 #### [Export Arena List](../collection/Jeskai%20Midrange/Jeskai%20Midrange_arena.txt)
 #### [Print on decklist.org](http://decklist.org/?deckmain=4%09Adanto%20Vanguard%0A3%09Aurelia,%20Exemplar%20of%20Justice%0A1%09Banefire%0A3%09Captain%20Lannery%20Storm%0A4%09Clifftop%20Retreat%0A4%09Glacial%20Fortress%0A4%09History%20of%20Benalia%0A3%09Lava%20Coil%0A2%09Lyra%20Dawnbringer%0A1%09Mountain%0A1%09Negate%0A4%09Plains%0A4%09Rekindling%20Phoenix%0A4%09Sacred%20Foundry%0A3%09Spell%20Pierce%0A4%09Steam%20Vents%0A4%09Sulfur%20Falls%0A3%09Teferi,%20Hero%20of%20Dominaria%0A4%09Tocatli%20Honor%20Guard&deckside=1%09Banefire%0A1%09Deafening%20Clarion%0A1%09Disdainful%20Stroke%0A1%09Lava%20Coil%0A1%09Lyra%20Dawnbringer%0A3%09Negate%0A1%09Raff%20Capashen,%20Ship's%20Mage%0A3%09Seal%20Away%0A2%09Settle%20the%20Wreckage%0A1%09Teferi,%20Hero%20of%20Dominaria)
 # Maindeck

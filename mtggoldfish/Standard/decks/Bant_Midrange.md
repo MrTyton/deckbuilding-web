@@ -1,7 +1,6 @@
 # Bant Midrange
 
-#### [Export MTGO List](../collection/Bant%20Midrange/Bant%20Midrange.txt)# Bant Midrange
-
+#### [Export MTGO List](../collection/Bant%20Midrange/Bant%20Midrange.txt)
 #### [Export Arena List](../collection/Bant%20Midrange/Bant%20Midrange_arena.txt)
 #### [Print on decklist.org](http://decklist.org/?deckmain=2%09Ajani,%20Adversary%20of%20Tyrants%0A1%09Biogenic%20Ooze%0A4%09Breeding%20Pool%0A4%09Deputy%20of%20Detention%0A4%09Forest%0A4%09Frilled%20Mystic%0A4%09Glacial%20Fortress%0A4%09Growth-Chamber%20Guardian%0A2%09Hadana's%20Climb%0A3%09Hallowed%20Fountain%0A4%09Hinterland%20Harbor%0A4%09Hydroid%20Krasis%0A4%09Incubation%20Druid%0A4%09Llanowar%20Elves%0A4%09Sunpetal%20Grove%0A4%09Temple%20Garden%0A2%09Trostani%20Discordant%0A2%09Vivien%20Reid&deckside=3%09Baffling%20End%0A2%09Disdainful%20Stroke%0A3%09Knight%20of%20Autumn%0A3%09Lyra%20Dawnbringer%0A3%09Negate%0A1%09Shalai,%20Voice%20of%20Plenty)
 # Maindeck

@@ -1,7 +1,6 @@
 # Jund Aggro
 
-#### [Export MTGO List](../collection/Jund%20Aggro/Jund%20Aggro.txt)# Jund Aggro
-
+#### [Export MTGO List](../collection/Jund%20Aggro/Jund%20Aggro.txt)
 #### [Export Arena List](../collection/Jund%20Aggro/Jund%20Aggro_arena.txt)
 #### [Print on decklist.org](http://decklist.org/?deckmain=4%09Blood%20Crypt%0A2%09Captain%20Lannery%20Storm%0A1%09Carnival%20/%20Carnage%0A1%09Cinder%20Barrens%0A4%09Dragonskull%20Summit%0A3%09Find%20/%20Finality%0A4%09Goblin%20Chainwhirler%0A4%09Lava%20Coil%0A7%09Mountain%0A1%09Rakdos%20Guildgate%0A4%09Rekindling%20Phoenix%0A4%09Rix%20Maadi%20Reveler%0A4%09Rootbound%20Crag%0A4%09Runaway%20Steam-Kin%0A2%09Shock%0A4%09Skarrgan%20Hellkite%0A3%09Status%20/%20Statue%0A4%09Stomping%20Ground&deckside=1%09Angrath,%20the%20Flame-Chained%0A4%09Duress%0A3%09Legion%20Warboss%0A1%09Shivan%20Fire%0A1%09Swamp%0A2%09The%20Eldest%20Reborn%0A3%09Treasure%20Map)
 # Maindeck

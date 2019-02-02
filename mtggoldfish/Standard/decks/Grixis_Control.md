@@ -1,7 +1,6 @@
 # Grixis Control
 
-#### [Export MTGO List](../collection/Grixis%20Control/Grixis%20Control.txt)# Grixis Control
-
+#### [Export MTGO List](../collection/Grixis%20Control/Grixis%20Control.txt)
 #### [Export Arena List](../collection/Grixis%20Control/Grixis%20Control_arena.txt)
 #### [Print on decklist.org](http://decklist.org/?deckmain=2%09Bedevil%0A2%09Blood%20Crypt%0A3%09Chemister's%20Insight%0A3%09Crackling%20Drake%0A2%09Disdainful%20Stroke%0A4%09Dragonskull%20Summit%0A4%09Drowned%20Catacomb%0A2%09Essence%20Scatter%0A2%09Expansion/Explosion%0A2%09Ionize%0A3%09Island%0A2%09Lava%20Coil%0A2%09Lightning%20Strike%0A2%09Moment%20of%20Craving%0A1%09Mountain%0A3%09Niv-Mizzet,%20Parun%0A1%09Ral,%20Izzet%20Viceroy%0A2%09Search%20for%20Azcanta%0A4%09Steam%20Vents%0A4%09Sulfur%20Falls%0A2%09The%20Eldest%20Reborn%0A4%09Thought%20Erasure%0A4%09Watery%20Grave&deckside=1%09Bedevil%0A3%09Cry%20of%20the%20Carnarium%0A1%09Expansion/Explosion%0A1%09Legion%20Warboss%0A2%09Negate%0A2%09Ritual%20of%20Soot%0A1%09Shivan%20Fire%0A1%09Star%20of%20Extinction%0A1%09The%20Eldest%20Reborn%0A2%09Thief%20of%20Sanity)
 # Maindeck

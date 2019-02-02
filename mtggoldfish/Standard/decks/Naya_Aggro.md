@@ -1,7 +1,6 @@
 # Naya Aggro
 
-#### [Export MTGO List](../collection/Naya%20Aggro/Naya%20Aggro.txt)# Naya Aggro
-
+#### [Export MTGO List](../collection/Naya%20Aggro/Naya%20Aggro.txt)
 #### [Export Arena List](../collection/Naya%20Aggro/Naya%20Aggro_arena.txt)
 #### [Print on decklist.org](http://decklist.org/?deckmain=1%09Ajani,%20Adversary%20of%20Tyrants%0A2%09Clifftop%20Retreat%0A4%09Forest%0A4%09Gruul%20Spellbreaker%0A1%09Huatli,%20Warrior%20Poet%0A2%09Ixalan's%20Binding%0A3%09Knight%20of%20Autumn%0A4%09Lava%20Coil%0A2%09Legion%20Warboss%0A4%09Llanowar%20Elves%0A4%09Merfolk%20Branchwalker%0A4%09Pelt%20Collector%0A3%09Rekindling%20Phoenix%0A4%09Rootbound%20Crag%0A3%09Sacred%20Foundry%0A2%09Shalai,%20Voice%20of%20Plenty%0A2%09Skarrgan%20Hellkite%0A4%09Stomping%20Ground%0A2%09Sunpetal%20Grove%0A3%09Temple%20Garden%0A2%09Trostani%20Discordant&deckside=1%09Ajani,%20Adversary%20of%20Tyrants%0A2%09Banefire%0A3%09Deathgorge%20Scavenger%0A1%09Huatli,%20Warrior%20Poet%0A2%09Justice%20Strike%0A2%09Lyra%20Dawnbringer%0A3%09Shapers'%20Sanctuary%0A1%09Vivien%20Reid)
 # Maindeck

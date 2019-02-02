@@ -1,7 +1,6 @@
 # Sultai Control
 
-#### [Export MTGO List](../collection/Sultai%20Control/Sultai%20Control.txt)# Sultai Control
-
+#### [Export MTGO List](../collection/Sultai%20Control/Sultai%20Control.txt)
 #### [Export Arena List](../collection/Sultai%20Control/Sultai%20Control_arena.txt)
 #### [Print on decklist.org](http://decklist.org/?deckmain=2%09Assassin's%20Trophy%0A4%09Discovery%20/%20Dispersal%0A4%09Disinformation%20Campaign%0A4%09Drowned%20Catacomb%0A2%09Golden%20Demise%0A4%09Hinterland%20Harbor%0A4%09Island%0A2%09Moment%20of%20Craving%0A4%09Overgrown%20Tomb%0A1%09Ritual%20of%20Soot%0A2%09Search%20for%20Azcanta%0A3%09Sinister%20Sabotage%0A2%09Swamp%0A2%09Syncopate%0A3%09The%20Eldest%20Reborn%0A4%09Thought%20Erasure%0A3%09Vraska's%20Contempt%0A3%09Vraska,%20Relic%20Seeker%0A4%09Watery%20Grave%0A3%09Woodland%20Cemetery&deckside=3%09Blood%20Operative%0A1%09Disdainful%20Stroke%0A2%09Duress%0A1%09Golden%20Demise%0A2%09Moment%20of%20Craving%0A2%09Negate%0A1%09Ritual%20of%20Soot%0A3%09Thief%20of%20Sanity)
 # Maindeck

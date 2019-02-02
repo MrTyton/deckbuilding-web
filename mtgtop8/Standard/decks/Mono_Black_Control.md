@@ -1,7 +1,6 @@
 # Mono Black Control
 
-#### [Export MTGO List](../collection/Mono%20Black%20Control/Mono%20Black%20Control.txt)# Mono Black Control
-
+#### [Export MTGO List](../collection/Mono%20Black%20Control/Mono%20Black%20Control.txt)
 #### [Export Arena List](../collection/Mono%20Black%20Control/Mono%20Black%20Control_arena.txt)
 #### [Print on decklist.org](http://decklist.org/?deckmain=4%09Cabal%20Stronghold%0A4%09Chromatic%20Lantern%0A1%09Demonlord%20Belzenlok%0A2%09Golden%20Demise%0A1%09Josu%20Vess,%20Lich%20Knight%0A4%09Karn,%20Scion%20of%20Urza%0A4%09Mastermind's%20Acquisition%0A2%09Moment%20of%20Craving%0A2%09Niv-Mizzet,%20Parun%0A2%09Ritual%20of%20Soot%0A21%09Swamp%0A2%09Thaumatic%20Compass%0A3%09The%20Eldest%20Reborn%0A1%09The%20Mirari%20Conjecture%0A4%09Treasure%20Map%0A3%09Vraska's%20Contempt&deckside=2%09Arguel's%20Blood%20Fast%0A1%09Banefire%0A1%09Cast%20Down%0A1%09Cleansing%20Nova%0A4%09Duress%0A1%09Golden%20Demise%0A1%09Sanguine%20Sacrament%0A1%09Star%20of%20Extinction%0A1%09Vraska's%20Contempt%0A1%09Vraska,%20Relic%20Seeker%0A1%09Zacama,%20Primal%20Calamity)
 # Maindeck

@@ -1,7 +1,6 @@
 # Red(-Green) Aggro
 
-#### [Export MTGO List](../collection/Red(-Green)%20Aggro/Red(-Green)%20Aggro.txt)# Red(-Green) Aggro
-
+#### [Export MTGO List](../collection/Red(-Green)%20Aggro/Red(-Green)%20Aggro.txt)
 #### [Export Arena List](../collection/Red(-Green)%20Aggro/Red(-Green)%20Aggro_arena.txt)
 #### [Print on decklist.org](http://decklist.org/?deckmain=4%09Experimental%20Frenzy%0A4%09Ghitu%20Lavarunner%0A4%09Goblin%20Chainwhirler%0A4%09Light%20Up%20the%20Stage%0A4%09Lightning%20Strike%0A13%09Mountain%0A4%09Rootbound%20Crag%0A4%09Runaway%20Steam-Kin%0A4%09Shock%0A4%09Skewer%20the%20Critics%0A4%09Stomping%20Ground%0A4%09Viashino%20Pyromancer%0A3%09Wizard's%20Lightning&deckside=4%09Cindervines%0A4%09Collision/Colossus%0A2%09Dire%20Fleet%20Daredevil%0A3%09Lava%20Coil%0A2%09Rekindling%20Phoenix)
 # Maindeck

@@ -1,7 +1,6 @@
 # WBR
 
-#### [Export MTGO List](../collection/WBR/WBR.txt)# WBR
-
+#### [Export MTGO List](../collection/WBR/WBR.txt)
 #### [Export Arena List](../collection/WBR/WBR_arena.txt)
 #### [Print on decklist.org](http://decklist.org/?deckmain=4%09Clifftop%20Retreat%0A3%09Conclave%20Tribunal%0A4%09Dauntless%20Bodyguard%0A4%09Godless%20Shrine%0A2%09Healer's%20Hawk%0A4%09Heroic%20Reinforcements%0A4%09History%20of%20Benalia%0A4%09Hunted%20Witness%0A4%09Isolated%20Chapel%0A4%09Judith,%20the%20Scourge%20Diva%0A4%09Legion's%20Landing%0A2%09Light%20Up%20the%20Stage%0A5%09Plains%0A4%09Sacred%20Foundry%0A4%09Skymarcher%20Aspirant%0A4%09Snubhorn%20Sentry&deckside=2%09Ajani,%20Adversary%20of%20Tyrants%0A3%09Baffling%20End%0A3%09Drill%20Bit%0A3%09Lava%20Coil%0A4%09Tocatli%20Honor%20Guard)
 # Maindeck

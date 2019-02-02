@@ -1,7 +1,6 @@
 # Azorius Aggro
 
-#### [Export MTGO List](../collection/Azorius%20Aggro/Azorius%20Aggro.txt)# Azorius Aggro
-
+#### [Export MTGO List](../collection/Azorius%20Aggro/Azorius%20Aggro.txt)
 #### [Export Arena List](../collection/Azorius%20Aggro/Azorius%20Aggro_arena.txt)
 #### [Print on decklist.org](http://decklist.org/?deckmain=4%09Benalish%20Marshal%0A1%09Conclave%20Tribunal%0A4%09Dauntless%20Bodyguard%0A4%09Deputy%20of%20Detention%0A4%09Glacial%20Fortress%0A4%09Hallowed%20Fountain%0A1%09Healer's%20Hawk%0A4%09History%20of%20Benalia%0A4%09Hunted%20Witness%0A4%09Legion's%20Landing%0A13%09Plains%0A4%09Snubhorn%20Sentry%0A4%09Tithe%20Taker%0A1%09Unbreakable%20Formation%0A4%09Venerated%20Loxodon&deckside=3%09Ajani,%20Adversary%20of%20Tyrants%0A3%09Baffling%20End%0A1%09Island%0A3%09Negate%0A2%09Spell%20Pierce%0A3%09Tocatli%20Honor%20Guard)
 # Maindeck

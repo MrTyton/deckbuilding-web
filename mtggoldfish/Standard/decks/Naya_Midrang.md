@@ -1,7 +1,6 @@
 # Naya Midrang
 
-#### [Export MTGO List](../collection/Naya%20Midrang/Naya%20Midrang.txt)# Naya Midrang
-
+#### [Export MTGO List](../collection/Naya%20Midrang/Naya%20Midrang.txt)
 #### [Export Arena List](../collection/Naya%20Midrang/Naya%20Midrang_arena.txt)
 #### [Print on decklist.org](http://decklist.org/?deckmain=3%09Adanto%20Vanguard%0A3%09Aurelia,%20Exemplar%20of%20Justice%0A1%09Boros%20Guildgate%0A4%09Clifftop%20Retreat%0A4%09Growth-Chamber%20Guardian%0A2%09Gruul%20Spellbreaker%0A4%09History%20of%20Benalia%0A1%09Ixalan's%20Binding%0A4%09Lava%20Coil%0A3%09Lyra%20Dawnbringer%0A1%09Mountain%0A1%09Plains%0A4%09Rekindling%20Phoenix%0A3%09Rhythm%20of%20the%20Wild%0A2%09Rootbound%20Crag%0A4%09Sacred%20Foundry%0A1%09Shock%0A4%09Stomping%20Ground%0A4%09Sunpetal%20Grove%0A4%09Temple%20Garden%0A3%09Tocatli%20Honor%20Guard&deckside=2%09Banefire%0A2%09Cindervines%0A2%09Deafening%20Clarion%0A2%09Dire%20Fleet%20Daredevil%0A1%09Ixalan's%20Binding%0A2%09Knight%20of%20Autumn%0A1%09Sorcerous%20Spyglass%0A2%09The%20Immortal%20Sun%0A1%09Tocatli%20Honor%20Guard)
 # Maindeck

@@ -1,7 +1,6 @@
 # BG
 
-#### [Export MTGO List](../collection/BG/BG.txt)# BG
-
+#### [Export MTGO List](../collection/BG/BG.txt)
 #### [Export Arena List](../collection/BG/BG_arena.txt)
 #### [Print on decklist.org](http://decklist.org/?deckmain=3%09Find/Finality%0A6%09Forest%0A4%09Glowspore%20Shaman%0A4%09Gutterbones%0A2%09Izoni,%20Thousand-Eyed%0A1%09Kraul%20Foragers%0A4%09Memorial%20to%20Folly%0A4%09Midnight%20Reaper%0A4%09Molderhulk%0A4%09Overgrown%20Tomb%0A3%09Plaguecrafter%0A4%09Priest%20of%20Forgotten%20Gods%0A4%09Ravenous%20Chupacabra%0A4%09Stitcher's%20Supplier%0A5%09Swamp%0A4%09Woodland%20Cemetery&deckside=1%09Assassin's%20Trophy%0A2%09Drill%20Bit%0A3%09Duress%0A2%09Golden%20Demise%0A2%09Kraul%20Foragers%0A3%09Kraul%20Harpooner%0A2%09Reclamation%20Sage)
 # Maindeck

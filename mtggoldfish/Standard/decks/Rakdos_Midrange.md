@@ -1,7 +1,6 @@
 # Rakdos Midrange
 
-#### [Export MTGO List](../collection/Rakdos%20Midrange/Rakdos%20Midrange.txt)# Rakdos Midrange
-
+#### [Export MTGO List](../collection/Rakdos%20Midrange/Rakdos%20Midrange.txt)
 #### [Export Arena List](../collection/Rakdos%20Midrange/Rakdos%20Midrange_arena.txt)
 #### [Print on decklist.org](http://decklist.org/?deckmain=4%09Blood%20Crypt%0A4%09Dragonskull%20Summit%0A4%09Fanatical%20Firebrand%0A4%09Fireblade%20Artist%0A4%09Goblin%20Instigator%0A4%09Gutterbones%0A4%09Judith,%20the%20Scourge%20Diva%0A4%09Lightning%20Strike%0A6%09Mountain%0A4%09Rix%20Maadi%20Reveler%0A4%09Skewer%20the%20Critics%0A4%09Spawn%20of%20Mayhem%0A8%09Swamp%0A2%09Vicious%20Conquistador&deckside=2%09Banefire%0A1%09Bedevil%0A1%09Drill%20Bit%0A2%09Duress%0A2%09Experimental%20Frenzy%0A1%09Fiery%20Cannonade%0A4%09Goblin%20Chainwhirler%0A2%09Theater%20of%20Horrors)
 # Maindeck

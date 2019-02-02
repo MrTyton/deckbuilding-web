@@ -1,7 +1,6 @@
 # Grixis Control
 
-#### [Export MTGO List](../collection/Grixis%20Control/Grixis%20Control.txt)# Grixis Control
-
+#### [Export MTGO List](../collection/Grixis%20Control/Grixis%20Control.txt)
 #### [Export Arena List](../collection/Grixis%20Control/Grixis%20Control_arena.txt)
 #### [Print on decklist.org](http://decklist.org/?deckmain=1%09Beacon%20Bolt%0A2%09Cast%20Down%0A1%09Chemister's%20Insight%0A2%09Disinformation%20Campaign%0A3%09Doom%20Whisperer%0A4%09Dragonskull%20Summit%0A1%09Dream%20Eater%0A4%09Drowned%20Catacomb%0A1%09Golden%20Demise%0A1%09Island%0A1%09Lava%20Coil%0A3%09Moment%20of%20Craving%0A3%09Nicol%20Bolas,%20the%20Ravager%0A3%09Ritual%20of%20Soot%0A1%09Search%20for%20Azcanta%0A3%09Sinister%20Sabotage%0A4%09Steam%20Vents%0A4%09Sulfur%20Falls%0A4%09Swamp%0A2%09Syncopate%0A2%09The%20Eldest%20Reborn%0A4%09Thought%20Erasure%0A2%09Vraska's%20Contempt%0A4%09Watery%20Grave&deckside=2%09Disdainful%20Stroke%0A2%09Duress%0A1%09Golden%20Demise%0A1%09Hostage%20Taker%0A1%09Lava%20Coil%0A2%09Negate%0A1%09Star%20of%20Extinction%0A1%09The%20Eldest%20Reborn%0A4%09Thief%20of%20Sanity)
 # Maindeck

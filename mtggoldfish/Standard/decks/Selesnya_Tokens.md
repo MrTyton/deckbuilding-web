@@ -1,7 +1,6 @@
 # Selesnya Tokens
 
-#### [Export MTGO List](../collection/Selesnya%20Tokens/Selesnya%20Tokens.txt)# Selesnya Tokens
-
+#### [Export MTGO List](../collection/Selesnya%20Tokens/Selesnya%20Tokens.txt)
 #### [Export Arena List](../collection/Selesnya%20Tokens/Selesnya%20Tokens_arena.txt)
 #### [Print on decklist.org](http://decklist.org/?deckmain=4%09Adanto%20Vanguard%0A2%09Ajani,%20Adversary%20of%20Tyrants%0A1%09Arch%20of%20Orazca%0A4%09Conclave%20Tribunal%0A3%09Emmara,%20Soul%20of%20the%20Accord%0A4%09Flower/Flourish%0A4%09Forest%0A4%09History%20of%20Benalia%0A3%09Legion's%20Landing%0A4%09March%20of%20the%20Multitudes%0A8%09Plains%0A4%09Saproling%20Migration%0A4%09Sunpetal%20Grove%0A4%09Temple%20Garden%0A3%09Trostani%20Discordant%0A4%09Venerated%20Loxodon&deckside=3%09Baffling%20End%0A2%09Ixalan's%20Binding%0A4%09Knight%20of%20Autumn%0A1%09Lyra%20Dawnbringer%0A3%09Nullhide%20Ferox%0A2%09The%20Immortal%20Sun)
 # Maindeck

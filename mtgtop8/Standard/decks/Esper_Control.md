@@ -1,7 +1,6 @@
 # Esper Control
 
-#### [Export MTGO List](../collection/Esper%20Control/Esper%20Control.txt)# Esper Control
-
+#### [Export MTGO List](../collection/Esper%20Control/Esper%20Control.txt)
 #### [Export Arena List](../collection/Esper%20Control/Esper%20Control_arena.txt)
 #### [Print on decklist.org](http://decklist.org/?deckmain=4%09Absorb%0A2%09Cast%20Down%0A2%09Chemister's%20Insight%0A1%09Chromium,%20the%20Mutable%0A4%09Drowned%20Catacomb%0A4%09Glacial%20Fortress%0A4%09Godless%20Shrine%0A4%09Hallowed%20Fountain%0A4%09Isolated%20Chapel%0A4%09Kaya's%20Wrath%0A3%09Moment%20of%20Craving%0A3%09Mortify%0A1%09Negate%0A1%09Plains%0A1%09Precognitive%20Perception%0A2%09Search%20for%20Azcanta%0A1%09Swamp%0A4%09Teferi,%20Hero%20of%20Dominaria%0A4%09Thought%20Erasure%0A3%09Vraska's%20Contempt%0A4%09Watery%20Grave&deckside=2%09Cry%20of%20the%20Carnarium%0A3%09Duress%0A1%09Hostage%20Taker%0A2%09Lyra%20Dawnbringer%0A1%09Moment%20of%20Craving%0A2%09Negate%0A4%09Thief%20of%20Sanity)
 # Maindeck

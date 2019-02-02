@@ -1,7 +1,6 @@
 # Abzan Midrange
 
-#### [Export MTGO List](../collection/Abzan%20Midrange/Abzan%20Midrange.txt)# Abzan Midrange
-
+#### [Export MTGO List](../collection/Abzan%20Midrange/Abzan%20Midrange.txt)
 #### [Export Arena List](../collection/Abzan%20Midrange/Abzan%20Midrange_arena.txt)
 #### [Print on decklist.org](http://decklist.org/?deckmain=2%09Assassin's%20Trophy%0A2%09Find/Finality%0A4%09Flower/Flourish%0A1%09Forest%0A4%09Godless%20Shrine%0A4%09Hero%20of%20Precinct%20One%0A4%09History%20of%20Benalia%0A4%09Imperious%20Oligarch%0A4%09Isolated%20Chapel%0A4%09Mortify%0A4%09Overgrown%20Tomb%0A2%09Plains%0A4%09Seraph%20of%20the%20Scales%0A2%09Shanna,%20Sisay's%20Legacy%0A2%09Sunpetal%20Grove%0A3%09Temple%20Garden%0A2%09Trostani%20Discordant%0A3%09Vivien%20Reid%0A3%09Vraska,%20Golgari%20Queen%0A2%09Woodland%20Cemetery&deckside=2%09Cast%20Down%0A3%09Conclave%20Tribunal%0A4%09Duress%0A1%09Ethereal%20Absolution%0A1%09Find/Finality%0A2%09Knight%20of%20Autumn%0A1%09Lyra%20Dawnbringer%0A1%09Midnight%20Reaper)
 # Maindeck

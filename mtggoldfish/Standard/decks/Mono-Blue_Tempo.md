@@ -1,7 +1,6 @@
 # Mono-Blue Tempo
 
-#### [Export MTGO List](../collection/Mono-Blue%20Tempo/Mono-Blue%20Tempo.txt)# Mono-Blue Tempo
-
+#### [Export MTGO List](../collection/Mono-Blue%20Tempo/Mono-Blue%20Tempo.txt)
 #### [Export Arena List](../collection/Mono-Blue%20Tempo/Mono-Blue%20Tempo_arena.txt)
 #### [Print on decklist.org](http://decklist.org/?deckmain=2%09Chart%20a%20Course%0A4%09Curious%20Obsession%0A4%09Dive%20Down%0A1%09Essence%20Scatter%0A20%09Island%0A4%09Merfolk%20Trickster%0A4%09Mist-Cloaked%20Herald%0A4%09Opt%0A4%09Siren%20Stormtamer%0A2%09Spell%20Pierce%0A4%09Tempest%20Djinn%0A3%09Warkite%20Marauder%0A4%09Wizard's%20Retort&deckside=1%09Diamond%20Mare%0A2%09Disdainful%20Stroke%0A1%09Entrancing%20Melody%0A2%09Essence%20Scatter%0A2%09Exclusion%20Mage%0A2%09Negate%0A2%09Sleep%0A1%09Spell%20Pierce%0A2%09Surge%20Mare)
 # Maindeck

@@ -1,7 +1,6 @@
 # UBG
 
-#### [Export MTGO List](../collection/UBG/UBG.txt)# UBG
-
+#### [Export MTGO List](../collection/UBG/UBG.txt)
 #### [Export Arena List](../collection/UBG/UBG_arena.txt)
 #### [Print on decklist.org](http://decklist.org/?deckmain=2%09Assassin's%20Trophy%0A3%09Breeding%20Pool%0A2%09Cast%20Down%0A4%09Discovery/Dispersal%0A2%09Disinformation%20Campaign%0A2%09Doom%20Whisperer%0A4%09Drowned%20Catacomb%0A3%09Hinterland%20Harbor%0A3%09Hydroid%20Krasis%0A3%09Island%0A2%09Karn,%20Scion%20of%20Urza%0A2%09Moment%20of%20Craving%0A2%09Overgrown%20Tomb%0A3%09Ritual%20of%20Soot%0A4%09Sinister%20Sabotage%0A3%09Swamp%0A4%09Thought%20Erasure%0A2%09Treasure%20Map%0A2%09Vraska's%20Contempt%0A2%09Vraska,%20Relic%20Seeker%0A4%09Watery%20Grave%0A2%09Woodland%20Cemetery&deckside=1%09Disdainful%20Stroke%0A2%09Duress%0A2%09Moment%20of%20Craving%0A1%09Negate%0A1%09Ritual%20of%20Soot%0A2%09The%20Eldest%20Reborn%0A3%09Thief%20of%20Sanity%0A1%09Treasure%20Map%0A2%09Unmoored%20Ego)
 # Maindeck

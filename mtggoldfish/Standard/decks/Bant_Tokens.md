@@ -1,7 +1,6 @@
 # Bant Tokens
 
-#### [Export MTGO List](../collection/Bant%20Tokens/Bant%20Tokens.txt)# Bant Tokens
-
+#### [Export MTGO List](../collection/Bant%20Tokens/Bant%20Tokens.txt)
 #### [Export Arena List](../collection/Bant%20Tokens/Bant%20Tokens_arena.txt)
 #### [Print on decklist.org](http://decklist.org/?deckmain=2%09Ajani,%20Adversary%20of%20Tyrants%0A1%09Arch%20of%20Orazca%0A2%09Baffling%20End%0A3%09Breeding%20Pool%0A4%09Conclave%20Tribunal%0A4%09Emmara,%20Soul%20of%20the%20Accord%0A4%09Flower/Flourish%0A2%09Forest%0A4%09Glacial%20Fortress%0A3%09Hallowed%20Fountain%0A4%09History%20of%20Benalia%0A3%09Hydroid%20Krasis%0A4%09Incubation%20Druid%0A4%09Llanowar%20Elves%0A4%09March%20of%20the%20Multitudes%0A2%09Plains%0A3%09Sunpetal%20Grove%0A4%09Temple%20Garden%0A3%09Trostani%20Discordant&deckside=2%09Baffling%20End%0A2%09Disdainful%20Stroke%0A3%09Knight%20of%20Autumn%0A2%09Lyra%20Dawnbringer%0A3%09Negate%0A2%09Shalai,%20Voice%20of%20Plenty%0A1%09Vivien%20Reid)
 # Maindeck

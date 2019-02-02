@@ -1,7 +1,6 @@
 # Gruul(-White) Monsters
 
-#### [Export MTGO List](../collection/Gruul(-White)%20Monsters/Gruul(-White)%20Monsters.txt)# Gruul(-White) Monsters
-
+#### [Export MTGO List](../collection/Gruul(-White)%20Monsters/Gruul(-White)%20Monsters.txt)
 #### [Export Arena List](../collection/Gruul(-White)%20Monsters/Gruul(-White)%20Monsters_arena.txt)
 #### [Print on decklist.org](http://decklist.org/?deckmain=2%09Carnage%20Tyrant%0A3%09Domri,%20Chaos%20Bringer%0A7%09Forest%0A4%09Gruul%20Spellbreaker%0A4%09Kraul%20Harpooner%0A4%09Lava%20Coil%0A4%09Llanowar%20Elves%0A4%09Merfolk%20Branchwalker%0A4%09Pelt%20Collector%0A4%09Rootbound%20Crag%0A4%09Sacred%20Foundry%0A4%09Skarrgan%20Hellkite%0A4%09Steel%20Leaf%20Champion%0A4%09Stomping%20Ground%0A4%09Temple%20Garden&deckside=2%09Carnage%20Tyrant%0A3%09Deafening%20Clarion%0A3%09Experimental%20Frenzy%0A3%09Knight%20of%20Autumn%0A2%09Ravager%20Wurm%0A2%09Vivien%20Reid)
 # Maindeck

@@ -1,7 +1,6 @@
 # Rakdos Aggro
 
-#### [Export MTGO List](../collection/Rakdos%20Aggro/Rakdos%20Aggro.txt)# Rakdos Aggro
-
+#### [Export MTGO List](../collection/Rakdos%20Aggro/Rakdos%20Aggro.txt)
 #### [Export Arena List](../collection/Rakdos%20Aggro/Rakdos%20Aggro_arena.txt)
 #### [Print on decklist.org](http://decklist.org/?deckmain=2%09Angrath,%20the%20Flame-Chained%0A1%09Blood%20Crypt%0A4%09Cinder%20Barrens%0A1%09Dire%20Fleet%20Daredevil%0A4%09Dragonskull%20Summit%0A3%09Dusk%20Legion%20Zealot%0A1%09Fanatical%20Firebrand%0A1%09Fireblade%20Artist%0A1%09Goblin%20Instigator%0A1%09Judith,%20the%20Scourge%20Diva%0A3%09Lava%20Coil%0A1%09Lightning%20Strike%0A2%09Memorial%20to%20Folly%0A3%09Midnight%20Reaper%0A8%09Mountain%0A3%09Plaguecrafter%0A2%09Ravenous%20Chupacabra%0A4%09Rekindling%20Phoenix%0A1%09Rix%20Maadi%20Reveler%0A2%09Siege-Gang%20Commander%0A1%09Spawn%20of%20Mayhem%0A7%09Swamp%0A1%09Vicious%20Conquistador%0A3%09Vraska's%20Contempt&deckside=2%09Banefire%0A1%09Bedevil%0A1%09Drill%20Bit%0A2%09Duress%0A2%09Experimental%20Frenzy%0A1%09Fiery%20Cannonade%0A4%09Goblin%20Chainwhirler%0A2%09Theater%20of%20Horrors)
 # Maindeck

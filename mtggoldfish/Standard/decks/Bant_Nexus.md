@@ -1,7 +1,6 @@
 # Bant Nexus
 
-#### [Export MTGO List](../collection/Bant%20Nexus/Bant%20Nexus.txt)# Bant Nexus
-
+#### [Export MTGO List](../collection/Bant%20Nexus/Bant%20Nexus.txt)
 #### [Export Arena List](../collection/Bant%20Nexus/Bant%20Nexus_arena.txt)
 #### [Print on decklist.org](http://decklist.org/?deckmain=1%09Arch%20of%20Orazca%0A4%09Breeding%20Pool%0A4%09Chemister's%20Insight%0A2%09Expansion/Explosion%0A2%09Forest%0A4%09Gift%20of%20Paradise%0A4%09Glacial%20Fortress%0A4%09Growth%20Spiral%0A4%09Hallowed%20Fountain%0A4%09Hinterland%20Harbor%0A1%09Island%0A4%09Nexus%20of%20Fate%0A1%09Precognitive%20Perception%0A2%09Revitalize%0A4%09Root%20Snare%0A3%09Search%20for%20Azcanta%0A3%09Sunpetal%20Grove%0A3%09Teferi,%20Hero%20of%20Dominaria%0A2%09Temple%20Garden%0A4%09Wilderness%20Reclamation&deckside=2%09Crushing%20Canopy%0A1%09Disdainful%20Stroke%0A3%09Hydroid%20Krasis%0A3%09Knight%20of%20Autumn%0A2%09Lyra%20Dawnbringer%0A4%09Negate)
 # Maindeck

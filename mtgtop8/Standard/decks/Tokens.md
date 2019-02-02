@@ -1,7 +1,6 @@
 # Tokens
 
-#### [Export MTGO List](../collection/Tokens/Tokens.txt)# Tokens
-
+#### [Export MTGO List](../collection/Tokens/Tokens.txt)
 #### [Export Arena List](../collection/Tokens/Tokens_arena.txt)
 #### [Print on decklist.org](http://decklist.org/?deckmain=1%09Arch%20of%20Orazca%0A4%09Conclave%20Tribunal%0A3%09Divine%20Visitation%0A3%09Emmara,%20Soul%20of%20the%20Accord%0A4%09Flower%20/%20Flourish%0A4%09Forest%0A4%09History%20of%20Benalia%0A4%09Karn,%20Scion%20of%20Urza%0A4%09Legion's%20Landing%0A4%09March%20of%20the%20Multitudes%0A8%09Plains%0A4%09Saproling%20Migration%0A3%09Song%20of%20Freyalise%0A4%09Sunpetal%20Grove%0A4%09Temple%20Garden%0A2%09Trostani%20Discordant&deckside=1%09Ajani,%20Adversary%20of%20Tyrants%0A1%09Assure%20/%20Assemble%0A3%09Baffling%20End%0A3%09Knight%20of%20Autumn%0A4%09Kraul%20Harpooner%0A2%09Sorcerous%20Spyglass%0A1%09The%20Immortal%20Sun)
 # Maindeck

@@ -1,7 +1,6 @@
 # UR Aggro
 
-#### [Export MTGO List](../collection/UR%20Aggro/UR%20Aggro.txt)# UR Aggro
-
+#### [Export MTGO List](../collection/UR%20Aggro/UR%20Aggro.txt)
 #### [Export Arena List](../collection/UR%20Aggro/UR%20Aggro_arena.txt)
 #### [Print on decklist.org](http://decklist.org/?deckmain=1%09Beacon%20Bolt%0A4%09Chart%20a%20Course%0A4%09Crackling%20Drake%0A4%09Discovery%20/%20Dispersal%0A3%09Dive%20Down%0A1%09Dragonskull%20Summit%0A4%09Enigma%20Drake%0A1%09Goblin%20Electromancer%0A7%09Island%0A4%09Lava%20Coil%0A5%09Mountain%0A1%09Murmuring%20Mystic%0A2%09Niv-Mizzet,%20Parun%0A4%09Opt%0A1%09Radical%20Idea%0A4%09Shock%0A2%09Spell%20Pierce%0A4%09Steam%20Vents%0A4%09Sulfur%20Falls&deckside=2%09Disdainful%20Stroke%0A2%09Entrancing%20Melody%0A2%09Fiery%20Cannonade%0A1%09Murmuring%20Mystic%0A2%09Negate%0A1%09Niv-Mizzet,%20Parun%0A2%09Ral,%20Izzet%20Viceroy%0A1%09Shivan%20Fire%0A1%09Star%20of%20Extinction%0A1%09Treasure%20Map)
 # Maindeck

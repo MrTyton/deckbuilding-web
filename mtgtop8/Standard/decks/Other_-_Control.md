@@ -1,7 +1,6 @@
 # Other - Control
 
-#### [Export MTGO List](../collection/Other%20-%20Control/Other%20-%20Control.txt)# Other - Control
-
+#### [Export MTGO List](../collection/Other%20-%20Control/Other%20-%20Control.txt)
 #### [Export Arena List](../collection/Other%20-%20Control/Other%20-%20Control_arena.txt)
 #### [Print on decklist.org](http://decklist.org/?deckmain=2%09Archway%20Angel%0A3%09Azorius%20Guildgate%0A2%09Breeding%20Pool%0A4%09Circuitous%20Route%0A2%09Deafening%20Clarion%0A3%09Expansion%20/%20Explosion%0A1%09Forest%0A4%09Gate%20Colossus%0A4%09Gatebreaker%20Ram%0A4%09Gates%20Ablaze%0A4%09Growth%20Spiral%0A4%09Gruul%20Guildgate%0A4%09Guild%20Summit%0A1%09Island%0A4%09Izzet%20Guildgate%0A4%09Plaza%20of%20Harmony%0A3%09Selesnya%20Guildgate%0A1%09Shimmer%20of%20Possibility%0A4%09Simic%20Guildgate%0A1%09Steam%20Vents%0A1%09Stomping%20Ground&deckside=2%09Archway%20Angel%0A3%09Cindervines%0A1%09Crushing%20Canopy%0A2%09Lava%20Coil%0A4%09Negate%0A2%09Shivan%20Fire%0A1%09Thrash%20/%20Threat)
 # Maindeck

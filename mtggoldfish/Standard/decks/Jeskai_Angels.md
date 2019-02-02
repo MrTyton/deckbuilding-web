@@ -1,7 +1,6 @@
 # Jeskai Angels
 
-#### [Export MTGO List](../collection/Jeskai%20Angels/Jeskai%20Angels.txt)# Jeskai Angels
-
+#### [Export MTGO List](../collection/Jeskai%20Angels/Jeskai%20Angels.txt)
 #### [Export Arena List](../collection/Jeskai%20Angels/Jeskai%20Angels_arena.txt)
 #### [Print on decklist.org](http://decklist.org/?deckmain=4%09Adanto%20Vanguard%0A3%09Aurelia,%20Exemplar%20of%20Justice%0A4%09Clifftop%20Retreat%0A1%09Deafening%20Clarion%0A4%09Deputy%20of%20Detention%0A4%09Glacial%20Fortress%0A2%09Hallowed%20Fountain%0A2%09Ixalan's%20Binding%0A1%09Justice%20Strike%0A2%09Lava%20Coil%0A3%09Lyra%20Dawnbringer%0A1%09Mountain%0A4%09Plains%0A4%09Resplendent%20Angel%0A4%09Sacred%20Foundry%0A2%09Shalai,%20Voice%20of%20Plenty%0A2%09Shock%0A3%09Spell%20Pierce%0A2%09Steam%20Vents%0A4%09Sulfur%20Falls%0A4%09Tithe%20Taker&deckside=1%09Banefire%0A3%09Deafening%20Clarion%0A2%09Demystify%0A3%09Disdainful%20Stroke%0A2%09Negate%0A4%09Tocatli%20Honor%20Guard)
 # Maindeck

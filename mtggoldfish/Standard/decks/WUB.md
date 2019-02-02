@@ -1,7 +1,6 @@
 # WUB
 
-#### [Export MTGO List](../collection/WUB/WUB.txt)# WUB
-
+#### [Export MTGO List](../collection/WUB/WUB.txt)
 #### [Export Arena List](../collection/WUB/WUB_arena.txt)
 #### [Print on decklist.org](http://decklist.org/?deckmain=3%09Cast%20Down%0A1%09Chemister's%20Insight%0A2%09Cry%20of%20the%20Carnarium%0A4%09Drowned%20Catacomb%0A4%09Glacial%20Fortress%0A4%09Godless%20Shrine%0A3%09Hallowed%20Fountain%0A4%09Isolated%20Chapel%0A1%09Ixalan's%20Binding%0A2%09Karn,%20Scion%20of%20Urza%0A3%09Kaya's%20Wrath%0A4%09Mortify%0A2%09Negate%0A3%09Notion%20Rain%0A2%09Plains%0A3%09Revitalize%0A2%09Swamp%0A4%09Teferi,%20Hero%20of%20Dominaria%0A2%09Thought%20Erasure%0A3%09Treasure%20Map%0A1%09Warrant/Warden%0A3%09Watery%20Grave&deckside=2%09Baffling%20End%0A1%09Chromium,%20the%20Mutable%0A2%09Deputy%20of%20Detention%0A3%09Duress%0A3%09Kaya's%20Wrath%0A3%09Negate%0A1%09Thief%20of%20Sanity)
 # Maindeck

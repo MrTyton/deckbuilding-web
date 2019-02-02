@@ -1,7 +1,6 @@
 # Temur Control
 
-#### [Export MTGO List](../collection/Temur%20Control/Temur%20Control.txt)# Temur Control
-
+#### [Export MTGO List](../collection/Temur%20Control/Temur%20Control.txt)
 #### [Export Arena List](../collection/Temur%20Control/Temur%20Control_arena.txt)
 #### [Print on decklist.org](http://decklist.org/?deckmain=4%09Breeding%20Pool%0A4%09Chemister's%20Insight%0A4%09Expansion/Explosion%0A4%09Growth%20Spiral%0A4%09Hinterland%20Harbor%0A2%09Island%0A3%09Murmuring%20Mystic%0A1%09Nexus%20of%20Fate%0A4%09Opt%0A4%09Radical%20Idea%0A4%09Root%20Snare%0A4%09Rootbound%20Crag%0A3%09Shivan%20Fire%0A4%09Steam%20Vents%0A3%09Stomping%20Ground%0A4%09Sulfur%20Falls%0A4%09Wilderness%20Reclamation&deckside=1%09Broken%20Bond%0A3%09Firemind's%20Research%0A3%09Negate%0A2%09Niv-Mizzet,%20Parun%0A3%09Raptor%20Hatchling%0A1%09Reclamation%20Sage%0A2%09Spell%20Pierce)
 # Maindeck
