@@ -123,7 +123,7 @@ def create_arena_export(title, site, format):
     results = []
     log(len(data))
     for line in data:
-        if line == Sideboard:
+        if line == "Sideboard":
             results.append("\n")
             continue
         name = line.split(" ", 1)[1]
