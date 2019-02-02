@@ -126,7 +126,7 @@ def create_arena_export(title, site, format):
         if line == "Sideboard":
             results.append("\n")
             continue
-        name = line.split(" ", 1)[1]
+        name = line.split(" ", 1)[1].strip()
         log(name)
         global memoizer
         if name in memoizer:
