@@ -15,7 +15,12 @@ if exists("./data/card_backup.pkl"):
         memoizer = pickle.load(fp)
 else:
     log("Creating memoizer")
-    memoizer = {}
+    memoizer = {"Mountain":("[{}]({})".format("Mountain", "http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859"), "Land", "Mountain", "RIX", 195),
+    "Swamp":("[{}]({})".format("Swamp", "http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858"), "Land", "Swamp", "RIX", 194),
+    "Island":("[{}]({})".format("Island", "http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857"), "Land", "Island", "RIX", 193),
+    "Plains":("[{}]({})".format("Plains", "http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856"), "Land", "Plains", "RIX", 192),
+    "Forest":("[{}]({})".format("Forest", "http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860"), "Land", "Forest", "RIX", 196)}
+
 
 
 def return_url_line_type(cardName):

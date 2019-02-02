@@ -8,7 +8,7 @@
 |                                           Creature (39)                                            |                                           Land (21)                                            |
 |----------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
 |3 [Frilled Mystic](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457318)         |4 [Breeding Pool](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=97088)       |
-|4 [Growth-Chamber Guardian](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457272)|9 [Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129559)             |
+|4 [Growth-Chamber Guardian](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457272)|9 [Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)             |
 |4 [Incubation Druid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457275)       |4 [Hinterland Harbor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443128)  |
 |4 [Jadelight Ranger](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439793)       |4 [Unclaimed Territory](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435419)|
 |4 [Llanowar Elves](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129626)         |                                                                                                |
@@ -23,7 +23,7 @@
 
 |                                        Creature (4)                                         |                                         Instant (10)                                         |                                     Land (1)                                      |
 |---------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
-|1 [Frilled Mystic](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457318)  |2 [Crushing Canopy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452876)  |1 [Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129606)|
+|1 [Frilled Mystic](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457318)  |2 [Crushing Canopy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452876)  |1 [Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)|
 |3 [Watertrap Weaver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435240)|2 [Disdainful Stroke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420705)|                                                                                   |
 |                                                                                             |3 [Spell Pierce](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425876)     |                                                                                   |
 |                                                                                             |3 [Thrash/Threat](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457373)    |                                                                                   |
