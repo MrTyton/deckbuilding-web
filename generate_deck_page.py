@@ -164,7 +164,7 @@ def run(title, dir, format, site):
 if __name__ == "__main__":
     start = time()
     for site in ["mtggoldfish", "mtgtop8"]:
-        for format in ["Standard"]#, "Modern", "Legacy"]:
+        for format in ["Standard"]:#, "Modern", "Legacy"]:
             d = f'./{site}/{format}/collection'
             archetypes = [(o, os.path.join(d, o)) for o in os.listdir(d)
                           if os.path.isdir(os.path.join(d, o))]
