@@ -13,7 +13,6 @@ from logger import log
 if exists("./data/card_backup.pkl"):
     with open("./data/card_backup.pkl", "rb") as fp:
         memoizer = pickle.load(fp)
-    print(memoizer.keys())
 else:
     log("Creating memoizer")
     memoizer = {}
@@ -133,9 +132,9 @@ def create_arena_export(title, site, format):
         if name in memoizer:
             url_string, card_type, name, last_set, number = memoizer[name]
             log(url_string, card_type, name, last_set, number)
+            results.append(f"{line.replace('/', '//').strip()} ({last_set}) {number}\n")
         else:
             continue
-        results.append(f"{line.replace('/', '//').strip()} ({last_set}) {number}\n")
     log(results)
     with open(f"./{site}/{format}/collection/{title}/{title}_arena.txt", "w") as fp:
         log(f"Writing to: ./{site}/{format}/collection/{title}/{title}_arena.txt")
@@ -144,9 +143,6 @@ def create_arena_export(title, site, format):
         
 def run(title, dir, format, site):
     everything = f"# {title}\n\n#### [Export MTGO List](../collection/{title.replace(' ', '%20')}/{title.replace(' ', '%20')}.txt)"
-    if format == "Standard":
-        create_arena_export(title, site, format)
-        everything += f"# {title}\n\n#### [Export Arena List](../collection/{title.replace(' ', '%20')}/{title.replace(' ', '%20')}_arena.txt)"
     maindeckString = ""
     sideboardString = ""
     other = ""
@@ -182,6 +178,9 @@ def run(title, dir, format, site):
         everything += "\n" + q.getvalue()
     else:
         log("\t\tNo other options for maindeck or sideboard", 'warning')
+    if format == "Standard":
+        create_arena_export(title, site, format)
+        everything += f"# {title}\n\n#### [Export Arena List](../collection/{title.replace(' ', '%20')}/{title.replace(' ', '%20')}_arena.txt)"
 
     if not exists(f"./{site}/{format}/decks"):
         makedirs(f"./{site}/{format}/decks")
