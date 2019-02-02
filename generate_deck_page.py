@@ -117,10 +117,10 @@ def merge_markdown_tables(input1, input2, title):
     return res
 
 def create_arena_export(title, site, format):
-    log("WATAP PEOPLE")
     log(f"Opening ./{site}/{format}/decks/collection/{title.replace(' ', '%20')}/{title.replace(' ', '%20')}.txt")
     with open(f"./{site}/{format}/decks/collection/{title.replace(' ', '%20')}/{title.replace(' ', '%20')}.txt", "r") as fp:
         data = fp.readlines()
+        print(data)
     results = []
     log(len(data))
     log(data)
@@ -146,7 +146,6 @@ def create_arena_export(title, site, format):
 def run(title, dir, format, site):
     everything = f"# {title}\n\n#### [Export MTGO List](../collection/{title.replace(' ', '%20')}/{title.replace(' ', '%20')}.txt)"
     if format == "Standard":
-        log("Hi working on standard")
         create_arena_export(title, site, format)
         everything += f"# {title}\n\n#### [Export Arena List](../collection/{title.replace(' ', '%20')}/{title.replace(' ', '%20')}_arena.txt)"
     maindeckString = ""
