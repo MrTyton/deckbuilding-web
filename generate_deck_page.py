@@ -143,7 +143,7 @@ def run(title, dir, format, site):
     everything = f"# {title}\n\n#### [Export MTGO List](../collection/{title.replace(' ', '%20')}/{title.replace(' ', '%20')}.txt)"
     if format == "Standard":
         log("Hi working on standard")
-        create_arena_export(title, dir, format)
+        create_arena_export(title, site, format)
         everything += f"# {title}\n\n#### [Export Arena List](../collection/{title.replace(' ', '%20')}/{title.replace(' ', '%20')}_arena.txt)"
     maindeckString = ""
     sideboardString = ""
