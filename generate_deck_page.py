@@ -132,7 +132,7 @@ def create_arena_export(title, site, format):
             continue
         results.append(f"{line.replace('/', '//')} ({last_set}) {number}\n")
     
-    with open(f"./{site}/{format}/decks/collection/{title.replace(' ', '%20')}/{title.replace(' ', '%20'}_arena.txt)", "w") as fp:
+    with open(f"./{site}/{format}/decks/collection/{title.replace(' ', '%20')}/{title.replace(' ', '%20')}_arena.txt", "w") as fp:
         fp.writelines(results)
         
 def run(title, dir, format, site):
