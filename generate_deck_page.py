@@ -151,7 +151,7 @@ def run(title, dir, format, site):
             inputs = fp.readlines()
         inputs = [x.strip() for x in inputs]
         temp.append([return_url_line_type(x)[0].split(" ", 1) for x in inputs])
-
+    log(temp)
     q = generate_markdown_table_options(temp, "Other Options\n")
     if q:
         everything += "\n" + q.getvalue()
