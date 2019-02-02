@@ -29,7 +29,8 @@ def return_url_line_type(cardName):
         return url_string, card_type, name
     cards = Card.where(name=name.split("/")[0]).iter()
     try:
-        card = next(cards)
+        if name != name.split("/")[0]:
+            print(card.name)
         while(("Land" not in card.type and "Creature" not in card.type and "Sorcery" not in card.type and "Instant" not in card.type and "Enchantment" not in card.type and "Artifact" not in card.type and "Planeswalker" not in card.type) or (not card.multiverse_id) or (not card.name.lower().strip() == name.lower().strip())):
             card = next(cards)
     except:
