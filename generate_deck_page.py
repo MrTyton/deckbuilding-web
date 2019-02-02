@@ -58,8 +58,11 @@ def return_url_line_type(cardName):
     except:
         number = 0
     if last_set == "DOM":
+        log("Changing set")
         last_set = "DAR"
-    memoizer[name] = "[{}]({})".format(name, url), card_type, name, last_set, number
+        
+    memoizer[name] = ("[{}]({})".format(name, url), card_type, name, last_set, number)
+    log(memoizer[name])
     return "{} [{}]({})".format(quantity, name, url), card_type, name
 
 
