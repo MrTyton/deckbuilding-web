@@ -139,7 +139,6 @@ def create_arena_export(title, site, format):
     with open(f"./{site}/{format}/collection/{title}/{title}_arena.txt", "w") as fp:
         log(f"Writing to: ./{site}/{format}/collection/{title}/{title}_arena.txt")
         fp.writelines(results)
-    return
         
 def run(title, dir, format, site):
     everything = f"# {title}\n\n#### [Export MTGO List](../collection/{title.replace(' ', '%20')}/{title.replace(' ', '%20')}.txt)"
@@ -178,6 +177,7 @@ def run(title, dir, format, site):
         everything += "\n" + q.getvalue()
     else:
         log("\t\tNo other options for maindeck or sideboard", 'warning')
+    log(format == "Standard")
     if format == "Standard":
         create_arena_export(title, site, format)
         everything += f"# {title}\n\n#### [Export Arena List](../collection/{title.replace(' ', '%20')}/{title.replace(' ', '%20')}_arena.txt)"
