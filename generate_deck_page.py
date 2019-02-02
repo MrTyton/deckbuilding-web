@@ -52,7 +52,7 @@ def return_url_line_type(cardName):
         card_type = "Planeswalker"
     else:
         card_type = "Unknown"
-    last_set = [x for x in card.printings if Set.find(x).type in ['expansion', 'core']][-1]
+    last_set = [x for x in card.printings if Set.find(x).type in ['expansion', 'core']][0]
     try:
         number = [x for x in Card.where(name=name.split("/")[0], set=last_set).all() if x.name == name.split("/")[0]][0].number
     except:
