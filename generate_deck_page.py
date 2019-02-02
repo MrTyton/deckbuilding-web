@@ -52,11 +52,11 @@ def return_url_line_type(cardName):
         card_type = "Planeswalker"
     else:
         card_type = "Unknown"
-	last_set = [x for x in card.printings if Set.find(x).type in ['expansion', 'core']][-1]
-	try:
-		number = Card.where(name=name.split("/")[0], set=last_set).all()[0].number
-	except:
-		number=0
+    last_set = [x for x in card.printings if Set.find(x).type in ['expansion', 'core']][-1]
+    try:
+        number = Card.where(name=name.split("/")[0], set=last_set).all()[0].number
+    except:
+        number=0
     if last_set == "DOM":
         last_set = "DAR"
     memoizer[name] = "[{}]({})".format(name, url), card_type, name, last_set, number
@@ -118,16 +118,16 @@ def merge_markdown_tables(input1, input2, title):
 
 def create_arena_export(title, site, format):
     with open(f"./{site}/{format}/decks/collection/{title.replace(' ', '%20')}/{title.replace(' ', '%20'}.txt)", "r") as fp:
-		data = fp.readlines()
-	results = []
-	for line in data:
-		if line == Sideboard:
-			results.append("\n")
-			continue
-		name = line.split(" ", 1)[1]
-		global memoizer
-		if name in memoizer:
-			url_string, card_type, name, last_set, number = memoizer[name]
+        data = fp.readlines()
+    results = []
+    for line in data:
+        if line == Sideboard:
+            results.append("\n")
+            continue
+        name = line.split(" ", 1)[1]
+        global memoizer
+        if name in memoizer:
+            url_string, card_type, name, last_set, number = memoizer[name]
         else:
             continue
         results.append(f"{line.replace('/', '//')} ({last_set}) {number}\n")
