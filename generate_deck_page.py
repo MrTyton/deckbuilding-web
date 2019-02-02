@@ -117,8 +117,8 @@ def merge_markdown_tables(input1, input2, title):
     return res
 
 def create_arena_export(title, site, format):
-    log(f"Opening ./{site}/{format}/decks/collection/{title.replace(' ', '%20')}/{title.replace(' ', '%20')}.txt")
-    with open(f"./{site}/{format}/decks/collection/{title.replace(' ', '%20')}/{title.replace(' ', '%20')}.txt", "r") as fp:
+    log(f"Opening ./{site}/{format}/collection/{title.replace(' ', '%20')}/{title.replace(' ', '%20')}.txt")
+    with open(f"./{site}/{format}/collection/{title.replace(' ', '%20')}/{title.replace(' ', '%20')}.txt", "r") as fp:
         data = fp.readlines()
         print(data)
     results = []
@@ -138,8 +138,8 @@ def create_arena_export(title, site, format):
         else:
             continue
         results.append(f"{line.replace('/', '//')} ({last_set}) {number}\n")
-    with open(f"./{site}/{format}/decks/collection/{title.replace(' ', '%20')}/{title.replace(' ', '%20')}_arena.txt", "w") as fp:
-        log(f"Writing to: ./{site}/{format}/decks/collection/{title.replace(' ', '%20')}/{title.replace(' ', '%20')}_arena.txt")
+    with open(f"./{site}/{format}/collection/{title.replace(' ', '%20')}/{title.replace(' ', '%20')}_arena.txt", "w") as fp:
+        log(f"Writing to: ./{site}/{format}/collection/{title.replace(' ', '%20')}/{title.replace(' ', '%20')}_arena.txt")
         fp.writelines(results)
     return
         
