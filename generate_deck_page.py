@@ -117,11 +117,11 @@ def merge_markdown_tables(input1, input2, title):
     return res
 
 def create_arena_export(title, site, format):
-    log(f"Opening ./{site}/{format}/collection/{title}/{title}.txt")
+    global memoizer
+    log(memoizer.keys())
     with open(f"./{site}/{format}/collection/{title}/{title}.txt", "r") as fp:
         data = fp.readlines()
     results = []
-    log(len(data))
     for line in data:
         if line == "Sideboard":
             results.append("\n")
@@ -137,6 +137,7 @@ def create_arena_export(title, site, format):
             log("Didn't find it")
             continue
         results.append(f"{line.replace('/', '//').strip()} ({last_set}) {number}\n")
+    log(results)
     with open(f"./{site}/{format}/collection/{title}/{title}_arena.txt", "w") as fp:
         log(f"Writing to: ./{site}/{format}/collection/{title}/{title}_arena.txt")
         fp.writelines(results)
