@@ -13,6 +13,7 @@ from logger import log
 if exists("./data/card_backup.pkl"):
     with open("./data/card_backup.pkl", "rb") as fp:
         memoizer = pickle.load(fp)
+    print(memoizer.keys())
 else:
     log("Creating memoizer")
     memoizer = {}
@@ -127,14 +128,12 @@ def create_arena_export(title, site, format):
             results.append("\n")
             continue
         name = line.split(" ", 1)[1].strip()
-        log(name)
+        #log(name)
         #global memoizer
         if name in memoizer:
-            log("Found it")
             url_string, card_type, name, last_set, number = memoizer[name]
             log(url_string, card_type, name, last_set, number)
         else:
-            log("Didn't find it")
             continue
         results.append(f"{line.replace('/', '//').strip()} ({last_set}) {number}\n")
     log(results)
