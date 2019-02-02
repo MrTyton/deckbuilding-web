@@ -57,7 +57,7 @@ def return_url_line_type(cardName):
         card_type = "Planeswalker"
     else:
         card_type = "Unknown"
-    last_set = [x for x in card.printings if Set.find(x).type in ['expansion', 'core']][0]
+    last_set = sorted([x for x in card.printings if Set.find(x).type in ['expansion', 'core']], key = lambda x : Set.find(x).release_date, reverse=True)[0]
     try:
         number = [x for x in Card.where(name=name.split("/")[0], set=last_set).all() if x.name == name.split("/")[0]][0].number
     except:
@@ -127,27 +127,18 @@ def create_arena_export(title, site, format):
     with open(f"./{site}/{format}/collection/{title}/{title}.txt", "r") as fp:
         data = fp.readlines()
     results = []
-    #log(f"{len(data)}, {data}")
     for line in data:
         line = line.strip()
-        #log(line)
         if line == "Sideboard":
             results.append("\n")
             continue
         name = line.split(" ", 1)[1].strip()
-        #log(name)
         if name in memoizer:
-            #log(f"Found {name}")
             res = memoizer[name]
-            #log(res[3])
-            #log(res[4])
             results.append(f"{line.replace('/', ' // ')} ({res[3]}) {res[4]}\n")
         else:
-            #log("Not in memoizer")
             continue
-    #log(results)
-    with open(f"./{site}/{format}/collection/{title}/{title}_arena.txt", "w") as fp:
-        #log(f"Writing to: ./{site}/{format}/collection/{title}/{title}_arena.txt")
+    with open(f"./{site}/{format}/collection/{title}/{title}_arena.txt", "w", newline="\r\n") as fp:
         fp.writelines(results)
     return
 
