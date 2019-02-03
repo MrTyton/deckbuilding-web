@@ -33,11 +33,11 @@
 
 # Legacy
 
-|                            A                             |                    B                     |                                   C                                    |                     D                      |
-|----------------------------------------------------------|------------------------------------------|------------------------------------------------------------------------|--------------------------------------------|
-|[Belcher](./mtgtop8/Legacy/decks/Belcher.md)              |[Dredge](./mtgtop8/Legacy/decks/Dredge.md)|[MUD](./mtgtop8/Legacy/decks/MUD.md)                                    |[Slivers](./mtgtop8/Legacy/decks/Slivers.md)|
-|[Cloudpost Ramp](./mtgtop8/Legacy/decks/Cloudpost_Ramp.md)|[Lands](./mtgtop8/Legacy/decks/Lands.md)  |[Mono Red Sneak Attack](./mtgtop8/Legacy/decks/Mono_Red_Sneak_Attack.md)|                                            |
+|                            A                             |                    B                     |                     C                      |
+|----------------------------------------------------------|------------------------------------------|--------------------------------------------|
+|[Belcher](./mtgtop8/Legacy/decks/Belcher.md)              |[Dredge](./mtgtop8/Legacy/decks/Dredge.md)|[MUD](./mtgtop8/Legacy/decks/MUD.md)        |
+|[Cloudpost Ramp](./mtgtop8/Legacy/decks/Cloudpost_Ramp.md)|[Lands](./mtgtop8/Legacy/decks/Lands.md)  |[Slivers](./mtgtop8/Legacy/decks/Slivers.md)|
 
 
 
-#### Last Updated at 12:23AM on February 03, 2019
+#### Last Updated at 12:26PM on February 03, 2019
