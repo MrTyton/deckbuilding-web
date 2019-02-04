@@ -1,7 +1,10 @@
-1 Tireless Tracker
 1 Kitchen Finks
+3 Postmortem Lunge
 4 Forest
+2 Wooded Foothills
+3 Wooded Foothills
 1 Swamp
+2 Scavenging Ooze
 1 Dryad Arbor
 4 Postmortem Lunge
 1 Commune with Nature
@@ -9,43 +12,55 @@
 2 Shalai, Voice of Plenty
 1 Viscera Seer
 2 Kitchen Finks
-2 Scavenging Ooze
-2 Wooded Foothills
-3 Wooded Foothills
 4 Wooded Foothills
+1 Knight of Autumn
+2 Razorverge Thicket
+1 Stomping Ground
+1 Kiki-Jiki, Mirror Breaker
 2 Gavony Township
 4 Verdant Catacombs
-2 Razorverge Thicket
+1 Breeding Pool
+1 Grove of the Burnwillows
+2 Stomping Ground
+2 Tireless Tracker
 3 Razorverge Thicket
 3 Commune with Nature
 4 Commune with Nature
-1 Knight of Autumn
-1 Stomping Ground
-1 Kiki-Jiki, Mirror Breaker
-2 Stomping Ground
-2 Tireless Tracker
 1 Voice of Resurgence
 2 Voice of Resurgence
 3 Kitchen Finks
 4 Kitchen Finks
-1 Breeding Pool
+1 Sacred Foundry
+1 Restoration Angel
+2 Restoration Angel
+1 Magus of the Moon
+2 Knight of Autumn
 2 Misty Rainforest
 3 Misty Rainforest
 4 Misty Rainforest
-1 Magus of the Moon
-1 Grove of the Burnwillows
-2 Knight of Autumn
-1 Sacred Foundry
+2 Grove of the Burnwillows
+1 Scryb Ranger
+1 Spellskite
+1 Breaching Hippocamp
+1 Zealous Conscripts
+1 Bounding Krasis
+1 Woodland Bellower
+1 Prime Speaker Vannifar
+2 Breeding Pool
+2 Kiki-Jiki, Mirror Breaker
+2 Bounding Krasis
+2 Prime Speaker Vannifar
+3 Prime Speaker Vannifar
+4 Prime Speaker Vannifar
+1 Wall of Roots
 1 Path to Exile
-1 Restoration Angel
 2 Path to Exile
 2 Plains
-2 Restoration Angel
 3 Path to Exile
 3 Voice of Resurgence
 3 Restoration Angel
 4 Path to Exile
-2 Grove of the Burnwillows
+1 Island
 3 Horizon Canopy
 4 Razorverge Thicket
 4 Duskwatch Recruiter
@@ -56,27 +71,13 @@
 2 Knight of the Reliquary
 3 Knight of the Reliquary
 4 Knight of the Reliquary
-1 Island
-1 Scryb Ranger
-1 Spellskite
-1 Zealous Conscripts
-1 Breaching Hippocamp
 1 Steam Vents
-1 Bounding Krasis
 1 Scalding Tarn
-1 Woodland Bellower
-1 Prime Speaker Vannifar
-2 Breeding Pool
-2 Kiki-Jiki, Mirror Breaker
-2 Bounding Krasis
 2 Breaching Hippocamp
 2 Island
 2 Scalding Tarn
-2 Prime Speaker Vannifar
-3 Prime Speaker Vannifar
 3 Bounding Krasis
-4 Prime Speaker Vannifar
-1 Wall of Roots
+1 Reflector Mage
 1 Courser of Kruphix
 1 Mountain
 1 Linvala, Keeper of Silence
@@ -103,7 +104,6 @@
 1 Selfless Spirit
 1 Ezuri, Renegade Leader
 1 Jace, the Mind Sculptor
-1 Reflector Mage
 2 Courser of Kruphix
 1 Renegade Rallier
 2 Viscera Seer
@@ -144,27 +144,32 @@
 1 Flame Slash
 2 Chandra, Torch of Defiance
 3 Plains
+1 Hallowed Fountain
+1 Deputy of Detention
+1 Thalia, Guardian of Thraben
+2 Thalia, Guardian of Thraben
+3 Grove of the Burnwillows
 4 Horizon Canopy
 1 Unclaimed Territory
 1 Cavern of Souls
 1 Mirror Entity
-1 Militia Bugler
 1 Aether Vial
 1 Zulaport Cutthroat
+1 Militia Bugler
 1 Phantasmal Image
+2 Militia Bugler
 2 Cavern of Souls
 2 Unclaimed Territory
 2 Mirror Entity
-2 Militia Bugler
 2 Phantasmal Image
 2 Scryb Ranger
 2 Zulaport Cutthroat
 2 Aether Vial
+3 Phantasmal Image
 3 Cavern of Souls
 3 Militia Bugler
 3 Unclaimed Territory
 3 Scryb Ranger
-3 Phantasmal Image
 3 Mirror Entity
 3 Aether Vial
 3 Zulaport Cutthroat
@@ -173,10 +178,10 @@
 4 Eternal Witness
 4 Cavern of Souls
 4 Unclaimed Territory
+4 Knight of Autumn
 4 Scryb Ranger
 4 Mirror Entity
 4 Zulaport Cutthroat
-4 Knight of Autumn
 4 Militia Bugler
 5 Forest
 6 Forest

@@ -28,8 +28,8 @@
 
 |*n*<sup>th</sup> copy|                                        Maindeck Card                                        |*n*<sup>th</sup> copy|                                         Sideboard Card                                          |
 |--------------------:|---------------------------------------------------------------------------------------------|--------------------:|-------------------------------------------------------------------------------------------------|
-|                    1|[Children of Korlis](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=110525)|                    1|[Hope of Ghirapur](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423821)      |
-|                    1|[Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)             |                    1|[Silence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=191083)               |
+|                    1|[Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)             |                    1|[Hope of Ghirapur](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423821)      |
+|                    1|[Children of Korlis](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=110525)|                    1|[Silence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=191083)               |
 |                    1|[Hellcarver Demon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=193656)  |                    1|[Iona, Shield of Emeria](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397800)|
 |                    1|[Scrubland](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=882)            |                    2|[Hope of Ghirapur](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423821)      |
 |                    1|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)            |                    3|[Hope of Ghirapur](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423821)      |

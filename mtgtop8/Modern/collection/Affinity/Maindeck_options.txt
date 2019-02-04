@@ -1,18 +1,16 @@
 2 Llanowar Reborn
-1 Evolutionary Leap
 3 Llanowar Reborn
 2 Metallic Mimic
 4 Welding Jar
 3 Metallic Mimic
+1 Evolutionary Leap
 2 Blinkmoth Nexus
 7 Forest
 1 Springleaf Drum
-1 Spire of Industry
 1 Vault Skirge
 1 Cranial Plating
 1 Memnite
 1 Ornithopter
-2 Springleaf Drum
 2 Ornithopter
 2 Vault Skirge
 2 Cranial Plating
@@ -21,9 +19,14 @@
 3 Ornithopter
 3 Vault Skirge
 3 Blinkmoth Nexus
-3 Springleaf Drum
 3 Cranial Plating
 4 Ornithopter
+1 Spire of Industry
+2 Springleaf Drum
+3 Springleaf Drum
+4 Blinkmoth Nexus
+4 Cranial Plating
+4 Vault Skirge
 1 Signal Pest
 1 Mountain
 1 Galvanic Blast
@@ -34,23 +37,25 @@
 3 Signal Pest
 4 Signal Pest
 4 Springleaf Drum
-4 Blinkmoth Nexus
-4 Cranial Plating
-4 Vault Skirge
+1 Master of Etherium
+2 Master of Etherium
 3 Animation Module
-8 Forest
 3 Galvanic Blast
 4 Galvanic Blast
 4 Spire of Industry
-1 Master of Etherium
-2 Master of Etherium
+1 Etched Champion
 3 Throne of Geth
 4 Metallic Mimic
 1 Ruins of Oran-Rief
-9 Forest
-1 Etched Champion
+8 Forest
 3 Master of Etherium
 4 Master of Etherium
+2 Etched Champion
+1 Glimmervoid
+1 Ensoul Artifact
+2 Glimmervoid
+2 Ensoul Artifact
+3 Glimmervoid
 1 Karn, Scion of Urza
 1 Gemstone Caverns
 2 Gemstone Caverns
@@ -58,22 +63,28 @@
 1 Experimental Frenzy
 2 Experimental Frenzy
 3 Experimental Frenzy
-2 Etched Champion
 3 Etched Champion
 1 Bomat Courier
 2 Bomat Courier
 3 Bomat Courier
 4 Bomat Courier
-1 Glimmervoid
-1 Ensoul Artifact
+1 Open the Armory
+1 Swamp
+1 Spellskite
+1 Athreos, God of Passage
+1 Chalice of the Void
+2 Open the Armory
+2 Spellskite
+2 Swamp
+2 Chalice of the Void
+3 Chalice of the Void
+4 Chalice of the Void
+9 Forest
 1 Stubborn Denial
 1 Island
 1 Sai, Master Thopterist
-2 Glimmervoid
-2 Ensoul Artifact
 2 Stubborn Denial
 2 Island
-3 Glimmervoid
 3 Stubborn Denial
 3 Ensoul Artifact
 4 Stubborn Denial

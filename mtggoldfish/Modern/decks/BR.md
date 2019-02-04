@@ -1,7 +1,7 @@
 # BR
 
 #### [Export MTGO List](../collection/BR/BR.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Arclight%20Phoenix%0A4%09Faithless%20Looting%0A4%09Fiery%20Temper%0A2%09Gut%20Shot%0A4%09Lava%20Spike%0A4%09Lightning%20Bolt%0A4%09Manamorphose%0A4%09Monastery%20Swiftspear%0A18%09Mountain%0A2%09Ramunap%20Ruins%0A4%09Rift%20Bolt%0A2%09Shrine%20of%20Burning%20Rage%0A4%09Tormenting%20Voice&deckside=2%09Alpine%20Moon%0A4%09Eidolon%20of%20the%20Great%20Revel%0A1%09Forked%20Bolt%0A4%09Ravenous%20Trap%0A2%09Shattering%20Spree%0A2%09Shrine%20of%20Burning%20Rage)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Arclight%20Phoenix%0A4%09Faithless%20Looting%0A4%09Fiery%20Temper%0A2%09Gut%20Shot%0A4%09Lava%20Spike%0A4%09Lightning%20Bolt%0A4%09Manamorphose%0A4%09Monastery%20Swiftspear%0A18%09Mountain%0A2%09Ramunap%20Ruins%0A4%09Rift%20Bolt%0A2%09Shrine%20of%20Burning%20Rage%0A4%09Tormenting%20Voice&deckside=2%09Alpine%20Moon%0A4%09Eidolon%20of%20the%20Great%20Revel%0A1%09Forked%20Bolt%0A4%09Leyline%20of%20the%20Void%0A2%09Shattering%20Spree%0A2%09Shrine%20of%20Burning%20Rage)
 # Maindeck
 
 |                                           Artifact (2)                                            |                                          Creature (8)                                           |                                      Instant (14)                                       |                                        Land (20)                                         |                                         Sorcery (16)                                         |
@@ -14,18 +14,18 @@
 
 # Sideboard
 
-|                                           Artifact (2)                                            |                                             Creature (4)                                              |                                    Enchantment (2)                                     |                                       Instant (4)                                        |                                         Sorcery (3)                                         |
-|---------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|
-|2 [Shrine of Burning Rage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=218018)|4 [Eidolon of the Great Revel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442117)|2 [Alpine Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447264)|4 [Ravenous Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197537)|1 [Forked Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401702)     |
-|                                                                                                   |                                                                                                       |                                                                                        |                                                                                          |2 [Shattering Spree](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456224)|
+|                                           Artifact (2)                                            |                                             Creature (4)                                              |                                        Enchantment (6)                                         |                                         Sorcery (3)                                         |
+|---------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|
+|2 [Shrine of Burning Rage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=218018)|4 [Eidolon of the Great Revel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442117)|2 [Alpine Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447264)        |1 [Forked Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401702)     |
+|                                                                                                   |                                                                                                       |4 [Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)|2 [Shattering Spree](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456224)|
 
 
 # Other Options
 
-|*n*<sup>th</sup> copy|Maindeck Card|*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
-|---------------------|-------------|--------------------:|----------------------------------------------------------------------------------------------|
-|                     |             |                    1|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)|
-|                     |             |                    2|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)|
-|                     |             |                    3|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)|
-|                     |             |                    4|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)|
+|*n*<sup>th</sup> copy|Maindeck Card|*n*<sup>th</sup> copy|                                     Sideboard Card                                     |
+|---------------------|-------------|--------------------:|----------------------------------------------------------------------------------------|
+|                     |             |                    1|[Ravenous Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197537)|
+|                     |             |                    2|[Ravenous Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197537)|
+|                     |             |                    3|[Ravenous Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197537)|
+|                     |             |                    4|[Ravenous Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197537)|
 
