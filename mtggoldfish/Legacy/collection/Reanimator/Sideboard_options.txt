@@ -2,19 +2,17 @@
 1 Magus of the Moon
 1 Faerie Macabre
 2 Faerie Macabre
+2 Magus of the Moon
 1 Wear/Tear
 2 Wear/Tear
 3 Wear/Tear
-2 Magus of the Moon
 3 Assassin's Trophy
 1 Ashen Rider
 1 Abrade
 1 Massacre
 1 Stronghold Gambit
 2 Stronghold Gambit
-1 Sire of Insanity
 4 Wear/Tear
-3 Faerie Macabre
 2 Massacre
 2 Pithing Needle
 1 Flusterstorm
@@ -26,6 +24,9 @@
 1 Void Winnower
 3 Show and Tell
 4 Show and Tell
+1 Sire of Insanity
+3 Thoughtseize
+3 Faerie Macabre
 1 Abrupt Decay
 2 Abrupt Decay
 1 Serenity
@@ -36,7 +37,6 @@
 1 Dread of Night
 2 Dread of Night
 1 Hymn to Tourach
-3 Thoughtseize
 1 Surgical Extraction
 2 Hymn to Tourach
 3 Hymn to Tourach
@@ -49,15 +49,10 @@
 1 Tormod's Crypt
 2 Tormod's Crypt
 2 Surgical Extraction
-1 Blood Moon
-1 Cabal Therapy
-1 Ratchet Bomb
-2 Ratchet Bomb
-2 Blood Moon
 1 Force of Will
+1 Diabolic Edict
 1 Umezawa's Jitte
 1 True-Name Nemesis
-1 Diabolic Edict
 2 True-Name Nemesis
 2 Diabolic Edict
 1 Nature's Claim
@@ -69,13 +64,13 @@
 1 Badlands
 2 Lake of the Dead
 3 Grave Titan
-1 Massacre Wurm
-1 Toxic Deluge
-2 Toxic Deluge
-4 Hymn to Tourach
 1 Leyline of the Void
 2 Leyline of the Void
 3 Echoing Truth
 3 Leyline of the Void
-4 Thoughtseize
 3 Massacre
+4 Thoughtseize
+1 Toxic Deluge
+1 Massacre Wurm
+2 Toxic Deluge
+4 Hymn to Tourach
