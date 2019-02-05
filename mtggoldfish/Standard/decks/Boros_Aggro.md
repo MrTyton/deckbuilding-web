@@ -23,3 +23,15 @@
 |2 [Lyra Dawnbringer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442914)            |                                                                                             |                                                                                      |1 [Fight with Fire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443007)  |
 |2 [Tithe Taker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457171)                 |                                                                                             |                                                                                      |                                                                                              |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                       Maindeck Card                                        |*n*<sup>th</sup> copy|                                            Sideboard Card                                            |
+|--------------------:|--------------------------------------------------------------------------------------------|--------------------:|------------------------------------------------------------------------------------------------------|
+|                    3|[Tithe Taker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457171)      |                    1|[Ajani, Adversary of Tyrants](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447139)|
+|                    3|[Divine Visitation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452760)|                    2|[Fight with Fire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443007)            |
+|                    4|[Tithe Taker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457171)      |                    2|[Demystify](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129524)                  |
+|                     |                                                                                            |                    2|[Banefire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=186613)                   |
+|                     |                                                                                            |                    3|[Banefire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=186613)                   |
+|                     |                                                                                            |                    3|[Demystify](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129524)                  |
+

@@ -40,3 +40,11 @@
 |                                                                                                     |1 [Shadow of Doubt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=83827)       |
 |                                                                                                     |1 [Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)  |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|Maindeck Card|*n*<sup>th</sup> copy|                                      Sideboard Card                                      |
+|---------------------|-------------|--------------------:|------------------------------------------------------------------------------------------|
+|                     |             |                    1|[Crypt Incursion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=369056)|
+|                     |             |                    2|[Fatal Push](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423724)     |
+

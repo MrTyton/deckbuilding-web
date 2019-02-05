@@ -1,4 +1,6 @@
+4 Hallowed Fountain
 1 Settle the Wreckage
+3 Temple Garden
 1 Uncomfortable Chill
 2 Uncomfortable Chill
 3 Forest
@@ -11,15 +13,15 @@
 1 Pause for Reflection
 1 Discovery / Dispersal
 2 Karn, Scion of Urza
+2 Chart a Course
 2 Discovery / Dispersal
 2 Pause for Reflection
-2 Chart a Course
-3 Temple Garden
 3 Chart a Course
 4 Teferi, Hero of Dominaria
-4 Temple Garden
 4 Chart a Course
-4 Hallowed Fountain
+4 Temple Garden
+3 Revitalize
+4 Revitalize
 2 Precognitive Perception
 1 Anticipate
 1 Hydroid Krasis
@@ -27,9 +29,7 @@
 1 Cleansing Nova
 1 Dawn of Hope
 2 Settle the Wreckage
-3 Revitalize
 3 Settle the Wreckage
-4 Revitalize
 1 Sulfur Falls
 1 Steam Vents
 1 Stomping Ground
@@ -40,14 +40,20 @@
 2 Steam Vents
 2 Sulfur Falls
 3 Expansion / Explosion
-3 Precognitive Perception
 3 Anticipate
+3 Precognitive Perception
 3 Rootbound Crag
 3 Uncomfortable Chill
 4 Anticipate
 4 Expansion / Explosion
 4 Precognitive Perception
 4 Uncomfortable Chill
+1 Depose / Deploy
+2 Depose / Deploy
+3 Depose / Deploy
+4 Search for Azcanta
+4 Sunpetal Grove
+4 Depose / Deploy
 1 Izzet Guildgate
 1 Deafening Clarion
 1 Circuitous Route
@@ -60,28 +66,28 @@
 1 Gates Ablaze
 2 Hydroid Krasis
 2 Selesnya Guildgate
-2 Gruul Guildgate
 2 Circuitous Route
-2 Deafening Clarion
+2 Gruul Guildgate
 2 Simic Guildgate
 2 Plaza of Harmony
+2 Deafening Clarion
 2 Azorius Guildgate
 2 Guild Summit
 2 Izzet Guildgate
 2 Gates Ablaze
 3 Hydroid Krasis
 3 Simic Guildgate
+3 Gates Ablaze
 3 Azorius Guildgate
 3 Guild Summit
 3 Circuitous Route
-3 Gates Ablaze
 3 Selesnya Guildgate
 3 Plaza of Harmony
 3 Gruul Guildgate
 3 Izzet Guildgate
-4 Selesnya Guildgate
-4 Azorius Guildgate
 4 Hydroid Krasis
+4 Azorius Guildgate
+4 Selesnya Guildgate
 4 Circuitous Route
 4 Izzet Guildgate
 4 Simic Guildgate

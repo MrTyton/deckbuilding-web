@@ -45,8 +45,8 @@
 3 Lotus Petal
 4 Cabal Therapy
 4 Buried Alive
-4 Arclight Phoenix
 4 Preordain
+4 Arclight Phoenix
 4 Thoughtseize
 4 Monastery Mentor
 4 Dark Ritual
@@ -61,9 +61,9 @@
 1 Sanctum Prelate
 1 Palace Jailer
 1 Birds of Paradise
-1 Gaddock Teeg
 1 Bayou
 1 Green Sun's Zenith
+1 Gaddock Teeg
 1 Qasali Pridemage
 1 Orzhov Pontiff
 1 Mother of Runes
@@ -143,7 +143,6 @@
 4 Cavern of Souls
 4 Supreme Phantom
 4 Spirit of the Labyrinth
-1 Pteramander
 1 Spell Snare
 1 Stifle
 1 Flusterstorm
@@ -153,22 +152,23 @@
 1 Stubborn Denial
 1 Vendilion Clique
 1 Rapid Hybridization
+1 Pteramander
 1 Accumulated Knowledge
-2 Pteramander
 2 Stifle
 2 Spell Pierce
 2 True-Name Nemesis
 2 Cryptic Serpent
 2 Accumulated Knowledge
+2 Pteramander
 2 Stubborn Denial
-3 Accumulated Knowledge
-3 Pteramander
 3 Stifle
-4 Accumulated Knowledge
-4 Pteramander
+3 Pteramander
+3 Accumulated Knowledge
 4 Daze
 4 Stifle
+4 Accumulated Knowledge
 4 Island
+4 Pteramander
 4 Wasteland
 5 Island
 6 Island
