@@ -27,9 +27,9 @@
 
 |*n*<sup>th</sup> copy|                                          Maindeck Card                                          |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
 |--------------------:|-------------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
-|                    1|[Field of Ruin](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435415)         |                    1|[Overflowing Insight](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435218)|
-|                    1|[Carnage Tyrant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435334)        |                    1|Unknown Card                                                                                  |
-|                    1|[Tetzimoc, Primal Death](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439743)|                    1|[Unmoored Ego](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452962)       |
-|                     |                                                                                                 |                    1|[Sorcerous Spyglass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435407) |
-|                     |                                                                                                 |                    1|[Detection Tower](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447386)    |
+|                    1|[Field of Ruin](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435415)         |                    1|[Detection Tower](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447386)    |
+|                    1|[Carnage Tyrant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435334)        |                    1|[Unmoored Ego](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452962)       |
+|                    1|[Tetzimoc, Primal Death](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439743)|                    1|[Sorcerous Spyglass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435407) |
+|                     |                                                                                                 |                    1|[Overflowing Insight](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435218)|
+|                     |                                                                                                 |                    1|Unknown Card                                                                                  |
 

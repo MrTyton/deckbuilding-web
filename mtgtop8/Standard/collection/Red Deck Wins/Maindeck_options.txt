@@ -1,27 +1,23 @@
-2 Risk Factor
-2 Light Up the Stage
-3 Light Up the Stage
 4 Light Up the Stage
-22 Mountain
+4 Fanatical Firebrand
+1 Risk Factor
 3 Skewer the Critics
 4 Skewer the Critics
+22 Mountain
+2 Risk Factor
 4 Experimental Frenzy
 3 Risk Factor
 1 Rekindling Phoenix
 1 Lava Coil
-1 Banefire
-1 The Flame of Keld
 2 Rekindling Phoenix
-1 Legion Warboss
-2 Legion Warboss
-3 Legion Warboss
+1 Banefire
 1 Arch of Orazca
 1 Treasure Map
 1 Siege-Gang Commander
 1 Dire Fleet Daredevil
 2 Dire Fleet Daredevil
-2 Treasure Map
 2 Siege-Gang Commander
+2 Treasure Map
 2 Banefire
 2 Lava Coil
 3 Siege-Gang Commander
@@ -31,6 +27,10 @@
 4 Treasure Map
 4 Rekindling Phoenix
 23 Mountain
+1 The Flame of Keld
+1 Legion Warboss
+2 Legion Warboss
+3 Legion Warboss
 1 Shivan Fire
 2 Shivan Fire
 3 Dire Fleet Daredevil
@@ -39,7 +39,6 @@
 4 Lava Coil
 1 Fight with Fire
 2 Fight with Fire
-4 Legion Warboss
 1 Rootbound Crag
 1 Stomping Ground
 2 Stomping Ground
@@ -54,13 +53,14 @@
 24 Mountain
 1 Karn, Scion of Urza
 2 Karn, Scion of Urza
-1 Goblin Cratermaker
-3 Banefire
-3 The Flame of Keld
-4 Risk Factor
 1 Electrostatic Field
 1 Charging Monstrosaur
 1 Fiery Cannonade
 2 Electrostatic Field
-3 Fight with Fire
 2 Fiery Cannonade
+3 Fight with Fire
+1 Goblin Cratermaker
+3 Banefire
+3 The Flame of Keld
+4 Risk Factor
+4 Legion Warboss

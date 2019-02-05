@@ -32,8 +32,8 @@
 
 |*n*<sup>th</sup> copy|                                        Maindeck Card                                        |*n*<sup>th</sup> copy|                                      Sideboard Card                                      |
 |--------------------:|---------------------------------------------------------------------------------------------|--------------------:|------------------------------------------------------------------------------------------|
-|                    1|[Goblin Trashmaster](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447280)|                    1|[Mizzium Mortars](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405302)|
-|                    1|[Krenko, Mob Boss](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386339)  |                    1|[Blood Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45386)      |
+|                    1|[Krenko, Mob Boss](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386339)  |                    1|[Mizzium Mortars](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405302)|
+|                    1|[Goblin Trashmaster](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447280)|                    1|[Blood Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45386)      |
 |                    1|[Legion Warboss](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452859)    |                    2|[Mizzium Mortars](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405302)|
 |                    1|[Goblin Motivator](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447279)  |                     |                                                                                          |
 |                    2|[Legion Warboss](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452859)    |                     |                                                                                          |
