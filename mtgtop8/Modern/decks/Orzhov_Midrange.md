@@ -24,10 +24,3 @@
 |1 [Kambal, Consul of Allocation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417756)|2 [Stony Silence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=247425)|1 [Settle the Wreckage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435186)|                                                                                                     |
 |2 [Orzhov Pontiff](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=96844)               |                                                                                          |                                                                                                |                                                                                                     |
 
-
-# Other Options
-
-|*n*<sup>th</sup> copy|Maindeck Card|*n*<sup>th</sup> copy|                                     Sideboard Card                                     |
-|---------------------|-------------|--------------------:|----------------------------------------------------------------------------------------|
-|                     |             |                    3|[Stony Silence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=247425)|
-

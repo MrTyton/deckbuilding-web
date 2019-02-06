@@ -1,20 +1,14 @@
-1 Kitchen Finks
-3 Postmortem Lunge
-4 Forest
 2 Wooded Foothills
 3 Wooded Foothills
-1 Swamp
+1 Postmortem Lunge
+2 Postmortem Lunge
 2 Scavenging Ooze
-1 Dryad Arbor
-4 Postmortem Lunge
-1 Commune with Nature
-2 Commune with Nature
-2 Shalai, Voice of Plenty
+4 Eldritch Evolution
 1 Viscera Seer
 2 Kitchen Finks
+3 Postmortem Lunge
 4 Wooded Foothills
 1 Knight of Autumn
-2 Razorverge Thicket
 1 Stomping Ground
 1 Kiki-Jiki, Mirror Breaker
 2 Gavony Township
@@ -23,9 +17,6 @@
 1 Grove of the Burnwillows
 2 Stomping Ground
 2 Tireless Tracker
-3 Razorverge Thicket
-3 Commune with Nature
-4 Commune with Nature
 1 Voice of Resurgence
 2 Voice of Resurgence
 3 Kitchen Finks
@@ -33,12 +24,18 @@
 1 Sacred Foundry
 1 Restoration Angel
 2 Restoration Angel
+1 Dryad Arbor
+4 Postmortem Lunge
+1 Commune with Nature
+2 Commune with Nature
 1 Magus of the Moon
+2 Shalai, Voice of Plenty
 2 Knight of Autumn
 2 Misty Rainforest
 3 Misty Rainforest
 4 Misty Rainforest
 2 Grove of the Burnwillows
+2 Razorverge Thicket
 1 Scryb Ranger
 1 Spellskite
 1 Breaching Hippocamp
@@ -61,9 +58,10 @@
 3 Restoration Angel
 4 Path to Exile
 1 Island
-3 Horizon Canopy
+3 Razorverge Thicket
 4 Razorverge Thicket
-4 Duskwatch Recruiter
+3 Commune with Nature
+4 Commune with Nature
 1 Tectonic Edge
 1 Knight of the Reliquary
 1 Field of Ruin
@@ -71,6 +69,7 @@
 2 Knight of the Reliquary
 3 Knight of the Reliquary
 4 Knight of the Reliquary
+4 Duskwatch Recruiter
 1 Steam Vents
 1 Scalding Tarn
 2 Breaching Hippocamp
@@ -115,7 +114,6 @@
 3 Tireless Tracker
 1 Hostage Taker
 1 Vraska, Golgari Queen
-1 Kalitas, Traitor of Ghet
 1 Plaguecrafter
 1 Fatal Push
 1 Glen Elendra Archmage
@@ -124,6 +122,7 @@
 1 Massacre Wurm
 1 Liliana, the Last Hope
 1 Creeping Tar Pit
+1 Kalitas, Traitor of Ghet
 1 Nest Invader
 1 Negate
 1 Ninja of the Deep Hours
@@ -149,9 +148,10 @@
 1 Thalia, Guardian of Thraben
 2 Thalia, Guardian of Thraben
 3 Grove of the Burnwillows
+3 Horizon Canopy
 4 Horizon Canopy
-1 Cavern of Souls
 1 Unclaimed Territory
+1 Cavern of Souls
 1 Mirror Entity
 1 Aether Vial
 1 Zulaport Cutthroat

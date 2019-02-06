@@ -1,7 +1,7 @@
 # Other - Control
 
 #### [Export MTGO List](../collection/Other%20-%20Control/Other%20-%20Control.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Bitterblossom%0A2%09Cast%20Down%0A3%09Creeping%20Tar%20Pit%0A3%09Cryptic%20Command%0A4%09Darkslick%20Shores%0A4%09Fatal%20Push%0A3%09Field%20of%20Ruin%0A1%09Hero's%20Downfall%0A4%09Inquisition%20of%20Kozilek%0A3%09Island%0A3%09Jace,%20the%20Mind%20Sculptor%0A3%09Liliana%20of%20the%20Veil%0A2%09Mutavault%0A4%09Polluted%20Delta%0A2%09Scalding%20Tarn%0A4%09Serum%20Visions%0A4%09Snapcaster%20Mage%0A1%09Spell%20Pierce%0A3%09Spellstutter%20Sprite%0A1%09Swamp%0A2%09Watery%20Grave&deckside=1%09Disfigure%0A3%09Engineered%20Explosives%0A1%09Hero's%20Downfall%0A1%09Negate%0A3%09Nihil%20Spellbomb%0A1%09Relic%20of%20Progenitus%0A1%09Spell%20Pierce%0A1%09Spell%20Snare%0A2%09Surgical%20Extraction%0A1%09Vendilion%20Clique)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Bitterblossom%0A2%09Cast%20Down%0A3%09Creeping%20Tar%20Pit%0A3%09Cryptic%20Command%0A4%09Darkslick%20Shores%0A4%09Fatal%20Push%0A3%09Field%20of%20Ruin%0A1%09Hero's%20Downfall%0A4%09Inquisition%20of%20Kozilek%0A3%09Island%0A3%09Jace,%20the%20Mind%20Sculptor%0A3%09Liliana%20of%20the%20Veil%0A2%09Mutavault%0A4%09Polluted%20Delta%0A2%09Scalding%20Tarn%0A4%09Serum%20Visions%0A4%09Snapcaster%20Mage%0A1%09Spell%20Pierce%0A3%09Spellstutter%20Sprite%0A1%09Swamp%0A2%09Watery%20Grave&deckside=1%09Disdainful%20Stroke%0A1%09Disfigure%0A3%09Engineered%20Explosives%0A1%09Hero's%20Downfall%0A1%09Negate%0A3%09Nihil%20Spellbomb%0A1%09Spell%20Pierce%0A1%09Spell%20Snare%0A2%09Surgical%20Extraction%0A1%09Vendilion%20Clique)
 # Maindeck
 
 |                                          Creature (7)                                          |                                     Enchantment (4)                                      |                                        Instant (11)                                        |                                          Land (24)                                          |                                          Planeswalker (6)                                          |                                            Sorcery (8)                                            |
@@ -19,19 +19,13 @@
 
 # Sideboard
 
-|                                          Artifact (7)                                           |                                        Creature (1)                                         |                                          Instant (7)                                           |
+|                                          Artifact (6)                                           |                                        Creature (1)                                         |                                          Instant (8)                                           |
 |-------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
-|3 [Engineered Explosives](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=50139)|1 [Vendilion Clique](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442065)|1 [Disfigure](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442076)          |
-|3 [Nihil Spellbomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442215)     |                                                                                             |1 [Hero's Downfall](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373575)    |
-|1 [Relic of Progenitus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174824) |                                                                                             |1 [Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)             |
+|3 [Engineered Explosives](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=50139)|1 [Vendilion Clique](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442065)|1 [Disdainful Stroke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420705)  |
+|3 [Nihil Spellbomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442215)     |                                                                                             |1 [Disfigure](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442076)          |
+|                                                                                                 |                                                                                             |1 [Hero's Downfall](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373575)    |
+|                                                                                                 |                                                                                             |1 [Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)             |
 |                                                                                                 |                                                                                             |1 [Spell Pierce](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425876)       |
 |                                                                                                 |                                                                                             |1 [Spell Snare](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446100)        |
 |                                                                                                 |                                                                                             |2 [Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|
-
-
-# Other Options
-
-|*n*<sup>th</sup> copy|Maindeck Card|*n*<sup>th</sup> copy|                                       Sideboard Card                                       |
-|---------------------|-------------|--------------------:|--------------------------------------------------------------------------------------------|
-|                     |             |                    1|[Disdainful Stroke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420705)|
 

@@ -1,7 +1,7 @@
 # Merfolks
 
 #### [Export MTGO List](../collection/Merfolks/Merfolks.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Aether%20Vial%0A4%09Benthic%20Biomancer%0A4%09Deprive%0A4%09Dismember%0A1%09Echoing%20Truth%0A4%09Faerie%20Conclave%0A10%09Island%0A4%09Lord%20of%20Atlantis%0A4%09Master%20of%20the%20Pearl%20Trident%0A4%09Merfolk%20Trickster%0A4%09Mutavault%0A1%09Oboro,%20Palace%20in%20the%20Clouds%0A4%09Silvergill%20Adept%0A4%09Spreading%20Seas%0A4%09Vapor%20Snag&deckside=4%09Deprive%0A2%09Dismember%0A2%09Echoing%20Truth%0A3%09Relic%20of%20Progenitus%0A2%09Vendilion%20Clique%0A2%09Venser,%20Shaper%20Savant)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Aether%20Vial%0A4%09Benthic%20Biomancer%0A4%09Deprive%0A4%09Dismember%0A1%09Echoing%20Truth%0A4%09Faerie%20Conclave%0A10%09Island%0A4%09Lord%20of%20Atlantis%0A4%09Master%20of%20the%20Pearl%20Trident%0A4%09Merfolk%20Trickster%0A4%09Mutavault%0A1%09Oboro,%20Palace%20in%20the%20Clouds%0A4%09Silvergill%20Adept%0A4%09Spreading%20Seas%0A4%09Vapor%20Snag&deckside=4%09Chalice%20of%20the%20Void%0A3%09Echoing%20Truth%0A4%09Relic%20of%20Progenitus%0A4%09Tectonic%20Edge)
 # Maindeck
 
 |                                     Artifact (4)                                      |                                             Creature (20)                                              |                                      Enchantment (4)                                      |                                       Instant (13)                                       |                                               Land (19)                                               |
@@ -15,37 +15,8 @@
 
 # Sideboard
 
-|                                          Artifact (3)                                          |                                           Creature (4)                                           |                                       Instant (8)                                        |
-|------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
-|3 [Relic of Progenitus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174824)|2 [Vendilion Clique](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442065)     |4 [Deprive](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=193519)      |
-|                                                                                                |2 [Venser, Shaper Savant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=136209)|2 [Dismember](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382182)    |
-|                                                                                                |                                                                                                  |2 [Echoing Truth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405212)|
-
-
-# Other Options
-
-|*n*<sup>th</sup> copy|                                          Maindeck Card                                          |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
-|--------------------:|-------------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
-|                    1|[Harbinger of the Tides](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=433017)|                    1|[Chalice of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442211)|
-|                    1|[Spell Pierce](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425876)          |                    1|[Tectonic Edge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389711)      |
-|                    1|[Phantasmal Image](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220099)      |                    2|[Chalice of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442211)|
-|                    1|[Master of Waves](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438441)       |                    2|[Tectonic Edge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389711)      |
-|                    2|[Harbinger of the Tides](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=433017)|                    3|[Chalice of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442211)|
-|                    2|[Spell Pierce](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425876)          |                    3|[Tectonic Edge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389711)      |
-|                    2|[Phantasmal Image](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220099)      |                    3|[Echoing Truth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405212)      |
-|                    2|[Master of Waves](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438441)       |                    4|[Chalice of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442211)|
-|                    3|[Harbinger of the Tides](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=433017)|                    4|[Relic of Progenitus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174824)|
-|                    3|[Spell Pierce](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425876)          |                    4|[Tectonic Edge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389711)      |
-|                    3|[Phantasmal Image](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220099)      |                     |                                                                                              |
-|                    3|[Master of Waves](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438441)       |                     |                                                                                              |
-|                    4|[Harbinger of the Tides](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=433017)|                     |                                                                                              |
-|                    4|[Spell Pierce](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425876)          |                     |                                                                                              |
-|                    4|[Master of Waves](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438441)       |                     |                                                                                              |
-|                    4|[Phantasmal Image](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220099)      |                     |                                                                                              |
-|                   11|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)                |                     |                                                                                              |
-|                   12|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)                |                     |                                                                                              |
-|                   13|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)                |                     |                                                                                              |
-|                   15|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)                |                     |                                                                                              |
-|                   16|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)                |                     |                                                                                              |
-|                   14|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)                |                     |                                                                                              |
+|                                          Artifact (8)                                          |                                       Instant (3)                                        |                                         Land (4)                                         |
+|------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
+|4 [Chalice of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442211)|3 [Echoing Truth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405212)|4 [Tectonic Edge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389711)|
+|4 [Relic of Progenitus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174824)|                                                                                          |                                                                                          |
 

@@ -1,7 +1,7 @@
 # Sultai Teaching Reclamation
 
 #### [Export MTGO List](../collection/Sultai%20Teaching%20Reclamation/Sultai%20Teaching%20Reclamation.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=1%09Abrupt%20Decay%0A1%09Assassin's%20Trophy%0A1%09Blue%20Sun's%20Zenith%0A3%09Breeding%20Pool%0A2%09Creeping%20Tar%20Pit%0A4%09Cryptic%20Command%0A1%09Devour%20Flesh%0A1%09Drowned%20Catacomb%0A2%09Fatal%20Push%0A1%09Field%20of%20Ruin%0A1%09Flooded%20Grove%0A1%09Forest%0A4%09Growth%20Spiral%0A1%09Hieroglyphic%20Illumination%0A2%09Hinterland%20Harbor%0A4%09Island%0A1%09Logic%20Knot%0A3%09Misty%20Rainforest%0A3%09Mystical%20Teachings%0A1%09Nexus%20of%20Fate%0A3%09Opt%0A4%09Polluted%20Delta%0A1%09Pulse%20of%20Murasa%0A4%09Remand%0A3%09Snapcaster%20Mage%0A1%09Spell%20Snare%0A1%09Swamp%0A2%09Watery%20Grave%0A3%09Wilderness%20Reclamation&deckside=1%09Ceremonious%20Rejection%0A1%09Consume%20the%20Meek%0A1%09Devour%20Flesh%0A2%09Dispel%0A1%09Display%20of%20Dominance%0A1%09Echoing%20Decay%0A1%09Fatal%20Push%0A1%09Fracturing%20Gust%0A1%09Life%20Goes%20On%0A1%09Nimble%20Obstructionist%0A1%09Pulse%20of%20Murasa%0A1%09Shadow%20of%20Doubt%0A1%09Surgical%20Extraction%0A1%09Tasigur,%20the%20Golden%20Fang)
+#### [Print on decklist.org](http://decklist.org/?deckmain=1%09Abrupt%20Decay%0A1%09Assassin's%20Trophy%0A1%09Blue%20Sun's%20Zenith%0A3%09Breeding%20Pool%0A2%09Creeping%20Tar%20Pit%0A4%09Cryptic%20Command%0A1%09Devour%20Flesh%0A1%09Drowned%20Catacomb%0A2%09Fatal%20Push%0A1%09Field%20of%20Ruin%0A1%09Flooded%20Grove%0A1%09Forest%0A4%09Growth%20Spiral%0A1%09Hieroglyphic%20Illumination%0A2%09Hinterland%20Harbor%0A4%09Island%0A1%09Logic%20Knot%0A3%09Misty%20Rainforest%0A3%09Mystical%20Teachings%0A1%09Nexus%20of%20Fate%0A3%09Opt%0A4%09Polluted%20Delta%0A1%09Pulse%20of%20Murasa%0A4%09Remand%0A3%09Snapcaster%20Mage%0A1%09Spell%20Snare%0A1%09Swamp%0A2%09Watery%20Grave%0A3%09Wilderness%20Reclamation&deckside=1%09Ceremonious%20Rejection%0A1%09Consume%20the%20Meek%0A1%09Crypt%20Incursion%0A1%09Devour%20Flesh%0A2%09Dispel%0A1%09Display%20of%20Dominance%0A1%09Echoing%20Decay%0A2%09Fatal%20Push%0A1%09Fracturing%20Gust%0A1%09Life%20Goes%20On%0A1%09Nimble%20Obstructionist%0A1%09Shadow%20of%20Doubt%0A1%09Surgical%20Extraction)
 # Maindeck
 
 |                                        Creature (3)                                        |                                          Enchantment (3)                                          |                                             Instant (29)                                             |                                          Land (25)                                           |
@@ -25,26 +25,28 @@
 
 # Sideboard
 
-|                                            Creature (2)                                             |                                           Instant (13)                                           |
-|-----------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
-|1 [Nimble Obstructionist](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430729)   |1 [Ceremonious Rejection](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417613)|
-|1 [Tasigur, the Golden Fang](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391937)|1 [Consume the Meek](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401691)     |
-|                                                                                                     |1 [Devour Flesh](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=366379)         |
-|                                                                                                     |2 [Dispel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401858)               |
-|                                                                                                     |1 [Display of Dominance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394538) |
-|                                                                                                     |1 [Echoing Decay](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=46176)         |
-|                                                                                                     |1 [Fatal Push](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423724)           |
-|                                                                                                     |1 [Fracturing Gust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=146759)      |
-|                                                                                                     |1 [Life Goes On](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430810)         |
-|                                                                                                     |1 [Pulse of Murasa](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446177)      |
-|                                                                                                     |1 [Shadow of Doubt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=83827)       |
-|                                                                                                     |1 [Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)  |
+|                                           Creature (1)                                           |                                           Instant (14)                                           |
+|--------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
+|1 [Nimble Obstructionist](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430729)|1 [Ceremonious Rejection](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417613)|
+|                                                                                                  |1 [Consume the Meek](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401691)     |
+|                                                                                                  |1 [Crypt Incursion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=369056)      |
+|                                                                                                  |1 [Devour Flesh](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=366379)         |
+|                                                                                                  |2 [Dispel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401858)               |
+|                                                                                                  |1 [Display of Dominance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394538) |
+|                                                                                                  |1 [Echoing Decay](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=46176)         |
+|                                                                                                  |2 [Fatal Push](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423724)           |
+|                                                                                                  |1 [Fracturing Gust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=146759)      |
+|                                                                                                  |1 [Life Goes On](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430810)         |
+|                                                                                                  |1 [Shadow of Doubt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=83827)       |
+|                                                                                                  |1 [Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)  |
 
 
 # Other Options
 
-|*n*<sup>th</sup> copy|Maindeck Card|*n*<sup>th</sup> copy|                                      Sideboard Card                                      |
-|---------------------|-------------|--------------------:|------------------------------------------------------------------------------------------|
-|                     |             |                    1|[Crypt Incursion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=369056)|
-|                     |             |                    2|[Fatal Push](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423724)     |
+|*n*<sup>th</sup> copy|Maindeck Card|*n*<sup>th</sup> copy|                                          Sideboard Card                                           |
+|---------------------|-------------|--------------------:|---------------------------------------------------------------------------------------------------|
+|                     |             |                    1|[Tasigur, the Golden Fang](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391937)|
+|                     |             |                    1|[Pulse of Murasa](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446177)         |
+|                     |             |                    1|[Hero's Downfall](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373575)         |
+|                     |             |                    2|[Life Goes On](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430810)            |
 
