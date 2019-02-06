@@ -47,6 +47,6 @@
 |                    3|[Matter Reshaper](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407516)         |                     |                                                                                               |
 |                    4|[Matter Reshaper](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407516)         |                     |                                                                                               |
 |                    3|[Shefet Dunes](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430872)            |                     |                                                                                               |
-|                    4|[Shefet Dunes](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430872)            |                     |                                                                                               |
 |                    6|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)                  |                     |                                                                                               |
+|                    4|[Shefet Dunes](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430872)            |                     |                                                                                               |
 
