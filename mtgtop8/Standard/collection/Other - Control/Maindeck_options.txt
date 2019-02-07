@@ -1,4 +1,5 @@
 3 Expansion / Explosion
+1 Forest
 1 Circuitous Route
 1 Selesnya Guildgate
 1 Plaza of Harmony
@@ -8,7 +9,6 @@
 1 Azorius Guildgate
 1 Guild Summit
 1 Gates Ablaze
-1 Forest
 2 Circuitous Route
 2 Simic Guildgate
 2 Plaza of Harmony
@@ -42,29 +42,33 @@
 4 Gruul Guildgate
 2 Azorius Guildgate
 3 Azorius Guildgate
+1 Rootbound Crag
+2 Rootbound Crag
+4 Expansion / Explosion
 1 Deafening Clarion
 2 Deafening Clarion
 1 Shimmer of Possibility
+1 Negate
 2 Selesnya Guildgate
 3 Selesnya Guildgate
 1 Gateway Plaza
 2 Gateway Plaza
-1 Negate
 1 Hydroid Krasis
 2 Hydroid Krasis
 3 Hydroid Krasis
 4 Hydroid Krasis
-4 Expansion / Explosion
-1 Rootbound Crag
-2 Rootbound Crag
 4 Chemister's Insight
+2 Forest
+3 Forest
+3 Rootbound Crag
+4 Rootbound Crag
 1 Lava Coil
 2 Lava Coil
+1 Arch of Orazca
 1 Karn, Scion of Urza
 1 Treasure Map
 1 Plains
 1 Clifftop Retreat
-1 Arch of Orazca
 1 Boros Guildgate
 1 Sacred Foundry
 2 Karn, Scion of Urza
@@ -87,6 +91,12 @@
 6 Plains
 6 Mountain
 7 Plains
+1 Anticipate
+1 Syncopate
+1 Fiery Cannonade
+2 Anticipate
+2 Syncopate
+2 Fiery Cannonade
 1 Nexus of Fate
 2 Nexus of Fate
 3 Nexus of Fate
@@ -97,19 +107,19 @@
 3 Shimmer of Possibility
 4 Shimmer of Possibility
 1 Shivan Fire
-1 Settle the Wreckage
 1 Dire Fleet Daredevil
 1 Ixalan's Binding
 1 Siege-Gang Commander
 1 The Immortal Sun
-1 Cleansing Nova
+1 Settle the Wreckage
 1 Banefire
 1 Rekindling Phoenix
 1 Seal Away
 1 Suncleanser
 1 Azor's Gateway
-2 Shivan Fire
+1 Cleansing Nova
 2 Siege-Gang Commander
+2 Shivan Fire
 2 Arch of Orazca
 2 Settle the Wreckage
 2 Dire Fleet Daredevil
@@ -123,19 +133,27 @@
 3 Suncleanser
 4 Treasure Map
 1 Thrash / Threat
-2 Forest
 2 Thrash / Threat
-3 Forest
 3 Gateway Plaza
 4 Gateway Plaza
-1 Anticipate
-1 Syncopate
-1 Fiery Cannonade
-2 Anticipate
-2 Syncopate
-2 Fiery Cannonade
-3 Rootbound Crag
-4 Rootbound Crag
+1 Spell Pierce
+1 Thrashing Brontodon
+1 Frilled Mystic
+1 Blink of an Eye
+1 Growth-Chamber Guardian
+2 Spell Pierce
+2 Frilled Mystic
+2 Blink of an Eye
+2 Growth-Chamber Guardian
+2 Thrashing Brontodon
+3 Spell Pierce
+3 Thrashing Brontodon
+3 Blink of an Eye
+3 Growth-Chamber Guardian
+3 Frilled Mystic
+4 Frilled Mystic
+4 Forest
+4 Growth-Chamber Guardian
 1 Radical Idea
 1 Primal Amulet
 1 Electrodominance
@@ -143,8 +161,8 @@
 2 Radical Idea
 2 Primal Amulet
 2 Shock
-3 Lightning Strike
 3 Shock
+3 Lightning Strike
 4 Opt
 4 Shock
 1 Captain Lannery Storm
