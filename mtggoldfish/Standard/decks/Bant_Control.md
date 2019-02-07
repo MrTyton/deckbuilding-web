@@ -2,7 +2,7 @@
 
 #### [Export MTGO List](../collection/Bant%20Control/Bant%20Control.txt)
 #### [Export Arena List](../collection/Bant%20Control/Bant%20Control_arena.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Absorb%0A2%09Angel%20of%20Grace%0A2%09Breeding%20Pool%0A4%09Chemister's%20Insight%0A2%09Cleansing%20Nova%0A1%09Forest%0A3%09Frilled%20Mystic%0A4%09Glacial%20Fortress%0A4%09Growth%20Spiral%0A4%09Hallowed%20Fountain%0A4%09Hinterland%20Harbor%0A3%09Hydroid%20Krasis%0A2%09Island%0A1%09Plains%0A2%09Seal%20Away%0A2%09Search%20for%20Azcanta%0A3%09Sunpetal%20Grove%0A2%09Syncopate%0A4%09Teferi,%20Hero%20of%20Dominaria%0A4%09Temple%20Garden%0A3%09Wilderness%20Reclamation&deckside=1%09Angel%20of%20Grace%0A1%09Crushing%20Canopy%0A3%09Deputy%20of%20Detention%0A2%09Disdainful%20Stroke%0A3%09Knight%20of%20Autumn%0A2%09Lyra%20Dawnbringer%0A3%09Negate)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Absorb%0A2%09Angel%20of%20Grace%0A2%09Breeding%20Pool%0A4%09Chemister's%20Insight%0A2%09Cleansing%20Nova%0A1%09Forest%0A3%09Frilled%20Mystic%0A4%09Glacial%20Fortress%0A4%09Growth%20Spiral%0A4%09Hallowed%20Fountain%0A4%09Hinterland%20Harbor%0A3%09Hydroid%20Krasis%0A2%09Island%0A1%09Plains%0A2%09Seal%20Away%0A2%09Search%20for%20Azcanta%0A3%09Sunpetal%20Grove%0A2%09Syncopate%0A4%09Teferi,%20Hero%20of%20Dominaria%0A4%09Temple%20Garden%0A3%09Wilderness%20Reclamation&deckside=1%09Centaur%20Peacemaker%0A2%09Crushing%20Canopy%0A3%09Deputy%20of%20Detention%0A1%09Disdainful%20Stroke%0A2%09Knight%20of%20Autumn%0A2%09Lyra%20Dawnbringer%0A1%09March%20of%20the%20Multitudes%0A2%09Negate%0A1%09Shalai,%20Voice%20of%20Plenty)
 # Maindeck
 
 |                                       Creature (8)                                        |                                          Enchantment (7)                                          |                                          Instant (14)                                          |                                          Land (25)                                           |                                           Planeswalker (4)                                           |                                        Sorcery (2)                                        |
@@ -20,10 +20,26 @@
 
 # Sideboard
 
-|                                          Creature (9)                                          |                                         Instant (6)                                          |
-|------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
-|1 [Angel of Grace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457145)     |1 [Crushing Canopy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452876)  |
-|3 [Deputy of Detention](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457309)|2 [Disdainful Stroke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420705)|
-|3 [Knight of Autumn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452933)   |3 [Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)           |
-|2 [Lyra Dawnbringer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442914)   |                                                                                              |
+|                                            Creature (9)                                            |                                            Instant (6)                                             |
+|----------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
+|1 [Centaur Peacemaker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452908)     |2 [Crushing Canopy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452876)        |
+|3 [Deputy of Detention](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457309)    |1 [Disdainful Stroke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420705)      |
+|2 [Knight of Autumn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452933)       |1 [March of the Multitudes](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452938)|
+|2 [Lyra Dawnbringer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442914)       |2 [Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)                 |
+|1 [Shalai, Voice of Plenty](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442923)|                                                                                                    |
+
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                        Maindeck Card                                         |*n*<sup>th</sup> copy|                                       Sideboard Card                                       |
+|--------------------:|----------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------|
+|                    1|[Settle the Wreckage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435186)|                    1|[Angel of Grace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457145)   |
+|                    1|[Memorial to Genius](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443131) |                    2|[Disdainful Stroke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420705)|
+|                    1|[Blink of an Eye](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442934)    |                    3|[Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)           |
+|                    1|[Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)             |                    3|[Knight of Autumn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452933) |
+|                    2|[Settle the Wreckage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435186)|                     |                                                                                            |
+|                    3|[Breeding Pool](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=97088)       |                     |                                                                                            |
+|                    4|[Sunpetal Grove](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420946)     |                     |                                                                                            |
+|                    4|[Frilled Mystic](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457318)     |                     |                                                                                            |
+|                    4|[Breeding Pool](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=97088)       |                     |                                                                                            |
 

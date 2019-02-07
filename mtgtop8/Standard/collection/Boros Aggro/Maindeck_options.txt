@@ -58,9 +58,9 @@
 2 Experimental Frenzy
 3 Fanatical Firebrand
 3 Lightning Strike
-3 Experimental Frenzy
 3 Runaway Steam-Kin
 3 Goblin Chainwhirler
+3 Experimental Frenzy
 4 Fanatical Firebrand
 4 Goblin Chainwhirler
 4 Runaway Steam-Kin
@@ -124,13 +124,13 @@
 2 Shivan Fire
 2 Militia Bugler
 2 Siege-Gang Commander
+3 Shivan Fire
 3 Siege-Gang Commander
 3 Militia Bugler
-3 Shivan Fire
 4 Militia Bugler
+1 Knight of Grace
 1 Charge
 1 Baffling End
-1 Knight of Grace
 2 Knight of Grace
 2 Baffling End
 2 Charge
@@ -149,24 +149,24 @@
 4 Viashino Pyromancer
 4 Goblin Banneret
 1 Footlight Fiend
-1 Forest
-1 Emmara, Soul of the Accord
-1 March of the Multitudes
-1 Trostani Discordant
 1 Flower / Flourish
+1 Trostani Discordant
+1 March of the Multitudes
+1 Emmara, Soul of the Accord
 1 Shanna, Sisay's Legacy
 1 Hero of Precinct One
+1 Forest
 2 Footlight Fiend
-2 Emmara, Soul of the Accord
-2 March of the Multitudes
-2 Trostani Discordant
 2 Flower / Flourish
+2 Trostani Discordant
+2 March of the Multitudes
 2 Shanna, Sisay's Legacy
+2 Emmara, Soul of the Accord
 2 Hero of Precinct One
 3 Footlight Fiend
-3 Emmara, Soul of the Accord
-3 March of the Multitudes
 3 Flower / Flourish
+3 March of the Multitudes
+3 Emmara, Soul of the Accord
 3 Hero of Precinct One
 4 March of the Multitudes
 4 Footlight Fiend
@@ -176,10 +176,10 @@
 1 Rootbound Crag
 1 Growth-Chamber Guardian
 1 Gruul Spellbreaker
-2 Sunpetal Grove
 2 Gruul Spellbreaker
 2 Rootbound Crag
 2 Rhythm of the Wild
+2 Sunpetal Grove
 2 Growth-Chamber Guardian
 3 Sunpetal Grove
 3 Rhythm of the Wild

@@ -4,17 +4,18 @@
 3 Quench
 4 Quench
 4 Island
-4 Opt
-1 Negate
 1 Syncopate
+1 Negate
 2 Syncopate
 3 Lightning Strike
+4 Opt
+1 Forest
 4 Rootbound Crag
 1 Radical Idea
 2 Radical Idea
-1 Nexus of Fate
 1 Shivan Fire
 1 Root Snare
+1 Nexus of Fate
 2 Shivan Fire
 2 Root Snare
 3 Shivan Fire
@@ -36,11 +37,13 @@
 3 Murmuring Mystic
 4 Radical Idea
 4 Root Snare
-1 Lava Coil
+2 Forest
+4 Lightning Strike
+4 Stomping Ground
 1 Hydroid Krasis
-1 Forest
+1 Lava Coil
 2 Lava Coil
 2 Hydroid Krasis
-3 Hydroid Krasis
 3 Lava Coil
+3 Hydroid Krasis
 4 Lava Coil

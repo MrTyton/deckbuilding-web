@@ -1,7 +1,7 @@
 # 8-Whack
 
 #### [Export MTGO List](../collection/8-Whack/8-Whack.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Burning-Tree%20Emissary%0A2%09Devastating%20Summons%0A4%09Fanatical%20Firebrand%0A4%09Foundry%20Street%20Denizen%0A4%09Goblin%20Bushwhacker%0A4%09Goblin%20Grenade%0A4%09Goblin%20Guide%0A4%09Legion%20Loyalist%0A4%09Lightning%20Bolt%0A3%09Mogg%20War%20Marshal%0A16%09Mountain%0A2%09Ramunap%20Ruins%0A4%09Reckless%20Bushwhacker%0A1%09The%20Flame%20of%20Keld&deckside=1%09Dragon's%20Claw%0A2%09Grafdigger's%20Cage%0A3%09Searing%20Blood%0A4%09Skullcrack%0A3%09Smash%20to%20Smithereens%0A2%09Tormod's%20Crypt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Burning-Tree%20Emissary%0A2%09Devastating%20Summons%0A4%09Fanatical%20Firebrand%0A4%09Foundry%20Street%20Denizen%0A4%09Goblin%20Bushwhacker%0A4%09Goblin%20Grenade%0A4%09Goblin%20Guide%0A4%09Legion%20Loyalist%0A4%09Lightning%20Bolt%0A3%09Mogg%20War%20Marshal%0A16%09Mountain%0A2%09Ramunap%20Ruins%0A4%09Reckless%20Bushwhacker%0A1%09The%20Flame%20of%20Keld&deckside=3%09Dismember%0A2%09Searing%20Blood%0A2%09Skullcrack%0A3%09Smash%20to%20Smithereens%0A1%09The%20Flame%20of%20Keld%0A4%09Tormod's%20Crypt)
 # Maindeck
 
 |                                           Creature (31)                                           |                                       Enchantment (1)                                        |                                      Instant (4)                                       |                                        Land (18)                                         |                                          Sorcery (6)                                           |
@@ -18,30 +18,31 @@
 
 # Sideboard
 
-|                                         Artifact (5)                                         |                                          Instant (10)                                           |
-|----------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
-|1 [Dragon's Claw](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129527)    |3 [Searing Blood](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=378483)       |
-|2 [Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452)|4 [Skullcrack](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=366238)          |
-|2 [Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)   |3 [Smash to Smithereens](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397795)|
+|                                       Artifact (4)                                        |                                       Enchantment (1)                                        |                                          Instant (10)                                           |
+|-------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
+|4 [Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)|1 [The Flame of Keld](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443011)|3 [Dismember](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382182)           |
+|                                                                                           |                                                                                              |2 [Searing Blood](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=378483)       |
+|                                                                                           |                                                                                              |2 [Skullcrack](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=366238)          |
+|                                                                                           |                                                                                              |3 [Smash to Smithereens](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397795)|
 
 
 # Other Options
 
 |*n*<sup>th</sup> copy|                                        Maindeck Card                                         |*n*<sup>th</sup> copy|                                        Sideboard Card                                         |
 |--------------------:|----------------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------------|
-|                    1|[Goblin Arsonist](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=368478)    |                    1|[Dismember](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382182)           |
-|                    1|[Goblin Cohort](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=74433)       |                    1|[The Flame of Keld](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443011)   |
-|                    1|[Collateral Damage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391811)  |                    2|[Dismember](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382182)           |
-|                    2|[Collateral Damage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391811)  |                    3|[Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)      |
-|                    2|[Goblin Cohort](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=74433)       |                    3|[Dismember](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382182)           |
-|                    2|[Goblin Arsonist](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=368478)    |                    4|[Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)      |
+|                    1|[Goblin Arsonist](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=368478)    |                    1|[Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452)   |
+|                    1|[Goblin Cohort](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=74433)       |                    1|[Dragon's Claw](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129527)       |
+|                    1|[Collateral Damage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391811)  |                    2|[Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452)   |
+|                    2|[Collateral Damage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391811)  |                    3|[Searing Blood](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=378483)       |
+|                    2|[Goblin Cohort](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=74433)       |                    3|[Skullcrack](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=366238)          |
+|                    2|[Goblin Arsonist](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=368478)    |                    4|[Skullcrack](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=366238)          |
 |                    3|[Goblin Arsonist](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=368478)    |                    1|[Flame Slash](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416914)         |
 |                    3|[Collateral Damage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391811)  |                    1|[Ravenous Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197537)       |
 |                    3|[Goblin Cohort](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=74433)       |                    1|[Heap Doll](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=154395)           |
 |                    4|[Goblin Arsonist](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=368478)    |                    1|[Smelt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=249691)               |
 |                    4|[Goblin Cohort](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=74433)       |                    2|[Flame Slash](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416914)         |
-|                    1|[Mogg Fanatic](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=134748)       |                    2|[Smelt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=249691)               |
-|                    1|[Simian Spirit Guide](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442137)|                    2|[Ravenous Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197537)       |
+|                    1|[Simian Spirit Guide](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442137)|                    2|[Smelt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=249691)               |
+|                    1|[Mogg Fanatic](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=134748)       |                    2|[Ravenous Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197537)       |
 |                    2|[Mogg Fanatic](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=134748)       |                    3|[Ravenous Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197537)       |
 |                    2|[Simian Spirit Guide](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442137)|                    3|[Smelt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=249691)               |
 |                    3|[Ramunap Ruins](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430870)      |                    4|[Ravenous Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197537)       |

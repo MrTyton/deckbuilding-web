@@ -35,5 +35,7 @@
 |*n*<sup>th</sup> copy|                                       Maindeck Card                                        |*n*<sup>th</sup> copy|                                          Sideboard Card                                           |
 |--------------------:|--------------------------------------------------------------------------------------------|--------------------:|---------------------------------------------------------------------------------------------------|
 |                    1|[Assassin's Trophy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452902)|                    1|[Circle of Protection: Black](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=838)|
-|                    2|[Pithing Needle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129526)   |                     |                                                                                                   |
+|                    2|[Pithing Needle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129526)   |                    1|[Sorcerous Spyglass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435407)      |
+|                     |                                                                                            |                    1|[Profane Memento](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383353)         |
+|                     |                                                                                            |                    1|[Darksteel Reactor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=43548)        |
 
