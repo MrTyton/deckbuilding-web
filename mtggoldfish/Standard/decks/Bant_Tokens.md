@@ -30,12 +30,12 @@
 
 |*n*<sup>th</sup> copy|                                          Maindeck Card                                           |*n*<sup>th</sup> copy|                                     Sideboard Card                                      |
 |--------------------:|--------------------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------|
-|                    4|[Breeding Pool](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=97088)           |                    1|[Hydroid Krasis](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457327)|
-|                    1|[Legion's Landing](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435173)       |                    3|[Baffling End](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439658)  |
-|                    1|[Growth-Chamber Guardian](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457272)|                     |                                                                                         |
+|                    1|[Legion's Landing](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435173)       |                    1|[Hydroid Krasis](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457327)|
+|                    1|[Growth-Chamber Guardian](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457272)|                    3|[Baffling End](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439658)  |
 |                    2|[Legion's Landing](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435173)       |                     |                                                                                         |
 |                    2|[Growth-Chamber Guardian](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457272)|                     |                                                                                         |
 |                    3|[Growth-Chamber Guardian](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457272)|                     |                                                                                         |
 |                    4|[Growth-Chamber Guardian](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457272)|                     |                                                                                         |
 |                    4|[Hallowed Fountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=97071)       |                     |                                                                                         |
+|                    4|[Breeding Pool](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=97088)           |                     |                                                                                         |
 

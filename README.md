@@ -13,9 +13,9 @@
 |[Bant Aggro](./mtggoldfish/Standard/decks/Bant_Aggro.md)        |[Golgari Graveyard](./mtggoldfish/Standard/decks/Golgari_Graveyard.md)          |[Mardu Angels](./mtggoldfish/Standard/decks/Mardu_Angels.md)          |[Rakdos Aggro](./mtggoldfish/Standard/decks/Rakdos_Aggro.md)          |[UG Merfolk](./mtggoldfish/Standard/decks/UG_Merfolk.md)              |
 |[Bant Control](./mtggoldfish/Standard/decks/Bant_Control.md)    |[Golgari Midrange](./mtggoldfish/Standard/decks/Golgari_Midrange.md)            |[Mardu Aristocrats](./mtggoldfish/Standard/decks/Mardu_Aristocrats.md)|[Rakdos Midrange](./mtggoldfish/Standard/decks/Rakdos_Midrange.md)    |[URG](./mtggoldfish/Standard/decks/URG.md)                            |
 |[Bant Midrange](./mtggoldfish/Standard/decks/Bant_Midrange.md)  |[Grixis Control](./mtggoldfish/Standard/decks/Grixis_Control.md)                |[Mono-Blue Tempo](./mtggoldfish/Standard/decks/Mono-Blue_Tempo.md)    |[Red(-Green) Aggro](./mtggoldfish/Standard/decks/Red(-Green)_Aggro.md)|[WBG](./mtggoldfish/Standard/decks/WBG.md)                            |
-|[Bant Nexus](./mtggoldfish/Standard/decks/Bant_Nexus.md)        |[Gruul Aggro](./mtggoldfish/Standard/decks/Gruul_Aggro.md)                      |[Mono-Red Aggro](./mtggoldfish/Standard/decks/Mono-Red_Aggro.md)      |[Selesnya Tokens](./mtggoldfish/Standard/decks/Selesnya_Tokens.md)    |                                                                      |
-|[Bant Tokens](./mtggoldfish/Standard/decks/Bant_Tokens.md)      |[Gruul Dinosaurs](./mtggoldfish/Standard/decks/Gruul_Dinosaurs.md)              |[Mono-White Judith](./mtggoldfish/Standard/decks/Mono-White_Judith.md)|[Simic Nexus](./mtggoldfish/Standard/decks/Simic_Nexus.md)            |                                                                      |
-|[Boros Aggro](./mtggoldfish/Standard/decks/Boros_Aggro.md)      |[Gruul(-White) Monsters](./mtggoldfish/Standard/decks/Gruul(-White)_Monsters.md)|[Naya Aggro](./mtggoldfish/Standard/decks/Naya_Aggro.md)              |[Sultai Control](./mtggoldfish/Standard/decks/Sultai_Control.md)      |                                                                      |
+|[Bant Nexus](./mtggoldfish/Standard/decks/Bant_Nexus.md)        |[Gruul Aggro](./mtggoldfish/Standard/decks/Gruul_Aggro.md)                      |[Mono-Red Aggro](./mtggoldfish/Standard/decks/Mono-Red_Aggro.md)      |[Selesnya Tokens](./mtggoldfish/Standard/decks/Selesnya_Tokens.md)    |[WBRG](./mtggoldfish/Standard/decks/WBRG.md)                          |
+|[Bant Tokens](./mtggoldfish/Standard/decks/Bant_Tokens.md)      |[Gruul Dinosaurs](./mtggoldfish/Standard/decks/Gruul_Dinosaurs.md)              |[Mono-White Judith](./mtggoldfish/Standard/decks/Mono-White_Judith.md)|[Simic Nexus](./mtggoldfish/Standard/decks/Simic_Nexus.md)            |[WR](./mtggoldfish/Standard/decks/WR.md)                              |
+|[Boros Aggro](./mtggoldfish/Standard/decks/Boros_Aggro.md)      |[Gruul(-White) Monsters](./mtggoldfish/Standard/decks/Gruul(-White)_Monsters.md)|[Naya Aggro](./mtggoldfish/Standard/decks/Naya_Aggro.md)              |[Sultai Control](./mtggoldfish/Standard/decks/Sultai_Control.md)      |[WUR](./mtggoldfish/Standard/decks/WUR.md)                            |
 |[Boros Weenie](./mtggoldfish/Standard/decks/Boros_Weenie.md)    |[Izzet Drakes](./mtggoldfish/Standard/decks/Izzet_Drakes.md)                    |[Naya Midrang](./mtggoldfish/Standard/decks/Naya_Midrang.md)          |[Temur Drake](./mtggoldfish/Standard/decks/Temur_Drake.md)            |                                                                      |
 
 
@@ -57,4 +57,4 @@
 
 
 
-#### Last Updated at 12:25PM on February 07, 2019
+#### Last Updated at 12:24AM on February 08, 2019
