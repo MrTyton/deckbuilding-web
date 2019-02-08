@@ -30,10 +30,10 @@
 |*n*<sup>th</sup> copy|                                       Maindeck Card                                       |*n*<sup>th</sup> copy|                                      Sideboard Card                                       |
 |--------------------:|-------------------------------------------------------------------------------------------|--------------------:|-------------------------------------------------------------------------------------------|
 |                    1|[Knight of Autumn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452933)|                    1|[Knight of Autumn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452933)|
-|                    1|[Vivien Reid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447344)     |                    1|[Vivien Reid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447344)     |
+|                    1|[Biogenic Ooze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457266)   |                    1|[Vivien Reid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447344)     |
 |                    1|[Thorn Lieutenant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447339)|                    2|[Knight of Autumn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452933)|
 |                    2|[Thorn Lieutenant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447339)|                     |                                                                                           |
 |                    3|[Thorn Lieutenant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447339)|                     |                                                                                           |
 |                    4|[Thorn Lieutenant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447339)|                     |                                                                                           |
-|                    1|[Biogenic Ooze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457266)   |                     |                                                                                           |
+|                    1|[Vivien Reid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447344)     |                     |                                                                                           |
 

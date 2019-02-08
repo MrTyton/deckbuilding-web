@@ -1,8 +1,8 @@
+4 Ghost Quarter
 4 Zhalfirin Void
 3 Mutavault
-4 Ghost Quarter
-1 Cavern of Souls
 1 Warping Wail
+1 Cavern of Souls
 2 Endbringer
 1 Relic of Progenitus
 1 Urza's Mine
@@ -40,9 +40,11 @@
 2 Warping Wail
 1 Wurmcoil Engine
 3 Cavern of Souls
+1 Endless One
+2 Endless One
+4 Mutavault
 4 Endbringer
 1 Karn Liberated
-4 Mutavault
 3 Relic of Progenitus
 4 Relic of Progenitus
 1 Mind Stone
@@ -60,9 +62,7 @@
 2 Treasure Map
 1 Phyrexian Metamorph
 2 Smuggler's Copter
-1 Endless One
 1 Field of Ruin
-2 Endless One
 2 Field of Ruin
 3 Endless One
 3 Tectonic Edge
@@ -100,20 +100,20 @@
 4 Sea Gate Wreckage
 1 Abrade
 1 Bloodbraid Elf
-1 Grove of the Burnwillows
 1 Wooded Foothills
 1 Karplusan Forest
 1 Mizzium Mortars
+1 Ratchet Bomb
+1 Grove of the Burnwillows
 1 Noble Hierarch
 1 Lightning Bolt
 1 Engineered Explosives
-1 Ratchet Bomb
 1 Forest
 1 Kessig Wolf Run
 1 Ancient Stirrings
 1 Stomping Ground
-2 Bloodbraid Elf
 2 Grove of the Burnwillows
+2 Bloodbraid Elf
 2 Wooded Foothills
 2 Forest
 2 Noble Hierarch
@@ -134,13 +134,13 @@
 4 Ancient Stirrings
 4 Noble Hierarch
 4 Lightning Bolt
-1 Chandra, Torch of Defiance
 1 Sulfurous Springs
+1 Chandra, Torch of Defiance
 1 Pia and Kiran Nalaar
 1 Ramunap Ruins
+2 Sulfurous Springs
 2 Mind Stone
 2 Chandra, Torch of Defiance
-2 Sulfurous Springs
 2 Mountain
 2 Ramunap Ruins
 2 Pia and Kiran Nalaar

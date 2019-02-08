@@ -73,7 +73,7 @@
 |                    4|[Wooded Foothills](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405116)       |                    1|[Kor Spiritdancer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446061)    |
 |                     |                                                                                                  |                    2|[Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452)   |
 |                     |                                                                                                  |                    2|[Kor Spiritdancer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446061)    |
-|                     |                                                                                                  |                    3|[Kor Spiritdancer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446061)    |
 |                     |                                                                                                  |                    3|[Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452)   |
+|                     |                                                                                                  |                    3|[Kor Spiritdancer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446061)    |
 |                     |                                                                                                  |                    4|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)       |
 

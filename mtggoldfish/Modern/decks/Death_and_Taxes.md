@@ -40,8 +40,8 @@
 |                    3|[Thought-Knot Seer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407519)|                    1|[Shining Shoal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=74519)        |
 |                    3|[Wall of Omens](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=247400)    |                    2|[Cataclysmic Gearhulk](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417582)|
 |                    3|[Mutavault](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370733)        |                    2|[Shining Shoal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=74519)        |
-|                    4|[Wall of Omens](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=247400)    |                    3|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)       |
-|                    4|[Thought-Knot Seer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407519)|                    2|[Revoke Existence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=378397)    |
+|                    4|[Thought-Knot Seer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407519)|                    3|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)       |
+|                    4|[Wall of Omens](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=247400)    |                    2|[Revoke Existence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=378397)    |
 |                    2|[Tectonic Edge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389711)    |                     |                                                                                               |
 |                   10|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)           |                     |                                                                                               |
 

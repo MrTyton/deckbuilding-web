@@ -1,5 +1,7 @@
+2 Island
+3 Island
+1 Expansion / Explosion
 4 Glacial Fortress
-3 Temple Garden
 2 Expansion / Explosion
 1 Hydroid Krasis
 1 Simic Guildgate
@@ -40,10 +42,13 @@
 4 Circuitous Route
 4 Hydroid Krasis
 4 Selesnya Guildgate
+1 Depose / Deploy
+2 Depose / Deploy
+3 Depose / Deploy
+4 Sunpetal Grove
+4 Depose / Deploy
 3 Forest
 4 Island
-3 Revitalize
-4 Revitalize
 2 Precognitive Perception
 1 Settle the Wreckage
 1 Uncomfortable Chill
@@ -52,6 +57,10 @@
 1 Deafening Clarion
 2 Deafening Clarion
 4 Azorius Guildgate
+1 Opt
+2 Opt
+3 Opt
+4 Opt
 1 Plains
 1 Karn, Scion of Urza
 1 Chart a Course
@@ -65,11 +74,6 @@
 4 Teferi, Hero of Dominaria
 4 Chart a Course
 4 Temple Garden
-1 Depose / Deploy
-2 Depose / Deploy
-3 Depose / Deploy
-4 Sunpetal Grove
-4 Depose / Deploy
 3 Expansion / Explosion
 1 Anticipate
 1 Kumena's Awakening
@@ -80,10 +84,6 @@
 2 Settle the Wreckage
 3 Settle the Wreckage
 4 Search for Azcanta
-1 Opt
-2 Opt
-3 Opt
-4 Opt
 1 Rootbound Crag
 1 Sulfur Falls
 1 Steam Vents
@@ -93,8 +93,8 @@
 2 Steam Vents
 2 Stomping Ground
 2 Sulfur Falls
-3 Precognitive Perception
 3 Rootbound Crag
+3 Precognitive Perception
 3 Anticipate
 3 Uncomfortable Chill
 4 Anticipate
@@ -102,13 +102,13 @@
 4 Precognitive Perception
 4 Uncomfortable Chill
 1 Blink of an Eye
-1 Memorial to Genius
 1 Frilled Mystic
-2 Blink of an Eye
+1 Memorial to Genius
 2 Frilled Mystic
+2 Blink of an Eye
 2 Memorial to Genius
-3 Blink of an Eye
 3 Frilled Mystic
+3 Blink of an Eye
 3 Memorial to Genius
 4 Forest
 4 Frilled Mystic

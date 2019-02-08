@@ -36,9 +36,6 @@
 11 Mountain
 12 Mountain
 13 Mountain
-14 Mountain
-15 Mountain
-16 Mountain
 1 Manamorphose
 1 Arclight Phoenix
 1 Bedlam Reveler
@@ -56,10 +53,13 @@
 4 Arclight Phoenix
 4 Manamorphose
 4 Faithless Looting
+14 Mountain
+15 Mountain
+16 Mountain
 17 Mountain
-4 Skullcrack
 1 Ramunap Ruins
 2 Ramunap Ruins
+4 Skullcrack
 18 Mountain
 1 Soul-Scar Mage
 2 Soul-Scar Mage
@@ -82,49 +82,25 @@
 2 Bomat Courier
 3 Bomat Courier
 4 Bomat Courier
-1 Mogg War Marshal
-2 Mogg War Marshal
-3 Mogg War Marshal
-1 Collateral Damage
-1 Goblin Cohort
-1 Goblin Arsonist
-1 Foundry Street Denizen
-1 Burning-Tree Emissary
-1 Goblin Bushwhacker
-1 Legion Loyalist
-1 Goblin Grenade
-1 Reckless Bushwhacker
-2 Goblin Arsonist
-2 Goblin Cohort
-2 Collateral Damage
-2 Legion Loyalist
-2 Goblin Grenade
-2 Foundry Street Denizen
-2 Reckless Bushwhacker
-2 Burning-Tree Emissary
-2 Goblin Bushwhacker
-3 Goblin Cohort
-3 Collateral Damage
-3 Goblin Arsonist
-3 Burning-Tree Emissary
-3 Reckless Bushwhacker
-3 Foundry Street Denizen
-3 Goblin Bushwhacker
-3 Legion Loyalist
-4 Goblin Bushwhacker
-4 Goblin Cohort
-4 Goblin Arsonist
-4 Burning-Tree Emissary
-4 Reckless Bushwhacker
-4 Foundry Street Denizen
-4 Legion Loyalist
-1 Desperate Ritual
 1 Maximize Velocity
-2 Desperate Ritual
+1 Desperate Ritual
 2 Maximize Velocity
-3 Desperate Ritual
+2 Desperate Ritual
 3 Maximize Velocity
+3 Desperate Ritual
 4 Bedlam Reveler
+1 Copperline Gorge
+1 Wild Nacatl
+1 Atarka's Command
+2 Stomping Ground
+2 Atarka's Command
+2 Wild Nacatl
+3 Sacred Foundry
+3 Wild Nacatl
+3 Atarka's Command
+4 Wild Nacatl
+4 Atarka's Command
+1 Mogg War Marshal
 1 Goblin Motivator
 1 Mutavault
 1 Blood Moon
@@ -134,41 +110,67 @@
 1 Krenko, Mob Boss
 1 Goblin Trashmaster
 1 Skirk Prospector
+1 Warren Instigator
 1 Cavern of Souls
 1 Goblin King
 1 Goblin Piledriver
 1 Thalia, Guardian of Thraben
-1 Warren Instigator
+2 Mogg War Marshal
 2 Cavern of Souls
 2 Goblin Motivator
 2 Blood Moon
 2 Legion Warboss
-2 Goblin Piledriver
-2 Goblin King
-2 Skirk Prospector
 2 Warren Instigator
+2 Goblin King
+2 Goblin Piledriver
+2 Skirk Prospector
 2 Thalia, Guardian of Thraben
 2 Goblin Chieftain
+3 Mogg War Marshal
 3 Cavern of Souls
 3 Goblin Piledriver
 3 Warren Instigator
+3 Skirk Prospector
 3 Goblin King
 3 Goblin Chieftain
 3 Blood Moon
-3 Skirk Prospector
 4 Mogg War Marshal
 4 Goblin Chieftain
 4 Goblin Piledriver
 4 Warren Instigator
 4 Cavern of Souls
-1 Copperline Gorge
-1 Atarka's Command
-1 Wild Nacatl
-2 Stomping Ground
-2 Wild Nacatl
-2 Atarka's Command
-3 Sacred Foundry
-3 Wild Nacatl
-3 Atarka's Command
-4 Wild Nacatl
-4 Atarka's Command
+1 Risk Factor
+1 Foundry Street Denizen
+1 Goblin Bushwhacker
+1 Legion Loyalist
+1 Burning-Tree Emissary
+1 Fanatical Firebrand
+1 Simian Spirit Guide
+1 Goblin Grenade
+1 Reckless Bushwhacker
+1 Mogg Fanatic
+2 Goblin Grenade
+2 Foundry Street Denizen
+2 Legion Loyalist
+2 Reckless Bushwhacker
+2 Burning-Tree Emissary
+2 Fanatical Firebrand
+2 Mogg Fanatic
+2 Goblin Bushwhacker
+3 Fanatical Firebrand
+3 Burning-Tree Emissary
+3 Mogg Fanatic
+3 Goblin Grenade
+3 Reckless Bushwhacker
+3 Ramunap Ruins
+3 Foundry Street Denizen
+3 Goblin Bushwhacker
+3 Legion Loyalist
+4 Goblin Bushwhacker
+4 Burning-Tree Emissary
+4 Fanatical Firebrand
+4 Goblin Grenade
+4 Foundry Street Denizen
+4 Legion Loyalist
+4 Mogg Fanatic
+4 Ramunap Ruins
