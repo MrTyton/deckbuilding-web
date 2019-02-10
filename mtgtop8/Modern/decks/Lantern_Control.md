@@ -99,7 +99,7 @@
 |                    3|[Expedition Map](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397742)          |                     |                                                                                                       |
 |                    1|[Darkslick Shores](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=209400)        |                     |                                                                                                       |
 |                    2|[Darkslick Shores](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=209400)        |                     |                                                                                                       |
-|                    3|[Darkslick Shores](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=209400)        |                     |                                                                                                       |
 |                    3|[Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)            |                     |                                                                                                       |
+|                    3|[Darkslick Shores](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=209400)        |                     |                                                                                                       |
 |                    4|[Inquisition of Kozilek](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416897)  |                     |                                                                                                       |
 

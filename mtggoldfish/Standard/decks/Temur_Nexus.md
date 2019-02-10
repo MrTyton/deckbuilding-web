@@ -32,10 +32,10 @@
 |                    1|[Anticipate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401813)|                    1|[Star of Extinction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435315)|
 |                    2|[Anticipate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401813)|                    1|[Carnage Tyrant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435334)    |
 |                    3|[Anticipate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401813)|                    1|[Treasure Map](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435410)      |
-|                    4|[Anticipate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401813)|                    2|[Treasure Map](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435410)      |
+|                    4|[Anticipate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401813)|                    2|[Carnage Tyrant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435334)    |
+|                     |                                                                                     |                    2|[Treasure Map](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435410)      |
 |                     |                                                                                     |                    2|[Star of Extinction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435315)|
-|                     |                                                                                     |                    2|[Carnage Tyrant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435334)    |
-|                     |                                                                                     |                    3|[Star of Extinction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435315)|
 |                     |                                                                                     |                    3|[Carnage Tyrant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435334)    |
+|                     |                                                                                     |                    3|[Star of Extinction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435315)|
 |                     |                                                                                     |                    4|[Carnage Tyrant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435334)    |
 
