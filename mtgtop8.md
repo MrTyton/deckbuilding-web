@@ -25,8 +25,8 @@
 |[Aura Hexproof](./mtgtop8/Modern/decks/Aura_Hexproof.md)        |[Hatebear](./mtgtop8/Modern/decks/Hatebear.md)                    |[Living End](./mtgtop8/Modern/decks/Living_End.md)            |[Slivers](./mtgtop8/Modern/decks/Slivers.md)                |[UWx Midrange](./mtgtop8/Modern/decks/UWx_Midrange.md)|
 |[BUG](./mtgtop8/Modern/decks/BUG.md)                            |[Hollow One](./mtgtop8/Modern/decks/Hollow_One.md)                |[Mardu Midrange](./mtgtop8/Modern/decks/Mardu_Midrange.md)    |[Smallpox](./mtgtop8/Modern/decks/Smallpox.md)              |[UrzaTron](./mtgtop8/Modern/decks/UrzaTron.md)        |
 |[Creatures Toolbox](./mtgtop8/Modern/decks/Creatures_Toolbox.md)|[Humans](./mtgtop8/Modern/decks/Humans.md)                        |[Martyr Life](./mtgtop8/Modern/decks/Martyr_Life.md)          |[Spirit Aggro](./mtgtop8/Modern/decks/Spirit_Aggro.md)      |[Valakut](./mtgtop8/Modern/decks/Valakut.md)          |
-|[Death's Shadow](./mtgtop8/Modern/decks/Death's_Shadow.md)      |[Infect](./mtgtop8/Modern/decks/Infect.md)                        |[Merfolk](./mtgtop8/Modern/decks/Merfolk.md)                  |[Tezzerator](./mtgtop8/Modern/decks/Tezzerator.md)          |[Zoo](./mtgtop8/Modern/decks/Zoo.md)                  |
-|[Dredge](./mtgtop8/Modern/decks/Dredge.md)                      |[Instant Reanimator](./mtgtop8/Modern/decks/Instant_Reanimator.md)|[Mono Red Control](./mtgtop8/Modern/decks/Mono_Red_Control.md)|[The Rock](./mtgtop8/Modern/decks/The_Rock.md)              |                                                      |
+|[Death's Shadow](./mtgtop8/Modern/decks/Death's_Shadow.md)      |[Infect](./mtgtop8/Modern/decks/Infect.md)                        |[Merfolk](./mtgtop8/Modern/decks/Merfolk.md)                  |[Tezzerator](./mtgtop8/Modern/decks/Tezzerator.md)          |[Walks](./mtgtop8/Modern/decks/Walks.md)              |
+|[Dredge](./mtgtop8/Modern/decks/Dredge.md)                      |[Instant Reanimator](./mtgtop8/Modern/decks/Instant_Reanimator.md)|[Mono Red Control](./mtgtop8/Modern/decks/Mono_Red_Control.md)|[The Rock](./mtgtop8/Modern/decks/The_Rock.md)              |[Zoo](./mtgtop8/Modern/decks/Zoo.md)                  |
 |[Eldrazi Aggro](./mtgtop8/Modern/decks/Eldrazi_Aggro.md)        |[Jeskai Ascendancy](./mtgtop8/Modern/decks/Jeskai_Ascendancy.md)  |[Nahiri Control](./mtgtop8/Modern/decks/Nahiri_Control.md)    |[Twin Exarch](./mtgtop8/Modern/decks/Twin_Exarch.md)        |                                                      |
 |[Elves](./mtgtop8/Modern/decks/Elves.md)                        |[Jeskai Control](./mtgtop8/Modern/decks/Jeskai_Control.md)        |[Orzhov Midrange](./mtgtop8/Modern/decks/Orzhov_Midrange.md)  |[UB Mill](./mtgtop8/Modern/decks/UB_Mill.md)                |                                                      |
 |[Faeries](./mtgtop8/Modern/decks/Faeries.md)                    |[Jund](./mtgtop8/Modern/decks/Jund.md)                            |[Other - Combo](./mtgtop8/Modern/decks/Other_-_Combo.md)      |[UR Aggro](./mtgtop8/Modern/decks/UR_Aggro.md)              |                                                      |
@@ -41,4 +41,4 @@
 
 
 
-#### Last Updated at 12:30AM on February 11, 2019
+#### Last Updated at 12:32PM on February 11, 2019
