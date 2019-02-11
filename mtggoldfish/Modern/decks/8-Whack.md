@@ -58,7 +58,7 @@
 |                    4|[Goblin Cohort](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=74433)        |                    2|[Flame Slash](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416914)         |
 |                     |                                                                                               |                    2|[Smelt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=249691)               |
 |                     |                                                                                               |                    3|[Ravenous Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197537)       |
-|                     |                                                                                               |                    3|[Smelt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=249691)               |
-|                     |                                                                                               |                    4|[Ravenous Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197537)       |
 |                     |                                                                                               |                    4|[Smash to Smithereens](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397795)|
+|                     |                                                                                               |                    4|[Ravenous Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197537)       |
+|                     |                                                                                               |                    3|[Smelt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=249691)               |
 

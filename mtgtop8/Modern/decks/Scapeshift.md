@@ -56,7 +56,7 @@
 |                    2|[Breeding Pool](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=97088)           |                     |                                                                                               |
 |                    3|[Lightning Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=806)            |                     |                                                                                               |
 |                    3|[Jace, the Mind Sculptor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442051)|                     |                                                                                               |
-|                    4|[Jace, the Mind Sculptor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442051)|                     |                                                                                               |
 |                    4|[Lightning Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=806)            |                     |                                                                                               |
+|                    4|[Jace, the Mind Sculptor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442051)|                     |                                                                                               |
 |                    4|[Scapeshift](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447337)             |                     |                                                                                               |
 

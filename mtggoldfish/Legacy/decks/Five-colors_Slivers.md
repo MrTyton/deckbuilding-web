@@ -1,7 +1,7 @@
 # Five-colors Slivers
 
 #### [Export MTGO List](../collection/Five-colors%20Slivers/Five-colors%20Slivers.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Aether%20Vial%0A3%09Ancient%20Ziggurat%0A4%09Cavern%20of%20Souls%0A4%09Crystalline%20Sliver%0A4%09Force%20of%20Will%0A4%09Galerider%20Sliver%0A4%09Hibernation%20Sliver%0A2%09Karakas%0A3%09Muscle%20Sliver%0A4%09Mutavault%0A4%09Predatory%20Sliver%0A2%09Sidewinder%20Sliver%0A4%09Sinew%20Sliver%0A4%09Sliver%20Hive%0A4%09Striking%20Sliver%0A1%09Telekinetic%20Sliver%0A4%09Unclaimed%20Territory%0A1%09Winged%20Sliver&deckside=4%09Chalice%20of%20the%20Void%0A2%09Ethersworn%20Canonist%0A2%09Harmonic%20Sliver%0A4%09Leyline%20of%20the%20Void%0A2%09Pithing%20Needle%0A1%09Telekinetic%20Sliver)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Aether%20Vial%0A3%09Ancient%20Ziggurat%0A4%09Cavern%20of%20Souls%0A4%09Crystalline%20Sliver%0A4%09Force%20of%20Will%0A4%09Galerider%20Sliver%0A4%09Hibernation%20Sliver%0A2%09Karakas%0A3%09Muscle%20Sliver%0A4%09Mutavault%0A4%09Predatory%20Sliver%0A2%09Sidewinder%20Sliver%0A4%09Sinew%20Sliver%0A4%09Sliver%20Hive%0A4%09Striking%20Sliver%0A1%09Telekinetic%20Sliver%0A4%09Unclaimed%20Territory%0A1%09Winged%20Sliver&deckside=3%09Chalice%20of%20the%20Void%0A2%09Darkheart%20Sliver%0A2%09Ethersworn%20Canonist%0A2%09Harmonic%20Sliver%0A4%09Leyline%20of%20the%20Void%0A1%09Pithing%20Needle%0A1%09Sorcerous%20Spyglass)
 # Maindeck
 
 |                                     Artifact (4)                                      |                                         Creature (31)                                         |                                      Instant (4)                                       |                                           Land (21)                                            |
@@ -20,9 +20,18 @@
 
 # Sideboard
 
-|                                          Artifact (6)                                          |                                          Creature (5)                                          |                                        Enchantment (4)                                         |
+|                                          Artifact (5)                                          |                                          Creature (6)                                          |                                        Enchantment (4)                                         |
 |------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
-|4 [Chalice of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442211)|2 [Ethersworn Canonist](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174931)|4 [Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)|
-|2 [Pithing Needle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129526)     |2 [Harmonic Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=109706)    |                                                                                                |
-|                                                                                                |1 [Telekinetic Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=111085) |                                                                                                |
+|3 [Chalice of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442211)|2 [Darkheart Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=126012)   |4 [Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)|
+|1 [Pithing Needle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129526)     |2 [Ethersworn Canonist](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174931)|                                                                                                |
+|1 [Sorcerous Spyglass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435407) |2 [Harmonic Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=109706)    |                                                                                                |
+
+
+# Other Options
+
+|*n*<sup>th</sup> copy|Maindeck Card|*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
+|---------------------|-------------|--------------------:|----------------------------------------------------------------------------------------------|
+|                     |             |                    1|[Telekinetic Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=111085) |
+|                     |             |                    2|[Pithing Needle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129526)     |
+|                     |             |                    4|[Chalice of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442211)|
 

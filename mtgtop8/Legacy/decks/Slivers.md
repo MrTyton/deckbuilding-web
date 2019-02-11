@@ -27,3 +27,13 @@
 |                                                                                                |2 [Harmonic Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=109706)    |                                                                                                |
 |                                                                                                |1 [Telekinetic Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=111085) |                                                                                                |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                     Maindeck Card                                      |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
+|--------------------:|----------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
+|                    1|[Underground Sea](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=886) |                    3|[Chalice of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442211)|
+|                    1|[Bayou](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=879)           |                    4|[Chalice of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442211)|
+|                    2|[Underground Sea](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=886) |                     |                                                                                              |
+|                    4|[Muscle Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=207911)|                     |                                                                                              |
+

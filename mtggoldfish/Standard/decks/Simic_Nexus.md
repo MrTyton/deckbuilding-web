@@ -24,3 +24,15 @@
 |                                                                                             |1 [Nezahal, Primal Tide](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439702)|3 [Sagittars' Volley](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457282)|                                                                                              |
 |                                                                                             |3 [Pelakka Wurm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382322)        |                                                                                              |                                                                                              |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|Maindeck Card|*n*<sup>th</sup> copy|                                      Sideboard Card                                       |
+|---------------------|-------------|--------------------:|-------------------------------------------------------------------------------------------|
+|                     |             |                    1|[Crushing Canopy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452876) |
+|                     |             |                    1|[Murmuring Mystic](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452795)|
+|                     |             |                    1|[River's Rebuke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435223)  |
+|                     |             |                    2|[Crushing Canopy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452876) |
+|                     |             |                    2|[Murmuring Mystic](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452795)|
+|                     |             |                    3|[Crushing Canopy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452876) |
+
