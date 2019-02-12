@@ -1,20 +1,19 @@
-2 Scavenging Ooze
-1 Viscera Seer
-2 Kitchen Finks
 1 Knight of Autumn
 4 Wooded Foothills
 2 Gavony Township
 1 Stomping Ground
 1 Kiki-Jiki, Mirror Breaker
 1 Razorverge Thicket
+4 Forest
+2 Scavenging Ooze
 1 Misty Rainforest
+1 Swamp
 4 Verdant Catacombs
 1 Postmortem Lunge
 2 Postmortem Lunge
 4 Eldritch Evolution
 2 Stomping Ground
 1 Grove of the Burnwillows
-2 Tireless Tracker
 1 Voice of Resurgence
 2 Voice of Resurgence
 3 Kitchen Finks
@@ -53,14 +52,8 @@
 3 Voice of Resurgence
 3 Restoration Angel
 4 Path to Exile
+2 Tireless Tracker
 1 Island
-1 Tectonic Edge
-1 Knight of the Reliquary
-1 Field of Ruin
-2 Knight of the Reliquary
-2 Field of Ruin
-3 Knight of the Reliquary
-4 Knight of the Reliquary
 1 Steam Vents
 1 Scalding Tarn
 2 Breaching Hippocamp
@@ -73,7 +66,6 @@
 2 Shalai, Voice of Plenty
 3 Commune with Nature
 4 Commune with Nature
-1 Courser of Kruphix
 2 Razorverge Thicket
 1 Linvala, Keeper of Silence
 1 Mountain
@@ -84,6 +76,7 @@
 2 Arid Mesa
 3 Scavenging Ooze
 4 Voice of Resurgence
+1 Courser of Kruphix
 1 Blooming Marsh
 1 Coiling Oracle
 2 Coiling Oracle
@@ -99,7 +92,6 @@
 1 Selfless Spirit
 1 Ezuri, Renegade Leader
 1 Jace, the Mind Sculptor
-2 Courser of Kruphix
 1 Renegade Rallier
 2 Renegade Rallier
 2 Viscera Seer
@@ -144,9 +136,16 @@
 1 Thalia, Guardian of Thraben
 2 Thalia, Guardian of Thraben
 3 Grove of the Burnwillows
-3 Tireless Tracker
 3 Razorverge Thicket
 4 Razorverge Thicket
+1 Tectonic Edge
+1 Knight of the Reliquary
+1 Field of Ruin
+2 Courser of Kruphix
+2 Knight of the Reliquary
+2 Field of Ruin
+3 Knight of the Reliquary
+4 Knight of the Reliquary
 3 Horizon Canopy
 4 Horizon Canopy
 4 Duskwatch Recruiter
@@ -179,10 +178,10 @@
 4 Militia Bugler
 4 Cavern of Souls
 4 Unclaimed Territory
+4 Knight of Autumn
 4 Scryb Ranger
 4 Mirror Entity
 4 Zulaport Cutthroat
-4 Knight of Autumn
 5 Forest
 6 Forest
 8 Forest

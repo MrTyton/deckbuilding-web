@@ -45,8 +45,8 @@
 |*n*<sup>th</sup> copy|Maindeck Card|*n*<sup>th</sup> copy|                                          Sideboard Card                                           |
 |---------------------|-------------|--------------------:|---------------------------------------------------------------------------------------------------|
 |                     |             |                    1|[Display of Dominance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394538)    |
-|                     |             |                    1|[Devour Flesh](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=366379)            |
 |                     |             |                    1|[Teferi, Mage of Zhalfir](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438641) |
-|                     |             |                    1|[Pulse of Murasa](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446177)         |
 |                     |             |                    1|[Tasigur, the Golden Fang](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391937)|
+|                     |             |                    1|[Pulse of Murasa](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446177)         |
+|                     |             |                    1|[Devour Flesh](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=366379)            |
 

@@ -3,11 +3,11 @@
 2 Rootbound Crag
 4 Expansion / Explosion
 1 Forest
+1 Gruul Guildgate
 1 Circuitous Route
 1 Selesnya Guildgate
 1 Plaza of Harmony
 1 Izzet Guildgate
-1 Gruul Guildgate
 1 Simic Guildgate
 1 Azorius Guildgate
 1 Guild Summit
@@ -36,8 +36,8 @@
 2 Archway Angel
 2 Gatebreaker Ram
 2 Gate Colossus
-3 Gate Colossus
 3 Gatebreaker Ram
+3 Gate Colossus
 4 Gatebreaker Ram
 4 Gate Colossus
 2 Gruul Guildgate
@@ -62,8 +62,8 @@
 3 Blink of an Eye
 3 Spell Pierce
 3 Thrashing Brontodon
-3 Frilled Mystic
 3 Growth-Chamber Guardian
+3 Frilled Mystic
 4 Frilled Mystic
 4 Forest
 4 Growth-Chamber Guardian
@@ -90,8 +90,8 @@
 1 Nexus of Fate
 2 Nexus of Fate
 3 Nexus of Fate
-4 Selesnya Guildgate
 4 Azorius Guildgate
+4 Selesnya Guildgate
 4 Nexus of Fate
 2 Shimmer of Possibility
 3 Shimmer of Possibility
@@ -115,6 +115,7 @@
 1 Arch of Orazca
 1 Karn, Scion of Urza
 1 Shivan Fire
+1 Boros Guildgate
 1 Plains
 1 Dire Fleet Daredevil
 1 Clifftop Retreat
@@ -125,7 +126,6 @@
 1 Banefire
 1 Rekindling Phoenix
 1 Seal Away
-1 Boros Guildgate
 1 Suncleanser
 1 Azor's Gateway
 1 Sacred Foundry
@@ -135,11 +135,11 @@
 2 Shivan Fire
 2 Karn, Scion of Urza
 2 Arch of Orazca
+2 Boros Guildgate
 2 Plains
 2 Settle the Wreckage
 2 Clifftop Retreat
 2 Dire Fleet Daredevil
-2 Boros Guildgate
 2 Rekindling Phoenix
 2 Treasure Map
 2 Azor's Gateway

@@ -53,7 +53,7 @@
 |                    1|[Stitcher's Supplier](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447257)|                    4|[Lightning Axe](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409925)       |
 |                    2|[Blackcleave Cliffs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=209401) |                     |                                                                                               |
 |                    2|[Stitcher's Supplier](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447257)|                     |                                                                                               |
-|                    3|[Stitcher's Supplier](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447257)|                     |                                                                                               |
 |                    3|[City of Brass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=4178)        |                     |                                                                                               |
+|                    3|[Stitcher's Supplier](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447257)|                     |                                                                                               |
 |                    4|[Stitcher's Supplier](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447257)|                     |                                                                                               |
 
