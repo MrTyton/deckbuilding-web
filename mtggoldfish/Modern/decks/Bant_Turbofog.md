@@ -39,7 +39,7 @@
 |                    2|[Hallowed Fountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=97071)         |                    3|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)   |
 |                    3|[Nexus of Fate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=450253)            |                    3|[Baneslayer Angel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=191065)|
 |                    3|[Fertile Ground](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45416)            |                    4|[Baneslayer Angel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=191065)|
-|                    3|[Search for Azcanta](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435226)       |                     |                                                                                           |
-|                    4|[Teferi, Hero of Dominaria](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443095)|                     |                                                                                           |
 |                    4|[Nexus of Fate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=450253)            |                     |                                                                                           |
+|                    4|[Teferi, Hero of Dominaria](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443095)|                     |                                                                                           |
+|                    3|[Search for Azcanta](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435226)       |                     |                                                                                           |
 

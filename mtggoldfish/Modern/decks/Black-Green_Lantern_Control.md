@@ -40,7 +40,7 @@
 |                     |                                                                                               |                    2|[Unmoored Ego](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452962)                |
 |                     |                                                                                               |                    1|[Circle of Protection: Red](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=841)      |
 |                     |                                                                                               |                    1|[Padeem, Consul of Innovation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417632)|
+|                     |                                                                                               |                    3|[Unmoored Ego](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452962)                |
 |                     |                                                                                               |                    1|[Phyrexian Revoker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383343)           |
 |                     |                                                                                               |                    1|[Extirpate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370384)                   |
-|                     |                                                                                               |                    3|[Unmoored Ego](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452962)                |
 

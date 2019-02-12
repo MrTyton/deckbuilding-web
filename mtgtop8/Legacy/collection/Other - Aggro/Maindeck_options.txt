@@ -8,8 +8,12 @@
 4 Ponder
 1 Echoing Truth
 4 Island
-1 True-Name Nemesis
 3 Mutavault
+1 True-Name Nemesis
+1 Tundra
+3 Flooded Strand
+4 Flooded Strand
+1 Spell Pierce
 1 Counterspell
 1 Hymn to Tourach
 1 Collective Brutality
@@ -19,18 +23,14 @@
 1 Spellstutter Sprite
 2 Bloodstained Mire
 2 Spellstutter Sprite
-1 Spell Pierce
-1 Tundra
+1 Volcanic Island
 2 Tundra
-3 Flooded Strand
-4 Flooded Strand
 1 Scrubland
 1 Buried Alive
 1 Arclight Phoenix
 1 Cabal Therapy
 1 Monastery Mentor
 1 Dark Ritual
-1 Volcanic Island
 1 Preordain
 1 Lotus Petal
 2 Buried Alive
@@ -47,30 +47,38 @@
 3 Monastery Mentor
 3 Dark Ritual
 3 Lotus Petal
-4 Buried Alive
 4 Cabal Therapy
+4 Buried Alive
 4 Preordain
 4 Arclight Phoenix
 4 Thoughtseize
 4 Monastery Mentor
 4 Dark Ritual
 4 Lotus Petal
-3 Misty Rainforest
-4 Misty Rainforest
+1 Vendilion Clique
 1 Aether Vial
-1 Windswept Heath
-1 Spell Queller
 2 Aether Vial
 3 Aether Vial
 4 Aether Vial
-1 Sanctum Prelate
-1 Palace Jailer
+1 Cavern of Souls
+1 Karakas
+1 Umezawa's Jitte
+2 Cavern of Souls
+3 Cavern of Souls
+4 Cavern of Souls
+3 Misty Rainforest
+4 Misty Rainforest
+1 Meddling Mage
+1 Windswept Heath
+1 Spell Queller
 1 Birds of Paradise
 1 Green Sun's Zenith
 1 Gaddock Teeg
+1 Palace Jailer
 1 Bayou
 1 Qasali Pridemage
 1 Orzhov Pontiff
+1 Sanctum Prelate
 1 Mother of Runes
 1 Tropical Island
 1 Merieke Ri Berit
@@ -83,7 +91,6 @@
 1 Sylvan Library
 1 Quirion Ranger
 1 Shalai, Voice of Plenty
-1 Meddling Mage
 1 Fauna Shaman
 1 Scavenging Ooze
 1 Scryb Ranger
@@ -128,9 +135,6 @@
 1 Spirit of the Labyrinth
 1 Geist of Saint Traft
 1 Swords to Plowshares
-1 Cavern of Souls
-1 Karakas
-1 Umezawa's Jitte
 1 Moorland Haunt
 1 Rattlechains
 1 Phantasmal Image
@@ -140,16 +144,14 @@
 1 Drogskol Captain
 2 Swords to Plowshares
 2 Supreme Phantom
-2 Phantasmal Image
 2 Spirit of the Labyrinth
+2 Phantasmal Image
 2 Rattlechains
-2 Cavern of Souls
 2 Mausoleum Wanderer
 2 Spell Queller
 2 Drogskol Captain
 3 Swords to Plowshares
 3 Spell Queller
-3 Cavern of Souls
 3 Mausoleum Wanderer
 3 Drogskol Captain
 3 Supreme Phantom
@@ -160,24 +162,50 @@
 4 Mausoleum Wanderer
 4 Drogskol Captain
 4 Rattlechains
-4 Cavern of Souls
 4 Supreme Phantom
 4 Spirit of the Labyrinth
+1 Dark Confidant
+1 Grim Lavamancer
+1 Izzet Staticaster
+1 Sower of Temptation
+1 Vedalken Aethermage
+1 Azami, Lady of Scrolls
+1 Master of Waves
+1 Patron Wizard
+1 Cursecatcher
+1 Sage of Epityr
+1 Voidmage Prodigy
+2 Dark Confidant
+2 Umezawa's Jitte
+2 Vedalken Aethermage
+2 Sage of Epityr
+2 Cursecatcher
+2 Patron Wizard
+3 Dark Confidant
+3 Sage of Epityr
+3 Patron Wizard
+3 Cursecatcher
+3 Vedalken Aethermage
+4 Dark Confidant
+4 Vedalken Aethermage
+4 Sage of Epityr
+4 Patron Wizard
+4 Cursecatcher
+4 Mutavault
 1 Spell Snare
 1 Stifle
 1 Flusterstorm
 1 Shadow of Doubt
 1 Cryptic Serpent
 1 Stubborn Denial
-1 Vendilion Clique
 1 Rapid Hybridization
 1 Pteramander
 1 Accumulated Knowledge
 2 Stifle
 2 Spell Pierce
-2 True-Name Nemesis
 2 Cryptic Serpent
 2 Accumulated Knowledge
+2 True-Name Nemesis
 2 Pteramander
 2 Stubborn Denial
 3 Stifle

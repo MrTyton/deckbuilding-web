@@ -1,16 +1,25 @@
+1 Light Up the Stage
 2 Light Up the Stage
 3 Light Up the Stage
 4 Light Up the Stage
 3 Arid Mesa
+1 Stomping Ground
 4 Mountain
-4 Inspiring Vantage
 5 Mountain
-6 Mountain
-7 Mountain
 2 Grim Lavamancer
 1 Shard Volley
-1 Stomping Ground
+6 Mountain
+7 Mountain
 8 Mountain
+9 Mountain
+10 Mountain
+11 Mountain
+12 Mountain
+13 Mountain
+14 Mountain
+15 Mountain
+16 Mountain
+17 Mountain
 1 Arclight Phoenix
 1 Manamorphose
 1 Bedlam Reveler
@@ -27,26 +36,20 @@
 4 Arclight Phoenix
 4 Manamorphose
 4 Faithless Looting
-9 Mountain
-10 Mountain
-11 Mountain
-12 Mountain
-13 Mountain
+2 Shard Volley
+3 Shard Volley
+18 Mountain
 1 Soul-Scar Mage
 2 Soul-Scar Mage
 3 Gut Shot
 3 Soul-Scar Mage
 4 Gut Shot
 4 Soul-Scar Mage
-14 Mountain
-15 Mountain
-16 Mountain
-17 Mountain
+1 Skullcrack
+2 Skullcrack
 1 Scalding Tarn
 2 Scalding Tarn
-18 Mountain
-2 Shard Volley
-3 Shard Volley
+4 Arid Mesa
 1 Bump in the Night
 1 Blackcleave Cliffs
 1 Blood Crypt
@@ -56,24 +59,18 @@
 3 Bump in the Night
 3 Blackcleave Cliffs
 4 Bump in the Night
-4 Blackcleave Cliffs
-3 Scalding Tarn
-4 Scalding Tarn
-1 Ramunap Ruins
-4 Arid Mesa
-1 Skullcrack
-2 Skullcrack
-2 Ramunap Ruins
-3 Skullcrack
-1 Bomat Courier
-2 Bomat Courier
-3 Bomat Courier
-4 Bomat Courier
-1 Plains
 1 Searing Blood
 2 Searing Blood
 3 Searing Blood
+3 Skullcrack
+1 Snow-Covered Mountain
+2 Snow-Covered Mountain
+3 Snow-Covered Mountain
+4 Snow-Covered Mountain
+1 Ramunap Ruins
+1 Plains
 4 Searing Blood
+4 Blackcleave Cliffs
 1 Risk Factor
 1 Fanatical Firebrand
 1 Goblin Grenade
@@ -85,6 +82,7 @@
 1 Burning-Tree Emissary
 1 Reckless Bushwhacker
 2 Fanatical Firebrand
+2 Ramunap Ruins
 2 Legion Loyalist
 2 Mogg Fanatic
 2 Foundry Street Denizen
@@ -109,6 +107,17 @@
 4 Foundry Street Denizen
 4 Goblin Grenade
 4 Burning-Tree Emissary
+1 Magma Jet
+1 Keldon Marauders
+2 Magma Jet
+2 Keldon Marauders
+3 Magma Jet
+3 Keldon Marauders
+4 Shard Volley
+4 Magma Jet
+4 Skullcrack
+3 Scalding Tarn
+4 Scalding Tarn
 1 Maximize Velocity
 1 Fiery Temper
 1 Burning Inquiry
@@ -117,8 +126,8 @@
 1 Hollow One
 2 Maximize Velocity
 2 Fiery Temper
-2 Goblin Lore
 2 Burning Inquiry
+2 Goblin Lore
 2 Hollow One
 2 Flameblade Adept
 3 Bedlam Reveler
@@ -131,10 +140,6 @@
 4 Burning Inquiry
 4 Goblin Lore
 4 Bedlam Reveler
-1 Snow-Covered Mountain
-2 Snow-Covered Mountain
-3 Snow-Covered Mountain
-4 Snow-Covered Mountain
 5 Snow-Covered Mountain
 6 Snow-Covered Mountain
 7 Snow-Covered Mountain

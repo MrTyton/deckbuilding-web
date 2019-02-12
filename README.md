@@ -7,7 +7,7 @@
 |                                 A                                  |                                       B                                        |                                  C                                   |                                   D                                    |                           E                            |
 |--------------------------------------------------------------------|--------------------------------------------------------------------------------|----------------------------------------------------------------------|------------------------------------------------------------------------|--------------------------------------------------------|
 |[Abzan Angels](./mtggoldfish/Standard/decks/Abzan_Angels.md)        |[Esper Control](./mtggoldfish/Standard/decks/Esper_Control.md)                  |[Jund Deathwhirler](./mtggoldfish/Standard/decks/Jund_Deathwhirler.md)|[Orzhov Control](./mtggoldfish/Standard/decks/Orzhov_Control.md)        |[UBG](./mtggoldfish/Standard/decks/UBG.md)              |
-|[Abzan Tokens](./mtggoldfish/Standard/decks/Abzan_Tokens.md)        |[Five-Color Guildgates](./mtggoldfish/Standard/decks/Five-Color_Guildgates.md)  |[Jund Midrange](./mtggoldfish/Standard/decks/Jund_Midrange.md)        |[RG](./mtggoldfish/Standard/decks/RG.md)                                |[UB](./mtggoldfish/Standard/decks/UB.md)                |
+|[Abzan Tokens](./mtggoldfish/Standard/decks/Abzan_Tokens.md)        |[Gates](./mtggoldfish/Standard/decks/Gates.md)                                  |[Jund Midrange](./mtggoldfish/Standard/decks/Jund_Midrange.md)        |[RG](./mtggoldfish/Standard/decks/RG.md)                                |[UB](./mtggoldfish/Standard/decks/UB.md)                |
 |[Azorius Aggro](./mtggoldfish/Standard/decks/Azorius_Aggro.md)      |[Golgari Graveyard](./mtggoldfish/Standard/decks/Golgari_Graveyard.md)          |[Mardu Angels](./mtggoldfish/Standard/decks/Mardu_Angels.md)          |[Rakdos Aggro](./mtggoldfish/Standard/decks/Rakdos_Aggro.md)            |[UG Merfolk](./mtggoldfish/Standard/decks/UG_Merfolk.md)|
 |[Bant Aggro](./mtggoldfish/Standard/decks/Bant_Aggro.md)            |[Golgari Midrange](./mtggoldfish/Standard/decks/Golgari_Midrange.md)            |[Mardu Aristocrats](./mtggoldfish/Standard/decks/Mardu_Aristocrats.md)|[Rakdos Aristocrats](./mtggoldfish/Standard/decks/Rakdos_Aristocrats.md)|[UG](./mtggoldfish/Standard/decks/UG.md)                |
 |[Bant Midrange](./mtggoldfish/Standard/decks/Bant_Midrange.md)      |[Gruul Aggro](./mtggoldfish/Standard/decks/Gruul_Aggro.md)                      |[Mono-Blue Tempo](./mtggoldfish/Standard/decks/Mono-Blue_Tempo.md)    |[Rakdos Midrange](./mtggoldfish/Standard/decks/Rakdos_Midrange.md)      |[URG](./mtggoldfish/Standard/decks/URG.md)              |
@@ -56,4 +56,4 @@
 
 
 
-#### Last Updated at 12:27AM on February 12, 2019
+#### Last Updated at 12:27PM on February 12, 2019
