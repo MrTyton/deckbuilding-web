@@ -80,8 +80,8 @@
 |                     |                                                                                             |                    1|[Glistener Elf](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=233052)        |
 |                     |                                                                                             |                    2|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)  |
 |                     |                                                                                             |                    2|[Glistener Elf](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=233052)        |
-|                     |                                                                                             |                    3|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)  |
 |                     |                                                                                             |                    3|[Glistener Elf](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=233052)        |
+|                     |                                                                                             |                    3|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)  |
 |                     |                                                                                             |                    4|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)  |
 |                     |                                                                                             |                    4|[Glistener Elf](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=233052)        |
 

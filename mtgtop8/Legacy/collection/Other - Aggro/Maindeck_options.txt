@@ -49,72 +49,12 @@
 3 Lotus Petal
 4 Cabal Therapy
 4 Buried Alive
-4 Preordain
 4 Arclight Phoenix
+4 Preordain
 4 Thoughtseize
 4 Monastery Mentor
 4 Dark Ritual
 4 Lotus Petal
-1 Vendilion Clique
-1 Aether Vial
-2 Aether Vial
-3 Aether Vial
-4 Aether Vial
-1 Cavern of Souls
-1 Karakas
-1 Umezawa's Jitte
-2 Cavern of Souls
-3 Cavern of Souls
-4 Cavern of Souls
-3 Misty Rainforest
-4 Misty Rainforest
-1 Meddling Mage
-1 Windswept Heath
-1 Spell Queller
-1 Birds of Paradise
-1 Green Sun's Zenith
-1 Gaddock Teeg
-1 Palace Jailer
-1 Bayou
-1 Qasali Pridemage
-1 Orzhov Pontiff
-1 Sanctum Prelate
-1 Mother of Runes
-1 Tropical Island
-1 Merieke Ri Berit
-1 Leovold, Emissary of Trest
-1 Noble Hierarch
-1 Dryad Arbor
-1 Peacekeeper
-1 Savannah
-1 Atraxa, Praetors' Voice
-1 Sylvan Library
-1 Quirion Ranger
-1 Shalai, Voice of Plenty
-1 Fauna Shaman
-1 Scavenging Ooze
-1 Scryb Ranger
-1 Renegade Rallier
-1 Forest
-1 Assassin's Trophy
-2 Tropical Island
-2 Birds of Paradise
-2 Green Sun's Zenith
-2 Noble Hierarch
-2 Sylvan Library
-2 Savannah
-2 Windswept Heath
-2 Assassin's Trophy
-2 Mother of Runes
-2 Fauna Shaman
-3 Green Sun's Zenith
-3 Fauna Shaman
-3 Mother of Runes
-3 Birds of Paradise
-3 Windswept Heath
-3 Noble Hierarch
-4 Windswept Heath
-4 Fauna Shaman
 1 Unmask
 1 Stitcher's Supplier
 1 Delver of Secrets
@@ -124,28 +64,43 @@
 2 Delver of Secrets
 2 Stitcher's Supplier
 2 Consign / Oblivion
+3 Misty Rainforest
+3 Stitcher's Supplier
 3 Gurmag Angler
 3 Delver of Secrets
-3 Stitcher's Supplier
+4 Misty Rainforest
 4 Gurmag Angler
 4 Underground Sea
 4 Stitcher's Supplier
 4 Yuriko, the Tiger's Shadow
 4 Delver of Secrets
+1 Vendilion Clique
+1 Karakas
+1 Cavern of Souls
+1 Umezawa's Jitte
+1 Aether Vial
+2 Aether Vial
+2 Cavern of Souls
+3 Cavern of Souls
+3 Aether Vial
+4 Aether Vial
+4 Cavern of Souls
 1 Spirit of the Labyrinth
 1 Geist of Saint Traft
 1 Swords to Plowshares
 1 Moorland Haunt
 1 Rattlechains
+1 Windswept Heath
 1 Phantasmal Image
+1 Spell Queller
 1 Mausoleum Wanderer
 1 Supreme Phantom
 1 Plains
 1 Drogskol Captain
 2 Swords to Plowshares
 2 Supreme Phantom
-2 Spirit of the Labyrinth
 2 Phantasmal Image
+2 Spirit of the Labyrinth
 2 Rattlechains
 2 Mausoleum Wanderer
 2 Spell Queller
@@ -168,23 +123,24 @@
 1 Grim Lavamancer
 1 Izzet Staticaster
 1 Sower of Temptation
+1 Voidmage Prodigy
 1 Vedalken Aethermage
 1 Azami, Lady of Scrolls
 1 Master of Waves
 1 Patron Wizard
+1 Meddling Mage
 1 Cursecatcher
 1 Sage of Epityr
-1 Voidmage Prodigy
 2 Dark Confidant
 2 Umezawa's Jitte
 2 Vedalken Aethermage
-2 Sage of Epityr
-2 Cursecatcher
 2 Patron Wizard
+2 Cursecatcher
+2 Sage of Epityr
 3 Dark Confidant
 3 Sage of Epityr
-3 Patron Wizard
 3 Cursecatcher
+3 Patron Wizard
 3 Vedalken Aethermage
 4 Dark Confidant
 4 Vedalken Aethermage
@@ -203,10 +159,10 @@
 1 Accumulated Knowledge
 2 Stifle
 2 Spell Pierce
-2 Cryptic Serpent
 2 Accumulated Knowledge
 2 True-Name Nemesis
 2 Pteramander
+2 Cryptic Serpent
 2 Stubborn Denial
 3 Stifle
 3 Pteramander

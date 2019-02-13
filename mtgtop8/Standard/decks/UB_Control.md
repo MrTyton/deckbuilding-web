@@ -44,8 +44,8 @@
 |                    3|[Fungal Infection](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442982)         |                    3|[Golden Demise](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439730)    |
 |                    4|[Sinister Sabotage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452804)        |                    3|[Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)           |
 |                    9|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)                    |                    3|[Moment of Craving](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439736)|
-|                    1|[Chemister's Insight](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452782)      |                    2|[Cast Down](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442969)        |
-|                    1|[Memorial to Genius](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443131)       |                    4|[Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)            |
+|                    1|[Memorial to Genius](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443131)       |                    2|[Cast Down](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442969)        |
+|                    1|[Chemister's Insight](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452782)      |                    4|[Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)            |
 |                    3|[Cast Down](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442969)                |                     |                                                                                            |
 |                    4|[Disinformation Campaign](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452917)  |                     |                                                                                            |
 
