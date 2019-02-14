@@ -97,8 +97,8 @@
 1 Justice Strike
 2 Resplendent Angel
 2 Justice Strike
-3 Justice Strike
 3 Resplendent Angel
+3 Justice Strike
 4 Justice Strike
 4 Resplendent Angel
 1 Stone Quarry
@@ -109,23 +109,23 @@
 2 Tithe Taker
 2 Divine Visitation
 3 Ajani, Adversary of Tyrants
-1 Leonin Vanguard
 1 Ajani's Pridemate
-2 Ajani's Pridemate
+1 Leonin Vanguard
 2 Leonin Vanguard
-3 Ajani's Pridemate
+2 Ajani's Pridemate
 3 Leonin Vanguard
+3 Ajani's Pridemate
 3 Pride of Conquerors
-4 Ajani's Pridemate
 4 Leonin Vanguard
+4 Ajani's Pridemate
 1 Footlight Fiend
-1 Forest
 1 Hero of Precinct One
-1 March of the Multitudes
 1 Trostani Discordant
 1 Shanna, Sisay's Legacy
+1 March of the Multitudes
 1 Emmara, Soul of the Accord
 1 Flower / Flourish
+1 Forest
 2 Footlight Fiend
 2 Hero of Precinct One
 2 March of the Multitudes
@@ -142,6 +142,20 @@
 4 March of the Multitudes
 4 Hero of Precinct One
 4 Flower / Flourish
+1 Rootbound Crag
+1 Growth-Chamber Guardian
+1 Rhythm of the Wild
+1 Gruul Spellbreaker
+2 Rootbound Crag
+2 Growth-Chamber Guardian
+2 Gruul Spellbreaker
+2 Rhythm of the Wild
+2 Sunpetal Grove
+3 Growth-Chamber Guardian
+3 Sunpetal Grove
+3 Rhythm of the Wild
+4 Growth-Chamber Guardian
+4 Sunpetal Grove
 1 Swiftblade Vindicator
 1 Angelic Exaltation
 2 Angelic Exaltation
@@ -171,20 +185,6 @@
 3 Knight of Grace
 4 Knight of Grace
 4 Tajic, Legion's Edge
-1 Rootbound Crag
-1 Growth-Chamber Guardian
-1 Rhythm of the Wild
-1 Gruul Spellbreaker
-2 Rootbound Crag
-2 Growth-Chamber Guardian
-2 Gruul Spellbreaker
-2 Rhythm of the Wild
-2 Sunpetal Grove
-3 Growth-Chamber Guardian
-3 Sunpetal Grove
-3 Rhythm of the Wild
-4 Growth-Chamber Guardian
-4 Sunpetal Grove
 1 Integrity / Intervention
 1 Goblin Banneret
 1 Viashino Pyromancer
