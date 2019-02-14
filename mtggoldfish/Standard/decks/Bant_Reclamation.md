@@ -39,7 +39,7 @@
 |                    2|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)                   |                    3|[Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)           |
 |                    2|[Search for Azcanta](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435226)       |                     |                                                                                            |
 |                    3|[Absorb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=23155)                    |                     |                                                                                            |
-|                    4|[Absorb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=23155)                    |                     |                                                                                            |
 |                    4|[Hinterland Harbor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443128)        |                     |                                                                                            |
+|                    4|[Absorb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=23155)                    |                     |                                                                                            |
 |                    4|[Teferi, Hero of Dominaria](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443095)|                     |                                                                                            |
 

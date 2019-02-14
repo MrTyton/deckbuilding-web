@@ -41,8 +41,8 @@
 |                     |                                                                                             |                    1|[Spellskite](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397743)              |
 |                     |                                                                                             |                    1|[Assassin's Trophy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452902)       |
 |                     |                                                                                             |                    2|[Assassin's Trophy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452902)       |
-|                     |                                                                                             |                    2|[Collective Brutality](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414380)    |
 |                     |                                                                                             |                    2|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)           |
 |                     |                                                                                             |                    2|[Tezzeret, Agent of Bolas](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=214065)|
+|                     |                                                                                             |                    2|[Collective Brutality](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414380)    |
 |                     |                                                                                             |                    3|[Leyline of Sanctity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=204993)     |
 

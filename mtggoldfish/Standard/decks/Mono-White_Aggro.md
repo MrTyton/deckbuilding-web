@@ -29,8 +29,8 @@
 
 |*n*<sup>th</sup> copy|                                         Maindeck Card                                          |*n*<sup>th</sup> copy|                                      Sideboard Card                                      |
 |--------------------:|------------------------------------------------------------------------------------------------|--------------------:|------------------------------------------------------------------------------------------|
-|                    3|[Hunted Witness](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452765)       |                    3|[Adanto Vanguard](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435152)|
-|                    3|[Tithe Taker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457171)          |                    3|[Demystify](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129524)      |
+|                    3|[Tithe Taker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457171)          |                    3|[Adanto Vanguard](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435152)|
+|                    3|[Hunted Witness](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452765)       |                    3|[Demystify](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129524)      |
 |                    4|[Tithe Taker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457171)          |                     |                                                                                          |
 |                    1|[Healer's Hawk](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452764)        |                     |                                                                                          |
 |                    2|[Healer's Hawk](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452764)        |                     |                                                                                          |

@@ -1,7 +1,7 @@
-# Nexus of Gates
+# Four-Color Gates
 
-#### [Export MTGO List](../collection/Nexus%20of%20Gates/Nexus%20of%20Gates.txt)
-#### [Export Arena List](../collection/Nexus%20of%20Gates/Nexus%20of%20Gates_arena.txt)
+#### [Export MTGO List](../collection/Four-Color%20Gates/Four-Color%20Gates.txt)
+#### [Export Arena List](../collection/Four-Color%20Gates/Four-Color%20Gates_arena.txt)
 #### [Print on decklist.org](http://decklist.org/?deckmain=2%09Archway%20Angel%0A3%09Azorius%20Guildgate%0A1%09Breeding%20Pool%0A4%09Circuitous%20Route%0A3%09Expansion/Explosion%0A1%09Forest%0A1%09Gatebreaker%20Ram%0A4%09Gates%20Ablaze%0A4%09Growth%20Spiral%0A4%09Gruul%20Guildgate%0A4%09Guild%20Summit%0A4%09Hydroid%20Krasis%0A1%09Island%0A4%09Izzet%20Guildgate%0A2%09Lava%20Coil%0A4%09Nexus%20of%20Fate%0A4%09Plaza%20of%20Harmony%0A3%09Selesnya%20Guildgate%0A4%09Simic%20Guildgate%0A3%09Wilderness%20Reclamation&deckside=3%09Archway%20Angel%0A1%09Crushing%20Canopy%0A1%09Gate%20Colossus%0A4%09Gatebreaker%20Ram%0A2%09Lava%20Coil%0A4%09Negate)
 # Maindeck
 
@@ -51,9 +51,9 @@
 |                    1|[Mass Manipulation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457186)     |                    2|[Knight of Autumn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452933)          |
 |                    2|[Mass Manipulation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457186)     |                    1|[Nezahal, Primal Tide](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439702)      |
 |                    2|[Deafening Clarion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452915)     |                    2|[Nezahal, Primal Tide](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439702)      |
-|                    4|[Azorius Guildgate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376256)     |                    1|[Settle the Wreckage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435186)       |
-|                    3|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)                |                    1|[Multani, Yavimaya's Avatar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443062)|
-|                    4|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)                |                    1|[Ixalan's Binding](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435168)          |
+|                    4|[Azorius Guildgate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376256)     |                    1|[Ixalan's Binding](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435168)          |
+|                    3|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)                |                    1|[Settle the Wreckage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435186)       |
+|                    4|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)                |                    1|[Multani, Yavimaya's Avatar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443062)|
 |                    1|[Banefire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=186613)              |                    2|[Deafening Clarion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452915)         |
 |                    2|[Breeding Pool](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=97088)          |                    1|[Sorcerous Spyglass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435407)        |
 |                    4|[Gate Colossus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457376)         |                    2|[Sorcerous Spyglass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435407)        |

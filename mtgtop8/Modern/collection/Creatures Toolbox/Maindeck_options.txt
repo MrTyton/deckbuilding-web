@@ -1,39 +1,20 @@
-1 Viscera Seer
-2 Kitchen Finks
-1 Knight of Autumn
 4 Wooded Foothills
-2 Gavony Township
+1 Knight of Autumn
 1 Stomping Ground
 1 Kiki-Jiki, Mirror Breaker
-1 Razorverge Thicket
-2 Scavenging Ooze
-2 Misty Rainforest
-1 Swamp
-4 Verdant Catacombs
-1 Postmortem Lunge
-2 Postmortem Lunge
-4 Eldritch Evolution
-2 Stomping Ground
 1 Grove of the Burnwillows
-2 Tireless Tracker
-1 Voice of Resurgence
-2 Voice of Resurgence
-3 Kitchen Finks
-4 Kitchen Finks
-1 Sacred Foundry
-1 Restoration Angel
-2 Restoration Angel
-1 Magus of the Moon
-2 Knight of Autumn
-1 Commune with Nature
-2 Commune with Nature
-3 Postmortem Lunge
-2 Grove of the Burnwillows
+1 Kitchen Finks
+2 Scavenging Ooze
+2 Horizon Canopy
+2 Stomping Ground
 3 Misty Rainforest
 4 Misty Rainforest
+2 Grove of the Burnwillows
+2 Tireless Tracker
 1 Breeding Pool
+1 Postmortem Lunge
+2 Postmortem Lunge
 1 Scryb Ranger
-1 Spellskite
 1 Breaching Hippocamp
 1 Zealous Conscripts
 1 Bounding Krasis
@@ -45,16 +26,18 @@
 2 Prime Speaker Vannifar
 3 Prime Speaker Vannifar
 4 Prime Speaker Vannifar
-1 Wall of Roots
 1 Courser of Kruphix
-1 Path to Exile
-2 Path to Exile
-2 Plains
-3 Voice of Resurgence
-3 Path to Exile
-3 Restoration Angel
-4 Path to Exile
+2 Gavony Township
+1 Wall of Roots
+1 Voice of Resurgence
+2 Voice of Resurgence
+1 Sacred Foundry
+1 Restoration Angel
+2 Restoration Angel
+1 Magus of the Moon
+4 Verdant Catacombs
 1 Island
+4 Eldritch Evolution
 1 Knight of the Reliquary
 1 Field of Ruin
 2 Courser of Kruphix
@@ -62,6 +45,7 @@
 2 Field of Ruin
 3 Knight of the Reliquary
 4 Knight of the Reliquary
+2 Knight of Autumn
 1 Steam Vents
 1 Scalding Tarn
 2 Breaching Hippocamp
@@ -69,36 +53,38 @@
 2 Scalding Tarn
 3 Bounding Krasis
 1 Reflector Mage
-1 Dryad Arbor
-4 Postmortem Lunge
+1 Spellskite
+1 Viscera Seer
+2 Kitchen Finks
+3 Kitchen Finks
+4 Kitchen Finks
+1 Commune with Nature
+2 Commune with Nature
 2 Shalai, Voice of Plenty
 3 Commune with Nature
+3 Postmortem Lunge
 4 Commune with Nature
+1 Razorverge Thicket
 2 Razorverge Thicket
-1 Linvala, Keeper of Silence
-1 Mountain
+1 Path to Exile
 1 Wall of Omens
+2 Path to Exile
+2 Plains
 2 Wall of Omens
-1 Arid Mesa
-1 Chandra, Torch of Defiance
-2 Arid Mesa
-3 Scavenging Ooze
-4 Voice of Resurgence
-1 Blooming Marsh
+3 Voice of Resurgence
+3 Path to Exile
+3 Restoration Angel
+4 Path to Exile
 1 Coiling Oracle
 2 Coiling Oracle
-3 Eternal Witness
 3 Knight of Autumn
 1 Scab-Clan Berserker
 1 Pia and Kiran Nalaar
+1 Linvala, Keeper of Silence
+1 Mountain
 1 Lightning Bolt
 2 Lightning Bolt
 1 Tectonic Edge
-1 Anafenza, the Foremost
-1 Remorseful Cleric
-1 Inspiring Vantage
-1 Selfless Spirit
-1 Ezuri, Renegade Leader
 1 Jace, the Mind Sculptor
 1 Renegade Rallier
 2 Renegade Rallier
@@ -117,6 +103,7 @@
 1 Abyssal Persecutor
 1 Massacre Wurm
 1 Liliana, the Last Hope
+1 Blooming Marsh
 1 Creeping Tar Pit
 1 Vraska, Golgari Queen
 1 Kalitas, Traitor of Ghet
@@ -136,19 +123,26 @@
 3 Fatal Push
 3 Coiling Oracle
 3 Abyssal Persecutor
-1 Flame Slash
-2 Chandra, Torch of Defiance
-3 Plains
 1 Hallowed Fountain
 1 Deputy of Detention
 1 Thalia, Guardian of Thraben
 2 Thalia, Guardian of Thraben
 3 Grove of the Burnwillows
+1 Dryad Arbor
 3 Razorverge Thicket
 4 Razorverge Thicket
+4 Postmortem Lunge
 3 Horizon Canopy
 4 Horizon Canopy
 4 Duskwatch Recruiter
+1 Flame Slash
+1 Arid Mesa
+1 Chandra, Torch of Defiance
+2 Chandra, Torch of Defiance
+2 Arid Mesa
+3 Plains
+3 Scavenging Ooze
+4 Voice of Resurgence
 1 Cavern of Souls
 1 Mirror Entity
 1 Unclaimed Territory
@@ -165,6 +159,7 @@
 2 Zulaport Cutthroat
 2 Aether Vial
 3 Phantasmal Image
+3 Eternal Witness
 3 Cavern of Souls
 3 Militia Bugler
 3 Unclaimed Territory

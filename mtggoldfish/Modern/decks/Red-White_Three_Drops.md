@@ -31,6 +31,6 @@
 |                    1|[Bottled Cloister](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=89018)|                    1|[Rule of Law](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=136291)|
 |                    3|[Lightning Helix](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=249386)|                    2|[Rule of Law](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=136291)|
 |                    3|[Legion Warboss](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452859) |                    3|[Rule of Law](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=136291)|
-|                    4|[Lightning Helix](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=249386)|                     |                                                                                      |
 |                    4|[Legion Warboss](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452859) |                     |                                                                                      |
+|                    4|[Lightning Helix](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=249386)|                     |                                                                                      |
 

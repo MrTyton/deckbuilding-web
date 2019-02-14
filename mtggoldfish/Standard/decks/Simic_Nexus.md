@@ -34,9 +34,9 @@
 |                     |                                                                                             |                    1|[Sagittars' Volley](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457282)|
 |                     |                                                                                             |                    1|[Mass Manipulation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457186)|
 |                     |                                                                                             |                    2|[Sagittars' Volley](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457282)|
+|                     |                                                                                             |                    3|[Sagittars' Volley](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457282)|
 |                     |                                                                                             |                    1|[Biogenic Ooze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457266)    |
-|                     |                                                                                             |                    2|[Biogenic Ooze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457266)    |
 |                     |                                                                                             |                    3|[Biogenic Ooze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457266)    |
 |                     |                                                                                             |                    4|[Biogenic Ooze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457266)    |
-|                     |                                                                                             |                    3|[Sagittars' Volley](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457282)|
+|                     |                                                                                             |                    2|[Biogenic Ooze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457266)    |
 

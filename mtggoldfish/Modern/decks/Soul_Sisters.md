@@ -45,6 +45,6 @@
 |                     |                                                                                               |                    1|[Elspeth, Knight-Errant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174859)|
 |                     |                                                                                               |                    1|[Celestial Purge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=183055)       |
 |                     |                                                                                               |                    2|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)        |
-|                     |                                                                                               |                    2|[Ghostly Prison](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420683)        |
 |                     |                                                                                               |                    3|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)         |
+|                     |                                                                                               |                    2|[Ghostly Prison](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420683)        |
 

@@ -1,24 +1,18 @@
-4 Sunpetal Grove
-2 Island
-3 Island
+3 Teferi, Hero of Dominaria
 1 Expansion / Explosion
-1 Gift of Paradise
-2 Gift of Paradise
-3 Gift of Paradise
-4 Gift of Paradise
 1 Hydroid Krasis
 1 Opt
 2 Opt
 3 Opt
 4 Opt
 2 Precognitive Perception
-3 Forest
-4 Island
-2 Expansion / Explosion
+2 Island
+3 Island
 1 Simic Guildgate
 2 Hydroid Krasis
 2 Simic Guildgate
 3 Hydroid Krasis
+2 Expansion / Explosion
 1 Izzet Guildgate
 1 Circuitous Route
 1 Selesnya Guildgate
@@ -28,8 +22,8 @@
 1 Guild Summit
 1 Gates Ablaze
 2 Selesnya Guildgate
-2 Circuitous Route
 2 Gruul Guildgate
+2 Circuitous Route
 2 Plaza of Harmony
 2 Azorius Guildgate
 2 Guild Summit
@@ -38,9 +32,9 @@
 3 Selesnya Guildgate
 3 Simic Guildgate
 3 Gates Ablaze
+3 Azorius Guildgate
 3 Guild Summit
 3 Circuitous Route
-3 Azorius Guildgate
 3 Plaza of Harmony
 3 Gruul Guildgate
 3 Izzet Guildgate
@@ -53,7 +47,12 @@
 4 Guild Summit
 4 Plaza of Harmony
 4 Gruul Guildgate
-4 Glacial Fortress
+1 Gift of Paradise
+2 Gift of Paradise
+3 Gift of Paradise
+4 Gift of Paradise
+3 Forest
+4 Island
 1 Deafening Clarion
 2 Deafening Clarion
 4 Azorius Guildgate
@@ -71,41 +70,27 @@
 4 Forest
 5 Forest
 6 Forest
-1 Settle the Wreckage
+4 Glacial Fortress
 3 Expansion / Explosion
 1 Anticipate
-1 Uncomfortable Chill
-2 Uncomfortable Chill
-5 Island
 1 Lava Coil
 2 Lava Coil
 1 Dawn of Hope
+1 Settle the Wreckage
 2 Settle the Wreckage
 3 Settle the Wreckage
 4 Search for Azcanta
-1 Plains
-1 Karn, Scion of Urza
-1 Chart a Course
-1 Pause for Reflection
-1 Discovery / Dispersal
-1 Cleansing Nova
-2 Karn, Scion of Urza
-2 Chart a Course
-2 Discovery / Dispersal
-2 Pause for Reflection
-3 Chart a Course
-4 Teferi, Hero of Dominaria
-4 Chart a Course
-4 Temple Garden
 1 Sulfur Falls
+1 Uncomfortable Chill
 1 Steam Vents
 1 Stomping Ground
 1 Rootbound Crag
 2 Anticipate
+2 Uncomfortable Chill
 2 Rootbound Crag
+2 Sulfur Falls
 2 Steam Vents
 2 Stomping Ground
-2 Sulfur Falls
 3 Precognitive Perception
 3 Anticipate
 3 Rootbound Crag
@@ -114,3 +99,4 @@
 4 Precognitive Perception
 4 Anticipate
 4 Uncomfortable Chill
+5 Island
