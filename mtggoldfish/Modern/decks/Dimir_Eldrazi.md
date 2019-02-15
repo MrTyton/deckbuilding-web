@@ -29,8 +29,8 @@
 
 |*n*<sup>th</sup> copy|                                      Maindeck Card                                      |*n*<sup>th</sup> copy|                                        Sideboard Card                                         |
 |--------------------:|-----------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------------|
-|                    1|[Wastes](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407694)        |                    1|[Spellskite](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397743)          |
-|                    2|[Wretched Gryff](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414301)|                    1|[Phyrexian Revoker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383343)   |
-|                     |                                                                                         |                    1|[Drowner of Hope](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401863)     |
+|                    1|[Wastes](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407694)        |                    1|[Phyrexian Revoker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383343)   |
+|                    2|[Wretched Gryff](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414301)|                    1|[Drowner of Hope](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401863)     |
+|                     |                                                                                         |                    1|[Spellskite](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397743)          |
 |                     |                                                                                         |                    3|[Distended Mindbender](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414292)|
 

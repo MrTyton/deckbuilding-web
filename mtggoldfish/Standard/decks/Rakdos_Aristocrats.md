@@ -26,3 +26,19 @@
 |                                                                                               |                                                                                              |                                                                                                       |1 [Gruesome Menagerie](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452821)|
 |                                                                                               |                                                                                              |                                                                                                       |3 [Lava Coil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452858)         |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                       Maindeck Card                                        |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
+|--------------------:|--------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
+|                    1|[Cast Down](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442969)        |                    1|[Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)              |
+|                    1|[Drill Bit](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457217)        |                    1|[Ravenous Chupacabra](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442093)|
+|                    1|[Legion Warboss](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452859)   |                    2|[Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)              |
+|                    1|[Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)            |                     |                                                                                              |
+|                    2|[Drill Bit](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457217)        |                     |                                                                                              |
+|                    2|[Legion Warboss](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452859)   |                     |                                                                                              |
+|                    3|[Legion Warboss](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452859)   |                     |                                                                                              |
+|                    4|[Legion Warboss](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452859)   |                     |                                                                                              |
+|                    4|[Rix Maadi Reveler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457253)|                     |                                                                                              |
+|                    6|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)         |                     |                                                                                              |
+

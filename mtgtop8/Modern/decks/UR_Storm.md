@@ -52,8 +52,8 @@
 |                    1|[Perilous Voyage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435219)      |                    1|[Shattering Spree](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456224)    |
 |                    3|[Remand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=380255)               |                    1|[Niv-Mizzet, Parun](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452942)   |
 |                    1|[Pyromancer Ascension](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425933) |                    1|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706) |
-|                    1|[Peek](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=130903)                 |                    1|[Ignite Memories](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=109756)     |
+|                    1|[Peek](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=130903)                 |                    2|[Flame Slash](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416914)         |
 |                    2|[Peek](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=130903)                 |                    1|[Anger of the Gods](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438682)   |
 |                    3|[Peek](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=130903)                 |                    3|[Lightning Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=806)         |
-|                    2|[Empty the Warrens](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426587)    |                    2|[Flame Slash](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416914)         |
+|                    2|[Empty the Warrens](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426587)    |                    1|[Ignite Memories](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=109756)     |
 
