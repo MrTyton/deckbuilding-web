@@ -24,9 +24,9 @@
 1 Olivia Voldaren
 1 Grim Lavamancer
 1 Dragonskull Summit
-1 Rootbound Crag
 1 Duress
 1 Risk Factor
+1 Rootbound Crag
 2 Dragonskull Summit
 2 Rootbound Crag
 2 Risk Factor
@@ -41,6 +41,7 @@
 3 Terminate
 2 Treetop Village
 4 Scavenging Ooze
+4 Assassin's Trophy
 1 Tarfire
 1 Mishra's Bauble
 1 Traverse the Ulvenwald
@@ -54,15 +55,14 @@
 2 Nihil Spellbomb
 2 Grim Flayer
 2 Manamorphose
-3 Spawn of Mayhem
 3 Mishra's Bauble
 3 Traverse the Ulvenwald
 3 Grim Flayer
-4 Spawn of Mayhem
+3 Spawn of Mayhem
 4 Mishra's Bauble
 4 Grim Flayer
 4 Traverse the Ulvenwald
-4 Assassin's Trophy
+4 Spawn of Mayhem
 1 Metallic Mimic
 1 Judith, the Scourge Diva
 1 Rix Maadi Reveler
@@ -91,10 +91,10 @@
 2 Flamekin Harbinger
 2 Collected Company
 2 Rage Forger
-3 Judith, the Scourge Diva
 3 Rix Maadi Reveler
 3 Elvish Visionary
 3 Burning-Tree Emissary
+3 Judith, the Scourge Diva
 3 Flamekin Harbinger
 3 Cavern of Souls
 3 Collected Company

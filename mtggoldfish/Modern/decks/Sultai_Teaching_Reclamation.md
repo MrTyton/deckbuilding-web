@@ -42,11 +42,11 @@
 
 # Other Options
 
-|*n*<sup>th</sup> copy|Maindeck Card|*n*<sup>th</sup> copy|                                          Sideboard Card                                           |
-|---------------------|-------------|--------------------:|---------------------------------------------------------------------------------------------------|
-|                     |             |                    1|[Display of Dominance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394538)    |
-|                     |             |                    1|[Teferi, Mage of Zhalfir](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438641) |
-|                     |             |                    1|[Tasigur, the Golden Fang](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391937)|
-|                     |             |                    1|[Pulse of Murasa](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446177)         |
-|                     |             |                    1|[Devour Flesh](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=366379)            |
+|*n*<sup>th</sup> copy|                                          Maindeck Card                                          |*n*<sup>th</sup> copy|                                          Sideboard Card                                           |
+|--------------------:|-------------------------------------------------------------------------------------------------|--------------------:|---------------------------------------------------------------------------------------------------|
+|                    4|[Mystical Teachings](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425869)    |                    1|[Teferi, Mage of Zhalfir](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438641) |
+|                    4|[Wilderness Reclamation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457293)|                    1|[Display of Dominance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394538)    |
+|                     |                                                                                                 |                    1|[Devour Flesh](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=366379)            |
+|                     |                                                                                                 |                    1|[Tasigur, the Golden Fang](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391937)|
+|                     |                                                                                                 |                    1|[Pulse of Murasa](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446177)         |
 
