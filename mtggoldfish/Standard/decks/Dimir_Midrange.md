@@ -24,3 +24,27 @@
 |                                                                                             |2 [Moment of Craving](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439736)|                                                                                                 |
 |                                                                                             |3 [Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)           |                                                                                                 |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                          Maindeck Card                                           |*n*<sup>th</sup> copy|                                       Sideboard Card                                       |
+|--------------------:|--------------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------|
+|                    1|[Blood Operative](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452813)        |                    1|[Unmoored Ego](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452962)     |
+|                    1|[Discovery/Dispersal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452973)    |                    1|[Entrancing Melody](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435207)|
+|                    1|[The Eldest Reborn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442978)      |                    2|[Entrancing Melody](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435207)|
+|                    1|[Field of Ruin](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435415)          |                    2|[Unmoored Ego](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452962)     |
+|                    1|[Disinformation Campaign](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452917)|                    3|[Moment of Craving](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439736)|
+|                    1|[Nightveil Predator](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452941)     |                    4|[Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)            |
+|                    1|[Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)                 |                     |                                                                                            |
+|                    2|[Discovery/Dispersal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452973)    |                     |                                                                                            |
+|                    2|[The Eldest Reborn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442978)      |                     |                                                                                            |
+|                    2|[Disinformation Campaign](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452917)|                     |                                                                                            |
+|                    2|[Field of Ruin](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435415)          |                     |                                                                                            |
+|                    3|[Cast Down](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442969)              |                     |                                                                                            |
+|                    3|[Discovery/Dispersal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452973)    |                     |                                                                                            |
+|                    3|[The Eldest Reborn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442978)      |                     |                                                                                            |
+|                    3|[Disinformation Campaign](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452917)|                     |                                                                                            |
+|                    4|[Discovery/Dispersal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452973)    |                     |                                                                                            |
+|                    7|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)                  |                     |                                                                                            |
+|                    8|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)                  |                     |                                                                                            |
+

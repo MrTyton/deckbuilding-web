@@ -3,8 +3,8 @@
 1 Marsh Flats
 1 Daze
 2 Daze
-3 Daze
 3 Ponder
+3 Daze
 4 Ponder
 1 Echoing Truth
 4 Island
@@ -40,16 +40,16 @@
 2 Cabal Therapy
 2 Dark Ritual
 2 Lotus Petal
-3 Arclight Phoenix
 3 Buried Alive
+3 Arclight Phoenix
 3 Preordain
 3 Cabal Therapy
 3 Monastery Mentor
 3 Dark Ritual
 3 Lotus Petal
 4 Cabal Therapy
-4 Arclight Phoenix
 4 Buried Alive
+4 Arclight Phoenix
 4 Preordain
 4 Thoughtseize
 4 Monastery Mentor
@@ -85,11 +85,11 @@
 3 Aether Vial
 4 Aether Vial
 4 Cavern of Souls
-1 Geist of Saint Traft
-1 Swords to Plowshares
-1 Plains
 1 Windswept Heath
+1 Geist of Saint Traft
+1 Plains
 1 Spirit of the Labyrinth
+1 Swords to Plowshares
 1 Moorland Haunt
 1 Rattlechains
 1 Phantasmal Image
@@ -105,17 +105,17 @@
 2 Mausoleum Wanderer
 2 Spell Queller
 2 Drogskol Captain
-3 Swords to Plowshares
 3 Spell Queller
 3 Mausoleum Wanderer
 3 Drogskol Captain
 3 Supreme Phantom
 3 Spirit of the Labyrinth
 3 Rattlechains
-4 Swords to Plowshares
+3 Swords to Plowshares
 4 Spell Queller
 4 Mausoleum Wanderer
 4 Drogskol Captain
+4 Swords to Plowshares
 4 Rattlechains
 4 Supreme Phantom
 4 Spirit of the Labyrinth
@@ -139,8 +139,8 @@
 3 Stifle
 3 Pteramander
 4 Accumulated Knowledge
-4 Daze
 4 Stifle
+4 Daze
 4 Pteramander
 4 Wasteland
 5 Island
@@ -149,13 +149,13 @@
 1 Dark Confidant
 1 Grim Lavamancer
 1 Izzet Staticaster
+1 Meddling Mage
 1 Sower of Temptation
 1 Voidmage Prodigy
 1 Vedalken Aethermage
 1 Azami, Lady of Scrolls
 1 Master of Waves
 1 Patron Wizard
-1 Meddling Mage
 1 Cursecatcher
 1 Sage of Epityr
 2 Dark Confidant

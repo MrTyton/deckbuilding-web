@@ -25,3 +25,17 @@
 |3 [Deathgorge Scavenger](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435339)|3 [Crushing Canopy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452876)|3 [Vivien Reid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447344)|4 [Prey Upon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423787)|
 |2 [End-Raze Forerunners](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457268)|                                                                                            |                                                                                        |                                                                                      |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                          Maindeck Card                                           |*n*<sup>th</sup> copy|                                       Sideboard Card                                        |
+|--------------------:|--------------------------------------------------------------------------------------------------|--------------------:|---------------------------------------------------------------------------------------------|
+|                    1|[Growth-Chamber Guardian](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457272)|                    1|[Sagittars' Volley](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457282) |
+|                    2|[Growth-Chamber Guardian](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457272)|                    1|[Shapers' Sanctuary](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435362)|
+|                    3|[Growth-Chamber Guardian](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457272)|                    1|[Carnage Tyrant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435334)    |
+|                    4|[Growth-Chamber Guardian](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457272)|                    2|[Carnage Tyrant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435334)    |
+|                     |                                                                                                  |                    2|[Sagittars' Volley](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457282) |
+|                     |                                                                                                  |                    2|[Shapers' Sanctuary](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435362)|
+|                     |                                                                                                  |                    3|[Shapers' Sanctuary](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435362)|
+|                     |                                                                                                  |                    4|[Shapers' Sanctuary](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435362)|
+
