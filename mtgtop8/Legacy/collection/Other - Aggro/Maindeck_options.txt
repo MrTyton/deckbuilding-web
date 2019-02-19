@@ -25,11 +25,11 @@
 2 Spellstutter Sprite
 1 Volcanic Island
 2 Tundra
-1 Scrubland
 1 Buried Alive
 1 Arclight Phoenix
 1 Cabal Therapy
 1 Monastery Mentor
+1 Scrubland
 1 Dark Ritual
 1 Preordain
 1 Lotus Petal
@@ -40,18 +40,18 @@
 2 Cabal Therapy
 2 Dark Ritual
 2 Lotus Petal
+3 Monastery Mentor
 3 Buried Alive
 3 Arclight Phoenix
 3 Preordain
 3 Cabal Therapy
-3 Monastery Mentor
 3 Dark Ritual
 3 Lotus Petal
 4 Cabal Therapy
 4 Buried Alive
+4 Thoughtseize
 4 Arclight Phoenix
 4 Preordain
-4 Thoughtseize
 4 Monastery Mentor
 4 Dark Ritual
 4 Lotus Petal
@@ -75,8 +75,8 @@
 4 Yuriko, the Tiger's Shadow
 4 Delver of Secrets
 1 Vendilion Clique
-1 Umezawa's Jitte
 1 Karakas
+1 Umezawa's Jitte
 1 Aether Vial
 1 Cavern of Souls
 2 Aether Vial
@@ -85,16 +85,16 @@
 3 Aether Vial
 4 Aether Vial
 4 Cavern of Souls
-1 Windswept Heath
-1 Geist of Saint Traft
-1 Plains
-1 Spirit of the Labyrinth
 1 Swords to Plowshares
+1 Plains
+1 Windswept Heath
+1 Spirit of the Labyrinth
 1 Moorland Haunt
 1 Rattlechains
 1 Phantasmal Image
 1 Spell Queller
 1 Mausoleum Wanderer
+1 Geist of Saint Traft
 1 Supreme Phantom
 1 Drogskol Captain
 2 Swords to Plowshares
@@ -105,61 +105,34 @@
 2 Mausoleum Wanderer
 2 Spell Queller
 2 Drogskol Captain
+3 Swords to Plowshares
 3 Spell Queller
 3 Mausoleum Wanderer
 3 Drogskol Captain
 3 Supreme Phantom
 3 Spirit of the Labyrinth
 3 Rattlechains
-3 Swords to Plowshares
+4 Swords to Plowshares
 4 Spell Queller
 4 Mausoleum Wanderer
 4 Drogskol Captain
-4 Swords to Plowshares
 4 Rattlechains
 4 Supreme Phantom
 4 Spirit of the Labyrinth
-1 Spell Snare
-1 Stifle
-1 Flusterstorm
-1 Shadow of Doubt
-1 Cryptic Serpent
-1 Stubborn Denial
-1 Rapid Hybridization
-1 Pteramander
-1 Accumulated Knowledge
-2 Stifle
-2 True-Name Nemesis
-2 Spell Pierce
-2 Accumulated Knowledge
-2 Pteramander
-2 Cryptic Serpent
-2 Stubborn Denial
-3 Accumulated Knowledge
-3 Stifle
-3 Pteramander
-4 Accumulated Knowledge
-4 Stifle
-4 Daze
-4 Pteramander
-4 Wasteland
-5 Island
-6 Island
-7 Island
 1 Dark Confidant
-1 Grim Lavamancer
+1 Master of Waves
 1 Izzet Staticaster
-1 Meddling Mage
+1 Grim Lavamancer
 1 Sower of Temptation
 1 Voidmage Prodigy
 1 Vedalken Aethermage
 1 Azami, Lady of Scrolls
-1 Master of Waves
 1 Patron Wizard
+1 Meddling Mage
 1 Cursecatcher
 1 Sage of Epityr
-2 Dark Confidant
 2 Umezawa's Jitte
+2 Dark Confidant
 2 Vedalken Aethermage
 2 Patron Wizard
 2 Cursecatcher
@@ -169,9 +142,36 @@
 3 Cursecatcher
 3 Patron Wizard
 3 Vedalken Aethermage
+4 Cursecatcher
 4 Dark Confidant
 4 Vedalken Aethermage
 4 Sage of Epityr
 4 Patron Wizard
-4 Cursecatcher
 4 Mutavault
+1 Accumulated Knowledge
+1 Spell Snare
+1 Stifle
+1 Flusterstorm
+1 Shadow of Doubt
+1 Cryptic Serpent
+1 Stubborn Denial
+1 Rapid Hybridization
+1 Pteramander
+2 Accumulated Knowledge
+2 Stifle
+2 Spell Pierce
+2 True-Name Nemesis
+2 Pteramander
+2 Cryptic Serpent
+2 Stubborn Denial
+3 Accumulated Knowledge
+3 Stifle
+3 Pteramander
+4 Accumulated Knowledge
+4 Wasteland
+4 Stifle
+4 Daze
+4 Pteramander
+5 Island
+6 Island
+7 Island

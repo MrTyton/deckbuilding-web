@@ -34,11 +34,11 @@
 
 # Legacy
 
-|                      A                       |                            B                             |                         C                          |                   D                    |                     E                      |
-|----------------------------------------------|----------------------------------------------------------|----------------------------------------------------|----------------------------------------|--------------------------------------------|
-|[Affinity](./mtgtop8/Legacy/decks/Affinity.md)|[Burn](./mtgtop8/Legacy/decks/Burn.md)                    |[Dredge](./mtgtop8/Legacy/decks/Dredge.md)          |[Lands](./mtgtop8/Legacy/decks/Lands.md)|[Slivers](./mtgtop8/Legacy/decks/Slivers.md)|
-|[Belcher](./mtgtop8/Legacy/decks/Belcher.md)  |[Cloudpost Ramp](./mtgtop8/Legacy/decks/Cloudpost_Ramp.md)|[Enchantress](./mtgtop8/Legacy/decks/Enchantress.md)|[MUD](./mtgtop8/Legacy/decks/MUD.md)    |                                            |
+|                      A                       |                            B                             |                    C                     |                     D                      |
+|----------------------------------------------|----------------------------------------------------------|------------------------------------------|--------------------------------------------|
+|[Affinity](./mtgtop8/Legacy/decks/Affinity.md)|[Burn](./mtgtop8/Legacy/decks/Burn.md)                    |[Dredge](./mtgtop8/Legacy/decks/Dredge.md)|[MUD](./mtgtop8/Legacy/decks/MUD.md)        |
+|[Belcher](./mtgtop8/Legacy/decks/Belcher.md)  |[Cloudpost Ramp](./mtgtop8/Legacy/decks/Cloudpost_Ramp.md)|[Lands](./mtgtop8/Legacy/decks/Lands.md)  |[Slivers](./mtgtop8/Legacy/decks/Slivers.md)|
 
 
 
-#### Last Updated at 12:26AM on February 19, 2019
+#### Last Updated at 12:25PM on February 19, 2019
