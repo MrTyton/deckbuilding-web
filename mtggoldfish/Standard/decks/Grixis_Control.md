@@ -30,9 +30,9 @@
 
 |*n*<sup>th</sup> copy|                                            Maindeck Card                                            |*n*<sup>th</sup> copy|                                     Sideboard Card                                     |
 |--------------------:|-----------------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------|
-|                    1|[Bedevil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457301)                   |                    3|[Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)       |
-|                    1|[Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)                    |                    2|[Hostage Taker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435379)|
-|                    1|[Angrath, the Flame-Chained](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439809)|                     |                                                                                        |
+|                    1|[Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)                    |                    3|[Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)       |
+|                    1|[Angrath, the Flame-Chained](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439809)|                    2|[Hostage Taker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435379)|
+|                    1|[Bedevil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457301)                   |                     |                                                                                        |
 |                    1|[Chemister's Insight](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452782)       |                     |                                                                                        |
 |                    2|[Angrath, the Flame-Chained](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439809)|                     |                                                                                        |
 
