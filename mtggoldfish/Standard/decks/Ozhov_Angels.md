@@ -24,3 +24,16 @@
 |                                                                                             |2 [Diamond Mare](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447368)  |1 [Ethereal Absolution](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457314)|1 [Moment of Craving](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439736) |                                                                                  |
 |                                                                                             |1 [Shield Mare](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447173)   |1 [Ixalan's Binding](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435168)   |                                                                                               |                                                                                  |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                       Maindeck Card                                       |*n*<sup>th</sup> copy|                                        Sideboard Card                                         |
+|--------------------:|-------------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------------|
+|                    1|[Tithe Taker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457171)     |                    1|[Kaya, Orzhov Usurper](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457330)|
+|                    1|[The Immortal Sun](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439844)|                    1|[Adanto Vanguard](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435152)     |
+|                    3|[Tithe Taker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457171)     |                    2|[Adanto Vanguard](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435152)     |
+|                    4|[Tithe Taker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457171)     |                    2|[Moment of Craving](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439736)   |
+|                    2|[Tithe Taker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457171)     |                    3|[Moment of Craving](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439736)   |
+|                     |                                                                                           |                    3|[Adanto Vanguard](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435152)     |
+|                     |                                                                                           |                    4|[Adanto Vanguard](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435152)     |
+

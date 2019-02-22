@@ -24,3 +24,15 @@
 |1 [Grim Lavamancer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430589)  |4 [Cindervines](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457305)|1 [Dismember](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382182)|2 [Chandra, Torch of Defiance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417683)|2 [Crumble to Dust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401850)|
 |2 [Magus of the Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=136152)|                                                                                        |                                                                                      |                                                                                                       |3 [Flame Slash](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416914)    |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                        Maindeck Card                                         |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
+|--------------------:|----------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
+|                    1|[Flame Slash](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416914)        |                    1|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|
+|                    1|[Gruul Charm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=366360)        |                    1|[Shatterstorm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=130370)       |
+|                    1|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|                    1|[Molten Rain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425928)        |
+|                    3|[Tarmogoyf](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=136142)          |                    2|[Molten Rain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425928)        |
+|                    3|[Goblin Cratermaker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452853) |                    3|[Molten Rain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425928)        |
+|                    4|[Goblin Cratermaker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452853) |                    1|[Blood Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45386)          |
+

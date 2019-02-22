@@ -29,14 +29,19 @@
 
 # Other Options
 
-|*n*<sup>th</sup> copy|                                       Maindeck Card                                        |*n*<sup>th</sup> copy|                                       Sideboard Card                                       |
-|--------------------:|--------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------|
-|                    1|[Verdant Catacombs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405113)|                    1|[Hooting Mandrills](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386558)|
-|                    2|[Dismember](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382182)        |                    1|[Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)            |
-|                    2|[Verdant Catacombs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405113)|                    1|[Assassin's Trophy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452902)|
-|                    3|[Verdant Catacombs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405113)|                    2|[Hooting Mandrills](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386558)|
-|                    4|[Verdant Catacombs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405113)|                    2|[Fatal Push](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423724)       |
-|                    4|[Tarmogoyf](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=136142)        |                    2|[Faith's Shield](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=262696)   |
-|                     |                                                                                            |                    2|[Assassin's Trophy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452902)|
-|                     |                                                                                            |                    3|[Hooting Mandrills](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386558)|
+|*n*<sup>th</sup> copy|                                        Maindeck Card                                        |*n*<sup>th</sup> copy|                                       Sideboard Card                                        |
+|--------------------:|---------------------------------------------------------------------------------------------|--------------------:|---------------------------------------------------------------------------------------------|
+|                    1|[Verdant Catacombs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405113) |                    1|[Hooting Mandrills](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386558) |
+|                    2|[Dismember](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382182)         |                    1|[Assassin's Trophy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452902) |
+|                    2|[Verdant Catacombs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405113) |                    2|[Hooting Mandrills](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386558) |
+|                    3|[Verdant Catacombs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405113) |                    2|[Fatal Push](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423724)        |
+|                    4|[Verdant Catacombs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405113) |                    3|[Hooting Mandrills](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386558) |
+|                    4|[Tarmogoyf](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=136142)         |                    1|[Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)             |
+|                    1|[Soul-Scar Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426850)    |                    2|[Faith's Shield](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=262696)    |
+|                    1|[Blossoming Defense](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417719)|                    2|[Assassin's Trophy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452902) |
+|                    2|[Blood Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=97102)        |                    1|[Blossoming Defense](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417719)|
+|                    2|[Overgrown Tomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405103)    |                    1|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)            |
+|                    2|[Soul-Scar Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426850)    |                     |                                                                                             |
+|                    3|[Soul-Scar Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426850)    |                     |                                                                                             |
+|                    4|[Soul-Scar Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426850)    |                     |                                                                                             |
 
