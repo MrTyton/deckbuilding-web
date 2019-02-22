@@ -25,3 +25,15 @@
 |2 [Knight of Autumn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452933)|                                                                                              |                                                                                                 |4 [Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)               |
 |                                                                                             |                                                                                              |                                                                                                 |2 [Kaya's Wrath](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457331)        |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                       Maindeck Card                                        |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
+|--------------------:|--------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
+|                    1|[The Immortal Sun](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439844) |                    1|[Fungal Infection](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442982)   |
+|                    1|[Arch of Orazca](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439849)   |                    1|[Kitesail Freebooter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435264)|
+|                    2|[Assassin's Trophy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452902)|                    1|[Ritual of Soot](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452834)     |
+|                     |                                                                                            |                    2|[Fungal Infection](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442982)   |
+|                     |                                                                                            |                    2|[Kitesail Freebooter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435264)|
+|                     |                                                                                            |                    2|[Ritual of Soot](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452834)     |
+
