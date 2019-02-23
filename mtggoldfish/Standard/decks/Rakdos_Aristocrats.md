@@ -38,7 +38,7 @@
 |                    2|[Drill Bit](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457217)        |                     |                                                                                              |
 |                    2|[Legion Warboss](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452859)   |                     |                                                                                              |
 |                    3|[Legion Warboss](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452859)   |                     |                                                                                              |
-|                    4|[Rix Maadi Reveler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457253)|                     |                                                                                              |
 |                    4|[Legion Warboss](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452859)   |                     |                                                                                              |
 |                    6|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)         |                     |                                                                                              |
+|                    4|[Rix Maadi Reveler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457253)|                     |                                                                                              |
 

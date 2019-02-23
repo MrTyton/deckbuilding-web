@@ -34,9 +34,9 @@
 
 |*n*<sup>th</sup> copy|                                    Maindeck Card                                    |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
 |--------------------:|-------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
-|                    1|[Snapback](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=108897)  |                    1|[Rending Volley](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394663)     |
-|                    1|[Commandeer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121243)|                    4|[Chalice of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442211)|
-|                    1|[Opt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442948)       |                     |                                                                                              |
+|                    1|[Opt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442948)       |                    1|[Rending Volley](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394663)     |
+|                    1|[Snapback](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=108897)  |                    4|[Chalice of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442211)|
+|                    1|[Commandeer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121243)|                     |                                                                                              |
 |                    4|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)    |                     |                                                                                              |
 |                    5|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)    |                     |                                                                                              |
 

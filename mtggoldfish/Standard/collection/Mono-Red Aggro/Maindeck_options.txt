@@ -1,4 +1,4 @@
-2 Fanatical Firebrand
+3 Experimental Frenzy
 3 Fanatical Firebrand
 4 Fanatical Firebrand
 1 Risk Factor
@@ -6,7 +6,6 @@
 3 Risk Factor
 21 Mountain
 4 Experimental Frenzy
-22 Mountain
 4 Risk Factor
 1 Blood Crypt
 1 Dragonskull Summit
@@ -16,6 +15,7 @@
 3 Blood Crypt
 4 Dragonskull Summit
 4 Blood Crypt
+22 Mountain
 1 Lava Coil
 1 Rix Maadi Reveler
 2 Rix Maadi Reveler
@@ -30,18 +30,18 @@
 3 Rootbound Crag
 4 Stomping Ground
 4 Rootbound Crag
-1 Electrostatic Field
-2 Electrostatic Field
-3 Electrostatic Field
-4 Electrostatic Field
-2 Rekindling Phoenix
 1 The Flame of Keld
+2 Rekindling Phoenix
 2 The Flame of Keld
 3 The Flame of Keld
 1 Legion Warboss
 2 Legion Warboss
 3 Legion Warboss
 4 Legion Warboss
+1 Electrostatic Field
+2 Electrostatic Field
+3 Electrostatic Field
+4 Electrostatic Field
 1 Spear Spewer
 2 Spear Spewer
 3 Spear Spewer
