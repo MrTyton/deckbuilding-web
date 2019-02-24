@@ -2,7 +2,7 @@
 
 #### [Export MTGO List](../collection/Merfolk/Merfolk.txt)
 #### [Export Arena List](../collection/Merfolk/Merfolk_arena.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Benthic%20Biomancer%0A4%09Breeding%20Pool%0A4%09Deeproot%20Elite%0A4%09Deeproot%20Waters%0A5%09Forest%0A4%09Hinterland%20Harbor%0A4%09Incubation%20/%20Incongruity%0A5%09Island%0A4%09Kumena's%20Speaker%0A4%09Kumena,%20Tyrant%20of%20Orazca%0A4%09Merfolk%20Mistbinder%0A4%09Merfolk%20Trickster%0A4%09Silvergill%20Adept%0A2%09Spell%20Pierce%0A4%09Unclaimed%20Territory&deckside=2%09Crushing%20Canopy%0A2%09Dive%20Down%0A4%09Negate%0A2%09Shapers'%20Sanctuary%0A2%09Tempest%20Caller%0A3%09Vineshaper%20Mystic)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Benthic%20Biomancer%0A4%09Breeding%20Pool%0A4%09Deeproot%20Elite%0A4%09Deeproot%20Waters%0A5%09Forest%0A4%09Hinterland%20Harbor%0A4%09Incubation%20/%20Incongruity%0A5%09Island%0A4%09Kumena's%20Speaker%0A4%09Kumena,%20Tyrant%20of%20Orazca%0A4%09Merfolk%20Mistbinder%0A4%09Merfolk%20Trickster%0A4%09Silvergill%20Adept%0A2%09Spell%20Pierce%0A4%09Unclaimed%20Territory&deckside=1%09Crushing%20Canopy%0A2%09Disdainful%20Stroke%0A4%09Kraul%20Harpooner%0A1%09Merfolk%20Trickster%0A4%09Negate%0A1%09Spell%20Pierce%0A2%09Tempest%20Caller)
 # Maindeck
 
 |                                            Creature (28)                                            |                                      Enchantment (4)                                       |                                       Instant (2)                                       |                                           Land (22)                                            |       Unknown (4)        |
@@ -18,9 +18,24 @@
 
 # Sideboard
 
-|                                         Creature (5)                                         |                                        Enchantment (2)                                        |                                        Instant (8)                                         |
-|----------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
-|2 [Tempest Caller](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435239)   |2 [Shapers' Sanctuary](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435362)|2 [Crushing Canopy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452876)|
-|3 [Vineshaper Mystic](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435370)|                                                                                               |2 [Dive Down](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435205)      |
-|                                                                                              |                                                                                               |4 [Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)         |
+|                                         Creature (7)                                         |                                         Instant (8)                                          |
+|----------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
+|4 [Kraul Harpooner](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452886)  |1 [Crushing Canopy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452876)  |
+|1 [Merfolk Trickster](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442944)|2 [Disdainful Stroke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420705)|
+|2 [Tempest Caller](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435239)   |4 [Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)           |
+|                                                                                              |1 [Spell Pierce](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425876)     |
+
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                    Maindeck Card                                     |*n*<sup>th</sup> copy|                                       Sideboard Card                                        |
+|--------------------:|--------------------------------------------------------------------------------------|--------------------:|---------------------------------------------------------------------------------------------|
+|                    1|[Jade Bearer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439791)|                    1|[Dive Down](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435205)         |
+|                    2|[Jade Bearer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439791)|                    1|[Shapers' Sanctuary](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435362)|
+|                    3|[Jade Bearer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439791)|                    1|[Vineshaper Mystic](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435370) |
+|                    4|[Jade Bearer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439791)|                    2|[Dive Down](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435205)         |
+|                     |                                                                                      |                    2|[Crushing Canopy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452876)   |
+|                     |                                                                                      |                    2|[Shapers' Sanctuary](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435362)|
+|                     |                                                                                      |                    2|[Vineshaper Mystic](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435370) |
+|                     |                                                                                      |                    3|[Vineshaper Mystic](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435370) |
 
