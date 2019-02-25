@@ -1,4 +1,4 @@
-13 Plains
+4 Hunted Witness
 1 Aurelia, Exemplar of Justice
 2 Aurelia, Exemplar of Justice
 2 Mountain
@@ -10,27 +10,27 @@
 3 Snubhorn Sentry
 1 Healer's Hawk
 2 Healer's Hawk
-4 Venerated Loxodon
-1 Pride of Conquerors
-4 Snubhorn Sentry
 1 Lava Coil
+4 Venerated Loxodon
 1 Tajic, Legion's Edge
 2 Tajic, Legion's Edge
-1 Ajani, Adversary of Tyrants
-2 Ajani, Adversary of Tyrants
+4 Snubhorn Sentry
 3 Healer's Hawk
 1 Boros Challenger
 2 Boros Challenger
 3 Boros Challenger
+1 Pride of Conquerors
 2 Pride of Conquerors
 1 Boros Guildgate
 4 Boros Challenger
+1 Ajani, Adversary of Tyrants
+2 Ajani, Adversary of Tyrants
 1 Tithe Taker
 2 Tithe Taker
 1 Tocatli Honor Guard
 4 Healer's Hawk
-3 Tajic, Legion's Edge
 2 Lava Coil
+3 Tajic, Legion's Edge
 3 Lava Coil
 3 Aurelia, Exemplar of Justice
 2 Tocatli Honor Guard
@@ -72,8 +72,8 @@
 12 Mountain
 13 Mountain
 2 Shock
-1 Lyra Dawnbringer
 1 Ixalan's Binding
+1 Lyra Dawnbringer
 2 Lyra Dawnbringer
 3 Rekindling Phoenix
 3 Lyra Dawnbringer
@@ -81,12 +81,22 @@
 1 Sunpetal Grove
 1 Temple Garden
 1 Stomping Ground
-2 Stomping Ground
 2 Temple Garden
+2 Stomping Ground
 3 Stomping Ground
 3 Temple Garden
 4 Stomping Ground
 4 Temple Garden
+1 Isolated Chapel
+1 Godless Shrine
+1 Judith, the Scourge Diva
+2 Isolated Chapel
+2 Godless Shrine
+2 Judith, the Scourge Diva
+3 Godless Shrine
+3 Isolated Chapel
+3 Judith, the Scourge Diva
+4 Godless Shrine
 1 Detection Tower
 1 Resplendent Angel
 1 Justice Strike
@@ -98,7 +108,6 @@
 3 Resplendent Angel
 4 Justice Strike
 4 Resplendent Angel
-1 Stone Quarry
 1 Rustwing Falcon
 1 Kinjalli's Sunwing
 1 Sunhome Stalwart
@@ -118,22 +127,42 @@
 2 Divine Visitation
 3 Legion Warboss
 4 Legion Warboss
-1 Growth-Chamber Guardian
+1 Charge
+1 Knight of Grace
+1 Baffling End
+2 Baffling End
+2 Charge
+2 Knight of Grace
+3 Knight of Grace
+4 Tajic, Legion's Edge
+4 Knight of Grace
+1 Integrity / Intervention
+1 Goblin Banneret
+1 Viashino Pyromancer
+2 Goblin Banneret
+2 Viashino Pyromancer
+2 Integrity / Intervention
+3 Viashino Pyromancer
+3 Goblin Banneret
+3 Integrity / Intervention
+4 Viashino Pyromancer
+4 Goblin Banneret
 1 Rhythm of the Wild
 1 Rootbound Crag
+1 Growth-Chamber Guardian
 1 Gruul Spellbreaker
-2 Growth-Chamber Guardian
 2 Rhythm of the Wild
 2 Gruul Spellbreaker
 2 Rootbound Crag
 2 Sunpetal Grove
-3 Growth-Chamber Guardian
+2 Growth-Chamber Guardian
 3 Rhythm of the Wild
 3 Sunpetal Grove
-4 Growth-Chamber Guardian
+3 Growth-Chamber Guardian
 4 Sunpetal Grove
-1 March of the Multitudes
+4 Growth-Chamber Guardian
 1 Emmara, Soul of the Accord
+1 March of the Multitudes
 1 Shanna, Sisay's Legacy
 1 Footlight Fiend
 1 Trostani Discordant
@@ -156,40 +185,10 @@
 4 Flower / Flourish
 4 March of the Multitudes
 4 Footlight Fiend
-1 Charge
-1 Knight of Grace
-1 Baffling End
-2 Baffling End
-2 Charge
-2 Knight of Grace
-3 Knight of Grace
-4 Tajic, Legion's Edge
-4 Knight of Grace
-1 Integrity / Intervention
-1 Goblin Banneret
-1 Viashino Pyromancer
-2 Goblin Banneret
-2 Viashino Pyromancer
-2 Integrity / Intervention
-3 Viashino Pyromancer
-3 Goblin Banneret
-3 Integrity / Intervention
-4 Viashino Pyromancer
-4 Goblin Banneret
-1 Isolated Chapel
-1 Judith, the Scourge Diva
-1 Godless Shrine
 1 Light Up the Stage
-2 Isolated Chapel
-2 Godless Shrine
-2 Judith, the Scourge Diva
 2 Light Up the Stage
-3 Isolated Chapel
-3 Godless Shrine
-3 Judith, the Scourge Diva
 4 Judith, the Scourge Diva
 4 Isolated Chapel
-4 Godless Shrine
 1 Angelic Exaltation
 1 Swiftblade Vindicator
 2 Swiftblade Vindicator
@@ -200,13 +199,53 @@
 4 Goblin Instigator
 4 Angelic Exaltation
 4 Swiftblade Vindicator
+1 Siege-Gang Commander
+1 Carnival / Carnage
+1 Kitesail Freebooter
+1 Angrath, the Flame-Chained
+1 Spawn of Mayhem
+1 Blood Crypt
+1 Dragonskull Summit
+1 Bedevil
+1 Theater of Horrors
+1 Swamp
+1 Basilica Bell-Haunt
+1 Mortify
+1 Rix Maadi Reveler
+2 Siege-Gang Commander
+2 Bedevil
+2 Kitesail Freebooter
+2 Carnival / Carnage
+2 Angrath, the Flame-Chained
+2 Swamp
+2 Spawn of Mayhem
+2 Basilica Bell-Haunt
+2 Rix Maadi Reveler
+2 Dragonskull Summit
+2 Blood Crypt
+2 Mortify
+3 Siege-Gang Commander
+3 Kitesail Freebooter
+3 Carnival / Carnage
+3 Mortify
+3 Spawn of Mayhem
+3 Rix Maadi Reveler
+3 Blood Crypt
+3 Dragonskull Summit
+3 Basilica Bell-Haunt
+4 Kitesail Freebooter
+4 Rix Maadi Reveler
+4 Basilica Bell-Haunt
+4 Mortify
+4 Dragonskull Summit
+4 Blood Crypt
 1 Dire Fleet Daredevil
-1 Rigging Runner
 1 Fight with Fire
 1 Fiery Cannonade
+1 Rigging Runner
 2 Dire Fleet Daredevil
-2 Fiery Cannonade
 2 Rigging Runner
+2 Fiery Cannonade
 3 Dire Fleet Daredevil
 3 Rigging Runner
 4 Lightning Strike

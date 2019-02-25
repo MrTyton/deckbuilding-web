@@ -30,12 +30,12 @@
 
 |*n*<sup>th</sup> copy|                                    Maindeck Card                                     |*n*<sup>th</sup> copy|                                       Sideboard Card                                        |
 |--------------------:|--------------------------------------------------------------------------------------|--------------------:|---------------------------------------------------------------------------------------------|
-|                    1|[Jade Bearer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439791)|                    1|[Dive Down](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435205)         |
-|                    2|[Jade Bearer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439791)|                    1|[Shapers' Sanctuary](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435362)|
-|                    3|[Jade Bearer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439791)|                    1|[Vineshaper Mystic](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435370) |
-|                    4|[Jade Bearer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439791)|                    2|[Dive Down](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435205)         |
-|                     |                                                                                      |                    2|[Crushing Canopy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452876)   |
+|                    1|[Jade Bearer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439791)|                    1|[Shapers' Sanctuary](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435362)|
+|                    2|[Jade Bearer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439791)|                    1|[Vineshaper Mystic](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435370) |
+|                    3|[Jade Bearer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439791)|                    1|[Dive Down](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435205)         |
+|                    4|[Jade Bearer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439791)|                    2|[Crushing Canopy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452876)   |
 |                     |                                                                                      |                    2|[Shapers' Sanctuary](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435362)|
+|                     |                                                                                      |                    2|[Dive Down](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435205)         |
 |                     |                                                                                      |                    2|[Vineshaper Mystic](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435370) |
 |                     |                                                                                      |                    3|[Vineshaper Mystic](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435370) |
 
