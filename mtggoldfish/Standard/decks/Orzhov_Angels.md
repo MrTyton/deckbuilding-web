@@ -32,8 +32,8 @@
 |                    1|[Adanto Vanguard](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435152) |                    1|[Adanto Vanguard](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435152)     |
 |                    1|[Ixalan's Binding](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435168)|                    2|[Moment of Craving](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439736)   |
 |                    2|[Adanto Vanguard](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435152) |                    2|[Adanto Vanguard](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435152)     |
-|                    3|[Adanto Vanguard](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435152) |                    3|[Moment of Craving](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439736)   |
-|                    4|[Adanto Vanguard](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435152) |                    3|[Adanto Vanguard](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435152)     |
+|                    3|[Adanto Vanguard](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435152) |                    3|[Adanto Vanguard](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435152)     |
+|                    4|[Adanto Vanguard](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435152) |                    3|[Moment of Craving](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439736)   |
 |                     |                                                                                           |                    4|[Adanto Vanguard](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435152)     |
 |                     |                                                                                           |                    1|[Kaya, Orzhov Usurper](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457330)|
 

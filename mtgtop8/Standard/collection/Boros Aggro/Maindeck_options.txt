@@ -48,8 +48,8 @@
 1 Rekindling Phoenix
 2 Rekindling Phoenix
 1 Fanatical Firebrand
-1 Runaway Steam-Kin
 1 Lightning Strike
+1 Runaway Steam-Kin
 1 Goblin Chainwhirler
 2 Lightning Strike
 2 Fanatical Firebrand
@@ -90,10 +90,10 @@
 1 Detection Tower
 1 Resplendent Angel
 1 Justice Strike
+2 Boros Guildgate
 2 Resplendent Angel
 2 Ixalan's Binding
 2 Justice Strike
-2 Boros Guildgate
 3 Justice Strike
 3 Resplendent Angel
 4 Justice Strike
@@ -105,19 +105,19 @@
 2 Sunhome Stalwart
 3 Tithe Taker
 4 Tithe Taker
+1 Leonin Vanguard
+1 Ajani's Pridemate
+2 Leonin Vanguard
+2 Ajani's Pridemate
+3 Leonin Vanguard
+3 Ajani's Pridemate
+3 Pride of Conquerors
+4 Leonin Vanguard
+4 Ajani's Pridemate
 1 Divine Visitation
 2 Divine Visitation
 3 Legion Warboss
 4 Legion Warboss
-1 Ajani's Pridemate
-1 Leonin Vanguard
-2 Ajani's Pridemate
-2 Leonin Vanguard
-3 Ajani's Pridemate
-3 Leonin Vanguard
-3 Pride of Conquerors
-4 Ajani's Pridemate
-4 Leonin Vanguard
 1 Growth-Chamber Guardian
 1 Rhythm of the Wild
 1 Rootbound Crag
@@ -132,6 +132,30 @@
 3 Sunpetal Grove
 4 Growth-Chamber Guardian
 4 Sunpetal Grove
+1 March of the Multitudes
+1 Emmara, Soul of the Accord
+1 Shanna, Sisay's Legacy
+1 Footlight Fiend
+1 Trostani Discordant
+1 Hero of Precinct One
+1 Flower / Flourish
+1 Forest
+2 March of the Multitudes
+2 Emmara, Soul of the Accord
+2 Trostani Discordant
+2 Footlight Fiend
+2 Shanna, Sisay's Legacy
+2 Flower / Flourish
+2 Hero of Precinct One
+3 Emmara, Soul of the Accord
+3 Hero of Precinct One
+3 March of the Multitudes
+3 Footlight Fiend
+3 Flower / Flourish
+4 Hero of Precinct One
+4 Flower / Flourish
+4 March of the Multitudes
+4 Footlight Fiend
 1 Charge
 1 Knight of Grace
 1 Baffling End
@@ -152,30 +176,6 @@
 3 Integrity / Intervention
 4 Viashino Pyromancer
 4 Goblin Banneret
-1 March of the Multitudes
-1 Emmara, Soul of the Accord
-1 Shanna, Sisay's Legacy
-1 Footlight Fiend
-1 Trostani Discordant
-1 Hero of Precinct One
-1 Flower / Flourish
-1 Forest
-2 Emmara, Soul of the Accord
-2 Trostani Discordant
-2 Footlight Fiend
-2 Shanna, Sisay's Legacy
-2 Flower / Flourish
-2 March of the Multitudes
-2 Hero of Precinct One
-3 Emmara, Soul of the Accord
-3 Hero of Precinct One
-3 March of the Multitudes
-3 Footlight Fiend
-3 Flower / Flourish
-4 Flower / Flourish
-4 March of the Multitudes
-4 Footlight Fiend
-4 Hero of Precinct One
 1 Isolated Chapel
 1 Judith, the Scourge Diva
 1 Godless Shrine

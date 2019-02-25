@@ -101,7 +101,7 @@
 |                     |                                                                                              |                    3|[Collective Brutality](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414380)      |
 |                     |                                                                                              |                    4|[Collective Brutality](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414380)      |
 |                     |                                                                                              |                    4|[Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)            |
-|                     |                                                                                              |                    4|[Dragon's Claw](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129527)             |
 |                     |                                                                                              |                    4|[Cindervines](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457305)               |
+|                     |                                                                                              |                    4|[Dragon's Claw](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129527)             |
 |                     |                                                                                              |                    4|[Destructive Revelry](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373351)       |
 

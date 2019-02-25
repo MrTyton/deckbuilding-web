@@ -39,9 +39,6 @@
 2 Risk Factor
 2 Rootbound Crag
 3 Dragonskull Summit
-2 Treetop Village
-4 Scavenging Ooze
-4 Assassin's Trophy
 1 Traverse the Ulvenwald
 1 Mishra's Bauble
 1 Spawn of Mayhem
@@ -60,9 +57,12 @@
 3 Grim Flayer
 3 Spawn of Mayhem
 4 Mishra's Bauble
+4 Spawn of Mayhem
 4 Grim Flayer
 4 Traverse the Ulvenwald
-4 Spawn of Mayhem
+2 Treetop Village
+4 Scavenging Ooze
+4 Assassin's Trophy
 1 Metallic Mimic
 1 Judith, the Scourge Diva
 1 Elvish Visionary
@@ -93,7 +93,6 @@
 2 Rage Forger
 3 Elvish Visionary
 3 Rix Maadi Reveler
-3 Judith, the Scourge Diva
 3 Burning-Tree Emissary
 3 Flamekin Harbinger
 3 Cavern of Souls
@@ -101,6 +100,7 @@
 3 Rage Forger
 3 Copperline Gorge
 3 Spikeshot Elder
+3 Judith, the Scourge Diva
 4 Wooded Foothills
 4 Burning-Tree Emissary
 4 Elvish Visionary

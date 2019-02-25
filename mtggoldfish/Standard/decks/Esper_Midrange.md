@@ -25,3 +25,12 @@
 |                                                                                             |2 [Deputy of Detention](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457309)|                                                                                              |1 [Mortify](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420829)          |                                                                                  |
 |                                                                                             |                                                                                                |                                                                                              |2 [Vraska's Contempt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435283)|                                                                                  |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                       Maindeck Card                                       |*n*<sup>th</sup> copy|Sideboard Card|
+|--------------------:|-------------------------------------------------------------------------------------------|---------------------|--------------|
+|                    1|[Lyra Dawnbringer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442914)|                     |              |
+|                    2|[Lyra Dawnbringer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442914)|                     |              |
+|                    4|[Glacial Fortress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=190562)|                     |              |
+

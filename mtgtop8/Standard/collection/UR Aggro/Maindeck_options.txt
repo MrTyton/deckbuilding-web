@@ -1,16 +1,13 @@
 5 Mountain
+1 Entrancing Melody
 1 Niv-Mizzet, Parun
 1 Maximize Velocity
-1 Entrancing Melody
-2 Niv-Mizzet, Parun
 1 Dragonskull Summit
+2 Niv-Mizzet, Parun
 1 Radical Idea
 2 Radical Idea
 3 Radical Idea
 4 Radical Idea
-6 Mountain
-1 Search for Azcanta
-2 Search for Azcanta
 1 Ral, Izzet Viceroy
 1 Tormenting Voice
 1 Goblin Electromancer
@@ -20,18 +17,20 @@
 3 Goblin Electromancer
 3 Arclight Phoenix
 4 Arclight Phoenix
-1 Murmuring Mystic
+6 Mountain
 1 Lightning Strike
 2 Lightning Strike
 3 Lightning Strike
 4 Lightning Strike
 1 Shivan Fire
-1 Watery Grave
+1 Negate
+2 Negate
+1 Murmuring Mystic
 1 Guildmages' Forum
 1 Blink of an Eye
 2 Guildmages' Forum
-1 Negate
-2 Negate
+1 Search for Azcanta
+2 Search for Azcanta
 2 Tormenting Voice
 4 Goblin Electromancer
 4 Dive Down
@@ -48,7 +47,6 @@
 1 Banefire
 1 Skewer the Critics
 2 Fanatical Firebrand
-2 Warkite Marauder
 2 Light Up the Stage
 2 Viashino Pyromancer
 2 Lookout's Dispersal
@@ -56,6 +54,7 @@
 2 Wizard's Lightning
 2 Ghitu Lavarunner
 2 Siren Stormtamer
+2 Warkite Marauder
 2 Skewer the Critics
 3 Fanatical Firebrand
 3 Viashino Pyromancer
