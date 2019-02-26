@@ -82,6 +82,6 @@
 |                    1|[Kefnet the Mindful](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426761)       |                    2|[Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)                      |
 |                    2|[Nimble Obstructionist](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430729)    |                    1|[Ugin, the Spirit Dragon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391948)     |
 |                    1|[Simian Spirit Guide](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442137)      |                    3|[Chalice of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442211)         |
-|                    4|[Wurmcoil Engine](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389756)          |                    3|[Spreading Seas](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=190405)              |
-|                    2|[Simian Spirit Guide](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442137)      |                     |                                                                                                       |
+|                    2|[Simian Spirit Guide](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442137)      |                    3|[Spreading Seas](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=190405)              |
+|                    4|[Wurmcoil Engine](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389756)          |                     |                                                                                                       |
 

@@ -1,27 +1,29 @@
 1 Stomping Ground
 3 Arid Mesa
 4 Arid Mesa
+2 Grim Lavamancer
+1 Shard Volley
 1 Light Up the Stage
 2 Light Up the Stage
-2 Grim Lavamancer
 3 Light Up the Stage
-1 Shard Volley
-4 Light Up the Stage
 1 Skullcrack
 2 Skullcrack
-4 Mountain
-5 Mountain
-3 Sacred Foundry
-1 Bump in the Night
+4 Light Up the Stage
 1 Blackcleave Cliffs
 1 Blood Crypt
-2 Bump in the Night
+1 Bump in the Night
 2 Blood Crypt
+2 Bump in the Night
 2 Blackcleave Cliffs
 3 Bump in the Night
-3 Blackcleave Cliffs
 4 Bump in the Night
+4 Mountain
+5 Mountain
 2 Shard Volley
+3 Sacred Foundry
+1 Scalding Tarn
+2 Scalding Tarn
+3 Blackcleave Cliffs
 3 Shard Volley
 1 Searing Blood
 2 Searing Blood
@@ -34,7 +36,24 @@
 11 Mountain
 12 Mountain
 13 Mountain
+14 Mountain
+15 Mountain
+16 Mountain
+4 Blackcleave Cliffs
+3 Scalding Tarn
+4 Scalding Tarn
+3 Blood Crypt
+4 Blood Crypt
+1 Snow-Covered Mountain
+2 Snow-Covered Mountain
+3 Snow-Covered Mountain
+4 Snow-Covered Mountain
+1 Plains
+4 Searing Blood
 1 Ramunap Ruins
+1 Mogg War Marshal
+1 Devastating Summons
+1 The Flame of Keld
 1 Foundry Street Denizen
 1 Goblin Bushwhacker
 1 Legion Loyalist
@@ -43,13 +62,16 @@
 1 Goblin Grenade
 1 Reckless Bushwhacker
 2 Ramunap Ruins
+2 Devastating Summons
+2 Mogg War Marshal
+2 Reckless Bushwhacker
 2 Goblin Grenade
 2 Foundry Street Denizen
-2 Reckless Bushwhacker
 2 Legion Loyalist
 2 Burning-Tree Emissary
 2 Fanatical Firebrand
 2 Goblin Bushwhacker
+3 Mogg War Marshal
 3 Fanatical Firebrand
 3 Burning-Tree Emissary
 3 Goblin Grenade
@@ -62,34 +84,8 @@
 4 Burning-Tree Emissary
 4 Fanatical Firebrand
 4 Goblin Grenade
-4 Foundry Street Denizen
-14 Mountain
-15 Mountain
-16 Mountain
-1 Scalding Tarn
-2 Scalding Tarn
-4 Blackcleave Cliffs
-1 Snow-Covered Mountain
-2 Snow-Covered Mountain
-3 Snow-Covered Mountain
-4 Snow-Covered Mountain
-1 Plains
-4 Searing Blood
-1 Devastating Summons
-1 Mogg War Marshal
-1 The Flame of Keld
-2 Devastating Summons
-2 Mogg War Marshal
-3 Mogg War Marshal
 4 Reckless Bushwhacker
-1 Risk Factor
-1 Simian Spirit Guide
-1 Mogg Fanatic
-2 Mogg Fanatic
-3 Ramunap Ruins
-3 Mogg Fanatic
-4 Mogg Fanatic
-4 Ramunap Ruins
+4 Foundry Street Denizen
 1 Magma Jet
 1 Keldon Marauders
 2 Magma Jet
@@ -100,5 +96,5 @@
 4 Skullcrack
 4 Shard Volley
 4 Magma Jet
-18 Mountain
 17 Mountain
+18 Mountain

@@ -26,3 +26,10 @@
 |2 [Tempest Caller](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435239)   |4 [Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)           |
 |                                                                                              |1 [Spell Pierce](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425876)     |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                       Maindeck Card                                        |*n*<sup>th</sup> copy|Sideboard Card|
+|--------------------:|--------------------------------------------------------------------------------------------|---------------------|--------------|
+|                    3|[Merfolk Trickster](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442944)|                     |              |
+
