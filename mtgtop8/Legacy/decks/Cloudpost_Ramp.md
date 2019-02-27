@@ -32,8 +32,8 @@
 
 |*n*<sup>th</sup> copy|                                             Maindeck Card                                              |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
 |--------------------:|--------------------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
-|                    1|[Emrakul, the Aeons Torn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397905)      |                    1|[Helm of Obedience](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3047)    |
-|                    1|[Karn, Scion of Urza](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442889)          |                    1|[Thorn of Amethyst](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=140166)  |
+|                    1|[Karn, Scion of Urza](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442889)          |                    1|[Helm of Obedience](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3047)    |
+|                    1|[Emrakul, the Aeons Torn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397905)      |                    1|[Thorn of Amethyst](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=140166)  |
 |                    1|[Spatial Contortion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407518)           |                    2|[Dismember](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382182)          |
 |                    1|[Wurmcoil Engine](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389756)              |                    2|[Thorn of Amethyst](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=140166)  |
 |                    1|[Treasure Map](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435410)                 |                    2|[Sorcerous Spyglass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435407) |
@@ -54,7 +54,7 @@
 |                    2|[Karakas](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413782)                      |                    2|[Faerie Macabre](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=201822)     |
 |                    2|[Karn, Scion of Urza](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442889)          |                    2|[Defense Grid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45481)        |
 |                    2|[Walking Ballista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423848)             |                    2|[Matter Reshaper](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407516)    |
-|                    3|[Endbringer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407513)                   |                     |                                                                                              |
 |                    3|[Ugin, the Spirit Dragon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391948)      |                     |                                                                                              |
 |                    3|[Ulamog, the Ceaseless Hunger](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=402079) |                     |                                                                                              |
+|                    3|[Endbringer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407513)                   |                     |                                                                                              |
 

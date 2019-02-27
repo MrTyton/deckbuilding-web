@@ -19,38 +19,6 @@
 3 Ninja of the Deep Hours
 1 Counterspell
 4 Snapcaster Mage
-1 Volcanic Island
-2 Tundra
-1 Buried Alive
-1 Arclight Phoenix
-1 Cabal Therapy
-1 Monastery Mentor
-1 Scrubland
-1 Dark Ritual
-1 Preordain
-1 Lotus Petal
-2 Buried Alive
-2 Arclight Phoenix
-2 Monastery Mentor
-2 Cabal Therapy
-2 Preordain
-2 Dark Ritual
-2 Lotus Petal
-3 Arclight Phoenix
-3 Monastery Mentor
-3 Buried Alive
-3 Preordain
-3 Cabal Therapy
-3 Dark Ritual
-3 Lotus Petal
-4 Cabal Therapy
-4 Arclight Phoenix
-4 Buried Alive
-4 Thoughtseize
-4 Preordain
-4 Monastery Mentor
-4 Lotus Petal
-4 Dark Ritual
 1 Unmask
 1 Dismember
 1 Stitcher's Supplier
@@ -61,17 +29,18 @@
 2 Delver of Secrets
 2 Stitcher's Supplier
 2 Consign / Oblivion
+3 Gurmag Angler
 3 Misty Rainforest
 3 Stitcher's Supplier
-3 Gurmag Angler
 3 Delver of Secrets
-4 Underground Sea
 4 Misty Rainforest
 4 Gurmag Angler
+4 Underground Sea
 4 Stitcher's Supplier
 4 Yuriko, the Tiger's Shadow
 4 Delver of Secrets
 1 Vendilion Clique
+1 Volcanic Island
 1 Umezawa's Jitte
 1 Aether Vial
 1 Karakas
@@ -80,8 +49,9 @@
 2 Cavern of Souls
 3 Cavern of Souls
 3 Aether Vial
-4 Aether Vial
 4 Cavern of Souls
+4 Aether Vial
+2 Tundra
 1 Spirit of the Labyrinth
 1 Moorland Haunt
 1 Rattlechains
@@ -116,6 +86,36 @@
 4 Rattlechains
 4 Supreme Phantom
 4 Spirit of the Labyrinth
+1 Scrubland
+1 Arclight Phoenix
+1 Buried Alive
+1 Cabal Therapy
+1 Dark Ritual
+1 Preordain
+1 Monastery Mentor
+1 Lotus Petal
+2 Arclight Phoenix
+2 Buried Alive
+2 Cabal Therapy
+2 Preordain
+2 Dark Ritual
+2 Monastery Mentor
+2 Lotus Petal
+3 Arclight Phoenix
+3 Buried Alive
+3 Preordain
+3 Cabal Therapy
+3 Dark Ritual
+3 Monastery Mentor
+3 Lotus Petal
+4 Arclight Phoenix
+4 Buried Alive
+4 Thoughtseize
+4 Preordain
+4 Monastery Mentor
+4 Lotus Petal
+4 Dark Ritual
+4 Cabal Therapy
 1 Master of Waves
 1 Dark Confidant
 1 Izzet Staticaster
@@ -128,8 +128,8 @@
 1 Meddling Mage
 1 Cursecatcher
 1 Sage of Epityr
-2 Umezawa's Jitte
 2 Dark Confidant
+2 Umezawa's Jitte
 2 Vedalken Aethermage
 2 Patron Wizard
 2 Cursecatcher
