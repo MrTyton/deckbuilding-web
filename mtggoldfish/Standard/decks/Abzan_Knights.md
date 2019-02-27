@@ -1,7 +1,7 @@
-# WBG
+# Abzan Knights
 
-#### [Export MTGO List](../collection/WBG/WBG.txt)
-#### [Export Arena List](../collection/WBG/WBG_arena.txt)
+#### [Export MTGO List](../collection/Abzan%20Knights/Abzan%20Knights.txt)
+#### [Export Arena List](../collection/Abzan%20Knights/Abzan%20Knights_arena.txt)
 #### [Print on decklist.org](http://decklist.org/?deckmain=2%09Ajani,%20Adversary%20of%20Tyrants%0A4%09Benalish%20Marshal%0A4%09Cast%20Down%0A4%09Dauntless%20Bodyguard%0A4%09Godless%20Shrine%0A4%09History%20of%20Benalia%0A4%09Isolated%20Chapel%0A4%09Knight%20of%20Autumn%0A4%09Knight%20of%20Grace%0A4%09Knight%20of%20Malice%0A1%09Midnight%20Reaper%0A2%09Orzhov%20Guildgate%0A1%09Plains%0A2%09Seraph%20of%20the%20Scales%0A4%09Sunpetal%20Grove%0A4%09Temple%20Garden%0A4%09Unclaimed%20Territory%0A4%09Valiant%20Knight&deckside=2%09Baffling%20End%0A3%09Duress%0A2%09Karn,%20Scion%20of%20Urza%0A3%09Midnight%20Reaper%0A1%09Seraph%20of%20the%20Scales%0A4%09Tocatli%20Honor%20Guard)
 # Maindeck
 
