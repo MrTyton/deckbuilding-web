@@ -35,8 +35,8 @@
 
 |*n*<sup>th</sup> copy|                                      Maindeck Card                                      |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
 |--------------------:|-----------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
-|                    1|[Panoptic Mirror](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=47930)|                    1|[Rending Volley](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394663)     |
-|                    1|[Commandeer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121243)    |                    1|[Chalice of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442211)|
+|                    1|[Commandeer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121243)    |                    1|[Rending Volley](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394663)     |
+|                    1|[Panoptic Mirror](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=47930)|                    1|[Chalice of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442211)|
 |                    1|[Snapback](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=108897)      |                    2|[Chalice of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442211)|
 |                    3|[Steam Vents](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405109)   |                    3|[Chalice of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442211)|
 |                     |                                                                                         |                    4|[Chalice of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442211)|
