@@ -1,8 +1,8 @@
-3 Llanowar Elves
-4 Llanowar Elves
-2 Legion Warboss
-3 Legion Warboss
 3 Collision/Colossus
+1 Shock
+2 Shock
+3 Shock
+4 Shock
 8 Mountain
 1 Wizard's Lightning
 1 Ghitu Lavarunner
@@ -23,6 +23,7 @@
 9 Mountain
 10 Mountain
 11 Mountain
+9 Forest
 1 Fanatical Firebrand
 1 Goblin Chainwhirler
 2 Goblin Chainwhirler
@@ -35,12 +36,6 @@
 2 Runaway Steam-Kin
 3 Runaway Steam-Kin
 4 Runaway Steam-Kin
-1 Experimental Frenzy
-2 Experimental Frenzy
-3 Experimental Frenzy
-4 Experimental Frenzy
-13 Mountain
-9 Forest
 1 Merfolk Branchwalker
 1 Jadelight Ranger
 2 Merfolk Branchwalker
@@ -49,6 +44,11 @@
 3 Jadelight Ranger
 4 Merfolk Branchwalker
 4 Jadelight Ranger
+1 Experimental Frenzy
+2 Experimental Frenzy
+3 Experimental Frenzy
+4 Experimental Frenzy
+13 Mountain
 1 Kraul Harpooner
 2 Kraul Harpooner
 1 Thrash/Threat
