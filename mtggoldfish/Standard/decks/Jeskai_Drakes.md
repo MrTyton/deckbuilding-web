@@ -30,8 +30,8 @@
 
 |*n*<sup>th</sup> copy|                                        Maindeck Card                                         |*n*<sup>th</sup> copy|                                           Sideboard Card                                           |
 |--------------------:|----------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------------|
-|                    1|[Shock](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129732)              |                    1|[Ral, Izzet Viceroy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452945)       |
 |                    1|[Spell Pierce](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425876)       |                    1|[Disdainful Stroke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420705)        |
+|                    1|[Shock](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129732)              |                    1|[Ral, Izzet Viceroy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452945)       |
 |                    1|[Lava Coil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452858)          |                    2|[Disdainful Stroke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420705)        |
 |                    2|[Spell Pierce](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425876)       |                    1|[Sorcerous Spyglass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435407)       |
 |                    2|[Shock](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129732)              |                    1|[Deafening Clarion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452915)        |

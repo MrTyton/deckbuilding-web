@@ -27,3 +27,10 @@
 |1 [Kor Firewalker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442010)      |1 [Stony Silence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=247425)|1 [Rending Volley](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394663)     |                                                                                           |
 |1 [Obstinate Baloth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438745)    |                                                                                          |1 [Settle the Wreckage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435186)|                                                                                           |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|Maindeck Card|*n*<sup>th</sup> copy|                                    Sideboard Card                                     |
+|---------------------|-------------|--------------------:|---------------------------------------------------------------------------------------|
+|                     |             |                    1|[Shatterstorm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=130370)|
+

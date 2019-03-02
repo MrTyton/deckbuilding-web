@@ -27,3 +27,18 @@
 |2 [Sai, Master Thopterist](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447205)|1 [Assassin's Trophy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452902)|2 [Tezzeret, Agent of Bolas](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=214065)|                                                                                         |
 |                                                                                                   |2 [Nature's Claim](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382316)   |                                                                                                     |                                                                                         |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                       Maindeck Card                                       |*n*<sup>th</sup> copy|                                         Sideboard Card                                         |
+|--------------------:|-------------------------------------------------------------------------------------------|--------------------:|------------------------------------------------------------------------------------------------|
+|                    1|[Glimmervoid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370425)     |                    1|[Nahiri, the Harbinger](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=410012)|
+|                    1|[Spirebluff Canal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417822)|                    1|[Ghirapur Aether Grid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=398517) |
+|                    1|[Chromatic Star](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=135279)  |                    1|[Detention Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=270356)     |
+|                    1|[Seachrome Coast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=209399) |                    1|[Battle at the Bridge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423720) |
+|                    2|[Glimmervoid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370425)     |                    1|[Wear/Tear](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=368950)            |
+|                    2|[Chromatic Star](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=135279)  |                    4|[Unmoored Ego](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452962)         |
+|                    3|[Glimmervoid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370425)     |                    2|[Nahiri, the Harbinger](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=410012)|
+|                    3|[Chromatic Star](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=135279)  |                     |                                                                                                |
+|                    4|[Glimmervoid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370425)     |                     |                                                                                                |
+

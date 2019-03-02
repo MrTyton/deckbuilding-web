@@ -34,8 +34,8 @@
 
 |*n*<sup>th</sup> copy|                                       Maindeck Card                                       |*n*<sup>th</sup> copy|                                        Sideboard Card                                         |
 |--------------------:|-------------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------------|
-|                    1|[Polluted Delta](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405104)  |                    1|[Collective Brutality](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414380)|
-|                    1|[River of Tears](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=126210)  |                    1|[Tezzeret the Seeker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174912) |
-|                    1|[Scalding Tarn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405107)   |                    1|[Ghirapur Aether Grid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=398517)|
+|                    1|[Polluted Delta](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405104)  |                    1|[Ghirapur Aether Grid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=398517)|
+|                    1|[River of Tears](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=126210)  |                    1|[Collective Brutality](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414380)|
+|                    1|[Scalding Tarn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405107)   |                    1|[Tezzeret the Seeker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174912) |
 |                    1|[Misty Rainforest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405102)|                    3|[Spellskite](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397743)          |
 

@@ -27,7 +27,7 @@
 
 |*n*<sup>th</sup> copy|                                       Maindeck Card                                       |*n*<sup>th</sup> copy|                                     Sideboard Card                                      |
 |--------------------:|-------------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------|
-|                    1|[Archangel Avacyn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409741)|                    1|[Runed Halo](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=154005)    |
-|                    3|[Wrath of God](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129808)    |                    1|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)|
+|                    1|[Archangel Avacyn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409741)|                    1|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)|
+|                    3|[Wrath of God](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129808)    |                    1|[Runed Halo](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=154005)    |
 |                    4|[Wrath of God](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129808)    |                    2|[Runed Halo](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=154005)    |
 

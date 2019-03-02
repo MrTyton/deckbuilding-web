@@ -32,8 +32,8 @@
 
 |*n*<sup>th</sup> copy|                                        Maindeck Card                                        |*n*<sup>th</sup> copy|                                       Sideboard Card                                       |
 |--------------------:|---------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------|
-|                    1|[Platinum Emperion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457134) |                    1|[Echoing Truth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405212)    |
-|                    1|[Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)            |                    1|[By Force](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426825)         |
+|                    1|[Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)            |                    1|[Echoing Truth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405212)    |
+|                    1|[Platinum Emperion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457134) |                    1|[By Force](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426825)         |
 |                    1|[Opt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442948)               |                    1|[Izzet Staticaster](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=253638)|
 |                    1|[Ancestral Vision](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=189244)  |                    1|[Delver of Secrets](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=226749)|
 |                    1|[Wandering Fumarole](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407692)|                    1|[Crumble to Dust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401850)  |

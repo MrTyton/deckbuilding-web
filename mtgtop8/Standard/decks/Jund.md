@@ -44,6 +44,6 @@
 |                    2|[Kitesail Freebooter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435264) |                    1|[Moment of Craving](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439736)         |
 |                    2|[Shivan Fire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443030)         |                    2|[Legion Warboss](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452859)            |
 |                    3|[Siege-Gang Commander](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=130539)|                    2|[Moment of Craving](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439736)         |
-|                    4|[Siege-Gang Commander](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=130539)|                    3|[Treasure Map](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435410)              |
-|                    3|[Shivan Fire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443030)         |                    3|[Legion Warboss](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452859)            |
+|                    3|[Shivan Fire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443030)         |                    3|[Treasure Map](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435410)              |
+|                    4|[Siege-Gang Commander](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=130539)|                    3|[Legion Warboss](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452859)            |
 
