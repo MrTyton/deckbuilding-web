@@ -34,9 +34,9 @@
 
 |*n*<sup>th</sup> copy|                                      Maindeck Card                                      |*n*<sup>th</sup> copy|                                        Sideboard Card                                         |
 |--------------------:|-----------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------------|
-|                    1|[Commandeer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121243)    |                    1|[Commandeer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121243)          |
-|                    1|[Panoptic Mirror](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=47930)|                    1|[Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)              |
-|                    1|[Snapback](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=108897)      |                    1|[Gelectrode](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=292731)          |
+|                    1|[Panoptic Mirror](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=47930)|                    1|[Commandeer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121243)          |
+|                    1|[Snapback](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=108897)      |                    1|[Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)              |
+|                    1|[Commandeer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121243)    |                    1|[Gelectrode](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=292731)          |
 |                    3|[Steam Vents](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405109)   |                    1|[Crackling Drake](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452913)     |
 |                     |                                                                                         |                    2|[Engineered Explosives](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=50139)|
 

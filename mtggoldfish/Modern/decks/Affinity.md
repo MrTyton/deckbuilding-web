@@ -68,8 +68,8 @@
 |                     |                                                                                                 |                    1|[Worship](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=25553)             |
 |                     |                                                                                                 |                    3|[Dispatch](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397781)           |
 |                     |                                                                                                 |                    1|[Saheeli Rai](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417759)        |
-|                     |                                                                                                 |                    2|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|
 |                     |                                                                                                 |                    2|[Spellskite](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397743)         |
+|                     |                                                                                                 |                    2|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|
 |                     |                                                                                                 |                    3|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|
 |                     |                                                                                                 |                    3|[Spellskite](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397743)         |
 

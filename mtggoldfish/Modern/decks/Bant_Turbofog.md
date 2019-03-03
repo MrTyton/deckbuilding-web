@@ -31,8 +31,8 @@
 
 |*n*<sup>th</sup> copy|                                           Maindeck Card                                            |*n*<sup>th</sup> copy|                                      Sideboard Card                                       |
 |--------------------:|----------------------------------------------------------------------------------------------------|--------------------:|-------------------------------------------------------------------------------------------|
-|                    1|[Jace, Vryn's Prodigy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=398434)     |                    1|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)   |
-|                    1|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)                   |                    1|[Baneslayer Angel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=191065)|
+|                    1|[Jace, Vryn's Prodigy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=398434)     |                    1|[Baneslayer Angel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=191065)|
+|                    1|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)                   |                    1|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)   |
 |                    1|[Hinterland Harbor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443128)        |                    1|[Supreme Verdict](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438776) |
 |                    2|[Hinterland Harbor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443128)        |                    2|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)   |
 |                    2|[Nexus of Fate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=450253)            |                    2|[Baneslayer Angel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=191065)|
