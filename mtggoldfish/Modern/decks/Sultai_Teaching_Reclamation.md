@@ -47,6 +47,6 @@
 |                    1|[Verdant Catacombs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405113)     |                    1|[Teferi, Mage of Zhalfir](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438641) |
 |                    4|[Opt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442948)                   |                    1|[Display of Dominance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394538)    |
 |                    4|[Wilderness Reclamation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457293)|                    1|[Devour Flesh](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=366379)            |
-|                    4|[Mystical Teachings](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425869)    |                    1|[Tasigur, the Golden Fang](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391937)|
-|                     |                                                                                                 |                    1|[Pulse of Murasa](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446177)         |
+|                    4|[Mystical Teachings](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425869)    |                    1|[Pulse of Murasa](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446177)         |
+|                     |                                                                                                 |                    1|[Tasigur, the Golden Fang](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391937)|
 

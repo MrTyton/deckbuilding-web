@@ -49,12 +49,11 @@
 
 # Legacy
 
-|                              A                               |                              B                               |                             C                              |                                 D                                  |
-|--------------------------------------------------------------|--------------------------------------------------------------|------------------------------------------------------------|--------------------------------------------------------------------|
-|[1-land Belcher](./mtggoldfish/Legacy/decks/1-land_Belcher.md)|[Eldrazi Post](./mtggoldfish/Legacy/decks/Eldrazi_Post.md)    |[Golgari Lands](./mtggoldfish/Legacy/decks/Golgari_Lands.md)|[Manaless Dredge](./mtggoldfish/Legacy/decks/Manaless_Dredge.md)    |
-|[Burn](./mtggoldfish/Legacy/decks/Burn.md)                    |[Eldrazi Stompy](./mtggoldfish/Legacy/decks/Eldrazi_Stompy.md)|[Izzet Phoenix](./mtggoldfish/Legacy/decks/Izzet_Phoenix.md)|[Mono-Black Prison](./mtggoldfish/Legacy/decks/Mono-Black_Prison.md)|
-|[Combo Elves](./mtggoldfish/Legacy/decks/Combo_Elves.md)      |[Goblins](./mtggoldfish/Legacy/decks/Goblins.md)              |[Lands](./mtggoldfish/Legacy/decks/Lands.md)                |[Tin Fins](./mtggoldfish/Legacy/decks/Tin_Fins.md)                  |
+|                              A                               |                            B                             |                              C                               |                             D                              |                               E                                |
+|--------------------------------------------------------------|----------------------------------------------------------|--------------------------------------------------------------|------------------------------------------------------------|----------------------------------------------------------------|
+|[1-land Belcher](./mtggoldfish/Legacy/decks/1-land_Belcher.md)|[Combo Elves](./mtggoldfish/Legacy/decks/Combo_Elves.md)  |[Eldrazi Stompy](./mtggoldfish/Legacy/decks/Eldrazi_Stompy.md)|[Izzet Phoenix](./mtggoldfish/Legacy/decks/Izzet_Phoenix.md)|[Manaless Dredge](./mtggoldfish/Legacy/decks/Manaless_Dredge.md)|
+|[Burn](./mtggoldfish/Legacy/decks/Burn.md)                    |[Eldrazi Post](./mtggoldfish/Legacy/decks/Eldrazi_Post.md)|[Golgari Lands](./mtggoldfish/Legacy/decks/Golgari_Lands.md)  |[Lands](./mtggoldfish/Legacy/decks/Lands.md)                |                                                                |
 
 
 
-#### Last Updated at 12:28PM on March 02, 2019
+#### Last Updated at 12:29AM on March 03, 2019

@@ -61,7 +61,7 @@
 |                    1|[Ghost Quarter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389534)     |                    3|[Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)      |
 |                    2|[Darkblast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456055)         |                    4|[Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)      |
 |                    1|[Driven/Despair](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430846)    |                    3|[Assassin's Trophy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452902)   |
+|                    1|[Steam Vents](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405109)       |                     |                                                                                               |
 |                    4|[Arid Mesa](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405092)         |                     |                                                                                               |
 |                    4|[Scalding Tarn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405107)     |                     |                                                                                               |
-|                    1|[Steam Vents](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405109)       |                     |                                                                                               |
 
