@@ -46,7 +46,7 @@
 |                    1|[Blossoming Defense](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417719)|                     |                                                                                             |
 |                    1|[Steppe Lynx](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=171012)       |                     |                                                                                             |
 |                    2|[Steppe Lynx](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=171012)       |                     |                                                                                             |
-|                    3|[Steppe Lynx](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=171012)       |                     |                                                                                             |
 |                    3|[Lightning Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=806)       |                     |                                                                                             |
+|                    3|[Steppe Lynx](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=171012)       |                     |                                                                                             |
 |                    4|[Steppe Lynx](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=171012)       |                     |                                                                                             |
 

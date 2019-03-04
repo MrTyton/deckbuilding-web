@@ -29,6 +29,6 @@
 |                    2|[Hunted Witness](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452765)             |                    1|[Deafening Clarion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452915)|
 |                    2|[Ajani, Adversary of Tyrants](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447139)|                    1|[Tithe Taker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457171)      |
 |                     |                                                                                                      |                    2|[Hunted Witness](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452765)   |
-|                     |                                                                                                      |                    2|[Tithe Taker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457171)      |
 |                     |                                                                                                      |                    2|[Deafening Clarion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452915)|
+|                     |                                                                                                      |                    2|[Tithe Taker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457171)      |
 
