@@ -1,3 +1,7 @@
+5 Island
+2 Sinister Sabotage
+1 Frilled Mystic
+2 Frilled Mystic
 1 Temple Garden
 1 Sunpetal Grove
 1 Teferi, Hero of Dominaria
@@ -12,17 +16,12 @@
 3 Temple Garden
 3 Sunpetal Grove
 3 Glacial Fortress
-2 Sinister Sabotage
-5 Island
-1 Revitalize
-2 Revitalize
 3 Sinister Sabotage
-1 Frilled Mystic
-2 Frilled Mystic
-1 Anticipate
+3 Frilled Mystic
 1 Expansion / Explosion
 2 Expansion / Explosion
 3 Expansion / Explosion
+1 Anticipate
 1 Stomping Ground
 1 Sulfur Falls
 1 Steam Vents
@@ -30,25 +29,26 @@
 2 Rootbound Crag
 2 Sulfur Falls
 3 Sulfur Falls
+1 Revitalize
+2 Revitalize
+4 Sunpetal Grove
+4 Frilled Mystic
+6 Island
+4 Search for Azcanta
+2 Anticipate
 3 Revitalize
 4 Revitalize
+1 Settle the Wreckage
+2 Settle the Wreckage
 3 Teferi, Hero of Dominaria
-4 Sunpetal Grove
+4 Glacial Fortress
+2 Precognitive Perception
+3 Anticipate
 1 Depose / Deploy
 2 Depose / Deploy
 3 Depose / Deploy
 4 Depose / Deploy
-3 Frilled Mystic
-4 Frilled Mystic
 4 Hallowed Fountain
-6 Island
-2 Anticipate
-4 Search for Azcanta
-4 Glacial Fortress
-1 Settle the Wreckage
-2 Settle the Wreckage
-2 Precognitive Perception
-3 Anticipate
 1 Dawn of Hope
 2 Stomping Ground
 2 Steam Vents
@@ -62,6 +62,7 @@
 4 Chart a Course
 4 Expansion / Explosion
 1 March of the Multitudes
+1 Mission Briefing
 2 Arch of Orazca
 1 Shock
 2 Shock
@@ -91,10 +92,10 @@
 2 Izzet Guildgate
 2 Gates Ablaze
 3 Simic Guildgate
-3 Gates Ablaze
 3 Azorius Guildgate
 3 Guild Summit
 3 Circuitous Route
+3 Gates Ablaze
 3 Selesnya Guildgate
 3 Plaza of Harmony
 3 Gruul Guildgate
@@ -102,8 +103,8 @@
 4 Selesnya Guildgate
 4 Azorius Guildgate
 4 Hydroid Krasis
-4 Circuitous Route
 4 Izzet Guildgate
+4 Circuitous Route
 4 Simic Guildgate
 4 Gates Ablaze
 4 Guild Summit

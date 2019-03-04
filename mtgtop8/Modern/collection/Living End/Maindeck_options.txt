@@ -1,56 +1,56 @@
-2 Curator of Mysteries
-3 Remand
-3 Curator of Mysteries
-3 Striped Riverwinder
-3 As Foretold
-4 Striped Riverwinder
-4 Curator of Mysteries
-1 Spirebluff Canal
-1 Steam Vents
-1 Electrodominance
-2 Steam Vents
-2 Spirebluff Canal
-2 Electrodominance
-2 Mountain
-2 Tolaria West
-3 Ancestral Vision
-3 Spirebluff Canal
-3 Electrodominance
-4 Remand
-4 Spirebluff Canal
-4 Electrodominance
-4 Ancestral Vision
-3 Island
-4 Island
-4 Living End
-4 As Foretold
+1 Swamp
+1 Demonic Dread
+1 Simian Spirit Guide
+1 Grove of the Burnwillows
+1 Blackcleave Cliffs
+1 Violent Outburst
+2 Verdant Catacombs
+2 Grove of the Burnwillows
+2 Swamp
+2 Demonic Dread
+2 Violent Outburst
+2 Faerie Macabre
+2 Blackcleave Cliffs
+2 Horror of the Broken Lands
+2 Simian Spirit Guide
+2 Archfiend of Ifnir
+3 Verdant Catacombs
+3 Grove of the Burnwillows
+3 Archfiend of Ifnir
+3 Violent Outburst
+3 Blackcleave Cliffs
+3 Horror of the Broken Lands
+4 Verdant Catacombs
+4 Blackcleave Cliffs
+4 Horror of the Broken Lands
+4 Violent Outburst
 1 Monstrous Carabid
 1 Blooming Marsh
 1 Fulminator Mage
 2 Monstrous Carabid
 2 Fulminator Mage
-3 Fulminator Mage
 3 Simian Spirit Guide
-4 Grove of the Burnwillows
-1 Izzet Charm
 3 Tolaria West
-3 Steam Vents
 3 Cryptic Command
 1 Beast Within
-1 Bloodstained Mire
 2 Beast Within
 3 Demonic Dread
 3 Faerie Macabre
 3 Monstrous Carabid
 4 Monstrous Carabid
+3 Fulminator Mage
+4 Grove of the Burnwillows
 1 Scalding Tarn
 2 Scalding Tarn
 3 Scalding Tarn
-4 Scalding Tarn
+1 Izzet Charm
+3 Steam Vents
 1 Tormod's Crypt
+1 Cascade Bluffs
+1 Bloodstained Mire
+4 Scalding Tarn
 1 Abrade
 1 Architects of Will
-1 Cascade Bluffs
 4 Archfiend of Ifnir
 1 Nimble Obstructionist
 5 Island
@@ -62,6 +62,7 @@
 2 Vendilion Clique
 3 Izzet Charm
 4 Fulminator Mage
+2 Cascade Bluffs
 1 Bloodbraid Elf
 2 Bloodbraid Elf
 3 Bloodbraid Elf
@@ -70,9 +71,8 @@
 1 Deadshot Minotaur
 1 Lightning Bolt
 1 Jace, Vryn's Prodigy
-2 Jace, Vryn's Prodigy
 2 Lightning Bolt
-2 Cascade Bluffs
+2 Jace, Vryn's Prodigy
 3 Beast Within
 1 Dead / Gone
 1 Hollow One
@@ -81,6 +81,7 @@
 3 Dead / Gone
 3 Hollow One
 4 Hollow One
+4 Cryptic Command
 1 Opt
 1 Settle the Wreckage
 1 Hallowed Fountain
@@ -103,5 +104,8 @@
 3 Opt
 3 Flooded Strand
 4 Opt
-6 Island
 4 Flooded Strand
+6 Island
+4 Demonic Dread
+4 Faerie Macabre
+4 Simian Spirit Guide
