@@ -1,48 +1,27 @@
-1 Dire Fleet Daredevil
 2 Dire Fleet Daredevil
-1 Kraul Harpooner
-1 Lava Coil
 2 Lava Coil
-1 Unclaimed Territory
-2 Unclaimed Territory
-3 Unclaimed Territory
-4 Unclaimed Territory
-1 Legion Warboss
-3 Dire Fleet Daredevil
-1 Siege-Gang Commander
-4 Skarrgan Hellkite
-1 Pelt Collector
-2 Pelt Collector
-3 Pelt Collector
-4 Pelt Collector
-3 Collision/Colossus
+2 Forest
 2 Kraul Harpooner
+3 Forest
 10 Mountain
 11 Mountain
-1 Llanowar Elves
-2 Llanowar Elves
-3 Llanowar Elves
-4 Llanowar Elves
-2 Legion Warboss
-3 Legion Warboss
+1 Light Up the Stage
+2 Light Up the Stage
 12 Mountain
 1 Wizard's Lightning
 1 Ghitu Lavarunner
 1 Viashino Pyromancer
-1 Light Up the Stage
 2 Wizard's Lightning
 2 Viashino Pyromancer
 2 Ghitu Lavarunner
-2 Light Up the Stage
+3 Light Up the Stage
 3 Ghitu Lavarunner
 3 Viashino Pyromancer
-3 Light Up the Stage
 3 Wizard's Lightning
+4 Light Up the Stage
 4 Wizard's Lightning
 4 Ghitu Lavarunner
 4 Viashino Pyromancer
-4 Light Up the Stage
-2 Siege-Gang Commander
 1 Fanatical Firebrand
 2 Fanatical Firebrand
 3 Fanatical Firebrand
@@ -55,8 +34,31 @@
 2 Experimental Frenzy
 3 Experimental Frenzy
 4 Experimental Frenzy
-3 Siege-Gang Commander
+4 Forest
+5 Forest
+6 Forest
+3 Dire Fleet Daredevil
+1 Siege-Gang Commander
+7 Forest
+8 Forest
 3 Kraul Harpooner
+1 Legion Warboss
+4 Kraul Harpooner
+2 Siege-Gang Commander
+3 Collision/Colossus
+1 Pelt Collector
+2 Pelt Collector
+3 Pelt Collector
+4 Pelt Collector
+4 Skarrgan Hellkite
+1 Llanowar Elves
+2 Llanowar Elves
+3 Llanowar Elves
+4 Llanowar Elves
+2 Legion Warboss
+3 Legion Warboss
+13 Mountain
+3 Siege-Gang Commander
 9 Forest
 1 Merfolk Branchwalker
 1 Jadelight Ranger
@@ -66,8 +68,6 @@
 3 Jadelight Ranger
 4 Merfolk Branchwalker
 4 Jadelight Ranger
-13 Mountain
-4 Kraul Harpooner
 1 Thorn Lieutenant
 2 Thorn Lieutenant
 3 Thorn Lieutenant
@@ -75,17 +75,22 @@
 2 Thrash/Threat
 4 Legion Warboss
 4 Collision/Colossus
-1 Skewer the Critics
+3 Lava Coil
+4 Lava Coil
+1 Domri, Chaos Bringer
 1 Risk Factor
+1 Skewer the Critics
 2 Risk Factor
 2 Skewer the Critics
 3 Skewer the Critics
 3 Risk Factor
 4 Skewer the Critics
 4 Risk Factor
-1 Domri, Chaos Bringer
+3 Gruul Guildgate
 1 Banefire
 2 Banefire
+1 Karn, Scion of Urza
+2 Karn, Scion of Urza
 2 Domri, Chaos Bringer
 1 Demanding Dragon
 2 Demanding Dragon
@@ -93,8 +98,8 @@
 2 Spear Spewer
 3 Spear Spewer
 4 Spear Spewer
-1 Karn, Scion of Urza
-2 Karn, Scion of Urza
-3 Lava Coil
-3 Gruul Guildgate
-4 Lava Coil
+1 Shivan Fire
+1 Rhythm of the Wild
+2 Rhythm of the Wild
+3 Rhythm of the Wild
+4 Gruul Guildgate

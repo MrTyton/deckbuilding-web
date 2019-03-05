@@ -62,8 +62,8 @@
 |                     |                                                                                              |                    2|[Welding Jar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=48328)         |
 |                     |                                                                                              |                    2|[Galvanic Blast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442781)     |
 |                     |                                                                                              |                    3|[Welding Jar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=48328)         |
-|                     |                                                                                              |                    3|[Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452)  |
 |                     |                                                                                              |                    1|[Worship](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=25553)             |
 |                     |                                                                                              |                    1|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|
 |                     |                                                                                              |                    3|[Dispatch](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397781)           |
+|                     |                                                                                              |                    3|[Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452)  |
 

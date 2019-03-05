@@ -29,7 +29,12 @@
 
 # Other Options
 
-|*n*<sup>th</sup> copy|                                       Maindeck Card                                        |*n*<sup>th</sup> copy|Sideboard Card|
-|--------------------:|--------------------------------------------------------------------------------------------|---------------------|--------------|
-|                    3|[Merfolk Trickster](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442944)|                     |              |
+|*n*<sup>th</sup> copy|                                       Maindeck Card                                        |*n*<sup>th</sup> copy|                                       Sideboard Card                                        |
+|--------------------:|--------------------------------------------------------------------------------------------|--------------------:|---------------------------------------------------------------------------------------------|
+|                    3|[Merfolk Trickster](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442944)|                    1|[Shapers' Sanctuary](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435362)|
+|                     |                                                                                            |                    1|[Sleep](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405385)             |
+|                     |                                                                                            |                    2|[Shapers' Sanctuary](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435362)|
+|                     |                                                                                            |                    2|[Merfolk Trickster](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442944) |
+|                     |                                                                                            |                    2|[Sleep](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405385)             |
+|                     |                                                                                            |                    3|[Shapers' Sanctuary](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435362)|
 

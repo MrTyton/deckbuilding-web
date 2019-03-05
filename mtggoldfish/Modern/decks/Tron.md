@@ -1,7 +1,7 @@
 # Tron
 
 #### [Export MTGO List](../collection/Tron/Tron.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Ancient%20Stirrings%0A4%09Chromatic%20Sphere%0A4%09Chromatic%20Star%0A4%09Expedition%20Map%0A4%09Forest%0A1%09Ghost%20Quarter%0A4%09Karn%20Liberated%0A4%09Oblivion%20Stone%0A3%09Relic%20of%20Progenitus%0A1%09Sanctum%20of%20Ugin%0A4%09Sylvan%20Scrying%0A2%09Ugin,%20the%20Spirit%20Dragon%0A2%09Ulamog,%20the%20Ceaseless%20Hunger%0A4%09Urza's%20Mine%0A4%09Urza's%20Power%20Plant%0A4%09Urza's%20Tower%0A2%09Walking%20Ballista%0A1%09World%20Breaker%0A4%09Wurmcoil%20Engine&deckside=1%09Emrakul,%20the%20Promised%20End%0A3%09Nature's%20Claim%0A2%09Spatial%20Contortion%0A2%09Surgical%20Extraction%0A3%09Thought-Knot%20Seer%0A3%09Thragtusk%0A1%09Warping%20Wail)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Ancient%20Stirrings%0A4%09Chromatic%20Sphere%0A4%09Chromatic%20Star%0A4%09Expedition%20Map%0A4%09Forest%0A1%09Ghost%20Quarter%0A4%09Karn%20Liberated%0A4%09Oblivion%20Stone%0A3%09Relic%20of%20Progenitus%0A1%09Sanctum%20of%20Ugin%0A4%09Sylvan%20Scrying%0A2%09Ugin,%20the%20Spirit%20Dragon%0A2%09Ulamog,%20the%20Ceaseless%20Hunger%0A4%09Urza's%20Mine%0A4%09Urza's%20Power%20Plant%0A4%09Urza's%20Tower%0A2%09Walking%20Ballista%0A1%09World%20Breaker%0A4%09Wurmcoil%20Engine&deckside=1%09Emrakul,%20the%20Promised%20End%0A1%09Grafdigger's%20Cage%0A3%09Nature's%20Claim%0A2%09Spatial%20Contortion%0A2%09Surgical%20Extraction%0A3%09Thought-Knot%20Seer%0A3%09Thragtusk)
 # Maindeck
 
 |                                         Artifact (19)                                          |                                              Creature (9)                                               |                                          Land (18)                                          |                                          Planeswalker (6)                                          |                                         Sorcery (8)                                          |
@@ -16,20 +16,19 @@
 
 # Sideboard
 
-|                                             Creature (7)                                             |                                          Instant (8)                                           |
-|------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
-|1 [Emrakul, the Promised End](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414295)|3 [Nature's Claim](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382316)     |
-|3 [Thought-Knot Seer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407519)        |2 [Spatial Contortion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407518) |
-|3 [Thragtusk](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430614)                |2 [Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|
-|                                                                                                      |1 [Warping Wail](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407522)       |
+|                                         Artifact (1)                                         |                                             Creature (7)                                             |                                          Instant (7)                                           |
+|----------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
+|1 [Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452)|1 [Emrakul, the Promised End](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414295)|3 [Nature's Claim](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382316)     |
+|                                                                                              |3 [Thought-Knot Seer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407519)        |2 [Spatial Contortion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407518) |
+|                                                                                              |3 [Thragtusk](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430614)                |2 [Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|
 
 
 # Other Options
 
 |*n*<sup>th</sup> copy|                                             Maindeck Card                                             |*n*<sup>th</sup> copy|                                          Sideboard Card                                          |
 |--------------------:|-------------------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------------|
-|                    1|[Horizon Canopy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409571)              |                    1|[Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452)      |
-|                    5|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)                      |                    1|[Crucible of Worlds](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129480)     |
+|                    5|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)                      |                    1|[Warping Wail](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407522)           |
+|                    1|[Horizon Canopy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409571)              |                    1|[Crucible of Worlds](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129480)     |
 |                    1|[Buried Ruin](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389453)                 |                    4|[Thragtusk](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430614)              |
 |                    3|[Walking Ballista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423848)            |                    1|[All Is Dust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397750)            |
 |                    2|[Sanctum of Ugin](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=402022)             |                    2|[Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452)      |

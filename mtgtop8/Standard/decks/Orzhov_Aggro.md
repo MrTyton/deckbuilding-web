@@ -108,6 +108,6 @@
 |                    3|[Lyra Dawnbringer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442914)       |                     |                                                                                                 |
 |                    3|[Resplendent Angel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447170)      |                     |                                                                                                 |
 |                    4|[Tocatli Honor Guard](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435194)    |                     |                                                                                                 |
-|                   11|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)                 |                     |                                                                                                 |
 |                   10|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)                 |                     |                                                                                                 |
+|                   11|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)                 |                     |                                                                                                 |
 
