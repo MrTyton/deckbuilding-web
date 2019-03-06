@@ -35,8 +35,8 @@
 
 |*n*<sup>th</sup> copy|                                        Maindeck Card                                         |*n*<sup>th</sup> copy|                                         Sideboard Card                                         |
 |--------------------:|----------------------------------------------------------------------------------------------|--------------------:|------------------------------------------------------------------------------------------------|
-|                    1|[Mana Leak](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45242)           |                    1|[Izzet Staticaster](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=253638)    |
-|                    1|[Settle the Wreckage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435186)|                    1|[Disdainful Stroke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420705)    |
+|                    1|[Mana Leak](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45242)           |                    1|[Disdainful Stroke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420705)    |
+|                    1|[Settle the Wreckage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435186)|                    1|[Izzet Staticaster](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=253638)    |
 |                    1|[Ajani Vengeant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174852)     |                    2|[Timely Reinforcements](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220074)|
 |                    2|[Mana Leak](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45242)           |                    1|[Engineered Explosives](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=50139) |
 |                    3|[Electrolyze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=247276)        |                    1|[Vendilion Clique](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442065)     |

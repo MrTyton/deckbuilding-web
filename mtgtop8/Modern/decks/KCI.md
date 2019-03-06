@@ -45,6 +45,6 @@
 |                     |                                                                                                 |                    1|[Unmoored Ego](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452962)        |
 |                     |                                                                                                 |                    2|[Dispel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401858)              |
 |                     |                                                                                                 |                    3|[Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)              |
-|                     |                                                                                                 |                    3|[Lightning Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=806)         |
 |                     |                                                                                                 |                    4|[Lightning Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=806)         |
+|                     |                                                                                                 |                    3|[Lightning Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=806)         |
 
