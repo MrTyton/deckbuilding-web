@@ -29,8 +29,8 @@
 
 |*n*<sup>th</sup> copy|                                         Maindeck Card                                         |*n*<sup>th</sup> copy|                                          Sideboard Card                                          |
 |--------------------:|-----------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------------|
-|                    4|[Vesuva](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=113543)              |                    1|[Helm of Obedience](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3047)        |
-|                    4|[Cloudpost](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=49050)            |                    1|[Sorcerous Spyglass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435407)     |
+|                    4|[Vesuva](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=113543)              |                    1|[Sorcerous Spyglass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435407)     |
+|                    4|[Cloudpost](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=49050)            |                    1|[Helm of Obedience](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3047)        |
 |                    1|[Karn, Scion of Urza](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442889) |                    1|[Phyrexian Revoker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383343)      |
 |                    1|[Blightsteel Colossus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=221563)|                    1|[Ugin, the Spirit Dragon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391948)|
 |                    1|[Spine of Ish Sah](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376514)    |                    1|[Torpor Orb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=233069)             |
