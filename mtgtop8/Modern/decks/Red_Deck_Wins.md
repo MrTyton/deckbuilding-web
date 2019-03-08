@@ -106,8 +106,8 @@
 |                   10|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)              |                    4|Wear / Tear                                                                                    |
 |                   11|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)              |                     |                                                                                               |
 |                   12|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)              |                     |                                                                                               |
-|                   13|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)              |                     |                                                                                               |
 |                   14|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)              |                     |                                                                                               |
 |                   15|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)              |                     |                                                                                               |
 |                   16|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)              |                     |                                                                                               |
+|                   13|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)              |                     |                                                                                               |
 

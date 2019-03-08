@@ -39,10 +39,10 @@
 |--------------------:|--------------------------------------------------------------------------------------------|--------------------:|------------------------------------------------------------------------------------|
 |                    3|[Windswept Heath](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405115)  |                    1|[Meekstone](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=628)   |
 |                    1|[Verdant Catacombs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405113)|                    2|[Meekstone](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=628)   |
-|                    1|[Horizon Canopy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409571)   |                    1|[Wasteland](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413790)|
-|                    1|[Wooded Foothills](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405116) |                     |                                                                                    |
-|                    2|[Heritage Druid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413713)   |                     |                                                                                    |
+|                    1|[Wooded Foothills](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405116) |                    1|[Wasteland](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413790)|
+|                    1|[Horizon Canopy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409571)   |                     |                                                                                    |
 |                    2|[Horizon Canopy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409571)   |                     |                                                                                    |
+|                    2|[Heritage Druid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413713)   |                     |                                                                                    |
 |                    2|[Quirion Ranger](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3674)     |                     |                                                                                    |
 |                    4|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)           |                     |                                                                                    |
 

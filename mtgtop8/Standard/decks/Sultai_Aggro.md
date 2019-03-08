@@ -67,6 +67,6 @@
 |                    2|[Kraul Harpooner](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452886)      |                     |                                                                                               |
 |                    3|[Vraska's Contempt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435283)    |                     |                                                                                               |
 |                    4|[Hostage Taker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435379)        |                     |                                                                                               |
-|                    1|[Doom Whisperer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452819)       |                     |                                                                                               |
 |                    2|[Doom Whisperer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452819)       |                     |                                                                                               |
+|                    1|[Doom Whisperer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452819)       |                     |                                                                                               |
 
