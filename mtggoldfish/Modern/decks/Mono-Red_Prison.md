@@ -27,7 +27,7 @@
 |                    1|[Koth of the Hammer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=266362)   |                    1|[Damping Matrix](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426043)     |
 |                    1|[Walking Ballista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423848)     |                    1|[Uba Mask](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=75254)            |
 |                    1|[Slagstorm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=214054)            |                    1|[Torpor Orb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=233069)         |
-|                    2|[Slagstorm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=214054)            |                    1|[Hazoret the Fervent](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426838)|
-|                    2|[Walking Ballista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423848)     |                    1|[Shattering Spree](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456224)   |
+|                    2|[Slagstorm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=214054)            |                    1|[Shattering Spree](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456224)   |
+|                    2|[Walking Ballista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423848)     |                    1|[Hazoret the Fervent](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426838)|
 |                   14|[Snow-Covered Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121233)|                    1|[Sorcerous Spyglass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435407) |
 

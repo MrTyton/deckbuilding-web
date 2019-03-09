@@ -55,6 +55,6 @@
 |                    3|[Healer's Hawk](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452764)              |                     |                                                                                                      |
 |                    4|[Unbreakable Formation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457173)      |                     |                                                                                                      |
 |                    1|[Meandering River](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=429675)           |                     |                                                                                                      |
-|                    3|[Deputy of Detention](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457309)        |                     |                                                                                                      |
 |                    4|[Deputy of Detention](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457309)        |                     |                                                                                                      |
+|                    3|[Deputy of Detention](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457309)        |                     |                                                                                                      |
 
