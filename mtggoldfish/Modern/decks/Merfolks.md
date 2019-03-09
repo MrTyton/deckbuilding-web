@@ -30,7 +30,7 @@
 |                    2|[Echoing Truth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405212)    |                    3|[Dismember](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382182)|
 |                    2|[Benthic Biomancer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457176)|                    4|[Dismember](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382182)|
 |                    3|[Echoing Truth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405212)    |                     |                                                                                    |
-|                    4|[Benthic Biomancer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457176)|                     |                                                                                    |
-|                    4|[Echoing Truth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405212)    |                     |                                                                                    |
 |                    3|[Benthic Biomancer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457176)|                     |                                                                                    |
+|                    4|[Echoing Truth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405212)    |                     |                                                                                    |
+|                    4|[Benthic Biomancer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457176)|                     |                                                                                    |
 
