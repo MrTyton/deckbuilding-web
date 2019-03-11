@@ -44,9 +44,9 @@
 |                    1|[Misty Rainforest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405102)    |                     |                                                                                               |
 |                    1|[Underground River](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129778)   |                     |                                                                                               |
 |                    2|[Collective Brutality](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414380)|                     |                                                                                               |
+|                    3|[Pithing Needle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129526)      |                     |                                                                                               |
 |                    1|[Glimmervoid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370425)         |                     |                                                                                               |
 |                    2|[Flooded Strand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405098)      |                     |                                                                                               |
 |                    3|[Flooded Strand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405098)      |                     |                                                                                               |
 |                    4|[Flooded Strand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405098)      |                     |                                                                                               |
-|                    3|[Pithing Needle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129526)      |                     |                                                                                               |
 

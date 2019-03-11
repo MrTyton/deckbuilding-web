@@ -53,8 +53,8 @@
 |                   14|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)            |                    2|[Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)      |
 |                   15|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)            |                    2|[Dismember](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382182)           |
 |                   16|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)            |                    2|[Rending Volley](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394663)      |
-|                     |                                                                                               |                    3|[Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)      |
 |                     |                                                                                               |                    3|[Dismember](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382182)           |
+|                     |                                                                                               |                    3|[Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)      |
 |                     |                                                                                               |                    4|[Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)      |
 |                     |                                                                                               |                    3|[Smash to Smithereens](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397795)|
 

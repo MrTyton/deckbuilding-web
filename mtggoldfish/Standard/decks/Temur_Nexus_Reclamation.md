@@ -2,7 +2,7 @@
 
 #### [Export MTGO List](../collection/Temur%20Nexus%20Reclamation/Temur%20Nexus%20Reclamation.txt)
 #### [Export Arena List](../collection/Temur%20Nexus%20Reclamation/Temur%20Nexus%20Reclamation_arena.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Breeding%20Pool%0A4%09Chart%20a%20Course%0A4%09Chemister's%20Insight%0A4%09Expansion/Explosion%0A4%09Growth%20Spiral%0A4%09Hinterland%20Harbor%0A3%09Island%0A4%09Nexus%20of%20Fate%0A4%09Opt%0A1%09Precognitive%20Perception%0A4%09Root%20Snare%0A2%09Rootbound%20Crag%0A3%09Search%20for%20Azcanta%0A4%09Steam%20Vents%0A3%09Stomping%20Ground%0A4%09Sulfur%20Falls%0A4%09Wilderness%20Reclamation&deckside=2%09Crushing%20Canopy%0A1%09Druid%20of%20the%20Cowl%0A2%09Hydroid%20Krasis%0A3%09Incubation%20Druid%0A4%09Kraul%20Harpooner%0A3%09Negate)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Breeding%20Pool%0A4%09Chart%20a%20Course%0A4%09Chemister's%20Insight%0A4%09Expansion/Explosion%0A4%09Growth%20Spiral%0A4%09Hinterland%20Harbor%0A3%09Island%0A4%09Nexus%20of%20Fate%0A4%09Opt%0A1%09Precognitive%20Perception%0A4%09Root%20Snare%0A2%09Rootbound%20Crag%0A3%09Search%20for%20Azcanta%0A4%09Steam%20Vents%0A3%09Stomping%20Ground%0A4%09Sulfur%20Falls%0A4%09Wilderness%20Reclamation&deckside=2%09Crushing%20Canopy%0A3%09Fiery%20Cannonade%0A3%09Goblin%20Electromancer%0A3%09Negate%0A3%09Niv-Mizzet,%20Parun%0A1%09Shivan%20Fire)
 # Maindeck
 
 |                                          Enchantment (7)                                          |                                            Instant (25)                                            |                                          Land (24)                                           |                                        Sorcery (4)                                        |
@@ -18,28 +18,28 @@
 
 # Sideboard
 
-|                                        Creature (10)                                         |                                        Instant (5)                                         |
-|----------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
-|1 [Druid of the Cowl](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423773)|2 [Crushing Canopy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452876)|
-|2 [Hydroid Krasis](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457327)   |3 [Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)         |
-|3 [Incubation Druid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457275) |                                                                                            |
-|4 [Kraul Harpooner](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452886)  |                                                                                            |
+|                                          Creature (6)                                           |                                        Instant (9)                                         |
+|-------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
+|3 [Goblin Electromancer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405244)|2 [Crushing Canopy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452876)|
+|3 [Niv-Mizzet, Parun](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452942)   |3 [Fiery Cannonade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435297)|
+|                                                                                                 |3 [Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)         |
+|                                                                                                 |1 [Shivan Fire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443030)    |
 
 
 # Other Options
 
-|*n*<sup>th</sup> copy|                                       Maindeck Card                                        |*n*<sup>th</sup> copy|                                        Sideboard Card                                         |
-|--------------------:|--------------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------------|
-|                    1|[Blink of an Eye](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442934)  |                    1|[Goblin Electromancer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405244)|
-|                    1|[Anticipate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401813)       |                    1|[Shivan Fire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443030)         |
-|                    1|[Sinister Sabotage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452804)|                    1|[Fiery Cannonade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435297)     |
-|                    1|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)           |                    1|[Niv-Mizzet, Parun](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452942)   |
-|                    2|[Blink of an Eye](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442934)  |                    2|[Goblin Electromancer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405244)|
-|                    2|[Anticipate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401813)       |                    2|[Niv-Mizzet, Parun](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452942)   |
-|                    2|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)           |                    2|[Fiery Cannonade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435297)     |
-|                    3|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)           |                    3|[Niv-Mizzet, Parun](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452942)   |
-|                    3|[Anticipate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401813)       |                    3|[Fiery Cannonade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435297)     |
-|                    4|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)           |                    3|[Goblin Electromancer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405244)|
-|                    5|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)           |                     |                                                                                               |
-|                    6|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)           |                     |                                                                                               |
+|*n*<sup>th</sup> copy|                                       Maindeck Card                                        |*n*<sup>th</sup> copy|                                       Sideboard Card                                       |
+|--------------------:|--------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------|
+|                    1|[Blink of an Eye](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442934)  |                    1|[Druid of the Cowl](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423773)|
+|                    1|[Anticipate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401813)       |                    1|[Kraul Harpooner](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452886)  |
+|                    1|[Sinister Sabotage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452804)|                    1|[Hydroid Krasis](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457327)   |
+|                    1|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)           |                    1|[Incubation Druid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457275) |
+|                    2|[Blink of an Eye](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442934)  |                    2|[Kraul Harpooner](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452886)  |
+|                    2|[Anticipate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401813)       |                    2|[Hydroid Krasis](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457327)   |
+|                    2|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)           |                    2|[Incubation Druid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457275) |
+|                    3|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)           |                    3|[Kraul Harpooner](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452886)  |
+|                    3|[Anticipate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401813)       |                    3|[Incubation Druid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457275) |
+|                    4|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)           |                    4|[Kraul Harpooner](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452886)  |
+|                    5|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)           |                     |                                                                                            |
+|                    6|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)           |                     |                                                                                            |
 
