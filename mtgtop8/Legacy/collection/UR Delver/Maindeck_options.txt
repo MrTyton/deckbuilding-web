@@ -1,8 +1,9 @@
-1 Misty Rainforest
+4 Young Pyromancer
 1 Forked Bolt
 2 Flooded Strand
 1 Arid Mesa
 3 Preordain
+3 Polluted Delta
 1 Wooded Foothills
 1 Monastery Swiftspear
 2 Monastery Swiftspear
@@ -15,7 +16,6 @@
 1 Risk Factor
 1 Price of Progress
 2 Price of Progress
-3 Polluted Delta
 1 Light Up the Stage
 2 Light Up the Stage
 3 Light Up the Stage
@@ -24,12 +24,17 @@
 2 Risk Factor
 3 Stormchaser Mage
 1 Grim Lavamancer
+3 True-Name Nemesis
+1 Stifle
+1 Spell Snare
+2 Stifle
+3 Stifle
 2 Bloodstained Mire
 4 Polluted Delta
 4 Preordain
 4 Light Up the Stage
-1 Thought Scour
 1 Careful Study
+1 Thought Scour
 1 Arclight Phoenix
 1 Manamorphose
 2 Thought Scour
@@ -45,24 +50,29 @@
 4 Careful Study
 4 Arclight Phoenix
 4 Manamorphose
-1 Stifle
-1 Spell Snare
 1 Snapcaster Mage
-2 Stifle
 2 Grim Lavamancer
-3 Stifle
-3 True-Name Nemesis
 1 Bedlam Reveler
+2 Spell Snare
 2 Mountain
 2 Wooded Foothills
 1 Fire / Ice
 1 Chart a Course
-2 Spell Snare
 2 Snapcaster Mage
 3 Risk Factor
 1 Bomat Courier
 2 Bomat Courier
 3 Bomat Courier
+1 Tropical Island
+1 Noble Hierarch
+1 Hooting Mandrills
+2 Tropical Island
+2 Noble Hierarch
+2 Hooting Mandrills
+3 Noble Hierarch
+3 Tropical Island
+3 Hooting Mandrills
+4 Stifle
 3 Flooded Strand
 4 True-Name Nemesis
 1 Nivmagus Elemental
@@ -74,8 +84,8 @@
 1 Searing Blaze
 1 Fireblast
 1 Sulfuric Vortex
-1 Eidolon of the Great Revel
 1 Rift Bolt
+1 Eidolon of the Great Revel
 1 Goblin Guide
 2 Arid Mesa
 2 Searing Blaze
@@ -87,7 +97,7 @@
 3 Wooded Foothills
 3 Bloodstained Mire
 3 Eidolon of the Great Revel
-3 Fireblast
 3 Goblin Guide
+3 Fireblast
 4 Wooded Foothills
 4 Goblin Guide

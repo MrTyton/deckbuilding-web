@@ -1,24 +1,10 @@
 1 Precognitive Perception
 3 Sinister Sabotage
+6 Island
 3 Hydroid Krasis
 1 Frilled Mystic
 4 Search for Azcanta
-6 Island
 1 Anticipate
-1 Temple Garden
-1 Sunpetal Grove
-1 Teferi, Hero of Dominaria
-1 Hallowed Fountain
-1 Glacial Fortress
-2 Sunpetal Grove
-2 Temple Garden
-2 Teferi, Hero of Dominaria
-2 Hallowed Fountain
-2 Glacial Fortress
-3 Temple Garden
-3 Sunpetal Grove
-3 Glacial Fortress
-3 Hallowed Fountain
 1 Expansion / Explosion
 2 Expansion / Explosion
 3 Expansion / Explosion
@@ -31,13 +17,23 @@
 2 Sulfur Falls
 3 Sulfur Falls
 2 Anticipate
-1 Revitalize
-2 Revitalize
+1 Temple Garden
+1 Sunpetal Grove
+1 Teferi, Hero of Dominaria
 1 Settle the Wreckage
+1 Hallowed Fountain
+1 Glacial Fortress
+2 Sunpetal Grove
+2 Temple Garden
+2 Teferi, Hero of Dominaria
+2 Hallowed Fountain
+2 Glacial Fortress
 2 Settle the Wreckage
+3 Temple Garden
+3 Sunpetal Grove
+3 Glacial Fortress
+3 Hallowed Fountain
 4 Sunpetal Grove
-3 Teferi, Hero of Dominaria
-4 Glacial Fortress
 3 Anticipate
 1 Deafening Clarion
 1 Circuitous Route
@@ -69,8 +65,8 @@
 4 Selesnya Guildgate
 4 Azorius Guildgate
 4 Hydroid Krasis
-4 Circuitous Route
 4 Izzet Guildgate
+4 Circuitous Route
 4 Simic Guildgate
 4 Gates Ablaze
 4 Guild Summit
@@ -78,9 +74,11 @@
 4 Gruul Guildgate
 3 Frilled Mystic
 1 Dawn of Hope
-3 Revitalize
-4 Revitalize
+1 Revitalize
+2 Revitalize
 3 Settle the Wreckage
+3 Teferi, Hero of Dominaria
+4 Glacial Fortress
 1 Woodland Stream
 1 Negate
 1 Mission Briefing
@@ -99,6 +97,8 @@
 4 Chart a Course
 4 Sinister Sabotage
 1 March of the Multitudes
+3 Revitalize
+4 Revitalize
 4 Hallowed Fountain
 1 Shock
 2 Stomping Ground
@@ -107,7 +107,3 @@
 3 Stomping Ground
 3 Steam Vents
 4 Sulfur Falls
-1 Depose / Deploy
-2 Depose / Deploy
-3 Depose / Deploy
-4 Depose / Deploy
