@@ -1,6 +1,6 @@
-# Mono-White Walkers
+# WhiteWalkers
 
-#### [Export MTGO List](../collection/Mono-White%20Walkers/Mono-White%20Walkers.txt)
+#### [Export MTGO List](../collection/WhiteWalkers/WhiteWalkers.txt)
 #### [Print on decklist.org](http://decklist.org/?deckmain=2%09Archangel%20Avacyn%0A1%09Blessed%20Alliance%0A2%09Cast%20Out%0A4%09Chalice%20of%20the%20Void%0A3%09Elspeth,%20Sun's%20Champion%0A4%09Field%20of%20Ruin%0A2%09Gemstone%20Caverns%0A4%09Ghost%20Quarter%0A3%09Gideon%20Jura%0A3%09Gideon%20of%20the%20Trials%0A4%09Gideon,%20Ally%20of%20Zendikar%0A2%09Horizon%20Canopy%0A2%09Journey%20to%20Nowhere%0A4%09Mind%20Stone%0A13%09Plains%0A3%09Settle%20the%20Wreckage%0A4%09Wrath%20of%20God&deckside=3%09Damping%20Sphere%0A2%09Defense%20Grid%0A4%09Leyline%20of%20Sanctity%0A4%09Rest%20in%20Peace%0A2%09Stony%20Silence)
 # Maindeck
 
