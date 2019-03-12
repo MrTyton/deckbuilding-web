@@ -85,8 +85,8 @@
 |                    3|[Nimble Obstructionist](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430729)|                     |                                                                                              |
 |                    3|[Mutavault](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370733)            |                     |                                                                                              |
 |                    4|[Mana Leak](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45242)             |                     |                                                                                              |
-|                    4|[Opt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442948)                  |                     |                                                                                              |
 |                    4|[Wizard's Lightning](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443040)   |                     |                                                                                              |
+|                    4|[Opt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442948)                  |                     |                                                                                              |
 |                    4|[Nimble Obstructionist](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430729)|                     |                                                                                              |
 |                    4|[Mutavault](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370733)            |                     |                                                                                              |
 

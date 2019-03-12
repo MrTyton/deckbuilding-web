@@ -7,12 +7,18 @@
 1 Collective Brutality
 2 Swamp
 2 Scalding Tarn
+3 Arid Mesa
+4 Arid Mesa
 2 Stomping Ground
+1 Fiery Temper
 1 Bedlam Reveler
+1 Maximize Velocity
 1 Arclight Phoenix
 1 Manamorphose
 2 Bedlam Reveler
 2 Arclight Phoenix
+2 Maximize Velocity
+2 Fiery Temper
 2 Manamorphose
 3 Arclight Phoenix
 3 Bedlam Reveler
@@ -21,38 +27,19 @@
 4 Manamorphose
 4 Mountain
 5 Mountain
-3 Arid Mesa
-4 Arid Mesa
-1 Fiery Temper
-1 Maximize Velocity
-2 Maximize Velocity
-2 Fiery Temper
-6 Mountain
-7 Mountain
-1 Gut Shot
-1 Ramunap Ruins
-2 Gut Shot
 1 Sacred Foundry
 2 Sacred Foundry
 2 Collective Brutality
-1 Surgical Extraction
-2 Surgical Extraction
-3 Surgical Extraction
-3 Scalding Tarn
 3 Fatal Push
 4 Fatal Push
-1 Mutagenic Growth
+1 Gut Shot
 1 Copperline Gorge
+1 Mutagenic Growth
+1 Ramunap Ruins
 2 Copperline Gorge
+2 Gut Shot
 3 Copperline Gorge
 4 Copperline Gorge
-1 Burst Lightning
-2 Burst Lightning
-2 Ramunap Ruins
-3 Gut Shot
-3 Burst Lightning
-4 Burst Lightning
-8 Mountain
 1 Verdant Catacombs
 1 Goblin Bushwhacker
 1 Death's Shadow
@@ -60,13 +47,13 @@
 1 Cathartic Reunion
 1 Insolent Neonate
 1 Temur Battle Rage
-2 Temur Battle Rage
 2 Verdant Catacombs
 2 Goblin Bushwhacker
 2 Death's Shadow
 2 Insolent Neonate
 2 Vengevine
 2 Cathartic Reunion
+2 Temur Battle Rage
 3 Goblin Bushwhacker
 3 Death's Shadow
 3 Insolent Neonate
@@ -74,3 +61,9 @@
 4 Insolent Neonate
 4 Death's Shadow
 4 Vengevine
+1 Surgical Extraction
+2 Surgical Extraction
+3 Surgical Extraction
+3 Scalding Tarn
+7 Mountain
+6 Mountain

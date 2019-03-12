@@ -44,6 +44,6 @@
 |                     |                                                                                             |                    3|[Leyline of Sanctity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=204993)     |
 |                     |                                                                                             |                    1|[Profane Memento](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383353)         |
 |                     |                                                                                             |                    1|[Circle of Protection: Black](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=838)|
-|                     |                                                                                             |                    2|[Tezzeret, Agent of Bolas](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=214065)|
 |                     |                                                                                             |                    3|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)           |
+|                     |                                                                                             |                    2|[Tezzeret, Agent of Bolas](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=214065)|
 

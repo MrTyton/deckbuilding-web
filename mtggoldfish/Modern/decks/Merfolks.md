@@ -25,8 +25,8 @@
 
 |*n*<sup>th</sup> copy|                                       Maindeck Card                                        |*n*<sup>th</sup> copy|                                   Sideboard Card                                   |
 |--------------------:|--------------------------------------------------------------------------------------------|--------------------:|------------------------------------------------------------------------------------|
-|                    1|[Benthic Biomancer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457176)|                    1|[Dismember](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382182)|
-|                    1|[Echoing Truth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405212)    |                    2|[Dismember](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382182)|
+|                    1|[Echoing Truth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405212)    |                    1|[Dismember](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382182)|
+|                    1|[Benthic Biomancer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457176)|                    2|[Dismember](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382182)|
 |                    2|[Echoing Truth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405212)    |                    3|[Dismember](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382182)|
 |                    2|[Benthic Biomancer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457176)|                    4|[Dismember](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382182)|
 |                    3|[Echoing Truth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405212)    |                     |                                                                                    |
