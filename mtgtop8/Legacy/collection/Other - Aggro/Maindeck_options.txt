@@ -31,22 +31,22 @@
 3 Grove of the Burnwillows
 1 Life from the Loam
 1 Young Pyromancer
-1 Inquisition of Kozilek
 1 Bedlam Reveler
 1 Cabal Therapy
 1 Mountain
 1 Kolaghan's Command
-1 Liliana of the Veil
 1 Bayou
 1 Faithless Looting
+1 Inquisition of Kozilek
 1 Pernicious Deed
 1 Verdant Catacombs
 1 Badlands
+1 Liliana of the Veil
 1 Assassin's Trophy
-2 Verdant Catacombs
 2 Young Pyromancer
 2 Life from the Loam
 2 Bedlam Reveler
+2 Verdant Catacombs
 2 Bloodstained Mire
 2 Cabal Therapy
 2 Bayou
@@ -70,11 +70,11 @@
 4 Faithless Looting
 1 Vendilion Clique
 1 Volcanic Island
-1 Umezawa's Jitte
-1 Cavern of Souls
-1 Karakas
-1 Aether Vial
 1 Tundra
+1 Cavern of Souls
+1 Umezawa's Jitte
+1 Aether Vial
+1 Karakas
 2 Aether Vial
 2 Cavern of Souls
 3 Flooded Strand
@@ -83,7 +83,6 @@
 4 Flooded Strand
 4 Aether Vial
 4 Cavern of Souls
-1 Swords to Plowshares
 1 Spirit of the Labyrinth
 1 Moorland Haunt
 1 Rattlechains
@@ -95,26 +94,27 @@
 1 Supreme Phantom
 1 Plains
 1 Drogskol Captain
-2 Swords to Plowshares
+1 Swords to Plowshares
+2 Tundra
 2 Supreme Phantom
 2 Phantasmal Image
+2 Swords to Plowshares
 2 Spirit of the Labyrinth
 2 Rattlechains
-2 Tundra
 2 Mausoleum Wanderer
 2 Spell Queller
 2 Drogskol Captain
-3 Swords to Plowshares
 3 Spell Queller
 3 Drogskol Captain
 3 Supreme Phantom
+3 Swords to Plowshares
 3 Spirit of the Labyrinth
 3 Rattlechains
 3 Mausoleum Wanderer
-4 Swords to Plowshares
 4 Spell Queller
 4 Supreme Phantom
 4 Drogskol Captain
+4 Swords to Plowshares
 4 Rattlechains
 4 Mausoleum Wanderer
 4 Spirit of the Labyrinth
@@ -136,10 +136,10 @@
 4 Stitcher's Supplier
 4 Yuriko, the Tiger's Shadow
 4 Delver of Secrets
-1 Dark Confidant
 1 Izzet Staticaster
 1 Grim Lavamancer
 1 Sower of Temptation
+1 Dark Confidant
 1 Voidmage Prodigy
 1 Vedalken Aethermage
 1 Azami, Lady of Scrolls
@@ -148,16 +148,16 @@
 1 Meddling Mage
 1 Cursecatcher
 1 Sage of Epityr
-2 Dark Confidant
 2 Umezawa's Jitte
+2 Dark Confidant
 2 Patron Wizard
 2 Vedalken Aethermage
 2 Cursecatcher
 2 Sage of Epityr
-3 Dark Confidant
 3 Cursecatcher
 3 Sage of Epityr
 3 Patron Wizard
+3 Dark Confidant
 3 Vedalken Aethermage
 4 Mutavault
 4 Dark Confidant
@@ -175,24 +175,24 @@
 1 Tarmogoyf
 1 Sylvan Library
 2 Volcanic Island
+2 Tropical Island
 2 Shardless Agent
 2 Ancestral Vision
-2 Tropical Island
 2 Guided Passage
 2 Bloodbraid Elf
 2 Tarmogoyf
 2 Noble Hierarch
 3 Wooded Foothills
 3 Scalding Tarn
-3 Tarmogoyf
 3 Shardless Agent
 3 Ancestral Vision
 3 Tropical Island
 3 Guided Passage
 3 Bloodbraid Elf
+3 Tarmogoyf
 3 Noble Hierarch
-4 Tarmogoyf
 4 Bloodbraid Elf
+4 Tarmogoyf
 4 Noble Hierarch
 1 Spell Snare
 1 Stifle
@@ -204,19 +204,19 @@
 1 Rapid Hybridization
 1 Pteramander
 1 Accumulated Knowledge
+2 Stifle
 2 True-Name Nemesis
 2 Spell Pierce
 2 Accumulated Knowledge
 2 Pteramander
 2 Cryptic Serpent
-2 Stifle
 2 Stubborn Denial
 3 Stifle
 3 Pteramander
 3 Accumulated Knowledge
+4 Accumulated Knowledge
 4 Stifle
 4 Daze
-4 Accumulated Knowledge
 4 Wasteland
 4 Pteramander
 5 Island

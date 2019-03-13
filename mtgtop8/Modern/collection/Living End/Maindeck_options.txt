@@ -4,6 +4,9 @@
 2 Vendilion Clique
 1 Chalice of the Void
 5 Island
+1 Magma Spray
+1 Field of Ruin
+3 Izzet Charm
 1 Street Wraith
 2 Street Wraith
 3 Street Wraith
@@ -12,53 +15,49 @@
 1 Overgrown Tomb
 1 Archfiend of Ifnir
 1 Grove of the Burnwillows
-1 Forest
+1 Fulminator Mage
 1 Faerie Macabre
 1 Blood Crypt
+1 Stomping Ground
+1 Demonic Dread
 1 Horror of the Broken Lands
 1 Swamp
-1 Demonic Dread
-1 Simian Spirit Guide
+1 Monstrous Carabid
+1 Beast Within
 1 Blackcleave Cliffs
+1 Simian Spirit Guide
+1 Blooming Marsh
 1 Violent Outburst
-1 Stomping Ground
+1 Forest
 2 Verdant Catacombs
 2 Archfiend of Ifnir
 2 Grove of the Burnwillows
 2 Faerie Macabre
+2 Fulminator Mage
+2 Beast Within
 2 Swamp
-2 Demonic Dread
 2 Violent Outburst
+2 Monstrous Carabid
 2 Blackcleave Cliffs
+2 Demonic Dread
 2 Horror of the Broken Lands
 2 Simian Spirit Guide
 3 Verdant Catacombs
 3 Grove of the Burnwillows
+3 Faerie Macabre
 3 Archfiend of Ifnir
+3 Demonic Dread
 3 Violent Outburst
 3 Blackcleave Cliffs
+3 Monstrous Carabid
 3 Horror of the Broken Lands
 3 Simian Spirit Guide
 4 Verdant Catacombs
 4 Blackcleave Cliffs
 4 Horror of the Broken Lands
-4 Violent Outburst
-1 Magma Spray
-1 Field of Ruin
-3 Izzet Charm
-1 Beast Within
-1 Fulminator Mage
-1 Monstrous Carabid
-1 Blooming Marsh
-2 Fulminator Mage
-2 Beast Within
-2 Monstrous Carabid
-3 Faerie Macabre
-3 Demonic Dread
-3 Monstrous Carabid
 4 Monstrous Carabid
+4 Violent Outburst
 2 Cascade Bluffs
-4 Grove of the Burnwillows
 1 Polluted Delta
 1 Misty Rainforest
 2 Abrade
@@ -67,22 +66,10 @@
 1 Jace, Vryn's Prodigy
 2 Lightning Bolt
 2 Jace, Vryn's Prodigy
+4 Cryptic Command
 1 Bloodstained Mire
 3 Fulminator Mage
-4 Cryptic Command
-1 Bloodbraid Elf
-1 Dead / Gone
-1 Hollow One
-2 Bloodbraid Elf
-2 Dead / Gone
-2 Hollow One
-3 Bloodbraid Elf
-3 Dead / Gone
-3 Hollow One
-4 Bloodbraid Elf
-4 Hollow One
-4 Archfiend of Ifnir
-1 Ghost Quarter
+4 Grove of the Burnwillows
 1 Settle the Wreckage
 1 Sram's Expertise
 1 Hallowed Fountain
@@ -92,14 +79,15 @@
 1 Quicken
 1 Flooded Strand
 1 Plains
+1 Ghost Quarter
 1 Path to Exile
 1 River Serpent
 2 Plains
 2 Path to Exile
 2 Hallowed Fountain
-2 Opt
 2 Flooded Strand
 2 Polluted Delta
+2 Opt
 3 Hallowed Fountain
 3 Flooded Strand
 3 Opt

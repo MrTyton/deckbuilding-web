@@ -29,8 +29,8 @@
 
 |*n*<sup>th</sup> copy|                                      Maindeck Card                                      |*n*<sup>th</sup> copy|                                       Sideboard Card                                        |
 |--------------------:|-----------------------------------------------------------------------------------------|--------------------:|---------------------------------------------------------------------------------------------|
-|                    1|[Legion Warboss](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452859)|                    1|[Theater of Horrors](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457357)|
-|                    2|[Legion Warboss](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452859)|                    1|[Fight with Fire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443007)   |
+|                    1|[Legion Warboss](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452859)|                    1|[Fight with Fire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443007)   |
+|                    2|[Legion Warboss](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452859)|                    1|[Theater of Horrors](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457357)|
 |                    3|[Legion Warboss](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452859)|                    2|[Theater of Horrors](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457357)|
 |                     |                                                                                         |                    2|[Rekindling Phoenix](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439768)|
 |                     |                                                                                         |                    3|[Rekindling Phoenix](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439768)|

@@ -1,7 +1,7 @@
 # Jund Discard
 
 #### [Export MTGO List](../collection/Jund%20Discard/Jund%20Discard.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=2%09Arid%20Mesa%0A3%09Blood%20Crypt%0A4%09Bloodstained%20Mire%0A2%09Call%20to%20the%20Netherworld%0A4%09Cathartic%20Reunion%0A4%09Death's%20Shadow%0A2%09Dismember%0A4%09Faithless%20Looting%0A4%09Flameblade%20Adept%0A3%09Goblin%20Bushwhacker%0A3%09Gurmag%20Angler%0A4%09Hollow%20One%0A4%09Insolent%20Neonate%0A2%09Mountain%0A2%09Stomping%20Ground%0A4%09Street%20Wraith%0A1%09Swamp%0A4%09Vengevine%0A4%09Wooded%20Foothills&deckside=1%09Ancient%20Grudge%0A2%09Anger%20of%20the%20Gods%0A1%09Collective%20Brutality%0A1%09Destructive%20Revelry%0A2%09Fatal%20Push%0A2%09Gut%20Shot%0A1%09Pyroclasm%0A1%09Surgical%20Extraction%0A1%09Temur%20Battle%20Rage%0A3%09Thoughtseize)
+#### [Print on decklist.org](http://decklist.org/?deckmain=2%09Arid%20Mesa%0A3%09Blood%20Crypt%0A4%09Bloodstained%20Mire%0A2%09Call%20to%20the%20Netherworld%0A4%09Cathartic%20Reunion%0A4%09Death's%20Shadow%0A2%09Dismember%0A4%09Faithless%20Looting%0A4%09Flameblade%20Adept%0A3%09Goblin%20Bushwhacker%0A3%09Gurmag%20Angler%0A4%09Hollow%20One%0A4%09Insolent%20Neonate%0A2%09Mountain%0A2%09Stomping%20Ground%0A4%09Street%20Wraith%0A1%09Swamp%0A4%09Vengevine%0A4%09Wooded%20Foothills&deckside=1%09Ancient%20Grudge%0A2%09Anger%20of%20the%20Gods%0A1%09Assassin's%20Trophy%0A1%09Collective%20Brutality%0A3%09Fatal%20Push%0A1%09Gut%20Shot%0A1%09Hazoret%20the%20Fervent%0A1%09Pyroclasm%0A1%09Surgical%20Extraction%0A1%09Temur%20Battle%20Rage%0A2%09Thoughtseize)
 # Maindeck
 
 |                                         Creature (30)                                         |                                     Instant (2)                                      |                                          Land (18)                                           |                                            Sorcery (10)                                            |
@@ -18,22 +18,22 @@
 
 # Sideboard
 
-|                                          Instant (8)                                           |                                           Sorcery (7)                                           |
-|------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
-|1 [Ancient Grudge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=235600)     |2 [Anger of the Gods](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438682)   |
-|1 [Destructive Revelry](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373351)|1 [Collective Brutality](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414380)|
-|2 [Fatal Push](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423724)         |1 [Pyroclasm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129801)           |
-|2 [Gut Shot](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397673)           |3 [Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)        |
-|1 [Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|                                                                                                 |
-|1 [Temur Battle Rage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391940)  |                                                                                                 |
+|                                          Creature (1)                                          |                                          Instant (8)                                           |                                           Sorcery (6)                                           |
+|------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
+|1 [Hazoret the Fervent](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426838)|1 [Ancient Grudge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=235600)     |2 [Anger of the Gods](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438682)   |
+|                                                                                                |1 [Assassin's Trophy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452902)  |1 [Collective Brutality](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414380)|
+|                                                                                                |3 [Fatal Push](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423724)         |1 [Pyroclasm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129801)           |
+|                                                                                                |1 [Gut Shot](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397673)           |2 [Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)        |
+|                                                                                                |1 [Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|                                                                                                 |
+|                                                                                                |1 [Temur Battle Rage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391940)  |                                                                                                 |
 
 
 # Other Options
 
 |*n*<sup>th</sup> copy|                                    Maindeck Card                                     |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
 |--------------------:|--------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
-|                    1|[Lightning Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=806)|                    1|[Hazoret the Fervent](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426838)|
-|                    2|[Lightning Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=806)|                    1|[Assassin's Trophy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452902)  |
-|                    3|[Lightning Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=806)|                    3|[Fatal Push](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423724)         |
+|                    1|[Lightning Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=806)|                    1|[Destructive Revelry](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373351)|
+|                    2|[Lightning Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=806)|                    2|[Gut Shot](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397673)           |
+|                    3|[Lightning Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=806)|                    3|[Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)       |
 |                    4|[Lightning Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=806)|                     |                                                                                              |
 

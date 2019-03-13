@@ -5,6 +5,7 @@
 2 Hydroid Krasis
 3 Hinterland Harbor
 3 Hydroid Krasis
+1 Shock
 1 Lava Coil
 1 Chart a Course
 1 Pteramander
@@ -12,9 +13,9 @@
 1 Crackling Drake
 1 Discovery / Dispersal
 1 Opt
-1 Shock
 1 Dive Down
 2 Mountain
+2 Shock
 2 Chart a Course
 2 Pteramander
 2 Crackling Drake
@@ -22,7 +23,6 @@
 2 Discovery / Dispersal
 2 Lava Coil
 2 Island
-2 Shock
 2 Dive Down
 2 Opt
 3 Shock
@@ -35,6 +35,7 @@
 3 Steam Vents
 3 Discovery / Dispersal
 3 Mountain
+4 Shock
 4 Chart a Course
 4 Opt
 4 Pteramander
@@ -42,7 +43,6 @@
 4 Crackling Drake
 4 Steam Vents
 4 Lava Coil
-4 Shock
 1 Domri, Chaos Bringer
 1 Ravager Wurm
 1 Wildgrowth Walker
@@ -69,8 +69,8 @@
 3 Jadelight Ranger
 3 Domri, Chaos Bringer
 3 Merfolk Branchwalker
-4 Incubation Druid
 4 Skarrgan Hellkite
+4 Incubation Druid
 4 Llanowar Elves
 4 Hydroid Krasis
 4 Wildgrowth Walker
