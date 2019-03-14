@@ -29,10 +29,10 @@
 
 |*n*<sup>th</sup> copy|                                     Maindeck Card                                     |*n*<sup>th</sup> copy|                                       Sideboard Card                                        |
 |--------------------:|---------------------------------------------------------------------------------------|--------------------:|---------------------------------------------------------------------------------------------|
-|                    3|[Spell Pierce](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425876)|                    1|[Kraul Harpooner](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452886)   |
-|                    1|[Jade Bearer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439791) |                    1|[Disdainful Stroke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420705) |
-|                    2|[Jade Bearer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439791) |                    1|[Spell Pierce](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425876)      |
-|                    3|[Jade Bearer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439791) |                    1|[Merfolk Trickster](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442944) |
+|                    3|[Spell Pierce](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425876)|                    1|[Disdainful Stroke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420705) |
+|                    1|[Jade Bearer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439791) |                    1|[Spell Pierce](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425876)      |
+|                    2|[Jade Bearer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439791) |                    1|[Merfolk Trickster](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442944) |
+|                    3|[Jade Bearer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439791) |                    1|[Kraul Harpooner](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452886)   |
 |                    4|[Jade Bearer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439791) |                    2|[Kraul Harpooner](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452886)   |
 |                     |                                                                                       |                    2|[Disdainful Stroke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420705) |
 |                     |                                                                                       |                    3|[Kraul Harpooner](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452886)   |

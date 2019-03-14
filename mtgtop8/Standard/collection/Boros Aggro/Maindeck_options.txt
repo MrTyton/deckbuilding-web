@@ -1,57 +1,41 @@
 2 Healer's Hawk
-1 Tajic, Legion's Edge
+13 Plains
 1 Snubhorn Sentry
 2 Snubhorn Sentry
 3 Snubhorn Sentry
-5 Mountain
-1 Tithe Taker
-2 Tithe Taker
-3 Hunted Witness
-4 Hunted Witness
-3 Healer's Hawk
-1 Venerated Loxodon
-2 Venerated Loxodon
-3 Venerated Loxodon
-13 Plains
-2 Tajic, Legion's Edge
 4 Snubhorn Sentry
-4 Conclave Tribunal
 1 Tocatli Honor Guard
-4 Healer's Hawk
-1 Lava Coil
-3 Tajic, Legion's Edge
-4 Venerated Loxodon
-1 Pride of Conquerors
-2 Pride of Conquerors
+1 Aurelia, Exemplar of Justice
+2 Aurelia, Exemplar of Justice
+3 Healer's Hawk
+2 Mountain
+3 Mountain
+4 Mountain
 1 Boros Guildgate
+4 Venerated Loxodon
 1 Unbreakable Formation
 3 Tithe Taker
 4 Tithe Taker
 2 Tocatli Honor Guard
 3 Tocatli Honor Guard
+1 Tajic, Legion's Edge
+4 Conclave Tribunal
+5 Mountain
+3 Hunted Witness
+4 Hunted Witness
+4 Healer's Hawk
 1 Legion Warboss
 2 Legion Warboss
 4 Tocatli Honor Guard
+1 Lava Coil
 2 Lava Coil
 3 Lava Coil
-1 Boros Challenger
-2 Boros Challenger
-3 Boros Challenger
 3 Aurelia, Exemplar of Justice
 4 Lava Coil
-1 Ajani's Pridemate
-1 Leonin Vanguard
-2 Ajani's Pridemate
-2 Leonin Vanguard
-3 Ajani's Pridemate
-3 Leonin Vanguard
-4 Ajani's Pridemate
-4 Leonin Vanguard
-1 Ajani, Adversary of Tyrants
-2 Ajani, Adversary of Tyrants
+2 Tajic, Legion's Edge
+1 Pride of Conquerors
+2 Pride of Conquerors
 3 Legion Warboss
-4 Tajic, Legion's Edge
-4 Boros Challenger
 1 Goblin Instigator
 2 Goblin Instigator
 1 Experimental Frenzy
@@ -59,14 +43,15 @@
 1 Shock
 1 Rekindling Phoenix
 2 Rekindling Phoenix
+3 Tajic, Legion's Edge
 1 Fanatical Firebrand
 1 Lightning Strike
 1 Goblin Chainwhirler
 1 Runaway Steam-Kin
 2 Lightning Strike
 2 Fanatical Firebrand
-2 Goblin Chainwhirler
 2 Experimental Frenzy
+2 Goblin Chainwhirler
 2 Runaway Steam-Kin
 3 Fanatical Firebrand
 3 Lightning Strike
@@ -90,6 +75,9 @@
 3 Rekindling Phoenix
 3 Lyra Dawnbringer
 4 Rekindling Phoenix
+1 Boros Challenger
+2 Boros Challenger
+3 Boros Challenger
 1 Sunpetal Grove
 1 Temple Garden
 1 Stomping Ground
@@ -122,31 +110,33 @@
 4 Resplendent Angel
 1 Rustwing Falcon
 1 Kinjalli's Sunwing
-1 Chance for Glory
-2 Chance for Glory
 1 Sunhome Stalwart
 2 Sunhome Stalwart
-1 Act of Treason
-2 Act of Treason
-3 Pride of Conquerors
 2 Unbreakable Formation
 3 Unbreakable Formation
 4 Unbreakable Formation
 1 Divine Visitation
+1 Ajani, Adversary of Tyrants
 2 Divine Visitation
+2 Ajani, Adversary of Tyrants
 4 Legion Warboss
+1 Ajani's Pridemate
+1 Leonin Vanguard
+1 Chance for Glory
+2 Chance for Glory
+2 Ajani's Pridemate
+2 Leonin Vanguard
+3 Ajani's Pridemate
+3 Leonin Vanguard
+4 Ajani's Pridemate
+4 Leonin Vanguard
+1 Act of Treason
+2 Act of Treason
+4 Tajic, Legion's Edge
 1 Light Up the Stage
 2 Light Up the Stage
 4 Isolated Chapel
 4 Judith, the Scourge Diva
-1 Charge
-1 Baffling End
-1 Knight of Grace
-2 Baffling End
-2 Charge
-2 Knight of Grace
-3 Knight of Grace
-4 Knight of Grace
 1 Viashino Pyromancer
 1 Integrity / Intervention
 1 Goblin Banneret
@@ -196,8 +186,8 @@
 4 Hero of Precinct One
 4 March of the Multitudes
 4 Footlight Fiend
-1 Angelic Exaltation
 1 Swiftblade Vindicator
+1 Angelic Exaltation
 2 Swiftblade Vindicator
 2 Angelic Exaltation
 3 Goblin Instigator
@@ -205,6 +195,7 @@
 3 Swiftblade Vindicator
 4 Goblin Instigator
 4 Angelic Exaltation
+4 Boros Challenger
 4 Swiftblade Vindicator
 1 Carnival / Carnage
 1 Siege-Gang Commander
@@ -219,24 +210,24 @@
 1 Rix Maadi Reveler
 1 Angrath, the Flame-Chained
 1 Dragonskull Summit
-2 Siege-Gang Commander
 2 Bedevil
 2 Carnival / Carnage
+2 Siege-Gang Commander
 2 Angrath, the Flame-Chained
-2 Kitesail Freebooter
 2 Basilica Bell-Haunt
+2 Kitesail Freebooter
 2 Swamp
 2 Spawn of Mayhem
 2 Rix Maadi Reveler
 2 Dragonskull Summit
 2 Blood Crypt
 2 Mortify
-3 Spawn of Mayhem
 3 Carnival / Carnage
 3 Mortify
 3 Siege-Gang Commander
-3 Kitesail Freebooter
 3 Basilica Bell-Haunt
+3 Kitesail Freebooter
+3 Spawn of Mayhem
 3 Rix Maadi Reveler
 3 Blood Crypt
 3 Dragonskull Summit

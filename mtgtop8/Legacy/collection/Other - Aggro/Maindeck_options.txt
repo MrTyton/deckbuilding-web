@@ -1,11 +1,11 @@
-4 Island
-1 True-Name Nemesis
 2 Misty Rainforest
 1 Daze
 2 Daze
 3 Ponder
 3 Daze
 4 Ponder
+2 Mutavault
+3 Mutavault
 3 Thoughtseize
 1 Hymn to Tourach
 2 Hymn to Tourach
@@ -68,62 +68,12 @@
 4 Young Pyromancer
 4 Lightning Bolt
 4 Faithless Looting
-1 Vendilion Clique
-1 Volcanic Island
-1 Tundra
-1 Cavern of Souls
-1 Umezawa's Jitte
-1 Aether Vial
-1 Karakas
-2 Aether Vial
-2 Cavern of Souls
-3 Flooded Strand
-3 Cavern of Souls
-3 Aether Vial
-4 Flooded Strand
-4 Aether Vial
-4 Cavern of Souls
-1 Spirit of the Labyrinth
-1 Moorland Haunt
-1 Rattlechains
-1 Windswept Heath
-1 Phantasmal Image
-1 Spell Queller
-1 Mausoleum Wanderer
-1 Geist of Saint Traft
-1 Supreme Phantom
-1 Plains
-1 Drogskol Captain
-1 Swords to Plowshares
-2 Tundra
-2 Supreme Phantom
-2 Phantasmal Image
-2 Swords to Plowshares
-2 Spirit of the Labyrinth
-2 Rattlechains
-2 Mausoleum Wanderer
-2 Spell Queller
-2 Drogskol Captain
-3 Spell Queller
-3 Drogskol Captain
-3 Supreme Phantom
-3 Swords to Plowshares
-3 Spirit of the Labyrinth
-3 Rattlechains
-3 Mausoleum Wanderer
-4 Spell Queller
-4 Supreme Phantom
-4 Drogskol Captain
-4 Swords to Plowshares
-4 Rattlechains
-4 Mausoleum Wanderer
-4 Spirit of the Labyrinth
 1 Unmask
-1 Stitcher's Supplier
-1 Consign / Oblivion
 1 Delver of Secrets
+1 Stitcher's Supplier
 1 Dismember
 1 Gurmag Angler
+1 Consign / Oblivion
 2 Gurmag Angler
 2 Delver of Secrets
 2 Stitcher's Supplier
@@ -136,35 +86,7 @@
 4 Stitcher's Supplier
 4 Yuriko, the Tiger's Shadow
 4 Delver of Secrets
-1 Izzet Staticaster
-1 Grim Lavamancer
-1 Sower of Temptation
-1 Dark Confidant
-1 Voidmage Prodigy
-1 Vedalken Aethermage
-1 Azami, Lady of Scrolls
-1 Master of Waves
-1 Patron Wizard
-1 Meddling Mage
-1 Cursecatcher
-1 Sage of Epityr
-2 Umezawa's Jitte
-2 Dark Confidant
-2 Patron Wizard
-2 Vedalken Aethermage
-2 Cursecatcher
-2 Sage of Epityr
-3 Cursecatcher
-3 Sage of Epityr
-3 Patron Wizard
-3 Dark Confidant
-3 Vedalken Aethermage
-4 Mutavault
-4 Dark Confidant
-4 Cursecatcher
-4 Vedalken Aethermage
-4 Sage of Epityr
-4 Patron Wizard
+1 Volcanic Island
 1 Dack Fayden
 1 Shardless Agent
 1 Ancestral Vision
@@ -194,6 +116,49 @@
 4 Bloodbraid Elf
 4 Tarmogoyf
 4 Noble Hierarch
+1 Vendilion Clique
+1 Tundra
+1 Izzet Staticaster
+1 Grim Lavamancer
+1 Cavern of Souls
+1 Umezawa's Jitte
+1 Sower of Temptation
+1 Dark Confidant
+1 Voidmage Prodigy
+1 Aether Vial
+1 Vedalken Aethermage
+1 Karakas
+1 Azami, Lady of Scrolls
+1 Master of Waves
+1 Patron Wizard
+1 Meddling Mage
+1 Cursecatcher
+1 Sage of Epityr
+2 Umezawa's Jitte
+2 Dark Confidant
+2 Aether Vial
+2 Patron Wizard
+2 Vedalken Aethermage
+2 Cursecatcher
+2 Cavern of Souls
+2 Sage of Epityr
+3 Flooded Strand
+3 Cursecatcher
+3 Sage of Epityr
+3 Patron Wizard
+3 Dark Confidant
+3 Cavern of Souls
+3 Aether Vial
+3 Vedalken Aethermage
+4 Flooded Strand
+4 Mutavault
+4 Dark Confidant
+4 Cursecatcher
+4 Aether Vial
+4 Vedalken Aethermage
+4 Sage of Epityr
+4 Patron Wizard
+4 Cavern of Souls
 1 Spell Snare
 1 Stifle
 1 Spell Pierce

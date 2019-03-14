@@ -76,7 +76,7 @@
 |                    3|[Electrolyze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=247276)                  |                    3|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)          |
 |                    1|[Torrential Gearhulk](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417640)          |                     |                                                                                                  |
 |                    1|[Anger of the Gods](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438682)            |                     |                                                                                                  |
-|                    3|[Serum Visions](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=50145)                 |                     |                                                                                                  |
 |                    3|[Jace, the Mind Sculptor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442051)      |                     |                                                                                                  |
+|                    3|[Serum Visions](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=50145)                 |                     |                                                                                                  |
 |                    4|[Celestial Colonnade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457137)          |                     |                                                                                                  |
 
