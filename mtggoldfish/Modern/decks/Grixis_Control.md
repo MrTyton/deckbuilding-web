@@ -90,7 +90,7 @@
 |                    3|[Tasigur, the Golden Fang](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391937) |                     |                                                                                                   |
 |                    3|[Bloodstained Mire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405094)        |                     |                                                                                                   |
 |                    4|[Bloodstained Mire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405094)        |                     |                                                                                                   |
-|                    4|[Liliana of the Veil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=235597)      |                     |                                                                                                   |
 |                    4|[Fatal Push](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423724)               |                     |                                                                                                   |
 |                    4|[Inquisition of Kozilek](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416897)   |                     |                                                                                                   |
+|                    4|[Liliana of the Veil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=235597)      |                     |                                                                                                   |
 

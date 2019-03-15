@@ -14,10 +14,10 @@
 4 Hinterland Harbor
 2 Baffling End
 4 Conclave Tribunal
-1 Shanna, Sisay's Legacy
 1 Venerated Loxodon
-2 Shanna, Sisay's Legacy
+1 Shanna, Sisay's Legacy
 2 Venerated Loxodon
+2 Shanna, Sisay's Legacy
 3 Venerated Loxodon
 4 Hallowed Fountain
 1 Knight of Autumn
@@ -32,10 +32,6 @@
 3 Forest
 4 Forest
 1 Arch of Orazca
-1 Legion's Landing
-2 Legion's Landing
-3 Legion's Landing
-4 Venerated Loxodon
 1 Tithe Taker
 1 Dovin, Grand Arbiter
 2 Tithe Taker
@@ -43,6 +39,10 @@
 3 Tithe Taker
 3 Dovin, Grand Arbiter
 4 Tithe Taker
+1 Legion's Landing
+2 Legion's Landing
+3 Legion's Landing
+4 Venerated Loxodon
 1 Growth Spiral
 1 Biogenic Ooze
 2 Biogenic Ooze
@@ -51,12 +51,12 @@
 3 Vivien Reid
 3 Growth Spiral
 4 Biogenic Ooze
-1 Ixalan's Binding
 1 The Immortal Sun
+1 Ixalan's Binding
 1 Shalai, Voice of Plenty
 1 Island
-2 Ixalan's Binding
 2 Knight of Autumn
+2 Ixalan's Binding
 2 Shalai, Voice of Plenty
 3 Knight of Autumn
 4 Knight of Autumn

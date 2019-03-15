@@ -29,8 +29,8 @@
 
 |*n*<sup>th</sup> copy|                                        Maindeck Card                                         |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
 |--------------------:|----------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
-|                    1|[Elvish Mystic](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389499)      |                    1|[Relic of Progenitus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174824)|
-|                    1|[Repudiate/Replicate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457371)|                    2|[Relic of Progenitus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174824)|
+|                    1|[Repudiate/Replicate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457371)|                    1|[Relic of Progenitus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174824)|
+|                    1|[Elvish Mystic](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389499)      |                    2|[Relic of Progenitus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174824)|
 |                    2|[Elvish Mystic](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389499)      |                     |                                                                                              |
 |                    2|[Repudiate/Replicate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457371)|                     |                                                                                              |
 |                    3|[Repudiate/Replicate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457371)|                     |                                                                                              |
