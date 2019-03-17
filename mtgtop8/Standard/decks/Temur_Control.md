@@ -92,6 +92,6 @@
 |                    1|[Primal Amulet](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435401)          |                     |                                                                                              |
 |                    1|[Radical Idea](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452802)           |                     |                                                                                              |
 |                    2|[Primal Amulet](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435401)          |                     |                                                                                              |
-|                    3|[Lightning Strike](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383299)       |                     |                                                                                              |
 |                    2|[Radical Idea](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452802)           |                     |                                                                                              |
+|                    3|[Lightning Strike](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383299)       |                     |                                                                                              |
 
