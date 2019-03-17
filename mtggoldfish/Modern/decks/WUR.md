@@ -27,7 +27,7 @@
 
 |*n*<sup>th</sup> copy|Maindeck Card|*n*<sup>th</sup> copy|                                        Sideboard Card                                         |
 |---------------------|-------------|--------------------:|-----------------------------------------------------------------------------------------------|
-|                     |             |                    1|[Ghirapur Aether Grid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=398517)|
 |                     |             |                    1|[Hurkyl's Recall](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=135260)     |
+|                     |             |                    1|[Ghirapur Aether Grid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=398517)|
 |                     |             |                    4|[Monastery Mentor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391883)    |
 
