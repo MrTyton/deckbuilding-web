@@ -1,7 +1,7 @@
 # WhiteWalkers
 
 #### [Export MTGO List](../collection/WhiteWalkers/WhiteWalkers.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=2%09Archangel%20Avacyn%0A1%09Blessed%20Alliance%0A2%09Cast%20Out%0A4%09Chalice%20of%20the%20Void%0A3%09Elspeth,%20Sun's%20Champion%0A4%09Field%20of%20Ruin%0A2%09Gemstone%20Caverns%0A4%09Ghost%20Quarter%0A3%09Gideon%20Jura%0A3%09Gideon%20of%20the%20Trials%0A4%09Gideon,%20Ally%20of%20Zendikar%0A2%09Horizon%20Canopy%0A2%09Journey%20to%20Nowhere%0A4%09Mind%20Stone%0A13%09Plains%0A3%09Settle%20the%20Wreckage%0A4%09Wrath%20of%20God&deckside=3%09Damping%20Sphere%0A2%09Defense%20Grid%0A4%09Leyline%20of%20Sanctity%0A4%09Rest%20in%20Peace%0A2%09Stony%20Silence)
+#### [Print on decklist.org](http://decklist.org/?deckmain=2%09Archangel%20Avacyn%0A1%09Blessed%20Alliance%0A2%09Cast%20Out%0A4%09Chalice%20of%20the%20Void%0A3%09Elspeth,%20Sun's%20Champion%0A4%09Field%20of%20Ruin%0A2%09Gemstone%20Caverns%0A4%09Ghost%20Quarter%0A3%09Gideon%20Jura%0A3%09Gideon%20of%20the%20Trials%0A4%09Gideon,%20Ally%20of%20Zendikar%0A2%09Horizon%20Canopy%0A2%09Journey%20to%20Nowhere%0A4%09Mind%20Stone%0A13%09Plains%0A3%09Settle%20the%20Wreckage%0A4%09Wrath%20of%20God&deckside=1%09Cast%20Out%0A3%09Damping%20Sphere%0A4%09Leyline%20of%20Sanctity%0A4%09Rest%20in%20Peace%0A1%09Secure%20the%20Wastes%0A2%09Stony%20Silence)
 # Maindeck
 
 |                                          Artifact (8)                                          |                                        Creature (2)                                         |                                        Enchantment (4)                                        |                                          Instant (4)                                           |                                          Land (25)                                          |                                          Planeswalker (13)                                          |                                       Sorcery (4)                                       |
@@ -15,19 +15,20 @@
 
 # Sideboard
 
-|                                       Artifact (5)                                        |                                        Enchantment (10)                                        |
-|-------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
-|3 [Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)|4 [Leyline of Sanctity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=204993)|
-|2 [Defense Grid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45481)   |4 [Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)      |
-|                                                                                           |2 [Stony Silence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=247425)      |
+|                                       Artifact (3)                                        |                                        Enchantment (11)                                        |                                         Instant (1)                                          |
+|-------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
+|3 [Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)|1 [Cast Out](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426710)           |1 [Secure the Wastes](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394683)|
+|                                                                                           |4 [Leyline of Sanctity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=204993)|                                                                                              |
+|                                                                                           |4 [Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)      |                                                                                              |
+|                                                                                           |2 [Stony Silence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=247425)      |                                                                                              |
 
 
 # Other Options
 
-|*n*<sup>th</sup> copy|                                        Maindeck Card                                         |*n*<sup>th</sup> copy|                                       Sideboard Card                                       |
-|--------------------:|----------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------|
-|                    1|[Secure the Wastes](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394683)  |                    1|[Secure the Wastes](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394683)|
-|                    2|[Blessed Alliance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414302)   |                    1|[Cast Out](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426710)         |
-|                    3|[Journey to Nowhere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=247547) |                     |                                                                                            |
-|                    4|[Settle the Wreckage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435186)|                     |                                                                                            |
+|*n*<sup>th</sup> copy|                                        Maindeck Card                                         |*n*<sup>th</sup> copy|                                    Sideboard Card                                    |
+|--------------------:|----------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------|
+|                    1|[Secure the Wastes](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394683)  |                    1|[Defense Grid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45481)|
+|                    2|[Blessed Alliance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414302)   |                    2|[Defense Grid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45481)|
+|                    3|[Journey to Nowhere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=247547) |                     |                                                                                      |
+|                    4|[Settle the Wreckage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435186)|                     |                                                                                      |
 
