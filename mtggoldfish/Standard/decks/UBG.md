@@ -30,7 +30,7 @@
 
 |*n*<sup>th</sup> copy|                                         Maindeck Card                                         |*n*<sup>th</sup> copy|                                        Sideboard Card                                         |
 |--------------------:|-----------------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------------|
-|                    1|[Vraska, Relic Seeker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435388)|                    1|[Plaguecrafter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452832)       |
-|                     |                                                                                               |                    1|[Cry of the Carnarium](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457214)|
+|                    1|[Vraska, Relic Seeker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435388)|                    1|[Cry of the Carnarium](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457214)|
+|                     |                                                                                               |                    1|[Plaguecrafter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452832)       |
 |                     |                                                                                               |                    1|[Carnage Tyrant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435334)      |
 

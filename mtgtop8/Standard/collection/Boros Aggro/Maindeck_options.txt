@@ -72,9 +72,9 @@
 1 Detection Tower
 1 Resplendent Angel
 1 Justice Strike
-2 Boros Guildgate
 2 Resplendent Angel
 2 Justice Strike
+2 Boros Guildgate
 2 Ixalan's Binding
 3 Resplendent Angel
 3 Justice Strike
@@ -92,9 +92,13 @@
 2 Divine Visitation
 2 Ajani, Adversary of Tyrants
 4 Legion Warboss
-1 Ajani's Pridemate
-1 Leonin Vanguard
+1 Light Up the Stage
+2 Light Up the Stage
+4 Isolated Chapel
+4 Judith, the Scourge Diva
 1 Chance for Glory
+1 Leonin Vanguard
+1 Ajani's Pridemate
 2 Chance for Glory
 2 Ajani's Pridemate
 2 Leonin Vanguard
@@ -102,13 +106,6 @@
 3 Leonin Vanguard
 4 Ajani's Pridemate
 4 Leonin Vanguard
-1 Act of Treason
-2 Act of Treason
-4 Tajic, Legion's Edge
-1 Light Up the Stage
-2 Light Up the Stage
-4 Isolated Chapel
-4 Judith, the Scourge Diva
 1 Rhythm of the Wild
 1 Rootbound Crag
 1 Growth-Chamber Guardian
@@ -147,6 +144,9 @@
 4 Hero of Precinct One
 4 March of the Multitudes
 4 Footlight Fiend
+1 Act of Treason
+2 Act of Treason
+4 Tajic, Legion's Edge
 1 Goblin Instigator
 1 Swiftblade Vindicator
 1 Angelic Exaltation
@@ -207,8 +207,8 @@
 1 Goblin Chainwhirler
 1 Integrity / Intervention
 1 Goblin Banneret
-2 Lightning Strike
 2 Fanatical Firebrand
+2 Lightning Strike
 2 Runaway Steam-Kin
 2 Viashino Pyromancer
 2 Goblin Chainwhirler
@@ -224,8 +224,8 @@
 3 Goblin Banneret
 3 Integrity / Intervention
 4 Fanatical Firebrand
-4 Runaway Steam-Kin
 4 Viashino Pyromancer
+4 Runaway Steam-Kin
 4 Goblin Chainwhirler
 4 Goblin Banneret
 7 Mountain

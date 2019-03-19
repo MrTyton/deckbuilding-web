@@ -30,8 +30,8 @@
 3 Lightning Bolt
 3 Grove of the Burnwillows
 1 Life from the Loam
-1 Cabal Therapy
 1 Mountain
+1 Cabal Therapy
 1 Kolaghan's Command
 1 Young Pyromancer
 1 Bayou
@@ -54,6 +54,7 @@
 2 Bedlam Reveler
 2 Badlands
 2 Liliana of the Veil
+3 Cabal Therapy
 3 Badlands
 3 Punishing Fire
 3 Assassin's Trophy
@@ -61,12 +62,11 @@
 3 Faithless Looting
 3 Bedlam Reveler
 3 Bloodstained Mire
-3 Cabal Therapy
 3 Hymn to Tourach
-4 Bloodstained Mire
 4 Cabal Therapy
 4 Lightning Bolt
 4 Young Pyromancer
+4 Bloodstained Mire
 4 Faithless Looting
 1 Unmask
 1 Delver of Secrets
@@ -78,8 +78,8 @@
 2 Delver of Secrets
 2 Stitcher's Supplier
 2 Consign / Oblivion
-3 Gurmag Angler
 3 Stitcher's Supplier
+3 Gurmag Angler
 3 Delver of Secrets
 4 Gurmag Angler
 4 Underground Sea
@@ -169,12 +169,12 @@
 1 Rapid Hybridization
 1 Pteramander
 1 Accumulated Knowledge
+2 Stifle
 2 True-Name Nemesis
 2 Spell Pierce
 2 Accumulated Knowledge
 2 Pteramander
 2 Cryptic Serpent
-2 Stifle
 2 Stubborn Denial
 3 Stifle
 3 Pteramander

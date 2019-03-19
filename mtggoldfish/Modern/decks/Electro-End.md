@@ -30,6 +30,6 @@
 |*n*<sup>th</sup> copy|                                        Maindeck Card                                         |*n*<sup>th</sup> copy|                                       Sideboard Card                                       |
 |--------------------:|----------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------|
 |                    1|[Angrath's Marauders](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435286)|                    3|[Anger of the Gods](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438682)|
-|                    2|[Angrath's Marauders](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435286)|                     |                                                                                            |
 |                    3|[Simian Spirit Guide](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442137)|                     |                                                                                            |
+|                    2|[Angrath's Marauders](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435286)|                     |                                                                                            |
 
