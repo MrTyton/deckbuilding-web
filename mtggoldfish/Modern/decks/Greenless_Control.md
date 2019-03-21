@@ -32,7 +32,11 @@
 
 # Other Options
 
-|*n*<sup>th</sup> copy|                                    Maindeck Card                                     |*n*<sup>th</sup> copy|                                     Sideboard Card                                     |
-|--------------------:|--------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------|
-|                    1|[Lightning Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=806)|                    1|[Stony Silence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=247425)|
+|*n*<sup>th</sup> copy|                                    Maindeck Card                                     |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
+|--------------------:|--------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
+|                    1|[Lightning Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=806)|                    1|[Stony Silence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=247425)      |
+|                     |                                                                                      |                    1|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|
+|                     |                                                                                      |                    2|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|
+|                     |                                                                                      |                    3|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|
+|                     |                                                                                      |                    3|[Celestial Purge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=183055)    |
 

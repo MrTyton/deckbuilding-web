@@ -1,7 +1,7 @@
 # BRG
 
 #### [Export MTGO List](../collection/BRG/BRG.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Blackcleave%20Cliffs%0A2%09Blood%20Crypt%0A4%09Bloodstained%20Mire%0A4%09Deadshot%20Minotaur%0A4%09Desert%20Cerodon%0A4%09Electrodominance%0A4%09Faerie%20Macabre%0A4%09Faithless%20Looting%0A4%09Flameblade%20Adept%0A4%09Hollow%20One%0A4%09Living%20End%0A4%09Monstrous%20Carabid%0A6%09Mountain%0A2%09Simian%20Spirit%20Guide%0A4%09Street%20Wraith%0A2%09Urabrask%20the%20Hidden&deckside=2%09Blood%20Moon%0A3%09Collective%20Brutality%0A3%09Fatal%20Push%0A2%09Guttural%20Response%0A3%09Ingot%20Chewer%0A2%09Ravenous%20Trap)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Blackcleave%20Cliffs%0A2%09Blood%20Crypt%0A4%09Bloodstained%20Mire%0A4%09Deadshot%20Minotaur%0A4%09Desert%20Cerodon%0A4%09Electrodominance%0A4%09Faerie%20Macabre%0A4%09Faithless%20Looting%0A4%09Flameblade%20Adept%0A4%09Hollow%20One%0A4%09Living%20End%0A4%09Monstrous%20Carabid%0A6%09Mountain%0A2%09Simian%20Spirit%20Guide%0A4%09Street%20Wraith%0A2%09Urabrask%20the%20Hidden&deckside=2%09Blood%20Moon%0A3%09Collective%20Brutality%0A4%09Fatal%20Push%0A2%09Guttural%20Response%0A3%09Ingot%20Chewer%0A1%09Ravenous%20Trap)
 # Maindeck
 
 |                                         Creature (32)                                          |                                         Instant (4)                                         |                                           Land (16)                                           |                                         Sorcery (8)                                          |
@@ -21,7 +21,14 @@
 
 |                                      Creature (3)                                       |                                   Enchantment (2)                                    |                                         Instant (7)                                          |                                           Sorcery (3)                                           |
 |-----------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
-|3 [Ingot Chewer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389558)|2 [Blood Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45386)|3 [Fatal Push](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423724)       |3 [Collective Brutality](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414380)|
+|3 [Ingot Chewer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389558)|2 [Blood Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45386)|4 [Fatal Push](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423724)       |3 [Collective Brutality](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414380)|
 |                                                                                         |                                                                                      |2 [Guttural Response](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426628)|                                                                                                 |
-|                                                                                         |                                                                                      |2 [Ravenous Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197537)    |                                                                                                 |
+|                                                                                         |                                                                                      |1 [Ravenous Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197537)    |                                                                                                 |
+
+
+# Other Options
+
+|*n*<sup>th</sup> copy|Maindeck Card|*n*<sup>th</sup> copy|                                     Sideboard Card                                     |
+|---------------------|-------------|--------------------:|----------------------------------------------------------------------------------------|
+|                     |             |                    2|[Ravenous Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197537)|
 

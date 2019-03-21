@@ -31,7 +31,7 @@
 
 |*n*<sup>th</sup> copy|Maindeck Card|*n*<sup>th</sup> copy|                                           Sideboard Card                                           |
 |---------------------|-------------|--------------------:|----------------------------------------------------------------------------------------------------|
-|                     |             |                    1|[Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452)        |
 |                     |             |                    1|[Teferi, Hero of Dominaria](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443095)|
+|                     |             |                    1|[Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452)        |
 |                     |             |                    2|[Teferi, Hero of Dominaria](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443095)|
 

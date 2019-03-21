@@ -1,7 +1,7 @@
 # Artifact Charge Ramp
 
 #### [Export MTGO List](../collection/Artifact%20Charge%20Ramp/Artifact%20Charge%20Ramp.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Ancient%20Stirrings%0A4%09Astral%20Cornucopia%0A1%09Blightsteel%20Colossus%0A2%09Buried%20Ruin%0A4%09Chalice%20of%20the%20Void%0A4%09Coretapper%0A4%09Darksteel%20Citadel%0A4%09Everflowing%20Chalice%0A8%09Forest%0A2%09Ghost%20Quarter%0A2%09Inventors'%20Fair%0A4%09Kuldotha%20Forgemaster%0A2%09Lightning%20Greaves%0A4%09Lodestone%20Golem%0A4%09Mox%20Opal%0A1%09Platinum%20Angel%0A4%09Surge%20Node%0A2%09Wurmcoil%20Engine&deckside=4%09Damping%20Sphere%0A2%09Dismember%0A1%09Ensnaring%20Bridge%0A1%09Grafdigger's%20Cage%0A2%09Nature's%20Claim%0A1%09Spellskite%0A1%09Torpor%20Orb%0A1%09Walking%20Ballista%0A2%09Welding%20Jar)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Ancient%20Stirrings%0A4%09Astral%20Cornucopia%0A1%09Blightsteel%20Colossus%0A2%09Buried%20Ruin%0A4%09Chalice%20of%20the%20Void%0A4%09Coretapper%0A4%09Darksteel%20Citadel%0A4%09Everflowing%20Chalice%0A8%09Forest%0A2%09Ghost%20Quarter%0A2%09Inventors'%20Fair%0A4%09Kuldotha%20Forgemaster%0A2%09Lightning%20Greaves%0A4%09Lodestone%20Golem%0A4%09Mox%20Opal%0A1%09Platinum%20Angel%0A4%09Surge%20Node%0A2%09Wurmcoil%20Engine&deckside=4%09Damping%20Sphere%0A2%09Dismember%0A1%09Ensnaring%20Bridge%0A1%09Grafdigger's%20Cage%0A3%09Nature's%20Claim%0A1%09Spellskite%0A1%09Walking%20Ballista%0A2%09Welding%20Jar)
 # Maindeck
 
 |                                         Artifact (22)                                          |                                          Creature (16)                                          |                                          Land (18)                                           |                                         Sorcery (4)                                          |
@@ -16,18 +16,17 @@
 
 # Sideboard
 
-|                                         Artifact (9)                                         |                                        Creature (2)                                         |                                        Instant (4)                                        |
+|                                         Artifact (8)                                         |                                        Creature (2)                                         |                                        Instant (5)                                        |
 |----------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
 |4 [Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)   |1 [Spellskite](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397743)      |2 [Dismember](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382182)     |
-|1 [Ensnaring Bridge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=15866)  |1 [Walking Ballista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423848)|2 [Nature's Claim](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382316)|
+|1 [Ensnaring Bridge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=15866)  |1 [Walking Ballista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423848)|3 [Nature's Claim](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382316)|
 |1 [Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452)|                                                                                             |                                                                                           |
-|1 [Torpor Orb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=233069)       |                                                                                             |                                                                                           |
 |2 [Welding Jar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=48328)       |                                                                                             |                                                                                           |
 
 
 # Other Options
 
-|*n*<sup>th</sup> copy|Maindeck Card|*n*<sup>th</sup> copy|                                     Sideboard Card                                      |
-|---------------------|-------------|--------------------:|-----------------------------------------------------------------------------------------|
-|                     |             |                    3|[Nature's Claim](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382316)|
+|*n*<sup>th</sup> copy|Maindeck Card|*n*<sup>th</sup> copy|                                   Sideboard Card                                    |
+|---------------------|-------------|--------------------:|-------------------------------------------------------------------------------------|
+|                     |             |                    1|[Torpor Orb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=233069)|
 
