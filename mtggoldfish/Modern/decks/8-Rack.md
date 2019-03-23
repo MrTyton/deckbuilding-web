@@ -27,8 +27,8 @@
 
 |*n*<sup>th</sup> copy|                                         Maindeck Card                                         |*n*<sup>th</sup> copy|                                          Sideboard Card                                          |
 |--------------------:|-----------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------------|
-|                    1|[Collective Brutality](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414380)|                    1|[Ratchet Bomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370623)           |
-|                    1|[Delirium Skeins](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107435)     |                    1|[Shadow of Doubt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=83827)         |
+|                    1|[Collective Brutality](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414380)|                    1|[Shadow of Doubt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=83827)         |
+|                    1|[Delirium Skeins](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107435)     |                    1|[Ratchet Bomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370623)           |
 |                    2|[Ensnaring Bridge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=15866)     |                    1|[Asylum Visitor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409846)         |
 |                    3|[Ensnaring Bridge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=15866)     |                    1|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)         |
 |                   16|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)               |                    1|[Death's Shadow](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425889)         |

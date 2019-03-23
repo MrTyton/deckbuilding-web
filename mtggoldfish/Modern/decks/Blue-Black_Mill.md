@@ -34,8 +34,8 @@
 
 |*n*<sup>th</sup> copy|                                        Maindeck Card                                        |*n*<sup>th</sup> copy|                                          Sideboard Card                                          |
 |--------------------:|---------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------------|
-|                    1|[Manic Scribe](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409816)      |                    1|[Bontu's Last Reckoning](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430749) |
-|                    2|[Search for Azcanta](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435226)|                    1|[Night of Souls' Betrayal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=78991)|
+|                    1|[Manic Scribe](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409816)      |                    1|[Night of Souls' Betrayal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=78991)|
+|                    2|[Search for Azcanta](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435226)|                    1|[Bontu's Last Reckoning](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430749) |
 |                    2|[Manic Scribe](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409816)      |                    1|[Murderous Cut](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386613)          |
 |                    3|[Manic Scribe](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409816)      |                    1|[Set Adrift](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386661)             |
 |                    3|[Fatal Push](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423724)        |                    2|[Ensnaring Bridge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=15866)        |
