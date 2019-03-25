@@ -1,7 +1,6 @@
-1 Unbreakable Formation
 3 Tithe Taker
 4 Tithe Taker
-13 Plains
+12 Plains
 1 Aurelia, Exemplar of Justice
 2 Aurelia, Exemplar of Justice
 3 Hunted Witness
@@ -13,37 +12,22 @@
 2 Mountain
 3 Mountain
 4 Mountain
-1 Venerated Loxodon
-2 Venerated Loxodon
-3 Venerated Loxodon
 2 Tocatli Honor Guard
 3 Tocatli Honor Guard
-4 Venerated Loxodon
+13 Plains
 4 Tocatli Honor Guard
 3 Legion Warboss
-1 Snubhorn Sentry
-2 Snubhorn Sentry
-3 Snubhorn Sentry
-4 Snubhorn Sentry
-4 Conclave Tribunal
 2 Tajic, Legion's Edge
 5 Mountain
 1 Lava Coil
 2 Lava Coil
 1 Boros Guildgate
-3 Aurelia, Exemplar of Justice
 3 Lava Coil
 4 Lava Coil
-1 Isolated Chapel
-1 Judith, the Scourge Diva
-1 Godless Shrine
-2 Isolated Chapel
-2 Godless Shrine
-2 Judith, the Scourge Diva
-3 Isolated Chapel
-3 Godless Shrine
-3 Judith, the Scourge Diva
-4 Godless Shrine
+3 Aurelia, Exemplar of Justice
+1 Venerated Loxodon
+2 Venerated Loxodon
+3 Venerated Loxodon
 1 Boros Challenger
 2 Boros Challenger
 3 Boros Challenger
@@ -56,11 +40,16 @@
 3 Temple Garden
 4 Temple Garden
 4 Stomping Ground
-1 Rustwing Falcon
-1 Experimental Frenzy
-1 Kinjalli's Sunwing
-1 Pride of Conquerors
-2 Pride of Conquerors
+1 Isolated Chapel
+1 Judith, the Scourge Diva
+1 Godless Shrine
+2 Isolated Chapel
+2 Godless Shrine
+2 Judith, the Scourge Diva
+3 Isolated Chapel
+3 Godless Shrine
+3 Judith, the Scourge Diva
+4 Godless Shrine
 2 Unbreakable Formation
 3 Unbreakable Formation
 4 Unbreakable Formation
@@ -74,34 +63,42 @@
 3 Ajani's Pridemate
 4 Leonin Vanguard
 4 Ajani's Pridemate
+1 Flower / Flourish
 1 Emmara, Soul of the Accord
 1 Trostani Discordant
-1 Shanna, Sisay's Legacy
 1 March of the Multitudes
+1 Shanna, Sisay's Legacy
 1 Footlight Fiend
 1 Forest
 1 Hero of Precinct One
-1 Flower / Flourish
 2 March of the Multitudes
-2 Emmara, Soul of the Accord
-2 Shanna, Sisay's Legacy
 2 Trostani Discordant
-2 Footlight Fiend
+2 Emmara, Soul of the Accord
 2 Flower / Flourish
+2 Footlight Fiend
+2 Shanna, Sisay's Legacy
 2 Hero of Precinct One
 3 Emmara, Soul of the Accord
+3 Flower / Flourish
 3 Hero of Precinct One
 3 March of the Multitudes
 3 Footlight Fiend
-3 Flower / Flourish
 4 March of the Multitudes
-4 Flower / Flourish
 4 Hero of Precinct One
+4 Flower / Flourish
 4 Footlight Fiend
+1 Rustwing Falcon
+1 Experimental Frenzy
+1 Kinjalli's Sunwing
+4 Venerated Loxodon
 1 Light Up the Stage
+1 Snubhorn Sentry
 2 Light Up the Stage
+2 Snubhorn Sentry
+3 Snubhorn Sentry
 4 Isolated Chapel
 4 Judith, the Scourge Diva
+4 Snubhorn Sentry
 1 Rekindling Phoenix
 1 Shock
 1 Rhythm of the Wild
@@ -118,9 +115,9 @@
 2 Growth-Chamber Guardian
 2 Lyra Dawnbringer
 3 Rekindling Phoenix
-3 Lyra Dawnbringer
 3 Rhythm of the Wild
 3 Sunpetal Grove
+3 Lyra Dawnbringer
 3 Growth-Chamber Guardian
 4 Rekindling Phoenix
 4 Sunpetal Grove
@@ -138,6 +135,7 @@
 3 Goblin Instigator
 3 Angelic Exaltation
 3 Swiftblade Vindicator
+4 Conclave Tribunal
 4 Goblin Instigator
 4 Angelic Exaltation
 4 Boros Challenger
@@ -145,8 +143,8 @@
 1 Carnival / Carnage
 1 Siege-Gang Commander
 1 Bedevil
-1 Kitesail Freebooter
 1 Basilica Bell-Haunt
+1 Kitesail Freebooter
 1 Spawn of Mayhem
 1 Blood Crypt
 1 Theater of Horrors

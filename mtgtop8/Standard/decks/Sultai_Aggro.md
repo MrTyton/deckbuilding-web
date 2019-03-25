@@ -63,8 +63,8 @@
 |                    2|[Assassin's Trophy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452902)    |                     |                                                                                               |
 |                    2|[Carnage Tyrant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435334)       |                     |                                                                                               |
 |                    3|[Carnage Tyrant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435334)       |                     |                                                                                               |
+|                    3|[Vraska's Contempt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435283)    |                     |                                                                                               |
 |                    3|[Incubation Druid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457275)     |                     |                                                                                               |
 |                    4|[Incubation Druid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457275)     |                     |                                                                                               |
 |                    5|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)               |                     |                                                                                               |
-|                    3|[Vraska's Contempt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435283)    |                     |                                                                                               |
 

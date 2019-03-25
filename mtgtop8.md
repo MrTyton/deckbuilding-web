@@ -35,11 +35,11 @@
 
 # Legacy
 
-|                     A                      |                            B                             |                   C                    |
-|--------------------------------------------|----------------------------------------------------------|----------------------------------------|
-|[Belcher](./mtgtop8/Legacy/decks/Belcher.md)|[Cloudpost Ramp](./mtgtop8/Legacy/decks/Cloudpost_Ramp.md)|[Lands](./mtgtop8/Legacy/decks/Lands.md)|
-|[Burn](./mtgtop8/Legacy/decks/Burn.md)      |[Dredge](./mtgtop8/Legacy/decks/Dredge.md)                |[MUD](./mtgtop8/Legacy/decks/MUD.md)    |
+|                     A                      |                            B                             |                   C                    |                               D                                |
+|--------------------------------------------|----------------------------------------------------------|----------------------------------------|----------------------------------------------------------------|
+|[Belcher](./mtgtop8/Legacy/decks/Belcher.md)|[Cloudpost Ramp](./mtgtop8/Legacy/decks/Cloudpost_Ramp.md)|[Lands](./mtgtop8/Legacy/decks/Lands.md)|[Zombi Bombardment](./mtgtop8/Legacy/decks/Zombi_Bombardment.md)|
+|[Burn](./mtgtop8/Legacy/decks/Burn.md)      |[Dredge](./mtgtop8/Legacy/decks/Dredge.md)                |[MUD](./mtgtop8/Legacy/decks/MUD.md)    |                                                                |
 
 
 
-#### Last Updated at 12:35PM on March 24, 2019
+#### Last Updated at 12:31AM on March 25, 2019
