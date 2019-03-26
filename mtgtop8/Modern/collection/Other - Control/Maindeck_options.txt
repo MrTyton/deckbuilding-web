@@ -32,6 +32,7 @@
 1 Swans of Bryn Argoll
 1 Burrenton Forge-Tender
 1 Clifftop Retreat
+2 Sacred Foundry
 2 Light Up the Stage
 2 Clifftop Retreat
 2 Path to Exile
@@ -39,7 +40,6 @@
 2 Burrenton Forge-Tender
 2 Pyroclasm
 2 Rest in Peace
-2 Sacred Foundry
 2 Swans of Bryn Argoll
 2 Lightning Bolt
 2 Volcano Hellion
@@ -56,23 +56,23 @@
 4 Clifftop Retreat
 4 Boros Reckoner
 1 Misty Rainforest
+1 Academy Ruins
 1 Forest
 1 Search for Azcanta
 1 Flooded Grove
-1 Breeding Pool
-1 Academy Ruins
 1 Growth Spiral
 1 Hinterland Harbor
 1 Temple Garden
 1 Pulse of Murasa
 1 Torrential Gearhulk
 1 Logic Knot
-1 Engineered Explosives
 1 Spell Snare
+1 Engineered Explosives
 1 Island
 1 Glen Elendra Archmage
 1 Opt
 1 Cryptic Command
+1 Breeding Pool
 1 Dismember
 1 Remand
 1 Clinging Mists
@@ -143,8 +143,8 @@
 1 Mind Stone
 1 Gideon Jura
 1 Ghost Quarter
-1 Settle the Wreckage
 1 Cast Out
+1 Settle the Wreckage
 1 Elspeth, Sun's Champion
 1 Wrath of God
 1 Blessed Alliance
@@ -187,13 +187,13 @@
 11 Plains
 12 Plains
 13 Plains
-1 Bedevil
 1 Temple of Malice
+1 Bedevil
 1 Liliana, the Last Hope
 1 Graven Cairns
 1 Master of Cruelties
-2 Bedevil
 2 Graven Cairns
+2 Bedevil
 3 Blood Crypt
 3 Bedevil
 4 Collective Brutality

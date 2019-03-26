@@ -28,3 +28,23 @@
 |2 [Thorn of Amethyst](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=140166) |                                                                                           |                                                                                        |
 |1 [Witchbane Orb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=233240)     |                                                                                           |                                                                                        |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                       Maindeck Card                                        |*n*<sup>th</sup> copy|                                          Sideboard Card                                           |
+|--------------------:|--------------------------------------------------------------------------------------------|--------------------:|---------------------------------------------------------------------------------------------------|
+|                    1|[Spine of Ish Sah](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376514) |                    1|[Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)          |
+|                    1|[Thran Dynamo](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220506)     |                    1|[Walking Ballista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423848)        |
+|                    1|[Crystal Vein](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=15413)      |                    1|[Phyrexian Revoker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383343)       |
+|                    1|[Steel Hellkite](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389693)   |                    1|[Traxos, Scourge of Kroog](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443122)|
+|                    1|[Darksteel Citadel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389479)|                    1|[Trinisphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=43545)              |
+|                    1|[Sundering Titan](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442222)  |                    1|[Silent Arbiter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=73598)           |
+|                    2|[Crystal Vein](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=15413)      |                    1|[Hangarback Walker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420600)       |
+|                    2|[Darksteel Citadel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389479)|                    2|[Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)          |
+|                    2|[Thran Dynamo](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220506)     |                    2|[Traxos, Scourge of Kroog](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443122)|
+|                    3|[Cavern of Souls](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278058)  |                    2|[Silent Arbiter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=73598)           |
+|                    3|[Darksteel Citadel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389479)|                    2|[Hangarback Walker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420600)       |
+|                    4|[Wasteland](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413790)        |                     |                                                                                                   |
+|                    4|[Darksteel Citadel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389479)|                     |                                                                                                   |
+|                    4|[Cavern of Souls](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278058)  |                     |                                                                                                   |
+
