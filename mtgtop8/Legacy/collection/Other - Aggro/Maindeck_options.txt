@@ -1,24 +1,6 @@
-4 Misty Rainforest
-1 Jace, the Mind Sculptor
-2 Flooded Strand
-1 Marsh Flats
-1 Dismember
-1 Delver of Secrets
-1 Gurmag Angler
-2 Gurmag Angler
-2 Delver of Secrets
-3 Delver of Secrets
-4 Underground Sea
-4 Yuriko, the Tiger's Shadow
-1 True-Name Nemesis
-3 Wasteland
-1 Echoing Truth
 4 Island
-3 Daze
-3 Mutavault
-3 Thoughtseize
-1 Hymn to Tourach
-2 Hymn to Tourach
+2 Mutavault
+1 Venser, Shaper Savant
 1 Verdant Catacombs
 1 Bitterblossom
 1 Far / Away
@@ -31,12 +13,9 @@
 3 Far / Away
 3 Mothdust Changeling
 3 Spellstutter Sprite
-1 Collective Brutality
-1 Bearer of Silence
-2 Liliana, the Last Hope
-3 Ninja of the Deep Hours
-1 Counterspell
-4 Snapcaster Mage
+1 Bloodstained Mire
+2 Thoughtseize
+3 Thoughtseize
 1 Forest
 1 Wooded Foothills
 1 Taiga
@@ -56,6 +35,7 @@
 1 Young Pyromancer
 1 Bayou
 1 Inquisition of Kozilek
+1 Hymn to Tourach
 1 Pernicious Deed
 1 Badlands
 1 Bedlam Reveler
@@ -66,6 +46,7 @@
 2 Verdant Catacombs
 2 Young Pyromancer
 2 Bloodstained Mire
+2 Hymn to Tourach
 2 Bayou
 2 Faithless Looting
 2 Assassin's Trophy
@@ -89,6 +70,7 @@
 4 Faithless Looting
 1 Unmask
 1 Stitcher's Supplier
+1 Marsh Flats
 1 Consign / Oblivion
 2 Stitcher's Supplier
 2 Consign / Oblivion
@@ -97,6 +79,19 @@
 4 Gurmag Angler
 4 Stitcher's Supplier
 4 Delver of Secrets
+1 Counterspell
+1 Spellseeker
+1 Snapcaster Mage
+1 Diabolic Edict
+1 Liliana, the Last Hope
+2 Spellseeker
+2 Snapcaster Mage
+2 Swamp
+2 Ninja of the Deep Hours
+3 Fatal Push
+3 Snapcaster Mage
+4 Snapcaster Mage
+4 Fatal Push
 1 Volcanic Island
 1 Sylvan Library
 1 Dack Fayden
@@ -210,6 +205,7 @@
 3 Vedalken Aethermage
 3 Dark Confidant
 3 Aether Vial
+3 Mutavault
 4 Cavern of Souls
 4 Flooded Strand
 4 Dark Confidant

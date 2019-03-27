@@ -6,14 +6,14 @@
 
 |                             A                              |                              B                               |                                C                                 |                              D                               |                            E                             |
 |------------------------------------------------------------|--------------------------------------------------------------|------------------------------------------------------------------|--------------------------------------------------------------|----------------------------------------------------------|
-|[Abzan Midrange](./mtgtop8/Standard/decks/Abzan_Midrange.md)|[Grixis Aggro](./mtgtop8/Standard/decks/Grixis_Aggro.md)      |[Mardu Control](./mtgtop8/Standard/decks/Mardu_Control.md)        |[Other - Combo](./mtgtop8/Standard/decks/Other_-_Combo.md)    |[Temur Control](./mtgtop8/Standard/decks/Temur_Control.md)|
-|[Bant Aggro](./mtgtop8/Standard/decks/Bant_Aggro.md)        |[Grixis Control](./mtgtop8/Standard/decks/Grixis_Control.md)  |[Merfolk](./mtgtop8/Standard/decks/Merfolk.md)                    |[Other - Control](./mtgtop8/Standard/decks/Other_-_Control.md)|[UB Control](./mtgtop8/Standard/decks/UB_Control.md)      |
-|[Bant Control](./mtgtop8/Standard/decks/Bant_Control.md)    |[Gruul Aggro](./mtgtop8/Standard/decks/Gruul_Aggro.md)        |[Mono Blue Aggro](./mtgtop8/Standard/decks/Mono_Blue_Aggro.md)    |[Rakdos Aggro](./mtgtop8/Standard/decks/Rakdos_Aggro.md)      |[UR Aggro](./mtgtop8/Standard/decks/UR_Aggro.md)          |
-|[Boros Aggro](./mtgtop8/Standard/decks/Boros_Aggro.md)      |[Jeskai Control](./mtgtop8/Standard/decks/Jeskai_Control.md)  |[Mono Green Aggro](./mtgtop8/Standard/decks/Mono_Green_Aggro.md)  |[Rakdos Control](./mtgtop8/Standard/decks/Rakdos_Control.md)  |[UW Control](./mtgtop8/Standard/decks/UW_Control.md)      |
-|[Dimir Midrange](./mtgtop8/Standard/decks/Dimir_Midrange.md)|[Jeskai Midrange](./mtgtop8/Standard/decks/Jeskai_Midrange.md)|[Naya Aggro](./mtgtop8/Standard/decks/Naya_Aggro.md)              |[Red Deck Wins](./mtgtop8/Standard/decks/Red_Deck_Wins.md)    |[Weenie White](./mtgtop8/Standard/decks/Weenie_White.md)  |
-|[Esper Control](./mtgtop8/Standard/decks/Esper_Control.md)  |[Jund Aggro](./mtgtop8/Standard/decks/Jund_Aggro.md)          |[Nexus Reclamation](./mtgtop8/Standard/decks/Nexus_Reclamation.md)|[Selesnya Aggro](./mtgtop8/Standard/decks/Selesnya_Aggro.md)  |                                                          |
+|[Abzan Midrange](./mtgtop8/Standard/decks/Abzan_Midrange.md)|[Golgari Aggro](./mtgtop8/Standard/decks/Golgari_Aggro.md)    |[Mardu Aggro](./mtgtop8/Standard/decks/Mardu_Aggro.md)            |[Other - Aggro](./mtgtop8/Standard/decks/Other_-_Aggro.md)    |[Temur Aggro](./mtgtop8/Standard/decks/Temur_Aggro.md)    |
+|[Bant Aggro](./mtgtop8/Standard/decks/Bant_Aggro.md)        |[Grixis Aggro](./mtgtop8/Standard/decks/Grixis_Aggro.md)      |[Mardu Control](./mtgtop8/Standard/decks/Mardu_Control.md)        |[Other - Combo](./mtgtop8/Standard/decks/Other_-_Combo.md)    |[Temur Control](./mtgtop8/Standard/decks/Temur_Control.md)|
+|[Bant Control](./mtgtop8/Standard/decks/Bant_Control.md)    |[Grixis Control](./mtgtop8/Standard/decks/Grixis_Control.md)  |[Merfolk](./mtgtop8/Standard/decks/Merfolk.md)                    |[Other - Control](./mtgtop8/Standard/decks/Other_-_Control.md)|[UB Control](./mtgtop8/Standard/decks/UB_Control.md)      |
+|[Boros Aggro](./mtgtop8/Standard/decks/Boros_Aggro.md)      |[Gruul Aggro](./mtgtop8/Standard/decks/Gruul_Aggro.md)        |[Mono Blue Aggro](./mtgtop8/Standard/decks/Mono_Blue_Aggro.md)    |[Rakdos Aggro](./mtgtop8/Standard/decks/Rakdos_Aggro.md)      |[UR Aggro](./mtgtop8/Standard/decks/UR_Aggro.md)          |
+|[Dimir Midrange](./mtgtop8/Standard/decks/Dimir_Midrange.md)|[Jeskai Control](./mtgtop8/Standard/decks/Jeskai_Control.md)  |[Mono Green Aggro](./mtgtop8/Standard/decks/Mono_Green_Aggro.md)  |[Rakdos Control](./mtgtop8/Standard/decks/Rakdos_Control.md)  |[UW Control](./mtgtop8/Standard/decks/UW_Control.md)      |
+|[Esper Control](./mtgtop8/Standard/decks/Esper_Control.md)  |[Jeskai Midrange](./mtgtop8/Standard/decks/Jeskai_Midrange.md)|[Naya Aggro](./mtgtop8/Standard/decks/Naya_Aggro.md)              |[Red Deck Wins](./mtgtop8/Standard/decks/Red_Deck_Wins.md)    |[Weenie White](./mtgtop8/Standard/decks/Weenie_White.md)  |
+|[Esper Midrange](./mtgtop8/Standard/decks/Esper_Midrange.md)|[Jund Aggro](./mtgtop8/Standard/decks/Jund_Aggro.md)          |[Nexus Reclamation](./mtgtop8/Standard/decks/Nexus_Reclamation.md)|[Selesnya Aggro](./mtgtop8/Standard/decks/Selesnya_Aggro.md)  |                                                          |
 |[Gate Control](./mtgtop8/Standard/decks/Gate_Control.md)    |[Jund](./mtgtop8/Standard/decks/Jund.md)                      |[Orzhov Aggro](./mtgtop8/Standard/decks/Orzhov_Aggro.md)          |[Sultai Aggro](./mtgtop8/Standard/decks/Sultai_Aggro.md)      |                                                          |
-|[Golgari Aggro](./mtgtop8/Standard/decks/Golgari_Aggro.md)  |[Mardu Aggro](./mtgtop8/Standard/decks/Mardu_Aggro.md)        |[Other - Aggro](./mtgtop8/Standard/decks/Other_-_Aggro.md)        |[Temur Aggro](./mtgtop8/Standard/decks/Temur_Aggro.md)        |                                                          |
 
 
 # Modern
@@ -43,4 +43,4 @@
 
 
 
-#### Last Updated at 12:36PM on March 26, 2019
+#### Last Updated at 12:34AM on March 27, 2019
