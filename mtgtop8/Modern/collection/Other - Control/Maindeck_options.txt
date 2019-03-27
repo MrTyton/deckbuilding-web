@@ -14,6 +14,7 @@
 4 Plains
 5 Plains
 1 Flooded Strand
+1 Wall of Omens
 1 Light Up the Stage
 1 Marsh Flats
 1 Path to Exile
@@ -21,7 +22,6 @@
 1 Blasphemous Act
 1 Pyroclasm
 1 Worship
-1 Wall of Omens
 1 Spitemare
 1 Pyrohemia
 1 Rest in Peace
@@ -33,6 +33,7 @@
 1 Burrenton Forge-Tender
 1 Clifftop Retreat
 2 Sacred Foundry
+2 Wall of Omens
 2 Light Up the Stage
 2 Clifftop Retreat
 2 Path to Exile
@@ -46,12 +47,11 @@
 2 Boros Reckoner
 2 Pyrohemia
 2 Worship
-2 Wall of Omens
 3 Sacred Foundry
+3 Wall of Omens
 3 Boros Reckoner
 3 Lightning Bolt
 3 Path to Exile
-3 Wall of Omens
 3 Clifftop Retreat
 4 Clifftop Retreat
 4 Boros Reckoner
@@ -62,7 +62,6 @@
 1 Flooded Grove
 1 Growth Spiral
 1 Hinterland Harbor
-1 Temple Garden
 1 Logic Knot
 1 Spell Snare
 1 Engineered Explosives
@@ -72,6 +71,7 @@
 1 Glen Elendra Archmage
 1 Opt
 1 Cryptic Command
+1 Temple Garden
 1 Breeding Pool
 1 Dismember
 1 Remand
@@ -133,11 +133,12 @@
 3 Goblin Rabblemaster
 3 Inspiring Vantage
 3 Legion Warboss
+4 Inspiring Vantage
 4 Legion Warboss
 4 Goblin Rabblemaster
 4 Desperate Ritual
 4 Chandra, Torch of Defiance
-4 Inspiring Vantage
+1 Field of Ruin
 1 Horizon Canopy
 1 Secure the Wastes
 1 Mind Stone
@@ -150,19 +151,18 @@
 1 Blessed Alliance
 1 Archangel Avacyn
 1 Gideon, Ally of Zendikar
-1 Field of Ruin
 1 Journey to Nowhere
 2 Field of Ruin
 2 Mind Stone
 2 Wrath of God
 2 Blessed Alliance
 2 Archangel Avacyn
-2 Settle the Wreckage
 2 Gideon, Ally of Zendikar
 2 Horizon Canopy
 2 Elspeth, Sun's Champion
 2 Ghost Quarter
 2 Journey to Nowhere
+2 Settle the Wreckage
 2 Gideon Jura
 3 Wrath of God
 3 Field of Ruin
