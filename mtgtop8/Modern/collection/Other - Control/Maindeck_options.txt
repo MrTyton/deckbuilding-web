@@ -1,6 +1,6 @@
-2 Fatal Push
-2 Shriekmaw
+2 Verdant Catacombs
 2 Terminate
+2 Shriekmaw
 3 Verdant Catacombs
 4 Verdant Catacombs
 1 Plains
@@ -14,17 +14,17 @@
 4 Plains
 5 Plains
 1 Flooded Strand
-1 Wall of Omens
 1 Light Up the Stage
-1 Marsh Flats
+1 Wall of Omens
 1 Path to Exile
 1 Auriok Champion
+1 Marsh Flats
 1 Blasphemous Act
-1 Pyroclasm
 1 Worship
+1 Rest in Peace
+1 Pyroclasm
 1 Spitemare
 1 Pyrohemia
-1 Rest in Peace
 1 Nahiri's Wrath
 1 Lightning Bolt
 1 Volcano Hellion
@@ -33,13 +33,12 @@
 1 Burrenton Forge-Tender
 1 Clifftop Retreat
 2 Sacred Foundry
-2 Wall of Omens
 2 Light Up the Stage
 2 Clifftop Retreat
+2 Wall of Omens
 2 Path to Exile
 2 Auriok Champion
 2 Burrenton Forge-Tender
-2 Pyroclasm
 2 Rest in Peace
 2 Swans of Bryn Argoll
 2 Lightning Bolt
@@ -47,6 +46,7 @@
 2 Boros Reckoner
 2 Pyrohemia
 2 Worship
+2 Pyroclasm
 3 Sacred Foundry
 3 Wall of Omens
 3 Boros Reckoner
@@ -62,26 +62,27 @@
 1 Flooded Grove
 1 Growth Spiral
 1 Hinterland Harbor
-1 Logic Knot
+1 Pulse of Murasa
 1 Spell Snare
+1 Dismember
 1 Engineered Explosives
 1 Torrential Gearhulk
-1 Pulse of Murasa
+1 Logic Knot
 1 Island
 1 Glen Elendra Archmage
 1 Opt
 1 Cryptic Command
 1 Temple Garden
 1 Breeding Pool
-1 Dismember
 1 Remand
 1 Clinging Mists
 1 Snapcaster Mage
 1 Repudiate / Replicate
-2 Breeding Pool
+2 Torrential Gearhulk
 2 Misty Rainforest
 2 Growth Spiral
 2 Pulse of Murasa
+2 Dismember
 2 Cryptic Command
 2 Remand
 2 Hinterland Harbor
@@ -90,10 +91,9 @@
 2 Island
 2 Temple Garden
 2 Repudiate / Replicate
-2 Dismember
 2 Flooded Grove
-2 Torrential Gearhulk
 2 Flooded Strand
+2 Breeding Pool
 2 Opt
 3 Misty Rainforest
 3 Growth Spiral
@@ -138,7 +138,6 @@
 4 Goblin Rabblemaster
 4 Desperate Ritual
 4 Chandra, Torch of Defiance
-1 Field of Ruin
 1 Horizon Canopy
 1 Secure the Wastes
 1 Mind Stone
@@ -151,6 +150,7 @@
 1 Blessed Alliance
 1 Archangel Avacyn
 1 Gideon, Ally of Zendikar
+1 Field of Ruin
 1 Journey to Nowhere
 2 Field of Ruin
 2 Mind Stone

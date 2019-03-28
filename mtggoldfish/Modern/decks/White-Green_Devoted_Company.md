@@ -1,7 +1,7 @@
 # White-Green Devoted Company
 
 #### [Export MTGO List](../collection/White-Green%20Devoted%20Company/White-Green%20Devoted%20Company.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Chalice%20of%20the%20Void%0A3%09Chord%20of%20Calling%0A4%09Collected%20Company%0A4%09Devoted%20Druid%0A3%09Duskwatch%20Recruiter%0A2%09Eternal%20Witness%0A1%09Ezuri,%20Renegade%20Leader%0A3%09Forest%0A3%09Gemstone%20Caverns%0A4%09Horizon%20Canopy%0A4%09Militia%20Bugler%0A2%09Misty%20Rainforest%0A1%09Overgrown%20Tomb%0A1%09Plains%0A3%09Razorverge%20Thicket%0A4%09Simian%20Spirit%20Guide%0A1%09Temple%20Garden%0A4%09Thalia,%20Guardian%20of%20Thraben%0A4%09Vizier%20of%20Remedies%0A1%09Walking%20Ballista%0A4%09Windswept%20Heath&deckside=2%09Assassin's%20Trophy%0A1%09Kataki,%20War's%20Wage%0A2%09Knight%20of%20Autumn%0A1%09Kor%20Firewalker%0A2%09Postmortem%20Lunge%0A2%09Scavenging%20Ooze%0A1%09Selfless%20Spirit%0A2%09Sin%20Collector%0A2%09Tireless%20Tracker)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Chalice%20of%20the%20Void%0A3%09Chord%20of%20Calling%0A4%09Collected%20Company%0A4%09Devoted%20Druid%0A3%09Duskwatch%20Recruiter%0A2%09Eternal%20Witness%0A1%09Ezuri,%20Renegade%20Leader%0A3%09Forest%0A3%09Gemstone%20Caverns%0A4%09Horizon%20Canopy%0A4%09Militia%20Bugler%0A2%09Misty%20Rainforest%0A1%09Overgrown%20Tomb%0A1%09Plains%0A3%09Razorverge%20Thicket%0A4%09Simian%20Spirit%20Guide%0A1%09Temple%20Garden%0A4%09Thalia,%20Guardian%20of%20Thraben%0A4%09Vizier%20of%20Remedies%0A1%09Walking%20Ballista%0A4%09Windswept%20Heath&deckside=1%09Auriok%20Champion%0A1%09Chameleon%20Colossus%0A1%09Declaration%20in%20Stone%0A1%09Eidolon%20of%20Rhetoric%0A1%09Gaddock%20Teeg%0A1%09Kataki,%20War's%20Wage%0A2%09Knight%20of%20Autumn%0A2%09Postmortem%20Lunge%0A1%09Reclamation%20Sage%0A1%09Scavenging%20Ooze%0A1%09Selfless%20Spirit%0A2%09Tireless%20Tracker)
 # Maindeck
 
 |                                          Artifact (4)                                          |                                             Creature (27)                                              |                                         Instant (7)                                          |                                           Land (22)                                           |
@@ -19,13 +19,28 @@
 
 # Sideboard
 
-|                                         Creature (11)                                         |                                         Instant (2)                                          |                                         Sorcery (2)                                         |
-|-----------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|
-|1 [Kataki, War's Wage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382190)|2 [Assassin's Trophy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452902)|2 [Postmortem Lunge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=233054)|
-|2 [Knight of Autumn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452933)  |                                                                                              |                                                                                             |
-|1 [Kor Firewalker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442010)    |                                                                                              |                                                                                             |
-|2 [Scavenging Ooze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420783)   |                                                                                              |                                                                                             |
-|1 [Selfless Spirit](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414332)   |                                                                                              |                                                                                             |
-|2 [Sin Collector](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=368968)     |                                                                                              |                                                                                             |
-|2 [Tireless Tracker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409997)  |                                                                                              |                                                                                             |
+|                                         Creature (12)                                          |                                           Sorcery (3)                                           |
+|------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
+|1 [Auriok Champion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=72921)     |1 [Declaration in Stone](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409750)|
+|1 [Chameleon Colossus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220451) |2 [Postmortem Lunge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=233054)    |
+|1 [Eidolon of Rhetoric](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=380409)|                                                                                                 |
+|1 [Gaddock Teeg](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=140188)       |                                                                                                 |
+|1 [Kataki, War's Wage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382190) |                                                                                                 |
+|2 [Knight of Autumn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452933)   |                                                                                                 |
+|1 [Reclamation Sage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389651)   |                                                                                                 |
+|1 [Scavenging Ooze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420783)    |                                                                                                 |
+|1 [Selfless Spirit](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414332)    |                                                                                                 |
+|2 [Tireless Tracker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409997)   |                                                                                                 |
+
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                       Maindeck Card                                        |*n*<sup>th</sup> copy|                                       Sideboard Card                                       |
+|--------------------:|--------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------|
+|                    1|[Verdant Catacombs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405113)|                    1|[Assassin's Trophy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452902)|
+|                    2|[Verdant Catacombs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405113)|                    1|[Kor Firewalker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442010)   |
+|                    2|[Temple Garden](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405112)    |                    1|[Sin Collector](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=368968)    |
+|                     |                                                                                            |                    2|[Assassin's Trophy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452902)|
+|                     |                                                                                            |                    2|[Scavenging Ooze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420783)  |
+|                     |                                                                                            |                    2|[Sin Collector](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=368968)    |
 

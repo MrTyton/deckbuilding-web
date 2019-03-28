@@ -1,15 +1,14 @@
-1 Galvanic Blast
-1 Vault Skirge
-1 Springleaf Drum
 1 Cranial Plating
+1 Galvanic Blast
 1 Ornithopter
 1 Memnite
-2 Galvanic Blast
 2 Springleaf Drum
 2 Ornithopter
 2 Vault Skirge
 2 Cranial Plating
+2 Galvanic Blast
 2 Memnite
+2 Blinkmoth Nexus
 3 Vault Skirge
 3 Blinkmoth Nexus
 3 Springleaf Drum
@@ -21,40 +20,40 @@
 4 Blinkmoth Nexus
 4 Vault Skirge
 4 Cranial Plating
-4 Galvanic Blast
 1 Mountain
 1 Spire of Industry
 2 Spire of Industry
 1 Master of Etherium
+4 Galvanic Blast
+1 Throne of Geth
 1 Signal Pest
-1 Experimental Frenzy
-2 Experimental Frenzy
 2 Signal Pest
 3 Signal Pest
 4 Signal Pest
-6 Forest
-1 Spellskite
+1 Experimental Frenzy
+2 Experimental Frenzy
 3 Spire of Industry
-7 Forest
+1 Spellskite
 1 Glimmervoid
-3 Memnite
+6 Forest
+7 Forest
 1 Island
 2 Master of Etherium
+3 Memnite
+1 Etched Champion
+2 Etched Champion
 1 Dismember
 1 Gavony Township
 1 Karn, Scion of Urza
 4 Welding Jar
-1 Evolutionary Leap
+3 Master of Etherium
 3 Experimental Frenzy
 1 Mishra's Bauble
 2 Throne of Geth
 3 Horizon Canopy
 2 Glimmervoid
-1 Etched Champion
-2 Etched Champion
 3 Etched Champion
 3 Llanowar Reborn
-3 Master of Etherium
 4 Master of Etherium
 4 Memnite
 1 Frogmite
@@ -62,11 +61,11 @@
 1 Relic of Progenitus
 2 Relic of Progenitus
 3 Relic of Progenitus
-1 Thoughtcast
 1 Bomat Courier
+1 Thoughtcast
 1 Ensoul Artifact
-2 Thoughtcast
 2 Bomat Courier
+2 Thoughtcast
 2 Ensoul Artifact
 3 Glimmervoid
 1 Darkslick Shores
@@ -81,4 +80,5 @@
 2 Metallic Mimic
 3 Metallic Mimic
 4 Metallic Mimic
+1 Evolutionary Leap
 8 Forest
