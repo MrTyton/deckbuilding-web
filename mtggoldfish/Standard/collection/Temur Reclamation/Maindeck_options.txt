@@ -1,9 +1,12 @@
+4 Opt
+3 Island
+1 Root Snare
+1 Nexus of Fate
 2 Root Snare
 2 Nexus of Fate
 3 Search for Azcanta
 3 Nexus of Fate
 4 Nexus of Fate
-3 Island
 3 Root Snare
 4 Root Snare
 1 Memorial to Genius
@@ -13,12 +16,9 @@
 4 Island
 2 Memorial to Genius
 3 Memorial to Genius
-1 Fiery Cannonade
-2 Fiery Cannonade
 4 Forest
 4 Memorial to Genius
 5 Island
-4 Shivan Fire
 4 Sinister Sabotage
 1 Syncopate
 2 Syncopate
@@ -37,7 +37,6 @@
 1 Spell Pierce
 4 Rootbound Crag
 2 Simic Guildgate
-1 Anticipate
 1 Frilled Mystic
 3 Niv-Mizzet, Parun
 1 Lightning Strike
@@ -47,8 +46,7 @@
 2 Temple Garden
 3 Depose/Deploy
 1 Negate
-2 Anticipate
-3 Anticipate
+1 Anticipate
 2 Frilled Mystic
 1 Lava Coil
 2 Lava Coil
@@ -59,11 +57,12 @@
 1 Woodland Stream
 2 Arch of Orazca
 2 Mountain
+2 Anticipate
+3 Anticipate
 1 Ionize
 2 Ionize
 3 Ionize
 3 Lightning Strike
-4 Anticipate
 1 Chart a Course
 2 Chart a Course
 3 Chart a Course
