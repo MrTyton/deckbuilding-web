@@ -48,8 +48,8 @@
 |                    3|[Concealed Courtyard](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417818)|                     |                                                                                              |
 |                    3|[Auriok Champion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=72921)     |                     |                                                                                              |
 |                    3|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)             |                     |                                                                                              |
+|                    4|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)             |                     |                                                                                              |
 |                    4|[Auriok Champion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=72921)     |                     |                                                                                              |
 |                    4|[Spectral Procession](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389685)|                     |                                                                                              |
-|                    4|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)             |                     |                                                                                              |
 |                    4|[Concealed Courtyard](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417818)|                     |                                                                                              |
 
