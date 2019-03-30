@@ -26,8 +26,8 @@
 
 |*n*<sup>th</sup> copy|                                        Maindeck Card                                         |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
 |--------------------:|----------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
-|                    4|[Goblin Chainwhirler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443017)|                    3|[Treasure Map](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435410)       |
-|                    1|[Skewer the Critics](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457259) |                    1|[Fiery Cannonade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435297)    |
+|                    4|[Goblin Chainwhirler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443017)|                    1|[Fiery Cannonade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435297)    |
+|                    1|[Skewer the Critics](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457259) |                    3|[Treasure Map](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435410)       |
 |                    1|[Risk Factor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452863)        |                    1|[Banefire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=186613)           |
 |                    2|[Skewer the Critics](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457259) |                    1|[Fight with Fire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443007)    |
 |                    2|[Risk Factor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452863)        |                    2|[Fiery Cannonade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435297)    |

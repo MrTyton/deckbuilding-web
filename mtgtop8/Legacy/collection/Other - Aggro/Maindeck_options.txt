@@ -4,9 +4,9 @@
 1 Forest
 1 Punishing Fire
 1 Grove of the Burnwillows
+1 Lightning Bolt
 1 Wooded Foothills
 1 Taiga
-1 Lightning Bolt
 2 Grove of the Burnwillows
 2 Punishing Fire
 2 Lightning Bolt
@@ -73,26 +73,26 @@
 1 Scalding Tarn
 1 Dack Fayden
 1 Tropical Island
-1 Shardless Agent
-1 Noble Hierarch
 1 Ancestral Vision
+1 Noble Hierarch
+1 Shardless Agent
 1 Guided Passage
 1 Bloodbraid Elf
 1 Tarmogoyf
 1 Jace, the Mind Sculptor
 2 Scalding Tarn
+2 Volcanic Island
 2 Noble Hierarch
 2 Tropical Island
-2 Shardless Agent
 2 Ancestral Vision
+2 Shardless Agent
 2 Guided Passage
 2 Bloodbraid Elf
 2 Tarmogoyf
-2 Volcanic Island
 3 Scalding Tarn
 3 Tropical Island
-3 Shardless Agent
 3 Ancestral Vision
+3 Shardless Agent
 3 Guided Passage
 3 Bloodbraid Elf
 3 Tarmogoyf
@@ -181,16 +181,15 @@
 2 Vedalken Aethermage
 2 Cursecatcher
 2 Cavern of Souls
-3 Cavern of Souls
 3 Flooded Strand
 3 Cursecatcher
 3 Patron Wizard
 3 Sage of Epityr
 3 Vedalken Aethermage
 3 Dark Confidant
+3 Cavern of Souls
 3 Aether Vial
 3 Mutavault
-4 Cavern of Souls
 4 Flooded Strand
 4 Dark Confidant
 4 Aether Vial
@@ -198,4 +197,5 @@
 4 Sage of Epityr
 4 Patron Wizard
 4 Cursecatcher
+4 Cavern of Souls
 4 Mutavault

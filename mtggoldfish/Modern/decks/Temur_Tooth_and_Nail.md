@@ -31,9 +31,20 @@
 
 # Other Options
 
-|*n*<sup>th</sup> copy|                                      Maindeck Card                                       |*n*<sup>th</sup> copy|                                       Sideboard Card                                       |
-|--------------------:|------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------|
-|                    1|[Scavenging Ooze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420783)|                    1|[Ravenous Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197537)    |
-|                    1|[Panglacial Wurm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121264)|                    1|[Disdainful Stroke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420705)|
-|                    2|[Stomping Ground](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405110)|                     |                                                                                            |
+|*n*<sup>th</sup> copy|                                        Maindeck Card                                        |*n*<sup>th</sup> copy|                                       Sideboard Card                                        |
+|--------------------:|---------------------------------------------------------------------------------------------|--------------------:|---------------------------------------------------------------------------------------------|
+|                    1|[Scavenging Ooze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420783)   |                    1|[Ravenous Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197537)     |
+|                    1|[Panglacial Wurm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121264)   |                    1|[Disdainful Stroke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420705) |
+|                    2|[Stomping Ground](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405110)   |                    1|[Creeping Corrosion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=214029)|
+|                    1|[Hydroid Krasis](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457327)    |                    2|[Crumble to Dust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401850)   |
+|                    2|[Misty Rainforest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405102)  |                    2|[Ravenous Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197537)     |
+|                    2|[Verdant Catacombs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405113) |                    3|[Trinisphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=43545)        |
+|                    2|[Hydroid Krasis](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457327)    |                     |                                                                                             |
+|                    3|[Misty Rainforest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405102)  |                     |                                                                                             |
+|                    3|[Hydroid Krasis](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457327)    |                     |                                                                                             |
+|                    3|[Garruk Wildspeaker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=247323)|                     |                                                                                             |
+|                    3|[Birds of Paradise](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129906) |                     |                                                                                             |
+|                    4|[Misty Rainforest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405102)  |                     |                                                                                             |
+|                    4|[Birds of Paradise](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129906) |                     |                                                                                             |
+|                    7|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)            |                     |                                                                                             |
 

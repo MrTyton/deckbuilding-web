@@ -31,3 +31,11 @@
 |                                                                                                |1 [Swan Song](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420715)            |                                                                                             |
 |                                                                                                |1 [Wear/Tear](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=368950)            |                                                                                             |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|Maindeck Card|*n*<sup>th</sup> copy|                                      Sideboard Card                                       |
+|---------------------|-------------|--------------------:|-------------------------------------------------------------------------------------------|
+|                     |             |                    1|[Detention Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=270356)|
+|                     |             |                    1|[Fiery Justice](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376332)   |
+

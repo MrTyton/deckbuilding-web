@@ -1,17 +1,16 @@
-3 True-Name Nemesis
-1 Misty Rainforest
+3 Island
 3 Spell Pierce
 1 Light Up the Stage
 2 Light Up the Stage
 4 Young Pyromancer
+3 True-Name Nemesis
 3 Polluted Delta
 2 Flooded Strand
 3 Light Up the Stage
 1 Wooded Foothills
-1 Arid Mesa
 3 Flooded Strand
+1 Arid Mesa
 1 Abrade
-2 Preordain
 1 Underground Sea
 1 Stifle
 1 Spell Snare
@@ -19,6 +18,7 @@
 3 Stifle
 1 Grim Lavamancer
 2 Forked Bolt
+2 Preordain
 2 Misty Rainforest
 1 Inquisition of Kozilek
 1 Dark Confidant
@@ -31,6 +31,28 @@
 3 Dark Confidant
 3 Underground Sea
 4 Volcanic Island
+1 Manamorphose
+1 Thought Scour
+1 Arclight Phoenix
+1 Steam Vents
+1 Faithless Looting
+1 Gut Shot
+1 Lava Dart
+2 Manamorphose
+2 Thought Scour
+2 Arclight Phoenix
+2 Faithless Looting
+2 Gut Shot
+2 Steam Vents
+3 Manamorphose
+3 Thought Scour
+3 Arclight Phoenix
+3 Faithless Looting
+4 Manamorphose
+4 Thought Scour
+4 Faithless Looting
+4 Arclight Phoenix
+4 Flooded Strand
 1 Noble Hierarch
 1 Tropical Island
 1 Hooting Mandrills
@@ -40,8 +62,5 @@
 2 Tropical Island
 3 Noble Hierarch
 3 Tropical Island
-3 Hooting Mandrills
 4 Stifle
-3 Preordain
-4 Preordain
-4 True-Name Nemesis
+3 Hooting Mandrills
