@@ -1,16 +1,16 @@
-2 Forest
-3 Forest
-4 Island
-1 Memorial to Genius
-4 Forest
-2 Memorial to Genius
-3 Memorial to Genius
-4 Expansion/Explosion
-3 Rootbound Crag
-1 Shivan Fire
 2 Shivan Fire
 3 Shivan Fire
 1 Mountain
+3 Root Snare
+4 Root Snare
+1 Forest
+2 Forest
+3 Forest
+1 Memorial to Genius
+4 Island
+4 Forest
+2 Memorial to Genius
+3 Memorial to Genius
 4 Memorial to Genius
 5 Island
 1 Niv-Mizzet, Parun
@@ -22,12 +22,12 @@
 1 Hydroid Krasis
 2 Hydroid Krasis
 5 Forest
-4 Sinister Sabotage
 6 Island
 6 Forest
+4 Sinister Sabotage
 1 Syncopate
-2 Syncopate
 1 Arch of Orazca
+2 Syncopate
 3 Blink of an Eye
 3 Hydroid Krasis
 1 Simic Guildgate
@@ -92,6 +92,13 @@
 2 Ionize
 3 Ionize
 3 Lightning Strike
+1 Enigma Drake
+1 Crackling Drake
+2 Enigma Drake
+2 Crackling Drake
+3 Enigma Drake
+3 Crackling Drake
+4 Enigma Drake
 1 Boros Guildgate
 2 Selesnya Guildgate
 2 Spell Pierce
@@ -104,13 +111,6 @@
 2 Chart a Course
 3 Chart a Course
 4 Chart a Course
-1 Crackling Drake
-1 Enigma Drake
-2 Enigma Drake
-2 Crackling Drake
-3 Enigma Drake
-3 Crackling Drake
-4 Enigma Drake
 1 Dimir Guildgate
 1 Gateway Plaza
 1 Gate Colossus

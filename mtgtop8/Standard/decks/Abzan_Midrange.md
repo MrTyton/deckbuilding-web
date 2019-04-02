@@ -30,8 +30,8 @@
 
 |*n*<sup>th</sup> copy|                                          Maindeck Card                                           |*n*<sup>th</sup> copy|                                        Sideboard Card                                         |
 |--------------------:|--------------------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------------|
-|                    1|[Resplendent Angel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447170)      |                    1|[Kaya, Orzhov Usurper](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457330)|
-|                    1|[Shalai, Voice of Plenty](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442923)|                    1|[Cry of the Carnarium](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457214)|
+|                    1|[Shalai, Voice of Plenty](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442923)|                    1|[Kaya, Orzhov Usurper](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457330)|
+|                    1|[Resplendent Angel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447170)      |                    1|[Cry of the Carnarium](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457214)|
 |                    1|[Lyra Dawnbringer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442914)       |                    1|[Kaya's Wrath](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457331)        |
 |                    1|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)                  |                    1|[Moment of Craving](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439736)   |
 |                    1|[Assassin's Trophy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452902)      |                    2|[Carnage Tyrant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435334)      |

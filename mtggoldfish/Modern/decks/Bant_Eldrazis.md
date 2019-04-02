@@ -1,7 +1,7 @@
 # Bant Eldrazis
 
 #### [Export MTGO List](../collection/Bant%20Eldrazis/Bant%20Eldrazis.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Ancient%20Stirrings%0A1%09Breeding%20Pool%0A4%09Brushland%0A4%09Cavern%20of%20Souls%0A4%09Drowner%20of%20Hope%0A4%09Eldrazi%20Displacer%0A4%09Eldrazi%20Skyspawner%0A4%09Eldrazi%20Temple%0A2%09Engineered%20Explosives%0A1%09Forest%0A1%09Hallowed%20Fountain%0A1%09Island%0A4%09Noble%20Hierarch%0A3%09Path%20to%20Exile%0A1%09Plains%0A4%09Reality%20Smasher%0A1%09Temple%20Garden%0A3%09Thalia,%20Guardian%20of%20Thraben%0A4%09Thought-Knot%20Seer%0A4%09Windswept%20Heath%0A2%09Yavimaya%20Coast&deckside=1%09Deputy%20of%20Detention%0A1%09Grafdigger's%20Cage%0A2%09Knight%20of%20Autumn%0A1%09Path%20to%20Exile%0A2%09Rest%20in%20Peace%0A2%09Stony%20Silence%0A4%09Stubborn%20Denial%0A2%09Teferi,%20Hero%20of%20Dominaria)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Ancient%20Stirrings%0A1%09Breeding%20Pool%0A4%09Brushland%0A4%09Cavern%20of%20Souls%0A4%09Drowner%20of%20Hope%0A4%09Eldrazi%20Displacer%0A4%09Eldrazi%20Skyspawner%0A4%09Eldrazi%20Temple%0A2%09Engineered%20Explosives%0A1%09Forest%0A1%09Hallowed%20Fountain%0A1%09Island%0A4%09Noble%20Hierarch%0A3%09Path%20to%20Exile%0A1%09Plains%0A4%09Reality%20Smasher%0A1%09Temple%20Garden%0A3%09Thalia,%20Guardian%20of%20Thraben%0A4%09Thought-Knot%20Seer%0A4%09Windswept%20Heath%0A2%09Yavimaya%20Coast&deckside=1%09Deputy%20of%20Detention%0A3%09Knight%20of%20Autumn%0A1%09Path%20to%20Exile%0A4%09Rest%20in%20Peace%0A2%09Stony%20Silence%0A4%09Stubborn%20Denial)
 # Maindeck
 
 |                                          Artifact (2)                                           |                                             Creature (27)                                              |                                       Instant (3)                                        |                                          Land (24)                                          |                                         Sorcery (4)                                          |
@@ -21,17 +21,17 @@
 
 # Sideboard
 
-|                                         Artifact (1)                                         |                                          Creature (3)                                          |                                     Enchantment (4)                                      |                                        Instant (5)                                         |                                           Planeswalker (2)                                           |
-|----------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|
-|1 [Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452)|1 [Deputy of Detention](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457309)|2 [Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)|1 [Path to Exile](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220511)  |2 [Teferi, Hero of Dominaria](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443095)|
-|                                                                                              |2 [Knight of Autumn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452933)   |2 [Stony Silence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=247425)|4 [Stubborn Denial](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386673)|                                                                                                      |
+|                                          Creature (4)                                          |                                     Enchantment (6)                                      |                                        Instant (5)                                         |
+|------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
+|1 [Deputy of Detention](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457309)|4 [Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)|1 [Path to Exile](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220511)  |
+|3 [Knight of Autumn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452933)   |2 [Stony Silence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=247425)|4 [Stubborn Denial](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386673)|
 
 
 # Other Options
 
-|*n*<sup>th</sup> copy|Maindeck Card|*n*<sup>th</sup> copy|                                      Sideboard Card                                       |
-|---------------------|-------------|--------------------:|-------------------------------------------------------------------------------------------|
-|                     |             |                    3|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)   |
-|                     |             |                    4|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)   |
-|                     |             |                    3|[Knight of Autumn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452933)|
+|*n*<sup>th</sup> copy|Maindeck Card|*n*<sup>th</sup> copy|                                           Sideboard Card                                           |
+|---------------------|-------------|--------------------:|----------------------------------------------------------------------------------------------------|
+|                     |             |                    1|[Teferi, Hero of Dominaria](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443095)|
+|                     |             |                    1|[Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452)        |
+|                     |             |                    2|[Teferi, Hero of Dominaria](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443095)|
 
