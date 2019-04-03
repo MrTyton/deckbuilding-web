@@ -47,7 +47,7 @@
 |                    1|[Ghostly Prison](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420683)         |                    2|[Smuggler's Copter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417808)       |
 |                    1|[Elspeth, Knight-Errant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174859) |                    2|[Runed Halo](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=154005)              |
 |                    1|[Mutavault](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370733)              |                    2|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)     |
-|                    2|[Ghostly Prison](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420683)         |                    2|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)           |
-|                    4|[Thraben Inspector](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409784)      |                    2|[Celestial Purge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=183055)         |
+|                    2|[Ghostly Prison](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420683)         |                    2|[Celestial Purge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=183055)         |
+|                    4|[Thraben Inspector](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409784)      |                    2|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)           |
 |                    3|[Wrath of God](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129808)           |                    3|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)           |
 

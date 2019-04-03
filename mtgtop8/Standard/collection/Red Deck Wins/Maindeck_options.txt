@@ -2,6 +2,7 @@
 19 Mountain
 3 Experimental Frenzy
 20 Mountain
+3 Risk Factor
 1 Rix Maadi Reveler
 1 Dragonskull Summit
 1 Blood Crypt
@@ -14,7 +15,6 @@
 4 Rix Maadi Reveler
 4 Dragonskull Summit
 4 Blood Crypt
-3 Risk Factor
 1 Stomping Ground
 1 Rootbound Crag
 2 Stomping Ground
@@ -26,17 +26,17 @@
 4 Experimental Frenzy
 4 Risk Factor
 1 Rekindling Phoenix
-1 Carnival / Carnage
 1 The Flame of Keld
 21 Mountain
+4 Skewer the Critics
+2 Rekindling Phoenix
+1 Carnival / Carnage
+1 Theater of Horrors
+2 Theater of Horrors
 1 Legion Warboss
 2 Carnival / Carnage
 2 Legion Warboss
 3 Legion Warboss
-4 Skewer the Critics
-2 Rekindling Phoenix
-1 Theater of Horrors
-2 Theater of Horrors
 1 Banefire
 1 Collision / Colossus
 2 Banefire
@@ -47,9 +47,6 @@
 2 Electrostatic Field
 3 Electrostatic Field
 4 Electrostatic Field
-3 Carnival / Carnage
-4 Carnival / Carnage
-4 Legion Warboss
 1 Treasure Map
 1 Dire Fleet Daredevil
 1 Cast Down
@@ -60,8 +57,8 @@
 1 Swamp
 1 Lava Coil
 2 Rakdos Guildgate
-2 The Eldest Reborn
 2 Treasure Map
+2 The Eldest Reborn
 2 Siege-Gang Commander
 2 Dire Fleet Daredevil
 2 Cast Down

@@ -1,4 +1,4 @@
-3 Spellstutter Sprite
+3 Mothdust Changeling
 2 Wasteland
 1 Thoughtseize
 1 Forest
@@ -36,10 +36,10 @@
 2 Bloodstained Mire
 2 Faithless Looting
 2 Verdant Catacombs
+2 Cabal Therapy
 2 Bayou
 2 Assassin's Trophy
 2 Bedlam Reveler
-2 Cabal Therapy
 2 Badlands
 3 Punishing Fire
 3 Badlands
@@ -57,8 +57,6 @@
 4 Young Pyromancer
 4 Faithless Looting
 1 Sylvan Library
-1 Umezawa's Jitte
-1 Karakas
 1 Tireless Tracker
 1 Maze of Ith
 1 Dark Depths
@@ -71,8 +69,9 @@
 1 Knight of the Reliquary
 1 Scavenging Ooze
 1 Batterskull
-1 Ramunap Excavator
+1 Umezawa's Jitte
 1 Dryad Arbor
+1 Karakas
 1 Windswept Heath
 1 Savannah
 1 Mox Diamond
@@ -81,6 +80,7 @@
 1 Green Sun's Zenith
 1 Knight of Autumn
 1 Chalice of the Void
+1 Ramunap Excavator
 2 Forest
 2 Thalia, Guardian of Thraben
 2 Knight of the Reliquary
@@ -92,16 +92,16 @@
 2 Dismember
 2 Chalice of the Void
 2 Mox Diamond
-3 Savannah
 3 Knight of the Reliquary
+3 Savannah
 3 Thalia, Guardian of Thraben
 3 Stoneforge Mystic
+3 Sylvan Library
 3 Wasteland
 3 Windswept Heath
 3 Mox Diamond
-3 Green Sun's Zenith
-3 Sylvan Library
 3 Chalice of the Void
+3 Green Sun's Zenith
 4 Knight of the Reliquary
 4 Thalia, Guardian of Thraben
 4 Chalice of the Void
@@ -121,7 +121,6 @@
 4 Gurmag Angler
 4 Stitcher's Supplier
 4 Delver of Secrets
-1 Volcanic Island
 1 Scalding Tarn
 1 Dack Fayden
 1 Tropical Island
@@ -132,6 +131,7 @@
 1 Bloodbraid Elf
 1 Tarmogoyf
 1 Jace, the Mind Sculptor
+1 Volcanic Island
 2 Scalding Tarn
 2 Volcanic Island
 2 Noble Hierarch
@@ -146,56 +146,10 @@
 3 Ancestral Vision
 3 Tarmogoyf
 3 Shardless Agent
+3 Noble Hierarch
 3 Guided Passage
 3 Bloodbraid Elf
 3 Wooded Foothills
-3 Noble Hierarch
 4 Tarmogoyf
 4 Bloodbraid Elf
 4 Noble Hierarch
-1 Flooded Strand
-1 Master of Waves
-1 Tundra
-1 Grim Lavamancer
-1 Izzet Staticaster
-1 Venser, Shaper Savant
-1 Meddling Mage
-1 Vendilion Clique
-1 Sower of Temptation
-1 Dark Confidant
-1 Aether Vial
-1 Vedalken Aethermage
-1 Cavern of Souls
-1 Azami, Lady of Scrolls
-1 Patron Wizard
-1 Cursecatcher
-1 Sage of Epityr
-1 Voidmage Prodigy
-2 Island
-2 Umezawa's Jitte
-2 Flooded Strand
-2 Dark Confidant
-2 Aether Vial
-2 Patron Wizard
-2 Sage of Epityr
-2 Vedalken Aethermage
-2 Cursecatcher
-2 Cavern of Souls
-3 Flooded Strand
-3 Cavern of Souls
-3 Dark Confidant
-3 Cursecatcher
-3 Patron Wizard
-3 Sage of Epityr
-3 Vedalken Aethermage
-3 Aether Vial
-3 Mutavault
-4 Flooded Strand
-4 Cavern of Souls
-4 Dark Confidant
-4 Aether Vial
-4 Vedalken Aethermage
-4 Sage of Epityr
-4 Patron Wizard
-4 Cursecatcher
-4 Mutavault
