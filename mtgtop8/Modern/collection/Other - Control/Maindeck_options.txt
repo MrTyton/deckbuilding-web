@@ -33,8 +33,8 @@
 2 Sacred Foundry
 1 Purphoros, God of the Forge
 1 Windswept Heath
-1 Ramunap Ruins
 1 Pyretic Ritual
+1 Ramunap Ruins
 2 Rugged Prairie
 2 Ramunap Ruins
 3 Ramunap Ruins
@@ -53,9 +53,11 @@
 4 Verdant Catacombs
 4 Plains
 5 Plains
-1 Light Up the Stage
 1 Path to Exile
+2 Path to Exile
+3 Path to Exile
 1 Wall of Omens
+1 Light Up the Stage
 1 Auriok Champion
 1 Worship
 1 Pyroclasm
@@ -71,27 +73,29 @@
 1 Burrenton Forge-Tender
 1 Clifftop Retreat
 2 Clifftop Retreat
+2 Wall of Omens
 2 Light Up the Stage
 2 Burrenton Forge-Tender
-2 Wall of Omens
-2 Path to Exile
 2 Auriok Champion
 2 Pyroclasm
 2 Rest in Peace
 2 Swans of Bryn Argoll
 2 Lightning Bolt
-2 Volcano Hellion
 2 Boros Reckoner
 2 Pyrohemia
 2 Worship
+2 Volcano Hellion
 3 Sacred Foundry
 3 Wall of Omens
-3 Path to Exile
 3 Boros Reckoner
 3 Lightning Bolt
 3 Clifftop Retreat
 4 Clifftop Retreat
 4 Boros Reckoner
+1 Island
+2 Island
+3 Island
+4 Island
 1 Misty Rainforest
 1 Forest
 1 Academy Ruins
@@ -106,7 +110,6 @@
 1 Logic Knot
 1 Pulse of Murasa
 1 Dismember
-1 Island
 1 Glen Elendra Archmage
 1 Opt
 1 Cryptic Command
@@ -123,7 +126,6 @@
 2 Hinterland Harbor
 2 Search for Azcanta
 2 Spell Snare
-2 Island
 2 Temple Garden
 2 Repudiate / Replicate
 2 Dismember
@@ -140,17 +142,15 @@
 3 Torrential Gearhulk
 3 Repudiate / Replicate
 3 Opt
-3 Island
 3 Cryptic Command
 3 Hinterland Harbor
 4 Flooded Strand
 4 Growth Spiral
-4 Repudiate / Replicate
 4 Misty Rainforest
 4 Remand
 4 Opt
 4 Cryptic Command
-4 Island
+4 Repudiate / Replicate
 1 Wooded Foothills
 1 Inspiring Vantage
 1 Sarkhan, Fireblood
@@ -158,20 +158,25 @@
 2 Sarkhan, Fireblood
 3 Inspiring Vantage
 4 Inspiring Vantage
+1 Cast Out
+1 Field of Ruin
+6 Plains
+7 Plains
+8 Plains
+9 Plains
+10 Plains
 1 Mind Stone
 1 Gideon Jura
 1 Secure the Wastes
 1 Ghost Quarter
-1 Cast Out
 1 Settle the Wreckage
 1 Wrath of God
 1 Horizon Canopy
 1 Elspeth, Sun's Champion
 1 Journey to Nowhere
-1 Blessed Alliance
 1 Archangel Avacyn
+1 Blessed Alliance
 1 Gideon, Ally of Zendikar
-1 Field of Ruin
 2 Field of Ruin
 2 Horizon Canopy
 2 Mind Stone
@@ -187,9 +192,9 @@
 3 Wrath of God
 3 Field of Ruin
 3 Journey to Nowhere
+3 Settle the Wreckage
 3 Ghost Quarter
 3 Gideon, Ally of Zendikar
-3 Settle the Wreckage
 3 Elspeth, Sun's Champion
 3 Gideon Jura
 3 Mind Stone
@@ -198,12 +203,48 @@
 4 Wrath of God
 4 Mind Stone
 4 Gideon, Ally of Zendikar
-6 Plains
-7 Plains
-8 Plains
-9 Plains
-10 Plains
+4 Ghost Quarter
 11 Plains
 12 Plains
 13 Plains
-4 Ghost Quarter
+1 Runed Halo
+1 Supreme Verdict
+1 Nevermore
+1 Glacial Fortress
+1 Ghostly Prison
+1 Gideon's Intervention
+1 Spreading Seas
+1 Detention Sphere
+1 Temple of Enlightenment
+1 Negate
+1 Aetherling
+1 Faerie Conclave
+1 Sphere of Safety
+2 Detention Sphere
+2 Supreme Verdict
+2 Negate
+2 Runed Halo
+2 Spreading Seas
+2 Glacial Fortress
+2 Temple of Enlightenment
+2 Gideon's Intervention
+2 Faerie Conclave
+2 Cast Out
+2 Aetherling
+2 Ghostly Prison
+2 Nevermore
+2 Sphere of Safety
+3 Glacial Fortress
+3 Spreading Seas
+3 Ghostly Prison
+3 Runed Halo
+3 Temple of Enlightenment
+3 Detention Sphere
+3 Nevermore
+4 Glacial Fortress
+4 Path to Exile
+4 Spreading Seas
+4 Nevermore
+4 Detention Sphere
+4 Ghostly Prison
+5 Island

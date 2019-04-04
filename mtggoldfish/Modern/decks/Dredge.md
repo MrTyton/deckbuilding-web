@@ -69,6 +69,6 @@
 |                    2|[Snow-Covered Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121233)   |                     |                                                                                               |
 |                    3|[Conflagrate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=114909)             |                     |                                                                                               |
 |                    3|[Golgari Thug](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=292953)            |                     |                                                                                               |
-|                    4|[Scalding Tarn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405107)           |                     |                                                                                               |
 |                    4|[Golgari Thug](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=292953)            |                     |                                                                                               |
+|                    4|[Scalding Tarn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405107)           |                     |                                                                                               |
 

@@ -16,10 +16,10 @@
 3 Profane Memento
 1 Steam Vents
 1 Ionize
-1 Cryptic Command
 1 Serum Visions
 1 Blood Crypt
 1 Kolaghan's Command
+1 Cryptic Command
 1 Bloodstained Mire
 1 Mountain
 1 Cremate
@@ -33,24 +33,24 @@
 1 Jace, Vryn's Prodigy
 2 Jace, Vryn's Prodigy
 2 Ionize
-2 Snapcaster Mage
-2 Cryptic Command
 2 Countersquall
 2 Logic Knot
 2 Bloodstained Mire
 2 Cremate
+2 Snapcaster Mage
 2 Terminate
 2 Steam Vents
 2 Scalding Tarn
+2 Cryptic Command
 2 Creeping Tar Pit
 2 Nimble Obstructionist
 2 Kolaghan's Command
 2 Lightning Bolt
 2 Serum Visions
-3 Snapcaster Mage
 3 Jace, Vryn's Prodigy
 3 Nimble Obstructionist
 3 Lightning Bolt
+3 Snapcaster Mage
 3 Kolaghan's Command
 3 Serum Visions
 3 Cryptic Command
@@ -65,8 +65,6 @@
 1 Tormod's Crypt
 1 Witchbane Orb
 1 Ghost Quarter
-1 Damping Sphere
-1 Engineered Explosives
 1 Chalice of the Void
 1 Inventors' Fair
 1 Pyrite Spellbomb
@@ -76,11 +74,13 @@
 1 Grafdigger's Cage
 1 Mox Opal
 1 Artificer's Intuition
+1 Engineered Explosives
 1 Bottled Cloister
 1 Misty Rainforest
 1 Glimmervoid
 1 Expedition Map
 1 Whir of Invention
+1 Damping Sphere
 1 Mishra's Bauble
 1 Academy Ruins
 1 Tectonic Edge

@@ -31,10 +31,27 @@
 
 # Other Options
 
-|*n*<sup>th</sup> copy|                                      Maindeck Card                                      |*n*<sup>th</sup> copy|Sideboard Card|
-|--------------------:|-----------------------------------------------------------------------------------------|---------------------|--------------|
-|                    3|[Spell Pierce](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425876)  |                     |              |
-|                    4|[Spell Pierce](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425876)  |                     |              |
-|                    4|[Path to Exile](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220511) |                     |              |
-|                    4|[Sleight of Hand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=25557)|                     |              |
+|*n*<sup>th</sup> copy|                                        Maindeck Card                                         |*n*<sup>th</sup> copy|                                       Sideboard Card                                       |
+|--------------------:|----------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------|
+|                    3|[Spell Pierce](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425876)       |                    1|[Ancestral Vision](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=189244) |
+|                    4|[Spell Pierce](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425876)       |                    1|[Celestial Purge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=183055)  |
+|                    4|[Path to Exile](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220511)      |                    1|[Wear/Tear](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=368950)        |
+|                    4|[Sleight of Hand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=25557)     |                    1|[Shatterstorm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=130370)     |
+|                    1|[Arid Mesa](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405092)          |                    1|[Monastery Mentor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391883) |
+|                    1|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|                    1|[Spell Pierce](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425876)     |
+|                    1|[Arclight Phoenix](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452841)   |                    1|[Path to Exile](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220511)    |
+|                    1|[Lightning Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=806)        |                    1|[Anger of the Gods](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438682)|
+|                    1|[Young Pyromancer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426592)   |                    2|[Ancestral Vision](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=189244) |
+|                    2|[Arid Mesa](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405092)          |                    2|[Spell Pierce](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425876)     |
+|                    2|[Arclight Phoenix](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452841)   |                    2|[Path to Exile](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220511)    |
+|                    2|[Lightning Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=806)        |                     |                                                                                            |
+|                    2|[Young Pyromancer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426592)   |                     |                                                                                            |
+|                    2|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|                     |                                                                                            |
+|                    3|[Spirebluff Canal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417822)   |                     |                                                                                            |
+|                    3|[Arclight Phoenix](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452841)   |                     |                                                                                            |
+|                    3|[Faerie Conclave](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=106531)    |                     |                                                                                            |
+|                    3|[Lightning Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=806)        |                     |                                                                                            |
+|                    4|[Arclight Phoenix](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452841)   |                     |                                                                                            |
+|                    4|[Faerie Conclave](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=106531)    |                     |                                                                                            |
+|                    4|[Lightning Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=806)        |                     |                                                                                            |
 
