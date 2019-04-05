@@ -8,9 +8,9 @@
 |----------------------------------------------------------------|------------------------------------------------------------------|----------------------------------------------------------------------|--------------------------------------------------------------------------|----------------------------------------------------------------------|
 |[Abzan Midrange](./mtggoldfish/Standard/decks/Abzan_Midrange.md)|[Esper Tempo](./mtggoldfish/Standard/decks/Esper_Tempo.md)        |[Mardu Aristocrats](./mtggoldfish/Standard/decks/Mardu_Aristocrats.md)|[Rakdos Aggro](./mtggoldfish/Standard/decks/Rakdos_Aggro.md)              |[Sultai Midrange](./mtggoldfish/Standard/decks/Sultai_Midrange.md)    |
 |[Azorius Aggro](./mtggoldfish/Standard/decks/Azorius_Aggro.md)  |[Grixis Midrange](./mtggoldfish/Standard/decks/Grixis_Midrange.md)|[Mono-Blue Tempo](./mtggoldfish/Standard/decks/Mono-Blue_Tempo.md)    |[Rakdos Deathwhirler](./mtggoldfish/Standard/decks/Rakdos_Deathwhirler.md)|[Temur Reclamation](./mtggoldfish/Standard/decks/Temur_Reclamation.md)|
-|[Bant Tokens](./mtggoldfish/Standard/decks/Bant_Tokens.md)      |[Gruul Aggro](./mtggoldfish/Standard/decks/Gruul_Aggro.md)        |[Mono-Red Aggro](./mtggoldfish/Standard/decks/Mono-Red_Aggro.md)      |[Rakdos Midrange](./mtggoldfish/Standard/decks/Rakdos_Midrange.md)        |[UBR](./mtggoldfish/Standard/decks/UBR.md)                            |
-|[Dimir Midrange](./mtggoldfish/Standard/decks/Dimir_Midrange.md)|[Izzet Phoenix](./mtggoldfish/Standard/decks/Izzet_Phoenix.md)    |[Mono-White Aggro](./mtggoldfish/Standard/decks/Mono-White_Aggro.md)  |[Red(-Green) Aggro](./mtggoldfish/Standard/decks/Red(-Green)_Aggro.md)    |[WUG](./mtggoldfish/Standard/decks/WUG.md)                            |
-|[Esper Control](./mtggoldfish/Standard/decks/Esper_Control.md)  |[Jeskai Control](./mtggoldfish/Standard/decks/Jeskai_Control.md)  |[Naya Angels](./mtggoldfish/Standard/decks/Naya_Angels.md)            |[Selesnya Tokens](./mtggoldfish/Standard/decks/Selesnya_Tokens.md)        |                                                                      |
+|[Bant Tokens](./mtggoldfish/Standard/decks/Bant_Tokens.md)      |[Gruul Aggro](./mtggoldfish/Standard/decks/Gruul_Aggro.md)        |[Mono-Red Aggro](./mtggoldfish/Standard/decks/Mono-Red_Aggro.md)      |[Rakdos Midrange](./mtggoldfish/Standard/decks/Rakdos_Midrange.md)        |[UBG](./mtggoldfish/Standard/decks/UBG.md)                            |
+|[Dimir Midrange](./mtggoldfish/Standard/decks/Dimir_Midrange.md)|[Izzet Phoenix](./mtggoldfish/Standard/decks/Izzet_Phoenix.md)    |[Mono-White Aggro](./mtggoldfish/Standard/decks/Mono-White_Aggro.md)  |[Red(-Green) Aggro](./mtggoldfish/Standard/decks/Red(-Green)_Aggro.md)    |[UBR](./mtggoldfish/Standard/decks/UBR.md)                            |
+|[Esper Control](./mtggoldfish/Standard/decks/Esper_Control.md)  |[Jeskai Control](./mtggoldfish/Standard/decks/Jeskai_Control.md)  |[Naya Angels](./mtggoldfish/Standard/decks/Naya_Angels.md)            |[Selesnya Tokens](./mtggoldfish/Standard/decks/Selesnya_Tokens.md)        |[WUG](./mtggoldfish/Standard/decks/WUG.md)                            |
 
 
 # Modern
@@ -51,4 +51,4 @@
 
 
 
-#### Last Updated at 12:47AM on April 05, 2019
+#### Last Updated at 12:39PM on April 05, 2019
