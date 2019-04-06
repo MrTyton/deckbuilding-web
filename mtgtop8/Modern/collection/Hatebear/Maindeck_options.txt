@@ -1,9 +1,9 @@
-3 Horizon Canopy
-1 Thalia, Heretic Cathar
-1 Wastes
 2 Shefet Dunes
 4 Plains
 5 Plains
+3 Horizon Canopy
+1 Thalia, Heretic Cathar
+1 Wastes
 1 Chalice of the Void
 1 Dismember
 1 Reality Smasher
@@ -16,8 +16,8 @@
 2 Simian Spirit Guide
 3 Chalice of the Void
 3 Reality Smasher
-3 Simian Spirit Guide
 3 Gemstone Caverns
+3 Simian Spirit Guide
 4 Chalice of the Void
 4 Reality Smasher
 4 Simian Spirit Guide
@@ -25,47 +25,35 @@
 3 Dismember
 1 Godless Shrine
 2 Thalia, Heretic Cathar
+1 Restoration Angel
 1 Eiganjo Castle
 1 Blade Splicer
 3 Shambling Vent
-1 Restoration Angel
+6 Plains
 2 Cavern of Souls
 1 Warping Wail
 4 Horizon Canopy
 3 Shefet Dunes
-6 Plains
 2 Blade Splicer
 1 Lingering Souls
 2 Lingering Souls
 2 Restoration Angel
+1 Declaration in Stone
+3 Restoration Angel
+7 Plains
 1 Endbringer
 1 Kaya, Orzhov Usurper
 2 Kaya, Orzhov Usurper
 1 Smuggler's Copter
-1 Declaration in Stone
 2 Smuggler's Copter
+1 Wall of Omens
+2 Wall of Omens
+3 Wall of Omens
 1 Kitchen Finks
-3 Restoration Angel
-1 Temple Garden
-1 Noble Hierarch
-1 Razorverge Thicket
-1 Field of Ruin
-1 Eternal Witness
-1 Scavenging Ooze
-1 Forest
-2 Forest
-2 Noble Hierarch
-2 Temple Garden
-2 Razorverge Thicket
-2 Scavenging Ooze
-3 Noble Hierarch
-3 Temple Garden
-3 Razorverge Thicket
-4 Temple Garden
-4 Razorverge Thicket
-4 Noble Hierarch
 3 Blade Splicer
-7 Plains
+4 Blade Splicer
+8 Plains
+9 Plains
 1 Thraben Inspector
 2 Thraben Inspector
 3 Thraben Inspector
@@ -73,47 +61,53 @@
 1 Cast Out
 1 Rest in Peace
 1 Fetid Heath
-1 Matter Reshaper
-2 Matter Reshaper
-1 Mirror Entity
-1 Brushland
-1 Aven Mindcensor
-1 Gavony Township
-1 Selfless Spirit
-1 Knight of Autumn
-1 Collected Company
-2 Brushland
-2 Selfless Spirit
-2 Knight of Autumn
-2 Collected Company
-3 Forest
-3 Brushland
-3 Cavern of Souls
-1 Wall of Omens
 1 Flagstones of Trokair
 1 Tectonic Edge
-2 Wall of Omens
-3 Wall of Omens
+1 Matter Reshaper
+2 Matter Reshaper
+3 Cavern of Souls
 2 Declaration in Stone
 4 Shefet Dunes
+1 Mutavault
+1 Rustic Clachan
+2 Mutavault
+3 Mutavault
+4 Wall of Omens
 1 Relic of Progenitus
 4 Dismember
-1 Renegade Rallier
+1 Temple Garden
 1 Stirring Wildwood
 1 Voice of Resurgence
-2 Renegade Rallier
+1 Noble Hierarch
+1 Razorverge Thicket
+1 Field of Ruin
+1 Scavenging Ooze
+1 Renegade Rallier
+1 Forest
+1 Eternal Witness
 2 Voice of Resurgence
+2 Forest
+2 Noble Hierarch
+2 Temple Garden
+2 Renegade Rallier
+2 Razorverge Thicket
+2 Scavenging Ooze
 2 Eternal Witness
+3 Noble Hierarch
 3 Scavenging Ooze
 3 Renegade Rallier
+3 Temple Garden
+3 Razorverge Thicket
+4 Temple Garden
 4 Scavenging Ooze
+4 Razorverge Thicket
 4 Restoration Angel
+4 Noble Hierarch
 1 Snow-Covered Plains
 2 Snow-Covered Plains
 2 Kitchen Finks
 3 Snow-Covered Plains
 4 Snow-Covered Plains
-4 Blade Splicer
 5 Snow-Covered Plains
 6 Snow-Covered Plains
 7 Snow-Covered Plains
@@ -139,9 +133,7 @@
 4 Thraben Inspector
 4 Thalia's Lieutenant
 4 Dauntless Bodyguard
-8 Plains
-9 Plains
 10 Plains
-11 Plains
 12 Plains
 13 Plains
+11 Plains

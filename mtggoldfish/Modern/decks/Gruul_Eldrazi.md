@@ -25,3 +25,18 @@
 |2 [Pithing Needle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129526)      |                                                                                        |2 [Dismember](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382182)          |                                                                                                 |
 |3 [Relic of Progenitus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174824) |                                                                                        |1 [Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|                                                                                                 |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                       Maindeck Card                                        |*n*<sup>th</sup> copy|                                       Sideboard Card                                       |
+|--------------------:|--------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------|
+|                    1|[Ghost Quarter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389534)    |                    1|[Flame Slash](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416914)      |
+|                    1|[Flame Slash](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416914)      |                    1|[Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452)|
+|                    1|[Wooded Foothills](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405116) |                    1|[Crumble to Dust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401850)  |
+|                    1|[Matter Reshaper](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407516)  |                    1|[Deglamer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=154160)         |
+|                    1|[Stomping Ground](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405110)  |                    1|[Natural State](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407646)    |
+|                    2|[Birds of Paradise](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129906)|                    2|[Crumble to Dust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401850)  |
+|                    2|[Flame Slash](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416914)      |                    2|[Natural State](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407646)    |
+|                    2|[Matter Reshaper](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407516)  |                    2|[Deglamer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=154160)         |
+|                    2|[Wooded Foothills](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405116) |                    3|[Natural State](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407646)    |
+

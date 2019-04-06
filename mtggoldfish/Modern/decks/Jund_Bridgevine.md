@@ -27,3 +27,19 @@
 |                                                                                                |1 [Dismember](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382182)        |1 [Corrosive Gale](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=230075)        |
 |                                                                                                |1 [Lightning Axe](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409925)    |2 [Inquisition of Kozilek](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416897)|
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                         Maindeck Card                                         |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
+|--------------------:|-----------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
+|                    1|[Greater Gargadon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370560)    |                    1|[Darkblast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456055)          |
+|                    1|[Bloodghast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438648)          |                    1|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)     |
+|                    1|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)            |                    1|[Fatal Push](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423724)         |
+|                    1|[Collective Brutality](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414380)|                    1|[Blasphemous Act](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389443)    |
+|                    2|[Collective Brutality](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414380)|                    1|[Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)       |
+|                    2|[Bloodghast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438648)          |                    2|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)     |
+|                    3|[Bloodghast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438648)          |                    2|[Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)       |
+|                    4|[Bloodghast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438648)          |                    4|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)|
+|                    4|[Verdant Catacombs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405113)   |                    4|[Assassin's Trophy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452902)  |
+|                    4|[Viscera Seer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376569)        |                     |                                                                                              |
+

@@ -41,8 +41,8 @@
 1 Terminate
 1 Verdant Catacombs
 1 Fatal Push
-1 Shriekmaw
 1 Goblin Cratermaker
+1 Shriekmaw
 1 Polluted Delta
 2 Polluted Delta
 2 Verdant Catacombs
@@ -59,9 +59,9 @@
 1 Wall of Omens
 1 Light Up the Stage
 1 Auriok Champion
+1 Blasphemous Act
 1 Worship
 1 Pyroclasm
-1 Blasphemous Act
 1 Spitemare
 1 Pyrohemia
 1 Rest in Peace
@@ -72,10 +72,10 @@
 1 Swans of Bryn Argoll
 1 Burrenton Forge-Tender
 1 Clifftop Retreat
-2 Clifftop Retreat
 2 Wall of Omens
-2 Burrenton Forge-Tender
+2 Clifftop Retreat
 2 Light Up the Stage
+2 Burrenton Forge-Tender
 2 Auriok Champion
 2 Pyroclasm
 2 Rest in Peace
@@ -191,18 +191,18 @@
 2 Gideon Jura
 3 Wrath of God
 3 Field of Ruin
-3 Journey to Nowhere
 3 Settle the Wreckage
 3 Ghost Quarter
 3 Gideon, Ally of Zendikar
 3 Elspeth, Sun's Champion
 3 Gideon Jura
 3 Mind Stone
-4 Settle the Wreckage
+3 Journey to Nowhere
 4 Field of Ruin
 4 Wrath of God
 4 Mind Stone
 4 Gideon, Ally of Zendikar
+4 Settle the Wreckage
 4 Ghost Quarter
 11 Plains
 12 Plains
@@ -212,12 +212,12 @@
 1 Supreme Verdict
 1 Nevermore
 1 Ghostly Prison
-1 Gideon's Intervention
 1 Spreading Seas
 1 Detention Sphere
 1 Temple of Enlightenment
 1 Negate
 1 Aetherling
+1 Gideon's Intervention
 1 Faerie Conclave
 1 Sphere of Safety
 2 Detention Sphere
