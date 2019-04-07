@@ -68,6 +68,6 @@
 |                    3|[Gut Shot](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397673)                  |                    3|[Molten Rain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425928)            |
 |                    1|[Arid Mesa](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405092)                 |                     |                                                                                                  |
 |                    2|[Arid Mesa](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405092)                 |                     |                                                                                                  |
-|                    3|[Flooded Strand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405098)            |                     |                                                                                                  |
 |                    4|[Flooded Strand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405098)            |                     |                                                                                                  |
+|                    3|[Flooded Strand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405098)            |                     |                                                                                                  |
 
