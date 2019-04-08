@@ -66,6 +66,6 @@
 |                    4|[Flooded Strand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405098)      |                    2|[Anger of the Gods](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438682)   |
 |                    1|[Shivan Fire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443030)         |                    1|[Blink of an Eye](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442934)     |
 |                    2|[Shivan Fire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443030)         |                    3|[Thing in the Ice](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409836)    |
-|                    4|[Shivan Fire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443030)         |                     |                                                                                               |
 |                    3|[Shivan Fire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443030)         |                     |                                                                                               |
+|                    4|[Shivan Fire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443030)         |                     |                                                                                               |
 

@@ -1,7 +1,7 @@
-4 Wasteland
-1 Arid Mesa
 2 Polluted Delta
 4 Island
+3 Tundra
+4 Wasteland
 1 Sword of Fire and Ice
 1 Flusterstorm
 2 Flusterstorm
@@ -14,15 +14,17 @@
 4 True-Name Nemesis
 1 Nivmagus Elemental
 1 Preordain
+3 Polluted Delta
 1 Marsh Flats
 1 Windswept Heath
+4 Polluted Delta
 4 Spell Pierce
 2 Arid Mesa
 2 Nivmagus Elemental
 3 Flusterstorm
 4 Flusterstorm
-1 Lightning Bolt
 1 Volcanic Island
+1 Lightning Bolt
 2 Lightning Bolt
 2 Volcanic Island
 3 Lightning Bolt
@@ -33,7 +35,6 @@
 1 Monastery Mentor
 1 Stifle
 2 Monastery Mentor
-3 Polluted Delta
 3 Snapcaster Mage
 5 Island
 6 Island

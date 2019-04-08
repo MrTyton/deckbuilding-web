@@ -68,6 +68,6 @@
 |                     |                                                                                                     |                    4|[Ravenous Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197537)       |
 |                     |                                                                                                     |                    3|[Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)      |
 |                     |                                                                                                     |                    4|[Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)      |
-|                     |                                                                                                     |                    4|[Smash to Smithereens](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397795)|
 |                     |                                                                                                     |                    4|[Cindervines](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457305)         |
+|                     |                                                                                                     |                    4|[Smash to Smithereens](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397795)|
 

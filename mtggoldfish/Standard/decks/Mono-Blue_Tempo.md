@@ -47,6 +47,6 @@
 |                    3|[Essence Capture](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457181)       |                    4|[Chemister's Insight](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452782)   |
 |                     |                                                                                                 |                    1|[Sorcerous Spyglass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435407)    |
 |                     |                                                                                                 |                    2|[Search for Azcanta](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435226)    |
-|                     |                                                                                                 |                    4|[Entrancing Melody](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435207)     |
 |                     |                                                                                                 |                    4|[Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)                |
+|                     |                                                                                                 |                    4|[Entrancing Melody](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435207)     |
 
