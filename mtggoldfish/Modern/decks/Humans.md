@@ -66,7 +66,7 @@
 |                     |                                                                                                 |                    3|[Militia Bugler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447165)              |
 |                     |                                                                                                 |                    3|[Dismember](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382182)                   |
 |                     |                                                                                                 |                    1|[Hostage Taker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435379)               |
-|                     |                                                                                                 |                    2|[Hostage Taker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435379)               |
 |                     |                                                                                                 |                    2|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)         |
+|                     |                                                                                                 |                    2|[Hostage Taker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435379)               |
 |                     |                                                                                                 |                    3|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)         |
 

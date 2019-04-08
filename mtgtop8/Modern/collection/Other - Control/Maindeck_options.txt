@@ -15,13 +15,13 @@
 1 Legion Warboss
 1 Ajani Vengeant
 1 Rugged Prairie
-2 Desperate Ritual
 2 Abrade
+2 Desperate Ritual
 2 Legion Warboss
 3 Gemstone Caverns
 3 Goblin Rabblemaster
-3 Legion Warboss
 3 Desperate Ritual
+3 Legion Warboss
 4 Legion Warboss
 4 Desperate Ritual
 4 Goblin Rabblemaster
@@ -32,22 +32,22 @@
 1 Marsh Flats
 2 Sacred Foundry
 1 Purphoros, God of the Forge
-1 Windswept Heath
 1 Pyretic Ritual
+1 Windswept Heath
 1 Ramunap Ruins
 2 Rugged Prairie
 2 Ramunap Ruins
 3 Ramunap Ruins
+1 Fatal Push
+1 Polluted Delta
+2 Polluted Delta
+2 Fatal Push
 1 Terminate
 1 Verdant Catacombs
 1 Goblin Cratermaker
-1 Fatal Push
 1 Shriekmaw
-1 Polluted Delta
-2 Polluted Delta
 2 Verdant Catacombs
 2 Terminate
-2 Fatal Push
 2 Shriekmaw
 3 Verdant Catacombs
 4 Verdant Catacombs
@@ -76,15 +76,15 @@
 2 Clifftop Retreat
 2 Burrenton Forge-Tender
 2 Auriok Champion
+2 Worship
 2 Light Up the Stage
 2 Pyroclasm
 2 Rest in Peace
 2 Swans of Bryn Argoll
-2 Lightning Bolt
 2 Boros Reckoner
-2 Pyrohemia
-2 Worship
+2 Lightning Bolt
 2 Volcano Hellion
+2 Pyrohemia
 3 Sacred Foundry
 3 Wall of Omens
 3 Boros Reckoner
@@ -95,6 +95,17 @@
 1 Island
 2 Island
 3 Island
+1 Logic Knot
+1 Opt
+1 Cryptic Command
+1 Snapcaster Mage
+2 Cryptic Command
+2 Opt
+2 Flooded Strand
+3 Flooded Strand
+3 Opt
+3 Cryptic Command
+4 Flooded Strand
 4 Island
 1 Misty Rainforest
 1 Forest
@@ -107,21 +118,16 @@
 1 Engineered Explosives
 1 Spell Snare
 1 Torrential Gearhulk
-1 Logic Knot
 1 Pulse of Murasa
 1 Dismember
-1 Glen Elendra Archmage
-1 Opt
-1 Cryptic Command
 1 Hinterland Harbor
+1 Glen Elendra Archmage
 1 Remand
 1 Clinging Mists
-1 Snapcaster Mage
 1 Repudiate / Replicate
 2 Misty Rainforest
 2 Growth Spiral
 2 Pulse of Murasa
-2 Cryptic Command
 2 Remand
 2 Hinterland Harbor
 2 Search for Azcanta
@@ -131,20 +137,14 @@
 2 Dismember
 2 Flooded Grove
 2 Torrential Gearhulk
-2 Flooded Strand
 2 Breeding Pool
-2 Opt
 3 Dismember
 3 Misty Rainforest
 3 Growth Spiral
-3 Flooded Strand
 3 Remand
 3 Torrential Gearhulk
 3 Repudiate / Replicate
-3 Opt
-3 Cryptic Command
 3 Hinterland Harbor
-4 Flooded Strand
 4 Growth Spiral
 4 Misty Rainforest
 4 Remand
@@ -158,8 +158,43 @@
 2 Sarkhan, Fireblood
 3 Inspiring Vantage
 4 Inspiring Vantage
-1 Cast Out
 1 Field of Ruin
+1 Glacial Fortress
+1 Negate
+1 Supreme Verdict
+2 Supreme Verdict
+2 Negate
+2 Glacial Fortress
+4 Path to Exile
+2 Field of Ruin
+3 Field of Ruin
+1 Godless Shrine
+1 Esper Charm
+1 Hallowed Fountain
+1 Creeping Tar Pit
+1 Watery Grave
+1 Kaya, Orzhov Usurper
+1 Nihil Spellbomb
+1 Teferi, Hero of Dominaria
+1 Jace, the Mind Sculptor
+1 Cast Down
+2 Watery Grave
+2 Esper Charm
+2 Teferi, Hero of Dominaria
+2 Nihil Spellbomb
+2 Snapcaster Mage
+2 Logic Knot
+2 Hallowed Fountain
+2 Jace, the Mind Sculptor
+3 Teferi, Hero of Dominaria
+3 Polluted Delta
+3 Esper Charm
+3 Nihil Spellbomb
+3 Fatal Push
+3 Snapcaster Mage
+4 Polluted Delta
+4 Snapcaster Mage
+1 Cast Out
 6 Plains
 7 Plains
 8 Plains
@@ -169,28 +204,26 @@
 1 Mind Stone
 1 Gideon Jura
 1 Secure the Wastes
-1 Horizon Canopy
 1 Elspeth, Sun's Champion
+1 Horizon Canopy
 1 Journey to Nowhere
 1 Archangel Avacyn
 1 Blessed Alliance
 1 Settle the Wreckage
 1 Gideon, Ally of Zendikar
 1 Ghost Quarter
-2 Field of Ruin
 2 Horizon Canopy
 2 Mind Stone
 2 Wrath of God
 2 Blessed Alliance
 2 Archangel Avacyn
 2 Gideon, Ally of Zendikar
+2 Journey to Nowhere
 2 Elspeth, Sun's Champion
 2 Ghost Quarter
-2 Journey to Nowhere
 2 Settle the Wreckage
 2 Gideon Jura
 3 Wrath of God
-3 Field of Ruin
 3 Settle the Wreckage
 3 Ghost Quarter
 3 Gideon, Ally of Zendikar
@@ -207,25 +240,19 @@
 11 Plains
 12 Plains
 13 Plains
-1 Glacial Fortress
 1 Runed Halo
 1 Nevermore
 1 Detention Sphere
 1 Spreading Seas
 1 Temple of Enlightenment
-1 Negate
 1 Aetherling
 1 Gideon's Intervention
 1 Faerie Conclave
 1 Sphere of Safety
 1 Ghostly Prison
-1 Supreme Verdict
-2 Detention Sphere
-2 Supreme Verdict
-2 Negate
 2 Runed Halo
 2 Spreading Seas
-2 Glacial Fortress
+2 Detention Sphere
 2 Temple of Enlightenment
 2 Gideon's Intervention
 2 Faerie Conclave
@@ -242,7 +269,6 @@
 3 Detention Sphere
 3 Nevermore
 4 Glacial Fortress
-4 Path to Exile
 4 Spreading Seas
 4 Nevermore
 4 Detention Sphere
