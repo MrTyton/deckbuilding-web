@@ -1,25 +1,17 @@
-1 Fatal Push
-1 Scalding Tarn
-1 Misty Rainforest
-2 Scalding Tarn
+1 Counterspell
 1 True-Name Nemesis
 2 True-Name Nemesis
-3 Island
 1 Vendilion Clique
 1 Wasteland
+1 Scalding Tarn
+1 Misty Rainforest
 2 Wasteland
+2 Scalding Tarn
 2 Scrubland
 3 Marsh Flats
 1 Bloodstained Mire
 2 Bloodstained Mire
 2 Swamp
-1 Lightning Bolt
-1 Spell Pierce
-1 Volcanic Island
-2 Volcanic Island
-2 Lightning Bolt
-3 Scalding Tarn
-3 Volcanic Island
 1 Monastery Mentor
 2 Monastery Mentor
 3 Monastery Mentor
@@ -38,18 +30,18 @@
 1 Thief of Sanity
 1 Verdant Catacombs
 1 To the Slaughter
-2 Thief of Sanity
 2 Fatal Push
+2 Thief of Sanity
 2 Liliana, the Last Hope
-3 Thief of Sanity
+3 Island
 3 Fatal Push
+3 Thief of Sanity
 4 Underground Sea
 1 Kaya, Orzhov Usurper
 1 Umezawa's Jitte
 1 Council's Judgment
 3 Thoughtseize
 4 Thoughtseize
-1 Mountain
 1 Badlands
 1 Phyrexian Tower
 1 Plateau
@@ -59,6 +51,7 @@
 1 Norin the Wary
 1 Hidden Stockpile
 1 Grave Pact
+1 Mountain
 1 Bloodghast
 1 Rix Maadi Reveler
 1 Lingering Souls
@@ -85,8 +78,8 @@
 3 Lingering Souls
 3 Daretti, Ingenious Iconoclast
 3 Priest of Forgotten Gods
-3 Faithless Looting
 3 Genesis Chamber
+3 Faithless Looting
 3 Bloodghast
 3 Scrubland
 3 Hidden Stockpile
@@ -98,25 +91,32 @@
 4 Marsh Flats
 4 Bloodghast
 1 Tropical Island
+1 Lightning Bolt
 1 Daze
 1 Grove of the Burnwillows
 1 Punishing Fire
 1 Sylvan Library
+1 Spell Pierce
 1 Tarmogoyf
 1 Noble Hierarch
 1 Wooded Foothills
+1 Volcanic Island
 1 Life from the Loam
+2 Volcanic Island
 2 Grove of the Burnwillows
 2 Punishing Fire
+2 Lightning Bolt
 2 Spell Pierce
 2 Tarmogoyf
 2 Vendilion Clique
 2 Tropical Island
 2 Noble Hierarch
 2 Misty Rainforest
+3 Scalding Tarn
 3 Grove of the Burnwillows
 3 Punishing Fire
 3 Misty Rainforest
+3 Volcanic Island
 3 Wasteland
 3 Jace, the Mind Sculptor
 3 Spell Pierce
@@ -130,28 +130,3 @@
 4 Punishing Fire
 4 Wasteland
 4 Noble Hierarch
-1 Abrade
-1 Thing in the Ice
-1 Forsaken City
-1 Arid Mesa
-1 Stasis
-1 Ral Zarek
-1 Back to Basics
-1 Fire / Ice
-1 Dead / Gone
-2 Thing in the Ice
-2 Ral Zarek
-2 Stasis
-2 Mountain
-3 Thing in the Ice
-3 Lightning Bolt
-3 Ral Zarek
-3 Stasis
-4 Scalding Tarn
-4 Thing in the Ice
-4 Island
-4 Lightning Bolt
-4 Ral Zarek
-4 Stasis
-5 Island
-6 Island
