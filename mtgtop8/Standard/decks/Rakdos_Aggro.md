@@ -114,7 +114,7 @@
 |                    4|[Viashino Pyromancer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447302)       |                     |                                                                                                     |
 |                    4|[Light Up the Stage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457251)        |                     |                                                                                                     |
 |                    8|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)                  |                     |                                                                                                     |
+|                    9|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)                  |                     |                                                                                                     |
 |                   10|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)                  |                     |                                                                                                     |
 |                   11|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)                  |                     |                                                                                                     |
-|                    9|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)                  |                     |                                                                                                     |
 
