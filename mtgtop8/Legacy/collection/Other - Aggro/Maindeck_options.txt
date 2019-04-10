@@ -57,10 +57,10 @@
 4 Ponder
 1 Sylvan Library
 1 Thalia, Guardian of Thraben
-1 Tireless Tracker
 1 Ghost Quarter
 1 Plains
 1 Maze of Ith
+1 Tireless Tracker
 1 Gaddock Teeg
 1 Knight of the Reliquary
 1 Thespian's Stage
@@ -81,19 +81,19 @@
 1 Chalice of the Void
 1 Ramunap Excavator
 2 Thalia, Guardian of Thraben
-2 Forest
 2 Knight of the Reliquary
-2 Stoneforge Mystic
+2 Forest
 2 Savannah
+2 Stoneforge Mystic
 2 Windswept Heath
 2 Green Sun's Zenith
 2 Sylvan Library
 2 Dismember
 2 Chalice of the Void
 2 Mox Diamond
+3 Savannah
 3 Thalia, Guardian of Thraben
 3 Knight of the Reliquary
-3 Savannah
 3 Stoneforge Mystic
 3 Sylvan Library
 3 Wasteland
@@ -112,24 +112,23 @@
 1 Dack Fayden
 1 Tropical Island
 1 Ancestral Vision
-1 Noble Hierarch
 1 Shardless Agent
 1 Guided Passage
 1 Bloodbraid Elf
+1 Noble Hierarch
 1 True-Name Nemesis
 1 Tarmogoyf
 1 Jace, the Mind Sculptor
 1 Volcanic Island
 2 Scalding Tarn
 2 Volcanic Island
-2 Noble Hierarch
 2 Ancestral Vision
-2 Tarmogoyf
 2 Tropical Island
 2 Shardless Agent
+2 Tarmogoyf
 2 Guided Passage
 2 Bloodbraid Elf
-3 Scalding Tarn
+2 Noble Hierarch
 3 Ancestral Vision
 3 Shardless Agent
 3 Tarmogoyf
@@ -137,6 +136,7 @@
 3 Tropical Island
 3 Guided Passage
 3 Bloodbraid Elf
+3 Scalding Tarn
 3 Wooded Foothills
 4 Tarmogoyf
 4 Bloodbraid Elf

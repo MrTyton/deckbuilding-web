@@ -33,9 +33,9 @@
 
 |*n*<sup>th</sup> copy|                                       Maindeck Card                                        |*n*<sup>th</sup> copy|                                      Sideboard Card                                       |
 |--------------------:|--------------------------------------------------------------------------------------------|--------------------:|-------------------------------------------------------------------------------------------|
-|                    3|[Empty the Warrens](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426587)|                    1|[Dark Depths](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121155)     |
-|                    4|[Pyretic Ritual](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205067)   |                    1|[Thespian's Stage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=366353)|
-|                    4|[Chrome Mox](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413761)       |                    1|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)          |
+|                    3|[Empty the Warrens](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426587)|                    1|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)          |
+|                    4|[Pyretic Ritual](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205067)   |                    1|[Dark Depths](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121155)     |
+|                    4|[Chrome Mox](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413761)       |                    1|[Thespian's Stage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=366353)|
 |                     |                                                                                            |                    1|[Living Wish](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442168)     |
 |                     |                                                                                            |                    2|[Thespian's Stage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=366353)|
 |                     |                                                                                            |                    2|[Dark Depths](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121155)     |
