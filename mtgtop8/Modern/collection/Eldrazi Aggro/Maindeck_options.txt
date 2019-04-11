@@ -33,7 +33,6 @@
 3 Wastes
 1 Relic of Progenitus
 2 Relic of Progenitus
-2 Smuggler's Copter
 1 Noble Hierarch
 1 Forest
 1 Ancient Stirrings
@@ -42,6 +41,8 @@
 3 Ancient Stirrings
 3 Noble Hierarch
 4 Ancient Stirrings
+3 Cavern of Souls
+4 Noble Hierarch
 1 Grove of the Burnwillows
 1 Karplusan Forest
 1 Eldrazi Obligator
@@ -56,13 +57,45 @@
 3 Karplusan Forest
 4 Lightning Bolt
 4 Karplusan Forest
+2 Smuggler's Copter
 4 Blinkmoth Nexus
 1 Ugin, the Spirit Dragon
 2 Karn Liberated
+1 Engineered Explosives
+1 Yavimaya Coast
+1 Brushland
+1 Eldrazi Skyspawner
+1 Temple Garden
+1 Windswept Heath
+1 Hallowed Fountain
+1 Eldrazi Displacer
+1 Breeding Pool
+1 Drowner of Hope
+1 Thalia, Guardian of Thraben
+1 Plains
+1 Path to Exile
+2 Brushland
+2 Engineered Explosives
+2 Windswept Heath
+2 Eldrazi Displacer
+2 Path to Exile
+2 Drowner of Hope
+2 Eldrazi Skyspawner
+2 Yavimaya Coast
+3 Brushland
+3 Eldrazi Displacer
+3 Path to Exile
+3 Yavimaya Coast
+3 Windswept Heath
+3 Eldrazi Skyspawner
+3 Drowner of Hope
+4 Windswept Heath
+4 Eldrazi Displacer
+4 Drowner of Hope
+4 Eldrazi Skyspawner
 3 Gemstone Caverns
-3 Cavern of Souls
-4 Noble Hierarch
 1 Mind Stone
+4 Cavern of Souls
 1 Warping Wail
 3 Relic of Progenitus
 1 Wooded Foothills
@@ -77,13 +110,11 @@
 3 Grove of the Burnwillows
 4 Bloodbraid Elf
 4 Eldrazi Obligator
-1 Field of Ruin
-2 Field of Ruin
 1 Birds of Paradise
 1 Scavenging Ooze
 2 Scavenging Ooze
-1 Engineered Explosives
-4 Cavern of Souls
+1 Field of Ruin
+2 Field of Ruin
 1 Radiant Fountain
 1 Tomb of the Spirit Dragon
 1 Wurmcoil Engine
@@ -95,6 +126,9 @@
 1 Spatial Contortion
 2 Mind Stone
 2 Sea Gate Wreckage
+1 Island
+2 Thalia, Guardian of Thraben
+3 Thalia, Guardian of Thraben
 2 Basilisk Collar
 3 Endbringer
 1 Thrashing Brontodon
@@ -105,40 +139,9 @@
 2 Stomping Ground
 3 Wooded Foothills
 4 Zhalfirin Void
-1 Yavimaya Coast
-1 Brushland
-1 Island
-1 Eldrazi Skyspawner
-1 Temple Garden
-1 Windswept Heath
-1 Hallowed Fountain
-1 Eldrazi Displacer
-1 Breeding Pool
-1 Drowner of Hope
-1 Thalia, Guardian of Thraben
-1 Plains
-1 Path to Exile
-2 Brushland
-2 Engineered Explosives
-2 Windswept Heath
-2 Drowner of Hope
-2 Eldrazi Displacer
-2 Path to Exile
-2 Thalia, Guardian of Thraben
-2 Eldrazi Skyspawner
-2 Yavimaya Coast
-3 Thalia, Guardian of Thraben
-3 Brushland
-3 Eldrazi Displacer
-3 Path to Exile
-3 Yavimaya Coast
-3 Windswept Heath
-3 Eldrazi Skyspawner
-3 Drowner of Hope
-4 Windswept Heath
-4 Eldrazi Displacer
-4 Drowner of Hope
-4 Eldrazi Skyspawner
+1 Eternal Witness
+4 Brushland
+4 Path to Exile
 1 Gruul Spellbreaker
 1 Copperline Gorge
 1 Boreal Druid

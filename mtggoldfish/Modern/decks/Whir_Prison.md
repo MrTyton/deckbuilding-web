@@ -72,6 +72,6 @@
 |                    3|[Sorcerous Spyglass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435407)  |                     |                                                                                                       |
 |                    4|[Spire of Industry](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423851)   |                     |                                                                                                       |
 |                    5|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)              |                     |                                                                                                       |
-|                    4|[Flooded Strand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405098)      |                     |                                                                                                       |
 |                    3|[Flooded Strand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405098)      |                     |                                                                                                       |
+|                    4|[Flooded Strand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405098)      |                     |                                                                                                       |
 

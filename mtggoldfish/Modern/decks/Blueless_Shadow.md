@@ -62,8 +62,8 @@
 |                     |                                                                                                 |                    3|[Lingering Souls](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=368485)       |
 |                     |                                                                                                 |                    3|[Faith's Shield](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=262696)        |
 |                     |                                                                                                 |                    2|[Apostle's Blessing](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397768)    |
-|                     |                                                                                                 |                    3|[Ancient Grudge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=235600)        |
 |                     |                                                                                                 |                    3|[Fatal Push](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423724)            |
 |                     |                                                                                                 |                    3|[Apostle's Blessing](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397768)    |
+|                     |                                                                                                 |                    3|[Ancient Grudge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=235600)        |
 |                     |                                                                                                 |                    4|[Ancient Grudge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=235600)        |
 
