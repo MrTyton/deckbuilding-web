@@ -61,6 +61,6 @@
 |                     |                                                                                                  |                    2|[Cry of the Carnarium](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457214)  |
 |                     |                                                                                                  |                    2|[Mortify](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420829)               |
 |                     |                                                                                                  |                    2|[Chromium, the Mutable](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447350) |
-|                     |                                                                                                  |                    3|[Moment of Craving](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439736)     |
 |                     |                                                                                                  |                    3|[Syncopate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442955)             |
+|                     |                                                                                                  |                    3|[Moment of Craving](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439736)     |
 

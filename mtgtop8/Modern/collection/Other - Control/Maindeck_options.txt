@@ -1,7 +1,3 @@
-1 Goblin Rabblemaster
-2 Goblin Rabblemaster
-4 Mountain
-2 Hazoret the Fervent
 1 Plains
 2 Plains
 1 Arid Mesa
@@ -12,9 +8,11 @@
 1 Gemstone Caverns
 2 Gemstone Caverns
 1 Desperate Ritual
+1 Goblin Rabblemaster
 1 Legion Warboss
-1 Ajani Vengeant
 1 Rugged Prairie
+1 Ajani Vengeant
+2 Goblin Rabblemaster
 2 Abrade
 2 Desperate Ritual
 2 Legion Warboss
@@ -23,89 +21,125 @@
 3 Desperate Ritual
 3 Legion Warboss
 4 Legion Warboss
-4 Desperate Ritual
-4 Goblin Rabblemaster
 4 Chandra, Torch of Defiance
-1 Pia and Kiran Nalaar
-3 Plains
+4 Goblin Rabblemaster
+4 Desperate Ritual
 1 Flooded Strand
+3 Plains
 1 Marsh Flats
+2 Hazoret the Fervent
 2 Sacred Foundry
+4 Mountain
 1 Purphoros, God of the Forge
-1 Pyretic Ritual
-1 Windswept Heath
 1 Ramunap Ruins
+1 Windswept Heath
+1 Pyretic Ritual
 2 Rugged Prairie
 2 Ramunap Ruins
 3 Ramunap Ruins
-1 Fatal Push
-1 Polluted Delta
-2 Polluted Delta
-2 Fatal Push
-1 Terminate
-1 Verdant Catacombs
-1 Goblin Cratermaker
-1 Shriekmaw
-2 Verdant Catacombs
-2 Terminate
-2 Shriekmaw
-3 Verdant Catacombs
-4 Verdant Catacombs
-4 Plains
-5 Plains
+1 Inspiring Vantage
+1 Pia and Kiran Nalaar
+1 Sarkhan, Fireblood
+1 Wooded Foothills
+2 Inspiring Vantage
+2 Sarkhan, Fireblood
+3 Inspiring Vantage
+4 Inspiring Vantage
 1 Path to Exile
 2 Path to Exile
 3 Path to Exile
+1 Island
+2 Island
+1 Snapcaster Mage
+1 Godless Shrine
+1 Creeping Tar Pit
+1 Watery Grave
+1 Fatal Push
+1 Hallowed Fountain
+1 Polluted Delta
+2 Polluted Delta
+2 Watery Grave
+2 Fatal Push
+3 Polluted Delta
+4 Polluted Delta
+1 Field of Ruin
+3 Island
+1 Glacial Fortress
+1 Negate
+1 Supreme Verdict
+2 Supreme Verdict
+2 Glacial Fortress
+2 Negate
+4 Path to Exile
+1 Logic Knot
+1 Opt
+1 Cryptic Command
+2 Opt
+2 Flooded Strand
+2 Cryptic Command
+3 Cryptic Command
+3 Flooded Strand
+3 Opt
+4 Flooded Strand
+2 Field of Ruin
+3 Field of Ruin
+1 Esper Charm
+1 Kaya, Orzhov Usurper
+1 Nihil Spellbomb
+1 Teferi, Hero of Dominaria
+1 Jace, the Mind Sculptor
+1 Cast Down
+2 Esper Charm
+2 Teferi, Hero of Dominaria
+2 Nihil Spellbomb
+2 Snapcaster Mage
+2 Logic Knot
+2 Hallowed Fountain
+2 Jace, the Mind Sculptor
+3 Teferi, Hero of Dominaria
+3 Esper Charm
+3 Fatal Push
+3 Nihil Spellbomb
+3 Snapcaster Mage
+4 Snapcaster Mage
+4 Plains
+5 Plains
 1 Wall of Omens
 1 Auriok Champion
 1 Light Up the Stage
-1 Blasphemous Act
 1 Worship
+1 Blasphemous Act
 1 Pyroclasm
-1 Spitemare
 1 Pyrohemia
-1 Rest in Peace
 1 Nahiri's Wrath
 1 Lightning Bolt
-1 Volcano Hellion
-1 Boros Reckoner
-1 Swans of Bryn Argoll
 1 Burrenton Forge-Tender
 1 Clifftop Retreat
+1 Rest in Peace
+1 Volcano Hellion
+1 Swans of Bryn Argoll
+1 Spitemare
+1 Boros Reckoner
 2 Wall of Omens
 2 Clifftop Retreat
-2 Burrenton Forge-Tender
 2 Auriok Champion
 2 Worship
 2 Light Up the Stage
 2 Pyroclasm
-2 Rest in Peace
 2 Swans of Bryn Argoll
 2 Boros Reckoner
-2 Lightning Bolt
-2 Volcano Hellion
 2 Pyrohemia
+2 Lightning Bolt
+2 Burrenton Forge-Tender
+2 Rest in Peace
+2 Volcano Hellion
 3 Sacred Foundry
 3 Wall of Omens
-3 Boros Reckoner
 3 Lightning Bolt
 3 Clifftop Retreat
+3 Boros Reckoner
 4 Clifftop Retreat
 4 Boros Reckoner
-1 Island
-2 Island
-3 Island
-1 Logic Knot
-1 Opt
-1 Cryptic Command
-1 Snapcaster Mage
-2 Cryptic Command
-2 Opt
-2 Flooded Strand
-3 Flooded Strand
-3 Opt
-3 Cryptic Command
-4 Flooded Strand
 4 Island
 1 Forest
 1 Academy Ruins
@@ -117,83 +151,74 @@
 1 Spell Snare
 1 Engineered Explosives
 1 Torrential Gearhulk
-1 Pulse of Murasa
 1 Search for Azcanta
+1 Pulse of Murasa
 1 Dismember
-1 Hinterland Harbor
-1 Glen Elendra Archmage
-1 Remand
 1 Clinging Mists
 1 Repudiate / Replicate
+1 Remand
+1 Hinterland Harbor
+1 Glen Elendra Archmage
 2 Misty Rainforest
 2 Growth Spiral
 2 Pulse of Murasa
+2 Spell Snare
+2 Flooded Grove
 2 Remand
 2 Hinterland Harbor
 2 Search for Azcanta
-2 Spell Snare
-2 Temple Garden
 2 Repudiate / Replicate
 2 Dismember
-2 Flooded Grove
-2 Torrential Gearhulk
 2 Breeding Pool
+2 Temple Garden
+2 Torrential Gearhulk
 3 Misty Rainforest
 3 Growth Spiral
 3 Dismember
-3 Remand
 3 Torrential Gearhulk
 3 Repudiate / Replicate
 3 Hinterland Harbor
+3 Remand
 4 Growth Spiral
-4 Misty Rainforest
-4 Remand
 4 Opt
 4 Cryptic Command
 4 Repudiate / Replicate
-1 Inspiring Vantage
-1 Wooded Foothills
-1 Sarkhan, Fireblood
-2 Inspiring Vantage
-2 Sarkhan, Fireblood
-3 Inspiring Vantage
-4 Inspiring Vantage
-1 Field of Ruin
-1 Glacial Fortress
-1 Negate
-1 Supreme Verdict
-2 Supreme Verdict
-2 Negate
-2 Glacial Fortress
-4 Path to Exile
-2 Field of Ruin
-3 Field of Ruin
-1 Godless Shrine
-1 Esper Charm
-1 Creeping Tar Pit
-1 Watery Grave
-1 Kaya, Orzhov Usurper
-1 Nihil Spellbomb
-1 Teferi, Hero of Dominaria
-1 Jace, the Mind Sculptor
-1 Hallowed Fountain
-1 Cast Down
-2 Watery Grave
-2 Esper Charm
-2 Teferi, Hero of Dominaria
-2 Nihil Spellbomb
-2 Snapcaster Mage
-2 Logic Knot
-2 Hallowed Fountain
-2 Jace, the Mind Sculptor
-3 Teferi, Hero of Dominaria
-3 Polluted Delta
-3 Esper Charm
-3 Nihil Spellbomb
-3 Fatal Push
-3 Snapcaster Mage
-4 Polluted Delta
-4 Snapcaster Mage
+4 Misty Rainforest
+4 Remand
+1 Inquisition of Kozilek
+1 Jace, Vryn's Prodigy
+1 Thoughtseize
+1 Lingering Souls
+1 Serum Visions
+1 Goryo's Vengeance
+1 Tasigur, the Golden Fang
+1 Obzedat, Ghost Council
+1 Darkslick Shores
+1 Thought Scour
+1 Murderous Cut
+1 Griselbrand
+1 Shambling Vent
+2 Jace, Vryn's Prodigy
+2 Inquisition of Kozilek
+2 Thoughtseize
+2 Lingering Souls
+2 Darkslick Shores
+2 Thought Scour
+2 Goryo's Vengeance
+2 Obzedat, Ghost Council
+2 Serum Visions
+3 Inquisition of Kozilek
+3 Jace, Vryn's Prodigy
+3 Serum Visions
+3 Goryo's Vengeance
+3 Obzedat, Ghost Council
+3 Darkslick Shores
+3 Thought Scour
+4 Jace, Vryn's Prodigy
+4 Serum Visions
+4 Darkslick Shores
+4 Goryo's Vengeance
+4 Thought Scour
 1 Cast Out
 6 Plains
 7 Plains
@@ -206,37 +231,37 @@
 1 Gideon Jura
 1 Horizon Canopy
 1 Journey to Nowhere
+1 Blessed Alliance
 1 Archangel Avacyn
 1 Elspeth, Sun's Champion
 1 Settle the Wreckage
 1 Gideon, Ally of Zendikar
-1 Blessed Alliance
 1 Ghost Quarter
 2 Horizon Canopy
 2 Mind Stone
 2 Wrath of God
 2 Blessed Alliance
 2 Archangel Avacyn
-2 Gideon, Ally of Zendikar
-2 Journey to Nowhere
 2 Elspeth, Sun's Champion
 2 Ghost Quarter
 2 Settle the Wreckage
+2 Journey to Nowhere
+2 Gideon, Ally of Zendikar
 2 Gideon Jura
 3 Wrath of God
-3 Settle the Wreckage
-3 Ghost Quarter
 3 Gideon, Ally of Zendikar
-3 Elspeth, Sun's Champion
 3 Gideon Jura
+3 Elspeth, Sun's Champion
+3 Ghost Quarter
+3 Settle the Wreckage
 3 Mind Stone
 3 Journey to Nowhere
 4 Field of Ruin
+4 Ghost Quarter
 4 Mind Stone
+4 Wrath of God
 4 Gideon, Ally of Zendikar
 4 Settle the Wreckage
-4 Ghost Quarter
-4 Wrath of God
 11 Plains
 12 Plains
 13 Plains
@@ -244,33 +269,33 @@
 1 Nevermore
 1 Detention Sphere
 1 Spreading Seas
-1 Temple of Enlightenment
-1 Aetherling
-1 Gideon's Intervention
 1 Faerie Conclave
 1 Sphere of Safety
+1 Aetherling
 1 Ghostly Prison
+1 Temple of Enlightenment
+1 Gideon's Intervention
 2 Runed Halo
 2 Spreading Seas
-2 Detention Sphere
 2 Temple of Enlightenment
-2 Gideon's Intervention
 2 Faerie Conclave
-2 Cast Out
 2 Aetherling
-2 Ghostly Prison
+2 Cast Out
 2 Nevermore
+2 Detention Sphere
+2 Gideon's Intervention
+2 Ghostly Prison
 2 Sphere of Safety
 3 Glacial Fortress
 3 Spreading Seas
-3 Ghostly Prison
-3 Runed Halo
-3 Temple of Enlightenment
 3 Detention Sphere
+3 Ghostly Prison
+3 Temple of Enlightenment
+3 Runed Halo
 3 Nevermore
 4 Glacial Fortress
-4 Spreading Seas
 4 Nevermore
 4 Detention Sphere
 4 Ghostly Prison
+4 Spreading Seas
 5 Island
