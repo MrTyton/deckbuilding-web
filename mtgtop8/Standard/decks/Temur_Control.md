@@ -56,7 +56,7 @@
 |                    3|[Shock](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129732)            |                    2|[Raptor Hatchling](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435309)   |
 |                    3|[Frilled Mystic](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457318)   |                    1|[Hydroid Krasis](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457327)     |
 |                    4|[Shock](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129732)            |                    2|[Hydroid Krasis](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457327)     |
-|                    2|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)         |                    2|[Ral, Izzet Viceroy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452945) |
-|                    2|[Lightning Strike](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383299) |                    4|[Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)             |
+|                    2|[Lightning Strike](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383299) |                    2|[Ral, Izzet Viceroy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452945) |
+|                    2|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)         |                    4|[Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)             |
 |                    3|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)           |                    3|[Lava Coil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452858)          |
 
