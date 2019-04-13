@@ -57,6 +57,6 @@
 |                     |                                                                                                  |                    2|[Nature's Claim](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382316)            |
 |                     |                                                                                                  |                    3|[Nature's Claim](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382316)            |
 |                     |                                                                                                  |                    1|[Vengeful Pharaoh](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220170)          |
-|                     |                                                                                                  |                    2|[Vengeful Pharaoh](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220170)          |
 |                     |                                                                                                  |                    4|[Disrupting Shoal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=74128)           |
+|                     |                                                                                                  |                    2|[Vengeful Pharaoh](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220170)          |
 

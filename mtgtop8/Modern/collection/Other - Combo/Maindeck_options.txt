@@ -1,8 +1,8 @@
 1 Sword of the Meek
 1 Botanical Sanctum
+1 Mishra's Bauble
 1 Sly Requisitioner
 1 Grinding Station
-1 Mishra's Bauble
 1 Scrap Trawler
 1 Chromatic Star
 1 Whir of Invention
@@ -16,22 +16,22 @@
 2 Scrap Trawler
 2 Grinding Station
 2 Sly Requisitioner
+2 Mishra's Bauble
 2 Chromatic Star
 2 Whir of Invention
 2 Sword of the Meek
-2 Mishra's Bauble
 3 Spire of Industry
 3 Memnite
 3 Ancient Stirrings
 3 Darkslick Shores
 3 Botanical Sanctum
 3 Glimmervoid
+3 Grinding Station
 3 Chromatic Star
 3 Whir of Invention
-3 Grinding Station
+3 Mishra's Bauble
 3 Sword of the Meek
 3 Scrap Trawler
-3 Mishra's Bauble
 3 Thopter Foundry
 3 Sly Requisitioner
 4 Glimmervoid
@@ -39,25 +39,25 @@
 4 Ancient Stirrings
 4 Botanical Sanctum
 4 Memnite
-4 Sword of the Meek
 4 Chromatic Star
+4 Sword of the Meek
 4 Sly Requisitioner
 4 Grinding Station
 4 Thopter Foundry
 4 Scrap Trawler
 1 Faithless Looting
 1 Echoing Truth
-1 Shivan Reef
 1 Sleight of Hand
-2 Shivan Reef
+1 Shivan Reef
 2 Sleight of Hand
+2 Shivan Reef
 3 Island
-3 Shivan Reef
 3 Sleight of Hand
+3 Shivan Reef
 4 Opt
 4 Shivan Reef
-1 Search for Azcanta
 1 Scalding Tarn
+1 Search for Azcanta
 1 Flame Slash
 1 Simian Spirit Guide
 2 Scalding Tarn
@@ -68,25 +68,83 @@
 4 Tolaria West
 4 Scalding Tarn
 1 Sacred Foundry
+1 Plains
+2 Plains
+1 Lotus Bloom
+1 Rugged Prairie
+1 Temple of Triumph
+1 Temple of Plenty
+1 Ghostly Prison
+1 Sphere of Safety
+1 Runed Halo
+1 Nykthos, Shrine to Nyx
+1 Oblivion Ring
+1 Porphyry Nodes
+1 Suppression Field
+1 Boseiju, Who Shelters All
+1 Form of the Dragon
+1 Dovescape
+1 Overwhelming Splendor
+1 Leyline of Sanctity
+1 Phyrexian Unlife
+1 Enduring Ideal
+1 Mistveil Plains
+2 Lotus Bloom
+2 Rugged Prairie
+2 Temple of Triumph
+2 Temple of Plenty
+2 Sphere of Safety
+2 Ghostly Prison
+2 Nykthos, Shrine to Nyx
+2 Runed Halo
+2 Suppression Field
+2 Phyrexian Unlife
+2 Enduring Ideal
+2 Leyline of Sanctity
+2 Form of the Dragon
+2 Porphyry Nodes
+3 Lotus Bloom
+3 Temple of Triumph
+3 Runed Halo
+3 Ghostly Prison
+3 Nykthos, Shrine to Nyx
+3 Plains
+3 Leyline of Sanctity
+3 Enduring Ideal
+3 Phyrexian Unlife
+3 Suppression Field
+4 Lotus Bloom
+4 Temple of Triumph
+4 Ghostly Prison
+4 Nykthos, Shrine to Nyx
+4 Plains
+4 Leyline of Sanctity
+4 Enduring Ideal
+4 Runed Halo
+5 Plains
+6 Plains
+7 Plains
+8 Plains
+9 Plains
+10 Plains
+1 Repeal
 1 Arid Mesa
 1 Thoughtcast
-1 Repeal
 1 Noxious Revival
 1 Paradise Mantle
 1 Hallowed Fountain
 1 Sram, Senior Edificer
-1 Spidersilk Net
-1 Cathar's Shield
-1 Bone Saw
-1 Puresteel Paladin
-1 Retract
 1 Grapeshot
+1 Spidersilk Net
+1 Bone Saw
+1 Retract
 1 Flooded Strand
 1 Accorder's Shield
 1 Seachrome Coast
-1 Plains
-2 Arid Mesa
+1 Cathar's Shield
+1 Puresteel Paladin
 2 Repeal
+2 Arid Mesa
 2 Flooded Strand
 2 Paradise Mantle
 2 Grapeshot
@@ -97,10 +155,9 @@
 2 Hallowed Fountain
 2 Cathar's Shield
 2 Accorder's Shield
-2 Plains
 2 Bone Saw
-3 Arid Mesa
 3 Repeal
+3 Arid Mesa
 3 Hallowed Fountain
 3 Flooded Strand
 3 Retract
@@ -114,10 +171,10 @@
 4 Arid Mesa
 4 Flooded Strand
 4 Bone Saw
-4 Puresteel Paladin
 4 Accorder's Shield
 4 Paradise Mantle
 4 Retract
-4 Sram, Senior Edificer
 4 Cathar's Shield
+4 Puresteel Paladin
+4 Sram, Senior Edificer
 4 Spidersilk Net
