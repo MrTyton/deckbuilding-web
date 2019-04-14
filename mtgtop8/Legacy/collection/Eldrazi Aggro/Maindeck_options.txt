@@ -1,18 +1,17 @@
-3 Endbringer
-3 Simian Spirit Guide
-3 City of Traitors
+2 Walking Ballista
 1 All Is Dust
 1 Grim Monolith
 1 Ulamog, the Ceaseless Hunger
-2 Umezawa's Jitte
+3 City of Traitors
+1 Warping Wail
 1 Oblivion Sower
 3 Walking Ballista
 4 Walking Ballista
 2 Grim Monolith
 3 Grim Monolith
 1 Sorcerous Spyglass
-1 Cloudpost
 1 Glimmerpost
+1 Cloudpost
 1 Vesuva
 2 Sorcerous Spyglass
 2 All Is Dust
@@ -26,6 +25,7 @@
 4 Glimmerpost
 4 Grim Monolith
 3 Wastes
+2 Umezawa's Jitte
 1 Karn, Scion of Urza
 2 Karn, Scion of Urza
 2 Mishra's Factory
@@ -34,7 +34,7 @@
 1 Thespian's Stage
 2 Oblivion Sower
 2 Warping Wail
-2 Karakas
+4 Simian Spirit Guide
 3 Oblivion Sower
 2 Urborg, Tomb of Yawgmoth
 3 Mishra's Factory
@@ -48,6 +48,7 @@
 2 Plains
 2 Thalia, Heretic Cathar
 2 Eldrazi Displacer
+2 Karakas
 2 Thalia, Guardian of Thraben
 2 Mox Diamond
 3 Karakas
@@ -56,27 +57,26 @@
 3 Eldrazi Displacer
 4 Eldrazi Displacer
 4 Thalia, Guardian of Thraben
-4 Simian Spirit Guide
 1 Mountain
-1 Goblin Cratermaker
-1 Blood Sun
-1 Sulfurous Springs
 1 Legion Warboss
-1 Ash Barrens
+1 Blood Sun
 1 Goblin Rabblemaster
 1 Hazoret the Fervent
-2 Ash Barrens
-2 Blood Sun
-2 Sulfurous Springs
-2 Mountain
 2 Goblin Rabblemaster
-3 Dismember
+2 Blood Sun
+2 Mountain
 3 Blood Sun
 3 Goblin Rabblemaster
 3 Mountain
 4 Goblin Rabblemaster
-4 Mountain
 4 Blood Sun
+1 Goblin Cratermaker
+1 Sulfurous Springs
+1 Ash Barrens
+2 Ash Barrens
+2 Sulfurous Springs
+3 Dismember
+4 Mountain
 5 Mountain
 6 Mountain
 7 Mountain
@@ -84,6 +84,25 @@
 1 Phyrexian Metamorph
 1 Kozilek, the Great Distortion
 1 Kozilek, Butcher of Truth
+1 Snow-Covered Mountain
+1 Punishing Fire
+1 Grove of the Burnwillows
+1 Eldrazi Obligator
+1 Trinisphere
+1 Fiery Confluence
+1 Chrome Mox
+2 Snow-Covered Mountain
+2 Punishing Fire
+2 Grove of the Burnwillows
+2 Trinisphere
+2 Chrome Mox
+2 Fiery Confluence
+2 Legion Warboss
+3 Punishing Fire
+3 Grove of the Burnwillows
+3 Legion Warboss
+4 Grove of the Burnwillows
+4 City of Traitors
 3 Ratchet Bomb
 3 Warping Wail
 4 Warping Wail
@@ -94,9 +113,9 @@
 1 Sword of Fire and Ice
 2 Phyrexian Revoker
 2 Stoneforge Mystic
-3 Mox Diamond
 3 Phyrexian Revoker
 3 Stoneforge Mystic
+3 Mox Diamond
 4 Stoneforge Mystic
 1 Smuggler's Copter
 1 Containment Priest
