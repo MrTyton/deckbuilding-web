@@ -37,6 +37,6 @@
 |                    1|[Kaya, Orzhov Usurper](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457330)    |                    1|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)   |
 |                    1|[Fatal Push](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423724)              |                    1|[Liliana, the Last Hope](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414388)|
 |                    1|[Field of Ruin](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435415)           |                    2|[Kor Firewalker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442010)        |
-|                    1|[Anointed Procession](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426704)     |                    2|[Sundering Growth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456378)      |
-|                    2|[Windswept Heath](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405115)         |                    2|[Wrath of God](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129808)          |
+|                    2|[Windswept Heath](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405115)         |                    2|[Sundering Growth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456378)      |
+|                    1|[Anointed Procession](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426704)     |                    2|[Wrath of God](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129808)          |
 
