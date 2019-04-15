@@ -54,7 +54,7 @@
 |                    3|[Shrapnel Blast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442784)     |                    1|[Torpor Orb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=233069)         |
 |                    4|[Shrapnel Blast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442784)     |                    1|[Chalice of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442211)|
 |                     |                                                                                              |                    3|[Ancient Grudge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=235600)     |
-|                     |                                                                                              |                    3|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|
 |                     |                                                                                              |                    3|[Wear/Tear](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=368950)          |
+|                     |                                                                                              |                    3|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|
 |                     |                                                                                              |                    3|[Dispatch](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397781)           |
 

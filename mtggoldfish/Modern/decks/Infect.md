@@ -68,7 +68,7 @@
 |                     |                                                                                               |                    3|[Thing in the Ice](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409836)          |
 |                     |                                                                                               |                    1|[Hurkyl's Recall](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=135260)           |
 |                     |                                                                                               |                    3|[Shapers' Sanctuary](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435362)        |
-|                     |                                                                                               |                    1|[Birds of Paradise](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129906)         |
 |                     |                                                                                               |                    1|[Nissa, Steward of Elements](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426906)|
+|                     |                                                                                               |                    1|[Birds of Paradise](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129906)         |
 |                     |                                                                                               |                    1|[Jace Beleren](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=185816)              |
 

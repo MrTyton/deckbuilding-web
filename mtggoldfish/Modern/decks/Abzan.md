@@ -80,7 +80,7 @@
 |                    2|[Collective Brutality](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414380)    |                     |                                                                                                       |
 |                    3|[Collective Brutality](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414380)    |                     |                                                                                                       |
 |                    3|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)                   |                     |                                                                                                       |
+|                    4|[Collective Brutality](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414380)    |                     |                                                                                                       |
 |                    4|[Dark Confidant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397731)          |                     |                                                                                                       |
 |                    4|[Marsh Flats](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405101)             |                     |                                                                                                       |
-|                    4|[Collective Brutality](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414380)    |                     |                                                                                                       |
 
