@@ -5,14 +5,14 @@
 1 Counterspell
 1 Wasteland
 1 Misty Rainforest
-2 Wasteland
 2 Scalding Tarn
+2 Wasteland
 2 Scrubland
 3 Marsh Flats
 1 Monastery Mentor
 2 Monastery Mentor
-3 Tundra
 3 Monastery Mentor
+3 Tundra
 1 Bloodstained Mire
 2 Bloodstained Mire
 1 Search for Azcanta
@@ -43,8 +43,8 @@
 1 Kaya, Orzhov Usurper
 1 Umezawa's Jitte
 1 Reanimate
-1 Dismember
 1 Thief of Sanity
+1 Dismember
 1 Verdant Catacombs
 1 To the Slaughter
 2 Thief of Sanity
@@ -58,16 +58,16 @@
 3 Gurmag Angler
 3 Preordain
 3 Inquisition of Kozilek
-1 Plateau
 1 Badlands
+1 Plateau
 1 Phyrexian Tower
-1 Rix Maadi Reveler
 1 Cabal Therapy
 1 Mountain
 1 Humility
 1 Norin the Wary
 1 Hidden Stockpile
 1 Grave Pact
+1 Rix Maadi Reveler
 1 Bloodghast
 1 Lingering Souls
 1 Daretti, Ingenious Iconoclast
@@ -75,7 +75,6 @@
 1 Faithless Looting
 1 Genesis Chamber
 2 Badlands
-2 Rix Maadi Reveler
 2 Cabal Therapy
 2 Norin the Wary
 2 Genesis Chamber
@@ -84,6 +83,7 @@
 2 Lingering Souls
 2 Humility
 2 Daretti, Ingenious Iconoclast
+2 Rix Maadi Reveler
 2 Faithless Looting
 2 Priest of Forgotten Gods
 3 Bloodstained Mire
@@ -119,14 +119,14 @@
 2 Tropical Island
 2 Noble Hierarch
 2 Misty Rainforest
-3 Scalding Tarn
 3 Grove of the Burnwillows
 3 Punishing Fire
+3 Spell Pierce
+3 Scalding Tarn
 3 Volcanic Island
 3 Misty Rainforest
 3 Wasteland
 3 Jace, the Mind Sculptor
-3 Spell Pierce
 3 Noble Hierarch
 3 Tarmogoyf
 4 Spell Pierce

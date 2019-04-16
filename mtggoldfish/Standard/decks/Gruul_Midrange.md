@@ -50,8 +50,8 @@
 |                    4|[Pelt Collector](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452891)      |                    1|[Demanding Dragon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447271)    |
 |                     |                                                                                               |                    1|[Thorn Lieutenant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447339)    |
 |                     |                                                                                               |                    2|[Carnage Tyrant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435334)      |
-|                     |                                                                                               |                    3|[Domri, Chaos Bringer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457310)|
-|                     |                                                                                               |                    3|[Status/Statue](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452980)       |
 |                     |                                                                                               |                    1|[Skarrgan Hellkite](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457258)   |
 |                     |                                                                                               |                    3|[Legion Warboss](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452859)      |
+|                     |                                                                                               |                    3|[Domri, Chaos Bringer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457310)|
+|                     |                                                                                               |                    3|[Status/Statue](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452980)       |
 
