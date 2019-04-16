@@ -22,3 +22,16 @@
 |                                                                                               |1 [Murmuring Mystic](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452795) |2 [Fiery Cannonade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435297)  |2 [Fight with Fire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443007)   |
 |                                                                                               |2 [Niv-Mizzet, Parun](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452942)|2 [Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)           |1 [Star of Extinction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435315)|
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                     Maindeck Card                                     |*n*<sup>th</sup> copy|                                       Sideboard Card                                       |
+|--------------------:|---------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------|
+|                    3|[Dive Down](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435205)   |                    1|[Raptor Hatchling](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435309) |
+|                    3|[Spell Pierce](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425876)|                    1|[Beacon Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452904)      |
+|                    8|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)      |                    1|[Entrancing Melody](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435207)|
+|                     |                                                                                       |                    2|[Entrancing Melody](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435207)|
+|                     |                                                                                       |                    2|[Raptor Hatchling](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435309) |
+|                     |                                                                                       |                    3|[Niv-Mizzet, Parun](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452942)|
+|                     |                                                                                       |                    3|[Raptor Hatchling](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435309) |
+

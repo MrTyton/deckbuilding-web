@@ -26,9 +26,13 @@
 
 # Other Options
 
-|*n*<sup>th</sup> copy|                                      Maindeck Card                                      |*n*<sup>th</sup> copy|                                       Sideboard Card                                       |
-|--------------------:|-----------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------|
-|                    1|[Tithe Taker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457171)   |                    1|[Conclave Tribunal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452756)|
-|                    2|[Tithe Taker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457171)   |                    1|[Adanto Vanguard](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435152)  |
-|                    3|[Hunted Witness](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452765)|                    2|[Conclave Tribunal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452756)|
+|*n*<sup>th</sup> copy|                                      Maindeck Card                                      |*n*<sup>th</sup> copy|                                            Sideboard Card                                            |
+|--------------------:|-----------------------------------------------------------------------------------------|--------------------:|------------------------------------------------------------------------------------------------------|
+|                    1|[Tithe Taker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457171)   |                    1|[Conclave Tribunal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452756)          |
+|                    2|[Tithe Taker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457171)   |                    1|[Adanto Vanguard](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435152)            |
+|                    3|[Hunted Witness](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452765)|                    3|[Ajani, Adversary of Tyrants](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447139)|
+|                    1|[Baffling End](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439658)  |                    2|[Conclave Tribunal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452756)          |
+|                    2|[Baffling End](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439658)  |                     |                                                                                                      |
+|                    3|[Tithe Taker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457171)   |                     |                                                                                                      |
+|                    4|[Tithe Taker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457171)   |                     |                                                                                                      |
 

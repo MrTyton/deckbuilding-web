@@ -2,15 +2,15 @@
 2 Cascade Bluffs
 3 Tolaria West
 3 Steam Vents
-1 Fulminator Mage
-2 Fulminator Mage
 1 Monstrous Carabid
 1 Simian Spirit Guide
 2 Monstrous Carabid
 2 Simian Spirit Guide
+4 Street Wraith
+1 Fulminator Mage
+2 Fulminator Mage
 3 Monstrous Carabid
 4 Monstrous Carabid
-4 Street Wraith
 3 Fulminator Mage
 1 Blackcleave Cliffs
 1 Blood Crypt
@@ -24,8 +24,8 @@
 3 Grove of the Burnwillows
 1 Blooming Marsh
 1 Archfiend of Ifnir
-1 Verdant Catacombs
 1 Overgrown Tomb
+1 Verdant Catacombs
 1 Stomping Ground
 1 Demonic Dread
 1 Horror of the Broken Lands
@@ -35,9 +35,9 @@
 2 Archfiend of Ifnir
 2 Verdant Catacombs
 2 Swamp
-2 Demonic Dread
 2 Violent Outburst
 2 Horror of the Broken Lands
+2 Demonic Dread
 3 Verdant Catacombs
 3 Archfiend of Ifnir
 3 Violent Outburst
@@ -50,15 +50,6 @@
 1 Beast Within
 2 Beast Within
 4 Grove of the Burnwillows
-4 Cryptic Command
-1 Vendilion Clique
-2 Izzet Charm
-1 Architects of Will
-1 Nimble Obstructionist
-3 Demonic Dread
-4 Simian Spirit Guide
-1 Bloodstained Mire
-4 Faerie Macabre
 1 Deadshot Minotaur
 1 Flameblade Adept
 1 Hollow One
@@ -75,32 +66,57 @@
 3 Deadshot Minotaur
 3 Hollow One
 4 Mountain
-4 Flameblade Adept
 4 Hollow One
 4 Faithless Looting
-4 Deadshot Minotaur
 5 Mountain
 6 Mountain
+4 Cryptic Command
+1 Vendilion Clique
+2 Izzet Charm
+1 Architects of Will
+1 Nimble Obstructionist
+3 Demonic Dread
+4 Simian Spirit Guide
+1 Bloodstained Mire
+4 Faerie Macabre
+4 Flameblade Adept
+4 Deadshot Minotaur
+7 Mountain
+8 Mountain
 2 Abrade
 1 Misty Rainforest
 2 Vendilion Clique
-2 Bloodstained Mire
-2 Blood Crypt
-3 Bloodstained Mire
-4 Bloodstained Mire
 4 Demonic Dread
 1 Bloodbraid Elf
 2 Bloodbraid Elf
 3 Bloodbraid Elf
 4 Fulminator Mage
-1 Field of Ruin
-1 Magma Spray
-5 Island
 1 Insolent Neonate
 1 Copperline Gorge
 2 Insolent Neonate
 2 Copperline Gorge
 3 Copperline Gorge
-7 Mountain
-8 Mountain
 4 Copperline Gorge
+1 Field of Ruin
+1 Magma Spray
+5 Island
+1 Elesh Norn, Grand Cenobite
+1 Demigod of Revenge
+1 Wooded Foothills
+1 Cathartic Reunion
+2 Demigod of Revenge
+2 Wooded Foothills
+2 Cathartic Reunion
+3 Urabrask the Hidden
+3 Demigod of Revenge
+3 Wooded Foothills
+4 Wooded Foothills
+4 Demigod of Revenge
+9 Mountain
+10 Mountain
+11 Mountain
+12 Mountain
+2 Bloodstained Mire
+2 Blood Crypt
+3 Bloodstained Mire
+4 Bloodstained Mire

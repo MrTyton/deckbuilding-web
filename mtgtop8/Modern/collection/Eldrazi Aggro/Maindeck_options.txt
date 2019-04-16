@@ -1,19 +1,19 @@
 1 Smuggler's Copter
 2 Cavern of Souls
 1 Sea Gate Wreckage
+1 Basilisk Collar
 1 All Is Dust
 1 Walking Ballista
-1 Basilisk Collar
 1 Karn Liberated
 1 Urza's Mine
 1 Urza's Tower
 1 Urza's Power Plant
 1 Expedition Map
 2 All Is Dust
-2 Urza's Mine
 2 Urza's Power Plant
 2 Expedition Map
 2 Urza's Tower
+2 Urza's Mine
 2 Walking Ballista
 3 Walking Ballista
 3 Urza's Tower
@@ -25,14 +25,16 @@
 4 Urza's Mine
 4 Urza's Tower
 4 Urza's Power Plant
+3 Wastes
 1 Karn, Scion of Urza
 1 Ulamog, the Ceaseless Hunger
 2 Endbringer
 1 Sanctum of Ugin
 3 Mutavault
-3 Wastes
-1 Relic of Progenitus
-2 Relic of Progenitus
+1 Eldrazi Obligator
+1 Mountain
+2 Eldrazi Obligator
+3 Eldrazi Obligator
 1 Noble Hierarch
 1 Forest
 1 Ancient Stirrings
@@ -41,20 +43,18 @@
 3 Ancient Stirrings
 3 Noble Hierarch
 4 Ancient Stirrings
+1 Relic of Progenitus
+2 Relic of Progenitus
 3 Cavern of Souls
 4 Noble Hierarch
 1 Grove of the Burnwillows
-1 Eldrazi Obligator
-1 Mountain
 1 Lightning Bolt
 1 Karplusan Forest
 2 Forest
 2 Lightning Bolt
-2 Eldrazi Obligator
 2 Karplusan Forest
 3 Lightning Bolt
 3 Karplusan Forest
-3 Eldrazi Obligator
 4 Lightning Bolt
 4 Karplusan Forest
 2 Smuggler's Copter
@@ -83,12 +83,12 @@
 2 Eldrazi Skyspawner
 2 Yavimaya Coast
 3 Brushland
+3 Drowner of Hope
 3 Eldrazi Displacer
 3 Path to Exile
 3 Yavimaya Coast
 3 Windswept Heath
 3 Eldrazi Skyspawner
-3 Drowner of Hope
 4 Windswept Heath
 4 Eldrazi Displacer
 4 Drowner of Hope
@@ -131,8 +131,8 @@
 3 Thalia, Guardian of Thraben
 2 Basilisk Collar
 3 Endbringer
-1 Thrashing Brontodon
 1 Thundermaw Hellkite
+1 Thrashing Brontodon
 1 Thragtusk
 2 Birds of Paradise
 2 Thundermaw Hellkite
@@ -151,6 +151,17 @@
 3 Scavenging Ooze
 4 Grove of the Burnwillows
 4 Gruul Spellbreaker
+1 Sulfurous Springs
+1 Chandra, Torch of Defiance
+1 Ramunap Ruins
+2 Sulfurous Springs
+2 Mountain
+2 Ramunap Ruins
+3 Mountain
+3 Ramunap Ruins
+3 Sulfurous Springs
+4 Sulfurous Springs
+4 Ramunap Ruins
 1 Endless One
 1 Tectonic Edge
 2 Endless One
