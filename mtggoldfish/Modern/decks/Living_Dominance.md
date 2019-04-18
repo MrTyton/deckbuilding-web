@@ -30,7 +30,7 @@
 
 |*n*<sup>th</sup> copy|                                        Maindeck Card                                        |*n*<sup>th</sup> copy|                                    Sideboard Card                                     |
 |--------------------:|---------------------------------------------------------------------------------------------|--------------------:|---------------------------------------------------------------------------------------|
-|                    1|[Kolaghan's Command](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394613)|                    4|[Fatal Push](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423724)  |
-|                    2|[Kolaghan's Command](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394613)|                    2|[Shatterstorm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=130370)|
+|                    2|[Kolaghan's Command](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394613)|                    4|[Fatal Push](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423724)  |
+|                    1|[Kolaghan's Command](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394613)|                    2|[Shatterstorm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=130370)|
 |                     |                                                                                             |                    1|[Shatterstorm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=130370)|
 

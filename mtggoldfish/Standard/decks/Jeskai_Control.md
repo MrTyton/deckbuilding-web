@@ -43,8 +43,8 @@
 |                    2|[Expansion/Explosion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452974)|                    1|[Rekindling Phoenix](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439768) |
 |                    2|[Absorb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=23155)              |                    1|[Lava Coil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452858)          |
 |                    3|[Absorb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=23155)              |                    2|[Rekindling Phoenix](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439768) |
-|                    4|[Opt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442948)                |                    2|[Deputy of Detention](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457309)|
-|                    4|[Treasure Map](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435410)       |                    3|[Rekindling Phoenix](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439768) |
-|                    4|[Niv-Mizzet, Parun](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452942)  |                    3|[Deputy of Detention](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457309)|
+|                    4|[Treasure Map](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435410)       |                    2|[Deputy of Detention](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457309)|
+|                    4|[Niv-Mizzet, Parun](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452942)  |                    3|[Rekindling Phoenix](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439768) |
+|                    4|[Opt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442948)                |                    3|[Deputy of Detention](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457309)|
 |                    4|[Deafening Clarion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452915)  |                     |                                                                                              |
 

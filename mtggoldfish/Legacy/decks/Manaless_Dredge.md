@@ -57,6 +57,6 @@
 |                     |                                                                                                  |                    1|[Elvish Spirit Guide](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3134)         |
 |                     |                                                                                                  |                    1|[Nature's Claim](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382316)            |
 |                     |                                                                                                  |                    2|[Elvish Spirit Guide](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3134)         |
-|                     |                                                                                                  |                    3|[Nature's Claim](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382316)            |
 |                     |                                                                                                  |                    2|[Nature's Claim](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382316)            |
+|                     |                                                                                                  |                    3|[Nature's Claim](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382316)            |
 

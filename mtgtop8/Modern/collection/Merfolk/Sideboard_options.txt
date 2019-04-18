@@ -1,3 +1,5 @@
+2 Tidebinder Mage
+1 Wizard's Retort
 2 Wizard's Retort
 1 Chalice of the Void
 1 Tectonic Edge
@@ -6,22 +8,24 @@
 3 Chalice of the Void
 3 Tectonic Edge
 4 Tectonic Edge
-1 Negate
-2 Negate
-1 Hurkyl's Recall
 1 Surgical Extraction
+1 Damping Sphere
+1 Hurkyl's Recall
 1 Spellskite
 3 Echoing Truth
 4 Chalice of the Void
-1 Damping Sphere
+2 Damping Sphere
+3 Ceremonious Rejection
 2 Grafdigger's Cage
-1 Venser, Shaper Savant
 4 Dismember
+2 Surgical Extraction
 3 Wizard's Retort
+1 Venser, Shaper Savant
 1 Flame Slash
 1 Hazoret the Fervent
 1 Blood Moon
 1 Dispel
+1 Disdainful Stroke
 1 Merrow Reejerey
 1 Spell Snare
 1 Spreading Seas
@@ -31,14 +35,10 @@
 1 Pyroclasm
 1 Shatterstorm
 2 Blood Moon
-2 Damping Sphere
 2 Hurkyl's Recall
 3 Hurkyl's Recall
-1 Disdainful Stroke
-3 Ceremonious Rejection
 1 Commandeer
 2 Spellskite
-2 Surgical Extraction
 2 Commandeer
 3 Surgical Extraction
 3 Commandeer
@@ -46,9 +46,9 @@
 1 Ratchet Bomb
 1 Abrade
 1 Kozilek's Return
+1 Unified Will
 1 Sower of Temptation
 1 Chandra, Torch of Defiance
-1 Unified Will
 2 Izzet Staticaster
 2 Kozilek's Return
 2 Sower of Temptation
@@ -58,6 +58,7 @@
 3 Negate
 4 Grafdigger's Cage
 4 Tidebinder Mage
+4 Ceremonious Rejection
 1 Vapor Snag
 1 Mana Leak
 1 Rest in Peace
