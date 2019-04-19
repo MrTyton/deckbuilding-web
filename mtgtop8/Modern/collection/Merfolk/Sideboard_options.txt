@@ -38,13 +38,13 @@
 1 Merrow Reejerey
 1 Deprive
 2 Merrow Reejerey
-2 Hurkyl's Recall
-3 Hurkyl's Recall
 1 Commandeer
 2 Spellskite
 2 Commandeer
 3 Surgical Extraction
 3 Commandeer
+2 Hurkyl's Recall
+3 Hurkyl's Recall
 1 Izzet Staticaster
 1 Ratchet Bomb
 1 Abrade
@@ -55,12 +55,6 @@
 2 Kozilek's Return
 2 Sower of Temptation
 3 Izzet Staticaster
-3 Grafdigger's Cage
-3 Tidebinder Mage
-3 Negate
-4 Grafdigger's Cage
-4 Tidebinder Mage
-4 Ceremonious Rejection
 1 Vapor Snag
 1 Mana Leak
 1 Rest in Peace
@@ -72,5 +66,11 @@
 3 Vapor Snag
 3 Rest in Peace
 3 Stony Silence
-4 Rest in Peace
 4 Vapor Snag
+4 Rest in Peace
+3 Grafdigger's Cage
+3 Tidebinder Mage
+3 Negate
+4 Grafdigger's Cage
+4 Tidebinder Mage
+4 Ceremonious Rejection

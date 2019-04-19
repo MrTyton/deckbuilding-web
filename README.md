@@ -4,12 +4,13 @@
 
 # Standard
 
-|                                       A                                        |                                B                                 |                                C                                 |                                 D                                  |                                  E                                   |
-|--------------------------------------------------------------------------------|------------------------------------------------------------------|------------------------------------------------------------------|--------------------------------------------------------------------|----------------------------------------------------------------------|
-|[Azorius Aggro](./mtggoldfish/Standard/decks/Azorius_Aggro.md)                  |[Esper Control](./mtggoldfish/Standard/decks/Esper_Control.md)    |[Izzet Drakes](./mtggoldfish/Standard/decks/Izzet_Drakes.md)      |[Mono-Red Aggro](./mtggoldfish/Standard/decks/Mono-Red_Aggro.md)    |[Selesnya Tokens](./mtggoldfish/Standard/decks/Selesnya_Tokens.md)    |
-|[Bant Climb](./mtggoldfish/Standard/decks/Bant_Climb.md)                        |[Grixis Midrange](./mtggoldfish/Standard/decks/Grixis_Midrange.md)|[Izzet Phoenix](./mtggoldfish/Standard/decks/Izzet_Phoenix.md)    |[Mono-White Aggro](./mtggoldfish/Standard/decks/Mono-White_Aggro.md)|[Sultai Midrange](./mtggoldfish/Standard/decks/Sultai_Midrange.md)    |
-|[Bant Nexus Reclamation](./mtggoldfish/Standard/decks/Bant_Nexus_Reclamation.md)|[Gruul Aggro](./mtggoldfish/Standard/decks/Gruul_Aggro.md)        |[Jeskai Control](./mtggoldfish/Standard/decks/Jeskai_Control.md)  |[Naya Aggro](./mtggoldfish/Standard/decks/Naya_Aggro.md)            |[Temur Reclamation](./mtggoldfish/Standard/decks/Temur_Reclamation.md)|
-|[Dimir Midrange](./mtggoldfish/Standard/decks/Dimir_Midrange.md)                |[Gruul Stompy](./mtggoldfish/Standard/decks/Gruul_Stompy.md)      |[Mono-Blue Tempo](./mtggoldfish/Standard/decks/Mono-Blue_Tempo.md)|[Rakdos Aggro](./mtggoldfish/Standard/decks/Rakdos_Aggro.md)        |                                                                      |
+|                                       A                                        |                                B                                 |                                 C                                  |                                  D                                   |                   E                    |
+|--------------------------------------------------------------------------------|------------------------------------------------------------------|--------------------------------------------------------------------|----------------------------------------------------------------------|----------------------------------------|
+|[Azorius Aggro](./mtggoldfish/Standard/decks/Azorius_Aggro.md)                  |[Grixis Midrange](./mtggoldfish/Standard/decks/Grixis_Midrange.md)|[Jeskai Control](./mtggoldfish/Standard/decks/Jeskai_Control.md)    |[Rakdos Aggro](./mtggoldfish/Standard/decks/Rakdos_Aggro.md)          |[UG](./mtggoldfish/Standard/decks/UG.md)|
+|[Bant Climb](./mtggoldfish/Standard/decks/Bant_Climb.md)                        |[Gruul Aggro](./mtggoldfish/Standard/decks/Gruul_Aggro.md)        |[Mono-Blue Tempo](./mtggoldfish/Standard/decks/Mono-Blue_Tempo.md)  |[Selesnya Tokens](./mtggoldfish/Standard/decks/Selesnya_Tokens.md)    |                                        |
+|[Bant Nexus Reclamation](./mtggoldfish/Standard/decks/Bant_Nexus_Reclamation.md)|[Gruul Stompy](./mtggoldfish/Standard/decks/Gruul_Stompy.md)      |[Mono-Red Aggro](./mtggoldfish/Standard/decks/Mono-Red_Aggro.md)    |[Simic Nexus](./mtggoldfish/Standard/decks/Simic_Nexus.md)            |                                        |
+|[Dimir Midrange](./mtggoldfish/Standard/decks/Dimir_Midrange.md)                |[Izzet Drakes](./mtggoldfish/Standard/decks/Izzet_Drakes.md)      |[Mono-White Aggro](./mtggoldfish/Standard/decks/Mono-White_Aggro.md)|[Sultai Midrange](./mtggoldfish/Standard/decks/Sultai_Midrange.md)    |                                        |
+|[Esper Control](./mtggoldfish/Standard/decks/Esper_Control.md)                  |[Izzet Phoenix](./mtggoldfish/Standard/decks/Izzet_Phoenix.md)    |[Naya Aggro](./mtggoldfish/Standard/decks/Naya_Aggro.md)            |[Temur Reclamation](./mtggoldfish/Standard/decks/Temur_Reclamation.md)|                                        |
 
 
 # Modern
@@ -52,4 +53,4 @@
 
 
 
-#### Last Updated at 12:41PM on April 18, 2019
+#### Last Updated at 01:37AM on April 19, 2019

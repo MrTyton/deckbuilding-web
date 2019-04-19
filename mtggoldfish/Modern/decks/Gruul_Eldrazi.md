@@ -40,9 +40,9 @@
 |                    1|[Boreal Druid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121193)      |                    4|[Cindervines](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457305)      |
 |                    2|[Copperline Gorge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=209408)  |                    1|[Deglamer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=154160)         |
 |                    4|[Gruul Spellbreaker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457323)|                    1|[Crumble to Dust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401850)  |
-|                    1|[Ghost Quarter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389534)     |                    1|[Natural State](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407646)    |
-|                    1|[Flame Slash](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416914)       |                    2|[Deglamer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=154160)         |
-|                    2|[Flame Slash](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416914)       |                    2|[Crumble to Dust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401850)  |
+|                    1|[Flame Slash](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416914)       |                    1|[Natural State](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407646)    |
+|                    2|[Flame Slash](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416914)       |                    2|[Deglamer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=154160)         |
+|                    1|[Ghost Quarter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389534)     |                    2|[Crumble to Dust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401850)  |
 |                     |                                                                                             |                    2|[Natural State](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407646)    |
 |                     |                                                                                             |                    3|[Natural State](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407646)    |
 

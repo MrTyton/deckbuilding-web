@@ -57,13 +57,13 @@
 4 Dark Confidant
 4 Snow-Covered Swamp
 4 Pack Rat
-1 Cryptic Command
 1 Psionic Blast
+1 Cryptic Command
 1 Remand
 1 Snapcaster Mage
+2 Psionic Blast
 2 Cryptic Command
 2 Remand
-2 Psionic Blast
 1 Forest
 1 Mana Leak
 1 Misty Rainforest
@@ -73,12 +73,12 @@
 1 Birds of Paradise
 1 Breeding Pool
 1 Botanical Sanctum
-1 Noble Hierarch
-1 Frilled Mystic
 1 Logic Knot
 1 Scavenging Ooze
 1 Vedalken Shackles
 1 Tireless Tracker
+1 Noble Hierarch
+1 Frilled Mystic
 1 Tarmogoyf
 1 Scalding Tarn
 1 Dismember
@@ -86,14 +86,14 @@
 2 Misty Rainforest
 2 Tireless Tracker
 2 Birds of Paradise
-2 Noble Hierarch
 2 Scavenging Ooze
+2 Vedalken Shackles
 2 Kitchen Finks
 2 Dismember
 2 Spell Snare
 2 Forest
 2 Mana Leak
-2 Vedalken Shackles
+2 Noble Hierarch
 2 Island
 2 Tarmogoyf
 2 Scalding Tarn
@@ -103,23 +103,74 @@
 3 Misty Rainforest
 3 Cryptic Command
 3 Breeding Pool
-3 Noble Hierarch
 3 Island
 3 Tarmogoyf
+3 Noble Hierarch
 4 Botanical Sanctum
 4 Breeding Pool
-4 Noble Hierarch
 4 Misty Rainforest
 4 Tarmogoyf
+4 Noble Hierarch
 4 Cryptic Command
+1 Vapor Snag
+1 Disrupting Shoal
+1 Deprive
+1 Serum Visions
+1 Field of Ruin
+1 Opt
+1 Sleight of Hand
+1 Thing in the Ice
+1 Pteramander
+2 Snow-Covered Island
+2 Opt
+2 Vapor Snag
+2 Disrupting Shoal
+2 Snapcaster Mage
+2 Pteramander
+2 Sleight of Hand
+2 Thing in the Ice
+2 Serum Visions
+3 Snow-Covered Island
+3 Vapor Snag
+3 Pteramander
+3 Psionic Blast
+3 Disrupting Shoal
+3 Sleight of Hand
+3 Thing in the Ice
+3 Remand
+3 Snapcaster Mage
+3 Opt
+3 Serum Visions
+4 Vapor Snag
+4 Disrupting Shoal
+4 Snow-Covered Island
+4 Pteramander
+4 Snapcaster Mage
+4 Serum Visions
+4 Remand
+4 Opt
+4 Thing in the Ice
+4 Sleight of Hand
+5 Snow-Covered Island
+6 Snow-Covered Island
+7 Snow-Covered Island
+8 Snow-Covered Island
+9 Snow-Covered Island
+10 Snow-Covered Island
+11 Snow-Covered Island
+12 Snow-Covered Island
+13 Snow-Covered Island
+14 Snow-Covered Island
+15 Snow-Covered Island
+16 Snow-Covered Island
 1 Godless Shrine
 1 Viscera Seer
 1 Murderous Cut
-1 Cavern of Souls
 1 Marsh Flats
 1 Vampire Nocturnus
 1 Gifted Aetherborn
 1 Swamp
+1 Cavern of Souls
 1 Vampire Lacerator
 1 Legion Lieutenant
 1 Stromkirk Captain
@@ -160,54 +211,3 @@
 4 Vampire Lacerator
 4 Kalastria Highborn
 4 Bloodghast
-1 Vapor Snag
-1 Disrupting Shoal
-1 Deprive
-1 Serum Visions
-1 Field of Ruin
-1 Opt
-1 Sleight of Hand
-1 Thing in the Ice
-1 Pteramander
-2 Snow-Covered Island
-2 Opt
-2 Vapor Snag
-2 Disrupting Shoal
-2 Snapcaster Mage
-2 Pteramander
-2 Sleight of Hand
-2 Thing in the Ice
-2 Serum Visions
-3 Snow-Covered Island
-3 Vapor Snag
-3 Disrupting Shoal
-3 Psionic Blast
-3 Sleight of Hand
-3 Thing in the Ice
-3 Pteramander
-3 Remand
-3 Snapcaster Mage
-3 Opt
-3 Serum Visions
-4 Pteramander
-4 Vapor Snag
-4 Snow-Covered Island
-4 Snapcaster Mage
-4 Serum Visions
-4 Remand
-4 Opt
-4 Thing in the Ice
-4 Disrupting Shoal
-4 Sleight of Hand
-5 Snow-Covered Island
-6 Snow-Covered Island
-7 Snow-Covered Island
-8 Snow-Covered Island
-9 Snow-Covered Island
-10 Snow-Covered Island
-11 Snow-Covered Island
-12 Snow-Covered Island
-13 Snow-Covered Island
-14 Snow-Covered Island
-15 Snow-Covered Island
-16 Snow-Covered Island
