@@ -44,8 +44,8 @@
 2 Island
 1 Snapcaster Mage
 1 Polluted Delta
-1 Fatal Push
 1 Godless Shrine
+1 Fatal Push
 1 Hallowed Fountain
 1 Creeping Tar Pit
 1 Watery Grave
@@ -104,8 +104,6 @@
 4 Inspiring Vantage
 4 Island
 1 Flooded Grove
-1 Academy Ruins
-1 Temple Garden
 1 Dismember
 1 Breeding Pool
 1 Spell Snare
@@ -113,15 +111,18 @@
 1 Misty Rainforest
 1 Remand
 1 Forest
-1 Glen Elendra Archmage
 1 Search for Azcanta
+1 Glen Elendra Archmage
 1 Pulse of Murasa
 1 Engineered Explosives
 1 Clinging Mists
 1 Growth Spiral
+1 Academy Ruins
 1 Repudiate / Replicate
+1 Temple Garden
 1 Hinterland Harbor
 2 Growth Spiral
+2 Temple Garden
 2 Breeding Pool
 2 Spell Snare
 2 Dismember
@@ -132,7 +133,6 @@
 2 Hinterland Harbor
 2 Search for Azcanta
 2 Repudiate / Replicate
-2 Temple Garden
 2 Torrential Gearhulk
 3 Growth Spiral
 3 Misty Rainforest
@@ -150,11 +150,11 @@
 4 Plains
 5 Plains
 1 Light Up the Stage
-1 Auriok Champion
-1 Lightning Bolt
 1 Worship
-1 Blasphemous Act
+1 Lightning Bolt
+1 Auriok Champion
 1 Pyroclasm
+1 Blasphemous Act
 1 Pyrohemia
 1 Nahiri's Wrath
 1 Burrenton Forge-Tender
@@ -167,9 +167,9 @@
 1 Boros Reckoner
 2 Clifftop Retreat
 2 Light Up the Stage
-2 Auriok Champion
 2 Lightning Bolt
 2 Worship
+2 Auriok Champion
 2 Pyroclasm
 2 Swans of Bryn Argoll
 2 Wall of Omens
@@ -185,6 +185,7 @@
 3 Wall of Omens
 4 Clifftop Retreat
 4 Boros Reckoner
+1 Shambling Vent
 1 Tasigur, the Golden Fang
 1 Inquisition of Kozilek
 1 Jace, Vryn's Prodigy
@@ -197,10 +198,9 @@
 1 Thought Scour
 1 Lingering Souls
 1 Griselbrand
-1 Shambling Vent
-2 Thoughtseize
 2 Inquisition of Kozilek
 2 Serum Visions
+2 Thoughtseize
 2 Lingering Souls
 2 Darkslick Shores
 2 Thought Scour
@@ -228,25 +228,25 @@
 1 Mind Stone
 1 Secure the Wastes
 1 Wrath of God
-1 Ghost Quarter
 1 Gideon, Ally of Zendikar
-1 Horizon Canopy
 1 Gideon Jura
 1 Elspeth, Sun's Champion
 1 Journey to Nowhere
-1 Settle the Wreckage
 1 Blessed Alliance
 1 Archangel Avacyn
+1 Settle the Wreckage
+1 Ghost Quarter
+1 Horizon Canopy
 2 Mind Stone
+2 Ghost Quarter
 2 Gideon, Ally of Zendikar
+2 Horizon Canopy
 2 Wrath of God
 2 Archangel Avacyn
 2 Blessed Alliance
 2 Elspeth, Sun's Champion
-2 Ghost Quarter
 2 Settle the Wreckage
 2 Journey to Nowhere
-2 Horizon Canopy
 2 Gideon Jura
 3 Wrath of God
 3 Gideon, Ally of Zendikar
