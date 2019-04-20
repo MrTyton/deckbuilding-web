@@ -12,8 +12,8 @@
 1 Ajani Vengeant
 1 Rugged Prairie
 2 Goblin Rabblemaster
-2 Abrade
 2 Gemstone Caverns
+2 Abrade
 2 Desperate Ritual
 2 Legion Warboss
 3 Gemstone Caverns
@@ -64,14 +64,14 @@
 2 Negate
 4 Path to Exile
 1 Logic Knot
-1 Opt
 1 Cryptic Command
-2 Opt
+1 Opt
 2 Cryptic Command
+2 Opt
 2 Flooded Strand
 3 Cryptic Command
-3 Opt
 3 Flooded Strand
+3 Opt
 4 Flooded Strand
 1 Esper Charm
 1 Kaya, Orzhov Usurper
@@ -142,15 +142,15 @@
 4 Boros Reckoner
 4 Island
 1 Flooded Grove
+1 Search for Azcanta
 1 Dismember
 1 Breeding Pool
 1 Spell Snare
 1 Misty Rainforest
 1 Torrential Gearhulk
-1 Remand
 1 Forest
-1 Search for Azcanta
 1 Glen Elendra Archmage
+1 Remand
 1 Pulse of Murasa
 1 Engineered Explosives
 1 Growth Spiral
@@ -165,8 +165,8 @@
 2 Spell Snare
 2 Dismember
 2 Misty Rainforest
-2 Remand
 2 Pulse of Murasa
+2 Remand
 2 Hinterland Harbor
 2 Search for Azcanta
 2 Flooded Grove
@@ -174,24 +174,24 @@
 2 Torrential Gearhulk
 3 Growth Spiral
 3 Misty Rainforest
-3 Remand
 3 Dismember
+3 Remand
 3 Torrential Gearhulk
 3 Repudiate / Replicate
 3 Hinterland Harbor
 4 Growth Spiral
 4 Cryptic Command
 4 Misty Rainforest
-4 Opt
 4 Remand
+4 Opt
 4 Repudiate / Replicate
 1 Tasigur, the Golden Fang
 1 Thought Scour
 1 Inquisition of Kozilek
 1 Jace, Vryn's Prodigy
 1 Murderous Cut
-1 Serum Visions
 1 Thoughtseize
+1 Serum Visions
 1 Goryo's Vengeance
 1 Darkslick Shores
 1 Lingering Souls
@@ -200,18 +200,18 @@
 1 Shambling Vent
 2 Thought Scour
 2 Inquisition of Kozilek
-2 Serum Visions
 2 Thoughtseize
 2 Lingering Souls
 2 Jace, Vryn's Prodigy
 2 Goryo's Vengeance
 2 Obzedat, Ghost Council
 2 Darkslick Shores
+2 Serum Visions
 3 Jace, Vryn's Prodigy
 3 Thought Scour
 3 Inquisition of Kozilek
-3 Serum Visions
 3 Obzedat, Ghost Council
+3 Serum Visions
 3 Goryo's Vengeance
 3 Darkslick Shores
 4 Thought Scour
@@ -242,12 +242,12 @@
 2 Nevermore
 2 Sphere of Safety
 3 Glacial Fortress
+3 Detention Sphere
+3 Runed Halo
 3 Spreading Seas
 3 Ghostly Prison
 3 Temple of Enlightenment
-3 Detention Sphere
 3 Nevermore
-3 Runed Halo
 4 Glacial Fortress
 4 Spreading Seas
 4 Nevermore
