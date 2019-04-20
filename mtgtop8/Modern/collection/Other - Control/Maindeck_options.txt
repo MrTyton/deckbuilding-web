@@ -5,28 +5,28 @@
 2 Arid Mesa
 3 Arid Mesa
 4 Arid Mesa
-1 Gemstone Caverns
-2 Gemstone Caverns
 1 Desperate Ritual
 1 Goblin Rabblemaster
+1 Gemstone Caverns
 1 Legion Warboss
-1 Rugged Prairie
 1 Ajani Vengeant
+1 Rugged Prairie
 2 Goblin Rabblemaster
 2 Abrade
+2 Gemstone Caverns
 2 Desperate Ritual
 2 Legion Warboss
 3 Gemstone Caverns
 3 Goblin Rabblemaster
 3 Desperate Ritual
 3 Legion Warboss
-4 Chandra, Torch of Defiance
 4 Legion Warboss
-4 Goblin Rabblemaster
 4 Desperate Ritual
+4 Chandra, Torch of Defiance
+4 Goblin Rabblemaster
 1 Flooded Strand
-3 Plains
 1 Marsh Flats
+3 Plains
 2 Hazoret the Fervent
 2 Sacred Foundry
 4 Mountain
@@ -46,17 +46,17 @@
 1 Polluted Delta
 1 Godless Shrine
 1 Fatal Push
+1 Watery Grave
 1 Hallowed Fountain
 1 Creeping Tar Pit
-1 Watery Grave
 2 Fatal Push
 2 Watery Grave
 2 Polluted Delta
 3 Polluted Delta
 4 Polluted Delta
-1 Field of Ruin
 3 Island
 1 Glacial Fortress
+1 Field of Ruin
 1 Negate
 1 Supreme Verdict
 2 Supreme Verdict
@@ -73,8 +73,6 @@
 3 Opt
 3 Flooded Strand
 4 Flooded Strand
-2 Field of Ruin
-3 Field of Ruin
 1 Esper Charm
 1 Kaya, Orzhov Usurper
 1 Cast Down
@@ -86,10 +84,12 @@
 2 Snapcaster Mage
 2 Teferi, Hero of Dominaria
 2 Nihil Spellbomb
+2 Field of Ruin
 2 Hallowed Fountain
 2 Jace, the Mind Sculptor
 3 Esper Charm
 3 Teferi, Hero of Dominaria
+3 Field of Ruin
 3 Snapcaster Mage
 3 Fatal Push
 3 Nihil Spellbomb
@@ -102,25 +102,63 @@
 2 Sarkhan, Fireblood
 3 Inspiring Vantage
 4 Inspiring Vantage
+4 Plains
+5 Plains
+1 Light Up the Stage
+1 Lightning Bolt
+1 Auriok Champion
+1 Worship
+1 Pyroclasm
+1 Blasphemous Act
+1 Swans of Bryn Argoll
+1 Wall of Omens
+1 Spitemare
+1 Pyrohemia
+1 Rest in Peace
+1 Volcano Hellion
+1 Boros Reckoner
+1 Nahiri's Wrath
+1 Burrenton Forge-Tender
+1 Clifftop Retreat
+2 Clifftop Retreat
+2 Light Up the Stage
+2 Lightning Bolt
+2 Worship
+2 Auriok Champion
+2 Pyroclasm
+2 Rest in Peace
+2 Swans of Bryn Argoll
+2 Volcano Hellion
+2 Boros Reckoner
+2 Pyrohemia
+2 Wall of Omens
+2 Burrenton Forge-Tender
+3 Sacred Foundry
+3 Lightning Bolt
+3 Boros Reckoner
+3 Wall of Omens
+3 Clifftop Retreat
+4 Clifftop Retreat
+4 Boros Reckoner
 4 Island
 1 Flooded Grove
 1 Dismember
 1 Breeding Pool
 1 Spell Snare
-1 Torrential Gearhulk
 1 Misty Rainforest
+1 Torrential Gearhulk
 1 Remand
 1 Forest
 1 Search for Azcanta
 1 Glen Elendra Archmage
 1 Pulse of Murasa
 1 Engineered Explosives
-1 Clinging Mists
 1 Growth Spiral
-1 Academy Ruins
-1 Repudiate / Replicate
 1 Temple Garden
 1 Hinterland Harbor
+1 Clinging Mists
+1 Academy Ruins
+1 Repudiate / Replicate
 2 Growth Spiral
 2 Temple Garden
 2 Breeding Pool
@@ -129,9 +167,9 @@
 2 Misty Rainforest
 2 Remand
 2 Pulse of Murasa
-2 Flooded Grove
 2 Hinterland Harbor
 2 Search for Azcanta
+2 Flooded Grove
 2 Repudiate / Replicate
 2 Torrential Gearhulk
 3 Growth Spiral
@@ -147,155 +185,77 @@
 4 Opt
 4 Remand
 4 Repudiate / Replicate
-4 Plains
-5 Plains
-1 Light Up the Stage
-1 Worship
-1 Lightning Bolt
-1 Auriok Champion
-1 Pyroclasm
-1 Blasphemous Act
-1 Pyrohemia
-1 Nahiri's Wrath
-1 Burrenton Forge-Tender
-1 Clifftop Retreat
-1 Rest in Peace
-1 Volcano Hellion
-1 Swans of Bryn Argoll
-1 Spitemare
-1 Wall of Omens
-1 Boros Reckoner
-2 Clifftop Retreat
-2 Light Up the Stage
-2 Lightning Bolt
-2 Worship
-2 Auriok Champion
-2 Pyroclasm
-2 Swans of Bryn Argoll
-2 Wall of Omens
-2 Boros Reckoner
-2 Pyrohemia
-2 Burrenton Forge-Tender
-2 Rest in Peace
-2 Volcano Hellion
-3 Sacred Foundry
-3 Lightning Bolt
-3 Clifftop Retreat
-3 Boros Reckoner
-3 Wall of Omens
-4 Clifftop Retreat
-4 Boros Reckoner
-1 Shambling Vent
 1 Tasigur, the Golden Fang
+1 Thought Scour
 1 Inquisition of Kozilek
 1 Jace, Vryn's Prodigy
 1 Murderous Cut
 1 Serum Visions
 1 Thoughtseize
 1 Goryo's Vengeance
-1 Obzedat, Ghost Council
 1 Darkslick Shores
-1 Thought Scour
 1 Lingering Souls
+1 Obzedat, Ghost Council
 1 Griselbrand
+1 Shambling Vent
+2 Thought Scour
 2 Inquisition of Kozilek
 2 Serum Visions
 2 Thoughtseize
 2 Lingering Souls
-2 Darkslick Shores
-2 Thought Scour
+2 Jace, Vryn's Prodigy
 2 Goryo's Vengeance
 2 Obzedat, Ghost Council
-2 Jace, Vryn's Prodigy
+2 Darkslick Shores
 3 Jace, Vryn's Prodigy
+3 Thought Scour
 3 Inquisition of Kozilek
 3 Serum Visions
-3 Goryo's Vengeance
 3 Obzedat, Ghost Council
+3 Goryo's Vengeance
 3 Darkslick Shores
-3 Thought Scour
+4 Thought Scour
 4 Serum Visions
 4 Jace, Vryn's Prodigy
 4 Darkslick Shores
 4 Goryo's Vengeance
-4 Thought Scour
+1 Faerie Conclave
+1 Runed Halo
+1 Nevermore
 1 Cast Out
+1 Spreading Seas
+1 Detention Sphere
+1 Temple of Enlightenment
+1 Aetherling
+1 Gideon's Intervention
+1 Sphere of Safety
+1 Ghostly Prison
+2 Faerie Conclave
+2 Runed Halo
+2 Spreading Seas
+2 Detention Sphere
+2 Temple of Enlightenment
+2 Gideon's Intervention
+2 Cast Out
+2 Aetherling
+2 Ghostly Prison
+2 Nevermore
+2 Sphere of Safety
+3 Glacial Fortress
+3 Spreading Seas
+3 Ghostly Prison
+3 Temple of Enlightenment
+3 Detention Sphere
+3 Nevermore
+3 Runed Halo
+4 Glacial Fortress
+4 Spreading Seas
+4 Nevermore
+4 Detention Sphere
+4 Ghostly Prison
 6 Plains
 7 Plains
 8 Plains
 9 Plains
 10 Plains
-1 Mind Stone
-1 Secure the Wastes
-1 Wrath of God
-1 Gideon, Ally of Zendikar
-1 Gideon Jura
-1 Elspeth, Sun's Champion
-1 Journey to Nowhere
-1 Blessed Alliance
-1 Archangel Avacyn
-1 Settle the Wreckage
-1 Ghost Quarter
-1 Horizon Canopy
-2 Mind Stone
-2 Ghost Quarter
-2 Gideon, Ally of Zendikar
-2 Horizon Canopy
-2 Wrath of God
-2 Archangel Avacyn
-2 Blessed Alliance
-2 Elspeth, Sun's Champion
-2 Settle the Wreckage
-2 Journey to Nowhere
-2 Gideon Jura
-3 Wrath of God
-3 Gideon, Ally of Zendikar
-3 Gideon Jura
-3 Elspeth, Sun's Champion
-3 Ghost Quarter
-3 Settle the Wreckage
-3 Mind Stone
-3 Journey to Nowhere
-4 Ghost Quarter
-4 Field of Ruin
-4 Mind Stone
-4 Wrath of God
-4 Gideon, Ally of Zendikar
-4 Settle the Wreckage
-11 Plains
-12 Plains
-13 Plains
-1 Runed Halo
-1 Nevermore
-1 Spreading Seas
-1 Detention Sphere
-1 Faerie Conclave
-1 Sphere of Safety
-1 Aetherling
-1 Ghostly Prison
-1 Temple of Enlightenment
-1 Gideon's Intervention
-2 Runed Halo
-2 Spreading Seas
-2 Temple of Enlightenment
-2 Faerie Conclave
-2 Aetherling
-2 Cast Out
-2 Nevermore
-2 Detention Sphere
-2 Gideon's Intervention
-2 Ghostly Prison
-2 Sphere of Safety
-3 Glacial Fortress
-3 Spreading Seas
-3 Detention Sphere
-3 Ghostly Prison
-3 Temple of Enlightenment
-3 Runed Halo
-3 Nevermore
-4 Glacial Fortress
-4 Nevermore
-4 Detention Sphere
-4 Ghostly Prison
-4 Spreading Seas
 5 Island

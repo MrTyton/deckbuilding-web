@@ -1,6 +1,6 @@
 1 Nykthos, Shrine to Nyx
-1 Plains
 1 Rugged Prairie
+1 Plains
 1 Sacred Foundry
 1 Lotus Bloom
 1 Temple of Triumph
@@ -8,6 +8,7 @@
 1 Ghostly Prison
 1 Sphere of Safety
 1 Runed Halo
+1 Leyline of Sanctity
 1 Oblivion Ring
 1 Suppression Field
 1 Porphyry Nodes
@@ -15,7 +16,6 @@
 1 Form of the Dragon
 1 Dovescape
 1 Overwhelming Splendor
-1 Leyline of Sanctity
 1 Phyrexian Unlife
 1 Mistveil Plains
 1 Enduring Ideal
@@ -28,11 +28,11 @@
 2 Sphere of Safety
 2 Ghostly Prison
 2 Runed Halo
+2 Leyline of Sanctity
 2 Suppression Field
 2 Enduring Ideal
 2 Phyrexian Unlife
 2 Form of the Dragon
-2 Leyline of Sanctity
 2 Porphyry Nodes
 3 Plains
 3 Lotus Bloom
@@ -58,8 +58,8 @@
 8 Plains
 9 Plains
 10 Plains
-1 Scalding Tarn
 1 Search for Azcanta
+1 Scalding Tarn
 1 Simian Spirit Guide
 1 Flame Slash
 2 Scalding Tarn

@@ -1,7 +1,7 @@
 # BR
 
 #### [Export MTGO List](../collection/BR/BR.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Arclight%20Phoenix%0A3%09Bedlam%20Reveler%0A4%09Burning%20Inquiry%0A4%09Faithless%20Looting%0A3%09Fiery%20Temper%0A4%09Flameblade%20Adept%0A4%09Goblin%20Lore%0A3%09Gut%20Shot%0A4%09Hollow%20One%0A4%09Lightning%20Bolt%0A4%09Manamorphose%0A1%09Maximize%20Velocity%0A18%09Mountain&deckside=1%09Blood%20Moon%0A2%09Dismember%0A2%09Dragon's%20Claw%0A1%09Grim%20Lavamancer%0A4%09Leyline%20of%20the%20Void%0A3%09Molten%20Rain%0A2%09Shattering%20Spree)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Arclight%20Phoenix%0A3%09Bedlam%20Reveler%0A4%09Burning%20Inquiry%0A4%09Faithless%20Looting%0A3%09Fiery%20Temper%0A4%09Flameblade%20Adept%0A4%09Goblin%20Lore%0A3%09Gut%20Shot%0A4%09Hollow%20One%0A4%09Lightning%20Bolt%0A4%09Manamorphose%0A1%09Maximize%20Velocity%0A18%09Mountain&deckside=1%09Blood%20Moon%0A2%09Dismember%0A2%09Dragon's%20Claw%0A4%09Leyline%20of%20the%20Void%0A3%09Molten%20Rain%0A3%09Smash%20to%20Smithereens)
 # Maindeck
 
 |                                        Creature (15)                                        |                                      Instant (14)                                       |                                      Land (18)                                       |                                         Sorcery (13)                                         |
@@ -14,17 +14,24 @@
 
 # Sideboard
 
-|                                       Artifact (2)                                       |                                        Creature (1)                                        |                                        Enchantment (5)                                         |                                     Instant (2)                                      |                                         Sorcery (5)                                         |
-|------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|
-|2 [Dragon's Claw](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129527)|1 [Grim Lavamancer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430589)|1 [Blood Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45386)          |2 [Dismember](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382182)|3 [Molten Rain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425928)     |
-|                                                                                          |                                                                                            |4 [Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)|                                                                                      |2 [Shattering Spree](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456224)|
+|                                       Artifact (2)                                       |                                        Enchantment (5)                                         |                                           Instant (5)                                           |                                      Sorcery (3)                                       |
+|------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
+|2 [Dragon's Claw](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129527)|1 [Blood Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45386)          |2 [Dismember](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382182)           |3 [Molten Rain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425928)|
+|                                                                                          |4 [Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)|3 [Smash to Smithereens](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397795)|                                                                                        |
 
 
 # Other Options
 
-|*n*<sup>th</sup> copy|Maindeck Card|*n*<sup>th</sup> copy|                                        Sideboard Card                                         |
-|---------------------|-------------|--------------------:|-----------------------------------------------------------------------------------------------|
-|                     |             |                    1|[Smash to Smithereens](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397795)|
-|                     |             |                    2|[Smash to Smithereens](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397795)|
-|                     |             |                    3|[Smash to Smithereens](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397795)|
+|*n*<sup>th</sup> copy|                                     Maindeck Card                                     |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
+|--------------------:|---------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
+|                    4|[Fiery Temper](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409908)|                    1|[Grim Lavamancer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430589)    |
+|                     |                                                                                       |                    1|[Ravenous Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197537)      |
+|                     |                                                                                       |                    1|[Lightning Axe](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409925)      |
+|                     |                                                                                       |                    1|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|
+|                     |                                                                                       |                    2|[Grim Lavamancer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430589)    |
+|                     |                                                                                       |                    2|[Ravenous Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197537)      |
+|                     |                                                                                       |                    2|[Blood Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45386)          |
+|                     |                                                                                       |                    2|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|
+|                     |                                                                                       |                    1|[Shattering Spree](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456224)   |
+|                     |                                                                                       |                    2|[Shattering Spree](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456224)   |
 

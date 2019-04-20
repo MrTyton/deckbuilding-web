@@ -27,3 +27,16 @@
 |                                                                                            |                                                                                                   |                                                                                   |1 [Stubborn Denial](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386673)    |                                                                                                   |                                                                                                 |
 |                                                                                            |                                                                                                   |                                                                                   |2 [Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|                                                                                                   |                                                                                                 |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                          Maindeck Card                                          |*n*<sup>th</sup> copy|                                        Sideboard Card                                         |
+|--------------------:|-------------------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------------|
+|                    1|[Jace, Vryn's Prodigy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=398434)  |                    1|[Bitterblossom](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397701)       |
+|                    2|[Dismember](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382182)             |                    1|[Fulminator Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397686)     |
+|                    2|[Nihil Spellbomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442215)       |                    1|[Cast Down](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442969)           |
+|                    2|[Misty Rainforest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405102)      |                    1|[Engineered Explosives](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=50139)|
+|                    4|[Tarmogoyf](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=136142)             |                    1|[Kitchen Finks](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370458)       |
+|                    4|[Traverse the Ulvenwald](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409998)|                    2|[Assassin's Trophy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452902)   |
+|                    4|[Stubborn Denial](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386673)       |                     |                                                                                               |
+
