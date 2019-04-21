@@ -43,8 +43,8 @@
 
 |*n*<sup>th</sup> copy|                                           Maindeck Card                                            |*n*<sup>th</sup> copy|                                      Sideboard Card                                      |
 |--------------------:|----------------------------------------------------------------------------------------------------|--------------------:|------------------------------------------------------------------------------------------|
-|                    1|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)      |                    1|[Crypt Incursion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=369056)|
-|                    1|[Lumbering Falls](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401943)          |                    1|[Devour Flesh](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=366379)   |
+|                    1|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)      |                    1|[Devour Flesh](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=366379)   |
+|                    1|[Lumbering Falls](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401943)          |                    1|[Crypt Incursion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=369056)|
 |                    1|[Search for Azcanta](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435226)       |                    1|[Abrupt Decay](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456061)   |
 |                    2|[Search for Azcanta](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435226)       |                    1|[Evacuation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129541)     |
 |                    3|[Breeding Pool](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=97088)             |                    1|[Pulse of Murasa](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446177)|
