@@ -48,6 +48,7 @@
 |                    2|[The Eldest Reborn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442978)      |                    2|[Price of Fame](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452833)     |
 |                    1|[Dream Eater](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452788)            |                    3|[Unmoored Ego](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452962)      |
 |                    2|[Fungal Infection](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442982)       |                    2|[Cast Down](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442969)         |
+|                   10|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)                  |                     |                                                                                             |
 |                    1|[Dive Down](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435205)              |                     |                                                                                             |
 |                    1|[Curious Obsession](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439692)      |                     |                                                                                             |
 |                    1|[Kitesail Freebooter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435264)    |                     |                                                                                             |
@@ -81,7 +82,6 @@
 |                    4|[Curious Obsession](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439692)      |                     |                                                                                             |
 |                    4|[Dire Fleet Poisoner](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439725)    |                     |                                                                                             |
 |                    4|[Siren Stormtamer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435232)       |                     |                                                                                             |
-|                    4|[Fathom Fleet Captain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435260)   |                     |                                                                                             |
 |                    8|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)                 |                     |                                                                                             |
-|                   10|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)                  |                     |                                                                                             |
+|                    4|[Fathom Fleet Captain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435260)   |                     |                                                                                             |
 

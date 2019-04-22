@@ -49,8 +49,8 @@
 |                                A                                 |                                  B                                   |                              C                               |                                 D                                  |                   E                    |
 |------------------------------------------------------------------|----------------------------------------------------------------------|--------------------------------------------------------------|--------------------------------------------------------------------|----------------------------------------|
 |[Azorius Land Tax](./mtggoldfish/Legacy/decks/Azorius_Land_Tax.md)|[Blue-Black Discard](./mtggoldfish/Legacy/decks/Blue-Black_Discard.md)|[Dredge](./mtggoldfish/Legacy/decks/Dredge.md)                |[Manaless Dredge](./mtggoldfish/Legacy/decks/Manaless_Dredge.md)    |[UBG](./mtggoldfish/Legacy/decks/UBG.md)|
-|[B](./mtggoldfish/Legacy/decks/B.md)                              |[Burn](./mtggoldfish/Legacy/decks/Burn.md)                            |[Eldrazi Stompy](./mtggoldfish/Legacy/decks/Eldrazi_Stompy.md)|[Rakdos Reanimator](./mtggoldfish/Legacy/decks/Rakdos_Reanimator.md)|                                        |
+|[BRG](./mtggoldfish/Legacy/decks/BRG.md)                          |[Burn](./mtggoldfish/Legacy/decks/Burn.md)                            |[Eldrazi Stompy](./mtggoldfish/Legacy/decks/Eldrazi_Stompy.md)|[Rakdos Reanimator](./mtggoldfish/Legacy/decks/Rakdos_Reanimator.md)|                                        |
 
 
 
-#### Last Updated at 12:38PM on April 21, 2019
+#### Last Updated at 12:37AM on April 22, 2019

@@ -86,6 +86,6 @@
 |                    3|[Seekers' Squire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435275)      |                     |                                                                                                |
 |                    4|[Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)                |                     |                                                                                                |
 |                    4|[Seekers' Squire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435275)      |                     |                                                                                                |
-|                    9|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)               |                     |                                                                                                |
 |                    6|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)                |                     |                                                                                                |
+|                    9|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)               |                     |                                                                                                |
 

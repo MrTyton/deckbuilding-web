@@ -17,6 +17,7 @@
 1 Manamorphose
 1 Land Grant
 1 Force of Will
+2 Tropical Island
 2 Inquisition of Kozilek
 2 Thought Scour
 2 Bloodghast
@@ -26,7 +27,6 @@
 2 Force of Will
 2 Entomb
 2 Land Grant
-2 Tropical Island
 3 Thought Scour
 3 Careful Study
 3 Entomb
@@ -49,8 +49,8 @@
 1 Snow-Covered Island
 1 Chrome Mox
 2 Chrome Mox
-1 Duress
 1 Misty Rainforest
+1 Duress
 2 Duress
 2 Island
 3 Duress
@@ -77,8 +77,8 @@
 4 Monastery Mentor
 4 Daze
 1 Gurmag Angler
-1 Spell Pierce
 1 Flusterstorm
+1 Spell Pierce
 4 Dark Confidant
 1 Delver of Secrets
 1 Collective Brutality
