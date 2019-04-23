@@ -31,12 +31,12 @@
 2 Hymn to Tourach
 3 Hymn to Tourach
 1 Umezawa's Jitte
+1 Verdant Catacombs
 1 Mountain
 1 Young Pyromancer
 2 Young Pyromancer
 3 Young Pyromancer
 4 Lightning Bolt
-1 Verdant Catacombs
 1 Chandra, Torch of Defiance
 1 Abrade
 1 Forked Bolt
@@ -49,8 +49,8 @@
 2 Spell Pierce
 2 Blood Moon
 2 Jace, the Mind Sculptor
-3 Volcanic Island
 3 Blood Moon
+3 Volcanic Island
 3 Island
 3 True-Name Nemesis
 3 Snapcaster Mage
@@ -76,10 +76,60 @@
 3 Wooded Foothills
 4 Tarmogoyf
 1 Dismember
+1 Scavenging Ooze
+1 Dryad Arbor
+1 Windswept Heath
+1 Green Sun's Zenith
+2 Forest
+2 Windswept Heath
+2 Green Sun's Zenith
+3 Green Sun's Zenith
+3 Windswept Heath
+4 Windswept Heath
+4 Green Sun's Zenith
+1 Thalia, Guardian of Thraben
+1 Ghost Quarter
+1 Maze of Ith
+1 Plains
+1 Tireless Tracker
+1 Thespian's Stage
+1 Knight of the Reliquary
+1 Dark Depths
+1 Batterskull
+1 Karakas
+1 Savannah
+1 Gaddock Teeg
+1 Mox Diamond
+1 Stoneforge Mystic
+1 Bojuka Bog
+1 Horizon Canopy
+1 Knight of Autumn
+1 Chalice of the Void
+1 Ramunap Excavator
+2 Thalia, Guardian of Thraben
+2 Knight of the Reliquary
+2 Stoneforge Mystic
+2 Savannah
+2 Sylvan Library
+2 Chalice of the Void
+2 Dismember
+2 Mox Diamond
+3 Savannah
+3 Thalia, Guardian of Thraben
+3 Knight of the Reliquary
+3 Stoneforge Mystic
+3 Sylvan Library
+3 Chalice of the Void
+3 Mox Diamond
+4 Thalia, Guardian of Thraben
+4 Knight of the Reliquary
+4 Chalice of the Void
+4 Mox Diamond
+4 Wasteland
 1 Daze
+1 Far / Away
 1 Bitterblossom
 1 Delver of Secrets
-1 Far / Away
 1 Spellstutter Sprite
 1 Mothdust Changeling
 1 Gurmag Angler
@@ -98,84 +148,76 @@
 3 Delver of Secrets
 4 Underground Sea
 4 Yuriko, the Tiger's Shadow
-1 Thalia, Guardian of Thraben
-1 Maze of Ith
-1 Ghost Quarter
-1 Plains
-1 Tireless Tracker
-1 Scavenging Ooze
-1 Thespian's Stage
-1 Knight of the Reliquary
-1 Dark Depths
-1 Batterskull
-1 Dryad Arbor
-1 Karakas
-1 Windswept Heath
-1 Savannah
-1 Gaddock Teeg
-1 Mox Diamond
-1 Bojuka Bog
-1 Stoneforge Mystic
-1 Horizon Canopy
-1 Green Sun's Zenith
-1 Knight of Autumn
-1 Chalice of the Void
-1 Ramunap Excavator
-2 Thalia, Guardian of Thraben
-2 Knight of the Reliquary
-2 Forest
-2 Stoneforge Mystic
-2 Savannah
-2 Windswept Heath
-2 Green Sun's Zenith
-2 Sylvan Library
-2 Chalice of the Void
-2 Dismember
-2 Mox Diamond
-3 Savannah
-3 Thalia, Guardian of Thraben
-3 Knight of the Reliquary
-3 Stoneforge Mystic
-3 Sylvan Library
-3 Green Sun's Zenith
-3 Chalice of the Void
-3 Mox Diamond
-3 Windswept Heath
-4 Thalia, Guardian of Thraben
-4 Knight of the Reliquary
-4 Chalice of the Void
-4 Windswept Heath
-4 Mox Diamond
-4 Wasteland
-4 Green Sun's Zenith
+1 Bayou
+2 Bayou
+1 Birchlore Rangers
+1 Fyndhorn Elves
+1 Wirewood Symbiote
+1 Pendelhaven
+1 Heritage Druid
+1 Nettle Sentinel
+1 Natural Order
+1 Cavern of Souls
+1 Elvish Visionary
+1 Glimpse of Nature
+1 Quirion Ranger
+1 Craterhoof Behemoth
+1 Gaea's Cradle
+1 Llanowar Elves
+1 Elvish Mystic
+2 Llanowar Elves
+2 Dryad Arbor
+2 Gaea's Cradle
+2 Birchlore Rangers
+2 Craterhoof Behemoth
+2 Natural Order
+2 Glimpse of Nature
+2 Quirion Ranger
+2 Wirewood Symbiote
+2 Heritage Druid
+2 Elvish Visionary
+2 Nettle Sentinel
+3 Glimpse of Nature
+3 Quirion Ranger
+3 Heritage Druid
+3 Wirewood Symbiote
+3 Gaea's Cradle
+3 Natural Order
+3 Elvish Visionary
+3 Nettle Sentinel
+4 Wirewood Symbiote
+4 Heritage Druid
+4 Quirion Ranger
+4 Gaea's Cradle
+4 Elvish Visionary
+4 Glimpse of Nature
+4 Nettle Sentinel
 1 Life from the Loam
 1 Assassin's Trophy
 1 Cabal Therapy
 1 Kolaghan's Command
-1 Bayou
-1 Pernicious Deed
 1 Inquisition of Kozilek
+1 Pernicious Deed
 1 Badlands
 1 Bedlam Reveler
 1 Liliana of the Veil
 1 Faithless Looting
 2 Liliana of the Veil
 2 Bloodstained Mire
-2 Faithless Looting
 2 Verdant Catacombs
-2 Bayou
 2 Cabal Therapy
 2 Assassin's Trophy
+2 Faithless Looting
 2 Bedlam Reveler
 2 Life from the Loam
 2 Badlands
-3 Punishing Fire
 3 Badlands
 3 Thoughtseize
 3 Assassin's Trophy
 3 Faithless Looting
 3 Bedlam Reveler
 3 Bloodstained Mire
+3 Punishing Fire
 3 Cabal Therapy
 4 Young Pyromancer
 4 Faithless Looting

@@ -24,3 +24,24 @@
 |3 [Legion Warboss](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452859)|4 [Cindervines](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457305)       |3 [Fiery Cannonade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435297)|2 [Lava Coil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452858)|
 |                                                                                           |3 [Rhythm of the Wild](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457345)|                                                                                            |                                                                                      |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                         Maindeck Card                                          |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
+|--------------------:|------------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
+|                    1|[Kraul Harpooner](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452886)      |                    1|[Lightning Strike](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383299)   |
+|                    1|[Merfolk Branchwalker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435353) |                    1|[Thrashing Brontodon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456570)|
+|                    1|[Domri, Chaos Bringer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457310) |                    1|[Vivien Reid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447344)        |
+|                    2|[Domri, Chaos Bringer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457310) |                    2|[Lightning Strike](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383299)   |
+|                    2|[Merfolk Branchwalker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435353) |                    2|[Thrashing Brontodon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456570)|
+|                    2|[Kraul Harpooner](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452886)      |                    2|[Vivien Reid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447344)        |
+|                    3|[Kraul Harpooner](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452886)      |                    3|[Lava Coil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452858)          |
+|                    3|[Merfolk Branchwalker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435353) |                    3|[Vivien Reid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447344)        |
+|                    4|[Pelt Collector](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452891)       |                    4|[Lava Coil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452858)          |
+|                    4|[Kraul Harpooner](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452886)      |                     |                                                                                              |
+|                    4|[Merfolk Branchwalker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435353) |                     |                                                                                              |
+|                    4|[Ghalta, Primal Hunger](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456564)|                     |                                                                                              |
+|                   11|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)               |                     |                                                                                              |
+|                   12|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)               |                     |                                                                                              |
+|                   13|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)               |                     |                                                                                              |
+

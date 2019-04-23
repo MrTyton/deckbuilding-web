@@ -39,8 +39,8 @@
 
 |*n*<sup>th</sup> copy|                                       Maindeck Card                                        |*n*<sup>th</sup> copy|                                          Sideboard Card                                          |
 |--------------------:|--------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------------|
-|                    1|[Gavony Township](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=233242)  |                    1|[Chameleon Colossus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220451)     |
-|                    1|[Eternal Witness](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=51628)   |                    1|[Bojuka Bog](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376269)             |
+|                    1|[Gavony Township](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=233242)  |                    1|[Bojuka Bog](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376269)             |
+|                    1|[Eternal Witness](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=51628)   |                    1|[Chameleon Colossus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220451)     |
 |                    1|[Overgrown Tomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405103)   |                    1|[Selfless Spirit](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414332)        |
 |                    1|[Kitchen Finks](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370458)    |                    1|[Sigarda, Host of Herons](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=240033)|
 |                    1|[Viscera Seer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376569)     |                    1|[Spellskite](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397743)             |
