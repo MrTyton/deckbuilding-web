@@ -27,3 +27,18 @@
 |3 [Kraul Harpooner](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452886)    |1 [Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)           |
 |2 [Lyra Dawnbringer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442914)   |                                                                                              |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                          Maindeck Card                                           |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
+|--------------------:|--------------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
+|                    1|[March of the Multitudes](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452938)|                    1|[Atzocan Archer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435331)     |
+|                    1|[Blink of an Eye](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442934)        |                    1|[Trostani Discordant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452958)|
+|                    1|[Search for Azcanta](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435226)     |                    1|[Cleansing Nova](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447145)     |
+|                    1|[Nexus of Fate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=450253)          |                    1|[Biogenic Ooze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457266)      |
+|                    2|[Blink of an Eye](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442934)        |                    1|[Entrancing Melody](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435207)  |
+|                    2|[Search for Azcanta](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435226)     |                    2|[Entrancing Melody](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435207)  |
+|                    3|[Wilderness Reclamation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457293) |                    2|[Atzocan Archer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435331)     |
+|                    4|[Sunpetal Grove](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420946)         |                    2|[Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)             |
+|                    4|[Chemister's Insight](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452782)    |                    3|[Crushing Canopy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452876)    |
+
