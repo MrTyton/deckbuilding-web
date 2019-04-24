@@ -56,8 +56,8 @@
 |                    2|[Blood Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=97102)        |                     |                                                                                             |
 |                    3|[Blood Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=97102)        |                     |                                                                                             |
 |                    4|[Blood Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=97102)        |                     |                                                                                             |
-|                    1|[Niv-Mizzet, Parun](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452942) |                     |                                                                                             |
 |                    1|[Shivan Fire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443030)       |                     |                                                                                             |
+|                    1|[Niv-Mizzet, Parun](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452942) |                     |                                                                                             |
 |                    1|[Drowned Catacomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430633)  |                     |                                                                                             |
 |                    1|[Murmuring Mystic](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452795)  |                     |                                                                                             |
 

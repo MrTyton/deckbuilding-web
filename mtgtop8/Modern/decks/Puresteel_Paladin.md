@@ -27,8 +27,8 @@
 
 |*n*<sup>th</sup> copy|                                     Maindeck Card                                     |*n*<sup>th</sup> copy|                                        Sideboard Card                                         |
 |--------------------:|---------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------------|
-|                    1|[Bone Saw](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=189270)    |                    1|[Ghirapur Aether Grid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=398517)|
-|                    1|[Thoughtcast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=222732) |                    1|[Hurkyl's Recall](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=135260)     |
+|                    1|[Thoughtcast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=222732) |                    1|[Ghirapur Aether Grid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=398517)|
+|                    1|[Bone Saw](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=189270)    |                    1|[Hurkyl's Recall](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=135260)     |
 |                    1|[Serum Visions](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=50145)|                    1|[Path to Exile](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220511)       |
 |                    2|[Arid Mesa](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405092)   |                    2|[Monastery Mentor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391883)    |
 |                    2|[Bone Saw](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=189270)    |                    2|[Fragmentize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417587)         |
