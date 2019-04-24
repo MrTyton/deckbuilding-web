@@ -7,8 +7,8 @@
 4 Arid Mesa
 1 Desperate Ritual
 1 Goblin Rabblemaster
-1 Gemstone Caverns
 1 Legion Warboss
+1 Gemstone Caverns
 1 Ajani Vengeant
 1 Rugged Prairie
 2 Goblin Rabblemaster
@@ -37,63 +37,6 @@
 2 Ramunap Ruins
 2 Rugged Prairie
 3 Ramunap Ruins
-1 Path to Exile
-2 Path to Exile
-3 Path to Exile
-1 Island
-2 Island
-1 Snapcaster Mage
-1 Polluted Delta
-1 Godless Shrine
-1 Fatal Push
-1 Watery Grave
-1 Hallowed Fountain
-1 Creeping Tar Pit
-2 Fatal Push
-2 Watery Grave
-2 Polluted Delta
-3 Polluted Delta
-4 Polluted Delta
-3 Island
-1 Glacial Fortress
-1 Field of Ruin
-1 Negate
-1 Supreme Verdict
-2 Supreme Verdict
-2 Glacial Fortress
-2 Negate
-4 Path to Exile
-1 Logic Knot
-1 Cryptic Command
-1 Opt
-2 Cryptic Command
-2 Opt
-2 Flooded Strand
-3 Cryptic Command
-3 Flooded Strand
-3 Opt
-4 Flooded Strand
-1 Esper Charm
-1 Kaya, Orzhov Usurper
-1 Teferi, Hero of Dominaria
-1 Cast Down
-1 Nihil Spellbomb
-1 Jace, the Mind Sculptor
-2 Esper Charm
-2 Logic Knot
-2 Snapcaster Mage
-2 Teferi, Hero of Dominaria
-2 Nihil Spellbomb
-2 Field of Ruin
-2 Hallowed Fountain
-2 Jace, the Mind Sculptor
-3 Teferi, Hero of Dominaria
-3 Esper Charm
-3 Field of Ruin
-3 Snapcaster Mage
-3 Fatal Push
-3 Nihil Spellbomb
-4 Snapcaster Mage
 1 Wooded Foothills
 1 Inspiring Vantage
 1 Sarkhan, Fireblood
@@ -102,6 +45,63 @@
 2 Sarkhan, Fireblood
 3 Inspiring Vantage
 4 Inspiring Vantage
+1 Path to Exile
+2 Path to Exile
+3 Path to Exile
+1 Island
+2 Island
+1 Polluted Delta
+1 Godless Shrine
+1 Snapcaster Mage
+1 Fatal Push
+1 Hallowed Fountain
+1 Watery Grave
+1 Creeping Tar Pit
+2 Fatal Push
+2 Watery Grave
+2 Polluted Delta
+3 Polluted Delta
+4 Polluted Delta
+1 Glacial Fortress
+1 Field of Ruin
+1 Negate
+1 Supreme Verdict
+2 Supreme Verdict
+2 Negate
+2 Glacial Fortress
+3 Island
+4 Path to Exile
+1 Esper Charm
+1 Kaya, Orzhov Usurper
+1 Logic Knot
+1 Teferi, Hero of Dominaria
+1 Cast Down
+1 Cryptic Command
+1 Nihil Spellbomb
+1 Jace, the Mind Sculptor
+1 Opt
+2 Esper Charm
+2 Logic Knot
+2 Snapcaster Mage
+2 Cryptic Command
+2 Teferi, Hero of Dominaria
+2 Nihil Spellbomb
+2 Field of Ruin
+2 Hallowed Fountain
+2 Opt
+2 Jace, the Mind Sculptor
+2 Flooded Strand
+3 Teferi, Hero of Dominaria
+3 Esper Charm
+3 Field of Ruin
+3 Cryptic Command
+3 Snapcaster Mage
+3 Fatal Push
+3 Nihil Spellbomb
+3 Flooded Strand
+3 Opt
+4 Snapcaster Mage
+4 Flooded Strand
 4 Plains
 5 Plains
 1 Light Up the Stage
@@ -109,16 +109,16 @@
 1 Pyroclasm
 1 Auriok Champion
 1 Worship
-1 Swans of Bryn Argoll
 1 Blasphemous Act
-1 Wall of Omens
 1 Spitemare
 1 Pyrohemia
 1 Rest in Peace
+1 Nahiri's Wrath
 1 Volcano Hellion
 1 Boros Reckoner
-1 Nahiri's Wrath
+1 Swans of Bryn Argoll
 1 Burrenton Forge-Tender
+1 Wall of Omens
 1 Clifftop Retreat
 2 Clifftop Retreat
 2 Light Up the Stage
@@ -140,51 +140,6 @@
 3 Clifftop Retreat
 4 Clifftop Retreat
 4 Boros Reckoner
-4 Island
-1 Flooded Grove
-1 Search for Azcanta
-1 Dismember
-1 Breeding Pool
-1 Spell Snare
-1 Torrential Gearhulk
-1 Misty Rainforest
-1 Forest
-1 Glen Elendra Archmage
-1 Remand
-1 Pulse of Murasa
-1 Engineered Explosives
-1 Growth Spiral
-1 Temple Garden
-1 Hinterland Harbor
-1 Clinging Mists
-1 Academy Ruins
-1 Repudiate / Replicate
-2 Growth Spiral
-2 Temple Garden
-2 Breeding Pool
-2 Spell Snare
-2 Dismember
-2 Misty Rainforest
-2 Pulse of Murasa
-2 Remand
-2 Hinterland Harbor
-2 Search for Azcanta
-2 Flooded Grove
-2 Repudiate / Replicate
-2 Torrential Gearhulk
-3 Growth Spiral
-3 Misty Rainforest
-3 Dismember
-3 Remand
-3 Torrential Gearhulk
-3 Repudiate / Replicate
-3 Hinterland Harbor
-4 Growth Spiral
-4 Cryptic Command
-4 Misty Rainforest
-4 Remand
-4 Opt
-4 Repudiate / Replicate
 1 Tasigur, the Golden Fang
 1 Thought Scour
 1 Inquisition of Kozilek
@@ -221,8 +176,8 @@
 4 Goryo's Vengeance
 1 Faerie Conclave
 1 Runed Halo
-1 Gideon's Intervention
 1 Nevermore
+1 Gideon's Intervention
 1 Cast Out
 1 Spreading Seas
 1 Detention Sphere
@@ -244,11 +199,12 @@
 3 Glacial Fortress
 3 Spreading Seas
 3 Ghostly Prison
-3 Temple of Enlightenment
 3 Detention Sphere
+3 Temple of Enlightenment
 3 Nevermore
 3 Runed Halo
 4 Glacial Fortress
+4 Island
 4 Spreading Seas
 4 Nevermore
 4 Detention Sphere

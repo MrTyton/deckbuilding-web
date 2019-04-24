@@ -21,3 +21,23 @@
 |4 [Goblin Rabblemaster](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438486)|4 [Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)|1 [Kolaghan's Command](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394613)|2 [Crumble to Dust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401850)|
 |2 [Stormbreath Dragon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373679) |                                                                                                |                                                                                               |2 [Slaughter Games](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=290532)|
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                         Maindeck Card                                          |*n*<sup>th</sup> copy|                                           Sideboard Card                                            |
+|--------------------:|------------------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------------------|
+|                    1|[Goblin Rabblemaster](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438486)  |                    1|[Ravenous Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197537)             |
+|                    1|[Verdant Catacombs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405113)    |                    1|[Eidolon of the Great Revel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442117)|
+|                    1|[Damnation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425888)            |                    1|[Rakdos Charm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420835)              |
+|                    1|[Dragonskull Summit](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420909)   |                    1|[Nihil Spellbomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442215)           |
+|                    1|[Dreadbore](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430622)            |                    1|[Anger of the Gods](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438682)         |
+|                    1|[Phyrexian Obliterator](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442090)|                    1|[Pia and Kiran Nalaar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442783)      |
+|                    1|[Lavaclaw Reaches](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457141)     |                    1|[Torpor Orb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=233069)                |
+|                    1|[Serum Powder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=48920)          |                    1|[Damping Matrix](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426043)            |
+|                    2|[Goblin Rabblemaster](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438486)  |                    2|[Anger of the Gods](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438682)         |
+|                    2|[Verdant Catacombs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405113)    |                     |                                                                                                     |
+|                    2|[Serum Powder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=48920)          |                     |                                                                                                     |
+|                    2|[Master of Cruelties](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=368981)  |                     |                                                                                                     |
+|                    3|[Goblin Rabblemaster](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438486)  |                     |                                                                                                     |
+|                    2|[Dragonskull Summit](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420909)   |                     |                                                                                                     |
+

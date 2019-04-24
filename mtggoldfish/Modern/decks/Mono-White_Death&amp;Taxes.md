@@ -24,3 +24,22 @@
 |                                                                                               |2 [Cataclysmic Gearhulk](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417582)|3 [Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)|2 [Revoke Existence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=378397)    |
 |                                                                                               |                                                                                                 |2 [Stony Silence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=247425)|                                                                                                 |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                         Maindeck Card                                          |*n*<sup>th</sup> copy|                                          Sideboard Card                                           |
+|--------------------:|------------------------------------------------------------------------------------------------|--------------------:|---------------------------------------------------------------------------------------------------|
+|                    1|[Flagstones of Trokair](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=116733)|                    1|[Mirran Crusader](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=213802)         |
+|                    1|[Eiganjo Castle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=79205)        |                    1|[Gideon, Ally of Zendikar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401897)|
+|                    1|[Tectonic Edge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389711)        |                    1|[Leonin Relic-Warder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=432997)     |
+|                    1|[Remorseful Cleric](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447169)    |                    1|[Wrath of God](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129808)            |
+|                    1|[Kitchen Finks](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370458)        |                    1|[Oust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401649)                    |
+|                    1|[Aether Vial](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=48146)           |                    1|[Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452)       |
+|                    2|[Aether Vial](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=48146)           |                    1|[Runed Halo](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=154005)              |
+|                    3|[Shefet Dunes](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430872)         |                    2|[Wrath of God](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129808)            |
+|                    3|[Flickerwisp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376338)          |                    2|[Oust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401649)                    |
+|                    3|[Aether Vial](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=48146)           |                     |                                                                                                   |
+|                    4|[Aether Vial](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=48146)           |                     |                                                                                                   |
+|                    4|[Leonin Arbiter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=432996)       |                     |                                                                                                   |
+|                    4|[Flickerwisp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376338)          |                     |                                                                                                   |
+

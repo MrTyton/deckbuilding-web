@@ -35,11 +35,11 @@
 
 # Legacy
 
-|                     A                      |                            B                             |                          C                           |                               D                                |
-|--------------------------------------------|----------------------------------------------------------|------------------------------------------------------|----------------------------------------------------------------|
-|[Belcher](./mtgtop8/Legacy/decks/Belcher.md)|[Cloudpost Ramp](./mtgtop8/Legacy/decks/Cloudpost_Ramp.md)|[MUD](./mtgtop8/Legacy/decks/MUD.md)                  |[Zombi Bombardment](./mtgtop8/Legacy/decks/Zombi_Bombardment.md)|
-|[Burn](./mtgtop8/Legacy/decks/Burn.md)      |[Dredge](./mtgtop8/Legacy/decks/Dredge.md)                |[Shoal Infect](./mtgtop8/Legacy/decks/Shoal_Infect.md)|                                                                |
+|                     A                      |                            B                             |                          C                           |                     D                      |                               E                                |
+|--------------------------------------------|----------------------------------------------------------|------------------------------------------------------|--------------------------------------------|----------------------------------------------------------------|
+|[Belcher](./mtgtop8/Legacy/decks/Belcher.md)|[Cloudpost Ramp](./mtgtop8/Legacy/decks/Cloudpost_Ramp.md)|[MUD](./mtgtop8/Legacy/decks/MUD.md)                  |[Slivers](./mtgtop8/Legacy/decks/Slivers.md)|[Zombi Bombardment](./mtgtop8/Legacy/decks/Zombi_Bombardment.md)|
+|[Burn](./mtgtop8/Legacy/decks/Burn.md)      |[Dredge](./mtgtop8/Legacy/decks/Dredge.md)                |[Shoal Infect](./mtgtop8/Legacy/decks/Shoal_Infect.md)|[Stax](./mtgtop8/Legacy/decks/Stax.md)      |                                                                |
 
 
 
-#### Last Updated at 12:41PM on April 23, 2019
+#### Last Updated at 12:43AM on April 24, 2019

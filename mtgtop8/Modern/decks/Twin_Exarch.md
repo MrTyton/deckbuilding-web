@@ -44,7 +44,7 @@
 |                    2|[Vendilion Clique](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442065)        |                    1|[Dragon's Claw](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129527)           |
 |                    2|[Opt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442948)                     |                    1|[Crypt Incursion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=369056)         |
 |                    3|[Sulfur Falls](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443135)            |                    1|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)          |
-|                    3|[Cryptic Command](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438614)         |                    2|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)          |
-|                    3|[Kiki-Jiki, Mirror Breaker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=50321)|                    2|[Dragon's Claw](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129527)           |
+|                    3|[Kiki-Jiki, Mirror Breaker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=50321)|                    2|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)          |
+|                    3|[Cryptic Command](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438614)         |                    2|[Dragon's Claw](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129527)           |
 |                     |                                                                                                   |                    2|[Crypt Incursion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=369056)         |
 
