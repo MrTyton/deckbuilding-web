@@ -46,6 +46,6 @@
 |                    2|[Shock](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129732)             |                    1|[Ral, Izzet Viceroy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452945) |
 |                    1|[Lyra Dawnbringer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442914)  |                    1|[Settle the Wreckage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435186)|
 |                    2|[Lyra Dawnbringer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442914)  |                    1|[Nexus of Fate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=450253)      |
-|                    4|[Clifftop Retreat](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443127)  |                    2|[Nexus of Fate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=450253)      |
-|                    3|Expansion / Explosion                                                                        |                     |                                                                                              |
+|                    3|Expansion / Explosion                                                                        |                    2|[Nexus of Fate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=450253)      |
+|                    4|[Clifftop Retreat](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443127)  |                     |                                                                                              |
 
