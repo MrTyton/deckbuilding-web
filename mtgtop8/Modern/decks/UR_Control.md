@@ -62,7 +62,7 @@
 |                    2|[Anger of the Gods](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438682)         |                     |                                                                                                     |
 |                    2|[Polluted Delta](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405104)            |                     |                                                                                                     |
 |                    3|[Through the Breach](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=80250)         |                     |                                                                                                     |
-|                    3|[Emrakul, the Aeons Torn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397905)   |                     |                                                                                                     |
 |                    3|[Polluted Delta](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405104)            |                     |                                                                                                     |
+|                    3|[Emrakul, the Aeons Torn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397905)   |                     |                                                                                                     |
 |                    4|[Polluted Delta](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405104)            |                     |                                                                                                     |
 
