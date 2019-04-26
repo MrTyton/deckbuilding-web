@@ -42,6 +42,6 @@
 |*n*<sup>th</sup> copy|                                       Maindeck Card                                       |*n*<sup>th</sup> copy|                                     Sideboard Card                                      |
 |--------------------:|-------------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------|
 |                    2|[Eternal Witness](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=51628)  |                    1|[Eternal Witness](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=51628)|
-|                    4|[Wooded Foothills](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405116)|                     |                                                                                         |
 |                    3|[Wooded Foothills](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405116)|                     |                                                                                         |
+|                    4|[Wooded Foothills](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405116)|                     |                                                                                         |
 

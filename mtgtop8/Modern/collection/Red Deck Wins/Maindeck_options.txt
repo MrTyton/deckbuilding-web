@@ -13,12 +13,12 @@
 3 Light Up the Stage
 3 Sacred Foundry
 5 Mountain
-1 Soul-Scar Mage
 1 Plains
+1 Soul-Scar Mage
 1 Seeker of the Way
-2 Soul-Scar Mage
 2 Plains
 2 Seeker of the Way
+2 Soul-Scar Mage
 3 Seeker of the Way
 4 Skullcrack
 4 Seeker of the Way
@@ -26,7 +26,6 @@
 1 Risk Factor
 2 Snow-Covered Mountain
 2 Risk Factor
-4 Light Up the Stage
 4 Scalding Tarn
 1 Battlefield Forge
 1 Legion Warboss
@@ -47,18 +46,6 @@
 3 Battlefield Forge
 4 Temple of Triumph
 4 Battlefield Forge
-1 Rampaging Ferocidon
-1 Wind-Scarred Crag
-1 Terramorphic Expanse
-2 Rampaging Ferocidon
-2 Terramorphic Expanse
-2 Wind-Scarred Crag
-3 Soul-Scar Mage
-3 Wind-Scarred Crag
-3 Terramorphic Expanse
-4 Soul-Scar Mage
-4 Wind-Scarred Crag
-4 Terramorphic Expanse
 1 Dragonskull Summit
 1 Kolaghan's Command
 1 Vexing Devil
@@ -100,6 +87,19 @@
 4 Copperline Gorge
 4 Bomat Courier
 4 Atarka's Command
+1 Rampaging Ferocidon
+1 Wind-Scarred Crag
+1 Terramorphic Expanse
+2 Rampaging Ferocidon
+2 Terramorphic Expanse
+2 Wind-Scarred Crag
+3 Wind-Scarred Crag
+3 Terramorphic Expanse
+3 Soul-Scar Mage
+4 Wind-Scarred Crag
+4 Terramorphic Expanse
+4 Soul-Scar Mage
+4 Light Up the Stage
 1 Raging Goblin
 1 Frenzied Goblin
 1 Mogg War Marshal
@@ -137,6 +137,7 @@
 4 Legion Loyalist
 4 Goblin Bushwhacker
 4 Foundry Street Denizen
+6 Mountain
 7 Mountain
 8 Mountain
 9 Mountain
@@ -148,6 +149,5 @@
 15 Mountain
 16 Mountain
 17 Mountain
-18 Mountain
 19 Mountain
-6 Mountain
+18 Mountain
