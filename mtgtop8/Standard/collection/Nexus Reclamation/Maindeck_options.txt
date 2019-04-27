@@ -1,9 +1,15 @@
-2 Temple Garden
+3 Expansion / Explosion
+1 Stomping Ground
+2 Stomping Ground
+3 Stomping Ground
+2 Hydroid Krasis
 1 Sunpetal Grove
+1 Temple Garden
 1 Teferi, Hero of Dominaria
 1 Hallowed Fountain
 1 Glacial Fortress
 2 Sunpetal Grove
+2 Temple Garden
 2 Teferi, Hero of Dominaria
 2 Hallowed Fountain
 2 Glacial Fortress
@@ -13,45 +19,27 @@
 3 Hallowed Fountain
 4 Hallowed Fountain
 4 Glacial Fortress
-1 Expansion / Explosion
-2 Expansion / Explosion
-3 Expansion / Explosion
 1 Negate
-1 Stomping Ground
-2 Stomping Ground
-3 Stomping Ground
-1 Depose / Deploy
-2 Depose / Deploy
 1 Simic Guildgate
 1 Murmuring Mystic
-7 Island
-3 Depose / Deploy
+1 Depose / Deploy
 1 Revitalize
+2 Depose / Deploy
 2 Revitalize
 3 Revitalize
 4 Revitalize
 1 Precognitive Perception
-1 Woodland Stream
-4 Depose / Deploy
-3 Hydroid Krasis
 3 Sinister Sabotage
+1 Woodland Stream
+3 Depose / Deploy
+4 Depose / Deploy
+1 Niv-Mizzet, Parun
+1 Steam Vents
+7 Island
+3 Hydroid Krasis
 4 Sunpetal Grove
 1 Cleansing Nova
 2 Cleansing Nova
-3 Teferi, Hero of Dominaria
-1 Spell Pierce
-2 Simic Guildgate
-1 Niv-Mizzet, Parun
-1 Steam Vents
-1 Dovin, Grand Arbiter
-3 Blink of an Eye
-1 Syncopate
-1 Knight of Autumn
-1 Absorb
-2 Syncopate
-2 Knight of Autumn
-2 Absorb
-3 Absorb
 1 Sulfur Falls
 1 Fiery Cannonade
 1 Rootbound Crag
@@ -60,6 +48,20 @@
 2 Steam Vents
 2 Fiery Cannonade
 3 Steam Vents
+3 Teferi, Hero of Dominaria
+1 Spell Pierce
+2 Simic Guildgate
+1 Shivan Fire
+2 Shivan Fire
+4 Expansion / Explosion
+1 Dovin, Grand Arbiter
+1 Syncopate
+1 Knight of Autumn
+1 Absorb
+2 Syncopate
+2 Knight of Autumn
+2 Absorb
+3 Absorb
 1 Gift of Paradise
 2 Gift of Paradise
 3 Gift of Paradise
@@ -69,8 +71,12 @@
 4 Temple Garden
 4 Sinister Sabotage
 4 Stomping Ground
+2 Niv-Mizzet, Parun
+3 Shivan Fire
+3 Sulfur Falls
+4 Steam Vents
+4 Sulfur Falls
 1 Gruul Guildgate
-1 Shivan Fire
 1 Gateway Plaza
 1 Circuitous Route
 1 Gates Ablaze
@@ -80,13 +86,13 @@
 1 Guild Summit
 2 Gateway Plaza
 2 Gruul Guildgate
-2 Shivan Fire
 2 Circuitous Route
 2 Spell Pierce
 2 Plaza of Harmony
 2 Guild Summit
 2 Izzet Guildgate
 2 Gates Ablaze
+3 Spell Pierce
 3 Simic Guildgate
 3 Gates Ablaze
 3 Guild Summit
@@ -95,11 +101,9 @@
 3 Plaza of Harmony
 3 Gruul Guildgate
 3 Izzet Guildgate
-3 Spell Pierce
 4 Circuitous Route
 4 Simic Guildgate
 4 Izzet Guildgate
-4 Expansion / Explosion
 4 Gates Ablaze
 4 Guild Summit
 4 Gateway Plaza
