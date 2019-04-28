@@ -35,7 +35,6 @@
 |                    1|[Gemstone Caverns](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=122094)          |                     |              |
 |                    1|[Serum Powder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=48920)               |                     |              |
 |                    1|[Koth of the Hammer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=266362)        |                     |              |
-|                    1|[Pia and Kiran Nalaar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442783)      |                     |              |
 |                    1|[Legion Warboss](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452859)            |                     |              |
 |                    1|[Hazoret the Fervent](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426838)       |                     |              |
 |                    1|[Ensnaring Bridge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=15866)           |                     |              |
@@ -45,12 +44,13 @@
 |                    1|[Goblin Rabblemaster](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438486)       |                     |              |
 |                    1|[Pyretic Ritual](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205067)            |                     |              |
 |                    1|[Chalice of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442211)       |                     |              |
+|                    1|[Pia and Kiran Nalaar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442783)      |                     |              |
 |                    1|[Ramunap Ruins](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430870)             |                     |              |
 |                    2|[Simian Spirit Guide](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442137)       |                     |              |
 |                    2|[Gemstone Caverns](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=122094)          |                     |              |
-|                    2|[Blood Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45386)                 |                     |              |
 |                    2|[Serum Powder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=48920)               |                     |              |
 |                    2|[Snow-Covered Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121233)     |                     |              |
+|                    2|[Blood Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45386)                 |                     |              |
 |                    2|[Chalice of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442211)       |                     |              |
 |                    2|[Chandra, Torch of Defiance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417683)|                     |              |
 |                    2|[Ensnaring Bridge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=15866)           |                     |              |
