@@ -1,4 +1,55 @@
 1 Plains
+1 Flooded Strand
+1 Island
+1 Path to Exile
+2 Island
+2 Path to Exile
+3 Path to Exile
+1 Polluted Delta
+1 Godless Shrine
+1 Snapcaster Mage
+1 Fatal Push
+1 Watery Grave
+1 Hallowed Fountain
+2 Fatal Push
+2 Watery Grave
+2 Polluted Delta
+3 Polluted Delta
+4 Polluted Delta
+1 Glacial Fortress
+1 Field of Ruin
+1 Negate
+1 Supreme Verdict
+2 Supreme Verdict
+2 Negate
+3 Island
+4 Path to Exile
+1 Esper Charm
+1 Logic Knot
+1 Kaya, Orzhov Usurper
+1 Teferi, Hero of Dominaria
+1 Cryptic Command
+1 Nihil Spellbomb
+1 Jace, the Mind Sculptor
+1 Opt
+2 Esper Charm
+2 Snapcaster Mage
+2 Cryptic Command
+2 Teferi, Hero of Dominaria
+2 Field of Ruin
+2 Hallowed Fountain
+2 Opt
+2 Jace, the Mind Sculptor
+2 Flooded Strand
+2 Nihil Spellbomb
+3 Field of Ruin
+3 Cryptic Command
+3 Snapcaster Mage
+3 Fatal Push
+3 Nihil Spellbomb
+3 Flooded Strand
+3 Opt
+4 Flooded Strand
 2 Plains
 1 Desperate Ritual
 1 Goblin Rabblemaster
@@ -24,75 +75,31 @@
 4 Chandra, Torch of Defiance
 4 Goblin Rabblemaster
 4 Arid Mesa
-1 Flooded Strand
+1 Creeping Tar Pit
 1 Marsh Flats
+2 Glacial Fortress
+1 Detention Sphere
+3 Plains
 1 Purphoros, God of the Forge
 1 Windswept Heath
 1 Ramunap Ruins
 1 Pyretic Ritual
+2 Ramunap Ruins
 2 Hazoret the Fervent
 2 Sacred Foundry
-2 Ramunap Ruins
 2 Rugged Prairie
 3 Ramunap Ruins
-3 Plains
-1 Island
-1 Path to Exile
-2 Island
-2 Path to Exile
-3 Path to Exile
-1 Polluted Delta
-1 Godless Shrine
-1 Snapcaster Mage
-1 Fatal Push
-1 Watery Grave
-1 Hallowed Fountain
-1 Creeping Tar Pit
-2 Fatal Push
-2 Watery Grave
-2 Polluted Delta
-3 Polluted Delta
-4 Polluted Delta
-1 Glacial Fortress
-1 Field of Ruin
-1 Negate
-1 Supreme Verdict
-2 Supreme Verdict
-2 Negate
-2 Glacial Fortress
-3 Island
-4 Path to Exile
-1 Esper Charm
-1 Logic Knot
-1 Kaya, Orzhov Usurper
-1 Teferi, Hero of Dominaria
-1 Cryptic Command
-1 Nihil Spellbomb
+1 Mana Leak
+1 Timely Reinforcements
+1 Celestial Colonnade
+1 Vendilion Clique
+2 Celestial Colonnade
+4 Field of Ruin
 1 Cast Down
-1 Jace, the Mind Sculptor
-1 Opt
-2 Esper Charm
 2 Logic Knot
-2 Snapcaster Mage
-2 Cryptic Command
-2 Teferi, Hero of Dominaria
-2 Field of Ruin
-2 Hallowed Fountain
-2 Opt
-2 Jace, the Mind Sculptor
-2 Flooded Strand
-2 Nihil Spellbomb
-3 Esper Charm
 3 Teferi, Hero of Dominaria
-3 Field of Ruin
-3 Cryptic Command
-3 Snapcaster Mage
-3 Fatal Push
-3 Nihil Spellbomb
-3 Flooded Strand
-3 Opt
+3 Esper Charm
 4 Snapcaster Mage
-4 Flooded Strand
 1 Wooded Foothills
 1 Sarkhan, Fireblood
 1 Inspiring Vantage
@@ -142,7 +149,6 @@
 1 Gideon's Intervention
 1 Cast Out
 1 Spreading Seas
-1 Detention Sphere
 1 Temple of Enlightenment
 1 Aetherling
 1 Sphere of Safety
