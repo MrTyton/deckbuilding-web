@@ -36,6 +36,6 @@
 
 |*n*<sup>th</sup> copy|Maindeck Card|*n*<sup>th</sup> copy|                                      Sideboard Card                                       |
 |---------------------|-------------|--------------------:|-------------------------------------------------------------------------------------------|
-|                     |             |                    1|[Detention Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=270356)|
 |                     |             |                    1|[Fiery Justice](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376332)   |
+|                     |             |                    1|[Detention Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=270356)|
 

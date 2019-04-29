@@ -77,7 +77,7 @@
 |                    3|[Glorybringer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426836)                |                     |              |
 |                    3|[Wooded Foothills](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405116)            |                     |              |
 |                    3|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)                    |                     |              |
-|                    4|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)                    |                     |              |
+|                    4|[Lightning Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=806)                 |                     |              |
 |                    4|[Bloodbraid Elf](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=185053)              |                     |              |
 |                    4|[Sakura-Tribe Elder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220582)          |                     |              |
 |                    4|[Primeval Titan](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438749)              |                     |              |
@@ -85,9 +85,9 @@
 |                    4|[Stomping Ground](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405110)             |                     |              |
 |                    4|[Search for Tomorrow](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205408)         |                     |              |
 |                    4|[Wooded Foothills](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405116)            |                     |              |
+|                    4|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)                    |                     |              |
 |                    4|[Gruul Spellbreaker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457323)          |                     |              |
 |                    4|[Cinder Glade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401841)                |                     |              |
 |                    5|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)                    |                     |              |
 |                    6|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)                    |                     |              |
-|                    4|[Lightning Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=806)                 |                     |              |
 
