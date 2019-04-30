@@ -6,10 +6,10 @@
 
 |                                A                                 |                             B                              |                                 C                                  |                                 D                                  |                                  E                                   |
 |------------------------------------------------------------------|------------------------------------------------------------|--------------------------------------------------------------------|--------------------------------------------------------------------|----------------------------------------------------------------------|
-|[Azorius Aggro](./mtggoldfish/Standard/decks/Azorius_Aggro.md)    |[Gruul Aggro](./mtggoldfish/Standard/decks/Gruul_Aggro.md)  |[Jeskai Control](./mtggoldfish/Standard/decks/Jeskai_Control.md)    |[Rakdos Sacrifice](./mtggoldfish/Standard/decks/Rakdos_Sacrifice.md)|[Sultai Midrange](./mtggoldfish/Standard/decks/Sultai_Midrange.md)    |
-|[Bant Midrange](./mtggoldfish/Standard/decks/Bant_Midrange.md)    |[Gruul Stompy](./mtggoldfish/Standard/decks/Gruul_Stompy.md)|[Mono-Blue Tempo](./mtggoldfish/Standard/decks/Mono-Blue_Tempo.md)  |[Selesnya Tokens](./mtggoldfish/Standard/decks/Selesnya_Tokens.md)  |[Temur Reclamation](./mtggoldfish/Standard/decks/Temur_Reclamation.md)|
-|[Esper Control](./mtggoldfish/Standard/decks/Esper_Control.md)    |[Izzet Combo](./mtggoldfish/Standard/decks/Izzet_Combo.md)  |[Mono-Red Aggro](./mtggoldfish/Standard/decks/Mono-Red_Aggro.md)    |[Simic Ramp](./mtggoldfish/Standard/decks/Simic_Ramp.md)            |                                                                      |
-|[Grixis Midrange](./mtggoldfish/Standard/decks/Grixis_Midrange.md)|[Izzet Drakes](./mtggoldfish/Standard/decks/Izzet_Drakes.md)|[Mono-White Aggro](./mtggoldfish/Standard/decks/Mono-White_Aggro.md)|[Simic Stompy](./mtggoldfish/Standard/decks/Simic_Stompy.md)        |                                                                      |
+|[Azorius Aggro](./mtggoldfish/Standard/decks/Azorius_Aggro.md)    |[Gruul Aggro](./mtggoldfish/Standard/decks/Gruul_Aggro.md)  |[Jeskai Control](./mtggoldfish/Standard/decks/Jeskai_Control.md)    |[Rakdos Sacrifice](./mtggoldfish/Standard/decks/Rakdos_Sacrifice.md)|[Simic Stompy](./mtggoldfish/Standard/decks/Simic_Stompy.md)          |
+|[Bant Midrange](./mtggoldfish/Standard/decks/Bant_Midrange.md)    |[Gruul Stompy](./mtggoldfish/Standard/decks/Gruul_Stompy.md)|[Mono-Blue Tempo](./mtggoldfish/Standard/decks/Mono-Blue_Tempo.md)  |[Selesnya Tokens](./mtggoldfish/Standard/decks/Selesnya_Tokens.md)  |[Sultai Midrange](./mtggoldfish/Standard/decks/Sultai_Midrange.md)    |
+|[Esper Control](./mtggoldfish/Standard/decks/Esper_Control.md)    |[Izzet Combo](./mtggoldfish/Standard/decks/Izzet_Combo.md)  |[Mono-Red Aggro](./mtggoldfish/Standard/decks/Mono-Red_Aggro.md)    |[Simic Nexus](./mtggoldfish/Standard/decks/Simic_Nexus.md)          |[Temur Reclamation](./mtggoldfish/Standard/decks/Temur_Reclamation.md)|
+|[Grixis Midrange](./mtggoldfish/Standard/decks/Grixis_Midrange.md)|[Izzet Drakes](./mtggoldfish/Standard/decks/Izzet_Drakes.md)|[Mono-White Aggro](./mtggoldfish/Standard/decks/Mono-White_Aggro.md)|[Simic Ramp](./mtggoldfish/Standard/decks/Simic_Ramp.md)            |                                                                      |
 
 
 # Modern
@@ -53,4 +53,4 @@
 
 
 
-#### Last Updated at 12:43PM on April 29, 2019
+#### Last Updated at 12:40AM on April 30, 2019
