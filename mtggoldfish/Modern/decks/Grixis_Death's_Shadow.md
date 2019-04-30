@@ -53,6 +53,6 @@
 |                    2|[Marsh Flats](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405101)        |                     |                                                                                            |
 |                    2|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|                     |                                                                                            |
 |                    3|[Marsh Flats](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405101)        |                     |                                                                                            |
-|                    4|[Serum Visions](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=50145)       |                     |                                                                                            |
 |                    4|[Watery Grave](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405114)       |                     |                                                                                            |
+|                    4|[Serum Visions](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=50145)       |                     |                                                                                            |
 
