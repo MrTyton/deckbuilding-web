@@ -1,0 +1,24 @@
+# BRG
+
+#### [Export MTGO List](../collection/BRG/BRG.txt)
+#### [Export Arena List](../collection/BRG/BRG_arena.txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Chandra,%20Fire%20Artisan%0A4%09Dire%20Fleet%20Daredevil%0A2%09Domri,%20Anarch%20of%20Bolas%0A3%09Forest%0A4%09Goblin%20Chainwhirler%0A4%09Growth-Chamber%20Guardian%0A3%09Gruul%20Guildgate%0A4%09Gruul%20Spellbreaker%0A3%09Lightning%20Strike%0A11%09Mountain%0A4%09Rekindling%20Phoenix%0A4%09Rootbound%20Crag%0A4%09Sarkhan%20the%20Masterless%0A2%09Shock%0A4%09Stomping%20Ground&deckside=3%09Cindervines%0A1%09Domri,%20Anarch%20of%20Bolas%0A2%09Fiery%20Cannonade%0A3%09Kraul%20Harpooner%0A3%09Lava%20Coil%0A1%09Shock%0A2%09Status/Statue)
+# Maindeck
+
+|                                           Creature (20)                                            |                                         Instant (5)                                         |                                         Land (25)                                          |      Unknown (10)      |
+|----------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|------------------------|
+|4 [Dire Fleet Daredevil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439756)   |3 [Lightning Strike](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383299)|3 [Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)         |4 Chandra, Fire Artisan |
+|4 [Goblin Chainwhirler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443017)    |2 [Shock](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129732)           |3 [Gruul Guildgate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376359)|2 Domri, Anarch of Bolas|
+|4 [Growth-Chamber Guardian](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457272)|                                                                                             |11 [Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)      |4 Sarkhan the Masterless|
+|4 [Gruul Spellbreaker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457323)     |                                                                                             |4 [Rootbound Crag](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420934) |                        |
+|4 [Rekindling Phoenix](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439768)     |                                                                                             |4 [Stomping Ground](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405110)|                        |
+
+
+# Sideboard
+
+|                                        Creature (3)                                        |                                    Enchantment (3)                                     |                                        Instant (5)                                         |                                     Sorcery (3)                                      |      Unknown (1)       |
+|--------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|------------------------|
+|3 [Kraul Harpooner](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452886)|3 [Cindervines](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457305)|2 [Fiery Cannonade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435297)|3 [Lava Coil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452858)|1 Domri, Anarch of Bolas|
+|                                                                                            |                                                                                        |1 [Shock](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129732)          |                                                                                      |                        |
+|                                                                                            |                                                                                        |2 [Status/Statue](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452980)  |                                                                                      |                        |
+

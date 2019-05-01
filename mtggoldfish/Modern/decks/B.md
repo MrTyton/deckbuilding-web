@@ -22,11 +22,18 @@
 
 # Other Options
 
-|*n*<sup>th</sup> copy|                                   Maindeck Card                                    |*n*<sup>th</sup> copy|                                      Sideboard Card                                      |
-|--------------------:|------------------------------------------------------------------------------------|--------------------:|------------------------------------------------------------------------------------------|
-|                    1|[Dismember](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382182)|                    1|[Cast Down](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442969)      |
-|                   12|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)    |                    1|[Ensnaring Bridge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=15866)|
-|                     |                                                                                    |                    2|[Cast Down](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442969)      |
-|                     |                                                                                    |                    2|[Ensnaring Bridge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=15866)|
-|                     |                                                                                    |                    3|[Ensnaring Bridge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=15866)|
+|*n*<sup>th</sup> copy|                                   Maindeck Card                                    |*n*<sup>th</sup> copy|                                         Sideboard Card                                          |
+|--------------------:|------------------------------------------------------------------------------------|--------------------:|-------------------------------------------------------------------------------------------------|
+|                    2|[The Rack](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=1139)   |                    1|[Sun Droplet](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220530)           |
+|                    3|[The Rack](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=1139)   |                    1|[Bontu's Last Reckoning](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430749)|
+|                    1|[Dismember](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382182)|                    1|[Pithing Needle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129526)        |
+|                   12|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)    |                    1|[Bitterblossom](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397701)         |
+|                     |                                                                                    |                    2|[Nihil Spellbomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442215)       |
+|                     |                                                                                    |                    2|[Bontu's Last Reckoning](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430749)|
+|                     |                                                                                    |                    2|[Bitterblossom](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397701)         |
+|                     |                                                                                    |                    1|[Cast Down](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442969)             |
+|                     |                                                                                    |                    1|[Ensnaring Bridge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=15866)       |
+|                     |                                                                                    |                    2|[Ensnaring Bridge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=15866)       |
+|                     |                                                                                    |                    2|[Cast Down](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442969)             |
+|                     |                                                                                    |                    3|[Ensnaring Bridge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=15866)       |
 

@@ -44,7 +44,7 @@
 |                    3|[Surge Mare](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447213)            |                    4|[Essence Capture](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457181)       |
 |                    4|[Surge Mare](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447213)            |                    1|[Sleep](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405385)                 |
 |                    4|[Mist-Cloaked Herald](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=450257)   |                    2|[Chemister's Insight](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452782)   |
-|                    3|[Essence Capture](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457181)       |                    3|[Chemister's Insight](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452782)   |
+|                    3|[Essence Capture](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457181)       |                    4|[Chemister's Insight](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452782)   |
 |                     |                                                                                                 |                    1|[Sorcerous Spyglass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435407)    |
-|                     |                                                                                                 |                    4|[Chemister's Insight](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452782)   |
+|                     |                                                                                                 |                    3|[Chemister's Insight](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452782)   |
 

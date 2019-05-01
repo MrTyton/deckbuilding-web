@@ -32,8 +32,8 @@
 
 |*n*<sup>th</sup> copy|                                           Maindeck Card                                           |*n*<sup>th</sup> copy|                                       Sideboard Card                                        |
 |--------------------:|---------------------------------------------------------------------------------------------------|--------------------:|---------------------------------------------------------------------------------------------|
-|                    1|[Nicol Bolas, the Ravager](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447354)|                    1|[The Eldest Reborn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442978) |
-|                    1|[Boros Guildgate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376272)         |                    1|[Fight with Fire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443007)   |
+|                    1|[Nicol Bolas, the Ravager](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447354)|                    1|[Fight with Fire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443007)   |
+|                    1|[Boros Guildgate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376272)         |                    1|[The Eldest Reborn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442978) |
 |                    2|[Selesnya Guildgate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376490)      |                    1|[Sorcerous Spyglass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435407)|
 |                    2|[Gateway Plaza](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452997)           |                    1|[Deafening Clarion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452915) |
 |                    2|[Azorius Guildgate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376256)       |                    1|[Disdainful Stroke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420705) |
