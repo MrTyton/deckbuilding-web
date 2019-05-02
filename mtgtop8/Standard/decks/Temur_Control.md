@@ -55,6 +55,6 @@
 |                     |                                                                                                  |                    2|[Hydroid Krasis](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457327)     |
 |                     |                                                                                                  |                    4|[Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)             |
 |                     |                                                                                                  |                    1|[Druid of the Cowl](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423773)  |
-|                     |                                                                                                  |                    2|[Druid of the Cowl](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423773)  |
 |                     |                                                                                                  |                    3|[Druid of the Cowl](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423773)  |
+|                     |                                                                                                  |                    2|[Druid of the Cowl](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423773)  |
 
