@@ -95,6 +95,6 @@
 |                    1|[Ghost Quarter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389534)             |                    2|[Aetherize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405119)                   |
 |                    2|[Chemister's Insight](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452782)       |                    1|[Squelch](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=80290)                      |
 |                    2|[Emrakul, the Promised End](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414295) |                    2|[Squelch](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=80290)                      |
-|                    2|[Relic of Progenitus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174824)       |                     |                                                                                                       |
 |                    3|[Chemister's Insight](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452782)       |                     |                                                                                                       |
+|                    2|[Relic of Progenitus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174824)       |                     |                                                                                                       |
 

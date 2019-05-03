@@ -107,6 +107,6 @@
 |                    3|[Batterskull](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=233055)                  |                     |                                                                                                        |
 |                    3|[Sphere of Resistance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=6160)           |                     |                                                                                                        |
 |                    4|[Thespian's Stage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=366353)             |                     |                                                                                                        |
-|                    4|[Sphere of Resistance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=6160)           |                     |                                                                                                        |
 |                    7|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)                       |                     |                                                                                                        |
+|                    4|[Sphere of Resistance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=6160)           |                     |                                                                                                        |
 

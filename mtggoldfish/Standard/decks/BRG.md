@@ -22,3 +22,20 @@
 |                                                                                            |                                                                                        |1 [Shock](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129732)          |                                                                                      |                        |
 |                                                                                            |                                                                                        |2 [Status/Statue](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452980)  |                                                                                      |                        |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                      Maindeck Card                                      |*n*<sup>th</sup> copy|                                      Sideboard Card                                      |
+|--------------------:|-----------------------------------------------------------------------------------------|--------------------:|------------------------------------------------------------------------------------------|
+|                    1|[Llanowar Elves](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129626)|                    1|[Carnage Tyrant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435334) |
+|                    2|[Llanowar Elves](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129626)|                    1|Vivien, Champion of the Wilds                                                             |
+|                    3|[Shock](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129732)         |                    1|[Biogenic Ooze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457266)  |
+|                    3|[Llanowar Elves](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129626)|                    2|Vivien, Champion of the Wilds                                                             |
+|                    3|Domri, Anarch of Bolas                                                                   |                    2|[Carnage Tyrant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435334) |
+|                    4|Domri, Anarch of Bolas                                                                   |                    3|Vivien, Champion of the Wilds                                                             |
+|                    4|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)        |                    4|[Kraul Harpooner](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452886)|
+|                    4|[Llanowar Elves](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129626)|                    4|[Cindervines](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457305)    |
+|                    5|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)        |                    4|Vivien, Champion of the Wilds                                                             |
+|                    6|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)        |                     |                                                                                          |
+|                    7|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)        |                     |                                                                                          |
+
