@@ -1,20 +1,46 @@
-1 Snow-Covered Island
-1 Verdant Catacombs
-2 Verdant Catacombs
-1 Bloodstained Mire
-1 Fatal Push
 2 Fatal Push
-2 Bloodstained Mire
 3 Fatal Push
-4 Fatal Push
 1 Liliana, the Last Hope
 1 Liliana of the Veil
-1 Kalitas, Traitor of Ghet
 1 Thoughtseize
 1 Inquisition of Kozilek
 2 Inquisition of Kozilek
 2 Liliana of the Veil
 3 Liliana of the Veil
+1 Swamp
+2 Swamp
+3 Swamp
+1 Field of Ruin
+2 Field of Ruin
+1 Urborg, Tomb of Yawgmoth
+1 Kitesail Freebooter
+2 Thoughtseize
+2 Kitesail Freebooter
+3 Thoughtseize
+4 Liliana of the Veil
+4 Swamp
+5 Swamp
+6 Swamp
+7 Swamp
+8 Swamp
+9 Swamp
+10 Swamp
+11 Swamp
+12 Swamp
+13 Swamp
+14 Swamp
+1 Verdant Catacombs
+2 Verdant Catacombs
+1 Bloodstained Mire
+2 Bloodstained Mire
+4 Fatal Push
+1 Island
+1 Snow-Covered Island
+1 Kalitas, Traitor of Ghet
+3 Inquisition of Kozilek
+1 Gatekeeper of Malakir
+1 Gifted Aetherborn
+2 Gifted Aetherborn
 1 Blood Crypt
 2 Blood Crypt
 3 Bloodstained Mire
@@ -26,10 +52,10 @@
 1 Blood Moon
 1 Pack Rat
 1 Grim Lavamancer
+1 Goblin Rabblemaster
 1 Kolaghan's Command
 1 Collective Brutality
 1 Dark Confidant
-1 Goblin Rabblemaster
 1 Lightning Bolt
 1 Dreadbore
 1 Terminate
@@ -38,10 +64,10 @@
 2 Goblin Rabblemaster
 2 Pack Rat
 2 Dark Confidant
-2 Blood Moon
-2 Kolaghan's Command
 2 Lightning Bolt
+2 Blood Moon
 2 Dreadbore
+2 Kolaghan's Command
 3 Verdant Catacombs
 3 Blackcleave Cliffs
 3 Snow-Covered Swamp
@@ -49,7 +75,6 @@
 3 Goblin Rabblemaster
 3 Pack Rat
 3 Lightning Bolt
-3 Inquisition of Kozilek
 3 Dark Confidant
 4 Inquisition of Kozilek
 4 Blackcleave Cliffs
@@ -69,9 +94,9 @@
 1 Tectonic Edge
 2 Forest
 1 Logic Knot
+1 Kira, Great Glass-Spinner
 1 Misty Rainforest
 1 Noble Hierarch
-1 Kira, Great Glass-Spinner
 1 Birds of Paradise
 1 Frilled Mystic
 1 Spell Snare
@@ -92,8 +117,8 @@
 2 Spell Snare
 2 Island
 2 Botanical Sanctum
-2 Logic Knot
 2 Scalding Tarn
+2 Logic Knot
 2 Vedalken Shackles
 2 Tarmogoyf
 2 Breeding Pool
@@ -112,14 +137,8 @@
 4 Cryptic Command
 4 Botanical Sanctum
 4 Misty Rainforest
-1 Swamp
-1 Gatekeeper of Malakir
-1 Gifted Aetherborn
-2 Swamp
-2 Gifted Aetherborn
-3 Swamp
-1 Marsh Flats
 1 Murderous Cut
+1 Marsh Flats
 1 Vampire Lacerator
 1 Vampire Nocturnus
 1 Viscera Seer
@@ -145,8 +164,8 @@
 2 Viscera Seer
 3 Cavern of Souls
 3 Blood Crypt
-3 Viscera Seer
 3 Vampire Lacerator
+3 Viscera Seer
 3 Legion Lieutenant
 3 Kalastria Highborn
 3 Vampire Nocturnus
@@ -160,14 +179,30 @@
 4 Bloodghast
 4 Kalastria Highborn
 4 Stromkirk Captain
-1 Field of Ruin
-2 Field of Ruin
+1 Nykthos, Shrine to Nyx
+1 Phyrexian Arena
+1 Phyrexian Obliterator
+1 Ifnir Deadlands
+1 Gray Merchant of Asphodel
+1 Cast Down
+2 Cast Down
+2 Phyrexian Obliterator
+2 Nykthos, Shrine to Nyx
+2 Phyrexian Arena
+2 Gray Merchant of Asphodel
+3 Phyrexian Arena
+3 Gray Merchant of Asphodel
+3 Phyrexian Obliterator
+3 Gifted Aetherborn
+4 Phyrexian Obliterator
+4 Gray Merchant of Asphodel
+4 Gifted Aetherborn
 1 Zhalfirin Void
 1 Lodestone Golem
 1 Buried Ruin
 1 Batterskull
-1 Wurmcoil Engine
 1 Karn, Scion of Urza
+1 Wurmcoil Engine
 1 Skysovereign, Consul Flagship
 1 Platinum Emperion
 1 Astral Cornucopia
@@ -208,50 +243,37 @@
 3 Coretapper
 4 Chalice of the Void
 4 Ancient Stirrings
+4 Coretapper
 4 Lodestone Golem
 4 Forest
-4 Coretapper
-4 Astral Cornucopia
 4 Everflowing Chalice
+4 Astral Cornucopia
 5 Forest
 6 Forest
 7 Forest
 8 Forest
-1 Nykthos, Shrine to Nyx
-1 Urborg, Tomb of Yawgmoth
-1 Phyrexian Arena
-1 Phyrexian Obliterator
-1 Ifnir Deadlands
-1 Kitesail Freebooter
-1 Gray Merchant of Asphodel
-1 Cast Down
-2 Cast Down
-2 Thoughtseize
-2 Kitesail Freebooter
-2 Phyrexian Obliterator
-2 Gray Merchant of Asphodel
-2 Nykthos, Shrine to Nyx
-2 Phyrexian Arena
-3 Phyrexian Arena
-3 Thoughtseize
-3 Gray Merchant of Asphodel
-3 Phyrexian Obliterator
-3 Gifted Aetherborn
-4 Liliana of the Veil
-4 Swamp
-4 Phyrexian Obliterator
-4 Gray Merchant of Asphodel
-4 Gifted Aetherborn
-5 Swamp
-6 Swamp
-7 Swamp
-8 Swamp
-9 Swamp
-10 Swamp
-11 Swamp
-12 Swamp
-13 Swamp
-14 Swamp
+1 Arguel's Blood Fast
+1 Walking Ballista
+1 Abyssal Persecutor
+1 Go for the Throat
+1 Dire Fleet Poisoner
+1 Bitterblossom
+1 Spawn of Mayhem
+1 Mortarpod
+2 Walking Ballista
+2 Spawn of Mayhem
+2 Abyssal Persecutor
+2 Mortarpod
+2 Dire Fleet Poisoner
+2 Bitterblossom
+3 Field of Ruin
+3 Dire Fleet Poisoner
+3 Spawn of Mayhem
+3 Abyssal Persecutor
+4 Spawn of Mayhem
+4 Abyssal Persecutor
+15 Swamp
+16 Swamp
 1 Opt
 1 Disrupting Shoal
 1 Vapor Snag
@@ -264,11 +286,11 @@
 2 Disrupting Shoal
 2 Vapor Snag
 2 Snapcaster Mage
+2 Sleight of Hand
 2 Pteramander
 2 Thing in the Ice
 2 Opt
 2 Serum Visions
-2 Sleight of Hand
 3 Snow-Covered Island
 3 Disrupting Shoal
 3 Vapor Snag

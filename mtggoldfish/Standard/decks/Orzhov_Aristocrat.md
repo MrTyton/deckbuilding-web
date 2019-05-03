@@ -1,0 +1,24 @@
+# Orzhov Aristocrat
+
+#### [Export MTGO List](../collection/Orzhov%20Aristocrat/Orzhov%20Aristocrat.txt)
+#### [Export Arena List](../collection/Orzhov%20Aristocrat/Orzhov%20Aristocrat_arena.txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Cruel%20Celebrant%0A4%09Godless%20Shrine%0A4%09Gutterbones%0A4%09Hunted%20Witness%0A4%09Isolated%20Chapel%0A4%09Midnight%20Reaper%0A2%09Orzhov%20Enforcer%0A4%09Plaguecrafter%0A7%09Plains%0A4%09Priest%20of%20Forgotten%20Gods%0A4%09Revival/Revenge%0A4%09Sorin,%20Vengeful%20Bloodlord%0A7%09Swamp%0A4%09Tithe%20Taker&deckside=4%09Duress%0A2%09Orzhov%20Enforcer)
+# Maindeck
+
+|                                            Creature (26)                                            |                                         Land (22)                                          |                                        Sorcery (4)                                         |        Unknown (8)        |
+|-----------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|---------------------------|
+|4 [Gutterbones](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457220)             |4 [Godless Shrine](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405099) |4 [Revival/Revenge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457372)|4 Cruel Celebrant          |
+|4 [Hunted Witness](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452765)          |4 [Isolated Chapel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443129)|                                                                                            |4 Sorin, Vengeful Bloodlord|
+|4 [Midnight Reaper](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452827)         |7 [Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)         |                                                                                            |                           |
+|2 [Orzhov Enforcer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457223)         |7 [Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)          |                                                                                            |                           |
+|4 [Plaguecrafter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452832)           |                                                                                            |                                                                                            |                           |
+|4 [Priest of Forgotten Gods](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457227)|                                                                                            |                                                                                            |                           |
+|4 [Tithe Taker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457171)             |                                                                                            |                                                                                            |                           |
+
+
+# Sideboard
+
+|                                        Creature (2)                                        |                                   Sorcery (4)                                    |
+|--------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
+|2 [Orzhov Enforcer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457223)|4 [Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)|
+

@@ -23,3 +23,24 @@
 |                                                                                                |                                                                                             |                                                                                                |1 [Nature's Claim](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382316)  |
 |                                                                                                |                                                                                             |                                                                                                |4 [Pact of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442057)|
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                        Maindeck Card                                         |*n*<sup>th</sup> copy|                                          Sideboard Card                                           |
+|--------------------:|----------------------------------------------------------------------------------------------|--------------------:|---------------------------------------------------------------------------------------------------|
+|                    1|[Wooded Foothills](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405116)   |                    1|[Gemstone Caverns](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=122094)        |
+|                    1|[Dryad Arbor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=136196)        |                    1|[Noxious Revival](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=230067)         |
+|                    1|[Borborygmos Enraged](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=366283)|                    1|[Slaughter Pact](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=130704)          |
+|                    1|[Lightning Storm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121495)    |                    1|[Gigadrowse](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=96864)               |
+|                    1|[Mox Amber](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443112)          |                    1|[Iona, Shield of Emeria](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397800)  |
+|                    1|[Yavimaya Coast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129810)     |                    1|[Day's Undoing](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=398652)           |
+|                    1|[Windswept Heath](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405115)    |                    2|[Gemstone Caverns](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=122094)        |
+|                    2|[Windswept Heath](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405115)    |                    1|[Sphinx of the Steel Wind](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=189641)|
+|                    2|[Borborygmos Enraged](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=366283)|                     |                                                                                                   |
+|                    2|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)             |                     |                                                                                                   |
+|                    2|[Yavimaya Coast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129810)     |                     |                                                                                                   |
+|                    3|[Yavimaya Coast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129810)     |                     |                                                                                                   |
+|                    3|[Windswept Heath](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405115)    |                     |                                                                                                   |
+|                    4|[Windswept Heath](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405115)    |                     |                                                                                                   |
+|                    4|[Yavimaya Coast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129810)     |                     |                                                                                                   |
+
