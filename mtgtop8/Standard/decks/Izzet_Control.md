@@ -2,7 +2,7 @@
 
 #### [Export MTGO List](../collection/Izzet%20Control/Izzet%20Control.txt)
 #### [Export Arena List](../collection/Izzet%20Control/Izzet%20Control_arena.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Augur%20of%20Bolas%0A3%09Chemister's%20Insight%0A1%09Doublecast%0A4%09Expansion%20/%20Explosion%0A3%09Ionize%0A8%09Island%0A4%09Lightning%20Strike%0A7%09Mountain%0A2%09Negate%0A4%09Opt%0A1%09Ral's%20Outburst%0A4%09Ral,%20Storm%20Conduit%0A2%09Search%20for%20Azcanta%0A4%09Shock%0A1%09Skewer%20the%20Critics%0A4%09Steam%20Vents%0A4%09Sulfur%20Falls&deckside=1%09Beacon%20Bolt%0A2%09Fiery%20Cannonade%0A2%09Lava%20Coil%0A2%09Narset,%20Parter%20of%20Veils%0A1%09Negate%0A2%09Niv-Mizzet,%20Parun%0A2%09Rekindling%20Phoenix%0A3%09Saheeli,%20Sublime%20Artificer)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Augur%20of%20Bolas%0A3%09Chemister's%20Insight%0A1%09Doublecast%0A4%09Expansion%20/%20Explosion%0A3%09Ionize%0A8%09Island%0A4%09Lightning%20Strike%0A7%09Mountain%0A2%09Negate%0A4%09Opt%0A1%09Ral's%20Outburst%0A4%09Ral,%20Storm%20Conduit%0A2%09Search%20for%20Azcanta%0A4%09Shock%0A1%09Skewer%20the%20Critics%0A4%09Steam%20Vents%0A4%09Sulfur%20Falls&deckside=1%09Beacon%20Bolt%0A2%09Blink%20of%20an%20Eye%0A2%09Fiery%20Cannonade%0A2%09Lava%20Coil%0A2%09Narset,%20Parter%20of%20Veils%0A2%09Negate%0A2%09Rekindling%20Phoenix%0A2%09Spell%20Pierce)
 # Maindeck
 
 |                                       Creature (4)                                        |                                        Enchantment (2)                                        |                                          Instant (20)                                          |                                        Land (23)                                        |                                          Sorcery (2)                                          |      Unknown (9)      |
@@ -17,8 +17,22 @@
 
 # Sideboard
 
-|                                         Creature (4)                                          |                                        Instant (3)                                         |                                      Sorcery (3)                                       |        Unknown (5)         |
-|-----------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|----------------------------|
-|2 [Niv-Mizzet, Parun](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452942) |2 [Fiery Cannonade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435297)|1 [Beacon Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452904)|2 Narset, Parter of Veils   |
-|2 [Rekindling Phoenix](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439768)|1 [Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)         |2 [Lava Coil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452858)  |3 Saheeli, Sublime Artificer|
+|                                         Creature (2)                                          |                                        Instant (8)                                         |                                      Sorcery (3)                                       |       Unknown (2)       |
+|-----------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|-------------------------|
+|2 [Rekindling Phoenix](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439768)|2 [Blink of an Eye](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442934)|1 [Beacon Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452904)|2 Narset, Parter of Veils|
+|                                                                                               |2 [Fiery Cannonade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435297)|2 [Lava Coil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452858)  |                         |
+|                                                                                               |2 [Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)         |                                                                                        |                         |
+|                                                                                               |2 [Spell Pierce](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425876)   |                                                                                        |                         |
+
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                       Maindeck Card                                        |*n*<sup>th</sup> copy|                                       Sideboard Card                                       |
+|--------------------:|--------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------|
+|                    1|[Anticipate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401813)       |                    1|[Niv-Mizzet, Parun](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452942)|
+|                    1|[Niv-Mizzet, Parun](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452942)|                    1|Saheeli, Sublime Artificer                                                                  |
+|                    2|[Anticipate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401813)       |                    2|[Niv-Mizzet, Parun](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452942)|
+|                    2|[Niv-Mizzet, Parun](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452942)|                    2|Saheeli, Sublime Artificer                                                                  |
+|                    3|[Anticipate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401813)       |                    3|Saheeli, Sublime Artificer                                                                  |
+|                    4|[Anticipate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401813)       |                     |                                                                                            |
 

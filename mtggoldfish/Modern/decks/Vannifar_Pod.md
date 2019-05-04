@@ -48,8 +48,8 @@
 |                    1|[Worship](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=25553)             |                    1|[Chameleon Colossus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220451)|
 |                    1|[Scavenging Ooze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420783)    |                    1|[Eternal Witness](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=51628)    |
 |                    1|[Kitchen Finks](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370458)      |                    1|[Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)            |
-|                    2|[Worship](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=25553)             |                    2|[Rhythm of the Wild](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457345)|
-|                    2|[Kitchen Finks](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370458)      |                    2|[Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)            |
+|                    2|[Kitchen Finks](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370458)      |                    2|[Rhythm of the Wild](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457345)|
+|                    2|[Worship](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=25553)             |                    2|[Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)            |
 |                    2|[Scavenging Ooze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420783)    |                    2|[Gaddock Teeg](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=140188)      |
 |                    3|[Kitchen Finks](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370458)      |                    3|[Path to Exile](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220511)     |
 

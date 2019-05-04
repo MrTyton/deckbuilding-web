@@ -59,6 +59,6 @@
 |                    1|[Haunted Dead](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414387)        |                    2|[Engineered Explosives](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=50139) |
 |                    2|[Ghost Quarter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389534)       |                    1|[Raven's Crime](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=153487)        |
 |                    2|[Collective Brutality](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414380)|                    1|[Lightning Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=806)          |
-|                    2|[Mana Confluence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409573)     |                    2|[Lightning Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=806)          |
-|                    3|[Golgari Thug](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=292953)        |                    3|[Assassin's Trophy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452902)    |
+|                    3|[Golgari Thug](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=292953)        |                    2|[Lightning Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=806)          |
+|                    2|[Mana Confluence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409573)     |                    3|[Assassin's Trophy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452902)    |
 

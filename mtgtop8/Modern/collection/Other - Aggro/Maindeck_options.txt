@@ -1,22 +1,22 @@
+1 Fatal Push
+2 Swamp
 2 Fatal Push
+3 Swamp
 3 Fatal Push
+1 Field of Ruin
+2 Field of Ruin
+1 Urborg, Tomb of Yawgmoth
 1 Liliana, the Last Hope
 1 Liliana of the Veil
 1 Thoughtseize
 1 Inquisition of Kozilek
-2 Inquisition of Kozilek
-2 Liliana of the Veil
-3 Liliana of the Veil
-1 Swamp
-2 Swamp
-3 Swamp
-1 Field of Ruin
-2 Field of Ruin
-1 Urborg, Tomb of Yawgmoth
 1 Kitesail Freebooter
 2 Thoughtseize
 2 Kitesail Freebooter
+2 Inquisition of Kozilek
+2 Liliana of the Veil
 3 Thoughtseize
+3 Liliana of the Veil
 4 Liliana of the Veil
 4 Swamp
 5 Swamp
@@ -29,60 +29,36 @@
 12 Swamp
 13 Swamp
 14 Swamp
+1 Island
+1 Snow-Covered Island
 1 Verdant Catacombs
 2 Verdant Catacombs
 1 Bloodstained Mire
-2 Bloodstained Mire
-4 Fatal Push
-1 Island
-1 Snow-Covered Island
-1 Kalitas, Traitor of Ghet
-3 Inquisition of Kozilek
 1 Gatekeeper of Malakir
 1 Gifted Aetherborn
+2 Bloodstained Mire
 2 Gifted Aetherborn
-1 Blood Crypt
-2 Blood Crypt
-3 Bloodstained Mire
-4 Bloodstained Mire
-1 Blackcleave Cliffs
-1 Snow-Covered Mountain
-1 Snow-Covered Swamp
-1 Hazoret the Fervent
-1 Blood Moon
-1 Pack Rat
-1 Grim Lavamancer
-1 Goblin Rabblemaster
-1 Kolaghan's Command
-1 Collective Brutality
-1 Dark Confidant
-1 Lightning Bolt
-1 Dreadbore
-1 Terminate
-2 Blackcleave Cliffs
-2 Snow-Covered Swamp
-2 Goblin Rabblemaster
-2 Pack Rat
-2 Dark Confidant
-2 Lightning Bolt
-2 Blood Moon
-2 Dreadbore
-2 Kolaghan's Command
-3 Verdant Catacombs
-3 Blackcleave Cliffs
-3 Snow-Covered Swamp
-3 Blood Moon
-3 Goblin Rabblemaster
-3 Pack Rat
-3 Lightning Bolt
-3 Dark Confidant
-4 Inquisition of Kozilek
-4 Blackcleave Cliffs
-4 Verdant Catacombs
-4 Dark Confidant
-4 Pack Rat
-4 Snow-Covered Swamp
+4 Fatal Push
 1 Dismember
+1 Nykthos, Shrine to Nyx
+1 Phyrexian Arena
+1 Phyrexian Obliterator
+1 Kalitas, Traitor of Ghet
+1 Ifnir Deadlands
+1 Gray Merchant of Asphodel
+1 Cast Down
+2 Cast Down
+2 Phyrexian Obliterator
+2 Gray Merchant of Asphodel
+2 Nykthos, Shrine to Nyx
+2 Phyrexian Arena
+3 Phyrexian Arena
+3 Gray Merchant of Asphodel
+3 Phyrexian Obliterator
+3 Gifted Aetherborn
+4 Gifted Aetherborn
+4 Phyrexian Obliterator
+4 Gray Merchant of Asphodel
 1 Cryptic Command
 1 Psionic Blast
 1 Remand
@@ -117,8 +93,8 @@
 2 Spell Snare
 2 Island
 2 Botanical Sanctum
-2 Scalding Tarn
 2 Logic Knot
+2 Scalding Tarn
 2 Vedalken Shackles
 2 Tarmogoyf
 2 Breeding Pool
@@ -140,8 +116,8 @@
 1 Murderous Cut
 1 Marsh Flats
 1 Vampire Lacerator
-1 Vampire Nocturnus
 1 Viscera Seer
+1 Vampire Nocturnus
 1 Cavern of Souls
 1 Legion Lieutenant
 1 Stromkirk Captain
@@ -149,8 +125,10 @@
 1 Vampire Nighthawk
 1 Bloodghast
 1 Kalastria Highborn
+1 Blood Crypt
 1 Godless Shrine
 2 Godless Shrine
+2 Blood Crypt
 2 Kalastria Highborn
 2 Legion Lieutenant
 2 Vampire Nocturnus
@@ -164,6 +142,7 @@
 2 Viscera Seer
 3 Cavern of Souls
 3 Blood Crypt
+3 Bloodstained Mire
 3 Vampire Lacerator
 3 Viscera Seer
 3 Legion Lieutenant
@@ -175,28 +154,11 @@
 3 Bloodghast
 4 Cavern of Souls
 4 Marsh Flats
+4 Bloodstained Mire
 4 Vampire Lacerator
 4 Bloodghast
 4 Kalastria Highborn
 4 Stromkirk Captain
-1 Nykthos, Shrine to Nyx
-1 Phyrexian Arena
-1 Phyrexian Obliterator
-1 Ifnir Deadlands
-1 Gray Merchant of Asphodel
-1 Cast Down
-2 Cast Down
-2 Phyrexian Obliterator
-2 Nykthos, Shrine to Nyx
-2 Phyrexian Arena
-2 Gray Merchant of Asphodel
-3 Phyrexian Arena
-3 Gray Merchant of Asphodel
-3 Phyrexian Obliterator
-3 Gifted Aetherborn
-4 Phyrexian Obliterator
-4 Gray Merchant of Asphodel
-4 Gifted Aetherborn
 1 Zhalfirin Void
 1 Lodestone Golem
 1 Buried Ruin
@@ -224,8 +186,8 @@
 2 Karn, Scion of Urza
 2 Everflowing Chalice
 2 Astral Cornucopia
-2 Chalice of the Void
 2 Ancient Stirrings
+2 Chalice of the Void
 2 Coretapper
 2 Kuldotha Forgemaster
 2 Surge Node
@@ -269,16 +231,17 @@
 3 Field of Ruin
 3 Dire Fleet Poisoner
 3 Spawn of Mayhem
+3 Inquisition of Kozilek
 3 Abyssal Persecutor
 4 Spawn of Mayhem
 4 Abyssal Persecutor
 15 Swamp
 16 Swamp
+1 Deprive
 1 Opt
 1 Disrupting Shoal
 1 Vapor Snag
 1 Serum Visions
-1 Deprive
 1 Sleight of Hand
 1 Thing in the Ice
 1 Pteramander
