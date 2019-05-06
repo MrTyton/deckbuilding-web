@@ -53,8 +53,8 @@
 |                     |                                                                                             |                    3|[Natural State](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407646)       |
 |                     |                                                                                             |                    3|[Ancient Grudge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=235600)      |
 |                     |                                                                                             |                    3|[Alpine Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447264)         |
-|                     |                                                                                             |                    4|[Alpine Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447264)         |
 |                     |                                                                                             |                    1|[Unravel the Aether](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=378515)  |
 |                     |                                                                                             |                    1|[Endbringer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407513)          |
 |                     |                                                                                             |                    1|[Torpor Orb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=233069)          |
+|                     |                                                                                             |                    4|[Alpine Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447264)         |
 

@@ -62,7 +62,7 @@
 |                    2|[Vendilion Clique](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442065)         |                    3|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)            |
 |                    3|[Arid Mesa](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405092)                |                    3|[Dispel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401858)                   |
 |                    3|[Logic Knot](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=126151)               |                     |                                                                                                    |
-|                    4|[Geist of Saint Traft](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409577)     |                     |                                                                                                    |
 |                    4|[Arid Mesa](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405092)                |                     |                                                                                                    |
+|                    4|[Geist of Saint Traft](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409577)     |                     |                                                                                                    |
 |                    4|[Scalding Tarn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405107)            |                     |                                                                                                    |
 
