@@ -69,23 +69,25 @@
 1 Forest
 1 Tectonic Edge
 2 Forest
-1 Logic Knot
 1 Kira, Great Glass-Spinner
 1 Misty Rainforest
+1 Mana Leak
 1 Noble Hierarch
 1 Birds of Paradise
 1 Frilled Mystic
 1 Spell Snare
 1 Scalding Tarn
+1 Logic Knot
 1 Breeding Pool
 1 Tarmogoyf
-1 Mana Leak
 1 Tireless Tracker
 1 Botanical Sanctum
 1 Scavenging Ooze
 1 Vedalken Shackles
 2 Misty Rainforest
+2 Mana Leak
 2 Noble Hierarch
+2 Logic Knot
 2 Birds of Paradise
 2 Tireless Tracker
 2 Kitchen Finks
@@ -93,12 +95,10 @@
 2 Spell Snare
 2 Island
 2 Botanical Sanctum
-2 Logic Knot
 2 Scalding Tarn
 2 Vedalken Shackles
 2 Tarmogoyf
 2 Breeding Pool
-2 Mana Leak
 2 Scavenging Ooze
 3 Noble Hierarch
 3 Misty Rainforest
@@ -239,17 +239,17 @@
 16 Swamp
 1 Deprive
 1 Opt
+1 Sleight of Hand
 1 Disrupting Shoal
 1 Vapor Snag
 1 Serum Visions
-1 Sleight of Hand
 1 Thing in the Ice
 1 Pteramander
+2 Sleight of Hand
 2 Snow-Covered Island
 2 Disrupting Shoal
 2 Vapor Snag
 2 Snapcaster Mage
-2 Sleight of Hand
 2 Pteramander
 2 Thing in the Ice
 2 Opt
