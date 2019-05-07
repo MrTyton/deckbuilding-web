@@ -73,8 +73,8 @@
 |                    4|[Mission Briefing](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452794)      |                     |                                                                                                     |
 |                    1|[Scalding Tarn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405107)         |                     |                                                                                                     |
 |                    1|[Snapcaster Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=227676)       |                     |                                                                                                     |
-|                    2|[Scalding Tarn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405107)         |                     |                                                                                                     |
 |                    2|[Snapcaster Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=227676)       |                     |                                                                                                     |
+|                    2|[Scalding Tarn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405107)         |                     |                                                                                                     |
 |                    3|[Crypt Incursion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=369056)       |                     |                                                                                                     |
 |                    4|[Manic Scribe](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409816)          |                     |                                                                                                     |
 

@@ -1,45 +1,41 @@
-2 Forest
 3 Shock
+2 Forest
 3 Forest
+1 Ilharg, the Raze-Boar
+2 Ilharg, the Raze-Boar
 1 Llanowar Elves
 2 Llanowar Elves
 4 Forest
 5 Forest
 6 Forest
-1 Zhur-Taa Goblin
-2 Zhur-Taa Goblin
-3 Zhur-Taa Goblin
-4 Zhur-Taa Goblin
+3 Ilharg, the Raze-Boar
 1 Domri, Anarch of Bolas
 2 Domri, Anarch of Bolas
 3 Llanowar Elves
 4 Llanowar Elves
-1 Ilharg, the Raze-Boar
-2 Ilharg, the Raze-Boar
 7 Forest
+4 Dire Fleet Daredevil
 10 Mountain
 1 Ghalta, Primal Hunger
 2 Ghalta, Primal Hunger
-3 Ilharg, the Raze-Boar
-1 Thorn Lieutenant
-2 Thorn Lieutenant
-4 Dire Fleet Daredevil
+1 Zhur-Taa Goblin
+2 Zhur-Taa Goblin
+3 Zhur-Taa Goblin
+4 Zhur-Taa Goblin
 1 Legion Warboss
 2 Legion Warboss
 3 Legion Warboss
-3 Collision / Colossus
+4 Shock
+4 Legion Warboss
+1 Thorn Lieutenant
+2 Thorn Lieutenant
 3 Lava Coil
-1 Nullhide Ferox
-2 Nullhide Ferox
-3 Nullhide Ferox
 8 Forest
 1 Rhythm of the Wild
 2 Rhythm of the Wild
 1 God-Eternal Rhonas
 1 Paradise Druid
 2 Paradise Druid
-4 Shock
-4 Legion Warboss
 3 Gruul Guildgate
 1 Sarkhan the Masterless
 1 Chandra, Fire Artisan
@@ -49,14 +45,18 @@
 3 Sarkhan the Masterless
 4 Sarkhan the Masterless
 1 Domri, Chaos Bringer
+3 Collision / Colossus
 3 Rhythm of the Wild
-4 Collision / Colossus
 1 Jadelight Ranger
 2 Jadelight Ranger
+1 Nullhide Ferox
+2 Nullhide Ferox
+3 Nullhide Ferox
 1 Kiora, Behemoth Beckoner
 1 Stony Strength
 2 Stony Strength
 3 Stony Strength
+4 Collision / Colossus
 9 Forest
 1 Field of Ruin
 2 Field of Ruin
@@ -72,12 +72,6 @@
 3 Thorn Lieutenant
 3 Domri, Anarch of Bolas
 4 Domri, Anarch of Bolas
-1 Pelt Collector
-1 Banefire
-2 Pelt Collector
-2 Banefire
-3 Pelt Collector
-4 Pelt Collector
 1 Goreclaw, Terror of Qal Sisma
 1 Ripjaw Raptor
 1 Demanding Dragon

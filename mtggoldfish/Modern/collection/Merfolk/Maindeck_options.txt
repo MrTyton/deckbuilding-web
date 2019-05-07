@@ -1,25 +1,25 @@
 1 Cavern of Souls
 15 Island
-1 Cryptic Command
 1 Merrow Reejerey
 2 Merrow Reejerey
+1 Cryptic Command
 1 Vapor Snag
 2 Vapor Snag
 16 Island
 1 Echoing Truth
+1 Thassa, God of the Sea
+2 Cryptic Command
 1 Wizard's Retort
 2 Wizard's Retort
 3 Wizard's Retort
-17 Island
-4 Wizard's Retort
-1 Thassa, God of the Sea
-2 Cryptic Command
-1 Vendilion Clique
 1 Kira, Great Glass-Spinner
 1 Mistcaller
 2 Mistcaller
 1 Gemstone Caverns
 2 Thassa, God of the Sea
+17 Island
+4 Wizard's Retort
+1 Vendilion Clique
 1 Remand
 1 Spirebluff Canal
 1 Steam Vents
@@ -36,8 +36,8 @@
 4 Spirebluff Canal
 4 Scalding Tarn
 2 Kira, Great Glass-Spinner
-1 Cursecatcher
 1 Polluted Delta
+1 Cursecatcher
 1 Tectonic Edge
 1 Faerie Conclave
 1 Dismember
@@ -47,6 +47,10 @@
 2 Coralhelm Commander
 3 Remand
 3 Vapor Snag
+1 Phantasmal Image
+2 Phantasmal Image
+3 Phantasmal Image
+4 Phantasmal Image
 1 Chalice of the Void
 1 Wanderwine Hub
 1 Ghost Quarter

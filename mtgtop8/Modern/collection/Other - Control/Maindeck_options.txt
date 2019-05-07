@@ -3,23 +3,23 @@
 2 Island
 1 Snapcaster Mage
 3 Island
-1 Logic Knot
 1 Cryptic Command
 1 Opt
-2 Cryptic Command
+1 Logic Knot
 2 Snapcaster Mage
+2 Cryptic Command
 2 Opt
-3 Cryptic Command
 3 Snapcaster Mage
 3 Opt
-1 Thought Scour
+3 Cryptic Command
 1 Serum Visions
+1 Thought Scour
 2 Thought Scour
 2 Serum Visions
 3 Thought Scour
 3 Serum Visions
-4 Thought Scour
 4 Serum Visions
+4 Thought Scour
 1 Mana Leak
 4 Snapcaster Mage
 1 Spreading Seas
@@ -28,21 +28,21 @@
 4 Island
 5 Island
 1 Blast Zone
-1 Spell Snare
-1 Thing in the Ice
 1 Remand
-1 Spell Pierce
+1 Thing in the Ice
+1 Spell Snare
 1 Surgical Extraction
+1 Spell Pierce
 1 Unsummon
 1 Set Adrift
-2 Spell Snare
 2 Mana Leak
 2 Thing in the Ice
 2 Blast Zone
+2 Spell Snare
 3 Thing in the Ice
 4 Opt
-4 Cryptic Command
 4 Thing in the Ice
+4 Cryptic Command
 6 Island
 7 Island
 8 Island
@@ -123,13 +123,13 @@
 1 Dark Confidant
 1 Vault of the Archangel
 2 Kaya, Orzhov Usurper
-2 Shambling Vent
 2 Liliana, the Last Hope
 2 Concealed Courtyard
-2 Marsh Flats
 2 Gideon, Ally of Zendikar
+2 Marsh Flats
 2 Godless Shrine
 2 Dark Confidant
+2 Shambling Vent
 3 Shambling Vent
 3 Marsh Flats
 3 Thoughtseize
@@ -177,8 +177,8 @@
 4 Goblin Rabblemaster
 4 Arid Mesa
 4 Chandra, Torch of Defiance
-1 Nevermore
 1 Faerie Conclave
+1 Nevermore
 1 Runed Halo
 1 Cast Out
 1 Ghostly Prison
@@ -203,12 +203,12 @@
 3 Detention Sphere
 3 Temple of Enlightenment
 3 Nevermore
+4 Glacial Fortress
 4 Plains
 4 Spreading Seas
 4 Nevermore
 4 Detention Sphere
 4 Ghostly Prison
-4 Glacial Fortress
 5 Plains
 6 Plains
 7 Plains

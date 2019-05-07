@@ -13,8 +13,6 @@
 2 Fatal Push
 1 Gigadrowse
 2 Grave Titan
-1 Duress
-1 Silence
 1 Rest in Peace
 1 Collective Brutality
 1 Swan Song
@@ -22,6 +20,8 @@
 1 Mystical Teachings
 1 Relic of Progenitus
 1 Unmoored Ego
+1 Duress
+1 Silence
 2 Godhead of Awe
 1 Torpor Orb
 2 Torpor Orb
@@ -34,11 +34,11 @@
 3 Thoughtseize
 3 Grand Abolisher
 3 Path to Exile
-1 Leyline of the Void
 1 Elesh Norn, Grand Cenobite
+1 Leyline of the Void
 1 Deepfire Elemental
-2 Leyline of the Void
 2 Elesh Norn, Grand Cenobite
+2 Leyline of the Void
 2 Deepfire Elemental
 3 Leyline of the Void
 4 Leyline of the Void

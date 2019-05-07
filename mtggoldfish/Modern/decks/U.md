@@ -35,6 +35,6 @@
 |*n*<sup>th</sup> copy|                                    Maindeck Card                                    |*n*<sup>th</sup> copy|                                      Sideboard Card                                       |
 |--------------------:|-------------------------------------------------------------------------------------|--------------------:|-------------------------------------------------------------------------------------------|
 |                    2|[Set Adrift](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386661)|                    1|[Devastation Tide](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=275720)|
-|                    3|Blast Zone                                                                           |                    2|[Vendilion Clique](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442065)|
-|                    4|Blast Zone                                                                           |                    2|[Devastation Tide](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=275720)|
+|                    4|Blast Zone                                                                           |                    2|[Vendilion Clique](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442065)|
+|                    3|Blast Zone                                                                           |                    2|[Devastation Tide](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=275720)|
 

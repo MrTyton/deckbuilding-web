@@ -38,9 +38,9 @@
 
 |                      A                       |                            B                             |                    C                     |                          D                           |                               E                                |
 |----------------------------------------------|----------------------------------------------------------|------------------------------------------|------------------------------------------------------|----------------------------------------------------------------|
-|[Affinity](./mtgtop8/Legacy/decks/Affinity.md)|[Burn](./mtgtop8/Legacy/decks/Burn.md)                    |[Dredge](./mtgtop8/Legacy/decks/Dredge.md)|[Shoal Infect](./mtgtop8/Legacy/decks/Shoal_Infect.md)|[Stax](./mtgtop8/Legacy/decks/Stax.md)                          |
-|[Belcher](./mtgtop8/Legacy/decks/Belcher.md)  |[Cloudpost Ramp](./mtgtop8/Legacy/decks/Cloudpost_Ramp.md)|[MUD](./mtgtop8/Legacy/decks/MUD.md)      |[Slivers](./mtgtop8/Legacy/decks/Slivers.md)          |[Zombi Bombardment](./mtgtop8/Legacy/decks/Zombi_Bombardment.md)|
+|[Affinity](./mtgtop8/Legacy/decks/Affinity.md)|[Burn](./mtgtop8/Legacy/decks/Burn.md)                    |[Dredge](./mtgtop8/Legacy/decks/Dredge.md)|[Shoal Infect](./mtgtop8/Legacy/decks/Shoal_Infect.md)|[Zombi Bombardment](./mtgtop8/Legacy/decks/Zombi_Bombardment.md)|
+|[Belcher](./mtgtop8/Legacy/decks/Belcher.md)  |[Cloudpost Ramp](./mtgtop8/Legacy/decks/Cloudpost_Ramp.md)|[MUD](./mtgtop8/Legacy/decks/MUD.md)      |[Stax](./mtgtop8/Legacy/decks/Stax.md)                |                                                                |
 
 
 
-#### Last Updated at 12:47PM on May 06, 2019
+#### Last Updated at 12:46AM on May 07, 2019
