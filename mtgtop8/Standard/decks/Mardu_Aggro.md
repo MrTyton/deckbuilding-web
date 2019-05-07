@@ -31,8 +31,8 @@
 
 |*n*<sup>th</sup> copy|                                           Maindeck Card                                           |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
 |--------------------:|---------------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
-|                    4|[Isolated Chapel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443129)         |                    1|[Shock](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129732)              |
-|                    1|[Tithe Taker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457171)             |                    1|Tibalt, Rakish Instigator                                                                     |
+|                    4|[Isolated Chapel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443129)         |                    1|Tibalt, Rakish Instigator                                                                     |
+|                    1|[Tithe Taker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457171)             |                    1|[Shock](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129732)              |
 |                    1|Sorin, Vengeful Bloodlord                                                                          |                    1|Despark                                                                                       |
 |                    1|Cruel Celebrant                                                                                    |                    2|Tibalt, Rakish Instigator                                                                     |
 |                    1|Heartfire                                                                                          |                    2|Despark                                                                                       |

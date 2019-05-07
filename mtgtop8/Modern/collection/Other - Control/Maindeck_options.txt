@@ -1,4 +1,13 @@
+1 Plains
+1 Path to Exile
+2 Path to Exile
+3 Path to Exile
+1 Godless Shrine
+1 Fatal Push
+2 Fatal Push
 1 Field of Ruin
+2 Field of Ruin
+3 Field of Ruin
 1 Island
 2 Island
 1 Snapcaster Mage
@@ -6,12 +15,14 @@
 1 Cryptic Command
 1 Opt
 1 Logic Knot
-2 Snapcaster Mage
 2 Cryptic Command
+2 Snapcaster Mage
 2 Opt
 3 Snapcaster Mage
 3 Opt
 3 Cryptic Command
+1 Mana Leak
+4 Snapcaster Mage
 1 Serum Visions
 1 Thought Scour
 2 Thought Scour
@@ -20,8 +31,6 @@
 3 Serum Visions
 4 Serum Visions
 4 Thought Scour
-1 Mana Leak
-4 Snapcaster Mage
 1 Spreading Seas
 2 Spreading Seas
 3 Spreading Seas
@@ -35,9 +44,9 @@
 1 Spell Pierce
 1 Unsummon
 1 Set Adrift
+2 Blast Zone
 2 Mana Leak
 2 Thing in the Ice
-2 Blast Zone
 2 Spell Snare
 3 Thing in the Ice
 4 Opt
@@ -55,50 +64,28 @@
 15 Island
 16 Island
 17 Island
-2 Field of Ruin
-3 Field of Ruin
-1 Plains
 1 Jace, the Mind Sculptor
-1 Path to Exile
-2 Path to Exile
-3 Path to Exile
 1 Flooded Strand
-1 Godless Shrine
-1 Fatal Push
-2 Fatal Push
+1 Kaya, Orzhov Usurper
 4 Path to Exile
 1 Polluted Delta
 1 Watery Grave
 1 Hallowed Fountain
-2 Watery Grave
 2 Polluted Delta
+2 Watery Grave
 3 Polluted Delta
 4 Polluted Delta
-1 Kaya, Orzhov Usurper
+1 Marsh Flats
 3 Fatal Push
-1 Glacial Fortress
+1 Nihil Spellbomb
+2 Nihil Spellbomb
 1 Negate
+1 Glacial Fortress
 1 Supreme Verdict
 2 Supreme Verdict
 2 Negate
-1 Esper Charm
-1 Teferi, Hero of Dominaria
-1 Nihil Spellbomb
-2 Esper Charm
-2 Jace, the Mind Sculptor
-2 Teferi, Hero of Dominaria
-2 Nihil Spellbomb
-2 Hallowed Fountain
-2 Flooded Strand
-3 Nihil Spellbomb
-3 Flooded Strand
-4 Flooded Strand
-1 Creeping Tar Pit
-1 Marsh Flats
-4 Field of Ruin
-1 Detention Sphere
-2 Glacial Fortress
 2 Plains
+4 Field of Ruin
 1 Inquisition of Kozilek
 1 Thoughtseize
 1 Lingering Souls
@@ -107,10 +94,50 @@
 2 Thoughtseize
 2 Lingering Souls
 3 Inquisition of Kozilek
+1 Esper Charm
+1 Teferi, Hero of Dominaria
+2 Esper Charm
+2 Jace, the Mind Sculptor
+2 Teferi, Hero of Dominaria
+2 Hallowed Fountain
+2 Flooded Strand
+3 Nihil Spellbomb
+3 Flooded Strand
+4 Flooded Strand
+1 Creeping Tar Pit
+1 Concealed Courtyard
+1 Gideon, Ally of Zendikar
+2 Concealed Courtyard
+2 Marsh Flats
+2 Godless Shrine
+2 Gideon, Ally of Zendikar
+2 Shambling Vent
+3 Thoughtseize
+3 Shambling Vent
+3 Marsh Flats
+3 Concealed Courtyard
+3 Lingering Souls
+4 Lingering Souls
+4 Marsh Flats
+4 Concealed Courtyard
+1 Detention Sphere
+2 Glacial Fortress
+3 Plains
 1 Timely Reinforcements
 1 Vendilion Clique
 1 Celestial Colonnade
 2 Celestial Colonnade
+1 Gideon of the Trials
+1 Fetid Heath
+1 Languish
+1 Cataclysmic Gearhulk
+1 Wrath of God
+1 Sorin, Lord of Innistrad
+1 Sorin, Grim Nemesis
+1 Damnation
+1 Anguished Unmaking
+2 Anguished Unmaking
+2 Gideon of the Trials
 1 Cast Down
 2 Logic Knot
 3 Teferi, Hero of Dominaria
@@ -118,31 +145,16 @@
 2 Set Adrift
 3 Blast Zone
 4 Blast Zone
-1 Concealed Courtyard
-1 Gideon, Ally of Zendikar
 1 Dark Confidant
 1 Vault of the Archangel
 2 Kaya, Orzhov Usurper
 2 Liliana, the Last Hope
-2 Concealed Courtyard
-2 Gideon, Ally of Zendikar
-2 Marsh Flats
-2 Godless Shrine
 2 Dark Confidant
-2 Shambling Vent
-3 Shambling Vent
-3 Marsh Flats
-3 Thoughtseize
-3 Concealed Courtyard
-3 Lingering Souls
 3 Dark Confidant
-4 Lingering Souls
+4 Liliana of the Veil
+4 Fatal Push
 4 Thoughtseize
 4 Dark Confidant
-4 Marsh Flats
-4 Fatal Push
-4 Liliana of the Veil
-4 Concealed Courtyard
 4 Shambling Vent
 1 Desperate Ritual
 1 Ramunap Ruins
@@ -197,7 +209,6 @@
 2 Nevermore
 2 Sphere of Safety
 3 Glacial Fortress
-3 Plains
 3 Ghostly Prison
 3 Runed Halo
 3 Detention Sphere
