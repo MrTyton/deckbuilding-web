@@ -55,7 +55,7 @@
 |                    3|[Concealed Courtyard](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417818)   |                     |                                                                                                   |
 |                    3|[Eternal Scourge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414296)       |                     |                                                                                                   |
 |                    3|[Liliana of the Veil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=235597)   |                     |                                                                                                   |
-|                    4|[Inquisition of Kozilek](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416897)|                     |                                                                                                   |
 |                    4|[Eternal Scourge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414296)       |                     |                                                                                                   |
 |                    4|[Concealed Courtyard](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417818)   |                     |                                                                                                   |
+|                    4|[Inquisition of Kozilek](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416897)|                     |                                                                                                   |
 

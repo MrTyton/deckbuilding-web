@@ -13,10 +13,10 @@
 1 Flagstones of Trokair
 1 Plains
 2 Lingering Souls
+2 Fetid Heath
 2 Shambling Vent
 2 Godless Shrine
 2 Marsh Flats
-2 Fetid Heath
 2 Flagstones of Trokair
 3 Lingering Souls
 3 Godless Shrine
@@ -33,6 +33,8 @@
 4 Bojuka Bog
 1 Surgical Extraction
 2 Surgical Extraction
+13 Swamp
+1 Bontu's Last Reckoning
 3 Marsh Flats
 3 Shambling Vent
 3 Fetid Heath
@@ -45,20 +47,17 @@
 1 Delirium Skeins
 2 Bloodstained Mire
 2 Ghost Quarter
-1 Gideon of the Trials
-1 Gideon, Ally of Zendikar
-1 Never / Return
-1 Fulminator Mage
-2 Gideon, Ally of Zendikar
-2 Fulminator Mage
-3 Fulminator Mage
-3 Gideon, Ally of Zendikar
-4 Shambling Vent
+1 Liliana's Triumph
+1 Field of Ruin
+1 Davriel, Rogue Shadowmage
+2 Davriel, Rogue Shadowmage
+2 Liliana's Triumph
+2 Field of Ruin
+3 Davriel, Rogue Shadowmage
 1 Sorin, Lord of Innistrad
 1 Bloodghast
 1 Sorin, Solemn Visitor
 1 Bitterblossom
-1 Bontu's Last Reckoning
 2 Bloodghast
 2 Sorin, Solemn Visitor
 2 Bitterblossom
@@ -68,20 +67,15 @@
 3 Bitterblossom
 4 Marsh Flats
 4 Thoughtseize
-1 Duress
-1 Doom Blade
-1 Blackmail
-1 Waste Not
-1 Dakmor Salvage
-1 Mind Shatter
-1 Necrogen Mists
-2 Blackmail
-2 Necrogen Mists
-3 Blackmail
-4 Blackmail
-13 Swamp
-14 Swamp
-15 Swamp
+1 Gideon of the Trials
+1 Gideon, Ally of Zendikar
+1 Never / Return
+1 Fulminator Mage
+2 Gideon, Ally of Zendikar
+2 Fulminator Mage
+3 Fulminator Mage
+3 Gideon, Ally of Zendikar
+4 Shambling Vent
 1 Kaya, Orzhov Usurper
 1 Snow-Covered Plains
 1 Gemstone Caverns
@@ -106,3 +100,16 @@
 4 Chalice of the Void
 4 Leyline of the Void
 4 Ensnaring Bridge
+1 Duress
+1 Waste Not
+1 Doom Blade
+1 Blackmail
+1 Dakmor Salvage
+1 Mind Shatter
+1 Necrogen Mists
+2 Blackmail
+2 Necrogen Mists
+3 Blackmail
+4 Blackmail
+15 Swamp
+14 Swamp
