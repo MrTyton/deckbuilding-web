@@ -46,8 +46,8 @@
 |                    2|[Path to Exile](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220511)       |                     |                                                                                           |
 |                    2|[Summoner's Pact](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442178)     |                     |                                                                                           |
 |                    2|[Abundant Growth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=240017)     |                     |                                                                                           |
-|                    2|[Wooded Foothills](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405116)    |                     |                                                                                           |
 |                    3|[Misty Rainforest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405102)    |                     |                                                                                           |
-|                    4|[Misty Rainforest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405102)    |                     |                                                                                           |
 |                    3|[Faithless Looting](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389512)   |                     |                                                                                           |
+|                    4|[Misty Rainforest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405102)    |                     |                                                                                           |
+|                    2|[Wooded Foothills](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405116)    |                     |                                                                                           |
 

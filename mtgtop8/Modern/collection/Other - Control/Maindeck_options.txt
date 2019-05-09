@@ -15,8 +15,8 @@
 1 Cryptic Command
 1 Opt
 1 Logic Knot
-2 Cryptic Command
 2 Snapcaster Mage
+2 Cryptic Command
 2 Opt
 3 Snapcaster Mage
 3 Cryptic Command
@@ -36,18 +36,18 @@
 3 Spreading Seas
 4 Island
 5 Island
-1 Blast Zone
 1 Remand
+1 Blast Zone
 1 Thing in the Ice
 1 Spell Snare
 1 Spell Pierce
 1 Surgical Extraction
 1 Set Adrift
 1 Unsummon
+2 Spell Snare
 2 Blast Zone
 2 Mana Leak
 2 Thing in the Ice
-2 Spell Snare
 3 Thing in the Ice
 4 Opt
 4 Thing in the Ice
@@ -114,9 +114,9 @@
 2 Shambling Vent
 3 Shambling Vent
 3 Marsh Flats
+3 Thoughtseize
 3 Concealed Courtyard
 3 Lingering Souls
-3 Thoughtseize
 4 Lingering Souls
 4 Marsh Flats
 4 Concealed Courtyard
@@ -129,12 +129,12 @@
 2 Celestial Colonnade
 1 Gideon of the Trials
 1 Fetid Heath
+1 Languish
 1 Cataclysmic Gearhulk
 1 Wrath of God
-1 Sorin, Lord of Innistrad
-1 Languish
-1 Sorin, Grim Nemesis
 1 Damnation
+1 Sorin, Lord of Innistrad
+1 Sorin, Grim Nemesis
 1 Anguished Unmaking
 2 Anguished Unmaking
 2 Gideon of the Trials
@@ -148,24 +148,24 @@
 1 Windswept Heath
 1 Sacred Foundry
 1 Primal Command
+1 Breeding Pool
+1 Izzet Charm
 1 Blooming Marsh
 1 Stomping Ground
 1 Overgrown Tomb
-1 Breeding Pool
-1 Mana Confluence
-1 Izzet Charm
 1 Bring to Light
 1 Pillar of the Paruns
-1 Thought Erasure
-1 Sin Collector
 1 Safewright Quest
+1 Thought Erasure
 1 Niv-Mizzet Reborn
-1 Assassin's Trophy
+1 Sin Collector
 1 Domri, Anarch of Bolas
+1 Assassin's Trophy
+1 Countersquall
 1 Forest
 1 Birds of Paradise
-1 Countersquall
 1 Unmoored Ego
+1 Mana Confluence
 1 Lightning Helix
 2 Mana Confluence
 2 Izzet Charm
@@ -182,8 +182,8 @@
 3 Windswept Heath
 3 Niv-Mizzet Reborn
 3 Bring to Light
-3 Birds of Paradise
 3 Pillar of the Paruns
+3 Birds of Paradise
 3 Safewright Quest
 3 Mana Confluence
 3 Lightning Helix
@@ -200,17 +200,17 @@
 2 Dark Confidant
 3 Dark Confidant
 4 Shambling Vent
+4 Liliana of the Veil
 4 Thoughtseize
 4 Dark Confidant
 4 Fatal Push
-4 Liliana of the Veil
+1 Murderous Cut
 1 Jace, Vryn's Prodigy
-1 Goryo's Vengeance
 1 Griselbrand
+1 Goryo's Vengeance
 1 Tasigur, the Golden Fang
 1 Obzedat, Ghost Council
 1 Darkslick Shores
-1 Murderous Cut
 2 Darkslick Shores
 2 Goryo's Vengeance
 2 Obzedat, Ghost Council

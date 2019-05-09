@@ -1,98 +1,80 @@
-1 Bloodghast
-2 Cavern of Souls
-2 Bloodghast
-3 Bloodghast
-4 Bloodghast
-1 Haunted Dead
-1 The Scarab God
-1 Bojuka Bog
-1 Zombie Infestation
-1 Stitcher's Supplier
-1 Blasting Station
-1 Island
-1 Necrotic Wound
-1 Creeping Tar Pit
-1 Gravecrawler
-1 Voldaren Pariah
-1 Prized Amalgam
-2 The Scarab God
-2 Bojuka Bog
-2 Island
-2 Gravecrawler
-2 Haunted Dead
-2 Prized Amalgam
-2 Stitcher's Supplier
-2 Blasting Station
-2 Zombie Infestation
-2 Creeping Tar Pit
-3 Prized Amalgam
-3 Stitcher's Supplier
-3 Creeping Tar Pit
-3 Gravecrawler
-4 Creeping Tar Pit
-4 Prized Amalgam
-4 Gravecrawler
-4 Stitcher's Supplier
-1 Nykthos, Shrine to Nyx
-1 Dismember
-2 Cast Down
-2 Nykthos, Shrine to Nyx
-3 Phyrexian Arena
-4 Phyrexian Obliterator
-4 Gray Merchant of Asphodel
+1 Bloodstained Mire
+1 Gatekeeper of Malakir
+1 Gifted Aetherborn
+1 Polluted Delta
+2 Bloodstained Mire
+2 Gifted Aetherborn
+2 Gatekeeper of Malakir
+3 Bloodstained Mire
+4 Bloodstained Mire
 1 Marsh Flats
-1 Vampire Lacerator
-1 Viscera Seer
+1 Verdant Catacombs
+1 Blood Crypt
 1 Vampire Nocturnus
+1 Godless Shrine
+1 Kalastria Highborn
+1 Vampire Lacerator
 1 Legion Lieutenant
 1 Stromkirk Captain
 1 Vampire Nighthawk
-1 Kalastria Highborn
-1 Blood Crypt
-1 Godless Shrine
+1 Viscera Seer
+1 Murderous Cut
 2 Godless Shrine
 2 Blood Crypt
-2 Kalastria Highborn
-2 Legion Lieutenant
-2 Vampire Nocturnus
+2 Verdant Catacombs
 2 Stromkirk Captain
+2 Kalastria Highborn
 2 Marsh Flats
-2 Vampire Nighthawk
+2 Legion Lieutenant
 2 Vampire Lacerator
+2 Vampire Nocturnus
+2 Vampire Nighthawk
 2 Viscera Seer
 3 Cavern of Souls
 3 Blood Crypt
-3 Vampire Lacerator
-3 Viscera Seer
 3 Legion Lieutenant
 3 Kalastria Highborn
-3 Vampire Nocturnus
-3 Marsh Flats
+3 Vampire Lacerator
 3 Stromkirk Captain
+3 Viscera Seer
+3 Vampire Nocturnus
 3 Vampire Nighthawk
+3 Marsh Flats
 4 Cavern of Souls
 4 Marsh Flats
+4 Stromkirk Captain
 4 Vampire Lacerator
 4 Kalastria Highborn
-4 Stromkirk Captain
+1 Ifnir Deadlands
+1 Gray Merchant of Asphodel
+1 Phyrexian Obliterator
+1 Phyrexian Arena
+1 Inquisition of Kozilek
 1 Withered Wretch
+1 Cast Down
 1 Geralf's Messenger
-2 Ifnir Deadlands
-2 Withered Wretch
+2 Gray Merchant of Asphodel
+2 Phyrexian Obliterator
+2 Phyrexian Arena
 2 Geralf's Messenger
 2 Urborg, Tomb of Yawgmoth
+2 Ifnir Deadlands
 2 Polluted Delta
-3 Geralf's Messenger
-3 Gatekeeper of Malakir
+2 Withered Wretch
+2 Inquisition of Kozilek
+3 Gray Merchant of Asphodel
+3 Gifted Aetherborn
+3 Phyrexian Obliterator
 3 Polluted Delta
+3 Gatekeeper of Malakir
+3 Thoughtseize
+3 Inquisition of Kozilek
+3 Geralf's Messenger
 4 Inquisition of Kozilek
-4 Geralf's Messenger
+4 Gifted Aetherborn
 4 Gatekeeper of Malakir
 4 Polluted Delta
-1 Mutavault
-2 Mutavault
-3 Mutavault
-4 Mutavault
+4 Geralf's Messenger
 1 Snow-Covered Island
 1 Vendilion Clique
 1 Reflector Mage
@@ -104,16 +86,17 @@
 1 Flickerwisp
 1 Venser, Shaper Savant
 1 Spellstutter Sprite
-1 Hallowed Fountain
-1 Kitchen Finks
-1 Celestial Colonnade
-1 Flooded Strand
-1 Plains
-1 Thought-Knot Seer
-1 Seachrome Coast
 1 Path to Exile
+1 Seachrome Coast
+1 Thought-Knot Seer
+1 Hallowed Fountain
+1 Mutavault
 1 Relic of Progenitus
+1 Celestial Colonnade
+1 Kitchen Finks
+1 Flooded Strand
 1 Eldrazi Temple
+1 Plains
 2 Reflector Mage
 2 Eldrazi Displacer
 2 Thalia, Guardian of Thraben
@@ -121,13 +104,14 @@
 2 Wall of Omens
 2 Aether Vial
 2 Flickerwisp
+2 Adarkar Wastes
+2 Thought-Knot Seer
+2 Mutavault
 2 Plains
 2 Path to Exile
-2 Thought-Knot Seer
-2 Spellstutter Sprite
-2 Adarkar Wastes
 2 Hallowed Fountain
 2 Eldrazi Temple
+2 Spellstutter Sprite
 3 Eldrazi Displacer
 3 Thalia, Guardian of Thraben
 3 Seachrome Coast
@@ -136,99 +120,79 @@
 3 Aether Vial
 3 Flickerwisp
 3 Spellstutter Sprite
+3 Path to Exile
 3 Reflector Mage
 3 Eldrazi Temple
 3 Adarkar Wastes
-3 Path to Exile
 3 Thought-Knot Seer
+3 Mutavault
 4 Wall of Omens
 4 Eldrazi Displacer
+4 Spellstutter Sprite
 4 Path to Exile
 4 Aether Vial
-4 Eldrazi Temple
-4 Adarkar Wastes
 4 Thought-Knot Seer
-4 Spellstutter Sprite
+4 Adarkar Wastes
+4 Eldrazi Temple
+4 Mutavault
 1 Zhalfirin Void
-1 Forest
-1 Lightning Greaves
 1 Lodestone Golem
+1 Lightning Greaves
 1 Buried Ruin
+1 Platinum Emperion
+1 Forest
 1 Karn, Scion of Urza
 1 Wurmcoil Engine
+1 Chalice of the Void
 1 Batterskull
 1 Skysovereign, Consul Flagship
-1 Platinum Emperion
-1 Astral Cornucopia
-1 Mox Opal
-1 Coretapper
-1 Surge Node
-1 Darksteel Citadel
-1 Blightsteel Colossus
-1 Memorial to Unity
 1 Kuldotha Forgemaster
-1 Pendelhaven
-1 Everflowing Chalice
 1 Inventors' Fair
+1 Astral Cornucopia
+1 Blightsteel Colossus
+1 Pendelhaven
+1 Coretapper
+1 Everflowing Chalice
+1 Memorial to Unity
+1 Mox Opal
 1 Tectonic Edge
+1 Surge Node
 1 Ancient Stirrings
-1 Chalice of the Void
+1 Darksteel Citadel
 2 Zhalfirin Void
 2 Lightning Greaves
 2 Karn, Scion of Urza
+2 Chalice of the Void
 2 Everflowing Chalice
 2 Forest
-2 Astral Cornucopia
-2 Ancient Stirrings
-2 Chalice of the Void
-2 Coretapper
-2 Surge Node
-2 Darksteel Citadel
 2 Kuldotha Forgemaster
+2 Surge Node
 2 Lodestone Golem
+2 Coretapper
+2 Darksteel Citadel
+2 Ancient Stirrings
+2 Astral Cornucopia
 3 Zhalfirin Void
 3 Lodestone Golem
+3 Chalice of the Void
+3 Astral Cornucopia
+3 Ancient Stirrings
 3 Darksteel Citadel
 3 Kuldotha Forgemaster
-3 Everflowing Chalice
-3 Ancient Stirrings
 3 Forest
-3 Astral Cornucopia
-3 Chalice of the Void
+3 Everflowing Chalice
 3 Coretapper
 4 Chalice of the Void
-4 Ancient Stirrings
 4 Coretapper
+4 Astral Cornucopia
 4 Lodestone Golem
+4 Ancient Stirrings
 4 Forest
 4 Everflowing Chalice
-4 Astral Cornucopia
 5 Forest
 6 Forest
 7 Forest
 8 Forest
-1 Arguel's Blood Fast
-1 Walking Ballista
-1 Abyssal Persecutor
-1 Go for the Throat
-1 Dire Fleet Poisoner
-1 Bitterblossom
-1 Spawn of Mayhem
-1 Mortarpod
-2 Walking Ballista
-2 Spawn of Mayhem
-2 Abyssal Persecutor
-2 Mortarpod
-2 Dire Fleet Poisoner
-2 Bitterblossom
-3 Field of Ruin
-3 Dire Fleet Poisoner
-3 Spawn of Mayhem
-3 Abyssal Persecutor
-4 Spawn of Mayhem
-4 Abyssal Persecutor
-15 Swamp
-16 Swamp
 1 Deprive
 1 Sleight of Hand
 1 Opt
@@ -236,44 +200,44 @@
 1 Vapor Snag
 1 Serum Visions
 1 Cryptic Command
+1 Pteramander
 1 Psionic Blast
 1 Remand
-1 Snapcaster Mage
 1 Thing in the Ice
-1 Pteramander
+1 Snapcaster Mage
 2 Sleight of Hand
 2 Snow-Covered Island
 2 Disrupting Shoal
 2 Vapor Snag
-2 Psionic Blast
+2 Cryptic Command
 2 Remand
 2 Snapcaster Mage
+2 Psionic Blast
 2 Pteramander
-2 Thing in the Ice
 2 Opt
+2 Thing in the Ice
 2 Serum Visions
-2 Cryptic Command
+3 Sleight of Hand
 3 Snow-Covered Island
 3 Disrupting Shoal
 3 Vapor Snag
-3 Thing in the Ice
-3 Serum Visions
 3 Psionic Blast
 3 Pteramander
-3 Remand
-3 Sleight of Hand
+3 Thing in the Ice
 3 Snapcaster Mage
 3 Opt
+3 Serum Visions
+3 Remand
+4 Sleight of Hand
 4 Pteramander
 4 Vapor Snag
 4 Snow-Covered Island
 4 Serum Visions
+4 Remand
 4 Opt
-4 Sleight of Hand
-4 Snapcaster Mage
 4 Thing in the Ice
 4 Disrupting Shoal
-4 Remand
+4 Snapcaster Mage
 5 Snow-Covered Island
 6 Snow-Covered Island
 7 Snow-Covered Island

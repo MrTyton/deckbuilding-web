@@ -26,3 +26,29 @@
 |                                                                                                |                                                                                                |                                                                                          |2 Elite Guardmage     |
 |                                                                                                |                                                                                                |                                                                                          |2 Narset's Reversal   |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                           Maindeck Card                                            |*n*<sup>th</sup> copy|                                       Sideboard Card                                       |
+|--------------------:|----------------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------|
+|                    1|[Memorial to Genius](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443131)       |                    1|Gideon Blackblade                                                                           |
+|                    1|[Devious Cover-Up](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452785)         |                    1|[Ixalan's Binding](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435168) |
+|                    1|[Essence Scatter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426754)          |                    1|[Lyra Dawnbringer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442914) |
+|                    1|Mobilized District                                                                                  |                    1|[Healing Grace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442908)    |
+|                    1|Warrant / Warden                                                                                    |                    1|Narset, Parter of Veils                                                                     |
+|                    1|[Cleansing Nova](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447145)           |                    1|[Disdainful Stroke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420705)|
+|                    2|Ugin, the Ineffable                                                                                 |                    2|Narset, Parter of Veils                                                                     |
+|                    2|[Cleansing Nova](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447145)           |                    2|[Lyra Dawnbringer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442914) |
+|                    2|[Devious Cover-Up](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452785)         |                    2|[Healing Grace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442908)    |
+|                    2|[Essence Scatter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426754)          |                    2|[Ixalan's Binding](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435168) |
+|                    2|Dovin's Veto                                                                                        |                    3|[Healing Grace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442908)    |
+|                    2|[Settle the Wreckage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435186)      |                    4|[Healing Grace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442908)    |
+|                    2|Mobilized District                                                                                  |                    2|[Disdainful Stroke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420705)|
+|                    2|Warrant / Warden                                                                                    |                     |                                                                                            |
+|                    3|[Cleansing Nova](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447145)           |                     |                                                                                            |
+|                    3|Teferi, Time Raveler                                                                                |                     |                                                                                            |
+|                    3|Warrant / Warden                                                                                    |                     |                                                                                            |
+|                    4|[Teferi, Hero of Dominaria](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443095)|                     |                                                                                            |
+|                    4|[Absorb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=23155)                    |                     |                                                                                            |
+|                    7|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)                   |                     |                                                                                            |
+
