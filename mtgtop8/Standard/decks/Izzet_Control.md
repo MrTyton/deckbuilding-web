@@ -29,8 +29,8 @@
 |--------------------:|--------------------------------------------------------------------------------------------|--------------------:|------------------------------------------------------------------------------------------|
 |                    1|[Anticipate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401813)       |                    1|[Spell Pierce](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425876)   |
 |                    1|[Niv-Mizzet, Parun](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452942)|                    1|[Blink of an Eye](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442934)|
-|                    2|[Anticipate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401813)       |                    2|[Spell Pierce](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425876)   |
-|                    2|[Niv-Mizzet, Parun](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452942)|                    2|[Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)         |
-|                    3|[Anticipate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401813)       |                    2|[Blink of an Eye](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442934)|
+|                    2|[Anticipate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401813)       |                    2|[Blink of an Eye](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442934)|
+|                    2|[Niv-Mizzet, Parun](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452942)|                    2|[Spell Pierce](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425876)   |
+|                    3|[Anticipate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401813)       |                    2|[Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)         |
 |                    4|[Anticipate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401813)       |                     |                                                                                          |
 

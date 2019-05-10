@@ -30,18 +30,18 @@
 |[Boros](./mtgtop8/Modern/decks/Boros.md)                        |[Hollow One](./mtgtop8/Modern/decks/Hollow_One.md)                |[Mono Green Aggro](./mtgtop8/Modern/decks/Mono_Green_Aggro.md)|[Spirit Aggro](./mtgtop8/Modern/decks/Spirit_Aggro.md)          |[UrzaTron](./mtgtop8/Modern/decks/UrzaTron.md)        |
 |[CopyCat](./mtgtop8/Modern/decks/CopyCat.md)                    |[Humans](./mtgtop8/Modern/decks/Humans.md)                        |[Mono Red Control](./mtgtop8/Modern/decks/Mono_Red_Control.md)|[Teaching Control](./mtgtop8/Modern/decks/Teaching_Control.md)  |[Valakut](./mtgtop8/Modern/decks/Valakut.md)          |
 |[Creatures Toolbox](./mtgtop8/Modern/decks/Creatures_Toolbox.md)|[Infect](./mtgtop8/Modern/decks/Infect.md)                        |[Nahiri Control](./mtgtop8/Modern/decks/Nahiri_Control.md)    |[Tezzerator](./mtgtop8/Modern/decks/Tezzerator.md)              |[Walks](./mtgtop8/Modern/decks/Walks.md)              |
-|[Death's Shadow](./mtgtop8/Modern/decks/Death's_Shadow.md)      |[Instant Reanimator](./mtgtop8/Modern/decks/Instant_Reanimator.md)|[Orzhov Midrange](./mtgtop8/Modern/decks/Orzhov_Midrange.md)  |[The Rock](./mtgtop8/Modern/decks/The_Rock.md)                  |[Whir Prison](./mtgtop8/Modern/decks/Whir_Prison.md)  |
-|[Dredge](./mtgtop8/Modern/decks/Dredge.md)                      |[Jeskai Ascendancy](./mtgtop8/Modern/decks/Jeskai_Ascendancy.md)  |[Other - Aggro](./mtgtop8/Modern/decks/Other_-_Aggro.md)      |[Tokens](./mtgtop8/Modern/decks/Tokens.md)                      |[Zoo](./mtgtop8/Modern/decks/Zoo.md)                  |
-|[Eldrazi Aggro](./mtgtop8/Modern/decks/Eldrazi_Aggro.md)        |[Jeskai Control](./mtgtop8/Modern/decks/Jeskai_Control.md)        |[Other - Combo](./mtgtop8/Modern/decks/Other_-_Combo.md)      |[Tooth and Nail](./mtgtop8/Modern/decks/Tooth_and_Nail.md)      |                                                      |
+|[Death's Shadow](./mtgtop8/Modern/decks/Death's_Shadow.md)      |[Instant Reanimator](./mtgtop8/Modern/decks/Instant_Reanimator.md)|[Orzhov Midrange](./mtgtop8/Modern/decks/Orzhov_Midrange.md)  |[The Rock](./mtgtop8/Modern/decks/The_Rock.md)                  |[Weenie White](./mtgtop8/Modern/decks/Weenie_White.md)|
+|[Dredge](./mtgtop8/Modern/decks/Dredge.md)                      |[Jeskai Ascendancy](./mtgtop8/Modern/decks/Jeskai_Ascendancy.md)  |[Other - Aggro](./mtgtop8/Modern/decks/Other_-_Aggro.md)      |[Tokens](./mtgtop8/Modern/decks/Tokens.md)                      |[Whir Prison](./mtgtop8/Modern/decks/Whir_Prison.md)  |
+|[Eldrazi Aggro](./mtgtop8/Modern/decks/Eldrazi_Aggro.md)        |[Jeskai Control](./mtgtop8/Modern/decks/Jeskai_Control.md)        |[Other - Combo](./mtgtop8/Modern/decks/Other_-_Combo.md)      |[Tooth and Nail](./mtgtop8/Modern/decks/Tooth_and_Nail.md)      |[Zoo](./mtgtop8/Modern/decks/Zoo.md)                  |
 
 
 # Legacy
 
-|                      A                       |                            B                             |                    C                     |                          D                           |                               E                                |
-|----------------------------------------------|----------------------------------------------------------|------------------------------------------|------------------------------------------------------|----------------------------------------------------------------|
-|[Affinity](./mtgtop8/Legacy/decks/Affinity.md)|[Burn](./mtgtop8/Legacy/decks/Burn.md)                    |[Dredge](./mtgtop8/Legacy/decks/Dredge.md)|[Shoal Infect](./mtgtop8/Legacy/decks/Shoal_Infect.md)|[The Rock (Junk)](./mtgtop8/Legacy/decks/The_Rock_(Junk).md)    |
-|[Belcher](./mtgtop8/Legacy/decks/Belcher.md)  |[Cloudpost Ramp](./mtgtop8/Legacy/decks/Cloudpost_Ramp.md)|[MUD](./mtgtop8/Legacy/decks/MUD.md)      |[Stax](./mtgtop8/Legacy/decks/Stax.md)                |[Zombi Bombardment](./mtgtop8/Legacy/decks/Zombi_Bombardment.md)|
+|                      A                       |                    B                     |                          C                           |                             D                              |                               E                                |
+|----------------------------------------------|------------------------------------------|------------------------------------------------------|------------------------------------------------------------|----------------------------------------------------------------|
+|[Affinity](./mtgtop8/Legacy/decks/Affinity.md)|[Burn](./mtgtop8/Legacy/decks/Burn.md)    |[MUD](./mtgtop8/Legacy/decks/MUD.md)                  |[Stax](./mtgtop8/Legacy/decks/Stax.md)                      |[Zombi Bombardment](./mtgtop8/Legacy/decks/Zombi_Bombardment.md)|
+|[Belcher](./mtgtop8/Legacy/decks/Belcher.md)  |[Dredge](./mtgtop8/Legacy/decks/Dredge.md)|[Shoal Infect](./mtgtop8/Legacy/decks/Shoal_Infect.md)|[The Rock (Junk)](./mtgtop8/Legacy/decks/The_Rock_(Junk).md)|                                                                |
 
 
 
-#### Last Updated at 04:13AM on May 10, 2019
+#### Last Updated at 02:48PM on May 10, 2019

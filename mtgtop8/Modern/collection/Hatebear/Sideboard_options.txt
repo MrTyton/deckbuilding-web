@@ -10,10 +10,10 @@
 1 Disenchant
 1 Ratchet Bomb
 2 Declaration in Stone
-1 Cataclysmic Gearhulk
 1 Oblivion Ring
 1 Aven Riftwatcher
 1 Revoke Existence
+1 Cataclysmic Gearhulk
 2 Cataclysmic Gearhulk
 2 Aven Riftwatcher
 2 Revoke Existence
@@ -38,6 +38,8 @@
 1 Remorseful Cleric
 1 Auriok Champion
 2 Auriok Champion
+1 Tragic Arrogance
+1 Crucible of Worlds
 1 Lingering Souls
 1 Aven Mindcensor
 1 Ravenous Chupacabra
@@ -45,16 +47,6 @@
 1 Zealous Persecution
 1 Cast Out
 1 Consume the Meek
-1 Crucible of Worlds
-1 Tragic Arrogance
-1 Kor Firewalker
-1 Engineered Explosives
-1 Surgical Extraction
-1 Choke
-1 Ethersworn Canonist
-2 Choke
-2 Kor Firewalker
-2 Surgical Extraction
 1 Wrath of God
 1 Oust
 2 Oust
@@ -65,6 +57,14 @@
 2 Dromoka's Command
 1 Blessed Alliance
 2 Blessed Alliance
+1 Kor Firewalker
+1 Engineered Explosives
+1 Ethersworn Canonist
+1 Surgical Extraction
+1 Choke
+2 Choke
+2 Kor Firewalker
+2 Surgical Extraction
 2 Sin Collector
 2 Burrenton Forge-Tender
 1 Valorous Stance
@@ -72,8 +72,8 @@
 2 Valorous Stance
 1 Reality Smasher
 1 Kataki, War's Wage
-2 Kataki, War's Wage
 2 Celestial Purge
+2 Kataki, War's Wage
 2 Leonin Relic-Warder
 3 Auriok Champion
 3 Celestial Purge

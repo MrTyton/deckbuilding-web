@@ -73,6 +73,6 @@
 |                     |                                                                                                       |                    1|[Ugin, the Spirit Dragon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391948)     |
 |                     |                                                                                                       |                    1|[Ulamog, the Ceaseless Hunger](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=402079)|
 |                     |                                                                                                       |                    1|[Isolate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447153)                     |
-|                     |                                                                                                       |                    1|[Carnage Tyrant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435334)              |
 |                     |                                                                                                       |                    1|[Tireless Tracker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409997)            |
+|                     |                                                                                                       |                    1|[Carnage Tyrant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435334)              |
 

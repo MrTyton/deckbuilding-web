@@ -64,8 +64,8 @@
 |                    2|Ugin, the Ineffable                                                                             |                    2|[Hostage Taker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435379)       |
 |                    2|Deathsprout                                                                                     |                    1|Finale of Eternity                                                                             |
 |                    3|Arboreal Grazer                                                                                 |                    2|[Unmoored Ego](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452962)        |
-|                    1|[Midnight Reaper](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452827)      |                    4|[Thief of Sanity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452955)     |
-|                    3|[Assassin's Trophy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452902)    |                    3|[Unmoored Ego](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452962)        |
+|                    1|[Midnight Reaper](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452827)      |                    3|[Unmoored Ego](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452962)        |
+|                    3|[Assassin's Trophy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452902)    |                    4|[Thief of Sanity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452955)     |
 |                    3|[Vraska's Contempt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435283)    |                     |                                                                                               |
 |                    4|[Vivien Reid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447344)          |                     |                                                                                               |
 
