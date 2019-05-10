@@ -70,8 +70,8 @@
 |                    1|[Rhythm of the Wild](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457345)      |                     |                                                                                              |
 |                    1|[Varolz, the Scar-Striped](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=368977)|                     |                                                                                              |
 |                    2|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)                   |                     |                                                                                              |
+|                    2|[Rhythm of the Wild](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457345)      |                     |                                                                                              |
 |                    2|[Varolz, the Scar-Striped](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=368977)|                     |                                                                                              |
 |                    2|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)                  |                     |                                                                                              |
-|                    2|[Rhythm of the Wild](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457345)      |                     |                                                                                              |
 |                    3|[Wooded Foothills](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405116)        |                     |                                                                                              |
 

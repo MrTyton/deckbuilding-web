@@ -28,8 +28,8 @@
 
 |*n*<sup>th</sup> copy|                                        Maindeck Card                                         |*n*<sup>th</sup> copy|                                      Sideboard Card                                      |
 |--------------------:|----------------------------------------------------------------------------------------------|--------------------:|------------------------------------------------------------------------------------------|
-|                    3|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|                    3|[Ensnaring Bridge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=15866)|
-|                    3|[Wrench Mind](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438681)        |                     |                                                                                          |
+|                    3|[Wrench Mind](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438681)        |                    3|[Ensnaring Bridge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=15866)|
+|                    3|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|                     |                                                                                          |
 |                    4|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|                     |                                                                                          |
 |                    4|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)              |                     |                                                                                          |
 

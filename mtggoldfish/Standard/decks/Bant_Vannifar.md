@@ -1,0 +1,55 @@
+# Bant Vannifar
+
+#### [Export MTGO List](../collection/Bant%20Vannifar/Bant%20Vannifar.txt)
+#### [Export Arena List](../collection/Bant%20Vannifar/Bant%20Vannifar_arena.txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Breeding%20Pool%0A1%09Carnage%20Tyrant%0A2%09Deputy%20of%20Detention%0A1%09Elite%20Guardmage%0A1%09Fblthp,%20the%20Lost%0A3%09Forest%0A3%09Frilled%20Mystic%0A2%09Glacial%20Fortress%0A1%09God-Eternal%20Kefnet%0A4%09Hallowed%20Fountain%0A4%09Hinterland%20Harbor%0A1%09Incubation%20Druid%0A3%09Jadelight%20Ranger%0A2%09Knight%20of%20Autumn%0A4%09Llanowar%20Elves%0A3%09Merfolk%20Branchwalker%0A4%09Prime%20Speaker%20Vannifar%0A1%09Shalai,%20Voice%20of%20Plenty%0A1%09Spark%20Double%0A3%09Sunpetal%20Grove%0A2%09Teferi,%20Time%20Raveler%0A4%09Temple%20Garden%0A1%09Tolsimir,%20Friend%20to%20Wolves%0A1%09Trostani%20Discordant%0A1%09Vivien's%20Arkbow%0A3%09Vivien,%20Champion%20of%20the%20Wilds&deckside=2%09Baffling%20End%0A1%09Deathgorge%20Scavenger%0A1%09Deputy%20of%20Detention%0A1%09Disdainful%20Stroke%0A3%09Dovin's%20Veto%0A1%09Frilled%20Mystic%0A1%09Knight%20of%20Autumn%0A1%09Kraul%20Harpooner%0A1%09Lyra%20Dawnbringer%0A2%09Teferi,%20Time%20Raveler%0A1%09Vivien's%20Arkbow)
+# Maindeck
+
+|                                           Creature (25)                                            |                                          Land (24)                                           |         Unknown (11)          |
+|----------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|-------------------------------|
+|1 [Carnage Tyrant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435334)         |4 [Breeding Pool](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=97088)     |1 Elite Guardmage              |
+|2 [Deputy of Detention](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457309)    |3 [Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)           |1 Fblthp, the Lost             |
+|3 [Frilled Mystic](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457318)         |2 [Glacial Fortress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=190562) |1 God-Eternal Kefnet           |
+|1 [Incubation Druid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457275)       |4 [Hallowed Fountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=97071) |1 Spark Double                 |
+|3 [Jadelight Ranger](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439793)       |4 [Hinterland Harbor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443128)|2 Teferi, Time Raveler         |
+|2 [Knight of Autumn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452933)       |3 [Sunpetal Grove](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420946)   |1 Tolsimir, Friend to Wolves   |
+|4 [Llanowar Elves](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129626)         |4 [Temple Garden](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405112)    |1 Vivien's Arkbow              |
+|3 [Merfolk Branchwalker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435353)   |                                                                                              |3 Vivien, Champion of the Wilds|
+|4 [Prime Speaker Vannifar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457339) |                                                                                              |                               |
+|1 [Shalai, Voice of Plenty](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442923)|                                                                                              |                               |
+|1 [Trostani Discordant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452958)    |                                                                                              |                               |
+
+
+# Sideboard
+
+|                                          Creature (6)                                           |                                     Enchantment (2)                                     |                                         Instant (1)                                          |     Unknown (6)      |
+|-------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|----------------------|
+|1 [Deathgorge Scavenger](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435339)|2 [Baffling End](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439658)|1 [Disdainful Stroke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420705)|3 Dovin's Veto        |
+|1 [Deputy of Detention](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457309) |                                                                                         |                                                                                              |2 Teferi, Time Raveler|
+|1 [Frilled Mystic](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457318)      |                                                                                         |                                                                                              |1 Vivien's Arkbow     |
+|1 [Knight of Autumn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452933)    |                                                                                         |                                                                                              |                      |
+|1 [Kraul Harpooner](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452886)     |                                                                                         |                                                                                              |                      |
+|1 [Lyra Dawnbringer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442914)    |                                                                                         |                                                                                              |                      |
+
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                         Maindeck Card                                         |*n*<sup>th</sup> copy|                                          Sideboard Card                                          |
+|--------------------:|-----------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------------|
+|                    1|[Militia Bugler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447165)      |                    1|Lazotep Plating                                                                                   |
+|                    1|[Hydroid Krasis](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457327)      |                    1|[Shalai, Voice of Plenty](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442923)|
+|                    2|[Militia Bugler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447165)      |                    2|[Kraul Harpooner](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452886)        |
+|                    2|[Trostani Discordant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452958) |                    2|[Shalai, Voice of Plenty](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442923)|
+|                    2|[Incubation Druid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457275)    |                    2|Lazotep Plating                                                                                   |
+|                    2|Elite Guardmage                                                                                |                    3|[Kraul Harpooner](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452886)        |
+|                    2|[Hydroid Krasis](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457327)      |                    4|[Kraul Harpooner](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452886)        |
+|                    3|[Militia Bugler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447165)      |                    4|Dovin's Veto                                                                                      |
+|                    3|[Incubation Druid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457275)    |                    3|Lazotep Plating                                                                                   |
+|                    3|[Hydroid Krasis](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457327)      |                     |                                                                                                  |
+|                    3|[Deputy of Detention](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457309) |                     |                                                                                                  |
+|                    3|[Knight of Autumn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452933)    |                     |                                                                                                  |
+|                    4|[Sunpetal Grove](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420946)      |                     |                                                                                                  |
+|                    4|[Militia Bugler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447165)      |                     |                                                                                                  |
+|                    4|[Jadelight Ranger](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439793)    |                     |                                                                                                  |
+|                    4|[Merfolk Branchwalker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435353)|                     |                                                                                                  |
+

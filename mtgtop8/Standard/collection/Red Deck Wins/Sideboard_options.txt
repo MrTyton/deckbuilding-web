@@ -13,10 +13,10 @@
 1 Mountain
 3 Fight with Fire
 1 Fiery Cannonade
-1 Collision / Colossus
 1 Cindervines
-2 Collision / Colossus
+1 Collision / Colossus
 2 Cindervines
+2 Collision / Colossus
 3 Cindervines
 3 Treasure Map
 3 Chandra, Fire Artisan
@@ -33,8 +33,8 @@
 1 Goblin Chainwhirler
 1 Blast Zone
 2 Sarkhan the Masterless
-2 Fiery Cannonade
-2 Banefire
+1 Runaway Steam-Kin
+2 Runaway Steam-Kin
 4 Chandra, Fire Artisan
 4 Experimental Frenzy
 4 Legion Warboss
@@ -45,5 +45,5 @@
 4 Fight with Fire
 4 Dire Fleet Daredevil
 4 Lightning Mare
-1 Runaway Steam-Kin
-2 Runaway Steam-Kin
+2 Fiery Cannonade
+2 Banefire

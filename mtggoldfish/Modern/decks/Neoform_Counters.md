@@ -38,8 +38,8 @@
 
 |*n*<sup>th</sup> copy|                                        Maindeck Card                                         |*n*<sup>th</sup> copy|                                        Sideboard Card                                         |
 |--------------------:|----------------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------------|
-|                    1|[Hallowed Fountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=97071)   |                    1|[Reflector Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407667)      |
-|                    1|[Dryad Arbor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=136196)        |                    1|[Geist of Saint Traft](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409577)|
+|                    1|[Hallowed Fountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=97071)   |                    1|[Geist of Saint Traft](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409577)|
+|                    1|[Dryad Arbor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=136196)        |                    1|[Reflector Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407667)      |
 |                    2|[Pelt Collector](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452891)     |                     |                                                                                               |
 |                    2|[Sidisi's Faithful](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394696)  |                     |                                                                                               |
 |                    3|[Pelt Collector](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452891)     |                     |                                                                                               |

@@ -1,0 +1,25 @@
+# W
+
+#### [Export MTGO List](../collection/W/W.txt)
+#### [Export Arena List](../collection/W/W_arena.txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Adanto%20Vanguard%0A4%09Benalish%20Marshal%0A3%09Conclave%20Tribunal%0A4%09Dauntless%20Bodyguard%0A4%09History%20of%20Benalia%0A3%09Law-Rune%20Enforcer%0A4%09Legion's%20Landing%0A20%09Plains%0A4%09Skymarcher%20Aspirant%0A4%09Snubhorn%20Sentry%0A2%09Tithe%20Taker%0A4%09Venerated%20Loxodon&deckside=1%09Ajani,%20Adversary%20of%20Tyrants%0A3%09Baffling%20End%0A1%09Conclave%20Tribunal%0A4%09Demystify%0A2%09Gideon%20Blackblade%0A2%09Knight%20of%20Grace%0A2%09Tocatli%20Honor%20Guard)
+# Maindeck
+
+|                                         Creature (26)                                          |                                       Enchantment (11)                                        |                                     Land (20)                                      |    Unknown (3)    |
+|------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------|-------------------|
+|4 [Adanto Vanguard](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435152)    |3 [Conclave Tribunal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452756) |20 [Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)|3 Law-Rune Enforcer|
+|4 [Benalish Marshal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442894)   |4 [History of Benalia](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442909)|                                                                                    |                   |
+|4 [Dauntless Bodyguard](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442902)|4 [Legion's Landing](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435173)  |                                                                                    |                   |
+|4 [Skymarcher Aspirant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439678)|                                                                                               |                                                                                    |                   |
+|4 [Snubhorn Sentry](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439680)    |                                                                                               |                                                                                    |                   |
+|2 [Tithe Taker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457171)        |                                                                                               |                                                                                    |                   |
+|4 [Venerated Loxodon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452780)  |                                                                                               |                                                                                    |                   |
+
+
+# Sideboard
+
+|                                          Creature (4)                                          |                                       Enchantment (4)                                        |                                     Instant (4)                                      |                                            Planeswalker (1)                                            |    Unknown (2)    |
+|------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|-------------------|
+|2 [Knight of Grace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442911)    |3 [Baffling End](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439658)     |4 [Demystify](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129524)|1 [Ajani, Adversary of Tyrants](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447139)|2 Gideon Blackblade|
+|2 [Tocatli Honor Guard](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435194)|1 [Conclave Tribunal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452756)|                                                                                      |                                                                                                        |                   |
+

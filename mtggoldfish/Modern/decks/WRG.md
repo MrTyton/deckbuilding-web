@@ -31,8 +31,8 @@
 
 |*n*<sup>th</sup> copy|                                         Maindeck Card                                         |*n*<sup>th</sup> copy|                                         Sideboard Card                                          |
 |--------------------:|-----------------------------------------------------------------------------------------------|--------------------:|-------------------------------------------------------------------------------------------------|
-|                    1|[Knight of Autumn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452933)    |                    1|[Burrenton Forge-Tender](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438580)|
-|                    1|[Monastery Swiftspear](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438706)|                    1|[Stony Silence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=247425)         |
+|                    1|[Knight of Autumn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452933)    |                    1|[Stony Silence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=247425)         |
+|                    1|[Monastery Swiftspear](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438706)|                    1|[Burrenton Forge-Tender](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438580)|
 |                    1|[Manamorphose](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370568)        |                    3|[Path to Exile](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220511)         |
 |                    1|[Smuggler's Copter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417808)   |                    4|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)         |
 |                    2|[Manamorphose](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370568)        |                     |                                                                                                 |
