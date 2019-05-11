@@ -29,3 +29,12 @@
 |2 [Torpor Orb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=233069)          |                                                                                             |                                                                                                 |
 |1 [Welding Jar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=48328)          |                                                                                             |                                                                                                 |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                         Maindeck Card                                         |*n*<sup>th</sup> copy|                                      Sideboard Card                                      |
+|--------------------:|-----------------------------------------------------------------------------------------------|--------------------:|------------------------------------------------------------------------------------------|
+|                    1|[Gideon of the Trials](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426716)|                    1|[Ensnaring Bridge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=15866)|
+|                    1|[Heart of Kiran](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423820)      |                    1|[Witchbane Orb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=233240)  |
+|                    8|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)              |                     |                                                                                          |
+

@@ -1,5 +1,4 @@
-4 Kraul Harpooner
-10 Mountain
+3 Kraul Harpooner
 4 Shock
 11 Mountain
 1 Fanatical Firebrand
@@ -22,6 +21,7 @@
 3 Wizard's Lightning
 3 Viashino Pyromancer
 4 Viashino Pyromancer
+4 Kraul Harpooner
 4 Wizard's Lightning
 4 Fanatical Firebrand
 1 Runaway Steam-Kin
@@ -57,10 +57,6 @@
 2 Forest
 2 Chandra, Fire Artisan
 1 Domri, Anarch of Bolas
-1 Zhur-Taa Goblin
-2 Zhur-Taa Goblin
-3 Zhur-Taa Goblin
-4 Zhur-Taa Goblin
 1 Risk Factor
 2 Risk Factor
 3 Risk Factor
@@ -75,6 +71,10 @@
 3 Forest
 1 Karn, Scion of Urza
 2 Karn, Scion of Urza
+1 Zhur-Taa Goblin
+2 Zhur-Taa Goblin
+3 Zhur-Taa Goblin
+4 Zhur-Taa Goblin
 1 Llanowar Elves
 2 Llanowar Elves
 3 Llanowar Elves
@@ -83,7 +83,6 @@
 5 Forest
 6 Forest
 3 Skewer the Critics
-1 Siege-Gang Commander
 4 Sarkhan the Masterless
 7 Forest
 1 Ilharg, the Raze-Boar
@@ -95,6 +94,7 @@
 1 Pelt Collector
 2 Pelt Collector
 3 Pelt Collector
+1 Siege-Gang Commander
 1 Vivien, Champion of the Wilds
 1 Banefire
 2 Vivien, Champion of the Wilds

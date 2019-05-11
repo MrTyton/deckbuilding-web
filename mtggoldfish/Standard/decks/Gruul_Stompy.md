@@ -30,8 +30,8 @@
 
 |*n*<sup>th</sup> copy|                                         Maindeck Card                                          |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
 |--------------------:|------------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
-|                    1|[Collision/Colossus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457367)   |                    1|[Lightning Strike](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383299)   |
-|                    1|[Ghalta, Primal Hunger](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456564)|                    1|[Thrashing Brontodon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456570)|
+|                    1|[Collision/Colossus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457367)   |                    1|[Thrashing Brontodon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456570)|
+|                    1|[Ghalta, Primal Hunger](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456564)|                    1|[Lightning Strike](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383299)   |
 |                    1|[Rhythm of the Wild](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457345)   |                    1|[Cindervines](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457305)        |
 |                    2|[Rhythm of the Wild](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457345)   |                    2|[Lightning Strike](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383299)   |
 |                    2|[Collision/Colossus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457367)   |                    2|[Thrashing Brontodon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456570)|

@@ -62,6 +62,6 @@
 |                    3|Narset, Parter of Veils                                                                              |                     |                                                                                                   |
 |                    3|[Lava Coil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452858)                 |                     |                                                                                                   |
 |                    3|[Search for Azcanta](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435226)        |                     |                                                                                                   |
-|                    4|Angrath's Rampage                                                                                    |                     |                                                                                                   |
 |                    4|[Lava Coil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452858)                 |                     |                                                                                                   |
+|                    4|Angrath's Rampage                                                                                    |                     |                                                                                                   |
 

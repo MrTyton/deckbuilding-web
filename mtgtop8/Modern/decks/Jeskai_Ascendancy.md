@@ -32,8 +32,11 @@
 
 # Other Options
 
-|*n*<sup>th</sup> copy|Maindeck Card|*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
-|---------------------|-------------|--------------------:|----------------------------------------------------------------------------------------------|
-|                     |             |                    1|Wear / Tear                                                                                   |
-|                     |             |                    4|[Leyline of Sanctity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=204993)|
+|*n*<sup>th</sup> copy|                                  Maindeck Card                                   |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
+|--------------------:|----------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
+|                    1|Paradise Druid                                                                    |                    1|Teferi, Time Raveler                                                                          |
+|                    1|Teferi, Time Raveler                                                              |                    1|Saheeli, Sublime Artificer                                                                    |
+|                    2|[Silence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=191083)|                    2|[Swan Song](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420715)          |
+|                     |                                                                                  |                    1|Wear / Tear                                                                                   |
+|                     |                                                                                  |                    4|[Leyline of Sanctity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=204993)|
 

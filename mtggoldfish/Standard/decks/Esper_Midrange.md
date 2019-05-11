@@ -74,6 +74,6 @@
 |                    2|[Cast Down](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442969)           |                    3|Davriel, Rogue Shadowmage                                                                           |
 |                    3|Dreadhorde Invasion                                                                            |                     |                                                                                                    |
 |                    3|Liliana, Dreadhorde General                                                                    |                     |                                                                                                    |
-|                    4|[Seraph of the Scales](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457349)|                     |                                                                                                    |
 |                    4|Enter the God-Eternals                                                                         |                     |                                                                                                    |
+|                    4|[Seraph of the Scales](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457349)|                     |                                                                                                    |
 

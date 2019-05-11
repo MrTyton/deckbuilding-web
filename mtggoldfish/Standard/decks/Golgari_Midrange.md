@@ -27,12 +27,12 @@
 
 |*n*<sup>th</sup> copy|                                        Maindeck Card                                         |*n*<sup>th</sup> copy|                                       Sideboard Card                                       |
 |--------------------:|----------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------|
-|                    1|[Midnight Reaper](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452827)    |                    1|[Find/Finality](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452975)    |
-|                    1|Massacre Girl                                                                                 |                    2|[Vraska's Contempt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435283)|
-|                    1|[Ravenous Chupacabra](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442093)|                    2|[Find/Finality](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452975)    |
-|                    2|[Midnight Reaper](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452827)    |                     |                                                                                            |
+|                    1|Massacre Girl                                                                                 |                    1|[Find/Finality](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452975)    |
+|                    1|[Ravenous Chupacabra](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442093)|                    2|[Vraska's Contempt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435283)|
+|                    1|[Midnight Reaper](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452827)    |                    2|[Find/Finality](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452975)    |
 |                    2|Massacre Girl                                                                                 |                     |                                                                                            |
 |                    2|[Ravenous Chupacabra](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442093)|                     |                                                                                            |
+|                    2|[Midnight Reaper](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452827)    |                     |                                                                                            |
 |                    3|[Midnight Reaper](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452827)    |                     |                                                                                            |
 |                    3|Massacre Girl                                                                                 |                     |                                                                                            |
 
