@@ -69,8 +69,8 @@
 |                    6|[Snow-Covered Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121267)       |                     |                                                                                                |
 |                    7|[Snow-Covered Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121267)       |                     |                                                                                                |
 |                    8|[Snow-Covered Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121267)       |                     |                                                                                                |
-|                    1|[Gideon, Ally of Zendikar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401897)  |                     |                                                                                                |
 |                    1|[Tezzeret's Gambit](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420716)         |                     |                                                                                                |
+|                    1|[Gideon, Ally of Zendikar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401897)  |                     |                                                                                                |
 |                    4|[Anger of the Gods](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438682)         |                     |                                                                                                |
 |                    4|[Wrath of God](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129808)              |                     |                                                                                                |
 
