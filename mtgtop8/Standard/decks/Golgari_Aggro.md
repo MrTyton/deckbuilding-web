@@ -30,8 +30,8 @@
 
 |*n*<sup>th</sup> copy|                                         Maindeck Card                                          |*n*<sup>th</sup> copy|                                         Sideboard Card                                         |
 |--------------------:|------------------------------------------------------------------------------------------------|--------------------:|------------------------------------------------------------------------------------------------|
-|                    2|[Memorial to Folly](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443130)    |                    1|[Vraska's Contempt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435283)    |
-|                    2|[Thrashing Brontodon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456570)  |                    1|[Carnage Tyrant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435334)       |
+|                    2|[Thrashing Brontodon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456570)  |                    1|[Vraska's Contempt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435283)    |
+|                    2|[Memorial to Folly](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443130)    |                    1|[Carnage Tyrant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435334)       |
 |                    1|[Detection Tower](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447386)      |                    1|Find / Finality                                                                                 |
 |                    1|[Cast Down](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442969)            |                    1|Ob Nixilis's Cruelty                                                                            |
 |                    1|[Druid of the Cowl](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423773)    |                    2|Ob Nixilis's Cruelty                                                                            |

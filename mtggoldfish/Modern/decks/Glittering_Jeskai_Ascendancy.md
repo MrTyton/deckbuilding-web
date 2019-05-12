@@ -36,8 +36,8 @@
 
 |*n*<sup>th</sup> copy|                                         Maindeck Card                                         |*n*<sup>th</sup> copy|                                      Sideboard Card                                       |
 |--------------------:|-----------------------------------------------------------------------------------------------|--------------------:|-------------------------------------------------------------------------------------------|
-|                    1|Teferi, Time Raveler                                                                           |                    1|[Detention Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=270356)|
-|                    1|Paradise Druid                                                                                 |                    1|[Fiery Justice](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376332)   |
+|                    1|Teferi, Time Raveler                                                                           |                    1|[Fiery Justice](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376332)   |
+|                    1|Paradise Druid                                                                                 |                    1|[Detention Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=270356)|
 |                    2|[Silence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=191083)             |                    1|Teferi, Time Raveler                                                                       |
 |                    1|[Wooded Foothills](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405116)    |                    1|Saheeli, Sublime Artificer                                                                 |
 |                    1|[Failure/Comply](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426923)      |                    2|[Swan Song](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420715)       |
