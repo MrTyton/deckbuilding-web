@@ -17,8 +17,8 @@
 4 Island
 5 Island
 1 Mana Leak
-1 Remand
 1 Blast Zone
+1 Remand
 1 Thing in the Ice
 1 Spell Snare
 1 Cryptic Command
@@ -28,8 +28,8 @@
 1 Logic Knot
 1 Set Adrift
 1 Opt
-2 Spell Snare
 2 Blast Zone
+2 Spell Snare
 2 Mana Leak
 2 Thing in the Ice
 2 Snapcaster Mage
@@ -96,10 +96,10 @@
 1 Flooded Strand
 1 Jace, the Mind Sculptor
 1 Fetid Heath
-1 Cataclysmic Gearhulk
 1 Gideon of the Trials
 1 Languish
 1 Wrath of God
+1 Cataclysmic Gearhulk
 1 Damnation
 1 Sorin, Lord of Innistrad
 1 Sorin, Grim Nemesis
@@ -132,6 +132,7 @@
 1 Mana Confluence
 1 Primal Command
 1 Izzet Charm
+1 Bring to Light
 1 Blooming Marsh
 1 Stomping Ground
 1 Overgrown Tomb
@@ -148,13 +149,12 @@
 1 Lightning Helix
 1 Safewright Quest
 1 Pillar of the Paruns
-1 Bring to Light
 2 Izzet Charm
+2 Bring to Light
 2 Windswept Heath
 2 Domri, Anarch of Bolas
 2 Assassin's Trophy
 2 Blooming Marsh
-2 Bring to Light
 2 Pillar of the Paruns
 2 Lightning Helix
 2 Mana Confluence
@@ -162,19 +162,19 @@
 2 Birds of Paradise
 2 Niv-Mizzet Reborn
 3 Mana Confluence
+3 Bring to Light
 3 Windswept Heath
 3 Pillar of the Paruns
 3 Lightning Helix
-3 Bring to Light
 3 Birds of Paradise
 3 Niv-Mizzet Reborn
 3 Assassin's Trophy
 3 Safewright Quest
 4 Lightning Helix
+4 Bring to Light
 4 Windswept Heath
 4 Pillar of the Paruns
 4 Birds of Paradise
-4 Bring to Light
 1 Desperate Ritual
 1 Ramunap Ruins
 1 Purphoros, God of the Forge
@@ -189,9 +189,9 @@
 2 Hazoret the Fervent
 2 Sacred Foundry
 2 Goblin Rabblemaster
+2 Abrade
 2 Gemstone Caverns
 2 Desperate Ritual
-2 Abrade
 2 Arid Mesa
 2 Legion Warboss
 2 Rugged Prairie
@@ -242,11 +242,11 @@
 1 Gideon's Intervention
 1 Sphere of Safety
 2 Supreme Verdict
-2 Detention Sphere
 2 Glacial Fortress
+2 Detention Sphere
 2 Faerie Conclave
-2 Runed Halo
 2 Negate
+2 Runed Halo
 2 Temple of Enlightenment
 2 Gideon's Intervention
 2 Cast Out

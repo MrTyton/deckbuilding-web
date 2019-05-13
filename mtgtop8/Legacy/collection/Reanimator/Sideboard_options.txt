@@ -1,23 +1,21 @@
 1 Wear / Tear
 1 Serenity
 2 Serenity
-1 Ashen Rider
 1 Abrade
-3 Assassin's Trophy
 1 Surgical Extraction
-1 Grave Titan
+1 Ashen Rider
 1 Abrupt Decay
 2 Abrupt Decay
-1 Collective Brutality
 1 Faerie Macabre
 1 Blazing Archon
-1 Lake of the Dead
-2 Grave Titan
+1 Collective Brutality
 1 Magus of the Moon
+3 Assassin's Trophy
 1 Grim Lavamancer
 2 Grim Lavamancer
 1 Ancient Grudge
 1 Tidespout Tyrant
+1 Grave Titan
 1 Show and Tell
 2 Show and Tell
 3 Show and Tell
@@ -31,7 +29,9 @@
 1 Sorcerous Spyglass
 1 Pull from Eternity
 1 Cabal Therapy
+1 Lake of the Dead
 2 Collective Brutality
+2 Grave Titan
 2 Bitterblossom
 2 Ancient Grudge
 1 Pyroblast
@@ -43,13 +43,13 @@
 1 Ruric Thar, the Unbowed
 1 Stronghold Gambit
 2 Stronghold Gambit
+1 Disenchant
+2 Disenchant
 1 Engineered Explosives
 1 Zealous Persecution
-1 Disenchant
 1 Council's Judgment
 1 Lingering Souls
 1 Diabolic Edict
-2 Disenchant
 2 Zealous Persecution
 1 Sire of Insanity
 1 Wipe Away
@@ -72,9 +72,9 @@
 1 Karn, Scion of Urza
 1 Helm of Obedience
 1 Leyline of the Void
-1 Sorin Markov
 1 Liliana, Death's Majesty
 1 Ob Nixilis Reignited
+1 Sorin Markov
 1 Ratchet Bomb
 2 Leyline of the Void
 2 Helm of Obedience
@@ -86,3 +86,14 @@
 3 Wear / Tear
 4 Faerie Macabre
 4 Wear / Tear
+1 Arcane Artisan
+1 Monastery Mentor
+1 Hurkyl's Recall
+1 Chain of Vapor
+2 Arcane Artisan
+2 Monastery Mentor
+2 Hurkyl's Recall
+3 Monastery Mentor
+3 Arcane Artisan
+4 Monastery Mentor
+4 Arcane Artisan

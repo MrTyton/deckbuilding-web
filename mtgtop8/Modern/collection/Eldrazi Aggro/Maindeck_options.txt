@@ -1,4 +1,3 @@
-4 Ghost Quarter
 3 Mutavault
 4 Eldrazi Obligator
 1 Noble Hierarch
@@ -14,9 +13,9 @@
 2 Lightning Bolt
 3 Lightning Bolt
 4 Lightning Bolt
-1 Grove of the Burnwillows
 1 Bloodbraid Elf
 1 Wooded Foothills
+1 Grove of the Burnwillows
 1 Stomping Ground
 1 Karplusan Forest
 2 Forest
@@ -37,16 +36,16 @@
 3 Forest
 4 Bloodbraid Elf
 1 Endbringer
+1 Smuggler's Copter
 4 Dismember
+1 Sea Gate Wreckage
+1 Zhalfirin Void
+2 Zhalfirin Void
 2 Mountain
 3 Mountain
 3 Wastes
 4 Grove of the Burnwillows
-1 Karn, Scion of Urza
-1 Smuggler's Copter
-2 Sea Gate Wreckage
-1 Zhalfirin Void
-2 Zhalfirin Void
+3 Zhalfirin Void
 1 Sulfurous Springs
 1 Ramunap Ruins
 2 Sulfurous Springs
@@ -57,23 +56,28 @@
 1 Relic of Progenitus
 2 Relic of Progenitus
 4 Cavern of Souls
+1 Karn, Scion of Urza
 1 Walking Ballista
 1 All Is Dust
 2 Walking Ballista
-3 Zhalfirin Void
-4 Blinkmoth Nexus
 1 Chandra, Torch of Defiance
 4 Sulfurous Springs
 1 Gruul Spellbreaker
 2 Gruul Spellbreaker
+3 Gemstone Caverns
+1 Blast Zone
+2 Blast Zone
+1 Endless One
+2 Endless One
+3 Endless One
 1 Brushland
 1 Path to Exile
 1 Hallowed Fountain
 1 Eldrazi Skyspawner
-1 Breeding Pool
 1 Temple Garden
 1 Windswept Heath
 1 Eldrazi Displacer
+1 Breeding Pool
 1 Engineered Explosives
 1 Yavimaya Coast
 1 Drowner of Hope
@@ -89,15 +93,17 @@
 2 Yavimaya Coast
 3 Brushland
 3 Path to Exile
+3 Eldrazi Displacer
 3 Yavimaya Coast
 3 Drowner of Hope
-3 Eldrazi Displacer
 3 Eldrazi Skyspawner
 3 Windswept Heath
 4 Eldrazi Skyspawner
 4 Eldrazi Displacer
 4 Windswept Heath
 4 Drowner of Hope
+2 Sea Gate Wreckage
+3 Relic of Progenitus
 1 Batterskull
 1 Urza's Mine
 1 Urza's Tower
@@ -121,8 +127,7 @@
 1 Warping Wail
 1 Mind Stone
 2 Mind Stone
-3 Relic of Progenitus
-1 Radiant Fountain
+1 Karn, the Great Creator
 1 Oblivion Sower
 1 Ugin, the Spirit Dragon
 2 Oblivion Sower
@@ -143,13 +148,12 @@
 1 Island
 2 Thalia, Guardian of Thraben
 3 Thalia, Guardian of Thraben
-3 Gemstone Caverns
+1 Radiant Fountain
+4 Blinkmoth Nexus
 1 Flame Slash
 2 Flame Slash
 3 Scavenging Ooze
 4 Scavenging Ooze
-1 Blast Zone
-2 Blast Zone
 3 Blast Zone
 4 Blast Zone
 1 Spatial Contortion
@@ -158,10 +162,7 @@
 3 Scavenger Grounds
 3 Mind Stone
 4 Mind Stone
-1 Endless One
 1 Hazoret the Fervent
-2 Endless One
-3 Endless One
 4 Relic of Progenitus
 4 Mountain
 1 Unclaimed Territory

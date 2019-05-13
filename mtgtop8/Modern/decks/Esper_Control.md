@@ -39,7 +39,7 @@
 |                    1|[Timely Reinforcements](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220074)|                    1|[Timely Reinforcements](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220074)|
 |                    1|[Celestial Colonnade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457137)  |                    1|[Ravenous Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197537)        |
 |                    2|[Celestial Colonnade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457137)  |                    1|[Wrath of God](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129808)         |
-|                    4|[Field of Ruin](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435415)        |                    1|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)       |
-|                    1|Teferi, Time Raveler                                                                            |                    1|[Stony Silence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=247425)        |
+|                    4|[Field of Ruin](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435415)        |                    1|[Stony Silence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=247425)        |
+|                    1|Teferi, Time Raveler                                                                            |                    1|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)       |
 |                    4|[Opt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442948)                  |                    1|[Baneslayer Angel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=191065)     |
 

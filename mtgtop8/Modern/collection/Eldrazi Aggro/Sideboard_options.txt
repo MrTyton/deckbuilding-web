@@ -1,6 +1,6 @@
-1 Pithing Needle
-1 Relic of Progenitus
 2 Relic of Progenitus
+1 Pithing Needle
+2 Torpor Orb
 1 Grafdigger's Cage
 3 Spatial Contortion
 3 Relic of Progenitus
@@ -16,7 +16,12 @@
 2 Grafdigger's Cage
 1 Engineered Explosives
 2 Engineered Explosives
+1 Surgical Extraction
 1 Anger of the Gods
+1 Gut Shot
+2 Surgical Extraction
+1 Crucible of Worlds
+2 Sorcerous Spyglass
 1 Shatterstorm
 1 Blood Moon
 2 Blood Moon
@@ -27,7 +32,6 @@
 1 Crumble to Dust
 2 Crumble to Dust
 1 Ravenous Trap
-2 Sorcerous Spyglass
 1 Natural State
 1 Knight of Autumn
 1 Stubborn Denial
@@ -39,11 +43,9 @@
 2 Knight of Autumn
 2 Stubborn Denial
 3 Stubborn Denial
-1 Surgical Extraction
 2 Dismember
 1 Ancient Grudge
 2 Ancient Grudge
-1 Gut Shot
 1 Domri, Chaos Bringer
 1 Endbringer
 1 Ghost Quarter
@@ -55,7 +57,6 @@
 1 Chandra, Torch of Defiance
 1 Rending Volley
 2 Rending Volley
-2 Surgical Extraction
 1 Basilisk Collar
 1 Skysovereign, Consul Flagship
 1 Ulamog, the Ceaseless Hunger
@@ -63,7 +64,6 @@
 2 Ravenous Trap
 2 Simian Spirit Guide
 1 Wurmcoil Engine
-1 Crucible of Worlds
 1 Hangarback Walker
 2 Wurmcoil Engine
 2 Hangarback Walker
@@ -86,7 +86,6 @@
 2 Voices from the Void
 3 Voices from the Void
 3 Ratchet Bomb
-4 Spatial Contortion
 1 Cindervines
 2 Cindervines
 3 Cindervines
