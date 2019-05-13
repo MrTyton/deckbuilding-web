@@ -50,9 +50,11 @@
 4 Windswept Heath
 4 Green Sun's Zenith
 1 Horizon Canopy
+1 Thespian's Stage
 1 Thalia, Guardian of Thraben
 1 Mox Diamond
 1 Maze of Ith
+1 Bojuka Bog
 1 Tireless Tracker
 1 Ramunap Excavator
 1 Ghost Quarter
@@ -60,8 +62,6 @@
 1 Batterskull
 1 Dismember
 1 Karakas
-1 Bojuka Bog
-1 Thespian's Stage
 1 Dark Depths
 1 Plains
 1 Savannah
@@ -77,13 +77,13 @@
 2 Chalice of the Void
 2 Stoneforge Mystic
 2 Knight of the Reliquary
-3 Savannah
 3 Thalia, Guardian of Thraben
 3 Sylvan Library
 3 Chalice of the Void
 3 Stoneforge Mystic
 3 Knight of the Reliquary
 3 Mox Diamond
+3 Savannah
 4 Thalia, Guardian of Thraben
 4 Wasteland
 4 Chalice of the Void
@@ -109,18 +109,18 @@
 1 Llanowar Elves
 1 Elvish Mystic
 2 Craterhoof Behemoth
-2 Llanowar Elves
-2 Bayou
 2 Gaea's Cradle
 2 Birchlore Rangers
 2 Dryad Arbor
 2 Natural Order
 2 Glimpse of Nature
 2 Quirion Ranger
+2 Bayou
 2 Wirewood Symbiote
 2 Heritage Druid
 2 Elvish Visionary
 2 Nettle Sentinel
+2 Llanowar Elves
 3 Glimpse of Nature
 3 Quirion Ranger
 3 Heritage Druid
@@ -139,27 +139,27 @@
 1 Taiga
 1 Tropical Island
 1 Shardless Agent
-1 Bloodbraid Elf
 1 Tarmogoyf
 1 Guided Passage
 1 Grove of the Burnwillows
+1 Bloodbraid Elf
 1 Ancestral Vision
 1 Punishing Fire
 1 Noble Hierarch
 1 Raging Ravine
 2 Tropical Island
 2 Shardless Agent
-2 Bloodbraid Elf
 2 Tarmogoyf
 2 Punishing Fire
+2 Bloodbraid Elf
 2 Ancestral Vision
 2 Grove of the Burnwillows
 2 Noble Hierarch
 2 Guided Passage
-3 Bloodbraid Elf
 3 Shardless Agent
 3 Tropical Island
 3 Guided Passage
+3 Bloodbraid Elf
 3 Ancestral Vision
 3 Tarmogoyf
 3 Grove of the Burnwillows

@@ -1,55 +1,46 @@
-1 Plains
-1 Godless Shrine
-1 Path to Exile
-2 Path to Exile
-3 Path to Exile
-1 Fatal Push
-2 Fatal Push
 1 Field of Ruin
-2 Field of Ruin
-3 Field of Ruin
 1 Island
 2 Island
 1 Snapcaster Mage
-3 Island
-1 Cryptic Command
-1 Opt
-1 Logic Knot
-2 Snapcaster Mage
-2 Cryptic Command
-2 Opt
-3 Snapcaster Mage
-3 Cryptic Command
-3 Opt
-1 Mana Leak
-4 Snapcaster Mage
 1 Serum Visions
 1 Thought Scour
 2 Thought Scour
 2 Serum Visions
-3 Serum Visions
 3 Thought Scour
+3 Serum Visions
 4 Serum Visions
 4 Thought Scour
 1 Spreading Seas
 2 Spreading Seas
+3 Island
 3 Spreading Seas
 4 Island
 5 Island
+1 Mana Leak
 1 Remand
 1 Blast Zone
 1 Thing in the Ice
 1 Spell Snare
+1 Cryptic Command
 1 Surgical Extraction
 1 Spell Pierce
-1 Set Adrift
 1 Unsummon
+1 Logic Knot
+1 Set Adrift
+1 Opt
 2 Spell Snare
 2 Blast Zone
 2 Mana Leak
 2 Thing in the Ice
+2 Snapcaster Mage
+2 Cryptic Command
+2 Opt
+3 Snapcaster Mage
 3 Thing in the Ice
+3 Opt
+3 Cryptic Command
 4 Opt
+4 Snapcaster Mage
 4 Thing in the Ice
 4 Cryptic Command
 6 Island
@@ -64,53 +55,32 @@
 15 Island
 16 Island
 17 Island
-1 Jace, the Mind Sculptor
-1 Flooded Strand
-1 Kaya, Orzhov Usurper
-4 Path to Exile
-1 Hallowed Fountain
-1 Polluted Delta
-1 Watery Grave
-2 Watery Grave
-2 Polluted Delta
-3 Polluted Delta
-4 Polluted Delta
+1 Plains
+2 Field of Ruin
+3 Field of Ruin
 1 Marsh Flats
-1 Supreme Verdict
-3 Fatal Push
-1 Nihil Spellbomb
-2 Nihil Spellbomb
-1 Negate
-1 Glacial Fortress
-2 Supreme Verdict
-2 Negate
 2 Plains
+1 Path to Exile
+2 Path to Exile
+3 Path to Exile
+1 Godless Shrine
 1 Inquisition of Kozilek
 2 Inquisition of Kozilek
-4 Field of Ruin
 1 Thoughtseize
+1 Fatal Push
 1 Lingering Souls
 1 Shambling Vent
 2 Thoughtseize
+2 Fatal Push
 2 Lingering Souls
 3 Inquisition of Kozilek
-1 Esper Charm
-1 Teferi, Hero of Dominaria
-2 Esper Charm
-2 Jace, the Mind Sculptor
-2 Teferi, Hero of Dominaria
-2 Hallowed Fountain
-2 Flooded Strand
-3 Nihil Spellbomb
-3 Flooded Strand
-4 Flooded Strand
-1 Creeping Tar Pit
+1 Kaya, Orzhov Usurper
 1 Concealed Courtyard
 1 Gideon, Ally of Zendikar
 2 Concealed Courtyard
 2 Marsh Flats
-2 Godless Shrine
 2 Gideon, Ally of Zendikar
+2 Godless Shrine
 2 Shambling Vent
 3 Shambling Vent
 3 Marsh Flats
@@ -118,11 +88,13 @@
 3 Lingering Souls
 3 Thoughtseize
 4 Lingering Souls
+4 Field of Ruin
 4 Marsh Flats
 4 Concealed Courtyard
-1 Detention Sphere
-2 Glacial Fortress
+4 Path to Exile
 3 Plains
+1 Flooded Strand
+1 Jace, the Mind Sculptor
 1 Fetid Heath
 1 Cataclysmic Gearhulk
 1 Gideon of the Trials
@@ -131,17 +103,11 @@
 1 Damnation
 1 Sorin, Lord of Innistrad
 1 Sorin, Grim Nemesis
+1 Nihil Spellbomb
 1 Anguished Unmaking
 2 Gideon of the Trials
 2 Anguished Unmaking
-1 Timely Reinforcements
-1 Celestial Colonnade
-1 Vendilion Clique
-2 Celestial Colonnade
-1 Cast Down
-2 Logic Knot
-3 Teferi, Hero of Dominaria
-3 Esper Charm
+2 Nihil Spellbomb
 2 Set Adrift
 3 Blast Zone
 4 Blast Zone
@@ -150,63 +116,19 @@
 2 Kaya, Orzhov Usurper
 2 Liliana, the Last Hope
 2 Dark Confidant
+3 Fatal Push
 3 Dark Confidant
 4 Shambling Vent
 4 Liliana of the Veil
-4 Thoughtseize
 4 Dark Confidant
+4 Thoughtseize
 4 Fatal Push
-1 Jace, Vryn's Prodigy
-1 Murderous Cut
-1 Goryo's Vengeance
-1 Griselbrand
-1 Tasigur, the Golden Fang
-1 Obzedat, Ghost Council
-1 Darkslick Shores
-2 Darkslick Shores
-2 Goryo's Vengeance
-2 Obzedat, Ghost Council
-2 Jace, Vryn's Prodigy
-3 Jace, Vryn's Prodigy
-3 Goryo's Vengeance
-3 Obzedat, Ghost Council
-3 Darkslick Shores
-4 Jace, Vryn's Prodigy
-4 Darkslick Shores
-4 Goryo's Vengeance
+1 Creeping Tar Pit
+1 Hallowed Fountain
 1 Windswept Heath
 1 Sacred Foundry
-1 Desperate Ritual
-1 Ramunap Ruins
-1 Purphoros, God of the Forge
-1 Arid Mesa
-1 Legion Warboss
-1 Gemstone Caverns
-1 Rugged Prairie
-1 Ajani Vengeant
-1 Goblin Rabblemaster
-1 Pyretic Ritual
-2 Ramunap Ruins
-2 Hazoret the Fervent
-2 Sacred Foundry
-2 Goblin Rabblemaster
-2 Rugged Prairie
-2 Arid Mesa
-2 Gemstone Caverns
-2 Abrade
-2 Desperate Ritual
-2 Legion Warboss
-3 Ramunap Ruins
-3 Gemstone Caverns
-3 Legion Warboss
-3 Goblin Rabblemaster
-3 Desperate Ritual
-3 Arid Mesa
-4 Legion Warboss
-4 Arid Mesa
-4 Chandra, Torch of Defiance
-4 Goblin Rabblemaster
-4 Desperate Ritual
+1 Supreme Verdict
+1 Detention Sphere
 1 Mana Confluence
 1 Primal Command
 1 Izzet Charm
@@ -217,73 +139,133 @@
 1 Sin Collector
 1 Assassin's Trophy
 1 Forest
-1 Breeding Pool
 1 Birds of Paradise
-1 Safewright Quest
-1 Bring to Light
+1 Breeding Pool
 1 Countersquall
 1 Niv-Mizzet Reborn
-1 Thought Erasure
-1 Pillar of the Paruns
 1 Unmoored Ego
+1 Thought Erasure
 1 Lightning Helix
+1 Safewright Quest
+1 Pillar of the Paruns
+1 Bring to Light
 2 Izzet Charm
 2 Windswept Heath
 2 Domri, Anarch of Bolas
-2 Bring to Light
-2 Safewright Quest
-2 Pillar of the Paruns
-2 Blooming Marsh
 2 Assassin's Trophy
-2 Birds of Paradise
+2 Blooming Marsh
+2 Bring to Light
+2 Pillar of the Paruns
 2 Lightning Helix
 2 Mana Confluence
+2 Safewright Quest
+2 Birds of Paradise
 2 Niv-Mizzet Reborn
 3 Mana Confluence
 3 Windswept Heath
-3 Birds of Paradise
-3 Lightning Helix
-3 Safewright Quest
-3 Niv-Mizzet Reborn
-3 Bring to Light
 3 Pillar of the Paruns
+3 Lightning Helix
+3 Bring to Light
+3 Birds of Paradise
+3 Niv-Mizzet Reborn
 3 Assassin's Trophy
+3 Safewright Quest
 4 Lightning Helix
 4 Windswept Heath
-4 Bring to Light
-4 Birds of Paradise
 4 Pillar of the Paruns
+4 Birds of Paradise
+4 Bring to Light
+1 Desperate Ritual
+1 Ramunap Ruins
+1 Purphoros, God of the Forge
+1 Arid Mesa
+1 Legion Warboss
+1 Gemstone Caverns
+1 Goblin Rabblemaster
+1 Pyretic Ritual
+1 Ajani Vengeant
+1 Rugged Prairie
+2 Ramunap Ruins
+2 Hazoret the Fervent
+2 Sacred Foundry
+2 Goblin Rabblemaster
+2 Gemstone Caverns
+2 Desperate Ritual
+2 Abrade
+2 Arid Mesa
+2 Legion Warboss
+2 Rugged Prairie
+3 Ramunap Ruins
+3 Gemstone Caverns
+3 Legion Warboss
+3 Goblin Rabblemaster
+3 Desperate Ritual
+3 Arid Mesa
+4 Legion Warboss
+4 Desperate Ritual
+4 Goblin Rabblemaster
+4 Arid Mesa
+4 Chandra, Torch of Defiance
+1 Jace, Vryn's Prodigy
+1 Polluted Delta
+1 Murderous Cut
+1 Goryo's Vengeance
+1 Tasigur, the Golden Fang
+1 Watery Grave
+1 Darkslick Shores
+1 Obzedat, Ghost Council
+1 Griselbrand
+2 Jace, Vryn's Prodigy
+2 Goryo's Vengeance
+2 Watery Grave
+2 Obzedat, Ghost Council
+2 Polluted Delta
+2 Darkslick Shores
+3 Jace, Vryn's Prodigy
+3 Darkslick Shores
+3 Polluted Delta
+3 Obzedat, Ghost Council
+3 Goryo's Vengeance
+4 Polluted Delta
+4 Darkslick Shores
+4 Jace, Vryn's Prodigy
+4 Goryo's Vengeance
 1 Faerie Conclave
 1 Nevermore
 1 Runed Halo
+1 Negate
 1 Cast Out
-1 Sphere of Safety
-1 Aetherling
 1 Ghostly Prison
 1 Temple of Enlightenment
+1 Glacial Fortress
+1 Aetherling
 1 Gideon's Intervention
+1 Sphere of Safety
+2 Supreme Verdict
 2 Detention Sphere
+2 Glacial Fortress
 2 Faerie Conclave
 2 Runed Halo
+2 Negate
 2 Temple of Enlightenment
-2 Aetherling
-2 Cast Out
-2 Nevermore
 2 Gideon's Intervention
+2 Cast Out
+2 Aetherling
 2 Ghostly Prison
+2 Nevermore
 2 Sphere of Safety
 3 Glacial Fortress
 3 Detention Sphere
 3 Ghostly Prison
-3 Temple of Enlightenment
 3 Runed Halo
+3 Temple of Enlightenment
 3 Nevermore
 4 Glacial Fortress
 4 Plains
+4 Spreading Seas
 4 Nevermore
 4 Detention Sphere
 4 Ghostly Prison
-4 Spreading Seas
 5 Plains
 6 Plains
 7 Plains
