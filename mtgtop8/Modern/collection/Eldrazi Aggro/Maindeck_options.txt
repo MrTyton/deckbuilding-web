@@ -1,5 +1,8 @@
 3 Mutavault
+1 Endbringer
 4 Eldrazi Obligator
+1 Smuggler's Copter
+4 Dismember
 1 Noble Hierarch
 1 Forest
 1 Ancient Stirrings
@@ -13,37 +16,34 @@
 2 Lightning Bolt
 3 Lightning Bolt
 4 Lightning Bolt
+1 Birds of Paradise
+1 Grove of the Burnwillows
 1 Bloodbraid Elf
 1 Wooded Foothills
-1 Grove of the Burnwillows
 1 Stomping Ground
 1 Karplusan Forest
+1 Scavenging Ooze
 2 Forest
 2 Bloodbraid Elf
 2 Wooded Foothills
 2 Grove of the Burnwillows
 2 Karplusan Forest
+2 Birds of Paradise
+2 Scavenging Ooze
 3 Karplusan Forest
 3 Grove of the Burnwillows
 4 Karplusan Forest
-3 Cavern of Souls
-1 Birds of Paradise
-1 Scavenging Ooze
-2 Birds of Paradise
-2 Scavenging Ooze
-1 Kessig Wolf Run
-3 Bloodbraid Elf
-3 Forest
-4 Bloodbraid Elf
-1 Endbringer
-1 Smuggler's Copter
-4 Dismember
 1 Sea Gate Wreckage
 1 Zhalfirin Void
 2 Zhalfirin Void
 2 Mountain
 3 Mountain
 3 Wastes
+3 Cavern of Souls
+1 Kessig Wolf Run
+3 Bloodbraid Elf
+3 Forest
+4 Bloodbraid Elf
 4 Grove of the Burnwillows
 3 Zhalfirin Void
 1 Sulfurous Springs
@@ -53,33 +53,49 @@
 3 Ramunap Ruins
 3 Sulfurous Springs
 4 Ramunap Ruins
-1 Relic of Progenitus
-2 Relic of Progenitus
-4 Cavern of Souls
-1 Karn, Scion of Urza
 1 Walking Ballista
 1 All Is Dust
 2 Walking Ballista
+1 Blast Zone
+2 Blast Zone
+1 Karn, Scion of Urza
+1 Relic of Progenitus
+1 Urza's Mine
+1 Urza's Tower
+1 Urza's Power Plant
+1 Expedition Map
+2 Endbringer
+2 Urza's Power Plant
+2 Expedition Map
+2 Urza's Tower
+2 Urza's Mine
+3 Urza's Tower
+3 Urza's Power Plant
+3 Expedition Map
+3 Urza's Mine
+4 Expedition Map
+4 Urza's Mine
+4 Urza's Tower
+4 Urza's Power Plant
+4 Cavern of Souls
 1 Chandra, Torch of Defiance
 4 Sulfurous Springs
 1 Gruul Spellbreaker
 2 Gruul Spellbreaker
 3 Gemstone Caverns
-1 Blast Zone
-2 Blast Zone
 1 Endless One
 2 Endless One
 3 Endless One
 1 Brushland
 1 Path to Exile
-1 Hallowed Fountain
 1 Eldrazi Skyspawner
+1 Yavimaya Coast
 1 Temple Garden
 1 Windswept Heath
-1 Eldrazi Displacer
+1 Hallowed Fountain
 1 Breeding Pool
+1 Eldrazi Displacer
 1 Engineered Explosives
-1 Yavimaya Coast
 1 Drowner of Hope
 1 Thalia, Guardian of Thraben
 1 Plains
@@ -93,41 +109,24 @@
 2 Yavimaya Coast
 3 Brushland
 3 Path to Exile
-3 Eldrazi Displacer
 3 Yavimaya Coast
 3 Drowner of Hope
+3 Eldrazi Displacer
 3 Eldrazi Skyspawner
 3 Windswept Heath
-4 Eldrazi Skyspawner
 4 Eldrazi Displacer
 4 Windswept Heath
+4 Eldrazi Skyspawner
 4 Drowner of Hope
+1 Karn, the Great Creator
 2 Sea Gate Wreckage
-3 Relic of Progenitus
+2 Relic of Progenitus
 1 Batterskull
-1 Urza's Mine
-1 Urza's Tower
-1 Urza's Power Plant
-1 Expedition Map
-2 Endbringer
-2 Urza's Power Plant
-2 Expedition Map
-2 Urza's Tower
-2 Urza's Mine
 3 Walking Ballista
-3 Urza's Tower
-3 Urza's Power Plant
-3 Expedition Map
-3 Urza's Mine
-4 Expedition Map
-4 Urza's Mine
-4 Urza's Tower
-4 Urza's Power Plant
 4 Walking Ballista
-1 Warping Wail
 1 Mind Stone
 2 Mind Stone
-1 Karn, the Great Creator
+1 Warping Wail
 1 Oblivion Sower
 1 Ugin, the Spirit Dragon
 2 Oblivion Sower
@@ -135,11 +134,6 @@
 1 Basilisk Collar
 2 Karn, Scion of Urza
 2 All Is Dust
-1 Forked Bolt
-1 Ratchet Bomb
-1 Abrade
-1 Lava Coil
-2 Ratchet Bomb
 2 Chandra, Torch of Defiance
 1 Oblivion Stone
 1 Gemstone Mine
@@ -163,6 +157,7 @@
 3 Mind Stone
 4 Mind Stone
 1 Hazoret the Fervent
+3 Relic of Progenitus
 4 Relic of Progenitus
 4 Mountain
 1 Unclaimed Territory
@@ -173,3 +168,10 @@
 1 Eternal Witness
 4 Brushland
 4 Path to Exile
+1 Ugin, the Ineffable
+1 Ulamog, the Ceaseless Hunger
+2 Ugin, the Ineffable
+2 Karn, the Great Creator
+3 Endbringer
+3 Karn, the Great Creator
+4 Karn, the Great Creator
