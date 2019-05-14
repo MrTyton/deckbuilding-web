@@ -38,11 +38,11 @@
 
 # Legacy
 
-|                      A                       |                    B                     |                          C                           |                             D                              |                               E                                |
-|----------------------------------------------|------------------------------------------|------------------------------------------------------|------------------------------------------------------------|----------------------------------------------------------------|
-|[Affinity](./mtgtop8/Legacy/decks/Affinity.md)|[Burn](./mtgtop8/Legacy/decks/Burn.md)    |[MUD](./mtgtop8/Legacy/decks/MUD.md)                  |[Stax](./mtgtop8/Legacy/decks/Stax.md)                      |[Zombi Bombardment](./mtgtop8/Legacy/decks/Zombi_Bombardment.md)|
-|[Belcher](./mtgtop8/Legacy/decks/Belcher.md)  |[Dredge](./mtgtop8/Legacy/decks/Dredge.md)|[Shoal Infect](./mtgtop8/Legacy/decks/Shoal_Infect.md)|[The Rock (Junk)](./mtgtop8/Legacy/decks/The_Rock_(Junk).md)|                                                                |
+|                      A                       |                    B                     |                          C                           |                               D                                |
+|----------------------------------------------|------------------------------------------|------------------------------------------------------|----------------------------------------------------------------|
+|[Affinity](./mtgtop8/Legacy/decks/Affinity.md)|[Dredge](./mtgtop8/Legacy/decks/Dredge.md)|[Shoal Infect](./mtgtop8/Legacy/decks/Shoal_Infect.md)|[The Rock (Junk)](./mtgtop8/Legacy/decks/The_Rock_(Junk).md)    |
+|[Burn](./mtgtop8/Legacy/decks/Burn.md)        |[MUD](./mtgtop8/Legacy/decks/MUD.md)      |[Stax](./mtgtop8/Legacy/decks/Stax.md)                |[Zombi Bombardment](./mtgtop8/Legacy/decks/Zombi_Bombardment.md)|
 
 
 
-#### Last Updated at 01:52PM on May 13, 2019
+#### Last Updated at 01:04AM on May 14, 2019
