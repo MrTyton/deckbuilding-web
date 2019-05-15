@@ -1,10 +1,11 @@
-1 Gideon Blackblade
-2 Gideon Blackblade
+3 Shock
+4 Gird for Battle
 4 Shock
-1 Rile
-2 Rile
+5 Mountain
 2 Samut's Sprint
 3 Samut's Sprint
+1 Rile
+2 Rile
 3 Gideon Blackblade
 8 Plains
 1 Heroic Reinforcements
@@ -17,9 +18,13 @@
 3 Legion's Landing
 3 Heroic Reinforcements
 4 Legion's Landing
-5 Mountain
+1 Lightning Strike
+2 Lightning Strike
+3 Lightning Strike
+4 Lightning Strike
 1 Legion Warboss
 2 Legion Warboss
+4 History of Benalia
 1 Conclave Tribunal
 1 Benalish Marshal
 1 Dauntless Bodyguard
@@ -32,13 +37,11 @@
 10 Plains
 11 Plains
 12 Plains
-4 History of Benalia
+1 Unbreakable Formation
 1 Divine Visitation
 1 Skirk Prospector
-1 Unbreakable Formation
 1 Lava Coil
 1 Tilonalli's Summoner
-1 Lightning Strike
 1 Lyra Dawnbringer
 1 Tragic Poet
 2 Unbreakable Formation
@@ -46,16 +49,18 @@
 2 Tilonalli's Summoner
 2 Divine Visitation
 2 Lava Coil
-2 Lightning Strike
 2 Skirk Prospector
 3 Legion Warboss
-3 Lightning Strike
 3 Skirk Prospector
 3 Divine Visitation
 4 Legion Warboss
-4 Lightning Strike
 6 Mountain
 7 Mountain
+1 Nahiri's Stoneblades
+1 Aurelia, Exemplar of Justice
+1 Stone Quarry
+2 Aurelia, Exemplar of Justice
+2 Stone Quarry
 3 Rile
 3 Krenko, Tin Street Kingpin
 1 Maximize Velocity
@@ -68,13 +73,13 @@
 2 Dire Fleet Daredevil
 3 Dire Fleet Daredevil
 4 Samut's Sprint
-1 Healer's Hawk
 1 Leonin Vanguard
+1 Healer's Hawk
 1 Tajic, Legion's Edge
 1 Tithe Taker
 1 Ajani's Pridemate
-2 Healer's Hawk
 2 Leonin Vanguard
+2 Healer's Hawk
 2 Tajic, Legion's Edge
 2 Ajani's Pridemate
 2 Tithe Taker
@@ -94,10 +99,10 @@
 2 Skymarcher Aspirant
 2 Venerated Loxodon
 2 Law-Rune Enforcer
-3 Law-Rune Enforcer
 3 Hunted Witness
 3 Venerated Loxodon
 3 Dauntless Bodyguard
+3 Law-Rune Enforcer
 3 Skymarcher Aspirant
 4 Benalish Marshal
 4 Venerated Loxodon
