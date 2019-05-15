@@ -6,6 +6,7 @@
 1 Sacred Foundry
 1 Temple of Plenty
 1 Rugged Prairie
+1 Overwhelming Splendor
 1 Sphere of Safety
 1 Ghostly Prison
 1 Runed Halo
@@ -18,7 +19,6 @@
 1 Temple of Triumph
 1 Phyrexian Unlife
 1 Dovescape
-1 Overwhelming Splendor
 1 Form of the Dragon
 1 Lotus Bloom
 1 Enduring Ideal
@@ -63,17 +63,17 @@
 8 Plains
 9 Plains
 10 Plains
-1 Mikokoro, Center of the Sea
-1 Geier Reach Sanitarium
 1 Polluted Delta
 1 Watery Grave
+1 Disrupting Shoal
 1 Engulf the Shore
 1 Narset, Parter of Veils
+1 Notion Thief
 1 Vapor Snag
-1 Disrupting Shoal
 1 Commandeer
 1 Lore Broker
 1 Commit / Memory
+1 Geier Reach Sanitarium
 1 Vendilion Clique
 1 Spell Pierce
 1 Snapback
@@ -82,8 +82,7 @@
 1 Day's Undoing
 1 Remand
 1 Spell Snare
-1 Notion Thief
-2 Unsubstantiate
+1 Mikokoro, Center of the Sea
 2 Polluted Delta
 2 Watery Grave
 2 Disrupting Shoal
@@ -97,6 +96,7 @@
 2 Spell Snare
 2 Geier Reach Sanitarium
 2 Spell Pierce
+2 Unsubstantiate
 2 Island
 2 Lore Broker
 2 Day's Undoing
@@ -110,13 +110,13 @@
 3 Island
 3 Mistvein Borderpost
 3 Vendilion Clique
-4 Narset, Parter of Veils
 4 Polluted Delta
 4 Disrupting Shoal
 4 Mistvein Borderpost
 4 Lore Broker
 4 Island
 4 Day's Undoing
+4 Narset, Parter of Veils
 5 Island
 6 Island
 7 Island

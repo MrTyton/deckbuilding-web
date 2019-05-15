@@ -21,3 +21,22 @@
 |2 [Kraul Harpooner](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452886) |2 [Prison Realm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460953)|                                                                                             |1 [Gideon Blackblade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463943)          |
 |                                                                                             |                                                                                         |                                                                                             |1 [Vivien Reid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447344)                |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                        Maindeck Card                                         |*n*<sup>th</sup> copy|                                         Sideboard Card                                         |
+|--------------------:|----------------------------------------------------------------------------------------------|--------------------:|------------------------------------------------------------------------------------------------|
+|                    1|[Dauntless Bodyguard](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442902)|                    1|[Unbreakable Formation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457173)|
+|                    1|[Snubhorn Sentry](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439680)    |                    1|[Ajani's Welcome](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447142)      |
+|                    1|[Benalish Marshal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442894)   |                    2|[Unbreakable Formation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457173)|
+|                    2|[Dauntless Bodyguard](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442902)|                    3|[Baffling End](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439658)         |
+|                    2|[Benalish Marshal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442894)   |                    3|[Kraul Harpooner](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452886)      |
+|                    2|[Snubhorn Sentry](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439680)    |                     |                                                                                                |
+|                    3|[Benalish Marshal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442894)   |                     |                                                                                                |
+|                    3|[Snubhorn Sentry](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439680)    |                     |                                                                                                |
+|                    3|[Dauntless Bodyguard](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442902)|                     |                                                                                                |
+|                    4|[Snubhorn Sentry](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439680)    |                     |                                                                                                |
+|                    4|[Dauntless Bodyguard](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442902)|                     |                                                                                                |
+|                   10|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)             |                     |                                                                                                |
+|                   11|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)             |                     |                                                                                                |
+

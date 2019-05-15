@@ -25,3 +25,17 @@
 |3 [Burrenton Forge-Tender](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438580)|2 [Choke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45431)         |2 [Natural State](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407646)|
 |2 [Knight of Autumn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452933)      |3 [Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)|3 [Path to Exile](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220511)|
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                           Maindeck Card                                            |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
+|--------------------:|----------------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
+|                    1|Ajani, Caller of the Pride                                                                          |                    1|[Deputy of Detention](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457309)|
+|                    1|[Kasmina, Enigmatic Mentor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460983)|                    2|[Deputy of Detention](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457309)|
+|                    1|Ajani Steadfast                                                                                     |                    4|[Deputy of Detention](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457309)|
+|                    2|[Horizon Canopy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409571)           |                    3|[Deputy of Detention](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457309)|
+|                    3|[Courser of Kruphix](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442153)       |                     |                                                                                              |
+|                    3|[Horizon Canopy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409571)           |                     |                                                                                              |
+|                    3|[Teferi, Time Raveler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461148)     |                     |                                                                                              |
+|                    4|[Courser of Kruphix](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442153)       |                     |                                                                                              |
+

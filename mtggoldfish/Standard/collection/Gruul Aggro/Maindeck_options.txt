@@ -7,29 +7,31 @@
 2 Ghitu Lavarunner
 3 Ghitu Lavarunner
 4 Ghitu Lavarunner
-12 Mountain
 3 Fanatical Firebrand
-1 Wizard's Lightning
+12 Mountain
 1 Light Up the Stage
 2 Light Up the Stage
 3 Light Up the Stage
+1 Wizard's Lightning
 4 Light Up the Stage
 1 Experimental Frenzy
 1 Viashino Pyromancer
 2 Wizard's Lightning
 2 Viashino Pyromancer
-3 Wizard's Lightning
 3 Viashino Pyromancer
-4 Viashino Pyromancer
-4 Kraul Harpooner
-4 Wizard's Lightning
 4 Fanatical Firebrand
+3 Wizard's Lightning
+4 Viashino Pyromancer
 1 Runaway Steam-Kin
 2 Runaway Steam-Kin
 3 Runaway Steam-Kin
 4 Runaway Steam-Kin
+4 Kraul Harpooner
 2 Experimental Frenzy
+4 Wizard's Lightning
 1 Blood Crypt
+3 Experimental Frenzy
+4 Experimental Frenzy
 1 Dragonskull Summit
 2 Dragonskull Summit
 2 Blood Crypt
@@ -41,26 +43,23 @@
 3 Blood Crypt
 3 Rix Maadi Reveler
 4 Blood Crypt
-3 Experimental Frenzy
-4 Experimental Frenzy
 4 Rix Maadi Reveler
 1 Skewer the Critics
+2 Skewer the Critics
 1 Legion Warboss
 2 Legion Warboss
 3 Legion Warboss
-2 Skewer the Critics
+1 Chandra, Fire Artisan
+2 Chandra, Fire Artisan
 1 Carnival/Carnage
 2 Carnival/Carnage
 1 Sarkhan the Masterless
-1 Chandra, Fire Artisan
 2 Sarkhan the Masterless
 2 Forest
-2 Chandra, Fire Artisan
 1 Domri, Anarch of Bolas
 1 Risk Factor
 2 Risk Factor
 3 Risk Factor
-3 Carnival/Carnage
 3 Lava Coil
 3 Gruul Guildgate
 4 Dire Fleet Daredevil
@@ -75,11 +74,12 @@
 2 Zhur-Taa Goblin
 3 Zhur-Taa Goblin
 4 Zhur-Taa Goblin
+3 Carnival/Carnage
 1 Llanowar Elves
 2 Llanowar Elves
 3 Llanowar Elves
-4 Llanowar Elves
 4 Forest
+4 Llanowar Elves
 5 Forest
 6 Forest
 3 Skewer the Critics
@@ -99,18 +99,28 @@
 1 Banefire
 2 Vivien, Champion of the Wilds
 2 Siege-Gang Commander
-1 Grand Warlord Radha
 1 Krenko, Tin Street Kingpin
+1 Grand Warlord Radha
 1 Living Twister
 1 Chandra's Pyrohelix
-2 Grand Warlord Radha
 2 Krenko, Tin Street Kingpin
+2 Grand Warlord Radha
 2 Living Twister
 3 Krenko, Tin Street Kingpin
+4 Chandra, Fire Artisan
 4 Pelt Collector
 4 Skewer the Critics
 4 Risk Factor
-4 Chandra, Fire Artisan
+1 Ral, Storm Conduit
+1 Burning Prophet
+1 Sulfur Falls
+1 Steam Vents
+2 Steam Vents
+2 Sulfur Falls
+3 Steam Vents
+3 Sulfur Falls
+4 Steam Vents
+4 Sulfur Falls
 1 Nissa, Who Shakes the World
 2 Nissa, Who Shakes the World
 8 Forest

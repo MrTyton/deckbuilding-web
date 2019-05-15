@@ -91,11 +91,11 @@
 2 Dark Confidant
 3 Dark Confidant
 3 Fatal Push
-4 Shambling Vent
 4 Liliana of the Veil
 4 Thoughtseize
 4 Dark Confidant
 4 Fatal Push
+4 Shambling Vent
 1 Hallowed Fountain
 1 Creeping Tar Pit
 1 Kolaghan's Command
@@ -124,6 +124,7 @@
 1 Lightning Helix
 1 Safewright Quest
 1 Pillar of the Paruns
+2 Mana Confluence
 2 Izzet Charm
 2 Bring to Light
 2 Windswept Heath
@@ -132,7 +133,6 @@
 2 Blooming Marsh
 2 Pillar of the Paruns
 2 Lightning Helix
-2 Mana Confluence
 2 Safewright Quest
 2 Birds of Paradise
 2 Niv-Mizzet Reborn
@@ -229,18 +229,18 @@
 2 Ghostly Prison
 2 Nevermore
 2 Sphere of Safety
-3 Glacial Fortress
 3 Detention Sphere
+3 Glacial Fortress
 3 Ghostly Prison
 3 Runed Halo
 3 Temple of Enlightenment
 3 Nevermore
-4 Glacial Fortress
 4 Plains
 4 Spreading Seas
 4 Nevermore
 4 Detention Sphere
 4 Ghostly Prison
+4 Glacial Fortress
 5 Plains
 6 Plains
 7 Plains
