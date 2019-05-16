@@ -20,10 +20,10 @@
 2 Careful Study
 3 Careful Study
 3 Verdant Catacombs
-1 Daze
 1 Force of Will
-2 Daze
+1 Daze
 2 Force of Will
+2 Daze
 3 Force of Will
 4 Force of Will
 1 Ponder
@@ -47,8 +47,6 @@
 2 Collective Brutality
 1 Liliana, the Last Hope
 1 Inquisition of Kozilek
-2 Duress
-3 Badlands
 1 Scalding Tarn
 1 Inkwell Leviathan
 1 Izzet Charm
@@ -56,8 +54,10 @@
 2 Scalding Tarn
 2 Izzet Charm
 3 Scalding Tarn
-1 Tropical Island
+2 Duress
+3 Badlands
 1 Misty Rainforest
+1 Tropical Island
 2 Misty Rainforest
 3 Misty Rainforest
 4 Misty Rainforest
@@ -73,26 +73,26 @@
 4 Show and Tell
 1 Baleful Strix
 1 Monastery Mentor
-1 Tundra
-1 Snapcaster Mage
 1 Swords to Plowshares
+1 Snapcaster Mage
+1 Tundra
 1 Jace, the Mind Sculptor
 1 Deep Analysis
 2 Baleful Strix
-2 Tundra
 2 Monastery Mentor
 2 Swords to Plowshares
 2 Snapcaster Mage
+2 Tundra
 2 Jace, the Mind Sculptor
 3 Monastery Mentor
 3 Swords to Plowshares
 3 Baleful Strix
 4 Swords to Plowshares
 4 Baleful Strix
-1 Chrome Mox
-1 Emrakul, the Aeons Torn
 1 Shallow Grave
 1 Goryo's Vengeance
+1 Chrome Mox
+1 Emrakul, the Aeons Torn
 1 Children of Korlis
 1 Necromancy
 2 Chrome Mox
@@ -110,9 +110,9 @@
 2 Hymn to Tourach
 2 Lake of the Dead
 2 Grave Titan
+3 Hymn to Tourach
 3 Collective Brutality
 3 Grave Titan
-3 Hymn to Tourach
 4 Hymn to Tourach
 4 Swamp
 4 Grave Titan

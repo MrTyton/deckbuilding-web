@@ -6,10 +6,9 @@
 1 Sacred Foundry
 1 Temple of Plenty
 1 Rugged Prairie
-1 Overwhelming Splendor
 1 Sphere of Safety
-1 Ghostly Prison
 1 Runed Halo
+1 Ghostly Prison
 1 Oblivion Ring
 1 Porphyry Nodes
 1 Suppression Field
@@ -19,6 +18,7 @@
 1 Temple of Triumph
 1 Phyrexian Unlife
 1 Dovescape
+1 Overwhelming Splendor
 1 Form of the Dragon
 1 Lotus Bloom
 1 Enduring Ideal
@@ -31,6 +31,7 @@
 2 Ghostly Prison
 2 Runed Halo
 2 Suppression Field
+2 Porphyry Nodes
 2 Leyline of Sanctity
 2 Enduring Ideal
 2 Phyrexian Unlife
@@ -38,7 +39,6 @@
 2 Form of the Dragon
 2 Lotus Bloom
 2 Temple of Triumph
-2 Porphyry Nodes
 3 Plains
 3 Runed Halo
 3 Ghostly Prison
@@ -83,11 +83,12 @@
 1 Remand
 1 Spell Snare
 1 Mikokoro, Center of the Sea
-2 Polluted Delta
 2 Watery Grave
+2 Polluted Delta
 2 Disrupting Shoal
 2 Narset, Parter of Veils
 2 Vendilion Clique
+2 Spell Pierce
 2 Commandeer
 2 Notion Thief
 2 Remand
@@ -95,7 +96,6 @@
 2 Snapback
 2 Spell Snare
 2 Geier Reach Sanitarium
-2 Spell Pierce
 2 Unsubstantiate
 2 Island
 2 Lore Broker

@@ -25,15 +25,6 @@
 2 Incubation / Incongruity
 2 Sleep
 3 Sleep
-1 Plaguecrafter
-1 The Eldest Reborn
-1 Vraska, Relic Seeker
-1 Duress
-2 Plaguecrafter
-2 The Eldest Reborn
-2 Duress
-3 Thrashing Brontodon
-3 Duress
 1 Unbreakable Formation
 1 Seal Away
 1 Settle the Wreckage
@@ -45,10 +36,19 @@
 2 Settle the Wreckage
 2 Crushing Canopy
 2 Nullhide Ferox
+3 Settle the Wreckage
 3 Crushing Canopy
 3 Conclave Tribunal
 3 Nullhide Ferox
-3 Settle the Wreckage
+1 Plaguecrafter
+1 The Eldest Reborn
+1 Vraska, Relic Seeker
+1 Duress
+2 Plaguecrafter
+2 The Eldest Reborn
+2 Duress
+3 Thrashing Brontodon
+3 Duress
 1 Thorn Lieutenant
 1 Vine Mare
 1 Shapers' Sanctuary
@@ -58,8 +58,8 @@
 2 Blanchwood Armor
 2 Shapers' Sanctuary
 3 Thorn Lieutenant
-3 Shapers' Sanctuary
 3 Vine Mare
+3 Shapers' Sanctuary
 3 Blanchwood Armor
 4 Thorn Lieutenant
 3 Lava Coil

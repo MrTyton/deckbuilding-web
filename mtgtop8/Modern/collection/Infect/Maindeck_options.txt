@@ -1,12 +1,12 @@
 2 Verdant Catacombs
-4 Windswept Heath
 1 Rancor
+4 Windswept Heath
+3 Verdant Catacombs
 1 Ichorclaw Myr
 2 Spell Pierce
-4 Groundswell
-3 Verdant Catacombs
 3 Misty Rainforest
 4 Wooded Foothills
+4 Groundswell
 1 Mishra's Bauble
 2 Mishra's Bauble
 3 Mishra's Bauble
@@ -14,8 +14,6 @@
 3 Breeding Pool
 2 Rancor
 4 Verdant Catacombs
-1 Temple Garden
-2 Ichorclaw Myr
 3 Forest
 1 Twisted Image
 1 Viridian Corrupter
@@ -38,11 +36,13 @@
 2 Fatal Push
 3 Plague Stinger
 3 Overgrown Tomb
-3 Abrupt Decay
 3 Fatal Push
+3 Abrupt Decay
 4 Plague Stinger
 4 Overgrown Tomb
 1 Wild Defiance
+1 Temple Garden
+2 Ichorclaw Myr
 1 Street Wraith
 1 Contentious Plan
 2 Street Wraith

@@ -27,8 +27,8 @@
 
 |*n*<sup>th</sup> copy|                                          Maindeck Card                                           |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
 |--------------------:|--------------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
-|                    1|[Telling Time](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=132071)           |                    1|[Nephalia Academy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414512)   |
-|                    1|[Elixir of Immortality](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=222711)  |                    1|[Gigadrowse](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=96864)          |
+|                    1|[Telling Time](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=132071)           |                    1|[Gigadrowse](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=96864)          |
+|                    1|[Elixir of Immortality](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=222711)  |                    1|[Nephalia Academy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414512)   |
 |                    1|[Jace Beleren](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=185816)           |                    1|[Spreading Seas](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=190405)     |
 |                    2|[Spell Snare](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446100)            |                    1|[Wipe Away](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=118911)          |
 |                    2|[Walk the Aeons](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=110517)         |                    1|[Exhaustion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=84065)          |

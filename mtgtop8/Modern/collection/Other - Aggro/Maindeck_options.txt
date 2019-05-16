@@ -5,10 +5,10 @@
 1 Buried Ruin
 1 Forest
 1 Karn, Scion of Urza
-1 Chalice of the Void
 1 Batterskull
 1 Wurmcoil Engine
 1 Skysovereign, Consul Flagship
+1 Chalice of the Void
 1 Inventors' Fair
 1 Astral Cornucopia
 1 Blightsteel Colossus
@@ -25,9 +25,9 @@
 1 Kuldotha Forgemaster
 2 Zhalfirin Void
 2 Lightning Greaves
+2 Field of Ruin
 2 Karn, Scion of Urza
 2 Chalice of the Void
-2 Field of Ruin
 2 Kuldotha Forgemaster
 2 Everflowing Chalice
 2 Forest
@@ -60,8 +60,8 @@
 8 Forest
 1 Deprive
 1 Sleight of Hand
-1 Opt
 1 Serum Visions
+1 Opt
 1 Cryptic Command
 1 Thing in the Ice
 1 Vapor Snag
@@ -70,6 +70,7 @@
 1 Pteramander
 1 Snapcaster Mage
 1 Disrupting Shoal
+2 Serum Visions
 2 Sleight of Hand
 2 Snow-Covered Island
 2 Cryptic Command
@@ -81,21 +82,20 @@
 2 Thing in the Ice
 2 Disrupting Shoal
 2 Opt
-2 Serum Visions
 3 Vapor Snag
 3 Snow-Covered Island
+3 Serum Visions
 3 Psionic Blast
 3 Thing in the Ice
 3 Snapcaster Mage
 3 Remand
 3 Disrupting Shoal
 3 Opt
-3 Serum Visions
 3 Pteramander
 3 Sleight of Hand
 4 Pteramander
-4 Snow-Covered Island
 4 Serum Visions
+4 Snow-Covered Island
 4 Remand
 4 Opt
 4 Thing in the Ice
