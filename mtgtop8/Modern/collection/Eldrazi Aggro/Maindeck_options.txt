@@ -1,8 +1,13 @@
+3 Eldrazi Obligator
 3 Mutavault
-1 Endbringer
+1 Sea Gate Wreckage
 4 Eldrazi Obligator
 1 Smuggler's Copter
 4 Dismember
+1 Lightning Bolt
+2 Lightning Bolt
+3 Lightning Bolt
+4 Lightning Bolt
 1 Noble Hierarch
 1 Forest
 1 Ancient Stirrings
@@ -12,10 +17,6 @@
 3 Noble Hierarch
 4 Ancient Stirrings
 4 Noble Hierarch
-1 Lightning Bolt
-2 Lightning Bolt
-3 Lightning Bolt
-4 Lightning Bolt
 1 Birds of Paradise
 1 Grove of the Burnwillows
 1 Bloodbraid Elf
@@ -33,33 +34,13 @@
 3 Karplusan Forest
 3 Grove of the Burnwillows
 4 Karplusan Forest
-1 Sea Gate Wreckage
 1 Zhalfirin Void
 2 Zhalfirin Void
-2 Mountain
-3 Mountain
 3 Wastes
-3 Cavern of Souls
-1 Kessig Wolf Run
-3 Bloodbraid Elf
-3 Forest
-4 Bloodbraid Elf
-4 Grove of the Burnwillows
-3 Zhalfirin Void
-1 Sulfurous Springs
-1 Ramunap Ruins
-2 Sulfurous Springs
-2 Ramunap Ruins
-3 Ramunap Ruins
-3 Sulfurous Springs
-4 Ramunap Ruins
 1 All Is Dust
 1 Walking Ballista
 2 Walking Ballista
 1 Blast Zone
-2 Blast Zone
-1 Karn, Scion of Urza
-1 Relic of Progenitus
 1 Urza's Mine
 1 Urza's Tower
 1 Urza's Power Plant
@@ -77,18 +58,89 @@
 4 Urza's Mine
 4 Urza's Tower
 4 Urza's Power Plant
-4 Cavern of Souls
+1 Relic of Progenitus
+2 Mountain
+3 Mountain
+3 Cavern of Souls
+1 Kessig Wolf Run
+3 Bloodbraid Elf
+3 Forest
+4 Bloodbraid Elf
+4 Grove of the Burnwillows
+3 Zhalfirin Void
+1 Sulfurous Springs
+1 Ramunap Ruins
+2 Sulfurous Springs
+2 Ramunap Ruins
+3 Ramunap Ruins
+3 Sulfurous Springs
+4 Ramunap Ruins
+2 Blast Zone
+1 Karn, Scion of Urza
+1 Karn, the Great Creator
+2 Relic of Progenitus
+3 Walking Ballista
+4 Walking Ballista
 1 Chandra, Torch of Defiance
 4 Sulfurous Springs
-1 Gruul Spellbreaker
-2 Gruul Spellbreaker
 3 Gemstone Caverns
+2 All Is Dust
+1 Ugin, the Ineffable
+2 Ugin, the Ineffable
+2 Karn, the Great Creator
+3 Karn, the Great Creator
 1 Endless One
 2 Endless One
 3 Endless One
+1 Gruul Spellbreaker
+2 Gruul Spellbreaker
+1 Batterskull
+2 Sea Gate Wreckage
+4 Cavern of Souls
+1 Mind Stone
+2 Mind Stone
+1 Warping Wail
+1 Oblivion Sower
+1 Ugin, the Spirit Dragon
+2 Oblivion Sower
+2 Batterskull
+1 Basilisk Collar
+2 Karn, Scion of Urza
+2 Chandra, Torch of Defiance
+1 Oblivion Stone
+1 Gemstone Mine
+2 Gemstone Mine
+3 Sea Gate Wreckage
+1 Radiant Fountain
+4 Blinkmoth Nexus
+1 Flame Slash
+2 Flame Slash
+3 Scavenging Ooze
+4 Scavenging Ooze
+3 Blast Zone
+4 Blast Zone
+1 Spatial Contortion
+1 Tomb of the Spirit Dragon
+2 Spatial Contortion
+3 Scavenger Grounds
+3 Mind Stone
+4 Mind Stone
+1 Hazoret the Fervent
+3 Relic of Progenitus
+4 Relic of Progenitus
+4 Mountain
+1 Unclaimed Territory
+2 Unclaimed Territory
+3 Unclaimed Territory
+4 Mutavault
+4 Unclaimed Territory
+1 Ulamog, the Ceaseless Hunger
+3 Endbringer
+4 Karn, the Great Creator
 1 Yavimaya Coast
 1 Brushland
 1 Path to Exile
+1 Eternal Witness
 1 Eldrazi Skyspawner
 1 Temple Garden
 1 Windswept Heath
@@ -114,64 +166,9 @@
 3 Eldrazi Displacer
 3 Eldrazi Skyspawner
 3 Windswept Heath
+4 Brushland
+4 Path to Exile
 4 Eldrazi Displacer
 4 Windswept Heath
 4 Eldrazi Skyspawner
 4 Drowner of Hope
-1 Karn, the Great Creator
-2 Sea Gate Wreckage
-2 Relic of Progenitus
-1 Batterskull
-3 Walking Ballista
-4 Walking Ballista
-1 Mind Stone
-2 Mind Stone
-1 Warping Wail
-1 Oblivion Sower
-1 Ugin, the Spirit Dragon
-2 Oblivion Sower
-2 Batterskull
-1 Basilisk Collar
-2 Karn, Scion of Urza
-2 All Is Dust
-2 Chandra, Torch of Defiance
-1 Oblivion Stone
-1 Gemstone Mine
-2 Gemstone Mine
-3 Sea Gate Wreckage
-1 Island
-2 Thalia, Guardian of Thraben
-3 Thalia, Guardian of Thraben
-1 Radiant Fountain
-4 Blinkmoth Nexus
-1 Flame Slash
-2 Flame Slash
-3 Scavenging Ooze
-4 Scavenging Ooze
-3 Blast Zone
-4 Blast Zone
-1 Spatial Contortion
-1 Tomb of the Spirit Dragon
-2 Spatial Contortion
-3 Scavenger Grounds
-3 Mind Stone
-4 Mind Stone
-1 Hazoret the Fervent
-3 Relic of Progenitus
-4 Relic of Progenitus
-4 Mountain
-1 Unclaimed Territory
-2 Unclaimed Territory
-3 Unclaimed Territory
-4 Mutavault
-4 Unclaimed Territory
-1 Eternal Witness
-4 Brushland
-4 Path to Exile
-1 Ugin, the Ineffable
-1 Ulamog, the Ceaseless Hunger
-2 Ugin, the Ineffable
-2 Karn, the Great Creator
-3 Endbringer
-3 Karn, the Great Creator
-4 Karn, the Great Creator

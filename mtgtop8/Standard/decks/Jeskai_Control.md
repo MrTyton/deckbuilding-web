@@ -144,7 +144,7 @@
 |                    4|[Clifftop Retreat](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443127)          |                     |                                                                                                     |
 |                    1|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)                    |                     |                                                                                                     |
 |                    1|[Nexus of Fate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=450253)             |                     |                                                                                                     |
-|                    2|[Settle the Wreckage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435186)       |                     |                                                                                                     |
 |                    2|[Cleansing Nova](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447145)            |                     |                                                                                                     |
+|                    2|[Settle the Wreckage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435186)       |                     |                                                                                                     |
 |                    4|[Teferi, Hero of Dominaria](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443095) |                     |                                                                                                     |
 
