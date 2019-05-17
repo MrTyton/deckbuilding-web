@@ -49,7 +49,7 @@
 |                    2|[Scalding Tarn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405107)          |                    2|[Voracious Wurm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370814)         |
 |                    3|[Flooded Strand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405098)         |                    3|[Voracious Wurm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370814)         |
 |                    1|[Snow-Covered Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121130)    |                    4|[Voracious Wurm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370814)         |
-|                    1|[Desperate Ritual](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=80275)        |                     |                                                                                                  |
 |                    1|[Snow-Covered Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121192)    |                     |                                                                                                  |
+|                    1|[Desperate Ritual](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=80275)        |                     |                                                                                                  |
 |                    3|[Autochthon Wurm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=89096)         |                     |                                                                                                  |
 

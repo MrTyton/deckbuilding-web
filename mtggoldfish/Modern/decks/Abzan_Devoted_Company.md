@@ -88,7 +88,7 @@
 |                    1|[Murderous Redcap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370518)         |                     |                                                                                                       |
 |                    3|[Wooded Foothills](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405116)         |                     |                                                                                                       |
 |                    4|[Misty Rainforest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405102)         |                     |                                                                                                       |
-|                    4|[Knight of the Reliquary](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=189145)  |                     |                                                                                                       |
 |                    3|[Tireless Tracker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409997)         |                     |                                                                                                       |
 |                    5|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)                   |                     |                                                                                                       |
+|                    4|[Knight of the Reliquary](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=189145)  |                     |                                                                                                       |
 

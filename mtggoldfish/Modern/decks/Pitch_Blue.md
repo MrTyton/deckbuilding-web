@@ -34,6 +34,6 @@
 |--------------------:|-------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
 |                    1|[Blast Zone](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461171)|                    1|[Notion Thief](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442200)       |
 |                    3|[Snapback](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=108897)  |                    1|[Spell Pierce](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425876)       |
-|                     |                                                                                     |                    2|[Engulf the Shore](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438445)   |
 |                     |                                                                                     |                    3|[Relic of Progenitus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174824)|
+|                     |                                                                                     |                    2|[Engulf the Shore](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438445)   |
 

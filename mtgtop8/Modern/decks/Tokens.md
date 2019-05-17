@@ -60,9 +60,9 @@
 |                    3|[Path to Exile](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220511)         |                     |                                                                                              |
 |                    3|[Arid Mesa](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405092)             |                     |                                                                                              |
 |                    3|[Sorin, Solemn Visitor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386672) |                     |                                                                                              |
-|                    4|[Marsh Flats](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405101)           |                     |                                                                                              |
 |                    4|[Godless Shrine](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405099)        |                     |                                                                                              |
 |                    4|[Auriok Champion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=72921)        |                     |                                                                                              |
 |                    4|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)                |                     |                                                                                              |
 |                    4|[Path to Exile](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220511)         |                     |                                                                                              |
+|                    4|[Marsh Flats](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405101)           |                     |                                                                                              |
 

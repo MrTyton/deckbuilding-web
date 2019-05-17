@@ -31,6 +31,6 @@
 
 |*n*<sup>th</sup> copy|Maindeck Card|*n*<sup>th</sup> copy|                                    Sideboard Card                                    |
 |---------------------|-------------|--------------------:|--------------------------------------------------------------------------------------|
-|                     |             |                    1|[Gutterbones](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457220)|
 |                     |             |                    2|[Lava Coil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452858)  |
+|                     |             |                    1|[Gutterbones](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457220)|
 
