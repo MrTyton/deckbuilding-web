@@ -1,6 +1,6 @@
 1 Abrupt Decay
 2 Assassin's Trophy
-4 Blackcleave Cliffs
+3 Blackcleave Cliffs
 1 Blood Crypt
 4 Bloodbraid Elf
 3 Bloodstained Mire
@@ -10,7 +10,7 @@
 1 Forest
 4 Inquisition of Kozilek
 2 Kolaghan's Command
-3 Lightning Bolt
+4 Lightning Bolt
 4 Liliana of the Veil
 1 Maelstrom Pulse
 1 Mountain
@@ -30,5 +30,6 @@ Sideboard
 1 Engineered Explosives
 3 Fulminator Mage
 1 Kitchen Finks
-3 Leyline of the Void
+2 Leyline of the Void
+1 Maelstrom Pulse
 2 Nihil Spellbomb
