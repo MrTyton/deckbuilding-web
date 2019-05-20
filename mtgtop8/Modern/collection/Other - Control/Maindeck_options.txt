@@ -58,14 +58,14 @@
 2 Chandra, Torch of Defiance
 2 Ensnaring Bridge
 2 Mountain
-3 Simian Spirit Guide
 3 Chalice of the Void
 3 Blood Moon
 3 Ensnaring Bridge
+3 Simian Spirit Guide
 3 Chandra, Torch of Defiance
-4 Simian Spirit Guide
 4 Chalice of the Void
 4 Blood Moon
+4 Simian Spirit Guide
 4 Ensnaring Bridge
 1 Jace, the Mind Sculptor
 1 Fetid Heath
@@ -112,16 +112,17 @@
 4 Goryo's Vengeance
 1 Windswept Heath
 1 Sacred Foundry
-1 Desperate Ritual
+1 Gemstone Caverns
 1 Ramunap Ruins
 1 Purphoros, God of the Forge
-1 Gemstone Caverns
+1 Desperate Ritual
 1 Arid Mesa
 1 Rugged Prairie
 1 Ajani Vengeant
 1 Goblin Rabblemaster
 1 Legion Warboss
 1 Pyretic Ritual
+2 Gemstone Caverns
 2 Ramunap Ruins
 2 Hazoret the Fervent
 2 Sacred Foundry
@@ -129,7 +130,6 @@
 2 Abrade
 2 Rugged Prairie
 2 Arid Mesa
-2 Gemstone Caverns
 2 Desperate Ritual
 2 Legion Warboss
 3 Ramunap Ruins
@@ -152,10 +152,10 @@
 1 Izzet Charm
 1 Bring to Light
 1 Countersquall
-1 Domri, Anarch of Bolas
 1 Blooming Marsh
 1 Stomping Ground
 1 Overgrown Tomb
+1 Domri, Anarch of Bolas
 1 Sin Collector
 1 Assassin's Trophy
 1 Unmoored Ego
@@ -167,11 +167,11 @@
 1 Thought Erasure
 1 Pillar of the Paruns
 1 Lightning Helix
+2 Domri, Anarch of Bolas
 2 Izzet Charm
 2 Bring to Light
 2 Windswept Heath
 2 Assassin's Trophy
-2 Domri, Anarch of Bolas
 2 Safewright Quest
 2 Pillar of the Paruns
 2 Blooming Marsh

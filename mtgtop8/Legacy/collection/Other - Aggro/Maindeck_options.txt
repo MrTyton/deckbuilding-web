@@ -2,7 +2,6 @@
 1 Underground Sea
 1 Marsh Flats
 1 Liliana, the Last Hope
-1 Mutavault
 1 Baleful Strix
 1 Hymn to Tourach
 1 Diabolic Edict
@@ -11,6 +10,7 @@
 1 Swamp
 1 Yuriko, the Tiger's Shadow
 1 Bloodstained Mire
+1 Mutavault
 1 Wasteland
 1 Pteramander
 1 Consign / Oblivion
@@ -59,8 +59,8 @@
 1 Elvish Mystic
 2 Llanowar Elves
 2 Forest
-2 Windswept Heath
 2 Bayou
+2 Windswept Heath
 2 Gaea's Cradle
 2 Birchlore Rangers
 2 Green Sun's Zenith
@@ -92,12 +92,12 @@
 4 Glimpse of Nature
 4 Green Sun's Zenith
 4 Nettle Sentinel
-1 Sylvan Library
+1 Umezawa's Jitte
 1 Taiga
 1 Tropical Island
 1 Shardless Agent
 1 Tarmogoyf
-1 Umezawa's Jitte
+1 Sylvan Library
 1 Guided Passage
 1 Grove of the Burnwillows
 1 Bloodbraid Elf
@@ -105,9 +105,9 @@
 1 Punishing Fire
 1 Noble Hierarch
 1 Raging Ravine
+2 Tropical Island
 2 Misty Rainforest
 2 Shardless Agent
-2 Tropical Island
 2 Tarmogoyf
 2 Guided Passage
 2 Punishing Fire
