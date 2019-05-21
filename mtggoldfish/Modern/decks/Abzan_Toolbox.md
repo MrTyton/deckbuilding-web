@@ -32,3 +32,26 @@
 |                                                                                            |1 [Sin Collector](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=368968)     |                                                                                              |
 |                                                                                            |1 [Tireless Tracker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409997)  |                                                                                              |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                          Maindeck Card                                          |*n*<sup>th</sup> copy|                                            Sideboard Card                                             |
+|--------------------:|-------------------------------------------------------------------------------------------------|--------------------:|-------------------------------------------------------------------------------------------------------|
+|                    1|[Walking Ballista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423848)      |                    1|[Path to Exile](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220511)               |
+|                    1|[Selfless Spirit](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414332)       |                    1|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)         |
+|                    1|[Tidehollow Sculler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=175054)    |                    1|[Stony Silence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=247425)               |
+|                    1|[Collected Company](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394519)     |                    1|[Eidolon of Rhetoric](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=380409)         |
+|                    1|[Rhonas the Indomitable](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426884)|                    1|[Qasali Pridemage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=179556)            |
+|                    1|[Viscera Seer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376569)          |                    1|[Kambal, Consul of Allocation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417756)|
+|                    1|[Anafenza, the Foremost](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386476)|                    1|[Worship](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=25553)                      |
+|                    2|[Kitchen Finks](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370458)         |                    1|[Burrenton Forge-Tender](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438580)      |
+|                    2|[Collected Company](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394519)     |                    1|[Orzhov Pontiff](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=96844)               |
+|                    2|[Gavony Township](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=233242)       |                     |                                                                                                       |
+|                    3|[Collected Company](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394519)     |                     |                                                                                                       |
+|                    3|[Eternal Witness](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=51628)        |                     |                                                                                                       |
+|                    3|[Kitchen Finks](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370458)         |                     |                                                                                                       |
+|                    4|[Windswept Heath](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405115)       |                     |                                                                                                       |
+|                    4|[Verdant Catacombs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405113)     |                     |                                                                                                       |
+|                    4|[Kitchen Finks](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370458)         |                     |                                                                                                       |
+|                    4|[Collected Company](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394519)     |                     |                                                                                                       |
+

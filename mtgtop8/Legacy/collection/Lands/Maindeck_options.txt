@@ -1,15 +1,16 @@
-1 Barbarian Ring
 4 Gamble
+1 Barbarian Ring
 2 Sylvan Library
-4 Dark Depths
 2 Ghost Quarter
+4 Dark Depths
 1 Manabond
+1 Blast Zone
 1 Riftstone Portal
 1 Engineered Explosives
 4 Rishadan Port
-1 Blast Zone
 2 Engineered Explosives
 3 Ghost Quarter
+1 Mishra's Factory
 2 Blast Zone
 3 Maze of Ith
 1 Reclamation Sage
@@ -19,7 +20,6 @@
 1 Krosan Grip
 1 Petrified Field
 2 Reclamation Sage
-1 Mishra's Factory
 1 Red Elemental Blast
 1 Ray of Revelation
 1 Buried Ruin
@@ -27,9 +27,6 @@
 1 Scattered Groves
 1 Grasping Dunes
 1 Mirri's Guile
-1 Tropical Island
-1 Academy Ruins
-2 Tranquil Thicket
 3 Blast Zone
 3 Sylvan Library
 1 Llanowar Elves
@@ -50,6 +47,7 @@
 1 Green Sun's Zenith
 1 Dryad Arbor
 1 Bayou
+2 Bayou
 2 Nettle Sentinel
 2 Elvish Visionary
 2 Heritage Druid
@@ -84,4 +82,6 @@
 4 Quirion Ranger
 4 Heritage Druid
 4 Wirewood Symbiote
-2 Bayou
+1 Tropical Island
+1 Academy Ruins
+2 Tranquil Thicket

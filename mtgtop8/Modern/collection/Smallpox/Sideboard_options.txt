@@ -1,13 +1,11 @@
-2 Dark Confidant
-1 Ensnaring Bridge
-2 Waste Not
-1 Damping Sphere
-2 Damping Sphere
+1 Fulminator Mage
 1 Nihil Spellbomb
 2 Nihil Spellbomb
-3 Surgical Extraction
-1 Delirium Skeins
+2 Fulminator Mage
+3 Fulminator Mage
 1 Collective Brutality
+1 Dark Confidant
+2 Dark Confidant
 2 Ensnaring Bridge
 1 Cry of the Carnarium
 2 Cry of the Carnarium
@@ -16,8 +14,8 @@
 2 Asylum Visitor
 2 Shadow of Doubt
 3 Asylum Visitor
-4 Surgical Extraction
-4 Fulminator Mage
+3 Surgical Extraction
+1 Delirium Skeins
 3 Dark Confidant
 1 Sorcerous Spyglass
 2 Sorcerous Spyglass
@@ -27,7 +25,6 @@
 1 Extirpate
 1 Fatal Push
 2 Delirium Skeins
-3 Bontu's Last Reckoning
 2 Collective Brutality
 3 Collective Brutality
 3 Nihil Spellbomb
@@ -42,6 +39,17 @@
 2 Consulate Crackdown
 3 Stony Silence
 3 Celestial Purge
+1 Damnation
+1 Ravenous Trap
+1 Hero's Downfall
+1 Mindbreak Trap
+2 Ravenous Trap
+3 Ravenous Trap
+4 Ravenous Trap
+4 Pack Rat
+3 Bontu's Last Reckoning
+4 Surgical Extraction
+4 Fulminator Mage
 1 Languish
 1 Engineered Explosives
 1 Porphyry Nodes
@@ -51,14 +59,5 @@
 2 Kalitas, Traitor of Ghet
 2 Leyline of Sanctity
 2 Porphyry Nodes
-3 Leyline of Sanctity
 4 Leyline of Sanctity
-1 Damnation
-1 Ravenous Trap
-1 Hero's Downfall
-1 Mindbreak Trap
-2 Ravenous Trap
-3 Ravenous Trap
-4 Ravenous Trap
-4 Pack Rat
-3 Ratchet Bomb
+3 Leyline of Sanctity
