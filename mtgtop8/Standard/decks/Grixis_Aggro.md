@@ -48,8 +48,8 @@
 |                    4|[Rekindling Phoenix](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439768)        |                     |                                                                                               |
 |                    1|[Nightveil Sprite](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452798)          |                     |                                                                                               |
 |                    2|[Nightveil Sprite](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452798)          |                     |                                                                                               |
-|                    3|Carnival / Carnage                                                                                   |                     |                                                                                               |
 |                    3|[Nightveil Sprite](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452798)          |                     |                                                                                               |
+|                    3|Carnival / Carnage                                                                                   |                     |                                                                                               |
 |                    3|[Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)                     |                     |                                                                                               |
 |                    4|[Nightveil Sprite](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452798)          |                     |                                                                                               |
 

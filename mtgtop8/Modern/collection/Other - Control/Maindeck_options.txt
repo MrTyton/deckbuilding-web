@@ -88,13 +88,13 @@
 1 Creeping Tar Pit
 1 Obzedat, Ghost Council
 1 Watery Grave
+1 Polluted Delta
 1 Murderous Cut
 1 Jace, Vryn's Prodigy
 1 Goryo's Vengeance
 1 Tasigur, the Golden Fang
 1 Griselbrand
 1 Darkslick Shores
-1 Polluted Delta
 2 Obzedat, Ghost Council
 2 Polluted Delta
 2 Darkslick Shores
@@ -123,8 +123,8 @@
 1 Legion Warboss
 1 Pyretic Ritual
 2 Gemstone Caverns
-2 Ramunap Ruins
 2 Hazoret the Fervent
+2 Ramunap Ruins
 2 Sacred Foundry
 2 Goblin Rabblemaster
 2 Abrade
@@ -132,15 +132,15 @@
 2 Arid Mesa
 2 Desperate Ritual
 2 Legion Warboss
-3 Legion Warboss
 3 Ramunap Ruins
 3 Gemstone Caverns
 3 Arid Mesa
 3 Goblin Rabblemaster
 3 Desperate Ritual
+3 Legion Warboss
 4 Chandra, Torch of Defiance
-4 Arid Mesa
 4 Legion Warboss
+4 Arid Mesa
 4 Goblin Rabblemaster
 4 Desperate Ritual
 1 Kolaghan's Command
@@ -150,14 +150,14 @@
 1 Primal Command
 1 Mana Confluence
 1 Izzet Charm
-1 Countersquall
 1 Blooming Marsh
 1 Stomping Ground
 1 Overgrown Tomb
 1 Domri, Anarch of Bolas
-1 Sin Collector
-1 Assassin's Trophy
 1 Unmoored Ego
+1 Assassin's Trophy
+1 Countersquall
+1 Sin Collector
 1 Forest
 1 Breeding Pool
 1 Birds of Paradise
@@ -219,9 +219,9 @@
 2 Bedevil
 2 Anger of the Gods
 3 Blood Crypt
+3 Mountain
 3 Bloodstained Mire
 3 Bedevil
-3 Mountain
 4 Bloodstained Mire
 4 Swamp
 4 Collective Brutality
@@ -231,8 +231,8 @@
 8 Swamp
 9 Swamp
 1 Faerie Conclave
-1 Nevermore
 1 Negate
+1 Nevermore
 1 Cast Out
 1 Glacial Fortress
 1 Sphere of Safety
@@ -260,24 +260,24 @@
 3 Glacial Fortress
 3 Runed Halo
 3 Nevermore
-4 Plains
 4 Glacial Fortress
 4 Nevermore
 4 Detention Sphere
 4 Ghostly Prison
 4 Spreading Seas
+4 Plains
 5 Plains
 6 Plains
 7 Plains
 8 Plains
 9 Plains
 10 Plains
-1 Finale of Devastation
+1 Scrying Sheets
 1 Acidic Slime
+1 Finale of Devastation
 1 Snow-Covered Forest
 1 Devoted Druid
 1 Vizier of Remedies
-1 Scrying Sheets
 1 Noble Hierarch
 1 Eternal Witness
 1 Trinisphere

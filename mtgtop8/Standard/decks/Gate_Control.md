@@ -38,8 +38,8 @@
 |                    3|[Gateway Plaza](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452997)    |                    2|[Crushing Canopy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452876)   |
 |                    3|Expansion / Explosion                                                                       |                    2|[Sorcerous Spyglass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435407)|
 |                    3|[Growth Spiral](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457322)    |                    2|[Disdainful Stroke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420705) |
-|                    4|[Deafening Clarion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452915)|                    3|[Crushing Canopy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452876)   |
-|                    4|[Gateway Plaza](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452997)    |                    4|[Crushing Canopy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452876)   |
-|                    4|[Azorius Guildgate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376256)|                     |                                                                                             |
+|                    4|[Azorius Guildgate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376256)|                    3|[Crushing Canopy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452876)   |
+|                    4|[Deafening Clarion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452915)|                    4|[Crushing Canopy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452876)   |
+|                    4|[Gateway Plaza](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452997)    |                     |                                                                                             |
 |                    4|[Circuitous Route](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452875) |                     |                                                                                             |
 

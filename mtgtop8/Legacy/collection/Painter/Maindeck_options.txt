@@ -25,17 +25,17 @@
 4 Pyroblast
 1 Jeweled Amulet
 2 Aether Spellbomb
-1 Ethersworn Canonist
-1 Plateau
-1 Smuggler's Copter
-1 Enlightened Tutor
-1 Lion's Eye Diamond
 1 Karn, the Great Creator
+1 Ethersworn Canonist
+1 Smuggler's Copter
+1 Plateau
+1 Lion's Eye Diamond
+1 Enlightened Tutor
 2 Karn, the Great Creator
-2 Plateau
 2 Wooded Foothills
 2 Smuggler's Copter
 2 Bloodstained Mire
+2 Plateau
 2 Enlightened Tutor
 2 Ethersworn Canonist
 2 Great Furnace
@@ -49,6 +49,7 @@
 1 Volcanic Island
 1 Lightning Bolt
 1 Darkslick Shores
+1 Kolaghan's Command
 1 Liliana, the Last Hope
 1 Daretti, Ingenious Iconoclast
 1 Dark Confidant
@@ -57,7 +58,6 @@
 1 Baleful Strix
 1 Ponder
 1 Dack Fayden
-1 Kolaghan's Command
 1 Spirebluff Canal
 1 Spell Pierce
 1 Swamp
@@ -66,17 +66,17 @@
 1 Snapcaster Mage
 1 Polluted Delta
 1 Underground Sea
-2 Polluted Delta
 2 Lightning Bolt
 2 Swamp
+2 Kolaghan's Command
 2 Dark Confidant
 2 Ponder
+2 Polluted Delta
 2 Snapcaster Mage
 2 Brainstorm
 2 Darkslick Shores
 2 Scalding Tarn
 2 Baleful Strix
-2 Kolaghan's Command
 3 Scalding Tarn
 3 Polluted Delta
 3 Red Elemental Blast
@@ -85,8 +85,8 @@
 3 Brainstorm
 3 Dark Confidant
 3 Ponder
-4 Polluted Delta
 4 Scalding Tarn
+4 Polluted Delta
 4 Red Elemental Blast
 4 Dark Confidant
 4 Ponder
