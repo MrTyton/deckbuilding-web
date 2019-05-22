@@ -10,9 +10,9 @@
 1 Inquisition of Kozilek
 1 Godless Shrine
 2 Inquisition of Kozilek
-1 Marsh Flats
 1 Fatal Push
 1 Thoughtseize
+1 Marsh Flats
 1 Lingering Souls
 1 Shambling Vent
 2 Fatal Push
@@ -42,31 +42,6 @@
 4 Concealed Courtyard
 3 Plains
 4 Path to Exile
-1 Liliana, the Last Hope
-1 Flooded Strand
-1 Simian Spirit Guide
-2 Simian Spirit Guide
-1 Hazoret the Fervent
-1 Chalice of the Void
-1 Ensnaring Bridge
-1 Chandra, Torch of Defiance
-1 Abrade
-1 Mountain
-1 Blood Moon
-2 Chalice of the Void
-2 Blood Moon
-2 Chandra, Torch of Defiance
-2 Ensnaring Bridge
-2 Mountain
-3 Chalice of the Void
-3 Blood Moon
-3 Ensnaring Bridge
-3 Simian Spirit Guide
-3 Chandra, Torch of Defiance
-4 Chalice of the Void
-4 Blood Moon
-4 Simian Spirit Guide
-4 Ensnaring Bridge
 1 Jace, the Mind Sculptor
 1 Fetid Heath
 1 Gideon of the Trials
@@ -88,12 +63,13 @@
 1 Creeping Tar Pit
 1 Obzedat, Ghost Council
 1 Watery Grave
+1 Flooded Strand
 1 Polluted Delta
 1 Murderous Cut
 1 Jace, Vryn's Prodigy
 1 Goryo's Vengeance
-1 Tasigur, the Golden Fang
 1 Griselbrand
+1 Tasigur, the Golden Fang
 1 Darkslick Shores
 2 Obzedat, Ghost Council
 2 Polluted Delta
@@ -110,50 +86,19 @@
 4 Jace, Vryn's Prodigy
 4 Darkslick Shores
 4 Goryo's Vengeance
-1 Windswept Heath
-1 Sacred Foundry
-1 Gemstone Caverns
-1 Ramunap Ruins
-1 Purphoros, God of the Forge
-1 Desperate Ritual
-1 Arid Mesa
-1 Rugged Prairie
-1 Ajani Vengeant
-1 Goblin Rabblemaster
-1 Legion Warboss
-1 Pyretic Ritual
-2 Gemstone Caverns
-2 Hazoret the Fervent
-2 Ramunap Ruins
-2 Sacred Foundry
-2 Goblin Rabblemaster
-2 Abrade
-2 Rugged Prairie
-2 Arid Mesa
-2 Desperate Ritual
-2 Legion Warboss
-3 Ramunap Ruins
-3 Gemstone Caverns
-3 Arid Mesa
-3 Goblin Rabblemaster
-3 Desperate Ritual
-3 Legion Warboss
-4 Chandra, Torch of Defiance
-4 Legion Warboss
-4 Arid Mesa
-4 Goblin Rabblemaster
-4 Desperate Ritual
+1 Liliana, the Last Hope
+1 Detention Sphere
+1 Supreme Verdict
 1 Kolaghan's Command
 2 Kolaghan's Command
-1 Supreme Verdict
-1 Detention Sphere
 1 Primal Command
 1 Mana Confluence
+1 Windswept Heath
+1 Domri, Anarch of Bolas
 1 Izzet Charm
 1 Blooming Marsh
 1 Stomping Ground
 1 Overgrown Tomb
-1 Domri, Anarch of Bolas
 1 Unmoored Ego
 1 Assassin's Trophy
 1 Countersquall
@@ -166,9 +111,10 @@
 1 Niv-Mizzet Reborn
 1 Thought Erasure
 1 Pillar of the Paruns
+1 Sacred Foundry
 1 Lightning Helix
-2 Domri, Anarch of Bolas
 2 Izzet Charm
+2 Domri, Anarch of Bolas
 2 Windswept Heath
 2 Assassin's Trophy
 2 Bring to Light
@@ -179,10 +125,10 @@
 2 Lightning Helix
 2 Mana Confluence
 2 Niv-Mizzet Reborn
+3 Lightning Helix
 3 Mana Confluence
 3 Windswept Heath
 3 Birds of Paradise
-3 Lightning Helix
 3 Niv-Mizzet Reborn
 3 Safewright Quest
 3 Bring to Light
@@ -205,31 +151,111 @@
 4 Thoughtseize
 4 Dark Confidant
 4 Shambling Vent
+1 Simian Spirit Guide
+2 Simian Spirit Guide
 1 Temple of Malice
+1 Hazoret the Fervent
 1 Blood Crypt
+1 Chalice of the Void
+1 Ensnaring Bridge
 1 Bedevil
 1 Magus of the Moon
+1 Chandra, Torch of Defiance
 1 Master of Cruelties
+1 Abrade
 1 Bloodstained Mire
+1 Mountain
 1 Graven Cairns
+1 Blood Moon
 1 Anger of the Gods
+2 Chalice of the Void
+2 Blood Moon
+2 Chandra, Torch of Defiance
+2 Ensnaring Bridge
 2 Bloodstained Mire
+2 Mountain
 2 Blood Crypt
+2 Anger of the Gods
 2 Graven Cairns
 2 Bedevil
-2 Anger of the Gods
 3 Blood Crypt
 3 Mountain
 3 Bloodstained Mire
+3 Chalice of the Void
+3 Blood Moon
+3 Ensnaring Bridge
 3 Bedevil
+3 Simian Spirit Guide
+3 Chandra, Torch of Defiance
 4 Bloodstained Mire
+4 Chalice of the Void
+4 Blood Moon
+4 Simian Spirit Guide
 4 Swamp
+4 Ensnaring Bridge
 4 Collective Brutality
 5 Swamp
 6 Swamp
 7 Swamp
 8 Swamp
 9 Swamp
+1 Scrying Sheets
+1 Acidic Slime
+1 Finale of Devastation
+1 Snow-Covered Forest
+1 Devoted Druid
+1 Vizier of Remedies
+1 Noble Hierarch
+1 Eternal Witness
+1 Trinisphere
+1 Karn, the Great Creator
+1 Scavenging Ooze
+1 Phyrexian Revoker
+1 Thrun, the Last Troll
+1 Duskwatch Recruiter
+1 Utopia Sprawl
+1 Arbor Elf
+1 Walking Ballista
+1 Tireless Tracker
+2 Finale of Devastation
+2 Devoted Druid
+2 Noble Hierarch
+2 Snow-Covered Forest
+2 Karn, the Great Creator
+2 Primal Command
+2 Utopia Sprawl
+2 Arbor Elf
+2 Walking Ballista
+3 Finale of Devastation
+3 Walking Ballista
+3 Devoted Druid
+3 Snow-Covered Forest
+3 Karn, the Great Creator
+3 Arbor Elf
+3 Primal Command
+3 Utopia Sprawl
+4 Devoted Druid
+4 Karn, the Great Creator
+4 Snow-Covered Forest
+4 Finale of Devastation
+4 Utopia Sprawl
+4 Arbor Elf
+4 Primal Command
+5 Snow-Covered Forest
+6 Snow-Covered Forest
+7 Snow-Covered Forest
+8 Snow-Covered Forest
+9 Snow-Covered Forest
+10 Snow-Covered Forest
+11 Snow-Covered Forest
+12 Snow-Covered Forest
+13 Snow-Covered Forest
+14 Snow-Covered Forest
+15 Snow-Covered Forest
+16 Snow-Covered Forest
+17 Snow-Covered Forest
+18 Snow-Covered Forest
+19 Snow-Covered Forest
 1 Faerie Conclave
 1 Negate
 1 Nevermore
@@ -272,60 +298,3 @@
 8 Plains
 9 Plains
 10 Plains
-1 Scrying Sheets
-1 Acidic Slime
-1 Finale of Devastation
-1 Snow-Covered Forest
-1 Devoted Druid
-1 Vizier of Remedies
-1 Noble Hierarch
-1 Eternal Witness
-1 Trinisphere
-1 Karn, the Great Creator
-1 Scavenging Ooze
-1 Phyrexian Revoker
-1 Thrun, the Last Troll
-1 Duskwatch Recruiter
-1 Utopia Sprawl
-1 Arbor Elf
-1 Walking Ballista
-1 Tireless Tracker
-2 Finale of Devastation
-2 Devoted Druid
-2 Snow-Covered Forest
-2 Noble Hierarch
-2 Karn, the Great Creator
-2 Primal Command
-2 Utopia Sprawl
-2 Arbor Elf
-2 Walking Ballista
-3 Finale of Devastation
-3 Walking Ballista
-3 Devoted Druid
-3 Karn, the Great Creator
-3 Arbor Elf
-3 Snow-Covered Forest
-3 Primal Command
-3 Utopia Sprawl
-4 Karn, the Great Creator
-4 Devoted Druid
-4 Finale of Devastation
-4 Utopia Sprawl
-4 Arbor Elf
-4 Primal Command
-4 Snow-Covered Forest
-5 Snow-Covered Forest
-6 Snow-Covered Forest
-7 Snow-Covered Forest
-8 Snow-Covered Forest
-9 Snow-Covered Forest
-10 Snow-Covered Forest
-11 Snow-Covered Forest
-12 Snow-Covered Forest
-13 Snow-Covered Forest
-14 Snow-Covered Forest
-15 Snow-Covered Forest
-16 Snow-Covered Forest
-17 Snow-Covered Forest
-18 Snow-Covered Forest
-19 Snow-Covered Forest

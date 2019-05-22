@@ -24,20 +24,19 @@
 1 Darksteel Citadel
 1 Kuldotha Forgemaster
 2 Zhalfirin Void
-2 Lightning Greaves
 2 Karn, Scion of Urza
 2 Field of Ruin
+2 Lightning Greaves
+2 Lodestone Golem
 2 Kuldotha Forgemaster
 2 Everflowing Chalice
 2 Forest
 2 Surge Node
-2 Lodestone Golem
 2 Astral Cornucopia
 2 Chalice of the Void
 2 Darksteel Citadel
 2 Coretapper
 2 Ancient Stirrings
-3 Lodestone Golem
 3 Zhalfirin Void
 3 Astral Cornucopia
 3 Ancient Stirrings
@@ -45,6 +44,7 @@
 3 Darksteel Citadel
 3 Kuldotha Forgemaster
 3 Forest
+3 Lodestone Golem
 3 Everflowing Chalice
 3 Coretapper
 4 Chalice of the Void
@@ -58,6 +58,7 @@
 6 Forest
 7 Forest
 8 Forest
+1 Pteramander
 1 Sleight of Hand
 1 Deprive
 1 Serum Visions
@@ -67,10 +68,10 @@
 1 Vapor Snag
 1 Psionic Blast
 1 Remand
-1 Pteramander
 1 Snapcaster Mage
 1 Disrupting Shoal
 2 Vapor Snag
+2 Pteramander
 2 Serum Visions
 2 Sleight of Hand
 2 Snow-Covered Island
@@ -78,7 +79,6 @@
 2 Remand
 2 Snapcaster Mage
 2 Psionic Blast
-2 Pteramander
 2 Thing in the Ice
 2 Disrupting Shoal
 2 Opt
@@ -95,6 +95,7 @@
 3 Sleight of Hand
 4 Pteramander
 4 Serum Visions
+4 Vapor Snag
 4 Snow-Covered Island
 4 Remand
 4 Opt
@@ -102,7 +103,6 @@
 4 Sleight of Hand
 4 Disrupting Shoal
 4 Snapcaster Mage
-4 Vapor Snag
 5 Snow-Covered Island
 6 Snow-Covered Island
 7 Snow-Covered Island

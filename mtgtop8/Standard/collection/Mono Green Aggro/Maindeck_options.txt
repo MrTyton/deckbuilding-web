@@ -1,23 +1,27 @@
+12 Forest
+1 Mountain
+1 Gruul Spellbreaker
+1 Stomping Ground
+1 Rootbound Crag
+2 Gruul Spellbreaker
+2 Stomping Ground
+2 Rootbound Crag
+3 Stomping Ground
+3 Gruul Spellbreaker
+3 Rootbound Crag
+4 Stomping Ground
+4 Rootbound Crag
+4 Gruul Spellbreaker
+1 Growth-Chamber Guardian
+2 Growth-Chamber Guardian
+3 Growth-Chamber Guardian
+4 Growth-Chamber Guardian
 1 Carnage Tyrant
-1 Frilled Mystic
-1 Unclaimed Territory
-1 Hinterland Harbor
-1 Simic Guildgate
-1 Breeding Pool
-1 Departed Deckhand
-2 Frilled Mystic
-2 Hinterland Harbor
-2 Unclaimed Territory
-2 Departed Deckhand
-2 Breeding Pool
-3 Frilled Mystic
-3 Breeding Pool
-3 Unclaimed Territory
-3 Departed Deckhand
-3 Hinterland Harbor
-4 Frilled Mystic
-4 Breeding Pool
-4 Hinterland Harbor
+13 Forest
+2 Simic Guildgate
+4 Unclaimed Territory
+4 Departed Deckhand
+4 Ghalta, Primal Hunger
 2 Mountain
 1 Wildgrowth Walker
 2 Wildgrowth Walker
@@ -44,6 +48,7 @@
 20 Forest
 21 Forest
 22 Forest
+1 Dive Down
 1 Karn, Scion of Urza
 1 Hadana's Climb
 2 Carnage Tyrant
@@ -56,16 +61,11 @@
 3 Thrash / Threat
 3 Mountain
 4 Rhythm of the Wild
-1 Dive Down
-2 Simic Guildgate
-4 Unclaimed Territory
-4 Departed Deckhand
 1 Domri, Chaos Bringer
 1 Collision / Colossus
 2 Domri, Chaos Bringer
 2 Collision / Colossus
 3 Collision / Colossus
-4 Ghalta, Primal Hunger
 4 Collision / Colossus
 1 Zhur-Taa Goblin
 1 Shock
@@ -81,9 +81,9 @@
 2 Shock
 2 Skarrgan Hellkite
 2 Lightning Strike
+3 Skarrgan Hellkite
 3 Zhur-Taa Goblin
 3 Ripjaw Raptor
-3 Skarrgan Hellkite
 3 Lightning Strike
 4 Zhur-Taa Goblin
 4 Lightning Strike
@@ -114,11 +114,11 @@
 4 Shalai, Voice of Plenty
 1 Arboreal Grazer
 1 Evolution Sage
-1 Biogenic Ooze
 1 Vraska, Golgari Queen
 1 Nissa, Who Shakes the World
 1 Swamp
 1 Overgrown Tomb
+1 Biogenic Ooze
 1 Ugin, the Ineffable
 1 Find / Finality
 1 Woodland Cemetery

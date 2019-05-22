@@ -1,37 +1,4 @@
 7 Island
-1 Underground Sea
-1 Marsh Flats
-1 Liliana, the Last Hope
-1 Mutavault
-1 Baleful Strix
-1 Hymn to Tourach
-1 Diabolic Edict
-1 Thoughtseize
-1 Fatal Push
-1 Swamp
-1 Yuriko, the Tiger's Shadow
-1 Bloodstained Mire
-1 Wasteland
-1 Pteramander
-1 Consign / Oblivion
-2 Underground Sea
-2 Baleful Strix
-2 Hymn to Tourach
-2 Thoughtseize
-2 Wasteland
-2 Yuriko, the Tiger's Shadow
-2 Liliana, the Last Hope
-2 Swamp
-2 Pteramander
-2 Fatal Push
-3 Underground Sea
-3 Fatal Push
-3 Baleful Strix
-3 Hymn to Tourach
-3 Wasteland
-3 Pteramander
-3 Yuriko, the Tiger's Shadow
-4 Baleful Strix
 1 Wooded Foothills
 1 Misty Rainforest
 1 Forest
@@ -45,15 +12,15 @@
 1 Fyndhorn Elves
 1 Wirewood Symbiote
 1 Pendelhaven
-1 Heritage Druid
-1 Gaea's Cradle
-1 Natural Order
 1 Nettle Sentinel
+1 Craterhoof Behemoth
+1 Gaea's Cradle
+1 Heritage Druid
+1 Natural Order
 1 Windswept Heath
 1 Elvish Visionary
 1 Glimpse of Nature
 1 Quirion Ranger
-1 Craterhoof Behemoth
 1 Birchlore Rangers
 1 Llanowar Elves
 1 Elvish Mystic
@@ -61,25 +28,25 @@
 2 Green Sun's Zenith
 2 Gaea's Cradle
 2 Birchlore Rangers
+2 Nettle Sentinel
 2 Windswept Heath
 2 Craterhoof Behemoth
 2 Forest
-2 Dryad Arbor
 2 Natural Order
 2 Glimpse of Nature
 2 Quirion Ranger
+2 Dryad Arbor
 2 Bayou
 2 Wirewood Symbiote
 2 Heritage Druid
 2 Elvish Visionary
-2 Nettle Sentinel
 3 Green Sun's Zenith
 3 Glimpse of Nature
 3 Quirion Ranger
-3 Heritage Druid
 3 Wirewood Symbiote
 3 Gaea's Cradle
 3 Windswept Heath
+3 Heritage Druid
 3 Elvish Visionary
 3 Natural Order
 3 Nettle Sentinel
@@ -95,34 +62,34 @@
 1 Taiga
 1 Umezawa's Jitte
 1 Tropical Island
-1 Shardless Agent
 1 Tarmogoyf
 1 Guided Passage
+1 Punishing Fire
 1 Grove of the Burnwillows
 1 Bloodbraid Elf
 1 Ancestral Vision
-1 Punishing Fire
 1 Noble Hierarch
+1 Shardless Agent
 1 Raging Ravine
 1 Sylvan Library
-2 Tropical Island
 2 Misty Rainforest
-2 Shardless Agent
 2 Tarmogoyf
 2 Guided Passage
-2 Punishing Fire
+2 Noble Hierarch
 2 Bloodbraid Elf
 2 Ancestral Vision
+2 Shardless Agent
+2 Punishing Fire
 2 Grove of the Burnwillows
-2 Noble Hierarch
+2 Tropical Island
 3 Misty Rainforest
-3 Shardless Agent
+3 Grove of the Burnwillows
 3 Tropical Island
 3 Guided Passage
 3 Bloodbraid Elf
 3 Ancestral Vision
+3 Shardless Agent
 3 Tarmogoyf
-3 Grove of the Burnwillows
 3 Noble Hierarch
 4 Misty Rainforest
 4 Bloodbraid Elf
