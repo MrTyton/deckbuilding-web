@@ -85,6 +85,6 @@
 |                     |                                                                                                   |                    4|[Invisible Stalker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220041)       |
 |                     |                                                                                                   |                    1|[Apostle's Blessing](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397768)      |
 |                     |                                                                                                   |                    1|[Carrion Call](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=194340)            |
-|                     |                                                                                                   |                    1|[Geist of Saint Traft](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409577)    |
 |                     |                                                                                                   |                    1|[Pulse of Murasa](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446177)         |
+|                     |                                                                                                   |                    1|[Geist of Saint Traft](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409577)    |
 

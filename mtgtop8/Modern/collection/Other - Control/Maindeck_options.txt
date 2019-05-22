@@ -19,6 +19,7 @@
 2 Lingering Souls
 2 Thoughtseize
 3 Inquisition of Kozilek
+4 Field of Ruin
 2 Plains
 2 Liliana of the Veil
 3 Swamp
@@ -37,11 +38,12 @@
 3 Marsh Flats
 3 Thoughtseize
 4 Marsh Flats
-4 Field of Ruin
 4 Lingering Souls
 4 Concealed Courtyard
-3 Plains
 4 Path to Exile
+1 Hallowed Fountain
+3 Plains
+1 Flooded Strand
 1 Jace, the Mind Sculptor
 1 Fetid Heath
 1 Gideon of the Trials
@@ -59,43 +61,43 @@
 2 Set Adrift
 3 Blast Zone
 4 Blast Zone
-1 Hallowed Fountain
 1 Creeping Tar Pit
 1 Obzedat, Ghost Council
 1 Watery Grave
-1 Flooded Strand
 1 Polluted Delta
 1 Murderous Cut
 1 Jace, Vryn's Prodigy
 1 Goryo's Vengeance
-1 Griselbrand
 1 Tasigur, the Golden Fang
+1 Griselbrand
 1 Darkslick Shores
 2 Obzedat, Ghost Council
-2 Polluted Delta
 2 Darkslick Shores
 2 Watery Grave
 2 Goryo's Vengeance
 2 Jace, Vryn's Prodigy
+2 Polluted Delta
 3 Jace, Vryn's Prodigy
-3 Polluted Delta
 3 Goryo's Vengeance
 3 Obzedat, Ghost Council
+3 Polluted Delta
 3 Darkslick Shores
 4 Polluted Delta
 4 Jace, Vryn's Prodigy
 4 Darkslick Shores
 4 Goryo's Vengeance
 1 Liliana, the Last Hope
+1 Windswept Heath
+1 Forest
+1 Breeding Pool
 1 Detention Sphere
 1 Supreme Verdict
 1 Kolaghan's Command
 2 Kolaghan's Command
 1 Primal Command
 1 Mana Confluence
-1 Windswept Heath
-1 Domri, Anarch of Bolas
 1 Izzet Charm
+1 Domri, Anarch of Bolas
 1 Blooming Marsh
 1 Stomping Ground
 1 Overgrown Tomb
@@ -103,8 +105,6 @@
 1 Assassin's Trophy
 1 Countersquall
 1 Sin Collector
-1 Forest
-1 Breeding Pool
 1 Birds of Paradise
 1 Safewright Quest
 1 Bring to Light
@@ -114,8 +114,8 @@
 1 Sacred Foundry
 1 Lightning Helix
 2 Izzet Charm
-2 Domri, Anarch of Bolas
 2 Windswept Heath
+2 Domri, Anarch of Bolas
 2 Assassin's Trophy
 2 Bring to Light
 2 Safewright Quest
@@ -129,11 +129,11 @@
 3 Mana Confluence
 3 Windswept Heath
 3 Birds of Paradise
-3 Niv-Mizzet Reborn
+3 Assassin's Trophy
 3 Safewright Quest
+3 Niv-Mizzet Reborn
 3 Bring to Light
 3 Pillar of the Paruns
-3 Assassin's Trophy
 4 Lightning Helix
 4 Windswept Heath
 4 Bring to Light
@@ -151,8 +151,42 @@
 4 Thoughtseize
 4 Dark Confidant
 4 Shambling Vent
+1 Misty Rainforest
+1 Teferi, Time Raveler
+1 Hieroglyphic Illumination
+1 Lumbering Falls
+1 Wilderness Reclamation
+1 Growth Spiral
+1 Glittering Wish
+1 Celestial Colonnade
+2 Misty Rainforest
+2 Teferi, Time Raveler
+2 Remand
+2 Hallowed Fountain
+2 Flooded Strand
+2 Breeding Pool
+2 Wilderness Reclamation
+2 Growth Spiral
+2 Glittering Wish
+2 Hieroglyphic Illumination
+3 Hieroglyphic Illumination
+3 Misty Rainforest
+3 Teferi, Time Raveler
+3 Flooded Strand
+3 Wilderness Reclamation
+3 Growth Spiral
+3 Glittering Wish
+3 Remand
+4 Wilderness Reclamation
+4 Hieroglyphic Illumination
+4 Remand
+4 Misty Rainforest
+4 Glittering Wish
+4 Flooded Strand
+4 Growth Spiral
 1 Simian Spirit Guide
 2 Simian Spirit Guide
+1 Chandra, Torch of Defiance
 1 Temple of Malice
 1 Hazoret the Fervent
 1 Blood Crypt
@@ -160,7 +194,6 @@
 1 Ensnaring Bridge
 1 Bedevil
 1 Magus of the Moon
-1 Chandra, Torch of Defiance
 1 Master of Cruelties
 1 Abrade
 1 Bloodstained Mire
@@ -175,9 +208,9 @@
 2 Bloodstained Mire
 2 Mountain
 2 Blood Crypt
-2 Anger of the Gods
 2 Graven Cairns
 2 Bedevil
+2 Anger of the Gods
 3 Blood Crypt
 3 Mountain
 3 Bloodstained Mire
@@ -213,14 +246,14 @@
 1 Phyrexian Revoker
 1 Thrun, the Last Troll
 1 Duskwatch Recruiter
-1 Utopia Sprawl
 1 Arbor Elf
 1 Walking Ballista
 1 Tireless Tracker
+1 Utopia Sprawl
 2 Finale of Devastation
 2 Devoted Druid
-2 Noble Hierarch
 2 Snow-Covered Forest
+2 Noble Hierarch
 2 Karn, the Great Creator
 2 Primal Command
 2 Utopia Sprawl
@@ -281,9 +314,9 @@
 2 Ghostly Prison
 2 Sphere of Safety
 3 Detention Sphere
+3 Glacial Fortress
 3 Ghostly Prison
 3 Temple of Enlightenment
-3 Glacial Fortress
 3 Runed Halo
 3 Nevermore
 4 Glacial Fortress
