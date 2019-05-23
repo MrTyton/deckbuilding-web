@@ -84,7 +84,7 @@
 |                     |                                                                                                  |                    1|[Dragonlord Dromoka](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394547)        |
 |                     |                                                                                                  |                    1|[Swan Song](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420715)                 |
 |                     |                                                                                                  |                    2|[Firespout](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=247407)                 |
-|                     |                                                                                                  |                    2|[Pyroclasm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129801)                 |
 |                     |                                                                                                  |                    2|[Swan Song](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420715)                 |
+|                     |                                                                                                  |                    2|[Pyroclasm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129801)                 |
 |                     |                                                                                                  |                    2|[Nature's Claim](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382316)            |
 

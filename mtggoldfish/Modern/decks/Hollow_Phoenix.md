@@ -29,8 +29,8 @@
 
 |*n*<sup>th</sup> copy|                                       Maindeck Card                                       |*n*<sup>th</sup> copy|                                        Sideboard Card                                         |
 |--------------------:|-------------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------------|
-|                    1|[Copperline Gorge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=209408)|                    1|[Engineered Explosives](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=50139)|
-|                    1|[Gut Shot](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397673)        |                    1|[Assassin's Trophy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452902)   |
+|                    1|[Gut Shot](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397673)        |                    1|[Engineered Explosives](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=50139)|
+|                    1|[Copperline Gorge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=209408)|                    1|[Assassin's Trophy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452902)   |
 |                    1|[Wooded Foothills](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405116)|                    1|[Collective Brutality](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414380)|
 |                    2|[Gut Shot](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397673)        |                    1|[Liliana of the Veil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=235597) |
 |                    2|[Copperline Gorge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=209408)|                    1|[Fatal Push](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423724)          |

@@ -34,7 +34,7 @@
 |                    1|[Ajani, Adversary of Tyrants](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447139)|                    1|[Conclave Tribunal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452756)    |
 |                    1|[Unbreakable Formation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457173)      |                    2|[Knight of Grace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442911)      |
 |                    2|[Unbreakable Formation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457173)      |                    1|[Adanto Vanguard](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435152)      |
-|                    1|[Gideon Blackblade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463943)          |                    2|[Unbreakable Formation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457173)|
-|                    3|[Tithe Taker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457171)                |                    2|[Adanto Vanguard](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435152)      |
+|                    3|[Tithe Taker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457171)                |                    2|[Unbreakable Formation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457173)|
+|                    1|[Gideon Blackblade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463943)          |                    2|[Adanto Vanguard](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435152)      |
 |                     |                                                                                                      |                    3|[Gideon Blackblade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463943)    |
 
