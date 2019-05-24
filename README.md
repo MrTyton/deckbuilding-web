@@ -56,10 +56,10 @@
 
 |                                 A                                  |                               B                                |                                     C                                      |                                 D                                  |                    E                     |
 |--------------------------------------------------------------------|----------------------------------------------------------------|----------------------------------------------------------------------------|--------------------------------------------------------------------|------------------------------------------|
-|[Burn](./mtggoldfish/Legacy/decks/Burn.md)                          |[Eldrazi Stompy](./mtggoldfish/Legacy/decks/Eldrazi_Stompy.md)  |[Mono-Black Control](./mtggoldfish/Legacy/decks/Mono-Black_Control.md)      |[R](./mtggoldfish/Legacy/decks/R.md)                                |[WUBG](./mtggoldfish/Legacy/decks/WUBG.md)|
-|[Dredge](./mtggoldfish/Legacy/decks/Dredge.md)                      |[Land Post](./mtggoldfish/Legacy/decks/Land_Post.md)            |[Mono-Black Rogues](./mtggoldfish/Legacy/decks/Mono-Black_Rogues.md)        |[Rakdos Reanimator](./mtggoldfish/Legacy/decks/Rakdos_Reanimator.md)|[WUBR](./mtggoldfish/Legacy/decks/WUBR.md)|
-|[Eldrazi Karn Post](./mtggoldfish/Legacy/decks/Eldrazi_Karn_Post.md)|[Manaless Dredge](./mtggoldfish/Legacy/decks/Manaless_Dredge.md)|[Planeswalker 15-posts](./mtggoldfish/Legacy/decks/Planeswalker_15-posts.md)|[WG](./mtggoldfish/Legacy/decks/WG.md)                              |                                          |
+|[Burn](./mtggoldfish/Legacy/decks/Burn.md)                          |[Eldrazi Stompy](./mtggoldfish/Legacy/decks/Eldrazi_Stompy.md)  |[Mono-Black Control](./mtggoldfish/Legacy/decks/Mono-Black_Control.md)      |[R](./mtggoldfish/Legacy/decks/R.md)                                |[WG](./mtggoldfish/Legacy/decks/WG.md)    |
+|[Dredge](./mtggoldfish/Legacy/decks/Dredge.md)                      |[Land Post](./mtggoldfish/Legacy/decks/Land_Post.md)            |[Mono-Black Rogues](./mtggoldfish/Legacy/decks/Mono-Black_Rogues.md)        |[Rakdos Reanimator](./mtggoldfish/Legacy/decks/Rakdos_Reanimator.md)|[WUBG](./mtggoldfish/Legacy/decks/WUBG.md)|
+|[Eldrazi Karn Post](./mtggoldfish/Legacy/decks/Eldrazi_Karn_Post.md)|[Manaless Dredge](./mtggoldfish/Legacy/decks/Manaless_Dredge.md)|[Planeswalker 15-posts](./mtggoldfish/Legacy/decks/Planeswalker_15-posts.md)|[UB](./mtggoldfish/Legacy/decks/UB.md)                              |[WUBR](./mtggoldfish/Legacy/decks/WUBR.md)|
 
 
 
-#### Last Updated at 12:44AM on May 24, 2019
+#### Last Updated at 12:46PM on May 24, 2019

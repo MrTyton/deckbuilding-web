@@ -27,7 +27,7 @@
 
 |*n*<sup>th</sup> copy|                                       Maindeck Card                                       |*n*<sup>th</sup> copy|                                    Sideboard Card                                    |
 |--------------------:|-------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------|
-|                    2|[Thorn Lieutenant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447339)|                    1|[Shock](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129732)      |
+|                    2|[Thorn Lieutenant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447339)|                    1|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)     |
 |                    1|[Thorn Lieutenant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447339)|                    4|[Cindervines](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457305)|
-|                     |                                                                                           |                    1|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)     |
+|                     |                                                                                           |                    1|[Shock](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129732)      |
 

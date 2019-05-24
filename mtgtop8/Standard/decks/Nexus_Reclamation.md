@@ -95,6 +95,6 @@
 |                    1|[Stomping Ground](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405110)            |                     |                                                                                                      |
 |                    2|Expansion / Explosion                                                                                 |                     |                                                                                                      |
 |                    2|[Stomping Ground](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405110)            |                     |                                                                                                      |
-|                    3|Expansion / Explosion                                                                                 |                     |                                                                                                      |
 |                    3|[Stomping Ground](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405110)            |                     |                                                                                                      |
+|                    3|Expansion / Explosion                                                                                 |                     |                                                                                                      |
 
