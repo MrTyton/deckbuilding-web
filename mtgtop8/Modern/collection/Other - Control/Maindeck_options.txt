@@ -37,9 +37,9 @@
 3 Lingering Souls
 3 Marsh Flats
 3 Thoughtseize
+4 Marsh Flats
 4 Lingering Souls
 4 Concealed Courtyard
-4 Marsh Flats
 4 Path to Exile
 1 Hallowed Fountain
 3 Plains
@@ -47,12 +47,12 @@
 1 Jace, the Mind Sculptor
 1 Fetid Heath
 1 Gideon of the Trials
-1 Languish
-1 Wrath of God
 1 Nihil Spellbomb
-1 Cataclysmic Gearhulk
-1 Sorin, Grim Nemesis
 1 Damnation
+1 Wrath of God
+1 Cataclysmic Gearhulk
+1 Languish
+1 Sorin, Grim Nemesis
 1 Anguished Unmaking
 1 Sorin, Lord of Innistrad
 2 Gideon of the Trials
@@ -99,11 +99,10 @@
 1 Izzet Charm
 1 Domri, Anarch of Bolas
 1 Blooming Marsh
-1 Stomping Ground
-1 Overgrown Tomb
 1 Unmoored Ego
 1 Countersquall
 1 Sin Collector
+1 Overgrown Tomb
 1 Birds of Paradise
 1 Safewright Quest
 1 Bring to Light
@@ -111,6 +110,7 @@
 1 Thought Erasure
 1 Pillar of the Paruns
 1 Sacred Foundry
+1 Stomping Ground
 1 Lightning Helix
 1 Assassin's Trophy
 2 Izzet Charm
@@ -146,10 +146,10 @@
 2 Dark Confidant
 3 Dark Confidant
 3 Fatal Push
+4 Fatal Push
 4 Liliana of the Veil
 4 Dark Confidant
 4 Thoughtseize
-4 Fatal Push
 4 Shambling Vent
 1 Misty Rainforest
 1 Teferi, Time Raveler
@@ -189,7 +189,6 @@
 1 Temple of Malice
 1 Chandra, Torch of Defiance
 1 Hazoret the Fervent
-1 Blood Crypt
 1 Chalice of the Void
 1 Ensnaring Bridge
 1 Bedevil
@@ -198,6 +197,7 @@
 1 Abrade
 1 Bloodstained Mire
 1 Mountain
+1 Blood Crypt
 1 Graven Cairns
 1 Blood Moon
 1 Anger of the Gods
@@ -232,14 +232,15 @@
 7 Swamp
 8 Swamp
 9 Swamp
+1 Devoted Druid
+1 Vizier of Remedies
 1 Scrying Sheets
 1 Acidic Slime
 1 Finale of Devastation
 1 Snow-Covered Forest
-1 Devoted Druid
-1 Vizier of Remedies
 1 Noble Hierarch
 1 Eternal Witness
+1 Tireless Tracker
 1 Trinisphere
 1 Karn, the Great Creator
 1 Scavenging Ooze
@@ -248,10 +249,9 @@
 1 Duskwatch Recruiter
 1 Arbor Elf
 1 Walking Ballista
-1 Tireless Tracker
 1 Utopia Sprawl
-2 Finale of Devastation
 2 Devoted Druid
+2 Finale of Devastation
 2 Snow-Covered Forest
 2 Noble Hierarch
 2 Karn, the Great Creator
@@ -259,16 +259,16 @@
 2 Utopia Sprawl
 2 Arbor Elf
 2 Walking Ballista
-3 Finale of Devastation
 3 Walking Ballista
+3 Finale of Devastation
 3 Devoted Druid
 3 Snow-Covered Forest
 3 Karn, the Great Creator
 3 Arbor Elf
 3 Primal Command
 3 Utopia Sprawl
-4 Karn, the Great Creator
 4 Devoted Druid
+4 Karn, the Great Creator
 4 Snow-Covered Forest
 4 Finale of Devastation
 4 Utopia Sprawl

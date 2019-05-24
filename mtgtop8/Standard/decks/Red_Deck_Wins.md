@@ -55,7 +55,7 @@
 |                    2|[The Flame of Keld](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443011)    |                    1|[Jaya, Venerated Firemage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461062) |
 |                    2|[Electrostatic Field](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452847)  |                    2|[Lightning Mare](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447287)           |
 |                    3|[Rigging Runner](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435311)       |                    2|[Jaya, Venerated Firemage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461062) |
-|                    3|[Electrostatic Field](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452847)  |                    2|[Fiery Cannonade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435297)          |
+|                    3|[Electrostatic Field](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452847)  |                    3|[Fiery Cannonade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435297)          |
 |                    2|[Lava Coil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452858)            |                    3|[Lightning Mare](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447287)           |
-|                     |                                                                                                |                    3|[Fiery Cannonade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435297)          |
+|                     |                                                                                                |                    2|[Fiery Cannonade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435297)          |
 
