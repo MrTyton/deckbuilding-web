@@ -7,12 +7,12 @@
 1 Hazoret the Fervent
 1 Verdant Catacombs
 1 Overgrown Tomb
-1 Blood Crypt
 1 Lotleth Troll
 1 Spark Trooper
 1 Bloodstained Mire
 1 Sylvan Caryatid
 1 Soulflayer
+1 Blood Crypt
 1 Zetalpa, Primal Dawn
 1 Cavern of Souls
 1 Nightveil Predator
@@ -23,13 +23,13 @@
 2 Grisly Salvage
 2 Verdant Catacombs
 2 Swamp
+2 Traverse the Ulvenwald
 2 Nightveil Predator
 2 Bloodstained Mire
 2 Overgrown Tomb
 2 Samut, Voice of Dissent
 2 Sylvan Caryatid
 2 Mana Confluence
-2 Traverse the Ulvenwald
 2 Faithless Looting
 2 Spark Trooper
 2 Zetalpa, Primal Dawn
@@ -55,8 +55,8 @@
 4 Bloodstained Mire
 4 Sylvan Caryatid
 4 Incubation / Incongruity
-4 Lotleth Troll
 4 Faithless Looting
+4 Lotleth Troll
 4 Soulflayer
 1 Field of Ruin
 1 Buried Ruin
@@ -70,15 +70,15 @@
 1 Inventors' Fair
 1 Astral Cornucopia
 1 Blightsteel Colossus
-1 Pendelhaven
 1 Everflowing Chalice
 1 Memorial to Unity
 1 Mox Opal
+1 Ancient Stirrings
 1 Coretapper
+1 Pendelhaven
 1 Tectonic Edge
 1 Platinum Emperion
 1 Surge Node
-1 Ancient Stirrings
 1 Chalice of the Void
 1 Darksteel Citadel
 1 Kuldotha Forgemaster
@@ -117,6 +117,66 @@
 6 Forest
 7 Forest
 8 Forest
+1 Apostle's Blessing
+1 Lava Spike
+1 Monastery Swiftspear
+1 Soul-Scar Mage
+1 Warlord's Fury
+1 Young Pyromancer
+1 Crash Through
+1 Lightning Bolt
+1 Kiln Fiend
+1 Mountain
+1 Manamorphose
+1 Temur Battle Rage
+1 Mutagenic Growth
+2 Monastery Swiftspear
+2 Lava Spike
+2 Soul-Scar Mage
+2 Apostle's Blessing
+2 Warlord's Fury
+2 Young Pyromancer
+2 Crash Through
+2 Temur Battle Rage
+2 Mountain
+2 Manamorphose
+2 Mutagenic Growth
+2 Kiln Fiend
+2 Lightning Bolt
+3 Monastery Swiftspear
+3 Lava Spike
+3 Soul-Scar Mage
+3 Manamorphose
+3 Warlord's Fury
+3 Crash Through
+3 Temur Battle Rage
+3 Lightning Bolt
+3 Mutagenic Growth
+3 Kiln Fiend
+3 Mountain
+4 Lava Spike
+4 Monastery Swiftspear
+4 Soul-Scar Mage
+4 Manamorphose
+4 Crash Through
+4 Temur Battle Rage
+4 Lightning Bolt
+4 Mountain
+4 Kiln Fiend
+4 Mutagenic Growth
+5 Mountain
+6 Mountain
+7 Mountain
+8 Mountain
+9 Mountain
+10 Mountain
+11 Mountain
+12 Mountain
+13 Mountain
+14 Mountain
+15 Mountain
+16 Mountain
+17 Mountain
 1 Vapor Snag
 1 Sleight of Hand
 1 Pteramander
@@ -124,9 +184,9 @@
 1 Deprive
 1 Opt
 1 Cryptic Command
+1 Remand
 1 Thing in the Ice
 1 Psionic Blast
-1 Remand
 1 Snapcaster Mage
 1 Disrupting Shoal
 2 Vapor Snag
@@ -145,11 +205,11 @@
 3 Vapor Snag
 3 Serum Visions
 3 Psionic Blast
-3 Remand
 3 Thing in the Ice
 3 Snapcaster Mage
 3 Disrupting Shoal
 3 Opt
+3 Remand
 3 Pteramander
 3 Sleight of Hand
 4 Pteramander

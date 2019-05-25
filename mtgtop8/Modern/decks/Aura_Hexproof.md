@@ -30,8 +30,8 @@
 
 |*n*<sup>th</sup> copy|                                        Maindeck Card                                         |*n*<sup>th</sup> copy|                                       Sideboard Card                                        |
 |--------------------:|----------------------------------------------------------------------------------------------|--------------------:|---------------------------------------------------------------------------------------------|
-|                    2|[Leyline of Sanctity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=204993)|                    1|[Deglamer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=154160)          |
-|                    3|[Leyline of Sanctity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=204993)|                    1|[Unravel the Aether](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=378515)|
+|                    2|[Leyline of Sanctity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=204993)|                    1|[Unravel the Aether](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=378515)|
+|                    3|[Leyline of Sanctity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=204993)|                    1|[Deglamer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=154160)          |
 |                    1|[Spirit Link](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129744)        |                    1|[Spirit Link](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129744)       |
 |                    1|[Dromoka's Command](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394558)  |                    3|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)    |
 |                    1|[Open the Armory](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409771)    |                    1|[Path to Exile](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220511)     |
