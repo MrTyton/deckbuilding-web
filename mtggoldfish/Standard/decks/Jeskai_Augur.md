@@ -32,8 +32,8 @@
 
 |*n*<sup>th</sup> copy|                                         Maindeck Card                                         |*n*<sup>th</sup> copy|                                       Sideboard Card                                        |
 |--------------------:|-----------------------------------------------------------------------------------------------|--------------------:|---------------------------------------------------------------------------------------------|
-|                    1|[Shivan Fire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443030)         |                    1|[Sorcerous Spyglass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435407)|
-|                    1|[Field of Ruin](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435415)       |                    1|[Revitalize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447171)        |
+|                    1|[Shivan Fire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443030)         |                    1|[Revitalize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447171)        |
+|                    1|[Field of Ruin](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435415)       |                    1|[Sorcerous Spyglass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435407)|
 |                    2|[Shivan Fire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443030)         |                    1|[Demystify](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129524)         |
 |                    2|[Dovin's Veto](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461120)        |                    1|[Entrancing Melody](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435207) |
 |                    3|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)              |                    2|[Sorcerous Spyglass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435407)|

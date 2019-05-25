@@ -37,10 +37,10 @@
 
 |*n*<sup>th</sup> copy|                                        Maindeck Card                                         |*n*<sup>th</sup> copy|                                             Sideboard Card                                             |
 |--------------------:|----------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------------------|
-|                    1|[Trostani Discordant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452958)|                    1|[Prison Realm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460953)                 |
-|                    3|[Neoform](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461133)            |                    1|[Vivien, Champion of the Wilds](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461107)|
-|                    3|[God-Eternal Oketra](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460943) |                    2|[Prison Realm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460953)                 |
-|                     |                                                                                              |                    2|[Vivien, Champion of the Wilds](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461107)|
+|                    1|[Trostani Discordant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452958)|                    1|[Vivien, Champion of the Wilds](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461107)|
+|                    3|[Neoform](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461133)            |                    1|[Prison Realm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460953)                 |
+|                    3|[God-Eternal Oketra](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460943) |                    2|[Vivien, Champion of the Wilds](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461107)|
+|                     |                                                                                              |                    2|[Prison Realm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460953)                 |
 |                     |                                                                                              |                    3|[Vivien, Champion of the Wilds](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461107)|
 |                     |                                                                                              |                    3|[Frilled Mystic](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457318)               |
 

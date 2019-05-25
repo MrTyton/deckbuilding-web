@@ -26,7 +26,7 @@
 |[Amulet Titan](./mtgtop8/Modern/decks/Amulet_Titan.md)          |[Gift Control](./mtgtop8/Modern/decks/Gift_Control.md)            |[Living End](./mtgtop8/Modern/decks/Living_End.md)            |[Red Deck Wins](./mtgtop8/Modern/decks/Red_Deck_Wins.md)        |[UW Control](./mtgtop8/Modern/decks/UW_Control.md)    |
 |[Arclight Phoenix](./mtgtop8/Modern/decks/Arclight_Phoenix.md)  |[Grixis Control](./mtgtop8/Modern/decks/Grixis_Control.md)        |[Mardu Midrange](./mtgtop8/Modern/decks/Mardu_Midrange.md)    |[Scapeshift](./mtgtop8/Modern/decks/Scapeshift.md)              |[UWx Midrange](./mtgtop8/Modern/decks/UWx_Midrange.md)|
 |[Aura Hexproof](./mtgtop8/Modern/decks/Aura_Hexproof.md)        |[Gruul Aggro](./mtgtop8/Modern/decks/Gruul_Aggro.md)              |[Martyr Life](./mtgtop8/Modern/decks/Martyr_Life.md)          |[Selesnya Aggro](./mtgtop8/Modern/decks/Selesnya_Aggro.md)      |[UrzaTron](./mtgtop8/Modern/decks/UrzaTron.md)        |
-|[Balance](./mtgtop8/Modern/decks/Balance.md)                    |[Gruul Land Loss](./mtgtop8/Modern/decks/Gruul_Land_Loss.md)      |[Merfolk](./mtgtop8/Modern/decks/Merfolk.md)                  |[Smallpox](./mtgtop8/Modern/decks/Smallpox.md)                  |[Valakut](./mtgtop8/Modern/decks/Valakut.md)          |
+|[Balance](./mtgtop8/Modern/decks/Balance.md)                    |[Gruul Ramp](./mtgtop8/Modern/decks/Gruul_Ramp.md)                |[Merfolk](./mtgtop8/Modern/decks/Merfolk.md)                  |[Smallpox](./mtgtop8/Modern/decks/Smallpox.md)                  |[Valakut](./mtgtop8/Modern/decks/Valakut.md)          |
 |[Bant](./mtgtop8/Modern/decks/Bant.md)                          |[Hardened Scales](./mtgtop8/Modern/decks/Hardened_Scales.md)      |[Mono Black Aggro](./mtgtop8/Modern/decks/Mono_Black_Aggro.md)|[Spirit Aggro](./mtgtop8/Modern/decks/Spirit_Aggro.md)          |[Walks](./mtgtop8/Modern/decks/Walks.md)              |
 |[Boros](./mtgtop8/Modern/decks/Boros.md)                        |[Hatebear](./mtgtop8/Modern/decks/Hatebear.md)                    |[Mono Green Aggro](./mtgtop8/Modern/decks/Mono_Green_Aggro.md)|[Teaching Control](./mtgtop8/Modern/decks/Teaching_Control.md)  |[Weenie White](./mtgtop8/Modern/decks/Weenie_White.md)|
 |[CopyCat](./mtgtop8/Modern/decks/CopyCat.md)                    |[Hollow One](./mtgtop8/Modern/decks/Hollow_One.md)                |[Mono Red Control](./mtgtop8/Modern/decks/Mono_Red_Control.md)|[Tezzerator](./mtgtop8/Modern/decks/Tezzerator.md)              |[Whir Prison](./mtgtop8/Modern/decks/Whir_Prison.md)  |
@@ -45,4 +45,4 @@
 
 
 
-#### Last Updated at 12:46PM on May 24, 2019
+#### Last Updated at 12:52AM on May 25, 2019
