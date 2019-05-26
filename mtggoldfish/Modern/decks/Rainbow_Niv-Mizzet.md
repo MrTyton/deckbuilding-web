@@ -39,8 +39,8 @@
 |--------------------:|-------------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------|
 |                    1|[Domri, Anarch of Bolas](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461118)|                    1|[Countersquall](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=186327)    |
 |                    1|[Countersquall](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=186327)         |                    1|[Deafening Clarion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452915)|
-|                    1|[Creeping Tar Pit](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457138)      |                    1|[Fulminator Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397686)  |
-|                    2|[Domri, Anarch of Bolas](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461118)|                     |                                                                                            |
+|                    2|[Domri, Anarch of Bolas](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461118)|                    1|[Fulminator Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397686)  |
 |                    3|[Mana Confluence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409573)       |                     |                                                                                            |
 |                    4|[Windswept Heath](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405115)       |                     |                                                                                            |
+|                    1|[Creeping Tar Pit](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457138)      |                     |                                                                                            |
 
