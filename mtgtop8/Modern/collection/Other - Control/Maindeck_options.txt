@@ -27,8 +27,8 @@
 1 Kaya, Orzhov Usurper
 1 Concealed Courtyard
 1 Gideon, Ally of Zendikar
-2 Concealed Courtyard
 2 Shambling Vent
+2 Concealed Courtyard
 2 Godless Shrine
 2 Gideon, Ally of Zendikar
 2 Marsh Flats
@@ -41,8 +41,8 @@
 4 Lingering Souls
 4 Concealed Courtyard
 4 Path to Exile
-1 Hallowed Fountain
 3 Plains
+1 Hallowed Fountain
 1 Flooded Strand
 1 Jace, the Mind Sculptor
 1 Fetid Heath
@@ -64,10 +64,10 @@
 1 Creeping Tar Pit
 1 Obzedat, Ghost Council
 1 Watery Grave
+1 Jace, Vryn's Prodigy
 1 Polluted Delta
 1 Tasigur, the Golden Fang
 1 Murderous Cut
-1 Jace, Vryn's Prodigy
 1 Goryo's Vengeance
 1 Griselbrand
 1 Darkslick Shores
@@ -88,8 +88,8 @@
 4 Goryo's Vengeance
 1 Liliana, the Last Hope
 1 Windswept Heath
-1 Forest
 1 Breeding Pool
+1 Forest
 1 Supreme Verdict
 1 Detention Sphere
 1 Kolaghan's Command
@@ -106,12 +106,12 @@
 1 Mana Confluence
 1 Birds of Paradise
 1 Safewright Quest
-1 Bring to Light
 1 Niv-Mizzet Reborn
 1 Thought Erasure
 1 Pillar of the Paruns
 1 Sacred Foundry
 1 Stomping Ground
+1 Bring to Light
 1 Unmoored Ego
 2 Izzet Charm
 2 Domri, Anarch of Bolas
@@ -125,11 +125,11 @@
 2 Blooming Marsh
 2 Birds of Paradise
 2 Niv-Mizzet Reborn
-3 Lightning Helix
 3 Mana Confluence
 3 Windswept Heath
 3 Birds of Paradise
 3 Assassin's Trophy
+3 Lightning Helix
 3 Safewright Quest
 3 Niv-Mizzet Reborn
 3 Bring to Light
@@ -151,18 +151,72 @@
 4 Fatal Push
 4 Thoughtseize
 4 Shambling Vent
+1 Evolving Wilds
+1 Irrigated Farmland
+1 Prairie Stream
+1 Gideon Jura
+1 Teyo, the Shieldmage
+1 Dictate of Kruphix
+1 Tranquil Expanse
+1 Ethereal Haze
+1 Elixir of Immortality
+1 Temple Bell
+1 Dovin's Veto
+1 Holy Day
+1 Ashiok, Dream Render
+1 Dawn Charm
+1 Angelsong
+1 Tranquil Cove
+1 Day of Judgment
+1 Ashes of the Abhorrent
+1 Sphinx's Tutelage
+2 Evolving Wilds
+2 Dovin's Veto
+2 Ashiok, Dream Render
+2 Teyo, the Shieldmage
+2 Angelsong
+2 Day of Judgment
+2 Dawn Charm
+2 Tranquil Cove
+2 Sphinx's Tutelage
+2 Dictate of Kruphix
+2 Ashes of the Abhorrent
+2 Irrigated Farmland
+2 Gideon Jura
+2 Ethereal Haze
+2 Holy Day
+2 Tranquil Expanse
+2 Temple Bell
+3 Evolving Wilds
+3 Irrigated Farmland
+3 Dictate of Kruphix
+3 Tranquil Expanse
+3 Ethereal Haze
+3 Angelsong
+3 Day of Judgment
+3 Dawn Charm
+3 Sphinx's Tutelage
+3 Tranquil Cove
+4 Evolving Wilds
+4 Dawn Charm
+4 Ethereal Haze
+4 Sphinx's Tutelage
+4 Irrigated Farmland
+4 Tranquil Cove
+4 Dictate of Kruphix
+4 Tranquil Expanse
 1 Misty Rainforest
 1 Hieroglyphic Illumination
 1 Teferi, Time Raveler
+1 Celestial Colonnade
 1 Lumbering Falls
 1 Wilderness Reclamation
 1 Growth Spiral
 1 Glittering Wish
-1 Celestial Colonnade
 2 Misty Rainforest
+2 Hallowed Fountain
 2 Teferi, Time Raveler
 2 Remand
-2 Hallowed Fountain
 2 Flooded Strand
 2 Breeding Pool
 2 Wilderness Reclamation
@@ -188,7 +242,6 @@
 2 Simian Spirit Guide
 1 Temple of Malice
 1 Chandra, Torch of Defiance
-1 Bedevil
 1 Graven Cairns
 1 Chalice of the Void
 1 Blood Crypt
@@ -198,12 +251,13 @@
 1 Magus of the Moon
 1 Master of Cruelties
 1 Abrade
+1 Bedevil
 1 Mountain
 1 Blood Moon
 1 Anger of the Gods
 2 Chandra, Torch of Defiance
-2 Blood Crypt
 2 Chalice of the Void
+2 Blood Crypt
 2 Bloodstained Mire
 2 Blood Moon
 2 Ensnaring Bridge
@@ -213,20 +267,20 @@
 2 Anger of the Gods
 3 Blood Crypt
 3 Mountain
-3 Blood Moon
 3 Chalice of the Void
 3 Bloodstained Mire
+3 Blood Moon
 3 Ensnaring Bridge
 3 Bedevil
 3 Simian Spirit Guide
 3 Chandra, Torch of Defiance
+4 Collective Brutality
 4 Bloodstained Mire
 4 Chalice of the Void
 4 Blood Moon
 4 Simian Spirit Guide
 4 Swamp
 4 Ensnaring Bridge
-4 Collective Brutality
 5 Swamp
 6 Swamp
 7 Swamp
@@ -235,7 +289,6 @@
 1 Devoted Druid
 1 Vizier of Remedies
 1 Scrying Sheets
-1 Acidic Slime
 1 Finale of Devastation
 1 Snow-Covered Forest
 1 Noble Hierarch
@@ -246,19 +299,20 @@
 1 Scavenging Ooze
 1 Phyrexian Revoker
 1 Thrun, the Last Troll
+1 Walking Ballista
 1 Duskwatch Recruiter
 1 Arbor Elf
-1 Walking Ballista
+1 Acidic Slime
 1 Utopia Sprawl
 2 Devoted Druid
 2 Finale of Devastation
 2 Noble Hierarch
 2 Snow-Covered Forest
 2 Karn, the Great Creator
+2 Walking Ballista
 2 Primal Command
 2 Utopia Sprawl
 2 Arbor Elf
-2 Walking Ballista
 3 Finale of Devastation
 3 Devoted Druid
 3 Snow-Covered Forest
@@ -271,9 +325,9 @@
 4 Karn, the Great Creator
 4 Snow-Covered Forest
 4 Finale of Devastation
-4 Utopia Sprawl
 4 Arbor Elf
 4 Primal Command
+4 Utopia Sprawl
 5 Snow-Covered Forest
 6 Snow-Covered Forest
 7 Snow-Covered Forest
@@ -304,8 +358,8 @@
 2 Detention Sphere
 2 Faerie Conclave
 2 Runed Halo
-2 Negate
 2 Supreme Verdict
+2 Negate
 2 Temple of Enlightenment
 2 Aetherling
 2 Cast Out
@@ -313,8 +367,8 @@
 2 Gideon's Intervention
 2 Ghostly Prison
 2 Sphere of Safety
-3 Glacial Fortress
 3 Detention Sphere
+3 Glacial Fortress
 3 Ghostly Prison
 3 Temple of Enlightenment
 3 Runed Halo
