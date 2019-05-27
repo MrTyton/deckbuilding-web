@@ -37,9 +37,9 @@
 
 |*n*<sup>th</sup> copy|                                       Maindeck Card                                       |*n*<sup>th</sup> copy|                                       Sideboard Card                                        |
 |--------------------:|-------------------------------------------------------------------------------------------|--------------------:|---------------------------------------------------------------------------------------------|
-|                    1|[Elvish Visionary](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=175124)|                    1|[Choke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45431)              |
-|                    1|[Nettle Sentinel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442171) |                    1|[Essence Warden](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389505)    |
-|                    1|[Eternal Witness](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=51628)  |                    1|[Path to Exile](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220511)     |
+|                    1|[Elvish Visionary](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=175124)|                    1|[Essence Warden](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389505)    |
+|                    1|[Nettle Sentinel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442171) |                    1|[Path to Exile](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220511)     |
+|                    1|[Eternal Witness](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=51628)  |                    1|[Choke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45431)              |
 |                    1|[Brushland](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129496)       |                    2|[Essence Warden](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389505)    |
 |                    2|[Brushland](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129496)       |                    2|[Shapers' Sanctuary](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435362)|
 |                    2|[Nettle Sentinel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442171) |                    2|[Path to Exile](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220511)     |

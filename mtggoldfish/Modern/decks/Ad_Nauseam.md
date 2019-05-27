@@ -57,8 +57,8 @@
 |                     |                                                                                                   |                    4|[Deputy of Detention](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457309)     |
 |                     |                                                                                                   |                    2|[Fatal Push](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423724)              |
 |                     |                                                                                                   |                    1|[Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)                   |
-|                     |                                                                                                   |                    1|[Disenchant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=847)                 |
 |                     |                                                                                                   |                    1|[Boseiju, Who Shelters All](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=75305)|
+|                     |                                                                                                   |                    1|[Disenchant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=847)                 |
 |                     |                                                                                                   |                    1|[Engineered Explosives](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=50139)    |
 |                     |                                                                                                   |                    3|[Bontu's Last Reckoning](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430749)  |
 
