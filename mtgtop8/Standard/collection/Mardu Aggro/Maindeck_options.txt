@@ -1,14 +1,14 @@
-2 Clifftop Retreat
+2 Mortify
 1 Plains
+3 Sorin, Vengeful Bloodlord
 1 Hunted Witness
 2 Hunted Witness
 2 Revival / Revenge
 2 Plains
 3 Hunted Witness
-3 Plaguecrafter
-3 Sorin, Vengeful Bloodlord
-3 Priest of Forgotten Gods
 3 Midnight Reaper
+3 Plaguecrafter
+3 Priest of Forgotten Gods
 4 Hunted Witness
 4 Priest of Forgotten Gods
 3 Tithe Taker
@@ -17,12 +17,16 @@
 4 Heartfire
 1 Grim Initiate
 2 Grim Initiate
+3 Clifftop Retreat
 1 Mountain
 1 Seraph of the Scales
 1 Bedevil
 2 Seraph of the Scales
-3 Clifftop Retreat
 1 Adanto Vanguard
+2 Adanto Vanguard
+3 Adanto Vanguard
+4 Clifftop Retreat
+4 Adanto Vanguard
 1 Shalai, Voice of Plenty
 1 Resplendent Angel
 1 Settle the Wreckage
@@ -37,23 +41,19 @@
 2 Lyra Dawnbringer
 2 Shalai, Voice of Plenty
 2 Resplendent Angel
-2 Adanto Vanguard
 2 Tocatli Honor Guard
 2 Aurelia, Exemplar of Justice
-2 Cast Down
 2 Lava Coil
+2 Cast Down
 3 Resplendent Angel
 3 Lyra Dawnbringer
 3 Tocatli Honor Guard
-3 Adanto Vanguard
 3 Mortify
 3 Lava Coil
 3 Aurelia, Exemplar of Justice
 3 Deafening Clarion
-4 Clifftop Retreat
 4 Resplendent Angel
 4 Lyra Dawnbringer
-4 Adanto Vanguard
 1 Pitiless Pontiff
 3 Plains
 1 God-Eternal Bontu
@@ -66,10 +66,40 @@
 4 Midnight Reaper
 4 Footlight Fiend
 4 Tithe Taker
+1 Dreadhorde Arcanist
+1 Legion Warboss
+1 Angrath's Rampage
+1 Reckless Rage
+1 Feather, the Redeemed
+1 Defiant Strike
+1 Sheltering Light
+1 Tenth District Legionnaire
+2 Dreadhorde Arcanist
+2 Angrath's Rampage
+2 Feather, the Redeemed
+2 Tenth District Legionnaire
+2 Defiant Strike
+2 Reckless Rage
+2 Sheltering Light
+2 Legion Warboss
+3 Angrath's Rampage
+3 Dreadhorde Arcanist
+3 Sheltering Light
+3 Legion Warboss
+3 Reckless Rage
+3 Tenth District Legionnaire
+3 Defiant Strike
+3 Feather, the Redeemed
+4 Dreadhorde Arcanist
+4 Sorin, Vengeful Bloodlord
+4 Feather, the Redeemed
+4 Reckless Rage
+4 Defiant Strike
+4 Tenth District Legionnaire
 1 Theater of Horrors
 1 Hero of Precinct One
-2 Heroic Reinforcements
 2 Hero of Precinct One
+2 Heroic Reinforcements
 3 Heroic Reinforcements
 3 Hero of Precinct One
 4 Heroic Reinforcements
