@@ -23,3 +23,20 @@
 |4 [Thorn Lieutenant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447339)   |                                                                                   |
 |3 [Thrashing Brontodon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456570)|                                                                                   |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                         Maindeck Card                                         |*n*<sup>th</sup> copy|                                        Sideboard Card                                         |
+|--------------------:|-----------------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------------|
+|                    1|[Arboreal Grazer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461076)     |                    1|[Ripjaw Raptor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435359)       |
+|                    1|[Finale of Revelation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460978)|                    1|[Wildgrowth Walker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435372)   |
+|                    2|[Arboreal Grazer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461076)     |                    1|[Merfolk Branchwalker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435353)|
+|                    2|[Finale of Revelation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460978)|                    2|[Ripjaw Raptor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435359)       |
+|                    3|[Arboreal Grazer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461076)     |                    2|[Merfolk Branchwalker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435353)|
+|                    4|[Arboreal Grazer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461076)     |                    2|[Wildgrowth Walker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435372)   |
+|                   11|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)              |                    3|[Biogenic Ooze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457266)       |
+|                   12|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)              |                    3|[Wildgrowth Walker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435372)   |
+|                     |                                                                                               |                    3|[Merfolk Branchwalker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435353)|
+|                     |                                                                                               |                    4|[Wildgrowth Walker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435372)   |
+|                     |                                                                                               |                    4|[Merfolk Branchwalker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435353)|
+

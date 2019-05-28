@@ -9,10 +9,10 @@
 3 Field of Ruin
 3 Wall of Omens
 3 Restoration Angel
-4 Restoration Angel
 4 Field of Ruin
 4 Celestial Colonnade
 4 Island
+4 Restoration Angel
 5 Island
 1 Surgical Extraction
 1 Opt
@@ -43,14 +43,14 @@
 2 Polluted Delta
 3 Lingering Souls
 4 Lingering Souls
-1 Search for Azcanta
 1 Spell Pierce
+1 Search for Azcanta
 2 Spell Pierce
 2 Sulfur Falls
 1 Remand
-1 Kitchen Finks
 1 Ghost Quarter
 1 Hieroglyphic Illumination
+1 Kitchen Finks
 2 Remand
 2 Jace, the Mind Sculptor
 3 Remand
@@ -63,6 +63,14 @@
 2 Grim Lavamancer
 2 Spreading Seas
 4 Teferi, Time Raveler
+1 Boros Charm
+1 Negate
+2 Boros Charm
+2 Electrolyze
+3 Arid Mesa
+3 Logic Knot
+4 Arid Mesa
+4 Scalding Tarn
 1 Narset, Parter of Veils
 1 Thoughtseize
 1 Inquisition of Kozilek
@@ -82,8 +90,8 @@
 3 Inquisition of Kozilek
 4 Polluted Delta
 1 Countersquall
-1 Tasigur, the Golden Fang
 1 Blood Crypt
+1 Tasigur, the Golden Fang
 1 Kolaghan's Command
 1 Marsh Flats
 1 Faithless Looting
@@ -97,11 +105,3 @@
 3 Faithless Looting
 4 Marsh Flats
 4 Faithless Looting
-1 Boros Charm
-1 Negate
-2 Boros Charm
-2 Electrolyze
-3 Arid Mesa
-3 Logic Knot
-4 Arid Mesa
-4 Scalding Tarn
