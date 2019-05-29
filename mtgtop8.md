@@ -38,11 +38,11 @@
 
 # Legacy
 
-|                      A                       |                    B                     |                          C                           |                             D                              |
-|----------------------------------------------|------------------------------------------|------------------------------------------------------|------------------------------------------------------------|
-|[Affinity](./mtgtop8/Legacy/decks/Affinity.md)|[Dredge](./mtgtop8/Legacy/decks/Dredge.md)|[MUD](./mtgtop8/Legacy/decks/MUD.md)                  |[Stax](./mtgtop8/Legacy/decks/Stax.md)                      |
-|[Burn](./mtgtop8/Legacy/decks/Burn.md)        |[Lands](./mtgtop8/Legacy/decks/Lands.md)  |[Shoal Infect](./mtgtop8/Legacy/decks/Shoal_Infect.md)|[The Rock (Junk)](./mtgtop8/Legacy/decks/The_Rock_(Junk).md)|
+|                      A                       |                    B                     |                          C                           |                  D                   |
+|----------------------------------------------|------------------------------------------|------------------------------------------------------|--------------------------------------|
+|[Affinity](./mtgtop8/Legacy/decks/Affinity.md)|[Dredge](./mtgtop8/Legacy/decks/Dredge.md)|[MUD](./mtgtop8/Legacy/decks/MUD.md)                  |[Stax](./mtgtop8/Legacy/decks/Stax.md)|
+|[Burn](./mtgtop8/Legacy/decks/Burn.md)        |[Lands](./mtgtop8/Legacy/decks/Lands.md)  |[Shoal Infect](./mtgtop8/Legacy/decks/Shoal_Infect.md)|                                      |
 
 
 
-#### Last Updated at 01:38PM on May 28, 2019
+#### Last Updated at 01:20AM on May 29, 2019

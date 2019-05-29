@@ -1,15 +1,74 @@
 11 Plains
+1 Mana Confluence
+1 Incubation / Incongruity
+1 Ghor-Clan Rampager
+1 Swamp
+1 Grisly Salvage
+1 Bloodstained Mire
+1 Hazoret the Fervent
+1 Overgrown Tomb
+1 Soulflayer
+1 Spark Trooper
+1 Traverse the Ulvenwald
+1 Sylvan Caryatid
+1 Nightveil Predator
+1 Samut, Voice of Dissent
+1 Faithless Looting
+1 Cavern of Souls
+1 Blood Crypt
+1 Lotleth Troll
+1 Zetalpa, Primal Dawn
+1 Verdant Catacombs
+2 Incubation / Incongruity
+2 Grisly Salvage
+2 Bloodstained Mire
+2 Nightveil Predator
+2 Blood Crypt
+2 Lotleth Troll
+2 Samut, Voice of Dissent
+2 Swamp
+2 Verdant Catacombs
+2 Traverse the Ulvenwald
+2 Spark Trooper
+2 Overgrown Tomb
+2 Mana Confluence
+2 Zetalpa, Primal Dawn
+2 Soulflayer
+2 Sylvan Caryatid
+2 Faithless Looting
+3 Incubation / Incongruity
+3 Grisly Salvage
+3 Zetalpa, Primal Dawn
+3 Traverse the Ulvenwald
+3 Soulflayer
+3 Faithless Looting
+3 Sylvan Caryatid
+3 Nightveil Predator
+3 Bloodstained Mire
+3 Lotleth Troll
+3 Verdant Catacombs
+3 Samut, Voice of Dissent
+3 Spark Trooper
+4 Bloodstained Mire
+4 Traverse the Ulvenwald
+4 Grisly Salvage
+4 Sylvan Caryatid
+4 Lotleth Troll
+4 Faithless Looting
+4 Incubation / Incongruity
+4 Verdant Catacombs
+4 Soulflayer
 1 Snow-Covered Island
 1 Vendilion Clique
 1 Reflector Mage
 1 Wall of Omens
 1 Celestial Colonnade
-1 Mutavault
 1 Aether Vial
 1 Flickerwisp
 1 Kitchen Finks
 1 Eldrazi Displacer
 1 Hallowed Fountain
+1 Mutavault
 1 Spellstutter Sprite
 1 Adarkar Wastes
 1 Flooded Strand
@@ -22,7 +81,6 @@
 1 Thalia, Guardian of Thraben
 2 Wall of Omens
 2 Seachrome Coast
-2 Mutavault
 2 Aether Vial
 2 Flickerwisp
 2 Reflector Mage
@@ -30,6 +88,7 @@
 2 Thought-Knot Seer
 2 Spellstutter Sprite
 2 Adarkar Wastes
+2 Mutavault
 2 Eldrazi Displacer
 2 Hallowed Fountain
 2 Eldrazi Temple
@@ -39,7 +98,6 @@
 3 Seachrome Coast
 3 Aether Vial
 3 Flickerwisp
-3 Mutavault
 3 Thalia, Guardian of Thraben
 3 Spellstutter Sprite
 3 Reflector Mage
@@ -47,74 +105,16 @@
 3 Adarkar Wastes
 3 Eldrazi Displacer
 3 Thought-Knot Seer
+3 Mutavault
 4 Wall of Omens
 4 Path to Exile
-4 Mutavault
 4 Aether Vial
 4 Eldrazi Displacer
 4 Eldrazi Temple
 4 Adarkar Wastes
 4 Thought-Knot Seer
 4 Spellstutter Sprite
-1 Mana Confluence
-1 Incubation / Incongruity
-1 Swamp
-1 Ghor-Clan Rampager
-1 Grisly Salvage
-1 Verdant Catacombs
-1 Hazoret the Fervent
-1 Overgrown Tomb
-1 Soulflayer
-1 Spark Trooper
-1 Traverse the Ulvenwald
-1 Sylvan Caryatid
-1 Nightveil Predator
-1 Samut, Voice of Dissent
-1 Faithless Looting
-1 Bloodstained Mire
-1 Cavern of Souls
-1 Blood Crypt
-1 Lotleth Troll
-1 Zetalpa, Primal Dawn
-2 Incubation / Incongruity
-2 Grisly Salvage
-2 Verdant Catacombs
-2 Swamp
-2 Nightveil Predator
-2 Bloodstained Mire
-2 Blood Crypt
-2 Lotleth Troll
-2 Samut, Voice of Dissent
-2 Traverse the Ulvenwald
-2 Spark Trooper
-2 Overgrown Tomb
-2 Mana Confluence
-2 Zetalpa, Primal Dawn
-2 Soulflayer
-2 Sylvan Caryatid
-2 Faithless Looting
-3 Incubation / Incongruity
-3 Grisly Salvage
-3 Bloodstained Mire
-3 Verdant Catacombs
-3 Zetalpa, Primal Dawn
-3 Traverse the Ulvenwald
-3 Soulflayer
-3 Faithless Looting
-3 Sylvan Caryatid
-3 Nightveil Predator
-3 Lotleth Troll
-3 Samut, Voice of Dissent
-3 Spark Trooper
-4 Traverse the Ulvenwald
-4 Grisly Salvage
-4 Verdant Catacombs
-4 Bloodstained Mire
-4 Sylvan Caryatid
-4 Lotleth Troll
-4 Faithless Looting
-4 Incubation / Incongruity
-4 Soulflayer
+4 Mutavault
 1 Field of Ruin
 1 Buried Ruin
 1 Zhalfirin Void
@@ -171,40 +171,40 @@
 6 Forest
 7 Forest
 8 Forest
-1 Lava Spike
 1 Monastery Swiftspear
+1 Lava Spike
 1 Soul-Scar Mage
 1 Apostle's Blessing
 1 Crash Through
-1 Warlord's Fury
 1 Young Pyromancer
 1 Lightning Bolt
 1 Manamorphose
+1 Warlord's Fury
 1 Mountain
 1 Kiln Fiend
 1 Temur Battle Rage
 2 Monastery Swiftspear
 2 Lava Spike
 2 Soul-Scar Mage
-2 Apostle's Blessing
-2 Crash Through
-2 Warlord's Fury
 2 Young Pyromancer
 2 Mountain
 2 Temur Battle Rage
+2 Crash Through
 2 Manamorphose
 2 Kiln Fiend
 2 Lightning Bolt
+2 Warlord's Fury
+2 Apostle's Blessing
 3 Monastery Swiftspear
 3 Lava Spike
 3 Soul-Scar Mage
 3 Manamorphose
-3 Crash Through
-3 Warlord's Fury
 3 Kiln Fiend
 3 Lightning Bolt
+3 Warlord's Fury
 3 Mountain
 3 Temur Battle Rage
+3 Crash Through
 4 Lava Spike
 4 Monastery Swiftspear
 4 Soul-Scar Mage

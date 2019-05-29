@@ -33,5 +33,5 @@
 
 |*n*<sup>th</sup> copy|                                 Maindeck Card                                  |*n*<sup>th</sup> copy|Sideboard Card|
 |--------------------:|--------------------------------------------------------------------------------|---------------------|--------------|
-|                   14|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)|                     |              |
+|                   16|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)|                     |              |
 

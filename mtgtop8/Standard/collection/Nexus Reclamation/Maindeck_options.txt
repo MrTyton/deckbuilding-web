@@ -1,22 +1,22 @@
 1 Narset, Parter of Veils
-1 Temple Garden
-1 Sunpetal Grove
 1 Teferi, Hero of Dominaria
 1 Hallowed Fountain
 1 Glacial Fortress
-2 Sunpetal Grove
+1 Temple Garden
+1 Sunpetal Grove
 2 Temple Garden
 2 Hallowed Fountain
 2 Glacial Fortress
+2 Sunpetal Grove
 3 Glacial Fortress
 3 Hallowed Fountain
 4 Hallowed Fountain
 3 Blast Zone
 2 Blink of an Eye
 2 Teferi, Hero of Dominaria
-3 Temple Garden
 3 Sunpetal Grove
 3 Teferi, Hero of Dominaria
+3 Temple Garden
 1 Negate
 1 Revitalize
 2 Revitalize
@@ -50,14 +50,6 @@
 3 Bond of Flourishing
 3 Narset, Parter of Veils
 4 Bond of Flourishing
-1 Plains
-1 Dovin's Veto
-1 Absorb
-2 Teferi, Time Raveler
-2 Absorb
-3 Teferi, Time Raveler
-4 Teferi, Time Raveler
-4 Sunpetal Grove
 1 Arboreal Grazer
 1 Hydroid Krasis
 1 Jadelight Ranger
@@ -75,10 +67,18 @@
 4 Jadelight Ranger
 4 Arboreal Grazer
 4 Nissa, Who Shakes the World
+4 Llanowar Elves
 7 Forest
 8 Forest
 9 Forest
 10 Forest
 11 Forest
 12 Forest
-4 Llanowar Elves
+1 Plains
+1 Dovin's Veto
+1 Absorb
+2 Teferi, Time Raveler
+2 Absorb
+3 Teferi, Time Raveler
+4 Teferi, Time Raveler
+4 Sunpetal Grove
