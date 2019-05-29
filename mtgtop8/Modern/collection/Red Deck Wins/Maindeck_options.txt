@@ -1,11 +1,12 @@
-1 Stomping Ground
 2 Skullcrack
 4 Lightning Helix
-1 Light Up the Stage
+1 Stomping Ground
 3 Arid Mesa
-3 Sacred Foundry
+1 Light Up the Stage
 4 Arid Mesa
+3 Sacred Foundry
 2 Light Up the Stage
+4 Mountain
 2 Stomping Ground
 1 Copperline Gorge
 1 Atarka's Command
@@ -13,7 +14,6 @@
 3 Atarka's Command
 4 Atarka's Command
 3 Light Up the Stage
-4 Mountain
 5 Mountain
 1 Wild Nacatl
 2 Copperline Gorge
@@ -47,19 +47,19 @@
 12 Mountain
 1 Windswept Heath
 1 Deflecting Palm
-1 Plains
-1 Magma Jet
 1 Dangerous Wager
+1 Magma Jet
+1 Plains
 2 Plains
-2 Magma Jet
 2 Dangerous Wager
+2 Magma Jet
 1 Scalding Tarn
 2 Scalding Tarn
 3 Scalding Tarn
 4 Scalding Tarn
+4 Copperline Gorge
 4 Blackcleave Cliffs
 4 Shard Volley
-4 Copperline Gorge
 13 Mountain
 3 Ramunap Ruins
 1 Snow-Covered Mountain
@@ -70,7 +70,6 @@
 1 Saheeli, Sublime Artificer
 1 Goblin Cratermaker
 1 Krenko, Tin Street Kingpin
-1 Simian Spirit Guide
 1 Angrath, Captain of Chaos
 1 Hazoret the Fervent
 1 Chandra, Torch of Defiance
@@ -82,33 +81,34 @@
 1 Goblin Rabblemaster
 1 Flame Slash
 1 Legion Warboss
+1 Simian Spirit Guide
 2 Gemstone Caverns
 2 Snow-Covered Mountain
 2 Abrade
 2 Goblin Cratermaker
 2 Krenko, Tin Street Kingpin
 2 Blood Moon
-2 Simian Spirit Guide
 2 Chandra's Triumph
 2 Chandra, Torch of Defiance
 2 Goblin Rabblemaster
+2 Simian Spirit Guide
 2 Legion Warboss
 3 Goblin Cratermaker
-3 Simian Spirit Guide
 3 Snow-Covered Mountain
 3 Blood Moon
 3 Legion Warboss
 3 Goblin Rabblemaster
+3 Simian Spirit Guide
 4 Legion Warboss
-4 Simian Spirit Guide
 4 Snow-Covered Mountain
 4 Goblin Rabblemaster
+4 Simian Spirit Guide
+1 Mutagenic Growth
 1 Young Pyromancer
 1 The Flame of Keld
 1 Wizard's Lightning
 1 Ghitu Lavarunner
 1 Soul-Scar Mage
-1 Mutagenic Growth
 1 Faithless Looting
 2 Faithless Looting
 2 Wizard's Lightning
@@ -132,27 +132,27 @@
 16 Mountain
 1 Mogg Fanatic
 1 Fanatical Firebrand
-1 Burning-Tree Emissary
-1 Reckless Bushwhacker
 1 Foundry Street Denizen
 1 Goblin Bushwhacker
+1 Reckless Bushwhacker
 1 Legion Loyalist
+1 Burning-Tree Emissary
 1 Goblin Grenade
 2 Fanatical Firebrand
-2 Burning-Tree Emissary
-2 Reckless Bushwhacker
 2 Goblin Grenade
 2 Foundry Street Denizen
 2 Legion Loyalist
+2 Reckless Bushwhacker
+2 Burning-Tree Emissary
 2 Mogg Fanatic
 2 Goblin Bushwhacker
-3 Reckless Bushwhacker
-3 Burning-Tree Emissary
 3 Fanatical Firebrand
+3 Burning-Tree Emissary
 3 Goblin Grenade
 3 Mogg Fanatic
 3 Foundry Street Denizen
 3 Goblin Bushwhacker
+3 Reckless Bushwhacker
 3 Legion Loyalist
 4 Burning-Tree Emissary
 4 Reckless Bushwhacker

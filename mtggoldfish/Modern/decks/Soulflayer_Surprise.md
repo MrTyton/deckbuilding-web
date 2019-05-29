@@ -25,3 +25,22 @@
 |2 [Engineered Explosives](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=50139)|2 [Assassin's Trophy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452902)|                                                                                         |
 |                                                                                                 |2 [Lightning Axe](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409925)    |                                                                                         |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                          Maindeck Card                                          |*n*<sup>th</sup> copy|                                        Sideboard Card                                         |
+|--------------------:|-------------------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------------|
+|                    1|[Mana Confluence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409573)       |                    1|[Collective Brutality](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414380)|
+|                    1|[Spark Trooper](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=455771)         |                    2|[Collective Brutality](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414380)|
+|                    1|[Nightveil Predator](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452941)    |                     |                                                                                               |
+|                    1|[Incubation/Incongruity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457370)|                     |                                                                                               |
+|                    2|[Incubation/Incongruity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457370)|                     |                                                                                               |
+|                    2|[Nightveil Predator](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452941)    |                     |                                                                                               |
+|                    2|[Mana Confluence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409573)       |                     |                                                                                               |
+|                    2|[Spark Trooper](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=455771)         |                     |                                                                                               |
+|                    3|[Nightveil Predator](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452941)    |                     |                                                                                               |
+|                    3|[Incubation/Incongruity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457370)|                     |                                                                                               |
+|                    3|[Spark Trooper](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=455771)         |                     |                                                                                               |
+|                    4|[Lotleth Troll](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405289)         |                     |                                                                                               |
+|                    4|[Incubation/Incongruity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457370)|                     |                                                                                               |
+
