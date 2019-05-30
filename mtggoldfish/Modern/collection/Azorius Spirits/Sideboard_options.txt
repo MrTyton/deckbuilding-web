@@ -1,10 +1,11 @@
 1 Deputy of Detention
-1 Chalice of the Void
-2 Chalice of the Void
 3 Rest in Peace
 1 Settle the Wreckage
-3 Chalice of the Void
 2 Stony Silence
+1 Chalice of the Void
+2 Chalice of the Void
+1 Blessed Alliance
+3 Chalice of the Void
 1 Eidolon of Rhetoric
 2 Eidolon of Rhetoric
 1 Teferi, Time Raveler
@@ -12,13 +13,13 @@
 2 Grafdigger's Cage
 1 Unified Will
 2 Unified Will
-1 Blessed Alliance
 1 Dovin's Veto
+1 Ceremonious Rejection
 1 Thalia, Guardian of Thraben
 2 Declaration in Stone
 1 Ephara, God of the Polis
-1 Rattlechains
 1 Spell Queller
+1 Rattlechains
 2 Hurkyl's Recall
 2 Rattlechains
 2 Spell Queller
@@ -26,7 +27,6 @@
 1 Condemn
 2 Condemn
 2 Deputy of Detention
-1 Ceremonious Rejection
 2 Ceremonious Rejection
 1 Negate
 1 Tocatli Honor Guard
@@ -36,24 +36,26 @@
 1 Dovin, Grand Arbiter
 1 Kataki, War's Wage
 2 Geist of Saint Traft
-1 Spell Pierce
-1 Narset, Parter of Veils
-2 Spell Pierce
-2 Narset, Parter of Veils
 1 Selective Snare
 2 Selective Snare
+1 Narset, Parter of Veils
+1 Spell Pierce
+2 Narset, Parter of Veils
+2 Spell Pierce
 1 Reflector Mage
 2 Negate
 2 Reflector Mage
-1 Gideon, Ally of Zendikar
-1 Fragmentize
+2 Tocatli Honor Guard
+3 Stony Silence
+3 Tocatli Honor Guard
 1 Leyline of Sanctity
+1 Fragmentize
+1 Gideon, Ally of Zendikar
 2 Leyline of Sanctity
-3 Ceremonious Rejection
 3 Leyline of Sanctity
-3 Auriok Champion
-1 Meddling Mage
+3 Ceremonious Rejection
 1 Phyrexian Revoker
+1 Meddling Mage
 2 Phyrexian Revoker
 2 Dovin's Veto
 3 Dovin's Veto
@@ -61,11 +63,8 @@
 1 Nebelgast Herald
 1 Vapor Snag
 2 Vapor Snag
-3 Spell Queller
 3 Rattlechains
-2 Tocatli Honor Guard
-3 Tocatli Honor Guard
-3 Stony Silence
+3 Spell Queller
 1 Worship
 4 Rest in Peace
 1 Phantasmal Image

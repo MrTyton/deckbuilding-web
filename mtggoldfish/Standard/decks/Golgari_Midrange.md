@@ -40,8 +40,8 @@
 |                    2|[Liliana, Dreadhorde General](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461024)|                    4|[Moment of Craving](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439736)   |
 |                    3|[Vraska, Golgari Queen](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452963)      |                    1|[Vivien Reid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447344)         |
 |                    4|[Nissa, Who Shakes the World](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461096)|                     |                                                                                               |
-|                    1|[Find/Finality](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452975)              |                     |                                                                                               |
 |                    1|[Vraska's Contempt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435283)          |                     |                                                                                               |
+|                    1|[Find/Finality](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452975)              |                     |                                                                                               |
 |                    2|[Vraska's Contempt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435283)          |                     |                                                                                               |
 |                    4|[Casualties of War](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461114)          |                     |                                                                                               |
 

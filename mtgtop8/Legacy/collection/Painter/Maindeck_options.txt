@@ -1,25 +1,8 @@
-2 Preordain
-2 Force of Will
-2 Trinket Mage
-3 Preordain
-3 Force of Will
-3 Trinket Mage
-4 Island
-4 Force of Will
-1 Academy Ruins
-1 Tormod's Crypt
-1 Pithing Needle
-1 Inventors' Fair
-1 The Antiquities War
-1 Retrofitter Foundry
-1 Seat of the Synod
-1 Sai, Master Thopterist
-1 Aether Spellbomb
 1 Darksteel Citadel
+2 Sai, Master Thopterist
 2 Seat of the Synod
 2 The Antiquities War
 2 Darksteel Citadel
-2 Sai, Master Thopterist
 3 Sai, Master Thopterist
 3 The Antiquities War
 3 Mox Opal
@@ -29,38 +12,48 @@
 4 Trinket Mage
 4 Seat of the Synod
 4 Mox Opal
-5 Island
+1 Great Furnace
+2 Great Furnace
+3 Goblin Welder
+4 Lotus Petal
+1 Imperial Recruiter
+2 Imperial Recruiter
+4 Pyroblast
+1 Simian Spirit Guide
+2 Blood Moon
+4 Mountain
+5 Mountain
 1 Hope of Ghirapur
-1 Wooded Foothills
-1 Karn, Scion of Urza
-1 Chandra, Torch of Defiance
-1 Magus of the Moon
-2 Ensnaring Bridge
-2 Chandra, Torch of Defiance
-4 City of Traitors
-1 Phyrexian Revoker
+1 Red Elemental Blast
+2 Red Elemental Blast
+1 Bloodstained Mire
 1 Smuggler's Copter
 2 Smuggler's Copter
 2 Bloodstained Mire
 3 Smuggler's Copter
+3 Imperial Recruiter
 3 Bloodstained Mire
+4 Imperial Recruiter
+1 Volcanic Island
+1 Polluted Delta
+2 Polluted Delta
+6 Island
 3 Blood Moon
 4 Blood Moon
 1 Faithless Looting
 4 Goblin Welder
+2 Simian Spirit Guide
 3 Simian Spirit Guide
 4 Simian Spirit Guide
+6 Mountain
 7 Mountain
 8 Mountain
 4 Karn, the Great Creator
-1 Volcanic Island
 1 Brainstorm
 1 Ponder
 1 Spell Pierce
 1 Scalding Tarn
-1 Polluted Delta
 2 Ponder
-2 Polluted Delta
 2 Brainstorm
 2 Scalding Tarn
 3 Scalding Tarn
@@ -72,11 +65,17 @@
 1 Daretti, Ingenious Iconoclast
 1 Swamp
 1 Badlands
+1 Karn, Scion of Urza
+2 Ensnaring Bridge
+3 Polluted Delta
+4 Polluted Delta
 1 Jeweled Amulet
+2 Aether Spellbomb
 1 Intuition
 1 Flooded Strand
 2 Volcanic Island
 2 Spell Pierce
+1 Wooded Foothills
 1 Plateau
 1 Ethersworn Canonist
 1 Enlightened Tutor
@@ -87,13 +86,28 @@
 2 Ethersworn Canonist
 3 Enlightened Tutor
 3 Plateau
-1 Arid Mesa
-1 Jaya Ballard, Task Mage
-2 Arid Mesa
-2 Phyrexian Revoker
-2 Magus of the Moon
-2 Karn, Scion of Urza
-3 Ensnaring Bridge
+1 Phyrexian Revoker
+1 Ichor Wellspring
+2 Daretti, Ingenious Iconoclast
+2 Ichor Wellspring
+3 Daretti, Ingenious Iconoclast
+4 Bloodstained Mire
+4 Smuggler's Copter
+1 Wurmcoil Engine
+1 Combustible Gearhulk
+1 Daretti, Scrap Savant
+1 Myr Battlesphere
+1 Sundering Titan
+2 Wurmcoil Engine
+2 Sundering Titan
+2 Daretti, Scrap Savant
+2 Faithless Looting
+3 Daretti, Scrap Savant
+3 Faithless Looting
+3 Great Furnace
+4 Faithless Looting
+4 Daretti, Scrap Savant
+4 Great Furnace
 1 Lightning Bolt
 1 Darkslick Shores
 1 Kolaghan's Command
@@ -110,44 +124,44 @@
 2 Swamp
 2 Kolaghan's Command
 2 Snapcaster Mage
-2 Baleful Strix
 2 Dark Confidant
 2 Darkslick Shores
-3 Polluted Delta
+2 Baleful Strix
 3 Red Elemental Blast
 3 Lightning Bolt
 3 Baleful Strix
 3 Dark Confidant
-4 Polluted Delta
-4 Red Elemental Blast
 4 Dark Confidant
-1 Ichor Wellspring
-2 Daretti, Ingenious Iconoclast
-2 Ichor Wellspring
-3 Daretti, Ingenious Iconoclast
-4 Bloodstained Mire
-4 Smuggler's Copter
-1 Sundering Titan
-1 Wurmcoil Engine
-1 Combustible Gearhulk
-1 Daretti, Scrap Savant
-1 Myr Battlesphere
-2 Wurmcoil Engine
-2 Daretti, Scrap Savant
-2 Sundering Titan
-2 Faithless Looting
-3 Daretti, Scrap Savant
-3 Great Furnace
-3 Faithless Looting
-4 Faithless Looting
-4 Daretti, Scrap Savant
-4 Great Furnace
-2 Aether Spellbomb
-6 Island
+4 Red Elemental Blast
+1 Narset, Parter of Veils
+1 Jace, the Mind Sculptor
+1 Trinisphere
+1 Thirst for Knowledge
+1 Sorcerous Spyglass
+1 Chrome Mox
+1 Transmute Artifact
+1 Whir of Invention
+1 Chalice of the Void
+2 Jace, the Mind Sculptor
+2 Chrome Mox
+2 Whir of Invention
+2 Chalice of the Void
+2 Thirst for Knowledge
+3 Whir of Invention
+3 Chalice of the Void
+3 Chrome Mox
+3 Thirst for Knowledge
+4 Chalice of the Void
+7 Island
+8 Island
 1 Goblin Cratermaker
+1 Chandra, Torch of Defiance
+1 Magus of the Moon
 1 Grim Monolith
 1 Light Up the Stage
+2 Chandra, Torch of Defiance
 2 Light Up the Stage
+4 City of Traitors
 9 Mountain
 10 Mountain
 12 Mountain

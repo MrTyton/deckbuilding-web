@@ -39,8 +39,8 @@
 |                    3|[Oath of Nissa](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407650)          |                     |                                                                                             |
 |                    4|[Wooded Foothills](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405116)       |                     |                                                                                             |
 |                    4|[Oath of Nissa](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407650)          |                     |                                                                                             |
-|                    1|[Noble Hierarch](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=179434)         |                     |                                                                                             |
-|                    2|[Noble Hierarch](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=179434)         |                     |                                                                                             |
 |                    1|[Birds of Paradise](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129906)      |                     |                                                                                             |
 |                    2|[Birds of Paradise](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129906)      |                     |                                                                                             |
+|                    1|[Noble Hierarch](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=179434)         |                     |                                                                                             |
+|                    2|[Noble Hierarch](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=179434)         |                     |                                                                                             |
 

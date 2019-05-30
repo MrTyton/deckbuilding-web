@@ -27,7 +27,7 @@
 
 |*n*<sup>th</sup> copy|                                       Maindeck Card                                       |*n*<sup>th</sup> copy|                                     Sideboard Card                                      |
 |--------------------:|-------------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------|
-|                    2|[Thorn Lieutenant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447339)|                    1|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)        |
 |                    1|[Thorn Lieutenant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447339)|                    1|[Shivan Fire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443030)   |
-|                     |                                                                                           |                    3|[Legion Warboss](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452859)|
+|                    2|[Thorn Lieutenant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447339)|                    3|[Legion Warboss](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452859)|
+|                     |                                                                                           |                    1|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)        |
 
