@@ -1,9 +1,9 @@
 11 Plains
-1 Mana Confluence
 1 Incubation / Incongruity
 1 Ghor-Clan Rampager
 1 Swamp
 1 Bloodstained Mire
+1 Mana Confluence
 1 Verdant Catacombs
 1 Nightveil Predator
 1 Spark Trooper
@@ -22,8 +22,8 @@
 2 Incubation / Incongruity
 2 Spark Trooper
 2 Bloodstained Mire
-2 Mana Confluence
 2 Nightveil Predator
+2 Mana Confluence
 2 Verdant Catacombs
 2 Swamp
 2 Grisly Salvage
@@ -60,12 +60,12 @@
 4 Soulflayer
 1 Field of Ruin
 1 Zhalfirin Void
-1 Lightning Greaves
 1 Buried Ruin
 1 Lodestone Golem
 1 Skysovereign, Consul Flagship
-1 Wurmcoil Engine
 1 Karn, Scion of Urza
+1 Lightning Greaves
+1 Wurmcoil Engine
 1 Batterskull
 1 Inventors' Fair
 1 Astral Cornucopia
@@ -95,11 +95,11 @@
 2 Ancient Stirrings
 2 Lodestone Golem
 3 Zhalfirin Void
+3 Kuldotha Forgemaster
 3 Astral Cornucopia
 3 Ancient Stirrings
 3 Chalice of the Void
 3 Darksteel Citadel
-3 Kuldotha Forgemaster
 3 Lodestone Golem
 3 Everflowing Chalice
 3 Coretapper
@@ -114,8 +114,8 @@
 6 Forest
 7 Forest
 8 Forest
-1 Monastery Swiftspear
 1 Lava Spike
+1 Monastery Swiftspear
 1 Soul-Scar Mage
 1 Crash Through
 1 Young Pyromancer
@@ -129,8 +129,8 @@
 2 Monastery Swiftspear
 2 Lava Spike
 2 Soul-Scar Mage
-2 Young Pyromancer
 2 Apostle's Blessing
+2 Young Pyromancer
 2 Warlord's Fury
 2 Temur Battle Rage
 2 Manamorphose
@@ -196,8 +196,8 @@
 2 Thing in the Ice
 2 Opt
 2 Serum Visions
-3 Vapor Snag
 3 Snow-Covered Island
+3 Vapor Snag
 3 Serum Visions
 3 Psionic Blast
 3 Thing in the Ice

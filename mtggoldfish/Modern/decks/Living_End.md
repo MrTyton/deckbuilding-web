@@ -70,7 +70,7 @@
 |                     |                                                                                                |                    1|[Mindbreak Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197532)     |
 |                     |                                                                                                |                    1|[Creeping Corrosion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=214029) |
 |                     |                                                                                                |                    1|[Crumble to Dust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401850)    |
-|                     |                                                                                                |                    2|[Crumble to Dust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401850)    |
 |                     |                                                                                                |                    2|[Krosan Grip](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376394)        |
+|                     |                                                                                                |                    2|[Crumble to Dust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401850)    |
 |                     |                                                                                                |                    4|[Ricochet Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=191549)      |
 

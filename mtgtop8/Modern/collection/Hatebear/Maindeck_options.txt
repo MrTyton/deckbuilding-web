@@ -1,3 +1,7 @@
+1 Field of Ruin
+1 Chalice of the Void
+1 Dismember
+1 Gemstone Caverns
 1 Simian Spirit Guide
 2 Dismember
 2 Chalice of the Void
@@ -6,18 +10,14 @@
 3 Dismember
 3 Chalice of the Void
 3 Reality Smasher
-3 Simian Spirit Guide
 3 Gemstone Caverns
+3 Simian Spirit Guide
 4 Chalice of the Void
 4 Reality Smasher
 4 Simian Spirit Guide
 2 Cavern of Souls
-3 Horizon Canopy
 4 Horizon Canopy
 2 Thalia, Heretic Cathar
-1 Blade Splicer
-2 Blade Splicer
-3 Blade Splicer
 4 Blade Splicer
 8 Plains
 9 Plains
@@ -32,6 +32,7 @@
 2 Concealed Courtyard
 3 Concealed Courtyard
 4 Concealed Courtyard
+3 Restoration Angel
 1 Warping Wail
 1 Tidehollow Sculler
 1 Godless Shrine
@@ -40,7 +41,8 @@
 3 Tidehollow Sculler
 4 Tidehollow Sculler
 1 Declaration in Stone
-3 Restoration Angel
+1 Tectonic Edge
+2 Tectonic Edge
 1 Wall of Omens
 1 Mutavault
 1 Rustic Clachan
@@ -52,9 +54,11 @@
 1 Kaya, Orzhov Usurper
 2 Kaya, Orzhov Usurper
 3 Shambling Vent
+1 Thraben Inspector
+2 Thraben Inspector
+3 Thraben Inspector
+4 Thraben Inspector
 3 Shefet Dunes
-1 Tectonic Edge
-2 Tectonic Edge
 10 Plains
 11 Plains
 1 Renegade Rallier
@@ -64,6 +68,9 @@
 2 Renegade Rallier
 3 Razorverge Thicket
 4 Razorverge Thicket
+1 Eiganjo Castle
+1 Flagstones of Trokair
+1 Kitchen Finks
 1 Lingering Souls
 2 Lingering Souls
 1 Kytheon, Hero of Akros
@@ -77,15 +84,11 @@
 2 Declaration in Stone
 2 Smuggler's Copter
 4 Shefet Dunes
-1 Thraben Inspector
 1 Selfless Spirit
-2 Thraben Inspector
 2 Selfless Spirit
 3 Selfless Spirit
-3 Thraben Inspector
 3 Tectonic Edge
 4 Selfless Spirit
-4 Thraben Inspector
 4 Tectonic Edge
 1 Judge's Familiar
 1 Settle the Wreckage
@@ -111,9 +114,9 @@
 1 Noble Hierarch
 1 Temple Garden
 1 Windswept Heath
-1 Voice of Resurgence
 1 Stirring Wildwood
 1 Forest
+1 Voice of Resurgence
 2 Eternal Witness
 2 Scavenging Ooze
 2 Windswept Heath
