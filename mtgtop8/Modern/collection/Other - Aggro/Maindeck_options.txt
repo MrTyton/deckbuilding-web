@@ -37,8 +37,8 @@
 2 Soulflayer
 2 Blood Crypt
 3 Incubation / Incongruity
-3 Bloodstained Mire
 3 Spark Trooper
+3 Bloodstained Mire
 3 Nightveil Predator
 3 Grisly Salvage
 3 Verdant Catacombs
@@ -62,6 +62,7 @@
 1 Zhalfirin Void
 1 Buried Ruin
 1 Lodestone Golem
+1 Platinum Emperion
 1 Skysovereign, Consul Flagship
 1 Karn, Scion of Urza
 1 Lightning Greaves
@@ -74,7 +75,6 @@
 1 Memorial to Unity
 1 Mox Opal
 1 Ancient Stirrings
-1 Platinum Emperion
 1 Surge Node
 1 Tectonic Edge
 1 Blightsteel Colossus
@@ -115,8 +115,8 @@
 7 Forest
 8 Forest
 1 Lava Spike
-1 Monastery Swiftspear
 1 Soul-Scar Mage
+1 Monastery Swiftspear
 1 Crash Through
 1 Young Pyromancer
 1 Apostle's Blessing
@@ -126,9 +126,9 @@
 1 Warlord's Fury
 1 Kiln Fiend
 1 Temur Battle Rage
-2 Monastery Swiftspear
 2 Lava Spike
 2 Soul-Scar Mage
+2 Monastery Swiftspear
 2 Apostle's Blessing
 2 Young Pyromancer
 2 Warlord's Fury
@@ -138,9 +138,9 @@
 2 Kiln Fiend
 2 Mountain
 2 Lightning Bolt
-3 Monastery Swiftspear
 3 Lava Spike
 3 Soul-Scar Mage
+3 Monastery Swiftspear
 3 Manamorphose
 3 Temur Battle Rage
 3 Lightning Bolt
@@ -149,8 +149,8 @@
 3 Kiln Fiend
 3 Mountain
 4 Lava Spike
-4 Monastery Swiftspear
 4 Soul-Scar Mage
+4 Monastery Swiftspear
 4 Manamorphose
 4 Temur Battle Rage
 4 Lightning Bolt
