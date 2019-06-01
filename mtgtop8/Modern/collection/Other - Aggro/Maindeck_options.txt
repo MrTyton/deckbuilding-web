@@ -1,8 +1,18 @@
 11 Plains
-1 Incubation / Incongruity
-1 Ghor-Clan Rampager
 1 Swamp
 1 Bloodstained Mire
+1 Blood Crypt
+1 Faithless Looting
+2 Bloodstained Mire
+2 Swamp
+2 Faithless Looting
+2 Blood Crypt
+3 Bloodstained Mire
+3 Faithless Looting
+4 Bloodstained Mire
+4 Faithless Looting
+1 Incubation / Incongruity
+1 Ghor-Clan Rampager
 1 Mana Confluence
 1 Verdant Catacombs
 1 Nightveil Predator
@@ -10,96 +20,134 @@
 1 Grisly Salvage
 1 Hazoret the Fervent
 1 Overgrown Tomb
-1 Sylvan Caryatid
 1 Soulflayer
-1 Blood Crypt
+1 Sylvan Caryatid
 1 Zetalpa, Primal Dawn
 1 Cavern of Souls
-1 Lotleth Troll
 1 Traverse the Ulvenwald
+1 Lotleth Troll
 1 Samut, Voice of Dissent
-1 Faithless Looting
 2 Incubation / Incongruity
 2 Mana Confluence
 2 Spark Trooper
-2 Bloodstained Mire
 2 Nightveil Predator
 2 Verdant Catacombs
-2 Swamp
 2 Grisly Salvage
 2 Traverse the Ulvenwald
 2 Overgrown Tomb
 2 Sylvan Caryatid
 2 Lotleth Troll
-2 Faithless Looting
 2 Zetalpa, Primal Dawn
 2 Samut, Voice of Dissent
 2 Soulflayer
-2 Blood Crypt
 3 Incubation / Incongruity
 3 Spark Trooper
-3 Bloodstained Mire
 3 Nightveil Predator
 3 Verdant Catacombs
 3 Grisly Salvage
 3 Soulflayer
 3 Zetalpa, Primal Dawn
-3 Faithless Looting
 3 Samut, Voice of Dissent
 3 Lotleth Troll
 3 Sylvan Caryatid
 3 Traverse the Ulvenwald
 4 Traverse the Ulvenwald
-4 Verdant Catacombs
 4 Grisly Salvage
+4 Verdant Catacombs
 4 Lotleth Troll
-4 Bloodstained Mire
 4 Sylvan Caryatid
 4 Incubation / Incongruity
-4 Faithless Looting
 4 Soulflayer
+1 Insolent Neonate
+1 Viscera Seer
+1 Blackcleave Cliffs
+1 Lingering Souls
+1 Gravecrawler
+1 Bridge from Below
+1 Greater Gargadon
+1 Godless Shrine
+1 Stitcher's Supplier
+1 Bloodghast
+1 Marsh Flats
+1 Mayhem Devil
+2 Blackcleave Cliffs
+2 Godless Shrine
+2 Insolent Neonate
+2 Viscera Seer
+2 Lingering Souls
+2 Bloodghast
+2 Greater Gargadon
+2 Stitcher's Supplier
+2 Gravecrawler
+2 Marsh Flats
+2 Bridge from Below
+2 Mayhem Devil
+3 Marsh Flats
+3 Blood Crypt
+3 Blackcleave Cliffs
+3 Viscera Seer
+3 Bloodghast
+3 Insolent Neonate
+3 Lingering Souls
+3 Bridge from Below
+3 Mayhem Devil
+3 Greater Gargadon
+3 Stitcher's Supplier
+3 Gravecrawler
+4 Marsh Flats
+4 Lingering Souls
+4 Blackcleave Cliffs
+4 Blood Crypt
+4 Viscera Seer
+4 Gravecrawler
+4 Stitcher's Supplier
+4 Greater Gargadon
+4 Mayhem Devil
+4 Bloodghast
+4 Insolent Neonate
+4 Bridge from Below
 1 Field of Ruin
 1 Zhalfirin Void
 1 Buried Ruin
 1 Lodestone Golem
 1 Platinum Emperion
 1 Skysovereign, Consul Flagship
-1 Karn, Scion of Urza
 1 Lightning Greaves
 1 Wurmcoil Engine
 1 Batterskull
+1 Karn, Scion of Urza
 1 Inventors' Fair
 1 Astral Cornucopia
 1 Coretapper
 1 Everflowing Chalice
 1 Memorial to Unity
 1 Mox Opal
-1 Ancient Stirrings
+1 Blightsteel Colossus
 1 Surge Node
 1 Tectonic Edge
-1 Blightsteel Colossus
-1 Kuldotha Forgemaster
+1 Ancient Stirrings
 1 Chalice of the Void
 1 Darksteel Citadel
+1 Kuldotha Forgemaster
 2 Zhalfirin Void
-2 Karn, Scion of Urza
-2 Field of Ruin
-2 Kuldotha Forgemaster
-2 Everflowing Chalice
 2 Lightning Greaves
+2 Karn, Scion of Urza
+2 Kuldotha Forgemaster
+2 Field of Ruin
+2 Everflowing Chalice
 2 Surge Node
-2 Chalice of the Void
+2 Coretapper
 2 Darksteel Citadel
 2 Astral Cornucopia
-2 Coretapper
+2 Chalice of the Void
 2 Ancient Stirrings
 2 Lodestone Golem
 3 Zhalfirin Void
-3 Kuldotha Forgemaster
-3 Astral Cornucopia
 3 Ancient Stirrings
 3 Chalice of the Void
 3 Darksteel Citadel
+3 Kuldotha Forgemaster
+3 Astral Cornucopia
 3 Lodestone Golem
 3 Everflowing Chalice
 3 Coretapper
@@ -120,14 +168,14 @@
 1 Crash Through
 1 Young Pyromancer
 1 Apostle's Blessing
-1 Lightning Bolt
 1 Mountain
 1 Manamorphose
 1 Warlord's Fury
 1 Kiln Fiend
 1 Temur Battle Rage
-2 Monastery Swiftspear
+1 Lightning Bolt
 2 Lava Spike
+2 Monastery Swiftspear
 2 Soul-Scar Mage
 2 Apostle's Blessing
 2 Young Pyromancer
@@ -143,18 +191,18 @@
 3 Monastery Swiftspear
 3 Manamorphose
 3 Temur Battle Rage
-3 Lightning Bolt
-3 Crash Through
 3 Warlord's Fury
+3 Lightning Bolt
 3 Kiln Fiend
+3 Crash Through
 3 Mountain
 4 Lava Spike
 4 Soul-Scar Mage
 4 Monastery Swiftspear
 4 Manamorphose
 4 Temur Battle Rage
-4 Lightning Bolt
 4 Crash Through
+4 Lightning Bolt
 4 Kiln Fiend
 4 Mountain
 5 Mountain
@@ -175,35 +223,35 @@
 1 Pteramander
 1 Snow-Covered Island
 1 Deprive
+1 Psionic Blast
 1 Serum Visions
+1 Remand
 1 Opt
 1 Vendilion Clique
 1 Cryptic Command
-1 Remand
 1 Thing in the Ice
 1 Disrupting Shoal
-1 Psionic Blast
 1 Snapcaster Mage
 2 Vapor Snag
 2 Sleight of Hand
 2 Pteramander
 2 Snow-Covered Island
 2 Cryptic Command
+2 Opt
 2 Disrupting Shoal
-2 Snapcaster Mage
 2 Remand
+2 Snapcaster Mage
 2 Psionic Blast
 2 Thing in the Ice
-2 Opt
 2 Serum Visions
 3 Vapor Snag
 3 Serum Visions
 3 Snow-Covered Island
 3 Psionic Blast
-3 Thing in the Ice
-3 Remand
 3 Pteramander
 3 Disrupting Shoal
+3 Remand
+3 Thing in the Ice
 3 Snapcaster Mage
 3 Opt
 3 Sleight of Hand
