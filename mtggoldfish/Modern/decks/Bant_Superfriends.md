@@ -34,8 +34,8 @@
 |                    1|[Kasmina, Enigmatic Mentor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460983) |                    3|[Deputy of Detention](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457309)|
 |                    1|[Ajani Steadfast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383180)           |                    4|[Deputy of Detention](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457309)|
 |                    2|[Horizon Canopy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409571)            |                    2|[Deputy of Detention](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457309)|
-|                    3|[Courser of Kruphix](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442153)        |                     |                                                                                              |
 |                    3|[Horizon Canopy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409571)            |                     |                                                                                              |
 |                    3|[Teferi, Time Raveler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461148)      |                     |                                                                                              |
+|                    3|[Courser of Kruphix](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442153)        |                     |                                                                                              |
 |                    4|[Courser of Kruphix](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442153)        |                     |                                                                                              |
 

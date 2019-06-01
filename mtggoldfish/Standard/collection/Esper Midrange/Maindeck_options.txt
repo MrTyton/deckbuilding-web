@@ -1,22 +1,23 @@
+1 Deputy of Detention
 2 Basilica Bell-Haunt
 3 Elite Guardmage
 1 Vraska's Contempt
-1 Liliana, Dreadhorde General
-1 Deputy of Detention
 2 Deputy of Detention
+1 Liliana, Dreadhorde General
 1 Plains
 3 Basilica Bell-Haunt
-1 Enter the God-Eternals
 4 Teferi, Hero of Dominaria
 4 Basilica Bell-Haunt
 1 Hostage Taker
+1 Enter the God-Eternals
 1 Duress
-2 Duress
 2 Hostage Taker
-2 Dovin's Veto
+2 Duress
 3 Deputy of Detention
 1 The Elderspell
 4 Teferi, Time Raveler
+2 Dovin's Veto
+2 Plains
 2 Vraska's Contempt
 1 Discovery/Dispersal
 2 Discovery/Dispersal
@@ -24,7 +25,9 @@
 2 Enter the God-Eternals
 1 Command the Dreadhorde
 4 Elite Guardmage
-2 Plains
+2 Swamp
+3 Plains
+1 Time Wipe
 2 Ugin, the Ineffable
 1 Search for Azcanta
 1 Narset, Parter of Veils
@@ -34,9 +37,6 @@
 2 Despark
 3 Sorin, Vengeful Bloodlord
 1 The Eldest Reborn
-2 Swamp
-3 Plains
-1 Time Wipe
 2 Liliana, Dreadhorde General
 3 Hostage Taker
 1 Plaguecrafter
@@ -69,11 +69,11 @@
 3 Swamp
 3 Orzhov Guildgate
 3 Kasmina, Enigmatic Mentor
-4 Swamp
 4 Dimir Guildgate
 4 Kitesail Freebooter
 4 Plains
 4 Evolving Wilds
+4 Swamp
 4 Azorius Guildgate
 4 Orzhov Guildgate
 4 Mortify
