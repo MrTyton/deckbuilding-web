@@ -33,3 +33,11 @@
 |2 [Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)     |                                                                                                |                                                                                 |
 |1 [Winter Orb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=643)            |                                                                                                |                                                                                 |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                           Maindeck Card                                           |*n*<sup>th</sup> copy|                                     Sideboard Card                                      |
+|--------------------:|---------------------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------|
+|                    1|[Crystal Vein](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=15413)             |                    1|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)|
+|                    1|[Grove of the Burnwillows](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=130595)|                    1|[Karakas](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413782)       |
+
