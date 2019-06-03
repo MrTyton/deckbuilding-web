@@ -53,8 +53,8 @@
 |                     |                                                                                                 |                    2|[Search for Azcanta](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435226)     |
 |                     |                                                                                                 |                    1|[Diamond Mare](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447368)           |
 |                     |                                                                                                 |                    2|[Diamond Mare](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447368)           |
+|                     |                                                                                                 |                    3|[Diamond Mare](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447368)           |
 |                     |                                                                                                 |                    2|[Chemister's Insight](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452782)    |
 |                     |                                                                                                 |                    3|[Chemister's Insight](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452782)    |
 |                     |                                                                                                 |                    4|[Chemister's Insight](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452782)    |
-|                     |                                                                                                 |                    3|[Diamond Mare](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447368)           |
 
