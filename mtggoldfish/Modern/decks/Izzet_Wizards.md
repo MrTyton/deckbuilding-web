@@ -34,6 +34,6 @@
 |                    1|[Spell Pierce](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425876)     |                    1|[Magma Spray](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426843)           |
 |                    2|[Spell Pierce](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425876)     |                    2|[Relic of Progenitus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174824)   |
 |                    3|[Bloodstained Mire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405094)|                    2|[Magma Spray](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426843)           |
-|                    4|[Bloodstained Mire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405094)|                    2|[Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)                |
-|                     |                                                                                            |                    3|[Relic of Progenitus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174824)   |
+|                    4|[Bloodstained Mire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405094)|                    3|[Relic of Progenitus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174824)   |
+|                     |                                                                                            |                    2|[Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)                |
 
