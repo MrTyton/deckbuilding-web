@@ -118,7 +118,6 @@
 1 Lightning Greaves
 1 Wurmcoil Engine
 1 Karn, Scion of Urza
-1 Batterskull
 1 Astral Cornucopia
 1 Coretapper
 1 Surge Node
@@ -127,6 +126,7 @@
 1 Memorial to Unity
 1 Kuldotha Forgemaster
 1 Everflowing Chalice
+1 Batterskull
 1 Inventors' Fair
 1 Mox Opal
 1 Tectonic Edge
@@ -223,42 +223,42 @@
 1 Crash Through
 1 Young Pyromancer
 1 Apostle's Blessing
+1 Kiln Fiend
 1 Lightning Bolt
 1 Manamorphose
 1 Warlord's Fury
 1 Mountain
-1 Kiln Fiend
 1 Temur Battle Rage
 2 Monastery Swiftspear
 2 Lava Spike
 2 Soul-Scar Mage
 2 Apostle's Blessing
+2 Kiln Fiend
+2 Crash Through
 2 Young Pyromancer
 2 Mountain
 2 Temur Battle Rage
-2 Crash Through
 2 Manamorphose
-2 Kiln Fiend
 2 Lightning Bolt
 2 Warlord's Fury
 3 Lava Spike
 3 Soul-Scar Mage
 3 Monastery Swiftspear
+3 Kiln Fiend
+3 Crash Through
 3 Temur Battle Rage
 3 Manamorphose
-3 Kiln Fiend
 3 Lightning Bolt
 3 Warlord's Fury
 3 Mountain
-3 Crash Through
 4 Lava Spike
 4 Soul-Scar Mage
 4 Monastery Swiftspear
 4 Manamorphose
 4 Temur Battle Rage
+4 Crash Through
 4 Kiln Fiend
 4 Mountain
-4 Crash Through
 4 Lightning Bolt
 5 Mountain
 6 Mountain
@@ -274,9 +274,9 @@
 16 Mountain
 17 Mountain
 1 Vapor Snag
-1 Sleight of Hand
 1 Pteramander
 1 Snow-Covered Island
+1 Sleight of Hand
 1 Deprive
 1 Serum Visions
 1 Opt
@@ -288,9 +288,9 @@
 1 Snapcaster Mage
 1 Thing in the Ice
 2 Vapor Snag
-2 Sleight of Hand
 2 Pteramander
 2 Snow-Covered Island
+2 Sleight of Hand
 2 Psionic Blast
 2 Remand
 2 Snapcaster Mage
@@ -300,20 +300,20 @@
 2 Serum Visions
 2 Cryptic Command
 3 Vapor Snag
-3 Serum Visions
+3 Sleight of Hand
 3 Snow-Covered Island
 3 Thing in the Ice
+3 Serum Visions
 3 Disrupting Shoal
-3 Sleight of Hand
 3 Psionic Blast
 3 Pteramander
 3 Remand
 3 Snapcaster Mage
 3 Opt
 4 Pteramander
-4 Serum Visions
-4 Snow-Covered Island
 4 Opt
+4 Snow-Covered Island
+4 Serum Visions
 4 Sleight of Hand
 4 Snapcaster Mage
 4 Thing in the Ice
