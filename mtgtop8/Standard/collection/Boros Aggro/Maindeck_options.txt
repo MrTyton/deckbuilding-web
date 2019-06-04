@@ -1,14 +1,15 @@
-4 Sheltering Light
-5 Mountain
-1 Aurelia, Exemplar of Justice
-2 Aurelia, Exemplar of Justice
+4 Reckless Rage
 4 Shock
 4 Gird for Battle
+4 Sheltering Light
+2 Samut's Sprint
+8 Plains
+1 Aurelia, Exemplar of Justice
+2 Aurelia, Exemplar of Justice
 1 Legion Warboss
 2 Legion Warboss
-2 Samut's Sprint
 3 Gideon Blackblade
-8 Plains
+3 Krenko, Tin Street Kingpin
 6 Mountain
 1 Lyra Dawnbringer
 1 Lightning Strike
@@ -18,6 +19,7 @@
 3 Samut's Sprint
 1 Rile
 2 Rile
+3 Aurelia, Exemplar of Justice
 7 Mountain
 1 Heroic Reinforcements
 1 History of Benalia
@@ -29,12 +31,10 @@
 3 History of Benalia
 3 Legion's Landing
 4 Legion's Landing
-3 Aurelia, Exemplar of Justice
 1 Tajic, Legion's Edge
 2 Tajic, Legion's Edge
 1 Unbreakable Formation
 3 Legion Warboss
-3 Krenko, Tin Street Kingpin
 2 Lyra Dawnbringer
 1 Boros Challenger
 1 Militia Bugler
@@ -73,8 +73,8 @@
 3 Divine Visitation
 4 Legion Warboss
 1 Maximize Velocity
-1 Electrostatic Field
 1 Settle the Wreckage
+1 Electrostatic Field
 1 Moment of Triumph
 1 Arrester's Zeal
 2 Electrostatic Field
@@ -142,8 +142,8 @@
 1 Risk Factor
 1 Resplendent Angel
 1 Tocatli Honor Guard
-1 Response / Resurgence
 1 Shalai, Voice of Plenty
+1 Response / Resurgence
 2 Risk Factor
 2 Shalai, Voice of Plenty
 2 Resplendent Angel

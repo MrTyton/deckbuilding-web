@@ -35,11 +35,11 @@
 2 Lingering Souls
 2 Mayhem Devil
 2 Stitcher's Supplier
-3 Marsh Flats
 3 Blood Crypt
 3 Blackcleave Cliffs
 3 Viscera Seer
 3 Mayhem Devil
+3 Marsh Flats
 3 Stitcher's Supplier
 3 Insolent Neonate
 3 Lingering Souls
@@ -60,6 +60,7 @@
 4 Stitcher's Supplier
 4 Mayhem Devil
 1 Cavern of Souls
+1 Traverse the Ulvenwald
 1 Incubation / Incongruity
 1 Ghor-Clan Rampager
 1 Mana Confluence
@@ -70,11 +71,11 @@
 1 Hazoret the Fervent
 1 Overgrown Tomb
 1 Soulflayer
-1 Traverse the Ulvenwald
 1 Sylvan Caryatid
 1 Samut, Voice of Dissent
 1 Lotleth Troll
 1 Zetalpa, Primal Dawn
+2 Traverse the Ulvenwald
 2 Incubation / Incongruity
 2 Spark Trooper
 2 Mana Confluence
@@ -83,18 +84,17 @@
 2 Grisly Salvage
 2 Samut, Voice of Dissent
 2 Lotleth Troll
-2 Traverse the Ulvenwald
 2 Overgrown Tomb
 2 Zetalpa, Primal Dawn
 2 Soulflayer
 2 Sylvan Caryatid
+3 Traverse the Ulvenwald
 3 Incubation / Incongruity
 3 Spark Trooper
 3 Nightveil Predator
 3 Verdant Catacombs
 3 Grisly Salvage
 3 Zetalpa, Primal Dawn
-3 Traverse the Ulvenwald
 3 Soulflayer
 3 Sylvan Caryatid
 3 Samut, Voice of Dissent
@@ -117,6 +117,7 @@
 1 Skysovereign, Consul Flagship
 1 Lightning Greaves
 1 Wurmcoil Engine
+1 Tectonic Edge
 1 Karn, Scion of Urza
 1 Astral Cornucopia
 1 Coretapper
@@ -129,7 +130,6 @@
 1 Batterskull
 1 Inventors' Fair
 1 Mox Opal
-1 Tectonic Edge
 1 Ancient Stirrings
 1 Chalice of the Void
 2 Zhalfirin Void
@@ -217,21 +217,21 @@
 14 Island
 15 Island
 16 Island
-1 Monastery Swiftspear
 1 Lava Spike
-1 Soul-Scar Mage
 1 Crash Through
 1 Young Pyromancer
 1 Apostle's Blessing
 1 Kiln Fiend
+1 Soul-Scar Mage
 1 Lightning Bolt
 1 Manamorphose
 1 Warlord's Fury
 1 Mountain
+1 Monastery Swiftspear
 1 Temur Battle Rage
-2 Monastery Swiftspear
 2 Lava Spike
 2 Soul-Scar Mage
+2 Monastery Swiftspear
 2 Apostle's Blessing
 2 Kiln Fiend
 2 Crash Through
@@ -252,11 +252,11 @@
 3 Warlord's Fury
 3 Mountain
 4 Lava Spike
-4 Soul-Scar Mage
 4 Monastery Swiftspear
-4 Manamorphose
+4 Soul-Scar Mage
 4 Temur Battle Rage
 4 Crash Through
+4 Manamorphose
 4 Kiln Fiend
 4 Mountain
 4 Lightning Bolt
@@ -273,11 +273,11 @@
 15 Mountain
 16 Mountain
 17 Mountain
-1 Vapor Snag
 1 Pteramander
 1 Snow-Covered Island
 1 Sleight of Hand
 1 Deprive
+1 Vapor Snag
 1 Serum Visions
 1 Opt
 1 Remand
@@ -299,6 +299,7 @@
 2 Opt
 2 Serum Visions
 2 Cryptic Command
+3 Pteramander
 3 Vapor Snag
 3 Sleight of Hand
 3 Snow-Covered Island
@@ -306,7 +307,6 @@
 3 Serum Visions
 3 Disrupting Shoal
 3 Psionic Blast
-3 Pteramander
 3 Remand
 3 Snapcaster Mage
 3 Opt
