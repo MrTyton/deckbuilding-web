@@ -1,5 +1,7 @@
-1 Inquisition of Kozilek
+1 Plains
 1 Swamp
+1 Godless Shrine
+1 Inquisition of Kozilek
 2 Inquisition of Kozilek
 1 Windswept Heath
 1 Forest
@@ -10,8 +12,8 @@
 3 Windswept Heath
 1 Safewright Quest
 1 Blooming Marsh
-1 Birds of Paradise
 1 Izzet Charm
+1 Birds of Paradise
 1 Lightning Helix
 1 Supreme Verdict
 1 Stomping Ground
@@ -28,8 +30,8 @@
 1 Sacred Foundry
 1 Unmoored Ego
 2 Blooming Marsh
-2 Birds of Paradise
 2 Lightning Helix
+2 Birds of Paradise
 2 Kolaghan's Command
 2 Mana Confluence
 2 Assassin's Trophy
@@ -50,31 +52,55 @@
 4 Birds of Paradise
 4 Pillar of the Paruns
 1 Teferi, Time Raveler
-2 Field of Ruin
-3 Field of Ruin
-1 Path to Exile
 1 Creeping Tar Pit
+1 Jace, the Mind Sculptor
+1 Path to Exile
+1 Polluted Delta
+2 Polluted Delta
+1 Fatal Push
+1 Liliana of the Veil
+2 Fatal Push
+2 Swamp
+1 Geier Reach Sanitarium
+1 Narset, Parter of Veils
+1 Disrupting Shoal
+1 Commandeer
+1 Day's Undoing
+2 Narset, Parter of Veils
+2 Disrupting Shoal
+2 Day's Undoing
+3 Narset, Parter of Veils
+3 Disrupting Shoal
+3 Day's Undoing
+4 Narset, Parter of Veils
+4 Day's Undoing
+1 Watery Grave
+2 Watery Grave
+3 Polluted Delta
+4 Polluted Delta
 2 Path to Exile
 3 Path to Exile
+2 Remand
+3 Remand
+4 Remand
+2 Liliana of the Veil
+3 Fatal Push
+4 Fatal Push
 1 Flooded Strand
+1 Shambling Vent
 1 Marsh Flats
 1 Collective Brutality
 1 Lingering Souls
-1 Fatal Push
 1 Thoughtseize
-1 Liliana of the Veil
-1 Shambling Vent
 2 Lingering Souls
 2 Collective Brutality
-2 Fatal Push
 2 Thoughtseize
-2 Swamp
 3 Collective Brutality
 3 Inquisition of Kozilek
-1 Polluted Delta
-2 Polluted Delta
+2 Teferi, Time Raveler
+4 Field of Ruin
+4 Path to Exile
 4 Windswept Heath
-1 Jace, the Mind Sculptor
 1 Bloodstained Mire
 1 Bloodbraid Elf
 1 Nahiri, the Harbinger
@@ -84,47 +110,21 @@
 1 Countersquall
 2 Domri, Anarch of Bolas
 3 Mana Confluence
+1 Drowned Catacomb
+1 Tyrant's Scorn
+1 Notion Thief
+2 Drowned Catacomb
+2 Jace, the Mind Sculptor
+2 Tyrant's Scorn
+2 Commandeer
+2 Geier Reach Sanitarium
+2 Creeping Tar Pit
+3 Watery Grave
+3 Creeping Tar Pit
 2 Set Adrift
 3 Blast Zone
 4 Blast Zone
-2 Teferi, Time Raveler
-1 Gemstone Caverns
-1 Geier Reach Sanitarium
-1 Glacial Fortress
-1 Teferi, Hero of Dominaria
-1 Boomerang
-1 Narset, Parter of Veils
-1 Vendilion Clique
-1 Disrupting Shoal
-1 Gigadrowse
-1 Vapor Snag
-1 Commandeer
-1 Scalding Tarn
-1 Day's Undoing
-1 Fieldmist Borderpost
-1 Mikokoro, Center of the Sea
-1 Snapback
-2 Narset, Parter of Veils
-2 Boomerang
-2 Disrupting Shoal
-2 Spell Pierce
-2 Vendilion Clique
-2 Fieldmist Borderpost
-2 Teferi, Hero of Dominaria
-2 Day's Undoing
-2 Gigadrowse
-3 Narset, Parter of Veils
-3 Disrupting Shoal
-3 Day's Undoing
-3 Boomerang
-3 Fieldmist Borderpost
-4 Narset, Parter of Veils
-4 Disrupting Shoal
-4 Day's Undoing
-4 Boomerang
-4 Fieldmist Borderpost
 1 Obzedat, Ghost Council
-1 Watery Grave
 1 Jace, Vryn's Prodigy
 1 Tasigur, the Golden Fang
 1 Goryo's Vengeance
@@ -134,19 +134,36 @@
 2 Jace, Vryn's Prodigy
 2 Obzedat, Ghost Council
 2 Darkslick Shores
-2 Watery Grave
 2 Goryo's Vengeance
 3 Jace, Vryn's Prodigy
-3 Polluted Delta
 3 Goryo's Vengeance
 3 Obzedat, Ghost Council
 3 Darkslick Shores
 4 Jace, Vryn's Prodigy
 4 Darkslick Shores
 4 Goryo's Vengeance
-4 Polluted Delta
-4 Field of Ruin
-4 Path to Exile
+1 Gemstone Caverns
+1 Glacial Fortress
+1 Teferi, Hero of Dominaria
+1 Boomerang
+1 Vendilion Clique
+1 Gigadrowse
+1 Vapor Snag
+1 Scalding Tarn
+1 Fieldmist Borderpost
+1 Mikokoro, Center of the Sea
+1 Snapback
+2 Boomerang
+2 Spell Pierce
+2 Vendilion Clique
+2 Fieldmist Borderpost
+2 Teferi, Hero of Dominaria
+2 Gigadrowse
+3 Boomerang
+3 Fieldmist Borderpost
+4 Disrupting Shoal
+4 Boomerang
+4 Fieldmist Borderpost
 2 Plains
 1 Concealed Courtyard
 1 Dark Confidant
@@ -154,38 +171,35 @@
 1 Gideon, Ally of Zendikar
 1 Vault of the Archangel
 2 Kaya, Orzhov Usurper
+2 Gideon, Ally of Zendikar
 2 Shambling Vent
 2 Concealed Courtyard
 2 Dark Confidant
-2 Gideon, Ally of Zendikar
 2 Marsh Flats
 2 Godless Shrine
 2 Liliana, the Last Hope
-2 Liliana of the Veil
-3 Fatal Push
 3 Concealed Courtyard
 3 Lingering Souls
-3 Marsh Flats
 3 Dark Confidant
+3 Marsh Flats
 3 Shambling Vent
 3 Swamp
 3 Liliana of the Veil
 3 Thoughtseize
 4 Dark Confidant
 4 Thoughtseize
-4 Fatal Push
-4 Lingering Souls
 4 Marsh Flats
+4 Lingering Souls
 4 Liliana of the Veil
 4 Concealed Courtyard
 4 Shambling Vent
 1 Prairie Stream
-1 Evolving Wilds
 1 Irrigated Farmland
+1 Evolving Wilds
 1 Ashiok, Dream Render
 1 Gideon Jura
-1 Ashes of the Abhorrent
 1 Teyo, the Shieldmage
+1 Ashes of the Abhorrent
 1 Dictate of Kruphix
 1 Tranquil Expanse
 1 Ethereal Haze
@@ -229,10 +243,10 @@
 4 Evolving Wilds
 4 Dawn Charm
 4 Ethereal Haze
+4 Dictate of Kruphix
 4 Sphinx's Tutelage
 4 Irrigated Farmland
 4 Tranquil Cove
-4 Dictate of Kruphix
 4 Tranquil Expanse
 1 Celestial Colonnade
 1 Misty Rainforest
@@ -242,7 +256,6 @@
 1 Growth Spiral
 1 Glittering Wish
 2 Misty Rainforest
-2 Remand
 2 Hallowed Fountain
 2 Flooded Strand
 2 Breeding Pool
@@ -251,7 +264,6 @@
 2 Glittering Wish
 2 Hieroglyphic Illumination
 3 Hieroglyphic Illumination
-3 Remand
 3 Teferi, Time Raveler
 3 Misty Rainforest
 3 Flooded Strand
@@ -261,18 +273,17 @@
 4 Wilderness Reclamation
 4 Hieroglyphic Illumination
 4 Misty Rainforest
-4 Remand
 4 Glittering Wish
 4 Flooded Strand
 4 Growth Spiral
-1 Noble Hierarch
-1 Eternal Witness
 1 Karn, the Great Creator
 1 Trinisphere
 1 Walking Ballista
 1 Utopia Sprawl
 1 Arbor Elf
 1 Acidic Slime
+1 Noble Hierarch
+1 Eternal Witness
 2 Noble Hierarch
 2 Karn, the Great Creator
 2 Walking Ballista
@@ -284,9 +295,9 @@
 3 Arbor Elf
 3 Primal Command
 3 Utopia Sprawl
+4 Utopia Sprawl
 4 Arbor Elf
 4 Primal Command
-4 Utopia Sprawl
 1 Wooded Foothills
 1 Oath of Nissa
 1 Nykthos, Shrine to Nyx
@@ -305,9 +316,9 @@
 3 Eternal Witness
 3 Oath of Nissa
 3 Wooded Foothills
+3 Trinisphere
 3 Garruk Wildspeaker
 3 Forest
-3 Trinisphere
 4 Oath of Nissa
 4 Wooded Foothills
 4 Forest

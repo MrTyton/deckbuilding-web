@@ -41,7 +41,7 @@
 |                    2|[Leveler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=46708)                    |                    1|[Ceremonious Rejection](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417613)|
 |                    2|[Peek](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=130903)                      |                    2|[Relic of Progenitus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174824)  |
 |                    2|[Jace, Wielder of Mysteries](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460981)|                    2|[Ceremonious Rejection](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417613)|
-|                    3|[Flooded Strand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405098)            |                    2|[Counterflux](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405183)          |
-|                    3|[Jace, Wielder of Mysteries](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460981)|                    3|[Relic of Progenitus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174824)  |
+|                    3|[Flooded Strand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405098)            |                    3|[Relic of Progenitus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174824)  |
+|                    3|[Jace, Wielder of Mysteries](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460981)|                    2|[Counterflux](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405183)          |
 |                    4|[Jace, Wielder of Mysteries](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460981)|                     |                                                                                                |
 

@@ -1,7 +1,7 @@
 # Mono Green Aggro
 
 #### [Export MTGO List](../collection/Mono%20Green%20Aggro/Mono%20Green%20Aggro.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Aspect%20of%20Hydra%0A4%09Avatar%20of%20the%20Resolute%0A4%09Dryad%20Militant%0A4%09Experiment%20One%0A18%09Forest%0A3%09Garruk's%20Companion%0A3%09Giant%20Growth%0A4%09Kalonian%20Tusker%0A4%09Pelt%20Collector%0A4%09Rancor%0A4%09Steel%20Leaf%20Champion%0A4%09Strangleroot%20Geist&deckside=1%09Back%20to%20Nature%0A2%09Feed%20the%20Clan%0A1%09Find%20/%20Finality%0A2%09Fog%0A2%09Kitchen%20Finks%0A3%09Naturalize%0A2%09Nature's%20Way%0A2%09Obstinate%20Baloth)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Aspect%20of%20Hydra%0A4%09Avatar%20of%20the%20Resolute%0A4%09Dryad%20Militant%0A4%09Experiment%20One%0A18%09Forest%0A3%09Garruk's%20Companion%0A3%09Giant%20Growth%0A4%09Kalonian%20Tusker%0A4%09Pelt%20Collector%0A4%09Rancor%0A4%09Steel%20Leaf%20Champion%0A4%09Strangleroot%20Geist&deckside=4%09Damping%20Sphere%0A4%09Dismember%0A4%09Seal%20of%20Primordium%0A3%09Wheel%20of%20Sun%20and%20Moon)
 # Maindeck
 
 |                                           Creature (31)                                           |                                  Enchantment (4)                                  |                                        Instant (7)                                         |                                     Land (18)                                      |
@@ -18,31 +18,8 @@
 
 # Sideboard
 
-|                                        Creature (4)                                         |                                        Instant (8)                                        |                                       Sorcery (2)                                       |   Unknown (1)   |
-|---------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|-----------------|
-|2 [Kitchen Finks](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370458)   |1 [Back to Nature](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=208284)|2 [Nature's Way](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442756)|1 Find / Finality|
-|2 [Obstinate Baloth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438745)|2 [Feed the Clan](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386535) |                                                                                         |                 |
-|                                                                                             |2 [Fog](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=746)              |                                                                                         |                 |
-|                                                                                             |3 [Naturalize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129656)    |                                                                                         |                 |
-
-
-# Other Options
-
-|*n*<sup>th</sup> copy|                                        Maindeck Card                                        |*n*<sup>th</sup> copy|                                         Sideboard Card                                         |
-|--------------------:|---------------------------------------------------------------------------------------------|--------------------:|------------------------------------------------------------------------------------------------|
-|                    1|[Vines of Vastwood](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397747) |                    1|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)       |
-|                    1|[Leatherback Baloth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197856)|                    1|[Dismember](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382182)            |
-|                    1|[Hunter's Insight](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220291)  |                    1|[Wheel of Sun and Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=146740)|
-|                    1|[Grafted Wargear](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=50927)    |                    1|[Seal of Primordium](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425960)   |
-|                    2|[Vines of Vastwood](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397747) |                    2|[Seal of Primordium](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425960)   |
-|                    3|[Vines of Vastwood](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397747) |                    2|[Dismember](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382182)            |
-|                    4|[Vines of Vastwood](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397747) |                    2|[Wheel of Sun and Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=146740)|
-|                   19|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)            |                    2|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)       |
-|                   20|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)            |                    3|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)       |
-|                   21|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)            |                    3|[Dismember](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382182)            |
-|                     |                                                                                             |                    3|[Seal of Primordium](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425960)   |
-|                     |                                                                                             |                    3|[Wheel of Sun and Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=146740)|
-|                     |                                                                                             |                    4|[Dismember](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382182)            |
-|                     |                                                                                             |                    4|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)       |
-|                     |                                                                                             |                    4|[Seal of Primordium](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425960)   |
+|                                       Artifact (4)                                        |                                         Enchantment (7)                                          |                                     Instant (4)                                      |
+|-------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
+|4 [Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)|4 [Seal of Primordium](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425960)   |4 [Dismember](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382182)|
+|                                                                                           |3 [Wheel of Sun and Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=146740)|                                                                                      |
 
