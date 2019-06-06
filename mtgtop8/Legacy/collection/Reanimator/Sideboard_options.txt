@@ -1,12 +1,11 @@
 1 Abrade
 1 Pithing Needle
-1 Faerie Macabre
-2 Serenity
+1 Serenity
 4 Reverent Silence
-1 Coffin Purge
 1 Abrupt Decay
 2 Abrupt Decay
 3 Abrupt Decay
+1 Coffin Purge
 1 Magus of the Moon
 1 Surgical Extraction
 1 Ashen Rider
@@ -15,6 +14,8 @@
 2 Wear / Tear
 3 Wear / Tear
 2 Surgical Extraction
+2 Serenity
+1 Bitterblossom
 1 Lake of the Dead
 2 Grave Titan
 2 Magus of the Moon
@@ -36,7 +37,6 @@
 1 Echoing Truth
 2 Pithing Needle
 1 Sorcerous Spyglass
-1 Bitterblossom
 2 Flusterstorm
 1 Pull from Eternity
 1 Ruric Thar, the Unbowed
@@ -66,14 +66,12 @@
 2 Echoing Truth
 3 Thoughtseize
 3 Magus of the Moon
+1 Inquisition of Kozilek
+1 Dread of Night
+2 Dread of Night
+3 Assassin's Trophy
 4 Faerie Macabre
 1 Pack Rat
-1 True-Name Nemesis
-2 True-Name Nemesis
-2 Pack Rat
-3 True-Name Nemesis
-3 Pack Rat
-4 Pack Rat
 1 Karn, Scion of Urza
 1 Helm of Obedience
 1 Toxic Deluge
@@ -86,6 +84,12 @@
 2 Leyline of the Void
 3 Leyline of the Void
 4 Leyline of the Void
+1 True-Name Nemesis
+2 True-Name Nemesis
+2 Pack Rat
+3 True-Name Nemesis
+3 Pack Rat
+4 Pack Rat
 1 Arcane Artisan
 1 Monastery Mentor
 1 Hurkyl's Recall

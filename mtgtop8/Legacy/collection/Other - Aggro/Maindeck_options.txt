@@ -1,64 +1,7 @@
-4 Polluted Delta
-6 Island
-7 Island
-1 Forest
-1 Tropical Island
-1 Umezawa's Jitte
-1 Noble Hierarch
-2 Noble Hierarch
-2 Tropical Island
-3 Misty Rainforest
-4 Misty Rainforest
-1 Dryad Arbor
-1 Bayou
-1 Windswept Heath
-1 Scavenging Ooze
-1 Green Sun's Zenith
-2 Windswept Heath
-2 Green Sun's Zenith
-2 Bayou
-3 Green Sun's Zenith
-3 Windswept Heath
-4 Windswept Heath
-1 Renegade Rallier
-1 Vivien, Champion of the Wilds
-1 Birds of Paradise
-1 Palace Jailer
-1 Tundra
-1 Orzhov Pontiff
-1 Shalai, Voice of Plenty
-1 Scryb Ranger
-1 Gaddock Teeg
-1 Vendilion Clique
-1 Knight of Autumn
-1 Sanctum Prelate
-1 Mother of Runes
-1 Leovold, Emissary of Trest
-1 Aether Vial
-1 Deputy of Detention
-1 Savannah
-1 Atraxa, Praetors' Voice
-1 Spell Queller
-1 Fauna Shaman
-1 Assassin's Trophy
-2 Vivien, Champion of the Wilds
-2 Birds of Paradise
-2 Savannah
-2 Aether Vial
-2 Scryb Ranger
-2 Mother of Runes
-2 Fauna Shaman
-3 Birds of Paradise
-3 Fauna Shaman
-3 Mother of Runes
-3 Aether Vial
-4 Aether Vial
-4 Fauna Shaman
 1 Wooded Foothills
 2 Wooded Foothills
 1 Fyndhorn Elves
 1 Cavern of Souls
-1 Birchlore Rangers
 1 Wirewood Symbiote
 1 Heritage Druid
 1 Craterhoof Behemoth
@@ -69,6 +12,7 @@
 1 Elvish Visionary
 1 Glimpse of Nature
 1 Quirion Ranger
+1 Birchlore Rangers
 1 Pendelhaven
 1 Llanowar Elves
 1 Elvish Mystic
@@ -76,10 +20,10 @@
 2 Gaea's Cradle
 2 Birchlore Rangers
 2 Forest
+2 Dryad Arbor
 2 Natural Order
 2 Glimpse of Nature
 2 Quirion Ranger
-2 Dryad Arbor
 2 Wirewood Symbiote
 2 Heritage Druid
 2 Elvish Visionary
@@ -96,28 +40,44 @@
 4 Wirewood Symbiote
 4 Heritage Druid
 4 Quirion Ranger
+4 Gaea's Cradle
 4 Elvish Visionary
 4 Glimpse of Nature
 4 Green Sun's Zenith
-4 Gaea's Cradle
 4 Nettle Sentinel
+1 Ponder
+1 Island
+1 Force of Will
+1 Scalding Tarn
+2 Ponder
+2 Force of Will
+2 Scalding Tarn
+2 True-Name Nemesis
+3 Force of Will
+4 Force of Will
 1 Taiga
+1 Volcanic Island
+1 Jace, the Mind Sculptor
 1 Tarmogoyf
+1 Lightning Bolt
 1 Ancestral Vision
 1 Guided Passage
+1 Grove of the Burnwillows
 1 Bloodbraid Elf
 1 Shardless Agent
-1 Grove of the Burnwillows
 1 Raging Ravine
 1 Sylvan Library
 1 Punishing Fire
+2 Volcanic Island
+2 Lightning Bolt
 2 Tarmogoyf
+2 Guided Passage
 2 Bloodbraid Elf
 2 Shardless Agent
 2 Ancestral Vision
 2 Punishing Fire
 2 Grove of the Burnwillows
-2 Guided Passage
+3 Scalding Tarn
 3 Tarmogoyf
 3 Ancestral Vision
 3 Tropical Island
@@ -130,30 +90,44 @@
 4 Noble Hierarch
 1 Daze
 1 Stifle
+1 Flooded Strand
 1 Gut Shot
 1 Flusterstorm
+1 Spell Snare
 1 Nivmagus Elemental
 1 Curious Obsession
+1 Spell Pierce
 1 Delver of Secrets
 1 Wasteland
+1 Polluted Delta
+2 Spell Pierce
 2 Daze
 2 Stifle
+2 Flooded Strand
 2 Spell Snare
+2 Island
 2 Gut Shot
 2 Flusterstorm
+2 Polluted Delta
 2 Wasteland
 2 Delver of Secrets
 2 Nivmagus Elemental
+3 Ponder
+3 Island
 3 Daze
 3 Flusterstorm
 3 Gut Shot
+3 True-Name Nemesis
 3 Wasteland
 3 Nivmagus Elemental
 3 Delver of Secrets
+4 Ponder
 4 Daze
 4 Wasteland
 4 True-Name Nemesis
+4 Island
 4 Flusterstorm
 4 Nivmagus Elemental
 4 Delver of Secrets
+5 Island
 4 Gut Shot

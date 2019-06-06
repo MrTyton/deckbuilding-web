@@ -1,16 +1,16 @@
 11 Plains
+1 Faithless Looting
 1 Swamp
 1 Bloodstained Mire
-1 Faithless Looting
 1 Blood Crypt
-2 Bloodstained Mire
-2 Swamp
-2 Blood Crypt
 2 Faithless Looting
-3 Bloodstained Mire
+2 Bloodstained Mire
+2 Blood Crypt
+2 Swamp
 3 Faithless Looting
-4 Bloodstained Mire
+3 Bloodstained Mire
 4 Faithless Looting
+4 Bloodstained Mire
 1 Insolent Neonate
 1 Viscera Seer
 1 Bridge from Below
@@ -23,7 +23,6 @@
 1 Gravecrawler
 1 Mayhem Devil
 1 Lingering Souls
-2 Blackcleave Cliffs
 2 Godless Shrine
 2 Insolent Neonate
 2 Viscera Seer
@@ -34,11 +33,12 @@
 2 Gravecrawler
 2 Lingering Souls
 2 Mayhem Devil
+2 Blackcleave Cliffs
 2 Stitcher's Supplier
 3 Marsh Flats
 3 Blood Crypt
-3 Blackcleave Cliffs
 3 Viscera Seer
+3 Blackcleave Cliffs
 3 Mayhem Devil
 3 Stitcher's Supplier
 3 Insolent Neonate
@@ -47,7 +47,6 @@
 3 Bridge from Below
 3 Greater Gargadon
 3 Gravecrawler
-4 Blackcleave Cliffs
 4 Blood Crypt
 4 Lingering Souls
 4 Marsh Flats
@@ -56,6 +55,7 @@
 4 Insolent Neonate
 4 Greater Gargadon
 4 Bloodghast
+4 Blackcleave Cliffs
 4 Gravecrawler
 4 Stitcher's Supplier
 4 Mayhem Devil
@@ -65,7 +65,6 @@
 1 Traverse the Ulvenwald
 1 Mana Confluence
 1 Nightveil Predator
-1 Verdant Catacombs
 1 Spark Trooper
 1 Grisly Salvage
 1 Hazoret the Fervent
@@ -75,15 +74,16 @@
 1 Samut, Voice of Dissent
 1 Lotleth Troll
 1 Zetalpa, Primal Dawn
+1 Verdant Catacombs
 2 Incubation / Incongruity
 2 Spark Trooper
 2 Mana Confluence
 2 Traverse the Ulvenwald
 2 Nightveil Predator
-2 Verdant Catacombs
 2 Grisly Salvage
 2 Samut, Voice of Dissent
 2 Lotleth Troll
+2 Verdant Catacombs
 2 Overgrown Tomb
 2 Zetalpa, Primal Dawn
 2 Soulflayer
@@ -92,19 +92,19 @@
 3 Spark Trooper
 3 Traverse the Ulvenwald
 3 Nightveil Predator
-3 Verdant Catacombs
 3 Grisly Salvage
 3 Zetalpa, Primal Dawn
 3 Soulflayer
 3 Sylvan Caryatid
 3 Samut, Voice of Dissent
 3 Lotleth Troll
-4 Verdant Catacombs
+3 Verdant Catacombs
 4 Traverse the Ulvenwald
 4 Grisly Salvage
 4 Lotleth Troll
 4 Sylvan Caryatid
 4 Incubation / Incongruity
+4 Verdant Catacombs
 4 Soulflayer
 1 Lodestone Golem
 2 Lodestone Golem
@@ -152,9 +152,9 @@
 3 Chalice of the Void
 3 Astral Cornucopia
 3 Coretapper
+4 Forest
 4 Ancient Stirrings
 4 Chalice of the Void
-4 Forest
 4 Everflowing Chalice
 4 Astral Cornucopia
 4 Coretapper
@@ -217,8 +217,8 @@
 14 Island
 15 Island
 16 Island
-1 Lava Spike
 1 Soul-Scar Mage
+1 Lava Spike
 1 Crash Through
 1 Young Pyromancer
 1 Apostle's Blessing
@@ -245,20 +245,20 @@
 3 Soul-Scar Mage
 3 Monastery Swiftspear
 3 Temur Battle Rage
+3 Mountain
 3 Kiln Fiend
 3 Crash Through
 3 Manamorphose
 3 Lightning Bolt
 3 Warlord's Fury
-3 Mountain
 4 Lava Spike
 4 Soul-Scar Mage
 4 Monastery Swiftspear
 4 Temur Battle Rage
+4 Mountain
 4 Crash Through
 4 Manamorphose
 4 Kiln Fiend
-4 Mountain
 4 Lightning Bolt
 5 Mountain
 6 Mountain
@@ -287,11 +287,11 @@
 1 Psionic Blast
 1 Snapcaster Mage
 1 Thing in the Ice
-2 Vapor Snag
 2 Pteramander
 2 Snow-Covered Island
 2 Sleight of Hand
 2 Psionic Blast
+2 Vapor Snag
 2 Remand
 2 Snapcaster Mage
 2 Thing in the Ice
