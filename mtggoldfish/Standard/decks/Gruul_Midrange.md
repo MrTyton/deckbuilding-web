@@ -35,8 +35,8 @@
 |                    1|[Dire Fleet Daredevil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439756)  |                    1|[Shapers' Sanctuary](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435362)|
 |                    2|[Dire Fleet Daredevil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439756)  |                    1|[Carnage Tyrant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435334)    |
 |                    2|[Regisaur Alpha](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435383)        |                    1|[Cindervines](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457305)       |
-|                    3|[Dire Fleet Daredevil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439756)  |                    2|[Carnage Tyrant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435334)    |
-|                    3|[Regisaur Alpha](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435383)        |                    2|[Shapers' Sanctuary](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435362)|
+|                    3|[Regisaur Alpha](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435383)        |                    2|[Carnage Tyrant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435334)    |
+|                    3|[Dire Fleet Daredevil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439756)  |                    2|[Shapers' Sanctuary](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435362)|
 |                    4|[Domri, Anarch of Bolas](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461118)|                    2|[Cindervines](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457305)       |
 |                    4|[Regisaur Alpha](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435383)        |                    3|[Cindervines](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457305)       |
 

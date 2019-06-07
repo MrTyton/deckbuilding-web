@@ -50,8 +50,8 @@
 |                    1|[Scalding Tarn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405107)       |                     |                                                                                               |
 |                    1|[Flooded Strand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405098)      |                     |                                                                                               |
 |                    1|[Pyromancer Ascension](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425933)|                     |                                                                                               |
-|                    2|[Scalding Tarn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405107)       |                     |                                                                                               |
 |                    2|[Pyromancer Ascension](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425933)|                     |                                                                                               |
+|                    2|[Scalding Tarn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405107)       |                     |                                                                                               |
 |                    3|[Scalding Tarn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405107)       |                     |                                                                                               |
 |                    4|[Scalding Tarn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405107)       |                     |                                                                                               |
 
