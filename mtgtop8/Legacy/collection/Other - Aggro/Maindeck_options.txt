@@ -1,11 +1,68 @@
+1 Island
+1 Wasteland
+2 Wasteland
+3 Wasteland
+1 Pithing Needle
+1 Ancient Tomb
+1 Spire of Industry
+1 Cranial Plating
+1 Engineered Explosives
+1 Recruiter of the Guard
+1 Walking Ballista
+1 Ratchet Bomb
+1 Etched Champion
+1 Phyrexian Revoker
+1 Sword of Fire and Ice
+1 Vault Skirge
+1 Pacification Array
+1 Ensnaring Bridge
+1 Trinket Mage
+1 Thoughtcast
+1 Mox Opal
+1 Stoneforge Mystic
+1 Ancient Den
+1 Seat of the Synod
+1 Plains
+1 Trophy Mage
+1 Aether Spellbomb
+1 Academy Ruins
+1 Chalice of the Void
+1 Lotus Petal
+2 Etched Champion
+2 Seat of the Synod
+2 Phyrexian Revoker
+2 Vault Skirge
+2 Recruiter of the Guard
+2 Mox Opal
+2 Ancient Tomb
+2 Stoneforge Mystic
+2 Ancient Den
+2 Chalice of the Void
+2 Thoughtcast
+2 Spire of Industry
+2 Walking Ballista
+3 Etched Champion
+3 Thoughtcast
+3 Spire of Industry
+3 Mox Opal
+3 Ancient Tomb
+3 Walking Ballista
+3 Ancient Den
+3 Chalice of the Void
+3 Seat of the Synod
+3 Vault Skirge
+3 Stoneforge Mystic
+4 Ancient Den
+4 Seat of the Synod
 1 Wooded Foothills
 2 Wooded Foothills
-1 Fyndhorn Elves
 1 Cavern of Souls
+1 Fyndhorn Elves
 1 Wirewood Symbiote
 1 Heritage Druid
 1 Craterhoof Behemoth
 1 Gaea's Cradle
+1 Pendelhaven
 1 Natural Order
 1 Nettle Sentinel
 1 Verdant Catacombs
@@ -13,11 +70,10 @@
 1 Glimpse of Nature
 1 Quirion Ranger
 1 Birchlore Rangers
-1 Pendelhaven
 1 Llanowar Elves
 1 Elvish Mystic
+2 Llanowar Elves
 2 Craterhoof Behemoth
-2 Gaea's Cradle
 2 Birchlore Rangers
 2 Forest
 2 Dryad Arbor
@@ -28,7 +84,7 @@
 2 Heritage Druid
 2 Elvish Visionary
 2 Nettle Sentinel
-2 Llanowar Elves
+2 Gaea's Cradle
 3 Glimpse of Nature
 3 Quirion Ranger
 3 Heritage Druid
@@ -46,7 +102,6 @@
 4 Green Sun's Zenith
 4 Nettle Sentinel
 1 Ponder
-1 Island
 1 Force of Will
 1 Scalding Tarn
 2 Ponder
@@ -56,17 +111,17 @@
 3 Force of Will
 4 Force of Will
 1 Taiga
-1 Volcanic Island
 1 Jace, the Mind Sculptor
 1 Tarmogoyf
 1 Lightning Bolt
 1 Ancestral Vision
 1 Guided Passage
 1 Grove of the Burnwillows
-1 Bloodbraid Elf
 1 Shardless Agent
+1 Bloodbraid Elf
 1 Raging Ravine
 1 Sylvan Library
+1 Volcanic Island
 1 Punishing Fire
 2 Volcanic Island
 2 Lightning Bolt
@@ -98,10 +153,9 @@
 1 Curious Obsession
 1 Spell Pierce
 1 Delver of Secrets
-1 Wasteland
 1 Polluted Delta
-2 Daze
 2 Spell Pierce
+2 Daze
 2 Stifle
 2 Spell Snare
 2 Island
@@ -109,20 +163,18 @@
 2 Flooded Strand
 2 Flusterstorm
 2 Polluted Delta
-2 Wasteland
-2 Delver of Secrets
 2 Nivmagus Elemental
+2 Delver of Secrets
 3 Daze
 3 Ponder
 3 Gut Shot
 3 Flusterstorm
 3 True-Name Nemesis
-3 Wasteland
 3 Island
 3 Nivmagus Elemental
 3 Delver of Secrets
-4 Daze
 4 Ponder
+4 Daze
 4 Wasteland
 4 Flusterstorm
 4 Nivmagus Elemental

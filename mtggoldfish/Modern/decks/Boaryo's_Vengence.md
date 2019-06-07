@@ -75,7 +75,7 @@
 |                     |                                                                                                   |                    3|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)       |
 |                     |                                                                                                   |                    1|[Terastodon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389715)                |
 |                     |                                                                                                   |                    3|[Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)              |
-|                     |                                                                                                   |                    4|[Leyline of Sanctity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=204993)       |
 |                     |                                                                                                   |                    4|[Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)                    |
+|                     |                                                                                                   |                    4|[Leyline of Sanctity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=204993)       |
 |                     |                                                                                                   |                    4|[Nihil Spellbomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442215)           |
 

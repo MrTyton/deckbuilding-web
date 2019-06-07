@@ -39,10 +39,11 @@
 
 # Legacy
 
-|                      A                       |                  B                   |                    C                     |                          D                           |                  E                   |
-|----------------------------------------------|--------------------------------------|------------------------------------------|------------------------------------------------------|--------------------------------------|
-|[Affinity](./mtgtop8/Legacy/decks/Affinity.md)|[Burn](./mtgtop8/Legacy/decks/Burn.md)|[Dredge](./mtgtop8/Legacy/decks/Dredge.md)|[Shoal Infect](./mtgtop8/Legacy/decks/Shoal_Infect.md)|[Stax](./mtgtop8/Legacy/decks/Stax.md)|
+|                           A                            |                    B                     |                          C                           |
+|--------------------------------------------------------|------------------------------------------|------------------------------------------------------|
+|[Affinity](./mtgtop8/Legacy/decks/Affinity.md)          |[Burn](./mtgtop8/Legacy/decks/Burn.md)    |[Shoal Infect](./mtgtop8/Legacy/decks/Shoal_Infect.md)|
+|[All my Spells](./mtgtop8/Legacy/decks/All_my_Spells.md)|[Dredge](./mtgtop8/Legacy/decks/Dredge.md)|[Stax](./mtgtop8/Legacy/decks/Stax.md)                |
 
 
 
-#### Last Updated at 01:11AM on June 07, 2019
+#### Last Updated at 01:08PM on June 07, 2019
