@@ -1,21 +1,21 @@
 11 Plains
-1 Faithless Looting
 1 Swamp
+1 Faithless Looting
 1 Bloodstained Mire
 1 Blood Crypt
-2 Faithless Looting
 2 Bloodstained Mire
+2 Faithless Looting
 2 Blood Crypt
 2 Swamp
-3 Faithless Looting
 3 Bloodstained Mire
-4 Faithless Looting
+3 Faithless Looting
 4 Bloodstained Mire
-1 Insolent Neonate
+4 Faithless Looting
 1 Viscera Seer
 1 Bridge from Below
 1 Greater Gargadon
 1 Stitcher's Supplier
+1 Insolent Neonate
 1 Blackcleave Cliffs
 1 Marsh Flats
 1 Bloodghast
@@ -24,40 +24,40 @@
 1 Mayhem Devil
 1 Lingering Souls
 2 Godless Shrine
-2 Insolent Neonate
 2 Viscera Seer
+2 Bridge from Below
+2 Gravecrawler
+2 Greater Gargadon
 2 Marsh Flats
 2 Bloodghast
-2 Bridge from Below
-2 Greater Gargadon
-2 Gravecrawler
 2 Lingering Souls
 2 Mayhem Devil
 2 Blackcleave Cliffs
+2 Insolent Neonate
 2 Stitcher's Supplier
 3 Marsh Flats
 3 Blood Crypt
+3 Bridge from Below
+3 Gravecrawler
 3 Viscera Seer
+3 Insolent Neonate
+3 Stitcher's Supplier
 3 Blackcleave Cliffs
 3 Mayhem Devil
-3 Stitcher's Supplier
-3 Insolent Neonate
 3 Lingering Souls
 3 Bloodghast
-3 Bridge from Below
 3 Greater Gargadon
-3 Gravecrawler
 4 Blood Crypt
 4 Lingering Souls
 4 Marsh Flats
-4 Viscera Seer
+4 Gravecrawler
 4 Bridge from Below
 4 Insolent Neonate
+4 Viscera Seer
+4 Stitcher's Supplier
 4 Greater Gargadon
 4 Bloodghast
 4 Blackcleave Cliffs
-4 Gravecrawler
-4 Stitcher's Supplier
 4 Mayhem Devil
 1 Cavern of Souls
 1 Incubation / Incongruity
@@ -162,61 +162,6 @@
 6 Forest
 7 Forest
 8 Forest
-1 Blinkmoth Nexus
-1 Smuggler's Copter
-1 Oboro, Palace in the Clouds
-1 Judge's Familiar
-1 Throne of the God-Pharaoh
-1 Grand Architect
-1 Walking Ballista
-1 Island
-1 Chief Engineer
-1 Mausoleum Wanderer
-1 Master of Etherium
-1 Signal Pest
-1 Etherium Sculptor
-2 Blinkmoth Nexus
-2 Master of Etherium
-2 Smuggler's Copter
-2 Judge's Familiar
-2 Signal Pest
-2 Island
-2 Mausoleum Wanderer
-2 Grand Architect
-2 Throne of the God-Pharaoh
-2 Etherium Sculptor
-2 Walking Ballista
-2 Chief Engineer
-3 Walking Ballista
-3 Blinkmoth Nexus
-3 Master of Etherium
-3 Smuggler's Copter
-3 Etherium Sculptor
-3 Chief Engineer
-3 Island
-3 Mausoleum Wanderer
-3 Grand Architect
-4 Walking Ballista
-4 Blinkmoth Nexus
-4 Master of Etherium
-4 Smuggler's Copter
-4 Etherium Sculptor
-4 Mausoleum Wanderer
-4 Island
-4 Chief Engineer
-4 Grand Architect
-5 Island
-6 Island
-7 Island
-8 Island
-9 Island
-10 Island
-11 Island
-12 Island
-13 Island
-14 Island
-15 Island
-16 Island
 1 Snow-Covered Island
 1 Psionic Blast
 1 Pteramander
@@ -276,6 +221,61 @@
 14 Snow-Covered Island
 15 Snow-Covered Island
 16 Snow-Covered Island
+1 Blinkmoth Nexus
+1 Smuggler's Copter
+1 Oboro, Palace in the Clouds
+1 Judge's Familiar
+1 Throne of the God-Pharaoh
+1 Grand Architect
+1 Walking Ballista
+1 Island
+1 Chief Engineer
+1 Mausoleum Wanderer
+1 Master of Etherium
+1 Signal Pest
+1 Etherium Sculptor
+2 Blinkmoth Nexus
+2 Master of Etherium
+2 Smuggler's Copter
+2 Judge's Familiar
+2 Signal Pest
+2 Island
+2 Mausoleum Wanderer
+2 Grand Architect
+2 Throne of the God-Pharaoh
+2 Etherium Sculptor
+2 Walking Ballista
+2 Chief Engineer
+3 Walking Ballista
+3 Blinkmoth Nexus
+3 Master of Etherium
+3 Smuggler's Copter
+3 Etherium Sculptor
+3 Chief Engineer
+3 Island
+3 Mausoleum Wanderer
+3 Grand Architect
+4 Walking Ballista
+4 Blinkmoth Nexus
+4 Master of Etherium
+4 Smuggler's Copter
+4 Etherium Sculptor
+4 Mausoleum Wanderer
+4 Island
+4 Chief Engineer
+4 Grand Architect
+5 Island
+6 Island
+7 Island
+8 Island
+9 Island
+10 Island
+11 Island
+12 Island
+13 Island
+14 Island
+15 Island
+16 Island
 1 Soul-Scar Mage
 1 Crash Through
 1 Young Pyromancer
@@ -289,8 +289,8 @@
 1 Monastery Swiftspear
 1 Temur Battle Rage
 2 Soul-Scar Mage
-2 Apostle's Blessing
 2 Kiln Fiend
+2 Apostle's Blessing
 2 Crash Through
 2 Young Pyromancer
 2 Monastery Swiftspear
@@ -302,9 +302,9 @@
 2 Warlord's Fury
 3 Soul-Scar Mage
 3 Temur Battle Rage
-3 Mountain
 3 Kiln Fiend
 3 Crash Through
+3 Mountain
 3 Manamorphose
 3 Lightning Bolt
 3 Warlord's Fury
@@ -312,8 +312,8 @@
 3 Lava Spike
 4 Soul-Scar Mage
 4 Temur Battle Rage
-4 Mountain
 4 Crash Through
+4 Mountain
 4 Manamorphose
 4 Kiln Fiend
 4 Monastery Swiftspear
