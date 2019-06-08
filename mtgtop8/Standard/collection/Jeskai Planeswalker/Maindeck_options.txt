@@ -1,6 +1,5 @@
 1 Island
 1 Lava Coil
-2 Lightning Strike
 2 Lava Coil
 1 Kasmina, Enigmatic Mentor
 2 Kasmina, Enigmatic Mentor
@@ -8,20 +7,21 @@
 2 Fblthp, the Lost
 3 Fblthp, the Lost
 1 Negate
+2 Lightning Strike
 1 Ixalan's Binding
 2 Teferi, Hero of Dominaria
 2 Negate
 2 Clifftop Retreat
+4 Deafening Clarion
 1 Search for Azcanta
 2 Search for Azcanta
-4 Deafening Clarion
 1 Prison Realm
 2 Prison Realm
 3 Lava Coil
 4 Lava Coil
-1 Dovin, Grand Arbiter
 1 Dovin, Hand of Control
 2 Dovin, Hand of Control
+1 Dovin, Grand Arbiter
 1 Urza's Ruinous Blast
 1 Mountain
 1 Ugin, the Ineffable
@@ -32,4 +32,10 @@
 3 Negate
 3 Karn, Scion of Urza
 4 Saheeli, Sublime Artificer
+1 Spark Double
+1 Jace, Wielder of Mysteries
+1 Anticipate
+1 Dovin's Veto
+4 Sulfur Falls
+4 Glacial Fortress
 4 Spell Pierce

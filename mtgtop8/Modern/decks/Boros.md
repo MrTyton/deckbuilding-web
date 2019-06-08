@@ -77,6 +77,6 @@
 |                    4|[Soldier of the Pantheon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373529)    |                     |                                                                                                 |
 |                    4|[Thalia's Lieutenant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409783)        |                     |                                                                                                 |
 |                    3|[Gideon Jura](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430549)                |                     |                                                                                                 |
-|                    4|[Condemn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=130528)                    |                     |                                                                                                 |
 |                    6|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)                     |                     |                                                                                                 |
+|                    4|[Condemn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=130528)                    |                     |                                                                                                 |
 
