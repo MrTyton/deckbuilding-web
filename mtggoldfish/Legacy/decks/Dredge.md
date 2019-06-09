@@ -56,8 +56,8 @@
 |                     |                                                                                              |                    1|[Chain of Vapor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420701)            |
 |                     |                                                                                              |                    2|[Chain of Vapor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420701)            |
 |                     |                                                                                              |                    2|[Force of Will](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3107)               |
-|                     |                                                                                              |                    3|[Force of Will](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3107)               |
 |                     |                                                                                              |                    3|[Chain of Vapor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420701)            |
+|                     |                                                                                              |                    3|[Force of Will](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3107)               |
 |                     |                                                                                              |                    4|[Force of Will](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3107)               |
 |                     |                                                                                              |                    4|[Chain of Vapor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420701)            |
 
