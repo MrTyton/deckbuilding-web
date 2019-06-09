@@ -3,14 +3,13 @@
 2 Wasteland
 3 Wasteland
 1 Pithing Needle
-1 Ancient Tomb
 1 Spire of Industry
 1 Cranial Plating
 1 Engineered Explosives
 1 Recruiter of the Guard
-1 Walking Ballista
 1 Ratchet Bomb
 1 Etched Champion
+1 Chalice of the Void
 1 Phyrexian Revoker
 1 Sword of Fire and Ice
 1 Vault Skirge
@@ -19,16 +18,19 @@
 1 Trinket Mage
 1 Thoughtcast
 1 Mox Opal
+1 Ancient Tomb
 1 Stoneforge Mystic
 1 Ancient Den
+1 Walking Ballista
 1 Seat of the Synod
 1 Plains
 1 Trophy Mage
 1 Aether Spellbomb
 1 Academy Ruins
-1 Chalice of the Void
 1 Lotus Petal
 2 Etched Champion
+2 Walking Ballista
+2 Chalice of the Void
 2 Seat of the Synod
 2 Phyrexian Revoker
 2 Vault Skirge
@@ -37,18 +39,16 @@
 2 Ancient Tomb
 2 Stoneforge Mystic
 2 Ancient Den
-2 Chalice of the Void
 2 Thoughtcast
 2 Spire of Industry
-2 Walking Ballista
 3 Etched Champion
+3 Walking Ballista
+3 Chalice of the Void
 3 Thoughtcast
 3 Spire of Industry
 3 Mox Opal
 3 Ancient Tomb
-3 Walking Ballista
 3 Ancient Den
-3 Chalice of the Void
 3 Seat of the Synod
 3 Vault Skirge
 3 Stoneforge Mystic
@@ -112,11 +112,11 @@
 4 Force of Will
 1 Taiga
 1 Jace, the Mind Sculptor
+1 Grove of the Burnwillows
 1 Tarmogoyf
 1 Lightning Bolt
 1 Ancestral Vision
 1 Guided Passage
-1 Grove of the Burnwillows
 1 Shardless Agent
 1 Bloodbraid Elf
 1 Raging Ravine
@@ -167,10 +167,10 @@
 2 Delver of Secrets
 3 Daze
 3 Ponder
+3 Island
 3 Gut Shot
 3 Flusterstorm
 3 True-Name Nemesis
-3 Island
 3 Nivmagus Elemental
 3 Delver of Secrets
 4 Ponder

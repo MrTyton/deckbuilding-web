@@ -20,3 +20,16 @@
 |4 [Chalice of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442211)|4 [Faerie Macabre](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=201822)    |2 [Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)|
 |3 [Defense Grid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45481)        |2 [Goblin Cratermaker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452853)|                                                                                   |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                          Maindeck Card                                           |*n*<sup>th</sup> copy|                                   Sideboard Card                                    |
+|--------------------:|--------------------------------------------------------------------------------------------------|--------------------:|-------------------------------------------------------------------------------------|
+|                    1|[Combustible Gearhulk](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417685)   |                    1|[Trinisphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=43545)|
+|                    2|[Combustible Gearhulk](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417685)   |                    2|[Trinisphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=43545)|
+|                    3|[Combustible Gearhulk](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417685)   |                    3|[Trinisphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=43545)|
+|                    4|[Emrakul, the Aeons Torn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397905)|                    4|[Trinisphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=43545)|
+|                    4|[Combustible Gearhulk](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417685)   |                     |                                                                                     |
+|                   10|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)               |                     |                                                                                     |
+|                    4|[Griselbrand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=239995)            |                     |                                                                                     |
+
