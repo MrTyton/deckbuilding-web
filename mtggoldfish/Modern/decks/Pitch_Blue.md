@@ -31,8 +31,8 @@
 
 |*n*<sup>th</sup> copy|                                    Maindeck Card                                    |*n*<sup>th</sup> copy|                                     Sideboard Card                                      |
 |--------------------:|-------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------|
-|                    1|[Blast Zone](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461171)|                    1|[Damnation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425888)     |
-|                    3|[Snapback](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=108897)  |                    1|[Spell Snare](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446100)   |
+|                    1|[Blast Zone](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461171)|                    1|[Tyrant's Scorn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461152)|
+|                    3|[Snapback](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=108897)  |                    1|[Damnation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425888)     |
 |                     |                                                                                     |                    2|[Tyrant's Scorn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461152)|
-|                     |                                                                                     |                    1|[Tyrant's Scorn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461152)|
+|                     |                                                                                     |                    1|[Spell Snare](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446100)   |
 

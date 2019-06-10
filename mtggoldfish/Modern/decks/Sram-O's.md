@@ -52,7 +52,7 @@
 |                    1|[Godless Shrine](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405099)      |                    1|[Claim/Fame](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430839)          |
 |                    2|[Hurkyl's Recall](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=135260)     |                    2|[Claim/Fame](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430839)          |
 |                    1|[Horizon Canopy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409571)      |                    3|[Claim/Fame](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430839)          |
-|                    2|[Horizon Canopy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409571)      |                    4|[Claim/Fame](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430839)          |
-|                    3|[Windswept Heath](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405115)     |                    1|[Ancestral Vision](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=189244)    |
-|                    4|[Marsh Flats](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405101)         |                     |                                                                                               |
+|                    2|[Horizon Canopy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409571)      |                    1|[Ancestral Vision](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=189244)    |
+|                    4|[Marsh Flats](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405101)         |                    4|[Claim/Fame](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430839)          |
+|                    3|[Windswept Heath](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405115)     |                     |                                                                                               |
 
