@@ -25,3 +25,22 @@
 |2 [Rekindling Phoenix](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439768) |                                                                                        |                                                                                      |
 |4 [Tocatli Honor Guard](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435194)|                                                                                        |                                                                                      |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                          Maindeck Card                                          |*n*<sup>th</sup> copy|                                         Sideboard Card                                          |
+|--------------------:|-------------------------------------------------------------------------------------------------|--------------------:|-------------------------------------------------------------------------------------------------|
+|                    1|[Domri's Ambush](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461119)        |                    1|[Domri, Anarch of Bolas](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461118)|
+|                    1|[Sheltering Light](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435187)      |                    1|[Tajic, Legion's Edge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452954)  |
+|                    1|[Domri, Anarch of Bolas](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461118)|                    1|[Healing Grace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442908)         |
+|                    2|[Rootbound Crag](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420934)        |                    1|[Deafening Clarion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452915)     |
+|                    2|[Domri's Ambush](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461119)        |                    1|Collision / Colossus                                                                             |
+|                    2|[Sheltering Light](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435187)      |                    1|[Gideon Blackblade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463943)     |
+|                    3|[Gruul Spellbreaker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457323)    |                    1|[Prison Realm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460953)          |
+|                    3|[Domri's Ambush](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461119)        |                    2|[Prison Realm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460953)          |
+|                    4|[Gruul Spellbreaker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457323)    |                    2|[Healing Grace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442908)         |
+|                    4|[Domri's Ambush](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461119)        |                    2|Collision / Colossus                                                                             |
+|                     |                                                                                                 |                    2|[Gideon Blackblade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463943)     |
+|                     |                                                                                                 |                    3|[Lava Coil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452858)             |
+|                     |                                                                                                 |                    2|[Deafening Clarion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452915)     |
+
