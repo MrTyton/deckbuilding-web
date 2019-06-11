@@ -56,17 +56,17 @@
 1 Creeping Tar Pit
 1 Geier Reach Sanitarium
 1 Polluted Delta
-1 Narset, Parter of Veils
-1 Disrupting Shoal
 1 Commandeer
+1 Narset, Parter of Veils
 1 Day's Undoing
+1 Disrupting Shoal
 2 Polluted Delta
 2 Disrupting Shoal
 2 Narset, Parter of Veils
 2 Day's Undoing
 3 Narset, Parter of Veils
-3 Disrupting Shoal
 3 Day's Undoing
+3 Disrupting Shoal
 4 Narset, Parter of Veils
 4 Day's Undoing
 1 Path to Exile
@@ -97,11 +97,11 @@
 1 Gemstone Caverns
 1 Glacial Fortress
 1 Teferi, Hero of Dominaria
+1 Vapor Snag
 1 Gigadrowse
 1 Boomerang
-1 Vendilion Clique
-1 Vapor Snag
 1 Scalding Tarn
+1 Vendilion Clique
 1 Fieldmist Borderpost
 1 Mikokoro, Center of the Sea
 1 Snapback
@@ -113,8 +113,8 @@
 2 Gigadrowse
 3 Boomerang
 3 Fieldmist Borderpost
-4 Disrupting Shoal
 4 Boomerang
+4 Disrupting Shoal
 4 Fieldmist Borderpost
 1 Drowned Catacomb
 1 Watery Grave
@@ -123,10 +123,10 @@
 2 Drowned Catacomb
 2 Jace, the Mind Sculptor
 2 Tyrant's Scorn
-2 Commandeer
 2 Geier Reach Sanitarium
 2 Watery Grave
 2 Creeping Tar Pit
+2 Commandeer
 3 Polluted Delta
 3 Watery Grave
 3 Creeping Tar Pit
@@ -149,9 +149,9 @@
 2 Gideon, Ally of Zendikar
 2 Shambling Vent
 2 Concealed Courtyard
+2 Marsh Flats
 2 Lingering Souls
 2 Dark Confidant
-2 Marsh Flats
 2 Godless Shrine
 2 Collective Brutality
 2 Kaya, Orzhov Usurper
@@ -169,8 +169,8 @@
 3 Inquisition of Kozilek
 4 Thoughtseize
 4 Dark Confidant
-4 Marsh Flats
 4 Lingering Souls
+4 Marsh Flats
 4 Liliana of the Veil
 4 Concealed Courtyard
 4 Shambling Vent
@@ -259,8 +259,8 @@
 4 Flooded Strand
 4 Growth Spiral
 1 Karn, the Great Creator
-1 Utopia Sprawl
 1 Trinisphere
+1 Utopia Sprawl
 1 Arbor Elf
 1 Walking Ballista
 1 Acidic Slime

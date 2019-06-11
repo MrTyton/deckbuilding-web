@@ -60,7 +60,7 @@
 |                    1|[Delirium Skeins](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107435)       |                    3|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)      |
 |                    2|[Polluted Delta](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405104)        |                    4|[Pack Rat](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=253624)            |
 |                    2|[Ghost Quarter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389534)         |                    1|[Fatal Push](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423724)          |
-|                    2|[Bloodstained Mire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405094)     |                    1|[Extirpate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370384)           |
-|                    2|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)   |                     |                                                                                               |
+|                    2|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)   |                    1|[Extirpate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370384)           |
+|                    2|[Bloodstained Mire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405094)     |                     |                                                                                               |
 |                    1|[Liliana's Caress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205035)      |                     |                                                                                               |
 

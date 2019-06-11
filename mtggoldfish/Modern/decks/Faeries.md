@@ -58,6 +58,6 @@
 |                    2|[Flooded Strand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405098)          |                    2|[Field of Ruin](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435415)          |
 |                    2|[Ninja of the Deep Hours](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=74587)  |                    2|[Damnation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425888)              |
 |                    1|[Secluded Glen](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=153458)           |                    3|[Field of Ruin](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435415)          |
-|                    4|[Cryptic Command](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438614)         |                     |                                                                                                  |
 |                    3|[Mutavault](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370733)               |                     |                                                                                                  |
+|                    4|[Cryptic Command](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438614)         |                     |                                                                                                  |
 
