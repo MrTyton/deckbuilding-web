@@ -1,0 +1,26 @@
+# Mono-White Aggro
+
+#### [Export MTGO List](../collection/Mono-White%20Aggro/Mono-White%20Aggro.txt)
+#### [Export Arena List](../collection/Mono-White%20Aggro/Mono-White%20Aggro_arena.txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Adanto%20Vanguard%0A4%09Benalish%20Marshal%0A4%09Conclave%20Cavalier%0A4%09Dauntless%20Bodyguard%0A4%09History%20of%20Benalia%0A4%09Law-Rune%20Enforcer%0A4%09Legion's%20Landing%0A20%09Plains%0A4%09Skymarcher%20Aspirant%0A4%09Snubhorn%20Sentry%0A4%09Venerated%20Loxodon&deckside=2%09Ajani,%20Adversary%20of%20Tyrants%0A4%09Baffling%20End%0A3%09Gideon%20Blackblade%0A4%09Tocatli%20Honor%20Guard%0A2%09Unbreakable%20Formation)
+# Maindeck
+
+|                                         Creature (32)                                          |                                        Enchantment (8)                                        |                                     Land (20)                                      |
+|------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------|
+|4 [Adanto Vanguard](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435152)    |4 [History of Benalia](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442909)|20 [Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)|
+|4 [Benalish Marshal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442894)   |4 [Legion's Landing](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435173)  |                                                                                    |
+|4 [Conclave Cavalier](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452911)  |                                                                                               |                                                                                    |
+|4 [Dauntless Bodyguard](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442902)|                                                                                               |                                                                                    |
+|4 [Law-Rune Enforcer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460947)  |                                                                                               |                                                                                    |
+|4 [Skymarcher Aspirant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439678)|                                                                                               |                                                                                    |
+|4 [Snubhorn Sentry](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439680)    |                                                                                               |                                                                                    |
+|4 [Venerated Loxodon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452780)  |                                                                                               |                                                                                    |
+
+
+# Sideboard
+
+|                                          Creature (4)                                          |                                     Enchantment (4)                                     |                                           Instant (2)                                            |                                            Planeswalker (5)                                            |
+|------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|
+|4 [Tocatli Honor Guard](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435194)|4 [Baffling End](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439658)|2 [Unbreakable Formation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457173)|2 [Ajani, Adversary of Tyrants](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447139)|
+|                                                                                                |                                                                                         |                                                                                                  |3 [Gideon Blackblade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463943)          |
+

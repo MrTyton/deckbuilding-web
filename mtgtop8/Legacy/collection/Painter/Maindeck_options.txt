@@ -1,20 +1,8 @@
 2 Blood Moon
 5 Mountain
 1 Walking Ballista
-4 Grindstone
 1 Goblin Cratermaker
-1 Island
-2 Island
-3 Island
-1 Mox Opal
-1 Trinket Mage
-1 Engineered Explosives
-1 Force of Will
-2 Force of Will
-2 Trinket Mage
-3 Force of Will
-4 Island
-4 Force of Will
+4 Grindstone
 3 Blood Moon
 4 Blood Moon
 1 Faithless Looting
@@ -25,15 +13,16 @@
 6 Mountain
 7 Mountain
 8 Mountain
+4 Karn, the Great Creator
+1 Swamp
+1 Daretti, Ingenious Iconoclast
+1 Badlands
 1 Volcanic Island
+1 Island
 1 Polluted Delta
 2 Polluted Delta
-4 Karn, the Great Creator
-1 Hope of Ghirapur
-1 Preordain
-2 Preordain
-3 Preordain
-3 Trinket Mage
+2 Island
+3 Island
 1 Spell Pierce
 1 Brainstorm
 1 Ponder
@@ -47,57 +36,42 @@
 4 Scalding Tarn
 4 Ponder
 4 Brainstorm
-1 Swamp
-1 Daretti, Ingenious Iconoclast
-1 Badlands
+1 Trinket Mage
+1 Engineered Explosives
+1 Force of Will
+2 Trinket Mage
+2 Force of Will
+3 Force of Will
+4 Island
+4 Force of Will
 1 Karn, Scion of Urza
 2 Ensnaring Bridge
-2 Mox Opal
-1 Academy Ruins
-1 Seat of the Synod
-5 Island
+1 Mox Opal
 3 Polluted Delta
 4 Polluted Delta
+1 Hope of Ghirapur
 1 Intuition
 1 Flooded Strand
+1 Preordain
 2 Volcanic Island
 2 Spell Pierce
+2 Preordain
+3 Preordain
+3 Trinket Mage
 1 Phyrexian Revoker
 1 Ichor Wellspring
 2 Daretti, Ingenious Iconoclast
 2 Ichor Wellspring
 3 Daretti, Ingenious Iconoclast
-4 Bloodstained Mire
 4 Smuggler's Copter
-1 Inventors' Fair
-1 Aether Spellbomb
-1 Tormod's Crypt
-1 Spellskite
-1 Pithing Needle
-1 Jeweled Amulet
-1 The Antiquities War
-1 Retrofitter Foundry
-1 Sai, Master Thopterist
-1 Darksteel Citadel
-2 Sai, Master Thopterist
-2 Seat of the Synod
-2 The Antiquities War
-2 Darksteel Citadel
-3 Seat of the Synod
-3 Sai, Master Thopterist
-3 The Antiquities War
-3 Mox Opal
-4 Preordain
-4 Seat of the Synod
-4 The Antiquities War
-4 Trinket Mage
-4 Mox Opal
+4 Bloodstained Mire
 1 Myr Battlesphere
 1 Combustible Gearhulk
 1 Sundering Titan
 1 Wurmcoil Engine
 1 Daretti, Scrap Savant
 2 Wurmcoil Engine
+2 Mox Opal
 2 Sundering Titan
 2 Daretti, Scrap Savant
 2 Faithless Looting
@@ -112,17 +86,17 @@
 1 Fire / Ice
 1 Darkslick Shores
 1 Baleful Strix
-1 Kolaghan's Command
 1 Liliana, the Last Hope
 1 Thoughtseize
+1 Spirebluff Canal
 1 Dark Confidant
 1 Dack Fayden
-1 Spirebluff Canal
+1 Kolaghan's Command
 1 Snapcaster Mage
 2 Lightning Bolt
+2 Kolaghan's Command
 2 Baleful Strix
 2 Swamp
-2 Kolaghan's Command
 2 Snapcaster Mage
 2 Dark Confidant
 2 Darkslick Shores
@@ -132,8 +106,10 @@
 3 Dark Confidant
 4 Dark Confidant
 4 Red Elemental Blast
+1 Academy Ruins
 1 Narset, Parter of Veils
 1 Jace, the Mind Sculptor
+1 Seat of the Synod
 1 Trinisphere
 1 Thirst for Knowledge
 1 Sorcerous Spyglass
@@ -151,12 +127,13 @@
 3 Chrome Mox
 3 Thirst for Knowledge
 4 Chalice of the Void
+5 Island
 6 Island
 7 Island
 8 Island
 1 Light Up the Stage
-1 Chandra, Torch of Defiance
 1 Magus of the Moon
+1 Chandra, Torch of Defiance
 1 Grim Monolith
 2 Light Up the Stage
 2 Chandra, Torch of Defiance

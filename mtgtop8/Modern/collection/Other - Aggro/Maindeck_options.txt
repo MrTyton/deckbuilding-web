@@ -117,8 +117,8 @@
 8 Forest
 1 Blinkmoth Nexus
 1 Smuggler's Copter
-1 Cavern of Souls
 1 Oboro, Palace in the Clouds
+1 Cavern of Souls
 1 Judge's Familiar
 1 Throne of the God-Pharaoh
 1 Island
@@ -171,6 +171,7 @@
 14 Island
 15 Island
 16 Island
+1 Soul-Scar Mage
 1 Crash Through
 1 Young Pyromancer
 1 Apostle's Blessing
@@ -181,8 +182,8 @@
 1 Lava Spike
 1 Manamorphose
 1 Warlord's Fury
-1 Soul-Scar Mage
 1 Temur Battle Rage
+2 Soul-Scar Mage
 2 Apostle's Blessing
 2 Kiln Fiend
 2 Crash Through
@@ -192,9 +193,9 @@
 2 Monastery Swiftspear
 2 Manamorphose
 2 Lava Spike
-2 Soul-Scar Mage
 2 Temur Battle Rage
 2 Lightning Bolt
+3 Soul-Scar Mage
 3 Temur Battle Rage
 3 Kiln Fiend
 3 Crash Through
@@ -204,11 +205,10 @@
 3 Lightning Bolt
 3 Monastery Swiftspear
 3 Warlord's Fury
-3 Soul-Scar Mage
+4 Soul-Scar Mage
 4 Temur Battle Rage
 4 Crash Through
 4 Mountain
-4 Soul-Scar Mage
 4 Monastery Swiftspear
 4 Lightning Bolt
 4 Lava Spike
@@ -225,5 +225,5 @@
 13 Mountain
 14 Mountain
 15 Mountain
-16 Mountain
 17 Mountain
+16 Mountain
