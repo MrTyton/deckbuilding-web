@@ -41,7 +41,7 @@
 |                    2|[Thopter Foundry](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=183017)        |                    1|[Nihil Spellbomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442215)        |
 |                    2|[Sword of the Meek](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=126215)      |                    1|[Welding Jar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=48328)             |
 |                    3|[Thopter Foundry](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=183017)        |                    1|[Ensnaring Bridge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=15866)        |
-|                    4|[Darkslick Shores](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=209400)       |                    2|[Welding Jar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=48328)             |
+|                    4|[Darkslick Shores](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=209400)       |                    2|[Pyroclasm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129801)              |
 |                    4|[Thopter Foundry](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=183017)        |                    3|[Assassin's Trophy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452902)      |
-|                     |                                                                                                  |                    2|[Pyroclasm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129801)              |
+|                     |                                                                                                  |                    2|[Welding Jar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=48328)             |
 

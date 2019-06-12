@@ -6,7 +6,8 @@
 
 |                             A                              |                                  B                                   |                                 C                                  |                              D                               |                            E                             |
 |------------------------------------------------------------|----------------------------------------------------------------------|--------------------------------------------------------------------|--------------------------------------------------------------|----------------------------------------------------------|
-|[45C Control](./mtgtop8/Standard/decks/45C_Control.md)      |[Golgari Aggro](./mtgtop8/Standard/decks/Golgari_Aggro.md)            |[Mardu Aggro](./mtgtop8/Standard/decks/Mardu_Aggro.md)              |[Other - Aggro](./mtgtop8/Standard/decks/Other_-_Aggro.md)    |[Temur Control](./mtgtop8/Standard/decks/Temur_Control.md)|
+|[45C Control](./mtgtop8/Standard/decks/45C_Control.md)      |[Gate Control](./mtgtop8/Standard/decks/Gate_Control.md)              |[Jund](./mtgtop8/Standard/decks/Jund.md)                            |[Orzhov Control](./mtgtop8/Standard/decks/Orzhov_Control.md)  |[Temur Aggro](./mtgtop8/Standard/decks/Temur_Aggro.md)    |
+|[45c Aggro](./mtgtop8/Standard/decks/45c_Aggro.md)          |[Golgari Aggro](./mtgtop8/Standard/decks/Golgari_Aggro.md)            |[Mardu Aggro](./mtgtop8/Standard/decks/Mardu_Aggro.md)              |[Other - Aggro](./mtgtop8/Standard/decks/Other_-_Aggro.md)    |[Temur Control](./mtgtop8/Standard/decks/Temur_Control.md)|
 |[Abzan Midrange](./mtgtop8/Standard/decks/Abzan_Midrange.md)|[Grixis Aggro](./mtgtop8/Standard/decks/Grixis_Aggro.md)              |[Mardu Control](./mtgtop8/Standard/decks/Mardu_Control.md)          |[Other - Control](./mtgtop8/Standard/decks/Other_-_Control.md)|[Teshar Combo](./mtgtop8/Standard/decks/Teshar_Combo.md)  |
 |[Bant Aggro](./mtgtop8/Standard/decks/Bant_Aggro.md)        |[Grixis Control](./mtgtop8/Standard/decks/Grixis_Control.md)          |[Mono Black Control](./mtgtop8/Standard/decks/Mono_Black_Control.md)|[Rakdos Aggro](./mtgtop8/Standard/decks/Rakdos_Aggro.md)      |[UB Control](./mtgtop8/Standard/decks/UB_Control.md)      |
 |[Bant Control](./mtgtop8/Standard/decks/Bant_Control.md)    |[Gruul Aggro](./mtgtop8/Standard/decks/Gruul_Aggro.md)                |[Mono Blue Aggro](./mtgtop8/Standard/decks/Mono_Blue_Aggro.md)      |[Red Deck Wins](./mtgtop8/Standard/decks/Red_Deck_Wins.md)    |[UR Aggro](./mtgtop8/Standard/decks/UR_Aggro.md)          |
@@ -14,7 +15,6 @@
 |[Dimir Midrange](./mtgtop8/Standard/decks/Dimir_Midrange.md)|[Jeskai Control](./mtgtop8/Standard/decks/Jeskai_Control.md)          |[Naya Aggro](./mtgtop8/Standard/decks/Naya_Aggro.md)                |[Simic Ramp](./mtgtop8/Standard/decks/Simic_Ramp.md)          |[Weenie White](./mtgtop8/Standard/decks/Weenie_White.md)  |
 |[Esper Control](./mtgtop8/Standard/decks/Esper_Control.md)  |[Jeskai Planeswalker](./mtgtop8/Standard/decks/Jeskai_Planeswalker.md)|[Nexus Reclamation](./mtgtop8/Standard/decks/Nexus_Reclamation.md)  |[Sultai Aggro](./mtgtop8/Standard/decks/Sultai_Aggro.md)      |                                                          |
 |[Esper Midrange](./mtgtop8/Standard/decks/Esper_Midrange.md)|[Jund Aggro](./mtgtop8/Standard/decks/Jund_Aggro.md)                  |[Orzhov Aggro](./mtgtop8/Standard/decks/Orzhov_Aggro.md)            |[Sultai Control](./mtgtop8/Standard/decks/Sultai_Control.md)  |                                                          |
-|[Gate Control](./mtgtop8/Standard/decks/Gate_Control.md)    |[Jund](./mtgtop8/Standard/decks/Jund.md)                              |[Orzhov Control](./mtgtop8/Standard/decks/Orzhov_Control.md)        |[Temur Aggro](./mtgtop8/Standard/decks/Temur_Aggro.md)        |                                                          |
 
 
 # Modern
@@ -38,10 +38,11 @@
 
 # Legacy
 
-|                      A                       |                           B                            |                             C                              |                  D                   |                    E                     |
-|----------------------------------------------|--------------------------------------------------------|------------------------------------------------------------|--------------------------------------|------------------------------------------|
-|[Affinity](./mtgtop8/Legacy/decks/Affinity.md)|[All my Spells](./mtgtop8/Legacy/decks/All_my_Spells.md)|[Artifact Prison](./mtgtop8/Legacy/decks/Artifact_Prison.md)|[Burn](./mtgtop8/Legacy/decks/Burn.md)|[Dredge](./mtgtop8/Legacy/decks/Dredge.md)|
+|                           A                            |                             B                              |                               C                                |
+|--------------------------------------------------------|------------------------------------------------------------|----------------------------------------------------------------|
+|[Affinity](./mtgtop8/Legacy/decks/Affinity.md)          |[Artifact Prison](./mtgtop8/Legacy/decks/Artifact_Prison.md)|[Dredge](./mtgtop8/Legacy/decks/Dredge.md)                      |
+|[All my Spells](./mtgtop8/Legacy/decks/All_my_Spells.md)|[Burn](./mtgtop8/Legacy/decks/Burn.md)                      |[Zombi Bombardment](./mtgtop8/Legacy/decks/Zombi_Bombardment.md)|
 
 
 
-#### Last Updated at 02:03AM on June 12, 2019
+#### Last Updated at 12:54PM on June 12, 2019
