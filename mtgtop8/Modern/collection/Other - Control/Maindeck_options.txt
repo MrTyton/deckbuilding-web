@@ -14,34 +14,34 @@
 1 Izzet Charm
 1 Mana Confluence
 1 Birds of Paradise
-1 Lightning Helix
-1 Stomping Ground
 1 Supreme Verdict
-1 Thought Erasure
+1 Lightning Helix
 1 Sin Collector
-1 Unmoored Ego
 1 Kolaghan's Command
 1 Detention Sphere
+1 Unmoored Ego
 1 Overgrown Tomb
 1 Bring to Light
 1 Niv-Mizzet Reborn
+1 Thought Erasure
 1 Pillar of the Paruns
 1 Sacred Foundry
+1 Stomping Ground
 1 Blooming Marsh
 1 Assassin's Trophy
 2 Blooming Marsh
-2 Lightning Helix
 2 Birds of Paradise
-2 Kolaghan's Command
 2 Mana Confluence
+2 Kolaghan's Command
+2 Lightning Helix
 2 Bring to Light
 2 Safewright Quest
 2 Pillar of the Paruns
 2 Assassin's Trophy
 2 Izzet Charm
 2 Niv-Mizzet Reborn
-3 Birds of Paradise
 3 Lightning Helix
+3 Birds of Paradise
 3 Safewright Quest
 3 Niv-Mizzet Reborn
 3 Bring to Light
@@ -95,15 +95,15 @@
 3 Blast Zone
 4 Blast Zone
 1 Gemstone Caverns
+1 Mikokoro, Center of the Sea
 1 Glacial Fortress
 1 Teferi, Hero of Dominaria
-1 Vapor Snag
 1 Gigadrowse
+1 Vendilion Clique
+1 Vapor Snag
 1 Boomerang
 1 Scalding Tarn
-1 Vendilion Clique
 1 Fieldmist Borderpost
-1 Mikokoro, Center of the Sea
 1 Snapback
 2 Boomerang
 2 Spell Pierce
@@ -116,15 +116,15 @@
 4 Boomerang
 4 Disrupting Shoal
 4 Fieldmist Borderpost
-1 Drowned Catacomb
 1 Watery Grave
 1 Tyrant's Scorn
+1 Drowned Catacomb
 1 Notion Thief
-2 Drowned Catacomb
-2 Jace, the Mind Sculptor
 2 Tyrant's Scorn
+2 Drowned Catacomb
 2 Geier Reach Sanitarium
 2 Watery Grave
+2 Jace, the Mind Sculptor
 2 Creeping Tar Pit
 2 Commandeer
 3 Polluted Delta
@@ -154,8 +154,8 @@
 2 Lingering Souls
 2 Godless Shrine
 2 Liliana, the Last Hope
-2 Collective Brutality
 2 Kaya, Orzhov Usurper
+2 Collective Brutality
 2 Thoughtseize
 3 Collective Brutality
 3 Concealed Courtyard
@@ -230,9 +230,9 @@
 4 Tranquil Cove
 4 Tranquil Expanse
 1 Flooded Strand
+1 Celestial Colonnade
 1 Misty Rainforest
 1 Hieroglyphic Illumination
-1 Celestial Colonnade
 1 Lumbering Falls
 1 Wilderness Reclamation
 1 Growth Spiral
@@ -245,8 +245,8 @@
 2 Growth Spiral
 2 Glittering Wish
 2 Hieroglyphic Illumination
-3 Hieroglyphic Illumination
 3 Misty Rainforest
+3 Hieroglyphic Illumination
 3 Teferi, Time Raveler
 3 Flooded Strand
 3 Wilderness Reclamation
@@ -260,8 +260,8 @@
 4 Growth Spiral
 1 Karn, the Great Creator
 1 Trinisphere
-1 Arbor Elf
 1 Utopia Sprawl
+1 Arbor Elf
 1 Acidic Slime
 1 Noble Hierarch
 1 Walking Ballista
@@ -272,16 +272,16 @@
 2 Utopia Sprawl
 2 Primal Command
 2 Walking Ballista
-3 Utopia Sprawl
 3 Arbor Elf
+3 Utopia Sprawl
 3 Walking Ballista
 3 Karn, the Great Creator
 3 Primal Command
 4 Arbor Elf
 4 Utopia Sprawl
 4 Primal Command
-1 Wooded Foothills
 1 Oath of Nissa
+1 Wooded Foothills
 1 Nykthos, Shrine to Nyx
 1 Mwonvuli Acid-Moss
 1 Garruk Wildspeaker
@@ -289,23 +289,23 @@
 2 Acidic Slime
 2 Eternal Witness
 2 Oath of Nissa
-2 Wooded Foothills
 2 Trinisphere
 2 Mwonvuli Acid-Moss
+2 Wooded Foothills
 2 Garruk Wildspeaker
 2 Forest
 3 Mwonvuli Acid-Moss
 3 Eternal Witness
 3 Oath of Nissa
-3 Wooded Foothills
 3 Trinisphere
+3 Wooded Foothills
 3 Garruk Wildspeaker
 3 Forest
 4 Oath of Nissa
-4 Wooded Foothills
 4 Forest
 4 Walking Ballista
 4 Mwonvuli Acid-Moss
+4 Wooded Foothills
 5 Forest
 6 Forest
 7 Forest

@@ -37,6 +37,6 @@
 
 |*n*<sup>th</sup> copy|                                    Maindeck Card                                    |*n*<sup>th</sup> copy|                                    Sideboard Card                                     |
 |--------------------:|-------------------------------------------------------------------------------------|--------------------:|---------------------------------------------------------------------------------------|
-|                    2|[Aether Hub](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417815)|                    1|[Spell Pierce](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425876)|
-|                    3|[Gruul Turf](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420917)|                    1|[Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)      |
+|                    2|[Aether Hub](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417815)|                    1|[Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)      |
+|                    3|[Gruul Turf](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420917)|                    1|[Spell Pierce](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425876)|
 

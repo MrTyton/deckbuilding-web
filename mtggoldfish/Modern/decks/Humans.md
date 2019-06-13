@@ -56,7 +56,7 @@
 |                     |                                                                                                 |                    2|Collector Ouphe                                                                                        |
 |                     |                                                                                                 |                    1|[Xathrid Necromancer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370619)         |
 |                     |                                                                                                 |                    2|[Xathrid Necromancer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370619)         |
+|                     |                                                                                                 |                    3|[Gaddock Teeg](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=140188)                |
 |                     |                                                                                                 |                    1|[Anafenza, the Foremost](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386476)      |
 |                     |                                                                                                 |                    3|[Militia Bugler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447165)              |
-|                     |                                                                                                 |                    3|[Gaddock Teeg](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=140188)                |
 
