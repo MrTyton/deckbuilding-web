@@ -67,6 +67,6 @@
 |                     |                                                                                                  |                    3|[Vandalblast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405431)             |
 |                     |                                                                                                  |                    3|[Shattering Spree](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456224)        |
 |                     |                                                                                                  |                    4|[Chalice of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442211)     |
-|                     |                                                                                                  |                    4|[Bontu's Last Reckoning](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430749)  |
 |                     |                                                                                                  |                    4|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)     |
+|                     |                                                                                                  |                    4|[Bontu's Last Reckoning](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430749)  |
 

@@ -61,6 +61,6 @@
 |                    3|[Thought-Knot Seer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407519)       |                     |                                                                                                        |
 |                    4|[Karn, the Great Creator](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460928) |                     |                                                                                                        |
 |                    4|[Ancient Stirrings](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442148)       |                     |                                                                                                        |
-|                    4|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)                  |                     |                                                                                                        |
 |                    5|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)                  |                     |                                                                                                        |
+|                    4|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)                  |                     |                                                                                                        |
 

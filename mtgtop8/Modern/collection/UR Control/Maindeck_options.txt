@@ -8,8 +8,8 @@
 1 Snow-Covered Mountain
 1 Snow-Covered Island
 1 Misty Rainforest
-2 Harvest Pyre
 2 Snow-Covered Island
+2 Harvest Pyre
 2 Misty Rainforest
 3 Snow-Covered Island
 3 Misty Rainforest
@@ -27,17 +27,12 @@
 3 Sulfur Falls
 1 Negate
 4 Flooded Strand
-1 Desolate Lighthouse
 1 Peek
+1 Desolate Lighthouse
 1 Ancestral Vision
 2 Electrolyze
 2 Ancestral Vision
 3 Ancestral Vision
-1 Magmatic Sinkhole
-1 Prismatic Vista
-1 Archmage's Charm
-2 Magmatic Sinkhole
-2 Archmage's Charm
 1 Kolaghan's Command
 1 Fatal Push
 1 Swamp
@@ -57,6 +52,11 @@
 2 Flame Slash
 2 Spell Snare
 2 Blast Zone
+1 Archmage's Charm
+1 Prismatic Vista
+1 Magmatic Sinkhole
+2 Archmage's Charm
+2 Magmatic Sinkhole
 1 Arid Mesa
 1 Search for Azcanta
 1 Lightning Helix
