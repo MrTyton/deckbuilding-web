@@ -59,7 +59,7 @@
 |                    4|Fiery Islet                                                                                    |                     |                                                                                              |
 |                    4|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)            |                     |                                                                                              |
 |                    4|[Boggart Harbinger](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=139441)   |                     |                                                                                              |
+|                    4|[Cavern of Souls](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278058)     |                     |                                                                                              |
 |                    5|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)            |                     |                                                                                              |
 |                    6|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)            |                     |                                                                                              |
-|                    4|[Cavern of Souls](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278058)     |                     |                                                                                              |
 

@@ -64,6 +64,7 @@
 |                     |                                                                                              |                    1|[Furnace Dragon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=46060)          |
 |                     |                                                                                              |                    2|[Ravenous Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197537)          |
 |                     |                                                                                              |                    3|[Stubborn Denial](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386673)        |
+|                     |                                                                                              |                    4|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)          |
 |                     |                                                                                              |                    3|[Dispatch](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397781)               |
 |                     |                                                                                              |                    4|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)         |
 |                     |                                                                                              |                    1|[Dismember](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382182)              |
@@ -73,5 +74,4 @@
 |                     |                                                                                              |                    3|[Dismember](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382182)              |
 |                     |                                                                                              |                    3|[Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452)      |
 |                     |                                                                                              |                    4|[Etched Champion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397710)        |
-|                     |                                                                                              |                    4|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)          |
 

@@ -2,7 +2,7 @@
 
 #### [Export MTGO List](../collection/Teshar%20Combo/Teshar%20Combo.txt)
 #### [Export Arena List](../collection/Teshar%20Combo/Teshar%20Combo_arena.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Chamber%20Sentry%0A4%09Diligent%20Excavator%0A4%09Drowned%20Catacomb%0A4%09Fblthp,%20the%20Lost%0A3%09Glacial%20Fortress%0A4%09Godless%20Shrine%0A4%09Hallowed%20Fountain%0A1%09Island%0A1%09Isolated%20Chapel%0A3%09Jace,%20Wielder%20of%20Mysteries%0A4%09Lazav,%20the%20Multifarious%0A4%09Militia%20Bugler%0A4%09Mox%20Amber%0A4%09Rona,%20Disciple%20of%20Gix%0A1%09Swamp%0A3%09Teferi,%20Time%20Raveler%0A4%09Teshar,%20Ancestor's%20Apostle%0A4%09Watery%20Grave&deckside=2%09Deputy%20of%20Detention%0A4%09Kitesail%20Freebooter%0A2%09Oath%20of%20Kaya%0A2%09Sorin,%20Vengeful%20Bloodlord%0A2%09Suncleanser%0A1%09Teferi,%20Time%20Raveler%0A2%09Urza's%20Ruinous%20Blast)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Chamber%20Sentry%0A4%09Diligent%20Excavator%0A4%09Drowned%20Catacomb%0A4%09Fblthp,%20the%20Lost%0A3%09Glacial%20Fortress%0A4%09Godless%20Shrine%0A4%09Hallowed%20Fountain%0A1%09Island%0A1%09Isolated%20Chapel%0A3%09Jace,%20Wielder%20of%20Mysteries%0A4%09Lazav,%20the%20Multifarious%0A4%09Militia%20Bugler%0A4%09Mox%20Amber%0A4%09Rona,%20Disciple%20of%20Gix%0A1%09Swamp%0A3%09Teferi,%20Time%20Raveler%0A4%09Teshar,%20Ancestor's%20Apostle%0A4%09Watery%20Grave&deckside=3%09Deputy%20of%20Detention%0A3%09Oath%20of%20Kaya%0A3%09Plaguecrafter%0A3%09Sorin,%20Vengeful%20Bloodlord%0A3%09Suncleanser)
 # Maindeck
 
 |                                     Artifact (4)                                     |                                             Creature (28)                                             |                                          Land (22)                                          |                                           Planeswalker (6)                                            |
@@ -19,9 +19,22 @@
 
 # Sideboard
 
-|                                          Creature (8)                                          |                                     Enchantment (2)                                     |                                           Planeswalker (3)                                           |                                           Sorcery (2)                                           |
-|------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
-|2 [Deputy of Detention](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457309)|2 [Oath of Kaya](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461136)|2 [Sorin, Vengeful Bloodlord](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461144)|2 [Urza's Ruinous Blast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442927)|
-|4 [Kitesail Freebooter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435264)|                                                                                         |1 [Teferi, Time Raveler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461148)     |                                                                                                 |
-|2 [Suncleanser](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447175)        |                                                                                         |                                                                                                      |                                                                                                 |
+|                                          Creature (9)                                          |                                     Enchantment (3)                                     |                                           Planeswalker (3)                                           |
+|------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|
+|3 [Deputy of Detention](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457309)|3 [Oath of Kaya](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461136)|3 [Sorin, Vengeful Bloodlord](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461144)|
+|3 [Plaguecrafter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452832)      |                                                                                         |                                                                                                      |
+|3 [Suncleanser](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447175)        |                                                                                         |                                                                                                      |
+
+
+# Other Options
+
+|*n*<sup>th</sup> copy|Maindeck Card|*n*<sup>th</sup> copy|                                        Sideboard Card                                         |
+|---------------------|-------------|--------------------:|-----------------------------------------------------------------------------------------------|
+|                     |             |                    1|[Kitesail Freebooter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435264) |
+|                     |             |                    1|[Urza's Ruinous Blast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442927)|
+|                     |             |                    1|[Teferi, Time Raveler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461148)|
+|                     |             |                    2|[Kitesail Freebooter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435264) |
+|                     |             |                    2|[Urza's Ruinous Blast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442927)|
+|                     |             |                    3|[Kitesail Freebooter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435264) |
+|                     |             |                    4|[Kitesail Freebooter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435264) |
 
