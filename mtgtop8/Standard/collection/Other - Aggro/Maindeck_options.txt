@@ -1,144 +1,93 @@
-1 Rootbound Crag
-2 Gruul Spellbreaker
-2 Stomping Ground
-2 Rootbound Crag
-3 Gruul Spellbreaker
-3 Stomping Ground
-4 Stomping Ground
-4 Gruul Spellbreaker
-1 Lightning Strike
-1 Rekindling Phoenix
-1 Shock
-1 Growth-Chamber Guardian
-2 Rekindling Phoenix
-2 Shock
-2 Mountain
-2 Growth-Chamber Guardian
-2 Lightning Strike
-3 Growth-Chamber Guardian
-3 Rootbound Crag
-3 Rekindling Phoenix
-3 Mountain
-4 Rekindling Phoenix
-4 Rootbound Crag
-4 Mountain
-4 Growth-Chamber Guardian
-5 Mountain
-6 Mountain
-7 Mountain
-6 Forest
-7 Forest
-1 Dreadhorde Arcanist
-1 Domri's Ambush
-1 Collision / Colossus
-2 Domri's Ambush
-2 Dreadhorde Arcanist
-2 Collision / Colossus
-3 Domri's Ambush
-3 Dreadhorde Arcanist
-4 Domri's Ambush
-2 Island
-1 Kraul Harpooner
-1 Unclaimed Territory
-2 Kraul Harpooner
-2 Unclaimed Territory
-1 Temple Garden
-2 Temple Garden
-3 Temple Garden
-4 Temple Garden
-1 Frilled Mystic
-1 Exclusion Mage
+1 Tamiyo, Collector of Tales
+1 Vraska, Golgari Queen
 1 Massacre Girl
+1 Exclusion Mage
+1 Command the Dreadhorde
+1 Overgrown Tomb
+1 Wildgrowth Walker
 1 Swamp
+1 Drowned Catacomb
+1 Assassin's Trophy
 1 Thought Erasure
+1 Watery Grave
 1 Enter the God-Eternals
 1 Ravenous Chupacabra
+1 Woodland Cemetery
+2 Tamiyo, Collector of Tales
 2 Exclusion Mage
 2 Enter the God-Eternals
+2 Overgrown Tomb
+2 Command the Dreadhorde
+2 Woodland Cemetery
+2 Watery Grave
 2 Drowned Catacomb
 2 Thought Erasure
+2 Wildgrowth Walker
 3 Enter the God-Eternals
 3 Thought Erasure
+3 Command the Dreadhorde
+3 Tamiyo, Collector of Tales
+3 Wildgrowth Walker
+3 Jadelight Ranger
 3 Exclusion Mage
+3 Overgrown Tomb
+3 Watery Grave
 3 Drowned Catacomb
+3 Woodland Cemetery
 4 Tamiyo, Collector of Tales
+4 Wildgrowth Walker
 4 Drowned Catacomb
+4 Woodland Cemetery
+4 Jadelight Ranger
+4 Overgrown Tomb
+1 Frilled Mystic
+3 Breeding Pool
+4 Breeding Pool
+1 Temple Garden
 1 Teferi, Time Raveler
 1 Glacial Fortress
 1 Hallowed Fountain
 1 Shalai, Voice of Plenty
-2 Teferi, Time Raveler
-2 Glacial Fortress
-2 Hallowed Fountain
-3 Teferi, Time Raveler
-3 Glacial Fortress
-4 Glacial Fortress
-1 Adanto Vanguard
-2 Adanto Vanguard
-3 Adanto Vanguard
-1 Ajani, Adversary of Tyrants
-1 Tenth District Legionnaire
-1 Defiant Strike
-1 Feather, the Redeemed
-1 Reckless Rage
-1 Sheltering Light
-1 Sacred Foundry
-1 Sunpetal Grove
-1 Clifftop Retreat
-2 Sunpetal Grove
-2 Reckless Rage
-2 Defiant Strike
-2 Tenth District Legionnaire
-2 Feather, the Redeemed
-2 Sheltering Light
-2 Sacred Foundry
-2 Clifftop Retreat
-3 Sunpetal Grove
-3 Clifftop Retreat
-3 Feather, the Redeemed
-3 Defiant Strike
-3 Tenth District Legionnaire
-3 Reckless Rage
-3 Sacred Foundry
-4 Clifftop Retreat
-4 Adanto Vanguard
-4 Dreadhorde Arcanist
-4 Tenth District Legionnaire
-4 Defiant Strike
-4 Reckless Rage
-4 Feather, the Redeemed
-4 Sacred Foundry
-1 Hostage Taker
-2 Assassin's Trophy
-2 Hostage Taker
-2 Vraska, Golgari Queen
-3 Assassin's Trophy
-4 Watery Grave
 1 Mass Manipulation
 1 Tolsimir, Friend to Wolves
 1 Ripjaw Raptor
 1 Growth Spiral
-1 Entrancing Melody
-1 Paradise Druid
+1 Nissa, Who Shakes the World
+1 Hydroid Krasis
 1 Incubation Druid
+1 Paradise Druid
+1 Entrancing Melody
+2 Temple Garden
+2 Teferi, Time Raveler
+2 Glacial Fortress
+2 Hallowed Fountain
 2 Mass Manipulation
-2 Tolsimir, Friend to Wolves
 2 Entrancing Melody
+2 Tolsimir, Friend to Wolves
 2 Incubation Druid
 2 Paradise Druid
-3 Mass Manipulation
+2 Hydroid Krasis
+2 Nissa, Who Shakes the World
 3 Paradise Druid
+3 Temple Garden
+3 Teferi, Time Raveler
+3 Glacial Fortress
+3 Mass Manipulation
+3 Hydroid Krasis
 3 Island
+3 Nissa, Who Shakes the World
 3 Incubation Druid
+4 Paradise Druid
+4 Glacial Fortress
+4 Temple Garden
+4 Hydroid Krasis
 4 Incubation Druid
 4 Nissa, Who Shakes the World
-4 Paradise Druid
-1 Spell Pierce
-2 Spell Pierce
-1 Simic Guildgate
 1 Ghalta, Primal Hunger
+1 Simic Guildgate
 1 God-Eternal Rhonas
 1 Steel Leaf Champion
+1 Spell Pierce
 1 Nullhide Ferox
 1 Thrashing Brontodon
 1 Pelt Collector
@@ -146,85 +95,58 @@
 2 Ghalta, Primal Hunger
 2 God-Eternal Rhonas
 2 Steel Leaf Champion
-2 Nullhide Ferox
 2 Frilled Mystic
+2 Nullhide Ferox
+2 Spell Pierce
 2 Pelt Collector
 2 Simic Guildgate
 2 Departed Deckhand
+3 Frilled Mystic
 3 Nullhide Ferox
 3 Steel Leaf Champion
 3 Departed Deckhand
 3 Unclaimed Territory
-3 Frilled Mystic
 3 Pelt Collector
-4 Nullhide Ferox
 4 Unclaimed Territory
 4 Pelt Collector
 4 Departed Deckhand
+4 Nullhide Ferox
 4 Steel Leaf Champion
-1 Blink of an Eye
-1 Tomik, distinguished Advokist
-1 Meandering River
-1 Plains
-1 Kasmina, Enigmatic Mentor
-1 Ixalan's Binding
-1 Resplendent Angel
-1 Deputy of Detention
-1 Lyra Dawnbringer
-1 Dive Down
-1 Tithe Taker
-2 Blink of an Eye
-2 Plains
-2 Meandering River
-2 Tomik, distinguished Advokist
-2 Kasmina, Enigmatic Mentor
-2 Resplendent Angel
-2 Ixalan's Binding
-2 Lyra Dawnbringer
-2 Deputy of Detention
-2 Shalai, Voice of Plenty
-2 Dive Down
-2 Tithe Taker
-3 Tithe Taker
-3 Plains
-3 Hallowed Fountain
-3 Lyra Dawnbringer
-3 Resplendent Angel
-3 Ixalan's Binding
-3 Shalai, Voice of Plenty
-3 Spell Pierce
-4 Teferi, Time Raveler
-4 Resplendent Angel
-4 Hallowed Fountain
-4 Plains
-5 Plains
-6 Plains
 1 Zhur-Taa Goblin
-1 Lava Coil
+1 Domri's Ambush
+1 Dreadhorde Arcanist
+1 Collision / Colossus
 1 Legion Warboss
-2 Zhur-Taa Goblin
+1 Lava Coil
+2 Domri's Ambush
 2 Lava Coil
+2 Zhur-Taa Goblin
+2 Dreadhorde Arcanist
+2 Collision / Colossus
 2 Legion Warboss
+3 Domri's Ambush
+3 Dreadhorde Arcanist
 3 Legion Warboss
 3 Shock
+4 Domri's Ambush
 8 Forest
 1 Gruul Guildgate
-1 Domri, Chaos Bringer
 1 Sarkhan the Masterless
 1 Chandra, Fire Artisan
+1 Domri, Chaos Bringer
 1 Skarrgan Hellkite
-1 Goblin Chainwhirler
 1 Thorn Lieutenant
 1 Domri, Anarch of Bolas
-2 Thorn Lieutenant
-2 Sarkhan the Masterless
+1 Goblin Chainwhirler
 2 Chandra, Fire Artisan
-2 Gruul Guildgate
-2 Domri, Anarch of Bolas
-2 Skarrgan Hellkite
+2 Sarkhan the Masterless
+2 Thorn Lieutenant
 2 Goblin Chainwhirler
-3 Lightning Strike
+2 Skarrgan Hellkite
+2 Domri, Anarch of Bolas
+2 Gruul Guildgate
 3 Goblin Chainwhirler
+3 Lightning Strike
 4 Lightning Strike
 4 Goblin Chainwhirler
 8 Mountain

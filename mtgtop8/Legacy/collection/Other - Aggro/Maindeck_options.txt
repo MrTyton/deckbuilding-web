@@ -1,43 +1,106 @@
-1 Island
-1 Wasteland
-2 Wasteland
-3 Wasteland
-1 Etched Champion
+2 Thought Scour
+2 Cabal Therapy
+2 Liliana of the Veil
+3 Dreadhorde Arcanist
+3 Underground Sea
+3 Thoughtseize
+3 Polluted Delta
+3 Young Pyromancer
+3 Bloodstained Mire
+4 Dreadhorde Arcanist
+4 Lightning Bolt
+4 Polluted Delta
+1 Aether Vial
+2 Aether Vial
+3 Aether Vial
+4 Aether Vial
+1 Misty Rainforest
+1 True-Name Nemesis
+2 Misty Rainforest
+1 Umezawa's Jitte
+1 Renegade Rallier
+1 Palace Jailer
+1 Tropical Island
+1 Birds of Paradise
+1 Orzhov Pontiff
+1 Gaddock Teeg
+1 Tundra
+1 Shalai, Voice of Plenty
+1 Vivien, Champion of the Wilds
+1 Vendilion Clique
+1 Knight of Autumn
+1 Sanctum Prelate
+1 Mother of Runes
+1 Bayou
+1 Leovold, Emissary of Trest
+1 Deputy of Detention
+1 Noble Hierarch
+1 Dryad Arbor
+1 Windswept Heath
+1 Savannah
+1 Forest
+1 Atraxa, Praetors' Voice
+1 Spell Queller
+1 Fauna Shaman
+1 Scavenging Ooze
+1 Scryb Ranger
+1 Green Sun's Zenith
+1 Assassin's Trophy
+2 Birds of Paradise
+2 Vivien, Champion of the Wilds
+2 Savannah
+2 Windswept Heath
+2 Green Sun's Zenith
+2 Noble Hierarch
+2 Bayou
+2 Scryb Ranger
+2 Mother of Runes
+2 Tropical Island
+2 Fauna Shaman
+3 Birds of Paradise
+3 Misty Rainforest
+3 Fauna Shaman
+3 Mother of Runes
+3 Green Sun's Zenith
+3 Windswept Heath
+4 Misty Rainforest
+4 Windswept Heath
+4 Fauna Shaman
 1 Pithing Needle
-1 Engineered Explosives
 1 Recruiter of the Guard
 1 Ratchet Bomb
 1 Chalice of the Void
 1 Phyrexian Revoker
 1 Sword of Fire and Ice
+1 Plains
 1 Vault Skirge
 1 Pacification Array
-1 Ensnaring Bridge
-1 Cranial Plating
 1 Trinket Mage
-1 Thoughtcast
-1 Mox Opal
 1 Ancient Tomb
-1 Spire of Industry
-1 Stoneforge Mystic
-1 Ancient Den
+1 Cranial Plating
+1 Thoughtcast
 1 Walking Ballista
+1 Mox Opal
+1 Spire of Industry
+1 Ensnaring Bridge
+1 Ancient Den
 1 Seat of the Synod
-1 Plains
+1 Stoneforge Mystic
 1 Trophy Mage
+1 Etched Champion
 1 Aether Spellbomb
 1 Academy Ruins
 1 Lotus Petal
-2 Etched Champion
 2 Walking Ballista
 2 Chalice of the Void
 2 Seat of the Synod
 2 Phyrexian Revoker
 2 Vault Skirge
+2 Etched Champion
 2 Recruiter of the Guard
+2 Stoneforge Mystic
 2 Mox Opal
 2 Ancient Tomb
-2 Stoneforge Mystic
 2 Ancient Den
 2 Thoughtcast
 2 Spire of Industry
@@ -54,132 +117,52 @@
 3 Stoneforge Mystic
 4 Ancient Den
 4 Seat of the Synod
-1 Wooded Foothills
-2 Wooded Foothills
-1 Fyndhorn Elves
-1 Cavern of Souls
-1 Wirewood Symbiote
-1 Heritage Druid
-1 Craterhoof Behemoth
-1 Gaea's Cradle
-1 Pendelhaven
-1 Natural Order
-1 Nettle Sentinel
-1 Verdant Catacombs
-1 Elvish Visionary
-1 Glimpse of Nature
-1 Quirion Ranger
-1 Birchlore Rangers
-1 Llanowar Elves
-1 Elvish Mystic
-2 Craterhoof Behemoth
-2 Birchlore Rangers
-2 Forest
-2 Dryad Arbor
-2 Natural Order
-2 Glimpse of Nature
-2 Quirion Ranger
-2 Wirewood Symbiote
-2 Heritage Druid
-2 Elvish Visionary
-2 Nettle Sentinel
-2 Gaea's Cradle
-2 Llanowar Elves
-3 Glimpse of Nature
-3 Quirion Ranger
-3 Heritage Druid
-3 Wirewood Symbiote
-3 Gaea's Cradle
-3 Elvish Visionary
-3 Natural Order
-3 Nettle Sentinel
-4 Wirewood Symbiote
-4 Heritage Druid
-4 Quirion Ranger
-4 Gaea's Cradle
-4 Elvish Visionary
-4 Glimpse of Nature
-4 Green Sun's Zenith
-4 Nettle Sentinel
-1 Ponder
-1 Force of Will
-1 Scalding Tarn
-2 Ponder
-2 Force of Will
-2 Scalding Tarn
-2 True-Name Nemesis
-3 Force of Will
-4 Force of Will
-1 Taiga
-1 Lightning Bolt
-1 Jace, the Mind Sculptor
-1 Grove of the Burnwillows
-1 Tarmogoyf
-1 Ancestral Vision
-1 Guided Passage
-1 Shardless Agent
-1 Bloodbraid Elf
-1 Raging Ravine
-1 Sylvan Library
-1 Volcanic Island
-1 Punishing Fire
-2 Tarmogoyf
-2 Guided Passage
-2 Bloodbraid Elf
-2 Shardless Agent
-2 Ancestral Vision
-2 Punishing Fire
-2 Grove of the Burnwillows
-2 Lightning Bolt
-2 Volcanic Island
-3 Scalding Tarn
-3 Tarmogoyf
-3 Ancestral Vision
-3 Tropical Island
-3 Shardless Agent
-3 Guided Passage
-3 Bloodbraid Elf
-3 Grove of the Burnwillows
-3 Noble Hierarch
-4 Bloodbraid Elf
-4 Noble Hierarch
 1 Spell Snare
-1 Daze
 1 Stifle
-1 Flooded Strand
-1 Flusterstorm
+1 Spell Pierce
 1 Gut Shot
 1 Nivmagus Elemental
 1 Curious Obsession
-1 Spell Pierce
 1 Delver of Secrets
-1 Polluted Delta
-2 Daze
 2 Stifle
-2 Spell Snare
-2 Island
-2 Flooded Strand
 2 Flusterstorm
 2 Gut Shot
-2 Polluted Delta
+2 True-Name Nemesis
+2 Spell Snare
 2 Spell Pierce
 2 Nivmagus Elemental
 2 Delver of Secrets
-3 Ponder
-3 Daze
-3 Island
 3 Flusterstorm
 3 True-Name Nemesis
 3 Nivmagus Elemental
 3 Delver of Secrets
 3 Gut Shot
-4 Island
-4 Ponder
 4 Daze
-4 Wasteland
+4 Island
 4 True-Name Nemesis
 4 Nivmagus Elemental
 4 Flusterstorm
 4 Delver of Secrets
-5 Island
 4 Gut Shot
+5 Island
+1 Spellseeker
+1 Abrade
+1 Snapcaster Mage
+1 Adeliz, the Cinder Wind
+1 Pyroclasm
+1 Arid Mesa
+1 Riptide Laboratory
+1 Sudden Shock
+1 Cursecatcher
+2 Arid Mesa
+2 Snapcaster Mage
+2 Spellseeker
+2 Adeliz, the Cinder Wind
+2 Cursecatcher
+3 Cursecatcher
+3 Snapcaster Mage
+3 Spellseeker
+3 Adeliz, the Cinder Wind
+4 Scalding Tarn
+4 Spellseeker
+4 Cursecatcher
