@@ -26,7 +26,7 @@
 |[Allosaurus Combo](./mtgtop8/Modern/decks/Allosaurus_Combo.md)|[Gruul Ramp](./mtgtop8/Modern/decks/Gruul_Ramp.md)                |[Mardu Midrange](./mtgtop8/Modern/decks/Mardu_Midrange.md)        |[Puresteel Paladin](./mtgtop8/Modern/decks/Puresteel_Paladin.md)|[UrzaTron](./mtgtop8/Modern/decks/UrzaTron.md)        |
 |[Aura Hexproof](./mtgtop8/Modern/decks/Aura_Hexproof.md)      |[Hardened Scales](./mtgtop8/Modern/decks/Hardened_Scales.md)      |[Mono Black Aggro](./mtgtop8/Modern/decks/Mono_Black_Aggro.md)    |[Scapeshift](./mtgtop8/Modern/decks/Scapeshift.md)              |[Weenie White](./mtgtop8/Modern/decks/Weenie_White.md)|
 |[Bant](./mtgtop8/Modern/decks/Bant.md)                        |[Hollow One](./mtgtop8/Modern/decks/Hollow_One.md)                |[Mono Black Control](./mtgtop8/Modern/decks/Mono_Black_Control.md)|[Selesnya Aggro](./mtgtop8/Modern/decks/Selesnya_Aggro.md)      |[Whir Prison](./mtgtop8/Modern/decks/Whir_Prison.md)  |
-|[Eldrazi Aggro](./mtgtop8/Modern/decks/Eldrazi_Aggro.md)      |[Instant Reanimator](./mtgtop8/Modern/decks/Instant_Reanimator.md)|[Mono Green Aggro](./mtgtop8/Modern/decks/Mono_Green_Aggro.md)    |[Tokens](./mtgtop8/Modern/decks/Tokens.md)                      |[Zoo](./mtgtop8/Modern/decks/Zoo.md)                  |
+|[Eldrazi Aggro](./mtgtop8/Modern/decks/Eldrazi_Aggro.md)      |[Instant Reanimator](./mtgtop8/Modern/decks/Instant_Reanimator.md)|[Mono Green Aggro](./mtgtop8/Modern/decks/Mono_Green_Aggro.md)    |[Tokens](./mtgtop8/Modern/decks/Tokens.md)                      |                                                      |
 |[Faeries](./mtgtop8/Modern/decks/Faeries.md)                  |[Jeskai Ascendancy](./mtgtop8/Modern/decks/Jeskai_Ascendancy.md)  |[Mono Red Control](./mtgtop8/Modern/decks/Mono_Red_Control.md)    |[Twin Exarch](./mtgtop8/Modern/decks/Twin_Exarch.md)            |                                                      |
 
 
@@ -39,4 +39,4 @@
 
 
 
-#### Last Updated at 04:29AM on June 20, 2019
+#### Last Updated at 12:40PM on June 20, 2019
