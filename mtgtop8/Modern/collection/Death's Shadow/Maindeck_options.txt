@@ -1,15 +1,15 @@
 4 Mishra's Bauble
 1 Lightning Bolt
-1 Serum Visions
 1 Flooded Strand
 1 Unearth
+1 Serum Visions
 2 Flooded Strand
 1 Godless Shrine
 1 Marsh Flats
-1 Lingering Souls
 1 Plains
 1 Ranger-Captain of Eos
 1 Silent Clearing
+1 Lingering Souls
 1 Teferi, Time Raveler
 1 Hallowed Fountain
 1 Path to Exile
@@ -25,6 +25,7 @@
 3 Flooded Strand
 1 Kolaghan's Command
 2 Serum Visions
+1 Tasigur, the Golden Fang
 3 Scalding Tarn
 1 Overgrown Tomb
 1 Forest
@@ -35,13 +36,14 @@
 2 Tarmogoyf
 2 Wooded Foothills
 2 Verdant Catacombs
-3 Wooded Foothills
 3 Tarmogoyf
+3 Wooded Foothills
 4 Wooded Foothills
 4 Tarmogoyf
 3 Verdant Catacombs
 4 Verdant Catacombs
-1 Tasigur, the Golden Fang
+1 Snow-Covered Island
+1 Snow-Covered Swamp
 1 Grim Flayer
 1 Traverse the Ulvenwald
 1 Ghor-Clan Rampager
@@ -60,19 +62,17 @@
 1 Mutagenic Growth
 1 Monastery Swiftspear
 1 Become Immense
-2 Lightning Bolt
 2 Mutagenic Growth
 2 Become Immense
 2 Monastery Swiftspear
+2 Lightning Bolt
+3 Become Immense
 3 Mutagenic Growth
 3 Temur Battle Rage
 3 Monastery Swiftspear
-3 Become Immense
 4 Monastery Swiftspear
 4 Temur Battle Rage
 1 Dreadhorde Arcanist
-1 Snow-Covered Swamp
-1 Snow-Covered Island
 1 Dreadbore
 1 Sleight of Hand
 2 Grim Flayer
@@ -81,12 +81,6 @@
 2 Swamp
 2 Faithless Looting
 4 Snapcaster Mage
-1 Gruul Spellbreaker
-1 Narnam Renegade
-2 Gruul Spellbreaker
-2 Narnam Renegade
-3 Narnam Renegade
-4 Mutagenic Growth
 1 Windswept Heath
 1 Wild Nacatl
 1 Sacred Foundry
@@ -94,3 +88,11 @@
 2 Wild Nacatl
 3 Wild Nacatl
 4 Wild Nacatl
+1 Gruul Spellbreaker
+1 Narnam Renegade
+2 Gruul Spellbreaker
+2 Narnam Renegade
+3 Narnam Renegade
+4 Mutagenic Growth
+2 Steam Vents
+4 Scalding Tarn

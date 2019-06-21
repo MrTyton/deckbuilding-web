@@ -30,8 +30,8 @@
 
 |*n*<sup>th</sup> copy|                                        Maindeck Card                                         |*n*<sup>th</sup> copy|                                       Sideboard Card                                       |
 |--------------------:|----------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------|
-|                    1|[Canopy Vista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401837)       |                    1|[Dromoka's Command](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394558)|
-|                    1|[Dromoka's Command](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394558)  |                    1|[Celestial Purge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=183055)  |
+|                    1|[Dromoka's Command](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394558)  |                    1|[Dromoka's Command](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394558)|
+|                    1|[Canopy Vista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401837)       |                    1|[Celestial Purge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=183055)  |
 |                    1|[Evolving Wilds](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426944)     |                    1|[Glare of Heresy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373691)  |
 |                    1|[Fortified Village](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=410042)  |                    1|[Fog](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=746)                 |
 |                    1|[Unflinching Courage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446198)|                    1|[Disenchant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=847)          |

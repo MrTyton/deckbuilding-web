@@ -1,3 +1,15 @@
+6 Swamp
+4 Gideon Blackblade
+1 Cast Down
+1 Duress
+2 Cast Down
+2 Duress
+1 Liliana, Dreadhorde General
+1 Cruel Celebrant
+1 Gutterbones
+1 Priest of Forgotten Gods
+2 Cruel Celebrant
+2 Gutterbones
 2 Priest of Forgotten Gods
 3 Cruel Celebrant
 3 Priest of Forgotten Gods
@@ -9,12 +21,15 @@
 2 Plaguecrafter
 3 Plaguecrafter
 4 Plaguecrafter
-1 Cast Down
-1 Duress
-2 Cast Down
-2 Duress
-1 Liliana, Dreadhorde General
-4 Gideon Blackblade
+1 Resplendent Angel
+1 Tocatli Honor Guard
+2 Tocatli Honor Guard
+2 Resplendent Angel
+2 Despark
+3 Despark
+3 Tocatli Honor Guard
+3 Resplendent Angel
+4 Gutterbones
 1 Hunted Witness
 1 Revival / Revenge
 2 Hunted Witness
@@ -23,26 +38,19 @@
 3 Revival / Revenge
 4 Hunted Witness
 4 Sorin, Vengeful Bloodlord
-4 Gutterbones
 1 Orzhov Enforcer
 2 Orzhov Enforcer
 1 Memorial to Folly
 2 Memorial to Folly
-1 Despark
-1 Command the Dreadhorde
-2 Liliana, Dreadhorde General
 1 Adanto Vanguard
 2 Adanto Vanguard
 3 Adanto Vanguard
-2 Lyra Dawnbringer
-9 Plains
-10 Plains
+2 Liliana, Dreadhorde General
 1 Ajani, Adversary of Tyrants
 2 Ajani, Adversary of Tyrants
 1 Mobilized District
 2 Mobilized District
 3 Mobilized District
-3 Mortify
 1 God-Eternal Oketra
 1 Teysa Karlov
 1 Memorial to Glory
@@ -55,14 +63,6 @@
 2 Spark Harvest
 2 Dreadmalkin
 3 Spark Harvest
-1 Resplendent Angel
-1 Tocatli Honor Guard
-2 Tocatli Honor Guard
-2 Resplendent Angel
-2 Despark
-3 Despark
-3 Tocatli Honor Guard
-3 Resplendent Angel
 1 Prison Realm
 1 Orzhov Guildgate
 2 Prison Realm
@@ -82,6 +82,10 @@
 3 Dreadhorde Invasion
 3 Oath of Kaya
 4 Dreadhorde Invasion
+1 Knight of Infamy
+2 Knight of Infamy
+3 Knight of Infamy
+4 Knight of Infamy
 1 Arch of Orazca
 1 Kitesail Freebooter
 1 Vona, Butcher of Magan

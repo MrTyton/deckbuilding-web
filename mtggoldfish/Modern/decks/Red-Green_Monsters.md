@@ -30,8 +30,8 @@
 |--------------------:|-------------------------------------------------------------------------------------------|--------------------:|------------------------------------------------------------------------------------------------|
 |                    1|[Misty Rainforest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405102)|                    1|[Relic of Progenitus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174824)  |
 |                     |                                                                                           |                    1|[Trinisphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=43545)           |
-|                     |                                                                                           |                    2|[Relic of Progenitus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174824)  |
 |                     |                                                                                           |                    2|[Trinisphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=43545)           |
+|                     |                                                                                           |                    2|[Relic of Progenitus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174824)  |
 |                     |                                                                                           |                    3|[Trinisphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=43545)           |
 |                     |                                                                                           |                    4|[Bonfire of the Damned](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=271095)|
 
