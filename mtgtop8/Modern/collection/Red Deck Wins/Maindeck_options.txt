@@ -1,6 +1,6 @@
-3 Arid Mesa
-1 Skullcrack
-2 Skullcrack
+3 Lightning Helix
+4 Lightning Helix
+4 Bloodstained Mire
 4 Skewer the Critics
 4 Inspiring Vantage
 4 Mountain
@@ -11,25 +11,8 @@
 3 Sacred Foundry
 1 Shard Volley
 4 Light Up the Stage
-1 Scalding Tarn
-1 Atarka's Command
-2 Stomping Ground
-2 Atarka's Command
-3 Atarka's Command
-4 Atarka's Command
-4 Skullcrack
 5 Mountain
 6 Mountain
-2 Shard Volley
-1 Blood Crypt
-2 Blood Crypt
-1 Copperline Gorge
-1 Bump in the Night
-2 Bump in the Night
-3 Bump in the Night
-4 Bump in the Night
-1 Ramunap Ruins
-2 Ramunap Ruins
 7 Mountain
 8 Mountain
 9 Mountain
@@ -37,6 +20,8 @@
 11 Mountain
 12 Mountain
 13 Mountain
+1 Ramunap Ruins
+2 Ramunap Ruins
 1 Burning-Tree Emissary
 1 Reckless Bushwhacker
 1 Foundry Street Denizen
@@ -65,9 +50,27 @@
 4 Foundry Street Denizen
 4 Goblin Bushwhacker
 4 Legion Loyalist
-4 Ramunap Ruins
+1 Scalding Tarn
+1 Atarka's Command
+2 Stomping Ground
+2 Atarka's Command
+3 Atarka's Command
+4 Atarka's Command
 14 Mountain
 15 Mountain
+4 Skullcrack
+2 Shard Volley
+1 Mogg Fanatic
+2 Mogg Fanatic
+4 Goblin Grenade
+1 Blood Crypt
+2 Blood Crypt
+4 Ramunap Ruins
+1 Bump in the Night
+2 Bump in the Night
+3 Bump in the Night
+4 Bump in the Night
+1 Copperline Gorge
 1 Sunbaked Canyon
 2 Sunbaked Canyon
 3 Sunbaked Canyon
@@ -79,6 +82,8 @@
 1 Deflecting Palm
 1 Dreadhorde Arcanist
 2 Deflecting Palm
+1 Abrade
+2 Abrade
 1 The Flame of Keld
 1 Kari Zev's Expertise
 1 Devastating Summons
@@ -99,12 +104,11 @@
 3 Monastery Mentor
 4 Monastery Mentor
 4 Wild Nacatl
-1 Mogg Fanatic
-2 Mogg Fanatic
 3 Mogg Fanatic
-4 Goblin Grenade
 4 Mogg Fanatic
 1 Skirk Prospector
+1 Tarfire
+1 Aether Vial
 1 Goblin Cratermaker
 1 Warren Instigator
 1 Goblin Chainwhirler
@@ -112,11 +116,9 @@
 1 Kiki-Jiki, Mirror Breaker
 1 Auntie's Hovel
 1 Munitions Expert
-1 Aether Vial
 1 Goblin Matron
 1 Pashalik Mons
 1 Siege-Gang Commander
-1 Tarfire
 1 Goblin Trashmaster
 1 Boggart Harbinger
 1 Goblin Warchief
@@ -125,10 +127,10 @@
 1 Sling-Gang Lieutenant
 1 Earwig Squad
 1 Frogtosser Banneret
+2 Aether Vial
 2 Warren Instigator
 2 Goblin Chainwhirler
 2 Siege-Gang Commander
-2 Aether Vial
 2 Mogg War Marshal
 2 Munitions Expert
 2 Goblin Matron
@@ -138,16 +140,16 @@
 2 Cavern of Souls
 2 Goblin Chieftain
 3 Cavern of Souls
+3 Aether Vial
 3 Warren Instigator
 3 Boggart Harbinger
 3 Blood Crypt
-3 Aether Vial
 3 Goblin Matron
 3 Auntie's Hovel
 4 Warren Instigator
+4 Aether Vial
 4 Auntie's Hovel
 4 Cavern of Souls
-4 Aether Vial
 4 Goblin Matron
 4 Boggart Harbinger
 4 Blood Crypt
