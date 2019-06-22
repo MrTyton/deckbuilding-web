@@ -26,11 +26,11 @@
 1 Jace, Wielder of Mysteries
 1 Faerie Miscreant
 1 Spellstutter Sprite
+1 Spell Snare
 1 Rune Snag
 1 Quickling
 1 Unsummon
 1 Favorable Winds
-1 Spell Snare
 2 Mana Leak
 2 Jace, Wielder of Mysteries
 2 Narset's Reversal
@@ -61,62 +61,102 @@
 4 Favorable Winds
 17 Island
 1 Swamp
+2 Swamp
+1 Blackcleave Cliffs
+1 Faithless Looting
+1 Bloodstained Mire
+1 Bloodghast
+1 Blood Crypt
+2 Bloodstained Mire
+2 Blood Crypt
+2 Bloodghast
+2 Blackcleave Cliffs
+2 Faithless Looting
+3 Bloodstained Mire
+3 Blackcleave Cliffs
+3 Faithless Looting
+3 Bloodghast
+4 Bloodstained Mire
+4 Faithless Looting
+4 Bloodghast
+4 Blackcleave Cliffs
+1 Lightning Bolt
+1 Mountain
+2 Mountain
+2 Lightning Bolt
+3 Lightning Bolt
+4 Lightning Bolt
+1 Unearth
+1 Seasoned Pyromancer
+1 Lightning Skelemental
+1 Dreadhorde Arcanist
+1 Fatal Push
+1 Wooded Foothills
+1 Polluted Delta
+1 Tasigur, the Golden Fang
+1 Thoughtseize
+1 Arid Mesa
+1 Gurmag Angler
+1 Verdant Catacombs
+1 Flamewake Phoenix
+2 Unearth
+2 Seasoned Pyromancer
+2 Lightning Skelemental
+2 Fatal Push
+2 Dreadhorde Arcanist
+2 Gurmag Angler
+2 Thoughtseize
+2 Flamewake Phoenix
+3 Lightning Skelemental
+3 Seasoned Pyromancer
+3 Dreadhorde Arcanist
+3 Unearth
+3 Flamewake Phoenix
+3 Fatal Push
+3 Thoughtseize
+4 Unearth
+4 Seasoned Pyromancer
+4 Fatal Push
+4 Thoughtseize
+4 Lightning Skelemental
+4 Dreadhorde Arcanist
 1 Viscera Seer
 1 Lingering Souls
 2 Viscera Seer
 2 Lingering Souls
-2 Swamp
 3 Viscera Seer
 3 Lingering Souls
 4 Viscera Seer
 4 Lingering Souls
 1 Greater Gargadon
 1 Bridge from Below
-1 Blackcleave Cliffs
 1 Stitcher's Supplier
 1 Insolent Neonate
-1 Faithless Looting
-1 Bloodstained Mire
 1 Marsh Flats
-1 Bloodghast
-1 Blood Crypt
 1 Godless Shrine
 1 Gravecrawler
 1 Mayhem Devil
 2 Godless Shrine
-2 Bloodstained Mire
-2 Blood Crypt
-2 Bloodghast
 2 Marsh Flats
 2 Bridge from Below
 2 Greater Gargadon
 2 Gravecrawler
 2 Mayhem Devil
-2 Blackcleave Cliffs
 2 Insolent Neonate
 2 Stitcher's Supplier
-2 Faithless Looting
 3 Marsh Flats
-3 Bloodstained Mire
 3 Greater Gargadon
-3 Blackcleave Cliffs
 3 Mayhem Devil
 3 Insolent Neonate
 3 Stitcher's Supplier
-3 Faithless Looting
 3 Blood Crypt
-3 Bloodghast
 3 Bridge from Below
 3 Gravecrawler
 4 Blood Crypt
 4 Greater Gargadon
-4 Bloodstained Mire
 4 Marsh Flats
 4 Bridge from Below
 4 Insolent Neonate
-4 Faithless Looting
-4 Bloodghast
-4 Blackcleave Cliffs
 4 Gravecrawler
 4 Stitcher's Supplier
 4 Mayhem Devil
@@ -128,8 +168,8 @@
 3 Caves of Koilos
 4 Caves of Koilos
 4 Concealed Courtyard
-1 Kazandu Blademaster
 1 Duress
+1 Kazandu Blademaster
 1 Kalastria Healer
 1 Kabira Evangel
 1 Sandsteppe Citadel
@@ -147,13 +187,13 @@
 2 Unclaimed Territory
 2 Jwari Shapeshifter
 2 Arcane Sanctum
-2 Return to the Ranks
 2 Ondu Cleric
 2 Kalastria Healer
 2 Kabira Evangel
 2 Hada Freeblade
 2 Kazandu Blademaster
 2 Sandsteppe Citadel
+2 Return to the Ranks
 2 Harabaz Druid
 2 Ally Encampment
 3 Duress
@@ -168,24 +208,24 @@
 3 Halimar Excavator
 3 Ondu Cleric
 4 Duress
+4 Kazandu Blademaster
 4 Unclaimed Territory
 4 Kalastria Healer
 4 Return to the Ranks
 4 Ondu Cleric
 4 Halimar Excavator
-4 Kazandu Blademaster
+4 Harabaz Druid
 4 Jwari Shapeshifter
 4 Hada Freeblade
-4 Harabaz Druid
 4 Ally Encampment
 1 Lodestone Golem
 2 Lodestone Golem
 3 Lodestone Golem
 4 Lodestone Golem
 1 Blinkmoth Nexus
-1 Throne of the God-Pharaoh
 1 Grand Architect
 1 Smuggler's Copter
+1 Throne of the God-Pharaoh
 1 Walking Ballista
 1 Chief Engineer
 1 Cavern of Souls
@@ -194,12 +234,12 @@
 1 Oboro, Palace in the Clouds
 1 Etherium Sculptor
 2 Master of Etherium
-2 Smuggler's Copter
 2 Blinkmoth Nexus
+2 Smuggler's Copter
 2 Signal Pest
-2 Grand Architect
 2 Throne of the God-Pharaoh
 2 Etherium Sculptor
+2 Grand Architect
 2 Walking Ballista
 2 Chief Engineer
 3 Blinkmoth Nexus
@@ -259,48 +299,48 @@
 1 Skysovereign, Consul Flagship
 1 Karn, Scion of Urza
 1 Wurmcoil Engine
+1 Surge Node
+1 Everflowing Chalice
+1 Astral Cornucopia
+1 Coretapper
 1 Lightning Greaves
 1 Darksteel Citadel
 1 Tectonic Edge
 1 Batterskull
-1 Astral Cornucopia
-1 Mox Opal
-1 Coretapper
-1 Surge Node
 1 Blightsteel Colossus
 1 Memorial to Unity
 1 Kuldotha Forgemaster
-1 Everflowing Chalice
 1 Field of Ruin
 1 Inventors' Fair
+1 Mox Opal
 1 Ancient Stirrings
 1 Chalice of the Void
 2 Zhalfirin Void
 2 Karn, Scion of Urza
 2 Everflowing Chalice
-2 Field of Ruin
 2 Astral Cornucopia
-2 Ancient Stirrings
-2 Chalice of the Void
+2 Surge Node
 2 Coretapper
 2 Lightning Greaves
-2 Surge Node
+2 Field of Ruin
+2 Ancient Stirrings
+2 Chalice of the Void
 2 Darksteel Citadel
 2 Kuldotha Forgemaster
 3 Zhalfirin Void
+3 Coretapper
+3 Astral Cornucopia
+3 Everflowing Chalice
 3 Darksteel Citadel
 3 Kuldotha Forgemaster
-3 Everflowing Chalice
 3 Ancient Stirrings
-3 Astral Cornucopia
 3 Chalice of the Void
-3 Coretapper
+4 Astral Cornucopia
+4 Coretapper
 4 Ancient Stirrings
 4 Chalice of the Void
 4 Forest
 4 Everflowing Chalice
-4 Astral Cornucopia
-4 Coretapper
 5 Forest
 6 Forest
 7 Forest
@@ -311,9 +351,7 @@
 1 Kiln Fiend
 1 Apostle's Blessing
 1 Soul-Scar Mage
-1 Lightning Bolt
 1 Manamorphose
-1 Mountain
 1 Lava Spike
 1 Monastery Swiftspear
 1 Temur Battle Rage
@@ -322,9 +360,7 @@
 2 Apostle's Blessing
 2 Young Pyromancer
 2 Monastery Swiftspear
-2 Mountain
 2 Temur Battle Rage
-2 Lightning Bolt
 2 Lava Spike
 2 Soul-Scar Mage
 2 Manamorphose
@@ -336,14 +372,12 @@
 3 Warlord's Fury
 3 Monastery Swiftspear
 3 Mountain
-3 Lightning Bolt
 3 Lava Spike
 3 Soul-Scar Mage
 4 Temur Battle Rage
 4 Crash Through
 4 Manamorphose
 4 Kiln Fiend
-4 Lightning Bolt
 4 Soul-Scar Mage
 4 Monastery Swiftspear
 4 Mountain

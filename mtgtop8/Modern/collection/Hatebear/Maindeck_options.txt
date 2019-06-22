@@ -1,44 +1,47 @@
-1 Field of Ruin
+2 Cavern of Souls
+4 Horizon Canopy
 1 Chalice of the Void
-1 Simian Spirit Guide
 1 Gemstone Caverns
+1 Simian Spirit Guide
 1 Dismember
+2 Gemstone Caverns
 2 Chalice of the Void
 2 Simian Spirit Guide
-2 Gemstone Caverns
 2 Dismember
-3 Chalice of the Void
-3 Simian Spirit Guide
-3 Dismember
-3 Reality Smasher
 3 Gemstone Caverns
+3 Chalice of the Void
+3 Dismember
+3 Simian Spirit Guide
+3 Reality Smasher
 4 Simian Spirit Guide
 4 Chalice of the Void
 4 Reality Smasher
-4 Horizon Canopy
+3 Blade Splicer
 1 Caves of Koilos
 2 Caves of Koilos
 3 Caves of Koilos
 4 Caves of Koilos
 2 Tectonic Edge
-3 Blade Splicer
+8 Plains
+9 Plains
+10 Plains
 1 Warping Wail
+3 Restoration Angel
+1 Remorseful Cleric
+2 Remorseful Cleric
 1 Wasteland Strangler
 2 Wasteland Strangler
 3 Wasteland Strangler
 1 Swamp
+4 Blade Splicer
 1 Eiganjo Castle
 1 Thraben Inspector
 2 Thraben Inspector
 3 Thraben Inspector
-8 Plains
-9 Plains
-10 Plains
-3 Restoration Angel
 1 Goblin Cratermaker
 1 Aurelia, Exemplar of Justice
-1 Spellskite
 1 Avalanche Riders
+1 Spellskite
 1 Pia and Kiran Nalaar
 1 Alesha, Who Smiles at Death
 1 Inspiring Vantage
@@ -51,9 +54,9 @@
 1 Fulminator Mage
 1 Angel of Invention
 1 Path of Mettle
+2 Sacred Foundry
 2 Militia Bugler
 2 Avalanche Riders
-2 Sacred Foundry
 2 Mutavault
 2 Alesha, Who Smiles at Death
 2 Inspiring Vantage
@@ -70,8 +73,6 @@
 4 Inspiring Vantage
 4 Militia Bugler
 4 Alesha, Who Smiles at Death
-1 Remorseful Cleric
-2 Remorseful Cleric
 3 Remorseful Cleric
 1 Shambling Vent
 1 Tidehollow Sculler
@@ -83,14 +84,22 @@
 4 Concealed Courtyard
 4 Tidehollow Sculler
 4 Thraben Inspector
-4 Blade Splicer
 11 Plains
+1 Selfless Spirit
+2 Selfless Spirit
+1 Giver of Runes
+2 Giver of Runes
+2 Field of Ruin
+3 Giver of Runes
+3 Field of Ruin
+4 Giver of Runes
 1 Sunbaked Canyon
+4 Restoration Angel
 1 Kitchen Finks
 1 Flagstones of Trokair
+1 Godless Shrine
 1 Kaya, Orzhov Usurper
 1 Dark Confidant
-1 Godless Shrine
 2 Shambling Vent
 2 Godless Shrine
 3 Cavern of Souls
@@ -98,6 +107,13 @@
 1 Kytheon, Hero of Akros
 2 Dryad Militant
 3 Dryad Militant
+1 Silent Clearing
+1 Walking Ballista
+1 Ranger-Captain of Eos
+2 Silent Clearing
+2 Ranger-Captain of Eos
+3 Silent Clearing
+3 Ranger-Captain of Eos
 1 Battlefield Forge
 1 Winds of Abandon
 2 Battlefield Forge
@@ -107,26 +123,12 @@
 3 Sunbaked Canyon
 4 Battlefield Forge
 4 Sunbaked Canyon
-1 Silent Clearing
-1 Giver of Runes
-1 Walking Ballista
-1 Ranger-Captain of Eos
-2 Giver of Runes
-2 Silent Clearing
-2 Ranger-Captain of Eos
-2 Field of Ruin
-3 Giver of Runes
-3 Silent Clearing
-3 Ranger-Captain of Eos
-3 Field of Ruin
-4 Giver of Runes
-1 Selfless Spirit
-2 Selfless Spirit
 3 Shefet Dunes
 3 Tectonic Edge
 3 Selfless Spirit
 4 Tectonic Edge
 4 Selfless Spirit
+4 Field of Ruin
 1 Eternal Witness
 1 Razorverge Thicket
 1 Renegade Rallier
@@ -137,20 +139,19 @@
 1 Forest
 1 Stirring Wildwood
 1 Voice of Resurgence
+2 Renegade Rallier
+2 Razorverge Thicket
 2 Scavenging Ooze
 2 Windswept Heath
 2 Noble Hierarch
-2 Forest
 2 Temple Garden
-2 Renegade Rallier
-2 Razorverge Thicket
 2 Eternal Witness
 2 Voice of Resurgence
+2 Forest
 3 Scavenging Ooze
 3 Renegade Rallier
 3 Noble Hierarch
 3 Razorverge Thicket
 4 Razorverge Thicket
-4 Restoration Angel
 4 Scavenging Ooze
 4 Noble Hierarch
