@@ -9,7 +9,6 @@ from os.path import exists
 from time import time, sleep
 import datetime
 from logger import log
-from multiprocessing import Pool, Manager
 
 def return_url_line_type(cardName, memoizer):
     quantity, name = cardName.split(" ", 1)
@@ -133,9 +132,7 @@ def create_arena_export(title, site, format, memoizer):
         fp.writelines(results)
     return
 
-def run(args):
-    title, dir, format, site, memoizer = args
-    log(f"\tGenerating Page for {title}")
+def run(title, dir, format, site, memoizer):
     everything = f"# {title}\n\n#### [Export MTGO List](../collection/{title.replace(' ', '%20')}/{title.replace(' ', '%20')}.txt)"
     maindeckString = ""
     sideboardString = ""
@@ -198,24 +195,19 @@ if __name__ == "__main__":
         "Plains":("[{}]({})".format("Plains", "http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856"), "Land", "Plains", "RIX", 192),
         "Forest":("[{}]({})".format("Forest", "http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860"), "Land", "Forest", "RIX", 196)}
     
-    m = Manager()
-    shared_dictionary = m.dict(memoizer)
-    p = Pool()
     for site in ["mtggoldfish", "mtgtop8"]:
         for format in ["Modern", "Standard", "Legacy"]:
             d = f'./{site}/{format}/collection'
             archetypes = [(o, os.path.join(d, o)) for o in os.listdir(d)
                           if os.path.isdir(os.path.join(d, o))]
-            arguments = [(title, dir, format, site, shared_dictionary) for title, dir in archetypes]
-            p.map(run, arguments)
-#            for title, dir in archetypes:
-#                log(f"\tGenerating Page for {title}")
+            for title, dir in archetypes:
+                log(f"\tGenerating Page for {title}")
 #                try:
-#                run(title, dir, format, site)
+                run(title, dir, format, site, memoizer)
  #               except Exception as e:
  #                   print(e)
  #                   continue
 
-            with open("./data/card_backup.pkl", "wb") as fp:
-                pickle.dump(dict(m), fp)
+                with open("./data/card_backup.pkl", "wb") as fp:
+                    pickle.dump(memoizer, fp)
     log(f"Time for generating decklists: {str(datetime.timedelta(seconds=time()-start))}")
