@@ -14,7 +14,6 @@
 1 Izzet Charm
 1 Mana Confluence
 1 Birds of Paradise
-1 Niv-Mizzet Reborn
 1 Supreme Verdict
 1 Lightning Helix
 1 Stomping Ground
@@ -24,6 +23,7 @@
 1 Unmoored Ego
 1 Overgrown Tomb
 1 Bring to Light
+1 Niv-Mizzet Reborn
 1 Thought Erasure
 1 Pillar of the Paruns
 1 Sacred Foundry
@@ -31,8 +31,8 @@
 1 Assassin's Trophy
 2 Blooming Marsh
 2 Birds of Paradise
-2 Kolaghan's Command
 2 Mana Confluence
+2 Kolaghan's Command
 2 Lightning Helix
 2 Izzet Charm
 2 Bring to Light
@@ -76,19 +76,19 @@
 1 Steam Vents
 2 Teferi, Time Raveler
 1 Misty Rainforest
-1 Growth Spiral
 1 Lumbering Falls
 1 Wilderness Reclamation
-2 Growth Spiral
+1 Growth Spiral
 2 Misty Rainforest
 2 Wilderness Reclamation
 2 Breeding Pool
-3 Growth Spiral
+2 Growth Spiral
 3 Misty Rainforest
 3 Wilderness Reclamation
-4 Growth Spiral
+3 Growth Spiral
 4 Wilderness Reclamation
 4 Misty Rainforest
+4 Growth Spiral
 1 Scalding Tarn
 2 Path to Exile
 3 Path to Exile
@@ -160,8 +160,8 @@
 2 Flooded Strand
 2 Glittering Wish
 2 Hieroglyphic Illumination
-3 Hieroglyphic Illumination
 3 Teferi, Time Raveler
+3 Hieroglyphic Illumination
 3 Flooded Strand
 3 Glittering Wish
 4 Hieroglyphic Illumination
@@ -205,8 +205,8 @@
 4 Polluted Delta
 1 Sphinx's Tutelage
 1 Day of Judgment
-1 Evolving Wilds
 1 Tranquil Cove
+1 Evolving Wilds
 1 Prairie Stream
 1 Gideon Jura
 1 Ashiok, Dream Render
@@ -267,20 +267,20 @@
 1 Ice-Fang Coatl
 1 Relic of Progenitus
 2 Snow-Covered Island
+2 Ice-Fang Coatl
 2 Lightning Bolt
 2 Prismatic Vista
 2 Expansion / Explosion
-2 Ice-Fang Coatl
 2 Steam Vents
 2 Scalding Tarn
 2 Relic of Progenitus
 3 Snow-Covered Island
-3 Prismatic Vista
+3 Ice-Fang Coatl
 3 Lightning Bolt
 3 Relic of Progenitus
+3 Prismatic Vista
 3 Expansion / Explosion
 3 Scalding Tarn
-3 Ice-Fang Coatl
 4 Snow-Covered Island
 4 Ice-Fang Coatl
 4 Lightning Bolt
@@ -331,16 +331,16 @@
 3 Forest
 4 Oath of Nissa
 4 Wooded Foothills
-4 Forest
 4 Walking Ballista
+4 Forest
 4 Mwonvuli Acid-Moss
 5 Forest
 6 Forest
 7 Forest
 8 Forest
 9 Forest
-1 Devoted Druid
 1 Vizier of Remedies
+1 Devoted Druid
 1 Scrying Sheets
 1 Duskwatch Recruiter
 1 Tireless Tracker
@@ -354,12 +354,12 @@
 2 Snow-Covered Forest
 2 Simian Spirit Guide
 3 Devoted Druid
-3 Finale of Devastation
 3 Snow-Covered Forest
+3 Finale of Devastation
 4 Snow-Covered Forest
 4 Devoted Druid
-4 Finale of Devastation
 4 Karn, the Great Creator
+4 Finale of Devastation
 5 Snow-Covered Forest
 6 Snow-Covered Forest
 7 Snow-Covered Forest

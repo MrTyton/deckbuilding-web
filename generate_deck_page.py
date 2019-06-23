@@ -9,25 +9,12 @@ from os.path import exists
 from time import time, sleep
 import datetime
 from logger import log
+from multiprocessing import Pool, Manager
 
-if exists("./data/card_backup.pkl"):
-    with open("./data/card_backup.pkl", "rb") as fp:
-        memoizer = pickle.load(fp)
-else:
-    log("Creating memoizer")
-    memoizer = {"Mountain":("[{}]({})".format("Mountain", "http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859"), "Land", "Mountain", "RIX", 195),
-    "Swamp":("[{}]({})".format("Swamp", "http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858"), "Land", "Swamp", "RIX", 194),
-    "Island":("[{}]({})".format("Island", "http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857"), "Land", "Island", "RIX", 193),
-    "Plains":("[{}]({})".format("Plains", "http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856"), "Land", "Plains", "RIX", 192),
-    "Forest":("[{}]({})".format("Forest", "http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860"), "Land", "Forest", "RIX", 196)}
-
-
-
-def return_url_line_type(cardName):
+def return_url_line_type(cardName, memoizer):
     quantity, name = cardName.split(" ", 1)
     quantity = quantity.strip()
     name = name.strip()
-    global memoizer
     if name in memoizer:
         url_string, card_type, name, _, _ = memoizer[name]
         url_string = f"{quantity} {url_string}"
@@ -74,10 +61,10 @@ def return_url_line_type(cardName):
     return "{} [{}]({})".format(quantity, name, url), card_type, name
 
 
-def get_links_group_by_types(input):
+def get_links_group_by_types(input, memoizer):
     results = []
     for cur in input:
-        results.append(return_url_line_type(cur))
+        results.append(return_url_line_type(cur, memoizer))
     results = sorted(results, key=lambda x: (x[1], x[2]))
     results = {k: list([y[0] for y in v])
                for k, v in groupby(results, key=lambda x: x[1])}
@@ -127,8 +114,7 @@ def merge_markdown_tables(input1, input2, title):
     writer.write_table()
     return res
     
-def create_arena_export(title, site, format):
-    global memoizer
+def create_arena_export(title, site, format, memoizer):
     with open(f"./{site}/{format}/collection/{title}/{title}.txt", "r") as fp:
         data = fp.readlines()
     results = []
@@ -147,7 +133,9 @@ def create_arena_export(title, site, format):
         fp.writelines(results)
     return
 
-def run(title, dir, format, site):
+def run(args):
+    title, dir, format, site, memoizer = args
+    log(f"\tGenerating Page for {title}")
     everything = f"# {title}\n\n#### [Export MTGO List](../collection/{title.replace(' ', '%20')}/{title.replace(' ', '%20')}.txt)"
     maindeckString = ""
     sideboardString = ""
@@ -163,12 +151,12 @@ def run(title, dir, format, site):
         else:
             sideboardString += "%0A".join(w)
             
-        a = get_links_group_by_types(inputs)
+        a = get_links_group_by_types(inputs, memoizer)
         q = generate_markdown_table_mainside(a, f"{cur}\n")
         other += "\n" + q.getvalue()
     
     if format == "Standard":
-        create_arena_export(title, site, format)
+        create_arena_export(title, site, format, memoizer)
         everything += f"\n#### [Export Arena List](../collection/{title.replace(' ', '%20')}/{title.replace(' ', '%20')}_arena.txt)"
 
     everything += f"\n#### [Print on decklist.org](http://decklist.org/?deckmain={maindeckString}&deckside={sideboardString})"
@@ -181,7 +169,7 @@ def run(title, dir, format, site):
         with open(os.path.join(dir, f"{cur}_options.txt")) as fp:
             inputs = fp.readlines()
         inputs = [x.strip() for x in inputs]
-        temp.append([return_url_line_type(x)[0].split(" ", 1) for x in inputs])
+        temp.append([return_url_line_type(x, memoizer)[0].split(" ", 1) for x in inputs])
     
     q = generate_markdown_table_options(temp, "Other Options\n")
     if q:
@@ -191,25 +179,43 @@ def run(title, dir, format, site):
 
     if not exists(f"./{site}/{format}/decks"):
         makedirs(f"./{site}/{format}/decks")
+    return f"./{site}/{format}/decks/{title.replace(' ', '_')}.md", everything
     with open(f"./{site}/{format}/decks/{title.replace(' ', '_')}.md", "w") as fp:
         fp.write(everything)
+    log(f"Finished with {title}")
 
 
 if __name__ == "__main__":
     start = time()
+    if exists("./data/card_backup.pkl"):
+        with open("./data/card_backup.pkl", "rb") as fp:
+            memoizer = pickle.load(fp)
+    else:
+        log("Creating memoizer")
+        memoizer = {"Mountain":("[{}]({})".format("Mountain", "http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859"), "Land", "Mountain", "RIX", 195),
+        "Swamp":("[{}]({})".format("Swamp", "http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858"), "Land", "Swamp", "RIX", 194),
+        "Island":("[{}]({})".format("Island", "http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857"), "Land", "Island", "RIX", 193),
+        "Plains":("[{}]({})".format("Plains", "http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856"), "Land", "Plains", "RIX", 192),
+        "Forest":("[{}]({})".format("Forest", "http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860"), "Land", "Forest", "RIX", 196)}
+    
+    m = Manager()
+    shared_dictionary = m.dict(memoizer)
+    p = Pool()
     for site in ["mtggoldfish", "mtgtop8"]:
         for format in ["Modern", "Standard", "Legacy"]:
             d = f'./{site}/{format}/collection'
             archetypes = [(o, os.path.join(d, o)) for o in os.listdir(d)
                           if os.path.isdir(os.path.join(d, o))]
-            for title, dir in archetypes:
-                log(f"\tGenerating Page for {title}")
+            arguments = [(title, dir, format, site, shared_dictionary) for title, dir in archetypes]
+            p.map(run, arguments)
+#            for title, dir in archetypes:
+#                log(f"\tGenerating Page for {title}")
 #                try:
-                run(title, dir, format, site)
+#                run(title, dir, format, site)
  #               except Exception as e:
  #                   print(e)
  #                   continue
 
             with open("./data/card_backup.pkl", "wb") as fp:
-                pickle.dump(memoizer, fp)
+                pickle.dump(dict(m), fp)
     log(f"Time for generating decklists: {str(datetime.timedelta(seconds=time()-start))}")

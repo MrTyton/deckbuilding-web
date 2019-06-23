@@ -1,10 +1,16 @@
+2 Boros Guildgate
+6 Mountain
+1 Gird for Battle
+1 Samut's Sprint
+2 Samut's Sprint
+1 Aurelia, Exemplar of Justice
+2 Aurelia, Exemplar of Justice
 9 Plains
 10 Plains
 1 Law-Rune Enforcer
 2 Law-Rune Enforcer
 3 Law-Rune Enforcer
 4 Law-Rune Enforcer
-1 Conclave Tribunal
 1 History of Benalia
 1 Benalish Marshal
 1 Skymarcher Aspirant
@@ -12,6 +18,7 @@
 1 Snubhorn Sentry
 1 Venerated Loxodon
 1 Dauntless Bodyguard
+1 Conclave Tribunal
 2 History of Benalia
 2 Conclave Tribunal
 2 Skymarcher Aspirant
@@ -34,33 +41,26 @@
 4 Skymarcher Aspirant
 11 Plains
 12 Plains
-1 Boros Guildgate
-2 Boros Guildgate
-1 Gird for Battle
-1 Aurelia, Exemplar of Justice
-2 Aurelia, Exemplar of Justice
-3 Conclave Tribunal
-1 Samut's Sprint
-2 Samut's Sprint
-1 Krenko, Tin Street Kingpin
-2 Krenko, Tin Street Kingpin
 2 Gird for Battle
 3 Gird for Battle
+3 Conclave Tribunal
+1 Krenko, Tin Street Kingpin
+2 Krenko, Tin Street Kingpin
+3 Gideon Blackblade
+3 Boros Guildgate
+2 Dire Fleet Daredevil
 13 Plains
+1 Thrash / Threat
+1 Integrity / Intervention
+2 Integrity / Intervention
 3 Snubhorn Sentry
 4 Snubhorn Sentry
 1 Tomik, Distinguished Advokist
-1 Integrity / Intervention
-2 Integrity / Intervention
-4 Conclave Tribunal
-1 Thrash / Threat
-3 Gideon Blackblade
+4 Sheltering Light
 1 Lyra Dawnbringer
 2 Lyra Dawnbringer
 1 Tajic, Legion's Edge
 2 Tajic, Legion's Edge
-3 Boros Guildgate
-2 Dire Fleet Daredevil
 1 Sunpetal Grove
 1 Temple Garden
 1 Forest
@@ -80,20 +80,23 @@
 3 Aurelia, Exemplar of Justice
 3 Tajic, Legion's Edge
 2 Tomik, Distinguished Advokist
-1 Experimental Frenzy
-2 Experimental Frenzy
+2 Thrash / Threat
 1 Settle the Wreckage
 1 Moment of Triumph
 1 Unbreakable Formation
-1 Electrostatic Field
 1 Arrester's Zeal
+1 Electrostatic Field
 2 Moment of Triumph
 2 Electrostatic Field
 2 Arrester's Zeal
+4 Conclave Tribunal
 3 Krenko, Tin Street Kingpin
 4 Gird for Battle
-2 Thrash / Threat
-4 Sheltering Light
+1 Rile
+2 Rile
+3 Dire Fleet Daredevil
+3 Samut's Sprint
+4 Samut's Sprint
 1 Collision / Colossus
 1 Domri's Ambush
 1 Gruul Spellbreaker
@@ -148,10 +151,10 @@
 4 Paradise Druid
 1 Isolated Chapel
 1 Blood Crypt
+1 Dragonskull Summit
 1 Sorin, Vengeful Bloodlord
 1 Godless Shrine
 1 Angrath's Rampage
-1 Dragonskull Summit
 2 Isolated Chapel
 2 Angrath's Rampage
 2 Blood Crypt
