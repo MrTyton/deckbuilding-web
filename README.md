@@ -70,4 +70,4 @@
 |[Depths](./mtggoldfish/Legacy/decks/Depths.md)                                  |[Infect](./mtggoldfish/Legacy/decks/Infect.md)                            |[Omni-Show](./mtggoldfish/Legacy/decks/Omni-Show.md)                    |[UBR](./mtggoldfish/Legacy/decks/UBR.md)                                    |                                                            |
 
 
-#### Last Updated at 05:47AM on June 23, 2019
+#### Last Updated at 02:26PM on June 23, 2019
