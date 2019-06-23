@@ -50,4 +50,4 @@
 |[Cloudpost Ramp](./mtgtop8/Legacy/decks/Cloudpost_Ramp.md)        |[Faeries](./mtgtop8/Legacy/decks/Faeries.md)              |[MUD](./mtgtop8/Legacy/decks/MUD.md)                      |[Pox](./mtgtop8/Legacy/decks/Pox.md)                        |[Zombi Bombardment](./mtgtop8/Legacy/decks/Zombi_Bombardment.md)    |
 
 
-#### Last Updated at 04:34AM on June 23, 2019
+#### Last Updated at 05:47AM on June 23, 2019
