@@ -15,7 +15,6 @@
 |                                                                                       |3 [Nissa, Vastwood Seer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=398438)|                                                                                          |                                                                                       |                                                                                                    |                                                                                               |
 |                                                                                       |1 [Walking Ballista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423848)    |                                                                                          |                                                                                       |                                                                                                    |                                                                                               |
 
-
 # Sideboard
 
 |                                        Artifact (10)                                         |                                        Creature (5)                                         |
@@ -27,4 +26,3 @@
 |1 [Mycosynth Lattice](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446209)|                                                                                             |
 |1 [Pithing Needle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129526)   |                                                                                             |
 |2 [Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)   |                                                                                             |
-

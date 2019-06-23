@@ -44,7 +44,7 @@ def return_url_line_type(cardName, memoizer):
     else:
         card_type = "Unknown"
     try:
-        last_set = sorted([x for x in card.printings if Set.find(x).type in ['expansion', 'core', 'draft_innovation']], key = lambda x : Set.find(x).release_date, reverse=True)[0]
+        last_set = sorted([x for x in card.printings if Set.find(x).type in ['expansion', 'core', 'draft_innovation', 'masters', 'commander', 'archenemy', 'starter', 'planechase']], key = lambda x : Set.find(x).release_date, reverse=True)[0]
     except:
         print(name)
         print([Set.find(x).type for x in card.printings])
@@ -176,10 +176,8 @@ def run(title, dir, format, site, memoizer):
 
     if not exists(f"./{site}/{format}/decks"):
         makedirs(f"./{site}/{format}/decks")
-    return f"./{site}/{format}/decks/{title.replace(' ', '_')}.md", everything
     with open(f"./{site}/{format}/decks/{title.replace(' ', '_')}.md", "w") as fp:
         fp.write(everything)
-    log(f"Finished with {title}")
 
 
 if __name__ == "__main__":
