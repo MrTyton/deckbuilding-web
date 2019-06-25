@@ -87,11 +87,11 @@
 3 Lightning Bolt
 4 Lightning Bolt
 1 Unearth
-1 Seasoned Pyromancer
 1 Dreadhorde Arcanist
 1 Fatal Push
 1 Wooded Foothills
 1 Polluted Delta
+1 Seasoned Pyromancer
 1 Tasigur, the Golden Fang
 1 Thoughtseize
 1 Arid Mesa
@@ -100,25 +100,25 @@
 1 Verdant Catacombs
 1 Flamewake Phoenix
 2 Unearth
-2 Seasoned Pyromancer
 2 Fatal Push
-2 Dreadhorde Arcanist
+2 Seasoned Pyromancer
 2 Lightning Skelemental
 2 Gurmag Angler
 2 Thoughtseize
+2 Dreadhorde Arcanist
 2 Flamewake Phoenix
+3 Unearth
 3 Seasoned Pyromancer
 3 Flamewake Phoenix
 3 Lightning Skelemental
-3 Unearth
 3 Fatal Push
 3 Thoughtseize
 3 Dreadhorde Arcanist
 4 Fatal Push
-4 Thoughtseize
-4 Lightning Skelemental
-4 Unearth
 4 Seasoned Pyromancer
+4 Lightning Skelemental
+4 Thoughtseize
+4 Unearth
 4 Dreadhorde Arcanist
 1 Viscera Seer
 1 Lingering Souls
@@ -223,12 +223,12 @@
 3 Lodestone Golem
 4 Lodestone Golem
 1 Blinkmoth Nexus
+1 Walking Ballista
 1 Throne of the God-Pharaoh
+1 Cavern of Souls
 1 Grand Architect
 1 Smuggler's Copter
-1 Walking Ballista
 1 Chief Engineer
-1 Cavern of Souls
 1 Master of Etherium
 1 Signal Pest
 1 Oboro, Palace in the Clouds
@@ -236,11 +236,11 @@
 2 Master of Etherium
 2 Blinkmoth Nexus
 2 Smuggler's Copter
+2 Walking Ballista
 2 Signal Pest
 2 Throne of the God-Pharaoh
 2 Etherium Sculptor
 2 Grand Architect
-2 Walking Ballista
 2 Chief Engineer
 3 Blinkmoth Nexus
 3 Master of Etherium
@@ -249,18 +249,19 @@
 3 Chief Engineer
 3 Walking Ballista
 3 Grand Architect
-4 Walking Ballista
 4 Master of Etherium
-4 Smuggler's Copter
 4 Blinkmoth Nexus
+4 Walking Ballista
+4 Smuggler's Copter
 4 Etherium Sculptor
 4 Chief Engineer
 4 Grand Architect
 1 Shambling Vent
-1 Cast Down
 1 Teysa Karlov
 1 Cruel Celebrant
+1 Cast Down
 1 Zulaport Cutthroat
+1 Day of Judgment
 1 Midnight Reaper
 1 Bloodthrone Vampire
 1 Doomed Traveler
@@ -269,7 +270,6 @@
 1 Bontu the Glorified
 1 Hunted Witness
 1 Walk the Plank
-1 Day of Judgment
 1 Bloodflow Connoisseur
 1 Imperious Oligarch
 1 Grim Haruspex
@@ -299,8 +299,8 @@
 1 Skysovereign, Consul Flagship
 1 Karn, Scion of Urza
 1 Wurmcoil Engine
-1 Lightning Greaves
 1 Darksteel Citadel
+1 Lightning Greaves
 1 Tectonic Edge
 1 Batterskull
 1 Astral Cornucopia
@@ -348,13 +348,14 @@
 1 Crash Through
 1 Warlord's Fury
 1 Apostle's Blessing
-1 Kiln Fiend
 1 Young Pyromancer
+1 Kiln Fiend
 1 Soul-Scar Mage
 1 Manamorphose
 1 Lava Spike
 1 Monastery Swiftspear
 1 Temur Battle Rage
+2 Crash Through
 2 Kiln Fiend
 2 Apostle's Blessing
 2 Young Pyromancer
@@ -362,7 +363,6 @@
 2 Temur Battle Rage
 2 Lava Spike
 2 Soul-Scar Mage
-2 Crash Through
 2 Manamorphose
 2 Warlord's Fury
 3 Temur Battle Rage

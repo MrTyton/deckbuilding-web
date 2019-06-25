@@ -18,8 +18,8 @@
 1 Lightning Helix
 1 Stomping Ground
 1 Sin Collector
-1 Kolaghan's Command
 1 Detention Sphere
+1 Kolaghan's Command
 1 Unmoored Ego
 1 Overgrown Tomb
 1 Bring to Light
@@ -130,10 +130,10 @@
 2 Lingering Souls
 2 Dark Confidant
 2 Concealed Courtyard
-2 Liliana, the Last Hope
 2 Kaya, Orzhov Usurper
 2 Collective Brutality
 2 Thoughtseize
+2 Liliana, the Last Hope
 2 Gideon, Ally of Zendikar
 3 Collective Brutality
 3 Marsh Flats
@@ -203,12 +203,13 @@
 3 Polluted Delta
 3 Creeping Tar Pit
 4 Polluted Delta
+1 Prairie Stream
 1 Sphinx's Tutelage
-1 Day of Judgment
 1 Tranquil Cove
 1 Evolving Wilds
-1 Prairie Stream
 1 Gideon Jura
+1 Day of Judgment
+1 Dovin's Veto
 1 Ashiok, Dream Render
 1 Ashes of the Abhorrent
 1 Teyo, the Shieldmage
@@ -216,7 +217,6 @@
 1 Tranquil Expanse
 1 Ethereal Haze
 1 Temple Bell
-1 Dovin's Veto
 1 Holy Day
 1 Dawn Charm
 1 Angelsong
@@ -224,6 +224,7 @@
 1 Irrigated Farmland
 2 Tranquil Cove
 2 Evolving Wilds
+2 Dovin's Veto
 2 Ashiok, Dream Render
 2 Day of Judgment
 2 Dawn Charm
@@ -235,7 +236,6 @@
 2 Irrigated Farmland
 2 Gideon Jura
 2 Ethereal Haze
-2 Dovin's Veto
 2 Holy Day
 2 Tranquil Expanse
 2 Temple Bell
@@ -287,8 +287,8 @@
 4 Expansion / Explosion
 5 Snow-Covered Island
 1 Karn, the Great Creator
-1 Trinisphere
 1 Utopia Sprawl
+1 Trinisphere
 1 Arbor Elf
 1 Walking Ballista
 1 Acidic Slime

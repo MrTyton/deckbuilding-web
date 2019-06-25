@@ -1,10 +1,16 @@
+1 Vendilion Clique
+2 Vendilion Clique
+1 Polluted Delta
+1 Spell Snare
+2 Spell Snare
+3 Mana Leak
+4 Young Pyromancer
+1 Spell Pierce
 1 Thought Scour
-2 Young Pyromancer
 2 Spell Pierce
 2 Thought Scour
 3 Island
 3 Thought Scour
-3 Young Pyromancer
 4 Island
 4 Thought Scour
 1 Soul-Scar Mage
@@ -21,30 +27,11 @@
 2 Vapor Snag
 2 Sleight of Hand
 3 Vapor Snag
-1 Polluted Delta
-1 Spell Snare
 1 Wooded Foothills
 1 Snow-Covered Mountain
 2 Snow-Covered Mountain
-2 Spell Snare
 2 Burst Lightning
 4 Remand
-1 Vendilion Clique
-2 Vendilion Clique
-3 Faerie Conclave
-4 Steam Vents
-1 Pteramander
-1 Abrade
-1 Fiery Islet
-1 Force of Negation
-2 Pteramander
-2 Force of Negation
-2 Fiery Islet
-3 Pteramander
-3 Fiery Islet
-3 Force of Negation
-4 Force of Negation
-4 Pteramander
 1 Wandering Fumarole
 1 Crack the Earth
 2 Crack the Earth
@@ -52,7 +39,20 @@
 3 Crack the Earth
 4 Monastery Swiftspear
 4 Crack the Earth
-4 Young Pyromancer
+3 Faerie Conclave
+4 Steam Vents
+1 Pteramander
+1 Abrade
+1 Fiery Islet
+1 Force of Negation
+2 Pteramander
+2 Fiery Islet
+2 Force of Negation
+3 Fiery Islet
+3 Force of Negation
+3 Pteramander
+4 Force of Negation
+4 Pteramander
 1 Atarka's Command
 1 Stormchaser Mage
 1 Breeding Pool
@@ -71,3 +71,17 @@
 4 Sleight of Hand
 4 Soul-Scar Mage
 4 Mutagenic Growth
+1 Snow-Covered Island
+1 Logic Knot
+1 Magmatic Sinkhole
+1 Archmage's Charm
+2 Archmage's Charm
+2 Logic Knot
+2 Polluted Delta
+2 Cryptic Command
+2 Snow-Covered Island
+3 Archmage's Charm
+3 Polluted Delta
+3 Snow-Covered Island
+4 Snow-Covered Island
+5 Snow-Covered Island

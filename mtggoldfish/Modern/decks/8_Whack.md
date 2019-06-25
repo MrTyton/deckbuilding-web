@@ -39,7 +39,7 @@
 |                   15|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)            |                    1|[Vexing Shusher](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=146016)      |
 |                    4|[Fanatical Firebrand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439758) |                    2|[Corrosive Gale](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=230075)      |
 |                     |                                                                                               |                    2|[Runeflare Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197536)      |
-|                     |                                                                                               |                    3|[Smash to Smithereens](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397795)|
-|                     |                                                                                               |                    4|[Smash to Smithereens](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397795)|
 |                     |                                                                                               |                    2|[Dragon's Claw](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129527)       |
+|                     |                                                                                               |                    4|[Smash to Smithereens](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397795)|
+|                     |                                                                                               |                    3|[Smash to Smithereens](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397795)|
 

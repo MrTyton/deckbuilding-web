@@ -1,5 +1,5 @@
+1 Light Up the Stage
 2 Light Up the Stage
-4 Wooded Foothills
 1 Stomping Ground
 4 Skewer the Critics
 4 Inspiring Vantage
@@ -10,8 +10,15 @@
 3 Skullcrack
 3 Sacred Foundry
 1 Shard Volley
+1 Sunbaked Canyon
+2 Sunbaked Canyon
+3 Sunbaked Canyon
+4 Sunbaked Canyon
+4 Light Up the Stage
 5 Mountain
 6 Mountain
+1 Scalding Tarn
+4 Skullcrack
 7 Mountain
 8 Mountain
 9 Mountain
@@ -19,8 +26,10 @@
 11 Mountain
 12 Mountain
 13 Mountain
+14 Mountain
 1 Ramunap Ruins
 2 Ramunap Ruins
+15 Mountain
 1 Burning-Tree Emissary
 1 Reckless Bushwhacker
 1 Foundry Street Denizen
@@ -47,26 +56,15 @@
 4 Foundry Street Denizen
 4 Goblin Bushwhacker
 4 Legion Loyalist
-14 Mountain
-4 Light Up the Stage
-3 Fanatical Firebrand
-4 Fanatical Firebrand
-4 Goblin Grenade
-4 Ramunap Ruins
-15 Mountain
-1 Scalding Tarn
-4 Skullcrack
-1 Sunbaked Canyon
-2 Sunbaked Canyon
-3 Sunbaked Canyon
-4 Sunbaked Canyon
-1 Mogg Fanatic
-2 Mogg Fanatic
 2 Shard Volley
 1 Blood Crypt
 2 Blood Crypt
+3 Fanatical Firebrand
+4 Fanatical Firebrand
 1 Devastating Summons
 2 Devastating Summons
+4 Ramunap Ruins
+4 Goblin Grenade
 1 Bump in the Night
 2 Bump in the Night
 3 Bump in the Night
@@ -82,11 +80,13 @@
 1 The Flame of Keld
 1 Fiery Islet
 2 Fiery Islet
-1 Abrade
-2 Abrade
 1 Dreadhorde Arcanist
 1 Deflecting Palm
 2 Deflecting Palm
+1 Mogg Fanatic
+1 Abrade
+2 Abrade
+2 Mogg Fanatic
 1 Blackcleave Cliffs
 2 Blackcleave Cliffs
 3 Blackcleave Cliffs
@@ -110,8 +110,6 @@
 3 Monastery Mentor
 4 Monastery Mentor
 4 Wild Nacatl
-3 Mogg Fanatic
-4 Mogg Fanatic
 1 Skirk Prospector
 1 Goblin Cratermaker
 1 Tarfire
@@ -152,13 +150,13 @@
 3 Boggart Harbinger
 3 Auntie's Hovel
 3 Goblin Matron
+4 Blood Crypt
 4 Warren Instigator
 4 Aether Vial
 4 Auntie's Hovel
 4 Cavern of Souls
 4 Goblin Matron
 4 Boggart Harbinger
-4 Blood Crypt
 1 Snow-Covered Mountain
 1 Molten Vortex
 1 Searing Blood
