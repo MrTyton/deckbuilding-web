@@ -10,6 +10,12 @@
 8 Plains
 9 Plains
 10 Plains
+4 Blade Splicer
+3 Restoration Angel
+1 Giver of Runes
+2 Giver of Runes
+3 Giver of Runes
+4 Giver of Runes
 1 Chalice of the Void
 1 Gemstone Caverns
 1 Simian Spirit Guide
@@ -20,23 +26,20 @@
 2 Dismember
 3 Chalice of the Void
 3 Dismember
-3 Gemstone Caverns
 3 Reality Smasher
+3 Gemstone Caverns
 3 Simian Spirit Guide
 4 Chalice of the Void
 4 Reality Smasher
 4 Simian Spirit Guide
-3 Restoration Angel
 1 Wasteland Strangler
 2 Wasteland Strangler
 3 Wasteland Strangler
-2 Tectonic Edge
-4 Blade Splicer
 1 Swamp
-1 Giver of Runes
-2 Giver of Runes
-3 Giver of Runes
-4 Giver of Runes
+2 Tectonic Edge
+1 Selfless Spirit
+2 Selfless Spirit
+2 Field of Ruin
 1 Warping Wail
 3 Remorseful Cleric
 1 Tidehollow Sculler
@@ -45,9 +48,6 @@
 2 Concealed Courtyard
 3 Concealed Courtyard
 4 Concealed Courtyard
-1 Selfless Spirit
-2 Selfless Spirit
-2 Field of Ruin
 3 Field of Ruin
 1 Thraben Inspector
 2 Thraben Inspector
@@ -99,6 +99,7 @@
 4 Thraben Inspector
 11 Plains
 1 Sunbaked Canyon
+3 Selfless Spirit
 1 Kitchen Finks
 1 Flagstones of Trokair
 1 Kaya, Orzhov Usurper
@@ -124,9 +125,30 @@
 3 Sunbaked Canyon
 4 Battlefield Forge
 4 Sunbaked Canyon
+1 Adarkar Wastes
+1 Spell Queller
+1 Smuggler's Copter
+1 Reflector Mage
+1 Island
+1 Moorland Haunt
+1 Hallowed Fountain
+1 Seachrome Coast
+1 Soulherder
+2 Seachrome Coast
+2 Spell Queller
+2 Adarkar Wastes
+2 Soulherder
+2 Hallowed Fountain
+2 Island
+2 Smuggler's Copter
+3 Hallowed Fountain
+3 Seachrome Coast
+3 Spell Queller
+4 Hallowed Fountain
+4 Seachrome Coast
+4 Spell Queller
 3 Shefet Dunes
 3 Tectonic Edge
-3 Selfless Spirit
 4 Tectonic Edge
 4 Selfless Spirit
 1 Eternal Witness

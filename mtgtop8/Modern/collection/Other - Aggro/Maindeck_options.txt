@@ -1,6 +1,6 @@
 11 Plains
-1 Island
 1 Judge's Familiar
+1 Island
 1 Mausoleum Wanderer
 2 Island
 2 Mausoleum Wanderer
@@ -22,19 +22,19 @@
 15 Island
 16 Island
 1 Narset's Reversal
-1 Mana Leak
 1 Jace, Wielder of Mysteries
-1 Spell Snare
+1 Mana Leak
 1 Faerie Miscreant
 1 Spellstutter Sprite
+1 Spell Snare
 1 Rune Snag
 1 Quickling
 1 Unsummon
 1 Favorable Winds
-2 Spell Snare
-2 Jace, Wielder of Mysteries
 2 Mana Leak
+2 Jace, Wielder of Mysteries
 2 Narset's Reversal
+2 Spell Snare
 2 Quickling
 2 Unsummon
 2 Faerie Miscreant
@@ -87,7 +87,6 @@
 3 Lightning Bolt
 4 Lightning Bolt
 1 Seasoned Pyromancer
-1 Polluted Delta
 1 Unearth
 1 Dreadhorde Arcanist
 1 Fatal Push
@@ -96,13 +95,14 @@
 1 Thoughtseize
 1 Arid Mesa
 1 Lightning Skelemental
+1 Polluted Delta
 1 Gurmag Angler
 1 Verdant Catacombs
 1 Flamewake Phoenix
 2 Seasoned Pyromancer
 2 Unearth
-2 Fatal Push
 2 Dreadhorde Arcanist
+2 Fatal Push
 2 Lightning Skelemental
 2 Gurmag Angler
 2 Thoughtseize
@@ -168,8 +168,8 @@
 3 Caves of Koilos
 4 Caves of Koilos
 4 Concealed Courtyard
-1 Duress
 1 Kazandu Blademaster
+1 Duress
 1 Kalastria Healer
 1 Kabira Evangel
 1 Sandsteppe Citadel
@@ -294,17 +294,16 @@
 4 Swamp
 5 Swamp
 1 Buried Ruin
-1 Field of Ruin
 1 Zhalfirin Void
 1 Wurmcoil Engine
+1 Field of Ruin
 1 Platinum Emperion
-1 Skysovereign, Consul Flagship
 1 Karn, Scion of Urza
 1 Darksteel Citadel
-1 Lightning Greaves
+1 Skysovereign, Consul Flagship
 1 Batterskull
+1 Lightning Greaves
 1 Tectonic Edge
-1 Chalice of the Void
 1 Astral Cornucopia
 1 Coretapper
 1 Surge Node
@@ -315,14 +314,15 @@
 1 Inventors' Fair
 1 Mox Opal
 1 Ancient Stirrings
-2 Field of Ruin
+1 Chalice of the Void
 2 Zhalfirin Void
+2 Field of Ruin
 2 Karn, Scion of Urza
-2 Chalice of the Void
 2 Everflowing Chalice
 2 Lightning Greaves
 2 Astral Cornucopia
 2 Ancient Stirrings
+2 Chalice of the Void
 2 Coretapper
 2 Darksteel Citadel
 2 Surge Node
