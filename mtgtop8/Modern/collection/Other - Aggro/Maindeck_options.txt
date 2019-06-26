@@ -1,6 +1,6 @@
 11 Plains
-1 Judge's Familiar
 1 Island
+1 Judge's Familiar
 1 Mausoleum Wanderer
 2 Island
 2 Mausoleum Wanderer
@@ -24,17 +24,17 @@
 1 Narset's Reversal
 1 Mana Leak
 1 Jace, Wielder of Mysteries
+1 Spell Snare
 1 Faerie Miscreant
 1 Spellstutter Sprite
-1 Spell Snare
 1 Rune Snag
 1 Quickling
 1 Unsummon
 1 Favorable Winds
-2 Mana Leak
-2 Jace, Wielder of Mysteries
-2 Narset's Reversal
 2 Spell Snare
+2 Jace, Wielder of Mysteries
+2 Mana Leak
+2 Narset's Reversal
 2 Quickling
 2 Unsummon
 2 Faerie Miscreant
@@ -86,12 +86,12 @@
 2 Lightning Bolt
 3 Lightning Bolt
 4 Lightning Bolt
+1 Seasoned Pyromancer
+1 Polluted Delta
 1 Unearth
 1 Dreadhorde Arcanist
 1 Fatal Push
 1 Wooded Foothills
-1 Polluted Delta
-1 Seasoned Pyromancer
 1 Tasigur, the Golden Fang
 1 Thoughtseize
 1 Arid Mesa
@@ -99,23 +99,23 @@
 1 Gurmag Angler
 1 Verdant Catacombs
 1 Flamewake Phoenix
+2 Seasoned Pyromancer
 2 Unearth
 2 Fatal Push
-2 Seasoned Pyromancer
+2 Dreadhorde Arcanist
 2 Lightning Skelemental
 2 Gurmag Angler
 2 Thoughtseize
-2 Dreadhorde Arcanist
 2 Flamewake Phoenix
-3 Unearth
 3 Seasoned Pyromancer
+3 Unearth
 3 Flamewake Phoenix
 3 Lightning Skelemental
 3 Fatal Push
 3 Thoughtseize
 3 Dreadhorde Arcanist
-4 Fatal Push
 4 Seasoned Pyromancer
+4 Fatal Push
 4 Lightning Skelemental
 4 Thoughtseize
 4 Unearth
@@ -128,8 +128,8 @@
 3 Lingering Souls
 4 Lingering Souls
 4 Viscera Seer
-1 Greater Gargadon
 1 Bridge from Below
+1 Greater Gargadon
 1 Stitcher's Supplier
 1 Insolent Neonate
 1 Marsh Flats
@@ -223,11 +223,11 @@
 3 Lodestone Golem
 4 Lodestone Golem
 1 Blinkmoth Nexus
-1 Walking Ballista
 1 Throne of the God-Pharaoh
 1 Cavern of Souls
 1 Grand Architect
 1 Smuggler's Copter
+1 Walking Ballista
 1 Chief Engineer
 1 Master of Etherium
 1 Signal Pest
@@ -236,11 +236,11 @@
 2 Master of Etherium
 2 Blinkmoth Nexus
 2 Smuggler's Copter
-2 Walking Ballista
 2 Signal Pest
 2 Throne of the God-Pharaoh
 2 Etherium Sculptor
 2 Grand Architect
+2 Walking Ballista
 2 Chief Engineer
 3 Blinkmoth Nexus
 3 Master of Etherium
@@ -294,15 +294,17 @@
 4 Swamp
 5 Swamp
 1 Buried Ruin
+1 Field of Ruin
 1 Zhalfirin Void
+1 Wurmcoil Engine
 1 Platinum Emperion
 1 Skysovereign, Consul Flagship
 1 Karn, Scion of Urza
-1 Wurmcoil Engine
 1 Darksteel Citadel
 1 Lightning Greaves
-1 Tectonic Edge
 1 Batterskull
+1 Tectonic Edge
+1 Chalice of the Void
 1 Astral Cornucopia
 1 Coretapper
 1 Surge Node
@@ -310,19 +312,17 @@
 1 Memorial to Unity
 1 Kuldotha Forgemaster
 1 Everflowing Chalice
-1 Field of Ruin
 1 Inventors' Fair
 1 Mox Opal
 1 Ancient Stirrings
-1 Chalice of the Void
+2 Field of Ruin
 2 Zhalfirin Void
 2 Karn, Scion of Urza
+2 Chalice of the Void
 2 Everflowing Chalice
 2 Lightning Greaves
-2 Field of Ruin
 2 Astral Cornucopia
 2 Ancient Stirrings
-2 Chalice of the Void
 2 Coretapper
 2 Darksteel Citadel
 2 Surge Node
@@ -345,8 +345,8 @@
 6 Forest
 7 Forest
 8 Forest
-1 Crash Through
 1 Warlord's Fury
+1 Crash Through
 1 Apostle's Blessing
 1 Young Pyromancer
 1 Kiln Fiend
@@ -355,9 +355,9 @@
 1 Lava Spike
 1 Monastery Swiftspear
 1 Temur Battle Rage
-2 Crash Through
 2 Kiln Fiend
 2 Apostle's Blessing
+2 Crash Through
 2 Young Pyromancer
 2 Monastery Swiftspear
 2 Temur Battle Rage
