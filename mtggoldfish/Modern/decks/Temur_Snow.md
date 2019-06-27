@@ -31,8 +31,18 @@
 
 # Other Options
 
-|*n*<sup>th</sup> copy|                                       Maindeck Card                                        |*n*<sup>th</sup> copy|Sideboard Card|
-|--------------------:|--------------------------------------------------------------------------------------------|---------------------|--------------|
-|                    3|[Hooting Mandrills](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386558)|                     |              |
-|                    2|[Hooting Mandrills](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386558)|                     |              |
+|*n*<sup>th</sup> copy|                                          Maindeck Card                                           |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
+|--------------------:|--------------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
+|                    2|[Hooting Mandrills](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386558)      |                    1|[Spell Pierce](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425876)       |
+|                    3|[Hooting Mandrills](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386558)      |                    2|[Spell Pierce](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425876)       |
+|                    1|[Spell Pierce](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425876)           |                    3|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|
+|                    1|[Huntmaster of the Fells](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=262875)|                     |                                                                                              |
+|                    1|[Forked Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401702)            |                     |                                                                                              |
+|                    1|[Serum Visions](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=50145)           |                     |                                                                                              |
+|                    1|[Remand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=380255)                 |                     |                                                                                              |
+|                    2|[Waterlogged Grove](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464198)      |                     |                                                                                              |
+|                    2|[Huntmaster of the Fells](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=262875)|                     |                                                                                              |
+|                    2|[Serum Visions](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=50145)           |                     |                                                                                              |
+|                    3|[Serum Visions](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=50145)           |                     |                                                                                              |
+|                    4|[Serum Visions](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=50145)           |                     |                                                                                              |
 

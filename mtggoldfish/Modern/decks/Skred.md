@@ -1,7 +1,7 @@
 # Skred
 
 #### [Export MTGO List](../collection/Skred/Skred.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=2%09Abrade%0A3%09Anger%20of%20the%20Gods%0A3%09Blood%20Moon%0A2%09Chandra,%20Torch%20of%20Defiance%0A2%09Eternal%20Scourge%0A1%09Frostwalk%20Bastion%0A4%09Koth%20of%20the%20Hammer%0A4%09Lightning%20Bolt%0A4%09Mind%20Stone%0A3%09Pia%20and%20Kiran%20Nalaar%0A4%09Relic%20of%20Progenitus%0A2%09Scrying%20Sheets%0A4%09Skred%0A20%09Snow-Covered%20Mountain%0A2%09Stormbreath%20Dragon&deckside=1%09Anger%20of%20the%20Gods%0A4%09Dragon's%20Claw%0A2%09Goblin%20Rabblemaster%0A2%09Pillage%0A2%09Shattering%20Spree%0A4%09Simian%20Spirit%20Guide)
+#### [Print on decklist.org](http://decklist.org/?deckmain=2%09Abrade%0A3%09Anger%20of%20the%20Gods%0A3%09Blood%20Moon%0A2%09Chandra,%20Torch%20of%20Defiance%0A2%09Eternal%20Scourge%0A1%09Frostwalk%20Bastion%0A4%09Koth%20of%20the%20Hammer%0A4%09Lightning%20Bolt%0A4%09Mind%20Stone%0A3%09Pia%20and%20Kiran%20Nalaar%0A4%09Relic%20of%20Progenitus%0A2%09Scrying%20Sheets%0A4%09Skred%0A20%09Snow-Covered%20Mountain%0A2%09Stormbreath%20Dragon&deckside=1%09Anger%20of%20the%20Gods%0A4%09Dragon's%20Claw%0A2%09Ensnaring%20Bridge%0A2%09Goblin%20Rabblemaster%0A2%09Pillage%0A4%09Simian%20Spirit%20Guide)
 # Maindeck
 
 |                                          Artifact (8)                                          |                                          Creature (7)                                           |                                   Enchantment (3)                                    |                                      Instant (10)                                      |                                             Land (23)                                             |                                           Planeswalker (6)                                            |                                         Sorcery (3)                                          |
@@ -13,9 +13,16 @@
 
 # Sideboard
 
-|                                       Artifact (4)                                       |                                          Creature (6)                                          |                                         Sorcery (5)                                          |
-|------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
-|4 [Dragon's Claw](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129527)|2 [Goblin Rabblemaster](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438486)|1 [Anger of the Gods](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438682)|
-|                                                                                          |4 [Simian Spirit Guide](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442137)|2 [Pillage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14755)           |
-|                                                                                          |                                                                                                |2 [Shattering Spree](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456224) |
+|                                        Artifact (6)                                        |                                          Creature (6)                                          |                                         Sorcery (3)                                          |
+|--------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
+|4 [Dragon's Claw](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129527)  |2 [Goblin Rabblemaster](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438486)|1 [Anger of the Gods](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438682)|
+|2 [Ensnaring Bridge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=15866)|4 [Simian Spirit Guide](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442137)|2 [Pillage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14755)           |
+
+
+# Other Options
+
+|*n*<sup>th</sup> copy|Maindeck Card|*n*<sup>th</sup> copy|                                      Sideboard Card                                       |
+|---------------------|-------------|--------------------:|-------------------------------------------------------------------------------------------|
+|                     |             |                    1|[Shattering Spree](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456224)|
+|                     |             |                    2|[Shattering Spree](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456224)|
 

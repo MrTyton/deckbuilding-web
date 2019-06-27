@@ -50,7 +50,6 @@
 3 Temple Garden
 2 Breeding Pool
 2 Stomping Ground
-1 Maelstrom Pulse
 1 Niv-Mizzet Reborn
 1 Bring to Light
 1 Wall of Blossoms
@@ -58,6 +57,7 @@
 1 Hostage Taker
 1 Acidic Slime
 1 Restoration Angel
+1 Maelstrom Pulse
 1 Deceiver Exarch
 1 Kiki-Jiki, Mirror Breaker
 1 Utopia Sprawl
@@ -74,8 +74,8 @@
 3 Bring to Light
 3 Wall of Blossoms
 3 Teferi, Time Raveler
-3 Restoration Angel
 3 Manamorphose
+3 Restoration Angel
 3 Arbor Elf
 3 Utopia Sprawl
 4 Bring to Light
@@ -114,10 +114,10 @@
 1 Mountain
 1 Cinder Glade
 1 Canopy Vista
+2 Mountain
 2 Ancient Stirrings
 2 Walking Ballista
 2 Blasphemous Act
-2 Mountain
 2 Cinder Glade
 2 Banefire
 2 Hornet Nest
@@ -134,10 +134,10 @@
 1 Cavern of Souls
 1 Ranger-Captain of Eos
 1 Tectonic Edge
+1 Carrion Feeder
 1 Snow-Covered Swamp
 1 Anafenza, the Foremost
 1 Yawgmoth, Thran Physician
-1 Carrion Feeder
 1 Remorseful Cleric
 2 Knight of Autumn
 1 Retreat to Coralhelm

@@ -26,11 +26,11 @@
 1 Mana Leak
 1 Faerie Miscreant
 1 Spellstutter Sprite
-1 Spell Snare
 1 Rune Snag
 1 Quickling
 1 Unsummon
 1 Favorable Winds
+1 Spell Snare
 2 Mana Leak
 2 Jace, Wielder of Mysteries
 2 Narset's Reversal
@@ -47,8 +47,8 @@
 3 Faerie Miscreant
 3 Judge's Familiar
 3 Narset's Reversal
-3 Quickling
 3 Unsummon
+3 Quickling
 3 Rune Snag
 4 Spellstutter Sprite
 4 Faerie Miscreant
@@ -60,7 +60,62 @@
 4 Mana Leak
 4 Favorable Winds
 17 Island
+1 Walking Ballista
 1 Swamp
+1 Viscera Seer
+1 Marsh Flats
+1 Godless Shrine
+1 Verdant Catacombs
+1 Ranger-Captain of Eos
+1 Yawgmoth, Thran Physician
+1 Duskwatch Recruiter
+1 Vizier of Remedies
+1 Devoted Druid
+1 Horizon Canopy
+1 Eternal Witness
+1 Murderous Redcap
+1 Watery Grave
+1 Birds of Paradise
+1 Breeding Pool
+1 Scavenging Ooze
+1 Teferi, Time Raveler
+1 Kitchen Finks
+1 Finale of Devastation
+1 Overgrown Tomb
+1 Hallowed Fountain
+1 Noble Hierarch
+1 Windswept Heath
+1 Temple Garden
+1 Rhonas the Indomitable
+1 Eladamri's Call
+1 Carrion Feeder
+1 Shalai, Voice of Plenty
+2 Devoted Druid
+2 Eternal Witness
+2 Noble Hierarch
+2 Finale of Devastation
+2 Birds of Paradise
+2 Teferi, Time Raveler
+2 Kitchen Finks
+2 Verdant Catacombs
+2 Overgrown Tomb
+2 Eladamri's Call
+2 Windswept Heath
+2 Vizier of Remedies
+3 Teferi, Time Raveler
+3 Finale of Devastation
+3 Devoted Druid
+3 Noble Hierarch
+3 Birds of Paradise
+3 Eladamri's Call
+3 Windswept Heath
+3 Vizier of Remedies
+4 Finale of Devastation
+4 Eladamri's Call
+4 Devoted Druid
+4 Birds of Paradise
+4 Vizier of Remedies
+4 Windswept Heath
 2 Swamp
 1 Blackcleave Cliffs
 1 Faithless Looting
@@ -80,47 +135,6 @@
 4 Faithless Looting
 4 Bloodghast
 4 Blackcleave Cliffs
-1 Lightning Bolt
-1 Mountain
-2 Mountain
-2 Lightning Bolt
-3 Lightning Bolt
-4 Lightning Bolt
-1 Seasoned Pyromancer
-1 Unearth
-1 Dreadhorde Arcanist
-1 Fatal Push
-1 Wooded Foothills
-1 Tasigur, the Golden Fang
-1 Thoughtseize
-1 Arid Mesa
-1 Lightning Skelemental
-1 Polluted Delta
-1 Gurmag Angler
-1 Verdant Catacombs
-1 Flamewake Phoenix
-2 Seasoned Pyromancer
-2 Unearth
-2 Dreadhorde Arcanist
-2 Fatal Push
-2 Lightning Skelemental
-2 Gurmag Angler
-2 Thoughtseize
-2 Flamewake Phoenix
-3 Seasoned Pyromancer
-3 Unearth
-3 Flamewake Phoenix
-3 Lightning Skelemental
-3 Fatal Push
-3 Thoughtseize
-3 Dreadhorde Arcanist
-4 Seasoned Pyromancer
-4 Fatal Push
-4 Lightning Skelemental
-4 Thoughtseize
-4 Unearth
-4 Dreadhorde Arcanist
-1 Viscera Seer
 1 Lingering Souls
 2 Viscera Seer
 2 Lingering Souls
@@ -132,8 +146,6 @@
 1 Greater Gargadon
 1 Stitcher's Supplier
 1 Insolent Neonate
-1 Marsh Flats
-1 Godless Shrine
 1 Gravecrawler
 1 Mayhem Devil
 2 Godless Shrine
@@ -160,6 +172,45 @@
 4 Gravecrawler
 4 Stitcher's Supplier
 4 Mayhem Devil
+1 Lightning Bolt
+1 Mountain
+2 Mountain
+2 Lightning Bolt
+3 Lightning Bolt
+4 Lightning Bolt
+1 Seasoned Pyromancer
+1 Unearth
+1 Dreadhorde Arcanist
+1 Fatal Push
+1 Wooded Foothills
+1 Tasigur, the Golden Fang
+1 Thoughtseize
+1 Arid Mesa
+1 Flamewake Phoenix
+1 Lightning Skelemental
+1 Polluted Delta
+1 Gurmag Angler
+2 Seasoned Pyromancer
+2 Unearth
+2 Dreadhorde Arcanist
+2 Fatal Push
+2 Lightning Skelemental
+2 Gurmag Angler
+2 Thoughtseize
+2 Flamewake Phoenix
+3 Seasoned Pyromancer
+3 Unearth
+3 Flamewake Phoenix
+3 Lightning Skelemental
+3 Fatal Push
+3 Thoughtseize
+3 Dreadhorde Arcanist
+4 Seasoned Pyromancer
+4 Fatal Push
+4 Thoughtseize
+4 Unearth
+4 Dreadhorde Arcanist
+4 Lightning Skelemental
 1 Concealed Courtyard
 1 Caves of Koilos
 2 Concealed Courtyard
@@ -187,10 +238,10 @@
 2 Unclaimed Territory
 2 Jwari Shapeshifter
 2 Arcane Sanctum
+2 Hada Freeblade
 2 Ondu Cleric
 2 Kalastria Healer
 2 Kabira Evangel
-2 Hada Freeblade
 2 Kazandu Blademaster
 2 Sandsteppe Citadel
 2 Return to the Ranks
@@ -208,12 +259,12 @@
 3 Halimar Excavator
 3 Ondu Cleric
 4 Duress
-4 Kazandu Blademaster
 4 Unclaimed Territory
 4 Kalastria Healer
 4 Return to the Ranks
 4 Ondu Cleric
 4 Halimar Excavator
+4 Kazandu Blademaster
 4 Harabaz Druid
 4 Jwari Shapeshifter
 4 Hada Freeblade
@@ -225,9 +276,8 @@
 1 Blinkmoth Nexus
 1 Throne of the God-Pharaoh
 1 Cavern of Souls
-1 Grand Architect
 1 Smuggler's Copter
-1 Walking Ballista
+1 Grand Architect
 1 Chief Engineer
 1 Master of Etherium
 1 Signal Pest
@@ -237,9 +287,9 @@
 2 Blinkmoth Nexus
 2 Smuggler's Copter
 2 Signal Pest
+2 Grand Architect
 2 Throne of the God-Pharaoh
 2 Etherium Sculptor
-2 Grand Architect
 2 Walking Ballista
 2 Chief Engineer
 3 Blinkmoth Nexus
@@ -301,8 +351,8 @@
 1 Karn, Scion of Urza
 1 Darksteel Citadel
 1 Skysovereign, Consul Flagship
-1 Batterskull
 1 Lightning Greaves
+1 Batterskull
 1 Tectonic Edge
 1 Astral Cornucopia
 1 Coretapper
@@ -324,23 +374,23 @@
 2 Ancient Stirrings
 2 Chalice of the Void
 2 Coretapper
-2 Darksteel Citadel
 2 Surge Node
+2 Darksteel Citadel
 2 Kuldotha Forgemaster
 3 Zhalfirin Void
 3 Darksteel Citadel
 3 Kuldotha Forgemaster
 3 Everflowing Chalice
-3 Ancient Stirrings
 3 Astral Cornucopia
+3 Ancient Stirrings
 3 Chalice of the Void
 3 Coretapper
-4 Ancient Stirrings
 4 Chalice of the Void
+4 Coretapper
 4 Forest
 4 Everflowing Chalice
 4 Astral Cornucopia
-4 Coretapper
+4 Ancient Stirrings
 5 Forest
 6 Forest
 7 Forest
@@ -355,7 +405,6 @@
 1 Lava Spike
 1 Monastery Swiftspear
 1 Temur Battle Rage
-2 Kiln Fiend
 2 Apostle's Blessing
 2 Crash Through
 2 Young Pyromancer
@@ -364,11 +413,12 @@
 2 Lava Spike
 2 Soul-Scar Mage
 2 Manamorphose
+2 Kiln Fiend
 2 Warlord's Fury
 3 Temur Battle Rage
-3 Kiln Fiend
 3 Crash Through
 3 Manamorphose
+3 Kiln Fiend
 3 Warlord's Fury
 3 Monastery Swiftspear
 3 Mountain

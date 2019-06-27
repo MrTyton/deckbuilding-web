@@ -30,6 +30,6 @@
 |*n*<sup>th</sup> copy|Maindeck Card|*n*<sup>th</sup> copy|                                          Sideboard Card                                          |
 |---------------------|-------------|--------------------:|--------------------------------------------------------------------------------------------------|
 |                     |             |                    1|[Narset, Parter of Veils](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460988)|
-|                     |             |                    2|[Narset, Parter of Veils](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460988)|
 |                     |             |                    4|[Ashiok, Dream Render](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461155)   |
+|                     |             |                    2|[Narset, Parter of Veils](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460988)|
 
