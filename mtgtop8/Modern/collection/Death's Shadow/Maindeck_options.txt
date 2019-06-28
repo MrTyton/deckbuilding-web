@@ -67,12 +67,12 @@
 2 Faithless Looting
 1 Grim Flayer
 1 Traverse the Ulvenwald
-1 Ghor-Clan Rampager
 1 Assassin's Trophy
 1 Tarfire
 1 Liliana of the Veil
 1 Bloodbraid Elf
 1 Seal of Fire
+1 Ghor-Clan Rampager
 2 Overgrown Tomb
 2 Grim Flayer
 2 Traverse the Ulvenwald
@@ -89,14 +89,8 @@
 2 Wild Nacatl
 3 Wild Nacatl
 4 Wild Nacatl
-1 Narnam Renegade
-1 Gruul Spellbreaker
-2 Narnam Renegade
-2 Gruul Spellbreaker
-3 Narnam Renegade
-4 Mutagenic Growth
-1 Opt
 1 Hex Parasite
+1 Opt
 1 Force of Negation
 2 Silent Clearing
 2 Force of Negation
@@ -104,7 +98,13 @@
 3 Silent Clearing
 3 Opt
 4 Opt
-4 Ranger-Captain of Eos
 4 Silent Clearing
+4 Ranger-Captain of Eos
+1 Narnam Renegade
+1 Gruul Spellbreaker
+2 Narnam Renegade
+2 Gruul Spellbreaker
+3 Narnam Renegade
+4 Mutagenic Growth
 2 Steam Vents
 4 Scalding Tarn

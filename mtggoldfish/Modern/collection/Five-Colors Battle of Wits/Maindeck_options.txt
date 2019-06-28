@@ -1,9 +1,5 @@
-1 Elesh Norn, Grand Cenobite
-1 Iona, Shield of Emeria
-1 Dryad Arbor
-1 Sakura-Tribe Elder
-1 Field of Ruin
-1 Anger of the Gods
+1 Wooded Foothills
+1 Verdant Catacombs
 1 Wall of Roots
 1 Cultivate
 1 Supply/Demand
@@ -24,23 +20,24 @@
 1 City of Brass
 1 Bring to Light
 1 Khalni Garden
+1 Forest
 1 Plains
 1 Ghost Quarter
 1 Mana Confluence
 1 Farseek
+1 Traverse the Ulvenwald
 1 Snapcaster Mage
+1 Stomping Ground
 1 Pulse of Murasa
 1 Supreme Verdict
 1 Timely Reinforcements
 1 Tectonic Edge
+1 Assassin's Trophy
 1 Fatal Push
 2 Chord of Calling
 2 Restoration Angel
 2 Stomping Ground
 2 Unmoored Ego
-2 Bloodstained Mire
-2 Traverse the Ulvenwald
-2 Wooded Foothills
 2 Plains
 2 Verdant Catacombs
 2 Assassin's Trophy
@@ -53,7 +50,9 @@
 2 Remand
 2 Misty Rainforest
 2 Knight of Autumn
+2 Traverse the Ulvenwald
 2 Scapeshift
+2 Bloodstained Mire
 2 Madcap Experiment
 2 Sacred Foundry
 2 Wargate
@@ -61,6 +60,7 @@
 2 Windswept Heath
 2 Sylvan Scrying
 2 Dreadbore
+2 Wooded Foothills
 2 Snapcaster Mage
 2 Thoughtseize
 2 Abrupt Decay
@@ -104,12 +104,9 @@
 3 Mana Confluence
 3 Plains
 3 Chord of Calling
-3 Inquisition of Kozilek
-3 Bloodstained Mire
-3 Traverse the Ulvenwald
-3 Wooded Foothills
 3 Stomping Ground
 3 Verdant Catacombs
+3 Fatal Push
 3 Island
 3 Growth Spiral
 3 Knight of Autumn
@@ -131,6 +128,7 @@
 3 Farseek
 3 Marsh Flats
 3 Slaughter Games
+3 Traverse the Ulvenwald
 3 Eladamri's Call
 3 Pulse of Murasa
 3 City of Brass
@@ -141,28 +139,29 @@
 3 Snapcaster Mage
 3 Thoughtseize
 3 Sakura-Tribe Elder
-3 Fatal Push
+3 Inquisition of Kozilek
 3 Eternal Witness
 3 Bring to Light
 3 Battle of Wits
 3 Dreadbore
 3 Sylvan Caryatid
 3 Scapeshift
+3 Bloodstained Mire
 3 Madcap Experiment
 3 Wargate
 3 Steam Vents
 3 Abrupt Decay
 3 Gifts Ungiven
+3 Wooded Foothills
 3 Izzet Charm
 4 Arid Mesa
 4 Mana Confluence
 4 Sylvan Scrying
 4 Forest
-4 Bloodstained Mire
 4 Misty Rainforest
-4 Traverse the Ulvenwald
-4 Growth Spiral
 4 Inquisition of Kozilek
+4 Growth Spiral
+4 Traverse the Ulvenwald
 4 Verdant Catacombs
 4 Chord of Calling
 4 Abrupt Decay
@@ -203,6 +202,7 @@
 4 Farseek
 4 Wall of Roots
 4 Flooded Strand
+4 Bloodstained Mire
 5 Forest
 6 Forest
 7 Forest

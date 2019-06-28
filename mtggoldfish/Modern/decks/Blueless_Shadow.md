@@ -65,7 +65,7 @@
 |                     |                                                                                                 |                    3|[Ancient Grudge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=235600)        |
 |                     |                                                                                                 |                    3|[Apostle's Blessing](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397768)    |
 |                     |                                                                                                 |                    4|[Ancient Grudge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=235600)        |
+|                     |                                                                                                 |                    1|[Liliana, the Last Hope](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414388)|
 |                     |                                                                                                 |                    1|[Blood Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45386)             |
 |                     |                                                                                                 |                    1|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)   |
-|                     |                                                                                                 |                    1|[Liliana, the Last Hope](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414388)|
 
