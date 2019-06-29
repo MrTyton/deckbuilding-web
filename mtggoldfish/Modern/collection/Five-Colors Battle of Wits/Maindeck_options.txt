@@ -1,3 +1,5 @@
+1 Field of Ruin
+1 Anger of the Gods
 1 Wooded Foothills
 1 Verdant Catacombs
 1 Wall of Roots
@@ -16,7 +18,6 @@
 1 Sylvan Scrying
 1 Polluted Delta
 1 Sacred Foundry
-1 Valakut, the Molten Pinnacle
 1 City of Brass
 1 Bring to Light
 1 Khalni Garden
@@ -29,7 +30,6 @@
 1 Snapcaster Mage
 1 Stomping Ground
 1 Pulse of Murasa
-1 Supreme Verdict
 1 Timely Reinforcements
 1 Tectonic Edge
 1 Assassin's Trophy
@@ -37,21 +37,23 @@
 2 Chord of Calling
 2 Restoration Angel
 2 Stomping Ground
-2 Unmoored Ego
 2 Plains
 2 Verdant Catacombs
 2 Assassin's Trophy
 2 Overgrown Tomb
 2 Blood Crypt
-2 Breeding Pool
-2 Island
-2 Steam Vents
 2 Growth Spiral
+2 Breeding Pool
+2 Search for Tomorrow
+2 Sakura-Tribe Elder
+2 Valakut, the Molten Pinnacle
+2 Scapeshift
+2 Marsh Flats
 2 Remand
 2 Misty Rainforest
+2 Unmoored Ego
 2 Knight of Autumn
 2 Traverse the Ulvenwald
-2 Scapeshift
 2 Bloodstained Mire
 2 Madcap Experiment
 2 Sacred Foundry
@@ -65,15 +67,15 @@
 2 Thoughtseize
 2 Abrupt Decay
 2 Supply/Demand
-2 Marsh Flats
 2 Forest
+2 Steam Vents
 2 Maelstrom Pulse
 2 Gifts Ungiven
 2 Flooded Strand
 2 Summoner's Pact
 2 Mana Confluence
+2 Island
 2 Field of Ruin
-2 Search for Tomorrow
 2 Watery Grave
 2 Farseek
 2 Arid Mesa
@@ -90,7 +92,6 @@
 2 Eladamri's Call
 2 Izzet Charm
 2 Panglacial Wurm
-2 Sakura-Tribe Elder
 2 Polluted Delta
 2 Wall of Roots
 2 Fatal Push
@@ -98,18 +99,24 @@
 2 Temple Garden
 2 Eternal Witness
 2 Battle of Wits
-2 Valakut, the Molten Pinnacle
 3 Arid Mesa
 3 Sylvan Scrying
 3 Mana Confluence
 3 Plains
 3 Chord of Calling
-3 Stomping Ground
+3 Island
+3 Field of Ruin
+3 Growth Spiral
 3 Verdant Catacombs
 3 Fatal Push
-3 Island
-3 Growth Spiral
+3 Scapeshift
 3 Knight of Autumn
+3 Steam Vents
+3 Sakura-Tribe Elder
+3 Remand
+3 Search for Tomorrow
+3 Marsh Flats
+3 Stomping Ground
 3 Misty Rainforest
 3 Assassin's Trophy
 3 Glittering Wish
@@ -118,15 +125,11 @@
 3 Maelstrom Pulse
 3 Evolving Wilds
 3 Flooded Strand
-3 Remand
 3 Wall of Roots
 3 Polluted Delta
 3 Unmoored Ego
-3 Search for Tomorrow
-3 Field of Ruin
 3 Cultivate
 3 Farseek
-3 Marsh Flats
 3 Slaughter Games
 3 Traverse the Ulvenwald
 3 Eladamri's Call
@@ -138,18 +141,15 @@
 3 Forest
 3 Snapcaster Mage
 3 Thoughtseize
-3 Sakura-Tribe Elder
 3 Inquisition of Kozilek
 3 Eternal Witness
 3 Bring to Light
 3 Battle of Wits
 3 Dreadbore
 3 Sylvan Caryatid
-3 Scapeshift
 3 Bloodstained Mire
 3 Madcap Experiment
 3 Wargate
-3 Steam Vents
 3 Abrupt Decay
 3 Gifts Ungiven
 3 Wooded Foothills
@@ -157,36 +157,36 @@
 4 Arid Mesa
 4 Mana Confluence
 4 Sylvan Scrying
-4 Forest
-4 Misty Rainforest
-4 Inquisition of Kozilek
-4 Growth Spiral
-4 Traverse the Ulvenwald
-4 Verdant Catacombs
 4 Chord of Calling
+4 Forest
+4 Traverse the Ulvenwald
+4 Growth Spiral
+4 Search for Tomorrow
+4 Inquisition of Kozilek
+4 Verdant Catacombs
+4 Stomping Ground
+4 Scapeshift
+4 Remand
+4 Steam Vents
+4 Sakura-Tribe Elder
+4 Misty Rainforest
 4 Abrupt Decay
 4 Sylvan Caryatid
 4 Field of Ruin
-4 Sakura-Tribe Elder
 4 Dreadbore
 4 Assassin's Trophy
 4 Battle of Wits
 4 Birds of Paradise
 4 Windswept Heath
-4 Remand
 4 Polluted Delta
 4 Eternal Witness
 4 Glittering Wish
 4 Supply/Demand
 4 City of Brass
 4 Restoration Angel
-4 Stomping Ground
-4 Scapeshift
 4 Gifts Ungiven
 4 Pulse of Murasa
 4 Breeding Pool
-4 Search for Tomorrow
-4 Steam Vents
 4 Wargate
 4 Maelstrom Pulse
 4 Island

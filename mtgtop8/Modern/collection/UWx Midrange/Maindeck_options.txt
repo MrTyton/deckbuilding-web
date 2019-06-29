@@ -2,9 +2,9 @@
 2 Plains
 3 Restoration Angel
 3 Island
+3 Field of Ruin
 3 Wall of Omens
 3 Cryptic Command
-3 Field of Ruin
 3 Celestial Colonnade
 4 Island
 4 Celestial Colonnade
@@ -54,9 +54,9 @@
 2 Creeping Tar Pit
 1 Marsh Flats
 2 Marsh Flats
+1 Arid Mesa
 1 Mountain
 1 Steam Vents
-1 Arid Mesa
 1 Lightning Bolt
 1 Sacred Foundry
 1 Geist of Saint Traft
@@ -84,15 +84,15 @@
 1 Remand
 1 Hieroglyphic Illumination
 1 Ghost Quarter
-2 Jace, the Mind Sculptor
 2 Remand
+2 Jace, the Mind Sculptor
 3 Remand
 1 Concealed Courtyard
 1 Dark Confidant
 1 Bitterblossom
-2 Bitterblossom
 2 Concealed Courtyard
 2 Dark Confidant
+2 Bitterblossom
 3 Thoughtseize
 3 Dark Confidant
 1 Spreading Seas
@@ -105,10 +105,10 @@
 2 Grim Lavamancer
 3 Scalding Tarn
 4 Teferi, Time Raveler
-1 Kolaghan's Command
 1 Blood Crypt
 1 Tasigur, the Golden Fang
 1 Countersquall
+1 Kolaghan's Command
 1 Faithless Looting
 2 Sacred Foundry
 2 Arid Mesa

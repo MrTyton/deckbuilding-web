@@ -59,7 +59,7 @@
 |                     |                                                                                                       |                    2|[Torpor Orb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=233069)               |
 |                     |                                                                                                       |                    1|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)      |
 |                     |                                                                                                       |                    2|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)      |
-|                     |                                                                                                       |                    1|[Krosan Grip](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376394)              |
 |                     |                                                                                                       |                    1|[Wurmcoil Engine](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389756)          |
+|                     |                                                                                                       |                    1|[Krosan Grip](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376394)              |
 |                     |                                                                                                       |                    2|[Krosan Grip](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376394)              |
 

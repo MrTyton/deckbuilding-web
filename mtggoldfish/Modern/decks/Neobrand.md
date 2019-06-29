@@ -1,7 +1,7 @@
 # Neobrand
 
 #### [Export MTGO List](../collection/Neobrand/Neobrand.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Allosaurus%20Rider%0A2%09Autochthon%20Wurm%0A4%09Botanical%20Sanctum%0A2%09Breeding%20Pool%0A4%09Chancellor%20of%20the%20Tangle%0A1%09Edge%20of%20Autumn%0A4%09Eldritch%20Evolution%0A4%09Gemstone%20Mine%0A2%09Griselbrand%0A1%09Island%0A1%09Laboratory%20Maniac%0A1%09Life%20Goes%20On%0A4%09Manamorphose%0A4%09Neoform%0A4%09Nourishing%20Shoal%0A1%09Pact%20of%20Negation%0A1%09Safewright%20Quest%0A4%09Serum%20Visions%0A4%09Simian%20Spirit%20Guide%0A1%09Street%20Wraith%0A4%09Summoner's%20Pact%0A1%09Wild%20Cantor%0A2%09Yavimaya%20Coast&deckside=3%09Autumn's%20Veil%0A1%09Leyline%20of%20Sanctity%0A4%09Oxidize%0A3%09Pact%20of%20Negation%0A4%09Slaughter%20Pact)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Allosaurus%20Rider%0A2%09Autochthon%20Wurm%0A4%09Botanical%20Sanctum%0A2%09Breeding%20Pool%0A4%09Chancellor%20of%20the%20Tangle%0A1%09Edge%20of%20Autumn%0A4%09Eldritch%20Evolution%0A4%09Gemstone%20Mine%0A2%09Griselbrand%0A1%09Island%0A1%09Laboratory%20Maniac%0A1%09Life%20Goes%20On%0A4%09Manamorphose%0A4%09Neoform%0A4%09Nourishing%20Shoal%0A1%09Pact%20of%20Negation%0A1%09Safewright%20Quest%0A4%09Serum%20Visions%0A4%09Simian%20Spirit%20Guide%0A1%09Street%20Wraith%0A4%09Summoner's%20Pact%0A1%09Wild%20Cantor%0A2%09Yavimaya%20Coast&deckside=1%09Autumn's%20Veil%0A3%09Leyline%20of%20Sanctity%0A4%09Oxidize%0A3%09Pact%20of%20Negation%0A4%09Slaughter%20Pact)
 # Maindeck
 
 |                                            Creature (19)                                            |                                        Instant (14)                                         |                                          Land (13)                                           |                                         Sorcery (14)                                          |
@@ -18,9 +18,9 @@
 
 # Sideboard
 
-|                                        Enchantment (1)                                         |                                        Instant (14)                                         |
+|                                        Enchantment (3)                                         |                                        Instant (12)                                         |
 |------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|
-|1 [Leyline of Sanctity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=204993)|3 [Autumn's Veil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205051)   |
+|3 [Leyline of Sanctity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=204993)|1 [Autumn's Veil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205051)   |
 |                                                                                                |4 [Oxidize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=46012)          |
 |                                                                                                |3 [Pact of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442057)|
 |                                                                                                |4 [Slaughter Pact](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=130704)  |
@@ -30,11 +30,11 @@
 
 |*n*<sup>th</sup> copy|                                          Maindeck Card                                           |*n*<sup>th</sup> copy|                                          Sideboard Card                                          |
 |--------------------:|--------------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------------|
-|                    1|[Noxious Revival](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=230067)        |                    2|[Leyline of Sanctity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=204993)    |
-|                    1|[Waterlogged Grove](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464198)      |                    3|[Leyline of Sanctity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=204993)    |
+|                    1|[Noxious Revival](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=230067)        |                    2|[Autumn's Veil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205051)          |
+|                    1|[Waterlogged Grove](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464198)      |                    3|[Autumn's Veil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205051)          |
 |                    2|[Waterlogged Grove](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464198)      |                    1|[Noxious Revival](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=230067)        |
-|                    1|[Lightning Storm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121495)        |                    2|[Noxious Revival](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=230067)        |
-|                    3|[Waterlogged Grove](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464198)      |                    1|[Engineered Explosives](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=50139)   |
+|                    3|[Waterlogged Grove](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464198)      |                    2|[Noxious Revival](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=230067)        |
+|                    1|[Lightning Storm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121495)        |                    1|[Engineered Explosives](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=50139)   |
 |                    3|[Yavimaya Coast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129810)         |                    2|[Engineered Explosives](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=50139)   |
 |                    1|[Samut's Sprint](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461069)         |                    4|[Leyline of Sanctity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=204993)    |
 |                    1|[Scalding Tarn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405107)          |                    1|[Spell Pierce](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425876)           |

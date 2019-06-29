@@ -1,7 +1,7 @@
 # Izzet Spells
 
 #### [Export MTGO List](../collection/Izzet%20Spells/Izzet%20Spells.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=1%09Abrade%0A4%09Delver%20of%20Secrets%0A3%09Fiery%20Islet%0A4%09Force%20of%20Negation%0A4%09Island%0A4%09Lightning%20Bolt%0A3%09Mana%20Leak%0A1%09Mountain%0A4%09Opt%0A4%09Pteramander%0A4%09Scalding%20Tarn%0A4%09Serum%20Visions%0A2%09Sleight%20of%20Hand%0A3%09Snapcaster%20Mage%0A2%09Spell%20Pierce%0A1%09Spirebluff%20Canal%0A2%09Steam%20Vents%0A4%09Thought%20Scour%0A3%09Vapor%20Snag%0A3%09Young%20Pyromancer&deckside=1%09Abrade%0A1%09Blood%20Moon%0A1%09Disdainful%20Stroke%0A1%09Grim%20Lavamancer%0A2%09Izzet%20Staticaster%0A1%09Leyline%20of%20the%20Void%0A2%09Magma%20Spray%0A2%09Ravenous%20Trap%0A1%09Spell%20Pierce%0A3%09Surgical%20Extraction)
+#### [Print on decklist.org](http://decklist.org/?deckmain=1%09Abrade%0A4%09Delver%20of%20Secrets%0A3%09Fiery%20Islet%0A4%09Force%20of%20Negation%0A4%09Island%0A4%09Lightning%20Bolt%0A3%09Mana%20Leak%0A1%09Mountain%0A4%09Opt%0A4%09Pteramander%0A4%09Scalding%20Tarn%0A4%09Serum%20Visions%0A2%09Sleight%20of%20Hand%0A3%09Snapcaster%20Mage%0A2%09Spell%20Pierce%0A1%09Spirebluff%20Canal%0A2%09Steam%20Vents%0A4%09Thought%20Scour%0A3%09Vapor%20Snag%0A3%09Young%20Pyromancer&deckside=1%09Abrade%0A2%09Blood%20Moon%0A1%09Disdainful%20Stroke%0A1%09Grim%20Lavamancer%0A2%09Izzet%20Staticaster%0A4%09Leyline%20of%20the%20Void%0A2%09Magma%20Spray%0A1%09Ravenous%20Trap%0A1%09Spell%20Pierce)
 # Maindeck
 
 |                                        Creature (14)                                         |                                         Instant (25)                                         |                                          Land (15)                                          |                                        Sorcery (6)                                        |
@@ -18,22 +18,21 @@
 
 # Sideboard
 
-|                                         Creature (3)                                         |                                        Enchantment (2)                                         |                                          Instant (10)                                          |
-|----------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
-|1 [Grim Lavamancer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430589)  |1 [Blood Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45386)          |1 [Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)             |
-|2 [Izzet Staticaster](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=253638)|1 [Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)|1 [Disdainful Stroke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420705)  |
-|                                                                                              |                                                                                                |2 [Magma Spray](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426843)        |
-|                                                                                              |                                                                                                |2 [Ravenous Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197537)      |
-|                                                                                              |                                                                                                |1 [Spell Pierce](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425876)       |
-|                                                                                              |                                                                                                |3 [Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|
+|                                         Creature (3)                                         |                                        Enchantment (6)                                         |                                         Instant (6)                                          |
+|----------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
+|1 [Grim Lavamancer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430589)  |2 [Blood Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45386)          |1 [Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)           |
+|2 [Izzet Staticaster](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=253638)|4 [Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)|1 [Disdainful Stroke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420705)|
+|                                                                                              |                                                                                                |2 [Magma Spray](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426843)      |
+|                                                                                              |                                                                                                |1 [Ravenous Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197537)    |
+|                                                                                              |                                                                                                |1 [Spell Pierce](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425876)     |
 
 
 # Other Options
 
 |*n*<sup>th</sup> copy|Maindeck Card|*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
 |---------------------|-------------|--------------------:|----------------------------------------------------------------------------------------------|
-|                     |             |                    2|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)|
-|                     |             |                    3|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)|
-|                     |             |                    4|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)|
-|                     |             |                    2|[Blood Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45386)          |
+|                     |             |                    2|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|
+|                     |             |                    2|[Ravenous Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197537)      |
+|                     |             |                    3|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|
+|                     |             |                    1|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|
 

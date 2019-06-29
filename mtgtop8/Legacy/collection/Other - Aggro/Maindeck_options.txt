@@ -1,4 +1,3 @@
-1 Thief of Sanity
 1 Young Pyromancer
 1 Cabal Therapy
 1 Thoughtseize
@@ -6,6 +5,7 @@
 1 Vapor Snag
 1 Swamp
 1 Bloodstained Mire
+1 Fire / Ice
 1 Badlands
 1 Thought Scour
 1 Ancestral Vision
@@ -30,7 +30,6 @@
 4 Polluted Delta
 4 Aether Vial
 1 Renegade Rallier
-1 Deputy of Detention
 1 Shalai, Voice of Plenty
 1 Birds of Paradise
 1 Palace Jailer
@@ -45,6 +44,7 @@
 1 Tropical Island
 1 Bayou
 1 Leovold, Emissary of Trest
+1 Deputy of Detention
 1 Noble Hierarch
 1 Dryad Arbor
 1 Windswept Heath
@@ -164,12 +164,12 @@
 4 Pteramander
 6 Island
 1 Spellseeker
-1 Sudden Shock
 1 Abrade
 1 Adeliz, the Cinder Wind
 1 Pyroclasm
 1 Arid Mesa
 1 Riptide Laboratory
+1 Sudden Shock
 1 Cursecatcher
 2 Arid Mesa
 2 Snapcaster Mage
