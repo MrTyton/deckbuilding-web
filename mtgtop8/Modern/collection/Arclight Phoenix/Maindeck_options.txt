@@ -1,5 +1,3 @@
-1 Spirebluff Canal
-1 Steam Vents
 1 Surgical Extraction
 1 Thing in the Ice
 1 Serum Visions
@@ -22,7 +20,7 @@
 2 Surgical Extraction
 3 Spirebluff Canal
 4 Spirebluff Canal
-2 Sunbaked Canyon
+2 Bedlam Reveler
 3 Scalding Tarn
 4 Scalding Tarn
 3 Sleight of Hand
@@ -34,11 +32,13 @@
 2 Island
 3 Island
 1 Polluted Delta
-3 Sunbaked Canyon
 4 Lava Dart
+4 Gut Shot
 2 Fiery Islet
 1 Flooded Strand
+2 Sunbaked Canyon
 3 Steam Vents
+3 Sunbaked Canyon
 1 Blistercoil Weird
 3 Surgical Extraction
 1 Snow-Covered Island
@@ -66,10 +66,6 @@
 1 Wooded Foothills
 2 Magmatic Sinkhole
 3 Fiery Islet
-1 Forked Bolt
-2 Forked Bolt
-3 Forked Bolt
-4 Forked Bolt
 1 Snow-Covered Mountain
 4 Snow-Covered Island
 3 Pyromancer Ascension
