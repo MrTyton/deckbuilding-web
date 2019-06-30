@@ -33,3 +33,22 @@
 |1 [Torpor Orb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=233069)        |                                                                                             |
 |2 [Welding Jar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=48328)        |                                                                                             |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                        Maindeck Card                                        |*n*<sup>th</sup> copy|                                           Sideboard Card                                           |
+|--------------------:|---------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------------|
+|                    1|[Torpor Orb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=233069)        |                    1|[Defense Grid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45481)              |
+|                    1|[Ghost Quarter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389534)     |                    1|[Urza, Lord High Artificer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464024)|
+|                    1|[Glimmervoid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370425)       |                    1|[Orbs of Warding](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=398551)          |
+|                    1|[Whir of Invention](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423716) |                    2|[Urza, Lord High Artificer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464024)|
+|                    1|[Sorcerous Spyglass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435407)|                    3|[Urza, Lord High Artificer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464024)|
+|                    1|[Crucible of Worlds](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129480)|                     |                                                                                                    |
+|                    1|[Bottled Cloister](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=89018)   |                     |                                                                                                    |
+|                    2|[Glimmervoid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370425)       |                     |                                                                                                    |
+|                    2|[Whir of Invention](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423716) |                     |                                                                                                    |
+|                    3|[Glimmervoid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370425)       |                     |                                                                                                    |
+|                    3|[Welding Jar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=48328)        |                     |                                                                                                    |
+|                    3|[Whir of Invention](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423716) |                     |                                                                                                    |
+|                    4|[Whir of Invention](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423716) |                     |                                                                                                    |
+

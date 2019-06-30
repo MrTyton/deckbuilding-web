@@ -1,16 +1,20 @@
-1 Stomping Ground
 3 Lightning Helix
 4 Lightning Helix
-3 Light Up the Stage
-3 Arid Mesa
-4 Bloodstained Mire
+1 Stomping Ground
 1 Sunbaked Canyon
 2 Sunbaked Canyon
 3 Sunbaked Canyon
-4 Mountain
+3 Light Up the Stage
+3 Arid Mesa
+4 Bloodstained Mire
 4 Sunbaked Canyon
 4 Inspiring Vantage
 1 Scalding Tarn
+4 Mountain
+2 Scalding Tarn
+3 Scalding Tarn
+3 Sacred Foundry
+4 Light Up the Stage
 5 Mountain
 6 Mountain
 7 Mountain
@@ -21,20 +25,14 @@
 12 Mountain
 13 Mountain
 14 Mountain
-4 Light Up the Stage
-2 Scalding Tarn
-3 Scalding Tarn
-3 Sacred Foundry
-3 Skullcrack
-4 Skullcrack
-15 Mountain
 1 Ramunap Ruins
 2 Ramunap Ruins
+15 Mountain
 1 Burning-Tree Emissary
 1 Reckless Bushwhacker
-1 Legion Loyalist
 1 Foundry Street Denizen
 1 Goblin Bushwhacker
+1 Legion Loyalist
 1 Fanatical Firebrand
 1 Goblin Grenade
 2 Burning-Tree Emissary
@@ -56,12 +54,11 @@
 4 Goblin Bushwhacker
 4 Foundry Street Denizen
 4 Legion Loyalist
+1 Deflecting Palm
+2 Deflecting Palm
 4 Arid Mesa
-1 Vexing Devil
-2 Vexing Devil
-16 Mountain
-17 Mountain
-1 Shard Volley
+3 Skullcrack
+4 Skullcrack
 3 Fanatical Firebrand
 4 Fanatical Firebrand
 1 Devastating Summons
@@ -74,27 +71,23 @@
 2 Stomping Ground
 3 Atarka's Command
 4 Atarka's Command
-1 Snow-Covered Mountain
 1 Mogg War Marshal
 1 Blood Crypt
 2 Blood Crypt
+1 Dreadhorde Arcanist
 1 The Flame of Keld
 1 Kari Zev's Expertise
 1 Exquisite Firecraft
 1 Forked Bolt
 1 Fiery Islet
+1 Shard Volley
 2 Fiery Islet
 1 Mogg Fanatic
 1 Abrade
-2 Abrade
 2 Mogg Fanatic
-1 Dreadhorde Arcanist
-1 Deflecting Palm
-2 Deflecting Palm
-1 Molten Vortex
-1 Searing Blood
-2 Searing Blood
-3 Vexing Devil
+2 Abrade
+2 Grim Lavamancer
+3 Deflecting Palm
 1 Bomat Courier
 1 Simian Spirit Guide
 2 Bomat Courier
@@ -128,7 +121,6 @@
 1 Munitions Expert
 1 Goblin Trashmaster
 1 Earwig Squad
-1 Sling-Gang Lieutenant
 1 Goblin Chieftain
 1 Kiki-Jiki, Mirror Breaker
 1 Goblin Matron
@@ -137,6 +129,7 @@
 1 Tarfire
 1 Skirk Prospector
 1 Cavern of Souls
+1 Sling-Gang Lieutenant
 2 Cavern of Souls
 2 Mogg War Marshal
 2 Aether Vial
@@ -163,36 +156,41 @@
 4 Auntie's Hovel
 4 Cavern of Souls
 4 Boggart Harbinger
+1 Vexing Devil
+2 Vexing Devil
+16 Mountain
+17 Mountain
 18 Mountain
-1 Blistercoil Weird
-1 Crash Through
 1 Lava Dart
-1 Gut Shot
+1 Crash Through
+1 Blistercoil Weird
 1 Soul-Scar Mage
 1 Finale of Promise
+1 Gut Shot
 1 Manamorphose
+1 Snow-Covered Mountain
 1 Bedlam Reveler
 1 Faithless Looting
-2 Blistercoil Weird
-2 Crash Through
-2 Snow-Covered Mountain
 2 Lava Dart
+2 Crash Through
+2 Blistercoil Weird
 2 Gut Shot
 2 Bedlam Reveler
 2 Manamorphose
+2 Snow-Covered Mountain
 2 Soul-Scar Mage
 2 Faithless Looting
-3 Bedlam Reveler
-3 Snow-Covered Mountain
+3 Lava Dart
 3 Crash Through
+3 Bedlam Reveler
 3 Manamorphose
+3 Snow-Covered Mountain
 3 Faithless Looting
 3 Soul-Scar Mage
-3 Lava Dart
 4 Lava Dart
-4 Snow-Covered Mountain
 4 Manamorphose
 4 Soul-Scar Mage
+4 Snow-Covered Mountain
 4 Faithless Looting
 5 Snow-Covered Mountain
 6 Snow-Covered Mountain

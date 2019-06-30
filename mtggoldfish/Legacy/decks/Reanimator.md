@@ -30,9 +30,9 @@
 
 |*n*<sup>th</sup> copy|                                       Maindeck Card                                        |*n*<sup>th</sup> copy|                                     Sideboard Card                                      |
 |--------------------:|--------------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------|
-|                    1|[Tropical Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=884)     |                    1|[Massacre](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=21324)       |
-|                    1|[Daze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=189255)             |                    1|[Pithing Needle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129526)|
-|                    1|[Bloodstained Mire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405094)|                    1|[Abrupt Decay](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456061)  |
+|                    1|[Tropical Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=884)     |                    1|[Pithing Needle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129526)|
+|                    1|[Daze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=189255)             |                    1|[Abrupt Decay](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456061)  |
+|                    1|[Bloodstained Mire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405094)|                    1|[Massacre](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=21324)       |
 |                    2|[Misty Rainforest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405102) |                    1|[Flusterstorm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=228255)  |
 |                    2|[Bloodstained Mire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405094)|                    1|[Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)  |
 |                    2|[Daze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=189255)             |                    2|[Flusterstorm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=228255)  |

@@ -18,16 +18,16 @@
 3 Cryptic Command
 4 Cryptic Command
 1 Misty Rainforest
+1 Growth Spiral
 1 Lumbering Falls
 1 Wilderness Reclamation
-1 Growth Spiral
+2 Growth Spiral
 2 Misty Rainforest
 2 Breeding Pool
 2 Wilderness Reclamation
-2 Growth Spiral
+3 Growth Spiral
 3 Misty Rainforest
 3 Wilderness Reclamation
-3 Growth Spiral
 4 Wilderness Reclamation
 4 Misty Rainforest
 4 Growth Spiral
@@ -146,30 +146,30 @@
 3 Creeping Tar Pit
 4 Fatal Push
 4 Polluted Delta
-1 Prairie Stream
 1 Sphinx's Tutelage
-1 Evolving Wilds
-1 Tranquil Cove
-1 Gideon Jura
-1 Dovin's Veto
+1 Prairie Stream
 1 Day of Judgment
+1 Evolving Wilds
+1 Dovin's Veto
 1 Ashes of the Abhorrent
 1 Teyo, the Shieldmage
 1 Tranquil Expanse
+1 Gideon Jura
 1 Ethereal Haze
 1 Dictate of Kruphix
 1 Temple Bell
 1 Holy Day
 1 Dawn Charm
 1 Angelsong
+1 Tranquil Cove
 1 Elixir of Immortality
 1 Irrigated Farmland
-2 Tranquil Cove
 2 Evolving Wilds
 2 Dovin's Veto
 2 Plains
 2 Day of Judgment
 2 Dawn Charm
+2 Tranquil Cove
 2 Teyo, the Shieldmage
 2 Angelsong
 2 Sphinx's Tutelage
@@ -201,8 +201,8 @@
 4 Dictate of Kruphix
 4 Tranquil Expanse
 1 Snow-Covered Forest
-1 Snow-Covered Island
 1 Snow-Covered Mountain
+1 Snow-Covered Island
 1 Lightning Bolt
 1 Prismatic Vista
 1 Expansion / Explosion
@@ -313,25 +313,25 @@
 17 Island
 1 Scrying Sheets
 1 Finale of Devastation
-1 Devoted Druid
-1 Vizier of Remedies
-1 Phyrexian Revoker
 1 Duskwatch Recruiter
+1 Vizier of Remedies
+1 Devoted Druid
+1 Phyrexian Revoker
 1 Thrun, the Last Troll
 1 Tireless Tracker
 1 Scavenging Ooze
 1 Simian Spirit Guide
 2 Snow-Covered Forest
-2 Finale of Devastation
 2 Devoted Druid
+2 Finale of Devastation
 2 Simian Spirit Guide
 3 Snow-Covered Forest
-3 Devoted Druid
 3 Finale of Devastation
+3 Devoted Druid
 4 Snow-Covered Forest
 4 Karn, the Great Creator
-4 Devoted Druid
 4 Finale of Devastation
+4 Devoted Druid
 5 Snow-Covered Forest
 6 Snow-Covered Forest
 7 Snow-Covered Forest
