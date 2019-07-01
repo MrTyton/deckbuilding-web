@@ -28,7 +28,7 @@
 
 |*n*<sup>th</sup> copy|                                         Maindeck Card                                          |*n*<sup>th</sup> copy|                                        Sideboard Card                                         |
 |--------------------:|------------------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------------|
-|                    1|[Polluted Delta](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405104)       |                    1|[Engineered Explosives](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=50139)|
-|                    1|[Verdant Catacombs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405113)    |                    1|[Liliana's Defeat](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430757)    |
+|                    1|[Polluted Delta](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405104)       |                    1|[Liliana's Defeat](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430757)    |
+|                    1|[Verdant Catacombs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405113)    |                    1|[Engineered Explosives](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=50139)|
 |                    4|[Lightning Skelemental](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464157)|                    2|[By Force](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426825)            |
 

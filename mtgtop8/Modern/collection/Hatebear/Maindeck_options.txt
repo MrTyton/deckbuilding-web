@@ -12,14 +12,14 @@
 1 Wastes
 2 Reality Smasher
 2 Cavern of Souls
-1 Dismember
 1 Chalice of the Void
 1 Gemstone Caverns
 1 Simian Spirit Guide
-2 Dismember
+1 Dismember
 2 Chalice of the Void
 2 Gemstone Caverns
 2 Simian Spirit Guide
+2 Dismember
 3 Chalice of the Void
 3 Dismember
 3 Gemstone Caverns
@@ -47,28 +47,28 @@
 1 Wasteland Strangler
 2 Wasteland Strangler
 3 Wasteland Strangler
+1 Concealed Courtyard
 1 Tidehollow Sculler
 1 Swamp
-1 Concealed Courtyard
-2 Tidehollow Sculler
 2 Concealed Courtyard
+2 Tidehollow Sculler
 3 Concealed Courtyard
 4 Concealed Courtyard
 4 Restoration Angel
 4 Field of Ruin
 1 Pia and Kiran Nalaar
 1 Goblin Cratermaker
-1 Spellskite
 1 Aurelia, Exemplar of Justice
+1 Sacred Foundry
 1 Alesha, Who Smiles at Death
 1 Avalanche Riders
 1 Inspiring Vantage
 1 Mountain
 1 Mutavault
 1 Earthshaker Khenra
+1 Spellskite
 1 Knight of the White Orchid
 1 Militia Bugler
-1 Sacred Foundry
 1 Fulminator Mage
 1 Angel of Invention
 1 Path of Mettle
@@ -86,8 +86,8 @@
 3 Inspiring Vantage
 3 Alesha, Who Smiles at Death
 3 Avalanche Riders
-4 Sacred Foundry
 4 Avalanche Riders
+4 Sacred Foundry
 4 Inspiring Vantage
 4 Militia Bugler
 4 Alesha, Who Smiles at Death
@@ -124,15 +124,12 @@
 1 Battlefield Forge
 1 Winds of Abandon
 2 Battlefield Forge
-2 Winds of Abandon
 2 Sunbaked Canyon
+2 Winds of Abandon
 3 Battlefield Forge
 3 Sunbaked Canyon
 4 Battlefield Forge
 4 Sunbaked Canyon
-3 Tectonic Edge
-4 Tectonic Edge
-4 Selfless Spirit
 1 Adarkar Wastes
 1 Spell Queller
 1 Smuggler's Copter
@@ -152,9 +149,12 @@
 3 Spell Queller
 3 Seachrome Coast
 3 Hallowed Fountain
+4 Seachrome Coast
 4 Spell Queller
 4 Hallowed Fountain
-4 Seachrome Coast
+3 Tectonic Edge
+4 Tectonic Edge
+4 Selfless Spirit
 1 Eternal Witness
 1 Stirring Wildwood
 1 Renegade Rallier
@@ -166,13 +166,13 @@
 1 Forest
 1 Voice of Resurgence
 2 Renegade Rallier
-2 Eternal Witness
 2 Scavenging Ooze
 2 Windswept Heath
 2 Noble Hierarch
 2 Forest
 2 Temple Garden
 2 Razorverge Thicket
+2 Eternal Witness
 2 Voice of Resurgence
 3 Razorverge Thicket
 3 Renegade Rallier

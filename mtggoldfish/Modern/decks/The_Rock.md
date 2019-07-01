@@ -87,8 +87,8 @@
 |                    3|[Nihil Spellbomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442215)         |                     |                                                                                                   |
 |                    4|[Nurturing Peatland](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464192)      |                     |                                                                                                   |
 |                    5|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)                   |                     |                                                                                                   |
-|                    1|[Phyrexian Arena](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45339)          |                     |                                                                                                   |
 |                    1|[Dismember](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382182)               |                     |                                                                                                   |
+|                    1|[Phyrexian Arena](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45339)          |                     |                                                                                                   |
 |                    3|[Grim Flayer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414489)             |                     |                                                                                                   |
 |                    4|[Grim Flayer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414489)             |                     |                                                                                                   |
 

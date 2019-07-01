@@ -31,7 +31,7 @@
 
 |*n*<sup>th</sup> copy|                                       Maindeck Card                                       |*n*<sup>th</sup> copy|                                         Sideboard Card                                         |
 |--------------------:|-------------------------------------------------------------------------------------------|--------------------:|------------------------------------------------------------------------------------------------|
-|                    1|[Fallen Shinobi](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464148)  |                    1|[Infernal Reckoning](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447238)   |
-|                    1|[Vendilion Clique](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442065)|                    1|[Ceremonious Rejection](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417613)|
-|                    1|[Flooded Strand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405098)  |                    2|[Ceremonious Rejection](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417613)|
+|                    1|[Fallen Shinobi](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464148)  |                    1|[Ceremonious Rejection](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417613)|
+|                    1|[Vendilion Clique](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442065)|                    2|[Ceremonious Rejection](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417613)|
+|                    1|[Flooded Strand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405098)  |                    1|[Infernal Reckoning](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447238)   |
 
