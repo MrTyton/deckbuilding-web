@@ -51,8 +51,8 @@
 4 Dark Ritual
 4 Exhume
 4 Thoughtseize
-1 Narcomoeba
 1 Dread Return
+1 Narcomoeba
 1 Cabal Therapy
 2 Narcomoeba
 2 Cabal Therapy
@@ -63,10 +63,10 @@
 1 Nether Shadow
 1 Phantasmagorian
 1 Prized Amalgam
-1 Stinkweed Imp
 1 Lotleth Giant
 1 Golgari Thug
 1 Bridge from Below
+1 Stinkweed Imp
 1 Ichorid
 1 Chancellor of the Annex
 1 Greater Mossdog
@@ -79,8 +79,8 @@
 2 Shambling Shell
 2 Prized Amalgam
 2 Golgari Thug
-2 Stinkweed Imp
 2 Whirlpool Rider
+2 Stinkweed Imp
 2 Bridge from Below
 2 Ichorid
 2 Hogaak, Arisen Necropolis
@@ -89,6 +89,7 @@
 2 Street Wraith
 3 Phantasmagorian
 3 Nether Shadow
+3 Golgari Thug
 3 Dread Return
 3 Prized Amalgam
 3 Stinkweed Imp
@@ -99,13 +100,12 @@
 3 Chancellor of the Annex
 3 Ichorid
 3 Whirlpool Rider
-3 Golgari Thug
 4 Phantasmagorian
+4 Narcomoeba
 4 Stinkweed Imp
 4 Prized Amalgam
-4 Narcomoeba
-4 Shambling Shell
 4 Golgari Thug
+4 Shambling Shell
 4 Bridge from Below
 4 Cabal Therapy
 4 Ichorid
@@ -115,12 +115,11 @@
 1 Plains
 2 Cavern of Souls
 1 Sylvan Library
-1 Birds of Paradise
-1 Scryb Ranger
 1 Noble Hierarch
 1 Mother of Runes
 1 Thalia, Guardian of Thraben
 1 Qasali Pridemage
+1 Birds of Paradise
 1 Karakas
 1 Abrupt Decay
 1 Ramunap Excavator
@@ -129,6 +128,7 @@
 1 Titania, Protector of Argoth
 1 Gaddock Teeg
 1 Scavenging Ooze
+1 Scryb Ranger
 1 Wasteland
 1 Knight of the Reliquary
 1 Swords to Plowshares
@@ -156,8 +156,8 @@
 3 Windswept Heath
 3 Savannah
 4 Abrupt Decay
-4 Windswept Heath
 4 Mother of Runes
+4 Windswept Heath
 4 Green Sun's Zenith
 1 Murderous Redcap
 1 Underground Sea

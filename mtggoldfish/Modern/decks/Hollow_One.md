@@ -58,6 +58,6 @@
 |                    2|[Verdant Catacombs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405113)    |                    1|[Inquisition of Kozilek](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416897)|
 |                    2|[Marsh Flats](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405101)          |                     |                                                                                                 |
 |                    2|[Lightning Skelemental](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464157)|                     |                                                                                                 |
-|                    4|[Lightning Skelemental](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464157)|                     |                                                                                                 |
 |                    3|[Lightning Skelemental](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464157)|                     |                                                                                                 |
+|                    4|[Lightning Skelemental](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464157)|                     |                                                                                                 |
 
