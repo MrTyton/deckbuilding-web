@@ -33,17 +33,17 @@
 
 # Other Options
 
-|*n*<sup>th</sup> copy|                                       Maindeck Card                                        |*n*<sup>th</sup> copy|                                    Sideboard Card                                     |
-|--------------------:|--------------------------------------------------------------------------------------------|--------------------:|---------------------------------------------------------------------------------------|
-|                    2|[Verdant Catacombs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405113)|                    1|[Dryad Arbor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=136196) |
-|                    3|[Verdant Catacombs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405113)|                    3|[Abrupt Decay](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456061)|
-|                    3|[Polluted Delta](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405104)   |                     |                                                                                       |
-|                    4|[Polluted Delta](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405104)   |                     |                                                                                       |
-|                    1|[Ghost Quarter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389534)    |                     |                                                                                       |
-|                    3|[Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)            |                     |                                                                                       |
-|                    4|[Verdant Catacombs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405113)|                     |                                                                                       |
-|                    4|[Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)            |                     |                                                                                       |
-|                    1|[Sylvan Safekeeper](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389709)|                     |                                                                                       |
-|                    2|[Sylvan Safekeeper](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389709)|                     |                                                                                       |
-|                    1|[Mana Confluence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409573)  |                     |                                                                                       |
+|*n*<sup>th</sup> copy|                                       Maindeck Card                                        |*n*<sup>th</sup> copy|                                       Sideboard Card                                       |
+|--------------------:|--------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------|
+|                    3|[Polluted Delta](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405104)   |                    1|[Dryad Arbor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=136196)      |
+|                    4|[Polluted Delta](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405104)   |                    2|[Sylvan Safekeeper](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389709)|
+|                    2|[Verdant Catacombs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405113)|                    3|[Abrupt Decay](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456061)     |
+|                    3|[Verdant Catacombs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405113)|                     |                                                                                            |
+|                    1|[Ghost Quarter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389534)    |                     |                                                                                            |
+|                    3|[Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)            |                     |                                                                                            |
+|                    4|[Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)            |                     |                                                                                            |
+|                    4|[Verdant Catacombs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405113)|                     |                                                                                            |
+|                    1|[Sylvan Safekeeper](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389709)|                     |                                                                                            |
+|                    2|[Sylvan Safekeeper](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389709)|                     |                                                                                            |
+|                    1|[Mana Confluence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409573)  |                     |                                                                                            |
 

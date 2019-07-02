@@ -39,6 +39,7 @@
 |                    3|[Ugin, the Spirit Dragon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391948)|                    3|[Sorcerous Spyglass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435407)|
 |                    1|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)                  |                    1|[Faerie Macabre](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=201822)    |
 |                    3|[Karakas](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413782)                |                    2|[Faerie Macabre](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=201822)    |
-|                     |                                                                                                  |                    3|[Faerie Macabre](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=201822)    |
-|                     |                                                                                                  |                    4|[Faerie Macabre](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=201822)    |
+|                    1|[Gemstone Caverns](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=122094)       |                    3|[Faerie Macabre](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=201822)    |
+|                    2|[Sorcerous Spyglass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435407)     |                    4|[Faerie Macabre](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=201822)    |
+|                    3|[Voltaic Key](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=207889)            |                     |                                                                                             |
 

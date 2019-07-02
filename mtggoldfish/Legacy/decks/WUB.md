@@ -1,7 +1,7 @@
 # WUB
 
 #### [Export MTGO List](../collection/WUB/WUB.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Brainstorm%0A2%09Cabal%20Therapy%0A4%09Chrome%20Mox%0A4%09Dark%20Ritual%0A4%09Echo%20of%20Eons%0A3%09Entomb%0A2%09Island%0A4%09Lion's%20Eye%20Diamond%0A4%09Lotus%20Petal%0A2%09Monastery%20Mentor%0A4%09Narset,%20Parter%20of%20Veils%0A4%09Polluted%20Delta%0A4%09Ponder%0A2%09Preordain%0A4%09Scalding%20Tarn%0A1%09Swamp%0A2%09Tendrils%20of%20Agony%0A4%09Thoughtseize%0A1%09Tundra%0A1%09Underground%20Sea&deckside=2%09Chain%20of%20Vapor%0A1%09Darkblast%0A3%09Defense%20Grid%0A2%09Echoing%20Truth%0A2%09Massacre%0A2%09Price%20of%20Betrayal%0A3%09Surgical%20Extraction)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Brainstorm%0A2%09Cabal%20Therapy%0A4%09Chrome%20Mox%0A4%09Dark%20Ritual%0A4%09Echo%20of%20Eons%0A3%09Entomb%0A2%09Island%0A4%09Lion's%20Eye%20Diamond%0A4%09Lotus%20Petal%0A2%09Monastery%20Mentor%0A4%09Narset,%20Parter%20of%20Veils%0A4%09Polluted%20Delta%0A4%09Ponder%0A2%09Preordain%0A4%09Scalding%20Tarn%0A1%09Swamp%0A2%09Tendrils%20of%20Agony%0A4%09Thoughtseize%0A1%09Tundra%0A1%09Underground%20Sea&deckside=1%09Chain%20of%20Vapor%0A1%09Darkblast%0A4%09Defense%20Grid%0A2%09Echoing%20Truth%0A2%09Massacre%0A2%09Price%20of%20Betrayal%0A3%09Surgical%20Extraction)
 # Maindeck
 
 |                                        Artifact (12)                                        |                                        Creature (2)                                         |                                    Instant (11)                                     |                                         Land (13)                                         |                                          Planeswalker (4)                                          |                                        Sorcery (18)                                         |
@@ -16,9 +16,9 @@
 
 # Sideboard
 
-|                                      Artifact (3)                                      |                                          Instant (8)                                           |                                         Sorcery (4)                                          |
+|                                      Artifact (4)                                      |                                          Instant (7)                                           |                                         Sorcery (4)                                          |
 |----------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
-|3 [Defense Grid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45481)|2 [Chain of Vapor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420701)     |2 [Massacre](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=21324)          |
+|4 [Defense Grid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45481)|1 [Chain of Vapor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420701)     |2 [Massacre](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=21324)          |
 |                                                                                        |1 [Darkblast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456055)          |2 [Price of Betrayal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461029)|
 |                                                                                        |2 [Echoing Truth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405212)      |                                                                                              |
 |                                                                                        |3 [Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|                                                                                              |
@@ -26,9 +26,13 @@
 
 # Other Options
 
-|*n*<sup>th</sup> copy|                                       Maindeck Card                                       |*n*<sup>th</sup> copy|                                    Sideboard Card                                    |
-|--------------------:|-------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------|
-|                    1|[Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)           |                    4|[Defense Grid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45481)|
-|                    2|[Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)           |                     |                                                                                      |
-|                    3|[Tendrils of Agony](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45842)|                     |                                                                                      |
+|*n*<sup>th</sup> copy|                                       Maindeck Card                                       |*n*<sup>th</sup> copy|                                       Sideboard Card                                       |
+|--------------------:|-------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------|
+|                    1|[Daze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=189255)            |                    1|[Silent Gravestone](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439846)|
+|                    1|[Infernal Tutor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107308)  |                    2|[Chain of Vapor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420701)   |
+|                    2|[Underground Sea](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=886)    |                     |                                                                                            |
+|                    2|[Daze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=189255)            |                     |                                                                                            |
+|                    1|[Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)           |                     |                                                                                            |
+|                    2|[Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)           |                     |                                                                                            |
+|                    3|[Tendrils of Agony](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45842)|                     |                                                                                            |
 

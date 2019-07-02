@@ -1,6 +1,6 @@
 11 Plains
-1 Judge's Familiar
 1 Island
+1 Judge's Familiar
 1 Mausoleum Wanderer
 2 Island
 2 Mausoleum Wanderer
@@ -24,17 +24,17 @@
 1 Narset's Reversal
 1 Jace, Wielder of Mysteries
 1 Mana Leak
+1 Spell Snare
 1 Faerie Miscreant
 1 Spellstutter Sprite
-1 Spell Snare
 1 Rune Snag
 1 Quickling
 1 Unsummon
 1 Favorable Winds
+2 Spell Snare
 2 Jace, Wielder of Mysteries
 2 Mana Leak
 2 Narset's Reversal
-2 Spell Snare
 2 Quickling
 2 Unsummon
 2 Faerie Miscreant
@@ -87,6 +87,7 @@
 3 Lightning Bolt
 4 Lightning Bolt
 1 Verdant Catacombs
+1 Polluted Delta
 1 Unearth
 1 Dreadhorde Arcanist
 1 Fatal Push
@@ -97,7 +98,6 @@
 1 Arid Mesa
 1 Thoughtseize
 1 Flamewake Phoenix
-1 Polluted Delta
 1 Gurmag Angler
 2 Unearth
 2 Fatal Push
@@ -126,25 +126,25 @@
 1 Walking Ballista
 1 Ranger-Captain of Eos
 1 Yawgmoth, Thran Physician
+1 Rhonas the Indomitable
 1 Murderous Redcap
 1 Duskwatch Recruiter
 1 Watery Grave
 1 Vizier of Remedies
 1 Devoted Druid
 1 Birds of Paradise
-1 Breeding Pool
 1 Hallowed Fountain
-1 Scavenging Ooze
 1 Teferi, Time Raveler
+1 Scavenging Ooze
 1 Finale of Devastation
 1 Kitchen Finks
 1 Overgrown Tomb
+1 Breeding Pool
 1 Noble Hierarch
 1 Windswept Heath
 1 Temple Garden
 1 Eternal Witness
 1 Horizon Canopy
-1 Rhonas the Indomitable
 1 Eladamri's Call
 1 Carrion Feeder
 1 Shalai, Voice of Plenty
@@ -181,16 +181,16 @@
 3 Lingering Souls
 4 Viscera Seer
 4 Lingering Souls
-1 Greater Gargadon
 1 Bridge from Below
+1 Greater Gargadon
 1 Stitcher's Supplier
 1 Insolent Neonate
 1 Gravecrawler
 1 Mayhem Devil
-2 Greater Gargadon
 2 Godless Shrine
 2 Marsh Flats
 2 Bridge from Below
+2 Greater Gargadon
 2 Gravecrawler
 2 Mayhem Devil
 2 Insolent Neonate
@@ -203,8 +203,8 @@
 3 Bridge from Below
 3 Greater Gargadon
 3 Gravecrawler
-4 Marsh Flats
 4 Blood Crypt
+4 Marsh Flats
 4 Bridge from Below
 4 Greater Gargadon
 4 Insolent Neonate
@@ -276,10 +276,10 @@
 1 Midnight Reaper
 1 Bloodthrone Vampire
 1 Doomed Traveler
-1 Hunted Witness
 1 Rally the Ancestors
 1 Promise of Bunrei
 1 Bontu the Glorified
+1 Hunted Witness
 1 Day of Judgment
 1 Walk the Plank
 1 Cast Down
@@ -290,10 +290,10 @@
 2 Rally the Ancestors
 2 Zulaport Cutthroat
 2 Bontu the Glorified
-2 Hunted Witness
 2 Cruel Celebrant
 2 Doomed Traveler
 2 Promise of Bunrei
+2 Hunted Witness
 2 Bloodflow Connoisseur
 2 Imperious Oligarch
 2 Grim Haruspex
@@ -309,19 +309,19 @@
 1 Lava Spike
 1 Soul-Scar Mage
 1 Monastery Swiftspear
+1 Apostle's Blessing
 1 Crash Through
 1 Warlord's Fury
 1 Young Pyromancer
-1 Apostle's Blessing
-1 Kiln Fiend
 1 Manamorphose
+1 Kiln Fiend
 1 Temur Battle Rage
 2 Lava Spike
 2 Soul-Scar Mage
 2 Monastery Swiftspear
+2 Apostle's Blessing
 2 Crash Through
 2 Young Pyromancer
-2 Apostle's Blessing
 2 Temur Battle Rage
 2 Warlord's Fury
 2 Manamorphose
@@ -340,9 +340,9 @@
 4 Monastery Swiftspear
 4 Mountain
 4 Temur Battle Rage
-4 Crash Through
 4 Manamorphose
 4 Kiln Fiend
+4 Crash Through
 5 Mountain
 6 Mountain
 7 Mountain

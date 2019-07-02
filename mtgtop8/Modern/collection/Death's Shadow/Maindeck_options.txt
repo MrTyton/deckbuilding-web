@@ -61,11 +61,11 @@
 4 Path to Exile
 4 Marsh Flats
 1 Snow-Covered Swamp
-1 Ghor-Clan Rampager
 1 Traverse the Ulvenwald
 1 Assassin's Trophy
-1 Tarfire
 1 Liliana of the Veil
+1 Tarfire
+1 Ghor-Clan Rampager
 2 Traverse the Ulvenwald
 3 Traverse the Ulvenwald
 1 Mutagenic Growth
@@ -74,10 +74,10 @@
 2 Mutagenic Growth
 2 Become Immense
 2 Monastery Swiftspear
+3 Become Immense
 3 Mutagenic Growth
 3 Temur Battle Rage
 3 Monastery Swiftspear
-3 Become Immense
 4 Temur Battle Rage
 4 Monastery Swiftspear
 3 Verdant Catacombs
@@ -91,18 +91,12 @@
 1 Grim Flayer
 1 Bloodbraid Elf
 1 Seal of Fire
+2 Kolaghan's Command
 2 Overgrown Tomb
 2 Grim Flayer
 2 Assassin's Trophy
 2 Bloodbraid Elf
-2 Kolaghan's Command
 4 Traverse the Ulvenwald
-1 Narnam Renegade
-1 Gruul Spellbreaker
-2 Narnam Renegade
-2 Gruul Spellbreaker
-3 Narnam Renegade
-4 Mutagenic Growth
 1 Opt
 1 Hex Parasite
 1 Force of Negation
@@ -111,6 +105,12 @@
 3 Opt
 4 Opt
 4 Snapcaster Mage
+1 Narnam Renegade
+1 Gruul Spellbreaker
+2 Narnam Renegade
+2 Gruul Spellbreaker
+3 Narnam Renegade
+4 Mutagenic Growth
 1 Windswept Heath
 1 Wild Nacatl
 2 Windswept Heath
