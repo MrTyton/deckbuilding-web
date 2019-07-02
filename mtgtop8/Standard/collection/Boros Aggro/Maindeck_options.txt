@@ -1,9 +1,3 @@
-2 Boros Guildgate
-6 Mountain
-1 Samut's Sprint
-2 Samut's Sprint
-1 Gird for Battle
-1 Dauntless Bodyguard
 2 Dauntless Bodyguard
 3 Dauntless Bodyguard
 4 Dauntless Bodyguard
@@ -15,8 +9,8 @@
 1 Snubhorn Sentry
 1 Benalish Marshal
 1 Venerated Loxodon
-1 Conclave Tribunal
 1 Law-Rune Enforcer
+1 Conclave Tribunal
 2 Conclave Tribunal
 2 Skymarcher Aspirant
 2 History of Benalia
@@ -39,24 +33,27 @@
 4 History of Benalia
 11 Plains
 12 Plains
-1 Aurelia, Exemplar of Justice
-2 Aurelia, Exemplar of Justice
+6 Mountain
+1 Boros Guildgate
+2 Boros Guildgate
+1 Gird for Battle
+1 Samut's Sprint
+2 Samut's Sprint
 1 Krenko, Tin Street Kingpin
 2 Krenko, Tin Street Kingpin
+1 Aurelia, Exemplar of Justice
+2 Aurelia, Exemplar of Justice
+3 Snubhorn Sentry
+4 Snubhorn Sentry
 3 Conclave Tribunal
 2 Gird for Battle
 3 Gird for Battle
 1 Tomik, Distinguished Advokist
-3 Gideon Blackblade
-1 Lyra Dawnbringer
 13 Plains
-3 Snubhorn Sentry
-4 Snubhorn Sentry
 1 Integrity / Intervention
 2 Integrity / Intervention
 1 Thrash / Threat
 4 Sheltering Light
-2 Lyra Dawnbringer
 1 Tajic, Legion's Edge
 2 Tajic, Legion's Edge
 1 Temple Garden
@@ -68,9 +65,10 @@
 2 Temple Garden
 3 Stomping Ground
 1 Shalai, Voice of Plenty
+1 Lyra Dawnbringer
 2 Shalai, Voice of Plenty
-3 Boros Guildgate
 2 Tomik, Distinguished Advokist
+3 Gideon Blackblade
 2 Dire Fleet Daredevil
 1 Forest
 2 Sunpetal Grove
@@ -78,15 +76,8 @@
 3 Temple Garden
 4 Temple Garden
 4 Stomping Ground
+2 Lyra Dawnbringer
 2 Thrash / Threat
-1 Settle the Wreckage
-1 Moment of Triumph
-1 Unbreakable Formation
-1 Electrostatic Field
-1 Arrester's Zeal
-2 Moment of Triumph
-2 Electrostatic Field
-2 Arrester's Zeal
 4 Conclave Tribunal
 3 Krenko, Tin Street Kingpin
 4 Gird for Battle
@@ -138,7 +129,6 @@
 1 Incubation Druid
 1 Ixalan's Binding
 1 Paradise Druid
-2 Trostani Discordant
 2 Vivien, Champion of the Wilds
 2 Knight of Autumn
 2 Lava Coil
@@ -146,6 +136,7 @@
 2 Incubation Druid
 2 Paradise Druid
 2 Ixalan's Binding
+2 Trostani Discordant
 3 Lava Coil
 3 Knight of Autumn
 3 Paradise Druid
@@ -156,12 +147,12 @@
 4 Incubation Druid
 4 Rootbound Crag
 4 Paradise Druid
-1 Risk Factor
 1 Tocatli Honor Guard
+1 Risk Factor
 1 Response / Resurgence
 1 Resplendent Angel
-2 Risk Factor
 2 Tocatli Honor Guard
+2 Risk Factor
 2 Resplendent Angel
 2 Response / Resurgence
 3 Tocatli Honor Guard
@@ -169,6 +160,7 @@
 3 Risk Factor
 3 Resplendent Angel
 3 Aurelia, Exemplar of Justice
+3 Boros Guildgate
 4 Tocatli Honor Guard
 4 Lyra Dawnbringer
 4 Resplendent Angel
@@ -187,8 +179,8 @@
 2 Godless Shrine
 3 Angrath's Rampage
 3 Sorin, Vengeful Bloodlord
-3 Isolated Chapel
 3 Blood Crypt
+3 Isolated Chapel
 3 Godless Shrine
 4 Sorin, Vengeful Bloodlord
 4 Godless Shrine
