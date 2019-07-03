@@ -61,10 +61,10 @@
 2 The Elderspell
 4 Interplanar Beacon
 1 Disdainful Stroke
-1 Chemister's Insight
-2 Chemister's Insight
 1 Shivan Fire
 2 Shivan Fire
+1 Chemister's Insight
+2 Chemister's Insight
 1 Captain Lannery Storm
 2 Captain Lannery Storm
 1 Sinister Sabotage
@@ -77,6 +77,10 @@
 2 Massacre Girl
 2 Liliana's Triumph
 3 Tyrant's Scorn
+1 Saheeli, Sublime Artificer
+2 Saheeli, Sublime Artificer
+2 Command the Dreadhorde
+3 Saheeli, Sublime Artificer
 1 Legion Warboss
 2 Legion Warboss
 3 Legion Warboss
@@ -85,10 +89,6 @@
 2 Spell Pierce
 2 Dreadhorde Invasion
 3 Dreadhorde Invasion
-1 Saheeli, Sublime Artificer
-2 Command the Dreadhorde
-2 Saheeli, Sublime Artificer
-3 Saheeli, Sublime Artificer
 1 Kasmina, Enigmatic Mentor
 2 Kasmina, Enigmatic Mentor
 2 Mountain
@@ -102,20 +102,20 @@
 3 Gleaming Overseer
 4 Widespread Brutality
 4 Gleaming Overseer
-1 Opt
 1 Niv-Mizzet, Parun
+1 Opt
 1 Ionize
 1 Dive Down
 1 Verix Bladewing
 1 Sarkhan, Fireblood
 1 Spit Flame
 1 Demanding Dragon
-2 Opt
 2 Niv-Mizzet, Parun
 2 Spit Flame
 2 Sarkhan, Fireblood
 2 Ionize
 2 Demanding Dragon
+2 Opt
 2 Dive Down
 3 Sarkhan, Fireblood
 3 Niv-Mizzet, Parun
@@ -125,8 +125,8 @@
 2 Ob Nixilis's Cruelty
 2 Karn, Scion of Urza
 3 Cast Down
-3 Karn, Scion of Urza
 3 The Elderspell
+3 Karn, Scion of Urza
 3 Island
 4 Island
 4 Swamp

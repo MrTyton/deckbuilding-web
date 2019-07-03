@@ -1,6 +1,7 @@
+1 Elesh Norn, Grand Cenobite
+1 Iona, Shield of Emeria
 1 Dryad Arbor
 1 Sakura-Tribe Elder
-1 Anger of the Gods
 1 Wooded Foothills
 1 Verdant Catacombs
 1 Wall of Roots
@@ -10,6 +11,7 @@
 1 Unburial Rites
 1 Evolving Wilds
 1 Flooded Strand
+1 Windswept Heath
 1 Tolaria West
 1 Platinum Emperion
 1 Remand
@@ -25,31 +27,28 @@
 1 Ghost Quarter
 1 Mana Confluence
 1 Farseek
-1 Knight of Autumn
 1 Traverse the Ulvenwald
 1 Snapcaster Mage
 1 Stomping Ground
 1 Pulse of Murasa
 1 Timely Reinforcements
 1 Tectonic Edge
-1 Assassin's Trophy
 1 Fatal Push
 2 Arid Mesa
-2 Stomping Ground
+2 Misty Rainforest
 2 Chord of Calling
-2 Restoration Angel
-2 Unmoored Ego
+2 Watery Grave
+2 Field of Ruin
+2 Thoughtseize
 2 Plains
 2 Growth Spiral
-2 Overgrown Tomb
-2 Breeding Pool
 2 Eternal Witness
-2 Windswept Heath
-2 Verdant Catacombs
-2 Assassin's Trophy
-2 Blood Crypt
+2 Breeding Pool
+2 Unmoored Ego
 2 Birds of Paradise
-2 Misty Rainforest
+2 Assassin's Trophy
+2 Abrupt Decay
+2 Restoration Angel
 2 Traverse the Ulvenwald
 2 Remand
 2 Scapeshift
@@ -58,12 +57,14 @@
 2 Sacred Foundry
 2 Wargate
 2 Bring to Light
+2 Windswept Heath
+2 Blood Crypt
 2 Sylvan Scrying
 2 Dreadbore
 2 Wooded Foothills
 2 Snapcaster Mage
-2 Thoughtseize
-2 Abrupt Decay
+2 Verdant Catacombs
+2 Overgrown Tomb
 2 Supply/Demand
 2 Marsh Flats
 2 Forest
@@ -74,9 +75,8 @@
 2 Summoner's Pact
 2 Mana Confluence
 2 Island
-2 Field of Ruin
+2 Stomping Ground
 2 Search for Tomorrow
-2 Watery Grave
 2 Farseek
 2 Knight of Autumn
 2 Pulse of Murasa
@@ -100,29 +100,30 @@
 2 Battle of Wits
 2 Valakut, the Molten Pinnacle
 3 Arid Mesa
-3 Island
-3 Mana Confluence
-3 Plains
-3 Chord of Calling
 3 Forest
+3 Mana Confluence
+3 Flooded Strand
+3 Island
+3 Chord of Calling
+3 Misty Rainforest
+3 Plains
 3 Growth Spiral
 3 Field of Ruin
-3 Verdant Catacombs
-3 Misty Rainforest
-3 Fatal Push
-3 Windswept Heath
 3 Steam Vents
 3 Birds of Paradise
 3 Assassin's Trophy
+3 Eternal Witness
+3 Fatal Push
+3 Unmoored Ego
+3 Thoughtseize
 3 Glittering Wish
 3 Supply/Demand
+3 Windswept Heath
 3 Maelstrom Pulse
 3 Evolving Wilds
-3 Flooded Strand
 3 Remand
 3 Wall of Roots
 3 Polluted Delta
-3 Unmoored Ego
 3 Search for Tomorrow
 3 Cultivate
 3 Farseek
@@ -137,11 +138,9 @@
 3 Restoration Angel
 3 Breeding Pool
 3 Snapcaster Mage
-3 Thoughtseize
 3 Stomping Ground
 3 Sakura-Tribe Elder
 3 Inquisition of Kozilek
-3 Eternal Witness
 3 Bring to Light
 3 Battle of Wits
 3 Dreadbore
@@ -153,29 +152,30 @@
 3 Abrupt Decay
 3 Gifts Ungiven
 3 Wooded Foothills
+3 Verdant Catacombs
 3 Izzet Charm
 4 Remand
 4 Arid Mesa
+4 Polluted Delta
 4 Sylvan Scrying
 4 Mana Confluence
 4 Chord of Calling
-4 Island
-4 Misty Rainforest
+4 Birds of Paradise
+4 Windswept Heath
+4 Wooded Foothills
 4 Inquisition of Kozilek
 4 Growth Spiral
-4 Verdant Catacombs
-4 Birds of Paradise
-4 Traverse the Ulvenwald
-4 Windswept Heath
+4 Flooded Strand
+4 Misty Rainforest
+4 Eternal Witness
 4 Abrupt Decay
 4 Sylvan Caryatid
 4 Field of Ruin
 4 Sakura-Tribe Elder
 4 Dreadbore
 4 Assassin's Trophy
+4 Verdant Catacombs
 4 Battle of Wits
-4 Polluted Delta
-4 Eternal Witness
 4 Glittering Wish
 4 Supply/Demand
 4 City of Brass
@@ -189,19 +189,19 @@
 4 Steam Vents
 4 Wargate
 4 Maelstrom Pulse
+4 Island
 4 Evolving Wilds
-4 Wooded Foothills
 4 Thoughtseize
 4 Madcap Experiment
 4 Fatal Push
 4 Eladamri's Call
 4 Izzet Charm
 4 Forest
+4 Traverse the Ulvenwald
 4 Snapcaster Mage
 4 Cultivate
 4 Farseek
 4 Wall of Roots
-4 Flooded Strand
 4 Bloodstained Mire
 5 Forest
 6 Forest

@@ -31,3 +31,11 @@
 |1 [Welding Jar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=48328)        |                                                                                          |                                                                                                    |                                                                                                |
 |1 [Witchbane Orb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=233240)     |                                                                                          |                                                                                                    |                                                                                                |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|Maindeck Card|*n*<sup>th</sup> copy|                                        Sideboard Card                                         |
+|---------------------|-------------|--------------------:|-----------------------------------------------------------------------------------------------|
+|                     |             |                    1|[Spellskite](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397743)          |
+|                     |             |                    1|[Ashiok, Dream Render](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461155)|
+

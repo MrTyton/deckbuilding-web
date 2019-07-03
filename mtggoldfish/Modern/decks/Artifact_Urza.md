@@ -39,8 +39,8 @@
 
 |*n*<sup>th</sup> copy|                                           Maindeck Card                                            |*n*<sup>th</sup> copy|                                       Sideboard Card                                       |
 |--------------------:|----------------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------|
-|                    2|[Glimmervoid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370425)              |                    1|[Neurok Stealthsuit](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=51183)|
-|                    3|[Glimmervoid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370425)              |                    1|[Walking Ballista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423848) |
+|                    2|[Glimmervoid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370425)              |                    1|[Walking Ballista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423848) |
+|                    3|[Glimmervoid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370425)              |                    1|[Neurok Stealthsuit](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=51183)|
 |                    1|[Spellskite](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397743)               |                    1|[Torpor Orb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=233069)       |
 |                    1|[Field of Ruin](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435415)            |                    1|[Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)   |
 |                    1|[Paradox Engine](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423836)           |                    2|[Welding Jar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=48328)       |

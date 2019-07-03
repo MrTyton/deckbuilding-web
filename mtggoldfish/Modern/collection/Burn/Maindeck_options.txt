@@ -1,5 +1,5 @@
-2 Sunbaked Canyon
 3 Sunbaked Canyon
+4 Wooded Foothills
 4 Sunbaked Canyon
 4 Bloodstained Mire
 1 Skullcrack
@@ -8,8 +8,11 @@
 2 Skullcrack
 4 Arid Mesa
 4 Mountain
+1 Light Up the Stage
+2 Light Up the Stage
 1 Atarka's Command
 2 Atarka's Command
+3 Light Up the Stage
 1 Copperline Gorge
 1 Wild Nacatl
 2 Copperline Gorge
@@ -19,29 +22,9 @@
 3 Atarka's Command
 4 Wild Nacatl
 4 Atarka's Command
-1 Light Up the Stage
-2 Light Up the Stage
 3 Copperline Gorge
 1 Fiery Islet
-3 Skullcrack
-3 Sacred Foundry
-3 Light Up the Stage
-1 Shard Volley
-2 Fiery Islet
-4 Skullcrack
-1 Force of Rage
-2 Force of Rage
-3 Force of Rage
-4 Force of Rage
-1 Fanatical Firebrand
-2 Fanatical Firebrand
-2 Shard Volley
-3 Fanatical Firebrand
-3 Shard Volley
-3 Fiery Islet
 4 Light Up the Stage
-4 Fanatical Firebrand
-4 Fiery Islet
 5 Mountain
 6 Mountain
 7 Mountain
@@ -50,9 +33,62 @@
 10 Mountain
 11 Mountain
 12 Mountain
-1 Scalding Tarn
+1 Shard Volley
+2 Fiery Islet
+3 Skullcrack
+3 Sacred Foundry
+1 Fanatical Firebrand
+2 Fanatical Firebrand
+2 Shard Volley
+3 Shard Volley
+3 Fanatical Firebrand
+3 Fiery Islet
+4 Fanatical Firebrand
+4 Fiery Islet
+1 Faithless Looting
+1 Manamorphose
+1 Lava Dart
+1 Arclight Phoenix
+1 Gut Shot
+1 Finale of Promise
+2 Faithless Looting
+2 Manamorphose
+2 Arclight Phoenix
+2 Lava Dart
+2 Gut Shot
+3 Lava Dart
+3 Arclight Phoenix
+3 Manamorphose
+3 Faithless Looting
+4 Arclight Phoenix
+4 Manamorphose
+4 Faithless Looting
+13 Mountain
+14 Mountain
+15 Mountain
+16 Mountain
+17 Mountain
 1 Surgical Extraction
 2 Surgical Extraction
+1 Risk Factor
+1 Tormenting Voice
+1 Bedlam Reveler
+1 Runaway Steam-Kin
+2 Bedlam Reveler
+2 Tormenting Voice
+2 Runaway Steam-Kin
+3 Runaway Steam-Kin
+4 Runaway Steam-Kin
+1 Force of Rage
+2 Force of Rage
+3 Force of Rage
+4 Force of Rage
+4 Skullcrack
+1 Mogg Fanatic
+2 Mogg Fanatic
+1 Scalding Tarn
+3 Gut Shot
+1 Crash Through
 1 Snow-Covered Mountain
 2 Scalding Tarn
 2 Snow-Covered Mountain
@@ -66,8 +102,10 @@
 2 Monastery Mentor
 3 Monastery Mentor
 4 Monastery Mentor
-1 Mogg Fanatic
-2 Mogg Fanatic
+1 Electrostatic Field
+2 Electrostatic Field
+3 Electrostatic Field
+4 Lava Dart
 3 Mogg Fanatic
-4 Mogg Fanatic
 4 Shard Volley
+4 Mogg Fanatic

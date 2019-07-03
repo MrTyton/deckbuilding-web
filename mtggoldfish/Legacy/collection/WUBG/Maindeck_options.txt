@@ -62,8 +62,8 @@
 1 Nether Shadow
 1 Phantasmagorian
 1 Prized Amalgam
-1 Stinkweed Imp
 1 Golgari Thug
+1 Stinkweed Imp
 1 Bridge from Below
 1 Ichorid
 1 Golgari Grave-Troll
@@ -74,8 +74,8 @@
 2 Phantasmagorian
 2 Shambling Shell
 2 Prized Amalgam
-2 Stinkweed Imp
 2 Golgari Thug
+2 Stinkweed Imp
 2 Bridge from Below
 2 Ichorid
 2 Hogaak, Arisen Necropolis
@@ -84,17 +84,17 @@
 3 Phantasmagorian
 3 Nether Shadow
 3 Dread Return
-3 Stinkweed Imp
-3 Prized Amalgam
 3 Golgari Thug
+3 Prized Amalgam
+3 Stinkweed Imp
 3 Shambling Shell
 3 Bridge from Below
 3 Golgari Grave-Troll
 3 Street Wraith
 3 Ichorid
 4 Phantasmagorian
-4 Narcomoeba
 4 Stinkweed Imp
+4 Narcomoeba
 4 Prized Amalgam
 4 Golgari Thug
 4 Bridge from Below
@@ -126,33 +126,33 @@
 1 Ramunap Excavator
 1 Karakas
 1 Titania, Protector of Argoth
-1 Leovold, Emissary of Trest
 1 Noble Hierarch
+1 Leovold, Emissary of Trest
 1 Mother of Runes
 1 Thalia, Guardian of Thraben
 1 Qasali Pridemage
 1 Birds of Paradise
-1 Abrupt Decay
 1 Wasteland
 1 Gaea's Cradle
+1 Abrupt Decay
 1 Sylvan Library
 1 Gaddock Teeg
 1 Scavenging Ooze
 1 Scryb Ranger
 1 Knight of the Reliquary
 1 Swords to Plowshares
-2 Abrupt Decay
 2 Birds of Paradise
 2 Mother of Runes
 2 Noble Hierarch
 2 Savannah
 2 Thalia, Guardian of Thraben
-2 Knight of the Reliquary
 2 Qasali Pridemage
+2 Knight of the Reliquary
+2 Leovold, Emissary of Trest
 2 Windswept Heath
 2 Swords to Plowshares
-2 Leovold, Emissary of Trest
 2 Wasteland
+2 Abrupt Decay
 2 Scrubland
 3 Noble Hierarch
 3 Thalia, Guardian of Thraben
@@ -199,12 +199,12 @@
 2 Tundra
 2 Force of Will
 2 Flooded Strand
-3 Underground Sea
 3 Recruiter of the Guard
 3 Cephalid Illusionist
 3 Flooded Strand
 3 Cavern of Souls
 3 Tundra
+3 Underground Sea
 3 Stoneforge Mystic
 3 Force of Will
 3 Brainstorm
