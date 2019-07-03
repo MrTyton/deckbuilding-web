@@ -101,7 +101,6 @@
 2 Valakut, the Molten Pinnacle
 3 Arid Mesa
 3 Forest
-3 Mana Confluence
 3 Flooded Strand
 3 Island
 3 Chord of Calling
@@ -121,6 +120,7 @@
 3 Windswept Heath
 3 Maelstrom Pulse
 3 Evolving Wilds
+3 Mana Confluence
 3 Remand
 3 Wall of Roots
 3 Polluted Delta
@@ -157,8 +157,9 @@
 4 Remand
 4 Arid Mesa
 4 Polluted Delta
-4 Sylvan Scrying
+4 City of Brass
 4 Mana Confluence
+4 Sylvan Scrying
 4 Chord of Calling
 4 Birds of Paradise
 4 Windswept Heath
@@ -178,7 +179,6 @@
 4 Battle of Wits
 4 Glittering Wish
 4 Supply/Demand
-4 City of Brass
 4 Restoration Angel
 4 Stomping Ground
 4 Scapeshift

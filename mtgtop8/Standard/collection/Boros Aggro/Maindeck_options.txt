@@ -33,14 +33,14 @@
 4 History of Benalia
 11 Plains
 12 Plains
+1 Gird for Battle
 6 Mountain
 1 Boros Guildgate
-2 Boros Guildgate
-1 Gird for Battle
-1 Samut's Sprint
-2 Samut's Sprint
 1 Krenko, Tin Street Kingpin
 2 Krenko, Tin Street Kingpin
+1 Samut's Sprint
+2 Samut's Sprint
+2 Boros Guildgate
 1 Aurelia, Exemplar of Justice
 2 Aurelia, Exemplar of Justice
 3 Snubhorn Sentry
@@ -49,6 +49,16 @@
 2 Gird for Battle
 3 Gird for Battle
 1 Tomik, Distinguished Advokist
+1 Temple Garden
+1 Stomping Ground
+1 Rootbound Crag
+2 Stomping Ground
+2 Rootbound Crag
+2 Temple Garden
+3 Stomping Ground
+3 Temple Garden
+4 Temple Garden
+4 Stomping Ground
 13 Plains
 1 Integrity / Intervention
 2 Integrity / Intervention
@@ -56,27 +66,21 @@
 4 Sheltering Light
 1 Tajic, Legion's Edge
 2 Tajic, Legion's Edge
-1 Temple Garden
+1 Collision / Colossus
+2 Collision / Colossus
 1 Sunpetal Grove
-1 Stomping Ground
-1 Rootbound Crag
-2 Stomping Ground
-2 Rootbound Crag
-2 Temple Garden
-3 Stomping Ground
-1 Shalai, Voice of Plenty
-1 Lyra Dawnbringer
-2 Shalai, Voice of Plenty
 2 Tomik, Distinguished Advokist
 3 Gideon Blackblade
 2 Dire Fleet Daredevil
 1 Forest
 2 Sunpetal Grove
 3 Sunpetal Grove
-3 Temple Garden
-4 Temple Garden
-4 Stomping Ground
-2 Lyra Dawnbringer
+1 Shalai, Voice of Plenty
+1 Lyra Dawnbringer
+2 Shalai, Voice of Plenty
+1 Moment of Triumph
+1 Deafening Clarion
+2 Deafening Clarion
 2 Thrash / Threat
 4 Conclave Tribunal
 3 Krenko, Tin Street Kingpin
@@ -110,10 +114,8 @@
 4 Lightning Strike
 4 Tomik, Distinguished Advokist
 4 Mox Amber
-1 Collision / Colossus
 1 Domri's Ambush
 1 Gruul Spellbreaker
-2 Collision / Colossus
 2 Domri's Ambush
 2 Gruul Spellbreaker
 3 Domri's Ambush
@@ -130,6 +132,7 @@
 1 Ixalan's Binding
 1 Paradise Druid
 2 Vivien, Champion of the Wilds
+2 Lyra Dawnbringer
 2 Knight of Autumn
 2 Lava Coil
 2 Vivien Reid
@@ -147,24 +150,6 @@
 4 Incubation Druid
 4 Rootbound Crag
 4 Paradise Druid
-1 Tocatli Honor Guard
-1 Risk Factor
-1 Response / Resurgence
-1 Resplendent Angel
-2 Tocatli Honor Guard
-2 Risk Factor
-2 Resplendent Angel
-2 Response / Resurgence
-3 Tocatli Honor Guard
-3 Lyra Dawnbringer
-3 Risk Factor
-3 Resplendent Angel
-3 Aurelia, Exemplar of Justice
-3 Boros Guildgate
-4 Tocatli Honor Guard
-4 Lyra Dawnbringer
-4 Resplendent Angel
-4 Risk Factor
 1 Isolated Chapel
 1 Blood Crypt
 1 Sorin, Vengeful Bloodlord

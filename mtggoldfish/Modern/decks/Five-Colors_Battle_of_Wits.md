@@ -147,7 +147,6 @@
 |                    2|[Valakut, the Molten Pinnacle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=190400)|                     |              |
 |                    3|[Arid Mesa](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405092)                   |                     |              |
 |                    3|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)                      |                     |              |
-|                    3|[Mana Confluence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409573)             |                     |              |
 |                    3|[Flooded Strand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405098)              |                     |              |
 |                    3|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)                      |                     |              |
 |                    3|[Chord of Calling](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383209)            |                     |              |
@@ -167,6 +166,7 @@
 |                    3|[Windswept Heath](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405115)             |                     |              |
 |                    3|[Maelstrom Pulse](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=180613)             |                     |              |
 |                    3|[Evolving Wilds](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426944)              |                     |              |
+|                    3|[Mana Confluence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409573)             |                     |              |
 |                    3|[Remand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=380255)                      |                     |              |
 |                    3|[Wall of Roots](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220566)               |                     |              |
 |                    3|[Polluted Delta](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405104)              |                     |              |
@@ -203,8 +203,9 @@
 |                    4|[Remand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=380255)                      |                     |              |
 |                    4|[Arid Mesa](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405092)                   |                     |              |
 |                    4|[Polluted Delta](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405104)              |                     |              |
-|                    4|[Sylvan Scrying](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=130513)              |                     |              |
+|                    4|[City of Brass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=4178)                 |                     |              |
 |                    4|[Mana Confluence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409573)             |                     |              |
+|                    4|[Sylvan Scrying](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=130513)              |                     |              |
 |                    4|[Chord of Calling](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383209)            |                     |              |
 |                    4|[Birds of Paradise](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129906)           |                     |              |
 |                    4|[Windswept Heath](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405115)             |                     |              |
@@ -224,7 +225,6 @@
 |                    4|[Battle of Wits](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=83133)               |                     |              |
 |                    4|[Glittering Wish](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=136157)             |                     |              |
 |                    4|[Supply/Demand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107464)               |                     |              |
-|                    4|[City of Brass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=4178)                 |                     |              |
 |                    4|[Restoration Angel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=240096)           |                     |              |
 |                    4|[Stomping Ground](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405110)             |                     |              |
 |                    4|[Scapeshift](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447337)                  |                     |              |
