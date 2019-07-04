@@ -46,11 +46,11 @@
 1 Wasteland Strangler
 2 Wasteland Strangler
 3 Wasteland Strangler
+1 Concealed Courtyard
 1 Tidehollow Sculler
 1 Swamp
-1 Concealed Courtyard
-2 Tidehollow Sculler
 2 Concealed Courtyard
+2 Tidehollow Sculler
 3 Concealed Courtyard
 4 Concealed Courtyard
 4 Restoration Angel
@@ -60,6 +60,7 @@
 1 Aurelia, Exemplar of Justice
 1 Militia Bugler
 1 Inspiring Vantage
+1 Sacred Foundry
 1 Mutavault
 1 Goblin Cratermaker
 1 Alesha, Who Smiles at Death
@@ -68,7 +69,6 @@
 1 Earthshaker Khenra
 1 Spellskite
 1 Knight of the White Orchid
-1 Sacred Foundry
 1 Fulminator Mage
 1 Angel of Invention
 1 Path of Mettle
@@ -123,9 +123,9 @@
 3 Dryad Militant
 1 Battlefield Forge
 1 Winds of Abandon
-2 Winds of Abandon
 2 Battlefield Forge
 2 Sunbaked Canyon
+2 Winds of Abandon
 3 Battlefield Forge
 3 Sunbaked Canyon
 4 Sunbaked Canyon
@@ -156,23 +156,23 @@
 4 Spell Queller
 4 Seachrome Coast
 1 Eternal Witness
-1 Stirring Wildwood
 1 Renegade Rallier
-1 Scavenging Ooze
+1 Stirring Wildwood
 1 Noble Hierarch
 1 Razorverge Thicket
 1 Temple Garden
 1 Windswept Heath
 1 Forest
+1 Scavenging Ooze
 1 Voice of Resurgence
 2 Renegade Rallier
-2 Scavenging Ooze
+2 Temple Garden
 2 Windswept Heath
 2 Noble Hierarch
 2 Forest
-2 Temple Garden
 2 Razorverge Thicket
 2 Eternal Witness
+2 Scavenging Ooze
 2 Voice of Resurgence
 3 Renegade Rallier
 3 Scavenging Ooze

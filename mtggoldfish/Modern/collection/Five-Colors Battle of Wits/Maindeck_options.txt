@@ -11,7 +11,6 @@
 1 Unburial Rites
 1 Evolving Wilds
 1 Flooded Strand
-1 Windswept Heath
 1 Tolaria West
 1 Platinum Emperion
 1 Remand
@@ -27,6 +26,7 @@
 1 Ghost Quarter
 1 Mana Confluence
 1 Farseek
+1 Knight of Autumn
 1 Traverse the Ulvenwald
 1 Snapcaster Mage
 1 Stomping Ground
@@ -38,17 +38,17 @@
 2 Misty Rainforest
 2 Chord of Calling
 2 Watery Grave
-2 Field of Ruin
 2 Thoughtseize
 2 Plains
 2 Growth Spiral
+2 Windswept Heath
 2 Eternal Witness
 2 Breeding Pool
+2 Stomping Ground
 2 Unmoored Ego
 2 Birds of Paradise
 2 Assassin's Trophy
 2 Abrupt Decay
-2 Restoration Angel
 2 Traverse the Ulvenwald
 2 Remand
 2 Scapeshift
@@ -57,7 +57,6 @@
 2 Sacred Foundry
 2 Wargate
 2 Bring to Light
-2 Windswept Heath
 2 Blood Crypt
 2 Sylvan Scrying
 2 Dreadbore
@@ -75,7 +74,7 @@
 2 Summoner's Pact
 2 Mana Confluence
 2 Island
-2 Stomping Ground
+2 Field of Ruin
 2 Search for Tomorrow
 2 Farseek
 2 Knight of Autumn
@@ -86,6 +85,7 @@
 2 Mountain
 2 Glittering Wish
 2 City of Brass
+2 Restoration Angel
 2 Evolving Wilds
 2 Cultivate
 2 Eladamri's Call
@@ -100,24 +100,23 @@
 2 Battle of Wits
 2 Valakut, the Molten Pinnacle
 3 Arid Mesa
-3 Forest
 3 Flooded Strand
 3 Island
-3 Chord of Calling
-3 Misty Rainforest
-3 Plains
-3 Growth Spiral
 3 Field of Ruin
+3 Chord of Calling
+3 Forest
+3 Growth Spiral
+3 Windswept Heath
 3 Steam Vents
 3 Birds of Paradise
 3 Assassin's Trophy
 3 Eternal Witness
 3 Fatal Push
+3 Misty Rainforest
 3 Unmoored Ego
 3 Thoughtseize
 3 Glittering Wish
 3 Supply/Demand
-3 Windswept Heath
 3 Maelstrom Pulse
 3 Evolving Wilds
 3 Mana Confluence
@@ -136,6 +135,7 @@
 3 Sylvan Scrying
 3 City of Brass
 3 Restoration Angel
+3 Plains
 3 Breeding Pool
 3 Snapcaster Mage
 3 Stomping Ground
@@ -162,12 +162,12 @@
 4 Sylvan Scrying
 4 Chord of Calling
 4 Birds of Paradise
-4 Windswept Heath
 4 Wooded Foothills
 4 Inquisition of Kozilek
 4 Growth Spiral
 4 Flooded Strand
 4 Misty Rainforest
+4 Windswept Heath
 4 Eternal Witness
 4 Abrupt Decay
 4 Sylvan Caryatid

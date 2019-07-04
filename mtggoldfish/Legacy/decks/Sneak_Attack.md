@@ -28,8 +28,8 @@
 |                    1|[Combustible Gearhulk](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417685)   |                    1|[Trinisphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=43545)|
 |                    2|[Combustible Gearhulk](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417685)   |                    2|[Trinisphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=43545)|
 |                    3|[Combustible Gearhulk](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417685)   |                    3|[Trinisphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=43545)|
-|                    4|[Combustible Gearhulk](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417685)   |                    4|[Trinisphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=43545)|
-|                    4|[Griselbrand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=239995)            |                     |                                                                                     |
+|                    4|[Griselbrand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=239995)            |                    4|[Trinisphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=43545)|
+|                    4|[Combustible Gearhulk](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417685)   |                     |                                                                                     |
 |                   10|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)               |                     |                                                                                     |
 |                    4|[Emrakul, the Aeons Torn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397905)|                     |                                                                                     |
 

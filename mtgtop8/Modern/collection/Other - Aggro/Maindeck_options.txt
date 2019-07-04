@@ -1,10 +1,10 @@
 1 Forest
 2 Forest
 3 Forest
+1 Canopy Vista
 1 Wild Defiance
 1 Unflinching Courage
 1 Fortified Village
-1 Canopy Vista
 1 Dromoka's Command
 1 Gryff's Boon
 1 Scattered Groves
@@ -72,9 +72,9 @@
 14 Island
 15 Island
 16 Island
+1 Mana Leak
 1 Narset's Reversal
 1 Jace, Wielder of Mysteries
-1 Mana Leak
 1 Spell Snare
 1 Faerie Miscreant
 1 Spellstutter Sprite
@@ -82,9 +82,9 @@
 1 Quickling
 1 Unsummon
 1 Favorable Winds
+2 Mana Leak
 2 Spell Snare
 2 Jace, Wielder of Mysteries
-2 Mana Leak
 2 Narset's Reversal
 2 Quickling
 2 Unsummon
@@ -144,8 +144,11 @@
 1 Ranger-Captain of Eos
 1 Yawgmoth, Thran Physician
 1 Rhonas the Indomitable
+1 Horizon Canopy
 1 Murderous Redcap
+1 Eternal Witness
 1 Duskwatch Recruiter
+1 Noble Hierarch
 1 Watery Grave
 1 Vizier of Remedies
 1 Devoted Druid
@@ -158,39 +161,36 @@
 1 Kitchen Finks
 1 Overgrown Tomb
 1 Breeding Pool
-1 Noble Hierarch
 1 Windswept Heath
 1 Temple Garden
-1 Eternal Witness
-1 Horizon Canopy
 1 Eladamri's Call
 1 Shalai, Voice of Plenty
-2 Eternal Witness
+2 Noble Hierarch
 2 Devoted Druid
 2 Birds of Paradise
 2 Finale of Devastation
+2 Eternal Witness
 2 Teferi, Time Raveler
 2 Kitchen Finks
-2 Noble Hierarch
 2 Verdant Catacombs
 2 Overgrown Tomb
 2 Eladamri's Call
 2 Windswept Heath
 2 Vizier of Remedies
-3 Teferi, Time Raveler
+3 Windswept Heath
 3 Noble Hierarch
 3 Finale of Devastation
 3 Devoted Druid
 3 Birds of Paradise
 3 Eladamri's Call
-3 Windswept Heath
+3 Teferi, Time Raveler
 3 Vizier of Remedies
+4 Windswept Heath
 4 Finale of Devastation
 4 Birds of Paradise
 4 Devoted Druid
 4 Vizier of Remedies
 4 Eladamri's Call
-4 Windswept Heath
 1 Caves of Koilos
 1 Concealed Courtyard
 2 Concealed Courtyard
@@ -270,11 +270,11 @@
 2 Greater Gargadon
 2 Mayhem Devil
 2 Insolent Neonate
-3 Marsh Flats
 3 Gravecrawler
 3 Stitcher's Supplier
 3 Mayhem Devil
 3 Insolent Neonate
+3 Marsh Flats
 3 Blood Crypt
 3 Bridge from Below
 3 Greater Gargadon
@@ -402,9 +402,9 @@
 3 Grand Architect
 4 Blinkmoth Nexus
 4 Master of Etherium
+4 Smuggler's Copter
 4 Lodestone Golem
 4 Walking Ballista
-4 Smuggler's Copter
 4 Etherium Sculptor
 4 Chief Engineer
 4 Grand Architect
