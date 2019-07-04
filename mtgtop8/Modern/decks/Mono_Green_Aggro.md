@@ -36,8 +36,8 @@
 
 |*n*<sup>th</sup> copy|                                          Maindeck Card                                          |*n*<sup>th</sup> copy|                                         Sideboard Card                                         |
 |--------------------:|-------------------------------------------------------------------------------------------------|--------------------:|------------------------------------------------------------------------------------------------|
-|                    1|[Dryad Militant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456369)        |                    1|[Naturalize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129656)           |
-|                    1|[Pelt Collector](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452891)        |                    1|[Amulet of Safekeeping](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447363)|
+|                    1|[Dryad Militant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456369)        |                    1|[Amulet of Safekeeping](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447363)|
+|                    1|[Pelt Collector](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452891)        |                    1|[Naturalize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129656)           |
 |                    1|[Kitchen Finks](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370458)         |                    1|[Nature's Way](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442756)         |
 |                    1|[Nature's Way](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442756)          |                    1|[Kitchen Finks](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370458)        |
 |                    1|[Rancor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442175)                |                    1|[Back to Nature](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=208284)       |

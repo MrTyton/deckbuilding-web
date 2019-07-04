@@ -43,6 +43,6 @@
 |                     |                                                                                                  |                    2|[Dismember](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382182)                    |
 |                     |                                                                                                  |                    1|[Cataclysmic Gearhulk](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417582)         |
 |                     |                                                                                                  |                    1|[Goblin Cannon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=48215)                 |
-|                     |                                                                                                  |                    2|[Ethersworn Canonist](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174931)          |
 |                     |                                                                                                  |                    2|[Seal of Cleansing](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405369)            |
+|                     |                                                                                                  |                    2|[Ethersworn Canonist](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174931)          |
 

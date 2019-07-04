@@ -1,5 +1,5 @@
-1 Cabal Therapy
 1 Young Pyromancer
+1 Cabal Therapy
 1 Thoughtseize
 1 Liliana, the Last Hope
 1 Vapor Snag
@@ -30,17 +30,17 @@
 4 Polluted Delta
 4 Aether Vial
 1 Renegade Rallier
+1 Sanctum Prelate
 1 Birds of Paradise
 1 Deputy of Detention
 1 Vendilion Clique
 1 Shalai, Voice of Plenty
 1 Gaddock Teeg
-1 Vivien, Champion of the Wilds
 1 Tundra
+1 Vivien, Champion of the Wilds
 1 Orzhov Pontiff
 1 Palace Jailer
 1 Knight of Autumn
-1 Sanctum Prelate
 1 Mother of Runes
 1 Tropical Island
 1 Bayou
@@ -138,31 +138,14 @@
 2 Flusterstorm
 2 Spell Pierce
 2 Nivmagus Elemental
-3 True-Name Nemesis
 3 Flusterstorm
+3 True-Name Nemesis
 3 Nivmagus Elemental
 3 Gut Shot
-4 True-Name Nemesis
 4 Nivmagus Elemental
 4 Flusterstorm
+4 True-Name Nemesis
 4 Gut Shot
-1 Snow-Covered Island
-1 Saheeli, Sublime Artificer
-1 Narset, Parter of Veils
-1 Echoing Truth
-1 Day's Undoing
-1 Cryptic Serpent
-1 Blast Zone
-1 Pteramander
-2 Snow-Covered Island
-2 Narset, Parter of Veils
-2 Pteramander
-3 Narset, Parter of Veils
-3 Stifle
-3 Pteramander
-4 Pteramander
-4 Stifle
-6 Island
 1 Spellseeker
 1 Abrade
 1 Adeliz, the Cinder Wind
@@ -183,3 +166,20 @@
 4 Scalding Tarn
 4 Spellseeker
 4 Cursecatcher
+1 Snow-Covered Island
+1 Saheeli, Sublime Artificer
+1 Narset, Parter of Veils
+1 Echoing Truth
+1 Day's Undoing
+1 Cryptic Serpent
+1 Blast Zone
+1 Pteramander
+2 Narset, Parter of Veils
+2 Snow-Covered Island
+2 Pteramander
+3 Narset, Parter of Veils
+3 Stifle
+3 Pteramander
+4 Pteramander
+4 Stifle
+6 Island
