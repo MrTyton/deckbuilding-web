@@ -1,4 +1,3 @@
-1 Elesh Norn, Grand Cenobite
 1 Iona, Shield of Emeria
 1 Dryad Arbor
 1 Sakura-Tribe Elder
@@ -33,21 +32,21 @@
 1 Pulse of Murasa
 1 Timely Reinforcements
 1 Tectonic Edge
+1 Assassin's Trophy
 1 Fatal Push
 2 Arid Mesa
-2 Misty Rainforest
 2 Chord of Calling
-2 Watery Grave
-2 Thoughtseize
 2 Plains
+2 Assassin's Trophy
 2 Growth Spiral
+2 Polluted Delta
 2 Windswept Heath
 2 Eternal Witness
 2 Breeding Pool
 2 Stomping Ground
-2 Unmoored Ego
 2 Birds of Paradise
-2 Assassin's Trophy
+2 Misty Rainforest
+2 Unmoored Ego
 2 Abrupt Decay
 2 Traverse the Ulvenwald
 2 Remand
@@ -62,6 +61,7 @@
 2 Dreadbore
 2 Wooded Foothills
 2 Snapcaster Mage
+2 Thoughtseize
 2 Verdant Catacombs
 2 Overgrown Tomb
 2 Supply/Demand
@@ -76,6 +76,7 @@
 2 Island
 2 Field of Ruin
 2 Search for Tomorrow
+2 Watery Grave
 2 Farseek
 2 Knight of Autumn
 2 Pulse of Murasa
@@ -92,7 +93,6 @@
 2 Izzet Charm
 2 Panglacial Wurm
 2 Sakura-Tribe Elder
-2 Polluted Delta
 2 Wall of Roots
 2 Fatal Push
 2 Inquisition of Kozilek
@@ -100,29 +100,27 @@
 2 Battle of Wits
 2 Valakut, the Molten Pinnacle
 3 Arid Mesa
-3 Flooded Strand
 3 Island
 3 Field of Ruin
 3 Chord of Calling
 3 Forest
+3 Polluted Delta
 3 Growth Spiral
 3 Windswept Heath
 3 Steam Vents
 3 Birds of Paradise
 3 Assassin's Trophy
 3 Eternal Witness
-3 Fatal Push
 3 Misty Rainforest
-3 Unmoored Ego
-3 Thoughtseize
 3 Glittering Wish
 3 Supply/Demand
 3 Maelstrom Pulse
 3 Evolving Wilds
+3 Flooded Strand
 3 Mana Confluence
 3 Remand
 3 Wall of Roots
-3 Polluted Delta
+3 Unmoored Ego
 3 Search for Tomorrow
 3 Cultivate
 3 Farseek
@@ -138,8 +136,10 @@
 3 Plains
 3 Breeding Pool
 3 Snapcaster Mage
+3 Thoughtseize
 3 Stomping Ground
 3 Sakura-Tribe Elder
+3 Fatal Push
 3 Inquisition of Kozilek
 3 Bring to Light
 3 Battle of Wits
@@ -156,7 +156,6 @@
 3 Izzet Charm
 4 Remand
 4 Arid Mesa
-4 Polluted Delta
 4 City of Brass
 4 Mana Confluence
 4 Sylvan Scrying
@@ -165,7 +164,6 @@
 4 Wooded Foothills
 4 Inquisition of Kozilek
 4 Growth Spiral
-4 Flooded Strand
 4 Misty Rainforest
 4 Windswept Heath
 4 Eternal Witness
@@ -177,6 +175,7 @@
 4 Assassin's Trophy
 4 Verdant Catacombs
 4 Battle of Wits
+4 Polluted Delta
 4 Glittering Wish
 4 Supply/Demand
 4 Restoration Angel
@@ -202,6 +201,7 @@
 4 Cultivate
 4 Farseek
 4 Wall of Roots
+4 Flooded Strand
 4 Bloodstained Mire
 5 Forest
 6 Forest
