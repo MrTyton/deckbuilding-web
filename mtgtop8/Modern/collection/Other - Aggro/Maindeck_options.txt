@@ -58,8 +58,8 @@
 2 Judge's Familiar
 3 Island
 3 Mausoleum Wanderer
-4 Mausoleum Wanderer
 4 Island
+4 Mausoleum Wanderer
 5 Island
 6 Island
 7 Island
@@ -112,8 +112,8 @@
 4 Favorable Winds
 17 Island
 1 Verdant Catacombs
-1 Fatal Push
 1 Tasigur, the Golden Fang
+1 Fatal Push
 1 Flamewake Phoenix
 2 Fatal Push
 2 Flamewake Phoenix
@@ -122,15 +122,15 @@
 4 Fatal Push
 1 Young Pyromancer
 2 Young Pyromancer
-1 Snow-Covered Mountain
 1 Sunbaked Canyon
 1 Reckless Charge
 1 Snow-Covered Swamp
 1 Goblin Bushwhacker
+1 Kolaghan's Command
 1 Hazoret the Fervent
 1 Rakdos Charm
-1 Kolaghan's Command
 1 Prismatic Vista
+1 Snow-Covered Mountain
 2 Snow-Covered Swamp
 2 Reckless Charge
 2 Snow-Covered Mountain
@@ -147,9 +147,9 @@
 1 Horizon Canopy
 1 Murderous Redcap
 1 Eternal Witness
+1 Watery Grave
 1 Duskwatch Recruiter
 1 Noble Hierarch
-1 Watery Grave
 1 Vizier of Remedies
 1 Devoted Druid
 1 Birds of Paradise
@@ -298,10 +298,10 @@
 1 Bontu the Glorified
 1 Hunted Witness
 1 Day of Judgment
-1 Walk the Plank
 1 Cast Down
 1 Bloodflow Connoisseur
 1 Imperious Oligarch
+1 Walk the Plank
 1 Grim Haruspex
 2 Shambling Vent
 2 Rally the Ancestors

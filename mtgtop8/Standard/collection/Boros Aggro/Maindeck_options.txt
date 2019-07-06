@@ -46,8 +46,6 @@
 3 Snubhorn Sentry
 4 Snubhorn Sentry
 3 Conclave Tribunal
-2 Gird for Battle
-3 Gird for Battle
 1 Tomik, Distinguished Advokist
 1 Temple Garden
 1 Stomping Ground
@@ -56,6 +54,7 @@
 2 Rootbound Crag
 2 Temple Garden
 3 Stomping Ground
+3 Gideon Blackblade
 3 Temple Garden
 4 Temple Garden
 4 Stomping Ground
@@ -63,6 +62,8 @@
 1 Integrity / Intervention
 2 Integrity / Intervention
 1 Thrash / Threat
+2 Gird for Battle
+3 Gird for Battle
 4 Sheltering Light
 1 Tajic, Legion's Edge
 2 Tajic, Legion's Edge
@@ -70,7 +71,6 @@
 2 Collision / Colossus
 1 Sunpetal Grove
 2 Tomik, Distinguished Advokist
-3 Gideon Blackblade
 2 Dire Fleet Daredevil
 1 Forest
 2 Sunpetal Grove
@@ -87,6 +87,14 @@
 4 Gird for Battle
 3 Samut's Sprint
 4 Samut's Sprint
+1 Temple of Triumph
+1 Gods Willing
+2 Gods Willing
+2 Temple of Triumph
+3 Gods Willing
+3 Temple of Triumph
+4 Temple of Triumph
+4 Gods Willing
 1 Mobilized District
 1 Domri, Anarch of Bolas
 1 Jaya's Immolating Inferno
@@ -106,10 +114,10 @@
 2 Mox Amber
 3 Mobilized District
 3 Tomik, Distinguished Advokist
+3 Lightning Strike
 3 Mox Amber
 3 Jaya's Immolating Inferno
 3 Captain Lannery Storm
-3 Lightning Strike
 4 Mobilized District
 4 Tomik, Distinguished Advokist
 4 Lightning Strike
@@ -150,24 +158,3 @@
 4 Incubation Druid
 4 Rootbound Crag
 4 Paradise Druid
-1 Isolated Chapel
-1 Blood Crypt
-1 Sorin, Vengeful Bloodlord
-1 Godless Shrine
-1 Angrath's Rampage
-1 Dragonskull Summit
-2 Isolated Chapel
-2 Angrath's Rampage
-2 Blood Crypt
-2 Sorin, Vengeful Bloodlord
-2 Dragonskull Summit
-2 Godless Shrine
-3 Angrath's Rampage
-3 Sorin, Vengeful Bloodlord
-3 Blood Crypt
-3 Isolated Chapel
-3 Godless Shrine
-4 Sorin, Vengeful Bloodlord
-4 Godless Shrine
-4 Isolated Chapel
-4 Blood Crypt
