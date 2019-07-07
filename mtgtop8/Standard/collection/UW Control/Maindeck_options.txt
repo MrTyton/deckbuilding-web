@@ -45,8 +45,8 @@
 6 Plains
 7 Plains
 1 Evolving Wilds
-1 Saheeli, Sublime Artificer
 1 God-Pharaoh's Statue
+1 Saheeli, Sublime Artificer
 1 Gideon's Triumph
 1 Wizard's Retort
 1 The Wanderer
@@ -77,6 +77,7 @@
 3 Dovin's Veto
 1 Finale of Glory
 1 Finale of Revelation
+1 Mission Briefing
 1 Quench
 1 Sinister Sabotage
 1 Reliquary Tower
@@ -84,7 +85,6 @@
 1 Azor's Gateway
 1 Arch of Orazca
 1 The Immortal Sun
-1 Mission Briefing
 1 Angel of Grace
 1 Devious Cover-Up
 1 Cleansing Nova
@@ -108,11 +108,6 @@
 3 Opt
 4 Syncopate
 4 Opt
-3 Narset, Parter of Veils
-3 Shalai, Voice of Plenty
-4 Narset, Parter of Veils
-4 Dovin, Hand of Control
-4 Interplanar Beacon
 1 Lazotep Plating
 1 Revitalize
 2 Revitalize
@@ -120,3 +115,8 @@
 3 Revitalize
 4 Augur of Bolas
 4 Time Wipe
+3 Narset, Parter of Veils
+3 Shalai, Voice of Plenty
+4 Dovin, Hand of Control
+4 Interplanar Beacon
+4 Narset, Parter of Veils
