@@ -1,9 +1,9 @@
-1 Sakura-Tribe Elder
 1 Wooded Foothills
 1 Verdant Catacombs
 1 Wall of Roots
 1 Cultivate
 1 Supply/Demand
+1 Misty Rainforest
 1 Izzet Charm
 1 Unburial Rites
 1 Evolving Wilds
@@ -34,6 +34,7 @@
 1 Tectonic Edge
 1 Assassin's Trophy
 1 Fatal Push
+2 Temple Garden
 2 Arid Mesa
 2 Chord of Calling
 2 Unmoored Ego
@@ -42,9 +43,7 @@
 2 Polluted Delta
 2 Growth Spiral
 2 Eternal Witness
-2 Breeding Pool
 2 Sacred Foundry
-2 Misty Rainforest
 2 Abrupt Decay
 2 Traverse the Ulvenwald
 2 Remand
@@ -92,14 +91,16 @@
 2 Eladamri's Call
 2 Izzet Charm
 2 Panglacial Wurm
+2 Breeding Pool
 2 Sakura-Tribe Elder
 2 Wall of Roots
 2 Fatal Push
 2 Inquisition of Kozilek
-2 Temple Garden
+2 Misty Rainforest
 2 Battle of Wits
 2 Valakut, the Molten Pinnacle
 3 Island
+3 Breeding Pool
 3 Field of Ruin
 3 Chord of Calling
 3 Polluted Delta
@@ -109,7 +110,6 @@
 3 Assassin's Trophy
 3 Eternal Witness
 3 Arid Mesa
-3 Misty Rainforest
 3 Glittering Wish
 3 Supply/Demand
 3 Windswept Heath
@@ -122,6 +122,7 @@
 3 Unmoored Ego
 3 Search for Tomorrow
 3 Cultivate
+3 Misty Rainforest
 3 Farseek
 3 Marsh Flats
 3 Slaughter Games
@@ -133,7 +134,6 @@
 3 City of Brass
 3 Restoration Angel
 3 Plains
-3 Breeding Pool
 3 Forest
 3 Snapcaster Mage
 3 Thoughtseize
@@ -157,14 +157,13 @@
 4 Remand
 4 City of Brass
 4 Mana Confluence
+4 Misty Rainforest
 4 Sylvan Scrying
 4 Chord of Calling
-4 Island
 4 Birds of Paradise
 4 Wooded Foothills
 4 Inquisition of Kozilek
 4 Growth Spiral
-4 Misty Rainforest
 4 Arid Mesa
 4 Eternal Witness
 4 Abrupt Decay
@@ -189,6 +188,7 @@
 4 Steam Vents
 4 Wargate
 4 Maelstrom Pulse
+4 Island
 4 Evolving Wilds
 4 Thoughtseize
 4 Madcap Experiment

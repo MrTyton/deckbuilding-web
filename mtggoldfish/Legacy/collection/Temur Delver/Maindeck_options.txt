@@ -3,6 +3,7 @@
 3 Polluted Delta
 1 Dismember
 4 Polluted Delta
+3 Flooded Strand
 3 Tarmogoyf
 1 Chain Lightning
 1 Wooded Foothills
@@ -11,7 +12,6 @@
 4 Tarmogoyf
 1 Hooting Mandrills
 2 Hooting Mandrills
-3 Flooded Strand
 3 True-Name Nemesis
 1 Preordain
 2 Wooded Foothills
@@ -28,11 +28,6 @@
 2 Lonely Sandbar
 1 Force of Negation
 2 Force of Negation
-1 Hexdrinker
-1 Fiery Islet
-2 Hexdrinker
-3 Hexdrinker
-4 Hexdrinker
 1 Dreadhorde Arcanist
 1 Island
 1 Vapor Snag
@@ -41,5 +36,10 @@
 2 Grim Lavamancer
 2 Island
 4 Volcanic Island
+1 Hexdrinker
+1 Fiery Islet
+2 Hexdrinker
+3 Hexdrinker
+4 Hexdrinker
 4 Misty Rainforest
 3 Wooded Foothills

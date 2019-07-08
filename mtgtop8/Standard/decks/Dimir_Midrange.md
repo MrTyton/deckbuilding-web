@@ -64,6 +64,6 @@
 |                    4|[Sinister Sabotage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452804)      |                     |                                                                                                |
 |                    4|Discovery / Dispersal                                                                             |                     |                                                                                                |
 |                    4|[Thoughtbound Phantasm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452805)  |                     |                                                                                                |
-|                    4|[Dimir Spybug](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452916)           |                     |                                                                                                |
 |                    8|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)                  |                     |                                                                                                |
+|                    4|[Dimir Spybug](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452916)           |                     |                                                                                                |
 

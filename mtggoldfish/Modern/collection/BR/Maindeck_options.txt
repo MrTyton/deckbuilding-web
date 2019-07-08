@@ -1,5 +1,49 @@
-1 Mountain
-2 Mountain
+1 Dreadhorde Arcanist
+1 Snow-Covered Swamp
+1 Snow-Covered Mountain
+1 Unearth
+1 Goblin Bushwhacker
+1 Kolaghan's Command
+1 Gurmag Angler
+1 Lightning Skelemental
+1 Rakdos Charm
+1 Thoughtseize
+1 Wooded Foothills
+1 Young Pyromancer
+1 Polluted Delta
+1 Hazoret the Fervent
+1 Reckless Charge
+2 Dreadhorde Arcanist
+2 Snow-Covered Mountain
+2 Snow-Covered Swamp
+2 Young Pyromancer
+2 Thoughtseize
+2 Reckless Charge
+2 Gurmag Angler
+2 Unearth
+2 Lightning Skelemental
+3 Snow-Covered Swamp
+3 Unearth
+3 Young Pyromancer
+3 Thoughtseize
+3 Dreadhorde Arcanist
+3 Lightning Skelemental
+4 Young Pyromancer
+4 Bloodstained Mire
+4 Blackcleave Cliffs
+4 Lightning Skelemental
+4 Dreadhorde Arcanist
+4 Thoughtseize
+4 Unearth
+1 Bump in the Night
+1 Scalding Tarn
+2 Scalding Tarn
+2 Arid Mesa
+2 Bump in the Night
+3 Arid Mesa
+3 Scalding Tarn
+3 Bump in the Night
+4 Bump in the Night
 3 Mountain
 4 Mountain
 5 Mountain
@@ -41,44 +85,8 @@
 4 Arclight Phoenix
 4 Manamorphose
 4 Bedlam Reveler
-2 Sunbaked Canyon
-1 Fiery Islet
-2 Fiery Islet
-1 Monastery Swiftspear
-1 Searing Blaze
-1 Skullcrack
-1 Skewer the Critics
-1 Lava Spike
-1 Eidolon of the Great Revel
-1 Rift Bolt
-1 Shard Volley
-1 Goblin Guide
-2 Monastery Swiftspear
-2 Searing Blaze
-2 Skewer the Critics
-2 Goblin Guide
-2 Lava Spike
-2 Shard Volley
-2 Eidolon of the Great Revel
-2 Rift Bolt
-3 Monastery Swiftspear
-3 Searing Blaze
-3 Eidolon of the Great Revel
-3 Lava Spike
-3 Skewer the Critics
-3 Shard Volley
-3 Rift Bolt
-3 Goblin Guide
-4 Monastery Swiftspear
-4 Eidolon of the Great Revel
-4 Rift Bolt
-4 Skewer the Critics
-4 Lava Spike
-4 Goblin Guide
-4 Shard Volley
 1 Ramunap Ruins
 1 Blast Zone
-1 Chalice of the Void
 1 Gemstone Caverns
 1 Eldrazi Obligator
 1 Thought-Knot Seer
@@ -90,6 +98,7 @@
 1 Eldrazi Mimic
 1 Simian Spirit Guide
 1 Dismember
+1 Chalice of the Void
 2 Dismember
 2 Gemstone Caverns
 2 Simian Spirit Guide
@@ -111,13 +120,13 @@
 3 Reality Smasher
 3 Eldrazi Obligator
 3 Thought-Knot Seer
+4 Simian Spirit Guide
 4 Chalice of the Void
 4 Eldrazi Obligator
 4 Reality Smasher
 4 Eternal Scourge
 4 Thought-Knot Seer
 4 Eldrazi Mimic
-4 Simian Spirit Guide
 4 Serum Powder
 4 Eldrazi Temple
 3 Sunbaked Canyon
@@ -145,15 +154,6 @@
 3 Icon of Ancestry
 3 Ramunap Ruins
 4 Ramunap Ruins
-1 Bump in the Night
-1 Scalding Tarn
-2 Scalding Tarn
-2 Arid Mesa
-2 Bump in the Night
-3 Arid Mesa
-3 Scalding Tarn
-3 Bump in the Night
-4 Bump in the Night
 1 Krenko, Mob Boss
 1 Goblin Cratermaker
 1 Munitions Expert
@@ -176,18 +176,18 @@
 1 Warren Instigator
 1 Goblin Chainwhirler
 2 Tarfire
+2 Cavern of Souls
 2 Munitions Expert
 2 Goblin Ringleader
 2 Goblin Matron
 2 Aether Vial
 2 Mogg War Marshal
 2 Auntie's Hovel
-2 Cavern of Souls
 2 Warren Instigator
 2 Goblin Warchief
 3 Goblin Warchief
-3 Mogg War Marshal
 3 Cavern of Souls
+3 Mogg War Marshal
 3 Aether Vial
 3 Goblin Ringleader
 3 Blood Crypt
@@ -195,10 +195,10 @@
 3 Auntie's Hovel
 3 Goblin Matron
 4 Goblin Warchief
+4 Cavern of Souls
 4 Goblin Matron
 4 Auntie's Hovel
 4 Warren Instigator
-4 Cavern of Souls
 4 Goblin Ringleader
 4 Aether Vial
 4 Blood Crypt

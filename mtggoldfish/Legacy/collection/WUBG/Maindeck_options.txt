@@ -6,8 +6,8 @@
 2 Green Sun's Zenith
 1 Misty Rainforest
 1 Utopia Sprawl
+1 Wooded Foothills
 1 Serra's Sanctum
-1 Ground Seal
 1 Solitary Confinement
 1 Oblivion Ring
 1 Enchantress's Presence
@@ -18,22 +18,22 @@
 1 Argothian Enchantress
 1 Cast Out
 1 Estrid's Invocation
-1 Wooded Foothills
 1 Abundant Growth
 1 Wild Growth
-2 Misty Rainforest
+1 Ground Seal
 2 Utopia Sprawl
-2 Ground Seal
+2 Misty Rainforest
 2 Oblivion Ring
+2 Ground Seal
 2 Elephant Grass
 2 Forest
+2 Serra's Sanctum
 2 Enchantress's Presence
 2 Estrid's Invocation
 2 Wild Growth
 2 Cast Out
 2 Abundant Growth
 2 Argothian Enchantress
-2 Serra's Sanctum
 3 Utopia Sprawl
 3 Forest
 3 Argothian Enchantress
@@ -62,8 +62,8 @@
 1 Nether Shadow
 1 Phantasmagorian
 1 Prized Amalgam
-1 Golgari Thug
 1 Stinkweed Imp
+1 Golgari Thug
 1 Bridge from Below
 1 Ichorid
 1 Golgari Grave-Troll
@@ -84,10 +84,10 @@
 3 Phantasmagorian
 3 Nether Shadow
 3 Dread Return
-3 Golgari Thug
-3 Prized Amalgam
 3 Stinkweed Imp
+3 Prized Amalgam
 3 Shambling Shell
+3 Golgari Thug
 3 Bridge from Below
 3 Golgari Grave-Troll
 3 Street Wraith
@@ -96,12 +96,12 @@
 4 Stinkweed Imp
 4 Prized Amalgam
 4 Narcomoeba
-4 Golgari Thug
 4 Bridge from Below
-4 Cabal Therapy
+4 Golgari Thug
 4 Ichorid
 4 Golgari Grave-Troll
 4 Street Wraith
+4 Cabal Therapy
 1 Flayer of the Hatebound
 1 Balustrade Spy
 1 Creeping Chill
@@ -124,8 +124,8 @@
 1 Plains
 2 Cavern of Souls
 1 Ramunap Excavator
-1 Karakas
 1 Titania, Protector of Argoth
+1 Wasteland
 1 Noble Hierarch
 1 Scryb Ranger
 1 Leovold, Emissary of Trest
@@ -133,8 +133,8 @@
 1 Thalia, Guardian of Thraben
 1 Qasali Pridemage
 1 Birds of Paradise
-1 Wasteland
 1 Gaea's Cradle
+1 Karakas
 1 Abrupt Decay
 1 Sylvan Library
 1 Gaddock Teeg
@@ -143,15 +143,15 @@
 1 Swords to Plowshares
 2 Birds of Paradise
 2 Mother of Runes
+2 Wasteland
 2 Noble Hierarch
 2 Savannah
 2 Thalia, Guardian of Thraben
 2 Knight of the Reliquary
-2 Leovold, Emissary of Trest
 2 Qasali Pridemage
 2 Windswept Heath
 2 Swords to Plowshares
-2 Wasteland
+2 Leovold, Emissary of Trest
 2 Abrupt Decay
 2 Scrubland
 3 Noble Hierarch
@@ -170,18 +170,18 @@
 4 Green Sun's Zenith
 1 Murderous Redcap
 1 Recruiter of the Guard
-1 Scalding Tarn
+1 Island
+1 Teferi, Time Raveler
 1 Cephalid Illusionist
 1 Lord of Extinction
 1 The Mimeoplasm
 1 Shuko
 1 Nomads en-Kor
 1 Brainstorm
-1 Teferi, Time Raveler
-1 Island
 1 Flooded Strand
 1 Aether Vial
 1 Ponder
+1 Scalding Tarn
 1 Tundra
 1 Grand Abolisher
 1 Batterskull

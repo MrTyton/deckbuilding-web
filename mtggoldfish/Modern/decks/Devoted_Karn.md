@@ -1,7 +1,7 @@
 # Devoted Karn
 
 #### [Export MTGO List](../collection/Devoted%20Karn/Devoted%20Karn.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=1%09Acidic%20Slime%0A4%09Arbor%20Elf%0A1%09Courser%20of%20Kruphix%0A4%09Devoted%20Druid%0A1%09Dryad%20Arbor%0A2%09Duskwatch%20Recruiter%0A1%09Eternal%20Witness%0A4%09Finale%20of%20Devastation%0A10%09Forest%0A1%09Gemstone%20Caverns%0A2%09Horizon%20Canopy%0A4%09Karn,%20the%20Great%20Creator%0A1%09Misty%20Rainforest%0A2%09Noble%20Hierarch%0A1%09Phyrexian%20Revoker%0A4%09Primal%20Command%0A1%09Scavenging%20Ooze%0A2%09Simian%20Spirit%20Guide%0A1%09Temple%20Garden%0A4%09Utopia%20Sprawl%0A2%09Verdant%20Catacombs%0A1%09Vizier%20of%20Remedies%0A3%09Walking%20Ballista%0A1%09Windswept%20Heath%0A2%09Wooded%20Foothills&deckside=1%09Damping%20Sphere%0A1%09Ensnaring%20Bridge%0A1%09Liquimetal%20Coating%0A1%09Mycosynth%20Lattice%0A1%09Omen%20Machine%0A1%09Pithing%20Needle%0A1%09Ratchet%20Bomb%0A1%09Simian%20Spirit%20Guide%0A4%09Tormod's%20Crypt%0A1%09Trinisphere%0A1%09Walking%20Ballista%0A1%09Wurmcoil%20Engine)
+#### [Print on decklist.org](http://decklist.org/?deckmain=1%09Acidic%20Slime%0A4%09Arbor%20Elf%0A1%09Courser%20of%20Kruphix%0A4%09Devoted%20Druid%0A1%09Dryad%20Arbor%0A2%09Duskwatch%20Recruiter%0A1%09Eternal%20Witness%0A4%09Finale%20of%20Devastation%0A10%09Forest%0A1%09Gemstone%20Caverns%0A2%09Horizon%20Canopy%0A4%09Karn,%20the%20Great%20Creator%0A1%09Misty%20Rainforest%0A2%09Noble%20Hierarch%0A1%09Phyrexian%20Revoker%0A4%09Primal%20Command%0A1%09Scavenging%20Ooze%0A2%09Simian%20Spirit%20Guide%0A1%09Temple%20Garden%0A4%09Utopia%20Sprawl%0A2%09Verdant%20Catacombs%0A1%09Vizier%20of%20Remedies%0A3%09Walking%20Ballista%0A1%09Windswept%20Heath%0A2%09Wooded%20Foothills&deckside=1%09Chalice%20of%20the%20Void%0A1%09Damping%20Sphere%0A1%09Ensnaring%20Bridge%0A1%09Liquimetal%20Coating%0A1%09Mycosynth%20Lattice%0A1%09Pithing%20Needle%0A1%09Ratchet%20Bomb%0A1%09Simian%20Spirit%20Guide%0A4%09Tormod's%20Crypt%0A1%09Trinisphere%0A1%09Walking%20Ballista%0A1%09Wurmcoil%20Engine)
 # Maindeck
 
 |                                         Creature (23)                                          |                                     Enchantment (4)                                      |                                          Land (21)                                           |                                          Planeswalker (4)                                          |                                           Sorcery (8)                                            |
@@ -22,24 +22,24 @@
 
 # Sideboard
 
-|                                         Artifact (12)                                         |                                          Creature (3)                                          |
-|-----------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
-|1 [Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)    |1 [Simian Spirit Guide](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442137)|
-|1 [Ensnaring Bridge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=15866)   |1 [Walking Ballista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423848)   |
-|1 [Liquimetal Coating](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389578)|1 [Wurmcoil Engine](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389756)    |
-|1 [Mycosynth Lattice](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446209) |                                                                                                |
-|1 [Omen Machine](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=233042)      |                                                                                                |
-|1 [Pithing Needle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129526)    |                                                                                                |
-|1 [Ratchet Bomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370623)      |                                                                                                |
-|4 [Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)    |                                                                                                |
-|1 [Trinisphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=43545)        |                                                                                                |
+|                                         Artifact (12)                                          |                                          Creature (3)                                          |
+|------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
+|1 [Chalice of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442211)|1 [Simian Spirit Guide](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442137)|
+|1 [Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)     |1 [Walking Ballista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423848)   |
+|1 [Ensnaring Bridge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=15866)    |1 [Wurmcoil Engine](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389756)    |
+|1 [Liquimetal Coating](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389578) |                                                                                                |
+|1 [Mycosynth Lattice](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446209)  |                                                                                                |
+|1 [Pithing Needle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129526)     |                                                                                                |
+|1 [Ratchet Bomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370623)       |                                                                                                |
+|4 [Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)     |                                                                                                |
+|1 [Trinisphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=43545)         |                                                                                                |
 
 
 # Other Options
 
 |*n*<sup>th</sup> copy|                                         Maindeck Card                                          |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
 |--------------------:|------------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
-|                    1|[Remorseful Cleric](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447169)    |                    1|[Chalice of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442211)|
+|                    1|[Remorseful Cleric](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447169)    |                    1|[Omen Machine](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=233042)       |
 |                    3|[Simian Spirit Guide](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442137)  |                    2|[Simian Spirit Guide](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442137)|
 |                    1|[Trinisphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=43545)           |                    1|[Tireless Tracker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409997)   |
 |                    1|[Tireless Tracker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409997)     |                    1|[Tocatli Honor Guard](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435194)|

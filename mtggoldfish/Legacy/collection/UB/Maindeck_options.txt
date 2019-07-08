@@ -1,10 +1,76 @@
+1 Baleful Strix
+1 Underground Sea
+2 Fatal Push
+2 Yuriko, the Tiger's Shadow
+2 Underground Sea
+2 Baleful Strix
+3 Polluted Delta
+3 Underground Sea
+3 Baleful Strix
+4 Polluted Delta
+1 Brainstorm
+2 Brainstorm
+3 Brainstorm
+4 Brainstorm
+4 Baleful Strix
+1 Changeling Outcast
+2 Ingenious Infiltrator
+2 Changeling Outcast
+3 Ingenious Infiltrator
+3 Yuriko, the Tiger's Shadow
+4 Yuriko, the Tiger's Shadow
+1 Prismatic Vista
+2 Prismatic Vista
+3 Prismatic Vista
+3 Fatal Push
+4 Prismatic Vista
+1 Scalding Tarn
+1 Flooded Strand
+1 Misty Rainforest
+1 Snow-Covered Swamp
+1 Snow-Covered Island
+1 Plague Engineer
+2 Snow-Covered Swamp
+2 Plague Engineer
+2 Snow-Covered Island
+3 Snow-Covered Swamp
+3 Snow-Covered Island
+1 Spellstutter Sprite
+1 Daze
+2 Spellstutter Sprite
+2 Daze
+3 Spellstutter Sprite
+3 Changeling Outcast
+4 Spellstutter Sprite
+4 Ingenious Infiltrator
+4 Changeling Outcast
+1 Bloodstained Mire
+1 Liliana's Triumph
+1 Swamp
+4 Island
+5 Island
 2 Flooded Strand
-3 Island
 1 Counterspell
 1 Ponder
 2 Ponder
 3 Ponder
 4 Ponder
+1 Lotus Petal
+1 Welding Jar
+1 Neurok Stealthsuit
+1 Umezawa's Jitte
+1 Tribute Mage
+2 Lotus Petal
+3 Lotus Petal
+1 Mox Diamond
+1 Sai, Master Thopterist
+1 Lion's Eye Diamond
+1 Engineered Explosives
+2 Mox Diamond
+2 Engineered Explosives
+2 Karakas
+2 Sai, Master Thopterist
+3 Engineered Explosives
 1 Mist-Syndicate Naga
 1 Ninja of the Deep Hours
 1 Faerie Seer
@@ -14,21 +80,21 @@
 2 Faerie Seer
 3 Faerie Seer
 4 Faerie Seer
-1 Thoughtseize
-1 Spellseeker
 1 Fallen Shinobi
-1 Hymn to Tourach
-1 Spell Pierce
+1 Spellseeker
 1 Liliana, the Last Hope
+1 Hymn to Tourach
+1 Thoughtseize
+1 Spell Pierce
 1 Jace, the Mind Sculptor
 1 Spell Snare
 1 Snapcaster Mage
 2 Fallen Shinobi
 2 Jace, the Mind Sculptor
 2 Spellseeker
-2 Liliana's Triumph
-2 Spell Pierce
 2 Hymn to Tourach
+2 Spell Pierce
+2 Liliana's Triumph
 2 Snapcaster Mage
 2 Swamp
 3 Snapcaster Mage
@@ -60,67 +126,10 @@
 2 Stitcher's Supplier
 2 Wonder
 3 Gurmag Angler
-3 Stitcher's Supplier
 3 Chart a Course
+3 Stitcher's Supplier
 4 Gurmag Angler
 4 Stitcher's Supplier
-1 Mox Opal
-1 Seat of the Synod
-1 Walking Ballista
-1 Sai, Master Thopterist
-1 Tormod's Crypt
-1 Pithing Needle
-1 Trinket Mage
-1 Karn, Scion of Urza
-1 Urza's Bauble
-1 Lion's Eye Diamond
-1 Karakas
-1 Cavern of Souls
-1 Ancient Tomb
-1 Engineered Explosives
-1 Urza, Lord High Artificer
-1 Mox Diamond
-1 City of Traitors
-1 Chalice of the Void
-1 Karn, the Great Creator
-2 Mox Opal
-2 Engineered Explosives
-2 Seat of the Synod
-2 Trinket Mage
-2 Urza's Bauble
-2 Karn, the Great Creator
-2 City of Traitors
-2 Ancient Tomb
-2 Chalice of the Void
-2 Urza, Lord High Artificer
-2 Karakas
-2 Karn, Scion of Urza
-2 Cavern of Souls
-2 Sai, Master Thopterist
-2 Mox Diamond
-3 Mox Opal
-3 Trinket Mage
-3 Engineered Explosives
-3 Seat of the Synod
-3 Karn, the Great Creator
-3 Cavern of Souls
-3 Ancient Tomb
-3 Chalice of the Void
-3 Urza's Bauble
-3 City of Traitors
-3 Karn, Scion of Urza
-3 Urza, Lord High Artificer
-4 Karn, the Great Creator
-4 Trinket Mage
-4 Seat of the Synod
-4 Chalice of the Void
-4 Karn, Scion of Urza
-4 Urza, Lord High Artificer
-4 City of Traitors
-4 Ancient Tomb
-4 Urza's Bauble
-4 Mox Opal
-4 Cavern of Souls
 1 Cunning Wish
 1 Predict
 1 Preordain
@@ -138,8 +147,8 @@
 2 Time Spiral
 2 Turnabout
 2 Merchant Scroll
-3 Cunning Wish
 3 Preordain
+3 Cunning Wish
 3 Flusterstorm
 3 Predict
 3 High Tide
@@ -148,10 +157,8 @@
 3 Turnabout
 4 Preordain
 4 High Tide
-4 Island
-4 Merchant Scroll
 4 Time Spiral
-5 Island
+4 Merchant Scroll
 7 Island
 8 Island
 9 Island

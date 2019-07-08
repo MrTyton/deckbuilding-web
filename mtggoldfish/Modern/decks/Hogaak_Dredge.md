@@ -1,7 +1,7 @@
 # Hogaak Dredge
 
 #### [Export MTGO List](../collection/Hogaak%20Dredge/Hogaak%20Dredge.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=2%09Blood%20Crypt%0A4%09Bloodghast%0A4%09Bloodstained%20Mire%0A4%09Carrion%20Feeder%0A4%09Death's%20Shadow%0A4%09Faithless%20Looting%0A4%09Gravecrawler%0A4%09Hedron%20Crab%0A4%09Hogaak,%20Arisen%20Necropolis%0A4%09Polluted%20Delta%0A4%09Prized%20Amalgam%0A4%09Scalding%20Tarn%0A4%09Stitcher's%20Supplier%0A4%09Street%20Wraith%0A1%09Swamp%0A2%09Thoughtseize%0A3%09Watery%20Grave&deckside=1%09Abrade%0A3%09Collective%20Brutality%0A2%09Dismember%0A3%09Echoing%20Truth%0A2%09Ingot%20Chewer%0A2%09Stubborn%20Denial%0A2%09Thoughtseize)
+#### [Print on decklist.org](http://decklist.org/?deckmain=2%09Blood%20Crypt%0A4%09Bloodghast%0A4%09Bloodstained%20Mire%0A4%09Carrion%20Feeder%0A4%09Death's%20Shadow%0A4%09Faithless%20Looting%0A4%09Gravecrawler%0A4%09Hedron%20Crab%0A4%09Hogaak,%20Arisen%20Necropolis%0A4%09Polluted%20Delta%0A4%09Prized%20Amalgam%0A4%09Scalding%20Tarn%0A4%09Stitcher's%20Supplier%0A4%09Street%20Wraith%0A1%09Swamp%0A2%09Thoughtseize%0A3%09Watery%20Grave&deckside=2%09Collective%20Brutality%0A2%09Dismember%0A3%09Echoing%20Truth%0A1%09Engineered%20Explosives%0A1%09Goblin%20Rabblemaster%0A2%09Ingot%20Chewer%0A2%09Stubborn%20Denial%0A2%09Thoughtseize)
 # Maindeck
 
 |                                            Creature (36)                                             |                                          Land (18)                                           |                                         Sorcery (6)                                          |
@@ -19,18 +19,17 @@
 
 # Sideboard
 
-|                                      Creature (2)                                       |                                        Instant (8)                                         |                                           Sorcery (5)                                           |
-|-----------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
-|2 [Ingot Chewer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389558)|1 [Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)         |3 [Collective Brutality](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414380)|
-|                                                                                         |2 [Dismember](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382182)      |2 [Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)        |
-|                                                                                         |3 [Echoing Truth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405212)  |                                                                                                 |
-|                                                                                         |2 [Stubborn Denial](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386673)|                                                                                                 |
+|                                          Artifact (1)                                           |                                          Creature (3)                                          |                                        Instant (7)                                         |                                           Sorcery (4)                                           |
+|-------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
+|1 [Engineered Explosives](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=50139)|1 [Goblin Rabblemaster](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438486)|2 [Dismember](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382182)      |2 [Collective Brutality](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414380)|
+|                                                                                                 |2 [Ingot Chewer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389558)       |3 [Echoing Truth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405212)  |2 [Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)        |
+|                                                                                                 |                                                                                                |2 [Stubborn Denial](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386673)|                                                                                                 |
 
 
 # Other Options
 
 |*n*<sup>th</sup> copy|Maindeck Card|*n*<sup>th</sup> copy|                                        Sideboard Card                                         |
 |---------------------|-------------|--------------------:|-----------------------------------------------------------------------------------------------|
-|                     |             |                    1|[Goblin Rabblemaster](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438486) |
-|                     |             |                    1|[Engineered Explosives](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=50139)|
+|                     |             |                    1|[Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)              |
+|                     |             |                    3|[Collective Brutality](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414380)|
 

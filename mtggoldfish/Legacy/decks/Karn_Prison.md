@@ -46,8 +46,8 @@
 |                    1|[Wastes](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407694)                  |                    2|[Thought-Knot Seer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407519)  |
 |                    1|[Spatial Contortion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407518)      |                    3|[Thought-Knot Seer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407519)  |
 |                    2|[Prismatic Vista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464193)         |                     |                                                                                              |
-|                    2|[Grove of the Burnwillows](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=130595)|                     |                                                                                              |
+|                    2|[Warping Wail](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407522)            |                     |                                                                                              |
 |                    3|[Prismatic Vista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464193)         |                     |                                                                                              |
 |                    4|[Prismatic Vista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464193)         |                     |                                                                                              |
-|                    2|[Warping Wail](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407522)            |                     |                                                                                              |
+|                    2|[Grove of the Burnwillows](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=130595)|                     |                                                                                              |
 

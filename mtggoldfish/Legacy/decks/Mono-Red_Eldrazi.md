@@ -29,8 +29,8 @@
 
 |*n*<sup>th</sup> copy|                                        Maindeck Card                                         |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
 |--------------------:|----------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
-|                    1|[Endbringer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407513)         |                    1|[By Force](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426825)           |
-|                    1|[Eldrazi Obligator](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407606)  |                    3|[Sorcerous Spyglass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435407) |
+|                    1|[Eldrazi Obligator](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407606)  |                    1|[By Force](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426825)           |
+|                    1|[Endbringer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407513)         |                    3|[Sorcerous Spyglass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435407) |
 |                    1|[Hazoret the Fervent](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426838)|                    1|[Goblin Cratermaker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452853) |
 |                    1|[Legion Warboss](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452859)     |                    2|[Tumble Magnet](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397755)      |
 |                    3|[Goblin Cratermaker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452853) |                    1|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)|
