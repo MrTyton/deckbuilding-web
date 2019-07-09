@@ -27,18 +27,9 @@
 
 # Other Options
 
-|*n*<sup>th</sup> copy|                                         Maindeck Card                                         |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
-|--------------------:|-----------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
-|                    1|[Polluted Delta](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405104)      |                    1|[Terastodon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389715)         |
-|                    1|[Scalding Tarn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405107)       |                    1|[Blood Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45386)          |
-|                    2|[Polluted Delta](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405104)      |                    3|[Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)       |
-|                    1|[Dragonskull Summit](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420909)  |                    1|[Leyline of Sanctity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=204993)|
-|                    1|[Tormenting Voice](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426853)    |                    2|[Leyline of Sanctity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=204993)|
-|                    2|[Marsh Flats](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405101)         |                    3|[Leyline of Sanctity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=204993)|
-|                    2|[Tormenting Voice](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426853)    |                    3|[Anger of the Gods](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438682)  |
-|                    3|[Tormenting Voice](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426853)    |                    4|[Chalice of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442211)|
-|                    3|[Gemstone Caverns](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=122094)    |                    4|[Leyline of Sanctity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=204993)|
-|                    4|[Tormenting Voice](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426853)    |                    4|[Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)             |
-|                    4|[Collective Brutality](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414380)|                     |                                                                                              |
-|                    4|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)               |                     |                                                                                              |
+|*n*<sup>th</sup> copy|                                      Maindeck Card                                      |*n*<sup>th</sup> copy|                                    Sideboard Card                                     |
+|--------------------:|-----------------------------------------------------------------------------------------|--------------------:|---------------------------------------------------------------------------------------|
+|                    1|[Scalding Tarn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405107) |                    1|[Terastodon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389715)  |
+|                    1|[Polluted Delta](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405104)|                    1|[Blood Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45386)   |
+|                    2|[Polluted Delta](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405104)|                    3|[Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)|
 

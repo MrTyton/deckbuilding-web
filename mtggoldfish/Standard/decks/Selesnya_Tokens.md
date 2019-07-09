@@ -72,7 +72,7 @@
 |                     |                                                                                                     |                    4|[Baffling End](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439658)                 |
 |                     |                                                                                                     |                    1|[Ripjaw Raptor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435359)                |
 |                     |                                                                                                     |                    1|[Tendershoot Dryad](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439804)            |
-|                     |                                                                                                     |                    2|[Tendershoot Dryad](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439804)            |
 |                     |                                                                                                     |                    2|[Ripjaw Raptor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435359)                |
+|                     |                                                                                                     |                    2|[Tendershoot Dryad](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439804)            |
 |                     |                                                                                                     |                    3|[Ripjaw Raptor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435359)                |
 

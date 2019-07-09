@@ -78,7 +78,7 @@
 |                     |                                                                                                 |                    1|[Ghost Quarter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389534)           |
 |                     |                                                                                                 |                    2|[Dismember](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382182)               |
 |                     |                                                                                                 |                    3|[Etched Champion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397710)         |
-|                     |                                                                                                 |                    4|[Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452)       |
 |                     |                                                                                                 |                    4|[Etched Champion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397710)         |
+|                     |                                                                                                 |                    4|[Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452)       |
 |                     |                                                                                                 |                    3|[Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452)       |
 

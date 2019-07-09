@@ -30,3 +30,15 @@
 |                                                                                            |                                                                                            |                                                                                            |2 [Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|                                                                                         |
 |                                                                                            |                                                                                            |                                                                                            |1 [To the Slaughter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409889)   |                                                                                         |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                            Maindeck Card                                            |*n*<sup>th</sup> copy|                                       Sideboard Card                                        |
+|--------------------:|-----------------------------------------------------------------------------------------------------|--------------------:|---------------------------------------------------------------------------------------------|
+|                    1|[Wasteland](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413790)                 |                    1|[Force of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464001) |
+|                    1|[Fatal Push](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423724)                |                    1|[Plague Engineer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464049)   |
+|                    2|[Abrupt Decay](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456061)              |                    2|[Force of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464001) |
+|                    2|[Leovold, Emissary of Trest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416834)|                    2|[Plague Engineer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464049)   |
+|                    3|[Ponder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=451051)                    |                    2|[Nihil Spellbomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442215)   |
+|                    4|[Ponder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=451051)                    |                    1|[Kolaghan's Command](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394613)|
+
