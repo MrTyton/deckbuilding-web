@@ -88,7 +88,6 @@
 |                    2|[Assassin's Trophy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452902)           |                     |              |
 |                    2|[Polluted Delta](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405104)              |                     |              |
 |                    2|[Growth Spiral](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457322)               |                     |              |
-|                    2|[Eternal Witness](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=51628)              |                     |              |
 |                    2|[Sacred Foundry](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405106)              |                     |              |
 |                    2|[Abrupt Decay](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456061)                |                     |              |
 |                    2|[Traverse the Ulvenwald](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409998)      |                     |              |
@@ -142,20 +141,21 @@
 |                    2|[Wall of Roots](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220566)               |                     |              |
 |                    2|[Fatal Push](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423724)                  |                     |              |
 |                    2|[Inquisition of Kozilek](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416897)      |                     |              |
+|                    2|[Eternal Witness](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=51628)              |                     |              |
 |                    2|[Misty Rainforest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405102)            |                     |              |
 |                    2|[Battle of Wits](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=83133)               |                     |              |
 |                    2|[Valakut, the Molten Pinnacle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=190400)|                     |              |
 |                    3|[Mana Confluence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409573)             |                     |              |
 |                    3|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)                      |                     |              |
 |                    3|[Breeding Pool](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=97088)                |                     |              |
+|                    3|[Eternal Witness](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=51628)              |                     |              |
 |                    3|[Field of Ruin](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435415)               |                     |              |
 |                    3|[Chord of Calling](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383209)            |                     |              |
 |                    3|[Polluted Delta](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405104)              |                     |              |
 |                    3|[Growth Spiral](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457322)               |                     |              |
-|                    3|[Steam Vents](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405109)                 |                     |              |
 |                    3|[Birds of Paradise](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129906)           |                     |              |
+|                    3|[Steam Vents](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405109)                 |                     |              |
 |                    3|[Assassin's Trophy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452902)           |                     |              |
-|                    3|[Eternal Witness](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=51628)              |                     |              |
 |                    3|[Arid Mesa](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405092)                   |                     |              |
 |                    3|[Glittering Wish](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=136157)             |                     |              |
 |                    3|[Supply/Demand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107464)               |                     |              |
@@ -209,6 +209,7 @@
 |                    4|[Wooded Foothills](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405116)            |                     |              |
 |                    4|[Inquisition of Kozilek](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416897)      |                     |              |
 |                    4|[Growth Spiral](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457322)               |                     |              |
+|                    4|[Steam Vents](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405109)                 |                     |              |
 |                    4|[Arid Mesa](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405092)                   |                     |              |
 |                    4|[Eternal Witness](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=51628)              |                     |              |
 |                    4|[Abrupt Decay](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456061)                |                     |              |
@@ -231,7 +232,6 @@
 |                    4|[Pulse of Murasa](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446177)             |                     |              |
 |                    4|[Breeding Pool](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=97088)                |                     |              |
 |                    4|[Search for Tomorrow](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205408)         |                     |              |
-|                    4|[Steam Vents](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405109)                 |                     |              |
 |                    4|[Wargate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=180592)                     |                     |              |
 |                    4|[Maelstrom Pulse](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=180613)             |                     |              |
 |                    4|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)                      |                     |              |
@@ -251,6 +251,6 @@
 |                    4|[Bloodstained Mire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405094)           |                     |              |
 |                    5|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)                      |                     |              |
 |                    6|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)                      |                     |              |
-|                    7|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)                      |                     |              |
 |                    8|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)                      |                     |              |
+|                    7|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)                      |                     |              |
 

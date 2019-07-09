@@ -37,8 +37,8 @@
 4 Snow-Covered Swamp
 1 Traverse the Ulvenwald
 1 Windswept Heath
-1 Spawn of Mayhem
 1 Walking Ballista
+1 Spawn of Mayhem
 1 Mishra's Bauble
 2 Traverse the Ulvenwald
 2 Spawn of Mayhem
@@ -50,7 +50,6 @@
 4 Grim Flayer
 4 Mishra's Bauble
 1 Explore
-1 Kitchen Finks
 1 Primal Command
 1 Temple of Malady
 1 Llanowar Wastes
@@ -58,19 +57,20 @@
 1 Death Cloud
 1 Ob Nixilis Reignited
 1 Search for Tomorrow
+1 Kitchen Finks
 1 Drown in Sorrow
 1 Putrefy
 1 Woodland Cemetery
 1 Disfigure
 1 Sakura-Tribe Elder
 2 Explore
-2 Kitchen Finks
+2 Primal Command
 2 Temple of Malady
 2 Llanowar Wastes
 2 Death Cloud
 2 Disfigure
+2 Kitchen Finks
 2 Ob Nixilis Reignited
-2 Primal Command
 2 Thragtusk
 2 Drown in Sorrow
 2 Woodland Cemetery
@@ -86,7 +86,6 @@
 3 Forest
 3 Temple of Malady
 3 Death Cloud
-4 Forest
 4 Kitchen Finks
 4 Sakura-Tribe Elder
 4 Llanowar Wastes
@@ -95,5 +94,6 @@
 4 Explore
 4 Temple of Malady
 4 Disfigure
+4 Forest
 4 Thragtusk
 5 Forest

@@ -2,7 +2,7 @@
 
 #### [Export MTGO List](../collection/Mono-Red%20Aggro/Mono-Red%20Aggro.txt)
 #### [Export Arena List](../collection/Mono-Red%20Aggro/Mono-Red%20Aggro_arena.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=2%09Chandra,%20Fire%20Artisan%0A3%09Experimental%20Frenzy%0A4%09Fanatical%20Firebrand%0A4%09Ghitu%20Lavarunner%0A4%09Goblin%20Chainwhirler%0A4%09Light%20Up%20the%20Stage%0A4%09Lightning%20Strike%0A20%09Mountain%0A4%09Runaway%20Steam-Kin%0A4%09Shock%0A4%09Viashino%20Pyromancer%0A3%09Wizard's%20Lightning&deckside=2%09Dire%20Fleet%20Daredevil%0A1%09Fight%20with%20Fire%0A4%09Lava%20Coil%0A3%09Legion%20Warboss%0A2%09Rekindling%20Phoenix%0A3%09Tibalt,%20Rakish%20Instigator)
+#### [Print on decklist.org](http://decklist.org/?deckmain=2%09Chandra,%20Fire%20Artisan%0A3%09Experimental%20Frenzy%0A4%09Fanatical%20Firebrand%0A4%09Ghitu%20Lavarunner%0A4%09Goblin%20Chainwhirler%0A4%09Light%20Up%20the%20Stage%0A4%09Lightning%20Strike%0A20%09Mountain%0A4%09Runaway%20Steam-Kin%0A4%09Shock%0A4%09Viashino%20Pyromancer%0A3%09Wizard's%20Lightning&deckside=2%09Dire%20Fleet%20Daredevil%0A2%09Fight%20with%20Fire%0A4%09Lava%20Coil%0A2%09Legion%20Warboss%0A2%09Rekindling%20Phoenix%0A3%09Tibalt,%20Rakish%20Instigator)
 # Maindeck
 
 |                                         Creature (20)                                          |                                        Enchantment (3)                                         |                                         Instant (11)                                          |                                      Land (20)                                       |                                         Planeswalker (2)                                         |                                          Sorcery (4)                                          |
@@ -16,10 +16,10 @@
 
 # Sideboard
 
-|                                          Creature (7)                                           |                                           Planeswalker (3)                                           |                                        Sorcery (5)                                         |
+|                                          Creature (6)                                           |                                           Planeswalker (3)                                           |                                        Sorcery (6)                                         |
 |-------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
-|2 [Dire Fleet Daredevil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439756)|3 [Tibalt, Rakish Instigator](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461073)|1 [Fight with Fire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443007)|
-|3 [Legion Warboss](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452859)      |                                                                                                      |4 [Lava Coil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452858)      |
+|2 [Dire Fleet Daredevil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439756)|3 [Tibalt, Rakish Instigator](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461073)|2 [Fight with Fire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443007)|
+|2 [Legion Warboss](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452859)      |                                                                                                      |4 [Lava Coil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452858)      |
 |2 [Rekindling Phoenix](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439768)  |                                                                                                      |                                                                                            |
 
 
@@ -27,7 +27,7 @@
 
 |*n*<sup>th</sup> copy|                                        Maindeck Card                                         |*n*<sup>th</sup> copy|                                         Sideboard Card                                         |
 |--------------------:|----------------------------------------------------------------------------------------------|--------------------:|------------------------------------------------------------------------------------------------|
-|                    4|[Experimental Frenzy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452849)|                    2|[Fight with Fire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443007)      |
+|                    4|[Experimental Frenzy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452849)|                    3|[Legion Warboss](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452859)       |
 |                    4|[Wizard's Lightning](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443040) |                    1|[Chandra, Fire Artisan](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461046)|
 |                    1|[Lava Coil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452858)          |                    1|[Experimental Frenzy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452849)  |
 |                    1|[Legion Warboss](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452859)     |                    3|[Dire Fleet Daredevil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439756) |
@@ -43,8 +43,14 @@
 |                     |                                                                                              |                    1|Chandra, Awakened Inferno                                                                       |
 |                     |                                                                                              |                    2|Chandra, Awakened Inferno                                                                       |
 |                     |                                                                                              |                    3|[Treasure Map](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435410)         |
-|                     |                                                                                              |                    4|[Legion Warboss](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452859)       |
 |                     |                                                                                              |                    1|[Tormenting Voice](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426853)     |
 |                     |                                                                                              |                    2|[Tormenting Voice](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426853)     |
 |                     |                                                                                              |                    3|[Tormenting Voice](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426853)     |
+|                     |                                                                                              |                    4|[Legion Warboss](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452859)       |
+|                     |                                                                                              |                    1|Leyline of Combustion                                                                           |
+|                     |                                                                                              |                    1|Chandra, Acolyte of Flame                                                                       |
+|                     |                                                                                              |                    2|Chandra, Acolyte of Flame                                                                       |
+|                     |                                                                                              |                    2|Leyline of Combustion                                                                           |
+|                     |                                                                                              |                    3|Leyline of Combustion                                                                           |
+|                     |                                                                                              |                    3|Chandra, Acolyte of Flame                                                                       |
 

@@ -42,7 +42,6 @@
 2 Assassin's Trophy
 2 Polluted Delta
 2 Growth Spiral
-2 Eternal Witness
 2 Sacred Foundry
 2 Abrupt Decay
 2 Traverse the Ulvenwald
@@ -96,20 +95,21 @@
 2 Wall of Roots
 2 Fatal Push
 2 Inquisition of Kozilek
+2 Eternal Witness
 2 Misty Rainforest
 2 Battle of Wits
 2 Valakut, the Molten Pinnacle
 3 Mana Confluence
 3 Island
 3 Breeding Pool
+3 Eternal Witness
 3 Field of Ruin
 3 Chord of Calling
 3 Polluted Delta
 3 Growth Spiral
-3 Steam Vents
 3 Birds of Paradise
+3 Steam Vents
 3 Assassin's Trophy
-3 Eternal Witness
 3 Arid Mesa
 3 Glittering Wish
 3 Supply/Demand
@@ -163,6 +163,7 @@
 4 Wooded Foothills
 4 Inquisition of Kozilek
 4 Growth Spiral
+4 Steam Vents
 4 Arid Mesa
 4 Eternal Witness
 4 Abrupt Decay
@@ -185,7 +186,6 @@
 4 Pulse of Murasa
 4 Breeding Pool
 4 Search for Tomorrow
-4 Steam Vents
 4 Wargate
 4 Maelstrom Pulse
 4 Island
@@ -205,5 +205,5 @@
 4 Bloodstained Mire
 5 Forest
 6 Forest
-7 Forest
 8 Forest
+7 Forest

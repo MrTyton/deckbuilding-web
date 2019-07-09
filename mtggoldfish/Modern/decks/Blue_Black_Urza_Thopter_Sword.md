@@ -33,6 +33,6 @@
 |--------------------:|-------------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------|
 |                    4|[Sai, Master Thopterist](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447205)|                    1|[Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452)|
 |                    4|[Darksteel Citadel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389479)     |                    2|[Spell Pierce](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425876)     |
-|                     |                                                                                                 |                    2|[Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452)|
 |                     |                                                                                                 |                    4|[Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)     |
+|                     |                                                                                                 |                    2|[Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452)|
 
