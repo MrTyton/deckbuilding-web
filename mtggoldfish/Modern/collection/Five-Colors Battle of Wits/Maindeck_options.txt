@@ -1,4 +1,3 @@
-1 Wargate
 1 Damnation
 1 Elesh Norn, Grand Cenobite
 1 Iona, Shield of Emeria
@@ -25,6 +24,7 @@
 1 Khalni Garden
 1 Forest
 1 Plains
+1 Ghost Quarter
 1 Mana Confluence
 1 Traverse the Ulvenwald
 1 Snapcaster Mage
@@ -42,6 +42,7 @@
 2 Plains
 2 Growth Spiral
 2 Mountain
+2 Temple Garden
 2 Sakura-Tribe Elder
 2 Forest
 2 Farseek
@@ -95,7 +96,6 @@
 2 Wall of Roots
 2 Fatal Push
 2 Inquisition of Kozilek
-2 Temple Garden
 2 Eternal Witness
 2 Misty Rainforest
 2 Battle of Wits
@@ -164,12 +164,12 @@
 4 Bloodstained Mire
 4 Field of Ruin
 4 Birds of Paradise
+4 Island
 4 Wooded Foothills
 4 Inquisition of Kozilek
 4 Growth Spiral
 4 Steam Vents
 4 Farseek
-4 Windswept Heath
 4 Search for Tomorrow
 4 Scapeshift
 4 Stomping Ground
@@ -182,6 +182,7 @@
 4 Assassin's Trophy
 4 Verdant Catacombs
 4 Battle of Wits
+4 Windswept Heath
 4 Polluted Delta
 4 Glittering Wish
 4 Supply/Demand
@@ -191,7 +192,6 @@
 4 Breeding Pool
 4 Wargate
 4 Maelstrom Pulse
-4 Island
 4 Evolving Wilds
 4 Thoughtseize
 4 Madcap Experiment

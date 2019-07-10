@@ -49,6 +49,6 @@
 |                    1|[Enigma Drake](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426900)      |                     |                                                                                                     |
 |                    1|[Faithless Looting](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389512) |                     |                                                                                                     |
 |                    2|[Enigma Drake](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426900)      |                     |                                                                                                     |
-|                    2|[Faithless Looting](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389512) |                     |                                                                                                     |
 |                    4|[Temur Battle Rage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391940) |                     |                                                                                                     |
+|                    2|[Faithless Looting](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389512) |                     |                                                                                                     |
 
