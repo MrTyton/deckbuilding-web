@@ -1,10 +1,10 @@
 1 Forest
 2 Forest
 3 Forest
-1 Canopy Vista
-1 Wild Defiance
 1 Unflinching Courage
 1 Fortified Village
+1 Canopy Vista
+1 Wild Defiance
 1 Dromoka's Command
 1 Gryff's Boon
 1 Scattered Groves
@@ -50,8 +50,8 @@
 9 Plains
 10 Plains
 11 Plains
-1 Island
 1 Judge's Familiar
+1 Island
 1 Mausoleum Wanderer
 2 Island
 2 Mausoleum Wanderer
@@ -120,60 +120,6 @@
 3 Fatal Push
 3 Flamewake Phoenix
 4 Fatal Push
-1 Viscera Seer
-1 Marsh Flats
-1 Godless Shrine
-1 Walking Ballista
-1 Ranger-Captain of Eos
-1 Rhonas the Indomitable
-1 Horizon Canopy
-1 Murderous Redcap
-1 Eternal Witness
-1 Watery Grave
-1 Duskwatch Recruiter
-1 Devoted Druid
-1 Vizier of Remedies
-1 Noble Hierarch
-1 Birds of Paradise
-1 Eladamri's Call
-1 Hallowed Fountain
-1 Scavenging Ooze
-1 Teferi, Time Raveler
-1 Carrion Feeder
-1 Finale of Devastation
-1 Kitchen Finks
-1 Overgrown Tomb
-1 Breeding Pool
-1 Windswept Heath
-1 Temple Garden
-1 Yawgmoth, Thran Physician
-1 Shalai, Voice of Plenty
-2 Noble Hierarch
-2 Devoted Druid
-2 Finale of Devastation
-2 Eternal Witness
-2 Birds of Paradise
-2 Vizier of Remedies
-2 Eladamri's Call
-2 Teferi, Time Raveler
-2 Kitchen Finks
-2 Verdant Catacombs
-2 Overgrown Tomb
-2 Windswept Heath
-3 Teferi, Time Raveler
-3 Windswept Heath
-3 Noble Hierarch
-3 Finale of Devastation
-3 Devoted Druid
-3 Vizier of Remedies
-3 Eladamri's Call
-3 Birds of Paradise
-4 Birds of Paradise
-4 Windswept Heath
-4 Eladamri's Call
-4 Finale of Devastation
-4 Devoted Druid
-4 Vizier of Remedies
 1 Young Pyromancer
 2 Young Pyromancer
 1 Reckless Charge
@@ -191,6 +137,60 @@
 3 Young Pyromancer
 3 Snow-Covered Swamp
 4 Young Pyromancer
+1 Viscera Seer
+1 Marsh Flats
+1 Godless Shrine
+1 Walking Ballista
+1 Ranger-Captain of Eos
+1 Horizon Canopy
+1 Rhonas the Indomitable
+1 Murderous Redcap
+1 Eternal Witness
+1 Watery Grave
+1 Duskwatch Recruiter
+1 Vizier of Remedies
+1 Noble Hierarch
+1 Devoted Druid
+1 Birds of Paradise
+1 Hallowed Fountain
+1 Scavenging Ooze
+1 Kitchen Finks
+1 Teferi, Time Raveler
+1 Carrion Feeder
+1 Finale of Devastation
+1 Overgrown Tomb
+1 Breeding Pool
+1 Windswept Heath
+1 Temple Garden
+1 Yawgmoth, Thran Physician
+1 Eladamri's Call
+1 Shalai, Voice of Plenty
+2 Noble Hierarch
+2 Devoted Druid
+2 Finale of Devastation
+2 Verdant Catacombs
+2 Birds of Paradise
+2 Eternal Witness
+2 Teferi, Time Raveler
+2 Kitchen Finks
+2 Overgrown Tomb
+2 Eladamri's Call
+2 Windswept Heath
+2 Vizier of Remedies
+3 Teferi, Time Raveler
+3 Windswept Heath
+3 Noble Hierarch
+3 Finale of Devastation
+3 Devoted Druid
+3 Birds of Paradise
+3 Eladamri's Call
+3 Vizier of Remedies
+4 Birds of Paradise
+4 Windswept Heath
+4 Finale of Devastation
+4 Devoted Druid
+4 Vizier of Remedies
+4 Eladamri's Call
 1 Caves of Koilos
 1 Concealed Courtyard
 2 Concealed Courtyard
@@ -306,8 +306,8 @@
 2 Shambling Vent
 2 Rally the Ancestors
 2 Zulaport Cutthroat
-2 Bontu the Glorified
 2 Hunted Witness
+2 Bontu the Glorified
 2 Cruel Celebrant
 2 Doomed Traveler
 2 Promise of Bunrei

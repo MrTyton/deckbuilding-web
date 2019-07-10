@@ -46,6 +46,6 @@
 |                    1|[Narset, Parter of Veils](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460988)|                    2|[Karn, the Great Creator](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460928)|
 |                     |                                                                                                  |                    1|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)    |
 |                     |                                                                                                  |                    2|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)    |
-|                     |                                                                                                  |                    4|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)    |
 |                     |                                                                                                  |                    3|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)    |
+|                     |                                                                                                  |                    4|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)    |
 

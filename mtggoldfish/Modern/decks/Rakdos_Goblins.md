@@ -27,3 +27,15 @@
 |                                                                                                |2 [Goblin Cratermaker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452853)|                                                                                      |2 [Guttural Response](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426628)|                                                                                         |
 |                                                                                                |2 [Goblin Trashmaster](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447280)|                                                                                      |                                                                                              |                                                                                         |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                        Maindeck Card                                        |*n*<sup>th</sup> copy|                                       Sideboard Card                                       |
+|--------------------:|---------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------|
+|                    1|[Goblin Ringleader](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=27664)  |                    1|[Extirpate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370384)        |
+|                    1|[Cavern of Souls](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278058)   |                    1|[Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452)|
+|                    2|[Goblin Ringleader](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=27664)  |                    2|[Extirpate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370384)        |
+|                    3|[Munitions Expert](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464158)  |                     |                                                                                            |
+|                    4|[Munitions Expert](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464158)  |                     |                                                                                            |
+|                    1|[Goblin Cratermaker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452853)|                     |                                                                                            |
+
