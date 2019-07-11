@@ -57,7 +57,7 @@
 |                     |                                                                                              |                    1|[Collective Brutality](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414380)       |
 |                     |                                                                                              |                    2|[Collective Brutality](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414380)       |
 |                     |                                                                                              |                    2|[Darkblast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456055)                  |
-|                     |                                                                                              |                    4|[Fatal Push](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423724)                 |
-|                     |                                                                                              |                    4|[Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)               |
 |                     |                                                                                              |                    2|[Plague Engineer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464049)            |
+|                     |                                                                                              |                    4|[Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)               |
+|                     |                                                                                              |                    4|[Fatal Push](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423724)                 |
 

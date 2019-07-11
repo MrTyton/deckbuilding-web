@@ -1,7 +1,7 @@
 1 Misty Rainforest
 1 Utopia Sprawl
-1 Wooded Foothills
 1 Tropical Island
+1 Wooded Foothills
 1 Serra's Sanctum
 1 Solitary Confinement
 1 Oblivion Ring
@@ -51,8 +51,8 @@
 6 Forest
 7 Forest
 8 Forest
-1 Narcomoeba
 1 Dread Return
+1 Narcomoeba
 1 Cabal Therapy
 2 Narcomoeba
 2 Cabal Therapy
@@ -61,23 +61,23 @@
 1 Shambling Shell
 1 Nether Shadow
 1 Phantasmagorian
+1 Street Wraith
+1 Bridge from Below
 1 Prized Amalgam
 1 Stinkweed Imp
 1 Golgari Thug
-1 Bridge from Below
 1 Ichorid
 1 Hogaak, Arisen Necropolis
 1 Golgari Grave-Troll
-1 Street Wraith
 2 Dread Return
 2 Nether Shadow
 2 Phantasmagorian
 2 Shambling Shell
 2 Street Wraith
 2 Prized Amalgam
-2 Golgari Thug
-2 Stinkweed Imp
 2 Bridge from Below
+2 Stinkweed Imp
+2 Golgari Thug
 2 Ichorid
 2 Hogaak, Arisen Necropolis
 2 Golgari Grave-Troll
@@ -85,10 +85,10 @@
 3 Nether Shadow
 3 Dread Return
 3 Shambling Shell
-3 Stinkweed Imp
-3 Prized Amalgam
 3 Street Wraith
+3 Stinkweed Imp
 3 Bridge from Below
+3 Prized Amalgam
 3 Golgari Grave-Troll
 3 Ichorid
 3 Golgari Thug
@@ -105,8 +105,8 @@
 1 Flayer of the Hatebound
 1 Balustrade Spy
 1 Creeping Chill
-2 Creeping Chill
 2 Balustrade Spy
+2 Creeping Chill
 3 Creeping Chill
 3 Hogaak, Arisen Necropolis
 4 Nether Shadow
