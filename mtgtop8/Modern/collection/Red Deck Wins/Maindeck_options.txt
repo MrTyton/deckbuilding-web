@@ -1,25 +1,26 @@
 4 Wooded Foothills
-1 Skullcrack
 3 Arid Mesa
 3 Inspiring Vantage
-3 Sacred Foundry
+1 Skullcrack
 4 Inspiring Vantage
-1 Scalding Tarn
-4 Bloodstained Mire
 1 Light Up the Stage
 2 Light Up the Stage
+3 Sacred Foundry
 1 Stomping Ground
-3 Light Up the Stage
+1 Scalding Tarn
+4 Bloodstained Mire
 4 Arid Mesa
+3 Light Up the Stage
+4 Light Up the Stage
 1 Fiery Islet
 2 Scalding Tarn
 4 Mountain
-4 Light Up the Stage
 1 Shard Volley
 2 Shard Volley
 2 Fiery Islet
 3 Shard Volley
 2 Grim Lavamancer
+2 Stomping Ground
 5 Mountain
 6 Mountain
 7 Mountain
@@ -36,9 +37,6 @@
 12 Mountain
 3 Scalding Tarn
 4 Shard Volley
-1 Snow-Covered Mountain
-2 Snow-Covered Mountain
-3 Snow-Covered Mountain
 1 Blood Crypt
 2 Blood Crypt
 1 Surgical Extraction
@@ -46,6 +44,9 @@
 1 Forked Bolt
 1 Exquisite Firecraft
 2 Skullcrack
+1 Snow-Covered Mountain
+2 Snow-Covered Mountain
+3 Snow-Covered Mountain
 1 Bump in the Night
 1 Blackcleave Cliffs
 2 Bump in the Night
@@ -59,7 +60,6 @@
 4 Mogg Fanatic
 1 Windswept Heath
 2 Windswept Heath
-2 Stomping Ground
 3 Windswept Heath
 4 Windswept Heath
 1 Cavern of Souls
@@ -90,13 +90,13 @@
 2 Fatal Push
 2 Swamp
 2 Munitions Expert
-2 Goblin Warchief
 2 Goblin Matron
 2 Pashalik Mons
 2 Krenko, Mob Boss
 2 Auntie's Hovel
 2 Sling-Gang Lieutenant
 2 Polluted Delta
+2 Goblin Warchief
 3 Blood Crypt
 3 Fatal Push
 3 Swamp
@@ -108,8 +108,8 @@
 4 Blood Crypt
 4 Aether Vial
 4 Munitions Expert
-4 Goblin Matron
 4 Fatal Push
+4 Goblin Matron
 4 Auntie's Hovel
 4 Goblin Warchief
 1 Mutavault
@@ -145,43 +145,3 @@
 4 Goblin Chieftain
 4 Goblin Piledriver
 4 Cavern of Souls
-1 Blistercoil Weird
-1 Crash Through
-1 Gut Shot
-1 Lava Dart
-1 Manamorphose
-1 Soul-Scar Mage
-1 Finale of Promise
-1 Bedlam Reveler
-1 Faithless Looting
-2 Blistercoil Weird
-2 Crash Through
-2 Gut Shot
-2 Bedlam Reveler
-2 Manamorphose
-2 Soul-Scar Mage
-2 Faithless Looting
-2 Lava Dart
-3 Bedlam Reveler
-3 Crash Through
-3 Faithless Looting
-3 Manamorphose
-3 Soul-Scar Mage
-3 Lava Dart
-4 Snow-Covered Mountain
-4 Lava Dart
-4 Manamorphose
-4 Faithless Looting
-5 Snow-Covered Mountain
-6 Snow-Covered Mountain
-7 Snow-Covered Mountain
-8 Snow-Covered Mountain
-9 Snow-Covered Mountain
-10 Snow-Covered Mountain
-11 Snow-Covered Mountain
-12 Snow-Covered Mountain
-13 Snow-Covered Mountain
-14 Snow-Covered Mountain
-15 Snow-Covered Mountain
-16 Snow-Covered Mountain
-4 Soul-Scar Mage
