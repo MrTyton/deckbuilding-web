@@ -65,6 +65,7 @@
 |                    7|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)              |                     |                                                                                               |
 |                    8|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)              |                     |                                                                                               |
 |                    9|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)              |                     |                                                                                               |
+|                   10|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)              |                     |                                                                                               |
 |                   11|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)              |                     |                                                                                               |
 |                   12|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)              |                     |                                                                                               |
 |                   13|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)              |                     |                                                                                               |
@@ -72,7 +73,6 @@
 |                   15|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)              |                     |                                                                                               |
 |                   16|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)              |                     |                                                                                               |
 |                   17|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)              |                     |                                                                                               |
-|                   18|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)              |                     |                                                                                               |
 |                   19|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)              |                     |                                                                                               |
-|                   10|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)              |                     |                                                                                               |
+|                   18|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)              |                     |                                                                                               |
 

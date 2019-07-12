@@ -81,14 +81,12 @@
 |                    1|[Tectonic Edge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389711)               |                     |              |
 |                    1|[Assassin's Trophy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452902)           |                     |              |
 |                    1|[Fatal Push](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423724)                  |                     |              |
-|                    2|[Arid Mesa](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405092)                   |                     |              |
 |                    2|[Chord of Calling](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383209)            |                     |              |
 |                    2|[Overgrown Tomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405103)              |                     |              |
 |                    2|[Blood Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=97102)                  |                     |              |
 |                    2|[Unmoored Ego](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452962)                |                     |              |
 |                    2|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)                      |                     |              |
 |                    2|[Growth Spiral](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457322)               |                     |              |
-|                    2|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)                    |                     |              |
 |                    2|[Temple Garden](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405112)               |                     |              |
 |                    2|[Sakura-Tribe Elder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220582)          |                     |              |
 |                    2|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)                      |                     |              |
@@ -125,11 +123,13 @@
 |                    2|[Stomping Ground](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405110)             |                     |              |
 |                    2|[Field of Ruin](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435415)               |                     |              |
 |                    2|[Watery Grave](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405114)                |                     |              |
+|                    2|[Arid Mesa](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405092)                   |                     |              |
 |                    2|[Knight of Autumn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452933)            |                     |              |
 |                    2|[Pulse of Murasa](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446177)             |                     |              |
 |                    2|[Platinum Emperion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457134)           |                     |              |
 |                    2|[Sylvan Caryatid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373624)             |                     |              |
 |                    2|[Slaughter Games](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=290532)             |                     |              |
+|                    2|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)                    |                     |              |
 |                    2|[Glittering Wish](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=136157)             |                     |              |
 |                    2|[City of Brass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=4178)                 |                     |              |
 |                    2|[Restoration Angel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=240096)           |                     |              |
@@ -154,6 +154,7 @@
 |                    3|[Wooded Foothills](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405116)            |                     |              |
 |                    3|[Polluted Delta](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405104)              |                     |              |
 |                    3|[Growth Spiral](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457322)               |                     |              |
+|                    3|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)                      |                     |              |
 |                    3|[Steam Vents](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405109)                 |                     |              |
 |                    3|[Birds of Paradise](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129906)           |                     |              |
 |                    3|[Scapeshift](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447337)                  |                     |              |
@@ -184,7 +185,6 @@
 |                    3|[Sylvan Scrying](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=130513)              |                     |              |
 |                    3|[City of Brass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=4178)                 |                     |              |
 |                    3|[Restoration Angel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=240096)           |                     |              |
-|                    3|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)                      |                     |              |
 |                    3|[Snapcaster Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=227676)             |                     |              |
 |                    3|[Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)                |                     |              |
 |                    3|[Fatal Push](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423724)                  |                     |              |
@@ -206,6 +206,7 @@
 |                    4|[Mana Confluence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409573)             |                     |              |
 |                    4|[Misty Rainforest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405102)            |                     |              |
 |                    4|[Sylvan Scrying](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=130513)              |                     |              |
+|                    4|[Steam Vents](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405109)                 |                     |              |
 |                    4|[Chord of Calling](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383209)            |                     |              |
 |                    4|[Traverse the Ulvenwald](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409998)      |                     |              |
 |                    4|[Bloodstained Mire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405094)           |                     |              |
@@ -215,7 +216,6 @@
 |                    4|[Wooded Foothills](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405116)            |                     |              |
 |                    4|[Inquisition of Kozilek](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416897)      |                     |              |
 |                    4|[Growth Spiral](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457322)               |                     |              |
-|                    4|[Steam Vents](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405109)                 |                     |              |
 |                    4|[Farseek](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420766)                     |                     |              |
 |                    4|[Search for Tomorrow](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205408)         |                     |              |
 |                    4|[Scapeshift](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447337)                  |                     |              |

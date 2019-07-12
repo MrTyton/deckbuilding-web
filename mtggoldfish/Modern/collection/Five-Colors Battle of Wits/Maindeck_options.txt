@@ -34,14 +34,12 @@
 1 Tectonic Edge
 1 Assassin's Trophy
 1 Fatal Push
-2 Arid Mesa
 2 Chord of Calling
 2 Overgrown Tomb
 2 Blood Crypt
 2 Unmoored Ego
 2 Plains
 2 Growth Spiral
-2 Mountain
 2 Temple Garden
 2 Sakura-Tribe Elder
 2 Forest
@@ -78,11 +76,13 @@
 2 Stomping Ground
 2 Field of Ruin
 2 Watery Grave
+2 Arid Mesa
 2 Knight of Autumn
 2 Pulse of Murasa
 2 Platinum Emperion
 2 Sylvan Caryatid
 2 Slaughter Games
+2 Mountain
 2 Glittering Wish
 2 City of Brass
 2 Restoration Angel
@@ -107,6 +107,7 @@
 3 Wooded Foothills
 3 Polluted Delta
 3 Growth Spiral
+3 Plains
 3 Steam Vents
 3 Birds of Paradise
 3 Scapeshift
@@ -137,7 +138,6 @@
 3 Sylvan Scrying
 3 City of Brass
 3 Restoration Angel
-3 Plains
 3 Snapcaster Mage
 3 Thoughtseize
 3 Fatal Push
@@ -159,6 +159,7 @@
 4 Mana Confluence
 4 Misty Rainforest
 4 Sylvan Scrying
+4 Steam Vents
 4 Chord of Calling
 4 Traverse the Ulvenwald
 4 Bloodstained Mire
@@ -168,7 +169,6 @@
 4 Wooded Foothills
 4 Inquisition of Kozilek
 4 Growth Spiral
-4 Steam Vents
 4 Farseek
 4 Search for Tomorrow
 4 Scapeshift

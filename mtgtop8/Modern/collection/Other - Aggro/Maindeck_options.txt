@@ -72,41 +72,41 @@
 14 Island
 15 Island
 16 Island
-1 Mana Leak
 1 Jace, Wielder of Mysteries
-1 Unsummon
-1 Narset's Reversal
 1 Spell Snare
+1 Narset's Reversal
+1 Mana Leak
 1 Faerie Miscreant
 1 Spellstutter Sprite
 1 Rune Snag
 1 Quickling
+1 Unsummon
 1 Favorable Winds
 2 Mana Leak
-2 Spell Snare
 2 Jace, Wielder of Mysteries
-2 Unsummon
+2 Spell Snare
 2 Narset's Reversal
 2 Quickling
+2 Unsummon
 2 Faerie Miscreant
 2 Rune Snag
 2 Spellstutter Sprite
 2 Favorable Winds
 3 Mana Leak
-3 Unsummon
 3 Spellstutter Sprite
 3 Favorable Winds
 3 Faerie Miscreant
 3 Judge's Familiar
 3 Narset's Reversal
 3 Quickling
+3 Unsummon
 3 Rune Snag
+4 Unsummon
 4 Faerie Miscreant
 4 Judge's Familiar
 4 Rune Snag
 4 Narset's Reversal
 4 Quickling
-4 Unsummon
 4 Mana Leak
 4 Spellstutter Sprite
 4 Favorable Winds
@@ -125,11 +125,11 @@
 1 Reckless Charge
 1 Snow-Covered Swamp
 1 Goblin Bushwhacker
-1 Kolaghan's Command
+1 Snow-Covered Mountain
+1 Prismatic Vista
 1 Hazoret the Fervent
 1 Rakdos Charm
-1 Prismatic Vista
-1 Snow-Covered Mountain
+1 Kolaghan's Command
 1 Sunbaked Canyon
 2 Snow-Covered Swamp
 2 Snow-Covered Mountain
@@ -144,53 +144,53 @@
 1 Ranger-Captain of Eos
 1 Rhonas the Indomitable
 1 Murderous Redcap
+1 Temple Garden
 1 Horizon Canopy
 1 Watery Grave
-1 Duskwatch Recruiter
-1 Vizier of Remedies
-1 Devoted Druid
-1 Eternal Witness
-1 Noble Hierarch
-1 Birds of Paradise
-1 Hallowed Fountain
-1 Teferi, Time Raveler
-1 Carrion Feeder
+1 Scavenging Ooze
 1 Finale of Devastation
+1 Devoted Druid
+1 Vizier of Remedies
+1 Duskwatch Recruiter
+1 Noble Hierarch
+1 Eternal Witness
+1 Carrion Feeder
 1 Kitchen Finks
 1 Overgrown Tomb
+1 Hallowed Fountain
 1 Breeding Pool
+1 Birds of Paradise
+1 Teferi, Time Raveler
 1 Windswept Heath
-1 Temple Garden
-1 Scavenging Ooze
 1 Yawgmoth, Thran Physician
 1 Eladamri's Call
 1 Shalai, Voice of Plenty
-2 Noble Hierarch
-2 Devoted Druid
-2 Finale of Devastation
 2 Verdant Catacombs
-2 Birds of Paradise
+2 Finale of Devastation
 2 Eternal Witness
-2 Teferi, Time Raveler
+2 Devoted Druid
+2 Noble Hierarch
 2 Kitchen Finks
+2 Birds of Paradise
+2 Teferi, Time Raveler
 2 Overgrown Tomb
 2 Eladamri's Call
 2 Windswept Heath
 2 Vizier of Remedies
-3 Teferi, Time Raveler
-3 Windswept Heath
 3 Noble Hierarch
-3 Finale of Devastation
+3 Teferi, Time Raveler
 3 Devoted Druid
+3 Finale of Devastation
 3 Birds of Paradise
 3 Eladamri's Call
+3 Windswept Heath
 3 Vizier of Remedies
-4 Birds of Paradise
 4 Windswept Heath
-4 Finale of Devastation
 4 Devoted Druid
+4 Finale of Devastation
 4 Vizier of Remedies
 4 Eladamri's Call
+4 Birds of Paradise
 1 Caves of Koilos
 1 Concealed Courtyard
 2 Concealed Courtyard
@@ -385,20 +385,20 @@
 2 Master of Etherium
 2 Blinkmoth Nexus
 2 Smuggler's Copter
+2 Walking Ballista
 2 Signal Pest
 2 Etherium Sculptor
 2 Grand Architect
 2 Throne of the God-Pharaoh
 2 Lodestone Golem
-2 Walking Ballista
 2 Chief Engineer
 3 Smuggler's Copter
 3 Blinkmoth Nexus
 3 Master of Etherium
 3 Lodestone Golem
+3 Walking Ballista
 3 Chief Engineer
 3 Etherium Sculptor
-3 Walking Ballista
 3 Grand Architect
 4 Blinkmoth Nexus
 4 Master of Etherium

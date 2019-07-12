@@ -1,6 +1,6 @@
+1 Lumbering Falls
 1 Wilderness Reclamation
 1 Growth Spiral
-1 Misty Rainforest
 2 Misty Rainforest
 2 Wilderness Reclamation
 2 Breeding Pool
@@ -23,8 +23,8 @@
 1 Scalding Tarn
 1 Geier Reach Sanitarium
 1 Polluted Delta
-1 Commandeer
 1 Spell Snare
+1 Commandeer
 1 Day's Undoing
 1 Disrupting Shoal
 2 Polluted Delta
@@ -40,64 +40,64 @@
 4 Windswept Heath
 1 Siege Rhino
 1 Kaya's Guile
-1 Temple Garden
-1 City of Brass
 1 Arid Mesa
+1 City of Brass
+1 Temple Garden
 2 Siege Rhino
-2 Arid Mesa
 2 Godless Shrine
+2 Arid Mesa
 2 City of Brass
 3 Bloodbraid Elf
 1 Primal Command
-1 Bloodstained Mire
-1 Blooming Marsh
 1 Mana Confluence
 1 Thought Erasure
 1 Nahiri, the Harbinger
 1 Unmoored Ego
 1 Sin Collector
 1 Inquisition of Kozilek
-2 Blooming Marsh
+1 Bloodstained Mire
+1 Blooming Marsh
 2 Mana Confluence
+2 Blooming Marsh
 2 Inquisition of Kozilek
 2 Izzet Charm
 3 Safewright Quest
 4 Lightning Helix
 4 Bring to Light
-1 Flooded Strand
 1 Celestial Colonnade
 1 Hieroglyphic Illumination
+1 Flooded Strand
 1 Snapcaster Mage
 2 Hieroglyphic Illumination
 2 Path to Exile
 2 Hallowed Fountain
 2 Snapcaster Mage
 2 Flooded Strand
+3 Teferi, Time Raveler
 3 Hieroglyphic Illumination
 3 Path to Exile
-3 Teferi, Time Raveler
 3 Flooded Strand
 3 Snapcaster Mage
 4 Glittering Wish
-4 Field of Ruin
 4 Hieroglyphic Illumination
 4 Path to Exile
 4 Flooded Strand
+4 Field of Ruin
 4 Snapcaster Mage
 1 Drowned Catacomb
 1 Tyrant's Scorn
-1 Watery Grave
+1 Jace, the Mind Sculptor
 1 Fatal Push
 1 Opt
-1 Jace, the Mind Sculptor
 1 Creeping Tar Pit
 1 Liliana of the Veil
+1 Watery Grave
 1 Notion Thief
 2 Tyrant's Scorn
 2 Drowned Catacomb
+2 Spell Snare
 2 Commandeer
 2 Jace, the Mind Sculptor
-2 Spell Snare
 2 Fatal Push
 2 Geier Reach Sanitarium
 2 Watery Grave
@@ -106,19 +106,17 @@
 2 Creeping Tar Pit
 2 Liliana of the Veil
 3 Polluted Delta
-3 Fatal Push
 3 Creeping Tar Pit
+3 Fatal Push
 3 Opt
 3 Watery Grave
 4 Fatal Push
 4 Polluted Delta
 1 Sphinx's Tutelage
 1 Prairie Stream
-1 Day of Judgment
 1 Evolving Wilds
 1 Dovin's Veto
 1 Gideon Jura
-1 Ashes of the Abhorrent
 1 Dictate of Kruphix
 1 Teyo, the Shieldmage
 1 Tranquil Expanse
@@ -129,11 +127,13 @@
 1 Dawn Charm
 1 Angelsong
 1 Tranquil Cove
+1 Day of Judgment
 1 Irrigated Farmland
+1 Ashes of the Abhorrent
+2 Plains
 2 Evolving Wilds
 2 Dictate of Kruphix
 2 Dovin's Veto
-2 Plains
 2 Day of Judgment
 2 Dawn Charm
 2 Tranquil Cove
@@ -149,12 +149,12 @@
 2 Temple Bell
 3 Dictate of Kruphix
 3 Evolving Wilds
+3 Plains
 3 Irrigated Farmland
 3 Tranquil Expanse
 3 Ethereal Haze
 3 Angelsong
 3 Day of Judgment
-3 Plains
 3 Tranquil Cove
 3 Dawn Charm
 3 Sphinx's Tutelage
@@ -167,27 +167,27 @@
 4 Tranquil Cove
 4 Tranquil Expanse
 1 Snow-Covered Forest
-1 Lightning Bolt
-1 Snow-Covered Mountain
 1 Ice-Fang Coatl
-1 Prismatic Vista
 1 Snow-Covered Island
+1 Prismatic Vista
+1 Snow-Covered Mountain
+1 Lightning Bolt
 1 Expansion / Explosion
 1 Relic of Progenitus
-2 Lightning Bolt
-2 Prismatic Vista
 2 Ice-Fang Coatl
 2 Expansion / Explosion
 2 Steam Vents
 2 Scalding Tarn
 2 Relic of Progenitus
+2 Lightning Bolt
 2 Snow-Covered Island
+2 Prismatic Vista
 3 Snow-Covered Island
 3 Prismatic Vista
-3 Lightning Bolt
 3 Ice-Fang Coatl
 3 Relic of Progenitus
 3 Expansion / Explosion
+3 Lightning Bolt
 3 Scalding Tarn
 4 Snow-Covered Island
 4 Ice-Fang Coatl
@@ -196,27 +196,27 @@
 5 Snow-Covered Island
 1 Gemstone Caverns
 1 Karn, the Great Creator
-1 Utopia Sprawl
-1 Walking Ballista
-1 Arbor Elf
-1 Noble Hierarch
 1 Eternal Witness
+1 Noble Hierarch
+1 Arbor Elf
+1 Utopia Sprawl
 1 Trinisphere
 1 Acidic Slime
+1 Walking Ballista
 2 Karn, the Great Creator
-2 Utopia Sprawl
-2 Walking Ballista
-2 Arbor Elf
 2 Noble Hierarch
+2 Arbor Elf
+2 Utopia Sprawl
 2 Primal Command
+2 Walking Ballista
 3 Primal Command
 3 Utopia Sprawl
-3 Walking Ballista
 3 Arbor Elf
 3 Karn, the Great Creator
+3 Walking Ballista
 4 Primal Command
-4 Utopia Sprawl
 4 Arbor Elf
+4 Utopia Sprawl
 1 Oath of Nissa
 1 Wooded Foothills
 1 Nykthos, Shrine to Nyx
@@ -224,34 +224,33 @@
 1 Garruk Wildspeaker
 2 Gemstone Caverns
 2 Oath of Nissa
-2 Wooded Foothills
 2 Eternal Witness
-2 Forest
 2 Trinisphere
 2 Mwonvuli Acid-Moss
+2 Wooded Foothills
 2 Garruk Wildspeaker
 2 Acidic Slime
+2 Forest
 3 Mwonvuli Acid-Moss
 3 Oath of Nissa
-3 Wooded Foothills
+3 Forest
 3 Eternal Witness
 3 Trinisphere
-3 Forest
+3 Wooded Foothills
 3 Garruk Wildspeaker
 4 Oath of Nissa
-4 Wooded Foothills
 4 Walking Ballista
 4 Forest
 4 Mwonvuli Acid-Moss
+4 Wooded Foothills
 5 Forest
 6 Forest
 7 Forest
 8 Forest
 9 Forest
-1 Blast Zone
-1 Vendilion Clique
 1 Teferi, Hero of Dominaria
 1 Glacial Fortress
+1 Vendilion Clique
 1 Mikokoro, Center of the Sea
 1 Snapback
 1 Gigadrowse
@@ -259,14 +258,15 @@
 1 Vapor Snag
 1 Serum Visions
 1 Spell Pierce
+1 Blast Zone
 1 Fieldmist Borderpost
 2 Boomerang
 2 Vendilion Clique
 2 Gigadrowse
+2 Spell Pierce
 2 Fieldmist Borderpost
 2 Teferi, Hero of Dominaria
 2 Serum Visions
-2 Spell Pierce
 3 Serum Visions
 3 Boomerang
 3 Fieldmist Borderpost
@@ -278,24 +278,24 @@
 8 Island
 9 Island
 1 Scrying Sheets
+1 Duskwatch Recruiter
+1 Vizier of Remedies
+1 Devoted Druid
 1 Thrun, the Last Troll
 1 Finale of Devastation
-1 Devoted Druid
-1 Vizier of Remedies
-1 Duskwatch Recruiter
 1 Tireless Tracker
-1 Scavenging Ooze
 1 Simian Spirit Guide
+1 Scavenging Ooze
 1 Phyrexian Revoker
 2 Snow-Covered Forest
-2 Finale of Devastation
 2 Devoted Druid
+2 Finale of Devastation
 2 Simian Spirit Guide
-3 Snow-Covered Forest
-3 Devoted Druid
 3 Finale of Devastation
-4 Devoted Druid
+3 Devoted Druid
+3 Snow-Covered Forest
 4 Finale of Devastation
+4 Devoted Druid
 4 Snow-Covered Forest
 4 Karn, the Great Creator
 5 Snow-Covered Forest
