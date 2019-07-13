@@ -35,8 +35,8 @@
 
 |*n*<sup>th</sup> copy|                                        Maindeck Card                                         |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
 |--------------------:|----------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
-|                    1|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)             |                    1|[Deprive](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=193519)            |
-|                    1|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)           |                    1|[Hammer of Purphoros](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373587)|
+|                    1|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)             |                    1|[Hammer of Purphoros](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373587)|
+|                    1|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)           |                    1|[Deprive](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=193519)            |
 |                    1|[Lava Dart](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=29766)           |                    1|[Seasoned Pyromancer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464094)|
 |                    1|[Seasoned Pyromancer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464094)|                    1|[Grim Lavamancer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430589)    |
 |                    1|[Piracy Charm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=124066)       |                    1|[Remand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=380255)             |
