@@ -1,0 +1,29 @@
+# Slivers
+
+#### [Export MTGO List](../collection/Slivers/Slivers.txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=2%09Adaptive%20Automaton%0A4%09Aether%20Vial%0A4%09Ancient%20Ziggurat%0A4%09Cavern%20of%20Souls%0A4%09Cloudshredder%20Sliver%0A3%09Diffusion%20Sliver%0A1%09Forest%0A4%09Galerider%20Sliver%0A2%09Gemhide%20Sliver%0A4%09Leeching%20Sliver%0A2%09Manaweft%20Sliver%0A2%09Mutavault%0A4%09Predatory%20Sliver%0A4%09Sinew%20Sliver%0A4%09Sliver%20Hive%0A4%09Striking%20Sliver%0A4%09Unclaimed%20Territory%0A4%09Unsettled%20Mariner&deckside=2%09Damping%20Sphere%0A2%09Dismember%0A2%09Frenetic%20Sliver%0A3%09Harmonic%20Sliver%0A4%09Surgical%20Extraction%0A2%09Syphon%20Sliver)
+# Maindeck
+
+|                                     Artifact (4)                                      |                                          Creature (37)                                          |                                           Land (19)                                            |
+|---------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
+|4 [Aether Vial](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=48146)|2 [Adaptive Automaton](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439384)  |4 [Ancient Ziggurat](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=189271)   |
+|                                                                                       |4 [Cloudshredder Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464144)|4 [Cavern of Souls](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278058)    |
+|                                                                                       |3 [Diffusion Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383225)    |1 [Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)             |
+|                                                                                       |4 [Galerider Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370590)    |2 [Mutavault](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370733)          |
+|                                                                                       |2 [Gemhide Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=207905)      |4 [Sliver Hive](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383384)        |
+|                                                                                       |4 [Leeching Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383297)     |4 [Unclaimed Territory](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435419)|
+|                                                                                       |2 [Manaweft Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370599)     |                                                                                                |
+|                                                                                       |4 [Predatory Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370745)    |                                                                                                |
+|                                                                                       |4 [Sinew Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=125879)        |                                                                                                |
+|                                                                                       |4 [Striking Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370589)     |                                                                                                |
+|                                                                                       |4 [Unsettled Mariner](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464165)   |                                                                                                |
+
+
+# Sideboard
+
+|                                       Artifact (2)                                        |                                        Creature (7)                                        |                                          Instant (6)                                           |
+|-------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
+|2 [Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)|2 [Frenetic Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=126011)|2 [Dismember](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382182)          |
+|                                                                                           |3 [Harmonic Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=109706)|4 [Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|
+|                                                                                           |2 [Syphon Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370752)  |                                                                                                |
+
