@@ -50,6 +50,6 @@
 |                    1|[Sterling Grove](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=23181)      |                    1|[Leyline of Sanctity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=204993)    |
 |                    1|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)             |                    1|[Collector Ouphe](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464107)        |
 |                    9|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)             |                    1|[Solitary Confinement](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=34769)    |
-|                    3|[Serra's Sanctum](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=9674)      |                    1|[Angel of Sanctions](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426703)     |
-|                     |                                                                                              |                    2|[Leyline of Sanctity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=204993)    |
+|                    3|[Serra's Sanctum](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=9674)      |                    2|[Leyline of Sanctity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=204993)    |
+|                     |                                                                                              |                    1|[Angel of Sanctions](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426703)     |
 
