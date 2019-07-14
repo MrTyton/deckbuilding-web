@@ -55,6 +55,6 @@
 |                    1|[Eidolon of Rhetoric](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=380409)     |                     |                                                                                                        |
 |                    2|[Grove of the Burnwillows](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=130595)|                     |                                                                                                        |
 |                    2|[Eladamri's Call](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442192)         |                     |                                                                                                        |
-|                    3|[Eladamri's Call](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442192)         |                     |                                                                                                        |
 |                    3|[Teferi, Time Raveler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461148)    |                     |                                                                                                        |
+|                    3|[Eladamri's Call](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442192)         |                     |                                                                                                        |
 

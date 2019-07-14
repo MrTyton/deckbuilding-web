@@ -1,52 +1,52 @@
 1 Misty Rainforest
-1 Utopia Sprawl
 1 Tropical Island
 1 Wooded Foothills
-1 Serra's Sanctum
-1 Solitary Confinement
-1 Oblivion Ring
-1 Enchantress's Presence
-1 Elephant Grass
 1 Mirri's Guile
-1 Hall of Heliod's Generosity
-1 Green Sun's Zenith
+1 Wild Growth
+1 Abundant Growth
 1 Doomwake Giant
-1 Argothian Enchantress
 1 Cast Out
+1 Elephant Grass
+1 Enchantress's Presence
+1 Oblivion Ring
+1 Serra's Sanctum
+1 Utopia Sprawl
+1 Hall of Heliod's Generosity
+1 Solitary Confinement
+1 Argothian Enchantress
+1 Green Sun's Zenith
 1 Windswept Heath
 1 Estrid's Invocation
 1 Savannah
-1 Abundant Growth
-1 Wild Growth
 1 Forest
 1 Ground Seal
 2 Misty Rainforest
-2 Utopia Sprawl
-2 Oblivion Ring
-2 Ground Seal
+2 Argothian Enchantress
+2 Abundant Growth
+2 Cast Out
+2 Wild Growth
+2 Enchantress's Presence
+2 Serra's Sanctum
 2 Elephant Grass
+2 Oblivion Ring
+2 Utopia Sprawl
+2 Ground Seal
 2 Green Sun's Zenith
 2 Forest
-2 Enchantress's Presence
 2 Estrid's Invocation
-2 Wild Growth
-2 Cast Out
-2 Abundant Growth
-2 Argothian Enchantress
-2 Serra's Sanctum
-3 Utopia Sprawl
 3 Forest
-3 Argothian Enchantress
-3 Wild Growth
+3 Abundant Growth
 3 Elephant Grass
 3 Enchantress's Presence
-3 Abundant Growth
-4 Utopia Sprawl
+3 Wild Growth
+3 Argothian Enchantress
+3 Utopia Sprawl
 4 Forest
-4 Abundant Growth
-4 Elephant Grass
-4 Wild Growth
 4 Enchantress's Presence
+4 Wild Growth
+4 Elephant Grass
+4 Utopia Sprawl
+4 Abundant Growth
 5 Forest
 6 Forest
 7 Forest
@@ -67,8 +67,8 @@
 1 Golgari Thug
 1 Bridge from Below
 1 Ichorid
-1 Hogaak, Arisen Necropolis
 1 Golgari Grave-Troll
+1 Hogaak, Arisen Necropolis
 2 Dread Return
 2 Nether Shadow
 2 Phantasmagorian
@@ -102,15 +102,6 @@
 4 Ichorid
 4 Golgari Grave-Troll
 4 Cabal Therapy
-1 Flayer of the Hatebound
-1 Balustrade Spy
-1 Creeping Chill
-2 Creeping Chill
-2 Balustrade Spy
-3 Creeping Chill
-3 Hogaak, Arisen Necropolis
-4 Nether Shadow
-4 Dread Return
 1 Whirlpool Rider
 1 Lotleth Giant
 1 Chancellor of the Annex
@@ -120,6 +111,15 @@
 3 Chancellor of the Annex
 3 Whirlpool Rider
 4 Shambling Shell
+1 Flayer of the Hatebound
+1 Balustrade Spy
+1 Creeping Chill
+2 Creeping Chill
+2 Balustrade Spy
+3 Creeping Chill
+3 Hogaak, Arisen Necropolis
+4 Nether Shadow
+4 Dread Return
 1 Recruiter of the Guard
 1 Murderous Redcap
 1 Underground Sea
@@ -128,19 +128,19 @@
 1 The Mimeoplasm
 1 Shuko
 1 Nomads en-Kor
+1 Aether Vial
 1 Teferi, Time Raveler
 1 Batterskull
 1 Brainstorm
 1 Island
-1 Stoneforge Mystic
-1 Aether Vial
-1 Ponder
 1 Cavern of Souls
+1 Stoneforge Mystic
+1 Ponder
+1 Scalding Tarn
 1 Tundra
 1 Grand Abolisher
 1 Flooded Strand
 1 Plains
-1 Scalding Tarn
 1 Force of Will
 2 Nomads en-Kor
 2 Cephalid Illusionist
@@ -157,17 +157,17 @@
 3 Underground Sea
 3 Recruiter of the Guard
 3 Cephalid Illusionist
-3 Flooded Strand
+3 Aether Vial
 3 Cavern of Souls
+3 Flooded Strand
 3 Tundra
 3 Stoneforge Mystic
 3 Force of Will
 3 Brainstorm
 3 Ponder
-3 Aether Vial
 4 Cephalid Illusionist
+4 Aether Vial
 4 Flooded Strand
 4 Tundra
-4 Aether Vial
 4 Ponder
 4 Brainstorm

@@ -29,12 +29,12 @@
 
 |*n*<sup>th</sup> copy|                                       Maindeck Card                                        |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
 |--------------------:|--------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
-|                    1|[Phyrexian Revoker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383343)|                    1|[Tocatli Honor Guard](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435194)|
-|                    1|[Wastes](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407694)           |                    1|[Eidolon of Rhetoric](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=380409)|
-|                    1|[Scavenger Grounds](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430871)|                    1|[Winds of Abandon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463986)   |
+|                    1|[Wall of Omens](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=247400)    |                    1|[Winds of Abandon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463986)   |
 |                    1|[Eiganjo Castle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=79205)    |                    1|[Archangel Avacyn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409741)   |
-|                    1|[Wall of Omens](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=247400)    |                    2|[Tocatli Honor Guard](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435194)|
-|                    2|[Phyrexian Revoker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383343)|                    2|[Winds of Abandon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463986)   |
+|                    1|[Wastes](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407694)           |                    1|[Tocatli Honor Guard](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435194)|
+|                    1|[Phyrexian Revoker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383343)|                    1|[Eidolon of Rhetoric](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=380409)|
+|                    1|[Scavenger Grounds](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430871)|                    2|[Winds of Abandon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463986)   |
 |                    2|[Wall of Omens](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=247400)    |                    2|[Eidolon of Rhetoric](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=380409)|
+|                    2|[Phyrexian Revoker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383343)|                    2|[Tocatli Honor Guard](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435194)|
 |                    4|[Shefet Dunes](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430872)     |                    3|[Tocatli Honor Guard](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435194)|
 

@@ -28,10 +28,11 @@
 
 # Other Options
 
-|*n*<sup>th</sup> copy|                                      Maindeck Card                                       |*n*<sup>th</sup> copy|Sideboard Card|
-|--------------------:|------------------------------------------------------------------------------------------|---------------------|--------------|
-|                    1|[Prismatic Vista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464193)|                     |              |
-|                    2|[Prismatic Vista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464193)|                     |              |
-|                    3|[Prismatic Vista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464193)|                     |              |
-|                    4|[Prismatic Vista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464193)|                     |              |
+|*n*<sup>th</sup> copy|                                      Maindeck Card                                       |*n*<sup>th</sup> copy|                                        Sideboard Card                                         |
+|--------------------:|------------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------------|
+|                    1|[Prismatic Vista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464193)|                    1|[Nature's Chant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464159)      |
+|                    2|[Prismatic Vista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464193)|                    1|[Force of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464001)   |
+|                    3|[Prismatic Vista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464193)|                    1|[Celestial Purge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=183055)     |
+|                    1|[Umezawa's Jitte](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=81979) |                    2|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)       |
+|                    4|[Prismatic Vista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464193)|                    1|[Sword of Fire and Ice](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=46429)|
 
