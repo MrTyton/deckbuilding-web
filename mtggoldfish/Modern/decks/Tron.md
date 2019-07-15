@@ -66,6 +66,6 @@
 |                     |                                                                                                       |                    1|[Spatial Contortion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407518)       |
 |                     |                                                                                                       |                    2|[Spatial Contortion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407518)       |
 |                     |                                                                                                       |                    3|[Thragtusk](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430614)                |
-|                     |                                                                                                       |                    2|[Pulse of Murasa](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446177)          |
 |                     |                                                                                                       |                    1|[Pulse of Murasa](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446177)          |
+|                     |                                                                                                       |                    2|[Pulse of Murasa](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446177)          |
 

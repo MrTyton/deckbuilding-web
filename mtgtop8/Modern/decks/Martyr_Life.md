@@ -28,8 +28,8 @@
 
 |*n*<sup>th</sup> copy|                                        Maindeck Card                                         |*n*<sup>th</sup> copy|                                       Sideboard Card                                       |
 |--------------------:|----------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------|
-|                    1|[Force of Virtue](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463959)    |                    1|[Disenchant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=847)          |
-|                    1|[Windbrisk Heights](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420953)  |                    1|[Ratchet Bomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370623)     |
+|                    1|[Force of Virtue](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463959)    |                    1|[Ratchet Bomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370623)     |
+|                    1|[Windbrisk Heights](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420953)  |                    1|[Disenchant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=847)          |
 |                    1|[Ajani's Pridemate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376241)  |                    1|[Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452)|
 |                    1|[Soul Warden](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129740)        |                    1|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)   |
 |                    1|[Soul's Attendant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=193499)   |                    2|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)   |

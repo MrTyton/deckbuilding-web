@@ -88,7 +88,7 @@
 |                    3|[Narset, Parter of Veils](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460988)      |                     |                                                                                                    |
 |                    3|[Teferi, Hero of Dominaria](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443095)    |                     |                                                                                                    |
 |                    3|[Shalai, Voice of Plenty](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442923)      |                     |                                                                                                    |
-|                    4|[Narset, Parter of Veils](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460988)      |                     |                                                                                                    |
 |                    4|[Dovin, Hand of Control](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461156)       |                     |                                                                                                    |
 |                    4|[Interplanar Beacon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461174)           |                     |                                                                                                    |
+|                    4|[Narset, Parter of Veils](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460988)      |                     |                                                                                                    |
 
