@@ -2,7 +2,7 @@
 
 #### [Export MTGO List](../collection/Dinosaurs/Dinosaurs.txt)
 #### [Export Arena List](../collection/Dinosaurs/Dinosaurs_arena.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=1%09Blood%20Crypt%0A3%09Collision%20/%20Colossus%0A4%09Commune%20with%20Dinosaurs%0A4%09Dragonskull%20Summit%0A4%09Forest%0A3%09Ghalta,%20Primal%20Hunger%0A4%09Marauding%20Raptor%0A4%09Otepec%20Huntmaster%0A4%09Overgrown%20Tomb%0A4%09Regisaur%20Alpha%0A4%09Ripjaw%20Raptor%0A4%09Rootbound%20Crag%0A4%09Rotting%20Regisaur%0A4%09Shifting%20Ceratops%0A4%09Stomping%20Ground%0A1%09Thrashing%20Brontodon%0A4%09Unclaimed%20Territory&deckside=1%09Carnage%20Tyrant%0A1%09Collision%20/%20Colossus%0A3%09Duress%0A3%09Flame%20Sweep%0A2%09Fry%0A3%09Thrashing%20Brontodon%0A2%09Veil%20of%20Summer)
+#### [Print on decklist.org](http://decklist.org/?deckmain=1%09Blood%20Crypt%0A3%09Collision%20/%20Colossus%0A4%09Commune%20with%20Dinosaurs%0A4%09Dragonskull%20Summit%0A4%09Forest%0A3%09Ghalta,%20Primal%20Hunger%0A4%09Marauding%20Raptor%0A4%09Otepec%20Huntmaster%0A4%09Overgrown%20Tomb%0A4%09Regisaur%20Alpha%0A4%09Ripjaw%20Raptor%0A4%09Rootbound%20Crag%0A4%09Rotting%20Regisaur%0A4%09Shifting%20Ceratops%0A4%09Stomping%20Ground%0A1%09Thrashing%20Brontodon%0A4%09Unclaimed%20Territory&deckside=1%09Carnage%20Tyrant%0A1%09Collision%20/%20Colossus%0A3%09Duress%0A3%09Flame%20Sweep%0A3%09Fry%0A2%09Thrashing%20Brontodon%0A2%09Veil%20of%20Summer)
 # Maindeck
 
 |                                          Creature (16)                                           |                                           Land (25)                                            |                                            Sorcery (4)                                            |     Unknown (15)     |
@@ -18,10 +18,17 @@
 
 # Sideboard
 
-|                                          Creature (4)                                          |                                   Sorcery (3)                                    |     Unknown (8)      |
+|                                          Creature (3)                                          |                                   Sorcery (3)                                    |     Unknown (9)      |
 |------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|----------------------|
 |1 [Carnage Tyrant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435334)     |3 [Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)|1 Collision / Colossus|
-|3 [Thrashing Brontodon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456570)|                                                                                  |3 Flame Sweep         |
-|                                                                                                |                                                                                  |2 Fry                 |
+|2 [Thrashing Brontodon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456570)|                                                                                  |3 Flame Sweep         |
+|                                                                                                |                                                                                  |3 Fry                 |
 |                                                                                                |                                                                                  |2 Veil of Summer      |
+
+
+# Other Options
+
+|*n*<sup>th</sup> copy|Maindeck Card|*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
+|---------------------|-------------|--------------------:|----------------------------------------------------------------------------------------------|
+|                     |             |                    3|[Thrashing Brontodon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456570)|
 

@@ -6,8 +6,8 @@
 1 Snubhorn Sentry
 1 Benalish Marshal
 1 Venerated Loxodon
-1 Conclave Tribunal
 1 Law-Rune Enforcer
+1 Conclave Tribunal
 2 Conclave Tribunal
 2 Skymarcher Aspirant
 2 History of Benalia
@@ -34,6 +34,9 @@
 12 Plains
 1 Dire Fleet Daredevil
 6 Mountain
+3 Snubhorn Sentry
+4 Snubhorn Sentry
+3 Conclave Tribunal
 1 Tomik, Distinguished Advokist
 1 Temple of Triumph
 1 Gods Willing
@@ -43,9 +46,6 @@
 3 Temple of Triumph
 4 Temple of Triumph
 4 Gods Willing
-3 Snubhorn Sentry
-4 Snubhorn Sentry
-3 Conclave Tribunal
 1 Boros Guildgate
 1 Krenko, Tin Street Kingpin
 1 Samut's Sprint
@@ -54,9 +54,6 @@
 1 Gird for Battle
 1 Aurelia, Exemplar of Justice
 2 Aurelia, Exemplar of Justice
-3 Gideon Blackblade
-2 Tomik, Distinguished Advokist
-2 Krenko, Tin Street Kingpin
 1 Temple Garden
 1 Stomping Ground
 1 Rootbound Crag
@@ -64,13 +61,25 @@
 2 Rootbound Crag
 2 Temple Garden
 3 Stomping Ground
-13 Plains
-1 Integrity / Intervention
-2 Integrity / Intervention
 3 Temple Garden
 4 Temple Garden
 4 Stomping Ground
+3 Gideon Blackblade
+2 Krenko, Tin Street Kingpin
 1 Sunpetal Grove
+13 Plains
+1 Integrity / Intervention
+2 Integrity / Intervention
+1 Collision / Colossus
+2 Collision / Colossus
+1 Forest
+2 Tomik, Distinguished Advokist
+1 Gruul Spellbreaker
+2 Gruul Spellbreaker
+3 Gruul Spellbreaker
+4 Gruul Spellbreaker
+2 Sunpetal Grove
+3 Sunpetal Grove
 1 Domri, Anarch of Bolas
 1 Captain Lannery Storm
 2 Domri, Anarch of Bolas
@@ -78,7 +87,6 @@
 1 Lava Coil
 1 Trostani Discordant
 1 Ixalan's Binding
-1 Forest
 2 Lava Coil
 2 Trostani Discordant
 1 Shalai, Voice of Plenty
@@ -87,18 +95,14 @@
 2 Shalai, Voice of Plenty
 2 Tajic, Legion's Edge
 1 Thrash / Threat
-1 Collision / Colossus
 1 Moment of Triumph
 1 Deafening Clarion
-2 Collision / Colossus
 2 Deafening Clarion
 4 Conclave Tribunal
-1 Burning Prophet
-1 Tocatli Honor Guard
-2 Burning Prophet
-2 Tocatli Honor Guard
-3 Tocatli Honor Guard
-4 Tocatli Honor Guard
+1 Domri's Ambush
+2 Domri's Ambush
+3 Domri's Ambush
+4 Domri's Ambush
 4 Legion Warboss
 3 Samut's Sprint
 4 Sheltering Light
@@ -126,16 +130,13 @@
 4 Lightning Strike
 4 Tomik, Distinguished Advokist
 4 Mox Amber
-1 Gruul Spellbreaker
 1 Growth-Chamber Guardian
 1 Nissa, Who Shakes the World
 1 Llanowar Elves
 2 Growth-Chamber Guardian
-2 Gruul Spellbreaker
 2 Forest
 2 Nissa, Who Shakes the World
 2 Llanowar Elves
-3 Gruul Spellbreaker
 3 Growth-Chamber Guardian
 3 Domri, Anarch of Bolas
 3 Llanowar Elves
@@ -143,7 +144,6 @@
 3 Forest
 3 Trostani Discordant
 4 Growth-Chamber Guardian
-4 Gruul Spellbreaker
 4 Domri, Anarch of Bolas
 4 Llanowar Elves
 4 Forest
@@ -159,10 +159,8 @@
 2 Knight of Autumn
 2 Incubation Druid
 2 Paradise Druid
-2 Sunpetal Grove
 2 Ixalan's Binding
 2 Vivien Reid
-3 Sunpetal Grove
 3 Rootbound Crag
 3 Lava Coil
 3 Knight of Autumn
