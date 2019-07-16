@@ -91,6 +91,6 @@
 |                    3|[Platinum Angel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=106537)            |                     |                                                                                                    |
 |                    3|[Relic of Progenitus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174824)       |                     |                                                                                                    |
 |                    3|[Gemstone Caverns](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=122094)          |                     |                                                                                                    |
-|                    4|[Repeal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405357)                    |                     |                                                                                                    |
 |                    8|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)                    |                     |                                                                                                    |
+|                    4|[Repeal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405357)                    |                     |                                                                                                    |
 

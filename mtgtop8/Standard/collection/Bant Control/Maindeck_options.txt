@@ -1,15 +1,15 @@
-3 Sunpetal Grove
 2 Island
-1 Frilled Mystic
-2 Frilled Mystic
+1 Sunpetal Grove
+2 Sunpetal Grove
+3 Sunpetal Grove
 1 Tolsimir, Friend to Wolves
 1 Growth Spiral
 2 Growth Spiral
 3 Growth Spiral
 1 Lyra Dawnbringer
 3 Entrancing Melody
-4 Growth Spiral
 1 Tamiyo, Collector of Tales
+4 Growth Spiral
 1 Arboreal Grazer
 2 Arboreal Grazer
 3 Arboreal Grazer
@@ -18,8 +18,8 @@
 2 Finale of Glory
 4 Arboreal Grazer
 2 Tamiyo, Collector of Tales
-1 Time Wipe
 1 The Immortal Sun
+1 Time Wipe
 1 God-Eternal Oketra
 6 Forest
 1 River's Rebuke
@@ -32,6 +32,9 @@
 2 Tolsimir, Friend to Wolves
 2 The Immortal Sun
 2 Lyra Dawnbringer
+1 Voracious Hydra
+2 Voracious Hydra
+3 Voracious Hydra
 1 Ixalan's Binding
 1 Knight of Autumn
 1 Bond of Flourishing
@@ -47,44 +50,17 @@
 1 Ugin, the Ineffable
 1 Vivien Reid
 2 Mobilized District
-3 Mobilized District
 3 Finale of Devastation
+3 Mobilized District
 3 Jadelight Ranger
 4 Mass Manipulation
+3 Finale of Glory
+4 Finale of Glory
 1 Ripjaw Raptor
 1 Prison Realm
 2 Ripjaw Raptor
 3 Ripjaw Raptor
 4 Ripjaw Raptor
-3 Finale of Glory
-4 Finale of Glory
-1 Warrant / Warden
-1 Carnage Tyrant
-1 Settle the Wreckage
-1 Angel of Grace
-1 Vivien, Champion of the Wilds
-1 Dovin's Veto
-1 Cleansing Nova
-1 Absorb
-1 Chemister's Insight
-1 Syncopate
-1 Raff Capashen, Ship's Mage
-1 Blink of an Eye
-1 Treasure Map
-2 Carnage Tyrant
-2 Dovin's Veto
-2 Vivien, Champion of the Wilds
-2 Settle the Wreckage
-2 Raff Capashen, Ship's Mage
-2 Angel of Grace
-2 Chemister's Insight
-2 Syncopate
-2 Blink of an Eye
-2 Absorb
-3 Raff Capashen, Ship's Mage
-3 Angel of Grace
-3 Frilled Mystic
-4 Frilled Mystic
 1 Simic Guildgate
 1 Field of the Dead
 1 Selesnya Guildgate
@@ -103,10 +79,10 @@
 2 Field of the Dead
 2 Shimmer of Possibility
 3 Circuitous Route
+3 Narset, Parter of Veils
 3 Field of the Dead
 3 Shimmer of Possibility
 3 Scapeshift
-3 Narset, Parter of Veils
 4 Narset, Parter of Veils
 4 Circuitous Route
 4 Scapeshift
