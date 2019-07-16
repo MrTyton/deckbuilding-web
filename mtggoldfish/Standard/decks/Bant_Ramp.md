@@ -28,17 +28,10 @@
 
 # Other Options
 
-|*n*<sup>th</sup> copy|                                         Maindeck Card                                         |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
-|--------------------:|-----------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
-|                    1|[God-Eternal Oketra](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460943)  |                    1|[Ripjaw Raptor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435359)      |
-|                    1|[Knight of Autumn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452933)    |                    1|[Knight of Autumn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452933)   |
-|                    2|[Knight of Autumn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452933)    |                    2|[Knight of Autumn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452933)   |
-|                    1|Cavalier of Thorns                                                                             |                    2|[Ripjaw Raptor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435359)      |
-|                    1|Leyline of Abundance                                                                           |                    1|Tale's End                                                                                    |
-|                    1|Leafkin Druid                                                                                  |                    1|[Leyline of Sanctity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=204993)|
-|                    1|Voracious Hydra                                                                                |                    1|[Seal Away](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442919)          |
-|                    2|Leyline of Abundance                                                                           |                    2|[The Immortal Sun](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439844)   |
-|                    2|[Teferi, Time Raveler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461148)|                    2|[Seal Away](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442919)          |
-|                    2|Leafkin Druid                                                                                  |                     |                                                                                              |
-|                    3|Leyline of Abundance                                                                           |                     |                                                                                              |
+|*n*<sup>th</sup> copy|                                        Maindeck Card                                        |*n*<sup>th</sup> copy|                                      Sideboard Card                                       |
+|--------------------:|---------------------------------------------------------------------------------------------|--------------------:|-------------------------------------------------------------------------------------------|
+|                    1|[God-Eternal Oketra](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460943)|                    1|[Ripjaw Raptor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435359)   |
+|                    1|[Knight of Autumn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452933)  |                    1|[Knight of Autumn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452933)|
+|                    2|[Knight of Autumn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452933)  |                    2|[Knight of Autumn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452933)|
+|                     |                                                                                             |                    2|[Ripjaw Raptor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435359)   |
 

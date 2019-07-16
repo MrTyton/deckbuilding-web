@@ -40,7 +40,7 @@
 |                     |                                                                                              |                    1|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)             |
 |                     |                                                                                              |                    1|[Risk Factor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452863)          |
 |                     |                                                                                              |                    2|[Risk Factor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452863)          |
-|                     |                                                                                              |                    3|[Treasure Map](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435410)         |
 |                     |                                                                                              |                    1|Chandra, Awakened Inferno                                                                       |
 |                     |                                                                                              |                    2|Chandra, Awakened Inferno                                                                       |
+|                     |                                                                                              |                    3|[Treasure Map](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435410)         |
 

@@ -8,6 +8,8 @@
 1 Wasteland
 1 Thalia, Guardian of Thraben
 1 Palace Jailer
+2 Birds of Paradise
+2 Knight of the Reliquary
 2 Palace Jailer
 2 Sanctum Prelate
 2 Horizon Canopy
@@ -16,43 +18,41 @@
 2 Wasteland
 2 Mother of Runes
 2 Thalia, Guardian of Thraben
-2 Birds of Paradise
-2 Knight of the Reliquary
 3 Sanctum Prelate
 3 Palace Jailer
+3 Knight of the Reliquary
 3 Wasteland
 3 Birds of Paradise
 3 Mother of Runes
 3 Thalia, Guardian of Thraben
-3 Knight of the Reliquary
 3 Noble Hierarch
 4 Sanctum Prelate
+4 Knight of the Reliquary
 4 Mother of Runes
 4 Swords to Plowshares
-4 Knight of the Reliquary
 4 Wasteland
 4 Noble Hierarch
 4 Thalia, Guardian of Thraben
 1 Courser of Kruphix
-1 Thragtusk
 1 Titania, Protector of Argoth
 1 Kitchen Finks
-1 Tarmogoyf
-1 Nissa, Vital Force
 1 Thoughtseize
-1 Leovold, Emissary of Trest
+1 Nissa, Vital Force
+1 Tarmogoyf
 1 Tropical Island
+1 Leovold, Emissary of Trest
+1 Thragtusk
+2 Sylvan Library
 2 Pernicious Deed
 2 Thoughtseize
-2 Sylvan Library
 3 Forest
 3 Assassin's Trophy
 4 Green Sun's Zenith
 1 Wooded Foothills
 1 Taiga
-1 Wrenn and Six
 1 Arid Mesa
 1 Plateau
+1 Wrenn and Six
 2 Plateau
 2 Wooded Foothills
 2 Wrenn and Six
@@ -67,12 +67,12 @@
 3 Marsh Flats
 3 Tidehollow Sculler
 4 Tidehollow Sculler
-1 Snow-Covered Forest
 1 Prismatic Vista
 1 Eidolon of Blossoms
 1 Utopia Sprawl
-1 Serra's Sanctum
 1 On Thin Ice
+1 Snow-Covered Forest
+1 Serra's Sanctum
 1 Oblivion Ring
 1 Enchantress's Presence
 1 Snow-Covered Plains
@@ -85,10 +85,9 @@
 1 Wild Growth
 1 Mirri's Guile
 1 Living Wish
+2 Snow-Covered Forest
 2 Prismatic Vista
 2 Utopia Sprawl
-2 Snow-Covered Forest
-2 On Thin Ice
 2 Oblivion Ring
 2 Elephant Grass
 2 Serra's Sanctum
@@ -97,6 +96,7 @@
 2 Wild Growth
 2 Cast Out
 2 Abundant Growth
+2 On Thin Ice
 2 Argothian Enchantress
 3 Snow-Covered Forest
 3 Utopia Sprawl

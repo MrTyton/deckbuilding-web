@@ -27,8 +27,21 @@
 
 # Other Options
 
-|*n*<sup>th</sup> copy|Maindeck Card|*n*<sup>th</sup> copy|                                     Sideboard Card                                      |
-|---------------------|-------------|--------------------:|-----------------------------------------------------------------------------------------|
-|                     |             |                    2|[Carnage Tyrant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435334)|
-|                     |             |                    3|Fry                                                                                      |
+|*n*<sup>th</sup> copy|                                         Maindeck Card                                         |*n*<sup>th</sup> copy|                                            Sideboard Card                                            |
+|--------------------:|-----------------------------------------------------------------------------------------------|--------------------:|------------------------------------------------------------------------------------------------------|
+|                    1|[Shock](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129732)               |                    3|Fry                                                                                                   |
+|                    2|[Blood Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=97102)          |                    1|Noxious Grasp                                                                                         |
+|                    1|[Savage Stomp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435361)        |                    2|Noxious Grasp                                                                                         |
+|                    2|[Shock](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129732)               |                    1|[Cast Down](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442969)                  |
+|                    3|[Shock](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129732)               |                    1|[Nissa, Who Shakes the World](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461096)|
+|                    2|[Savage Stomp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435361)        |                    1|Shifting Ceratops                                                                                     |
+|                    3|[Savage Stomp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435361)        |                    1|[Act of Treason](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442107)             |
+|                    4|[Savage Stomp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435361)        |                    1|[Otepec Huntmaster](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435307)          |
+|                    1|[Charging Monstrosaur](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435292)|                    1|[Savage Stomp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435361)               |
+|                    1|[Llanowar Elves](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129626)      |                    2|[Savage Stomp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435361)               |
+|                    1|[Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)               |                    2|[Carnage Tyrant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435334)             |
+|                    1|[Drover of the Mighty](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435342)|                    3|Veil of Summer                                                                                        |
+|                    2|[Llanowar Elves](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129626)      |                    1|[Deathgorge Scavenger](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435339)       |
+|                    3|[Llanowar Elves](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129626)      |                    2|[Cast Down](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442969)                  |
+|                    4|[Llanowar Elves](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129626)      |                    4|[Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)                      |
 

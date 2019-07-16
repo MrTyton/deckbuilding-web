@@ -59,6 +59,6 @@
 |                     |                                                                                                        |                    1|[Collector Ouphe](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464107)              |
 |                     |                                                                                                        |                    1|[Imperial Recruiter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442125)           |
 |                     |                                                                                                        |                    1|[Palace Jailer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416775)                |
-|                     |                                                                                                        |                    2|[Kambal, Consul of Allocation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417756) |
 |                     |                                                                                                        |                    3|[Deputy of Detention](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457309)          |
+|                     |                                                                                                        |                    2|[Kambal, Consul of Allocation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417756) |
 

@@ -1,25 +1,65 @@
-1 Polluted Delta
-1 Force of Will
+3 Ponder
+4 Ponder
+1 Scalding Tarn
+1 Predict
+1 Cunning Wish
+1 Preordain
+1 Intuition
+1 Counterspell
+1 Time Spiral
+1 Merchant Scroll
+1 Turnabout
+1 Flusterstorm
+1 Flooded Strand
+1 High Tide
+2 Predict
+2 Cunning Wish
+2 Preordain
+2 Flusterstorm
+2 High Tide
+2 Merchant Scroll
+2 Time Spiral
+2 Turnabout
+3 Preordain
+3 Flusterstorm
+3 Predict
+3 Cunning Wish
+3 High Tide
+3 Merchant Scroll
+3 Time Spiral
+3 Turnabout
+4 Preordain
+4 High Tide
+4 Time Spiral
+4 Merchant Scroll
+6 Island
+7 Island
+8 Island
+9 Island
+10 Island
+11 Island
+12 Island
+1 Prismatic Vista
+2 Prismatic Vista
 2 Polluted Delta
-2 Brainstorm
-2 Force of Will
-3 Force of Will
-3 Brainstorm
-4 Force of Will
-4 Brainstorm
+1 Neurok Stealthsuit
+1 Umezawa's Jitte
+1 Tribute Mage
+1 Karakas
+1 Urza's Bauble
+2 Urza's Bauble
+3 Urza's Bauble
+4 Urza's Bauble
+1 Mox Diamond
+1 Sai, Master Thopterist
+1 Engineered Explosives
 1 Ingenious Infiltrator
 1 Yuriko, the Tiger's Shadow
-1 Prismatic Vista
-1 Plague Engineer
 1 Fatal Push
-1 Changeling Outcast
 1 Underground Sea
 2 Yuriko, the Tiger's Shadow
-2 Prismatic Vista
 2 Ingenious Infiltrator
-2 Plague Engineer
 2 Fatal Push
-2 Changeling Outcast
 2 Underground Sea
 3 Prismatic Vista
 3 Ingenious Infiltrator
@@ -28,12 +68,27 @@
 3 Yuriko, the Tiger's Shadow
 4 Prismatic Vista
 4 Polluted Delta
+1 Swamp
+1 Ornithopter
+2 Ornithopter
+2 Swamp
+1 Gurmag Angler
+1 Baleful Strix
+2 Gurmag Angler
+2 Baleful Strix
+3 Baleful Strix
+4 Baleful Strix
+1 Plague Engineer
+1 Changeling Outcast
+2 Plague Engineer
+2 Changeling Outcast
 1 Sorcerous Spyglass
 1 Chrome Mox
 1 Defense Grid
 2 Walking Ballista
 2 Sorcerous Spyglass
 2 Chrome Mox
+2 Flooded Strand
 1 Lotus Petal
 1 Welding Jar
 2 Lotus Petal
@@ -51,17 +106,13 @@
 1 Spellstutter Sprite
 1 Liliana, the Last Hope
 1 Unmask
-1 Swamp
 1 Darkslick Shores
-1 Ornithopter
 1 Curfew
 2 Mutavault
 2 Ninja of the Deep Hours
 2 Faerie Seer
 2 Spellstutter Sprite
 2 Unmask
-2 Ornithopter
-2 Swamp
 2 Curfew
 2 Darkslick Shores
 3 Faerie Seer
@@ -70,76 +121,40 @@
 4 Faerie Seer
 4 Ingenious Infiltrator
 4 Changeling Outcast
-1 Scalding Tarn
 1 Snow-Covered Swamp
-1 Tasigur, the Golden Fang
 1 Chart a Course
+1 Tasigur, the Golden Fang
 1 Snow-Covered Island
-1 Gurmag Angler
-1 Baleful Strix
-1 Wonder
 1 Stitcher's Supplier
 1 Bloodstained Mire
+1 Wonder
 2 Snow-Covered Swamp
 2 Chart a Course
 2 Snow-Covered Island
-2 Gurmag Angler
-2 Wonder
 2 Scalding Tarn
 2 Stitcher's Supplier
-2 Baleful Strix
+2 Wonder
 3 Chart a Course
-3 Snow-Covered Island
 3 Snow-Covered Swamp
+3 Snow-Covered Island
 3 Gurmag Angler
 3 Underground Sea
-3 Baleful Strix
 3 Stitcher's Supplier
 4 Gurmag Angler
-4 Baleful Strix
 4 Stitcher's Supplier
 4 Yuriko, the Tiger's Shadow
-1 Misty Rainforest
-1 Predict
-1 Cunning Wish
-1 Preordain
-1 Intuition
-1 Flusterstorm
-1 Time Spiral
-1 Ponder
-1 Merchant Scroll
-1 Turnabout
-1 Flooded Strand
-1 Counterspell
-1 High Tide
-2 Predict
-2 Cunning Wish
-2 Preordain
-2 Flusterstorm
-2 High Tide
-2 Ponder
-2 Merchant Scroll
-2 Time Spiral
-2 Turnabout
-2 Flooded Strand
-3 Preordain
-3 Flusterstorm
-3 Predict
-3 Cunning Wish
-3 High Tide
-3 Merchant Scroll
-3 Time Spiral
-3 Ponder
-3 Turnabout
-4 Preordain
-4 High Tide
-4 Merchant Scroll
-4 Ponder
-4 Time Spiral
-6 Island
-7 Island
-8 Island
-9 Island
-10 Island
-11 Island
-12 Island
+1 Retrofitter Foundry
+1 Daze
+1 Thoughtseize
+1 Spell Pierce
+1 Verdant Catacombs
+1 Murderous Cut
+2 Retrofitter Foundry
+2 Spell Pierce
+2 Thoughtseize
+2 Daze
+2 Misty Rainforest
+3 Retrofitter Foundry
+3 Ornithopter
+4 Ornithopter
+4 Retrofitter Foundry
