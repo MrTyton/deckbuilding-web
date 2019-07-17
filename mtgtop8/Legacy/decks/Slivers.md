@@ -1,7 +1,7 @@
 # Slivers
 
 #### [Export MTGO List](../collection/Slivers/Slivers.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Aether%20Vial%0A3%09Ancient%20Ziggurat%0A4%09Cavern%20of%20Souls%0A4%09Crystalline%20Sliver%0A1%09Darkheart%20Sliver%0A4%09Force%20of%20Will%0A4%09Galerider%20Sliver%0A4%09Hibernation%20Sliver%0A2%09Karakas%0A3%09Muscle%20Sliver%0A4%09Mutavault%0A3%09Predatory%20Sliver%0A2%09Sidewinder%20Sliver%0A4%09Sinew%20Sliver%0A4%09Sliver%20Hive%0A4%09Striking%20Sliver%0A1%09Telekinetic%20Sliver%0A4%09Unclaimed%20Territory%0A1%09Winged%20Sliver&deckside=3%09Chalice%20of%20the%20Void%0A2%09Containment%20Priest%0A1%09Darkheart%20Sliver%0A2%09Ethersworn%20Canonist%0A2%09Harmonic%20Sliver%0A4%09Leyline%20of%20the%20Void%0A1%09Telekinetic%20Sliver)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Aether%20Vial%0A3%09Ancient%20Ziggurat%0A4%09Cavern%20of%20Souls%0A4%09Crystalline%20Sliver%0A1%09Darkheart%20Sliver%0A4%09Force%20of%20Will%0A4%09Galerider%20Sliver%0A4%09Hibernation%20Sliver%0A2%09Karakas%0A3%09Muscle%20Sliver%0A4%09Mutavault%0A3%09Predatory%20Sliver%0A2%09Sidewinder%20Sliver%0A4%09Sinew%20Sliver%0A4%09Sliver%20Hive%0A4%09Striking%20Sliver%0A1%09Telekinetic%20Sliver%0A4%09Unclaimed%20Territory%0A1%09Winged%20Sliver&deckside=1%09Ashen%20Rider%0A4%09Chalice%20of%20the%20Void%0A2%09Containment%20Priest%0A2%09Faerie%20Macabre%0A2%09Harmonic%20Sliver%0A4%09Leyline%20of%20the%20Void)
 # Maindeck
 
 |                                     Artifact (4)                                      |                                         Creature (31)                                         |                                      Instant (4)                                       |                                           Land (21)                                            |
@@ -21,21 +21,20 @@
 
 # Sideboard
 
-|                                          Artifact (3)                                          |                                          Creature (8)                                          |                                        Enchantment (4)                                         |
-|------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
-|3 [Chalice of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442211)|2 [Containment Priest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389470) |4 [Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)|
-|                                                                                                |1 [Darkheart Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=126012)   |                                                                                                |
-|                                                                                                |2 [Ethersworn Canonist](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174931)|                                                                                                |
-|                                                                                                |2 [Harmonic Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=109706)    |                                                                                                |
-|                                                                                                |1 [Telekinetic Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=111085) |                                                                                                |
+|                                          Artifact (4)                                          |                                         Creature (7)                                          |                                        Enchantment (4)                                         |
+|------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
+|4 [Chalice of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442211)|1 [Ashen Rider](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373689)       |4 [Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)|
+|                                                                                                |2 [Containment Priest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389470)|                                                                                                |
+|                                                                                                |2 [Faerie Macabre](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=201822)    |                                                                                                |
+|                                                                                                |2 [Harmonic Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=109706)   |                                                                                                |
 
 
 # Other Options
 
 |*n*<sup>th</sup> copy|                                       Maindeck Card                                       |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
 |--------------------:|-------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
-|                    4|[Muscle Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=207911)   |                    1|[Ashen Rider](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373689)        |
-|                    4|[Predatory Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370745)|                    2|[Faerie Macabre](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=201822)     |
-|                     |                                                                                           |                    4|[Chalice of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442211)|
-|                     |                                                                                           |                    1|[Faerie Macabre](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=201822)     |
+|                    4|[Muscle Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=207911)   |                    1|[Telekinetic Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=111085) |
+|                    4|[Predatory Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370745)|                    1|[Darkheart Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=126012)   |
+|                     |                                                                                           |                    1|[Ethersworn Canonist](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174931)|
+|                     |                                                                                           |                    2|[Ethersworn Canonist](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174931)|
 

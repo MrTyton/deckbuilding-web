@@ -1,13 +1,14 @@
+3 Dauntless Bodyguard
 4 Dauntless Bodyguard
+9 Plains
+1 Legion's Landing
 1 History of Benalia
 1 Skymarcher Aspirant
-1 Legion's Landing
 1 Snubhorn Sentry
 1 Benalish Marshal
 1 Venerated Loxodon
 1 Conclave Tribunal
 1 Law-Rune Enforcer
-2 Conclave Tribunal
 2 Skymarcher Aspirant
 2 History of Benalia
 2 Venerated Loxodon
@@ -15,6 +16,7 @@
 2 Legion's Landing
 2 Snubhorn Sentry
 2 Law-Rune Enforcer
+2 Conclave Tribunal
 3 Legion's Landing
 3 Venerated Loxodon
 3 Benalish Marshal
@@ -27,64 +29,86 @@
 4 Skymarcher Aspirant
 4 Law-Rune Enforcer
 4 History of Benalia
-9 Plains
 10 Plains
 11 Plains
 12 Plains
-1 Ajani, Adversary of Tyrants
+1 Temple of Triumph
+2 Temple of Triumph
+3 Temple of Triumph
+4 Temple of Triumph
 1 Dire Fleet Daredevil
 6 Mountain
+1 Gods Willing
+2 Gods Willing
+3 Gods Willing
+4 Gods Willing
+1 Gird for Battle
 3 Snubhorn Sentry
 4 Snubhorn Sentry
 3 Conclave Tribunal
-1 Temple of Triumph
-1 Gods Willing
-2 Gods Willing
-2 Temple of Triumph
-3 Gods Willing
-3 Temple of Triumph
-4 Gods Willing
-4 Temple of Triumph
-1 Gird for Battle
-1 Tomik, Distinguished Advokist
 1 Boros Guildgate
 1 Krenko, Tin Street Kingpin
-1 Samut's Sprint
-2 Boros Guildgate
-2 Samut's Sprint
-3 Gideon Blackblade
 1 Aurelia, Exemplar of Justice
 2 Aurelia, Exemplar of Justice
+1 Samut's Sprint
+2 Samut's Sprint
+2 Boros Guildgate
+3 Gideon Blackblade
+1 Tomik, Distinguished Advokist
 2 Krenko, Tin Street Kingpin
 13 Plains
-4 Conclave Tribunal
 1 Integrity / Intervention
 2 Integrity / Intervention
 1 Temple Garden
-1 Stomping Ground
 1 Rootbound Crag
+1 Stomping Ground
 2 Stomping Ground
 2 Rootbound Crag
 2 Temple Garden
 3 Stomping Ground
+1 Deafening Clarion
+2 Deafening Clarion
 2 Tomik, Distinguished Advokist
 3 Temple Garden
 4 Temple Garden
 4 Stomping Ground
-1 Sunpetal Grove
+1 Lava Coil
+2 Lava Coil
+3 Aurelia, Exemplar of Justice
+1 Lyra Dawnbringer
 1 Domri, Anarch of Bolas
+1 Sunpetal Grove
 1 Captain Lannery Storm
 2 Domri, Anarch of Bolas
 2 Captain Lannery Storm
 1 Thrash / Threat
-1 Unbreakable Formation
 2 Gird for Battle
 1 Collision / Colossus
 1 Moment of Triumph
-1 Deafening Clarion
 2 Collision / Colossus
-2 Deafening Clarion
+1 Unbreakable Formation
+4 Conclave Tribunal
 4 Legion Warboss
+1 Justice Strike
+1 Resplendent Angel
+1 Prison Realm
+1 Chandra, Awakened Inferno
+1 Bishop of Wings
+2 Resplendent Angel
+2 Prison Realm
+2 Lyra Dawnbringer
+2 Chandra, Awakened Inferno
+2 Justice Strike
+2 Bishop of Wings
+3 Resplendent Angel
+3 Lava Coil
+3 Lyra Dawnbringer
+3 Bishop of Wings
+3 Deafening Clarion
+4 Aurelia, Exemplar of Justice
+4 Lava Coil
+4 Resplendent Angel
+4 Bishop of Wings
 3 Samut's Sprint
 4 Sheltering Light
 4 Samut's Sprint
@@ -97,7 +121,6 @@
 1 Squee, the Immortal
 1 The Immortal Sun
 1 Lightning Strike
-1 Lyra Dawnbringer
 1 Blackblade Reforged
 2 Mobilized District
 2 Urza's Ruinous Blast
@@ -108,9 +131,9 @@
 2 Tajic, Legion's Edge
 3 Mobilized District
 3 Tomik, Distinguished Advokist
+3 Captain Lannery Storm
 3 Mox Amber
 3 Jaya's Immolating Inferno
-3 Captain Lannery Storm
 3 Lightning Strike
 4 Mobilized District
 4 Lightning Strike
@@ -118,24 +141,21 @@
 4 Mox Amber
 1 Gruul Spellbreaker
 1 Growth-Chamber Guardian
-1 Lava Coil
 1 Nissa, Who Shakes the World
 1 Trostani Discordant
 1 Ixalan's Binding
 1 Llanowar Elves
 1 Forest
-2 Trostani Discordant
 2 Growth-Chamber Guardian
 2 Gruul Spellbreaker
-2 Lava Coil
 2 Forest
 2 Nissa, Who Shakes the World
+2 Trostani Discordant
 2 Llanowar Elves
 3 Gruul Spellbreaker
 3 Growth-Chamber Guardian
 3 Domri, Anarch of Bolas
 3 Llanowar Elves
-3 Aurelia, Exemplar of Justice
 3 Forest
 3 Trostani Discordant
 4 Growth-Chamber Guardian

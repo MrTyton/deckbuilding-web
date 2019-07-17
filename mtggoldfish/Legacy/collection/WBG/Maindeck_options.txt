@@ -8,8 +8,6 @@
 1 Wasteland
 1 Thalia, Guardian of Thraben
 1 Palace Jailer
-2 Birds of Paradise
-2 Knight of the Reliquary
 2 Palace Jailer
 2 Sanctum Prelate
 2 Horizon Canopy
@@ -18,18 +16,20 @@
 2 Wasteland
 2 Mother of Runes
 2 Thalia, Guardian of Thraben
+2 Birds of Paradise
+2 Knight of the Reliquary
 3 Sanctum Prelate
 3 Palace Jailer
-3 Knight of the Reliquary
 3 Wasteland
 3 Birds of Paradise
 3 Mother of Runes
 3 Thalia, Guardian of Thraben
+3 Knight of the Reliquary
 3 Noble Hierarch
 4 Sanctum Prelate
-4 Knight of the Reliquary
 4 Mother of Runes
 4 Swords to Plowshares
+4 Knight of the Reliquary
 4 Wasteland
 4 Noble Hierarch
 4 Thalia, Guardian of Thraben
@@ -70,6 +70,7 @@
 1 Prismatic Vista
 1 Eidolon of Blossoms
 1 Utopia Sprawl
+1 Cast Out
 1 On Thin Ice
 1 Snow-Covered Forest
 1 Serra's Sanctum
@@ -77,7 +78,6 @@
 1 Enchantress's Presence
 1 Snow-Covered Plains
 1 Elephant Grass
-1 Cast Out
 1 Doomwake Giant
 1 Exploration
 1 Argothian Enchantress

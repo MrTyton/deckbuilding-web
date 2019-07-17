@@ -19,8 +19,8 @@
 3 Treetop Village
 4 Treetop Village
 5 Swamp
-1 Eternal Witness
 1 Blast Zone
+1 Eternal Witness
 1 Urborg, Tomb of Yawgmoth
 2 Maelstrom Pulse
 3 Nihil Spellbomb
@@ -28,15 +28,15 @@
 1 Snow-Covered Swamp
 1 Snow-Covered Forest
 2 Unearth
-2 Snow-Covered Forest
 2 Snow-Covered Swamp
+2 Snow-Covered Forest
 3 Snow-Covered Swamp
 4 Snow-Covered Swamp
-1 Traverse the Ulvenwald
-1 Grim Flayer
 1 Windswept Heath
 1 Walking Ballista
+1 Grim Flayer
 1 Spawn of Mayhem
+1 Traverse the Ulvenwald
 1 Mishra's Bauble
 2 Grim Flayer
 2 Traverse the Ulvenwald
@@ -49,24 +49,24 @@
 4 Grim Flayer
 4 Mishra's Bauble
 1 Explore
-1 Primal Command
-1 Llanowar Wastes
-1 Thragtusk
 1 Temple of Malady
+1 Thragtusk
+1 Llanowar Wastes
 1 Disfigure
-1 Kitchen Finks
 1 Death Cloud
 1 Ob Nixilis Reignited
+1 Primal Command
 1 Search for Tomorrow
+1 Kitchen Finks
 1 Drown in Sorrow
 1 Putrefy
 1 Woodland Cemetery
 1 Sakura-Tribe Elder
-2 Explore
 2 Primal Command
-2 Llanowar Wastes
+2 Explore
 2 Kitchen Finks
 2 Temple of Malady
+2 Llanowar Wastes
 2 Disfigure
 2 Death Cloud
 2 Ob Nixilis Reignited
@@ -77,18 +77,18 @@
 2 Search for Tomorrow
 3 Explore
 3 Disfigure
-3 Llanowar Wastes
 3 Kitchen Finks
 3 Temple of Malady
+3 Llanowar Wastes
 3 Thragtusk
 3 Search for Tomorrow
 3 Sakura-Tribe Elder
 3 Forest
 3 Death Cloud
 4 Kitchen Finks
+4 Llanowar Wastes
 4 Temple of Malady
 4 Sakura-Tribe Elder
-4 Llanowar Wastes
 4 Death Cloud
 4 Search for Tomorrow
 4 Explore

@@ -31,4 +31,6 @@
 |*n*<sup>th</sup> copy|Maindeck Card|*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
 |---------------------|-------------|--------------------:|----------------------------------------------------------------------------------------------|
 |                     |             |                    3|[Thrashing Brontodon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456570)|
+|                     |             |                    2|Noxious Grasp                                                                                 |
+|                     |             |                    1|Noxious Grasp                                                                                 |
 

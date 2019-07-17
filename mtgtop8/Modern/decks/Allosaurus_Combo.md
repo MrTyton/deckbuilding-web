@@ -53,6 +53,6 @@
 |                    3|[Mana Confluence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409573)        |                    2|[Nature's Claim](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382316)         |
 |                    3|Reason / Believe                                                                                  |                    2|[Dissenter's Deliverance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426866)|
 |                    3|[Wild Cantor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=96934)             |                    2|[Pongify](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389638)                |
-|                    4|[Mana Confluence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409573)        |                    3|[Dissenter's Deliverance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426866)|
-|                    4|Reason / Believe                                                                                  |                    3|[Pongify](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389638)                |
+|                    4|Reason / Believe                                                                                  |                    3|[Dissenter's Deliverance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426866)|
+|                    4|[Mana Confluence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409573)        |                    3|[Pongify](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389638)                |
 

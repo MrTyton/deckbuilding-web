@@ -37,6 +37,6 @@
 |                    2|[Merfolk Trickster](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442944)|                    1|[Umezawa's Jitte](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=81979)|
 |                    4|[Polluted Delta](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405104)   |                     |                                                                                         |
 |                    4|[Flooded Strand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405098)   |                     |                                                                                         |
-|                    4|[Stifle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382377)           |                     |                                                                                         |
 |                    4|[Curious Obsession](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439692)|                     |                                                                                         |
+|                    4|[Stifle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382377)           |                     |                                                                                         |
 

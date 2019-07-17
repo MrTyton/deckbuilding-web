@@ -24,6 +24,7 @@
 1 Phalanx Leader
 2 Canopy Vista
 2 Fortified Village
+2 Wild Defiance
 2 Akroan Skyguard
 2 Sacred Cat
 2 Scattered Groves
@@ -31,7 +32,6 @@
 2 Seeker of the Way
 2 Ethereal Armor
 2 Lagonna-Band Trailblazer
-2 Wild Defiance
 2 Dromoka's Command
 2 Vanguard of Brimaz
 2 Rancor
@@ -123,19 +123,19 @@
 1 Young Pyromancer
 2 Young Pyromancer
 1 Reckless Charge
-1 Snow-Covered Swamp
 1 Goblin Bushwhacker
 1 Kolaghan's Command
+1 Snow-Covered Swamp
 1 Hazoret the Fervent
 1 Rakdos Charm
 1 Prismatic Vista
 1 Snow-Covered Mountain
 1 Sunbaked Canyon
-2 Snow-Covered Swamp
 2 Snow-Covered Mountain
+2 Snow-Covered Swamp
 2 Reckless Charge
-3 Young Pyromancer
 3 Snow-Covered Swamp
+3 Young Pyromancer
 4 Young Pyromancer
 1 Viscera Seer
 1 Marsh Flats
@@ -145,16 +145,14 @@
 1 Rhonas the Indomitable
 1 Murderous Redcap
 1 Watery Grave
-1 Duskwatch Recruiter
-1 Vizier of Remedies
 1 Devoted Druid
-1 Birds of Paradise
+1 Vizier of Remedies
+1 Duskwatch Recruiter
 1 Hallowed Fountain
+1 Birds of Paradise
 1 Finale of Devastation
 1 Kitchen Finks
 1 Teferi, Time Raveler
-1 Carrion Feeder
-1 Shalai, Voice of Plenty
 1 Overgrown Tomb
 1 Breeding Pool
 1 Noble Hierarch
@@ -165,7 +163,8 @@
 1 Scavenging Ooze
 1 Yawgmoth, Thran Physician
 1 Eladamri's Call
-2 Eternal Witness
+1 Carrion Feeder
+1 Shalai, Voice of Plenty
 2 Verdant Catacombs
 2 Devoted Druid
 2 Birds of Paradise
@@ -173,6 +172,7 @@
 2 Teferi, Time Raveler
 2 Kitchen Finks
 2 Noble Hierarch
+2 Eternal Witness
 2 Overgrown Tomb
 2 Eladamri's Call
 2 Windswept Heath
@@ -185,12 +185,49 @@
 3 Windswept Heath
 3 Vizier of Remedies
 3 Noble Hierarch
-4 Windswept Heath
 4 Finale of Devastation
 4 Devoted Druid
 4 Vizier of Remedies
 4 Eladamri's Call
 4 Birds of Paradise
+4 Windswept Heath
+1 Lingering Souls
+2 Lingering Souls
+2 Viscera Seer
+3 Lingering Souls
+3 Viscera Seer
+4 Viscera Seer
+4 Lingering Souls
+1 Bridge from Below
+1 Greater Gargadon
+1 Stitcher's Supplier
+1 Insolent Neonate
+1 Gravecrawler
+1 Mayhem Devil
+2 Godless Shrine
+2 Marsh Flats
+2 Bridge from Below
+2 Greater Gargadon
+2 Gravecrawler
+2 Mayhem Devil
+2 Insolent Neonate
+2 Stitcher's Supplier
+3 Marsh Flats
+3 Mayhem Devil
+3 Insolent Neonate
+3 Stitcher's Supplier
+3 Blood Crypt
+3 Bridge from Below
+3 Greater Gargadon
+3 Gravecrawler
+4 Blood Crypt
+4 Marsh Flats
+4 Bridge from Below
+4 Greater Gargadon
+4 Insolent Neonate
+4 Gravecrawler
+4 Stitcher's Supplier
+4 Mayhem Devil
 1 Caves of Koilos
 1 Concealed Courtyard
 2 Concealed Courtyard
@@ -249,128 +286,6 @@
 4 Jwari Shapeshifter
 4 Hada Freeblade
 4 Ally Encampment
-1 Lingering Souls
-2 Lingering Souls
-2 Viscera Seer
-3 Lingering Souls
-3 Viscera Seer
-4 Viscera Seer
-4 Lingering Souls
-1 Stitcher's Supplier
-1 Gravecrawler
-1 Bridge from Below
-1 Greater Gargadon
-1 Insolent Neonate
-1 Mayhem Devil
-2 Godless Shrine
-2 Gravecrawler
-2 Stitcher's Supplier
-2 Marsh Flats
-2 Bridge from Below
-2 Greater Gargadon
-2 Mayhem Devil
-2 Insolent Neonate
-3 Marsh Flats
-3 Gravecrawler
-3 Stitcher's Supplier
-3 Mayhem Devil
-3 Insolent Neonate
-3 Blood Crypt
-3 Bridge from Below
-3 Greater Gargadon
-4 Blood Crypt
-4 Stitcher's Supplier
-4 Gravecrawler
-4 Bridge from Below
-4 Greater Gargadon
-4 Insolent Neonate
-4 Mayhem Devil
-4 Marsh Flats
-1 Shambling Vent
-1 Teysa Karlov
-1 Cruel Celebrant
-1 Zulaport Cutthroat
-1 Midnight Reaper
-1 Bloodthrone Vampire
-1 Doomed Traveler
-1 Hunted Witness
-1 Rally the Ancestors
-1 Promise of Bunrei
-1 Bontu the Glorified
-1 Day of Judgment
-1 Cast Down
-1 Bloodflow Connoisseur
-1 Imperious Oligarch
-1 Walk the Plank
-1 Grim Haruspex
-2 Shambling Vent
-2 Rally the Ancestors
-2 Zulaport Cutthroat
-2 Hunted Witness
-2 Bontu the Glorified
-2 Cruel Celebrant
-2 Doomed Traveler
-2 Promise of Bunrei
-2 Bloodflow Connoisseur
-2 Imperious Oligarch
-2 Grim Haruspex
-3 Cruel Celebrant
-3 Promise of Bunrei
-3 Rally the Ancestors
-3 Zulaport Cutthroat
-3 Swamp
-4 Cruel Celebrant
-4 Zulaport Cutthroat
-4 Swamp
-5 Swamp
-1 Apostle's Blessing
-1 Monastery Swiftspear
-1 Soul-Scar Mage
-1 Lava Spike
-1 Crash Through
-1 Temur Battle Rage
-1 Manamorphose
-1 Warlord's Fury
-1 Kiln Fiend
-2 Monastery Swiftspear
-2 Lava Spike
-2 Soul-Scar Mage
-2 Apostle's Blessing
-2 Crash Through
-2 Temur Battle Rage
-2 Manamorphose
-2 Kiln Fiend
-2 Warlord's Fury
-3 Monastery Swiftspear
-3 Lava Spike
-3 Soul-Scar Mage
-3 Mountain
-3 Temur Battle Rage
-3 Crash Through
-3 Manamorphose
-3 Warlord's Fury
-3 Kiln Fiend
-4 Monastery Swiftspear
-4 Lava Spike
-4 Soul-Scar Mage
-4 Mountain
-4 Temur Battle Rage
-4 Manamorphose
-4 Kiln Fiend
-4 Crash Through
-5 Mountain
-6 Mountain
-7 Mountain
-8 Mountain
-9 Mountain
-10 Mountain
-11 Mountain
-12 Mountain
-13 Mountain
-14 Mountain
-15 Mountain
-16 Mountain
-17 Mountain
 1 Blinkmoth Nexus
 1 Throne of the God-Pharaoh
 1 Lodestone Golem
@@ -408,3 +323,88 @@
 4 Walking Ballista
 4 Chief Engineer
 4 Grand Architect
+1 Apostle's Blessing
+1 Monastery Swiftspear
+1 Soul-Scar Mage
+1 Lava Spike
+1 Crash Through
+1 Kiln Fiend
+1 Temur Battle Rage
+1 Manamorphose
+1 Warlord's Fury
+2 Monastery Swiftspear
+2 Lava Spike
+2 Soul-Scar Mage
+2 Apostle's Blessing
+2 Crash Through
+2 Kiln Fiend
+2 Temur Battle Rage
+2 Manamorphose
+2 Warlord's Fury
+3 Mountain
+3 Monastery Swiftspear
+3 Lava Spike
+3 Soul-Scar Mage
+3 Crash Through
+3 Temur Battle Rage
+3 Manamorphose
+3 Warlord's Fury
+3 Kiln Fiend
+4 Mountain
+4 Monastery Swiftspear
+4 Lava Spike
+4 Soul-Scar Mage
+4 Crash Through
+4 Temur Battle Rage
+4 Manamorphose
+4 Kiln Fiend
+5 Mountain
+6 Mountain
+7 Mountain
+8 Mountain
+9 Mountain
+10 Mountain
+11 Mountain
+12 Mountain
+13 Mountain
+14 Mountain
+15 Mountain
+16 Mountain
+17 Mountain
+1 Shambling Vent
+1 Teysa Karlov
+1 Cruel Celebrant
+1 Zulaport Cutthroat
+1 Midnight Reaper
+1 Bloodthrone Vampire
+1 Doomed Traveler
+1 Hunted Witness
+1 Rally the Ancestors
+1 Promise of Bunrei
+1 Bontu the Glorified
+1 Day of Judgment
+1 Cast Down
+1 Bloodflow Connoisseur
+1 Imperious Oligarch
+1 Walk the Plank
+1 Grim Haruspex
+2 Shambling Vent
+2 Rally the Ancestors
+2 Zulaport Cutthroat
+2 Hunted Witness
+2 Bontu the Glorified
+2 Cruel Celebrant
+2 Doomed Traveler
+2 Promise of Bunrei
+2 Bloodflow Connoisseur
+2 Imperious Oligarch
+2 Grim Haruspex
+3 Cruel Celebrant
+3 Promise of Bunrei
+3 Rally the Ancestors
+3 Zulaport Cutthroat
+3 Swamp
+4 Cruel Celebrant
+4 Zulaport Cutthroat
+4 Swamp
+5 Swamp
