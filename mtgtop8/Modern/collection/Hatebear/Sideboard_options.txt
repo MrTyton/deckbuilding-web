@@ -5,10 +5,10 @@
 1 Selfless Spirit
 1 Remorseful Cleric
 1 Leyline of Sanctity
+2 Remorseful Cleric
 2 Selfless Spirit
 2 Burrenton Forge-Tender
 2 Leyline of Sanctity
-2 Remorseful Cleric
 3 Selfless Spirit
 3 Leyline of Sanctity
 3 Leonin Relic-Warder
@@ -36,11 +36,12 @@
 2 Mirran Crusader
 1 Wrath of God
 1 Pithing Needle
-1 Dusk / Dawn
 1 Karn, Scion of Urza
+2 Karn, Scion of Urza
+1 Winds of Abandon
+1 Dusk / Dawn
 1 Warping Wail
 1 Crucible of Worlds
-2 Karn, Scion of Urza
 1 Disenchant
 2 Disenchant
 1 Sorcerous Spyglass
@@ -52,14 +53,13 @@
 1 Relic of Progenitus
 1 Weathered Wayfarer
 2 Relic of Progenitus
-1 Winds of Abandon
+1 Kitchen Finks
+1 Surgical Extraction
+2 Surgical Extraction
+2 Kitchen Finks
 1 Oust
 2 Oust
 2 Grafdigger's Cage
-1 Kitchen Finks
-1 Surgical Extraction
-2 Kitchen Finks
-2 Surgical Extraction
 1 Shalai, Voice of Plenty
 2 Blessed Alliance
 2 Spellskite
@@ -86,6 +86,18 @@
 2 Orzhov Pontiff
 2 Fulminator Mage
 3 Fulminator Mage
+1 Oblivion Ring
+1 Cataclysmic Gearhulk
+1 The Immortal Sun
+1 Ravenous Trap
+1 Ratchet Bomb
+2 Winds of Abandon
+2 Ravenous Trap
+2 Ratchet Bomb
+3 Winds of Abandon
+3 Ravenous Trap
+3 Ratchet Bomb
+4 Winds of Abandon
 1 Nahiri, the Harbinger
 1 Wear / Tear
 2 Wear / Tear

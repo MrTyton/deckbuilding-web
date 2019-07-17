@@ -1,6 +1,17 @@
+1 Verdant Catacombs
+2 Young Pyromancer
+1 Mutagenic Growth
+2 Mutagenic Growth
+3 Mutagenic Growth
+4 Mutagenic Growth
+1 Plains
+2 Plains
 1 Forest
 2 Forest
 3 Forest
+3 Plains
+4 Plains
+5 Plains
 1 Unflinching Courage
 1 Fortified Village
 1 Canopy Vista
@@ -15,10 +26,10 @@
 1 Rancor
 1 Pendelhaven
 1 Cartouche of Solidarity
+1 Akroan Skyguard
 1 Seeker of the Way
 1 Lagonna-Band Trailblazer
 1 Ethereal Armor
-1 Akroan Skyguard
 1 Lifelink
 1 Vanguard of Brimaz
 1 Phalanx Leader
@@ -111,34 +122,39 @@
 4 Spellstutter Sprite
 4 Favorable Winds
 17 Island
-1 Verdant Catacombs
+1 Thunderkin Awakener
+1 Ball Lightning
+1 Inquisition of Kozilek
+1 Scalding Tarn
+2 Thunderkin Awakener
+2 Ball Lightning
+2 Inquisition of Kozilek
+3 Thunderkin Awakener
+3 Ball Lightning
+3 Snow-Covered Mountain
+3 Inquisition of Kozilek
+4 Thunderkin Awakener
+4 Ball Lightning
+4 Snow-Covered Mountain
+4 Inquisition of Kozilek
 1 Tasigur, the Golden Fang
-1 Fatal Push
 1 Flamewake Phoenix
-2 Fatal Push
 2 Flamewake Phoenix
 3 Fatal Push
 3 Flamewake Phoenix
 4 Fatal Push
-1 Young Pyromancer
-2 Young Pyromancer
 1 Reckless Charge
 1 Goblin Bushwhacker
-1 Kolaghan's Command
-1 Snow-Covered Swamp
 1 Hazoret the Fervent
 1 Rakdos Charm
 1 Prismatic Vista
-1 Snow-Covered Mountain
 1 Sunbaked Canyon
-2 Snow-Covered Mountain
 2 Snow-Covered Swamp
 2 Reckless Charge
 3 Snow-Covered Swamp
 3 Young Pyromancer
 4 Young Pyromancer
 1 Viscera Seer
-1 Marsh Flats
 1 Godless Shrine
 1 Walking Ballista
 1 Ranger-Captain of Eos
@@ -216,7 +232,6 @@
 3 Mayhem Devil
 3 Insolent Neonate
 3 Stitcher's Supplier
-3 Blood Crypt
 3 Bridge from Below
 3 Greater Gargadon
 3 Gravecrawler
@@ -236,8 +251,8 @@
 3 Caves of Koilos
 4 Caves of Koilos
 4 Concealed Courtyard
-1 Kazandu Blademaster
 1 Duress
+1 Kazandu Blademaster
 1 Kalastria Healer
 1 Kabira Evangel
 1 Unclaimed Territory
@@ -258,10 +273,10 @@
 2 Hada Freeblade
 2 Ondu Cleric
 2 Kalastria Healer
-2 Kabira Evangel
 2 Kazandu Blademaster
 2 Sandsteppe Citadel
 2 Return to the Ranks
+2 Kabira Evangel
 2 Harabaz Druid
 2 Ally Encampment
 3 Duress
@@ -282,9 +297,9 @@
 4 Ondu Cleric
 4 Halimar Excavator
 4 Kazandu Blademaster
-4 Harabaz Druid
 4 Jwari Shapeshifter
 4 Hada Freeblade
+4 Harabaz Druid
 4 Ally Encampment
 1 Blinkmoth Nexus
 1 Throne of the God-Pharaoh
@@ -323,37 +338,37 @@
 4 Walking Ballista
 4 Chief Engineer
 4 Grand Architect
+1 Crash Through
 1 Apostle's Blessing
 1 Monastery Swiftspear
 1 Soul-Scar Mage
 1 Lava Spike
-1 Crash Through
 1 Kiln Fiend
 1 Temur Battle Rage
 1 Manamorphose
 1 Warlord's Fury
+2 Crash Through
 2 Monastery Swiftspear
 2 Lava Spike
 2 Soul-Scar Mage
 2 Apostle's Blessing
-2 Crash Through
 2 Kiln Fiend
 2 Temur Battle Rage
-2 Manamorphose
 2 Warlord's Fury
-3 Mountain
+2 Manamorphose
+3 Crash Through
 3 Monastery Swiftspear
 3 Lava Spike
+3 Mountain
 3 Soul-Scar Mage
-3 Crash Through
 3 Temur Battle Rage
 3 Manamorphose
 3 Warlord's Fury
 3 Kiln Fiend
-4 Mountain
 4 Monastery Swiftspear
 4 Lava Spike
 4 Soul-Scar Mage
+4 Mountain
 4 Crash Through
 4 Temur Battle Rage
 4 Manamorphose
