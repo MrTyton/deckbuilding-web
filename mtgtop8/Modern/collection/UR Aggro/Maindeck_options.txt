@@ -4,16 +4,16 @@
 3 Vapor Snag
 1 Burst Lightning
 1 Spell Snare
-1 Logic Knot
-1 Magmatic Sinkhole
-1 Vendilion Clique
-1 Archmage's Charm
 1 Cryptic Command
+1 Magmatic Sinkhole
+1 Archmage's Charm
 1 Snow-Covered Island
+1 Logic Knot
+1 Vendilion Clique
 2 Faerie Conclave
 2 Spell Snare
-2 Vendilion Clique
 2 Cryptic Command
+2 Vendilion Clique
 2 Snow-Covered Island
 2 Archmage's Charm
 3 Archmage's Charm
@@ -39,23 +39,37 @@
 1 Spell Pierce
 2 Spell Pierce
 2 Logic Knot
+1 Crash Through
 1 Twisted Image
 1 Become Immense
-1 Crash Through
+2 Crash Through
 2 Twisted Image
 2 Become Immense
-2 Crash Through
 3 Become Immense
 4 Archmage's Charm
-1 Stormchaser Mage
-1 Copperline Gorge
-1 Wizard's Lightning
-2 Wizard's Lightning
-3 Soul-Scar Mage
-3 Wizard's Lightning
-4 Sleight of Hand
-4 Wizard's Lightning
-4 Soul-Scar Mage
+1 Watery Grave
+1 Fatal Push
+1 Remand
+1 Forked Bolt
+1 Unearth
+1 Blood Crypt
+1 Thoughtseize
+1 Inquisition of Kozilek
+1 Swamp
+1 Bloodstained Mire
+2 Watery Grave
+2 Fatal Push
+2 Remand
+2 Bloodstained Mire
+2 Inquisition of Kozilek
+3 Bloodstained Mire
+3 Inquisition of Kozilek
+3 Remand
+3 Fatal Push
+4 Polluted Delta
+4 Inquisition of Kozilek
+4 Fatal Push
+4 Remand
 1 Pteramander
 1 Fiery Islet
 1 Abrade
@@ -74,53 +88,39 @@
 2 Crack the Earth
 3 Crack the Earth
 4 Crack the Earth
-1 Watery Grave
-1 Fatal Push
-1 Forked Bolt
-1 Unearth
-1 Blood Crypt
-1 Thoughtseize
-1 Inquisition of Kozilek
-1 Swamp
-1 Bloodstained Mire
-1 Remand
-2 Watery Grave
-2 Fatal Push
-2 Remand
-2 Bloodstained Mire
-2 Inquisition of Kozilek
-3 Bloodstained Mire
-3 Inquisition of Kozilek
-3 Fatal Push
-3 Remand
-4 Polluted Delta
-4 Inquisition of Kozilek
-4 Fatal Push
-4 Remand
-1 Manamorphose
-1 Temur Battle Rage
-1 Kiln Fiend
+1 Stormchaser Mage
+1 Copperline Gorge
+1 Wizard's Lightning
+2 Wizard's Lightning
+3 Soul-Scar Mage
+3 Wizard's Lightning
+4 Soul-Scar Mage
+4 Wizard's Lightning
+4 Sleight of Hand
 1 Apostle's Blessing
-1 Thing in the Ice
 1 Bedlam Reveler
+1 Kiln Fiend
+1 Temur Battle Rage
+1 Thing in the Ice
 1 Stubborn Denial
-2 Manamorphose
-2 Temur Battle Rage
-2 Kiln Fiend
+1 Manamorphose
+2 Bedlam Reveler
 2 Apostle's Blessing
+2 Kiln Fiend
 2 Stubborn Denial
 2 Thing in the Ice
-2 Bedlam Reveler
 2 Mountain
-3 Kiln Fiend
-3 Manamorphose
+2 Manamorphose
+2 Temur Battle Rage
 3 Temur Battle Rage
 3 Thing in the Ice
 3 Mountain
-4 Kiln Fiend
-4 Manamorphose
+3 Manamorphose
+3 Kiln Fiend
 4 Temur Battle Rage
 4 Mountain
 4 Steam Vents
-5 Mountain
+4 Manamorphose
 4 Thing in the Ice
+5 Mountain
+4 Kiln Fiend

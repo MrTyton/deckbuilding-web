@@ -48,6 +48,6 @@
 |                    1|[Abrupt Decay](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456061)          |                    1|[Yixlid Jailer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=130702)         |
 |                    1|[Cast Out](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426710)              |                    1|[Liliana of the Veil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=235597)   |
 |                    1|[Giver of Runes](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463962)        |                    2|[Assassin's Trophy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452902)     |
-|                    4|[Traverse the Ulvenwald](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409998)|                    3|[Yixlid Jailer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=130702)         |
-|                     |                                                                                                 |                    2|[Yixlid Jailer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=130702)         |
+|                    4|[Traverse the Ulvenwald](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409998)|                    2|[Yixlid Jailer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=130702)         |
+|                     |                                                                                                 |                    3|[Yixlid Jailer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=130702)         |
 

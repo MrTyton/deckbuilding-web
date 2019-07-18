@@ -1,21 +1,14 @@
-1 Verdant Catacombs
-2 Young Pyromancer
-1 Mutagenic Growth
-2 Mutagenic Growth
-3 Mutagenic Growth
-4 Mutagenic Growth
-1 Plains
-2 Plains
-1 Forest
-2 Forest
-3 Forest
 3 Plains
 4 Plains
 5 Plains
+1 Forest
+2 Forest
+3 Forest
 1 Unflinching Courage
 1 Fortified Village
 1 Canopy Vista
 1 Wild Defiance
+1 Mutagenic Growth
 1 Dromoka's Command
 1 Gryff's Boon
 1 Scattered Groves
@@ -35,6 +28,7 @@
 1 Phalanx Leader
 2 Canopy Vista
 2 Fortified Village
+2 Mutagenic Growth
 2 Wild Defiance
 2 Akroan Skyguard
 2 Sacred Cat
@@ -48,10 +42,12 @@
 2 Rancor
 2 Emerge Unscathed
 2 Tethmos High Priest
+3 Mutagenic Growth
 3 Emerge Unscathed
 3 Tethmos High Priest
 3 Lagonna-Band Trailblazer
 3 Ethereal Armor
+4 Mutagenic Growth
 4 Tethmos High Priest
 4 Emerge Unscathed
 4 Lagonna-Band Trailblazer
@@ -83,26 +79,26 @@
 14 Island
 15 Island
 16 Island
-1 Mana Leak
-1 Jace, Wielder of Mysteries
 1 Narset's Reversal
 1 Spell Snare
 1 Faerie Miscreant
 1 Spellstutter Sprite
+1 Mana Leak
 1 Rune Snag
 1 Quickling
 1 Unsummon
 1 Favorable Winds
-2 Mana Leak
+1 Jace, Wielder of Mysteries
 2 Spell Snare
-2 Jace, Wielder of Mysteries
 2 Narset's Reversal
 2 Quickling
 2 Unsummon
 2 Faerie Miscreant
 2 Rune Snag
 2 Spellstutter Sprite
+2 Jace, Wielder of Mysteries
 2 Favorable Winds
+2 Mana Leak
 3 Mana Leak
 3 Spellstutter Sprite
 3 Favorable Winds
@@ -114,31 +110,19 @@
 3 Rune Snag
 4 Unsummon
 4 Faerie Miscreant
+4 Favorable Winds
 4 Judge's Familiar
 4 Rune Snag
 4 Narset's Reversal
 4 Quickling
 4 Mana Leak
 4 Spellstutter Sprite
-4 Favorable Winds
 17 Island
-1 Thunderkin Awakener
-1 Ball Lightning
-1 Inquisition of Kozilek
-1 Scalding Tarn
-2 Thunderkin Awakener
-2 Ball Lightning
-2 Inquisition of Kozilek
-3 Thunderkin Awakener
-3 Ball Lightning
-3 Snow-Covered Mountain
-3 Inquisition of Kozilek
-4 Thunderkin Awakener
-4 Ball Lightning
-4 Snow-Covered Mountain
-4 Inquisition of Kozilek
+1 Verdant Catacombs
 1 Tasigur, the Golden Fang
 1 Flamewake Phoenix
+1 Mountain
+2 Mountain
 2 Flamewake Phoenix
 3 Fatal Push
 3 Flamewake Phoenix
@@ -149,10 +133,11 @@
 1 Rakdos Charm
 1 Prismatic Vista
 1 Sunbaked Canyon
-2 Snow-Covered Swamp
+2 Young Pyromancer
 2 Reckless Charge
-3 Snow-Covered Swamp
+2 Snow-Covered Swamp
 3 Young Pyromancer
+3 Snow-Covered Swamp
 4 Young Pyromancer
 1 Viscera Seer
 1 Godless Shrine
@@ -164,12 +149,13 @@
 1 Devoted Druid
 1 Vizier of Remedies
 1 Duskwatch Recruiter
-1 Hallowed Fountain
 1 Birds of Paradise
-1 Finale of Devastation
-1 Kitchen Finks
 1 Teferi, Time Raveler
+1 Kitchen Finks
+1 Finale of Devastation
+1 Shalai, Voice of Plenty
 1 Overgrown Tomb
+1 Hallowed Fountain
 1 Breeding Pool
 1 Noble Hierarch
 1 Windswept Heath
@@ -180,16 +166,15 @@
 1 Yawgmoth, Thran Physician
 1 Eladamri's Call
 1 Carrion Feeder
-1 Shalai, Voice of Plenty
-2 Verdant Catacombs
 2 Devoted Druid
-2 Birds of Paradise
 2 Finale of Devastation
-2 Teferi, Time Raveler
+2 Verdant Catacombs
+2 Birds of Paradise
+2 Overgrown Tomb
 2 Kitchen Finks
+2 Teferi, Time Raveler
 2 Noble Hierarch
 2 Eternal Witness
-2 Overgrown Tomb
 2 Eladamri's Call
 2 Windswept Heath
 2 Vizier of Remedies
@@ -245,20 +230,20 @@
 4 Mayhem Devil
 1 Caves of Koilos
 1 Concealed Courtyard
-2 Concealed Courtyard
 2 Caves of Koilos
-3 Concealed Courtyard
+2 Concealed Courtyard
 3 Caves of Koilos
+3 Concealed Courtyard
 4 Caves of Koilos
 4 Concealed Courtyard
 1 Duress
 1 Kazandu Blademaster
 1 Kalastria Healer
 1 Kabira Evangel
-1 Unclaimed Territory
 1 Sandsteppe Citadel
 1 Harabaz Druid
 1 Return to the Ranks
+1 Unclaimed Territory
 1 Jwari Shapeshifter
 1 Arcane Sanctum
 1 Halimar Excavator
@@ -296,10 +281,10 @@
 4 Return to the Ranks
 4 Ondu Cleric
 4 Halimar Excavator
-4 Kazandu Blademaster
 4 Jwari Shapeshifter
 4 Hada Freeblade
 4 Harabaz Druid
+4 Kazandu Blademaster
 4 Ally Encampment
 1 Blinkmoth Nexus
 1 Throne of the God-Pharaoh
@@ -322,14 +307,14 @@
 2 Throne of the God-Pharaoh
 2 Lodestone Golem
 2 Chief Engineer
-3 Smuggler's Copter
 3 Blinkmoth Nexus
 3 Lodestone Golem
 3 Master of Etherium
+3 Smuggler's Copter
 3 Chief Engineer
-3 Etherium Sculptor
 3 Walking Ballista
 3 Grand Architect
+3 Etherium Sculptor
 4 Blinkmoth Nexus
 4 Lodestone Golem
 4 Master of Etherium
@@ -338,72 +323,38 @@
 4 Walking Ballista
 4 Chief Engineer
 4 Grand Architect
-1 Crash Through
-1 Apostle's Blessing
-1 Monastery Swiftspear
-1 Soul-Scar Mage
-1 Lava Spike
-1 Kiln Fiend
-1 Temur Battle Rage
-1 Manamorphose
-1 Warlord's Fury
-2 Crash Through
-2 Monastery Swiftspear
-2 Lava Spike
-2 Soul-Scar Mage
-2 Apostle's Blessing
-2 Kiln Fiend
-2 Temur Battle Rage
-2 Warlord's Fury
-2 Manamorphose
-3 Crash Through
-3 Monastery Swiftspear
-3 Lava Spike
-3 Mountain
-3 Soul-Scar Mage
-3 Temur Battle Rage
-3 Manamorphose
-3 Warlord's Fury
-3 Kiln Fiend
-4 Monastery Swiftspear
-4 Lava Spike
-4 Soul-Scar Mage
-4 Mountain
-4 Crash Through
-4 Temur Battle Rage
-4 Manamorphose
-4 Kiln Fiend
-5 Mountain
-6 Mountain
-7 Mountain
-8 Mountain
-9 Mountain
-10 Mountain
-11 Mountain
-12 Mountain
-13 Mountain
-14 Mountain
-15 Mountain
-16 Mountain
-17 Mountain
-1 Shambling Vent
+1 Thunderkin Awakener
+1 Ball Lightning
+1 Inquisition of Kozilek
+1 Scalding Tarn
+2 Thunderkin Awakener
+2 Ball Lightning
+2 Inquisition of Kozilek
+3 Thunderkin Awakener
+3 Ball Lightning
+3 Snow-Covered Mountain
+3 Inquisition of Kozilek
+4 Thunderkin Awakener
+4 Ball Lightning
+4 Snow-Covered Mountain
+4 Inquisition of Kozilek
 1 Teysa Karlov
 1 Cruel Celebrant
 1 Zulaport Cutthroat
 1 Midnight Reaper
 1 Bloodthrone Vampire
 1 Doomed Traveler
+1 Cast Down
 1 Hunted Witness
 1 Rally the Ancestors
 1 Promise of Bunrei
 1 Bontu the Glorified
+1 Shambling Vent
 1 Day of Judgment
-1 Cast Down
 1 Bloodflow Connoisseur
 1 Imperious Oligarch
 1 Walk the Plank
 1 Grim Haruspex
-2 Shambling Vent
 2 Rally the Ancestors
 2 Zulaport Cutthroat
 2 Hunted Witness
@@ -411,6 +362,7 @@
 2 Cruel Celebrant
 2 Doomed Traveler
 2 Promise of Bunrei
+2 Shambling Vent
 2 Bloodflow Connoisseur
 2 Imperious Oligarch
 2 Grim Haruspex

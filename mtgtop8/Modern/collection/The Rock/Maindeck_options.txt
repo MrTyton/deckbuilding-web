@@ -1,14 +1,14 @@
 1 Collective Brutality
 2 Kalitas, Traitor of Ghet
 4 Inquisition of Kozilek
-4 Assassin's Trophy
 1 Nurturing Peatland
+4 Assassin's Trophy
 2 Nihil Spellbomb
 2 Nurturing Peatland
 1 Unearth
-1 Marsh Flats
 1 Hexdrinker
 2 Hexdrinker
+1 Marsh Flats
 2 Collective Brutality
 1 Twilight Mire
 1 Plague Engineer
@@ -17,7 +17,12 @@
 1 Blast Zone
 1 Eternal Witness
 1 Urborg, Tomb of Yawgmoth
-3 Overgrown Tomb
+3 Treetop Village
+4 Treetop Village
+5 Swamp
+1 Bloodstained Mire
+1 Ifnir Deadlands
+1 Tombstalker
 1 Grim Flayer
 1 Traverse the Ulvenwald
 1 Mishra's Bauble
@@ -27,12 +32,7 @@
 3 Grim Flayer
 3 Traverse the Ulvenwald
 3 Mishra's Bauble
-3 Treetop Village
-4 Treetop Village
-5 Swamp
-1 Ifnir Deadlands
-1 Tombstalker
-1 Bloodstained Mire
+3 Overgrown Tomb
 2 Maelstrom Pulse
 3 Nihil Spellbomb
 4 Nurturing Peatland
@@ -43,23 +43,16 @@
 2 Snow-Covered Forest
 3 Snow-Covered Swamp
 4 Snow-Covered Swamp
-1 Windswept Heath
-1 Walking Ballista
-1 Spawn of Mayhem
-2 Spawn of Mayhem
-2 Windswept Heath
-4 Grim Flayer
-4 Mishra's Bauble
 1 Explore
 1 Temple of Malady
 1 Thragtusk
 1 Llanowar Wastes
 1 Disfigure
+1 Kitchen Finks
 1 Death Cloud
 1 Ob Nixilis Reignited
 1 Primal Command
 1 Search for Tomorrow
-1 Kitchen Finks
 1 Drown in Sorrow
 1 Putrefy
 1 Woodland Cemetery
@@ -72,9 +65,9 @@
 2 Disfigure
 2 Death Cloud
 2 Ob Nixilis Reignited
+2 Woodland Cemetery
 2 Thragtusk
 2 Drown in Sorrow
-2 Woodland Cemetery
 2 Sakura-Tribe Elder
 2 Search for Tomorrow
 3 Explore

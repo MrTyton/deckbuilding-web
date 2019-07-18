@@ -64,7 +64,7 @@
 |                    2|[Mind Stone](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=135280)              |                    2|[Gut Shot](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397673)           |
 |                    2|[Endbringer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407513)              |                     |                                                                                              |
 |                    3|[Scavenger Grounds](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430871)       |                     |                                                                                              |
+|                    4|[Blast Zone](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461171)              |                     |                                                                                              |
 |                    1|[Sword of Fire and Ice](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=46429)    |                     |                                                                                              |
 |                    4|[Cavern of Souls](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278058)         |                     |                                                                                              |
-|                    4|[Blast Zone](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461171)              |                     |                                                                                              |
 

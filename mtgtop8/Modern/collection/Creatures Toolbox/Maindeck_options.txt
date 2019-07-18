@@ -12,8 +12,8 @@
 1 Viscera Seer
 1 Knight of Autumn
 4 Noble Hierarch
-1 Breeding Pool
 1 Misty Rainforest
+1 Breeding Pool
 1 Incubation / Incongruity
 2 Incubation / Incongruity
 3 Incubation / Incongruity
@@ -24,8 +24,8 @@
 1 Deputy of Detention
 3 Duskwatch Recruiter
 2 Tireless Tracker
-1 Snow-Covered Plains
 1 Snow-Covered Forest
+1 Snow-Covered Plains
 2 Snow-Covered Forest
 1 Ghost Quarter
 1 Knight of the Reliquary
@@ -49,10 +49,10 @@
 1 Bring to Light
 1 Utopia Sprawl
 1 Niv-Mizzet Reborn
+1 Maelstrom Pulse
 1 Acidic Slime
 1 Kiki-Jiki, Mirror Breaker
 1 Teferi, Time Raveler
-1 Maelstrom Pulse
 1 Deceiver Exarch
 1 Wall of Blossoms
 2 Restoration Angel
@@ -63,8 +63,8 @@
 2 Wall of Blossoms
 2 Bring to Light
 2 Teferi, Time Raveler
-3 Teferi, Time Raveler
 3 Manamorphose
+3 Teferi, Time Raveler
 3 Utopia Sprawl
 3 Arbor Elf
 3 Wall of Blossoms
@@ -92,8 +92,8 @@
 2 Plains
 3 Temple Garden
 1 Ancient Stirrings
-1 Banefire
 1 Canopy Vista
+1 Banefire
 1 Volcano Hellion
 1 Blasphemous Act
 1 Hornet Nest
@@ -105,9 +105,9 @@
 2 Ancient Stirrings
 2 Mountain
 2 Walking Ballista
+2 Banefire
 2 Altar of Dementia
 2 Wooded Foothills
-2 Banefire
 2 Hornet Nest
 2 Cinder Glade
 2 Melira, Sylvok Outcast
@@ -124,19 +124,17 @@
 4 Hornet Nest
 5 Forest
 1 Tectonic Edge
-1 Ranger-Captain of Eos
+1 Snow-Covered Swamp
 1 Anafenza, the Foremost
 1 Murderous Redcap
-1 Snow-Covered Swamp
-1 Anafenza, Kin-Tree Spirit
-2 Godless Shrine
+1 Ranger-Captain of Eos
 1 Voice of Resurgence
 2 Voice of Resurgence
 1 Retreat to Coralhelm
 1 Blast Zone
 1 Kessig Wolf Run
-2 Retreat to Coralhelm
 2 Ghost Quarter
+2 Retreat to Coralhelm
 1 Sunpetal Grove
 2 Sunpetal Grove
 2 Knight of Autumn
@@ -144,6 +142,8 @@
 1 Avacyn's Pilgrim
 2 Nurturing Peatland
 2 Avacyn's Pilgrim
+1 Anafenza, Kin-Tree Spirit
+2 Godless Shrine
 1 Ranger of Eos
 1 Hallowed Fountain
 1 Flooded Strand
