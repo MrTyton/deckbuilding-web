@@ -4,9 +4,9 @@
 1 Forest
 2 Forest
 3 Forest
+1 Canopy Vista
 1 Unflinching Courage
 1 Fortified Village
-1 Canopy Vista
 1 Wild Defiance
 1 Mutagenic Growth
 1 Dromoka's Command
@@ -65,8 +65,8 @@
 2 Judge's Familiar
 3 Island
 3 Mausoleum Wanderer
-4 Island
 4 Mausoleum Wanderer
+4 Island
 5 Island
 6 Island
 7 Island
@@ -133,8 +133,8 @@
 1 Hazoret the Fervent
 1 Rakdos Charm
 1 Prismatic Vista
-2 Young Pyromancer
 2 Reckless Charge
+2 Young Pyromancer
 2 Snow-Covered Swamp
 3 Young Pyromancer
 3 Snow-Covered Swamp
@@ -169,8 +169,8 @@
 2 Devoted Druid
 2 Finale of Devastation
 2 Verdant Catacombs
-2 Birds of Paradise
 2 Teferi, Time Raveler
+2 Birds of Paradise
 2 Overgrown Tomb
 2 Kitchen Finks
 2 Noble Hierarch
@@ -200,16 +200,16 @@
 4 Viscera Seer
 4 Lingering Souls
 1 Stitcher's Supplier
-1 Greater Gargadon
 1 Bridge from Below
+1 Greater Gargadon
 1 Insolent Neonate
 1 Gravecrawler
 1 Mayhem Devil
 2 Stitcher's Supplier
 2 Godless Shrine
-2 Greater Gargadon
 2 Marsh Flats
 2 Bridge from Below
+2 Greater Gargadon
 2 Gravecrawler
 2 Mayhem Devil
 2 Insolent Neonate
@@ -308,8 +308,8 @@
 2 Lodestone Golem
 2 Chief Engineer
 3 Lodestone Golem
-3 Blinkmoth Nexus
 3 Master of Etherium
+3 Blinkmoth Nexus
 3 Smuggler's Copter
 3 Chief Engineer
 3 Walking Ballista
@@ -323,21 +323,21 @@
 4 Walking Ballista
 4 Chief Engineer
 4 Grand Architect
-1 Thunderkin Awakener
-1 Ball Lightning
 1 Inquisition of Kozilek
+1 Ball Lightning
 1 Scalding Tarn
+1 Thunderkin Awakener
 2 Thunderkin Awakener
 2 Ball Lightning
 2 Inquisition of Kozilek
-3 Thunderkin Awakener
-3 Ball Lightning
 3 Snow-Covered Mountain
+3 Ball Lightning
+3 Thunderkin Awakener
 3 Inquisition of Kozilek
-4 Thunderkin Awakener
-4 Ball Lightning
 4 Snow-Covered Mountain
+4 Thunderkin Awakener
 4 Inquisition of Kozilek
+4 Ball Lightning
 1 Teysa Karlov
 1 Cruel Celebrant
 1 Zulaport Cutthroat
@@ -348,8 +348,8 @@
 1 Hunted Witness
 1 Rally the Ancestors
 1 Promise of Bunrei
-1 Shambling Vent
 1 Bontu the Glorified
+1 Shambling Vent
 1 Day of Judgment
 1 Bloodflow Connoisseur
 1 Imperious Oligarch

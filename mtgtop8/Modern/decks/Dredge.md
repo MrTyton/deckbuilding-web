@@ -135,6 +135,6 @@
 |                    3|[Unearth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442102)            |                     |                                                                                                      |
 |                    3|[Seasoned Pyromancer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464094)|                     |                                                                                                      |
 |                    4|[Unearth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442102)            |                     |                                                                                                      |
-|                    4|[Cryptbreaker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414381)       |                     |                                                                                                      |
 |                    4|[Seasoned Pyromancer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464094)|                     |                                                                                                      |
+|                    4|[Cryptbreaker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414381)       |                     |                                                                                                      |
 

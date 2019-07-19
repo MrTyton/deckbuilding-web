@@ -5,8 +5,8 @@
 1 Scrap Trawler
 1 Spire of Industry
 1 Kozilek, Butcher of Truth
-1 Watery Grave
 1 Polluted Delta
+1 Watery Grave
 1 Tormod's Crypt
 1 Nihil Spellbomb
 1 Snow-Covered Swamp
@@ -17,19 +17,19 @@
 4 Whir of Invention
 4 Polluted Delta
 1 Eternal Witness
-1 Nykthos, Shrine to Nyx
 1 Garruk Wildspeaker
+1 Nykthos, Shrine to Nyx
+1 Overgrowth
 1 Trinisphere
-1 Nissa, Vastwood Seer
 1 Walking Ballista
 1 Acidic Slime
-1 Overgrowth
 1 Nissa, Worldwaker
 1 Utopia Sprawl
 1 Windswept Heath
 1 Hydroid Krasis
 1 Breeding Pool
 1 Primal Command
+1 Nissa, Vastwood Seer
 1 Arbor Elf
 1 Karn, the Great Creator
 1 Mwonvuli Acid-Moss
@@ -39,7 +39,6 @@
 2 Primal Command
 2 Overgrowth
 2 Breeding Pool
-2 Nissa, Vastwood Seer
 2 Walking Ballista
 2 Trinisphere
 2 Acidic Slime
@@ -50,6 +49,7 @@
 2 Arbor Elf
 2 Nissa, Worldwaker
 2 Windswept Heath
+2 Nissa, Vastwood Seer
 3 Primal Command
 3 Overgrowth
 3 Windswept Heath
@@ -81,9 +81,9 @@
 1 Seismic Assault
 1 Blast Zone
 1 Island
-1 Temple of Epiphany
 1 Sulfur Falls
 1 Treasure Hunt
+1 Temple of Epiphany
 1 Mountain
 1 Reliquary Tower
 2 Mountain

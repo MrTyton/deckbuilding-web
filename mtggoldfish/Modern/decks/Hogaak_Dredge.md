@@ -29,8 +29,30 @@
 
 # Other Options
 
-|*n*<sup>th</sup> copy|Maindeck Card|*n*<sup>th</sup> copy|                                        Sideboard Card                                         |
-|---------------------|-------------|--------------------:|-----------------------------------------------------------------------------------------------|
-|                     |             |                    1|[Goblin Rabblemaster](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438486) |
-|                     |             |                    1|[Engineered Explosives](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=50139)|
+|*n*<sup>th</sup> copy|                                        Maindeck Card                                        |*n*<sup>th</sup> copy|                                        Sideboard Card                                         |
+|--------------------:|---------------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------------|
+|                    1|[Godless Shrine](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405099)    |                    1|[Leyline of Sanctity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=204993) |
+|                    1|[Creeping Chill](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452816)    |                    1|[Fatal Push](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423724)          |
+|                    1|[Darkslick Shores](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=209400)  |                    1|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682) |
+|                    1|[Blackcleave Cliffs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=209401)|                    1|[Wear/Tear](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=368950)           |
+|                    1|[Altar of Dementia](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382212) |                    1|[Darkblast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456055)           |
+|                    1|[Golgari Thug](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=292953)      |                    2|[Leyline of Sanctity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=204993) |
+|                    1|[Narcomoeba](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=136140)        |                    2|[Fatal Push](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423724)          |
+|                    1|[Dakmor Salvage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=292984)    |                    2|[Wear/Tear](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=368950)           |
+|                    1|[Steam Vents](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405109)       |                    2|[Darkblast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456055)           |
+|                    1|[Gemstone Mine](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=109761)     |                    3|[Leyline of Sanctity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=204993) |
+|                    2|[Creeping Chill](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452816)    |                    3|[Fatal Push](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423724)          |
+|                    2|[Godless Shrine](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405099)    |                    3|[Wear/Tear](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=368950)           |
+|                    2|[Altar of Dementia](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382212) |                    4|[Leyline of Sanctity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=204993) |
+|                    2|[Gemstone Mine](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=109761)     |                    4|[Fatal Push](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423724)          |
+|                    2|[Golgari Thug](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=292953)      |                    4|[Wear/Tear](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=368950)           |
+|                    2|[Narcomoeba](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=136140)        |                    1|[Engineered Explosives](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=50139)|
+|                    2|[Dakmor Salvage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=292984)    |                    1|[Goblin Rabblemaster](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438486) |
+|                    3|[Creeping Chill](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452816)    |                     |                                                                                               |
+|                    3|[Altar of Dementia](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382212) |                     |                                                                                               |
+|                    3|[Narcomoeba](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=136140)        |                     |                                                                                               |
+|                    3|[Golgari Thug](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=292953)      |                     |                                                                                               |
+|                    4|[Creeping Chill](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452816)    |                     |                                                                                               |
+|                    4|[Altar of Dementia](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382212) |                     |                                                                                               |
+|                    4|[Narcomoeba](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=136140)        |                     |                                                                                               |
 

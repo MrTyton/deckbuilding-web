@@ -12,8 +12,8 @@
 2 Burrenton Forge-Tender
 2 Leyline of Sanctity
 3 Selfless Spirit
-3 Leonin Relic-Warder
 3 Leyline of Sanctity
+3 Leonin Relic-Warder
 4 Leyline of Sanctity
 1 Declaration in Stone
 1 Eidolon of Rhetoric
@@ -44,6 +44,10 @@
 1 Path to Exile
 2 Deputy of Detention
 2 Geist of Saint Traft
+1 Winds of Abandon
+1 Oust
+2 Oust
+2 Grafdigger's Cage
 1 Disenchant
 2 Disenchant
 1 Surgical Extraction
@@ -53,10 +57,6 @@
 1 Shalai, Voice of Plenty
 2 Blessed Alliance
 2 Spellskite
-1 Winds of Abandon
-1 Oust
-2 Oust
-2 Grafdigger's Cage
 1 Militia Bugler
 1 Ethersworn Canonist
 1 Thalia, Heretic Cathar
@@ -68,12 +68,12 @@
 3 Plague Engineer
 3 Stony Silence
 1 Wasteland Strangler
-1 Mangara of Corondor
 1 Sin Collector
 1 Celestial Purge
+1 Mangara of Corondor
+2 Mangara of Corondor
 2 Sin Collector
 2 Celestial Purge
-2 Mangara of Corondor
 3 Auriok Champion
 1 Fulminator Mage
 2 Orzhov Pontiff
@@ -90,12 +90,12 @@
 2 Ravenous Trap
 2 Ratchet Bomb
 3 Winds of Abandon
-3 Ravenous Trap
 3 Ratchet Bomb
+3 Ravenous Trap
 4 Winds of Abandon
-1 Nahiri, the Harbinger
 1 Tocatli Honor Guard
 1 Wear / Tear
+1 Nahiri, the Harbinger
 2 Tocatli Honor Guard
 2 Worship
 2 Wear / Tear
