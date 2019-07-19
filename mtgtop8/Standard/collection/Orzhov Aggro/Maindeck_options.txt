@@ -1,3 +1,5 @@
+2 Vicious Conquistador
+8 Plains
 1 Gideon Blackblade
 2 Gideon Blackblade
 1 Sorin, Vengeful Bloodlord
@@ -11,11 +13,15 @@
 2 History of Benalia
 3 History of Benalia
 4 History of Benalia
-1 Dusk Legion Zealot
-2 Dusk Legion Zealot
+3 Mortify
 1 Command the Dreadhorde
 1 Lyra Dawnbringer
 1 Despark
+1 Temple of Silence
+3 Cast Down
+3 Sanctum Seeker
+1 Mavren Fein, Dusk Apostle
+2 Mavren Fein, Dusk Apostle
 1 Midnight Reaper
 1 Tithe Taker
 2 Midnight Reaper
@@ -24,21 +30,17 @@
 3 Tithe Taker
 4 Tithe Taker
 4 Midnight Reaper
-1 Temple of Silence
-3 Cast Down
-3 Sanctum Seeker
 1 Resplendent Angel
 1 Tocatli Honor Guard
 1 Knight of Grace
-2 Despark
 2 Tocatli Honor Guard
 2 Resplendent Angel
+2 Despark
 2 Knight of Grace
 2 Lyra Dawnbringer
 3 Gideon Blackblade
 3 Despark
 3 Knight of Grace
-3 Mortify
 3 Tocatli Honor Guard
 3 Resplendent Angel
 4 Knight of Grace
@@ -67,9 +69,7 @@
 2 Ajani, Adversary of Tyrants
 3 Vicious Conquistador
 4 Vicious Conquistador
-1 Mavren Fein, Dusk Apostle
 1 Icon of Ancestry
-2 Mavren Fein, Dusk Apostle
 2 Temple of Silence
 2 Icon of Ancestry
 4 Sanctum Seeker
@@ -102,6 +102,9 @@
 2 Dreadmalkin
 3 Spark Harvest
 4 Gutterbones
+3 Dusk Legion Zealot
+4 Dusk Legion Zealot
+8 Swamp
 1 Duress
 1 Arch of Orazca
 1 Liliana, Dreadhorde General

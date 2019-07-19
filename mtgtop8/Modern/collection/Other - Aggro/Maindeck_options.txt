@@ -79,6 +79,7 @@
 14 Island
 15 Island
 16 Island
+1 Unsummon
 1 Narset's Reversal
 1 Spell Snare
 1 Faerie Miscreant
@@ -86,13 +87,12 @@
 1 Mana Leak
 1 Rune Snag
 1 Quickling
-1 Unsummon
 1 Favorable Winds
 1 Jace, Wielder of Mysteries
 2 Spell Snare
+2 Unsummon
 2 Narset's Reversal
 2 Quickling
-2 Unsummon
 2 Faerie Miscreant
 2 Rune Snag
 2 Spellstutter Sprite
@@ -100,13 +100,13 @@
 2 Favorable Winds
 2 Mana Leak
 3 Mana Leak
+3 Unsummon
 3 Spellstutter Sprite
 3 Favorable Winds
 3 Faerie Miscreant
 3 Judge's Familiar
 3 Narset's Reversal
 3 Quickling
-3 Unsummon
 3 Rune Snag
 4 Unsummon
 4 Faerie Miscreant
@@ -127,12 +127,12 @@
 3 Fatal Push
 3 Flamewake Phoenix
 4 Fatal Push
+1 Sunbaked Canyon
 1 Reckless Charge
 1 Goblin Bushwhacker
 1 Hazoret the Fervent
 1 Rakdos Charm
 1 Prismatic Vista
-1 Sunbaked Canyon
 2 Young Pyromancer
 2 Reckless Charge
 2 Snow-Covered Swamp
@@ -153,7 +153,6 @@
 1 Teferi, Time Raveler
 1 Kitchen Finks
 1 Finale of Devastation
-1 Shalai, Voice of Plenty
 1 Overgrown Tomb
 1 Hallowed Fountain
 1 Breeding Pool
@@ -166,13 +165,14 @@
 1 Yawgmoth, Thran Physician
 1 Eladamri's Call
 1 Carrion Feeder
+1 Shalai, Voice of Plenty
 2 Devoted Druid
 2 Finale of Devastation
 2 Verdant Catacombs
 2 Birds of Paradise
+2 Teferi, Time Raveler
 2 Overgrown Tomb
 2 Kitchen Finks
-2 Teferi, Time Raveler
 2 Noble Hierarch
 2 Eternal Witness
 2 Eladamri's Call
@@ -199,34 +199,34 @@
 3 Viscera Seer
 4 Viscera Seer
 4 Lingering Souls
-1 Bridge from Below
-1 Greater Gargadon
 1 Stitcher's Supplier
+1 Greater Gargadon
+1 Bridge from Below
 1 Insolent Neonate
 1 Gravecrawler
 1 Mayhem Devil
+2 Stitcher's Supplier
 2 Godless Shrine
+2 Greater Gargadon
 2 Marsh Flats
 2 Bridge from Below
-2 Greater Gargadon
 2 Gravecrawler
 2 Mayhem Devil
 2 Insolent Neonate
-2 Stitcher's Supplier
 3 Marsh Flats
+3 Stitcher's Supplier
 3 Mayhem Devil
 3 Insolent Neonate
-3 Stitcher's Supplier
 3 Bridge from Below
 3 Greater Gargadon
 3 Gravecrawler
 4 Blood Crypt
 4 Marsh Flats
+4 Stitcher's Supplier
 4 Bridge from Below
 4 Greater Gargadon
 4 Insolent Neonate
 4 Gravecrawler
-4 Stitcher's Supplier
 4 Mayhem Devil
 1 Caves of Koilos
 1 Concealed Courtyard
@@ -348,8 +348,8 @@
 1 Hunted Witness
 1 Rally the Ancestors
 1 Promise of Bunrei
-1 Bontu the Glorified
 1 Shambling Vent
+1 Bontu the Glorified
 1 Day of Judgment
 1 Bloodflow Connoisseur
 1 Imperious Oligarch

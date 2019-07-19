@@ -38,7 +38,7 @@
 |                    1|[Hunting Wilds](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=451107)        |                    1|[Obstinate Baloth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438745)     |
 |                    1|[Timely Reinforcements](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220074)|                    2|[Anger of the Gods](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438682)    |
 |                    2|[Snow-Covered Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121233)|                    2|[Timely Reinforcements](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220074)|
-|                    2|[Ojutai's Command](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394642)     |                    2|[Dovin's Veto](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461120)         |
-|                    4|[Coiling Oracle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405176)       |                    2|[Crumble to Dust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401850)      |
+|                    2|[Ojutai's Command](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394642)     |                    2|[Crumble to Dust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401850)      |
+|                    4|[Coiling Oracle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405176)       |                    2|[Dovin's Veto](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461120)         |
 |                    3|[Ojutai's Command](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394642)     |                    1|[Ceremonious Rejection](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417613)|
 

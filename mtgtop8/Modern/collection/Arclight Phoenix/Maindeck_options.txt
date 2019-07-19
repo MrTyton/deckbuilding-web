@@ -2,10 +2,10 @@
 1 Gut Shot
 2 Gut Shot
 3 Aria of Flame
-4 Sleight of Hand
 2 Flooded Strand
-3 Surgical Extraction
 3 Steam Vents
+4 Sleight of Hand
+3 Surgical Extraction
 1 Snow-Covered Mountain
 2 Fiery Islet
 1 Bedlam Reveler
@@ -15,17 +15,17 @@
 1 Light Up the Stage
 2 Bedlam Reveler
 2 Monastery Swiftspear
-2 Soul-Scar Mage
 2 Lava Spike
+2 Soul-Scar Mage
 2 Light Up the Stage
-3 Soul-Scar Mage
+3 Lava Dart
 3 Monastery Swiftspear
 3 Lava Spike
+3 Soul-Scar Mage
 3 Light Up the Stage
-3 Lava Dart
-4 Soul-Scar Mage
 4 Lava Spike
 4 Monastery Swiftspear
+4 Soul-Scar Mage
 3 Mountain
 4 Mountain
 5 Mountain
@@ -45,7 +45,7 @@
 2 Snow-Covered Mountain
 1 Spell Pierce
 1 Misty Rainforest
-1 Lightning Axe
+2 Magmatic Sinkhole
 1 Snow-Covered Island
 2 Snow-Covered Island
 3 Snow-Covered Island
@@ -56,7 +56,7 @@
 4 Snow-Covered Mountain
 5 Snow-Covered Mountain
 6 Snow-Covered Mountain
-2 Magmatic Sinkhole
+1 Lightning Axe
 1 Force of Negation
 2 Force of Negation
 1 Echoing Truth
