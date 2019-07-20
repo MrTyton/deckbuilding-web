@@ -1,4 +1,3 @@
-4 Snubhorn Sentry
 1 Hallowed Fountain
 1 Glacial Fortress
 2 Hallowed Fountain
@@ -8,6 +7,7 @@
 4 Hallowed Fountain
 4 Glacial Fortress
 4 Conclave Tribunal
+4 Snubhorn Sentry
 4 Adanto Vanguard
 1 Baffling End
 2 Tomik, Distinguished Advokist
@@ -40,9 +40,9 @@
 2 Raise the Alarm
 2 Saproling Migration
 2 Forest
-2 Sunpetal Grove
 2 Temple Garden
 2 Woodland Champion
+2 Sunpetal Grove
 3 Temple Garden
 3 Raise the Alarm
 3 Saproling Migration
@@ -55,3 +55,7 @@
 4 Flower / Flourish
 4 Temple Garden
 4 Woodland Champion
+21 Plains
+22 Plains
+23 Plains
+24 Plains

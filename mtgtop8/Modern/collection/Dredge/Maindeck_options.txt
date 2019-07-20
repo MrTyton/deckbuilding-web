@@ -1,25 +1,8 @@
-2 Stinkweed Imp
-3 Stinkweed Imp
-1 Prized Amalgam
-2 Prized Amalgam
-3 Prized Amalgam
-4 Stinkweed Imp
-1 Golgari Thug
-1 Stomping Ground
-1 Conflagrate
-1 Life from the Loam
-1 Narcomoeba
-1 Shriekhorn
-1 Mountain
-1 Copperline Gorge
-1 Cathartic Reunion
-1 Creeping Chill
-2 Life from the Loam
+2 Copperline Gorge
 2 Conflagrate
 2 Mountain
 2 Creeping Chill
 2 Stomping Ground
-2 Copperline Gorge
 2 Shriekhorn
 2 Narcomoeba
 2 Cathartic Reunion
@@ -34,55 +17,60 @@
 4 Creeping Chill
 4 Narcomoeba
 4 Shriekhorn
-2 Overgrown Tomb
-1 Godless Shrine
-2 Cryptbreaker
+1 Verdant Catacombs
+2 Polluted Delta
+1 Blackcleave Cliffs
+2 Blackcleave Cliffs
+3 Polluted Delta
+1 Cryptbreaker
 1 Blast Zone
-4 Prized Amalgam
 1 Wooded Foothills
-4 Copperline Gorge
+1 Altar of Dementia
+1 Overgrown Tomb
 1 Forgotten Cave
-1 Gemstone Mine
-2 Golgari Thug
 2 Wooded Foothills
-2 Verdant Catacombs
+2 Golgari Thug
+4 Prized Amalgam
+2 Altar of Dementia
+3 Altar of Dementia
+4 Altar of Dementia
 4 Polluted Delta
-1 Marsh Flats
-2 Marsh Flats
-3 Marsh Flats
-2 Swamp
-2 Godless Shrine
+2 Cryptbreaker
+2 Overgrown Tomb
+3 Blackcleave Cliffs
 1 Arid Mesa
-1 Lightning Axe
+4 Copperline Gorge
+1 Gemstone Mine
+1 Bridge from Below
+2 Bridge from Below
+3 Bridge from Below
+4 Bridge from Below
+2 Verdant Catacombs
+4 Blackcleave Cliffs
+1 Godless Shrine
+2 Swamp
 3 Verdant Catacombs
-4 Marsh Flats
+1 Mana Confluence
+1 Lightning Axe
+2 Godless Shrine
 2 Darkblast
 3 Wooded Foothills
 4 Wooded Foothills
 2 Gemstone Mine
-2 Lightning Axe
-4 Blood Crypt
-1 Mana Confluence
-1 Scalding Tarn
 2 Arid Mesa
-4 Verdant Catacombs
+2 Lightning Axe
+1 Marsh Flats
+2 Marsh Flats
+3 Marsh Flats
+4 Marsh Flats
 1 City of Brass
 1 Claim / Fame
-1 Ghost Quarter
-1 Haunted Dead
-3 Conflagrate
-3 Gemstone Mine
-1 Snow-Covered Swamp
-2 Forgotten Cave
-1 Leyline of the Void
-2 Leyline of the Void
-1 Nurturing Peatland
-2 Scalding Tarn
 3 Golgari Thug
 3 Arid Mesa
+1 Scalding Tarn
+4 Verdant Catacombs
 1 Satyr Wayfinder
 2 Satyr Wayfinder
-3 Lightning Axe
 3 Satyr Wayfinder
 1 Hedron Crab
 1 Watery Grave
@@ -90,14 +78,28 @@
 2 Claim / Fame
 2 Hedron Crab
 2 City of Brass
-3 City of Brass
 3 Hedron Crab
-4 City of Brass
 4 Hedron Crab
+4 Blood Crypt
+1 Ghost Quarter
+1 Haunted Dead
+3 Conflagrate
+3 Gemstone Mine
+2 Forgotten Cave
+1 Leyline of the Void
+2 Leyline of the Void
+1 Nurturing Peatland
+2 Scalding Tarn
+3 Lightning Axe
+3 City of Brass
+4 City of Brass
 1 Street Wraith
 2 Street Wraith
 3 Street Wraith
 4 Street Wraith
+1 Steam Vents
+1 Snow-Covered Swamp
+4 Satyr Wayfinder
 1 Unearth
 1 Seasoned Pyromancer
 1 Force of Vigor
