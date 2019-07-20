@@ -1,22 +1,14 @@
 1 Grafdigger's Cage
-1 Scavenging Ooze
 1 Trinisphere
 2 Trinisphere
-1 Abrade
-2 Scavenging Ooze
+1 Scavenging Ooze
 1 Obstinate Baloth
 2 Obstinate Baloth
 2 Grafdigger's Cage
 1 Kitchen Finks
 2 Kitchen Finks
-1 Ancient Grudge
 1 Choke
 2 Choke
-1 Ruric Thar, the Unbowed
-1 Chameleon Colossus
-1 Flame Slash
-1 Lightning Bolt
-2 Lightning Bolt
 1 Karn, Scion of Urza
 1 Huntmaster of the Fells
 1 Sorcerous Spyglass
@@ -25,9 +17,17 @@
 1 Acidic Slime
 1 Walking Ballista
 1 Spellskite
+1 Ancient Grudge
 2 Acidic Slime
 2 Ancient Grudge
 3 Ancient Grudge
+1 Collector Ouphe
+1 Weather the Storm
+2 Weather the Storm
+2 Collector Ouphe
+3 Grafdigger's Cage
+3 Collector Ouphe
+3 Weather the Storm
 1 Leyline of the Void
 1 Cindervines
 1 Shatterstorm
@@ -37,10 +37,5 @@
 3 Cindervines
 3 Leyline of the Void
 4 Leyline of the Void
-1 Collector Ouphe
-1 Weather the Storm
-2 Collector Ouphe
-3 Grafdigger's Cage
-3 Collector Ouphe
-3 Weather the Storm
-2 Weather the Storm
+1 Abrade
+2 Scavenging Ooze

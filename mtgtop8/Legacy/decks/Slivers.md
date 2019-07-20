@@ -35,6 +35,6 @@
 |--------------------:|-------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
 |                    4|[Muscle Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=207911)   |                    1|[Telekinetic Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=111085) |
 |                    4|[Predatory Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370745)|                    1|[Darkheart Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=126012)   |
-|                     |                                                                                           |                    1|[Ethersworn Canonist](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174931)|
 |                     |                                                                                           |                    2|[Ethersworn Canonist](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174931)|
+|                     |                                                                                           |                    1|[Ethersworn Canonist](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174931)|
 

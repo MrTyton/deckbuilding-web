@@ -1,7 +1,7 @@
 # 8 Whack
 
 #### [Export MTGO List](../collection/8%20Whack/8%20Whack.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Bomat%20Courier%0A4%09Burning-Tree%20Emissary%0A2%09Devastating%20Summons%0A2%09Fanatical%20Firebrand%0A4%09Foundry%20Street%20Denizen%0A4%09Goblin%20Bushwhacker%0A4%09Goblin%20Grenade%0A4%09Goblin%20Guide%0A4%09Legion%20Loyalist%0A4%09Lightning%20Bolt%0A14%09Mountain%0A4%09Ramunap%20Ruins%0A4%09Reckless%20Bushwhacker%0A2%09Simian%20Spirit%20Guide&deckside=2%09Damping%20Sphere%0A2%09Dismember%0A3%09Searing%20Blood%0A3%09Skullcrack%0A2%09Smash%20to%20Smithereens%0A3%09Tormod's%20Crypt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Bomat%20Courier%0A4%09Burning-Tree%20Emissary%0A2%09Devastating%20Summons%0A2%09Fanatical%20Firebrand%0A4%09Foundry%20Street%20Denizen%0A4%09Goblin%20Bushwhacker%0A4%09Goblin%20Grenade%0A4%09Goblin%20Guide%0A4%09Legion%20Loyalist%0A4%09Lightning%20Bolt%0A14%09Mountain%0A4%09Ramunap%20Ruins%0A4%09Reckless%20Bushwhacker%0A2%09Simian%20Spirit%20Guide&deckside=2%09Damping%20Sphere%0A2%09Dragon's%20Claw%0A3%09Searing%20Blood%0A3%09Skullcrack%0A2%09Smash%20to%20Smithereens%0A3%09Tormod's%20Crypt)
 # Maindeck
 
 |                                           Creature (32)                                           |                                      Instant (4)                                       |                                        Land (18)                                         |                                          Sorcery (6)                                           |
@@ -19,27 +19,26 @@
 
 # Sideboard
 
-|                                       Artifact (5)                                        |                                          Instant (10)                                           |
+|                                       Artifact (7)                                        |                                           Instant (8)                                           |
 |-------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
-|2 [Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)|2 [Dismember](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382182)           |
-|3 [Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)|3 [Searing Blood](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=378483)       |
-|                                                                                           |3 [Skullcrack](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=366238)          |
-|                                                                                           |2 [Smash to Smithereens](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397795)|
+|2 [Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)|3 [Searing Blood](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=378483)       |
+|2 [Dragon's Claw](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129527) |3 [Skullcrack](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=366238)          |
+|3 [Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)|2 [Smash to Smithereens](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397795)|
 
 
 # Other Options
 
 |*n*<sup>th</sup> copy|                                         Maindeck Card                                         |*n*<sup>th</sup> copy|                                        Sideboard Card                                         |
 |--------------------:|-----------------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------------|
-|                    1|[Light Up the Stage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457251)  |                    1|[Dragon's Claw](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129527)       |
-|                    3|[Fanatical Firebrand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439758) |                    2|[Dragon's Claw](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129527)       |
-|                    4|[Fanatical Firebrand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439758) |                    1|[Kari Zev's Expertise](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423755)|
-|                    2|[Light Up the Stage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457251)  |                    1|[Corrosive Gale](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=230075)      |
-|                    1|[Mogg War Marshal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=157924)    |                    1|[Vexing Shusher](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=146016)      |
-|                   15|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)            |                    2|[Corrosive Gale](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=230075)      |
-|                    1|[Kari Zev's Expertise](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423755)|                    3|[Smash to Smithereens](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397795)|
-|                    1|[The Flame of Keld](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443011)   |                    4|[Smash to Smithereens](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397795)|
-|                    1|[Mogg Fanatic](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=134748)        |                    1|[Light Up the Stage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457251)  |
+|                    1|[Light Up the Stage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457251)  |                    1|[Kari Zev's Expertise](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423755)|
+|                    3|[Fanatical Firebrand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439758) |                    1|[Vexing Shusher](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=146016)      |
+|                    4|[Fanatical Firebrand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439758) |                    1|[Corrosive Gale](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=230075)      |
+|                    2|[Light Up the Stage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457251)  |                    2|[Corrosive Gale](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=230075)      |
+|                    1|[Mogg War Marshal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=157924)    |                    3|[Smash to Smithereens](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397795)|
+|                   15|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)            |                    4|[Smash to Smithereens](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397795)|
+|                    1|[Kari Zev's Expertise](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423755)|                    1|[Light Up the Stage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457251)  |
+|                    1|[The Flame of Keld](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443011)   |                    1|[Dismember](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382182)           |
+|                    1|[Mogg Fanatic](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=134748)        |                    2|[Dismember](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382182)           |
 |                    2|[Mogg War Marshal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=157924)    |                    1|[Mogg War Marshal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=157924)    |
 |                    2|[Mogg Fanatic](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=134748)        |                    2|[Kari Zev's Expertise](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423755)|
 |                    3|[Mogg War Marshal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=157924)    |                    1|[Experimental Frenzy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452849) |

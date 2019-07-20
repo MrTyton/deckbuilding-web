@@ -42,9 +42,9 @@
 |                    1|[Coalition Relic](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442212) |                    1|[Swan Song](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420715)        |
 |                    2|[Golgari Rot Farm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376353)|                    2|[Swan Song](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420715)        |
 |                    3|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)          |                    1|[Coalition Relic](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442212)  |
-|                     |                                                                                           |                    1|[Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)     |
-|                     |                                                                                           |                    2|[Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)     |
+|                     |                                                                                           |                    1|[Kabira Crossroads](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=433191)|
 |                     |                                                                                           |                    1|[Ravenous Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197537)    |
 |                     |                                                                                           |                    2|[Ravenous Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197537)    |
-|                     |                                                                                           |                    1|[Kabira Crossroads](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=433191)|
+|                     |                                                                                           |                    2|[Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)     |
+|                     |                                                                                           |                    1|[Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)     |
 
