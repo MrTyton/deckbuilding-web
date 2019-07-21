@@ -1,5 +1,8 @@
-1 Misty Rainforest
 1 Tropical Island
+1 Green Sun's Zenith
+1 Savannah
+2 Misty Rainforest
+2 Green Sun's Zenith
 1 Wooded Foothills
 1 Mirri's Guile
 1 Wild Growth
@@ -14,16 +17,12 @@
 1 Hall of Heliod's Generosity
 1 Solitary Confinement
 1 Argothian Enchantress
-1 Green Sun's Zenith
-1 Windswept Heath
 1 Estrid's Invocation
-1 Savannah
+1 Windswept Heath
 1 Forest
 1 Ground Seal
-2 Misty Rainforest
 2 Argothian Enchantress
 2 Abundant Growth
-2 Cast Out
 2 Wild Growth
 2 Enchantress's Presence
 2 Serra's Sanctum
@@ -31,9 +30,8 @@
 2 Oblivion Ring
 2 Utopia Sprawl
 2 Ground Seal
-2 Estrid's Invocation
-2 Green Sun's Zenith
 2 Forest
+2 Estrid's Invocation
 3 Forest
 3 Abundant Growth
 3 Elephant Grass
@@ -51,13 +49,16 @@
 6 Forest
 7 Forest
 8 Forest
-1 Narcomoeba
+2 Cast Out
+4 Thoughtseize
 1 Cabal Therapy
+2 Cabal Therapy
+3 Cabal Therapy
+4 Cabal Therapy
+1 Narcomoeba
 1 Dread Return
 2 Narcomoeba
-2 Cabal Therapy
 3 Narcomoeba
-3 Cabal Therapy
 1 Nether Shadow
 1 Shambling Shell
 1 Phantasmagorian
@@ -101,7 +102,6 @@
 4 Ichorid
 4 Stinkweed Imp
 4 Golgari Grave-Troll
-4 Cabal Therapy
 1 Whirlpool Rider
 1 Lotleth Giant
 1 Chancellor of the Annex
@@ -111,6 +111,8 @@
 3 Chancellor of the Annex
 3 Whirlpool Rider
 4 Shambling Shell
+1 Abrupt Decay
+1 Collective Brutality
 1 Flayer of the Hatebound
 1 Balustrade Spy
 1 Creeping Chill
@@ -120,41 +122,45 @@
 3 Hogaak, Arisen Necropolis
 4 Nether Shadow
 4 Dread Return
-1 Recruiter of the Guard
 1 Underground Sea
+1 Recruiter of the Guard
+1 Brainstorm
+1 Ponder
+1 Force of Will
+2 Recruiter of the Guard
+2 Ponder
+2 Brainstorm
+2 Force of Will
+3 Recruiter of the Guard
+3 Force of Will
+3 Brainstorm
+3 Ponder
+4 Brainstorm
 1 Murderous Redcap
 1 Aether Vial
 1 Teferi, Time Raveler
 1 Batterskull
-1 Brainstorm
 1 Island
+1 Cavern of Souls
 1 Shuko
+1 Lord of Extinction
 1 Stoneforge Mystic
-1 Ponder
 1 Nomads en-Kor
 1 The Mimeoplasm
 1 Scalding Tarn
-1 Cavern of Souls
-1 Lord of Extinction
 1 Tundra
 1 Grand Abolisher
-1 Flooded Strand
 1 Plains
-1 Force of Will
+1 Flooded Strand
 1 Cephalid Illusionist
-2 Recruiter of the Guard
+2 Underground Sea
 2 Aether Vial
 2 Cephalid Illusionist
 2 Nomads en-Kor
-2 Ponder
-2 Underground Sea
-2 Brainstorm
 2 Stoneforge Mystic
 2 Tundra
-2 Force of Will
 2 Flooded Strand
 2 Cavern of Souls
-3 Recruiter of the Guard
 3 Underground Sea
 3 Aether Vial
 3 Cavern of Souls
@@ -162,12 +168,39 @@
 3 Tundra
 3 Cephalid Illusionist
 3 Stoneforge Mystic
-3 Force of Will
-3 Brainstorm
-3 Ponder
 4 Aether Vial
+4 Cephalid Illusionist
 4 Tundra
 4 Flooded Strand
-4 Cephalid Illusionist
 4 Ponder
-4 Brainstorm
+1 Snow-Covered Swamp
+1 Leovold, Emissary of Trest
+1 Snow-Covered Forest
+1 Baleful Strix
+1 Parasitic Strix
+1 Dryad Arbor
+1 Veteran Explorer
+1 Cavern Harpy
+1 Man-o'-War
+1 Snow-Covered Island
+1 Ice-Fang Coatl
+1 Sylvan Library
+1 Eternal Witness
+1 Aluren
+2 Baleful Strix
+2 Snow-Covered Forest
+2 Snow-Covered Island
+2 Veteran Explorer
+2 Abrupt Decay
+2 Ice-Fang Coatl
+2 Polluted Delta
+2 Aluren
+3 Misty Rainforest
+3 Polluted Delta
+3 Aluren
+3 Ice-Fang Coatl
+3 Verdant Catacombs
+4 Misty Rainforest
+4 Ice-Fang Coatl
+4 Recruiter of the Guard
+4 Force of Will

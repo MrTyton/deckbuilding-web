@@ -73,8 +73,8 @@
 |                     |                                                                                             |                    1|[Lingering Souls](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=368485)              |
 |                     |                                                                                             |                    2|[Lingering Souls](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=368485)              |
 |                     |                                                                                             |                    3|[Lingering Souls](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=368485)              |
-|                     |                                                                                             |                    1|Chandra, Awakened Inferno                                                                               |
 |                     |                                                                                             |                    1|[Pulse of Murasa](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446177)              |
+|                     |                                                                                             |                    1|Chandra, Awakened Inferno                                                                               |
 |                     |                                                                                             |                    2|[Trinisphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=43545)                   |
 |                     |                                                                                             |                    3|[Trinisphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=43545)                   |
 
