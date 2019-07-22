@@ -84,6 +84,6 @@
 |                    4|[Skewer the Critics](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457259)  |                     |                                                                                                     |
 |                    4|[Goblin Guide](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425921)        |                     |                                                                                                     |
 |                    3|[Gideon Jura](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430549)         |                     |                                                                                                     |
-|                    4|[Condemn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=130528)             |                     |                                                                                                     |
 |                    6|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)              |                     |                                                                                                     |
+|                    4|[Condemn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=130528)             |                     |                                                                                                     |
 
