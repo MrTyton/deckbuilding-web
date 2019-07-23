@@ -38,8 +38,8 @@
 |                    1|[Field of Ruin](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435415)    |                    1|[Tocatli Honor Guard](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435194) |
 |                    2|[Remorseful Cleric](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447169)|                    1|[Archangel Avacyn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409741)    |
 |                    2|[Field of Ruin](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435415)    |                    1|[Eidolon of Rhetoric](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=380409) |
-|                    3|[Restoration Angel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=240096)|                    2|[Eidolon of Rhetoric](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=380409) |
-|                     |                                                                                            |                    2|[Tocatli Honor Guard](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435194) |
+|                    3|[Restoration Angel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=240096)|                    2|[Tocatli Honor Guard](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435194) |
+|                     |                                                                                            |                    2|[Eidolon of Rhetoric](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=380409) |
 |                     |                                                                                            |                    2|[Winds of Abandon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463986)    |
 |                     |                                                                                            |                    3|[Tocatli Honor Guard](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435194) |
 

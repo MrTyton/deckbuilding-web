@@ -1,8 +1,9 @@
+1 Tropical Island
 1 Green Sun's Zenith
 1 Savannah
 1 Misty Rainforest
-2 Misty Rainforest
 2 Green Sun's Zenith
+2 Misty Rainforest
 1 Wooded Foothills
 1 Mirri's Guile
 1 Wild Growth
@@ -10,13 +11,13 @@
 1 Doomwake Giant
 1 Elephant Grass
 1 Enchantress's Presence
-1 Oblivion Ring
 1 Serra's Sanctum
 1 Cast Out
-1 Hall of Heliod's Generosity
 1 Solitary Confinement
 1 Utopia Sprawl
+1 Hall of Heliod's Generosity
 1 Argothian Enchantress
+1 Oblivion Ring
 1 Estrid's Invocation
 1 Windswept Heath
 1 Forest
@@ -50,7 +51,6 @@
 7 Forest
 8 Forest
 2 Cast Out
-4 Thoughtseize
 1 Cabal Therapy
 2 Cabal Therapy
 3 Cabal Therapy
@@ -63,10 +63,10 @@
 1 Ichorid
 1 Golgari Thug
 1 Narcomoeba
-1 Stinkweed Imp
 1 Hogaak, Arisen Necropolis
 1 Golgari Grave-Troll
 1 Dread Return
+1 Stinkweed Imp
 1 Prized Amalgam
 2 Golgari Thug
 2 Dread Return
@@ -75,17 +75,17 @@
 2 Shambling Shell
 2 Street Wraith
 2 Bridge from Below
-2 Prized Amalgam
 2 Stinkweed Imp
 2 Ichorid
+2 Prized Amalgam
 2 Narcomoeba
 2 Golgari Grave-Troll
 2 Hogaak, Arisen Necropolis
 3 Phantasmagorian
 3 Nether Shadow
 3 Dread Return
-3 Shambling Shell
 3 Golgari Thug
+3 Shambling Shell
 3 Street Wraith
 3 Bridge from Below
 3 Golgari Grave-Troll
@@ -112,7 +112,10 @@
 3 Whirlpool Rider
 4 Shambling Shell
 1 Abrupt Decay
+2 Polluted Delta
+3 Polluted Delta
 1 Collective Brutality
+3 Vampire Hexmage
 1 Flayer of the Hatebound
 1 Balustrade Spy
 1 Creeping Chill
@@ -126,10 +129,10 @@
 1 Recruiter of the Guard
 1 Leovold, Emissary of Trest
 1 Snow-Covered Forest
-1 Baleful Strix
 1 Parasitic Strix
 1 Brainstorm
 1 Dryad Arbor
+1 Baleful Strix
 1 Veteran Explorer
 1 Ponder
 1 Cavern Harpy
@@ -141,7 +144,6 @@
 1 Aluren
 1 Force of Will
 1 Snow-Covered Swamp
-2 Baleful Strix
 2 Recruiter of the Guard
 2 Snow-Covered Forest
 2 Veteran Explorer
@@ -151,14 +153,13 @@
 2 Abrupt Decay
 2 Force of Will
 2 Ice-Fang Coatl
-2 Polluted Delta
+2 Baleful Strix
 2 Aluren
-3 Polluted Delta
 3 Misty Rainforest
 3 Recruiter of the Guard
-3 Aluren
 3 Force of Will
 3 Brainstorm
+3 Aluren
 3 Ponder
 3 Ice-Fang Coatl
 3 Verdant Catacombs

@@ -36,8 +36,8 @@
 |                    2|[Misty Rainforest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405102) |                    2|[Flusterstorm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=228255)        |
 |                    2|[Bloodstained Mire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405094)|                    1|[Cryptbreaker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414381)        |
 |                    3|[Daze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=189255)             |                    2|[Cryptbreaker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414381)        |
-|                    3|[Ponder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=451051)           |                    3|[Cryptbreaker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414381)        |
-|                    3|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)            |                    1|[Ratchet Bomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370623)        |
+|                    3|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)            |                    3|[Cryptbreaker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414381)        |
+|                    3|[Ponder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=451051)           |                    1|[Ratchet Bomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370623)        |
 |                    4|[Ponder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=451051)           |                    2|[Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)               |
 |                     |                                                                                            |                    3|[Jace, Vryn's Prodigy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=398434)|
 

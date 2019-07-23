@@ -127,18 +127,51 @@
 3 Flamewake Phoenix
 3 Fatal Push
 4 Fatal Push
-1 Sunbaked Canyon
 1 Reckless Charge
 1 Goblin Bushwhacker
 1 Hazoret the Fervent
 1 Rakdos Charm
 1 Prismatic Vista
+1 Sunbaked Canyon
 2 Reckless Charge
 2 Young Pyromancer
 2 Snow-Covered Swamp
 3 Young Pyromancer
 3 Snow-Covered Swamp
 4 Young Pyromancer
+1 Fiery Islet
+1 Curious Obsession
+1 Faerie Seer
+1 Ninja of the Deep Hours
+1 Vapor Snag
+1 Pteramander
+1 Spell Pierce
+1 Mutavault
+1 Disrupting Shoal
+1 Archmage's Charm
+1 Force of Negation
+2 Curious Obsession
+2 Faerie Seer
+2 Spell Pierce
+2 Ninja of the Deep Hours
+2 Pteramander
+2 Force of Negation
+2 Vapor Snag
+2 Archmage's Charm
+2 Disrupting Shoal
+3 Vapor Snag
+3 Disrupting Shoal
+3 Curious Obsession
+3 Faerie Seer
+3 Ninja of the Deep Hours
+3 Force of Negation
+3 Spell Pierce
+4 Vapor Snag
+4 Curious Obsession
+4 Faerie Seer
+4 Disrupting Shoal
+4 Ninja of the Deep Hours
+4 Force of Negation
 1 Viscera Seer
 1 Godless Shrine
 1 Walking Ballista
@@ -149,17 +182,17 @@
 1 Devoted Druid
 1 Vizier of Remedies
 1 Duskwatch Recruiter
+1 Temple Garden
 1 Birds of Paradise
-1 Teferi, Time Raveler
-1 Kitchen Finks
 1 Finale of Devastation
+1 Kitchen Finks
 1 Shalai, Voice of Plenty
 1 Overgrown Tomb
 1 Hallowed Fountain
 1 Breeding Pool
+1 Teferi, Time Raveler
 1 Noble Hierarch
 1 Windswept Heath
-1 Temple Garden
 1 Eternal Witness
 1 Horizon Canopy
 1 Scavenging Ooze
@@ -181,86 +214,17 @@
 3 Teferi, Time Raveler
 3 Finale of Devastation
 3 Devoted Druid
-3 Eladamri's Call
 3 Birds of Paradise
+3 Eladamri's Call
 3 Windswept Heath
 3 Vizier of Remedies
 3 Noble Hierarch
+4 Birds of Paradise
 4 Finale of Devastation
 4 Devoted Druid
 4 Vizier of Remedies
 4 Eladamri's Call
-4 Birds of Paradise
 4 Windswept Heath
-1 Lingering Souls
-2 Lingering Souls
-2 Viscera Seer
-3 Lingering Souls
-3 Viscera Seer
-4 Viscera Seer
-4 Lingering Souls
-1 Insolent Neonate
-1 Bridge from Below
-1 Stitcher's Supplier
-1 Greater Gargadon
-1 Gravecrawler
-1 Mayhem Devil
-2 Insolent Neonate
-2 Bridge from Below
-2 Stitcher's Supplier
-2 Godless Shrine
-2 Marsh Flats
-2 Greater Gargadon
-2 Gravecrawler
-2 Mayhem Devil
-3 Insolent Neonate
-3 Bridge from Below
-3 Marsh Flats
-3 Stitcher's Supplier
-3 Mayhem Devil
-3 Greater Gargadon
-3 Gravecrawler
-4 Insolent Neonate
-4 Bridge from Below
-4 Blood Crypt
-4 Marsh Flats
-4 Stitcher's Supplier
-4 Greater Gargadon
-4 Gravecrawler
-4 Mayhem Devil
-1 Fiery Islet
-1 Pteramander
-1 Curious Obsession
-1 Faerie Seer
-1 Vapor Snag
-1 Spell Pierce
-1 Mutavault
-1 Disrupting Shoal
-1 Ninja of the Deep Hours
-1 Archmage's Charm
-1 Force of Negation
-2 Pteramander
-2 Curious Obsession
-2 Faerie Seer
-2 Spell Pierce
-2 Force of Negation
-2 Vapor Snag
-2 Ninja of the Deep Hours
-2 Archmage's Charm
-2 Disrupting Shoal
-3 Vapor Snag
-3 Disrupting Shoal
-3 Curious Obsession
-3 Faerie Seer
-3 Force of Negation
-3 Spell Pierce
-3 Ninja of the Deep Hours
-4 Vapor Snag
-4 Curious Obsession
-4 Faerie Seer
-4 Force of Negation
-4 Disrupting Shoal
-4 Ninja of the Deep Hours
 1 Caves of Koilos
 1 Concealed Courtyard
 2 Caves of Koilos
@@ -319,6 +283,42 @@
 4 Harabaz Druid
 4 Kazandu Blademaster
 4 Ally Encampment
+1 Lingering Souls
+2 Lingering Souls
+2 Viscera Seer
+3 Lingering Souls
+3 Viscera Seer
+4 Viscera Seer
+4 Lingering Souls
+1 Insolent Neonate
+1 Bridge from Below
+1 Stitcher's Supplier
+1 Greater Gargadon
+1 Gravecrawler
+1 Mayhem Devil
+2 Insolent Neonate
+2 Bridge from Below
+2 Stitcher's Supplier
+2 Godless Shrine
+2 Marsh Flats
+2 Greater Gargadon
+2 Gravecrawler
+2 Mayhem Devil
+3 Insolent Neonate
+3 Bridge from Below
+3 Stitcher's Supplier
+3 Mayhem Devil
+3 Marsh Flats
+3 Greater Gargadon
+3 Gravecrawler
+4 Insolent Neonate
+4 Bridge from Below
+4 Blood Crypt
+4 Stitcher's Supplier
+4 Greater Gargadon
+4 Gravecrawler
+4 Mayhem Devil
+4 Marsh Flats
 1 Blinkmoth Nexus
 1 Smuggler's Copter
 1 Throne of the God-Pharaoh
@@ -340,8 +340,8 @@
 2 Throne of the God-Pharaoh
 2 Lodestone Golem
 2 Chief Engineer
-3 Lodestone Golem
 3 Blinkmoth Nexus
+3 Lodestone Golem
 3 Master of Etherium
 3 Smuggler's Copter
 3 Chief Engineer

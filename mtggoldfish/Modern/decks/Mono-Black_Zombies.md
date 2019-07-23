@@ -26,3 +26,18 @@
 |                                                                                            |3 [Stromgald Crusader](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121253)      |                                                                                               |
 |                                                                                            |4 [Yixlid Jailer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=130702)           |                                                                                               |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                           Maindeck Card                                            |*n*<sup>th</sup> copy|                                           Sideboard Card                                           |
+|--------------------:|----------------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------------|
+|                    1|[Liliana, Heretical Healer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=398441)|                    1|[Gray Merchant of Asphodel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389541)|
+|                    1|[Gray Merchant of Asphodel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389541)|                    1|[Force of Despair](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464041)         |
+|                    2|[Liliana, Heretical Healer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=398441)|                    1|[Fatal Push](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423724)               |
+|                   21|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)                    |                    2|[Fatal Push](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423724)               |
+|                     |                                                                                                    |                    2|[Force of Despair](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464041)         |
+|                     |                                                                                                    |                    2|[Gray Merchant of Asphodel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389541)|
+|                     |                                                                                                    |                    3|[Force of Despair](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464041)         |
+|                     |                                                                                                    |                    3|[Gray Merchant of Asphodel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389541)|
+|                     |                                                                                                    |                    4|[Force of Despair](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464041)         |
+

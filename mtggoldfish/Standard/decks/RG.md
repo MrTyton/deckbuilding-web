@@ -21,3 +21,13 @@
 |1 [Return to Nature](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461102)|                                                                                      |4 Fry           |
 |                                                                                             |                                                                                      |3 Veil of Summer|
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|  Maindeck Card   |*n*<sup>th</sup> copy| Sideboard Card  |
+|--------------------:|------------------|--------------------:|-----------------|
+|                    1|Nightpack Ambusher|                    1|Shifting Ceratops|
+|                    2|Nightpack Ambusher|                    2|Shifting Ceratops|
+|                    3|Nightpack Ambusher|                    3|Shifting Ceratops|
+|                    4|Nightpack Ambusher|                    4|Shifting Ceratops|
+
