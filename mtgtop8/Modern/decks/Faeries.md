@@ -78,6 +78,6 @@
 |                    4|[Ingenious Infiltrator](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464153)  |                     |                                                                                                  |
 |                    4|[Ice-Fang Coatl](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464152)         |                     |                                                                                                  |
 |                    4|[Faerie Seer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464000)            |                     |                                                                                                  |
-|                    6|[Snow-Covered Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121130)    |                     |                                                                                                  |
 |                    5|[Snow-Covered Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121130)    |                     |                                                                                                  |
+|                    6|[Snow-Covered Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121130)    |                     |                                                                                                  |
 
