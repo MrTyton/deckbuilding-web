@@ -1,4 +1,3 @@
-8 Plains
 1 Dauntless Bodyguard
 2 Dauntless Bodyguard
 3 Dauntless Bodyguard
@@ -35,23 +34,22 @@
 10 Plains
 11 Plains
 12 Plains
+3 Legion Warboss
+1 Aurelia, Exemplar of Justice
 1 Gird for Battle
-2 Sheltering Light
-3 Sheltering Light
 4 Mountain
 1 Ajani, Adversary of Tyrants
-5 Mountain
-1 Aurelia, Exemplar of Justice
+2 Sheltering Light
+3 Sheltering Light
 2 Gird for Battle
 3 Snubhorn Sentry
 4 Snubhorn Sentry
 3 Conclave Tribunal
+5 Mountain
 3 Gideon Blackblade
 1 Tomik, Distinguished Advokist
 1 Boros Guildgate
 1 Krenko, Tin Street Kingpin
-1 Dire Fleet Daredevil
-6 Mountain
 13 Plains
 2 Aurelia, Exemplar of Justice
 1 Samut's Sprint
@@ -81,6 +79,7 @@
 1 Captain Lannery Storm
 2 Domri, Anarch of Bolas
 2 Captain Lannery Storm
+1 Infuriate
 1 Thrash / Threat
 1 Integrity / Intervention
 2 Integrity / Intervention
@@ -97,8 +96,8 @@
 1 Nissa, Who Shakes the World
 1 Llanowar Elves
 1 Gruul Spellbreaker
-1 Trostani Discordant
 1 Growth-Chamber Guardian
+1 Trostani Discordant
 1 Ixalan's Binding
 1 Forest
 2 Nissa, Who Shakes the World
@@ -107,8 +106,8 @@
 2 Trostani Discordant
 2 Growth-Chamber Guardian
 2 Forest
-3 Llanowar Elves
 3 Forest
+3 Llanowar Elves
 3 Gruul Spellbreaker
 3 Growth-Chamber Guardian
 3 Domri, Anarch of Bolas
@@ -141,10 +140,10 @@
 3 Samut's Sprint
 4 Sheltering Light
 4 Samut's Sprint
+1 The Immortal Sun
 1 Shalai, Voice of Plenty
 1 Mobilized District
 1 Jaya's Immolating Inferno
-1 The Immortal Sun
 1 Urza's Ruinous Blast
 1 Mox Amber
 1 Squee, the Immortal
@@ -167,3 +166,5 @@
 4 Mobilized District
 4 Tomik, Distinguished Advokist
 4 Mox Amber
+1 Dire Fleet Daredevil
+6 Mountain

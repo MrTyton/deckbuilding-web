@@ -1,3 +1,5 @@
+2 Gut Shot
+2 Lava Dart
 1 Light Up the Stage
 1 Monastery Swiftspear
 1 Lava Spike
@@ -5,10 +7,16 @@
 2 Monastery Swiftspear
 2 Lava Spike
 3 Lava Dart
+3 Gut Shot
 3 Monastery Swiftspear
 3 Lava Spike
 4 Monastery Swiftspear
 4 Lava Spike
+1 Soul-Scar Mage
+2 Soul-Scar Mage
+3 Light Up the Stage
+3 Soul-Scar Mage
+4 Soul-Scar Mage
 3 Mountain
 4 Mountain
 5 Mountain
@@ -16,71 +24,36 @@
 7 Mountain
 8 Mountain
 9 Mountain
-1 Soul-Scar Mage
-2 Soul-Scar Mage
-3 Light Up the Stage
-3 Soul-Scar Mage
-4 Soul-Scar Mage
-1 Bedlam Reveler
-3 Gut Shot
 10 Mountain
 11 Mountain
 12 Mountain
 13 Mountain
 14 Mountain
 4 Light Up the Stage
-2 Bedlam Reveler
-1 Opt
-15 Mountain
-1 Sunbaked Canyon
+1 Bedlam Reveler
 3 Sleight of Hand
-2 Opt
-3 Steam Vents
 4 Sleight of Hand
-2 Sunbaked Canyon
-1 Snow-Covered Mountain
-4 Gut Shot
-2 Fiery Islet
-3 Surgical Extraction
-1 Blistercoil Weird
-2 Flooded Strand
+15 Mountain
 3 Aria of Flame
+1 Sunbaked Canyon
+2 Sunbaked Canyon
+2 Bedlam Reveler
+1 Snow-Covered Mountain
+3 Surgical Extraction
+1 Misty Rainforest
+2 Polluted Delta
+4 Gut Shot
+3 Steam Vents
+2 Fiery Islet
 3 Sunbaked Canyon
+1 Blistercoil Weird
 2 Snow-Covered Mountain
 1 Spell Pierce
-2 Polluted Delta
-2 Magmatic Sinkhole
-1 Snow-Covered Island
-2 Snow-Covered Island
-3 Snow-Covered Island
-1 Pyromancer Ascension
-2 Pyromancer Ascension
-16 Mountain
-1 Crash Through
+3 Fiery Islet
 3 Snow-Covered Mountain
 4 Snow-Covered Mountain
 5 Snow-Covered Mountain
 6 Snow-Covered Mountain
-1 Tormenting Voice
-1 Fiery Temper
-1 Runaway Steam-Kin
-2 Tormenting Voice
-2 Fiery Temper
-2 Runaway Steam-Kin
-3 Runaway Steam-Kin
-4 Runaway Steam-Kin
-17 Mountain
-1 Misty Rainforest
-1 Lightning Axe
-1 Force of Negation
-2 Force of Negation
-1 Echoing Truth
-1 Crackling Drake
-2 Crackling Drake
-3 Fiery Islet
-1 Abrade
-2 Flame Slash
-3 Pyromancer Ascension
 7 Snow-Covered Mountain
 8 Snow-Covered Mountain
 9 Snow-Covered Mountain
@@ -90,4 +63,38 @@
 13 Snow-Covered Mountain
 14 Snow-Covered Mountain
 15 Snow-Covered Mountain
+1 Pyromancer Ascension
+2 Pyromancer Ascension
+1 Crash Through
+1 Tormenting Voice
+1 Fiery Temper
+1 Runaway Steam-Kin
+2 Tormenting Voice
+2 Fiery Temper
+2 Runaway Steam-Kin
+3 Runaway Steam-Kin
+4 Runaway Steam-Kin
+16 Mountain
+17 Mountain
+2 Flooded Strand
+1 Forked Bolt
+1 Lightning Axe
+2 Forked Bolt
+2 Magmatic Sinkhole
+1 Echoing Truth
+1 Crackling Drake
+2 Crackling Drake
+1 Abrade
+2 Flame Slash
+3 Pyromancer Ascension
+1 Snow-Covered Island
+1 Force of Negation
+2 Snow-Covered Island
+2 Force of Negation
+3 Snow-Covered Island
+2 Misty Rainforest
+4 Island
+4 Lava Dart
+16 Snow-Covered Mountain
+17 Snow-Covered Mountain
 4 Sunbaked Canyon

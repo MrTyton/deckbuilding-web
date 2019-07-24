@@ -34,16 +34,16 @@
 1 Manamorphose
 1 Restoration Angel
 1 Wall of Blossoms
+1 Niv-Mizzet Reborn
 1 Arbor Elf
 1 Primal Command
 1 Bring to Light
-1 Utopia Sprawl
 1 Hostage Taker
+1 Utopia Sprawl
 1 Acidic Slime
 1 Island
 1 Kiki-Jiki, Mirror Breaker
 1 Teferi, Time Raveler
-1 Niv-Mizzet Reborn
 1 Deceiver Exarch
 2 Manamorphose
 2 Wall of Blossoms
@@ -100,8 +100,8 @@
 2 Melira, Sylvok Outcast
 2 Blasphemous Act
 2 Wall of Roots
-3 Altar of Dementia
 3 Temple Garden
+3 Altar of Dementia
 3 Ancient Stirrings
 3 Melira, Sylvok Outcast
 3 Wall of Roots
@@ -130,6 +130,10 @@
 2 Knight of Autumn
 2 Sunpetal Grove
 3 Snow-Covered Forest
+1 Abrupt Decay
+1 Plague Engineer
+2 Abrupt Decay
+4 Eternal Witness
 1 Flooded Strand
 1 Hallowed Fountain
 1 Ranger of Eos
@@ -141,8 +145,4 @@
 3 Razorverge Thicket
 3 Tireless Tracker
 4 Razorverge Thicket
-1 Abrupt Decay
-1 Plague Engineer
-2 Abrupt Decay
-4 Eternal Witness
 3 Postmortem Lunge
