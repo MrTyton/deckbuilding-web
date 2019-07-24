@@ -28,7 +28,7 @@
 
 |*n*<sup>th</sup> copy|                                           Maindeck Card                                            |*n*<sup>th</sup> copy|                                       Sideboard Card                                       |
 |--------------------:|----------------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------|
-|                    4|[Sorin, Vengeful Bloodlord](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461144)|                    1|[Angrath's Rampage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461112)|
+|                    3|[Legion Warboss](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452859)           |                    1|[Angrath's Rampage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461112)|
 |                    4|[Adanto Vanguard](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435152)          |                     |                                                                                            |
-|                    3|[Legion Warboss](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452859)           |                     |                                                                                            |
+|                    4|[Sorin, Vengeful Bloodlord](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461144)|                     |                                                                                            |
 

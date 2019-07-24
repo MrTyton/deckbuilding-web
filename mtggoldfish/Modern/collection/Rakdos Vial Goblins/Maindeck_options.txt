@@ -1,5 +1,5 @@
-1 Bloodstained Mire
 1 Snow-Covered Swamp
+1 Bloodstained Mire
 1 Wooded Foothills
 2 Bloodstained Mire
 2 Wooded Foothills
@@ -7,22 +7,22 @@
 4 Bloodstained Mire
 1 Dragonskull Summit
 1 Goblin Bushwhacker
+1 Sulfurous Springs
 1 Unearth
 1 Goblin Instigator
 1 Impact Tremors
 1 Swamp
 1 Foreboding Ruins
-1 Sulfurous Springs
 1 Lightning Bolt
 1 Bomat Courier
 1 Goblin Grenade
 2 Skirk Prospector
-2 Pashalik Mons
-2 Sling-Gang Lieutenant
+2 Sulfurous Springs
 2 Bomat Courier
 2 Goblin Grenade
+2 Sling-Gang Lieutenant
 2 Foreboding Ruins
-2 Sulfurous Springs
+2 Pashalik Mons
 2 Unearth
 2 Lightning Bolt
 2 Dragonskull Summit
@@ -30,6 +30,7 @@
 3 Skirk Prospector
 3 Sling-Gang Lieutenant
 3 Pashalik Mons
+3 Sulfurous Springs
 3 Mogg War Marshal
 3 Dragonskull Summit
 3 Bomat Courier
@@ -37,7 +38,6 @@
 3 Unearth
 3 Goblin Instigator
 3 Foreboding Ruins
-3 Sulfurous Springs
 4 Mogg War Marshal
 4 Skirk Prospector
 4 Goblin Grenade

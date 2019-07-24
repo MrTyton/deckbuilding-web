@@ -16,8 +16,8 @@
 2 Skirk Prospector
 3 Skirk Prospector
 1 Swamp
-1 Goblin Trashmaster
 1 Earwig Squad
+1 Goblin Trashmaster
 4 Blood Crypt
 2 Sunbaked Canyon
 1 Snow-Covered Swamp
@@ -29,12 +29,6 @@
 2 Field of Ruin
 3 Field of Ruin
 6 Mountain
-1 Mad Auntie
-1 Boggart Harbinger
-2 Siege-Gang Commander
-2 Boggart Harbinger
-3 Sunbaked Canyon
-4 Sunbaked Canyon
 4 Unclaimed Territory
 1 Mogg Fanatic
 1 Foundry Street Denizen
@@ -45,8 +39,14 @@
 3 Arid Mesa
 3 Foundry Street Denizen
 4 Foundry Street Denizen
-1 Marsh Flats
+1 Mad Auntie
+1 Boggart Harbinger
+2 Siege-Gang Commander
+2 Boggart Harbinger
+3 Sunbaked Canyon
+4 Sunbaked Canyon
 1 Legion Loyalist
+1 Marsh Flats
 2 Legion Loyalist
 2 Marsh Flats
 2 Goblin Chainwhirler
@@ -62,9 +62,9 @@
 2 Pashalik Mons
 2 Krenko, Mob Boss
 3 Goblin Chieftain
+4 Skirk Prospector
 4 Goblin Chieftain
 4 Field of Ruin
-4 Skirk Prospector
 7 Mountain
 4 Snow-Covered Mountain
 5 Snow-Covered Mountain

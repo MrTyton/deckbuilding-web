@@ -22,3 +22,20 @@
 |3 [Fulminator Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397686)|2 [Bitterblossom](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397701)      |1 [Fatal Push](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423724)       |1 [Liliana, the Last Hope](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414388)|
 |2 [Plague Engineer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464049)|4 [Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)|2 [Liliana's Triumph](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461025)|                                                                                                   |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                           Maindeck Card                                            |*n*<sup>th</sup> copy|                                        Sideboard Card                                         |
+|--------------------:|----------------------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------------|
+|                    1|[Nurturing Peatland](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464192)       |                    1|[Collective Brutality](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414380)|
+|                    1|[Overgrown Tomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405103)           |                    1|[Tireless Tracker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409997)    |
+|                    1|[Satyr Wayfinder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=378508)          |                    1|[Deglamer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=154160)            |
+|                    1|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)                   |                    2|[Collective Brutality](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414380)|
+|                    2|[Satyr Wayfinder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=378508)          |                    2|[Tireless Tracker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409997)    |
+|                    2|[Nurturing Peatland](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464192)       |                     |                                                                                               |
+|                    3|[Nurturing Peatland](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464192)       |                     |                                                                                               |
+|                    3|[Satyr Wayfinder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=378508)          |                     |                                                                                               |
+|                    4|[Nurturing Peatland](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464192)       |                     |                                                                                               |
+|                    4|[Satyr Wayfinder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=378508)          |                     |                                                                                               |
+|                    4|[Hogaak, Arisen Necropolis](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464151)|                     |                                                                                               |
+

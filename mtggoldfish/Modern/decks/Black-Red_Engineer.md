@@ -35,8 +35,8 @@
 
 |*n*<sup>th</sup> copy|                                       Maindeck Card                                        |*n*<sup>th</sup> copy|                                    Sideboard Card                                    |
 |--------------------:|--------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------|
-|                    2|[Bloodstained Mire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405094)|                    1|[Sun Droplet](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220530)|
+|                    1|[Bloodstained Mire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405094)|                    1|[Sun Droplet](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220530)|
 |                    3|[Bloodstained Mire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405094)|                    1|[Spellskite](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397743) |
 |                    4|[Bloodstained Mire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405094)|                     |                                                                                      |
-|                    1|[Bloodstained Mire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405094)|                     |                                                                                      |
+|                    2|[Bloodstained Mire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405094)|                     |                                                                                      |
 

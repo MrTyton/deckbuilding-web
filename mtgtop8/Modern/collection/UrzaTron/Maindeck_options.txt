@@ -1,5 +1,5 @@
-3 Relic of Progenitus
 3 Wurmcoil Engine
+3 Relic of Progenitus
 1 All Is Dust
 1 Ugin, the Ineffable
 1 World Breaker
@@ -7,8 +7,9 @@
 2 Ugin, the Ineffable
 5 Forest
 1 Warping Wail
-1 Academy Ruins
 1 Karn, Scion of Urza
+2 Karn, Scion of Urza
+1 Academy Ruins
 1 Thirst for Knowledge
 1 Island
 1 Cyclonic Rift
@@ -17,7 +18,6 @@
 1 Talisman of Dominance
 1 Condescend
 2 Cyclonic Rift
-2 Karn, Scion of Urza
 2 Thirst for Knowledge
 2 Remand
 2 Island
@@ -33,6 +33,13 @@
 4 Condescend
 5 Island
 6 Island
+1 Chalice of the Void
+1 Gemstone Caverns
+2 Chalice of the Void
+2 Gemstone Caverns
+3 Chalice of the Void
+4 Chalice of the Void
+1 Dismember
 1 Urza's Factory
 2 Blast Zone
 2 Ghost Quarter
@@ -57,20 +64,36 @@
 8 Urza's Tower
 1 Buried Ruin
 1 Mystic Forge
+1 Hangarback Walker
+2 Warping Wail
+2 Tolaria West
 3 Ugin, the Ineffable
 2 All Is Dust
 4 Wurmcoil Engine
-1 Chalice of the Void
-1 Gemstone Caverns
-1 Hangarback Walker
-2 Chalice of the Void
-2 Warping Wail
-2 Gemstone Caverns
-2 Tolaria West
-3 Chalice of the Void
-4 Chalice of the Void
+1 Wastes
+1 Serum Powder
+1 Cavern of Souls
+1 Eternal Scourge
+1 Eldrazi Temple
+1 Myr Battlesphere
+1 Sundering Titan
+2 Serum Powder
+2 Dismember
+2 Eternal Scourge
+2 Myr Battlesphere
+2 Wastes
+2 Sundering Titan
+2 Eldrazi Temple
+3 Eternal Scourge
+3 Serum Powder
+3 Dismember
+3 Eldrazi Temple
+3 Gemstone Caverns
+4 Eternal Scourge
+4 Gemstone Caverns
+4 Serum Powder
+4 Eldrazi Temple
 1 Repeal
-1 Dismember
 1 Spatial Contortion
 1 Field of Ruin
 2 Repeal
