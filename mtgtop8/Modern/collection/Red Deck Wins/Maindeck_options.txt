@@ -1,14 +1,15 @@
 1 Grim Lavamancer
 4 Inspiring Vantage
-4 Wooded Foothills
-3 Arid Mesa
 4 Bloodstained Mire
+4 Wooded Foothills
+1 Skullcrack
+3 Arid Mesa
 1 Scalding Tarn
 1 Stomping Ground
+2 Scalding Tarn
 1 Light Up the Stage
 2 Light Up the Stage
 3 Light Up the Stage
-2 Scalding Tarn
 4 Light Up the Stage
 1 Fiery Islet
 4 Mountain
@@ -24,42 +25,40 @@
 14 Mountain
 1 Blistercoil Weird
 1 Crash Through
-1 Manamorphose
 1 Faithless Looting
 1 Lava Dart
 1 Gut Shot
 1 Soul-Scar Mage
+1 Manamorphose
 1 Bedlam Reveler
 2 Crash Through
 2 Blistercoil Weird
-2 Manamorphose
 2 Faithless Looting
 2 Gut Shot
 2 Bedlam Reveler
 2 Lava Dart
+2 Manamorphose
 2 Soul-Scar Mage
 3 Bedlam Reveler
 3 Crash Through
-3 Manamorphose
 3 Faithless Looting
+3 Manamorphose
 3 Soul-Scar Mage
 3 Lava Dart
 4 Crash Through
 4 Faithless Looting
 4 Manamorphose
 4 Soul-Scar Mage
-1 Skullcrack
-1 Shard Volley
 1 Atarka's Command
 2 Atarka's Command
 3 Atarka's Command
 4 Atarka's Command
 3 Gut Shot
 4 Bedlam Reveler
+1 Shard Volley
 3 Scalding Tarn
 2 Stomping Ground
 4 Arid Mesa
-2 Fiery Islet
 1 Copperline Gorge
 1 Wild Nacatl
 2 Copperline Gorge
@@ -67,35 +66,24 @@
 3 Wild Nacatl
 4 Wild Nacatl
 15 Mountain
-1 Fanatical Firebrand
-2 Fanatical Firebrand
-3 Fanatical Firebrand
+2 Fiery Islet
 4 Lava Dart
 3 Copperline Gorge
 4 Copperline Gorge
 1 Bump in the Night
 1 Blackcleave Cliffs
 1 Blood Crypt
-2 Blood Crypt
 2 Bump in the Night
 2 Blackcleave Cliffs
 2 Skullcrack
 2 Grim Lavamancer
+2 Blood Crypt
 3 Bump in the Night
 3 Blackcleave Cliffs
 4 Bump in the Night
 4 Scalding Tarn
-1 Mogg Fanatic
-2 Shard Volley
-2 Mogg Fanatic
-3 Shard Volley
-3 Mogg Fanatic
-3 Fiery Islet
-4 Shard Volley
-4 Fanatical Firebrand
-4 Mogg Fanatic
-4 Fiery Islet
 1 Runaway Steam-Kin
+1 Fanatical Firebrand
 1 Electrostatic Field
 1 Risk Factor
 1 Lightning Strike
@@ -103,9 +91,10 @@
 1 Ghitu Lavarunner
 1 Chandra, Fire Artisan
 1 Viashino Pyromancer
+2 Fanatical Firebrand
 2 Runaway Steam-Kin
-2 Electrostatic Field
 2 Chandra, Fire Artisan
+2 Electrostatic Field
 2 Risk Factor
 2 Wizard's Lightning
 2 Viashino Pyromancer
@@ -113,6 +102,7 @@
 2 Lightning Strike
 3 Lightning Strike
 3 Runaway Steam-Kin
+3 Fanatical Firebrand
 3 Electrostatic Field
 3 Ghitu Lavarunner
 3 Risk Factor

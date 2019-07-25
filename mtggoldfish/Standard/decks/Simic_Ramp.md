@@ -55,6 +55,6 @@
 |                    2|[Hallowed Fountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=97071)          |                     |                                                                                                |
 |                    3|[Temple Garden](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405112)             |                     |                                                                                                |
 |                    3|[Hallowed Fountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=97071)          |                     |                                                                                                |
-|                    4|[Hallowed Fountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=97071)          |                     |                                                                                                |
 |                    4|[Temple Garden](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405112)             |                     |                                                                                                |
+|                    4|[Hallowed Fountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=97071)          |                     |                                                                                                |
 

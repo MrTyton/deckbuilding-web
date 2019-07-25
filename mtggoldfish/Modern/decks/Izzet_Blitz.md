@@ -51,6 +51,6 @@
 |                    1|[Blistercoil Weird](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=289222) |                     |                                                                                                     |
 |                    2|[Blistercoil Weird](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=289222) |                     |                                                                                                     |
 |                    3|[Disrupting Shoal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=74128)   |                     |                                                                                                     |
-|                    4|[Mutagenic Growth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397717)  |                     |                                                                                                     |
 |                    4|[Spirebluff Canal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417822)  |                     |                                                                                                     |
+|                    4|[Mutagenic Growth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397717)  |                     |                                                                                                     |
 

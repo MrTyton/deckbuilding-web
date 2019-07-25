@@ -32,8 +32,8 @@
 
 |*n*<sup>th</sup> copy|                                            Maindeck Card                                            |*n*<sup>th</sup> copy|                                       Sideboard Card                                       |
 |--------------------:|-----------------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------|
-|                    1|[Bloodbraid Elf](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=185053)            |                    1|[Pernicious Deed](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442201)  |
-|                    1|[Inquisition of Kozilek](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416897)    |                    1|[Ancient Grudge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=235600)   |
+|                    1|[Bloodbraid Elf](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=185053)            |                    1|[Ancient Grudge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=235600)   |
+|                    1|[Inquisition of Kozilek](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416897)    |                    1|[Pernicious Deed](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442201)  |
 |                    1|[Liliana's Triumph](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461025)         |                    2|[Plague Engineer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464049)  |
 |                    2|[Inquisition of Kozilek](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416897)    |                    1|[Pulse of Murasa](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446177)  |
 |                    2|[Assassin's Trophy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452902)         |                    1|[Hymn to Tourach](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413634)  |

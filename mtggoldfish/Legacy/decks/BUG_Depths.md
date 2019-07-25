@@ -46,8 +46,8 @@
 |                    1|[Mana Confluence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409573)  |                     |                                                                                                 |
 |                    2|[Sylvan Safekeeper](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389709)|                     |                                                                                                 |
 |                    1|[Not of This World](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=198296)|                     |                                                                                                 |
-|                    2|[Not of This World](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=198296)|                     |                                                                                                 |
 |                    2|[Underground Sea](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=886)     |                     |                                                                                                 |
+|                    2|[Not of This World](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=198296)|                     |                                                                                                 |
 |                    3|[Bayou](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=879)               |                     |                                                                                                 |
 |                    4|[Sylvan Scrying](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=130513)   |                     |                                                                                                 |
 

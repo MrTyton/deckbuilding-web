@@ -69,7 +69,7 @@
 |                    7|[Snow-Covered Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121130)    |                    4|[Relic of Progenitus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174824)     |
 |                    8|[Snow-Covered Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121130)    |                    1|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)     |
 |                    9|[Snow-Covered Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121130)    |                    2|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)     |
-|                    4|[Master of Waves](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438441)        |                    4|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)     |
-|                   15|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)                 |                    3|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)     |
+|                    4|[Master of Waves](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438441)        |                    3|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)     |
+|                   15|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)                 |                    4|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)     |
 |                   16|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)                 |                     |                                                                                                   |
 

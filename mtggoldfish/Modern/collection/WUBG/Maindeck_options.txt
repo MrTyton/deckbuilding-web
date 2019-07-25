@@ -2,8 +2,8 @@
 1 Hallowed Fountain
 1 Temple Garden
 1 Breeding Pool
-1 Eternal Witness
 1 Misty Rainforest
+1 Eternal Witness
 2 Misty Rainforest
 3 Misty Rainforest
 4 Misty Rainforest
@@ -12,22 +12,22 @@
 1 Razorverge Thicket
 1 Renegade Rallier
 1 Obelisk Spider
-1 Polluted Delta
 1 Yawgmoth, Thran Physician
+1 Plague Engineer
 1 Deputy of Detention
 1 Overgrown Tomb
 1 Hapatra, Vizier of Poisons
 1 Birds of Paradise
 1 Swamp
-1 Neoform
 1 Noble Hierarch
 1 Blooming Marsh
 1 Phantasmal Image
 1 Blood Artist
 1 Verdant Catacombs
 1 Kitchen Finks
+1 Neoform
 1 Young Wolf
-1 Plague Engineer
+1 Polluted Delta
 1 Strangleroot Geist
 1 Fblthp, the Lost
 2 Eldritch Evolution
@@ -40,14 +40,14 @@
 2 Overgrown Tomb
 2 Young Wolf
 2 Yawgmoth, Thran Physician
-2 Strangleroot Geist
 2 Neoform
 2 Hapatra, Vizier of Poisons
 2 Noble Hierarch
+2 Strangleroot Geist
 3 Voice of Resurgence
-3 Yawgmoth, Thran Physician
 3 Noble Hierarch
 3 Young Wolf
+3 Yawgmoth, Thran Physician
 3 Strangleroot Geist
 3 Birds of Paradise
 3 Neoform
@@ -59,9 +59,11 @@
 4 Young Wolf
 1 Watcher for Tomorrow
 1 Prismatic Vista
-1 Path to Exile
-1 Detention Sphere
+1 Snow-Covered Island
 1 Snow-Covered Plains
+1 Path to Exile
+1 Restoration Angel
+1 Detention Sphere
 1 String of Disappearances
 1 Aether Vial
 1 Snow-Covered Forest
@@ -69,19 +71,17 @@
 1 Utopia Sprawl
 1 Thirst for Knowledge
 1 Windswept Heath
-1 Snow-Covered Island
 1 Flooded Strand
 1 Seachrome Coast
 1 Thraben Inspector
-1 Restoration Angel
 1 Knight of Autumn
 1 Reflector Mage
 1 Wall of Blossoms
 1 Familiar's Ruse
 2 Watcher for Tomorrow
 2 Prismatic Vista
-2 Snow-Covered Island
 2 Seachrome Coast
+2 Snow-Covered Island
 2 Restoration Angel
 2 Snow-Covered Forest
 2 Path to Exile

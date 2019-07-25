@@ -27,29 +27,3 @@
 |2 [Remorseful Cleric](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447169)|                                                                                          |                                                                                                     |
 |2 [Selfless Spirit](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414332)  |                                                                                          |                                                                                                     |
 
-
-# Other Options
-
-|*n*<sup>th</sup> copy|                                        Maindeck Card                                        |*n*<sup>th</sup> copy|                                           Sideboard Card                                            |
-|--------------------:|---------------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------------------|
-|                    1|[Blade Splicer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425828)     |                    1|[Thrun, the Last Troll](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=214050)     |
-|                    1|[Gavony Township](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=233242)   |                    1|[Gaddock Teeg](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=140188)              |
-|                    1|[Horizon Canopy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409571)    |                    1|[Phyrexian Revoker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383343)         |
-|                    1|[Selfless Spirit](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414332)   |                    1|[Settle the Wreckage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435186)       |
-|                    1|[Razorverge Thicket](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=209407)|                    1|[Ramunap Excavator](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430818)         |
-|                    1|[Giver of Runes](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463962)    |                    1|[Collector Ouphe](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464107)           |
-|                    2|[Horizon Canopy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409571)    |                    1|[Linvala, Keeper of Silence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425838)|
-|                    2|[Selfless Spirit](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414332)   |                    1|[Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452)         |
-|                    2|[Razorverge Thicket](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=209407)|                    2|[Collector Ouphe](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464107)           |
-|                    2|[Giver of Runes](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463962)    |                    2|[Gaddock Teeg](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=140188)              |
-|                    2|[Blade Splicer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425828)     |                    3|[Gaddock Teeg](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=140188)              |
-|                    3|[Temple Garden](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405112)     |                     |                                                                                                     |
-|                    3|[Razorverge Thicket](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=209407)|                     |                                                                                                     |
-|                    3|[Knight of Autumn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452933)  |                     |                                                                                                     |
-|                    3|[Blade Splicer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425828)     |                     |                                                                                                     |
-|                    3|[Giver of Runes](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463962)    |                     |                                                                                                     |
-|                    3|[Horizon Canopy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409571)    |                     |                                                                                                     |
-|                    4|[Razorverge Thicket](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=209407)|                     |                                                                                                     |
-|                    4|[Temple Garden](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405112)     |                     |                                                                                                     |
-|                    4|[Giver of Runes](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463962)    |                     |                                                                                                     |
-
