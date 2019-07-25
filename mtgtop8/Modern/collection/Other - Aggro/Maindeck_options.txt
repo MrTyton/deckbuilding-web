@@ -20,16 +20,16 @@
 15 Island
 16 Island
 1 Walking Ballista
+1 Temple Garden
 1 Devoted Druid
 1 Vizier of Remedies
-1 Temple Garden
+1 Eladamri's Call
 1 Finale of Devastation
 1 Breeding Pool
 1 Teferi, Time Raveler
 1 Windswept Heath
 1 Eternal Witness
 1 Scavenging Ooze
-1 Eladamri's Call
 1 Horizon Canopy
 2 Teferi, Time Raveler
 2 Devoted Druid
@@ -201,6 +201,42 @@
 4 Arbor Elf
 4 Oath of Nissa
 4 Teferi, Time Raveler
+1 Stitcher's Supplier
+2 Stitcher's Supplier
+3 Stitcher's Supplier
+4 Stitcher's Supplier
+1 Lingering Souls
+2 Viscera Seer
+2 Lingering Souls
+3 Lingering Souls
+3 Viscera Seer
+4 Lingering Souls
+4 Viscera Seer
+1 Insolent Neonate
+1 Bridge from Below
+1 Greater Gargadon
+1 Gravecrawler
+1 Mayhem Devil
+2 Insolent Neonate
+2 Godless Shrine
+2 Bridge from Below
+2 Marsh Flats
+2 Greater Gargadon
+2 Gravecrawler
+2 Mayhem Devil
+3 Insolent Neonate
+3 Marsh Flats
+3 Mayhem Devil
+3 Bridge from Below
+3 Greater Gargadon
+3 Gravecrawler
+4 Insolent Neonate
+4 Blood Crypt
+4 Marsh Flats
+4 Bridge from Below
+4 Greater Gargadon
+4 Gravecrawler
+4 Mayhem Devil
 1 Caves of Koilos
 1 Concealed Courtyard
 2 Plains
@@ -260,42 +296,6 @@
 4 Harabaz Druid
 4 Kazandu Blademaster
 4 Ally Encampment
-1 Stitcher's Supplier
-2 Stitcher's Supplier
-3 Stitcher's Supplier
-4 Stitcher's Supplier
-1 Lingering Souls
-2 Viscera Seer
-2 Lingering Souls
-3 Lingering Souls
-3 Viscera Seer
-4 Lingering Souls
-4 Viscera Seer
-1 Insolent Neonate
-1 Bridge from Below
-1 Greater Gargadon
-1 Gravecrawler
-1 Mayhem Devil
-2 Insolent Neonate
-2 Godless Shrine
-2 Bridge from Below
-2 Marsh Flats
-2 Greater Gargadon
-2 Gravecrawler
-2 Mayhem Devil
-3 Insolent Neonate
-3 Mayhem Devil
-3 Bridge from Below
-3 Marsh Flats
-3 Greater Gargadon
-3 Gravecrawler
-4 Insolent Neonate
-4 Blood Crypt
-4 Bridge from Below
-4 Greater Gargadon
-4 Gravecrawler
-4 Mayhem Devil
-4 Marsh Flats
 1 Blinkmoth Nexus
 1 Smuggler's Copter
 1 Etherium Sculptor
@@ -342,8 +342,8 @@
 3 Ball Lightning
 3 Thunderkin Awakener
 3 Inquisition of Kozilek
-4 Snow-Covered Mountain
 4 Inquisition of Kozilek
+4 Snow-Covered Mountain
 4 Thunderkin Awakener
 4 Ball Lightning
 3 Swamp
