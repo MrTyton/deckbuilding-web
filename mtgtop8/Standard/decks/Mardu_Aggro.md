@@ -23,12 +23,3 @@
 |3 [Tocatli Honor Guard](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435194)|2 [Mortify](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420829)      |3 [Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)            |
 |                                                                                                |                                                                                          |1 [Lava Coil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452858)        |
 
-
-# Other Options
-
-|*n*<sup>th</sup> copy|                                           Maindeck Card                                            |*n*<sup>th</sup> copy|                                       Sideboard Card                                       |
-|--------------------:|----------------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------|
-|                    3|[Legion Warboss](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452859)           |                    1|[Angrath's Rampage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461112)|
-|                    4|[Adanto Vanguard](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435152)          |                     |                                                                                            |
-|                    4|[Sorin, Vengeful Bloodlord](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461144)|                     |                                                                                            |
-

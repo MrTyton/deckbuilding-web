@@ -3,10 +3,7 @@
 4 Bloodstained Mire
 4 Wooded Foothills
 1 Skullcrack
-3 Arid Mesa
-1 Scalding Tarn
 1 Stomping Ground
-2 Scalding Tarn
 1 Light Up the Stage
 2 Light Up the Stage
 3 Light Up the Stage
@@ -49,6 +46,8 @@
 4 Faithless Looting
 4 Manamorphose
 4 Soul-Scar Mage
+3 Arid Mesa
+1 Scalding Tarn
 1 Atarka's Command
 2 Atarka's Command
 3 Atarka's Command
@@ -56,9 +55,8 @@
 3 Gut Shot
 4 Bedlam Reveler
 1 Shard Volley
-3 Scalding Tarn
+2 Scalding Tarn
 2 Stomping Ground
-4 Arid Mesa
 1 Copperline Gorge
 1 Wild Nacatl
 2 Copperline Gorge
@@ -70,51 +68,8 @@
 4 Lava Dart
 3 Copperline Gorge
 4 Copperline Gorge
-1 Bump in the Night
-1 Blackcleave Cliffs
-1 Blood Crypt
-2 Bump in the Night
-2 Blackcleave Cliffs
-2 Skullcrack
-2 Grim Lavamancer
-2 Blood Crypt
-3 Bump in the Night
-3 Blackcleave Cliffs
-4 Bump in the Night
+3 Scalding Tarn
 4 Scalding Tarn
-1 Runaway Steam-Kin
-1 Fanatical Firebrand
-1 Electrostatic Field
-1 Risk Factor
-1 Lightning Strike
-1 Wizard's Lightning
-1 Ghitu Lavarunner
-1 Chandra, Fire Artisan
-1 Viashino Pyromancer
-2 Fanatical Firebrand
-2 Runaway Steam-Kin
-2 Chandra, Fire Artisan
-2 Electrostatic Field
-2 Risk Factor
-2 Wizard's Lightning
-2 Viashino Pyromancer
-2 Ghitu Lavarunner
-2 Lightning Strike
-3 Lightning Strike
-3 Runaway Steam-Kin
-3 Fanatical Firebrand
-3 Electrostatic Field
-3 Ghitu Lavarunner
-3 Risk Factor
-3 Wizard's Lightning
-3 Viashino Pyromancer
-4 Lightning Strike
-4 Runaway Steam-Kin
-4 Electrostatic Field
-16 Mountain
-17 Mountain
-18 Mountain
-19 Mountain
 1 Dreadhorde Arcanist
 1 Path to Exile
 1 Forest
@@ -136,3 +91,86 @@
 4 Dreadhorde Arcanist
 4 Hexdrinker
 4 Windswept Heath
+1 Bump in the Night
+1 Blackcleave Cliffs
+1 Blood Crypt
+2 Bump in the Night
+2 Blackcleave Cliffs
+2 Skullcrack
+2 Grim Lavamancer
+2 Blood Crypt
+3 Bump in the Night
+3 Blackcleave Cliffs
+4 Bump in the Night
+4 Arid Mesa
+1 Fanatical Firebrand
+2 Fanatical Firebrand
+1 Runaway Steam-Kin
+1 Electrostatic Field
+1 Risk Factor
+1 Wizard's Lightning
+1 Lightning Strike
+1 Ghitu Lavarunner
+1 Chandra, Fire Artisan
+1 Viashino Pyromancer
+2 Runaway Steam-Kin
+2 Chandra, Fire Artisan
+2 Electrostatic Field
+2 Risk Factor
+2 Wizard's Lightning
+2 Lightning Strike
+2 Viashino Pyromancer
+2 Ghitu Lavarunner
+3 Lightning Strike
+3 Runaway Steam-Kin
+3 Fanatical Firebrand
+3 Electrostatic Field
+3 Ghitu Lavarunner
+3 Viashino Pyromancer
+3 Wizard's Lightning
+3 Risk Factor
+4 Runaway Steam-Kin
+4 Lightning Strike
+4 Electrostatic Field
+16 Mountain
+17 Mountain
+18 Mountain
+19 Mountain
+1 Devastating Summons
+1 Ramunap Ruins
+1 Foundry Street Denizen
+1 Legion Loyalist
+1 Bomat Courier
+1 Vexing Devil
+1 Goblin Bushwhacker
+1 Reckless Bushwhacker
+1 Burning-Tree Emissary
+1 Signal Pest
+2 Ramunap Ruins
+2 Devastating Summons
+2 Legion Loyalist
+2 Foundry Street Denizen
+2 Bomat Courier
+2 Vexing Devil
+2 Reckless Bushwhacker
+2 Goblin Bushwhacker
+2 Burning-Tree Emissary
+2 Signal Pest
+3 Legion Loyalist
+3 Ramunap Ruins
+3 Foundry Street Denizen
+3 Bomat Courier
+3 Vexing Devil
+3 Reckless Bushwhacker
+3 Burning-Tree Emissary
+3 Goblin Bushwhacker
+3 Signal Pest
+4 Legion Loyalist
+4 Goblin Bushwhacker
+4 Ramunap Ruins
+4 Foundry Street Denizen
+4 Bomat Courier
+4 Burning-Tree Emissary
+4 Reckless Bushwhacker
+4 Vexing Devil
+4 Signal Pest

@@ -30,9 +30,9 @@
 |[BUG](./mtgtop8/Modern/decks/BUG.md)                            |[Gruul Aggro](./mtgtop8/Modern/decks/Gruul_Aggro.md)        |[Mardu Midrange](./mtgtop8/Modern/decks/Mardu_Midrange.md)        |[Scapeshift](./mtgtop8/Modern/decks/Scapeshift.md)              |[UrzaTron](./mtgtop8/Modern/decks/UrzaTron.md)        |
 |[Balance](./mtgtop8/Modern/decks/Balance.md)                    |[Gruul Ramp](./mtgtop8/Modern/decks/Gruul_Ramp.md)          |[Martyr Life](./mtgtop8/Modern/decks/Martyr_Life.md)              |[Selesnya Aggro](./mtgtop8/Modern/decks/Selesnya_Aggro.md)      |[Valakut](./mtgtop8/Modern/decks/Valakut.md)          |
 |[Bant](./mtgtop8/Modern/decks/Bant.md)                          |[Hardened Scales](./mtgtop8/Modern/decks/Hardened_Scales.md)|[Merfolk](./mtgtop8/Modern/decks/Merfolk.md)                      |[Slivers](./mtgtop8/Modern/decks/Slivers.md)                    |[Walks](./mtgtop8/Modern/decks/Walks.md)              |
-|[Boros](./mtgtop8/Modern/decks/Boros.md)                        |[Hatebear](./mtgtop8/Modern/decks/Hatebear.md)              |[Mono Black Aggro](./mtgtop8/Modern/decks/Mono_Black_Aggro.md)    |[Spirit Aggro](./mtgtop8/Modern/decks/Spirit_Aggro.md)          |[Whir Prison](./mtgtop8/Modern/decks/Whir_Prison.md)  |
-|[CopyCat](./mtgtop8/Modern/decks/CopyCat.md)                    |[Hollow One](./mtgtop8/Modern/decks/Hollow_One.md)          |[Mono Black Control](./mtgtop8/Modern/decks/Mono_Black_Control.md)|[Teaching Control](./mtgtop8/Modern/decks/Teaching_Control.md)  |[Zoo](./mtgtop8/Modern/decks/Zoo.md)                  |
-|[Creatures Toolbox](./mtgtop8/Modern/decks/Creatures_Toolbox.md)|[Humans](./mtgtop8/Modern/decks/Humans.md)                  |[Mono Green Aggro](./mtgtop8/Modern/decks/Mono_Green_Aggro.md)    |[The Rock](./mtgtop8/Modern/decks/The_Rock.md)                  |                                                      |
+|[Boros](./mtgtop8/Modern/decks/Boros.md)                        |[Hatebear](./mtgtop8/Modern/decks/Hatebear.md)              |[Mono Black Aggro](./mtgtop8/Modern/decks/Mono_Black_Aggro.md)    |[Spirit Aggro](./mtgtop8/Modern/decks/Spirit_Aggro.md)          |[Weenie White](./mtgtop8/Modern/decks/Weenie_White.md)|
+|[CopyCat](./mtgtop8/Modern/decks/CopyCat.md)                    |[Hollow One](./mtgtop8/Modern/decks/Hollow_One.md)          |[Mono Black Control](./mtgtop8/Modern/decks/Mono_Black_Control.md)|[Teaching Control](./mtgtop8/Modern/decks/Teaching_Control.md)  |[Whir Prison](./mtgtop8/Modern/decks/Whir_Prison.md)  |
+|[Creatures Toolbox](./mtgtop8/Modern/decks/Creatures_Toolbox.md)|[Humans](./mtgtop8/Modern/decks/Humans.md)                  |[Mono Green Aggro](./mtgtop8/Modern/decks/Mono_Green_Aggro.md)    |[The Rock](./mtgtop8/Modern/decks/The_Rock.md)                  |[Zoo](./mtgtop8/Modern/decks/Zoo.md)                  |
 |[Death's Shadow](./mtgtop8/Modern/decks/Death's_Shadow.md)      |[Infect](./mtgtop8/Modern/decks/Infect.md)                  |[Mono Red Control](./mtgtop8/Modern/decks/Mono_Red_Control.md)    |[Tokens](./mtgtop8/Modern/decks/Tokens.md)                      |                                                      |
 
 
@@ -54,4 +54,4 @@
 
 
 
-#### Last Updated at 05:43PM on July 25, 2019
+#### Last Updated at 12:25AM on July 26, 2019
