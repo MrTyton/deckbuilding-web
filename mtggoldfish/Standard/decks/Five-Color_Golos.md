@@ -1,7 +1,7 @@
-# WUBRG
+# Five-Color Golos
 
-#### [Export MTGO List](../collection/WUBRG/WUBRG.txt)
-#### [Export Arena List](../collection/WUBRG/WUBRG_arena.txt)
+#### [Export MTGO List](../collection/Five-Color%20Golos/Five-Color%20Golos.txt)
+#### [Export Arena List](../collection/Five-Color%20Golos/Five-Color%20Golos_arena.txt)
 #### [Print on decklist.org](http://decklist.org/?deckmain=2%09Breeding%20Pool%0A2%09Chance%20for%20Glory%0A1%09Cleansing%20Nova%0A4%09Discovery/Dispersal%0A1%09Dragonskull%20Summit%0A1%09Drawn%20from%20Dreams%0A2%09Drowned%20Catacomb%0A1%09Enter%20the%20God-Eternals%0A4%09Gift%20of%20Paradise%0A1%09Golos,%20Tireless%20Pilgrim%0A2%09Hinterland%20Harbor%0A1%09Island%0A3%09Isolated%20Chapel%0A2%09Lich's%20Mastery%0A2%09Mastermind's%20Acquisition%0A1%09Moment%20of%20Craving%0A4%09Narset,%20Parter%20of%20Veils%0A2%09Oath%20of%20Kaya%0A2%09Overgrown%20Tomb%0A1%09Plains%0A1%09Root%20Snare%0A1%09Sacred%20Foundry%0A1%09Search%20for%20Azcanta%0A1%09Sunpetal%20Grove%0A1%09Swamp%0A1%09Swiftwater%20Cliffs%0A2%09Tamiyo,%20Collector%20of%20Tales%0A4%09Teferi,%20Time%20Raveler%0A2%09Temple%20Garden%0A1%09Temple%20of%20Mystery%0A2%09The%20Mirari%20Conjecture%0A3%09Watery%20Grave%0A1%09Woodland%20Cemetery&deckside=1%09Banefire%0A1%09Cleansing%20Nova%0A2%09Cry%20of%20the%20Carnarium%0A1%09Despark%0A1%09Enter%20the%20God-Eternals%0A1%09Jace,%20Wielder%20of%20Mysteries%0A2%09Legion's%20End%0A1%09Nature's%20Spiral%0A1%09Ritual%20of%20Soot%0A1%09Tamiyo,%20Collector%20of%20Tales%0A1%09The%20Elderspell%0A1%09Thought%20Erasure%0A1%09Vraska's%20Contempt)
 # Maindeck
 

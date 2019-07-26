@@ -1,7 +1,7 @@
-# UB
+# Dimir Control
 
-#### [Export MTGO List](../collection/UB/UB.txt)
-#### [Export Arena List](../collection/UB/UB_arena.txt)
+#### [Export MTGO List](../collection/Dimir%20Control/Dimir%20Control.txt)
+#### [Export Arena List](../collection/Dimir%20Control/Dimir%20Control_arena.txt)
 #### [Print on decklist.org](http://decklist.org/?deckmain=3%09Cast%20Down%0A2%09Cavalier%20of%20Gales%0A2%09Cry%20of%20the%20Carnarium%0A4%09Drowned%20Catacomb%0A2%09Field%20of%20Ruin%0A2%09God-Eternal%20Kefnet%0A8%09Island%0A2%09Liliana,%20Dreadhorde%20General%0A2%09Mu%20Yanling,%20Sky%20Dancer%0A3%09Narset,%20Parter%20of%20Veils%0A2%09Negate%0A4%09Opt%0A1%09Ritual%20of%20Soot%0A2%09Sinister%20Sabotage%0A7%09Swamp%0A2%09Syncopate%0A1%09The%20Elderspell%0A4%09Thought%20Erasure%0A1%09Ugin,%20the%20Ineffable%0A2%09Vraska's%20Contempt%0A4%09Watery%20Grave&deckside=3%09Ashiok,%20Dream%20Render%0A1%09Command%20the%20Dreadhorde%0A2%09Duress%0A1%09Finale%20of%20Eternity%0A2%09Negate%0A4%09Noxious%20Grasp%0A2%09Unmoored%20Ego)
 # Maindeck
 

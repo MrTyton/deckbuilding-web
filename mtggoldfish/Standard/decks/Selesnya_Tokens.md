@@ -22,28 +22,3 @@
 |3 [Ripjaw Raptor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435359)    |2 [Leyline of Sanctity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=204993)|                                                                                                |                |
 |1 [Tendershoot Dryad](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439804)|                                                                                                |                                                                                                |                |
 
-
-# Other Options
-
-|*n*<sup>th</sup> copy|                                        Maindeck Card                                         |*n*<sup>th</sup> copy|                                       Sideboard Card                                        |
-|--------------------:|----------------------------------------------------------------------------------------------|--------------------:|---------------------------------------------------------------------------------------------|
-|                    1|[Dauntless Bodyguard](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442902)|                    1|Shifting Ceratops                                                                            |
-|                    1|[Raise the Alarm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416853)    |                    1|[Sorcerous Spyglass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435407)|
-|                    1|[Benalish Marshal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442894)   |                    1|[Demystify](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129524)         |
-|                    1|Woodland Champion                                                                             |                    1|[Kraul Harpooner](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452886)   |
-|                    2|[Dauntless Bodyguard](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442902)|                    1|[Ixalan's Binding](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435168)  |
-|                    2|Woodland Champion                                                                             |                    2|[Kraul Harpooner](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452886)   |
-|                    2|[Benalish Marshal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442894)   |                    2|[Demystify](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129524)         |
-|                    2|[Raise the Alarm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416853)    |                    2|[Ixalan's Binding](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435168)  |
-|                    3|Woodland Champion                                                                             |                    2|Shifting Ceratops                                                                            |
-|                    3|[Benalish Marshal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442894)   |                    3|[Kraul Harpooner](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452886)   |
-|                    3|[Dauntless Bodyguard](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442902)|                    3|[Demystify](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129524)         |
-|                    3|[Raise the Alarm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416853)    |                    4|[Kraul Harpooner](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452886)   |
-|                    4|[Legion's Landing](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435173)   |                     |                                                                                             |
-|                    4|[Dauntless Bodyguard](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442902)|                     |                                                                                             |
-|                    4|Woodland Champion                                                                             |                     |                                                                                             |
-|                    4|[Raise the Alarm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416853)    |                     |                                                                                             |
-|                    4|[Benalish Marshal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442894)   |                     |                                                                                             |
-|                    9|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)             |                     |                                                                                             |
-|                   10|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)             |                     |                                                                                             |
-

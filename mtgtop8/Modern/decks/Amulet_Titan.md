@@ -104,7 +104,7 @@
 |                    3|[Growth Spiral](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457322)          |                     |                                                                                                    |
 |                    4|[Waterlogged Grove](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464198)      |                     |                                                                                                    |
 |                    4|[Tranquil Thicket](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220494)       |                     |                                                                                                    |
-|                    4|[Tolaria West](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=136047)           |                     |                                                                                                    |
 |                    4|[Explore](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=451098)                |                     |                                                                                                    |
+|                    4|[Tolaria West](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=136047)           |                     |                                                                                                    |
 |                    4|[Growth Spiral](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457322)          |                     |                                                                                                    |
 

@@ -12,8 +12,8 @@
 1 Razorverge Thicket
 1 Renegade Rallier
 1 Obelisk Spider
-1 Polluted Delta
 1 Yawgmoth, Thran Physician
+1 Plague Engineer
 1 Deputy of Detention
 1 Overgrown Tomb
 1 Hapatra, Vizier of Poisons
@@ -27,7 +27,7 @@
 1 Kitchen Finks
 1 Neoform
 1 Young Wolf
-1 Plague Engineer
+1 Polluted Delta
 1 Strangleroot Geist
 1 Fblthp, the Lost
 2 Eldritch Evolution
@@ -59,9 +59,11 @@
 4 Young Wolf
 1 Watcher for Tomorrow
 1 Prismatic Vista
-1 Path to Exile
-1 Detention Sphere
+1 Snow-Covered Island
 1 Snow-Covered Plains
+1 Path to Exile
+1 Restoration Angel
+1 Detention Sphere
 1 String of Disappearances
 1 Aether Vial
 1 Snow-Covered Forest
@@ -69,11 +71,9 @@
 1 Utopia Sprawl
 1 Thirst for Knowledge
 1 Windswept Heath
-1 Snow-Covered Island
 1 Flooded Strand
 1 Seachrome Coast
 1 Thraben Inspector
-1 Restoration Angel
 1 Knight of Autumn
 1 Reflector Mage
 1 Wall of Blossoms
@@ -81,6 +81,7 @@
 2 Watcher for Tomorrow
 2 Prismatic Vista
 2 Seachrome Coast
+2 Snow-Covered Island
 2 Restoration Angel
 2 Snow-Covered Forest
 2 Path to Exile
@@ -89,7 +90,6 @@
 2 Aether Vial
 2 Detention Sphere
 2 Windswept Heath
-2 Snow-Covered Island
 2 String of Disappearances
 2 Utopia Sprawl
 2 Thraben Inspector
@@ -99,11 +99,11 @@
 2 Familiar's Ruse
 2 Eternal Witness
 3 Eternal Witness
+3 Snow-Covered Island
 3 Knight of Autumn
 3 Path to Exile
 3 Aether Vial
 3 Ice-Fang Coatl
-3 Snow-Covered Island
 3 Familiar's Ruse
 4 Eternal Witness
 4 Ice-Fang Coatl
