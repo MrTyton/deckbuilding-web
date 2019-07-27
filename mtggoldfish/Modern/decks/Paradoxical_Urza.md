@@ -27,3 +27,15 @@
 |1 [Pithing Needle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129526)      |                                                                                       |                                                                                                 |                                                                                              |                                                                                                    |
 |2 [Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)      |                                                                                       |                                                                                                 |                                                                                              |                                                                                                    |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                         Maindeck Card                                         |*n*<sup>th</sup> copy|                                         Sideboard Card                                         |
+|--------------------:|-----------------------------------------------------------------------------------------------|--------------------:|------------------------------------------------------------------------------------------------|
+|                    1|[Mirrodin Besieged](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464006)   |                    1|[Mirrodin Besieged](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464006)    |
+|                    1|[Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)      |                    1|[Ceremonious Rejection](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417613)|
+|                    1|[Ghirapur Aether Grid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=398517)|                     |                                                                                                |
+|                    2|[Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)      |                     |                                                                                                |
+|                    2|[Pithing Needle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129526)      |                     |                                                                                                |
+|                    3|[Engineered Explosives](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=50139)|                     |                                                                                                |
+

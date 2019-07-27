@@ -8,14 +8,14 @@
 1 Drowned Catacomb
 3 Logic Knot
 4 Opt
-2 Negate
 2 Kaya's Guile
 2 Dovin's Veto
+2 Negate
+4 Cryptic Command
 1 Vendilion Clique
 1 Force of Negation
 2 Force of Negation
 2 Narset, Parter of Veils
-4 Cryptic Command
 2 Mana Leak
 1 Search for Azcanta
 2 Search for Azcanta
@@ -26,6 +26,7 @@
 3 Serum Visions
 1 Thoughtseize
 2 Thoughtseize
+4 Esper Charm
 1 Timely Reinforcements
 4 Field of Ruin
 1 Collective Brutality
@@ -39,29 +40,28 @@
 1 Spell Snare
 1 Settle the Wreckage
 3 Teferi, Hero of Dominaria
-4 Esper Charm
 2 Kaya, Orzhov Usurper
 2 Creeping Tar Pit
-1 Blessed Alliance
-1 Hieroglyphic Illumination
 1 Absorb
 1 Engineered Explosives
-2 Collective Brutality
+1 Blessed Alliance
+1 Hieroglyphic Illumination
 1 Fact or Fiction
 2 Vendilion Clique
+2 Collective Brutality
 2 Spell Snare
 2 Settle the Wreckage
-1 Terminus
 1 Darkslick Shores
+1 Terminus
 1 Inquisition of Kozilek
 1 Mystic Gate
 1 Wrath of God
 2 Darkslick Shores
 2 Inquisition of Kozilek
 3 Celestial Colonnade
-1 Snow-Covered Swamp
 1 Snow-Covered Plains
 1 Snow-Covered Island
+1 Snow-Covered Swamp
 2 Snow-Covered Island
 3 Snow-Covered Island
 3 Teferi, Time Raveler
@@ -70,3 +70,9 @@
 2 Swamp
 2 Bitterblossom
 4 Fatal Push
+1 Blast Zone
+2 Drowned Catacomb
+3 Jace, the Mind Sculptor
+3 Kaya's Guile
+3 Drowned Catacomb
+4 Drowned Catacomb

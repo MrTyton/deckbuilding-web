@@ -1,7 +1,7 @@
 # Faeries
 
 #### [Export MTGO List](../collection/Faeries/Faeries.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Bitterblossom%0A3%09Creeping%20Tar%20Pit%0A3%09Cryptic%20Command%0A4%09Darkslick%20Shores%0A4%09Faerie%20Seer%0A3%09Fatal%20Push%0A2%09Field%20of%20Ruin%0A3%09Force%20of%20Negation%0A4%09Island%0A2%09Jace,%20the%20Mind%20Sculptor%0A3%09Mana%20Leak%0A4%09Mistbind%20Clique%0A4%09Mutavault%0A4%09Polluted%20Delta%0A4%09Spellstutter%20Sprite%0A1%09Swamp%0A3%09Thoughtseize%0A3%09Vendilion%20Clique%0A2%09Watery%20Grave&deckside=3%09Collective%20Brutality%0A3%09Countersquall%0A2%09Damnation%0A2%09Engineered%20Explosives%0A2%09Ensnaring%20Bridge%0A3%09Leyline%20of%20the%20Void)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Bitterblossom%0A3%09Creeping%20Tar%20Pit%0A3%09Cryptic%20Command%0A4%09Darkslick%20Shores%0A4%09Faerie%20Seer%0A3%09Fatal%20Push%0A2%09Field%20of%20Ruin%0A3%09Force%20of%20Negation%0A4%09Island%0A2%09Jace,%20the%20Mind%20Sculptor%0A3%09Mana%20Leak%0A4%09Mistbind%20Clique%0A4%09Mutavault%0A4%09Polluted%20Delta%0A4%09Spellstutter%20Sprite%0A1%09Swamp%0A3%09Thoughtseize%0A3%09Vendilion%20Clique%0A2%09Watery%20Grave&deckside=3%09Collective%20Brutality%0A2%09Damnation%0A2%09Engineered%20Explosives%0A2%09Ensnaring%20Bridge%0A4%09Leyline%20of%20the%20Void%0A2%09Unmoored%20Ego)
 # Maindeck
 
 |                                         Creature (15)                                          |                                     Enchantment (4)                                      |                                         Instant (12)                                         |                                          Land (24)                                          |                                          Planeswalker (2)                                          |                                       Sorcery (3)                                       |
@@ -18,17 +18,18 @@
 
 # Sideboard
 
-|                                          Artifact (4)                                           |                                        Enchantment (3)                                         |                                       Instant (3)                                        |                                           Sorcery (5)                                           |
-|-------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
-|2 [Engineered Explosives](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=50139)|3 [Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)|3 [Countersquall](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=186327)|3 [Collective Brutality](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414380)|
-|2 [Ensnaring Bridge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=15866)     |                                                                                                |                                                                                          |2 [Damnation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425888)           |
+|                                          Artifact (4)                                           |                                        Enchantment (4)                                         |                                           Sorcery (7)                                           |
+|-------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
+|2 [Engineered Explosives](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=50139)|4 [Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)|3 [Collective Brutality](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414380)|
+|2 [Ensnaring Bridge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=15866)     |                                                                                                |2 [Damnation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425888)           |
+|                                                                                                 |                                                                                                |2 [Unmoored Ego](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452962)        |
 
 
 # Other Options
 
-|*n*<sup>th</sup> copy|Maindeck Card|*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
-|---------------------|-------------|--------------------:|----------------------------------------------------------------------------------------------|
-|                     |             |                    1|[Unmoored Ego](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452962)       |
-|                     |             |                    2|[Unmoored Ego](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452962)       |
-|                     |             |                    4|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)|
+|*n*<sup>th</sup> copy|Maindeck Card|*n*<sup>th</sup> copy|                                     Sideboard Card                                     |
+|---------------------|-------------|--------------------:|----------------------------------------------------------------------------------------|
+|                     |             |                    1|[Countersquall](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=186327)|
+|                     |             |                    2|[Countersquall](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=186327)|
+|                     |             |                    3|[Countersquall](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=186327)|
 

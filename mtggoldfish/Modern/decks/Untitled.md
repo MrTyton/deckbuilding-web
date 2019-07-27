@@ -34,8 +34,8 @@
 
 |*n*<sup>th</sup> copy|                                         Maindeck Card                                          |*n*<sup>th</sup> copy|                                        Sideboard Card                                         |
 |--------------------:|------------------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------------|
-|                    1|[Mage-Ring Network](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=398533)    |                    1|[Ghirapur Aether Grid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=398517)|
-|                    2|[Snow-Covered Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121130)  |                    1|[Orbs of Warding](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=398551)     |
+|                    1|[Mage-Ring Network](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=398533)    |                    1|[Orbs of Warding](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=398551)     |
+|                    2|[Snow-Covered Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121130)  |                    1|[Ghirapur Aether Grid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=398517)|
 |                    1|[Fiery Islet](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464187)          |                    2|[Ghirapur Aether Grid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=398517)|
 |                    2|[Snow-Covered Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121233)|                    1|[Crucible of Worlds](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129480)  |
 |                    3|[Snow-Covered Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121233)|                    2|[Welding Jar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=48328)          |

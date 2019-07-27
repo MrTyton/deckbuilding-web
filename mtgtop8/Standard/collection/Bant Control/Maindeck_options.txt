@@ -1,8 +1,14 @@
+1 Risen Reef
+2 Risen Reef
+3 Risen Reef
+4 Risen Reef
 2 Glacial Fortress
 3 Temple Garden
 3 Glacial Fortress
 3 Breeding Pool
+3 Hallowed Fountain
 4 Temple Garden
+4 Hallowed Fountain
 4 Breeding Pool
 1 Llanowar Elves
 1 Paradise Druid
@@ -17,13 +23,17 @@
 3 Forest
 4 Nissa, Who Shakes the World
 4 Llanowar Elves
-1 Risen Reef
-2 Risen Reef
-3 Risen Reef
-4 Risen Reef
-3 Hallowed Fountain
-4 Hallowed Fountain
 4 Forest
+4 Glacial Fortress
+1 Frilled Mystic
+2 Frilled Mystic
+1 Planar Cleansing
+1 Field of Ruin
+2 Simic Guildgate
+3 Grow from the Ashes
+1 Plaza of Harmony
+3 Prison Realm
+1 Finale of Glory
 3 Temple of Mystery
 1 Incubation Druid
 2 Incubation Druid
@@ -32,41 +42,20 @@
 2 Paradise Druid
 3 Paradise Druid
 4 Paradise Druid
-1 Frilled Mystic
-2 Frilled Mystic
-4 Glacial Fortress
+3 Frilled Mystic
 2 Hinterland Harbor
 3 Hinterland Harbor
-1 Planar Cleansing
-2 Simic Guildgate
-3 Grow from the Ashes
-1 Plaza of Harmony
-3 Prison Realm
-1 Finale of Glory
-1 Shalai, Voice of Plenty
-1 Mass Manipulation
-1 Entrancing Melody
-2 Mass Manipulation
-4 Hinterland Harbor
-3 Frilled Mystic
-1 Field of Ruin
+1 Drawn from Dreams
 1 Time Wipe
 2 Time Wipe
 2 Plains
-1 Lyra Dawnbringer
-1 The Immortal Sun
-1 Drawn from Dreams
-2 The Immortal Sun
-2 Drawn from Dreams
-2 Entrancing Melody
-3 Mass Manipulation
 1 Dovin's Veto
+1 Unsummon
 1 Teferi, Hero of Dominaria
 1 Essence Scatter
-1 Absorb
-1 Unsummon
 1 Brineborn Cutthroat
 1 Merfolk Trickster
+1 Absorb
 1 Spectral Sailor
 1 Nightpack Ambusher
 2 Sunpetal Grove
@@ -90,6 +79,12 @@
 4 Essence Scatter
 4 Merfolk Trickster
 4 Brineborn Cutthroat
+1 Shalai, Voice of Plenty
+1 Mass Manipulation
+1 Entrancing Melody
+2 Mass Manipulation
+3 Mass Manipulation
+4 Hinterland Harbor
 4 Frilled Mystic
 4 Voracious Hydra
 1 Leafkin Druid
