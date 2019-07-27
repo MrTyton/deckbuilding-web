@@ -56,8 +56,8 @@
 |                    1|[Polluted Delta](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405104)     |                    1|[Display of Dominance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394538)   |
 |                    2|[Polluted Delta](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405104)     |                    1|[Force of Vigor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464113)         |
 |                    2|[Flooded Strand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405098)     |                    1|[Chalice of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442211)    |
-|                    2|[Angel's Grace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370545)      |                    2|[Chalice of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442211)    |
-|                     |                                                                                              |                    2|[Echoing Truth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405212)          |
+|                    2|[Angel's Grace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370545)      |                    2|[Echoing Truth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405212)          |
+|                     |                                                                                              |                    2|[Chalice of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442211)    |
 |                     |                                                                                              |                    3|[Chalice of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442211)    |
 |                     |                                                                                              |                    4|[Dissenter's Deliverance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426866)|
 

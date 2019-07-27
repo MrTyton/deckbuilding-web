@@ -100,6 +100,6 @@
 |                    2|[Eldrazi Temple](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401710)            |                     |                                                                                                    |
 |                    3|[Eldrazi Temple](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401710)            |                     |                                                                                                    |
 |                    3|[Thought-Knot Seer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407519)         |                     |                                                                                                    |
-|                    4|[Thought-Knot Seer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407519)         |                     |                                                                                                    |
 |                    8|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)                    |                     |                                                                                                    |
+|                    4|[Thought-Knot Seer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407519)         |                     |                                                                                                    |
 

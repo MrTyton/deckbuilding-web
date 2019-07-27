@@ -160,8 +160,8 @@
 |                    3|[Windswept Heath](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405115)         |                     |                                                                                                   |
 |                    4|[Windswept Heath](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405115)         |                     |                                                                                                   |
 |                    1|[Seasoned Pyromancer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464094)     |                     |                                                                                                   |
-|                    3|[Nihil Spellbomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442215)         |                     |                                                                                                   |
 |                    3|[Arid Mesa](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405092)               |                     |                                                                                                   |
+|                    3|[Nihil Spellbomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442215)         |                     |                                                                                                   |
 |                    4|[Dreadhorde Arcanist](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461052)     |                     |                                                                                                   |
 |                    3|[Flooded Strand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405098)          |                     |                                                                                                   |
 

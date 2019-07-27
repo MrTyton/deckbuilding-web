@@ -4,12 +4,12 @@
 2 Waterlogged Grove
 1 Dismember
 1 Repeal
-2 Dismember
 2 Repeal
-3 Dismember
+2 Dismember
 3 Repeal
-4 Dismember
+3 Dismember
 4 Repeal
+4 Dismember
 2 Faerie Conclave
 3 Faerie Conclave
 4 Faerie Conclave
@@ -41,20 +41,10 @@
 1 Kopala, Warden of Waves
 1 Mu Yanling, Sky Dancer
 4 Merrow Reejerey
-1 Kumena's Speaker
-1 Merfolk Mistbinder
-1 Breeding Pool
-1 Botanical Sanctum
-1 Polluted Delta
-2 Kumena's Speaker
-2 Merfolk Mistbinder
-2 Polluted Delta
-2 Botanical Sanctum
-3 Kumena's Speaker
-3 Merfolk Mistbinder
-3 Botanical Sanctum
-4 Merfolk Mistbinder
-4 Kumena's Speaker
+1 Lonely Sandbar
+2 Lonely Sandbar
+3 Lonely Sandbar
+4 Lonely Sandbar
 1 Fiery Islet
 1 Coralhelm Commander
 1 Tidebinder Mage
@@ -65,10 +55,6 @@
 4 Coralhelm Commander
 1 Tectonic Edge
 4 Master of Waves
-1 Lonely Sandbar
-2 Lonely Sandbar
-3 Lonely Sandbar
-4 Lonely Sandbar
 1 Unsettled Mariner
 1 Seachrome Coast
 1 Misty Rainforest
@@ -87,3 +73,17 @@
 2 Deprive
 3 Deprive
 4 Deprive
+1 Breeding Pool
+1 Merfolk Mistbinder
+1 Kumena's Speaker
+1 Botanical Sanctum
+1 Polluted Delta
+2 Merfolk Mistbinder
+2 Polluted Delta
+2 Botanical Sanctum
+2 Kumena's Speaker
+3 Botanical Sanctum
+3 Merfolk Mistbinder
+3 Kumena's Speaker
+4 Kumena's Speaker
+4 Merfolk Mistbinder
