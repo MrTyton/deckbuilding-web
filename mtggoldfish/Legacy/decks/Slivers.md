@@ -35,8 +35,8 @@
 |--------------------:|---------------------------------------------------------------------------------------------|--------------------:|---------------------------------------------------------------------------------------|
 |                    1|[Darkheart Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=126012)  |                    1|[Hunter Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=44772)|
 |                    1|[Telekinetic Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=111085)|                    2|[Hunter Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=44772)|
-|                    1|[Winged Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=207920)     |                    1|[Dismember](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382182)   |
-|                    3|[Muscle Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=207911)     |                    2|[Dismember](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382182)   |
+|                    1|[Winged Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=207920)     |                    2|[Dismember](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382182)   |
+|                    3|[Muscle Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=207911)     |                    1|[Dismember](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382182)   |
 |                    4|[Mutavault](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370733)         |                     |                                                                                       |
 |                    3|[Sidewinder Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=118908) |                     |                                                                                       |
 

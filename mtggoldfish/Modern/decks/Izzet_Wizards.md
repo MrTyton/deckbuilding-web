@@ -1,7 +1,7 @@
 # Izzet Wizards
 
 #### [Export MTGO List](../collection/Izzet%20Wizards/Izzet%20Wizards.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=1%09Burst%20Lightning%0A4%09Delver%20of%20Secrets%0A1%09Fiery%20Islet%0A2%09Grim%20Lavamancer%0A2%09Island%0A4%09Lightning%20Bolt%0A2%09Mountain%0A2%09Mutavault%0A2%09Nimble%20Obstructionist%0A4%09Opt%0A3%09Polluted%20Delta%0A4%09Remand%0A4%09Scalding%20Tarn%0A4%09Snapcaster%20Mage%0A3%09Soul-Scar%20Mage%0A1%09Spell%20Pierce%0A2%09Spell%20Snare%0A1%09Spellstutter%20Sprite%0A4%09Spirebluff%20Canal%0A3%09Steam%20Vents%0A1%09Vapor%20Snag%0A1%09Vendilion%20Clique%0A4%09Wizard's%20Lightning%0A1%09Wooded%20Foothills&deckside=2%09Abrade%0A2%09Alpine%20Moon%0A2%09Ceremonious%20Rejection%0A1%09Hurkyl's%20Recall%0A2%09Ravenous%20Trap%0A3%09Spell%20Pierce%0A2%09Surgical%20Extraction%0A1%09Vapor%20Snag)
+#### [Print on decklist.org](http://decklist.org/?deckmain=1%09Burst%20Lightning%0A4%09Delver%20of%20Secrets%0A1%09Fiery%20Islet%0A2%09Grim%20Lavamancer%0A2%09Island%0A4%09Lightning%20Bolt%0A2%09Mountain%0A2%09Mutavault%0A2%09Nimble%20Obstructionist%0A4%09Opt%0A3%09Polluted%20Delta%0A4%09Remand%0A4%09Scalding%20Tarn%0A4%09Snapcaster%20Mage%0A3%09Soul-Scar%20Mage%0A1%09Spell%20Pierce%0A2%09Spell%20Snare%0A1%09Spellstutter%20Sprite%0A4%09Spirebluff%20Canal%0A3%09Steam%20Vents%0A1%09Vapor%20Snag%0A1%09Vendilion%20Clique%0A4%09Wizard's%20Lightning%0A1%09Wooded%20Foothills&deckside=1%09Abrade%0A1%09Ceremonious%20Rejection%0A1%09Disdainful%20Stroke%0A1%09Dismember%0A1%09Flusterstorm%0A1%09Fry%0A1%09Izzet%20Staticaster%0A1%09Spell%20Pierce%0A1%09Spell%20Snare%0A1%09Surgical%20Extraction%0A1%09Wizard's%20Retort)
 # Maindeck
 
 |                                          Creature (17)                                           |                                         Instant (21)                                          |                                          Land (22)                                          |
@@ -19,50 +19,15 @@
 
 # Sideboard
 
-|                                    Enchantment (2)                                     |                                           Instant (13)                                           |
-|----------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
-|2 [Alpine Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447264)|2 [Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)               |
-|                                                                                        |2 [Ceremonious Rejection](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417613)|
-|                                                                                        |1 [Hurkyl's Recall](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=135260)      |
-|                                                                                        |2 [Ravenous Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197537)        |
-|                                                                                        |3 [Spell Pierce](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425876)         |
-|                                                                                        |2 [Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)  |
-|                                                                                        |1 [Vapor Snag](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=249373)           |
-
-
-# Other Options
-
-|*n*<sup>th</sup> copy|                                          Maindeck Card                                           |*n*<sup>th</sup> copy|                                       Sideboard Card                                       |
-|--------------------:|--------------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------|
-|                    1|[Snow-Covered Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121130)    |                    1|[Wizard's Retort](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442963)  |
-|                    1|[Sleight of Hand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=25557)         |                    1|[Flusterstorm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=228255)     |
-|                    1|[Stormchaser Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407669)       |                    1|Fry                                                                                         |
-|                    1|[Adeliz, the Cinder Wind](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443078)|                    1|[Spell Snare](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446100)      |
-|                    1|[Mutagenic Growth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397717)       |                    1|[Izzet Staticaster](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=253638)|
-|                    1|[Dreadhorde Arcanist](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461052)    |                    1|[Dismember](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382182)        |
-|                    1|[Serum Visions](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=50145)           |                    1|[Disdainful Stroke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420705)|
-|                    1|[Ghitu Lavarunner](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443015)       |                     |                                                                                            |
-|                    1|[Lava Dart](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=29766)               |                     |                                                                                            |
-|                    1|[Monastery Swiftspear](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438706)   |                     |                                                                                            |
-|                    1|[Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)                 |                     |                                                                                            |
-|                    2|[Sleight of Hand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=25557)         |                     |                                                                                            |
-|                    2|[Stormchaser Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407669)       |                     |                                                                                            |
-|                    2|[Vapor Snag](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=249373)             |                     |                                                                                            |
-|                    2|[Adeliz, the Cinder Wind](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443078)|                     |                                                                                            |
-|                    2|[Mutagenic Growth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397717)       |                     |                                                                                            |
-|                    2|[Lava Dart](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=29766)               |                     |                                                                                            |
-|                    2|[Monastery Swiftspear](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438706)   |                     |                                                                                            |
-|                    2|[Ghitu Lavarunner](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443015)       |                     |                                                                                            |
-|                    2|[Dreadhorde Arcanist](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461052)    |                     |                                                                                            |
-|                    2|[Serum Visions](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=50145)           |                     |                                                                                            |
-|                    3|[Serum Visions](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=50145)           |                     |                                                                                            |
-|                    3|[Stormchaser Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407669)       |                     |                                                                                            |
-|                    3|[Monastery Swiftspear](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438706)   |                     |                                                                                            |
-|                    3|[Sleight of Hand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=25557)         |                     |                                                                                            |
-|                    3|[Lava Dart](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=29766)               |                     |                                                                                            |
-|                    3|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)               |                     |                                                                                            |
-|                    4|[Stormchaser Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407669)       |                     |                                                                                            |
-|                    4|[Sleight of Hand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=25557)         |                     |                                                                                            |
-|                    4|[Monastery Swiftspear](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438706)   |                     |                                                                                            |
-|                    4|[Soul-Scar Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426850)         |                     |                                                                                            |
+|                                         Creature (1)                                         |                                           Instant (9)                                            |Unknown (1)|
+|----------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|-----------|
+|1 [Izzet Staticaster](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=253638)|1 [Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)               |1 Fry      |
+|                                                                                              |1 [Ceremonious Rejection](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417613)|           |
+|                                                                                              |1 [Disdainful Stroke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420705)    |           |
+|                                                                                              |1 [Dismember](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382182)            |           |
+|                                                                                              |1 [Flusterstorm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=228255)         |           |
+|                                                                                              |1 [Spell Pierce](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425876)         |           |
+|                                                                                              |1 [Spell Snare](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446100)          |           |
+|                                                                                              |1 [Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)  |           |
+|                                                                                              |1 [Wizard's Retort](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442963)      |           |
 
