@@ -37,9 +37,9 @@
 2 Eladamri's Call
 2 Windswept Heath
 2 Vizier of Remedies
+3 Teferi, Time Raveler
 3 Finale of Devastation
 3 Devoted Druid
-3 Teferi, Time Raveler
 3 Eladamri's Call
 3 Windswept Heath
 3 Vizier of Remedies
@@ -110,6 +110,46 @@
 3 Young Pyromancer
 3 Snow-Covered Swamp
 4 Young Pyromancer
+1 Godless Shrine
+1 Overgrown Tomb
+1 Forest
+2 Verdant Catacombs
+1 Stitcher's Supplier
+2 Stitcher's Supplier
+3 Stitcher's Supplier
+4 Stitcher's Supplier
+1 Lingering Souls
+2 Viscera Seer
+2 Lingering Souls
+3 Lingering Souls
+3 Viscera Seer
+4 Viscera Seer
+4 Lingering Souls
+1 Insolent Neonate
+1 Mayhem Devil
+1 Bridge from Below
+1 Greater Gargadon
+1 Gravecrawler
+2 Insolent Neonate
+2 Marsh Flats
+2 Gravecrawler
+2 Mayhem Devil
+2 Bridge from Below
+2 Godless Shrine
+2 Greater Gargadon
+3 Insolent Neonate
+3 Marsh Flats
+3 Gravecrawler
+3 Mayhem Devil
+3 Bridge from Below
+3 Greater Gargadon
+4 Gravecrawler
+4 Blood Crypt
+4 Marsh Flats
+4 Mayhem Devil
+4 Insolent Neonate
+4 Bridge from Below
+4 Greater Gargadon
 1 Mutavault
 1 Fiery Islet
 1 Disrupting Shoal
@@ -143,10 +183,6 @@
 4 Disrupting Shoal
 4 Ninja of the Deep Hours
 4 Force of Negation
-1 Godless Shrine
-1 Overgrown Tomb
-1 Forest
-2 Verdant Catacombs
 1 Plains
 1 Ranger-Captain of Eos
 1 Murderous Redcap
@@ -201,42 +237,6 @@
 4 Arbor Elf
 4 Oath of Nissa
 4 Teferi, Time Raveler
-1 Stitcher's Supplier
-2 Stitcher's Supplier
-3 Stitcher's Supplier
-4 Stitcher's Supplier
-1 Lingering Souls
-2 Viscera Seer
-2 Lingering Souls
-3 Lingering Souls
-3 Viscera Seer
-4 Lingering Souls
-4 Viscera Seer
-1 Insolent Neonate
-1 Mayhem Devil
-1 Bridge from Below
-1 Greater Gargadon
-1 Gravecrawler
-2 Insolent Neonate
-2 Marsh Flats
-2 Mayhem Devil
-2 Godless Shrine
-2 Bridge from Below
-2 Greater Gargadon
-2 Gravecrawler
-3 Insolent Neonate
-3 Marsh Flats
-3 Mayhem Devil
-3 Bridge from Below
-3 Greater Gargadon
-3 Gravecrawler
-4 Insolent Neonate
-4 Blood Crypt
-4 Marsh Flats
-4 Mayhem Devil
-4 Bridge from Below
-4 Greater Gargadon
-4 Gravecrawler
 1 Thunderkin Awakener
 1 Ball Lightning
 1 Scalding Tarn
@@ -250,15 +250,15 @@
 4 Inquisition of Kozilek
 4 Snow-Covered Mountain
 4 Thunderkin Awakener
-1 Caves of Koilos
 1 Concealed Courtyard
-2 Plains
+1 Caves of Koilos
 2 Concealed Courtyard
+2 Plains
 2 Caves of Koilos
-3 Caves of Koilos
 3 Concealed Courtyard
-4 Caves of Koilos
+3 Caves of Koilos
 4 Concealed Courtyard
+4 Caves of Koilos
 1 Unclaimed Territory
 1 Duress
 1 Kazandu Blademaster
@@ -311,13 +311,13 @@
 4 Ally Encampment
 1 Smuggler's Copter
 1 Blinkmoth Nexus
+1 Cavern of Souls
 1 Signal Pest
 1 Etherium Sculptor
 1 Throne of the God-Pharaoh
 1 Grand Architect
 1 Lodestone Golem
 1 Chief Engineer
-1 Cavern of Souls
 1 Master of Etherium
 1 Oboro, Palace in the Clouds
 2 Master of Etherium
@@ -350,7 +350,6 @@
 4 Swamp
 5 Swamp
 1 Day of Judgment
-1 Shambling Vent
 1 Promise of Bunrei
 1 Midnight Reaper
 1 Cruel Celebrant
@@ -365,13 +364,14 @@
 1 Bloodthrone Vampire
 1 Teysa Karlov
 1 Walk the Plank
+1 Shambling Vent
 1 Grim Haruspex
-2 Shambling Vent
 2 Bontu the Glorified
 2 Zulaport Cutthroat
 2 Bloodflow Connoisseur
 2 Imperious Oligarch
 2 Doomed Traveler
+2 Shambling Vent
 2 Grim Haruspex
 2 Promise of Bunrei
 2 Cruel Celebrant
@@ -386,37 +386,37 @@
 4 Zulaport Cutthroat
 4 Cruel Celebrant
 5 Plains
-1 Satyr Wayfinder
 1 Nurturing Peatland
-1 Urborg, Tomb of Yawgmoth
 1 Dryad Arbor
+1 Urborg, Tomb of Yawgmoth
 1 Smallpox
 1 Liliana of the Veil
 1 Hogaak, Arisen Necropolis
 1 Cabal Therapist
-2 Satyr Wayfinder
-2 Hogaak, Arisen Necropolis
+1 Satyr Wayfinder
 2 Nurturing Peatland
+2 Hogaak, Arisen Necropolis
 2 Cabal Therapist
 2 Smallpox
 2 Mutavault
+2 Satyr Wayfinder
 2 Urborg, Tomb of Yawgmoth
 2 Liliana of the Veil
-3 Satyr Wayfinder
-3 Hogaak, Arisen Necropolis
 3 Nurturing Peatland
 3 Verdant Catacombs
 3 Liliana of the Veil
+3 Satyr Wayfinder
 3 Urborg, Tomb of Yawgmoth
+3 Hogaak, Arisen Necropolis
 3 Cabal Therapist
 3 Smallpox
 3 Mutavault
-4 Hogaak, Arisen Necropolis
 4 Satyr Wayfinder
 4 Verdant Catacombs
+4 Liliana of the Veil
 4 Nurturing Peatland
 4 Mutavault
-4 Liliana of the Veil
 4 Urborg, Tomb of Yawgmoth
+4 Hogaak, Arisen Necropolis
 4 Smallpox
 4 Cabal Therapist

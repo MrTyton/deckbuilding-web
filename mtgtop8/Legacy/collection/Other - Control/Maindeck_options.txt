@@ -1,9 +1,31 @@
+1 Grove of the Burnwillows
+1 Punishing Fire
+2 Grove of the Burnwillows
+2 Punishing Fire
+3 Punishing Fire
+3 Grove of the Burnwillows
+1 Brainstorm
+1 Island
+1 Force of Will
+2 Force of Will
+2 Brainstorm
+3 Force of Will
+3 Brainstorm
+4 Force of Will
+4 Brainstorm
+1 Jace, the Mind Sculptor
+1 Swords to Plowshares
+2 Swords to Plowshares
+1 Polluted Delta
+1 Snapcaster Mage
+1 Ponder
+1 Flooded Strand
+2 Ponder
 2 Snapcaster Mage
 2 Flooded Strand
 3 Flooded Strand
 3 Ponder
 4 Ponder
-1 Jace, the Mind Sculptor
 1 Underground Sea
 1 Hymn to Tourach
 1 Baleful Strix
@@ -19,27 +41,7 @@
 3 Swords to Plowshares
 4 Flooded Strand
 4 Swords to Plowshares
-1 Volrath's Stronghold
-1 Abrupt Decay
-2 Forest
-2 Abrupt Decay
-3 Abrupt Decay
-3 Sylvan Library
-3 Wrenn and Six
-4 Wrenn and Six
 2 Island
-1 Wooded Foothills
-1 Knight of the Reliquary
-1 Obelisk Spider
-2 Wooded Foothills
-3 Wooded Foothills
-3 Verdant Catacombs
-3 Ancient Tomb
-4 Verdant Catacombs
-1 Grove of the Burnwillows
-1 Punishing Fire
-2 Grove of the Burnwillows
-2 Punishing Fire
 1 Marsh Flats
 1 Monastery Mentor
 1 Spell Pierce
@@ -56,11 +58,32 @@
 1 Liliana's Triumph
 2 Jace, the Mind Sculptor
 4 Baleful Strix
+1 Scalding Tarn
+2 Scalding Tarn
+1 Tropical Island
+1 Bloodbraid Elf
+1 Ancestral Vision
+1 Shardless Agent
+1 Lightning Bolt
+1 Misty Rainforest
+1 Volcanic Island
+2 Tarmogoyf
+2 Ancestral Vision
+2 Shardless Agent
+2 Tropical Island
+2 Lightning Bolt
+2 Misty Rainforest
+2 Volcanic Island
+3 Lightning Bolt
+3 Misty Rainforest
+3 Ancestral Vision
+3 Shardless Agent
+3 Scalding Tarn
+4 Misty Rainforest
+4 Shardless Agent
 2 Taiga
 1 Ghost Quarter
 1 Tireless Tracker
-3 Punishing Fire
-3 Grove of the Burnwillows
 1 Prismatic Vista
 2 Prismatic Vista
 1 Teferi, Time Raveler
@@ -69,8 +92,8 @@
 2 Preordain
 2 Swamp
 3 Island
-1 Scalding Tarn
-2 Scalding Tarn
+1 Windswept Heath
+4 Grove of the Burnwillows
 1 Plains
 1 Stifle
 1 Spell Snare
@@ -105,39 +128,32 @@
 3 Thief of Sanity
 3 Fatal Push
 4 Hymn to Tourach
+1 Dack Fayden
+1 Noble Hierarch
+1 Young Pyromancer
+1 Chandra, Torch of Defiance
+2 Dack Fayden
+2 Bloodbraid Elf
+2 Young Pyromancer
+2 Noble Hierarch
+3 Bloodbraid Elf
+3 Dack Fayden
+3 Tarmogoyf
+3 Noble Hierarch
+4 Tarmogoyf
+4 Punishing Fire
 1 Dreadhorde Arcanist
-1 As Foretold
-1 Tropical Island
-1 Bloodbraid Elf
-1 Ancestral Vision
-1 Shardless Agent
 1 Magmatic Sinkhole
-1 Lightning Bolt
-1 Misty Rainforest
-1 Volcanic Island
+1 As Foretold
 1 Crashing Footfalls
-2 Tarmogoyf
 2 Crashing Footfalls
-2 Ancestral Vision
-2 Shardless Agent
-2 Tropical Island
 2 As Foretold
-2 Lightning Bolt
 2 Dreadhorde Arcanist
-2 Misty Rainforest
-2 Volcanic Island
 3 Dreadhorde Arcanist
-3 Lightning Bolt
-3 Misty Rainforest
 3 Volcanic Island
 3 Tropical Island
-3 Scalding Tarn
 3 Crashing Footfalls
-3 Ancestral Vision
-3 Shardless Agent
-4 Misty Rainforest
 4 Crashing Footfalls
-4 Shardless Agent
 4 Lightning Bolt
 4 Ancestral Vision
 4 Scalding Tarn
@@ -145,7 +161,6 @@
 1 Collector Ouphe
 1 Rishadan Port
 1 Exploration
-1 Windswept Heath
 1 Horizon Canopy
 1 Thalia, Guardian of Thraben
 2 Horizon Canopy
@@ -154,10 +169,10 @@
 2 Windswept Heath
 2 Ghost Quarter
 2 Ramunap Excavator
+2 Exploration
 2 Tireless Tracker
 2 Thalia, Guardian of Thraben
 2 Rishadan Port
-2 Exploration
 3 Windswept Heath
 3 Thalia, Guardian of Thraben
 3 Rishadan Port
@@ -165,7 +180,6 @@
 3 Ramunap Excavator
 3 Tireless Tracker
 4 Ramunap Excavator
-4 Grove of the Burnwillows
 4 Exploration
 4 Thalia, Guardian of Thraben
 1 Entreat the Angels

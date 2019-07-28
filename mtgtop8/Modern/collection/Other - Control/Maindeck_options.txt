@@ -12,9 +12,9 @@
 1 Bloodbraid Elf
 2 Bloodbraid Elf
 1 Siege Rhino
+1 Detention Sphere
 1 City of Brass
 1 Temple Garden
-1 Detention Sphere
 1 Arid Mesa
 1 Safewright Quest
 1 Kaya, Orzhov Usurper
@@ -37,15 +37,18 @@
 1 Snow-Covered Forest
 1 Prismatic Vista
 2 Prismatic Vista
+1 Island
+1 Blood Crypt
+1 Swamp
 1 Scalding Tarn
-1 Lightning Bolt
+2 Steam Vents
+2 Scalding Tarn
 1 Snow-Covered Island
+1 Lightning Bolt
 1 Snow-Covered Mountain
 2 Snow-Covered Island
 2 Breeding Pool
 2 Misty Rainforest
-2 Steam Vents
-2 Scalding Tarn
 2 Lightning Bolt
 3 Snow-Covered Island
 3 Misty Rainforest
@@ -54,46 +57,62 @@
 4 Snow-Covered Island
 4 Misty Rainforest
 4 Lightning Bolt
-1 Waterlogged Grove
-1 Fiery Islet
-1 Magmatic Sinkhole
-1 Dreadhorde Arcanist
-1 Electrodominance
-1 As Foretold
-1 Ancestral Vision
-1 Tarmogoyf
-1 Jace, the Mind Sculptor
-1 Cascade Bluffs
 1 Opt
-1 Crashing Footfalls
-2 Magmatic Sinkhole
-2 Jace, the Mind Sculptor
-2 Electrodominance
-2 As Foretold
-2 Crashing Footfalls
-2 Ancestral Vision
-2 Tarmogoyf
 2 Opt
-2 Dreadhorde Arcanist
-3 Crashing Footfalls
-3 Dreadhorde Arcanist
 3 Opt
-3 Electrodominance
-3 Ancestral Vision
-3 Tarmogoyf
-3 As Foretold
-4 Scalding Tarn
-4 Crashing Footfalls
-4 Tarmogoyf
 4 Opt
-4 Dreadhorde Arcanist
+1 Remand
+1 Cryptic Command
+2 Cryptic Command
+2 Remand
+3 Remand
+3 Cryptic Command
+1 Rakdos Charm
+1 Watery Grave
+1 Darkness
+1 Pongify
+1 Trespasser's Curse
+1 Inquisition of Kozilek
+1 Batwing Brume
+1 Bloodstained Mire
+1 Forbidden Orchard
+1 Mission Briefing
+1 Hunted Phantasm
+1 Polluted Delta
+1 Sunken Ruins
+1 Rapid Hybridization
+1 Muddle the Mixture
+2 Rakdos Charm
+2 Island
+2 Hunted Phantasm
+2 Trespasser's Curse
+2 Batwing Brume
+2 Darkness
+2 Watery Grave
+2 Mission Briefing
+2 Forbidden Orchard
+2 Polluted Delta
+2 Inquisition of Kozilek
+2 Rapid Hybridization
+3 Watery Grave
+3 Polluted Delta
+3 Forbidden Orchard
+3 Inquisition of Kozilek
+3 Rakdos Charm
+3 Hunted Phantasm
+3 Trespasser's Curse
+3 Darkness
+3 Batwing Brume
+4 Polluted Delta
+4 Forbidden Orchard
+4 Hunted Phantasm
+4 Batwing Brume
+4 Rakdos Charm
+4 Trespasser's Curse
 1 Mountain
 1 Noble Hierarch
 1 Thought Erasure
-1 Island
 1 Maelstrom Pulse
-1 Blood Crypt
-1 Swamp
 1 Wooded Foothills
 1 Verdant Catacombs
 1 Jace, Vryn's Prodigy
@@ -104,20 +123,45 @@
 3 Teferi, Time Raveler
 4 Lightning Helix
 4 Bring to Light
+1 Waterlogged Grove
+1 Fiery Islet
+1 Magmatic Sinkhole
+1 Dreadhorde Arcanist
+1 As Foretold
+1 Ancestral Vision
+1 Tarmogoyf
+1 Jace, the Mind Sculptor
+1 Cascade Bluffs
+1 Electrodominance
+1 Crashing Footfalls
+2 Magmatic Sinkhole
+2 Jace, the Mind Sculptor
+2 Electrodominance
+2 Crashing Footfalls
+2 Ancestral Vision
+2 Tarmogoyf
+2 As Foretold
+2 Dreadhorde Arcanist
+3 Crashing Footfalls
+3 Dreadhorde Arcanist
+3 Electrodominance
+3 Ancestral Vision
+3 Tarmogoyf
+3 As Foretold
+4 Scalding Tarn
+4 Tarmogoyf
+4 Dreadhorde Arcanist
+4 Crashing Footfalls
 1 Field of Ruin
 1 Growth Spiral
 1 Relic of Progenitus
 1 Lumbering Falls
-1 Ice-Fang Coatl
 1 Narset, Parter of Veils
-1 Cryptic Command
 1 Expansion / Explosion
 1 Wilderness Reclamation
-1 Remand
+1 Ice-Fang Coatl
 2 Field of Ruin
 2 Growth Spiral
-2 Remand
-2 Cryptic Command
 2 Expansion / Explosion
 2 Narset, Parter of Veils
 2 Ice-Fang Coatl
@@ -129,9 +173,7 @@
 3 Prismatic Vista
 3 Relic of Progenitus
 3 Ice-Fang Coatl
-3 Remand
 3 Wilderness Reclamation
-3 Cryptic Command
 3 Expansion / Explosion
 4 Cryptic Command
 4 Growth Spiral
