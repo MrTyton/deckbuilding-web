@@ -4,48 +4,48 @@
 1 Misty Rainforest
 2 Green Sun's Zenith
 2 Misty Rainforest
-1 Mirri's Guile
-1 Wild Growth
-1 Abundant Growth
-1 Elephant Grass
-1 Doomwake Giant
-1 Enchantress's Presence
-1 Serra's Sanctum
-1 Solitary Confinement
-1 Cast Out
-1 Utopia Sprawl
-1 Hall of Heliod's Generosity
-1 Argothian Enchantress
-1 Oblivion Ring
 1 Windswept Heath
-1 Estrid's Invocation
+1 Utopia Sprawl
+1 Cast Out
 1 Wooded Foothills
+1 Solitary Confinement
+1 Serra's Sanctum
+1 Enchantress's Presence
+1 Oblivion Ring
+1 Elephant Grass
+1 Hall of Heliod's Generosity
+1 Doomwake Giant
+1 Estrid's Invocation
+1 Argothian Enchantress
+1 Abundant Growth
+1 Wild Growth
+1 Mirri's Guile
 1 Forest
 1 Ground Seal
-2 Argothian Enchantress
-2 Abundant Growth
-2 Wild Growth
-2 Serra's Sanctum
-2 Elephant Grass
-2 Enchantress's Presence
-2 Oblivion Ring
 2 Utopia Sprawl
+2 Oblivion Ring
 2 Ground Seal
 2 Estrid's Invocation
+2 Elephant Grass
 2 Forest
-3 Forest
-3 Abundant Growth
-3 Enchantress's Presence
-3 Elephant Grass
-3 Wild Growth
-3 Argothian Enchantress
+2 Enchantress's Presence
+2 Argothian Enchantress
+2 Wild Growth
+2 Abundant Growth
+2 Serra's Sanctum
 3 Utopia Sprawl
-4 Forest
-4 Enchantress's Presence
-4 Wild Growth
-4 Elephant Grass
+3 Forest
+3 Argothian Enchantress
+3 Wild Growth
+3 Elephant Grass
+3 Enchantress's Presence
+3 Abundant Growth
 4 Utopia Sprawl
+4 Forest
+4 Elephant Grass
 4 Abundant Growth
+4 Wild Growth
+4 Enchantress's Presence
 5 Forest
 6 Forest
 7 Forest
@@ -56,25 +56,25 @@
 3 Polluted Delta
 1 Snow-Covered Swamp
 1 Recruiter of the Guard
-1 Leovold, Emissary of Trest
-1 Snow-Covered Forest
+1 Cabal Therapy
 1 Parasitic Strix
 1 Brainstorm
 1 Dryad Arbor
+1 Leovold, Emissary of Trest
 1 Veteran Explorer
 1 Ponder
+1 Snow-Covered Forest
 1 Cavern Harpy
 1 Man-o'-War
 1 Ice-Fang Coatl
 1 Snow-Covered Island
 1 Sylvan Library
 1 Eternal Witness
-1 Cabal Therapy
 1 Underground Sea
 1 Aluren
 1 Force of Will
-2 Recruiter of the Guard
 2 Snow-Covered Forest
+2 Recruiter of the Guard
 2 Veteran Explorer
 2 Ponder
 2 Snow-Covered Island
@@ -85,6 +85,7 @@
 2 Ice-Fang Coatl
 2 Aluren
 3 Misty Rainforest
+3 Verdant Catacombs
 3 Recruiter of the Guard
 3 Aluren
 3 Force of Will
@@ -92,11 +93,10 @@
 3 Ponder
 3 Ice-Fang Coatl
 3 Cabal Therapy
-3 Verdant Catacombs
+4 Cabal Therapy
 4 Misty Rainforest
 4 Ice-Fang Coatl
 4 Recruiter of the Guard
-4 Cabal Therapy
 4 Brainstorm
 4 Force of Will
 1 Collective Brutality

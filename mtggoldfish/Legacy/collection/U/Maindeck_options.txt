@@ -3,50 +3,50 @@
 3 Force of Will
 4 Force of Will
 8 Island
-1 Brainstorm
-1 Ponder
-1 Prismatic Vista
-1 Flooded Strand
-2 Ponder
-2 Brainstorm
-2 Flooded Strand
-3 Brainstorm
-3 Ponder
-4 Ponder
-4 Brainstorm
 1 Stifle
 1 Daze
+1 Brainstorm
+1 Ponder
 1 Phyrexian Dreadnought
 1 Wasteland
+1 Flooded Strand
 1 Vision Charm
+1 Prismatic Vista
 1 Renegade Doppelganger
 1 Preordain
 1 Delver of Secrets
 2 Preordain
-2 Stifle
 2 Daze
-2 Wasteland
 2 Vision Charm
+2 Ponder
+2 Wasteland
+2 Brainstorm
 2 Delver of Secrets
 2 Phyrexian Dreadnought
 2 Prismatic Vista
+2 Stifle
 2 Renegade Doppelganger
-3 Stifle
+2 Flooded Strand
 3 Preordain
+3 Wasteland
 3 Flooded Strand
 3 Phyrexian Dreadnought
 3 Vision Charm
-3 Wasteland
 3 Daze
+3 Brainstorm
 3 Delver of Secrets
-4 Stifle
+3 Ponder
+3 Stifle
 4 Preordain
+4 Stifle
 4 Daze
 4 Phyrexian Dreadnought
 4 Flooded Strand
 4 Wasteland
 4 Vision Charm
+4 Ponder
 4 Delver of Secrets
+4 Brainstorm
 1 Snow-Covered Island
 2 Snow-Covered Island
 2 Karn, Scion of Urza
@@ -55,43 +55,6 @@
 5 Snow-Covered Island
 6 Snow-Covered Island
 7 Snow-Covered Island
-9 Island
-10 Island
-11 Island
-1 Cunning Wish
-1 Impulse
-1 Mission Briefing
-1 Spellseeker
-1 Flusterstorm
-1 Pore Over the Pages
-1 Time Spiral
-1 Merchant Scroll
-1 Scalding Tarn
-1 Brain Freeze
-1 Sapphire Medallion
-1 Polluted Delta
-1 Snap
-1 High Tide
-1 Misty Rainforest
-2 Cunning Wish
-2 Impulse
-2 Spellseeker
-2 Flusterstorm
-2 Pore Over the Pages
-2 High Tide
-2 Snap
-2 Time Spiral
-2 Sapphire Medallion
-2 Merchant Scroll
-3 Impulse
-3 Spellseeker
-3 Snap
-3 High Tide
-3 Time Spiral
-3 Sapphire Medallion
-4 Spellseeker
-4 High Tide
-12 Island
 1 True-Name Nemesis
 1 Echoing Truth
 1 Aether Vial
@@ -107,26 +70,29 @@
 2 Waterlogged Grove
 2 Aether Vial
 2 Silvergill Adept
+2 Mutavault
 2 Phantasmal Image
 2 Master of the Pearl Trident
 2 Lord of Atlantis
 2 Merfolk Trickster
 2 Benthic Biomancer
-2 Mutavault
 3 Waterlogged Grove
+3 True-Name Nemesis
 3 Aether Vial
 3 Lord of Atlantis
 3 Merfolk Trickster
 3 Benthic Biomancer
 3 Silvergill Adept
-3 True-Name Nemesis
 3 Master of the Pearl Trident
 3 Mutavault
 3 Phantasmal Image
-4 Benthic Biomancer
 4 True-Name Nemesis
+4 Benthic Biomancer
 4 Aether Vial
-4 Master of the Pearl Trident
 4 Lord of Atlantis
+4 Master of the Pearl Trident
 4 Silvergill Adept
+9 Island
+10 Island
+11 Island
 4 Cavern of Souls

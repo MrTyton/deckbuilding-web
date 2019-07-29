@@ -1,3 +1,4 @@
+8 Plains
 1 Dauntless Bodyguard
 2 Dauntless Bodyguard
 3 Dauntless Bodyguard
@@ -34,27 +35,22 @@
 10 Plains
 11 Plains
 12 Plains
-3 Legion Warboss
 1 Aurelia, Exemplar of Justice
-1 Gird for Battle
 4 Mountain
-1 Ajani, Adversary of Tyrants
-2 Sheltering Light
-3 Sheltering Light
+3 Legion Warboss
 2 Gird for Battle
+1 Ajani, Adversary of Tyrants
+1 Tomik, Distinguished Advokist
 3 Snubhorn Sentry
 4 Snubhorn Sentry
 3 Conclave Tribunal
-5 Mountain
+2 Sheltering Light
+3 Sheltering Light
 3 Gideon Blackblade
-1 Tomik, Distinguished Advokist
-1 Boros Guildgate
-1 Krenko, Tin Street Kingpin
 13 Plains
+1 Krenko, Tin Street Kingpin
 2 Aurelia, Exemplar of Justice
-1 Samut's Sprint
-2 Boros Guildgate
-2 Samut's Sprint
+5 Mountain
 1 Temple Garden
 1 Rootbound Crag
 1 Stomping Ground
@@ -66,10 +62,11 @@
 2 Deafening Clarion
 1 Tajic, Legion's Edge
 2 Tajic, Legion's Edge
-2 Krenko, Tin Street Kingpin
 3 Temple Garden
 4 Temple Garden
 4 Stomping Ground
+2 Krenko, Tin Street Kingpin
+1 Boros Guildgate
 1 Lava Coil
 2 Lava Coil
 3 Aurelia, Exemplar of Justice
@@ -80,14 +77,15 @@
 2 Captain Lannery Storm
 2 Domri, Anarch of Bolas
 1 Infuriate
-1 Thrash / Threat
-1 Integrity / Intervention
-2 Integrity / Intervention
 1 Moment of Triumph
 1 Collision / Colossus
 2 Collision / Colossus
 1 Unbreakable Formation
 4 Conclave Tribunal
+1 Liliana, Dreadhorde General
+2 Liliana, Dreadhorde General
+3 Liliana, Dreadhorde General
+4 Liliana, Dreadhorde General
 1 Tocatli Honor Guard
 2 Tocatli Honor Guard
 3 Tocatli Honor Guard
@@ -113,6 +111,9 @@
 4 Lava Coil
 4 Resplendent Angel
 4 Bishop of Wings
+1 Samut's Sprint
+2 Boros Guildgate
+2 Samut's Sprint
 3 Samut's Sprint
 4 Sheltering Light
 4 Samut's Sprint
@@ -155,8 +156,8 @@
 2 Forest
 2 Gruul Spellbreaker
 2 Growth-Chamber Guardian
-3 Forest
 3 Llanowar Elves
+3 Forest
 3 Domri, Anarch of Bolas
 3 Growth-Chamber Guardian
 3 Gruul Spellbreaker

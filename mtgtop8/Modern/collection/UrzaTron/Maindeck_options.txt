@@ -4,18 +4,14 @@
 3 Walking Ballista
 1 World Breaker
 4 Wurmcoil Engine
-5 Forest
-1 Emrakul, the Promised End
 1 Island
 1 Remand
 1 Field of Ruin
 2 Remand
 3 Remand
-4 Remand
 1 Repeal
 1 Mindslaver
 1 Thirst for Knowledge
-1 Spatial Contortion
 1 Tolaria West
 1 Condescend
 1 Academy Ruins
@@ -23,7 +19,6 @@
 2 Thirst for Knowledge
 2 Island
 2 Condescend
-2 Spatial Contortion
 3 Condescend
 3 Island
 3 Thirst for Knowledge
@@ -31,17 +26,31 @@
 4 Thirst for Knowledge
 4 Condescend
 5 Island
-6 Island
-1 Warping Wail
+1 Emrakul, the Promised End
+4 Remand
 1 Chalice of the Void
 1 Dismember
+5 Forest
+1 River of Tears
+1 Cyclonic Rift
+1 Spatial Contortion
+2 Spatial Contortion
+6 Island
+3 Repeal
+1 Warping Wail
+1 Gemstone Caverns
 1 Scavenger Grounds
 1 Ugin, the Ineffable
 1 Mystic Forge
-1 River of Tears
+1 Treasure Mage
+1 Trinket Mage
+1 Tectonic Edge
+1 Oboro, Palace in the Clouds
+1 Talisman of Dominance
+1 Snapcaster Mage
+2 Mindslaver
 1 Batterskull
 1 Surgical Extraction
-1 Cyclonic Rift
 1 Spell Burst
 1 Ulamog, the Infinite Gyre
 2 Field of Ruin
@@ -50,9 +59,9 @@
 1 Snow-Covered Plains
 1 Talisman of Progress
 1 Detention Sphere
+1 Force of Negation
 1 Supreme Verdict
 1 Teferi, Time Raveler
-1 Force of Negation
 1 Teferi, Hero of Dominaria
 1 Azorius Signet
 1 Unburial Rites
@@ -80,7 +89,6 @@
 1 Cavern of Souls
 1 Eternal Scourge
 1 Karn, Scion of Urza
-1 Gemstone Caverns
 1 Myr Battlesphere
 1 Eldrazi Temple
 1 Sundering Titan
@@ -108,7 +116,6 @@
 1 Fact or Fiction
 1 Nimble Obstructionist
 2 Nimble Obstructionist
-3 Repeal
 3 Spatial Contortion
 7 Island
 8 Island

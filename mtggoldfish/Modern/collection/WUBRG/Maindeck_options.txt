@@ -1,81 +1,26 @@
-2 Breeding Pool
+2 Vizier of Remedies
 1 Fauna Shaman
 2 Fauna Shaman
 3 Fauna Shaman
 4 Fauna Shaman
-1 Faithless Looting
-2 Faithless Looting
-1 Verdant Catacombs
-1 Blood Crypt
-1 Overgrown Tomb
-2 Verdant Catacombs
-2 Blood Crypt
-2 Overgrown Tomb
-3 Faithless Looting
-3 Verdant Catacombs
-4 Verdant Catacombs
-4 Faithless Looting
-1 Polluted Delta
-1 Mana Confluence
-1 City of Brass
-1 Snow-Covered Swamp
-1 Satyr Wayfinder
-1 Watery Grave
-1 Hogaak, Arisen Necropolis
-1 Stitcher's Supplier
-1 Hedron Crab
-1 Vengevine
-1 Carrion Feeder
-1 Gravecrawler
-1 Bloodghast
-1 Prized Amalgam
-2 Polluted Delta
-2 Watery Grave
-2 Satyr Wayfinder
-2 Hogaak, Arisen Necropolis
-2 Carrion Feeder
-2 Prized Amalgam
-2 Vengevine
-2 Bloodghast
-2 Mana Confluence
-2 Stitcher's Supplier
-2 Gravecrawler
-2 Hedron Crab
-3 Polluted Delta
-3 Mana Confluence
-3 Vengevine
-3 Satyr Wayfinder
-3 Hogaak, Arisen Necropolis
-3 Hedron Crab
-3 Bloodghast
-3 Carrion Feeder
-3 Prized Amalgam
-3 Stitcher's Supplier
-3 Gravecrawler
-4 Prized Amalgam
-4 Mana Confluence
-4 Polluted Delta
-4 Vengevine
-4 Satyr Wayfinder
-4 Hogaak, Arisen Necropolis
-4 Gravecrawler
-4 Hedron Crab
-4 Stitcher's Supplier
-4 Carrion Feeder
-4 Bloodghast
 1 Sylvan Caryatid
+1 Faithless Looting
 2 Sylvan Caryatid
+2 Faithless Looting
 3 Sylvan Caryatid
 4 Sylvan Caryatid
+1 Verdant Catacombs
 1 Ghor-Clan Rampager
 1 Traverse the Ulvenwald
 1 Bomat Courier
 1 Collective Brutality
 1 Thrun, the Last Troll
 1 Cavern of Souls
+1 Blood Crypt
+1 Lotleth Troll
 1 Swamp
 1 Nurturing Peatland
-1 Lotleth Troll
+1 Overgrown Tomb
 1 Bloodstained Mire
 1 Grisly Salvage
 1 Soulflayer
@@ -84,12 +29,15 @@
 1 Drogskol Reaver
 1 Hazoret the Fervent
 1 Samut, Voice of Dissent
+2 Verdant Catacombs
 2 Bomat Courier
 2 Traverse the Ulvenwald
 2 Collective Brutality
+2 Blood Crypt
+2 Wooded Foothills
+2 Overgrown Tomb
 2 Soulflayer
 2 Bloodstained Mire
-2 Wooded Foothills
 2 Grisly Salvage
 2 Swamp
 2 Nurturing Peatland
@@ -99,22 +47,26 @@
 2 Lotleth Troll
 3 Traverse the Ulvenwald
 3 Bomat Courier
-3 Lotleth Troll
 3 Zetalpa, Primal Dawn
 3 Samut, Voice of Dissent
 3 Soulflayer
+3 Faithless Looting
 3 Drogskol Reaver
+3 Lotleth Troll
 3 Bloodstained Mire
 3 Grisly Salvage
+3 Verdant Catacombs
 4 Traverse the Ulvenwald
+4 Verdant Catacombs
 4 Grisly Salvage
 4 Bloodstained Mire
+4 Faithless Looting
 4 Soulflayer
+1 Silence
 1 Grove of the Burnwillows
 1 Serum Visions
 1 Island
 1 Steam Vents
-1 Mystic Speculation
 1 Glittering Wish
 1 Sleight of Hand
 1 Lightning Bolt
@@ -123,14 +75,15 @@
 1 Swan Song
 1 Flooded Strand
 1 Gemstone Mine
+1 Mystic Speculation
 1 Fatestitcher
-1 Silence
 1 Jeskai Ascendancy
 1 Plains
 1 Nagging Thoughts
 1 Path to Exile
 1 Manamorphose
 1 Cerulean Wisps
+2 Flooded Strand
 2 Jeskai Ascendancy
 2 Gemstone Mine
 2 Manamorphose
@@ -138,20 +91,19 @@
 2 Cerulean Wisps
 2 Sleight of Hand
 2 Glittering Wish
-2 Flooded Strand
 2 Serum Visions
 3 Glittering Wish
 3 Gemstone Mine
 3 Manamorphose
 3 Fatestitcher
-3 Sleight of Hand
 3 Flooded Strand
 3 Cerulean Wisps
-3 Serum Visions
 3 Jeskai Ascendancy
+3 Serum Visions
+3 Sleight of Hand
+4 Gemstone Mine
 4 Glittering Wish
 4 Manamorphose
 4 Sleight of Hand
-4 Gemstone Mine
 4 Serum Visions
 4 Flooded Strand
