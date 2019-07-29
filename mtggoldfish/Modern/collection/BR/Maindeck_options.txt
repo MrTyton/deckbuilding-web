@@ -1,82 +1,82 @@
 4 Goblin Piledriver
-1 Mutavault
-1 Knucklebone Witch
-1 Legion Warboss
-1 Fiery Islet
 1 Krenko, Mob Boss
+1 Fiery Islet
 1 Pashalik Mons
 1 Aether Vial
 1 Siege-Gang Commander
 1 Skirk Prospector
+1 Mutavault
+1 Knucklebone Witch
+1 Legion Warboss
 2 Sling-Gang Lieutenant
-2 Skirk Prospector
-2 Mutavault
 2 Fiery Islet
-2 Knucklebone Witch
 2 Pashalik Mons
-2 Legion Warboss
 2 Aether Vial
-3 Skirk Prospector
+2 Mutavault
+2 Skirk Prospector
+2 Knucklebone Witch
+2 Legion Warboss
 3 Knucklebone Witch
 3 Aether Vial
-4 Skirk Prospector
+3 Skirk Prospector
 4 Knucklebone Witch
 4 Aether Vial
+4 Skirk Prospector
 4 Blood Crypt
 1 Monastery Swiftspear
 1 Arid Mesa
-1 Lightning Bolt
 1 Searing Blaze
-1 Light Up the Stage
-1 Goblin Guide
 1 Lightning Skelemental
 1 Bump in the Night
 1 Lava Spike
+1 Lightning Bolt
 1 Ball Lightning
 1 Dragonskull Summit
 1 Rift Bolt
+1 Light Up the Stage
 1 Sulfurous Springs
-2 Monastery Swiftspear
-2 Lightning Bolt
-2 Arid Mesa
-2 Goblin Guide
+1 Goblin Guide
 2 Light Up the Stage
+2 Monastery Swiftspear
+2 Arid Mesa
 2 Searing Blaze
 2 Ball Lightning
+2 Goblin Guide
 2 Lava Spike
 2 Bump in the Night
 2 Sulfurous Springs
+2 Lightning Bolt
 2 Lightning Skelemental
 2 Rift Bolt
 3 Arid Mesa
 3 Monastery Swiftspear
-3 Lightning Bolt
-3 Goblin Guide
 3 Searing Blaze
 3 Lava Spike
+3 Lightning Bolt
 3 Rift Bolt
 3 Ball Lightning
+3 Goblin Guide
 3 Lightning Skelemental
 3 Bump in the Night
 3 Sulfurous Springs
 4 Monastery Swiftspear
 4 Arid Mesa
-4 Lightning Bolt
-4 Goblin Guide
+4 Mountain
 4 Lightning Skelemental
 4 Searing Blaze
 4 Sulfurous Springs
 4 Rift Bolt
+4 Lightning Bolt
 4 Lava Spike
-4 Mountain
 4 Ball Lightning
+4 Goblin Guide
 4 Bump in the Night
 5 Mountain
-1 Carrion Feeder
 1 Bloodghast
-1 Unearth
+1 Carrion Feeder
 1 Gravecrawler
 1 Stitcher's Supplier
+1 Unearth
 1 Cryptbreaker
 1 Greater Gargadon
 1 Marsh Flats
@@ -88,8 +88,8 @@
 2 Bloodghast
 2 Gravecrawler
 2 Carrion Feeder
-2 Swamp
 2 Stitcher's Supplier
+2 Swamp
 2 Mayhem Devil
 2 Marsh Flats
 2 Greater Gargadon
@@ -99,8 +99,8 @@
 2 Cryptbreaker
 3 Hogaak, Arisen Necropolis
 3 Carrion Feeder
-3 Gravecrawler
 3 Bloodghast
+3 Gravecrawler
 3 Stitcher's Supplier
 3 Cryptbreaker
 3 Polluted Delta
@@ -110,10 +110,10 @@
 3 Marsh Flats
 3 Greater Gargadon
 4 Hogaak, Arisen Necropolis
-4 Bloodghast
 4 Carrion Feeder
 4 Gravecrawler
 4 Stitcher's Supplier
+4 Bloodghast
 4 Cryptbreaker
 4 Unearth
 4 Faithless Looting

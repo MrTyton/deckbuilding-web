@@ -1,0 +1,46 @@
+# Nexus Elementals
+
+#### [Export MTGO List](../collection/Nexus%20Elementals/Nexus%20Elementals.txt)
+#### [Export Arena List](../collection/Nexus%20Elementals/Nexus%20Elementals_arena.txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Breeding%20Pool%0A3%09Cavalier%20of%20Thorns%0A9%09Forest%0A4%09Growth%20Spiral%0A4%09Hinterland%20Harbor%0A4%09Hydroid%20Krasis%0A6%09Island%0A4%09Leafkin%20Druid%0A4%09Llanowar%20Elves%0A4%09Nexus%20of%20Fate%0A4%09Nissa,%20Who%20Shakes%20the%20World%0A4%09Risen%20Reef%0A3%09Tamiyo,%20Collector%20of%20Tales%0A3%09Temple%20of%20Mystery&deckside=3%09Aether%20Gust%0A4%09Cerulean%20Drake%0A3%09Mass%20Manipulation%0A2%09Ripjaw%20Raptor%0A3%09Veil%20of%20Summer)
+# Maindeck
+
+|                                       Creature (8)                                        |                                       Instant (8)                                        |                                          Land (26)                                           |                                            Planeswalker (7)                                            |    Unknown (11)    |
+|-------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|--------------------|
+|4 [Hydroid Krasis](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457327)|4 [Growth Spiral](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457322)|4 [Breeding Pool](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=97088)     |4 [Nissa, Who Shakes the World](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461096)|3 Cavalier of Thorns|
+|4 [Llanowar Elves](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129626)|4 [Nexus of Fate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=450253)|9 [Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)           |3 [Tamiyo, Collector of Tales](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461147) |4 Leafkin Druid     |
+|                                                                                           |                                                                                          |4 [Hinterland Harbor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443128)|                                                                                                        |4 Risen Reef        |
+|                                                                                           |                                                                                          |6 [Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)           |                                                                                                        |                    |
+|                                                                                           |                                                                                          |3 [Temple of Mystery](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373571)|                                                                                                        |                    |
+
+
+# Sideboard
+
+|                                       Creature (2)                                       |                                         Sorcery (3)                                          |  Unknown (10)  |
+|------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|----------------|
+|2 [Ripjaw Raptor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435359)|3 [Mass Manipulation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457186)|3 Aether Gust   |
+|                                                                                          |                                                                                              |4 Cerulean Drake|
+|                                                                                          |                                                                                              |3 Veil of Summer|
+
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                       Maindeck Card                                        |*n*<sup>th</sup> copy|                                        Sideboard Card                                         |
+|--------------------:|--------------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------------|
+|                    1|[Mass Manipulation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457186)|                    1|Shifting Ceratops                                                                              |
+|                    2|[Mass Manipulation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457186)|                    1|[Entrancing Melody](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435207)   |
+|                    1|Cavalier of Gales                                                                           |                    2|[Entrancing Melody](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435207)   |
+|                    4|[Temple of Mystery](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373571)|                    1|[Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)              |
+|                    1|[Frilled Mystic](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457318)   |                    2|Shifting Ceratops                                                                              |
+|                    1|[Paradise Druid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461098)   |                    1|[Ashiok, Dream Render](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461155)|
+|                    1|[Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)           |                    2|[Ashiok, Dream Render](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461155)|
+|                    1|[Field of Ruin](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435415)    |                    3|Shifting Ceratops                                                                              |
+|                    2|[Paradise Druid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461098)   |                    4|Aether Gust                                                                                    |
+|                    2|[Frilled Mystic](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457318)   |                    2|[Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)              |
+|                    2|[Field of Ruin](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435415)    |                    1|[Thrashing Brontodon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456570) |
+|                    2|[Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)           |                     |                                                                                               |
+|                    3|[Paradise Druid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461098)   |                     |                                                                                               |
+|                    3|[Frilled Mystic](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457318)   |                     |                                                                                               |
+|                    4|[Paradise Druid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461098)   |                     |                                                                                               |
+|                    3|[Field of Ruin](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435415)    |                     |                                                                                               |
+

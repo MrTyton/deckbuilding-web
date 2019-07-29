@@ -1,7 +1,9 @@
+3 Benthic Biomancer
 4 Benthic Biomancer
 1 Faerie Conclave
 4 Harbinger of the Tides
-2 Waterlogged Grove
+3 Waterlogged Grove
+4 Waterlogged Grove
 1 Dismember
 1 Repeal
 2 Repeal
@@ -16,10 +18,9 @@
 3 Merrow Reejerey
 14 Island
 1 Minamo, School at Water's Edge
-3 Waterlogged Grove
-4 Waterlogged Grove
 1 Spell Pierce
 1 Master of Waves
+1 Flooded Strand
 1 Cursecatcher
 2 Cursecatcher
 3 Cursecatcher
@@ -28,14 +29,28 @@
 2 Wizard's Retort
 3 Wizard's Retort
 4 Wizard's Retort
-2 Spell Pierce
-1 Thassa, God of the Sea
-2 Master of Waves
-3 Master of Waves
-1 Flooded Strand
-1 Venser, Shaper Savant
 1 Echoing Truth
 2 Echoing Truth
+2 Spell Pierce
+1 Breeding Pool
+1 Merfolk Mistbinder
+1 Kumena's Speaker
+1 Botanical Sanctum
+2 Merfolk Mistbinder
+2 Botanical Sanctum
+2 Kumena's Speaker
+3 Botanical Sanctum
+3 Merfolk Mistbinder
+3 Kumena's Speaker
+4 Kumena's Speaker
+4 Merfolk Mistbinder
+1 Thassa, God of the Sea
+2 Flooded Strand
+2 Master of Waves
+3 Master of Waves
+1 Venser, Shaper Savant
+1 Polluted Delta
+2 Polluted Delta
 1 Tideshaper Mystic
 3 Vapor Snag
 1 Kopala, Warden of Waves
@@ -45,6 +60,8 @@
 2 Lonely Sandbar
 3 Lonely Sandbar
 4 Lonely Sandbar
+2 Breeding Pool
+4 Botanical Sanctum
 1 Fiery Islet
 1 Coralhelm Commander
 1 Tidebinder Mage
@@ -62,7 +79,6 @@
 1 Hallowed Fountain
 2 Unsettled Mariner
 2 Seachrome Coast
-2 Flooded Strand
 2 Wanderwine Hub
 2 Hallowed Fountain
 3 Wanderwine Hub
@@ -73,17 +89,3 @@
 2 Deprive
 3 Deprive
 4 Deprive
-1 Breeding Pool
-1 Merfolk Mistbinder
-1 Kumena's Speaker
-1 Botanical Sanctum
-1 Polluted Delta
-2 Merfolk Mistbinder
-2 Polluted Delta
-2 Botanical Sanctum
-2 Kumena's Speaker
-3 Botanical Sanctum
-3 Merfolk Mistbinder
-3 Kumena's Speaker
-4 Kumena's Speaker
-4 Merfolk Mistbinder

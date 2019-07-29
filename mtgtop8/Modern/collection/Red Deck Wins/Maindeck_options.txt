@@ -1,20 +1,18 @@
-2 Arid Mesa
 4 Bloodstained Mire
-4 Inspiring Vantage
+2 Arid Mesa
 4 Wooded Foothills
+4 Inspiring Vantage
 1 Stomping Ground
-1 Skullcrack
-3 Arid Mesa
 1 Atarka's Command
 2 Atarka's Command
 3 Atarka's Command
 4 Atarka's Command
+1 Skullcrack
+4 Mountain
+1 Fiery Islet
 1 Light Up the Stage
 2 Light Up the Stage
 3 Light Up the Stage
-4 Mountain
-4 Light Up the Stage
-1 Fiery Islet
 5 Mountain
 6 Mountain
 7 Mountain
@@ -25,6 +23,7 @@
 12 Mountain
 13 Mountain
 14 Mountain
+4 Light Up the Stage
 1 Blistercoil Weird
 1 Crash Through
 1 Gut Shot
@@ -51,8 +50,10 @@
 4 Manamorphose
 4 Faithless Looting
 4 Soul-Scar Mage
+3 Arid Mesa
 2 Stomping Ground
 1 Scalding Tarn
+3 Sacred Foundry
 1 Wild Nacatl
 2 Wild Nacatl
 3 Wild Nacatl
@@ -60,36 +61,18 @@
 3 Gut Shot
 4 Bedlam Reveler
 1 Shard Volley
-2 Grim Lavamancer
-4 Arid Mesa
 1 Copperline Gorge
 2 Copperline Gorge
 1 Mutagenic Growth
 2 Mutagenic Growth
-3 Sacred Foundry
 15 Mountain
 2 Fiery Islet
 4 Lava Dart
 3 Copperline Gorge
 4 Copperline Gorge
-1 Kird Ape
-2 Kird Ape
-3 Kird Ape
-3 Stomping Ground
-4 Kird Ape
 2 Scalding Tarn
 3 Scalding Tarn
 4 Scalding Tarn
-1 Blackcleave Cliffs
-1 Blood Crypt
-1 Bump in the Night
-2 Blackcleave Cliffs
-2 Bump in the Night
-2 Skullcrack
-2 Blood Crypt
-3 Blackcleave Cliffs
-3 Bump in the Night
-4 Bump in the Night
 1 Dreadhorde Arcanist
 1 Path to Exile
 1 Forest
@@ -108,8 +91,46 @@
 4 Dreadhorde Arcanist
 4 Hexdrinker
 4 Windswept Heath
+1 Kird Ape
+2 Kird Ape
+2 Grim Lavamancer
+3 Kird Ape
+3 Stomping Ground
+4 Kird Ape
+4 Arid Mesa
 1 Fanatical Firebrand
 2 Fanatical Firebrand
+1 Runaway Steam-Kin
+1 Wizard's Lightning
+1 Risk Factor
+1 Lightning Strike
+1 Electrostatic Field
+1 Ghitu Lavarunner
+1 Chandra, Fire Artisan
+1 Viashino Pyromancer
+2 Runaway Steam-Kin
+2 Chandra, Fire Artisan
+2 Risk Factor
+2 Wizard's Lightning
+2 Lightning Strike
+2 Viashino Pyromancer
+2 Electrostatic Field
+2 Ghitu Lavarunner
+3 Runaway Steam-Kin
+3 Fanatical Firebrand
+3 Ghitu Lavarunner
+3 Viashino Pyromancer
+3 Wizard's Lightning
+3 Lightning Strike
+3 Risk Factor
+3 Electrostatic Field
+4 Runaway Steam-Kin
+4 Lightning Strike
+4 Electrostatic Field
+16 Mountain
+17 Mountain
+18 Mountain
+19 Mountain
 1 Ramunap Ruins
 1 Legion Loyalist
 1 Devastating Summons
@@ -148,34 +169,3 @@
 4 Foundry Street Denizen
 4 Vexing Devil
 4 Signal Pest
-1 Runaway Steam-Kin
-1 Electrostatic Field
-1 Wizard's Lightning
-1 Risk Factor
-1 Lightning Strike
-1 Ghitu Lavarunner
-1 Chandra, Fire Artisan
-1 Viashino Pyromancer
-2 Runaway Steam-Kin
-2 Chandra, Fire Artisan
-2 Electrostatic Field
-2 Risk Factor
-2 Wizard's Lightning
-2 Lightning Strike
-2 Viashino Pyromancer
-2 Ghitu Lavarunner
-3 Runaway Steam-Kin
-3 Lightning Strike
-3 Fanatical Firebrand
-3 Electrostatic Field
-3 Ghitu Lavarunner
-3 Viashino Pyromancer
-3 Wizard's Lightning
-3 Risk Factor
-4 Runaway Steam-Kin
-4 Lightning Strike
-4 Electrostatic Field
-16 Mountain
-17 Mountain
-18 Mountain
-19 Mountain

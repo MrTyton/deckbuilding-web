@@ -60,6 +60,6 @@
 |                    1|[Pyrite Spellbomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442796)      |                     |                                                                                                   |
 |                    2|[Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)        |                     |                                                                                                   |
 |                    3|[Engineered Explosives](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=50139)  |                     |                                                                                                   |
-|                    4|[Ensnaring Bridge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=15866)       |                     |                                                                                                   |
 |                    4|[Spire of Industry](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423851)     |                     |                                                                                                   |
+|                    4|[Ensnaring Bridge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=15866)       |                     |                                                                                                   |
 

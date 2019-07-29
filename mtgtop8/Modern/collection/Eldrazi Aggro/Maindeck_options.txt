@@ -1,13 +1,13 @@
 2 Ugin, the Ineffable
-1 Sea Gate Wreckage
 3 Wastes
-3 Dismember
 1 Warping Wail
-3 Ghost Quarter
+3 Dismember
+1 Sea Gate Wreckage
+2 Warping Wail
 1 Relic of Progenitus
 2 Relic of Progenitus
-2 Cavern of Souls
-2 Warping Wail
+1 Haunted Fengraf
+3 Ghost Quarter
 1 Gemstone Caverns
 1 Simian Spirit Guide
 1 Eternal Scourge
@@ -26,18 +26,26 @@
 4 Serum Powder
 4 Eternal Scourge
 4 Eldrazi Mimic
+4 Ghost Quarter
 1 Eldrazi Obligator
 2 Eldrazi Obligator
 3 Eldrazi Obligator
 1 Field of Ruin
 1 Mystic Forge
-1 Haunted Fengraf
 1 Basilisk Collar
-1 Urza's Factory
+1 Mutavault
+1 Tectonic Edge
+1 Blinkmoth Nexus
+2 Mutavault
+2 Tectonic Edge
+2 Blinkmoth Nexus
+3 Gemstone Caverns
+3 Mutavault
+3 Blinkmoth Nexus
 1 Fiery Islet
 1 Prismatic Vista
-1 Mountain
 1 Icon of Ancestry
+1 Mountain
 1 Ramunap Ruins
 2 Prismatic Vista
 2 Fiery Islet
@@ -49,10 +57,53 @@
 3 Ramunap Ruins
 3 Icon of Ancestry
 4 Eldrazi Obligator
+1 Island
+1 Fallen Shinobi
+1 Watery Grave
+1 Ashiok, Nightmare Weaver
+1 Fatal Push
+1 Delay
+1 Wasteland Strangler
+1 Kitesail Freebooter
+1 Swamp
+1 Ulamog's Nullifier
+1 Blight Herder
+1 Dimensional Infiltrator
+1 Underground River
+1 Scrabbling Claws
+1 Polluted Delta
+1 Plague Engineer
+2 Island
+2 Delay
+2 Fallen Shinobi
+2 Scrabbling Claws
+2 Blight Herder
+2 Ulamog's Nullifier
+2 Dimensional Infiltrator
+2 Swamp
+2 Kitesail Freebooter
+2 Underground River
+2 Polluted Delta
+2 Plague Engineer
+2 Fatal Push
+2 Wasteland Strangler
+3 Relic of Progenitus
+3 Fatal Push
+3 Swamp
+3 Ulamog's Nullifier
+3 Delay
+3 Wasteland Strangler
+3 Polluted Delta
+3 Underground River
+4 Fatal Push
+4 Wasteland Strangler
+4 Relic of Progenitus
+4 Delay
 1 Noble Hierarch
 1 Windswept Heath
 1 Forest
 1 Ancient Stirrings
+2 Cavern of Souls
 2 Noble Hierarch
 2 Ancient Stirrings
 3 Ancient Stirrings
@@ -61,7 +112,6 @@
 4 Noble Hierarch
 1 Yavimaya Coast
 1 Misty Rainforest
-1 Island
 1 Brushland
 1 Path to Exile
 1 Hallowed Fountain
@@ -81,9 +131,9 @@
 2 Engineered Explosives
 2 Windswept Heath
 2 Eldrazi Displacer
-2 Eldrazi Skyspawner
 2 Thalia, Guardian of Thraben
 2 Drowner of Hope
+2 Eldrazi Skyspawner
 3 Brushland
 3 Path to Exile
 3 Thalia, Guardian of Thraben
@@ -94,16 +144,6 @@
 4 Cavern of Souls
 4 Eldrazi Skyspawner
 4 Eldrazi Displacer
-1 Mutavault
-1 Tectonic Edge
-1 Blinkmoth Nexus
-2 Mutavault
-2 Tectonic Edge
-2 Blinkmoth Nexus
-3 Gemstone Caverns
-3 Mutavault
-3 Blinkmoth Nexus
-4 Ghost Quarter
 1 Atarka's Command
 1 Bloodbraid Elf
 1 Domri, Anarch of Bolas
@@ -111,14 +151,14 @@
 1 Grove of the Burnwillows
 1 Force of Rage
 1 Lightning Bolt
-1 Karplusan Forest
 1 Gruul Charm
+1 Karplusan Forest
 1 Kessig Wolf Run
 1 Stomping Ground
 2 Domri, Anarch of Bolas
 2 Grove of the Burnwillows
-2 Gruul Spellbreaker
 2 Bloodbraid Elf
+2 Gruul Spellbreaker
 2 Forest
 2 Stomping Ground
 2 Karplusan Forest
@@ -130,7 +170,13 @@
 3 Gruul Spellbreaker
 3 Grove of the Burnwillows
 4 Bloodbraid Elf
+4 Gruul Spellbreaker
 4 Grove of the Burnwillows
 4 Lightning Bolt
 4 Karplusan Forest
-4 Gruul Spellbreaker
+1 Adarkar Wastes
+1 Cryptic Caves
+2 Adarkar Wastes
+3 Adarkar Wastes
+3 Mind Stone
+4 Walking Ballista
