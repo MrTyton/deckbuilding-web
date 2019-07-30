@@ -1,3 +1,18 @@
+4 Bloodstained Mire
+6 Mountain
+2 Sunbaked Canyon
+1 Lightning Bolt
+2 Lightning Bolt
+1 Foundry Street Denizen
+2 Foundry Street Denizen
+3 Foundry Street Denizen
+4 Foundry Street Denizen
+3 Lightning Bolt
+4 Lightning Bolt
+7 Mountain
+1 Goblin Bushwhacker
+1 Goblin Grenade
+1 Reckless Bushwhacker
 2 Goblin Grenade
 2 Reckless Bushwhacker
 2 Goblin Bushwhacker
@@ -20,6 +35,7 @@
 2 Fanatical Firebrand
 3 Burning-Tree Emissary
 4 Burning-Tree Emissary
+3 Munitions Expert
 1 Ramunap Ruins
 2 Ramunap Ruins
 4 Reckless Bushwhacker
@@ -31,22 +47,9 @@
 13 Mountain
 14 Mountain
 1 Mogg Fanatic
-1 Sunbaked Canyon
-1 Kiki-Jiki, Mirror Breaker
-4 Goblin Warchief
-1 Warren Instigator
-2 Warren Instigator
-3 Warren Instigator
-4 Warren Instigator
-3 Munitions Expert
-1 Siege-Gang Commander
-1 Skirk Prospector
-2 Goblin Chieftain
 4 Mogg War Marshal
-1 Tarfire
-1 Goblin Chainwhirler
-1 Fiery Islet
-2 Sunbaked Canyon
+1 Earwig Squad
+2 Fiery Islet
 3 Ramunap Ruins
 1 Light Up the Stage
 3 Fanatical Firebrand
@@ -54,7 +57,6 @@
 15 Mountain
 2 Mogg Fanatic
 1 Wooded Foothills
-1 Goblin Trashmaster
 1 Swamp
 1 Bomat Courier
 2 Bomat Courier
@@ -63,39 +65,39 @@
 1 Sacred Foundry
 1 Legion Warboss
 2 Legion Warboss
-1 Earwig Squad
 1 Devastating Summons
 2 Devastating Summons
 4 Ramunap Ruins
 1 Simian Spirit Guide
 2 Light Up the Stage
-2 Fiery Islet
+1 Frogtosser Banneret
+2 Frogtosser Banneret
 2 Tarfire
 2 Wooded Foothills
 3 Wooded Foothills
 4 Wooded Foothills
 4 Blood Crypt
+1 Blackcleave Cliffs
+2 Blackcleave Cliffs
 4 Bomat Courier
 2 Pashalik Mons
 2 Sacred Foundry
+1 Arid Mesa
+2 Arid Mesa
+3 Arid Mesa
 1 Mutavault
 3 Skirk Prospector
 2 Goblin Piledriver
 3 Goblin Piledriver
-1 Arid Mesa
-2 Arid Mesa
-3 Arid Mesa
 1 The Flame of Keld
 1 Kari Zev's Expertise
+1 Pendelhaven
 1 Abrade
 2 Abrade
 1 Chandra, Acolyte of Flame
 1 Inspiring Vantage
 2 Inspiring Vantage
 2 Simian Spirit Guide
-1 Pendelhaven
-1 Frogtosser Banneret
-2 Frogtosser Banneret
 1 Atarka's Command
 1 Stomping Ground
 2 Atarka's Command
@@ -103,10 +105,8 @@
 3 Atarka's Command
 3 Mogg Fanatic
 4 Mogg Fanatic
-1 Blackcleave Cliffs
 1 Field of Ruin
 1 Warren Weirding
-2 Blackcleave Cliffs
 2 Field of Ruin
 3 Blackcleave Cliffs
 3 Field of Ruin
@@ -147,6 +147,13 @@
 4 Goblin Piledriver
 4 Goblin Chieftain
 4 Arid Mesa
+1 Snow-Covered Mountain
+1 Stingscourger
+2 Snow-Covered Mountain
+3 Snow-Covered Mountain
+4 Snow-Covered Mountain
+5 Snow-Covered Mountain
+6 Snow-Covered Mountain
 1 Signal Pest
 1 Kuldotha Rebirth
 1 Ornithopter

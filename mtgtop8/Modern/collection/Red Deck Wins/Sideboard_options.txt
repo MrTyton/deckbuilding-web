@@ -7,20 +7,6 @@
 2 Deflecting Palm
 2 Destructive Revelry
 1 Tormod's Crypt
-3 Grafdigger's Cage
-1 Blood Moon
-2 Blood Moon
-1 Saheeli, Sublime Artificer
-1 Abrade
-1 Flame Slash
-2 Flame Slash
-2 Abrade
-1 Dragon's Claw
-2 Dragon's Claw
-1 Dismember
-1 Shenanigans
-2 Shenanigans
-2 Saheeli, Sublime Artificer
 1 Cindervines
 2 Cindervines
 3 Searing Blood
@@ -28,11 +14,25 @@
 2 Wear / Tear
 2 Kor Firewalker
 1 Lightning Helix
-1 Shrine of Burning Rage
+3 Grafdigger's Cage
+1 Blood Moon
+2 Blood Moon
+1 Saheeli, Sublime Artificer
+1 Abrade
+1 Shenanigans
+1 Flame Slash
+2 Flame Slash
+2 Abrade
+2 Shenanigans
+2 Saheeli, Sublime Artificer
+1 Dragon's Claw
+2 Dragon's Claw
+1 Dismember
 2 Tormod's Crypt
 3 Destructive Revelry
 1 Gaddock Teeg
 1 Porphyry Nodes
+1 Shrine of Burning Rage
 1 Grim Lavamancer
 1 Satyr Firedancer
 2 Satyr Firedancer
@@ -56,12 +56,6 @@
 1 Stony Silence
 2 Stony Silence
 3 Deflecting Palm
-1 Pillage
-1 Surgical Extraction
-2 Shrine of Burning Rage
-2 Surgical Extraction
-2 Pillage
-3 Abrade
 3 Cindervines
 1 Experimental Frenzy
 1 Act of Treason
@@ -83,3 +77,15 @@
 2 Relic of Progenitus
 2 Lightning Helix
 4 Destructive Revelry
+1 Kolaghan's Command
+1 Rakdos Charm
+1 Forked Bolt
+1 Fatal Push
+2 Kolaghan's Command
+2 Rakdos Charm
+2 Forked Bolt
+2 Fatal Push
+3 Forked Bolt
+3 Fatal Push
+3 Rakdos Charm
+4 Rakdos Charm
