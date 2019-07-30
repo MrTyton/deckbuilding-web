@@ -40,8 +40,8 @@
 |                    1|[Sunbaked Canyon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464196)    |                    1|[Flame Slash](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416914)               |
 |                    2|[Sunbaked Canyon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464196)    |                    1|[Tarmogoyf](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=136142)                 |
 |                    3|[Sunbaked Canyon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464196)    |                    2|[Exquisite Firecraft](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=398513)       |
-|                     |                                                                                              |                    2|[Satyr Firedancer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=378480)          |
 |                     |                                                                                              |                    2|[Flame Slash](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416914)               |
+|                     |                                                                                              |                    2|[Satyr Firedancer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=378480)          |
 |                     |                                                                                              |                    2|[Tarmogoyf](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=136142)                 |
 |                     |                                                                                              |                    3|[Flame Slash](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416914)               |
 

@@ -25,28 +25,3 @@
 |2 [Plague Engineer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464049)|4 [Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)|2 [Fatal Push](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423724)    |1 [Shenanigans](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464095) |
 |                                                                                            |                                                                                                |3 [Force of Vigor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464113)|3 [Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)|
 
-
-# Other Options
-
-|*n*<sup>th</sup> copy|                                        Maindeck Card                                        |*n*<sup>th</sup> copy|                                       Sideboard Card                                       |
-|--------------------:|---------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------|
-|                    1|[Altar of Dementia](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382212) |                    1|[Silent Gravestone](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439846)|
-|                    1|[Wooded Foothills](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405116)  |                    1|[Nature's Claim](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382316)   |
-|                    1|[Insolent Neonate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409922)  |                    1|[Extirpate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370384)        |
-|                    1|[Blackcleave Cliffs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=209401)|                    2|[Extirpate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370384)        |
-|                    1|[Stinkweed Imp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=193870)     |                    2|[Nature's Claim](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382316)   |
-|                    1|[Desecrated Tomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447367)   |                    2|[Shenanigans](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464095)      |
-|                    2|[Altar of Dementia](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382212) |                    2|[Silent Gravestone](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439846)|
-|                    2|[Wooded Foothills](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405116)  |                    3|[Silent Gravestone](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439846)|
-|                    2|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)             |                    3|[Extirpate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370384)        |
-|                    2|[Insolent Neonate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409922)  |                    3|[Nature's Claim](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382316)   |
-|                    2|[Stinkweed Imp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=193870)     |                     |                                                                                            |
-|                    2|[Blackcleave Cliffs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=209401)|                     |                                                                                            |
-|                    2|[Desecrated Tomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447367)   |                     |                                                                                            |
-|                    3|[Altar of Dementia](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382212) |                     |                                                                                            |
-|                    3|[Insolent Neonate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409922)  |                     |                                                                                            |
-|                    3|[Desecrated Tomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447367)   |                     |                                                                                            |
-|                    3|[Stinkweed Imp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=193870)     |                     |                                                                                            |
-|                    4|[Insolent Neonate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409922)  |                     |                                                                                            |
-|                    4|[Stinkweed Imp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=193870)     |                     |                                                                                            |
-

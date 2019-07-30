@@ -1,8 +1,4 @@
-2 Inquisition of Kozilek
-1 Island
-1 Mausoleum Wanderer
 2 Mausoleum Wanderer
-2 Island
 3 Island
 3 Mausoleum Wanderer
 4 Mausoleum Wanderer
@@ -19,6 +15,9 @@
 14 Island
 15 Island
 16 Island
+1 Inquisition of Kozilek
+2 Inquisition of Kozilek
+1 Marsh Flats
 1 Walking Ballista
 1 Windswept Heath
 1 Devoted Druid
@@ -33,8 +32,8 @@
 1 Horizon Canopy
 2 Devoted Druid
 2 Finale of Devastation
-2 Eladamri's Call
 2 Teferi, Time Raveler
+2 Eladamri's Call
 2 Windswept Heath
 2 Vizier of Remedies
 3 Teferi, Time Raveler
@@ -48,16 +47,10 @@
 4 Vizier of Remedies
 4 Eladamri's Call
 4 Windswept Heath
-1 Viscera Seer
-1 Mountain
-1 Thunderkin Awakener
-2 Thunderkin Awakener
-3 Thunderkin Awakener
-4 Thunderkin Awakener
-1 Spellstutter Sprite
 1 Mana Leak
-2 Spellstutter Sprite
+1 Spellstutter Sprite
 2 Mana Leak
+2 Spellstutter Sprite
 3 Spellstutter Sprite
 4 Spellstutter Sprite
 17 Island
@@ -75,10 +68,10 @@
 2 Narset's Reversal
 2 Quickling
 2 Unsummon
-2 Faerie Miscreant
 2 Rune Snag
 2 Jace, Wielder of Mysteries
 2 Favorable Winds
+2 Faerie Miscreant
 3 Favorable Winds
 3 Faerie Miscreant
 3 Judge's Familiar
@@ -95,11 +88,17 @@
 4 Narset's Reversal
 4 Quickling
 4 Mana Leak
-1 Ball Lightning
+1 Mountain
+1 Thunderkin Awakener
+2 Thunderkin Awakener
+3 Thunderkin Awakener
+4 Thunderkin Awakener
 1 Scalding Tarn
+1 Ball Lightning
 2 Ball Lightning
 3 Snow-Covered Mountain
 3 Ball Lightning
+3 Blood Crypt
 3 Inquisition of Kozilek
 4 Ball Lightning
 4 Snow-Covered Mountain
@@ -123,46 +122,6 @@
 3 Young Pyromancer
 3 Snow-Covered Swamp
 4 Young Pyromancer
-1 Godless Shrine
-1 Overgrown Tomb
-1 Forest
-2 Verdant Catacombs
-1 Stitcher's Supplier
-2 Stitcher's Supplier
-3 Stitcher's Supplier
-4 Stitcher's Supplier
-1 Lingering Souls
-2 Viscera Seer
-2 Lingering Souls
-3 Lingering Souls
-3 Viscera Seer
-4 Viscera Seer
-4 Lingering Souls
-1 Insolent Neonate
-1 Mayhem Devil
-1 Bridge from Below
-1 Greater Gargadon
-1 Gravecrawler
-2 Insolent Neonate
-2 Marsh Flats
-2 Gravecrawler
-2 Mayhem Devil
-2 Bridge from Below
-2 Godless Shrine
-2 Greater Gargadon
-3 Insolent Neonate
-3 Marsh Flats
-3 Gravecrawler
-3 Mayhem Devil
-3 Bridge from Below
-3 Greater Gargadon
-4 Marsh Flats
-4 Blood Crypt
-4 Gravecrawler
-4 Mayhem Devil
-4 Insolent Neonate
-4 Bridge from Below
-4 Greater Gargadon
 1 Mutavault
 1 Fiery Islet
 1 Disrupting Shoal
@@ -184,29 +143,34 @@
 2 Archmage's Charm
 2 Force of Negation
 3 Vapor Snag
-3 Force of Negation
 3 Disrupting Shoal
 3 Curious Obsession
 3 Faerie Seer
 3 Ninja of the Deep Hours
 3 Spell Pierce
+3 Force of Negation
 4 Vapor Snag
 4 Curious Obsession
 4 Faerie Seer
 4 Disrupting Shoal
 4 Ninja of the Deep Hours
 4 Force of Negation
+1 Overgrown Tomb
+1 Forest
+2 Verdant Catacombs
 1 Plains
+1 Viscera Seer
 1 Ranger-Captain of Eos
 1 Murderous Redcap
 1 Watery Grave
 1 Duskwatch Recruiter
 1 Birds of Paradise
+1 Rhonas the Indomitable
 1 Yawgmoth, Thran Physician
 1 Kitchen Finks
 1 Hallowed Fountain
 1 Noble Hierarch
-1 Rhonas the Indomitable
+1 Godless Shrine
 1 Carrion Feeder
 1 Shalai, Voice of Plenty
 2 Birds of Paradise
@@ -221,33 +185,33 @@
 4 Birds of Paradise
 1 Karn, the Great Creator
 1 Snow-Covered Plains
-1 Arbor Elf
-1 Utopia Sprawl
 1 Deputy of Detention
+1 Arbor Elf
 1 Snow-Covered Forest
 1 Tireless Tracker
 1 Oath of Nissa
 1 Waterlogged Grove
 1 Misty Rainforest
+1 Utopia Sprawl
 2 Horizon Canopy
 2 Karn, the Great Creator
 2 Temple Garden
-2 Utopia Sprawl
 2 Arbor Elf
+2 Utopia Sprawl
 2 Misty Rainforest
 2 Breeding Pool
 2 Snow-Covered Forest
 2 Oath of Nissa
 3 Misty Rainforest
 3 Karn, the Great Creator
-3 Arbor Elf
 3 Utopia Sprawl
+3 Arbor Elf
 3 Snow-Covered Forest
 3 Oath of Nissa
+4 Arbor Elf
 4 Snow-Covered Forest
 4 Misty Rainforest
 4 Utopia Sprawl
-4 Arbor Elf
 4 Oath of Nissa
 4 Teferi, Time Raveler
 1 Cavern of Souls
@@ -298,8 +262,8 @@
 4 Risen Reef
 4 Ancient Ziggurat
 4 Aether Vial
-4 Lightning Stormkin
 4 Incandescent Soulstoke
+4 Lightning Stormkin
 1 Concealed Courtyard
 1 Caves of Koilos
 2 Concealed Courtyard
@@ -330,9 +294,9 @@
 2 Ondu Cleric
 2 Kalastria Healer
 2 Halimar Excavator
+2 Kabira Evangel
 2 Kazandu Blademaster
 2 Sandsteppe Citadel
-2 Kabira Evangel
 2 Harabaz Druid
 2 Ally Encampment
 3 Duress
@@ -394,6 +358,7 @@
 3 Swamp
 4 Swamp
 5 Swamp
+1 Lingering Souls
 1 Day of Judgment
 1 Midnight Reaper
 1 Promise of Bunrei
@@ -411,6 +376,8 @@
 1 Walk the Plank
 1 Shambling Vent
 1 Grim Haruspex
+2 Viscera Seer
+2 Lingering Souls
 2 Bontu the Glorified
 2 Zulaport Cutthroat
 2 Doomed Traveler
@@ -423,23 +390,29 @@
 2 Hunted Witness
 2 Rally the Ancestors
 3 Plains
+3 Lingering Souls
 3 Promise of Bunrei
 3 Cruel Celebrant
+3 Viscera Seer
 3 Rally the Ancestors
 3 Zulaport Cutthroat
 4 Plains
 4 Zulaport Cutthroat
+4 Viscera Seer
+4 Lingering Souls
 4 Cruel Celebrant
 5 Plains
 1 Nurturing Peatland
 1 Dryad Arbor
 1 Urborg, Tomb of Yawgmoth
-1 Smallpox
+1 Stitcher's Supplier
 1 Liliana of the Veil
+1 Smallpox
 1 Hogaak, Arisen Necropolis
 1 Cabal Therapist
 1 Satyr Wayfinder
 2 Nurturing Peatland
+2 Stitcher's Supplier
 2 Hogaak, Arisen Necropolis
 2 Cabal Therapist
 2 Smallpox
@@ -450,6 +423,7 @@
 3 Nurturing Peatland
 3 Verdant Catacombs
 3 Liliana of the Veil
+3 Stitcher's Supplier
 3 Satyr Wayfinder
 3 Urborg, Tomb of Yawgmoth
 3 Hogaak, Arisen Necropolis
@@ -459,9 +433,10 @@
 4 Verdant Catacombs
 4 Liliana of the Veil
 4 Nurturing Peatland
-4 Mutavault
+4 Stitcher's Supplier
 4 Urborg, Tomb of Yawgmoth
 4 Hogaak, Arisen Necropolis
 4 Smallpox
 4 Satyr Wayfinder
 4 Cabal Therapist
+4 Mutavault

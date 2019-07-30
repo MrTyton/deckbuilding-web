@@ -16,7 +16,6 @@
 1 Preordain
 1 Delver of Secrets
 2 Preordain
-2 Stifle
 2 Daze
 2 Vision Charm
 2 Ponder
@@ -25,18 +24,19 @@
 2 Delver of Secrets
 2 Phyrexian Dreadnought
 2 Prismatic Vista
+2 Stifle
 2 Renegade Doppelganger
 2 Flooded Strand
-3 Stifle
 3 Preordain
+3 Daze
 3 Wasteland
 3 Flooded Strand
 3 Phyrexian Dreadnought
 3 Vision Charm
-3 Daze
 3 Brainstorm
 3 Delver of Secrets
 3 Ponder
+3 Stifle
 4 Stifle
 4 Preordain
 4 Daze
@@ -56,7 +56,6 @@
 6 Snow-Covered Island
 7 Snow-Covered Island
 1 True-Name Nemesis
-1 Echoing Truth
 1 Aether Vial
 1 Waterlogged Grove
 1 Silvergill Adept
@@ -65,6 +64,7 @@
 1 Phantasmal Image
 1 Merfolk Trickster
 1 Benthic Biomancer
+1 Echoing Truth
 1 Lord of Atlantis
 2 True-Name Nemesis
 2 Waterlogged Grove
@@ -76,21 +76,21 @@
 2 Lord of Atlantis
 2 Merfolk Trickster
 2 Benthic Biomancer
-3 Benthic Biomancer
 3 Waterlogged Grove
 3 Aether Vial
 3 Lord of Atlantis
 3 Merfolk Trickster
+3 Benthic Biomancer
 3 Silvergill Adept
 3 True-Name Nemesis
 3 Master of the Pearl Trident
 3 Mutavault
 3 Phantasmal Image
-4 Benthic Biomancer
 4 True-Name Nemesis
 4 Aether Vial
 4 Lord of Atlantis
 4 Master of the Pearl Trident
+4 Benthic Biomancer
 4 Silvergill Adept
 9 Island
 10 Island

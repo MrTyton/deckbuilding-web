@@ -22,3 +22,19 @@
 |3 [Ripjaw Raptor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435359)    |2 [Leyline of Sanctity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=204993)|                                                                                                |                |
 |1 [Tendershoot Dryad](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439804)|                                                                                                |                                                                                                |                |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                          Maindeck Card                                           |*n*<sup>th</sup> copy|                                       Sideboard Card                                       |
+|--------------------:|--------------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------|
+|                    1|[Raise the Alarm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416853)        |                    1|[Ixalan's Binding](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435168) |
+|                    2|[Raise the Alarm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416853)        |                    1|Ajani, Strength of the Pride                                                                |
+|                    3|[Raise the Alarm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416853)        |                    1|[Gideon Blackblade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463943)|
+|                    3|[March of the Multitudes](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452938)|                    1|[Kraul Harpooner](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452886)  |
+|                    4|[Raise the Alarm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416853)        |                    2|Ajani, Strength of the Pride                                                                |
+|                    4|[March of the Multitudes](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452938)|                    2|[Gideon Blackblade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463943)|
+|                    9|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)                 |                    2|[Kraul Harpooner](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452886)  |
+|                     |                                                                                                  |                    3|[Gideon Blackblade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463943)|
+|                     |                                                                                                  |                    3|[Knight of Autumn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452933) |
+|                     |                                                                                                  |                    3|[Kraul Harpooner](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452886)  |
+
