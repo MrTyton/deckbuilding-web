@@ -1,19 +1,18 @@
 4 Thought-Knot Seer
-5 Plains
-1 Blade Splicer
-1 Shambling Vent
-3 Tidehollow Sculler
-1 Remorseful Cleric
 1 Thalia, Heretic Cathar
+5 Plains
+2 Silent Clearing
+1 Restoration Angel
+2 Restoration Angel
+1 Blade Splicer
+1 Remorseful Cleric
+4 Tidehollow Sculler
 6 Plains
 7 Plains
 2 Blade Splicer
-2 Remorseful Cleric
-4 Tidehollow Sculler
-2 Thalia, Heretic Cathar
 3 Blade Splicer
-2 Silent Clearing
 3 Silent Clearing
+2 Remorseful Cleric
 1 Shefet Dunes
 1 Horizon Canopy
 8 Plains
@@ -22,17 +21,17 @@
 3 Restoration Angel
 1 Field of Ruin
 2 Field of Ruin
-1 Wastes
-1 Reality Smasher
-2 Reality Smasher
 1 Sunbaked Canyon
+2 Thalia, Heretic Cathar
 2 Shefet Dunes
 1 Simian Spirit Guide
 1 Chalice of the Void
 1 Gemstone Caverns
+1 Reality Smasher
 2 Sunbaked Canyon
 2 Simian Spirit Guide
 2 Chalice of the Void
+2 Reality Smasher
 2 Gemstone Caverns
 3 Chalice of the Void
 3 Reality Smasher
@@ -40,17 +39,17 @@
 4 Chalice of the Void
 4 Reality Smasher
 4 Simian Spirit Guide
-1 Eiganjo Castle
 2 Horizon Canopy
 3 Field of Ruin
+1 Wastes
 4 Restoration Angel
 1 Selfless Spirit
 2 Selfless Spirit
 4 Blade Splicer
+1 Eiganjo Castle
 3 Shefet Dunes
-1 Tectonic Edge
-1 Banishing Light
 1 Scavenger Grounds
+1 Banishing Light
 1 Blast Zone
 1 Oblivion Ring
 1 Rest in Peace
@@ -69,10 +68,8 @@
 3 Horizon Canopy
 4 Horizon Canopy
 4 Field of Ruin
-3 Remorseful Cleric
 1 Godless Shrine
-1 Cavern of Souls
-2 Cavern of Souls
+2 Shambling Vent
 1 Battlefield Forge
 1 Dismember
 1 Winds of Abandon
@@ -82,7 +79,6 @@
 3 Dismember
 3 Gemstone Caverns
 4 Sunbaked Canyon
-2 Shambling Vent
 1 Thraben Inspector
 2 Thraben Inspector
 3 Thraben Inspector
@@ -95,28 +91,34 @@
 2 Seachrome Coast
 2 Adarkar Wastes
 2 Hallowed Fountain
+3 Hallowed Fountain
 3 Spell Queller
 3 Seachrome Coast
-3 Hallowed Fountain
 4 Spell Queller
 4 Seachrome Coast
-1 Spellskite
+1 Kaya's Guile
+1 Fulminator Mage
+2 Fulminator Mage
 1 Plague Engineer
 1 Relic of Progenitus
 1 Lingering Souls
-1 Wall of Omens
-1 Flagstones of Trokair
-2 Wall of Omens
 1 Kaya, Orzhov Usurper
 1 Dark Confidant
 2 Godless Shrine
+1 Cavern of Souls
+2 Cavern of Souls
+1 Wall of Omens
+1 Tectonic Edge
+1 Flagstones of Trokair
+2 Wall of Omens
+3 Remorseful Cleric
 1 Ranger-Captain of Eos
 1 Walking Ballista
 2 Ranger-Captain of Eos
 3 Ranger-Captain of Eos
-3 Cavern of Souls
 1 Deputy of Detention
 1 Kira, Great Glass-Spinner
+1 Spellskite
 2 Deputy of Detention
 2 Phyrexian Revoker
 2 Spellskite
@@ -124,11 +126,11 @@
 2 Winds of Abandon
 3 Battlefield Forge
 4 Battlefield Forge
+1 Soulherder
 1 Smuggler's Copter
 1 Island
 1 Moorland Haunt
 1 Reflector Mage
-1 Soulherder
 2 Smuggler's Copter
 2 Soulherder
 2 Island
@@ -137,38 +139,3 @@
 1 Serra Avenger
 2 Serra Avenger
 11 Plains
-1 Sacred Foundry
-1 Mutavault
-1 Inspiring Vantage
-1 Goblin Cratermaker
-1 Aurelia, Exemplar of Justice
-1 Avalanche Riders
-1 Mountain
-1 Earthshaker Khenra
-1 Knight of the White Orchid
-1 Militia Bugler
-1 Alesha, Who Smiles at Death
-1 Pia and Kiran Nalaar
-1 Fulminator Mage
-1 Angel of Invention
-1 Path of Mettle
-2 Tectonic Edge
-2 Sacred Foundry
-2 Inspiring Vantage
-2 Mutavault
-2 Militia Bugler
-2 Alesha, Who Smiles at Death
-2 Avalanche Riders
-2 Fulminator Mage
-2 Earthshaker Khenra
-2 Angel of Invention
-3 Sacred Foundry
-3 Inspiring Vantage
-3 Militia Bugler
-3 Alesha, Who Smiles at Death
-3 Avalanche Riders
-4 Sacred Foundry
-4 Avalanche Riders
-4 Inspiring Vantage
-4 Militia Bugler
-4 Alesha, Who Smiles at Death

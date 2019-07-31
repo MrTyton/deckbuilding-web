@@ -21,12 +21,11 @@
 1 Mountain
 2 Lightning Bolt
 2 Simian Spirit Guide
-3 Simian Spirit Guide
 3 Lightning Bolt
+3 Simian Spirit Guide
 4 Simian Spirit Guide
 1 Peek
 1 Sphinx of Foresight
-1 Lightning Axe
 1 Island
 1 Arid Mesa
 1 Crashing Footfalls
@@ -36,6 +35,7 @@
 1 As Foretold
 1 Dreadhorde Arcanist
 1 Fiery Islet
+1 Lightning Axe
 1 Flame Slash
 1 Force of Negation
 1 Serum Visions
@@ -51,26 +51,25 @@
 2 Mountain
 2 Sphinx of Foresight
 2 Serum Visions
-3 Steam Vents
 3 As Foretold
 3 Ancestral Vision
 3 Electrodominance
 3 Dreadhorde Arcanist
 3 Crashing Footfalls
+3 Steam Vents
 3 Force of Negation
 3 Sphinx of Foresight
 3 Serum Visions
 3 Spirebluff Canal
 4 Force of Negation
-4 Serum Visions
 4 Crashing Footfalls
+4 Serum Visions
 4 Electrodominance
 4 Spirebluff Canal
 4 As Foretold
 4 Ancestral Vision
 1 Forest
 2 Forest
-1 Traverse the Ulvenwald
 1 Pact of Negation
 1 Desperate Ritual
 1 Open the Gates
@@ -81,6 +80,7 @@
 1 Wild Cantor
 1 Pyretic Ritual
 1 Lay of the Land
+1 Traverse the Ulvenwald
 1 Manamorphose
 1 Reforge the Soul
 1 Recross the Paths
@@ -89,13 +89,13 @@
 1 Goblin Charbelcher
 2 Wild Cantor
 2 Pyretic Ritual
-2 Traverse the Ulvenwald
 2 Caravan Vigil
 2 Lay of the Land
 2 Chancellor of the Tangle
 2 Desperate Ritual
 2 Recross the Paths
 2 Renegade Map
+2 Traverse the Ulvenwald
 2 Goblin Charbelcher
 2 Reforge the Soul
 2 Faithless Looting
@@ -120,13 +120,13 @@
 4 Recross the Paths
 4 Wild Cantor
 4 Lay of the Land
+1 Hydroid Krasis
 1 Mwonvuli Acid-Moss
 1 Karn, the Great Creator
 1 Primal Command
-1 Hydroid Krasis
 1 Acidic Slime
-1 Overgrowth
 1 Trinisphere
+1 Overgrowth
 1 Garruk Wildspeaker
 1 Utopia Sprawl
 1 Nykthos, Shrine to Nyx
@@ -139,7 +139,6 @@
 1 Arbor Elf
 2 Mwonvuli Acid-Moss
 2 Karn, the Great Creator
-2 Walking Ballista
 2 Garruk Wildspeaker
 2 Acidic Slime
 2 Overgrowth
@@ -150,6 +149,7 @@
 2 Primal Command
 2 Nissa, Vastwood Seer
 2 Nissa, Worldwaker
+2 Walking Ballista
 2 Windswept Heath
 2 Eternal Witness
 3 Mwonvuli Acid-Moss

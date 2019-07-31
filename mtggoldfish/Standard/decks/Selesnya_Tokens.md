@@ -27,8 +27,8 @@
 
 |*n*<sup>th</sup> copy|                                          Maindeck Card                                           |*n*<sup>th</sup> copy|                                       Sideboard Card                                       |
 |--------------------:|--------------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------|
-|                    1|[Raise the Alarm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416853)        |                    1|[Ixalan's Binding](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435168) |
-|                    2|[Raise the Alarm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416853)        |                    1|Ajani, Strength of the Pride                                                                |
+|                    1|[Raise the Alarm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416853)        |                    1|Ajani, Strength of the Pride                                                                |
+|                    2|[Raise the Alarm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416853)        |                    1|[Ixalan's Binding](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435168) |
 |                    3|[Raise the Alarm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416853)        |                    1|[Gideon Blackblade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463943)|
 |                    3|[March of the Multitudes](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452938)|                    1|[Kraul Harpooner](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452886)  |
 |                    4|[Raise the Alarm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416853)        |                    2|Ajani, Strength of the Pride                                                                |

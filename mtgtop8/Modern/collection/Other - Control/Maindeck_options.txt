@@ -1,7 +1,7 @@
 3 Karn, the Great Creator
+3 Eternal Witness
 3 Nissa, Vastwood Seer
 3 Primal Command
-3 Eternal Witness
 3 Trinisphere
 4 Karn, the Great Creator
 4 Utopia Sprawl
@@ -12,13 +12,13 @@
 1 Bloodbraid Elf
 2 Bloodbraid Elf
 1 Siege Rhino
-1 Detention Sphere
 1 City of Brass
 1 Temple Garden
-1 Ashiok, Dream Render
+1 Detention Sphere
 1 Arid Mesa
 1 Safewright Quest
 1 Kaya, Orzhov Usurper
+1 Ashiok, Dream Render
 2 Kolaghan's Command
 2 Siege Rhino
 2 City of Brass
@@ -37,8 +37,8 @@
 1 Snow-Covered Forest
 1 Prismatic Vista
 2 Prismatic Vista
-1 Blood Crypt
 1 Island
+1 Blood Crypt
 1 Swamp
 1 Scalding Tarn
 2 Steam Vents
@@ -69,6 +69,7 @@
 3 Cryptic Command
 1 Rakdos Charm
 1 Watery Grave
+1 Sunken Ruins
 1 Darkness
 1 Pongify
 1 Trespasser's Curse
@@ -79,19 +80,18 @@
 1 Mission Briefing
 1 Hunted Phantasm
 1 Polluted Delta
-1 Sunken Ruins
 1 Rapid Hybridization
 1 Muddle the Mixture
+2 Polluted Delta
+2 Island
 2 Rakdos Charm
 2 Hunted Phantasm
 2 Trespasser's Curse
 2 Batwing Brume
-2 Island
 2 Darkness
 2 Watery Grave
 2 Mission Briefing
 2 Forbidden Orchard
-2 Polluted Delta
 2 Inquisition of Kozilek
 2 Rapid Hybridization
 3 Rakdos Charm
@@ -118,28 +118,28 @@
 1 Jace, Vryn's Prodigy
 2 Thought Erasure
 2 Noble Hierarch
-2 Kaya's Guile
 2 Wrenn and Six
+2 Kaya's Guile
 3 Teferi, Time Raveler
 4 Lightning Helix
 4 Bring to Light
 1 Fiery Islet
 1 Waterlogged Grove
+1 Cascade Bluffs
 1 Magmatic Sinkhole
 1 Dreadhorde Arcanist
 1 As Foretold
 1 Ancestral Vision
 1 Tarmogoyf
 1 Jace, the Mind Sculptor
-1 Cascade Bluffs
 1 Electrodominance
 1 Crashing Footfalls
-2 Jace, the Mind Sculptor
 2 Magmatic Sinkhole
 2 Electrodominance
 2 Crashing Footfalls
 2 Ancestral Vision
 2 Tarmogoyf
+2 Jace, the Mind Sculptor
 2 As Foretold
 2 Dreadhorde Arcanist
 3 Crashing Footfalls
@@ -148,16 +148,16 @@
 3 Ancestral Vision
 3 Tarmogoyf
 3 As Foretold
-4 Scalding Tarn
 4 Tarmogoyf
+4 Scalding Tarn
 4 Dreadhorde Arcanist
 4 Crashing Footfalls
-1 Field of Ruin
 1 Lumbering Falls
+1 Field of Ruin
 1 Growth Spiral
-1 Relic of Progenitus
 1 Narset, Parter of Veils
 1 Expansion / Explosion
+1 Relic of Progenitus
 1 Wilderness Reclamation
 1 Ice-Fang Coatl
 2 Field of Ruin
@@ -175,16 +175,16 @@
 3 Wilderness Reclamation
 3 Expansion / Explosion
 3 Narset, Parter of Veils
-4 Cryptic Command
 4 Narset, Parter of Veils
 4 Growth Spiral
 4 Wilderness Reclamation
 4 Ice-Fang Coatl
 4 Remand
+4 Cryptic Command
 4 Expansion / Explosion
 5 Snow-Covered Island
-1 Blast Zone
 1 Ancient Stirrings
+1 Blast Zone
 1 Spore Frog
 1 Elvish Mystic
 2 Ancient Stirrings
