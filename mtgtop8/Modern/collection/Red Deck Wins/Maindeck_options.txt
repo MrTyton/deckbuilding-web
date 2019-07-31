@@ -1,14 +1,15 @@
-4 Bloodstained Mire
+1 Grim Lavamancer
 2 Arid Mesa
 4 Wooded Foothills
 4 Inspiring Vantage
 1 Stomping Ground
+3 Arid Mesa
+4 Mountain
 1 Atarka's Command
 2 Atarka's Command
 3 Atarka's Command
 4 Atarka's Command
 1 Skullcrack
-3 Arid Mesa
 2 Stomping Ground
 1 Scalding Tarn
 3 Sacred Foundry
@@ -16,10 +17,8 @@
 2 Wild Nacatl
 3 Wild Nacatl
 4 Wild Nacatl
-4 Mountain
 1 Light Up the Stage
 2 Light Up the Stage
-1 Fiery Islet
 5 Mountain
 6 Mountain
 7 Mountain
@@ -42,6 +41,7 @@
 1 Soul-Scar Mage
 1 Gut Shot
 1 Manamorphose
+1 Fiery Islet
 1 Bedlam Reveler
 2 Blistercoil Weird
 2 Crash Through
@@ -61,12 +61,19 @@
 4 Manamorphose
 4 Soul-Scar Mage
 1 Shard Volley
+4 Arid Mesa
 1 Copperline Gorge
 2 Copperline Gorge
 1 Mutagenic Growth
 2 Mutagenic Growth
 3 Copperline Gorge
 4 Copperline Gorge
+1 Kird Ape
+2 Kird Ape
+2 Grim Lavamancer
+3 Kird Ape
+3 Stomping Ground
+4 Kird Ape
 2 Scalding Tarn
 3 Scalding Tarn
 4 Scalding Tarn
@@ -128,13 +135,6 @@
 4 Hexdrinker
 4 Dreadhorde Arcanist
 4 Windswept Heath
-1 Kird Ape
-2 Kird Ape
-2 Grim Lavamancer
-3 Kird Ape
-3 Stomping Ground
-4 Kird Ape
-4 Arid Mesa
 1 Runaway Steam-Kin
 1 Chandra, Fire Artisan
 1 Electrostatic Field
