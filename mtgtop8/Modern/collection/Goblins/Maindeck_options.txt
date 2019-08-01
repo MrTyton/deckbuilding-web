@@ -1,12 +1,14 @@
-4 Goblin Warchief
-1 Swamp
+1 Siege-Gang Commander
+1 Sunbaked Canyon
+1 Fiery Islet
+1 Goblin Chainwhirler
 1 Goblin Trashmaster
-4 Mogg War Marshal
 6 Mountain
+1 Mogg Fanatic
 2 Sunbaked Canyon
+1 Wooded Foothills
 1 Lightning Bolt
 2 Lightning Bolt
-1 Mogg Fanatic
 1 Foundry Street Denizen
 2 Foundry Street Denizen
 3 Foundry Street Denizen
@@ -39,6 +41,7 @@
 2 Fanatical Firebrand
 3 Burning-Tree Emissary
 4 Burning-Tree Emissary
+2 Goblin Piledriver
 1 Ramunap Ruins
 2 Ramunap Ruins
 4 Reckless Bushwhacker
@@ -49,24 +52,25 @@
 12 Mountain
 13 Mountain
 14 Mountain
-2 Skirk Prospector
 1 Earwig Squad
 1 Frogtosser Banneret
 2 Frogtosser Banneret
 2 Fiery Islet
+1 Field of Ruin
 3 Ramunap Ruins
+4 Munitions Expert
+2 Wooded Foothills
 1 Light Up the Stage
-1 Wooded Foothills
 2 Mogg Fanatic
 3 Fanatical Firebrand
 4 Fanatical Firebrand
 15 Mountain
+3 Skirk Prospector
 1 Bomat Courier
 2 Bomat Courier
 3 Bomat Courier
-1 Sacred Foundry
-2 Goblin Piledriver
 3 Goblin Piledriver
+1 Sacred Foundry
 1 Legion Warboss
 2 Legion Warboss
 1 Devastating Summons
@@ -74,11 +78,9 @@
 4 Ramunap Ruins
 1 Simian Spirit Guide
 2 Light Up the Stage
-2 Wooded Foothills
+2 Tarfire
 3 Wooded Foothills
 4 Wooded Foothills
-2 Tarfire
-1 Field of Ruin
 2 Field of Ruin
 3 Field of Ruin
 1 Blackcleave Cliffs
@@ -90,10 +92,8 @@
 3 Arid Mesa
 3 Goblin Chieftain
 4 Goblin Chieftain
-4 Munitions Expert
 4 Bomat Courier
 1 Mutavault
-3 Skirk Prospector
 2 Pashalik Mons
 1 Prismatic Vista
 2 Prismatic Vista
@@ -145,10 +145,10 @@
 1 Goblin King
 2 Thalia, Guardian of Thraben
 2 Goblin Motivator
-2 Blood Moon
 2 Goblin King
-3 Blood Moon
+2 Blood Moon
 3 Goblin King
+3 Blood Moon
 4 Goblin Piledriver
 4 Arid Mesa
 1 Stingscourger

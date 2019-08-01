@@ -1,10 +1,10 @@
-1 Prismatic Vista
 1 Grinding Station
+1 Prismatic Vista
 2 Prismatic Vista
 3 Sai, Master Thopterist
 1 Spire of Industry
-1 Kozilek, Butcher of Truth
 1 Scrap Trawler
+1 Kozilek, Butcher of Truth
 1 Polluted Delta
 1 Watery Grave
 1 Tormod's Crypt
@@ -30,12 +30,12 @@
 1 Arid Mesa
 1 Crashing Footfalls
 1 Electrodominance
+1 Lightning Axe
 1 Opt
 1 Ancestral Vision
 1 As Foretold
 1 Dreadhorde Arcanist
 1 Fiery Islet
-1 Lightning Axe
 1 Flame Slash
 1 Force of Negation
 1 Serum Visions
@@ -61,8 +61,8 @@
 3 Sphinx of Foresight
 3 Serum Visions
 3 Spirebluff Canal
-4 Force of Negation
 4 Crashing Footfalls
+4 Force of Negation
 4 Serum Visions
 4 Electrodominance
 4 Spirebluff Canal
@@ -121,9 +121,6 @@
 4 Wild Cantor
 4 Lay of the Land
 1 Hydroid Krasis
-1 Mwonvuli Acid-Moss
-1 Karn, the Great Creator
-1 Primal Command
 1 Acidic Slime
 1 Trinisphere
 1 Overgrowth
@@ -134,16 +131,19 @@
 1 Walking Ballista
 1 Nissa, Worldwaker
 1 Breeding Pool
+1 Primal Command
 1 Nissa, Vastwood Seer
 1 Eternal Witness
 1 Arbor Elf
-2 Mwonvuli Acid-Moss
-2 Karn, the Great Creator
+1 Karn, the Great Creator
+1 Mwonvuli Acid-Moss
 2 Garruk Wildspeaker
 2 Acidic Slime
 2 Overgrowth
 2 Breeding Pool
 2 Trinisphere
+2 Karn, the Great Creator
+2 Mwonvuli Acid-Moss
 2 Utopia Sprawl
 2 Arbor Elf
 2 Primal Command
@@ -152,12 +152,12 @@
 2 Walking Ballista
 2 Windswept Heath
 2 Eternal Witness
-3 Mwonvuli Acid-Moss
-3 Karn, the Great Creator
 3 Primal Command
 3 Overgrowth
+3 Karn, the Great Creator
 3 Windswept Heath
 3 Arbor Elf
+3 Mwonvuli Acid-Moss
 3 Forest
 3 Acidic Slime
 3 Utopia Sprawl

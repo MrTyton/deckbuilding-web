@@ -41,8 +41,8 @@
 |                    4|[Satyr Wayfinder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=378508)    |                    3|[Mindbreak Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197532)     |
 |                    1|[Ghost Quarter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389534)      |                    3|[Force of Vigor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464113)     |
 |                    1|[Nurturing Peatland](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464192) |                    4|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|
-|                    1|[Polluted Delta](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405104)     |                    3|[Pithing Needle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129526)     |
-|                    1|[Bloodstained Mire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405094)  |                    1|[Life from the Loam](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=338409) |
+|                    1|[Polluted Delta](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405104)     |                    1|[Life from the Loam](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=338409) |
+|                    1|[Bloodstained Mire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405094)  |                    2|[Life from the Loam](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=338409) |
 |                    3|[Bayou](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=879)                 |                    4|[Force of Vigor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464113)     |
-|                    4|[Khalni Garden](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220535)      |                    2|[Life from the Loam](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=338409) |
+|                    4|[Khalni Garden](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220535)      |                    3|[Pithing Needle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129526)     |
 

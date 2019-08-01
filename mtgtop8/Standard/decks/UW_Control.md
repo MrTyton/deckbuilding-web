@@ -25,17 +25,3 @@
 |                                                                                                |                                                                                   |1 [Narset, Parter of Veils](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460988)|2 [Mass Manipulation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457186)|                  |
 |                                                                                                |                                                                                   |2 [The Wanderer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460964)           |                                                                                              |                  |
 
-
-# Other Options
-
-|*n*<sup>th</sup> copy|                                           Maindeck Card                                            |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
-|--------------------:|----------------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
-|                    2|[Teferi, Hero of Dominaria](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443095)|                    1|[Disdainful Stroke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420705)  |
-|                    3|[Teferi, Hero of Dominaria](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443095)|                    1|[Deputy of Detention](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457309)|
-|                    3|[Shalai, Voice of Plenty](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442923)  |                    1|[Prison Realm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460953)       |
-|                    3|[Narset, Parter of Veils](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460988)  |                    2|[Disdainful Stroke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420705)  |
-|                    4|[Dovin, Hand of Control](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461156)   |                    2|[Entrancing Melody](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435207)  |
-|                    4|[Interplanar Beacon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461174)       |                    2|[Prison Realm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460953)       |
-|                    4|[Narset, Parter of Veils](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460988)  |                    3|[Prison Realm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460953)       |
-|                     |                                                                                                    |                    4|[Prison Realm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460953)       |
-
