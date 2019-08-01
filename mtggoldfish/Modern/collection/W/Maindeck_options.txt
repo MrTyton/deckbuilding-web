@@ -3,7 +3,6 @@
 2 Thraben Inspector
 2 Ghost Quarter
 3 Thraben Inspector
-1 Anafenza, Kin-Tree Spirit
 1 Altar of Dementia
 1 Faith's Shield
 1 Kitchen Finks
@@ -11,6 +10,7 @@
 1 Solemnity
 1 Safehold Elite
 1 Blasting Station
+1 Anafenza, Kin-Tree Spirit
 2 Altar of Dementia
 2 Faith's Shield
 2 Kitchen Finks
@@ -21,17 +21,17 @@
 2 Solemnity
 3 Altar of Dementia
 3 Kitchen Finks
-3 Blasting Station
 3 Anafenza, Kin-Tree Spirit
+3 Blasting Station
 3 Safehold Elite
 3 Lesser Masticore
 3 Solemnity
 4 Altar of Dementia
-4 Safehold Elite
 4 Kitchen Finks
 4 Blasting Station
 4 Lesser Masticore
 4 Anafenza, Kin-Tree Spirit
+4 Safehold Elite
 4 Thraben Inspector
 4 Solemnity
 19 Plains
@@ -40,8 +40,8 @@
 1 Restoration Angel
 1 Thalia, Guardian of Thraben
 1 Aether Vial
-1 Selfless Spirit
 1 Sunbaked Canyon
+1 Selfless Spirit
 1 Leonin Arbiter
 1 Flagstones of Trokair
 1 Flickerwisp
@@ -66,8 +66,8 @@
 3 Ghost Quarter
 3 Tectonic Edge
 3 Thalia, Guardian of Thraben
-3 Leonin Arbiter
 3 Flagstones of Trokair
+3 Leonin Arbiter
 3 Flickerwisp
 4 Aether Vial
 4 Tectonic Edge

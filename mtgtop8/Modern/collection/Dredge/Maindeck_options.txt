@@ -1,38 +1,40 @@
-1 Cryptbreaker
 4 Polluted Delta
+1 Cryptbreaker
 2 Cryptbreaker
+3 Verdant Catacombs
+2 Swamp
 1 Watery Grave
 1 Hedron Crab
 2 Hedron Crab
 3 Hedron Crab
 4 Hedron Crab
-2 Swamp
-1 Darkblast
-3 Golgari Thug
-3 Verdant Catacombs
-3 Lightning Axe
+1 Wooded Foothills
 1 Fatal Push
 2 Fatal Push
+4 Verdant Catacombs
 1 Blooming Marsh
-1 Wooded Foothills
+1 Darkblast
+3 Golgari Thug
+1 Stomping Ground
+2 Wooded Foothills
 1 Mana Confluence
-1 Nurturing Peatland
+1 Assassin's Trophy
+2 Assassin's Trophy
+3 Lightning Axe
 1 Lotleth Troll
 1 Leyline of the Void
+1 Nurturing Peatland
 2 Leyline of the Void
 2 Lotleth Troll
 3 Leyline of the Void
-1 Snow-Covered Swamp
-1 Assassin's Trophy
-2 Assassin's Trophy
 2 Watery Grave
 2 Mana Confluence
 1 Steam Vents
 3 Fatal Push
-4 Verdant Catacombs
-1 Stomping Ground
-2 Wooded Foothills
 3 Wooded Foothills
+1 Stinkweed Imp
+2 Stinkweed Imp
+3 Stinkweed Imp
 1 Mountain
 2 Stomping Ground
 1 Copperline Gorge
@@ -42,10 +44,8 @@
 1 Prized Amalgam
 1 Life from the Loam
 1 Creeping Chill
-1 Stinkweed Imp
 2 Prized Amalgam
 2 Conflagrate
-2 Stinkweed Imp
 2 Creeping Chill
 2 Narcomoeba
 2 Cathartic Reunion
@@ -54,7 +54,6 @@
 3 Prized Amalgam
 3 Life from the Loam
 3 Creeping Chill
-3 Stinkweed Imp
 4 Cathartic Reunion
 4 Stinkweed Imp
 4 Creeping Chill
@@ -62,6 +61,7 @@
 4 Wooded Foothills
 2 Mountain
 1 Claim / Fame
+1 Snow-Covered Swamp
 2 Snow-Covered Swamp
 3 Marsh Flats
 1 Dryad Arbor
@@ -75,21 +75,25 @@
 4 Copperline Gorge
 4 Narcomoeba
 4 Shriekhorn
+4 Insolent Neonate
+4 Blackcleave Cliffs
 1 City of Brass
+1 Seasoned Pyromancer
+1 Forest
+2 Seasoned Pyromancer
 1 Arid Mesa
 1 Blast Zone
 1 Scalding Tarn
 2 Arid Mesa
-3 Overgrown Tomb
 3 Cryptbreaker
 4 Cryptbreaker
 4 Fatal Push
 1 Dakmor Salvage
 4 Prized Amalgam
 1 Lightning Skelemental
-1 Burning-Tree Emissary
 1 Flamekin Harbinger
 1 Reckless Bushwhacker
+1 Burning-Tree Emissary
 1 Thunderkin Awakener
 1 Ball Lightning
 1 Bloodrage Brawler
@@ -97,8 +101,8 @@
 1 Memnite
 2 Lightning Skelemental
 2 Flamekin Harbinger
-2 Burning-Tree Emissary
 2 Reckless Bushwhacker
+2 Burning-Tree Emissary
 2 Thunderkin Awakener
 2 Bloodrage Brawler
 2 Memnite
@@ -111,10 +115,8 @@
 3 Thunderkin Awakener
 3 Lightning Bolt
 4 Lightning Skelemental
-4 Insolent Neonate
 4 Memnite
 4 Burning-Tree Emissary
-4 Blackcleave Cliffs
 4 Flamekin Harbinger
 4 Lightning Bolt
 4 Marsh Flats

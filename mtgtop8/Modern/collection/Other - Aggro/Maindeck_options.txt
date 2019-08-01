@@ -1,20 +1,20 @@
 1 Windswept Heath
+1 Finale of Devastation
 1 Devoted Druid
 1 Vizier of Remedies
-1 Horizon Canopy
-1 Eternal Witness
 1 Eladamri's Call
-1 Finale of Devastation
 1 Breeding Pool
 1 Teferi, Time Raveler
 1 Walking Ballista
 1 Temple Garden
+1 Eternal Witness
 1 Scavenging Ooze
+1 Horizon Canopy
 2 Teferi, Time Raveler
 2 Devoted Druid
 2 Finale of Devastation
-2 Eladamri's Call
 2 Windswept Heath
+2 Eladamri's Call
 2 Vizier of Remedies
 3 Teferi, Time Raveler
 3 Finale of Devastation
@@ -24,9 +24,9 @@
 3 Vizier of Remedies
 4 Finale of Devastation
 4 Devoted Druid
-4 Windswept Heath
 4 Vizier of Remedies
 4 Eladamri's Call
+4 Windswept Heath
 1 Mana Leak
 1 Spellstutter Sprite
 1 Island
@@ -112,6 +112,39 @@
 3 Young Pyromancer
 3 Snow-Covered Swamp
 4 Young Pyromancer
+1 Mutavault
+1 Fiery Islet
+1 Faerie Seer
+1 Curious Obsession
+1 Archmage's Charm
+1 Ninja of the Deep Hours
+1 Vapor Snag
+1 Pteramander
+1 Spell Pierce
+1 Disrupting Shoal
+1 Force of Negation
+2 Archmage's Charm
+2 Curious Obsession
+2 Faerie Seer
+2 Ninja of the Deep Hours
+2 Pteramander
+2 Spell Pierce
+2 Vapor Snag
+2 Force of Negation
+2 Disrupting Shoal
+3 Vapor Snag
+3 Disrupting Shoal
+3 Curious Obsession
+3 Faerie Seer
+3 Ninja of the Deep Hours
+3 Spell Pierce
+3 Force of Negation
+4 Curious Obsession
+4 Faerie Seer
+4 Vapor Snag
+4 Disrupting Shoal
+4 Ninja of the Deep Hours
+4 Force of Negation
 1 Forest
 1 Overgrown Tomb
 2 Verdant Catacombs
@@ -119,34 +152,34 @@
 1 Viscera Seer
 1 Ranger-Captain of Eos
 1 Murderous Redcap
-1 Rhonas the Indomitable
 1 Duskwatch Recruiter
-1 Noble Hierarch
+1 Rhonas the Indomitable
 1 Yawgmoth, Thran Physician
-1 Kitchen Finks
 1 Shalai, Voice of Plenty
+1 Kitchen Finks
 1 Hallowed Fountain
 1 Birds of Paradise
+1 Noble Hierarch
 1 Godless Shrine
 1 Watery Grave
 1 Carrion Feeder
-2 Kitchen Finks
 2 Eternal Witness
+2 Birds of Paradise
+2 Kitchen Finks
 2 Noble Hierarch
 2 Forest
-2 Birds of Paradise
 2 Overgrown Tomb
-3 Noble Hierarch
 3 Birds of Paradise
+3 Noble Hierarch
 3 Forest
 4 Birds of Paradise
 1 Karn, the Great Creator
 1 Snow-Covered Plains
-1 Deputy of Detention
 1 Oath of Nissa
-1 Tireless Tracker
+1 Deputy of Detention
 1 Arbor Elf
 1 Snow-Covered Forest
+1 Tireless Tracker
 1 Waterlogged Grove
 1 Misty Rainforest
 1 Utopia Sprawl
@@ -159,10 +192,10 @@
 2 Breeding Pool
 2 Snow-Covered Forest
 2 Temple Garden
-3 Karn, the Great Creator
 3 Oath of Nissa
 3 Utopia Sprawl
 3 Arbor Elf
+3 Karn, the Great Creator
 3 Snow-Covered Forest
 3 Misty Rainforest
 4 Arbor Elf
@@ -171,39 +204,6 @@
 4 Misty Rainforest
 4 Oath of Nissa
 4 Teferi, Time Raveler
-1 Mutavault
-1 Fiery Islet
-1 Pteramander
-1 Faerie Seer
-1 Curious Obsession
-1 Archmage's Charm
-1 Vapor Snag
-1 Force of Negation
-1 Spell Pierce
-1 Ninja of the Deep Hours
-1 Disrupting Shoal
-2 Pteramander
-2 Archmage's Charm
-2 Curious Obsession
-2 Faerie Seer
-2 Spell Pierce
-2 Vapor Snag
-2 Ninja of the Deep Hours
-2 Force of Negation
-2 Disrupting Shoal
-3 Vapor Snag
-3 Disrupting Shoal
-3 Curious Obsession
-3 Faerie Seer
-3 Spell Pierce
-3 Force of Negation
-3 Ninja of the Deep Hours
-4 Curious Obsession
-4 Faerie Seer
-4 Vapor Snag
-4 Force of Negation
-4 Disrupting Shoal
-4 Ninja of the Deep Hours
 1 Unclaimed Territory
 2 Unclaimed Territory
 3 Unclaimed Territory
@@ -211,13 +211,13 @@
 1 Voice of Resurgence
 1 Cavern of Souls
 1 Flamekin Harbinger
-1 Risen Reef
-1 Aether Vial
 1 Flickerwisp
+1 Risen Reef
 1 Unsettled Mariner
 1 Shriekmaw
 1 Spitebellows
 1 Ancient Ziggurat
+1 Aether Vial
 1 Reflecting Pool
 1 Flamekin Village
 1 Nova Chaser
@@ -225,32 +225,32 @@
 1 Incandescent Soulstoke
 1 Omnath, Locus of the Roil
 1 Primal Beyond
-2 Fiery Islet
 2 Voice of Resurgence
-2 Risen Reef
+2 Fiery Islet
 2 Flamekin Harbinger
-2 Aether Vial
 2 Cavern of Souls
 2 Flickerwisp
+2 Aether Vial
 2 Incandescent Soulstoke
 2 Ancient Ziggurat
+2 Risen Reef
 2 Unsettled Mariner
 2 Lightning Stormkin
 3 Unsettled Mariner
-3 Voice of Resurgence
-3 Aether Vial
 3 Flamekin Harbinger
 3 Cavern of Souls
 3 Ancient Ziggurat
 3 Risen Reef
+3 Voice of Resurgence
+3 Aether Vial
 3 Lightning Stormkin
 3 Incandescent Soulstoke
-4 Flamekin Harbinger
-4 Unsettled Mariner
-4 Voice of Resurgence
 4 Aether Vial
+4 Unsettled Mariner
+4 Flamekin Harbinger
 4 Cavern of Souls
 4 Risen Reef
+4 Voice of Resurgence
 4 Ancient Ziggurat
 4 Incandescent Soulstoke
 4 Lightning Stormkin
@@ -322,8 +322,8 @@
 3 Swamp
 4 Swamp
 5 Swamp
-1 Nurturing Peatland
 1 Dryad Arbor
+1 Nurturing Peatland
 1 Stitcher's Supplier
 1 Urborg, Tomb of Yawgmoth
 1 Smallpox
@@ -340,6 +340,7 @@
 2 Mutavault
 2 Satyr Wayfinder
 2 Liliana of the Veil
+3 Liliana of the Veil
 3 Mutavault
 3 Nurturing Peatland
 3 Urborg, Tomb of Yawgmoth
@@ -349,7 +350,6 @@
 3 Hogaak, Arisen Necropolis
 3 Cabal Therapist
 3 Verdant Catacombs
-3 Liliana of the Veil
 4 Liliana of the Veil
 4 Mutavault
 4 Urborg, Tomb of Yawgmoth

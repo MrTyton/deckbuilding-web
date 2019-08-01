@@ -18,9 +18,9 @@
 2 Island
 1 Soul-Scar Mage
 1 Atarka's Command
+1 Misty Rainforest
 1 Breeding Pool
 1 Stomping Ground
-1 Misty Rainforest
 2 Soul-Scar Mage
 2 Atarka's Command
 2 Misty Rainforest
@@ -40,26 +40,26 @@
 1 Crash Through
 1 Become Immense
 1 Twisted Image
-2 Become Immense
 2 Crash Through
+2 Become Immense
 2 Twisted Image
 3 Become Immense
 4 Archmage's Charm
-1 Force of Negation
 1 Pteramander
-1 Fiery Islet
-1 Spell Pierce
 1 Abrade
-2 Force of Negation
+1 Spell Pierce
+1 Force of Negation
+1 Fiery Islet
 2 Pteramander
 2 Fiery Islet
 2 Spell Pierce
+2 Force of Negation
 3 Fiery Islet
 3 Pteramander
-3 Force of Negation
 3 Mana Leak
-4 Force of Negation
+3 Force of Negation
 4 Pteramander
+4 Force of Negation
 1 Copperline Gorge
 1 Wizard's Lightning
 1 Stormchaser Mage
@@ -71,11 +71,11 @@
 4 Sleight of Hand
 1 Forked Bolt
 1 Swamp
-1 Watery Grave
 1 Blood Crypt
 1 Remand
 1 Bloodstained Mire
 1 Inquisition of Kozilek
+1 Watery Grave
 1 Thoughtseize
 1 Fatal Push
 1 Unearth
@@ -88,8 +88,8 @@
 3 Remand
 3 Fatal Push
 3 Bloodstained Mire
-4 Polluted Delta
 4 Remand
+4 Polluted Delta
 4 Fatal Push
 4 Inquisition of Kozilek
 1 Apostle's Blessing
@@ -102,18 +102,18 @@
 2 Bedlam Reveler
 2 Apostle's Blessing
 2 Thing in the Ice
-2 Mountain
 2 Stubborn Denial
 2 Manamorphose
 2 Kiln Fiend
+2 Mountain
 2 Temur Battle Rage
 3 Temur Battle Rage
 3 Thing in the Ice
 3 Manamorphose
 3 Kiln Fiend
 3 Mountain
-4 Mountain
 4 Temur Battle Rage
+4 Mountain
 4 Steam Vents
 4 Manamorphose
 4 Thing in the Ice

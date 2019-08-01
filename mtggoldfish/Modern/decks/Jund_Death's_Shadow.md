@@ -44,6 +44,6 @@
 |                     |                                                                                                |                    3|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)   |
 |                     |                                                                                                |                    1|[Rakdos Charm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420835)          |
 |                     |                                                                                                |                    1|[Ranger of Eos](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174823)         |
-|                     |                                                                                                |                    2|[Assassin's Trophy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452902)     |
 |                     |                                                                                                |                    3|[Collective Brutality](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414380)  |
+|                     |                                                                                                |                    2|[Assassin's Trophy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452902)     |
 

@@ -1,75 +1,6 @@
-1 Grinding Station
-1 Prismatic Vista
-2 Prismatic Vista
-3 Sai, Master Thopterist
-1 Spire of Industry
-1 Scrap Trawler
-1 Kozilek, Butcher of Truth
-1 Polluted Delta
-1 Watery Grave
-1 Tormod's Crypt
-1 Nihil Spellbomb
-1 Snow-Covered Swamp
-2 Polluted Delta
-2 Pithing Needle
-3 Polluted Delta
-4 Goblin Engineer
-4 Whir of Invention
-4 Polluted Delta
-1 Lightning Bolt
-1 Simian Spirit Guide
-1 Mountain
-2 Lightning Bolt
-2 Simian Spirit Guide
-3 Lightning Bolt
-3 Simian Spirit Guide
-4 Simian Spirit Guide
-1 Peek
-1 Sphinx of Foresight
-1 Island
-1 Arid Mesa
-1 Crashing Footfalls
-1 Electrodominance
-1 Lightning Axe
-1 Opt
-1 Ancestral Vision
-1 As Foretold
-1 Dreadhorde Arcanist
-1 Fiery Islet
-1 Flame Slash
-1 Force of Negation
-1 Serum Visions
-2 Peek
-2 Dreadhorde Arcanist
-2 As Foretold
-2 Ancestral Vision
-2 Crashing Footfalls
-2 Electrodominance
-2 Opt
-2 Steam Vents
-2 Force of Negation
-2 Mountain
-2 Sphinx of Foresight
-2 Serum Visions
-3 As Foretold
-3 Ancestral Vision
-3 Electrodominance
-3 Dreadhorde Arcanist
-3 Crashing Footfalls
-3 Steam Vents
-3 Force of Negation
-3 Sphinx of Foresight
-3 Serum Visions
-3 Spirebluff Canal
-4 Crashing Footfalls
-4 Force of Negation
-4 Serum Visions
-4 Electrodominance
-4 Spirebluff Canal
-4 As Foretold
-4 Ancestral Vision
 1 Forest
 2 Forest
+1 Traverse the Ulvenwald
 1 Pact of Negation
 1 Desperate Ritual
 1 Open the Gates
@@ -80,13 +11,13 @@
 1 Wild Cantor
 1 Pyretic Ritual
 1 Lay of the Land
-1 Traverse the Ulvenwald
 1 Manamorphose
 1 Reforge the Soul
 1 Recross the Paths
 1 Talisman of Impulse
 1 Faithless Looting
 1 Goblin Charbelcher
+2 Traverse the Ulvenwald
 2 Wild Cantor
 2 Pyretic Ritual
 2 Caravan Vigil
@@ -95,12 +26,11 @@
 2 Desperate Ritual
 2 Recross the Paths
 2 Renegade Map
-2 Traverse the Ulvenwald
 2 Goblin Charbelcher
 2 Reforge the Soul
 2 Faithless Looting
-3 Pyretic Ritual
 3 Traverse the Ulvenwald
+3 Pyretic Ritual
 3 Faithless Looting
 3 Caravan Vigil
 3 Desperate Ritual
@@ -113,18 +43,71 @@
 4 Traverse the Ulvenwald
 4 Goblin Charbelcher
 4 Desperate Ritual
+4 Renegade Map
 4 Caravan Vigil
 4 Faithless Looting
-4 Renegade Map
 4 Chancellor of the Tangle
 4 Recross the Paths
 4 Wild Cantor
 4 Lay of the Land
+1 Spire of Industry
+1 Scrap Trawler
+1 Kozilek, Butcher of Truth
+1 Polluted Delta
+1 Snow-Covered Mountain
+1 Snow-Covered Island
+1 Urza, Lord High Artificer
+1 Watery Grave
+1 Sword of the Meek
+1 Tormod's Crypt
+1 Thopter Foundry
+1 Pithing Needle
+1 Arcum's Astrolabe
+1 Ichor Wellspring
+1 Nihil Spellbomb
+1 Grafdigger's Cage
+1 Mox Opal
+1 Goblin Engineer
+1 Ensnaring Bridge
+1 Whir of Invention
+1 Sai, Master Thopterist
+1 Ghirapur Aether Grid
+1 Mishra's Bauble
+1 Snow-Covered Swamp
+2 Polluted Delta
+2 Snow-Covered Island
+2 Urza, Lord High Artificer
+2 Pithing Needle
+2 Thopter Foundry
+2 Goblin Engineer
+2 Arcum's Astrolabe
+2 Whir of Invention
+2 Mox Opal
+2 Mishra's Bauble
+3 Polluted Delta
+3 Snow-Covered Island
+3 Urza, Lord High Artificer
+3 Whir of Invention
+3 Mishra's Bauble
+3 Thopter Foundry
+3 Arcum's Astrolabe
+3 Mox Opal
+3 Goblin Engineer
+4 Goblin Engineer
+4 Whir of Invention
+4 Polluted Delta
+4 Snow-Covered Island
+4 Urza, Lord High Artificer
+4 Mishra's Bauble
+4 Thopter Foundry
+4 Mox Opal
+4 Arcum's Astrolabe
+5 Snow-Covered Island
 1 Hydroid Krasis
 1 Acidic Slime
-1 Trinisphere
 1 Overgrowth
 1 Garruk Wildspeaker
+1 Trinisphere
 1 Utopia Sprawl
 1 Nykthos, Shrine to Nyx
 1 Windswept Heath
@@ -154,12 +137,12 @@
 2 Eternal Witness
 3 Primal Command
 3 Overgrowth
-3 Karn, the Great Creator
 3 Windswept Heath
 3 Arbor Elf
 3 Mwonvuli Acid-Moss
 3 Forest
 3 Acidic Slime
+3 Karn, the Great Creator
 3 Utopia Sprawl
 4 Primal Command
 4 Mwonvuli Acid-Moss
