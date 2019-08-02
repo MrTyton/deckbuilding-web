@@ -24,6 +24,7 @@
 4 Knucklebone Witch
 4 Skirk Prospector
 1 Unearth
+1 Mayhem Devil
 1 Gravecrawler
 1 Bloodghast
 1 Greater Gargadon
@@ -33,11 +34,10 @@
 1 Polluted Delta
 1 Hogaak, Arisen Necropolis
 1 Cryptbreaker
-1 Mayhem Devil
 1 Faithless Looting
 2 Swamp
-2 Carrion Feeder
 2 Mayhem Devil
+2 Carrion Feeder
 2 Bloodghast
 2 Hogaak, Arisen Necropolis
 2 Greater Gargadon
@@ -48,18 +48,19 @@
 2 Polluted Delta
 2 Marsh Flats
 2 Cryptbreaker
+3 Mayhem Devil
 3 Hogaak, Arisen Necropolis
 3 Cryptbreaker
 3 Polluted Delta
 3 Carrion Feeder
 3 Faithless Looting
 3 Unearth
-3 Mayhem Devil
 3 Bloodghast
 3 Marsh Flats
 3 Greater Gargadon
 3 Stitcher's Supplier
 3 Gravecrawler
+4 Mayhem Devil
 4 Bloodghast
 4 Cryptbreaker
 4 Unearth
@@ -68,7 +69,6 @@
 4 Stitcher's Supplier
 4 Faithless Looting
 4 Carrion Feeder
-4 Mayhem Devil
 4 Greater Gargadon
 1 Arid Mesa
 2 Arid Mesa
@@ -105,8 +105,8 @@
 1 Lightning Skelemental
 1 Bump in the Night
 1 Ball Lightning
-1 Sulfurous Springs
 1 Dragonskull Summit
+1 Sulfurous Springs
 2 Light Up the Stage
 2 Rift Bolt
 2 Lava Spike

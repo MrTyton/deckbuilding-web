@@ -1,22 +1,26 @@
 1 Monastery Swiftspear
 1 Light Up the Stage
+1 Soul-Scar Mage
 1 Lava Spike
 2 Monastery Swiftspear
 2 Light Up the Stage
 2 Lava Spike
-3 Monastery Swiftspear
-3 Lava Spike
-4 Monastery Swiftspear
-4 Lava Spike
-1 Soul-Scar Mage
 2 Soul-Scar Mage
+3 Monastery Swiftspear
 3 Light Up the Stage
+3 Lava Spike
 3 Soul-Scar Mage
+4 Monastery Swiftspear
 4 Light Up the Stage
 4 Soul-Scar Mage
+1 Opt
+2 Opt
+4 Lava Spike
 3 Mountain
 3 Gut Shot
 3 Lava Dart
+3 Aria of Flame
+1 Sunbaked Canyon
 4 Mountain
 5 Mountain
 6 Mountain
@@ -28,33 +32,28 @@
 12 Mountain
 13 Mountain
 14 Mountain
-1 Opt
-2 Opt
-15 Mountain
-1 Sunbaked Canyon
-4 Gut Shot
-2 Fiery Islet
-3 Aria of Flame
-1 Crackling Drake
 1 Polluted Delta
-2 Bedlam Reveler
-1 Blistercoil Weird
-2 Sunbaked Canyon
 3 Sleight of Hand
 4 Sleight of Hand
-16 Mountain
+1 Crackling Drake
+15 Mountain
+2 Fiery Islet
+4 Gut Shot
+2 Bedlam Reveler
 1 Snow-Covered Mountain
 2 Snow-Covered Mountain
-3 Fiery Islet
-2 Flooded Strand
 3 Surgical Extraction
+2 Sunbaked Canyon
+1 Seasoned Pyromancer
+2 Flooded Strand
+16 Mountain
+1 Blistercoil Weird
 1 Misty Rainforest
 1 Arid Mesa
 1 Wrenn and Six
 1 Copperline Gorge
 1 Bloodstained Mire
 1 Wooded Foothills
-1 Seasoned Pyromancer
 1 Stomping Ground
 2 Copperline Gorge
 2 Wrenn and Six
@@ -64,39 +63,7 @@
 2 Stomping Ground
 3 Copperline Gorge
 3 Wrenn and Six
-1 Snow-Covered Island
-2 Snow-Covered Island
-3 Snow-Covered Island
-1 Crash Through
-1 Spell Pierce
-1 Tormenting Voice
-1 Fiery Temper
-1 Runaway Steam-Kin
-2 Tormenting Voice
-2 Fiery Temper
-2 Runaway Steam-Kin
-3 Runaway Steam-Kin
-4 Runaway Steam-Kin
-17 Mountain
-1 Electrostatic Field
-1 Sulfur Falls
-2 Arid Mesa
-2 Blistercoil Weird
-1 Abrade
-1 Unmoored Ego
-1 Watery Grave
-2 Abrade
-2 Polluted Delta
-1 Lightning Axe
-2 Crackling Drake
-3 Bedlam Reveler
-1 Blood Moon
-3 Sunbaked Canyon
-1 Prismatic Vista
-1 Snapcaster Mage
-2 Snapcaster Mage
-3 Opt
-3 Steam Vents
+3 Fiery Islet
 3 Snow-Covered Mountain
 4 Snow-Covered Mountain
 5 Snow-Covered Mountain
@@ -110,6 +77,32 @@
 13 Snow-Covered Mountain
 14 Snow-Covered Mountain
 15 Snow-Covered Mountain
+1 Snow-Covered Island
+2 Snow-Covered Island
+3 Snow-Covered Island
+2 Polluted Delta
+1 Spell Pierce
+1 Crash Through
+1 Forked Bolt
+1 Electrostatic Field
+1 Sulfur Falls
+2 Arid Mesa
+2 Blistercoil Weird
+1 Abrade
+1 Unmoored Ego
+1 Watery Grave
+2 Abrade
+1 Lightning Axe
+2 Crackling Drake
+3 Bedlam Reveler
+1 Blood Moon
+3 Sunbaked Canyon
+1 Prismatic Vista
+1 Snapcaster Mage
+2 Snapcaster Mage
+3 Opt
+3 Steam Vents
+4 Island
 16 Snow-Covered Mountain
 17 Snow-Covered Mountain
 3 Bloodstained Mire

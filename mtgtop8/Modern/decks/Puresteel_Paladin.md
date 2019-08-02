@@ -28,8 +28,8 @@
 
 |*n*<sup>th</sup> copy|                                         Maindeck Card                                         |*n*<sup>th</sup> copy|                                         Sideboard Card                                          |
 |--------------------:|-----------------------------------------------------------------------------------------------|--------------------:|-------------------------------------------------------------------------------------------------|
-|                    3|[Sigil of Distinction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174867)|                    2|Veil of Summer                                                                                   |
-|                    4|[Sigil of Distinction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174867)|                    2|[Unearth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442102)               |
+|                    3|[Sigil of Distinction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174867)|                    2|[Unearth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442102)               |
+|                    4|[Sigil of Distinction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174867)|                    2|Veil of Summer                                                                                   |
 |                    4|[Arid Mesa](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405092)           |                    1|[Paradoxical Outcome](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417633)   |
 |                    1|[Sunbaked Canyon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464196)     |                    1|[Eladamri's Call](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442192)       |
 |                    1|[Snow-Covered Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121267) |                    2|[Echoing Truth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405212)         |

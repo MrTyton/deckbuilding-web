@@ -1,8 +1,5 @@
-13 Island
-4 Harbinger of the Tides
-1 Dismember
-2 Dismember
-2 Faerie Conclave
+3 Benthic Biomancer
+4 Benthic Biomancer
 1 Mistcaller
 2 Mistcaller
 3 Waterlogged Grove
@@ -16,27 +13,23 @@
 3 Faerie Conclave
 4 Faerie Conclave
 3 Merrow Reejerey
+1 Vapor Snag
+2 Vapor Snag
+13 Island
 14 Island
-1 Minamo, School at Water's Edge
 1 Echoing Truth
 2 Echoing Truth
-1 Spell Pierce
 1 Master of Waves
 1 Flooded Strand
 1 Cursecatcher
 2 Cursecatcher
 3 Cursecatcher
 4 Cursecatcher
-1 Wizard's Retort
-2 Wizard's Retort
-3 Wizard's Retort
-4 Wizard's Retort
 1 Fiery Islet
 1 Coralhelm Commander
 2 Coralhelm Commander
 3 Coralhelm Commander
 4 Coralhelm Commander
-2 Spell Pierce
 1 Merfolk Mistbinder
 1 Kumena's Speaker
 1 Breeding Pool
@@ -50,19 +43,19 @@
 4 Kumena's Speaker
 4 Merfolk Mistbinder
 1 Thassa, God of the Sea
+1 Spell Pierce
+1 Minamo, School at Water's Edge
 2 Flooded Strand
 2 Master of Waves
 3 Master of Waves
-1 Venser, Shaper Savant
 1 Smuggler's Copter
 2 Fiery Islet
 1 Polluted Delta
+2 Spell Pierce
 2 Polluted Delta
 1 Tidebinder Mage
 2 Tidebinder Mage
 3 Tidebinder Mage
-1 Tideshaper Mystic
-3 Vapor Snag
 1 Lonely Sandbar
 2 Lonely Sandbar
 3 Lonely Sandbar
@@ -78,6 +71,11 @@
 1 Kopala, Warden of Waves
 1 Mu Yanling, Sky Dancer
 4 Merrow Reejerey
+1 Venser, Shaper Savant
+1 Wizard's Retort
+2 Wizard's Retort
+3 Wizard's Retort
+4 Wizard's Retort
 1 Unsettled Mariner
 1 Seachrome Coast
 1 Wanderwine Hub
