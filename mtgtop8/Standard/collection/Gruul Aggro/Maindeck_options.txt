@@ -1,20 +1,21 @@
-4 Nullhide Ferox
+1 Thorn Lieutenant
+2 Thorn Lieutenant
 9 Forest
 1 Domri's Ambush
-3 Paradise Druid
-4 Shock
+3 Thorn Lieutenant
+1 Lava Coil
 2 Domri's Ambush
 2 Lightning Strike
 1 Collision / Colossus
-4 Thorn Lieutenant
 3 Domri's Ambush
-1 Lava Coil
 1 Sarkhan the Masterless
 1 Ripjaw Raptor
-4 Skarrgan Hellkite
 2 Collision / Colossus
+4 Thorn Lieutenant
+4 Skarrgan Hellkite
+1 Chandra, Fire Artisan
 2 Sarkhan the Masterless
-3 Lightning Strike
+3 Sarkhan the Masterless
 4 Paradise Druid
 1 Nissa, Who Shakes the World
 2 Nissa, Who Shakes the World
@@ -22,8 +23,7 @@
 1 Thrash / Threat
 2 Thrash / Threat
 3 Thrash / Threat
-1 Chandra, Fire Artisan
-3 Sarkhan the Masterless
+3 Lightning Strike
 1 Rhythm of the Wild
 1 Ghalta, Primal Hunger
 2 Rhythm of the Wild
@@ -32,6 +32,7 @@
 3 Ripjaw Raptor
 4 Ripjaw Raptor
 1 Shifting Ceratops
+1 Vivien, Champion of the Wilds
 1 Zhur-Taa Goblin
 2 Zhur-Taa Goblin
 3 Zhur-Taa Goblin
@@ -44,7 +45,6 @@
 3 Drover of the Mighty
 3 Marauding Raptor
 4 Marauding Raptor
-1 God-Eternal Rhonas
 10 Forest
 1 Vivien, Arkbow Ranger
 2 Shifting Ceratops
@@ -58,7 +58,6 @@
 4 Domri's Ambush
 4 Vine Mare
 4 Rhythm of the Wild
-1 Vivien, Champion of the Wilds
 1 Vivien Reid
 1 Kraul Harpooner
 2 Kraul Harpooner
@@ -70,16 +69,15 @@
 3 Lava Coil
 1 Voracious Hydra
 3 Regisaur Alpha
+1 Gruul Guildgate
+2 Gruul Guildgate
+3 Gruul Guildgate
 1 Thrashing Brontodon
 2 Thrashing Brontodon
 4 Legion Warboss
 4 Zhur-Taa Goblin
 4 Domri, Anarch of Bolas
-1 Savage Stomp
-1 Charging Monstrosaur
-2 Charging Monstrosaur
-3 Charging Monstrosaur
-4 Lightning Strike
+1 God-Eternal Rhonas
 2 God-Eternal Rhonas
 2 Vivien, Arkbow Ranger
 3 Collision / Colossus
@@ -88,5 +86,8 @@
 3 Shifting Ceratops
 4 Shifting Ceratops
 11 Forest
-1 Living Twister
-8 Mountain
+1 Savage Stomp
+1 Charging Monstrosaur
+2 Charging Monstrosaur
+3 Charging Monstrosaur
+4 Lightning Strike

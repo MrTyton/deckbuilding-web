@@ -1,6 +1,3 @@
-4 Jadelight Ranger
-4 Nexus of Fate
-1 Risen Reef
 1 Leafkin Druid
 2 Risen Reef
 2 Leafkin Druid
@@ -9,8 +6,10 @@
 4 Risen Reef
 4 Leafkin Druid
 1 Temple of Mystery
+4 Tamiyo, Collector of Tales
+1 Memorial to Genius
 2 Temple of Mystery
-7 Island
+4 Jadelight Ranger
 3 Paradise Druid
 4 Paradise Druid
 1 Blast Zone
@@ -19,6 +18,7 @@
 1 Entrancing Melody
 1 Cavalier of Thorns
 2 Cavalier of Thorns
+7 Island
 2 Blink of an Eye
 1 Teferi, Time Raveler
 1 Hallowed Fountain
@@ -33,6 +33,7 @@
 4 Temple Garden
 2 Entrancing Melody
 3 Cavalier of Thorns
+2 Blast Zone
 1 Frilled Mystic
 2 Frilled Mystic
 4 Glacial Fortress
@@ -40,8 +41,6 @@
 1 Shalai, Voice of Plenty
 1 Druid of the Cowl
 1 Finale of Revelation
-2 Blast Zone
-4 Mass Manipulation
 1 Ripjaw Raptor
 2 Ripjaw Raptor
 3 Ripjaw Raptor
@@ -52,12 +51,17 @@
 3 Frilled Mystic
 2 Finale of Revelation
 1 Chemister's Insight
+1 Simic Guildgate
+1 Field of Ruin
+1 Arboreal Grazer
+2 Arboreal Grazer
+3 Arboreal Grazer
+3 Blast Zone
 1 Sunpetal Grove
 1 Deputy of Detention
 2 Sunpetal Grove
 2 Deputy of Detention
 1 Negate
-1 Field of Ruin
 2 Field of Ruin
 2 Negate
 3 Field of Ruin
@@ -70,6 +74,7 @@
 4 Voracious Hydra
 4 Cavalier of Thorns
 4 Temple of Mystery
+4 Mass Manipulation
 4 Frilled Mystic
 4 Teferi, Time Raveler
 1 Leyline of Abundance
@@ -85,9 +90,8 @@
 2 Root Snare
 2 Search for Azcanta
 2 Memorial to Genius
-2 Wilderness Reclamation
 2 Opt
-3 Blast Zone
+2 Wilderness Reclamation
 3 Wilderness Reclamation
 3 Search for Azcanta
 3 Opt
@@ -98,14 +102,47 @@
 4 Root Snare
 4 Opt
 4 Wilderness Reclamation
+1 Temple of Epiphany
+1 Arch of Orazca
+1 Gruul Guildgate
+1 Plaza of Harmony
+1 Banefire
+1 Evolving Wilds
+1 Thaumatic Compass
+1 Circuitous Route
+1 Golos, Tireless Pilgrim
+1 Field of the Dead
+1 The Mending of Dominaria
+1 Thornwood Falls
+1 Scapeshift
+1 Mountain
+1 Elvish Rejuvenator
+1 Commune with Dinosaurs
+1 Rootbound Crag
+1 Rugged Highlands
+1 Stomping Ground
+2 Evolving Wilds
+2 Field of the Dead
+2 Circuitous Route
+2 Scapeshift
+2 Elvish Rejuvenator
+2 Commune with Dinosaurs
+2 The Mending of Dominaria
+3 Evolving Wilds
+3 Circuitous Route
+3 Field of the Dead
+3 Scapeshift
+3 Elvish Rejuvenator
+4 Circuitous Route
+4 Arboreal Grazer
+4 Elvish Rejuvenator
+4 Scapeshift
+4 Evolving Wilds
+4 Field of the Dead
 1 Mobilized District
-1 Arboreal Grazer
 1 Growing Rites of Itlimoc
-2 Arboreal Grazer
 3 Finale of Revelation
-3 Arboreal Grazer
 11 Forest
-1 Simic Guildgate
 1 Vivien Reid
 2 Druid of the Cowl
 8 Island
