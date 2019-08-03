@@ -31,8 +31,8 @@
 1 Tombstalker
 1 Traverse the Ulvenwald
 1 Mishra's Bauble
-2 Grim Flayer
 2 Traverse the Ulvenwald
+2 Grim Flayer
 2 Mishra's Bauble
 3 Traverse the Ulvenwald
 3 Grim Flayer
@@ -52,6 +52,7 @@
 1 Llanowar Wastes
 1 Sakura-Tribe Elder
 1 Woodland Cemetery
+1 Thragtusk
 1 Death Cloud
 1 Temple of Malady
 1 Ob Nixilis Reignited
@@ -60,23 +61,21 @@
 1 Drown in Sorrow
 1 Putrefy
 1 Disfigure
-1 Thragtusk
 2 Explore
 2 Llanowar Wastes
 2 Woodland Cemetery
 2 Sakura-Tribe Elder
+2 Thragtusk
 2 Death Cloud
 2 Disfigure
 2 Kitchen Finks
 2 Ob Nixilis Reignited
 2 Primal Command
-2 Thragtusk
 2 Drown in Sorrow
 2 Search for Tomorrow
 2 Temple of Malady
 3 Llanowar Wastes
 3 Thragtusk
-3 Kitchen Finks
 3 Sakura-Tribe Elder
 3 Temple of Malady
 3 Search for Tomorrow
@@ -84,6 +83,7 @@
 3 Disfigure
 3 Forest
 3 Death Cloud
+3 Kitchen Finks
 4 Kitchen Finks
 4 Sakura-Tribe Elder
 4 Temple of Malady
@@ -93,5 +93,5 @@
 4 Search for Tomorrow
 4 Explore
 4 Disfigure
-4 Forest
 5 Forest
+4 Forest

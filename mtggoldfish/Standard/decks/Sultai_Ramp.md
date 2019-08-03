@@ -2,7 +2,7 @@
 
 #### [Export MTGO List](../collection/Sultai%20Ramp/Sultai%20Ramp.txt)
 #### [Export Arena List](../collection/Sultai%20Ramp/Sultai%20Ramp_arena.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=2%09Blood%20for%20Bones%0A4%09Breeding%20Pool%0A2%09Cavalier%20of%20Night%0A3%09Cavalier%20of%20Thorns%0A2%09Drowned%20Catacomb%0A2%09Finale%20of%20Eternity%0A1%09Flood%20of%20Tears%0A3%09Forest%0A2%09Growth%20Spiral%0A4%09Hinterland%20Harbor%0A4%09Hydroid%20Krasis%0A4%09Leafkin%20Druid%0A4%09Llanowar%20Elves%0A1%09Nexus%20of%20Fate%0A3%09Nissa,%20Who%20Shakes%20the%20World%0A4%09Overgrown%20Tomb%0A4%09Risen%20Reef%0A3%09Tamiyo,%20Collector%20of%20Tales%0A1%09Temple%20of%20Malady%0A2%09Temple%20of%20Mystery%0A2%09Watery%20Grave%0A3%09Woodland%20Cemetery&deckside=3%09Aether%20Gust%0A2%09Duress%0A1%09Flood%20of%20Tears%0A1%09Lava%20Axe%0A3%09Noxious%20Grasp%0A1%09Unmoored%20Ego%0A4%09Veil%20of%20Summer)
+#### [Print on decklist.org](http://decklist.org/?deckmain=2%09Blood%20for%20Bones%0A4%09Breeding%20Pool%0A2%09Cavalier%20of%20Night%0A3%09Cavalier%20of%20Thorns%0A2%09Drowned%20Catacomb%0A2%09Finale%20of%20Eternity%0A1%09Flood%20of%20Tears%0A3%09Forest%0A2%09Growth%20Spiral%0A4%09Hinterland%20Harbor%0A4%09Hydroid%20Krasis%0A4%09Leafkin%20Druid%0A4%09Llanowar%20Elves%0A1%09Nexus%20of%20Fate%0A3%09Nissa,%20Who%20Shakes%20the%20World%0A4%09Overgrown%20Tomb%0A4%09Risen%20Reef%0A3%09Tamiyo,%20Collector%20of%20Tales%0A1%09Temple%20of%20Malady%0A2%09Temple%20of%20Mystery%0A2%09Watery%20Grave%0A3%09Woodland%20Cemetery&deckside=2%09Aether%20Gust%0A2%09Duress%0A1%09Flood%20of%20Tears%0A3%09Noxious%20Grasp%0A3%09Tyrant's%20Scorn%0A4%09Veil%20of%20Summer)
 # Maindeck
 
 |                                       Creature (8)                                        |                                       Instant (3)                                        |                                          Land (25)                                           |                                            Planeswalker (6)                                            |                                          Sorcery (2)                                          |    Unknown (16)    |
@@ -20,22 +20,22 @@
 
 # Sideboard
 
-|                                       Sorcery (4)                                       |  Unknown (11)  |
-|-----------------------------------------------------------------------------------------|----------------|
-|2 [Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)       |3 Aether Gust   |
-|1 [Lava Axe](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129620)    |1 Flood of Tears|
-|1 [Unmoored Ego](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452962)|3 Noxious Grasp |
-|                                                                                         |4 Veil of Summer|
+|                                        Instant (3)                                        |                                   Sorcery (2)                                    |  Unknown (10)  |
+|-------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|----------------|
+|3 [Tyrant's Scorn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461152)|2 [Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)|2 Aether Gust   |
+|                                                                                           |                                                                                  |1 Flood of Tears|
+|                                                                                           |                                                                                  |3 Noxious Grasp |
+|                                                                                           |                                                                                  |4 Veil of Summer|
 
 
 # Other Options
 
-|*n*<sup>th</sup> copy|                                       Maindeck Card                                       |*n*<sup>th</sup> copy|                                     Sideboard Card                                      |
-|--------------------:|-------------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------|
-|                    1|[Paradise Druid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461098)  |                    1|[Tyrant's Scorn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461152)|
-|                    1|[Omniscience](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=288937)     |                    2|[Tyrant's Scorn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461152)|
-|                    2|[Paradise Druid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461098)  |                    3|[Tyrant's Scorn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461152)|
-|                    2|[Temple of Malady](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=380515)|                     |                                                                                         |
-|                    3|[Temple of Malady](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=380515)|                     |                                                                                         |
-|                    4|Cavalier of Thorns                                                                         |                     |                                                                                         |
+|*n*<sup>th</sup> copy|                                       Maindeck Card                                       |*n*<sup>th</sup> copy|                                    Sideboard Card                                     |
+|--------------------:|-------------------------------------------------------------------------------------------|--------------------:|---------------------------------------------------------------------------------------|
+|                    1|[Paradise Druid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461098)  |                    1|[Lava Axe](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129620)    |
+|                    1|[Omniscience](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=288937)     |                    3|Aether Gust                                                                            |
+|                    2|[Paradise Druid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461098)  |                    1|[Unmoored Ego](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452962)|
+|                    2|[Temple of Malady](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=380515)|                     |                                                                                       |
+|                    3|[Temple of Malady](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=380515)|                     |                                                                                       |
+|                    4|Cavalier of Thorns                                                                         |                     |                                                                                       |
 
