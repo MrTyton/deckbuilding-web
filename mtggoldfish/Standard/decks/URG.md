@@ -42,8 +42,8 @@
 |*n*<sup>th</sup> copy|                                       Maindeck Card                                        |*n*<sup>th</sup> copy|                                  Sideboard Card                                  |
 |--------------------:|--------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------|
 |                    1|[Growth Spiral](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457322)    |                    2|[Bombard](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456557)|
-|                    2|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)           |                    3|Flame Sweep                                                                       |
 |                    2|[Growth Spiral](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457322)    |                    3|[Bombard](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456557)|
+|                    2|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)           |                    3|Flame Sweep                                                                       |
 |                    3|[Growth Spiral](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457322)    |                    3|Shifting Ceratops                                                                 |
 |                    2|[Hinterland Harbor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443128)|                     |                                                                                  |
 

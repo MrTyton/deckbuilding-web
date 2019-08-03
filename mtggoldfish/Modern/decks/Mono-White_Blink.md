@@ -32,8 +32,8 @@
 
 |*n*<sup>th</sup> copy|                                          Maindeck Card                                           |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
 |--------------------:|--------------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
-|                    3|[Thraben Inspector](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409784)      |                    2|[Leonin Relic-Warder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=432997)|
-|                    3|[Ranger-Captain of Eos](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463970)  |                    2|[Auriok Champion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=72921)     |
+|                    3|[Ranger-Captain of Eos](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463970)  |                    2|[Leonin Relic-Warder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=432997)|
+|                    3|[Thraben Inspector](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409784)      |                    2|[Auriok Champion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=72921)     |
 |                   12|[Snow-Covered Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121267)    |                    1|[Mirran Crusader](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=213802)    |
 |                    1|[Tectonic Edge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389711)          |                    1|[Weathered Wayfarer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=83311)  |
 |                    2|[Tectonic Edge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389711)          |                    2|[Mirran Crusader](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=213802)    |

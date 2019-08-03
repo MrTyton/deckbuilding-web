@@ -69,8 +69,8 @@
 2 Curfew
 3 Faerie Seer
 3 Changeling Outcast
-4 Ingenious Infiltrator
 4 Faerie Seer
+4 Ingenious Infiltrator
 4 Changeling Outcast
 1 Glint-Nest Crane
 1 Urza, Lord High Artificer
@@ -92,7 +92,6 @@
 2 Darksteel Citadel
 2 Seat of the Synod
 2 Vault Skirge
-2 Ancient Tomb
 2 Etched Champion
 2 City of Traitors
 2 The Antiquities War
@@ -100,10 +99,11 @@
 2 Chalice of the Void
 2 Glint-Nest Crane
 2 Cranial Plating
+2 Ancient Tomb
 3 Mox Opal
 3 Master of Etherium
-3 Darksteel Citadel
 3 Sai, Master Thopterist
+3 Darksteel Citadel
 3 The Antiquities War
 3 Ancient Tomb
 3 Chalice of the Void
@@ -124,9 +124,9 @@
 1 Death's Shadow
 1 Street Wraith
 1 Watery Grave
-1 Reanimate
 1 Delver of Secrets
 1 Wasteland
+1 Reanimate
 2 Marsh Flats
 2 Street Wraith
 2 Death's Shadow

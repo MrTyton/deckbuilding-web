@@ -8,8 +8,8 @@
 3 Legion Loyalist
 4 Goblin Piledriver
 1 Skirk Prospector
-1 Mutavault
 1 Fiery Islet
+1 Mutavault
 1 Knucklebone Witch
 1 Legion Warboss
 2 Sling-Gang Lieutenant
@@ -23,8 +23,8 @@
 3 Skirk Prospector
 4 Knucklebone Witch
 4 Skirk Prospector
+1 Faithless Looting
 1 Unearth
-1 Mayhem Devil
 1 Gravecrawler
 1 Bloodghast
 1 Greater Gargadon
@@ -34,41 +34,41 @@
 1 Polluted Delta
 1 Hogaak, Arisen Necropolis
 1 Cryptbreaker
-1 Faithless Looting
+1 Mayhem Devil
+2 Faithless Looting
 2 Swamp
-2 Mayhem Devil
 2 Carrion Feeder
+2 Mayhem Devil
 2 Bloodghast
 2 Hogaak, Arisen Necropolis
 2 Greater Gargadon
 2 Stitcher's Supplier
 2 Gravecrawler
-2 Faithless Looting
 2 Unearth
 2 Polluted Delta
 2 Marsh Flats
 2 Cryptbreaker
-3 Mayhem Devil
+3 Faithless Looting
 3 Hogaak, Arisen Necropolis
 3 Cryptbreaker
 3 Polluted Delta
 3 Carrion Feeder
-3 Faithless Looting
 3 Unearth
+3 Mayhem Devil
 3 Bloodghast
 3 Marsh Flats
 3 Greater Gargadon
 3 Stitcher's Supplier
 3 Gravecrawler
-4 Mayhem Devil
 4 Bloodghast
+4 Faithless Looting
 4 Cryptbreaker
 4 Unearth
 4 Hogaak, Arisen Necropolis
 4 Gravecrawler
 4 Stitcher's Supplier
-4 Faithless Looting
 4 Carrion Feeder
+4 Mayhem Devil
 4 Greater Gargadon
 1 Arid Mesa
 2 Arid Mesa
@@ -95,46 +95,46 @@
 4 Warren Instigator
 4 Mudbutton Torchrunner
 5 Snow-Covered Mountain
-1 Light Up the Stage
-1 Goblin Guide
-1 Rift Bolt
-1 Lightning Bolt
-1 Lava Spike
-1 Searing Blaze
 1 Monastery Swiftspear
+1 Light Up the Stage
+1 Searing Blaze
 1 Lightning Skelemental
 1 Bump in the Night
+1 Lava Spike
+1 Lightning Bolt
 1 Ball Lightning
-1 Sulfurous Springs
 1 Dragonskull Summit
-2 Light Up the Stage
-2 Rift Bolt
-2 Lava Spike
-2 Lightning Bolt
-2 Goblin Guide
-2 Searing Blaze
+1 Rift Bolt
+1 Sulfurous Springs
+1 Goblin Guide
 2 Monastery Swiftspear
+2 Light Up the Stage
+2 Searing Blaze
 2 Ball Lightning
+2 Goblin Guide
+2 Lava Spike
 2 Bump in the Night
 2 Sulfurous Springs
+2 Lightning Bolt
 2 Lightning Skelemental
-3 Rift Bolt
-3 Lightning Bolt
-3 Lava Spike
-3 Searing Blaze
+2 Rift Bolt
 3 Monastery Swiftspear
+3 Searing Blaze
+3 Lava Spike
+3 Lightning Bolt
+3 Rift Bolt
 3 Ball Lightning
 3 Goblin Guide
 3 Lightning Skelemental
 3 Sulfurous Springs
 3 Bump in the Night
-4 Lava Spike
-4 Lightning Bolt
-4 Rift Bolt
-4 Searing Blaze
 4 Monastery Swiftspear
 4 Lightning Skelemental
+4 Searing Blaze
 4 Sulfurous Springs
+4 Rift Bolt
+4 Lightning Bolt
+4 Lava Spike
 4 Arid Mesa
 4 Mountain
 4 Ball Lightning

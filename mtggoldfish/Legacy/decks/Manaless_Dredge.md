@@ -1,7 +1,7 @@
 # Manaless Dredge
 
 #### [Export MTGO List](../collection/Manaless%20Dredge/Manaless%20Dredge.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Bridge%20from%20Below%0A4%09Cabal%20Therapy%0A3%09Chancellor%20of%20the%20Annex%0A3%09Dread%20Return%0A4%09Golgari%20Grave-Troll%0A4%09Golgari%20Thug%0A1%09Greater%20Mossdog%0A2%09Hogaak,%20Arisen%20Necropolis%0A4%09Ichorid%0A1%09Lotleth%20Giant%0A4%09Narcomoeba%0A3%09Nether%20Shadow%0A4%09Phantasmagorian%0A4%09Prized%20Amalgam%0A4%09Shambling%20Shell%0A4%09Stinkweed%20Imp%0A4%09Street%20Wraith%0A3%09Whirlpool%20Rider&deckside=1%09Ashen%20Rider%0A1%09Contagion%0A3%09Faerie%20Macabre%0A3%09Force%20of%20Vigor%0A3%09Force%20of%20Will%0A2%09Mindbreak%20Trap%0A2%09Sickening%20Shoal)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Bridge%20from%20Below%0A4%09Cabal%20Therapy%0A3%09Chancellor%20of%20the%20Annex%0A3%09Dread%20Return%0A4%09Golgari%20Grave-Troll%0A4%09Golgari%20Thug%0A1%09Greater%20Mossdog%0A2%09Hogaak,%20Arisen%20Necropolis%0A4%09Ichorid%0A1%09Lotleth%20Giant%0A4%09Narcomoeba%0A3%09Nether%20Shadow%0A4%09Phantasmagorian%0A4%09Prized%20Amalgam%0A4%09Shambling%20Shell%0A4%09Stinkweed%20Imp%0A4%09Street%20Wraith%0A3%09Whirlpool%20Rider&deckside=1%09Ashen%20Rider%0A3%09Faerie%20Macabre%0A3%09Force%20of%20Vigor%0A4%09Force%20of%20Will%0A2%09Mindbreak%20Trap%0A2%09Sickening%20Shoal)
 # Maindeck
 
 |                                            Creature (49)                                             |                                       Enchantment (4)                                        |                                       Sorcery (7)                                        |
@@ -27,9 +27,8 @@
 
 |                                       Creature (4)                                        |                                       Instant (11)                                        |
 |-------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
-|1 [Ashen Rider](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373689)   |1 [Contagion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3069)       |
-|3 [Faerie Macabre](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=201822)|3 [Force of Vigor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464113)|
-|                                                                                           |3 [Force of Will](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3107)   |
+|1 [Ashen Rider](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373689)   |3 [Force of Vigor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464113)|
+|3 [Faerie Macabre](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=201822)|4 [Force of Will](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3107)   |
 |                                                                                           |2 [Mindbreak Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197532)|
 |                                                                                           |2 [Sickening Shoal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=74127)|
 
@@ -38,15 +37,15 @@
 
 |*n*<sup>th</sup> copy|                                           Maindeck Card                                            |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
 |--------------------:|----------------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
-|                    1|[Flayer of the Hatebound](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=262853)  |                    2|[Contagion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3069)            |
-|                    1|[Balustrade Spy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=366464)           |                    3|[Mindbreak Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197532)     |
-|                    1|[Creeping Chill](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452816)           |                    4|[Force of Vigor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464113)     |
-|                    2|[Creeping Chill](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452816)           |                    1|[Progenitus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=179496)         |
-|                    2|[Balustrade Spy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=366464)           |                    1|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)|
-|                    3|[Creeping Chill](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452816)           |                    2|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)|
-|                    3|[Balustrade Spy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=366464)           |                    3|[Contagion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3069)            |
-|                    4|[Creeping Chill](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452816)           |                    3|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)|
-|                    4|[Nether Shadow](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=669)               |                    4|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)|
-|                    4|[Dread Return](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389491)             |                    4|[Force of Will](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3107)        |
+|                    1|[Flayer of the Hatebound](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=262853)  |                    1|[Contagion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3069)            |
+|                    1|[Balustrade Spy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=366464)           |                    2|[Contagion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3069)            |
+|                    1|[Creeping Chill](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452816)           |                    3|[Mindbreak Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197532)     |
+|                    2|[Creeping Chill](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452816)           |                    4|[Force of Vigor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464113)     |
+|                    2|[Balustrade Spy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=366464)           |                    1|[Progenitus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=179496)         |
+|                    3|[Creeping Chill](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452816)           |                    1|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)|
+|                    3|[Balustrade Spy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=366464)           |                    2|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)|
+|                    4|[Creeping Chill](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452816)           |                    3|[Contagion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3069)            |
+|                    4|[Nether Shadow](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=669)               |                    3|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)|
+|                    4|[Dread Return](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389491)             |                    4|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)|
 |                    3|[Hogaak, Arisen Necropolis](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464151)|                     |                                                                                              |
 

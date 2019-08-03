@@ -1,5 +1,6 @@
 2 Gut Shot
 2 Lava Dart
+2 Fiery Islet
 1 Bedlam Reveler
 1 Light Up the Stage
 1 Monastery Swiftspear
@@ -16,7 +17,6 @@
 4 Monastery Swiftspear
 4 Soul-Scar Mage
 4 Light Up the Stage
-2 Fiery Islet
 4 Lava Spike
 1 Polluted Delta
 3 Mountain
@@ -37,14 +37,27 @@
 12 Mountain
 13 Mountain
 14 Mountain
-2 Bedlam Reveler
+3 Fiery Islet
 1 Snow-Covered Mountain
 2 Snow-Covered Mountain
 15 Mountain
-3 Fiery Islet
 4 Gut Shot
+2 Bedlam Reveler
 1 Seasoned Pyromancer
 2 Flooded Strand
+3 Snow-Covered Mountain
+4 Snow-Covered Mountain
+5 Snow-Covered Mountain
+6 Snow-Covered Mountain
+7 Snow-Covered Mountain
+8 Snow-Covered Mountain
+9 Snow-Covered Mountain
+10 Snow-Covered Mountain
+11 Snow-Covered Mountain
+12 Snow-Covered Mountain
+13 Snow-Covered Mountain
+14 Snow-Covered Mountain
+15 Snow-Covered Mountain
 1 Blistercoil Weird
 2 Sunbaked Canyon
 16 Mountain
@@ -64,19 +77,6 @@
 2 Stomping Ground
 3 Copperline Gorge
 3 Wrenn and Six
-3 Snow-Covered Mountain
-4 Snow-Covered Mountain
-5 Snow-Covered Mountain
-6 Snow-Covered Mountain
-7 Snow-Covered Mountain
-8 Snow-Covered Mountain
-9 Snow-Covered Mountain
-10 Snow-Covered Mountain
-11 Snow-Covered Mountain
-12 Snow-Covered Mountain
-13 Snow-Covered Mountain
-14 Snow-Covered Mountain
-15 Snow-Covered Mountain
 1 Snow-Covered Island
 2 Snow-Covered Island
 3 Snow-Covered Island
@@ -84,17 +84,18 @@
 1 Spell Pierce
 1 Crash Through
 1 Forked Bolt
+1 Blood Moon
 1 Sulfur Falls
 1 Electrostatic Field
 2 Arid Mesa
 2 Blistercoil Weird
 1 Magmatic Insight
 2 Magmatic Insight
-2 Magmatic Sinkhole
 1 Abrade
 1 Unmoored Ego
 1 Watery Grave
 2 Abrade
+2 Magmatic Sinkhole
 1 Lightning Axe
 2 Crackling Drake
 3 Bedlam Reveler
@@ -104,7 +105,5 @@
 3 Opt
 3 Steam Vents
 4 Island
-16 Snow-Covered Mountain
-17 Snow-Covered Mountain
 3 Bloodstained Mire
 3 Wooded Foothills

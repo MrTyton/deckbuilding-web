@@ -1,6 +1,5 @@
 1 Abrupt Decay
 2 Assassin's Trophy
-1 Barren Moor
 3 Blackcleave Cliffs
 1 Blood Crypt
 4 Bloodbraid Elf
@@ -17,6 +16,7 @@
 2 Overgrown Tomb
 2 Raging Ravine
 3 Scavenging Ooze
+1 Seasoned Pyromancer
 1 Stomping Ground
 2 Swamp
 4 Tarmogoyf
@@ -30,8 +30,7 @@ Sideboard
 1 Collector Ouphe
 3 Fulminator Mage
 1 Grafdigger's Cage
-1 Kalitas, Traitor of Ghet
-2 Leyline of the Void
+3 Leyline of the Void
 1 Nihil Spellbomb
 2 Plague Engineer
 1 Surgical Extraction

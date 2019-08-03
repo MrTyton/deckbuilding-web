@@ -1,18 +1,18 @@
 1 Windswept Heath
-1 Noble Hierarch
-1 Scavenging Ooze
 2 Windswept Heath
-2 Noble Hierarch
 3 Windswept Heath
-3 Noble Hierarch
 4 Windswept Heath
+1 Scavenging Ooze
+1 Noble Hierarch
+2 Noble Hierarch
+3 Noble Hierarch
 4 Noble Hierarch
+1 Eladamri's Call
 1 Borborygmos Enraged
 1 Duskwatch Recruiter
 1 Devoted Druid
 1 Vizier of Remedies
 1 Rhonas the Indomitable
-1 Eladamri's Call
 1 Dryad Arbor
 1 Razorverge Thicket
 1 Griselbrand
@@ -25,12 +25,12 @@
 2 Eladamri's Call
 2 Allosaurus Rider
 2 Forest
-2 Neoform
+2 Duskwatch Recruiter
 2 Temple Garden
 2 Eldritch Evolution
-2 Razorverge Thicket
-2 Duskwatch Recruiter
+2 Neoform
 2 Misty Rainforest
+2 Razorverge Thicket
 3 Devoted Druid
 3 Misty Rainforest
 3 Allosaurus Rider
@@ -44,23 +44,60 @@
 4 Eldritch Evolution
 4 Eladamri's Call
 1 Path to Exile
-2 Scavenging Ooze
-1 Silence
 1 Teferi, Time Raveler
 2 Teferi, Time Raveler
+2 Scavenging Ooze
+1 Silence
 1 Incubation/Incongruity
-2 Incubation/Incongruity
 2 Breeding Pool
+2 Incubation/Incongruity
 2 Vizier of Remedies
 1 Fauna Shaman
 2 Fauna Shaman
 3 Fauna Shaman
 4 Fauna Shaman
+1 Godless Shrine
+1 Sacred Foundry
+1 Knight of Autumn
+1 Stomping Ground
 1 Blood Crypt
 1 Wooded Foothills
 2 Wooded Foothills
-1 Verdant Catacombs
+1 Spell Queller
+1 Tarmogoyf
+1 Anafenza, the Foremost
+1 Hexdrinker
+1 Wild Nacatl
+1 Collected Company
+1 Snapcaster Mage
+1 Tribal Flames
+1 Qasali Pridemage
+2 Hexdrinker
+2 Spell Queller
+2 Tarmogoyf
+2 Knight of Autumn
+2 Qasali Pridemage
+2 Snapcaster Mage
+2 Anafenza, the Foremost
+2 Wild Nacatl
+2 Path to Exile
+2 Collected Company
+2 Lightning Bolt
+2 Tribal Flames
+3 Lightning Bolt
+3 Hexdrinker
+3 Knight of Autumn
+3 Tribal Flames
+3 Wild Nacatl
+3 Tarmogoyf
+3 Wooded Foothills
+4 Wooded Foothills
+4 Tribal Flames
+4 Wild Nacatl
+4 Tarmogoyf
+4 Lightning Bolt
 1 Overgrown Tomb
+1 Verdant Catacombs
 2 Verdant Catacombs
 2 Blood Crypt
 2 Overgrown Tomb
@@ -68,13 +105,14 @@
 3 Verdant Catacombs
 4 Verdant Catacombs
 4 Faithless Looting
+1 Lotleth Troll
 1 Ghor-Clan Rampager
 1 Bomat Courier
-1 Lotleth Troll
 1 Collective Brutality
 1 Traverse the Ulvenwald
 1 Thrun, the Last Troll
 1 Cavern of Souls
+1 Samut, Voice of Dissent
 1 Swamp
 1 Nurturing Peatland
 1 Bloodstained Mire
@@ -83,32 +121,69 @@
 1 Zetalpa, Primal Dawn
 1 Drogskol Reaver
 1 Hazoret the Fervent
-1 Samut, Voice of Dissent
+2 Lotleth Troll
 2 Traverse the Ulvenwald
 2 Bomat Courier
-2 Lotleth Troll
 2 Collective Brutality
 2 Samut, Voice of Dissent
+2 Swamp
 2 Soulflayer
 2 Grisly Salvage
-2 Swamp
-2 Nurturing Peatland
-2 Zetalpa, Primal Dawn
-2 Drogskol Reaver
 2 Bloodstained Mire
+2 Nurturing Peatland
+2 Drogskol Reaver
+2 Zetalpa, Primal Dawn
 3 Traverse the Ulvenwald
 3 Bomat Courier
-3 Lotleth Troll
 3 Zetalpa, Primal Dawn
 3 Samut, Voice of Dissent
-3 Soulflayer
+3 Lotleth Troll
 3 Drogskol Reaver
+3 Soulflayer
 3 Bloodstained Mire
 3 Grisly Salvage
 4 Traverse the Ulvenwald
 4 Grisly Salvage
 4 Bloodstained Mire
 4 Soulflayer
+1 City of Brass
+1 Kaya's Guile
+1 Ashiok, Dream Render
+1 Nahiri, the Harbinger
+1 Niv-Mizzet Reborn
+1 Bring to Light
+1 Inquisition of Kozilek
+1 Detention Sphere
+1 Assassin's Trophy
+1 Lightning Helix
+1 Sin Collector
+1 Blooming Marsh
+1 Kolaghan's Command
+1 Bloodbraid Elf
+1 Safewright Quest
+1 Supreme Verdict
+1 Pillar of the Paruns
+1 Kess, Dissident Mage
+1 Izzet Charm
+2 Assassin's Trophy
+2 Pillar of the Paruns
+2 Bring to Light
+2 Bloodbraid Elf
+2 Lightning Helix
+2 Safewright Quest
+2 Inquisition of Kozilek
+2 Izzet Charm
+2 City of Brass
+2 Niv-Mizzet Reborn
+2 Kolaghan's Command
+3 City of Brass
+3 Assassin's Trophy
+3 Lightning Helix
+3 Pillar of the Paruns
+3 Bring to Light
+3 Niv-Mizzet Reborn
+4 Pillar of the Paruns
+4 Lightning Helix
 1 Polluted Delta
 1 Snow-Covered Swamp
 1 Watery Grave
@@ -120,7 +195,6 @@
 1 Gravecrawler
 1 Mana Confluence
 1 Vengevine
-1 City of Brass
 1 Bloodghast
 1 Prized Amalgam
 2 Polluted Delta
@@ -129,12 +203,12 @@
 2 Carrion Feeder
 2 Prized Amalgam
 2 Vengevine
-2 Bloodghast
+2 Hedron Crab
 2 Mana Confluence
 2 Watery Grave
 2 Stitcher's Supplier
 2 Gravecrawler
-2 Hedron Crab
+2 Bloodghast
 3 Polluted Delta
 3 Mana Confluence
 3 Satyr Wayfinder
@@ -157,40 +231,3 @@
 4 Carrion Feeder
 4 Vengevine
 4 Bloodghast
-1 Spell Queller
-1 Tarmogoyf
-1 Anafenza, the Foremost
-1 Hexdrinker
-1 Wild Nacatl
-1 Godless Shrine
-1 Collected Company
-1 Tribal Flames
-1 Qasali Pridemage
-1 Sacred Foundry
-1 Knight of Autumn
-1 Snapcaster Mage
-1 Stomping Ground
-2 Hexdrinker
-2 Spell Queller
-2 Tarmogoyf
-2 Knight of Autumn
-2 Qasali Pridemage
-2 Snapcaster Mage
-2 Anafenza, the Foremost
-2 Wild Nacatl
-2 Path to Exile
-2 Collected Company
-2 Lightning Bolt
-2 Tribal Flames
-3 Lightning Bolt
-3 Hexdrinker
-3 Knight of Autumn
-3 Wooded Foothills
-3 Tribal Flames
-3 Wild Nacatl
-3 Tarmogoyf
-4 Wooded Foothills
-4 Tribal Flames
-4 Wild Nacatl
-4 Tarmogoyf
-4 Lightning Bolt

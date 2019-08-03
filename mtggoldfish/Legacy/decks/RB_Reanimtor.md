@@ -82,7 +82,7 @@
 |                     |                                                                                                 |                    2|[Dreadhorde Butcher](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461121)    |
 |                     |                                                                                                 |                    2|[Lightning Skelemental](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464157) |
 |                     |                                                                                                 |                    3|[Dreadhorde Butcher](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461121)    |
-|                     |                                                                                                 |                    3|[Lightning Skelemental](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464157) |
-|                     |                                                                                                 |                    4|[Dreadhorde Butcher](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461121)    |
 |                     |                                                                                                 |                    4|[Lightning Skelemental](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464157) |
+|                     |                                                                                                 |                    4|[Dreadhorde Butcher](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461121)    |
+|                     |                                                                                                 |                    3|[Lightning Skelemental](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464157) |
 
