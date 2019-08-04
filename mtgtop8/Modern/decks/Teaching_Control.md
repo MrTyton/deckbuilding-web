@@ -1,7 +1,7 @@
 # Teaching Control
 
 #### [Export MTGO List](../collection/Teaching%20Control/Teaching%20Control.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=1%09Abrupt%20Decay%0A1%09Archmage's%20Charm%0A1%09Assassin's%20Trophy%0A1%09Blue%20Sun's%20Zenith%0A2%09Breeding%20Pool%0A2%09Creeping%20Tar%20Pit%0A4%09Cryptic%20Command%0A1%09Drowned%20Catacomb%0A3%09Fatal%20Push%0A1%09Field%20of%20Ruin%0A1%09Flooded%20Grove%0A4%09Growth%20Spiral%0A2%09Hinterland%20Harbor%0A1%09Ice-Fang%20Coatl%0A1%09Logic%20Knot%0A4%09Misty%20Rainforest%0A3%09Mystical%20Teachings%0A1%09Nexus%20of%20Fate%0A4%09Opt%0A3%09Polluted%20Delta%0A1%09Pulse%20of%20Murasa%0A4%09Remand%0A3%09Snapcaster%20Mage%0A1%09Snow-Covered%20Forest%0A4%09Snow-Covered%20Island%0A1%09Snow-Covered%20Swamp%0A2%09Watery%20Grave%0A3%09Wilderness%20Reclamation&deckside=1%09Ceremonious%20Rejection%0A1%09Consume%20the%20Meek%0A1%09Disfigure%0A1%09Echoing%20Decay%0A1%09Fatal%20Push%0A1%09Fracturing%20Gust%0A3%09Ice-Fang%20Coatl%0A1%09Life%20Goes%20On%0A1%09Ravenous%20Trap%0A1%09Snapcaster%20Mage%0A2%09Surgical%20Extraction%0A1%09Weather%20the%20Storm)
+#### [Print on decklist.org](http://decklist.org/?deckmain=1%09Abrupt%20Decay%0A1%09Archmage's%20Charm%0A1%09Assassin's%20Trophy%0A1%09Blue%20Sun's%20Zenith%0A2%09Breeding%20Pool%0A2%09Creeping%20Tar%20Pit%0A4%09Cryptic%20Command%0A1%09Drowned%20Catacomb%0A3%09Fatal%20Push%0A1%09Field%20of%20Ruin%0A1%09Flooded%20Grove%0A4%09Growth%20Spiral%0A2%09Hinterland%20Harbor%0A1%09Ice-Fang%20Coatl%0A1%09Logic%20Knot%0A4%09Misty%20Rainforest%0A3%09Mystical%20Teachings%0A1%09Nexus%20of%20Fate%0A4%09Opt%0A3%09Polluted%20Delta%0A1%09Pulse%20of%20Murasa%0A4%09Remand%0A3%09Snapcaster%20Mage%0A1%09Snow-Covered%20Forest%0A4%09Snow-Covered%20Island%0A1%09Snow-Covered%20Swamp%0A2%09Watery%20Grave%0A3%09Wilderness%20Reclamation&deckside=1%09Ceremonious%20Rejection%0A1%09Consume%20the%20Meek%0A1%09Echoing%20Decay%0A1%09Fatal%20Push%0A1%09Fracturing%20Gust%0A3%09Ice-Fang%20Coatl%0A1%09Life%20Goes%20On%0A1%09Ravenous%20Trap%0A1%09Snapcaster%20Mage%0A2%09Surgical%20Extraction%0A1%09Veil%20of%20Summer%0A1%09Weather%20the%20Storm)
 # Maindeck
 
 |                                        Creature (4)                                        |                                          Enchantment (3)                                          |                                         Instant (29)                                          |                                           Land (24)                                            |
@@ -23,25 +23,24 @@
 
 # Sideboard
 
-|                                        Creature (4)                                        |                                           Instant (11)                                           |
-|--------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
-|3 [Ice-Fang Coatl](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464152) |1 [Ceremonious Rejection](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417613)|
-|1 [Snapcaster Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=227676)|1 [Consume the Meek](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401691)     |
-|                                                                                            |1 [Disfigure](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442076)            |
-|                                                                                            |1 [Echoing Decay](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=46176)         |
-|                                                                                            |1 [Fatal Push](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423724)           |
-|                                                                                            |1 [Fracturing Gust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=146759)      |
-|                                                                                            |1 [Life Goes On](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430810)         |
-|                                                                                            |1 [Ravenous Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197537)        |
-|                                                                                            |2 [Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)  |
-|                                                                                            |1 [Weather the Storm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464140)    |
+|                                        Creature (4)                                        |                                           Instant (10)                                           |  Unknown (1)   |
+|--------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|----------------|
+|3 [Ice-Fang Coatl](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464152) |1 [Ceremonious Rejection](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417613)|1 Veil of Summer|
+|1 [Snapcaster Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=227676)|1 [Consume the Meek](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401691)     |                |
+|                                                                                            |1 [Echoing Decay](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=46176)         |                |
+|                                                                                            |1 [Fatal Push](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423724)           |                |
+|                                                                                            |1 [Fracturing Gust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=146759)      |                |
+|                                                                                            |1 [Life Goes On](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430810)         |                |
+|                                                                                            |1 [Ravenous Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197537)        |                |
+|                                                                                            |2 [Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)  |                |
+|                                                                                            |1 [Weather the Storm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464140)    |                |
 
 
 # Other Options
 
 |*n*<sup>th</sup> copy|                                       Maindeck Card                                        |*n*<sup>th</sup> copy|                                         Sideboard Card                                         |
 |--------------------:|--------------------------------------------------------------------------------------------|--------------------:|------------------------------------------------------------------------------------------------|
-|                    1|[Blast Zone](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461171)       |                    1|Veil of Summer                                                                                  |
+|                    1|[Blast Zone](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461171)       |                    1|[Disfigure](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442076)            |
 |                    2|[Assassin's Trophy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452902)|                    1|[Nimble Obstructionist](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430729)|
 |                    1|[Verdant Catacombs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405113)|                    2|[Ravenous Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197537)        |
 |                    4|[Polluted Delta](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405104)   |                    1|[Torrential Gearhulk](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417640)  |

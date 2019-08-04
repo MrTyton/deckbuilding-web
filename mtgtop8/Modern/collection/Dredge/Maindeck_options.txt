@@ -1,26 +1,15 @@
-1 Cryptbreaker
-2 Cryptbreaker
-3 Blackcleave Cliffs
-1 Watery Grave
-1 Hedron Crab
-2 Hedron Crab
-3 Hedron Crab
-4 Hedron Crab
-1 Fatal Push
-2 Fatal Push
+2 Verdant Catacombs
 1 Wooded Foothills
-3 Verdant Catacombs
-1 Darkblast
-3 Fatal Push
 1 Stomping Ground
-2 Wooded Foothills
-2 Swamp
-1 Blooming Marsh
-1 Mana Confluence
-3 Golgari Thug
+1 Darkblast
+1 Creeping Chill
+2 Creeping Chill
+3 Creeping Chill
+4 Creeping Chill
 1 Stinkweed Imp
 2 Stinkweed Imp
 3 Stinkweed Imp
+2 Wooded Foothills
 1 Mountain
 2 Stomping Ground
 1 Prized Amalgam
@@ -29,36 +18,17 @@
 1 Narcomoeba
 1 Cathartic Reunion
 1 Life from the Loam
-1 Creeping Chill
 2 Prized Amalgam
 2 Conflagrate
-2 Creeping Chill
 2 Narcomoeba
 2 Cathartic Reunion
 2 Life from the Loam
 3 Prized Amalgam
 3 Cathartic Reunion
 3 Life from the Loam
-3 Creeping Chill
 4 Stinkweed Imp
-4 Creeping Chill
-4 Life from the Loam
-3 Wooded Foothills
-2 Mana Confluence
-2 Watery Grave
-1 Claim / Fame
-1 Lotleth Troll
-1 Leyline of the Void
-1 Nurturing Peatland
-2 Leyline of the Void
-2 Lotleth Troll
-3 Leyline of the Void
-1 Snow-Covered Swamp
-1 Steam Vents
 2 Mountain
-4 Verdant Catacombs
-4 Cathartic Reunion
-1 Forgotten Cave
+4 Life from the Loam
 1 Shriekhorn
 2 Copperline Gorge
 2 Shriekhorn
@@ -67,36 +37,66 @@
 3 Narcomoeba
 4 Narcomoeba
 4 Shriekhorn
-4 Wooded Foothills
-4 Insolent Neonate
-2 Snow-Covered Swamp
-1 Assassin's Trophy
-2 Assassin's Trophy
-3 Lightning Axe
-1 Dryad Arbor
-1 Blast Zone
+4 Cathartic Reunion
+1 Forgotten Cave
+2 Blackcleave Cliffs
+1 Fatal Push
+1 Insolent Neonate
+2 Insolent Neonate
+3 Insolent Neonate
 1 Arid Mesa
 2 Arid Mesa
-3 Marsh Flats
-4 Copperline Gorge
-4 Fatal Push
-1 Seasoned Pyromancer
-4 Blackcleave Cliffs
-1 Scalding Tarn
+3 Golgari Thug
+1 Mana Confluence
+2 Fatal Push
+1 Cryptbreaker
+2 Cryptbreaker
+2 Marsh Flats
+3 Blackcleave Cliffs
+1 Blast Zone
+2 Mana Confluence
+2 Watery Grave
+3 Gemstone Mine
+4 Gemstone Mine
+3 Fatal Push
+3 Verdant Catacombs
+1 Nurturing Peatland
+2 Swamp
+3 Wooded Foothills
+4 Insolent Neonate
+1 Assassin's Trophy
+2 Assassin's Trophy
+1 Claim / Fame
+1 Blooming Marsh
+1 Leyline of the Void
+1 Lotleth Troll
+2 Leyline of the Void
+2 Lotleth Troll
+3 Leyline of the Void
+1 Snow-Covered Swamp
 1 City of Brass
+1 Scalding Tarn
+4 Copperline Gorge
+4 Prized Amalgam
+4 Verdant Catacombs
+1 Seasoned Pyromancer
+4 Wooded Foothills
+4 Blackcleave Cliffs
+1 Dakmor Salvage
+1 Dryad Arbor
+2 Snow-Covered Swamp
+1 Altar of Dementia
+2 Altar of Dementia
 1 Forest
 2 Seasoned Pyromancer
-3 Blood Crypt
+2 Scalding Tarn
+3 Lightning Axe
 3 Stomping Ground
-1 Dakmor Salvage
-4 Prized Amalgam
-3 Cryptbreaker
-4 Cryptbreaker
 1 Lightning Skelemental
 1 Ball Lightning
 1 Thunderkin Awakener
-1 Burning-Tree Emissary
 1 Reckless Bushwhacker
+1 Burning-Tree Emissary
 1 Bloodrage Brawler
 1 Flamekin Harbinger
 1 Lightning Bolt
@@ -121,7 +121,6 @@
 4 Burning-Tree Emissary
 4 Flamekin Harbinger
 4 Lightning Bolt
-1 Altar of Dementia
-2 Altar of Dementia
-3 Gemstone Mine
-4 Gemstone Mine
+3 Marsh Flats
+3 Blood Crypt
+4 Fatal Push
