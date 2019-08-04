@@ -54,8 +54,8 @@
 |                    3|[Opt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442948)                |                     |                                                                                                |
 |                    3|[Polluted Delta](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405104)     |                     |                                                                                                |
 |                    4|[Misty Rainforest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405102)   |                     |                                                                                                |
-|                    4|[Opt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442948)                |                     |                                                                                                |
 |                    4|[Polluted Delta](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405104)     |                     |                                                                                                |
+|                    4|[Opt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442948)                |                     |                                                                                                |
 |                    7|[Snow-Covered Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121130)|                     |                                                                                                |
 |                    3|[Snapcaster Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=227676)    |                     |                                                                                                |
 
