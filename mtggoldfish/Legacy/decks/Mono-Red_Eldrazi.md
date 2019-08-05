@@ -50,6 +50,6 @@
 |                     |                                                                                                    |                    2|[Thorn of Amethyst](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=140166)         |
 |                     |                                                                                                    |                    1|[Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)                    |
 |                     |                                                                                                    |                    1|Chandra, Awakened Inferno                                                                            |
-|                     |                                                                                                    |                    1|[Ravenous Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197537)             |
 |                     |                                                                                                    |                    2|[Ravenous Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197537)             |
+|                     |                                                                                                    |                    1|[Ravenous Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197537)             |
 

@@ -16,6 +16,7 @@
 3 Faerie Macabre
 3 Street Wraith
 4 Street Wraith
+1 Blackcleave Cliffs
 1 Stomping Ground
 1 Copperline Gorge
 1 Simian Spirit Guide
@@ -24,7 +25,6 @@
 1 Monstrous Carabid
 1 Horror of the Broken Lands
 1 Demonic Dread
-1 Blackcleave Cliffs
 1 Blood Crypt
 1 Swamp
 1 Beast Within
@@ -54,11 +54,11 @@
 3 Violent Outburst
 3 Demonic Dread
 3 Beast Within
-4 Blackcleave Cliffs
 4 Verdant Catacombs
 4 Demonic Dread
 4 Violent Outburst
 4 Monstrous Carabid
+4 Blackcleave Cliffs
 4 Horror of the Broken Lands
 1 Cathartic Reunion
 1 Snow-Covered Mountain
@@ -70,9 +70,9 @@
 1 Viashino Sandsprinter
 1 Path to Exile
 1 Faithless Looting
-2 Mountain
 2 Restoration Angel
 2 Cathartic Reunion
+2 Mountain
 2 Snow-Covered Mountain
 2 Kiki-Jiki, Mirror Breaker
 2 Sacred Foundry
@@ -82,8 +82,8 @@
 2 Faithless Looting
 2 Viashino Sandsprinter
 3 Cathartic Reunion
-3 Mountain
 3 Restoration Angel
+3 Mountain
 3 Sacred Foundry
 3 Snow-Covered Mountain
 3 Path to Exile
@@ -94,8 +94,8 @@
 3 Hollow One
 4 Inspiring Vantage
 4 Cathartic Reunion
-4 Mountain
 4 Restoration Angel
+4 Mountain
 4 Snow-Covered Mountain
 4 Sacred Foundry
 4 Faerie Macabre
