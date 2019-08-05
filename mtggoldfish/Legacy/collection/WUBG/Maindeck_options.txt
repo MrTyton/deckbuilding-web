@@ -1,57 +1,56 @@
-1 Misty Rainforest
 1 Savannah
+1 Misty Rainforest
 1 Green Sun's Zenith
 2 Green Sun's Zenith
+1 Forest
 1 Tropical Island
 2 Misty Rainforest
-1 Forest
-1 Cast Out
-1 Utopia Sprawl
-1 Solitary Confinement
-1 Serra's Sanctum
-1 Enchantress's Presence
-1 Oblivion Ring
-1 Elephant Grass
-1 Hall of Heliod's Generosity
+1 Mirri's Guile
+1 Wild Growth
+1 Abundant Growth
 1 Doomwake Giant
+1 Enchantress's Presence
+1 Elephant Grass
+1 Oblivion Ring
+1 Serra's Sanctum
+1 Solitary Confinement
+1 Utopia Sprawl
+1 Cast Out
+1 Hall of Heliod's Generosity
+1 Argothian Enchantress
 1 Windswept Heath
 1 Estrid's Invocation
 1 Wooded Foothills
-1 Argothian Enchantress
-1 Abundant Growth
-1 Wild Growth
-1 Mirri's Guile
 1 Ground Seal
-2 Utopia Sprawl
-2 Oblivion Ring
-2 Ground Seal
-2 Estrid's Invocation
-2 Elephant Grass
-2 Forest
+2 Serra's Sanctum
+2 Abundant Growth
+2 Wild Growth
 2 Argothian Enchantress
 2 Enchantress's Presence
-2 Wild Growth
-2 Abundant Growth
-2 Serra's Sanctum
-3 Utopia Sprawl
-3 Argothian Enchantress
-3 Wild Growth
-3 Elephant Grass
-3 Forest
-3 Enchantress's Presence
+2 Elephant Grass
+2 Oblivion Ring
+2 Utopia Sprawl
+2 Ground Seal
+2 Estrid's Invocation
+2 Forest
 3 Abundant Growth
-4 Utopia Sprawl
-4 Elephant Grass
-4 Abundant Growth
-4 Wild Growth
-4 Forest
+3 Enchantress's Presence
+3 Elephant Grass
+3 Wild Growth
+3 Argothian Enchantress
+3 Utopia Sprawl
+3 Forest
 4 Enchantress's Presence
+4 Wild Growth
+4 Elephant Grass
+4 Utopia Sprawl
+4 Abundant Growth
+4 Forest
 5 Forest
 6 Forest
 7 Forest
 8 Forest
 2 Cast Out
-1 Abrupt Decay
 2 Polluted Delta
 3 Polluted Delta
 1 Cabal Therapy
@@ -59,8 +58,45 @@
 2 Cabal Therapy
 3 Verdant Catacombs
 3 Cabal Therapy
-1 Snow-Covered Forest
+1 Ghost Quarter
+1 Fierce Empath
+1 Ramunap Excavator
+1 Reclamation Sage
+1 Titania, Protector of Argoth
+1 Elvish Reclaimer
+1 Satyr Wayfinder
+1 Ancient Tomb
+1 Khalni Garden
+1 Wasteland
+1 Gaddock Teeg
+1 Mox Diamond
+1 Sylvan Safekeeper
+1 Hogaak, Arisen Necropolis
+1 Crop Rotation
+1 Bojuka Bog
+1 Sejiri Steppe
+2 Ancient Tomb
+2 Crop Rotation
+2 Elvish Reclaimer
+2 Satyr Wayfinder
+2 Mox Diamond
+3 Ancient Tomb
+3 Crop Rotation
+3 Green Sun's Zenith
+3 Mox Diamond
+3 Elvish Reclaimer
+3 Satyr Wayfinder
+4 Verdant Catacombs
+4 Dark Depths
+4 Mox Diamond
+4 Crop Rotation
+4 Elvish Reclaimer
+4 Thespian's Stage
+4 Green Sun's Zenith
+3 Vampire Hexmage
+1 Abrupt Decay
 1 Snow-Covered Swamp
+1 Snow-Covered Forest
 1 Parasitic Strix
 1 Brainstorm
 1 Leovold, Emissary of Trest
@@ -88,9 +124,9 @@
 2 Aluren
 3 Recruiter of the Guard
 3 Misty Rainforest
-3 Aluren
 3 Force of Will
 3 Brainstorm
+3 Aluren
 3 Ponder
 3 Ice-Fang Coatl
 4 Cabal Therapy
@@ -100,43 +136,8 @@
 4 Brainstorm
 4 Force of Will
 1 Collective Brutality
+1 Emrakul, the Aeons Torn
 1 Baleful Strix
 2 Baleful Strix
-3 Vampire Hexmage
-1 Ghost Quarter
-1 Fierce Empath
-1 Titania, Protector of Argoth
-1 Ramunap Excavator
-1 Wasteland
-1 Ancient Tomb
-1 Reclamation Sage
-1 Satyr Wayfinder
-1 Elvish Reclaimer
-1 Khalni Garden
-1 Gaddock Teeg
-1 Mox Diamond
-1 Sylvan Safekeeper
-1 Hogaak, Arisen Necropolis
-1 Crop Rotation
-1 Bojuka Bog
-1 Sejiri Steppe
-2 Ancient Tomb
-2 Crop Rotation
-2 Elvish Reclaimer
-2 Satyr Wayfinder
-2 Mox Diamond
-3 Ancient Tomb
-3 Crop Rotation
-3 Green Sun's Zenith
-3 Mox Diamond
-3 Elvish Reclaimer
-3 Satyr Wayfinder
-4 Verdant Catacombs
-4 Green Sun's Zenith
-4 Mox Diamond
-4 Crop Rotation
-4 Dark Depths
-4 Elvish Reclaimer
-4 Thespian's Stage
 1 Scavenging Ooze
 4 Ponder

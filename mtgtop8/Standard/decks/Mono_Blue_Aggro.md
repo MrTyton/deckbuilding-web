@@ -59,9 +59,9 @@
 |                     |                                                                                              |                    4|[Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)                 |
 |                     |                                                                                              |                    1|[God-Eternal Kefnet](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460980)     |
 |                     |                                                                                              |                    1|[Mesmerizing Benthid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457187)    |
-|                     |                                                                                              |                    1|[The Immortal Sun](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439844)       |
 |                     |                                                                                              |                    1|[Narset, Parter of Veils](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460988)|
 |                     |                                                                                              |                    1|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)                 |
+|                     |                                                                                              |                    1|[The Immortal Sun](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439844)       |
 |                     |                                                                                              |                    2|[God-Eternal Kefnet](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460980)     |
 |                     |                                                                                              |                    2|[Narset, Parter of Veils](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460988)|
 

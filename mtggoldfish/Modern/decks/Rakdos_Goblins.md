@@ -39,7 +39,7 @@
 |                    3|[Munitions Expert](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464158)     |                     |                                                                                            |
 |                    4|[Munitions Expert](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464158)     |                     |                                                                                            |
 |                    1|[Stingscourger](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413691)        |                     |                                                                                            |
-|                    2|[Tarfire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=157921)              |                     |                                                                                            |
-|                    3|[Sling-Gang Lieutenant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464057)|                     |                                                                                            |
 |                    1|[Tarfire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=157921)              |                     |                                                                                            |
+|                    3|[Sling-Gang Lieutenant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464057)|                     |                                                                                            |
+|                    2|[Tarfire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=157921)              |                     |                                                                                            |
 

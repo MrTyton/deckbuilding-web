@@ -22,9 +22,9 @@
 1 Spire of Industry
 1 Ancient Stirrings
 1 Tectonic Edge
-2 Spirebluff Canal
 2 Glimmervoid
 2 Chalice of the Void
+2 Spirebluff Canal
 2 Island
 2 Spire of Industry
 2 Botanical Sanctum
@@ -50,10 +50,6 @@
 2 Narset, Parter of Veils
 1 Teferi's Puzzle Box
 1 Welding Jar
-1 Wurmcoil Engine
-2 Sai, Master Thopterist
-4 Teferi, Time Raveler
-4 Karn, the Great Creator
 1 Talisman of Progress
 1 Fiery Islet
 2 Talisman of Progress
@@ -64,6 +60,7 @@
 1 Fatal Push
 1 Ice-Fang Coatl
 1 Nihil Spellbomb
+1 Tezzeret, Agent of Bolas
 1 Snow-Covered Forest
 1 Abrupt Decay
 1 Assassin's Trophy
@@ -73,7 +70,6 @@
 1 Dead of Winter
 1 Breeding Pool
 1 Misty Rainforest
-1 Tezzeret, Agent of Bolas
 1 Polluted Delta
 1 Darksteel Citadel
 2 Serum Visions
@@ -92,7 +88,11 @@
 3 Misty Rainforest
 3 Darksteel Citadel
 4 Serum Visions
-4 Nihil Spellbomb
 4 Ice-Fang Coatl
+4 Nihil Spellbomb
 4 Polluted Delta
 4 Darksteel Citadel
+1 Wurmcoil Engine
+2 Sai, Master Thopterist
+4 Teferi, Time Raveler
+4 Karn, the Great Creator

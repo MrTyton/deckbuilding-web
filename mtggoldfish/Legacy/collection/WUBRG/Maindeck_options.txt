@@ -1,104 +1,91 @@
-1 Narcomoeba
-1 Cabal Therapy
-1 Street Wraith
-1 Dread Return
-2 Narcomoeba
-2 Cabal Therapy
-2 Street Wraith
-3 Street Wraith
-3 Narcomoeba
-4 Narcomoeba
-1 Balustrade Spy
-1 Elvish Spirit Guide
-1 Dark Ritual
-1 Wild Cantor
-1 Pact of Negation
-1 Lotleth Giant
-1 Summoner's Pact
-1 Cabal Ritual
-1 Simian Spirit Guide
-1 Chancellor of the Annex
-1 Chrome Mox
-1 Manamorphose
-1 Undercity Informer
-1 Lotus Petal
-2 Balustrade Spy
-2 Dark Ritual
-2 Pact of Negation
-2 Cabal Ritual
-2 Chrome Mox
-2 Elvish Spirit Guide
-2 Summoner's Pact
-2 Manamorphose
-2 Chancellor of the Annex
-2 Simian Spirit Guide
-2 Undercity Informer
-2 Lotus Petal
-3 Balustrade Spy
-3 Dark Ritual
-3 Pact of Negation
-3 Manamorphose
-3 Chancellor of the Annex
-3 Undercity Informer
-3 Lotus Petal
-3 Elvish Spirit Guide
-3 Summoner's Pact
-3 Cabal Ritual
-3 Simian Spirit Guide
-3 Chrome Mox
-4 Dark Ritual
-4 Pact of Negation
-4 Summoner's Pact
-4 Cabal Ritual
-4 Lotus Petal
-4 Chancellor of the Annex
-4 Undercity Informer
-4 Manamorphose
-4 Chrome Mox
-4 Elvish Spirit Guide
-4 Simian Spirit Guide
-4 Balustrade Spy
-1 Meren of Clan Nel Toth
-1 Birds of Paradise
-2 Inquisition of Kozilek
-2 Tarmogoyf
-2 Abrupt Decay
 2 Jace, the Mind Sculptor
-2 Underground Sea
-4 Force of Will
+1 Force of Negation
+1 Spell Snare
+1 Assassin's Trophy
+2 Spell Snare
+2 Force of Negation
+3 Wrenn and Six
+3 Tropical Island
+1 Cunning Wish
+1 Preordain
+1 Veil of Summer
+1 Show and Tell
+1 Ponder
+1 Omniscience
+1 Lim-Dul's Vault
+1 Emrakul, the Aeons Torn
+1 Prismatic Vista
+1 Griselbrand
+1 Lotus Petal
+2 Cunning Wish
+2 Preordain
+2 Snow-Covered Island
+2 Omniscience
+2 Ponder
+2 Prismatic Vista
+2 Show and Tell
+2 Griselbrand
+2 Lotus Petal
+3 Omniscience
+3 Cunning Wish
+3 Snow-Covered Island
+3 Preordain
+3 Thoughtseize
+3 Prismatic Vista
+3 Show and Tell
+3 Griselbrand
+3 Lotus Petal
+3 Ponder
+4 Omniscience
+4 Snow-Covered Island
+4 Lotus Petal
+4 Show and Tell
+4 Griselbrand
+4 Thoughtseize
+4 Ponder
+4 Prismatic Vista
 1 Flayer of the Hatebound
 1 River Kelpie
 1 Dakmor Salvage
 1 Bloodghast
-1 Golgari Grave-Troll
 1 Golgari Thug
 1 Edge of Autumn
 1 Phantasmagorian
 1 Ichorid
 1 Stinkweed Imp
+1 Narcomoeba
 1 Bridge from Below
+1 Cabal Therapy
+1 Golgari Grave-Troll
+1 Street Wraith
+1 Dread Return
 2 River Kelpie
 2 Edge of Autumn
 2 Dakmor Salvage
-2 Dread Return
 2 Bloodghast
+2 Dread Return
 2 Phantasmagorian
-2 Stinkweed Imp
 2 Golgari Thug
 2 Ichorid
 2 Dryad Arbor
+2 Narcomoeba
 2 Bridge from Below
+2 Cabal Therapy
 2 Golgari Grave-Troll
+2 Street Wraith
+2 Stinkweed Imp
 3 Edge of Autumn
 3 Dryad Arbor
 3 River Kelpie
 3 Dakmor Salvage
 3 Bloodghast
 3 Golgari Grave-Troll
+3 Street Wraith
 3 Dread Return
 3 Golgari Thug
 3 Ichorid
 3 Stinkweed Imp
+3 Narcomoeba
 3 Phantasmagorian
 3 Bridge from Below
 3 Cabal Therapy
@@ -110,8 +97,65 @@
 4 Golgari Thug
 4 Ichorid
 4 Phantasmagorian
+4 Narcomoeba
 4 Golgari Grave-Troll
 4 Street Wraith
 4 Stinkweed Imp
 4 Bridge from Below
 4 Cabal Therapy
+1 Karakas
+1 Aether Vial
+1 Unsettled Mariner
+1 Ancient Ziggurat
+1 Galerider Sliver
+1 Sinew Sliver
+1 Unclaimed Territory
+1 Predatory Sliver
+1 Muscle Sliver
+1 Cloudshredder Sliver
+1 Mutavault
+1 Cavern of Souls
+1 Sliver Hive
+1 Crystalline Sliver
+1 Plated Sliver
+1 Striking Sliver
+1 Hibernation Sliver
+2 Unsettled Mariner
+2 Aether Vial
+2 Ancient Ziggurat
+2 Sinew Sliver
+2 Hibernation Sliver
+2 Plated Sliver
+2 Striking Sliver
+2 Sliver Hive
+2 Unclaimed Territory
+2 Predatory Sliver
+2 Crystalline Sliver
+2 Cloudshredder Sliver
+2 Karakas
+2 Galerider Sliver
+2 Cavern of Souls
+2 Muscle Sliver
+2 Mutavault
+3 Aether Vial
+3 Hibernation Sliver
+3 Plated Sliver
+3 Mutavault
+3 Cavern of Souls
+3 Sliver Hive
+3 Striking Sliver
+3 Ancient Ziggurat
+3 Galerider Sliver
+3 Sinew Sliver
+3 Predatory Sliver
+3 Unclaimed Territory
+3 Crystalline Sliver
+4 Aether Vial
+4 Crystalline Sliver
+4 Sinew Sliver
+4 Unclaimed Territory
+4 Cavern of Souls
+4 Predatory Sliver
+4 Sliver Hive
+4 Galerider Sliver
+4 Hibernation Sliver
