@@ -26,8 +26,8 @@
 
 |*n*<sup>th</sup> copy|                                          Maindeck Card                                           |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
 |--------------------:|--------------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
-|                    1|[Raise the Alarm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416853)        |                    1|[Leyline of Sanctity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=204993)|
-|                    2|[Raise the Alarm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416853)        |                    1|[Settle the Wreckage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435186)|
+|                    1|[Raise the Alarm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416853)        |                    1|[Settle the Wreckage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435186)|
+|                    2|[Raise the Alarm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416853)        |                    1|[Leyline of Sanctity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=204993)|
 |                    3|[Raise the Alarm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416853)        |                    1|[Ripjaw Raptor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435359)      |
 |                    3|[March of the Multitudes](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452938)|                    1|Veil of Summer                                                                                |
 |                    4|[Raise the Alarm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416853)        |                    1|[Tendershoot Dryad](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439804)  |

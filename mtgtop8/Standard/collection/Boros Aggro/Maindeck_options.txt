@@ -1,10 +1,12 @@
 2 Gird for Battle
+3 Legion Warboss
 1 Aurelia, Exemplar of Justice
 3 Gideon Blackblade
 4 Mountain
-3 Legion Warboss
 1 Tomik, Distinguished Advokist
+1 Ajani, Adversary of Tyrants
 8 Plains
+1 Infuriate
 1 Dauntless Bodyguard
 2 Dauntless Bodyguard
 3 Dauntless Bodyguard
@@ -43,43 +45,30 @@
 10 Plains
 11 Plains
 12 Plains
-1 Ajani, Adversary of Tyrants
-1 Infuriate
-1 Krenko, Tin Street Kingpin
-2 Aurelia, Exemplar of Justice
-2 Sheltering Light
-3 Sheltering Light
-1 Stomping Ground
-1 Rootbound Crag
-1 Temple Garden
-2 Stomping Ground
-2 Rootbound Crag
-2 Temple Garden
-3 Stomping Ground
-1 Deafening Clarion
-2 Deafening Clarion
 1 Tajic, Legion's Edge
 2 Tajic, Legion's Edge
-3 Temple Garden
-4 Temple Garden
-4 Stomping Ground
-2 Krenko, Tin Street Kingpin
+1 Krenko, Tin Street Kingpin
+2 Aurelia, Exemplar of Justice
 1 Boros Guildgate
+1 Lyra Dawnbringer
 1 Lava Coil
 2 Lava Coil
 3 Aurelia, Exemplar of Justice
-1 Lyra Dawnbringer
+1 Stomping Ground
+1 Rootbound Crag
 1 Sunpetal Grove
+1 Temple Garden
 1 Captain Lannery Storm
 1 Domri, Anarch of Bolas
+2 Stomping Ground
+2 Rootbound Crag
 2 Captain Lannery Storm
 2 Domri, Anarch of Bolas
-2 Infuriate
+2 Temple Garden
+3 Stomping Ground
 1 Integrity / Intervention
 2 Integrity / Intervention
-1 Moment of Triumph
-1 Collision / Colossus
-2 Collision / Colossus
+2 Infuriate
 1 Unbreakable Formation
 3 Conclave Tribunal
 4 Conclave Tribunal
@@ -88,15 +77,17 @@
 3 Liliana, Dreadhorde General
 4 Liliana, Dreadhorde General
 4 Legion Warboss
-1 Prison Realm
 1 Chandra, Awakened Inferno
+1 Prison Realm
 1 Justice Strike
 1 Resplendent Angel
 1 Bishop of Wings
-2 Lyra Dawnbringer
+1 Deafening Clarion
 2 Chandra, Awakened Inferno
+2 Lyra Dawnbringer
 2 Justice Strike
 2 Resplendent Angel
+2 Deafening Clarion
 2 Bishop of Wings
 2 Prison Realm
 3 Lava Coil
@@ -112,8 +103,8 @@
 2 Tocatli Honor Guard
 3 Tocatli Honor Guard
 4 Tocatli Honor Guard
-1 Mobilized District
 1 Shalai, Voice of Plenty
+1 Mobilized District
 1 Mox Amber
 1 The Immortal Sun
 1 Urza's Ruinous Blast
@@ -122,6 +113,7 @@
 1 Lightning Strike
 1 Blackblade Reforged
 2 Shalai, Voice of Plenty
+2 Krenko, Tin Street Kingpin
 2 Mobilized District
 2 Tomik, Distinguished Advokist
 2 Jaya's Immolating Inferno
@@ -153,18 +145,23 @@
 2 Growth-Chamber Guardian
 3 Llanowar Elves
 3 Forest
+3 Temple Garden
 3 Trostani Discordant
 3 Domri, Anarch of Bolas
 3 Growth-Chamber Guardian
 3 Gruul Spellbreaker
 4 Forest
 4 Llanowar Elves
+4 Temple Garden
 4 Domri, Anarch of Bolas
+4 Stomping Ground
 4 Gruul Spellbreaker
 4 Growth-Chamber Guardian
 1 Samut's Sprint
 2 Samut's Sprint
+2 Sheltering Light
 2 Boros Guildgate
+3 Sheltering Light
 3 Samut's Sprint
 4 Sheltering Light
 4 Samut's Sprint

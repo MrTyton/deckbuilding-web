@@ -38,7 +38,7 @@
 |                    4|[Aurelia, Exemplar of Justice](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452903)|                    1|[The Immortal Sun](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439844)  |
 |                    4|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)                    |                    2|[Gideon Blackblade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463943) |
 |                    4|[Adanto Vanguard](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435152)             |                     |                                                                                             |
-|                    3|[Prison Realm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460953)                |                     |                                                                                             |
 |                    1|Chandra, Awakened Inferno                                                                              |                     |                                                                                             |
 |                    2|Chandra, Awakened Inferno                                                                              |                     |                                                                                             |
+|                    3|[Prison Realm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460953)                |                     |                                                                                             |
 
