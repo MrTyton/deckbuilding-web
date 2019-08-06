@@ -35,9 +35,9 @@
 2 Teferi, Hero of Dominaria
 3 Hallowed Fountain
 3 Glacial Fortress
-3 Bond of Flourishing
 3 Sunpetal Grove
 3 Temple Garden
+3 Bond of Flourishing
 3 Teferi, Hero of Dominaria
 4 Hallowed Fountain
 4 Temple Garden
@@ -58,14 +58,14 @@
 2 Mystic Archaeologist
 3 Llanowar Elves
 3 Vivien, Champion of the Wilds
-3 Hydroid Krasis
 3 Paradise Druid
+3 Hydroid Krasis
 3 Mystic Archaeologist
 3 Frilled Mystic
 4 Llanowar Elves
+4 Paradise Druid
 4 Vivien, Champion of the Wilds
 4 Hydroid Krasis
-4 Paradise Druid
 4 Mystic Archaeologist
 4 Frilled Mystic
 4 Incubation Druid
@@ -73,13 +73,14 @@
 1 Temple of Epiphany
 1 Field of the Dead
 1 Temple of Silence
+1 Vraska's Contempt
 1 Swamp
 1 Yarok, the Desecrated
-1 Vraska's Contempt
-1 Temple of Malady
 1 Cleansing Nova
 1 Golos, Tireless Pilgrim
+1 Temple of Malady
 1 Risen Reef
+1 Star of Extinction
 1 Mountain
 1 Ritual of Soot
 1 Overgrown Tomb
@@ -90,8 +91,8 @@
 1 Thaumatic Compass
 1 Plains
 1 Woodland Cemetery
-1 Star of Extinction
 2 Temple of Silence
+2 Field of the Dead
 2 Temple of Malady
 2 Golos, Tireless Pilgrim
 2 Risen Reef
@@ -101,12 +102,11 @@
 2 Plains
 2 Circuitous Route
 2 Overgrown Tomb
-2 Field of the Dead
 2 Ritual of Soot
 2 Swamp
-3 Cleansing Nova
 3 Golos, Tireless Pilgrim
 3 Risen Reef
+3 Cleansing Nova
 3 Gift of Paradise
 4 Golos, Tireless Pilgrim
 4 Risen Reef

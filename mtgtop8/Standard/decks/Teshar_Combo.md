@@ -25,16 +25,3 @@
 |3 [Plaguecrafter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452832)      |                                                                                         |                                                                                                      |
 |3 [Suncleanser](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447175)        |                                                                                         |                                                                                                      |
 
-
-# Other Options
-
-|*n*<sup>th</sup> copy|Maindeck Card|*n*<sup>th</sup> copy|                                        Sideboard Card                                         |
-|---------------------|-------------|--------------------:|-----------------------------------------------------------------------------------------------|
-|                     |             |                    1|[Teferi, Time Raveler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461148)|
-|                     |             |                    1|[Urza's Ruinous Blast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442927)|
-|                     |             |                    1|[Kitesail Freebooter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435264) |
-|                     |             |                    2|[Kitesail Freebooter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435264) |
-|                     |             |                    2|[Urza's Ruinous Blast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442927)|
-|                     |             |                    3|[Kitesail Freebooter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435264) |
-|                     |             |                    4|[Kitesail Freebooter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435264) |
-

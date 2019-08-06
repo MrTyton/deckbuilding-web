@@ -62,8 +62,8 @@
 15 Island
 16 Island
 17 Island
-1 Jace, Wielder of Mysteries
 1 Narset's Reversal
+1 Jace, Wielder of Mysteries
 1 Faerie Miscreant
 1 Spell Snare
 1 Judge's Familiar
@@ -138,11 +138,11 @@
 3 Force of Negation
 3 Curious Obsession
 3 Faerie Seer
-3 Vapor Snag
 3 Ninja of the Deep Hours
 3 Spell Pierce
-4 Vapor Snag
+3 Vapor Snag
 4 Curious Obsession
+4 Vapor Snag
 4 Faerie Seer
 4 Disrupting Shoal
 4 Ninja of the Deep Hours
@@ -193,11 +193,11 @@
 2 Karn, the Great Creator
 2 Breeding Pool
 2 Snow-Covered Forest
-3 Karn, the Great Creator
 3 Oath of Nissa
 3 Utopia Sprawl
 3 Arbor Elf
 3 Snow-Covered Forest
+3 Karn, the Great Creator
 3 Misty Rainforest
 4 Arbor Elf
 4 Snow-Covered Forest
@@ -221,23 +221,23 @@
 1 Lumbering Falls
 1 Chandra, Acolyte of Flame
 1 Vivien's Arkbow
-1 Scampering Scorcher
 1 Copperline Gorge
 1 Craterhoof Behemoth
 1 Vivien, Champion of the Wilds
 1 Omnath, Locus of Rage
 1 Vesperlark
+1 Scampering Scorcher
 1 Shivan Reef
 1 Smokebraider
 1 Sacred Foundry
 1 Stomping Ground
-2 Scampering Scorcher
 2 Stomping Ground
 2 Vivien's Arkbow
 2 Chandra, Acolyte of Flame
 2 Copperline Gorge
 2 Sacred Foundry
 2 Shivan Reef
+2 Scampering Scorcher
 2 Vesperlark
 2 Smokebraider
 2 Lumbering Falls
@@ -350,11 +350,11 @@
 3 Swamp
 4 Swamp
 5 Swamp
+1 Midnight Reaper
+1 Cruel Celebrant
 1 Shambling Vent
 1 Day of Judgment
-1 Midnight Reaper
 1 Promise of Bunrei
-1 Cruel Celebrant
 1 Bontu the Glorified
 1 Rally the Ancestors
 1 Hunted Witness
@@ -369,6 +369,7 @@
 1 Walk the Plank
 1 Grim Haruspex
 2 Viscera Seer
+2 Cruel Celebrant
 2 Bontu the Glorified
 2 Zulaport Cutthroat
 2 Doomed Traveler
@@ -378,14 +379,13 @@
 2 Shambling Vent
 2 Grim Haruspex
 2 Promise of Bunrei
-2 Cruel Celebrant
 2 Hunted Witness
 2 Rally the Ancestors
+3 Cruel Celebrant
 3 Plains
 3 Viscera Seer
 3 Lingering Souls
 3 Promise of Bunrei
-3 Cruel Celebrant
 3 Rally the Ancestors
 3 Zulaport Cutthroat
 4 Plains

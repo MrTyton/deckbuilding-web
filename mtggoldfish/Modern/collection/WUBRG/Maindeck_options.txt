@@ -13,34 +13,34 @@
 1 Devoted Druid
 1 Vizier of Remedies
 1 Rhonas the Indomitable
+1 Neoform
+1 Eldritch Evolution
 1 Dryad Arbor
 1 Razorverge Thicket
 1 Griselbrand
 1 Terastodon
-1 Neoform
 1 Misty Rainforest
 1 Allosaurus Rider
-1 Eldritch Evolution
 2 Devoted Druid
 2 Eladamri's Call
+2 Neoform
+2 Eldritch Evolution
 2 Allosaurus Rider
 2 Forest
 2 Duskwatch Recruiter
-2 Neoform
 2 Temple Garden
-2 Eldritch Evolution
 2 Misty Rainforest
 2 Razorverge Thicket
 3 Devoted Druid
 3 Misty Rainforest
+3 Neoform
 3 Allosaurus Rider
 3 Eladamri's Call
 3 Eldritch Evolution
-3 Neoform
 4 Devoted Druid
+4 Neoform
 4 Misty Rainforest
 4 Allosaurus Rider
-4 Neoform
 4 Eldritch Evolution
 4 Eladamri's Call
 1 Path to Exile
@@ -99,8 +99,8 @@
 1 Overgrown Tomb
 1 Verdant Catacombs
 2 Verdant Catacombs
-2 Blood Crypt
 2 Overgrown Tomb
+2 Blood Crypt
 3 Faithless Looting
 3 Verdant Catacombs
 4 Verdant Catacombs
@@ -108,11 +108,11 @@
 1 Ghor-Clan Rampager
 1 Bomat Courier
 1 Collective Brutality
+1 Nurturing Peatland
 1 Traverse the Ulvenwald
 1 Thrun, the Last Troll
 1 Cavern of Souls
 1 Swamp
-1 Nurturing Peatland
 1 Bloodstained Mire
 1 Grisly Salvage
 1 Soulflayer
@@ -123,6 +123,7 @@
 1 Samut, Voice of Dissent
 2 Traverse the Ulvenwald
 2 Bomat Courier
+2 Nurturing Peatland
 2 Collective Brutality
 2 Samut, Voice of Dissent
 2 Swamp
@@ -130,7 +131,6 @@
 2 Grisly Salvage
 2 Lotleth Troll
 2 Bloodstained Mire
-2 Nurturing Peatland
 2 Drogskol Reaver
 2 Zetalpa, Primal Dawn
 3 Traverse the Ulvenwald
@@ -151,31 +151,31 @@
 1 Ashiok, Dream Render
 1 Nahiri, the Harbinger
 1 Niv-Mizzet Reborn
+1 Kess, Dissident Mage
+1 Kolaghan's Command
 1 Bring to Light
+1 Blooming Marsh
 1 Inquisition of Kozilek
 1 Detention Sphere
 1 Assassin's Trophy
 1 Lightning Helix
 1 Sin Collector
-1 Blooming Marsh
-1 Kolaghan's Command
 1 Bloodbraid Elf
 1 Safewright Quest
 1 Supreme Verdict
 1 Pillar of the Paruns
-1 Kess, Dissident Mage
 1 Izzet Charm
+2 Kolaghan's Command
+2 Inquisition of Kozilek
 2 Assassin's Trophy
 2 Pillar of the Paruns
 2 Bring to Light
 2 Bloodbraid Elf
 2 Lightning Helix
-2 Inquisition of Kozilek
 2 Izzet Charm
 2 City of Brass
 2 Safewright Quest
 2 Niv-Mizzet Reborn
-2 Kolaghan's Command
 3 City of Brass
 3 Assassin's Trophy
 3 Lightning Helix
@@ -197,14 +197,14 @@
 1 Vengevine
 1 Bloodghast
 1 Prized Amalgam
+2 Mana Confluence
 2 Polluted Delta
+2 Watery Grave
 2 Satyr Wayfinder
 2 Hogaak, Arisen Necropolis
 2 Carrion Feeder
 2 Prized Amalgam
 2 Vengevine
-2 Mana Confluence
-2 Watery Grave
 2 Stitcher's Supplier
 2 Gravecrawler
 2 Hedron Crab
