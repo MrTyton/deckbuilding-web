@@ -96,6 +96,47 @@
 4 Narset's Reversal
 4 Quickling
 4 Mana Leak
+1 Unclaimed Territory
+2 Unclaimed Territory
+3 Unclaimed Territory
+4 Unclaimed Territory
+1 Risen Reef
+1 Omnath, Locus of the Roil
+1 Flamekin Harbinger
+2 Risen Reef
+2 Flamekin Harbinger
+3 Flamekin Harbinger
+3 Risen Reef
+4 Risen Reef
+4 Flamekin Harbinger
+1 Lumbering Falls
+1 Chandra, Acolyte of Flame
+1 Vivien's Arkbow
+1 Copperline Gorge
+1 Smokebraider
+1 Vesperlark
+1 Craterhoof Behemoth
+1 Vivien, Champion of the Wilds
+1 Omnath, Locus of Rage
+1 Scampering Scorcher
+1 Shivan Reef
+1 Sacred Foundry
+1 Stomping Ground
+2 Stomping Ground
+2 Vivien's Arkbow
+2 Chandra, Acolyte of Flame
+2 Copperline Gorge
+2 Smokebraider
+2 Sacred Foundry
+2 Vesperlark
+2 Shivan Reef
+2 Scampering Scorcher
+2 Lumbering Falls
+3 Smokebraider
+3 Vesperlark
+4 Smokebraider
+4 Vesperlark
+4 Blood Crypt
 1 Tasigur, the Golden Fang
 1 Flamewake Phoenix
 2 Flamewake Phoenix
@@ -114,39 +155,6 @@
 3 Young Pyromancer
 3 Snow-Covered Swamp
 4 Young Pyromancer
-1 Mutavault
-1 Fiery Islet
-1 Vapor Snag
-1 Faerie Seer
-1 Curious Obsession
-1 Archmage's Charm
-1 Ninja of the Deep Hours
-1 Pteramander
-1 Spell Pierce
-1 Disrupting Shoal
-1 Force of Negation
-2 Vapor Snag
-2 Archmage's Charm
-2 Curious Obsession
-2 Faerie Seer
-2 Ninja of the Deep Hours
-2 Pteramander
-2 Spell Pierce
-2 Force of Negation
-2 Disrupting Shoal
-3 Disrupting Shoal
-3 Force of Negation
-3 Curious Obsession
-3 Faerie Seer
-3 Ninja of the Deep Hours
-3 Spell Pierce
-3 Vapor Snag
-4 Curious Obsession
-4 Vapor Snag
-4 Faerie Seer
-4 Disrupting Shoal
-4 Ninja of the Deep Hours
-4 Force of Negation
 1 Overgrown Tomb
 2 Verdant Catacombs
 1 Plains
@@ -205,51 +213,44 @@
 4 Misty Rainforest
 4 Oath of Nissa
 4 Teferi, Time Raveler
-1 Unclaimed Territory
-2 Unclaimed Territory
-3 Unclaimed Territory
-4 Unclaimed Territory
-1 Risen Reef
-1 Flamekin Harbinger
-1 Omnath, Locus of the Roil
-2 Risen Reef
-2 Flamekin Harbinger
-3 Risen Reef
-3 Flamekin Harbinger
-4 Flamekin Harbinger
-4 Risen Reef
-1 Lumbering Falls
-1 Chandra, Acolyte of Flame
-1 Vivien's Arkbow
-1 Copperline Gorge
-1 Craterhoof Behemoth
-1 Vivien, Champion of the Wilds
-1 Omnath, Locus of Rage
-1 Vesperlark
-1 Scampering Scorcher
-1 Shivan Reef
-1 Smokebraider
-1 Sacred Foundry
-1 Stomping Ground
-2 Stomping Ground
-2 Vivien's Arkbow
-2 Chandra, Acolyte of Flame
-2 Copperline Gorge
-2 Sacred Foundry
-2 Shivan Reef
-2 Scampering Scorcher
-2 Vesperlark
-2 Smokebraider
-2 Lumbering Falls
-3 Vesperlark
-3 Smokebraider
-4 Blood Crypt
-4 Vesperlark
-4 Smokebraider
+1 Fiery Islet
+1 Mutavault
+1 Vapor Snag
+1 Pteramander
+1 Faerie Seer
+1 Curious Obsession
+1 Archmage's Charm
+1 Spell Pierce
+1 Ninja of the Deep Hours
+1 Disrupting Shoal
+1 Force of Negation
+2 Vapor Snag
+2 Pteramander
+2 Archmage's Charm
+2 Curious Obsession
+2 Faerie Seer
+2 Spell Pierce
+2 Ninja of the Deep Hours
+2 Force of Negation
+2 Disrupting Shoal
+3 Disrupting Shoal
+3 Force of Negation
+3 Curious Obsession
+3 Faerie Seer
+3 Vapor Snag
+3 Spell Pierce
+3 Ninja of the Deep Hours
+4 Vapor Snag
+4 Curious Obsession
+4 Faerie Seer
+4 Force of Negation
+4 Disrupting Shoal
+4 Ninja of the Deep Hours
 1 Voice of Resurgence
 1 Cavern of Souls
 1 Aether Vial
 1 Flickerwisp
+1 Primal Beyond
 1 Shriekmaw
 1 Unsettled Mariner
 1 Spitebellows
@@ -259,7 +260,6 @@
 1 Flamekin Village
 1 Nova Chaser
 1 Lightning Stormkin
-1 Primal Beyond
 2 Voice of Resurgence
 2 Fiery Islet
 2 Aether Vial
@@ -395,8 +395,8 @@
 4 Cruel Celebrant
 5 Plains
 1 Urborg, Tomb of Yawgmoth
-1 Nurturing Peatland
 1 Dryad Arbor
+1 Nurturing Peatland
 1 Stitcher's Supplier
 1 Smallpox
 1 Liliana of the Veil

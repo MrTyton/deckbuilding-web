@@ -16,13 +16,13 @@
 1 Jace, the Mind Sculptor
 1 Swords to Plowshares
 2 Swords to Plowshares
-1 Ponder
-1 Flooded Strand
 1 Polluted Delta
 1 Snapcaster Mage
-2 Flooded Strand
-2 Ponder
+1 Ponder
+1 Flooded Strand
 2 Snapcaster Mage
+2 Ponder
+2 Flooded Strand
 3 Flooded Strand
 3 Ponder
 4 Ponder
@@ -33,8 +33,8 @@
 2 Underground Sea
 2 Hymn to Tourach
 2 Baleful Strix
-3 Polluted Delta
 3 Snapcaster Mage
+3 Polluted Delta
 3 Baleful Strix
 4 Polluted Delta
 1 Scrubland
@@ -158,9 +158,9 @@
 4 Ancestral Vision
 4 Scalding Tarn
 1 Palace Jailer
-1 Collector Ouphe
 1 Rishadan Port
 1 Exploration
+1 Collector Ouphe
 1 Horizon Canopy
 1 Thalia, Guardian of Thraben
 2 Horizon Canopy

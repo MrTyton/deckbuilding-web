@@ -2,7 +2,7 @@
 
 #### [Export MTGO List](../collection/Four-Color%20Elementals/Four-Color%20Elementals.txt)
 #### [Export Arena List](../collection/Four-Color%20Elementals/Four-Color%20Elementals_arena.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Breeding%20Pool%0A1%09Cavalier%20of%20Gales%0A1%09Cavalier%20of%20Thorns%0A1%09Chandra,%20Awakened%20Inferno%0A4%09Cloudkin%20Seer%0A1%09Dragonskull%20Summit%0A1%09Drowned%20Catacomb%0A3%09Hinterland%20Harbor%0A3%09Lava%20Coil%0A4%09Leafkin%20Druid%0A3%09Neoform%0A4%09Omnath,%20Locus%20of%20the%20Roil%0A2%09Overgrown%20Tomb%0A4%09Risen%20Reef%0A2%09Rootbound%20Crag%0A3%09Scampering%20Scorcher%0A3%09Steam%20Vents%0A2%09Stomping%20Ground%0A2%09Sulfur%20Falls%0A1%09Temple%20of%20Epiphany%0A1%09Temple%20of%20Mystery%0A4%09Thunderkin%20Awakener%0A1%09Watery%20Grave%0A2%09Woodland%20Cemetery%0A3%09Yarok,%20the%20Desecrated&deckside=2%09Aether%20Gust%0A2%09Entrancing%20Melody%0A2%09Flame%20Sweep%0A3%09Fry%0A3%09Negate%0A3%09Veil%20of%20Summer)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Breeding%20Pool%0A1%09Cavalier%20of%20Gales%0A1%09Cavalier%20of%20Thorns%0A1%09Chandra,%20Awakened%20Inferno%0A4%09Cloudkin%20Seer%0A1%09Dragonskull%20Summit%0A1%09Drowned%20Catacomb%0A3%09Hinterland%20Harbor%0A3%09Lava%20Coil%0A4%09Leafkin%20Druid%0A3%09Neoform%0A4%09Omnath,%20Locus%20of%20the%20Roil%0A2%09Overgrown%20Tomb%0A4%09Risen%20Reef%0A2%09Rootbound%20Crag%0A3%09Scampering%20Scorcher%0A3%09Steam%20Vents%0A2%09Stomping%20Ground%0A2%09Sulfur%20Falls%0A1%09Temple%20of%20Epiphany%0A1%09Temple%20of%20Mystery%0A4%09Thunderkin%20Awakener%0A1%09Watery%20Grave%0A2%09Woodland%20Cemetery%0A3%09Yarok,%20the%20Desecrated&deckside=3%09Aether%20Gust%0A2%09Blood%20Sun%0A3%09Flame%20Sweep%0A3%09Fry%0A3%09Negate%0A1%09Shock)
 # Maindeck
 
 |                                           Land (25)                                           |                                     Sorcery (6)                                      |       Unknown (29)        |
@@ -24,27 +24,26 @@
 
 # Sideboard
 
-|                                    Instant (3)                                    |                                         Sorcery (2)                                          |  Unknown (10)  |
-|-----------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|----------------|
-|3 [Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)|2 [Entrancing Melody](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435207)|2 Aether Gust   |
-|                                                                                   |                                                                                              |2 Flame Sweep   |
-|                                                                                   |                                                                                              |3 Fry           |
-|                                                                                   |                                                                                              |3 Veil of Summer|
+|                                   Enchantment (2)                                    |                                    Instant (4)                                    | Unknown (9) |
+|--------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|-------------|
+|2 [Blood Sun](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439749)|3 [Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)|3 Aether Gust|
+|                                                                                      |1 [Shock](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129732) |3 Flame Sweep|
+|                                                                                      |                                                                                   |3 Fry        |
 
 
 # Other Options
 
-|*n*<sup>th</sup> copy|                                        Maindeck Card                                         |*n*<sup>th</sup> copy|                                   Sideboard Card                                   |
-|--------------------:|----------------------------------------------------------------------------------------------|--------------------:|------------------------------------------------------------------------------------|
-|                    1|[Unclaimed Territory](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435419)|                    1|[Blood Sun](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439749)|
-|                    1|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)             |                    1|[Shock](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129732)    |
-|                    1|[Biogenic Ooze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457266)      |                    2|[Blood Sun](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439749)|
-|                    2|[Unclaimed Territory](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435419)|                    3|Aether Gust                                                                         |
-|                    3|[Unclaimed Territory](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435419)|                    3|Flame Sweep                                                                         |
-|                    3|[Stomping Ground](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405110)    |                     |                                                                                    |
-|                    3|[Sulfur Falls](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443135)       |                     |                                                                                    |
-|                    4|[Unclaimed Territory](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435419)|                     |                                                                                    |
-|                    4|[Neoform](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461133)            |                     |                                                                                    |
-|                    4|[Steam Vents](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405109)        |                     |                                                                                    |
-|                    4|[Stomping Ground](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405110)    |                     |                                                                                    |
+|*n*<sup>th</sup> copy|                                        Maindeck Card                                         |*n*<sup>th</sup> copy|                                       Sideboard Card                                       |
+|--------------------:|----------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------|
+|                    1|[Unclaimed Territory](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435419)|                    1|[Entrancing Melody](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435207)|
+|                    1|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)             |                    1|Veil of Summer                                                                              |
+|                    1|[Biogenic Ooze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457266)      |                    2|[Entrancing Melody](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435207)|
+|                    2|[Unclaimed Territory](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435419)|                    3|Veil of Summer                                                                              |
+|                    3|[Unclaimed Territory](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435419)|                    2|Veil of Summer                                                                              |
+|                    3|[Stomping Ground](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405110)    |                     |                                                                                            |
+|                    3|[Sulfur Falls](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443135)       |                     |                                                                                            |
+|                    4|[Unclaimed Territory](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435419)|                     |                                                                                            |
+|                    4|[Neoform](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461133)            |                     |                                                                                            |
+|                    4|[Steam Vents](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405109)        |                     |                                                                                            |
+|                    4|[Stomping Ground](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405110)    |                     |                                                                                            |
 

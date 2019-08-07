@@ -75,8 +75,8 @@
 1 Snow-Covered Island
 1 True-Name Nemesis
 1 Dismember
-2 True-Name Nemesis
 2 Bloodstained Mire
+2 True-Name Nemesis
 2 Dismember
 3 Dismember
 1 Darkslick Shores
@@ -146,19 +146,6 @@
 4 Mox Opal
 4 Ancient Tomb
 4 Seat of the Synod
-1 Marsh Flats
-1 Snuff Out
-1 Delver of Secrets
-1 Reanimate
-2 Marsh Flats
-2 Snuff Out
-2 Verdant Catacombs
-2 Delver of Secrets
-2 Reanimate
-3 Daze
-3 Delver of Secrets
-4 Daze
-4 Delver of Secrets
 1 Murderous Cut
 1 Retrofitter Foundry
 2 Spell Pierce
@@ -168,6 +155,19 @@
 4 Baleful Strix
 4 Ornithopter
 4 Retrofitter Foundry
+1 Marsh Flats
+1 Snuff Out
+1 Reanimate
+1 Delver of Secrets
+2 Marsh Flats
+2 Snuff Out
+2 Verdant Catacombs
+2 Delver of Secrets
+2 Reanimate
+3 Daze
+3 Delver of Secrets
+4 Daze
+4 Delver of Secrets
 1 Thespian's Stage
 1 Dark Depths
 1 Lake of the Dead

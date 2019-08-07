@@ -46,6 +46,6 @@
 |                    2|[Watery Grave](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405114)               |                    2|[Ritual of Soot](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452834)             |
 |                    3|[Paradise Druid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461098)             |                    2|[Oath of Kaya](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461136)               |
 |                    3|[Watery Grave](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405114)               |                    2|[Ripjaw Raptor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435359)              |
-|                     |                                                                                                      |                    2|[The Wanderer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460964)               |
 |                     |                                                                                                      |                    3|[Cry of the Carnarium](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457214)       |
+|                     |                                                                                                      |                    2|[The Wanderer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460964)               |
 
