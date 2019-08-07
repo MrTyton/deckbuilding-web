@@ -11,9 +11,9 @@
 4 Noble Hierarch
 1 Eladamri's Call
 1 Borborygmos Enraged
+1 Vizier of Remedies
 1 Duskwatch Recruiter
 1 Devoted Druid
-1 Vizier of Remedies
 1 Rhonas the Indomitable
 1 Griselbrand
 1 Eldritch Evolution
@@ -25,13 +25,13 @@
 1 Razorverge Thicket
 2 Devoted Druid
 2 Eladamri's Call
+2 Duskwatch Recruiter
+2 Razorverge Thicket
+2 Temple Garden
 2 Allosaurus Rider
 2 Misty Rainforest
 2 Forest
 2 Neoform
-2 Razorverge Thicket
-2 Duskwatch Recruiter
-2 Temple Garden
 2 Eldritch Evolution
 3 Devoted Druid
 3 Misty Rainforest
@@ -40,8 +40,8 @@
 3 Allosaurus Rider
 3 Neoform
 4 Devoted Druid
-4 Eldritch Evolution
 4 Eladamri's Call
+4 Eldritch Evolution
 4 Allosaurus Rider
 4 Misty Rainforest
 4 Neoform
@@ -50,9 +50,9 @@
 2 Scavenging Ooze
 1 Veil of Summer
 1 Incubation/Incongruity
-2 Breeding Pool
-2 Incubation/Incongruity
 2 Vizier of Remedies
+2 Incubation/Incongruity
+2 Breeding Pool
 1 Fauna Shaman
 2 Fauna Shaman
 3 Fauna Shaman
@@ -119,8 +119,8 @@
 4 Gravecrawler
 4 Hedron Crab
 4 Carrion Feeder
-1 Knight of Autumn
 1 Godless Shrine
+1 Knight of Autumn
 1 Bring to Light
 1 Assassin's Trophy
 2 Bring to Light
@@ -208,7 +208,6 @@
 3 Thunderkin Awakener
 3 Unclaimed Territory
 4 Copperline Gorge
-4 Cavern of Souls
 4 Aether Vial
 4 Leyline of the Void
 4 Primal Beyond
@@ -216,6 +215,7 @@
 4 Risen Reef
 4 Thunderkin Awakener
 4 Vesperlark
+4 Cavern of Souls
 4 Smokebraider
 3 Wooded Foothills
 4 Wooded Foothills
@@ -240,9 +240,9 @@
 2 Wild Nacatl
 2 Lightning Bolt
 2 Tribal Flames
-3 Hexdrinker
 3 Lightning Bolt
 3 Knight of Autumn
+3 Hexdrinker
 3 Tarmogoyf
 3 Tribal Flames
 3 Wild Nacatl
@@ -260,8 +260,8 @@
 1 Eternal Witness
 1 Remand
 1 Chancellor of the Annex
-2 Sacred Foundry
 2 Arid Mesa
+2 Sacred Foundry
 2 Deceiver Exarch
 2 Kiki-Jiki, Mirror Breaker
 2 Utopia Sprawl
@@ -291,6 +291,7 @@
 1 Bomat Courier
 1 Collective Brutality
 1 Traverse the Ulvenwald
+1 Nurturing Peatland
 1 Thrun, the Last Troll
 1 Soulflayer
 1 Hazoret the Fervent
@@ -298,13 +299,13 @@
 1 Grisly Salvage
 1 Drogskol Reaver
 1 Bloodstained Mire
-1 Nurturing Peatland
 1 Zetalpa, Primal Dawn
 1 Samut, Voice of Dissent
 2 Lotleth Troll
 2 Traverse the Ulvenwald
 2 Bomat Courier
 2 Collective Brutality
+2 Nurturing Peatland
 2 Bloodstained Mire
 2 Drogskol Reaver
 2 Samut, Voice of Dissent
@@ -312,7 +313,6 @@
 2 Zetalpa, Primal Dawn
 2 Soulflayer
 2 Swamp
-2 Nurturing Peatland
 3 Traverse the Ulvenwald
 3 Bomat Courier
 3 Zetalpa, Primal Dawn

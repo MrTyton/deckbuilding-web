@@ -1,43 +1,28 @@
-1 Siege-Gang Commander
-1 Goblin Cratermaker
-3 Blackcleave Cliffs
-4 Blackcleave Cliffs
-1 Thoughtseize
-2 Thoughtseize
-4 Mountain
-4 Blood Crypt
-1 Mogg Fanatic
-1 Sunbaked Canyon
-2 Field of Ruin
-2 Krenko, Mob Boss
-2 Mogg Fanatic
-3 Mogg Fanatic
-3 Krenko, Mob Boss
-1 Inquisition of Kozilek
-1 Legion Loyalist
+2 Frogtosser Banneret
 2 Legion Loyalist
 2 Inquisition of Kozilek
+3 Goblin Piledriver
+3 Frogtosser Banneret
 3 Thoughtseize
 3 Inquisition of Kozilek
 3 Legion Loyalist
 4 Goblin Piledriver
+1 Skirk Prospector
+1 Fiery Islet
 1 Mutavault
 1 Knucklebone Witch
 1 Legion Warboss
+2 Sling-Gang Lieutenant
 2 Fiery Islet
 2 Pashalik Mons
 2 Mutavault
+2 Skirk Prospector
 2 Knucklebone Witch
 2 Legion Warboss
 3 Knucklebone Witch
+3 Skirk Prospector
 4 Knucklebone Witch
 4 Skirk Prospector
-1 Akki Rockspeaker
-2 Akki Rockspeaker
-3 Sling-Gang Lieutenant
-3 Akki Rockspeaker
-4 Sling-Gang Lieutenant
-4 Akki Rockspeaker
 1 Faithless Looting
 1 Polluted Delta
 2 Faithless Looting
@@ -88,6 +73,28 @@
 1 Arid Mesa
 2 Arid Mesa
 3 Arid Mesa
+1 Goblin Chieftain
+1 Goblin Motivator
+1 Scalding Tarn
+1 Wooded Foothills
+1 Snow-Covered Mountain
+1 Mudbutton Torchrunner
+1 Warren Instigator
+2 Goblin Chieftain
+2 Snow-Covered Mountain
+2 Goblin Motivator
+2 Mudbutton Torchrunner
+2 Wooded Foothills
+2 Siege-Gang Commander
+2 Warren Instigator
+3 Snow-Covered Mountain
+3 Warren Instigator
+3 Goblin Motivator
+3 Mudbutton Torchrunner
+4 Snow-Covered Mountain
+4 Warren Instigator
+4 Mudbutton Torchrunner
+5 Snow-Covered Mountain
 1 Monastery Swiftspear
 1 Light Up the Stage
 1 Searing Blaze
@@ -105,11 +112,11 @@
 2 Searing Blaze
 2 Ball Lightning
 2 Goblin Guide
-2 Lightning Bolt
 2 Lava Spike
 2 Rift Bolt
 2 Bump in the Night
 2 Sulfurous Springs
+2 Lightning Bolt
 2 Lightning Skelemental
 3 Monastery Swiftspear
 3 Searing Blaze
@@ -122,39 +129,18 @@
 3 Sulfurous Springs
 3 Bump in the Night
 4 Monastery Swiftspear
+4 Mountain
 4 Arid Mesa
 4 Lightning Skelemental
 4 Searing Blaze
 4 Ball Lightning
 4 Rift Bolt
 4 Lava Spike
-4 Lightning Bolt
 4 Sulfurous Springs
+4 Lightning Bolt
 4 Goblin Guide
 4 Bump in the Night
 5 Mountain
-1 Goblin Chieftain
-1 Goblin Motivator
-1 Scalding Tarn
-1 Wooded Foothills
-1 Warren Instigator
-1 Snow-Covered Mountain
-1 Mudbutton Torchrunner
-2 Goblin Chieftain
-2 Snow-Covered Mountain
-2 Goblin Motivator
-2 Mudbutton Torchrunner
-2 Wooded Foothills
-2 Warren Instigator
-2 Siege-Gang Commander
-3 Snow-Covered Mountain
-3 Warren Instigator
-3 Goblin Motivator
-3 Mudbutton Torchrunner
-4 Snow-Covered Mountain
-4 Warren Instigator
-4 Mudbutton Torchrunner
-5 Snow-Covered Mountain
 1 Goryo's Vengeance
 1 Pentad Prism
 1 Collective Brutality
@@ -164,15 +150,15 @@
 1 Simian Spirit Guide
 1 Ilharg, the Raze-Boar
 1 Generator Servant
-1 Emrakul, the Aeons Torn
 1 Cathartic Reunion
+1 Emrakul, the Aeons Torn
 2 Pentad Prism
 2 Collective Brutality
-2 Simian Spirit Guide
 2 Ilharg, the Raze-Boar
 2 Goryo's Vengeance
 2 Temple of Malice
 2 Cathartic Reunion
+2 Simian Spirit Guide
 2 Through the Breach
 2 Generator Servant
 2 Emrakul, the Aeons Torn
@@ -187,9 +173,9 @@
 3 Simian Spirit Guide
 3 Emrakul, the Aeons Torn
 4 Emrakul, the Aeons Torn
-4 Simian Spirit Guide
 4 Pentad Prism
 4 Through the Breach
 4 Griselbrand
+4 Simian Spirit Guide
 4 Ilharg, the Raze-Boar
 4 Goryo's Vengeance

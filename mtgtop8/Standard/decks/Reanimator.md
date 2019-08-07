@@ -34,8 +34,8 @@
 
 |*n*<sup>th</sup> copy|                                        Maindeck Card                                         |*n*<sup>th</sup> copy|                                          Sideboard Card                                          |
 |--------------------:|----------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------------|
-|                    1|[Fblthp, the Lost](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460977)   |                    1|[Narset, Parter of Veils](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460988)|
-|                    1|[Ravenous Chupacabra](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442093)|                    1|[Pelakka Wurm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382322)           |
+|                    1|[Fblthp, the Lost](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460977)   |                    1|[Pelakka Wurm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382322)           |
+|                    1|[Ravenous Chupacabra](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442093)|                    1|[Narset, Parter of Veils](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460988)|
 |                    1|Agent of Treachery                                                                            |                    1|[Tyrant's Scorn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461152)         |
 |                    1|[Stitcher's Supplier](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447257)|                    1|[Cry of the Carnarium](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457214)   |
 |                    1|[Dusk Legion Zealot](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442078) |                    1|[Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)                 |
