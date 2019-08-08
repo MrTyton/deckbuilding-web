@@ -1,12 +1,52 @@
+1 Risen Reef
+1 Omnath, Locus of the Roil
+1 Flamekin Harbinger
+2 Risen Reef
+2 Flamekin Harbinger
+3 Flamekin Harbinger
+3 Risen Reef
+4 Risen Reef
+4 Flamekin Harbinger
+1 Sunbaked Canyon
+1 Copperline Gorge
+1 Smokebraider
+1 Vesperlark
+2 Copperline Gorge
+2 Smokebraider
+2 Vesperlark
+3 Smokebraider
+3 Vesperlark
+4 Smokebraider
+4 Vesperlark
+4 Unclaimed Territory
+1 Fiery Islet
+1 Voice of Resurgence
+1 Cavern of Souls
+1 Aether Vial
+1 Flickerwisp
+1 Primal Beyond
+2 Voice of Resurgence
+2 Fiery Islet
+2 Aether Vial
+2 Cavern of Souls
+3 Aether Vial
+3 Cavern of Souls
+3 Voice of Resurgence
+4 Aether Vial
+4 Cavern of Souls
+1 Swamp
+1 Verdant Catacombs
+2 Swamp
+1 Bloodghast
 2 Bloodghast
 3 Bloodghast
 4 Bloodghast
-3 Blood Crypt
 1 Inquisition of Kozilek
 2 Inquisition of Kozilek
-1 Marsh Flats
 1 Forest
+1 Marsh Flats
 1 Finale of Devastation
+1 Waterlogged Grove
 1 Windswept Heath
 1 Devoted Druid
 1 Vizier of Remedies
@@ -67,9 +107,9 @@
 1 Faerie Miscreant
 1 Spell Snare
 1 Judge's Familiar
+1 Unsummon
 1 Rune Snag
 1 Quickling
-1 Unsummon
 1 Favorable Winds
 2 Jace, Wielder of Mysteries
 2 Spell Snare
@@ -80,10 +120,10 @@
 2 Favorable Winds
 2 Faerie Miscreant
 2 Judge's Familiar
+3 Mana Leak
 3 Favorable Winds
 3 Faerie Miscreant
 3 Judge's Familiar
-3 Mana Leak
 3 Narset's Reversal
 3 Quickling
 3 Unsummon
@@ -96,26 +136,10 @@
 4 Narset's Reversal
 4 Quickling
 4 Mana Leak
-1 Unclaimed Territory
-2 Unclaimed Territory
-3 Unclaimed Territory
-4 Unclaimed Territory
-1 Risen Reef
-1 Omnath, Locus of the Roil
-1 Flamekin Harbinger
-2 Risen Reef
-2 Flamekin Harbinger
-3 Flamekin Harbinger
-3 Risen Reef
-4 Risen Reef
-4 Flamekin Harbinger
 1 Lumbering Falls
-1 Chandra, Acolyte of Flame
-1 Vivien's Arkbow
-1 Copperline Gorge
-1 Smokebraider
-1 Vesperlark
 1 Craterhoof Behemoth
+1 Vivien's Arkbow
+1 Chandra, Acolyte of Flame
 1 Vivien, Champion of the Wilds
 1 Omnath, Locus of Rage
 1 Scampering Scorcher
@@ -125,17 +149,10 @@
 2 Stomping Ground
 2 Vivien's Arkbow
 2 Chandra, Acolyte of Flame
-2 Copperline Gorge
-2 Smokebraider
 2 Sacred Foundry
-2 Vesperlark
 2 Shivan Reef
 2 Scampering Scorcher
 2 Lumbering Falls
-3 Smokebraider
-3 Vesperlark
-4 Smokebraider
-4 Vesperlark
 4 Blood Crypt
 1 Tasigur, the Golden Fang
 1 Flamewake Phoenix
@@ -144,7 +161,6 @@
 3 Flamewake Phoenix
 4 Fatal Push
 1 Reckless Charge
-1 Sunbaked Canyon
 1 Goblin Bushwhacker
 1 Rakdos Charm
 1 Hazoret the Fervent
@@ -155,7 +171,6 @@
 3 Young Pyromancer
 3 Snow-Covered Swamp
 4 Young Pyromancer
-1 Fiery Islet
 1 Mutavault
 1 Vapor Snag
 1 Faerie Seer
@@ -206,8 +221,8 @@
 1 Godless Shrine
 1 Carrion Feeder
 2 Eternal Witness
-2 Noble Hierarch
 2 Kitchen Finks
+2 Noble Hierarch
 2 Forest
 2 Birds of Paradise
 2 Overgrown Tomb
@@ -215,70 +230,71 @@
 3 Birds of Paradise
 3 Forest
 4 Birds of Paradise
+1 Creeping Trailblazer
+1 Healer of the Glade
+1 Fulminator Mage
+1 Leyline of the Void
+2 Sunbaked Canyon
+2 Primal Beyond
+2 Creeping Trailblazer
+2 Leyline of the Void
+2 Waterlogged Grove
+3 Copperline Gorge
+3 Primal Beyond
+3 Creeping Trailblazer
+3 Leyline of the Void
+4 Copperline Gorge
+4 Primal Beyond
+4 Leyline of the Void
 1 Snow-Covered Plains
 1 Deputy of Detention
 1 Oath of Nissa
 1 Arbor Elf
-1 Utopia Sprawl
 1 Snow-Covered Forest
 1 Tireless Tracker
-1 Waterlogged Grove
 1 Misty Rainforest
+1 Utopia Sprawl
 1 Karn, the Great Creator
 2 Temple Garden
 2 Oath of Nissa
-2 Arbor Elf
-2 Utopia Sprawl
 2 Misty Rainforest
 2 Horizon Canopy
+2 Arbor Elf
 2 Karn, the Great Creator
+2 Utopia Sprawl
 2 Breeding Pool
 2 Snow-Covered Forest
 3 Oath of Nissa
-3 Utopia Sprawl
 3 Arbor Elf
-3 Snow-Covered Forest
 3 Karn, the Great Creator
+3 Snow-Covered Forest
 3 Misty Rainforest
-4 Arbor Elf
-4 Snow-Covered Forest
-4 Utopia Sprawl
-4 Misty Rainforest
-4 Oath of Nissa
+3 Utopia Sprawl
 4 Teferi, Time Raveler
-1 Voice of Resurgence
-1 Cavern of Souls
-1 Aether Vial
-1 Flickerwisp
-1 Primal Beyond
+4 Snow-Covered Forest
+4 Misty Rainforest
+4 Utopia Sprawl
+4 Oath of Nissa
+4 Arbor Elf
 1 Shriekmaw
 1 Unsettled Mariner
 1 Spitebellows
 1 Ancient Ziggurat
 1 Reflecting Pool
-1 Incandescent Soulstoke
 1 Flamekin Village
 1 Nova Chaser
 1 Lightning Stormkin
-2 Voice of Resurgence
-2 Fiery Islet
-2 Aether Vial
-2 Cavern of Souls
+1 Incandescent Soulstoke
 2 Flickerwisp
 2 Incandescent Soulstoke
 2 Ancient Ziggurat
 2 Unsettled Mariner
 2 Lightning Stormkin
 3 Unsettled Mariner
-3 Aether Vial
-3 Cavern of Souls
-3 Voice of Resurgence
 3 Ancient Ziggurat
 3 Lightning Stormkin
 3 Incandescent Soulstoke
 4 Unsettled Mariner
-4 Aether Vial
-4 Cavern of Souls
 4 Voice of Resurgence
 4 Ancient Ziggurat
 4 Lightning Stormkin
@@ -329,12 +345,12 @@
 3 Halimar Excavator
 3 Ondu Cleric
 4 Duress
-4 Hada Freeblade
 4 Kalastria Healer
 4 Return to the Ranks
 4 Ondu Cleric
 4 Halimar Excavator
 4 Jwari Shapeshifter
+4 Hada Freeblade
 4 Harabaz Druid
 4 Kazandu Blademaster
 4 Ally Encampment
@@ -372,10 +388,10 @@
 2 Cruel Celebrant
 2 Bontu the Glorified
 2 Zulaport Cutthroat
-2 Doomed Traveler
 2 Bloodflow Connoisseur
 2 Imperious Oligarch
 2 Lingering Souls
+2 Doomed Traveler
 2 Shambling Vent
 2 Grim Haruspex
 2 Promise of Bunrei
@@ -418,9 +434,9 @@
 3 Urborg, Tomb of Yawgmoth
 3 Smallpox
 3 Stitcher's Supplier
+3 Satyr Wayfinder
 3 Hogaak, Arisen Necropolis
 3 Cabal Therapist
-3 Satyr Wayfinder
 3 Verdant Catacombs
 4 Mutavault
 4 Urborg, Tomb of Yawgmoth

@@ -29,8 +29,8 @@
 
 |*n*<sup>th</sup> copy|                                        Maindeck Card                                        |*n*<sup>th</sup> copy|                                       Sideboard Card                                       |
 |--------------------:|---------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------|
-|                    1|[Giver of Runes](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463962)    |                    1|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)    |
-|                    1|[Temple Garden](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405112)     |                    1|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)   |
+|                    1|[Temple Garden](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405112)     |                    1|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)    |
+|                    1|[Giver of Runes](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463962)    |                    1|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)   |
 |                    1|[Might of Old Krosa](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425955)|                    1|[Dismember](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382182)        |
 |                    1|[Noble Hierarch](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=179434)    |                    1|[Nature's Claim](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382316)   |
 |                    1|[Blossoming Defense](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417719)|                    1|[Dispatch](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397781)         |
@@ -66,12 +66,11 @@
 |                    3|[Horizon Canopy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409571)    |                     |                                                                                            |
 |                    3|[Rancor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442175)            |                     |                                                                                            |
 |                    3|[Temple Garden](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405112)     |                     |                                                                                            |
+|                    3|[Razorverge Thicket](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=209407)|                     |                                                                                            |
 |                    3|[Ichorclaw Myr](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=194256)     |                     |                                                                                            |
 |                    3|[Blossoming Defense](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417719)|                     |                                                                                            |
-|                    3|[Razorverge Thicket](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=209407)|                     |                                                                                            |
 |                    4|[Horizon Canopy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409571)    |                     |                                                                                            |
 |                    4|[Noble Hierarch](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=179434)    |                     |                                                                                            |
-|                    4|[Scale Up](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464128)          |                     |                                                                                            |
 |                    4|[Glistener Elf](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=233052)     |                     |                                                                                            |
 |                    4|[Razorverge Thicket](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=209407)|                     |                                                                                            |
 |                    4|[Temple Garden](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405112)     |                     |                                                                                            |
@@ -79,5 +78,6 @@
 |                    4|[Ichorclaw Myr](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=194256)     |                     |                                                                                            |
 |                    4|[Blossoming Defense](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417719)|                     |                                                                                            |
 |                    4|[Giver of Runes](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463962)    |                     |                                                                                            |
+|                    4|[Scale Up](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464128)          |                     |                                                                                            |
 |                    4|[Mutagenic Growth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397717)  |                     |                                                                                            |
 

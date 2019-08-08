@@ -7,8 +7,8 @@
 3 Inquisition of Kozilek
 3 Legion Loyalist
 4 Goblin Piledriver
-1 Skirk Prospector
 1 Fiery Islet
+1 Skirk Prospector
 1 Mutavault
 1 Knucklebone Witch
 1 Legion Warboss
@@ -89,8 +89,8 @@
 2 Warren Instigator
 3 Snow-Covered Mountain
 3 Warren Instigator
-3 Goblin Motivator
 3 Mudbutton Torchrunner
+3 Goblin Motivator
 4 Snow-Covered Mountain
 4 Warren Instigator
 4 Mudbutton Torchrunner
@@ -120,6 +120,7 @@
 2 Lightning Skelemental
 3 Monastery Swiftspear
 3 Searing Blaze
+3 Bump in the Night
 3 Rift Bolt
 3 Lava Spike
 3 Lightning Bolt
@@ -127,17 +128,16 @@
 3 Goblin Guide
 3 Lightning Skelemental
 3 Sulfurous Springs
-3 Bump in the Night
 4 Monastery Swiftspear
 4 Mountain
 4 Arid Mesa
 4 Lightning Skelemental
-4 Searing Blaze
-4 Ball Lightning
+4 Sulfurous Springs
 4 Rift Bolt
 4 Lava Spike
-4 Sulfurous Springs
 4 Lightning Bolt
+4 Searing Blaze
+4 Ball Lightning
 4 Goblin Guide
 4 Bump in the Night
 5 Mountain
@@ -155,22 +155,22 @@
 2 Pentad Prism
 2 Collective Brutality
 2 Ilharg, the Raze-Boar
+2 Generator Servant
 2 Goryo's Vengeance
 2 Temple of Malice
 2 Cathartic Reunion
 2 Simian Spirit Guide
 2 Through the Breach
-2 Generator Servant
 2 Emrakul, the Aeons Torn
 2 Griselbrand
 3 Swamp
 3 Pentad Prism
 3 Generator Servant
-3 Through the Breach
 3 Griselbrand
 3 Goryo's Vengeance
 3 Ilharg, the Raze-Boar
 3 Simian Spirit Guide
+3 Through the Breach
 3 Emrakul, the Aeons Torn
 4 Emrakul, the Aeons Torn
 4 Pentad Prism

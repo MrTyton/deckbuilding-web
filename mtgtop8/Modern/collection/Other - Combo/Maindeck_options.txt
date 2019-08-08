@@ -10,17 +10,17 @@
 2 Scalding Tarn
 3 Scalding Tarn
 4 Scalding Tarn
-1 Sphinx of Foresight
 1 Peek
+1 Sphinx of Foresight
 1 Arid Mesa
-1 Lightning Axe
 1 Opt
-1 Ancestral Vision
 1 Dreadhorde Arcanist
+1 Lightning Axe
 1 Crashing Footfalls
 1 Flooded Strand
 1 As Foretold
 1 Electrodominance
+1 Ancestral Vision
 1 Flame Slash
 1 Force of Negation
 2 Peek
@@ -43,11 +43,69 @@
 3 Sphinx of Foresight
 4 Force of Negation
 4 Crashing Footfalls
-4 Electrodominance
 4 As Foretold
+4 Electrodominance
 4 Ancestral Vision
 1 Forest
 2 Forest
+1 Mox Opal
+1 Ensnaring Bridge
+2 Mox Opal
+3 Mox Opal
+4 Mox Opal
+1 Karn, the Great Creator
+1 Walking Ballista
+2 Karn, the Great Creator
+3 Karn, the Great Creator
+4 Karn, the Great Creator
+1 Zhalfirin Void
+1 Mystic Forge
+1 Copperline Gorge
+1 Everflowing Chalice
+1 Ancient Stirrings
+1 Blast Zone
+1 Nurturing Peatland
+1 Horizon Canopy
+1 Paradox Engine
+1 Inventors' Fair
+1 Astral Cornucopia
+1 Grove of the Burnwillows
+1 Pyrite Spellbomb
+1 Coretapper
+1 Engineered Explosives
+1 Surge Node
+2 Pyrite Spellbomb
+2 Zhalfirin Void
+2 Grove of the Burnwillows
+2 Everflowing Chalice
+2 Ancient Stirrings
+2 Blast Zone
+2 Mystic Forge
+2 Ensnaring Bridge
+2 Inventors' Fair
+2 Paradox Engine
+2 Astral Cornucopia
+2 Coretapper
+2 Surge Node
+3 Blast Zone
+3 Mystic Forge
+3 Ensnaring Bridge
+3 Everflowing Chalice
+3 Ancient Stirrings
+3 Paradox Engine
+3 Astral Cornucopia
+3 Inventors' Fair
+3 Surge Node
+3 Pyrite Spellbomb
+3 Grove of the Burnwillows
+3 Coretapper
+4 Everflowing Chalice
+4 Ancient Stirrings
+4 Grove of the Burnwillows
+4 Coretapper
+4 Surge Node
+4 Astral Cornucopia
+4 Blast Zone
 1 Faithless Looting
 1 Reforge the Soul
 1 Pact of Negation
@@ -62,8 +120,8 @@
 1 Open the Gates
 1 Traverse the Ulvenwald
 1 Manamorphose
-1 Recross the Paths
 1 Talisman of Impulse
+1 Recross the Paths
 1 Goblin Charbelcher
 2 Pyretic Ritual
 2 Wild Cantor
@@ -72,10 +130,10 @@
 2 Caravan Vigil
 2 Lay of the Land
 2 Chancellor of the Tangle
-2 Desperate Ritual
 2 Traverse the Ulvenwald
-2 Renegade Map
 2 Goblin Charbelcher
+2 Desperate Ritual
+2 Renegade Map
 2 Recross the Paths
 3 Pyretic Ritual
 3 Faithless Looting
@@ -92,11 +150,11 @@
 4 Faithless Looting
 4 Goblin Charbelcher
 4 Desperate Ritual
-4 Renegade Map
 4 Caravan Vigil
 4 Chancellor of the Tangle
 4 Recross the Paths
 4 Wild Cantor
+4 Renegade Map
 4 Lay of the Land
 1 Spire of Industry
 1 Snow-Covered Mountain
@@ -115,9 +173,7 @@
 1 Thopter Foundry
 1 Grafdigger's Cage
 1 Ichor Wellspring
-1 Mox Opal
 1 Goblin Engineer
-1 Ensnaring Bridge
 1 Sword of the Meek
 1 Sai, Master Thopterist
 1 Ghirapur Aether Grid
@@ -130,74 +186,66 @@
 2 Thopter Foundry
 2 Goblin Engineer
 2 Whir of Invention
-2 Mox Opal
 2 Mishra's Bauble
 3 Arcum's Astrolabe
 3 Polluted Delta
 3 Snow-Covered Island
+3 Urza, Lord High Artificer
 3 Mishra's Bauble
 3 Whir of Invention
 3 Thopter Foundry
-3 Mox Opal
-3 Urza, Lord High Artificer
 3 Goblin Engineer
 4 Whir of Invention
 4 Goblin Engineer
 4 Arcum's Astrolabe
 4 Polluted Delta
 4 Snow-Covered Island
-4 Urza, Lord High Artificer
 4 Mishra's Bauble
-4 Mox Opal
 4 Thopter Foundry
+4 Urza, Lord High Artificer
 5 Snow-Covered Island
-1 Hydroid Krasis
-1 Karn, the Great Creator
+1 Nykthos, Shrine to Nyx
 1 Acidic Slime
 1 Mwonvuli Acid-Moss
+1 Primal Command
 1 Overgrowth
-1 Garruk Wildspeaker
-1 Nykthos, Shrine to Nyx
 1 Trinisphere
+1 Garruk Wildspeaker
 1 Utopia Sprawl
 1 Windswept Heath
-1 Walking Ballista
+1 Hydroid Krasis
 1 Nissa, Worldwaker
 1 Breeding Pool
-1 Primal Command
 1 Arbor Elf
 1 Nissa, Vastwood Seer
 1 Eternal Witness
-2 Karn, the Great Creator
 2 Nissa, Vastwood Seer
-2 Garruk Wildspeaker
 2 Mwonvuli Acid-Moss
 2 Acidic Slime
-2 Overgrowth
 2 Breeding Pool
 2 Primal Command
 2 Eternal Witness
 2 Trinisphere
 2 Utopia Sprawl
 2 Arbor Elf
+2 Overgrowth
+2 Garruk Wildspeaker
 2 Nissa, Worldwaker
 2 Walking Ballista
 2 Windswept Heath
-3 Karn, the Great Creator
 3 Primal Command
-3 Overgrowth
 3 Mwonvuli Acid-Moss
 3 Windswept Heath
 3 Arbor Elf
 3 Forest
 3 Acidic Slime
+3 Overgrowth
 3 Utopia Sprawl
 4 Mwonvuli Acid-Moss
 4 Primal Command
-4 Overgrowth
-4 Karn, the Great Creator
 4 Windswept Heath
 4 Utopia Sprawl
+4 Overgrowth
 4 Arbor Elf
 4 Forest
 5 Forest

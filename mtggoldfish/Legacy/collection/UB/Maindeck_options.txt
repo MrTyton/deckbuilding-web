@@ -27,14 +27,14 @@
 1 Force of Negation
 2 Force of Negation
 4 Swamp
-1 Spellseeker
 1 Fallen Shinobi
+1 Spellseeker
 1 Hymn to Tourach
 1 Liliana's Triumph
 2 Snapcaster Mage
 2 Spellseeker
-2 Fallen Shinobi
 2 Hymn to Tourach
+2 Fallen Shinobi
 3 Snapcaster Mage
 3 Spellstutter Sprite
 4 Fatal Push
@@ -75,8 +75,8 @@
 1 Snow-Covered Island
 1 True-Name Nemesis
 1 Dismember
-2 Bloodstained Mire
 2 True-Name Nemesis
+2 Bloodstained Mire
 2 Dismember
 3 Dismember
 1 Darkslick Shores
@@ -146,19 +146,10 @@
 4 Mox Opal
 4 Ancient Tomb
 4 Seat of the Synod
-1 Murderous Cut
-1 Retrofitter Foundry
-2 Spell Pierce
-2 Retrofitter Foundry
-3 Baleful Strix
-3 Retrofitter Foundry
-4 Baleful Strix
-4 Ornithopter
-4 Retrofitter Foundry
 1 Marsh Flats
 1 Snuff Out
-1 Reanimate
 1 Delver of Secrets
+1 Reanimate
 2 Marsh Flats
 2 Snuff Out
 2 Verdant Catacombs
@@ -168,6 +159,15 @@
 3 Delver of Secrets
 4 Daze
 4 Delver of Secrets
+1 Retrofitter Foundry
+1 Murderous Cut
+2 Spell Pierce
+2 Retrofitter Foundry
+3 Baleful Strix
+3 Retrofitter Foundry
+4 Baleful Strix
+4 Ornithopter
+4 Retrofitter Foundry
 1 Thespian's Stage
 1 Dark Depths
 1 Lake of the Dead
