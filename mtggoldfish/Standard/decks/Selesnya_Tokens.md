@@ -34,6 +34,6 @@
 |                    4|[March of the Multitudes](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452938)|                    2|[Leyline of Sanctity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=204993)|
 |                    9|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)                 |                    2|[Ripjaw Raptor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435359)      |
 |                     |                                                                                                  |                    2|Veil of Summer                                                                                |
-|                     |                                                                                                  |                    3|Veil of Summer                                                                                |
 |                     |                                                                                                  |                    3|[Ripjaw Raptor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435359)      |
+|                     |                                                                                                  |                    3|Veil of Summer                                                                                |
 

@@ -1,27 +1,28 @@
 1 Stomping Ground
 1 Fulminator Mage
 1 Living End
+1 Blackcleave Cliffs
 1 Blood Crypt
 1 Faerie Macabre
+1 Demonic Dread
 1 Horror of the Broken Lands
 1 Swamp
 1 Monstrous Carabid
 1 Beast Within
-1 Demonic Dread
 1 Architects of Will
 1 Simian Spirit Guide
 1 Blooming Marsh
 1 Verdant Catacombs
 1 Desert Cerodon
-1 Blackcleave Cliffs
-1 Violent Outburst
 1 Copperline Gorge
 1 Street Wraith
 1 Archfiend of Ifnir
 1 Forest
+1 Violent Outburst
 2 Copperline Gorge
 2 Blooming Marsh
 2 Beast Within
+2 Demonic Dread
 2 Violent Outburst
 2 Verdant Catacombs
 2 Monstrous Carabid
@@ -31,7 +32,6 @@
 2 Horror of the Broken Lands
 2 Swamp
 2 Simian Spirit Guide
-2 Demonic Dread
 2 Street Wraith
 2 Desert Cerodon
 2 Archfiend of Ifnir
@@ -39,6 +39,7 @@
 3 Blackcleave Cliffs
 3 Faerie Macabre
 3 Street Wraith
+3 Beast Within
 3 Copperline Gorge
 3 Demonic Dread
 3 Violent Outburst
@@ -47,7 +48,6 @@
 3 Desert Cerodon
 3 Blooming Marsh
 3 Horror of the Broken Lands
-3 Beast Within
 3 Simian Spirit Guide
 3 Verdant Catacombs
 4 Blackcleave Cliffs
@@ -77,12 +77,12 @@
 2 Lonely Sandbar
 2 Remand
 2 Tireless Tracker
-2 Lightning Bolt
 2 Sulfur Falls
 2 Growth Spiral
 2 Steam Vents
 2 Surgical Extraction
 2 Archmage's Charm
+2 Lightning Bolt
 3 Scalding Tarn
 3 Lightning Bolt
 3 Wrenn and Six
