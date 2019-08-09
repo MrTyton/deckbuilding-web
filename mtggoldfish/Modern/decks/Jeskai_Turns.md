@@ -32,7 +32,7 @@
 
 |*n*<sup>th</sup> copy|                                          Maindeck Card                                           |*n*<sup>th</sup> copy|                                         Sideboard Card                                         |
 |--------------------:|--------------------------------------------------------------------------------------------------|--------------------:|------------------------------------------------------------------------------------------------|
-|                    1|[Misty Rainforest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405102)       |                    1|Fry                                                                                             |
+|                    1|[Misty Rainforest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405102)       |                    1|[Fry](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466894)                  |
 |                    1|[Polluted Delta](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405104)         |                    1|[Aria of Flame](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464067)        |
 |                    1|[Spreading Seas](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=190405)         |                    1|[Chalice of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442211)  |
 |                    2|[Jace, the Mind Sculptor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442051)|                    1|[Teferi, Time Raveler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461148) |

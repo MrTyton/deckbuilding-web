@@ -18,11 +18,12 @@
 
 # Sideboard
 
-|                                        Enchantment (2)                                         |                                        Instant (11)                                         |  Unknown (2)   |
-|------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|----------------|
-|2 [Leyline of Sanctity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=204993)|4 [Oxidize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=46012)          |2 Veil of Summer|
-|                                                                                                |3 [Pact of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442057)|                |
-|                                                                                                |4 [Slaughter Pact](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=130704)  |                |
+|                                        Enchantment (2)                                         |                                        Instant (13)                                         |
+|------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|
+|2 [Leyline of Sanctity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=204993)|4 [Oxidize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=46012)          |
+|                                                                                                |3 [Pact of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442057)|
+|                                                                                                |4 [Slaughter Pact](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=130704)  |
+|                                                                                                |2 [Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)  |
 
 
 # Other Options
@@ -40,8 +41,8 @@
 |                    2|[Yavimaya Coast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129810)     |                    1|[Noxious Revival](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=230067)        |
 |                    3|[Breeding Pool](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=97088)       |                    2|[Noxious Revival](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=230067)        |
 |                    3|[Yavimaya Coast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129810)     |                    3|[Autumn's Veil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205051)          |
-|                    4|[Breeding Pool](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=97088)       |                    3|Veil of Summer                                                                                    |
-|                    2|[Wild Cantor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=96934)         |                    4|Veil of Summer                                                                                    |
+|                    4|[Breeding Pool](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=97088)       |                    3|[Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)         |
+|                    2|[Wild Cantor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=96934)         |                    4|[Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)         |
 |                     |                                                                                              |                    1|[Echoing Truth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405212)          |
 |                     |                                                                                              |                    1|[Spell Pierce](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425876)           |
 |                     |                                                                                              |                    1|[Chalice of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442211)    |

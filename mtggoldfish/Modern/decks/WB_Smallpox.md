@@ -51,7 +51,7 @@
 |                     |                                                                                                   |                    1|[Kaya, Orzhov Usurper](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460129)|
 |                     |                                                                                                   |                    2|[Extirpate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370384)           |
 |                     |                                                                                                   |                    2|[Generous Gift](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463960)       |
-|                     |                                                                                                   |                    1|Noxious Grasp                                                                                  |
-|                     |                                                                                                   |                    2|Noxious Grasp                                                                                  |
+|                     |                                                                                                   |                    1|[Noxious Grasp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466864)       |
+|                     |                                                                                                   |                    2|[Noxious Grasp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466864)       |
 |                     |                                                                                                   |                    2|[Anguished Unmaking](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=410006)  |
 

@@ -39,8 +39,8 @@
 
 |*n*<sup>th</sup> copy|                                            Maindeck Card                                            |*n*<sup>th</sup> copy|                                       Sideboard Card                                       |
 |--------------------:|-----------------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------|
-|                    1|[Tamiyo, Collector of Tales](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461147)|                    1|[Mortify](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420829)          |
-|                    1|[Blood Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=97102)                |                    1|[Deathsprout](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461116)      |
+|                    1|[Tamiyo, Collector of Tales](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461147)|                    1|[Deathsprout](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461116)      |
+|                    1|[Blood Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=97102)                |                    1|[Mortify](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420829)          |
 |                    1|Warrant / Warden                                                                                     |                    2|[Casualties of War](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461114)|
 |                    1|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)                     |                     |                                                                                            |
 |                    2|[Ral's Outburst](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461139)            |                     |                                                                                            |

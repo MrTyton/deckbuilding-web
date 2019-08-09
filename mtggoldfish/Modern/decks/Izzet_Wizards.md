@@ -19,15 +19,16 @@
 
 # Sideboard
 
-|                                         Creature (1)                                         |                                           Instant (9)                                            |Unknown (1)|
-|----------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|-----------|
-|1 [Izzet Staticaster](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=253638)|1 [Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)               |1 Fry      |
-|                                                                                              |1 [Ceremonious Rejection](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417613)|           |
-|                                                                                              |1 [Disdainful Stroke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420705)    |           |
-|                                                                                              |1 [Dismember](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382182)            |           |
-|                                                                                              |1 [Flusterstorm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=228255)         |           |
-|                                                                                              |1 [Spell Pierce](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425876)         |           |
-|                                                                                              |1 [Spell Snare](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446100)          |           |
-|                                                                                              |1 [Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)  |           |
-|                                                                                              |1 [Wizard's Retort](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442963)      |           |
+|                                         Creature (1)                                         |                                           Instant (10)                                           |
+|----------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
+|1 [Izzet Staticaster](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=253638)|1 [Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)               |
+|                                                                                              |1 [Ceremonious Rejection](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417613)|
+|                                                                                              |1 [Disdainful Stroke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420705)    |
+|                                                                                              |1 [Dismember](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382182)            |
+|                                                                                              |1 [Flusterstorm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=228255)         |
+|                                                                                              |1 [Fry](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466894)                  |
+|                                                                                              |1 [Spell Pierce](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425876)         |
+|                                                                                              |1 [Spell Snare](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446100)          |
+|                                                                                              |1 [Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)  |
+|                                                                                              |1 [Wizard's Retort](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442963)      |
 
