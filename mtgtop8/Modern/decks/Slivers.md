@@ -37,8 +37,8 @@
 
 |*n*<sup>th</sup> copy|                                        Maindeck Card                                         |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
 |--------------------:|----------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
-|                    1|[Unsettled Mariner](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464165)  |                    1|[Dismember](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382182)          |
-|                    1|[Gemhide Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=207905)     |                    1|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)     |
+|                    1|[Unsettled Mariner](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464165)  |                    1|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)     |
+|                    1|[Gemhide Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=207905)     |                    1|[Dismember](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382182)          |
 |                    1|[Adaptive Automaton](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439384) |                    2|[Dismember](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382182)          |
 |                    1|[Ancient Ziggurat](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=189271)   |                    2|[Syphon Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370752)      |
 |                    1|[Leeching Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383297)    |                    2|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|

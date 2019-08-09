@@ -1,7 +1,7 @@
-# U
+# Blue Artifacts
 
-#### [Export MTGO List](../collection/U/U.txt)
-#### [Export Arena List](../collection/U/U_arena.txt)
+#### [Export MTGO List](../collection/Blue%20Artifacts/Blue%20Artifacts.txt)
+#### [Export Arena List](../collection/Blue%20Artifacts/Blue%20Artifacts_arena.txt)
 #### [Print on decklist.org](http://decklist.org/?deckmain=4%09Arch%20of%20Orazca%0A1%09Blast%20Zone%0A4%09Flood%20of%20Tears%0A2%09Gilded%20Lotus%0A4%09Guild%20Globe%0A10%09Island%0A3%09Karn,%20the%20Great%20Creator%0A4%09Mana%20Geode%0A3%09Manifold%20Key%0A4%09Powerstone%20Shard%0A4%09Renowned%20Weaponsmith%0A3%09Sai,%20Master%20Thopterist%0A4%09Traveler's%20Amulet%0A2%09Treasure%20Map%0A4%09Ugin,%20the%20Ineffable%0A4%09Zhalfirin%20Void&deckside=1%09God-Pharaoh's%20Statue%0A1%09Magistrate's%20Scepter%0A1%09Manifold%20Key%0A1%09Meteor%20Golem%0A1%09Mox%20Amber%0A1%09Mystic%20Forge%0A2%09Navigator's%20Compass%0A3%09Negate%0A1%09Sentinel%20Totem%0A3%09Sorcerous%20Spyglass)
 # Maindeck
 

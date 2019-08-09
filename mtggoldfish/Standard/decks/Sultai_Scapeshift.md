@@ -1,7 +1,7 @@
-# UBG
+# Sultai Scapeshift
 
-#### [Export MTGO List](../collection/UBG/UBG.txt)
-#### [Export Arena List](../collection/UBG/UBG_arena.txt)
+#### [Export MTGO List](../collection/Sultai%20Scapeshift/Sultai%20Scapeshift.txt)
+#### [Export Arena List](../collection/Sultai%20Scapeshift/Sultai%20Scapeshift_arena.txt)
 #### [Print on decklist.org](http://decklist.org/?deckmain=4%09Arboreal%20Grazer%0A1%09Blast%20Zone%0A2%09Breeding%20Pool%0A3%09Deathsprout%0A1%09Dimir%20Guildgate%0A1%09Dismal%20Backwater%0A1%09Drowned%20Catacomb%0A4%09Elvish%20Rejuvenator%0A4%09Field%20of%20the%20Dead%0A2%09Forest%0A1%09Golgari%20Guildgate%0A4%09Growth%20Spiral%0A1%09Hinterland%20Harbor%0A4%09Hydroid%20Krasis%0A1%09Island%0A1%09Jungle%20Hollow%0A3%09Massacre%20Girl%0A1%09Memorial%20to%20Genius%0A2%09Overgrown%20Tomb%0A4%09Risen%20Reef%0A2%09Scapeshift%0A1%09Simic%20Guildgate%0A1%09Swamp%0A2%09Temple%20of%20Malady%0A1%09Temple%20of%20Mystery%0A1%09Thornwood%20Falls%0A4%09Vraska,%20Golgari%20Queen%0A2%09Watery%20Grave%0A1%09Woodland%20Cemetery&deckside=2%09Ashiok,%20Dream%20Render%0A2%09Duress%0A2%09Legion's%20End%0A1%09Massacre%20Girl%0A2%09Nissa,%20Who%20Shakes%20the%20World%0A3%09Unmoored%20Ego%0A2%09Veil%20of%20Summer%0A1%09Vraska,%20Relic%20Seeker)
 # Maindeck
 

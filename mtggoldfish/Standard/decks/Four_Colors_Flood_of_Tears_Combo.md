@@ -1,7 +1,7 @@
-# WUBRG
+# Four Colors Flood of Tears Combo
 
-#### [Export MTGO List](../collection/WUBRG/WUBRG.txt)
-#### [Export Arena List](../collection/WUBRG/WUBRG_arena.txt)
+#### [Export MTGO List](../collection/Four%20Colors%20Flood%20of%20Tears%20Combo/Four%20Colors%20Flood%20of%20Tears%20Combo.txt)
+#### [Export Arena List](../collection/Four%20Colors%20Flood%20of%20Tears%20Combo/Four%20Colors%20Flood%20of%20Tears%20Combo_arena.txt)
 #### [Print on decklist.org](http://decklist.org/?deckmain=2%09Breeding%20Pool%0A2%09Drowned%20Catacomb%0A4%09Flood%20of%20Tears%0A1%09Forest%0A4%09Gift%20of%20Paradise%0A2%09Glacial%20Fortress%0A4%09Guild%20Globe%0A2%09Hinterland%20Harbor%0A2%09Isolated%20Chapel%0A3%09Mastermind's%20Acquisition%0A4%09Narset,%20Parter%20of%20Veils%0A2%09Oath%20of%20Kaya%0A2%09Omniscience%0A2%09Overgrown%20Tomb%0A4%09Risen%20Reef%0A4%09Root%20Snare%0A1%09Sunpetal%20Grove%0A1%09Tamiyo,%20Collector%20of%20Tales%0A1%09Teferi,%20Time%20Raveler%0A2%09Temple%20Garden%0A2%09Temple%20of%20Malady%0A4%09Temple%20of%20Mystery%0A2%09Temple%20of%20Silence%0A1%09Time%20Wipe%0A2%09Watery%20Grave&deckside=1%09Cry%20of%20the%20Carnarium%0A1%09Inescapable%20Blaze%0A2%09Legion's%20End%0A3%09Noxious%20Grasp%0A1%09Ritual%20of%20Soot%0A1%09Scholar%20of%20the%20Ages%0A1%09Star%20of%20Extinction%0A1%09Tamiyo,%20Collector%20of%20Tales%0A1%09The%20Elderspell%0A1%09Thousand-Year%20Storm%0A1%09Time%20Wipe%0A1%09Zacama,%20Primal%20Calamity)
 # Maindeck
 

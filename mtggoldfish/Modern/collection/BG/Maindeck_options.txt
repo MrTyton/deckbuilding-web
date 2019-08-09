@@ -26,10 +26,10 @@
 2 Fatal Push
 2 Liliana of the Veil
 3 Death's Shadow
+3 Mutavault
 3 Urborg, Tomb of Yawgmoth
 3 Liliana of the Veil
 3 Smallpox
-3 Mutavault
 4 Mutavault
 4 Smallpox
 4 Urborg, Tomb of Yawgmoth
@@ -47,14 +47,14 @@
 1 Elvish Archdruid
 1 Pendelhaven
 1 Heritage Druid
-1 Nettle Sentinel
 1 Gilt-Leaf Palace
 1 Ezuri, Renegade Leader
+1 Nettle Sentinel
 1 Cavern of Souls
 1 Elvish Visionary
 1 Dwynen's Elite
-1 Shaman of the Pack
 1 Llanowar Elves
+1 Shaman of the Pack
 1 Elvish Mystic
 2 Llanowar Elves
 2 Elvish Mystic
@@ -68,20 +68,20 @@
 2 Cavern of Souls
 3 Llanowar Elves
 3 Cavern of Souls
-3 Nettle Sentinel
 3 Dwynen's Elite
 3 Shaman of the Pack
 3 Elvish Mystic
 3 Gilt-Leaf Palace
 3 Elvish Archdruid
 3 Heritage Druid
+3 Nettle Sentinel
 4 Llanowar Elves
-4 Elvish Archdruid
 4 Heritage Druid
 4 Elvish Mystic
+4 Elvish Archdruid
 4 Shaman of the Pack
-4 Dwynen's Elite
 4 Nettle Sentinel
+4 Dwynen's Elite
 3 Swamp
 4 Overgrown Tomb
 1 Polluted Delta
@@ -95,8 +95,8 @@
 2 Driven/Despair
 2 Godless Shrine
 1 Lead the Stampede
-2 Lead the Stampede
 2 Elvish Visionary
+2 Lead the Stampede
 3 Lead the Stampede
 3 Elvish Visionary
 1 Blood Crypt

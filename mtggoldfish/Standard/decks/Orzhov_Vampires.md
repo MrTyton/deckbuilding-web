@@ -57,7 +57,7 @@
 |                    2|[Cruel Celebrant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461115)            |                     |                                                                                                     |
 |                    3|[Cruel Celebrant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461115)            |                     |                                                                                                     |
 |                    4|[Legion's End](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466860)               |                     |                                                                                                     |
+|                    8|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)                      |                     |                                                                                                     |
 |                    3|[Unclaimed Territory](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435419)        |                     |                                                                                                     |
 |                    4|[Unclaimed Territory](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435419)        |                     |                                                                                                     |
-|                    8|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)                      |                     |                                                                                                     |
 
