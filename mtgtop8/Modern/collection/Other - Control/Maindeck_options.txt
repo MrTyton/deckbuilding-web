@@ -1,31 +1,56 @@
-1 Primal Command
-1 Walking Ballista
-1 Llanowar Elves
-1 Mwonvuli Acid-Moss
-2 Eternal Witness
-2 Utopia Sprawl
-2 Arbor Elf
-2 Karn, the Great Creator
-2 Primal Command
-2 Trinisphere
-2 Mwonvuli Acid-Moss
-2 Nissa, Vastwood Seer
-3 Mwonvuli Acid-Moss
-3 Utopia Sprawl
-3 Karn, the Great Creator
-3 Arbor Elf
-3 Eternal Witness
-3 Primal Command
-3 Nissa, Vastwood Seer
-3 Trinisphere
-4 Arbor Elf
-4 Utopia Sprawl
-4 Eternal Witness
-4 Primal Command
-4 Mwonvuli Acid-Moss
-4 Karn, the Great Creator
+1 Breeding Pool
+1 Izzet Charm
+1 Stomping Ground
+1 Kolaghan's Command
+1 Overgrown Tomb
+1 Pillar of the Paruns
+1 Niv-Mizzet Reborn
+1 Teferi, Time Raveler
+1 Lightning Helix
+1 Assassin's Trophy
+1 Bring to Light
+1 Kaya's Guile
+2 Niv-Mizzet Reborn
+2 Pillar of the Paruns
+2 Teferi, Time Raveler
+2 Assassin's Trophy
+2 Bring to Light
+2 Lightning Helix
+3 Lightning Helix
+3 Pillar of the Paruns
+3 Niv-Mizzet Reborn
+3 Bring to Light
+4 Pillar of the Paruns
+1 Steam Vents
+1 Misty Rainforest
+1 Wrenn and Six
+2 Izzet Charm
+1 Prismatic Vista
+2 Prismatic Vista
+1 Hallowed Fountain
+1 Godless Shrine
+1 Birds of Paradise
+1 Plains
+1 Sacred Foundry
+1 Glittering Wish
+1 Supreme Verdict
+2 Birds of Paradise
+2 Glittering Wish
+3 Birds of Paradise
+3 Glittering Wish
+4 Birds of Paradise
+1 Bloodbraid Elf
+1 Thought Erasure
+1 Wooded Foothills
+1 Verdant Catacombs
+4 Lightning Helix
+2 Kolaghan's Command
+1 Temple Garden
+1 Safewright Quest
 1 Snow-Covered Mountain
 1 Snow-Covered Island
+1 Frostwalk Bastion
+2 Frostwalk Bastion
 2 Bloodbraid Elf
 1 Detention Sphere
 1 Siege Rhino
@@ -90,13 +115,13 @@
 1 Rakdos Charm
 1 Rapid Hybridization
 1 Watery Grave
-1 Sunken Ruins
 1 Darkness
 1 Batwing Brume
 1 Trespasser's Curse
 1 Hunted Phantasm
 1 Bloodstained Mire
 1 Polluted Delta
+1 Sunken Ruins
 1 Muddle the Mixture
 1 Forbidden Orchard
 1 Mission Briefing
@@ -148,16 +173,16 @@
 3 Tarmogoyf
 3 Crashing Footfalls
 3 As Foretold
-3 Electrodominance
 3 Ancestral Vision
 3 Dreadhorde Arcanist
+3 Electrodominance
 4 Tarmogoyf
 4 Scalding Tarn
 4 Crashing Footfalls
 4 Dreadhorde Arcanist
 1 Snow-Covered Swamp
-1 Tolsimir, Friend to Wolves
 1 Unmoored Ego
+1 Tolsimir, Friend to Wolves
 1 Sin Collector
 1 Deputy of Detention
 1 Snow-Covered Plains
@@ -208,9 +233,9 @@
 1 Fatal Push
 1 Thoughtseize
 1 Collective Brutality
+1 Unearth
 1 Legion Warboss
 1 Faithless Looting
-1 Unearth
 2 Snow-Covered Swamp
 2 Chandra, Acolyte of Flame
 2 Blood Moon
@@ -250,18 +275,9 @@
 8 Snow-Covered Swamp
 9 Snow-Covered Swamp
 10 Snow-Covered Swamp
-1 Blast Zone
-1 Elvish Mystic
-1 Spore Frog
-1 Ancient Stirrings
 2 Forest
-2 Elvish Mystic
-2 Blast Zone
-2 Ancient Stirrings
 3 Forest
-3 Ancient Stirrings
 4 Forest
-4 Ancient Stirrings
 5 Forest
 6 Forest
 7 Forest
@@ -282,21 +298,7 @@
 2 Acidic Slime
 2 Ohran Viper
 2 Llanowar Elves
-3 Snow-Covered Forest
 3 Ohran Viper
 3 Llanowar Elves
-4 Snow-Covered Forest
-5 Snow-Covered Forest
-6 Snow-Covered Forest
-7 Snow-Covered Forest
-8 Snow-Covered Forest
-9 Snow-Covered Forest
-10 Snow-Covered Forest
-11 Snow-Covered Forest
-12 Snow-Covered Forest
-13 Snow-Covered Forest
-14 Snow-Covered Forest
-15 Snow-Covered Forest
-16 Snow-Covered Forest
 17 Snow-Covered Forest
 18 Snow-Covered Forest

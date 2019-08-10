@@ -41,7 +41,7 @@
 |                     |                                                                                               |                    3|[Anger of the Gods](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438682)        |
 |                     |                                                                                               |                    1|[Sudden Shock](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370388)             |
 |                     |                                                                                               |                    1|[Defense Grid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45481)              |
-|                     |                                                                                               |                    1|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)      |
 |                     |                                                                                               |                    1|[Chandra, Awakened Inferno](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466881)|
+|                     |                                                                                               |                    1|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)      |
 |                     |                                                                                               |                    1|[Lightning Axe](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409925)            |
 

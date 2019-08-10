@@ -4,6 +4,7 @@
 1 Snow-Covered Forest
 1 Snow-Covered Plains
 1 Familiar's Ruse
+1 Watcher for Tomorrow
 1 Seachrome Coast
 1 Aether Vial
 1 Reflector Mage
@@ -11,7 +12,6 @@
 1 Detention Sphere
 1 String of Disappearances
 1 Ice-Fang Coatl
-1 Watcher for Tomorrow
 1 Utopia Sprawl
 1 Thirst for Knowledge
 1 Knight of Autumn
@@ -22,23 +22,23 @@
 1 Path to Exile
 1 Wall of Blossoms
 2 Detention Sphere
+2 Watcher for Tomorrow
 2 Seachrome Coast
 2 Aether Vial
 2 Knight of Autumn
 2 Wall of Blossoms
 2 Snow-Covered Island
 2 String of Disappearances
-2 Watcher for Tomorrow
 2 Utopia Sprawl
 2 Prismatic Vista
 2 Thraben Inspector
 2 Ice-Fang Coatl
-2 Snow-Covered Forest
 2 Path to Exile
 2 Familiar's Ruse
 2 Thirst for Knowledge
 2 Restoration Angel
 2 Flooded Strand
+2 Snow-Covered Forest
 3 Eternal Witness
 3 Aether Vial
 3 Knight of Autumn
@@ -55,11 +55,11 @@
 1 Eladamri's Call
 1 Vizier of Remedies
 1 Duskwatch Recruiter
+1 Nurturing Peatland
 1 Godless Shrine
 1 Incubation/Incongruity
 1 Devoted Druid
 1 Walking Ballista
-1 Nurturing Peatland
 1 Giver of Runes
 1 Plains
 1 Chord of Calling
@@ -83,8 +83,8 @@
 3 Chord of Calling
 3 Vizier of Remedies
 3 Incubation/Incongruity
-3 Temple Garden
 3 Windswept Heath
+3 Temple Garden
 4 Eladamri's Call
 4 Windswept Heath
 4 Vizier of Remedies
