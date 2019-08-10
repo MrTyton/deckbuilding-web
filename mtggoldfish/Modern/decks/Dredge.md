@@ -65,7 +65,7 @@
 |                    3|[Arid Mesa](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405092)                |                     |                                                                                               |
 |                    1|[Dakmor Salvage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=292984)           |                     |                                                                                               |
 |                    3|[Conflagrate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=114909)              |                     |                                                                                               |
-|                    4|[Bloodstained Mire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405094)        |                     |                                                                                               |
 |                    3|[Scalding Tarn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405107)            |                     |                                                                                               |
 |                    4|[Scalding Tarn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405107)            |                     |                                                                                               |
+|                    4|[Bloodstained Mire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405094)        |                     |                                                                                               |
 
