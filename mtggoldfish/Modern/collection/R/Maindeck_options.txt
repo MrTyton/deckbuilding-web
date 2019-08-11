@@ -1,7 +1,7 @@
 1 Mage-Ring Network
 2 Snow-Covered Island
-1 Snow-Covered Plains
 1 Field of Ruin
+1 Snow-Covered Plains
 3 Gemstone Caverns
 1 Fiery Islet
 2 Snow-Covered Mountain
@@ -12,11 +12,11 @@
 1 Sunbaked Canyon
 1 Lava Spike
 1 Light Up the Stage
-1 Lightning Bolt
 1 Gut Shot
 1 Mountain
 1 Soul-Scar Mage
 1 Crash Through
+1 Lightning Bolt
 1 Lava Dart
 1 Manamorphose
 1 Monastery Swiftspear
@@ -46,17 +46,17 @@
 3 Soul-Scar Mage
 3 Crash Through
 3 Mountain
-4 Lightning Bolt
-4 Light Up the Stage
 4 Mountain
+4 Light Up the Stage
 4 Lava Dart
 4 Manamorphose
 4 Crash Through
+4 Lightning Bolt
 4 Lava Spike
 4 Monastery Swiftspear
 4 Gut Shot
-4 Soul-Scar Mage
 5 Mountain
+6 Mountain
 7 Mountain
 8 Mountain
 9 Mountain
@@ -66,4 +66,4 @@
 13 Mountain
 14 Mountain
 15 Mountain
-6 Mountain
+4 Soul-Scar Mage

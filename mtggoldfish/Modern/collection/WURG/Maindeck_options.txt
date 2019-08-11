@@ -14,11 +14,39 @@
 1 Vendilion Clique
 1 Giver of Runes
 2 Vendilion Clique
+1 Snow-Covered Mountain
+1 Arcum's Astrolabe
+1 Sakura-Tribe Elder
+1 On Thin Ice
+1 Tireless Tracker
+1 Blood Moon
+1 Lightning Bolt
+1 Spellskite
+1 Prismatic Vista
+2 Prismatic Vista
+2 On Thin Ice
+2 Snow-Covered Plains
+2 Sakura-Tribe Elder
+2 Arcum's Astrolabe
+2 Snow-Covered Island
+2 Blood Moon
+2 Lightning Bolt
+3 Ice-Fang Coatl
+3 Sakura-Tribe Elder
+3 Arcum's Astrolabe
+3 Lightning Bolt
+3 Snow-Covered Forest
+3 Blood Moon
+3 Prismatic Vista
+3 On Thin Ice
+4 Ice-Fang Coatl
+4 Sakura-Tribe Elder
+4 Arcum's Astrolabe
+4 Prismatic Vista
 1 Forest
 2 Forest
 1 Gemstone Mine
 1 Explore
-1 Blast Zone
 1 Arboreal Grazer
 1 Golos, Tireless Pilgrim
 1 Ancient Stirrings
@@ -36,6 +64,7 @@
 1 Khalni Garden
 1 Selesnya Sanctuary
 1 Primeval Titan
+1 Blast Zone
 1 Bojuka Bog
 1 Coalition Relic
 1 Azusa, Lost but Seeking
@@ -71,35 +100,6 @@
 4 Simic Growth Chamber
 4 Amulet of Vigor
 4 Gemstone Mine
-1 Snow-Covered Mountain
-1 Arcum's Astrolabe
-1 Sakura-Tribe Elder
-1 On Thin Ice
-1 Tireless Tracker
-1 Blood Moon
-1 Lightning Bolt
-1 Spellskite
-1 Prismatic Vista
-2 Prismatic Vista
-2 On Thin Ice
-2 Snow-Covered Plains
-2 Snow-Covered Island
-2 Sakura-Tribe Elder
-2 Arcum's Astrolabe
-2 Blood Moon
-2 Lightning Bolt
-3 Ice-Fang Coatl
-3 Sakura-Tribe Elder
-3 Lightning Bolt
-3 Arcum's Astrolabe
-3 Snow-Covered Forest
-3 Blood Moon
-3 Prismatic Vista
-3 On Thin Ice
-4 Ice-Fang Coatl
-4 Sakura-Tribe Elder
-4 Prismatic Vista
-4 Arcum's Astrolabe
 1 Flooded Strand
 1 Horizon Canopy
 1 Plains
@@ -124,9 +124,9 @@
 4 Voice of Resurgence
 4 Noble Hierarch
 1 Arid Mesa
-1 Hurkyl's Recall
 1 Mox Opal
 1 Grapeshot
+1 Hurkyl's Recall
 1 Paradise Mantle
 1 Kite Shield
 1 Simian Spirit Guide

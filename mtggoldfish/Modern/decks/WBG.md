@@ -43,8 +43,8 @@
 |                    2|[Tireless Tracker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409997)       |                    1|[Fulminator Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397686)  |
 |                    2|[Wooded Foothills](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405116)       |                    1|[Sin Collector](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=368968)    |
 |                    3|[Tireless Tracker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409997)       |                    2|[Nihil Spellbomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442215)  |
-|                    3|[Noble Hierarch](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=179434)         |                    2|[Fulminator Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397686)  |
-|                    3|[Wooded Foothills](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405116)       |                    2|[Scavenging Ooze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420783)  |
+|                    3|[Wooded Foothills](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405116)       |                    2|[Fulminator Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397686)  |
+|                    3|[Noble Hierarch](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=179434)         |                    2|[Scavenging Ooze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420783)  |
 |                    4|[Wooded Foothills](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405116)       |                    2|[Assassin's Trophy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452902)|
 |                    5|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)                 |                     |                                                                                            |
 
