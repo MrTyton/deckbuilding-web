@@ -42,7 +42,7 @@
 |                     |                                                                                                   |                    1|[Bontu's Last Reckoning](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430749)|
 |                     |                                                                                                   |                    2|[Anguished Unmaking](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=410006)    |
 |                     |                                                                                                   |                    2|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)         |
-|                     |                                                                                                   |                    2|[Bontu's Last Reckoning](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430749)|
-|                     |                                                                                                   |                    3|[Bontu's Last Reckoning](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430749)|
 |                     |                                                                                                   |                    3|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)         |
+|                     |                                                                                                   |                    3|[Bontu's Last Reckoning](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430749)|
+|                     |                                                                                                   |                    2|[Bontu's Last Reckoning](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430749)|
 

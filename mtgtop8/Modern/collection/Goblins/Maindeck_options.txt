@@ -12,6 +12,7 @@
 1 Goblin Trashmaster
 6 Mountain
 2 Sunbaked Canyon
+1 Earwig Squad
 3 Goblin Piledriver
 1 Wooded Foothills
 1 Lightning Bolt
@@ -32,6 +33,7 @@
 3 Goblin Grenade
 3 Reckless Bushwhacker
 3 Goblin Bushwhacker
+4 Goblin Grenade
 4 Goblin Bushwhacker
 1 Legion Loyalist
 1 Goblin Guide
@@ -41,15 +43,23 @@
 3 Legion Loyalist
 4 Legion Loyalist
 4 Goblin Guide
-4 Goblin Grenade
+1 Bomat Courier
 1 Fanatical Firebrand
 1 Burning-Tree Emissary
+2 Bomat Courier
 2 Burning-Tree Emissary
 2 Fanatical Firebrand
+3 Bomat Courier
 3 Burning-Tree Emissary
 4 Burning-Tree Emissary
+2 Field of Ruin
+2 Fiery Islet
+2 Wooded Foothills
+2 Mogg Fanatic
+1 Simian Spirit Guide
 1 Ramunap Ruins
 2 Ramunap Ruins
+4 Bomat Courier
 4 Reckless Bushwhacker
 8 Mountain
 9 Mountain
@@ -57,31 +67,16 @@
 11 Mountain
 12 Mountain
 13 Mountain
-1 Bomat Courier
-2 Bomat Courier
-3 Bomat Courier
-1 Earwig Squad
-2 Field of Ruin
-2 Fiery Islet
-2 Wooded Foothills
-3 Ramunap Ruins
-4 Ramunap Ruins
-1 Simian Spirit Guide
-2 Mogg Fanatic
-1 Light Up the Stage
-4 Bomat Courier
-14 Mountain
-3 Fanatical Firebrand
-4 Fanatical Firebrand
 1 Sacred Foundry
 1 Legion Warboss
 2 Legion Warboss
-1 Devastating Summons
-2 Devastating Summons
 3 Frogtosser Banneret
-2 Light Up the Stage
 2 Tarfire
 3 Mogg Fanatic
+3 Ramunap Ruins
+4 Ramunap Ruins
+1 Light Up the Stage
+2 Light Up the Stage
 3 Wooded Foothills
 4 Wooded Foothills
 3 Field of Ruin
@@ -97,14 +92,16 @@
 3 Arid Mesa
 1 Mutavault
 2 Pashalik Mons
-15 Mountain
+3 Fanatical Firebrand
+4 Fanatical Firebrand
+14 Mountain
 1 Prismatic Vista
 2 Prismatic Vista
 3 Prismatic Vista
-1 The Flame of Keld
-1 Kari Zev's Expertise
 1 Pendelhaven
+1 Devastating Summons
 2 Simian Spirit Guide
+2 Devastating Summons
 1 Chandra, Acolyte of Flame
 1 Inspiring Vantage
 2 Inspiring Vantage
@@ -173,6 +170,7 @@
 4 Signal Pest
 4 Kuldotha Rebirth
 4 Ornithopter
+15 Mountain
 16 Mountain
 1 Reverberate
 3 Light Up the Stage

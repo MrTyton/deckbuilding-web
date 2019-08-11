@@ -58,6 +58,6 @@
 |                    3|[Flagstones of Trokair](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=116733)|                     |                                                                                                       |
 |                    3|[Gather the Townsfolk](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409588) |                     |                                                                                                       |
 |                    4|[Legion's Landing](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435173)     |                     |                                                                                                       |
-|                    4|[Flagstones of Trokair](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=116733)|                     |                                                                                                       |
 |                    5|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)               |                     |                                                                                                       |
+|                    4|[Flagstones of Trokair](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=116733)|                     |                                                                                                       |
 

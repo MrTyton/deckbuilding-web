@@ -1,4 +1,8 @@
-2 Fatal Push
+1 Island
+1 Swamp
+2 Island
+3 Scalding Tarn
+1 Liliana's Triumph
 3 Island
 4 Island
 1 Karn, the Great Creator
@@ -28,19 +32,20 @@
 4 Baleful Strix
 1 Young Pyromancer
 2 Young Pyromancer
-1 Misty Rainforest
-2 Flooded Strand
-4 Dreadhorde Arcanist
-2 Inquisition of Kozilek
-4 Scalding Tarn
-2 Bloodstained Mire
-3 Thoughtseize
-1 Piracy Charm
-2 Force of Negation
 1 True-Name Nemesis
-1 Angrath's Rampage
 2 True-Name Nemesis
 2 Misty Rainforest
+2 Inquisition of Kozilek
+4 Scalding Tarn
+4 Thoughtseize
+2 Bloodstained Mire
+1 Angrath's Rampage
+1 Piracy Charm
+2 Force of Negation
+1 Thought Scour
+2 Thought Scour
+3 Gurmag Angler
+3 Thought Scour
 1 Reanimate
 1 Abrade
 2 Abrade
@@ -48,9 +53,9 @@
 3 Preordain
 4 Volcanic Island
 1 Accumulated Knowledge
-1 Spell Snare
 1 To the Slaughter
 1 Keranos, God of Storms
+1 Spell Snare
 1 Kolaghan's Command
 1 Mountain
 1 Jace, the Mind Sculptor
@@ -65,13 +70,13 @@
 2 Jace, the Mind Sculptor
 2 Kolaghan's Command
 3 Accumulated Knowledge
-3 Snapcaster Mage
 3 Prismatic Vista
+3 Snapcaster Mage
 3 Inquisition of Kozilek
 3 Plague Engineer
 4 Accumulated Knowledge
-4 Inquisition of Kozilek
 4 Prismatic Vista
+4 Inquisition of Kozilek
 1 Cabal Ritual
 1 Jace, Wielder of Mysteries
 1 Lim-Dul's Vault
@@ -85,11 +90,11 @@
 1 Doomsday
 1 Lotus Petal
 2 Cabal Ritual
+2 Lim-Dul's Vault
 2 Duress
 2 Dark Ritual
 2 Doomsday
 2 Lion's Eye Diamond
-2 Lim-Dul's Vault
 2 Lotus Petal
 2 Experimental Frenzy
 3 Experimental Frenzy
@@ -101,6 +106,5 @@
 4 Experimental Frenzy
 4 Dark Ritual
 4 Lotus Petal
-4 Thoughtseize
 4 Lion's Eye Diamond
 4 Doomsday

@@ -45,7 +45,7 @@
 |                    1|[Baffling End](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439658)             |                    2|[Blood Sun](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439749)          |
 |                    2|[Clifftop Retreat](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443127)         |                    2|[Settle the Wreckage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435186)|
 |                    2|[Baffling End](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439658)             |                    2|[Ixalan's Binding](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435168)   |
-|                    4|[Glacial Fortress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=190562)         |                    1|[Expansion/Explosion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452974)|
-|                     |                                                                                                    |                    1|[Absorb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=23155)              |
+|                    4|[Glacial Fortress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=190562)         |                    1|[Absorb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=23155)              |
+|                     |                                                                                                    |                    1|[Expansion/Explosion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452974)|
 |                     |                                                                                                    |                    3|[Legion Warboss](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452859)     |
 

@@ -2,25 +2,30 @@
 1 Hostage Taker
 4 Hinterland Harbor
 4 Tamiyo, Collector of Tales
-1 Find / Finality
 1 Massacre Girl
+1 Find / Finality
 3 Cast Down
 1 Vraska's Contempt
 3 Drowned Catacomb
 3 Assassin's Trophy
 2 Hostage Taker
 1 Paradise Druid
-1 Disfigure
 1 Temple of Mystery
+1 Temple of Malady
+2 Temple of Malady
+1 Island
+1 Disfigure
 2 Vraska's Contempt
 3 Vraska's Contempt
 1 Negate
-1 Island
 2 Negate
-1 Temple of Malady
-2 Temple of Malady
-1 Ritual of Soot
 1 Swamp
+2 Massacre Girl
+1 Risen Reef
+2 Risen Reef
+3 Risen Reef
+4 Risen Reef
+1 Ritual of Soot
 1 Thought Erasure
 2 Ritual of Soot
 2 Thought Erasure
@@ -29,16 +34,26 @@
 4 Drowned Catacomb
 4 Thought Erasure
 4 Cast Down
+1 Blast Zone
 2 Island
 2 Disfigure
 1 Ugin, the Ineffable
 1 Spell Pierce
 1 Interplanar Beacon
 1 Vivien Reid
-2 Massacre Girl
 2 Find / Finality
 2 Paradise Druid
 3 Hostage Taker
+1 Leafkin Druid
+1 Yarok, the Desecrated
+1 Healer of the Glade
+1 Cavalier of Night
+1 Cavalier of Thorns
+2 Leafkin Druid
+2 Cavalier of Thorns
+2 Healer of the Glade
+3 Healer of the Glade
+4 Healer of the Glade
 1 Syncopate
 1 Nightpack Ambusher
 1 Spectral Sailor
@@ -68,9 +83,8 @@
 4 Brineborn Cutthroat
 4 Sinister Sabotage
 1 Unmoored Ego
-1 Arch of Orazca
 1 Chemister's Insight
-1 Blast Zone
+1 Arch of Orazca
 1 Carnage Tyrant
 1 The Eldest Reborn
 1 Cry of the Carnarium
@@ -86,20 +100,6 @@
 4 Carnage Tyrant
 4 Duress
 4 Vraska's Contempt
-1 Leafkin Druid
-1 Yarok, the Desecrated
-1 Healer of the Glade
-1 Risen Reef
-1 Cavalier of Night
-1 Cavalier of Thorns
-2 Leafkin Druid
-2 Cavalier of Thorns
-2 Healer of the Glade
-2 Risen Reef
-3 Healer of the Glade
-3 Risen Reef
-4 Healer of the Glade
-4 Risen Reef
 1 Search for Azcanta
 1 Drawn from Dreams
 1 Cavalier of Gales
@@ -108,8 +108,8 @@
 1 Narset, Parter of Veils
 1 Enter the God-Eternals
 2 Cavalier of Gales
-2 Search for Azcanta
 2 Drawn from Dreams
+2 Search for Azcanta
 2 Swamp
 2 Temple of Mystery
 2 God-Eternal Kefnet
@@ -123,4 +123,35 @@
 3 Swamp
 4 Drawn from Dreams
 4 Swamp
+1 Golgari Guildgate
+1 Dimir Guildgate
+1 Dismal Backwater
+1 Jungle Hollow
+1 Field of the Dead
+1 Deathsprout
+1 Arboreal Grazer
+1 Growth Spiral
+1 Scapeshift
+1 Thornwood Falls
+1 Simic Guildgate
+1 Elvish Rejuvenator
+1 Memorial to Genius
+2 Deathsprout
+2 Field of the Dead
+2 Scapeshift
+2 Arboreal Grazer
+2 Elvish Rejuvenator
+2 Growth Spiral
+3 Vraska, Golgari Queen
+3 Deathsprout
+3 Arboreal Grazer
+3 Growth Spiral
+3 Field of the Dead
+3 Massacre Girl
+3 Elvish Rejuvenator
+4 Vraska, Golgari Queen
+4 Arboreal Grazer
+4 Elvish Rejuvenator
+4 Growth Spiral
+4 Field of the Dead
 5 Forest

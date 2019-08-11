@@ -1,51 +1,9 @@
-1 City of Traitors
-1 Ancient Tomb
-1 Chalice of the Void
-1 Fiery Confluence
-1 Trinisphere
-1 Blood Moon
-1 Simian Spirit Guide
-1 Chrome Mox
-2 Ancient Tomb
-2 City of Traitors
-2 Chalice of the Void
-2 Fiery Confluence
-2 Blood Moon
-2 Chrome Mox
-2 Simian Spirit Guide
-3 City of Traitors
-3 Ancient Tomb
-3 Chalice of the Void
-3 Blood Moon
-3 Simian Spirit Guide
-3 Chrome Mox
-4 Blood Moon
-4 Ancient Tomb
-4 City of Traitors
-4 Chalice of the Void
-4 Simian Spirit Guide
-1 Magus of the Moon
-1 Pia and Kiran Nalaar
-2 Trinisphere
-2 Magus of the Moon
-3 Magus of the Moon
-3 Trinisphere
-4 Trinisphere
-4 Chrome Mox
-1 Chandra, Torch of Defiance
-2 Chandra, Torch of Defiance
-3 Chandra, Torch of Defiance
-4 Chandra, Torch of Defiance
-1 Ensnaring Bridge
-2 Ensnaring Bridge
-3 Ensnaring Bridge
 1 Arid Mesa
-1 Volrath's Stronghold
 1 Bloodstained Mire
-1 Goblin Chirurgeon
+1 Volrath's Stronghold
 1 Warren Weirding
+1 Cavern of Souls
 1 Sling-Gang Lieutenant
-1 Wasteland
 1 Goblin Cratermaker
 1 Goblin Ringleader
 1 Munitions Expert
@@ -56,99 +14,144 @@
 1 Krenko, Mob Boss
 1 Goblin Trashmaster
 1 Mogg War Marshal
-1 Cavern of Souls
 1 Badlands
-1 Skirk Prospector
-1 Gempalm Incinerator
-2 Wasteland
-2 Goblin Cratermaker
+2 Cavern of Souls
 2 Goblin Matron
+2 Bloodstained Mire
 2 Munitions Expert
 2 Aether Vial
 2 Goblin Ringleader
 2 Mogg War Marshal
-2 Bloodstained Mire
-2 Cavern of Souls
 2 Badlands
-3 Wasteland
 3 Mogg War Marshal
-3 Bloodstained Mire
 3 Cavern of Souls
+3 Bloodstained Mire
 3 Aether Vial
 3 Goblin Matron
-4 Wasteland
 4 Bloodstained Mire
 4 Aether Vial
 4 Goblin Matron
 4 Cavern of Souls
-1 Mogg Fanatic
+1 Goblin Chirurgeon
+1 Wasteland
+1 Skirk Prospector
+1 Gempalm Incinerator
+2 Wasteland
+2 Goblin Cratermaker
+3 Wasteland
+4 Wasteland
 1 Goblin Piledriver
 1 Goblin Chieftain
-1 Goblin Lackey
-1 Rishadan Port
-2 Goblin Piledriver
-2 Rishadan Port
-2 Goblin Lackey
-2 Gempalm Incinerator
 2 Goblin Chieftain
 3 Goblin Ringleader
+4 Goblin Ringleader
+1 Earwig Squad
+3 Munitions Expert
+4 Mogg War Marshal
+1 Ancient Tomb
+1 Chalice of the Void
+1 Chrome Mox
+2 Ancient Tomb
+2 Chalice of the Void
+3 Ancient Tomb
+3 Chalice of the Void
+4 Ancient Tomb
+4 Chalice of the Void
+1 Legion Warboss
+11 Mountain
+1 City of Traitors
+1 Magus of the Moon
+1 Fiery Confluence
+1 Trinisphere
+1 Blood Moon
+1 Pia and Kiran Nalaar
+1 Simian Spirit Guide
+2 City of Traitors
+2 Trinisphere
+2 Fiery Confluence
+2 Magus of the Moon
+2 Blood Moon
+2 Chrome Mox
+2 Simian Spirit Guide
+3 City of Traitors
+3 Magus of the Moon
+3 Blood Moon
+3 Trinisphere
+3 Simian Spirit Guide
+3 Chrome Mox
+4 Trinisphere
+4 City of Traitors
+4 Chrome Mox
+4 Simian Spirit Guide
+4 Blood Moon
+1 Grenzo, Dungeon Warden
+1 Karakas
+2 Warren Weirding
+2 Karakas
+3 Goblin Chieftain
+4 Munitions Expert
+1 Mogg Fanatic
+1 Rishadan Port
+1 Goblin Lackey
+2 Goblin Piledriver
+2 Goblin Lackey
+2 Gempalm Incinerator
+2 Rishadan Port
 3 Goblin Cratermaker
 3 Goblin Lackey
 4 Goblin Lackey
-4 Goblin Ringleader
 1 Prismatic Vista
 1 Goblin Chainwhirler
 1 Thoughtseize
 1 Grenzo, Havoc Raiser
 1 Cabal Therapy
-1 Earwig Squad
 2 Arid Mesa
 2 Pashalik Mons
-2 Sling-Gang Lieutenant
 2 Cabal Therapy
+2 Sling-Gang Lieutenant
 3 Badlands
 3 Pashalik Mons
-3 Munitions Expert
 3 Cabal Therapy
-4 Mogg War Marshal
-1 Blood Sun
-1 Crystal Vein
-1 Chandra, Flamecaller
-1 Seething Song
-1 Chandra, Awakened Inferno
-1 Abrade
-2 Blood Sun
-2 Seething Song
-2 Chandra, Awakened Inferno
-2 Abrade
-3 Seething Song
-3 Blood Sun
-3 Chandra, Awakened Inferno
-3 Abrade
-4 Seething Song
-4 Chandra, Awakened Inferno
 1 Karn, the Great Creator
-1 Legion Warboss
-1 Gemstone Caverns
 1 Goblin Rabblemaster
+1 Gemstone Caverns
+1 Chandra, Torch of Defiance
 2 Karn, the Great Creator
-2 Legion Warboss
 2 Goblin Rabblemaster
+2 Legion Warboss
+2 Chandra, Torch of Defiance
 3 Karn, the Great Creator
 3 Goblin Rabblemaster
+3 Chandra, Torch of Defiance
 4 Magus of the Moon
 4 Karn, the Great Creator
 4 Goblin Rabblemaster
+4 Chandra, Torch of Defiance
+1 Ensnaring Bridge
 1 Karn, Scion of Urza
 1 Pia Nalaar
 1 Thopter Engineer
 2 Karn, Scion of Urza
+2 Ensnaring Bridge
 2 Thopter Engineer
 2 Pia Nalaar
 2 Pia and Kiran Nalaar
+3 Ensnaring Bridge
 3 Thopter Engineer
 3 Karn, Scion of Urza
 3 Fiery Confluence
 4 Ensnaring Bridge
-11 Mountain
 4 Thopter Engineer
+1 Skewer the Critics
+2 Skewer the Critics
+3 Skewer the Critics
+4 Skewer the Critics
+12 Mountain
+13 Mountain
+14 Mountain
+15 Mountain
+16 Mountain
+17 Mountain
+18 Mountain
+19 Mountain
+20 Mountain

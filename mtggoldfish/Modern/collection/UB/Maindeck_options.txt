@@ -1,23 +1,93 @@
+1 Blast Zone
+1 Chalice of the Void
+2 Chalice of the Void
+3 Chalice of the Void
+4 Chalice of the Void
+1 Snapcaster Mage
+2 Field of Ruin
+1 Prohibit
+1 Mindslaver
+1 Spatial Contortion
+1 Condescend
+2 Wurmcoil Engine
+2 Prohibit
+2 Spatial Contortion
+2 Condescend
+3 Condescend
+4 Thirst for Knowledge
+1 Snow-Covered Island
+2 Snow-Covered Island
+3 Snow-Covered Island
+4 Snow-Covered Island
+5 Snow-Covered Island
+6 Snow-Covered Island
+7 Snow-Covered Island
+8 Snow-Covered Island
+9 Snow-Covered Island
+1 Surge Node
+1 Coretapper
+1 Astral Cornucopia
+1 Gemstone Caverns
+1 Karn, Scion of Urza
+1 Inventors' Fair
+1 Metallic Rebuke
+1 Everflowing Chalice
+1 Cavern of Souls
+1 Mox Opal
+1 Master of Etherium
+1 Urza, Lord High Artificer
+1 Darksteel Citadel
+1 Karn, the Great Creator
+2 Karn, Scion of Urza
+2 Coretapper
+2 Astral Cornucopia
+2 Surge Node
+2 Inventors' Fair
+2 Everflowing Chalice
+2 Urza, Lord High Artificer
+2 Karn, the Great Creator
+2 Mox Opal
+2 Darksteel Citadel
+2 Master of Etherium
+2 Blast Zone
+3 Coretapper
+3 Karn, Scion of Urza
+3 Surge Node
+3 Astral Cornucopia
+3 Urza, Lord High Artificer
+3 Karn, the Great Creator
+3 Mox Opal
+3 Darksteel Citadel
+3 Master of Etherium
+3 Everflowing Chalice
+4 Karn, the Great Creator
+4 Coretapper
+4 Astral Cornucopia
+4 Surge Node
+4 Karn, Scion of Urza
+4 Urza, Lord High Artificer
+4 Master of Etherium
+4 Darksteel Citadel
+4 Mox Opal
+4 Everflowing Chalice
 1 Force of Negation
 1 Mana Leak
 1 Archmage's Charm
 2 Archmage's Charm
 1 Saheeli, Sublime Artificer
-1 Field of Ruin
 1 Logic Knot
 1 Opt
 1 Jace, the Mind Sculptor
-1 Thing in the Ice
-1 Serum Visions
 1 Spell Snare
+1 Thing in the Ice
 1 Cryptic Command
+1 Serum Visions
 1 Surgical Extraction
 1 Thought Scour
 1 Dismember
 1 Sunken Ruins
-1 Snapcaster Mage
-2 Field of Ruin
 2 Snapcaster Mage
+2 Jace, the Mind Sculptor
 2 Surgical Extraction
 2 Opt
 2 Spell Snare
@@ -25,7 +95,6 @@
 2 Cryptic Command
 2 Sunken Ruins
 2 Thought Scour
-2 Jace, the Mind Sculptor
 2 Dismember
 2 Serum Visions
 3 Serum Visions
@@ -54,10 +123,9 @@
 1 Vapor Snag
 1 Spell Pierce
 1 Mutavault
-1 Island
+1 Spellstutter Sprite
 1 Curious Obsession
 1 Faerie Seer
-1 Spellstutter Sprite
 1 Mausoleum Wanderer
 1 Disrupting Shoal
 1 Ninja of the Deep Hours
@@ -68,7 +136,6 @@
 2 Curious Obsession
 2 Mana Leak
 2 Faerie Seer
-2 Island
 2 Mausoleum Wanderer
 2 Spellstutter Sprite
 2 Disrupting Shoal
@@ -80,23 +147,16 @@
 3 Mausoleum Wanderer
 3 Disrupting Shoal
 3 Ninja of the Deep Hours
-3 Island
-3 Faerie Seer
 3 Curious Obsession
+3 Faerie Seer
 4 Force of Negation
 4 Ninja of the Deep Hours
+4 Vapor Snag
 4 Mausoleum Wanderer
 4 Curious Obsession
 4 Disrupting Shoal
-4 Island
 4 Faerie Seer
 4 Spellstutter Sprite
-4 Vapor Snag
-5 Island
-6 Island
-7 Island
-8 Island
-9 Island
 10 Island
 11 Island
 12 Island

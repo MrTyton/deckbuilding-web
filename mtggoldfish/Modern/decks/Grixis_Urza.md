@@ -92,7 +92,6 @@
 |                    3|[Flooded Strand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405098)         |                    3|[Unmoored Ego](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452962)              |
 |                    4|[Flooded Strand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405098)         |                     |                                                                                                     |
 |                    4|[Whir of Invention](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423716)      |                     |                                                                                                     |
-|                    4|[Ichor Wellspring](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389551)       |                     |                                                                                                     |
 |                    1|[Karn, the Great Creator](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460928)|                     |                                                                                                     |
 |                    2|[Karn, the Great Creator](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460928)|                     |                                                                                                     |
 |                    2|[Misty Rainforest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405102)       |                     |                                                                                                     |
@@ -100,4 +99,5 @@
 |                    3|[Karn, the Great Creator](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460928)|                     |                                                                                                     |
 |                    4|[Misty Rainforest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405102)       |                     |                                                                                                     |
 |                    7|[Snow-Covered Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121130)    |                     |                                                                                                     |
+|                    4|[Ichor Wellspring](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389551)       |                     |                                                                                                     |
 
