@@ -48,12 +48,12 @@
 1 Mountain
 1 Cavern of Souls
 1 Fiery Islet
-1 Copperline Gorge
 1 Creeping Trailblazer
 1 Fulminator Mage
 1 Sunbaked Canyon
 1 Aether Vial
 1 Risen Reef
+1 Copperline Gorge
 1 Flamekin Harbinger
 1 Unclaimed Territory
 1 Voice of Resurgence
@@ -135,8 +135,8 @@
 1 Mana Confluence
 1 Snow-Covered Swamp
 1 Prized Amalgam
-1 Vengevine
 1 Watery Grave
+1 Vengevine
 1 Stitcher's Supplier
 1 Hogaak, Arisen Necropolis
 1 Bloodghast
@@ -147,7 +147,6 @@
 2 Mana Confluence
 2 Polluted Delta
 2 Prized Amalgam
-2 Vengevine
 2 Hogaak, Arisen Necropolis
 2 Satyr Wayfinder
 2 Bloodghast
@@ -156,14 +155,15 @@
 2 Hedron Crab
 2 Carrion Feeder
 2 Stitcher's Supplier
+2 Vengevine
 3 Polluted Delta
 3 Vengevine
 3 Hogaak, Arisen Necropolis
 3 Mana Confluence
 3 Prized Amalgam
-3 Satyr Wayfinder
 3 Hedron Crab
 3 Carrion Feeder
+3 Satyr Wayfinder
 3 Stitcher's Supplier
 3 Bloodghast
 3 Gravecrawler
@@ -189,15 +189,15 @@
 1 Kaya's Guile
 1 Ashiok, Dream Render
 1 Kess, Dissident Mage
+1 Nahiri, the Harbinger
 1 Niv-Mizzet Reborn
+1 Bloodbraid Elf
 1 Kolaghan's Command
 1 Inquisition of Kozilek
 1 Detention Sphere
 1 Supreme Verdict
 1 Sin Collector
-1 Nahiri, the Harbinger
 1 Izzet Charm
-1 Bloodbraid Elf
 1 Safewright Quest
 1 Pillar of the Paruns
 1 Blooming Marsh
@@ -295,10 +295,8 @@
 1 Snow-Covered Forest
 1 Welding Jar
 1 Darkslick Shores
-1 Codex Shredder
 1 Ensnaring Bridge
 1 Thoughtseize
-1 Academy Ruins
 1 Nihil Spellbomb
 1 Mox Opal
 1 Urza, Lord High Artificer
@@ -306,6 +304,7 @@
 1 Sword of the Meek
 1 Glimmervoid
 1 Whir of Invention
+1 Codex Shredder
 1 Snow-Covered Island
 1 Pyxis of Pandemonium
 1 Pithing Needle
@@ -313,6 +312,7 @@
 1 Inventors' Fair
 1 Lantern of Insight
 1 Grafdigger's Cage
+1 Academy Ruins
 1 Ancient Stirrings
 2 Darkslick Shores
 2 Codex Shredder
@@ -328,12 +328,12 @@
 2 Glimmervoid
 2 Whir of Invention
 2 Mox Opal
-3 Codex Shredder
 3 Spire of Industry
 3 Ensnaring Bridge
 3 Glimmervoid
 3 Whir of Invention
 3 Mox Opal
+3 Codex Shredder
 3 Darkslick Shores
 3 Botanical Sanctum
 3 Ancient Stirrings
@@ -341,8 +341,8 @@
 3 Lantern of Insight
 3 Urza, Lord High Artificer
 4 Whir of Invention
-4 Botanical Sanctum
 4 Glimmervoid
+4 Botanical Sanctum
 4 Ancient Stirrings
 4 Codex Shredder
 4 Lantern of Insight
@@ -359,8 +359,8 @@
 1 Swamp
 1 Grisly Salvage
 1 Drogskol Reaver
-1 Samut, Voice of Dissent
 1 Bloodstained Mire
+1 Samut, Voice of Dissent
 1 Lotleth Troll
 1 Zetalpa, Primal Dawn
 2 Traverse the Ulvenwald

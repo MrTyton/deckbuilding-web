@@ -58,9 +58,9 @@
 |                    3|[Mana Confluence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409573)   |                     |                                                                                               |
 |                    1|[Scalding Tarn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405107)     |                     |                                                                                               |
 |                    1|[Prized Amalgam](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=410014)    |                     |                                                                                               |
+|                    2|[Marsh Flats](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405101)       |                     |                                                                                               |
 |                    2|[Scalding Tarn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405107)     |                     |                                                                                               |
 |                    2|[Prized Amalgam](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=410014)    |                     |                                                                                               |
-|                    2|[Marsh Flats](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405101)       |                     |                                                                                               |
 |                    4|[Prized Amalgam](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=410014)    |                     |                                                                                               |
 |                    3|[Prized Amalgam](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=410014)    |                     |                                                                                               |
 

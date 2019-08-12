@@ -41,7 +41,6 @@
 3 Mana Leak
 4 Pteramander
 4 Force of Negation
-1 Misty Rainforest
 1 Crash Through
 1 Atarka's Command
 1 Twisted Image
@@ -49,6 +48,7 @@
 1 Soul-Scar Mage
 1 Become Immense
 1 Stomping Ground
+1 Misty Rainforest
 2 Become Immense
 2 Crash Through
 2 Atarka's Command
@@ -87,18 +87,18 @@
 4 Manamorphose
 4 Thing in the Ice
 5 Mountain
-1 Forked Bolt
-1 Blood Crypt
-1 Swamp
-1 Remand
 1 Bloodstained Mire
+1 Forked Bolt
+1 Remand
 1 Inquisition of Kozilek
 1 Watery Grave
 1 Unearth
 1 Fatal Push
 1 Thoughtseize
-2 Watery Grave
+1 Swamp
+1 Blood Crypt
 2 Remand
+2 Watery Grave
 2 Inquisition of Kozilek
 2 Fatal Push
 2 Bloodstained Mire

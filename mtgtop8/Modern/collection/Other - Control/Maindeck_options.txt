@@ -1,62 +1,82 @@
-1 Breeding Pool
-1 Izzet Charm
-1 Stomping Ground
-1 Kolaghan's Command
-1 Overgrown Tomb
-1 Pillar of the Paruns
-1 Niv-Mizzet Reborn
-1 Teferi, Time Raveler
-1 Lightning Helix
-1 Assassin's Trophy
-1 Bring to Light
-1 Kaya's Guile
-2 Niv-Mizzet Reborn
-2 Pillar of the Paruns
-2 Teferi, Time Raveler
-2 Assassin's Trophy
-2 Bring to Light
-2 Lightning Helix
-3 Lightning Helix
-3 Pillar of the Paruns
-3 Niv-Mizzet Reborn
-3 Bring to Light
-4 Pillar of the Paruns
-1 Steam Vents
-1 Misty Rainforest
-1 Wrenn and Six
-2 Izzet Charm
-1 Prismatic Vista
-2 Prismatic Vista
-1 Hallowed Fountain
-1 Godless Shrine
-1 Birds of Paradise
-1 Plains
-1 Sacred Foundry
-1 Glittering Wish
-1 Supreme Verdict
-2 Birds of Paradise
-2 Glittering Wish
-3 Birds of Paradise
+2 Thought Erasure
+1 Snow-Covered Forest
+2 Snow-Covered Forest
+1 Utopia Sprawl
+1 Arbor Elf
+1 Trinisphere
+1 Karn, the Great Creator
+1 Eternal Witness
+1 Hornet Queen
+1 Primal Command
+1 Walking Ballista
+1 Llanowar Elves
+1 Mwonvuli Acid-Moss
+1 Nissa, Vastwood Seer
+2 Eternal Witness
+2 Utopia Sprawl
+2 Arbor Elf
+2 Karn, the Great Creator
+2 Primal Command
+2 Trinisphere
+2 Mwonvuli Acid-Moss
+2 Nissa, Vastwood Seer
+3 Mwonvuli Acid-Moss
+3 Utopia Sprawl
+3 Karn, the Great Creator
+3 Arbor Elf
+3 Eternal Witness
+3 Nissa, Vastwood Seer
+3 Primal Command
+3 Trinisphere
+4 Arbor Elf
+4 Utopia Sprawl
+4 Eternal Witness
+4 Mwonvuli Acid-Moss
+4 Primal Command
+4 Karn, the Great Creator
+3 Snow-Covered Forest
+4 Snow-Covered Forest
+5 Snow-Covered Forest
+6 Snow-Covered Forest
+7 Snow-Covered Forest
+8 Snow-Covered Forest
+9 Snow-Covered Forest
+10 Snow-Covered Forest
+11 Snow-Covered Forest
+12 Snow-Covered Forest
+13 Snow-Covered Forest
+14 Snow-Covered Forest
+15 Snow-Covered Forest
+16 Snow-Covered Forest
+1 Blast Zone
+1 Elvish Mystic
+1 Spore Frog
+1 Ancient Stirrings
+2 Elvish Mystic
+2 Blast Zone
+2 Ancient Stirrings
+3 Ancient Stirrings
+4 Ancient Stirrings
 3 Glittering Wish
-4 Birds of Paradise
+3 Assassin's Trophy
 1 Bloodbraid Elf
-1 Thought Erasure
-1 Wooded Foothills
-1 Verdant Catacombs
-4 Lightning Helix
 2 Kolaghan's Command
 1 Temple Garden
 1 Safewright Quest
+1 Bloodstained Mire
+1 Dreadbore
 1 Snow-Covered Mountain
 1 Snow-Covered Island
 1 Frostwalk Bastion
 2 Frostwalk Bastion
+1 Nahiri, the Harbinger
+2 Huntmaster of the Fells
+3 Teferi, Time Raveler
 2 Bloodbraid Elf
 1 Detention Sphere
 1 Siege Rhino
 1 City of Brass
 1 Arid Mesa
-1 Ashiok, Dream Render
 1 Kaya, Orzhov Usurper
 2 Siege Rhino
 2 City of Brass
@@ -67,21 +87,7 @@
 2 Arid Mesa
 3 Bloodbraid Elf
 3 Windswept Heath
-3 Assassin's Trophy
 4 Windswept Heath
-1 Blood Crypt
-1 Island
-1 Swamp
-1 Noble Hierarch
-1 Maelstrom Pulse
-1 Jace, Vryn's Prodigy
-1 Mountain
-2 Thought Erasure
-2 Noble Hierarch
-2 Kaya's Guile
-2 Wrenn and Six
-3 Teferi, Time Raveler
-4 Bring to Light
 1 Ice-Fang Coatl
 3 Prismatic Vista
 1 Scalding Tarn
@@ -120,15 +126,14 @@
 1 Batwing Brume
 1 Trespasser's Curse
 1 Hunted Phantasm
-1 Bloodstained Mire
 1 Polluted Delta
 1 Muddle the Mixture
 1 Forbidden Orchard
 1 Mission Briefing
 1 Pongify
 2 Polluted Delta
-2 Island
 2 Rakdos Charm
+2 Island
 2 Trespasser's Curse
 2 Forbidden Orchard
 2 Watery Grave
@@ -138,19 +143,19 @@
 2 Batwing Brume
 2 Rapid Hybridization
 3 Polluted Delta
-3 Rakdos Charm
 3 Hunted Phantasm
 3 Darkness
 3 Batwing Brume
+3 Rakdos Charm
 3 Trespasser's Curse
 3 Forbidden Orchard
 3 Watery Grave
 4 Polluted Delta
-4 Rakdos Charm
 4 Forbidden Orchard
 4 Hunted Phantasm
 4 Trespasser's Curse
 4 Batwing Brume
+4 Rakdos Charm
 1 Ancestral Vision
 1 Fiery Islet
 1 Waterlogged Grove
@@ -228,7 +233,6 @@
 5 Snow-Covered Island
 1 Chandra, Acolyte of Flame
 1 Blood Moon
-1 Dreadbore
 1 Goblin Rabblemaster
 1 Fatal Push
 1 Thoughtseize
@@ -259,8 +263,8 @@
 3 Chandra, Acolyte of Flame
 3 Thoughtseize
 4 Legion Warboss
-4 Blood Crypt
 4 Snow-Covered Mountain
+4 Blood Crypt
 4 Goblin Rabblemaster
 4 Snow-Covered Swamp
 4 Faithless Looting

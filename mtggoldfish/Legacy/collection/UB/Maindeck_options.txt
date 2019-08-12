@@ -4,49 +4,47 @@
 1 Underground Sea
 1 Fatal Push
 2 Fatal Push
-3 Polluted Delta
-4 Polluted Delta
 1 Bloodstained Mire
 1 Force of Negation
-1 Ingenious Infiltrator
-1 Baleful Strix
-1 Yuriko, the Tiger's Shadow
-2 Ingenious Infiltrator
-2 Baleful Strix
-2 Yuriko, the Tiger's Shadow
-3 Fatal Push
-3 Prismatic Vista
-4 Prismatic Vista
 1 Snapcaster Mage
+3 Polluted Delta
+4 Polluted Delta
+1 Ingenious Infiltrator
 1 Fallen Shinobi
 1 Spellseeker
 1 Liliana's Triumph
 1 Hymn to Tourach
 1 Spellstutter Sprite
+1 Baleful Strix
+1 Yuriko, the Tiger's Shadow
 1 Plague Engineer
 2 Spellseeker
 2 Snapcaster Mage
+2 Ingenious Infiltrator
 2 Spellstutter Sprite
+2 Yuriko, the Tiger's Shadow
 2 Plague Engineer
+2 Baleful Strix
+3 Fatal Push
 3 Snapcaster Mage
+3 Prismatic Vista
 4 Fatal Push
+4 Prismatic Vista
 2 Force of Negation
-1 Swamp
-2 Swamp
-1 Gurmag Angler
-1 Daze
-2 Gurmag Angler
-2 Daze
 3 Thoughtseize
 4 Thoughtseize
+1 Gurmag Angler
 1 Watery Grave
 1 Death's Shadow
 1 Street Wraith
+1 Daze
 1 Wasteland
+2 Gurmag Angler
 2 Watery Grave
 2 Death's Shadow
 2 Street Wraith
 2 Wasteland
+2 Daze
 3 Watery Grave
 3 Death's Shadow
 3 Street Wraith
@@ -54,41 +52,38 @@
 4 Death's Shadow
 4 Street Wraith
 4 Wasteland
-1 Verdant Catacombs
-2 Underground Sea
+1 Swamp
+2 Swamp
 3 Swamp
 4 Swamp
 2 Hymn to Tourach
 2 Fallen Shinobi
 3 Spellstutter Sprite
 4 Spellstutter Sprite
+1 Snuff Out
 1 Reanimate
 1 Marsh Flats
-1 Snuff Out
 1 Delver of Secrets
-2 Marsh Flats
+1 Verdant Catacombs
+2 Underground Sea
 2 Reanimate
+2 Marsh Flats
 2 Snuff Out
 2 Delver of Secrets
 3 Daze
 3 Delver of Secrets
-4 Delver of Secrets
 4 Daze
+4 Delver of Secrets
 1 Snow-Covered Swamp
 2 Bloodstained Mire
 1 Snow-Covered Island
-1 Spell Pierce
-2 Misty Rainforest
-3 Baleful Strix
-4 Baleful Strix
-1 Ornithopter
-2 Ornithopter
-3 Ornithopter
 2 Verdant Catacombs
 2 Flooded Strand
 1 True-Name Nemesis
 1 Liliana, the Last Hope
+1 Spell Pierce
 1 Dismember
+2 Misty Rainforest
 2 True-Name Nemesis
 2 Dismember
 3 Dismember
@@ -99,7 +94,9 @@
 2 Snow-Covered Island
 2 Tasigur, the Golden Fang
 3 Snow-Covered Swamp
+3 Baleful Strix
 3 Snow-Covered Island
+4 Baleful Strix
 4 Snow-Covered Swamp
 4 Snow-Covered Island
 1 Ancient Tomb
@@ -114,50 +111,44 @@
 1 Mox Opal
 1 Urza, Lord High Artificer
 1 Seat of the Synod
+1 Ornithopter
 1 Sai, Master Thopterist
 1 Cranial Plating
-2 City of Traitors
 2 Ancient Tomb
+2 City of Traitors
 2 Sai, Master Thopterist
-2 Darksteel Citadel
 2 Vault Skirge
 2 Seat of the Synod
+2 Ornithopter
 2 Urza, Lord High Artificer
 2 Etched Champion
 2 Cranial Plating
-2 Mox Opal
 2 The Antiquities War
+2 Mox Opal
 2 Glint-Nest Crane
 2 Master of Etherium
 2 Chalice of the Void
+2 Darksteel Citadel
 3 Master of Etherium
 3 Ancient Tomb
-3 Darksteel Citadel
 3 Sai, Master Thopterist
 3 Vault Skirge
 3 The Antiquities War
 3 Mox Opal
+3 Ornithopter
 3 Seat of the Synod
 3 Chalice of the Void
 3 Glint-Nest Crane
 3 Cranial Plating
-4 Ancient Tomb
+3 Darksteel Citadel
 4 Vault Skirge
-4 Darksteel Citadel
 4 Chalice of the Void
 4 The Antiquities War
+4 Darksteel Citadel
 4 Glint-Nest Crane
 4 Mox Opal
+4 Ancient Tomb
 4 Seat of the Synod
-1 Murderous Cut
-1 Retrofitter Foundry
-2 Spell Pierce
-2 Retrofitter Foundry
-3 Ingenious Infiltrator
-3 Retrofitter Foundry
-3 Yuriko, the Tiger's Shadow
-4 Ornithopter
-4 Retrofitter Foundry
 1 Thespian's Stage
 1 Dark Depths
 1 Lake of the Dead

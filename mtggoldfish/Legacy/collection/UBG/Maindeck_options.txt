@@ -1,9 +1,9 @@
-1 Wasteland
+1 Tarmogoyf
 1 Fatal Push
 1 Gurmag Angler
-2 Fatal Push
 2 Wasteland
 2 Tarmogoyf
+2 Fatal Push
 3 Wasteland
 3 Underground Sea
 1 Flooded Strand
@@ -13,27 +13,27 @@
 2 Spell Pierce
 2 Preordain
 3 Tropical Island
-1 Ancient Tomb
 1 Emrakul, the Aeons Torn
 1 Omniscience
-1 Intuition
 1 Show and Tell
 1 Griselbrand
+1 Intuition
+1 Ancient Tomb
 1 City of Traitors
 1 Eureka
 1 Lotus Petal
 2 Emrakul, the Aeons Torn
 2 Omniscience
-2 Ancient Tomb
 2 Intuition
 2 City of Traitors
+2 Ancient Tomb
 2 Show and Tell
 2 Griselbrand
 2 Lotus Petal
 2 Eureka
 3 Omniscience
-3 Ancient Tomb
 3 Spell Pierce
+3 Ancient Tomb
 3 Eureka
 3 Show and Tell
 3 Griselbrand
@@ -52,22 +52,22 @@
 2 Gurmag Angler
 2 Delver of Secrets
 3 Fatal Push
+3 Daze
 3 Tarmogoyf
 3 Stifle
-3 Daze
 3 Delver of Secrets
 4 Tarmogoyf
-4 Wasteland
 4 Stifle
 4 Daze
+4 Wasteland
 4 Delver of Secrets
 1 Island
 4 Underground Sea
 1 Prismatic Vista
 1 Thoughtseize
 2 Thoughtseize
-1 Sylvan Library
 1 Waterlogged Grove
+1 Sylvan Library
 1 Boseiju, Who Shelters All
 1 Plague Engineer
 1 Liliana, the Last Hope
@@ -92,47 +92,11 @@
 3 Snapcaster Mage
 3 Hymn to Tourach
 4 Baleful Strix
+1 True-Name Nemesis
 1 Spell Snare
 1 Bitterblossom
-1 True-Name Nemesis
 3 Verdant Catacombs
 4 Verdant Catacombs
-1 Duress
-1 Mishra's Bauble
-1 Stubborn Denial
-1 Lim-Dul's Vault
-1 Street Wraith
-1 Death's Shadow
-1 Overgrown Tomb
-1 Tarnished Citadel
-1 Berserk
-1 Watery Grave
-1 Breeding Pool
-2 Duress
-2 Stubborn Denial
-2 Mishra's Bauble
-2 Lim-Dul's Vault
-2 Street Wraith
-2 Death's Shadow
-2 Tarnished Citadel
-2 Berserk
-2 Watery Grave
-3 Berserk
-3 Lim-Dul's Vault
-3 Mishra's Bauble
-3 Street Wraith
-3 Death's Shadow
-3 Stubborn Denial
-3 Tarnished Citadel
-3 Thoughtseize
-4 Street Wraith
-4 Mishra's Bauble
-4 Death's Shadow
-4 Stubborn Denial
-4 Thoughtseize
-4 Berserk
-4 Lim-Dul's Vault
-4 Tarnished Citadel
 1 Eternal Scourge
 1 Utopia Sprawl
 1 Force of Negation
@@ -143,8 +107,8 @@
 1 Walking Ballista
 1 Food Chain
 2 Utopia Sprawl
-2 Force of Negation
 2 Prismatic Vista
+2 Force of Negation
 2 Windswept Heath
 2 Narset, Parter of Veils
 2 Food Chain
@@ -153,18 +117,54 @@
 2 Walking Ballista
 3 Utopia Sprawl
 3 Snow-Covered Island
+3 Snow-Covered Forest
 3 Prismatic Vista
+3 Windswept Heath
 3 Walking Ballista
 3 Food Chain
-3 Snow-Covered Forest
-3 Windswept Heath
 3 Misthollow Griffin
 3 Narset, Parter of Veils
 3 Manipulate Fate
 4 Utopia Sprawl
+4 Walking Ballista
 4 Snow-Covered Island
-4 Misthollow Griffin
 4 Prismatic Vista
+4 Misthollow Griffin
 4 Food Chain
 5 Snow-Covered Island
-4 Walking Ballista
+1 Duress
+1 Mishra's Bauble
+1 Stubborn Denial
+1 Lim-Dul's Vault
+1 Street Wraith
+1 Death's Shadow
+1 Berserk
+1 Overgrown Tomb
+1 Watery Grave
+1 Breeding Pool
+1 Tarnished Citadel
+2 Duress
+2 Lim-Dul's Vault
+2 Stubborn Denial
+2 Mishra's Bauble
+2 Street Wraith
+2 Death's Shadow
+2 Berserk
+2 Tarnished Citadel
+2 Watery Grave
+3 Berserk
+3 Mishra's Bauble
+3 Street Wraith
+3 Death's Shadow
+3 Stubborn Denial
+3 Tarnished Citadel
+3 Thoughtseize
+3 Lim-Dul's Vault
+4 Street Wraith
+4 Mishra's Bauble
+4 Death's Shadow
+4 Stubborn Denial
+4 Thoughtseize
+4 Berserk
+4 Lim-Dul's Vault
+4 Tarnished Citadel
