@@ -105,7 +105,6 @@
 |                     |                                                                                                   |                    2|[Distortion Strike](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438618)         |
 |                     |                                                                                                   |                    3|[Dovin, Hand of Control](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461156)    |
 |                     |                                                                                                   |                    3|[Natural State](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407646)             |
-|                     |                                                                                                   |                    4|[Ravenous Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197537)             |
 |                     |                                                                                                   |                    1|[Seal of Primordium](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425960)        |
 |                     |                                                                                                   |                    1|[Invisible Stalker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220041)         |
 |                     |                                                                                                   |                    2|[Seal of Primordium](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425960)        |
@@ -113,4 +112,5 @@
 |                     |                                                                                                   |                    2|[Invisible Stalker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220041)         |
 |                     |                                                                                                   |                    3|[Invisible Stalker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220041)         |
 |                     |                                                                                                   |                    4|[Invisible Stalker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220041)         |
+|                     |                                                                                                   |                    4|[Ravenous Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197537)             |
 
