@@ -15,28 +15,25 @@
 4 Dismember
 3 Faerie Conclave
 4 Faerie Conclave
-3 Merrow Reejerey
 1 Fiery Islet
 1 Kumena's Speaker
 1 Merfolk Mistbinder
 1 Breeding Pool
 1 Botanical Sanctum
 2 Kumena's Speaker
-2 Botanical Sanctum
 2 Merfolk Mistbinder
+2 Botanical Sanctum
 3 Botanical Sanctum
 3 Kumena's Speaker
 3 Merfolk Mistbinder
 4 Kumena's Speaker
 4 Merfolk Mistbinder
-1 Mistcaller
-2 Mistcaller
-12 Island
 1 Flooded Strand
 1 Master of Waves
 2 Thassa, God of the Sea
 2 Kopala, Warden of Waves
 2 Mu Yanling, Sky Dancer
+3 Merrow Reejerey
 4 Merrow Reejerey
 2 Breeding Pool
 4 Botanical Sanctum
@@ -45,10 +42,9 @@
 3 Coralhelm Commander
 4 Coralhelm Commander
 1 Spell Pierce
-1 Vapor Snag
-2 Vapor Snag
-13 Island
-14 Island
+1 Mistcaller
+2 Mistcaller
+12 Island
 2 Flooded Strand
 2 Master of Waves
 3 Master of Waves
@@ -72,10 +68,14 @@
 3 Deprive
 4 Deprive
 1 Venser, Shaper Savant
+1 Vapor Snag
 1 Wizard's Retort
+2 Vapor Snag
 2 Wizard's Retort
 3 Wizard's Retort
 4 Wizard's Retort
+13 Island
+14 Island
 1 Unsettled Mariner
 1 Seachrome Coast
 1 Wanderwine Hub
@@ -89,7 +89,3 @@
 3 Wanderwine Hub
 4 Unsettled Mariner
 4 Wanderwine Hub
-1 Cursecatcher
-2 Cursecatcher
-3 Cursecatcher
-4 Cursecatcher

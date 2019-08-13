@@ -30,8 +30,8 @@
 
 |*n*<sup>th</sup> copy|                                        Maindeck Card                                        |*n*<sup>th</sup> copy|                                           Sideboard Card                                           |
 |--------------------:|---------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------------|
-|                    1|[Disfigure](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442076)         |                    1|[Chandra, Awakened Inferno](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466881)|
-|                    1|[Legion's End](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466860)      |                    1|[Spark Harvest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461032)            |
+|                    1|[Legion's End](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466860)      |                    1|[Chandra, Awakened Inferno](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466881)|
+|                    1|[Disfigure](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442076)         |                    1|[Spark Harvest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461032)            |
 |                    1|[Spawn of Mayhem](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457229)   |                    1|[Fry](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466894)                      |
 |                    1|[Bedeck/Bedazzle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457365)   |                    1|[Plague Mare](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447250)              |
 |                    1|[Bedevil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457301)           |                    1|[Noxious Grasp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466864)            |

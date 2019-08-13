@@ -88,11 +88,11 @@
 3 Vesperlark
 3 Thunderkin Awakener
 3 Unclaimed Territory
-4 Copperline Gorge
 4 Aether Vial
 4 Primal Beyond
 4 Flamekin Harbinger
 4 Risen Reef
+4 Copperline Gorge
 4 Thunderkin Awakener
 4 Vesperlark
 4 Cavern of Souls
@@ -134,7 +134,6 @@
 1 Polluted Delta
 1 Mana Confluence
 1 Snow-Covered Swamp
-1 Prized Amalgam
 1 Watery Grave
 1 Vengevine
 1 Stitcher's Supplier
@@ -144,9 +143,9 @@
 1 Satyr Wayfinder
 1 Hedron Crab
 1 Carrion Feeder
+1 Prized Amalgam
 2 Mana Confluence
 2 Polluted Delta
-2 Prized Amalgam
 2 Hogaak, Arisen Necropolis
 2 Satyr Wayfinder
 2 Bloodghast
@@ -154,27 +153,28 @@
 2 Gravecrawler
 2 Hedron Crab
 2 Carrion Feeder
+2 Prized Amalgam
 2 Stitcher's Supplier
 2 Vengevine
 3 Polluted Delta
-3 Vengevine
-3 Hogaak, Arisen Necropolis
 3 Mana Confluence
-3 Prized Amalgam
 3 Hedron Crab
 3 Carrion Feeder
 3 Satyr Wayfinder
 3 Stitcher's Supplier
+3 Vengevine
+3 Prized Amalgam
+3 Hogaak, Arisen Necropolis
 3 Bloodghast
 3 Gravecrawler
-4 Mana Confluence
-4 Vengevine
-4 Hogaak, Arisen Necropolis
-4 Polluted Delta
 4 Prized Amalgam
+4 Mana Confluence
+4 Polluted Delta
 4 Satyr Wayfinder
 4 Stitcher's Supplier
+4 Vengevine
 4 Bloodghast
+4 Hogaak, Arisen Necropolis
 4 Gravecrawler
 4 Hedron Crab
 4 Carrion Feeder
@@ -195,21 +195,21 @@
 1 Kolaghan's Command
 1 Inquisition of Kozilek
 1 Detention Sphere
-1 Supreme Verdict
 1 Sin Collector
 1 Izzet Charm
 1 Safewright Quest
+1 Supreme Verdict
 1 Pillar of the Paruns
 1 Blooming Marsh
 1 Lightning Helix
 2 Inquisition of Kozilek
-2 City of Brass
 2 Bloodbraid Elf
 2 Kolaghan's Command
 2 Safewright Quest
 2 Pillar of the Paruns
 2 Lightning Helix
 2 Izzet Charm
+2 City of Brass
 2 Niv-Mizzet Reborn
 3 City of Brass
 3 Lightning Helix
@@ -294,7 +294,6 @@
 4 Saheeli Rai
 1 Snow-Covered Forest
 1 Welding Jar
-1 Darkslick Shores
 1 Ensnaring Bridge
 1 Thoughtseize
 1 Nihil Spellbomb
@@ -308,19 +307,20 @@
 1 Snow-Covered Island
 1 Pyxis of Pandemonium
 1 Pithing Needle
+1 Darkslick Shores
 1 Thopter Foundry
 1 Inventors' Fair
 1 Lantern of Insight
 1 Grafdigger's Cage
 1 Academy Ruins
 1 Ancient Stirrings
-2 Darkslick Shores
 2 Codex Shredder
 2 Pyxis of Pandemonium
 2 Botanical Sanctum
 2 Pithing Needle
 2 Thoughtseize
 2 Lantern of Insight
+2 Darkslick Shores
 2 Ancient Stirrings
 2 Urza, Lord High Artificer
 2 Spire of Industry
@@ -328,6 +328,7 @@
 2 Glimmervoid
 2 Whir of Invention
 2 Mox Opal
+3 Thoughtseize
 3 Spire of Industry
 3 Ensnaring Bridge
 3 Glimmervoid
@@ -337,7 +338,6 @@
 3 Darkslick Shores
 3 Botanical Sanctum
 3 Ancient Stirrings
-3 Thoughtseize
 3 Lantern of Insight
 3 Urza, Lord High Artificer
 4 Whir of Invention

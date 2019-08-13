@@ -1,3 +1,27 @@
+1 Narset, Parter of Veils
+2 Narset, Parter of Veils
+3 Narset, Parter of Veils
+4 Narset, Parter of Veils
+1 Lion's Eye Diamond
+1 Chrome Mox
+1 Echo of Eons
+1 Lotus Petal
+2 Chrome Mox
+2 Lion's Eye Diamond
+2 Echo of Eons
+2 Lotus Petal
+3 Echo of Eons
+3 Lotus Petal
+3 Lion's Eye Diamond
+4 Lotus Petal
+4 Echo of Eons
+1 Island
+2 Island
+3 Island
+4 Island
+5 Island
+6 Island
+7 Island
 1 Force of Will
 2 Force of Will
 3 Force of Will
@@ -36,14 +60,11 @@
 4 Benthic Biomancer
 4 Lord of Atlantis
 4 Silvergill Adept
-1 Snow-Covered Island
-2 Karn, Scion of Urza
-2 Snow-Covered Island
-3 Snow-Covered Island
-4 Snow-Covered Island
-5 Snow-Covered Island
-6 Snow-Covered Island
 1 Defense Grid
+2 Trinket Mage
+3 Trinket Mage
+4 Trinket Mage
+4 Karn, Scion of Urza
 1 Coralhelm Commander
 2 Coralhelm Commander
 3 Coralhelm Commander
@@ -51,27 +72,6 @@
 4 Waterlogged Grove
 4 Mutavault
 4 Merfolk Trickster
-1 Mishra's Bauble
-1 Trinket Mage
-1 Urza's Bauble
-1 Karakas
-2 Trinket Mage
-2 Engineered Explosives
-2 Walking Ballista
-2 Mishra's Bauble
-2 Urza's Bauble
-2 Sai, Master Thopterist
-3 Trinket Mage
-3 City of Traitors
-3 Mishra's Bauble
-3 Sai, Master Thopterist
-3 Urza's Bauble
-3 Karn, Scion of Urza
-4 Mishra's Bauble
-4 Trinket Mage
-4 Karn, Scion of Urza
-4 City of Traitors
-4 Urza's Bauble
 7 Snow-Covered Island
 1 Phantasmal Image
 1 Echoing Truth
@@ -86,24 +86,25 @@
 1 Daze
 1 Brainstorm
 1 Ponder
+1 Delver of Secrets
 1 Phyrexian Dreadnought
 1 Wasteland
 1 Flooded Strand
 1 Vision Charm
 1 Renegade Doppelganger
-1 Delver of Secrets
+2 Stifle
 2 Prismatic Vista
 2 Preordain
 2 Wasteland
 2 Vision Charm
 2 Ponder
 2 Brainstorm
-2 Delver of Secrets
 2 Phyrexian Dreadnought
 2 Daze
-2 Stifle
 2 Renegade Doppelganger
 2 Flooded Strand
+2 Delver of Secrets
+3 Stifle
 3 Ponder
 3 Preordain
 3 Flooded Strand
@@ -111,9 +112,8 @@
 3 Phyrexian Dreadnought
 3 Vision Charm
 3 Daze
-3 Brainstorm
 3 Delver of Secrets
-3 Stifle
+3 Brainstorm
 4 Stifle
 4 Ponder
 4 Flooded Strand

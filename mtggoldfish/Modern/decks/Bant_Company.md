@@ -36,8 +36,8 @@
 |*n*<sup>th</sup> copy|                                      Maindeck Card                                      |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
 |--------------------:|-----------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
 |                    1|[Horizon Canopy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409571)|                    1|[Stony Silence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=247425)      |
-|                    1|[Field of Ruin](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435415) |                    2|[Deputy of Detention](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457309)|
-|                    2|[Eternal Witness](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=51628)|                    2|[Stony Silence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=247425)      |
+|                    1|[Field of Ruin](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435415) |                    2|[Stony Silence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=247425)      |
+|                    2|[Eternal Witness](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=51628)|                    2|[Deputy of Detention](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457309)|
 |                     |                                                                                         |                    3|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)      |
 |                     |                                                                                         |                    3|[Stony Silence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=247425)      |
 

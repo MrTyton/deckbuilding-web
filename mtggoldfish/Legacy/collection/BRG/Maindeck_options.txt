@@ -1,9 +1,16 @@
-1 Scavenging Ooze
+2 Hymn to Tourach
+3 Bloodstained Mire
+1 Urborg, Tomb of Yawgmoth
+1 Tireless Tracker
+1 Bloodbraid Elf
+2 Swamp
+2 Bloodbraid Elf
+3 Hymn to Tourach
+3 Bloodbraid Elf
+4 Inquisition of Kozilek
+4 Grove of the Burnwillows
 1 Taiga
 2 Sylvan Library
-1 Hymn to Tourach
-1 Kolaghan's Command
-2 Hymn to Tourach
 1 Life from the Loam
 1 Crop Rotation
 1 Mox Diamond
@@ -19,7 +26,6 @@
 3 Urborg, Tomb of Yawgmoth
 3 Crop Rotation
 3 Dark Depths
-3 Bloodstained Mire
 3 Badlands
 1 Mountain
 1 Barren Moor
@@ -28,12 +34,6 @@
 2 Scavenging Ooze
 1 Polluted Delta
 2 Polluted Delta
-1 Tireless Tracker
-1 Bloodbraid Elf
-2 Swamp
-2 Bloodbraid Elf
-3 Hymn to Tourach
-3 Bloodbraid Elf
 1 Misty Rainforest
 1 Exploration
 1 Blast Zone
@@ -50,9 +50,9 @@
 4 Cabal Therapy
 1 Anger
 1 Creeping Chill
-1 Satyr Wayfinder
 1 Vengevine
 1 Dryad Arbor
+1 Satyr Wayfinder
 1 Golgari Grave-Troll
 1 Dakmor Salvage
 1 Entomb
@@ -62,8 +62,8 @@
 1 Hogaak, Arisen Necropolis
 1 Putrid Imp
 1 Gravecrawler
-2 Satyr Wayfinder
 2 Vengevine
+2 Satyr Wayfinder
 2 Hogaak, Arisen Necropolis
 2 Gravecrawler
 2 Putrid Imp
@@ -72,9 +72,9 @@
 2 Entomb
 2 Bloodghast
 3 Putrid Imp
-3 Satyr Wayfinder
 3 Bayou
 3 Vengevine
+3 Satyr Wayfinder
 3 Entomb
 3 Hogaak, Arisen Necropolis
 3 Bloodghast
@@ -120,10 +120,10 @@
 3 Bedlam Reveler
 3 Land Grant
 3 Rite of Flame
+3 Young Pyromancer
 3 Dark Ritual
 3 Faithless Looting
 3 Buried Alive
-3 Young Pyromancer
 3 Arclight Phoenix
 4 Bedlam Reveler
 4 Young Pyromancer
