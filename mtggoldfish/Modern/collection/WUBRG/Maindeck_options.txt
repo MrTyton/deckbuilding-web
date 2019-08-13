@@ -49,11 +49,11 @@
 1 Cavern of Souls
 1 Fiery Islet
 1 Creeping Trailblazer
-1 Fulminator Mage
 1 Sunbaked Canyon
 1 Aether Vial
 1 Risen Reef
 1 Copperline Gorge
+1 Fulminator Mage
 1 Flamekin Harbinger
 1 Unclaimed Territory
 1 Voice of Resurgence
@@ -108,12 +108,6 @@
 2 Vizier of Remedies
 2 Incubation/Incongruity
 2 Breeding Pool
-1 Lightning Skelemental
-2 Fulminator Mage
-2 Lightning Skelemental
-3 Lightning Skelemental
-3 Collected Company
-4 Lightning Skelemental
 1 Fauna Shaman
 2 Fauna Shaman
 3 Fauna Shaman
@@ -124,30 +118,30 @@
 1 Overgrown Tomb
 1 City of Brass
 1 Verdant Catacombs
-2 Verdant Catacombs
-2 Blood Crypt
 2 Overgrown Tomb
+2 Blood Crypt
+2 Verdant Catacombs
 3 Faithless Looting
 3 Verdant Catacombs
 4 Faithless Looting
 4 Verdant Catacombs
 1 Polluted Delta
-1 Mana Confluence
-1 Snow-Covered Swamp
 1 Watery Grave
+1 Mana Confluence
+1 Satyr Wayfinder
+1 Snow-Covered Swamp
 1 Vengevine
 1 Stitcher's Supplier
 1 Hogaak, Arisen Necropolis
 1 Bloodghast
 1 Gravecrawler
-1 Satyr Wayfinder
 1 Hedron Crab
 1 Carrion Feeder
 1 Prized Amalgam
 2 Mana Confluence
 2 Polluted Delta
-2 Hogaak, Arisen Necropolis
 2 Satyr Wayfinder
+2 Hogaak, Arisen Necropolis
 2 Bloodghast
 2 Watery Grave
 2 Gravecrawler
@@ -158,26 +152,32 @@
 2 Vengevine
 3 Polluted Delta
 3 Mana Confluence
+3 Satyr Wayfinder
 3 Hedron Crab
 3 Carrion Feeder
-3 Satyr Wayfinder
 3 Stitcher's Supplier
 3 Vengevine
 3 Prized Amalgam
 3 Hogaak, Arisen Necropolis
 3 Bloodghast
 3 Gravecrawler
-4 Prized Amalgam
 4 Mana Confluence
+4 Prized Amalgam
 4 Polluted Delta
+4 Hogaak, Arisen Necropolis
 4 Satyr Wayfinder
 4 Stitcher's Supplier
 4 Vengevine
 4 Bloodghast
-4 Hogaak, Arisen Necropolis
 4 Gravecrawler
 4 Hedron Crab
 4 Carrion Feeder
+1 Lightning Skelemental
+2 Fulminator Mage
+2 Lightning Skelemental
+3 Lightning Skelemental
+3 Collected Company
+4 Lightning Skelemental
 1 Godless Shrine
 1 Knight of Autumn
 1 Assassin's Trophy
@@ -186,28 +186,28 @@
 3 Bring to Light
 2 Assassin's Trophy
 3 Assassin's Trophy
+1 Inquisition of Kozilek
 1 Kaya's Guile
 1 Ashiok, Dream Render
 1 Kess, Dissident Mage
 1 Nahiri, the Harbinger
 1 Niv-Mizzet Reborn
-1 Bloodbraid Elf
-1 Kolaghan's Command
-1 Inquisition of Kozilek
 1 Detention Sphere
 1 Sin Collector
+1 Kolaghan's Command
 1 Izzet Charm
+1 Bloodbraid Elf
 1 Safewright Quest
 1 Supreme Verdict
 1 Pillar of the Paruns
 1 Blooming Marsh
 1 Lightning Helix
 2 Inquisition of Kozilek
-2 Bloodbraid Elf
 2 Kolaghan's Command
 2 Safewright Quest
 2 Pillar of the Paruns
 2 Lightning Helix
+2 Bloodbraid Elf
 2 Izzet Charm
 2 City of Brass
 2 Niv-Mizzet Reborn
@@ -256,9 +256,9 @@
 4 Wild Nacatl
 4 Tribal Flames
 4 Lightning Bolt
-1 Arid Mesa
 1 Deceiver Exarch
 1 Kiki-Jiki, Mirror Breaker
+1 Arid Mesa
 1 Utopia Sprawl
 1 Scalding Tarn
 1 Felidar Guardian
@@ -266,9 +266,9 @@
 1 Eternal Witness
 1 Remand
 1 Chancellor of the Annex
-2 Arid Mesa
 2 Deceiver Exarch
 2 Kiki-Jiki, Mirror Breaker
+2 Arid Mesa
 2 Utopia Sprawl
 2 Saheeli Rai
 2 Remand
@@ -285,10 +285,10 @@
 3 Scalding Tarn
 3 Utopia Sprawl
 4 Remand
-4 Arid Mesa
 4 Teferi, Time Raveler
 4 Utopia Sprawl
 4 Bring to Light
+4 Arid Mesa
 4 Scalding Tarn
 4 Felidar Guardian
 4 Saheeli Rai
@@ -348,26 +348,26 @@
 4 Lantern of Insight
 4 Spire of Industry
 4 Mox Opal
+1 Bloodstained Mire
 1 Ghor-Clan Rampager
 1 Bomat Courier
-1 Collective Brutality
 1 Traverse the Ulvenwald
 1 Nurturing Peatland
 1 Thrun, the Last Troll
+1 Collective Brutality
 1 Soulflayer
 1 Hazoret the Fervent
 1 Swamp
 1 Grisly Salvage
 1 Drogskol Reaver
-1 Bloodstained Mire
 1 Samut, Voice of Dissent
 1 Lotleth Troll
 1 Zetalpa, Primal Dawn
 2 Traverse the Ulvenwald
 2 Bomat Courier
+2 Bloodstained Mire
 2 Collective Brutality
 2 Nurturing Peatland
-2 Bloodstained Mire
 2 Drogskol Reaver
 2 Samut, Voice of Dissent
 2 Lotleth Troll

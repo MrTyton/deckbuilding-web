@@ -1,0 +1,28 @@
+# Jeskai Feather
+
+#### [Export MTGO List](../collection/Jeskai%20Feather/Jeskai%20Feather.txt)
+#### [Export Arena List](../collection/Jeskai%20Feather/Jeskai%20Feather_arena.txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=2%09Adeliz,%20the%20Cinder%20Wind%0A1%09Aurelia,%20Exemplar%20of%20Justice%0A4%09Clifftop%20Retreat%0A4%09Defiant%20Strike%0A3%09Deputy%20of%20Detention%0A4%09Dreadhorde%20Arcanist%0A3%09Feather,%20the%20Redeemed%0A2%09Glacial%20Fortress%0A4%09Gods%20Willing%0A4%09Hallowed%20Fountain%0A1%09Infuriate%0A4%09Lightning%20Stormkin%0A1%09Plains%0A4%09Reckless%20Rage%0A4%09Sacred%20Foundry%0A4%09Shock%0A4%09Steam%20Vents%0A2%09Temple%20of%20Epiphany%0A1%09Temple%20of%20Triumph%0A4%09Tenth%20District%20Legionnaire&deckside=2%09Aether%20Gust%0A1%09Ajani,%20Adversary%20of%20Tyrants%0A1%09Chandra,%20Acolyte%20of%20Flame%0A1%09Devout%20Decree%0A2%09Dovin's%20Veto%0A2%09Fry%0A4%09Gideon%20Blackblade%0A1%09Lava%20Coil%0A1%09Teferi,%20Time%20Raveler)
+# Maindeck
+
+|                                              Creature (21)                                              |                                       Instant (17)                                        |                                           Land (22)                                           |
+|---------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
+|2 [Adeliz, the Cinder Wind](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443078)     |4 [Defiant Strike](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386515)|4 [Clifftop Retreat](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443127)  |
+|1 [Aurelia, Exemplar of Justice](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452903)|4 [Gods Willing](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442005)  |2 [Glacial Fortress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=190562)  |
+|3 [Deputy of Detention](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457309)         |1 [Infuriate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466899)     |4 [Hallowed Fountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=97071)  |
+|4 [Dreadhorde Arcanist](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461052)         |4 [Reckless Rage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439767) |1 [Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)            |
+|3 [Feather, the Redeemed](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461124)       |4 [Shock](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129732)         |4 [Sacred Foundry](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405106)    |
+|4 [Lightning Stormkin](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466967)          |                                                                                           |4 [Steam Vents](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405109)       |
+|4 [Tenth District Legionnaire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461149)  |                                                                                           |2 [Temple of Epiphany](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442808)|
+|                                                                                                         |                                                                                           |1 [Temple of Triumph](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373560) |
+
+
+# Sideboard
+
+|                                       Instant (6)                                       |                                            Planeswalker (7)                                            |                                       Sorcery (2)                                        |
+|-----------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
+|2 [Aether Gust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466796) |1 [Ajani, Adversary of Tyrants](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447139)|1 [Devout Decree](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466767)|
+|2 [Dovin's Veto](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461120)|1 [Chandra, Acolyte of Flame](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466880)  |1 [Lava Coil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452858)    |
+|2 [Fry](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466894)         |4 [Gideon Blackblade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463943)          |                                                                                          |
+|                                                                                         |1 [Teferi, Time Raveler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461148)       |                                                                                          |
+
