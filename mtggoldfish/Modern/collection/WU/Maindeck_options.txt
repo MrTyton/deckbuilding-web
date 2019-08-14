@@ -30,6 +30,7 @@
 1 Blast Zone
 1 Repeal
 2 Wurmcoil Engine
+2 Relic of Progenitus
 2 Remand
 2 Thirst for Knowledge
 2 Karn, the Great Creator
@@ -39,7 +40,6 @@
 2 Urza's Mine
 2 Urza's Tower
 2 Walking Ballista
-2 Relic of Progenitus
 3 Urza's Tower
 3 Urza's Mine
 3 Urza's Power Plant
@@ -54,52 +54,52 @@
 4 Urza's Power Plant
 1 Serum Visions
 2 Serum Visions
+1 Arcum's Astrolabe
 1 Ichor Wellspring
-1 Mox Opal
+1 Prismatic Vista
+1 Engineered Explosives
 1 Paradoxical Outcome
 1 Metallic Rebuke
 1 Opt
-1 Prismatic Vista
+1 Mox Opal
 1 Sai, Master Thopterist
 1 Urza, Lord High Artificer
-1 Engineered Explosives
-1 Arcum's Astrolabe
 1 Mishra's Bauble
 1 Pentad Prism
+2 Arcum's Astrolabe
 2 Snow-Covered Island
 2 Ichor Wellspring
+2 Prismatic Vista
 2 Sai, Master Thopterist
-2 Mox Opal
 2 Engineered Explosives
 2 Metallic Rebuke
-2 Arcum's Astrolabe
+2 Mox Opal
 2 Paradoxical Outcome
-2 Prismatic Vista
 2 Snapcaster Mage
 2 Urza, Lord High Artificer
+2 Opt
 2 Pentad Prism
 2 Mishra's Bauble
-2 Opt
-3 Snow-Covered Island
-3 Mox Opal
-3 Pentad Prism
-3 Engineered Explosives
-3 Ichor Wellspring
-3 Prismatic Vista
 3 Arcum's Astrolabe
+3 Snow-Covered Island
+3 Prismatic Vista
+3 Pentad Prism
+3 Ichor Wellspring
+3 Engineered Explosives
 3 Mishra's Bauble
 3 Paradoxical Outcome
 3 Serum Visions
+3 Mox Opal
 3 Urza, Lord High Artificer
-4 Mox Opal
+4 Arcum's Astrolabe
 4 Snow-Covered Island
 4 Pentad Prism
 4 Mishra's Bauble
 4 Urza, Lord High Artificer
 4 Engineered Explosives
+4 Mox Opal
 4 Paradoxical Outcome
 4 Serum Visions
-4 Arcum's Astrolabe
 5 Snow-Covered Island
 6 Snow-Covered Island
 7 Snow-Covered Island
@@ -132,10 +132,10 @@
 3 Jace, the Mind Sculptor
 3 Plains
 3 Narset, Parter of Veils
+3 Field of Ruin
 3 Supreme Verdict
 3 Force of Negation
 3 Celestial Colonnade
-3 Field of Ruin
 3 Mystic Gate
 3 Wall of Omens
 3 Cryptic Command

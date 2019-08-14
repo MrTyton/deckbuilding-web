@@ -1,9 +1,9 @@
-1 Fulminator Mage
 1 Sunbaked Canyon
 1 Aether Vial
 1 Risen Reef
 1 Copperline Gorge
 1 Flamekin Harbinger
+1 Fulminator Mage
 1 Unclaimed Territory
 1 Voice of Resurgence
 1 Vesperlark
@@ -37,7 +37,6 @@
 3 Vesperlark
 3 Thunderkin Awakener
 3 Unclaimed Territory
-4 Cavern of Souls
 4 Aether Vial
 4 Primal Beyond
 4 Flamekin Harbinger
@@ -45,6 +44,7 @@
 4 Copperline Gorge
 4 Thunderkin Awakener
 4 Vesperlark
+4 Cavern of Souls
 1 Hallowed Fountain
 1 Horizon Canopy
 1 Path to Exile
@@ -63,8 +63,8 @@
 2 Windswept Heath
 3 Windswept Heath
 4 Windswept Heath
-1 Scavenging Ooze
 1 Noble Hierarch
+1 Scavenging Ooze
 2 Noble Hierarch
 3 Noble Hierarch
 4 Noble Hierarch
@@ -99,10 +99,10 @@
 3 Allosaurus Rider
 3 Neoform
 4 Devoted Druid
+4 Misty Rainforest
 4 Eladamri's Call
 4 Eldritch Evolution
 4 Allosaurus Rider
-4 Misty Rainforest
 4 Neoform
 1 Teferi, Time Raveler
 2 Teferi, Time Raveler
@@ -130,8 +130,8 @@
 3 Niv-Mizzet Reborn
 3 Pillar of the Paruns
 4 Pillar of the Paruns
-1 Blood Crypt
 1 Wooded Foothills
+1 Blood Crypt
 2 Wooded Foothills
 1 Veil of Summer
 1 Incubation/Incongruity
@@ -142,104 +142,26 @@
 2 Fauna Shaman
 3 Fauna Shaman
 4 Fauna Shaman
-1 City of Brass
 3 Assassin's Trophy
 1 Ashiok, Dream Render
 1 Kess, Dissident Mage
 1 Inquisition of Kozilek
 1 Detention Sphere
+1 Supreme Verdict
 1 Sin Collector
 1 Nahiri, the Harbinger
 1 Safewright Quest
-1 Supreme Verdict
 1 Kaya's Guile
 1 Blooming Marsh
+1 City of Brass
 2 Inquisition of Kozilek
+2 City of Brass
 2 Kolaghan's Command
 2 Safewright Quest
 2 Lightning Helix
-2 City of Brass
 3 City of Brass
 3 Lightning Helix
 4 Lightning Helix
-1 Mana Confluence
-1 Snow-Covered Swamp
-2 Mana Confluence
-3 Mana Confluence
-1 Verdant Catacombs
-2 Verdant Catacombs
-2 Blood Crypt
-2 Overgrown Tomb
-3 Faithless Looting
-3 Verdant Catacombs
-4 Faithless Looting
-4 Verdant Catacombs
-1 Polluted Delta
-1 Watery Grave
-1 Prized Amalgam
-1 Satyr Wayfinder
-1 Hogaak, Arisen Necropolis
-1 Vengevine
-1 Stitcher's Supplier
-1 Bloodghast
-1 Gravecrawler
-1 Hedron Crab
-1 Carrion Feeder
-2 Polluted Delta
-2 Prized Amalgam
-2 Satyr Wayfinder
-2 Hogaak, Arisen Necropolis
-2 Bloodghast
-2 Watery Grave
-2 Gravecrawler
-2 Hedron Crab
-2 Carrion Feeder
-2 Stitcher's Supplier
-2 Vengevine
-3 Polluted Delta
-3 Prized Amalgam
-3 Satyr Wayfinder
-3 Hogaak, Arisen Necropolis
-3 Hedron Crab
-3 Carrion Feeder
-3 Stitcher's Supplier
-3 Vengevine
-3 Bloodghast
-3 Gravecrawler
-4 Mana Confluence
-4 Prized Amalgam
-4 Polluted Delta
-4 Satyr Wayfinder
-4 Hogaak, Arisen Necropolis
-4 Stitcher's Supplier
-4 Vengevine
-4 Bloodghast
-4 Gravecrawler
-4 Hedron Crab
-4 Carrion Feeder
-1 Snow-Covered Forest
-1 Snow-Covered Island
-1 Snow-Covered Mountain
-1 Ice-Fang Coatl
-1 Domri, Anarch of Bolas
-1 Arcum's Astrolabe
-1 Thought Erasure
-1 Abrupt Decay
-1 Dead of Winter
-1 Prismatic Vista
-1 Snow-Covered Plains
-1 Unmoored Ego
-1 Kaya, Orzhov Usurper
-2 Prismatic Vista
-2 Ice-Fang Coatl
-2 Arcum's Astrolabe
-3 Ice-Fang Coatl
-3 Arcum's Astrolabe
-3 Bloodbraid Elf
-3 Prismatic Vista
-4 Ice-Fang Coatl
-4 Arcum's Astrolabe
-4 Prismatic Vista
 1 Leyline of the Void
 1 Flickerwisp
 1 Healer of the Glade
@@ -279,9 +201,9 @@
 4 Wild Nacatl
 4 Tribal Flames
 4 Lightning Bolt
-1 Arid Mesa
 1 Deceiver Exarch
 1 Kiki-Jiki, Mirror Breaker
+1 Arid Mesa
 1 Utopia Sprawl
 1 Scalding Tarn
 1 Felidar Guardian
@@ -289,9 +211,9 @@
 1 Eternal Witness
 1 Remand
 1 Chancellor of the Annex
-2 Arid Mesa
 2 Deceiver Exarch
 2 Kiki-Jiki, Mirror Breaker
+2 Arid Mesa
 2 Utopia Sprawl
 2 Saheeli Rai
 2 Remand
@@ -300,98 +222,129 @@
 2 Chancellor of the Annex
 2 Felidar Guardian
 3 Remand
-3 Deceiver Exarch
 3 Teferi, Time Raveler
+3 Deceiver Exarch
 3 Arid Mesa
 3 Felidar Guardian
 3 Saheeli Rai
 3 Scalding Tarn
 3 Utopia Sprawl
 4 Remand
-4 Arid Mesa
 4 Teferi, Time Raveler
 4 Utopia Sprawl
 4 Bring to Light
+4 Arid Mesa
 4 Scalding Tarn
 4 Felidar Guardian
 4 Saheeli Rai
+1 Snow-Covered Forest
+1 Snow-Covered Island
+1 Academy Ruins
+1 Spire of Industry
 1 Welding Jar
+1 Darkslick Shores
+1 Sword of the Meek
 1 Codex Shredder
+1 Thopter Foundry
 1 Ensnaring Bridge
 1 Thoughtseize
 1 Nihil Spellbomb
 1 Mox Opal
 1 Urza, Lord High Artificer
-1 Spire of Industry
-1 Sword of the Meek
 1 Glimmervoid
 1 Whir of Invention
-1 Pyxis of Pandemonium
 1 Pithing Needle
-1 Darkslick Shores
-1 Thopter Foundry
+1 Pyxis of Pandemonium
 1 Inventors' Fair
 1 Lantern of Insight
 1 Grafdigger's Cage
-1 Academy Ruins
 1 Ancient Stirrings
+2 Pithing Needle
+2 Darkslick Shores
+2 Spire of Industry
 2 Codex Shredder
+2 Mox Opal
 2 Pyxis of Pandemonium
 2 Botanical Sanctum
-2 Pithing Needle
 2 Thoughtseize
 2 Lantern of Insight
-2 Darkslick Shores
-2 Ancient Stirrings
 2 Urza, Lord High Artificer
-2 Spire of Industry
+2 Ancient Stirrings
 2 Ensnaring Bridge
 2 Glimmervoid
 2 Whir of Invention
-2 Mox Opal
+3 Darkslick Shores
 3 Codex Shredder
-3 Thoughtseize
 3 Spire of Industry
 3 Ensnaring Bridge
 3 Glimmervoid
 3 Whir of Invention
 3 Mox Opal
-3 Darkslick Shores
 3 Botanical Sanctum
 3 Ancient Stirrings
+3 Thoughtseize
 3 Lantern of Insight
 3 Urza, Lord High Artificer
 4 Whir of Invention
 4 Botanical Sanctum
 4 Glimmervoid
-4 Ancient Stirrings
+4 Mox Opal
 4 Codex Shredder
+4 Ancient Stirrings
 4 Lantern of Insight
 4 Spire of Industry
-4 Mox Opal
+1 Arcum's Astrolabe
+1 Domri, Anarch of Bolas
+1 Ice-Fang Coatl
+1 Mana Confluence
+1 Unmoored Ego
+1 Thought Erasure
+1 Dead of Winter
+1 Abrupt Decay
+1 Prismatic Vista
+1 Snow-Covered Plains
+1 Kaya, Orzhov Usurper
+1 Snow-Covered Mountain
+1 Snow-Covered Swamp
+2 Prismatic Vista
+2 Mana Confluence
+2 Ice-Fang Coatl
+2 Arcum's Astrolabe
+3 Prismatic Vista
+3 Ice-Fang Coatl
+3 Mana Confluence
+3 Bloodbraid Elf
+3 Arcum's Astrolabe
+4 Ice-Fang Coatl
+4 Prismatic Vista
+4 Arcum's Astrolabe
 1 Ghor-Clan Rampager
+1 Bloodstained Mire
 1 Bomat Courier
-1 Collective Brutality
-1 Lotleth Troll
 1 Traverse the Ulvenwald
 1 Nurturing Peatland
 1 Thrun, the Last Troll
+1 Collective Brutality
 1 Soulflayer
 1 Hazoret the Fervent
 1 Swamp
 1 Grisly Salvage
 1 Drogskol Reaver
-1 Bloodstained Mire
 1 Samut, Voice of Dissent
+1 Lotleth Troll
 1 Zetalpa, Primal Dawn
+1 Verdant Catacombs
 2 Traverse the Ulvenwald
 2 Bomat Courier
-2 Lotleth Troll
+2 Bloodstained Mire
+2 Overgrown Tomb
 2 Nurturing Peatland
 2 Collective Brutality
-2 Bloodstained Mire
+2 Blood Crypt
 2 Drogskol Reaver
 2 Samut, Voice of Dissent
+2 Lotleth Troll
+2 Verdant Catacombs
 2 Grisly Salvage
 2 Zetalpa, Primal Dawn
 2 Soulflayer
@@ -401,11 +354,15 @@
 3 Zetalpa, Primal Dawn
 3 Grisly Salvage
 3 Soulflayer
+3 Faithless Looting
 3 Bloodstained Mire
 3 Drogskol Reaver
 3 Lotleth Troll
+3 Verdant Catacombs
 3 Samut, Voice of Dissent
 4 Traverse the Ulvenwald
 4 Grisly Salvage
+4 Faithless Looting
+4 Verdant Catacombs
 4 Bloodstained Mire
 4 Soulflayer

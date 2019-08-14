@@ -51,7 +51,7 @@
 |                    2|[Eternal Witness](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=51628)     |                    1|[Unified Will](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=193456)          |
 |                    3|[Giver of Runes](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463962)     |                    2|[Worship](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=25553)                |
 |                    3|[Duskwatch Recruiter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409961)|                    2|[Burrenton Forge-Tender](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438580)|
-|                    3|[Verdant Catacombs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405113)  |                    2|[Unified Will](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=193456)          |
-|                    4|[Giver of Runes](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463962)     |                    3|[Unified Will](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=193456)          |
+|                    4|[Giver of Runes](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463962)     |                    2|[Unified Will](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=193456)          |
+|                    3|[Verdant Catacombs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405113)  |                    3|[Unified Will](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=193456)          |
 |                     |                                                                                              |                    3|[Worship](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=25553)                |
 
