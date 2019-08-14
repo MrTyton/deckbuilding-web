@@ -1,29 +1,21 @@
-4 Path to Exile
-2 Hexdrinker
-1 Sunbaked Canyon
-1 Godless Shrine
 1 Lightning Skelemental
+1 Godless Shrine
 1 Overgrown Tomb
 1 Unearth
 1 Ahn-Crop Crasher
-2 Unearth
 2 Lightning Skelemental
+2 Unearth
 2 Ahn-Crop Crasher
 2 Steam Vents
 3 Lightning Skelemental
 3 Ahn-Crop Crasher
 4 Lightning Skelemental
 4 Ahn-Crop Crasher
-1 Kessig Wolf Run
-1 Gruul Spellbreaker
-2 Gruul Spellbreaker
-2 Forest
+1 Qasali Pridemage
+1 Ghost Quarter
+4 Knight of the Reliquary
 1 Knight of Autumn
 2 Temple Garden
-1 Horizon Canopy
-1 Grim Lavamancer
-1 Ajani Vengeant
-2 Qasali Pridemage
 3 Hexdrinker
 1 Narnam Renegade
 2 Narnam Renegade
@@ -35,6 +27,7 @@
 3 Atarka's Command
 4 Goblin Guide
 4 Atarka's Command
+1 Ajani Vengeant
 1 Light Up the Stage
 1 Hallowed Fountain
 1 Dreadhorde Arcanist
@@ -44,30 +37,20 @@
 1 Mantis Rider
 1 Breeding Pool
 2 Light Up the Stage
+2 Qasali Pridemage
 2 Mantis Rider
 3 Mantis Rider
 4 Mantis Rider
-1 Field of Ruin
-1 Huntmaster of the Fells
-1 Aven Mindcensor
-1 Scavenging Ooze
-1 Stirring Wildwood
-1 Thalia, Heretic Cathar
-1 Voice of Resurgence
-1 Arlinn Kord
-2 Huntmaster of the Fells
-2 Scavenging Ooze
-2 Voice of Resurgence
+1 Seasoned Pyromancer
 1 Snow-Covered Plains
 1 Mana Tithe
-1 Snow-Covered Mountain
 1 Snow-Covered Forest
+1 Snow-Covered Mountain
 1 Chandra, Torch of Defiance
 1 Grafdigger's Cage
-1 Seasoned Pyromancer
 1 Gideon Blackblade
-2 Sunbaked Canyon
 2 Seasoned Pyromancer
+2 Sunbaked Canyon
 2 Snow-Covered Forest
 2 Mana Tithe
 2 Snow-Covered Plains
@@ -80,8 +63,8 @@
 1 Skewer the Critics
 1 Eidolon of the Great Revel
 1 Rift Bolt
-2 Kird Ape
 2 Eidolon of the Great Revel
+2 Kird Ape
 2 Skewer the Critics
 2 Rift Bolt
 3 Eidolon of the Great Revel
@@ -89,7 +72,9 @@
 3 Skewer the Critics
 3 Rift Bolt
 4 Eidolon of the Great Revel
+1 Horizon Canopy
 1 Wrenn and Six
+1 Grim Lavamancer
 1 Tireless Tracker
 1 Plated Geopede
 1 Steppe Lynx
@@ -122,8 +107,8 @@
 3 Reckless Bushwhacker
 3 Stomping Ground
 3 Narnam Renegade
-3 Vexing Devil
 3 Hidden Herbalists
+3 Vexing Devil
 3 Bloodstained Mire
 4 Simian Spirit Guide
 4 Burning-Tree Emissary
@@ -133,8 +118,12 @@
 4 Stomping Ground
 4 Narnam Renegade
 1 Elspeth, Knight-Errant
+1 Gruul Spellbreaker
 1 Goblin Cratermaker
+1 Kessig Wolf Run
+2 Gruul Spellbreaker
 2 Goblin Cratermaker
+2 Forest
 2 Elspeth, Knight-Errant
 3 Gruul Spellbreaker
 4 Gruul Spellbreaker

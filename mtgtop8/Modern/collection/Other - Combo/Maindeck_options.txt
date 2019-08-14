@@ -1,53 +1,111 @@
+1 Forest
+2 Forest
+1 Karn, the Great Creator
+1 Walking Ballista
+2 Karn, the Great Creator
+3 Karn, the Great Creator
+4 Karn, the Great Creator
+1 Ancient Stirrings
+1 Blast Zone
+1 Mystic Forge
+1 Zhalfirin Void
+1 Copperline Gorge
+1 Horizon Canopy
+1 Surge Node
+1 Everflowing Chalice
+1 Coretapper
+1 Astral Cornucopia
+1 Nurturing Peatland
+1 Inventors' Fair
+1 Grove of the Burnwillows
+1 Pyrite Spellbomb
+1 Mox Opal
+1 Paradox Engine
+1 Engineered Explosives
+1 Ensnaring Bridge
+2 Pyrite Spellbomb
+2 Ancient Stirrings
+2 Blast Zone
+2 Grove of the Burnwillows
+2 Zhalfirin Void
+2 Coretapper
+2 Astral Cornucopia
+2 Surge Node
+2 Everflowing Chalice
+2 Inventors' Fair
+2 Mystic Forge
+2 Ensnaring Bridge
+2 Paradox Engine
+2 Mox Opal
+3 Blast Zone
+3 Ancient Stirrings
+3 Mystic Forge
+3 Ensnaring Bridge
+3 Coretapper
+3 Astral Cornucopia
+3 Everflowing Chalice
+3 Surge Node
+3 Mox Opal
+3 Paradox Engine
+3 Inventors' Fair
+3 Pyrite Spellbomb
+3 Grove of the Burnwillows
+4 Ancient Stirrings
+4 Blast Zone
+4 Everflowing Chalice
+4 Surge Node
+4 Coretapper
+4 Astral Cornucopia
+4 Grove of the Burnwillows
+4 Mox Opal
 1 Simian Spirit Guide
 1 Mountain
 1 Lightning Bolt
 2 Simian Spirit Guide
 2 Lightning Bolt
-3 Lightning Bolt
 3 Simian Spirit Guide
+3 Lightning Bolt
 4 Simian Spirit Guide
-1 Scalding Tarn
-2 Scalding Tarn
-3 Scalding Tarn
-4 Scalding Tarn
 1 Peek
 1 Sphinx of Foresight
 1 Lightning Axe
 1 Arid Mesa
 1 Opt
+1 Ancestral Vision
 1 Dreadhorde Arcanist
 1 Crashing Footfalls
-1 Flooded Strand
 1 As Foretold
 1 Electrodominance
-1 Ancestral Vision
+1 Scalding Tarn
 1 Flame Slash
 1 Force of Negation
+1 Flooded Strand
 2 Peek
 2 Mountain
 2 Crashing Footfalls
-2 Opt
 2 Electrodominance
+2 Opt
 2 Dreadhorde Arcanist
 2 Ancestral Vision
 2 As Foretold
+2 Scalding Tarn
 2 Force of Negation
 2 Sphinx of Foresight
+3 Steam Vents
 3 Electrodominance
 3 Dreadhorde Arcanist
 3 Ancestral Vision
 3 As Foretold
 3 Crashing Footfalls
-3 Steam Vents
+3 Scalding Tarn
 3 Force of Negation
 3 Sphinx of Foresight
-4 Force of Negation
 4 Crashing Footfalls
+4 Scalding Tarn
+4 Force of Negation
 4 As Foretold
 4 Electrodominance
 4 Ancestral Vision
-1 Forest
-2 Forest
 1 Faithless Looting
 1 Reforge the Soul
 1 Pact of Negation
@@ -75,15 +133,15 @@
 2 Traverse the Ulvenwald
 2 Goblin Charbelcher
 2 Desperate Ritual
-2 Renegade Map
 2 Recross the Paths
+2 Renegade Map
 3 Pyretic Ritual
 3 Faithless Looting
 3 Renegade Map
 3 Traverse the Ulvenwald
-3 Caravan Vigil
 3 Desperate Ritual
 3 Goblin Charbelcher
+3 Caravan Vigil
 3 Lay of the Land
 3 Wild Cantor
 3 Chancellor of the Tangle
@@ -98,118 +156,12 @@
 4 Wild Cantor
 4 Renegade Map
 4 Lay of the Land
-1 Mox Opal
-1 Ensnaring Bridge
-2 Mox Opal
-3 Mox Opal
-4 Mox Opal
-1 Karn, the Great Creator
-1 Walking Ballista
-2 Karn, the Great Creator
-3 Karn, the Great Creator
-4 Karn, the Great Creator
-1 Ancient Stirrings
-1 Blast Zone
-1 Mystic Forge
-1 Zhalfirin Void
-1 Copperline Gorge
-1 Horizon Canopy
-1 Nurturing Peatland
-1 Paradox Engine
-1 Inventors' Fair
-1 Astral Cornucopia
-1 Grove of the Burnwillows
-1 Pyrite Spellbomb
-1 Coretapper
-1 Everflowing Chalice
-1 Engineered Explosives
-1 Surge Node
-2 Pyrite Spellbomb
-2 Ancient Stirrings
-2 Blast Zone
-2 Grove of the Burnwillows
-2 Zhalfirin Void
-2 Inventors' Fair
-2 Paradox Engine
-2 Mystic Forge
-2 Ensnaring Bridge
-2 Everflowing Chalice
-2 Astral Cornucopia
-2 Coretapper
-2 Surge Node
-3 Blast Zone
-3 Ancient Stirrings
-3 Mystic Forge
-3 Ensnaring Bridge
-3 Pyrite Spellbomb
-3 Grove of the Burnwillows
-3 Surge Node
-3 Paradox Engine
-3 Astral Cornucopia
-3 Inventors' Fair
-3 Everflowing Chalice
-3 Coretapper
-4 Ancient Stirrings
-4 Surge Node
-4 Grove of the Burnwillows
-4 Astral Cornucopia
-4 Coretapper
-4 Blast Zone
-4 Everflowing Chalice
-1 Snow-Covered Mountain
-1 Snow-Covered Island
-1 Spire of Industry
-1 Scrap Trawler
-1 Snow-Covered Swamp
-1 Arcum's Astrolabe
-1 Kozilek, Butcher of Truth
-1 Polluted Delta
-1 Watery Grave
-1 Urza, Lord High Artificer
-1 Sword of the Meek
-1 Thopter Foundry
-1 Pithing Needle
-1 Tormod's Crypt
-1 Whir of Invention
-1 Nihil Spellbomb
-1 Grafdigger's Cage
-1 Ichor Wellspring
-1 Goblin Engineer
-1 Sai, Master Thopterist
-1 Ghirapur Aether Grid
-1 Mishra's Bauble
-2 Arcum's Astrolabe
-2 Snow-Covered Island
-2 Polluted Delta
-2 Urza, Lord High Artificer
-2 Pithing Needle
-2 Thopter Foundry
-2 Goblin Engineer
-2 Whir of Invention
-2 Mishra's Bauble
-3 Arcum's Astrolabe
-3 Polluted Delta
-3 Snow-Covered Island
-3 Urza, Lord High Artificer
-3 Mishra's Bauble
-3 Whir of Invention
-3 Thopter Foundry
-3 Goblin Engineer
-4 Whir of Invention
-4 Arcum's Astrolabe
-4 Goblin Engineer
-4 Polluted Delta
-4 Snow-Covered Island
-4 Mishra's Bauble
-4 Thopter Foundry
-4 Urza, Lord High Artificer
-5 Snow-Covered Island
 1 Nykthos, Shrine to Nyx
 1 Acidic Slime
 1 Nissa, Vastwood Seer
 1 Mwonvuli Acid-Moss
-1 Primal Command
 1 Eternal Witness
+1 Primal Command
 1 Overgrowth
 1 Trinisphere
 1 Garruk Wildspeaker
@@ -219,9 +171,9 @@
 1 Nissa, Worldwaker
 1 Breeding Pool
 1 Arbor Elf
+2 Primal Command
 2 Nissa, Vastwood Seer
 2 Mwonvuli Acid-Moss
-2 Primal Command
 2 Acidic Slime
 2 Eternal Witness
 2 Breeding Pool

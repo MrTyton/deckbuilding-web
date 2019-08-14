@@ -1,13 +1,13 @@
 2 Thought Erasure
 1 Snow-Covered Forest
 2 Snow-Covered Forest
+1 Primal Command
 1 Utopia Sprawl
 1 Arbor Elf
 1 Trinisphere
 1 Karn, the Great Creator
 1 Eternal Witness
 1 Hornet Queen
-1 Primal Command
 1 Walking Ballista
 1 Llanowar Elves
 1 Mwonvuli Acid-Moss
@@ -16,24 +16,24 @@
 2 Utopia Sprawl
 2 Arbor Elf
 2 Karn, the Great Creator
-2 Primal Command
 2 Trinisphere
 2 Mwonvuli Acid-Moss
 2 Nissa, Vastwood Seer
+2 Primal Command
 3 Utopia Sprawl
-3 Karn, the Great Creator
 3 Arbor Elf
+3 Karn, the Great Creator
 3 Eternal Witness
 3 Mwonvuli Acid-Moss
 3 Nissa, Vastwood Seer
 3 Primal Command
 3 Trinisphere
 4 Arbor Elf
+4 Karn, the Great Creator
 4 Utopia Sprawl
 4 Eternal Witness
 4 Mwonvuli Acid-Moss
 4 Primal Command
-4 Karn, the Great Creator
 3 Snow-Covered Forest
 4 Snow-Covered Forest
 5 Snow-Covered Forest
@@ -67,20 +67,20 @@
 1 Dreadbore
 1 Snow-Covered Mountain
 1 Snow-Covered Island
-1 Frostwalk Bastion
-2 Frostwalk Bastion
 1 Nahiri, the Harbinger
 2 Huntmaster of the Fells
+1 Frostwalk Bastion
+2 Frostwalk Bastion
 3 Teferi, Time Raveler
 2 Bloodbraid Elf
-1 Detention Sphere
 1 Siege Rhino
 1 City of Brass
 1 Arid Mesa
+1 Detention Sphere
 1 Kaya, Orzhov Usurper
 2 Siege Rhino
-2 City of Brass
 2 Safewright Quest
+2 City of Brass
 2 Windswept Heath
 2 Ashiok, Dream Render
 2 Godless Shrine
@@ -109,8 +109,8 @@
 1 Remand
 2 Remand
 2 Cryptic Command
-3 Remand
 3 Cryptic Command
+3 Remand
 1 Opt
 2 Opt
 3 Opt
@@ -131,9 +131,8 @@
 1 Forbidden Orchard
 1 Mission Briefing
 1 Pongify
-2 Polluted Delta
-2 Rakdos Charm
 2 Island
+2 Rakdos Charm
 2 Trespasser's Curse
 2 Forbidden Orchard
 2 Watery Grave
@@ -141,6 +140,7 @@
 2 Darkness
 2 Mission Briefing
 2 Batwing Brume
+2 Polluted Delta
 2 Rapid Hybridization
 3 Polluted Delta
 3 Hunted Phantasm
@@ -156,24 +156,24 @@
 4 Trespasser's Curse
 4 Batwing Brume
 4 Rakdos Charm
-1 Ancestral Vision
-1 Fiery Islet
 1 Waterlogged Grove
-1 Cascade Bluffs
+1 Fiery Islet
 1 Magmatic Sinkhole
-1 Electrodominance
 1 Jace, the Mind Sculptor
+1 Electrodominance
 1 As Foretold
 1 Tarmogoyf
 1 Crashing Footfalls
 1 Dreadhorde Arcanist
+1 Ancestral Vision
+1 Cascade Bluffs
+2 Jace, the Mind Sculptor
 2 Magmatic Sinkhole
 2 As Foretold
 2 Ancestral Vision
 2 Dreadhorde Arcanist
 2 Electrodominance
 2 Tarmogoyf
-2 Jace, the Mind Sculptor
 2 Crashing Footfalls
 3 Tarmogoyf
 3 Crashing Footfalls
@@ -181,8 +181,8 @@
 3 Ancestral Vision
 3 Dreadhorde Arcanist
 3 Electrodominance
-4 Tarmogoyf
 4 Scalding Tarn
+4 Tarmogoyf
 4 Crashing Footfalls
 4 Dreadhorde Arcanist
 1 Snow-Covered Swamp
@@ -205,17 +205,17 @@
 1 Field of Ruin
 1 Growth Spiral
 1 Lumbering Falls
-1 Relic of Progenitus
 1 Wilderness Reclamation
 1 Narset, Parter of Veils
 1 Expansion / Explosion
+1 Relic of Progenitus
+2 Narset, Parter of Veils
 2 Field of Ruin
 2 Growth Spiral
-2 Relic of Progenitus
 2 Wilderness Reclamation
 2 Expansion / Explosion
 2 Ice-Fang Coatl
-2 Narset, Parter of Veils
+2 Relic of Progenitus
 3 Field of Ruin
 3 Growth Spiral
 3 Relic of Progenitus
@@ -224,15 +224,14 @@
 3 Ice-Fang Coatl
 3 Narset, Parter of Veils
 4 Narset, Parter of Veils
+4 Remand
+4 Cryptic Command
 4 Wilderness Reclamation
 4 Growth Spiral
 4 Expansion / Explosion
 4 Ice-Fang Coatl
-4 Cryptic Command
-4 Remand
 5 Snow-Covered Island
 1 Chandra, Acolyte of Flame
-1 Blood Moon
 1 Goblin Rabblemaster
 1 Fatal Push
 1 Thoughtseize
@@ -240,6 +239,7 @@
 1 Unearth
 1 Legion Warboss
 1 Faithless Looting
+1 Blood Moon
 2 Snow-Covered Swamp
 2 Chandra, Acolyte of Flame
 2 Blood Moon

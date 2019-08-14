@@ -87,7 +87,7 @@
 |                    2|[Disfigure](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442076)                  |                     |                                                                                               |
 |                    2|[Thrashing Brontodon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456570)        |                     |                                                                                               |
 |                    2|[Nissa, Who Shakes the World](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461096)|                     |                                                                                               |
-|                    3|[Carnage Tyrant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435334)             |                     |                                                                                               |
 |                    3|[Temple of Malady](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=380515)           |                     |                                                                                               |
+|                    3|[Carnage Tyrant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435334)             |                     |                                                                                               |
 |                    6|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)                      |                     |                                                                                               |
 

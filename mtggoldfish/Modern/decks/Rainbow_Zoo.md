@@ -40,8 +40,8 @@
 |                    4|[Mantis Rider](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386589)    |                    2|[Yixlid Jailer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=130702)      |
 |                     |                                                                                           |                    2|[Gideon Blackblade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463943)  |
 |                     |                                                                                           |                    2|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)|
-|                     |                                                                                           |                    3|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)|
+|                     |                                                                                           |                    2|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)     |
 |                     |                                                                                           |                    3|[Knight of Autumn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452933)   |
 |                     |                                                                                           |                    4|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)|
-|                     |                                                                                           |                    2|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)     |
+|                     |                                                                                           |                    3|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)|
 

@@ -7,22 +7,22 @@
 1 Sylvan Library
 1 Lotus Petal
 2 Lotus Petal
+1 Living Wish
 1 Dark Confidant
 1 Duress
 1 Pithing Needle
-1 Living Wish
 1 Wooded Foothills
 1 Sylvan Safekeeper
-2 Duress
+2 Living Wish
 2 Dark Confidant
 2 Pithing Needle
 2 Sylvan Safekeeper
 2 Wooded Foothills
-2 Living Wish
+2 Duress
+3 Living Wish
 3 Dark Confidant
 3 Pithing Needle
 3 Duress
-3 Living Wish
 4 Duress
 4 Living Wish
 1 Nurturing Peatland
@@ -38,9 +38,9 @@
 1 Blast Zone
 1 Tireless Tracker
 1 Courser of Kruphix
-1 Phyrexian Tower
 1 Thragtusk
 1 Meren of Clan Nel Toth
+1 Phyrexian Tower
 1 Vraska, Golgari Queen
 1 Massacre Wurm
 1 Distended Mindbender
@@ -81,12 +81,12 @@
 4 Chalice of the Void
 4 Ancient Tomb
 1 Blinkmoth Nexus
-1 Sword of Fire and Ice
+1 Mox Opal
 1 Inventors' Fair
+1 Sword of Fire and Ice
+1 Umezawa's Jitte
 1 Darksteel Citadel
 1 Karn, Scion of Urza
-1 Umezawa's Jitte
-1 Mox Opal
 1 Thorn of Amethyst
 1 Etched Champion
 1 Steel Overseer
@@ -136,7 +136,6 @@
 1 Eldrazi Temple
 2 Endbringer
 2 Elvish Spirit Guide
-2 Eye of Ugin
 2 Endless One
 2 Sorcerous Spyglass
 2 Reality Smasher
@@ -144,16 +143,17 @@
 2 Cavern of Souls
 2 Spatial Contortion
 2 Eldrazi Temple
+2 Eye of Ugin
 2 Cloudpost
 2 Matter Reshaper
 3 Endless One
 3 Elvish Spirit Guide
-3 Eye of Ugin
 3 Sorcerous Spyglass
 3 Matter Reshaper
 3 Eldrazi Temple
 3 Cloudpost
 3 Glimmerpost
+3 Eye of Ugin
 3 Reality Smasher
 3 Thought-Knot Seer
 4 Eye of Ugin

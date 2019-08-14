@@ -20,54 +20,38 @@
 3 Path to Exile
 1 Restoration Angel
 1 Ghost Quarter
-1 Vendilion Clique
 1 Gavony Township
+1 Vendilion Clique
 1 Knight of the Reliquary
 2 Knight of the Reliquary
 2 Scavenging Ooze
 3 Knight of the Reliquary
 1 Snow-Covered Plains
-1 Snow-Covered Forest
-1 Prismatic Vista
-1 Ice-Fang Coatl
 1 Snow-Covered Island
+1 Snow-Covered Forest
+1 Ice-Fang Coatl
+1 Prismatic Vista
 2 Snow-Covered Forest
 2 Snow-Covered Island
-2 Snow-Covered Plains
 2 Prismatic Vista
 2 Ice-Fang Coatl
+2 Snow-Covered Plains
 3 Prismatic Vista
 3 Snow-Covered Forest
 3 Ice-Fang Coatl
-4 Ice-Fang Coatl
 4 Misty Rainforest
+4 Ice-Fang Coatl
 1 Flooded Strand
 3 Birds of Paradise
-1 On Thin Ice
-1 Bojuka Bog
-1 Serum Visions
-1 Tarmogoyf
-1 Jace, the Mind Sculptor
-1 Force of Negation
-2 Vendilion Clique
-2 Jace, the Mind Sculptor
-2 Tarmogoyf
-2 Force of Negation
-2 Serum Visions
-3 Serum Visions
-3 Tarmogoyf
-4 Prismatic Vista
-4 Serum Visions
-4 Path to Exile
 1 Retreat to Coralhelm
 1 Geist of Saint Traft
 1 Sejiri Steppe
 1 Simic Charm
 1 Thalia, Guardian of Thraben
-2 Deputy of Detention
 2 Retreat to Coralhelm
 2 Flooded Strand
 2 Geist of Saint Traft
+2 Deputy of Detention
 2 Simic Charm
 2 Thalia, Guardian of Thraben
 3 Simic Charm
@@ -84,10 +68,26 @@
 3 Giver of Runes
 3 Razorverge Thicket
 4 Giver of Runes
+1 Jace, the Mind Sculptor
+1 Serum Visions
+1 Bojuka Bog
+1 Force of Negation
+1 On Thin Ice
+1 Tarmogoyf
+2 Serum Visions
+2 Vendilion Clique
+2 Jace, the Mind Sculptor
+2 Force of Negation
+2 Tarmogoyf
+3 Serum Visions
+3 Tarmogoyf
+4 Serum Visions
+4 Path to Exile
+4 Prismatic Vista
 1 Collected Company
+1 Wall of Blossoms
 1 Soulherder
 1 Coiling Oracle
-1 Wall of Blossoms
 1 Ephemerate
 1 Reflector Mage
 1 Time Warp
@@ -98,12 +98,12 @@
 2 Reflector Mage
 2 Soulherder
 2 Time Warp
-3 Coiling Oracle
 3 Collected Company
 3 Eternal Witness
 3 Snow-Covered Island
 3 Ephemerate
 3 Reflector Mage
+3 Coiling Oracle
 3 Soulherder
 4 Soulherder
 4 Coiling Oracle
