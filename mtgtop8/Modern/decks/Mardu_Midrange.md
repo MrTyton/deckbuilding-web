@@ -87,6 +87,6 @@
 |                    3|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)                 |                     |                                                                                                     |
 |                    1|[Monastery Mentor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391883)         |                     |                                                                                                     |
 |                    2|[Monastery Mentor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391883)         |                     |                                                                                                     |
-|                    4|[Path to Exile](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220511)            |                     |                                                                                                     |
 |                    4|[Unearth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442102)                  |                     |                                                                                                     |
+|                    4|[Path to Exile](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220511)            |                     |                                                                                                     |
 

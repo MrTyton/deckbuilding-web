@@ -1,14 +1,14 @@
-4 Hogaak, Arisen Necropolis
+3 Khalni Garden
 1 Sylvan Safekeeper
 4 Mox Diamond
 1 Duress
 2 Duress
-1 Sylvan Scrying
-2 Sylvan Scrying
-3 Sylvan Scrying
 1 Sylvan Library
 1 Ghost Quarter
 3 Duress
+1 Sylvan Scrying
+2 Sylvan Scrying
+3 Sylvan Scrying
 1 Karakas
 1 Abrupt Decay
 2 Abrupt Decay
@@ -17,15 +17,12 @@
 4 Satyr Wayfinder
 2 Wasteland
 3 Wasteland
-1 Pithing Needle
-2 Pithing Needle
-1 Misty Rainforest
+3 Abrupt Decay
 1 Ramunap Excavator
 1 Green Sun's Zenith
 2 Green Sun's Zenith
 3 Green Sun's Zenith
 4 Green Sun's Zenith
-3 Abrupt Decay
 1 Snow-Covered Forest
 1 Gaddock Teeg
 1 Plains
@@ -40,7 +37,10 @@
 3 Windswept Heath
 4 Windswept Heath
 4 Knight of the Reliquary
+1 Misty Rainforest
 3 Sylvan Safekeeper
+1 Pithing Needle
+2 Pithing Needle
 4 Abrupt Decay
 2 Sylvan Library
 1 Tomik, Distinguished Advokist
@@ -62,36 +62,14 @@
 4 Lotus Petal
 1 Blast Zone
 2 Ghost Quarter
-3 Bayou
-4 Sylvan Scrying
-1 Expedition Map
-2 Expedition Map
-1 Inquisition of Kozilek
-1 Brainstorm
-1 Tropical Island
-1 Underground Sea
-1 Polluted Delta
-2 Inquisition of Kozilek
-2 Brainstorm
-2 Polluted Delta
-2 Misty Rainforest
-3 Misty Rainforest
-3 Polluted Delta
-3 Brainstorm
-4 Polluted Delta
-4 Brainstorm
 1 Maze of Ith
 2 Forest
 1 Ancient Tomb
 1 Titania, Protector of Argoth
+3 Bayou
+4 Sylvan Scrying
 2 Snow-Covered Forest
 2 Nurturing Peatland
-1 Stifle
-1 Gemstone Mine
-2 Gemstone Mine
-1 Not of This World
-2 Underground Sea
-2 Not of This World
 1 Reclamation Sage
 1 Fierce Empath
 2 Ancient Tomb
@@ -111,6 +89,25 @@
 3 Natural Order
 1 Life from the Loam
 4 Dark Confidant
+1 Inquisition of Kozilek
+1 Brainstorm
+1 Tropical Island
+1 Not of This World
+1 Underground Sea
+1 Polluted Delta
+2 Inquisition of Kozilek
+2 Brainstorm
+2 Underground Sea
+2 Not of This World
+2 Polluted Delta
+2 Misty Rainforest
+3 Misty Rainforest
+3 Polluted Delta
+3 Brainstorm
+4 Polluted Delta
+4 Brainstorm
+1 Expedition Map
 1 Toxic Deluge
+2 Expedition Map
 3 Elvish Spirit Guide
 4 Elvish Spirit Guide

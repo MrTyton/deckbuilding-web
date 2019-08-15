@@ -1,32 +1,22 @@
-3 Insolent Neonate
-4 Insolent Neonate
-1 Wooded Foothills
-2 Wooded Foothills
-1 Seasoned Pyromancer
-1 Assassin's Trophy
-2 Assassin's Trophy
-1 Blackcleave Cliffs
-1 Cryptbreaker
-1 Shriekhorn
-2 Shriekhorn
-2 Cryptbreaker
-1 Snow-Covered Swamp
+1 Thoughtseize
+2 Gemstone Mine
+2 Marsh Flats
+2 Thoughtseize
+2 Golgari Thug
+2 Nature's Claim
+2 Leyline of the Void
+2 Satyr Wayfinder
+2 Lightning Axe
+2 Polluted Delta
 3 Golgari Thug
-3 Blood Crypt
-1 Altar of Dementia
-1 Stinkweed Imp
-1 Desecrated Tomb
-2 Verdant Catacombs
-2 Altar of Dementia
-2 Stinkweed Imp
-2 Desecrated Tomb
-2 Blackcleave Cliffs
-3 Verdant Catacombs
-3 Altar of Dementia
-3 Stinkweed Imp
-3 Desecrated Tomb
-4 Verdant Catacombs
-4 Stinkweed Imp
+3 Leyline of the Void
+3 Thoughtseize
+3 Polluted Delta
+3 Blackcleave Cliffs
+3 Satyr Wayfinder
+3 Nature's Claim
+3 Lightning Axe
+4 Leyline of the Void
 1 Mountain
 1 Stomping Ground
 1 Tarmogoyf
@@ -41,6 +31,7 @@
 4 Lightning Bolt
 1 Blooming Marsh
 1 Wrenn and Six
+1 Seasoned Pyromancer
 1 Nurturing Peatland
 1 Abrupt Decay
 1 Raging Ravine
@@ -51,7 +42,6 @@
 1 Inquisition of Kozilek
 1 Bloodbraid Elf
 1 Scavenging Ooze
-1 Plague Engineer
 2 Wrenn and Six
 2 Angrath's Rampage
 2 Blooming Marsh
@@ -63,15 +53,32 @@
 2 Raging Ravine
 2 Bloodbraid Elf
 2 Plague Engineer
+2 Fatal Push
 2 Inquisition of Kozilek
 2 Kolaghan's Command
 3 Bloodbraid Elf
 3 Scavenging Ooze
 3 Kitchen Finks
+3 Fatal Push
 3 Inquisition of Kozilek
 3 Blooming Marsh
 4 Bloodbraid Elf
 4 Inquisition of Kozilek
+1 Altar of Dementia
+1 Stinkweed Imp
+1 Desecrated Tomb
+2 Altar of Dementia
+2 Stinkweed Imp
+2 Desecrated Tomb
+2 Swamp
+3 Verdant Catacombs
+3 Altar of Dementia
+3 Stinkweed Imp
+3 Desecrated Tomb
+4 Insolent Neonate
+4 Verdant Catacombs
+4 Stinkweed Imp
+4 Carrion Feeder
 2 Mountain
 1 Legion Warboss
 1 Goblin Cratermaker
@@ -81,11 +88,11 @@
 1 Aether Vial
 1 Goblin Matron
 1 Tarfire
+1 Krenko, Mob Boss
 1 Skirk Prospector
 1 Goblin Chieftain
 1 Mogg War Marshal
 1 Goblin Warchief
-1 Krenko, Mob Boss
 1 Auntie's Hovel
 1 Goblin Piledriver
 1 Sling-Gang Lieutenant
@@ -95,11 +102,11 @@
 2 Sunbaked Canyon
 2 Sling-Gang Lieutenant
 2 Goblin Matron
-2 Munitions Expert
-2 Aether Vial
 2 Goblin Ringleader
 2 Tarfire
+2 Munitions Expert
 2 Auntie's Hovel
+2 Aether Vial
 2 Cavern of Souls
 3 Sunbaked Canyon
 3 Tarfire
@@ -118,12 +125,12 @@
 1 Fiery Islet
 1 Gut Shot
 1 Monastery Swiftspear
-1 Soul-Scar Mage
 1 Blistercoil Weird
 1 Lava Spike
 1 Lava Dart
 1 Manamorphose
 1 Kiln Fiend
+1 Soul-Scar Mage
 1 Temur Battle Rage
 1 Mutagenic Growth
 1 Become Immense
@@ -152,11 +159,11 @@
 4 Wooded Foothills
 4 Manamorphose
 4 Monastery Swiftspear
-4 Soul-Scar Mage
 4 Temur Battle Rage
 4 Lava Spike
 4 Mutagenic Growth
 4 Mountain
 4 Kiln Fiend
+4 Soul-Scar Mage
 6 Mountain
 5 Mountain

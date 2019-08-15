@@ -1,11 +1,12 @@
 2 Umezawa's Jitte
 1 Mishra's Factory
 1 Ulamog, the Ceaseless Hunger
+2 Wastes
 2 Mishra's Factory
 1 Warping Wail
-2 Wastes
 3 Walking Ballista
 1 All Is Dust
+2 Karakas
 1 Karn, the Great Creator
 1 Grim Monolith
 2 Grim Monolith
@@ -15,11 +16,22 @@
 2 Cloudpost
 3 Cloudpost
 4 Cloudpost
+1 Thalia, Heretic Cathar
+1 Plains
+1 Eldrazi Displacer
+1 Thalia, Guardian of Thraben
+2 Thalia, Heretic Cathar
+2 Plains
+2 Eldrazi Displacer
+2 Thalia, Guardian of Thraben
+3 Thalia, Guardian of Thraben
+3 Plains
+3 Eldrazi Displacer
+4 Plains
 2 Blast Zone
-2 Karakas
+1 Oblivion Sower
 2 All Is Dust
 3 Endbringer
-1 Oblivion Sower
 2 Ulamog, the Ceaseless Hunger
 2 Vesuva
 2 Glimmerpost
@@ -29,67 +41,33 @@
 4 Glimmerpost
 4 Grim Monolith
 2 Karn, the Great Creator
-1 Thalia, Heretic Cathar
-1 Plains
 1 Containment Priest
-1 Eldrazi Displacer
-1 Thalia, Guardian of Thraben
 2 Containment Priest
-2 Thalia, Heretic Cathar
-2 Plains
-2 Eldrazi Displacer
-2 Thalia, Guardian of Thraben
-3 Thalia, Guardian of Thraben
-3 Plains
-3 Eldrazi Displacer
-4 Plains
 5 Plains
+4 Thalia, Guardian of Thraben
 2 Urborg, Tomb of Yawgmoth
 3 Mishra's Factory
 1 Thorn of Amethyst
 2 Thorn of Amethyst
 4 Eye of Ugin
-1 Spatial Contortion
-2 Spatial Contortion
 1 Sorcerous Spyglass
 2 Sorcerous Spyglass
+1 Spatial Contortion
+2 Spatial Contortion
 4 Endbringer
-1 Chrome Mox
-2 Chrome Mox
-4 City of Traitors
-1 Mountain
-1 Snow-Covered Mountain
-1 Goblin Rabblemaster
-1 Blood Sun
-1 Punishing Fire
-1 Neheb, Dreadhorde Champion
-1 Grove of the Burnwillows
-1 Fiery Confluence
-1 Abrade
-2 Snow-Covered Mountain
-2 Blood Sun
-2 Punishing Fire
-2 Goblin Rabblemaster
-2 Fiery Confluence
-2 Grove of the Burnwillows
-2 Mountain
-3 Snow-Covered Mountain
-3 Punishing Fire
-3 Blood Sun
-3 Grove of the Burnwillows
-3 Goblin Rabblemaster
-4 Grove of the Burnwillows
-4 Punishing Fire
-4 Goblin Rabblemaster
-4 Simian Spirit Guide
-4 Blood Sun
 1 Thespian's Stage
 1 Ugin, the Ineffable
 2 Ugin, the Ineffable
+1 Mox Diamond
+2 Mox Diamond
+3 Mox Diamond
+4 Eldrazi Displacer
 3 Karn, the Great Creator
 1 Smuggler's Copter
 3 Thalia, Heretic Cathar
-4 Thalia, Guardian of Thraben
+4 City of Traitors
+1 Chrome Mox
+2 Chrome Mox
 1 Trinisphere
 1 Crucible of Worlds
 1 Karn, Scion of Urza
@@ -114,14 +92,16 @@
 1 Voltaic Key
 2 Voltaic Key
 3 Sorcerous Spyglass
-1 Goblin Cratermaker
-1 Chandra, Pyromaster
-3 Mountain
-1 Sudden Demise
-1 Eldrazi Obligator
-1 Dead / Gone
-1 Hazoret the Fervent
-4 Snow-Covered Mountain
+1 Phyrexian Revoker
+1 Batterskull
+1 Sword of Fire and Ice
+1 Stoneforge Mystic
+2 Phyrexian Revoker
+2 Stoneforge Mystic
+3 Phyrexian Revoker
+3 Stoneforge Mystic
+3 Wastes
+4 Stoneforge Mystic
 1 Lotus Petal
 2 Lotus Petal
 3 Lotus Petal
@@ -130,15 +110,42 @@
 4 Containment Priest
 3 Spatial Contortion
 4 Spatial Contortion
-1 Mox Diamond
 2 Smuggler's Copter
-2 Mox Diamond
-3 Mox Diamond
 3 Karakas
-4 Eldrazi Displacer
 4 Walking Ballista
-1 Palace Jailer
+1 Mountain
+1 Snow-Covered Mountain
+1 Goblin Rabblemaster
+1 Sudden Demise
+1 Blood Sun
+1 Eldrazi Obligator
+1 Punishing Fire
+1 Neheb, Dreadhorde Champion
+1 Grove of the Burnwillows
+1 Fiery Confluence
+1 Dead / Gone
+1 Hazoret the Fervent
+1 Abrade
+2 Snow-Covered Mountain
+2 Blood Sun
+2 Punishing Fire
+2 Goblin Rabblemaster
+2 Fiery Confluence
+2 Grove of the Burnwillows
+2 Mountain
+3 Snow-Covered Mountain
+3 Punishing Fire
+3 Blood Sun
+3 Grove of the Burnwillows
+3 Goblin Rabblemaster
+4 Snow-Covered Mountain
+4 Grove of the Burnwillows
+4 Punishing Fire
+4 Goblin Rabblemaster
+4 Simian Spirit Guide
+4 Blood Sun
 1 Ghost Quarter
+1 Palace Jailer
 1 Sanctum Prelate
 1 Leonin Arbiter
 1 Hero of Bladehold
