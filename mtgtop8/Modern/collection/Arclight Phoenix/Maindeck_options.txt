@@ -1,8 +1,16 @@
+1 Lava Spike
+2 Light Up the Stage
+2 Monastery Swiftspear
+2 Soul-Scar Mage
+2 Gut Shot
+2 Lava Spike
 3 Monastery Swiftspear
+3 Soul-Scar Mage
+3 Lava Dart
 3 Light Up the Stage
+4 Monastery Swiftspear
 4 Soul-Scar Mage
 4 Light Up the Stage
-4 Monastery Swiftspear
 3 Mountain
 4 Mountain
 5 Mountain
@@ -18,40 +26,33 @@
 3 Lava Spike
 4 Lava Spike
 1 Sunbaked Canyon
-1 Surgical Extraction
-4 Scalding Tarn
 14 Mountain
-1 Island
-2 Island
-3 Island
-1 Flame Slash
-1 Magmatic Sinkhole
-2 Surgical Extraction
 3 Gut Shot
-2 Sunbaked Canyon
-15 Mountain
 1 Flooded Strand
-2 Bedlam Reveler
-4 Gut Shot
 1 Opt
 2 Opt
+2 Sunbaked Canyon
+2 Bedlam Reveler
+15 Mountain
+1 Polluted Delta
 3 Sleight of Hand
 4 Sleight of Hand
 3 Sunbaked Canyon
-1 Blistercoil Weird
 4 Lava Dart
-1 Polluted Delta
-2 Fiery Islet
-1 Misty Rainforest
-2 Misty Rainforest
 1 Crackling Drake
-3 Aria of Flame
 3 Steam Vents
 1 Snow-Covered Mountain
 2 Polluted Delta
 1 Snow-Covered Island
 2 Snow-Covered Island
 3 Snow-Covered Island
+2 Fiery Islet
+3 Aria of Flame
+1 Misty Rainforest
+2 Misty Rainforest
+1 Blistercoil Weird
+4 Gut Shot
+4 Sunbaked Canyon
 2 Flooded Strand
 1 Set Adrift
 2 Set Adrift
@@ -61,13 +62,11 @@
 2 Blistercoil Weird
 2 Magmatic Sinkhole
 1 Blood Moon
-1 Skewer the Critics
 1 Prismatic Vista
+1 Skewer the Critics
 2 Prismatic Vista
 2 Skewer the Critics
-1 Young Pyromancer
-2 Young Pyromancer
-3 Young Pyromancer
+3 Bedlam Reveler
 1 Vapor Snag
 4 Island
 2 Snow-Covered Mountain
@@ -86,5 +85,6 @@
 14 Snow-Covered Mountain
 15 Snow-Covered Mountain
 16 Mountain
-3 Bedlam Reveler
-4 Sunbaked Canyon
+1 Young Pyromancer
+2 Young Pyromancer
+3 Young Pyromancer
