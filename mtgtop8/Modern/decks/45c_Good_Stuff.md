@@ -31,8 +31,8 @@
 
 |*n*<sup>th</sup> copy|                                         Maindeck Card                                         |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
 |--------------------:|-----------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
-|                    1|[Sacred Foundry](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405106)      |                    1|[Abrupt Decay](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456061)       |
-|                    1|[Bloodbraid Elf](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=185053)      |                    1|[Unmoored Ego](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452962)       |
+|                    1|[Sacred Foundry](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405106)      |                    1|[Unmoored Ego](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452962)       |
+|                    1|[Bloodbraid Elf](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=185053)      |                    1|[Abrupt Decay](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456061)       |
 |                    1|[Mantis Rider](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386589)        |                    1|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|
 |                    1|[Lightning Helix](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=249386)     |                    1|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)|
 |                    1|[Tarmogoyf](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=136142)           |                    1|[Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)       |

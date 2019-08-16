@@ -1,7 +1,7 @@
-# Mono-Red Cavalcade
+# Red Cavalcade
 
-#### [Export MTGO List](../collection/Mono-Red%20Cavalcade/Mono-Red%20Cavalcade.txt)
-#### [Export Arena List](../collection/Mono-Red%20Cavalcade/Mono-Red%20Cavalcade_arena.txt)
+#### [Export MTGO List](../collection/Red%20Cavalcade/Red%20Cavalcade.txt)
+#### [Export Arena List](../collection/Red%20Cavalcade/Red%20Cavalcade_arena.txt)
 #### [Print on decklist.org](http://decklist.org/?deckmain=4%09Cavalcade%20of%20Calamity%0A4%09Chandra's%20Spitfire%0A4%09Chandra,%20Acolyte%20of%20Flame%0A4%09Fanatical%20Firebrand%0A4%09Legion%20Warboss%0A4%09Light%20Up%20the%20Stage%0A4%09Lightning%20Strike%0A20%09Mountain%0A2%09Scampering%20Scorcher%0A4%09Scorch%20Spitter%0A4%09Shock%0A2%09Tin%20Street%20Dodger&deckside=2%09Blood%20Sun%0A2%09Experimental%20Frenzy%0A4%09Fry%0A4%09Lava%20Coil%0A3%09Tibalt,%20Rakish%20Instigator)
 # Maindeck
 

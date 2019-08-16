@@ -61,11 +61,11 @@
 1 Omnath, Locus of Rage
 1 Scampering Scorcher
 1 Shivan Reef
-2 Stomping Ground
 2 Smokebraider
 2 Vesperlark
 2 Vivien's Arkbow
 2 Chandra, Acolyte of Flame
+2 Stomping Ground
 2 Copperline Gorge
 2 Sacred Foundry
 2 Shivan Reef
@@ -76,15 +76,6 @@
 4 Vesperlark
 4 Blood Crypt
 4 Smokebraider
-1 Ball Lightning
-1 Scalding Tarn
-2 Ball Lightning
-3 Ball Lightning
-3 Snow-Covered Mountain
-3 Inquisition of Kozilek
-4 Inquisition of Kozilek
-4 Ball Lightning
-4 Snow-Covered Mountain
 1 Tasigur, the Golden Fang
 1 Flamewake Phoenix
 2 Flamewake Phoenix
@@ -199,10 +190,19 @@
 4 Ancient Ziggurat
 4 Incandescent Soulstoke
 4 Lightning Stormkin
+1 Scalding Tarn
+1 Ball Lightning
+2 Ball Lightning
+3 Snow-Covered Mountain
+3 Ball Lightning
+3 Inquisition of Kozilek
+4 Inquisition of Kozilek
+4 Snow-Covered Mountain
+4 Ball Lightning
 1 Mutavault
 1 Urborg, Tomb of Yawgmoth
-1 Dryad Arbor
 1 Nurturing Peatland
+1 Dryad Arbor
 1 Stitcher's Supplier
 1 Smallpox
 1 Liliana of the Veil

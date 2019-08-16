@@ -1,7 +1,7 @@
-# Orzhov Vampires
+# Vampires
 
-#### [Export MTGO List](../collection/Orzhov%20Vampires/Orzhov%20Vampires.txt)
-#### [Export Arena List](../collection/Orzhov%20Vampires/Orzhov%20Vampires_arena.txt)
+#### [Export MTGO List](../collection/Vampires/Vampires.txt)
+#### [Export Arena List](../collection/Vampires/Vampires_arena.txt)
 #### [Print on decklist.org](http://decklist.org/?deckmain=4%09Adanto%20Vanguard%0A2%09Cast%20Down%0A4%09Champion%20of%20Dusk%0A4%09Godless%20Shrine%0A4%09Isolated%20Chapel%0A4%09Knight%20of%20the%20Ebon%20Legion%0A4%09Legion%20Lieutenant%0A2%09Legion's%20End%0A4%09Legion's%20Landing%0A1%09Mortify%0A7%09Plains%0A2%09Sanctum%20Seeker%0A4%09Skymarcher%20Aspirant%0A4%09Sorin,%20Imperious%20Bloodlord%0A7%09Swamp%0A3%09Vicious%20Conquistador&deckside=1%09Cast%20Down%0A2%09Despark%0A4%09Duress%0A2%09Gideon%20Blackblade%0A2%09Legion's%20End%0A3%09Noxious%20Grasp%0A1%09Vona,%20Butcher%20of%20Magan)
 # Maindeck
 
