@@ -99,10 +99,10 @@
 3 Allosaurus Rider
 3 Neoform
 4 Devoted Druid
-4 Misty Rainforest
 4 Eladamri's Call
 4 Eldritch Evolution
 4 Allosaurus Rider
+4 Misty Rainforest
 4 Neoform
 1 Teferi, Time Raveler
 2 Teferi, Time Raveler
@@ -118,13 +118,13 @@
 1 Overgrown Tomb
 2 Assassin's Trophy
 1 Niv-Mizzet Reborn
-1 Bloodbraid Elf
 1 Kolaghan's Command
 1 Izzet Charm
+1 Bloodbraid Elf
 1 Pillar of the Paruns
 1 Lightning Helix
-2 Bloodbraid Elf
 2 Pillar of the Paruns
+2 Bloodbraid Elf
 2 Izzet Charm
 2 Niv-Mizzet Reborn
 3 Niv-Mizzet Reborn
@@ -162,6 +162,33 @@
 3 City of Brass
 3 Lightning Helix
 4 Lightning Helix
+1 Snow-Covered Forest
+1 Snow-Covered Island
+1 Ice-Fang Coatl
+1 Domri, Anarch of Bolas
+1 Arcum's Astrolabe
+1 Mana Confluence
+1 Snow-Covered Mountain
+1 Thought Erasure
+1 Snow-Covered Swamp
+1 Dead of Winter
+1 Abrupt Decay
+1 Prismatic Vista
+1 Snow-Covered Plains
+1 Kaya, Orzhov Usurper
+1 Unmoored Ego
+2 Prismatic Vista
+2 Mana Confluence
+2 Ice-Fang Coatl
+2 Arcum's Astrolabe
+3 Ice-Fang Coatl
+3 Mana Confluence
+3 Arcum's Astrolabe
+3 Bloodbraid Elf
+3 Prismatic Vista
+4 Ice-Fang Coatl
+4 Arcum's Astrolabe
+4 Prismatic Vista
 1 Leyline of the Void
 1 Flickerwisp
 1 Healer of the Glade
@@ -222,8 +249,8 @@
 2 Chancellor of the Annex
 2 Felidar Guardian
 3 Remand
-3 Teferi, Time Raveler
 3 Deceiver Exarch
+3 Teferi, Time Raveler
 3 Arid Mesa
 3 Felidar Guardian
 3 Saheeli Rai
@@ -237,44 +264,43 @@
 4 Scalding Tarn
 4 Felidar Guardian
 4 Saheeli Rai
-1 Snow-Covered Forest
-1 Snow-Covered Island
-1 Academy Ruins
-1 Spire of Industry
 1 Welding Jar
 1 Darkslick Shores
-1 Sword of the Meek
 1 Codex Shredder
-1 Thopter Foundry
 1 Ensnaring Bridge
 1 Thoughtseize
+1 Academy Ruins
 1 Nihil Spellbomb
 1 Mox Opal
 1 Urza, Lord High Artificer
+1 Spire of Industry
+1 Sword of the Meek
 1 Glimmervoid
 1 Whir of Invention
 1 Pithing Needle
 1 Pyxis of Pandemonium
+1 Thopter Foundry
 1 Inventors' Fair
 1 Lantern of Insight
 1 Grafdigger's Cage
 1 Ancient Stirrings
-2 Pithing Needle
 2 Darkslick Shores
-2 Spire of Industry
 2 Codex Shredder
 2 Pyxis of Pandemonium
 2 Botanical Sanctum
+2 Pithing Needle
 2 Thoughtseize
 2 Lantern of Insight
 2 Urza, Lord High Artificer
 2 Ancient Stirrings
+2 Spire of Industry
 2 Ensnaring Bridge
 2 Glimmervoid
 2 Whir of Invention
 2 Mox Opal
 3 Darkslick Shores
 3 Codex Shredder
+3 Thoughtseize
 3 Spire of Industry
 3 Ensnaring Bridge
 3 Glimmervoid
@@ -282,7 +308,6 @@
 3 Mox Opal
 3 Botanical Sanctum
 3 Ancient Stirrings
-3 Thoughtseize
 3 Lantern of Insight
 3 Urza, Lord High Artificer
 4 Whir of Invention
@@ -293,31 +318,6 @@
 4 Codex Shredder
 4 Lantern of Insight
 4 Spire of Industry
-1 Arcum's Astrolabe
-1 Domri, Anarch of Bolas
-1 Ice-Fang Coatl
-1 Mana Confluence
-1 Unmoored Ego
-1 Thought Erasure
-1 Dead of Winter
-1 Abrupt Decay
-1 Prismatic Vista
-1 Snow-Covered Plains
-1 Kaya, Orzhov Usurper
-1 Snow-Covered Mountain
-1 Snow-Covered Swamp
-2 Prismatic Vista
-2 Mana Confluence
-2 Ice-Fang Coatl
-2 Arcum's Astrolabe
-3 Prismatic Vista
-3 Ice-Fang Coatl
-3 Mana Confluence
-3 Bloodbraid Elf
-3 Arcum's Astrolabe
-4 Ice-Fang Coatl
-4 Prismatic Vista
-4 Arcum's Astrolabe
 1 Ghor-Clan Rampager
 1 Bloodstained Mire
 1 Bomat Courier
@@ -338,8 +338,8 @@
 2 Bomat Courier
 2 Bloodstained Mire
 2 Overgrown Tomb
-2 Nurturing Peatland
 2 Collective Brutality
+2 Nurturing Peatland
 2 Blood Crypt
 2 Drogskol Reaver
 2 Samut, Voice of Dissent

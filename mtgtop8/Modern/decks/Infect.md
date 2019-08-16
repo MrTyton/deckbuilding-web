@@ -95,8 +95,6 @@
 |                    5|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)              |                    2|[Jace, Vryn's Prodigy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=398434)    |
 |                    6|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)              |                    2|[Dissenter's Deliverance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426866) |
 |                    4|[Elvish Mystic](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389499)       |                    2|[Vendilion Clique](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442065)        |
-|                     |                                                                                               |                    2|[Return to Nature](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461102)        |
-|                     |                                                                                               |                    3|[Kitchen Finks](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370458)           |
 |                     |                                                                                               |                    1|[Natural State](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407646)           |
 |                     |                                                                                               |                    2|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)     |
 |                     |                                                                                               |                    2|[Natural State](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407646)           |
@@ -104,4 +102,6 @@
 |                     |                                                                                               |                    3|[Dismember](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382182)               |
 |                     |                                                                                               |                    3|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)     |
 |                     |                                                                                               |                    3|[Natural State](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407646)           |
+|                     |                                                                                               |                    2|[Return to Nature](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461102)        |
+|                     |                                                                                               |                    3|[Kitchen Finks](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370458)           |
 

@@ -28,8 +28,8 @@
 4 Archmage's Charm
 1 Force of Negation
 1 Pteramander
-1 Spell Pierce
 1 Abrade
+1 Spell Pierce
 1 Fiery Islet
 2 Force of Negation
 2 Fiery Islet
@@ -44,15 +44,15 @@
 1 Atarka's Command
 1 Crash Through
 1 Twisted Image
+1 Misty Rainforest
 1 Breeding Pool
 1 Soul-Scar Mage
 1 Become Immense
 1 Stomping Ground
-1 Misty Rainforest
 2 Become Immense
 2 Atarka's Command
-2 Misty Rainforest
 2 Crash Through
+2 Misty Rainforest
 2 Twisted Image
 2 Soul-Scar Mage
 3 Become Immense
@@ -60,43 +60,16 @@
 3 Misty Rainforest
 3 Sleight of Hand
 4 Misty Rainforest
-1 Bedlam Reveler
-1 Apostle's Blessing
-1 Stubborn Denial
-1 Manamorphose
-1 Kiln Fiend
-1 Temur Battle Rage
-1 Thing in the Ice
-2 Bedlam Reveler
-2 Apostle's Blessing
-2 Kiln Fiend
-2 Mountain
-2 Manamorphose
-2 Thing in the Ice
-2 Temur Battle Rage
-2 Stubborn Denial
-3 Temur Battle Rage
-3 Mountain
-3 Kiln Fiend
-3 Thing in the Ice
-3 Manamorphose
-4 Temur Battle Rage
-4 Kiln Fiend
-4 Mountain
-4 Steam Vents
-4 Manamorphose
-4 Thing in the Ice
-5 Mountain
 1 Forked Bolt
-1 Bloodstained Mire
-1 Remand
-1 Inquisition of Kozilek
-1 Watery Grave
-1 Unearth
-1 Thoughtseize
-1 Fatal Push
 1 Swamp
+1 Remand
+1 Bloodstained Mire
+1 Thoughtseize
+1 Inquisition of Kozilek
+1 Unearth
+1 Watery Grave
 1 Blood Crypt
+1 Fatal Push
 2 Watery Grave
 2 Remand
 2 Fatal Push
@@ -110,3 +83,30 @@
 4 Polluted Delta
 4 Fatal Push
 4 Inquisition of Kozilek
+1 Bedlam Reveler
+1 Apostle's Blessing
+1 Stubborn Denial
+1 Manamorphose
+1 Temur Battle Rage
+1 Thing in the Ice
+1 Kiln Fiend
+2 Bedlam Reveler
+2 Apostle's Blessing
+2 Mountain
+2 Manamorphose
+2 Kiln Fiend
+2 Thing in the Ice
+2 Temur Battle Rage
+2 Stubborn Denial
+3 Temur Battle Rage
+3 Mountain
+3 Thing in the Ice
+3 Manamorphose
+3 Kiln Fiend
+4 Temur Battle Rage
+4 Mountain
+4 Steam Vents
+4 Manamorphose
+4 Thing in the Ice
+5 Mountain
+4 Kiln Fiend

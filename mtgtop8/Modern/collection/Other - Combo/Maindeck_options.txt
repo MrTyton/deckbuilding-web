@@ -1,42 +1,102 @@
+1 Forest
+2 Forest
+1 Walking Ballista
+1 Karn, the Great Creator
+2 Karn, the Great Creator
+3 Karn, the Great Creator
+4 Karn, the Great Creator
+1 Zhalfirin Void
+1 Copperline Gorge
+1 Astral Cornucopia
+1 Horizon Canopy
+1 Coretapper
+1 Everflowing Chalice
+1 Surge Node
+1 Nurturing Peatland
+1 Ensnaring Bridge
+1 Mystic Forge
+1 Paradox Engine
+1 Inventors' Fair
+1 Grove of the Burnwillows
+1 Pyrite Spellbomb
+1 Mox Opal
+1 Blast Zone
+1 Engineered Explosives
+1 Ancient Stirrings
+2 Pyrite Spellbomb
+2 Grove of the Burnwillows
+2 Zhalfirin Void
+2 Inventors' Fair
+2 Mystic Forge
+2 Everflowing Chalice
+2 Surge Node
+2 Astral Cornucopia
+2 Coretapper
+2 Paradox Engine
+2 Ensnaring Bridge
+2 Mox Opal
+2 Ancient Stirrings
+2 Blast Zone
+3 Ensnaring Bridge
+3 Pyrite Spellbomb
+3 Grove of the Burnwillows
+3 Everflowing Chalice
+3 Astral Cornucopia
+3 Surge Node
+3 Coretapper
+3 Mystic Forge
+3 Blast Zone
+3 Paradox Engine
+3 Mox Opal
+3 Ancient Stirrings
+3 Inventors' Fair
+4 Surge Node
+4 Grove of the Burnwillows
+4 Coretapper
+4 Astral Cornucopia
+4 Everflowing Chalice
+4 Blast Zone
+4 Mox Opal
+4 Ancient Stirrings
+1 Lightning Bolt
 1 Simian Spirit Guide
 1 Mountain
-1 Lightning Bolt
-2 Simian Spirit Guide
 2 Lightning Bolt
+2 Simian Spirit Guide
 3 Simian Spirit Guide
 3 Lightning Bolt
 4 Simian Spirit Guide
 1 Peek
 1 Sphinx of Foresight
-1 Arid Mesa
 1 Lightning Axe
-1 Ancestral Vision
-1 Dreadhorde Arcanist
 1 Crashing Footfalls
-1 As Foretold
 1 Electrodominance
+1 Ancestral Vision
 1 Flame Slash
+1 As Foretold
+1 Dreadhorde Arcanist
 1 Opt
 1 Scalding Tarn
 1 Force of Negation
 1 Flooded Strand
+1 Arid Mesa
 2 Peek
 2 Mountain
-2 Crashing Footfalls
-2 Electrodominance
 2 Dreadhorde Arcanist
 2 Ancestral Vision
+2 Crashing Footfalls
 2 As Foretold
+2 Electrodominance
 2 Opt
 2 Scalding Tarn
 2 Force of Negation
 2 Sphinx of Foresight
 3 Steam Vents
+3 As Foretold
 3 Scalding Tarn
+3 Ancestral Vision
 3 Electrodominance
 3 Dreadhorde Arcanist
-3 Ancestral Vision
-3 As Foretold
 3 Crashing Footfalls
 3 Force of Negation
 3 Sphinx of Foresight
@@ -46,68 +106,7 @@
 4 As Foretold
 4 Electrodominance
 4 Ancestral Vision
-1 Forest
-2 Forest
-1 Karn, the Great Creator
-1 Walking Ballista
-2 Karn, the Great Creator
-3 Karn, the Great Creator
-4 Karn, the Great Creator
-1 Ancient Stirrings
-1 Blast Zone
-1 Zhalfirin Void
-1 Copperline Gorge
-1 Surge Node
-1 Coretapper
-1 Astral Cornucopia
-1 Horizon Canopy
-1 Everflowing Chalice
-1 Nurturing Peatland
-1 Mystic Forge
-1 Paradox Engine
-1 Inventors' Fair
-1 Grove of the Burnwillows
-1 Pyrite Spellbomb
-1 Mox Opal
-1 Engineered Explosives
-1 Ensnaring Bridge
-2 Pyrite Spellbomb
-2 Blast Zone
-2 Ancient Stirrings
-2 Grove of the Burnwillows
-2 Zhalfirin Void
-2 Surge Node
-2 Coretapper
-2 Astral Cornucopia
-2 Everflowing Chalice
-2 Mystic Forge
-2 Paradox Engine
-2 Ensnaring Bridge
-2 Inventors' Fair
-2 Mox Opal
-3 Blast Zone
-3 Ancient Stirrings
-3 Ensnaring Bridge
-3 Coretapper
-3 Astral Cornucopia
-3 Everflowing Chalice
-3 Pyrite Spellbomb
-3 Grove of the Burnwillows
-3 Mystic Forge
-3 Paradox Engine
-3 Mox Opal
-3 Inventors' Fair
-3 Surge Node
-4 Ancient Stirrings
-4 Everflowing Chalice
-4 Grove of the Burnwillows
-4 Coretapper
-4 Blast Zone
-4 Astral Cornucopia
-4 Mox Opal
-4 Surge Node
 1 Faithless Looting
-1 Reforge the Soul
 1 Pact of Negation
 1 Desperate Ritual
 1 Chancellor of the Tangle
@@ -120,6 +119,7 @@
 1 Open the Gates
 1 Traverse the Ulvenwald
 1 Manamorphose
+1 Reforge the Soul
 1 Talisman of Impulse
 1 Recross the Paths
 1 Goblin Charbelcher
@@ -157,45 +157,45 @@
 4 Renegade Map
 4 Lay of the Land
 1 Acidic Slime
-1 Nissa, Vastwood Seer
-1 Mwonvuli Acid-Moss
-1 Eternal Witness
-1 Primal Command
+1 Breeding Pool
 1 Nykthos, Shrine to Nyx
 1 Overgrowth
 1 Trinisphere
 1 Garruk Wildspeaker
 1 Utopia Sprawl
 1 Windswept Heath
+1 Mwonvuli Acid-Moss
 1 Hydroid Krasis
 1 Nissa, Worldwaker
-1 Breeding Pool
+1 Primal Command
 1 Arbor Elf
-2 Primal Command
-2 Nissa, Vastwood Seer
-2 Mwonvuli Acid-Moss
+1 Nissa, Vastwood Seer
+1 Eternal Witness
 2 Acidic Slime
-2 Eternal Witness
+2 Walking Ballista
 2 Breeding Pool
 2 Trinisphere
+2 Nissa, Vastwood Seer
+2 Mwonvuli Acid-Moss
 2 Utopia Sprawl
 2 Arbor Elf
 2 Overgrowth
+2 Primal Command
 2 Garruk Wildspeaker
 2 Nissa, Worldwaker
-2 Walking Ballista
 2 Windswept Heath
-3 Primal Command
-3 Mwonvuli Acid-Moss
+2 Eternal Witness
 3 Windswept Heath
 3 Arbor Elf
+3 Mwonvuli Acid-Moss
 3 Forest
+3 Primal Command
 3 Acidic Slime
 3 Overgrowth
 3 Utopia Sprawl
 4 Primal Command
-4 Mwonvuli Acid-Moss
 4 Windswept Heath
+4 Mwonvuli Acid-Moss
 4 Utopia Sprawl
 4 Overgrowth
 4 Arbor Elf
