@@ -65,11 +65,11 @@
 2 Vesperlark
 2 Vivien's Arkbow
 2 Chandra, Acolyte of Flame
-2 Stomping Ground
 2 Copperline Gorge
 2 Sacred Foundry
 2 Shivan Reef
 2 Scampering Scorcher
+2 Stomping Ground
 2 Lumbering Falls
 3 Vesperlark
 3 Smokebraider
@@ -96,7 +96,6 @@
 4 Young Pyromancer
 1 Overgrown Tomb
 2 Verdant Catacombs
-1 Viscera Seer
 1 Ranger-Captain of Eos
 1 Murderous Redcap
 1 Godless Shrine
@@ -108,6 +107,7 @@
 1 Hallowed Fountain
 1 Kitchen Finks
 1 Birds of Paradise
+1 Viscera Seer
 1 Plains
 1 Watery Grave
 1 Carrion Feeder
@@ -200,8 +200,8 @@
 4 Snow-Covered Mountain
 4 Ball Lightning
 1 Mutavault
-1 Urborg, Tomb of Yawgmoth
 1 Nurturing Peatland
+1 Urborg, Tomb of Yawgmoth
 1 Dryad Arbor
 1 Stitcher's Supplier
 1 Smallpox
@@ -246,8 +246,8 @@
 1 Faerie Seer
 1 Ninja of the Deep Hours
 1 Disrupting Shoal
-1 Curious Obsession
 1 Spell Pierce
+1 Curious Obsession
 1 Pteramander
 1 Spellstutter Sprite
 1 Island

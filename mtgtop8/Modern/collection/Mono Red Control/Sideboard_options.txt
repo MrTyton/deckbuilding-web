@@ -1,9 +1,5 @@
 1 Magus of the Moon
-1 Ravenous Trap
-2 Ravenous Trap
-1 Welding Jar
 1 Witchbane Orb
-1 Trinisphere
 1 Dragon's Claw
 1 Boil
 1 Fry
@@ -11,8 +7,12 @@
 2 Fry
 1 Eidolon of the Great Revel
 2 Eidolon of the Great Revel
-2 Torpor Orb
 1 Damping Sphere
+2 Torpor Orb
+1 Welding Jar
+1 Ravenous Trap
+2 Ravenous Trap
+1 Trinisphere
 1 Ratchet Bomb
 1 Goblin Rabblemaster
 2 Goblin Rabblemaster
@@ -30,11 +30,6 @@
 3 Abrade
 3 Eidolon of the Great Revel
 4 Eidolon of the Great Revel
-2 Tormod's Crypt
-4 Leyline of Combustion
-1 Goblin Chainwhirler
-3 Ravenous Trap
-4 Ravenous Trap
 1 Ricochet Trap
 1 Pillage
 2 Dragon's Claw
@@ -44,6 +39,11 @@
 3 Dragon's Claw
 3 Pillage
 4 Dragon's Claw
+2 Tormod's Crypt
+4 Leyline of Combustion
+1 Goblin Chainwhirler
+3 Ravenous Trap
+4 Ravenous Trap
 2 Hazoret the Fervent
 3 Goblin Rabblemaster
 4 Goblin Rabblemaster

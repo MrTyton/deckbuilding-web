@@ -11,38 +11,38 @@
 1 Wurmcoil Engine
 1 Repeal
 1 Academy Ruins
+1 Warping Wail
 1 Ugin, the Spirit Dragon
 1 Emrakul, the Promised End
-1 Warping Wail
 1 Relic of Progenitus
 1 Oblivion Stone
+1 Condescend
+1 Urza's Tower
 1 Trinket Mage
 1 Expedition Map
+1 Grafdigger's Cage
+1 Urza's Mine
 1 Talisman of Progress
 1 Karn, the Great Creator
 1 Thirst for Knowledge
-1 Urza's Power Plant
-1 Condescend
 1 Walking Ballista
-1 Grafdigger's Cage
-1 Urza's Tower
-1 Urza's Mine
+1 Urza's Power Plant
 1 Remand
 1 Blast Zone
 2 Wurmcoil Engine
 2 Relic of Progenitus
 2 Remand
-2 Thirst for Knowledge
 2 Karn, the Great Creator
 2 Urza's Power Plant
 2 Expedition Map
 2 Condescend
-2 Urza's Mine
+2 Thirst for Knowledge
 2 Urza's Tower
 2 Walking Ballista
-3 Urza's Tower
+2 Urza's Mine
 3 Urza's Mine
 3 Urza's Power Plant
+3 Urza's Tower
 3 Expedition Map
 3 Condescend
 3 Thirst for Knowledge
@@ -52,57 +52,50 @@
 4 Urza's Tower
 4 Urza's Mine
 4 Urza's Power Plant
+1 Force of Negation
+2 Force of Negation
+5 Island
+1 Vapor Snag
+1 Unsettled Mariner
+1 Mutavault
+1 Cavern of Souls
+1 Mu Yanling, Sky Dancer
+1 Silvergill Adept
+1 Master of the Pearl Trident
+1 Spreading Seas
+1 Merfolk Trickster
+1 Merrow Reejerey
+1 Benthic Biomancer
+1 Lord of Atlantis
+1 Waterlogged Grove
+1 Thassa, God of the Sea
+1 Coralhelm Commander
+2 Unsettled Mariner
+2 Mutavault
+2 Silvergill Adept
+2 Master of the Pearl Trident
+2 Spreading Seas
+2 Lord of Atlantis
+2 Merfolk Trickster
+2 Merrow Reejerey
+2 Benthic Biomancer
+2 Waterlogged Grove
+2 Thassa, God of the Sea
+3 Mutavault
+3 Merfolk Trickster
+3 Silvergill Adept
+3 Lord of Atlantis
+3 Unsettled Mariner
+3 Master of the Pearl Trident
+3 Spreading Seas
+3 Benthic Biomancer
+4 Lord of Atlantis
+4 Merfolk Trickster
+4 Silvergill Adept
+4 Master of the Pearl Trident
+4 Mutavault
 1 Serum Visions
 2 Serum Visions
-1 Arcum's Astrolabe
-1 Ichor Wellspring
-1 Prismatic Vista
-1 Engineered Explosives
-1 Paradoxical Outcome
-1 Metallic Rebuke
-1 Opt
-1 Mox Opal
-1 Sai, Master Thopterist
-1 Urza, Lord High Artificer
-1 Mishra's Bauble
-1 Pentad Prism
-2 Arcum's Astrolabe
-2 Snow-Covered Island
-2 Ichor Wellspring
-2 Prismatic Vista
-2 Sai, Master Thopterist
-2 Engineered Explosives
-2 Metallic Rebuke
-2 Mox Opal
-2 Paradoxical Outcome
-2 Snapcaster Mage
-2 Urza, Lord High Artificer
-2 Pentad Prism
-2 Mishra's Bauble
-2 Opt
-3 Arcum's Astrolabe
-3 Snow-Covered Island
-3 Prismatic Vista
-3 Pentad Prism
-3 Engineered Explosives
-3 Ichor Wellspring
-3 Mishra's Bauble
-3 Paradoxical Outcome
-3 Serum Visions
-3 Mox Opal
-3 Urza, Lord High Artificer
-4 Arcum's Astrolabe
-4 Snow-Covered Island
-4 Pentad Prism
-4 Mishra's Bauble
-4 Urza, Lord High Artificer
-4 Engineered Explosives
-4 Mox Opal
-4 Paradoxical Outcome
-4 Serum Visions
-5 Snow-Covered Island
-6 Snow-Covered Island
-7 Snow-Covered Island
 1 Teferi, Hero of Dominaria
 1 Narset, Parter of Veils
 1 Rest in Peace
@@ -115,15 +108,13 @@
 1 Wall of Omens
 1 Mystic Gate
 1 Supreme Verdict
-1 Force of Negation
 2 Narset, Parter of Veils
-2 Force of Negation
 2 Rest in Peace
 2 Cryptic Command
-2 Mystic Gate
+2 Field of Ruin
 2 Supreme Verdict
 2 Celestial Colonnade
-2 Field of Ruin
+2 Mystic Gate
 2 Runed Halo
 2 Dragonlord Ojutai
 2 Jace, the Mind Sculptor
@@ -132,10 +123,10 @@
 3 Jace, the Mind Sculptor
 3 Plains
 3 Narset, Parter of Veils
-3 Field of Ruin
 3 Supreme Verdict
 3 Force of Negation
 3 Celestial Colonnade
+3 Field of Ruin
 3 Mystic Gate
 3 Wall of Omens
 3 Cryptic Command
@@ -143,5 +134,53 @@
 4 Wall of Omens
 4 Celestial Colonnade
 4 Field of Ruin
-5 Island
 6 Island
+1 Arcum's Astrolabe
+1 Ichor Wellspring
+1 Prismatic Vista
+1 Engineered Explosives
+1 Paradoxical Outcome
+1 Metallic Rebuke
+1 Opt
+1 Mox Opal
+1 Pentad Prism
+1 Sai, Master Thopterist
+1 Urza, Lord High Artificer
+1 Mishra's Bauble
+2 Arcum's Astrolabe
+2 Snow-Covered Island
+2 Ichor Wellspring
+2 Prismatic Vista
+2 Sai, Master Thopterist
+2 Engineered Explosives
+2 Mox Opal
+2 Metallic Rebuke
+2 Paradoxical Outcome
+2 Snapcaster Mage
+2 Pentad Prism
+2 Urza, Lord High Artificer
+2 Opt
+2 Mishra's Bauble
+3 Arcum's Astrolabe
+3 Snow-Covered Island
+3 Prismatic Vista
+3 Pentad Prism
+3 Ichor Wellspring
+3 Mox Opal
+3 Engineered Explosives
+3 Mishra's Bauble
+3 Paradoxical Outcome
+3 Serum Visions
+3 Urza, Lord High Artificer
+4 Arcum's Astrolabe
+4 Snow-Covered Island
+4 Pentad Prism
+4 Mishra's Bauble
+4 Urza, Lord High Artificer
+4 Mox Opal
+4 Paradoxical Outcome
+4 Serum Visions
+4 Engineered Explosives
+5 Snow-Covered Island
+6 Snow-Covered Island
+7 Snow-Covered Island
