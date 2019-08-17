@@ -41,8 +41,8 @@
 |                    3|[Great Furnace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389542)       |                    3|[Ensnaring Bridge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=15866)    |
 |                    1|[Sword of Fire and Ice](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=46429)|                    1|[Blood Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45386)          |
 |                    2|[Darksteel Citadel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389479)   |                    1|[Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)             |
-|                    3|[Darksteel Citadel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389479)   |                    2|[Blood Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45386)          |
-|                    3|[Lodestone Golem](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220536)     |                    2|[Spellskite](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397743)         |
+|                    3|[Darksteel Citadel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389479)   |                    2|[Spellskite](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397743)         |
+|                    3|[Lodestone Golem](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220536)     |                    2|[Blood Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45386)          |
 |                    4|[Lodestone Golem](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220536)     |                    2|[Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)             |
 |                    4|[Phyrexian Revoker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383343)   |                    3|[Blood Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45386)          |
 
