@@ -35,8 +35,8 @@
 
 |*n*<sup>th</sup> copy|                                        Maindeck Card                                         |*n*<sup>th</sup> copy|                                          Sideboard Card                                          |
 |--------------------:|----------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------------|
-|                    1|[Dusk Legion Zealot](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442078) |                    1|[Pelakka Wurm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382322)           |
 |                    1|[Fblthp, the Lost](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460977)   |                    1|[Narset, Parter of Veils](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460988)|
+|                    1|[Dusk Legion Zealot](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442078) |                    1|[Pelakka Wurm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382322)           |
 |                    1|[Agent of Treachery](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466797) |                    1|[Tyrant's Scorn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461152)         |
 |                    1|[Blast Zone](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461171)         |                    1|[Cry of the Carnarium](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457214)   |
 |                    1|[Stitcher's Supplier](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447257)|                    1|[Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)                 |
