@@ -31,8 +31,8 @@
 4 Tidehollow Sculler
 2 Nihil Spellbomb
 1 Faithless Looting
-1 Snow-Covered Swamp
 1 Snow-Covered Plains
+1 Snow-Covered Swamp
 1 Jace, Vryn's Prodigy
 4 Path to Exile
 1 Plains
@@ -90,9 +90,11 @@
 3 Unearth
 3 Mutagenic Growth
 3 Become Immense
-1 Orzhov Charm
-3 Arid Mesa
-4 Arid Mesa
+1 Terminate
+2 Kolaghan's Command
+2 Steam Vents
+2 Tasigur, the Golden Fang
+4 Snapcaster Mage
 1 Snow-Covered Forest
 1 Maelstrom Pulse
 1 Assassin's Trophy
@@ -107,11 +109,9 @@
 2 Assassin's Trophy
 3 Windswept Heath
 4 Windswept Heath
-1 Terminate
-2 Kolaghan's Command
-2 Steam Vents
-2 Tasigur, the Golden Fang
-4 Snapcaster Mage
+1 Orzhov Charm
+3 Arid Mesa
+4 Arid Mesa
 1 Urborg, Tomb of Yawgmoth
 1 Smallpox
 1 Satyr Wayfinder
@@ -140,10 +140,10 @@
 3 Smallpox
 3 Urborg, Tomb of Yawgmoth
 3 Nurturing Peatland
+4 Urborg, Tomb of Yawgmoth
 4 Nurturing Peatland
 4 Hogaak, Arisen Necropolis
 4 Smallpox
-4 Urborg, Tomb of Yawgmoth
 4 Stitcher's Supplier
 4 Satyr Wayfinder
 4 Bloodghast

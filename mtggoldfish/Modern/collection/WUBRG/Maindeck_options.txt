@@ -1,22 +1,22 @@
+1 Creeping Trailblazer
 1 Sunbaked Canyon
+1 Aether Vial
 1 Fulminator Mage
 1 Risen Reef
 1 Copperline Gorge
 1 Thunderkin Awakener
-1 Aether Vial
 1 Flamekin Harbinger
-1 Voice of Resurgence
 1 Vesperlark
 1 Smokebraider
 1 Unclaimed Territory
 1 Omnath, Locus of the Roil
 1 Primal Beyond
-2 Waterlogged Grove
-2 Cavern of Souls
 2 Fiery Islet
+2 Waterlogged Grove
+2 Voice of Resurgence
+2 Cavern of Souls
 2 Creeping Trailblazer
 2 Sunbaked Canyon
-2 Voice of Resurgence
 2 Aether Vial
 2 Vesperlark
 2 Unclaimed Territory
@@ -26,22 +26,22 @@
 2 Copperline Gorge
 2 Thunderkin Awakener
 2 Flamekin Harbinger
+3 Voice of Resurgence
 3 Creeping Trailblazer
 3 Cavern of Souls
-3 Voice of Resurgence
+3 Aether Vial
 3 Primal Beyond
 3 Risen Reef
 3 Copperline Gorge
-3 Aether Vial
 3 Flamekin Harbinger
 3 Vesperlark
 3 Thunderkin Awakener
 3 Unclaimed Territory
+4 Aether Vial
 4 Primal Beyond
 4 Flamekin Harbinger
 4 Risen Reef
 4 Copperline Gorge
-4 Aether Vial
 4 Thunderkin Awakener
 4 Vesperlark
 4 Cavern of Souls
@@ -72,38 +72,38 @@
 3 Noble Hierarch
 4 Noble Hierarch
 1 Borborygmos Enraged
-1 Vizier of Remedies
+1 Eldritch Evolution
 1 Duskwatch Recruiter
 1 Devoted Druid
+1 Vizier of Remedies
 1 Rhonas the Indomitable
 1 Eladamri's Call
-1 Neoform
 1 Griselbrand
-1 Eldritch Evolution
 1 Dryad Arbor
 1 Terastodon
+1 Neoform
 1 Allosaurus Rider
 1 Razorverge Thicket
+2 Eldritch Evolution
 2 Devoted Druid
 2 Eladamri's Call
-2 Neoform
-2 Duskwatch Recruiter
-2 Eldritch Evolution
-2 Razorverge Thicket
 2 Allosaurus Rider
 2 Forest
+2 Neoform
+2 Razorverge Thicket
+2 Duskwatch Recruiter
 2 Temple Garden
 3 Devoted Druid
-3 Neoform
 3 Eladamri's Call
 3 Eldritch Evolution
 3 Allosaurus Rider
+3 Neoform
 4 Devoted Druid
-4 Neoform
+4 Misty Rainforest
 4 Eldritch Evolution
 4 Eladamri's Call
 4 Allosaurus Rider
-4 Misty Rainforest
+4 Neoform
 2 Scavenging Ooze
 1 Teferi, Time Raveler
 1 Stomping Ground
@@ -115,9 +115,9 @@
 1 Blood Crypt
 1 Veil of Summer
 1 Incubation/Incongruity
-2 Vizier of Remedies
 2 Breeding Pool
 2 Incubation/Incongruity
+2 Vizier of Remedies
 2 Path to Exile
 2 Lightning Bolt
 3 Lightning Bolt
@@ -125,8 +125,8 @@
 2 Fauna Shaman
 3 Fauna Shaman
 4 Fauna Shaman
-1 Godless Shrine
 1 Knight of Autumn
+1 Godless Shrine
 1 Snow-Covered Forest
 1 Snow-Covered Mountain
 1 Snow-Covered Plains
@@ -148,12 +148,12 @@
 1 Dead of Winter
 1 Kolaghan's Command
 1 Izzet Charm
+1 Bloodbraid Elf
 1 Abrupt Decay
 1 Prismatic Vista
 1 Kaya, Orzhov Usurper
 1 Pillar of the Paruns
 1 Unmoored Ego
-1 Bloodbraid Elf
 2 Mana Confluence
 2 Prismatic Vista
 2 Ice-Fang Coatl
@@ -165,8 +165,8 @@
 3 Mana Confluence
 3 Ice-Fang Coatl
 3 Arcum's Astrolabe
-3 Bloodbraid Elf
 3 Prismatic Vista
+3 Bloodbraid Elf
 3 Niv-Mizzet Reborn
 3 Pillar of the Paruns
 4 Ice-Fang Coatl
@@ -236,20 +236,20 @@
 4 Wild Nacatl
 4 Tribal Flames
 4 Lightning Bolt
-1 Kiki-Jiki, Mirror Breaker
 1 Deceiver Exarch
-1 Utopia Sprawl
+1 Kiki-Jiki, Mirror Breaker
 1 Arid Mesa
+1 Utopia Sprawl
 1 Scalding Tarn
 1 Felidar Guardian
 1 Saheeli Rai
 1 Eternal Witness
 1 Remand
 1 Chancellor of the Annex
-2 Kiki-Jiki, Mirror Breaker
 2 Deceiver Exarch
-2 Utopia Sprawl
+2 Kiki-Jiki, Mirror Breaker
 2 Arid Mesa
+2 Utopia Sprawl
 2 Saheeli Rai
 2 Remand
 2 Sacred Foundry
@@ -274,7 +274,9 @@
 4 Saheeli Rai
 1 Welding Jar
 1 Darkslick Shores
+1 Pithing Needle
 1 Codex Shredder
+1 Grafdigger's Cage
 1 Ensnaring Bridge
 1 Thoughtseize
 1 Academy Ruins
@@ -286,27 +288,24 @@
 1 Glimmervoid
 1 Whir of Invention
 1 Pyxis of Pandemonium
-1 Pithing Needle
 1 Thopter Foundry
 1 Inventors' Fair
 1 Lantern of Insight
-1 Grafdigger's Cage
 1 Ancient Stirrings
 2 Darkslick Shores
 2 Codex Shredder
-2 Ancient Stirrings
+2 Pithing Needle
 2 Mox Opal
 2 Pyxis of Pandemonium
 2 Botanical Sanctum
-2 Pithing Needle
 2 Thoughtseize
 2 Lantern of Insight
+2 Ancient Stirrings
 2 Urza, Lord High Artificer
 2 Spire of Industry
 2 Ensnaring Bridge
 2 Glimmervoid
 2 Whir of Invention
-3 Darkslick Shores
 3 Codex Shredder
 3 Assassin's Trophy
 3 Thoughtseize
@@ -315,6 +314,7 @@
 3 Glimmervoid
 3 Whir of Invention
 3 Mox Opal
+3 Darkslick Shores
 3 Botanical Sanctum
 3 Ancient Stirrings
 3 Lantern of Insight
@@ -322,16 +322,15 @@
 4 Whir of Invention
 4 Botanical Sanctum
 4 Glimmervoid
-4 Mox Opal
 4 Codex Shredder
 4 Ancient Stirrings
 4 Lantern of Insight
 4 Spire of Industry
+4 Mox Opal
 1 Bloodstained Mire
-1 Traverse the Ulvenwald
 1 Bomat Courier
 1 Lotleth Troll
-1 Nurturing Peatland
+1 Traverse the Ulvenwald
 1 Collective Brutality
 1 Thrun, the Last Troll
 1 Soulflayer
@@ -340,6 +339,7 @@
 1 Grisly Salvage
 1 Drogskol Reaver
 1 Ghor-Clan Rampager
+1 Nurturing Peatland
 1 Zetalpa, Primal Dawn
 1 Verdant Catacombs
 1 Samut, Voice of Dissent
@@ -349,7 +349,6 @@
 2 Lotleth Troll
 2 Overgrown Tomb
 2 Collective Brutality
-2 Nurturing Peatland
 2 Blood Crypt
 2 Zetalpa, Primal Dawn
 2 Drogskol Reaver
@@ -358,6 +357,7 @@
 2 Grisly Salvage
 2 Soulflayer
 2 Swamp
+2 Nurturing Peatland
 3 Traverse the Ulvenwald
 3 Bomat Courier
 3 Lotleth Troll
@@ -369,8 +369,8 @@
 3 Drogskol Reaver
 3 Verdant Catacombs
 3 Samut, Voice of Dissent
-4 Traverse the Ulvenwald
 4 Verdant Catacombs
+4 Traverse the Ulvenwald
 4 Grisly Salvage
 4 Faithless Looting
 4 Bloodstained Mire

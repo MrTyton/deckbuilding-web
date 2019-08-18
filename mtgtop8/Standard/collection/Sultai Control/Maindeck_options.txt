@@ -1,11 +1,8 @@
 4 Forest
-3 Command the Dreadhorde
-4 Hinterland Harbor
 1 Temple of Mystery
 1 Temple of Malady
 2 Temple of Malady
 1 Find / Finality
-4 Tamiyo, Collector of Tales
 1 Island
 3 Cast Down
 1 Massacre Girl
@@ -43,6 +40,7 @@
 1 Yarok, the Desecrated
 3 Drowned Catacomb
 1 Disfigure
+4 Hinterland Harbor
 1 Arch of Orazca
 1 Negate
 2 Negate
@@ -59,17 +57,17 @@
 4 Cast Down
 2 Island
 2 Disfigure
-1 Spell Pierce
 1 Interplanar Beacon
 1 Vivien Reid
 1 Paradise Druid
 2 Paradise Druid
-2 Hostage Taker
-3 Hostage Taker
 1 Legion's End
 2 Yarok, the Desecrated
 2 Legion's End
 3 Yarok, the Desecrated
+2 Hostage Taker
+3 Hostage Taker
+4 Tamiyo, Collector of Tales
 1 Deathsprout
 1 Scapeshift
 2 Deathsprout
@@ -85,14 +83,15 @@
 2 Cavalier of Thorns
 2 Healer of the Glade
 3 Healer of the Glade
+3 Command the Dreadhorde
 4 Healer of the Glade
+1 Sinister Sabotage
 1 Syncopate
 1 Nightpack Ambusher
 1 Spectral Sailor
 1 Essence Scatter
 1 Frilled Mystic
 1 Brineborn Cutthroat
-1 Sinister Sabotage
 1 Tyrant's Scorn
 1 Opt
 2 Syncopate
@@ -101,8 +100,8 @@
 2 Nightpack Ambusher
 2 Frilled Mystic
 2 Brineborn Cutthroat
-2 Sinister Sabotage
 2 Tyrant's Scorn
+2 Sinister Sabotage
 2 Opt
 3 Nightpack Ambusher
 3 Spectral Sailor
