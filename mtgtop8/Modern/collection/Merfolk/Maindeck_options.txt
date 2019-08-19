@@ -15,6 +15,7 @@
 1 Thassa, God of the Sea
 1 Mu Yanling, Sky Dancer
 1 Kopala, Warden of Waves
+1 Flooded Strand
 1 Minamo, School at Water's Edge
 1 Breeding Pool
 1 Merfolk Mistbinder
@@ -28,8 +29,8 @@
 3 Kumena's Speaker
 4 Kumena's Speaker
 4 Merfolk Mistbinder
-1 Flooded Strand
 1 Master of Waves
+2 Flooded Strand
 2 Thassa, God of the Sea
 2 Kopala, Warden of Waves
 2 Mu Yanling, Sky Dancer
@@ -42,12 +43,24 @@
 3 Coralhelm Commander
 4 Coralhelm Commander
 1 Spell Pierce
-1 Mistcaller
-2 Mistcaller
-12 Island
-2 Flooded Strand
 2 Master of Waves
 3 Master of Waves
+1 Unsettled Mariner
+1 Seachrome Coast
+1 Wanderwine Hub
+1 Hallowed Fountain
+2 Unsettled Mariner
+2 Seachrome Coast
+2 Wanderwine Hub
+2 Hallowed Fountain
+3 Unsettled Mariner
+3 Wanderwine Hub
+4 Unsettled Mariner
+4 Wanderwine Hub
+12 Island
+1 Mistcaller
+2 Mistcaller
+1 Misty Rainforest
 1 Smuggler's Copter
 2 Fiery Islet
 2 Cavern of Souls
@@ -61,23 +74,17 @@
 2 Lonely Sandbar
 3 Lonely Sandbar
 4 Lonely Sandbar
+1 Deputy of Detention
+1 Path to Exile
+2 Deputy of Detention
+2 Path to Exile
+3 Seachrome Coast
+3 Flooded Strand
+4 Seachrome Coast
 3 Echoing Truth
 4 Echoing Truth
 1 Tectonic Edge
 4 Master of Waves
-1 Unsettled Mariner
-1 Seachrome Coast
-1 Wanderwine Hub
-1 Hallowed Fountain
-1 Misty Rainforest
-2 Unsettled Mariner
-2 Seachrome Coast
-2 Wanderwine Hub
-2 Hallowed Fountain
-3 Unsettled Mariner
-3 Wanderwine Hub
-4 Unsettled Mariner
-4 Wanderwine Hub
 1 Venser, Shaper Savant
 1 Vapor Snag
 1 Wizard's Retort
