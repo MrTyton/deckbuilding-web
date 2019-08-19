@@ -2,25 +2,23 @@
 1 Forest
 3 Nurturing Peatland
 1 Scavenging Ooze
-2 Scavenging Ooze
 2 Forest
 1 Collected Company
 2 Collected Company
 3 Collected Company
-3 Forest
 4 Collected Company
+1 Dwynen's Elite
 1 Heritage Druid
+1 Shaman of the Pack
 1 Elvish Archdruid
 1 Gilt-Leaf Palace
 1 Ezuri, Renegade Leader
-1 Dwynen's Elite
-1 Shaman of the Pack
 1 Llanowar Elves
 1 Elvish Mystic
 2 Llanowar Elves
 2 Elvish Mystic
-2 Shaman of the Pack
 2 Elvish Archdruid
+2 Shaman of the Pack
 2 Heritage Druid
 2 Ezuri, Renegade Leader
 2 Dwynen's Elite
@@ -38,6 +36,8 @@
 4 Shaman of the Pack
 4 Dwynen's Elite
 4 Nurturing Peatland
+2 Scavenging Ooze
+3 Forest
 1 Thoughtseize
 2 Thoughtseize
 3 Thoughtseize
@@ -45,17 +45,22 @@
 1 Inquisition of Kozilek
 2 Inquisition of Kozilek
 1 Wooded Foothills
-3 Swamp
 1 Elvish Clancaller
 2 Elvish Clancaller
 3 Elvish Clancaller
 4 Elvish Clancaller
 1 Westvale Abbey
+3 Gilt-Leaf Palace
 1 Nettle Sentinel
 2 Nettle Sentinel
-3 Gilt-Leaf Palace
 3 Nettle Sentinel
 4 Nettle Sentinel
+1 Cavern of Souls
+2 Cavern of Souls
+3 Cavern of Souls
+1 Lead the Stampede
+2 Lead the Stampede
+3 Swamp
 4 Thoughtseize
 4 Bloodghast
 4 Swamp
@@ -64,46 +69,44 @@
 2 Wooded Foothills
 1 Assassin's Trophy
 1 Misty Rainforest
-1 Windswept Heath
 1 Marsh Flats
+1 Windswept Heath
 1 Collective Brutality
 2 Collective Brutality
 2 Assassin's Trophy
 3 Inquisition of Kozilek
 4 Inquisition of Kozilek
+4 Forest
 1 Birds of Paradise
 2 Birds of Paradise
 3 Birds of Paradise
 4 Birds of Paradise
-4 Forest
+1 Pendelhaven
 1 Liliana of the Veil
 2 Liliana of the Veil
 3 Liliana of the Veil
 4 Liliana of the Veil
-1 Pendelhaven
 1 Unclaimed Territory
 2 Unclaimed Territory
-1 Lead the Stampede
-2 Lead the Stampede
-1 Cavern of Souls
-2 Cavern of Souls
-3 Cavern of Souls
+4 Gilt-Leaf Palace
 1 Polluted Delta
-1 Mutavault
 1 Urborg, Tomb of Yawgmoth
 1 Fatal Push
+1 Mutavault
 1 Smallpox
-2 Mutavault
 2 Urborg, Tomb of Yawgmoth
 2 Fatal Push
+2 Mutavault
 2 Smallpox
 3 Mutavault
-3 Urborg, Tomb of Yawgmoth
 3 Smallpox
-4 Mutavault
+3 Urborg, Tomb of Yawgmoth
 4 Urborg, Tomb of Yawgmoth
 4 Smallpox
+4 Mutavault
 1 Plague Engineer
+1 Winding Way
+2 Winding Way
 1 Knight of Autumn
 1 Godless Shrine
 1 Driven/Despair
@@ -113,8 +116,6 @@
 1 Craterhoof Behemoth
 3 Wooded Foothills
 4 Wooded Foothills
-1 Winding Way
-2 Winding Way
 2 Marsh Flats
 3 Hexdrinker
 3 Collective Brutality
@@ -122,7 +123,6 @@
 2 Death's Shadow
 3 Death's Shadow
 4 Death's Shadow
-4 Gilt-Leaf Palace
 1 Snow-Covered Forest
 1 Snow-Covered Swamp
 2 Snow-Covered Swamp
@@ -133,6 +133,7 @@
 3 Scavenging Ooze
 3 Assassin's Trophy
 1 Elvish Visionary
+3 Lead the Stampede
 4 Overgrown Tomb
 1 Unearth
 2 Misty Rainforest
@@ -140,7 +141,6 @@
 2 Sylvan Messenger
 3 Ezuri, Renegade Leader
 2 Elvish Visionary
-3 Lead the Stampede
 3 Elvish Visionary
 4 Hexdrinker
 2 Snow-Covered Forest
@@ -155,6 +155,9 @@
 2 Faithless Looting
 3 Faithless Looting
 4 Faithless Looting
+1 Nykthos, Shrine to Nyx
+1 Elvish Champion
+4 Cavern of Souls
 1 Ancient Stirrings
 1 Walking Ballista
 1 Inkmoth Nexus
@@ -187,14 +190,14 @@
 3 Ancient Stirrings
 3 Mox Opal
 3 Welding Jar
-3 Steel Overseer
 3 Arcbound Ravager
+3 Steel Overseer
 3 Walking Ballista
 3 Hangarback Walker
 3 Hardened Scales
 3 Arcbound Worker
-4 Walking Ballista
 4 Inkmoth Nexus
+4 Walking Ballista
 4 Mox Opal
 4 Ancient Stirrings
 4 Arcbound Ravager
@@ -219,8 +222,8 @@
 2 Melira, Sylvok Outcast
 2 Viscera Seer
 3 Woodland Cemetery
-3 Rotting Regisaur
 3 Plague Engineer
+3 Rotting Regisaur
 3 Viscera Seer
 3 Kitchen Finks
 4 Woodland Cemetery

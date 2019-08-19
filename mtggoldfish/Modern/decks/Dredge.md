@@ -56,8 +56,8 @@
 |                    3|[Arid Mesa](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405092)                |                     |                                                                                              |
 |                    2|[Gemstone Mine](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=109761)            |                     |                                                                                              |
 |                    3|[Conflagrate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=114909)              |                     |                                                                                              |
-|                    4|[Bloodstained Mire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405094)        |                     |                                                                                              |
 |                    4|[Arid Mesa](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405092)                |                     |                                                                                              |
+|                    4|[Bloodstained Mire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405094)        |                     |                                                                                              |
 |                    3|[Scalding Tarn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405107)            |                     |                                                                                              |
 |                    4|[Scalding Tarn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405107)            |                     |                                                                                              |
 

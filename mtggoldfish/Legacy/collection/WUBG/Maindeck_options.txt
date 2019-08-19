@@ -1,75 +1,23 @@
 1 Savannah
-1 Green Sun's Zenith
-2 Green Sun's Zenith
-1 Misty Rainforest
-1 Forest
-1 Tropical Island
-2 Misty Rainforest
-2 Forest
-1 Utopia Sprawl
-1 Windswept Heath
-1 Ground Seal
-1 Solitary Confinement
-1 Cast Out
-1 Argothian Enchantress
-1 Serra's Sanctum
-1 Oblivion Ring
-1 Enchantress's Presence
-1 Elephant Grass
-1 Hall of Heliod's Generosity
-1 Doomwake Giant
-1 Estrid's Invocation
-1 Wooded Foothills
-1 Abundant Growth
-1 Wild Growth
-1 Mirri's Guile
-2 Utopia Sprawl
-2 Abundant Growth
-2 Estrid's Invocation
-2 Oblivion Ring
-2 Ground Seal
-2 Elephant Grass
-2 Enchantress's Presence
-2 Wild Growth
-2 Argothian Enchantress
-2 Serra's Sanctum
-3 Utopia Sprawl
-3 Abundant Growth
-3 Wild Growth
-3 Argothian Enchantress
-3 Elephant Grass
-3 Forest
-3 Enchantress's Presence
-4 Utopia Sprawl
-4 Forest
-4 Abundant Growth
-4 Elephant Grass
-4 Enchantress's Presence
-4 Wild Growth
-5 Forest
-6 Forest
-7 Forest
-8 Forest
-2 Cast Out
 1 Cabal Therapy
 1 Dryad Arbor
+1 Green Sun's Zenith
 2 Cabal Therapy
+2 Green Sun's Zenith
 3 Cabal Therapy
 3 Verdant Catacombs
 1 Wasteland
-1 Ghost Quarter
-1 Ramunap Excavator
+1 Gaddock Teeg
 1 Sylvan Safekeeper
 1 Elvish Reclaimer
 1 Satyr Wayfinder
-1 Ancient Tomb
-1 Khalni Garden
-1 Gaddock Teeg
 1 Mox Diamond
+1 Khalni Garden
 1 Hogaak, Arisen Necropolis
 1 Crop Rotation
 1 Bojuka Bog
 1 Sejiri Steppe
+1 Forest
 2 Crop Rotation
 2 Elvish Reclaimer
 2 Satyr Wayfinder
@@ -82,12 +30,47 @@
 4 Verdant Catacombs
 4 Crop Rotation
 4 Elvish Reclaimer
-4 Thespian's Stage
-4 Green Sun's Zenith
 4 Mox Diamond
+4 Green Sun's Zenith
 2 Polluted Delta
 3 Polluted Delta
+1 Misty Rainforest
+1 Ghost Quarter
+1 Ramunap Excavator
+1 Ancient Tomb
+4 Thespian's Stage
+1 Scavenging Ooze
+1 Brainstorm
+1 Tropical Island
+1 Ponder
+1 Underground Sea
+1 Force of Will
+2 Misty Rainforest
+2 Ponder
+2 Brainstorm
+2 Force of Will
+3 Force of Will
+3 Brainstorm
+3 Ponder
+4 Force of Will
+4 Brainstorm
 1 Abrupt Decay
+2 Abrupt Decay
+1 Karakas
+4 Cabal Therapy
+1 Snow-Covered Forest
+1 Eternal Witness
+1 Recruiter of the Guard
+1 Ice-Fang Coatl
+1 Snow-Covered Island
+2 Snow-Covered Forest
+2 Snow-Covered Island
+2 Recruiter of the Guard
+2 Ice-Fang Coatl
+3 Misty Rainforest
+3 Ice-Fang Coatl
+4 Misty Rainforest
+4 Ice-Fang Coatl
 1 Fierce Empath
 1 Titania, Protector of Argoth
 1 Reclamation Sage
@@ -95,58 +78,86 @@
 3 Ancient Tomb
 4 Dark Depths
 3 Vampire Hexmage
-2 Abrupt Decay
-1 Snow-Covered Forest
 1 Snow-Covered Swamp
-1 Sylvan Library
-1 Man-o'-War
-1 Eternal Witness
 1 Veteran Explorer
-1 Recruiter of the Guard
+1 Man-o'-War
 1 Parasitic Strix
-1 Brainstorm
 1 Leovold, Emissary of Trest
-1 Ponder
+1 Sylvan Library
 1 Cavern Harpy
-1 Ice-Fang Coatl
-1 Snow-Covered Island
-1 Underground Sea
 1 Aluren
-1 Force of Will
-2 Snow-Covered Forest
 2 Veteran Explorer
-2 Ponder
-2 Snow-Covered Island
-2 Brainstorm
-2 Force of Will
-2 Recruiter of the Guard
-2 Ice-Fang Coatl
 2 Aluren
-3 Misty Rainforest
 3 Recruiter of the Guard
-3 Force of Will
-3 Brainstorm
 3 Aluren
-3 Ponder
-3 Ice-Fang Coatl
-4 Cabal Therapy
-4 Misty Rainforest
 4 Recruiter of the Guard
-4 Ice-Fang Coatl
-4 Brainstorm
-4 Force of Will
-1 Scavenging Ooze
-1 Collective Brutality
-1 Emrakul, the Aeons Torn
-1 Baleful Strix
-2 Baleful Strix
 1 Nurturing Peatland
 1 Volrath's Stronghold
-1 Karakas
-1 Meren of Clan Nel Toth
 2 Wasteland
 2 Hogaak, Arisen Necropolis
+2 Forest
 3 Hogaak, Arisen Necropolis
 3 Wasteland
 4 Satyr Wayfinder
+1 Collective Brutality
 4 Ponder
+1 Meren of Clan Nel Toth
+1 Emrakul, the Aeons Torn
+1 Baleful Strix
+2 Baleful Strix
+1 Deputy of Detention
+1 Plague Engineer
+1 Soulherder
+1 Ephemerate
+1 Knight of Autumn
+1 Snow-Covered Plains
+1 Tundra
+1 Jace, the Mind Sculptor
+1 Mulldrifter
+1 Flooded Strand
+1 Prismatic Vista
+1 Snapcaster Mage
+1 Swords to Plowshares
+1 Coiling Oracle
+2 Soulherder
+2 Ephemerate
+2 Swords to Plowshares
+2 Prismatic Vista
+2 Coiling Oracle
+2 Jace, the Mind Sculptor
+2 Flooded Strand
+2 Eternal Witness
+3 Eternal Witness
+3 Soulherder
+3 Flooded Strand
+3 Swords to Plowshares
+3 Coiling Oracle
+3 Snow-Covered Island
+4 Soulherder
+4 Coiling Oracle
+1 Tower of the Magistrate
+1 Stitcher's Supplier
+1 Pendelhaven
+1 Cabal Pit
+2 Stitcher's Supplier
+4 Hogaak, Arisen Necropolis
+1 Tidespout Tyrant
+1 Grave Titan
+1 Daze
+1 Island
+1 Reanimate
+1 Animate Dead
+1 Elesh Norn, Grand Cenobite
+2 Daze
+2 Collective Brutality
+2 Underground Sea
+2 Animate Dead
+2 Reanimate
+3 Daze
+3 Underground Sea
+3 Collective Brutality
+3 Reanimate
+4 Collective Brutality
+4 Daze
+4 Reanimate
+4 Polluted Delta

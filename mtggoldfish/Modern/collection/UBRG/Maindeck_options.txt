@@ -24,9 +24,8 @@
 3 Misty Rainforest
 3 Snapcaster Mage
 1 Snow-Covered Swamp
-1 Creeping Tar Pit
 1 Assassin's Trophy
-1 Force of Negation
+1 Creeping Tar Pit
 1 Dead of Winter
 1 Fatal Push
 1 Prismatic Vista
@@ -35,25 +34,26 @@
 1 Watery Grave
 1 Kolaghan's Command
 1 Polluted Delta
+1 Force of Negation
 2 Kolaghan's Command
 2 Snow-Covered Forest
+2 Assassin's Trophy
 2 Jace, the Mind Sculptor
 2 Dead of Winter
-2 Force of Negation
-2 Assassin's Trophy
 2 Prismatic Vista
 2 Arcum's Astrolabe
 2 Fatal Push
 2 Ice-Fang Coatl
+2 Force of Negation
 2 Creeping Tar Pit
 2 Polluted Delta
 3 Opt
-3 Force of Negation
 3 Dead of Winter
 3 Prismatic Vista
 3 Snow-Covered Island
 3 Arcum's Astrolabe
 3 Polluted Delta
+3 Force of Negation
 3 Ice-Fang Coatl
 4 Opt
 4 Prismatic Vista
@@ -69,6 +69,7 @@
 1 Summoner's Pact
 1 Aether Hub
 1 Amulet of Vigor
+1 Gruul Turf
 1 Boros Garrison
 1 Golgari Rot Farm
 1 Sunhome, Fortress of the Legion
@@ -81,7 +82,6 @@
 1 Tolaria West
 1 Primeval Titan
 1 Radiant Fountain
-1 Gruul Turf
 1 Temple of Mystery
 2 Engineered Explosives
 2 Ancient Stirrings
@@ -139,9 +139,9 @@
 2 Tireless Tracker
 2 Remand
 2 Surgical Extraction
-2 Lightning Bolt
 2 Growth Spiral
 2 Archmage's Charm
+2 Lightning Bolt
 2 Sulfur Falls
 3 Scalding Tarn
 3 Lightning Bolt
