@@ -15,26 +15,12 @@
 2 Tormod's Crypt
 1 Smash to Smithereens
 2 Smash to Smithereens
-1 Skullcrack
-2 Skullcrack
-1 Searing Blood
-2 Searing Blood
-3 Skullcrack
-3 Searing Blood
-2 Dismember
-1 Rest in Peace
-2 Rest in Peace
-3 Smash to Smithereens
 1 Arms Dealer
 1 Wort, Boggart Auntie
 1 Nihil Spellbomb
 1 Ravenous Trap
-1 Dragon's Claw
-1 Shatterstorm
-1 Reality Hemorrhage
-1 Rampaging Ferocidon
-1 Tibalt, Rakish Instigator
-2 Reality Hemorrhage
+1 Rest in Peace
+2 Rest in Peace
 1 Thalia, Guardian of Thraben
 1 Mizzium Mortars
 1 Stony Silence
@@ -44,6 +30,13 @@
 2 Mizzium Mortars
 2 Stony Silence
 2 Wear / Tear
+2 Stingscourger
+1 Dragon's Claw
+1 Rampaging Ferocidon
+1 Shatterstorm
+1 Reality Hemorrhage
+1 Tibalt, Rakish Instigator
+2 Reality Hemorrhage
 1 Boros Charm
 1 Destructive Revelry
 1 Molten Rain
@@ -53,7 +46,7 @@
 2 Molten Rain
 2 Burrenton Forge-Tender
 2 Destructive Revelry
-2 Stingscourger
+2 Dismember
 1 Extirpate
 1 Abrade
 2 Goblin Cratermaker
@@ -66,6 +59,9 @@
 2 Fatal Push
 2 Goblin Ruinblaster
 2 Inquisition of Kozilek
+1 Skullcrack
+2 Skullcrack
+3 Smash to Smithereens
 3 Blood Moon
 1 Tarfire
 1 Chalice of the Void
@@ -73,8 +69,11 @@
 2 Chalice of the Void
 3 Chalice of the Void
 1 Risk Factor
+1 Searing Blood
+2 Searing Blood
+3 Skullcrack
+3 Searing Blood
 3 Rest in Peace
-3 Tormod's Crypt
 1 Foundry Street Denizen
 1 The Flame of Keld
 1 Shrapnel Blast

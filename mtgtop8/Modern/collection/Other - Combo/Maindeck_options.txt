@@ -10,8 +10,8 @@
 1 Surge Node
 1 Coretapper
 1 Astral Cornucopia
-1 Horizon Canopy
 1 Everflowing Chalice
+1 Horizon Canopy
 1 Nurturing Peatland
 1 Ensnaring Bridge
 1 Mystic Forge
@@ -24,12 +24,12 @@
 1 Engineered Explosives
 1 Ancient Stirrings
 2 Grove of the Burnwillows
-2 Pyrite Spellbomb
 2 Zhalfirin Void
+2 Pyrite Spellbomb
+2 Surge Node
 2 Coretapper
 2 Inventors' Fair
 2 Astral Cornucopia
-2 Surge Node
 2 Everflowing Chalice
 2 Mystic Forge
 2 Paradox Engine
@@ -39,9 +39,9 @@
 2 Blast Zone
 3 Ensnaring Bridge
 3 Coretapper
+3 Astral Cornucopia
 3 Everflowing Chalice
 3 Pyrite Spellbomb
-3 Astral Cornucopia
 3 Grove of the Burnwillows
 3 Inventors' Fair
 3 Blast Zone
@@ -69,9 +69,8 @@
 1 Peek
 1 Sphinx of Foresight
 1 Electrodominance
-1 Lightning Axe
-1 Ancestral Vision
 1 Flame Slash
+1 Ancestral Vision
 1 As Foretold
 1 Dreadhorde Arcanist
 1 Opt
@@ -80,6 +79,7 @@
 1 Force of Negation
 1 Flooded Strand
 1 Arid Mesa
+1 Lightning Axe
 2 Peek
 2 Mountain
 2 Dreadhorde Arcanist

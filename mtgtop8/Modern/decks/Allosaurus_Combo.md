@@ -49,6 +49,6 @@
 |                     |                                                                                              |                    3|[Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)         |
 |                     |                                                                                              |                    4|[Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)         |
 |                     |                                                                                              |                    1|[Noxious Revival](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=230067)        |
-|                     |                                                                                              |                    3|[Autumn's Veil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205051)          |
 |                     |                                                                                              |                    2|[Noxious Revival](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=230067)        |
+|                     |                                                                                              |                    3|[Autumn's Veil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205051)          |
 

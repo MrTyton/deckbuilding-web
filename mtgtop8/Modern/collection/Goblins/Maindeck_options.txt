@@ -14,27 +14,34 @@
 2 Sunbaked Canyon
 1 Earwig Squad
 3 Goblin Piledriver
+2 Fiery Islet
+2 Field of Ruin
 1 Wooded Foothills
 1 Lightning Bolt
 2 Lightning Bolt
+1 Legion Warboss
+2 Legion Warboss
 3 Lightning Bolt
 4 Lightning Bolt
+2 Wooded Foothills
 1 Foundry Street Denizen
+2 Mogg Fanatic
 2 Foundry Street Denizen
 3 Foundry Street Denizen
 4 Foundry Street Denizen
 7 Mountain
-1 Reckless Bushwhacker
-1 Goblin Grenade
 1 Goblin Bushwhacker
+1 Goblin Grenade
+1 Reckless Bushwhacker
+2 Goblin Grenade
 2 Goblin Bushwhacker
 2 Reckless Bushwhacker
-2 Goblin Grenade
-3 Goblin Bushwhacker
-3 Reckless Bushwhacker
 3 Goblin Grenade
-4 Goblin Bushwhacker
+3 Reckless Bushwhacker
+3 Goblin Bushwhacker
 4 Goblin Grenade
+4 Goblin Bushwhacker
+1 Sacred Foundry
 1 Legion Loyalist
 1 Goblin Guide
 2 Goblin Guide
@@ -52,13 +59,31 @@
 3 Bomat Courier
 3 Burning-Tree Emissary
 4 Burning-Tree Emissary
-2 Field of Ruin
-2 Fiery Islet
-2 Wooded Foothills
-2 Mogg Fanatic
+3 Frogtosser Banneret
+2 Tarfire
+3 Mogg Fanatic
+3 Field of Ruin
+1 Blackcleave Cliffs
+2 Blackcleave Cliffs
+4 Blood Crypt
+2 Krenko, Mob Boss
+3 Wooded Foothills
+4 Wooded Foothills
+3 Goblin Chieftain
+4 Goblin Chieftain
+1 Arid Mesa
+2 Arid Mesa
+3 Arid Mesa
+2 Sacred Foundry
 1 Simian Spirit Guide
 1 Ramunap Ruins
+1 Light Up the Stage
 2 Ramunap Ruins
+2 Light Up the Stage
+1 Mutavault
+2 Pashalik Mons
+3 Fanatical Firebrand
+4 Fanatical Firebrand
 4 Bomat Courier
 4 Reckless Bushwhacker
 8 Mountain
@@ -67,41 +92,10 @@
 11 Mountain
 12 Mountain
 13 Mountain
-1 Sacred Foundry
-1 Legion Warboss
-2 Legion Warboss
-3 Frogtosser Banneret
-2 Tarfire
-3 Mogg Fanatic
-3 Ramunap Ruins
-4 Ramunap Ruins
-1 Light Up the Stage
-2 Light Up the Stage
-3 Wooded Foothills
-4 Wooded Foothills
-3 Field of Ruin
-1 Blackcleave Cliffs
-2 Blackcleave Cliffs
-4 Blood Crypt
-2 Krenko, Mob Boss
-3 Goblin Chieftain
-4 Goblin Chieftain
-2 Sacred Foundry
-1 Arid Mesa
-2 Arid Mesa
-3 Arid Mesa
-1 Mutavault
-2 Pashalik Mons
-3 Fanatical Firebrand
-4 Fanatical Firebrand
-14 Mountain
 1 Prismatic Vista
 2 Prismatic Vista
 3 Prismatic Vista
 1 Pendelhaven
-1 Devastating Summons
-2 Simian Spirit Guide
-2 Devastating Summons
 1 Chandra, Acolyte of Flame
 1 Inspiring Vantage
 2 Inspiring Vantage
@@ -147,6 +141,11 @@
 3 Knucklebone Witch
 4 Knucklebone Witch
 4 Skirk Prospector
+1 Reverberate
+3 Ramunap Ruins
+3 Light Up the Stage
+4 Ramunap Ruins
+4 Light Up the Stage
 1 Snow-Covered Mountain
 1 Stingscourger
 2 Snow-Covered Mountain
@@ -172,6 +171,4 @@
 4 Ornithopter
 15 Mountain
 16 Mountain
-1 Reverberate
-3 Light Up the Stage
-4 Light Up the Stage
+14 Mountain

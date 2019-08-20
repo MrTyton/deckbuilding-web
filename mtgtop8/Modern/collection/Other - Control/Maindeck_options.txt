@@ -2,10 +2,10 @@
 2 Inquisition of Kozilek
 3 Inquisition of Kozilek
 1 Watery Grave
+1 Polluted Delta
 1 Island
 1 Bloodstained Mire
 1 Swamp
-1 Polluted Delta
 2 Island
 2 Watery Grave
 2 Polluted Delta
@@ -19,8 +19,8 @@
 2 Collective Brutality
 3 Thoughtseize
 1 Darkslick Shores
-1 Dakmor Salvage
 1 Field of Ruin
+1 Dakmor Salvage
 1 Force of Despair
 1 Hero's Downfall
 1 Bojuka Bog
@@ -66,8 +66,8 @@
 2 Opt
 3 Opt
 4 Opt
-1 Rakdos Charm
 1 Rapid Hybridization
+1 Rakdos Charm
 1 Hallowed Fountain
 1 Muddle the Mixture
 1 Trespasser's Curse
@@ -108,13 +108,12 @@
 1 Snow-Covered Mountain
 2 Lightning Bolt
 3 Lightning Bolt
-1 Wrenn and Six
 1 Stomping Ground
+1 Wrenn and Six
 1 Misty Rainforest
 1 Waterlogged Grove
 1 Crashing Footfalls
 1 Fiery Islet
-1 Breeding Pool
 1 Magmatic Sinkhole
 1 Bloodbraid Elf
 1 Jace, the Mind Sculptor
@@ -124,12 +123,13 @@
 1 Tarmogoyf
 1 Cascade Bluffs
 1 Snow-Covered Island
+1 Breeding Pool
 1 Izzet Charm
 1 Electrodominance
 2 Snow-Covered Island
 2 Breeding Pool
-2 Crashing Footfalls
 2 Misty Rainforest
+2 Crashing Footfalls
 2 Bloodbraid Elf
 2 Jace, the Mind Sculptor
 2 Magmatic Sinkhole
@@ -150,9 +150,9 @@
 3 As Foretold
 4 Snow-Covered Island
 4 Scalding Tarn
+4 Dreadhorde Arcanist
 4 Misty Rainforest
 4 Crashing Footfalls
-4 Dreadhorde Arcanist
 4 Tarmogoyf
 4 Lightning Bolt
 1 Chandra, Acolyte of Flame
@@ -176,13 +176,13 @@
 2 Unearth
 2 Legion Warboss
 3 Legion Warboss
-3 Blood Crypt
 3 Snow-Covered Mountain
 3 Blood Moon
-3 Chandra, Acolyte of Flame
 3 Snow-Covered Swamp
 3 Goblin Rabblemaster
 3 Faithless Looting
+3 Chandra, Acolyte of Flame
+3 Blood Crypt
 4 Legion Warboss
 4 Snow-Covered Mountain
 4 Blood Crypt
@@ -218,10 +218,10 @@
 16 Forest
 17 Forest
 18 Forest
-1 Windswept Heath
 1 Acidic Slime
 1 Thrun, the Last Troll
 1 Ohran Viper
+1 Windswept Heath
 2 Acidic Slime
 2 Ohran Viper
 2 Llanowar Elves

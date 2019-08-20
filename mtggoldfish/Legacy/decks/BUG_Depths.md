@@ -45,8 +45,8 @@
 |                    3|[Bayou](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=879)               |                     |                                                                                                 |
 |                    4|[Sylvan Scrying](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=130513)   |                     |                                                                                                 |
 |                    1|[Sylvan Safekeeper](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389709)|                     |                                                                                                 |
-|                    2|[Sylvan Safekeeper](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389709)|                     |                                                                                                 |
+|                    1|[Mana Confluence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409573)  |                     |                                                                                                 |
 |                    3|[Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)            |                     |                                                                                                 |
 |                    4|[Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)            |                     |                                                                                                 |
-|                    1|[Mana Confluence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409573)  |                     |                                                                                                 |
+|                    2|[Sylvan Safekeeper](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389709)|                     |                                                                                                 |
 

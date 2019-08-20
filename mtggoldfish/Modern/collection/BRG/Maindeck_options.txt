@@ -1,38 +1,17 @@
-4 Stinkweed Imp
+1 Gemstone Mine
 3 Blood Crypt
+3 Verdant Catacombs
+1 Wooded Foothills
+2 Wooded Foothills
 1 Golgari Thug
 2 Gemstone Mine
 3 Polluted Delta
-3 Verdant Catacombs
-1 Leyline of the Void
-1 Wooded Foothills
-2 Wooded Foothills
-1 Plague Engineer
-1 Fatal Push
-1 Assassin's Trophy
-2 Assassin's Trophy
-1 Shenanigans
-1 Unearth
-1 Satyr Wayfinder
-1 Nature's Claim
-1 Thoughtseize
-2 Satyr Wayfinder
-2 Golgari Thug
-2 Nature's Claim
-2 Thoughtseize
-2 Leyline of the Void
-3 Golgari Thug
-3 Thoughtseize
-3 Satyr Wayfinder
-3 Nature's Claim
-3 Leyline of the Void
-3 Lightning Axe
-4 Leyline of the Void
 1 Mana Confluence
 1 Snow-Covered Swamp
 1 Lotleth Troll
 2 Lotleth Troll
 3 Lotleth Troll
+1 Leyline of the Void
 1 Godless Shrine
 2 Godless Shrine
 3 Marsh Flats
@@ -58,26 +37,28 @@
 4 Lightning Bolt
 1 Nurturing Peatland
 1 Bloodbraid Elf
+1 Legion's End
 1 Raging Ravine
 1 Seasoned Pyromancer
 1 Angrath's Rampage
 1 Kolaghan's Command
+1 Kitchen Finks
 1 Abrupt Decay
 1 Scavenging Ooze
-1 Kitchen Finks
 1 Wrenn and Six
-1 Legion's End
+1 Fatal Push
 1 Inquisition of Kozilek
 1 Blooming Marsh
+1 Plague Engineer
 2 Wrenn and Six
 2 Angrath's Rampage
 2 Bloodbraid Elf
 2 Seasoned Pyromancer
 2 Kolaghan's Command
 2 Scavenging Ooze
+2 Kitchen Finks
 2 Abrupt Decay
 2 Fatal Push
-2 Kitchen Finks
 2 Blooming Marsh
 2 Forest
 2 Inquisition of Kozilek
@@ -95,29 +76,31 @@
 1 Warren Weirding
 1 Goblin Cratermaker
 1 Goblin Ringleader
-1 Goblin Chieftain
 1 Cavern of Souls
 1 Munitions Expert
 1 Aether Vial
 1 Goblin Matron
 1 Tarfire
+1 Krenko, Mob Boss
 1 Skirk Prospector
+1 Goblin Chieftain
 1 Mogg War Marshal
 1 Goblin Warchief
-1 Krenko, Mob Boss
 1 Auntie's Hovel
 1 Legion Warboss
 1 Goblin Piledriver
 1 Sling-Gang Lieutenant
 1 Sunbaked Canyon
+1 Assassin's Trophy
 2 Tarfire
 2 Sunbaked Canyon
 2 Sling-Gang Lieutenant
 2 Goblin Matron
 2 Munitions Expert
+2 Aether Vial
 2 Goblin Ringleader
 2 Auntie's Hovel
-2 Aether Vial
+2 Assassin's Trophy
 2 Cavern of Souls
 2 Legion Warboss
 3 Tarfire
@@ -133,18 +116,18 @@
 4 Goblin Ringleader
 4 Aether Vial
 4 Goblin Matron
-1 Fiery Islet
 1 Manamorphose
 1 Gut Shot
 1 Monastery Swiftspear
 1 Blistercoil Weird
-1 Soul-Scar Mage
 1 Lava Spike
 1 Lava Dart
-1 Temur Battle Rage
 1 Kiln Fiend
+1 Soul-Scar Mage
+1 Temur Battle Rage
 1 Bedlam Reveler
 1 Mutagenic Growth
+1 Fiery Islet
 1 Become Immense
 2 Become Immense
 2 Fiery Islet
@@ -159,23 +142,23 @@
 2 Kiln Fiend
 3 Lava Dart
 3 Manamorphose
+3 Temur Battle Rage
 3 Lava Spike
 3 Mutagenic Growth
 3 Fiery Islet
 3 Monastery Swiftspear
 3 Kiln Fiend
 3 Become Immense
-3 Temur Battle Rage
 3 Soul-Scar Mage
 3 Mountain
 4 Manamorphose
 4 Monastery Swiftspear
 4 Temur Battle Rage
-4 Soul-Scar Mage
 4 Wooded Foothills
 4 Lava Spike
-4 Mutagenic Growth
-4 Mountain
 4 Kiln Fiend
+4 Mountain
+4 Mutagenic Growth
+4 Soul-Scar Mage
 6 Mountain
 5 Mountain

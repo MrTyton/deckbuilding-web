@@ -1,64 +1,25 @@
-2 Polluted Delta
-1 Thoughtseize
-2 Thoughtseize
-1 Underground Sea
-1 Fatal Push
-2 Fatal Push
-1 Gurmag Angler
-1 Daze
-2 Gurmag Angler
-2 Daze
-3 Thoughtseize
-4 Thoughtseize
-1 Watery Grave
-1 Death's Shadow
-1 Street Wraith
-1 Wasteland
-2 Watery Grave
-2 Death's Shadow
-2 Street Wraith
-2 Wasteland
-3 Death's Shadow
-3 Street Wraith
-3 Watery Grave
-3 Wasteland
-4 Death's Shadow
-4 Street Wraith
-4 Wasteland
-1 Force of Negation
-1 Bloodstained Mire
-1 Verdant Catacombs
-2 Underground Sea
-2 Force of Negation
-1 Reanimate
-1 Marsh Flats
-1 Delver of Secrets
-2 Reanimate
-2 Marsh Flats
-2 Delver of Secrets
-3 Daze
-3 Delver of Secrets
-4 Delver of Secrets
-4 Daze
-1 Snuff Out
-3 Polluted Delta
-4 Polluted Delta
-1 Dismember
-2 Bloodstained Mire
 2 Verdant Catacombs
-1 Snapcaster Mage
 1 Baleful Strix
+1 Prismatic Vista
 1 Yuriko, the Tiger's Shadow
 1 Ingenious Infiltrator
 2 Baleful Strix
 2 Yuriko, the Tiger's Shadow
+2 Prismatic Vista
 2 Ingenious Infiltrator
 3 Fatal Push
 3 Prismatic Vista
+1 Snuff Out
+1 Island
+2 Island
+3 Island
 1 Swamp
 2 Swamp
-1 Liliana's Triumph
+1 Dismember
+1 Snapcaster Mage
+2 Bloodstained Mire
 1 Fallen Shinobi
+1 Liliana's Triumph
 1 Hymn to Tourach
 1 Spellstutter Sprite
 1 Spellseeker
@@ -70,37 +31,51 @@
 3 Snapcaster Mage
 4 Fatal Push
 4 Prismatic Vista
+1 Spell Pierce
+2 Misty Rainforest
+4 Ponder
+3 Baleful Strix
+4 Baleful Strix
+4 Island
 3 Swamp
 4 Swamp
 2 Hymn to Tourach
 2 Fallen Shinobi
 3 Spellstutter Sprite
 4 Spellstutter Sprite
+1 Ornithopter
+2 Ornithopter
+3 Ornithopter
+1 Murderous Cut
+1 Retrofitter Foundry
+2 Spell Pierce
+2 Retrofitter Foundry
+3 Ingenious Infiltrator
+3 Retrofitter Foundry
+3 Yuriko, the Tiger's Shadow
+4 Ornithopter
+4 Retrofitter Foundry
 2 Snuff Out
 1 Snow-Covered Swamp
 2 Dismember
 1 Snow-Covered Island
-1 Spell Pierce
-2 Misty Rainforest
-3 Baleful Strix
-4 Baleful Strix
-1 Ornithopter
-2 Ornithopter
-3 Ornithopter
-2 Flooded Strand
 1 Stubborn Denial
 2 Stubborn Denial
 3 Bloodstained Mire
 1 True-Name Nemesis
 1 Liliana, the Last Hope
+2 Preordain
 2 True-Name Nemesis
 3 Dismember
+3 Preordain
+4 Preordain
 3 Marsh Flats
 4 Marsh Flats
 1 Tasigur, the Golden Fang
-2 Tasigur, the Golden Fang
+1 Counterspell
 2 Snow-Covered Island
 2 Snow-Covered Swamp
+2 Tasigur, the Golden Fang
 3 Snow-Covered Swamp
 3 Snow-Covered Island
 4 Snow-Covered Swamp
@@ -109,9 +84,9 @@
 1 Glint-Nest Crane
 1 The Antiquities War
 1 Vault Skirge
-1 Master of Etherium
 1 Etched Champion
 1 Darksteel Citadel
+1 Master of Etherium
 1 Chalice of the Void
 1 Mox Opal
 1 Urza, Lord High Artificer
@@ -129,11 +104,12 @@
 2 Cranial Plating
 2 City of Traitors
 2 Mox Opal
+2 Ancient Tomb
 2 Chalice of the Void
 2 Glint-Nest Crane
 2 Master of Etherium
-2 Ancient Tomb
 3 Master of Etherium
+3 Sai, Master Thopterist
 3 Darksteel Citadel
 3 Vault Skirge
 3 The Antiquities War
@@ -142,51 +118,43 @@
 3 Seat of the Synod
 3 Chalice of the Void
 3 Glint-Nest Crane
-3 Sai, Master Thopterist
 3 Cranial Plating
+4 Ancient Tomb
 4 Vault Skirge
 4 Chalice of the Void
 4 The Antiquities War
-4 Darksteel Citadel
 4 Glint-Nest Crane
 4 Mox Opal
-4 Ancient Tomb
 4 Seat of the Synod
-1 Murderous Cut
-1 Retrofitter Foundry
-2 Spell Pierce
-2 Retrofitter Foundry
-3 Ingenious Infiltrator
-3 Retrofitter Foundry
-3 Yuriko, the Tiger's Shadow
-4 Ornithopter
-4 Retrofitter Foundry
+4 Darksteel Citadel
+5 Island
+6 Island
+1 Urborg, Tomb of Yawgmoth
 1 Thespian's Stage
 1 Dark Depths
 1 Vampire Hexmage
+1 Echo of Eons
+1 Tendrils of Agony
 1 Lake of the Dead
-1 Infernal Tutor
 1 Dark Ritual
-1 Ill-Gotten Gains
 1 Lion's Eye Diamond
-1 Urborg, Tomb of Yawgmoth
+1 Ill-Gotten Gains
 1 Painter's Servant
 1 Inquisition of Kozilek
 1 Leyline of the Void
 1 Helm of Obedience
-1 Tendrils of Agony
+1 Infernal Tutor
 1 Duress
 1 Plunge into Darkness
 1 Grindstone
-1 Echo of Eons
 1 Lotus Petal
 2 Dark Depths
 2 Urborg, Tomb of Yawgmoth
 2 Thespian's Stage
 2 Dark Ritual
 2 Helm of Obedience
-2 Leyline of the Void
 2 Ill-Gotten Gains
+2 Leyline of the Void
 2 Lion's Eye Diamond
 2 Painter's Servant
 2 Infernal Tutor
@@ -195,12 +163,12 @@
 3 Dark Depths
 3 Thespian's Stage
 3 Dark Ritual
+3 Leyline of the Void
 3 Helm of Obedience
+3 Infernal Tutor
 3 Lotus Petal
 3 Ill-Gotten Gains
 3 Lion's Eye Diamond
-3 Infernal Tutor
-3 Leyline of the Void
 4 Dark Ritual
 4 Infernal Tutor
 4 Lotus Petal
