@@ -61,9 +61,9 @@
 |[BR](./mtggoldfish/Legacy/decks/BR.md)                                  |[Four-Color Leovold](./mtggoldfish/Legacy/decks/Four-Color_Leovold.md)|[Mono-Red Eldrazi](./mtggoldfish/Legacy/decks/Mono-Red_Eldrazi.md)      |[UBR](./mtggoldfish/Legacy/decks/UBR.md)                            |[WUR](./mtggoldfish/Legacy/decks/WUR.md)    |
 |[BUG Depths](./mtggoldfish/Legacy/decks/BUG_Depths.md)                  |[Golgari Depths](./mtggoldfish/Legacy/decks/Golgari_Depths.md)        |[Mono-Red Karn Grind](./mtggoldfish/Legacy/decks/Mono-Red_Karn_Grind.md)|[UB](./mtggoldfish/Legacy/decks/UB.md)                              |[WU](./mtggoldfish/Legacy/decks/WU.md)      |
 |[B](./mtggoldfish/Legacy/decks/B.md)                                    |[Grixis Control](./mtggoldfish/Legacy/decks/Grixis_Control.md)        |[Mono-Red Prison](./mtggoldfish/Legacy/decks/Mono-Red_Prison.md)        |[UR](./mtggoldfish/Legacy/decks/UR.md)                              |[W](./mtggoldfish/Legacy/decks/W.md)        |
-|[Blue-Redd Spells](./mtggoldfish/Legacy/decks/Blue-Redd_Spells.md)      |[Hogaak Depths](./mtggoldfish/Legacy/decks/Hogaak_Depths.md)          |[Mono-White Eldrazi](./mtggoldfish/Legacy/decks/Mono-White_Eldrazi.md)  |[U](./mtggoldfish/Legacy/decks/U.md)                                |                                            |
+|[Blue-Red Spells](./mtggoldfish/Legacy/decks/Blue-Red_Spells.md)        |[Hogaak Depths](./mtggoldfish/Legacy/decks/Hogaak_Depths.md)          |[Mono-White Eldrazi](./mtggoldfish/Legacy/decks/Mono-White_Eldrazi.md)  |[U](./mtggoldfish/Legacy/decks/U.md)                                |                                            |
 |[Bomberman](./mtggoldfish/Legacy/decks/Bomberman.md)                    |[Hogaak](./mtggoldfish/Legacy/decks/Hogaak.md)                        |[RG](./mtggoldfish/Legacy/decks/RG.md)                                  |[WBG](./mtggoldfish/Legacy/decks/WBG.md)                            |                                            |
 
 
 
-#### Last Updated at 12:25AM on August 20, 2019
+#### Last Updated at 12:23PM on August 20, 2019

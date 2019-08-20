@@ -52,9 +52,9 @@
 |                     |                                                                                              |                    1|[Life from the Loam](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=338409) |
 |                     |                                                                                              |                    2|[Life from the Loam](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=338409) |
 |                     |                                                                                              |                    4|[Force of Vigor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464113)     |
-|                     |                                                                                              |                    1|[Return to Nature](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461102)   |
 |                     |                                                                                              |                    1|[Faerie Macabre](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=201822)     |
 |                     |                                                                                              |                    1|[Thorn of Amethyst](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=140166)  |
+|                     |                                                                                              |                    1|[Return to Nature](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461102)   |
 |                     |                                                                                              |                    2|[Return to Nature](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461102)   |
 |                     |                                                                                              |                    2|[Thorn of Amethyst](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=140166)  |
 

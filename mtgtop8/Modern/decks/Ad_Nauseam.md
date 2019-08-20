@@ -51,7 +51,7 @@
 |                    1|[Temple of Silence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373522)       |                    1|[Supreme Verdict](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438776)         |
 |                    1|[Teferi, Time Raveler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461148)    |                    2|[Teferi, Time Raveler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461148)    |
 |                    4|[City of Brass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=4178)             |                    3|[Teferi, Time Raveler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461148)    |
-|                    4|[Seachrome Coast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=209399)         |                    1|[Celestial Purge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=183055)         |
-|                    2|[Teferi, Time Raveler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461148)    |                    1|[Slaughter Pact](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=130704)          |
+|                    4|[Seachrome Coast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=209399)         |                    1|[Slaughter Pact](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=130704)          |
+|                    2|[Teferi, Time Raveler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461148)    |                    1|[Celestial Purge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=183055)         |
 |                     |                                                                                                   |                    2|[Bontu's Last Reckoning](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430749)  |
 

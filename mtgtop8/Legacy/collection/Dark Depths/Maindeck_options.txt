@@ -2,10 +2,12 @@
 4 Satyr Wayfinder
 1 Sylvan Safekeeper
 4 Mox Diamond
+1 Snow-Covered Forest
 2 Wasteland
 3 Wasteland
 1 Karakas
-1 Snow-Covered Forest
+1 Snow-Covered Swamp
+1 Ghost Quarter
 1 Abrupt Decay
 2 Abrupt Decay
 1 Sylvan Library
@@ -14,15 +16,17 @@
 2 Green Sun's Zenith
 3 Green Sun's Zenith
 4 Green Sun's Zenith
-1 Ghost Quarter
-1 Nurturing Peatland
-1 Gaddock Teeg
-1 Snow-Covered Swamp
-1 Ramunap Excavator
 1 Duress
 2 Duress
-3 Abrupt Decay
 3 Duress
+1 Nurturing Peatland
+1 Gaddock Teeg
+1 Ramunap Excavator
+3 Abrupt Decay
+1 Sylvan Scrying
+2 Sylvan Scrying
+3 Sylvan Scrying
+2 Sylvan Safekeeper
 2 Forest
 1 Plains
 1 Knight of the Reliquary
@@ -38,24 +42,21 @@
 4 Knight of the Reliquary
 1 Life from the Loam
 1 Misty Rainforest
-1 Sylvan Scrying
-2 Sylvan Scrying
-3 Sylvan Scrying
 4 Abrupt Decay
 2 Sylvan Library
 1 Knight of Autumn
 1 Tomik, Distinguished Advokist
 3 Giver of Runes
 1 Scavenging Ooze
-2 Sylvan Safekeeper
 1 Maze of Ith
 1 Ancient Tomb
 1 Titania, Protector of Argoth
-1 Cabal Pit
+3 Sylvan Safekeeper
 1 Dark Confidant
 2 Dark Confidant
 3 Dark Confidant
 4 Dark Confidant
+1 Cabal Pit
 1 Tranquil Thicket
 1 Volrath's Stronghold
 1 Pendelhaven
@@ -63,14 +64,13 @@
 1 Scrubland
 2 Snow-Covered Forest
 2 Nurturing Peatland
+1 Blast Zone
+2 Ghost Quarter
 1 Fierce Empath
 1 Reclamation Sage
 2 Ancient Tomb
 3 Ancient Tomb
 3 Bayou
-1 Blast Zone
-2 Ghost Quarter
-3 Sylvan Safekeeper
 1 Taiga
 1 Huntmaster of the Fells
 1 Crashing Footfalls
@@ -78,9 +78,9 @@
 1 Liliana, the Last Hope
 1 Hymn to Tourach
 1 Kolaghan's Command
+1 Wrenn and Six
 1 Grove of the Burnwillows
 1 Punishing Fire
-1 Wrenn and Six
 1 Liliana of the Veil
 2 Crashing Footfalls
 2 Hymn to Tourach
@@ -101,3 +101,19 @@
 2 Natural Order
 3 Forest
 3 Natural Order
+1 Pithing Needle
+1 Into the North
+1 Elvish Spirit Guide
+1 Lotus Petal
+2 Pithing Needle
+2 Into the North
+2 Elvish Spirit Guide
+2 Lotus Petal
+3 Lotus Petal
+3 Elvish Spirit Guide
+3 Pithing Needle
+4 Duress
+4 Lotus Petal
+4 Pithing Needle
+4 Elvish Spirit Guide
+4 Sylvan Scrying

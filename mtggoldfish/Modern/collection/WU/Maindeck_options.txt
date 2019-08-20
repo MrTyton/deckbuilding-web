@@ -11,7 +11,6 @@
 1 Snow-Covered Island
 2 Snow-Covered Plains
 1 Gemstone Caverns
-1 Spell Queller
 1 Watcher for Tomorrow
 1 Flickerwisp
 1 Thalia, Guardian of Thraben
@@ -21,6 +20,7 @@
 1 Silent Clearing
 1 Soulherder
 1 Epochrasite
+1 Spell Queller
 1 Shefet Dunes
 1 Ghost Quarter
 2 Watcher for Tomorrow
@@ -109,21 +109,21 @@
 2 Serum Visions
 1 Teferi, Hero of Dominaria
 1 Narset, Parter of Veils
+1 Jace, the Mind Sculptor
 1 Rest in Peace
 1 Cryptic Command
 1 Runed Halo
-1 Jace, the Mind Sculptor
 1 Minamo, School at Water's Edge
 1 Celestial Colonnade
 1 Dragonlord Ojutai
 1 Wall of Omens
 1 Mystic Gate
 1 Supreme Verdict
-2 Supreme Verdict
 2 Narset, Parter of Veils
 2 Rest in Peace
 2 Cryptic Command
 2 Field of Ruin
+2 Supreme Verdict
 2 Mystic Gate
 2 Celestial Colonnade
 2 Runed Halo
@@ -131,9 +131,9 @@
 2 Jace, the Mind Sculptor
 2 Wall of Omens
 2 Plains
-3 Jace, the Mind Sculptor
 3 Plains
 3 Narset, Parter of Veils
+3 Jace, the Mind Sculptor
 3 Celestial Colonnade
 3 Field of Ruin
 3 Mystic Gate
