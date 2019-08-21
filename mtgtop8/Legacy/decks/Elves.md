@@ -67,7 +67,7 @@
 |                     |                                                                                                  |                    1|[Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)         |
 |                     |                                                                                                  |                    1|[Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)         |
 |                     |                                                                                                  |                    1|[Archon of Valor's Reach](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446042)|
-|                     |                                                                                                  |                    2|[Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)         |
 |                     |                                                                                                  |                    2|[Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)         |
+|                     |                                                                                                  |                    2|[Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)         |
 |                     |                                                                                                  |                    3|[Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)         |
 

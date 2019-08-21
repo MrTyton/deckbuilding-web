@@ -7,17 +7,17 @@
 2 Eladamri's Call
 2 Teferi, Time Raveler
 2 Vizier of Remedies
+3 Windswept Heath
 3 Finale of Devastation
 3 Devoted Druid
-3 Windswept Heath
 3 Eladamri's Call
 3 Teferi, Time Raveler
 3 Vizier of Remedies
 4 Finale of Devastation
-4 Windswept Heath
 4 Devoted Druid
 4 Vizier of Remedies
 4 Eladamri's Call
+4 Windswept Heath
 1 Reckless Charge
 1 Sunbaked Canyon
 1 Wooded Foothills
@@ -42,6 +42,7 @@
 1 Swamp
 1 Overgrown Tomb
 2 Verdant Catacombs
+1 Ranger-Captain of Eos
 1 Murderous Redcap
 1 Godless Shrine
 1 Duskwatch Recruiter
@@ -56,7 +57,6 @@
 1 Plains
 1 Watery Grave
 1 Carrion Feeder
-1 Ranger-Captain of Eos
 2 Eternal Witness
 2 Noble Hierarch
 2 Forest
@@ -80,16 +80,16 @@
 2 Temple Garden
 2 Karn, the Great Creator
 2 Oath of Nissa
-2 Misty Rainforest
 2 Horizon Canopy
+2 Misty Rainforest
 2 Arbor Elf
 2 Utopia Sprawl
 2 Breeding Pool
 2 Snow-Covered Forest
-3 Karn, the Great Creator
-3 Misty Rainforest
 3 Oath of Nissa
+3 Misty Rainforest
 3 Arbor Elf
+3 Karn, the Great Creator
 3 Snow-Covered Forest
 3 Utopia Sprawl
 4 Teferi, Time Raveler
@@ -116,38 +116,38 @@
 1 Incandescent Soulstoke
 1 Lightning Stormkin
 1 Cavern of Souls
+1 Aether Vial
 1 Flickerwisp
 1 Shriekmaw
 1 Unsettled Mariner
 1 Spitebellows
 1 Ancient Ziggurat
-1 Aether Vial
 1 Voice of Resurgence
 1 Flamekin Village
 1 Nova Chaser
 1 Reflecting Pool
 1 Primal Beyond
-2 Fiery Islet
 2 Lightning Stormkin
+2 Aether Vial
 2 Cavern of Souls
 2 Flickerwisp
-2 Aether Vial
 2 Incandescent Soulstoke
+2 Fiery Islet
 2 Ancient Ziggurat
 2 Unsettled Mariner
 2 Voice of Resurgence
 3 Unsettled Mariner
 3 Voice of Resurgence
 3 Lightning Stormkin
+3 Aether Vial
 3 Cavern of Souls
 3 Ancient Ziggurat
-3 Aether Vial
 3 Incandescent Soulstoke
-4 Aether Vial
 4 Unsettled Mariner
 4 Voice of Resurgence
 4 Cavern of Souls
 4 Lightning Stormkin
+4 Aether Vial
 4 Ancient Ziggurat
 4 Incandescent Soulstoke
 1 Vivien, Champion of the Wilds
@@ -164,8 +164,8 @@
 1 Smokebraider
 1 Shivan Reef
 2 Shivan Reef
-2 Chandra, Acolyte of Flame
 2 Vivien's Arkbow
+2 Chandra, Acolyte of Flame
 2 Stomping Ground
 2 Copperline Gorge
 2 Sacred Foundry
@@ -236,11 +236,11 @@
 4 Satyr Wayfinder
 5 Swamp
 1 Mana Leak
-1 Vapor Snag
 1 Pteramander
-1 Curious Obsession
 1 Faerie Seer
+1 Curious Obsession
 1 Spell Pierce
+1 Vapor Snag
 1 Spellstutter Sprite
 1 Ninja of the Deep Hours
 1 Island
@@ -263,18 +263,18 @@
 2 Island
 3 Disrupting Shoal
 3 Force of Negation
+3 Spell Pierce
 3 Curious Obsession
 3 Faerie Seer
 3 Vapor Snag
-3 Spell Pierce
 3 Spellstutter Sprite
 3 Ninja of the Deep Hours
 3 Island
 3 Mausoleum Wanderer
 4 Vapor Snag
+4 Force of Negation
 4 Curious Obsession
 4 Faerie Seer
-4 Force of Negation
 4 Mausoleum Wanderer
 4 Disrupting Shoal
 4 Island
