@@ -3,6 +3,7 @@
 4 Temple of Mystery
 4 Unsummon
 1 Mu Yanling, Sky Dancer
+1 Blink of an Eye
 1 Llanowar Elves
 1 Voracious Hydra
 1 Nissa, Who Shakes the World
@@ -13,15 +14,15 @@
 2 Voracious Hydra
 2 Hydroid Krasis
 2 Nissa, Who Shakes the World
-3 Voracious Hydra
 3 Llanowar Elves
 3 Paradise Druid
+3 Voracious Hydra
 3 Hydroid Krasis
 3 Nissa, Who Shakes the World
 4 Llanowar Elves
-4 Paradise Druid
 4 Hydroid Krasis
 4 Nissa, Who Shakes the World
+4 Paradise Druid
 7 Forest
 8 Forest
 3 Opt
@@ -29,8 +30,7 @@
 1 Lookout's Dispersal
 2 Mu Yanling, Sky Dancer
 3 Syncopate
-1 Blink of an Eye
-1 Agent of Treachery
+2 Blink of an Eye
 1 Risen Reef
 1 Leafkin Druid
 2 Leafkin Druid
@@ -39,9 +39,12 @@
 3 Risen Reef
 4 Leafkin Druid
 4 Risen Reef
-1 Awakening of Vitu-Ghazi
+1 Agent of Treachery
+1 Crushing Canopy
+2 Crushing Canopy
 1 Spell Pierce
 1 Wizard's Retort
+1 Awakening of Vitu-Ghazi
 1 Swift Warden
 2 Swift Warden
 1 Anticipate
@@ -56,7 +59,6 @@
 3 Incubation Druid
 3 Vivien, Champion of the Wilds
 4 Incubation Druid
-4 Syncopate
 1 Cavalier of Thorns
 1 Cloudkin Seer
 1 Mass Manipulation
@@ -64,9 +66,9 @@
 2 Cloudkin Seer
 3 Cloudkin Seer
 4 Voracious Hydra
+4 Syncopate
 1 Tamiyo, Collector of Tales
 1 Gargos, Vicious Watcher
-2 Blink of an Eye
 2 Gargos, Vicious Watcher
 2 Tamiyo, Collector of Tales
 3 Tamiyo, Collector of Tales

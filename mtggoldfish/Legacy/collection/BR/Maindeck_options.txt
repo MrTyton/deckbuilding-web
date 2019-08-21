@@ -6,20 +6,20 @@
 3 Fiery Confluence
 1 Goblin Cratermaker
 2 Goblin Cratermaker
-1 Arid Mesa
+1 Swamp
 1 Grenzo, Dungeon Warden
 1 Volrath's Stronghold
-1 Cavern of Souls
 1 Warren Weirding
+1 Cavern of Souls
 1 Sling-Gang Lieutenant
 1 Goblin Piledriver
 1 Goblin Ringleader
 1 Goblin Chieftain
+1 Arid Mesa
 1 Munitions Expert
 1 Aether Vial
 1 Goblin Matron
 1 Pashalik Mons
-1 Swamp
 1 Bloodstained Mire
 1 Badlands
 2 Cavern of Souls
@@ -37,25 +37,25 @@
 3 Aether Vial
 3 Goblin Matron
 4 Munitions Expert
+4 Cavern of Souls
 4 Aether Vial
 4 Bloodstained Mire
 4 Goblin Ringleader
 4 Goblin Matron
-4 Cavern of Souls
 6 Mountain
 7 Mountain
 8 Mountain
 9 Mountain
 10 Mountain
 11 Mountain
-1 Karakas
 1 Goblin Trashmaster
+1 Karakas
 1 Mogg War Marshal
 1 Krenko, Mob Boss
 1 Earwig Squad
+2 Karakas
 2 Warren Weirding
 2 Mogg War Marshal
-2 Karakas
 3 Goblin Chieftain
 3 Mogg War Marshal
 4 Mogg War Marshal
@@ -77,19 +77,19 @@
 1 Mogg Fanatic
 1 Stingscourger
 1 Prismatic Vista
-1 Wasteland
 1 Goblin Lackey
+1 Wasteland
 1 Gempalm Incinerator
+2 Prismatic Vista
 2 Wasteland
 2 Goblin Lackey
-2 Prismatic Vista
 2 Gempalm Incinerator
 3 Wasteland
 3 Goblin Cratermaker
 3 Goblin Lackey
 4 Goblin Cratermaker
-4 Goblin Lackey
 4 Wasteland
+4 Goblin Lackey
 1 Pia Nalaar
 1 Thopter Engineer
 2 Thopter Engineer
@@ -99,13 +99,13 @@
 4 Ensnaring Bridge
 4 Thopter Engineer
 1 Chain Lightning
-1 Lightning Bolt
 1 Skewer the Critics
-1 Monastery Swiftspear
 1 Exquisite Firecraft
+1 Monastery Swiftspear
 1 Lava Spike
 1 Eidolon of the Great Revel
 1 Fireblast
+1 Lightning Bolt
 1 Rift Bolt
 1 Goblin Guide
 2 Chain Lightning
@@ -129,8 +129,8 @@
 3 Goblin Guide
 3 Fireblast
 4 Chain Lightning
-4 Monastery Swiftspear
 4 Lava Spike
+4 Monastery Swiftspear
 4 Exquisite Firecraft
 4 Eidolon of the Great Revel
 4 Rift Bolt

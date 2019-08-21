@@ -1,65 +1,11 @@
-1 Cabal Therapy
-2 Cabal Therapy
-3 Cabal Therapy
-1 Savannah
-1 Wasteland
-1 Satyr Wayfinder
-1 Sylvan Safekeeper
-1 Dryad Arbor
-1 Elvish Reclaimer
-1 Green Sun's Zenith
-1 Mox Diamond
-1 Khalni Garden
-1 Gaddock Teeg
-1 Hogaak, Arisen Necropolis
-1 Crop Rotation
-1 Sejiri Steppe
-1 Forest
-1 Bojuka Bog
-2 Satyr Wayfinder
-2 Crop Rotation
-2 Green Sun's Zenith
-2 Elvish Reclaimer
-2 Mox Diamond
-3 Verdant Catacombs
-3 Satyr Wayfinder
-3 Green Sun's Zenith
-3 Mox Diamond
-3 Crop Rotation
-3 Elvish Reclaimer
-4 Verdant Catacombs
-4 Crop Rotation
-4 Elvish Reclaimer
-4 Mox Diamond
-4 Green Sun's Zenith
-1 Ghost Quarter
-1 Ramunap Excavator
-1 Ancient Tomb
-4 Thespian's Stage
 2 Polluted Delta
-1 Misty Rainforest
 3 Polluted Delta
-1 Fierce Empath
-1 Titania, Protector of Argoth
-1 Reclamation Sage
-2 Ancient Tomb
-3 Ancient Tomb
-4 Dark Depths
 3 Vampire Hexmage
-1 Karakas
-1 Nurturing Peatland
-1 Volrath's Stronghold
-1 Scavenging Ooze
-2 Wasteland
-2 Forest
-2 Hogaak, Arisen Necropolis
-3 Hogaak, Arisen Necropolis
-3 Wasteland
-4 Satyr Wayfinder
 1 Collective Brutality
 1 Brainstorm
 1 Ponder
 1 Underground Sea
+1 Misty Rainforest
 1 Force of Will
 2 Ponder
 2 Brainstorm
@@ -68,114 +14,109 @@
 3 Brainstorm
 3 Ponder
 4 Brainstorm
-1 Daze
+1 Emrakul, the Aeons Torn
 1 Island
+1 Daze
 2 Underground Sea
 4 Ponder
 1 Tropical Island
 2 Misty Rainforest
 4 Force of Will
-1 Emrakul, the Aeons Torn
-1 Meren of Clan Nel Toth
-1 Abrupt Decay
-2 Abrupt Decay
-1 Recruiter of the Guard
-1 Flooded Strand
 1 Tundra
+1 Flooded Strand
+1 Recruiter of the Guard
 2 Recruiter of the Guard
 2 Flooded Strand
 3 Flooded Strand
-1 Deputy of Detention
-1 Eternal Witness
-1 Plague Engineer
-1 Soulherder
-1 Ephemerate
+1 Savannah
+1 Swords to Plowshares
 1 Snow-Covered Plains
+1 Deputy of Detention
+1 Soulherder
+1 Knight of Autumn
+1 Ephemerate
 1 Snow-Covered Forest
-1 Jace, the Mind Sculptor
 1 Ice-Fang Coatl
+1 Jace, the Mind Sculptor
+1 Karakas
 1 Snow-Covered Island
 1 Mulldrifter
+1 Eternal Witness
 1 Prismatic Vista
-1 Knight of Autumn
 1 Snapcaster Mage
-1 Swords to Plowshares
+1 Plague Engineer
 1 Coiling Oracle
+2 Swords to Plowshares
 2 Coiling Oracle
-2 Snow-Covered Forest
 2 Soulherder
+2 Jace, the Mind Sculptor
 2 Ephemerate
 2 Snow-Covered Island
-2 Swords to Plowshares
 2 Prismatic Vista
-2 Jace, the Mind Sculptor
 2 Ice-Fang Coatl
+2 Snow-Covered Forest
 2 Eternal Witness
 3 Eternal Witness
-3 Coiling Oracle
+3 Snow-Covered Island
 3 Misty Rainforest
+3 Ice-Fang Coatl
+3 Coiling Oracle
 3 Soulherder
 3 Swords to Plowshares
-3 Ice-Fang Coatl
-3 Snow-Covered Island
-4 Soulherder
-4 Misty Rainforest
-4 Coiling Oracle
 4 Ice-Fang Coatl
+4 Soulherder
+4 Coiling Oracle
+4 Misty Rainforest
 1 Reanimate
-1 Elesh Norn, Grand Cenobite
-1 Tidespout Tyrant
 1 Animate Dead
 1 Grave Titan
-2 Reanimate
-2 Daze
+1 Elesh Norn, Grand Cenobite
+1 Tidespout Tyrant
 2 Collective Brutality
 2 Animate Dead
+2 Reanimate
+2 Daze
+3 Collective Brutality
+3 Underground Sea
 3 Reanimate
 3 Daze
-3 Underground Sea
-3 Collective Brutality
-4 Reanimate
+4 Polluted Delta
 4 Collective Brutality
 4 Daze
-4 Polluted Delta
-1 Scalding Tarn
-1 Aether Vial
+4 Reanimate
 1 Murderous Redcap
-1 Cavern of Souls
 1 Batterskull
 1 Nomads en-Kor
 1 Shuko
 1 Stoneforge Mystic
+1 Aether Vial
 1 Narcomoeba
 1 The Mimeoplasm
+1 Scalding Tarn
+1 Cabal Therapy
+1 Cavern of Souls
 1 Lord of Extinction
 1 Dread Return
 1 Cephalid Illusionist
-2 Cavern of Souls
-2 Aether Vial
 2 Cephalid Illusionist
+2 Aether Vial
 2 Nomads en-Kor
 2 Narcomoeba
-2 Scalding Tarn
 2 Tundra
+2 Cabal Therapy
 2 Stoneforge Mystic
-3 Cavern of Souls
-3 Recruiter of the Guard
+2 Cavern of Souls
+2 Scalding Tarn
 3 Tundra
-3 Aether Vial
-3 Stoneforge Mystic
+3 Cavern of Souls
 3 Cephalid Illusionist
+3 Stoneforge Mystic
+3 Recruiter of the Guard
 3 Narcomoeba
-4 Tundra
-4 Aether Vial
+3 Aether Vial
+3 Cabal Therapy
 4 Flooded Strand
+4 Aether Vial
+4 Tundra
 4 Cephalid Illusionist
 4 Stoneforge Mystic
-1 Tower of the Magistrate
-1 Stitcher's Supplier
-1 Pendelhaven
-1 Cabal Pit
-2 Stitcher's Supplier
-4 Hogaak, Arisen Necropolis
-4 Cabal Therapy

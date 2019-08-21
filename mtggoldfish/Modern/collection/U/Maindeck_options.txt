@@ -1,98 +1,85 @@
-10 Island
-1 Coralhelm Commander
-1 Cavern of Souls
-2 Coralhelm Commander
+1 Waterlogged Grove
+2 Waterlogged Grove
+1 Mystic Forge
+1 Darksteel Citadel
+1 Mox Opal
+1 Master of Etherium
+1 Thorn of Amethyst
+1 Lodestone Golem
+1 Chief Engineer
+1 Signal Pest
+1 Blinkmoth Nexus
+1 Arcbound Ravager
+1 Vault Skirge
+1 Ornithopter
+1 Etherium Sculptor
+2 Darksteel Citadel
+2 Mystic Forge
+2 Mox Opal
+2 Master of Etherium
+2 Thorn of Amethyst
+2 Lodestone Golem
+2 Ornithopter
+2 Vault Skirge
+2 Signal Pest
+2 Arcbound Ravager
+2 Blinkmoth Nexus
+2 Chief Engineer
+2 Etherium Sculptor
+3 Walking Ballista
 3 Waterlogged Grove
+3 Darksteel Citadel
+3 Mox Opal
+3 Thorn of Amethyst
+3 Lodestone Golem
+3 Arcbound Ravager
+3 Ornithopter
+3 Vault Skirge
+3 Chief Engineer
+3 Signal Pest
+3 Etherium Sculptor
+3 Blinkmoth Nexus
 4 Waterlogged Grove
-1 Fiery Islet
-1 Echoing Truth
-2 Echoing Truth
-3 Echoing Truth
-4 Echoing Truth
-1 Snow-Covered Island
-2 Snow-Covered Island
-3 Snow-Covered Island
-4 Snow-Covered Island
-5 Snow-Covered Island
-1 Snapcaster Mage
-1 Remand
-1 Cyclonic Rift
-1 Walking Ballista
-1 Field of Ruin
-2 Remand
-3 Remand
-4 Remand
-1 Supreme Will
-1 Unsubstantiate
-1 Buried Ruin
-1 Fact or Fiction
-1 Anticipate
-1 Karn, the Great Creator
-1 Chalice of the Void
-1 Watery Grave
-1 Academy Ruins
-1 Condescend
-1 Torrential Gearhulk
-1 Ugin, the Spirit Dragon
-1 Wurmcoil Engine
-1 Expedition Map
-1 Gemstone Caverns
-1 Urza's Mine
-1 Tolaria West
-1 Mindslaver
-1 Thirst for Knowledge
-1 Commit/Memory
-1 Nimble Obstructionist
-1 Urza's Tower
-1 Urza's Power Plant
-1 Oblivion Stone
-2 Supreme Will
-2 Walking Ballista
-2 Karn, the Great Creator
-2 Urza's Mine
-2 Expedition Map
-2 Condescend
-2 Chalice of the Void
-2 Urza's Power Plant
-2 Thirst for Knowledge
-2 Urza's Tower
-3 Urza's Tower
-3 Urza's Power Plant
-3 Expedition Map
-3 Urza's Mine
-3 Condescend
-3 Thirst for Knowledge
-4 Expedition Map
-4 Condescend
-4 Urza's Tower
-4 Urza's Mine
-4 Urza's Power Plant
+4 Darksteel Citadel
+4 Mox Opal
+4 Thorn of Amethyst
+4 Lodestone Golem
+4 Etherium Sculptor
+4 Signal Pest
+4 Chief Engineer
+4 Blinkmoth Nexus
+4 Ornithopter
+4 Vault Skirge
+4 Walking Ballista
 1 Minamo, School at Water's Edge
 1 Reality Smasher
 1 Warping Wail
 1 Vapor Snag
 1 Piracy Charm
-1 Stubborn Denial
+1 Island
+1 Dismember
+1 Eldrazi Temple
 1 Spell Snare
 1 Vendilion Clique
+1 Stubborn Denial
 1 Thought-Knot Seer
 1 Spatial Contortion
 1 Opt
 1 Cryptic Command
-1 Eldrazi Temple
 1 Eldrazi Skyspawner
 1 Underground River
 2 Spell Snare
 2 Reality Smasher
 2 Vapor Snag
+2 Eldrazi Temple
 2 Stubborn Denial
 2 Cryptic Command
 2 Field of Ruin
 2 Thought-Knot Seer
-2 Eldrazi Skyspawner
+2 Island
 2 Underground River
 2 Opt
-2 Eldrazi Temple
+2 Eldrazi Skyspawner
 3 Vapor Snag
 3 Field of Ruin
 3 Eldrazi Skyspawner
@@ -100,25 +87,67 @@
 3 Underground River
 3 Reality Smasher
 3 Opt
+3 Island
 3 Thought-Knot Seer
 3 Spell Snare
 4 Thought-Knot Seer
-4 Eldrazi Skyspawner
 4 Underground River
+4 Island
+4 Eldrazi Skyspawner
 4 Eldrazi Temple
 4 Opt
-1 Merrow Witsniper
-1 Cloudstone Curio
+5 Island
+6 Island
+7 Island
+8 Island
+9 Island
+10 Island
+1 Mutavault
+1 Faerie Conclave
 1 Merrow Reejerey
+1 Aether Vial
+1 Spreading Seas
+1 Force of Negation
+1 Silvergill Adept
 1 Benthic Biomancer
-2 Cloudstone Curio
-2 Merrow Witsniper
+1 Master of the Pearl Trident
+1 Cloudstone Curio
+1 Merfolk Trickster
+1 Merrow Witsniper
+1 Lord of Atlantis
+1 Harbinger of the Tides
+2 Faerie Conclave
 2 Merrow Reejerey
+2 Aether Vial
+2 Spreading Seas
+2 Force of Negation
+2 Silvergill Adept
+2 Mutavault
+2 Cloudstone Curio
+2 Master of the Pearl Trident
+2 Merrow Witsniper
+2 Lord of Atlantis
+2 Merfolk Trickster
+2 Harbinger of the Tides
 2 Benthic Biomancer
+3 Force of Negation
+3 Aether Vial
+3 Lord of Atlantis
+3 Merfolk Trickster
 3 Merrow Reejerey
-3 Benthic Biomancer
+3 Silvergill Adept
+3 Master of the Pearl Trident
 3 Merrow Witsniper
+3 Mutavault
+3 Benthic Biomancer
 4 Merrow Reejerey
+4 Mutavault
+4 Force of Negation
+4 Aether Vial
+4 Lord of Atlantis
+4 Merfolk Trickster
+4 Master of the Pearl Trident
+4 Silvergill Adept
 6 Snow-Covered Island
 7 Snow-Covered Island
 8 Snow-Covered Island
