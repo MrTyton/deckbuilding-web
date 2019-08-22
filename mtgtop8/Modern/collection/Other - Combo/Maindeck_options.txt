@@ -12,20 +12,20 @@
 1 Zhalfirin Void
 1 Surge Node
 1 Copperline Gorge
-1 Horizon Canopy
 1 Mystic Forge
-1 Engineered Explosives
+1 Horizon Canopy
 1 Inventors' Fair
 1 Grove of the Burnwillows
 1 Pyrite Spellbomb
 1 Mox Opal
 1 Blast Zone
 1 Paradox Engine
+1 Engineered Explosives
 1 Ensnaring Bridge
 1 Ancient Stirrings
+2 Mystic Forge
 2 Everflowing Chalice
 2 Surge Node
-2 Mystic Forge
 2 Astral Cornucopia
 2 Coretapper
 2 Grove of the Burnwillows
@@ -38,9 +38,9 @@
 2 Ancient Stirrings
 2 Blast Zone
 3 Blast Zone
-3 Coretapper
 3 Everflowing Chalice
 3 Astral Cornucopia
+3 Coretapper
 3 Mystic Forge
 3 Ensnaring Bridge
 3 Surge Node
@@ -58,9 +58,9 @@
 4 Grove of the Burnwillows
 4 Mox Opal
 4 Ancient Stirrings
-1 Lightning Bolt
 1 Simian Spirit Guide
 1 Mountain
+1 Lightning Bolt
 2 Lightning Bolt
 2 Simian Spirit Guide
 3 Lightning Bolt
@@ -69,13 +69,13 @@
 1 Peek
 1 Arid Mesa
 1 Crashing Footfalls
-1 Electrodominance
-1 Flame Slash
-1 Ancestral Vision
 1 As Foretold
 1 Dreadhorde Arcanist
+1 Electrodominance
 1 Opt
 1 Scalding Tarn
+1 Ancestral Vision
+1 Flame Slash
 1 Lightning Axe
 1 Force of Negation
 1 Sphinx of Foresight
@@ -95,16 +95,16 @@
 3 As Foretold
 3 Scalding Tarn
 3 Ancestral Vision
-3 Electrodominance
 3 Dreadhorde Arcanist
 3 Crashing Footfalls
+3 Electrodominance
 3 Force of Negation
 3 Sphinx of Foresight
 4 Crashing Footfalls
 4 Scalding Tarn
+4 Electrodominance
 4 Force of Negation
 4 As Foretold
-4 Electrodominance
 4 Ancestral Vision
 1 Desperate Ritual
 1 Faithless Looting
@@ -156,6 +156,7 @@
 4 Wild Cantor
 4 Renegade Map
 4 Lay of the Land
+1 Hydroid Krasis
 1 Nykthos, Shrine to Nyx
 1 Acidic Slime
 1 Breeding Pool
@@ -165,15 +166,14 @@
 1 Utopia Sprawl
 1 Windswept Heath
 1 Mwonvuli Acid-Moss
-1 Hydroid Krasis
 1 Nissa, Worldwaker
 1 Primal Command
 1 Arbor Elf
 1 Nissa, Vastwood Seer
 1 Eternal Witness
 2 Acidic Slime
-2 Breeding Pool
 2 Trinisphere
+2 Breeding Pool
 2 Nissa, Vastwood Seer
 2 Mwonvuli Acid-Moss
 2 Utopia Sprawl
@@ -202,10 +202,10 @@
 4 Forest
 5 Forest
 6 Forest
-8 Forest
+7 Forest
 9 Forest
 10 Forest
 11 Forest
 12 Forest
 13 Forest
-7 Forest
+8 Forest
