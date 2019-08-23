@@ -57,7 +57,7 @@
 |                     |                                                                                              |                    3|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)|
 |                     |                                                                                              |                    4|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)|
 |                     |                                                                                              |                    1|Wear / Tear                                                                                   |
-|                     |                                                                                              |                    1|[Master of Etherium](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=175114) |
 |                     |                                                                                              |                    2|Wear / Tear                                                                                   |
 |                     |                                                                                              |                    3|Wear / Tear                                                                                   |
+|                     |                                                                                              |                    1|[Master of Etherium](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=175114) |
 

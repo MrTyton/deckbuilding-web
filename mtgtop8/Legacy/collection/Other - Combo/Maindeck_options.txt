@@ -10,13 +10,12 @@
 4 Ancient Tomb
 1 Goblin Engineer
 1 Ichor Wellspring
+1 Badlands
 1 Toxic Deluge
-1 Force of Will
 1 Thopter Foundry
 1 Baleful Strix
 1 Thirst for Knowledge
 1 Walking Ballista
-1 Badlands
 1 Urza, Lord High Artificer
 1 Sword of the Meek
 1 Tribute Mage
@@ -25,13 +24,14 @@
 1 Mox Diamond
 1 City of Traitors
 1 Chalice of the Void
-2 Underground Sea
+1 Force of Will
 2 Chalice of the Void
 2 Goblin Engineer
-2 Force of Will
 2 Thopter Foundry
 2 Urza, Lord High Artificer
+2 Underground Sea
 2 Ichor Wellspring
+2 Force of Will
 2 Sword of the Meek
 2 Walking Ballista
 2 Transmute Artifact
@@ -39,19 +39,19 @@
 2 Baleful Strix
 3 Goblin Engineer
 3 Thopter Foundry
-3 Force of Will
 3 Chalice of the Void
 3 Transmute Artifact
 3 Mox Diamond
+3 Force of Will
 3 Baleful Strix
 3 Urza, Lord High Artificer
-4 Force of Will
 4 Chalice of the Void
 4 Baleful Strix
 4 Transmute Artifact
+4 Force of Will
 1 Rite of Flame
-1 Intuition
 1 Arid Mesa
+1 Intuition
 1 Past in Flames
 1 Desperate Ritual
 1 Ruby Medallion
@@ -63,8 +63,8 @@
 1 Manamorphose
 1 Reforge the Soul
 2 Rite of Flame
-2 Volcanic Island
 2 Empty the Warrens
+2 Volcanic Island
 2 Bonus Round
 2 Ruby Medallion
 2 Manamorphose
