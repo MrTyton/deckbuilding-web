@@ -37,8 +37,8 @@
 
 |*n*<sup>th</sup> copy|                                        Maindeck Card                                         |*n*<sup>th</sup> copy|                                         Sideboard Card                                          |
 |--------------------:|----------------------------------------------------------------------------------------------|--------------------:|-------------------------------------------------------------------------------------------------|
-|                    1|[Stomping Ground](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405110)    |                    1|[Sin Collector](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=368968)         |
-|                    1|[Kessig Wolf Run](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=233256)    |                    1|[Nihil Spellbomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442215)       |
+|                    1|[Kessig Wolf Run](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=233256)    |                    1|[Sin Collector](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=368968)         |
+|                    1|[Stomping Ground](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405110)    |                    1|[Nihil Spellbomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442215)       |
 |                    3|[Tireless Tracker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409997)   |                    1|[Fulminator Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397686)       |
 |                    1|[Renegade Rallier](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423800)   |                    1|[Assassin's Trophy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452902)     |
 |                    1|[Breeding Pool](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=97088)       |                    1|[Tireless Tracker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409997)      |

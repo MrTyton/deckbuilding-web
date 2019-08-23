@@ -38,6 +38,7 @@
 |                    3|[Cavalier of Gales](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466806)|                    1|[Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452)   |
 |                    2|[Vraska's Contempt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435283)|                    1|[Crushing Canopy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452876)     |
 |                    3|[Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)           |                    2|[Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452)   |
+|                     |                                                                                            |                    3|[Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)               |
 |                     |                                                                                            |                    1|[Ashiok, Dream Render](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461155)|
 |                     |                                                                                            |                    1|[Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)      |
 |                     |                                                                                            |                    2|[Cry of the Carnarium](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457214)|
@@ -45,5 +46,4 @@
 |                     |                                                                                            |                    2|[Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)      |
 |                     |                                                                                            |                    3|[Unmoored Ego](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452962)        |
 |                     |                                                                                            |                    3|[Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)      |
-|                     |                                                                                            |                    3|[Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)               |
 

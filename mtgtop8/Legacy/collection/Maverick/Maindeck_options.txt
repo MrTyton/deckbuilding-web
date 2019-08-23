@@ -1,7 +1,5 @@
-1 Wooded Foothills
 1 Sword of Light and Shadow
-1 Scrubland
-1 Sanctum Prelate
+1 Bayou
 1 Sylvan Safekeeper
 1 Walking Ballista
 1 Hexdrinker
@@ -9,6 +7,8 @@
 2 Ranger-Captain of Eos
 1 Blast Zone
 3 Stoneforge Mystic
+1 Scrubland
+1 Sanctum Prelate
 2 Wooded Foothills
 3 Wooded Foothills
 2 Bayou
@@ -32,7 +32,6 @@
 1 Sunbaked Canyon
 2 Snow-Covered Forest
 1 Palace Jailer
-1 Marsh Flats
 1 Misty Rainforest
 2 Horizon Canopy
 1 Gideon, Ally of Zendikar
@@ -46,9 +45,9 @@
 1 Duskwatch Recruiter
 1 Aether Vial
 1 Bojuka Bog
+2 Assassin's Trophy
 2 Aether Vial
 2 Sanctum Prelate
-2 Assassin's Trophy
 2 Duskwatch Recruiter
 3 Aether Vial
 4 Aether Vial

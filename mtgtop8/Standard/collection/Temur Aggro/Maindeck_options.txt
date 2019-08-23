@@ -7,14 +7,14 @@
 3 Creeping Trailblazer
 1 Chandra, Acolyte of Flame
 2 Sulfur Falls
-1 Paradise Druid
-2 Paradise Druid
-2 Mountain
-4 Nissa, Who Shakes the World
 1 Lightning Strike
 2 Lightning Strike
 4 Creeping Trailblazer
+2 Mountain
 2 Chandra, Acolyte of Flame
+4 Nissa, Who Shakes the World
+1 Paradise Druid
+2 Paradise Druid
 4 Hydroid Krasis
 2 Chandra, Awakened Inferno
 1 Island
@@ -22,7 +22,6 @@
 1 Mass Manipulation
 4 Cavalier of Thorns
 2 Tamiyo, Collector of Tales
-3 Paradise Druid
 4 Shock
 1 Overgrowth Elemental
 2 Overgrowth Elemental
@@ -30,8 +29,8 @@
 1 Incubation Druid
 2 Incubation Druid
 2 Island
+3 Paradise Druid
 3 Lightning Strike
-4 Paradise Druid
 1 Thunderkin Awakener
 1 Scampering Scorcher
 2 Thunderkin Awakener
@@ -39,6 +38,7 @@
 2 Vivien Reid
 4 Lava Coil
 4 Lightning Strike
+4 Paradise Druid
 5 Forest
 4 Chandra, Acolyte of Flame
 1 Domri's Ambush
@@ -50,15 +50,15 @@
 3 Sulfur Falls
 3 Overgrowth Elemental
 4 Overgrowth Elemental
-1 Domri, Anarch of Bolas
-2 Domri, Anarch of Bolas
 2 Scampering Scorcher
 3 Thunderkin Awakener
 4 Thunderkin Awakener
 1 Neoform
 1 Cavalier of Gales
-1 Vine Mare
 2 Mass Manipulation
+1 Domri, Anarch of Bolas
+1 Vine Mare
+2 Domri, Anarch of Bolas
 1 Voracious Hydra
 2 Voracious Hydra
 3 Voracious Hydra
@@ -97,24 +97,5 @@
 3 Jadelight Ranger
 4 Wildgrowth Walker
 4 Jadelight Ranger
-1 Rekindling Phoenix
-1 Gruul Spellbreaker
-1 Banefire
-1 Quench
-1 Legion Warboss
-1 Growth-Chamber Guardian
-2 Gruul Spellbreaker
-2 Rekindling Phoenix
-2 Banefire
-2 Legion Warboss
-2 Growth-Chamber Guardian
-2 Quench
-3 Gruul Spellbreaker
-3 Rekindling Phoenix
-3 Legion Warboss
-3 Growth-Chamber Guardian
-4 Gruul Spellbreaker
-4 Rekindling Phoenix
-4 Growth-Chamber Guardian
 7 Forest
 6 Forest
