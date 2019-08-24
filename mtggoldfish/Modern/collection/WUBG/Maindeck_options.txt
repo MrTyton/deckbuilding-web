@@ -1,27 +1,27 @@
-1 Snow-Covered Island
-1 Snow-Covered Forest
-1 Snow-Covered Plains
 1 Misty Rainforest
-1 Breeding Pool
-1 Prismatic Vista
-1 Ice-Fang Coatl
 1 Hallowed Fountain
+1 Breeding Pool
+1 Snow-Covered Island
+1 Prismatic Vista
+1 Snow-Covered Plains
+1 Snow-Covered Forest
+1 Ice-Fang Coatl
 2 Snow-Covered Island
 2 Misty Rainforest
+2 Snow-Covered Forest
 2 Prismatic Vista
 2 Ice-Fang Coatl
-2 Snow-Covered Forest
-3 Prismatic Vista
 3 Misty Rainforest
+3 Prismatic Vista
 3 Ice-Fang Coatl
 4 Misty Rainforest
 4 Prismatic Vista
+1 Flooded Strand
 1 Aether Vial
 1 Thragtusk
-1 Spell Queller
 1 Spellskite
 1 Stonehorn Dignitary
-1 Flooded Strand
+1 Spell Queller
 1 Ephemerate
 1 Time Warp
 1 Soulherder
@@ -31,9 +31,9 @@
 2 Soulherder
 2 Ephemerate
 2 Time Warp
-3 Eternal Witness
 3 Aether Vial
 3 Ephemerate
+3 Eternal Witness
 3 Time Warp
 3 Soulherder
 3 Coiling Oracle
@@ -44,10 +44,11 @@
 4 Soulherder
 4 Ephemerate
 4 Coiling Oracle
-1 Nexus of Fate
 1 Fact or Fiction
+1 Nexus of Fate
 1 Remand
 1 Wilderness Reclamation
+1 Sakura-Tribe Elder
 1 Teferi, Hero of Dominaria
 1 Sphinx's Revelation
 1 Cryptic Command
@@ -56,22 +57,21 @@
 1 Fog
 1 Mikokoro, Center of the Sea
 1 Lonely Sandbar
-1 Sakura-Tribe Elder
 2 Nexus of Fate
 2 Fact or Fiction
 2 Wilderness Reclamation
+2 Sakura-Tribe Elder
 2 Remand
 2 Cryptic Command
 2 Utopia Sprawl
 2 Sphinx's Revelation
 2 Fog
-2 Sakura-Tribe Elder
 3 Snow-Covered Island
 3 Nexus of Fate
+3 Sakura-Tribe Elder
 3 Wilderness Reclamation
 3 Fog
 3 Sphinx's Revelation
-3 Sakura-Tribe Elder
 3 Snow-Covered Forest
 3 Cryptic Command
 3 Fact or Fiction

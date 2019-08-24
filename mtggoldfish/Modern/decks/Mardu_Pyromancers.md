@@ -26,3 +26,13 @@
 |2 [Kambal, Consul of Allocation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417756)|                                                                                                |2 [Wear/Tear](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=368950)      |                                                                                                       |
 |2 [Plague Engineer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464049)             |                                                                                                |                                                                                            |                                                                                                       |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                        Maindeck Card                                         |*n*<sup>th</sup> copy|                                       Sideboard Card                                        |
+|--------------------:|----------------------------------------------------------------------------------------------|--------------------:|---------------------------------------------------------------------------------------------|
+|                    1|[Thunderkin Awakener](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466916)|                    1|[Kolaghan's Command](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394613)|
+|                    2|[Thunderkin Awakener](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466916)|                    2|[Kolaghan's Command](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394613)|
+|                    3|[Marsh Flats](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405101)        |                    3|[Fulminator Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397686)   |
+|                    2|[Sacred Foundry](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405106)     |                     |                                                                                             |
+

@@ -17,10 +17,10 @@
 1 Ice-Fang Coatl
 1 Prismatic Vista
 2 Snow-Covered Plains
+2 Path to Exile
 2 Snow-Covered Island
 2 Prismatic Vista
 2 Ice-Fang Coatl
-2 Path to Exile
 2 Snow-Covered Forest
 3 Prismatic Vista
 3 Path to Exile
@@ -28,6 +28,20 @@
 3 Ice-Fang Coatl
 4 Misty Rainforest
 4 Ice-Fang Coatl
+1 Duskwatch Recruiter
+1 Knight of Autumn
+1 Giver of Runes
+1 Island
+1 Deputy of Detention
+1 Razorverge Thicket
+1 Shalai, Voice of Plenty
+1 Fauna Shaman
+2 Giver of Runes
+2 Razorverge Thicket
+3 Giver of Runes
+3 Spell Queller
+3 Razorverge Thicket
+4 Giver of Runes
 1 Soulherder
 1 Coiling Oracle
 1 Time Warp
@@ -36,42 +50,28 @@
 1 Flooded Strand
 1 Reflector Mage
 1 Wall of Blossoms
-2 Collected Company
 2 Time Warp
 2 Ephemerate
 2 Soulherder
+2 Collected Company
 2 Coiling Oracle
 2 Wall of Blossoms
 2 Reflector Mage
 3 Coiling Oracle
 3 Soulherder
-3 Ephemerate
 3 Eternal Witness
+3 Ephemerate
 3 Snow-Covered Island
 3 Birds of Paradise
 3 Collected Company
 3 Reflector Mage
 4 Coiling Oracle
 4 Soulherder
-1 Duskwatch Recruiter
-1 Island
-1 Deputy of Detention
-1 Razorverge Thicket
-1 Shalai, Voice of Plenty
-1 Giver of Runes
-1 Fauna Shaman
-1 Knight of Autumn
-2 Razorverge Thicket
-2 Giver of Runes
-3 Giver of Runes
-3 Spell Queller
-3 Razorverge Thicket
-4 Giver of Runes
 1 Ghost Quarter
-1 Gavony Township
 1 Knight of the Reliquary
 1 On Thin Ice
 1 Jace, the Mind Sculptor
+1 Gavony Township
 1 Serum Visions
 1 Vendilion Clique
 1 Tarmogoyf
@@ -79,8 +79,8 @@
 1 Bojuka Bog
 2 Vendilion Clique
 2 Knight of the Reliquary
-2 Jace, the Mind Sculptor
 2 Tarmogoyf
+2 Jace, the Mind Sculptor
 2 Scavenging Ooze
 2 Force of Negation
 2 Serum Visions

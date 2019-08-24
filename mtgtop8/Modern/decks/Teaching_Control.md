@@ -43,8 +43,8 @@
 |*n*<sup>th</sup> copy|                                       Maindeck Card                                        |*n*<sup>th</sup> copy|                                         Sideboard Card                                         |
 |--------------------:|--------------------------------------------------------------------------------------------|--------------------:|------------------------------------------------------------------------------------------------|
 |                    1|[Blast Zone](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461171)       |                    1|[Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)       |
-|                    2|[Assassin's Trophy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452902)|                    1|[Nimble Obstructionist](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430729)|
-|                    3|[Misty Rainforest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405102) |                    1|[Disfigure](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442076)            |
+|                    2|[Assassin's Trophy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452902)|                    1|[Disfigure](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442076)            |
+|                    3|[Misty Rainforest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405102) |                    1|[Nimble Obstructionist](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430729)|
 |                    4|[Misty Rainforest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405102) |                    1|[Fatal Push](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423724)           |
 |                    4|[Opt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442948)              |                    1|[Snapcaster Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=227676)      |
 

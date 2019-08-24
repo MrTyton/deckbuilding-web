@@ -37,8 +37,8 @@
 
 |*n*<sup>th</sup> copy|                                       Maindeck Card                                       |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
 |--------------------:|-------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
-|                    1|[Giver of Runes](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463962)  |                    1|[Eternal Witness](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=51628)     |
-|                    1|[Vendilion Clique](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442065)|                    3|[Voice of Resurgence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=368951)|
-|                    1|[Eternal Witness](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=51628)  |                    4|[Voice of Resurgence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=368951)|
-|                    2|[Vendilion Clique](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442065)|                     |                                                                                              |
+|                    1|[Vendilion Clique](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442065)|                    1|[Eternal Witness](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=51628)     |
+|                    1|[Giver of Runes](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463962)  |                    3|[Voice of Resurgence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=368951)|
+|                    2|[Vendilion Clique](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442065)|                    4|[Voice of Resurgence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=368951)|
+|                    1|[Eternal Witness](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=51628)  |                     |                                                                                              |
 

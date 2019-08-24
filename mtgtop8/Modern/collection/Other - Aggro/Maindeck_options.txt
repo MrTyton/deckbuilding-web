@@ -24,54 +24,54 @@
 4 Young Pyromancer
 1 Unclaimed Territory
 1 Mountain
-1 Risen Reef
-1 Flamekin Harbinger
 1 Omnath, Locus of the Roil
+1 Flamekin Harbinger
+1 Risen Reef
 2 Unclaimed Territory
-2 Risen Reef
 2 Flamekin Harbinger
+2 Risen Reef
 3 Flamekin Harbinger
 3 Risen Reef
 3 Unclaimed Territory
-4 Unclaimed Territory
-4 Flamekin Harbinger
 4 Risen Reef
+4 Flamekin Harbinger
+4 Unclaimed Territory
 1 Fiery Islet
 1 Incandescent Soulstoke
 1 Lightning Stormkin
 1 Cavern of Souls
 1 Aether Vial
+1 Primal Beyond
 1 Flickerwisp
+1 Voice of Resurgence
 1 Unsettled Mariner
 1 Shriekmaw
 1 Reflecting Pool
 1 Flamekin Village
 1 Nova Chaser
 1 Ancient Ziggurat
-1 Primal Beyond
-1 Voice of Resurgence
 1 Spitebellows
 2 Lightning Stormkin
 2 Aether Vial
 2 Cavern of Souls
 2 Flickerwisp
+2 Voice of Resurgence
 2 Ancient Ziggurat
 2 Unsettled Mariner
 2 Incandescent Soulstoke
 2 Fiery Islet
-2 Voice of Resurgence
-3 Voice of Resurgence
 3 Lightning Stormkin
 3 Aether Vial
 3 Cavern of Souls
+3 Voice of Resurgence
 3 Incandescent Soulstoke
 3 Ancient Ziggurat
 3 Unsettled Mariner
-4 Unsettled Mariner
 4 Cavern of Souls
-4 Voice of Resurgence
+4 Unsettled Mariner
 4 Lightning Stormkin
 4 Aether Vial
+4 Voice of Resurgence
 4 Ancient Ziggurat
 4 Incandescent Soulstoke
 1 Forest
@@ -83,27 +83,27 @@
 1 Craterhoof Behemoth
 1 Scampering Scorcher
 1 Sacred Foundry
+1 Smokebraider
+1 Vesperlark
 1 Copperline Gorge
 1 Omnath, Locus of Rage
 1 Lumbering Falls
-1 Vesperlark
-1 Smokebraider
 1 Stomping Ground
 2 Stomping Ground
 2 Shivan Reef
 2 Vivien's Arkbow
 2 Chandra, Acolyte of Flame
 2 Sacred Foundry
+2 Smokebraider
 2 Mountain
 2 Copperline Gorge
-2 Smokebraider
 2 Lumbering Falls
 2 Vesperlark
 2 Scampering Scorcher
 3 Smokebraider
 3 Vesperlark
-4 Smokebraider
 4 Blood Crypt
+4 Smokebraider
 4 Vesperlark
 1 Misty Rainforest
 1 Snow-Covered Forest
@@ -233,8 +233,8 @@
 2 Spellstutter Sprite
 2 Curious Obsession
 2 Vapor Snag
-2 Spell Pierce
 2 Archmage's Charm
+2 Spell Pierce
 2 Faerie Seer
 2 Island
 2 Mausoleum Wanderer

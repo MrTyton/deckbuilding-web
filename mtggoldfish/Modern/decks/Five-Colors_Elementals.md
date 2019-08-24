@@ -44,7 +44,7 @@
 |                    1|[Simian Spirit Guide](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442137)   |                    3|[Fulminator Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397686)    |
 |                    1|[Incandescent Soulstoke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=139730)|                    4|[Lightning Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=806)        |
 |                    1|[Shriekmaw](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220572)             |                    4|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)|
-|                    2|[Simian Spirit Guide](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442137)   |                    3|[Lightning Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=806)        |
+|                    2|[Shriekmaw](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220572)             |                    3|[Lightning Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=806)        |
 |                    3|[Fiery Islet](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464187)           |                     |                                                                                              |
-|                    2|[Shriekmaw](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220572)             |                     |                                                                                              |
+|                    2|[Simian Spirit Guide](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442137)   |                     |                                                                                              |
 

@@ -33,5 +33,7 @@
 
 |*n*<sup>th</sup> copy|Maindeck Card|*n*<sup>th</sup> copy|                                         Sideboard Card                                         |
 |---------------------|-------------|--------------------:|------------------------------------------------------------------------------------------------|
+|                     |             |                    2|[Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452)    |
+|                     |             |                    3|[Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452)    |
 |                     |             |                    1|[Thrun, the Last Troll](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=214050)|
 
