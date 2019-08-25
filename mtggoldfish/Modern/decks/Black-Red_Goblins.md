@@ -33,8 +33,8 @@
 
 |*n*<sup>th</sup> copy|                                           Maindeck Card                                           |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
 |--------------------:|---------------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
-|                    1|[Goblin Piledriver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=40193)        |                    1|[Chalice of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442211)|
-|                    1|[Krenko, Mob Boss](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386339)        |                    1|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)|
+|                    1|[Krenko, Mob Boss](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386339)        |                    1|[Chalice of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442211)|
+|                    1|[Goblin Piledriver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=40193)        |                    1|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)|
 |                    1|[Siege-Gang Commander](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=130539)    |                    2|[Chalice of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442211)|
 |                    1|[Goblin Chieftain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438481)        |                    2|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)|
 |                    1|[Blackcleave Cliffs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=209401)      |                    2|[Tarfire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=157921)            |

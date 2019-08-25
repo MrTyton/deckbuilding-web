@@ -1,7 +1,3 @@
-1 Swamp
-1 Bloodstained Mire
-2 Bloodstained Mire
-3 Munitions Expert
 4 Blood Crypt
 2 Goblin Chieftain
 1 Fiery Islet
@@ -11,13 +7,15 @@
 2 Fiery Islet
 3 Fiery Islet
 4 Fiery Islet
+1 Swamp
+1 Bloodstained Mire
+2 Bloodstained Mire
+3 Munitions Expert
+1 Frogtosser Banneret
+2 Frogtosser Banneret
 2 Sling-Gang Lieutenant
 3 Bloodstained Mire
 4 Bloodstained Mire
-4 Mogg War Marshal
-4 Munitions Expert
-1 Frogtosser Banneret
-2 Frogtosser Banneret
 1 Ghost Quarter
 1 Mutavault
 1 Legion Loyalist
@@ -26,6 +24,8 @@
 2 Mutavault
 2 Goblin Piledriver
 3 Ghost Quarter
+4 Mogg War Marshal
+4 Munitions Expert
 1 Field of Ruin
 2 Pashalik Mons
 2 Field of Ruin
@@ -34,12 +34,3 @@
 3 Blackcleave Cliffs
 4 Tarfire
 4 Blackcleave Cliffs
-1 Thoughtseize
-1 Prismatic Vista
-2 Thoughtseize
-2 Goblin Cratermaker
-2 Prismatic Vista
-3 Thoughtseize
-3 Prismatic Vista
-4 Thoughtseize
-4 Prismatic Vista

@@ -31,8 +31,8 @@
 
 |*n*<sup>th</sup> copy|                                        Maindeck Card                                         |*n*<sup>th</sup> copy|                                       Sideboard Card                                        |
 |--------------------:|----------------------------------------------------------------------------------------------|--------------------:|---------------------------------------------------------------------------------------------|
-|                    1|[Thunderkin Awakener](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466916)|                    1|[Kolaghan's Command](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394613)|
-|                    2|[Thunderkin Awakener](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466916)|                    2|[Kolaghan's Command](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394613)|
-|                    3|[Marsh Flats](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405101)        |                    3|[Fulminator Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397686)   |
+|                    1|[Thunderkin Awakener](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466916)|                    2|[Kolaghan's Command](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394613)|
+|                    2|[Thunderkin Awakener](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466916)|                    3|[Fulminator Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397686)   |
+|                    3|[Marsh Flats](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405101)        |                    1|[Kolaghan's Command](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394613)|
 |                    2|[Sacred Foundry](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405106)     |                     |                                                                                             |
 
