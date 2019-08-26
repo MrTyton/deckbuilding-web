@@ -1,41 +1,33 @@
 3 Collected Company
 4 Collected Company
-4 Verdant Catacombs
 1 Ranger-Captain of Eos
 1 Kitchen Finks
 2 Kitchen Finks
 4 Noble Hierarch
 1 Scavenging Ooze
 3 Kitchen Finks
-1 Incubation / Incongruity
-2 Incubation / Incongruity
-3 Incubation / Incongruity
-4 Incubation / Incongruity
+4 Verdant Catacombs
 1 Gavony Township
 1 Carrion Feeder
 3 Razorverge Thicket
 3 Postmortem Lunge
-1 Eldritch Evolution
-2 Eldritch Evolution
-2 Gavony Township
-1 Swamp
-4 Chord of Calling
-3 Eternal Witness
 1 Misty Rainforest
 2 Misty Rainforest
-4 Razorverge Thicket
+1 Eldritch Evolution
+2 Eldritch Evolution
 1 Dryad Arbor
+1 Incubation / Incongruity
+2 Incubation / Incongruity
+3 Incubation / Incongruity
+4 Incubation / Incongruity
+1 Breeding Pool
+2 Gavony Township
+1 Swamp
+3 Eternal Witness
+4 Chord of Calling
+4 Razorverge Thicket
 3 Temple Garden
 3 Eldritch Evolution
-1 Breeding Pool
-1 Knight of Autumn
-2 Ranger-Captain of Eos
-4 Postmortem Lunge
-4 Eldritch Evolution
-2 Shalai, Voice of Plenty
-1 Deputy of Detention
-2 Overgrown Tomb
-1 Tireless Tracker
 1 Teferi, Time Raveler
 2 Teferi, Time Raveler
 3 Teferi, Time Raveler
@@ -48,11 +40,12 @@
 3 Arbor Elf
 4 Arbor Elf
 4 Utopia Sprawl
-1 Snow-Covered Forest
-1 Viscera Seer
-2 Viscera Seer
-1 Nurturing Peatland
-2 Nurturing Peatland
+1 Knight of Autumn
+1 Deputy of Detention
+2 Ranger-Captain of Eos
+4 Postmortem Lunge
+4 Eldritch Evolution
+2 Shalai, Voice of Plenty
 1 Karn, the Great Creator
 1 Oath of Nissa
 2 Oath of Nissa
@@ -62,6 +55,14 @@
 4 Oath of Nissa
 4 Karn, the Great Creator
 1 Wooded Foothills
+2 Overgrown Tomb
+1 Tireless Tracker
+1 Snow-Covered Forest
+1 Viscera Seer
+2 Viscera Seer
+1 Nurturing Peatland
+2 Nurturing Peatland
+4 Forest
 1 Field of Ruin
 2 Snow-Covered Forest
 1 Waterlogged Grove
@@ -111,9 +112,5 @@
 2 Wooded Foothills
 2 Tireless Tracker
 3 Knight of the Reliquary
-3 Tireless Tracker
 4 Knight of the Reliquary
-4 Forest
-1 Thoughtseize
-2 Thoughtseize
-4 Horizon Canopy
+3 Tireless Tracker
