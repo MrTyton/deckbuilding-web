@@ -36,9 +36,9 @@
 
 |*n*<sup>th</sup> copy|                                     Maindeck Card                                      |*n*<sup>th</sup> copy|                                       Sideboard Card                                       |
 |--------------------:|----------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------|
-|                    2|[Baleful Strix](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376260)|                    1|[Back to Basics](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456642)   |
-|                    4|[Ponder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=451051)       |                    1|[Scavenging Ooze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420783)  |
+|                    2|[Baleful Strix](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376260)|                    1|[Scavenging Ooze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420783)  |
+|                    4|[Ponder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=451051)       |                    1|[Back to Basics](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456642)   |
+|                     |                                                                                        |                    1|[Pernicious Deed](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442201)  |
 |                     |                                                                                        |                    1|[Garruk Relentless](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=245250)|
 |                     |                                                                                        |                    2|[Assassin's Trophy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452902)|
-|                     |                                                                                        |                    1|[Pernicious Deed](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442201)  |
 

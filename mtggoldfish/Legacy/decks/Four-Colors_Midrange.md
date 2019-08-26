@@ -37,7 +37,7 @@
 
 |*n*<sup>th</sup> copy|                                     Maindeck Card                                      |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
 |--------------------:|----------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
-|                    1|[Path to Exile](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220511)|                    1|[Ethersworn Canonist](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174931)|
-|                    1|[Fiery Islet](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464187)  |                    2|[Holy Light](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=1810)           |
-|                    4|[Wasteland](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413790)    |                     |                                                                                              |
+|                    1|[Fiery Islet](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464187)  |                    1|[Ethersworn Canonist](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174931)|
+|                    1|[Path to Exile](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220511)|                    2|[Holy Light](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=1810)           |
+|                    4|[Wasteland](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413790)    |                    3|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|
 

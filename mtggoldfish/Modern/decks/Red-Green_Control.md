@@ -1,7 +1,7 @@
 # Red-Green Control
 
 #### [Export MTGO List](../collection/Red-Green%20Control/Red-Green%20Control.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=2%09Acidic%20Slime%0A4%09Arbor%20Elf%0A1%09Blast%20Zone%0A3%09Blood%20Moon%0A1%09Elvish%20Mystic%0A3%09Ensnaring%20Bridge%0A4%09Eternal%20Witness%0A4%09Karn,%20the%20Great%20Creator%0A1%09Llanowar%20Elves%0A1%09Mountain%0A1%09Nissa,%20Vastwood%20Seer%0A4%09Primal%20Command%0A4%09Simian%20Spirit%20Guide%0A13%09Snow-Covered%20Forest%0A2%09Stomping%20Ground%0A2%09Trinisphere%0A4%09Utopia%20Sprawl%0A2%09Walking%20Ballista%0A4%09Wooded%20Foothills&deckside=1%09Ensnaring%20Bridge%0A1%09Grafdigger's%20Cage%0A1%09Liquimetal%20Coating%0A1%09Mycosynth%20Lattice%0A2%09Obstinate%20Baloth%0A1%09Reclamation%20Sage%0A1%09Scavenging%20Ooze%0A1%09Sorcerous%20Spyglass%0A1%09Spellskite%0A2%09Surgical%20Extraction%0A1%09Tormod's%20Crypt%0A1%09Walking%20Ballista%0A1%09Welding%20Jar)
+#### [Print on decklist.org](http://decklist.org/?deckmain=2%09Acidic%20Slime%0A4%09Arbor%20Elf%0A1%09Blast%20Zone%0A3%09Blood%20Moon%0A1%09Elvish%20Mystic%0A3%09Ensnaring%20Bridge%0A4%09Eternal%20Witness%0A4%09Karn,%20the%20Great%20Creator%0A1%09Llanowar%20Elves%0A1%09Mountain%0A1%09Nissa,%20Vastwood%20Seer%0A4%09Primal%20Command%0A4%09Simian%20Spirit%20Guide%0A13%09Snow-Covered%20Forest%0A2%09Stomping%20Ground%0A2%09Trinisphere%0A4%09Utopia%20Sprawl%0A2%09Walking%20Ballista%0A4%09Wooded%20Foothills&deckside=1%09Ensnaring%20Bridge%0A3%09Grafdigger's%20Cage%0A1%09Liquimetal%20Coating%0A1%09Mycosynth%20Lattice%0A2%09Obstinate%20Baloth%0A1%09Reclamation%20Sage%0A1%09Scavenging%20Ooze%0A1%09Sorcerous%20Spyglass%0A1%09Spellskite%0A1%09Tormod's%20Crypt%0A1%09Walking%20Ballista%0A1%09Welding%20Jar)
 # Maindeck
 
 |                                        Artifact (5)                                        |                                          Creature (19)                                          |                                     Enchantment (7)                                      |                                            Land (21)                                            |                                          Planeswalker (4)                                          |                                        Sorcery (4)                                        |
@@ -18,22 +18,22 @@
 
 # Sideboard
 
-|                                         Artifact (7)                                          |                                        Creature (6)                                         |                                          Instant (2)                                           |
-|-----------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
-|1 [Ensnaring Bridge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=15866)   |2 [Obstinate Baloth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438745)|2 [Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|
-|1 [Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452) |1 [Reclamation Sage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389651)|                                                                                                |
-|1 [Liquimetal Coating](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389578)|1 [Scavenging Ooze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420783) |                                                                                                |
-|1 [Mycosynth Lattice](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446209) |1 [Spellskite](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397743)      |                                                                                                |
-|1 [Sorcerous Spyglass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435407)|1 [Walking Ballista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423848)|                                                                                                |
-|1 [Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)    |                                                                                             |                                                                                                |
-|1 [Welding Jar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=48328)        |                                                                                             |                                                                                                |
+|                                         Artifact (9)                                          |                                        Creature (6)                                         |
+|-----------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|
+|1 [Ensnaring Bridge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=15866)   |2 [Obstinate Baloth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438745)|
+|3 [Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452) |1 [Reclamation Sage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389651)|
+|1 [Liquimetal Coating](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389578)|1 [Scavenging Ooze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420783) |
+|1 [Mycosynth Lattice](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446209) |1 [Spellskite](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397743)      |
+|1 [Sorcerous Spyglass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435407)|1 [Walking Ballista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423848)|
+|1 [Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)    |                                                                                             |
+|1 [Welding Jar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=48328)        |                                                                                             |
 
 
 # Other Options
 
-|*n*<sup>th</sup> copy|Maindeck Card|*n*<sup>th</sup> copy|                                         Sideboard Card                                         |
-|---------------------|-------------|--------------------:|------------------------------------------------------------------------------------------------|
-|                     |             |                    1|[Thrun, the Last Troll](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=214050)|
-|                     |             |                    2|[Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452)    |
-|                     |             |                    3|[Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452)    |
+|*n*<sup>th</sup> copy|                                         Maindeck Card                                          |*n*<sup>th</sup> copy|                                         Sideboard Card                                         |
+|--------------------:|------------------------------------------------------------------------------------------------|--------------------:|------------------------------------------------------------------------------------------------|
+|                    1|[Snow-Covered Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121233)|                    1|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)  |
+|                     |                                                                                                |                    2|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)  |
+|                     |                                                                                                |                    1|[Thrun, the Last Troll](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=214050)|
 

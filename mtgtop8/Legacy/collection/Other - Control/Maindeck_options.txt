@@ -16,11 +16,11 @@
 1 Volcanic Island
 1 Island
 1 Lightning Bolt
+1 Jace, the Mind Sculptor
 1 Tropical Island
 1 Bloodbraid Elf
 1 Ancestral Vision
 1 Shardless Agent
-1 Jace, the Mind Sculptor
 1 Misty Rainforest
 2 Volcanic Island
 2 Scalding Tarn
@@ -77,18 +77,17 @@
 4 Crashing Footfalls
 4 Lightning Bolt
 4 Ancestral Vision
-1 Polluted Delta
 1 Ponder
+1 Polluted Delta
 2 Ponder
-3 Prismatic Vista
 3 Ponder
+3 Prismatic Vista
 4 Ponder
 1 Snow-Covered Mountain
 1 Arcum's Astrolabe
 1 Snow-Covered Swamp
 1 Snow-Covered Island
 1 Baleful Strix
-1 Underground Sea
 1 Nihil Spellbomb
 1 Angrath's Rampage
 1 Thopter Foundry
@@ -98,16 +97,17 @@
 1 Ensnaring Bridge
 1 Sword of the Meek
 1 Engineered Explosives
+1 Underground Sea
 1 Muddle the Mixture
 2 Arcum's Astrolabe
 2 Baleful Strix
-2 Polluted Delta
 2 Thopter Foundry
 2 Angrath's Rampage
 2 Goblin Engineer
 2 Urza, Lord High Artificer
 2 Snow-Covered Island
 2 Underground Sea
+2 Polluted Delta
 3 Arcum's Astrolabe
 3 Angrath's Rampage
 3 Baleful Strix
@@ -126,38 +126,38 @@
 4 Prismatic Vista
 1 Scrubland
 1 Entreat the Angels
+1 Plains
+1 Swords to Plowshares
 1 Snapcaster Mage
-1 Teferi, Time Raveler
+1 Flooded Strand
 1 Terminus
+1 Teferi, Time Raveler
 1 Aminatou, the Fateshifter
 1 Mana Leak
 1 Back to Basics
 1 Sorin, Lord of Innistrad
-1 Flooded Strand
-1 Plains
 1 Preordain
 1 Supreme Verdict
-1 Swords to Plowshares
-2 Snapcaster Mage
 2 Swamp
+2 Swords to Plowshares
+2 Snapcaster Mage
+2 Flooded Strand
 2 Teferi, Time Raveler
-2 Island
 2 Plains
 2 Preordain
 2 Aminatou, the Fateshifter
 2 Mana Leak
-2 Swords to Plowshares
-2 Flooded Strand
+2 Island
 2 Back to Basics
 2 Sorin, Lord of Innistrad
 2 Terminus
 3 Plains
+3 Swords to Plowshares
 3 Flooded Strand
 3 Terminus
 3 Teferi, Time Raveler
 3 Aminatou, the Fateshifter
 3 Mana Leak
-3 Swords to Plowshares
 3 Island
 3 Sorin, Lord of Innistrad
 3 Preordain

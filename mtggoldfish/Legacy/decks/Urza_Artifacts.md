@@ -32,6 +32,6 @@
 |--------------------:|----------------------------------------------------------------------------------------------|---------------------|--------------|
 |                    2|[Trinket Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=50163)        |                     |              |
 |                    3|[Trinket Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=50163)        |                     |              |
-|                    4|[Trinket Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=50163)        |                     |              |
 |                    4|[Karn, Scion of Urza](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442889)|                     |              |
+|                    4|[Trinket Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=50163)        |                     |              |
 

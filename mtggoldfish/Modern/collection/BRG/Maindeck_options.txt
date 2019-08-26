@@ -1,3 +1,4 @@
+3 Polluted Delta
 3 Vengevine
 3 Carrion Feeder
 3 Blackcleave Cliffs
@@ -5,7 +6,6 @@
 3 Golgari Thug
 3 Bloodghast
 3 Thoughtseize
-3 Lightning Axe
 3 Stitcher's Supplier
 3 Gravecrawler
 4 Bloodghast
@@ -51,10 +51,10 @@
 1 Legion's End
 1 Seasoned Pyromancer
 1 Scavenging Ooze
-1 Inquisition of Kozilek
 1 Kitchen Finks
-1 Abrupt Decay
 1 Angrath's Rampage
+1 Abrupt Decay
+1 Inquisition of Kozilek
 1 Kolaghan's Command
 1 Blooming Marsh
 1 Raging Ravine
@@ -63,53 +63,58 @@
 2 Abrupt Decay
 2 Fatal Push
 2 Plague Engineer
-2 Inquisition of Kozilek
 2 Kolaghan's Command
 2 Kitchen Finks
 2 Seasoned Pyromancer
 2 Blooming Marsh
 2 Raging Ravine
 2 Scavenging Ooze
+2 Inquisition of Kozilek
 2 Wrenn and Six
 3 Fatal Push
 3 Kitchen Finks
 3 Scavenging Ooze
 3 Inquisition of Kozilek
 3 Blooming Marsh
-4 Inquisition of Kozilek
 4 Bloodbraid Elf
-1 Fiery Temper
-1 Dragonskull Summit
-1 Surgical Extraction
-1 Arclight Phoenix
-1 Finale of Promise
-1 Arid Mesa
-1 Flameblade Adept
-1 Burning Inquiry
-1 Hollow One
-1 Goblin Lore
-2 Fiery Temper
-2 Surgical Extraction
-2 Arclight Phoenix
-2 Goblin Lore
-2 Arid Mesa
-2 Hollow One
-2 Flameblade Adept
-2 Burning Inquiry
-3 Flameblade Adept
-3 Burning Inquiry
-3 Arclight Phoenix
-3 Goblin Lore
-3 Hollow One
-4 Hollow One
-4 Flameblade Adept
-4 Goblin Lore
-4 Burning Inquiry
-4 Arclight Phoenix
+4 Inquisition of Kozilek
+4 Wooded Foothills
+6 Mountain
+1 Blistercoil Weird
+1 Gut Shot
+1 Mutagenic Growth
+1 Lava Spike
+1 Soul-Scar Mage
+1 Temur Battle Rage
+1 Kiln Fiend
+1 Fiery Islet
+1 Become Immense
+2 Mutagenic Growth
+2 Become Immense
+2 Lava Spike
+2 Soul-Scar Mage
+2 Temur Battle Rage
+2 Kiln Fiend
+2 Fiery Islet
+3 Fiery Islet
+3 Mutagenic Growth
+3 Temur Battle Rage
+3 Lava Spike
+3 Monastery Swiftspear
+3 Become Immense
+3 Kiln Fiend
+3 Soul-Scar Mage
+3 Lava Dart
+4 Temur Battle Rage
+4 Mutagenic Growth
+4 Soul-Scar Mage
+4 Monastery Swiftspear
+4 Lava Spike
+4 Kiln Fiend
 1 Cavern of Souls
 1 Goblin Chieftain
-1 Goblin Piledriver
 1 Krenko, Mob Boss
+1 Goblin Piledriver
 1 Goblin Cratermaker
 1 Warren Weirding
 1 Goblin Ringleader
@@ -136,50 +141,45 @@
 2 Legion Warboss
 3 Sunbaked Canyon
 3 Tarfire
-3 Goblin Matron
 3 Auntie's Hovel
 3 Goblin Ringleader
 3 Munitions Expert
 3 Aether Vial
+3 Goblin Matron
 4 Aether Vial
 4 Tarfire
-4 Munitions Expert
 4 Auntie's Hovel
 4 Goblin Ringleader
 4 Goblin Matron
-4 Wooded Foothills
-6 Mountain
-1 Blistercoil Weird
-1 Gut Shot
-1 Mutagenic Growth
-1 Kiln Fiend
-1 Lava Spike
-1 Soul-Scar Mage
-1 Temur Battle Rage
-1 Fiery Islet
-1 Become Immense
-2 Fiery Islet
-2 Mutagenic Growth
-2 Become Immense
-2 Lava Spike
-2 Soul-Scar Mage
-2 Temur Battle Rage
-2 Kiln Fiend
-3 Fiery Islet
-3 Mutagenic Growth
-3 Temur Battle Rage
-3 Lava Spike
-3 Monastery Swiftspear
-3 Become Immense
-3 Kiln Fiend
-3 Soul-Scar Mage
-3 Lava Dart
-4 Temur Battle Rage
-4 Mutagenic Growth
-4 Soul-Scar Mage
-4 Monastery Swiftspear
-4 Lava Spike
-4 Kiln Fiend
+4 Munitions Expert
+1 Fiery Temper
+1 Dragonskull Summit
+1 Surgical Extraction
+1 Arclight Phoenix
+1 Finale of Promise
+1 Arid Mesa
+1 Burning Inquiry
+1 Hollow One
+1 Flameblade Adept
+1 Goblin Lore
+2 Fiery Temper
+2 Surgical Extraction
+2 Goblin Lore
+2 Arclight Phoenix
+2 Arid Mesa
+2 Hollow One
+2 Flameblade Adept
+2 Burning Inquiry
+3 Flameblade Adept
+3 Burning Inquiry
+3 Arclight Phoenix
+3 Goblin Lore
+3 Hollow One
+4 Hollow One
+4 Flameblade Adept
+4 Goblin Lore
+4 Burning Inquiry
+4 Arclight Phoenix
 1 Sweltering Suns
 1 Cinder Glade
 1 Farseek
@@ -195,10 +195,10 @@
 1 Primeval Titan
 2 Scapeshift
 2 Sakura-Tribe Elder
-2 Cinder Glade
-2 Valakut, the Molten Pinnacle
-2 Farseek
 2 Obstinate Baloth
+2 Valakut, the Molten Pinnacle
+2 Cinder Glade
+2 Farseek
 2 Search for Tomorrow
 2 Primeval Titan
 3 Scapeshift
@@ -213,6 +213,6 @@
 4 Sakura-Tribe Elder
 4 Primeval Titan
 4 Valakut, the Molten Pinnacle
-4 Farseek
 4 Search for Tomorrow
+4 Farseek
 7 Mountain

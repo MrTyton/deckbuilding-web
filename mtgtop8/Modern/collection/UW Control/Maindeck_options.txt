@@ -27,9 +27,9 @@
 2 Detention Sphere
 2 Logic Knot
 1 Watery Grave
-1 Kaya's Guile
 1 Swamp
 1 Godless Shrine
+1 Kaya's Guile
 2 Polluted Delta
 2 Kaya's Guile
 3 Polluted Delta
@@ -50,14 +50,11 @@
 1 Monastery Mentor
 2 Monastery Mentor
 3 Monastery Mentor
-1 Drowned Catacomb
-1 Esper Charm
-1 Creeping Tar Pit
-2 Watery Grave
-2 Esper Charm
-3 Esper Charm
-3 Kaya's Guile
-4 Esper Charm
+1 Nihil Spellbomb
+2 Nihil Spellbomb
+3 Mana Leak
+3 Nihil Spellbomb
+3 Teferi, Time Raveler
 2 Spell Pierce
 4 Terminus
 1 Hieroglyphic Illumination
@@ -77,8 +74,11 @@
 3 Restoration Angel
 4 Restoration Angel
 4 Celestial Colonnade
-1 Nihil Spellbomb
-2 Nihil Spellbomb
-3 Mana Leak
-3 Nihil Spellbomb
-3 Teferi, Time Raveler
+1 Drowned Catacomb
+1 Esper Charm
+1 Creeping Tar Pit
+2 Watery Grave
+2 Esper Charm
+3 Kaya's Guile
+4 Esper Charm
+3 Esper Charm

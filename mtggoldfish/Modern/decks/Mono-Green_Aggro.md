@@ -29,8 +29,8 @@
 
 |*n*<sup>th</sup> copy|                                        Maindeck Card                                        |*n*<sup>th</sup> copy|                                          Sideboard Card                                           |
 |--------------------:|---------------------------------------------------------------------------------------------|--------------------:|---------------------------------------------------------------------------------------------------|
-|                    1|[Nurturing Peatland](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464192)|                    1|[Relic of Progenitus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174824)     |
-|                    2|[Nurturing Peatland](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464192)|                    2|[Relic of Progenitus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174824)     |
+|                    2|[Nurturing Peatland](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464192)|                    1|[Relic of Progenitus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174824)     |
+|                    1|[Nurturing Peatland](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464192)|                    2|[Relic of Progenitus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174824)     |
 |                     |                                                                                             |                    2|[Force of Vigor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464113)          |
 |                     |                                                                                             |                    2|[Nissa, Voice of Zendikar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417424)|
 |                     |                                                                                             |                    3|[Relic of Progenitus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174824)     |

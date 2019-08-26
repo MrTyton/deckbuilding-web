@@ -26,3 +26,10 @@
 |                                                                                                |                                                                                             |1 [Swords to Plowshares](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=869)|                                                                                                 |                                                                                            |
 |                                                                                                |                                                                                             |3 [Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)   |                                                                                                 |                                                                                            |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                          Maindeck Card                                           |*n*<sup>th</sup> copy|Sideboard Card|
+|--------------------:|--------------------------------------------------------------------------------------------------|---------------------|--------------|
+|                    1|[Jace, the Mind Sculptor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442051)|                     |              |
+

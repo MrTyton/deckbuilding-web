@@ -24,3 +24,24 @@
 |                                                                                             |                                                                                           |2 [Submerge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=21296)            |
 |                                                                                             |                                                                                           |2 [Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                       Maindeck Card                                       |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
+|--------------------:|-------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
+|                    1|[Misty Rainforest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405102)|                    1|[Teferi's Realm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3651)       |
+|                    1|[Academy Ruins](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370424)   |                    1|[Contentious Plan](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460973)   |
+|                    1|Scroll of Fate                                                                             |                    1|[Pithing Needle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129526)     |
+|                    1|[Polluted Delta](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405104)  |                    2|[Contentious Plan](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460973)   |
+|                    1|[Scalding Tarn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405107)   |                    3|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|
+|                    1|[Stratus Dancer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394714)  |                    2|[Echoing Truth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405212)      |
+|                    2|[Misty Rainforest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405102)|                     |                                                                                              |
+|                    2|Scroll of Fate                                                                             |                     |                                                                                              |
+|                    2|[Polluted Delta](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405104)  |                     |                                                                                              |
+|                    2|[Scalding Tarn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405107)   |                     |                                                                                              |
+|                    2|[Stratus Dancer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394714)  |                     |                                                                                              |
+|                    3|[Stratus Dancer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394714)  |                     |                                                                                              |
+|                    3|Scroll of Fate                                                                             |                     |                                                                                              |
+|                    4|Scroll of Fate                                                                             |                     |                                                                                              |
+|                    4|[Stratus Dancer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394714)  |                     |                                                                                              |
+

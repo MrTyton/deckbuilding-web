@@ -1,7 +1,7 @@
 # Eldrazi-Post
 
 #### [Export MTGO List](../collection/Eldrazi-Post/Eldrazi-Post.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=1%09All%20Is%20Dust%0A4%09Ancient%20Tomb%0A2%09Cavern%20of%20Souls%0A4%09Chalice%20of%20the%20Void%0A4%09Cloudpost%0A4%09Eldrazi%20Temple%0A4%09Elvish%20Spirit%20Guide%0A2%09Endbringer%0A4%09Endless%20One%0A4%09Eye%20of%20Ugin%0A3%09Glimmerpost%0A4%09Matter%20Reshaper%0A4%09Reality%20Smasher%0A3%09Sorcerous%20Spyglass%0A2%09Spatial%20Contortion%0A1%09Thespian's%20Stage%0A4%09Thought-Knot%20Seer%0A1%09Ulamog,%20the%20Ceaseless%20Hunger%0A2%09Urborg,%20Tomb%20of%20Yawgmoth%0A2%09Walking%20Ballista%0A1%09Wastes&deckside=1%09All%20Is%20Dust%0A4%09Faerie%20Macabre%0A2%09Mockery%20of%20Nature%0A2%09Oblivion%20Sower%0A1%09Ratchet%20Bomb%0A1%09Sorcerous%20Spyglass%0A4%09Thorn%20of%20Amethyst)
+#### [Print on decklist.org](http://decklist.org/?deckmain=1%09All%20Is%20Dust%0A4%09Ancient%20Tomb%0A2%09Cavern%20of%20Souls%0A4%09Chalice%20of%20the%20Void%0A4%09Cloudpost%0A4%09Eldrazi%20Temple%0A4%09Elvish%20Spirit%20Guide%0A2%09Endbringer%0A4%09Endless%20One%0A4%09Eye%20of%20Ugin%0A3%09Glimmerpost%0A4%09Matter%20Reshaper%0A4%09Reality%20Smasher%0A3%09Sorcerous%20Spyglass%0A2%09Spatial%20Contortion%0A1%09Thespian's%20Stage%0A4%09Thought-Knot%20Seer%0A1%09Ulamog,%20the%20Ceaseless%20Hunger%0A2%09Urborg,%20Tomb%20of%20Yawgmoth%0A2%09Walking%20Ballista%0A1%09Wastes&deckside=1%09All%20Is%20Dust%0A4%09Faerie%20Macabre%0A2%09Mockery%20of%20Nature%0A2%09Oblivion%20Sower%0A1%09Sorcerous%20Spyglass%0A4%09Thorn%20of%20Amethyst%0A1%09Umezawa's%20Jitte)
 # Maindeck
 
 |                                          Artifact (7)                                          |                                              Creature (25)                                              |                                          Instant (2)                                          |                                              Land (25)                                              |                                      Sorcery (1)                                       |
@@ -21,14 +21,14 @@
 
 |                                         Artifact (6)                                          |                                         Creature (8)                                         |                                      Sorcery (1)                                       |
 |-----------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
-|1 [Ratchet Bomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370623)      |4 [Faerie Macabre](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=201822)   |1 [All Is Dust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397750)|
-|1 [Sorcerous Spyglass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435407)|2 [Mockery of Nature](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414299)|                                                                                        |
-|4 [Thorn of Amethyst](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=140166) |2 [Oblivion Sower](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401972)   |                                                                                        |
+|1 [Sorcerous Spyglass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435407)|4 [Faerie Macabre](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=201822)   |1 [All Is Dust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397750)|
+|4 [Thorn of Amethyst](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=140166) |2 [Mockery of Nature](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414299)|                                                                                        |
+|1 [Umezawa's Jitte](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=81979)    |2 [Oblivion Sower](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401972)   |                                                                                        |
 
 
 # Other Options
 
-|*n*<sup>th</sup> copy|Maindeck Card|*n*<sup>th</sup> copy|                                     Sideboard Card                                      |
-|---------------------|-------------|--------------------:|-----------------------------------------------------------------------------------------|
-|                     |             |                    1|[Umezawa's Jitte](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=81979)|
+|*n*<sup>th</sup> copy|Maindeck Card|*n*<sup>th</sup> copy|                                    Sideboard Card                                     |
+|---------------------|-------------|--------------------:|---------------------------------------------------------------------------------------|
+|                     |             |                    1|[Ratchet Bomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370623)|
 
