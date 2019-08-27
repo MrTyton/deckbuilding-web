@@ -11,26 +11,26 @@
 2 Path to Exile
 1 Sacred Foundry
 1 Snow-Covered Island
-1 Ice-Fang Coatl
 1 Arcum's Astrolabe
+1 Ice-Fang Coatl
 1 Snow-Covered Swamp
 1 Prismatic Vista
 2 Prismatic Vista
 2 Ice-Fang Coatl
 2 Arcum's Astrolabe
 3 Ice-Fang Coatl
-3 Arcum's Astrolabe
 3 Prismatic Vista
+3 Arcum's Astrolabe
 4 Ice-Fang Coatl
-4 Arcum's Astrolabe
 4 Prismatic Vista
+4 Arcum's Astrolabe
+1 Scalding Tarn
 1 Felidar Guardian
 1 Saheeli Rai
-1 Scalding Tarn
-2 Felidar Guardian
 2 Saheeli Rai
-3 Saheeli Rai
+2 Felidar Guardian
 3 Felidar Guardian
+3 Saheeli Rai
 4 Felidar Guardian
 4 Saheeli Rai
 2 Lightning Helix
@@ -145,10 +145,10 @@
 1 Bloodbraid Elf
 1 Mana Confluence
 1 Izzet Charm
-1 Abrupt Decay
 1 Kolaghan's Command
 1 Dead of Winter
 1 Thought Erasure
+1 Abrupt Decay
 1 Pillar of the Paruns
 1 Unmoored Ego
 2 Mana Confluence
@@ -232,6 +232,7 @@
 1 Academy Ruins
 1 Welding Jar
 1 Glimmervoid
+1 Darkslick Shores
 1 Pithing Needle
 1 Grafdigger's Cage
 1 Codex Shredder
@@ -244,7 +245,6 @@
 1 Sword of the Meek
 1 Whir of Invention
 1 Pyxis of Pandemonium
-1 Darkslick Shores
 1 Thopter Foundry
 1 Inventors' Fair
 1 Lantern of Insight
@@ -266,8 +266,8 @@
 3 Botanical Sanctum
 3 Glimmervoid
 3 Codex Shredder
-3 Thoughtseize
 3 Assassin's Trophy
+3 Thoughtseize
 3 Ensnaring Bridge
 3 Whir of Invention
 3 Spire of Industry

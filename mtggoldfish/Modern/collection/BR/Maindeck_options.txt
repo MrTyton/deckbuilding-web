@@ -96,8 +96,8 @@
 1 Snow-Covered Mountain
 1 Seasoned Pyromancer
 2 Seasoned Pyromancer
-1 Karn, the Great Creator
 1 Blast Zone
+1 Karn, the Great Creator
 2 Karn, the Great Creator
 3 Karn, the Great Creator
 1 Ensnaring Bridge
@@ -122,6 +122,11 @@
 2 Snow-Covered Mountain
 3 Snow-Covered Mountain
 4 Snow-Covered Mountain
+2 Sunbaked Canyon
+3 Gut Shot
+3 Sunbaked Canyon
+3 Blistercoil Weird
+4 Gut Shot
 1 Mogg Fanatic
 1 Legion Loyalist
 1 Goblin Piledriver
@@ -138,11 +143,6 @@
 3 Goblin Warchief
 3 Ghost Quarter
 4 Ghost Quarter
-2 Sunbaked Canyon
-3 Sunbaked Canyon
-3 Gut Shot
-3 Blistercoil Weird
-4 Gut Shot
 1 Ashiok, Dream Render
 1 Urborg, Tomb of Yawgmoth
 1 Chandra, Torch of Defiance
@@ -159,46 +159,36 @@
 3 Abrade
 3 Blood Moon
 4 Swamp
-1 Field of Ruin
-2 Blast Zone
-1 Mind Stone
-1 Eldrazi Obligator
-1 Serum Powder
-1 Reality Smasher
-1 Shinka, the Bloodsoaked Keep
-1 Ramunap Ruins
-1 Sulfurous Springs
-1 Scavenger Grounds
-1 Eternal Scourge
-1 Warping Wail
-1 Thought-Knot Seer
-1 Eldrazi Temple
-1 Eldrazi Mimic
-2 Serum Powder
-2 Eldrazi Obligator
-2 Eldrazi Mimic
-2 Thought-Knot Seer
-2 Eldrazi Temple
-2 Reality Smasher
-2 Eternal Scourge
-2 Sulfurous Springs
-2 Ramunap Ruins
-3 Thought-Knot Seer
-3 Serum Powder
-3 Eldrazi Temple
-3 Reality Smasher
-3 Eternal Scourge
-3 Ramunap Ruins
-3 Eldrazi Obligator
-3 Eldrazi Mimic
-4 Eldrazi Temple
-4 Thought-Knot Seer
-4 Serum Powder
-4 Eldrazi Mimic
-4 Eldrazi Obligator
-4 Reality Smasher
-4 Eternal Scourge
-4 Ramunap Ruins
+1 Dreadhorde Arcanist
+1 Tasigur, the Golden Fang
+1 Gurmag Angler
+1 Bloodghast
+1 Fatal Push
+1 Unearth
+1 Lightning Skelemental
+1 Flamewake Phoenix
+2 Dreadhorde Arcanist
+2 Gurmag Angler
+2 Bloodghast
+2 Fatal Push
+2 Lightning Skelemental
+2 Flamewake Phoenix
+2 Unearth
+3 Dreadhorde Arcanist
+3 Seasoned Pyromancer
+3 Bloodghast
+3 Thoughtseize
+3 Fatal Push
+3 Flamewake Phoenix
+3 Unearth
+3 Lightning Skelemental
+4 Dreadhorde Arcanist
+4 Bloodghast
+4 Thoughtseize
+4 Fatal Push
+4 Unearth
+4 Seasoned Pyromancer
+4 Lightning Skelemental
 1 Scalding Tarn
 1 Arid Mesa
 1 Goblin Motivator
@@ -217,6 +207,8 @@
 4 Munitions Expert
 4 Mudbutton Torchrunner
 5 Snow-Covered Mountain
+1 Field of Ruin
+2 Blast Zone
 1 Inquisition of Kozilek
 1 Arcum's Astrolabe
 1 Pithing Needle
@@ -252,33 +244,41 @@
 5 Snow-Covered Swamp
 6 Snow-Covered Swamp
 7 Snow-Covered Swamp
-1 Dreadhorde Arcanist
-1 Tasigur, the Golden Fang
-1 Gurmag Angler
-1 Bloodghast
-1 Fatal Push
-1 Unearth
-1 Lightning Skelemental
-1 Flamewake Phoenix
-2 Dreadhorde Arcanist
-2 Gurmag Angler
-2 Bloodghast
-2 Fatal Push
-2 Lightning Skelemental
-2 Flamewake Phoenix
-2 Unearth
-3 Dreadhorde Arcanist
-3 Seasoned Pyromancer
-3 Bloodghast
-3 Thoughtseize
-3 Fatal Push
-3 Flamewake Phoenix
-3 Unearth
-3 Lightning Skelemental
-4 Dreadhorde Arcanist
-4 Bloodghast
-4 Thoughtseize
-4 Fatal Push
-4 Unearth
-4 Seasoned Pyromancer
-4 Lightning Skelemental
+1 Eldrazi Obligator
+1 Reality Smasher
+1 Shinka, the Bloodsoaked Keep
+1 Serum Powder
+1 Ramunap Ruins
+1 Sulfurous Springs
+1 Scavenger Grounds
+1 Eternal Scourge
+1 Warping Wail
+1 Thought-Knot Seer
+1 Mind Stone
+1 Eldrazi Temple
+1 Eldrazi Mimic
+2 Eldrazi Obligator
+2 Eldrazi Mimic
+2 Thought-Knot Seer
+2 Eldrazi Temple
+2 Serum Powder
+2 Reality Smasher
+2 Eternal Scourge
+2 Sulfurous Springs
+2 Ramunap Ruins
+3 Eldrazi Temple
+3 Reality Smasher
+3 Eternal Scourge
+3 Ramunap Ruins
+3 Eldrazi Obligator
+3 Thought-Knot Seer
+3 Eldrazi Mimic
+3 Serum Powder
+4 Eldrazi Mimic
+4 Eldrazi Temple
+4 Eldrazi Obligator
+4 Reality Smasher
+4 Eternal Scourge
+4 Ramunap Ruins
+4 Thought-Knot Seer
+4 Serum Powder

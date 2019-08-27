@@ -32,8 +32,8 @@
 
 |*n*<sup>th</sup> copy|                                         Maindeck Card                                         |*n*<sup>th</sup> copy|                                         Sideboard Card                                          |
 |--------------------:|-----------------------------------------------------------------------------------------------|--------------------:|-------------------------------------------------------------------------------------------------|
-|                    1|[Waterlogged Grove](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464198)   |                    1|[Scavenging Ooze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420783)       |
-|                    1|[Life from the Loam](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=338409)  |                    1|[Force of Vigor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464113)        |
+|                    1|[Life from the Loam](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=338409)  |                    1|[Scavenging Ooze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420783)       |
+|                    1|[Waterlogged Grove](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464198)   |                    1|[Force of Vigor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464113)        |
 |                    2|[Underground Sea](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=886)        |                    1|[Meren of Clan Nel Toth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405297)|
 |                    1|[Jace, Vryn's Prodigy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=398434)|                    2|[Dead of Winter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464034)        |
 |                    1|[Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)        |                    3|[Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)        |
