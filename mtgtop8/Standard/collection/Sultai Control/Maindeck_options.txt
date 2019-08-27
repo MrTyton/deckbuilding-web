@@ -1,16 +1,18 @@
-4 Hydroid Krasis
-1 Temple of Mystery
+1 Hostage Taker
 1 Temple of Malady
 2 Temple of Malady
 1 Island
-3 Cast Down
 1 Massacre Girl
 2 Massacre Girl
+1 Temple of Mystery
+3 Cast Down
+2 Island
 1 Swamp
 1 Risen Reef
 2 Risen Reef
 3 Risen Reef
 4 Risen Reef
+1 Legion's End
 1 Blast Zone
 1 Dismal Backwater
 1 Golgari Guildgate
@@ -23,10 +25,10 @@
 1 Simic Guildgate
 1 Elvish Rejuvenator
 1 Memorial to Genius
-2 Arboreal Grazer
 2 Elvish Rejuvenator
 2 Growth Spiral
 2 Field of the Dead
+2 Arboreal Grazer
 3 Vraska, Golgari Queen
 3 Arboreal Grazer
 3 Growth Spiral
@@ -53,14 +55,12 @@
 4 Thought Erasure
 4 Drowned Catacomb
 4 Cast Down
-2 Island
 2 Disfigure
 1 Vivien Reid
 1 Find / Finality
 1 Interplanar Beacon
 1 Paradise Druid
 2 Paradise Druid
-1 Legion's End
 2 Legion's End
 2 Yarok, the Desecrated
 3 Yarok, the Desecrated
@@ -86,35 +86,35 @@
 4 Healer of the Glade
 1 Sinister Sabotage
 1 Syncopate
-1 Nightpack Ambusher
 1 Spectral Sailor
 1 Brineborn Cutthroat
 1 Essence Scatter
 1 Frilled Mystic
+1 Nightpack Ambusher
 1 Tyrant's Scorn
 1 Opt
 2 Syncopate
 2 Spectral Sailor
-2 Nightpack Ambusher
 2 Essence Scatter
+2 Nightpack Ambusher
 2 Frilled Mystic
 2 Brineborn Cutthroat
 2 Tyrant's Scorn
 2 Sinister Sabotage
 2 Opt
-3 Nightpack Ambusher
 3 Spectral Sailor
+3 Nightpack Ambusher
 3 Frilled Mystic
 3 Brineborn Cutthroat
-3 Sinister Sabotage
 3 Tyrant's Scorn
+3 Sinister Sabotage
 4 Nightpack Ambusher
 4 Frilled Mystic
 4 Hinterland Harbor
 4 Brineborn Cutthroat
 4 Sinister Sabotage
-1 The Eldest Reborn
 1 Chemister's Insight
+1 The Eldest Reborn
 1 Cry of the Carnarium
 1 Duress
 1 Unmoored Ego
@@ -155,3 +155,4 @@
 3 Swamp
 4 Drawn from Dreams
 4 Swamp
+5 Forest
