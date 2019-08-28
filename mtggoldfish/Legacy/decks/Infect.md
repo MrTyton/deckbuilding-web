@@ -73,8 +73,8 @@
 |                     |                                                                                                  |                    1|[Life from the Loam](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=338409)     |
 |                     |                                                                                                  |                    2|[Faerie Macabre](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=201822)         |
 |                     |                                                                                                  |                    2|[Hydroblast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3915)               |
-|                     |                                                                                                  |                    2|[Blue Elemental Blast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=694)      |
 |                     |                                                                                                  |                    2|[Dissenter's Deliverance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426866)|
+|                     |                                                                                                  |                    2|[Blue Elemental Blast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=694)      |
 |                     |                                                                                                  |                    2|[Dismember](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382182)              |
 |                     |                                                                                                  |                    3|[Force of Vigor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464113)         |
 

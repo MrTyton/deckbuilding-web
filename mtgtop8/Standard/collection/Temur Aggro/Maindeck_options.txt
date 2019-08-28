@@ -2,6 +2,7 @@
 1 Sulfur Falls
 2 Living Twister
 4 Hinterland Harbor
+2 Chandra, Awakened Inferno
 1 Creeping Trailblazer
 2 Creeping Trailblazer
 3 Creeping Trailblazer
@@ -9,7 +10,6 @@
 2 Sulfur Falls
 1 Lightning Strike
 2 Lightning Strike
-2 Chandra, Awakened Inferno
 4 Creeping Trailblazer
 2 Mountain
 2 Chandra, Acolyte of Flame
@@ -29,18 +29,38 @@
 1 Incubation Druid
 2 Incubation Druid
 2 Island
-3 Paradise Druid
-3 Lightning Strike
 1 Unclaimed Territory
 1 Chandra's Embercat
 2 Unclaimed Territory
 2 Chandra's Embercat
+3 Paradise Druid
+1 Neoform
+3 Lightning Strike
 1 Thunderkin Awakener
 1 Scampering Scorcher
 2 Thunderkin Awakener
-1 Neoform
+3 Chandra's Embercat
+3 Unclaimed Territory
+4 Unclaimed Territory
+1 Cloudkin Seer
+2 Neoform
+2 Cloudkin Seer
+3 Cloudkin Seer
+3 Neoform
+4 Cloudkin Seer
 1 Vivien Reid
 2 Vivien Reid
+1 Lazotep Plating
+1 Field of the Dead
+1 Healer of the Glade
+1 Banefire
+1 Spark Double
+2 Lazotep Plating
+2 Healer of the Glade
+2 Spark Double
+3 Chandra, Awakened Inferno
+3 Healer of the Glade
+4 Neoform
 4 Lava Coil
 4 Lightning Strike
 4 Paradise Druid
@@ -51,19 +71,10 @@
 3 Sulfur Falls
 3 Overgrowth Elemental
 4 Overgrowth Elemental
-3 Chandra's Embercat
-3 Unclaimed Territory
-4 Unclaimed Territory
 2 Scampering Scorcher
 3 Thunderkin Awakener
 4 Thunderkin Awakener
 1 Cavalier of Gales
-1 Cloudkin Seer
-2 Neoform
-2 Cloudkin Seer
-3 Cloudkin Seer
-3 Neoform
-4 Cloudkin Seer
 1 Chandra, Novice Pyromancer
 1 Domri, Anarch of Bolas
 1 Vine Mare
@@ -78,6 +89,16 @@
 1 Voracious Hydra
 2 Voracious Hydra
 3 Voracious Hydra
+1 Jadelight Ranger
+1 Wildgrowth Walker
+2 Wildgrowth Walker
+2 Jadelight Ranger
+3 Wildgrowth Walker
+3 Jadelight Ranger
+4 Jadelight Ranger
+4 Wildgrowth Walker
+6 Forest
+7 Forest
 1 Dragonskull Summit
 1 Overgrown Tomb
 1 Woodland Cemetery
@@ -89,24 +110,3 @@
 2 Yarok, the Desecrated
 3 Scampering Scorcher
 3 Yarok, the Desecrated
-1 Jadelight Ranger
-1 Wildgrowth Walker
-2 Wildgrowth Walker
-2 Jadelight Ranger
-3 Wildgrowth Walker
-3 Jadelight Ranger
-4 Jadelight Ranger
-4 Wildgrowth Walker
-6 Forest
-7 Forest
-1 Lazotep Plating
-1 Field of the Dead
-1 Healer of the Glade
-1 Banefire
-1 Spark Double
-2 Lazotep Plating
-2 Healer of the Glade
-2 Spark Double
-3 Chandra, Awakened Inferno
-3 Healer of the Glade
-4 Neoform

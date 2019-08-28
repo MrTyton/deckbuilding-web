@@ -14,9 +14,9 @@
 2 Goblin Cratermaker
 1 Volrath's Stronghold
 1 Grenzo, Dungeon Warden
+1 Warren Weirding
 1 Cavern of Souls
 1 Aether Vial
-1 Warren Weirding
 1 Sling-Gang Lieutenant
 1 Goblin Piledriver
 1 Goblin Ringleader
@@ -28,6 +28,7 @@
 1 Swamp
 1 Bloodstained Mire
 1 Badlands
+2 Goblin Chieftain
 2 Cavern of Souls
 2 Aether Vial
 2 Badlands
@@ -35,7 +36,6 @@
 2 Bloodstained Mire
 2 Munitions Expert
 2 Goblin Ringleader
-2 Goblin Chieftain
 3 Aether Vial
 3 Cavern of Souls
 3 Goblin Ringleader
@@ -101,8 +101,8 @@
 1 Chain Lightning
 1 Lightning Bolt
 1 Skewer the Critics
-1 Monastery Swiftspear
 1 Exquisite Firecraft
+1 Monastery Swiftspear
 1 Lava Spike
 1 Eidolon of the Great Revel
 1 Fireblast
