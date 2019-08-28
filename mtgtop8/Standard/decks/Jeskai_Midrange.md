@@ -70,7 +70,7 @@
 |                    3|[Teferi, Time Raveler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461148)         |                     |                                                                                                    |
 |                    3|[Elite Guardmage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461122)              |                     |                                                                                                    |
 |                    3|[Hero of Precinct One](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457155)         |                     |                                                                                                    |
-|                    4|[Empyrean Eagle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466962)               |                     |                                                                                                    |
 |                    4|[Lightning Stormkin](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466967)           |                     |                                                                                                    |
+|                    4|[Empyrean Eagle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466962)               |                     |                                                                                                    |
 |                    4|[Hero of Precinct One](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457155)         |                     |                                                                                                    |
 

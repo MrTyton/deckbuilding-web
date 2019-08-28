@@ -1,5 +1,5 @@
+2 Temple of Epiphany
 1 Sulfur Falls
-3 Lava Coil
 2 Living Twister
 4 Hinterland Harbor
 1 Creeping Trailblazer
@@ -9,6 +9,7 @@
 2 Sulfur Falls
 1 Lightning Strike
 2 Lightning Strike
+2 Chandra, Awakened Inferno
 4 Creeping Trailblazer
 2 Mountain
 2 Chandra, Acolyte of Flame
@@ -16,7 +17,6 @@
 1 Paradise Druid
 2 Paradise Druid
 4 Hydroid Krasis
-2 Chandra, Awakened Inferno
 1 Island
 1 Tamiyo, Collector of Tales
 1 Mass Manipulation
@@ -31,9 +31,14 @@
 2 Island
 3 Paradise Druid
 3 Lightning Strike
+1 Unclaimed Territory
+1 Chandra's Embercat
+2 Unclaimed Territory
+2 Chandra's Embercat
 1 Thunderkin Awakener
 1 Scampering Scorcher
 2 Thunderkin Awakener
+1 Neoform
 1 Vivien Reid
 2 Vivien Reid
 4 Lava Coil
@@ -42,19 +47,24 @@
 5 Forest
 4 Chandra, Acolyte of Flame
 1 Domri's Ambush
-1 Unclaimed Territory
-1 Chandra's Embercat
-2 Unclaimed Territory
 2 Domri's Ambush
-2 Chandra's Embercat
 3 Sulfur Falls
 3 Overgrowth Elemental
 4 Overgrowth Elemental
+3 Chandra's Embercat
+3 Unclaimed Territory
+4 Unclaimed Territory
 2 Scampering Scorcher
 3 Thunderkin Awakener
 4 Thunderkin Awakener
 1 Cavalier of Gales
-1 Neoform
+1 Cloudkin Seer
+2 Neoform
+2 Cloudkin Seer
+3 Cloudkin Seer
+3 Neoform
+4 Cloudkin Seer
+1 Chandra, Novice Pyromancer
 1 Domri, Anarch of Bolas
 1 Vine Mare
 2 Domri, Anarch of Bolas
@@ -68,6 +78,17 @@
 1 Voracious Hydra
 2 Voracious Hydra
 3 Voracious Hydra
+1 Dragonskull Summit
+1 Overgrown Tomb
+1 Woodland Cemetery
+1 Watery Grave
+1 Drowned Catacomb
+1 Yarok, the Desecrated
+2 Overgrown Tomb
+2 Woodland Cemetery
+2 Yarok, the Desecrated
+3 Scampering Scorcher
+3 Yarok, the Desecrated
 1 Jadelight Ranger
 1 Wildgrowth Walker
 2 Wildgrowth Walker
@@ -76,26 +97,16 @@
 3 Jadelight Ranger
 4 Jadelight Ranger
 4 Wildgrowth Walker
-1 Chandra, Novice Pyromancer
-3 Chandra's Embercat
-3 Unclaimed Territory
-4 Unclaimed Territory
-1 Dragonskull Summit
-1 Overgrown Tomb
-1 Woodland Cemetery
-1 Watery Grave
-1 Drowned Catacomb
-1 Yarok, the Desecrated
-1 Cloudkin Seer
-2 Overgrown Tomb
-2 Neoform
-2 Woodland Cemetery
-2 Cloudkin Seer
-2 Yarok, the Desecrated
-3 Cloudkin Seer
-3 Scampering Scorcher
-3 Yarok, the Desecrated
-3 Neoform
-4 Cloudkin Seer
-7 Forest
 6 Forest
+7 Forest
+1 Lazotep Plating
+1 Field of the Dead
+1 Healer of the Glade
+1 Banefire
+1 Spark Double
+2 Lazotep Plating
+2 Healer of the Glade
+2 Spark Double
+3 Chandra, Awakened Inferno
+3 Healer of the Glade
+4 Neoform

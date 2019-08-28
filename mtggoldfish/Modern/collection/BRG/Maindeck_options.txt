@@ -1,5 +1,4 @@
 2 Assassin's Trophy
-1 Marsh Flats
 1 Shenanigans
 1 Insolent Neonate
 1 Carrion Feeder
@@ -8,30 +7,31 @@
 1 Darkblast
 1 Nature's Claim
 1 Unearth
+1 Marsh Flats
 1 Golgari Thug
-1 Polluted Delta
 1 Gravecrawler
 1 Thoughtseize
-1 Satyr Wayfinder
 1 Bloodghast
 1 Stitcher's Supplier
 1 Hogaak, Arisen Necropolis
 1 Vengevine
+1 Polluted Delta
+1 Satyr Wayfinder
 2 Overgrown Tomb
 2 Carrion Feeder
-2 Marsh Flats
 2 Nature's Claim
 2 Lightning Axe
 2 Golgari Thug
-2 Satyr Wayfinder
-2 Bloodghast
 2 Thoughtseize
+2 Bloodghast
 2 Hogaak, Arisen Necropolis
+2 Marsh Flats
 2 Insolent Neonate
 2 Gemstone Mine
 2 Vengevine
 2 Verdant Catacombs
 2 Stitcher's Supplier
+2 Satyr Wayfinder
 2 Gravecrawler
 2 Polluted Delta
 3 Nature's Claim
@@ -50,9 +50,9 @@
 3 Gravecrawler
 4 Bloodghast
 4 Hogaak, Arisen Necropolis
-4 Vengevine
 4 Gravecrawler
 4 Stitcher's Supplier
+4 Vengevine
 3 Bloodstained Mire
 4 Bloodstained Mire
 1 Bloodbraid Elf
@@ -74,68 +74,27 @@
 2 Tarmogoyf
 3 Tarmogoyf
 4 Tarmogoyf
-1 Cavern of Souls
-1 Goblin Chieftain
-1 Krenko, Mob Boss
-1 Goblin Piledriver
-1 Goblin Cratermaker
-1 Warren Weirding
-1 Goblin Ringleader
-1 Munitions Expert
-1 Aether Vial
-1 Goblin Matron
-1 Tarfire
-1 Skirk Prospector
-1 Mogg War Marshal
-1 Goblin Warchief
-1 Auntie's Hovel
-1 Legion Warboss
-1 Sling-Gang Lieutenant
-1 Sunbaked Canyon
-2 Sunbaked Canyon
-2 Cavern of Souls
-2 Tarfire
-2 Goblin Matron
-2 Munitions Expert
-2 Goblin Ringleader
-2 Sling-Gang Lieutenant
-2 Aether Vial
-2 Auntie's Hovel
-2 Legion Warboss
-3 Sunbaked Canyon
-3 Tarfire
-3 Goblin Matron
-3 Auntie's Hovel
-3 Goblin Ringleader
-3 Munitions Expert
-3 Aether Vial
-4 Aether Vial
-4 Tarfire
-4 Munitions Expert
-4 Auntie's Hovel
-4 Goblin Matron
-4 Goblin Ringleader
 1 Nurturing Peatland
 1 Legion's End
 1 Seasoned Pyromancer
 1 Scavenging Ooze
 1 Kitchen Finks
 1 Angrath's Rampage
+1 Wrenn and Six
 1 Abrupt Decay
 1 Inquisition of Kozilek
 1 Kolaghan's Command
 1 Blooming Marsh
 1 Raging Ravine
-1 Wrenn and Six
 2 Angrath's Rampage
-2 Abrupt Decay
 2 Fatal Push
 2 Plague Engineer
 2 Kolaghan's Command
 2 Kitchen Finks
+2 Abrupt Decay
+2 Wrenn and Six
 2 Seasoned Pyromancer
 2 Blooming Marsh
-2 Wrenn and Six
 2 Raging Ravine
 2 Scavenging Ooze
 2 Inquisition of Kozilek
@@ -146,6 +105,47 @@
 3 Blooming Marsh
 4 Bloodbraid Elf
 4 Inquisition of Kozilek
+1 Cavern of Souls
+1 Goblin Cratermaker
+1 Warren Weirding
+1 Goblin Ringleader
+1 Munitions Expert
+1 Aether Vial
+1 Goblin Matron
+1 Tarfire
+1 Krenko, Mob Boss
+1 Skirk Prospector
+1 Mogg War Marshal
+1 Goblin Warchief
+1 Goblin Chieftain
+1 Auntie's Hovel
+1 Legion Warboss
+1 Goblin Piledriver
+1 Sling-Gang Lieutenant
+1 Sunbaked Canyon
+2 Sunbaked Canyon
+2 Cavern of Souls
+2 Tarfire
+2 Sling-Gang Lieutenant
+2 Goblin Matron
+2 Goblin Ringleader
+2 Munitions Expert
+2 Auntie's Hovel
+2 Legion Warboss
+2 Aether Vial
+3 Sunbaked Canyon
+3 Tarfire
+3 Auntie's Hovel
+3 Goblin Ringleader
+3 Munitions Expert
+3 Aether Vial
+3 Goblin Matron
+4 Aether Vial
+4 Tarfire
+4 Munitions Expert
+4 Auntie's Hovel
+4 Goblin Ringleader
+4 Goblin Matron
 1 Sheltered Thicket
 1 Magmatic Sinkhole
 1 Through the Breach
@@ -169,10 +169,10 @@
 1 Blistercoil Weird
 1 Gut Shot
 1 Mutagenic Growth
-1 Kiln Fiend
 1 Lava Spike
 1 Soul-Scar Mage
 1 Temur Battle Rage
+1 Kiln Fiend
 1 Fiery Islet
 1 Become Immense
 2 Fiery Islet
@@ -187,30 +187,30 @@
 3 Temur Battle Rage
 3 Lava Spike
 3 Monastery Swiftspear
-3 Kiln Fiend
 3 Become Immense
+3 Kiln Fiend
 3 Soul-Scar Mage
 3 Lava Dart
 4 Temur Battle Rage
 4 Mutagenic Growth
+4 Soul-Scar Mage
 4 Monastery Swiftspear
 4 Lava Spike
 4 Kiln Fiend
-4 Soul-Scar Mage
 1 Fiery Temper
 1 Dragonskull Summit
-1 Surgical Extraction
-1 Burning Inquiry
-1 Arclight Phoenix
 1 Arid Mesa
-1 Flameblade Adept
+1 Surgical Extraction
+1 Arclight Phoenix
 1 Finale of Promise
+1 Burning Inquiry
 1 Hollow One
+1 Flameblade Adept
 1 Goblin Lore
 2 Fiery Temper
 2 Surgical Extraction
-2 Arclight Phoenix
 2 Goblin Lore
+2 Arclight Phoenix
 2 Arid Mesa
 2 Hollow One
 2 Flameblade Adept
@@ -220,9 +220,9 @@
 3 Arclight Phoenix
 3 Goblin Lore
 3 Hollow One
+4 Hollow One
 4 Flameblade Adept
 4 Goblin Lore
-4 Hollow One
 4 Burning Inquiry
 4 Arclight Phoenix
 1 Sweltering Suns
@@ -231,8 +231,8 @@
 1 Obstinate Baloth
 2 Obstinate Baloth
 2 Scapeshift
-3 Scapeshift
-3 Cinder Glade
 3 Forest
+3 Cinder Glade
+3 Scapeshift
 4 Farseek
 7 Mountain

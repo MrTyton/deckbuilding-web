@@ -9,24 +9,24 @@
 3 Syncopate
 2 Blink of an Eye
 1 Llanowar Elves
-1 Voracious Hydra
 1 Nissa, Who Shakes the World
+1 Voracious Hydra
 1 Hydroid Krasis
 1 Paradise Druid
 2 Llanowar Elves
-2 Voracious Hydra
 2 Paradise Druid
+2 Voracious Hydra
 2 Hydroid Krasis
 2 Nissa, Who Shakes the World
 3 Llanowar Elves
-3 Paradise Druid
-3 Nissa, Who Shakes the World
 3 Voracious Hydra
 3 Hydroid Krasis
+3 Paradise Druid
+3 Nissa, Who Shakes the World
 4 Llanowar Elves
-4 Paradise Druid
-4 Nissa, Who Shakes the World
 4 Hydroid Krasis
+4 Nissa, Who Shakes the World
+4 Paradise Druid
 7 Forest
 8 Forest
 1 Lookout's Dispersal
@@ -59,13 +59,6 @@
 3 Incubation Druid
 3 Vivien, Champion of the Wilds
 4 Incubation Druid
-1 Cavalier of Thorns
-1 Cloudkin Seer
-1 Mass Manipulation
-2 Mass Manipulation
-2 Cloudkin Seer
-3 Cloudkin Seer
-4 Voracious Hydra
 4 Syncopate
 1 Gargos, Vicious Watcher
 1 Tamiyo, Collector of Tales
@@ -90,3 +83,10 @@
 3 Drowned Catacomb
 4 Drowned Catacomb
 4 Watery Grave
+1 Cloudkin Seer
+1 Cavalier of Thorns
+1 Mass Manipulation
+2 Cloudkin Seer
+2 Mass Manipulation
+3 Cloudkin Seer
+4 Voracious Hydra

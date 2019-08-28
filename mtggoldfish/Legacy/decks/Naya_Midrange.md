@@ -37,7 +37,7 @@
 
 |*n*<sup>th</sup> copy|                                          Maindeck Card                                           |*n*<sup>th</sup> copy|                                       Sideboard Card                                        |
 |--------------------:|--------------------------------------------------------------------------------------------------|--------------------:|---------------------------------------------------------------------------------------------|
-|                    1|[Azusa, Lost but Seeking](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442150)|                    2|[Council's Judgment](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382239)|
-|                    1|[Bojuka Bog](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376269)             |                     |                                                                                             |
+|                    1|[Bojuka Bog](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376269)             |                    2|[Council's Judgment](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382239)|
+|                    1|[Azusa, Lost but Seeking](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442150)|                     |                                                                                             |
 |                    4|[Knight of the Reliquary](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=189145)|                     |                                                                                             |
 

@@ -3,50 +3,6 @@
 2 Aether Vial
 3 Aether Vial
 4 Aether Vial
-1 Bayou
-1 Verdant Catacombs
-1 Winter Orb
-1 Leovold, Emissary of Trest
-1 Windswept Heath
-1 Giver of Runes
-1 Fauna Shaman
-1 Qasali Pridemage
-1 Palace Jailer
-1 Lavinia, Azorius Renegade
-1 Phyrexian Revoker
-1 Dryad Arbor
-1 Merieke Ri Berit
-1 Murkfiend Liege
-1 Tireless Tracker
-1 Vendilion Clique
-1 Peacekeeper
-1 Rhox War Monk
-1 Meren of Clan Nel Toth
-1 Wooded Foothills
-1 Tradewind Rider
-1 Quirion Ranger
-1 Birds of Paradise
-1 Squee, Goblin Nabob
-1 Scryb Ranger
-1 Scavenging Ooze
-1 Green Sun's Zenith
-1 Forest
-1 Lazav, the Multifarious
-2 Bayou
-2 Giver of Runes
-2 Birds of Paradise
-2 Savannah
-2 Green Sun's Zenith
-2 Forest
-2 Verdant Catacombs
-2 Tropical Island
-2 Fauna Shaman
-3 Giver of Runes
-3 Birds of Paradise
-3 Fauna Shaman
-4 Giver of Runes
-4 Birds of Paradise
-4 Fauna Shaman
 1 Spell Pierce
 1 Standstill
 1 Force Spike
@@ -58,12 +14,12 @@
 1 Galerider Sliver
 1 Sinew Sliver
 1 Flooded Strand
-1 Cloudshredder Sliver
 1 Sliver Hive
 1 Predatory Sliver
 1 Crystalline Sliver
 1 Tundra
 1 Volcanic Island
+1 Cloudshredder Sliver
 1 Plains
 1 Swords to Plowshares
 2 Standstill
@@ -72,11 +28,11 @@
 2 Phantasmal Image
 2 Sinew Sliver
 2 Swords to Plowshares
+2 Flooded Strand
 2 Tundra
 2 Predatory Sliver
 2 Crystalline Sliver
 2 Cloudshredder Sliver
-2 Flooded Strand
 2 Galerider Sliver
 3 Cloudshredder Sliver
 3 Misty Rainforest
@@ -90,12 +46,56 @@
 3 Crystalline Sliver
 4 Mutavault
 4 Flooded Strand
+4 Cloudshredder Sliver
 4 Standstill
 4 Crystalline Sliver
 4 Sinew Sliver
 4 Predatory Sliver
 4 Galerider Sliver
-4 Cloudshredder Sliver
+1 Bayou
+1 Verdant Catacombs
+1 Winter Orb
+1 Leovold, Emissary of Trest
+1 Windswept Heath
+1 Giver of Runes
+1 Fauna Shaman
+1 Qasali Pridemage
+1 Palace Jailer
+1 Lavinia, Azorius Renegade
+1 Phyrexian Revoker
+1 Dryad Arbor
+1 Squee, Goblin Nabob
+1 Merieke Ri Berit
+1 Murkfiend Liege
+1 Tireless Tracker
+1 Vendilion Clique
+1 Peacekeeper
+1 Rhox War Monk
+1 Meren of Clan Nel Toth
+1 Wooded Foothills
+1 Tradewind Rider
+1 Quirion Ranger
+1 Birds of Paradise
+1 Scryb Ranger
+1 Scavenging Ooze
+1 Green Sun's Zenith
+1 Forest
+1 Lazav, the Multifarious
+2 Giver of Runes
+2 Bayou
+2 Birds of Paradise
+2 Savannah
+2 Green Sun's Zenith
+2 Forest
+2 Verdant Catacombs
+2 Tropical Island
+2 Fauna Shaman
+3 Giver of Runes
+3 Birds of Paradise
+3 Fauna Shaman
+4 Giver of Runes
+4 Birds of Paradise
+4 Fauna Shaman
 1 Inquisition of Kozilek
 1 Swamp
 1 Intuition

@@ -5,57 +5,57 @@
 1 Scalding Tarn
 1 Steam Vents
 2 Scalding Tarn
-1 Snow-Covered Island
 1 Stomping Ground
+1 Snow-Covered Island
 1 Tarmogoyf
-1 Jace, the Mind Sculptor
+1 Misty Rainforest
 1 Breeding Pool
 1 Magmatic Sinkhole
-1 Misty Rainforest
 1 Wrenn and Six
-2 Jace, the Mind Sculptor
+1 Jace, the Mind Sculptor
 2 Snow-Covered Island
-2 Misty Rainforest
 2 Tarmogoyf
+2 Misty Rainforest
+2 Jace, the Mind Sculptor
 3 Snow-Covered Island
-3 Misty Rainforest
 3 Tarmogoyf
+3 Misty Rainforest
 4 Snow-Covered Island
 4 Misty Rainforest
 4 Lightning Bolt
 1 Opt
-2 Steam Vents
 2 Opt
+2 Steam Vents
 3 Opt
 4 Opt
 1 Ancestral Vision
 1 Izzet Charm
-1 Cascade Bluffs
 1 Fiery Islet
+1 Crashing Footfalls
+1 As Foretold
+1 Cascade Bluffs
 1 Waterlogged Grove
+1 Dreadhorde Arcanist
 1 Bloodbraid Elf
 1 Electrodominance
-1 Crashing Footfalls
-1 Dreadhorde Arcanist
-1 As Foretold
 2 Izzet Charm
-2 Bloodbraid Elf
-2 Breeding Pool
-2 Electrodominance
-2 Ancestral Vision
-2 Magmatic Sinkhole
 2 Crashing Footfalls
 2 As Foretold
+2 Breeding Pool
+2 Magmatic Sinkhole
+2 Electrodominance
+2 Bloodbraid Elf
+2 Ancestral Vision
 2 Dreadhorde Arcanist
-3 Electrodominance
-3 Ancestral Vision
-3 Crashing Footfalls
-3 Dreadhorde Arcanist
-3 Scalding Tarn
 3 As Foretold
+3 Crashing Footfalls
+3 Electrodominance
+3 Dreadhorde Arcanist
+3 Ancestral Vision
+3 Scalding Tarn
 4 Dreadhorde Arcanist
-4 Tarmogoyf
 4 Crashing Footfalls
+4 Tarmogoyf
 4 Scalding Tarn
 1 Cryptic Command
 2 Cryptic Command
@@ -71,21 +71,21 @@
 2 Inquisition of Kozilek
 3 Inquisition of Kozilek
 1 Watery Grave
-1 Bloodstained Mire
 1 Polluted Delta
-1 Island
 1 Swamp
+1 Island
+1 Bloodstained Mire
 2 Polluted Delta
 2 Watery Grave
 2 Island
 3 Polluted Delta
 4 Polluted Delta
-1 Fatal Push
 1 Collective Brutality
+1 Fatal Push
 1 Thoughtseize
-2 Fatal Push
-2 Thoughtseize
 2 Collective Brutality
+2 Thoughtseize
+2 Fatal Push
 3 Thoughtseize
 1 Darkslick Shores
 1 Dakmor Salvage
@@ -93,8 +93,8 @@
 1 Force of Despair
 1 Hero's Downfall
 1 Field of Ruin
-1 Bojuka Bog
 1 Creeping Tar Pit
+1 Bojuka Bog
 1 Damnation
 1 Vendilion Clique
 1 Nihil Spellbomb
@@ -103,32 +103,32 @@
 1 Zur's Weirding
 1 Liliana of the Veil
 2 Vendilion Clique
+2 Darkslick Shores
 2 Field of Ruin
+2 Swamp
 2 Creeping Tar Pit
 2 Nihil Spellbomb
 2 Damnation
 2 Ensnaring Bridge
 2 Zur's Weirding
-2 Darkslick Shores
 2 Bojuka Bog
-2 Swamp
 2 Liliana of the Veil
-3 Fatal Push
-3 Creeping Tar Pit
 3 Darkslick Shores
-3 Zur's Weirding
 3 Swamp
+3 Creeping Tar Pit
+3 Zur's Weirding
+3 Fatal Push
 4 Zur's Weirding
 1 Blood Crypt
 1 Rakdos Charm
+1 Hallowed Fountain
 1 Muddle the Mixture
-1 Trespasser's Curse
 1 Batwing Brume
+1 Trespasser's Curse
 1 Remand
 1 Darkness
 1 Forbidden Orchard
 1 Mission Briefing
-1 Hallowed Fountain
 1 Hunted Phantasm
 1 Pongify
 1 Sunken Ruins
@@ -157,12 +157,12 @@
 4 Trespasser's Curse
 1 Blood Moon
 2 Blood Moon
-1 Ice-Fang Coatl
 1 Prismatic Vista
+1 Ice-Fang Coatl
 1 Huntmaster of the Fells
-1 Flame Slash
 1 Pulse of Murasa
 1 Force of Negation
+1 Flame Slash
 1 Mana Leak
 1 Spell Snare
 1 Jace, Vryn's Prodigy
@@ -170,55 +170,55 @@
 2 Ice-Fang Coatl
 2 Prismatic Vista
 2 Force of Negation
-2 Huntmaster of the Fells
 2 Mana Leak
+2 Huntmaster of the Fells
 2 Lonely Sandbar
 2 Wrenn and Six
-3 Prismatic Vista
 3 Ice-Fang Coatl
+3 Prismatic Vista
 4 Ice-Fang Coatl
 5 Snow-Covered Island
 1 Legion Warboss
-1 Snow-Covered Swamp
 1 Chandra, Acolyte of Flame
 1 Dreadbore
 1 Goblin Rabblemaster
 1 Kolaghan's Command
 1 Unearth
 1 Faithless Looting
+1 Snow-Covered Swamp
 2 Legion Warboss
-2 Snow-Covered Swamp
 2 Dreadbore
 2 Chandra, Acolyte of Flame
-2 Goblin Rabblemaster
 2 Kolaghan's Command
+2 Goblin Rabblemaster
 2 Blood Crypt
 2 Snow-Covered Mountain
 2 Faithless Looting
 2 Unearth
-3 Snow-Covered Swamp
+2 Snow-Covered Swamp
 3 Legion Warboss
 3 Blood Moon
 3 Chandra, Acolyte of Flame
 3 Goblin Rabblemaster
 3 Snow-Covered Mountain
 3 Faithless Looting
+3 Snow-Covered Swamp
 3 Blood Crypt
-4 Snow-Covered Swamp
 4 Snow-Covered Mountain
 4 Legion Warboss
 4 Blood Crypt
 4 Goblin Rabblemaster
+4 Snow-Covered Swamp
 4 Faithless Looting
 4 Blood Moon
-5 Snow-Covered Swamp
 5 Snow-Covered Mountain
-6 Snow-Covered Swamp
+5 Snow-Covered Swamp
 6 Snow-Covered Mountain
-7 Snow-Covered Swamp
+6 Snow-Covered Swamp
 7 Snow-Covered Mountain
-8 Snow-Covered Swamp
+7 Snow-Covered Swamp
 8 Snow-Covered Mountain
+8 Snow-Covered Swamp
 9 Snow-Covered Swamp
 10 Snow-Covered Swamp
 1 Forest
@@ -240,8 +240,8 @@
 17 Forest
 18 Forest
 1 Thrun, the Last Troll
-1 Acidic Slime
 1 Windswept Heath
+1 Acidic Slime
 1 Ohran Viper
 2 Acidic Slime
 2 Ohran Viper

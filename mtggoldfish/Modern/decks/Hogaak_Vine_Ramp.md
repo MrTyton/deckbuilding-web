@@ -48,6 +48,6 @@
 |                    2|[Blood Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=97102)       |                     |                                                                                            |
 |                    2|[Faithless Looting](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389512)|                     |                                                                                            |
 |                    3|[Faithless Looting](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389512)|                     |                                                                                            |
-|                    4|[Faithless Looting](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389512)|                     |                                                                                            |
 |                    4|[Bloodghast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438648)       |                     |                                                                                            |
+|                    4|[Faithless Looting](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389512)|                     |                                                                                            |
 
