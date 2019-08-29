@@ -1,39 +1,28 @@
-3 Courser of Kruphix
-3 Crested Sunmare
-3 Eldritch Evolution
-3 Kitchen Finks
-4 Kitchen Finks
-4 Birds of Paradise
-4 Plains
-4 Eldritch Evolution
-1 Ranger-Captain of Eos
-1 Tectonic Edge
-2 Ranger-Captain of Eos
-1 Bojuka Bog
-1 Knight of the Reliquary
-2 Knight of the Reliquary
-3 Knight of the Reliquary
-4 Knight of the Reliquary
+1 Forest
+2 Forest
+1 Ghost Quarter
 1 Snow-Covered Forest
 1 Field of the Dead
 1 Flagstones of Trokair
 1 Khalni Garden
 1 Engineered Explosives
 1 Elvish Reclaimer
+1 Bojuka Bog
 1 Simic Growth Chamber
 1 Kabira Crossroads
 1 Vesuva
 1 Boros Garrison
+1 Breeding Pool
 1 Amulet of Vigor
 1 Sunhome, Fortress of the Legion
 1 Primeval Titan
 1 Summoner's Pact
-1 Breeding Pool
 1 Selesnya Sanctuary
 1 Tolaria West
+1 Knight of the Reliquary
 1 Slayers' Stronghold
-1 Gruul Turf
 1 Azusa, Lost but Seeking
+1 Gruul Turf
 2 Elvish Reclaimer
 2 Flagstones of Trokair
 2 Amulet of Vigor
@@ -42,23 +31,31 @@
 2 Simic Growth Chamber
 2 Azusa, Lost but Seeking
 2 Tolaria West
+2 Knight of the Reliquary
 2 Primeval Titan
 3 Selesnya Sanctuary
 3 Summoner's Pact
 3 Primeval Titan
 3 Azusa, Lost but Seeking
+3 Knight of the Reliquary
 3 Amulet of Vigor
 3 Flagstones of Trokair
 3 Elvish Reclaimer
-4 Selesnya Sanctuary
 4 Summoner's Pact
+4 Selesnya Sanctuary
 4 Azusa, Lost but Seeking
+4 Knight of the Reliquary
 4 Elvish Reclaimer
 4 Primeval Titan
 4 Amulet of Vigor
 4 Flagstones of Trokair
+1 Giver of Runes
+1 Razorverge Thicket
+2 Giver of Runes
 2 Razorverge Thicket
+3 Giver of Runes
 3 Razorverge Thicket
+4 Giver of Runes
 4 Razorverge Thicket
 1 Restoration Angel
 1 Leonin Arbiter
@@ -68,7 +65,10 @@
 1 Aether Vial
 1 Thalia, Guardian of Thraben
 1 Stirring Wildwood
+1 Ranger-Captain of Eos
+1 Tectonic Edge
 2 Ghost Quarter
+2 Ranger-Captain of Eos
 2 Leonin Arbiter
 2 Qasali Pridemage
 2 Tectonic Edge
@@ -90,32 +90,6 @@
 4 Aether Vial
 4 Flickerwisp
 4 Scavenging Ooze
-1 Field of Ruin
-1 Walking Ballista
-1 Eternal Witness
-1 Knight of Autumn
-2 Field of Ruin
-1 Duskwatch Recruiter
-1 Vizier of Remedies
-1 Collected Company
-1 Tireless Tracker
-1 Devoted Druid
-1 Finale of Devastation
-2 Collected Company
-2 Devoted Druid
-2 Tireless Tracker
-2 Vizier of Remedies
-2 Finale of Devastation
-3 Forest
-3 Finale of Devastation
-3 Collected Company
-3 Vizier of Remedies
-3 Devoted Druid
-4 Forest
-4 Vizier of Remedies
-4 Devoted Druid
-4 Finale of Devastation
-4 Collected Company
 1 Mana Tithe
 2 Mana Tithe
 1 Pendelhaven
@@ -132,11 +106,11 @@
 2 Scale Up
 2 Rancor
 2 Inkmoth Nexus
-2 Vines of Vastwood
 2 Pendelhaven
 2 Mutagenic Growth
 2 Ichorclaw Myr
 2 Blossoming Defense
+2 Vines of Vastwood
 2 Might of Old Krosa
 2 Glistener Elf
 3 Mutagenic Growth
@@ -154,18 +128,23 @@
 4 Vines of Vastwood
 4 Mutagenic Growth
 1 Snow-Covered Plains
+1 Field of Ruin
 1 Ramunap Excavator
 1 Utopia Sprawl
 1 Runed Halo
 1 Primal Command
+1 Walking Ballista
+1 Eternal Witness
 1 Arbor Elf
 1 Ghostly Prison
 1 Hornet Queen
 1 Mwonvuli Acid-Moss
+1 Knight of Autumn
 2 Mwonvuli Acid-Moss
 2 Utopia Sprawl
 2 Arbor Elf
 2 Primal Command
+2 Field of Ruin
 2 Runed Halo
 2 Eternal Witness
 2 Ghostly Prison
@@ -173,17 +152,17 @@
 3 Primal Command
 3 Field of Ruin
 3 Ghostly Prison
-3 Eternal Witness
+3 Arbor Elf
 3 Runed Halo
 3 Mwonvuli Acid-Moss
+3 Eternal Witness
 3 Snow-Covered Forest
-3 Arbor Elf
 3 Mana Tithe
 3 Utopia Sprawl
-4 Mana Tithe
 4 Snow-Covered Forest
 4 Mwonvuli Acid-Moss
 4 Utopia Sprawl
+4 Mana Tithe
 4 Primal Command
 4 Field of Ruin
 4 Arbor Elf
