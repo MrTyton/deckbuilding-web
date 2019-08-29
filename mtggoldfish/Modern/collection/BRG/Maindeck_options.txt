@@ -1,66 +1,34 @@
-2 Assassin's Trophy
-1 Shenanigans
-1 Insolent Neonate
-1 Carrion Feeder
-1 Gemstone Mine
-1 Lightning Axe
-1 Darkblast
-1 Nature's Claim
-1 Unearth
-1 Marsh Flats
-1 Golgari Thug
-1 Gravecrawler
-1 Thoughtseize
-1 Bloodghast
-1 Stitcher's Supplier
-1 Hogaak, Arisen Necropolis
-1 Vengevine
-1 Polluted Delta
-1 Satyr Wayfinder
-2 Overgrown Tomb
-2 Carrion Feeder
-2 Insolent Neonate
-2 Nature's Claim
-2 Lightning Axe
-2 Golgari Thug
-2 Thoughtseize
-2 Bloodghast
-2 Hogaak, Arisen Necropolis
-2 Marsh Flats
-2 Gemstone Mine
-2 Vengevine
-2 Verdant Catacombs
-2 Stitcher's Supplier
-2 Satyr Wayfinder
-2 Gravecrawler
-2 Polluted Delta
-3 Insolent Neonate
-3 Nature's Claim
-3 Hogaak, Arisen Necropolis
-3 Bloodghast
-3 Polluted Delta
 3 Vengevine
 3 Carrion Feeder
 3 Blackcleave Cliffs
 3 Satyr Wayfinder
 3 Golgari Thug
+3 Bloodghast
 3 Thoughtseize
-3 Stitcher's Supplier
 3 Lightning Axe
+3 Stitcher's Supplier
 3 Gravecrawler
 4 Bloodghast
 4 Hogaak, Arisen Necropolis
+4 Vengevine
 4 Gravecrawler
 4 Stitcher's Supplier
-4 Vengevine
-3 Bloodstained Mire
-4 Bloodstained Mire
-1 Bloodbraid Elf
-2 Bloodbraid Elf
-3 Bloodbraid Elf
+1 Stomping Ground
+1 Mountain
+1 Lightning Bolt
 2 Lightning Bolt
 3 Lightning Bolt
+3 Bloodstained Mire
+4 Bloodstained Mire
 4 Lightning Bolt
+2 Stomping Ground
+2 Mountain
+3 Mountain
+4 Mountain
+5 Mountain
+1 Wooded Foothills
+2 Wooded Foothills
+3 Wooded Foothills
 1 Lava Dart
 1 Manamorphose
 1 Bedlam Reveler
@@ -70,31 +38,34 @@
 2 Monastery Swiftspear
 3 Manamorphose
 4 Manamorphose
-1 Tarmogoyf
-2 Tarmogoyf
-3 Tarmogoyf
-4 Tarmogoyf
+1 Bloodbraid Elf
+1 Forest
+2 Forest
+2 Bloodbraid Elf
+3 Bloodbraid Elf
 1 Nurturing Peatland
 1 Legion's End
 1 Seasoned Pyromancer
 1 Scavenging Ooze
+1 Wrenn and Six
 1 Kitchen Finks
 1 Angrath's Rampage
-1 Wrenn and Six
 1 Abrupt Decay
 1 Inquisition of Kozilek
 1 Kolaghan's Command
+1 Tarmogoyf
 1 Blooming Marsh
 1 Raging Ravine
 2 Angrath's Rampage
+2 Abrupt Decay
 2 Fatal Push
 2 Plague Engineer
+2 Wrenn and Six
 2 Kolaghan's Command
 2 Kitchen Finks
-2 Abrupt Decay
-2 Wrenn and Six
 2 Seasoned Pyromancer
 2 Blooming Marsh
+2 Tarmogoyf
 2 Raging Ravine
 2 Scavenging Ooze
 2 Inquisition of Kozilek
@@ -102,77 +73,20 @@
 3 Kitchen Finks
 3 Scavenging Ooze
 3 Inquisition of Kozilek
+3 Tarmogoyf
 3 Blooming Marsh
 4 Bloodbraid Elf
+4 Tarmogoyf
 4 Inquisition of Kozilek
-1 Cavern of Souls
-1 Goblin Cratermaker
-1 Warren Weirding
-1 Goblin Ringleader
-1 Munitions Expert
-1 Aether Vial
-1 Goblin Matron
-1 Tarfire
-1 Krenko, Mob Boss
-1 Skirk Prospector
-1 Mogg War Marshal
-1 Goblin Warchief
-1 Goblin Chieftain
-1 Auntie's Hovel
-1 Legion Warboss
-1 Goblin Piledriver
-1 Sling-Gang Lieutenant
-1 Sunbaked Canyon
-2 Sunbaked Canyon
-2 Cavern of Souls
-2 Tarfire
-2 Sling-Gang Lieutenant
-2 Goblin Matron
-2 Goblin Ringleader
-2 Munitions Expert
-2 Auntie's Hovel
-2 Legion Warboss
-2 Aether Vial
-3 Sunbaked Canyon
-3 Tarfire
-3 Auntie's Hovel
-3 Goblin Ringleader
-3 Munitions Expert
-3 Aether Vial
-3 Goblin Matron
-4 Aether Vial
-4 Tarfire
-4 Munitions Expert
-4 Auntie's Hovel
-4 Goblin Ringleader
-4 Goblin Matron
-1 Sheltered Thicket
-1 Magmatic Sinkhole
-1 Through the Breach
-1 Simian Spirit Guide
-1 Windswept Heath
-1 Misty Rainforest
-1 Chalice of the Void
-2 Anger of the Gods
-2 Summoner's Pact
-2 Simian Spirit Guide
-2 Through the Breach
-2 Chalice of the Void
-3 Chalice of the Void
-3 Through the Breach
-3 Summoner's Pact
-3 Simian Spirit Guide
-4 Through the Breach
-4 Chalice of the Void
-4 Stomping Ground
-4 Simian Spirit Guide
+4 Wooded Foothills
+6 Mountain
 1 Blistercoil Weird
 1 Gut Shot
 1 Mutagenic Growth
+1 Kiln Fiend
 1 Lava Spike
 1 Soul-Scar Mage
 1 Temur Battle Rage
-1 Kiln Fiend
 1 Fiery Islet
 1 Become Immense
 2 Fiery Islet
@@ -187,52 +101,77 @@
 3 Temur Battle Rage
 3 Lava Spike
 3 Monastery Swiftspear
-3 Become Immense
 3 Kiln Fiend
+3 Become Immense
 3 Soul-Scar Mage
 3 Lava Dart
 4 Temur Battle Rage
 4 Mutagenic Growth
-4 Soul-Scar Mage
 4 Monastery Swiftspear
 4 Lava Spike
 4 Kiln Fiend
+4 Soul-Scar Mage
 1 Fiery Temper
 1 Dragonskull Summit
-1 Arid Mesa
 1 Surgical Extraction
+1 Flameblade Adept
+1 Hollow One
+1 Burning Inquiry
+1 Goblin Lore
 1 Arclight Phoenix
 1 Finale of Promise
-1 Burning Inquiry
-1 Hollow One
-1 Flameblade Adept
-1 Goblin Lore
+1 Arid Mesa
 2 Fiery Temper
 2 Surgical Extraction
+2 Flameblade Adept
+2 Hollow One
+2 Burning Inquiry
 2 Goblin Lore
 2 Arclight Phoenix
 2 Arid Mesa
-2 Hollow One
-2 Flameblade Adept
-2 Burning Inquiry
+3 Hollow One
+3 Goblin Lore
 3 Flameblade Adept
 3 Burning Inquiry
 3 Arclight Phoenix
-3 Goblin Lore
-3 Hollow One
 4 Hollow One
 4 Flameblade Adept
 4 Goblin Lore
 4 Burning Inquiry
 4 Arclight Phoenix
 1 Sweltering Suns
+1 Anger of the Gods
 1 Acidic Slime
+1 Summoner's Pact
+1 Scapeshift
 1 Prismatic Omen
 1 Obstinate Baloth
-2 Obstinate Baloth
+1 Search for Tomorrow
+1 Sakura-Tribe Elder
+1 Primeval Titan
+1 Valakut, the Molten Pinnacle
+1 Cinder Glade
+1 Farseek
 2 Scapeshift
-3 Forest
-3 Cinder Glade
+2 Sakura-Tribe Elder
+2 Valakut, the Molten Pinnacle
+2 Cinder Glade
+2 Farseek
+2 Obstinate Baloth
+2 Search for Tomorrow
+2 Primeval Titan
 3 Scapeshift
+3 Search for Tomorrow
+3 Valakut, the Molten Pinnacle
+3 Cinder Glade
+3 Forest
+3 Farseek
+3 Primeval Titan
+3 Stomping Ground
+3 Sakura-Tribe Elder
+4 Sakura-Tribe Elder
+4 Primeval Titan
+4 Valakut, the Molten Pinnacle
+4 Search for Tomorrow
 4 Farseek
 7 Mountain

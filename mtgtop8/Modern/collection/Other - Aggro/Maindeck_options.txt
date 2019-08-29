@@ -12,9 +12,9 @@
 1 Wooded Foothills
 1 Polluted Delta
 1 Gurmag Angler
+2 Gurmag Angler
 2 Reckless Charge
 2 Young Pyromancer
-2 Gurmag Angler
 3 Snow-Covered Swamp
 3 Young Pyromancer
 4 Dreadhorde Arcanist
@@ -28,36 +28,36 @@
 1 Risen Reef
 1 Mountain
 2 Flamekin Harbinger
-2 Unclaimed Territory
 2 Risen Reef
+2 Unclaimed Territory
 3 Flamekin Harbinger
-3 Unclaimed Territory
 3 Risen Reef
+3 Unclaimed Territory
+4 Risen Reef
 4 Flamekin Harbinger
 4 Unclaimed Territory
-4 Risen Reef
 1 Forest
 1 Finale of Devastation
-1 Shivan Reef
 1 Vivien, Champion of the Wilds
-1 Vivien's Arkbow
 1 Chandra, Acolyte of Flame
+1 Vivien's Arkbow
 1 Craterhoof Behemoth
 1 Smokebraider
 1 Vesperlark
 1 Copperline Gorge
 1 Omnath, Locus of Rage
 1 Lumbering Falls
+1 Shivan Reef
 1 Scampering Scorcher
 1 Sacred Foundry
 1 Stomping Ground
 2 Stomping Ground
-2 Shivan Reef
 2 Chandra, Acolyte of Flame
 2 Vivien's Arkbow
 2 Smokebraider
 2 Mountain
 2 Copperline Gorge
+2 Shivan Reef
 2 Scampering Scorcher
 2 Sacred Foundry
 2 Vesperlark
@@ -137,9 +137,9 @@
 1 Flamekin Village
 1 Nova Chaser
 1 Lightning Stormkin
+2 Voice of Resurgence
 2 Cavern of Souls
 2 Fiery Islet
-2 Voice of Resurgence
 2 Incandescent Soulstoke
 2 Ancient Ziggurat
 2 Unsettled Mariner
@@ -151,15 +151,15 @@
 3 Lightning Stormkin
 3 Incandescent Soulstoke
 4 Unsettled Mariner
-4 Cavern of Souls
 4 Voice of Resurgence
+4 Cavern of Souls
 4 Ancient Ziggurat
 4 Incandescent Soulstoke
 4 Lightning Stormkin
 1 Oath of Nissa
+1 Karn, the Great Creator
 1 Arbor Elf
 1 Utopia Sprawl
-1 Karn, the Great Creator
 1 Eladamri's Call
 1 Breeding Pool
 1 Vizier of Remedies
@@ -198,8 +198,8 @@
 4 Snow-Covered Forest
 4 Arbor Elf
 4 Utopia Sprawl
-4 Misty Rainforest
 4 Oath of Nissa
+4 Misty Rainforest
 4 Vizier of Remedies
 4 Eladamri's Call
 4 Windswept Heath
@@ -269,8 +269,8 @@
 1 Force of Negation
 2 Mana Leak
 2 Pteramander
-2 Curious Obsession
 2 Spellstutter Sprite
+2 Curious Obsession
 2 Vapor Snag
 2 Ninja of the Deep Hours
 2 Archmage's Charm
@@ -280,20 +280,20 @@
 2 Island
 2 Spell Pierce
 2 Faerie Seer
+3 Vapor Snag
 3 Disrupting Shoal
 3 Force of Negation
 3 Spell Pierce
 3 Curious Obsession
 3 Spellstutter Sprite
-3 Vapor Snag
 3 Faerie Seer
 3 Ninja of the Deep Hours
 3 Island
 3 Mausoleum Wanderer
 4 Vapor Snag
-4 Island
 4 Curious Obsession
 4 Force of Negation
+4 Island
 4 Spellstutter Sprite
 4 Faerie Seer
 4 Mausoleum Wanderer

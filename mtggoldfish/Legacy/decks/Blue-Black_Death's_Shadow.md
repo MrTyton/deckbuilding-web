@@ -47,7 +47,7 @@
 |                    4|[Bloodstained Mire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405094)|                    1|[Submerge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=21296)                |
 |                     |                                                                                            |                    1|[Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452)      |
 |                     |                                                                                            |                    2|[Submerge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=21296)                |
-|                     |                                                                                            |                    2|[Blue Elemental Blast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=694)      |
 |                     |                                                                                            |                    2|[Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452)      |
+|                     |                                                                                            |                    2|[Blue Elemental Blast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=694)      |
 |                     |                                                                                            |                    2|[Liliana, the Last Hope](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414388) |
 

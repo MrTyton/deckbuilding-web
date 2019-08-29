@@ -27,8 +27,14 @@
 
 # Other Options
 
-|*n*<sup>th</sup> copy|                                       Maindeck Card                                        |*n*<sup>th</sup> copy|Sideboard Card|
-|--------------------:|--------------------------------------------------------------------------------------------|---------------------|--------------|
-|                    1|[The Eldest Reborn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442978)|                     |              |
-|                    2|[The Eldest Reborn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442978)|                     |              |
+|*n*<sup>th</sup> copy|                                       Maindeck Card                                        |*n*<sup>th</sup> copy|                                       Sideboard Card                                       |
+|--------------------:|--------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------|
+|                    1|[The Eldest Reborn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442978)|                    1|[Cast Down](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442969)        |
+|                    2|[The Eldest Reborn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442978)|                    1|[Loaming Shaman](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405286)   |
+|                     |                                                                                            |                    1|[Shifting Ceratops](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466948)|
+|                     |                                                                                            |                    1|[Forced Landing](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461088)   |
+|                     |                                                                                            |                    2|[Loaming Shaman](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405286)   |
+|                     |                                                                                            |                    2|[Shifting Ceratops](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466948)|
+|                     |                                                                                            |                    2|[Cast Down](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442969)        |
+|                     |                                                                                            |                    3|[Loaming Shaman](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405286)   |
 

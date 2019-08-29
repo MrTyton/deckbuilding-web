@@ -2,18 +2,11 @@
 3 Merrow Witsniper
 3 Harbinger of the Tides
 3 Spreading Seas
-4 Benthic Biomancer
 4 Spreading Seas
 4 Harbinger of the Tides
+4 Benthic Biomancer
 1 Walking Ballista
 2 Walking Ballista
-1 Cyclonic Rift
-1 Field of Ruin
-1 Remand
-1 Snapcaster Mage
-2 Remand
-3 Remand
-4 Remand
 1 Karn, the Great Creator
 1 Commit/Memory
 1 Supreme Will
@@ -30,17 +23,22 @@
 1 Chalice of the Void
 1 Ugin, the Spirit Dragon
 1 Watery Grave
-1 Condescend
+1 Cyclonic Rift
 1 Expedition Map
 1 Gemstone Caverns
-1 Urza's Mine
 1 Thirst for Knowledge
+1 Field of Ruin
 1 Urza's Tower
+1 Urza's Mine
 1 Tolaria West
+1 Remand
 1 Urza's Power Plant
 1 Repeal
+1 Condescend
+1 Snapcaster Mage
 2 Karn, the Great Creator
 2 Supreme Will
+2 Remand
 2 Urza's Mine
 2 Expedition Map
 2 Condescend
@@ -48,12 +46,14 @@
 2 Urza's Power Plant
 2 Thirst for Knowledge
 2 Urza's Tower
+3 Remand
 3 Urza's Tower
 3 Condescend
-3 Expedition Map
 3 Urza's Power Plant
+3 Expedition Map
 3 Urza's Mine
 3 Thirst for Knowledge
+4 Remand
 4 Expedition Map
 4 Condescend
 4 Urza's Tower
@@ -64,12 +64,12 @@
 1 Master of Etherium
 1 Thorn of Amethyst
 1 Lodestone Golem
+1 Vault Skirge
 1 Chief Engineer
 1 Signal Pest
 1 Mox Opal
 1 Arcbound Ravager
 1 Blinkmoth Nexus
-1 Vault Skirge
 1 Ornithopter
 1 Etherium Sculptor
 2 Darksteel Citadel
@@ -108,54 +108,3 @@
 4 Vault Skirge
 4 Mox Opal
 4 Walking Ballista
-1 Minamo, School at Water's Edge
-1 Warping Wail
-1 Piracy Charm
-1 Cryptic Command
-1 Dismember
-1 Stubborn Denial
-1 Island
-1 Reality Smasher
-1 Thought-Knot Seer
-1 Spatial Contortion
-1 Opt
-1 Vendilion Clique
-1 Vapor Snag
-1 Eldrazi Temple
-1 Spell Snare
-1 Eldrazi Skyspawner
-1 Underground River
-2 Vapor Snag
-2 Cryptic Command
-2 Stubborn Denial
-2 Reality Smasher
-2 Field of Ruin
-2 Thought-Knot Seer
-2 Spell Snare
-2 Island
-2 Underground River
-2 Opt
-2 Eldrazi Skyspawner
-2 Eldrazi Temple
-3 Vapor Snag
-3 Thought-Knot Seer
-3 Field of Ruin
-3 Eldrazi Skyspawner
-3 Eldrazi Temple
-3 Underground River
-3 Reality Smasher
-3 Opt
-3 Island
-3 Spell Snare
-4 Thought-Knot Seer
-4 Underground River
-4 Island
-4 Eldrazi Skyspawner
-4 Eldrazi Temple
-4 Opt
-5 Island
-6 Island
-7 Island
-8 Island
-9 Island
-10 Island
