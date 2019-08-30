@@ -1,6 +1,6 @@
+1 Unsettled Mariner
 1 Ancient Ziggurat
 1 Smokebraider
-1 Flickerwisp
 1 Aether Vial
 1 Flamekin Harbinger
 1 Cavern of Souls
@@ -12,13 +12,13 @@
 2 Unclaimed Territory
 2 Voice of Resurgence
 2 Thunderkin Awakener
-2 Primal Beyond
 2 Aether Vial
 2 Ancient Ziggurat
 2 Phantasmal Image
 2 Risen Reef
 2 Unsettled Mariner
 2 Flamekin Harbinger
+2 Primal Beyond
 2 Lightning Skelemental
 3 Phantasmal Image
 3 Cavern of Souls
@@ -31,7 +31,6 @@
 3 Aether Vial
 3 Thunderkin Awakener
 3 Unclaimed Territory
-4 Cavern of Souls
 4 Phantasmal Image
 4 Lightning Skelemental
 4 Primal Beyond
@@ -41,45 +40,10 @@
 4 Risen Reef
 4 Ancient Ziggurat
 4 Voice of Resurgence
+4 Cavern of Souls
 1 Snow-Covered Forest
 1 Snow-Covered Island
-1 Snow-Covered Plains
-1 Lightning Helix
-1 Snow-Covered Mountain
-1 Path to Exile
-2 Path to Exile
-2 Lightning Helix
-3 Path to Exile
-4 Path to Exile
-1 Arcum's Astrolabe
-1 Narset, Parter of Veils
-1 Flooded Strand
-1 Ice-Fang Coatl
-1 Hallowed Fountain
-1 Prismatic Vista
-2 Snow-Covered Plains
-2 Snow-Covered Island
-2 Arcum's Astrolabe
-2 Narset, Parter of Veils
-2 Prismatic Vista
-2 Ice-Fang Coatl
-2 Flooded Strand
-3 Snow-Covered Island
-3 Prismatic Vista
-3 Flooded Strand
-3 Arcum's Astrolabe
-3 Ice-Fang Coatl
-4 Prismatic Vista
-4 Ice-Fang Coatl
-4 Arcum's Astrolabe
 4 Birds of Paradise
-1 Wrenn and Six
-2 Wrenn and Six
-3 Wrenn and Six
-1 Lightning Bolt
-2 Lightning Bolt
-3 Lightning Bolt
-3 Lightning Helix
 1 Copperline Gorge
 1 Fulminator Mage
 1 Shriekmaw
@@ -88,88 +52,102 @@
 2 Copperline Gorge
 1 Eternal Witness
 1 Remand
-2 Chancellor of the Annex
 2 Remand
+2 Chancellor of the Annex
 3 Remand
 4 Remand
+1 Spirebluff Canal
+2 Flickerwisp
+2 Smokebraider
+3 Smokebraider
+3 Flickerwisp
+3 Unsettled Mariner
+4 Unsettled Mariner
+4 Smokebraider
+4 Thunderkin Awakener
+1 Snow-Covered Plains
+1 Wrenn and Six
+1 Lightning Helix
+1 Snow-Covered Mountain
+1 Path to Exile
+2 Path to Exile
+2 Wrenn and Six
+2 Lightning Helix
+3 Path to Exile
+3 Wrenn and Six
+4 Path to Exile
 1 Horizon Canopy
 1 Misty Rainforest
 1 Tireless Tracker
 1 Emrakul, the Aeons Torn
 1 Kessig Wolf Run
-1 Nahiri, the Harbinger
 1 Unified Will
+1 Nahiri, the Harbinger
 1 Ghost Quarter
-1 Noble Hierarch
 1 Scavenging Ooze
+1 Noble Hierarch
+1 Lightning Bolt
 1 Knight of the Reliquary
 2 Tireless Tracker
 2 Nahiri, the Harbinger
-2 Noble Hierarch
 2 Unified Will
+2 Scavenging Ooze
 2 Windswept Heath
+2 Noble Hierarch
 2 Ghost Quarter
 2 Misty Rainforest
 2 Knight of the Reliquary
-2 Scavenging Ooze
+2 Lightning Bolt
 2 Snow-Covered Forest
 3 Tireless Tracker
 3 Nahiri, the Harbinger
 3 Unified Will
+3 Lightning Bolt
 3 Scavenging Ooze
+3 Lightning Helix
 3 Misty Rainforest
 3 Knight of the Reliquary
 3 Windswept Heath
 4 Wrenn and Six
 4 Scavenging Ooze
-4 Windswept Heath
 4 Nahiri, the Harbinger
+4 Windswept Heath
+1 Arcum's Astrolabe
 1 Snow-Covered Swamp
+1 Narset, Parter of Veils
 1 Force of Negation
 1 Delay
 1 Serum Visions
+1 Flooded Strand
+1 Ice-Fang Coatl
+1 Hallowed Fountain
+1 Prismatic Vista
 1 Lonely Sandbar
+2 Snow-Covered Plains
+2 Snow-Covered Island
 2 Force of Negation
+2 Arcum's Astrolabe
 2 Delay
+2 Narset, Parter of Veils
+2 Prismatic Vista
+2 Ice-Fang Coatl
+2 Flooded Strand
 2 Serum Visions
+3 Snow-Covered Island
+3 Prismatic Vista
+3 Arcum's Astrolabe
+3 Flooded Strand
 3 Delay
 3 Serum Visions
+3 Ice-Fang Coatl
+4 Arcum's Astrolabe
+4 Ice-Fang Coatl
 4 Serum Visions
 4 Delay
-1 Spirebluff Canal
-2 Smokebraider
-2 Flickerwisp
-3 Smokebraider
-3 Unsettled Mariner
-3 Flickerwisp
-4 Unsettled Mariner
-4 Smokebraider
-4 Thunderkin Awakener
+4 Prismatic Vista
 1 Niv-Mizzet Reborn
 1 Growth Spiral
 2 Growth Spiral
 3 Growth Spiral
 4 Deceiver Exarch
 4 Growth Spiral
-1 Mantis Rider
-1 Spellstutter Sprite
-1 Forked Bolt
-1 Vendilion Clique
-1 Snapcaster Mage
-2 Snow-Covered Mountain
-2 Mantis Rider
-2 Spellstutter Sprite
-2 Vendilion Clique
-2 Forked Bolt
-2 Snapcaster Mage
-3 Mantis Rider
-3 Spellstutter Sprite
-4 Lightning Helix
-4 Snow-Covered Island
-4 Mantis Rider
-4 Lightning Bolt
-4 Spellstutter Sprite
-4 Flooded Strand
-5 Snow-Covered Island
-6 Snow-Covered Island
-7 Snow-Covered Island
