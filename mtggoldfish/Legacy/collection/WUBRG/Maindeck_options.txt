@@ -35,10 +35,10 @@
 2 Cloudshredder Sliver
 2 Galerider Sliver
 3 Cloudshredder Sliver
+3 Misty Rainforest
 3 Flooded Strand
 3 Standstill
 3 Mutavault
-3 Misty Rainforest
 3 Galerider Sliver
 3 Sinew Sliver
 3 Swords to Plowshares
@@ -52,8 +52,10 @@
 4 Sinew Sliver
 4 Predatory Sliver
 4 Galerider Sliver
+1 Bayou
 1 Verdant Catacombs
 1 Winter Orb
+1 Leovold, Emissary of Trest
 1 Windswept Heath
 1 Giver of Runes
 1 Qasali Pridemage
@@ -62,10 +64,8 @@
 1 Phyrexian Revoker
 1 Dryad Arbor
 1 Squee, Goblin Nabob
-1 Bayou
 1 Merieke Ri Berit
 1 Murkfiend Liege
-1 Leovold, Emissary of Trest
 1 Tireless Tracker
 1 Vendilion Clique
 1 Peacekeeper
@@ -82,12 +82,12 @@
 1 Forest
 1 Lazav, the Multifarious
 2 Giver of Runes
+2 Bayou
 2 Birds of Paradise
 2 Savannah
 2 Green Sun's Zenith
 2 Forest
 2 Verdant Catacombs
-2 Bayou
 2 Tropical Island
 2 Fauna Shaman
 3 Giver of Runes

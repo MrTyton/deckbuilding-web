@@ -3,21 +3,21 @@
 1 Flickerwisp
 1 Aether Vial
 1 Flamekin Harbinger
+1 Cavern of Souls
 1 Vesperlark
 1 Primal Beyond
 1 Omnath, Locus of the Roil
-1 Phantasmal Image
 1 Thunderkin Awakener
 2 Cavern of Souls
 2 Unclaimed Territory
 2 Voice of Resurgence
+2 Thunderkin Awakener
 2 Primal Beyond
 2 Aether Vial
 2 Ancient Ziggurat
 2 Phantasmal Image
 2 Risen Reef
 2 Unsettled Mariner
-2 Thunderkin Awakener
 2 Flamekin Harbinger
 2 Lightning Skelemental
 3 Phantasmal Image
@@ -43,34 +43,34 @@
 4 Voice of Resurgence
 1 Snow-Covered Forest
 1 Snow-Covered Island
-1 Snow-Covered Mountain
 1 Snow-Covered Plains
 1 Lightning Helix
+1 Snow-Covered Mountain
 1 Path to Exile
 2 Path to Exile
 2 Lightning Helix
 3 Path to Exile
 4 Path to Exile
 1 Arcum's Astrolabe
-1 Ice-Fang Coatl
 1 Narset, Parter of Veils
 1 Flooded Strand
+1 Ice-Fang Coatl
 1 Hallowed Fountain
 1 Prismatic Vista
-2 Prismatic Vista
-2 Ice-Fang Coatl
+2 Snow-Covered Plains
 2 Snow-Covered Island
 2 Arcum's Astrolabe
 2 Narset, Parter of Veils
+2 Prismatic Vista
+2 Ice-Fang Coatl
 2 Flooded Strand
-2 Snow-Covered Plains
-3 Ice-Fang Coatl
-3 Flooded Strand
 3 Snow-Covered Island
 3 Prismatic Vista
+3 Flooded Strand
 3 Arcum's Astrolabe
-4 Ice-Fang Coatl
+3 Ice-Fang Coatl
 4 Prismatic Vista
+4 Ice-Fang Coatl
 4 Arcum's Astrolabe
 4 Birds of Paradise
 1 Wrenn and Six
@@ -80,10 +80,10 @@
 2 Lightning Bolt
 3 Lightning Bolt
 3 Lightning Helix
-1 Waterlogged Grove
 1 Copperline Gorge
 1 Fulminator Mage
 1 Shriekmaw
+1 Waterlogged Grove
 1 Creeping Trailblazer
 2 Copperline Gorge
 1 Eternal Witness
@@ -92,43 +92,43 @@
 2 Remand
 3 Remand
 4 Remand
+1 Horizon Canopy
 1 Misty Rainforest
 1 Tireless Tracker
 1 Emrakul, the Aeons Torn
 1 Kessig Wolf Run
 1 Nahiri, the Harbinger
+1 Unified Will
 1 Ghost Quarter
 1 Noble Hierarch
-1 Unified Will
-1 Horizon Canopy
 1 Scavenging Ooze
 1 Knight of the Reliquary
-2 Misty Rainforest
 2 Tireless Tracker
 2 Nahiri, the Harbinger
 2 Noble Hierarch
 2 Unified Will
 2 Windswept Heath
 2 Ghost Quarter
+2 Misty Rainforest
 2 Knight of the Reliquary
 2 Scavenging Ooze
 2 Snow-Covered Forest
-3 Misty Rainforest
 3 Tireless Tracker
 3 Nahiri, the Harbinger
 3 Unified Will
 3 Scavenging Ooze
+3 Misty Rainforest
 3 Knight of the Reliquary
 3 Windswept Heath
 4 Wrenn and Six
 4 Scavenging Ooze
 4 Windswept Heath
 4 Nahiri, the Harbinger
+1 Snow-Covered Swamp
 1 Force of Negation
-1 Lonely Sandbar
 1 Delay
 1 Serum Visions
-1 Snow-Covered Swamp
+1 Lonely Sandbar
 2 Force of Negation
 2 Delay
 2 Serum Visions
@@ -139,8 +139,8 @@
 1 Spirebluff Canal
 2 Smokebraider
 2 Flickerwisp
-3 Unsettled Mariner
 3 Smokebraider
+3 Unsettled Mariner
 3 Flickerwisp
 4 Unsettled Mariner
 4 Smokebraider
@@ -153,8 +153,8 @@
 4 Growth Spiral
 1 Mantis Rider
 1 Spellstutter Sprite
-1 Vendilion Clique
 1 Forked Bolt
+1 Vendilion Clique
 1 Snapcaster Mage
 2 Snow-Covered Mountain
 2 Mantis Rider
@@ -171,5 +171,5 @@
 4 Spellstutter Sprite
 4 Flooded Strand
 5 Snow-Covered Island
-7 Snow-Covered Island
 6 Snow-Covered Island
+7 Snow-Covered Island

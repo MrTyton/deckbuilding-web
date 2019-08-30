@@ -3,16 +3,13 @@
 2 Dragonskull Summit
 2 Collective Brutality
 2 Arid Mesa
-1 Scalding Tarn
-4 Inquisition of Kozilek
-4 Snow-Covered Mountain
 1 Prismatic Vista
 1 Goblin Bushwhacker
 1 Reckless Charge
 1 Sunbaked Canyon
+1 Wooded Foothills
 1 Rakdos Charm
 1 Hazoret the Fervent
-1 Wooded Foothills
 1 Polluted Delta
 1 Gurmag Angler
 2 Gurmag Angler
@@ -20,8 +17,11 @@
 2 Young Pyromancer
 3 Snow-Covered Swamp
 3 Young Pyromancer
-4 Young Pyromancer
 4 Dreadhorde Arcanist
+4 Young Pyromancer
+1 Scalding Tarn
+4 Inquisition of Kozilek
+4 Snow-Covered Mountain
 1 Unclaimed Territory
 1 Omnath, Locus of the Roil
 1 Flamekin Harbinger
@@ -44,18 +44,18 @@
 1 Craterhoof Behemoth
 1 Vesperlark
 1 Smokebraider
+1 Stomping Ground
 1 Copperline Gorge
 1 Omnath, Locus of Rage
 1 Lumbering Falls
 1 Shivan Reef
 1 Scampering Scorcher
 1 Sacred Foundry
-1 Stomping Ground
 2 Stomping Ground
 2 Chandra, Acolyte of Flame
 2 Vivien's Arkbow
-2 Smokebraider
 2 Mountain
+2 Smokebraider
 2 Copperline Gorge
 2 Shivan Reef
 2 Scampering Scorcher
@@ -156,6 +156,8 @@
 4 Ancient Ziggurat
 4 Incandescent Soulstoke
 4 Lightning Stormkin
+1 Misty Rainforest
+1 Tireless Tracker
 1 Oath of Nissa
 1 Arbor Elf
 1 Karn, the Great Creator
@@ -166,9 +168,8 @@
 1 Teferi, Time Raveler
 1 Walking Ballista
 1 Waterlogged Grove
-1 Tireless Tracker
 1 Devoted Druid
-1 Misty Rainforest
+2 Misty Rainforest
 2 Oath of Nissa
 2 Snow-Covered Forest
 2 Arbor Elf
@@ -177,13 +178,13 @@
 2 Karn, the Great Creator
 2 Eladamri's Call
 2 Finale of Devastation
-2 Misty Rainforest
 2 Devoted Druid
 2 Teferi, Time Raveler
 2 Breeding Pool
 2 Temple Garden
 2 Vizier of Remedies
 3 Oath of Nissa
+3 Misty Rainforest
 3 Snow-Covered Forest
 3 Arbor Elf
 3 Utopia Sprawl
@@ -193,7 +194,6 @@
 3 Vizier of Remedies
 3 Devoted Druid
 3 Finale of Devastation
-3 Misty Rainforest
 4 Snow-Covered Forest
 4 Windswept Heath
 4 Oath of Nissa
@@ -258,6 +258,7 @@
 1 Pteramander
 1 Spellstutter Sprite
 1 Curious Obsession
+1 Force of Negation
 1 Vapor Snag
 1 Spell Pierce
 1 Faerie Seer
@@ -266,7 +267,6 @@
 1 Mausoleum Wanderer
 1 Disrupting Shoal
 1 Archmage's Charm
-1 Force of Negation
 2 Mana Leak
 2 Pteramander
 2 Spellstutter Sprite
@@ -292,12 +292,12 @@
 3 Mausoleum Wanderer
 4 Vapor Snag
 4 Curious Obsession
-4 Island
 4 Force of Negation
 4 Spellstutter Sprite
 4 Faerie Seer
 4 Mausoleum Wanderer
 4 Disrupting Shoal
+4 Island
 4 Ninja of the Deep Hours
 5 Island
 6 Island

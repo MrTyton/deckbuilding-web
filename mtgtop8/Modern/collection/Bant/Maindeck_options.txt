@@ -1,25 +1,25 @@
-1 Snow-Covered Island
 1 Snow-Covered Plains
+1 Snow-Covered Island
 1 Snow-Covered Forest
 1 Prismatic Vista
 1 Ice-Fang Coatl
-2 Snow-Covered Plains
-2 Snow-Covered Island
-2 Snow-Covered Forest
 2 Ice-Fang Coatl
 2 Prismatic Vista
+2 Snow-Covered Forest
+2 Snow-Covered Island
+2 Snow-Covered Plains
 2 Path to Exile
-3 Prismatic Vista
 3 Ice-Fang Coatl
-3 Misty Rainforest
+3 Prismatic Vista
 3 Path to Exile
+3 Misty Rainforest
 4 Ice-Fang Coatl
 4 Misty Rainforest
 1 Soulherder
+1 Flooded Strand
 1 Ephemerate
 1 Coiling Oracle
 1 Wall of Blossoms
-1 Flooded Strand
 2 Ephemerate
 2 Soulherder
 2 Coiling Oracle
@@ -37,8 +37,8 @@
 3 Snow-Covered Forest
 3 Noble Hierarch
 4 Noble Hierarch
-1 Force of Negation
 1 Jace, the Mind Sculptor
+1 Force of Negation
 2 Force of Negation
 4 Path to Exile
 1 Tireless Tracker
@@ -61,8 +61,8 @@
 1 Deputy of Detention
 2 Prairie Stream
 2 Deputy of Detention
-2 Watcher for Tomorrow
 2 Flooded Strand
+2 Watcher for Tomorrow
 3 Force of Negation
 3 Wall of Blossoms
 4 Ephemerate
@@ -79,10 +79,10 @@
 1 Tarmogoyf
 1 Spell Queller
 1 Scavenging Ooze
-2 Jace, the Mind Sculptor
 2 Knight of the Reliquary
 2 Vendilion Clique
 2 Tarmogoyf
+2 Jace, the Mind Sculptor
 2 Scavenging Ooze
 2 Spell Queller
 2 Serum Visions

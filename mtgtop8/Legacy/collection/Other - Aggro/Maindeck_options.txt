@@ -1,6 +1,7 @@
 1 Marsh Flats
 1 Phyrexian Tower
 1 Plateau
+1 Rix Maadi Reveler
 1 Plains
 1 Mountain
 1 Humility
@@ -10,7 +11,6 @@
 1 Grave Pact
 1 Bloodstained Mire
 1 Karakas
-1 Rix Maadi Reveler
 1 Scrubland
 1 Badlands
 1 Lingering Souls
@@ -23,6 +23,7 @@
 2 Scrubland
 2 Bloodghast
 2 Plains
+2 Rix Maadi Reveler
 2 Karakas
 2 Cabal Therapy
 2 Norin the Wary
@@ -33,7 +34,6 @@
 2 Lingering Souls
 2 Humility
 2 Daretti, Ingenious Iconoclast
-2 Rix Maadi Reveler
 2 Faithless Looting
 2 Priest of Forgotten Gods
 3 Cabal Therapy
@@ -63,10 +63,10 @@
 1 Jace, Vryn's Prodigy
 1 Wasteland
 1 Tropical Island
-1 Shardless Agent
-1 Ancestral Vision
 1 Dack Fayden
 1 Taiga
+1 Ancestral Vision
+1 Shardless Agent
 1 Tarmogoyf
 1 Wrenn and Six
 1 Lightning Bolt
@@ -78,8 +78,8 @@
 2 Jace, Vryn's Prodigy
 2 Wasteland
 2 Misty Rainforest
-2 Shardless Agent
 2 Ancestral Vision
+2 Shardless Agent
 2 Tarmogoyf
 2 Wrenn and Six
 2 Lightning Bolt
@@ -87,17 +87,17 @@
 3 Dreadhorde Arcanist
 3 Snow-Covered Island
 3 Misty Rainforest
-3 Shardless Agent
-3 Ancestral Vision
 3 Wrenn and Six
 3 Lightning Bolt
 3 Scalding Tarn
+3 Ancestral Vision
+3 Shardless Agent
 3 Tarmogoyf
 3 Ice-Fang Coatl
 4 Scalding Tarn
 4 Dreadhorde Arcanist
 4 Misty Rainforest
-4 Shardless Agent
 4 Ice-Fang Coatl
+4 Shardless Agent
 4 Tarmogoyf
 4 Lightning Bolt
