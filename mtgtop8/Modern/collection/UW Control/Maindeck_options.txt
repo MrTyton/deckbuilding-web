@@ -7,10 +7,10 @@
 1 Wall of Omens
 1 Prismatic Vista
 1 Blast Zone
-1 Snow-Covered Island
 1 Snow-Covered Plains
-2 Snow-Covered Plains
+1 Snow-Covered Island
 2 Snow-Covered Island
+2 Snow-Covered Plains
 3 Snow-Covered Island
 4 Snow-Covered Island
 5 Snow-Covered Island
@@ -28,8 +28,8 @@
 1 Dovin's Veto
 1 Fact or Fiction
 2 Logic Knot
-1 Watery Grave
 1 Swamp
+1 Watery Grave
 1 Kaya's Guile
 2 Polluted Delta
 2 Kaya's Guile
@@ -48,6 +48,19 @@
 1 Monastery Mentor
 2 Monastery Mentor
 3 Monastery Mentor
+1 Nihil Spellbomb
+1 Winds of Abandon
+1 Godless Shrine
+2 Nihil Spellbomb
+3 Nihil Spellbomb
+3 Teferi, Time Raveler
+1 Terminus
+2 Terminus
+3 Terminus
+4 Terminus
+2 Serum Visions
+3 Serum Visions
+4 Serum Visions
 1 Drowned Catacomb
 1 Esper Charm
 2 Drowned Catacomb
@@ -57,19 +70,6 @@
 3 Kaya's Guile
 3 Drowned Catacomb
 3 Logic Knot
-4 Cryptic Command
 4 Esper Charm
 4 Drowned Catacomb
-1 Terminus
-2 Terminus
-3 Terminus
-4 Terminus
-2 Serum Visions
-3 Serum Visions
-4 Serum Visions
-1 Nihil Spellbomb
-1 Winds of Abandon
-1 Godless Shrine
-2 Nihil Spellbomb
-3 Nihil Spellbomb
-3 Teferi, Time Raveler
+4 Cryptic Command
