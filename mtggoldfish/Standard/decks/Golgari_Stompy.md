@@ -1,0 +1,40 @@
+# Golgari Stompy
+
+#### [Export MTGO List](../collection/Golgari%20Stompy/Golgari%20Stompy.txt)
+#### [Export Arena List](../collection/Golgari%20Stompy/Golgari%20Stompy_arena.txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=13%09Forest%0A3%09Jadelight%20Ranger%0A3%09Legion's%20End%0A4%09Llanowar%20Elves%0A4%09Merfolk%20Branchwalker%0A4%09Nissa,%20Who%20Shakes%20the%20World%0A4%09Overgrown%20Tomb%0A4%09Paradise%20Druid%0A4%09Steel%20Leaf%20Champion%0A2%09Temple%20of%20Malady%0A2%09Vine%20Mare%0A4%09Vivien,%20Arkbow%20Ranger%0A3%09Voracious%20Hydra%0A2%09Vraska,%20Golgari%20Queen%0A4%09Woodland%20Cemetery&deckside=2%09Ashiok,%20Dream%20Render%0A4%09Assassin's%20Trophy%0A4%09Duress%0A1%09Legion's%20End%0A2%09Noxious%20Grasp%0A2%09Veil%20of%20Summer)
+# Maindeck
+
+|                                          Creature (24)                                          |                                          Land (23)                                           |                                           Planeswalker (10)                                            |                                       Sorcery (3)                                       |
+|-------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
+|3 [Jadelight Ranger](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439793)    |13 [Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)          |4 [Nissa, Who Shakes the World](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461096)|3 [Legion's End](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466860)|
+|4 [Llanowar Elves](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129626)      |4 [Overgrown Tomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405103)   |4 [Vivien, Arkbow Ranger](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466953)      |                                                                                         |
+|4 [Merfolk Branchwalker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435353)|2 [Temple of Malady](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=380515) |2 [Vraska, Golgari Queen](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452963)      |                                                                                         |
+|4 [Paradise Druid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461098)      |4 [Woodland Cemetery](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443136)|                                                                                                        |                                                                                         |
+|4 [Steel Leaf Champion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443070) |                                                                                              |                                                                                                        |                                                                                         |
+|2 [Vine Mare](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447343)           |                                                                                              |                                                                                                        |                                                                                         |
+|3 [Voracious Hydra](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466954)     |                                                                                              |                                                                                                        |                                                                                         |
+
+
+# Sideboard
+
+|                                         Instant (8)                                          |                                        Planeswalker (2)                                         |                                       Sorcery (5)                                       |
+|----------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
+|4 [Assassin's Trophy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452902)|2 [Ashiok, Dream Render](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461155)|4 [Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)       |
+|2 [Noxious Grasp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466864)    |                                                                                                 |1 [Legion's End](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466860)|
+|2 [Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)   |                                                                                                 |                                                                                         |
+
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                       Maindeck Card                                        |*n*<sup>th</sup> copy|                                       Sideboard Card                                       |
+|--------------------:|--------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------|
+|                    1|[The Eldest Reborn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442978)|                    1|[Cast Down](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442969)        |
+|                    2|[The Eldest Reborn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442978)|                    1|[Shifting Ceratops](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466948)|
+|                     |                                                                                            |                    1|[Loaming Shaman](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405286)   |
+|                     |                                                                                            |                    1|[Forced Landing](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461088)   |
+|                     |                                                                                            |                    2|[Shifting Ceratops](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466948)|
+|                     |                                                                                            |                    2|[Loaming Shaman](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405286)   |
+|                     |                                                                                            |                    2|[Cast Down](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442969)        |
+|                     |                                                                                            |                    3|[Loaming Shaman](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405286)   |
+

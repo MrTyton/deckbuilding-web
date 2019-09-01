@@ -14,33 +14,33 @@
 2 Goblin Cratermaker
 1 Volrath's Stronghold
 1 Warren Weirding
-1 Cavern of Souls
-1 Aether Vial
 1 Sling-Gang Lieutenant
 1 Goblin Piledriver
 1 Goblin Ringleader
 1 Goblin Chieftain
 1 Arid Mesa
 1 Munitions Expert
+1 Aether Vial
 1 Goblin Matron
 1 Pashalik Mons
 1 Swamp
 1 Grenzo, Dungeon Warden
 1 Bloodstained Mire
+1 Cavern of Souls
 1 Badlands
 2 Goblin Chieftain
-2 Cavern of Souls
-2 Aether Vial
-2 Badlands
 2 Goblin Matron
 2 Bloodstained Mire
 2 Munitions Expert
+2 Aether Vial
 2 Goblin Ringleader
-3 Aether Vial
+2 Cavern of Souls
+2 Badlands
+3 Bloodstained Mire
 3 Cavern of Souls
 3 Goblin Ringleader
-3 Bloodstained Mire
 3 Munitions Expert
+3 Aether Vial
 3 Goblin Matron
 4 Munitions Expert
 4 Aether Vial
@@ -75,21 +75,21 @@
 11 Snow-Covered Mountain
 1 Gemstone Caverns
 1 Mogg Fanatic
-1 Prismatic Vista
 1 Wasteland
 1 Stingscourger
 1 Goblin Lackey
 1 Gempalm Incinerator
-2 Prismatic Vista
+1 Prismatic Vista
 2 Wasteland
 2 Goblin Lackey
+2 Prismatic Vista
 2 Gempalm Incinerator
-3 Wasteland
 3 Goblin Cratermaker
+3 Wasteland
 3 Goblin Lackey
+4 Goblin Cratermaker
 4 Wasteland
 4 Goblin Lackey
-4 Goblin Cratermaker
 1 Pia Nalaar
 1 Thopter Engineer
 2 Pia and Kiran Nalaar
@@ -98,44 +98,44 @@
 3 Thopter Engineer
 4 Ensnaring Bridge
 4 Thopter Engineer
-1 Chain Lightning
 1 Skewer the Critics
+1 Fireblast
 1 Exquisite Firecraft
-1 Monastery Swiftspear
 1 Lava Spike
 1 Eidolon of the Great Revel
-1 Fireblast
+1 Chain Lightning
+1 Monastery Swiftspear
 1 Lightning Bolt
 1 Rift Bolt
 1 Goblin Guide
-2 Chain Lightning
 2 Skewer the Critics
-2 Monastery Swiftspear
 2 Lava Spike
 2 Exquisite Firecraft
 2 Eidolon of the Great Revel
+2 Chain Lightning
 2 Lightning Bolt
 2 Fireblast
+2 Monastery Swiftspear
 2 Goblin Guide
 2 Rift Bolt
 3 Eidolon of the Great Revel
-3 Chain Lightning
 3 Skewer the Critics
-3 Monastery Swiftspear
+3 Chain Lightning
 3 Lava Spike
 3 Exquisite Firecraft
 3 Rift Bolt
 3 Lightning Bolt
 3 Goblin Guide
 3 Fireblast
-4 Chain Lightning
+3 Monastery Swiftspear
 4 Exquisite Firecraft
 4 Eidolon of the Great Revel
+4 Chain Lightning
 4 Lava Spike
-4 Monastery Swiftspear
 4 Rift Bolt
 4 Lightning Bolt
 4 Skewer the Critics
+4 Monastery Swiftspear
 4 Fireblast
 4 Goblin Guide
 12 Mountain

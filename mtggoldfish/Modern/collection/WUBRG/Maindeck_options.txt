@@ -1,75 +1,16 @@
-1 Unclaimed Territory
-1 Cavern of Souls
-1 Aether Vial
-1 Flickerwisp
-1 Voice of Resurgence
-1 Lightning Skelemental
-1 Risen Reef
-1 Unsettled Mariner
-1 Ancient Ziggurat
-1 Vesperlark
-1 Omnath, Locus of the Roil
-1 Flamekin Harbinger
-1 Phantasmal Image
-1 Primal Beyond
-1 Thunderkin Awakener
-2 Cavern of Souls
-2 Unclaimed Territory
-2 Aether Vial
-2 Voice of Resurgence
-2 Ancient Ziggurat
-2 Phantasmal Image
-2 Risen Reef
-2 Unsettled Mariner
-2 Flamekin Harbinger
-2 Primal Beyond
-2 Lightning Skelemental
-2 Thunderkin Awakener
-3 Phantasmal Image
-3 Cavern of Souls
-3 Aether Vial
-3 Risen Reef
-3 Flamekin Harbinger
-3 Voice of Resurgence
-3 Primal Beyond
-3 Ancient Ziggurat
-3 Lightning Skelemental
-3 Thunderkin Awakener
-3 Unclaimed Territory
-4 Phantasmal Image
-4 Aether Vial
-4 Lightning Skelemental
-4 Primal Beyond
-4 Unclaimed Territory
-4 Flamekin Harbinger
-4 Risen Reef
-4 Ancient Ziggurat
-4 Voice of Resurgence
-4 Cavern of Souls
-2 Flickerwisp
-3 Unsettled Mariner
-3 Flickerwisp
-4 Unsettled Mariner
-4 Thunderkin Awakener
-1 Plains
-1 Birds of Paradise
-2 Birds of Paradise
-3 Birds of Paradise
-1 Forest
-1 Steam Vents
 1 Breeding Pool
 1 Teferi, Time Raveler
-1 Felidar Guardian
-1 Saheeli Rai
 1 Scalding Tarn
+1 Saheeli Rai
+1 Felidar Guardian
 2 Felidar Guardian
 2 Saheeli Rai
 2 Teferi, Time Raveler
-3 Saheeli Rai
-3 Felidar Guardian
 3 Teferi, Time Raveler
-4 Felidar Guardian
+3 Felidar Guardian
+3 Saheeli Rai
 4 Saheeli Rai
+4 Felidar Guardian
 1 Temple Garden
 1 Stomping Ground
 1 Windswept Heath
@@ -77,31 +18,32 @@
 2 Wooded Foothills
 3 Wooded Foothills
 1 Arid Mesa
+1 Island
 2 Arid Mesa
 3 Arid Mesa
 4 Arid Mesa
-1 Deceiver Exarch
 1 Sacred Foundry
+1 Deceiver Exarch
 1 Kiki-Jiki, Mirror Breaker
+1 Bring to Light
 1 Utopia Sprawl
 1 Assassin's Trophy
 1 Chancellor of the Annex
 1 Blood Crypt
-1 Bring to Light
 2 Deceiver Exarch
 2 Kiki-Jiki, Mirror Breaker
-2 Sacred Foundry
 2 Bring to Light
+2 Sacred Foundry
 2 Scalding Tarn
 2 Utopia Sprawl
 3 Deceiver Exarch
-3 Scalding Tarn
 3 Bring to Light
+3 Scalding Tarn
 3 Utopia Sprawl
 4 Teferi, Time Raveler
+4 Wooded Foothills
 4 Utopia Sprawl
 4 Bring to Light
-4 Wooded Foothills
 4 Scalding Tarn
 1 Smokebraider
 1 Snow-Covered Forest
@@ -125,12 +67,12 @@
 4 Smokebraider
 1 Wrenn and Six
 1 Snow-Covered Mountain
-1 Snow-Covered Plains
 1 Lightning Helix
+1 Snow-Covered Plains
 1 Path to Exile
 2 Wrenn and Six
-2 Path to Exile
 2 Lightning Helix
+2 Path to Exile
 3 Wrenn and Six
 3 Path to Exile
 4 Path to Exile
@@ -144,45 +86,37 @@
 1 Nahiri, the Harbinger
 1 Horizon Canopy
 1 Noble Hierarch
-1 Scavenging Ooze
 1 Unified Will
-1 Knight of the Reliquary
+1 Scavenging Ooze
 1 Lightning Bolt
-2 Ghost Quarter
+1 Knight of the Reliquary
+2 Tireless Tracker
 2 Nahiri, the Harbinger
 2 Windswept Heath
 2 Noble Hierarch
 2 Scavenging Ooze
 2 Unified Will
-2 Tireless Tracker
+2 Ghost Quarter
 2 Knight of the Reliquary
 2 Lightning Bolt
 2 Snow-Covered Forest
 3 Tireless Tracker
 3 Nahiri, the Harbinger
+3 Lightning Helix
 3 Scavenging Ooze
 3 Windswept Heath
 3 Unified Will
 3 Lightning Bolt
-3 Lightning Helix
 3 Knight of the Reliquary
 4 Wrenn and Six
 4 Scavenging Ooze
-4 Nahiri, the Harbinger
 4 Windswept Heath
+4 Nahiri, the Harbinger
 1 Reflecting Pool
 2 Reflecting Pool
 2 Vesperlark
 3 Vesperlark
 4 Vesperlark
-1 Swamp
-1 Dismember
-1 Walking Ballista
-2 Dismember
-2 Walking Ballista
-3 Welding Jar
-3 Dismember
-4 Steel Overseer
 1 Force of Negation
 1 Flooded Strand
 2 Force of Negation
@@ -206,15 +140,15 @@
 2 Snow-Covered Plains
 2 Serum Visions
 3 Ice-Fang Coatl
+3 Snow-Covered Island
 3 Arcum's Astrolabe
-3 Prismatic Vista
 3 Delay
 3 Serum Visions
-3 Snow-Covered Island
+3 Prismatic Vista
 4 Ice-Fang Coatl
-4 Arcum's Astrolabe
 4 Serum Visions
 4 Delay
+4 Arcum's Astrolabe
 4 Prismatic Vista
 1 Niv-Mizzet Reborn
 1 Growth Spiral
@@ -227,25 +161,25 @@
 1 Vendilion Clique
 1 Curator of Mysteries
 1 Living End
-1 Desert Cerodon
 1 Ardent Plea
 1 Simian Spirit Guide
 1 Glassdust Hulk
+1 Desert Cerodon
 1 Street Wraith
 1 Striped Riverwinder
 2 Windcaller Aven
 2 Temple Garden
-2 Vendilion Clique
 2 Violent Outburst
+2 Vendilion Clique
 2 Ardent Plea
 2 Striped Riverwinder
 2 Glassdust Hulk
 2 Steam Vents
 2 Simian Spirit Guide
-2 Living End
 2 Street Wraith
 2 Desert Cerodon
 2 Curator of Mysteries
+2 Living End
 3 Force of Negation
 3 Steam Vents
 3 Windcaller Aven
@@ -261,8 +195,8 @@
 4 Street Wraith
 4 Desert Cerodon
 4 Misty Rainforest
+4 Flooded Strand
 4 Striped Riverwinder
 4 Curator of Mysteries
 4 Ardent Plea
-4 Flooded Strand
 4 Windcaller Aven
