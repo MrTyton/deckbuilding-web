@@ -1,43 +1,43 @@
-1 Lightning Bolt
 1 Snow-Covered Mountain
+1 Lightning Bolt
 2 Lightning Bolt
 3 Lightning Bolt
-1 Scalding Tarn
 1 Steam Vents
+1 Scalding Tarn
 2 Scalding Tarn
-1 Wrenn and Six
-1 Jace, the Mind Sculptor
-1 Stomping Ground
 1 Snow-Covered Island
-1 Magmatic Sinkhole
-1 Tarmogoyf
+1 Wrenn and Six
 1 Breeding Pool
+1 Jace, the Mind Sculptor
+1 Magmatic Sinkhole
 1 Misty Rainforest
+1 Tarmogoyf
+1 Stomping Ground
 2 Jace, the Mind Sculptor
+2 Misty Rainforest
 2 Snow-Covered Island
 2 Tarmogoyf
-2 Misty Rainforest
-3 Snow-Covered Island
 3 Misty Rainforest
+3 Snow-Covered Island
 3 Tarmogoyf
-4 Lightning Bolt
-4 Snow-Covered Island
 4 Misty Rainforest
+4 Snow-Covered Island
+4 Lightning Bolt
 1 Serum Visions
 1 Snapcaster Mage
-2 Snapcaster Mage
 2 Serum Visions
-3 Snapcaster Mage
+2 Snapcaster Mage
 3 Serum Visions
+3 Snapcaster Mage
 4 Serum Visions
 1 Inquisition of Kozilek
 2 Inquisition of Kozilek
 3 Inquisition of Kozilek
+1 Polluted Delta
 1 Swamp
 1 Watery Grave
 1 Island
 1 Bloodstained Mire
-1 Polluted Delta
 2 Polluted Delta
 2 Watery Grave
 2 Island
@@ -69,8 +69,8 @@
 2 Bojuka Bog
 2 Creeping Tar Pit
 2 Field of Ruin
-2 Darkslick Shores
 2 Swamp
+2 Darkslick Shores
 2 Nihil Spellbomb
 2 Damnation
 2 Ensnaring Bridge
@@ -86,31 +86,31 @@
 2 Cryptic Command
 3 Cryptic Command
 1 Opt
-2 Steam Vents
 2 Opt
+2 Steam Vents
 3 Opt
 4 Opt
-1 Ancestral Vision
 1 Izzet Charm
-1 Bloodbraid Elf
-1 Dreadhorde Arcanist
-1 Fiery Islet
-1 As Foretold
 1 Cascade Bluffs
+1 Bloodbraid Elf
 1 Waterlogged Grove
+1 Dreadhorde Arcanist
+1 As Foretold
+1 Ancestral Vision
 1 Crashing Footfalls
+1 Fiery Islet
 1 Electrodominance
 2 Izzet Charm
 2 Bloodbraid Elf
-2 Dreadhorde Arcanist
+2 Breeding Pool
+2 Magmatic Sinkhole
 2 Electrodominance
 2 As Foretold
 2 Crashing Footfalls
 2 Ancestral Vision
-2 Magmatic Sinkhole
-2 Breeding Pool
-3 Dreadhorde Arcanist
+2 Dreadhorde Arcanist
 3 Electrodominance
+3 Dreadhorde Arcanist
 3 Crashing Footfalls
 3 Ancestral Vision
 3 Scalding Tarn
@@ -120,6 +120,7 @@
 4 Tarmogoyf
 4 Crashing Footfalls
 1 Blood Crypt
+1 Forbidden Orchard
 1 Muddle the Mixture
 1 Rakdos Charm
 1 Pongify
@@ -128,7 +129,6 @@
 1 Trespasser's Curse
 1 Remand
 1 Darkness
-1 Forbidden Orchard
 1 Mission Briefing
 1 Hallowed Fountain
 1 Hunted Phantasm
@@ -157,15 +157,15 @@
 4 Trespasser's Curse
 1 Blood Moon
 2 Blood Moon
+1 Jace, Vryn's Prodigy
 1 Lonely Sandbar
 1 Ice-Fang Coatl
 1 Huntmaster of the Fells
-1 Pulse of Murasa
 1 Flame Slash
 1 Force of Negation
 1 Mana Leak
 1 Spell Snare
-1 Jace, Vryn's Prodigy
+1 Pulse of Murasa
 1 Prismatic Vista
 2 Lonely Sandbar
 2 Ice-Fang Coatl
@@ -179,37 +179,37 @@
 4 Ice-Fang Coatl
 5 Snow-Covered Island
 1 Legion Warboss
-1 Chandra, Acolyte of Flame
 1 Unearth
-1 Kolaghan's Command
 1 Dreadbore
 1 Goblin Rabblemaster
+1 Kolaghan's Command
+1 Chandra, Acolyte of Flame
 1 Faithless Looting
 1 Snow-Covered Swamp
 2 Legion Warboss
 2 Dreadbore
-2 Chandra, Acolyte of Flame
-2 Blood Crypt
 2 Unearth
 2 Snow-Covered Mountain
-2 Faithless Looting
 2 Goblin Rabblemaster
+2 Blood Crypt
+2 Chandra, Acolyte of Flame
+2 Faithless Looting
 2 Kolaghan's Command
 2 Snow-Covered Swamp
 3 Chandra, Acolyte of Flame
 3 Legion Warboss
-3 Blood Crypt
 3 Snow-Covered Mountain
-3 Faithless Looting
-3 Goblin Rabblemaster
+3 Blood Crypt
 3 Blood Moon
+3 Goblin Rabblemaster
+3 Faithless Looting
 3 Snow-Covered Swamp
 4 Blood Crypt
 4 Legion Warboss
 4 Snow-Covered Mountain
-4 Faithless Looting
 4 Goblin Rabblemaster
 4 Snow-Covered Swamp
+4 Faithless Looting
 4 Blood Moon
 5 Snow-Covered Mountain
 5 Snow-Covered Swamp
