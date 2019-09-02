@@ -2,7 +2,7 @@
 
 #### [Export MTGO List](../collection/Golgari%20Citadel/Golgari%20Citadel.txt)
 #### [Export Arena List](../collection/Golgari%20Citadel/Golgari%20Citadel_arena.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=2%09Bolas's%20Citadel%0A4%09Bond%20of%20Flourishing%0A2%09Field%20of%20Ruin%0A2%09Find/Finality%0A5%09Forest%0A4%09Jadelight%20Ranger%0A2%09Legion's%20End%0A4%09Llanowar%20Elves%0A2%09Massacre%20Girl%0A4%09Merfolk%20Branchwalker%0A2%09Nissa,%20Who%20Shakes%20the%20World%0A4%09Overgrown%20Tomb%0A2%09Ravenous%20Chupacabra%0A5%09Swamp%0A4%09Temple%20of%20Malady%0A2%09Vivien%20Reid%0A2%09Vraska,%20Golgari%20Queen%0A4%09Wildgrowth%20Walker%0A4%09Woodland%20Cemetery&deckside=3%09Ashiok,%20Dream%20Render%0A3%09Duress%0A2%09Legion's%20End%0A1%09Liliana,%20Dreadhorde%20General%0A3%09Noxious%20Grasp%0A2%09Shifting%20Ceratops%0A1%09Veil%20of%20Summer)
+#### [Print on decklist.org](http://decklist.org/?deckmain=2%09Bolas's%20Citadel%0A4%09Bond%20of%20Flourishing%0A2%09Field%20of%20Ruin%0A2%09Find/Finality%0A5%09Forest%0A4%09Jadelight%20Ranger%0A2%09Legion's%20End%0A4%09Llanowar%20Elves%0A2%09Massacre%20Girl%0A4%09Merfolk%20Branchwalker%0A2%09Nissa,%20Who%20Shakes%20the%20World%0A4%09Overgrown%20Tomb%0A2%09Ravenous%20Chupacabra%0A5%09Swamp%0A4%09Temple%20of%20Malady%0A2%09Vivien%20Reid%0A2%09Vraska,%20Golgari%20Queen%0A4%09Wildgrowth%20Walker%0A4%09Woodland%20Cemetery&deckside=3%09Ashiok,%20Dream%20Render%0A4%09Duress%0A2%09Legion's%20End%0A1%09Liliana,%20Dreadhorde%20General%0A2%09Noxious%20Grasp%0A2%09Shifting%20Ceratops%0A1%09Veil%20of%20Summer)
 # Maindeck
 
 |                                        Artifact (2)                                        |                                          Creature (20)                                          |                                          Land (24)                                           |                                            Planeswalker (6)                                            |                                          Sorcery (8)                                           |
@@ -17,15 +17,17 @@
 
 # Sideboard
 
-|                                         Creature (2)                                         |                                        Instant (4)                                        |                                            Planeswalker (4)                                            |                                       Sorcery (5)                                       |
+|                                         Creature (2)                                         |                                        Instant (3)                                        |                                            Planeswalker (4)                                            |                                       Sorcery (6)                                       |
 |----------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
-|2 [Shifting Ceratops](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466948)|3 [Noxious Grasp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466864) |3 [Ashiok, Dream Render](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461155)       |3 [Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)       |
+|2 [Shifting Ceratops](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466948)|2 [Noxious Grasp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466864) |3 [Ashiok, Dream Render](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461155)       |4 [Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)       |
 |                                                                                              |1 [Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)|1 [Liliana, Dreadhorde General](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461024)|2 [Legion's End](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466860)|
 
 
 # Other Options
 
-|*n*<sup>th</sup> copy|Maindeck Card|*n*<sup>th</sup> copy|                                 Sideboard Card                                 |
-|---------------------|-------------|--------------------:|--------------------------------------------------------------------------------|
-|                     |             |                    4|[Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)|
+|*n*<sup>th</sup> copy|Maindeck Card|*n*<sup>th</sup> copy|                                     Sideboard Card                                      |
+|---------------------|-------------|--------------------:|-----------------------------------------------------------------------------------------|
+|                     |             |                    3|[Noxious Grasp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466864) |
+|                     |             |                    1|[Sentinel Totem](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435404)|
+|                     |             |                    1|[Loaming Shaman](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405286)|
 

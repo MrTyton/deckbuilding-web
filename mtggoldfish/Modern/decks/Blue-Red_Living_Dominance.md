@@ -35,7 +35,7 @@
 |                    2|[Windcaller Aven](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464026) |                    3|[Fulminator Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397686)    |
 |                    3|[Ancestral Vision](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=189244)|                    3|[Anger of the Gods](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438682)  |
 |                    3|[Windcaller Aven](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464026) |                    3|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)|
-|                    3|[Tolaria West](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=136047)    |                    4|[Fulminator Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397686)    |
-|                    4|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)          |                    4|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)|
-|                    4|[Ancestral Vision](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=189244)|                     |                                                                                              |
+|                    4|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)          |                    4|[Fulminator Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397686)    |
+|                    4|[Ancestral Vision](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=189244)|                    4|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)|
+|                    3|[Tolaria West](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=136047)    |                     |                                                                                              |
 

@@ -4,7 +4,6 @@
 5 Island
 1 Molten Vortex
 1 Day's Undoing
-1 Seismic Assault
 1 Temple of Epiphany
 1 Swiftwater Cliffs
 1 Shivan Reef
@@ -13,9 +12,9 @@
 1 Treasure Hunt
 1 Swans of Bryn Argoll
 1 Lonely Sandbar
+1 Seismic Assault
 2 Forgotten Cave
 2 Temple of Epiphany
-2 Seismic Assault
 2 Swiftwater Cliffs
 2 Swans of Bryn Argoll
 2 Molten Vortex
@@ -25,6 +24,7 @@
 2 Mountain
 2 Day's Undoing
 2 Lonely Sandbar
+2 Seismic Assault
 3 Mountain
 3 Forgotten Cave
 3 Temple of Epiphany
@@ -68,8 +68,8 @@
 3 Through the Breach
 3 Emrakul, the Aeons Torn
 4 Emrakul, the Aeons Torn
-4 Flooded Strand
 4 Cryptic Command
+4 Flooded Strand
 4 Through the Breach
 4 Remand
 6 Island

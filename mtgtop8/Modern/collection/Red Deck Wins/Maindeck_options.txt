@@ -21,18 +21,18 @@
 1 Crash Through
 1 Bedlam Reveler
 1 Faithless Looting
-2 Faithless Looting
 2 Manamorphose
 2 Crash Through
 2 Bedlam Reveler
-3 Faithless Looting
+2 Faithless Looting
 3 Crash Through
 3 Bedlam Reveler
 3 Manamorphose
-4 Faithless Looting
+3 Faithless Looting
 4 Bedlam Reveler
 4 Crash Through
 4 Manamorphose
+4 Faithless Looting
 5 Mountain
 6 Mountain
 7 Mountain
@@ -61,21 +61,20 @@
 4 Sacred Foundry
 1 Gut Shot
 2 Gut Shot
-4 Scalding Tarn
-1 Blackcleave Cliffs
 1 Lightning Skelemental
 1 Bump in the Night
+1 Blackcleave Cliffs
 1 Blood Crypt
 2 Lightning Skelemental
 2 Blackcleave Cliffs
-2 Blood Crypt
 2 Bump in the Night
+2 Blood Crypt
 3 Lightning Skelemental
 3 Blackcleave Cliffs
 3 Bump in the Night
 4 Lightning Skelemental
-4 Blackcleave Cliffs
 4 Bump in the Night
+4 Blackcleave Cliffs
 1 Atarka's Command
 1 Tarmogoyf
 1 Copperline Gorge
@@ -90,6 +89,7 @@
 4 Atarka's Command
 4 Copperline Gorge
 4 Tarmogoyf
+4 Scalding Tarn
 3 Fiery Islet
 4 Snow-Covered Mountain
 5 Snow-Covered Mountain

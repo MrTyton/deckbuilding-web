@@ -2,7 +2,7 @@
 
 #### [Export MTGO List](../collection/Temur%20Neoform/Temur%20Neoform.txt)
 #### [Export Arena List](../collection/Temur%20Neoform/Temur%20Neoform_arena.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=1%09Banefire%0A3%09Breeding%20Pool%0A3%09Chandra's%20Embercat%0A3%09Chandra,%20Awakened%20Inferno%0A4%09Cloudkin%20Seer%0A1%09Field%20of%20the%20Dead%0A1%09Forest%0A3%09Healer%20of%20the%20Glade%0A3%09Hinterland%20Harbor%0A3%09Lava%20Coil%0A2%09Lazotep%20Plating%0A4%09Leafkin%20Druid%0A1%09Mountain%0A4%09Neoform%0A3%09Omnath,%20Locus%20of%20the%20Roil%0A4%09Risen%20Reef%0A4%09Rootbound%20Crag%0A2%09Spark%20Double%0A3%09Steam%20Vents%0A4%09Stomping%20Ground%0A4%09Unclaimed%20Territory&deckside=3%09Aether%20Gust%0A3%09Blood%20Sun%0A1%09Chandra,%20Awakened%20Inferno%0A4%09Fry%0A4%09Veil%20of%20Summer)
+#### [Print on decklist.org](http://decklist.org/?deckmain=1%09Banefire%0A3%09Breeding%20Pool%0A3%09Chandra's%20Embercat%0A3%09Chandra,%20Awakened%20Inferno%0A4%09Cloudkin%20Seer%0A1%09Field%20of%20the%20Dead%0A1%09Forest%0A3%09Healer%20of%20the%20Glade%0A3%09Hinterland%20Harbor%0A3%09Lava%20Coil%0A2%09Lazotep%20Plating%0A4%09Leafkin%20Druid%0A1%09Mountain%0A4%09Neoform%0A3%09Omnath,%20Locus%20of%20the%20Roil%0A4%09Risen%20Reef%0A4%09Rootbound%20Crag%0A2%09Spark%20Double%0A3%09Steam%20Vents%0A4%09Stomping%20Ground%0A4%09Unclaimed%20Territory&deckside=2%09Aether%20Gust%0A2%09Disdainful%20Stroke%0A2%09Flame%20Sweep%0A2%09Fry%0A1%09Lava%20Coil%0A1%09Negate%0A1%09Pulse%20of%20Murasa%0A2%09Selective%20Snare%0A2%09Veil%20of%20Summer)
 # Maindeck
 
 |                                            Creature (23)                                             |                                        Instant (2)                                         |                                           Land (24)                                            |                                           Planeswalker (3)                                           |                                     Sorcery (8)                                      |
@@ -20,9 +20,39 @@
 
 # Sideboard
 
-|                                   Enchantment (3)                                    |                                       Instant (11)                                        |                                           Planeswalker (1)                                           |
-|--------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|
-|3 [Blood Sun](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439749)|3 [Aether Gust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466796)   |1 [Chandra, Awakened Inferno](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466881)|
-|                                                                                      |4 [Fry](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466894)           |                                                                                                      |
-|                                                                                      |4 [Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)|                                                                                                      |
+|                                         Instant (12)                                         |                                        Sorcery (3)                                         |
+|----------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
+|2 [Aether Gust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466796)      |1 [Lava Coil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452858)      |
+|2 [Disdainful Stroke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420705)|2 [Selective Snare](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452803)|
+|2 [Flame Sweep](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466893)      |                                                                                            |
+|2 [Fry](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466894)              |                                                                                            |
+|1 [Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)           |                                                                                            |
+|1 [Pulse of Murasa](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446177)  |                                                                                            |
+|2 [Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)   |                                                                                            |
+
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                           Maindeck Card                                            |*n*<sup>th</sup> copy|                                           Sideboard Card                                           |
+|--------------------:|----------------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------------|
+|                    1|[Sulfur Falls](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443135)             |                    1|[Blood Sun](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439749)                |
+|                    1|[Cavalier of Flame](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466879)        |                    1|[Chandra, Awakened Inferno](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466881)|
+|                    1|[Shock](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129732)                    |                    2|[Blood Sun](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439749)                |
+|                    1|[Temple of Mystery](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373571)        |                    3|[Aether Gust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466796)              |
+|                    1|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)                   |                    3|[Blood Sun](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439749)                |
+|                    1|[Scampering Scorcher](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466912)      |                    3|[Fry](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466894)                      |
+|                    1|[Thunderkin Awakener](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466916)      |                    3|[Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)           |
+|                    2|[Thunderkin Awakener](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466916)      |                    4|[Fry](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466894)                      |
+|                    2|[Scampering Scorcher](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466912)      |                    4|[Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)           |
+|                    2|[Shock](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129732)                    |                     |                                                                                                    |
+|                    2|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)                 |                     |                                                                                                    |
+|                    2|[Cavalier of Flame](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466879)        |                     |                                                                                                    |
+|                    2|[Sulfur Falls](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443135)             |                     |                                                                                                    |
+|                    2|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)                   |                     |                                                                                                    |
+|                    3|[Thunderkin Awakener](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466916)      |                     |                                                                                                    |
+|                    3|[Shock](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129732)                    |                     |                                                                                                    |
+|                    3|[Scampering Scorcher](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466912)      |                     |                                                                                                    |
+|                    4|[Omnath, Locus of the Roil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466970)|                     |                                                                                                    |
+|                    4|[Thunderkin Awakener](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466916)      |                     |                                                                                                    |
+|                    4|[Breeding Pool](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=97088)             |                     |                                                                                                    |
 

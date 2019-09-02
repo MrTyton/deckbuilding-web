@@ -34,8 +34,8 @@
 
 |*n*<sup>th</sup> copy|                                           Maindeck Card                                            |*n*<sup>th</sup> copy|                                       Sideboard Card                                        |
 |--------------------:|----------------------------------------------------------------------------------------------------|--------------------:|---------------------------------------------------------------------------------------------|
-|                    2|[Karn, Scion of Urza](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442889)      |                    1|[Liquimetal Coating](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389578)|
-|                    2|[Walking Ballista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423848)         |                    1|[Sorcerous Spyglass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435407)|
+|                    2|[Walking Ballista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423848)         |                    1|[Liquimetal Coating](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389578)|
+|                    2|[Karn, Scion of Urza](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442889)      |                    1|[Sorcerous Spyglass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435407)|
 |                    3|[Walking Ballista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423848)         |                    2|[Ensnaring Bridge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=15866)   |
 |                    2|[Blast Zone](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461171)               |                    2|[Ratchet Bomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370623)      |
 |                    4|[Eldrazi Temple](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401710)           |                    1|[Helm of Obedience](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3047)   |
