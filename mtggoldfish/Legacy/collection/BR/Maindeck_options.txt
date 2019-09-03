@@ -1,23 +1,21 @@
+4 Snow-Covered Mountain
+5 Snow-Covered Mountain
+3 Karn, Scion of Urza
+5 Mountain
+1 Fiery Confluence
 2 Fiery Confluence
 3 Trinisphere
 1 Ensnaring Bridge
 2 Ensnaring Bridge
-1 Great Furnace
-2 Great Furnace
-3 Great Furnace
-4 Great Furnace
-4 Karn, the Great Creator
-4 Trinisphere
-6 Mountain
 6 Snow-Covered Mountain
-3 Ensnaring Bridge
-3 Fiery Confluence
 1 Goblin Cratermaker
 2 Goblin Cratermaker
 1 Volrath's Stronghold
 1 Cavern of Souls
 1 Warren Weirding
 1 Aether Vial
+1 Badlands
+1 Bloodstained Mire
 1 Swamp
 1 Sling-Gang Lieutenant
 1 Goblin Piledriver
@@ -28,16 +26,14 @@
 1 Goblin Matron
 1 Pashalik Mons
 1 Grenzo, Dungeon Warden
-1 Bloodstained Mire
-1 Badlands
 2 Goblin Chieftain
+2 Bloodstained Mire
+2 Badlands
 2 Cavern of Souls
 2 Aether Vial
 2 Goblin Matron
-2 Bloodstained Mire
 2 Munitions Expert
 2 Goblin Ringleader
-2 Badlands
 3 Bloodstained Mire
 3 Aether Vial
 3 Cavern of Souls
@@ -45,18 +41,13 @@
 3 Munitions Expert
 3 Goblin Matron
 4 Munitions Expert
-4 Aether Vial
 4 Bloodstained Mire
+4 Aether Vial
 4 Goblin Ringleader
 4 Goblin Matron
 4 Cavern of Souls
-7 Mountain
-8 Mountain
-9 Mountain
-10 Mountain
-11 Mountain
-1 Goblin Trashmaster
 1 Karakas
+1 Goblin Trashmaster
 1 Mogg War Marshal
 1 Krenko, Mob Boss
 1 Earwig Squad
@@ -68,14 +59,16 @@
 4 Mogg War Marshal
 1 Abrade
 2 Abrade
+3 Ensnaring Bridge
+3 Fiery Confluence
 7 Snow-Covered Mountain
 8 Snow-Covered Mountain
 9 Snow-Covered Mountain
 10 Snow-Covered Mountain
 11 Snow-Covered Mountain
-1 Gemstone Caverns
-1 Seasoned Pyromancer
+6 Mountain
 1 Chandra, Pyromaster
+1 Seasoned Pyromancer
 1 Blood Sun
 1 Angrath, Captain of Chaos
 1 Hanweir Garrison
@@ -101,40 +94,34 @@
 4 Goblin Cratermaker
 4 Wasteland
 4 Goblin Lackey
-1 Pia Nalaar
-1 Thopter Engineer
-2 Pia and Kiran Nalaar
-2 Thopter Engineer
-2 Pia Nalaar
-3 Thopter Engineer
-4 Ensnaring Bridge
-4 Thopter Engineer
+1 Gemstone Caverns
+4 Trinisphere
 1 Chain Lightning
 1 Exquisite Firecraft
 1 Skewer the Critics
 1 Monastery Swiftspear
+1 Lightning Bolt
 1 Lava Spike
 1 Eidolon of the Great Revel
 1 Fireblast
-1 Lightning Bolt
 1 Rift Bolt
 1 Goblin Guide
 2 Chain Lightning
 2 Skewer the Critics
+2 Lightning Bolt
 2 Monastery Swiftspear
 2 Exquisite Firecraft
 2 Lava Spike
 2 Eidolon of the Great Revel
 2 Fireblast
 2 Goblin Guide
-2 Lightning Bolt
 2 Rift Bolt
 3 Eidolon of the Great Revel
 3 Chain Lightning
 3 Skewer the Critics
+3 Exquisite Firecraft
 3 Monastery Swiftspear
 3 Lava Spike
-3 Exquisite Firecraft
 3 Lightning Bolt
 3 Rift Bolt
 3 Goblin Guide
@@ -149,12 +136,17 @@
 4 Skewer the Critics
 4 Fireblast
 4 Goblin Guide
+7 Mountain
+8 Mountain
+9 Mountain
+10 Mountain
+11 Mountain
 12 Mountain
 13 Mountain
 14 Mountain
+15 Mountain
 16 Mountain
 17 Mountain
 18 Mountain
-19 Mountain
 20 Mountain
-15 Mountain
+19 Mountain

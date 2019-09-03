@@ -22,7 +22,6 @@
 1 Lightning Axe
 2 Peek
 2 Sphinx of Foresight
-2 Mountain
 2 Opt
 2 Dreadhorde Arcanist
 2 Ancestral Vision
@@ -31,6 +30,7 @@
 2 Electrodominance
 2 Scalding Tarn
 2 Force of Negation
+2 Mountain
 3 Sphinx of Foresight
 3 As Foretold
 3 Scalding Tarn
@@ -71,12 +71,12 @@
 1 Ensnaring Bridge
 1 Copperline Gorge
 1 Ancient Stirrings
+2 Grove of the Burnwillows
 2 Zhalfirin Void
 2 Coretapper
 2 Astral Cornucopia
 2 Surge Node
 2 Everflowing Chalice
-2 Grove of the Burnwillows
 2 Mox Opal
 2 Mystic Forge
 2 Ensnaring Bridge
@@ -86,11 +86,11 @@
 2 Pyrite Spellbomb
 2 Blast Zone
 3 Blast Zone
+3 Grove of the Burnwillows
 3 Ensnaring Bridge
 3 Coretapper
 3 Everflowing Chalice
 3 Astral Cornucopia
-3 Grove of the Burnwillows
 3 Mox Opal
 3 Mystic Forge
 3 Ancient Stirrings
@@ -98,8 +98,8 @@
 3 Inventors' Fair
 3 Surge Node
 3 Pyrite Spellbomb
-4 Everflowing Chalice
 4 Grove of the Burnwillows
+4 Everflowing Chalice
 4 Coretapper
 4 Blast Zone
 4 Astral Cornucopia
@@ -146,8 +146,8 @@
 3 Chancellor of the Tangle
 3 Recross the Paths
 3 Pyretic Ritual
-4 Traverse the Ulvenwald
 4 Faithless Looting
+4 Traverse the Ulvenwald
 4 Goblin Charbelcher
 4 Desperate Ritual
 4 Caravan Vigil

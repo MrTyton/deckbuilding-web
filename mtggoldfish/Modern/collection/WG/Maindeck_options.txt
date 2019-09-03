@@ -1,6 +1,7 @@
 2 Field of Ruin
 2 Eternal Witness
 3 Field of Ruin
+3 Scavenging Ooze
 4 Temple Garden
 3 Plains
 1 Flagstones of Trokair
@@ -15,23 +16,23 @@
 4 Knight of the Reliquary
 4 Elvish Reclaimer
 4 Flagstones of Trokair
-1 Karn, the Great Creator
-2 Karn, the Great Creator
-3 Karn, the Great Creator
-4 Karn, the Great Creator
-3 Scavenging Ooze
 1 Walking Ballista
-1 Marsh Flats
-1 Flooded Strand
-1 Mistveil Plains
-1 Arid Mesa
-1 Emeria, the Sky Ruin
-1 Thraben Inspector
-1 Winds of Abandon
-1 Sejiri Steppe
-2 Arid Mesa
-3 Ranger-Captain of Eos
-4 Ranger-Captain of Eos
+1 Leonin Arbiter
+1 Qasali Pridemage
+1 Dromoka's Command
+1 Stirring Wildwood
+1 Tectonic Edge
+2 Leonin Arbiter
+2 Tectonic Edge
+2 Stirring Wildwood
+2 Qasali Pridemage
+3 Leonin Arbiter
+3 Stirring Wildwood
+3 Qasali Pridemage
+4 Ghost Quarter
+4 Giver of Runes
+4 Leonin Arbiter
+4 Scavenging Ooze
 1 Shalai, Voice of Plenty
 1 Courser of Kruphix
 2 Courser of Kruphix
@@ -51,8 +52,8 @@
 1 Archangel of Thune
 2 Birds of Paradise
 2 Misty Rainforest
-2 Kitchen Finks
 2 Spike Feeder
+2 Kitchen Finks
 2 Crested Sunmare
 2 Eldritch Evolution
 3 Birds of Paradise
@@ -71,20 +72,20 @@
 1 Khalni Garden
 1 Engineered Explosives
 1 Bojuka Bog
-1 Primeval Titan
 1 Simic Growth Chamber
 1 Kabira Crossroads
 1 Summoner's Pact
-1 Gruul Turf
+1 Vesuva
+1 Boros Garrison
 1 Amulet of Vigor
 1 Sunhome, Fortress of the Legion
+1 Primeval Titan
 1 Breeding Pool
-1 Vesuva
 1 Selesnya Sanctuary
 1 Tolaria West
 1 Azusa, Lost but Seeking
-1 Boros Garrison
 1 Slayers' Stronghold
+1 Gruul Turf
 2 Amulet of Vigor
 2 Selesnya Sanctuary
 2 Simic Growth Chamber
@@ -102,59 +103,21 @@
 4 Primeval Titan
 4 Azusa, Lost but Seeking
 4 Amulet of Vigor
-1 Leonin Arbiter
-1 Qasali Pridemage
-1 Dromoka's Command
-1 Stirring Wildwood
-1 Tectonic Edge
-2 Leonin Arbiter
-2 Tectonic Edge
-2 Stirring Wildwood
-2 Qasali Pridemage
-3 Leonin Arbiter
-3 Stirring Wildwood
-3 Qasali Pridemage
-4 Ghost Quarter
-4 Giver of Runes
-4 Leonin Arbiter
-4 Scavenging Ooze
-1 Eldrazi Displacer
-1 Ancient Stirrings
-1 Sword of Feast and Famine
-1 Wastes
-1 Reality Smasher
-1 Thought-Knot Seer
-1 Prismatic Vista
-1 Brushland
-1 Cavern of Souls
-1 Talisman of Unity
-1 Eldrazi Temple
-2 Eldrazi Displacer
-2 Ancient Stirrings
-2 Reality Smasher
-2 Talisman of Unity
-2 Brushland
-2 Prismatic Vista
-2 Thought-Knot Seer
-2 Cavern of Souls
-2 Eldrazi Temple
-3 Eldrazi Displacer
-3 Ancient Stirrings
-3 Reality Smasher
-3 Brushland
-3 Talisman of Unity
-3 Eldrazi Temple
-3 Prismatic Vista
-3 Thought-Knot Seer
-3 Cavern of Souls
-4 Eldrazi Displacer
-4 Eldrazi Temple
-4 Ancient Stirrings
-4 Reality Smasher
-4 Thought-Knot Seer
-4 Cavern of Souls
-4 Brushland
-4 Prismatic Vista
+1 Marsh Flats
+1 Flooded Strand
+1 Mistveil Plains
+1 Arid Mesa
+1 Emeria, the Sky Ruin
+1 Thraben Inspector
+1 Winds of Abandon
+1 Karn, the Great Creator
+1 Sejiri Steppe
+2 Arid Mesa
+2 Karn, the Great Creator
+3 Ranger-Captain of Eos
+3 Karn, the Great Creator
+4 Karn, the Great Creator
+4 Ranger-Captain of Eos
 1 Renegade Rallier
 2 Renegade Rallier
 4 Restoration Angel
@@ -178,22 +141,22 @@
 2 Mana Tithe
 2 Ghostly Prison
 2 Snow-Covered Forest
+3 Mwonvuli Acid-Moss
 3 Primal Command
 3 Ghostly Prison
 3 Arbor Elf
-3 Snow-Covered Forest
 3 Eternal Witness
 3 Runed Halo
-3 Mwonvuli Acid-Moss
+3 Snow-Covered Forest
 3 Mana Tithe
 3 Utopia Sprawl
 4 Snow-Covered Forest
 4 Mwonvuli Acid-Moss
-4 Arbor Elf
 4 Utopia Sprawl
 4 Mana Tithe
 4 Primal Command
 4 Field of Ruin
+4 Arbor Elf
 4 Ghostly Prison
 5 Snow-Covered Forest
 6 Snow-Covered Forest

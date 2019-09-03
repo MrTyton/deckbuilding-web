@@ -32,8 +32,8 @@
 
 |*n*<sup>th</sup> copy|                                          Maindeck Card                                          |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
 |--------------------:|-------------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
-|                    1|[Healer of the Glade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466930)   |                    1|[Shriekmaw](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220572)          |
-|                    1|[Flickerwisp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376338)           |                    2|[Fulminator Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397686)    |
+|                    1|[Flickerwisp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376338)           |                    1|[Shriekmaw](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220572)          |
+|                    1|[Healer of the Glade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466930)   |                    2|[Fulminator Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397686)    |
 |                    3|[Smokebraider](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205398)          |                    1|[Jaddi Lifestrider](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417435)  |
 |                    4|[Smokebraider](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205398)          |                    2|[Weather the Storm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464140)  |
 |                    1|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)   |                    2|[Jaddi Lifestrider](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417435)  |

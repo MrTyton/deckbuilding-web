@@ -38,6 +38,6 @@
 |                    3|[Opt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442948)                |                    3|[Blood Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45386)          |
 |                    3|[Serum Visions](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=50145)       |                     |                                                                                              |
 |                    4|[Serum Visions](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=50145)       |                     |                                                                                              |
-|                    4|[Opt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442948)                |                     |                                                                                              |
 |                    4|[Greater Gargadon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370560)   |                     |                                                                                              |
+|                    4|[Opt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442948)                |                     |                                                                                              |
 

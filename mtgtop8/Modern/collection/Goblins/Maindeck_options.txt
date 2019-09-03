@@ -45,8 +45,8 @@
 2 Legion Loyalist
 3 Goblin Guide
 3 Legion Loyalist
-4 Legion Loyalist
 4 Goblin Guide
+4 Legion Loyalist
 7 Mountain
 1 Fanatical Firebrand
 1 Bomat Courier
@@ -72,11 +72,11 @@
 1 Legion Warboss
 2 Pashalik Mons
 2 Legion Warboss
-1 Light Up the Stage
 1 Simian Spirit Guide
 1 Ramunap Ruins
-2 Light Up the Stage
+1 Light Up the Stage
 2 Ramunap Ruins
+2 Light Up the Stage
 3 Fanatical Firebrand
 4 Fanatical Firebrand
 4 Bomat Courier
@@ -93,8 +93,8 @@
 3 Goblin Chieftain
 4 Goblin Chieftain
 1 Pendelhaven
-1 Chandra, Acolyte of Flame
 1 Inspiring Vantage
+1 Chandra, Acolyte of Flame
 2 Sacred Foundry
 2 Inspiring Vantage
 3 Krenko, Mob Boss
@@ -116,14 +116,14 @@
 2 Unclaimed Territory
 3 Unclaimed Territory
 4 Unclaimed Territory
+1 Polluted Delta
 1 Dreadbore
 1 Terminate
-1 Fatal Push
 1 Kolaghan's Command
-1 Polluted Delta
+1 Fatal Push
+2 Polluted Delta
 2 Kolaghan's Command
 2 Swamp
-2 Polluted Delta
 2 Fatal Push
 3 Swamp
 3 Fatal Push
@@ -137,10 +137,10 @@
 3 Knucklebone Witch
 4 Knucklebone Witch
 1 Reverberate
-3 Light Up the Stage
 3 Ramunap Ruins
-4 Light Up the Stage
+3 Light Up the Stage
 4 Ramunap Ruins
+4 Light Up the Stage
 1 Snow-Covered Mountain
 1 Stingscourger
 2 Snow-Covered Mountain
@@ -164,6 +164,6 @@
 4 Kuldotha Rebirth
 4 Memnite
 4 Ornithopter
+14 Mountain
 15 Mountain
 16 Mountain
-14 Mountain

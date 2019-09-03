@@ -2,48 +2,39 @@
 1 Scalding Tarn
 1 Skullcrack
 2 Skullcrack
-3 Bloodstained Mire
-4 Wooded Foothills
-4 Bloodstained Mire
 2 Scalding Tarn
+4 Wooded Foothills
 3 Sacred Foundry
 4 Sacred Foundry
-3 Scalding Tarn
-2 Fiery Islet
-1 Snow-Covered Mountain
-2 Snow-Covered Mountain
-3 Snow-Covered Mountain
+3 Bloodstained Mire
+4 Bloodstained Mire
 4 Mountain
-1 Burst Lightning
-1 Faithless Looting
+2 Fiery Islet
+3 Scalding Tarn
 1 Light Up the Stage
-1 Manamorphose
 1 Lava Dart
 1 Crash Through
+1 Manamorphose
 1 Soul-Scar Mage
 1 Bedlam Reveler
-2 Faithless Looting
 2 Light Up the Stage
-2 Manamorphose
 2 Crash Through
-2 Burst Lightning
+2 Manamorphose
 2 Lava Dart
-2 Soul-Scar Mage
 2 Bedlam Reveler
-3 Faithless Looting
+2 Soul-Scar Mage
 3 Light Up the Stage
 3 Lava Dart
-3 Crash Through
-3 Bedlam Reveler
 3 Manamorphose
+3 Crash Through
 3 Soul-Scar Mage
-4 Faithless Looting
 4 Light Up the Stage
-4 Bedlam Reveler
-4 Crash Through
 4 Manamorphose
-4 Lava Dart
+4 Crash Through
 4 Soul-Scar Mage
+3 Arid Mesa
+4 Arid Mesa
+1 Grim Lavamancer
 5 Mountain
 6 Mountain
 7 Mountain
@@ -51,21 +42,34 @@
 9 Mountain
 10 Mountain
 11 Mountain
-12 Mountain
-13 Mountain
-14 Mountain
-15 Mountain
-16 Mountain
-1 Grim Lavamancer
+1 Burst Lightning
+1 Faithless Looting
+2 Faithless Looting
+2 Burst Lightning
+3 Faithless Looting
+3 Bedlam Reveler
+4 Faithless Looting
+4 Bedlam Reveler
+4 Lava Dart
+1 Gut Shot
+1 Ramunap Ruins
+1 Seasoned Pyromancer
+1 Abbot of Keral Keep
+1 Mutagenic Growth
+2 Seasoned Pyromancer
+2 Abbot of Keral Keep
+2 Gut Shot
+2 Mutagenic Growth
+3 Gut Shot
 1 Monastery Mentor
 2 Monastery Mentor
 3 Monastery Mentor
 3 Skullcrack
 4 Monastery Mentor
 4 Skullcrack
-1 Lightning Skelemental
 1 Blackcleave Cliffs
 1 Bump in the Night
+1 Lightning Skelemental
 1 Blood Crypt
 2 Lightning Skelemental
 2 Blood Crypt
@@ -77,9 +81,10 @@
 4 Lightning Skelemental
 4 Bump in the Night
 4 Blackcleave Cliffs
-3 Arid Mesa
-4 Arid Mesa
+1 Snow-Covered Mountain
+2 Snow-Covered Mountain
 3 Fiery Islet
+3 Snow-Covered Mountain
 4 Snow-Covered Mountain
 5 Snow-Covered Mountain
 6 Snow-Covered Mountain
@@ -89,6 +94,15 @@
 10 Snow-Covered Mountain
 11 Snow-Covered Mountain
 12 Snow-Covered Mountain
+13 Snow-Covered Mountain
 14 Snow-Covered Mountain
 15 Snow-Covered Mountain
-13 Snow-Covered Mountain
+12 Mountain
+13 Mountain
+14 Mountain
+15 Mountain
+16 Mountain
+1 Risk Factor
+2 Risk Factor
+3 Risk Factor
+4 Risk Factor

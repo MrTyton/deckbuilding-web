@@ -25,3 +25,10 @@
 |4 [Nullhide Ferox](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452888)     |3 [Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)           |
 |1 [Thrashing Brontodon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456570)|3 [Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)   |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|Maindeck Card|*n*<sup>th</sup> copy|                                     Sideboard Card                                      |
+|---------------------|-------------|--------------------:|-----------------------------------------------------------------------------------------|
+|                     |             |                    1|[Hydroid Krasis](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457327)|
+

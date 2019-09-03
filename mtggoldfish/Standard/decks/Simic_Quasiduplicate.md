@@ -24,3 +24,23 @@
 |2 [Shifting Ceratops](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466948)|3 [Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)           |2 [Selective Snare](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452803)|
 |                                                                                              |3 [Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)   |                                                                                            |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                            Maindeck Card                                             |*n*<sup>th</sup> copy|                                       Sideboard Card                                        |
+|--------------------:|------------------------------------------------------------------------------------------------------|--------------------:|---------------------------------------------------------------------------------------------|
+|                    1|[Nissa, Who Shakes the World](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461096)|                    1|[Voracious Hydra](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466954)   |
+|                    1|[Paradise Druid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461098)             |                    1|[Aether Gust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466796)       |
+|                    2|[Nissa, Who Shakes the World](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461096)|                    1|[Agent of Treachery](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466797)|
+|                    2|[Paradise Druid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461098)             |                    1|[Entrancing Melody](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435207) |
+|                    3|[Nissa, Who Shakes the World](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461096)|                    2|[Agent of Treachery](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466797)|
+|                    3|[Hydroid Krasis](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457327)             |                    2|[Aether Gust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466796)       |
+|                    3|[Temple of Mystery](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373571)          |                    2|[Voracious Hydra](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466954)   |
+|                    4|[Hydroid Krasis](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457327)             |                    2|[Cerulean Drake](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466807)    |
+|                    4|[Nissa, Who Shakes the World](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461096)|                    2|[Entrancing Melody](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435207) |
+|                    4|[Leafkin Druid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466932)              |                    3|[Voracious Hydra](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466954)   |
+|                    9|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)                     |                    3|[Cerulean Drake](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466807)    |
+|                   10|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)                     |                    3|[Aether Gust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466796)       |
+|                     |                                                                                                      |                    3|[Entrancing Melody](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435207) |
+|                     |                                                                                                      |                    4|[Entrancing Melody](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435207) |
+
