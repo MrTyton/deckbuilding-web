@@ -36,9 +36,9 @@
 
 |*n*<sup>th</sup> copy|                                         Maindeck Card                                         |*n*<sup>th</sup> copy|                                        Sideboard Card                                         |
 |--------------------:|-----------------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------------|
-|                    1|[Teferi, Time Raveler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461148)|                    1|[Ashiok, Dream Render](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461155)|
+|                    1|[Teferi, Time Raveler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461148)|                    1|[Worship](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=25553)              |
 |                    1|[Waterlogged Grove](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464198)   |                    1|[Winds of Abandon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463986)    |
-|                    2|[Prismatic Vista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464193)     |                    1|[Worship](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=25553)              |
+|                    2|[Prismatic Vista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464193)     |                    1|[Ashiok, Dream Render](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461155)|
 |                     |                                                                                               |                    2|[Ashiok, Dream Render](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461155)|
 |                     |                                                                                               |                    3|[Ashiok, Dream Render](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461155)|
 

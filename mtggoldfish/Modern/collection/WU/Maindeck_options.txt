@@ -1,57 +1,24 @@
-1 Island
-1 Plains
-2 Plains
-1 Batterskull
-1 Stoneforge Mystic
-2 Stoneforge Mystic
-3 Stoneforge Mystic
+1 Opt
 1 Spell Snare
-3 Teferi, Time Raveler
-4 Stoneforge Mystic
-1 Spell Queller
-2 Spell Queller
-3 Spell Queller
-1 Giver of Runes
-1 Seachrome Coast
-2 Giver of Runes
-2 Seachrome Coast
-3 Giver of Runes
-3 Hallowed Fountain
-3 Seachrome Coast
-4 Seachrome Coast
-1 Sword of Feast and Famine
-4 Spell Queller
-1 Restoration Angel
-1 Sword of Fire and Ice
-2 Restoration Angel
-2 Island
-3 Island
-1 Thalia, Guardian of Thraben
-1 Deputy of Detention
-1 Flickerwisp
-1 Aether Vial
-1 Vendilion Clique
-1 Ghost Quarter
-2 Thalia, Guardian of Thraben
-2 Flickerwisp
-2 Aether Vial
-2 Ghost Quarter
-3 Ghost Quarter
-3 Plains
-3 Thalia, Guardian of Thraben
-3 Aether Vial
-4 Hallowed Fountain
-4 Plains
-4 Aether Vial
-4 Ghost Quarter
-4 Giver of Runes
+1 Force of Negation
+1 Cryptic Command
+1 Glacial Fortress
+1 Celestial Colonnade
+1 Field of Ruin
+2 Force of Negation
+2 Cryptic Command
+2 Celestial Colonnade
+2 Field of Ruin
+2 Opt
+3 Field of Ruin
+3 Opt
+4 Opt
+4 Field of Ruin
 1 Serum Visions
 1 Misty Rainforest
 2 Serum Visions
 3 Serum Visions
 4 Serum Visions
-1 Waterlogged Grove
-1 Horizon Canopy
 1 Brimaz, King of Oreskos
 1 Serra Avenger
 1 Aven Mindcensor
@@ -66,15 +33,6 @@
 2 Aven Mindcensor
 2 Geist of Saint Traft
 3 Flickerwisp
-1 Archangel Avacyn
-1 Snapcaster Mage
-2 Snapcaster Mage
-2 Spell Snare
-2 Prismatic Vista
-2 Archangel Avacyn
-3 Restoration Angel
-3 Snapcaster Mage
-4 Celestial Colonnade
 1 Tolaria West
 1 Spell Pierce
 1 Apostle's Blessing
@@ -107,12 +65,44 @@
 4 Thalia, Guardian of Thraben
 4 Adarkar Wastes
 4 Leonin Arbiter
+1 Snapcaster Mage
+1 Snow-Covered Plains
+1 Prismatic Vista
+1 Archangel Avacyn
+1 Snow-Covered Island
+2 Snapcaster Mage
+2 Snow-Covered Plains
+2 Snow-Covered Island
+2 Spell Snare
+2 Prismatic Vista
+2 Archangel Avacyn
+3 Restoration Angel
+3 Celestial Colonnade
+3 Snapcaster Mage
+3 Snow-Covered Island
+4 Snow-Covered Island
+4 Celestial Colonnade
+5 Snow-Covered Island
 1 Monastery Mentor
-1 Blast Zone
+1 Terminus
+1 Rest in Peace
+1 Mana Leak
+1 Detention Sphere
 1 Narset, Parter of Veils
+1 Jace, the Mind Sculptor
+1 Blast Zone
+2 Glacial Fortress
 2 Monastery Mentor
+2 Rest in Peace
 2 Mana Leak
 2 Narset, Parter of Veils
+2 Jace, the Mind Sculptor
+2 Terminus
+3 Force of Negation
+3 Rest in Peace
+3 Jace, the Mind Sculptor
+3 Terminus
+4 Terminus
 4 Island
 5 Island
 6 Island

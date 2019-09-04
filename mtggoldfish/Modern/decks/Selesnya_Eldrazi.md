@@ -37,7 +37,7 @@
 |--------------------:|-----------------------------------------------------------------------------------------|---------------------|--------------|
 |                    1|[Field of Ruin](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435415) |                     |              |
 |                    2|[Field of Ruin](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435415) |                     |              |
-|                    2|[Horizon Canopy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409571)|                     |              |
 |                    3|[Horizon Canopy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409571)|                     |              |
 |                    4|[Horizon Canopy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409571)|                     |              |
+|                    2|[Horizon Canopy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409571)|                     |              |
 

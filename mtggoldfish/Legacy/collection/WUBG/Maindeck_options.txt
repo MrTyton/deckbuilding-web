@@ -1,117 +1,87 @@
-1 Polluted Delta
-1 Daze
-1 Island
-2 Polluted Delta
-2 Underground Sea
-4 Ponder
-1 Bayou
-1 Griselbrand
-1 Swamp
-1 Entomb
-1 Exhume
-1 Verdant Catacombs
-1 Dark Ritual
-1 Collective Brutality
-1 Thoughtseize
-2 Thoughtseize
-2 Verdant Catacombs
-2 Dark Ritual
-2 Exhume
-2 Entomb
-2 Griselbrand
-3 Griselbrand
-3 Entomb
-3 Exhume
-3 Dark Ritual
-4 Entomb
-4 Dark Ritual
-3 Recruiter of the Guard
+3 Ice-Fang Coatl
+3 Snow-Covered Island
 1 Batterskull
 1 Stoneforge Mystic
 2 Stoneforge Mystic
 3 Stoneforge Mystic
 4 Stoneforge Mystic
-1 Mulldrifter
-1 Snapcaster Mage
-1 Windswept Heath
-2 Savannah
+1 Cavern of Souls
 1 Murderous Redcap
 1 Cephalid Illusionist
 1 Lord of Extinction
 1 The Mimeoplasm
 1 Shuko
 1 Nomads en-Kor
+1 Scalding Tarn
 1 Cabal Therapy
 1 Aether Vial
 1 Narcomoeba
-1 Scalding Tarn
-1 Cavern of Souls
 1 Dread Return
+2 Scalding Tarn
 2 Nomads en-Kor
 2 Cephalid Illusionist
+2 Cabal Therapy
 2 Aether Vial
 2 Narcomoeba
 2 Tundra
-2 Cabal Therapy
 2 Cavern of Souls
-2 Scalding Tarn
 3 Cephalid Illusionist
+3 Cabal Therapy
 3 Cavern of Souls
 3 Tundra
 3 Narcomoeba
-3 Cabal Therapy
 3 Aether Vial
-4 Cephalid Illusionist
 4 Tundra
+4 Cephalid Illusionist
 4 Aether Vial
+1 Savannah
+1 Waterlogged Grove
+1 Food Chain
+1 Misthollow Griffin
+1 Manipulate Fate
+1 Spell Pierce
+1 Teferi, Time Raveler
+1 Watcher for Tomorrow
+1 Walking Ballista
+2 Walking Ballista
+2 Tropical Island
+2 Manipulate Fate
+2 Misthollow Griffin
+2 Food Chain
+2 Teferi, Time Raveler
+2 Watcher for Tomorrow
+3 Teferi, Time Raveler
+3 Manipulate Fate
+3 Misthollow Griffin
+3 Food Chain
+3 Misty Rainforest
+3 Watcher for Tomorrow
+4 Food Chain
+4 Misthollow Griffin
+4 Misty Rainforest
+4 Ice-Fang Coatl
+4 Watcher for Tomorrow
+1 Elesh Norn, Grand Cenobite
 1 Reanimate
+1 Grave Titan
 1 Tidespout Tyrant
 1 Animate Dead
-1 Grave Titan
-1 Elesh Norn, Grand Cenobite
-2 Reanimate
 2 Collective Brutality
-2 Animate Dead
 2 Daze
-3 Reanimate
+2 Animate Dead
+2 Reanimate
 3 Collective Brutality
-3 Polluted Delta
-3 Underground Sea
 3 Daze
-4 Reanimate
+3 Underground Sea
+3 Polluted Delta
+3 Reanimate
 4 Collective Brutality
 4 Daze
+4 Reanimate
 4 Polluted Delta
-1 Academy Ruins
-1 Arcum's Astrolabe
-1 Narset, Parter of Veils
-1 Retrofitter Foundry
-1 Dead of Winter
-1 Thopter Foundry
-1 Baleful Strix
-1 Abrupt Decay
-1 Frostwalk Bastion
-1 Creeping Tar Pit
-1 Sword of the Meek
-1 Urza, Lord High Artificer
-1 Snow-Covered Swamp
-2 Narset, Parter of Veils
-2 Arcum's Astrolabe
-2 Snow-Covered Plains
-2 Dead of Winter
-2 Thopter Foundry
-2 Baleful Strix
-2 Retrofitter Foundry
-2 Urza, Lord High Artificer
-3 Baleful Strix
-3 Arcum's Astrolabe
-3 Prismatic Vista
-3 Thopter Foundry
-3 Urza, Lord High Artificer
-4 Prismatic Vista
-4 Arcum's Astrolabe
-4 Thopter Foundry
+1 Marsh Flats
 1 Scrubland
+1 Thespian's Stage
 1 Shallow Grave
 1 Dark Depths
 1 Unburial Rites
@@ -120,14 +90,12 @@
 1 Urborg, Tomb of Yawgmoth
 1 Vampire Hexmage
 1 Living Wish
-1 Marsh Flats
 1 Children of Korlis
-1 Thespian's Stage
 1 Lotus Petal
-2 Swamp
 2 Marsh Flats
-2 Vampire Hexmage
 2 Thespian's Stage
+2 Vampire Hexmage
+2 Swamp
 2 Dark Depths
 2 Living Wish
 2 Bayou
@@ -136,39 +104,48 @@
 2 Lotus Petal
 2 Shallow Grave
 3 Thespian's Stage
-3 Living Wish
-3 Urborg, Tomb of Yawgmoth
 3 Thoughtseize
-3 Lotus Petal
+3 Living Wish
 3 Dark Depths
+3 Lotus Petal
 3 Shallow Grave
 3 Lion's Eye Diamond
+3 Urborg, Tomb of Yawgmoth
 4 Lotus Petal
 4 Shallow Grave
 4 Exhume
 4 Thoughtseize
 4 Lion's Eye Diamond
 4 Living Wish
-1 Watcher for Tomorrow
-1 Teferi, Time Raveler
-1 Spell Pierce
-1 Food Chain
-1 Misthollow Griffin
-1 Walking Ballista
-1 Manipulate Fate
-1 Waterlogged Grove
-2 Watcher for Tomorrow
-2 Teferi, Time Raveler
-2 Food Chain
-2 Misthollow Griffin
-2 Manipulate Fate
-2 Tropical Island
-2 Walking Ballista
-3 Teferi, Time Raveler
-3 Watcher for Tomorrow
-3 Food Chain
-3 Misthollow Griffin
-3 Manipulate Fate
-4 Misthollow Griffin
-4 Watcher for Tomorrow
-4 Food Chain
+1 Snow-Covered Swamp
+1 Creeping Tar Pit
+1 Sword of the Meek
+1 Arcum's Astrolabe
+1 Thopter Foundry
+1 Academy Ruins
+1 Baleful Strix
+1 Narset, Parter of Veils
+1 Abrupt Decay
+1 Retrofitter Foundry
+1 Dead of Winter
+1 Frostwalk Bastion
+1 Urza, Lord High Artificer
+2 Narset, Parter of Veils
+2 Thopter Foundry
+2 Arcum's Astrolabe
+2 Dead of Winter
+2 Baleful Strix
+2 Retrofitter Foundry
+2 Prismatic Vista
+2 Urza, Lord High Artificer
+2 Snow-Covered Plains
+3 Thopter Foundry
+3 Arcum's Astrolabe
+3 Prismatic Vista
+3 Baleful Strix
+3 Swords to Plowshares
+3 Urza, Lord High Artificer
+4 Prismatic Vista
+4 Swords to Plowshares
+4 Thopter Foundry
+4 Arcum's Astrolabe

@@ -66,6 +66,7 @@
 |                     |                                                                                                |                    1|[Slag Fiend](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=218010)          |
 |                     |                                                                                                |                    2|[Slag Fiend](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=218010)          |
 |                     |                                                                                                |                    3|[Slag Fiend](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=218010)          |
+|                     |                                                                                                |                    3|[Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452)   |
 |                     |                                                                                                |                    4|[Etched Champion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397710)     |
 |                     |                                                                                                |                    1|[By Force](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426825)            |
 |                     |                                                                                                |                    1|[Master of Etherium](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=175114)  |
@@ -76,5 +77,4 @@
 |                     |                                                                                                |                    3|[Ravenous Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197537)       |
 |                     |                                                                                                |                    4|[Ravenous Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197537)       |
 |                     |                                                                                                |                    1|[Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)               |
-|                     |                                                                                                |                    3|[Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452)   |
 

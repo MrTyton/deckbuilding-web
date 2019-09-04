@@ -12,12 +12,12 @@
 3 Shard Volley
 3 Fiery Islet
 4 Fiery Islet
-2 Skullcrack
+3 Light Up the Stage
+4 Light Up the Stage
 9 Mountain
 10 Mountain
 11 Mountain
-3 Light Up the Stage
-4 Light Up the Stage
+2 Skullcrack
 1 Scalding Tarn
 3 Wooded Foothills
 3 Bloodstained Mire
@@ -42,21 +42,49 @@
 2 Mogg Fanatic
 4 Sacred Foundry
 3 Mogg Fanatic
-4 Mogg Fanatic
-1 Grim Lavamancer
 1 Snow-Covered Mountain
 2 Snow-Covered Mountain
 1 Soul-Scar Mage
 2 Soul-Scar Mage
 3 Soul-Scar Mage
 4 Soul-Scar Mage
-1 Plains
 3 Snow-Covered Mountain
+1 Burst Lightning
+2 Burst Lightning
+3 Burst Lightning
+4 Burst Lightning
+1 Bedlam Reveler
+2 Bedlam Reveler
+4 Mogg Fanatic
+1 Grim Lavamancer
+1 Manamorphose
+1 Crash Through
+1 Lava Dart
+2 Manamorphose
+2 Lava Dart
+2 Crash Through
+3 Manamorphose
+3 Bedlam Reveler
+3 Crash Through
+3 Lava Dart
+4 Snow-Covered Mountain
+4 Manamorphose
+4 Crash Through
+5 Snow-Covered Mountain
+6 Snow-Covered Mountain
+7 Snow-Covered Mountain
+8 Snow-Covered Mountain
+9 Snow-Covered Mountain
+10 Snow-Covered Mountain
+11 Snow-Covered Mountain
+1 Plains
+1 Risk Factor
+1 Runaway Steam-Kin
+2 Runaway Steam-Kin
+3 Runaway Steam-Kin
 1 Bomat Courier
 1 Ramunap Ruins
-1 Bedlam Reveler
 2 Bomat Courier
-2 Bedlam Reveler
 2 Ramunap Ruins
 3 Bomat Courier
 3 Ramunap Ruins
@@ -64,10 +92,6 @@
 2 Grim Lavamancer
 3 Grim Lavamancer
 4 Grim Lavamancer
-1 Burst Lightning
-2 Burst Lightning
-3 Burst Lightning
-4 Burst Lightning
 1 Monastery Mentor
 2 Monastery Mentor
 3 Skullcrack
@@ -75,3 +99,11 @@
 4 Monastery Mentor
 4 Skullcrack
 4 Scalding Tarn
+1 Abbot of Keral Keep
+2 Abbot of Keral Keep
+4 Lava Dart
+12 Snow-Covered Mountain
+13 Snow-Covered Mountain
+14 Snow-Covered Mountain
+15 Snow-Covered Mountain
+4 Bedlam Reveler

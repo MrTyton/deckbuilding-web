@@ -39,7 +39,7 @@
 |*n*<sup>th</sup> copy|                                          Maindeck Card                                          |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
 |--------------------:|-------------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
 |                    1|[Scavenging Ooze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420783)       |                    1|[Eternal Witness](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=51628)     |
-|                    1|[Incubation/Incongruity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457370)|                    3|[Voice of Resurgence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=368951)|
-|                    1|[Worship](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=25553)                |                    4|[Voice of Resurgence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=368951)|
+|                    1|[Incubation/Incongruity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457370)|                    4|[Voice of Resurgence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=368951)|
+|                    1|[Worship](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=25553)                |                    3|[Voice of Resurgence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=368951)|
 |                    2|[Deputy of Detention](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457309)   |                     |                                                                                              |
 

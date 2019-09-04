@@ -1,0 +1,34 @@
+# Mono-Blue Stiflenought
+
+#### [Export MTGO List](../collection/Mono-Blue%20Stiflenought/Mono-Blue%20Stiflenought.txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Brainstorm%0A4%09Daze%0A4%09Delver%20of%20Secrets%0A4%09Flooded%20Strand%0A4%09Force%20of%20Will%0A8%09Island%0A4%09Narset,%20Parter%20of%20Veils%0A4%09Phyrexian%20Dreadnought%0A2%09Polluted%20Delta%0A4%09Ponder%0A4%09Preordain%0A2%09Renegade%20Doppelganger%0A4%09Stifle%0A4%09Vision%20Charm%0A4%09Wasteland&deckside=2%09Back%20to%20Basics%0A2%09Blue%20Elemental%20Blast%0A1%09Echoing%20Truth%0A2%09Flusterstorm%0A1%09Hydroblast%0A2%09Snapcaster%20Mage%0A2%09Submerge%0A2%09Surgical%20Extraction%0A1%09Vendilion%20Clique)
+# Maindeck
+
+|                                          Creature (10)                                           |                                      Instant (20)                                      |                                         Land (18)                                         |                                          Planeswalker (4)                                          |                                     Sorcery (8)                                      |
+|--------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
+|4 [Delver of Secrets](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=226749)    |4 [Brainstorm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3897)   |4 [Flooded Strand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405098)|4 [Narset, Parter of Veils](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460988)|4 [Ponder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=451051)   |
+|4 [Phyrexian Dreadnought](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3263)  |4 [Daze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=189255)       |8 [Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)        |                                                                                                    |4 [Preordain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405347)|
+|2 [Renegade Doppelganger](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=193582)|4 [Force of Will](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3107)|2 [Polluted Delta](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405104)|                                                                                                    |                                                                                      |
+|                                                                                                  |4 [Stifle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382377)     |4 [Wasteland](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413790)     |                                                                                                    |                                                                                      |
+|                                                                                                  |4 [Vision Charm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3656) |                                                                                           |                                                                                                    |                                                                                      |
+
+
+# Sideboard
+
+|                                        Creature (3)                                         |                                      Enchantment (2)                                      |                                          Instant (10)                                          |
+|---------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
+|2 [Snapcaster Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=227676) |2 [Back to Basics](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456642)|2 [Blue Elemental Blast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=694)  |
+|1 [Vendilion Clique](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442065)|                                                                                           |1 [Echoing Truth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405212)      |
+|                                                                                             |                                                                                           |2 [Flusterstorm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=228255)       |
+|                                                                                             |                                                                                           |1 [Hydroblast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3915)           |
+|                                                                                             |                                                                                           |2 [Submerge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=21296)            |
+|                                                                                             |                                                                                           |2 [Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|
+
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                      Maindeck Card                                       |*n*<sup>th</sup> copy|Sideboard Card|
+|--------------------:|------------------------------------------------------------------------------------------|---------------------|--------------|
+|                    1|[Prismatic Vista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464193)|                     |              |
+|                    2|[Prismatic Vista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464193)|                     |              |
+
