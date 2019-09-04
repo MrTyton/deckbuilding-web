@@ -1,61 +1,80 @@
 1 Island
 1 Plains
 2 Plains
+1 Batterskull
+1 Stoneforge Mystic
+2 Stoneforge Mystic
+3 Stoneforge Mystic
+1 Spell Snare
+3 Teferi, Time Raveler
+4 Stoneforge Mystic
+1 Spell Queller
+2 Spell Queller
+3 Spell Queller
+1 Giver of Runes
+1 Seachrome Coast
+2 Giver of Runes
+2 Seachrome Coast
+3 Giver of Runes
+3 Hallowed Fountain
+3 Seachrome Coast
+4 Seachrome Coast
+1 Sword of Feast and Famine
+4 Spell Queller
+1 Restoration Angel
+1 Sword of Fire and Ice
+2 Restoration Angel
+2 Island
+3 Island
+1 Thalia, Guardian of Thraben
+1 Deputy of Detention
+1 Flickerwisp
+1 Aether Vial
+1 Vendilion Clique
+1 Ghost Quarter
+2 Thalia, Guardian of Thraben
+2 Flickerwisp
+2 Aether Vial
+2 Ghost Quarter
+3 Ghost Quarter
+3 Plains
+3 Thalia, Guardian of Thraben
+3 Aether Vial
+4 Hallowed Fountain
+4 Plains
+4 Aether Vial
+4 Ghost Quarter
+4 Giver of Runes
 1 Serum Visions
 1 Misty Rainforest
 2 Serum Visions
 3 Serum Visions
 4 Serum Visions
-2 Island
-3 Island
-1 Batterskull
-1 Stoneforge Mystic
-1 Giver of Runes
-1 Seachrome Coast
-2 Stoneforge Mystic
-2 Seachrome Coast
-2 Giver of Runes
-3 Hallowed Fountain
-3 Stoneforge Mystic
-3 Giver of Runes
-3 Seachrome Coast
-3 Teferi, Time Raveler
-4 Stoneforge Mystic
-4 Giver of Runes
-4 Seachrome Coast
-1 Leonin Arbiter
-1 Sword of Feast and Famine
-1 Deputy of Detention
-1 Flickerwisp
-1 Aether Vial
-1 Vendilion Clique
-1 Spell Queller
-1 Thalia, Guardian of Thraben
-1 Ghost Quarter
-1 Adarkar Wastes
-2 Leonin Arbiter
-2 Adarkar Wastes
-2 Flickerwisp
-2 Aether Vial
-2 Ghost Quarter
-2 Thalia, Guardian of Thraben
-2 Spell Queller
-3 Ghost Quarter
-3 Plains
-3 Leonin Arbiter
-3 Spell Queller
-3 Adarkar Wastes
-3 Thalia, Guardian of Thraben
-3 Aether Vial
-4 Hallowed Fountain
-4 Thalia, Guardian of Thraben
-4 Plains
-4 Leonin Arbiter
-4 Ghost Quarter
-4 Spell Queller
-4 Aether Vial
-4 Adarkar Wastes
 1 Waterlogged Grove
+1 Horizon Canopy
+1 Brimaz, King of Oreskos
+1 Serra Avenger
+1 Aven Mindcensor
+1 Moorland Haunt
+1 Glen Elendra Archmage
+1 Blade Splicer
+1 Sword of Light and Shadow
+1 Geist of Saint Traft
+1 Eiganjo Castle
+2 Serra Avenger
+2 Vendilion Clique
+2 Aven Mindcensor
+2 Geist of Saint Traft
+3 Flickerwisp
+1 Archangel Avacyn
+1 Snapcaster Mage
+2 Snapcaster Mage
+2 Spell Snare
+2 Prismatic Vista
+2 Archangel Avacyn
+3 Restoration Angel
+3 Snapcaster Mage
+4 Celestial Colonnade
 1 Tolaria West
 1 Spell Pierce
 1 Apostle's Blessing
@@ -66,7 +85,6 @@
 1 Windswept Heath
 1 Inkmoth Nexus
 1 Sigarda's Aid
-1 Horizon Canopy
 2 Kor Outfitter
 2 Inkmoth Nexus
 2 Spell Pierce
@@ -80,8 +98,16 @@
 4 Sigarda's Aid
 4 Blighted Agent
 4 Inkmoth Nexus
+1 Leonin Arbiter
+1 Adarkar Wastes
+2 Adarkar Wastes
+2 Leonin Arbiter
+3 Adarkar Wastes
+3 Leonin Arbiter
+4 Thalia, Guardian of Thraben
+4 Adarkar Wastes
+4 Leonin Arbiter
 1 Monastery Mentor
-1 Spell Snare
 1 Blast Zone
 1 Narset, Parter of Veils
 2 Monastery Mentor

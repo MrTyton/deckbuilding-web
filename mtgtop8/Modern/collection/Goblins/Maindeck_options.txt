@@ -93,16 +93,11 @@
 3 Goblin Chieftain
 4 Goblin Chieftain
 1 Pendelhaven
-1 Inspiring Vantage
 1 Chandra, Acolyte of Flame
+1 Inspiring Vantage
 2 Sacred Foundry
 2 Inspiring Vantage
 3 Krenko, Mob Boss
-1 Warren Weirding
-2 Arid Mesa
-3 Arid Mesa
-3 Blackcleave Cliffs
-4 Blackcleave Cliffs
 4 Field of Ruin
 1 Stomping Ground
 1 Atarka's Command
@@ -110,6 +105,11 @@
 2 Atarka's Command
 3 Atarka's Command
 4 Mogg Fanatic
+1 Warren Weirding
+2 Arid Mesa
+3 Arid Mesa
+3 Blackcleave Cliffs
+4 Blackcleave Cliffs
 1 Unearth
 1 Unclaimed Territory
 1 Mad Auntie
@@ -117,14 +117,14 @@
 3 Unclaimed Territory
 4 Unclaimed Territory
 1 Polluted Delta
+1 Kolaghan's Command
 1 Dreadbore
 1 Terminate
-1 Kolaghan's Command
 1 Fatal Push
 2 Polluted Delta
-2 Kolaghan's Command
 2 Swamp
 2 Fatal Push
+2 Kolaghan's Command
 3 Swamp
 3 Fatal Push
 4 Fatal Push
@@ -141,8 +141,8 @@
 3 Light Up the Stage
 4 Ramunap Ruins
 4 Light Up the Stage
-1 Snow-Covered Mountain
 1 Stingscourger
+1 Snow-Covered Mountain
 2 Snow-Covered Mountain
 3 Snow-Covered Mountain
 4 Snow-Covered Mountain
@@ -156,14 +156,14 @@
 2 Kuldotha Rebirth
 2 Ornithopter
 2 Memnite
-3 Memnite
 3 Kuldotha Rebirth
+3 Memnite
 3 Ornithopter
 3 Signal Pest
 4 Signal Pest
 4 Kuldotha Rebirth
 4 Memnite
 4 Ornithopter
-14 Mountain
 15 Mountain
 16 Mountain
+14 Mountain

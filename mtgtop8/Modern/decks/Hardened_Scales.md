@@ -58,9 +58,9 @@
 |                    1|[Relic of Progenitus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174824) |                     |                                                                                              |
 |                    1|[Spellskite](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397743)          |                     |                                                                                              |
 |                    1|[Dismember](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382182)           |                     |                                                                                              |
+|                    1|[Dispatch](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397781)            |                     |                                                                                              |
+|                    2|[Waterlogged Grove](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464198)   |                     |                                                                                              |
 |                    3|[Nurturing Peatland](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464192)  |                     |                                                                                              |
 |                    5|[Snow-Covered Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121192) |                     |                                                                                              |
 |                    6|[Snow-Covered Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121192) |                     |                                                                                              |
-|                    2|[Waterlogged Grove](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464198)   |                     |                                                                                              |
-|                    1|[Dispatch](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397781)            |                     |                                                                                              |
 

@@ -2,8 +2,8 @@
 2 Copperline Gorge
 4 Smokebraider
 1 Faithless Looting
-2 Faithless Looting
 2 Blood Crypt
+2 Faithless Looting
 3 Faithless Looting
 4 Faithless Looting
 1 Sacred Foundry
@@ -47,30 +47,6 @@
 2 Scampering Scorcher
 2 Lumbering Falls
 4 Blood Crypt
-1 Swamp
-1 Insolent Neonate
-1 Vengevine
-1 Burning-Tree Emissary
-1 Reckless Bushwhacker
-1 Memnite
-1 Bloodrage Brawler
-2 Insolent Neonate
-2 Vengevine
-2 Burning-Tree Emissary
-2 Reckless Bushwhacker
-2 Memnite
-2 Bloodrage Brawler
-3 Insolent Neonate
-3 Vengevine
-3 Burning-Tree Emissary
-3 Reckless Bushwhacker
-3 Memnite
-4 Vengevine
-4 Burning-Tree Emissary
-4 Blackcleave Cliffs
-4 Wooded Foothills
-4 Memnite
-4 Insolent Neonate
 1 Incandescent Soulstoke
 1 Spitebellows
 1 Nova Chaser
@@ -126,6 +102,30 @@
 3 Creeping Trailblazer
 4 Copperline Gorge
 4 Leyline of the Void
+1 Swamp
+1 Insolent Neonate
+1 Burning-Tree Emissary
+1 Reckless Bushwhacker
+1 Memnite
+1 Bloodrage Brawler
+1 Vengevine
+2 Insolent Neonate
+2 Burning-Tree Emissary
+2 Reckless Bushwhacker
+2 Memnite
+2 Vengevine
+2 Bloodrage Brawler
+3 Insolent Neonate
+3 Burning-Tree Emissary
+3 Reckless Bushwhacker
+3 Memnite
+3 Vengevine
+4 Burning-Tree Emissary
+4 Blackcleave Cliffs
+4 Wooded Foothills
+4 Memnite
+4 Insolent Neonate
+4 Vengevine
 1 Arid Mesa
 1 Unearth
 1 Inquisition of Kozilek
@@ -147,8 +147,8 @@
 2 Collective Brutality
 2 Fatal Push
 2 Dreadhorde Arcanist
-3 Unearth
 3 Snow-Covered Mountain
+3 Unearth
 3 Ball Lightning
 3 Thoughtseize
 3 Inquisition of Kozilek

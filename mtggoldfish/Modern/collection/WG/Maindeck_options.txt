@@ -1,47 +1,63 @@
+3 Plains
+1 Field of Ruin
+1 Knight of Autumn
+1 Restoration Angel
+2 Restoration Angel
+3 Restoration Angel
+4 Thalia, Guardian of Thraben
+1 Tectonic Edge
+2 Tectonic Edge
+4 Windswept Heath
+1 Stirring Wildwood
+2 Stirring Wildwood
+2 Knight of Autumn
+1 Ranger-Captain of Eos
+2 Ranger-Captain of Eos
+4 Plains
+1 Birds of Paradise
+1 Eternal Witness
 2 Field of Ruin
 2 Eternal Witness
 3 Field of Ruin
-3 Scavenging Ooze
-4 Temple Garden
-3 Plains
-1 Flagstones of Trokair
 1 Elvish Reclaimer
+1 Flagstones of Trokair
 1 Knight of the Reliquary
-2 Elvish Reclaimer
 2 Flagstones of Trokair
+2 Elvish Reclaimer
 2 Knight of the Reliquary
+3 Flagstones of Trokair
 3 Knight of the Reliquary
 3 Elvish Reclaimer
-3 Flagstones of Trokair
 4 Knight of the Reliquary
 4 Elvish Reclaimer
 4 Flagstones of Trokair
+1 Collected Company
+2 Collected Company
+3 Collected Company
+4 Collected Company
 1 Walking Ballista
-1 Leonin Arbiter
-1 Qasali Pridemage
-1 Dromoka's Command
-1 Stirring Wildwood
-1 Tectonic Edge
-2 Leonin Arbiter
-2 Tectonic Edge
-2 Stirring Wildwood
-2 Qasali Pridemage
-3 Leonin Arbiter
-3 Stirring Wildwood
-3 Qasali Pridemage
-4 Ghost Quarter
-4 Giver of Runes
-4 Leonin Arbiter
-4 Scavenging Ooze
+1 Renegade Rallier
+2 Renegade Rallier
+4 Restoration Angel
+1 Collector Ouphe
+1 Aven Mindcensor
+1 Voice of Resurgence
+1 Hexdrinker
+2 Hexdrinker
+2 Collector Ouphe
+2 Aven Mindcensor
+2 Voice of Resurgence
+3 Voice of Resurgence
+3 Knight of Autumn
+4 Knight of Autumn
 1 Shalai, Voice of Plenty
 1 Courser of Kruphix
 2 Courser of Kruphix
 1 Wooded Foothills
 1 Misty Rainforest
 1 Eldritch Evolution
-1 Gavony Township
 1 Acidic Slime
-1 Birds of Paradise
+1 Gavony Township
 1 Spike Feeder
 1 Sapseep Forest
 1 Linvala, Keeper of Silence
@@ -52,24 +68,24 @@
 1 Archangel of Thune
 2 Birds of Paradise
 2 Misty Rainforest
-2 Spike Feeder
 2 Kitchen Finks
-2 Crested Sunmare
+2 Spike Feeder
 2 Eldritch Evolution
+2 Crested Sunmare
 3 Birds of Paradise
 3 Misty Rainforest
-3 Courser of Kruphix
 3 Crested Sunmare
+3 Courser of Kruphix
 3 Eldritch Evolution
 3 Kitchen Finks
 4 Misty Rainforest
 4 Kitchen Finks
 4 Birds of Paradise
-4 Plains
 4 Eldritch Evolution
 1 Snow-Covered Forest
 1 Field of the Dead
 1 Khalni Garden
+1 Breeding Pool
 1 Engineered Explosives
 1 Bojuka Bog
 1 Simic Growth Chamber
@@ -80,17 +96,16 @@
 1 Amulet of Vigor
 1 Sunhome, Fortress of the Legion
 1 Primeval Titan
-1 Breeding Pool
 1 Selesnya Sanctuary
 1 Tolaria West
-1 Azusa, Lost but Seeking
 1 Slayers' Stronghold
 1 Gruul Turf
+1 Azusa, Lost but Seeking
+2 Azusa, Lost but Seeking
 2 Amulet of Vigor
 2 Selesnya Sanctuary
 2 Simic Growth Chamber
 2 Summoner's Pact
-2 Azusa, Lost but Seeking
 2 Tolaria West
 2 Primeval Titan
 3 Selesnya Sanctuary
@@ -103,13 +118,19 @@
 4 Primeval Titan
 4 Azusa, Lost but Seeking
 4 Amulet of Vigor
+1 Qasali Pridemage
+1 Dromoka's Command
+2 Qasali Pridemage
+3 Stirring Wildwood
+3 Qasali Pridemage
+4 Scavenging Ooze
 1 Marsh Flats
 1 Flooded Strand
 1 Mistveil Plains
 1 Arid Mesa
+1 Winds of Abandon
 1 Emeria, the Sky Ruin
 1 Thraben Inspector
-1 Winds of Abandon
 1 Karn, the Great Creator
 1 Sejiri Steppe
 2 Arid Mesa
@@ -118,36 +139,80 @@
 3 Karn, the Great Creator
 4 Karn, the Great Creator
 4 Ranger-Captain of Eos
-1 Renegade Rallier
-2 Renegade Rallier
-4 Restoration Angel
-4 Thalia, Guardian of Thraben
+1 Vizier of Remedies
+1 Dryad Arbor
+1 Finale of Devastation
+1 Leyline of Abundance
+1 Elvish Archdruid
+1 Ezuri, Renegade Leader
+1 Boreal Druid
+1 Devoted Druid
+1 Cavern of Souls
+1 Elvish Clancaller
+1 Llanowar Elves
+1 Elvish Mystic
+2 Llanowar Elves
+2 Elvish Mystic
+2 Leyline of Abundance
+2 Vizier of Remedies
+2 Devoted Druid
+2 Elvish Clancaller
+2 Elvish Archdruid
+2 Boreal Druid
+2 Ezuri, Renegade Leader
+2 Finale of Devastation
+3 Forest
+3 Llanowar Elves
+3 Boreal Druid
+3 Finale of Devastation
+3 Elvish Clancaller
+3 Elvish Mystic
+3 Leyline of Abundance
+3 Devoted Druid
+3 Elvish Archdruid
+3 Ezuri, Renegade Leader
+4 Llanowar Elves
+4 Leyline of Abundance
+4 Elvish Clancaller
+4 Elvish Mystic
+4 Devoted Druid
+4 Elvish Archdruid
+4 Finale of Devastation
+4 Ezuri, Renegade Leader
+4 Boreal Druid
+1 Spellskite
+1 Hanged Executioner
+1 Gaddock Teeg
+2 Spellskite
+2 Hanged Executioner
+3 Tectonic Edge
+4 Tectonic Edge
+5 Plains
 1 Snow-Covered Plains
 1 Ramunap Excavator
+1 Primal Command
+1 Hornet Queen
 1 Mana Tithe
 1 Utopia Sprawl
 1 Runed Halo
-1 Primal Command
-1 Knight of Autumn
 1 Arbor Elf
 1 Ghostly Prison
-1 Hornet Queen
 1 Mwonvuli Acid-Moss
-2 Mwonvuli Acid-Moss
 2 Utopia Sprawl
+2 Mwonvuli Acid-Moss
 2 Arbor Elf
-2 Primal Command
 2 Runed Halo
 2 Mana Tithe
+2 Primal Command
 2 Ghostly Prison
 2 Snow-Covered Forest
-3 Mwonvuli Acid-Moss
 3 Primal Command
 3 Ghostly Prison
-3 Arbor Elf
 3 Eternal Witness
 3 Runed Halo
+3 Mwonvuli Acid-Moss
 3 Snow-Covered Forest
+3 Arbor Elf
 3 Mana Tithe
 3 Utopia Sprawl
 4 Snow-Covered Forest

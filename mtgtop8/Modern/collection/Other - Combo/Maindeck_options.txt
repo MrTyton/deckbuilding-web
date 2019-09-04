@@ -1,3 +1,63 @@
+1 Forest
+2 Forest
+1 Walking Ballista
+1 Karn, the Great Creator
+2 Karn, the Great Creator
+3 Karn, the Great Creator
+4 Karn, the Great Creator
+1 Zhalfirin Void
+1 Copperline Gorge
+1 Everflowing Chalice
+1 Astral Cornucopia
+1 Coretapper
+1 Surge Node
+1 Mox Opal
+1 Horizon Canopy
+1 Mystic Forge
+1 Inventors' Fair
+1 Grove of the Burnwillows
+1 Pyrite Spellbomb
+1 Nurturing Peatland
+1 Blast Zone
+1 Paradox Engine
+1 Engineered Explosives
+1 Ensnaring Bridge
+1 Ancient Stirrings
+2 Grove of the Burnwillows
+2 Zhalfirin Void
+2 Surge Node
+2 Astral Cornucopia
+2 Coretapper
+2 Inventors' Fair
+2 Everflowing Chalice
+2 Mox Opal
+2 Mystic Forge
+2 Ensnaring Bridge
+2 Paradox Engine
+2 Ancient Stirrings
+2 Pyrite Spellbomb
+2 Blast Zone
+3 Blast Zone
+3 Grove of the Burnwillows
+3 Ensnaring Bridge
+3 Everflowing Chalice
+3 Astral Cornucopia
+3 Surge Node
+3 Mox Opal
+3 Coretapper
+3 Mystic Forge
+3 Ancient Stirrings
+3 Paradox Engine
+3 Inventors' Fair
+3 Pyrite Spellbomb
+4 Grove of the Burnwillows
+4 Surge Node
+4 Astral Cornucopia
+4 Blast Zone
+4 Coretapper
+4 Everflowing Chalice
+4 Mox Opal
+4 Ancient Stirrings
 1 Simian Spirit Guide
 1 Mountain
 1 Lightning Bolt
@@ -46,66 +106,6 @@
 4 As Foretold
 4 Electrodominance
 4 Ancestral Vision
-1 Forest
-2 Forest
-1 Walking Ballista
-1 Karn, the Great Creator
-2 Karn, the Great Creator
-3 Karn, the Great Creator
-4 Karn, the Great Creator
-1 Zhalfirin Void
-1 Surge Node
-1 Coretapper
-1 Astral Cornucopia
-1 Everflowing Chalice
-1 Mox Opal
-1 Horizon Canopy
-1 Mystic Forge
-1 Inventors' Fair
-1 Grove of the Burnwillows
-1 Pyrite Spellbomb
-1 Nurturing Peatland
-1 Blast Zone
-1 Paradox Engine
-1 Engineered Explosives
-1 Ensnaring Bridge
-1 Copperline Gorge
-1 Ancient Stirrings
-2 Grove of the Burnwillows
-2 Zhalfirin Void
-2 Coretapper
-2 Astral Cornucopia
-2 Surge Node
-2 Everflowing Chalice
-2 Mox Opal
-2 Mystic Forge
-2 Ensnaring Bridge
-2 Inventors' Fair
-2 Paradox Engine
-2 Ancient Stirrings
-2 Pyrite Spellbomb
-2 Blast Zone
-3 Blast Zone
-3 Grove of the Burnwillows
-3 Ensnaring Bridge
-3 Coretapper
-3 Everflowing Chalice
-3 Astral Cornucopia
-3 Mox Opal
-3 Mystic Forge
-3 Ancient Stirrings
-3 Paradox Engine
-3 Inventors' Fair
-3 Surge Node
-3 Pyrite Spellbomb
-4 Grove of the Burnwillows
-4 Everflowing Chalice
-4 Coretapper
-4 Blast Zone
-4 Astral Cornucopia
-4 Mox Opal
-4 Ancient Stirrings
-4 Surge Node
 1 Desperate Ritual
 1 Faithless Looting
 1 Pact of Negation
@@ -156,12 +156,12 @@
 4 Wild Cantor
 4 Renegade Map
 4 Lay of the Land
-1 Nykthos, Shrine to Nyx
 1 Acidic Slime
 1 Breeding Pool
-1 Overgrowth
-1 Trinisphere
 1 Garruk Wildspeaker
+1 Overgrowth
+1 Nykthos, Shrine to Nyx
+1 Trinisphere
 1 Utopia Sprawl
 1 Windswept Heath
 1 Mwonvuli Acid-Moss
@@ -174,6 +174,7 @@
 2 Acidic Slime
 2 Breeding Pool
 2 Walking Ballista
+2 Garruk Wildspeaker
 2 Trinisphere
 2 Nissa, Vastwood Seer
 2 Mwonvuli Acid-Moss
@@ -181,16 +182,15 @@
 2 Arbor Elf
 2 Overgrowth
 2 Primal Command
-2 Garruk Wildspeaker
 2 Nissa, Worldwaker
 2 Windswept Heath
 2 Eternal Witness
+3 Acidic Slime
 3 Windswept Heath
 3 Arbor Elf
 3 Mwonvuli Acid-Moss
 3 Forest
 3 Primal Command
-3 Acidic Slime
 3 Overgrowth
 3 Utopia Sprawl
 4 Primal Command

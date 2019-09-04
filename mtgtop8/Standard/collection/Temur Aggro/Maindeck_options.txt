@@ -27,8 +27,8 @@
 2 Overgrowth Elemental
 3 Chandra, Acolyte of Flame
 1 Incubation Druid
-2 Incubation Druid
 2 Island
+2 Incubation Druid
 1 Unclaimed Territory
 1 Chandra's Embercat
 2 Unclaimed Territory
@@ -90,9 +90,9 @@
 3 Temple of Epiphany
 3 Temple of Mystery
 1 Dragonskull Summit
+1 Woodland Cemetery
 1 Yarok, the Desecrated
 1 Overgrown Tomb
-1 Woodland Cemetery
 1 Watery Grave
 1 Drowned Catacomb
 2 Overgrown Tomb
@@ -100,8 +100,6 @@
 2 Yarok, the Desecrated
 3 Scampering Scorcher
 3 Yarok, the Desecrated
-6 Forest
-7 Forest
 1 Jadelight Ranger
 1 Wildgrowth Walker
 2 Jadelight Ranger
@@ -110,3 +108,5 @@
 3 Jadelight Ranger
 4 Wildgrowth Walker
 4 Jadelight Ranger
+7 Forest
+6 Forest

@@ -1,7 +1,7 @@
 # Allosaurus Combo
 
 #### [Export MTGO List](../collection/Allosaurus%20Combo/Allosaurus%20Combo.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Allosaurus%20Rider%0A2%09Autochthon%20Wurm%0A4%09Botanical%20Sanctum%0A2%09Breeding%20Pool%0A4%09Chancellor%20of%20the%20Tangle%0A1%09Edge%20of%20Autumn%0A4%09Eldritch%20Evolution%0A4%09Gemstone%20Mine%0A2%09Griselbrand%0A1%09Island%0A1%09Laboratory%20Maniac%0A1%09Life%20Goes%20On%0A4%09Manamorphose%0A4%09Neoform%0A4%09Nourishing%20Shoal%0A1%09Noxious%20Revival%0A1%09Pact%20of%20Negation%0A1%09Safewright%20Quest%0A4%09Serum%20Visions%0A4%09Simian%20Spirit%20Guide%0A4%09Summoner's%20Pact%0A2%09Waterlogged%20Grove%0A1%09Wild%20Cantor&deckside=3%09Leyline%20of%20Sanctity%0A3%09Oxidize%0A3%09Pact%20of%20Negation%0A4%09Slaughter%20Pact%0A2%09Veil%20of%20Summer)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Allosaurus%20Rider%0A2%09Autochthon%20Wurm%0A4%09Botanical%20Sanctum%0A2%09Breeding%20Pool%0A4%09Chancellor%20of%20the%20Tangle%0A1%09Edge%20of%20Autumn%0A4%09Eldritch%20Evolution%0A4%09Gemstone%20Mine%0A2%09Griselbrand%0A1%09Island%0A1%09Laboratory%20Maniac%0A1%09Life%20Goes%20On%0A4%09Manamorphose%0A4%09Neoform%0A4%09Nourishing%20Shoal%0A1%09Noxious%20Revival%0A1%09Pact%20of%20Negation%0A1%09Safewright%20Quest%0A4%09Serum%20Visions%0A4%09Simian%20Spirit%20Guide%0A4%09Summoner's%20Pact%0A2%09Waterlogged%20Grove%0A1%09Wild%20Cantor&deckside=2%09Leyline%20of%20Sanctity%0A4%09Oxidize%0A3%09Pact%20of%20Negation%0A4%09Slaughter%20Pact%0A2%09Veil%20of%20Summer)
 # Maindeck
 
 |                                            Creature (18)                                            |                                        Instant (15)                                         |                                          Land (13)                                           |                                         Sorcery (14)                                          |
@@ -17,9 +17,9 @@
 
 # Sideboard
 
-|                                        Enchantment (3)                                         |                                        Instant (12)                                         |
+|                                        Enchantment (2)                                         |                                        Instant (13)                                         |
 |------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|
-|3 [Leyline of Sanctity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=204993)|3 [Oxidize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=46012)          |
+|2 [Leyline of Sanctity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=204993)|4 [Oxidize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=46012)          |
 |                                                                                                |3 [Pact of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442057)|
 |                                                                                                |4 [Slaughter Pact](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=130704)  |
 |                                                                                                |2 [Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)  |
@@ -29,12 +29,12 @@
 
 |*n*<sup>th</sup> copy|                                          Maindeck Card                                           |*n*<sup>th</sup> copy|                                        Sideboard Card                                         |
 |--------------------:|--------------------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------------|
-|                    1|[Street Wraith](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442097)          |                    4|[Leyline of Sanctity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=204993) |
-|                    3|[Waterlogged Grove](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464198)      |                    1|[Engineered Explosives](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=50139)|
-|                    4|[Waterlogged Grove](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464198)      |                    4|[Pact of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442057)    |
-|                    1|[Yavimaya Coast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129810)         |                    3|[Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)      |
-|                    1|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)                 |                    4|[Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)      |
-|                    1|[Tranquil Thicket](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220494)       |                    1|[Hope of Ghirapur](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423821)    |
-|                    1|[Dissenter's Deliverance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426866)|                    4|[Oxidize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=46012)              |
+|                    1|[Street Wraith](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442097)          |                    3|[Leyline of Sanctity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=204993) |
+|                    3|[Waterlogged Grove](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464198)      |                    4|[Leyline of Sanctity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=204993) |
+|                    4|[Waterlogged Grove](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464198)      |                    1|[Engineered Explosives](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=50139)|
+|                    1|[Yavimaya Coast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129810)         |                    1|[Hope of Ghirapur](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423821)    |
+|                    1|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)                 |                    4|[Pact of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442057)    |
+|                    1|[Tranquil Thicket](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220494)       |                    3|[Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)      |
+|                    1|[Dissenter's Deliverance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426866)|                    4|[Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)      |
 |                    2|[Life Goes On](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430810)           |                     |                                                                                               |
 

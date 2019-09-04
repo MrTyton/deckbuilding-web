@@ -22,8 +22,8 @@
 1 Scavenging Ooze
 2 Horizon Canopy
 2 Misty Rainforest
-2 Snow-Covered Forest
 2 Utopia Sprawl
+2 Snow-Covered Forest
 2 Teferi, Time Raveler
 2 Karn, the Great Creator
 2 Arbor Elf
@@ -89,38 +89,40 @@
 4 Inquisition of Kozilek
 4 Thunderkin Awakener
 1 Mutavault
+1 Dryad Arbor
 1 Forest
 1 Overgrown Tomb
 1 Verdant Catacombs
 1 Cabal Therapist
 1 Urborg, Tomb of Yawgmoth
 1 Satyr Wayfinder
-1 Dryad Arbor
 1 Bloodghast
 1 Stitcher's Supplier
 1 Smallpox
 1 Nurturing Peatland
 1 Hogaak, Arisen Necropolis
+2 Satyr Wayfinder
 2 Mutavault
 2 Verdant Catacombs
 2 Nurturing Peatland
 2 Cabal Therapist
 2 Stitcher's Supplier
 2 Hogaak, Arisen Necropolis
-2 Satyr Wayfinder
 2 Smallpox
 2 Urborg, Tomb of Yawgmoth
 2 Bloodghast
+3 Satyr Wayfinder
 3 Mutavault
 3 Verdant Catacombs
 3 Cabal Therapist
 3 Hogaak, Arisen Necropolis
 3 Bloodghast
-3 Satyr Wayfinder
 3 Smallpox
 3 Stitcher's Supplier
 3 Urborg, Tomb of Yawgmoth
 3 Nurturing Peatland
+4 Hogaak, Arisen Necropolis
+4 Satyr Wayfinder
 4 Nurturing Peatland
 4 Verdant Catacombs
 4 Liliana of the Veil
@@ -128,9 +130,7 @@
 4 Smallpox
 4 Urborg, Tomb of Yawgmoth
 4 Swamp
-4 Satyr Wayfinder
 4 Bloodghast
-4 Hogaak, Arisen Necropolis
 4 Cabal Therapist
 4 Mutavault
 5 Swamp
@@ -194,26 +194,26 @@
 6 Snow-Covered Island
 1 Mana Leak
 1 Fiery Islet
+1 Pteramander
 1 Spellstutter Sprite
+1 Disrupting Shoal
 1 Curious Obsession
 1 Force of Negation
 1 Vapor Snag
 1 Spell Pierce
 1 Faerie Seer
-1 Disrupting Shoal
 1 Island
 1 Archmage's Charm
 1 Mausoleum Wanderer
-1 Pteramander
 1 Ninja of the Deep Hours
 2 Mana Leak
-2 Spellstutter Sprite
+2 Pteramander
 2 Curious Obsession
+2 Spellstutter Sprite
 2 Vapor Snag
 2 Spell Pierce
 2 Faerie Seer
 2 Island
-2 Pteramander
 2 Archmage's Charm
 2 Mausoleum Wanderer
 2 Disrupting Shoal
@@ -230,8 +230,8 @@
 3 Island
 3 Faerie Seer
 4 Vapor Snag
-4 Curious Obsession
 4 Force of Negation
+4 Curious Obsession
 4 Spellstutter Sprite
 4 Ninja of the Deep Hours
 4 Mausoleum Wanderer
