@@ -42,8 +42,8 @@
 |                     |                                                                                         |                    1|[Ceremonious Rejection](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417613)       |
 |                     |                                                                                         |                    1|[Battle at the Bridge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423720)        |
 |                     |                                                                                         |                    1|[Fatal Push](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423724)                  |
-|                     |                                                                                         |                    2|[Ceremonious Rejection](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417613)       |
 |                     |                                                                                         |                    2|[Battle at the Bridge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423720)        |
+|                     |                                                                                         |                    2|[Ceremonious Rejection](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417613)       |
 |                     |                                                                                         |                    2|[Fatal Push](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423724)                  |
 |                     |                                                                                         |                    3|[Battle at the Bridge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423720)        |
 

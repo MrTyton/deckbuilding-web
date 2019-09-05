@@ -28,9 +28,6 @@
 4 Altar of Dementia
 3 City of Brass
 4 City of Brass
-4 Ichorid
-3 Mana Confluence
-4 Mana Confluence
 1 Marsh Flats
 1 Verdant Catacombs
 2 Verdant Catacombs
@@ -42,10 +39,11 @@
 2 Scrubland
 4 Polluted Delta
 1 Bloodstained Mire
+4 Ichorid
+3 Mana Confluence
+4 Mana Confluence
 2 Entomb
 3 Entomb
-4 Golgari Thug
-4 Gemstone Mine
 2 Marsh Flats
 4 Entomb
 4 Verdant Catacombs
@@ -55,6 +53,7 @@
 2 Vengevine
 3 Vengevine
 4 Vengevine
+4 Golgari Thug
 1 Dread Return
 2 Dread Return
 1 Phyrexian Tower
@@ -64,6 +63,7 @@
 3 Marsh Flats
 4 Marsh Flats
 3 Careful Study
+4 Gemstone Mine
 4 Putrid Imp
 1 Thoughtseize
 1 Creeping Chill

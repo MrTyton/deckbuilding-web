@@ -8,21 +8,21 @@
 1 Stomping Ground
 1 Snow-Covered Island
 1 Wrenn and Six
+1 Breeding Pool
 1 Jace, the Mind Sculptor
 1 Magmatic Sinkhole
-1 Tarmogoyf
-1 Breeding Pool
 1 Misty Rainforest
+1 Tarmogoyf
 2 Jace, the Mind Sculptor
+2 Misty Rainforest
 2 Snow-Covered Island
 2 Tarmogoyf
-2 Misty Rainforest
 3 Misty Rainforest
 3 Snow-Covered Island
 3 Tarmogoyf
+4 Lightning Bolt
 4 Misty Rainforest
 4 Snow-Covered Island
-4 Lightning Bolt
 1 Serum Visions
 1 Snapcaster Mage
 2 Serum Visions
@@ -92,11 +92,11 @@
 4 Opt
 1 Izzet Charm
 1 Bloodbraid Elf
+1 Waterlogged Grove
 1 Dreadhorde Arcanist
 1 As Foretold
 1 Ancestral Vision
 1 Cascade Bluffs
-1 Waterlogged Grove
 1 Crashing Footfalls
 1 Fiery Islet
 1 Electrodominance
@@ -160,19 +160,19 @@
 1 Jace, Vryn's Prodigy
 1 Lonely Sandbar
 1 Huntmaster of the Fells
+1 Force of Negation
 1 Ice-Fang Coatl
 1 Flame Slash
-1 Force of Negation
-1 Mana Leak
 1 Spell Snare
+1 Mana Leak
 1 Pulse of Murasa
 1 Prismatic Vista
 2 Lonely Sandbar
 2 Huntmaster of the Fells
+2 Force of Negation
 2 Ice-Fang Coatl
 2 Prismatic Vista
 2 Wrenn and Six
-2 Force of Negation
 2 Mana Leak
 3 Ice-Fang Coatl
 3 Prismatic Vista
@@ -240,8 +240,8 @@
 17 Forest
 18 Forest
 1 Acidic Slime
-1 Thrun, the Last Troll
 1 Windswept Heath
+1 Thrun, the Last Troll
 1 Ohran Viper
 2 Acidic Slime
 2 Ohran Viper

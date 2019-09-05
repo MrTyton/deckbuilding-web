@@ -56,7 +56,7 @@
 |                    3|[Seachrome Coast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=209399)    |                     |                                                                                                 |
 |                    3|[Mana Confluence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409573)    |                     |                                                                                                 |
 |                    3|[Bone Saw](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=189270)           |                     |                                                                                                 |
-|                    4|[Seachrome Coast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=209399)    |                     |                                                                                                 |
 |                    4|[Mana Confluence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409573)    |                     |                                                                                                 |
+|                    4|[Seachrome Coast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=209399)    |                     |                                                                                                 |
 |                    4|[Serum Visions](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=50145)       |                     |                                                                                                 |
 
