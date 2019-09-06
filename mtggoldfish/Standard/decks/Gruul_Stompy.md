@@ -39,7 +39,7 @@
 |                    3|[Nightpack Ambusher](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466939)    |                    3|[Act of Treason](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442107)    |
 |                    3|[Domri, Anarch of Bolas](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461118)|                    4|[Rekindling Phoenix](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439768)|
 |                    3|[Nullhide Ferox](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452888)        |                    4|[Cindervines](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457305)       |
-|                    7|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)              |                    4|[Lava Coil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452858)         |
+|                    4|[Nullhide Ferox](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452888)        |                    4|[Lava Coil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452858)         |
+|                    7|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)              |                     |                                                                                             |
 |                    9|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)                |                     |                                                                                             |
-|                    4|[Nullhide Ferox](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452888)        |                     |                                                                                             |
 

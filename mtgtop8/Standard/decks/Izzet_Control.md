@@ -29,8 +29,8 @@
 
 |*n*<sup>th</sup> copy|                                       Maindeck Card                                       |*n*<sup>th</sup> copy|                                           Sideboard Card                                           |
 |--------------------:|-------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------------|
-|                    1|[Fiery Cannonade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435297) |                    1|[Disdainful Stroke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420705)        |
-|                    1|[Lightning Strike](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383299)|                    1|[Banefire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=186613)                 |
+|                    1|[Fiery Cannonade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435297) |                    1|[Banefire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=186613)                 |
+|                    1|[Lightning Strike](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383299)|                    1|[Disdainful Stroke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420705)        |
 |                    2|[Lightning Strike](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383299)|                    1|[Flame Sweep](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466893)              |
 |                    3|[Lightning Strike](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383299)|                    1|[Fry](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466894)                      |
 |                    4|[Lightning Strike](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383299)|                    1|[Crackling Drake](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452913)          |
