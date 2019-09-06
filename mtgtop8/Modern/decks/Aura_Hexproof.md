@@ -81,8 +81,8 @@
 |                    3|[Gryff's Boon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409758)          |                     |                                                                                                |
 |                    3|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)                |                     |                                                                                                |
 |                    4|[Temple Garden](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405112)         |                     |                                                                                                |
-|                    4|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)                |                     |                                                                                                |
 |                    4|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)                |                     |                                                                                                |
+|                    4|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)                |                     |                                                                                                |
 |                    5|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)                |                     |                                                                                                |
 |                    6|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)                |                     |                                                                                                |
 

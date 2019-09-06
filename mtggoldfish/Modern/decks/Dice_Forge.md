@@ -36,8 +36,8 @@
 
 |*n*<sup>th</sup> copy|                                      Maindeck Card                                       |*n*<sup>th</sup> copy|                                       Sideboard Card                                        |
 |--------------------:|------------------------------------------------------------------------------------------|--------------------:|---------------------------------------------------------------------------------------------|
-|                    1|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)         |                    1|[Spellskite](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397743)        |
-|                    1|[Mishra's Bauble](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=122122)|                    1|[Spine of Ish Sah](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376514)  |
+|                    1|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)         |                    1|[Spine of Ish Sah](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376514)  |
+|                    1|[Mishra's Bauble](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=122122)|                    1|[Spellskite](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397743)        |
 |                    2|[Mishra's Bauble](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=122122)|                    3|[Spatial Contortion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407518)|
 |                    3|[Ratchet Bomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370623)   |                    3|[Sorcerous Spyglass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435407)|
 |                    2|[Wastes](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407694)         |                    3|[Dismember](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382182)         |
