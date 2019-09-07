@@ -36,9 +36,9 @@
 2 Prismatic Vista
 1 Misty Rainforest
 4 Force of Negation
-1 Snow-Covered Forest
-1 Snow-Covered Plains
 1 Snow-Covered Island
+1 Snow-Covered Plains
+1 Snow-Covered Forest
 1 Ice-Fang Coatl
 2 Snow-Covered Island
 2 Snow-Covered Plains
@@ -118,13 +118,13 @@
 2 Narset, Parter of Veils
 2 Spellstutter Sprite
 3 Arcum's Astrolabe
-3 Prismatic Vista
 3 Mantis Rider
+3 Prismatic Vista
 3 Spellstutter Sprite
 4 Arcum's Astrolabe
-4 Prismatic Vista
 4 Mantis Rider
 4 Snow-Covered Island
+4 Prismatic Vista
 4 Spellstutter Sprite
 5 Snow-Covered Island
 6 Snow-Covered Island
@@ -143,11 +143,11 @@
 1 Botanical Sanctum
 2 Misty Rainforest
 2 Wall of Blossoms
-2 Snow-Covered Forest
 2 Coiling Oracle
 2 Deputy of Detention
 2 Eternal Witness
 2 Neoform
+2 Snow-Covered Forest
 2 Knight of Autumn
 2 Windswept Heath
 2 Ephemerate

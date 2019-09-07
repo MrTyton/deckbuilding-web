@@ -31,9 +31,9 @@
 1 Sleight of Hand
 1 Manamorphose
 2 Thing in the Ice
+2 Fiery Islet
 2 Manamorphose
 2 Sleight of Hand
-2 Fiery Islet
 3 Thing in the Ice
 3 Manamorphose
 3 Sleight of Hand
@@ -51,8 +51,8 @@
 1 Spell Pierce
 1 Misty Rainforest
 1 Firebolt
-2 Spell Pierce
 2 Archmage's Charm
+2 Spell Pierce
 2 Firebolt
 4 Young Pyromancer
 1 Faerie Conclave
@@ -74,18 +74,18 @@
 3 Wizard's Lightning
 4 Wizard's Lightning
 4 Nimble Obstructionist
-1 Mutagenic Growth
-1 Temur Battle Rage
 1 Enigma Drake
 1 Dive Down
+1 Temur Battle Rage
 1 Kiln Fiend
+1 Mutagenic Growth
 1 Disrupting Shoal
 2 Mutagenic Growth
 2 Temur Battle Rage
-2 Kiln Fiend
 2 Enigma Drake
-3 Mutagenic Growth
+2 Kiln Fiend
 3 Temur Battle Rage
+3 Mutagenic Growth
 3 Enigma Drake
 3 Kiln Fiend
 4 Temur Battle Rage
@@ -119,13 +119,14 @@
 2 Swans of Bryn Argoll
 2 Shivan Reef
 2 Throes of Chaos
-2 Molten Vortex
 2 Treasure Hunt
 2 Mountain
 2 Day's Undoing
 2 Lonely Sandbar
+2 Molten Vortex
 2 Seismic Assault
 3 Forgotten Cave
+3 Shivan Reef
 3 Molten Vortex
 3 Swans of Bryn Argoll
 3 Lonely Sandbar
@@ -133,7 +134,6 @@
 3 Seismic Assault
 3 Swiftwater Cliffs
 3 Sulfur Falls
-3 Shivan Reef
 3 Treasure Hunt
 3 Mountain
 4 Temple of Epiphany
