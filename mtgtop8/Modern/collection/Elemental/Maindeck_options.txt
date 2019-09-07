@@ -31,15 +31,15 @@
 4 Lightning Bolt
 4 Bloodstained Mire
 1 Forest
-1 Shivan Reef
 1 Craterhoof Behemoth
-1 Chandra, Acolyte of Flame
 1 Vivien's Arkbow
+1 Chandra, Acolyte of Flame
 1 Scampering Scorcher
 1 Vivien, Champion of the Wilds
 1 Finale of Devastation
 1 Omnath, Locus of Rage
 1 Lumbering Falls
+1 Shivan Reef
 2 Shivan Reef
 2 Vivien's Arkbow
 2 Sacred Foundry
@@ -47,30 +47,6 @@
 2 Scampering Scorcher
 2 Lumbering Falls
 4 Blood Crypt
-1 Swamp
-1 Insolent Neonate
-1 Burning-Tree Emissary
-1 Reckless Bushwhacker
-1 Memnite
-1 Vengevine
-1 Bloodrage Brawler
-2 Insolent Neonate
-2 Burning-Tree Emissary
-2 Reckless Bushwhacker
-2 Memnite
-2 Vengevine
-2 Bloodrage Brawler
-3 Insolent Neonate
-3 Burning-Tree Emissary
-3 Reckless Bushwhacker
-3 Memnite
-3 Vengevine
-4 Burning-Tree Emissary
-4 Blackcleave Cliffs
-4 Wooded Foothills
-4 Memnite
-4 Vengevine
-4 Insolent Neonate
 1 Incandescent Soulstoke
 1 Spitebellows
 1 Nova Chaser
@@ -112,8 +88,8 @@
 3 Phantasmal Image
 4 Phantasmal Image
 1 Sunbaked Canyon
-1 Leyline of the Void
 1 Healer of the Glade
+1 Leyline of the Void
 1 Waterlogged Grove
 1 Creeping Trailblazer
 1 Fulminator Mage
@@ -121,11 +97,35 @@
 2 Sunbaked Canyon
 2 Creeping Trailblazer
 2 Leyline of the Void
+3 Creeping Trailblazer
 3 Copperline Gorge
 3 Leyline of the Void
-3 Creeping Trailblazer
 4 Copperline Gorge
 4 Leyline of the Void
+1 Swamp
+1 Insolent Neonate
+1 Burning-Tree Emissary
+1 Reckless Bushwhacker
+1 Memnite
+1 Bloodrage Brawler
+1 Vengevine
+2 Insolent Neonate
+2 Burning-Tree Emissary
+2 Reckless Bushwhacker
+2 Memnite
+2 Vengevine
+2 Bloodrage Brawler
+3 Insolent Neonate
+3 Burning-Tree Emissary
+3 Reckless Bushwhacker
+3 Memnite
+3 Vengevine
+4 Burning-Tree Emissary
+4 Blackcleave Cliffs
+4 Wooded Foothills
+4 Memnite
+4 Insolent Neonate
+4 Vengevine
 1 Arid Mesa
 1 Inquisition of Kozilek
 1 Unearth

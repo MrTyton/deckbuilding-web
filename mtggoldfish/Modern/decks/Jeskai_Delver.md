@@ -27,3 +27,19 @@
 |                                                                                                 |                                                                                          |3 [Dovin's Veto](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461120)   |                                                                                                   |                                                                                                  |
 |                                                                                                 |                                                                                          |2 [Lightning Helix](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=249386)|                                                                                                   |                                                                                                  |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                         Maindeck Card                                         |*n*<sup>th</sup> copy|                                        Sideboard Card                                         |
+|--------------------:|-----------------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------------|
+|                    1|[Sleight of Hand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=25557)      |                    1|[Wear/Tear](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=368950)           |
+|                    1|[Sword of Fire and Ice](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=46429)|                    1|[Disdainful Stroke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420705)   |
+|                    1|[Stoneforge Mystic](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=198383)   |                    1|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)      |
+|                    1|[Mana Leak](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45242)            |                    2|[Disdainful Stroke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420705)   |
+|                    1|[Batterskull](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=233055)         |                    2|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)      |
+|                    2|[Mana Leak](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45242)            |                    2|[Geist of Saint Traft](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409577)|
+|                    2|[Sleight of Hand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=25557)      |                    3|[Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)              |
+|                    2|[Stoneforge Mystic](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=198383)   |                    3|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)      |
+|                    3|[Mana Leak](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45242)            |                     |                                                                                               |
+|                    3|[Stoneforge Mystic](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=198383)   |                     |                                                                                               |
+

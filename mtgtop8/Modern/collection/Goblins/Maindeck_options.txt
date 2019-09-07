@@ -3,13 +3,13 @@
 1 Frogtosser Banneret
 2 Frogtosser Banneret
 1 Goblin Chainwhirler
-2 Goblin Chieftain
-4 Munitions Expert
 5 Mountain
 1 Mogg Fanatic
 2 Goblin Piledriver
+2 Goblin Chieftain
 1 Goblin Trashmaster
 1 Earwig Squad
+4 Munitions Expert
 3 Skirk Prospector
 2 Fiery Islet
 2 Field of Ruin
@@ -19,19 +19,19 @@
 3 Field of Ruin
 6 Mountain
 2 Wooded Foothills
-1 Lightning Bolt
-2 Lightning Bolt
 1 Foundry Street Denizen
 2 Mogg Fanatic
 2 Foundry Street Denizen
 3 Foundry Street Denizen
 4 Foundry Street Denizen
 1 Goblin Bushwhacker
+1 Lightning Bolt
 1 Goblin Grenade
 1 Reckless Bushwhacker
 2 Goblin Grenade
-2 Goblin Bushwhacker
 2 Reckless Bushwhacker
+2 Lightning Bolt
+2 Goblin Bushwhacker
 3 Lightning Bolt
 3 Goblin Grenade
 3 Reckless Bushwhacker
@@ -67,11 +67,6 @@
 1 Sacred Foundry
 3 Wooded Foothills
 4 Wooded Foothills
-4 Blood Crypt
-2 Krenko, Mob Boss
-1 Legion Warboss
-2 Pashalik Mons
-2 Legion Warboss
 1 Simian Spirit Guide
 1 Ramunap Ruins
 1 Light Up the Stage
@@ -93,10 +88,11 @@
 3 Prismatic Vista
 4 Goblin Chieftain
 1 Pendelhaven
-1 Inspiring Vantage
 1 Chandra, Acolyte of Flame
+1 Inspiring Vantage
 2 Sacred Foundry
 2 Inspiring Vantage
+2 Krenko, Mob Boss
 3 Krenko, Mob Boss
 4 Field of Ruin
 1 Stomping Ground
@@ -105,6 +101,7 @@
 2 Atarka's Command
 3 Atarka's Command
 4 Mogg Fanatic
+4 Blood Crypt
 1 Warren Weirding
 2 Arid Mesa
 3 Blackcleave Cliffs
@@ -116,24 +113,15 @@
 2 Unclaimed Territory
 3 Unclaimed Territory
 4 Unclaimed Territory
-1 Kolaghan's Command
-1 Dreadbore
-1 Terminate
-1 Fatal Push
-1 Polluted Delta
-2 Polluted Delta
-2 Swamp
-2 Fatal Push
-2 Kolaghan's Command
-3 Swamp
-3 Fatal Push
-4 Fatal Push
 3 Sunbaked Canyon
 4 Sunbaked Canyon
 1 Knucklebone Witch
+1 Legion Warboss
 1 Mutavault
+2 Pashalik Mons
 2 Knucklebone Witch
 2 Mutavault
+2 Legion Warboss
 3 Knucklebone Witch
 4 Knucklebone Witch
 1 Reverberate

@@ -1,9 +1,8 @@
-1 Skullcrack
 2 Fiery Islet
 4 Mountain
-5 Mountain
 1 Light Up the Stage
 2 Light Up the Stage
+5 Mountain
 6 Mountain
 7 Mountain
 8 Mountain
@@ -14,16 +13,14 @@
 4 Fiery Islet
 3 Light Up the Stage
 4 Light Up the Stage
-3 Wooded Foothills
 9 Mountain
 10 Mountain
 11 Mountain
+1 Skullcrack
+3 Wooded Foothills
 2 Skullcrack
 3 Bloodstained Mire
 12 Mountain
-1 Scalding Tarn
-4 Wooded Foothills
-4 Bloodstained Mire
 1 Seal of Fire
 2 Seal of Fire
 3 Seal of Fire
@@ -32,31 +29,33 @@
 2 Fanatical Firebrand
 3 Fanatical Firebrand
 4 Fanatical Firebrand
+4 Wooded Foothills
+1 Scalding Tarn
 4 Shard Volley
-2 Scalding Tarn
+4 Bloodstained Mire
 3 Sacred Foundry
 3 Arid Mesa
 4 Arid Mesa
+2 Scalding Tarn
 1 Mogg Fanatic
 2 Mogg Fanatic
-3 Scalding Tarn
-4 Sacred Foundry
-3 Mogg Fanatic
-1 Grim Lavamancer
 1 Snow-Covered Mountain
 2 Snow-Covered Mountain
+1 Grim Lavamancer
+3 Snow-Covered Mountain
 1 Soul-Scar Mage
 2 Soul-Scar Mage
 3 Soul-Scar Mage
 4 Soul-Scar Mage
-3 Snow-Covered Mountain
+3 Scalding Tarn
+4 Sacred Foundry
+3 Mogg Fanatic
 1 Burst Lightning
 2 Burst Lightning
 3 Burst Lightning
 4 Burst Lightning
 1 Bedlam Reveler
 2 Bedlam Reveler
-4 Mogg Fanatic
 1 Manamorphose
 1 Crash Through
 1 Lava Dart
@@ -77,10 +76,19 @@
 9 Snow-Covered Mountain
 10 Snow-Covered Mountain
 11 Snow-Covered Mountain
-1 Plains
-1 Risk Factor
+4 Mogg Fanatic
 1 Runaway Steam-Kin
 2 Runaway Steam-Kin
+4 Lava Dart
+4 Bedlam Reveler
+12 Snow-Covered Mountain
+13 Snow-Covered Mountain
+14 Snow-Covered Mountain
+15 Snow-Covered Mountain
+1 Plains
+1 Abbot of Keral Keep
+2 Abbot of Keral Keep
+1 Risk Factor
 3 Runaway Steam-Kin
 1 Bomat Courier
 1 Ramunap Ruins
@@ -89,20 +97,16 @@
 3 Bomat Courier
 3 Ramunap Ruins
 4 Bomat Courier
-2 Grim Lavamancer
-3 Grim Lavamancer
-4 Grim Lavamancer
 1 Monastery Mentor
 2 Monastery Mentor
 3 Skullcrack
 3 Monastery Mentor
-4 Monastery Mentor
 4 Skullcrack
-1 Abbot of Keral Keep
-2 Abbot of Keral Keep
-4 Lava Dart
-12 Snow-Covered Mountain
-13 Snow-Covered Mountain
-14 Snow-Covered Mountain
-15 Snow-Covered Mountain
-4 Bedlam Reveler
+4 Monastery Mentor
+2 Grim Lavamancer
+3 Grim Lavamancer
+4 Grim Lavamancer
+1 Searing Spear
+2 Searing Spear
+3 Searing Spear
+4 Searing Spear
