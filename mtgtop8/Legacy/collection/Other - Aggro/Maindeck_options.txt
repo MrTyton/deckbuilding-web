@@ -2,8 +2,8 @@
 1 Swamp
 2 Thoughtseize
 2 Swamp
-1 Plateau
 1 Karakas
+1 Plateau
 1 Marsh Flats
 1 Phyrexian Tower
 1 Rix Maadi Reveler
@@ -25,7 +25,6 @@
 1 Genesis Chamber
 2 Marsh Flats
 2 Scrubland
-2 Bloodghast
 2 Rix Maadi Reveler
 2 Plains
 2 Karakas
@@ -33,6 +32,7 @@
 2 Norin the Wary
 2 Genesis Chamber
 2 Hidden Stockpile
+2 Bloodghast
 2 Lingering Souls
 2 Humility
 2 Bloodstained Mire
@@ -41,13 +41,13 @@
 2 Badlands
 2 Priest of Forgotten Gods
 3 Cabal Therapy
-3 Bloodghast
 3 Marsh Flats
 3 Lingering Souls
 3 Daretti, Ingenious Iconoclast
 3 Priest of Forgotten Gods
 3 Genesis Chamber
 3 Faithless Looting
+3 Bloodghast
 3 Bloodstained Mire
 3 Hidden Stockpile
 3 Scrubland
@@ -102,16 +102,17 @@
 4 Ponder
 4 Polluted Delta
 1 Giver of Runes
-1 Snow-Covered Plains
 1 Gaddock Teeg
-1 Dryad Arbor
+1 Knight of the Reliquary
+1 Snow-Covered Plains
+1 Knight of Autumn
 1 Dark Depths
+1 Dryad Arbor
 1 Bojuka Bog
 1 Thespian's Stage
 1 Windswept Heath
 1 Savannah
 1 Crop Rotation
-1 Knight of Autumn
 1 Elvish Reclaimer
 1 Wooded Foothills
 1 Ancient Tomb
@@ -119,9 +120,9 @@
 1 Mox Diamond
 1 Scavenging Ooze
 1 Green Sun's Zenith
-1 Knight of the Reliquary
 1 Sejiri Steppe
 2 Giver of Runes
+2 Knight of the Reliquary
 2 Thespian's Stage
 2 Crop Rotation
 2 Windswept Heath
@@ -131,20 +132,19 @@
 2 Elvish Reclaimer
 2 Snow-Covered Forest
 2 Mox Diamond
-2 Knight of the Reliquary
-3 Windswept Heath
 3 Giver of Runes
+3 Knight of the Reliquary
+3 Windswept Heath
 3 Crop Rotation
 3 Mox Diamond
 3 Thespian's Stage
 3 Green Sun's Zenith
-3 Knight of the Reliquary
 3 Elvish Reclaimer
 3 Dark Depths
+4 Knight of the Reliquary
 4 Windswept Heath
 4 Mox Diamond
 4 Elvish Reclaimer
-4 Knight of the Reliquary
 4 Dark Depths
 4 Thespian's Stage
 4 Crop Rotation
