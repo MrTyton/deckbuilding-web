@@ -44,8 +44,8 @@
 
 |*n*<sup>th</sup> copy|                                          Maindeck Card                                          |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
 |--------------------:|-------------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
-|                    1|[Woodland Cemetery](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443136)     |                    1|[Flame Sweep](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466893)        |
-|                    1|[Unclaimed Territory](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435419)   |                    1|[Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)     |
+|                    1|[Unclaimed Territory](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435419)   |                    1|[Flame Sweep](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466893)        |
+|                    1|[Woodland Cemetery](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443136)     |                    1|[Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)     |
 |                    1|[Lightning Strike](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383299)      |                    1|[Fry](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466894)                |
 |                    1|[Shifting Ceratops](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466948)     |                    1|[Thrashing Brontodon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456570)|
 |                    1|[Dragonskull Summit](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420909)    |                    1|[Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)              |
