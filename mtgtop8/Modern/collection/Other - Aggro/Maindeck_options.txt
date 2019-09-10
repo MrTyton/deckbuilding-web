@@ -71,13 +71,13 @@
 1 Deputy of Detention
 1 Karn, the Great Creator
 1 Arbor Elf
-1 Oath of Nissa
-1 Eternal Witness
 1 Vizier of Remedies
+1 Oath of Nissa
 1 Devoted Druid
+1 Eternal Witness
 1 Utopia Sprawl
-1 Eladamri's Call
 1 Tireless Tracker
+1 Eladamri's Call
 1 Teferi, Time Raveler
 1 Breeding Pool
 1 Scavenging Ooze
@@ -86,28 +86,28 @@
 2 Windswept Heath
 2 Snow-Covered Forest
 2 Vizier of Remedies
-2 Karn, the Great Creator
 2 Finale of Devastation
+2 Karn, the Great Creator
 2 Arbor Elf
-2 Utopia Sprawl
 2 Oath of Nissa
+2 Utopia Sprawl
 2 Devoted Druid
 2 Eladamri's Call
 2 Breeding Pool
 2 Temple Garden
 2 Misty Rainforest
+3 Windswept Heath
 3 Snow-Covered Forest
-3 Teferi, Time Raveler
 3 Vizier of Remedies
-3 Arbor Elf
 3 Karn, the Great Creator
+3 Arbor Elf
 3 Finale of Devastation
+3 Teferi, Time Raveler
 3 Utopia Sprawl
 3 Oath of Nissa
 3 Devoted Druid
 3 Eladamri's Call
 3 Misty Rainforest
-3 Windswept Heath
 4 Snow-Covered Forest
 4 Teferi, Time Raveler
 4 Finale of Devastation
@@ -115,8 +115,8 @@
 4 Arbor Elf
 4 Misty Rainforest
 4 Utopia Sprawl
-4 Oath of Nissa
 4 Devoted Druid
+4 Oath of Nissa
 4 Eladamri's Call
 4 Windswept Heath
 1 Mutavault
@@ -174,6 +174,7 @@
 4 Lightning Skelemental
 4 Inquisition of Kozilek
 4 Thunderkin Awakener
+1 Mystic Forge
 1 Blinkmoth Nexus
 1 Darksteel Citadel
 1 Snow-Covered Island
@@ -182,7 +183,6 @@
 1 Signal Pest
 1 Etherium Sculptor
 1 Thorn of Amethyst
-1 Mystic Forge
 1 Lodestone Golem
 1 Mox Opal
 1 Arcbound Ravager
@@ -234,8 +234,8 @@
 6 Snow-Covered Island
 1 Hogaak, Arisen Necropolis
 1 Dryad Arbor
-1 Satyr Wayfinder
 1 Stitcher's Supplier
+1 Satyr Wayfinder
 1 Forest
 1 Nurturing Peatland
 1 Cabal Therapist
@@ -244,8 +244,8 @@
 1 Smallpox
 1 Verdant Catacombs
 1 Bloodghast
-2 Satyr Wayfinder
 2 Hogaak, Arisen Necropolis
+2 Satyr Wayfinder
 2 Stitcher's Supplier
 2 Nurturing Peatland
 2 Mutavault
@@ -255,8 +255,8 @@
 2 Urborg, Tomb of Yawgmoth
 2 Bloodghast
 3 Satyr Wayfinder
-3 Hogaak, Arisen Necropolis
 3 Stitcher's Supplier
+3 Hogaak, Arisen Necropolis
 3 Mutavault
 3 Cabal Therapist
 3 Nurturing Peatland

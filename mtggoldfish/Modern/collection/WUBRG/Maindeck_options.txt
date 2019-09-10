@@ -1,54 +1,3 @@
-1 Darksteel Citadel
-1 Master of Etherium
-1 Chalice of the Void
-1 Blinkmoth Nexus
-1 Cranial Plating
-1 Steel Overseer
-1 Inkmoth Nexus
-1 Mox Opal
-1 Arcbound Ravager
-1 Welding Jar
-1 Vault Skirge
-1 Spire of Industry
-1 Ornithopter
-1 Springleaf Drum
-2 Darksteel Citadel
-2 Master of Etherium
-2 Welding Jar
-2 Chalice of the Void
-2 Springleaf Drum
-2 Ornithopter
-2 Vault Skirge
-2 Inkmoth Nexus
-2 Cranial Plating
-2 Mox Opal
-2 Steel Overseer
-2 Spire of Industry
-2 Arcbound Ravager
-2 Blinkmoth Nexus
-3 Master of Etherium
-3 Chalice of the Void
-3 Spire of Industry
-3 Arcbound Ravager
-3 Mox Opal
-3 Springleaf Drum
-3 Darksteel Citadel
-3 Ornithopter
-3 Vault Skirge
-3 Blinkmoth Nexus
-3 Cranial Plating
-3 Steel Overseer
-3 Inkmoth Nexus
-4 Master of Etherium
-4 Chalice of the Void
-4 Ornithopter
-4 Vault Skirge
-4 Cranial Plating
-4 Darksteel Citadel
-4 Inkmoth Nexus
-4 Arcbound Ravager
-4 Mox Opal
-4 Springleaf Drum
 1 Hallowed Fountain
 1 Snow-Covered Mountain
 1 Snow-Covered Forest
@@ -59,8 +8,8 @@
 1 Prismatic Vista
 1 Flooded Strand
 1 Ice-Fang Coatl
-1 Arcum's Astrolabe
 1 Snow-Covered Island
+1 Arcum's Astrolabe
 1 Snow-Covered Swamp
 2 Prismatic Vista
 2 Ice-Fang Coatl
@@ -68,8 +17,8 @@
 3 Ice-Fang Coatl
 3 Prismatic Vista
 3 Arcum's Astrolabe
-4 Prismatic Vista
 4 Ice-Fang Coatl
+4 Prismatic Vista
 4 Arcum's Astrolabe
 1 Tireless Tracker
 1 Lightning Bolt
@@ -84,9 +33,9 @@
 3 Path to Exile
 4 Path to Exile
 1 Verdant Catacombs
-1 Scavenging Ooze
 1 Noble Hierarch
 1 Horizon Canopy
+1 Scavenging Ooze
 2 Noble Hierarch
 1 Wooded Foothills
 1 Kessig Wolf Run
@@ -102,12 +51,12 @@
 2 Ghost Quarter
 2 Scavenging Ooze
 2 Knight of the Reliquary
+3 Nahiri, the Harbinger
 3 Tireless Tracker
 3 Wooded Foothills
 3 Lightning Helix
 3 Scavenging Ooze
 3 Unified Will
-3 Nahiri, the Harbinger
 3 Knight of the Reliquary
 4 Scavenging Ooze
 4 Wrenn and Six
@@ -136,23 +85,49 @@
 3 Delay
 3 Serum Visions
 4 Saheeli Rai
-4 Felidar Guardian
 4 Serum Visions
 4 Delay
-1 Swamp
-1 Walking Ballista
-1 Dismember
-2 Dismember
-2 Walking Ballista
-3 Welding Jar
-3 Dismember
-4 Steel Overseer
+4 Felidar Guardian
+1 Eldritch Evolution
+1 Waterlogged Grove
+1 Neoform
+1 Borborygmos Enraged
+1 Rhonas the Indomitable
+1 Botanical Sanctum
+1 Renegade Rallier
+1 Terastodon
+1 Voice of Resurgence
+1 Vizier of Remedies
+1 Duskwatch Recruiter
+1 Griselbrand
+1 Razorverge Thicket
+1 Devoted Druid
+1 Allosaurus Rider
+1 Eladamri's Call
+2 Eldritch Evolution
+2 Neoform
+2 Renegade Rallier
+2 Voice of Resurgence
+2 Allosaurus Rider
+2 Devoted Druid
+2 Eladamri's Call
+3 Eldritch Evolution
+3 Neoform
+3 Devoted Druid
+3 Allosaurus Rider
+3 Eladamri's Call
+3 Noble Hierarch
+4 Eldritch Evolution
+4 Allosaurus Rider
+4 Neoform
+4 Devoted Druid
+4 Eladamri's Call
 1 Batterskull
 1 Sword of Fire and Ice
 1 Polluted Delta
 1 Jace, the Mind Sculptor
-1 Stoneforge Mystic
 1 Assassin's Trophy
+1 Stoneforge Mystic
 1 Nicol Bolas, the Ravager
 1 Savage Knuckleblade
 2 Stoneforge Mystic
@@ -164,47 +139,5 @@
 3 Nicol Bolas, the Ravager
 3 Savage Knuckleblade
 4 Stoneforge Mystic
-4 Lightning Bolt
 4 Savage Knuckleblade
-1 Eldritch Evolution
-1 Waterlogged Grove
-1 Neoform
-1 Borborygmos Enraged
-1 Rhonas the Indomitable
-1 Botanical Sanctum
-1 Renegade Rallier
-1 Voice of Resurgence
-1 Terastodon
-1 Vizier of Remedies
-1 Duskwatch Recruiter
-1 Griselbrand
-1 Devoted Druid
-1 Razorverge Thicket
-1 Allosaurus Rider
-1 Eladamri's Call
-2 Eldritch Evolution
-2 Neoform
-2 Renegade Rallier
-2 Voice of Resurgence
-2 Allosaurus Rider
-2 Devoted Druid
-2 Eladamri's Call
-3 Noble Hierarch
-3 Eldritch Evolution
-3 Neoform
-3 Devoted Druid
-3 Allosaurus Rider
-3 Eladamri's Call
-4 Eldritch Evolution
-4 Allosaurus Rider
-4 Neoform
-4 Devoted Druid
-4 Eladamri's Call
-1 Galvanic Blast
-1 Mountain
-1 Memnite
-2 Galvanic Blast
-2 Memnite
-3 Galvanic Blast
-4 Blinkmoth Nexus
-4 Galvanic Blast
+4 Lightning Bolt

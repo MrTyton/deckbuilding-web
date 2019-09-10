@@ -12,6 +12,7 @@
 3 Karn, the Great Creator
 4 Karn, the Great Creator
 1 Grove of the Burnwillows
+1 Paradox Engine
 1 Zhalfirin Void
 1 Surge Node
 1 Coretapper
@@ -24,7 +25,6 @@
 1 Pyrite Spellbomb
 1 Nurturing Peatland
 1 Blast Zone
-1 Paradox Engine
 1 Engineered Explosives
 1 Ensnaring Bridge
 1 Copperline Gorge
@@ -75,41 +75,41 @@
 1 Peek
 1 Sphinx of Foresight
 1 Arid Mesa
-1 Flame Slash
 1 Lightning Axe
-1 Ancestral Vision
-1 Dreadhorde Arcanist
-1 Crashing Footfalls
-1 As Foretold
-1 Electrodominance
-1 Opt
+1 Flame Slash
 1 Scalding Tarn
+1 Opt
 1 Force of Negation
+1 Dreadhorde Arcanist
 1 Flooded Strand
+1 As Foretold
+1 Crashing Footfalls
+1 Ancestral Vision
+1 Electrodominance
 2 Peek
 2 Sphinx of Foresight
 2 Mountain
-2 Crashing Footfalls
-2 Electrodominance
-2 Dreadhorde Arcanist
-2 Ancestral Vision
-2 As Foretold
 2 Opt
 2 Scalding Tarn
 2 Force of Negation
+2 Electrodominance
+2 As Foretold
+2 Crashing Footfalls
+2 Ancestral Vision
+2 Dreadhorde Arcanist
 3 Sphinx of Foresight
-3 Scalding Tarn
-3 Electrodominance
-3 Dreadhorde Arcanist
-3 Ancestral Vision
-3 As Foretold
-3 Crashing Footfalls
 3 Force of Negation
+3 Crashing Footfalls
+3 Dreadhorde Arcanist
 3 Steam Vents
-4 Crashing Footfalls
-4 Scalding Tarn
+3 Electrodominance
+3 Ancestral Vision
+3 Scalding Tarn
+3 As Foretold
 4 Force of Negation
 4 As Foretold
+4 Scalding Tarn
+4 Crashing Footfalls
 4 Electrodominance
 4 Ancestral Vision
 1 Desperate Ritual
@@ -178,8 +178,8 @@
 1 Nissa, Vastwood Seer
 1 Eternal Witness
 2 Acidic Slime
-2 Breeding Pool
 2 Garruk Wildspeaker
+2 Breeding Pool
 2 Walking Ballista
 2 Trinisphere
 2 Nissa, Vastwood Seer
