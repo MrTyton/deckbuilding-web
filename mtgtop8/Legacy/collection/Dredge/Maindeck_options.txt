@@ -1,35 +1,35 @@
-3 Golgari Thug
-1 Mana Confluence
-1 Lion's Eye Diamond
-1 Breakthrough
-1 Gemstone Mine
-1 City of Brass
-1 Cephalid Coliseum
-2 Mana Confluence
-2 Gemstone Mine
-2 Cephalid Coliseum
-2 Lion's Eye Diamond
-2 Breakthrough
-3 Gemstone Mine
-3 Cephalid Coliseum
-3 Lion's Eye Diamond
-4 Lion's Eye Diamond
-4 Cephalid Coliseum
+1 Gravecrawler
+1 Badlands
+1 Carrion Feeder
+2 Stitcher's Supplier
+2 Carrion Feeder
+2 Altar of Dementia
+2 Swamp
+2 Gravecrawler
+2 Badlands
+3 Hogaak, Arisen Necropolis
+3 Stitcher's Supplier
+3 Badlands
+3 Altar of Dementia
+3 Gravecrawler
+3 Carrion Feeder
+4 Hogaak, Arisen Necropolis
+4 Stitcher's Supplier
+4 Gravecrawler
+4 Carrion Feeder
+4 Altar of Dementia
+3 Street Wraith
+1 Careful Study
+2 Careful Study
 1 Marsh Flats
 1 Polluted Delta
 2 Polluted Delta
-1 Street Wraith
-2 Street Wraith
-3 Breakthrough
-1 Careful Study
-2 Careful Study
-2 City of Brass
 4 Bloodghast
 1 Verdant Catacombs
 3 Polluted Delta
 3 Swamp
 1 Bloodstained Mire
-3 Street Wraith
+2 City of Brass
 2 Verdant Catacombs
 1 Scrubland
 1 Entomb
@@ -53,20 +53,17 @@
 1 Anger
 4 Verdant Catacombs
 3 Marsh Flats
+3 Mana Confluence
+4 Mana Confluence
 4 Bloodstained Mire
 4 Ichorid
 4 Marsh Flats
 4 Entomb
 1 Undiscovered Paradise
-3 Mana Confluence
-4 Mana Confluence
 4 Golgari Thug
-1 Dread Return
-2 Dread Return
 1 Phyrexian Tower
-3 Careful Study
 4 Gemstone Mine
-4 Putrid Imp
+3 Careful Study
 1 Thoughtseize
 1 Creeping Chill
 2 Creeping Chill
@@ -74,14 +71,13 @@
 4 Creeping Chill
 1 Flayer of the Hatebound
 1 Phantasmagorian
+1 Dread Return
 2 Phantasmagorian
+2 Dread Return
 3 Dread Return
 3 Phantasmagorian
 4 Phantasmagorian
 1 Karakas
-1 Griselbrand
-1 Flame-Kin Zealot
-1 Lotus Petal
 1 Collective Brutality
 2 Undiscovered Paradise
 3 Bayou
@@ -91,10 +87,12 @@
 2 Insolent Neonate
 2 Blackcleave Cliffs
 3 Insolent Neonate
+1 Lotus Petal
+4 Putrid Imp
 1 Dryad Arbor
 1 Edge of Autumn
-1 Dakmor Salvage
 1 River Kelpie
+1 Dakmor Salvage
 2 Edge of Autumn
 2 Dryad Arbor
 2 Dakmor Salvage
@@ -117,9 +115,9 @@
 2 Nether Shadow
 2 Chancellor of the Annex
 2 Balustrade Spy
-3 Nether Shadow
 3 Chancellor of the Annex
 3 Prized Amalgam
+3 Nether Shadow
 3 Shambling Shell
 3 Balustrade Spy
 4 Shambling Shell

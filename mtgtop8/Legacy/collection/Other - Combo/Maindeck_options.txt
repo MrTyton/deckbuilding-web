@@ -31,7 +31,6 @@
 2 Reforge the Soul
 2 Volcanic Island
 3 Volcanic Island
-3 Ponder
 3 Manamorphose
 3 Burning Wish
 3 Rite of Flame
@@ -40,19 +39,20 @@
 3 Ruby Medallion
 3 Bonus Round
 3 Seething Song
-4 Ponder
+3 Ponder
 4 Seething Song
 4 Manamorphose
 4 Burning Wish
 4 Ruby Medallion
 4 Bonus Round
+4 Ponder
 4 Brainstorm
-1 Lion's Eye Diamond
 1 Manifold Key
 1 Voltaic Key
 1 Mystic Forge
 1 Inventors' Fair
 1 Basalt Monolith
+1 Lion's Eye Diamond
 1 Karn, the Great Creator
 1 Crystal Vein
 1 Thran Dynamo
@@ -62,12 +62,12 @@
 1 Serum Powder
 1 Paradox Engine
 1 Grim Monolith
-2 Lion's Eye Diamond
 2 Manifold Key
 2 Mystic Forge
 2 Voltaic Key
 2 Inventors' Fair
 2 Karn, the Great Creator
+2 Lion's Eye Diamond
 2 Mox Opal
 2 Crystal Vein
 2 City of Traitors
@@ -75,7 +75,6 @@
 2 Serum Powder
 2 Grim Monolith
 2 Basalt Monolith
-3 Lion's Eye Diamond
 3 Mystic Forge
 3 Serum Powder
 3 Mox Opal
@@ -84,13 +83,14 @@
 3 Karn, the Great Creator
 3 Voltaic Key
 3 Inventors' Fair
+3 Lion's Eye Diamond
 3 Crystal Vein
-4 Lion's Eye Diamond
 4 Inventors' Fair
 4 City of Traitors
 4 Mystic Forge
 4 Mox Opal
 4 Serum Powder
+4 Lion's Eye Diamond
 4 Karn, the Great Creator
 4 Crystal Vein
 4 Grim Monolith
