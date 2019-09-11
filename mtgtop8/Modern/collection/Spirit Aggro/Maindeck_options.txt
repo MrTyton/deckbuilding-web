@@ -1,10 +1,10 @@
-1 Breeding Pool
 1 Collected Company
 2 Noble Hierarch
 2 Collected Company
 3 Collected Company
 3 Noble Hierarch
 4 Noble Hierarch
+1 Horizon Canopy
 1 Geist of Saint Traft
 3 Selfless Spirit
 4 Rattlechains
@@ -14,15 +14,15 @@
 1 Remorseful Cleric
 3 Island
 1 Teferi, Time Raveler
-2 Misty Rainforest
-4 Collected Company
+1 Phantasmal Image
 1 Spectral Sailor
 2 Spectral Sailor
-4 Seachrome Coast
-1 Phantasmal Image
-2 Horizon Canopy
-2 Botanical Sanctum
+4 Collected Company
+2 Misty Rainforest
 3 Windswept Heath
+4 Seachrome Coast
+4 Path to Exile
+2 Botanical Sanctum
 3 Force of Negation
 1 Giver of Runes
 2 Giver of Runes
@@ -30,7 +30,7 @@
 1 Snow-Covered Island
 2 Snow-Covered Plains
 2 Snow-Covered Island
-4 Path to Exile
+2 Horizon Canopy
 4 Selfless Spirit
 3 Waterlogged Grove
 4 Hallowed Fountain
@@ -43,9 +43,9 @@
 3 Stoneforge Mystic
 3 Snow-Covered Plains
 3 Snow-Covered Island
-4 Unsettled Mariner
 3 Misty Rainforest
 3 Giver of Runes
+3 Deputy of Detention
 1 Sword of Fire and Ice
 1 Kira, Great Glass-Spinner
 1 Thalia, Guardian of Thraben
@@ -72,6 +72,9 @@
 2 Lavinia, Azorius Renegade
 3 Remorseful Cleric
 4 Waterlogged Grove
+1 Birds of Paradise
+3 Botanical Sanctum
+4 Botanical Sanctum
 3 Horizon Canopy
 4 Windswept Heath
 1 Godless Shrine
@@ -91,9 +94,9 @@
 4 Force of Virtue
 4 Empyrean Eagle
 3 Phantasmal Image
-3 Deputy of Detention
 4 Misty Rainforest
 3 Teferi, Time Raveler
+4 Unsettled Mariner
 4 Teferi, Time Raveler
 1 Silent Clearing
 3 Thalia, Guardian of Thraben

@@ -14,8 +14,8 @@
 2 Rattlechains
 2 Supreme Phantom
 2 Rune Snag
-3 Mana Leak
 3 Spectral Sailor
+3 Mana Leak
 3 Unsummon
 3 Supreme Phantom
 3 Rattlechains
@@ -92,13 +92,13 @@
 1 Snow-Covered Forest
 1 Finale of Devastation
 1 Deputy of Detention
-1 Snow-Covered Plains
 1 Arbor Elf
-1 Eternal Witness
-1 Karn, the Great Creator
+1 Snow-Covered Plains
 1 Utopia Sprawl
-1 Vizier of Remedies
+1 Eternal Witness
 1 Oath of Nissa
+1 Karn, the Great Creator
+1 Vizier of Remedies
 1 Devoted Druid
 1 Tireless Tracker
 1 Eladamri's Call
@@ -112,10 +112,10 @@
 2 Snow-Covered Forest
 2 Vizier of Remedies
 2 Finale of Devastation
-2 Karn, the Great Creator
 2 Arbor Elf
 2 Utopia Sprawl
 2 Oath of Nissa
+2 Karn, the Great Creator
 2 Devoted Druid
 2 Eladamri's Call
 2 Windswept Heath
@@ -124,12 +124,12 @@
 3 Misty Rainforest
 3 Snow-Covered Forest
 3 Vizier of Remedies
-3 Karn, the Great Creator
 3 Arbor Elf
-3 Finale of Devastation
-3 Teferi, Time Raveler
-3 Utopia Sprawl
+3 Karn, the Great Creator
 3 Oath of Nissa
+3 Finale of Devastation
+3 Utopia Sprawl
+3 Teferi, Time Raveler
 3 Devoted Druid
 3 Eladamri's Call
 3 Windswept Heath
@@ -160,8 +160,8 @@
 2 Ball Lightning
 2 Thunderkin Awakener
 2 Lightning Skelemental
-3 Blood Crypt
 3 Unearth
+3 Blood Crypt
 3 Snow-Covered Mountain
 3 Faithless Looting
 3 Ball Lightning
@@ -232,10 +232,10 @@
 4 Lodestone Golem
 5 Snow-Covered Island
 6 Snow-Covered Island
-1 Hogaak, Arisen Necropolis
 1 Dryad Arbor
-1 Stitcher's Supplier
+1 Hogaak, Arisen Necropolis
 1 Satyr Wayfinder
+1 Stitcher's Supplier
 1 Forest
 1 Nurturing Peatland
 1 Cabal Therapist
@@ -244,8 +244,8 @@
 1 Smallpox
 1 Verdant Catacombs
 1 Bloodghast
-2 Hogaak, Arisen Necropolis
 2 Satyr Wayfinder
+2 Hogaak, Arisen Necropolis
 2 Stitcher's Supplier
 2 Nurturing Peatland
 2 Mutavault
@@ -264,8 +264,8 @@
 3 Smallpox
 3 Urborg, Tomb of Yawgmoth
 3 Verdant Catacombs
-4 Hogaak, Arisen Necropolis
 4 Satyr Wayfinder
+4 Hogaak, Arisen Necropolis
 4 Stitcher's Supplier
 4 Nurturing Peatland
 4 Liliana of the Veil

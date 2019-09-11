@@ -1,14 +1,14 @@
-1 Dovin's Veto
-1 Spell Snare
-1 Volcanic Island
-2 Tundra
+1 Supreme Verdict
+1 Predict
 2 Predict
-2 Council's Judgment
-2 Scalding Tarn
 3 Plains
-2 Spell Pierce
+1 Spell Snare
 1 Snow-Covered Island
+1 Volcanic Island
 1 Preordain
+2 Tundra
+2 Spell Pierce
+2 Scalding Tarn
 2 Teferi, Time Raveler
 1 Snow-Covered Mountain
 1 Snow-Covered Plains
@@ -17,22 +17,22 @@
 2 Arcum's Astrolabe
 3 Snow-Covered Island
 1 Counterspell
-2 Polluted Delta
-3 Arcum's Astrolabe
-1 Tropical Island
 1 Accumulated Knowledge
 2 Accumulated Knowledge
 3 Accumulated Knowledge
 4 Accumulated Knowledge
-1 Karakas
 2 Preordain
+2 Polluted Delta
+3 Arcum's Astrolabe
+1 Tropical Island
+2 Force of Negation
+1 Karakas
 1 Wrenn and Six
 1 Wasteland
 2 Wasteland
 2 Wrenn and Six
 3 Wrenn and Six
 2 Volcanic Island
-3 Scalding Tarn
 2 Supreme Verdict
 1 Grove of the Burnwillows
 1 Punishing Fire
@@ -43,16 +43,13 @@
 2 Grove of the Burnwillows
 2 Mox Diamond
 7 Island
-2 Force of Negation
 1 Windswept Heath
 2 Windswept Heath
 3 Polluted Delta
 3 Counterbalance
 3 Narset, Parter of Veils
-1 Engineered Explosives
-3 Monastery Mentor
-1 Lightning Bolt
 2 Dovin's Veto
+1 Lightning Bolt
 2 Snow-Covered Plains
 1 Rest in Peace
 1 Energy Field
@@ -61,9 +58,8 @@
 2 Rest in Peace
 2 Energy Field
 3 Rest in Peace
+3 Scalding Tarn
 1 Arid Mesa
-1 Mountain
-2 Counterspell
 1 Swamp
 1 Nihil Spellbomb
 1 Underground Sea
@@ -86,6 +82,7 @@
 4 Plains
 4 Rest in Peace
 1 Teferi, Hero of Dominaria
+1 Engineered Explosives
 1 Mission Briefing
 2 Spell Snare
 4 Polluted Delta
@@ -99,5 +96,6 @@
 4 Snapcaster Mage
 1 Magmatic Sinkhole
 2 Magmatic Sinkhole
+3 Monastery Mentor
 4 Snow-Covered Island
 5 Snow-Covered Island
