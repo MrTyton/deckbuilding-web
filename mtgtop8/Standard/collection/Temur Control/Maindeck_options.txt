@@ -1,21 +1,10 @@
-1 Paradise Druid
-1 Sulfur Falls
-2 Paradise Druid
-2 Mass Manipulation
-2 Sulfur Falls
-3 Paradise Druid
-3 Mass Manipulation
-3 Cavalier of Thorns
-3 Omnath, Locus of the Roil
-4 Paradise Druid
-5 Forest
 1 Drawn from Dreams
-1 Lightning Strike
 1 Anticipate
 1 Wilderness Reclamation
 1 Ugin, the Ineffable
 1 Murmuring Mystic
 1 Chemister's Insight
+1 Lightning Strike
 1 Mesmerizing Benthid
 1 Narset, Parter of Veils
 1 Mountain
@@ -25,7 +14,6 @@
 1 Shock
 1 Ionize
 2 Drawn from Dreams
-2 Lightning Strike
 2 Anticipate
 2 Wilderness Reclamation
 2 Murmuring Mystic
@@ -38,10 +26,11 @@
 2 Ionize
 2 Shock
 2 Mountain
+2 Lightning Strike
 3 Anticipate
-3 Lightning Strike
 3 Wilderness Reclamation
 3 Ionize
+3 Lightning Strike
 3 Rootbound Crag
 3 Growth Spiral
 3 Island

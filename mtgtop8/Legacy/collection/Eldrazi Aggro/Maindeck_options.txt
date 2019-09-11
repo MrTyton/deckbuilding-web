@@ -47,8 +47,8 @@
 4 Endbringer
 1 Thran Dynamo
 2 Thran Dynamo
-1 Trinisphere
 1 Karn, Scion of Urza
+1 Trinisphere
 2 Trinisphere
 2 Karn, Scion of Urza
 3 Grim Monolith
@@ -56,8 +56,8 @@
 4 Grim Monolith
 1 Thespian's Stage
 1 Mox Diamond
-1 Sword of Fire and Ice
 1 Stoneforge Mystic
+1 Sword of Fire and Ice
 2 Mox Diamond
 2 Stoneforge Mystic
 3 Mox Diamond
@@ -92,8 +92,6 @@
 1 Lodestone Golem
 2 Lodestone Golem
 3 Lodestone Golem
-3 Spatial Contortion
-4 Spatial Contortion
 1 Phyrexian Revoker
 1 Batterskull
 2 Phyrexian Revoker
@@ -101,6 +99,8 @@
 3 Stoneforge Mystic
 3 Wastes
 4 Stoneforge Mystic
+3 Spatial Contortion
+4 Spatial Contortion
 1 Lotus Petal
 2 Lotus Petal
 3 Lotus Petal
@@ -133,8 +133,8 @@
 3 Blood Sun
 3 Grove of the Burnwillows
 4 Snow-Covered Mountain
-4 Blood Sun
 4 Goblin Rabblemaster
+4 Blood Sun
 4 Grove of the Burnwillows
 4 Simian Spirit Guide
 4 Punishing Fire

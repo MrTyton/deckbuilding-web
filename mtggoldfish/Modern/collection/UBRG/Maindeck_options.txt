@@ -1,7 +1,7 @@
 1 Vengevine
-1 Gravecrawler
 1 Overgrown Tomb
 1 Blood Crypt
+1 Lotleth Troll
 1 Grisly Salvage
 1 Bloodstained Mire
 1 Blooming Marsh
@@ -9,42 +9,47 @@
 1 Darkslick Shores
 1 Verdant Catacombs
 1 Tracker's Instincts
-1 City of Brass
+1 Gravecrawler
 1 Haunted Dead
-1 Lotleth Troll
 1 Snow-Covered Swamp
-2 City of Brass
-2 Gravecrawler
 2 Vengevine
-2 Stitcher's Supplier
 2 Overgrown Tomb
+2 Haunted Dead
 2 Bloodstained Mire
 2 Verdant Catacombs
-2 Haunted Dead
-2 Tracker's Instincts
 2 Grisly Salvage
+2 Stitcher's Supplier
+2 Gravecrawler
 2 Lotleth Troll
-3 Gravecrawler
-3 Stitcher's Supplier
 3 Vengevine
+3 Gravecrawler
 3 Grisly Salvage
-3 Lotleth Troll
+3 Stitcher's Supplier
 3 Verdant Catacombs
-4 Gravecrawler
-4 Stitcher's Supplier
 4 Vengevine
+4 Gravecrawler
 4 Polluted Delta
 4 Grisly Salvage
+4 Stitcher's Supplier
+1 Gemstone Mine
+1 Shriekhorn
+2 Gemstone Mine
+2 Shriekhorn
+2 Darkslick Shores
+1 City of Brass
+2 City of Brass
+2 Tracker's Instincts
+3 Lotleth Troll
 4 Lotleth Troll
 1 Scalding Tarn
 1 Jace, the Mind Sculptor
 1 Bloodbraid Elf
 1 Dreadhorde Arcanist
-1 Serum Visions
+1 Ancestral Vision
 1 As Foretold
 1 Electrodominance
 1 Crashing Footfalls
-1 Ancestral Vision
+1 Serum Visions
 1 Mountain
 1 Tarmogoyf
 1 Wooded Foothills
@@ -61,14 +66,14 @@
 2 Wooded Foothills
 2 Bloodbraid Elf
 2 Crashing Footfalls
-2 Ancestral Vision
 2 Tarmogoyf
-2 Dreadhorde Arcanist
-2 Lightning Bolt
-2 Misty Rainforest
+2 Ancestral Vision
 2 Serum Visions
-3 Bloodbraid Elf
+2 Lightning Bolt
+2 Dreadhorde Arcanist
+2 Misty Rainforest
 3 Scalding Tarn
+3 Bloodbraid Elf
 3 Lightning Bolt
 3 Misty Rainforest
 3 Dreadhorde Arcanist
@@ -80,6 +85,7 @@
 3 As Foretold
 4 Misty Rainforest
 4 Serum Visions
+4 Scalding Tarn
 4 Bloodbraid Elf
 4 Crashing Footfalls
 4 Tarmogoyf
@@ -88,4 +94,3 @@
 4 As Foretold
 4 Dreadhorde Arcanist
 4 Ancestral Vision
-4 Scalding Tarn

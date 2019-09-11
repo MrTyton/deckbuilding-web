@@ -34,6 +34,6 @@
 
 |*n*<sup>th</sup> copy|                                     Maindeck Card                                     |*n*<sup>th</sup> copy|                                   Sideboard Card                                   |
 |--------------------:|---------------------------------------------------------------------------------------|--------------------:|------------------------------------------------------------------------------------|
-|                    3|[Fatestitcher](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=176456)|                    1|[Wear/Tear](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=368950)|
-|                     |                                                                                       |                    1|[Swan Song](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420715)|
+|                    3|[Fatestitcher](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=176456)|                    1|[Swan Song](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420715)|
+|                     |                                                                                       |                    1|[Wear/Tear](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=368950)|
 

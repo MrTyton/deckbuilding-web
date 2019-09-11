@@ -1,21 +1,3 @@
-1 Inquisition of Kozilek
-2 Inquisition of Kozilek
-3 Inquisition of Kozilek
-1 Polluted Delta
-1 Watery Grave
-1 Swamp
-1 Island
-1 Bloodstained Mire
-2 Polluted Delta
-2 Watery Grave
-2 Island
-3 Polluted Delta
-4 Polluted Delta
-1 Collective Brutality
-1 Fatal Push
-1 Thoughtseize
-2 Collective Brutality
-2 Thoughtseize
 2 Fatal Push
 3 Thoughtseize
 1 Serum Visions
@@ -32,10 +14,10 @@
 1 Darkslick Shores
 1 Bojuka Bog
 1 Field of Ruin
-1 Damnation
 1 Vendilion Clique
-1 Syphon Life
 1 Nihil Spellbomb
+1 Syphon Life
+1 Damnation
 1 Creeping Tar Pit
 1 Ensnaring Bridge
 1 Liliana of the Veil
@@ -43,13 +25,13 @@
 2 Vendilion Clique
 2 Ensnaring Bridge
 2 Bojuka Bog
-2 Creeping Tar Pit
 2 Darkslick Shores
 2 Field of Ruin
 2 Swamp
+2 Creeping Tar Pit
 2 Nihil Spellbomb
-2 Damnation
 2 Zur's Weirding
+2 Damnation
 2 Liliana of the Veil
 3 Darkslick Shores
 3 Swamp
@@ -57,6 +39,8 @@
 3 Zur's Weirding
 3 Fatal Push
 4 Zur's Weirding
+1 Snow-Covered Forest
+2 Snow-Covered Forest
 1 Cryptic Command
 1 Scalding Tarn
 1 Steam Vents
@@ -68,9 +52,9 @@
 1 Opt
 1 Muddle the Mixture
 1 Rakdos Charm
+1 Batwing Brume
 1 Rapid Hybridization
 1 Pongify
-1 Batwing Brume
 1 Trespasser's Curse
 1 Remand
 1 Darkness
@@ -79,11 +63,11 @@
 1 Sunken Ruins
 1 Hunted Phantasm
 2 Opt
+2 Rakdos Charm
 2 Darkness
 2 Remand
 2 Trespasser's Curse
 2 Batwing Brume
-2 Rakdos Charm
 2 Steam Vents
 2 Hunted Phantasm
 2 Mission Briefing
@@ -91,12 +75,12 @@
 2 Rapid Hybridization
 3 Watery Grave
 3 Opt
+3 Rakdos Charm
 3 Remand
 3 Hunted Phantasm
 3 Trespasser's Curse
 3 Forbidden Orchard
 3 Darkness
-3 Rakdos Charm
 3 Batwing Brume
 4 Opt
 4 Hunted Phantasm
@@ -104,7 +88,6 @@
 4 Forbidden Orchard
 4 Rakdos Charm
 4 Trespasser's Curse
-1 Windswept Heath
 1 Forest
 2 Forest
 1 Blood Moon
@@ -118,8 +101,10 @@
 4 Lightning Bolt
 3 Blood Moon
 1 Seismic Assault
+1 Flame Jab
 1 Young Pyromancer
 1 Molten Vortex
+1 Windswept Heath
 1 Ghost Quarter
 1 Fire-Lit Thicket
 1 Mountain
@@ -130,8 +115,8 @@
 1 Seasoned Pyromancer
 1 Magmatic Insight
 1 Life from the Loam
-1 Flame Jab
 2 Seismic Assault
+2 Flame Jab
 2 Molten Vortex
 2 Windswept Heath
 2 Young Pyromancer
@@ -145,11 +130,10 @@
 2 Life from the Loam
 2 Commune with the Gods
 2 Forgotten Cave
-2 Flame Jab
 3 Seismic Assault
 3 Wrenn and Six
-3 Mountain
 3 Molten Vortex
+3 Mountain
 3 Forgotten Cave
 3 Young Pyromancer
 3 Ghost Quarter
@@ -166,10 +150,11 @@
 1 Snow-Covered Mountain
 1 Pulse of Murasa
 1 Lonely Sandbar
-1 Huntmaster of the Fells
 1 Snow-Covered Island
+1 Huntmaster of the Fells
 1 Force of Negation
 1 Jace, Vryn's Prodigy
+1 Ice-Fang Coatl
 1 Tarmogoyf
 1 Breeding Pool
 1 Jace, the Mind Sculptor
@@ -179,22 +164,21 @@
 1 Misty Rainforest
 1 Mana Leak
 1 Prismatic Vista
-1 Ice-Fang Coatl
 2 Lonely Sandbar
 2 Jace, the Mind Sculptor
-2 Huntmaster of the Fells
 2 Force of Negation
+2 Huntmaster of the Fells
 2 Prismatic Vista
 2 Tarmogoyf
+2 Ice-Fang Coatl
 2 Misty Rainforest
 2 Snow-Covered Island
 2 Mana Leak
-2 Ice-Fang Coatl
 3 Prismatic Vista
 3 Tarmogoyf
+3 Ice-Fang Coatl
 3 Misty Rainforest
 3 Snow-Covered Island
-3 Ice-Fang Coatl
 4 Misty Rainforest
 4 Snow-Covered Island
 4 Ice-Fang Coatl
@@ -207,8 +191,8 @@
 1 Kolaghan's Command
 1 Snow-Covered Swamp
 1 Faithless Looting
-2 Legion Warboss
 2 Dreadbore
+2 Legion Warboss
 2 Kolaghan's Command
 2 Chandra, Acolyte of Flame
 2 Unearth
@@ -220,12 +204,12 @@
 3 Legion Warboss
 3 Snow-Covered Mountain
 3 Blood Crypt
-3 Chandra, Acolyte of Flame
 3 Goblin Rabblemaster
+3 Chandra, Acolyte of Flame
 3 Faithless Looting
 3 Snow-Covered Swamp
-4 Blood Crypt
 4 Legion Warboss
+4 Blood Crypt
 4 Snow-Covered Mountain
 4 Goblin Rabblemaster
 4 Snow-Covered Swamp
@@ -241,6 +225,22 @@
 8 Snow-Covered Swamp
 9 Snow-Covered Swamp
 10 Snow-Covered Swamp
+1 Frostwalk Bastion
+2 Frostwalk Bastion
+3 Snow-Covered Forest
+4 Snow-Covered Forest
+5 Snow-Covered Forest
+6 Snow-Covered Forest
+7 Snow-Covered Forest
+8 Snow-Covered Forest
+9 Snow-Covered Forest
+10 Snow-Covered Forest
+11 Snow-Covered Forest
+12 Snow-Covered Forest
+13 Snow-Covered Forest
+14 Snow-Covered Forest
+15 Snow-Covered Forest
+16 Snow-Covered Forest
 3 Forest
 4 Forest
 5 Forest
@@ -255,15 +255,5 @@
 14 Forest
 15 Forest
 16 Forest
-17 Forest
 18 Forest
-1 Acidic Slime
-1 Thrun, the Last Troll
-1 Ohran Viper
-2 Acidic Slime
-2 Ohran Viper
-2 Llanowar Elves
-3 Ohran Viper
-3 Llanowar Elves
-17 Snow-Covered Forest
-18 Snow-Covered Forest
+17 Forest

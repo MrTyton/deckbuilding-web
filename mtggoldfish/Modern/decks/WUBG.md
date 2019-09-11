@@ -28,3 +28,32 @@
 |1 [Phyrexian Revoker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383343)  |                                                                                                |                                                                                          |
 |1 [Tireless Tracker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409997)   |                                                                                                |                                                                                          |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                        Maindeck Card                                         |*n*<sup>th</sup> copy|                                       Sideboard Card                                        |
+|--------------------:|----------------------------------------------------------------------------------------------|--------------------:|---------------------------------------------------------------------------------------------|
+|                    1|[Mulldrifter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389605)        |                    1|[Hostage Taker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435379)     |
+|                    1|[Deputy of Detention](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457309)|                    1|[Tidehollow Sculler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=175054)|
+|                    1|[Force of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464001)  |                    1|[Weather the Storm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464140) |
+|                    1|[Renegade Rallier](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423800)   |                    1|[Shriekmaw](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220572)         |
+|                    1|[Birds of Paradise](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129906)  |                    1|[Sin Collector](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=368968)     |
+|                    1|[Wall of Omens](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=247400)      |                    1|[Disdainful Stroke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420705) |
+|                    1|[Knight of Autumn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452933)   |                    1|[Acidic Slime](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376237)      |
+|                    1|[Overgrown Tomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405103)     |                    1|[Celestial Purge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=183055)   |
+|                    1|[Path to Exile](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220511)      |                    1|[Mana Leak](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45242)          |
+|                    1|[Siege Rhino](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386666)        |                    2|[Weather the Storm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464140) |
+|                    1|[Snow-Covered Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121256) |                    2|[Disdainful Stroke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420705) |
+|                    2|[Snow-Covered Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121267)|                    2|[Mana Leak](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45242)          |
+|                    2|[Force of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464001)  |                     |                                                                                             |
+|                    2|[Siege Rhino](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386666)        |                     |                                                                                             |
+|                    2|[Mulldrifter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389605)        |                     |                                                                                             |
+|                    2|[Path to Exile](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220511)      |                     |                                                                                             |
+|                    3|[Force of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464001)  |                     |                                                                                             |
+|                    3|[Siege Rhino](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386666)        |                     |                                                                                             |
+|                    3|[Noble Hierarch](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=179434)     |                     |                                                                                             |
+|                    3|[Snow-Covered Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121192)|                     |                                                                                             |
+|                    3|[Snow-Covered Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121130)|                     |                                                                                             |
+|                    4|[Noble Hierarch](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=179434)     |                     |                                                                                             |
+|                    4|[Siege Rhino](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386666)        |                     |                                                                                             |
+
