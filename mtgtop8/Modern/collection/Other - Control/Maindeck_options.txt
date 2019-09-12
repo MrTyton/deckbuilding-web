@@ -25,9 +25,9 @@
 2 Vendilion Clique
 2 Ensnaring Bridge
 2 Bojuka Bog
+2 Creeping Tar Pit
 2 Field of Ruin
 2 Swamp
-2 Creeping Tar Pit
 2 Nihil Spellbomb
 2 Zur's Weirding
 2 Darkslick Shores
@@ -49,6 +49,7 @@
 3 Cryptic Command
 1 Blood Crypt
 1 Forbidden Orchard
+1 Mission Briefing
 1 Muddle the Mixture
 1 Rakdos Charm
 1 Batwing Brume
@@ -57,11 +58,11 @@
 1 Trespasser's Curse
 1 Remand
 1 Darkness
-1 Mission Briefing
 1 Hallowed Fountain
 1 Sunken Ruins
 1 Hunted Phantasm
 1 Opt
+2 Mission Briefing
 2 Rakdos Charm
 2 Darkness
 2 Remand
@@ -69,7 +70,6 @@
 2 Batwing Brume
 2 Steam Vents
 2 Hunted Phantasm
-2 Mission Briefing
 2 Forbidden Orchard
 2 Opt
 2 Rapid Hybridization
@@ -100,8 +100,8 @@
 2 Wrenn and Six
 4 Lightning Bolt
 3 Blood Moon
-1 Seismic Assault
 1 Flame Jab
+1 Seismic Assault
 1 Young Pyromancer
 1 Molten Vortex
 1 Windswept Heath
@@ -153,7 +153,6 @@
 1 Snow-Covered Island
 1 Lonely Sandbar
 1 Huntmaster of the Fells
-1 Ice-Fang Coatl
 1 Tarmogoyf
 1 Breeding Pool
 1 Jace, the Mind Sculptor
@@ -164,21 +163,22 @@
 1 Misty Rainforest
 1 Mana Leak
 1 Prismatic Vista
+1 Ice-Fang Coatl
 2 Lonely Sandbar
 2 Jace, the Mind Sculptor
 2 Force of Negation
-2 Huntmaster of the Fells
 2 Prismatic Vista
+2 Huntmaster of the Fells
 2 Tarmogoyf
-2 Ice-Fang Coatl
 2 Misty Rainforest
 2 Snow-Covered Island
 2 Mana Leak
+2 Ice-Fang Coatl
 3 Prismatic Vista
 3 Tarmogoyf
-3 Ice-Fang Coatl
 3 Misty Rainforest
 3 Snow-Covered Island
+3 Ice-Fang Coatl
 4 Misty Rainforest
 4 Snow-Covered Island
 4 Ice-Fang Coatl

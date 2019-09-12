@@ -49,6 +49,6 @@
 |                    2|[Noble Hierarch](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=179434)      |                     |                                                                                            |
 |                    2|[Abundant Growth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=240017)     |                     |                                                                                            |
 |                    2|[Engineered Explosives](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=50139)|                     |                                                                                            |
-|                    3|[Summoner's Pact](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442178)     |                     |                                                                                            |
 |                    2|[Summoner's Pact](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442178)     |                     |                                                                                            |
+|                    3|[Summoner's Pact](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442178)     |                     |                                                                                            |
 

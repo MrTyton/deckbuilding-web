@@ -80,10 +80,10 @@
 |                    3|[Brainstorm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3897)           |                     |                                                                                            |
 |                    3|[Shardless Agent](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413748)    |                     |                                                                                            |
 |                    3|[Arcum's Astrolabe](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464169)  |                     |                                                                                            |
-|                    4|[Shardless Agent](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413748)    |                     |                                                                                            |
 |                    4|[Crashing Footfalls](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464109) |                     |                                                                                            |
 |                    4|[Polluted Delta](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405104)     |                     |                                                                                            |
 |                    4|[Baleful Strix](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376260)      |                     |                                                                                            |
+|                    4|[Shardless Agent](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413748)    |                     |                                                                                            |
 |                    4|[Force of Will](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3107)        |                     |                                                                                            |
 |                    4|[Brainstorm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3897)           |                     |                                                                                            |
 

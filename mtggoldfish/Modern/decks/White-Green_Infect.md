@@ -31,8 +31,8 @@
 
 |*n*<sup>th</sup> copy|                                        Maindeck Card                                        |*n*<sup>th</sup> copy|                                          Sideboard Card                                          |
 |--------------------:|---------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------------|
-|                    1|[Mana Tithe](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=122324)        |                    1|[Shapers' Sanctuary](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435362)     |
-|                    1|[Viridian Corrupter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=213772)|                    1|[Kor Firewalker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442010)         |
+|                    1|[Viridian Corrupter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=213772)|                    1|[Shapers' Sanctuary](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435362)     |
+|                    1|[Mana Tithe](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=122324)        |                    1|[Kor Firewalker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442010)         |
 |                    1|[Ichorclaw Myr](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=194256)     |                    1|[Leyline of Sanctity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=204993)    |
 |                    2|[Mana Tithe](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=122324)        |                    1|[Relic of Progenitus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174824)    |
 |                    2|[Rancor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442175)            |                    2|[Relic of Progenitus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174824)    |
