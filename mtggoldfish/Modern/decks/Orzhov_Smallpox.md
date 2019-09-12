@@ -63,7 +63,7 @@
 |                     |                                                                                                   |                    1|[Path to Exile](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220511)           |
 |                     |                                                                                                   |                    2|[Path to Exile](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220511)           |
 |                     |                                                                                                   |                    1|[Kataki, War's Wage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382190)      |
-|                     |                                                                                                   |                    1|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)     |
 |                     |                                                                                                   |                    1|[Worship](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=25553)                  |
+|                     |                                                                                                   |                    1|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)     |
 |                     |                                                                                                   |                    3|[Collective Brutality](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414380)    |
 

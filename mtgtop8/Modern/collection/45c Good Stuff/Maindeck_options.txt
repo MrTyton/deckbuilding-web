@@ -31,9 +31,9 @@
 1 Plains
 2 Wooded Foothills
 2 Noble Hierarch
+2 Mantis Rider
 2 Bloodbraid Elf
 2 Hexdrinker
-2 Mantis Rider
 2 Geist of Saint Traft
 2 Lightning Helix
 2 Tribal Flames
@@ -41,15 +41,15 @@
 3 Lightning Helix
 3 Noble Hierarch
 3 Hexdrinker
-3 Bloodbraid Elf
 3 Mantis Rider
+3 Bloodbraid Elf
 3 Geist of Saint Traft
 3 Tribal Flames
 3 Wooded Foothills
 4 Lightning Helix
 4 Noble Hierarch
-4 Bloodbraid Elf
 4 Mantis Rider
+4 Bloodbraid Elf
 4 Tribal Flames
 4 Wooded Foothills
 1 Wrenn and Six
@@ -104,8 +104,8 @@
 4 Forest
 1 Skred
 1 Serum Visions
-1 Waterlogged Grove
 1 Force of Negation
+1 Waterlogged Grove
 1 Huntmaster of the Fells
 1 Spell Snare
 1 Cryptic Command
