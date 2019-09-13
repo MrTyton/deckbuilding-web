@@ -29,8 +29,8 @@
 
 |*n*<sup>th</sup> copy|                                        Maindeck Card                                         |*n*<sup>th</sup> copy|                                      Sideboard Card                                      |
 |--------------------:|----------------------------------------------------------------------------------------------|--------------------:|------------------------------------------------------------------------------------------|
-|                    1|[Umezawa's Jitte](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=81979)     |                    1|[Ensnaring Bridge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=15866)|
-|                    1|[Inventors' Fair](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417820)    |                    1|[Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)         |
+|                    1|[Umezawa's Jitte](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=81979)     |                    1|[Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)         |
+|                    1|[Inventors' Fair](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417820)    |                    1|[Ensnaring Bridge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=15866)|
 |                    1|[Tree of Tales](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205312)      |                    1|[Spellskite](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397743)     |
 |                    2|[Karn, Scion of Urza](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442889)|                    1|[Blood Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45386)      |
 |                    2|[Tree of Tales](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205312)      |                    2|[Ensnaring Bridge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=15866)|

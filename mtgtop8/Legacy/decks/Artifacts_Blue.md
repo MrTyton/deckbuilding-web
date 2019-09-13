@@ -37,8 +37,8 @@
 
 |*n*<sup>th</sup> copy|                                          Maindeck Card                                          |*n*<sup>th</sup> copy|                                        Sideboard Card                                         |
 |--------------------:|-------------------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------------|
-|                    1|[Hope of Ghirapur](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423821)      |                    1|[Grindstone](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425810)          |
-|                    1|[Academy Ruins](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370424)         |                    1|[Painter's Servant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420607)   |
+|                    1|[Academy Ruins](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370424)         |                    1|[Grindstone](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425810)          |
+|                    1|[Hope of Ghirapur](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423821)      |                    1|[Painter's Servant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420607)   |
 |                    1|[Spellskite](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397743)            |                    1|[Flusterstorm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=228255)        |
 |                    1|[Painter's Servant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420607)     |                    1|[Pithing Needle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129526)      |
 |                    1|[The Antiquities War](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442930)   |                    1|[Karn, Scion of Urza](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442889) |

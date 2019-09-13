@@ -30,7 +30,7 @@
 
 |*n*<sup>th</sup> copy|                                       Maindeck Card                                        |*n*<sup>th</sup> copy|                                           Sideboard Card                                           |
 |--------------------:|--------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------------|
-|                    3|[Arcbound Ravager](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=50943)  |                    1|[Throne of the God-Pharaoh](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426939)|
-|                    4|[Waterlogged Grove](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464198)|                    4|[Phyrexian Revoker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383343)        |
+|                    3|[Arcbound Ravager](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=50943)  |                    4|[Phyrexian Revoker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383343)        |
+|                    4|[Waterlogged Grove](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464198)|                    1|[Throne of the God-Pharaoh](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426939)|
 |                    4|[Mox Opal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397719)         |                     |                                                                                                    |
 
