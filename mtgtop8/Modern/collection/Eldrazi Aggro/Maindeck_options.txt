@@ -1,5 +1,5 @@
-1 Scavenger Grounds
 2 Ghost Quarter
+3 Dismember
 2 Cavern of Souls
 1 Brushland
 1 Stoneforge Mystic
@@ -7,9 +7,9 @@
 1 Sword of Fire and Ice
 1 Path to Exile
 1 Sword of Feast and Famine
+1 Eldrazi Displacer
 1 Ancient Stirrings
 1 Noble Hierarch
-1 Eldrazi Displacer
 2 Noble Hierarch
 2 Stoneforge Mystic
 2 Path to Exile
@@ -27,7 +27,7 @@
 4 Ancient Stirrings
 4 Eldrazi Displacer
 4 Brushland
-2 Endbringer
+1 Relic of Progenitus
 1 Prismatic Vista
 1 Horizon Canopy
 2 Prismatic Vista
@@ -36,48 +36,27 @@
 4 Prismatic Vista
 1 Plains
 1 Forest
-1 Gemstone Caverns
-3 Ghost Quarter
-1 Relic of Progenitus
 1 Cryptic Caves
 3 Wastes
-1 Mystic Forge
-1 Warping Wail
-2 Warping Wail
 2 Horizon Canopy
 2 Plains
 2 Forest
 3 Horizon Canopy
+1 Mystic Forge
+1 Warping Wail
+2 Warping Wail
 3 Mind Stone
+2 Endbringer
 1 Talisman of Unity
-1 Eldrazi Mimic
-1 Serum Powder
-1 Eternal Scourge
-1 Simian Spirit Guide
-1 Blinkmoth Nexus
-2 Eldrazi Mimic
-2 Eternal Scourge
-2 Serum Powder
-2 Simian Spirit Guide
-2 Gemstone Caverns
-2 Blinkmoth Nexus
-3 Eldrazi Mimic
-3 Serum Powder
-3 Eternal Scourge
-3 Simian Spirit Guide
-4 Eldrazi Mimic
-4 Eternal Scourge
-4 Simian Spirit Guide
-4 Ghost Quarter
 3 Cavern of Souls
 4 Cavern of Souls
+3 Ghost Quarter
 1 Buried Ruin
 1 Ulamog, the Ceaseless Hunger
 1 Sanctum of Ugin
 1 Wurmcoil Engine
 2 Mystic Forge
 2 Relic of Progenitus
-3 Blast Zone
 1 Snow-Covered Plains
 1 Snow-Covered Forest
 2 Snow-Covered Plains
@@ -86,24 +65,6 @@
 3 Talisman of Unity
 1 Haunted Fengraf
 4 Mind Stone
-1 Smuggler's Copter
-1 Zhalfirin Void
-1 Mutavault
-2 Smuggler's Copter
-2 Zhalfirin Void
-2 Mutavault
-3 Mutavault
-3 Zhalfirin Void
-4 Serum Powder
-4 Dismember
-4 Zhalfirin Void
-1 Tomb of the Spirit Dragon
-1 Desert
-2 Desert
-2 Scavenger Grounds
-3 Gemstone Caverns
-3 Blinkmoth Nexus
-4 Blinkmoth Nexus
 1 Yavimaya Coast
 1 Hallowed Fountain
 1 Breeding Pool
@@ -113,13 +74,40 @@
 1 Drowner of Hope
 1 Eldrazi Skyspawner
 2 Yavimaya Coast
-2 Drowner of Hope
 2 Windswept Heath
 2 Eldrazi Skyspawner
+2 Drowner of Hope
 3 Windswept Heath
 3 Eldrazi Skyspawner
 4 Windswept Heath
 4 Eldrazi Skyspawner
+1 Eldrazi Mimic
+1 Serum Powder
+1 Gemstone Caverns
+1 Eternal Scourge
+1 Tomb of the Spirit Dragon
+1 Simian Spirit Guide
+1 Desert
+1 Blinkmoth Nexus
+2 Eldrazi Mimic
+2 Scavenger Grounds
+2 Eternal Scourge
+2 Serum Powder
+2 Desert
+2 Simian Spirit Guide
+2 Gemstone Caverns
+2 Blinkmoth Nexus
+3 Eldrazi Mimic
+3 Serum Powder
+3 Eternal Scourge
+3 Simian Spirit Guide
+3 Blinkmoth Nexus
+3 Gemstone Caverns
+4 Eldrazi Mimic
+4 Eternal Scourge
+4 Simian Spirit Guide
+4 Blinkmoth Nexus
+4 Ghost Quarter
 1 Emrakul, the Promised End
 1 Spatial Contortion
 2 Spatial Contortion
