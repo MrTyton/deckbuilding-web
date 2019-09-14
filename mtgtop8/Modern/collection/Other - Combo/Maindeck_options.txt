@@ -6,13 +6,13 @@
 4 Vizier of Tumbling Sands
 1 Forest
 2 Forest
-1 Grove of the Burnwillows
 1 Paradox Engine
+1 Grove of the Burnwillows
+1 Everflowing Chalice
 1 Zhalfirin Void
 1 Surge Node
 1 Coretapper
 1 Astral Cornucopia
-1 Everflowing Chalice
 1 Mox Opal
 1 Horizon Canopy
 1 Mystic Forge
@@ -29,11 +29,11 @@
 2 Grove of the Burnwillows
 2 Pyrite Spellbomb
 2 Inventors' Fair
+2 Everflowing Chalice
 2 Zhalfirin Void
 2 Coretapper
 2 Astral Cornucopia
 2 Surge Node
-2 Everflowing Chalice
 2 Mox Opal
 2 Mystic Forge
 2 Ensnaring Bridge
@@ -42,8 +42,8 @@
 2 Ancient Stirrings
 2 Blast Zone
 3 Grove of the Burnwillows
-3 Inventors' Fair
 3 Coretapper
+3 Inventors' Fair
 3 Astral Cornucopia
 3 Everflowing Chalice
 3 Mox Opal
@@ -58,8 +58,8 @@
 4 Grove of the Burnwillows
 4 Everflowing Chalice
 4 Surge Node
-4 Astral Cornucopia
 4 Coretapper
+4 Astral Cornucopia
 4 Blast Zone
 4 Mox Opal
 4 Ancient Stirrings
@@ -69,19 +69,19 @@
 1 Lightning Bolt
 2 Simian Spirit Guide
 2 Lightning Bolt
-3 Lightning Bolt
 3 Simian Spirit Guide
+3 Lightning Bolt
 4 Simian Spirit Guide
 1 Peek
+1 Arid Mesa
 1 Sphinx of Foresight
 1 Flooded Strand
-1 Arid Mesa
-1 Lightning Axe
 1 Flame Slash
 1 Opt
 1 Scalding Tarn
-1 Force of Negation
+1 Lightning Axe
 1 Dreadhorde Arcanist
+1 Force of Negation
 1 As Foretold
 1 Crashing Footfalls
 1 Ancestral Vision
@@ -90,16 +90,16 @@
 2 Sphinx of Foresight
 2 Mountain
 2 Opt
+2 Dreadhorde Arcanist
 2 Scalding Tarn
 2 Force of Negation
 2 Electrodominance
 2 Crashing Footfalls
 2 Ancestral Vision
 2 As Foretold
-2 Dreadhorde Arcanist
 3 Sphinx of Foresight
-3 Force of Negation
 3 Dreadhorde Arcanist
+3 Force of Negation
 3 Steam Vents
 3 Electrodominance
 3 Crashing Footfalls

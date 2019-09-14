@@ -39,7 +39,7 @@
 |                    2|[Thassa, God of the Sea](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373535)|                    2|[Echoing Truth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405212)      |
 |                    2|[Waterlogged Grove](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464198)     |                    2|[Chalice of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442211)|
 |                    2|[Merrow Reejerey](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438453)       |                    2|[Tidebinder Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438462)    |
-|                    4|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)                |                    2|[Celestial Purge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=183055)    |
-|                    4|[Flooded Strand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405098)        |                    3|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)      |
+|                    4|[Flooded Strand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405098)        |                    2|[Celestial Purge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=183055)    |
+|                    4|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)                |                    3|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)      |
 |                    5|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)                |                     |                                                                                              |
 
