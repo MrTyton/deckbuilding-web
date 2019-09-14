@@ -16,8 +16,8 @@
 1 Through the Breach
 1 Desolate Lighthouse
 2 Flame Slash
-2 Through the Breach
 2 Emrakul, the Aeons Torn
+2 Through the Breach
 3 Cryptic Command
 3 Through the Breach
 3 Emrakul, the Aeons Torn
@@ -92,11 +92,11 @@
 3 Pteramander
 3 Mana Leak
 4 Pteramander
-1 Grim Lavamancer
 1 Goblin Rabblemaster
+1 Grim Lavamancer
 1 Spell Pierce
-1 Misty Rainforest
 1 Firebolt
+1 Misty Rainforest
 2 Spell Pierce
 2 Firebolt
 4 Young Pyromancer
@@ -111,6 +111,7 @@
 3 Aria of Flame
 4 Izzet Charm
 4 Arclight Phoenix
+1 Repeal
 1 Ichor Wellspring
 1 Ghirapur Aether Grid
 1 Engineered Explosives
@@ -120,9 +121,9 @@
 1 Pentad Prism
 1 Mox Opal
 1 Urza, Lord High Artificer
-1 Repeal
 1 Sai, Master Thopterist
 1 Mishra's Bauble
+2 Repeal
 2 Ichor Wellspring
 2 Metallic Rebuke
 2 Paradoxical Outcome
@@ -133,12 +134,11 @@
 2 Pentad Prism
 2 Sai, Master Thopterist
 2 Mishra's Bauble
-2 Repeal
 2 Engineered Explosives
-3 Metallic Rebuke
 3 Pentad Prism
 3 Ichor Wellspring
 3 Mox Opal
+3 Metallic Rebuke
 3 Engineered Explosives
 3 Arcum's Astrolabe
 3 Mishra's Bauble
@@ -147,15 +147,15 @@
 4 Prismatic Vista
 4 Arcum's Astrolabe
 4 Pentad Prism
-4 Mishra's Bauble
 4 Urza, Lord High Artificer
+4 Mishra's Bauble
 4 Mox Opal
 4 Paradoxical Outcome
 8 Snow-Covered Island
-1 Lonely Sandbar
 1 Shivan Reef
-2 Lonely Sandbar
+1 Lonely Sandbar
 2 Shivan Reef
+2 Lonely Sandbar
 3 Lonely Sandbar
 3 Shivan Reef
 4 Lonely Sandbar
@@ -177,10 +177,10 @@
 2 Lotus Field
 2 Twiddle
 2 Past in Flames
-2 Ideas Unbound
 2 Reach Through Mists
 2 Psychic Puppetry
 2 Dream's Grip
+2 Ideas Unbound
 2 Vizier of Tumbling Sands
 3 Peer Through Depths
 3 Lotus Field
@@ -206,11 +206,11 @@
 1 Treasure Hunt
 1 Swans of Bryn Argoll
 1 Throes of Chaos
-2 Forgotten Cave
 2 Temple of Epiphany
-2 Swiftwater Cliffs
 2 Swans of Bryn Argoll
 2 Molten Vortex
+2 Swiftwater Cliffs
+2 Forgotten Cave
 2 Throes of Chaos
 2 Treasure Hunt
 2 Mountain
@@ -220,8 +220,8 @@
 3 Seismic Assault
 3 Molten Vortex
 3 Swans of Bryn Argoll
-3 Swiftwater Cliffs
 3 Temple of Epiphany
+3 Swiftwater Cliffs
 3 Treasure Hunt
 3 Mountain
 4 Temple of Epiphany

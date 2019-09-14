@@ -1,0 +1,35 @@
+# Devouted Company
+
+#### [Export MTGO List](../collection/Devouted%20Company/Devouted%20Company.txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Birds%20of%20Paradise%0A4%09Chord%20of%20Calling%0A4%09Collected%20Company%0A4%09Devoted%20Druid%0A3%09Duskwatch%20Recruiter%0A3%09Eternal%20Witness%0A3%09Forest%0A2%09Gavony%20Township%0A1%09Godless%20Shrine%0A4%09Kitchen%20Finks%0A2%09Overgrown%20Tomb%0A1%09Plains%0A1%09Qasali%20Pridemage%0A3%09Razorverge%20Thicket%0A3%09Renegade%20Rallier%0A1%09Rhonas%20the%20Indomitable%0A1%09Scavenging%20Ooze%0A2%09Temple%20Garden%0A1%09Viscera%20Seer%0A4%09Vizier%20of%20Remedies%0A1%09Walking%20Ballista%0A4%09Windswept%20Heath%0A4%09Wooded%20Foothills&deckside=2%09Abrupt%20Decay%0A1%09Assassin's%20Trophy%0A1%09Aven%20Mindcensor%0A2%09Burrenton%20Forge-Tender%0A1%09Eidolon%20of%20Rhetoric%0A1%09Kataki,%20War's%20Wage%0A1%09Orzhov%20Pontiff%0A1%09Phyrexian%20Revoker%0A1%09Remorseful%20Cleric%0A4%09Tidehollow%20Sculler)
+# Maindeck
+
+|                                           Creature (30)                                           |                                         Instant (8)                                          |                                           Land (22)                                           |
+|---------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
+|4 [Birds of Paradise](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129906)     |4 [Chord of Calling](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383209) |3 [Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)            |
+|4 [Devoted Druid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=135500)         |4 [Collected Company](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394519)|2 [Gavony Township](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=233242)   |
+|3 [Duskwatch Recruiter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409961)   |                                                                                              |1 [Godless Shrine](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405099)    |
+|3 [Eternal Witness](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=51628)        |                                                                                              |2 [Overgrown Tomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405103)    |
+|4 [Kitchen Finks](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370458)         |                                                                                              |1 [Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)            |
+|1 [Qasali Pridemage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=179556)      |                                                                                              |3 [Razorverge Thicket](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=209407)|
+|3 [Renegade Rallier](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423800)      |                                                                                              |2 [Temple Garden](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405112)     |
+|1 [Rhonas the Indomitable](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426884)|                                                                                              |4 [Windswept Heath](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405115)   |
+|1 [Scavenging Ooze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420783)       |                                                                                              |4 [Wooded Foothills](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405116)  |
+|1 [Viscera Seer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376569)          |                                                                                              |                                                                                               |
+|4 [Vizier of Remedies](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426740)    |                                                                                              |                                                                                               |
+|1 [Walking Ballista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423848)      |                                                                                              |                                                                                               |
+
+
+# Sideboard
+
+|                                           Creature (12)                                           |                                         Instant (3)                                          |
+|---------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
+|1 [Aven Mindcensor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426707)       |2 [Abrupt Decay](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456061)     |
+|2 [Burrenton Forge-Tender](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438580)|1 [Assassin's Trophy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452902)|
+|1 [Eidolon of Rhetoric](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=380409)   |                                                                                              |
+|1 [Kataki, War's Wage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382190)    |                                                                                              |
+|1 [Orzhov Pontiff](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460469)        |                                                                                              |
+|1 [Phyrexian Revoker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383343)     |                                                                                              |
+|1 [Remorseful Cleric](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447169)     |                                                                                              |
+|4 [Tidehollow Sculler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=175054)    |                                                                                              |
+

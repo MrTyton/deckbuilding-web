@@ -30,13 +30,28 @@
 3 Bloodstained Mire
 4 Lightning Bolt
 4 Bloodstained Mire
+1 Creeping Trailblazer
+1 Sunbaked Canyon
+1 Healer of the Glade
+1 Leyline of the Void
+1 Waterlogged Grove
+1 Fulminator Mage
+2 Waterlogged Grove
+2 Creeping Trailblazer
+2 Sunbaked Canyon
+2 Leyline of the Void
+3 Creeping Trailblazer
+3 Copperline Gorge
+3 Leyline of the Void
+4 Copperline Gorge
+4 Leyline of the Void
 1 Forest
 1 Shivan Reef
 1 Craterhoof Behemoth
 1 Lumbering Falls
 1 Scampering Scorcher
-1 Vivien's Arkbow
 1 Vivien, Champion of the Wilds
+1 Vivien's Arkbow
 1 Omnath, Locus of Rage
 1 Chandra, Acolyte of Flame
 1 Finale of Devastation
@@ -68,21 +83,6 @@
 4 Simian Spirit Guide
 4 Chancellor of the Tangle
 4 Mana Confluence
-1 Creeping Trailblazer
-1 Sunbaked Canyon
-1 Healer of the Glade
-1 Leyline of the Void
-1 Waterlogged Grove
-1 Fulminator Mage
-2 Creeping Trailblazer
-2 Sunbaked Canyon
-2 Leyline of the Void
-2 Waterlogged Grove
-3 Creeping Trailblazer
-3 Copperline Gorge
-3 Leyline of the Void
-4 Leyline of the Void
-4 Copperline Gorge
 1 Incandescent Soulstoke
 1 Nova Chaser
 1 Shriekmaw
@@ -127,8 +127,8 @@
 4 Blackcleave Cliffs
 4 Vengevine
 1 Arid Mesa
-1 Unearth
 1 Inquisition of Kozilek
+1 Unearth
 1 Dragonskull Summit
 1 Kolaghan's Command
 1 Collective Brutality
@@ -147,9 +147,9 @@
 2 Arid Mesa
 2 Fatal Push
 2 Dreadhorde Arcanist
+3 Unearth
 3 Thoughtseize
 3 Snow-Covered Mountain
-3 Unearth
 3 Ball Lightning
 3 Inquisition of Kozilek
 4 Unearth
