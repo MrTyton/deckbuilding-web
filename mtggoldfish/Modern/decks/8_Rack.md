@@ -44,7 +44,7 @@
 |                    3|[Funeral Charm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=108895)           |                    3|[Dark Confidant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397731)        |
 |                    3|[Wrench Mind](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438681)             |                    3|[Plague Engineer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464049)       |
 |                    4|[Urborg, Tomb of Yawgmoth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383425)|                    3|[Fulminator Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397686)       |
-|                    7|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)                   |                     |                                                                                                 |
-|                    8|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)                   |                     |                                                                                                 |
 |                    6|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)                   |                     |                                                                                                 |
+|                    8|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)                   |                     |                                                                                                 |
+|                    7|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)                   |                     |                                                                                                 |
 

@@ -28,8 +28,8 @@
 
 |*n*<sup>th</sup> copy|                                        Maindeck Card                                         |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
 |--------------------:|----------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
-|                    1|[Pyretic Ritual](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205067)     |                    1|[Carpet of Flowers](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=5858)    |
-|                    1|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|                    1|[Shattering Spree](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456224)   |
+|                    1|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|                    1|[Carpet of Flowers](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=5858)    |
+|                    1|[Pyretic Ritual](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205067)     |                    1|[Shattering Spree](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456224)   |
 |                    2|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|                    1|[Pyroclasm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129801)          |
 |                    2|[Pyretic Ritual](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205067)     |                    1|[Telemin Performance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=189085)|
 |                    3|[Seething Song](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=83377)       |                    1|[Forked Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401702)        |
