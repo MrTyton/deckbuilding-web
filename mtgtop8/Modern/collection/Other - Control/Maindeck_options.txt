@@ -1,93 +1,46 @@
-2 Fatal Push
-3 Thoughtseize
-1 Serum Visions
-1 Snapcaster Mage
-2 Snapcaster Mage
-2 Serum Visions
-3 Snapcaster Mage
-3 Serum Visions
-4 Serum Visions
-1 Dakmor Salvage
+1 Polluted Delta
 1 Search for Azcanta
 1 Bojuka Bog
+1 Watery Grave
+1 Hero's Downfall
 1 Force of Despair
 1 Field of Ruin
-1 Hero's Downfall
 1 Damnation
 1 Vendilion Clique
 1 Nihil Spellbomb
+1 Island
+1 Swamp
+1 Bloodstained Mire
 1 Syphon Life
 1 Darkslick Shores
-1 Creeping Tar Pit
 1 Ensnaring Bridge
 1 Liliana of the Veil
 1 Zur's Weirding
+1 Creeping Tar Pit
 2 Vendilion Clique
 2 Ensnaring Bridge
+2 Polluted Delta
 2 Bojuka Bog
+2 Watery Grave
 2 Field of Ruin
 2 Creeping Tar Pit
 2 Nihil Spellbomb
 2 Zur's Weirding
+2 Island
 2 Darkslick Shores
 2 Damnation
 2 Swamp
 2 Liliana of the Veil
+3 Polluted Delta
 3 Creeping Tar Pit
 3 Darkslick Shores
 3 Zur's Weirding
 3 Fatal Push
 3 Swamp
+4 Polluted Delta
 4 Zur's Weirding
 1 Snow-Covered Forest
 2 Snow-Covered Forest
-1 Cryptic Command
-1 Scalding Tarn
-1 Steam Vents
-2 Cryptic Command
-2 Scalding Tarn
-3 Cryptic Command
-1 Blood Crypt
-1 Forbidden Orchard
-1 Mission Briefing
-1 Muddle the Mixture
-1 Rakdos Charm
-1 Rapid Hybridization
-1 Pongify
-1 Batwing Brume
-1 Trespasser's Curse
-1 Remand
-1 Darkness
-1 Hallowed Fountain
-1 Sunken Ruins
-1 Hunted Phantasm
-1 Opt
-2 Mission Briefing
-2 Rakdos Charm
-2 Darkness
-2 Remand
-2 Trespasser's Curse
-2 Batwing Brume
-2 Steam Vents
-2 Hunted Phantasm
-2 Forbidden Orchard
-2 Opt
-2 Rapid Hybridization
-3 Opt
-3 Watery Grave
-3 Rakdos Charm
-3 Remand
-3 Hunted Phantasm
-3 Trespasser's Curse
-3 Forbidden Orchard
-3 Darkness
-3 Batwing Brume
-4 Opt
-4 Hunted Phantasm
-4 Batwing Brume
-4 Forbidden Orchard
-4 Rakdos Charm
-4 Trespasser's Curse
 1 Forest
 2 Forest
 1 Blood Moon
@@ -100,30 +53,30 @@
 2 Wrenn and Six
 4 Lightning Bolt
 3 Blood Moon
-1 Wooded Foothills
-1 Flame Jab
-1 Seismic Assault
 1 Molten Vortex
+1 Ghost Quarter
+1 Wooded Foothills
+1 Seismic Assault
+1 Flame Jab
 1 Windswept Heath
 1 Seasoned Pyromancer
-1 Ghost Quarter
 1 Young Pyromancer
 1 Fire-Lit Thicket
+1 Life from the Loam
 1 Mountain
 1 Forgotten Cave
 1 Commune with the Gods
 1 Raging Ravine
 1 Magmatic Insight
-1 Life from the Loam
-2 Wooded Foothills
 2 Seismic Assault
+2 Wooded Foothills
 2 Flame Jab
 2 Seasoned Pyromancer
 2 Windswept Heath
-2 Molten Vortex
 2 Young Pyromancer
 2 Magmatic Insight
 2 Mountain
+2 Molten Vortex
 2 Ghost Quarter
 2 Stomping Ground
 2 Fire-Lit Thicket
@@ -131,19 +84,19 @@
 2 Commune with the Gods
 2 Forgotten Cave
 3 Seismic Assault
-3 Molten Vortex
 3 Wrenn and Six
 3 Mountain
-3 Forgotten Cave
+3 Commune with the Gods
 3 Young Pyromancer
 3 Ghost Quarter
 3 Magmatic Insight
-3 Commune with the Gods
+3 Molten Vortex
 3 Life from the Loam
+3 Forgotten Cave
 3 Wooded Foothills
 4 Mountain
-4 Forgotten Cave
 4 Young Pyromancer
+4 Forgotten Cave
 4 Life from the Loam
 4 Wooded Foothills
 4 Ghost Quarter
@@ -160,10 +113,13 @@
 1 Flame Slash
 1 Force of Negation
 1 Misty Rainforest
+1 Ice-Fang Coatl
 1 Mana Leak
 1 Spell Snare
+1 Cryptic Command
+1 Scalding Tarn
+1 Steam Vents
 1 Prismatic Vista
-1 Ice-Fang Coatl
 2 Lonely Sandbar
 2 Jace, the Mind Sculptor
 2 Force of Negation
@@ -172,12 +128,15 @@
 2 Tarmogoyf
 2 Misty Rainforest
 2 Snow-Covered Island
+2 Cryptic Command
 2 Mana Leak
+2 Scalding Tarn
 2 Ice-Fang Coatl
 3 Prismatic Vista
 3 Tarmogoyf
 3 Misty Rainforest
 3 Snow-Covered Island
+3 Cryptic Command
 3 Ice-Fang Coatl
 4 Misty Rainforest
 4 Snow-Covered Island
@@ -185,12 +144,13 @@
 5 Snow-Covered Island
 1 Legion Warboss
 1 Goblin Rabblemaster
+1 Blood Crypt
 1 Chandra, Acolyte of Flame
 1 Dreadbore
 1 Kolaghan's Command
 1 Unearth
-1 Snow-Covered Swamp
 1 Faithless Looting
+1 Snow-Covered Swamp
 2 Dreadbore
 2 Legion Warboss
 2 Faithless Looting

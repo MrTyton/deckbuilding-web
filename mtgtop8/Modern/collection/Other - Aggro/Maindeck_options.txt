@@ -1,18 +1,18 @@
 20 Island
 1 Mutavault
-1 Disrupting Shoal
 1 Curious Obsession
-1 Pteramander
 1 Fiery Islet
+1 Pteramander
+1 Disrupting Shoal
 1 Force of Negation
 1 Spell Pierce
 1 Archmage's Charm
 1 Ninja of the Deep Hours
 2 Curious Obsession
-2 Disrupting Shoal
 2 Pteramander
 2 Spell Pierce
 2 Archmage's Charm
+2 Disrupting Shoal
 2 Ninja of the Deep Hours
 2 Force of Negation
 3 Curious Obsession
@@ -24,19 +24,19 @@
 4 Curious Obsession
 4 Ninja of the Deep Hours
 4 Disrupting Shoal
-1 Thoughtseize
 1 Fatal Push
 1 Inquisition of Kozilek
-1 Swamp
 1 Liliana of the Veil
+1 Thoughtseize
+1 Swamp
+2 Inquisition of Kozilek
+2 Fatal Push
+2 Liliana of the Veil
 2 Thoughtseize
 2 Swamp
-2 Liliana of the Veil
-2 Fatal Push
-2 Inquisition of Kozilek
 3 Liliana of the Veil
-3 Thoughtseize
 3 Swamp
+3 Thoughtseize
 4 Thoughtseize
 1 Chandra, Acolyte of Flame
 1 Bloodstained Mire
@@ -72,11 +72,11 @@
 3 Blood Moon
 3 Sunbaked Canyon
 3 Seasoned Pyromancer
+3 Inquisition of Kozilek
 3 Bloodstained Mire
 3 Marsh Flats
 3 Fatal Push
 3 Lightning Bolt
-3 Inquisition of Kozilek
 3 Blackcleave Cliffs
 4 Seasoned Pyromancer
 4 Dreadhorde Arcanist
@@ -144,6 +144,51 @@
 4 Eladamri's Call
 4 Devoted Druid
 4 Finale of Devastation
+1 Dryad Arbor
+1 Hogaak, Arisen Necropolis
+1 Stitcher's Supplier
+1 Satyr Wayfinder
+1 Forest
+1 Nurturing Peatland
+1 Urborg, Tomb of Yawgmoth
+1 Overgrown Tomb
+1 Smallpox
+1 Verdant Catacombs
+1 Bloodghast
+1 Cabal Therapist
+2 Mutavault
+2 Stitcher's Supplier
+2 Hogaak, Arisen Necropolis
+2 Satyr Wayfinder
+2 Verdant Catacombs
+2 Cabal Therapist
+2 Smallpox
+2 Nurturing Peatland
+2 Urborg, Tomb of Yawgmoth
+2 Bloodghast
+3 Satyr Wayfinder
+3 Stitcher's Supplier
+3 Hogaak, Arisen Necropolis
+3 Mutavault
+3 Nurturing Peatland
+3 Cabal Therapist
+3 Bloodghast
+3 Smallpox
+3 Urborg, Tomb of Yawgmoth
+3 Verdant Catacombs
+4 Satyr Wayfinder
+4 Hogaak, Arisen Necropolis
+4 Stitcher's Supplier
+4 Swamp
+4 Liliana of the Veil
+4 Mutavault
+4 Nurturing Peatland
+4 Urborg, Tomb of Yawgmoth
+4 Verdant Catacombs
+4 Smallpox
+4 Bloodghast
+4 Cabal Therapist
+5 Swamp
 1 Mystic Forge
 1 Darksteel Citadel
 1 Snow-Covered Island
@@ -199,51 +244,6 @@
 4 Ornithopter
 4 Vault Skirge
 4 Lodestone Golem
-4 Walking Ballista
 5 Snow-Covered Island
 6 Snow-Covered Island
-1 Dryad Arbor
-1 Hogaak, Arisen Necropolis
-1 Stitcher's Supplier
-1 Satyr Wayfinder
-1 Forest
-1 Nurturing Peatland
-1 Urborg, Tomb of Yawgmoth
-1 Overgrown Tomb
-1 Smallpox
-1 Verdant Catacombs
-1 Bloodghast
-1 Cabal Therapist
-2 Mutavault
-2 Stitcher's Supplier
-2 Hogaak, Arisen Necropolis
-2 Satyr Wayfinder
-2 Verdant Catacombs
-2 Cabal Therapist
-2 Smallpox
-2 Nurturing Peatland
-2 Urborg, Tomb of Yawgmoth
-2 Bloodghast
-3 Satyr Wayfinder
-3 Stitcher's Supplier
-3 Hogaak, Arisen Necropolis
-3 Mutavault
-3 Nurturing Peatland
-3 Cabal Therapist
-3 Bloodghast
-3 Smallpox
-3 Urborg, Tomb of Yawgmoth
-3 Verdant Catacombs
-4 Satyr Wayfinder
-4 Hogaak, Arisen Necropolis
-4 Stitcher's Supplier
-4 Nurturing Peatland
-4 Liliana of the Veil
-4 Mutavault
-4 Urborg, Tomb of Yawgmoth
-4 Verdant Catacombs
-4 Smallpox
-4 Swamp
-4 Bloodghast
-4 Cabal Therapist
-5 Swamp
+4 Walking Ballista

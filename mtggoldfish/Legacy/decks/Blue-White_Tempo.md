@@ -31,7 +31,7 @@
 
 |*n*<sup>th</sup> copy|                                       Maindeck Card                                       |*n*<sup>th</sup> copy|                                          Sideboard Card                                          |
 |--------------------:|-------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------------|
-|                    1|[Fathom Seer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442045)     |                    1|[Narset, Parter of Veils](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460988)|
-|                    2|[Karakas](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413782)         |                    3|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)          |
-|                    3|[Fblthp, the Lost](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460977)|                    3|[Force of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464001)      |
+|                    1|[Fathom Seer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442045)     |                    3|[Force of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464001)      |
+|                    2|[Karakas](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413782)         |                    1|[Narset, Parter of Veils](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460988)|
+|                    3|[Fblthp, the Lost](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460977)|                    3|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)          |
 
