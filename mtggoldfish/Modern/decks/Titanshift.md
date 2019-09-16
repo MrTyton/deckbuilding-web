@@ -79,6 +79,6 @@
 |                    2|[Khalni Heart Expedition](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=451109)   |                     |                                                                                                     |
 |                    3|[Wood Elves](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=13147)                 |                     |                                                                                                     |
 |                    3|[Khalni Heart Expedition](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=451109)   |                     |                                                                                                     |
-|                    4|[Khalni Heart Expedition](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=451109)   |                     |                                                                                                     |
 |                    8|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)                  |                     |                                                                                                     |
+|                    4|[Khalni Heart Expedition](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=451109)   |                     |                                                                                                     |
 

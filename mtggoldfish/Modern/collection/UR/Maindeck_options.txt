@@ -4,8 +4,8 @@
 1 Spell Snare
 2 Spell Snare
 4 Opt
-1 Cryptic Command
 1 Fact or Fiction
+1 Cryptic Command
 2 Cryptic Command
 2 Fact or Fiction
 4 Steam Vents
@@ -33,9 +33,9 @@
 5 Island
 1 Kiln Fiend
 1 Dive Down
-1 Temur Battle Rage
 1 Disrupting Shoal
 1 Enigma Drake
+1 Temur Battle Rage
 1 Mutagenic Growth
 2 Kiln Fiend
 2 Mutagenic Growth
@@ -49,10 +49,10 @@
 2 Vapor Snag
 3 Force of Negation
 6 Island
-1 Delver of Secrets
 1 Young Pyromancer
-2 Delver of Secrets
+1 Delver of Secrets
 2 Young Pyromancer
+2 Delver of Secrets
 3 Young Pyromancer
 3 Delver of Secrets
 4 Delver of Secrets
@@ -74,7 +74,6 @@
 2 Polluted Delta
 2 Disrupting Shoal
 3 Fiery Islet
-3 Enigma Drake
 1 Vendilion Clique
 1 Blood Moon
 1 Brineborn Cutthroat
@@ -82,14 +81,15 @@
 2 Vendilion Clique
 2 Blood Moon
 2 Brineborn Cutthroat
+3 Vendilion Clique
 3 Archmage's Charm
 3 Brineborn Cutthroat
-3 Vendilion Clique
+3 Enigma Drake
 1 Pteramander
 1 Burst Lightning
 2 Pteramander
-3 Pteramander
 3 Mana Leak
+3 Pteramander
 4 Pteramander
 1 Grim Lavamancer
 1 Goblin Rabblemaster

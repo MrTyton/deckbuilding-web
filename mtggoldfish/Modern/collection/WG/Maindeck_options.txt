@@ -1,40 +1,35 @@
-2 Collected Company
-3 Collected Company
-4 Collected Company
-2 Knight of Autumn
-1 Voice of Resurgence
-4 Giver of Runes
-1 Sword of Fire and Ice
-1 Sword of Light and Shadow
+1 Eternal Witness
+2 Eternal Witness
 1 Field of Ruin
-3 Plains
-1 Gavony Township
-2 Voice of Resurgence
-3 Voice of Resurgence
 1 Eldrazi Displacer
 1 Brushland
 2 Eldrazi Displacer
 2 Brushland
 3 Eldrazi Displacer
 3 Brushland
-1 Sword of Feast and Famine
+1 Birds of Paradise
+2 Voice of Resurgence
+3 Voice of Resurgence
+1 Collected Company
+2 Collected Company
+3 Collected Company
+4 Collected Company
 1 Ramunap Excavator
-1 Walking Ballista
+1 Sword of Feast and Famine
+3 Plains
 4 Flickerwisp
 4 Thalia, Guardian of Thraben
-1 Verdant Catacombs
+4 Giver of Runes
 2 Scavenging Ooze
 1 Tectonic Edge
-1 Wooded Foothills
-1 Misty Rainforest
+2 Ramunap Excavator
 1 Courser of Kruphix
 2 Courser of Kruphix
-2 Ramunap Excavator
-1 Vizier of Remedies
-1 Devoted Druid
-2 Devoted Druid
-3 Devoted Druid
-4 Devoted Druid
+1 Wooded Foothills
+1 Misty Rainforest
+4 Plains
+3 Scavenging Ooze
+1 Gavony Township
 2 Birds of Paradise
 3 Birds of Paradise
 3 Courser of Kruphix
@@ -43,22 +38,18 @@
 2 Knight of the Reliquary
 3 Knight of the Reliquary
 4 Knight of the Reliquary
-4 Plains
-3 Scavenging Ooze
-1 Ranger-Captain of Eos
-2 Ranger-Captain of Eos
 1 Shalai, Voice of Plenty
-1 Hexdrinker
-2 Hexdrinker
-1 Viridian Longbow
+1 Walking Ballista
 2 Field of Ruin
 3 Field of Ruin
-3 Eternal Witness
+1 Verdant Catacombs
+1 Hexdrinker
+2 Hexdrinker
+2 Misty Rainforest
 1 Karn, the Great Creator
 2 Karn, the Great Creator
 3 Karn, the Great Creator
 4 Karn, the Great Creator
-2 Misty Rainforest
 1 Snow-Covered Forest
 1 Utopia Sprawl
 1 Arbor Elf
@@ -68,19 +59,23 @@
 3 Arbor Elf
 3 Snow-Covered Forest
 3 Utopia Sprawl
+4 Snow-Covered Forest
 4 Utopia Sprawl
 4 Arbor Elf
-4 Snow-Covered Forest
 5 Snow-Covered Forest
 6 Snow-Covered Forest
 7 Snow-Covered Forest
 8 Snow-Covered Forest
 3 Forest
+1 Vizier of Remedies
 1 Finale of Devastation
+1 Devoted Druid
+2 Devoted Druid
 2 Finale of Devastation
 3 Finale of Devastation
+3 Devoted Druid
+4 Devoted Druid
 4 Finale of Devastation
-2 Vizier of Remedies
 1 Restoration Angel
 1 Renegade Rallier
 2 Renegade Rallier
@@ -91,8 +86,8 @@
 1 Eldritch Evolution
 1 Acidic Slime
 1 Spike Feeder
-1 Linvala, Keeper of Silence
 1 Sapseep Forest
+1 Linvala, Keeper of Silence
 1 Sigarda, Host of Herons
 1 Trostani, Selesnya's Voice
 1 Crested Sunmare
@@ -108,44 +103,16 @@
 4 Misty Rainforest
 4 Kitchen Finks
 4 Eldritch Evolution
-1 Flagstones of Trokair
-1 Elvish Reclaimer
-1 Arid Mesa
-1 Marsh Flats
-1 Flooded Strand
-1 Sejiri Steppe
-1 Mistveil Plains
-1 Emeria, the Sky Ruin
-1 Thraben Inspector
-1 Winds of Abandon
-2 Elvish Reclaimer
-2 Flagstones of Trokair
-2 Arid Mesa
-3 Flagstones of Trokair
-3 Elvish Reclaimer
-3 Ranger-Captain of Eos
-4 Elvish Reclaimer
-4 Ranger-Captain of Eos
-4 Flagstones of Trokair
 1 Thought-Knot Seer
 1 Reality Smasher
 1 Eldrazi Temple
 2 Thought-Knot Seer
 2 Eldrazi Temple
-3 Thought-Knot Seer
 3 Eldrazi Temple
+3 Thought-Knot Seer
 4 Eldrazi Temple
 4 Brushland
 4 Thought-Knot Seer
-1 Duskwatch Recruiter
-1 Chord of Calling
-1 Militia Bugler
-2 Chord of Calling
-2 Verdant Catacombs
-2 Militia Bugler
-3 Vizier of Remedies
-3 Chord of Calling
-4 Vizier of Remedies
 1 Aven Mindcensor
 1 Collector Ouphe
 1 Stirring Wildwood
@@ -159,46 +126,69 @@
 4 Eldrazi Displacer
 4 Voice of Resurgence
 1 Snow-Covered Plains
-1 Ghostly Prison
+1 Primal Command
 1 Hornet Queen
 1 Mana Tithe
 1 Runed Halo
-1 Primal Command
+1 Ghostly Prison
 1 Mwonvuli Acid-Moss
 2 Mwonvuli Acid-Moss
 2 Runed Halo
 2 Mana Tithe
 2 Primal Command
 2 Ghostly Prison
-3 Mwonvuli Acid-Moss
 3 Primal Command
 3 Ghostly Prison
 3 Runed Halo
+3 Mwonvuli Acid-Moss
 3 Mana Tithe
+3 Eternal Witness
 4 Field of Ruin
 4 Primal Command
 4 Mana Tithe
 4 Mwonvuli Acid-Moss
 4 Ghostly Prison
+1 Flagstones of Trokair
+1 Elvish Reclaimer
+1 Arid Mesa
+1 Marsh Flats
+1 Flooded Strand
+1 Sejiri Steppe
+1 Ranger-Captain of Eos
+1 Mistveil Plains
+1 Thraben Inspector
+1 Winds of Abandon
+1 Emeria, the Sky Ruin
+2 Elvish Reclaimer
+2 Flagstones of Trokair
+2 Arid Mesa
+2 Ranger-Captain of Eos
+3 Flagstones of Trokair
+3 Elvish Reclaimer
+3 Ranger-Captain of Eos
+4 Elvish Reclaimer
+4 Flagstones of Trokair
+4 Ranger-Captain of Eos
 1 Dryad Arbor
-1 Leyline of Abundance
 1 Elvish Archdruid
 1 Ezuri, Renegade Leader
 1 Boreal Druid
-1 Llanowar Elves
 1 Cavern of Souls
+1 Leyline of Abundance
 1 Elvish Clancaller
+1 Llanowar Elves
 1 Elvish Mystic
 2 Elvish Mystic
 2 Llanowar Elves
+2 Leyline of Abundance
 2 Boreal Druid
 2 Elvish Clancaller
-2 Leyline of Abundance
 2 Elvish Archdruid
+2 Vizier of Remedies
 2 Ezuri, Renegade Leader
 3 Boreal Druid
-3 Elvish Clancaller
 3 Llanowar Elves
+3 Elvish Clancaller
 3 Elvish Mystic
 3 Leyline of Abundance
 3 Elvish Archdruid
@@ -225,6 +215,7 @@
 4 Tectonic Edge
 5 Plains
 1 Basilisk Collar
+1 Viridian Longbow
 2 Wooded Foothills
 2 Walking Ballista
 3 Hexdrinker

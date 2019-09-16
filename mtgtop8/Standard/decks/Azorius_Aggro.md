@@ -51,8 +51,8 @@
 |                    4|[Supreme Phantom](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447212)              |                     |                                                                                              |
 |                    7|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)                       |                     |                                                                                              |
 |                    7|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)                       |                     |                                                                                              |
-|                    8|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)                       |                     |                                                                                              |
 |                    8|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)                       |                     |                                                                                              |
+|                    8|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)                       |                     |                                                                                              |
 |                    9|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)                       |                     |                                                                                              |
 |                    9|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)                       |                     |                                                                                              |
 
