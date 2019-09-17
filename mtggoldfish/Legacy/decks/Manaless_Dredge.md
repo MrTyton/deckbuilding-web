@@ -48,7 +48,7 @@
 |                    3|[Creeping Chill](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452816)         |                    1|[Progenitus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=179496)         |
 |                    4|[Creeping Chill](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452816)         |                    1|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)|
 |                     |                                                                                                  |                    2|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)|
-|                     |                                                                                                  |                    3|[Contagion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3069)            |
 |                     |                                                                                                  |                    3|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)|
 |                     |                                                                                                  |                    4|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)|
+|                     |                                                                                                  |                    3|[Contagion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3069)            |
 

@@ -4,11 +4,13 @@
 1 Wear / Tear
 2 Wear / Tear
 3 Wear / Tear
-1 Hull Breach
 1 Cabal Therapy
+1 Hull Breach
 2 Cabal Therapy
 2 Hull Breach
 4 Wear / Tear
+1 Assassin's Trophy
+2 Assassin's Trophy
 1 Reverent Silence
 3 Thoughtseize
 1 Coffin Purge
@@ -19,13 +21,11 @@
 1 Abrade
 1 Cryptbreaker
 2 Rotting Regisaur
-1 Assassin's Trophy
-2 Assassin's Trophy
-2 Reverent Silence
 1 Surgical Extraction
 2 Surgical Extraction
 1 Force of Vigor
 2 Force of Vigor
+2 Reverent Silence
 1 Dread
 1 Damping Sphere
 1 Ravenous Trap
@@ -37,6 +37,17 @@
 2 Goblin Bombardment
 1 Deflecting Palm
 2 Deflecting Palm
+1 Leyline of Sanctity
+1 Wispmare
+2 Leyline of Sanctity
+2 Wispmare
+1 Duress
+1 Veil of Summer
+2 Veil of Summer
+3 Force of Vigor
+1 Natural End
+2 Natural End
+3 Natural End
 1 Solemnity
 2 Solemnity
 3 Solemnity
@@ -44,23 +55,8 @@
 1 Sudden Demise
 1 Plague Engineer
 3 Silent Gravestone
-1 Natural End
-2 Natural End
-3 Natural End
 1 Abrupt Decay
 2 Abrupt Decay
 3 Abrupt Decay
 4 Abrupt Decay
 4 Thoughtseize
-1 Leyline of Sanctity
-1 Forest
-1 Petrified Field
-1 Contagion
-2 Contagion
-2 Leyline of Sanctity
-3 Force of Vigor
-3 Leyline of Sanctity
-3 Contagion
-4 Force of Vigor
-4 Leyline of Sanctity
-4 Contagion

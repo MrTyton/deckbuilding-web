@@ -1,60 +1,26 @@
-1 Tome Scour
 1 Steam Vents
 2 Tome Scour
 3 Tome Scour
 4 Tome Scour
+1 Blast Zone
 1 City of Brass
-3 Conflagrate
 2 Arid Mesa
-3 Arid Mesa
 2 City of Brass
-3 Bloodstained Mire
 3 Golgari Thug
+3 Conflagrate
+3 Arid Mesa
 1 Scalding Tarn
-1 Darkblast
-4 Copperline Gorge
+3 City of Brass
 1 Polluted Delta
+3 Bloodstained Mire
+1 Breeding Pool
 1 Overgrown Tomb
 1 Forest
+2 Gemstone Mine
 1 Stitcher's Supplier
 2 Stitcher's Supplier
 3 Stitcher's Supplier
 4 Stitcher's Supplier
-1 Hogaak, Arisen Necropolis
-2 Gemstone Mine
-1 Faithless Looting
-2 Faithless Looting
-3 Faithless Looting
-4 Faithless Looting
-1 Vengevine
-2 Vengevine
-3 Vengevine
-4 Vengevine
-1 Carrion Feeder
-1 Gravecrawler
-1 Satyr Wayfinder
-2 Hogaak, Arisen Necropolis
-2 Satyr Wayfinder
-2 Carrion Feeder
-2 Overgrown Tomb
-2 Gravecrawler
-3 Satyr Wayfinder
-3 Hogaak, Arisen Necropolis
-3 Carrion Feeder
-3 Gravecrawler
-4 Hogaak, Arisen Necropolis
-4 Satyr Wayfinder
-4 Gravecrawler
-4 Carrion Feeder
-1 Verdant Catacombs
-1 Blackcleave Cliffs
-1 Swamp
-1 Assassin's Trophy
-2 Verdant Catacombs
-3 Verdant Catacombs
-4 Verdant Catacombs
-4 Bloodstained Mire
-1 Breeding Pool
 1 Watery Grave
 1 Hedron Crab
 2 Polluted Delta
@@ -63,14 +29,48 @@
 3 Polluted Delta
 4 Polluted Delta
 4 Hedron Crab
+1 Vengevine
+2 Vengevine
+3 Vengevine
+4 Vengevine
+1 Carrion Feeder
+1 Hogaak, Arisen Necropolis
+1 Gravecrawler
+1 Satyr Wayfinder
+2 Hogaak, Arisen Necropolis
+2 Satyr Wayfinder
+2 Carrion Feeder
+2 Overgrown Tomb
+2 Gravecrawler
+3 Hogaak, Arisen Necropolis
+3 Satyr Wayfinder
+3 Carrion Feeder
+3 Gravecrawler
+4 Hogaak, Arisen Necropolis
+4 Satyr Wayfinder
+4 Gravecrawler
+4 Carrion Feeder
+2 Scalding Tarn
+3 Scalding Tarn
 4 Insolent Neonate
-3 City of Brass
+1 Darkblast
+4 Copperline Gorge
 1 Spirebluff Canal
-2 Assassin's Trophy
+1 Verdant Catacombs
 1 Fatal Push
+1 Blackcleave Cliffs
+1 Swamp
 1 Lotleth Troll
-1 Dryad Arbor
+1 Faithless Looting
+1 Assassin's Trophy
+2 Verdant Catacombs
+2 Faithless Looting
+3 Verdant Catacombs
+3 Faithless Looting
+4 Verdant Catacombs
+4 Faithless Looting
 1 Cryptbreaker
+4 Bloodstained Mire
 1 Marsh Flats
 2 Marsh Flats
 1 Glimpse the Unthinkable
@@ -78,19 +78,13 @@
 2 Glimpse the Unthinkable
 3 Glimpse the Unthinkable
 4 Glimpse the Unthinkable
-1 Lonely Sandbar
 1 Island
+1 Lonely Sandbar
 1 Misty Rainforest
 1 Lightning Axe
-1 Dakmor Salvage
 1 Ancient Grudge
 1 Tormenting Voice
 2 Tormenting Voice
-1 Nurturing Peatland
-1 Glowspore Shaman
-2 Glowspore Shaman
-2 Blackcleave Cliffs
-3 Glowspore Shaman
 1 Flooded Strand
 1 Ghost Quarter
 2 Steam Vents
@@ -106,13 +100,13 @@
 1 Claim / Fame
 1 Leyline of the Void
 2 Leyline of the Void
+2 Assassin's Trophy
 3 Overgrown Tomb
 1 Snow-Covered Swamp
 2 Snow-Covered Swamp
 3 Marsh Flats
-2 Scalding Tarn
-3 Scalding Tarn
 1 Blooming Marsh
+1 Dryad Arbor
 2 Blooming Marsh
 2 Swamp
 2 Fatal Push
@@ -134,8 +128,8 @@
 1 Domri, Anarch of Bolas
 1 Bloodbraid Elf
 1 Utopia Sprawl
-1 Arbor Elf
 1 Magus of the Moon
+1 Arbor Elf
 1 Glorybringer
 1 Windswept Heath
 1 Birds of Paradise

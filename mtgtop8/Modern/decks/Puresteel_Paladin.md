@@ -32,9 +32,9 @@
 |--------------------:|------------------------------------------------------------------------------------------|--------------------:|-------------------------------------------------------------------------------------------|
 |                    1|[Eladamri's Call](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442192)|                    1|[Monastery Mentor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391883)|
 |                    1|[Serum Visions](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=50145)   |                    1|[Fragmentize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417587)     |
-|                    1|[Temple Garden](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405112)  |                    2|[Monastery Mentor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391883)|
-|                    2|[Seachrome Coast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=209399)|                    2|[Fragmentize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417587)     |
-|                    2|[Serum Visions](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=50145)   |                    1|[Unearth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442102)         |
+|                    1|[Temple Garden](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405112)  |                    1|[Unearth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442102)         |
+|                    2|[Seachrome Coast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=209399)|                    2|[Monastery Mentor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391883)|
+|                    2|[Serum Visions](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=50145)   |                    2|[Fragmentize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417587)     |
 |                    4|[Arid Mesa](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405092)      |                     |                                                                                           |
 |                    3|[Serum Visions](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=50145)   |                     |                                                                                           |
 

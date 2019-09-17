@@ -45,7 +45,7 @@
 |                    3|[Unearth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442102)                   |                    2|[Wear/Tear](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=368950)               |
 |                    4|[Stoneforge Mystic](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=198383)         |                     |                                                                                                   |
 |                    4|[Seasoned Pyromancer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464094)       |                     |                                                                                                   |
-|                    4|[Blackcleave Cliffs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=209401)        |                     |                                                                                                   |
 |                    1|[Inspiring Vantage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417819)         |                     |                                                                                                   |
 |                    4|[Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)              |                     |                                                                                                   |
+|                    4|[Blackcleave Cliffs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=209401)        |                     |                                                                                                   |
 

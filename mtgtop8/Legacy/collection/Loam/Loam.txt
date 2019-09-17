@@ -1,4 +1,4 @@
-3 Abrupt Decay
+4 Abrupt Decay
 1 Badlands
 1 Barren Moor
 1 Bayou
@@ -8,8 +8,6 @@
 4 Dark Confidant
 1 Dryad Arbor
 1 Forest
-1 Gaddock Teeg
-1 Green Sun's Zenith
 3 Grove of the Burnwillows
 1 Karakas
 4 Knight of the Reliquary
@@ -22,7 +20,7 @@
 1 Scavenging Ooze
 1 Scrubland
 1 Swamp
-1 Sylvan Library
+2 Sylvan Library
 1 Taiga
 1 Tranquil Thicket
 4 Verdant Catacombs
@@ -35,9 +33,8 @@ Sideboard
 1 Golgari Charm
 3 Leyline of the Void
 1 Liliana, the Last Hope
-1 Plague Engineer
+2 Plague Engineer
 2 Swords to Plowshares
 2 Thalia, Guardian of Thraben
-1 Toxic Deluge
 1 Vindicate
 1 Vraska, Golgari Queen
