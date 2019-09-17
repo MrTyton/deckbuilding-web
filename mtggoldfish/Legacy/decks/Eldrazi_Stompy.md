@@ -60,7 +60,7 @@
 |                    2|[Urborg, Tomb of Yawgmoth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383425)    |                     |                                                                                               |
 |                    2|[Phyrexian Revoker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383343)           |                     |                                                                                               |
 |                    3|[Wastes](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407694)                      |                     |                                                                                               |
+|                    4|[Eye of Ugin](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409569)                 |                     |                                                                                               |
 |                    3|[Mishra's Factory](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=2387)              |                     |                                                                                               |
 |                    4|[Mishra's Factory](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=2387)              |                     |                                                                                               |
-|                    4|[Eye of Ugin](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409569)                 |                     |                                                                                               |
 

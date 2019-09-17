@@ -15,7 +15,6 @@
 4 Tarmogoyf
 1 Forest
 4 Windswept Heath
-1 Lightning Helix
 1 Arid Mesa
 1 Wooded Foothills
 1 Noble Hierarch
@@ -28,6 +27,7 @@
 1 Bloodbraid Elf
 1 Bloodstained Mire
 1 Tribal Flames
+1 Lightning Helix
 1 Plains
 2 Lightning Helix
 2 Noble Hierarch
@@ -62,13 +62,13 @@
 3 Wrenn and Six
 1 Oath of Nissa
 1 Narset, Parter of Veils
-1 Karn, the Great Creator
 1 Ashiok, Dream Render
 1 Birds of Paradise
+1 Karn, the Great Creator
 1 Arbor Elf
-1 Vraska, Golgari Queen
 1 Interplanar Beacon
 1 Teferi, Time Raveler
+1 Vraska, Golgari Queen
 1 Kaya, Orzhov Usurper
 1 Dovin, Hand of Control
 1 Simian Spirit Guide
@@ -76,8 +76,8 @@
 2 Oath of Nissa
 2 Narset, Parter of Veils
 2 Forest
-2 Karn, the Great Creator
 2 Birds of Paradise
+2 Karn, the Great Creator
 2 Arbor Elf
 2 Ashiok, Dream Render
 2 Interplanar Beacon
@@ -95,9 +95,9 @@
 3 Simian Spirit Guide
 3 Utopia Sprawl
 4 Oath of Nissa
-4 Arbor Elf
 4 Karn, the Great Creator
 4 Misty Rainforest
+4 Arbor Elf
 4 Interplanar Beacon
 4 Utopia Sprawl
 4 Simian Spirit Guide
