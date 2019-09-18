@@ -15,19 +15,19 @@
 4 Tarmogoyf
 1 Forest
 4 Windswept Heath
+1 Sacred Foundry
+1 Lightning Helix
 1 Arid Mesa
 1 Wooded Foothills
 1 Noble Hierarch
 1 Hexdrinker
 1 Blood Crypt
-1 Sacred Foundry
 1 Mantis Rider
 1 Geist of Saint Traft
 1 Force of Rage
 1 Bloodbraid Elf
 1 Bloodstained Mire
 1 Tribal Flames
-1 Lightning Helix
 1 Plains
 2 Lightning Helix
 2 Noble Hierarch
@@ -62,7 +62,6 @@
 3 Wrenn and Six
 1 Oath of Nissa
 1 Narset, Parter of Veils
-1 Ashiok, Dream Render
 1 Birds of Paradise
 1 Karn, the Great Creator
 1 Arbor Elf
@@ -73,13 +72,14 @@
 1 Dovin, Hand of Control
 1 Simian Spirit Guide
 1 Utopia Sprawl
+1 Ashiok, Dream Render
 2 Oath of Nissa
 2 Narset, Parter of Veils
 2 Forest
+2 Ashiok, Dream Render
 2 Birds of Paradise
 2 Karn, the Great Creator
 2 Arbor Elf
-2 Ashiok, Dream Render
 2 Interplanar Beacon
 2 Dovin, Hand of Control
 2 Teferi, Time Raveler
@@ -103,8 +103,8 @@
 4 Simian Spirit Guide
 4 Forest
 1 Skred
-1 Force of Negation
 1 Serum Visions
+1 Force of Negation
 1 Waterlogged Grove
 1 Huntmaster of the Fells
 1 Spell Snare

@@ -1,13 +1,14 @@
-1 Collision / Colossus
+2 Sarkhan the Masterless
+2 Lava Coil
 1 Voracious Hydra
 2 Voracious Hydra
-1 Sarkhan the Masterless
-2 Sarkhan the Masterless
-2 Collision / Colossus
+9 Forest
+1 Collision / Colossus
 4 Skarrgan Hellkite
-2 Lava Coil
 4 Domri, Anarch of Bolas
-1 Vivien, Arkbow Ranger
+1 Ripjaw Raptor
+2 Ripjaw Raptor
+2 Collision / Colossus
 4 Shock
 1 Chandra, Fire Artisan
 3 Sarkhan the Masterless
@@ -15,41 +16,36 @@
 2 Nullhide Ferox
 3 Nullhide Ferox
 4 Nullhide Ferox
-3 Voracious Hydra
+3 Lava Coil
+1 Vivien, Arkbow Ranger
 1 Rampaging Ferocidon
 2 Rampaging Ferocidon
-1 Ripjaw Raptor
-2 Ripjaw Raptor
+3 Voracious Hydra
 3 Ripjaw Raptor
 4 Ripjaw Raptor
-1 Shifting Ceratops
-2 Vivien, Arkbow Ranger
 3 Lightning Strike
 1 Thrash / Threat
 2 Thrash / Threat
 3 Thrash / Threat
+4 Lava Coil
 3 Rampaging Ferocidon
 4 Rampaging Ferocidon
 1 Banefire
+2 Vivien, Arkbow Ranger
 1 Marauding Raptor
 2 Marauding Raptor
 3 Marauding Raptor
 4 Marauding Raptor
-10 Forest
 3 Nissa, Who Shakes the World
-3 Lava Coil
+1 Shifting Ceratops
 8 Mountain
 1 Thrashing Brontodon
+10 Forest
 1 Arch of Orazca
 2 Arch of Orazca
 1 Vivien, Champion of the Wilds
 3 Legion Warboss
-4 Lava Coil
-3 Vivien, Arkbow Ranger
 1 God-Eternal Rhonas
-2 Shifting Ceratops
-3 Shifting Ceratops
-4 Shifting Ceratops
 1 Thorn Lieutenant
 2 Thorn Lieutenant
 3 Thorn Lieutenant
@@ -60,12 +56,15 @@
 4 Lightning Strike
 1 Domri, Chaos Bringer
 2 Vivien, Champion of the Wilds
-1 Mobilized District
-1 Incubation Druid
-2 Incubation Druid
+1 Chandra, Awakened Inferno
+2 God-Eternal Rhonas
 1 Gruul Guildgate
 2 Gruul Guildgate
 3 Gruul Guildgate
+1 Mobilized District
+1 Incubation Druid
+2 Incubation Druid
+3 Vivien, Arkbow Ranger
 2 Chandra, Fire Artisan
 2 Banefire
 4 Nissa, Who Shakes the World
@@ -85,15 +84,6 @@
 3 Cavalier of Flame
 4 Leafkin Druid
 4 Legion Warboss
-1 Domri's Ambush
-1 Carnage Tyrant
-1 Kiora, Behemoth Beckoner
-2 Domri's Ambush
-2 Kiora, Behemoth Beckoner
-2 Carnage Tyrant
-3 Carnage Tyrant
-3 Domri's Ambush
-4 Carnage Tyrant
 1 Nightpack Ambusher
 2 Reckless Rage
 2 Nightpack Ambusher
@@ -101,6 +91,18 @@
 3 Reckless Rage
 4 Voracious Hydra
 4 Reckless Rage
+1 Domri's Ambush
+1 Carnage Tyrant
+1 Kiora, Behemoth Beckoner
+2 Domri's Ambush
+2 Kiora, Behemoth Beckoner
+2 Carnage Tyrant
+2 Shifting Ceratops
+3 Domri's Ambush
+3 Carnage Tyrant
+3 Shifting Ceratops
+4 Carnage Tyrant
+4 Shifting Ceratops
 1 Rugged Highlands
 1 Goblin Chainwhirler
 1 Arclight Phoenix
@@ -120,14 +122,3 @@
 4 Kraul Harpooner
 4 Goblin Chainwhirler
 9 Mountain
-1 Ghalta, Primal Hunger
-1 Ilharg, the Raze-Boar
-1 Rhythm of the Wild
-2 Ilharg, the Raze-Boar
-2 Rhythm of the Wild
-2 Ghalta, Primal Hunger
-2 God-Eternal Rhonas
-3 Collision / Colossus
-3 Rhythm of the Wild
-3 Ilharg, the Raze-Boar
-11 Forest

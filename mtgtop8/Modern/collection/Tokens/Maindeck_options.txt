@@ -1,62 +1,35 @@
-2 Caves of Koilos
-2 Raise the Alarm
-3 Raise the Alarm
-5 Plains
-1 Ghost Quarter
-1 Kaya's Guile
-1 Anguished Unmaking
-1 Westvale Abbey
-1 Flagstones of Trokair
-1 Gather the Townsfolk
-1 Legion's Landing
-1 Sorin, Solemn Visitor
-1 Battle Screech
-2 Kaya's Guile
-2 Flagstones of Trokair
-2 Sorin, Solemn Visitor
-2 Ghost Quarter
-2 Gather the Townsfolk
-2 Legion's Landing
-2 Battle Screech
-3 Kaya's Guile
-3 Fatal Push
-3 Legion's Landing
-3 Ghost Quarter
-3 Flagstones of Trokair
-3 Gather the Townsfolk
-4 Legion's Landing
-4 Flagstones of Trokair
 1 Hidden Stockpile
 2 Hidden Stockpile
 1 Temple of Silence
-1 Sorin, Vengeful Bloodlord
-1 Duress
 1 Blackmail
+1 Sorin, Vengeful Bloodlord
 1 Timely Reinforcements
 1 Promise of Bunrei
-1 Start / Finish
+1 Duress
 1 Soul Warden
+1 Start / Finish
 1 Soul's Attendant
 1 Mortify
 1 Terramorphic Expanse
 2 Mortify
-2 Sorin, Vengeful Bloodlord
 2 Duress
 2 Timely Reinforcements
 2 Promise of Bunrei
-2 Terramorphic Expanse
-2 Soul Warden
+2 Sorin, Vengeful Bloodlord
+2 Caves of Koilos
 2 Soul's Attendant
 2 Blackmail
 2 Start / Finish
+2 Soul Warden
 2 Temple of Silence
+2 Terramorphic Expanse
 3 Soul Warden
 3 Soul's Attendant
 3 Terramorphic Expanse
 3 Temple of Silence
 3 Shambling Vent
-3 Caves of Koilos
 3 Promise of Bunrei
+3 Caves of Koilos
 3 Blackmail
 4 Soul Warden
 4 Caves of Koilos
@@ -64,23 +37,25 @@
 4 Soul's Attendant
 1 Secluded Steppe
 1 Charge
-1 Beckon Apparition
 1 Honor of the Pure
 1 Evolving Wilds
 1 Midnight Haunting
 1 Scoured Barrens
 1 Spiritual Visit
+1 Beckon Apparition
 1 Even the Odds
 2 Spiritual Visit
 2 Midnight Haunting
-2 Swamp
 2 Beckon Apparition
+2 Swamp
 2 Even the Odds
 2 Charge
 2 Honor of the Pure
+2 Raise the Alarm
 3 Swamp
 3 Honor of the Pure
 3 Even the Odds
+3 Raise the Alarm
 3 Beckon Apparition
 3 Spiritual Visit
 3 Midnight Haunting
@@ -90,6 +65,7 @@
 4 Spiritual Visit
 4 Midnight Haunting
 4 Beckon Apparition
+5 Plains
 6 Plains
 7 Plains
 8 Plains

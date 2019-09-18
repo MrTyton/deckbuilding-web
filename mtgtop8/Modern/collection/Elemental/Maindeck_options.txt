@@ -1,16 +1,4 @@
-1 Copperline Gorge
-2 Copperline Gorge
-4 Smokebraider
-1 Faithless Looting
-2 Faithless Looting
-2 Blood Crypt
-3 Faithless Looting
-4 Faithless Looting
-1 Sacred Foundry
-2 Stomping Ground
-2 Mountain
-3 Blood Crypt
-1 Wooded Foothills
+1 Stomping Ground
 2 Wooded Foothills
 3 Wooded Foothills
 1 Seasoned Pyromancer
@@ -18,71 +6,41 @@
 2 Seasoned Pyromancer
 3 Seasoned Pyromancer
 4 Seasoned Pyromancer
+1 Faithless Looting
 1 Bloodstained Mire
 1 Blackcleave Cliffs
 1 Lightning Bolt
 1 Ball Lightning
+2 Faithless Looting
 2 Blackcleave Cliffs
 2 Lightning Bolt
 2 Bloodstained Mire
+2 Blood Crypt
+3 Faithless Looting
 3 Lightning Bolt
 3 Blackcleave Cliffs
 3 Bloodstained Mire
+4 Faithless Looting
 4 Lightning Bolt
 4 Bloodstained Mire
-1 Forest
-1 Craterhoof Behemoth
-1 Lumbering Falls
-1 Vivien's Arkbow
-1 Vivien, Champion of the Wilds
-1 Omnath, Locus of Rage
-1 Shivan Reef
-1 Chandra, Acolyte of Flame
-1 Scampering Scorcher
-1 Finale of Devastation
-2 Shivan Reef
-2 Sacred Foundry
-2 Vivien's Arkbow
-2 Lumbering Falls
-2 Chandra, Acolyte of Flame
-2 Scampering Scorcher
-4 Blood Crypt
-1 Steam Vents
-1 Chalice of the Void
-1 Simian Spirit Guide
-1 Collected Company
-1 Mana Confluence
-1 Chancellor of the Tangle
-1 Snow-Covered Forest
-2 Chalice of the Void
-2 Simian Spirit Guide
-2 Collected Company
-2 Mana Confluence
-2 Chancellor of the Tangle
-3 Chalice of the Void
-3 Simian Spirit Guide
-3 Collected Company
-3 Mana Confluence
-3 Chancellor of the Tangle
-4 Chalice of the Void
-4 Simian Spirit Guide
-4 Chancellor of the Tangle
-4 Mana Confluence
 1 Creeping Trailblazer
 1 Sunbaked Canyon
 1 Waterlogged Grove
 1 Healer of the Glade
 1 Leyline of the Void
+1 Copperline Gorge
 1 Fulminator Mage
 2 Waterlogged Grove
 2 Creeping Trailblazer
 2 Sunbaked Canyon
+2 Copperline Gorge
 2 Leyline of the Void
 3 Creeping Trailblazer
 3 Copperline Gorge
 3 Leyline of the Void
 4 Leyline of the Void
 4 Copperline Gorge
+4 Smokebraider
 1 Incandescent Soulstoke
 1 Nova Chaser
 1 Shriekmaw
@@ -95,6 +53,28 @@
 3 Incandescent Soulstoke
 4 Lightning Stormkin
 4 Incandescent Soulstoke
+1 Sacred Foundry
+1 Steam Vents
+1 Chalice of the Void
+1 Simian Spirit Guide
+1 Collected Company
+1 Mana Confluence
+1 Snow-Covered Forest
+1 Chancellor of the Tangle
+2 Simian Spirit Guide
+2 Chalice of the Void
+2 Collected Company
+2 Mana Confluence
+2 Chancellor of the Tangle
+3 Simian Spirit Guide
+3 Chalice of the Void
+3 Collected Company
+3 Mana Confluence
+3 Chancellor of the Tangle
+4 Simian Spirit Guide
+4 Chalice of the Void
+4 Mana Confluence
+4 Chancellor of the Tangle
 1 Plains
 1 Phantasmal Image
 2 Reflecting Pool
@@ -110,11 +90,13 @@
 1 Bloodrage Brawler
 1 Vengevine
 2 Insolent Neonate
+2 Stomping Ground
 2 Memnite
 2 Burning-Tree Emissary
 2 Reckless Bushwhacker
 2 Vengevine
 2 Bloodrage Brawler
+2 Mountain
 3 Insolent Neonate
 3 Reckless Bushwhacker
 3 Memnite
@@ -133,8 +115,8 @@
 1 Kolaghan's Command
 1 Collective Brutality
 1 Dreadhorde Arcanist
-1 Fatal Push
 1 Thoughtseize
+1 Fatal Push
 1 Snow-Covered Swamp
 2 Unearth
 2 Inquisition of Kozilek
@@ -147,9 +129,10 @@
 2 Arid Mesa
 2 Fatal Push
 2 Dreadhorde Arcanist
-3 Thoughtseize
-3 Snow-Covered Mountain
 3 Unearth
+3 Thoughtseize
+3 Blood Crypt
+3 Snow-Covered Mountain
 3 Ball Lightning
 3 Inquisition of Kozilek
 4 Unearth

@@ -1,14 +1,10 @@
-1 Vapor Snag
-3 Remand
-4 Remand
-1 Fact or Fiction
-2 Fact or Fiction
-1 Thought Scour
-2 Thought Scour
-1 Magmatic Sinkhole
-1 Izzet Charm
-2 Izzet Charm
-3 Flooded Strand
+4 Snow-Covered Island
+5 Snow-Covered Island
+4 Spirebluff Canal
+1 Archmage's Charm
+2 Archmage's Charm
+1 Fiery Islet
+1 Polluted Delta
 1 Thing in the Ice
 1 Sleight of Hand
 1 Manamorphose
@@ -22,24 +18,6 @@
 4 Manamorphose
 4 Thing in the Ice
 4 Sleight of Hand
-1 Snow-Covered Mountain
-6 Snow-Covered Island
-5 Island
-4 Steam Vents
-1 Emrakul, the Aeons Torn
-1 Flame Slash
-1 Through the Breach
-1 Desolate Lighthouse
-2 Flame Slash
-2 Emrakul, the Aeons Torn
-2 Through the Breach
-3 Cryptic Command
-3 Through the Breach
-3 Emrakul, the Aeons Torn
-4 Cryptic Command
-4 Emrakul, the Aeons Torn
-4 Flooded Strand
-4 Through the Breach
 1 Kiln Fiend
 1 Dive Down
 1 Disrupting Shoal
@@ -55,44 +33,79 @@
 3 Mutagenic Growth
 4 Kiln Fiend
 4 Temur Battle Rage
-2 Vapor Snag
+3 Spell Snare
+5 Island
+3 Force of Negation
+2 Polluted Delta
+1 Snow-Covered Mountain
+6 Snow-Covered Island
+1 Desolate Lighthouse
+3 Cryptic Command
+4 Cryptic Command
+3 Flooded Strand
+2 Fact or Fiction
 6 Island
+1 Misty Rainforest
+1 Vapor Snag
+3 Archmage's Charm
+1 Delver of Secrets
+2 Delver of Secrets
+3 Delver of Secrets
+4 Delver of Secrets
+1 Magmatic Sinkhole
+1 Mana Leak
+2 Mana Leak
+1 Thought Scour
+2 Thought Scour
+4 Steam Vents
+7 Snow-Covered Island
+2 Dive Down
+2 Disrupting Shoal
+3 Fiery Islet
+1 Flame Slash
+2 Flame Slash
+4 Flooded Strand
+3 Sulfur Falls
+2 Misty Rainforest
+2 Vapor Snag
 1 Young Pyromancer
 2 Young Pyromancer
 3 Young Pyromancer
-1 Polluted Delta
-2 Polluted Delta
 1 Burst Lightning
 1 Vendilion Clique
 1 Brineborn Cutthroat
 2 Vendilion Clique
 2 Brineborn Cutthroat
-3 Archmage's Charm
 3 Brineborn Cutthroat
-3 Force of Negation
 3 Thought Scour
 4 Thought Scour
 1 Chart a Course
-7 Snow-Covered Island
 1 Prismatic Vista
 2 Prismatic Vista
 3 Prismatic Vista
-3 Sulfur Falls
+8 Snow-Covered Island
+1 Hinterland Harbor
+1 Breeding Pool
+2 Hinterland Harbor
 1 Blood Moon
 2 Magmatic Sinkhole
 2 Blood Moon
 3 Vendilion Clique
-2 Dive Down
-2 Disrupting Shoal
-3 Fiery Islet
 3 Enigma Drake
 1 Pteramander
 2 Pteramander
 3 Mana Leak
 3 Pteramander
 4 Pteramander
-1 Logic Knot
+1 Jace, the Mind Sculptor
+2 Jace, the Mind Sculptor
+2 Abrade
+3 Jace, the Mind Sculptor
+3 Abrade
+3 Misty Rainforest
+4 Misty Rainforest
 1 Faerie Conclave
+1 Logic Knot
 1 Dismember
 2 Faerie Conclave
 2 Logic Knot
@@ -103,10 +116,49 @@
 1 Goblin Rabblemaster
 1 Spell Pierce
 1 Firebolt
-1 Misty Rainforest
 2 Spell Pierce
 2 Firebolt
 4 Young Pyromancer
+1 Repeal
+1 Pentad Prism
+1 Ichor Wellspring
+1 Ghirapur Aether Grid
+1 Engineered Explosives
+1 Paradoxical Outcome
+1 Metallic Rebuke
+1 Arcum's Astrolabe
+1 Mox Opal
+1 Urza, Lord High Artificer
+1 Sai, Master Thopterist
+1 Mishra's Bauble
+2 Repeal
+2 Ichor Wellspring
+2 Pentad Prism
+2 Metallic Rebuke
+2 Paradoxical Outcome
+2 Arcum's Astrolabe
+2 Mox Opal
+2 Snow-Covered Mountain
+2 Urza, Lord High Artificer
+2 Sai, Master Thopterist
+2 Mishra's Bauble
+2 Engineered Explosives
+3 Pentad Prism
+3 Ichor Wellspring
+3 Mox Opal
+3 Metallic Rebuke
+3 Engineered Explosives
+3 Arcum's Astrolabe
+3 Mishra's Bauble
+3 Paradoxical Outcome
+3 Urza, Lord High Artificer
+4 Prismatic Vista
+4 Pentad Prism
+4 Urza, Lord High Artificer
+4 Mishra's Bauble
+4 Mox Opal
+4 Paradoxical Outcome
+4 Arcum's Astrolabe
 1 Aria of Flame
 1 Arclight Phoenix
 1 Lightning Axe
@@ -119,47 +171,6 @@
 4 Izzet Charm
 4 Arclight Phoenix
 7 Island
-1 Repeal
-1 Ichor Wellspring
-1 Ghirapur Aether Grid
-1 Engineered Explosives
-1 Paradoxical Outcome
-1 Metallic Rebuke
-1 Arcum's Astrolabe
-1 Pentad Prism
-1 Mox Opal
-1 Urza, Lord High Artificer
-1 Sai, Master Thopterist
-1 Mishra's Bauble
-2 Repeal
-2 Ichor Wellspring
-2 Metallic Rebuke
-2 Paradoxical Outcome
-2 Arcum's Astrolabe
-2 Mox Opal
-2 Snow-Covered Mountain
-2 Urza, Lord High Artificer
-2 Pentad Prism
-2 Sai, Master Thopterist
-2 Mishra's Bauble
-2 Engineered Explosives
-3 Pentad Prism
-3 Ichor Wellspring
-3 Mox Opal
-3 Engineered Explosives
-3 Arcum's Astrolabe
-3 Mishra's Bauble
-3 Paradoxical Outcome
-3 Metallic Rebuke
-3 Urza, Lord High Artificer
-4 Prismatic Vista
-4 Pentad Prism
-4 Mishra's Bauble
-4 Urza, Lord High Artificer
-4 Mox Opal
-4 Paradoxical Outcome
-4 Arcum's Astrolabe
-8 Snow-Covered Island
 1 Molten Vortex
 1 Lonely Sandbar
 1 Day's Undoing
@@ -188,8 +199,8 @@
 3 Seismic Assault
 3 Molten Vortex
 3 Swans of Bryn Argoll
-3 Swiftwater Cliffs
 3 Temple of Epiphany
+3 Swiftwater Cliffs
 3 Shivan Reef
 3 Treasure Hunt
 3 Mountain

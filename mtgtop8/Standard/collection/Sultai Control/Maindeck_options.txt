@@ -1,14 +1,13 @@
-4 Forest
-2 Island
+1 Temple of Mystery
 1 Swamp
-3 Drowned Catacomb
-3 Hinterland Harbor
-1 Thought Erasure
+2 Hinterland Harbor
 1 Vraska's Contempt
+1 Thought Erasure
 2 Thought Erasure
+3 Drowned Catacomb
 3 Thought Erasure
-4 Thought Erasure
 4 Drowned Catacomb
+4 Thought Erasure
 2 Temple of Mystery
 1 Growth Spiral
 2 Growth Spiral
@@ -25,51 +24,52 @@
 2 Enter the God-Eternals
 4 Hydroid Krasis
 2 Vraska's Contempt
-3 Woodland Cemetery
-4 Woodland Cemetery
+3 Hinterland Harbor
 5 Forest
-2 Vraska, Golgari Queen
-4 Nissa, Who Shakes the World
 1 Casualties of War
 2 Casualties of War
 3 Temple of Malady
-1 Disfigure
-1 Risen Reef
-2 Risen Reef
-3 Risen Reef
-4 Risen Reef
+4 Nissa, Who Shakes the World
+2 Vraska, Golgari Queen
 1 Blast Zone
-1 Golgari Guildgate
 1 Field of the Dead
 1 Thornwood Falls
 1 Jungle Hollow
 1 Dimir Guildgate
 1 Dismal Backwater
+1 Risen Reef
 1 Arboreal Grazer
+1 Golgari Guildgate
 1 Simic Guildgate
 1 Elvish Rejuvenator
 1 Memorial to Genius
 2 Field of the Dead
+2 Risen Reef
 2 Arboreal Grazer
 2 Elvish Rejuvenator
+3 Risen Reef
 3 Field of the Dead
 3 Vraska, Golgari Queen
 3 Arboreal Grazer
 3 Elvish Rejuvenator
 4 Arboreal Grazer
+4 Risen Reef
 4 Elvish Rejuvenator
 4 Field of the Dead
 1 Negate
 2 Negate
-1 Yarok, the Desecrated
+3 Woodland Cemetery
+4 Woodland Cemetery
 1 Arch of Orazca
 1 Ritual of Soot
 2 Ritual of Soot
 3 Negate
+1 Disfigure
 2 Disfigure
 3 Cast Down
 4 Cast Down
 1 Liliana, Dreadhorde General
+1 Yarok, the Desecrated
 2 Yarok, the Desecrated
 2 Legion's End
 3 Yarok, the Desecrated
@@ -80,26 +80,16 @@
 3 Deathsprout
 3 Massacre Girl
 4 Vraska, Golgari Queen
-1 Cavalier of Thorns
-1 Leafkin Druid
-1 Healer of the Glade
-1 Cavalier of Night
-2 Leafkin Druid
-2 Cavalier of Thorns
-2 Healer of the Glade
-3 Healer of the Glade
-3 Command the Dreadhorde
-4 Healer of the Glade
 1 The Eldest Reborn
 1 Chemister's Insight
 1 The Immortal Sun
-1 Carnage Tyrant
 1 Cry of the Carnarium
-1 Duress
+1 Carnage Tyrant
 1 Unmoored Ego
+1 Duress
 2 Chemister's Insight
-2 Carnage Tyrant
 2 Cry of the Carnarium
+2 Carnage Tyrant
 2 Duress
 3 Cry of the Carnarium
 3 Vraska's Contempt
@@ -116,8 +106,8 @@
 2 Swamp
 3 Drawn from Dreams
 3 Assassin's Trophy
-3 Ritual of Soot
 3 Disfigure
+3 Ritual of Soot
 3 Cavalier of Gales
 3 Swamp
 4 Drawn from Dreams

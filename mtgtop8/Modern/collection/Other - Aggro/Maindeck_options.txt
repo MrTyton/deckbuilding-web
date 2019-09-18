@@ -61,13 +61,15 @@
 4 Lightning Bolt
 1 Walking Ballista
 1 Waterlogged Grove
+1 Breeding Pool
 1 Misty Rainforest
+1 Eladamri's Call
 1 Snow-Covered Forest
-1 Temple Garden
 1 Horizon Canopy
-1 Finale of Devastation
+1 Devoted Druid
 1 Eternal Witness
 1 Tireless Tracker
+1 Vizier of Remedies
 1 Utopia Sprawl
 1 Karn, the Great Creator
 1 Arbor Elf
@@ -76,24 +78,22 @@
 1 Scavenging Ooze
 1 Snow-Covered Plains
 1 Teferi, Time Raveler
-1 Devoted Druid
-1 Eladamri's Call
 1 Deputy of Detention
-1 Breeding Pool
-1 Vizier of Remedies
+1 Temple Garden
+1 Finale of Devastation
+2 Eladamri's Call
+2 Breeding Pool
 2 Teferi, Time Raveler
 2 Snow-Covered Forest
 2 Horizon Canopy
 2 Utopia Sprawl
+2 Devoted Druid
 2 Karn, the Great Creator
 2 Misty Rainforest
 2 Arbor Elf
 2 Windswept Heath
 2 Oath of Nissa
 2 Temple Garden
-2 Breeding Pool
-2 Devoted Druid
-2 Eladamri's Call
 2 Finale of Devastation
 2 Vizier of Remedies
 3 Snow-Covered Forest
@@ -102,22 +102,22 @@
 3 Karn, the Great Creator
 3 Eladamri's Call
 3 Misty Rainforest
+3 Devoted Druid
 3 Oath of Nissa
 3 Teferi, Time Raveler
 3 Windswept Heath
 3 Vizier of Remedies
-3 Devoted Druid
 3 Finale of Devastation
 4 Snow-Covered Forest
 4 Utopia Sprawl
 4 Arbor Elf
 4 Teferi, Time Raveler
 4 Misty Rainforest
+4 Devoted Druid
 4 Windswept Heath
 4 Oath of Nissa
 4 Vizier of Remedies
 4 Eladamri's Call
-4 Devoted Druid
 4 Finale of Devastation
 1 Satyr Wayfinder
 1 Forest
@@ -153,8 +153,8 @@
 3 Urborg, Tomb of Yawgmoth
 3 Verdant Catacombs
 4 Hogaak, Arisen Necropolis
-4 Swamp
 4 Satyr Wayfinder
+4 Swamp
 4 Nurturing Peatland
 4 Liliana of the Veil
 4 Mutavault
@@ -196,9 +196,9 @@
 2 Etherium Sculptor
 2 Blinkmoth Nexus
 3 Master of Etherium
-3 Waterlogged Grove
 3 Mystic Forge
 3 Snow-Covered Island
+3 Waterlogged Grove
 3 Lodestone Golem
 3 Walking Ballista
 3 Darksteel Citadel
