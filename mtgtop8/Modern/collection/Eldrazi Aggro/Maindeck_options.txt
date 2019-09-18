@@ -3,8 +3,8 @@
 2 Cavern of Souls
 1 Brushland
 1 Stoneforge Mystic
-1 Batterskull
 1 Sword of Fire and Ice
+1 Batterskull
 1 Sword of Feast and Famine
 1 Path to Exile
 1 Eldrazi Displacer
@@ -27,6 +27,7 @@
 4 Brushland
 4 Ancient Stirrings
 4 Noble Hierarch
+3 Dismember
 1 Warping Wail
 1 Prismatic Vista
 1 Horizon Canopy
@@ -36,9 +37,6 @@
 4 Stoneforge Mystic
 1 Plains
 1 Forest
-3 Wastes
-3 Dismember
-1 Cryptic Caves
 2 Warping Wail
 1 Mystic Forge
 2 Mystic Forge
@@ -48,11 +46,14 @@
 2 Plains
 2 Forest
 3 Horizon Canopy
+3 Wastes
+2 Endbringer
 1 Talisman of Unity
 3 Cavern of Souls
 4 Cavern of Souls
-1 Buried Ruin
+1 Cryptic Caves
 1 Relic of Progenitus
+1 Spatial Contortion
 1 Radiant Fountain
 3 Blast Zone
 1 Snow-Covered Forest
@@ -62,7 +63,6 @@
 2 Talisman of Unity
 3 Talisman of Unity
 1 Haunted Fengraf
-2 Endbringer
 4 Mind Stone
 1 Yavimaya Coast
 1 Hallowed Fountain
