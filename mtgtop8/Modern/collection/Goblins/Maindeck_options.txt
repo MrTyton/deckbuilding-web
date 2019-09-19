@@ -14,8 +14,8 @@
 1 Legion Loyalist
 1 Wooded Foothills
 2 Wooded Foothills
-4 Field of Ruin
 4 Skirk Prospector
+4 Field of Ruin
 2 Goblin Cratermaker
 1 Prismatic Vista
 3 Goblin Chieftain
@@ -70,10 +70,6 @@
 3 Mogg Fanatic
 3 Krenko, Mob Boss
 4 Frogtosser Banneret
-1 Mutavault
-2 Mutavault
-3 Mutavault
-4 Mutavault
 1 Unearth
 1 Unclaimed Territory
 1 Mad Auntie
@@ -81,6 +77,10 @@
 3 Blood Crypt
 3 Unclaimed Territory
 4 Unclaimed Territory
+1 Mutavault
+2 Mutavault
+3 Mutavault
+4 Mutavault
 1 Goblin Guide
 1 Foundry Street Denizen
 1 Simian Spirit Guide
@@ -120,10 +120,10 @@
 3 Memnite
 3 Ornithopter
 3 Signal Pest
+4 Memnite
 4 Signal Pest
 4 Kuldotha Rebirth
 4 Ornithopter
-4 Memnite
 14 Mountain
 15 Mountain
 16 Mountain

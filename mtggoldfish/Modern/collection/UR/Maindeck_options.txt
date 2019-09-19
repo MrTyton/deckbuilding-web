@@ -9,9 +9,9 @@
 1 Sleight of Hand
 1 Manamorphose
 2 Thing in the Ice
+2 Fiery Islet
 2 Manamorphose
 2 Sleight of Hand
-2 Fiery Islet
 3 Thing in the Ice
 3 Manamorphose
 3 Sleight of Hand
@@ -114,35 +114,35 @@
 4 Brineborn Cutthroat
 1 Grim Lavamancer
 1 Goblin Rabblemaster
-1 Spell Pierce
 1 Firebolt
+1 Spell Pierce
 2 Spell Pierce
 2 Firebolt
 4 Young Pyromancer
 1 Repeal
-1 Pentad Prism
 1 Ichor Wellspring
 1 Ghirapur Aether Grid
 1 Engineered Explosives
 1 Paradoxical Outcome
 1 Metallic Rebuke
 1 Arcum's Astrolabe
+1 Pentad Prism
 1 Mox Opal
 1 Urza, Lord High Artificer
 1 Sai, Master Thopterist
 1 Mishra's Bauble
 2 Repeal
 2 Ichor Wellspring
-2 Pentad Prism
+2 Engineered Explosives
 2 Metallic Rebuke
 2 Paradoxical Outcome
 2 Arcum's Astrolabe
 2 Mox Opal
 2 Snow-Covered Mountain
 2 Urza, Lord High Artificer
+2 Pentad Prism
 2 Sai, Master Thopterist
 2 Mishra's Bauble
-2 Engineered Explosives
 3 Pentad Prism
 3 Ichor Wellspring
 3 Mox Opal
@@ -154,8 +154,8 @@
 3 Urza, Lord High Artificer
 4 Prismatic Vista
 4 Pentad Prism
-4 Urza, Lord High Artificer
 4 Mishra's Bauble
+4 Urza, Lord High Artificer
 4 Mox Opal
 4 Paradoxical Outcome
 4 Arcum's Astrolabe
@@ -172,7 +172,6 @@
 4 Arclight Phoenix
 7 Island
 1 Molten Vortex
-1 Lonely Sandbar
 1 Day's Undoing
 1 Temple of Epiphany
 1 Swiftwater Cliffs
@@ -181,8 +180,8 @@
 1 Seismic Assault
 1 Treasure Hunt
 1 Swans of Bryn Argoll
+1 Lonely Sandbar
 1 Throes of Chaos
-2 Lonely Sandbar
 2 Temple of Epiphany
 2 Swans of Bryn Argoll
 2 Molten Vortex
@@ -193,12 +192,13 @@
 2 Treasure Hunt
 2 Mountain
 2 Day's Undoing
+2 Lonely Sandbar
 2 Seismic Assault
 3 Forgotten Cave
-3 Lonely Sandbar
 3 Seismic Assault
 3 Molten Vortex
 3 Swans of Bryn Argoll
+3 Lonely Sandbar
 3 Temple of Epiphany
 3 Swiftwater Cliffs
 3 Shivan Reef

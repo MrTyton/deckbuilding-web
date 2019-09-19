@@ -1,16 +1,3 @@
-1 Stomping Ground
-2 Wooded Foothills
-3 Wooded Foothills
-1 Seasoned Pyromancer
-1 Snow-Covered Mountain
-2 Seasoned Pyromancer
-3 Seasoned Pyromancer
-4 Seasoned Pyromancer
-1 Faithless Looting
-1 Bloodstained Mire
-1 Blackcleave Cliffs
-1 Lightning Bolt
-1 Ball Lightning
 2 Faithless Looting
 2 Blackcleave Cliffs
 2 Lightning Bolt
@@ -23,88 +10,89 @@
 4 Faithless Looting
 4 Lightning Bolt
 4 Bloodstained Mire
-1 Creeping Trailblazer
+1 Sacred Foundry
+1 Steam Vents
+1 Collected Company
+1 Chalice of the Void
+1 Simian Spirit Guide
+1 Mana Confluence
+1 Chancellor of the Tangle
+1 Snow-Covered Forest
+2 Collected Company
+2 Simian Spirit Guide
+2 Chalice of the Void
+2 Mana Confluence
+2 Chancellor of the Tangle
+3 Simian Spirit Guide
+3 Collected Company
+3 Chalice of the Void
+3 Mana Confluence
+3 Chancellor of the Tangle
+4 Simian Spirit Guide
+4 Chalice of the Void
+4 Chancellor of the Tangle
+4 Mana Confluence
 1 Sunbaked Canyon
 1 Waterlogged Grove
+1 Creeping Trailblazer
 1 Healer of the Glade
 1 Leyline of the Void
 1 Copperline Gorge
 1 Fulminator Mage
 2 Waterlogged Grove
-2 Creeping Trailblazer
 2 Sunbaked Canyon
+2 Fiery Islet
 2 Copperline Gorge
+2 Creeping Trailblazer
 2 Leyline of the Void
-3 Creeping Trailblazer
 3 Copperline Gorge
 3 Leyline of the Void
-4 Leyline of the Void
+3 Creeping Trailblazer
 4 Copperline Gorge
+4 Leyline of the Void
 4 Smokebraider
-1 Incandescent Soulstoke
-1 Nova Chaser
-1 Shriekmaw
-1 Flamekin Village
-1 Spitebellows
-1 Lightning Stormkin
-2 Incandescent Soulstoke
-2 Lightning Stormkin
-3 Lightning Stormkin
-3 Incandescent Soulstoke
-4 Lightning Stormkin
-4 Incandescent Soulstoke
-1 Sacred Foundry
-1 Steam Vents
-1 Chalice of the Void
-1 Simian Spirit Guide
-1 Collected Company
-1 Mana Confluence
-1 Snow-Covered Forest
-1 Chancellor of the Tangle
-2 Simian Spirit Guide
-2 Chalice of the Void
-2 Collected Company
-2 Mana Confluence
-2 Chancellor of the Tangle
-3 Simian Spirit Guide
-3 Chalice of the Void
-3 Collected Company
-3 Mana Confluence
-3 Chancellor of the Tangle
-4 Simian Spirit Guide
-4 Chalice of the Void
-4 Mana Confluence
-4 Chancellor of the Tangle
 1 Plains
+1 Reflecting Pool
+1 Unsettled Mariner
+1 Ancient Ziggurat
 1 Phantasmal Image
 2 Reflecting Pool
+2 Unsettled Mariner
+2 Flickerwisp
+2 Ancient Ziggurat
 2 Phantasmal Image
+3 Unsettled Mariner
 3 Phantasmal Image
+3 Ancient Ziggurat
 3 Flickerwisp
+4 Voice of Resurgence
+4 Unclaimed Territory
+4 Unsettled Mariner
+4 Ancient Ziggurat
 4 Phantasmal Image
-1 Insolent Neonate
 1 Swamp
 1 Memnite
 1 Reckless Bushwhacker
 1 Burning-Tree Emissary
 1 Bloodrage Brawler
 1 Vengevine
-2 Insolent Neonate
+1 Insolent Neonate
 2 Stomping Ground
 2 Memnite
 2 Burning-Tree Emissary
 2 Reckless Bushwhacker
 2 Vengevine
 2 Bloodrage Brawler
+2 Insolent Neonate
 2 Mountain
-3 Insolent Neonate
 3 Reckless Bushwhacker
 3 Memnite
 3 Burning-Tree Emissary
+3 Insolent Neonate
 3 Vengevine
-4 Insolent Neonate
 4 Burning-Tree Emissary
 4 Wooded Foothills
+4 Insolent Neonate
 4 Memnite
 4 Blackcleave Cliffs
 4 Vengevine
@@ -118,9 +106,9 @@
 1 Thoughtseize
 1 Fatal Push
 1 Snow-Covered Swamp
-2 Unearth
 2 Inquisition of Kozilek
 2 Snow-Covered Mountain
+2 Unearth
 2 Dragonskull Summit
 2 Snow-Covered Swamp
 2 Collective Brutality

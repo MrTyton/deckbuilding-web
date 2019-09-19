@@ -24,18 +24,3 @@
 |2 [Ratchet Bomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370623)      |                                                                                       |4 [Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)|                                                                                         |
 |2 [Sorcerous Spyglass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435407)|                                                                                       |                                                                                                |                                                                                         |
 
-
-# Other Options
-
-|*n*<sup>th</sup> copy|                                        Maindeck Card                                         |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
-|--------------------:|----------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
-|                    1|[Tree of Tales](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205312)      |                    1|[Umezawa's Jitte](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=81979)     |
-|                    2|[Karn, Scion of Urza](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442889)|                    1|[Lodestone Golem](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220536)    |
-|                    2|[Tree of Tales](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205312)      |                    1|[Karn, Scion of Urza](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442889)|
-|                    3|[Tree of Tales](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205312)      |                    1|[Phyrexian Metamorph](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=214375)|
-|                    3|[Phyrexian Revoker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383343)  |                    1|[Etched Champion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397710)    |
-|                    3|[Mox Opal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397719)           |                    1|[Karakas](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413782)            |
-|                    4|[City of Traitors](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=6168)     |                    1|[Seal of Primordium](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425960) |
-|                     |                                                                                              |                    2|[Seal of Primordium](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425960) |
-|                     |                                                                                              |                    2|[Etched Champion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397710)    |
-

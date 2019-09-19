@@ -105,7 +105,7 @@
 |                     |                                                                                               |                    2|[Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)          |
 |                     |                                                                                               |                    3|[Nature's Claim](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382316)          |
 |                     |                                                                                               |                    3|[Apostle's Blessing](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397768)      |
-|                     |                                                                                               |                    4|[Nature's Claim](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382316)          |
 |                     |                                                                                               |                    4|[Apostle's Blessing](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397768)      |
+|                     |                                                                                               |                    4|[Nature's Claim](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382316)          |
 |                     |                                                                                               |                    2|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)          |
 

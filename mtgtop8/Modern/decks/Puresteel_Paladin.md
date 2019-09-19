@@ -23,3 +23,22 @@
 |2 [Monastery Mentor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391883)      |                                                                                                 |2 [Path to Exile](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220511)|1 [Unearth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442102)    |
 |                                                                                                   |                                                                                                 |3 [Silence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=191083)      |                                                                                        |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                       Maindeck Card                                       |*n*<sup>th</sup> copy|                                        Sideboard Card                                         |
+|--------------------:|-------------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------------|
+|                    1|[Bone Saw](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=189270)        |                    1|[Leyline of Sanctity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=204993) |
+|                    1|[Marsh Flats](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405101)     |                    2|[Unearth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442102)             |
+|                    1|[Windswept Heath](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405115) |                    2|[Leyline of Sanctity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=204993) |
+|                    1|[Serum Visions](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=50145)    |                    2|[Ghirapur Aether Grid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=398517)|
+|                    2|[Bone Saw](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=189270)        |                    3|[Leyline of Sanctity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=204993) |
+|                    2|[Marsh Flats](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405101)     |                     |                                                                                               |
+|                    2|[Windswept Heath](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405115) |                     |                                                                                               |
+|                    2|[Serum Visions](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=50145)    |                     |                                                                                               |
+|                    3|[Windswept Heath](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405115) |                     |                                                                                               |
+|                    3|[Bone Saw](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=189270)        |                     |                                                                                               |
+|                    4|[Repeal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405357)          |                     |                                                                                               |
+|                    4|[Hallowed Fountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=97071)|                     |                                                                                               |
+|                    4|[Bone Saw](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=189270)        |                     |                                                                                               |
+

@@ -29,6 +29,6 @@
 
 |*n*<sup>th</sup> copy|                                   Maindeck Card                                    |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
 |--------------------:|------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
-|                    4|[Arid Mesa](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405092)|                    3|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|
-|                    3|[Arid Mesa](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405092)|                    4|[Searing Blood](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=378483)      |
+|                    3|[Arid Mesa](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405092)|                    3|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|
+|                    4|[Arid Mesa](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405092)|                    4|[Searing Blood](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=378483)      |
 

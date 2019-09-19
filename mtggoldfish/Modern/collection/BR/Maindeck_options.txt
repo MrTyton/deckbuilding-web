@@ -18,8 +18,8 @@
 4 Auntie's Hovel
 4 Mogg War Marshal
 1 Unearth
-1 Swamp
 1 Field of Ruin
+1 Swamp
 2 Field of Ruin
 2 Swamp
 3 Swamp
@@ -53,7 +53,6 @@
 4 Goblin Matron
 4 Aether Vial
 1 Marsh Flats
-1 Seasoned Pyromancer
 1 Inquisition of Kozilek
 1 Collective Brutality
 1 Thoughtseize
@@ -63,27 +62,28 @@
 1 Dark Confidant
 1 Rix Maadi Reveler
 1 Arid Mesa
+1 Seasoned Pyromancer
 2 Marsh Flats
-2 Seasoned Pyromancer
 2 Unearth
 2 Inquisition of Kozilek
 2 Thoughtseize
 2 Fatal Push
 2 Dark Confidant
+2 Seasoned Pyromancer
 2 Collective Brutality
 2 Dreadhorde Arcanist
 2 Rix Maadi Reveler
 2 Lightning Skelemental
 3 Dreadhorde Arcanist
 3 Fatal Push
-3 Seasoned Pyromancer
 3 Inquisition of Kozilek
 3 Thoughtseize
 3 Marsh Flats
 3 Unearth
+3 Rix Maadi Reveler
+3 Seasoned Pyromancer
 3 Lightning Skelemental
 3 Dark Confidant
-3 Rix Maadi Reveler
 4 Seasoned Pyromancer
 4 Inquisition of Kozilek
 4 Thoughtseize
@@ -105,9 +105,9 @@
 3 Fiery Islet
 3 Seal of Fire
 3 Light Up the Stage
-4 Light Up the Stage
 4 Sunbaked Canyon
 4 Fiery Islet
+4 Light Up the Stage
 4 Seal of Fire
 1 Chalice of the Void
 1 Simian Spirit Guide
@@ -143,45 +143,45 @@
 4 Goblin Instigator
 4 Goblin Ringleader
 4 Goblin Chieftain
-4 Goblin Warchief
 4 Cavern of Souls
+4 Goblin Warchief
 1 Pyretic Ritual
-1 Pia and Kiran Nalaar
 1 Walking Ballista
-1 Desperate Ritual
 1 Hazoret the Fervent
 1 Dismember
 1 Darksteel Citadel
 1 Goblin Rabblemaster
-1 Blood Moon
 1 Abrade
+1 Blood Moon
 1 Karn, Scion of Urza
+1 Desperate Ritual
 1 Chandra, Torch of Defiance
 1 Legion Warboss
+1 Pia and Kiran Nalaar
+2 Karn, Scion of Urza
 2 Pia and Kiran Nalaar
 2 Pyretic Ritual
-2 Desperate Ritual
-2 Karn, Scion of Urza
 2 Goblin Rabblemaster
 2 Blood Moon
 2 Hazoret the Fervent
 2 Chandra, Torch of Defiance
+2 Desperate Ritual
 2 Darksteel Citadel
 2 Dismember
 2 Legion Warboss
 3 Dismember
-3 Chandra, Torch of Defiance
-3 Desperate Ritual
 3 Goblin Rabblemaster
 3 Darksteel Citadel
+3 Desperate Ritual
 3 Blood Moon
-4 Desperate Ritual
+3 Chandra, Torch of Defiance
 4 Goblin Rabblemaster
+4 Desperate Ritual
 4 Darksteel Citadel
 4 Blood Moon
 13 Mountain
 14 Mountain
 15 Mountain
-17 Mountain
-18 Mountain
 16 Mountain
+18 Mountain
+17 Mountain

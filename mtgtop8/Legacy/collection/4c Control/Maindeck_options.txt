@@ -1,11 +1,8 @@
-1 Snow-Covered Swamp
-3 Tarmogoyf
-2 Leovold, Emissary of Trest
-3 Grove of the Burnwillows
-3 Dack Fayden
-1 Spell Snare
 1 Island
 1 Swamp
+3 Tarmogoyf
+1 Snow-Covered Island
+1 Snow-Covered Swamp
 3 Abrupt Decay
 1 Verdant Catacombs
 1 Lightning Bolt
@@ -13,6 +10,9 @@
 2 Arcum's Astrolabe
 3 Arcum's Astrolabe
 4 Arcum's Astrolabe
+3 Grove of the Burnwillows
+3 Dack Fayden
+1 Spell Snare
 2 Fatal Push
 2 Snow-Covered Island
 2 Plague Engineer
@@ -21,13 +21,13 @@
 1 Force of Negation
 4 Scalding Tarn
 1 Narset, Parter of Veils
-1 Assassin's Trophy
 4 Wrenn and Six
 3 Jace, the Mind Sculptor
 2 Inquisition of Kozilek
 1 Lonely Sandbar
 1 Wooded Foothills
 1 Misty Rainforest
+1 Assassin's Trophy
 2 Badlands
 2 Wooded Foothills
 2 Verdant Catacombs
@@ -72,11 +72,22 @@
 3 Hymn to Tourach
 3 Verdant Catacombs
 4 Baleful Strix
+1 Dreadhorde Arcanist
+1 Preordain
+1 Monastery Mentor
+1 Plateau
+2 Dreadhorde Arcanist
+2 Preordain
+3 Dreadhorde Arcanist
+3 Daze
+4 Flooded Strand
+4 Daze
+4 Dreadhorde Arcanist
 1 Fiery Islet
+1 Stifle
 1 Mox Diamond
 1 Thespian's Stage
 1 Ghost Quarter
-1 Stifle
 1 Maze of Ith
 1 Crop Rotation
 1 Toxic Deluge
@@ -89,9 +100,9 @@
 2 Stifle
 2 Crop Rotation
 2 Narset, Parter of Veils
+3 Spell Pierce
 3 Misty Rainforest
 3 Mox Diamond
-3 Spell Pierce
 3 Stifle
 3 Crop Rotation
 4 Misty Rainforest
@@ -110,18 +121,7 @@
 3 Volcanic Island
 3 Lightning Bolt
 3 True-Name Nemesis
-3 Gurmag Angler
 3 Force of Negation
+3 Gurmag Angler
 4 Lightning Bolt
 4 Force of Negation
-1 Dreadhorde Arcanist
-1 Preordain
-1 Monastery Mentor
-1 Plateau
-2 Dreadhorde Arcanist
-2 Preordain
-3 Dreadhorde Arcanist
-3 Daze
-4 Flooded Strand
-4 Dreadhorde Arcanist
-4 Daze
