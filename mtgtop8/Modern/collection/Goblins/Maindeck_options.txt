@@ -7,15 +7,15 @@
 3 Field of Ruin
 4 Mogg War Marshal
 2 Goblin Chieftain
-1 Kiki-Jiki, Mirror Breaker
 1 Warren Instigator
+1 Kiki-Jiki, Mirror Breaker
 2 Warren Instigator
 3 Warren Instigator
 1 Legion Loyalist
 1 Wooded Foothills
 2 Wooded Foothills
-4 Field of Ruin
 4 Skirk Prospector
+4 Field of Ruin
 2 Goblin Cratermaker
 1 Prismatic Vista
 3 Goblin Chieftain
@@ -29,15 +29,11 @@
 4 Goblin Chieftain
 1 Arid Mesa
 3 Goblin Cratermaker
-2 Krenko, Mob Boss
 2 Mogg Fanatic
+2 Krenko, Mob Boss
 3 Mogg Fanatic
 3 Krenko, Mob Boss
 4 Frogtosser Banneret
-1 Mutavault
-2 Mutavault
-3 Mutavault
-4 Mutavault
 1 Unearth
 1 Mad Auntie
 1 Unclaimed Territory
@@ -45,11 +41,15 @@
 3 Blood Crypt
 3 Unclaimed Territory
 4 Unclaimed Territory
-1 Stingscourger
+1 Mutavault
+2 Mutavault
+3 Mutavault
+4 Mutavault
 1 Blackcleave Cliffs
+1 Stingscourger
 1 Snow-Covered Mountain
-2 Snow-Covered Mountain
 2 Blackcleave Cliffs
+2 Snow-Covered Mountain
 3 Snow-Covered Mountain
 4 Snow-Covered Mountain
 5 Snow-Covered Mountain
@@ -57,23 +57,23 @@
 1 Fanatical Firebrand
 1 Bomat Courier
 1 Goblin Bushwhacker
-1 Goblin Guide
-1 Burning-Tree Emissary
-1 Simian Spirit Guide
 1 Foundry Street Denizen
+1 Simian Spirit Guide
 1 Reverberate
 1 Lightning Bolt
+1 Burning-Tree Emissary
 1 Goblin Grenade
 1 Reckless Bushwhacker
+1 Goblin Guide
 1 Ramunap Ruins
 1 Light Up the Stage
 2 Fanatical Firebrand
-2 Bomat Courier
 2 Legion Loyalist
-2 Burning-Tree Emissary
+2 Bomat Courier
 2 Goblin Guide
 2 Goblin Grenade
 2 Reckless Bushwhacker
+2 Burning-Tree Emissary
 2 Ramunap Ruins
 2 Light Up the Stage
 2 Lightning Bolt
@@ -81,9 +81,9 @@
 3 Fanatical Firebrand
 3 Bomat Courier
 3 Legion Loyalist
-3 Burning-Tree Emissary
 3 Goblin Guide
 3 Lightning Bolt
+3 Burning-Tree Emissary
 3 Goblin Grenade
 3 Reckless Bushwhacker
 3 Ramunap Ruins
