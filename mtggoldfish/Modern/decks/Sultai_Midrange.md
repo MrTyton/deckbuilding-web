@@ -28,3 +28,23 @@
 |                                                                                           |3 [Plague Engineer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464049)|3 [Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|1 [Nissa, Vital Force](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417736)  |
 |                                                                                           |                                                                                            |1 [Weather the Storm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464140)  |                                                                                                 |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                           Maindeck Card                                           |*n*<sup>th</sup> copy|                                         Sideboard Card                                         |
+|--------------------:|---------------------------------------------------------------------------------------------------|--------------------:|------------------------------------------------------------------------------------------------|
+|                    1|[Nurturing Peatland](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464192)      |                    1|[Force of Despair](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464041)     |
+|                    1|[Prismatic Vista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464193)         |                    1|[Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)       |
+|                    1|[Arcum's Astrolabe](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464169)       |                    1|[Fatal Push](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423724)           |
+|                    1|[Plague Engineer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464049)         |                    1|[Ceremonious Rejection](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417613)|
+|                    1|[Kalitas, Traitor of Ghet](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407596)|                    1|[Force of Vigor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464113)       |
+|                    2|[Snow-Covered Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121130)     |                    2|[Weather the Storm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464140)    |
+|                    2|[Abrupt Decay](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456061)            |                    2|[Ashiok, Dream Render](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461155) |
+|                    2|[Dead of Winter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464034)          |                    2|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)       |
+|                    2|[Prismatic Vista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464193)         |                    2|[Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)       |
+|                    2|[Arcum's Astrolabe](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464169)       |                     |                                                                                                |
+|                    2|[Kalitas, Traitor of Ghet](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407596)|                     |                                                                                                |
+|                    3|[Snow-Covered Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121256)      |                     |                                                                                                |
+|                    4|[Snow-Covered Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121256)      |                     |                                                                                                |
+|                    2|[Tireless Tracker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409997)        |                     |                                                                                                |
+

@@ -35,6 +35,6 @@
 
 |*n*<sup>th</sup> copy|                                     Maindeck Card                                     |*n*<sup>th</sup> copy|                                        Sideboard Card                                         |
 |--------------------:|---------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------------|
-|                    3|[Fatestitcher](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=176456)|                    1|[Teferi, Time Raveler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461148)|
-|                     |                                                                                       |                    1|[Failure/Comply](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426923)      |
+|                    3|[Fatestitcher](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=176456)|                    1|[Failure/Comply](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426923)      |
+|                     |                                                                                       |                    1|[Teferi, Time Raveler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461148)|
 

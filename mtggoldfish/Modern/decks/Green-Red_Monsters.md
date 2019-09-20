@@ -31,8 +31,8 @@
 
 |*n*<sup>th</sup> copy|                                        Maindeck Card                                        |*n*<sup>th</sup> copy|                                          Sideboard Card                                          |
 |--------------------:|---------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------------|
-|                    1|[Sarkhan, Fireblood](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447290)|                    1|[Huntmaster of the Fells](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=262875)|
-|                    1|[Verdant Catacombs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405113) |                    1|[Clan Defiance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420804)          |
+|                    1|[Verdant Catacombs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405113) |                    1|[Huntmaster of the Fells](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=262875)|
+|                    1|[Sarkhan, Fireblood](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447290)|                    1|[Clan Defiance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420804)          |
 |                    2|[Verdant Catacombs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405113) |                     |                                                                                                  |
 |                    3|[Verdant Catacombs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405113) |                     |                                                                                                  |
 |                    4|[Verdant Catacombs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405113) |                     |                                                                                                  |

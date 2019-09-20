@@ -1,11 +1,10 @@
-1 Shimmer of Possibility
 1 Shivan Reef
+1 Shimmer of Possibility
 1 Echoing Truth
 2 Merchant Scroll
 3 Vizier of Tumbling Sands
 4 Vizier of Tumbling Sands
 1 Forest
-1 Paradox Engine
 1 Grove of the Burnwillows
 1 Zhalfirin Void
 1 Everflowing Chalice
@@ -18,6 +17,7 @@
 1 Mystic Forge
 1 Copperline Gorge
 1 Pyrite Spellbomb
+1 Paradox Engine
 1 Walking Ballista
 1 Nurturing Peatland
 1 Blast Zone
@@ -25,15 +25,14 @@
 1 Engineered Explosives
 1 Ensnaring Bridge
 1 Karn, the Great Creator
-2 Pyrite Spellbomb
 2 Grove of the Burnwillows
-2 Inventors' Fair
 2 Zhalfirin Void
 2 Everflowing Chalice
 2 Astral Cornucopia
 2 Surge Node
 2 Coretapper
 2 Mox Opal
+2 Inventors' Fair
 2 Blast Zone
 2 Ancient Stirrings
 2 Mystic Forge
@@ -41,6 +40,7 @@
 2 Forest
 2 Ensnaring Bridge
 2 Paradox Engine
+2 Pyrite Spellbomb
 3 Grove of the Burnwillows
 3 Blast Zone
 3 Coretapper
@@ -74,8 +74,8 @@
 1 Flooded Strand
 1 Simian Spirit Guide
 1 Scalding Tarn
-1 Flame Slash
 1 Sphinx of Foresight
+1 Flame Slash
 1 Dreadhorde Arcanist
 1 Lightning Axe
 1 As Foretold
@@ -88,17 +88,17 @@
 2 Simian Spirit Guide
 2 Force of Negation
 2 Scalding Tarn
-2 Dreadhorde Arcanist
 2 Sphinx of Foresight
+2 Dreadhorde Arcanist
 2 Electrodominance
 2 As Foretold
 2 Ancestral Vision
 2 Crashing Footfalls
 2 Opt
 3 Force of Negation
-3 Sphinx of Foresight
 3 Simian Spirit Guide
 3 Dreadhorde Arcanist
+3 Sphinx of Foresight
 3 Steam Vents
 3 Electrodominance
 3 Crashing Footfalls
@@ -128,21 +128,21 @@
 1 Infernal Plunge
 1 Reckless Bushwhacker
 1 Stomping Ground
-2 Commune with the Gods
+2 Wild Cantor
 2 Goblin Instigator
+2 Commune with the Gods
 2 Magmatic Insight
 2 Empty the Warrens
 2 Infernal Plunge
-2 Wild Cantor
 2 Mogg War Marshal
 2 Stomping Ground
 2 Fecundity
 2 Karplusan Forest
 2 Skirk Prospector
-3 Empty the Warrens
 3 Mountain
-3 Commune with the Gods
 3 Goblin Instigator
+3 Commune with the Gods
+3 Empty the Warrens
 3 Mogg War Marshal
 3 Karplusan Forest
 3 Stomping Ground
@@ -150,13 +150,13 @@
 3 Wild Cantor
 3 Skirk Prospector
 4 Mogg War Marshal
+4 Karplusan Forest
 4 Skirk Prospector
 4 Goblin Instigator
 4 Mountain
 4 Empty the Warrens
 4 Stomping Ground
 4 Commune with the Gods
-4 Karplusan Forest
 4 Wild Cantor
 4 Fecundity
 5 Mountain

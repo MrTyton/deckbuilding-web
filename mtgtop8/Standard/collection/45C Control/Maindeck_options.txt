@@ -8,6 +8,10 @@
 1 Plains
 2 Hallowed Fountain
 2 Temple Garden
+1 Blast Zone
+2 Forest
+1 Yarok, the Desecrated
+2 Overgrown Tomb
 1 Izzet Guildgate
 1 Golgari Guildgate
 1 Arboreal Grazer
@@ -16,16 +20,36 @@
 1 Scapeshift
 1 Tranquil Cove
 1 Azorius Guildgate
-1 Blast Zone
 2 Deputy of Detention
 2 Arboreal Grazer
 2 Scapeshift
-2 Forest
 2 Island
+1 Tamiyo, Collector of Tales
+2 Temple of Malady
+1 Disfigure
+1 Cast Down
+1 Cavalier of Thorns
+1 Deathsprout
+1 Legion's End
+1 Jungle Hollow
+1 Field of Ruin
+1 Assassin's Trophy
+1 Liliana, Dreadhorde General
+1 Foul Orchard
+1 Memorial to Folly
+1 Dismal Backwater
+1 Woodland Stream
+2 Cavalier of Thorns
+2 Yarok, the Desecrated
+2 Legion's End
+2 Cast Down
+2 Assassin's Trophy
+2 Swamp
+3 Cavalier of Thorns
+3 Assassin's Trophy
 1 Mountain
 1 Agent of Treachery
 1 Blossoming Sands
-1 Yarok, the Desecrated
 1 Unknown Card
 1 Elvish Reclaimer
 1 Drawn from Dreams
@@ -40,13 +64,13 @@
 2 Watery Grave
 3 Breeding Pool
 1 Casualties of War
+1 Ral's Outburst
 1 Niv-Mizzet Reborn
 1 Steam Vents
 1 Sulfur Falls
 1 Despark
 1 Thought Erasure
 1 Ravager Wurm
-1 Ral's Outburst
 1 Deafening Clarion
 1 Tolsimir, Friend to Wolves
 1 Angrath's Rampage
@@ -63,16 +87,15 @@
 2 Sacred Foundry
 2 Thought Erasure
 2 Deafening Clarion
-2 Overgrown Tomb
 2 Tolsimir, Friend to Wolves
 2 Chromatic Lantern
 2 Niv-Mizzet Reborn
 3 Sulfur Falls
 3 Deafening Clarion
 3 Chromatic Lantern
-3 Gateway Plaza
-3 Overgrown Tomb
 3 Niv-Mizzet Reborn
+3 Overgrown Tomb
+3 Gateway Plaza
 4 Chromatic Lantern
 4 Niv-Mizzet Reborn
 1 Prime Speaker Vannifar
@@ -83,28 +106,26 @@
 1 Urza's Ruinous Blast
 1 Lazav, the Multifarious
 1 Kethis, the Hidden Hand
-1 Tamiyo, Collector of Tales
 2 Glacial Fortress
 2 Ashiok, Dream Render
+2 Lazav, the Multifarious
 2 Fblthp, the Lost
 2 Kethis, the Hidden Hand
-2 Lazav, the Multifarious
 2 Oath of Kaya
 2 Diligent Excavator
 2 Tamiyo, Collector of Tales
-2 Urza's Ruinous Blast
 2 Temple of Silence
+2 Urza's Ruinous Blast
 2 Mox Amber
-2 Temple of Malady
 3 Hallowed Fountain
 3 Glacial Fortress
 3 Watery Grave
 3 Oath of Kaya
 3 Tamiyo, Collector of Tales
 3 Mox Amber
+3 Lazav, the Multifarious
 3 Fblthp, the Lost
 3 Kethis, the Hidden Hand
-3 Lazav, the Multifarious
 3 Temple of Malady
 3 Temple of Silence
 3 Diligent Excavator

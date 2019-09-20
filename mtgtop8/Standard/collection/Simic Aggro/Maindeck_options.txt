@@ -2,14 +2,17 @@
 3 Opt
 3 Unsummon
 4 Opt
+1 Spell Pierce
+2 Spell Pierce
+4 Spectral Sailor
 3 Syncopate
 2 Blink of an Eye
 6 Forest
 7 Forest
 8 Forest
-1 Spell Pierce
-2 Spell Pierce
-4 Spectral Sailor
+1 Dive Down
+2 Dive Down
+3 Dive Down
 1 Swift Warden
 2 Swift Warden
 1 Nissa, Who Shakes the World
@@ -34,9 +37,10 @@
 4 Paradise Druid
 1 Crushing Canopy
 2 Crushing Canopy
-1 Dive Down
-2 Dive Down
-3 Dive Down
+1 Essence Capture
+2 Essence Capture
+3 Essence Capture
+4 Essence Capture
 1 Incubation Druid
 1 Vivien, Champion of the Wilds
 1 Shared Summons
@@ -64,12 +68,12 @@
 1 Overgrown Tomb
 1 Woodland Cemetery
 1 Cast Down
-1 Awakening of Vitu-Ghazi
 1 Assassin's Trophy
 1 Chemister's Insight
 1 Ob Nixilis's Cruelty
 1 Watery Grave
 1 Drowned Catacomb
+1 Awakening of Vitu-Ghazi
 2 Overgrown Tomb
 2 Assassin's Trophy
 2 Watery Grave

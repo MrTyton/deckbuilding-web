@@ -1,112 +1,89 @@
-1 Steel Overseer
-1 Scrapyard Recombiner
-1 Animation Module
-1 Llanowar Reborn
-1 Arcbound Worker
-1 Throne of Geth
-1 Walking Ballista
-1 Inkmoth Nexus
-1 Mox Opal
-1 Arcbound Ravager
-1 Welding Jar
-1 Hardened Scales
-1 Blinkmoth Nexus
-1 Hangarback Walker
-1 Darksteel Citadel
-2 Steel Overseer
-2 Animation Module
-2 Inkmoth Nexus
-2 Welding Jar
-2 Hardened Scales
-2 Mox Opal
-2 Arcbound Worker
-2 Llanowar Reborn
-2 Walking Ballista
-2 Darksteel Citadel
-2 Arcbound Ravager
-2 Hangarback Walker
-3 Hangarback Walker
-3 Walking Ballista
-3 Mox Opal
-3 Arcbound Ravager
-3 Darksteel Citadel
-3 Hardened Scales
-3 Inkmoth Nexus
-3 Arcbound Worker
-4 Snow-Covered Forest
-4 Hardened Scales
-4 Arcbound Worker
-4 Hangarback Walker
-4 Inkmoth Nexus
-4 Mox Opal
-4 Darksteel Citadel
-4 Walking Ballista
-4 Arcbound Ravager
-5 Snow-Covered Forest
+1 Karn Liberated
+1 Karn, the Great Creator
+2 Karn, the Great Creator
+2 Karn Liberated
+3 Karn, the Great Creator
+4 Karn, the Great Creator
+1 Matter Reshaper
+1 All Is Dust
+1 Batterskull
+1 Ugin, the Spirit Dragon
+1 Wurmcoil Engine
+1 Expedition Map
+1 Wastes
+1 Thought-Knot Seer
+1 Chromatic Sphere
+1 Urza's Mine
+1 Emrakul, the Promised End
+1 Urza's Tower
+1 Eldrazi Temple
+1 Urza's Power Plant
+1 Sylvan Scrying
+1 Chromatic Star
+2 Matter Reshaper
+2 Thought-Knot Seer
+2 Ulamog, the Ceaseless Hunger
+2 Expedition Map
+2 Chromatic Star
+2 Chromatic Sphere
+2 Urza's Mine
+2 Urza's Power Plant
+2 Sylvan Scrying
+2 Urza's Tower
+2 Eldrazi Temple
+3 Matter Reshaper
+3 Urza's Tower
+3 Chromatic Star
+3 Urza's Mine
+3 Urza's Power Plant
+3 Sylvan Scrying
+3 Expedition Map
+3 Thought-Knot Seer
+3 Eldrazi Temple
+4 Matter Reshaper
+4 Thought-Knot Seer
+4 Expedition Map
+4 Sylvan Scrying
+4 Chromatic Star
+4 Urza's Mine
+4 Urza's Tower
+4 Eldrazi Temple
+4 Urza's Power Plant
+2 Scrapyard Recombiner
+3 Scrapyard Recombiner
+4 Welding Jar
+2 Throne of Geth
+3 Steel Overseer
 1 Horizon Canopy
+1 Inventors' Fair
+1 Primal Command
+1 Eternal Witness
+1 Nykthos, Shrine to Nyx
+1 Garruk Wildspeaker
+1 Hornet Queen
+1 Utopia Sprawl
+1 Arbor Elf
+2 Eternal Witness
+2 Primal Command
+2 Nykthos, Shrine to Nyx
+2 Garruk Wildspeaker
+2 Arbor Elf
+2 Utopia Sprawl
+3 Nykthos, Shrine to Nyx
+3 Garruk Wildspeaker
+3 Arbor Elf
+3 Utopia Sprawl
+4 Arbor Elf
+4 Utopia Sprawl
 1 Evolutionary Leap
 2 Horizon Canopy
 2 Blinkmoth Nexus
-3 Steel Overseer
 3 Horizon Canopy
-3 Animation Module
 4 Steel Overseer
-1 Nurturing Peatland
-1 Pendelhaven
-2 Scrapyard Recombiner
-2 Nurturing Peatland
-3 Scrapyard Recombiner
-3 Welding Jar
-4 Welding Jar
-6 Snow-Covered Forest
-1 Nykthos, Shrine to Nyx
-1 Primal Command
-1 Elvish Mystic
-1 Acidic Slime
-1 Hornet Queen
-1 Wistful Selkie
-1 Carven Caryatid
-1 Garruk Wildspeaker
-1 Utopia Sprawl
-1 Cloudthresher
-1 Eternal Witness
-1 Wall of Blossoms
-1 Genesis Wave
 1 Forest
-1 Arbor Elf
-1 End-Raze Forerunners
-2 Primal Command
-2 Acidic Slime
-2 Wall of Blossoms
-2 Garruk Wildspeaker
-2 Genesis Wave
-2 Nykthos, Shrine to Nyx
 2 Forest
-2 Elvish Mystic
-2 Utopia Sprawl
-2 Carven Caryatid
-2 Arbor Elf
-2 Wistful Selkie
-2 Eternal Witness
-3 Wall of Blossoms
-3 Primal Command
-3 Arbor Elf
-3 Nykthos, Shrine to Nyx
-3 Acidic Slime
 3 Forest
-3 Carven Caryatid
-3 Wistful Selkie
-3 Garruk Wildspeaker
-3 Utopia Sprawl
-4 Wall of Blossoms
-4 Primal Command
-4 Utopia Sprawl
-4 Nykthos, Shrine to Nyx
-4 Acidic Slime
-4 Carven Caryatid
-4 Arbor Elf
 4 Forest
-4 Wistful Selkie
 5 Forest
 6 Forest
 7 Forest
@@ -119,3 +96,91 @@
 14 Forest
 15 Forest
 16 Forest
+1 Wall of Blossoms
+1 Elvish Mystic
+1 Acidic Slime
+1 Genesis Wave
+1 Wistful Selkie
+1 Carven Caryatid
+1 Cloudthresher
+1 End-Raze Forerunners
+2 Wall of Blossoms
+2 Acidic Slime
+2 Genesis Wave
+2 Wistful Selkie
+2 Elvish Mystic
+2 Carven Caryatid
+3 Wall of Blossoms
+3 Primal Command
+3 Acidic Slime
+3 Wistful Selkie
+3 Carven Caryatid
+4 Wall of Blossoms
+4 Primal Command
+4 Nykthos, Shrine to Nyx
+4 Acidic Slime
+4 Carven Caryatid
+4 Wistful Selkie
+1 Scavenging Ooze
+1 Burning-Tree Emissary
+1 Overgrowth
+1 Summoner's Pact
+1 Primeval Titan
+1 Verdant Catacombs
+1 Wooded Foothills
+1 Magus of the Candelabra
+1 Oath of Nissa
+2 Burning-Tree Emissary
+2 Summoner's Pact
+2 Oath of Nissa
+3 Eternal Witness
+3 Burning-Tree Emissary
+4 Garruk Wildspeaker
+4 Burning-Tree Emissary
+7 Snow-Covered Forest
+8 Snow-Covered Forest
+9 Snow-Covered Forest
+10 Snow-Covered Forest
+1 Rancor
+1 Kitchen Finks
+1 Steel Leaf Champion
+1 Aspect of Hydra
+1 Pelt Collector
+1 Avatar of the Resolute
+1 Barkhide Troll
+1 Vines of Vastwood
+1 Dryad Militant
+1 Experiment One
+1 Treetop Village
+1 Strangleroot Geist
+2 Rancor
+2 Scavenging Ooze
+2 Kitchen Finks
+2 Steel Leaf Champion
+2 Vines of Vastwood
+2 Pelt Collector
+2 Avatar of the Resolute
+2 Barkhide Troll
+2 Dryad Militant
+2 Aspect of Hydra
+2 Treetop Village
+2 Experiment One
+2 Strangleroot Geist
+3 Avatar of the Resolute
+3 Experiment One
+3 Dryad Militant
+3 Vines of Vastwood
+3 Strangleroot Geist
+3 Steel Leaf Champion
+3 Aspect of Hydra
+3 Rancor
+4 Strangleroot Geist
+4 Avatar of the Resolute
+4 Dryad Militant
+4 Aspect of Hydra
+4 Experiment One
+4 Vines of Vastwood
+4 Steel Leaf Champion
+4 Rancor
+17 Forest
+18 Forest
