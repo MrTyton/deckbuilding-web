@@ -42,10 +42,10 @@
 |--------------------:|---------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------|
 |                    2|[Thran Dynamo](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220506)|                    1|[Paradox Engine](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423836)   |
 |                    3|[Defense Grid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45481) |                    1|[Thought-Knot Seer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407519)|
-|                    1|[Karakas](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413782)     |                    2|[Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)   |
+|                    1|[Karakas](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413782)     |                    2|[Thought-Knot Seer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407519)|
+|                     |                                                                                       |                    2|[Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)   |
 |                     |                                                                                       |                    3|[Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)   |
 |                     |                                                                                       |                    4|[Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)   |
 |                     |                                                                                       |                    1|[Hope of Ghirapur](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423821) |
 |                     |                                                                                       |                    2|[Hope of Ghirapur](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423821) |
-|                     |                                                                                       |                    2|[Thought-Knot Seer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407519)|
 

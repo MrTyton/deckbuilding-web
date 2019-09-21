@@ -16,7 +16,6 @@
 3 Goblin Guide
 3 Dark Confidant
 3 Wooded Foothills
-4 Knight of Autumn
 4 Bloodstained Mire
 4 Goblin Guide
 4 Tarmogoyf
@@ -24,23 +23,24 @@
 4 Tribal Flames
 4 Dark Confidant
 4 Wild Nacatl
+4 Knight of Autumn
 4 Wooded Foothills
 1 Birds of Paradise
 2 Birds of Paradise
 3 Birds of Paradise
 4 Birds of Paradise
 1 Stoneforge Mystic
-1 Sword of Fire and Ice
 1 Batterskull
+1 Sword of Fire and Ice
 1 Polluted Delta
 1 Tireless Tracker
-1 Jace, the Mind Sculptor
 1 Flooded Strand
 1 Nicol Bolas, the Ravager
 1 Savage Knuckleblade
-2 Jace, the Mind Sculptor
+1 Jace, the Mind Sculptor
 2 Stoneforge Mystic
 2 Tireless Tracker
+2 Jace, the Mind Sculptor
 2 Breeding Pool
 2 Nicol Bolas, the Ravager
 2 Stomping Ground
@@ -56,20 +56,20 @@
 3 Teferi, Time Raveler
 4 Misty Rainforest
 1 Forgotten Cave
-1 Karn, the Great Creator
 1 Blood Moon
+1 Karn, the Great Creator
 1 Dead of Winter
 1 Chandra, Awakened Inferno
 1 Interplanar Beacon
 1 Narset, Parter of Veils
-2 Snow-Covered Plains
 2 Snow-Covered Island
+2 Snow-Covered Plains
 2 Dead of Winter
 2 Snow-Covered Swamp
-2 Karn, the Great Creator
-2 Blood Moon
 2 Narset, Parter of Veils
+2 Karn, the Great Creator
 2 Interplanar Beacon
+2 Blood Moon
 2 Snow-Covered Mountain
 2 Chandra, Awakened Inferno
 3 Karn, the Great Creator
@@ -146,37 +146,38 @@
 4 Chancellor of the Tangle
 4 Simian Spirit Guide
 4 Gemstone Mine
+1 Noble Hierarch
 1 Coiling Oracle
 1 Renegade Rallier
 1 Eternal Witness
-1 Shalai, Voice of Plenty
 1 Reflector Mage
+1 Shalai, Voice of Plenty
 1 Island
 1 Saheeli Rai
-1 Noble Hierarch
 1 Kitchen Finks
 1 Voice of Resurgence
 1 Plains
 1 Oath of Nissa
 1 Felidar Guardian
+2 Noble Hierarch
 2 Coiling Oracle
 2 Forest
 2 Reflector Mage
 2 Saheeli Rai
 2 Oath of Nissa
 2 Felidar Guardian
-2 Noble Hierarch
 2 Voice of Resurgence
+3 Noble Hierarch
 3 Coiling Oracle
 3 Saheeli Rai
 3 Felidar Guardian
 3 Oath of Nissa
-3 Noble Hierarch
 4 Saheeli Rai
 4 Felidar Guardian
 4 Oath of Nissa
 4 Coiling Oracle
 1 Dovin's Veto
+1 Supreme Verdict
 1 Thought Erasure
 1 Search for Tomorrow
 1 Lightning Helix
@@ -185,7 +186,6 @@
 1 Kaya's Guile
 1 Farseek
 1 Izzet Charm
-1 Supreme Verdict
 2 Niv-Mizzet Reborn
 2 Pillar of the Paruns
 2 Bring to Light

@@ -33,8 +33,8 @@
 
 |*n*<sup>th</sup> copy|                                         Maindeck Card                                         |*n*<sup>th</sup> copy|                                         Sideboard Card                                          |
 |--------------------:|-----------------------------------------------------------------------------------------------|--------------------:|-------------------------------------------------------------------------------------------------|
-|                    1|[Scalding Tarn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405107)       |                    1|[Shrine of Burning Rage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=218018)|
-|                    1|[Sunbaked Canyon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464196)     |                    1|[Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)                |
+|                    1|[Sunbaked Canyon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464196)     |                    1|[Shrine of Burning Rage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=218018)|
+|                    1|[Scalding Tarn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405107)       |                    1|[Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)                |
 |                    1|[Wrenn and Six](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464166)       |                    1|[Dragon's Claw](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129527)         |
 |                    1|[Tarmogoyf](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=136142)           |                    1|[Blood Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45386)             |
 |                    1|[Arid Mesa](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405092)           |                    2|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)   |

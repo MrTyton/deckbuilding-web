@@ -29,10 +29,10 @@
 
 |*n*<sup>th</sup> copy|                                      Maindeck Card                                      |*n*<sup>th</sup> copy|                                          Sideboard Card                                           |
 |--------------------:|-----------------------------------------------------------------------------------------|--------------------:|---------------------------------------------------------------------------------------------------|
-|                    1|[Horizon Canopy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409571)|                    1|[Spatial Contortion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407518)      |
 |                    1|[Tectonic Edge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389711) |                    1|[Aven Mindcensor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426707)         |
-|                    2|[Horizon Canopy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409571)|                    2|[Aven Mindcensor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426707)         |
+|                    1|[Horizon Canopy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409571)|                    1|[Spatial Contortion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407518)      |
 |                    2|[Tectonic Edge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389711) |                    2|[Gideon, Ally of Zendikar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401897)|
-|                    3|[Tectonic Edge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389711) |                    3|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)           |
-|                    4|[Tectonic Edge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389711) |                    2|[Oust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401649)                    |
+|                    3|[Tectonic Edge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389711) |                    2|[Aven Mindcensor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426707)         |
+|                    4|[Tectonic Edge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389711) |                    3|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)           |
+|                    2|[Horizon Canopy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409571)|                    2|[Oust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401649)                    |
 
