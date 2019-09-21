@@ -1,6 +1,6 @@
+2 Echoing Truth
 1 Benthic Biomancer
 2 Benthic Biomancer
-1 Harbinger of the Tides
 2 Harbinger of the Tides
 5 Island
 3 Benthic Biomancer
@@ -21,18 +21,18 @@
 1 Repeal
 2 Dismember
 2 Repeal
-3 Faerie Conclave
 3 Dismember
 3 Repeal
+3 Faerie Conclave
 4 Faerie Conclave
 4 Cavern of Souls
-4 Dismember
-4 Repeal
-1 Tidebinder Mage
 1 Snow-Covered Island
 2 Snow-Covered Island
 3 Snow-Covered Island
 4 Snow-Covered Island
+1 Tidebinder Mage
+4 Dismember
+4 Repeal
 1 Minamo, School at Water's Edge
 10 Island
 2 Tidebinder Mage
@@ -41,6 +41,9 @@
 1 Spell Pierce
 1 Master of Waves
 2 Master of Waves
+1 Flooded Strand
+2 Flooded Strand
+5 Snow-Covered Island
 1 Fiery Islet
 1 Thassa, God of the Sea
 1 Cursecatcher
@@ -52,6 +55,7 @@
 12 Island
 2 Spell Pierce
 1 Tectonic Edge
+2 Fiery Islet
 1 Coralhelm Commander
 2 Coralhelm Commander
 1 Vapor Snag
@@ -61,16 +65,12 @@
 2 Kira, Great Glass-Spinner
 1 Unclaimed Territory
 2 Unclaimed Territory
-1 Flooded Strand
-2 Flooded Strand
-2 Fiery Islet
 3 Tidebinder Mage
-3 Master of Waves
 3 Breeding Pool
-1 Polluted Delta
-2 Polluted Delta
-3 Spell Pierce
-4 Spell Pierce
+3 Master of Waves
 4 Echoing Truth
 6 Snow-Covered Island
-5 Snow-Covered Island
+1 Polluted Delta
+2 Polluted Delta
+4 Spell Pierce
+3 Spell Pierce

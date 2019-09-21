@@ -106,7 +106,7 @@
 |                    3|[Matter Reshaper](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407516)          |                     |                                                                                                    |
 |                    3|[Thought-Knot Seer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407519)        |                     |                                                                                                    |
 |                    3|[Eldrazi Temple](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401710)           |                     |                                                                                                    |
-|                    4|[Thought-Knot Seer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407519)        |                     |                                                                                                    |
 |                    4|[Matter Reshaper](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407516)          |                     |                                                                                                    |
+|                    4|[Thought-Knot Seer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407519)        |                     |                                                                                                    |
 |                    4|[Eldrazi Temple](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401710)           |                     |                                                                                                    |
 

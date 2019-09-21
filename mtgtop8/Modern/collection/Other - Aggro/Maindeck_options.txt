@@ -7,13 +7,8 @@
 2 Fatal Push
 2 Thoughtseize
 2 Swamp
-3 Swamp
-1 Liliana of the Veil
-2 Liliana of the Veil
-3 Liliana of the Veil
-3 Thoughtseize
-4 Thoughtseize
 3 Inquisition of Kozilek
+3 Swamp
 3 Fatal Push
 1 Chandra, Acolyte of Flame
 1 Bloodstained Mire
@@ -21,17 +16,18 @@
 1 Marsh Flats
 1 Lightning Axe
 1 Dreadhorde Arcanist
+1 Liliana of the Veil
 1 Sunbaked Canyon
 1 Kolaghan's Command
 1 Hazoret the Fervent
 1 Blood Crypt
+1 Lightning Bolt
 1 Blood Moon
 1 Mountain
-1 Lightning Bolt
 1 Blackcleave Cliffs
 1 Bedlam Reveler
-2 Blood Crypt
 2 Bedlam Reveler
+2 Blood Crypt
 2 Sunbaked Canyon
 2 Hazoret the Fervent
 2 Chandra, Acolyte of Flame
@@ -40,6 +36,7 @@
 2 Seasoned Pyromancer
 2 Marsh Flats
 2 Dreadhorde Arcanist
+2 Liliana of the Veil
 2 Blood Moon
 2 Kolaghan's Command
 2 Blackcleave Cliffs
@@ -49,169 +46,77 @@
 3 Sunbaked Canyon
 3 Seasoned Pyromancer
 3 Bloodstained Mire
+3 Liliana of the Veil
 3 Marsh Flats
+3 Thoughtseize
 3 Dreadhorde Arcanist
 3 Lightning Bolt
 3 Blackcleave Cliffs
+4 Thoughtseize
 4 Seasoned Pyromancer
 4 Dreadhorde Arcanist
 4 Bloodstained Mire
 4 Marsh Flats
 4 Blackcleave Cliffs
 4 Lightning Bolt
-1 Tireless Tracker
-1 Scavenging Ooze
-1 Walking Ballista
-1 Waterlogged Grove
-1 Finale of Devastation
-1 Breeding Pool
-1 Eladamri's Call
-1 Snow-Covered Forest
-1 Horizon Canopy
-1 Misty Rainforest
-1 Windswept Heath
-1 Devoted Druid
-1 Utopia Sprawl
-1 Vizier of Remedies
-1 Arbor Elf
-1 Karn, the Great Creator
-1 Eternal Witness
-1 Oath of Nissa
-1 Deputy of Detention
-1 Snow-Covered Plains
-1 Temple Garden
-1 Teferi, Time Raveler
-2 Finale of Devastation
-2 Eladamri's Call
-2 Breeding Pool
-2 Teferi, Time Raveler
-2 Snow-Covered Forest
-2 Horizon Canopy
-2 Windswept Heath
-2 Utopia Sprawl
-2 Arbor Elf
-2 Devoted Druid
-2 Karn, the Great Creator
-2 Misty Rainforest
-2 Oath of Nissa
-2 Temple Garden
-2 Vizier of Remedies
-3 Snow-Covered Forest
-3 Finale of Devastation
-3 Utopia Sprawl
-3 Arbor Elf
-3 Karn, the Great Creator
-3 Windswept Heath
-3 Devoted Druid
-3 Misty Rainforest
-3 Eladamri's Call
-3 Oath of Nissa
-3 Teferi, Time Raveler
-3 Vizier of Remedies
-4 Snow-Covered Forest
-4 Utopia Sprawl
-4 Arbor Elf
-4 Teferi, Time Raveler
-4 Misty Rainforest
-4 Devoted Druid
-4 Windswept Heath
-4 Oath of Nissa
-4 Vizier of Remedies
-4 Eladamri's Call
-4 Finale of Devastation
 1 Forest
 1 Nurturing Peatland
-1 Overgrown Tomb
-1 Verdant Catacombs
-2 Verdant Catacombs
-3 Verdant Catacombs
-4 Verdant Catacombs
-1 Blooming Marsh
 1 Grim Flayer
+1 Blooming Marsh
 1 Blast Zone
 1 Field of Ruin
+1 Tireless Tracker
 1 Collective Brutality
 1 Kalitas, Traitor of Ghet
 1 Assassin's Trophy
+1 Scavenging Ooze
 1 Maelstrom Pulse
+1 Overgrown Tomb
 1 Unearth
+1 Verdant Catacombs
 1 Abrupt Decay
 1 Hissing Quagmire
 1 Mishra's Bauble
 1 Treetop Village
 1 Hexdrinker
 2 Abrupt Decay
-2 Blooming Marsh
 2 Hexdrinker
+2 Tireless Tracker
 2 Field of Ruin
 2 Assassin's Trophy
-2 Tireless Tracker
 2 Unearth
-2 Forest
-2 Overgrown Tomb
-2 Grim Flayer
 2 Mishra's Bauble
+2 Forest
+2 Grim Flayer
+2 Verdant Catacombs
+2 Overgrown Tomb
+2 Blooming Marsh
 2 Treetop Village
 2 Scavenging Ooze
-3 Assassin's Trophy
 3 Tireless Tracker
-3 Blooming Marsh
 3 Hexdrinker
 3 Field of Ruin
 3 Scavenging Ooze
 3 Mishra's Bauble
+3 Assassin's Trophy
 3 Grim Flayer
+3 Blooming Marsh
+3 Verdant Catacombs
 4 Blooming Marsh
 4 Fatal Push
+4 Verdant Catacombs
 4 Grim Flayer
 4 Mishra's Bauble
 4 Inquisition of Kozilek
-1 Satyr Wayfinder
-1 Dryad Arbor
-1 Stitcher's Supplier
-1 Urborg, Tomb of Yawgmoth
-1 Bloodghast
-1 Mutavault
-1 Smallpox
-1 Hogaak, Arisen Necropolis
-1 Cabal Therapist
-2 Mutavault
-2 Satyr Wayfinder
-2 Stitcher's Supplier
-2 Hogaak, Arisen Necropolis
-2 Cabal Therapist
-2 Nurturing Peatland
-2 Smallpox
-2 Urborg, Tomb of Yawgmoth
-2 Bloodghast
-3 Hogaak, Arisen Necropolis
-3 Mutavault
-3 Satyr Wayfinder
-3 Nurturing Peatland
-3 Stitcher's Supplier
-3 Cabal Therapist
-3 Bloodghast
-3 Smallpox
-3 Urborg, Tomb of Yawgmoth
-4 Hogaak, Arisen Necropolis
-4 Satyr Wayfinder
-4 Swamp
-4 Nurturing Peatland
-4 Liliana of the Veil
-4 Mutavault
-4 Stitcher's Supplier
-4 Smallpox
-4 Urborg, Tomb of Yawgmoth
-4 Bloodghast
-4 Cabal Therapist
-5 Swamp
 1 Blinkmoth Nexus
 1 Snow-Covered Island
 1 Master of Etherium
 1 Mystic Forge
 1 Darksteel Citadel
+1 Walking Ballista
 1 Mox Opal
 1 Thorn of Amethyst
+1 Waterlogged Grove
 1 Lodestone Golem
 1 Arcbound Ravager
 1 Vault Skirge
@@ -235,31 +140,31 @@
 2 Chief Engineer
 2 Etherium Sculptor
 2 Blinkmoth Nexus
+3 Waterlogged Grove
 3 Master of Etherium
 3 Mystic Forge
 3 Snow-Covered Island
+3 Thorn of Amethyst
 3 Walking Ballista
 3 Lodestone Golem
-3 Ornithopter
 3 Darksteel Citadel
+3 Ornithopter
 3 Vault Skirge
 3 Chief Engineer
+3 Signal Pest
 3 Etherium Sculptor
 3 Blinkmoth Nexus
-3 Thorn of Amethyst
-3 Waterlogged Grove
-3 Signal Pest
 3 Mox Opal
 4 Snow-Covered Island
 4 Etherium Sculptor
 4 Signal Pest
+4 Chief Engineer
+4 Ornithopter
 4 Thorn of Amethyst
 4 Blinkmoth Nexus
-4 Vault Skirge
 4 Darksteel Citadel
-4 Ornithopter
+4 Vault Skirge
 4 Lodestone Golem
-4 Chief Engineer
 5 Snow-Covered Island
 6 Snow-Covered Island
 4 Walking Ballista

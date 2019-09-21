@@ -1,18 +1,18 @@
-1 Dismember
-2 Dismember
-3 Deprive
-1 Grafdigger's Cage
-2 Grafdigger's Cage
-1 Collector Ouphe
 2 Collector Ouphe
 3 Collector Ouphe
 1 Shapers' Sanctuary
 2 Shapers' Sanctuary
-1 Ceremonious Rejection
+1 Grafdigger's Cage
+2 Grafdigger's Cage
+1 Phyrexian Revoker
+2 Phyrexian Revoker
+4 Relic of Progenitus
+3 Deprive
 3 Shapers' Sanctuary
+1 Ceremonious Rejection
 2 Ceremonious Rejection
-1 Ashiok, Dream Render
 1 Wizard's Retort
+1 Ashiok, Dream Render
 2 Wizard's Retort
 1 Vendilion Clique
 1 Spellskite
@@ -23,8 +23,6 @@
 2 Hurkyl's Recall
 3 Ceremonious Rejection
 3 Tidebinder Mage
-4 Chalice of the Void
-4 Deprive
 1 Spell Pierce
 2 Spell Pierce
 1 Vapor Snag
@@ -36,6 +34,8 @@
 2 Thassa, God of the Sea
 1 Commandeer
 2 Commandeer
+1 Return to Nature
+2 Return to Nature
 2 Ashiok, Dream Render
 2 Vendilion Clique
 1 Detention Sphere
@@ -49,8 +49,8 @@
 2 Harbinger of the Tides
 1 Island
 1 Ghost Quarter
-1 Essence Scatter
 1 Negate
+1 Essence Scatter
 1 Cavern of Souls
 1 Cyclonic Rift
 1 Frost Breath
@@ -59,9 +59,6 @@
 2 Essence Scatter
 2 Frost Breath
 2 Cavern of Souls
-1 Sorcerous Spyglass
-2 Sorcerous Spyglass
-3 Sorcerous Spyglass
 3 Grafdigger's Cage
 4 Grafdigger's Cage
 1 Cursecatcher
@@ -74,6 +71,7 @@
 4 Spell Pierce
 1 Veil of Summer
 1 Spreading Seas
+4 Chalice of the Void
 4 Collector Ouphe
 1 Sea's Claim
 2 Sea's Claim
@@ -83,6 +81,7 @@
 1 Force of Negation
 2 Force of Negation
 3 Force of Negation
+4 Deprive
 4 Force of Negation
 1 Tormod's Crypt
 1 Damping Sphere

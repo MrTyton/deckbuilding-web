@@ -34,8 +34,8 @@
 |                    2|[Pyretic Ritual](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205067)     |                    1|[Telemin Performance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=189085)|
 |                    3|[Seething Song](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=83377)       |                    1|[Forked Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401702)        |
 |                    3|[Pyretic Ritual](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205067)     |                    1|[Tendrils of Agony](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45842)   |
-|                    4|[Manamorphose](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370568)       |                    2|[Carpet of Flowers](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=5858)    |
-|                    4|[Seething Song](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=83377)       |                    3|[Xantid Swarm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413735)       |
+|                    4|[Seething Song](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=83377)       |                    2|[Carpet of Flowers](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=5858)    |
+|                    4|[Manamorphose](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370568)       |                    3|[Xantid Swarm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413735)       |
 |                    4|[Elvish Spirit Guide](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3134)  |                    3|[Carpet of Flowers](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=5858)    |
 |                     |                                                                                              |                    4|[Xantid Swarm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413735)       |
 
