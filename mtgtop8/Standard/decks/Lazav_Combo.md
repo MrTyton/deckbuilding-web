@@ -69,7 +69,7 @@
 |                    3|[Woodland Cemetery](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443136)         |                    1|[Devout Decree](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466767)             |
 |                     |                                                                                                     |                    2|[Lyra Dawnbringer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442914)          |
 |                     |                                                                                                     |                    2|[Traxos, Scourge of Kroog](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443122)  |
-|                     |                                                                                                     |                    4|[Assassin's Trophy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452902)         |
 |                     |                                                                                                     |                    1|[Cast Down](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442969)                 |
 |                     |                                                                                                     |                    3|[Cerulean Drake](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466807)            |
+|                     |                                                                                                     |                    4|[Assassin's Trophy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452902)         |
 

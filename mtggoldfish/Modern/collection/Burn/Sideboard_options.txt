@@ -1,15 +1,13 @@
 2 Searing Blood
-1 Grim Lavamancer
 2 Deflecting Palm
+1 Grim Lavamancer
 1 Exquisite Firecraft
 4 Skullcrack
 2 Exquisite Firecraft
 4 Kor Firewalker
-1 Rest in Peace
 1 Dragon's Claw
 2 Dragon's Claw
 3 Dragon's Claw
-1 Stony Silence
 1 Searing Blaze
 2 Searing Blaze
 1 Eidolon of the Great Revel
@@ -18,9 +16,11 @@
 2 Leyline of the Void
 3 Leyline of the Void
 4 Leyline of the Void
-2 Grim Lavamancer
+1 Rest in Peace
 3 Eidolon of the Great Revel
 3 Searing Blaze
+2 Grim Lavamancer
+1 Stony Silence
 3 Grim Lavamancer
 4 Eidolon of the Great Revel
 1 Tormod's Crypt
@@ -37,9 +37,6 @@
 2 Alpine Moon
 3 Abrade
 1 Grafdigger's Cage
-1 Destructive Revelry
-2 Destructive Revelry
-3 Destructive Revelry
 1 Wear/Tear
 1 Flame Slash
 2 Rest in Peace
@@ -47,21 +44,20 @@
 2 Kozilek's Return
 1 Tocatli Honor Guard
 2 Tocatli Honor Guard
-1 Blood Moon
-1 Dismember
 3 Shrine of Burning Rage
+1 Dismember
 1 Surgical Extraction
 1 Ravenous Trap
 2 Flame Slash
 2 Ravenous Trap
 3 Ravenous Trap
 4 Ravenous Trap
+1 Blood Moon
 1 Harsh Mentor
 2 Harsh Mentor
 3 Searing Blood
 1 Molten Rain
 2 Wear/Tear
-4 Destructive Revelry
 1 Relic of Progenitus
 1 Saheeli, Sublime Artificer
 1 Shenanigans
@@ -70,17 +66,13 @@
 1 Burrenton Forge-Tender
 2 Molten Rain
 2 Dismember
-1 Lightning Helix
-2 Lightning Helix
 3 Tocatli Honor Guard
 1 Torpor Orb
 2 Torpor Orb
 3 Deflecting Palm
-1 Spellskite
-2 Spellskite
-2 Relic of Progenitus
-3 Relic of Progenitus
-3 Wear/Tear
+1 Destructive Revelry
+2 Destructive Revelry
+3 Destructive Revelry
 1 Risk Factor
 1 Magmatic Sinkhole
 1 Volcanic Fallout
@@ -89,7 +81,8 @@
 2 Grafdigger's Cage
 3 Grafdigger's Cage
 4 Grafdigger's Cage
-1 Refraction Trap
-2 Refraction Trap
-3 Refraction Trap
-4 Refraction Trap
+1 Spellskite
+2 Spellskite
+2 Relic of Progenitus
+3 Relic of Progenitus
+3 Wear/Tear

@@ -44,6 +44,6 @@
 |                    1|[Silent Clearing](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464195)       |                     |                                                                                                 |
 |                    2|[Verdant Catacombs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405113)     |                     |                                                                                                 |
 |                    3|[Verdant Catacombs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405113)     |                     |                                                                                                 |
-|                    4|[Verdant Catacombs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405113)     |                     |                                                                                                 |
 |                    4|[Fatal Push](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423724)            |                     |                                                                                                 |
+|                    4|[Verdant Catacombs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405113)     |                     |                                                                                                 |
 
