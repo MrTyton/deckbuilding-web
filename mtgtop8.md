@@ -32,9 +32,9 @@
 |[Bant](./mtgtop8/Modern/decks/Bant.md)                          |[Gruul Ramp](./mtgtop8/Modern/decks/Gruul_Ramp.md)          |[Martyr Life](./mtgtop8/Modern/decks/Martyr_Life.md)              |[Scapeshift](./mtgtop8/Modern/decks/Scapeshift.md)              |[UWx Midrange](./mtgtop8/Modern/decks/UWx_Midrange.md)    |
 |[Boros](./mtgtop8/Modern/decks/Boros.md)                        |[Hardened Scales](./mtgtop8/Modern/decks/Hardened_Scales.md)|[Merfolk](./mtgtop8/Modern/decks/Merfolk.md)                      |[Selesnya Aggro](./mtgtop8/Modern/decks/Selesnya_Aggro.md)      |[UrzaTron](./mtgtop8/Modern/decks/UrzaTron.md)            |
 |[CopyCat](./mtgtop8/Modern/decks/CopyCat.md)                    |[Hatebear](./mtgtop8/Modern/decks/Hatebear.md)              |[Mono Black Aggro](./mtgtop8/Modern/decks/Mono_Black_Aggro.md)    |[Slivers](./mtgtop8/Modern/decks/Slivers.md)                    |[Valakut](./mtgtop8/Modern/decks/Valakut.md)              |
-|[Creatures Toolbox](./mtgtop8/Modern/decks/Creatures_Toolbox.md)|[Hollow One](./mtgtop8/Modern/decks/Hollow_One.md)          |[Mono Black Control](./mtgtop8/Modern/decks/Mono_Black_Control.md)|[Smallpox](./mtgtop8/Modern/decks/Smallpox.md)                  |[Whir Prison](./mtgtop8/Modern/decks/Whir_Prison.md)      |
-|[Death's Shadow](./mtgtop8/Modern/decks/Death's_Shadow.md)      |[Humans](./mtgtop8/Modern/decks/Humans.md)                  |[Mono Green Aggro](./mtgtop8/Modern/decks/Mono_Green_Aggro.md)    |[Spirit Aggro](./mtgtop8/Modern/decks/Spirit_Aggro.md)          |[Zoo](./mtgtop8/Modern/decks/Zoo.md)                      |
-|[Dredge](./mtgtop8/Modern/decks/Dredge.md)                      |[Infect](./mtgtop8/Modern/decks/Infect.md)                  |[Mono Red Control](./mtgtop8/Modern/decks/Mono_Red_Control.md)    |[The Rock](./mtgtop8/Modern/decks/The_Rock.md)                  |                                                          |
+|[Creatures Toolbox](./mtgtop8/Modern/decks/Creatures_Toolbox.md)|[Hollow One](./mtgtop8/Modern/decks/Hollow_One.md)          |[Mono Black Control](./mtgtop8/Modern/decks/Mono_Black_Control.md)|[Smallpox](./mtgtop8/Modern/decks/Smallpox.md)                  |[Weenie White](./mtgtop8/Modern/decks/Weenie_White.md)    |
+|[Death's Shadow](./mtgtop8/Modern/decks/Death's_Shadow.md)      |[Humans](./mtgtop8/Modern/decks/Humans.md)                  |[Mono Green Aggro](./mtgtop8/Modern/decks/Mono_Green_Aggro.md)    |[Spirit Aggro](./mtgtop8/Modern/decks/Spirit_Aggro.md)          |[Whir Prison](./mtgtop8/Modern/decks/Whir_Prison.md)      |
+|[Dredge](./mtgtop8/Modern/decks/Dredge.md)                      |[Infect](./mtgtop8/Modern/decks/Infect.md)                  |[Mono Red Control](./mtgtop8/Modern/decks/Mono_Red_Control.md)    |[The Rock](./mtgtop8/Modern/decks/The_Rock.md)                  |[Zoo](./mtgtop8/Modern/decks/Zoo.md)                      |
 
 
 # Legacy
@@ -55,4 +55,4 @@
 
 
 
-#### Last Updated at 12:46AM on September 22, 2019
+#### Last Updated at 12:56AM on September 23, 2019
