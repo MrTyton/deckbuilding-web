@@ -78,7 +78,7 @@
 |                    1|[Nivmagus Elemental](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=290526)     |                     |                                                                                                    |
 |                    2|[Flusterstorm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=228255)           |                     |                                                                                                    |
 |                    2|[Nivmagus Elemental](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=290526)     |                     |                                                                                                    |
-|                    3|[Snow-Covered Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121130)    |                     |                                                                                                    |
 |                    3|[Flusterstorm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=228255)           |                     |                                                                                                    |
+|                    3|[Snow-Covered Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121130)    |                     |                                                                                                    |
 |                    4|[Wasteland](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413790)              |                     |                                                                                                    |
 

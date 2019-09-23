@@ -79,6 +79,6 @@
 |                    2|[Incubation Druid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457275)          |                     |                                                                                                     |
 |                    2|[Mass Manipulation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457186)         |                     |                                                                                                     |
 |                    3|[Incubation Druid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457275)          |                     |                                                                                                     |
-|                    4|[Incubation Druid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457275)          |                     |                                                                                                     |
 |                    4|[Voracious Hydra](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466954)           |                     |                                                                                                     |
+|                    4|[Incubation Druid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457275)          |                     |                                                                                                     |
 
