@@ -22,6 +22,7 @@
 1 Khalni Garden
 1 Radiant Fountain
 1 Summoner's Pact
+1 Tolaria West
 1 Walking Ballista
 1 Snow-Covered Forest
 1 Field of the Dead
@@ -33,14 +34,13 @@
 1 Gruul Turf
 1 Boros Garrison
 1 Sunhome, Fortress of the Legion
+1 Primeval Titan
 1 Crumbling Vestige
 1 Sakura-Tribe Scout
 1 Vesuva
 1 Slayers' Stronghold
-1 Selesnya Sanctuary
-1 Tolaria West
 1 Engineered Explosives
-1 Primeval Titan
+1 Selesnya Sanctuary
 1 Ghost Quarter
 1 Temple of Mystery
 1 Bojuka Bog
@@ -85,21 +85,22 @@
 1 Mutagenic Growth
 1 Monastery Swiftspear
 2 Light Up the Stage
+2 Atarka's Command
 2 Soul-Scar Mage
 2 Bedlam Reveler
 2 Crash Through
 2 Lava Dart
 2 Manamorphose
+2 Copperline Gorge
 2 Mountain
 2 Gut Shot
-2 Copperline Gorge
 2 Blistercoil Weird
-2 Atarka's Command
 2 Mutagenic Growth
 2 Arid Mesa
 2 Monastery Swiftspear
-3 Light Up the Stage
 3 Arid Mesa
+3 Light Up the Stage
+3 Atarka's Command
 3 Soul-Scar Mage
 3 Lava Dart
 3 Crash Through
@@ -108,7 +109,6 @@
 3 Mutagenic Growth
 3 Copperline Gorge
 3 Monastery Swiftspear
-3 Atarka's Command
 3 Gut Shot
 3 Blistercoil Weird
 3 Mountain
@@ -120,7 +120,6 @@
 4 Monastery Swiftspear
 4 Mutagenic Growth
 4 Blistercoil Weird
-1 Windswept Heath
 1 Verdant Catacombs
 1 Molten Rain
 1 Magus of the Moon
@@ -129,19 +128,20 @@
 1 Blood Moon
 1 Tireless Tracker
 1 Utopia Sprawl
+1 Windswept Heath
 1 Stone Rain
 1 Arbor Elf
-2 Blood Moon
 2 Windswept Heath
+2 Blood Moon
 2 Molten Rain
 2 Utopia Sprawl
 2 Arbor Elf
 2 Tireless Tracker
 2 Stone Rain
 2 Stormbreath Dragon
+3 Windswept Heath
 3 Tireless Tracker
 3 Molten Rain
-3 Windswept Heath
 3 Blood Moon
 3 Arbor Elf
 3 Stomping Ground

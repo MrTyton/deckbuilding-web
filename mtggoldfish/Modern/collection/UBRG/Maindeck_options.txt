@@ -1,11 +1,12 @@
 3 Misty Rainforest
 1 Snow-Covered Swamp
-1 Snow-Covered Forest
+1 Kolaghan's Command
 1 Fatal Push
+1 Assassin's Trophy
+1 Snow-Covered Forest
 1 Ice-Fang Coatl
 1 Opt
 1 Watery Grave
-1 Kolaghan's Command
 1 Arcum's Astrolabe
 1 Cryptic Command
 1 Snow-Covered Island
@@ -13,20 +14,19 @@
 1 Polluted Delta
 1 Force of Negation
 1 Snapcaster Mage
-1 Assassin's Trophy
-2 Kolaghan's Command
+2 Ice-Fang Coatl
 2 Cryptic Command
 2 Snow-Covered Island
 2 Arcum's Astrolabe
 2 Snapcaster Mage
 2 Wrenn and Six
-2 Ice-Fang Coatl
 2 Opt
 2 Assassin's Trophy
 2 Force of Negation
-3 Force of Negation
+2 Kolaghan's Command
 3 Ice-Fang Coatl
 3 Wrenn and Six
+3 Force of Negation
 3 Snapcaster Mage
 3 Arcum's Astrolabe
 4 Arcum's Astrolabe
@@ -45,13 +45,13 @@
 2 City of Brass
 3 City of Brass
 4 City of Brass
-1 Overgrown Tomb
-1 Lonely Sandbar
-1 Verdant Catacombs
-1 Maelstrom Pulse
 1 Blood Crypt
-1 Narset, Parter of Veils
 1 Tyrant's Scorn
+1 Lonely Sandbar
+1 Maelstrom Pulse
+1 Narset, Parter of Veils
+1 Overgrown Tomb
+1 Verdant Catacombs
 1 Plague Engineer
 2 Lonely Sandbar
 2 Narset, Parter of Veils
@@ -61,40 +61,21 @@
 3 Polluted Delta
 3 Opt
 4 Force of Negation
-1 Snow-Covered Mountain
-1 Field of Ruin
-1 Prismatic Vista
-1 Mana Leak
-1 Spell Snare
-1 Dead of Winter
-1 Creeping Tar Pit
-2 Field of Ruin
-2 Snow-Covered Forest
-2 Prismatic Vista
-2 Dead of Winter
-2 Creeping Tar Pit
-3 Cryptic Command
-3 Snow-Covered Island
-3 Prismatic Vista
-3 Assassin's Trophy
-3 Dead of Winter
-4 Prismatic Vista
-4 Ice-Fang Coatl
+1 Bloodbraid Elf
+1 Copperline Gorge
 1 Tarmogoyf
 1 Dreadhorde Arcanist
 1 Island
-1 As Foretold
-1 Bloodbraid Elf
 1 Electrodominance
 1 Crashing Footfalls
+1 As Foretold
 1 Ancestral Vision
-1 Copperline Gorge
 1 Forest
+2 Bloodbraid Elf
 2 Electrodominance
 2 As Foretold
 2 Forest
 2 Spirebluff Canal
-2 Bloodbraid Elf
 2 Crashing Footfalls
 2 Ancestral Vision
 2 Tarmogoyf
@@ -102,10 +83,10 @@
 3 Bloodbraid Elf
 3 Lightning Bolt
 3 Dreadhorde Arcanist
-3 Tarmogoyf
 3 Electrodominance
 3 Crashing Footfalls
 3 Ancestral Vision
+3 Tarmogoyf
 3 As Foretold
 4 Crashing Footfalls
 4 Tarmogoyf
@@ -115,3 +96,22 @@
 4 As Foretold
 4 Dreadhorde Arcanist
 4 Ancestral Vision
+1 Snow-Covered Mountain
+1 Prismatic Vista
+1 Field of Ruin
+1 Spell Snare
+1 Dead of Winter
+1 Creeping Tar Pit
+1 Mana Leak
+2 Field of Ruin
+2 Prismatic Vista
+2 Dead of Winter
+2 Creeping Tar Pit
+2 Snow-Covered Forest
+3 Cryptic Command
+3 Snow-Covered Island
+3 Prismatic Vista
+3 Assassin's Trophy
+3 Dead of Winter
+4 Ice-Fang Coatl
+4 Prismatic Vista

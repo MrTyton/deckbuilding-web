@@ -31,8 +31,8 @@
 
 |*n*<sup>th</sup> copy|                                       Maindeck Card                                        |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
 |--------------------:|--------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
-|                    1|[Ichor Wellspring](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389551) |                    1|[Spine of Ish Sah](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376514)   |
-|                    1|[Galvanic Blast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442781)   |                    1|[Welding Jar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=48328)         |
+|                    1|[Ichor Wellspring](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389551) |                    1|[Welding Jar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=48328)         |
+|                    1|[Galvanic Blast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442781)   |                    1|[Spine of Ish Sah](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376514)   |
 |                    2|[Galvanic Blast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442781)   |                    1|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|
 |                    3|[Whir of Invention](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423716)|                    2|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|
 |                    3|[Scalding Tarn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405107)    |                    2|[Path to Exile](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220511)      |

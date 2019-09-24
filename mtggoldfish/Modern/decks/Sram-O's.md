@@ -50,8 +50,8 @@
 |                    2|[Eladamri's Call](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442192)     |                     |                                                                                                  |
 |                    2|[Windswept Heath](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405115)     |                     |                                                                                                  |
 |                    2|[Noxious Revival](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=230067)     |                     |                                                                                                  |
+|                    3|[Hallowed Fountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=97071)    |                     |                                                                                                  |
 |                    3|[Echoing Truth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405212)       |                     |                                                                                                  |
 |                    3|[Sigil of Distinction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174867)|                     |                                                                                                  |
-|                    3|[Hallowed Fountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=97071)    |                     |                                                                                                  |
 |                    4|[Sigil of Distinction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174867)|                     |                                                                                                  |
 

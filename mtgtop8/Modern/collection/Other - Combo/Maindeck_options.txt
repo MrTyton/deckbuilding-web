@@ -74,11 +74,7 @@
 2 Forest
 1 Temple Garden
 1 Fauna Shaman
-1 Cragganwick Cremator
 1 Noble Hierarch
-1 Impervious Greatwurm
-1 Surrak, the Hunt Caller
-1 Ghalta, Primal Hunger
 1 Fire-Lit Thicket
 1 Scavenging Ooze
 1 Magus of the Moon
@@ -86,43 +82,46 @@
 1 Collector Ouphe
 1 Knight of Autumn
 1 Steel Leaf Champion
+1 Ghalta, Primal Hunger
 1 Eladamri's Call
 1 Strangleroot Geist
 1 Glorybringer
 1 Tireless Tracker
 1 Windswept Heath
 1 Cavern of Souls
+1 Impervious Greatwurm
 1 Wooded Foothills
 1 Birds of Paradise
 1 Sacred Foundry
+1 Surrak, the Hunt Caller
+1 Cragganwick Cremator
 1 Kessig Wolf Run
 1 Eldritch Evolution
 2 Cavern of Souls
-2 Cragganwick Cremator
 2 Noble Hierarch
-2 Impervious Greatwurm
 2 Temple Garden
 2 Copperline Gorge
 2 Steel Leaf Champion
 2 Windswept Heath
 2 Wooded Foothills
+2 Impervious Greatwurm
 2 Strangleroot Geist
 2 Eldritch Evolution
 2 Birds of Paradise
-3 Cragganwick Cremator
+2 Cragganwick Cremator
 3 Noble Hierarch
 3 Forest
 3 Strangleroot Geist
 3 Steel Leaf Champion
+3 Cragganwick Cremator
 3 Eldritch Evolution
 3 Wooded Foothills
-4 Cragganwick Cremator
 4 Noble Hierarch
 4 Forest
+4 Cragganwick Cremator
 4 Strangleroot Geist
 4 Wooded Foothills
 4 Steel Leaf Champion
-1 Paradox Engine
 1 Grove of the Burnwillows
 1 Zhalfirin Void
 1 Everflowing Chalice
@@ -132,6 +131,7 @@
 1 Ancient Stirrings
 1 Mystic Forge
 1 Pyrite Spellbomb
+1 Paradox Engine
 1 Inventors' Fair
 1 Walking Ballista
 1 Astral Cornucopia
@@ -156,8 +156,8 @@
 2 Surge Node
 2 Astral Cornucopia
 2 Coretapper
-3 Grove of the Burnwillows
 3 Blast Zone
+3 Grove of the Burnwillows
 3 Pyrite Spellbomb
 3 Mox Opal
 3 Mystic Forge
@@ -195,8 +195,8 @@
 1 Infernal Plunge
 1 Wild Cantor
 2 Wild Cantor
-2 Goblin Instigator
 2 Commune with the Gods
+2 Goblin Instigator
 2 Magmatic Insight
 2 Empty the Warrens
 2 Infernal Plunge

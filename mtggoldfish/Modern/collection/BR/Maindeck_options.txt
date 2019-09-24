@@ -9,9 +9,9 @@
 1 Goblin Chieftain
 1 Sling-Gang Lieutenant
 1 Goblin Ringleader
+1 Auntie's Hovel
 1 Goblin Trashmaster
 1 Mogg War Marshal
-1 Auntie's Hovel
 2 Sling-Gang Lieutenant
 2 Mogg War Marshal
 2 Auntie's Hovel
@@ -35,8 +35,8 @@
 2 Pashalik Mons
 2 Knucklebone Witch
 2 Munitions Expert
-2 Goblin Matron
 2 Aether Vial
+2 Goblin Matron
 2 Sulfurous Springs
 2 Skirk Prospector
 2 Dragonskull Summit
@@ -46,8 +46,8 @@
 3 Goblin Matron
 3 Sulfurous Springs
 3 Skirk Prospector
-4 Aether Vial
 4 Goblin Matron
+4 Aether Vial
 4 Skirk Prospector
 1 Chalice of the Void
 1 Simian Spirit Guide
@@ -60,15 +60,15 @@
 1 Warren Instigator
 1 Siege-Gang Commander
 1 Goblin Instigator
-1 Cavern of Souls
 1 Goblin Warchief
+1 Cavern of Souls
 2 Warren Instigator
 2 Goblin Chieftain
 2 Cavern of Souls
 2 Goblin Trashmaster
-2 Goblin Ringleader
-2 Siege-Gang Commander
 2 Goblin Instigator
+2 Siege-Gang Commander
+2 Goblin Ringleader
 2 Goblin Warchief
 3 Warren Instigator
 3 Blood Crypt
@@ -80,10 +80,10 @@
 4 Warren Instigator
 4 Blood Crypt
 4 Sling-Gang Lieutenant
-4 Goblin Instigator
-4 Cavern of Souls
 4 Goblin Ringleader
 4 Goblin Chieftain
+4 Goblin Instigator
+4 Cavern of Souls
 4 Goblin Warchief
 9 Mountain
 10 Mountain
@@ -99,47 +99,47 @@
 1 Bomat Courier
 1 Legion Loyalist
 1 Foundry Street Denizen
-1 Goblin Grenade
 1 Fanatical Firebrand
-1 Devastating Summons
 1 Burning-Tree Emissary
+1 Devastating Summons
 1 Reckless Bushwhacker
 1 Ramunap Ruins
+1 Goblin Grenade
 2 Legion Loyalist
 2 Bomat Courier
+2 Foundry Street Denizen
 2 Ramunap Ruins
 2 Goblin Grenade
-2 Reckless Bushwhacker
 2 Devastating Summons
+2 Reckless Bushwhacker
 2 Burning-Tree Emissary
 2 Fanatical Firebrand
-2 Foundry Street Denizen
 2 Goblin Bushwhacker
 3 Legion Loyalist
 3 Bomat Courier
-3 Ramunap Ruins
 3 Fanatical Firebrand
-3 Devastating Summons
 3 Burning-Tree Emissary
 3 Goblin Grenade
 3 Foundry Street Denizen
+3 Ramunap Ruins
 3 Reckless Bushwhacker
+3 Devastating Summons
 3 Goblin Bushwhacker
 4 Legion Loyalist
 4 Bomat Courier
-4 Foundry Street Denizen
 4 Burning-Tree Emissary
+4 Foundry Street Denizen
 4 Reckless Bushwhacker
 4 Goblin Bushwhacker
 4 Fanatical Firebrand
 4 Ramunap Ruins
 1 Seal of Fire
+1 Skewer the Critics
 1 Monastery Swiftspear
 1 Burst Lightning
 1 Soul-Scar Mage
-1 Skewer the Critics
-1 Lava Spike
 1 Sunbaked Canyon
+1 Lava Spike
 1 Rift Bolt
 1 Light Up the Stage
 2 Fiery Islet
@@ -158,8 +158,8 @@
 3 Rift Bolt
 3 Monastery Swiftspear
 3 Lava Spike
-3 Light Up the Stage
 3 Skewer the Critics
+3 Light Up the Stage
 3 Burst Lightning
 3 Soul-Scar Mage
 4 Sunbaked Canyon

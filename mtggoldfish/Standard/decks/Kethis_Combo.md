@@ -79,7 +79,7 @@
 |                     |                                                                                                     |                    1|[Search for Azcanta](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435226)        |
 |                     |                                                                                                     |                    2|[Massacre Girl](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461026)             |
 |                     |                                                                                                     |                    3|[Legion's End](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466860)              |
+|                     |                                                                                                     |                    4|[Assassin's Trophy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452902)         |
 |                     |                                                                                                     |                    1|[Blackblade Reforged](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443099)       |
 |                     |                                                                                                     |                    3|[Traxos, Scourge of Kroog](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443122)  |
-|                     |                                                                                                     |                    4|[Assassin's Trophy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452902)         |
 
