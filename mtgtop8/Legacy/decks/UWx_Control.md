@@ -111,7 +111,7 @@
 |                    4|[Arcum's Astrolabe](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464169)       |                     |                                                                                                       |
 |                    4|[Snapcaster Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=227676)         |                     |                                                                                                       |
 |                    1|[Misty Rainforest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405102)        |                     |                                                                                                       |
-|                    1|Sevinne's Reclamation                                                                              |                     |                                                                                                       |
+|                    1|[Sevinne's Reclamation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=470551)   |                     |                                                                                                       |
 |                    3|[Snow-Covered Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121267)     |                     |                                                                                                       |
 |                    6|[Snow-Covered Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121130)     |                     |                                                                                                       |
 

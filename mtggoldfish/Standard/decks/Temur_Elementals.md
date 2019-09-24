@@ -23,3 +23,11 @@
 |4 [Healer of the Glade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466930)|4 [Fry](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466894)           |1 [Chandra, Awakened Inferno](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466881)|
 |                                                                                                |4 [Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)|2 [Vivien Reid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447344)              |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                       Maindeck Card                                        |*n*<sup>th</sup> copy|                                     Sideboard Card                                      |
+|--------------------:|--------------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------|
+|                    1|[Temple of Mystery](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373571)|                    1|[Cerulean Drake](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466807)|
+|                    3|[Shock](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129732)            |                     |                                                                                         |
+

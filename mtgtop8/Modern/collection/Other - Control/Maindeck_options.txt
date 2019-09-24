@@ -36,16 +36,16 @@
 2 Swamp
 2 Field of Ruin
 2 Creeping Tar Pit
-2 Damnation
 2 Nihil Spellbomb
 2 Zur's Weirding
 2 Ensnaring Bridge
 2 Island
 2 Darkslick Shores
+2 Damnation
 2 Liliana of the Veil
 3 Polluted Delta
-3 Swamp
 3 Creeping Tar Pit
+3 Swamp
 3 Darkslick Shores
 3 Zur's Weirding
 3 Fatal Push
@@ -118,6 +118,7 @@
 2 Opt
 2 Archmage's Charm
 2 Flooded Strand
+3 Spell Snare
 3 Dismember
 3 Brineborn Cutthroat
 3 Force of Negation
@@ -126,7 +127,6 @@
 3 Faerie Conclave
 3 Piracy Charm
 3 Flooded Strand
-3 Spell Snare
 4 Cryptic Command
 4 Opt
 4 Brineborn Cutthroat
@@ -184,16 +184,16 @@
 1 Llanowar Elves
 1 Nissa, Vastwood Seer
 1 Hornet Queen
-1 Utopia Sprawl
+1 Primal Command
 1 Elvish Mystic
+1 Utopia Sprawl
 1 Spore Frog
-1 Arbor Elf
 1 Trinisphere
-1 Eternal Witness
+1 Arbor Elf
 1 Mwonvuli Acid-Moss
 1 Karn, the Great Creator
 1 Walking Ballista
-1 Primal Command
+1 Eternal Witness
 2 Frostwalk Bastion
 2 Ancient Stirrings
 2 Utopia Sprawl
@@ -209,9 +209,9 @@
 3 Snow-Covered Forest
 3 Ancient Stirrings
 3 Trinisphere
+3 Primal Command
 3 Utopia Sprawl
 3 Arbor Elf
-3 Primal Command
 3 Eternal Witness
 3 Mwonvuli Acid-Moss
 3 Karn, the Great Creator

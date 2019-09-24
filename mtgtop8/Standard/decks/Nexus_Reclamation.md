@@ -78,6 +78,6 @@
 |                    4|[Search for Azcanta](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435226)         |                     |                                                                                                      |
 |                    3|[Arboreal Grazer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461076)            |                     |                                                                                                      |
 |                    4|[Arboreal Grazer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461076)            |                     |                                                                                                      |
-|                    3|[Narset, Parter of Veils](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460988)    |                     |                                                                                                      |
 |                    4|[Narset, Parter of Veils](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460988)    |                     |                                                                                                      |
+|                    3|[Narset, Parter of Veils](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460988)    |                     |                                                                                                      |
 
