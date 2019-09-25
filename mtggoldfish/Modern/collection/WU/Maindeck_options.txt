@@ -1,155 +1,22 @@
-3 Spell Snare
-1 Polluted Delta
-1 Geier Reach Sanitarium
-1 Prismatic Vista
-1 Winds of Abandon
-3 Jace, the Mind Sculptor
-1 Fact or Fiction
-1 Search for Azcanta
-3 Mana Leak
-1 Serum Visions
-2 Serum Visions
-1 Wrath of God
-2 Teferi, Hero of Dominaria
-1 Terminus
-2 Terminus
-3 Hallowed Fountain
-1 Dovin's Veto
-1 Sphinx's Revelation
-4 Celestial Colonnade
-3 Terminus
-3 Teferi, Time Raveler
-3 Plains
-1 Batterskull
-1 Stoneforge Mystic
-2 Stoneforge Mystic
-3 Stoneforge Mystic
-4 Stoneforge Mystic
-7 Island
-1 Spell Pierce
-3 Serum Visions
-4 Serum Visions
-1 Ancestral Vision
-1 Surgical Extraction
-4 Terminus
-1 Blast Zone
-1 Peek
-1 Scalding Tarn
-1 Sword of Fire and Ice
-1 Moorland Haunt
-1 Spell Queller
-2 Spell Queller
-3 Spell Queller
-4 Spell Queller
-1 Giver of Runes
-1 Seachrome Coast
-2 Seachrome Coast
-2 Giver of Runes
-3 Giver of Runes
-3 Seachrome Coast
-4 Giver of Runes
-4 Seachrome Coast
-1 Snow-Covered Plains
-4 Hallowed Fountain
-1 Sword of Feast and Famine
-1 Misty Rainforest
-1 Geist of Saint Traft
-1 Unsettled Mariner
-1 Aether Vial
-1 Deputy of Detention
-1 Mutavault
-1 Thalia, Guardian of Thraben
-2 Deputy of Detention
-2 Aether Vial
-2 Unsettled Mariner
-3 Aether Vial
-4 Aether Vial
-1 Waterlogged Grove
-1 Windswept Heath
-1 Horizon Canopy
-3 Glacial Fortress
-1 Mausoleum Wanderer
-2 Mausoleum Wanderer
-3 Mausoleum Wanderer
-4 Mausoleum Wanderer
-1 God-Eternal Kefnet
-1 Condemn
-1 Settle the Wreckage
-1 Celestial Purge
-1 Polluted Dead
-2 Surgical Extraction
-1 Rest in Peace
-2 Vendilion Clique
-2 Rest in Peace
-1 Gideon, Ally of Zendikar
-2 Gideon, Ally of Zendikar
-1 Elspeth, Sun's Champion
-2 Prismatic Vista
-2 Timely Reinforcements
-2 Logic Knot
-1 Monastery Mentor
-2 Monastery Mentor
-1 Gideon Jura
-1 Gideon of the Trials
-2 Detention Sphere
-2 Gideon of the Trials
-2 Search for Azcanta
-2 Peek
-3 Peek
-1 Arid Mesa
-2 Geist of Saint Traft
-2 Scalding Tarn
-3 Geist of Saint Traft
-3 Scalding Tarn
-4 Scalding Tarn
-4 Narset, Parter of Veils
-1 Restoration Angel
-1 Aven Mindcensor
-1 Delay
-1 Snow-Covered Island
-2 Restoration Angel
-2 Aven Mindcensor
-2 Snow-Covered Island
-2 Snow-Covered Plains
-2 Delay
-3 Snow-Covered Plains
-3 Delay
-3 Snow-Covered Island
-4 Snow-Covered Island
-4 Delay
-4 Snow-Covered Plains
-1 Apostle's Blessing
-1 Spellskite
-1 Colossus Hammer
+1 Sigarda's Aid
 1 Tolaria West
 1 Blighted Agent
-1 Sigarda's Aid
 1 Kor Outfitter
-1 Inkmoth Nexus
+1 Misty Rainforest
 2 Spell Pierce
-2 Inkmoth Nexus
 2 Blighted Agent
-2 Kor Outfitter
+2 Inkmoth Nexus
 2 Sigarda's Aid
 2 Colossus Hammer
-3 Colossus Hammer
-3 Blighted Agent
+2 Kor Outfitter
 3 Sigarda's Aid
+3 Colossus Hammer
+3 Teferi, Time Raveler
+3 Blighted Agent
 3 Inkmoth Nexus
 4 Sigarda's Aid
 4 Blighted Agent
 4 Inkmoth Nexus
-1 Drogskol Captain
-1 Supreme Phantom
-2 Mutavault
-2 Drogskol Captain
-2 Supreme Phantom
-3 Deputy of Detention
-3 Supreme Phantom
-3 Drogskol Captain
-4 Drogskol Captain
-4 Supreme Phantom
-4 Deputy of Detention
 1 Spellstutter Sprite
 1 Nimble Obstructionist
 1 Faerie Seer
@@ -159,39 +26,58 @@
 2 Thalia, Guardian of Thraben
 3 Unsettled Mariner
 3 Spellstutter Sprite
-3 Faerie Seer
 3 Horizon Canopy
+3 Plains
+3 Faerie Seer
 4 Unsettled Mariner
 4 Spellstutter Sprite
-1 Curious Obsession
-1 Chart a Course
-1 Ethereal Armor
-1 Aqueous Form
-1 Daybreak Coronet
-1 Mu Yanling, Sky Dancer
-1 Invisible Stalker
-1 Exhaustion
-1 Vault Skirge
-1 Warkite Marauder
-2 Curious Obsession
-2 Vault Skirge
-2 Invisible Stalker
-2 Aqueous Form
-2 Daybreak Coronet
-2 Exhaustion
-2 Warkite Marauder
-2 Ethereal Armor
-2 Mu Yanling, Sky Dancer
-2 Chart a Course
-3 Vault Skirge
-3 Ethereal Armor
-3 Chart a Course
-3 Invisible Stalker
-3 Curious Obsession
-3 Warkite Marauder
-4 Force of Negation
-4 Invisible Stalker
-4 Curious Obsession
-4 Ethereal Armor
-4 Chart a Course
-4 Glacial Fortress
+1 Field of Ruin
+1 Mausoleum Wanderer
+1 Supreme Phantom
+1 Drogskol Captain
+2 Supreme Phantom
+2 Mutavault
+2 Field of Ruin
+2 Mausoleum Wanderer
+2 Drogskol Captain
+3 Deputy of Detention
+3 Drogskol Captain
+3 Mausoleum Wanderer
+3 Supreme Phantom
+4 Hallowed Fountain
+4 Mausoleum Wanderer
+4 Drogskol Captain
+4 Supreme Phantom
+4 Deputy of Detention
+1 Arid Mesa
+1 Scalding Tarn
+1 Polluted Delta
+1 Snapcaster Mage
+1 Opt
+1 Force of Negation
+1 Detention Sphere
+1 Mana Leak
+1 Spell Snare
+1 Jace, the Mind Sculptor
+1 Oust
+1 Sword of Feast and Famine
+1 Logic Knot
+2 Scalding Tarn
+2 Snapcaster Mage
+2 Opt
+2 Force of Negation
+2 Geist of Saint Traft
+2 Spell Snare
+2 Jace, the Mind Sculptor
+3 Scalding Tarn
+3 Opt
+3 Force of Negation
+3 Geist of Saint Traft
+3 Island
+3 Snapcaster Mage
+4 Scalding Tarn
+4 Opt
+4 Snapcaster Mage
+4 Island
+5 Island
+6 Island

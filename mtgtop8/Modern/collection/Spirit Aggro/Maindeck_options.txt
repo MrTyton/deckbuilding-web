@@ -1,4 +1,10 @@
+1 Geist of Saint Traft
+1 Windswept Heath
+3 Giver of Runes
+1 Breeding Pool
+1 Misty Rainforest
 2 Windswept Heath
+3 Selfless Spirit
 1 Collected Company
 1 Forest
 1 Botanical Sanctum
@@ -9,21 +15,15 @@
 3 Collected Company
 3 Noble Hierarch
 4 Noble Hierarch
-1 Geist of Saint Traft
 1 Phantasmal Image
-1 Horizon Canopy
-3 Selfless Spirit
-1 Giver of Runes
-2 Giver of Runes
 2 Botanical Sanctum
 4 Collected Company
 2 Misty Rainforest
-4 Unsettled Mariner
-3 Giver of Runes
 1 Snow-Covered Plains
 1 Snow-Covered Island
 2 Snow-Covered Island
 2 Snow-Covered Plains
+4 Unsettled Mariner
 2 Phantasmal Image
 2 Teferi, Time Raveler
 4 Hallowed Fountain
@@ -31,25 +31,23 @@
 1 Batterskull
 2 Stoneforge Mystic
 3 Stoneforge Mystic
-1 Force of Negation
 3 Island
-3 Snow-Covered Island
 1 Sword of Fire and Ice
+3 Snow-Covered Island
 1 Remorseful Cleric
 3 Waterlogged Grove
+1 Force of Negation
 3 Windswept Heath
-3 Mutavault
 2 Horizon Canopy
 3 Misty Rainforest
-3 Snow-Covered Plains
 3 Botanical Sanctum
 3 Deputy of Detention
+3 Snow-Covered Plains
 1 Reflector Mage
 2 Force of Negation
+3 Mutavault
 1 Kira, Great Glass-Spinner
 1 Glacial Fortress
-1 Marsh Flats
-1 Polluted Delta
 1 Spectral Sailor
 2 Spectral Sailor
 1 Mana Leak
@@ -57,8 +55,8 @@
 1 Spellstutter Sprite
 1 Unsummon
 1 Vapor Snag
-1 Rune Snag
 1 Jace, Wielder of Mysteries
+1 Rune Snag
 2 Vapor Snag
 2 Mana Leak
 2 Spellstutter Sprite
@@ -76,10 +74,10 @@
 4 Mana Leak
 4 Spellstutter Sprite
 4 Faerie Seer
+4 Spectral Sailor
 4 Unsummon
 4 Island
 4 Rune Snag
-4 Spectral Sailor
 5 Island
 6 Island
 7 Island
@@ -97,6 +95,7 @@
 19 Island
 20 Island
 1 Soulherder
+1 Marsh Flats
 2 Marsh Flats
 1 Silent Clearing
 1 Mystic Gate
@@ -106,6 +105,7 @@
 2 Fiery Islet
 1 Field of Ruin
 1 Unclaimed Territory
+1 Polluted Delta
 2 Field of Ruin
 3 Force of Negation
 1 Sword of Light and Shadow
@@ -113,6 +113,7 @@
 2 Geist of Saint Traft
 2 Polluted Mire
 3 Polluted Mire
+4 Giver of Runes
 1 Birds of Paradise
 4 Botanical Sanctum
 2 Moorland Haunt
@@ -127,22 +128,6 @@
 2 Lavinia, Azorius Renegade
 3 Remorseful Cleric
 4 Waterlogged Grove
-1 Godless Shrine
-1 Squadron Hawk
-1 Force of Virtue
-1 Fatal Push
-1 Empyrean Eagle
-1 Watery Grave
-2 Squadron Hawk
-2 Empyrean Eagle
-2 Force of Virtue
-2 Polluted Delta
-3 Squadron Hawk
-3 Empyrean Eagle
-3 Force of Virtue
-4 Squadron Hawk
-4 Empyrean Eagle
-4 Force of Virtue
 4 Misty Rainforest
 3 Teferi, Time Raveler
 4 Teferi, Time Raveler

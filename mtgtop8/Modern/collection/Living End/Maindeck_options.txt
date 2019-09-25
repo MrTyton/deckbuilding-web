@@ -1,5 +1,3 @@
-1 Curator of Mysteries
-1 Island
 1 Steam Vents
 1 Striped Riverwinder
 2 Steam Vents
@@ -10,9 +8,12 @@
 3 Striped Riverwinder
 4 Striped Riverwinder
 4 Curator of Mysteries
+4 Demonic Dread
+4 Simian Spirit Guide
+3 Spirebluff Canal
 1 Electrodominance
-2 Electrodominance
 2 Mountain
+2 Electrodominance
 3 Electrodominance
 4 Living End
 4 Electrodominance
@@ -33,11 +34,35 @@
 2 As Foretold
 2 Crashing Footfalls
 3 Scalding Tarn
-3 Spirebluff Canal
 3 Crashing Footfalls
 3 As Foretold
 4 Spirebluff Canal
 4 Crashing Footfalls
+1 Misty Rainforest
+1 Ardent Plea
+1 Temple Garden
+1 Glassdust Hulk
+1 Flooded Strand
+1 Force of Negation
+1 Windcaller Aven
+2 Misty Rainforest
+2 Force of Negation
+2 Glassdust Hulk
+2 Ardent Plea
+2 Temple Garden
+2 Flooded Strand
+2 Windcaller Aven
+3 Misty Rainforest
+3 Force of Negation
+3 Ardent Plea
+3 Flooded Strand
+3 Windcaller Aven
+3 Glassdust Hulk
+4 Force of Negation
+4 Flooded Strand
+4 Windcaller Aven
+4 Ardent Plea
+4 Glassdust Hulk
 1 Valley Rannet
 1 Bloodstained Mire
 1 Grove of the Burnwillows
@@ -50,17 +75,30 @@
 2 Finale of Promise
 2 Ancestral Vision
 2 Tolaria West
-1 Snow-Covered Forest
 1 Nurturing Peatland
+1 Snow-Covered Forest
 1 Twisted Abomination
 1 Snow-Covered Swamp
 2 Snow-Covered Swamp
 3 Grove of the Burnwillows
+1 Windswept Heath
+1 Hallowed Fountain
+1 Breeding Pool
+1 Botanical Sanctum
+1 Leyline of Sanctity
+2 Leyline of Sanctity
+3 Leyline of Sanctity
 1 Jund Charm
 1 Kari Zev's Expertise
 1 Dryad Arbor
 2 Jund Charm
 4 Copperline Gorge
+1 Arid Mesa
+2 Arid Mesa
+3 Steam Vents
+3 Arid Mesa
+4 Arid Mesa
+4 Misty Rainforest
 1 Blooming Marsh
 1 Seasoned Pyromancer
 2 Seasoned Pyromancer
@@ -84,15 +122,15 @@
 1 Faithless Looting
 1 Viashino Sandsprinter
 1 Kiki-Jiki, Mirror Breaker
+1 Sacred Foundry
 1 Hollow One
 1 Cathartic Reunion
-1 Sacred Foundry
 1 Path to Exile
 2 Sacred Foundry
-2 Restoration Angel
 2 Snow-Covered Mountain
 2 Inspiring Vantage
 2 Faithless Looting
+2 Restoration Angel
 2 Viashino Sandsprinter
 2 Kiki-Jiki, Mirror Breaker
 2 Cathartic Reunion
@@ -122,34 +160,3 @@
 4 Sacred Foundry
 4 Mountain
 4 Inspiring Vantage
-1 Misty Rainforest
-1 Arid Mesa
-1 Ardent Plea
-1 Temple Garden
-1 Glassdust Hulk
-1 Flooded Strand
-1 Force of Negation
-1 Windcaller Aven
-2 Arid Mesa
-2 Misty Rainforest
-2 Force of Negation
-2 Glassdust Hulk
-2 Ardent Plea
-2 Temple Garden
-2 Flooded Strand
-2 Windcaller Aven
-3 Steam Vents
-3 Arid Mesa
-3 Misty Rainforest
-3 Force of Negation
-3 Ardent Plea
-3 Flooded Strand
-3 Windcaller Aven
-3 Glassdust Hulk
-4 Arid Mesa
-4 Misty Rainforest
-4 Force of Negation
-4 Flooded Strand
-4 Windcaller Aven
-4 Ardent Plea
-4 Glassdust Hulk

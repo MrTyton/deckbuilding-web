@@ -26,3 +26,31 @@
 |                                                                                              |1 [Ray of Revelation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=245288)  |                                                                                         |
 |                                                                                              |2 [Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|                                                                                         |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                         Maindeck Card                                         |*n*<sup>th</sup> copy|                                        Sideboard Card                                         |
+|--------------------:|-----------------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------------|
+|                    1|[Underground Sea](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=886)        |                    1|[Hymn to Tourach](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413634)     |
+|                    1|[Ashiok, Dream Render](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461155)|                    1|[Sorcerous Spyglass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435407)  |
+|                    1|[Rotting Regisaur](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466865)    |                    1|[Ashiok, Dream Render](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461155)|
+|                    1|[Phyrexian Tower](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456844)     |                    1|[Umezawa's Jitte](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=81979)      |
+|                    1|[Dark Ritual](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=651)            |                    1|[Dark Confidant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397731)      |
+|                    1|[Prized Amalgam](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=410014)      |                    2|[Dark Confidant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397731)      |
+|                    1|[Snow-Covered Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121256)  |                    3|[Assassin's Trophy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452902)   |
+|                    2|[Ashiok, Dream Render](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461155)|                    3|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706) |
+|                    2|[Dark Ritual](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=651)            |                     |                                                                                               |
+|                    2|[Prized Amalgam](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=410014)      |                     |                                                                                               |
+|                    2|[Rotting Regisaur](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466865)    |                     |                                                                                               |
+|                    3|[Marsh Flats](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405101)         |                     |                                                                                               |
+|                    3|[Ashiok, Dream Render](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461155)|                     |                                                                                               |
+|                    3|[Prized Amalgam](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=410014)      |                     |                                                                                               |
+|                    3|[Goblin Bombardment](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376349)  |                     |                                                                                               |
+|                    3|[Dark Ritual](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=651)            |                     |                                                                                               |
+|                    3|[Rotting Regisaur](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466865)    |                     |                                                                                               |
+|                    4|[Cabal Therapy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413625)       |                     |                                                                                               |
+|                    4|[Bloodstained Mire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405094)   |                     |                                                                                               |
+|                    4|[Prized Amalgam](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=410014)      |                     |                                                                                               |
+|                    4|[Dark Ritual](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=651)            |                     |                                                                                               |
+|                    4|[Bloodghast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438648)          |                     |                                                                                               |
+

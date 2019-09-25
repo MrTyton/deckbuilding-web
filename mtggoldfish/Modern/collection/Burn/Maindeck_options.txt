@@ -1,27 +1,29 @@
 1 Skullcrack
 2 Skullcrack
+4 Mountain
 2 Fiery Islet
+3 Bloodstained Mire
 1 Light Up the Stage
 2 Light Up the Stage
-4 Mountain
+3 Arid Mesa
 3 Light Up the Stage
 4 Light Up the Stage
 5 Mountain
 6 Mountain
 7 Mountain
-8 Mountain
 3 Fiery Islet
 4 Fiery Islet
+8 Mountain
 1 Shard Volley
 2 Shard Volley
 3 Shard Volley
 9 Mountain
 10 Mountain
 11 Mountain
-3 Arid Mesa
 3 Wooded Foothills
-3 Bloodstained Mire
 12 Mountain
+4 Arid Mesa
+1 Grim Lavamancer
 1 Seal of Fire
 2 Seal of Fire
 3 Seal of Fire
@@ -31,30 +33,28 @@
 3 Fanatical Firebrand
 4 Fanatical Firebrand
 4 Shard Volley
-4 Arid Mesa
-1 Scalding Tarn
-1 Grim Lavamancer
 4 Bloodstained Mire
+1 Scalding Tarn
 4 Wooded Foothills
-1 Snow-Covered Mountain
-2 Snow-Covered Mountain
 2 Scalding Tarn
 3 Skullcrack
-3 Snow-Covered Mountain
-1 Mogg Fanatic
-2 Mogg Fanatic
 2 Grim Lavamancer
 4 Skullcrack
+1 Stomping Ground
+1 Mogg Fanatic
+2 Mogg Fanatic
+1 Snow-Covered Mountain
+2 Snow-Covered Mountain
+3 Snow-Covered Mountain
 1 Soul-Scar Mage
 2 Soul-Scar Mage
 3 Soul-Scar Mage
-1 Bedlam Reveler
-2 Bedlam Reveler
-4 Soul-Scar Mage
 1 Manamorphose
+1 Bedlam Reveler
 1 Crash Through
 1 Lava Dart
 2 Manamorphose
+2 Bedlam Reveler
 2 Lava Dart
 2 Crash Through
 3 Manamorphose
@@ -64,6 +64,7 @@
 4 Snow-Covered Mountain
 4 Manamorphose
 4 Crash Through
+4 Soul-Scar Mage
 5 Snow-Covered Mountain
 6 Snow-Covered Mountain
 7 Snow-Covered Mountain
@@ -72,8 +73,17 @@
 10 Snow-Covered Mountain
 11 Snow-Covered Mountain
 3 Mogg Fanatic
-1 Stomping Ground
 3 Sacred Foundry
+1 Blood Crypt
+1 Blackcleave Cliffs
+1 Bump in the Night
+2 Blackcleave Cliffs
+2 Blood Crypt
+2 Bump in the Night
+3 Blackcleave Cliffs
+3 Bump in the Night
+4 Blackcleave Cliffs
+4 Bump in the Night
 1 Burst Lightning
 2 Burst Lightning
 3 Burst Lightning
@@ -83,6 +93,10 @@
 13 Snow-Covered Mountain
 14 Snow-Covered Mountain
 15 Snow-Covered Mountain
+1 Lightning Skelemental
+2 Lightning Skelemental
+3 Lightning Skelemental
+4 Lightning Skelemental
 4 Mogg Fanatic
 3 Scalding Tarn
 1 Runaway Steam-Kin
@@ -90,15 +104,13 @@
 4 Bedlam Reveler
 1 Chandra, Acolyte of Flame
 2 Chandra, Acolyte of Flame
-1 Windswept Heath
 1 Deflecting Palm
+1 Windswept Heath
 1 Plains
 1 Forked Bolt
 2 Forked Bolt
 1 Abbot of Keral Keep
 2 Abbot of Keral Keep
-1 Risk Factor
-3 Runaway Steam-Kin
 1 Gut Shot
 1 Kiln Fiend
 1 Reckless Charge
@@ -106,6 +118,8 @@
 2 Reckless Charge
 2 Kiln Fiend
 3 Kiln Fiend
+1 Risk Factor
+3 Runaway Steam-Kin
 1 Young Pyromancer
 1 Experimental Frenzy
 1 Mishra's Bauble
@@ -119,13 +133,6 @@
 4 Monastery Mentor
 3 Grim Lavamancer
 4 Grim Lavamancer
-1 Bomat Courier
-1 Ramunap Ruins
-2 Bomat Courier
-2 Ramunap Ruins
-3 Bomat Courier
-3 Ramunap Ruins
-4 Bomat Courier
 1 Goblin Mountaineer
 2 Goblin Mountaineer
 3 Goblin Mountaineer

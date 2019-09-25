@@ -4,23 +4,23 @@
 2 Swamp
 3 Swamp
 1 Blood Crypt
+1 Blackcleave Cliffs
 1 Marsh Flats
 1 Seasoned Pyromancer
 1 Rix Maadi Reveler
 1 Thoughtseize
 1 Inquisition of Kozilek
 1 Bloodstained Mire
-1 Blackcleave Cliffs
+2 Blackcleave Cliffs
 2 Seasoned Pyromancer
 2 Rix Maadi Reveler
 2 Bloodstained Mire
 2 Thoughtseize
-2 Blackcleave Cliffs
 2 Inquisition of Kozilek
+3 Blackcleave Cliffs
 3 Seasoned Pyromancer
 3 Bloodstained Mire
 3 Thoughtseize
-3 Blackcleave Cliffs
 3 Rix Maadi Reveler
 3 Inquisition of Kozilek
 4 Seasoned Pyromancer
@@ -67,101 +67,62 @@
 4 Auntie's Hovel
 4 Mogg War Marshal
 1 Knucklebone Witch
-1 Aether Vial
 1 Tarfire
 1 Munitions Expert
 1 Pashalik Mons
 1 Krenko, Mob Boss
 1 Banefire
+1 Aether Vial
 1 Goblin Matron
 1 Sulfurous Springs
 1 Skirk Prospector
 1 Dragonskull Summit
 2 Pashalik Mons
-2 Aether Vial
 2 Knucklebone Witch
 2 Munitions Expert
 2 Goblin Matron
+2 Aether Vial
 2 Sulfurous Springs
 2 Skirk Prospector
 2 Dragonskull Summit
-3 Aether Vial
 3 Munitions Expert
+3 Aether Vial
 3 Pashalik Mons
 3 Goblin Matron
 3 Sulfurous Springs
 3 Skirk Prospector
-4 Aether Vial
 4 Skirk Prospector
+4 Aether Vial
 4 Goblin Matron
 2 Blood Crypt
 1 Fiery Islet
-1 Lightning Skelemental
+1 Collective Brutality
 1 Dreadhorde Arcanist
+1 Lightning Skelemental
 1 Dark Confidant
 1 Fatal Push
 1 Arid Mesa
-1 Collective Brutality
 2 Dreadhorde Arcanist
-2 Lightning Skelemental
 2 Unearth
 2 Collective Brutality
 2 Dark Confidant
 2 Marsh Flats
 2 Fatal Push
-3 Lightning Skelemental
+2 Lightning Skelemental
 3 Dreadhorde Arcanist
-3 Fatal Push
 3 Marsh Flats
 3 Unearth
 3 Dark Confidant
-4 Lightning Skelemental
+3 Fatal Push
+3 Lightning Skelemental
+4 Blackcleave Cliffs
 4 Dreadhorde Arcanist
 4 Bloodstained Mire
-4 Blackcleave Cliffs
+4 Lightning Skelemental
 4 Dark Confidant
 4 Unearth
 4 Inquisition of Kozilek
 4 Thoughtseize
-1 Seal of Fire
-1 Skewer the Critics
-1 Monastery Swiftspear
-1 Burst Lightning
-1 Soul-Scar Mage
-1 Sunbaked Canyon
-1 Lava Spike
-1 Rift Bolt
-1 Light Up the Stage
-2 Fiery Islet
-2 Seal of Fire
-2 Sunbaked Canyon
-2 Rift Bolt
-2 Lava Spike
-2 Burst Lightning
-2 Soul-Scar Mage
-2 Monastery Swiftspear
-2 Light Up the Stage
-2 Skewer the Critics
-3 Light Up the Stage
-3 Sunbaked Canyon
-3 Fiery Islet
-3 Seal of Fire
-3 Rift Bolt
-3 Monastery Swiftspear
-3 Lava Spike
-3 Skewer the Critics
-3 Burst Lightning
-3 Soul-Scar Mage
-4 Sunbaked Canyon
-4 Fiery Islet
-4 Light Up the Stage
-4 Soul-Scar Mage
-4 Burst Lightning
-4 Lava Spike
-4 Monastery Swiftspear
-4 Skewer the Critics
-4 Rift Bolt
-4 Seal of Fire
 1 Chalice of the Void
 1 Simian Spirit Guide
 2 Simian Spirit Guide
@@ -198,6 +159,45 @@
 4 Goblin Ringleader
 4 Goblin Chieftain
 4 Goblin Warchief
+1 Seal of Fire
+1 Skewer the Critics
+1 Monastery Swiftspear
+1 Burst Lightning
+1 Soul-Scar Mage
+1 Sunbaked Canyon
+1 Lava Spike
+1 Rift Bolt
+1 Light Up the Stage
+2 Fiery Islet
+2 Seal of Fire
+2 Sunbaked Canyon
+2 Rift Bolt
+2 Lava Spike
+2 Burst Lightning
+2 Soul-Scar Mage
+2 Monastery Swiftspear
+2 Light Up the Stage
+2 Skewer the Critics
+3 Light Up the Stage
+3 Sunbaked Canyon
+3 Fiery Islet
+3 Seal of Fire
+3 Rift Bolt
+3 Lava Spike
+3 Monastery Swiftspear
+3 Skewer the Critics
+3 Burst Lightning
+3 Soul-Scar Mage
+4 Skewer the Critics
+4 Sunbaked Canyon
+4 Fiery Islet
+4 Light Up the Stage
+4 Lava Spike
+4 Monastery Swiftspear
+4 Rift Bolt
+4 Burst Lightning
+4 Seal of Fire
+4 Soul-Scar Mage
 1 Walking Ballista
 1 Hazoret the Fervent
 1 Pyretic Ritual
