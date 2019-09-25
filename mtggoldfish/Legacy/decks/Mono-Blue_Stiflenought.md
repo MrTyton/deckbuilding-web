@@ -26,8 +26,8 @@
 
 |*n*<sup>th</sup> copy|                                       Maindeck Card                                       |*n*<sup>th</sup> copy|                                       Sideboard Card                                       |
 |--------------------:|-------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------|
-|                    1|[Misty Rainforest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405102)|                    1|[Hydroblast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3915)         |
 |                    1|[Scroll of Fate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=470604)  |                    1|[Submerge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=21296)          |
+|                    1|[Misty Rainforest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405102)|                    1|[Hydroblast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3915)         |
 |                    1|[Stratus Dancer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394714)  |                    1|[Blue Elemental Blast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=694)|
 |                    2|[Scroll of Fate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=470604)  |                    2|[Blue Elemental Blast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=694)|
 |                    2|[Misty Rainforest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405102)|                    2|[Submerge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=21296)          |
@@ -36,13 +36,13 @@
 |                    3|[Scroll of Fate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=470604)  |                     |                                                                                            |
 |                    4|[Scroll of Fate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=470604)  |                     |                                                                                            |
 |                    4|[Stratus Dancer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394714)  |                     |                                                                                            |
-|                    1|[Scalding Tarn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405107)   |                     |                                                                                            |
 |                    1|[Academy Ruins](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370424)   |                     |                                                                                            |
+|                    1|[Scalding Tarn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405107)   |                     |                                                                                            |
 |                    2|[Scalding Tarn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405107)   |                     |                                                                                            |
 |                    1|[Prismatic Vista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464193) |                     |                                                                                            |
 |                    2|[Prismatic Vista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464193) |                     |                                                                                            |
 |                    1|[Spell Pierce](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425876)    |                     |                                                                                            |
 |                    2|[Spell Pierce](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425876)    |                     |                                                                                            |
-|                    4|[Misty Rainforest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405102)|                     |                                                                                            |
 |                    3|[Misty Rainforest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405102)|                     |                                                                                            |
+|                    4|[Misty Rainforest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405102)|                     |                                                                                            |
 

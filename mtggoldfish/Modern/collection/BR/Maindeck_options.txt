@@ -1,17 +1,63 @@
-3 Mountain
-4 Mountain
-5 Mountain
-6 Mountain
-7 Mountain
-8 Mountain
-2 Lightning Bolt
-3 Lightning Bolt
+1 Field of Ruin
+1 Swamp
+2 Field of Ruin
+2 Swamp
+3 Swamp
+1 Blood Crypt
+1 Marsh Flats
+1 Seasoned Pyromancer
+1 Rix Maadi Reveler
+1 Thoughtseize
+1 Inquisition of Kozilek
+1 Bloodstained Mire
+1 Blackcleave Cliffs
+2 Seasoned Pyromancer
+2 Rix Maadi Reveler
+2 Bloodstained Mire
+2 Thoughtseize
+2 Blackcleave Cliffs
+2 Inquisition of Kozilek
+3 Seasoned Pyromancer
+3 Bloodstained Mire
+3 Thoughtseize
+3 Blackcleave Cliffs
+3 Rix Maadi Reveler
+3 Inquisition of Kozilek
+4 Seasoned Pyromancer
+4 Rix Maadi Reveler
+1 Verdant Catacombs
+1 Chandra, Acolyte of Flame
+1 Kolaghan's Command
+1 Rotting Regisaur
+1 Liliana of the Veil
+1 Gut Shot
+1 Wooded Foothills
+1 Pestilent Spirit
+1 Claim/Fame
+1 Barren Moor
+2 Verdant Catacombs
+2 Rotting Regisaur
+2 Liliana of the Veil
+2 Gut Shot
+2 Claim/Fame
+2 Pestilent Spirit
+2 Kolaghan's Command
+3 Kolaghan's Command
+3 Verdant Catacombs
+3 Claim/Fame
+3 Pestilent Spirit
+3 Liliana of the Veil
+3 Gut Shot
+4 Verdant Catacombs
+4 Pestilent Spirit
+4 Gut Shot
+1 Unearth
 1 Goblin Chieftain
 1 Sling-Gang Lieutenant
 1 Goblin Ringleader
-1 Auntie's Hovel
 1 Goblin Trashmaster
 1 Mogg War Marshal
+1 Auntie's Hovel
 2 Sling-Gang Lieutenant
 2 Mogg War Marshal
 2 Auntie's Hovel
@@ -20,35 +66,102 @@
 3 Auntie's Hovel
 4 Auntie's Hovel
 4 Mogg War Marshal
-1 Goblin Bushwhacker
 1 Knucklebone Witch
+1 Aether Vial
 1 Tarfire
 1 Munitions Expert
 1 Pashalik Mons
 1 Krenko, Mob Boss
 1 Banefire
-1 Aether Vial
 1 Goblin Matron
 1 Sulfurous Springs
 1 Skirk Prospector
 1 Dragonskull Summit
 2 Pashalik Mons
+2 Aether Vial
 2 Knucklebone Witch
 2 Munitions Expert
-2 Aether Vial
 2 Goblin Matron
 2 Sulfurous Springs
 2 Skirk Prospector
 2 Dragonskull Summit
-3 Munitions Expert
 3 Aether Vial
+3 Munitions Expert
 3 Pashalik Mons
 3 Goblin Matron
 3 Sulfurous Springs
 3 Skirk Prospector
-4 Goblin Matron
 4 Aether Vial
 4 Skirk Prospector
+4 Goblin Matron
+2 Blood Crypt
+1 Fiery Islet
+1 Lightning Skelemental
+1 Dreadhorde Arcanist
+1 Dark Confidant
+1 Fatal Push
+1 Arid Mesa
+1 Collective Brutality
+2 Dreadhorde Arcanist
+2 Lightning Skelemental
+2 Unearth
+2 Collective Brutality
+2 Dark Confidant
+2 Marsh Flats
+2 Fatal Push
+3 Lightning Skelemental
+3 Dreadhorde Arcanist
+3 Fatal Push
+3 Marsh Flats
+3 Unearth
+3 Dark Confidant
+4 Lightning Skelemental
+4 Dreadhorde Arcanist
+4 Bloodstained Mire
+4 Blackcleave Cliffs
+4 Dark Confidant
+4 Unearth
+4 Inquisition of Kozilek
+4 Thoughtseize
+1 Seal of Fire
+1 Skewer the Critics
+1 Monastery Swiftspear
+1 Burst Lightning
+1 Soul-Scar Mage
+1 Sunbaked Canyon
+1 Lava Spike
+1 Rift Bolt
+1 Light Up the Stage
+2 Fiery Islet
+2 Seal of Fire
+2 Sunbaked Canyon
+2 Rift Bolt
+2 Lava Spike
+2 Burst Lightning
+2 Soul-Scar Mage
+2 Monastery Swiftspear
+2 Light Up the Stage
+2 Skewer the Critics
+3 Light Up the Stage
+3 Sunbaked Canyon
+3 Fiery Islet
+3 Seal of Fire
+3 Rift Bolt
+3 Monastery Swiftspear
+3 Lava Spike
+3 Skewer the Critics
+3 Burst Lightning
+3 Soul-Scar Mage
+4 Sunbaked Canyon
+4 Fiery Islet
+4 Light Up the Stage
+4 Soul-Scar Mage
+4 Burst Lightning
+4 Lava Spike
+4 Monastery Swiftspear
+4 Skewer the Critics
+4 Rift Bolt
+4 Seal of Fire
 1 Chalice of the Void
 1 Simian Spirit Guide
 2 Simian Spirit Guide
@@ -66,121 +179,34 @@
 2 Goblin Chieftain
 2 Cavern of Souls
 2 Goblin Trashmaster
-2 Goblin Instigator
-2 Siege-Gang Commander
 2 Goblin Ringleader
+2 Siege-Gang Commander
+2 Goblin Instigator
 2 Goblin Warchief
 3 Warren Instigator
 3 Blood Crypt
+3 Goblin Chieftain
 3 Goblin Instigator
 3 Goblin Warchief
 3 Cavern of Souls
 3 Goblin Ringleader
-3 Goblin Chieftain
 4 Warren Instigator
 4 Blood Crypt
 4 Sling-Gang Lieutenant
-4 Goblin Ringleader
-4 Goblin Chieftain
 4 Goblin Instigator
 4 Cavern of Souls
+4 Goblin Ringleader
+4 Goblin Chieftain
 4 Goblin Warchief
-9 Mountain
-10 Mountain
-11 Mountain
-12 Mountain
-13 Mountain
-14 Mountain
-1 Goblin Guide
-2 Goblin Guide
-3 Goblin Guide
-4 Goblin Guide
-4 Lightning Bolt
-1 Bomat Courier
-1 Legion Loyalist
-1 Foundry Street Denizen
-1 Fanatical Firebrand
-1 Burning-Tree Emissary
-1 Devastating Summons
-1 Reckless Bushwhacker
-1 Ramunap Ruins
-1 Goblin Grenade
-2 Legion Loyalist
-2 Bomat Courier
-2 Foundry Street Denizen
-2 Ramunap Ruins
-2 Goblin Grenade
-2 Devastating Summons
-2 Reckless Bushwhacker
-2 Burning-Tree Emissary
-2 Fanatical Firebrand
-2 Goblin Bushwhacker
-3 Legion Loyalist
-3 Bomat Courier
-3 Fanatical Firebrand
-3 Burning-Tree Emissary
-3 Goblin Grenade
-3 Foundry Street Denizen
-3 Ramunap Ruins
-3 Reckless Bushwhacker
-3 Devastating Summons
-3 Goblin Bushwhacker
-4 Legion Loyalist
-4 Bomat Courier
-4 Burning-Tree Emissary
-4 Foundry Street Denizen
-4 Reckless Bushwhacker
-4 Goblin Bushwhacker
-4 Fanatical Firebrand
-4 Ramunap Ruins
-1 Seal of Fire
-1 Skewer the Critics
-1 Monastery Swiftspear
-1 Burst Lightning
-1 Soul-Scar Mage
-1 Sunbaked Canyon
-1 Lava Spike
-1 Rift Bolt
-1 Light Up the Stage
-2 Fiery Islet
-2 Seal of Fire
-2 Sunbaked Canyon
-2 Rift Bolt
-2 Burst Lightning
-2 Soul-Scar Mage
-2 Monastery Swiftspear
-2 Light Up the Stage
-2 Skewer the Critics
-2 Lava Spike
-3 Sunbaked Canyon
-3 Fiery Islet
-3 Seal of Fire
-3 Rift Bolt
-3 Monastery Swiftspear
-3 Lava Spike
-3 Skewer the Critics
-3 Light Up the Stage
-3 Burst Lightning
-3 Soul-Scar Mage
-4 Sunbaked Canyon
-4 Fiery Islet
-4 Light Up the Stage
-4 Lava Spike
-4 Monastery Swiftspear
-4 Skewer the Critics
-4 Rift Bolt
-4 Burst Lightning
-4 Seal of Fire
-4 Soul-Scar Mage
+1 Walking Ballista
 1 Hazoret the Fervent
 1 Pyretic Ritual
 1 Desperate Ritual
 1 Chandra, Torch of Defiance
 1 Dismember
 1 Abrade
-1 Karn, Scion of Urza
 1 Blood Moon
-1 Walking Ballista
+1 Karn, Scion of Urza
 1 Goblin Rabblemaster
 1 Legion Warboss
 1 Pia and Kiran Nalaar
@@ -189,9 +215,9 @@
 2 Pyretic Ritual
 2 Chandra, Torch of Defiance
 2 Desperate Ritual
-2 Dismember
 2 Blood Moon
 2 Pia and Kiran Nalaar
+2 Dismember
 2 Hazoret the Fervent
 2 Darksteel Citadel
 2 Legion Warboss
@@ -208,5 +234,5 @@
 4 Blood Moon
 15 Mountain
 16 Mountain
-18 Mountain
 17 Mountain
+18 Mountain

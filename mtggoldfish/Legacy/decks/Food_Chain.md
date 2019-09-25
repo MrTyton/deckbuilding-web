@@ -29,3 +29,12 @@
 |1 [Knight of Autumn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452933)  |                                                                                            |1 [Return to Nature](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461102) |
 |                                                                                               |                                                                                            |2 [Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)   |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                       Maindeck Card                                        |*n*<sup>th</sup> copy|                                      Sideboard Card                                      |
+|--------------------:|--------------------------------------------------------------------------------------------|--------------------:|------------------------------------------------------------------------------------------|
+|                    1|[Hydroid Krasis](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457327)   |                    1|[Pithing Needle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129526) |
+|                    2|[Prismatic Vista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464193)  |                    1|[Supreme Verdict](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438776)|
+|                    3|[Swords to Plowshares](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=869)|                    2|[Supreme Verdict](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438776)|
+

@@ -1,7 +1,4 @@
-1 Bloodghast
-1 Carrion Feeder
 2 Swamp
-2 Stitcher's Supplier
 2 Carrion Feeder
 2 Altar of Dementia
 2 Gravecrawler
@@ -15,53 +12,51 @@
 4 Hogaak, Arisen Necropolis
 4 Stitcher's Supplier
 4 Altar of Dementia
-1 Marsh Flats
 1 Polluted Delta
 2 Polluted Delta
 4 Bloodghast
+1 Marsh Flats
+1 Verdant Catacombs
+1 Bloodstained Mire
+2 Bloodstained Mire
 1 Badlands
 2 Badlands
 3 Badlands
 4 Gravecrawler
 2 Marsh Flats
-1 Verdant Catacombs
-1 Bloodstained Mire
-2 Bloodstained Mire
-3 Swamp
-4 Carrion Feeder
 1 Vengevine
 2 Vengevine
 3 Vengevine
 4 Vengevine
 3 Bloodstained Mire
 2 Verdant Catacombs
-3 Marsh Flats
-2 Street Wraith
-3 Mana Confluence
+2 City of Brass
 1 Bayou
 2 Bayou
+3 Swamp
+4 Carrion Feeder
 3 Polluted Delta
-3 Street Wraith
+3 Marsh Flats
+3 Mana Confluence
 3 City of Brass
-4 City of Brass
-3 Careful Study
-4 Marsh Flats
-4 Mana Confluence
 4 Ichorid
+1 Street Wraith
+3 Gemstone Mine
+3 Careful Study
 3 Verdant Catacombs
-4 Bloodstained Mire
+3 Bayou
+4 Marsh Flats
 4 Polluted Delta
+4 City of Brass
+2 Street Wraith
+3 Street Wraith
+4 Mana Confluence
+4 Bloodstained Mire
+4 Verdant Catacombs
 1 Scrubland
 1 Entomb
 2 Scrubland
-3 Bayou
-4 Street Wraith
-1 Anger
-4 Verdant Catacombs
-2 Entomb
-3 Entomb
 4 Careful Study
-4 Entomb
 1 Hedron Crab
 1 Underground Sea
 2 Underground Sea
@@ -69,14 +64,21 @@
 3 Underground Sea
 3 Hedron Crab
 4 Hedron Crab
-1 Undiscovered Paradise
+1 Anger
+2 Entomb
+3 Entomb
+4 Golgari Thug
 1 Creeping Chill
 2 Creeping Chill
 3 Creeping Chill
 4 Creeping Chill
-4 Golgari Thug
+4 Entomb
+4 Street Wraith
+1 Undiscovered Paradise
+4 Breakthrough
 4 Putrid Imp
 1 Thoughtseize
+1 Lotus Petal
 1 Karakas
 1 Phyrexian Tower
 2 Thoughtseize
@@ -86,5 +88,4 @@
 2 Insolent Neonate
 2 Blackcleave Cliffs
 3 Insolent Neonate
-4 Breakthrough
 4 Gemstone Mine

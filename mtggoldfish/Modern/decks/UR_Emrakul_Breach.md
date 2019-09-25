@@ -22,3 +22,17 @@
 |1 [Grim Lavamancer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430589)|2 [Blood Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45386)|3 [Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)             |3 [Chandra, Awakened Inferno](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466881)|3 [Anger of the Gods](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438682)|
 |                                                                                            |                                                                                      |3 [Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|                                                                                                      |                                                                                              |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                       Maindeck Card                                       |*n*<sup>th</sup> copy|                                       Sideboard Card                                       |
+|--------------------:|-------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------|
+|                    1|[Archmage's Charm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463989)|                    1|[Dragon's Claw](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129527)    |
+|                    1|[Flooded Strand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405098)  |                    1|[Izzet Staticaster](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=253638)|
+|                    1|[Polluted Delta](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405104)  |                    1|[Magmatic Sinkhole](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464084)|
+|                    1|[Izzet Charm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=338413)     |                    2|[Dragon's Claw](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129527)    |
+|                    2|[Archmage's Charm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463989)|                     |                                                                                            |
+|                    2|[Flooded Strand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405098)  |                     |                                                                                            |
+|                    3|[Steam Vents](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405109)     |                     |                                                                                            |
+|                    4|[Steam Vents](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405109)     |                     |                                                                                            |
+

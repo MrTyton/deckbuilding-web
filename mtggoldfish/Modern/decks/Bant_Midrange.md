@@ -35,8 +35,8 @@
 |--------------------:|-----------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
 |                    1|[Sword of Fire and Ice](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=46429)|                    1|[Cleansing Nova](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447145)     |
 |                    1|[Temple Garden](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405112)       |                    1|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|
-|                    1|[Windswept Heath](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405115)     |                    2|[Collector Ouphe](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464107)    |
-|                    2|[Windswept Heath](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405115)     |                    2|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|
+|                    1|[Windswept Heath](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405115)     |                    2|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|
+|                    2|[Windswept Heath](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405115)     |                    2|[Collector Ouphe](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464107)    |
 |                    4|[Snapcaster Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=227676)     |                     |                                                                                              |
 |                    4|[Spell Queller](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414494)       |                     |                                                                                              |
 
