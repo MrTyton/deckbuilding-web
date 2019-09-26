@@ -1,5 +1,4 @@
 2 City of Brass
-2 Gemstone Mine
 3 Golgari Thug
 1 Scalding Tarn
 2 Scalding Tarn
@@ -8,11 +7,12 @@
 1 Insolent Neonate
 2 Insolent Neonate
 3 Insolent Neonate
+2 Gemstone Mine
+2 Blood Crypt
 3 Bloodstained Mire
 1 Breeding Pool
 3 City of Brass
 1 Blast Zone
-2 Blood Crypt
 3 Conflagrate
 1 Fiery Islet
 4 Insolent Neonate
@@ -32,13 +32,13 @@
 1 Overgrown Tomb
 1 Island
 1 Lonely Sandbar
-1 Misty Rainforest
 1 Watery Grave
+1 Misty Rainforest
 2 Polluted Delta
 3 Polluted Delta
 4 Polluted Delta
-1 Forest
 1 Snow-Covered Mountain
+1 Forest
 1 Flooded Strand
 1 Ghost Quarter
 2 Spirebluff Canal
@@ -57,66 +57,9 @@
 2 Crippling Chill
 3 Crippling Chill
 4 Crippling Chill
-1 Stitcher's Supplier
-2 Stitcher's Supplier
-3 Stitcher's Supplier
-4 Stitcher's Supplier
-4 Gemstone Mine
-1 Gruul Spellbreaker
-1 Kiora, Behemoth Beckoner
-1 Domri, Anarch of Bolas
-1 Inferno Titan
-1 Vengevine
-1 Windswept Heath
-1 Bloodbraid Elf
-1 Magus of the Moon
-1 Arbor Elf
-1 Utopia Sprawl
-1 Birds of Paradise
-1 Glorybringer
-1 Kessig Wolf Run
-1 Obstinate Baloth
-2 Gruul Spellbreaker
-2 Domri, Anarch of Bolas
-2 Inferno Titan
-2 Vengevine
-2 Windswept Heath
-2 Bloodbraid Elf
-2 Arbor Elf
-2 Forest
-2 Utopia Sprawl
-2 Birds of Paradise
-2 Magus of the Moon
-2 Kiora, Behemoth Beckoner
-2 Obstinate Baloth
-2 Glorybringer
-3 Gruul Spellbreaker
-3 Magus of the Moon
-3 Kiora, Behemoth Beckoner
-3 Vengevine
-3 Bloodbraid Elf
-3 Forest
-3 Arbor Elf
-3 Utopia Sprawl
-3 Windswept Heath
-3 Stomping Ground
-3 Glorybringer
-4 Gruul Spellbreaker
-4 Forest
-4 Bloodbraid Elf
-4 Vengevine
-4 Magus of the Moon
-4 Arbor Elf
-4 Utopia Sprawl
-4 Windswept Heath
-4 Glorybringer
-5 Forest
-6 Forest
-7 Forest
-8 Forest
+1 Haunted Dead
 1 Glimpse the Unthinkable
 1 Ideas Unbound
-1 Haunted Dead
 2 Watery Grave
 2 Haunted Dead
 2 Ideas Unbound
@@ -128,3 +71,8 @@
 4 Misty Rainforest
 4 Ideas Unbound
 4 Glimpse the Unthinkable
+1 Stitcher's Supplier
+2 Stitcher's Supplier
+3 Stitcher's Supplier
+4 Stitcher's Supplier
+4 Gemstone Mine
