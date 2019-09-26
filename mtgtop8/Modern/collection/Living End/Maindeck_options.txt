@@ -1,4 +1,3 @@
-1 Steam Vents
 1 Striped Riverwinder
 2 Steam Vents
 2 Spirebluff Canal
@@ -11,18 +10,13 @@
 4 Demonic Dread
 4 Simian Spirit Guide
 3 Spirebluff Canal
-1 Electrodominance
-2 Mountain
-2 Electrodominance
-3 Electrodominance
-4 Living End
-4 Electrodominance
 1 Cascade Bluffs
 1 Fiery Islet
 1 Remand
 1 Scalding Tarn
 1 Izzet Charm
 1 As Foretold
+1 Electrodominance
 1 Crashing Footfalls
 1 Tolaria West
 2 Island
@@ -32,31 +26,36 @@
 2 Remand
 2 Izzet Charm
 2 As Foretold
+2 Mountain
 2 Crashing Footfalls
+2 Electrodominance
 3 Scalding Tarn
+3 Electrodominance
 3 Crashing Footfalls
 3 As Foretold
 4 Spirebluff Canal
+4 Living End
 4 Crashing Footfalls
-1 Misty Rainforest
-1 Ardent Plea
+4 Electrodominance
 1 Temple Garden
+1 Misty Rainforest
 1 Glassdust Hulk
 1 Flooded Strand
+1 Ardent Plea
 1 Force of Negation
 1 Windcaller Aven
-2 Misty Rainforest
 2 Force of Negation
 2 Glassdust Hulk
 2 Ardent Plea
 2 Temple Garden
 2 Flooded Strand
+2 Misty Rainforest
 2 Windcaller Aven
-3 Misty Rainforest
 3 Force of Negation
-3 Ardent Plea
 3 Flooded Strand
 3 Windcaller Aven
+3 Misty Rainforest
+3 Ardent Plea
 3 Glassdust Hulk
 4 Force of Negation
 4 Flooded Strand
@@ -64,10 +63,10 @@
 4 Ardent Plea
 4 Glassdust Hulk
 1 Valley Rannet
+1 Faerie Macabre
 1 Bloodstained Mire
 1 Grove of the Burnwillows
 2 Grove of the Burnwillows
-2 Faerie Macabre
 1 Forbidden Orchard
 1 Shriekmaw
 1 Ancestral Vision
@@ -75,14 +74,14 @@
 2 Finale of Promise
 2 Ancestral Vision
 2 Tolaria West
-1 Nurturing Peatland
 1 Snow-Covered Forest
+1 Nurturing Peatland
 1 Twisted Abomination
 1 Snow-Covered Swamp
 2 Snow-Covered Swamp
 3 Grove of the Burnwillows
-1 Windswept Heath
 1 Hallowed Fountain
+1 Windswept Heath
 1 Breeding Pool
 1 Botanical Sanctum
 1 Leyline of Sanctity
@@ -93,21 +92,22 @@
 1 Dryad Arbor
 2 Jund Charm
 4 Copperline Gorge
+1 Seasoned Pyromancer
+1 Blooming Marsh
+2 Faerie Macabre
+2 Seasoned Pyromancer
+2 Bloodstained Mire
+3 Bloodstained Mire
+3 Archfiend of Ifnir
+3 Seasoned Pyromancer
+4 Seasoned Pyromancer
+4 Bloodstained Mire
 1 Arid Mesa
 2 Arid Mesa
 3 Steam Vents
 3 Arid Mesa
 4 Arid Mesa
 4 Misty Rainforest
-1 Blooming Marsh
-1 Seasoned Pyromancer
-2 Seasoned Pyromancer
-2 Bloodstained Mire
-3 Bloodstained Mire
-3 Archfiend of Ifnir
-3 Seasoned Pyromancer
-4 Bloodstained Mire
-4 Seasoned Pyromancer
 1 Cryptic Command
 2 Cryptic Command
 3 Island
@@ -116,47 +116,3 @@
 4 Remand
 4 Scalding Tarn
 4 As Foretold
-1 Restoration Angel
-1 Snow-Covered Mountain
-1 Inspiring Vantage
-1 Faithless Looting
-1 Viashino Sandsprinter
-1 Kiki-Jiki, Mirror Breaker
-1 Sacred Foundry
-1 Hollow One
-1 Cathartic Reunion
-1 Path to Exile
-2 Sacred Foundry
-2 Snow-Covered Mountain
-2 Inspiring Vantage
-2 Faithless Looting
-2 Restoration Angel
-2 Viashino Sandsprinter
-2 Kiki-Jiki, Mirror Breaker
-2 Cathartic Reunion
-2 Path to Exile
-2 Hollow One
-3 Faerie Macabre
-3 Restoration Angel
-3 Mountain
-3 Snow-Covered Mountain
-3 Inspiring Vantage
-3 Viashino Sandsprinter
-3 Cathartic Reunion
-3 Path to Exile
-3 Faithless Looting
-3 Sacred Foundry
-3 Kiki-Jiki, Mirror Breaker
-3 Hollow One
-4 Restoration Angel
-4 Snow-Covered Mountain
-4 Kiki-Jiki, Mirror Breaker
-4 Faerie Macabre
-4 Hollow One
-4 Cathartic Reunion
-4 Path to Exile
-4 Faithless Looting
-4 Viashino Sandsprinter
-4 Sacred Foundry
-4 Mountain
-4 Inspiring Vantage

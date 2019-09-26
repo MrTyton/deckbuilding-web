@@ -29,9 +29,10 @@
 1 Copperline Gorge
 2 Forest
 1 Arid Mesa
+1 Noble Hierarch
+1 Eladamri's Call
 1 Temple Garden
 1 Fauna Shaman
-1 Noble Hierarch
 1 Fire-Lit Thicket
 1 Magus of the Moon
 1 Collector Ouphe
@@ -47,7 +48,6 @@
 1 Impervious Greatwurm
 1 Wooded Foothills
 1 Birds of Paradise
-1 Eladamri's Call
 1 Sacred Foundry
 1 Strangleroot Geist
 1 Surrak, the Hunt Caller
@@ -55,8 +55,8 @@
 1 Cragganwick Cremator
 1 Kessig Wolf Run
 2 Cavern of Souls
-2 Temple Garden
 2 Noble Hierarch
+2 Temple Garden
 2 Copperline Gorge
 2 Steel Leaf Champion
 2 Windswept Heath
@@ -82,7 +82,6 @@
 1 Grove of the Burnwillows
 1 Zhalfirin Void
 1 Everflowing Chalice
-1 Horizon Canopy
 1 Blast Zone
 1 Engineered Explosives
 1 Ancient Stirrings
@@ -97,14 +96,15 @@
 1 Coretapper
 1 Ensnaring Bridge
 1 Surge Node
+1 Horizon Canopy
 1 Karn, the Great Creator
 2 Grove of the Burnwillows
 2 Zhalfirin Void
-2 Inventors' Fair
 2 Everflowing Chalice
+2 Inventors' Fair
 2 Ensnaring Bridge
-2 Mox Opal
 2 Ancient Stirrings
+2 Mox Opal
 2 Blast Zone
 2 Mystic Forge
 2 Karn, the Great Creator
@@ -153,8 +153,8 @@
 1 Infernal Plunge
 2 Wild Cantor
 2 Mountain
-2 Goblin Instigator
 2 Commune with the Gods
+2 Goblin Instigator
 2 Empty the Warrens
 2 Magmatic Insight
 2 Infernal Plunge
@@ -162,7 +162,6 @@
 2 Fecundity
 2 Karplusan Forest
 2 Skirk Prospector
-3 Skirk Prospector
 3 Mountain
 3 Commune with the Gods
 3 Goblin Instigator
@@ -172,9 +171,10 @@
 3 Stomping Ground
 3 Fecundity
 3 Wild Cantor
+3 Skirk Prospector
 4 Stomping Ground
-4 Mogg War Marshal
 4 Skirk Prospector
+4 Mogg War Marshal
 4 Mountain
 4 Goblin Instigator
 4 Empty the Warrens

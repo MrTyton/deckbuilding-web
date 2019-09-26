@@ -1,14 +1,10 @@
-2 Snow-Covered Island
-3 Teferi, Time Raveler
-3 Celestial Colonnade
-5 Island
-6 Island
-1 Spell Queller
 2 Spell Queller
 3 Spell Queller
 4 Spell Queller
-2 Snow-Covered Plains
-2 Vendilion Clique
+3 Spell Snare
+2 Plains
+1 Sword of Fire and Ice
+3 Teferi, Time Raveler
 1 Lightning Helix
 1 Lightning Bolt
 1 Steam Vents
@@ -16,34 +12,37 @@
 2 Lightning Bolt
 3 Lightning Bolt
 4 Lightning Bolt
+1 Sacred Foundry
+2 Steam Vents
+3 Lightning Helix
+3 Scalding Tarn
+2 Snow-Covered Plains
+5 Island
+6 Island
 4 Force of Negation
 3 Snow-Covered Island
 4 Snow-Covered Island
 1 Seachrome Coast
 2 Seachrome Coast
-1 Sacred Foundry
-2 Steam Vents
-3 Lightning Helix
-3 Scalding Tarn
+2 Vendilion Clique
 1 Supreme Verdict
 3 Hallowed Fountain
 3 Seachrome Coast
+4 Scalding Tarn
+1 Mountain
 1 Polluted Delta
 4 Celestial Colonnade
 5 Snow-Covered Island
 6 Snow-Covered Island
 1 Spell Pierce
 4 Seachrome Coast
+1 Spirebluff Canal
 1 Snow-Covered Mountain
 4 Cryptic Command
 1 Sulfur Falls
 1 Arid Mesa
 2 Arid Mesa
-4 Scalding Tarn
-1 Mountain
 1 Dismember
-1 Hieroglyphic Illumination
-3 Mana Leak
 4 Spell Snare
 1 Prismatic Vista
 1 Detention Sphere
@@ -51,18 +50,18 @@
 1 Restoration Angel
 1 On Thin Ice
 2 On Thin Ice
-1 Spirebluff Canal
+2 Spirebluff Canal
+1 Clifftop Retreat
 3 Arid Mesa
 4 Arid Mesa
 4 Lightning Helix
-1 Clifftop Retreat
+1 Inspiring Vantage
+1 Monastery Mentor
 1 Blinkmoth Nexus
 1 Winds of Abandon
 1 Blast Zone
 1 Ojutai's Command
 2 Supreme Verdict
-1 Inspiring Vantage
-2 Spirebluff Canal
 1 Misty Rainforest
 2 Misty Rainforest
 1 Dovin's Veto
@@ -72,6 +71,8 @@
 2 Sulfur Falls
 2 Geist of Saint Traft
 3 Glacial Fortress
+1 Hieroglyphic Illumination
+3 Mana Leak
 1 Giver of Runes
 2 Giver of Runes
 3 Giver of Runes
@@ -82,8 +83,8 @@
 3 Remand
 1 Creeping Tar Pit
 1 Mutavault
-1 Bitterblossom
 1 Spellstutter Sprite
+1 Bitterblossom
 1 Thoughtseize
 1 Fatal Push
 1 Inquisition of Kozilek
@@ -92,8 +93,8 @@
 1 Drowned Catacomb
 1 Godless Shrine
 2 Polluted Delta
-2 Mutavault
 2 Creeping Tar Pit
+2 Mutavault
 2 Spellstutter Sprite
 2 Thoughtseize
 2 Watery Grave

@@ -5,7 +5,6 @@
 1 Shalai, Voice of Plenty
 1 Tocatli Honor Guard
 1 Damping Sphere
-1 Reclamation Sage
 1 Crumble to Dust
 1 Linvala, Keeper of Silence
 1 Eidolon of Rhetoric
@@ -13,6 +12,7 @@
 1 Stormbreath Dragon
 1 Anger of the Gods
 1 Caldera Hellion
+1 Reclamation Sage
 1 Cleansing Nova
 1 Nature's Claim
 2 Nature's Claim
@@ -20,12 +20,12 @@
 1 Ensnaring Bridge
 1 Walking Ballista
 1 Paradox Engine
-1 Mystic Forge
-1 Goblin Cratermaker
-1 Engineered Explosives
-1 Beast Within
-1 Mycosynth Lattice
 1 Welding Jar
+1 Goblin Cratermaker
+1 Mystic Forge
+1 Beast Within
+1 Engineered Explosives
+1 Mycosynth Lattice
 2 Goblin Cratermaker
 2 Welding Jar
 3 Welding Jar
@@ -65,7 +65,7 @@
 1 Deceiver Exarch
 2 Kiki-Jiki, Mirror Breaker
 2 Deceiver Exarch
-3 Kiki-Jiki, Mirror Breaker
-4 Kiki-Jiki, Mirror Breaker
-4 Deceiver Exarch
 3 Deceiver Exarch
+4 Deceiver Exarch
+4 Kiki-Jiki, Mirror Breaker
+3 Kiki-Jiki, Mirror Breaker
