@@ -1,10 +1,11 @@
 1 Skullcrack
+2 Fiery Islet
 2 Skullcrack
 3 Bloodstained Mire
-2 Fiery Islet
-3 Wooded Foothills
 3 Arid Mesa
+3 Wooded Foothills
 4 Mountain
+4 Arid Mesa
 1 Light Up the Stage
 1 Bedlam Reveler
 1 Soul-Scar Mage
@@ -35,7 +36,6 @@
 12 Mountain
 4 Bloodstained Mire
 4 Wooded Foothills
-4 Arid Mesa
 1 Kiln Fiend
 2 Kiln Fiend
 3 Kiln Fiend
@@ -43,7 +43,6 @@
 13 Mountain
 2 Bedlam Reveler
 1 Grim Lavamancer
-2 Grim Lavamancer
 1 Reckless Charge
 1 Firebolt
 2 Reckless Charge
@@ -54,6 +53,7 @@
 2 Gut Shot
 3 Gut Shot
 4 Gut Shot
+2 Grim Lavamancer
 1 Runaway Steam-Kin
 1 Tormenting Voice
 1 The Flame of Keld
