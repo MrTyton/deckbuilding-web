@@ -44,13 +44,13 @@
 2 Flame Slash
 2 Emrakul, the Aeons Torn
 2 Through the Breach
-3 Remand
 3 Through the Breach
+3 Remand
 3 Emrakul, the Aeons Torn
 4 Cryptic Command
 4 Remand
-4 Through the Breach
 4 Emrakul, the Aeons Torn
+4 Through the Breach
 1 Young Pyromancer
 1 Pteramander
 1 Force of Negation
@@ -66,100 +66,20 @@
 3 Mana Leak
 4 Pteramander
 4 Thought Scour
-1 Peek
-1 Stubborn Denial
-1 Gut Shot
-1 Lava Dart
-1 Kiln Fiend
-1 Thing in the Ice
-1 Arid Mesa
-1 Manamorphose
-1 Temur Battle Rage
-1 Bedlam Reveler
-1 Mutagenic Growth
-2 Stubborn Denial
-2 Gut Shot
-2 Lava Dart
-2 Temur Battle Rage
-2 Manamorphose
-2 Arid Mesa
-2 Mutagenic Growth
-2 Kiln Fiend
-2 Thing in the Ice
-3 Arid Mesa
-3 Stubborn Denial
-3 Gut Shot
-3 Lava Dart
-3 Thing in the Ice
-3 Kiln Fiend
-3 Temur Battle Rage
-3 Mutagenic Growth
-3 Manamorphose
-4 Lava Dart
-4 Arid Mesa
-4 Gut Shot
-4 Temur Battle Rage
-4 Manamorphose
-4 Thing in the Ice
-4 Stubborn Denial
-4 Kiln Fiend
-4 Mutagenic Growth
-1 Pentad Prism
-1 Repeal
-1 Ghirapur Aether Grid
-1 Engineered Explosives
-1 Paradoxical Outcome
-1 Metallic Rebuke
-1 Arcum's Astrolabe
-1 Ichor Wellspring
-1 Mox Opal
-1 Urza, Lord High Artificer
-1 Sai, Master Thopterist
-1 Mishra's Bauble
-2 Repeal
-2 Metallic Rebuke
-2 Arcum's Astrolabe
-2 Ichor Wellspring
-2 Mox Opal
-2 Paradoxical Outcome
-2 Snow-Covered Mountain
-2 Urza, Lord High Artificer
-2 Pentad Prism
-2 Sai, Master Thopterist
-2 Mishra's Bauble
-2 Engineered Explosives
-3 Ichor Wellspring
-3 Mox Opal
-3 Engineered Explosives
-3 Pentad Prism
-3 Arcum's Astrolabe
-3 Mishra's Bauble
-3 Paradoxical Outcome
-3 Metallic Rebuke
-3 Urza, Lord High Artificer
-4 Pentad Prism
-4 Mishra's Bauble
-4 Urza, Lord High Artificer
-4 Mox Opal
-4 Paradoxical Outcome
-4 Prismatic Vista
-4 Arcum's Astrolabe
-8 Snow-Covered Island
 1 Lonely Sandbar
+1 Shivan Reef
 1 Day's Undoing
 1 Molten Vortex
 1 Swans of Bryn Argoll
 1 Temple of Epiphany
 1 Swiftwater Cliffs
-1 Shivan Reef
 1 Forgotten Cave
-1 Seismic Assault
 1 Treasure Hunt
+1 Seismic Assault
 1 Throes of Chaos
 2 Lonely Sandbar
 2 Molten Vortex
 2 Swans of Bryn Argoll
-2 Temple of Epiphany
 2 Shivan Reef
 2 Swiftwater Cliffs
 2 Forgotten Cave
@@ -167,16 +87,17 @@
 2 Treasure Hunt
 2 Mountain
 2 Day's Undoing
+2 Temple of Epiphany
 2 Seismic Assault
 3 Lonely Sandbar
 3 Mountain
-3 Shivan Reef
 3 Seismic Assault
 3 Molten Vortex
 3 Swans of Bryn Argoll
 3 Swiftwater Cliffs
 3 Temple of Epiphany
 3 Forgotten Cave
+3 Shivan Reef
 3 Treasure Hunt
 4 Lonely Sandbar
 4 Mountain
@@ -189,3 +110,82 @@
 4 Sulfur Falls
 4 Shivan Reef
 5 Mountain
+1 Pentad Prism
+1 Repeal
+1 Ghirapur Aether Grid
+1 Engineered Explosives
+1 Paradoxical Outcome
+1 Metallic Rebuke
+1 Mox Opal
+1 Arcum's Astrolabe
+1 Ichor Wellspring
+1 Urza, Lord High Artificer
+1 Sai, Master Thopterist
+1 Mishra's Bauble
+2 Repeal
+2 Metallic Rebuke
+2 Paradoxical Outcome
+2 Arcum's Astrolabe
+2 Ichor Wellspring
+2 Mox Opal
+2 Snow-Covered Mountain
+2 Urza, Lord High Artificer
+2 Pentad Prism
+2 Sai, Master Thopterist
+2 Mishra's Bauble
+2 Engineered Explosives
+3 Ichor Wellspring
+3 Mox Opal
+3 Engineered Explosives
+3 Pentad Prism
+3 Mishra's Bauble
+3 Paradoxical Outcome
+3 Metallic Rebuke
+3 Arcum's Astrolabe
+3 Urza, Lord High Artificer
+4 Pentad Prism
+4 Mishra's Bauble
+4 Urza, Lord High Artificer
+4 Mox Opal
+4 Paradoxical Outcome
+4 Prismatic Vista
+4 Arcum's Astrolabe
+8 Snow-Covered Island
+1 Peek
+1 Gut Shot
+1 Stubborn Denial
+1 Lava Dart
+1 Kiln Fiend
+1 Thing in the Ice
+1 Arid Mesa
+1 Manamorphose
+1 Temur Battle Rage
+1 Bedlam Reveler
+1 Mutagenic Growth
+2 Gut Shot
+2 Stubborn Denial
+2 Lava Dart
+2 Manamorphose
+2 Arid Mesa
+2 Mutagenic Growth
+2 Temur Battle Rage
+2 Thing in the Ice
+2 Kiln Fiend
+3 Arid Mesa
+3 Stubborn Denial
+3 Gut Shot
+3 Lava Dart
+3 Thing in the Ice
+3 Temur Battle Rage
+3 Mutagenic Growth
+3 Manamorphose
+3 Kiln Fiend
+4 Lava Dart
+4 Arid Mesa
+4 Temur Battle Rage
+4 Manamorphose
+4 Thing in the Ice
+4 Stubborn Denial
+4 Kiln Fiend
+4 Gut Shot
+4 Mutagenic Growth

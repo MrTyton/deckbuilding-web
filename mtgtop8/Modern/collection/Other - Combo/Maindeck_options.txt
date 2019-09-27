@@ -32,6 +32,7 @@
 1 Arid Mesa
 1 Eladamri's Call
 1 Noble Hierarch
+1 Sacred Foundry
 1 Fauna Shaman
 1 Magus of the Moon
 1 Fire-Lit Thicket
@@ -48,7 +49,6 @@
 1 Impervious Greatwurm
 1 Wooded Foothills
 1 Birds of Paradise
-1 Sacred Foundry
 1 Strangleroot Geist
 1 Surrak, the Hunt Caller
 1 Scavenging Ooze
@@ -103,8 +103,8 @@
 2 Everflowing Chalice
 2 Inventors' Fair
 2 Ensnaring Bridge
-2 Ancient Stirrings
 2 Mox Opal
+2 Ancient Stirrings
 2 Blast Zone
 2 Mystic Forge
 2 Karn, the Great Creator
@@ -172,11 +172,11 @@
 3 Fecundity
 3 Wild Cantor
 3 Skirk Prospector
-4 Stomping Ground
-4 Mogg War Marshal
 4 Skirk Prospector
-4 Goblin Instigator
+4 Mogg War Marshal
+4 Stomping Ground
 4 Mountain
+4 Goblin Instigator
 4 Empty the Warrens
 4 Commune with the Gods
 4 Karplusan Forest
@@ -193,8 +193,8 @@
 2 Peek
 2 Opt
 2 Eye of Nowhere
-3 Opt
 3 Peek
+3 Opt
 4 Opt
 4 Peek
 5 Island
