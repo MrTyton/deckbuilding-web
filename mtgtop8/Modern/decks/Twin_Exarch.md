@@ -56,8 +56,8 @@
 |                    3|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)             |                     |                                                                                              |
 |                    3|[Cryptic Command](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438614)    |                     |                                                                                              |
 |                    4|[Remand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=380255)             |                     |                                                                                              |
+|                    4|[Brineborn Cutthroat](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466804)|                     |                                                                                              |
 |                    4|[Misty Rainforest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405102)   |                     |                                                                                              |
 |                    4|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)             |                     |                                                                                              |
 |                    4|[Pestermite](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=139428)         |                     |                                                                                              |
-|                    4|[Brineborn Cutthroat](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466804)|                     |                                                                                              |
 

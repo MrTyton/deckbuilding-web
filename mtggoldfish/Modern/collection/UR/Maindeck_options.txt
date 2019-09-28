@@ -1,33 +1,53 @@
-1 Archmage's Charm
-2 Archmage's Charm
-3 Archmage's Charm
-1 Sulfur Falls
-2 Sulfur Falls
-1 Snow-Covered Mountain
-6 Snow-Covered Island
-1 Serum Visions
-2 Serum Visions
 3 Serum Visions
 4 Serum Visions
+1 Thought Scour
+2 Thought Scour
+1 Faerie Conclave
+1 Logic Knot
+1 Dismember
+2 Faerie Conclave
+2 Logic Knot
+4 Brineborn Cutthroat
+1 Abrade
+1 Force of Negation
+2 Force of Negation
+1 Spell Pierce
+5 Island
+3 Remand
+1 Snow-Covered Mountain
+6 Snow-Covered Island
+1 Prismatic Vista
+2 Prismatic Vista
+2 Sulfur Falls
 3 Flooded Strand
 3 Cryptic Command
 4 Flooded Strand
-1 Thought Scour
-2 Thought Scour
 1 Fact or Fiction
 2 Fact or Fiction
-1 Abrade
-1 Spell Pierce
-4 Steam Vents
-5 Island
-1 Prismatic Vista
-2 Prismatic Vista
-3 Prismatic Vista
-3 Sulfur Falls
-7 Snow-Covered Island
-2 Burst Lightning
 1 Magmatic Sinkhole
 1 Blood Moon
+1 Fiery Islet
+3 Thought Scour
+4 Thought Scour
+1 Izzet Charm
+4 Steam Vents
+4 Remand
+3 Force of Negation
+3 Prismatic Vista
+3 Sulfur Falls
+1 Peek
+1 Thing in the Ice
+2 Thing in the Ice
+3 Thing in the Ice
+1 Manamorphose
+2 Manamorphose
+3 Manamorphose
+4 Manamorphose
+7 Snow-Covered Island
+1 Repeal
+1 Day's Undoing
+2 Day's Undoing
+2 Burst Lightning
 2 Blood Moon
 2 Magmatic Sinkhole
 3 Vendilion Clique
@@ -35,7 +55,16 @@
 2 Polluted Delta
 3 Logic Knot
 3 Polluted Delta
-1 Izzet Charm
+1 Young Pyromancer
+1 Pteramander
+1 Vapor Snag
+2 Young Pyromancer
+2 Vapor Snag
+2 Pteramander
+3 Young Pyromancer
+3 Pteramander
+3 Mana Leak
+4 Pteramander
 1 Flame Slash
 1 Through the Breach
 1 Emrakul, the Aeons Torn
@@ -45,37 +74,49 @@
 2 Emrakul, the Aeons Torn
 2 Through the Breach
 3 Through the Breach
-3 Remand
 3 Emrakul, the Aeons Torn
 4 Cryptic Command
-4 Remand
 4 Emrakul, the Aeons Torn
 4 Through the Breach
-1 Young Pyromancer
-1 Pteramander
-1 Force of Negation
-1 Vapor Snag
-1 Fiery Islet
-2 Young Pyromancer
-2 Vapor Snag
-2 Pteramander
-2 Force of Negation
-3 Young Pyromancer
-3 Pteramander
-3 Thought Scour
-3 Mana Leak
-4 Pteramander
-4 Thought Scour
+1 Gut Shot
+1 Stubborn Denial
+1 Lava Dart
+1 Kiln Fiend
+1 Temur Battle Rage
+1 Bedlam Reveler
+1 Mutagenic Growth
+1 Arid Mesa
+2 Gut Shot
+2 Stubborn Denial
+2 Lava Dart
+2 Arid Mesa
+2 Mutagenic Growth
+2 Temur Battle Rage
+2 Kiln Fiend
+3 Arid Mesa
+3 Stubborn Denial
+3 Gut Shot
+3 Lava Dart
+3 Temur Battle Rage
+3 Mutagenic Growth
+3 Kiln Fiend
+4 Lava Dart
+4 Arid Mesa
+4 Temur Battle Rage
+4 Thing in the Ice
+4 Stubborn Denial
+4 Kiln Fiend
+4 Gut Shot
+4 Mutagenic Growth
 1 Lonely Sandbar
 1 Shivan Reef
-1 Day's Undoing
 1 Molten Vortex
-1 Swans of Bryn Argoll
 1 Temple of Epiphany
 1 Swiftwater Cliffs
 1 Forgotten Cave
-1 Treasure Hunt
 1 Seismic Assault
+1 Swans of Bryn Argoll
+1 Treasure Hunt
 1 Throes of Chaos
 2 Lonely Sandbar
 2 Molten Vortex
@@ -86,7 +127,6 @@
 2 Throes of Chaos
 2 Treasure Hunt
 2 Mountain
-2 Day's Undoing
 2 Temple of Epiphany
 2 Seismic Assault
 3 Lonely Sandbar
@@ -101,7 +141,6 @@
 3 Treasure Hunt
 4 Lonely Sandbar
 4 Mountain
-4 Temple of Epiphany
 4 Swiftwater Cliffs
 4 Swans of Bryn Argoll
 4 Seismic Assault
@@ -109,17 +148,17 @@
 4 Forgotten Cave
 4 Sulfur Falls
 4 Shivan Reef
+4 Temple of Epiphany
 5 Mountain
 1 Pentad Prism
-1 Repeal
 1 Ghirapur Aether Grid
 1 Engineered Explosives
 1 Paradoxical Outcome
 1 Metallic Rebuke
 1 Mox Opal
 1 Arcum's Astrolabe
-1 Ichor Wellspring
 1 Urza, Lord High Artificer
+1 Ichor Wellspring
 1 Sai, Master Thopterist
 1 Mishra's Bauble
 2 Repeal
@@ -138,54 +177,49 @@
 3 Mox Opal
 3 Engineered Explosives
 3 Pentad Prism
+3 Arcum's Astrolabe
 3 Mishra's Bauble
 3 Paradoxical Outcome
 3 Metallic Rebuke
-3 Arcum's Astrolabe
 3 Urza, Lord High Artificer
+4 Arcum's Astrolabe
 4 Pentad Prism
 4 Mishra's Bauble
+4 Prismatic Vista
 4 Urza, Lord High Artificer
 4 Mox Opal
 4 Paradoxical Outcome
-4 Prismatic Vista
-4 Arcum's Astrolabe
 8 Snow-Covered Island
-1 Peek
-1 Gut Shot
-1 Stubborn Denial
-1 Lava Dart
-1 Kiln Fiend
-1 Thing in the Ice
-1 Arid Mesa
-1 Manamorphose
-1 Temur Battle Rage
-1 Bedlam Reveler
-1 Mutagenic Growth
-2 Gut Shot
-2 Stubborn Denial
-2 Lava Dart
-2 Manamorphose
-2 Arid Mesa
-2 Mutagenic Growth
-2 Temur Battle Rage
-2 Thing in the Ice
-2 Kiln Fiend
-3 Arid Mesa
-3 Stubborn Denial
-3 Gut Shot
-3 Lava Dart
-3 Thing in the Ice
-3 Temur Battle Rage
-3 Mutagenic Growth
-3 Manamorphose
-3 Kiln Fiend
-4 Lava Dart
-4 Arid Mesa
-4 Temur Battle Rage
-4 Manamorphose
-4 Thing in the Ice
-4 Stubborn Denial
-4 Kiln Fiend
-4 Gut Shot
-4 Mutagenic Growth
+1 Narset, Parter of Veils
+1 Cascade Bluffs
+1 Augur of Bolas
+1 Misty Rainforest
+2 Narset, Parter of Veils
+2 Misty Rainforest
+3 Narset, Parter of Veils
+4 Narset, Parter of Veils
+4 Archmage's Charm
+6 Island
+7 Island
+8 Island
+9 Island
+1 Finale of Promise
+1 Chart a Course
+1 Arclight Phoenix
+1 Pyromancer Ascension
+1 Sleight of Hand
+1 Baral, Chief of Compliance
+2 Arclight Phoenix
+2 Pyromancer Ascension
+2 Sleight of Hand
+2 Fiery Islet
+2 Chart a Course
+2 Baral, Chief of Compliance
+3 Baral, Chief of Compliance
+3 Arclight Phoenix
+3 Pyromancer Ascension
+3 Chart a Course
+3 Sleight of Hand
+4 Pyromancer Ascension
+4 Chart a Course
+4 Arclight Phoenix

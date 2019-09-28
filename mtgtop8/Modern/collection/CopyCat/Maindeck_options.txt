@@ -20,16 +20,15 @@
 1 Force of Negation
 2 Force of Negation
 1 Plains
-1 Blood Moon
 1 Fiery Islet
 4 Lightning Bolt
 1 Jace, the Mind Sculptor
 1 Waterlogged Grove
-1 Prairie Stream
-1 Eternal Witness
 2 Narset, Parter of Veils
 1 Scalding Tarn
 3 Snow-Covered Island
+1 Prairie Stream
+1 Eternal Witness
 1 Mana Leak
 1 Snapcaster Mage
 2 Hallowed Fountain
@@ -50,6 +49,7 @@
 4 Tireless Tracker
 1 Eladamri's Call
 1 Dovin's Veto
+1 Blood Moon
 1 Glen Elendra Archmage
 1 Sun Titan
 1 Knight of Autumn
@@ -60,36 +60,39 @@
 2 Mana Leak
 2 Scalding Tarn
 2 Jace, the Mind Sculptor
-1 On Thin Ice
-1 Sakura-Tribe Elder
-1 Spellskite
-2 On Thin Ice
-2 Sakura-Tribe Elder
-2 Blood Moon
-3 Sakura-Tribe Elder
-3 On Thin Ice
-3 Blood Moon
-3 Misty Rainforest
-4 Sakura-Tribe Elder
 1 Snow-Covered Swamp
 1 Delay
 1 Lonely Sandbar
 2 Delay
 3 Delay
 4 Delay
+1 Remand
+1 Botanical Sanctum
+1 Arbor Elf
+1 Coiling Oracle
+2 Forest
+2 Remand
+2 Coiling Oracle
+2 Arbor Elf
+3 Remand
+3 Coiling Oracle
+3 Narset, Parter of Veils
+3 Arbor Elf
+4 Coiling Oracle
+4 Arbor Elf
 1 Razorverge Thicket
 1 Horizon Canopy
 1 Grove of the Burnwillows
-1 Voice of Resurgence
 1 Pia and Kiran Nalaar
 1 Sword of Light and Shadow
 1 Seasoned Pyromancer
+1 Voice of Resurgence
 2 Razorverge Thicket
-2 Voice of Resurgence
 2 Wooded Foothills
 2 Seasoned Pyromancer
 2 Stomping Ground
 2 Grove of the Burnwillows
+2 Voice of Resurgence
 3 Voice of Resurgence
 3 Wooded Foothills
 3 Seasoned Pyromancer
@@ -113,8 +116,8 @@
 1 Surgical Extraction
 1 Supreme Verdict
 2 Field of Ruin
-2 Steam Vents
 2 Logic Knot
+2 Steam Vents
 2 Celestial Colonnade
 2 Arid Mesa
 3 Island
@@ -137,17 +140,3 @@
 3 Noble Hierarch
 4 Ephemerate
 4 Noble Hierarch
-1 Remand
-1 Botanical Sanctum
-1 Arbor Elf
-1 Coiling Oracle
-2 Forest
-2 Remand
-2 Coiling Oracle
-2 Arbor Elf
-3 Remand
-3 Narset, Parter of Veils
-3 Arbor Elf
-3 Coiling Oracle
-4 Arbor Elf
-4 Coiling Oracle

@@ -32,8 +32,8 @@
 
 |*n*<sup>th</sup> copy|                                          Maindeck Card                                          |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
 |--------------------:|-------------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
-|                    1|[Mu Yanling, Sky Dancer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466822)|                    1|[Worship](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=25553)             |
-|                    1|[Glacial Fortress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=190562)      |                    1|[Ratchet Bomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370623)       |
+|                    1|[Glacial Fortress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=190562)      |                    1|[Worship](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=25553)             |
+|                    1|[Mu Yanling, Sky Dancer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466822)|                    1|[Ratchet Bomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370623)       |
 |                    1|[Chart a Course](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435200)        |                    1|[Kataki, War's Wage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382190) |
 |                    1|[Curious Obsession](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439692)     |                    1|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)     |
 |                    1|[Invisible Stalker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220041)     |                    1|[Fragmentize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417587)        |

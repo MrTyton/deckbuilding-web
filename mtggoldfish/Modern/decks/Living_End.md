@@ -79,8 +79,8 @@
 |                    2|[Viashino Sandsprinter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464102)   |                    2|[Ravenous Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197537)        |
 |                    3|[Bloodstained Mire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405094)       |                    3|[Fulminator Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397686)      |
 |                    3|[Wooded Foothills](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405116)        |                    4|[Shriekmaw](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220572)            |
-|                    4|[Wooded Foothills](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405116)        |                     |                                                                                                |
 |                    4|[Faerie Macabre](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=201822)          |                     |                                                                                                |
+|                    4|[Wooded Foothills](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405116)        |                     |                                                                                                |
 |                    3|[Shriekmaw](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220572)               |                     |                                                                                                |
 |                    4|[Beast Within](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446158)            |                     |                                                                                                |
 
