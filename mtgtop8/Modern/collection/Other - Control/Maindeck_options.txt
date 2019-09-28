@@ -52,13 +52,13 @@
 4 Polluted Delta
 4 Zur's Weirding
 1 Young Pyromancer
-1 Seismic Assault
 1 Flame Jab
-1 Molten Vortex
 1 Forest
 1 Seasoned Pyromancer
+1 Molten Vortex
 1 Mountain
 1 Forgotten Cave
+1 Seismic Assault
 1 Windswept Heath
 1 Commune with the Gods
 1 Wooded Foothills
@@ -67,12 +67,11 @@
 1 Magmatic Insight
 1 Life from the Loam
 1 Ghost Quarter
+2 Molten Vortex
 2 Ghost Quarter
-2 Seismic Assault
 2 Flame Jab
 2 Forest
 2 Seasoned Pyromancer
-2 Molten Vortex
 2 Magmatic Insight
 2 Mountain
 2 Windswept Heath
@@ -83,16 +82,17 @@
 2 Stomping Ground
 2 Life from the Loam
 2 Commune with the Gods
+2 Seismic Assault
 3 Ghost Quarter
-3 Seismic Assault
-3 Molten Vortex
 3 Blood Moon
 3 Wrenn and Six
 3 Commune with the Gods
 3 Young Pyromancer
+3 Molten Vortex
 3 Magmatic Insight
 3 Forgotten Cave
 3 Life from the Loam
+3 Seismic Assault
 3 Wooded Foothills
 3 Mountain
 4 Ghost Quarter
@@ -141,8 +141,8 @@
 1 Llanowar Elves
 1 Nissa, Vastwood Seer
 1 Karn, the Great Creator
-1 Spore Frog
 1 Elvish Mystic
+1 Spore Frog
 1 Eternal Witness
 1 Arbor Elf
 1 Mwonvuli Acid-Moss
@@ -155,10 +155,10 @@
 2 Frostwalk Bastion
 2 Primal Command
 2 Nissa, Vastwood Seer
-2 Blast Zone
 2 Karn, the Great Creator
 2 Elvish Mystic
 2 Eternal Witness
+2 Blast Zone
 2 Arbor Elf
 2 Utopia Sprawl
 2 Trinisphere

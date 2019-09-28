@@ -1,0 +1,24 @@
+# Mono Black Aggro
+
+#### [Export MTGO List](../collection/Mono%20Black%20Aggro/Mono%20Black%20Aggro.txt)
+#### [Export Arena List](../collection/Mono%20Black%20Aggro/Mono%20Black%20Aggro_arena.txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=2%09Ayara,%20First%20of%20Locthwain%0A4%09Burglar%20Rat%0A3%09Castle%20Locthwain%0A1%09Dreadhorde%20Invasion%0A4%09Gutterbones%0A4%09Knight%20of%20the%20Ebon%20Legion%0A3%09Midnight%20Reaper%0A3%09Murderous%20Rider%0A3%09Order%20of%20Midnight%0A4%09Priest%20of%20Forgotten%20Gods%0A4%09Rankle,%20Master%20of%20Pranks%0A21%09Swamp%0A4%09Yarok's%20Fenlurker&deckside=2%09Davriel,%20Rogue%20Shadowmage%0A3%09Disfigure%0A1%09Dreadhorde%20Invasion%0A2%09Duress%0A2%09Find%20/%20Finality%0A1%09Legion's%20End%0A4%09Noxious%20Grasp)
+# Maindeck
+
+|                                            Creature (23)                                             |                                        Enchantment (1)                                         |                                     Land (21)                                     |       Unknown (15)        |
+|------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|---------------------------|
+|4 [Burglar Rat](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452814)              |1 [Dreadhorde Invasion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461013)|21 [Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)|2 Ayara, First of Locthwain|
+|4 [Gutterbones](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457220)              |                                                                                                |                                                                                   |3 Castle Locthwain         |
+|4 [Knight of the Ebon Legion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466859)|                                                                                                |                                                                                   |3 Murderous Rider          |
+|3 [Midnight Reaper](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452827)          |                                                                                                |                                                                                   |3 Order of Midnight        |
+|4 [Priest of Forgotten Gods](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457227) |                                                                                                |                                                                                   |4 Rankle, Master of Pranks |
+|4 [Yarok's Fenlurker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466877)        |                                                                                                |                                                                                   |                           |
+
+
+# Sideboard
+
+|                                        Enchantment (1)                                         |                                       Instant (7)                                        |                                           Planeswalker (2)                                           |                                       Sorcery (3)                                       |   Unknown (2)   |
+|------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|-----------------|
+|1 [Dreadhorde Invasion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461013)|3 [Disfigure](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442076)    |2 [Davriel, Rogue Shadowmage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461010)|2 [Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)       |2 Find / Finality|
+|                                                                                                |4 [Noxious Grasp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466864)|                                                                                                      |1 [Legion's End](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466860)|                 |
+

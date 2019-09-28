@@ -1,5 +1,4 @@
 4 Stubborn Denial
-2 Lightning Bolt
 1 Godless Shrine
 1 Sacred Foundry
 1 Ranger-Captain of Eos
@@ -19,7 +18,7 @@
 3 Tidehollow Sculler
 4 Tidehollow Sculler
 4 Ranger-Captain of Eos
-2 Serum Visions
+2 Lightning Bolt
 3 Inquisition of Kozilek
 1 Unearth
 2 Unearth
@@ -28,15 +27,14 @@
 4 Marsh Flats
 4 Silent Clearing
 1 Giver of Runes
-1 Path to Exile
-2 Path to Exile
 4 Inquisition of Kozilek
 2 Giver of Runes
 3 Giver of Runes
 4 Giver of Runes
+2 Serum Visions
+1 Path to Exile
+2 Path to Exile
 1 Jace, Vryn's Prodigy
-3 Serum Visions
-4 Serum Visions
 1 Overgrown Tomb
 1 Stomping Ground
 1 Forest
@@ -50,6 +48,8 @@
 4 Verdant Catacombs
 1 Wooded Foothills
 3 Path to Exile
+3 Serum Visions
+4 Serum Visions
 1 Manamorphose
 1 Traverse the Ulvenwald
 1 Assassin's Trophy
@@ -63,8 +63,6 @@
 3 Nurturing Peatland
 4 Traverse the Ulvenwald
 4 Fatal Push
-3 Lightning Bolt
-4 Lightning Bolt
 1 Mutagenic Growth
 1 Become Immense
 2 Mutagenic Growth
@@ -90,9 +88,6 @@
 1 Tireless Tracker
 4 Manamorphose
 4 Nurturing Peatland
-1 Tasigur, the Golden Fang
-2 Tasigur, the Golden Fang
-4 Snapcaster Mage
 1 Monastery Mentor
 1 Wild Nacatl
 1 Windswept Heath
@@ -113,8 +108,10 @@
 2 Dreadhorde Arcanist
 2 Monastery Swiftspear
 3 Soul-Scar Mage
+3 Lightning Bolt
 3 Dreadhorde Arcanist
 3 Monastery Swiftspear
-4 Mutagenic Growth
+4 Lightning Bolt
 4 Dreadhorde Arcanist
+4 Mutagenic Growth
 4 Monastery Swiftspear
