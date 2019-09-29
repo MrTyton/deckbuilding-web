@@ -1,14 +1,22 @@
 1 Temple Garden
 1 Teferi, Time Raveler
 2 Teferi, Time Raveler
-1 Sunpetal Grove
-1 Glacial Fortress
 3 Teferi, Time Raveler
 4 Teferi, Time Raveler
 1 Plains
 2 Hallowed Fountain
 2 Forest
 2 Temple Garden
+1 Sunpetal Grove
+1 Glacial Fortress
+1 Tranquil Cove
+1 Arboreal Grazer
+1 Golgari Guildgate
+1 Selesnya Guildgate
+1 Izzet Guildgate
+2 Arboreal Grazer
+2 Island
+1 Blossoming Sands
 1 Blast Zone
 1 Yarok, the Desecrated
 1 Deputy of Detention
@@ -41,75 +49,83 @@
 3 Oath of Kaya
 1 Tamiyo, Collector of Tales
 2 Temple of Malady
-1 Tranquil Cove
 1 Scapeshift
-1 Golgari Guildgate
-1 Arboreal Grazer
-1 Selesnya Guildgate
-1 Izzet Guildgate
 1 Azorius Guildgate
 2 Scapeshift
 2 Deputy of Detention
-2 Arboreal Grazer
-2 Island
+1 Cavalier of Thorns
 1 Field of Ruin
 1 Memorial to Folly
-1 Cavalier of Thorns
-1 Cast Down
 1 Jungle Hollow
 1 Disfigure
+1 Cast Down
 1 Deathsprout
 1 Liliana, Dreadhorde General
-1 Foul Orchard
 1 Legion's End
+1 Foul Orchard
 1 Dismal Backwater
 1 Woodland Stream
+2 Cavalier of Thorns
 2 Yarok, the Desecrated
 2 Cast Down
-2 Assassin's Trophy
 2 Legion's End
 2 Swamp
-2 Cavalier of Thorns
-3 Assassin's Trophy
+2 Assassin's Trophy
 3 Cavalier of Thorns
+3 Assassin's Trophy
 1 Casualties of War
 1 Sulfur Falls
-1 Tolsimir, Friend to Wolves
 1 Ral's Outburst
+1 Tolsimir, Friend to Wolves
 1 Rootbound Crag
 2 Casualties of War
-2 Angrath's Rampage
 2 Sacred Foundry
 2 Thought Erasure
+2 Angrath's Rampage
 2 Deafening Clarion
 2 Sulfur Falls
 2 Tolsimir, Friend to Wolves
-3 Sulfur Falls
 3 Overgrown Tomb
+3 Sulfur Falls
 3 Deafening Clarion
+1 Castle Vantress
+1 Realm-Cloaked Giant
+1 Plaza of Harmony
+1 Fabled Passage
+1 Once Upon a Time
+1 Boros Guildgate
+2 Fabled Passage
+2 Once Upon a Time
+2 Realm-Cloaked Giant
+3 Once Upon a Time
+3 Arboreal Grazer
+3 Realm-Cloaked Giant
+4 Arboreal Grazer
+4 Once Upon a Time
+4 Realm-Cloaked Giant
 1 Prime Speaker Vannifar
 1 Ashiok, Dream Render
+1 Diligent Excavator
 1 Mox Amber
 1 Fblthp, the Lost
-1 Urza's Ruinous Blast
-1 Diligent Excavator
 1 Kethis, the Hidden Hand
+1 Urza's Ruinous Blast
 1 Lazav, the Multifarious
 2 Temple of Silence
 2 Glacial Fortress
 2 Ashiok, Dream Render
+2 Lazav, the Multifarious
 2 Fblthp, the Lost
 2 Kethis, the Hidden Hand
-2 Lazav, the Multifarious
-2 Diligent Excavator
 2 Tamiyo, Collector of Tales
 2 Urza's Ruinous Blast
 2 Mox Amber
+2 Diligent Excavator
+3 Temple of Silence
 3 Hallowed Fountain
 3 Glacial Fortress
-3 Temple of Silence
-3 Temple of Malady
 3 Watery Grave
+3 Temple of Malady
 3 Urza's Ruinous Blast
 3 Tamiyo, Collector of Tales
 3 Mox Amber
@@ -124,18 +140,17 @@
 4 Kethis, the Hidden Hand
 4 Breeding Pool
 1 Agent of Treachery
-1 Blossoming Sands
 1 Unknown Card
 1 Elvish Reclaimer
 1 Mountain
 1 Drawn from Dreams
-2 Unknown Card
 2 Agent of Treachery
+2 Unknown Card
 2 Elvish Reclaimer
 3 Elvish Reclaimer
 3 Unknown Card
-4 Unknown Card
 4 Elvish Reclaimer
+4 Unknown Card
 1 Elite Guardmage
 1 Dovin's Veto
 1 Knight of Autumn
@@ -145,13 +160,13 @@
 1 Teferi, Hero of Dominaria
 1 Solar Blaze
 1 Expansion / Explosion
-1 Flower / Flourish
 1 Stomping Ground
 1 Captive Audience
 1 Connive / Concoct
 1 Justice Strike
-2 Stomping Ground
+1 Flower / Flourish
 2 Steam Vents
+2 Stomping Ground
 2 Flower / Flourish
 2 Godless Shrine
 4 Gateway Plaza

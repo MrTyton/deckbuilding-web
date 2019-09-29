@@ -2,15 +2,15 @@
 5 Swamp
 1 Vivien Reid
 3 Bond of Flourishing
-4 Wildgrowth Walker
 3 Field of Ruin
 4 Assassin's Trophy
 4 Paradise Druid
+4 Wildgrowth Walker
+8 Forest
 4 Field of Ruin
 1 Golgari Findbroker
-8 Forest
-2 Massacre Girl
 2 Vivien Reid
+2 Massacre Girl
 4 Bond of Flourishing
 1 Liliana, Dreadhorde General
 3 Legion's End
@@ -31,11 +31,6 @@
 11 Forest
 12 Forest
 13 Forest
-1 Vine Mare
-2 Vine Mare
-3 Voracious Hydra
-1 Karn, the Great Creator
-2 Karn, the Great Creator
 1 Rotting Regisaur
 2 Rotting Regisaur
 3 Rotting Regisaur
@@ -44,27 +39,28 @@
 1 Castle Locthwain
 1 Fabled Passage
 1 Murderous Rider
+2 Murderous Rider
+3 Murderous Rider
+4 Murderous Rider
+6 Swamp
 1 Questing Beast
 2 Once Upon a Time
 2 Fabled Passage
-2 Murderous Rider
 2 Questing Beast
 3 Once Upon a Time
-3 Murderous Rider
 3 Questing Beast
 4 Once Upon a Time
-4 Murderous Rider
 4 Questing Beast
-6 Swamp
-1 Cast Down
-2 Cast Down
-1 Knight of the Ebon Legion
+1 Vine Mare
+2 Vine Mare
+3 Voracious Hydra
 1 The Great Henge
+2 The Great Henge
+1 Knight of the Ebon Legion
 1 Spawn of Mayhem
 1 Growth-Chamber Guardian
 1 Rankle, Master of Pranks
 2 Knight of the Ebon Legion
-2 The Great Henge
 2 Spawn of Mayhem
 2 Growth-Chamber Guardian
 3 Knight of the Ebon Legion
@@ -74,28 +70,33 @@
 4 Knight of the Ebon Legion
 4 Spawn of Mayhem
 4 Growth-Chamber Guardian
+1 Karn, the Great Creator
+2 Karn, the Great Creator
 1 Noxious Grasp
 1 Shifting Ceratops
 2 Shifting Ceratops
 3 Shifting Ceratops
+1 Incubation Druid
 1 Casualties of War
 2 Casualties of War
-1 Incubation Druid
-1 Deathsprout
-2 Deathsprout
+1 Cast Down
+2 Cast Down
+3 Vraska, Golgari Queen
 1 Ugin, the Ineffable
 1 Elvish Rejuvenator
 1 Storrev, Devkarin Lich
-1 Garruk, Cursed Huntsman
-1 Castle Garenbrig
-2 Incubation Druid
-2 Garruk, Cursed Huntsman
 1 Ghalta, Primal Hunger
 2 Ghalta, Primal Hunger
+1 Garruk, Cursed Huntsman
+1 Castle Garenbrig
+1 Deathsprout
+2 Incubation Druid
+2 Garruk, Cursed Huntsman
+2 Deathsprout
 1 Cavalier of Thorns
 2 Cavalier of Thorns
-3 Cavalier of Thorns
 3 Find / Finality
+3 Cavalier of Thorns
 3 Casualties of War
 3 Karn, the Great Creator
 3 Ravenous Chupacabra
@@ -103,28 +104,27 @@
 1 Vraska, Relic Seeker
 2 Golgari Findbroker
 2 Vraska, Relic Seeker
-3 Vraska, Golgari Queen
 4 Vraska, Golgari Queen
 4 Shifting Ceratops
-1 Command the Dreadhorde
-1 Unknown Card
-1 Vraska's Contempt
-1 Seekers' Squire
-1 Mausoleum Secrets
-1 Jungle Hollow
-1 Status / Statue
-2 Jungle Hollow
-2 Mausoleum Secrets
-2 Unknown Card
-2 Command the Dreadhorde
-2 Seekers' Squire
-2 Vraska's Contempt
-3 Unknown Card
-3 Jungle Hollow
-3 Seekers' Squire
-3 Vraska's Contempt
-3 Cast Down
-4 Cast Down
-4 Jungle Hollow
-4 Unknown Card
-4 Seekers' Squire
+1 Order of Midnight
+1 Edgewall Innkeeper
+1 Beanstalk Giant
+1 Lovestruck Beast
+1 Foulmire Knight
+1 Lucky Clover
+2 Order of Midnight
+2 Foulmire Knight
+2 Lovestruck Beast
+2 Lucky Clover
+2 Beanstalk Giant
+2 Edgewall Innkeeper
+3 Lucky Clover
+3 Lovestruck Beast
+3 Foulmire Knight
+3 Edgewall Innkeeper
+3 Beanstalk Giant
+4 Edgewall Innkeeper
+4 Lovestruck Beast
+4 Beanstalk Giant
+4 Foulmire Knight
+4 Lucky Clover

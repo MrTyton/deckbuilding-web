@@ -1,15 +1,17 @@
-2 Lightning Strike
 1 Voracious Hydra
 2 Voracious Hydra
 1 Sarkhan the Masterless
 2 Sarkhan the Masterless
 1 Ripjaw Raptor
 2 Ripjaw Raptor
+2 Lightning Strike
 4 Domri, Anarch of Bolas
 1 Rampaging Ferocidon
 2 Rampaging Ferocidon
+4 Shock
 3 Ripjaw Raptor
 4 Ripjaw Raptor
+1 Collision / Colossus
 4 Skarrgan Hellkite
 1 Nullhide Ferox
 2 Nullhide Ferox
@@ -18,44 +20,56 @@
 3 Voracious Hydra
 3 Rampaging Ferocidon
 4 Rampaging Ferocidon
+1 Vivien, Arkbow Ranger
 1 Marauding Raptor
 2 Marauding Raptor
 3 Marauding Raptor
 4 Marauding Raptor
-1 Vivien, Arkbow Ranger
-1 Collision / Colossus
 3 Lava Coil
-4 Shock
-3 Lightning Strike
-1 Banefire
-2 Collision / Colossus
-4 Lava Coil
-2 Vivien, Arkbow Ranger
-1 Chandra, Fire Artisan
-3 Sarkhan the Masterless
-3 Nissa, Who Shakes the World
-1 Shifting Ceratops
 10 Forest
-1 Thorn Lieutenant
-2 Thorn Lieutenant
-3 Thorn Lieutenant
-8 Mountain
 1 Domri's Ambush
 2 Domri's Ambush
+1 Banefire
+2 Vivien, Arkbow Ranger
+2 Collision / Colossus
+4 Lava Coil
+1 Chandra, Fire Artisan
+3 Sarkhan the Masterless
+3 Lightning Strike
+1 Shifting Ceratops
+3 Nissa, Who Shakes the World
 1 Zhur-Taa Goblin
 2 Zhur-Taa Goblin
 3 Zhur-Taa Goblin
+3 Domri's Ambush
 1 Thrashing Brontodon
 1 Thrash / Threat
 2 Thrash / Threat
 3 Thrash / Threat
-3 Legion Warboss
 1 Arch of Orazca
 2 Arch of Orazca
+3 Legion Warboss
+1 Thorn Lieutenant
+2 Thorn Lieutenant
+3 Thorn Lieutenant
+1 Castle Embereth
+1 Bonecrusher Giant
+1 Questing Beast
+1 Pelt Collector
+1 Robber of the Rich
+2 Castle Embereth
+2 Questing Beast
+2 Bonecrusher Giant
+2 Pelt Collector
+2 Robber of the Rich
+3 Questing Beast
+3 Bonecrusher Giant
+3 Robber of the Rich
+3 Pelt Collector
+4 Robber of the Rich
+4 Pelt Collector
 1 God-Eternal Rhonas
-1 Reckless Rage
-4 Lightning Strike
-3 Domri's Ambush
+8 Mountain
 1 Domri, Chaos Bringer
 1 Vivien, Champion of the Wilds
 2 Vivien, Champion of the Wilds
@@ -65,10 +79,6 @@
 1 Incubation Druid
 2 Incubation Druid
 3 Vivien, Arkbow Ranger
-1 Charging Monstrosaur
-2 Charging Monstrosaur
-3 Charging Monstrosaur
-4 Charging Monstrosaur
 2 Chandra, Fire Artisan
 2 Banefire
 4 Nissa, Who Shakes the World
@@ -77,17 +87,24 @@
 1 Cavalier of Thorns
 1 Living Twister
 1 Cavalier of Flame
-2 Cavalier of Thorns
 2 Leafkin Druid
+2 Cavalier of Thorns
 2 Angrath, Captain of Chaos
 2 Cavalier of Flame
 2 Living Twister
-3 Cavalier of Thorns
 3 Leafkin Druid
+3 Cavalier of Thorns
 3 Living Twister
 3 Cavalier of Flame
 4 Leafkin Druid
+1 Charging Monstrosaur
+2 Charging Monstrosaur
+3 Charging Monstrosaur
+4 Charging Monstrosaur
+4 Questing Beast
+4 Bonecrusher Giant
 4 Legion Warboss
+1 Reckless Rage
 1 Nightpack Ambusher
 2 Reckless Rage
 2 Nightpack Ambusher
@@ -96,27 +113,11 @@
 4 Voracious Hydra
 4 Reckless Rage
 1 Once Upon a Time
-1 Castle Embereth
-1 Bonecrusher Giant
-1 Questing Beast
-1 Pelt Collector
-1 Robber of the Rich
 2 Once Upon a Time
-2 Castle Embereth
-2 Bonecrusher Giant
-2 Questing Beast
-2 Pelt Collector
-2 Robber of the Rich
-3 Once Upon a Time
-3 Bonecrusher Giant
-3 Questing Beast
 3 Castle Embereth
-3 Robber of the Rich
-3 Pelt Collector
+3 Once Upon a Time
 4 Once Upon a Time
-4 Robber of the Rich
 4 Zhur-Taa Goblin
-4 Pelt Collector
 1 Kiora, Behemoth Beckoner
 1 Carnage Tyrant
 2 Kiora, Behemoth Beckoner
@@ -126,22 +127,4 @@
 3 Shifting Ceratops
 4 Carnage Tyrant
 4 Shifting Ceratops
-1 Goblin Chainwhirler
-1 Kraul Harpooner
-1 Arclight Phoenix
-1 Unclaimed Territory
-1 Rugged Highlands
-1 Spit Flame
-2 Rugged Highlands
-2 Goblin Chainwhirler
-2 Kraul Harpooner
-2 Arclight Phoenix
-2 Unclaimed Territory
-3 Rugged Highlands
-3 Goblin Chainwhirler
-3 Kraul Harpooner
-3 Unclaimed Territory
-4 Goblin Chainwhirler
-4 Kraul Harpooner
-9 Mountain
-4 Thorn Lieutenant
+4 Lightning Strike
