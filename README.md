@@ -4,11 +4,12 @@
 
 # Standard
 
-|                              A                               |                                   B                                    |                                          C                                           |                            D                             |                                E                                 |
-|--------------------------------------------------------------|------------------------------------------------------------------------|--------------------------------------------------------------------------------------|----------------------------------------------------------|------------------------------------------------------------------|
-|[Bant Ramp](./mtggoldfish/Standard/decks/Bant_Ramp.md)        |[Four-Colors Wolves](./mtggoldfish/Standard/decks/Four-Colors_Wolves.md)|[Jeskai Fires Superfriends](./mtggoldfish/Standard/decks/Jeskai_Fires_Superfriends.md)|[Simic Flash](./mtggoldfish/Standard/decks/Simic_Flash.md)|[Simic Trollgaak](./mtggoldfish/Standard/decks/Simic_Trollgaak.md)|
-|[Boros Feather](./mtggoldfish/Standard/decks/Boros_Feather.md)|[Golgari Midrhenge](./mtggoldfish/Standard/decks/Golgari_Midrhenge.md)  |[Mono-Red Aggro](./mtggoldfish/Standard/decks/Mono-Red_Aggro.md)                      |[Simic Food](./mtggoldfish/Standard/decks/Simic_Food.md)  |                                                                  |
-|[Esper Stax](./mtggoldfish/Standard/decks/Esper_Stax.md)      |[Izzet Phoenix](./mtggoldfish/Standard/decks/Izzet_Phoenix.md)          |[Rakdos Aggro](./mtggoldfish/Standard/decks/Rakdos_Aggro.md)                          |[Simic Ramp](./mtggoldfish/Standard/decks/Simic_Ramp.md)  |                                                                  |
+|                              A                               |                                   B                                    |                                          C                                           |                                D                                 |
+|--------------------------------------------------------------|------------------------------------------------------------------------|--------------------------------------------------------------------------------------|------------------------------------------------------------------|
+|[BRG](./mtggoldfish/Standard/decks/BRG.md)                    |[Esper Stax](./mtggoldfish/Standard/decks/Esper_Stax.md)                |[Jeskai Fires Superfriends](./mtggoldfish/Standard/decks/Jeskai_Fires_Superfriends.md)|[Simic Food](./mtggoldfish/Standard/decks/Simic_Food.md)          |
+|[B](./mtggoldfish/Standard/decks/B.md)                        |[Four-Colors Wolves](./mtggoldfish/Standard/decks/Four-Colors_Wolves.md)|[Mono-Red Aggro](./mtggoldfish/Standard/decks/Mono-Red_Aggro.md)                      |[Simic Ramp](./mtggoldfish/Standard/decks/Simic_Ramp.md)          |
+|[Bant Ramp](./mtggoldfish/Standard/decks/Bant_Ramp.md)        |[Golgari Midrhenge](./mtggoldfish/Standard/decks/Golgari_Midrhenge.md)  |[Rakdos Aggro](./mtggoldfish/Standard/decks/Rakdos_Aggro.md)                          |[Simic Trollgaak](./mtggoldfish/Standard/decks/Simic_Trollgaak.md)|
+|[Boros Feather](./mtggoldfish/Standard/decks/Boros_Feather.md)|[Izzet Phoenix](./mtggoldfish/Standard/decks/Izzet_Phoenix.md)          |[Simic Flash](./mtggoldfish/Standard/decks/Simic_Flash.md)                            |[WUBG](./mtggoldfish/Standard/decks/WUBG.md)                      |
 
 
 # Modern
@@ -82,4 +83,4 @@
 
 
 
-#### Last Updated at 01:38PM on September 29, 2019
+#### Last Updated at 12:44AM on September 30, 2019

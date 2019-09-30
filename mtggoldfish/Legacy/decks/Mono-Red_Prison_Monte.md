@@ -37,8 +37,8 @@
 |                    1|[Red Elemental Blast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=814)          |                    1|[Mycosynth Lattice](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446209)|
 |                    1|[Great Furnace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389542)             |                    1|[Pithing Needle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129526)   |
 |                    2|[Seasoned Pyromancer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464094)       |                    1|[Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)           |
-|                    2|[Simian Spirit Guide](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442137)       |                    2|[Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)           |
-|                    2|[Red Elemental Blast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=814)          |                    2|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)   |
+|                    2|[Red Elemental Blast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=814)          |                    2|[Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)           |
+|                    2|[Simian Spirit Guide](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442137)       |                    2|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)   |
 |                    3|[Seasoned Pyromancer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464094)       |                    1|[Painter's Servant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420607)|
 |                    4|[Painter's Servant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420607)         |                     |                                                                                            |
 

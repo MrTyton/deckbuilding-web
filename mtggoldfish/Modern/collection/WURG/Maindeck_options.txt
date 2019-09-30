@@ -27,8 +27,8 @@
 4 Birds of Paradise
 1 Spell Pierce
 1 Sword of Fire and Ice
-1 Jace, the Mind Sculptor
 1 Spreading Seas
+1 Jace, the Mind Sculptor
 1 On Thin Ice
 2 Spell Pierce
 2 Spreading Seas
@@ -40,17 +40,6 @@
 2 Spell Queller
 3 Spell Queller
 3 Razorverge Thicket
-1 Voice of Resurgence
-1 Risen Reef
-2 Risen Reef
-2 Voice of Resurgence
-2 Temple Garden
-3 Risen Reef
-3 Voice of Resurgence
-4 Voice of Resurgence
-4 Risen Reef
-4 Teferi, Time Raveler
-4 Path to Exile
 1 Chord of Calling
 1 Renegade Rallier
 1 Wooded Foothills
@@ -63,11 +52,11 @@
 1 Giver of Runes
 2 Stomping Ground
 2 Kiki-Jiki, Mirror Breaker
-2 Chord of Calling
 2 Wooded Foothills
 2 Wrenn and Six
 2 Prime Speaker Vannifar
 2 Giver of Runes
+2 Chord of Calling
 3 Restoration Angel
 3 Wrenn and Six
 3 Prime Speaker Vannifar
@@ -75,17 +64,28 @@
 3 Chord of Calling
 4 Giver of Runes
 4 Prime Speaker Vannifar
+1 Voice of Resurgence
+1 Risen Reef
+2 Risen Reef
+2 Voice of Resurgence
+2 Temple Garden
+3 Risen Reef
+3 Voice of Resurgence
+4 Voice of Resurgence
+4 Risen Reef
+4 Teferi, Time Raveler
+4 Path to Exile
 1 Fiery Islet
 1 Horizon Canopy
 1 Selfless Spirit
 1 Empyrean Eagle
 1 Mantis Rider
+1 Mausoleum Wanderer
 1 Collected Company
+1 Plains
 1 Island
 1 Pride of the Clouds
-1 Mausoleum Wanderer
 1 Aven Mimeomancer
-1 Plains
 2 Botanical Sanctum
 2 Pride of the Clouds
 2 Selfless Spirit
@@ -98,9 +98,9 @@
 2 Mantis Rider
 3 Deputy of Detention
 3 Collected Company
-3 Empyrean Eagle
 3 Pride of the Clouds
 3 Mausoleum Wanderer
+3 Empyrean Eagle
 3 Mantis Rider
 3 Selfless Spirit
 4 Empyrean Eagle

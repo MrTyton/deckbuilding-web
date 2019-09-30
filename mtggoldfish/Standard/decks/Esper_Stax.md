@@ -26,3 +26,15 @@
 |                                                                                         |                                                                                                 |2 [The Elderspell](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461016)      |                     |
 |                                                                                         |                                                                                                 |1 [Unmoored Ego](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452962)        |                     |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                            Maindeck Card                                             |*n*<sup>th</sup> copy|                                     Sideboard Card                                     |
+|--------------------:|------------------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------|
+|                    1|[Liliana, Dreadhorde General](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461024)|                    1|[Noxious Grasp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466864)|
+|                    3|Murderous Rider                                                                                       |                    1|[Devout Decree](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466767)|
+|                    4|[Thought Erasure](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452956)            |                    2|[Noxious Grasp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466864)|
+|                     |                                                                                                      |                    2|[Devout Decree](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466767)|
+|                     |                                                                                                      |                    3|[Noxious Grasp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466864)|
+|                     |                                                                                                      |                    3|[Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)        |
+
