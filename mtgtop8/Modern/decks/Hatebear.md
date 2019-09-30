@@ -170,7 +170,7 @@
 |                    1|[Walking Ballista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423848)         |                     |                                                                                                    |
 |                    2|[Ranger-Captain of Eos](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463970)    |                     |                                                                                                    |
 |                    2|[Serra Avenger](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=288762)            |                     |                                                                                                    |
-|                    3|[Restoration Angel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=240096)        |                     |                                                                                                    |
 |                    3|[Ranger-Captain of Eos](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463970)    |                     |                                                                                                    |
+|                    3|[Restoration Angel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=240096)        |                     |                                                                                                    |
 |                   11|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)                   |                     |                                                                                                    |
 

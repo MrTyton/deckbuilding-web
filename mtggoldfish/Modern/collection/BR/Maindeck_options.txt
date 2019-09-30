@@ -6,28 +6,28 @@
 4 Blackcleave Cliffs
 1 Unearth
 2 Blood Crypt
-1 Collective Brutality
 1 Dreadhorde Arcanist
 1 Dark Confidant
 1 Fatal Push
+1 Collective Brutality
 2 Dreadhorde Arcanist
-2 Unearth
-2 Collective Brutality
-2 Dark Confidant
 2 Marsh Flats
+2 Dark Confidant
+2 Collective Brutality
+2 Unearth
 2 Fatal Push
 3 Dreadhorde Arcanist
+3 Marsh Flats
 3 Unearth
 3 Fatal Push
-3 Marsh Flats
 3 Dark Confidant
+4 Inquisition of Kozilek
 4 Dreadhorde Arcanist
 4 Bloodstained Mire
+4 Thoughtseize
 4 Lightning Skelemental
 4 Dark Confidant
 4 Unearth
-4 Inquisition of Kozilek
-4 Thoughtseize
 4 Mountain
 5 Mountain
 6 Mountain
@@ -48,27 +48,27 @@
 4 Auntie's Hovel
 4 Mogg War Marshal
 1 Knucklebone Witch
+1 Aether Vial
 1 Tarfire
 1 Munitions Expert
 1 Pashalik Mons
 1 Krenko, Mob Boss
 1 Banefire
-1 Aether Vial
 1 Goblin Matron
 1 Goblin Bushwhacker
 1 Sulfurous Springs
 1 Skirk Prospector
 1 Dragonskull Summit
 2 Pashalik Mons
+2 Aether Vial
 2 Knucklebone Witch
 2 Munitions Expert
-2 Aether Vial
 2 Goblin Matron
 2 Sulfurous Springs
 2 Skirk Prospector
 2 Dragonskull Summit
-3 Munitions Expert
 3 Aether Vial
+3 Munitions Expert
 3 Pashalik Mons
 3 Goblin Matron
 3 Sulfurous Springs
@@ -160,11 +160,11 @@
 1 Pyretic Ritual
 1 Desperate Ritual
 1 Chandra, Torch of Defiance
+1 Dismember
 1 Legion Warboss
 1 Abrade
 1 Blood Moon
 1 Karn, Scion of Urza
-1 Dismember
 1 Goblin Rabblemaster
 1 Pia and Kiran Nalaar
 1 Darksteel Citadel
@@ -185,8 +185,8 @@
 3 Darksteel Citadel
 3 Blood Moon
 3 Goblin Rabblemaster
-4 Desperate Ritual
 4 Goblin Rabblemaster
+4 Desperate Ritual
 4 Darksteel Citadel
 4 Blood Moon
 9 Mountain
