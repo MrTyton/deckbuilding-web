@@ -77,7 +77,6 @@
 4 Goblin Matron
 4 Skirk Prospector
 1 Snow-Covered Mountain
-1 Mishra's Bauble
 1 Finale of Promise
 1 Searing Blaze
 1 Bump in the Night
@@ -85,6 +84,7 @@
 1 Rift Bolt
 1 Lava Spike
 1 Skewer the Critics
+1 Mishra's Bauble
 1 Goblin Guide
 2 Snow-Covered Mountain
 2 Fiery Islet
@@ -92,12 +92,12 @@
 2 Mishra's Bauble
 2 Finale of Promise
 2 Searing Blaze
+2 Skewer the Critics
 2 Goblin Guide
 2 Lava Spike
 2 Bump in the Night
 2 Arid Mesa
 2 Monastery Swiftspear
-2 Skewer the Critics
 3 Snow-Covered Mountain
 3 Fiery Islet
 3 Rift Bolt
@@ -107,8 +107,8 @@
 3 Monastery Swiftspear
 3 Bump in the Night
 3 Skewer the Critics
-3 Mishra's Bauble
 3 Arid Mesa
+3 Mishra's Bauble
 4 Snow-Covered Mountain
 4 Goblin Guide
 4 Lava Spike
@@ -116,8 +116,8 @@
 4 Monastery Swiftspear
 4 Rift Bolt
 4 Mishra's Bauble
-4 Skewer the Critics
 4 Arid Mesa
+4 Skewer the Critics
 4 Bump in the Night
 1 Chalice of the Void
 1 Simian Spirit Guide
@@ -138,8 +138,8 @@
 2 Goblin Trashmaster
 2 Goblin Ringleader
 2 Siege-Gang Commander
-2 Goblin Instigator
 2 Goblin Warchief
+2 Goblin Instigator
 3 Warren Instigator
 3 Blood Crypt
 3 Goblin Chieftain

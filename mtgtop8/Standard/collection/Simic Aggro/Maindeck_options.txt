@@ -6,7 +6,6 @@
 3 Opt
 2 Unsummon
 6 Forest
-2 Castle Vantress
 1 Nissa, Who Shakes the World
 2 Nissa, Who Shakes the World
 1 Hydroid Krasis
@@ -39,14 +38,17 @@
 4 Leafkin Druid
 4 Nissa, Who Shakes the World
 3 Hydroid Krasis
+2 Castle Vantress
+11 Forest
+1 Castle Garenbrig
+1 Questing Beast
+4 Wicked Wolf
 1 Cavalier of Thorns
 1 Shifting Ceratops
 3 Voracious Hydra
-11 Forest
-1 Castle Garenbrig
+1 Yorvo, Lord of Garenbrig
+12 Forest
 2 Castle Garenbrig
-4 Wicked Wolf
-1 Questing Beast
 1 Arboreal Grazer
 2 Cavalier of Thorns
 2 Arboreal Grazer
@@ -73,6 +75,9 @@
 3 Risen Reef
 3 Quasiduplicate
 4 Risen Reef
+2 Questing Beast
+3 Questing Beast
+4 Questing Beast
 4 Voracious Hydra
 4 Hydroid Krasis
 1 Golden Egg
@@ -87,9 +92,7 @@
 3 Wildborn Preserver
 4 Wildborn Preserver
 9 Island
-1 Yorvo, Lord of Garenbrig
 1 Vivien, Arkbow Ranger
-12 Forest
 13 Forest
 14 Forest
 15 Forest
