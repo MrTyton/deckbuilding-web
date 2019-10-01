@@ -16,7 +16,6 @@
 3 Wild Nacatl
 3 Dark Confidant
 3 Tarmogoyf
-4 Wooded Foothills
 4 Goblin Guide
 4 Hexdrinker
 4 Bloodstained Mire
@@ -25,6 +24,7 @@
 4 Wild Nacatl
 4 Tarmogoyf
 4 Knight of Autumn
+4 Wooded Foothills
 2 Snow-Covered Forest
 1 Birds of Paradise
 2 Birds of Paradise
@@ -65,17 +65,17 @@
 4 Interplanar Beacon
 4 Blood Moon
 1 Flooded Strand
+1 Tireless Tracker
 1 Jace, the Mind Sculptor
 1 Sword of Fire and Ice
 1 Batterskull
 1 Nicol Bolas, the Ravager
-1 Tireless Tracker
 1 Savage Knuckleblade
 1 Polluted Delta
 1 Stoneforge Mystic
+2 Breeding Pool
 2 Jace, the Mind Sculptor
 2 Tireless Tracker
-2 Breeding Pool
 2 Nicol Bolas, the Ravager
 2 Stomping Ground
 2 Savage Knuckleblade
@@ -91,54 +91,54 @@
 4 Windswept Heath
 1 Voice of Resurgence
 2 Voice of Resurgence
-1 Eldritch Evolution
 1 Renegade Rallier
-1 Island
-1 Coiling Oracle
-1 Neoform
-1 Shalai, Voice of Plenty
-1 Reflector Mage
-1 Plains
-1 Saheeli Rai
 1 Noble Hierarch
+1 Reflector Mage
+1 Shalai, Voice of Plenty
+1 Neoform
+1 Eldritch Evolution
+1 Plains
+1 Island
+1 Saheeli Rai
 1 Botanical Sanctum
 1 Kitchen Finks
 1 Horizon Canopy
 1 Oath of Nissa
 1 Eternal Witness
 1 Felidar Guardian
-2 Eldritch Evolution
-2 Coiling Oracle
+1 Coiling Oracle
 2 Reflector Mage
+2 Noble Hierarch
 2 Forest
+2 Coiling Oracle
 2 Saheeli Rai
+2 Eldritch Evolution
 2 Oath of Nissa
 2 Felidar Guardian
-2 Noble Hierarch
-3 Eldritch Evolution
+3 Noble Hierarch
 3 Oath of Nissa
 3 Felidar Guardian
 3 Coiling Oracle
+3 Eldritch Evolution
 3 Saheeli Rai
-3 Noble Hierarch
-4 Saheeli Rai
 4 Oath of Nissa
+4 Saheeli Rai
 4 Felidar Guardian
 4 Coiling Oracle
 1 Izzet Charm
 1 Supreme Verdict
 1 Bring to Light
 1 Glittering Wish
-1 Dovin's Veto
 1 Thought Erasure
 1 Search for Tomorrow
+1 Dovin's Veto
 1 Lightning Helix
 1 Pillar of the Paruns
 1 Kaya's Guile
 1 Farseek
 2 Bring to Light
-2 Glittering Wish
 2 Niv-Mizzet Reborn
+2 Glittering Wish
 2 Pillar of the Paruns
 2 Search for Tomorrow
 2 Farseek
@@ -153,9 +153,8 @@
 4 Bring to Light
 4 Search for Tomorrow
 1 Unclaimed Territory
-1 Waterlogged Grove
-1 Copperline Gorge
 1 Creeping Trailblazer
+1 Copperline Gorge
 1 Fulminator Mage
 1 Incandescent Soulstoke
 1 Risen Reef
@@ -170,6 +169,7 @@
 1 Healer of the Glade
 1 Flamekin Harbinger
 1 Thunderkin Awakener
+1 Waterlogged Grove
 1 Primal Beyond
 1 Fiery Islet
 1 Sunbaked Canyon
@@ -189,11 +189,11 @@
 2 Thunderkin Awakener
 2 Fiery Islet
 3 Fiery Islet
+3 Copperline Gorge
 3 Smokebraider
 3 Voice of Resurgence
 3 Flamekin Harbinger
 3 Cavern of Souls
-3 Copperline Gorge
 3 Primal Beyond
 3 Creeping Trailblazer
 3 Risen Reef
@@ -202,8 +202,8 @@
 3 Thunderkin Awakener
 3 Unclaimed Territory
 4 Smokebraider
-4 Primal Beyond
 4 Copperline Gorge
+4 Primal Beyond
 4 Aether Vial
 4 Flamekin Harbinger
 4 Thunderkin Awakener

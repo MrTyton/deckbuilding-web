@@ -24,3 +24,25 @@
 |                                                                                                       |2 [Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)        |2 Mystical Dispute|
 |                                                                                                       |2 [Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)|1 Wicked Wolf     |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                            Maindeck Card                                            |*n*<sup>th</sup> copy|                                          Sideboard Card                                          |
+|--------------------:|-----------------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------------|
+|                    1|Questing Beast                                                                                       |                    1|[Shifting Ceratops](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466948)      |
+|                    1|[Tolsimir, Friend to Wolves](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461151)|                    1|[Narset, Parter of Veils](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460988)|
+|                    1|Charming Prince                                                                                      |                    1|[Knight of Autumn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452933)       |
+|                    2|[Tolsimir, Friend to Wolves](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461151)|                    2|[Shifting Ceratops](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466948)      |
+|                    2|Charming Prince                                                                                      |                    2|[Knight of Autumn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452933)       |
+|                    2|[Temple of Mystery](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373571)         |                    2|[Narset, Parter of Veils](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460988)|
+|                    2|Questing Beast                                                                                       |                    3|[Knight of Autumn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452933)       |
+|                    2|Once Upon a Time                                                                                     |                     |                                                                                                  |
+|                    2|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)                    |                     |                                                                                                  |
+|                    3|Charming Prince                                                                                      |                     |                                                                                                  |
+|                    3|[Temple of Mystery](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373571)         |                     |                                                                                                  |
+|                    3|Questing Beast                                                                                       |                     |                                                                                                  |
+|                    3|Once Upon a Time                                                                                     |                     |                                                                                                  |
+|                    4|[Temple of Mystery](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373571)         |                     |                                                                                                  |
+|                    4|Charming Prince                                                                                      |                     |                                                                                                  |
+|                    4|Once Upon a Time                                                                                     |                     |                                                                                                  |
+

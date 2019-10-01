@@ -1,46 +1,50 @@
-3 Island
+1 Logic Knot
+1 Dismember
+2 Faerie Conclave
+2 Delver of Secrets
+2 Logic Knot
+3 Delver of Secrets
+4 Delver of Secrets
 1 Spell Pierce
-1 Sulfur Falls
+1 Force of Negation
+2 Force of Negation
+4 Remand
+1 Peek
 1 Prismatic Vista
 2 Prismatic Vista
 1 Snow-Covered Mountain
 6 Snow-Covered Island
 2 Flooded Strand
 3 Flooded Strand
-3 Cryptic Command
 4 Flooded Strand
-3 Remand
-4 Island
 5 Island
 1 Fact or Fiction
 2 Fact or Fiction
-2 Sulfur Falls
-1 Magmatic Sinkhole
 1 Blood Moon
 1 Serum Visions
 2 Serum Visions
 3 Serum Visions
 4 Serum Visions
-1 Thought Scour
-2 Thought Scour
+1 Cascade Bluffs
+1 Misty Rainforest
+2 Misty Rainforest
 1 Izzet Charm
 1 Abrade
-4 Remand
-3 Prismatic Vista
-1 Force of Negation
-2 Force of Negation
+1 Thought Scour
+2 Thought Scour
+1 Fiery Islet
 3 Force of Negation
-4 Steam Vents
-1 Peek
+3 Prismatic Vista
 1 Thing in the Ice
 2 Thing in the Ice
 3 Thing in the Ice
+4 Steam Vents
 1 Manamorphose
 2 Manamorphose
 3 Manamorphose
 4 Manamorphose
-7 Snow-Covered Island
 1 Repeal
+7 Snow-Covered Island
 2 Burst Lightning
 1 Polluted Delta
 2 Polluted Delta
@@ -50,10 +54,23 @@
 2 Magmatic Sinkhole
 3 Vendilion Clique
 3 Sulfur Falls
-1 Flame Slash
+1 Kiki-Jiki, Mirror Breaker
+1 Mystic Sanctuary
+1 Brazen Borrower
+1 Pestermite
+2 Peek
+2 Mountain
+2 Kiki-Jiki, Mirror Breaker
+2 Brazen Borrower
+2 Pestermite
+3 Pestermite
+3 Misty Rainforest
+4 Misty Rainforest
+4 Pestermite
 1 Through the Breach
 1 Emrakul, the Aeons Torn
 1 Desolate Lighthouse
+1 Flame Slash
 2 Izzet Charm
 2 Flame Slash
 2 Emrakul, the Aeons Torn
@@ -78,17 +95,17 @@
 2 Arid Mesa
 2 Mutagenic Growth
 2 Kiln Fiend
-3 Arid Mesa
 3 Stubborn Denial
 3 Gut Shot
 3 Lava Dart
 3 Kiln Fiend
 3 Temur Battle Rage
+3 Arid Mesa
 3 Mutagenic Growth
 4 Lava Dart
-4 Arid Mesa
 4 Temur Battle Rage
 4 Thing in the Ice
+4 Arid Mesa
 4 Stubborn Denial
 4 Kiln Fiend
 4 Gut Shot
@@ -134,13 +151,10 @@
 4 Prismatic Vista
 8 Snow-Covered Island
 1 Narset, Parter of Veils
-1 Cascade Bluffs
 1 Day's Undoing
 1 Augur of Bolas
-1 Misty Rainforest
 2 Narset, Parter of Veils
 2 Day's Undoing
-2 Misty Rainforest
 3 Narset, Parter of Veils
 4 Narset, Parter of Veils
 4 Archmage's Charm
@@ -151,7 +165,6 @@
 1 Finale of Promise
 1 Chart a Course
 1 Arclight Phoenix
-1 Fiery Islet
 1 Pyromancer Ascension
 1 Sleight of Hand
 1 Baral, Chief of Compliance
@@ -167,7 +180,7 @@
 3 Pyromancer Ascension
 3 Chart a Course
 3 Sleight of Hand
-4 Pyromancer Ascension
 4 Thought Scour
+4 Pyromancer Ascension
 4 Chart a Course
 4 Arclight Phoenix
