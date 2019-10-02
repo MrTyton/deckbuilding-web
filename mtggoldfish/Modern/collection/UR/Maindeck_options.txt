@@ -1,22 +1,77 @@
-3 Pestermite
-3 Misty Rainforest
-4 Misty Rainforest
-4 Pestermite
+2 Island
+3 Island
+1 Spirebluff Canal
+1 Scalding Tarn
+2 Scalding Tarn
+3 Scalding Tarn
+4 Scalding Tarn
+1 Lightning Bolt
+1 Steam Vents
+2 Lightning Bolt
+3 Lightning Bolt
+4 Lightning Bolt
+4 Island
+1 Remand
+2 Steam Vents
+1 Opt
+2 Opt
+3 Opt
+4 Opt
+2 Remand
+1 Spell Snare
+2 Spell Snare
+1 Mountain
+1 Cryptic Command
+1 Brineborn Cutthroat
+1 Snapcaster Mage
+2 Snapcaster Mage
+2 Cryptic Command
+2 Brineborn Cutthroat
+3 Brineborn Cutthroat
+3 Snapcaster Mage
+4 Snapcaster Mage
+1 Flooded Strand
+3 Steam Vents
+2 Spirebluff Canal
+3 Spirebluff Canal
+4 Brineborn Cutthroat
+1 Magmatic Sinkhole
+1 Sulfur Falls
+1 Force of Negation
+2 Force of Negation
+3 Remand
+4 Spirebluff Canal
+1 Peek
+5 Island
+3 Cryptic Command
+2 Sulfur Falls
 1 Vendilion Clique
 1 Mana Leak
 2 Vendilion Clique
 2 Mana Leak
 3 Spell Snare
+4 Remand
+1 Cascade Bluffs
+2 Misty Rainforest
 1 Burst Lightning
 1 Archmage's Charm
 2 Archmage's Charm
 3 Archmage's Charm
-1 Flooded Strand
+1 Mystic Sanctuary
+1 Brazen Borrower
+1 Kiki-Jiki, Mirror Breaker
+1 Pestermite
+2 Mountain
+2 Peek
+2 Brazen Borrower
+2 Kiki-Jiki, Mirror Breaker
+2 Pestermite
+3 Pestermite
+3 Misty Rainforest
+4 Misty Rainforest
+4 Pestermite
 1 Spell Pierce
-1 Snow-Covered Island
-2 Snow-Covered Island
-3 Snow-Covered Island
-4 Snow-Covered Island
+1 Polluted Delta
 5 Snow-Covered Island
 1 Faerie Conclave
 1 Logic Knot
@@ -29,26 +84,24 @@
 4 Delver of Secrets
 1 Prismatic Vista
 2 Prismatic Vista
-5 Island
 1 Blood Moon
 1 Thought Scour
 2 Thought Scour
 3 Force of Negation
-1 Thing in the Ice
-2 Thing in the Ice
-3 Thing in the Ice
 1 Snow-Covered Mountain
 3 Prismatic Vista
 6 Snow-Covered Island
+1 Thing in the Ice
+2 Thing in the Ice
+3 Thing in the Ice
 1 Manamorphose
 2 Manamorphose
 3 Manamorphose
 4 Manamorphose
 1 Repeal
-1 Polluted Delta
 2 Polluted Delta
-3 Logic Knot
 3 Polluted Delta
+3 Logic Knot
 1 Fact or Fiction
 2 Fact or Fiction
 2 Blood Moon
@@ -60,27 +113,27 @@
 3 Flooded Strand
 4 Flooded Strand
 1 Stubborn Denial
+1 Kiln Fiend
 1 Gut Shot
 1 Lava Dart
-1 Kiln Fiend
 1 Arid Mesa
 1 Temur Battle Rage
 1 Bedlam Reveler
 1 Mutagenic Growth
 2 Stubborn Denial
 2 Gut Shot
-2 Lava Dart
 2 Temur Battle Rage
+2 Lava Dart
+2 Arid Mesa
 2 Mutagenic Growth
 2 Kiln Fiend
-2 Arid Mesa
 3 Stubborn Denial
-3 Gut Shot
-3 Lava Dart
-3 Kiln Fiend
 3 Temur Battle Rage
 3 Arid Mesa
 3 Mutagenic Growth
+3 Kiln Fiend
+3 Gut Shot
+3 Lava Dart
 4 Lava Dart
 4 Steam Vents
 4 Temur Battle Rage
@@ -90,10 +143,24 @@
 4 Kiln Fiend
 4 Gut Shot
 4 Mutagenic Growth
-1 Serum Visions
-2 Serum Visions
-3 Serum Visions
-4 Serum Visions
+1 Finale of Promise
+1 Chart a Course
+1 Arclight Phoenix
+1 Pyromancer Ascension
+1 Baral, Chief of Compliance
+2 Pyromancer Ascension
+2 Arclight Phoenix
+2 Chart a Course
+2 Baral, Chief of Compliance
+3 Thought Scour
+3 Baral, Chief of Compliance
+3 Pyromancer Ascension
+3 Chart a Course
+3 Arclight Phoenix
+4 Thought Scour
+4 Pyromancer Ascension
+4 Chart a Course
+4 Arclight Phoenix
 1 Pentad Prism
 1 Ghirapur Aether Grid
 1 Engineered Explosives
@@ -107,10 +174,10 @@
 1 Mishra's Bauble
 2 Repeal
 2 Metallic Rebuke
+2 Paradoxical Outcome
 2 Arcum's Astrolabe
 2 Ichor Wellspring
 2 Mox Opal
-2 Paradoxical Outcome
 2 Snow-Covered Mountain
 2 Urza, Lord High Artificer
 2 Pentad Prism
@@ -123,11 +190,11 @@
 3 Arcum's Astrolabe
 3 Mishra's Bauble
 3 Paradoxical Outcome
-3 Metallic Rebuke
 3 Pentad Prism
+3 Metallic Rebuke
 3 Urza, Lord High Artificer
-4 Arcum's Astrolabe
 4 Pentad Prism
+4 Arcum's Astrolabe
 4 Mishra's Bauble
 4 Urza, Lord High Artificer
 4 Mox Opal
@@ -146,28 +213,6 @@
 4 Narset, Parter of Veils
 4 Archmage's Charm
 6 Island
-7 Island
 8 Island
 9 Island
-1 Finale of Promise
-1 Chart a Course
-1 Arclight Phoenix
-1 Pyromancer Ascension
-1 Sleight of Hand
-1 Baral, Chief of Compliance
-2 Pyromancer Ascension
-2 Arclight Phoenix
-2 Sleight of Hand
-2 Chart a Course
-2 Baral, Chief of Compliance
-2 Fiery Islet
-3 Thought Scour
-3 Baral, Chief of Compliance
-3 Pyromancer Ascension
-3 Chart a Course
-3 Arclight Phoenix
-3 Sleight of Hand
-4 Thought Scour
-4 Pyromancer Ascension
-4 Chart a Course
-4 Arclight Phoenix
+7 Island

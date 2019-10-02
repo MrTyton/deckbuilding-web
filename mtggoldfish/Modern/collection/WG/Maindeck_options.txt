@@ -1,9 +1,3 @@
-1 Flickerwisp
-2 Flickerwisp
-3 Flickerwisp
-1 Eldrazi Displacer
-1 Aether Vial
-1 Brushland
 2 Eldrazi Displacer
 2 Aether Vial
 2 Brushland
@@ -11,44 +5,30 @@
 3 Brushland
 3 Aether Vial
 4 Aether Vial
-1 Collector Ouphe
-2 Collector Ouphe
+1 Scavenging Ooze
+1 Voice of Resurgence
+2 Voice of Resurgence
+3 Voice of Resurgence
 4 Voice of Resurgence
-2 Eternal Witness
 1 Verdant Catacombs
+2 Forest
+2 Eternal Witness
 1 Thalia, Heretic Cathar
 1 Sword of Feast and Famine
-1 Birds of Paradise
 1 Gavony Township
+1 Wooded Foothills
 3 Forest
+4 Forest
 1 Vizier of Remedies
+1 Chord of Calling
 1 Devoted Druid
 2 Devoted Druid
+2 Verdant Catacombs
+2 Chord of Calling
+3 Chord of Calling
 3 Devoted Druid
 4 Devoted Druid
-2 Vizier of Remedies
-1 Chord of Calling
-2 Chord of Calling
-2 Verdant Catacombs
-3 Chord of Calling
-1 Wooded Foothills
-4 Forest
-1 Dryad Arbor
-1 Elvish Archdruid
-1 Ezuri, Renegade Leader
-1 Llanowar Elves
-1 Elvish Mystic
-2 Llanowar Elves
-2 Elvish Mystic
-2 Elvish Archdruid
-2 Ezuri, Renegade Leader
-3 Llanowar Elves
-3 Elvish Mystic
-3 Elvish Archdruid
-3 Ezuri, Renegade Leader
-4 Elvish Mystic
-4 Elvish Archdruid
-4 Llanowar Elves
+4 Temple Garden
 1 Snow-Covered Forest
 2 Field of Ruin
 3 Field of Ruin
@@ -79,8 +59,9 @@
 3 Thought-Knot Seer
 3 Eldrazi Temple
 4 Eldrazi Temple
-4 Brushland
 4 Thought-Knot Seer
+4 Brushland
+1 Birds of Paradise
 1 Walking Ballista
 1 Ranger-Captain of Eos
 1 Duskwatch Recruiter
@@ -88,37 +69,10 @@
 1 Militia Bugler
 2 Ranger-Captain of Eos
 2 Militia Bugler
+2 Vizier of Remedies
 3 Eternal Witness
 3 Vizier of Remedies
 4 Vizier of Remedies
-1 Aven Mindcensor
-1 Hexdrinker
-1 Stirring Wildwood
-2 Scavenging Ooze
-2 Aven Mindcensor
-2 Stirring Wildwood
-2 Hexdrinker
-3 Knight of Autumn
-3 Scavenging Ooze
-4 Knight of Autumn
-1 Cavern of Souls
-1 Boreal Druid
-1 Leyline of Abundance
-1 Elvish Clancaller
-1 Finale of Devastation
-2 Leyline of Abundance
-2 Elvish Clancaller
-2 Boreal Druid
-2 Finale of Devastation
-3 Boreal Druid
-3 Finale of Devastation
-3 Elvish Clancaller
-3 Leyline of Abundance
-4 Elvish Clancaller
-4 Finale of Devastation
-4 Leyline of Abundance
-4 Ezuri, Renegade Leader
-4 Boreal Druid
 1 Charming Prince
 1 Smuggler's Copter
 1 Ephemerate
@@ -126,16 +80,16 @@
 1 Iona, Shield of Emeria
 1 Blade Splicer
 1 Trostani Discordant
-1 Dubious Challenge
 1 Arbor Elf
+1 Dubious Challenge
 1 Mosswort Bridge
 2 Smuggler's Copter
 2 Charming Prince
 2 Ephemerate
+2 Avacyn's Pilgrim
 2 Iona, Shield of Emeria
 2 Emrakul, the Aeons Torn
 2 Arbor Elf
-2 Avacyn's Pilgrim
 2 Blade Splicer
 2 Mosswort Bridge
 2 Trostani Discordant
@@ -152,40 +106,42 @@
 3 Avacyn's Pilgrim
 4 Emrakul, the Aeons Torn
 4 Charming Prince
+4 Dubious Challenge
 4 Smuggler's Copter
 4 Plains
-4 Ephemerate
 4 Mosswort Bridge
 4 Avacyn's Pilgrim
 4 Flickerwisp
-4 Dubious Challenge
+4 Ephemerate
 4 Blade Splicer
+1 Collector Ouphe
 1 Mana Tithe
 2 Thalia, Heretic Cathar
 2 Batterskull
+2 Collector Ouphe
 4 Thalia, Guardian of Thraben
 1 Once Upon a Time
 1 Rancor
 1 Daybreak Coronet
+1 Gryff's Boon
 1 Ethereal Armor
 1 Hyena Umbra
 1 Gladecover Scout
 1 Spirit Link
-1 Slippery Bogle
 1 All That Glitters
 1 Spider Umbra
 1 Spirit Mantle
-1 Gryff's Boon
 1 Cartouche of Solidarity
+1 Slippery Bogle
 2 Once Upon a Time
 2 Slippery Bogle
 2 Gladecover Scout
 2 Rancor
 2 Daybreak Coronet
 2 Cartouche of Solidarity
-2 All That Glitters
 2 Spirit Link
 2 Ethereal Armor
+2 All That Glitters
 2 Gryff's Boon
 2 Hyena Umbra
 2 Spider Umbra
@@ -211,47 +167,63 @@
 1 Dwynen's Elite
 1 Nurturing Peatland
 1 Reclamation Sage
+1 Dryad Arbor
+1 Elvish Archdruid
 1 Pendelhaven
 1 Heritage Druid
 1 Nettle Sentinel
+1 Ezuri, Renegade Leader
+1 Llanowar Elves
+1 Elvish Mystic
 2 Wooded Foothills
+2 Llanowar Elves
+2 Elvish Mystic
+2 Elvish Archdruid
 2 Heritage Druid
 2 Dwynen's Elite
+2 Ezuri, Renegade Leader
 2 Nettle Sentinel
 3 Wooded Foothills
 3 Verdant Catacombs
 3 Heritage Druid
+3 Llanowar Elves
+3 Elvish Mystic
 3 Dwynen's Elite
+3 Elvish Archdruid
+3 Ezuri, Renegade Leader
 3 Nettle Sentinel
 4 Heritage Druid
-4 Chord of Calling
+4 Elvish Archdruid
 4 Dwynen's Elite
+4 Elvish Mystic
+4 Chord of Calling
+4 Llanowar Elves
 4 Nettle Sentinel
 5 Forest
 1 Renegade Rallier
 1 Oblivion Ring
-1 Day of Judgment
-1 Banishing Light
 1 Serra Ascendant
 1 Brought Back
-1 Winds of Abandon
 1 Thraben Inspector
 1 Wrath of God
+1 Day of Judgment
+1 Winds of Abandon
 1 Emeria, the Sky Ruin
 1 Martyr of Sands
 1 Sun Titan
 1 Canopy Vista
+1 Banishing Light
 1 Ranger of Eos
 2 Marsh Flats
 2 Brought Back
 2 Sun Titan
 2 Serra Ascendant
-2 Martyr of Sands
 2 Thraben Inspector
 2 Ranger of Eos
 2 Renegade Rallier
-2 Emeria, the Sky Ruin
+2 Martyr of Sands
 2 Wrath of God
+2 Emeria, the Sky Ruin
 3 Snow-Covered Plains
 3 Marsh Flats
 3 Thraben Inspector

@@ -33,7 +33,7 @@
 |---------------------|-------------|--------------------:|-----------------------------------------------------------------------------------------------|
 |                     |             |                    1|[Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)               |
 |                     |             |                    1|[Faith's Shield](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=262696)      |
+|                     |             |                    2|[Faith's Shield](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=262696)      |
 |                     |             |                    2|[Assassin's Trophy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452902)   |
 |                     |             |                    3|[Collective Brutality](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414380)|
-|                     |             |                    2|[Faith's Shield](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=262696)      |
 
