@@ -1,13 +1,12 @@
-2 Arid Mesa
-2 Skullcrack
+1 Skullcrack
 2 Fiery Islet
 4 Mountain
 1 Light Up the Stage
 2 Light Up the Stage
-3 Arid Mesa
-3 Bloodstained Mire
+2 Skullcrack
 3 Light Up the Stage
 4 Light Up the Stage
+3 Bloodstained Mire
 5 Mountain
 6 Mountain
 7 Mountain
@@ -20,29 +19,26 @@
 1 Shard Volley
 2 Shard Volley
 3 Shard Volley
+3 Arid Mesa
 12 Mountain
-3 Wooded Foothills
 1 Seal of Fire
 2 Seal of Fire
 3 Seal of Fire
 4 Seal of Fire
-4 Arid Mesa
+3 Wooded Foothills
 1 Grim Lavamancer
 1 Fanatical Firebrand
 2 Fanatical Firebrand
 3 Fanatical Firebrand
 4 Fanatical Firebrand
 4 Shard Volley
+4 Arid Mesa
 1 Scalding Tarn
 4 Bloodstained Mire
-2 Scalding Tarn
 4 Wooded Foothills
 2 Grim Lavamancer
 3 Skullcrack
-1 Stomping Ground
-1 Mogg Fanatic
-2 Mogg Fanatic
-4 Skullcrack
+2 Scalding Tarn
 1 Snow-Covered Mountain
 2 Snow-Covered Mountain
 3 Snow-Covered Mountain
@@ -50,10 +46,6 @@
 2 Soul-Scar Mage
 3 Soul-Scar Mage
 4 Soul-Scar Mage
-1 Burst Lightning
-2 Burst Lightning
-3 Burst Lightning
-4 Burst Lightning
 1 Manamorphose
 1 Bedlam Reveler
 1 Crash Through
@@ -63,7 +55,6 @@
 2 Lava Dart
 2 Crash Through
 3 Manamorphose
-3 Bedlam Reveler
 3 Crash Through
 3 Lava Dart
 4 Manamorphose
@@ -76,7 +67,21 @@
 9 Snow-Covered Mountain
 10 Snow-Covered Mountain
 11 Snow-Covered Mountain
+1 Stomping Ground
+1 Mogg Fanatic
+2 Mogg Fanatic
+1 Burst Lightning
+2 Burst Lightning
+3 Burst Lightning
+4 Burst Lightning
+4 Skullcrack
+3 Bedlam Reveler
+4 Lava Dart
+12 Snow-Covered Mountain
+13 Snow-Covered Mountain
+14 Snow-Covered Mountain
 3 Mogg Fanatic
+3 Sacred Foundry
 1 Bump in the Night
 1 Blood Crypt
 1 Blackcleave Cliffs
@@ -87,21 +92,17 @@
 3 Blackcleave Cliffs
 4 Bump in the Night
 4 Blackcleave Cliffs
-4 Lava Dart
-12 Snow-Covered Mountain
-13 Snow-Covered Mountain
-14 Snow-Covered Mountain
 15 Snow-Covered Mountain
 1 Lightning Skelemental
 2 Lightning Skelemental
 3 Lightning Skelemental
 4 Lightning Skelemental
 4 Mogg Fanatic
-3 Scalding Tarn
 1 Runaway Steam-Kin
 2 Runaway Steam-Kin
 4 Bedlam Reveler
-3 Sacred Foundry
+1 Gut Shot
+2 Gut Shot
 1 Windswept Heath
 1 Deflecting Palm
 1 Plains
@@ -109,10 +110,14 @@
 2 Abbot of Keral Keep
 1 Risk Factor
 3 Runaway Steam-Kin
-1 Gut Shot
+1 Seasoned Pyromancer
+1 Blistercoil Weird
+1 Mutagenic Growth
+2 Blistercoil Weird
+2 Mutagenic Growth
+3 Mutagenic Growth
 1 Kiln Fiend
 1 Reckless Charge
-2 Gut Shot
 2 Reckless Charge
 2 Kiln Fiend
 3 Kiln Fiend
@@ -134,6 +139,12 @@
 3 Goblin Mountaineer
 4 Goblin Mountaineer
 4 Sacred Foundry
+1 Leyline of Combustion
+1 Dangerous Wager
+2 Leyline of Combustion
+3 Leyline of Combustion
+4 Leyline of Combustion
+3 Scalding Tarn
 4 Scalding Tarn
 1 Molten Rain
 2 Molten Rain

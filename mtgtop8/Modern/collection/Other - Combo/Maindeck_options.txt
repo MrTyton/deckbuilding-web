@@ -1,4 +1,4 @@
-1 Echoing Truth
+2 Steam Vents
 1 Shivan Reef
 1 Shimmer of Possibility
 2 Merchant Scroll
@@ -25,82 +25,83 @@
 1 Everflowing Chalice
 1 Zhalfirin Void
 1 Blast Zone
+1 Surge Node
 1 Ancient Stirrings
+1 Coretapper
+1 Astral Cornucopia
 1 Mox Opal
+1 Walking Ballista
+1 Engineered Explosives
 1 Mystic Forge
 1 Inventors' Fair
 1 Grove of the Burnwillows
 1 Pyrite Spellbomb
 1 Paradox Engine
-1 Walking Ballista
-1 Astral Cornucopia
 1 Nurturing Peatland
-1 Coretapper
-1 Engineered Explosives
 1 Ensnaring Bridge
-1 Surge Node
 1 Horizon Canopy
 1 Karn, the Great Creator
-2 Inventors' Fair
 2 Everflowing Chalice
 2 Ensnaring Bridge
 2 Zhalfirin Void
-2 Ancient Stirrings
+2 Coretapper
+2 Astral Cornucopia
+2 Surge Node
 2 Mox Opal
+2 Ancient Stirrings
 2 Blast Zone
+2 Inventors' Fair
 2 Mystic Forge
 2 Karn, the Great Creator
-2 Surge Node
 2 Paradox Engine
 2 Grove of the Burnwillows
-2 Astral Cornucopia
 2 Pyrite Spellbomb
-2 Coretapper
 3 Grove of the Burnwillows
 3 Blast Zone
 3 Everflowing Chalice
+3 Coretapper
+3 Astral Cornucopia
 3 Ancient Stirrings
+3 Surge Node
 3 Mox Opal
 3 Mystic Forge
 3 Karn, the Great Creator
 3 Ensnaring Bridge
 3 Paradox Engine
 3 Inventors' Fair
-3 Surge Node
-3 Astral Cornucopia
 3 Pyrite Spellbomb
-3 Coretapper
 4 Karn, the Great Creator
 4 Blast Zone
 4 Everflowing Chalice
+4 Surge Node
+4 Astral Cornucopia
+4 Coretapper
 4 Ancient Stirrings
 4 Grove of the Burnwillows
-4 Coretapper
-4 Astral Cornucopia
 4 Mox Opal
-4 Surge Node
 1 Lightning Bolt
 1 Mountain
 1 Stomping Ground
 2 Stomping Ground
 2 Lightning Bolt
 3 Lightning Bolt
+1 Glorybringer
 1 Temple Garden
 1 Arid Mesa
 1 Eladamri's Call
-1 Noble Hierarch
 1 Sacred Foundry
 1 Fauna Shaman
 1 Magus of the Moon
 1 Fire-Lit Thicket
+1 Scavenging Ooze
 1 Knight of Autumn
 1 Collector Ouphe
 1 Rampaging Ferocidon
 1 Steel Leaf Champion
 1 Eldritch Evolution
 1 Ghalta, Primal Hunger
-1 Glorybringer
 1 Tireless Tracker
+1 Noble Hierarch
 1 Windswept Heath
 1 Cavern of Souls
 1 Impervious Greatwurm
@@ -108,28 +109,27 @@
 1 Birds of Paradise
 1 Strangleroot Geist
 1 Surrak, the Hunt Caller
-1 Scavenging Ooze
 1 Cragganwick Cremator
 1 Kessig Wolf Run
 2 Temple Garden
 2 Cavern of Souls
-2 Noble Hierarch
 2 Copperline Gorge
 2 Steel Leaf Champion
 2 Windswept Heath
 2 Wooded Foothills
+2 Noble Hierarch
 2 Impervious Greatwurm
 2 Eldritch Evolution
 2 Birds of Paradise
 2 Cragganwick Cremator
 2 Strangleroot Geist
-3 Noble Hierarch
 3 Forest
 3 Strangleroot Geist
 3 Steel Leaf Champion
 3 Cragganwick Cremator
 3 Eldritch Evolution
 3 Wooded Foothills
+3 Noble Hierarch
 4 Noble Hierarch
 4 Forest
 4 Strangleroot Geist
@@ -173,7 +173,6 @@
 3 Wild Cantor
 3 Skirk Prospector
 4 Skirk Prospector
-4 Mogg War Marshal
 4 Stomping Ground
 4 Mountain
 4 Goblin Instigator
@@ -181,6 +180,7 @@
 4 Commune with the Gods
 4 Karplusan Forest
 4 Wild Cantor
+4 Mogg War Marshal
 4 Fecundity
 5 Mountain
 6 Mountain
@@ -190,11 +190,11 @@
 10 Mountain
 1 Peek
 1 Opt
-2 Peek
 2 Opt
 2 Eye of Nowhere
-3 Peek
+2 Peek
 3 Opt
+3 Peek
 4 Opt
 4 Peek
 5 Island

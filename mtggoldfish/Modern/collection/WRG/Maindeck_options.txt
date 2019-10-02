@@ -6,17 +6,69 @@
 4 Skewer the Critics
 1 Scalding Tarn
 2 Scalding Tarn
-1 Grim Lavamancer
 1 Searing Blood
+1 Grim Lavamancer
 4 Arid Mesa
+1 Horizon Canopy
+1 Temple Garden
+1 Windswept Heath
+2 Windswept Heath
+1 Batterskull
+1 Sword of Fire and Ice
+1 Knight of Autumn
+1 Stoneforge Mystic
+2 Stoneforge Mystic
+3 Windswept Heath
+3 Stoneforge Mystic
+4 Stoneforge Mystic
+1 Eternal Witness
+1 Phyrexian Revoker
+1 Birds of Paradise
+2 Birds of Paradise
+3 Birds of Paradise
+1 Grove of the Burnwillows
+1 Voice of Resurgence
+1 Magus of the Moon
+1 Chord of Calling
+1 Shalai, Voice of Plenty
+1 Eidolon of Rhetoric
+1 Kiki-Jiki, Mirror Breaker
+1 Restoration Angel
+1 Snow-Covered Forest
+1 Eldritch Evolution
+1 Snow-Covered Plains
+1 Noble Hierarch
+1 Once Upon a Time
+1 Seasoned Pyromancer
+2 Grove of the Burnwillows
+2 Restoration Angel
+2 Snow-Covered Forest
+2 Chord of Calling
+2 Noble Hierarch
+2 Eldritch Evolution
+2 Once Upon a Time
+2 Snow-Covered Plains
+2 Voice of Resurgence
+2 Seasoned Pyromancer
+3 Grove of the Burnwillows
+3 Chord of Calling
+3 Voice of Resurgence
+3 Restoration Angel
+3 Seasoned Pyromancer
+3 Eldritch Evolution
+3 Once Upon a Time
+3 Noble Hierarch
+4 Voice of Resurgence
+4 Birds of Paradise
+4 Windswept Heath
+1 Bomat Courier
 1 Mutagenic Growth
 1 Reckless Bushwhacker
 1 Burning-Tree Emissary
-1 Bomat Courier
 1 Become Immense
 2 Become Immense
-2 Mutagenic Growth
 2 Bomat Courier
+2 Mutagenic Growth
 2 Reckless Bushwhacker
 2 Burning-Tree Emissary
 3 Bomat Courier
@@ -28,97 +80,34 @@
 4 Mutagenic Growth
 4 Burning-Tree Emissary
 4 Scalding Tarn
-1 Horizon Canopy
-1 Temple Garden
-1 Windswept Heath
 1 Forest
 2 Temple Garden
-2 Windswept Heath
-1 Misty Rainforest
-1 Duskwatch Recruiter
-1 Vizier of Remedies
-1 Devoted Druid
-1 Finale of Devastation
-1 Simian Spirit Guide
-1 Arbor Elf
-1 Utopia Sprawl
-1 Birds of Paradise
-1 Eternal Witness
-1 Trinisphere
-1 Phyrexian Revoker
-1 Acidic Slime
-1 Gemstone Caverns
-1 Walking Ballista
-1 Primal Command
-1 Verdant Catacombs
-1 Scavenging Ooze
-1 Karn, the Great Creator
-1 Mwonvuli Acid-Moss
-2 Misty Rainforest
-2 Finale of Devastation
-2 Devoted Druid
-2 Simian Spirit Guide
-2 Arbor Elf
-2 Utopia Sprawl
-2 Birds of Paradise
-2 Trinisphere
-2 Karn, the Great Creator
-2 Mwonvuli Acid-Moss
-2 Forest
-2 Verdant Catacombs
-2 Primal Command
-3 Birds of Paradise
-3 Devoted Druid
-3 Finale of Devastation
-3 Utopia Sprawl
-3 Forest
-3 Arbor Elf
-3 Primal Command
-3 Karn, the Great Creator
-3 Trinisphere
-4 Finale of Devastation
-4 Devoted Druid
-4 Arbor Elf
-4 Utopia Sprawl
-4 Forest
-4 Karn, the Great Creator
-5 Forest
-6 Forest
-7 Forest
-8 Forest
-1 Sunbaked Canyon
 1 Plains
+1 Sunbaked Canyon
 1 Chandra, Torch of Defiance
-1 Path to Exile
-1 Gideon, Ally of Zendikar
 1 Tireless Tracker
 1 Huntmaster of the Fells
+1 Path to Exile
+1 Gideon, Ally of Zendikar
+1 Banishing Light
 1 Tarmogoyf
-1 Ajani Vengeant
-1 Batterskull
-1 Sword of Fire and Ice
 1 Secluded Steppe
 1 Leonin Arbiter
 1 Wrenn and Six
-1 Knight of Autumn
-1 Banishing Light
+1 Ajani Vengeant
 1 Lightning Helix
 1 Sword of Light and Shadow
-1 Stoneforge Mystic
 1 Ghost Quarter
 2 Path to Exile
 2 Knight of Autumn
+2 Leonin Arbiter
 2 Tarmogoyf
 2 Ajani Vengeant
 2 Ghost Quarter
-2 Leonin Arbiter
-2 Stoneforge Mystic
 2 Wrenn and Six
 2 Lightning Helix
 3 Ghost Quarter
 3 Path to Exile
-3 Windswept Heath
-3 Stoneforge Mystic
 3 Wrenn and Six
 3 Tarmogoyf
 3 Leonin Arbiter
@@ -126,5 +115,51 @@
 4 Path to Exile
 4 Leonin Arbiter
 4 Tarmogoyf
-4 Stoneforge Mystic
 4 Ghost Quarter
+1 Duskwatch Recruiter
+1 Finale of Devastation
+1 Vizier of Remedies
+1 Devoted Druid
+1 Simian Spirit Guide
+1 Acidic Slime
+1 Gemstone Caverns
+1 Trinisphere
+1 Utopia Sprawl
+1 Walking Ballista
+1 Primal Command
+1 Verdant Catacombs
+1 Arbor Elf
+1 Misty Rainforest
+1 Scavenging Ooze
+1 Karn, the Great Creator
+1 Mwonvuli Acid-Moss
+2 Misty Rainforest
+2 Finale of Devastation
+2 Devoted Druid
+2 Simian Spirit Guide
+2 Trinisphere
+2 Karn, the Great Creator
+2 Mwonvuli Acid-Moss
+2 Forest
+2 Verdant Catacombs
+2 Utopia Sprawl
+2 Arbor Elf
+2 Primal Command
+3 Finale of Devastation
+3 Devoted Druid
+3 Arbor Elf
+3 Forest
+3 Karn, the Great Creator
+3 Primal Command
+3 Trinisphere
+3 Utopia Sprawl
+4 Finale of Devastation
+4 Devoted Druid
+4 Utopia Sprawl
+4 Arbor Elf
+4 Karn, the Great Creator
+4 Forest
+6 Forest
+7 Forest
+8 Forest
+5 Forest

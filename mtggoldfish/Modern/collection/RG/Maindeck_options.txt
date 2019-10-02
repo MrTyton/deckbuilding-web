@@ -1,10 +1,3 @@
-1 Stomping Ground
-1 Mountain
-1 Wooded Foothills
-2 Stomping Ground
-2 Wooded Foothills
-3 Wooded Foothills
-4 Wooded Foothills
 1 Light Up the Stage
 1 Arid Mesa
 1 Soul-Scar Mage
@@ -12,43 +5,40 @@
 1 Crash Through
 1 Bedlam Reveler
 1 Manamorphose
-1 Atarka's Command
 1 Gut Shot
-1 Lightning Bolt
-1 Copperline Gorge
-1 Blistercoil Weird
 1 Mutagenic Growth
+1 Atarka's Command
+1 Blistercoil Weird
+1 Copperline Gorge
 1 Monastery Swiftspear
-2 Arid Mesa
 2 Light Up the Stage
 2 Soul-Scar Mage
 2 Crash Through
 2 Lava Dart
 2 Bedlam Reveler
 2 Manamorphose
-2 Mountain
-2 Atarka's Command
 2 Gut Shot
-2 Copperline Gorge
-2 Blistercoil Weird
+2 Mountain
 2 Mutagenic Growth
+2 Blistercoil Weird
+2 Atarka's Command
+2 Copperline Gorge
+2 Arid Mesa
 2 Monastery Swiftspear
-2 Lightning Bolt
-3 Arid Mesa
 3 Light Up the Stage
+3 Arid Mesa
 3 Soul-Scar Mage
+3 Bedlam Reveler
 3 Lava Dart
 3 Crash Through
-3 Bedlam Reveler
 3 Manamorphose
-3 Atarka's Command
-3 Lightning Bolt
 3 Mutagenic Growth
-3 Monastery Swiftspear
+3 Atarka's Command
 3 Copperline Gorge
 3 Gut Shot
 3 Blistercoil Weird
 3 Mountain
+3 Monastery Swiftspear
 4 Mountain
 4 Arid Mesa
 4 Lightning Bolt
@@ -58,51 +48,80 @@
 4 Monastery Swiftspear
 4 Mutagenic Growth
 4 Blistercoil Weird
-1 Windswept Heath
-1 Birds of Paradise
-1 Molten Rain
-1 Blood Moon
+1 Courser of Kruphix
+2 Courser of Kruphix
+1 Khalni Garden
+1 Radiant Fountain
+1 Snow-Covered Forest
+1 Ghost Quarter
+1 Summoner's Pact
+1 Bojuka Bog
+1 Blast Zone
+1 Walking Ballista
+1 Field of the Dead
+1 Simic Growth Chamber
+1 Azusa, Lost but Seeking
+1 Lumbering Falls
+1 Explore
+1 Pact of Negation
+1 Amulet of Vigor
+1 Gruul Turf
+1 Boros Garrison
+1 Sunhome, Fortress of the Legion
+1 Crumbling Vestige
+1 Sakura-Tribe Scout
+1 Cavern of Souls
+1 Vesuva
+1 Slayers' Stronghold
+1 Engineered Explosives
+1 Selesnya Sanctuary
+1 Tolaria West
+1 Primeval Titan
+1 Karn, the Great Creator
+1 Temple of Mystery
+2 Snow-Covered Forest
+2 Summoner's Pact
+2 Explore
+2 Karn, the Great Creator
+2 Gruul Turf
+2 Amulet of Vigor
+2 Azusa, Lost but Seeking
+2 Sakura-Tribe Scout
+2 Simic Growth Chamber
+2 Tolaria West
+2 Primeval Titan
+3 Summoner's Pact
+3 Sakura-Tribe Scout
+3 Primeval Titan
+3 Simic Growth Chamber
+3 Karn, the Great Creator
+3 Amulet of Vigor
+3 Explore
+3 Azusa, Lost but Seeking
+3 Gruul Turf
+4 Summoner's Pact
+4 Primeval Titan
+4 Azusa, Lost but Seeking
+4 Sakura-Tribe Scout
+4 Simic Growth Chamber
+4 Amulet of Vigor
+4 Explore
 1 Magus of the Moon
+1 Molten Rain
 1 Huntmaster of the Fells
-1 Stormbreath Dragon
 1 Tireless Tracker
-1 Bloodbraid Elf
-1 Utopia Sprawl
-1 Stone Rain
 1 Verdant Catacombs
-1 Arbor Elf
-2 Birds of Paradise
-2 Windswept Heath
 2 Molten Rain
-2 Utopia Sprawl
-2 Arbor Elf
-2 Bloodbraid Elf
-2 Blood Moon
 2 Tireless Tracker
-2 Stormbreath Dragon
-2 Stone Rain
-3 Bloodbraid Elf
 3 Tireless Tracker
-3 Blood Moon
 3 Molten Rain
-3 Windswept Heath
-3 Arbor Elf
-3 Forest
-3 Stomping Ground
 3 Stormbreath Dragon
 3 Courser of Kruphix
 3 Stone Rain
-3 Utopia Sprawl
-4 Forest
-4 Windswept Heath
-4 Blood Moon
 4 Stone Rain
-4 Bloodbraid Elf
-4 Utopia Sprawl
 4 Stormbreath Dragon
-4 Arbor Elf
+4 Utopia Sprawl
 4 Molten Rain
-5 Forest
 6 Forest
 7 Forest
 8 Forest

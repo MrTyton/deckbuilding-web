@@ -16,9 +16,9 @@
 2 Temple Garden
 3 Gruul Spellbreaker
 4 Gruul Spellbreaker
-1 Goblin Guide
 1 Reckless Bushwhacker
 1 Burning-Tree Emissary
+1 Goblin Guide
 2 Burning-Tree Emissary
 2 Reckless Bushwhacker
 2 Goblin Guide
@@ -43,27 +43,22 @@
 1 Domri, Chaos Bringer
 2 Horizon Canopy
 2 Ruination Rioter
-1 Batterskull
-1 Stoneforge Mystic
 1 Snow-Covered Mountain
-1 Snow-Covered Forest
+1 Treetop Village
 1 Sword of Light and Shadow
+1 Snow-Covered Forest
+1 Stoneforge Mystic
+1 Batterskull
 1 Sword of Feast and Famine
 1 Snow-Covered Plains
 1 Slayers' Stronghold
-1 Treetop Village
 2 Stoneforge Mystic
 2 Snow-Covered Forest
 3 Stoneforge Mystic
-3 Qasali Pridemage
 3 Voice of Resurgence
-1 Goblin Cratermaker
-2 Goblin Cratermaker
-2 Elspeth, Knight-Errant
-2 Hexdrinker
-4 Tarmogoyf
-1 Courser of Kruphix
+3 Qasali Pridemage
 1 Renegade Rallier
+1 Courser of Kruphix
 1 Plated Geopede
 1 Wrenn and Six
 1 Steppe Lynx
@@ -76,10 +71,15 @@
 3 Lightning Helix
 3 Steppe Lynx
 3 Plated Geopede
+4 Renegade Rallier
 4 Plated Geopede
 4 Lightning Helix
 4 Steppe Lynx
-4 Renegade Rallier
+1 Goblin Cratermaker
+2 Goblin Cratermaker
+2 Elspeth, Knight-Errant
+2 Hexdrinker
+4 Tarmogoyf
 1 Mutagenic Growth
 1 Scalding Tarn
 1 Boros Charm
@@ -90,14 +90,14 @@
 2 Become Immense
 2 Mutagenic Growth
 2 Scalding Tarn
-2 Boros Charm
 2 Bomat Courier
 2 Bloodstained Mire
+2 Boros Charm
 2 Monastery Swiftspear
 3 Mutagenic Growth
-3 Boros Charm
 3 Bloodstained Mire
 3 Bomat Courier
+3 Boros Charm
 3 Monastery Swiftspear
 4 Mutagenic Growth
 4 Bloodstained Mire

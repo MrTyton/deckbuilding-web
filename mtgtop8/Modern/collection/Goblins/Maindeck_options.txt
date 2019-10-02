@@ -1,17 +1,16 @@
-3 Frogtosser Banneret
-4 Mogg War Marshal
-3 Field of Ruin
 4 Skirk Prospector
 4 Field of Ruin
 2 Goblin Cratermaker
-1 Fiery Islet
-1 Sunbaked Canyon
+1 Frogtosser Banneret
+2 Frogtosser Banneret
 1 Goblin Chainwhirler
 5 Mountain
 1 Legion Loyalist
 1 Snow-Covered Mountain
 2 Snow-Covered Mountain
-1 Mogg Fanatic
+3 Frogtosser Banneret
+1 Fiery Islet
+1 Sunbaked Canyon
 1 Unclaimed Territory
 2 Unclaimed Territory
 3 Unclaimed Territory
@@ -19,6 +18,7 @@
 3 Snow-Covered Mountain
 4 Snow-Covered Mountain
 2 Goblin Chieftain
+1 Goblin Guide
 1 Foundry Street Denizen
 1 Goblin Bushwhacker
 1 Lightning Bolt
@@ -26,7 +26,6 @@
 1 Burning-Tree Emissary
 1 Goblin Grenade
 1 Reckless Bushwhacker
-1 Goblin Guide
 2 Goblin Guide
 2 Goblin Grenade
 2 Reckless Bushwhacker
@@ -47,8 +46,8 @@
 4 Reckless Bushwhacker
 4 Goblin Bushwhacker
 4 Lightning Bolt
-4 Legion Loyalist
 4 Fanatical Firebrand
+4 Legion Loyalist
 6 Mountain
 7 Mountain
 8 Mountain
@@ -58,18 +57,21 @@
 1 Arid Mesa
 2 Wooded Foothills
 3 Goblin Cratermaker
-2 Mogg Fanatic
-2 Krenko, Mob Boss
-3 Mogg Fanatic
-3 Krenko, Mob Boss
 2 Sunbaked Canyon
 4 Frogtosser Banneret
+1 Mogg Fanatic
+1 Mutavault
+1 Prismatic Vista
+2 Mutavault
+3 Mutavault
+3 Goblin Chieftain
+4 Mutavault
 1 Siege-Gang Commander
-1 Warren Instigator
 1 Mad Auntie
 1 Unearth
 1 Kiki-Jiki, Mirror Breaker
 1 Earwig Squad
+1 Warren Instigator
 2 Fiery Islet
 2 Warren Instigator
 3 Blood Crypt
@@ -79,12 +81,6 @@
 2 Makeshift Munitions
 3 Makeshift Munitions
 4 Makeshift Munitions
-1 Mutavault
-1 Prismatic Vista
-2 Mutavault
-3 Goblin Chieftain
-3 Mutavault
-4 Mutavault
 2 Foundry Street Denizen
 3 Foundry Street Denizen
 4 Goblin Piledriver
