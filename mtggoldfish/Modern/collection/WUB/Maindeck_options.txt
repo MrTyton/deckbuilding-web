@@ -1,80 +1,41 @@
-1 Paradoxical Outcome
-1 Emry, Lurker of the Loch
-1 Sai, Master Thopterist
-1 Saheeli, Sublime Artificer
-1 Mishra's Bauble
-1 Snow-Covered Plains
-1 Prismatic Vista
-1 Nexus of Fate
-1 Engineered Explosives
-1 Arcum's Astrolabe
-2 Everflowing Chalice
-2 Sai, Master Thopterist
-2 Mox Amber
-2 Urza, Lord High Artificer
-2 Mox Opal
-2 Emry, Lurker of the Loch
-2 Paradoxical Outcome
-2 Engineered Explosives
-2 Mishra's Bauble
-2 Snow-Covered Island
-2 Arcum's Astrolabe
-2 Prismatic Vista
-3 Urza, Lord High Artificer
-3 Emry, Lurker of the Loch
-3 Paradoxical Outcome
-3 Engineered Explosives
-3 Mox Opal
-3 Mishra's Bauble
-3 Arcum's Astrolabe
-3 Snow-Covered Island
-4 Paradoxical Outcome
-4 Mox Opal
-4 Emry, Lurker of the Loch
-4 Engineered Explosives
-4 Mishra's Bauble
-4 Snow-Covered Island
-4 Urza, Lord High Artificer
-4 Arcum's Astrolabe
-5 Snow-Covered Island
-6 Snow-Covered Island
-7 Snow-Covered Island
-3 Flooded Strand
-2 Darkslick Shores
-4 Flooded Strand
-1 Plains
-1 Godless Shrine
-1 Thought Scour
-1 Inquisition of Kozilek
 1 Thoughtseize
+1 Fatal Push
+1 Inquisition of Kozilek
+1 Thought Scour
+1 Darkslick Shores
+2 Island
 2 Thought Scour
+2 Fatal Push
 2 Inquisition of Kozilek
 3 Thought Scour
 3 Inquisition of Kozilek
-1 Jace, the Mind Sculptor
-1 Creeping Tar Pit
+4 Polluted Delta
 1 Path to Exile
 2 Path to Exile
-1 Lingering Souls
+1 Creeping Tar Pit
+1 Jace, Vryn's Prodigy
+1 Unearth
+1 Monastery Mentor
+2 Monastery Mentor
+2 Jace, Vryn's Prodigy
+2 Unearth
+2 Darkslick Shores
+2 Thoughtseize
+3 Monastery Mentor
 1 Snapcaster Mage
+1 Lingering Souls
 1 Force of Negation
 2 Snapcaster Mage
 2 Lingering Souls
 2 Force of Negation
-3 Lingering Souls
 3 Snapcaster Mage
-4 Inquisition of Kozilek
+3 Lingering Souls
+3 Fatal Push
 4 Snapcaster Mage
-1 Unearth
-1 Jace, Vryn's Prodigy
-1 Monastery Mentor
-2 Unearth
-2 Jace, Vryn's Prodigy
-2 Monastery Mentor
-2 Thoughtseize
-3 Monastery Mentor
+4 Inquisition of Kozilek
 1 Serum Visions
 1 Liliana of the Veil
+2 Swamp
 2 Liliana of the Veil
 2 Serum Visions
 4 Thought Scour
@@ -88,18 +49,13 @@
 2 Stoneforge Mystic
 3 Stoneforge Mystic
 4 Stoneforge Mystic
+1 Marsh Flats
 2 Creeping Tar Pit
-1 Drown in the Loch
-1 Vantress Gargoyle
-2 Drown in the Loch
-2 Vantress Gargoyle
-3 Drown in the Loch
-3 Watery Grave
-4 Drown in the Loch
 1 Teferi, Time Raveler
 1 Opt
 2 Teferi, Time Raveler
 2 Opt
+3 Island
 3 Opt
 3 Darkslick Shores
 4 Opt
@@ -107,8 +63,8 @@
 4 Lingering Souls
 1 Seachrome Coast
 1 Dismember
-1 Narset, Parter of Veils
 1 Isolated Chapel
+1 Narset, Parter of Veils
 1 Collective Brutality
 2 Narset, Parter of Veils
 3 Jace, Vryn's Prodigy
@@ -119,14 +75,17 @@
 1 Tasigur, the Golden Fang
 1 Search for Azcanta
 1 Cryptic Command
+1 Field of Ruin
 1 Go for the Throat
 1 Sunken Ruins
-2 Jace, the Mind Sculptor
 2 Tasigur, the Golden Fang
+2 Jace, the Mind Sculptor
 2 Cryptic Command
 2 Marsh Flats
-3 Creeping Tar Pit
+2 Field of Ruin
+2 Watery Grave
 3 Tasigur, the Golden Fang
+3 Creeping Tar Pit
 3 Liliana of the Veil
 4 Fatal Push
 1 Watcher for Tomorrow
@@ -146,14 +105,14 @@
 2 Flickerwisp
 2 Aether Vial
 2 Tidehollow Sculler
+2 Thalia, Guardian of Thraben
 2 Godless Shrine
 2 Wasteland Strangler
-2 Thalia, Guardian of Thraben
 2 Snow-Covered Swamp
+3 Hallowed Fountain
 3 Godless Shrine
 3 Watcher for Tomorrow
 3 Plains
-3 Hallowed Fountain
 3 Thalia, Guardian of Thraben
 3 Wasteland Strangler
 3 Tidehollow Sculler
@@ -162,28 +121,21 @@
 4 Tidehollow Sculler
 4 Hallowed Fountain
 4 Aether Vial
-4 Godless Shrine
 4 Wasteland Strangler
+4 Godless Shrine
 4 Flickerwisp
-1 Scalding Tarn
-1 Ensnaring Bridge
-2 Ensnaring Bridge
-3 Ensnaring Bridge
-3 Crypt Incursion
-4 Island
-4 Mesmeric Orb
-1 Witching Well
-1 Darksteel Citadel
-2 Saheeli, Sublime Artificer
-2 Witching Well
-2 Snow-Covered Plains
-3 Mox Amber
-3 Witching Well
-3 Prismatic Vista
-4 Prismatic Vista
-4 Witching Well
 1 Pithing Needle
 1 Aether Spellbomb
 1 Chromatic Star
 3 Everflowing Chalice
 4 Everflowing Chalice
+1 Witching Well
+1 Darksteel Citadel
+2 Saheeli, Sublime Artificer
+2 Witching Well
+2 Snow-Covered Plains
+3 Witching Well
+3 Prismatic Vista
+3 Mox Amber
+4 Prismatic Vista
+4 Witching Well

@@ -141,6 +141,6 @@
 |                    3|[Monastery Swiftspear](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438706)  |                     |                                                                                                   |
 |                    4|[Lightning Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=806)           |                     |                                                                                                   |
 |                    4|[Mutagenic Growth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397717)      |                     |                                                                                                   |
-|                    4|[Monastery Swiftspear](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438706)  |                     |                                                                                                   |
 |                    4|[Dreadhorde Arcanist](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461052)   |                     |                                                                                                   |
+|                    4|[Monastery Swiftspear](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438706)  |                     |                                                                                                   |
 
