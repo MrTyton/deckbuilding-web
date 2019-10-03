@@ -53,8 +53,8 @@
 3 Lightning Bolt
 3 Blackcleave Cliffs
 4 Dreadhorde Arcanist
-4 Seasoned Pyromancer
 4 Bloodstained Mire
+4 Seasoned Pyromancer
 4 Thoughtseize
 4 Blackcleave Cliffs
 4 Lightning Bolt
@@ -112,25 +112,25 @@
 1 Blooming Marsh
 1 Forest
 1 Grim Flayer
-1 Field of Ruin
+1 Hexdrinker
 1 Blast Zone
 1 Collective Brutality
 1 Maelstrom Pulse
-1 Scavenging Ooze
 1 Kalitas, Traitor of Ghet
 1 Overgrown Tomb
 1 Unearth
 1 Tireless Tracker
 1 Abrupt Decay
 1 Verdant Catacombs
+1 Field of Ruin
 1 Hissing Quagmire
+1 Scavenging Ooze
 1 Mishra's Bauble
 1 Treetop Village
-1 Hexdrinker
 1 Assassin's Trophy
 2 Abrupt Decay
-2 Hexdrinker
 2 Grim Flayer
+2 Hexdrinker
 2 Assassin's Trophy
 2 Scavenging Ooze
 2 Field of Ruin
@@ -160,12 +160,12 @@
 1 Mystic Forge
 1 Darksteel Citadel
 1 Blinkmoth Nexus
-1 Master of Etherium
 1 Lodestone Golem
 1 Thorn of Amethyst
-1 Walking Ballista
+1 Master of Etherium
 1 Mox Opal
 1 Waterlogged Grove
+1 Walking Ballista
 1 Snow-Covered Island
 1 Arcbound Ravager
 1 Signal Pest
@@ -188,7 +188,6 @@
 2 Etherium Sculptor
 2 Blinkmoth Nexus
 3 Master of Etherium
-3 Mystic Forge
 3 Lodestone Golem
 3 Thorn of Amethyst
 3 Mox Opal
@@ -197,16 +196,17 @@
 3 Snow-Covered Island
 3 Ornithopter
 3 Chief Engineer
+3 Mystic Forge
 3 Signal Pest
 3 Etherium Sculptor
 3 Blinkmoth Nexus
 3 Waterlogged Grove
-4 Thorn of Amethyst
 4 Lodestone Golem
 4 Etherium Sculptor
 4 Signal Pest
 4 Snow-Covered Island
 4 Ornithopter
+4 Thorn of Amethyst
 4 Blinkmoth Nexus
 4 Vault Skirge
 4 Darksteel Citadel

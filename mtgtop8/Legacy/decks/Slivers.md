@@ -1,7 +1,7 @@
 # Slivers
 
 #### [Export MTGO List](../collection/Slivers/Slivers.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Aether%20Vial%0A3%09Ancient%20Ziggurat%0A4%09Cavern%20of%20Souls%0A2%09Cloudshredder%20Sliver%0A4%09Crystalline%20Sliver%0A4%09Force%20of%20Will%0A4%09Galerider%20Sliver%0A4%09Hibernation%20Sliver%0A2%09Karakas%0A2%09Muscle%20Sliver%0A3%09Mutavault%0A4%09Predatory%20Sliver%0A1%09Sidewinder%20Sliver%0A4%09Sinew%20Sliver%0A4%09Sliver%20Hive%0A4%09Striking%20Sliver%0A1%09Telekinetic%20Sliver%0A4%09Unclaimed%20Territory%0A2%09Unsettled%20Mariner&deckside=2%09Ethersworn%20Canonist%0A3%09Faerie%20Macabre%0A2%09Harmonic%20Sliver%0A1%09Hunter%20Sliver%0A3%09Leyline%20of%20the%20Void%0A1%09Syphon%20Sliver%0A1%09Telekinetic%20Sliver%0A2%09Thalia,%20Guardian%20of%20Thraben)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Aether%20Vial%0A3%09Ancient%20Ziggurat%0A4%09Cavern%20of%20Souls%0A2%09Cloudshredder%20Sliver%0A4%09Crystalline%20Sliver%0A4%09Force%20of%20Will%0A4%09Galerider%20Sliver%0A4%09Hibernation%20Sliver%0A2%09Karakas%0A2%09Muscle%20Sliver%0A3%09Mutavault%0A4%09Predatory%20Sliver%0A1%09Sidewinder%20Sliver%0A4%09Sinew%20Sliver%0A4%09Sliver%20Hive%0A4%09Striking%20Sliver%0A1%09Telekinetic%20Sliver%0A4%09Unclaimed%20Territory%0A2%09Unsettled%20Mariner&deckside=3%09Faerie%20Macabre%0A2%09Force%20of%20Negation%0A2%09Harmonic%20Sliver%0A1%09Hunter%20Sliver%0A3%09Leyline%20of%20the%20Void%0A1%09Syphon%20Sliver%0A1%09Telekinetic%20Sliver%0A2%09Thalia,%20Guardian%20of%20Thraben)
 # Maindeck
 
 |                                     Artifact (4)                                      |                                          Creature (32)                                          |                                      Instant (4)                                       |                                           Land (20)                                            |
@@ -21,23 +21,20 @@
 
 # Sideboard
 
-|                                             Creature (12)                                              |                                        Enchantment (3)                                         |
-|--------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
-|2 [Ethersworn Canonist](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174931)        |3 [Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)|
-|3 [Faerie Macabre](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=201822)             |                                                                                                |
-|2 [Harmonic Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=109706)            |                                                                                                |
-|1 [Hunter Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=44772)               |                                                                                                |
-|1 [Syphon Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370752)              |                                                                                                |
-|1 [Telekinetic Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=111085)         |                                                                                                |
-|2 [Thalia, Guardian of Thraben](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442025)|                                                                                                |
+|                                             Creature (10)                                              |                                        Enchantment (3)                                         |                                         Instant (2)                                          |
+|--------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
+|3 [Faerie Macabre](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=201822)             |3 [Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)|2 [Force of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464001)|
+|2 [Harmonic Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=109706)            |                                                                                                |                                                                                              |
+|1 [Hunter Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=44772)               |                                                                                                |                                                                                              |
+|1 [Syphon Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370752)              |                                                                                                |                                                                                              |
+|1 [Telekinetic Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=111085)         |                                                                                                |                                                                                              |
+|2 [Thalia, Guardian of Thraben](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442025)|                                                                                                |                                                                                              |
 
 
 # Other Options
 
 |*n*<sup>th</sup> copy|                                         Maindeck Card                                         |*n*<sup>th</sup> copy|                                            Sideboard Card                                            |
 |--------------------:|-----------------------------------------------------------------------------------------------|--------------------:|------------------------------------------------------------------------------------------------------|
-|                    1|[Diffusion Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383225)    |                    1|[Force of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464001)          |
-|                    2|[Diffusion Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383225)    |                    2|[Force of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464001)          |
 |                    1|[Tundra](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=885)                 |                    1|[Path to Exile](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220511)              |
 |                    1|[Spell Pierce](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425876)        |                    1|[Swords to Plowshares](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=869)          |
 |                    1|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)              |                    1|[Ravenous Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197537)              |

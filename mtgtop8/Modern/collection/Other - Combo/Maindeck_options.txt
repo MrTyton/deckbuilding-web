@@ -26,8 +26,8 @@
 1 Zhalfirin Void
 1 Blast Zone
 1 Ancient Stirrings
-1 Mox Opal
 1 Walking Ballista
+1 Mox Opal
 1 Engineered Explosives
 1 Mystic Forge
 1 Inventors' Fair
@@ -59,9 +59,9 @@
 3 Grove of the Burnwillows
 3 Blast Zone
 3 Everflowing Chalice
+3 Mystic Forge
 3 Ancient Stirrings
 3 Mox Opal
-3 Mystic Forge
 3 Karn, the Great Creator
 3 Ensnaring Bridge
 3 Paradox Engine
@@ -91,6 +91,7 @@
 1 Eladamri's Call
 1 Sacred Foundry
 1 Fauna Shaman
+1 Noble Hierarch
 1 Magus of the Moon
 1 Fire-Lit Thicket
 1 Scavenging Ooze
@@ -101,7 +102,6 @@
 1 Eldritch Evolution
 1 Ghalta, Primal Hunger
 1 Tireless Tracker
-1 Noble Hierarch
 1 Windswept Heath
 1 Cavern of Souls
 1 Impervious Greatwurm
@@ -113,23 +113,23 @@
 1 Kessig Wolf Run
 2 Temple Garden
 2 Cavern of Souls
+2 Noble Hierarch
 2 Copperline Gorge
 2 Steel Leaf Champion
 2 Windswept Heath
 2 Wooded Foothills
-2 Noble Hierarch
 2 Impervious Greatwurm
 2 Eldritch Evolution
 2 Birds of Paradise
 2 Cragganwick Cremator
 2 Strangleroot Geist
+3 Noble Hierarch
 3 Forest
 3 Strangleroot Geist
 3 Steel Leaf Champion
 3 Cragganwick Cremator
 3 Eldritch Evolution
 3 Wooded Foothills
-3 Noble Hierarch
 4 Noble Hierarch
 4 Forest
 4 Strangleroot Geist
@@ -193,8 +193,8 @@
 2 Peek
 2 Opt
 2 Eye of Nowhere
-3 Peek
 3 Opt
+3 Peek
 4 Opt
 4 Peek
 5 Island

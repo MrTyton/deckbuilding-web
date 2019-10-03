@@ -28,7 +28,6 @@
 3 Windswept Heath
 3 Stoneforge Mystic
 4 Stoneforge Mystic
-1 Restoration Angel
 1 Grove of the Burnwillows
 1 Voice of Resurgence
 1 Magus of the Moon
@@ -36,14 +35,15 @@
 1 Once Upon a Time
 1 Birds of Paradise
 1 Shalai, Voice of Plenty
+1 Phyrexian Revoker
 1 Eidolon of Rhetoric
 1 Kiki-Jiki, Mirror Breaker
 1 Eternal Witness
 1 Snow-Covered Forest
-1 Phyrexian Revoker
 1 Eldritch Evolution
 1 Snow-Covered Plains
 1 Noble Hierarch
+1 Restoration Angel
 1 Seasoned Pyromancer
 2 Voice of Resurgence
 2 Grove of the Burnwillows
@@ -89,10 +89,10 @@
 2 Ghost Quarter
 2 Leonin Arbiter
 2 Path to Exile
-2 Knight of Autumn
 2 Tarmogoyf
 2 Wrenn and Six
 2 Ajani Vengeant
+2 Knight of Autumn
 3 Path to Exile
 3 Leonin Arbiter
 3 Ghost Quarter
@@ -109,8 +109,8 @@
 1 Burning-Tree Emissary
 1 Mutagenic Growth
 1 Become Immense
-2 Bomat Courier
 2 Become Immense
+2 Bomat Courier
 2 Reckless Bushwhacker
 2 Mutagenic Growth
 2 Burning-Tree Emissary

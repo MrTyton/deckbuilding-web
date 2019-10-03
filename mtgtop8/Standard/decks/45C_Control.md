@@ -40,7 +40,7 @@
 
 |*n*<sup>th</sup> copy|                                      Maindeck Card                                       |*n*<sup>th</sup> copy|                                     Sideboard Card                                      |
 |--------------------:|------------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------|
-|                    1|[Boros Guildgate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376272)|                    2|[Unmoored Ego](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452962)  |
-|                    4|Realm-Cloaked Giant                                                                       |                    3|[Aether Gust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466796)   |
+|                    4|Realm-Cloaked Giant                                                                       |                    2|[Unmoored Ego](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452962)  |
+|                    1|[Boros Guildgate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376272)|                    3|[Aether Gust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466796)   |
 |                     |                                                                                          |                    3|[Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)|
 
