@@ -29,8 +29,8 @@
 
 |*n*<sup>th</sup> copy|   Maindeck Card   |*n*<sup>th</sup> copy|                                       Sideboard Card                                        |
 |--------------------:|-------------------|--------------------:|---------------------------------------------------------------------------------------------|
-|                    1|Realm-Cloaked Giant|                    1|[Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)            |
-|                    2|Realm-Cloaked Giant|                    1|[Aether Gust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466796)       |
-|                     |                   |                    1|[Agent of Treachery](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466797)|
+|                    1|Realm-Cloaked Giant|                    1|[Agent of Treachery](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466797)|
+|                    2|Realm-Cloaked Giant|                    1|[Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)            |
+|                     |                   |                    1|[Aether Gust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466796)       |
 |                     |                   |                    3|[Disdainful Stroke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420705) |
 
