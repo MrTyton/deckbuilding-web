@@ -2,7 +2,7 @@
 
 #### [Export MTGO List](../collection/White%20Weenie/White%20Weenie.txt)
 #### [Export Arena List](../collection/White%20Weenie/White%20Weenie_arena.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Castle%20Ardenvale%0A4%09Conclave%20Tribunal%0A4%09Faerie%20Guidemother%0A4%09Giant%20Killer%0A4%09Law-Rune%20Enforcer%0A4%09Loyal%20Pegasus%0A16%09Plains%0A4%09Raise%20the%20Alarm%0A4%09Tithe%20Taker%0A4%09Unbreakable%20Formation%0A4%09Venerable%20Knight%0A4%09Venerated%20Loxodon&deckside=4%09Devout%20Decree%0A4%09Gideon%20Blackblade%0A3%09Glass%20Casket%0A4%09Hushbringer)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Castle%20Ardenvale%0A4%09Conclave%20Tribunal%0A4%09Faerie%20Guidemother%0A4%09Giant%20Killer%0A4%09Law-Rune%20Enforcer%0A4%09Loyal%20Pegasus%0A16%09Plains%0A4%09Raise%20the%20Alarm%0A4%09Tithe%20Taker%0A4%09Unbreakable%20Formation%0A4%09Venerable%20Knight%0A4%09Venerated%20Loxodon&deckside=2%09Finale%20of%20Glory%0A2%09Giant%20Killer%0A2%09Gideon%20Blackblade%0A4%09Glass%20Casket%0A3%09Hushbringer%0A2%09Unbreakable%20Formation)
 # Maindeck
 
 |                                        Creature (16)                                         |                                       Enchantment (4)                                        |                                           Instant (8)                                            |                                     Land (16)                                      |    Unknown (16)    |
@@ -15,8 +15,25 @@
 
 # Sideboard
 
-|                                       Planeswalker (4)                                       |                                       Sorcery (4)                                        | Unknown (7)  |
-|----------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|--------------|
-|4 [Gideon Blackblade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463943)|4 [Devout Decree](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466767)|3 Glass Casket|
-|                                                                                              |                                                                                          |4 Hushbringer |
+|                                           Instant (2)                                            |                                       Planeswalker (2)                                       |                                        Sorcery (2)                                         | Unknown (9)  |
+|--------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|--------------|
+|2 [Unbreakable Formation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457173)|2 [Gideon Blackblade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463943)|2 [Finale of Glory](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460939)|2 Giant Killer|
+|                                                                                                  |                                                                                              |                                                                                            |4 Glass Casket|
+|                                                                                                  |                                                                                              |                                                                                            |3 Hushbringer |
+
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                             Maindeck Card                                              |*n*<sup>th</sup> copy|                                       Sideboard Card                                       |
+|--------------------:|--------------------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------|
+|                    1|[Tomik, Distinguished Advokist](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460961)|                    1|[Devout Decree](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466767)    |
+|                    1|[Mobilized District](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461176)           |                    2|[Devout Decree](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466767)    |
+|                    1|[Gideon Blackblade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463943)            |                    3|[Gideon Blackblade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463943)|
+|                    1|Heraldic Banner                                                                                         |                    3|[Devout Decree](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466767)    |
+|                    2|[Gideon Blackblade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463943)            |                    4|[Devout Decree](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466767)    |
+|                    2|Heraldic Banner                                                                                         |                    4|Hushbringer                                                                                 |
+|                    2|[Tomik, Distinguished Advokist](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460961)|                    4|[Gideon Blackblade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463943)|
+|                    3|Heraldic Banner                                                                                         |                     |                                                                                            |
+|                    4|Heraldic Banner                                                                                         |                     |                                                                                            |
+|                   17|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)                       |                     |                                                                                            |
 

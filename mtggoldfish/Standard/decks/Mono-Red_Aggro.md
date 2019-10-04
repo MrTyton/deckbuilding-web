@@ -20,3 +20,14 @@
 |1 [Experimental Frenzy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452849)|2 [Flame Sweep](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466893)|2 [Chandra, Acolyte of Flame](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466880)|2 [Act of Treason](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442107)|3 Redcap Melee|
 |                                                                                                |3 [Fry](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466894)        |                                                                                                      |2 [Lava Coil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452858)     |              |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                        Maindeck Card                                         |*n*<sup>th</sup> copy|                                         Sideboard Card                                         |
+|--------------------:|----------------------------------------------------------------------------------------------|--------------------:|------------------------------------------------------------------------------------------------|
+|                    4|Slaying Fire                                                                                  |                    1|[Leyline of Combustion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466902)|
+|                    4|[Experimental Frenzy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452849)|                    2|[Leyline of Combustion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466902)|
+|                     |                                                                                              |                    3|[Lava Coil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452858)            |
+|                     |                                                                                              |                    3|[Leyline of Combustion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466902)|
+|                     |                                                                                              |                    4|[Leyline of Combustion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466902)|
+

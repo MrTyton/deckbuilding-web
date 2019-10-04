@@ -24,3 +24,13 @@
 |2 [Disdainful Stroke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420705)|3 [Ashiok, Dream Render](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461155)|3 [Devout Decree](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466767)|4 Mystical Dispute   |
 |                                                                                              |                                                                                                 |                                                                                          |3 Realm-Cloaked Giant|
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|   Maindeck Card   |*n*<sup>th</sup> copy|                                       Sideboard Card                                        |
+|--------------------:|-------------------|--------------------:|---------------------------------------------------------------------------------------------|
+|                    1|Realm-Cloaked Giant|                    1|[Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)            |
+|                    2|Realm-Cloaked Giant|                    1|[Aether Gust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466796)       |
+|                     |                   |                    1|[Agent of Treachery](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466797)|
+|                     |                   |                    3|[Disdainful Stroke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420705) |
+

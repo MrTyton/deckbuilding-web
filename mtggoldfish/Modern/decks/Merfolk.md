@@ -107,6 +107,6 @@
 |                    2|[Polluted Delta](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405104)               |                     |                                                                                                   |
 |                    3|[Spell Pierce](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425876)                 |                     |                                                                                                   |
 |                    4|[Spell Pierce](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425876)                 |                     |                                                                                                   |
-|                    6|[Snow-Covered Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121130)          |                     |                                                                                                   |
 |                    4|[Echoing Truth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405212)                |                     |                                                                                                   |
+|                    6|[Snow-Covered Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121130)          |                     |                                                                                                   |
 

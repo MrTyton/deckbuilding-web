@@ -24,3 +24,13 @@
 |1 [Tolsimir, Friend to Wolves](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461151)|3 [Dovin's Veto](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461120)  |                                                                                          |
 |                                                                                                       |3 [Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)|                                                                                          |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                      Maindeck Card                                       |*n*<sup>th</sup> copy|Sideboard Card|
+|--------------------:|------------------------------------------------------------------------------------------|---------------------|--------------|
+|                    1|[Elite Guardmage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461122)|                     |              |
+|                    1|[Voracious Hydra](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466954)|                     |              |
+|                    2|[Elite Guardmage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461122)|                     |              |
+|                    2|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)         |                     |              |
+

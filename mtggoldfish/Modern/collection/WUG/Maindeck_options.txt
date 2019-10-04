@@ -20,27 +20,28 @@
 3 Horizon Canopy
 3 Eldritch Evolution
 4 Eldritch Evolution
+1 Field of Ruin
 1 Tireless Tracker
-1 Celestial Colonnade
 1 Vivien, Champion of the Wilds
 1 Teferi, Hero of Dominaria
-1 Field of Ruin
 1 Stirring Wildwood
+1 Celestial Colonnade
 1 Scavenging Ooze
 1 Gavony Township
 1 Knight of the Reliquary
 2 Teferi, Hero of Dominaria
 2 Jace, the Mind Sculptor
-2 Scavenging Ooze
 2 Vivien, Champion of the Wilds
+2 Scavenging Ooze
 2 Knight of the Reliquary
 3 Knight of the Reliquary
 4 Spell Queller
 4 Knight of the Reliquary
+1 Arboreal Grazer
 1 Gemstone Mine
 1 Bojuka Bog
+1 Tolaria West
 1 Primeval Titan
-1 Arboreal Grazer
 1 Pact of Negation
 1 Simic Growth Chamber
 1 Summoner's Pact
@@ -54,11 +55,11 @@
 1 Vesuva
 1 Khalni Garden
 1 Selesnya Sanctuary
-1 Tolaria West
 1 Ghost Quarter
 1 Azusa, Lost but Seeking
 1 Ancient Stirrings
 2 Gemstone Mine
+2 Tolaria West
 2 Primeval Titan
 2 Amulet of Vigor
 2 Selesnya Sanctuary
@@ -66,10 +67,9 @@
 2 Azusa, Lost but Seeking
 2 Ancient Stirrings
 2 Simic Growth Chamber
-2 Tolaria West
 3 Gemstone Mine
-3 Selesnya Sanctuary
 3 Tolaria West
+3 Selesnya Sanctuary
 3 Ancient Stirrings
 3 Primeval Titan
 3 Simic Growth Chamber
@@ -88,39 +88,39 @@
 1 Coiling Oracle
 1 Soulherder
 1 Watcher for Tomorrow
-1 Prismatic Vista
-1 Snow-Covered Island
-1 Ice-Fang Coatl
-1 Snow-Covered Forest
 1 Force of Negation
 1 Knight of Autumn
 1 Snow-Covered Plains
+1 Snow-Covered Forest
+1 Ice-Fang Coatl
+1 Prismatic Vista
+1 Snow-Covered Island
 1 Eternal Witness
 2 Eternal Witness
+2 Snow-Covered Forest
 2 Force of Negation
-2 Coiling Oracle
 2 Ephemerate
-2 Ice-Fang Coatl
+2 Coiling Oracle
 2 Soulherder
 2 Watcher for Tomorrow
-2 Prismatic Vista
-2 Snow-Covered Forest
 2 Teferi, Time Raveler
 2 Snow-Covered Island
+2 Ice-Fang Coatl
+2 Prismatic Vista
 3 Snow-Covered Forest
-3 Coiling Oracle
-3 Soulherder
-3 Ephemerate
-3 Ice-Fang Coatl
-3 Watcher for Tomorrow
-3 Hallowed Fountain
 3 Prismatic Vista
+3 Soulherder
+3 Coiling Oracle
+3 Ephemerate
+3 Hallowed Fountain
+3 Watcher for Tomorrow
 3 Force of Negation
 3 Teferi, Time Raveler
+3 Ice-Fang Coatl
 3 Snow-Covered Island
 4 Watcher for Tomorrow
-4 Coiling Oracle
 4 Soulherder
+4 Coiling Oracle
 4 Ice-Fang Coatl
 4 Ephemerate
 1 Neoform
@@ -132,9 +132,9 @@
 1 Restoration Angel
 1 Hexdrinker
 1 Squadron Hawk
-1 Caustic Caterpillar
 1 Aven Mindcensor
 1 Geist of Saint Traft
+1 Caustic Caterpillar
 2 Restoration Angel
 2 Island
 2 Squadron Hawk

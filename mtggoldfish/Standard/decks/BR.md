@@ -1,0 +1,25 @@
+# BR
+
+#### [Export MTGO List](../collection/BR/BR.txt)
+#### [Export Arena List](../collection/BR/BR_arena.txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Blood%20Crypt%0A3%09Castle%20Embereth%0A3%09Castle%20Locthwain%0A4%09Dreadhorde%20Butcher%0A2%09Embercleave%0A4%09Fervent%20Champion%0A4%09Knight%20of%20the%20Ebon%20Legion%0A4%09Light%20Up%20the%20Stage%0A5%09Mountain%0A4%09Murderous%20Rider%0A2%09Rankle,%20Master%20of%20Pranks%0A4%09Robber%20of%20the%20Rich%0A4%09Shock%0A4%09Skewer%20the%20Critics%0A4%09Spawn%20of%20Mayhem%0A5%09Swamp&deckside=3%09Bonecrusher%20Giant%0A4%09Duress%0A4%09Legion's%20End%0A4%09Noxious%20Grasp)
+# Maindeck
+
+|                                            Creature (12)                                             |                                   Instant (4)                                    |                                       Land (14)                                       |                                          Sorcery (8)                                          |       Unknown (22)       |
+|------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|--------------------------|
+|4 [Dreadhorde Butcher](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461121)       |4 [Shock](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129732)|4 [Blood Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=97102)|4 [Light Up the Stage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457251)|3 Castle Embereth         |
+|4 [Knight of the Ebon Legion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466859)|                                                                                  |5 [Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)  |4 [Skewer the Critics](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457259)|3 Castle Locthwain        |
+|4 [Spawn of Mayhem](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457229)          |                                                                                  |5 [Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)     |                                                                                               |2 Embercleave             |
+|                                                                                                      |                                                                                  |                                                                                       |                                                                                               |4 Fervent Champion        |
+|                                                                                                      |                                                                                  |                                                                                       |                                                                                               |4 Murderous Rider         |
+|                                                                                                      |                                                                                  |                                                                                       |                                                                                               |2 Rankle, Master of Pranks|
+|                                                                                                      |                                                                                  |                                                                                       |                                                                                               |4 Robber of the Rich      |
+
+
+# Sideboard
+
+|                                       Instant (4)                                        |                                       Sorcery (8)                                       |    Unknown (3)    |
+|------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|-------------------|
+|4 [Noxious Grasp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466864)|4 [Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)       |3 Bonecrusher Giant|
+|                                                                                          |4 [Legion's End](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466860)|                   |
+

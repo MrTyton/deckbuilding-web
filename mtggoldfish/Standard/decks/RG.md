@@ -1,0 +1,23 @@
+# RG
+
+#### [Export MTGO List](../collection/RG/RG.txt)
+#### [Export Arena List](../collection/RG/RG_arena.txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=3%09Bonecrusher%20Giant%0A3%09Castle%20Embereth%0A2%09Collision/Colossus%0A3%09Domri,%20Anarch%20of%20Bolas%0A10%09Forest%0A4%09Gruul%20Spellbreaker%0A5%09Mountain%0A4%09Once%20Upon%20a%20Time%0A4%09Pelt%20Collector%0A4%09Questing%20Beast%0A4%09Robber%20of%20the%20Rich%0A4%09Shock%0A2%09Skarrgan%20Hellkite%0A4%09Stomping%20Ground%0A4%09Zhur-Taa%20Goblin&deckside=4%09Flame%20Sweep%0A4%09Lava%20Coil%0A4%09Shifting%20Ceratops%0A3%09Veil%20of%20Summer)
+# Maindeck
+
+|                                         Creature (14)                                         |                                          Instant (6)                                          |                                         Land (19)                                          |                                         Planeswalker (3)                                          |    Unknown (18)    |
+|-----------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|--------------------|
+|4 [Gruul Spellbreaker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457323)|2 [Collision/Colossus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457367)|10 [Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)        |3 [Domri, Anarch of Bolas](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461118)|3 Bonecrusher Giant |
+|4 [Pelt Collector](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452891)    |4 [Shock](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129732)             |5 [Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)       |                                                                                                   |3 Castle Embereth   |
+|2 [Skarrgan Hellkite](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457258) |                                                                                               |4 [Stomping Ground](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405110)|                                                                                                   |4 Once Upon a Time  |
+|4 [Zhur-Taa Goblin](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457359)   |                                                                                               |                                                                                            |                                                                                                   |4 Questing Beast    |
+|                                                                                               |                                                                                               |                                                                                            |                                                                                                   |4 Robber of the Rich|
+
+
+# Sideboard
+
+|                                         Creature (4)                                         |                                        Instant (7)                                        |                                     Sorcery (4)                                      |
+|----------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
+|4 [Shifting Ceratops](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466948)|4 [Flame Sweep](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466893)   |4 [Lava Coil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452858)|
+|                                                                                              |3 [Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)|                                                                                      |
+

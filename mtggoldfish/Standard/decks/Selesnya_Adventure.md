@@ -24,3 +24,22 @@
 |2 [Knight of Autumn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452933)|1 [Unbreakable Formation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457173)|2 [Gideon Blackblade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463943)|4 [Devout Decree](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466767)|3 Questing Beast|
 |                                                                                             |3 [Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)       |                                                                                              |                                                                                          |                |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                         Maindeck Card                                          |*n*<sup>th</sup> copy|                                             Sideboard Card                                             |
+|--------------------:|------------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------------------|
+|                    1|[Raise the Alarm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416853)      |                    1|[Vivien, Champion of the Wilds](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461107)|
+|                    1|[Conclave Tribunal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452756)    |                    1|Glass Casket                                                                                            |
+|                    2|[Raise the Alarm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416853)      |                    2|[Vivien, Champion of the Wilds](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461107)|
+|                    2|[Conclave Tribunal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452756)    |                    2|Glass Casket                                                                                            |
+|                    2|Shepherd of the Flock                                                                           |                    3|[Gideon Blackblade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463943)            |
+|                    3|[Conclave Tribunal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452756)    |                    3|[Vivien, Champion of the Wilds](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461107)|
+|                    3|Shepherd of the Flock                                                                           |                     |                                                                                                        |
+|                    3|[Raise the Alarm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416853)      |                     |                                                                                                        |
+|                    4|[Raise the Alarm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416853)      |                     |                                                                                                        |
+|                    4|[Conclave Tribunal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452756)    |                     |                                                                                                        |
+|                    4|Shepherd of the Flock                                                                           |                     |                                                                                                        |
+|                    2|Castle Ardenvale                                                                                |                     |                                                                                                        |
+|                    2|[Unbreakable Formation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457173)|                     |                                                                                                        |
+
