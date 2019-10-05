@@ -11,22 +11,22 @@
 1 Dark Confidant
 1 Fatal Push
 2 Dreadhorde Arcanist
-2 Marsh Flats
-2 Dark Confidant
 2 Collective Brutality
+2 Dark Confidant
 2 Unearth
+2 Marsh Flats
 2 Fatal Push
 3 Dreadhorde Arcanist
+3 Dark Confidant
 3 Marsh Flats
 3 Unearth
 3 Fatal Push
-3 Dark Confidant
 4 Dreadhorde Arcanist
+4 Dark Confidant
 4 Bloodstained Mire
+4 Inquisition of Kozilek
 4 Thoughtseize
 4 Lightning Skelemental
-4 Inquisition of Kozilek
-4 Dark Confidant
 4 Unearth
 4 Mountain
 5 Mountain
@@ -77,6 +77,7 @@
 4 Goblin Matron
 4 Skirk Prospector
 1 Snow-Covered Mountain
+1 Mishra's Bauble
 1 Finale of Promise
 1 Searing Blaze
 1 Bump in the Night
@@ -84,7 +85,6 @@
 1 Rift Bolt
 1 Lava Spike
 1 Skewer the Critics
-1 Mishra's Bauble
 1 Goblin Guide
 2 Snow-Covered Mountain
 2 Fiery Islet
@@ -92,12 +92,12 @@
 2 Mishra's Bauble
 2 Finale of Promise
 2 Searing Blaze
-2 Skewer the Critics
 2 Goblin Guide
 2 Lava Spike
 2 Bump in the Night
 2 Arid Mesa
 2 Monastery Swiftspear
+2 Skewer the Critics
 3 Snow-Covered Mountain
 3 Rift Bolt
 3 Goblin Guide
@@ -106,9 +106,9 @@
 3 Monastery Swiftspear
 3 Bump in the Night
 3 Skewer the Critics
-3 Arid Mesa
 3 Mishra's Bauble
 3 Fiery Islet
+3 Arid Mesa
 4 Snow-Covered Mountain
 4 Goblin Guide
 4 Searing Blaze
@@ -128,22 +128,22 @@
 4 Chalice of the Void
 4 Simian Spirit Guide
 1 Warren Instigator
-1 Cavern of Souls
 1 Siege-Gang Commander
 1 Goblin Instigator
 1 Goblin Warchief
+1 Cavern of Souls
 2 Goblin Chieftain
 2 Warren Instigator
-2 Goblin Trashmaster
 2 Cavern of Souls
+2 Goblin Trashmaster
 2 Goblin Ringleader
 2 Siege-Gang Commander
-2 Goblin Warchief
 2 Goblin Instigator
+2 Goblin Warchief
 3 Warren Instigator
 3 Blood Crypt
-3 Goblin Chieftain
 3 Cavern of Souls
+3 Goblin Chieftain
 3 Goblin Instigator
 3 Goblin Warchief
 3 Goblin Ringleader
@@ -185,8 +185,8 @@
 3 Darksteel Citadel
 3 Blood Moon
 3 Goblin Rabblemaster
-4 Goblin Rabblemaster
 4 Desperate Ritual
+4 Goblin Rabblemaster
 4 Darksteel Citadel
 4 Blood Moon
 9 Mountain

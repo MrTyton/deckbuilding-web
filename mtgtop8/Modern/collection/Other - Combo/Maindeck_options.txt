@@ -1,17 +1,3 @@
-2 Steam Vents
-1 Shivan Reef
-1 Shimmer of Possibility
-2 Merchant Scroll
-3 Vizier of Tumbling Sands
-4 Vizier of Tumbling Sands
-1 Yavimaya Coast
-1 Snow-Covered Island
-1 Botanical Sanctum
-1 Sylvan Scrying
-2 Yavimaya Coast
-2 Sylvan Scrying
-2 Snow-Covered Island
-2 Botanical Sanctum
 3 Yavimaya Coast
 3 Twiddle
 3 Botanical Sanctum
@@ -19,68 +5,20 @@
 4 Yavimaya Coast
 4 Snow-Covered Island
 4 Botanical Sanctum
-1 Forest
-1 Copperline Gorge
-2 Forest
-1 Everflowing Chalice
-1 Zhalfirin Void
-1 Blast Zone
-1 Ancient Stirrings
-1 Walking Ballista
-1 Mox Opal
-1 Engineered Explosives
-1 Mystic Forge
-1 Inventors' Fair
-1 Grove of the Burnwillows
-1 Pyrite Spellbomb
-1 Paradox Engine
-1 Astral Cornucopia
-1 Nurturing Peatland
-1 Coretapper
-1 Ensnaring Bridge
-1 Surge Node
-1 Horizon Canopy
-1 Karn, the Great Creator
-2 Inventors' Fair
-2 Everflowing Chalice
-2 Ensnaring Bridge
-2 Zhalfirin Void
-2 Mox Opal
-2 Ancient Stirrings
-2 Blast Zone
-2 Mystic Forge
-2 Karn, the Great Creator
-2 Surge Node
-2 Paradox Engine
-2 Grove of the Burnwillows
-2 Astral Cornucopia
-2 Pyrite Spellbomb
-2 Coretapper
-3 Grove of the Burnwillows
-3 Blast Zone
-3 Everflowing Chalice
-3 Mystic Forge
-3 Ancient Stirrings
-3 Mox Opal
-3 Karn, the Great Creator
-3 Ensnaring Bridge
-3 Paradox Engine
-3 Inventors' Fair
-3 Surge Node
-3 Astral Cornucopia
-3 Pyrite Spellbomb
-3 Coretapper
-4 Karn, the Great Creator
-4 Blast Zone
-4 Everflowing Chalice
-4 Ancient Stirrings
-4 Grove of the Burnwillows
-4 Coretapper
-4 Astral Cornucopia
-4 Mox Opal
-4 Surge Node
+1 Shivan Reef
+1 Spirebluff Canal
+1 Shimmer of Possibility
+1 Steam Vents
+1 Fiery Islet
+2 Merchant Scroll
+2 Spirebluff Canal
+3 Vizier of Tumbling Sands
+3 Spirebluff Canal
+4 Vizier of Tumbling Sands
+4 Spirebluff Canal
 1 Lightning Bolt
 1 Mountain
+1 Forest
 1 Stomping Ground
 2 Stomping Ground
 2 Lightning Bolt
@@ -107,6 +45,7 @@
 1 Impervious Greatwurm
 1 Wooded Foothills
 1 Birds of Paradise
+1 Copperline Gorge
 1 Strangleroot Geist
 1 Surrak, the Hunt Caller
 1 Cragganwick Cremator
@@ -117,17 +56,18 @@
 2 Copperline Gorge
 2 Steel Leaf Champion
 2 Windswept Heath
+2 Forest
 2 Wooded Foothills
-2 Impervious Greatwurm
 2 Eldritch Evolution
+2 Impervious Greatwurm
 2 Birds of Paradise
 2 Cragganwick Cremator
 2 Strangleroot Geist
 3 Noble Hierarch
-3 Forest
 3 Strangleroot Geist
 3 Steel Leaf Champion
 3 Cragganwick Cremator
+3 Forest
 3 Eldritch Evolution
 3 Wooded Foothills
 4 Noble Hierarch
@@ -140,16 +80,16 @@
 1 Magmatic Insight
 1 Commune with the Gods
 1 Postmortem Lunge
-1 Karplusan Forest
 1 Fecundity
 1 Reckless Bushwhacker
 1 Skirk Prospector
 1 Voracious Dragon
 1 Mogg War Marshal
-1 Empty the Warrens
 1 Wild Cantor
+1 Empty the Warrens
 1 Dragon Fodder
 1 Battle Hymn
+1 Karplusan Forest
 1 Infernal Plunge
 2 Mountain
 2 Wild Cantor
@@ -188,14 +128,16 @@
 8 Mountain
 9 Mountain
 10 Mountain
+1 Eye of Nowhere
 1 Peek
 1 Opt
-2 Peek
 2 Opt
+2 Peek
 2 Eye of Nowhere
-3 Peek
 3 Opt
+3 Peek
 4 Opt
+4 Lonely Sandbar
 4 Peek
 5 Island
 6 Island
