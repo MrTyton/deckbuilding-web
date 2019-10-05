@@ -6,12 +6,12 @@
 4 Bloodstained Mire
 2 Thoughtseize
 1 Counterspell
-1 Force of Negation
 1 Spellstutter Sprite
 1 Liliana's Triumph
 1 Fallen Shinobi
 1 Scalding Tarn
 1 Tasigur, the Golden Fang
+1 Force of Negation
 2 Spellstutter Sprite
 2 Tasigur, the Golden Fang
 4 Fatal Push
@@ -34,13 +34,13 @@
 2 Lotus Petal
 3 Lotus Petal
 4 Lotus Petal
-1 Island
 1 Thoughtcast
 1 Engineered Explosives
 1 Seat of the Synod
 1 Sai, Master Thopterist
 1 Welding Jar
 1 Mirrodin Besieged
+1 Island
 1 Vault of Whispers
 1 Tormod's Crypt
 1 Mox Opal
@@ -79,8 +79,8 @@
 2 Ornithopter
 2 Flooded Strand
 2 Daze
-3 Flooded Strand
 3 Retrofitter Foundry
+3 Flooded Strand
 3 Ornithopter
 3 Changeling Outcast
 3 Daze
@@ -96,7 +96,6 @@
 1 Grim Monolith
 1 Mystic Forge
 1 Crystal Vein
-1 Karakas
 1 Thran Dynamo
 1 All Is Dust
 1 Vesuvan Doppelganger
@@ -106,6 +105,7 @@
 1 Thought-Knot Seer
 1 Ugin, the Spirit Dragon
 1 Manifold Key
+1 Karakas
 1 Ugin, the Ineffable
 1 Sorcerous Spyglass
 1 Blast Zone
@@ -113,10 +113,10 @@
 2 Blast Zone
 2 Mystic Forge
 2 Crystal Vein
+2 Sorcerous Spyglass
 2 Thought-Knot Seer
 2 Thran Dynamo
 2 Ugin, the Ineffable
-2 Sorcerous Spyglass
 2 Manifold Key
 2 Grim Monolith
 2 Cloudpost
@@ -140,12 +140,12 @@
 1 Duress
 1 Lion's Eye Diamond
 1 Painter's Servant
-1 Helm of Obedience
 1 Lake of the Dead
 1 Ill-Gotten Gains
 1 Dark Depths
 1 Swamp
 1 Leyline of the Void
+1 Helm of Obedience
 1 Infernal Tutor
 1 Dark Ritual
 1 Echo of Eons
@@ -163,9 +163,9 @@
 2 Swamp
 2 Infernal Tutor
 3 Thoughtseize
+3 Swamp
 3 Dark Ritual
 3 Lion's Eye Diamond
-3 Swamp
 3 Infernal Tutor
 3 Leyline of the Void
 3 Duress
