@@ -91,6 +91,7 @@
 |                     |                                                                                               |                    2|[Path to Exile](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220511)           |
 |                     |                                                                                               |                    3|[Path to Exile](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220511)           |
 |                     |                                                                                               |                    4|[Force of Vigor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464113)          |
+|                     |                                                                                               |                    4|[Kitchen Finks](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370458)           |
 |                     |                                                                                               |                    1|[Gladecover Scout](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220082)        |
 |                     |                                                                                               |                    1|[Silhana Ledgewalker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=96825)      |
 |                     |                                                                                               |                    1|[Slippery Bogle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=150999)          |
@@ -99,5 +100,4 @@
 |                     |                                                                                               |                    2|[Gladecover Scout](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220082)        |
 |                     |                                                                                               |                    3|[Slippery Bogle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=150999)          |
 |                     |                                                                                               |                    4|[Dissenter's Deliverance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426866) |
-|                     |                                                                                               |                    4|[Kitchen Finks](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370458)           |
 
