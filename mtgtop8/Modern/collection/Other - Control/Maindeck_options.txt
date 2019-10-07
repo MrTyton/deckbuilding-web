@@ -1,8 +1,8 @@
 1 Watery Grave
 1 Polluted Delta
 1 Vendilion Clique
-2 Vendilion Clique
 2 Polluted Delta
+2 Vendilion Clique
 2 Watery Grave
 1 Blast Zone
 1 Field of Ruin
@@ -41,9 +41,9 @@
 2 Fatal Push
 2 Inquisition of Kozilek
 2 Liliana of the Veil
+3 Polluted Delta
 3 Creeping Tar Pit
 3 Darkslick Shores
-3 Polluted Delta
 3 Zur's Weirding
 3 Fatal Push
 3 Thoughtseize
@@ -72,12 +72,12 @@
 2 Wooded Foothills
 2 Forest
 2 Seasoned Pyromancer
+2 Young Pyromancer
 2 Magmatic Insight
 2 Mountain
 2 Windswept Heath
 2 Forgotten Cave
 2 Fire-Lit Thicket
-2 Young Pyromancer
 2 Stomping Ground
 2 Life from the Loam
 2 Commune with the Gods
@@ -120,9 +120,9 @@
 2 Flooded Strand
 3 Spell Snare
 3 Dismember
+3 Archmage's Charm
 3 Opt
 3 Faerie Conclave
-3 Archmage's Charm
 3 Brineborn Cutthroat
 3 Force of Negation
 3 Flooded Strand
@@ -139,14 +139,14 @@
 1 Thraben Inspector
 1 Sun Titan
 1 Wrath of God
-1 Arid Mesa
 1 Charming Prince
 1 Emeria, the Sky Ruin
+1 Arid Mesa
 1 Wall of Omens
 1 Path to Exile
 1 Marsh Flats
-1 Snow-Covered Plains
 1 Winds of Abandon
+1 Snow-Covered Plains
 1 Flickerwisp
 1 Kami of False Hope
 1 Brought Back
@@ -192,8 +192,9 @@
 1 Llanowar Elves
 1 Hornet Queen
 1 Nissa, Vastwood Seer
-1 Elvish Mystic
 1 Spore Frog
+1 Elvish Mystic
+1 Ancient Stirrings
 1 Mwonvuli Acid-Moss
 1 Trinisphere
 1 Walking Ballista
@@ -202,19 +203,18 @@
 1 Eternal Witness
 1 Arbor Elf
 1 Karn, the Great Creator
-1 Ancient Stirrings
 2 Frostwalk Bastion
 2 Blast Zone
 2 Arbor Elf
 2 Nissa, Vastwood Seer
 2 Eternal Witness
+2 Ancient Stirrings
 2 Utopia Sprawl
 2 Mwonvuli Acid-Moss
 2 Elvish Mystic
 2 Primal Command
-2 Trinisphere
 2 Karn, the Great Creator
-2 Ancient Stirrings
+2 Trinisphere
 3 Snow-Covered Forest
 3 Trinisphere
 3 Primal Command
@@ -222,17 +222,17 @@
 3 Eternal Witness
 3 Utopia Sprawl
 3 Karn, the Great Creator
+3 Ancient Stirrings
 3 Mwonvuli Acid-Moss
 3 Nissa, Vastwood Seer
-3 Ancient Stirrings
 4 Snow-Covered Forest
 4 Primal Command
 4 Arbor Elf
 4 Utopia Sprawl
+4 Ancient Stirrings
 4 Mwonvuli Acid-Moss
 4 Karn, the Great Creator
 4 Eternal Witness
-4 Ancient Stirrings
 5 Snow-Covered Forest
 6 Snow-Covered Forest
 7 Snow-Covered Forest

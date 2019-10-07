@@ -13,6 +13,7 @@
 1 Sunbaked Canyon
 1 Chandra, Acolyte of Flame
 1 Seasoned Pyromancer
+1 Marsh Flats
 1 Mountain
 1 Lightning Axe
 1 Dreadhorde Arcanist
@@ -23,7 +24,6 @@
 1 Blood Crypt
 1 Bloodstained Mire
 1 Lightning Bolt
-1 Marsh Flats
 1 Blackcleave Cliffs
 1 Bedlam Reveler
 2 Blood Crypt
@@ -33,13 +33,13 @@
 2 Hazoret the Fervent
 2 Bloodstained Mire
 2 Seasoned Pyromancer
+2 Marsh Flats
 2 Mountain
 2 Dreadhorde Arcanist
 2 Liliana of the Veil
 2 Kolaghan's Command
 2 Blood Moon
 2 Blackcleave Cliffs
-2 Marsh Flats
 2 Lightning Bolt
 3 Bedlam Reveler
 3 Blood Moon
@@ -79,7 +79,6 @@
 2 Curious Obsession
 2 Invisible Stalker
 2 Mu Yanling, Sky Dancer
-2 Plains
 2 Force of Negation
 2 Aqueous Form
 2 Warkite Marauder
@@ -90,22 +89,23 @@
 2 Ethereal Armor
 2 Path to Exile
 2 Hallowed Fountain
+2 Plains
 3 Invisible Stalker
 3 Curious Obsession
 3 Plains
 3 Glacial Fortress
+3 Hallowed Fountain
 3 Force of Negation
 3 Warkite Marauder
 3 Chart a Course
 3 Path to Exile
 3 Ethereal Armor
-3 Hallowed Fountain
 4 Curious Obsession
+4 Hallowed Fountain
 4 Invisible Stalker
 4 Glacial Fortress
 4 Force of Negation
 4 Chart a Course
-4 Hallowed Fountain
 4 Ethereal Armor
 4 Path to Exile
 1 Nurturing Peatland
@@ -115,7 +115,6 @@
 1 Blast Zone
 1 Hexdrinker
 1 Collective Brutality
-1 Mishra's Bauble
 1 Maelstrom Pulse
 1 Assassin's Trophy
 1 Kalitas, Traitor of Ghet
@@ -127,11 +126,13 @@
 1 Field of Ruin
 1 Hissing Quagmire
 1 Scavenging Ooze
+1 Mishra's Bauble
 1 Treetop Village
+2 Tireless Tracker
 2 Abrupt Decay
+2 Mishra's Bauble
 2 Hexdrinker
 2 Grim Flayer
-2 Mishra's Bauble
 2 Assassin's Trophy
 2 Scavenging Ooze
 2 Field of Ruin
@@ -139,30 +140,29 @@
 2 Forest
 2 Verdant Catacombs
 2 Overgrown Tomb
-2 Tireless Tracker
 2 Unearth
 2 Treetop Village
 3 Assassin's Trophy
+3 Mishra's Bauble
 3 Tireless Tracker
 3 Grim Flayer
 3 Field of Ruin
 3 Hexdrinker
-3 Mishra's Bauble
 3 Scavenging Ooze
 3 Blooming Marsh
 3 Verdant Catacombs
 4 Blooming Marsh
+4 Mishra's Bauble
 4 Grim Flayer
 4 Fatal Push
-4 Mishra's Bauble
 4 Verdant Catacombs
 4 Inquisition of Kozilek
 1 Mystic Forge
 1 Darksteel Citadel
 1 Blinkmoth Nexus
 1 Lodestone Golem
-1 Thorn of Amethyst
 1 Master of Etherium
+1 Thorn of Amethyst
 1 Mox Opal
 1 Waterlogged Grove
 1 Walking Ballista
