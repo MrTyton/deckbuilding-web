@@ -1,33 +1,67 @@
-3 Hallowed Fountain
-2 On Thin Ice
-1 Glacial Fortress
-1 Serum Visions
-2 Serum Visions
-3 Force of Negation
-3 Serum Visions
-4 Serum Visions
-1 Vendilion Clique
-1 Narset, Parter of Veils
-1 Detention Sphere
-1 Rest in Peace
-1 Cryptic Command
-1 Polluted Delta
-1 Supreme Verdict
-1 Timely Reinforcements
-2 Narset, Parter of Veils
-2 Rest in Peace
-2 Cryptic Command
-2 Supreme Verdict
-2 Timely Reinforcements
-3 Narset, Parter of Veils
-3 Celestial Colonnade
+1 Oust
+3 Spell Snare
+1 Prismatic Vista
+1 Geier Reach Sanitarium
+1 Snow-Covered Island
+2 Snow-Covered Island
+3 Snow-Covered Island
+3 Jace, the Mind Sculptor
+1 Winds of Abandon
+1 Snow-Covered Plains
+4 Snow-Covered Island
 5 Snow-Covered Island
 6 Snow-Covered Island
-1 Prismatic Vista
-2 Glacial Fortress
+2 Snow-Covered Plains
+2 Teferi, Hero of Dominaria
+1 Serum Visions
+2 Serum Visions
+3 Mana Leak
+2 Vendilion Clique
+1 Wrath of God
+1 Fact or Fiction
+1 Rest in Peace
+2 Rest in Peace
+4 Celestial Colonnade
+3 Teferi, Time Raveler
+3 Serum Visions
+1 Blast Zone
+1 Search for Azcanta
+1 Terminus
+2 Terminus
+3 Hallowed Fountain
+4 Serum Visions
+1 Surgical Extraction
+1 Dovin's Veto
+1 Monastery Mentor
+3 Terminus
+2 Timely Reinforcements
+2 Logic Knot
+3 Plains
+1 Batterskull
+1 Sword of Fire and Ice
+1 Stoneforge Mystic
+2 Stoneforge Mystic
+3 Stoneforge Mystic
+4 Stoneforge Mystic
+1 Misty Rainforest
+1 Condemn
+1 Ancestral Vision
+7 Island
+1 Spell Pierce
+1 Gideon, Ally of Zendikar
+2 Monastery Mentor
+4 Terminus
+1 Sphinx's Revelation
+1 Scalding Tarn
 1 Moorland Haunt
-1 Island
-2 Island
+1 Spell Queller
+2 Spell Queller
+3 Spell Queller
+4 Spell Queller
+1 Seachrome Coast
+2 Seachrome Coast
+3 Seachrome Coast
+4 Seachrome Coast
 4 Hallowed Fountain
 1 Unsettled Mariner
 1 Aether Vial
@@ -35,35 +69,37 @@
 1 Mutavault
 1 Giver of Runes
 1 Thalia, Guardian of Thraben
-1 Plains
 2 Deputy of Detention
 2 Aether Vial
-2 Plains
 2 Unsettled Mariner
 2 Giver of Runes
 3 Giver of Runes
 3 Aether Vial
 4 Aether Vial
 4 Giver of Runes
-1 Misty Rainforest
-2 Misty Rainforest
-1 Oust
-2 Oust
-1 Geier Reach Sanitarium
+1 God-Eternal Kefnet
+1 Peek
+1 Polluted Dead
+1 Censor
+2 Gideon, Ally of Zendikar
+1 Gideon Jura
+1 Gideon of the Trials
+2 Detention Sphere
+2 Gideon of the Trials
+1 On Thin Ice
 1 Karn, the Great Creator
 1 Wall of Omens
 2 Karn, the Great Creator
 2 Wall of Omens
-1 Dovin's Veto
-1 Spell Pierce
-1 Winds of Abandon
-1 Teferi, Hero of Dominaria
-1 Censor
-1 Blast Zone
-2 Teferi, Hero of Dominaria
-3 Cryptic Command
+1 Elspeth, Sun's Champion
+2 Prismatic Vista
+3 Glacial Fortress
+4 Narset, Parter of Veils
+4 Cryptic Command
+1 Restoration Angel
 1 Aven Mindcensor
 1 Delay
+1 Sword of Feast and Famine
 2 Restoration Angel
 2 Aven Mindcensor
 2 Delay
@@ -81,17 +117,16 @@
 2 Horizon Canopy
 2 Faerie Seer
 2 Thalia, Guardian of Thraben
-3 Plains
 3 Unsettled Mariner
 3 Spellstutter Sprite
-3 Faerie Seer
 3 Horizon Canopy
+3 Faerie Seer
 4 Unsettled Mariner
 4 Spellstutter Sprite
 1 Geist of Saint Traft
+1 Drogskol Captain
 1 Mausoleum Wanderer
 1 Supreme Phantom
-1 Drogskol Captain
 2 Supreme Phantom
 2 Mutavault
 2 Mausoleum Wanderer
@@ -106,19 +141,15 @@
 4 Deputy of Detention
 1 Archmage's Charm
 1 Delver of Secrets
-1 Logic Knot
 1 Dismember
+2 Scalding Tarn
 2 Delver of Secrets
-2 Logic Knot
 2 Archmage's Charm
 3 Scalding Tarn
 3 Logic Knot
-3 Island
 3 Delver of Secrets
 3 Archmage's Charm
 4 Scalding Tarn
 4 Force of Negation
-4 Island
 4 Archmage's Charm
 4 Delver of Secrets
-5 Island

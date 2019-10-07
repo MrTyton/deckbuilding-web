@@ -102,8 +102,8 @@
 3 Hallowed Fountain
 4 Curious Obsession
 4 Invisible Stalker
-4 Force of Negation
 4 Glacial Fortress
+4 Force of Negation
 4 Chart a Course
 4 Hallowed Fountain
 4 Ethereal Armor
@@ -115,7 +115,9 @@
 1 Blast Zone
 1 Hexdrinker
 1 Collective Brutality
+1 Mishra's Bauble
 1 Maelstrom Pulse
+1 Assassin's Trophy
 1 Kalitas, Traitor of Ghet
 1 Overgrown Tomb
 1 Unearth
@@ -125,16 +127,14 @@
 1 Field of Ruin
 1 Hissing Quagmire
 1 Scavenging Ooze
-1 Mishra's Bauble
 1 Treetop Village
-1 Assassin's Trophy
 2 Abrupt Decay
 2 Hexdrinker
 2 Grim Flayer
+2 Mishra's Bauble
 2 Assassin's Trophy
 2 Scavenging Ooze
 2 Field of Ruin
-2 Mishra's Bauble
 2 Blooming Marsh
 2 Forest
 2 Verdant Catacombs
@@ -147,16 +147,16 @@
 3 Grim Flayer
 3 Field of Ruin
 3 Hexdrinker
-3 Scavenging Ooze
 3 Mishra's Bauble
+3 Scavenging Ooze
 3 Blooming Marsh
 3 Verdant Catacombs
+4 Blooming Marsh
 4 Grim Flayer
 4 Fatal Push
-4 Verdant Catacombs
 4 Mishra's Bauble
+4 Verdant Catacombs
 4 Inquisition of Kozilek
-4 Blooming Marsh
 1 Mystic Forge
 1 Darksteel Citadel
 1 Blinkmoth Nexus

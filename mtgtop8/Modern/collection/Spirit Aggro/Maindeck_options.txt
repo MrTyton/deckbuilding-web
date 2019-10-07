@@ -1,11 +1,4 @@
-2 Plains
-1 Windswept Heath
-1 Geist of Saint Traft
-1 Breeding Pool
-2 Windswept Heath
-1 Collected Company
 1 Forest
-1 Botanical Sanctum
 1 Noble Hierarch
 1 Temple Garden
 2 Collected Company
@@ -14,8 +7,15 @@
 3 Noble Hierarch
 4 Collected Company
 4 Noble Hierarch
-1 Snow-Covered Plains
+1 Windswept Heath
+2 Plains
 1 Misty Rainforest
+1 Botanical Sanctum
+2 Windswept Heath
+1 Giver of Runes
+2 Giver of Runes
+4 Rattlechains
+1 Snow-Covered Plains
 3 Giver of Runes
 1 Snow-Covered Island
 2 Snow-Covered Island
@@ -25,33 +25,32 @@
 2 Stoneforge Mystic
 3 Stoneforge Mystic
 2 Botanical Sanctum
-3 Windswept Heath
-3 Hallowed Fountain
-3 Selfless Spirit
 1 Sword of Fire and Ice
 4 Unsettled Mariner
-1 Force of Negation
-3 Snow-Covered Island
-2 Horizon Canopy
+3 Windswept Heath
 2 Misty Rainforest
 3 Deputy of Detention
-2 Force of Negation
+3 Hallowed Fountain
+3 Selfless Spirit
+2 Horizon Canopy
+3 Snow-Covered Island
+1 Force of Negation
 2 Teferi, Time Raveler
 2 Cavern of Souls
 1 Kira, Great Glass-Spinner
 3 Horizon Canopy
+2 Force of Negation
 3 Snow-Covered Plains
 1 Reflector Mage
 3 Waterlogged Grove
 3 Botanical Sanctum
-4 Hallowed Fountain
+3 Island
 1 Spectral Sailor
 2 Spectral Sailor
 4 Selfless Spirit
 3 Mutavault
 4 Mutavault
-3 Island
-1 Glacial Fortress
+4 Hallowed Fountain
 1 Soulherder
 1 Marsh Flats
 2 Marsh Flats
@@ -62,11 +61,8 @@
 1 Mystic Gate
 1 Spell Pierce
 2 Spell Pierce
-1 Field of Ruin
-1 Unclaimed Territory
-1 Polluted Delta
-2 Field of Ruin
-3 Force of Negation
+3 Plains
+1 Glacial Fortress
 1 Sword of Light and Shadow
 1 Polluted Mire
 2 Geist of Saint Traft

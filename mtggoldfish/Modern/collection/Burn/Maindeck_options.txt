@@ -1,7 +1,7 @@
-2 Arid Mesa
-2 Fiery Islet
-4 Mountain
 2 Skullcrack
+4 Lightning Helix
+4 Mountain
+2 Fiery Islet
 1 Light Up the Stage
 2 Light Up the Stage
 3 Light Up the Stage
@@ -18,9 +18,9 @@
 3 Shard Volley
 3 Fiery Islet
 4 Fiery Islet
+3 Bloodstained Mire
 3 Arid Mesa
 12 Mountain
-3 Bloodstained Mire
 1 Seal of Fire
 2 Seal of Fire
 3 Seal of Fire
@@ -30,9 +30,9 @@
 2 Fanatical Firebrand
 3 Fanatical Firebrand
 4 Fanatical Firebrand
-1 Grim Lavamancer
 3 Wooded Foothills
 4 Arid Mesa
+1 Grim Lavamancer
 1 Scalding Tarn
 4 Bloodstained Mire
 4 Wooded Foothills
@@ -67,7 +67,6 @@
 9 Snow-Covered Mountain
 10 Snow-Covered Mountain
 11 Snow-Covered Mountain
-1 Stomping Ground
 1 Mogg Fanatic
 2 Mogg Fanatic
 1 Burst Lightning
@@ -81,6 +80,7 @@
 13 Snow-Covered Mountain
 14 Snow-Covered Mountain
 3 Mogg Fanatic
+1 Stomping Ground
 3 Sacred Foundry
 1 Bump in the Night
 1 Blood Crypt
