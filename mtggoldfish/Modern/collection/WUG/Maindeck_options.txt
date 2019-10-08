@@ -1,6 +1,6 @@
 2 Prismatic Vista
-1 Tireless Tracker
 1 Gavony Township
+1 Tireless Tracker
 2 Tireless Tracker
 2 Gavony Township
 3 Temple Garden
@@ -15,9 +15,9 @@
 3 Birds of Paradise
 1 Waterlogged Grove
 4 Giver of Runes
+1 Walking Ballista
 1 Vizier of Remedies
 1 Devoted Druid
-1 Walking Ballista
 1 Finale of Devastation
 2 Forest
 2 Devoted Druid
@@ -33,9 +33,9 @@
 2 Eladamri's Call
 2 Vizier of Remedies
 3 Eladamri's Call
-4 Birds of Paradise
 4 Misty Rainforest
 4 Eladamri's Call
+4 Birds of Paradise
 2 Razorverge Thicket
 3 Teferi, Time Raveler
 1 Oko, Thief of Crowns
@@ -48,9 +48,9 @@
 1 Restoration Angel
 1 Hexdrinker
 1 Squadron Hawk
-1 Island
 1 Caustic Caterpillar
 1 Aven Mindcensor
+1 Island
 1 Geist of Saint Traft
 2 Plains
 2 Restoration Angel
@@ -79,13 +79,13 @@
 1 Bojuka Bog
 1 Primeval Titan
 1 Pact of Negation
+1 Ghost Quarter
 1 Arboreal Grazer
 1 Simic Growth Chamber
 1 Summoner's Pact
 1 Amulet of Vigor
 1 Sunhome, Fortress of the Legion
 1 Kabira Crossroads
-1 Ghost Quarter
 1 Cavern of Souls
 1 Vesuva
 1 Khalni Garden
@@ -122,6 +122,32 @@
 4 Simic Growth Chamber
 4 Ancient Stirrings
 4 Amulet of Vigor
+1 Spell Snare
+1 Opt
+1 Mystic Sanctuary
+1 Arcum's Astrolabe
+1 Supreme Verdict
+1 Serum Visions
+1 Mana Leak
+1 Snapcaster Mage
+2 Serum Visions
+2 Jace, the Mind Sculptor
+2 Spell Snare
+2 Opt
+2 Arcum's Astrolabe
+2 Mana Leak
+2 Snapcaster Mage
+3 Oko, Thief of Crowns
+3 Opt
+3 Arcum's Astrolabe
+3 Snapcaster Mage
+3 Serum Visions
+4 Serum Visions
+4 Opt
+4 Arcum's Astrolabe
+4 Prismatic Vista
+4 Snow-Covered Island
+5 Snow-Covered Island
 1 Watcher for Tomorrow
 1 Ephemerate
 1 Soulherder
@@ -144,29 +170,3 @@
 4 Soulherder
 4 Coiling Oracle
 4 Ephemerate
-1 Mystic Sanctuary
-1 Serum Visions
-1 Spell Snare
-1 Mana Leak
-1 Opt
-1 Arcum's Astrolabe
-1 Snapcaster Mage
-1 Supreme Verdict
-2 Mana Leak
-2 Serum Visions
-2 Jace, the Mind Sculptor
-2 Arcum's Astrolabe
-2 Snapcaster Mage
-2 Spell Snare
-2 Opt
-3 Oko, Thief of Crowns
-3 Arcum's Astrolabe
-3 Snapcaster Mage
-3 Opt
-3 Serum Visions
-4 Snow-Covered Island
-4 Serum Visions
-4 Opt
-4 Prismatic Vista
-5 Snow-Covered Island
-4 Arcum's Astrolabe

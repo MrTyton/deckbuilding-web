@@ -28,8 +28,8 @@
 
 |*n*<sup>th</sup> copy|                                          Maindeck Card                                           |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
 |--------------------:|--------------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
-|                    1|[God-Eternal Kefnet](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460980)     |                    1|Glass Casket                                                                                  |
-|                    1|Mystic Sanctuary                                                                                  |                    1|Hushbringer                                                                                   |
+|                    1|Mystic Sanctuary                                                                                  |                    1|Glass Casket                                                                                  |
+|                    1|[God-Eternal Kefnet](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460980)     |                    1|Hushbringer                                                                                   |
 |                    1|[Dawn of Hope](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452758)           |                    1|[Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452)  |
 |                    1|[Narset, Parter of Veils](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460988)|                    1|[Leyline of Sanctity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=204993)|
 |                    1|Warrant / Warden                                                                                  |                    1|Realm-Cloaked Giant                                                                           |
