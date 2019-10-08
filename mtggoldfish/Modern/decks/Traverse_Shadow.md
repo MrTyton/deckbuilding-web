@@ -33,8 +33,8 @@
 
 |*n*<sup>th</sup> copy|                                          Maindeck Card                                          |*n*<sup>th</sup> copy|                                        Sideboard Card                                         |
 |--------------------:|-------------------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------------|
-|                    1|[Giver of Runes](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463962)        |                    1|[Yixlid Jailer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=130702)       |
-|                    1|[Abrupt Decay](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456061)          |                    1|[Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)      |
+|                    1|[Abrupt Decay](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456061)          |                    1|[Yixlid Jailer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=130702)       |
+|                    1|[Giver of Runes](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463962)        |                    1|[Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)      |
 |                    1|[Manamorphose](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370568)          |                    1|[Gaddock Teeg](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=140188)        |
 |                    1|[Nurturing Peatland](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464192)    |                    1|[Celestial Purge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=183055)     |
 |                    1|[Plague Engineer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464049)       |                    1|[Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452)   |

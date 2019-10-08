@@ -50,6 +50,6 @@
 |                    3|[Hymn to Tourach](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413634)           |                    2|[Force of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464001)      |
 |                    4|[Hymn to Tourach](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413634)           |                    1|[Fatal Push](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423724)             |
 |                    3|[True-Name Nemesis](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446104)         |                     |                                                                                                  |
-|                    3|[Gurmag Angler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391850)             |                     |                                                                                                  |
 |                    4|[Polluted Delta](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405104)            |                     |                                                                                                  |
+|                    3|[Gurmag Angler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391850)             |                     |                                                                                                  |
 

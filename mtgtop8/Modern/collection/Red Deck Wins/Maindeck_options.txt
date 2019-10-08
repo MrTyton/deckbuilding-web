@@ -1,17 +1,20 @@
 3 Bloodstained Mire
 2 Skullcrack
 2 Arid Mesa
-2 Fiery Islet
-3 Wooded Foothills
 4 Mountain
+3 Wooded Foothills
+2 Fiery Islet
+5 Mountain
+6 Mountain
+7 Mountain
 1 Light Up the Stage
 1 Manamorphose
 1 Bedlam Reveler
-1 Soul-Scar Mage
 1 Crash Through
+1 Soul-Scar Mage
 1 Lava Dart
-2 Manamorphose
 2 Light Up the Stage
+2 Manamorphose
 2 Bedlam Reveler
 2 Lava Dart
 2 Soul-Scar Mage
@@ -24,9 +27,6 @@
 4 Manamorphose
 4 Lava Dart
 4 Soul-Scar Mage
-5 Mountain
-6 Mountain
-7 Mountain
 8 Mountain
 9 Mountain
 10 Mountain
@@ -34,26 +34,25 @@
 12 Mountain
 13 Mountain
 14 Mountain
+3 Arid Mesa
+4 Arid Mesa
+1 Grim Lavamancer
+3 Bedlam Reveler
 3 Crash Through
 4 Crash Through
 3 Fiery Islet
 4 Bloodstained Mire
-1 Grim Lavamancer
-1 Kiln Fiend
-15 Mountain
-1 Blistercoil Weird
-3 Bedlam Reveler
 4 Wooded Foothills
-3 Arid Mesa
-4 Arid Mesa
-1 Gut Shot
-2 Gut Shot
+1 Blistercoil Weird
 2 Blistercoil Weird
 3 Blistercoil Weird
 4 Fiery Islet
-2 Kiln Fiend
+1 Kiln Fiend
+15 Mountain
 1 Merchant of the Vale
+1 Gut Shot
 1 Temur Battle Rage
+2 Gut Shot
 3 Gut Shot
 4 Gut Shot
 16 Mountain
@@ -61,15 +60,21 @@
 18 Mountain
 1 Shard Volley
 1 Stomping Ground
-1 Mutagenic Growth
-1 The Flame of Keld
-2 Mutagenic Growth
 2 Grim Lavamancer
 1 Reckless Charge
 1 Firebolt
+2 Kiln Fiend
 2 Reckless Charge
 2 Firebolt
 3 Kiln Fiend
+1 Snow-Covered Mountain
+2 Snow-Covered Mountain
+3 Snow-Covered Mountain
+1 Clifftop Retreat
+1 Scalding Tarn
+2 Scalding Tarn
+2 Clifftop Retreat
+3 Clifftop Retreat
 1 Runaway Steam-Kin
 1 Forked Bolt
 1 Maximize Velocity

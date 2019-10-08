@@ -2,7 +2,7 @@
 
 #### [Export MTGO List](../collection/Mono-Black%20Aristocats/Mono-Black%20Aristocats.txt)
 #### [Export Arena List](../collection/Mono-Black%20Aristocats/Mono-Black%20Aristocats_arena.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=1%09Ayara,%20First%20of%20Locthwain%0A4%09Castle%20Locthwain%0A4%09Cauldron%20Familiar%0A1%09Cavalier%20of%20Night%0A2%09God-Eternal%20Bontu%0A4%09Gutterbones%0A4%09Lazotep%20Reaver%0A1%09Legion's%20End%0A2%09Liliana,%20Dreadhorde%20General%0A4%09Midnight%20Reaper%0A4%09Murderous%20Rider%0A4%09Priest%20of%20Forgotten%20Gods%0A1%09Rankle,%20Master%20of%20Pranks%0A1%09Spark%20Harvest%0A19%09Swamp%0A4%09Witch's%20Oven&deckside=4%09Drill%20Bit%0A4%09Duress%0A1%09Epic%20Downfall%0A1%09Legion's%20End%0A3%09Noxious%20Grasp%0A2%09Rotting%20Regisaur)
+#### [Print on decklist.org](http://decklist.org/?deckmain=1%09Ayara,%20First%20of%20Locthwain%0A4%09Castle%20Locthwain%0A4%09Cauldron%20Familiar%0A1%09Cavalier%20of%20Night%0A2%09God-Eternal%20Bontu%0A4%09Gutterbones%0A4%09Lazotep%20Reaver%0A1%09Legion's%20End%0A2%09Liliana,%20Dreadhorde%20General%0A4%09Midnight%20Reaper%0A4%09Murderous%20Rider%0A4%09Priest%20of%20Forgotten%20Gods%0A1%09Rankle,%20Master%20of%20Pranks%0A1%09Spark%20Harvest%0A19%09Swamp%0A4%09Witch's%20Oven&deckside=3%09Disfigure%0A2%09Drill%20Bit%0A4%09Duress%0A2%09Legion's%20End%0A3%09Noxious%20Grasp%0A1%09The%20Elderspell)
 # Maindeck
 
 |                                            Creature (19)                                            |                                     Land (19)                                     |                                            Planeswalker (2)                                            |                                       Sorcery (2)                                        |       Unknown (18)        |
@@ -17,9 +17,21 @@
 
 # Sideboard
 
-|                                        Creature (2)                                         |                                       Instant (3)                                        |                                       Sorcery (9)                                       |  Unknown (1)  |
-|---------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|---------------|
-|2 [Rotting Regisaur](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466865)|3 [Noxious Grasp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466864)|4 [Drill Bit](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457217)   |1 Epic Downfall|
-|                                                                                             |                                                                                          |4 [Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)       |               |
-|                                                                                             |                                                                                          |1 [Legion's End](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466860)|               |
+|                                       Instant (6)                                        |                                        Sorcery (9)                                        |
+|------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
+|3 [Disfigure](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442076)    |2 [Drill Bit](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457217)     |
+|3 [Noxious Grasp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466864)|4 [Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)         |
+|                                                                                          |2 [Legion's End](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466860)  |
+|                                                                                          |1 [The Elderspell](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461016)|
+
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                 Maindeck Card                                  |*n*<sup>th</sup> copy|                                      Sideboard Card                                       |
+|--------------------:|--------------------------------------------------------------------------------|--------------------:|-------------------------------------------------------------------------------------------|
+|                   20|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)|                    1|Epic Downfall                                                                              |
+|                     |                                                                                |                    1|[Rotting Regisaur](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466865)|
+|                     |                                                                                |                    2|[Rotting Regisaur](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466865)|
+|                     |                                                                                |                    3|[Drill Bit](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457217)       |
+|                     |                                                                                |                    4|[Drill Bit](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457217)       |
 

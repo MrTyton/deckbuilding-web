@@ -43,8 +43,8 @@
 4 Snow-Covered Swamp
 1 Island
 2 Island
-1 Karn, the Great Creator
 1 Ancient Tomb
+1 Karn, the Great Creator
 2 Karn, the Great Creator
 2 Ancient Tomb
 3 Karn, the Great Creator
@@ -61,40 +61,40 @@
 3 Chalice of the Void
 4 Chalice of the Void
 4 Ancient Tomb
-1 Mox Opal
 1 Mirrodin Besieged
 1 Sai, Master Thopterist
 1 Thoughtcast
 1 Engineered Explosives
-1 Seat of the Synod
-1 Vault of Whispers
-1 Tormod's Crypt
 1 Dimir Signet
+1 Seat of the Synod
+1 Tormod's Crypt
+1 Vault of Whispers
+1 Mox Opal
 1 Welding Jar
 1 Urza, Lord High Artificer
 1 Tezzeret, Agent of Bolas
-2 Mox Opal
 2 Urza, Lord High Artificer
 2 Thoughtcast
 2 Seat of the Synod
+2 Dimir Signet
 2 Mirrodin Besieged
 2 Vault of Whispers
+2 Mox Opal
 2 Tezzeret, Agent of Bolas
-2 Dimir Signet
 3 Mox Opal
 3 Island
 3 Urza, Lord High Artificer
 3 Thoughtcast
-3 City of Traitors
 3 Seat of the Synod
+3 City of Traitors
 3 Mirrodin Besieged
 3 Vault of Whispers
 4 Mox Opal
 4 Urza, Lord High Artificer
 4 Island
 4 Seat of the Synod
-1 Murderous Cut
 1 Changeling Outcast
+1 Murderous Cut
 2 Changeling Outcast
 2 Flooded Strand
 3 Flooded Strand
@@ -122,12 +122,13 @@
 3 Delver of Secrets
 4 Daze
 4 Vantress Gargoyle
-4 Gurmag Angler
 4 Thought Scour
 4 Wasteland
+4 Gurmag Angler
 4 Delver of Secrets
 1 Thespian's Stage
 2 Thespian's Stage
+1 Voltaic Key
 1 Buried Ruin
 1 Grim Monolith
 1 Mystic Forge
@@ -139,13 +140,12 @@
 1 Vesuvan Doppelganger
 1 Karn, Scion of Urza
 1 Cloudpost
-1 Glimmerpost
 1 Manifold Key
 1 Ugin, the Ineffable
 1 Sorcerous Spyglass
 1 Ugin, the Spirit Dragon
+1 Glimmerpost
 1 Blast Zone
-1 Voltaic Key
 2 Blast Zone
 2 Mystic Forge
 2 Crystal Vein
@@ -157,7 +157,6 @@
 2 Manifold Key
 2 Grim Monolith
 2 Glimmerpost
-3 Sorcerous Spyglass
 3 Thespian's Stage
 3 Blast Zone
 3 Mystic Forge
@@ -166,9 +165,10 @@
 3 Glimmerpost
 3 Thran Dynamo
 3 Ugin, the Ineffable
+3 Sorcerous Spyglass
 4 Mystic Forge
-4 Ugin, the Ineffable
 4 Cloudpost
+4 Ugin, the Ineffable
 4 Glimmerpost
 4 Karn, the Great Creator
 4 Grim Monolith
@@ -180,12 +180,12 @@
 1 Painter's Servant
 1 Lake of the Dead
 1 Ill-Gotten Gains
-1 Dark Depths
 1 Helm of Obedience
 1 Infernal Tutor
 1 Dark Ritual
-1 Leyline of the Void
 1 Vampire Hexmage
+1 Leyline of the Void
+1 Dark Depths
 1 Grindstone
 2 Dark Depths
 2 Urborg, Tomb of Yawgmoth
@@ -198,10 +198,10 @@
 2 Swamp
 2 Infernal Tutor
 3 Swamp
+3 Infernal Tutor
 3 Dark Ritual
 3 Leyline of the Void
 3 Lion's Eye Diamond
-3 Infernal Tutor
 3 Duress
 4 Thoughtseize
 4 Infernal Tutor

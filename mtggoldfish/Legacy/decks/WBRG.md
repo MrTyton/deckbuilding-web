@@ -32,3 +32,11 @@
 |1 [Plague Engineer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464049)    |                                                                                                |                                                                                          |                                                                                                  |                                                                                         |
 |1 [Reclamation Sage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389651)   |                                                                                                |                                                                                          |                                                                                                  |                                                                                         |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                       Maindeck Card                                        |*n*<sup>th</sup> copy|                                      Sideboard Card                                      |
+|--------------------:|--------------------------------------------------------------------------------------------|--------------------:|------------------------------------------------------------------------------------------|
+|                    3|[Sylvan Library](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=2240)     |                    2|[Plague Engineer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464049)|
+|                    3|[Verdant Catacombs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405113)|                     |                                                                                          |
+
