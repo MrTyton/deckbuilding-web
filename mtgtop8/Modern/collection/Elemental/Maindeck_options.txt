@@ -1,16 +1,17 @@
-1 Fiery Islet
-1 Waterlogged Grove
-1 Snow-Covered Mountain
-1 Smokebraider
-2 Smokebraider
-3 Smokebraider
+2 Reflecting Pool
+4 Vesperlark
+4 Phantasmal Image
 1 Sunbaked Canyon
-1 Mulldrifter
-1 Reveillark
 1 Spitebellows
 1 Shriekmaw
-2 Spitebellows
 2 Sunbaked Canyon
+2 Fiery Islet
+1 Snow-Covered Mountain
+2 Smokebraider
+3 Smokebraider
+1 Mulldrifter
+1 Reveillark
+2 Spitebellows
 2 Mulldrifter
 1 Forest
 1 Island
@@ -20,7 +21,6 @@
 1 Omnath, Locus of Rage
 1 Nurturing Peatland
 1 Fulminator Mage
-2 Fiery Islet
 2 Fulminator Mage
 2 Healer of the Glade
 2 Mountain
@@ -32,7 +32,6 @@
 2 Seasoned Pyromancer
 3 Seasoned Pyromancer
 4 Seasoned Pyromancer
-1 Collected Company
 1 Steam Vents
 1 Mana Confluence
 1 Simian Spirit Guide
@@ -40,20 +39,21 @@
 1 Chancellor of the Tangle
 1 Snow-Covered Forest
 1 Wooded Foothills
+1 Collected Company
 1 Sacred Foundry
 1 Stomping Ground
-2 Collected Company
 2 Wooded Foothills
 2 Mana Confluence
 2 Simian Spirit Guide
 2 Chalice of the Void
 2 Chancellor of the Tangle
-3 Collected Company
+2 Collected Company
 3 Wooded Foothills
 3 Mana Confluence
 3 Chalice of the Void
 3 Simian Spirit Guide
 3 Chancellor of the Tangle
+3 Collected Company
 4 Chancellor of the Tangle
 4 Chalice of the Void
 4 Simian Spirit Guide
@@ -61,16 +61,16 @@
 1 Faithless Looting
 1 Bloodstained Mire
 1 Arid Mesa
-1 Unearth
 1 Inquisition of Kozilek
-1 Dragonskull Summit
+1 Unearth
+1 Dreadhorde Arcanist
 1 Kolaghan's Command
 1 Lightning Bolt
 1 Collective Brutality
-1 Dreadhorde Arcanist
 1 Blackcleave Cliffs
 1 Thoughtseize
 1 Fatal Push
+1 Dragonskull Summit
 1 Ball Lightning
 1 Snow-Covered Swamp
 2 Snow-Covered Mountain
@@ -78,6 +78,7 @@
 2 Inquisition of Kozilek
 2 Lightning Bolt
 2 Dragonskull Summit
+2 Dreadhorde Arcanist
 2 Arid Mesa
 2 Collective Brutality
 2 Ball Lightning
@@ -88,13 +89,12 @@
 2 Unearth
 2 Fatal Push
 2 Snow-Covered Swamp
-2 Dreadhorde Arcanist
 3 Faithless Looting
-3 Thoughtseize
 3 Snow-Covered Mountain
 3 Lightning Bolt
-3 Blood Crypt
 3 Unearth
+3 Blood Crypt
+3 Thoughtseize
 3 Ball Lightning
 3 Blackcleave Cliffs
 3 Inquisition of Kozilek

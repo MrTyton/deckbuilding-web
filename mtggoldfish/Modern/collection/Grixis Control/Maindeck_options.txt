@@ -1,8 +1,17 @@
 2 Terminate
+1 Nimble Obstructionist
+1 Mystic Sanctuary
+1 Drown in the Loch
+1 Spirebluff Canal
+1 Into the Story
+2 Into the Story
+2 Drown in the Loch
+3 Drown in the Loch
+3 Spell Snare
+4 Drown in the Loch
 1 Search for Azcanta
 3 Force of Negation
 1 Jace, Vryn's Prodigy
-1 Nimble Obstructionist
 1 Serum Visions
 1 Thoughtseize
 1 Rise/Fall
@@ -14,19 +23,11 @@
 3 Serum Visions
 4 Serum Visions
 2 Jace, the Mind Sculptor
-1 Mystic Sanctuary
-1 Drown in the Loch
-1 Spirebluff Canal
+1 Brazen Borrower
 1 Torrential Gearhulk
-1 Into the Story
-2 Into the Story
-2 Drown in the Loch
-3 Drown in the Loch
-3 Spell Snare
 4 Fatal Push
-4 Drown in the Loch
-1 Kess, Dissident Mage
 1 Fact or Fiction
+1 Kess, Dissident Mage
 1 Bloodstained Mire
 2 Bloodstained Mire
 1 Blast Zone
@@ -36,22 +37,21 @@
 1 Narset, Parter of Veils
 1 Mana Leak
 2 Mana Leak
-1 Brazen Borrower
-1 Drowned Catacomb
 1 Magmatic Sinkhole
+1 Drowned Catacomb
 1 Damnation
 1 Goblin Rabblemaster
 1 Wandering Fumarole
 1 Liliana of the Veil
 1 Plague Engineer
-2 Plague Engineer
 2 Blast Zone
+2 Plague Engineer
 1 Collective Brutality
 3 Inquisition of Kozilek
 1 Engineered Explosives
 4 Kolaghan's Command
-2 Dreadbore
 2 Search for Azcanta
+2 Dreadbore
 4 Force of Negation
 4 Field of Ruin
 1 Snow-Covered Mountain
@@ -60,12 +60,12 @@
 1 Arcum's Astrolabe
 1 Celestial Colonnade
 1 Spell Pierce
+1 Path to Exile
 1 Teferi, Time Raveler
 1 Flooded Strand
 1 Hallowed Fountain
 1 Sacred Foundry
 1 Geist of Saint Traft
-1 Path to Exile
 1 Supreme Verdict
 2 Snow-Covered Island
 2 Vendilion Clique
@@ -73,9 +73,9 @@
 2 Celestial Colonnade
 2 Hallowed Fountain
 2 Spell Pierce
+2 Path to Exile
 2 Narset, Parter of Veils
 2 Teferi, Time Raveler
-2 Path to Exile
 2 Flooded Strand
 3 Snow-Covered Island
 3 Arcum's Astrolabe

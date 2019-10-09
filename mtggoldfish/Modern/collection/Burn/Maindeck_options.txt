@@ -1,9 +1,8 @@
+4 Lightning Helix
 2 Fiery Islet
-2 Skullcrack
-2 Arid Mesa
+4 Mountain
 1 Light Up the Stage
 2 Light Up the Stage
-4 Mountain
 3 Light Up the Stage
 4 Light Up the Stage
 5 Mountain
@@ -13,12 +12,13 @@
 9 Mountain
 10 Mountain
 11 Mountain
+3 Fiery Islet
 1 Shard Volley
 2 Shard Volley
 3 Shard Volley
-3 Fiery Islet
 4 Fiery Islet
 3 Bloodstained Mire
+2 Arid Mesa
 12 Mountain
 3 Wooded Foothills
 1 Seal of Fire
@@ -26,25 +26,25 @@
 3 Seal of Fire
 4 Seal of Fire
 4 Shard Volley
-3 Arid Mesa
 1 Fanatical Firebrand
 2 Fanatical Firebrand
 3 Fanatical Firebrand
 4 Fanatical Firebrand
-1 Grim Lavamancer
 1 Scalding Tarn
+3 Arid Mesa
+1 Grim Lavamancer
 2 Scalding Tarn
-4 Arid Mesa
 4 Bloodstained Mire
+3 Skullcrack
+4 Arid Mesa
 1 Snow-Covered Mountain
 2 Snow-Covered Mountain
 3 Snow-Covered Mountain
-4 Wooded Foothills
-2 Grim Lavamancer
-3 Skullcrack
 1 Soul-Scar Mage
 2 Soul-Scar Mage
 3 Soul-Scar Mage
+4 Wooded Foothills
+2 Grim Lavamancer
 4 Soul-Scar Mage
 1 Manamorphose
 1 Bedlam Reveler
@@ -69,11 +69,12 @@
 11 Snow-Covered Mountain
 1 Mogg Fanatic
 2 Mogg Fanatic
+3 Sacred Foundry
+4 Skullcrack
 1 Burst Lightning
 2 Burst Lightning
 3 Burst Lightning
 4 Burst Lightning
-4 Skullcrack
 3 Bedlam Reveler
 4 Lava Dart
 12 Snow-Covered Mountain
@@ -81,17 +82,16 @@
 14 Snow-Covered Mountain
 1 Stomping Ground
 3 Mogg Fanatic
-3 Sacred Foundry
+1 Blackcleave Cliffs
 1 Bump in the Night
 1 Blood Crypt
-1 Blackcleave Cliffs
+2 Blackcleave Cliffs
 2 Bump in the Night
 2 Blood Crypt
-2 Blackcleave Cliffs
-3 Bump in the Night
 3 Blackcleave Cliffs
-4 Bump in the Night
+3 Bump in the Night
 4 Blackcleave Cliffs
+4 Bump in the Night
 13 Mountain
 15 Snow-Covered Mountain
 1 Lightning Skelemental
@@ -148,6 +148,10 @@
 3 Goblin Mountaineer
 4 Sacred Foundry
 4 Goblin Mountaineer
+1 Bonecrusher Giant
+2 Bonecrusher Giant
+3 Bonecrusher Giant
+4 Bonecrusher Giant
 1 Leyline of Combustion
 1 Dangerous Wager
 2 Leyline of Combustion

@@ -1,34 +1,94 @@
 1 Fiery Islet
+2 Lightning Bolt
+3 Lightning Bolt
+1 Blackcleave Cliffs
+2 Blackcleave Cliffs
+3 Blackcleave Cliffs
+1 Unearth
+1 Thoughtseize
+2 Thoughtseize
+1 Marsh Flats
+1 Rix Maadi Reveler
+1 Inquisition of Kozilek
+1 Seasoned Pyromancer
+2 Rix Maadi Reveler
+2 Inquisition of Kozilek
+2 Seasoned Pyromancer
+3 Inquisition of Kozilek
+3 Thoughtseize
+3 Seasoned Pyromancer
+3 Rix Maadi Reveler
+4 Seasoned Pyromancer
+4 Rix Maadi Reveler
+4 Blackcleave Cliffs
+1 Snow-Covered Mountain
+2 Snow-Covered Mountain
+3 Snow-Covered Mountain
+1 Collective Brutality
+2 Collective Brutality
 1 Arid Mesa
 1 Lightning Skelemental
 2 Lightning Skelemental
 3 Lightning Skelemental
-4 Blackcleave Cliffs
-1 Unearth
+1 Snow-Covered Swamp
+1 Mogg Fanatic
+1 Warren Instigator
+1 Unclaimed Territory
+2 Mogg Fanatic
+2 Warren Instigator
+2 Unclaimed Territory
+3 Warren Instigator
+3 Unclaimed Territory
+4 Unclaimed Territory
+2 Goblin Cratermaker
+2 Sunbaked Canyon
+2 Legion Loyalist
+3 Sunbaked Canyon
+3 Cavern of Souls
+3 Legion Loyalist
+4 Goblin Piledriver
+4 Sunbaked Canyon
+4 Cavern of Souls
+4 Legion Loyalist
 1 Dreadhorde Arcanist
-1 Collective Brutality
 1 Dark Confidant
 1 Fatal Push
 2 Dreadhorde Arcanist
-2 Collective Brutality
 2 Dark Confidant
-2 Blood Crypt
 2 Unearth
 2 Marsh Flats
 2 Fatal Push
-3 Dreadhorde Arcanist
 3 Dark Confidant
-3 Marsh Flats
-3 Unearth
+3 Dreadhorde Arcanist
 3 Fatal Push
-4 Dreadhorde Arcanist
+3 Unearth
+3 Marsh Flats
 4 Dark Confidant
+4 Dreadhorde Arcanist
 4 Inquisition of Kozilek
 4 Thoughtseize
 4 Lightning Skelemental
-4 Bloodstained Mire
 4 Unearth
-1 Snow-Covered Mountain
+6 Mountain
+7 Mountain
+8 Mountain
+1 Goblin Chieftain
+1 Knucklebone Witch
+1 Goblin Bushwhacker
+1 Sulfurous Springs
+1 Dragonskull Summit
+1 Banefire
+2 Knucklebone Witch
+2 Pashalik Mons
+2 Sulfurous Springs
+2 Skirk Prospector
+2 Dragonskull Summit
+3 Sling-Gang Lieutenant
+3 Skirk Prospector
+3 Pashalik Mons
+3 Sulfurous Springs
+4 Skirk Prospector
+4 Lightning Bolt
 1 Monastery Swiftspear
 1 Skewer the Critics
 1 Searing Blaze
@@ -38,29 +98,27 @@
 1 Rift Bolt
 1 Lava Spike
 1 Goblin Guide
-2 Snow-Covered Mountain
 2 Monastery Swiftspear
 2 Fiery Islet
 2 Arid Mesa
 2 Searing Blaze
 2 Mishra's Bauble
 2 Finale of Promise
-2 Goblin Guide
-2 Bump in the Night
 2 Skewer the Critics
+2 Goblin Guide
 2 Lava Spike
+2 Bump in the Night
 2 Rift Bolt
-3 Snow-Covered Mountain
 3 Monastery Swiftspear
 3 Arid Mesa
 3 Searing Blaze
 3 Bump in the Night
 3 Lava Spike
-3 Skewer the Critics
-3 Rift Bolt
 3 Mishra's Bauble
+3 Skewer the Critics
 3 Goblin Guide
 3 Fiery Islet
+3 Rift Bolt
 4 Monastery Swiftspear
 4 Skewer the Critics
 4 Snow-Covered Mountain
@@ -71,92 +129,105 @@
 4 Lava Spike
 4 Goblin Guide
 4 Bump in the Night
-4 Mountain
-5 Mountain
-6 Mountain
-7 Mountain
-8 Mountain
-1 Goblin Chieftain
-1 Knucklebone Witch
-1 Aether Vial
-1 Tarfire
-1 Munitions Expert
-1 Pashalik Mons
-1 Krenko, Mob Boss
-1 Sling-Gang Lieutenant
-1 Goblin Ringleader
-1 Goblin Matron
-1 Goblin Bushwhacker
-1 Goblin Trashmaster
-1 Sulfurous Springs
-1 Skirk Prospector
-1 Mogg War Marshal
-1 Banefire
-1 Auntie's Hovel
-1 Dragonskull Summit
-2 Aether Vial
-2 Knucklebone Witch
-2 Munitions Expert
-2 Sling-Gang Lieutenant
-2 Mogg War Marshal
-2 Goblin Matron
-2 Pashalik Mons
-2 Auntie's Hovel
-2 Sulfurous Springs
-2 Skirk Prospector
-2 Dragonskull Summit
-3 Aether Vial
-3 Sling-Gang Lieutenant
-3 Mogg War Marshal
-3 Auntie's Hovel
-3 Munitions Expert
-3 Pashalik Mons
-3 Goblin Matron
-3 Sulfurous Springs
-3 Skirk Prospector
-4 Aether Vial
-4 Auntie's Hovel
-4 Goblin Matron
-4 Skirk Prospector
-4 Mogg War Marshal
-1 Karn, Scion of Urza
-1 Goblin Rabblemaster
+1 Kolaghan's Command
+1 Wooded Foothills
+1 Verdant Catacombs
+1 Rotting Regisaur
+1 Chandra, Acolyte of Flame
+1 Claim/Fame
+1 Gut Shot
+1 Pestilent Spirit
+1 Barren Moor
+1 Liliana of the Veil
+2 Verdant Catacombs
+2 Rotting Regisaur
+2 Gut Shot
+2 Claim/Fame
+2 Kolaghan's Command
+2 Pestilent Spirit
+2 Liliana of the Veil
+3 Kolaghan's Command
+3 Liliana of the Veil
+3 Verdant Catacombs
+3 Claim/Fame
+3 Pestilent Spirit
+3 Gut Shot
+4 Verdant Catacombs
+4 Pestilent Spirit
+4 Gut Shot
 1 Blood Moon
-1 Walking Ballista
+1 Simian Spirit Guide
+2 Simian Spirit Guide
+3 Simian Spirit Guide
+4 Simian Spirit Guide
+1 Polluted Delta
+1 Insolent Neonate
+1 Wishclaw Talisman
+1 Goryo's Vengeance
+1 Temple of Malice
+1 Griselbrand
+1 Ilharg, the Raze-Boar
+1 Through the Breach
+1 Generator Servant
+1 Emrakul, the Aeons Torn
+1 Pentad Prism
+2 Insolent Neonate
+2 Polluted Delta
+2 Ilharg, the Raze-Boar
+2 Griselbrand
+2 Goryo's Vengeance
+2 Temple of Malice
+2 Through the Breach
+2 Pentad Prism
+2 Emrakul, the Aeons Torn
+2 Generator Servant
+3 Insolent Neonate
+3 Pentad Prism
+3 Generator Servant
+3 Through the Breach
+3 Griselbrand
+3 Goryo's Vengeance
+3 Ilharg, the Raze-Boar
+3 Emrakul, the Aeons Torn
+4 Emrakul, the Aeons Torn
+4 Through the Breach
+4 Insolent Neonate
+4 Griselbrand
+4 Ilharg, the Raze-Boar
+4 Goryo's Vengeance
 1 Hazoret the Fervent
+1 Karn, Scion of Urza
+1 Walking Ballista
 1 Pyretic Ritual
 1 Legion Warboss
+1 Goblin Rabblemaster
 1 Abrade
-1 Chalice of the Void
-1 Desperate Ritual
 1 Dismember
+1 Desperate Ritual
 1 Chandra, Torch of Defiance
-1 Simian Spirit Guide
+1 Chalice of the Void
 1 Pia and Kiran Nalaar
 1 Darksteel Citadel
-2 Karn, Scion of Urza
-2 Goblin Rabblemaster
 2 Blood Moon
+2 Karn, Scion of Urza
 2 Pyretic Ritual
 2 Legion Warboss
+2 Goblin Rabblemaster
 2 Hazoret the Fervent
-2 Pia and Kiran Nalaar
 2 Chandra, Torch of Defiance
-2 Dismember
-2 Simian Spirit Guide
 2 Chalice of the Void
+2 Pia and Kiran Nalaar
 2 Desperate Ritual
 2 Darksteel Citadel
+2 Dismember
 3 Dismember
 3 Goblin Rabblemaster
-3 Simian Spirit Guide
 3 Blood Moon
 3 Chalice of the Void
 3 Darksteel Citadel
 3 Desperate Ritual
 3 Chandra, Torch of Defiance
 4 Goblin Rabblemaster
-4 Simian Spirit Guide
 4 Blood Moon
 4 Chalice of the Void
 4 Desperate Ritual

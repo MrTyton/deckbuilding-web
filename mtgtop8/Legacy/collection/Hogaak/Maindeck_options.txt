@@ -1,6 +1,4 @@
 3 Bayou
-4 Verdant Catacombs
-4 Marsh Flats
 1 Hedron Crab
 1 Careful Study
 1 Underground Sea
@@ -12,6 +10,8 @@
 3 Underground Sea
 4 Careful Study
 4 Hedron Crab
+4 Marsh Flats
+4 Verdant Catacombs
 1 Putrid Imp
 2 Putrid Imp
 3 Putrid Imp
@@ -28,6 +28,7 @@
 1 Undiscovered Paradise
 1 Thoughtseize
 1 Karakas
+1 Nurturing Peatland
 2 Thoughtseize
 4 Putrid Imp
 1 Blackcleave Cliffs

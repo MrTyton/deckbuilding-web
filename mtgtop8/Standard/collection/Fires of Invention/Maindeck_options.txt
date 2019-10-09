@@ -1,34 +1,35 @@
-1 Cavalier of Gales
-1 Cavalier of Flame
-2 Cavalier of Gales
-2 Cavalier of Flame
-3 Cavalier of Gales
-3 Cavalier of Flame
-4 Cavalier of Gales
-4 Cavalier of Flame
-1 Bonecrusher Giant
-2 Bonecrusher Giant
-3 Bonecrusher Giant
-3 Castle Vantress
-3 Temple of Triumph
-4 Bonecrusher Giant
-1 Aether Gust
-2 Aether Gust
+3 Fae of Wishes
+1 Narset, Parter of Veils
+2 Narset, Parter of Veils
+3 Narset, Parter of Veils
+1 Time Wipe
+1 Interplanar Beacon
+2 Interplanar Beacon
+4 Fae of Wishes
+3 Interplanar Beacon
+4 Interplanar Beacon
+1 Ugin, the Ineffable
+1 Sarkhan the Masterless
+2 Sarkhan the Masterless
+3 Sarkhan the Masterless
+4 Narset, Parter of Veils
+2 Time Wipe
 4 Temple of Triumph
-4 Castle Vantress
+3 Temple of Epiphany
 1 Prison Realm
 1 Shimmer of Possibility
 2 Shimmer of Possibility
 2 Prison Realm
 3 Shimmer of Possibility
-1 Chandra, Awakened Inferno
-1 Niv-Mizzet, Parun
+3 Aether Gust
 1 Realm-Cloaked Giant
+1 Niv-Mizzet, Parun
+1 Swamp
+1 Kenrith, the Returned King
+2 Kenrith, the Returned King
 2 Realm-Cloaked Giant
 3 Island
-3 Aether Gust
-1 Justice Strike
-1 Swamp
+1 Chandra, Awakened Inferno
 1 Blood Crypt
 4 Drawn from Dreams
 1 Liliana, Dreadhorde General
@@ -50,56 +51,51 @@
 4 Watery Grave
 4 Thought Erasure
 4 Blood Crypt
-1 Kenrith, the Returned King
-2 Kenrith, the Returned King
 1 Breeding Pool
 1 Forest
 1 Stomping Ground
-1 Shock
-2 Justice Strike
-4 Sacred Foundry
+1 Justice Strike
 1 Angrath's Rampage
 2 Angrath's Rampage
 2 Bedevil
 3 Angrath's Rampage
 3 Bedevil
-4 Angrath's Rampage
 4 Temple of Epiphany
+4 Angrath's Rampage
 1 Growth Spiral
 2 Growth Spiral
 2 Breeding Pool
 3 Growth Spiral
 4 Growth Spiral
-1 Saheeli, Sublime Artificer
-2 Saheeli, Sublime Artificer
 1 Temple of Mystery
-2 Stomping Ground
-3 Breeding Pool
-3 Stomping Ground
-4 Stomping Ground
-4 Breeding Pool
+1 Agent of Treachery
 1 Temple Garden
 1 Hydroid Krasis
 2 Hydroid Krasis
-1 Arboreal Grazer
-1 Overgrown Tomb
-1 Vraska, Golgari Queen
-2 Arboreal Grazer
-3 Arboreal Grazer
-4 Arboreal Grazer
 1 Golos, Tireless Pilgrim
 1 Field of the Dead
 1 Golgari Guildgate
 1 Circuitous Route
 1 Azorius Guildgate
 2 Golos, Tireless Pilgrim
-2 Field of the Dead
 2 Circuitous Route
 2 Forest
+2 Field of the Dead
 3 Golos, Tireless Pilgrim
 3 Field of the Dead
 4 Golos, Tireless Pilgrim
 4 Field of the Dead
+1 Arboreal Grazer
+1 Overgrown Tomb
+1 Vraska, Golgari Queen
+2 Arboreal Grazer
+3 Arboreal Grazer
+4 Arboreal Grazer
+2 Stomping Ground
+3 Breeding Pool
+3 Stomping Ground
+4 Stomping Ground
+4 Breeding Pool
 1 Castle Locthwain
 2 Chandra, Awakened Inferno
 4 Island
@@ -115,19 +111,34 @@
 1 Massacre Girl
 1 Sorcerous Spyglass
 2 Sorcerous Spyglass
-1 Kasmina, Enigmatic Mentor
-2 Shock
 1 Enter the God-Eternals
-1 Chandra, Fire Artisan
 1 Ral, Izzet Viceroy
+1 Chandra, Fire Artisan
+1 Saheeli, Sublime Artificer
 1 Lava Coil
 1 Dismal Backwater
 1 Tyrant's Scorn
 2 Tyrant's Scorn
 2 Dismal Backwater
+2 Saheeli, Sublime Artificer
 2 Lava Coil
 2 Ral, Izzet Viceroy
 3 Lava Coil
+1 Once Upon a Time
+1 Legion's End
+1 Murderous Rider
+1 Rakdos Guildgate
+1 Bloodfell Caves
+1 Temple of Malady
+1 Plaza of Harmony
+1 Temple of Silence
+2 Once Upon a Time
+2 Murderous Rider
+2 Legion's End
+2 Liliana, Dreadhorde General
+2 Agent of Treachery
+3 Agent of Treachery
+3 Murderous Rider
 1 Garruk, Cursed Huntsman
 1 The Royal Scions
 1 Tamiyo, Collector of Tales
@@ -137,22 +148,9 @@
 2 Niv-Mizzet, Parun
 2 Oko, Thief of Crowns
 3 Niv-Mizzet, Parun
-1 Once Upon a Time
-1 Legion's End
-1 Murderous Rider
-1 Bloodfell Caves
-1 Temple of Malady
-1 Plaza of Harmony
-1 Agent of Treachery
-1 Temple of Silence
-1 Rakdos Guildgate
-2 Once Upon a Time
-2 Murderous Rider
-2 Liliana, Dreadhorde General
-2 Legion's End
-2 Agent of Treachery
-3 Agent of Treachery
-3 Murderous Rider
+1 Shock
+2 Justice Strike
+4 Sacred Foundry
 1 Risen Reef
 1 Leafkin Druid
 1 Omnath, Locus of the Roil

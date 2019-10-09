@@ -1,15 +1,12 @@
-3 Spell Snare
-4 Island
-5 Island
-1 Sulfur Falls
-1 Blood Moon
-1 Spell Pierce
-2 Magmatic Sinkhole
-1 Prismatic Vista
+3 Delver of Secrets
+4 Brineborn Cutthroat
+4 Delver of Secrets
 3 Remand
+2 Vendilion Clique
+3 Spell Snare
 2 Sulfur Falls
-1 Cascade Bluffs
-1 Abrade
+1 Spell Pierce
+2 Flooded Strand
 6 Island
 7 Island
 1 Force of Negation
@@ -18,49 +15,63 @@
 1 Thing in the Ice
 2 Thing in the Ice
 3 Thing in the Ice
-1 Peek
-2 Prismatic Vista
 1 Narset, Parter of Veils
-1 Izzet Charm
-1 Augur of Bolas
-1 Misty Rainforest
-1 Day's Undoing
 2 Narset, Parter of Veils
-2 Day's Undoing
-2 Misty Rainforest
-3 Narset, Parter of Veils
-4 Narset, Parter of Veils
-4 Archmage's Charm
-8 Island
-1 Polluted Delta
-2 Polluted Delta
-3 Polluted Delta
-2 Logic Knot
-2 Flooded Strand
-3 Flooded Strand
-3 Cryptic Command
-4 Flooded Strand
-2 Blood Moon
 1 Serum Visions
 2 Serum Visions
 3 Serum Visions
+1 Prismatic Vista
+2 Magmatic Sinkhole
+3 Flooded Strand
+1 Day's Undoing
+2 Day's Undoing
+3 Narset, Parter of Veils
+4 Narset, Parter of Veils
+1 Cascade Bluffs
+1 Abrade
+1 Polluted Delta
+2 Polluted Delta
+1 Misty Rainforest
+4 Remand
+1 Peek
 4 Serum Visions
+2 Prismatic Vista
+2 Logic Knot
+3 Polluted Delta
+1 Izzet Charm
+1 Augur of Bolas
+2 Misty Rainforest
+4 Archmage's Charm
+8 Island
+3 Cryptic Command
+4 Flooded Strand
+3 Sulfur Falls
+2 Blood Moon
+6 Snow-Covered Island
 1 Thought Scour
 2 Thought Scour
-4 Remand
+1 Jace, the Mind Sculptor
 1 Repeal
 1 Snow-Covered Mountain
 3 Prismatic Vista
-6 Snow-Covered Island
 1 Manamorphose
 2 Manamorphose
 3 Manamorphose
 4 Manamorphose
 2 Burst Lightning
+1 Fact or Fiction
+2 Fact or Fiction
+3 Vendilion Clique
 1 Brazen Borrower
 2 Brazen Borrower
 3 Brazen Borrower
 3 Logic Knot
+1 Geier Reach Sanitarium
+1 Blast Zone
+1 Magma Spray
+3 Day's Undoing
+1 Thrill of Possibility
+3 Misty Rainforest
 1 Electrolyze
 1 Kiki-Jiki, Mirror Breaker
 1 Deceiver Exarch
@@ -71,12 +82,38 @@
 2 Deceiver Exarch
 3 Blood Moon
 3 Pestermite
-1 Thrill of Possibility
-3 Misty Rainforest
-1 Fact or Fiction
-2 Fact or Fiction
-3 Vendilion Clique
-3 Sulfur Falls
+7 Snow-Covered Island
+1 Mystic Sanctuary
+1 Castle Vantress
+1 Mikokoro, Center of the Sea
+1 Time Warp
+1 Fires of Invention
+1 Dictate of Kruphix
+1 Chandra, Torch of Defiance
+1 Exhaustion
+1 Simian Spirit Guide
+1 Savor the Moment
+1 Howling Mine
+1 Jace Beleren
+2 Time Warp
+2 Mystic Sanctuary
+2 Jace, the Mind Sculptor
+2 Simian Spirit Guide
+2 Fires of Invention
+2 Savor the Moment
+2 Dictate of Kruphix
+2 Castle Vantress
+2 Exhaustion
+2 Howling Mine
+3 Time Warp
+3 Mystic Sanctuary
+3 Fires of Invention
+3 Savor the Moment
+3 Howling Mine
+4 Mystic Sanctuary
+4 Time Warp
+4 Fires of Invention
+4 Savor the Moment
 1 Finale of Promise
 1 Arclight Phoenix
 1 Chart a Course
@@ -85,11 +122,11 @@
 1 Sleight of Hand
 1 Baral, Chief of Compliance
 2 Arclight Phoenix
-2 Pyromancer Ascension
 2 Sleight of Hand
+2 Pyromancer Ascension
+2 Fiery Islet
 2 Chart a Course
 2 Baral, Chief of Compliance
-2 Fiery Islet
 3 Arclight Phoenix
 3 Thought Scour
 3 Baral, Chief of Compliance
@@ -105,10 +142,10 @@
 1 Engineered Explosives
 1 Paradoxical Outcome
 1 Metallic Rebuke
-1 Arcum's Astrolabe
 1 Ichor Wellspring
 1 Mox Opal
 1 Urza, Lord High Artificer
+1 Arcum's Astrolabe
 1 Sai, Master Thopterist
 1 Mishra's Bauble
 2 Repeal
@@ -139,22 +176,21 @@
 4 Mox Opal
 4 Paradoxical Outcome
 4 Prismatic Vista
-7 Snow-Covered Island
 8 Snow-Covered Island
 9 Island
 1 Stubborn Denial
 1 Gut Shot
 1 Lava Dart
-1 Kiln Fiend
 1 Arid Mesa
+1 Mutagenic Growth
 1 Temur Battle Rage
 1 Bedlam Reveler
-1 Mutagenic Growth
+1 Kiln Fiend
 2 Stubborn Denial
 2 Gut Shot
 2 Lava Dart
-2 Temur Battle Rage
 2 Mutagenic Growth
+2 Temur Battle Rage
 2 Kiln Fiend
 2 Arid Mesa
 3 Stubborn Denial
@@ -165,11 +201,11 @@
 3 Arid Mesa
 3 Mutagenic Growth
 4 Lava Dart
+4 Gut Shot
+4 Mutagenic Growth
 4 Steam Vents
 4 Temur Battle Rage
 4 Thing in the Ice
 4 Arid Mesa
 4 Stubborn Denial
 4 Kiln Fiend
-4 Gut Shot
-4 Mutagenic Growth
