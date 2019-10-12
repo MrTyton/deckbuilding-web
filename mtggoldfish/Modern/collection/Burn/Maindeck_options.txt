@@ -1,5 +1,5 @@
-4 Lightning Helix
 2 Fiery Islet
+4 Lightning Helix
 4 Mountain
 1 Light Up the Stage
 2 Light Up the Stage
@@ -20,46 +20,45 @@
 3 Bloodstained Mire
 2 Arid Mesa
 12 Mountain
-3 Wooded Foothills
 1 Seal of Fire
 2 Seal of Fire
 3 Seal of Fire
 4 Seal of Fire
 4 Shard Volley
+3 Wooded Foothills
 1 Fanatical Firebrand
 2 Fanatical Firebrand
 3 Fanatical Firebrand
 4 Fanatical Firebrand
 1 Scalding Tarn
-3 Arid Mesa
 1 Grim Lavamancer
+3 Arid Mesa
 2 Scalding Tarn
 4 Bloodstained Mire
 3 Skullcrack
-4 Arid Mesa
 1 Snow-Covered Mountain
 2 Snow-Covered Mountain
 3 Snow-Covered Mountain
 1 Soul-Scar Mage
 2 Soul-Scar Mage
 3 Soul-Scar Mage
-4 Wooded Foothills
 2 Grim Lavamancer
+4 Arid Mesa
 4 Soul-Scar Mage
 1 Manamorphose
-1 Bedlam Reveler
-1 Crash Through
 1 Lava Dart
-2 Bedlam Reveler
+1 Crash Through
+1 Bedlam Reveler
 2 Lava Dart
-2 Manamorphose
 2 Crash Through
-3 Manamorphose
+2 Manamorphose
+2 Bedlam Reveler
 3 Crash Through
 3 Lava Dart
-4 Snow-Covered Mountain
+3 Manamorphose
 4 Crash Through
 4 Manamorphose
+4 Snow-Covered Mountain
 5 Snow-Covered Mountain
 6 Snow-Covered Mountain
 7 Snow-Covered Mountain
@@ -70,6 +69,7 @@
 1 Mogg Fanatic
 2 Mogg Fanatic
 3 Sacred Foundry
+4 Wooded Foothills
 4 Skullcrack
 1 Burst Lightning
 2 Burst Lightning
@@ -113,6 +113,11 @@
 1 Plains
 1 Abbot of Keral Keep
 2 Abbot of Keral Keep
+1 Kiln Fiend
+1 Reckless Charge
+2 Kiln Fiend
+2 Reckless Charge
+3 Kiln Fiend
 1 Risk Factor
 3 Runaway Steam-Kin
 1 Blistercoil Weird
@@ -124,11 +129,6 @@
 1 Molten Rain
 2 Molten Rain
 3 Molten Rain
-1 Kiln Fiend
-1 Reckless Charge
-2 Reckless Charge
-2 Kiln Fiend
-3 Kiln Fiend
 1 Experimental Frenzy
 1 Young Pyromancer
 1 Mishra's Bauble

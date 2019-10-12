@@ -39,4 +39,5 @@
 |--------------------:|----------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------------|
 |                    1|[Wall of Omens](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=247400)|                    1|[Teferi, Time Raveler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461148)|
 |                    2|[Wall of Omens](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=247400)|                     |                                                                                               |
+|                    1|Once Upon a Time                                                                        |                     |                                                                                               |
 

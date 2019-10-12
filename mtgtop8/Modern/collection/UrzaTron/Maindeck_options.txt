@@ -11,19 +11,19 @@
 2 Remand
 3 Remand
 1 Spell Burst
-1 Repeal
 1 Academy Ruins
-1 Chalice of the Void
 1 Island
+1 Repeal
 1 Tolaria West
 1 Condescend
+1 Chalice of the Void
 2 Repeal
 2 Island
 2 Condescend
 3 Condescend
 3 Island
-4 Condescend
 4 Island
+4 Condescend
 5 Island
 6 Island
 4 Oblivion Stone
@@ -31,13 +31,13 @@
 5 Forest
 1 Field of Ruin
 1 Karn, Scion of Urza
-1 Cyclonic Rift
 1 Gemstone Caverns
+1 Cyclonic Rift
 1 Thirst for Knowledge
 1 Talisman of Dominance
 2 Karn, Scion of Urza
-2 Chalice of the Void
 2 Gemstone Caverns
+2 Chalice of the Void
 2 Thirst for Knowledge
 2 Tolaria West
 2 Talisman of Dominance
@@ -76,32 +76,32 @@
 4 Matter Reshaper
 4 Eldrazi Temple
 1 Snow-Covered Plains
-1 Snow-Covered Island
-1 Arcum's Astrolabe
-1 Serum Visions
-1 Monastery Mentor
-1 Teferi, Time Raveler
 1 Force of Negation
+1 Serum Visions
+1 Arcum's Astrolabe
+1 Snow-Covered Island
 1 Path to Exile
+1 Teferi, Time Raveler
+1 Monastery Mentor
 1 Teferi, Hero of Dominaria
 1 Celestial Colonnade
-2 Arcum's Astrolabe
 2 Snow-Covered Island
+2 Force of Negation
+2 Arcum's Astrolabe
 2 Serum Visions
 2 Path to Exile
-2 Force of Negation
 2 Celestial Colonnade
-3 Path to Exile
+3 Snow-Covered Island
 3 Serum Visions
 3 Arcum's Astrolabe
 3 Opt
-3 Snow-Covered Island
 3 Celestial Colonnade
-4 Arcum's Astrolabe
-4 Snow-Covered Island
-4 Opt
-4 Path to Exile
+3 Path to Exile
 4 Serum Visions
+4 Arcum's Astrolabe
+4 Opt
+4 Snow-Covered Island
+4 Path to Exile
 5 Snow-Covered Island
 1 Trinket Mage
 1 Supreme Will
@@ -116,5 +116,5 @@
 2 Blink of an Eye
 2 Anticipate
 2 Squelch
-7 Island
 8 Island
+7 Island
