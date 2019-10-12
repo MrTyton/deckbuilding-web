@@ -1,73 +1,37 @@
-2 Mystic Sanctuary
-2 Watery Grave
-2 Cryptic Command
-2 Thought Scour
-2 Snapcaster Mage
-2 Assassin's Trophy
-2 Into the Story
-2 Drown in the Loch
-2 Opt
-2 Flooded Strand
-2 Pulse of Murasa
-3 Flooded Strand
-3 Mystic Sanctuary
-3 Snapcaster Mage
-3 Thought Scour
-3 Into the Story
-3 Cryptic Command
-3 Drown in the Loch
-3 Opt
-4 Snapcaster Mage
-4 Thought Scour
-4 Drown in the Loch
-4 Opt
-1 Welding Jar
-1 Whir of Invention
-1 Sword of the Meek
-1 Inventors' Fair
-1 Pithing Needle
-1 Thopter Foundry
-1 Tormod's Crypt
-1 Golden Egg
-1 Spire of Industry
-1 Ensnaring Bridge
-2 Whir of Invention
-2 Sword of the Meek
-2 Thopter Foundry
-2 Witching Well
-2 Spire of Industry
-2 Mox Amber
-3 Thopter Foundry
-3 Whir of Invention
-4 Thopter Foundry
-4 Emry, Lurker of the Loch
+1 Birds of Paradise
+1 Prismatic Vista
+2 Birds of Paradise
+1 Drown in the Loch
+1 Cryptic Command
+3 Fatal Push
+4 Fatal Push
 1 Verdant Catacombs
 1 Overgrown Tomb
 2 Verdant Catacombs
-1 Gilded Goose
 1 Bitterblossom
+1 Gilded Goose
 1 Brazen Borrower
 1 Ingenious Infiltrator
-1 Spell Snare
 1 Faerie Seer
-1 Force of Negation
 1 Vendilion Clique
 1 Spellstutter Sprite
 1 Ice-Fang Coatl
 1 Botanical Sanctum
-2 Force of Negation
+1 Spell Snare
+1 Force of Negation
+2 Oko, Thief of Crowns
 2 Gilded Goose
 2 Ingenious Infiltrator
 2 Faerie Seer
-2 Oko, Thief of Crowns
 2 Bitterblossom
 2 Vendilion Clique
 2 Ice-Fang Coatl
 2 Spellstutter Sprite
 2 Botanical Sanctum
+2 Force of Negation
+3 Oko, Thief of Crowns
 3 Gilded Goose
 3 Faerie Seer
-3 Oko, Thief of Crowns
 3 Spellstutter Sprite
 3 Ingenious Infiltrator
 3 Botanical Sanctum
@@ -78,34 +42,34 @@
 4 Spellstutter Sprite
 1 Bloodghast
 1 Minister of Inquiries
-1 Darkslick Shores
 1 Satyr Wayfinder
-1 Swamp
+1 Stitcher's Supplier
 1 Island
-1 Creeping Chill
+1 Swamp
 1 Gravecrawler
 1 Hedron Crab
-1 Stitcher's Supplier
+1 Darkslick Shores
 1 Vengevine
 1 Collective Brutality
+1 Creeping Chill
 1 Prized Amalgam
 2 Bloodghast
 2 Minister of Inquiries
 2 Breeding Pool
+2 Satyr Wayfinder
 2 Swamp
 2 Darkslick Shores
-2 Satyr Wayfinder
-2 Collective Brutality
 2 Prized Amalgam
-2 Vengevine
 2 Creeping Chill
+2 Collective Brutality
+2 Vengevine
 2 Stitcher's Supplier
 2 Gravecrawler
 2 Hedron Crab
 3 Bloodghast
 3 Minister of Inquiries
-3 Darkslick Shores
 3 Satyr Wayfinder
+3 Darkslick Shores
 3 Hedron Crab
 3 Vengevine
 3 Prized Amalgam
@@ -117,32 +81,68 @@
 4 Minister of Inquiries
 4 Satyr Wayfinder
 4 Verdant Catacombs
+4 Prized Amalgam
 4 Gravecrawler
 4 Creeping Chill
 4 Hedron Crab
 4 Stitcher's Supplier
-4 Prized Amalgam
 4 Vengevine
+1 Counterbalance
+1 Torrential Gearhulk
+1 Deprive
+1 Assassin's Trophy
+1 Opt
+1 Abrupt Decay
+1 Mystic Sanctuary
+1 Field of Ruin
+1 Thought Scour
+1 Flooded Strand
+1 Into the Story
+1 Snapcaster Mage
+1 Pulse of Murasa
+2 Mystic Sanctuary
+2 Assassin's Trophy
+2 Into the Story
+2 Drown in the Loch
+2 Opt
+2 Cryptic Command
+2 Snapcaster Mage
+2 Flooded Strand
+2 Thought Scour
+2 Watery Grave
+2 Pulse of Murasa
+3 Mystic Sanctuary
+3 Into the Story
+3 Drown in the Loch
+3 Cryptic Command
+3 Opt
+3 Thought Scour
+3 Snapcaster Mage
+3 Flooded Strand
+4 Drown in the Loch
+4 Opt
+4 Thought Scour
+4 Snapcaster Mage
+1 Everflowing Chalice
 1 Waterlogged Grove
+1 Saheeli, Sublime Artificer
 1 Sai, Master Thopterist
 1 Paradoxical Outcome
-1 Everflowing Chalice
 1 Engineered Explosives
 1 Nexus of Fate
-1 Saheeli, Sublime Artificer
-2 Waterlogged Grove
 2 Everflowing Chalice
-2 Paradoxical Outcome
-2 Saheeli, Sublime Artificer
-2 Prismatic Vista
+2 Waterlogged Grove
 2 Sai, Master Thopterist
+2 Saheeli, Sublime Artificer
 2 Engineered Explosives
-3 Prismatic Vista
+2 Paradoxical Outcome
+2 Prismatic Vista
 3 Everflowing Chalice
 3 Engineered Explosives
 3 Birds of Paradise
 3 Paradoxical Outcome
+3 Prismatic Vista
 4 Prismatic Vista
-4 Everflowing Chalice
 4 Paradoxical Outcome
+4 Everflowing Chalice
 4 Birds of Paradise

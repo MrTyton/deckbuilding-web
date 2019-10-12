@@ -46,7 +46,7 @@
 |                    2|[Scavenging Ooze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420783)    |                    4|[Fiery Justice](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376332)         |
 |                    2|[Path to Exile](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220511)      |                    4|[Voice of Resurgence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=368951)   |
 |                    3|[Path to Exile](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220511)      |                     |                                                                                                 |
-|                    4|Once Upon a Time                                                                              |                     |                                                                                                 |
 |                    4|[Chord of Calling](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383209)   |                     |                                                                                                 |
+|                    4|Once Upon a Time                                                                              |                     |                                                                                                 |
 |                    4|[Seasoned Pyromancer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464094)|                     |                                                                                                 |
 

@@ -1,5 +1,5 @@
+1 Sword of Fire and Ice
 3 Hallowed Fountain
-1 Island
 2 Island
 1 On Thin Ice
 1 Polluted Delta
@@ -21,21 +21,22 @@
 5 Island
 5 Snow-Covered Island
 1 Glacial Fortress
+1 Moorland Haunt
+1 Plains
 4 Hallowed Fountain
-2 On Thin Ice
+2 Plains
 1 Entreat the Angels
 1 Terminus
 1 Hieroglyphic Illumination
 2 Polluted Delta
 2 Terminus
 2 Hieroglyphic Illumination
-3 Terminus
 3 Jace, the Mind Sculptor
+3 Terminus
 3 Mystic Sanctuary
 4 Terminus
 4 Mystic Sanctuary
-1 Plains
-2 Plains
+2 On Thin Ice
 1 Misty Rainforest
 1 Archmage's Charm
 1 Delver of Secrets
@@ -48,7 +49,6 @@
 4 Scalding Tarn
 4 Force of Negation
 4 Delver of Secrets
-1 Moorland Haunt
 1 Narset, Parter of Veils
 1 Detention Sphere
 1 Rest in Peace
@@ -63,20 +63,33 @@
 6 Snow-Covered Island
 1 Prismatic Vista
 2 Glacial Fortress
-1 Unsettled Mariner
 1 Aether Vial
-1 Deputy of Detention
 1 Mutavault
+2 Aether Vial
+3 Aether Vial
+4 Aether Vial
+1 Unsettled Mariner
+1 Deputy of Detention
 1 Giver of Runes
 1 Thalia, Guardian of Thraben
 2 Unsettled Mariner
 2 Deputy of Detention
-2 Aether Vial
 2 Giver of Runes
 3 Giver of Runes
-3 Aether Vial
-4 Aether Vial
 4 Giver of Runes
+1 Mausoleum Wanderer
+1 Supreme Phantom
+1 Drogskol Captain
+2 Supreme Phantom
+2 Mutavault
+2 Mausoleum Wanderer
+2 Drogskol Captain
+3 Mausoleum Wanderer
+3 Drogskol Captain
+3 Supreme Phantom
+4 Mausoleum Wanderer
+4 Supreme Phantom
+4 Drogskol Captain
 1 Dovin's Veto
 1 Spell Pierce
 1 Winds of Abandon
@@ -90,6 +103,9 @@
 1 Wall of Omens
 2 Karn, the Great Creator
 2 Wall of Omens
+1 Geist of Saint Traft
+3 Deputy of Detention
+4 Deputy of Detention
 1 Aven Mindcensor
 1 Delay
 2 Restoration Angel
@@ -109,32 +125,37 @@
 2 Horizon Canopy
 2 Faerie Seer
 2 Thalia, Guardian of Thraben
-3 Plains
 3 Unsettled Mariner
 3 Spellstutter Sprite
 3 Faerie Seer
 3 Horizon Canopy
+3 Plains
 4 Unsettled Mariner
 4 Spellstutter Sprite
 2 Logic Knot
 3 Logic Knot
 4 Archmage's Charm
-1 Geist of Saint Traft
-1 Drogskol Captain
-1 Mausoleum Wanderer
-1 Supreme Phantom
-2 Supreme Phantom
-2 Mutavault
-2 Mausoleum Wanderer
-2 Drogskol Captain
-3 Mausoleum Wanderer
-3 Drogskol Captain
-3 Supreme Phantom
-3 Deputy of Detention
-4 Deputy of Detention
-4 Mausoleum Wanderer
-4 Supreme Phantom
-4 Drogskol Captain
+1 Remorseful Cleric
+1 Selfless Spirit
+1 Spectral Sailor
+1 Rattlechains
+1 Cavern of Souls
+1 Phantasmal Image
+1 Kira, Great Glass-Spinner
+2 Cavern of Souls
+2 Rattlechains
+2 Selfless Spirit
+2 Phantasmal Image
+2 Spectral Sailor
+3 Phantasmal Image
+3 Mutavault
+3 Cavern of Souls
+3 Selfless Spirit
+3 Rattlechains
+4 Mutavault
+4 Rattlechains
+4 Selfless Spirit
+4 Cavern of Souls
 1 Deprive
 2 Deprive
 2 Dismember
