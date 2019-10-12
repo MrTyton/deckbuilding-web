@@ -1,0 +1,45 @@
+# Manaless Dredge
+
+#### [Export MTGO List](../collection/Manaless%20Dredge/Manaless%20Dredge.txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=3%09Balustrade%20Spy%0A4%09Bridge%20from%20Below%0A4%09Cabal%20Therapy%0A3%09Chancellor%20of%20the%20Annex%0A4%09Creeping%20Chill%0A3%09Dread%20Return%0A4%09Golgari%20Grave-Troll%0A2%09Golgari%20Thug%0A2%09Hogaak,%20Arisen%20Necropolis%0A4%09Ichorid%0A1%09Lotleth%20Giant%0A4%09Narcomoeba%0A3%09Nether%20Shadow%0A4%09Phantasmagorian%0A3%09Prized%20Amalgam%0A4%09Shambling%20Shell%0A4%09Stinkweed%20Imp%0A4%09Street%20Wraith&deckside=1%09Ashen%20Rider%0A3%09Contagion%0A3%09Faerie%20Macabre%0A4%09Force%20of%20Vigor%0A1%09Land%20Grant%0A3%09Reverent%20Silence)
+# Maindeck
+
+|                                            Creature (45)                                             |                                       Enchantment (4)                                        |                                       Sorcery (11)                                        |
+|------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
+|3 [Balustrade Spy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=366464)           |4 [Bridge from Below](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=136054)|4 [Cabal Therapy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413625) |
+|3 [Chancellor of the Annex](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=218083)  |                                                                                              |4 [Creeping Chill](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452816)|
+|4 [Golgari Grave-Troll](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=338406)      |                                                                                              |3 [Dread Return](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389491)  |
+|2 [Golgari Thug](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=292953)             |                                                                                              |                                                                                           |
+|2 [Hogaak, Arisen Necropolis](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464151)|                                                                                              |                                                                                           |
+|4 [Ichorid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413635)                  |                                                                                              |                                                                                           |
+|1 [Lotleth Giant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452824)            |                                                                                              |                                                                                           |
+|4 [Narcomoeba](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=136140)               |                                                                                              |                                                                                           |
+|3 [Nether Shadow](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=669)               |                                                                                              |                                                                                           |
+|4 [Phantasmagorian](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=124472)          |                                                                                              |                                                                                           |
+|3 [Prized Amalgam](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=410014)           |                                                                                              |                                                                                           |
+|4 [Shambling Shell](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=292957)          |                                                                                              |                                                                                           |
+|4 [Stinkweed Imp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=193870)            |                                                                                              |                                                                                           |
+|4 [Street Wraith](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442097)            |                                                                                              |                                                                                           |
+
+
+# Sideboard
+
+|                                       Creature (4)                                        |                                        Instant (7)                                        |                                        Sorcery (4)                                         |
+|-------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
+|1 [Ashen Rider](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373689)   |3 [Contagion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3069)       |1 [Land Grant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=19633)      |
+|3 [Faerie Macabre](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=201822)|4 [Force of Vigor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464113)|3 [Reverent Silence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=22316)|
+
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                           Maindeck Card                                            |*n*<sup>th</sup> copy|                                     Sideboard Card                                      |
+|--------------------:|----------------------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------|
+|                    1|[Dryad Arbor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=136196)              |                    1|[Mindbreak Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197532)|
+|                    1|[Flayer of the Hatebound](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=262853)  |                    2|[Mindbreak Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197532)|
+|                    2|[Dryad Arbor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=136196)              |                    3|[Mindbreak Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197532)|
+|                    3|[Hogaak, Arisen Necropolis](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464151)|                    4|[Faerie Macabre](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=201822)|
+|                    3|[Dryad Arbor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=136196)              |                    4|[Contagion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3069)       |
+|                    3|[Golgari Thug](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=292953)             |                     |                                                                                         |
+|                    4|[Dryad Arbor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=136196)              |                     |                                                                                         |
+|                    4|[Dread Return](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389491)             |                     |                                                                                         |
+
