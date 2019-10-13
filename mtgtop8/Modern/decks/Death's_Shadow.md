@@ -144,7 +144,7 @@
 |                    3|[Monastery Mentor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391883)      |                     |                                                                                                  |
 |                    3|[Wild Nacatl](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174989)           |                     |                                                                                                  |
 |                    3|[Windswept Heath](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405115)       |                     |                                                                                                  |
-|                    4|[Monastery Mentor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391883)      |                     |                                                                                                  |
 |                    4|[Windswept Heath](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405115)       |                     |                                                                                                  |
+|                    4|[Monastery Mentor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391883)      |                     |                                                                                                  |
 |                    4|[Wild Nacatl](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174989)           |                     |                                                                                                  |
 

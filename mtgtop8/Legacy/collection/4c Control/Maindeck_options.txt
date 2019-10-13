@@ -1,17 +1,19 @@
-1 Island
-1 Swamp
-2 Plague Engineer
-1 Snow-Covered Island
-1 Snow-Covered Swamp
 1 Arcum's Astrolabe
 2 Arcum's Astrolabe
 3 Arcum's Astrolabe
 4 Arcum's Astrolabe
-1 Verdant Catacombs
 1 Force of Negation
+4 Wrenn and Six
+3 Wasteland
+1 Island
+1 Swamp
+2 Plague Engineer
+1 Verdant Catacombs
 2 Dack Fayden
+2 Snow-Covered Island
 1 Wooded Foothills
 2 Misty Rainforest
+1 Lonely Sandbar
 1 Punishing Fire
 1 Grove of the Burnwillows
 2 Grove of the Burnwillows
@@ -20,22 +22,20 @@
 3 Punishing Fire
 3 Dack Fayden
 1 Spell Snare
+2 Lightning Bolt
 2 Inquisition of Kozilek
 2 Wooded Foothills
 2 Badlands
-2 Snow-Covered Island
 2 Fatal Push
 3 Baleful Strix
-1 Lonely Sandbar
-1 Narset, Parter of Veils
+1 Assassin's Trophy
 4 Scalding Tarn
-2 Lightning Bolt
+1 Narset, Parter of Veils
 1 Spell Pierce
 1 Flooded Strand
 2 Flooded Strand
 3 Flooded Strand
 1 Nihil Spellbomb
-1 Assassin's Trophy
 2 Assassin's Trophy
 3 Thoughtseize
 1 Tyrant's Scorn
@@ -44,6 +44,14 @@
 2 Verdant Catacombs
 1 Dreadhorde Arcanist
 2 Dreadhorde Arcanist
+1 Snow-Covered Mountain
+1 Prismatic Vista
+1 Ice-Fang Coatl
+1 Snow-Covered Forest
+2 Prismatic Vista
+2 Ice-Fang Coatl
+3 Prismatic Vista
+4 Prismatic Vista
 1 Tundra
 1 Swords to Plowshares
 2 Swords to Plowshares
@@ -60,14 +68,6 @@
 2 Tyrant's Scorn
 2 Island
 3 Wooded Foothills
-1 Prismatic Vista
-1 Ice-Fang Coatl
-1 Snow-Covered Mountain
-1 Snow-Covered Forest
-2 Prismatic Vista
-2 Ice-Fang Coatl
-3 Prismatic Vista
-4 Prismatic Vista
 1 Plateau
 1 Monastery Mentor
 1 Preordain
@@ -81,8 +81,8 @@
 1 Scrubland
 1 Hymn to Tourach
 1 Atraxa, Praetors' Voice
-2 Hymn to Tourach
 2 Scrubland
+2 Hymn to Tourach
 3 Verdant Catacombs
 3 Hymn to Tourach
 4 Baleful Strix
@@ -94,8 +94,8 @@
 1 Stifle
 1 Ghost Quarter
 1 Maze of Ith
-1 Dark Depths
 1 The Tabernacle at Pendrell Vale
+1 Dark Depths
 1 Crop Rotation
 1 Bojuka Bog
 2 Stifle
@@ -120,6 +120,24 @@
 3 True-Name Nemesis
 4 Lightning Bolt
 4 Force of Negation
+1 Green Sun's Zenith
+1 Dead of Winter
+1 Counterspell
+1 Fabled Passage
+1 Field of Ruin
+1 Abominable Treefolk
+1 Scavenging Ooze
+2 Snow-Covered Forest
+2 Green Sun's Zenith
+2 Snow-Covered Swamp
+2 Dead of Winter
+2 Fabled Passage
+3 Snow-Covered Island
+3 Ice-Fang Coatl
+3 Fabled Passage
+4 Ice-Fang Coatl
+4 Snow-Covered Island
+4 Fabled Passage
 4 Tarmogoyf
 3 Inquisition of Kozilek
 4 Inquisition of Kozilek

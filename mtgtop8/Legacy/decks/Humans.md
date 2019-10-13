@@ -55,6 +55,6 @@
 |                    1|[Lavinia, Azorius Renegade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457333)|                    2|[Faerie Macabre](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=201822)               |
 |                    2|[Sanctum Prelate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416780)          |                    2|[Plague Engineer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464049)              |
 |                    3|[Horizon Canopy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409571)           |                    2|[Auriok Champion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=72921)               |
-|                    4|[Horizon Canopy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409571)           |                    2|[Collector Ouphe](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464107)              |
-|                     |                                                                                                    |                    3|[Faerie Macabre](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=201822)               |
+|                    4|[Horizon Canopy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409571)           |                    3|[Faerie Macabre](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=201822)               |
+|                     |                                                                                                    |                    2|[Collector Ouphe](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464107)              |
 

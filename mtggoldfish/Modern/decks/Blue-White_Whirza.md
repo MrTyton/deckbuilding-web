@@ -87,6 +87,6 @@
 |                    2|[Ichor Wellspring](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389551)       |                     |                                                                                                    |
 |                    2|[Stoneforge Mystic](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=198383)      |                     |                                                                                                    |
 |                    3|[Stoneforge Mystic](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=198383)      |                     |                                                                                                    |
-|                    4|[Stoneforge Mystic](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=198383)      |                     |                                                                                                    |
 |                    7|[Snow-Covered Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121130)    |                     |                                                                                                    |
+|                    4|[Stoneforge Mystic](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=198383)      |                     |                                                                                                    |
 

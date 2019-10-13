@@ -41,8 +41,8 @@
 |                    2|[Traverse the Ulvenwald](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409998)|                    1|[Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452)   |
 |                    2|[Godless Shrine](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405099)        |                    1|[Knight of Autumn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452933)    |
 |                    2|[Silent Clearing](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464195)       |                    1|[Assassin's Trophy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452902)   |
-|                    3|[Silent Clearing](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464195)       |                    2|[Knight of Autumn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452933)    |
-|                    3|[Fatal Push](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423724)            |                    3|[Collective Brutality](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414380)|
+|                    3|[Silent Clearing](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464195)       |                    3|[Collective Brutality](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414380)|
+|                    3|[Fatal Push](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423724)            |                    2|[Knight of Autumn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452933)    |
 |                    4|[Ranger-Captain of Eos](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463970) |                     |                                                                                               |
 |                    4|[Inquisition of Kozilek](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416897)|                     |                                                                                               |
 
