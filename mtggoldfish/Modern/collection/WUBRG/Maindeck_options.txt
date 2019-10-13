@@ -2,38 +2,37 @@
 1 Sacred Foundry
 2 Birds of Paradise
 3 Birds of Paradise
+1 Wooded Foothills
 1 Safewright Quest
 1 Irrigated Farmland
 1 Tidehollow Sculler
 1 Overgrown Tomb
 1 Faeburrow Elder
 1 Bloodbraid Elf
-1 Wooded Foothills
 2 Tidehollow Sculler
 2 Faeburrow Elder
 2 Bloodbraid Elf
 2 Safewright Quest
 2 Oko, Thief of Crowns
+3 Tidehollow Sculler
 3 Prismatic Vista
 3 Lightning Helix
-3 Tidehollow Sculler
 3 Faeburrow Elder
 3 Windswept Heath
+4 Tidehollow Sculler
 4 Lightning Helix
 4 Windswept Heath
 4 Faeburrow Elder
 4 Prismatic Vista
-4 Tidehollow Sculler
 1 Waterlogged Grove
 1 Unclaimed Territory
 1 Creeping Trailblazer
 1 Copperline Gorge
-1 Fulminator Mage
 1 Shriekmaw
+1 Fulminator Mage
 1 Voice of Resurgence
 1 Incandescent Soulstoke
 1 Risen Reef
-1 Primal Beyond
 1 Cavern of Souls
 1 Omnath, Locus of the Roil
 1 Smokebraider
@@ -43,6 +42,7 @@
 1 Flamekin Harbinger
 1 Vesperlark
 1 Healer of the Glade
+1 Primal Beyond
 1 Fiery Islet
 1 Thunderkin Awakener
 1 Sunbaked Canyon
@@ -66,9 +66,9 @@
 3 Copperline Gorge
 3 Voice of Resurgence
 3 Aether Vial
-3 Flamekin Harbinger
 3 Cavern of Souls
 3 Fiery Islet
+3 Flamekin Harbinger
 3 Creeping Trailblazer
 3 Risen Reef
 3 Vesperlark
@@ -87,9 +87,9 @@
 1 Botanical Sanctum
 1 Flooded Strand
 1 Grove of the Burnwillows
+1 Island
 1 Serum Visions
 1 Sylvan Caryatid
-1 Island
 1 Jeskai Ascendancy
 1 Steam Vents
 1 Peek
@@ -100,7 +100,6 @@
 1 Lightning Bolt
 1 Light Up the Stage
 1 Cerulean Wisps
-2 Flooded Strand
 2 Gut Shot
 2 Jeskai Ascendancy
 2 Sylvan Caryatid
@@ -110,17 +109,18 @@
 2 Sleight of Hand
 2 Peek
 2 Opt
+2 Flooded Strand
 2 Light Up the Stage
 2 Lightning Bolt
 2 Serum Visions
 3 Gut Shot
 3 Fatestitcher
-3 Flooded Strand
 3 Mana Confluence
-3 Cerulean Wisps
+3 Flooded Strand
 3 Light Up the Stage
 3 Serum Visions
 3 Sylvan Caryatid
+3 Cerulean Wisps
 3 Sleight of Hand
 3 Jeskai Ascendancy
 4 Gut Shot
