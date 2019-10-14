@@ -31,11 +31,11 @@
 1 Inventors' Fair
 1 Emry, Lurker of the Loch
 1 Mox Amber
-1 Goblin Engineer
 1 Mox Opal
-1 Urza, Lord High Artificer
+1 Goblin Engineer
 1 Sword of the Meek
 1 Whir of Invention
+1 Urza, Lord High Artificer
 1 Mystic Forge
 2 Thopter Foundry
 2 Mishra's Bauble
@@ -79,9 +79,9 @@
 1 Felidar Guardian
 2 Serum Visions
 2 Sulfur Falls
-2 Felidar Guardian
 2 Spreading Seas
 2 Field of Ruin
+2 Felidar Guardian
 2 Saheeli Rai
 3 Serum Visions
 3 Felidar Guardian
@@ -90,8 +90,6 @@
 4 Felidar Guardian
 4 Path to Exile
 4 Saheeli Rai
-3 Seachrome Coast
-4 Seachrome Coast
 1 Fae of Wishes
 1 Blast Zone
 1 Chalice of the Void
@@ -101,11 +99,11 @@
 1 Fires of Invention
 1 Simian Spirit Guide
 1 Restore Balance
-1 Fiery Islet
-1 Crashing Footfalls
 1 Greater Gargadon
 1 Tolaria West
+1 Fiery Islet
 1 Electrodominance
+1 Crashing Footfalls
 2 Jace, the Mind Sculptor
 2 Fae of Wishes
 2 Island
@@ -132,6 +130,7 @@
 3 Simian Spirit Guide
 3 Restore Balance
 4 Spirebluff Canal
+4 Greater Gargadon
 4 Chalice of the Void
 4 Crashing Footfalls
 4 Electrodominance
@@ -139,4 +138,5 @@
 4 As Foretold
 4 Simian Spirit Guide
 4 Ancestral Vision
-4 Greater Gargadon
+3 Seachrome Coast
+4 Seachrome Coast

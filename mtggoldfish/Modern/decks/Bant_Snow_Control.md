@@ -33,8 +33,8 @@
 |                    1|[Supreme Verdict](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438776)|                    1|[Lavinia, Azorius Renegade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457333)|
 |                    1|[Spell Snare](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446100)    |                    1|[Aura of Silence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=132127)          |
 |                    1|Mystic Sanctuary                                                                          |                    2|[Aura of Silence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=132127)          |
-|                    2|[Mana Leak](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45242)       |                     |                                                                                                    |
 |                    2|[Spell Snare](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446100)    |                     |                                                                                                    |
+|                    2|[Mana Leak](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45242)       |                     |                                                                                                    |
 |                    4|[Flooded Strand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405098) |                     |                                                                                                    |
 |                    4|[Prismatic Vista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464193)|                     |                                                                                                    |
 
