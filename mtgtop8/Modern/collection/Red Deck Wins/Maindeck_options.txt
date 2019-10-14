@@ -1,7 +1,9 @@
 4 Lightning Helix
-3 Bloodstained Mire
 3 Wooded Foothills
+3 Bloodstained Mire
 2 Arid Mesa
+1 Scalding Tarn
+2 Scalding Tarn
 4 Mountain
 2 Fiery Islet
 5 Mountain
@@ -39,15 +41,9 @@
 3 Fiery Islet
 4 Lava Dart
 15 Mountain
+3 Sacred Foundry
 3 Arid Mesa
-1 Scalding Tarn
-2 Scalding Tarn
-1 Kiln Fiend
-4 Arid Mesa
-1 Stomping Ground
 3 Skullcrack
-2 Kiln Fiend
-3 Kiln Fiend
 1 Burst Lightning
 2 Burst Lightning
 3 Burst Lightning
@@ -56,6 +52,7 @@
 2 Blistercoil Weird
 3 Blistercoil Weird
 4 Fiery Islet
+1 Kiln Fiend
 1 Gut Shot
 2 Gut Shot
 3 Gut Shot
@@ -66,16 +63,14 @@
 17 Mountain
 18 Mountain
 1 Bonecrusher Giant
+1 Stomping Ground
 1 Runaway Steam-Kin
 1 Forked Bolt
 1 The Flame of Keld
 2 Runaway Steam-Kin
 2 Forked Bolt
-1 Reckless Charge
-1 Firebolt
-2 Reckless Charge
-2 Firebolt
-3 Sacred Foundry
+2 Kiln Fiend
+3 Kiln Fiend
 1 Snow-Covered Mountain
 2 Snow-Covered Mountain
 3 Snow-Covered Mountain
@@ -87,3 +82,4 @@
 2 Shard Volley
 3 Shard Volley
 4 Wooded Foothills
+4 Arid Mesa

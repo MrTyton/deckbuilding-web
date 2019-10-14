@@ -50,7 +50,7 @@
 |                    3|[Arid Mesa](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405092)            |                     |                                                                                                 |
 |                    3|[Sigil of Distinction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174867) |                     |                                                                                                 |
 |                    3|[Serum Visions](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=50145)         |                     |                                                                                                 |
-|                    4|[Paradise Druid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461098)       |                     |                                                                                                 |
 |                    4|[Arid Mesa](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405092)            |                     |                                                                                                 |
+|                    4|[Paradise Druid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461098)       |                     |                                                                                                 |
 |                    4|[Sigil of Distinction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174867) |                     |                                                                                                 |
 

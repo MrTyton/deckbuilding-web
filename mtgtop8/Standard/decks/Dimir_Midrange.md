@@ -27,3 +27,23 @@
 |2 [Tyrant's Scorn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461152)|                                                                                                        |2 [Legion's End](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466860)|1 Witch's Vengeance|
 |                                                                                           |                                                                                                        |1 [Unmoored Ego](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452962)|                   |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                       Maindeck Card                                       |*n*<sup>th</sup> copy|                                         Sideboard Card                                          |
+|--------------------:|-------------------------------------------------------------------------------------------|--------------------:|-------------------------------------------------------------------------------------------------|
+|                    1|Rankle, Master of Pranks                                                                   |                    1|[Cry of the Carnarium](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457214)  |
+|                    1|Brazen Borrower                                                                            |                    1|Lochmere Serpent                                                                                 |
+|                    1|[Legion's End](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466860)    |                    1|[Enter the God-Eternals](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461123)|
+|                    2|Into the Story                                                                             |                    1|[Disdainful Stroke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420705)     |
+|                    2|Brazen Borrower                                                                            |                    2|[Cry of the Carnarium](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457214)  |
+|                    2|Rankle, Master of Pranks                                                                   |                    2|[Disdainful Stroke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420705)     |
+|                    2|[Legion's End](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466860)    |                    2|Lochmere Serpent                                                                                 |
+|                    2|[Dismal Backwater](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420908)|                    3|[Cry of the Carnarium](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457214)  |
+|                    3|Into the Story                                                                             |                    3|[Disdainful Stroke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420705)     |
+|                    3|[Thief of Sanity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452955) |                    2|[Enter the God-Eternals](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461123)|
+|                    3|[Dismal Backwater](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420908)|                     |                                                                                                 |
+|                    3|Rankle, Master of Pranks                                                                   |                     |                                                                                                 |
+|                    4|[Thief of Sanity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452955) |                     |                                                                                                 |
+|                    4|[Dismal Backwater](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420908)|                     |                                                                                                 |
+

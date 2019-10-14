@@ -30,6 +30,6 @@
 
 |*n*<sup>th</sup> copy|                                    Maindeck Card                                     |*n*<sup>th</sup> copy| Sideboard Card |
 |--------------------:|--------------------------------------------------------------------------------------|--------------------:|----------------|
-|                    1|[Steam Vents](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405109)|                    1|Mystical Dispute|
-|                     |                                                                                      |                    2|Mystical Dispute|
+|                    1|[Steam Vents](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405109)|                    2|Mystical Dispute|
+|                     |                                                                                      |                    1|Mystical Dispute|
 

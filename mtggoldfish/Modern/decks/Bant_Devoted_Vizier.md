@@ -41,7 +41,7 @@
 |                    1|[Waterlogged Grove](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464198)        |                    1|[Shalai, Voice of Plenty](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442923)|
 |                    2|[Neoform](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461133)                  |                    1|[Meddling Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=179547)          |
 |                    2|[Vines of Vastwood](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397747)        |                    2|[Kitchen Finks](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370458)          |
-|                    4|[Finale of Devastation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461087)    |                    2|[Neoform](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461133)                |
-|                    4|[Giver of Runes](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463962)           |                    4|[Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)         |
+|                    4|[Giver of Runes](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463962)           |                    2|[Neoform](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461133)                |
+|                    4|[Finale of Devastation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461087)    |                    4|[Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)         |
 |                    4|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)                   |                    2|[Teferi, Time Raveler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461148)   |
 
