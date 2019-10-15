@@ -34,8 +34,8 @@
 1 Misty Rainforest
 4 Polluted Delta
 1 Overgrown Tomb
-1 Haunted Dead
 1 Glimpse the Unthinkable
+1 Haunted Dead
 2 Watery Grave
 2 Glimpse the Unthinkable
 3 Glimpse the Unthinkable
@@ -54,10 +54,6 @@
 3 Spirebluff Canal
 3 Lonely Sandbar
 4 Insolent Neonate
-1 Crippling Chill
-2 Crippling Chill
-3 Crippling Chill
-4 Crippling Chill
 1 Ideas Unbound
 2 Haunted Dead
 2 Ideas Unbound
@@ -69,28 +65,32 @@
 1 Marsh Flats
 1 Merfolk Secretkeeper
 1 Gravecrawler
+1 Vengevine
 1 Lotleth Troll
 1 Swamp
 1 Stitcher's Supplier
-1 Vengevine
 1 Carrion Feeder
 2 Marsh Flats
 2 Merfolk Secretkeeper
 2 Overgrown Tomb
 2 Swamp
 2 Gravecrawler
-2 Carrion Feeder
 2 Vengevine
+2 Carrion Feeder
 2 Stitcher's Supplier
 3 Marsh Flats
 3 Merfolk Secretkeeper
-3 Gravecrawler
 3 Vengevine
+3 Gravecrawler
 3 Carrion Feeder
 3 Overgrown Tomb
 3 Stitcher's Supplier
 4 Marsh Flats
 4 Merfolk Secretkeeper
+4 Vengevine
 4 Gravecrawler
 4 Stitcher's Supplier
-4 Vengevine
+1 Crippling Chill
+2 Crippling Chill
+3 Crippling Chill
+4 Crippling Chill

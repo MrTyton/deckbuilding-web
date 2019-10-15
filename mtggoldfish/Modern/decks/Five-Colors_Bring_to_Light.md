@@ -35,9 +35,9 @@
 
 # Other Options
 
-|*n*<sup>th</sup> copy|                                     Maindeck Card                                      |*n*<sup>th</sup> copy|                                        Sideboard Card                                         |
-|--------------------:|----------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------------|
-|                    1|[Wall of Omens](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=247400)|                    1|[Teferi, Time Raveler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461148)|
-|                    2|[Wall of Omens](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=247400)|                     |                                                                                               |
-|                    1|Once Upon a Time                                                                        |                     |                                                                                               |
+|*n*<sup>th</sup> copy|                                       Maindeck Card                                       |*n*<sup>th</sup> copy|                                        Sideboard Card                                         |
+|--------------------:|-------------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------------|
+|                    1|[Wall of Omens](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=247400)   |                    1|[Teferi, Time Raveler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461148)|
+|                    2|[Wall of Omens](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=247400)   |                     |                                                                                               |
+|                    1|[Once Upon a Time](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473131)|                     |                                                                                               |
 

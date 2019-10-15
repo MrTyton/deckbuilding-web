@@ -39,10 +39,10 @@
 2 Fatal Push
 1 Verdant Catacombs
 3 Baleful Strix
+1 Snow-Covered Forest
 1 Prismatic Vista
 1 Snow-Covered Mountain
 1 Ice-Fang Coatl
-1 Snow-Covered Forest
 2 Prismatic Vista
 2 Ice-Fang Coatl
 3 Prismatic Vista
@@ -61,21 +61,20 @@
 4 Scalding Tarn
 1 Waterlogged Grove
 4 Wasteland
-2 Bloodstained Mire
 2 Tyrant's Scorn
+2 Bloodstained Mire
 2 Island
 3 Jace, the Mind Sculptor
 3 Wooded Foothills
-1 Plateau
-1 Monastery Mentor
-1 Preordain
-2 Preordain
-2 Lonely Sandbar
-3 Daze
-3 Dreadhorde Arcanist
-4 Daze
-4 Dreadhorde Arcanist
-4 Flooded Strand
+1 Scrubland
+1 Hymn to Tourach
+1 Atraxa, Praetors' Voice
+2 Verdant Catacombs
+2 Scrubland
+2 Hymn to Tourach
+3 Verdant Catacombs
+3 Hymn to Tourach
+4 Baleful Strix
 1 Mox Diamond
 1 Fiery Islet
 1 Thespian's Stage
@@ -99,21 +98,12 @@
 3 Misty Rainforest
 3 Crop Rotation
 4 Misty Rainforest
-1 Scrubland
-1 Hymn to Tourach
-1 Atraxa, Praetors' Voice
-2 Verdant Catacombs
-2 Scrubland
-2 Hymn to Tourach
-3 Verdant Catacombs
-3 Hymn to Tourach
-4 Baleful Strix
 1 True-Name Nemesis
 2 True-Name Nemesis
 2 Gurmag Angler
 2 Force of Negation
-3 Lightning Bolt
 3 Volcanic Island
+3 Lightning Bolt
 3 Force of Negation
 3 Gurmag Angler
 3 True-Name Nemesis
@@ -138,3 +128,13 @@
 4 Snow-Covered Island
 4 Fabled Passage
 4 Tarmogoyf
+1 Plateau
+1 Monastery Mentor
+1 Preordain
+2 Preordain
+2 Lonely Sandbar
+3 Daze
+3 Dreadhorde Arcanist
+4 Daze
+4 Flooded Strand
+4 Dreadhorde Arcanist

@@ -1,7 +1,7 @@
 # Manaless Dredge
 
 #### [Export MTGO List](../collection/Manaless%20Dredge/Manaless%20Dredge.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=3%09Balustrade%20Spy%0A4%09Bridge%20from%20Below%0A4%09Cabal%20Therapy%0A3%09Chancellor%20of%20the%20Annex%0A4%09Creeping%20Chill%0A3%09Dread%20Return%0A4%09Golgari%20Grave-Troll%0A2%09Golgari%20Thug%0A2%09Hogaak,%20Arisen%20Necropolis%0A4%09Ichorid%0A1%09Lotleth%20Giant%0A4%09Narcomoeba%0A3%09Nether%20Shadow%0A4%09Phantasmagorian%0A3%09Prized%20Amalgam%0A4%09Shambling%20Shell%0A4%09Stinkweed%20Imp%0A4%09Street%20Wraith&deckside=1%09Ashen%20Rider%0A3%09Contagion%0A4%09Faerie%20Macabre%0A4%09Force%20of%20Vigor%0A3%09Mindbreak%20Trap)
+#### [Print on decklist.org](http://decklist.org/?deckmain=3%09Balustrade%20Spy%0A4%09Bridge%20from%20Below%0A4%09Cabal%20Therapy%0A3%09Chancellor%20of%20the%20Annex%0A4%09Creeping%20Chill%0A3%09Dread%20Return%0A4%09Golgari%20Grave-Troll%0A2%09Golgari%20Thug%0A2%09Hogaak,%20Arisen%20Necropolis%0A4%09Ichorid%0A1%09Lotleth%20Giant%0A4%09Narcomoeba%0A3%09Nether%20Shadow%0A4%09Phantasmagorian%0A3%09Prized%20Amalgam%0A4%09Shambling%20Shell%0A4%09Stinkweed%20Imp%0A4%09Street%20Wraith&deckside=1%09Contagion%0A4%09Faerie%20Macabre%0A4%09Force%20of%20Vigor%0A3%09Mindbreak%20Trap%0A3%09Sickening%20Shoal)
 # Maindeck
 
 |                                            Creature (45)                                             |                                       Enchantment (4)                                        |                                       Sorcery (11)                                        |
@@ -24,23 +24,28 @@
 
 # Sideboard
 
-|                                       Creature (5)                                        |                                       Instant (10)                                        |
+|                                       Creature (4)                                        |                                       Instant (11)                                        |
 |-------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
-|1 [Ashen Rider](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373689)   |3 [Contagion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3069)       |
-|4 [Faerie Macabre](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=201822)|4 [Force of Vigor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464113)|
+|4 [Faerie Macabre](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=201822)|1 [Contagion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3069)       |
+|                                                                                           |4 [Force of Vigor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464113)|
 |                                                                                           |3 [Mindbreak Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197532)|
+|                                                                                           |3 [Sickening Shoal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=74127)|
 
 
 # Other Options
 
 |*n*<sup>th</sup> copy|                                           Maindeck Card                                            |*n*<sup>th</sup> copy|                                      Sideboard Card                                      |
 |--------------------:|----------------------------------------------------------------------------------------------------|--------------------:|------------------------------------------------------------------------------------------|
-|                    1|[Dryad Arbor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=136196)              |                    1|[Land Grant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=19633)      |
-|                    1|[Flayer of the Hatebound](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=262853)  |                    1|[Reverent Silence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=22316)|
+|                    1|[Flayer of the Hatebound](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=262853)  |                    2|[Contagion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3069)        |
+|                    3|[Hogaak, Arisen Necropolis](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464151)|                    3|[Contagion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3069)        |
+|                    3|[Golgari Thug](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=292953)             |                    1|[Gigapede](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=39578)        |
+|                    4|[Dread Return](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389491)             |                    1|[Serum Powder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=48920)    |
+|                    1|[Gigapede](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=39578)                  |                    2|[Serum Powder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=48920)    |
+|                    4|[Nether Shadow](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=669)               |                    3|[Serum Powder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=48920)    |
+|                    4|[Golgari Thug](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=292953)             |                    1|[Ashen Rider](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373689)    |
+|                    4|[Prized Amalgam](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=410014)           |                    1|[Land Grant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=19633)      |
+|                    1|[Dryad Arbor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=136196)              |                    1|[Reverent Silence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=22316)|
 |                    2|[Dryad Arbor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=136196)              |                    2|[Reverent Silence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=22316)|
-|                    3|[Hogaak, Arisen Necropolis](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464151)|                    3|[Reverent Silence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=22316)|
-|                    3|[Dryad Arbor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=136196)              |                    1|[Sickening Shoal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=74127) |
-|                    3|[Golgari Thug](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=292953)             |                    2|[Sickening Shoal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=74127) |
-|                    4|[Dryad Arbor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=136196)              |                    3|[Sickening Shoal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=74127) |
-|                    4|[Dread Return](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389491)             |                    4|[Contagion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3069)        |
+|                    3|[Dryad Arbor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=136196)              |                    3|[Reverent Silence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=22316)|
+|                    4|[Dryad Arbor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=136196)              |                    4|[Contagion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3069)        |
 

@@ -1,27 +1,15 @@
 2 Castle Locthwain
-1 Shock
-2 Shock
-3 Shock
 1 Fabled Passage
 2 Fabled Passage
-1 Light Up the Stage
-2 Light Up the Stage
-1 Orzhov Enforcer
 1 Witch's Oven
 1 Cauldron Familiar
-1 Mask of Immolation
-1 Bedevil
 1 Ayara, First of Locthwain
 1 Claim the Firstborn
 1 Midnight Reaper
-1 Angrath's Rampage
-1 Chandra, Acolyte of Flame
 1 Priest of Forgotten Gods
 1 Mayhem Devil
-2 Orzhov Enforcer
-2 Witch's Oven
 2 Cauldron Familiar
-2 Angrath's Rampage
+2 Witch's Oven
 2 Claim the Firstborn
 2 Midnight Reaper
 2 Mayhem Devil
@@ -29,15 +17,27 @@
 3 Fabled Passage
 3 Cauldron Familiar
 3 Witch's Oven
-3 Angrath's Rampage
-3 Claim the Firstborn
 3 Midnight Reaper
 3 Mayhem Devil
 4 Cauldron Familiar
 4 Witch's Oven
-4 Midnight Reaper
 4 Fabled Passage
 4 Mayhem Devil
+1 Light Up the Stage
+2 Light Up the Stage
+1 Shock
+2 Shock
+3 Shock
+1 Orzhov Enforcer
+1 Angrath's Rampage
+1 Mask of Immolation
+1 Chandra, Acolyte of Flame
+1 Bedevil
+2 Orzhov Enforcer
+2 Angrath's Rampage
+3 Claim the Firstborn
+3 Angrath's Rampage
+4 Midnight Reaper
 1 Order of Midnight
 2 Order of Midnight
 1 Stormfist Crusader
@@ -50,6 +50,7 @@
 2 Fervent Champion
 3 Fervent Champion
 4 Fervent Champion
+3 Castle Locthwain
 1 Cavalier of Night
 1 Legion's End
 2 Legion's End
@@ -62,12 +63,23 @@
 3 Experimental Frenzy
 3 Lava Coil
 4 Experimental Frenzy
+1 Footlight Fiend
+1 Bloodfell Caves
+1 Lazotep Reaver
+2 Footlight Fiend
+2 Bloodfell Caves
+2 Ayara, First of Locthwain
+2 Lazotep Reaver
+3 Ayara, First of Locthwain
+3 Priest of Forgotten Gods
+3 Lazotep Reaver
+4 Lazotep Reaver
+4 Priest of Forgotten Gods
 1 Skewer the Critics
 2 Skewer the Critics
 3 Castle Embereth
-3 Skewer the Critics
 3 Light Up the Stage
-3 Castle Locthwain
+3 Skewer the Critics
 4 Skewer the Critics
 4 Shock
 4 Light Up the Stage

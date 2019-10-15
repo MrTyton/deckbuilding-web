@@ -1,5 +1,5 @@
-3 Yavimaya Coast
 3 Twiddle
+3 Yavimaya Coast
 3 Botanical Sanctum
 3 Snow-Covered Island
 4 Yavimaya Coast
@@ -24,7 +24,6 @@
 2 Lightning Bolt
 3 Lightning Bolt
 1 Temple Garden
-1 Sacred Foundry
 1 Noble Hierarch
 1 Fauna Shaman
 1 Fire-Lit Thicket
@@ -45,6 +44,7 @@
 1 Eladamri's Call
 1 Collector Ouphe
 1 Copperline Gorge
+1 Sacred Foundry
 1 Strangleroot Geist
 1 Scavenging Ooze
 1 Surrak, the Hunt Caller
@@ -95,8 +95,8 @@
 2 Wild Cantor
 2 Karplusan Forest
 2 Commune with the Gods
-2 Empty the Warrens
 2 Magmatic Insight
+2 Empty the Warrens
 2 Infernal Plunge
 2 Mogg War Marshal
 2 Fecundity
@@ -112,8 +112,8 @@
 3 Empty the Warrens
 3 Wild Cantor
 3 Skirk Prospector
-4 Skirk Prospector
 4 Stomping Ground
+4 Skirk Prospector
 4 Mogg War Marshal
 4 Karplusan Forest
 4 Mountain
