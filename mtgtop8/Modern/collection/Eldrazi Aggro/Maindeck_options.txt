@@ -1,13 +1,14 @@
 1 Scavenger Grounds
-2 Endbringer
-2 Ugin, the Ineffable
 1 Radiant Fountain
-3 Dismember
+2 Ugin, the Ineffable
 1 Warping Wail
-2 Cavern of Souls
+3 Dismember
+3 Wastes
+2 Endbringer
 1 Noble Hierarch
 1 Forest
 1 Ancient Stirrings
+2 Cavern of Souls
 2 Noble Hierarch
 2 Ancient Stirrings
 3 Ancient Stirrings
@@ -19,8 +20,8 @@
 2 Eldrazi Displacer
 3 Eldrazi Displacer
 1 Horizon Canopy
-1 Batterskull
 1 Stoneforge Mystic
+1 Batterskull
 1 Brushland
 1 Sword of Feast and Famine
 1 Path to Exile
@@ -39,8 +40,13 @@
 3 Ghost Quarter
 1 Birds of Paradise
 2 Forest
-3 Wastes
 1 Hangarback Walker
+1 Urza's Factory
+2 Urza's Factory
+3 Urza's Factory
+4 Urza's Factory
+1 Mystic Forge
+2 Warping Wail
 1 Engineered Explosives
 1 Temple Garden
 1 Windswept Heath
@@ -65,20 +71,16 @@
 2 Prismatic Vista
 2 Razorverge Thicket
 3 Razorverge Thicket
-2 Spatial Contortion
 1 Wurmcoil Engine
-1 Mystic Forge
-2 Warping Wail
+1 Ulamog, the Ceaseless Hunger
+2 Spatial Contortion
+2 Mystic Forge
 1 Karn Liberated
 2 Karn Liberated
 1 Relic of Progenitus
 2 Relic of Progenitus
 3 Endbringer
 4 Dismember
-1 Urza's Factory
-2 Urza's Factory
-3 Urza's Factory
-4 Urza's Factory
 2 Knight of Autumn
 3 Once Upon a Time
 4 Once Upon a Time
@@ -102,11 +104,11 @@
 2 Serum Powder
 2 Ramunap Ruins
 2 Eldrazi Mimic
-3 Fiery Islet
 3 Mutavault
+3 Fiery Islet
 3 Eternal Scourge
-3 Ramunap Ruins
 3 Eldrazi Mimic
+3 Ramunap Ruins
 3 Serum Powder
 4 Fiery Islet
 4 Eternal Scourge
@@ -132,8 +134,8 @@
 2 Aven Mindcensor
 2 Fiend Hunter
 2 Declaration in Stone
-2 Plains
 2 Sunbaked Canyon
+2 Plains
 2 Vryn Wingmare
 2 Temple of Triumph
 3 Battlefield Forge
