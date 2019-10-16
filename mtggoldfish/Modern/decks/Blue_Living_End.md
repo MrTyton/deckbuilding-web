@@ -51,6 +51,6 @@
 |                    2|[Detention Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460139)   |                     |                                                                                             |
 |                    2|[Faerie Macabre](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=201822)     |                     |                                                                                             |
 |                    3|[Faerie Macabre](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=201822)     |                     |                                                                                             |
-|                    4|[Spirebluff Canal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417822)   |                     |                                                                                             |
 |                    3|[Detention Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460139)   |                     |                                                                                             |
+|                    4|[Spirebluff Canal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417822)   |                     |                                                                                             |
 

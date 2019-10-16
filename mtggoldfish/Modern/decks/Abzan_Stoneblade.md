@@ -80,6 +80,6 @@
 |                    1|[Dryad Arbor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=136196)              |                     |                                                                                                       |
 |                    1|[Isolated Chapel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443129)          |                     |                                                                                                       |
 |                    1|[Woodland Cemetery](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443136)        |                     |                                                                                                       |
-|                    4|[Fatal Push](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423724)               |                     |                                                                                                       |
 |                    4|[Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)             |                     |                                                                                                       |
+|                    4|[Fatal Push](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423724)               |                     |                                                                                                       |
 

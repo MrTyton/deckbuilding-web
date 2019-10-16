@@ -1,21 +1,20 @@
-1 Brazen Borrower
-3 Disdainful Stroke
 4 Disdainful Stroke
-2 Brazen Borrower
-2 Voracious Hydra
+1 Voracious Hydra
+1 Brazen Borrower
 1 Castle Vantress
+2 Brazen Borrower
 3 Brazen Borrower
 2 Castle Vantress
-2 Castle Garenbrig
+2 Voracious Hydra
 1 Agent of Treachery
+12 Forest
 1 Growth Spiral
 2 Growth Spiral
 3 Growth Spiral
 4 Growth Spiral
-12 Forest
 6 Island
 1 Vivien, Arkbow Ranger
-7 Island
+2 Castle Garenbrig
 1 Wildborn Preserver
 1 Quench
 1 Sinister Sabotage
@@ -30,8 +29,6 @@
 2 Nightpack Ambusher
 2 Opt
 2 Sinister Sabotage
-3 Wildborn Preserver
-3 Quench
 3 Nightpack Ambusher
 3 Brineborn Cutthroat
 3 Sinister Sabotage
@@ -39,27 +36,36 @@
 4 Nightpack Ambusher
 4 Brineborn Cutthroat
 4 Brazen Borrower
+1 Fabled Passage
 1 Aether Gust
-1 Leafkin Druid
-2 Leafkin Druid
 1 Maraleaf Pixie
-4 Quench
-3 Voracious Hydra
-1 Thornwood Falls
-2 Vivien, Arkbow Ranger
-3 Vivien, Arkbow Ranger
+3 Opt
+1 Negate
 1 Spectral Sailor
 2 Spectral Sailor
 4 Sinister Sabotage
-1 Fabled Passage
+4 Frilled Mystic
+3 Wildborn Preserver
+3 Quench
+2 Vivien, Arkbow Ranger
+3 Vivien, Arkbow Ranger
+1 Thornwood Falls
+7 Island
+1 Leafkin Druid
+2 Leafkin Druid
 2 Fabled Passage
 3 Fabled Passage
 1 The Great Henge
 2 The Great Henge
 3 The Great Henge
-3 Leafkin Druid
-4 Leafkin Druid
-4 Voracious Hydra
+1 Mystical Dispute
+1 Unsummon
+2 Mystical Dispute
+3 Spectral Sailor
+1 Essence Capture
+2 Essence Capture
+2 Negate
+3 Essence Capture
 1 Arboreal Grazer
 1 Interplanar Beacon
 1 Incubation Druid
@@ -69,10 +75,6 @@
 3 Arboreal Grazer
 4 Arboreal Grazer
 4 Vivien, Arkbow Ranger
-1 Unsummon
-2 Unsummon
-3 Spectral Sailor
-4 Spectral Sailor
 1 Tamiyo, Collector of Tales
 1 Merfolk Secretkeeper
 1 Emry, Lurker of the Loch
@@ -88,33 +90,52 @@
 2 Vantress Gargoyle
 2 Jace, Wielder of Mysteries
 2 Edgewall Innkeeper
+3 Merfolk Secretkeeper
 3 Emry, Lurker of the Loch
 3 Sorcerous Spyglass
-3 Merfolk Secretkeeper
 3 Lovestruck Beast
 3 Edgewall Innkeeper
 3 Vantress Gargoyle
-4 Lovestruck Beast
 4 Merfolk Secretkeeper
+4 Lovestruck Beast
 4 Fabled Passage
 4 Edgewall Innkeeper
 4 Vantress Gargoyle
-1 Essence Capture
-1 Negate
-2 Essence Capture
-2 Negate
-3 Essence Capture
-4 Frilled Mystic
+1 Risen Reef
+1 Cavalier of Gales
+1 Blast Zone
+1 Quasiduplicate
+1 Cavalier of Thorns
+1 Gingerbread Cabin
+1 Feasting Troll King
+2 Risen Reef
+2 Cavalier of Gales
+2 Cavalier of Thorns
+2 Quasiduplicate
+2 Agent of Treachery
+2 Feasting Troll King
+2 Gingerbread Cabin
+3 Risen Reef
+3 Quasiduplicate
+3 Cavalier of Thorns
+3 Leafkin Druid
+3 Gingerbread Cabin
+4 Leafkin Druid
+4 Risen Reef
+4 Cavalier of Thorns
+4 Gingerbread Cabin
+4 Quasiduplicate
 2 Maraleaf Pixie
 3 Maraleaf Pixie
 4 Maraleaf Pixie
 2 Thornwood Falls
-3 Opt
+4 Quench
 4 Opt
 1 Mass Manipulation
 1 Shifting Ceratops
 2 Mass Manipulation
 2 Shifting Ceratops
+3 Voracious Hydra
 3 Shifting Ceratops
 8 Island
 13 Forest

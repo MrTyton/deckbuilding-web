@@ -13,12 +13,12 @@
 4 Field of Ruin
 1 Fiery Islet
 1 Wooded Foothills
-1 Murderous Redcap
-1 Grumgully, the Generous
 1 Stomping Ground
 1 Putrid Goblin
-2 Grumgully, the Generous
+1 Grumgully, the Generous
+1 Murderous Redcap
 2 Murderous Redcap
+2 Grumgully, the Generous
 2 Putrid Goblin
 3 Grumgully, the Generous
 1 Sunbaked Canyon
@@ -85,12 +85,6 @@
 2 Makeshift Munitions
 3 Makeshift Munitions
 4 Makeshift Munitions
-1 Prismatic Vista
-1 Mutavault
-2 Mutavault
-3 Goblin Chieftain
-3 Mutavault
-4 Mutavault
 1 Grove of the Burnwillows
 1 Arid Mesa
 1 Scalding Tarn
@@ -98,11 +92,17 @@
 2 Stomping Ground
 2 Grove of the Burnwillows
 2 Arid Mesa
-3 Grove of the Burnwillows
 3 Murderous Redcap
+3 Grove of the Burnwillows
+4 Murderous Redcap
 4 Grove of the Burnwillows
 4 Grumgully, the Generous
-4 Murderous Redcap
+1 Prismatic Vista
+1 Mutavault
+2 Mutavault
+3 Goblin Chieftain
+3 Mutavault
+4 Mutavault
 4 Goblin Piledriver
 5 Snow-Covered Mountain
 6 Snow-Covered Mountain

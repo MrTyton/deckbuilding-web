@@ -57,7 +57,7 @@
 |                    3|[Arid Mesa](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405092)                 |                     |                                                                                                       |
 |                    1|[Inspiring Vantage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417819)         |                     |                                                                                                       |
 |                    4|[Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)              |                     |                                                                                                       |
-|                    1|[Sword of Feast and Famine](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=214070) |                     |                                                                                                       |
 |                    1|[Chandra, Torch of Defiance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417683)|                     |                                                                                                       |
+|                    1|[Sword of Feast and Famine](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=214070) |                     |                                                                                                       |
 |                    2|[Sunbaked Canyon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464196)           |                     |                                                                                                       |
 
