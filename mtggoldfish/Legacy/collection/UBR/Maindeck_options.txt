@@ -1,13 +1,13 @@
-1 Thoughtseize
 1 Dreadhorde Arcanist
+1 Thoughtseize
 2 Thoughtseize
 2 Dreadhorde Arcanist
 3 Thoughtseize
 3 Dreadhorde Arcanist
-1 Island
-1 Swamp
-1 Badlands
 1 Preordain
+1 Swamp
+1 Island
+1 Badlands
 2 Preordain
 1 Tyrant's Scorn
 1 Gurmag Angler
@@ -26,31 +26,14 @@
 1 Fatal Push
 1 Narset, Parter of Veils
 1 Misty Rainforest
-2 Misty Rainforest
 2 True-Name Nemesis
 2 Fatal Push
 2 Island
+2 Misty Rainforest
 3 Misty Rainforest
 3 Island
 4 Island
 4 Misty Rainforest
-1 Buried Alive
-1 Arclight Phoenix
-1 Dark Ritual
-1 Delver of Secrets
-2 Arclight Phoenix
-2 Buried Alive
-2 Dark Ritual
-2 Delver of Secrets
-3 Preordain
-3 Arclight Phoenix
-3 Buried Alive
-3 Dark Ritual
-3 Delver of Secrets
-4 Arclight Phoenix
-4 Buried Alive
-4 Dark Ritual
-4 Delver of Secrets
 1 Stubborn Denial
 1 Steam Vents
 1 Blood Crypt
@@ -68,40 +51,57 @@
 3 Wasteland
 3 Death's Shadow
 3 Thought Scour
+4 Bloodstained Mire
 4 Death's Shadow
 4 Thought Scour
 4 Wasteland
-4 Bloodstained Mire
-1 Cavern of Souls
+1 Buried Alive
+1 Arclight Phoenix
+1 Dark Ritual
+1 Delver of Secrets
+2 Buried Alive
+2 Arclight Phoenix
+2 Dark Ritual
+2 Delver of Secrets
+3 Preordain
+3 Arclight Phoenix
+3 Buried Alive
+3 Dark Ritual
+3 Delver of Secrets
+4 Arclight Phoenix
+4 Buried Alive
+4 Dark Ritual
+4 Delver of Secrets
+1 Kiki-Jiki, Mirror Breaker
 1 Warren Instigator
-1 Goblin Cratermaker
 1 Grenzo, Havoc Raiser
 1 Stingscourger
+1 Goblin Trashmaster
 1 Lightning Crafter
 1 Goblin Settler
 1 Goblin Ringleader
 1 Goblin Chieftain
-1 Kiki-Jiki, Mirror Breaker
+1 Goblin Cratermaker
 1 Aether Vial
 1 Goblin Matron
 1 Pashalik Mons
 1 Goblin Lackey
-1 Goblin Trashmaster
+1 Cavern of Souls
 1 Goblin Rabblemaster
 1 Ancient Tomb
 1 Chrome Mox
 1 Gempalm Incinerator
 1 Chalice of the Void
 2 Warren Instigator
-2 Gempalm Incinerator
+2 Ancient Tomb
 2 Grenzo, Havoc Raiser
 2 Goblin Matron
 2 Aether Vial
 2 Chrome Mox
 2 Goblin Rabblemaster
 2 Goblin Lackey
-2 Ancient Tomb
 2 Chalice of the Void
+2 Gempalm Incinerator
 2 Mountain
 2 Goblin Ringleader
 2 Cavern of Souls
@@ -118,7 +118,6 @@
 3 Goblin Rabblemaster
 3 Chrome Mox
 3 Mountain
-4 Cavern of Souls
 4 Warren Instigator
 4 Chalice of the Void
 4 Goblin Lackey
@@ -126,6 +125,7 @@
 4 Goblin Ringleader
 4 Goblin Matron
 4 Mountain
+4 Cavern of Souls
 5 Mountain
 6 Mountain
 7 Mountain

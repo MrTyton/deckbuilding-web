@@ -42,8 +42,8 @@
 |                    1|[Teferi, Time Raveler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461148)|                    1|[Thalia, Guardian of Thraben](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442025)|
 |                    2|[Baleful Strix](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376260)       |                    1|[Nihil Spellbomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442215)            |
 |                     |                                                                                               |                    1|[Back to Basics](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456642)             |
-|                     |                                                                                               |                    3|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)        |
 |                     |                                                                                               |                    1|[Garruk Relentless](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=245250)          |
 |                     |                                                                                               |                    1|[Pernicious Deed](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442201)            |
 |                     |                                                                                               |                    2|[Assassin's Trophy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452902)          |
+|                     |                                                                                               |                    3|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)        |
 

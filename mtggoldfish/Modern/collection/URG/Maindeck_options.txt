@@ -1,18 +1,12 @@
-1 Skred
-2 Skred
-3 Arcum's Astrolabe
+1 Spell Snare
+2 Spell Snare
+1 Opt
+2 Opt
+3 Snapcaster Mage
+4 Snapcaster Mage
+4 Serum Visions
 3 Skred
-4 Arcum's Astrolabe
-1 Serum Visions
-1 Tarmogoyf
-2 Serum Visions
-2 Tarmogoyf
-3 Serum Visions
-3 Tarmogoyf
-4 Tarmogoyf
 2 Snow-Covered Forest
-4 Cryptic Command
-2 Snow-Covered Mountain
 2 Breeding Pool
 1 Blood Moon
 1 Wooded Foothills
@@ -22,55 +16,62 @@
 3 Snow-Covered Forest
 3 Wooded Foothills
 4 Wooded Foothills
+3 Cryptic Command
+1 Huntmaster of the Fells
+3 Blood Moon
+4 Blood Moon
+4 Skred
+1 Frostwalk Bastion
+2 Fiery Islet
+5 Snow-Covered Island
+3 Opt
+4 Opt
+1 Magmatic Sinkhole
+1 Prismatic Vista
+4 Cryptic Command
+2 Snow-Covered Mountain
 2 Stomping Ground
+2 Jace, the Mind Sculptor
 1 Brazen Borrower
 1 Sulfur Falls
 1 Hinterland Harbor
 2 Brazen Borrower
 2 Sulfur Falls
-1 Lonely Sandbar
+2 Frostwalk Bastion
 1 Ghost Quarter
+1 Lonely Sandbar
 1 Abrade
 1 Lumbering Falls
 1 Field of Ruin
 2 Abrade
 2 Prismatic Vista
-1 Huntmaster of the Fells
-3 Blood Moon
-4 Serum Visions
-4 Blood Moon
-4 Skred
 1 Repeal
 1 Drawn from Dreams
-1 Scapeshift
-1 Search for Tomorrow
-1 Flooded Grove
-1 Valakut, the Molten Pinnacle
-1 Farseek
 1 Sakura-Tribe Elder
+1 Farseek
+1 Valakut, the Molten Pinnacle
+1 Search for Tomorrow
+1 Scapeshift
+1 Flooded Grove
 2 Drawn from Dreams
-2 Scapeshift
-2 Search for Tomorrow
-2 Farseek
-2 Flooded Grove
 2 Sakura-Tribe Elder
+2 Farseek
 2 Valakut, the Molten Pinnacle
+2 Search for Tomorrow
+2 Scapeshift
+2 Flooded Grove
 3 Stomping Ground
 3 Drawn from Dreams
-3 Search for Tomorrow
-3 Sakura-Tribe Elder
-3 Steam Vents
 3 Scapeshift
+3 Sakura-Tribe Elder
+3 Search for Tomorrow
+3 Steam Vents
+4 Search for Tomorrow
+4 Scapeshift
+4 Stomping Ground
 4 Sakura-Tribe Elder
 4 Steam Vents
 4 Remand
-4 Stomping Ground
-4 Scapeshift
-4 Search for Tomorrow
-1 Frostwalk Bastion
-2 Frostwalk Bastion
-2 Fiery Islet
-5 Snow-Covered Island
 1 Bonecrusher Giant
 1 Questing Beast
 1 Stormbreath Dragon
@@ -82,10 +83,10 @@
 1 Domri, Anarch of Bolas
 1 Gruul Spellbreaker
 2 Bonecrusher Giant
+2 Tireless Tracker
 2 Arbor Elf
 2 Utopia Sprawl
 2 Kiora, Behemoth Beckoner
-2 Tireless Tracker
 2 Birds of Paradise
 2 Glorybringer
 3 Bonecrusher Giant

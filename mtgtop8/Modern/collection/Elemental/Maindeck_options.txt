@@ -33,19 +33,19 @@
 3 Seasoned Pyromancer
 4 Seasoned Pyromancer
 1 Sacred Foundry
-1 Steam Vents
-1 Mana Confluence
 1 Simian Spirit Guide
 1 Chalice of the Void
+1 Steam Vents
+1 Mana Confluence
 1 Snow-Covered Forest
 1 Chancellor of the Tangle
 1 Wooded Foothills
 1 Collected Company
 1 Stomping Ground
 2 Wooded Foothills
-2 Mana Confluence
-2 Simian Spirit Guide
 2 Chalice of the Void
+2 Simian Spirit Guide
+2 Mana Confluence
 2 Chancellor of the Tangle
 2 Collected Company
 3 Simian Spirit Guide
@@ -63,10 +63,10 @@
 1 Arid Mesa
 1 Inquisition of Kozilek
 1 Unearth
-1 Dreadhorde Arcanist
 1 Kolaghan's Command
 1 Lightning Bolt
 1 Collective Brutality
+1 Dreadhorde Arcanist
 1 Blackcleave Cliffs
 1 Thoughtseize
 1 Fatal Push
@@ -77,6 +77,7 @@
 2 Faithless Looting
 2 Inquisition of Kozilek
 2 Lightning Bolt
+2 Arid Mesa
 2 Unearth
 2 Ball Lightning
 2 Bloodstained Mire
@@ -84,7 +85,6 @@
 2 Thoughtseize
 2 Dragonskull Summit
 2 Collective Brutality
-2 Arid Mesa
 2 Blackcleave Cliffs
 2 Fatal Push
 2 Snow-Covered Swamp

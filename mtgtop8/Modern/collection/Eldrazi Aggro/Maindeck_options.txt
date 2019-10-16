@@ -2,7 +2,6 @@
 1 Radiant Fountain
 2 Ugin, the Ineffable
 1 Warping Wail
-3 Dismember
 3 Wastes
 2 Endbringer
 1 Noble Hierarch
@@ -37,6 +36,7 @@
 4 Path to Exile
 4 Brushland
 4 Eldrazi Displacer
+3 Dismember
 3 Ghost Quarter
 1 Birds of Paradise
 2 Forest
@@ -75,8 +75,6 @@
 1 Ulamog, the Ceaseless Hunger
 2 Spatial Contortion
 2 Mystic Forge
-1 Karn Liberated
-2 Karn Liberated
 1 Relic of Progenitus
 2 Relic of Progenitus
 3 Endbringer
@@ -116,9 +114,9 @@
 4 Serum Powder
 1 Sunbaked Canyon
 1 Thalia, Heretic Cathar
+1 Battlefield Forge
 1 Brimaz, King of Oreskos
 1 Temple of Triumph
-1 Battlefield Forge
 1 Aven Mindcensor
 1 Phyrexian Revoker
 1 Fiend Hunter
@@ -126,9 +124,10 @@
 1 Suppression Field
 1 Thalia, Guardian of Thraben
 1 Vryn Wingmare
+2 Temple of Triumph
 2 Thalia, Heretic Cathar
-2 Thalia, Guardian of Thraben
 2 Battlefield Forge
+2 Thalia, Guardian of Thraben
 2 Suppression Field
 2 Phyrexian Revoker
 2 Aven Mindcensor
@@ -137,12 +136,11 @@
 2 Sunbaked Canyon
 2 Plains
 2 Vryn Wingmare
-2 Temple of Triumph
-3 Battlefield Forge
 3 Plains
 3 Thalia, Guardian of Thraben
 3 Vryn Wingmare
 3 Gemstone Caverns
+3 Battlefield Forge
 3 Suppression Field
 4 Battlefield Forge
 4 Plains

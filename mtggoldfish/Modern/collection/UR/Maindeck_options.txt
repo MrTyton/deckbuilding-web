@@ -1,49 +1,48 @@
-3 Deprive
-4 Archmage's Charm
-4 Young Pyromancer
-1 Cryptic Command
-2 Cryptic Command
 1 Vendilion Clique
 2 Vendilion Clique
-6 Island
-3 Cryptic Command
+4 Steam Vents
+1 Polluted Delta
+1 Misty Rainforest
+2 Polluted Delta
+1 Mountain
+3 Polluted Delta
+4 Polluted Delta
+4 Force of Negation
+1 Remand
+2 Remand
+1 Burst Lightning
+1 Mana Leak
+2 Burst Lightning
+2 Mana Leak
 1 Snow-Covered Island
 2 Snow-Covered Island
 3 Snow-Covered Island
 4 Snow-Covered Island
-1 Polluted Delta
-1 Misty Rainforest
-2 Polluted Delta
-4 Steam Vents
+1 Fiery Islet
+2 Fiery Islet
 3 Remand
-4 Remand
+1 Cryptic Command
+2 Cryptic Command
 1 Spell Pierce
-1 Peek
 1 Manamorphose
 2 Manamorphose
 3 Manamorphose
 4 Manamorphose
+1 Brazen Borrower
 1 Brineborn Cutthroat
 1 Logic Knot
-1 Burst Lightning
 1 Faerie Conclave
-1 Mana Leak
 1 Dismember
-2 Burst Lightning
 2 Brineborn Cutthroat
 2 Faerie Conclave
 2 Logic Knot
-2 Mana Leak
 3 Brineborn Cutthroat
+3 Cryptic Command
 3 Spell Snare
 4 Brineborn Cutthroat
-3 Polluted Delta
-4 Polluted Delta
-4 Force of Negation
 1 Finale of Promise
-1 Chart a Course
 1 Arclight Phoenix
-1 Fiery Islet
+1 Chart a Course
 1 Pyromancer Ascension
 1 Sleight of Hand
 1 Thought Scour
@@ -52,7 +51,6 @@
 2 Pyromancer Ascension
 2 Thought Scour
 2 Sleight of Hand
-2 Fiery Islet
 2 Chart a Course
 2 Baral, Chief of Compliance
 3 Arclight Phoenix
@@ -61,64 +59,65 @@
 3 Pyromancer Ascension
 3 Chart a Course
 3 Sleight of Hand
+4 Remand
 4 Arclight Phoenix
 4 Chart a Course
 4 Pyromancer Ascension
 4 Thought Scour
+1 Nimble Obstructionist
+1 Wizard's Lightning
+1 Mutavault
+1 Grim Lavamancer
+2 Mutavault
+2 Wizard's Lightning
+2 Grim Lavamancer
+2 Nimble Obstructionist
+3 Mutavault
+3 Wizard's Lightning
+3 Nimble Obstructionist
+3 Mana Leak
+4 Mutavault
+4 Wizard's Lightning
 1 Bedlam Reveler
 1 Lava Dart
 1 Gut Shot
 1 Stubborn Denial
 1 Mutagenic Growth
+1 Peek
 1 Thing in the Ice
-1 Arid Mesa
 1 Temur Battle Rage
+1 Arid Mesa
 1 Kiln Fiend
 2 Lava Dart
 2 Gut Shot
+2 Temur Battle Rage
 2 Arid Mesa
 2 Mutagenic Growth
-2 Temur Battle Rage
+2 Kiln Fiend
 2 Thing in the Ice
 2 Stubborn Denial
-2 Kiln Fiend
 3 Lava Dart
 3 Temur Battle Rage
 3 Thing in the Ice
-3 Kiln Fiend
 3 Arid Mesa
 3 Mutagenic Growth
-3 Stubborn Denial
+3 Kiln Fiend
 3 Gut Shot
+3 Stubborn Denial
 4 Lava Dart
-4 Gut Shot
 4 Thing in the Ice
 4 Temur Battle Rage
 4 Stubborn Denial
 4 Arid Mesa
 4 Kiln Fiend
+4 Gut Shot
 4 Mutagenic Growth
-1 Kiki-Jiki, Mirror Breaker
-1 Cascade Bluffs
-1 Abrade
-1 Sulfur Falls
-1 Blood Moon
-1 Electrolyze
-1 Desolate Lighthouse
-1 Pestermite
-1 Deceiver Exarch
-2 Kiki-Jiki, Mirror Breaker
-2 Sulfur Falls
-2 Blood Moon
-2 Pestermite
-2 Deceiver Exarch
-3 Pestermite
-3 Blood Moon
-7 Island
+6 Island
 1 Jace, the Mind Sculptor
 1 Narset, Parter of Veils
 1 Castle Vantress
 1 Mikokoro, Center of the Sea
+1 Chandra, Torch of Defiance
 1 Fires of Invention
 1 Time Warp
 1 Dictate of Kruphix
@@ -126,7 +125,6 @@
 1 Simian Spirit Guide
 1 Savor the Moment
 1 Howling Mine
-1 Chandra, Torch of Defiance
 1 Jace Beleren
 2 Narset, Parter of Veils
 2 Time Warp
@@ -138,15 +136,15 @@
 2 Dictate of Kruphix
 2 Exhaustion
 2 Howling Mine
-3 Mystic Sanctuary
 3 Time Warp
 3 Fires of Invention
 3 Howling Mine
 3 Savor the Moment
-4 Mystic Sanctuary
+3 Mystic Sanctuary
 4 Time Warp
 4 Fires of Invention
 4 Savor the Moment
+4 Mystic Sanctuary
 5 Snow-Covered Island
 6 Snow-Covered Island
 7 Snow-Covered Island

@@ -1,13 +1,13 @@
-3 Twiddle
 3 Yavimaya Coast
+3 Twiddle
 3 Botanical Sanctum
 3 Snow-Covered Island
 4 Yavimaya Coast
 4 Snow-Covered Island
 4 Botanical Sanctum
 1 Shivan Reef
-1 Spirebluff Canal
 1 Shimmer of Possibility
+1 Spirebluff Canal
 1 Steam Vents
 1 Fiery Islet
 2 Merchant Scroll
@@ -26,11 +26,11 @@
 1 Temple Garden
 1 Noble Hierarch
 1 Fauna Shaman
-1 Fire-Lit Thicket
 1 Scavenging Ooze
+1 Fire-Lit Thicket
 1 Collector Ouphe
-1 Arid Mesa
 1 Knight of Autumn
+1 Arid Mesa
 1 Magus of the Moon
 1 Rampaging Ferocidon
 1 Cavern of Souls
@@ -112,7 +112,6 @@
 3 Empty the Warrens
 3 Wild Cantor
 3 Skirk Prospector
-4 Skirk Prospector
 4 Mogg War Marshal
 4 Stomping Ground
 4 Karplusan Forest
@@ -121,6 +120,7 @@
 4 Goblin Instigator
 4 Commune with the Gods
 4 Wild Cantor
+4 Skirk Prospector
 4 Fecundity
 5 Mountain
 6 Mountain
@@ -129,8 +129,8 @@
 9 Mountain
 10 Mountain
 1 Eye of Nowhere
-1 Opt
 1 Peek
+1 Opt
 2 Peek
 2 Opt
 2 Eye of Nowhere

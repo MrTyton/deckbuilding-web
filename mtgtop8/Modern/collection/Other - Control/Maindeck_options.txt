@@ -1,65 +1,32 @@
-1 Polluted Delta
-1 Watery Grave
-1 Vendilion Clique
-2 Polluted Delta
-2 Watery Grave
-2 Spell Snare
-1 Field of Ruin
-2 Field of Ruin
-3 Field of Ruin
-4 Field of Ruin
-1 Drown in the Loch
-1 Thought Scour
-1 Creeping Tar Pit
-1 Mystic Sanctuary
-1 Tasigur, the Golden Fang
-1 Snow-Covered Swamp
-1 Inquisition of Kozilek
-1 Dead of Winter
-1 Thing in the Ice
-2 Thought Scour
-2 Mystic Sanctuary
-2 Drown in the Loch
-2 Snow-Covered Swamp
-2 Dead of Winter
-2 Tasigur, the Golden Fang
-2 Thing in the Ice
-2 Inquisition of Kozilek
-3 Polluted Delta
-3 Dead of Winter
-3 Drown in the Loch
-3 Thing in the Ice
-3 Thought Scour
-3 Inquisition of Kozilek
-4 Thing in the Ice
-4 Polluted Delta
-4 Drown in the Loch
-4 Thought Scour
-4 Inquisition of Kozilek
 1 Flooded Strand
 1 Faerie Conclave
 1 Piracy Charm
-1 Dismember
-1 Logic Knot
-1 Summary Dismissal
-1 Archmage's Charm
 1 Brineborn Cutthroat
+1 Misty Rainforest
+1 Summary Dismissal
+1 Mana Leak
 1 Opt
+1 Archmage's Charm
+1 Logic Knot
+1 Dismember
 2 Faerie Conclave
 2 Vendilion Clique
-2 Flooded Strand
-2 Dismember
 2 Brineborn Cutthroat
+2 Misty Rainforest
+2 Dismember
 2 Piracy Charm
+2 Mana Leak
 2 Archmage's Charm
 2 Opt
+2 Flooded Strand
 3 Spell Snare
 3 Archmage's Charm
 3 Opt
 3 Faerie Conclave
+3 Brineborn Cutthroat
+3 Misty Rainforest
 3 Force of Negation
 3 Dismember
-3 Brineborn Cutthroat
 3 Flooded Strand
 3 Piracy Charm
 4 Opt
@@ -74,10 +41,11 @@
 1 Blast Zone
 1 Windswept Heath
 1 Thraben Inspector
+1 Charming Prince
 1 Ranger-Captain of Eos
 1 Sun Titan
-1 Charming Prince
 1 Crucible of Worlds
+1 Prismatic Vista
 1 Kami of False Hope
 1 Wrath of God
 1 Arid Mesa
@@ -89,11 +57,12 @@
 1 Flickerwisp
 1 Brought Back
 1 Emeria, the Sky Ruin
+2 Snow-Covered Plains
+2 Charming Prince
 2 Ranger-Captain of Eos
 2 Thraben Inspector
-2 Charming Prince
 2 Winds of Abandon
-2 Snow-Covered Plains
+2 Prismatic Vista
 2 Wall of Omens
 2 Path to Exile
 2 Brought Back
@@ -104,6 +73,7 @@
 3 Ranger-Captain of Eos
 3 Thraben Inspector
 3 Wall of Omens
+3 Prismatic Vista
 3 Charming Prince
 3 Path to Exile
 3 Snow-Covered Plains
@@ -123,26 +93,33 @@
 7 Snow-Covered Plains
 8 Snow-Covered Plains
 9 Snow-Covered Plains
+1 Lightning Bolt
+1 Stomping Ground
 1 Wooded Foothills
-1 Forest
 1 Young Pyromancer
 1 Seasoned Pyromancer
+1 Wrenn and Six
+1 Forest
 1 Molten Vortex
+1 Blood Moon
 1 Ghost Quarter
 1 Forgotten Cave
 1 Mountain
 1 Seismic Assault
 1 Commune with the Gods
-1 Fire-Lit Thicket
 1 Raging Ravine
 1 Flame Jab
+1 Fire-Lit Thicket
 1 Magmatic Insight
 1 Life from the Loam
+2 Lightning Bolt
 2 Wooded Foothills
 2 Molten Vortex
 2 Stomping Ground
 2 Forest
 2 Seasoned Pyromancer
+2 Blood Moon
+2 Wrenn and Six
 2 Young Pyromancer
 2 Ghost Quarter
 2 Magmatic Insight
@@ -154,6 +131,7 @@
 2 Life from the Loam
 2 Commune with the Gods
 2 Seismic Assault
+3 Lightning Bolt
 3 Ghost Quarter
 3 Wooded Foothills
 3 Blood Moon
@@ -167,6 +145,7 @@
 3 Seismic Assault
 3 Mountain
 4 Ghost Quarter
+4 Lightning Bolt
 4 Wooded Foothills
 4 Young Pyromancer
 4 Mountain

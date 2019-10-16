@@ -5,25 +5,26 @@
 3 Silent Clearing
 3 Wasteland Strangler
 4 Tidehollow Sculler
-1 Field of Ruin
+1 Phyrexian Revoker
 3 Plains
 4 Plains
+1 Field of Ruin
 2 Field of Ruin
 1 Tectonic Edge
-1 Phyrexian Revoker
 5 Plains
+2 Phyrexian Revoker
 6 Plains
 1 Horizon Canopy
-2 Phyrexian Revoker
 2 Horizon Canopy
 1 Shefet Dunes
 1 Sword of Feast and Famine
 7 Plains
+1 Sunbaked Canyon
 3 Field of Ruin
 4 Field of Ruin
 1 Snow-Covered Plains
 1 Thraben Inspector
-1 Sunbaked Canyon
+2 Sunbaked Canyon
 1 Mirran Crusader
 2 Mirran Crusader
 1 Mutavault
@@ -36,15 +37,15 @@
 1 Restoration Angel
 1 Eiganjo Castle
 1 Vendilion Clique
+1 Spell Queller
 1 Hallowed Fountain
 1 Deputy of Detention
-1 Spell Queller
 1 Seachrome Coast
 1 Adarkar Wastes
 2 Seachrome Coast
+2 Spell Queller
 2 Adarkar Wastes
 2 Hallowed Fountain
-2 Spell Queller
 3 Spell Queller
 3 Adarkar Wastes
 3 Seachrome Coast
@@ -57,7 +58,9 @@
 1 Sword of Light and Shadow
 1 Thalia, Heretic Cathar
 1 Ranger-Captain of Eos
-2 Sunbaked Canyon
+1 Charming Prince
+2 Charming Prince
+1 Wastes
 2 Snow-Covered Plains
 3 Snow-Covered Plains
 4 Snow-Covered Plains
@@ -73,12 +76,34 @@
 4 Deputy of Detention
 4 Spellstutter Sprite
 1 Shambling Vent
+2 Thalia, Heretic Cathar
+1 Dismember
+1 Gemstone Caverns
+1 Chalice of the Void
+1 Reality Smasher
+1 Battlefield Forge
+1 Simian Spirit Guide
+1 Cavern of Souls
+2 Simian Spirit Guide
+2 Chalice of the Void
+2 Reality Smasher
+2 Gemstone Caverns
+2 Battlefield Forge
+2 Dismember
+2 Cavern of Souls
+3 Sunbaked Canyon
+3 Chalice of the Void
+3 Gemstone Caverns
+3 Reality Smasher
+3 Simian Spirit Guide
+4 Sunbaked Canyon
+4 Chalice of the Void
+4 Reality Smasher
+4 Simian Spirit Guide
 2 Shefet Dunes
 3 Horizon Canopy
 2 Thraben Inspector
 2 Restoration Angel
-1 Charming Prince
-2 Charming Prince
 5 Snow-Covered Plains
 6 Snow-Covered Plains
 7 Snow-Covered Plains
@@ -89,11 +114,13 @@
 4 Tectonic Edge
 2 Ranger-Captain of Eos
 3 Ranger-Captain of Eos
-1 Wastes
-2 Thalia, Heretic Cathar
 1 Hypnotic Sprite
 1 Ephemerate
 2 Vendilion Clique
+1 Winds of Abandon
+1 Warping Wail
+2 Winds of Abandon
+2 Warping Wail
 1 Remorseful Cleric
 2 Remorseful Cleric
 2 Shambling Vent
@@ -102,6 +129,7 @@
 2 Militia Bugler
 3 Thraben Inspector
 3 Shefet Dunes
+3 Dismember
 3 Blade Splicer
 1 Teferi, Time Raveler
 1 Island
@@ -109,33 +137,6 @@
 2 Teferi, Time Raveler
 3 Teferi, Time Raveler
 3 Island
-1 Dismember
-1 Winds of Abandon
-1 Gemstone Caverns
-1 Chalice of the Void
-1 Warping Wail
-1 Battlefield Forge
-1 Reality Smasher
-1 Simian Spirit Guide
-1 Cavern of Souls
-2 Winds of Abandon
-2 Chalice of the Void
-2 Warping Wail
-2 Reality Smasher
-2 Gemstone Caverns
-2 Battlefield Forge
-2 Simian Spirit Guide
-2 Dismember
-2 Cavern of Souls
-3 Sunbaked Canyon
-3 Chalice of the Void
-3 Reality Smasher
-3 Gemstone Caverns
-3 Simian Spirit Guide
-4 Sunbaked Canyon
-4 Chalice of the Void
-4 Reality Smasher
-4 Simian Spirit Guide
 1 Serra Avenger
 1 Walking Ballista
 2 Serra Avenger
