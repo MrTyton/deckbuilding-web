@@ -62,7 +62,7 @@
 |                    2|[Merfolk Secretkeeper](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473015) |                    3|[Ancient Grudge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=235600)      |
 |                    3|[Merfolk Secretkeeper](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473015) |                    3|[Collective Brutality](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414380)|
 |                    4|[Merfolk Secretkeeper](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473015) |                    3|[Abrupt Decay](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456061)        |
-|                     |                                                                                                |                    4|[Alpine Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447264)         |
 |                     |                                                                                                |                    4|[Collective Brutality](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414380)|
+|                     |                                                                                                |                    4|[Alpine Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447264)         |
 |                     |                                                                                                |                    4|[Ancient Grudge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=235600)      |
 

@@ -1,12 +1,12 @@
-4 Lightning Helix
+2 Skullcrack
 2 Arid Mesa
 3 Wooded Foothills
 3 Bloodstained Mire
 4 Mountain
 5 Mountain
+2 Fiery Islet
 6 Mountain
 7 Mountain
-2 Fiery Islet
 1 Light Up the Stage
 2 Light Up the Stage
 8 Mountain
@@ -35,8 +35,6 @@
 14 Mountain
 3 Sacred Foundry
 3 Arid Mesa
-1 Scalding Tarn
-2 Scalding Tarn
 3 Bedlam Reveler
 3 Crash Through
 4 Crash Through
@@ -44,8 +42,12 @@
 1 Gut Shot
 2 Gut Shot
 15 Mountain
+1 Snow-Covered Mountain
+2 Snow-Covered Mountain
+3 Snow-Covered Mountain
 4 Arid Mesa
-3 Skullcrack
+1 Scalding Tarn
+2 Scalding Tarn
 1 Runaway Steam-Kin
 2 Runaway Steam-Kin
 1 Burst Lightning
@@ -71,9 +73,6 @@
 2 Forked Bolt
 2 Burst Lightning
 3 Runaway Steam-Kin
-1 Snow-Covered Mountain
-2 Snow-Covered Mountain
-3 Snow-Covered Mountain
 1 Clifftop Retreat
 2 Clifftop Retreat
 3 Clifftop Retreat
@@ -91,4 +90,5 @@
 3 Warlord's Fury
 4 Bedlam Reveler
 4 Warlord's Fury
+3 Skullcrack
 4 Wooded Foothills
