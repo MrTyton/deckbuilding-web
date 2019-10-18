@@ -33,13 +33,13 @@
 2 Forest
 2 Devoted Druid
 2 Temple Garden
-2 Noble Hierarch
-2 Razorverge Thicket
 2 Eldritch Evolution
-2 Misty Rainforest
+2 Noble Hierarch
 2 Eladamri's Call
-3 Neoform
+2 Razorverge Thicket
+2 Misty Rainforest
 3 Once Upon a Time
+3 Neoform
 3 Misty Rainforest
 3 Devoted Druid
 3 Allosaurus Rider
@@ -58,7 +58,6 @@
 1 Copperline Gorge
 1 Shriekmaw
 1 Voice of Resurgence
-1 Incandescent Soulstoke
 1 Risen Reef
 1 Vesperlark
 1 Cavern of Souls
@@ -66,12 +65,13 @@
 1 Smokebraider
 1 Flickerwisp
 1 Aether Vial
+1 Incandescent Soulstoke
 1 Simian Spirit Guide
 1 Flamekin Harbinger
 1 Thunderkin Awakener
-1 Healer of the Glade
 1 Unclaimed Territory
 1 Primal Beyond
+1 Healer of the Glade
 1 Fiery Islet
 1 Fulminator Mage
 1 Sunbaked Canyon
@@ -134,15 +134,15 @@
 4 Faeburrow Elder
 4 Prismatic Vista
 1 Mana Confluence
-1 Flooded Strand
+1 Fatestitcher
 1 Grove of the Burnwillows
 1 Island
 1 Peek
 1 Serum Visions
 1 Sylvan Caryatid
+1 Flooded Strand
 1 Jeskai Ascendancy
 1 Steam Vents
-1 Fatestitcher
 1 Gut Shot
 1 Opt
 1 Sleight of Hand
@@ -178,6 +178,6 @@
 4 Glittering Wish
 4 Cerulean Wisps
 4 Mana Confluence
-4 Flooded Strand
 4 Fatestitcher
+4 Flooded Strand
 4 Light Up the Stage

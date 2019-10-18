@@ -1,8 +1,8 @@
+4 Slaying Fire
+1 Tin Street Dodger
 2 Tin Street Dodger
 3 Tin Street Dodger
 4 Tin Street Dodger
-4 Skewer the Critics
-4 Slaying Fire
 1 Cavalcade of Calamity
 2 Cavalcade of Calamity
 3 Cavalcade of Calamity
@@ -14,10 +14,14 @@
 4 Chandra's Spitfire
 18 Mountain
 4 Torbran, Thane of Red Fell
-4 Castle Embereth
 2 Chandra, Acolyte of Flame
 3 Chandra, Acolyte of Flame
 4 Chandra, Acolyte of Flame
+4 Castle Embereth
+1 Grim Initiate
+2 Grim Initiate
+3 Grim Initiate
+4 Grim Initiate
 1 Ember Hauler
 2 Ember Hauler
 3 Ember Hauler
@@ -25,17 +29,13 @@
 2 Tibalt, Rakish Instigator
 1 Footlight Fiend
 2 Footlight Fiend
+1 Dwarven Mine
+2 Dwarven Mine
+3 Experimental Frenzy
 1 Robber of the Rich
 2 Robber of the Rich
 3 Robber of the Rich
 4 Robber of the Rich
-1 Dwarven Mine
-2 Dwarven Mine
-3 Experimental Frenzy
-1 Grim Initiate
-2 Grim Initiate
-3 Grim Initiate
-4 Grim Initiate
 1 Gingerbrute
 2 Gingerbrute
 3 Gingerbrute
@@ -60,19 +60,19 @@
 2 Embercleave
 3 Embercleave
 4 Legion Warboss
+1 Chandra's Pyrohelix
 1 Chandra's Outrage
 1 Fire Urchin
 1 Erratic Cyclops
 1 Burning-Tree Vandal
 1 Spellgorger Weird
-1 Chandra's Pyrohelix
 1 Dreadhorde Arcanist
 1 Lava Coil
 2 Chandra's Outrage
 2 Fire Urchin
 2 Burning-Tree Vandal
-2 Spellgorger Weird
 2 Chandra's Pyrohelix
+2 Spellgorger Weird
 2 Lava Coil
 2 Dreadhorde Arcanist
 3 Chandra's Outrage

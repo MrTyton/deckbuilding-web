@@ -1,6 +1,6 @@
-1 Vampire Hexmage
 1 Gemstone Mine
 1 Karakas
+1 Mox Diamond
 1 Thespian's Stage
 1 Sylvan Scrying
 1 Crop Rotation
@@ -9,16 +9,16 @@
 2 Crop Rotation
 2 Thespian's Stage
 2 Elvish Reclaimer
-2 Mox Diamond
 2 Urborg, Tomb of Yawgmoth
 2 Vampire Hexmage
 2 Sylvan Scrying
 2 Duress
 2 Dark Depths
+2 Mox Diamond
 3 Thespian's Stage
 3 Elvish Reclaimer
-3 Mox Diamond
 3 Vampire Hexmage
+3 Mox Diamond
 3 Sylvan Scrying
 3 Crop Rotation
 3 Dark Depths
@@ -63,10 +63,10 @@
 2 Gurmag Angler
 2 Fatal Push
 3 Underground Sea
+1 Magmatic Sinkhole
 1 Narset, Parter of Veils
 1 Spell Snare
 1 Tarmogoyf
-1 Magmatic Sinkhole
 1 Tyrant's Scorn
 1 Cephalid Coliseum
 2 Spell Snare
@@ -85,34 +85,34 @@
 1 Assassin's Trophy
 1 Green Sun's Zenith
 1 Counterspell
-1 Ice-Fang Coatl
-1 Snow-Covered Forest
+1 Scavenging Ooze
+1 Lonely Sandbar
 1 Abominable Treefolk
 1 Fabled Passage
-1 Scavenging Ooze
+1 Snow-Covered Forest
 1 Arcum's Astrolabe
 1 Dead of Winter
+1 Ice-Fang Coatl
 1 Field of Ruin
 1 Prismatic Vista
 1 Snow-Covered Mountain
-1 Lonely Sandbar
 2 Snow-Covered Island
-2 Ice-Fang Coatl
 2 Fabled Passage
 2 Snow-Covered Swamp
 2 Dead of Winter
 2 Green Sun's Zenith
 2 Arcum's Astrolabe
 2 Prismatic Vista
+2 Ice-Fang Coatl
 2 Snow-Covered Forest
 3 Snow-Covered Island
-3 Ice-Fang Coatl
 3 Fabled Passage
 3 Prismatic Vista
+3 Ice-Fang Coatl
 3 Arcum's Astrolabe
 4 Snow-Covered Island
-4 Ice-Fang Coatl
 4 Fabled Passage
+4 Ice-Fang Coatl
 4 Prismatic Vista
 4 Arcum's Astrolabe
 1 Cabal Therapy
@@ -135,19 +135,19 @@
 2 Entomb
 2 Land Grant
 2 Lotus Petal
-3 Preordain
 3 Lotus Petal
 3 Cabal Therapy
 3 Entomb
 3 Land Grant
 3 Buried Alive
 3 Dark Ritual
+3 Preordain
 3 Arclight Phoenix
-4 Preordain
-4 Cabal Therapy
 4 Lotus Petal
+4 Cabal Therapy
 4 Dark Ritual
 4 Entomb
 4 Land Grant
+4 Preordain
 4 Buried Alive
 4 Arclight Phoenix
