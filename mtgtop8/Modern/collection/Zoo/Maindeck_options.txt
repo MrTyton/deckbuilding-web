@@ -1,17 +1,3 @@
-3 Arid Mesa
-4 Arid Mesa
-1 Goblin Guide
-2 Goblin Guide
-3 Goblin Guide
-4 Goblin Guide
-1 Hexdrinker
-1 Kird Ape
-2 Kird Ape
-3 Kird Ape
-4 Kird Ape
-1 Gruul Spellbreaker
-4 Bloodbraid Elf
-2 Temple Garden
 1 Reckless Bushwhacker
 1 Burning-Tree Emissary
 2 Burning-Tree Emissary
@@ -19,8 +5,30 @@
 3 Reckless Bushwhacker
 3 Burning-Tree Emissary
 4 Burning-Tree Emissary
+1 Scavenging Ooze
+1 Knight of Autumn
+2 Scavenging Ooze
+1 Gideon Blackblade
+2 Gideon Blackblade
+1 Hexdrinker
+1 Kird Ape
+2 Kird Ape
+3 Kird Ape
+4 Kird Ape
+4 Path to Exile
+1 Gruul Spellbreaker
+1 Narnam Renegade
+2 Narnam Renegade
+3 Narnam Renegade
+1 Ghor-Clan Rampager
+2 Ghor-Clan Rampager
+4 Bloodbraid Elf
+2 Temple Garden
 1 Boros Charm
 2 Boros Charm
+1 Mutagenic Growth
+1 Become Immense
+2 Mutagenic Growth
 1 Shalai, Voice of Plenty
 1 Overgrown Tomb
 2 Knight of Autumn
@@ -29,22 +37,14 @@
 2 Woolly Thoctar
 3 Woolly Thoctar
 4 Woolly Thoctar
-1 Ghor-Clan Rampager
 2 Hexdrinker
-2 Ghor-Clan Rampager
 3 Ghor-Clan Rampager
 4 Tarmogoyf
 4 Ghor-Clan Rampager
-1 Narnam Renegade
-2 Narnam Renegade
-3 Narnam Renegade
 4 Narnam Renegade
-1 Mutagenic Growth
 1 Bomat Courier
 1 Bloodstained Mire
 1 Monastery Swiftspear
-1 Become Immense
-2 Mutagenic Growth
 2 Bomat Courier
 2 Become Immense
 2 Monastery Swiftspear
@@ -56,16 +56,18 @@
 4 Mutagenic Growth
 4 Monastery Swiftspear
 1 Tireless Tracker
+1 Rancor
+2 Rancor
 1 Domri, Anarch of Bolas
 2 Gruul Spellbreaker
+1 Snow-Covered Mountain
+1 Snow-Covered Forest
 1 Lightning Helix
 2 Lightning Helix
 1 Ajani, the Greathearted
 2 Tireless Tracker
-1 Rancor
 1 Kytheon, Hero of Akros
 2 Kytheon, Hero of Akros
-2 Rancor
 2 Sunbaked Canyon
 2 Mountain
 3 Sacred Foundry
@@ -74,9 +76,19 @@
 1 Thalia, Guardian of Thraben
 2 Thalia, Guardian of Thraben
 4 Reckless Bushwhacker
+1 Dryad Arbor
+1 Vexing Devil
+1 Experiment One
+1 Simian Spirit Guide
+2 Experiment One
+2 Vexing Devil
+2 Simian Spirit Guide
+3 Experiment One
+3 Rancor
+4 Experiment One
 1 Ghost Quarter
-1 Aven Mindcensor
 1 Domri, Chaos Bringer
+1 Aven Mindcensor
 1 Huntmaster of the Fells
 1 Vivien, Champion of the Wilds
 1 Ruination Rioter
@@ -89,6 +101,21 @@
 2 Bloodstained Mire
 3 Bloodstained Mire
 4 Bloodstained Mire
+1 Treetop Village
+1 Elspeth, Knight-Errant
+1 Stoneforge Mystic
+1 Batterskull
+1 Sword of Light and Shadow
+1 Sword of Feast and Famine
+1 Snow-Covered Plains
+1 Slayers' Stronghold
+2 Stoneforge Mystic
+2 Snow-Covered Forest
+3 Stoneforge Mystic
+3 Voice of Resurgence
+3 Qasali Pridemage
+3 Gruul Spellbreaker
+4 Gruul Spellbreaker
 1 Renegade Rallier
 1 Courser of Kruphix
 1 Plated Geopede
@@ -107,20 +134,3 @@
 4 Lightning Helix
 4 Steppe Lynx
 4 Renegade Rallier
-1 Snow-Covered Mountain
-1 Treetop Village
-1 Snow-Covered Forest
-1 Elspeth, Knight-Errant
-1 Stoneforge Mystic
-1 Batterskull
-1 Sword of Light and Shadow
-1 Sword of Feast and Famine
-1 Snow-Covered Plains
-1 Slayers' Stronghold
-2 Stoneforge Mystic
-2 Snow-Covered Forest
-3 Stoneforge Mystic
-3 Voice of Resurgence
-3 Qasali Pridemage
-3 Gruul Spellbreaker
-4 Gruul Spellbreaker
