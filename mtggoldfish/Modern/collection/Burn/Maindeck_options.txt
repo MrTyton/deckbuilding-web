@@ -39,20 +39,20 @@
 2 Soul-Scar Mage
 3 Soul-Scar Mage
 4 Soul-Scar Mage
-1 Bedlam Reveler
-1 Crash Through
-1 Lava Dart
 1 Manamorphose
-2 Bedlam Reveler
-2 Lava Dart
-2 Manamorphose
+1 Lava Dart
+1 Crash Through
+1 Bedlam Reveler
 2 Crash Through
-3 Manamorphose
-3 Crash Through
+2 Manamorphose
+2 Lava Dart
+2 Bedlam Reveler
 3 Lava Dart
-4 Snow-Covered Mountain
-4 Manamorphose
+3 Crash Through
+3 Manamorphose
 4 Crash Through
+4 Manamorphose
+4 Snow-Covered Mountain
 5 Snow-Covered Mountain
 6 Snow-Covered Mountain
 7 Snow-Covered Mountain
@@ -94,6 +94,11 @@
 1 Stomping Ground
 1 Abbot of Keral Keep
 2 Abbot of Keral Keep
+1 Kiln Fiend
+1 Reckless Charge
+2 Kiln Fiend
+2 Reckless Charge
+3 Kiln Fiend
 1 Risk Factor
 3 Runaway Steam-Kin
 1 Blistercoil Weird
@@ -102,20 +107,15 @@
 2 Blistercoil Weird
 2 Mutagenic Growth
 3 Mutagenic Growth
-1 Kiln Fiend
-1 Reckless Charge
-2 Reckless Charge
-2 Kiln Fiend
-3 Kiln Fiend
+1 Bonecrusher Giant
+2 Bonecrusher Giant
+3 Bonecrusher Giant
+4 Bonecrusher Giant
 3 Grim Lavamancer
 4 Grim Lavamancer
 1 Molten Rain
 2 Molten Rain
 3 Molten Rain
 4 Skullcrack
-1 Bonecrusher Giant
-2 Bonecrusher Giant
-3 Bonecrusher Giant
-4 Bonecrusher Giant
 4 Arid Mesa
 4 Sacred Foundry

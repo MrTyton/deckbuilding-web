@@ -1,16 +1,16 @@
+1 Cavern of Souls
 1 Omnath, Locus of the Roil
 1 Smokebraider
-1 Unclaimed Territory
 1 Aether Vial
 1 Simian Spirit Guide
 1 Flamekin Harbinger
 1 Thunderkin Awakener
+1 Unclaimed Territory
 1 Fiery Islet
-1 Fulminator Mage
 1 Sunbaked Canyon
 2 Fiery Islet
-2 Aether Vial
 2 Thunderkin Awakener
+2 Aether Vial
 2 Risen Reef
 2 Vesperlark
 2 Unclaimed Territory
@@ -39,7 +39,6 @@
 1 Lightning Helix
 1 Oko, Thief of Crowns
 1 Assassin's Trophy
-1 The Royal Scions
 1 Teferi, Time Raveler
 1 Wrenn and Six
 1 Niv-Mizzet Reborn
@@ -48,20 +47,21 @@
 1 Snow-Covered Island
 1 Pillar of the Paruns
 1 Bring to Light
+1 The Royal Scions
 1 Snow-Covered Swamp
+2 Prismatic Vista
 2 Assassin's Trophy
 2 Wrenn and Six
 2 Bring to Light
 2 Arcum's Astrolabe
 2 Pillar of the Paruns
-2 Prismatic Vista
 2 Niv-Mizzet Reborn
 2 Lightning Helix
 3 Pillar of the Paruns
 3 Arcum's Astrolabe
 3 Niv-Mizzet Reborn
-4 Pillar of the Paruns
 4 Arcum's Astrolabe
+4 Pillar of the Paruns
 1 Magus of the Moon
 1 Collector Ouphe
 1 Kor Firewalker
@@ -72,8 +72,8 @@
 1 Creeping Trailblazer
 1 Copperline Gorge
 1 Voice of Resurgence
-1 Incandescent Soulstoke
 1 Flickerwisp
+1 Incandescent Soulstoke
 1 Primal Beyond
 1 Healer of the Glade
 2 Smokebraider
@@ -98,12 +98,12 @@
 1 Mountain
 1 Insolent Neonate
 2 Phantasmal Image
-2 Lightning Skelemental
 2 Ancient Ziggurat
 2 Insolent Neonate
 2 Spirebluff Canal
 2 Unsettled Mariner
 2 Mountain
+2 Lightning Skelemental
 3 Phantasmal Image
 3 Insolent Neonate
 3 Ancient Ziggurat
@@ -113,31 +113,6 @@
 4 Insolent Neonate
 4 Unclaimed Territory
 4 Lightning Skelemental
-1 Glittering Wish
-2 Glittering Wish
-3 Glittering Wish
-1 Godless Shrine
-1 Mox Amber
-1 Kaya's Guile
-1 Utopia Sprawl
-1 Drown in the Loch
-1 Watery Grave
-1 Knight of Autumn
-1 Blood Crypt
-1 Verdant Catacombs
-1 Supreme Verdict
-2 Verdant Catacombs
-2 Teferi, Time Raveler
-2 Utopia Sprawl
-3 Wrenn and Six
-3 Verdant Catacombs
-3 Assassin's Trophy
-3 Bring to Light
-3 Utopia Sprawl
-4 Wrenn and Six
-4 Verdant Catacombs
-4 Utopia Sprawl
-4 Bring to Light
 1 Sacred Foundry
 1 Safewright Quest
 1 Wooded Foothills
@@ -156,21 +131,46 @@
 3 Lightning Helix
 3 Faeburrow Elder
 4 Tidehollow Sculler
+4 Prismatic Vista
 4 Lightning Helix
 4 Faeburrow Elder
-4 Prismatic Vista
+1 Glittering Wish
+2 Glittering Wish
+3 Glittering Wish
+1 Godless Shrine
+1 Mox Amber
+1 Kaya's Guile
+1 Drown in the Loch
+1 Watery Grave
+1 Utopia Sprawl
+1 Knight of Autumn
+1 Blood Crypt
+1 Verdant Catacombs
+1 Supreme Verdict
+2 Verdant Catacombs
+2 Teferi, Time Raveler
+2 Utopia Sprawl
+3 Wrenn and Six
+3 Verdant Catacombs
+3 Assassin's Trophy
+3 Bring to Light
+3 Utopia Sprawl
+4 Wrenn and Six
+4 Verdant Catacombs
+4 Utopia Sprawl
+4 Bring to Light
 1 Fatestitcher
 1 Grove of the Burnwillows
 1 Island
-1 Peek
 1 Mana Confluence
 1 Serum Visions
 1 Sylvan Caryatid
 1 Flooded Strand
-1 Opt
 1 Jeskai Ascendancy
 1 Steam Vents
+1 Peek
 1 Gut Shot
+1 Opt
 1 Sleight of Hand
 1 Lightning Bolt
 1 Light Up the Stage
@@ -200,8 +200,8 @@
 3 Jeskai Ascendancy
 4 Sleight of Hand
 4 Gut Shot
-4 Glittering Wish
 4 Serum Visions
+4 Glittering Wish
 4 Cerulean Wisps
 4 Mana Confluence
 4 Flooded Strand
