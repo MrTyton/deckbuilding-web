@@ -30,12 +30,12 @@
 
 |*n*<sup>th</sup> copy|                                       Maindeck Card                                        |*n*<sup>th</sup> copy|                                      Sideboard Card                                       |
 |--------------------:|--------------------------------------------------------------------------------------------|--------------------:|-------------------------------------------------------------------------------------------|
-|                    1|[Verdant Catacombs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405113)|                    4|[Rotting Regisaur](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466865)|
-|                    2|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)            |                    3|[Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)    |
+|                    1|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)            |                    4|[Rotting Regisaur](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466865)|
+|                    1|[Verdant Catacombs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405113)|                    3|[Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)    |
+|                    2|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)            |                     |                                                                                           |
 |                    2|[Verdant Catacombs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405113)|                     |                                                                                           |
 |                    3|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)            |                     |                                                                                           |
 |                    3|[Verdant Catacombs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405113)|                     |                                                                                           |
-|                    3|[Cryptbreaker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414381)     |                     |                                                                                           |
 |                    4|[Verdant Catacombs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405113)|                     |                                                                                           |
-|                    1|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)            |                     |                                                                                           |
+|                    3|[Cryptbreaker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414381)     |                     |                                                                                           |
 

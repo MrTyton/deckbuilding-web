@@ -1,7 +1,6 @@
 4 Mox Opal
 2 Steam Vents
 1 Celestial Colonnade
-1 Field of Ruin
 1 Spreading Seas
 1 Dovin's Veto
 1 Lightning Helix
@@ -11,6 +10,7 @@
 1 Spell Snare
 1 Saheeli Rai
 1 Lightning Bolt
+1 Field of Ruin
 1 Spell Queller
 1 Sacred Foundry
 1 Snapcaster Mage
@@ -43,11 +43,12 @@
 4 Saheeli Rai
 4 Felidar Guardian
 4 Snapcaster Mage
-1 Blast Zone
 1 Spirebluff Canal
 1 Fiery Islet
 1 Jace, the Mind Sculptor
+1 Fae of Wishes
 1 Ancestral Vision
+1 Blast Zone
 1 Island
 1 Gemstone Caverns
 1 As Foretold
@@ -60,8 +61,8 @@
 1 Greater Gargadon
 1 Chalice of the Void
 1 Tolaria West
-1 Fae of Wishes
 2 Jace, the Mind Sculptor
+2 Fae of Wishes
 2 Ancestral Vision
 2 Electrodominance
 2 As Foretold
@@ -75,10 +76,9 @@
 2 Chalice of the Void
 2 Mountain
 2 Tolaria West
-2 Fae of Wishes
 3 Ancestral Vision
-3 Tolaria West
 3 Fae of Wishes
+3 Tolaria West
 3 Fires of Invention
 3 Chalice of the Void
 3 Spirebluff Canal

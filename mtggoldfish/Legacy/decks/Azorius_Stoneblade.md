@@ -78,6 +78,6 @@
 |                    2|[Monastery Mentor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391883)         |                    1|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)      |
 |                    3|[Monastery Mentor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391883)         |                    2|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)      |
 |                    4|[Narset, Parter of Veils](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460988)  |                    3|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)      |
-|                    8|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)                   |                    4|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)      |
-|                    7|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)                   |                     |                                                                                                    |
+|                    7|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)                   |                    4|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)      |
+|                    8|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)                   |                     |                                                                                                    |
 

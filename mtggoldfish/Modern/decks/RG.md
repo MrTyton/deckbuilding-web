@@ -32,6 +32,6 @@
 
 |*n*<sup>th</sup> copy|                                       Maindeck Card                                       |*n*<sup>th</sup> copy|Sideboard Card|
 |--------------------:|-------------------------------------------------------------------------------------------|---------------------|--------------|
-|                    1|[Wooded Foothills](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405116)|                     |              |
 |                    2|[Wooded Foothills](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405116)|                     |              |
+|                    1|[Wooded Foothills](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405116)|                     |              |
 

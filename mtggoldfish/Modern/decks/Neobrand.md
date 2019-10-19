@@ -1,7 +1,7 @@
 # Neobrand
 
 #### [Export MTGO List](../collection/Neobrand/Neobrand.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Allosaurus%20Rider%0A2%09Autochthon%20Wurm%0A4%09Botanical%20Sanctum%0A4%09Chancellor%20of%20the%20Tangle%0A1%09Edge%20of%20Autumn%0A4%09Eldritch%20Evolution%0A4%09Gemstone%20Mine%0A2%09Griselbrand%0A1%09Island%0A1%09Laboratory%20Maniac%0A2%09Life%20Goes%20On%0A4%09Manamorphose%0A4%09Neoform%0A4%09Nourishing%20Shoal%0A1%09Noxious%20Revival%0A1%09Pact%20of%20Negation%0A4%09Serum%20Visions%0A4%09Simian%20Spirit%20Guide%0A4%09Summoner's%20Pact%0A4%09Waterlogged%20Grove%0A1%09Wild%20Cantor&deckside=3%09Leyline%20of%20Sanctity%0A3%09Oxidize%0A3%09Pact%20of%20Negation%0A3%09Slaughter%20Pact%0A1%09Spell%20Pierce%0A2%09Veil%20of%20Summer)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Allosaurus%20Rider%0A2%09Autochthon%20Wurm%0A4%09Botanical%20Sanctum%0A4%09Chancellor%20of%20the%20Tangle%0A1%09Edge%20of%20Autumn%0A4%09Eldritch%20Evolution%0A4%09Gemstone%20Mine%0A2%09Griselbrand%0A1%09Island%0A1%09Laboratory%20Maniac%0A2%09Life%20Goes%20On%0A4%09Manamorphose%0A4%09Neoform%0A4%09Nourishing%20Shoal%0A1%09Noxious%20Revival%0A1%09Pact%20of%20Negation%0A4%09Serum%20Visions%0A4%09Simian%20Spirit%20Guide%0A4%09Summoner's%20Pact%0A4%09Waterlogged%20Grove%0A1%09Wild%20Cantor&deckside=4%09Leyline%20of%20Sanctity%0A3%09Oxidize%0A3%09Pact%20of%20Negation%0A3%09Slaughter%20Pact%0A2%09Veil%20of%20Summer)
 # Maindeck
 
 |                                            Creature (18)                                            |                                        Instant (16)                                         |                                          Land (13)                                           |                                         Sorcery (13)                                          |
@@ -17,12 +17,11 @@
 
 # Sideboard
 
-|                                        Enchantment (3)                                         |                                        Instant (12)                                         |
+|                                        Enchantment (4)                                         |                                        Instant (11)                                         |
 |------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|
-|3 [Leyline of Sanctity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=204993)|3 [Oxidize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=46012)          |
+|4 [Leyline of Sanctity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=204993)|3 [Oxidize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=46012)          |
 |                                                                                                |3 [Pact of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442057)|
 |                                                                                                |3 [Slaughter Pact](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=130704)  |
-|                                                                                                |1 [Spell Pierce](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425876)    |
 |                                                                                                |2 [Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)  |
 
 
@@ -30,21 +29,21 @@
 
 |*n*<sup>th</sup> copy|                                          Maindeck Card                                           |*n*<sup>th</sup> copy|                                        Sideboard Card                                         |
 |--------------------:|--------------------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------------|
-|                    1|[Breeding Pool](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=97088)           |                    4|[Leyline of Sanctity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=204993) |
-|                    2|[Breeding Pool](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=97088)           |                    4|[Oxidize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=46012)              |
+|                    1|[Breeding Pool](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=97088)           |                    4|[Oxidize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=46012)              |
+|                    2|[Breeding Pool](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=97088)           |                    1|[Spell Pierce](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425876)        |
 |                    1|[Dissenter's Deliverance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426866)|                    1|[Engineered Explosives](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=50139)|
-|                    1|[Tranquil Thicket](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220494)       |                    3|[Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)      |
-|                    1|[Street Wraith](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442097)          |                    1|[Nature's Claim](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382316)      |
-|                    1|[Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)         |                    2|[Nature's Claim](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382316)      |
+|                    1|[Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)         |                    1|[Nature's Claim](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382316)      |
+|                    1|[Street Wraith](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442097)          |                    2|[Nature's Claim](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382316)      |
 |                    1|[Safewright Quest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=142038)       |                    3|[Nature's Claim](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382316)      |
+|                    1|[Tranquil Thicket](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220494)       |                    3|[Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)      |
 |                    1|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)                 |                    4|[Pact of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442057)    |
-|                    1|[Angel's Grace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370545)          |                    4|[Nature's Claim](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382316)      |
-|                    1|[Once Upon a Time](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473131)       |                    1|[Hope of Ghirapur](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423821)    |
-|                    2|[Once Upon a Time](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473131)       |                    1|[Life Goes On](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430810)        |
-|                    3|[Once Upon a Time](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473131)       |                    1|[Remand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=380255)              |
-|                    4|[Once Upon a Time](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473131)       |                    2|[Hope of Ghirapur](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423821)    |
-|                    1|[Yavimaya Coast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129810)         |                    1|[Voracious Wurm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370814)      |
-|                    2|[Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)         |                    2|[Voracious Wurm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370814)      |
+|                    1|[Once Upon a Time](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473131)       |                    4|[Nature's Claim](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382316)      |
+|                    2|[Once Upon a Time](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473131)       |                    1|[Hope of Ghirapur](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423821)    |
+|                    3|[Once Upon a Time](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473131)       |                    1|[Life Goes On](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430810)        |
+|                    4|[Once Upon a Time](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473131)       |                    1|[Remand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=380255)              |
+|                    1|[Angel's Grace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370545)          |                    2|[Hope of Ghirapur](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423821)    |
+|                    2|[Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)         |                    1|[Voracious Wurm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370814)      |
+|                    1|[Yavimaya Coast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129810)         |                    2|[Voracious Wurm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370814)      |
 |                    2|[Dissenter's Deliverance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426866)|                    1|[Birds of Paradise](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129906)   |
 |                    2|[Yavimaya Coast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129810)         |                    1|[Autumn's Veil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205051)       |
 |                    2|[Pact of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442057)       |                    2|[Autumn's Veil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205051)       |

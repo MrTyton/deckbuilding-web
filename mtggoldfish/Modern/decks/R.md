@@ -28,8 +28,8 @@
 
 |*n*<sup>th</sup> copy|                                        Maindeck Card                                         |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
 |--------------------:|----------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
-|                    1|[Fiery Islet](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464187)        |                    1|[Damping Matrix](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426043)     |
-|                    1|[Sunbaked Canyon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464196)    |                    1|[Boil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14630)                |
+|                    1|[Fiery Islet](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464187)        |                    1|[Boil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14630)                |
+|                    1|[Sunbaked Canyon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464196)    |                    1|[Damping Matrix](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426043)     |
 |                    1|[Burst Lightning](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397662)    |                    1|[Ensnaring Bridge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=15866)    |
 |                    1|[Lightning Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=806)        |                    1|[Torpor Orb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=233069)         |
 |                    1|[Rampaging Ferocidon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435308)|                    1|[Hazoret the Fervent](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426838)|

@@ -23,36 +23,36 @@
 1 Overgrown Tomb
 1 Marsh Flats
 1 Gravecrawler
-1 Stitcher's Supplier
-1 Carrion Feeder
 1 Swamp
 1 Watery Grave
 1 Glimpse the Unthinkable
 1 Hedron Crab
+1 Stitcher's Supplier
 1 Vengevine
+1 Carrion Feeder
 1 Polluted Delta
 2 Marsh Flats
 2 Overgrown Tomb
 2 Swamp
-2 Carrion Feeder
 2 Gravecrawler
-2 Stitcher's Supplier
+2 Carrion Feeder
 2 Vengevine
 2 Watery Grave
+2 Stitcher's Supplier
 2 Hedron Crab
 2 Glimpse the Unthinkable
 2 Polluted Delta
 3 Marsh Flats
-3 Carrion Feeder
-3 Stitcher's Supplier
 3 Gravecrawler
 3 Hedron Crab
 3 Polluted Delta
 3 Vengevine
+3 Carrion Feeder
 3 Glimpse the Unthinkable
-4 Stitcher's Supplier
+3 Stitcher's Supplier
 4 Gravecrawler
 4 Hedron Crab
+4 Stitcher's Supplier
 4 Glimpse the Unthinkable
 4 Vengevine
 1 Once Upon a Time
@@ -70,6 +70,10 @@
 4 Marsh Flats
 4 Merfolk Secretkeeper
 4 Insolent Neonate
+1 Crippling Chill
+2 Crippling Chill
+3 Crippling Chill
+4 Crippling Chill
 1 Verdant Catacombs
 1 Memory Sluice
 2 Verdant Catacombs
@@ -78,9 +82,5 @@
 3 Watery Grave
 3 Memory Sluice
 4 Memory Sluice
-4 Carrion Feeder
 4 Polluted Delta
-1 Crippling Chill
-2 Crippling Chill
-3 Crippling Chill
-4 Crippling Chill
+4 Carrion Feeder

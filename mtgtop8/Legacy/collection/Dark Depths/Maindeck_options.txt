@@ -1,18 +1,24 @@
 2 Dark Confidant
 1 Snow-Covered Swamp
 1 Ghost Quarter
-1 Dryad Arbor
-2 Sylvan Safekeeper
+3 Sylvan Scrying
 3 Dark Confidant
-1 Wooded Foothills
-3 Wasteland
+2 Sylvan Safekeeper
+1 Dryad Arbor
+1 Inquisition of Kozilek
+1 Pithing Needle
+2 Pithing Needle
+1 Tropical Island
+1 Misty Rainforest
+2 Misty Rainforest
+3 Misty Rainforest
+1 Giver of Runes
 1 Knight of the Reliquary
 1 Windswept Heath
-1 Knight of Autumn
 1 Savannah
-1 Giver of Runes
 1 Gaddock Teeg
 1 Green Sun's Zenith
+1 Knight of Autumn
 2 Giver of Runes
 2 Windswept Heath
 2 Green Sun's Zenith
@@ -24,13 +30,17 @@
 4 Knight of the Reliquary
 4 Windswept Heath
 4 Green Sun's Zenith
-3 Sylvan Scrying
-1 Pithing Needle
-2 Pithing Needle
 1 Tarmogoyf
 2 Tarmogoyf
 3 Tarmogoyf
 4 Dark Confidant
+1 Stifle
+1 Brainstorm
+1 Underground Sea
+1 Gemstone Mine
+2 Inquisition of Kozilek
+2 Brainstorm
+3 Brainstorm
 1 Elvish Spirit Guide
 1 Lotus Petal
 2 Elvish Spirit Guide
@@ -41,23 +51,14 @@
 4 Duress
 4 Lotus Petal
 1 Ramunap Excavator
-1 Scavenging Ooze
+3 Wasteland
 1 Ancient Tomb
 1 Plains
-1 Inquisition of Kozilek
-1 Tropical Island
-1 Misty Rainforest
-2 Misty Rainforest
-3 Misty Rainforest
-1 Stifle
-1 Brainstorm
-1 Underground Sea
-1 Gemstone Mine
+1 Wooded Foothills
+1 Scavenging Ooze
+1 Assassin's Trophy
 1 Polluted Delta
-2 Inquisition of Kozilek
-2 Brainstorm
 2 Polluted Delta
-3 Brainstorm
 4 Brainstorm
 4 Elvish Spirit Guide
 4 Sylvan Scrying
@@ -71,32 +72,6 @@
 2 Savannah
 2 Forest
 2 Wooded Foothills
-1 Wrenn and Six
-2 Wrenn and Six
-3 Wrenn and Six
-1 Assassin's Trophy
-2 Snow-Covered Forest
-1 Hymn to Tourach
-1 Diabolic Edict
-1 Veil of Summer
-1 Prismatic Vista
-1 Arcum's Astrolabe
-1 Boseiju, Who Shelters All
-1 Dead of Winter
-1 Hissing Quagmire
-2 Hymn to Tourach
-2 Assassin's Trophy
-2 Snow-Covered Swamp
-2 Prismatic Vista
-2 Arcum's Astrolabe
-2 Dead of Winter
-2 Diabolic Edict
-3 Hymn to Tourach
-3 Snow-Covered Forest
-3 Prismatic Vista
-3 Arcum's Astrolabe
-3 Snow-Covered Swamp
-4 Prismatic Vista
 1 Blast Zone
 1 Life from the Loam
 1 Expedition Map
@@ -105,13 +80,17 @@
 1 Flagstones of Trokair
 1 Riftstone Portal
 1 Horizon Canopy
+2 Snow-Covered Forest
 1 Tundra
 2 Path to Exile
 3 Path to Exile
 1 Plateau
 1 Taiga
+1 Wrenn and Six
 1 Lightning Bolt
+2 Wrenn and Six
 2 Lightning Bolt
+3 Wrenn and Six
 3 Lightning Bolt
 3 Sylvan Safekeeper
 3 Polluted Delta
@@ -124,13 +103,6 @@
 4 Tarmogoyf
 3 Once Upon a Time
 4 Once Upon a Time
-1 Badlands
-1 Collective Brutality
-1 Hexdrinker
-2 Badlands
-2 Hexdrinker
-3 Hexdrinker
-4 Wasteland
 1 Satyr Wayfinder
 1 Hogaak, Arisen Necropolis
 2 Hogaak, Arisen Necropolis
