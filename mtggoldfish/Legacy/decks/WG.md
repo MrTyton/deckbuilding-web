@@ -32,7 +32,30 @@
 
 # Other Options
 
-|*n*<sup>th</sup> copy|                                      Maindeck Card                                       |*n*<sup>th</sup> copy|Sideboard Card|
-|--------------------:|------------------------------------------------------------------------------------------|---------------------|--------------|
-|                    1|[Vampire Hexmage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389735)|                     |              |
+|*n*<sup>th</sup> copy|                                           Maindeck Card                                           |*n*<sup>th</sup> copy|                                      Sideboard Card                                      |
+|--------------------:|---------------------------------------------------------------------------------------------------|--------------------:|------------------------------------------------------------------------------------------|
+|                    1|[Knight of Autumn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452933)        |                    1|[Faerie Macabre](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=201822) |
+|                    1|[Tireless Tracker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409997)        |                    1|[Collector Ouphe](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464107)|
+|                    1|[Mother of Runes](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430236)         |                    1|[Choke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45431)           |
+|                    1|[Noble Hierarch](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=179434)          |                    2|[Choke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45431)           |
+|                    2|[Noble Hierarch](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=179434)          |                    1|[Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952) |
+|                    3|[Noble Hierarch](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=179434)          |                    2|[Faerie Macabre](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=201822) |
+|                    1|[Vampire Hexmage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389735)         |                    2|[Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952) |
+|                    1|[Sword of Light and Shadow](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=47453)|                    3|[Faerie Macabre](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=201822) |
+|                    1|[Blast Zone](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461171)              |                    4|[Faerie Macabre](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=201822) |
+|                    1|[Questing Beast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473133)          |                    1|[Sanctum Prelate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416780)|
+|                    1|[Paradise Druid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461098)          |                    1|[Pithing Needle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129526) |
+|                    1|[Birds of Paradise](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129906)       |                    1|[Palace Jailer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416775)  |
+|                    2|[Misty Rainforest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405102)        |                    1|[Maze of Ith](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=1824)      |
+|                    2|[Verdant Catacombs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405113)       |                     |                                                                                          |
+|                    1|[Wooded Foothills](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405116)        |                     |                                                                                          |
+|                    1|[Shifting Ceratops](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466948)       |                     |                                                                                          |
+|                    1|[Ghost Quarter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389534)           |                     |                                                                                          |
+|                    1|[Marsh Flats](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405101)             |                     |                                                                                          |
+|                    2|[Marsh Flats](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405101)             |                     |                                                                                          |
+|                    2|[Mother of Runes](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430236)         |                     |                                                                                          |
+|                    2|[Wooded Foothills](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405116)        |                     |                                                                                          |
+|                    3|[Stoneforge Mystic](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=198383)       |                     |                                                                                          |
+|                    4|[Noble Hierarch](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=179434)          |                     |                                                                                          |
+|                    3|[Mother of Runes](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430236)         |                     |                                                                                          |
 

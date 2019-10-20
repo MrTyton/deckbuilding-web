@@ -27,3 +27,17 @@
 |                                                                                           |                                                                                               |                                                                                                |1 [Hydroblast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3915)         |                                                                                                     |
 |                                                                                           |                                                                                               |                                                                                                |3 [Swords to Plowshares](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=869)|                                                                                                     |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                      Maindeck Card                                      |*n*<sup>th</sup> copy|                                          Sideboard Card                                          |
+|--------------------:|-----------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------------|
+|                    1|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)        |                    1|[Narset, Parter of Veils](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460988)|
+|                    2|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)        |                    1|[Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452)      |
+|                    2|[Polluted Delta](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405104)|                    1|[Blue Elemental Blast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=694)      |
+|                    3|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)        |                    2|[Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452)      |
+|                    3|[Polluted Delta](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405104)|                    4|[Leyline of Sanctity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=204993)    |
+|                    3|[Tundra](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=885)           |                    3|[Leyline of Sanctity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=204993)    |
+|                    4|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)        |                     |                                                                                                  |
+|                    4|[Polluted Delta](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405104)|                     |                                                                                                  |
+
