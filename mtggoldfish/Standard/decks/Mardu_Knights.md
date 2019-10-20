@@ -25,26 +25,3 @@
 |                                                                                             |                                                                                          |                                                                                                      |4 [Specter's Shriek](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473068)|
 |                                                                                             |                                                                                          |                                                                                                      |2 [Tectonic Rift](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=234568)   |
 
-
-# Other Options
-
-|*n*<sup>th</sup> copy|                                       Maindeck Card                                       |*n*<sup>th</sup> copy|                                       Sideboard Card                                       |
-|--------------------:|-------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------|
-|                    1|[Rotting Regisaur](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466865)|                    1|[Chance for Glory](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452909) |
-|                    1|[Steelclaw Lance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473164) |                    1|[Angrath's Rampage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461112)|
-|                    1|[Rimrock Knight](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473099)  |                    2|[Legion's End](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466860)     |
-|                    2|[Rotting Regisaur](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466865)|                    2|[Chance for Glory](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452909) |
-|                    2|[Rimrock Knight](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473099)  |                    2|[Angrath's Rampage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461112)|
-|                    2|[Steelclaw Lance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473164) |                    3|[Legion's End](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466860)     |
-|                    3|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)           |                    3|[Angrath's Rampage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461112)|
-|                    3|[Rimrock Knight](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473099)  |                    3|[Chance for Glory](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452909) |
-|                    3|[Steelclaw Lance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473164) |                    4|[Noxious Grasp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466864)    |
-|                    3|[Rotting Regisaur](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466865)|                    4|[Angrath's Rampage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461112)|
-|                    3|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)        |                    4|[Legion's End](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466860)     |
-|                    4|[Steelclaw Lance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473164) |                     |                                                                                            |
-|                    4|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)        |                     |                                                                                            |
-|                    4|[Rotting Regisaur](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466865)|                     |                                                                                            |
-|                    4|[Rimrock Knight](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473099)  |                     |                                                                                            |
-|                    4|[Embercleave](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473082)     |                     |                                                                                            |
-|                    5|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)        |                     |                                                                                            |
-

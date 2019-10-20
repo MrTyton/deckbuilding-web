@@ -148,6 +148,6 @@
 |                    2|[Molten Rain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425928)          |                     |                                                                                                     |
 |                    3|[Molten Rain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425928)          |                     |                                                                                                     |
 |                    4|[Skullcrack](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=366238)           |                     |                                                                                                     |
-|                    4|[Arid Mesa](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405092)            |                     |                                                                                                     |
 |                    4|[Sacred Foundry](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405106)       |                     |                                                                                                     |
+|                    4|[Arid Mesa](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405092)            |                     |                                                                                                     |
 

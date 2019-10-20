@@ -30,8 +30,8 @@
 
 |*n*<sup>th</sup> copy|                                        Maindeck Card                                        |*n*<sup>th</sup> copy|                                          Sideboard Card                                           |
 |--------------------:|---------------------------------------------------------------------------------------------|--------------------:|---------------------------------------------------------------------------------------------------|
-|                    2|[Summoner's Pact](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442178)   |                    1|[Beast Within](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446158)            |
-|                    1|[Misty Rainforest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405102)  |                    1|[Boseiju, Who Shelters All](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=75305)|
+|                    2|[Summoner's Pact](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442178)   |                    1|[Boseiju, Who Shelters All](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=75305)|
+|                    1|[Misty Rainforest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405102)  |                    1|[Beast Within](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446158)            |
 |                    1|[Verdant Catacombs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405113) |                    2|[Beast Within](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446158)            |
 |                    1|[Eternal Witness](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=51628)    |                    3|[Beast Within](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446158)            |
 |                    1|[Primal Command](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220571)    |                    1|[Dismember](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382182)               |

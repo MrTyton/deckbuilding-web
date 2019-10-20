@@ -98,6 +98,7 @@
 |                    1|[Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)         |                     |                                                                                                  |
 |                    2|[Fatal Push](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423724)             |                     |                                                                                                  |
 |                    2|[Teferi, Time Raveler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461148)   |                     |                                                                                                  |
+|                    4|[Everflowing Chalice](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220534)    |                     |                                                                                                  |
 |                    3|[Sai, Master Thopterist](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447205) |                     |                                                                                                  |
 |                    4|[Witching Well](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473036)          |                     |                                                                                                  |
 |                    1|[Chromatic Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=23230)        |                     |                                                                                                  |
@@ -122,5 +123,4 @@
 |                    3|[Ice-Fang Coatl](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464152)         |                     |                                                                                                  |
 |                    4|[Ice-Fang Coatl](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464152)         |                     |                                                                                                  |
 |                    4|[Karn, the Great Creator](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460928)|                     |                                                                                                  |
-|                    4|[Everflowing Chalice](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220534)    |                     |                                                                                                  |
 

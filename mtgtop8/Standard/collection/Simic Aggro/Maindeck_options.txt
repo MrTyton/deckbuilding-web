@@ -1,11 +1,11 @@
 4 Disdainful Stroke
-1 Castle Vantress
 1 Voracious Hydra
+1 Castle Vantress
 1 Brazen Borrower
-2 Castle Vantress
 2 Voracious Hydra
 2 Brazen Borrower
 3 Brazen Borrower
+2 Castle Vantress
 12 Forest
 1 Vivien, Arkbow Ranger
 1 Agent of Treachery
@@ -35,12 +35,12 @@
 1 Nightpack Ambusher
 2 Wildborn Preserver
 2 Quench
-2 Frilled Mystic
 2 Brineborn Cutthroat
 2 Nightpack Ambusher
 2 Opt
 2 Sinister Sabotage
 2 Spectral Sailor
+2 Frilled Mystic
 3 Nightpack Ambusher
 3 Brineborn Cutthroat
 3 Sinister Sabotage
@@ -49,8 +49,6 @@
 4 Sinister Sabotage
 4 Frilled Mystic
 4 Brineborn Cutthroat
-1 Leafkin Druid
-2 Leafkin Druid
 1 The Great Henge
 2 Fabled Passage
 3 Fabled Passage
@@ -59,6 +57,8 @@
 2 Mystical Dispute
 3 Spectral Sailor
 3 Opt
+1 Leafkin Druid
+2 Leafkin Druid
 3 Incubation Druid
 1 Essence Capture
 2 Essence Capture
@@ -108,30 +108,6 @@
 4 Fabled Passage
 4 Edgewall Innkeeper
 4 Vantress Gargoyle
-1 Cavalier of Gales
-1 Risen Reef
-1 Blast Zone
-1 Quasiduplicate
-1 Cavalier of Thorns
-1 Gingerbread Cabin
-1 Feasting Troll King
-2 Cavalier of Gales
-2 Risen Reef
-2 Cavalier of Thorns
-2 Quasiduplicate
-2 Agent of Treachery
-2 Feasting Troll King
-2 Gingerbread Cabin
-3 Risen Reef
-3 Quasiduplicate
-3 Cavalier of Thorns
-3 Leafkin Druid
-3 Gingerbread Cabin
-4 Leafkin Druid
-4 Risen Reef
-4 Cavalier of Thorns
-4 Gingerbread Cabin
-4 Quasiduplicate
 1 Mass Manipulation
 7 Island
 13 Forest
