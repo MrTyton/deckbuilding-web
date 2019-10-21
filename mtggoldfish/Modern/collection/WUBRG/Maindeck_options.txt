@@ -1,11 +1,11 @@
 1 Cavern of Souls
 1 Omnath, Locus of the Roil
 1 Smokebraider
-1 Unclaimed Territory
 1 Aether Vial
 1 Simian Spirit Guide
 1 Flamekin Harbinger
 1 Thunderkin Awakener
+1 Unclaimed Territory
 1 Fiery Islet
 1 Sunbaked Canyon
 2 Fiery Islet
@@ -35,10 +35,9 @@
 1 Snow-Covered Mountain
 1 Prismatic Vista
 1 Snow-Covered Plains
-1 Bring to Light
 1 Snow-Covered Forest
-1 Lightning Helix
 1 Oko, Thief of Crowns
+1 Lightning Helix
 1 Assassin's Trophy
 1 Teferi, Time Raveler
 1 Wrenn and Six
@@ -47,11 +46,12 @@
 1 Arcum's Astrolabe
 1 Snow-Covered Island
 1 Pillar of the Paruns
+1 Bring to Light
 1 The Royal Scions
 1 Snow-Covered Swamp
-2 Bring to Light
 2 Assassin's Trophy
 2 Wrenn and Six
+2 Bring to Light
 2 Arcum's Astrolabe
 2 Pillar of the Paruns
 2 Prismatic Vista
@@ -72,10 +72,10 @@
 1 Creeping Trailblazer
 1 Copperline Gorge
 1 Voice of Resurgence
-1 Incandescent Soulstoke
 1 Flickerwisp
-1 Healer of the Glade
+1 Incandescent Soulstoke
 1 Primal Beyond
+1 Healer of the Glade
 2 Smokebraider
 2 Copperline Gorge
 2 Shriekmaw
@@ -85,21 +85,21 @@
 3 Smokebraider
 3 Copperline Gorge
 3 Voice of Resurgence
-3 Primal Beyond
 3 Creeping Trailblazer
+3 Primal Beyond
 4 Smokebraider
 4 Copperline Gorge
 4 Primal Beyond
-1 Phantasmal Image
 1 Unsettled Mariner
 1 Lightning Skelemental
 1 Spirebluff Canal
 1 Ancient Ziggurat
 1 Mountain
+1 Phantasmal Image
 1 Insolent Neonate
+2 Ancient Ziggurat
 2 Phantasmal Image
 2 Insolent Neonate
-2 Ancient Ziggurat
 2 Spirebluff Canal
 2 Unsettled Mariner
 2 Mountain
@@ -119,9 +119,9 @@
 1 Godless Shrine
 1 Mox Amber
 1 Kaya's Guile
-1 Utopia Sprawl
-1 Watery Grave
 1 Drown in the Loch
+1 Watery Grave
+1 Utopia Sprawl
 1 Knight of Autumn
 1 Blood Crypt
 1 Verdant Catacombs
@@ -146,8 +146,8 @@
 1 Overgrown Tomb
 1 Bloodbraid Elf
 1 Faeburrow Elder
-2 Tidehollow Sculler
 2 Oko, Thief of Crowns
+2 Tidehollow Sculler
 2 Faeburrow Elder
 2 Bloodbraid Elf
 2 Safewright Quest
@@ -159,8 +159,9 @@
 4 Lightning Helix
 4 Faeburrow Elder
 4 Prismatic Vista
-1 Fatestitcher
+1 Gut Shot
 1 Grove of the Burnwillows
+1 Fatestitcher
 1 Island
 1 Mana Confluence
 1 Serum Visions
@@ -169,7 +170,6 @@
 1 Jeskai Ascendancy
 1 Steam Vents
 1 Peek
-1 Gut Shot
 1 Opt
 1 Sleight of Hand
 1 Lightning Bolt
@@ -200,8 +200,8 @@
 3 Jeskai Ascendancy
 4 Sleight of Hand
 4 Gut Shot
-4 Glittering Wish
 4 Serum Visions
+4 Glittering Wish
 4 Cerulean Wisps
 4 Mana Confluence
 4 Flooded Strand

@@ -49,7 +49,7 @@
 |                    2|[Jeskai Ascendancy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386571)       |                    3|[Battle at the Bridge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423720)|
 |                    3|[Emry, Lurker of the Loch](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473005)|                    3|[Meddling Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=179547)       |
 |                    4|[Thopter Foundry](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=183017)         |                     |                                                                                               |
-|                    4|[Prismatic Vista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464193)         |                     |                                                                                               |
 |                    4|[Witching Well](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473036)           |                     |                                                                                               |
+|                    4|[Prismatic Vista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464193)         |                     |                                                                                               |
 |                    4|[Emry, Lurker of the Loch](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473005)|                     |                                                                                               |
 

@@ -11,13 +11,13 @@
 2 Castle Vantress
 2 Benthic Biomancer
 2 Dismember
+3 Benthic Biomancer
 3 Deprive
 3 Castle Vantress
-3 Benthic Biomancer
 3 Dismember
+4 Benthic Biomancer
 4 Repeal
 4 Deprive
-4 Benthic Biomancer
 4 Dismember
 4 Castle Vantress
 1 Field of Ruin
@@ -65,37 +65,37 @@
 4 Opt
 4 Thing in the Ice
 4 Snapcaster Mage
-1 Blast Zone
-1 Karn, the Great Creator
-1 Tolaria West
-1 Solemn Simulacrum
 1 Trinket Mage
+1 Solemn Simulacrum
+1 Blast Zone
 1 Mindslaver
 1 Nimble Obstructionist
 1 Snow-Covered Island
 1 Ugin, the Spirit Dragon
-1 Wurmcoil Engine
 1 Academy Ruins
+1 Wurmcoil Engine
 1 Chalice of the Void
-1 Expedition Map
 1 Gemstone Caverns
+1 Karn, the Great Creator
 1 Thirst for Knowledge
 1 Emrakul, the Promised End
 1 Walking Ballista
 1 Urza's Tower
 1 Urza's Mine
+1 Tolaria West
 1 Remand
 1 Urza's Power Plant
+1 Expedition Map
 1 Witching Well
 1 Condescend
 1 Oblivion Stone
 2 Mindslaver
-2 Karn, the Great Creator
 2 Remand
 2 Nimble Obstructionist
-2 Urza's Mine
+2 Karn, the Great Creator
 2 Snow-Covered Island
 2 Ugin, the Spirit Dragon
+2 Urza's Mine
 2 Expedition Map
 2 Condescend
 2 Urza's Power Plant
@@ -110,9 +110,9 @@
 3 Snow-Covered Island
 3 Urza's Mine
 3 Thirst for Knowledge
-4 Remand
 4 Snow-Covered Island
 4 Expedition Map
+4 Remand
 4 Thirst for Knowledge
 4 Condescend
 4 Urza's Tower

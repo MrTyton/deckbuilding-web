@@ -1,18 +1,31 @@
-7 Forest
+3 Beanstalk Giant
+7 Swamp
+8 Forest
+1 Questing Beast
+2 Questing Beast
+3 Questing Beast
+1 Vivien, Arkbow Ranger
+2 Vivien, Arkbow Ranger
+1 Rankle, Master of Pranks
+2 Rankle, Master of Pranks
+1 The Great Henge
+4 Beanstalk Giant
 1 Bonecrusher Giant
 1 Mountain
 1 Stomping Ground
 2 Bonecrusher Giant
 3 Bonecrusher Giant
 4 Bonecrusher Giant
-4 Beanstalk Giant
 1 Midnight Reaper
 2 Midnight Reaper
-4 Smitten Swordmaster
-7 Swamp
 8 Swamp
+4 Smitten Swordmaster
 1 Blood Crypt
 2 Mountain
+1 Nissa, Who Shakes the World
+1 Paradise Druid
+2 Paradise Druid
+3 Paradise Druid
 1 Blacklance Paragon
 1 Knight of the Ebon Legion
 2 Blacklance Paragon
@@ -20,29 +33,16 @@
 3 Midnight Reaper
 3 Knight of the Ebon Legion
 4 Midnight Reaper
-8 Forest
-1 Questing Beast
-2 Questing Beast
-3 Questing Beast
-1 The Great Henge
-1 Vivien, Arkbow Ranger
-2 Vivien, Arkbow Ranger
-1 Rankle, Master of Pranks
-2 Rankle, Master of Pranks
 2 Castle Locthwain
 3 Fabled Passage
-1 Nissa, Who Shakes the World
-1 Paradise Druid
-2 Paradise Druid
-3 Paradise Druid
+3 Vivien, Arkbow Ranger
+2 Find / Finality
+2 Nissa, Who Shakes the World
 4 Fabled Passage
 3 Blacklance Paragon
 4 Blacklance Paragon
-3 Vivien, Arkbow Ranger
-2 Find / Finality
 3 Rankle, Master of Pranks
 1 Flaxen Intruder
-2 Nissa, Who Shakes the World
 4 Knight of the Ebon Legion
 9 Swamp
 1 Garruk, Cursed Huntsman
@@ -63,22 +63,22 @@
 1 Brazen Borrower
 1 Hypnotic Sprite
 1 Hydroid Krasis
-1 Oko, Thief of Crowns
 1 Island
 1 Breeding Pool
 1 Temple of Mystery
+1 Oko, Thief of Crowns
 2 Brazen Borrower
-2 Hydroid Krasis
-2 Oko, Thief of Crowns
 2 Hypnotic Sprite
+2 Hydroid Krasis
 2 Island
 2 Temple of Mystery
+2 Oko, Thief of Crowns
 2 Breeding Pool
 2 Flaxen Intruder
 3 Brazen Borrower
-3 Oko, Thief of Crowns
 3 Breeding Pool
 3 Flaxen Intruder
+3 Oko, Thief of Crowns
 3 Stomping Ground
 3 Island
 4 Brazen Borrower
@@ -122,3 +122,4 @@
 6 Plains
 7 Plains
 8 Plains
+9 Forest
