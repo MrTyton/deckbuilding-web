@@ -84,6 +84,6 @@
 |                    2|[Wooded Foothills](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405116)          |                     |                                                                                                  |
 |                    2|[Tropical Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=884)              |                     |                                                                                                  |
 |                    2|[Inquisition of Kozilek](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416897)    |                     |                                                                                                  |
-|                    4|[Inquisition of Kozilek](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416897)    |                     |                                                                                                  |
 |                    3|[Inquisition of Kozilek](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416897)    |                     |                                                                                                  |
+|                    4|[Inquisition of Kozilek](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416897)    |                     |                                                                                                  |
 

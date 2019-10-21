@@ -49,6 +49,6 @@
 |                    3|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)             |                    2|[Sunlance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=222776)              |
 |                    4|[Tectonic Edge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389711)      |                     |                                                                                                 |
 |                    4|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)             |                     |                                                                                                 |
-|                    4|[Flickerwisp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376338)        |                     |                                                                                                 |
 |                    5|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)             |                     |                                                                                                 |
+|                    4|[Flickerwisp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376338)        |                     |                                                                                                 |
 

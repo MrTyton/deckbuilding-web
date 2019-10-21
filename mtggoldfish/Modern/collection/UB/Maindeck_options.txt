@@ -2,12 +2,12 @@
 1 Drown in the Loch
 1 Watery Grave
 1 Polluted Delta
-2 Inquisition of Kozilek
 2 Drown in the Loch
 2 Watery Grave
 2 Polluted Delta
-3 Inquisition of Kozilek
+2 Inquisition of Kozilek
 3 Polluted Delta
+3 Inquisition of Kozilek
 4 Polluted Delta
 1 Thoughtseize
 1 Fatal Push
@@ -18,13 +18,13 @@
 1 Gurmag Angler
 1 Rite of Consumption
 1 Stubborn Denial
+1 Deprive
 1 Opt
 1 Flooded Strand
 1 Death's Shadow
 1 Mausoleum Secrets
 1 Misty Rainforest
 1 Street Wraith
-1 Deprive
 1 Windcaller Aven
 2 Stubborn Denial
 2 Mausoleum Secrets
@@ -35,33 +35,33 @@
 2 Misty Rainforest
 2 Windcaller Aven
 2 Street Wraith
-3 Watery Grave
-3 Misty Rainforest
-3 Death's Shadow
 3 Flooded Strand
+3 Thoughtseize
+3 Watery Grave
+3 Stubborn Denial
+3 Death's Shadow
 3 Street Wraith
 3 Deprive
-3 Stubborn Denial
+3 Misty Rainforest
 3 Windcaller Aven
-3 Thoughtseize
 3 Opt
 3 Mausoleum Secrets
 4 Watery Grave
+4 Flooded Strand
 4 Mausoleum Secrets
 4 Opt
 4 Windcaller Aven
 4 Death's Shadow
 4 Stubborn Denial
 4 Street Wraith
-4 Flooded Strand
-1 Field of Ruin
 1 Vendilion Clique
 1 Cryptic Command
+1 Field of Ruin
 1 Jace, the Mind Sculptor
 1 Creeping Tar Pit
 2 Field of Ruin
-2 Jace, the Mind Sculptor
 2 Cryptic Command
+2 Jace, the Mind Sculptor
 3 Field of Ruin
 3 Drown in the Loch
 4 Field of Ruin
@@ -72,13 +72,13 @@
 1 Liliana, the Last Hope
 4 Fatal Push
 1 Snapcaster Mage
+1 Dead of Winter
 1 Tasigur, the Golden Fang
 1 Thought Scour
 1 Spell Snare
 1 Thing in the Ice
 1 Serum Visions
 1 Scalding Tarn
-1 Dead of Winter
 1 Snow-Covered Swamp
 2 Snow-Covered Swamp
 2 Spell Snare
@@ -101,12 +101,12 @@
 4 Serum Visions
 4 Drown in the Loch
 4 Thing in the Ice
-1 Secluded Glen
+1 Murderous Cut
 1 Island
 1 Bitterblossom
 1 Mistbind Clique
 1 Swamp
-1 Murderous Cut
+1 Secluded Glen
 1 Scion of Oona
 2 Vendilion Clique
 2 Secluded Glen
@@ -116,9 +116,9 @@
 2 Bitterblossom
 2 Creeping Tar Pit
 2 Mistbind Clique
+3 Secluded Glen
 3 Bitterblossom
 3 Scion of Oona
-3 Secluded Glen
 3 Island
 4 Secluded Glen
 4 Island

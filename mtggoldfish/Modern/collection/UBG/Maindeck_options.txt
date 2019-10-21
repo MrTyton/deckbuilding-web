@@ -1,3 +1,35 @@
+1 Welding Jar
+1 Urza, Lord High Artificer
+1 Ensnaring Bridge
+1 Sword of the Meek
+1 Mishra's Bauble
+2 Thopter Foundry
+2 Mishra's Bauble
+2 Urza, Lord High Artificer
+2 Mox Opal
+2 Whir of Invention
+3 Mox Opal
+3 Whir of Invention
+3 Thopter Foundry
+3 Mishra's Bauble
+3 Urza, Lord High Artificer
+4 Mishra's Bauble
+4 Mox Opal
+1 Deprive
+1 Torrential Gearhulk
+3 Mystic Sanctuary
+4 Opt
+1 Sunken Hollow
+1 Island
+1 Oko, Thief of Crowns
+1 Spell Snare
+2 Flooded Strand
+3 Flooded Strand
+4 Urza, Lord High Artificer
+4 Thopter Foundry
+5 Snow-Covered Island
+1 Damping Sphere
+2 Pithing Needle
 2 Watery Grave
 1 Overgrown Tomb
 1 Swamp
@@ -22,9 +54,9 @@
 3 Bloodghast
 3 Hedron Crab
 3 Vengevine
+3 Stitcher's Supplier
 3 Prized Amalgam
 3 Creeping Chill
-3 Stitcher's Supplier
 3 Gravecrawler
 3 Verdant Catacombs
 4 Verdant Catacombs
@@ -35,38 +67,12 @@
 4 Hedron Crab
 4 Stitcher's Supplier
 4 Vengevine
-4 Arcum's Astrolabe
-4 Snow-Covered Island
-1 Oko, Thief of Crowns
-1 Inventors' Fair
-1 Pithing Needle
-1 Whir of Invention
-1 Thopter Foundry
-1 Mox Opal
-1 Welding Jar
-1 Urza, Lord High Artificer
-1 Ensnaring Bridge
-1 Sword of the Meek
-1 Mishra's Bauble
-2 Thopter Foundry
-2 Mishra's Bauble
-2 Mox Opal
-2 Whir of Invention
-2 Urza, Lord High Artificer
-3 Mox Opal
-3 Whir of Invention
-3 Thopter Foundry
-3 Mishra's Bauble
-3 Urza, Lord High Artificer
-4 Mishra's Bauble
-4 Thopter Foundry
-4 Mox Opal
 2 Overgrown Tomb
-1 Field of the Dead
-1 Scalding Tarn
-2 Scalding Tarn
 2 Force of Negation
 2 Oko, Thief of Crowns
+1 Scalding Tarn
+1 Field of the Dead
+2 Scalding Tarn
 1 Tormod's Crypt
 1 Mox Amber
 1 Emry, Lurker of the Loch
@@ -76,7 +82,6 @@
 2 Spire of Industry
 2 Mox Amber
 3 Emry, Lurker of the Loch
-4 Urza, Lord High Artificer
 4 Emry, Lurker of the Loch
 1 Once Upon a Time
 1 Merfolk Secretkeeper
@@ -93,24 +98,52 @@
 2 Satyr Wayfinder
 3 Satyr Wayfinder
 4 Satyr Wayfinder
-1 Damping Sphere
-2 Pithing Needle
-2 Flooded Strand
-3 Flooded Strand
-5 Snow-Covered Island
 2 Swamp
 1 Prismatic Vista
 1 Ice-Fang Coatl
 2 Ice-Fang Coatl
 3 Ice-Fang Coatl
 4 Ice-Fang Coatl
+4 Flooded Strand
 1 Botanical Sanctum
 3 Oko, Thief of Crowns
 1 Haunted Dead
 1 Counterbalance
-1 Witching Well
 1 Golden Egg
+1 Witching Well
 2 Witching Well
+1 Mystic Forge
+1 Teferi, Time Raveler
+1 Galvanic Blast
+1 Steam Vents
+1 Hallowed Fountain
+1 Pyrite Spellbomb
+1 Ichor Wellspring
+1 Goblin Engineer
+1 Nexus of Fate
+1 Snow-Covered Mountain
+1 Karn, the Great Creator
+2 Karn, the Great Creator
+2 Galvanic Blast
+2 Goblin Engineer
+3 Goblin Engineer
+1 Tarmogoyf
+1 Inquisition of Kozilek
+1 Maelstrom Pulse
+1 Tasigur, the Golden Fang
+1 Jace, the Mind Sculptor
+1 Forest
+1 Thoughtseize
+2 Tarmogoyf
+2 Inquisition of Kozilek
+2 Thoughtseize
+2 Island
+2 Field of Ruin
+2 Jace, the Mind Sculptor
+3 Tarmogoyf
+3 Thoughtseize
+3 Island
+4 Tarmogoyf
 1 Minister of Inquiries
 1 Collective Brutality
 2 Minister of Inquiries
@@ -128,52 +161,11 @@
 2 Grisly Salvage
 3 Grisly Salvage
 4 Grisly Salvage
-1 Inquisition of Kozilek
-1 Maelstrom Pulse
-1 Tasigur, the Golden Fang
-1 Tarmogoyf
-1 Jace, the Mind Sculptor
-1 Forest
-1 Thoughtseize
-2 Inquisition of Kozilek
-2 Thoughtseize
-2 Island
-2 Tarmogoyf
-2 Field of Ruin
-2 Jace, the Mind Sculptor
-3 Thoughtseize
-3 Island
-3 Tarmogoyf
-4 Tarmogoyf
-1 Bitterblossom
-1 Gilded Goose
-1 Brazen Borrower
-1 Ingenious Infiltrator
-1 Vendilion Clique
-1 Faerie Seer
-1 Birds of Paradise
-1 Spellstutter Sprite
-2 Gilded Goose
-2 Ingenious Infiltrator
-2 Vendilion Clique
-2 Bitterblossom
-2 Faerie Seer
-2 Birds of Paradise
-2 Spellstutter Sprite
-2 Botanical Sanctum
-3 Gilded Goose
-3 Spellstutter Sprite
-3 Botanical Sanctum
-3 Ingenious Infiltrator
-3 Faerie Seer
-4 Ingenious Infiltrator
-4 Faerie Seer
-4 Spellstutter Sprite
 1 Spellskite
-1 Sorcerous Spyglass
 1 Tolaria West
 1 Ghost Quarter
 1 Narset, Parter of Veils
+1 Sorcerous Spyglass
 1 Glimmervoid
 1 Grafdigger's Cage
 1 Teferi's Puzzle Box
@@ -184,4 +176,27 @@
 4 Narset, Parter of Veils
 4 Whir of Invention
 6 Snow-Covered Island
-4 Flooded Strand
+1 Gilded Goose
+1 Bitterblossom
+1 Brazen Borrower
+1 Ingenious Infiltrator
+1 Vendilion Clique
+1 Faerie Seer
+1 Birds of Paradise
+1 Spellstutter Sprite
+2 Gilded Goose
+2 Ingenious Infiltrator
+2 Vendilion Clique
+2 Bitterblossom
+2 Botanical Sanctum
+2 Faerie Seer
+2 Birds of Paradise
+2 Spellstutter Sprite
+3 Gilded Goose
+3 Spellstutter Sprite
+3 Ingenious Infiltrator
+3 Botanical Sanctum
+3 Faerie Seer
+4 Ingenious Infiltrator
+4 Faerie Seer
+4 Spellstutter Sprite

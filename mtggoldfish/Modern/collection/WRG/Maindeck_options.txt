@@ -1,5 +1,5 @@
-1 Boros Charm
 1 Monastery Swiftspear
+1 Boros Charm
 2 Become Immense
 2 Bomat Courier
 2 Boros Charm
@@ -16,21 +16,37 @@
 1 Simian Spirit Guide
 2 Simian Spirit Guide
 3 Stomping Ground
+1 Path to Exile
+1 Scavenging Ooze
+1 Knight of Autumn
 1 Hexdrinker
 2 Hexdrinker
 3 Hexdrinker
 4 Hexdrinker
-1 Copperline Gorge
-2 Copperline Gorge
-1 Path to Exile
-1 Knight of Autumn
-1 Scavenging Ooze
-3 Sacred Foundry
-1 Snow-Covered Forest
-1 Snow-Covered Mountain
 1 Plains
 2 Path to Exile
 2 Forest
+1 Copperline Gorge
+2 Copperline Gorge
+2 Temple Garden
+1 Tarmogoyf
+1 Ghost Quarter
+1 Kessig Wolf Run
+1 Knight of the Reliquary
+2 Scavenging Ooze
+2 Knight of the Reliquary
+3 Path to Exile
+3 Knight of the Reliquary
+4 Path to Exile
+3 Sacred Foundry
+1 Birds of Paradise
+1 Voice of Resurgence
+2 Birds of Paradise
+2 Voice of Resurgence
+3 Birds of Paradise
+4 Birds of Paradise
+1 Snow-Covered Forest
+1 Snow-Covered Mountain
 1 Tireless Tracker
 1 Sheltered Thicket
 1 Courser of Kruphix
@@ -51,7 +67,6 @@
 1 Sakura-Tribe Elder
 2 Snow-Covered Forest
 2 Scapeshift
-2 Search for Tomorrow
 2 Valakut, the Molten Pinnacle
 2 Cinder Glade
 2 Farseek
@@ -59,57 +74,67 @@
 2 Primeval Titan
 2 Nahiri, the Harbinger
 2 Sakura-Tribe Elder
+2 Search for Tomorrow
 2 Sweltering Suns
 3 Nahiri, the Harbinger
 3 Search for Tomorrow
 3 Valakut, the Molten Pinnacle
 3 Eladamri's Call
 3 Primeval Titan
-3 Sakura-Tribe Elder
 3 Scapeshift
+3 Sakura-Tribe Elder
 3 Mountain
 4 Sacred Foundry
 4 Sakura-Tribe Elder
 4 Primeval Titan
+4 Eladamri's Call
 4 Stomping Ground
 4 Scapeshift
 4 Search for Tomorrow
-4 Eladamri's Call
 1 Bonecrusher Giant
 1 Elvish Reclaimer
 1 Kird Ape
 2 Elvish Reclaimer
 2 Kird Ape
 3 Simian Spirit Guide
+1 Renegade Rallier
+1 Stirring Wildwood
+1 Rhonas the Indomitable
+1 Dromoka's Command
+1 Ajani Vengeant
+1 Qasali Pridemage
+1 Flooded Strand
+1 Collected Company
+1 Lightning Helix
+1 Sarkhan Vol
+1 Naya Charm
+1 Gruul Spellbreaker
+2 Qasali Pridemage
+2 Gruul Spellbreaker
+2 Collected Company
+2 Flooded Strand
+2 Lightning Helix
+3 Qasali Pridemage
+3 Collected Company
 1 Sunbaked Canyon
 1 Bloodstained Mire
 2 Sunbaked Canyon
-2 Temple Garden
 3 Become Immense
 1 Horizon Canopy
 1 Wrenn and Six
-1 Tarmogoyf
 1 Bloodbraid Elf
-1 Kessig Wolf Run
-1 Ghost Quarter
-1 Knight of the Reliquary
 2 Tarmogoyf
-2 Scavenging Ooze
 2 Tireless Tracker
 2 Bloodbraid Elf
 2 Wrenn and Six
 2 Knight of Autumn
-2 Knight of the Reliquary
 3 Tarmogoyf
 3 Scavenging Ooze
 3 Wrenn and Six
-3 Path to Exile
 3 Knight of Autumn
-3 Knight of the Reliquary
 3 Bloodbraid Elf
 4 Tarmogoyf
 4 Bloodbraid Elf
-4 Path to Exile
 1 Dryad Arbor
 1 Rancor
 1 Experiment One
@@ -128,9 +153,7 @@
 1 Selfless Spirit
 1 Grove of the Burnwillows
 1 Noble Hierarch
-1 Birds of Paradise
 1 Eidolon of Rhetoric
-1 Voice of Resurgence
 1 Seasoned Pyromancer
 1 Wall of Blossoms
 2 Chord of Calling
@@ -139,17 +162,13 @@
 2 Wall of Blossoms
 2 Seasoned Pyromancer
 2 Noble Hierarch
-2 Birds of Paradise
-2 Voice of Resurgence
 3 Chord of Calling
-3 Birds of Paradise
-3 Noble Hierarch
 3 Forest
 3 Voice of Resurgence
 3 Wall of Blossoms
 3 Seasoned Pyromancer
 3 Restoration Angel
-4 Birds of Paradise
+3 Noble Hierarch
 4 Chord of Calling
 4 Restoration Angel
 1 Scalding Tarn

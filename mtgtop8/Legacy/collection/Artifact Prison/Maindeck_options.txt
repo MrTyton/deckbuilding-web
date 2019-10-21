@@ -35,10 +35,10 @@
 2 Polluted Delta
 3 Polluted Delta
 4 Polluted Delta
-1 Swamp
-1 Wasteland
 1 Trinisphere
+1 Wasteland
 1 Ratchet Bomb
+1 Swamp
 1 Tangle Wire
 1 Smokestack
 1 Sorcerous Spyglass
@@ -73,11 +73,13 @@
 3 Voltaic Key
 4 City of Traitors
 1 Snow-Covered Island
-1 Badlands
+1 Snow-Covered Swamp
 1 Scalding Tarn
+1 Badlands
 1 Prismatic Vista
 1 Lightning Bolt
 1 Pithing Needle
+1 Snow-Covered Mountain
 1 Brainstorm
 1 Thopter Foundry
 1 Volcanic Island
@@ -87,11 +89,9 @@
 1 Magmatic Sinkhole
 1 Goblin Engineer
 1 Sword of the Meek
-1 Snow-Covered Mountain
 1 Underground Sea
 1 Force of Will
 1 Muddle the Mixture
-1 Snow-Covered Swamp
 2 Scalding Tarn
 2 Thopter Foundry
 2 Ponder
@@ -113,9 +113,9 @@
 3 Thopter Foundry
 3 Ponder
 3 Goblin Engineer
+4 Scalding Tarn
 4 Baleful Strix
 4 Arcum's Astrolabe
-4 Scalding Tarn
 4 Snow-Covered Island
 4 Goblin Engineer
 4 Thopter Foundry
