@@ -41,8 +41,8 @@
 |                    1|[Angrath's Rampage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461112)  |                     |              |
 |                    2|[Stormfist Crusader](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473165) |                     |              |
 |                    2|[Dreadhorde Arcanist](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461052)|                     |              |
-|                    2|[Dreadhorde Butcher](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461121) |                     |              |
 |                    2|[Giant Growth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129568)       |                     |              |
+|                    2|[Dreadhorde Butcher](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461121) |                     |              |
 |                    2|[Shock](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129732)              |                     |              |
 |                    2|[Angrath's Rampage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461112)  |                     |              |
 |                    2|[Fling](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426834)              |                     |              |

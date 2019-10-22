@@ -1,7 +1,8 @@
 3 Flooded Strand
+1 Waterlogged Grove
 3 Snow-Covered Forest
-3 Snow-Covered Island
 4 Force of Negation
+3 Snow-Covered Island
 1 Ephemerate
 1 Eternal Witness
 1 Soulherder
@@ -16,56 +17,55 @@
 3 Soulherder
 4 Ephemerate
 4 Coiling Oracle
-1 Tireless Tracker
-1 Sword of Fire and Ice
-2 Deputy of Detention
-1 Knight of Autumn
-3 Teferi, Time Raveler
-1 Mulldrifter
-2 Temple Garden
 1 Oko, Thief of Crowns
 2 Oko, Thief of Crowns
+1 Tireless Tracker
+3 Teferi, Time Raveler
+2 Temple Garden
+2 Deputy of Detention
+1 Mulldrifter
+1 Knight of Autumn
+1 Hexdrinker
+4 Flooded Strand
+2 Tireless Tracker
+1 Wall of Omens
+1 Time Warp
+4 Misty Rainforest
+3 Razorverge Thicket
 1 Collected Company
 2 Collected Company
 3 Collected Company
-2 Tireless Tracker
-1 Geist of Saint Traft
-4 Flooded Strand
-1 Time Warp
-1 Wall of Omens
-4 Misty Rainforest
-3 Razorverge Thicket
 4 Collected Company
-1 Hexdrinker
-2 Geist of Saint Traft
-1 Knight of the Reliquary
-2 Knight of the Reliquary
-3 Knight of the Reliquary
-4 Knight of the Reliquary
+1 Ranger-Captain of Eos
+2 Ranger-Captain of Eos
+1 Geist of Saint Traft
+3 Oko, Thief of Crowns
 1 Gavony Township
 1 Remand
 2 Mulldrifter
 1 Venser, Shaper Savant
 1 Watcher for Tomorrow
+2 Geist of Saint Traft
 4 Soulherder
-1 Ranger-Captain of Eos
-2 Ranger-Captain of Eos
-2 Knight of Autumn
+1 Caustic Caterpillar
 1 Ghost Quarter
+1 Knight of the Reliquary
+2 Knight of the Reliquary
+3 Knight of the Reliquary
+4 Knight of the Reliquary
 1 Mana Leak
 2 Mana Leak
-3 Oko, Thief of Crowns
 1 Arcum's Astrolabe
 2 Arcum's Astrolabe
 2 Jace, the Mind Sculptor
-1 Plains
-1 Forest
-3 Birds of Paradise
+1 Sword of Light and Shadow
+3 Ranger-Captain of Eos
 1 Moorland Haunt
 1 Canopy Vista
 1 Prairie Stream
 2 Venser, Shaper Savant
 2 Wall of Omens
+2 Knight of Autumn
 4 Eternal Witness
 3 Mana Leak
 1 Wall of Blossoms
@@ -76,45 +76,32 @@
 2 Opt
 3 Arcum's Astrolabe
 4 Arcum's Astrolabe
-1 Caustic Caterpillar
+1 Plains
+1 Forest
+3 Birds of Paradise
+1 Vendilion Clique
 1 Retreat to Coralhelm
 1 Field of Ruin
-1 Wooded Foothills
-1 Island
-2 Plains
-1 Sejiri Steppe
-1 Scavenging Ooze
-2 Forest
-1 Vendilion Clique
 2 Watcher for Tomorrow
 1 Brazen Borrower
 1 Gilded Goose
 2 Brazen Borrower
 2 Gilded Goose
 3 Deputy of Detention
-1 Sword of Light and Shadow
-3 Ranger-Captain of Eos
 1 Renegade Rallier
+1 Wooded Foothills
 1 Reflector Mage
 2 Wall of Blossoms
 3 Wall of Blossoms
 1 Teferi, Hero of Dominaria
 3 Time Warp
-1 Eladamri's Call
-1 Selfless Spirit
-1 Unsettled Mariner
-1 Rogue's Passage
-1 Remorseful Cleric
-2 Selfless Spirit
-2 Retreat to Coralhelm
-2 Breeding Pool
-3 Retreat to Coralhelm
-4 Birds of Paradise
 3 Wall of Omens
 4 Wall of Omens
 1 Restoration Angel
 1 Aven Mindcensor
+1 Island
 1 Squadron Hawk
+2 Plains
 2 Restoration Angel
 2 Aven Mindcensor
 2 Island
@@ -127,24 +114,6 @@
 2 Seachrome Coast
 4 Giver of Runes
 4 Mana Leak
-1 Minamo, School at Water's Edge
-1 Dryad Arbor
-1 Mangara of Corondor
-1 Fauna Shaman
-1 Scryb Ranger
-1 Thalia, Guardian of Thraben
-2 Horizon Canopy
-2 Scryb Ranger
-2 Mangara of Corondor
-2 Thalia, Guardian of Thraben
-2 Fauna Shaman
-3 Temple Garden
-3 Mangara of Corondor
-3 Scryb Ranger
-3 Thalia, Guardian of Thraben
-3 Fauna Shaman
-4 Mangara of Corondor
-4 Fauna Shaman
 1 Serum Visions
 1 Castle Ardenvale
 1 Snapcaster Mage
@@ -156,5 +125,26 @@
 3 Opt
 4 Snow-Covered Island
 4 Serum Visions
-5 Snow-Covered Island
 4 Opt
+5 Snow-Covered Island
+1 Sejiri Steppe
+1 Minamo, School at Water's Edge
+1 Dryad Arbor
+1 Mangara of Corondor
+1 Fauna Shaman
+1 Scryb Ranger
+1 Thalia, Guardian of Thraben
+1 Scavenging Ooze
+2 Horizon Canopy
+2 Scryb Ranger
+2 Forest
+2 Mangara of Corondor
+2 Thalia, Guardian of Thraben
+2 Fauna Shaman
+3 Temple Garden
+3 Mangara of Corondor
+3 Scryb Ranger
+3 Thalia, Guardian of Thraben
+3 Fauna Shaman
+4 Mangara of Corondor
+4 Fauna Shaman

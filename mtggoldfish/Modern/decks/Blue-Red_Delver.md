@@ -33,8 +33,8 @@
 |--------------------:|--------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------|
 |                    1|[Magmatic Sinkhole](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464084)|                    1|[Jace's Defeat](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430727)|
 |                    1|[Brazen Borrower](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473001)  |                    2|[Jace's Defeat](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430727)|
-|                    2|[Remand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=380255)           |                    3|[Jace's Defeat](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430727)|
+|                    2|[Magmatic Sinkhole](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464084)|                    3|[Jace's Defeat](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430727)|
+|                    2|[Remand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=380255)           |                     |                                                                                        |
 |                    2|[Brazen Borrower](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473001)  |                     |                                                                                        |
-|                    2|[Magmatic Sinkhole](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464084)|                     |                                                                                        |
 |                    3|[Brazen Borrower](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473001)  |                     |                                                                                        |
 
