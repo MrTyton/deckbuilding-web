@@ -1,9 +1,9 @@
+1 Duskwatch Recruiter
+2 Kitchen Finks
 3 Kitchen Finks
 4 Collected Company
-1 Duskwatch Recruiter
-2 Ranger-Captain of Eos
 3 Verdant Catacombs
-4 Birds of Paradise
+2 Ranger-Captain of Eos
 4 Horizon Canopy
 1 Carrion Feeder
 1 Swamp
@@ -12,22 +12,22 @@
 1 Viridian Longbow
 1 Stoneforge Mystic
 2 Stoneforge Mystic
-1 Dryad Arbor
 3 Chord of Calling
 3 Stoneforge Mystic
 4 Stoneforge Mystic
 2 Duskwatch Recruiter
-3 Forest
+1 Dryad Arbor
 4 Verdant Catacombs
 4 Chord of Calling
-1 Postmortem Lunge
-1 Misty Rainforest
-2 Misty Rainforest
-3 Misty Rainforest
 1 Once Upon a Time
 2 Once Upon a Time
 3 Once Upon a Time
-1 Breeding Pool
+1 Postmortem Lunge
+3 Forest
+1 Misty Rainforest
+2 Misty Rainforest
+3 Misty Rainforest
+4 Once Upon a Time
 1 Scavenging Ooze
 1 Tireless Tracker
 1 Sword of Light and Shadow
@@ -36,10 +36,11 @@
 1 Eldritch Evolution
 2 Eldritch Evolution
 3 Eldritch Evolution
-1 Waterlogged Grove
 2 Postmortem Lunge
-4 Once Upon a Time
-4 Forest
+1 Stomping Ground
+1 Breeding Pool
+1 Wooded Foothills
+1 Waterlogged Grove
 1 Sword of Fire and Ice
 1 Lightning Greaves
 1 Thoughtseize
@@ -49,56 +50,44 @@
 2 Shalai, Voice of Plenty
 3 Postmortem Lunge
 4 Postmortem Lunge
-1 Wooded Foothills
 1 Nurturing Peatland
-1 Teferi, Time Raveler
-2 Teferi, Time Raveler
-3 Teferi, Time Raveler
 4 Kitchen Finks
+1 Viscera Seer
 1 Hallowed Fountain
 1 Vines of Vastwood
 2 Vines of Vastwood
-1 Stomping Ground
+4 Forest
 4 Misty Rainforest
-1 Karn, the Great Creator
-2 Karn, the Great Creator
-3 Karn, the Great Creator
-4 Karn, the Great Creator
 1 Renegade Rallier
-2 Overgrown Tomb
-1 Utopia Sprawl
-1 Arbor Elf
-2 Utopia Sprawl
-2 Arbor Elf
-3 Utopia Sprawl
-3 Arbor Elf
-4 Utopia Sprawl
-4 Arbor Elf
 2 Wooded Foothills
 3 Wooded Foothills
 4 Wooded Foothills
-1 Island
+2 Overgrown Tomb
+1 Teferi, Time Raveler
+2 Teferi, Time Raveler
+3 Teferi, Time Raveler
 1 Restoration Angel
+1 Island
 1 Kiki-Jiki, Mirror Breaker
 1 Deceiver Exarch
 2 Breeding Pool
 2 Stomping Ground
+1 Grove of the Burnwillows
 1 Scryb Ranger
 1 Prime Speaker Vannifar
 1 Spellskite
 1 Sun Titan
-1 Breaching Hippocamp
-1 Grove of the Burnwillows
 1 Steam Vents
 1 Zealous Conscripts
+1 Breaching Hippocamp
 1 Wall of Roots
 1 Rhythm of the Wild
-2 Scryb Ranger
-2 Renegade Rallier
-2 Prime Speaker Vannifar
-2 Deceiver Exarch
-2 Kiki-Jiki, Mirror Breaker
 2 Grove of the Burnwillows
+2 Renegade Rallier
+2 Scryb Ranger
+2 Prime Speaker Vannifar
+2 Kiki-Jiki, Mirror Breaker
+2 Deceiver Exarch
 2 Rhythm of the Wild
 2 Wall of Roots
 3 Grove of the Burnwillows
@@ -108,7 +97,6 @@
 4 Rhythm of the Wild
 1 Silent Clearing
 1 Flooded Strand
-1 Viscera Seer
 1 Field of Ruin
 2 Nurturing Peatland
 1 Sword of Feast and Famine
@@ -117,32 +105,43 @@
 2 Neoform
 1 Caustic Caterpillar
 3 Ranger-Captain of Eos
-1 Oath of Nissa
-2 Oath of Nissa
-3 Oath of Nissa
+1 Snow-Covered Plains
+1 Snow-Covered Forest
+2 Snow-Covered Forest
+3 Snow-Covered Forest
 3 Temple Garden
-4 Oath of Nissa
-4 Teferi, Time Raveler
+1 Karn, the Great Creator
+2 Karn, the Great Creator
+3 Karn, the Great Creator
+4 Karn, the Great Creator
 1 Magus of the Moon
 3 Duskwatch Recruiter
 4 Eldritch Evolution
-1 Hostage Taker
 1 Wall of Blossoms
-1 Maelstrom Pulse
+1 Utopia Sprawl
+1 Hostage Taker
 1 Kolaghan's Command
+1 Maelstrom Pulse
 1 Primal Command
-1 Acidic Slime
 1 Wall of Omens
+1 Acidic Slime
 1 Bring to Light
 1 Niv-Mizzet Reborn
+1 Arbor Elf
 1 Manamorphose
-2 Bring to Light
 2 Restoration Angel
+2 Bring to Light
 2 Wall of Blossoms
+2 Utopia Sprawl
 2 Wall of Omens
+2 Arbor Elf
 2 Manamorphose
-3 Bring to Light
 3 Restoration Angel
+3 Bring to Light
+3 Utopia Sprawl
+3 Arbor Elf
 3 Manamorphose
+4 Utopia Sprawl
 4 Restoration Angel
+4 Arbor Elf
 4 Bring to Light

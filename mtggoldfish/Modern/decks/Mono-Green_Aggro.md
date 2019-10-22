@@ -29,9 +29,9 @@
 
 |*n*<sup>th</sup> copy|                                       Maindeck Card                                       |*n*<sup>th</sup> copy|                                      Sideboard Card                                      |
 |--------------------:|-------------------------------------------------------------------------------------------|--------------------:|------------------------------------------------------------------------------------------|
-|                    1|[Nullhide Ferox](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452888)  |                    1|[Collector Ouphe](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464107)|
-|                    1|[Vine Mare](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447343)       |                    3|[Collector Ouphe](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464107)|
-|                    1|[Tranquil Thicket](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220494)|                    3|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101) |
+|                    1|[Tranquil Thicket](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220494)|                    1|[Collector Ouphe](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464107)|
+|                    1|[Nullhide Ferox](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452888)  |                    3|[Collector Ouphe](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464107)|
+|                    1|[Vine Mare](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447343)       |                    3|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101) |
 |                    2|[Nullhide Ferox](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452888)  |                    4|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101) |
 |                    2|[Vine Mare](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447343)       |                    2|[Collector Ouphe](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464107)|
 |                    3|[Nullhide Ferox](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452888)  |                     |                                                                                          |

@@ -1,39 +1,43 @@
-4 Noble Hierarch
+4 Goblin Guide
+4 Path to Exile
+1 Sunbaked Canyon
+1 Reckless Bushwhacker
+1 Burning-Tree Emissary
+2 Burning-Tree Emissary
+2 Reckless Bushwhacker
+3 Reckless Bushwhacker
+3 Burning-Tree Emissary
+4 Burning-Tree Emissary
+2 Temple Garden
+2 Scavenging Ooze
+1 Kird Ape
+2 Kird Ape
 1 Narnam Renegade
 2 Narnam Renegade
 3 Narnam Renegade
-1 Kird Ape
-2 Kird Ape
-2 Forest
-1 Knight of the Reliquary
-2 Knight of the Reliquary
-3 Knight of the Reliquary
-1 Scavenging Ooze
-1 Knight of Autumn
-1 Qasali Pridemage
-2 Qasali Pridemage
+1 Gruul Spellbreaker
+1 Lightning Helix
+2 Lightning Helix
 4 Bloodbraid Elf
 1 Boros Charm
 2 Boros Charm
-2 Scavenging Ooze
 1 Gideon Blackblade
 2 Gideon Blackblade
 1 Hexdrinker
 3 Kird Ape
 4 Kird Ape
-4 Narnam Renegade
 2 Knight of Autumn
+4 Narnam Renegade
+4 Tarmogoyf
 1 Ghor-Clan Rampager
 2 Ghor-Clan Rampager
-4 Tarmogoyf
-1 Gruul Spellbreaker
-4 Path to Exile
-1 Lightning Helix
-2 Lightning Helix
-2 Temple Garden
-1 Mutagenic Growth
+2 Gruul Spellbreaker
 1 Become Immense
+1 Mutagenic Growth
 2 Mutagenic Growth
+1 Simian Spirit Guide
+2 Simian Spirit Guide
+1 Ghost Quarter
 1 Shalai, Voice of Plenty
 1 Overgrown Tomb
 2 Plains
@@ -48,8 +52,8 @@
 1 Bomat Courier
 1 Bloodstained Mire
 1 Monastery Swiftspear
-2 Bomat Courier
 2 Become Immense
+2 Bomat Courier
 2 Monastery Swiftspear
 3 Mutagenic Growth
 3 Bomat Courier
@@ -62,57 +66,88 @@
 2 Rancor
 4 Reckless Bushwhacker
 1 Domri, Anarch of Bolas
-2 Gruul Spellbreaker
-1 Simian Spirit Guide
-2 Simian Spirit Guide
 1 Snow-Covered Mountain
 1 Snow-Covered Forest
+1 Stirring Wildwood
+3 Qasali Pridemage
 3 Lightning Helix
 4 Lightning Helix
+1 Renegade Rallier
+1 Huntmaster of the Fells
+4 Knight of the Reliquary
+1 Elvish Reclaimer
+2 Elvish Reclaimer
+3 Simian Spirit Guide
+1 Stoneforge Mystic
+1 Batterskull
+2 Stoneforge Mystic
+3 Stoneforge Mystic
+1 Wrenn and Six
+2 Wrenn and Six
+3 Wrenn and Six
 1 Ajani, the Greathearted
 2 Tireless Tracker
 1 Kytheon, Hero of Akros
 2 Kytheon, Hero of Akros
 1 Thalia, Guardian of Thraben
 2 Thalia, Guardian of Thraben
+1 Domri, Chaos Bringer
+1 Aven Mindcensor
+1 Vivien, Champion of the Wilds
+1 Ruination Rioter
+2 Horizon Canopy
+2 Ruination Rioter
 2 Sunbaked Canyon
 2 Mountain
 3 Become Immense
 3 Sacred Foundry
 3 Stomping Ground
-1 Ghost Quarter
-1 Domri, Chaos Bringer
-1 Stirring Wildwood
-1 Aven Mindcensor
-1 Huntmaster of the Fells
-1 Vivien, Champion of the Wilds
-1 Ruination Rioter
-2 Horizon Canopy
-2 Ruination Rioter
-4 Knight of the Reliquary
+1 Birds of Paradise
+1 Flooded Strand
+1 Ajani Vengeant
+1 Dromoka's Command
+1 Naya Charm
+1 Sarkhan Vol
+1 Collected Company
+1 Rhonas the Indomitable
+2 Birds of Paradise
+2 Collected Company
+2 Flooded Strand
+3 Birds of Paradise
+3 Collected Company
+4 Birds of Paradise
 1 Treetop Village
 1 Elspeth, Knight-Errant
-1 Stoneforge Mystic
-1 Batterskull
 1 Sword of Light and Shadow
 1 Sword of Feast and Famine
 1 Snow-Covered Plains
 1 Slayers' Stronghold
-2 Stoneforge Mystic
 2 Snow-Covered Forest
-3 Stoneforge Mystic
-3 Qasali Pridemage
 3 Gruul Spellbreaker
 3 Voice of Resurgence
 4 Gruul Spellbreaker
-1 Elvish Reclaimer
+1 Blast Zone
+1 Tranquil Thicket
+1 Forgotten Cave
+1 Castle Ardenvale
+1 Embercleave
+1 Seasoned Pyromancer
+1 Karn, the Great Creator
+2 Ghost Quarter
+2 Seasoned Pyromancer
+2 Karn, the Great Creator
+3 Elvish Reclaimer
+3 Ghost Quarter
+3 Karn, the Great Creator
+4 Karn, the Great Creator
+4 Wrenn and Six
+4 Stoneforge Mystic
+4 Simian Spirit Guide
 1 Once Upon a Time
 1 Hidden Herbalists
-2 Elvish Reclaimer
 2 Once Upon a Time
 2 Hidden Herbalists
 3 Once Upon a Time
-3 Simian Spirit Guide
 3 Hidden Herbalists
 4 Once Upon a Time
 4 Hidden Herbalists
@@ -121,14 +156,6 @@
 2 Bloodstained Mire
 3 Bloodstained Mire
 4 Bloodstained Mire
-1 Dryad Arbor
-1 Vexing Devil
-1 Experiment One
-2 Vexing Devil
-2 Experiment One
-3 Experiment One
-3 Rancor
-4 Experiment One
 1 Hallowed Fountain
 1 Steam Vents
 1 Blood Crypt
@@ -142,16 +169,20 @@
 3 Mantis Rider
 4 Tribal Flames
 4 Mantis Rider
+1 Dryad Arbor
+1 Vexing Devil
+1 Experiment One
+2 Vexing Devil
+2 Experiment One
+3 Experiment One
+3 Rancor
+4 Experiment One
 1 Courser of Kruphix
-1 Renegade Rallier
 1 Plated Geopede
-1 Wrenn and Six
 1 Steppe Lynx
 2 Renegade Rallier
 2 Plated Geopede
 2 Steppe Lynx
-2 Wrenn and Six
-3 Wrenn and Six
 3 Steppe Lynx
 3 Renegade Rallier
 3 Plated Geopede

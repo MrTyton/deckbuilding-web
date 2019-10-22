@@ -5,16 +5,16 @@
 9 Mountain
 10 Mountain
 11 Mountain
-3 Fiery Islet
-4 Fiery Islet
 1 Shard Volley
 2 Shard Volley
+3 Fiery Islet
+4 Fiery Islet
 3 Shard Volley
 3 Light Up the Stage
 4 Light Up the Stage
+4 Lightning Helix
 2 Wooded Foothills
 1 Skullcrack
-4 Lightning Helix
 12 Mountain
 1 Seal of Fire
 2 Seal of Fire
@@ -30,23 +30,23 @@
 4 Shard Volley
 3 Wooded Foothills
 3 Bloodstained Mire
-1 Scalding Tarn
-2 Scalding Tarn
-4 Wooded Foothills
 4 Bloodstained Mire
-3 Arid Mesa
-3 Sacred Foundry
-1 Grim Lavamancer
 1 Soul-Scar Mage
 2 Soul-Scar Mage
 3 Soul-Scar Mage
 4 Soul-Scar Mage
-1 Lava Dart
-2 Lava Dart
-3 Lava Dart
+1 Scalding Tarn
+2 Scalding Tarn
+4 Wooded Foothills
+3 Sacred Foundry
+3 Arid Mesa
 1 Snow-Covered Mountain
 2 Snow-Covered Mountain
 3 Snow-Covered Mountain
+4 Snow-Covered Mountain
+1 Lava Dart
+2 Lava Dart
+3 Lava Dart
 4 Lava Dart
 1 Manamorphose
 1 Crash Through
@@ -58,7 +58,6 @@
 3 Manamorphose
 4 Crash Through
 4 Manamorphose
-4 Snow-Covered Mountain
 5 Snow-Covered Mountain
 6 Snow-Covered Mountain
 7 Snow-Covered Mountain
@@ -66,33 +65,40 @@
 9 Snow-Covered Mountain
 10 Snow-Covered Mountain
 11 Snow-Covered Mountain
+1 Grim Lavamancer
+12 Snow-Covered Mountain
+13 Snow-Covered Mountain
+14 Snow-Covered Mountain
 1 Mogg Fanatic
 2 Mogg Fanatic
+3 Skullcrack
 1 Burst Lightning
 2 Burst Lightning
 3 Burst Lightning
 4 Burst Lightning
 3 Bedlam Reveler
-12 Snow-Covered Mountain
-13 Snow-Covered Mountain
-14 Snow-Covered Mountain
-3 Scalding Tarn
 3 Mogg Fanatic
-3 Skullcrack
 13 Mountain
 15 Snow-Covered Mountain
+1 Gut Shot
+2 Gut Shot
+3 Scalding Tarn
+1 Seasoned Pyromancer
+1 Blistercoil Weird
+1 Mutagenic Growth
+2 Blistercoil Weird
+2 Mutagenic Growth
+3 Mutagenic Growth
 4 Mogg Fanatic
+4 Sacred Foundry
+4 Arid Mesa
 14 Mountain
 15 Mountain
 16 Mountain
-4 Sacred Foundry
 2 Grim Lavamancer
 1 Runaway Steam-Kin
 2 Runaway Steam-Kin
 4 Bedlam Reveler
-1 Gut Shot
-2 Gut Shot
-1 Stomping Ground
 1 Abbot of Keral Keep
 2 Abbot of Keral Keep
 1 Kiln Fiend
@@ -102,12 +108,6 @@
 3 Kiln Fiend
 1 Risk Factor
 3 Runaway Steam-Kin
-1 Blistercoil Weird
-1 Mutagenic Growth
-1 Seasoned Pyromancer
-2 Blistercoil Weird
-2 Mutagenic Growth
-3 Mutagenic Growth
 1 Bonecrusher Giant
 2 Bonecrusher Giant
 3 Bonecrusher Giant
@@ -118,4 +118,3 @@
 4 Skullcrack
 3 Grim Lavamancer
 4 Grim Lavamancer
-4 Arid Mesa
