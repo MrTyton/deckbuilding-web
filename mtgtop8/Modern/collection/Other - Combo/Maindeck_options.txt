@@ -26,6 +26,7 @@
 1 Temple Garden
 1 Magus of the Moon
 1 Eladamri's Call
+1 Noble Hierarch
 1 Fauna Shaman
 1 Collector Ouphe
 1 Scavenging Ooze
@@ -39,7 +40,6 @@
 1 Ghalta, Primal Hunger
 1 Glorybringer
 1 Tireless Tracker
-1 Noble Hierarch
 1 Windswept Heath
 1 Impervious Greatwurm
 1 Wooded Foothills
@@ -51,25 +51,25 @@
 1 Cragganwick Cremator
 1 Kessig Wolf Run
 2 Temple Garden
+2 Noble Hierarch
 2 Cavern of Souls
 2 Copperline Gorge
 2 Steel Leaf Champion
 2 Windswept Heath
 2 Forest
 2 Wooded Foothills
-2 Noble Hierarch
 2 Eldritch Evolution
 2 Impervious Greatwurm
 2 Birds of Paradise
 2 Cragganwick Cremator
 2 Strangleroot Geist
+3 Noble Hierarch
 3 Strangleroot Geist
 3 Steel Leaf Champion
 3 Cragganwick Cremator
 3 Forest
 3 Eldritch Evolution
 3 Wooded Foothills
-3 Noble Hierarch
 4 Noble Hierarch
 4 Forest
 4 Strangleroot Geist
@@ -92,8 +92,8 @@
 1 Battle Hymn
 1 Infernal Plunge
 2 Mountain
-2 Wild Cantor
 2 Karplusan Forest
+2 Wild Cantor
 2 Commune with the Gods
 2 Magmatic Insight
 2 Empty the Warrens
@@ -102,8 +102,8 @@
 2 Mogg War Marshal
 2 Skirk Prospector
 2 Goblin Instigator
-3 Mountain
 3 Karplusan Forest
+3 Mountain
 3 Commune with the Gods
 3 Fecundity
 3 Mogg War Marshal

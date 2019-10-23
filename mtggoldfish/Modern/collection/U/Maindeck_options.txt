@@ -1,5 +1,3 @@
-3 Merrow Reejerey
-1 Dismember
 10 Island
 11 Island
 12 Island
@@ -7,36 +5,44 @@
 2 Repeal
 3 Repeal
 1 Castle Vantress
-1 Benthic Biomancer
 2 Castle Vantress
-2 Benthic Biomancer
 2 Dismember
-3 Deprive
 3 Castle Vantress
-3 Benthic Biomancer
 3 Dismember
+3 Deprive
 4 Repeal
 4 Deprive
-4 Benthic Biomancer
 4 Dismember
 4 Castle Vantress
+2 Tidebinder Mage
+3 Merrow Reejerey
+1 Benthic Biomancer
+2 Benthic Biomancer
+3 Benthic Biomancer
+4 Benthic Biomancer
+1 Vendilion Clique
+2 Vendilion Clique
+3 Vendilion Clique
+4 Vendilion Clique
 1 Field of Ruin
 1 Mystic Sanctuary
+1 Logic Knot
+1 Polluted Delta
 1 Brazen Borrower
-1 Opt
+1 Archmage's Charm
 1 Serum Visions
+1 Opt
 1 Flooded Strand
 1 Spell Snare
 1 Cryptic Command
 1 Jace, the Mind Sculptor
 1 Thing in the Ice
-1 Logic Knot
-1 Archmage's Charm
 1 Thought Scour
-1 Polluted Delta
 1 Mana Leak
 1 Snapcaster Mage
-2 Brazen Borrower
+2 Polluted Delta
+2 Mystic Sanctuary
+2 Archmage's Charm
 2 Serum Visions
 2 Opt
 2 Flooded Strand
@@ -44,17 +50,15 @@
 2 Spell Snare
 2 Snapcaster Mage
 2 Thought Scour
-2 Mystic Sanctuary
+2 Brazen Borrower
 2 Field of Ruin
-2 Archmage's Charm
 2 Thing in the Ice
 2 Jace, the Mind Sculptor
-2 Polluted Delta
-3 Brazen Borrower
 3 Mystic Sanctuary
-3 Serum Visions
 3 Flooded Strand
+3 Serum Visions
 3 Thing in the Ice
+3 Brazen Borrower
 3 Field of Ruin
 3 Snapcaster Mage
 3 Opt
@@ -72,31 +76,31 @@
 1 Trinket Mage
 1 Mindslaver
 1 Snow-Covered Island
-1 Nimble Obstructionist
 1 Ugin, the Spirit Dragon
-1 Academy Ruins
 1 Wurmcoil Engine
 1 Chalice of the Void
-1 Expedition Map
 1 Gemstone Caverns
 1 Thirst for Knowledge
 1 Emrakul, the Promised End
 1 Walking Ballista
+1 Nimble Obstructionist
 1 Urza's Tower
 1 Urza's Mine
 1 Remand
 1 Urza's Power Plant
+1 Expedition Map
 1 Witching Well
 1 Condescend
+1 Academy Ruins
 1 Oblivion Stone
 2 Mindslaver
 2 Karn, the Great Creator
 2 Remand
-2 Nimble Obstructionist
-2 Urza's Mine
 2 Snow-Covered Island
 2 Ugin, the Spirit Dragon
+2 Urza's Mine
 2 Expedition Map
+2 Nimble Obstructionist
 2 Condescend
 2 Urza's Power Plant
 2 Thirst for Knowledge

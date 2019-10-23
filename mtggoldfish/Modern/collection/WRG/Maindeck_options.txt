@@ -1,26 +1,26 @@
 1 Path to Exile
 2 Mountain
 1 Bomat Courier
-1 Monastery Swiftspear
 1 Boros Charm
-2 Become Immense
+1 Monastery Swiftspear
 2 Bomat Courier
 2 Boros Charm
+2 Become Immense
 2 Monastery Swiftspear
-3 Mutagenic Growth
 3 Bomat Courier
+3 Mutagenic Growth
 3 Boros Charm
 3 Monastery Swiftspear
 4 Bomat Courier
-4 Monastery Swiftspear
 4 Mutagenic Growth
+4 Monastery Swiftspear
 1 Ghor-Clan Rampager
 2 Ghor-Clan Rampager
 2 Temple Garden
 1 Plains
 2 Path to Exile
-1 Scavenging Ooze
 1 Knight of Autumn
+1 Scavenging Ooze
 3 Stomping Ground
 1 Ghost Quarter
 1 Knight of the Reliquary
@@ -57,46 +57,46 @@
 1 Snow-Covered Forest
 1 Snow-Covered Mountain
 1 Tireless Tracker
-1 Thragtusk
 1 Farseek
 1 Valakut, the Molten Pinnacle
 1 Primeval Titan
+1 Nahiri, the Harbinger
 1 Search for Tomorrow
 1 Scapeshift
 1 Sweltering Suns
 1 Field of the Dead
 1 Courser of Kruphix
 1 Sheltered Thicket
-1 Nahiri, the Harbinger
+1 Thragtusk
 1 Snow-Covered Plains
 1 Wood Elves
 1 Eladamri's Call
 1 Cinder Glade
 1 Panglacial Wurm
 1 Sakura-Tribe Elder
+2 Snow-Covered Forest
 2 Primeval Titan
+2 Search for Tomorrow
+2 Nahiri, the Harbinger
 2 Farseek
 2 Valakut, the Molten Pinnacle
-2 Search for Tomorrow
 2 Scapeshift
-2 Snow-Covered Forest
 2 Cinder Glade
 2 Eladamri's Call
-2 Nahiri, the Harbinger
 2 Sakura-Tribe Elder
 2 Sweltering Suns
+3 Nahiri, the Harbinger
 3 Mountain
 3 Scapeshift
 3 Primeval Titan
 3 Valakut, the Molten Pinnacle
 3 Search for Tomorrow
-3 Nahiri, the Harbinger
 3 Eladamri's Call
 3 Sakura-Tribe Elder
 4 Sacred Foundry
+4 Stomping Ground
 4 Search for Tomorrow
 4 Scapeshift
-4 Stomping Ground
 4 Primeval Titan
 4 Sakura-Tribe Elder
 4 Eladamri's Call
@@ -127,19 +127,53 @@
 2 Sunbaked Canyon
 3 Become Immense
 1 Bloodbraid Elf
-2 Tarmogoyf
 2 Tireless Tracker
 2 Bloodbraid Elf
+2 Tarmogoyf
 2 Knight of Autumn
-3 Tarmogoyf
 3 Scavenging Ooze
 3 Knight of Autumn
 3 Bloodbraid Elf
+3 Tarmogoyf
 4 Tarmogoyf
 4 Bloodbraid Elf
+1 Dryad Arbor
+1 Rancor
+1 Experiment One
+1 Vexing Devil
+2 Rancor
+2 Vexing Devil
+2 Experiment One
+3 Experiment One
+3 Rancor
+4 Experiment One
+1 Kiki-Jiki, Mirror Breaker
+1 Restoration Angel
+1 Magus of the Moon
+1 Eternal Witness
+1 Chord of Calling
+1 Eidolon of Rhetoric
+1 Selfless Spirit
+1 Grove of the Burnwillows
+1 Noble Hierarch
+1 Wall of Blossoms
+2 Eternal Witness
+2 Chord of Calling
+2 Restoration Angel
+2 Wall of Blossoms
+2 Noble Hierarch
+3 Chord of Calling
+3 Forest
+3 Voice of Resurgence
+3 Wall of Blossoms
+3 Seasoned Pyromancer
+3 Noble Hierarch
+3 Restoration Angel
+4 Chord of Calling
+4 Restoration Angel
+1 Huntmaster of the Fells
 1 Embercleave
 1 Castle Ardenvale
-1 Huntmaster of the Fells
 1 Batterskull
 1 Tranquil Thicket
 1 Forgotten Cave
@@ -158,40 +192,6 @@
 4 Simian Spirit Guide
 4 Karn, the Great Creator
 4 Stoneforge Mystic
-1 Dryad Arbor
-1 Rancor
-1 Experiment One
-1 Vexing Devil
-2 Rancor
-2 Vexing Devil
-2 Experiment One
-3 Experiment One
-3 Rancor
-4 Experiment One
-1 Kiki-Jiki, Mirror Breaker
-1 Restoration Angel
-1 Magus of the Moon
-1 Eternal Witness
-1 Chord of Calling
-1 Selfless Spirit
-1 Grove of the Burnwillows
-1 Noble Hierarch
-1 Eidolon of Rhetoric
-1 Wall of Blossoms
-2 Chord of Calling
-2 Eternal Witness
-2 Restoration Angel
-2 Wall of Blossoms
-2 Noble Hierarch
-3 Chord of Calling
-3 Forest
-3 Voice of Resurgence
-3 Wall of Blossoms
-3 Seasoned Pyromancer
-3 Restoration Angel
-3 Noble Hierarch
-4 Chord of Calling
-4 Restoration Angel
 1 Scalding Tarn
 2 Scalding Tarn
 3 Scalding Tarn

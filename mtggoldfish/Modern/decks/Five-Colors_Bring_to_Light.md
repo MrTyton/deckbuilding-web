@@ -37,6 +37,6 @@
 |*n*<sup>th</sup> copy|                                       Maindeck Card                                       |*n*<sup>th</sup> copy|                                     Sideboard Card                                      |
 |--------------------:|-------------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------|
 |                    1|[Wall of Omens](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=247400)   |                    1|[The Scarab God](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430834)|
-|                    2|[Wall of Omens](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=247400)   |                     |                                                                                         |
+|                    2|[Wall of Omens](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=247400)   |                    1|[Terminate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=176449)     |
 |                    1|[Once Upon a Time](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473131)|                     |                                                                                         |
 

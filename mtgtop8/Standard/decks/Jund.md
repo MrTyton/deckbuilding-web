@@ -32,21 +32,21 @@
 |--------------------:|----------------------------------------------------------------------------------------------|---------------------|--------------|
 |                    1|[Stormfist Crusader](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473165) |                     |              |
 |                    1|[Temple of Malady](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=380515)   |                     |              |
-|                    1|[Dreadhorde Arcanist](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461052)|                     |              |
-|                    1|[Giant Growth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129568)       |                     |              |
 |                    1|[Dreadhorde Butcher](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461121) |                     |              |
+|                    1|[Giant Growth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129568)       |                     |              |
 |                    1|[Assassin's Trophy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452902)  |                     |              |
 |                    1|[Shock](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129732)              |                     |              |
+|                    1|[Dreadhorde Arcanist](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461052)|                     |              |
 |                    1|[Fling](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426834)              |                     |              |
 |                    1|[Angrath's Rampage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461112)  |                     |              |
 |                    2|[Stormfist Crusader](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473165) |                     |              |
-|                    2|[Dreadhorde Arcanist](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461052)|                     |              |
 |                    2|[Giant Growth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129568)       |                     |              |
 |                    2|[Dreadhorde Butcher](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461121) |                     |              |
 |                    2|[Shock](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129732)              |                     |              |
 |                    2|[Angrath's Rampage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461112)  |                     |              |
 |                    2|[Fling](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426834)              |                     |              |
 |                    2|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)              |                     |              |
+|                    2|[Dreadhorde Arcanist](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461052)|                     |              |
 |                    2|[Temple of Malady](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=380515)   |                     |              |
 |                    3|[Giant Growth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129568)       |                     |              |
 |                    3|[Shock](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129732)              |                     |              |
