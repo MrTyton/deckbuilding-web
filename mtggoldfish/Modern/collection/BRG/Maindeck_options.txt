@@ -1,12 +1,5 @@
-1 Monstrous Carabid
-1 Swamp
-1 Beast Within
-1 Simian Spirit Guide
-1 Desert Cerodon
 1 Street Wraith
-2 Fulminator Mage
 2 Faerie Macabre
-2 Beast Within
 2 Swamp
 2 Archfiend of Ifnir
 2 Monstrous Carabid
@@ -16,24 +9,31 @@
 2 Living End
 2 Demonic Dread
 2 Street Wraith
-2 Desert Cerodon
-3 Fulminator Mage
-3 Beast Within
 3 Street Wraith
-3 Desert Cerodon
 3 Demonic Dread
 3 Simian Spirit Guide
 3 Violent Outburst
 3 Monstrous Carabid
 3 Horror of the Broken Lands
 3 Living End
-4 Fulminator Mage
-4 Desert Cerodon
 4 Demonic Dread
 4 Horror of the Broken Lands
 4 Monstrous Carabid
 4 Violent Outburst
 4 Street Wraith
+1 Blooming Marsh
+1 Fulminator Mage
+2 Blooming Marsh
+1 Beast Within
+1 Desert Cerodon
+2 Fulminator Mage
+2 Beast Within
+2 Desert Cerodon
+3 Fulminator Mage
+3 Beast Within
+3 Desert Cerodon
+4 Fulminator Mage
+4 Desert Cerodon
 1 Tarfire
 1 Scalding Tarn
 1 Mogg War Marshal
@@ -50,6 +50,7 @@
 4 Skirk Prospector
 1 Snow-Covered Swamp
 1 Snow-Covered Mountain
+2 Nurturing Peatland
 1 Snow-Covered Forest
 1 Verdant Catacombs
 1 Thoughtseize
@@ -88,6 +89,25 @@
 3 Putrid Goblin
 4 Munitions Expert
 4 Putrid Goblin
+1 Force of Vigor
+1 Llanowar Wastes
+1 Hollow One
+1 Karplusan Forest
+2 Force of Vigor
+2 Karplusan Forest
+2 Hollow One
+2 Llanowar Wastes
+3 Archfiend of Ifnir
+3 Faerie Macabre
+3 Force of Vigor
+3 Llanowar Wastes
+3 Karplusan Forest
+3 Hollow One
+4 Faerie Macabre
+4 Hollow One
+4 Archfiend of Ifnir
+4 Simian Spirit Guide
+4 Karplusan Forest
 1 Fiery Islet
 1 Krenko, Mob Boss
 3 Mountain
@@ -100,7 +120,6 @@
 1 Bloodbraid Elf
 1 Raging Ravine
 1 Grim Lavamancer
-2 Nurturing Peatland
 2 Prismatic Vista
 2 Goblin Rabblemaster
 2 Field of Ruin
@@ -125,9 +144,9 @@
 2 Wrenn and Six
 2 Mishra's Bauble
 2 Ghost Quarter
+3 Scavenging Ooze
 3 Wrenn and Six
 3 Assassin's Trophy
-3 Scavenging Ooze
 4 Wrenn and Six
 4 Verdant Catacombs
 4 Liliana of the Veil

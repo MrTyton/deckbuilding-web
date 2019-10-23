@@ -1,12 +1,12 @@
+1 Grim Lavamancer
+2 Grim Lavamancer
 1 Rest in Peace
 1 Deflecting Palm
 2 Rest in Peace
 1 Dragon's Claw
 2 Dragon's Claw
 3 Dragon's Claw
-1 Grim Lavamancer
 2 Searing Blood
-2 Grim Lavamancer
 1 Eidolon of the Great Revel
 2 Eidolon of the Great Revel
 3 Eidolon of the Great Revel
@@ -17,7 +17,6 @@
 1 Searing Blaze
 2 Searing Blaze
 1 Tormod's Crypt
-4 Kor Firewalker
 2 Tormod's Crypt
 1 Kozilek's Return
 1 Alpine Moon
@@ -27,6 +26,7 @@
 3 Searing Blaze
 4 Leyline of the Void
 3 Grim Lavamancer
+4 Kor Firewalker
 2 Kozilek's Return
 1 Relic of Progenitus
 2 Deflecting Palm
@@ -53,9 +53,9 @@
 3 Surgical Extraction
 3 Shrine of Burning Rage
 1 Dismember
+2 Relic of Progenitus
 1 Tocatli Honor Guard
 2 Tocatli Honor Guard
-2 Relic of Progenitus
 3 Tormod's Crypt
 1 Bonecrusher Giant
 2 Bonecrusher Giant
@@ -75,8 +75,8 @@
 1 Damping Sphere
 2 Damping Sphere
 2 Dismember
-3 Tocatli Honor Guard
 3 Wear/Tear
+3 Tocatli Honor Guard
 4 Bonecrusher Giant
 3 Grafdigger's Cage
 4 Grafdigger's Cage
