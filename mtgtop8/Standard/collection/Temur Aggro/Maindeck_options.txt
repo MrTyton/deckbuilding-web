@@ -3,6 +3,7 @@
 1 Temple of Mystery
 1 Hydroid Krasis
 2 Temple of Mystery
+2 Hydroid Krasis
 1 Shock
 1 Risen Reef
 1 Omnath, Locus of the Roil
@@ -11,7 +12,9 @@
 3 Risen Reef
 3 Omnath, Locus of the Roil
 4 Risen Reef
-2 Hydroid Krasis
+1 Nissa, Who Shakes the World
+2 Nissa, Who Shakes the World
+3 Nissa, Who Shakes the World
 3 Temple of Mystery
 1 Leafkin Druid
 1 Neoform
@@ -22,8 +25,8 @@
 3 Leafkin Druid
 3 Shock
 4 Leafkin Druid
-1 Castle Garenbrig
 1 Fabled Passage
+1 Castle Garenbrig
 1 Agent of Treachery
 1 Cavalier of Thorns
 2 Fabled Passage
@@ -32,12 +35,9 @@
 3 Cavalier of Thorns
 1 Lava Coil
 2 Lava Coil
-1 Nissa, Who Shakes the World
 1 Chandra, Awakened Inferno
 1 Flood of Tears
 1 Spark Double
-2 Nissa, Who Shakes the World
-3 Nissa, Who Shakes the World
 1 Gruul Spellbreaker
 1 Zhur-Taa Goblin
 2 Zhur-Taa Goblin
@@ -65,6 +65,16 @@
 4 Growth Spiral
 4 Field of the Dead
 4 Circuitous Route
+1 Paradise Druid
+1 Embercleave
+1 Voracious Hydra
+2 Paradise Druid
+2 Embercleave
+3 Paradise Druid
+3 Hydroid Krasis
+4 Paradise Druid
+4 Hydroid Krasis
+4 Temple of Epiphany
 1 Thunderkin Awakener
 1 Scampering Scorcher
 1 Creeping Trailblazer

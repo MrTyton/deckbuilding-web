@@ -2,22 +2,22 @@
 1 Bloodstained Mire
 1 Lava Spike
 2 Monastery Swiftspear
-2 Bloodstained Mire
 2 Lava Spike
+2 Bloodstained Mire
 3 Monastery Swiftspear
 3 Lava Spike
 4 Monastery Swiftspear
 4 Lava Spike
 1 Wooded Foothills
-1 Eidolon of the Great Revel
 1 Searing Blaze
+1 Eidolon of the Great Revel
 1 Skullcrack
 1 Rift Bolt
 1 Goblin Guide
 2 Wooded Foothills
 2 Searing Blaze
-2 Goblin Guide
 2 Eidolon of the Great Revel
+2 Goblin Guide
 2 Skullcrack
 2 Rift Bolt
 3 Wooded Foothills
@@ -85,9 +85,9 @@
 3 Vryn Wingmare
 3 Eldrazi Displacer
 3 Reality Smasher
-3 Battlefield Forge
-3 Gemstone Caverns
 3 Thought-Knot Seer
+3 Gemstone Caverns
+3 Battlefield Forge
 3 Suppression Field
 4 Eldrazi Temple
 4 Suppression Field
@@ -145,7 +145,6 @@
 1 Nahiri, the Harbinger
 1 Blessed Alliance
 1 Abrade
-1 Chalice of the Void
 1 Anger of the Gods
 1 Cast Out
 1 Gideon of the Trials
@@ -153,6 +152,7 @@
 1 Rugged Prairie
 1 Needle Spires
 1 Gideon Jura
+1 Chalice of the Void
 2 Blood Moon
 2 Gideon of the Trials
 2 Abrade

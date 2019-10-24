@@ -1,9 +1,16 @@
-4 Noble Hierarch
+4 Dryad Militant
+1 Hexdrinker
+2 Nurturing Peatland
+2 Hexdrinker
+3 Nurturing Peatland
+3 Hexdrinker
+4 Nurturing Peatland
+4 Hexdrinker
 1 Tranquil Thicket
+1 Hornet Queen
 1 Utopia Sprawl
 1 Acidic Slime
 1 Arbor Elf
-1 Hornet Queen
 2 Utopia Sprawl
 2 Arbor Elf
 3 Utopia Sprawl
@@ -17,11 +24,11 @@
 2 Acidic Slime
 3 Primal Command
 4 Primal Command
-1 Courser of Kruphix
 1 Karn, the Great Creator
 1 Birds of Paradise
 1 Walking Ballista
 1 Wooded Foothills
+1 Courser of Kruphix
 2 Karn, the Great Creator
 2 Wooded Foothills
 2 Walking Ballista
@@ -33,6 +40,10 @@
 3 Nykthos, Shrine to Nyx
 3 Garruk Wildspeaker
 4 Nykthos, Shrine to Nyx
+1 Questing Beast
+1 Waterlogged Grove
+2 Questing Beast
+2 Waterlogged Grove
 1 Nullhide Ferox
 1 Vine Mare
 2 Vine Mare
@@ -44,22 +55,11 @@
 2 Beast Within
 2 Garruk's Companion
 3 Garruk's Companion
-1 Hexdrinker
-1 Questing Beast
-1 Waterlogged Grove
-2 Nurturing Peatland
-2 Hexdrinker
-2 Questing Beast
-2 Waterlogged Grove
-3 Nurturing Peatland
-3 Hexdrinker
-4 Nurturing Peatland
-4 Hexdrinker
 1 Craterhoof Behemoth
 1 Once Upon a Time
+1 Misty Rainforest
 1 Nissa, Voice of Zendikar
 1 Ruric Thar, the Unbowed
-1 Misty Rainforest
 1 Summoner's Pact
 1 Windswept Heath
 1 Burning-Tree Emissary
@@ -76,8 +76,8 @@
 2 Oath of Nissa
 3 Once Upon a Time
 3 Windswept Heath
-3 Summoner's Pact
 3 Burning-Tree Emissary
+3 Summoner's Pact
 3 Oath of Nissa
 3 Wooded Foothills
 4 Burning-Tree Emissary
@@ -113,17 +113,34 @@
 2 Carven Caryatid
 2 Wistful Selkie
 3 Wall of Blossoms
-3 Acidic Slime
 3 Carven Caryatid
 3 Wistful Selkie
+3 Acidic Slime
 4 Wall of Blossoms
 4 Acidic Slime
 4 Carven Caryatid
 4 Wistful Selkie
-1 Leatherback Baloth
+1 Snow-Covered Forest
+1 Scavenging Ooze
+2 Snow-Covered Forest
+2 Scavenging Ooze
+2 Blossoming Defense
+3 Snow-Covered Forest
+4 Snow-Covered Forest
+5 Snow-Covered Forest
+6 Snow-Covered Forest
+7 Snow-Covered Forest
+8 Snow-Covered Forest
+9 Snow-Covered Forest
+10 Snow-Covered Forest
+11 Snow-Covered Forest
+12 Snow-Covered Forest
+13 Snow-Covered Forest
+14 Snow-Covered Forest
 1 Barkhide Troll
-2 Leatherback Baloth
+1 Leatherback Baloth
 2 Barkhide Troll
+2 Leatherback Baloth
 3 Leatherback Baloth
 3 Barkhide Troll
 4 Leatherback Baloth
