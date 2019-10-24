@@ -32,9 +32,9 @@
 |*n*<sup>th</sup> copy|                                       Maindeck Card                                       |*n*<sup>th</sup> copy|                                     Sideboard Card                                     |
 |--------------------:|-------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------|
 |                    1|[Spell Snare](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446100)     |                    1|[Jace's Defeat](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430727)|
-|                    2|[Logic Knot](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=126151)      |                    2|[Jace's Defeat](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430727)|
-|                    2|[Vendilion Clique](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442065)|                    3|[Jace's Defeat](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430727)|
+|                    2|[Vendilion Clique](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442065)|                    2|[Jace's Defeat](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430727)|
+|                    2|[Logic Knot](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=126151)      |                    3|[Jace's Defeat](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430727)|
+|                    2|[Spell Snare](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446100)     |                     |                                                                                        |
 |                    3|[Spell Snare](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446100)     |                     |                                                                                        |
 |                    3|[Logic Knot](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=126151)      |                     |                                                                                        |
-|                    2|[Spell Snare](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446100)     |                     |                                                                                        |
 

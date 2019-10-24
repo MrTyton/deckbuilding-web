@@ -1,14 +1,14 @@
 1 Horizon Canopy
-4 Path to Exile
-2 Deputy of Detention
+1 Deputy of Detention
 1 Razorverge Thicket
 3 Teferi, Time Raveler
-2 Temple Garden
+2 Deputy of Detention
 2 Hallowed Fountain
+2 Razorverge Thicket
+2 Temple Garden
 3 Deputy of Detention
 1 Waterlogged Grove
 1 Gavony Township
-2 Razorverge Thicket
 3 Prismatic Vista
 1 Arcum's Astrolabe
 2 Arcum's Astrolabe
@@ -32,10 +32,10 @@
 2 Gilded Goose
 1 Once Upon a Time
 1 Thought-Knot Seer
-1 Ancient Stirrings
 1 Reality Smasher
 1 Eldrazi Displacer
 1 Cavern of Souls
+1 Ancient Stirrings
 1 Yavimaya Coast
 1 Eldrazi Temple
 1 Brushland
@@ -85,8 +85,11 @@
 1 Reflector Mage
 2 Soulherder
 2 Knight of Autumn
+2 Breeding Pool
 3 Gilded Goose
 1 Brazen Borrower
+1 Field of Ruin
+2 Field of Ruin
 2 Forest
 1 Emrakul, the Promised End
 1 World Breaker
@@ -96,6 +99,14 @@
 1 Restoration Angel
 1 Teferi, Hero of Dominaria
 2 Restoration Angel
+1 Detention Sphere
+1 Winds of Abandon
+1 Tamiyo, Field Researcher
+1 Geist of Saint Traft
+2 Detention Sphere
+2 Geist of Saint Traft
+3 Field of Ruin
+3 Geist of Saint Traft
 1 Ephemerate
 1 Watcher for Tomorrow
 1 Renegade Rallier
@@ -104,14 +115,6 @@
 2 Eternal Witness
 2 Ephemerate
 3 Ephemerate
-1 Matter Reshaper
-2 Matter Reshaper
-3 Matter Reshaper
-3 Yavimaya Coast
-3 Brushland
-1 Hexdrinker
-1 Caustic Caterpillar
-3 Ranger-Captain of Eos
 1 Botanical Sanctum
 1 Mana Leak
 1 Moorland Haunt
@@ -119,51 +122,52 @@
 2 Mana Leak
 3 Birds of Paradise
 3 Mana Leak
+1 Hexdrinker
+1 Caustic Caterpillar
+3 Ranger-Captain of Eos
 1 Vendilion Clique
 1 Coiling Oracle
 1 Oust
-2 Breeding Pool
 2 Coiling Oracle
 2 Oust
 3 Soulherder
 3 Coiling Oracle
 3 Oust
+1 Matter Reshaper
+2 Matter Reshaper
+3 Matter Reshaper
+3 Yavimaya Coast
+3 Brushland
 1 Prairie Stream
 1 Canopy Vista
 1 Snapcaster Mage
 2 Horizon Canopy
 2 Snapcaster Mage
 4 Oko, Thief of Crowns
-1 Mishra's Bauble
 1 Mox Opal
-1 Urza, Lord High Artificer
 1 Emry, Lurker of the Loch
 1 Mox Amber
+1 Urza, Lord High Artificer
 1 Witching Well
 1 Thopter Foundry
 1 Sword of the Meek
-2 Mishra's Bauble
+1 Mishra's Bauble
 2 Mox Opal
 2 Urza, Lord High Artificer
 2 Emry, Lurker of the Loch
 2 Thopter Foundry
 2 Mox Amber
 2 Sword of the Meek
-3 Mishra's Bauble
+2 Mishra's Bauble
 3 Mox Opal
 3 Urza, Lord High Artificer
 3 Emry, Lurker of the Loch
 3 Thopter Foundry
-4 Mishra's Bauble
+3 Mishra's Bauble
 4 Mox Opal
 4 Urza, Lord High Artificer
 4 Gilded Goose
-1 Boreal Druid
-1 Engineered Explosives
-2 Boreal Druid
-2 Engineered Explosives
-3 Eldrazi Skyspawner
-4 Eldrazi Skyspawner
+4 Mishra's Bauble
 1 Knight of the Reliquary
 1 Tectonic Edge
 1 Shalai, Voice of Plenty
@@ -171,9 +175,7 @@
 1 Duskwatch Recruiter
 1 Devoted Druid
 1 Walking Ballista
-1 Field of Ruin
 1 Chord of Calling
-2 Field of Ruin
 2 Knight of the Reliquary
 2 Chord of Calling
 2 Tectonic Edge
@@ -186,16 +188,22 @@
 3 Vizier of Remedies
 4 Snow-Covered Forest
 4 Knight of the Reliquary
-4 Vizier of Remedies
 4 Devoted Druid
+4 Vizier of Remedies
 4 Chord of Calling
-1 Dryad Arbor
+1 Boreal Druid
+1 Engineered Explosives
+2 Boreal Druid
+2 Engineered Explosives
+3 Eldrazi Skyspawner
+4 Eldrazi Skyspawner
 1 Rancor
+1 Dryad Arbor
 1 Distortion Strike
+1 Mutagenic Growth
 1 Inkmoth Nexus
 1 Blighted Agent
 1 Vines of Vastwood
-1 Mutagenic Growth
 1 Wooded Foothills
 1 Blossoming Defense
 1 Groundswell
@@ -218,10 +226,10 @@
 3 Vines of Vastwood
 3 Mutagenic Growth
 3 Blighted Agent
+3 Blossoming Defense
 3 Might of Old Krosa
 3 Scale Up
 3 Glistener Elf
-3 Blossoming Defense
 3 Inkmoth Nexus
 3 Wooded Foothills
 4 Mutagenic Growth
