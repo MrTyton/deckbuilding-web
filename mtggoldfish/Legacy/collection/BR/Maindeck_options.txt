@@ -1,8 +1,9 @@
-1 Grenzo, Havoc Raiser
+1 Volrath's Stronghold
 1 Cabal Therapy
 1 Earwig Squad
 1 Snow-Covered Swamp
 2 Bloodstained Mire
+2 Badlands
 2 Prismatic Vista
 2 Mogg Fanatic
 2 Mogg War Marshal
@@ -11,15 +12,14 @@
 2 Warren Weirding
 2 Munitions Expert
 2 Goblin Ringleader
-2 Badlands
 2 Cabal Therapy
 2 Grenzo, Havoc Raiser
 2 Gempalm Incinerator
 2 Aether Vial
 2 Cavern of Souls
+3 Badlands
 3 Bloodstained Mire
 3 Mogg War Marshal
-3 Badlands
 3 Goblin Ringleader
 3 Munitions Expert
 3 Cavern of Souls
@@ -63,9 +63,9 @@
 2 Karn, the Great Creator
 2 Chandra, Awakened Inferno
 2 Trinisphere
-2 Abrade
-2 Ensnaring Bridge
 2 Fiery Confluence
+2 Ensnaring Bridge
+2 Abrade
 2 Chandra, Torch of Defiance
 3 Karn, the Great Creator
 3 Chandra, Awakened Inferno
@@ -79,46 +79,46 @@
 6 Mountain
 7 Mountain
 8 Mountain
+1 Pyrostatic Pillar
 1 Lightning Bolt
-1 Goblin Guide
-1 Monastery Swiftspear
-1 Exquisite Firecraft
 1 Eidolon of the Great Revel
 1 Fireblast
 1 Chain Lightning
 1 Price of Progress
 1 Searing Blood
 1 Rift Bolt
-1 Pyrostatic Pillar
 1 Skewer the Critics
+1 Monastery Swiftspear
+1 Exquisite Firecraft
+1 Goblin Guide
 2 Searing Blood
-2 Goblin Guide
-2 Monastery Swiftspear
-2 Exquisite Firecraft
-2 Eidolon of the Great Revel
+2 Pyrostatic Pillar
 2 Chain Lightning
 2 Price of Progress
 2 Fireblast
-2 Pyrostatic Pillar
+2 Monastery Swiftspear
+2 Goblin Guide
+2 Eidolon of the Great Revel
+2 Exquisite Firecraft
 2 Lightning Bolt
 2 Skewer the Critics
 2 Rift Bolt
-3 Goblin Guide
-3 Monastery Swiftspear
-3 Eidolon of the Great Revel
-3 Lightning Bolt
-3 Rift Bolt
 3 Pyrostatic Pillar
+3 Lightning Bolt
+3 Eidolon of the Great Revel
+3 Rift Bolt
+3 Monastery Swiftspear
 3 Exquisite Firecraft
+3 Goblin Guide
 3 Fireblast
 3 Price of Progress
 3 Chain Lightning
-4 Goblin Guide
-4 Monastery Swiftspear
-4 Eidolon of the Great Revel
 4 Chain Lightning
+4 Eidolon of the Great Revel
 4 Rift Bolt
+4 Monastery Swiftspear
 4 Lightning Bolt
+4 Goblin Guide
 4 Exquisite Firecraft
 7 Snow-Covered Mountain
 8 Snow-Covered Mountain

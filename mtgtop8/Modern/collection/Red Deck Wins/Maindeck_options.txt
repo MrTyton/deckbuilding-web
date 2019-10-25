@@ -1,15 +1,17 @@
-3 Bloodstained Mire
 2 Arid Mesa
+3 Bloodstained Mire
 2 Skullcrack
-3 Wooded Foothills
 4 Bloodstained Mire
+1 Scalding Tarn
+2 Scalding Tarn
+3 Wooded Foothills
 4 Mountain
 5 Mountain
 6 Mountain
+2 Fiery Islet
 1 Light Up the Stage
 1 Soul-Scar Mage
 1 Lava Dart
-2 Fiery Islet
 2 Light Up the Stage
 2 Lava Dart
 2 Soul-Scar Mage
@@ -25,6 +27,10 @@
 11 Mountain
 12 Mountain
 4 Lava Dart
+4 Wooded Foothills
+3 Skullcrack
+3 Fiery Islet
+4 Fiery Islet
 1 Bedlam Reveler
 1 Crash Through
 1 Manamorphose
@@ -32,31 +38,25 @@
 2 Manamorphose
 2 Crash Through
 3 Manamorphose
-3 Crash Through
 4 Manamorphose
-4 Crash Through
-4 Wooded Foothills
-1 Scalding Tarn
-2 Scalding Tarn
-1 Burst Lightning
-3 Bedlam Reveler
 13 Mountain
-14 Mountain
-1 Snow-Covered Mountain
-2 Snow-Covered Mountain
-3 Snow-Covered Mountain
 1 Seal of Fire
 2 Seal of Fire
 3 Seal of Fire
-3 Fiery Islet
 4 Seal of Fire
-4 Fiery Islet
 1 Grim Lavamancer
+1 Snow-Covered Mountain
+2 Snow-Covered Mountain
+3 Snow-Covered Mountain
 3 Arid Mesa
 1 Shard Volley
-3 Skullcrack
-4 Snow-Covered Mountain
-1 Mutagenic Growth
+1 Burst Lightning
+3 Bedlam Reveler
+3 Crash Through
+4 Crash Through
+14 Mountain
+1 Forked Bolt
+2 Forked Bolt
 3 Scalding Tarn
 4 Scalding Tarn
 2 Shard Volley
@@ -68,33 +68,19 @@
 2 Burst Lightning
 2 Runaway Steam-Kin
 3 Runaway Steam-Kin
-1 Warlord's Fury
-2 Warlord's Fury
-3 Warlord's Fury
-4 Bedlam Reveler
-4 Warlord's Fury
-1 Blistercoil Weird
-1 Seasoned Pyromancer
-1 Gut Shot
-2 Blistercoil Weird
-2 Mutagenic Growth
-2 Gut Shot
-3 Mutagenic Growth
-5 Snow-Covered Mountain
-6 Snow-Covered Mountain
-7 Snow-Covered Mountain
-8 Snow-Covered Mountain
-9 Snow-Covered Mountain
-10 Snow-Covered Mountain
-11 Snow-Covered Mountain
-12 Snow-Covered Mountain
-13 Snow-Covered Mountain
-14 Snow-Covered Mountain
+1 Deflecting Palm
+4 Skullcrack
+4 Arid Mesa
 1 Kiln Fiend
-1 Forked Bolt
 1 Maximize Velocity
 2 Kiln Fiend
-2 Forked Bolt
 3 Kiln Fiend
 15 Mountain
-4 Arid Mesa
+1 Blistercoil Weird
+1 Finale of Promise
+1 Gut Shot
+2 Blistercoil Weird
+2 Gut Shot
+3 Blistercoil Weird
+3 Gut Shot
+4 Blistercoil Weird

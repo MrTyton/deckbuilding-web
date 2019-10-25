@@ -1,4 +1,5 @@
 1 Flooded Strand
+1 Misty Rainforest
 1 Faerie Conclave
 1 Logic Knot
 1 Brineborn Cutthroat
@@ -8,7 +9,6 @@
 1 Opt
 1 Piracy Charm
 1 Archmage's Charm
-1 Misty Rainforest
 2 Misty Rainforest
 2 Faerie Conclave
 2 Vendilion Clique
@@ -21,12 +21,12 @@
 2 Flooded Strand
 3 Spell Snare
 3 Archmage's Charm
-3 Force of Negation
 3 Flooded Strand
 3 Faerie Conclave
 3 Brineborn Cutthroat
 3 Misty Rainforest
 3 Dismember
+3 Force of Negation
 3 Opt
 3 Piracy Charm
 4 Cryptic Command
@@ -96,6 +96,7 @@
 1 Forest
 1 Seasoned Pyromancer
 1 Wooded Foothills
+1 Molten Vortex
 1 Ghost Quarter
 1 Blood Moon
 1 Forgotten Cave
@@ -108,12 +109,12 @@
 1 Young Pyromancer
 1 Flame Jab
 1 Fire-Lit Thicket
-1 Molten Vortex
 1 Magmatic Insight
 1 Stomping Ground
 1 Life from the Loam
 2 Seasoned Pyromancer
 2 Wooded Foothills
+2 Molten Vortex
 2 Stomping Ground
 2 Windswept Heath
 2 Mountain
@@ -125,7 +126,6 @@
 2 Fire-Lit Thicket
 2 Wrenn and Six
 2 Young Pyromancer
-2 Molten Vortex
 2 Flame Jab
 2 Life from the Loam
 2 Commune with the Gods

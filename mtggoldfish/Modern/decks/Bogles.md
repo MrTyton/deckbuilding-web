@@ -78,7 +78,7 @@
 |                    3|[All That Glitters](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472964)      |                    2|[Suspension Field](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386682)       |
 |                    4|[All That Glitters](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472964)      |                    4|[Leyline of Sanctity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=204993)    |
 |                    2|[Suppression Field](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=83617)       |                    3|[Deafening Silence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472972)      |
-|                    4|[Hyena Umbra](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=271150)            |                    4|[Deafening Silence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472972)      |
-|                    4|[Gryff's Boon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409758)           |                    4|[Pithing Needle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129526)         |
+|                    4|[Hyena Umbra](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=271150)            |                    4|[Pithing Needle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129526)         |
+|                    4|[Gryff's Boon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409758)           |                    4|[Deafening Silence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472972)      |
 |                     |                                                                                                  |                    4|[Seal of Primordium](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425960)     |
 
