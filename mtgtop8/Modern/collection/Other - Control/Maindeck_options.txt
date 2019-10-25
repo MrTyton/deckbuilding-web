@@ -1,12 +1,12 @@
 1 Flooded Strand
 1 Faerie Conclave
 1 Logic Knot
-1 Piracy Charm
 1 Brineborn Cutthroat
 1 Mana Leak
 1 Dismember
 1 Summary Dismissal
 1 Opt
+1 Piracy Charm
 1 Archmage's Charm
 1 Misty Rainforest
 2 Misty Rainforest
@@ -44,11 +44,11 @@
 1 Charming Prince
 1 Wall of Omens
 1 Sun Titan
-1 Ranger-Captain of Eos
 1 Crucible of Worlds
 1 Prismatic Vista
 1 Arid Mesa
 1 Kami of False Hope
+1 Ranger-Captain of Eos
 1 Marsh Flats
 1 Wrath of God
 1 Winds of Abandon
@@ -62,13 +62,13 @@
 2 Charming Prince
 2 Wall of Omens
 2 Thraben Inspector
-2 Ranger-Captain of Eos
 2 Winds of Abandon
+2 Wrath of God
+2 Ranger-Captain of Eos
 2 Brought Back
 2 Sun Titan
 2 Flickerwisp
 2 Path to Exile
-2 Wrath of God
 2 Emeria, the Sky Ruin
 3 Ranger-Captain of Eos
 3 Thraben Inspector
@@ -96,28 +96,26 @@
 1 Forest
 1 Seasoned Pyromancer
 1 Wooded Foothills
-1 Wrenn and Six
-1 Molten Vortex
 1 Ghost Quarter
 1 Blood Moon
 1 Forgotten Cave
 1 Mountain
 1 Seismic Assault
 1 Commune with the Gods
+1 Wrenn and Six
 1 Lightning Bolt
 1 Raging Ravine
 1 Young Pyromancer
 1 Flame Jab
 1 Fire-Lit Thicket
+1 Molten Vortex
 1 Magmatic Insight
 1 Stomping Ground
 1 Life from the Loam
 2 Seasoned Pyromancer
 2 Wooded Foothills
-2 Molten Vortex
 2 Stomping Ground
 2 Windswept Heath
-2 Wrenn and Six
 2 Mountain
 2 Blood Moon
 2 Ghost Quarter
@@ -125,7 +123,9 @@
 2 Forest
 2 Forgotten Cave
 2 Fire-Lit Thicket
+2 Wrenn and Six
 2 Young Pyromancer
+2 Molten Vortex
 2 Flame Jab
 2 Life from the Loam
 2 Commune with the Gods
@@ -133,21 +133,21 @@
 2 Seismic Assault
 3 Wooded Foothills
 3 Young Pyromancer
-3 Ghost Quarter
 3 Blood Moon
-3 Wrenn and Six
+3 Ghost Quarter
+3 Mountain
 3 Commune with the Gods
+3 Wrenn and Six
 3 Lightning Bolt
 3 Molten Vortex
 3 Magmatic Insight
 3 Forgotten Cave
 3 Life from the Loam
 3 Seismic Assault
-3 Mountain
 4 Wooded Foothills
 4 Ghost Quarter
 4 Young Pyromancer
-4 Lightning Bolt
 4 Mountain
+4 Lightning Bolt
 4 Forgotten Cave
 4 Life from the Loam

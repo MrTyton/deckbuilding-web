@@ -1,10 +1,10 @@
-1 Domri, Anarch of Bolas
-2 Domri, Anarch of Bolas
+1 Bonecrusher Giant
+2 Bonecrusher Giant
 1 Temple of Mystery
 1 Hydroid Krasis
 2 Temple of Mystery
 2 Hydroid Krasis
-1 Shock
+3 Temple of Mystery
 1 Risen Reef
 1 Omnath, Locus of the Roil
 2 Omnath, Locus of the Roil
@@ -15,43 +15,49 @@
 1 Nissa, Who Shakes the World
 2 Nissa, Who Shakes the World
 3 Nissa, Who Shakes the World
-3 Temple of Mystery
 1 Leafkin Druid
-1 Neoform
-1 Cloudkin Seer
 2 Leafkin Druid
-2 Shock
-2 Neoform
 3 Leafkin Druid
-3 Shock
 4 Leafkin Druid
-1 Fabled Passage
-1 Agent of Treachery
-1 Castle Garenbrig
 1 Cavalier of Thorns
-2 Fabled Passage
 2 Cavalier of Thorns
-3 Fabled Passage
 3 Cavalier of Thorns
 1 Lava Coil
 2 Lava Coil
+1 Shock
+3 Hydroid Krasis
+4 Hydroid Krasis
 1 Chandra, Awakened Inferno
+4 Omnath, Locus of the Roil
+1 Neoform
+1 Cloudkin Seer
+2 Shock
+2 Neoform
+3 Shock
+1 Fabled Passage
+1 Agent of Treachery
+1 Castle Garenbrig
+2 Fabled Passage
+3 Fabled Passage
 1 Flood of Tears
 1 Spark Double
 1 Gruul Spellbreaker
 1 Zhur-Taa Goblin
 2 Zhur-Taa Goblin
+1 Castle Vantress
+1 Living Twister
+2 Living Twister
 3 Domri, Anarch of Bolas
 3 Bonecrusher Giant
 4 Bonecrusher Giant
-1 Plaza of Harmony
 1 Beanstalk Giant
 1 Growth Spiral
 1 Escape to the Wilds
-1 Gruul Guildgate
 1 Field of the Dead
 1 Izzet Guildgate
+1 Plaza of Harmony
 1 Temple Garden
+1 Gruul Guildgate
 1 Simic Guildgate
 1 Circuitous Route
 2 Field of the Dead
@@ -71,8 +77,6 @@
 2 Paradise Druid
 2 Embercleave
 3 Paradise Druid
-3 Hydroid Krasis
-4 Hydroid Krasis
 4 Paradise Druid
 4 Temple of Epiphany
 1 Thunderkin Awakener
@@ -90,5 +94,4 @@
 4 Thunderkin Awakener
 4 Temple of Mystery
 4 Neoform
-4 Omnath, Locus of the Roil
 4 Cloudkin Seer

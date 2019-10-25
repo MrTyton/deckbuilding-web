@@ -1,10 +1,69 @@
 3 Yavimaya Coast
 3 Snow-Covered Island
-3 Twiddle
 3 Botanical Sanctum
+3 Twiddle
 4 Yavimaya Coast
 4 Snow-Covered Island
 4 Botanical Sanctum
+1 Temple Garden
+1 Misty Rainforest
+1 Snow-Covered Forest
+1 Minamo, School at Water's Edge
+1 Grinding Station
+1 Polluted Delta
+1 Flooded Strand
+1 Mishra's Bauble
+1 Breeding Pool
+1 Snow-Covered Plains
+1 Urborg, Tomb of Yawgmoth
+1 Engineered Explosives
+1 Marsh Flats
+1 Mox Opal
+1 Hope of Ghirapur
+1 Unearth
+1 Prismatic Vista
+1 Teferi, Time Raveler
+1 Emry, Lurker of the Loch
+1 Mox Amber
+1 Jace, Wielder of Mysteries
+1 Watery Grave
+1 Arcum's Astrolabe
+1 Once Upon a Time
+1 Sai, Master Thopterist
+1 Kethis, the Hidden Hand
+1 Snow-Covered Swamp
+2 Once Upon a Time
+2 Flooded Strand
+2 Mishra's Bauble
+2 Unearth
+2 Mox Opal
+2 Prismatic Vista
+2 Engineered Explosives
+2 Teferi, Time Raveler
+2 Hope of Ghirapur
+2 Arcum's Astrolabe
+2 Emry, Lurker of the Loch
+2 Grinding Station
+2 Kethis, the Hidden Hand
+2 Sai, Master Thopterist
+2 Mox Amber
+3 Mishra's Bauble
+3 Unearth
+3 Prismatic Vista
+3 Mox Opal
+3 Teferi, Time Raveler
+3 Grinding Station
+3 Kethis, the Hidden Hand
+3 Mox Amber
+3 Emry, Lurker of the Loch
+3 Arcum's Astrolabe
+4 Mox Amber
+4 Mishra's Bauble
+4 Arcum's Astrolabe
+4 Kethis, the Hidden Hand
+4 Emry, Lurker of the Loch
+4 Grinding Station
+4 Mox Opal
 1 Shivan Reef
 1 Shimmer of Possibility
 1 Spirebluff Canal
@@ -23,23 +82,22 @@
 2 Stomping Ground
 2 Lightning Bolt
 3 Lightning Bolt
-1 Temple Garden
 1 Magus of the Moon
 1 Eladamri's Call
 1 Noble Hierarch
 1 Fauna Shaman
 1 Collector Ouphe
 1 Scavenging Ooze
-1 Fire-Lit Thicket
 1 Knight of Autumn
+1 Fire-Lit Thicket
 1 Arid Mesa
 1 Cavern of Souls
 1 Rampaging Ferocidon
 1 Steel Leaf Champion
 1 Eldritch Evolution
 1 Ghalta, Primal Hunger
-1 Glorybringer
 1 Tireless Tracker
+1 Glorybringer
 1 Windswept Heath
 1 Impervious Greatwurm
 1 Wooded Foothills
@@ -60,9 +118,9 @@
 2 Wooded Foothills
 2 Eldritch Evolution
 2 Impervious Greatwurm
+2 Strangleroot Geist
 2 Birds of Paradise
 2 Cragganwick Cremator
-2 Strangleroot Geist
 3 Noble Hierarch
 3 Strangleroot Geist
 3 Steel Leaf Champion
@@ -85,15 +143,15 @@
 1 Goblin Instigator
 1 Skirk Prospector
 1 Voracious Dragon
-1 Mogg War Marshal
-1 Wild Cantor
 1 Empty the Warrens
+1 Mogg War Marshal
 1 Dragon Fodder
+1 Wild Cantor
 1 Battle Hymn
 1 Infernal Plunge
 2 Mountain
-2 Karplusan Forest
 2 Wild Cantor
+2 Karplusan Forest
 2 Commune with the Gods
 2 Magmatic Insight
 2 Empty the Warrens
@@ -102,8 +160,8 @@
 2 Mogg War Marshal
 2 Skirk Prospector
 2 Goblin Instigator
-3 Karplusan Forest
 3 Mountain
+3 Karplusan Forest
 3 Commune with the Gods
 3 Fecundity
 3 Mogg War Marshal
@@ -112,7 +170,6 @@
 3 Empty the Warrens
 3 Wild Cantor
 3 Skirk Prospector
-4 Mogg War Marshal
 4 Stomping Ground
 4 Karplusan Forest
 4 Mountain
@@ -121,6 +178,7 @@
 4 Commune with the Gods
 4 Wild Cantor
 4 Skirk Prospector
+4 Mogg War Marshal
 4 Fecundity
 5 Mountain
 6 Mountain

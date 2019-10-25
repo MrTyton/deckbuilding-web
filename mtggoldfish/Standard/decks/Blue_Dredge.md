@@ -22,3 +22,15 @@
 |3 [Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020) |                                                                                                       |
 |1 [Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)           |                                                                                                       |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|Maindeck Card|*n*<sup>th</sup> copy|                                       Sideboard Card                                       |
+|---------------------|-------------|--------------------:|--------------------------------------------------------------------------------------------|
+|                     |             |                    1|[Brazen Borrower](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473001)  |
+|                     |             |                    1|[Vantress Gargoyle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473033)|
+|                     |             |                    2|[Vantress Gargoyle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473033)|
+|                     |             |                    2|[Brazen Borrower](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473001)  |
+|                     |             |                    3|[Brazen Borrower](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473001)  |
+|                     |             |                    3|[Vantress Gargoyle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473033)|
+

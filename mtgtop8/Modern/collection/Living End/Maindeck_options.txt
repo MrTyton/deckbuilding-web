@@ -29,9 +29,9 @@
 1 Curator of Mysteries
 1 Steam Vents
 1 Striped Riverwinder
-2 Steam Vents
-2 Spirebluff Canal
 2 Striped Riverwinder
+2 Spirebluff Canal
+2 Steam Vents
 2 Curator of Mysteries
 3 Striped Riverwinder
 3 Curator of Mysteries
@@ -39,9 +39,9 @@
 4 Curator of Mysteries
 3 Spirebluff Canal
 1 Fiery Islet
+1 Scalding Tarn
 1 Remand
 1 Izzet Charm
-1 Scalding Tarn
 1 Crashing Footfalls
 1 As Foretold
 1 Electrodominance
@@ -50,21 +50,21 @@
 2 Mountain
 2 Cascade Bluffs
 2 Fiery Islet
+2 Scalding Tarn
 2 Remand
 2 Izzet Charm
 2 Crashing Footfalls
 2 As Foretold
 2 Island
-2 Scalding Tarn
 2 Electrodominance
 3 Crashing Footfalls
 3 Electrodominance
 3 Scalding Tarn
 3 As Foretold
-4 Spirebluff Canal
 4 Crashing Footfalls
 4 Living End
 4 Electrodominance
+4 Spirebluff Canal
 1 Flooded Strand
 1 Misty Rainforest
 1 Temple Garden
@@ -117,8 +117,8 @@
 1 Cryptic Command
 2 Cryptic Command
 3 Remand
-3 Island
 3 Cryptic Command
+3 Island
 4 Remand
 4 As Foretold
 4 Scalding Tarn
