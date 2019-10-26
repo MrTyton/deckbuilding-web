@@ -36,6 +36,6 @@
 |                    3|[Cryptic Command](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438614)    |                    1|[Plague Engineer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464049)    |
 |                    3|[Creeping Tar Pit](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457138)   |                    2|[Dispel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401858)             |
 |                    3|[Mistbind Clique](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=141825)    |                    2|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|
-|                    4|[Fatal Push](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423724)         |                    2|[Plague Engineer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464049)    |
-|                    3|[Secluded Glen](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=153458)      |                    3|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|
+|                    4|[Fatal Push](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423724)         |                    3|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|
+|                    3|[Secluded Glen](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=153458)      |                    2|[Plague Engineer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464049)    |
 

@@ -1,7 +1,10 @@
+1 Grafdigger's Cage
 1 Spellskite
-1 Pithing Needle
 1 Sorcerous Spyglass
 1 Witchbane Orb
+1 Mindslaver
+1 Spell Snare
+1 Thought-Knot Seer
 1 Spreading Seas
 2 Spreading Seas
 3 Spreading Seas
@@ -9,16 +12,10 @@
 2 Commandeer
 1 Engineered Explosives
 2 Chalice of the Void
-1 Mindslaver
-1 Spell Snare
-1 Thought-Knot Seer
 2 Thought-Knot Seer
-1 Ugin, the Spirit Dragon
-2 Ensnaring Bridge
-3 Ensnaring Bridge
 3 Spatial Contortion
+1 Ugin, the Spirit Dragon
 2 Grafdigger's Cage
-1 Nimble Obstructionist
 1 Aetherspouts
 1 Phyrexian Metamorph
 1 Tectonic Edge
@@ -27,6 +24,9 @@
 1 Hurkyl's Recall
 2 Hurkyl's Recall
 1 Surgical Extraction
+2 Ensnaring Bridge
+3 Ensnaring Bridge
+1 Nimble Obstructionist
 1 Ceremonious Rejection
 2 Ceremonious Rejection
 1 Silent Arbiter
@@ -45,8 +45,6 @@
 2 Surgical Extraction
 1 Torpor Orb
 2 Walking Ballista
-2 Nimble Obstructionist
-3 Nimble Obstructionist
 3 Dismember
 3 Commandeer
 1 Leyline of the Void

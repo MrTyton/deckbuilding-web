@@ -4,25 +4,21 @@
 2 Oko, Thief of Crowns
 2 Watery Grave
 1 Overgrown Tomb
-1 Prismatic Vista
 2 Overgrown Tomb
 1 Verdant Catacombs
 2 Verdant Catacombs
 1 Bloodstained Mire
 1 Merfolk Secretkeeper
 1 Stitcher's Supplier
-1 Glimpse the Unthinkable
 1 Gravecrawler
 1 Narcomoeba
+1 Glimpse the Unthinkable
 1 Hedron Crab
 1 Once Upon a Time
 1 Vengevine
-1 Carrion Feeder
 1 Creeping Chill
 1 Prized Amalgam
-2 Once Upon a Time
 2 Merfolk Secretkeeper
-2 Carrion Feeder
 2 Bloodstained Mire
 2 Vengevine
 2 Glimpse the Unthinkable
@@ -32,7 +28,6 @@
 2 Prized Amalgam
 2 Hedron Crab
 2 Narcomoeba
-3 Once Upon a Time
 3 Hedron Crab
 3 Vengevine
 3 Prized Amalgam
@@ -44,32 +39,29 @@
 3 Gravecrawler
 3 Verdant Catacombs
 4 Verdant Catacombs
-4 Once Upon a Time
 4 Vengevine
+4 Prized Amalgam
 4 Gravecrawler
 4 Narcomoeba
 4 Creeping Chill
 4 Hedron Crab
-4 Prized Amalgam
 4 Stitcher's Supplier
-4 Glimpse the Unthinkable
+1 Prismatic Vista
 2 Field of Ruin
+1 Swamp
 3 Arcum's Astrolabe
 3 Oko, Thief of Crowns
-1 Swamp
+1 Jace, the Mind Sculptor
 1 Inquisition of Kozilek
 1 Tarmogoyf
-1 Jace, the Mind Sculptor
 1 Thoughtseize
+2 Jace, the Mind Sculptor
 2 Tarmogoyf
 2 Thoughtseize
-2 Jace, the Mind Sculptor
 2 Inquisition of Kozilek
 3 Tarmogoyf
 4 Tarmogoyf
 2 Snow-Covered Swamp
-1 Botanical Sanctum
-2 Force of Negation
 1 Ice-Fang Coatl
 2 Ice-Fang Coatl
 3 Ice-Fang Coatl
@@ -78,23 +70,36 @@
 3 Prismatic Vista
 4 Arcum's Astrolabe
 4 Prismatic Vista
-1 Nexus of Fate
-4 Snow-Covered Island
-1 Birds of Paradise
-2 Birds of Paradise
-1 Darkslick Shores
-2 Darkslick Shores
-3 Merfolk Secretkeeper
 1 Jace, Vryn's Prodigy
 1 Dead of Winter
 1 Liliana of the Veil
 2 Snow-Covered Forest
 2 Liliana of the Veil
 3 Field of Ruin
-3 Inquisition of Kozilek
-1 Counterbalance
 2 Flooded Strand
+1 Carrion Feeder
+2 Carrion Feeder
+2 Once Upon a Time
+3 Once Upon a Time
+4 Once Upon a Time
+4 Glimpse the Unthinkable
+1 Darkslick Shores
+2 Darkslick Shores
+3 Merfolk Secretkeeper
+1 Memory Sluice
+2 Memory Sluice
+3 Bloodstained Mire
+1 Botanical Sanctum
+2 Force of Negation
+1 Nexus of Fate
+4 Snow-Covered Island
+1 Birds of Paradise
+2 Birds of Paradise
+1 Tyrant's Scorn
+1 Counterbalance
 3 Flooded Strand
+3 Inquisition of Kozilek
+3 Overgrown Tomb
 1 Maelstrom Pulse
 1 Tasigur, the Golden Fang
 1 Forest
@@ -102,20 +107,21 @@
 2 Swamp
 3 Thoughtseize
 3 Island
-1 Memory Sluice
-2 Memory Sluice
-3 Overgrown Tomb
-3 Bloodstained Mire
+1 Gurmag Angler
+2 Gurmag Angler
+3 Gurmag Angler
+4 Merfolk Secretkeeper
+4 Cryptic Command
 1 Bitterblossom
 1 Brazen Borrower
 1 Gilded Goose
 1 Ingenious Infiltrator
-1 Vendilion Clique
 1 Faerie Seer
+1 Vendilion Clique
 1 Spellstutter Sprite
+2 Vendilion Clique
 2 Gilded Goose
 2 Ingenious Infiltrator
-2 Vendilion Clique
 2 Bitterblossom
 2 Botanical Sanctum
 2 Faerie Seer
@@ -152,7 +158,6 @@
 4 Growth Spiral
 1 Waterlogged Grove
 1 Sai, Master Thopterist
-1 Engineered Explosives
 1 Saheeli, Sublime Artificer
 1 Paradoxical Outcome
 1 Mox Amber
@@ -160,6 +165,7 @@
 1 Everflowing Chalice
 1 Mox Opal
 1 Urza, Lord High Artificer
+1 Engineered Explosives
 1 Witching Well
 1 Mishra's Bauble
 2 Waterlogged Grove
@@ -182,7 +188,7 @@
 3 Urza, Lord High Artificer
 4 Urza, Lord High Artificer
 4 Mishra's Bauble
-4 Mox Opal
 4 Paradoxical Outcome
+4 Mox Opal
 4 Everflowing Chalice
 4 Birds of Paradise
