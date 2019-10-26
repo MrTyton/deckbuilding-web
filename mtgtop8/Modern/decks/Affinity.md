@@ -86,8 +86,8 @@
 |                    2|[Sea Gate Wreckage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407687)        |                     |                                                                                                |
 |                    2|[Lupine Prototype](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414504)         |                     |                                                                                                |
 |                    2|[Throne of the God-Pharaoh](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426939)|                     |                                                                                                |
-|                    3|[Sea Gate Wreckage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407687)        |                     |                                                                                                |
 |                    3|[Frogmite](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=222856)                 |                     |                                                                                                |
+|                    3|[Sea Gate Wreckage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407687)        |                     |                                                                                                |
 |                    4|[Frogmite](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=222856)                 |                     |                                                                                                |
 |                    4|[Sea Gate Wreckage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407687)        |                     |                                                                                                |
 

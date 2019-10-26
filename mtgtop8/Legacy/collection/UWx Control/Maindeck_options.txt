@@ -1,31 +1,30 @@
 1 Spell Snare
 1 Counterbalance
+1 Terminus
 2 Tundra
 3 Jace, the Mind Sculptor
-1 Back to Basics
-1 Terminus
-1 Counterspell
 2 Terminus
 3 Terminus
-1 Karakas
+1 Back to Basics
 1 Island
 1 Plains
 2 Island
 3 Island
 4 Island
 5 Island
-3 Scalding Tarn
-2 Counterbalance
+1 Karakas
 2 Plains
+3 Scalding Tarn
 1 Portent
-2 Portent
 1 Dovin's Veto
+2 Counterbalance
+1 Counterspell
+2 Portent
 3 Counterbalance
 1 Polluted Delta
 2 Polluted Delta
 2 Dovin's Veto
 1 Arid Mesa
-2 Back to Basics
 1 Entreat the Angels
 1 Predict
 2 Predict
@@ -37,6 +36,7 @@
 2 Accumulated Knowledge
 3 Accumulated Knowledge
 4 Accumulated Knowledge
+6 Island
 1 Misty Rainforest
 6 Snow-Covered Island
 1 Mountain
@@ -44,10 +44,10 @@
 1 Preordain
 1 Steam Vents
 1 Hallowed Fountain
-1 True-Name Nemesis
 2 Mystic Sanctuary
 1 Engineered Explosives
 2 Entreat the Angels
+2 Back to Basics
 1 Opt
 1 Mystical Dispute
 2 Opt
@@ -94,4 +94,7 @@
 4 Rest in Peace
 4 Energy Field
 4 Arcum's Astrolabe
-6 Island
+2 Spell Snare
+3 Plains
+4 Snapcaster Mage
+7 Island

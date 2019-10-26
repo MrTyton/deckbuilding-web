@@ -80,6 +80,6 @@
 |                     |                                                                                                     |                    4|[Oko, Thief of Crowns](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473159)     |
 |                     |                                                                                                     |                    2|[Wear/Tear](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=368950)                |
 |                     |                                                                                                     |                    3|[Wear/Tear](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=368950)                |
-|                     |                                                                                                     |                    4|[Teferi, Time Raveler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461148)     |
 |                     |                                                                                                     |                    4|[Galvanic Blast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442781)           |
+|                     |                                                                                                     |                    4|[Teferi, Time Raveler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461148)     |
 
