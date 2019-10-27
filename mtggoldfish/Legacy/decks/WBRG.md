@@ -36,6 +36,6 @@
 
 |*n*<sup>th</sup> copy|                                          Maindeck Card                                           |*n*<sup>th</sup> copy|                                      Sideboard Card                                      |
 |--------------------:|--------------------------------------------------------------------------------------------------|--------------------:|------------------------------------------------------------------------------------------|
-|                    2|[Huntmaster of the Fells](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=262875)|                    2|[Plague Engineer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464049)|
-|                    1|[Volrath's Stronghold](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=5263)     |                     |                                                                                          |
+|                    1|[Volrath's Stronghold](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=5263)     |                    2|[Plague Engineer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464049)|
+|                    2|[Huntmaster of the Fells](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=262875)|                     |                                                                                          |
 

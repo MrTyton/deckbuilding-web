@@ -41,6 +41,6 @@
 |                    2|[Ponder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=451051)                    |                    1|[Fatal Push](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423724)       |
 |                    3|[Daze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=189255)                      |                     |                                                                                            |
 |                    3|[Ponder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=451051)                    |                     |                                                                                            |
-|                    4|[Ponder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=451051)                    |                     |                                                                                            |
 |                    4|[Lotus Petal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420602)               |                     |                                                                                            |
+|                    4|[Ponder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=451051)                    |                     |                                                                                            |
 
