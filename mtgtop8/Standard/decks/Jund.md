@@ -56,11 +56,11 @@
 |                    3|[Dreadhorde Arcanist](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461052)|                     |              |
 |                    3|[Temple of Malady](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=380515)   |                     |              |
 |                    3|[Stormfist Crusader](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473165) |                     |              |
-|                    4|[Dreadhorde Arcanist](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461052)|                     |              |
 |                    4|[Giant Growth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129568)       |                     |              |
 |                    4|[Shock](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129732)              |                     |              |
 |                    4|[Dreadhorde Butcher](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461121) |                     |              |
 |                    4|Collision / Colossus                                                                          |                     |              |
+|                    4|[Dreadhorde Arcanist](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461052)|                     |              |
 |                    4|[Temple of Malady](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=380515)   |                     |              |
 |                    4|[Angrath's Rampage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461112)  |                     |              |
 

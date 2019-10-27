@@ -30,8 +30,8 @@
 
 |*n*<sup>th</sup> copy|                                        Maindeck Card                                        |*n*<sup>th</sup> copy|                                          Sideboard Card                                           |
 |--------------------:|---------------------------------------------------------------------------------------------|--------------------:|---------------------------------------------------------------------------------------------------|
-|                    2|[Summoner's Pact](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442178)   |                    1|[Beast Within](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446158)            |
-|                    1|[Verdant Catacombs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405113) |                    1|[Boseiju, Who Shelters All](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=75305)|
+|                    2|[Summoner's Pact](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442178)   |                    1|[Boseiju, Who Shelters All](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=75305)|
+|                    1|[Verdant Catacombs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405113) |                    1|[Beast Within](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446158)            |
 |                    1|[Primal Command](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220571)    |                    2|[Beast Within](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446158)            |
 |                    1|[Time Warp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439354)         |                    3|[Beast Within](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446158)            |
 |                    1|[Hornet Queen](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=238141)      |                    1|[Scavenging Ooze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420783)         |

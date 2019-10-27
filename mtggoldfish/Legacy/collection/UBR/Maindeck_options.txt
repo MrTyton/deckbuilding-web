@@ -5,8 +5,9 @@
 1 Mountain
 1 True-Name Nemesis
 1 Dreadhorde Arcanist
-1 Preordain
 1 Misty Rainforest
+1 Preordain
+1 Narset, Parter of Veils
 1 Fatal Push
 1 Tyrant's Scorn
 1 Gurmag Angler
@@ -14,7 +15,6 @@
 1 Thoughtseize
 1 Swamp
 1 Badlands
-1 Narset, Parter of Veils
 2 True-Name Nemesis
 2 Fatal Push
 2 Dreadhorde Arcanist
@@ -53,8 +53,8 @@
 2 Gempalm Incinerator
 2 Grenzo, Havoc Raiser
 2 Goblin Ringleader
-2 Goblin Matron
 2 Ancient Tomb
+2 Goblin Matron
 2 Goblin Cratermaker
 2 Warren Instigator
 2 Aether Vial
@@ -64,7 +64,6 @@
 2 Chalice of the Void
 2 Mountain
 2 Cavern of Souls
-3 Chrome Mox
 3 Goblin Matron
 3 Goblin Ringleader
 3 Warren Instigator
@@ -74,6 +73,7 @@
 3 Goblin Lackey
 3 Aether Vial
 3 Goblin Rabblemaster
+3 Chrome Mox
 3 Mountain
 4 Goblin Matron
 4 Goblin Ringleader

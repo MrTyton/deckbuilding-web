@@ -1,7 +1,7 @@
 # Hogaak
 
 #### [Export MTGO List](../collection/Hogaak/Hogaak.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Altar%20of%20Dementia%0A3%09Bayou%0A4%09Bloodghast%0A3%09Bloodstained%20Mire%0A4%09Bridge%20from%20Below%0A3%09Cabal%20Therapy%0A4%09Careful%20Study%0A3%09Carrion%20Feeder%0A3%09Gravecrawler%0A4%09Hedron%20Crab%0A4%09Hogaak,%20Arisen%20Necropolis%0A4%09Marsh%20Flats%0A2%09Polluted%20Delta%0A4%09Stitcher's%20Supplier%0A2%09Swamp%0A3%09Underground%20Sea%0A4%09Vengevine%0A2%09Verdant%20Catacombs&deckside=2%09Assassin's%20Trophy%0A1%09Cabal%20Therapy%0A3%09Force%20of%20Vigor%0A4%09Leyline%20of%20the%20Void%0A1%09Reverent%20Silence%0A2%09Surgical%20Extraction%0A2%09Thoughtseize)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Altar%20of%20Dementia%0A3%09Bayou%0A4%09Bloodghast%0A3%09Bloodstained%20Mire%0A4%09Bridge%20from%20Below%0A3%09Cabal%20Therapy%0A4%09Careful%20Study%0A3%09Carrion%20Feeder%0A3%09Gravecrawler%0A4%09Hedron%20Crab%0A4%09Hogaak,%20Arisen%20Necropolis%0A4%09Marsh%20Flats%0A2%09Polluted%20Delta%0A4%09Stitcher's%20Supplier%0A2%09Swamp%0A3%09Underground%20Sea%0A4%09Vengevine%0A2%09Verdant%20Catacombs&deckside=1%09Assassin's%20Trophy%0A1%09Cabal%20Therapy%0A3%09Force%20of%20Vigor%0A4%09Leyline%20of%20the%20Void%0A2%09Reverent%20Silence%0A2%09Surgical%20Extraction%0A2%09Thoughtseize)
 # Maindeck
 
 |                                         Artifact (4)                                         |                                            Creature (26)                                             |                                       Enchantment (4)                                        |                                          Land (19)                                           |                                       Sorcery (7)                                        |
@@ -17,24 +17,24 @@
 
 # Sideboard
 
-|                                        Enchantment (4)                                         |                                          Instant (7)                                           |                                        Sorcery (4)                                         |
+|                                        Enchantment (4)                                         |                                          Instant (6)                                           |                                        Sorcery (5)                                         |
 |------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
-|4 [Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)|2 [Assassin's Trophy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452902)  |1 [Cabal Therapy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413625)  |
-|                                                                                                |3 [Force of Vigor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464113)     |1 [Reverent Silence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=22316)|
+|4 [Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)|1 [Assassin's Trophy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452902)  |1 [Cabal Therapy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413625)  |
+|                                                                                                |3 [Force of Vigor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464113)     |2 [Reverent Silence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=22316)|
 |                                                                                                |2 [Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|2 [Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)   |
 
 
 # Other Options
 
-|*n*<sup>th</sup> copy|                                        Maindeck Card                                        |*n*<sup>th</sup> copy|                                      Sideboard Card                                      |
-|--------------------:|---------------------------------------------------------------------------------------------|--------------------:|------------------------------------------------------------------------------------------|
-|                    3|[Verdant Catacombs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405113) |                    2|[Reverent Silence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=22316)|
-|                    4|[Verdant Catacombs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405113) |                    1|[Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952) |
-|                    3|[Polluted Delta](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405104)    |                    1|[Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)          |
-|                    4|[Polluted Delta](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405104)    |                    2|[Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952) |
-|                    1|[Snow-Covered Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121256)|                    3|[Reverent Silence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=22316)|
-|                    2|[Snow-Covered Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121256)|                    1|[Abrupt Decay](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456061)   |
-|                    4|[Underground Sea](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=886)      |                    2|[Abrupt Decay](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456061)   |
-|                     |                                                                                             |                    3|[Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)   |
-|                     |                                                                                             |                    4|[Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)   |
+|*n*<sup>th</sup> copy|                                        Maindeck Card                                        |*n*<sup>th</sup> copy|                                       Sideboard Card                                       |
+|--------------------:|---------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------|
+|                    3|[Verdant Catacombs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405113) |                    2|[Assassin's Trophy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452902)|
+|                    3|[Polluted Delta](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405104)    |                    1|[Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)   |
+|                    4|[Verdant Catacombs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405113) |                    1|[Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)            |
+|                    4|[Polluted Delta](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405104)    |                    2|[Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)   |
+|                    1|[Snow-Covered Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121256)|                    1|[Abrupt Decay](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456061)     |
+|                    2|[Snow-Covered Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121256)|                    2|[Abrupt Decay](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456061)     |
+|                    4|[Underground Sea](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=886)      |                    3|[Reverent Silence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=22316)  |
+|                     |                                                                                             |                    3|[Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)     |
+|                     |                                                                                             |                    4|[Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)     |
 
