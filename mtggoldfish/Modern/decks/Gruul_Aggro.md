@@ -1,0 +1,28 @@
+# Gruul Aggro
+
+#### [Export MTGO List](../collection/Gruul%20Aggro/Gruul%20Aggro.txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Arid%20Mesa%0A4%09Atarka's%20Command%0A4%09Burning-Tree%20Emissary%0A1%09Forest%0A4%09Ghor-Clan%20Rampager%0A4%09Hidden%20Herbalists%0A4%09Lightning%20Bolt%0A2%09Mountain%0A3%09Narnam%20Renegade%0A3%09Pelt%20Collector%0A4%09Reckless%20Bushwhacker%0A1%09Sacred%20Foundry%0A2%09Stomping%20Ground%0A3%09Tarmogoyf%0A1%09Temple%20Garden%0A4%09Vexing%20Devil%0A4%09Wild%20Nacatl%0A4%09Windswept%20Heath%0A4%09Wooded%20Foothills&deckside=2%09Ancient%20Grudge%0A3%09Collector%20Ouphe%0A2%09Deflecting%20Palm%0A3%09Lightning%20Helix%0A2%09Path%20to%20Exile%0A3%09Rest%20in%20Peace)
+# Maindeck
+
+|                                          Creature (33)                                           |                                         Instant (8)                                         |                                          Land (19)                                          |
+|--------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|
+|4 [Burning-Tree Emissary](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426627)|4 [Atarka's Command](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394502)|4 [Arid Mesa](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405092)       |
+|4 [Ghor-Clan Rampager](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460302)   |4 [Lightning Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=806)     |1 [Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)          |
+|4 [Hidden Herbalists](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423777)    |                                                                                             |2 [Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)        |
+|3 [Narnam Renegade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423784)      |                                                                                             |1 [Sacred Foundry](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405106)  |
+|3 [Pelt Collector](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452891)       |                                                                                             |2 [Stomping Ground](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405110) |
+|4 [Reckless Bushwhacker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407626) |                                                                                             |1 [Temple Garden](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405112)   |
+|3 [Tarmogoyf](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=136142)            |                                                                                             |4 [Windswept Heath](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405115) |
+|4 [Vexing Devil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278257)         |                                                                                             |4 [Wooded Foothills](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405116)|
+|4 [Wild Nacatl](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174989)          |                                                                                             |                                                                                             |
+
+
+# Sideboard
+
+|                                        Creature (3)                                        |                                     Enchantment (3)                                      |                                        Instant (9)                                         |
+|--------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
+|3 [Collector Ouphe](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464107)|3 [Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)|2 [Ancient Grudge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=235600) |
+|                                                                                            |                                                                                          |2 [Deflecting Palm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386516)|
+|                                                                                            |                                                                                          |3 [Lightning Helix](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=249386)|
+|                                                                                            |                                                                                          |2 [Path to Exile](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220511)  |
+

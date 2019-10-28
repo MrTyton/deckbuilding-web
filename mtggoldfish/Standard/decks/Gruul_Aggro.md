@@ -77,8 +77,8 @@
 |                    3|[Wildborn Preserver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473144)     |                    1|[Claim the Firstborn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473080)      |
 |                    4|[Wildborn Preserver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473144)     |                    2|[Claim the Firstborn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473080)      |
 |                     |                                                                                                  |                    3|[Claim the Firstborn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473080)      |
+|                     |                                                                                                  |                    3|[Sarkhan the Masterless](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461070)   |
 |                     |                                                                                                  |                    4|[Lovestruck Beast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473127)         |
 |                     |                                                                                                  |                    4|[Lava Coil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452858)                |
 |                     |                                                                                                  |                    4|[Flame Sweep](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466893)              |
-|                     |                                                                                                  |                    3|[Sarkhan the Masterless](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461070)   |
 

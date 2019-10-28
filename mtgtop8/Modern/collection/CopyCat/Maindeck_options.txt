@@ -13,8 +13,8 @@
 1 Wall of Blossoms
 2 Wall of Blossoms
 3 Wall of Blossoms
-4 Wall of Blossoms
 4 Teferi, Time Raveler
+4 Wall of Blossoms
 1 Tireless Tracker
 2 Tireless Tracker
 2 Jace, the Mind Sculptor
@@ -30,19 +30,19 @@
 1 Eternal Witness
 1 Prairie Stream
 1 Seasoned Pyromancer
-1 Lightning Helix
-1 Sword of Feast and Famine
-2 Lightning Helix
 1 Forest
 1 Plains
 2 Wooded Foothills
+1 Lightning Helix
+1 Sword of Feast and Famine
+2 Lightning Helix
 2 Wrenn and Six
 3 Tireless Tracker
 3 Wrenn and Six
 4 Tireless Tracker
 1 Eladamri's Call
-1 Glen Elendra Archmage
 1 Dovin's Veto
+1 Glen Elendra Archmage
 1 Knight of Autumn
 4 Snow-Covered Forest
 1 Spell Pierce
@@ -54,6 +54,19 @@
 2 Spell Queller
 2 Steam Vents
 3 Spell Queller
+1 Oko, Thief of Crowns
+1 Search for Tomorrow
+1 Sakura-Tribe Elder
+1 Primeval Titan
+1 Field of the Dead
+2 Oko, Thief of Crowns
+2 Field of the Dead
+2 Search for Tomorrow
+2 Sakura-Tribe Elder
+2 Primeval Titan
+3 Sakura-Tribe Elder
+3 Primeval Titan
+4 Sakura-Tribe Elder
 1 Scalding Tarn
 1 Snapcaster Mage
 1 Serum Visions
@@ -67,19 +80,6 @@
 3 Snapcaster Mage
 3 Serum Visions
 4 Serum Visions
-1 Oko, Thief of Crowns
-1 Search for Tomorrow
-1 Primeval Titan
-1 Sakura-Tribe Elder
-1 Field of the Dead
-2 Oko, Thief of Crowns
-2 Field of the Dead
-2 Search for Tomorrow
-2 Sakura-Tribe Elder
-2 Primeval Titan
-3 Primeval Titan
-3 Sakura-Tribe Elder
-4 Sakura-Tribe Elder
 1 Grove of the Burnwillows
 1 Pia and Kiran Nalaar
 1 Sword of Light and Shadow
@@ -108,14 +108,14 @@
 1 Deputy of Detention
 1 Vesperlark
 1 Noble Hierarch
-2 Soulherder
-2 Ephemerate
 2 Eternal Witness
+2 Ephemerate
+2 Soulherder
 2 Watcher for Tomorrow
 2 Noble Hierarch
 2 Vesperlark
-3 Soulherder
 3 Ephemerate
+3 Soulherder
 3 Noble Hierarch
 4 Ephemerate
 4 Noble Hierarch

@@ -33,8 +33,8 @@
 
 |*n*<sup>th</sup> copy|                                         Maindeck Card                                         |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
 |--------------------:|-----------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
-|                    1|[Nurturing Peatland](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464192)  |                    1|[Karn, Scion of Urza](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442889)|
-|                    1|[Darksteel Citadel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389479)   |                    1|[Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452)  |
+|                    1|[Nurturing Peatland](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464192)  |                    1|[Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452)  |
+|                    1|[Darksteel Citadel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389479)   |                    1|[Karn, Scion of Urza](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442889)|
 |                    1|[Welding Jar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=48328)          |                    1|[Nature's Claim](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382316)     |
 |                    1|[Snow-Covered Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121192) |                    1|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)     |
 |                    1|[Arcbound Worker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=222733)     |                    2|[Karn, Scion of Urza](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442889)|
@@ -51,8 +51,8 @@
 |                    1|[Hangarback Walker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420600)   |                     |                                                                                              |
 |                    1|[Phyrexia's Core](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389629)     |                     |                                                                                              |
 |                    2|[Darksteel Citadel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389479)   |                     |                                                                                              |
-|                    2|[Snow-Covered Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121192) |                     |                                                                                              |
 |                    2|[Welding Jar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=48328)          |                     |                                                                                              |
+|                    2|[Snow-Covered Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121192) |                     |                                                                                              |
 |                    2|[Nurturing Peatland](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464192)  |                     |                                                                                              |
 |                    2|[Arcbound Worker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=222733)     |                     |                                                                                              |
 |                    2|[Animation Module](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417767)    |                     |                                                                                              |
@@ -75,6 +75,7 @@
 |                    3|[Welding Jar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=48328)          |                     |                                                                                              |
 |                    3|[Inkmoth Nexus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=213731)       |                     |                                                                                              |
 |                    4|[Snow-Covered Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121192) |                     |                                                                                              |
+|                    4|[Walking Ballista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423848)    |                     |                                                                                              |
 |                    4|[Arcbound Worker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=222733)     |                     |                                                                                              |
 |                    4|[Hangarback Walker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420600)   |                     |                                                                                              |
 |                    4|[Hardened Scales](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420769)     |                     |                                                                                              |
@@ -85,5 +86,4 @@
 |                    4|[Darksteel Citadel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389479)   |                     |                                                                                              |
 |                    5|[Snow-Covered Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121192) |                     |                                                                                              |
 |                    6|[Snow-Covered Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121192) |                     |                                                                                              |
-|                    4|[Walking Ballista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423848)    |                     |                                                                                              |
 

@@ -2,8 +2,8 @@
 2 Misty Rainforest
 2 Thoughtseize
 3 Misty Rainforest
-1 Elvish Reclaimer
 1 Urborg, Tomb of Yawgmoth
+1 Elvish Reclaimer
 1 Crop Rotation
 1 Dark Depths
 1 Bojuka Bog
@@ -20,15 +20,15 @@
 2 Crop Rotation
 2 Urborg, Tomb of Yawgmoth
 2 Vampire Hexmage
-2 Sylvan Scrying
 2 Duress
 2 Dark Depths
 2 Bayou
+2 Sylvan Scrying
 2 Mox Diamond
 3 Elvish Reclaimer
 3 Thespian's Stage
-3 Vampire Hexmage
 3 Mox Diamond
+3 Vampire Hexmage
 3 Thoughtseize
 3 Sylvan Scrying
 3 Crop Rotation
@@ -95,18 +95,18 @@
 4 Misty Rainforest
 1 Island
 2 Force of Negation
+1 Hymn to Tourach
+2 Hymn to Tourach
 1 Green Sun's Zenith
 1 Scavenging Ooze
 1 Field of Ruin
 2 Green Sun's Zenith
-1 Hymn to Tourach
-2 Hymn to Tourach
 2 Lonely Sandbar
 2 Counterspell
 2 Assassin's Trophy
 3 Dead of Winter
-1 Spell Snare
 1 Narset, Parter of Veils
+1 Spell Snare
 1 Magmatic Sinkhole
 1 Cephalid Coliseum
 2 Spell Snare
@@ -180,23 +180,23 @@
 1 Taiga
 1 Rite of Flame
 1 Burning Wish
-1 Echo of Eons
 1 Chrome Mox
+1 Echo of Eons
 1 Land Grant
 1 Lion's Eye Diamond
 1 Tinder Wall
 1 Simian Spirit Guide
 1 Desperate Ritual
-1 Goblin Charbelcher
 1 Seething Song
 1 Empty the Warrens
 1 Gamble
 1 Manamorphose
+1 Goblin Charbelcher
 1 Lotus Petal
 2 Burning Wish
 2 Rite of Flame
-2 Chrome Mox
 2 Lion's Eye Diamond
+2 Chrome Mox
 2 Seething Song
 2 Manamorphose
 2 Empty the Warrens
@@ -211,7 +211,6 @@
 3 Rite of Flame
 3 Burning Wish
 3 Chrome Mox
-3 Lion's Eye Diamond
 3 Empty the Warrens
 3 Land Grant
 3 Seething Song
@@ -221,14 +220,15 @@
 3 Simian Spirit Guide
 3 Lotus Petal
 3 Goblin Charbelcher
+3 Lion's Eye Diamond
 3 Tinder Wall
 4 Rite of Flame
 4 Burning Wish
 4 Lotus Petal
 4 Chrome Mox
-4 Lion's Eye Diamond
 4 Tinder Wall
 4 Land Grant
+4 Lion's Eye Diamond
 4 Simian Spirit Guide
 4 Goblin Charbelcher
 4 Seething Song

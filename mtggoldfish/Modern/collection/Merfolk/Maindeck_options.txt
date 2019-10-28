@@ -1,11 +1,11 @@
 1 Harbinger of the Tides
+5 Island
 2 Harbinger of the Tides
 1 Echoing Truth
-5 Island
-2 Echoing Truth
 6 Island
 7 Island
 8 Island
+2 Echoing Truth
 3 Benthic Biomancer
 9 Island
 4 Benthic Biomancer
@@ -24,10 +24,10 @@
 2 Repeal
 3 Dismember
 3 Repeal
+11 Island
 3 Faerie Conclave
 4 Faerie Conclave
 1 Tidebinder Mage
-11 Island
 4 Cavern of Souls
 4 Dismember
 4 Repeal
@@ -40,26 +40,32 @@
 1 Cursecatcher
 2 Cursecatcher
 1 Minamo, School at Water's Edge
+1 Fiery Islet
 3 Cursecatcher
 4 Cursecatcher
 1 Master of Waves
 2 Master of Waves
-1 Deprive
-2 Deprive
-1 Fiery Islet
-1 Phantasmal Image
-2 Phantasmal Image
-1 Spell Pierce
-13 Island
-14 Island
 1 Brazen Borrower
 2 Brazen Borrower
+1 Deprive
+2 Deprive
+1 Phantasmal Image
+2 Phantasmal Image
+13 Island
+14 Island
+1 Spell Pierce
 1 Thassa, God of the Sea
 1 Flooded Strand
 2 Flooded Strand
+2 Fiery Islet
+3 Brazen Borrower
+4 Brazen Borrower
 5 Snow-Covered Island
 1 Oko, Thief of Crowns
 2 Oko, Thief of Crowns
+15 Island
+1 Kopala, Warden of Waves
+2 Kopala, Warden of Waves
 3 Echoing Truth
 1 Castle Vantress
 2 Castle Vantress
@@ -67,16 +73,12 @@
 3 Castle Vantress
 4 Castle Vantress
 4 Deprive
-1 Kopala, Warden of Waves
-2 Kopala, Warden of Waves
-15 Island
 2 Spell Pierce
 1 Tectonic Edge
 1 Unclaimed Territory
 2 Unclaimed Territory
 1 Coralhelm Commander
 2 Coralhelm Commander
-2 Fiery Islet
 1 Vapor Snag
 2 Vapor Snag
 1 Mu Yanling, Sky Dancer
@@ -100,7 +102,5 @@
 2 Vendilion Clique
 3 Vendilion Clique
 4 Vendilion Clique
-3 Brazen Borrower
-4 Brazen Borrower
 6 Snow-Covered Island
 4 Echoing Truth
