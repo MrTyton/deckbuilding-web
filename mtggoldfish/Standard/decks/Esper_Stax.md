@@ -26,3 +26,18 @@
 |2 [Dovin's Veto](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461120) |1 [Kaya, Orzhov Usurper](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460129)     |2 [Legion's End](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466860)        |
 |4 [Noxious Grasp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466864)|                                                                                                      |                                                                                                 |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                        Maindeck Card                                        |*n*<sup>th</sup> copy|                                      Sideboard Card                                       |
+|--------------------:|---------------------------------------------------------------------------------------------|--------------------:|-------------------------------------------------------------------------------------------|
+|                    1|[Planar Cleansing](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=191599)  |                    1|[True Love's Kiss](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472996)|
+|                    1|[Murderous Rider](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473059)   |                    1|[Planar Cleansing](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=191599)|
+|                    1|[Wishclaw Talisman](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473072) |                    1|[Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)           |
+|                    1|[Castle Vantress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473204)   |                    1|[The Elderspell](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461016)  |
+|                    2|[Murderous Rider](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473059)   |                    1|[Devout Decree](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466767)   |
+|                    2|[Guild Globe](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461166)       |                    2|[The Elderspell](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461016)  |
+|                    3|[Dance of the Manse](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473148)|                    2|[Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)           |
+|                    3|[Guild Globe](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461166)       |                    2|[Devout Decree](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466767)   |
+|                    4|[Guild Globe](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461166)       |                    3|[Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)           |
+

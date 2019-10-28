@@ -107,7 +107,7 @@
 |                    3|[Bond of Flourishing](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461082)        |                     |                                                                                               |
 |                    3|[Finale of Devastation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461087)      |                     |                                                                                               |
 |                    3|[Growth Spiral](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457322)              |                     |                                                                                               |
-|                    4|[Finale of Devastation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461087)      |                     |                                                                                               |
 |                    4|[Bond of Flourishing](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461082)        |                     |                                                                                               |
+|                    4|[Finale of Devastation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461087)      |                     |                                                                                               |
 |                   12|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)                     |                     |                                                                                               |
 
