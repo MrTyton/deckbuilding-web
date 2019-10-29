@@ -95,7 +95,7 @@
 |                    4|[Ranger-Captain of Eos](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463970)    |                     |                                                                                                    |
 |                    1|[Militia Bugler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447165)           |                     |                                                                                                    |
 |                    2|[Militia Bugler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447165)           |                     |                                                                                                    |
-|                    3|[Aven Mindcensor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426707)          |                     |                                                                                                    |
 |                    3|[Militia Bugler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447165)           |                     |                                                                                                    |
+|                    3|[Aven Mindcensor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426707)          |                     |                                                                                                    |
 |                   13|[Snow-Covered Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121267)      |                     |                                                                                                    |
 

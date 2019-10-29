@@ -7,20 +7,19 @@
 4 Merchant of the Vale
 1 Blast Zone
 1 Arid Mesa
-1 Steam Vents
 1 Once Upon a Time
 1 Verdant Catacombs
 1 Polluted Delta
 1 Overgrown Tomb
+1 Watery Grave
 1 Glimpse the Unthinkable
 1 Gravecrawler
 1 Hedron Crab
 1 Stitcher's Supplier
 1 Vengevine
-1 Watery Grave
 1 Carrion Feeder
-2 Watery Grave
 2 Verdant Catacombs
+2 Watery Grave
 2 Polluted Delta
 2 Carrion Feeder
 2 Vengevine
@@ -29,13 +28,13 @@
 2 Gravecrawler
 2 Hedron Crab
 2 Glimpse the Unthinkable
-3 Polluted Delta
 3 Verdant Catacombs
+3 Polluted Delta
 3 Watery Grave
 3 Hedron Crab
 3 Vengevine
-3 Stitcher's Supplier
 3 Glimpse the Unthinkable
+3 Stitcher's Supplier
 3 Gravecrawler
 4 Polluted Delta
 4 Gravecrawler
@@ -47,11 +46,8 @@
 2 Insolent Neonate
 3 Insolent Neonate
 4 Copperline Gorge
+1 Steam Vents
 2 Arid Mesa
-1 Tome Scour
-2 Tome Scour
-3 Tome Scour
-4 Tome Scour
 1 Merfolk Secretkeeper
 2 Once Upon a Time
 2 Merfolk Secretkeeper
@@ -66,12 +62,7 @@
 3 Darkblast
 4 Darkblast
 1 Dakmor Salvage
-1 Spirebluff Canal
-2 Mana Confluence
 2 Gemstone Mine
-3 Overgrown Tomb
-2 City of Brass
-3 City of Brass
 1 Darkslick Shores
 1 Breeding Pool
 1 Snow-Covered Swamp
@@ -79,6 +70,13 @@
 3 Merfolk Secretkeeper
 3 Conflagrate
 3 Stomping Ground
+3 Overgrown Tomb
+1 Tome Scour
+2 Tome Scour
+2 City of Brass
+3 City of Brass
+3 Tome Scour
+4 Tome Scour
 1 Marsh Flats
 2 Marsh Flats
 2 Swamp

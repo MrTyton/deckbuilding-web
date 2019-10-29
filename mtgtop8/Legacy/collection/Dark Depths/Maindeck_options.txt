@@ -1,30 +1,30 @@
-1 Snow-Covered Forest
 1 Sylvan Safekeeper
 3 Dark Confidant
-1 Ghost Quarter
+1 Snow-Covered Swamp
+1 Snow-Covered Forest
 1 Misty Rainforest
 3 Sylvan Scrying
-1 Tarmogoyf
-2 Tarmogoyf
-3 Tarmogoyf
 1 Assassin's Trophy
 1 Inquisition of Kozilek
 2 Inquisition of Kozilek
 1 Pithing Needle
 2 Pithing Needle
-3 Bayou
-1 Elvish Spirit Guide
 1 Lotus Petal
-2 Elvish Spirit Guide
 2 Lotus Petal
 3 Lotus Petal
-3 Elvish Spirit Guide
 4 Lotus Petal
+1 Tarmogoyf
+2 Tarmogoyf
+3 Tarmogoyf
+3 Bayou
+1 Elvish Spirit Guide
+2 Elvish Spirit Guide
+3 Elvish Spirit Guide
+1 Windswept Heath
 1 Blast Zone
 4 Dark Confidant
 4 Tarmogoyf
 1 Once Upon a Time
-1 Windswept Heath
 1 Dryad Arbor
 1 Green Sun's Zenith
 2 Green Sun's Zenith
@@ -40,10 +40,26 @@
 3 Pithing Needle
 4 Duress
 4 Sylvan Scrying
-4 Elvish Spirit Guide
+2 Windswept Heath
 1 Hymn to Tourach
 2 Hymn to Tourach
+1 Overgrown Tomb
+1 Satyr Wayfinder
+1 Stitcher's Supplier
+1 Hogaak, Arisen Necropolis
+2 Hogaak, Arisen Necropolis
+2 Satyr Wayfinder
+2 Stitcher's Supplier
+3 Hogaak, Arisen Necropolis
+3 Stitcher's Supplier
+3 Satyr Wayfinder
+4 Satyr Wayfinder
+4 Elvish Spirit Guide
+1 Cabal Therapy
+2 Cabal Therapy
+3 Cabal Therapy
 3 Wasteland
+2 Forest
 1 Plateau
 1 Taiga
 1 Knight of the Reliquary
@@ -53,7 +69,6 @@
 1 Gaddock Teeg
 1 Scavenging Ooze
 1 Knight of Autumn
-2 Windswept Heath
 2 Wooded Foothills
 2 Wrenn and Six
 2 Knight of the Reliquary
@@ -70,7 +85,6 @@
 1 Giver of Runes
 1 Plains
 2 Giver of Runes
-2 Forest
 2 Lightning Bolt
 3 Giver of Runes
 3 Lightning Bolt
@@ -86,6 +100,8 @@
 2 Not of This World
 3 Not of This World
 4 Not of This World
+3 Hymn to Tourach
+4 Stitcher's Supplier
 1 Hexdrinker
 1 Snow-Covered Plains
 1 Horizon Canopy
@@ -95,28 +111,16 @@
 4 Wasteland
 4 Swords to Plowshares
 4 Pithing Needle
-1 Overgrown Tomb
-1 Satyr Wayfinder
-1 Stitcher's Supplier
-1 Hogaak, Arisen Necropolis
-2 Hogaak, Arisen Necropolis
-2 Satyr Wayfinder
-2 Stitcher's Supplier
-3 Hymn to Tourach
-3 Hogaak, Arisen Necropolis
-3 Stitcher's Supplier
-3 Satyr Wayfinder
-4 Stitcher's Supplier
-4 Satyr Wayfinder
-1 Cabal Therapy
 1 Surgical Extraction
 2 Assassin's Trophy
-2 Cabal Therapy
 2 Surgical Extraction
-3 Cabal Therapy
 4 Cabal Therapy
 1 Polluted Delta
 2 Polluted Delta
 3 Polluted Delta
 4 Polluted Delta
 4 Brainstorm
+1 Steely Resolve
+1 Khalni Garden
+2 Overgrown Tomb
+4 Hogaak, Arisen Necropolis
