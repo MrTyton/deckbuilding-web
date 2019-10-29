@@ -1,7 +1,7 @@
-3 Bloodstained Mire
-2 Skullcrack
-3 Wooded Foothills
 2 Arid Mesa
+1 Skullcrack
+3 Wooded Foothills
+2 Skullcrack
 4 Mountain
 5 Mountain
 6 Mountain
@@ -35,7 +35,6 @@
 3 Manamorphose
 4 Manamorphose
 13 Mountain
-3 Skullcrack
 1 Scalding Tarn
 2 Scalding Tarn
 3 Fiery Islet
@@ -54,7 +53,7 @@
 1 Snow-Covered Mountain
 2 Snow-Covered Mountain
 3 Snow-Covered Mountain
-1 Shard Volley
+3 Skullcrack
 1 Kiln Fiend
 2 Kiln Fiend
 3 Kiln Fiend
@@ -63,12 +62,11 @@
 2 Forked Bolt
 3 Scalding Tarn
 4 Scalding Tarn
+1 Shard Volley
 1 Mutagenic Growth
 1 Maximize Velocity
-2 Shard Volley
-3 Shard Volley
-1 Firebolt
 1 Risk Factor
+1 Firebolt
 1 Runaway Steam-Kin
 2 Firebolt
 2 Burst Lightning

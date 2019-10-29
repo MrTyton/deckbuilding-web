@@ -1,3 +1,5 @@
+5 Mountain
+6 Mountain
 7 Mountain
 8 Mountain
 9 Mountain
@@ -5,16 +7,14 @@
 11 Mountain
 3 Fiery Islet
 4 Fiery Islet
-1 Arid Mesa
-1 Wooded Foothills
+2 Bloodstained Mire
 3 Light Up the Stage
 4 Light Up the Stage
-4 Inspiring Vantage
-2 Bloodstained Mire
 1 Shard Volley
 2 Shard Volley
-1 Skullcrack
+4 Inspiring Vantage
 3 Shard Volley
+1 Skullcrack
 12 Mountain
 1 Seal of Fire
 2 Seal of Fire
@@ -31,13 +31,13 @@
 4 Shard Volley
 3 Wooded Foothills
 4 Bloodstained Mire
-3 Arid Mesa
 1 Soul-Scar Mage
 2 Soul-Scar Mage
 3 Soul-Scar Mage
 4 Soul-Scar Mage
 1 Scalding Tarn
 1 Grim Lavamancer
+3 Arid Mesa
 3 Skullcrack
 1 Snow-Covered Mountain
 2 Snow-Covered Mountain
@@ -46,7 +46,6 @@
 2 Lava Dart
 3 Lava Dart
 4 Wooded Foothills
-4 Arid Mesa
 4 Lava Dart
 2 Scalding Tarn
 4 Snow-Covered Mountain
@@ -67,6 +66,7 @@
 9 Snow-Covered Mountain
 10 Snow-Covered Mountain
 11 Snow-Covered Mountain
+4 Arid Mesa
 4 Skullcrack
 12 Snow-Covered Mountain
 13 Snow-Covered Mountain
@@ -80,7 +80,6 @@
 4 Burst Lightning
 3 Bedlam Reveler
 3 Mogg Fanatic
-3 Sacred Foundry
 13 Mountain
 15 Snow-Covered Mountain
 1 Gut Shot
@@ -91,7 +90,6 @@
 2 Blistercoil Weird
 2 Mutagenic Growth
 3 Mutagenic Growth
-4 Sacred Foundry
 4 Mogg Fanatic
 14 Mountain
 15 Mountain
@@ -99,6 +97,7 @@
 1 Runaway Steam-Kin
 2 Runaway Steam-Kin
 4 Bedlam Reveler
+3 Sacred Foundry
 1 Stomping Ground
 3 Scalding Tarn
 1 Steam Vents
@@ -119,6 +118,7 @@
 1 Molten Rain
 2 Molten Rain
 3 Molten Rain
+4 Sacred Foundry
 1 Bonecrusher Giant
 2 Bonecrusher Giant
 3 Bonecrusher Giant

@@ -1,8 +1,9 @@
 4 Force of Negation
-5 Island
 3 Flooded Strand
+2 Polluted Delta
 1 Brazen Borrower
 3 Polluted Delta
+1 Mana Leak
 1 Vendilion Clique
 2 Misty Rainforest
 4 Steam Vents
@@ -17,8 +18,8 @@
 1 Fiery Islet
 1 Nimble Obstructionist
 1 Wizard's Lightning
-1 Mutavault
 1 Spell Pierce
+1 Mutavault
 1 Mountain
 2 Nimble Obstructionist
 2 Wizard's Lightning
@@ -29,11 +30,18 @@
 4 Wizard's Lightning
 4 Nimble Obstructionist
 1 Faerie Conclave
-1 Mana Leak
 2 Mana Leak
 1 Remand
 2 Remand
 1 Abrade
+1 Wizard's Retort
+2 Burst Lightning
+2 Mountain
+2 Wizard's Retort
+3 Fiery Islet
+3 Vendilion Clique
+3 Burst Lightning
+4 Burst Lightning
 1 Soul-Scar Mage
 1 Grim Lavamancer
 1 Wandering Fumarole
@@ -44,14 +52,6 @@
 3 Mutavault
 4 Mutavault
 4 Remand
-1 Wizard's Retort
-2 Burst Lightning
-2 Mountain
-2 Wizard's Retort
-3 Fiery Islet
-3 Vendilion Clique
-3 Burst Lightning
-4 Burst Lightning
 6 Island
 1 Logic Knot
 1 Dismember

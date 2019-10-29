@@ -1,48 +1,91 @@
-15 Mountain
-16 Mountain
-17 Mountain
-18 Mountain
-1 Eidolon of the Great Revel
 1 Bonecrusher Giant
+1 Eidolon of the Great Revel
 1 Ramunap Ruins
 2 Bonecrusher Giant
+2 Mountain
 2 Eidolon of the Great Revel
 2 Ramunap Ruins
 3 Eidolon of the Great Revel
+3 Mountain
 4 Eidolon of the Great Revel
+4 Mountain
+5 Mountain
+6 Mountain
+7 Mountain
+8 Mountain
+9 Mountain
+10 Mountain
+11 Mountain
+12 Mountain
+1 Fiery Islet
+1 Searing Blaze
+1 Sunbaked Canyon
+1 Burst Lightning
+1 Rampaging Ferocidon
+1 Zurgo Bellstriker
+1 Lightning Bolt
+1 Incinerate
+1 Goblin Guide
+1 Ash Zealot
+2 Searing Blaze
+2 Sunbaked Canyon
+2 Fiery Islet
+2 Burst Lightning
+2 Rampaging Ferocidon
+2 Ash Zealot
+2 Goblin Guide
+2 Incinerate
+2 Zurgo Bellstriker
+2 Lightning Bolt
+3 Burst Lightning
+3 Searing Blaze
+3 Sunbaked Canyon
+3 Bonecrusher Giant
+3 Rampaging Ferocidon
+3 Lightning Bolt
+3 Incinerate
+3 Ash Zealot
+3 Goblin Guide
+4 Searing Blaze
+4 Bonecrusher Giant
+4 Sunbaked Canyon
+4 Lightning Bolt
+4 Ash Zealot
+4 Goblin Guide
+4 Incinerate
+1 Goblin Rabblemaster
 1 Gemstone Caverns
 1 Chandra, Torch of Defiance
 1 Torbran, Thane of Red Fell
+1 Simian Spirit Guide
 1 Castle Embereth
 1 Legion Warboss
-1 Goblin Rabblemaster
 1 Chalice of the Void
-1 Desperate Ritual
-1 Simian Spirit Guide
-1 Magus of the Moon
-1 Hazoret the Fervent
-1 Mutavault
 1 Abrade
+1 Hazoret the Fervent
+1 Desperate Ritual
+1 Magus of the Moon
+1 Mutavault
 2 Gemstone Caverns
-2 Chandra, Torch of Defiance
-2 Magus of the Moon
+2 Goblin Rabblemaster
+2 Simian Spirit Guide
 2 Chalice of the Void
 2 Castle Embereth
 2 Torbran, Thane of Red Fell
 2 Legion Warboss
-2 Goblin Rabblemaster
+2 Magus of the Moon
 2 Abrade
-2 Simian Spirit Guide
+2 Chandra, Torch of Defiance
 2 Desperate Ritual
 3 Chalice of the Void
 3 Goblin Rabblemaster
+3 Simian Spirit Guide
 3 Magus of the Moon
 3 Legion Warboss
-3 Chandra, Torch of Defiance
-3 Desperate Ritual
 3 Ramunap Ruins
+3 Desperate Ritual
 3 Gemstone Caverns
-3 Simian Spirit Guide
+3 Chandra, Torch of Defiance
 4 Legion Warboss
 4 Chalice of the Void
 4 Goblin Rabblemaster
@@ -50,92 +93,3 @@
 4 Desperate Ritual
 4 Simian Spirit Guide
 4 Ramunap Ruins
-1 Bomat Courier
-2 Bomat Courier
-3 Bomat Courier
-4 Bomat Courier
-1 Searing Blaze
-1 Sunbaked Canyon
-1 Burst Lightning
-1 Rampaging Ferocidon
-1 Zurgo Bellstriker
-1 Ash Zealot
-1 Incinerate
-1 Goblin Guide
-2 Searing Blaze
-2 Sunbaked Canyon
-2 Burst Lightning
-2 Rampaging Ferocidon
-2 Ash Zealot
-2 Goblin Guide
-2 Incinerate
-2 Zurgo Bellstriker
-3 Burst Lightning
-3 Searing Blaze
-3 Sunbaked Canyon
-3 Bonecrusher Giant
-3 Rampaging Ferocidon
-3 Ash Zealot
-3 Goblin Guide
-3 Incinerate
-4 Searing Blaze
-4 Bonecrusher Giant
-4 Sunbaked Canyon
-4 Incinerate
-4 Ash Zealot
-4 Goblin Guide
-1 Blinkmoth Nexus
-1 Galvanic Blast
-1 Cranial Plating
-1 Signal Pest
-1 Inkmoth Nexus
-1 Springleaf Drum
-1 Mox Opal
-1 Arcbound Ravager
-1 Welding Jar
-1 Vault Skirge
-1 Ornithopter
-1 Memnite
-1 Ghost Quarter
-1 Frogmite
-1 Darksteel Citadel
-2 Blinkmoth Nexus
-2 Cranial Plating
-2 Signal Pest
-2 Galvanic Blast
-2 Springleaf Drum
-2 Ornithopter
-2 Frogmite
-2 Vault Skirge
-2 Inkmoth Nexus
-2 Welding Jar
-2 Arcbound Ravager
-2 Ghost Quarter
-2 Darksteel Citadel
-2 Memnite
-2 Mox Opal
-3 Ornithopter
-3 Cranial Plating
-3 Signal Pest
-3 Arcbound Ravager
-3 Mox Opal
-3 Springleaf Drum
-3 Darksteel Citadel
-3 Memnite
-3 Inkmoth Nexus
-3 Vault Skirge
-3 Blinkmoth Nexus
-3 Frogmite
-3 Welding Jar
-4 Welding Jar
-4 Cranial Plating
-4 Signal Pest
-4 Inkmoth Nexus
-4 Springleaf Drum
-4 Blinkmoth Nexus
-4 Frogmite
-4 Darksteel Citadel
-4 Arcbound Ravager
-4 Mox Opal
-4 Memnite
-4 Ornithopter

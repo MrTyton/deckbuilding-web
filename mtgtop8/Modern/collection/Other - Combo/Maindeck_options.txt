@@ -14,29 +14,27 @@
 1 Flooded Strand
 1 Mishra's Bauble
 1 Breeding Pool
-1 Snow-Covered Plains
 1 Urborg, Tomb of Yawgmoth
+1 Snow-Covered Plains
 1 Engineered Explosives
-1 Mox Opal
-1 Marsh Flats
-1 Hope of Ghirapur
 1 Unearth
 1 Prismatic Vista
 1 Teferi, Time Raveler
+1 Marsh Flats
 1 Emry, Lurker of the Loch
 1 Mox Amber
 1 Jace, Wielder of Mysteries
 1 Watery Grave
+1 Hope of Ghirapur
 1 Arcum's Astrolabe
+1 Mox Opal
 1 Once Upon a Time
 1 Sai, Master Thopterist
 1 Kethis, the Hidden Hand
 1 Snow-Covered Swamp
-2 Once Upon a Time
 2 Flooded Strand
 2 Mishra's Bauble
 2 Unearth
-2 Mox Opal
 2 Prismatic Vista
 2 Engineered Explosives
 2 Teferi, Time Raveler
@@ -44,14 +42,16 @@
 2 Arcum's Astrolabe
 2 Emry, Lurker of the Loch
 2 Grinding Station
+2 Mox Opal
 2 Kethis, the Hidden Hand
+2 Once Upon a Time
 2 Sai, Master Thopterist
 2 Mox Amber
 3 Mishra's Bauble
 3 Unearth
 3 Prismatic Vista
-3 Mox Opal
 3 Teferi, Time Raveler
+3 Mox Opal
 3 Grinding Station
 3 Kethis, the Hidden Hand
 3 Mox Amber
@@ -134,6 +134,24 @@
 4 Cragganwick Cremator
 4 Wooded Foothills
 4 Steel Leaf Champion
+1 Eye of Nowhere
+1 Peek
+1 Opt
+2 Eye of Nowhere
+2 Peek
+2 Opt
+3 Opt
+3 Peek
+4 Opt
+4 Lonely Sandbar
+4 Peek
+5 Island
+6 Island
+7 Island
+8 Island
+9 Island
+10 Island
+11 Island
 1 Karplusan Forest
 1 Magmatic Insight
 1 Postmortem Lunge
@@ -186,21 +204,3 @@
 8 Mountain
 9 Mountain
 10 Mountain
-1 Eye of Nowhere
-1 Peek
-1 Opt
-2 Eye of Nowhere
-2 Peek
-2 Opt
-3 Opt
-3 Peek
-4 Opt
-4 Lonely Sandbar
-4 Peek
-5 Island
-6 Island
-7 Island
-8 Island
-9 Island
-10 Island
-11 Island

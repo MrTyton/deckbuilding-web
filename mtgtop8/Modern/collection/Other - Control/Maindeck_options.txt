@@ -44,7 +44,6 @@
 1 Thraben Inspector
 1 Charming Prince
 1 Sun Titan
-1 Crucible of Worlds
 1 Prismatic Vista
 1 Winds of Abandon
 1 Arid Mesa
@@ -55,6 +54,7 @@
 1 Snow-Covered Plains
 1 Flickerwisp
 1 Brought Back
+1 Crucible of Worlds
 1 Emeria, the Sky Ruin
 1 Path to Exile
 2 Snow-Covered Plains
@@ -70,11 +70,11 @@
 2 Flickerwisp
 2 Path to Exile
 2 Emeria, the Sky Ruin
-3 Ranger-Captain of Eos
 3 Thraben Inspector
 3 Wall of Omens
 3 Prismatic Vista
 3 Charming Prince
+3 Ranger-Captain of Eos
 3 Snow-Covered Plains
 3 Path to Exile
 3 Emeria, the Sky Ruin
@@ -82,8 +82,8 @@
 3 Brought Back
 3 Flickerwisp
 4 Snow-Covered Plains
-4 Ranger-Captain of Eos
 4 Wall of Omens
+4 Ranger-Captain of Eos
 4 Charming Prince
 4 Path to Exile
 4 Flickerwisp
@@ -93,9 +93,9 @@
 7 Snow-Covered Plains
 8 Snow-Covered Plains
 9 Snow-Covered Plains
-1 Forest
 1 Seasoned Pyromancer
 1 Wooded Foothills
+1 Forest
 1 Molten Vortex
 1 Ghost Quarter
 1 Blood Moon
@@ -145,8 +145,8 @@
 3 Life from the Loam
 3 Seismic Assault
 4 Wooded Foothills
-4 Ghost Quarter
 4 Young Pyromancer
+4 Ghost Quarter
 4 Mountain
 4 Lightning Bolt
 4 Forgotten Cave

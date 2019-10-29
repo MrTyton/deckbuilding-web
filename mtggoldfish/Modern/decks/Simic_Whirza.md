@@ -50,9 +50,9 @@
 |                    2|[Stoic Rebuttal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397765)      |                     |                                                                                            |
 |                    1|[Mana Leak](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45242)            |                     |                                                                                            |
 |                    2|[Mana Leak](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45242)            |                     |                                                                                            |
-|                    4|[Flooded Strand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405098)      |                     |                                                                                            |
 |                    1|[Nihil Spellbomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442215)     |                     |                                                                                            |
 |                    2|[Sword of the Meek](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=126215)   |                     |                                                                                            |
-|                    5|[Snow-Covered Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121130) |                     |                                                                                            |
 |                    3|[Thopter Foundry](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=183017)     |                     |                                                                                            |
+|                    5|[Snow-Covered Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121130) |                     |                                                                                            |
+|                    4|[Flooded Strand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405098)      |                     |                                                                                            |
 
