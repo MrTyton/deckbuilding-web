@@ -1,19 +1,13 @@
-3 Giver of Runes
-1 Tireless Tracker
 1 Oko, Thief of Crowns
 2 Oko, Thief of Crowns
+1 Waterlogged Grove
 3 Teferi, Time Raveler
+3 Giver of Runes
 2 Deputy of Detention
-2 Tireless Tracker
+3 Snow-Covered Forest
+3 Snow-Covered Island
 4 Force of Negation
 3 Flooded Strand
-2 Temple Garden
-3 Snow-Covered Forest
-4 Misty Rainforest
-1 Collected Company
-2 Collected Company
-3 Collected Company
-3 Snow-Covered Island
 1 Eternal Witness
 1 Ephemerate
 1 Soulherder
@@ -28,24 +22,32 @@
 3 Coiling Oracle
 4 Ephemerate
 4 Coiling Oracle
-1 Gavony Township
-1 Time Warp
+2 Tireless Tracker
+2 Temple Garden
 1 Mulldrifter
+1 Time Warp
 1 Knight of Autumn
+4 Misty Rainforest
+1 Collected Company
+2 Collected Company
+3 Collected Company
+1 Gavony Township
 4 Collected Company
 3 Razorverge Thicket
 1 Hexdrinker
-1 Geist of Saint Traft
-1 Mana Leak
-2 Mana Leak
 3 Oko, Thief of Crowns
-4 Flooded Strand
 2 Jace, the Mind Sculptor
-3 Mana Leak
-1 Moorland Haunt
-2 Geist of Saint Traft
+1 Wall of Blossoms
+2 Knight of Autumn
+2 Mulldrifter
+2 Time Warp
 1 Wall of Omens
 4 Soulherder
+1 Moorland Haunt
+2 Hallowed Fountain
+1 Mana Leak
+2 Mana Leak
+1 Geist of Saint Traft
 1 Ranger-Captain of Eos
 2 Ranger-Captain of Eos
 1 Knight of the Reliquary
@@ -55,17 +57,17 @@
 4 Knight of the Reliquary
 1 Arcum's Astrolabe
 2 Arcum's Astrolabe
+4 Flooded Strand
 3 Birds of Paradise
+1 Vendilion Clique
+3 Mana Leak
 1 Remand
+2 Geist of Saint Traft
 3 Deputy of Detention
-2 Knight of Autumn
-2 Mulldrifter
+4 Eternal Witness
 1 Venser, Shaper Savant
 1 Watcher for Tomorrow
 2 Wall of Omens
-4 Eternal Witness
-1 Wall of Blossoms
-2 Time Warp
 1 Opt
 1 Spell Snare
 2 Spell Snare
@@ -73,12 +75,10 @@
 3 Arcum's Astrolabe
 4 Arcum's Astrolabe
 1 Caustic Caterpillar
-2 Hallowed Fountain
 3 Temple Garden
 1 Plains
 1 Forest
 1 Botanical Sanctum
-1 Vendilion Clique
 1 Retreat to Coralhelm
 1 Field of Ruin
 1 Canopy Vista
@@ -113,24 +113,6 @@
 2 Squadron Hawk
 3 Squadron Hawk
 4 Squadron Hawk
-1 Seachrome Coast
-2 Waterlogged Grove
-2 Seachrome Coast
-4 Giver of Runes
-4 Mana Leak
-1 Serum Visions
-1 Castle Ardenvale
-1 Snapcaster Mage
-1 Supreme Verdict
-2 Serum Visions
-2 Snapcaster Mage
-3 Serum Visions
-3 Snapcaster Mage
-3 Opt
-4 Snow-Covered Island
-4 Serum Visions
-4 Opt
-5 Snow-Covered Island
 1 Sejiri Steppe
 1 Minamo, School at Water's Edge
 1 Fauna Shaman
@@ -142,12 +124,25 @@
 2 Horizon Canopy
 2 Scryb Ranger
 2 Forest
-2 Mangara of Corondor
 2 Thalia, Guardian of Thraben
+2 Mangara of Corondor
 2 Fauna Shaman
 3 Mangara of Corondor
+3 Fauna Shaman
 3 Scryb Ranger
 3 Thalia, Guardian of Thraben
-3 Fauna Shaman
 4 Mangara of Corondor
 4 Fauna Shaman
+1 Serum Visions
+1 Castle Ardenvale
+1 Snapcaster Mage
+1 Supreme Verdict
+2 Serum Visions
+2 Snapcaster Mage
+3 Serum Visions
+3 Snapcaster Mage
+3 Opt
+4 Snow-Covered Island
+4 Opt
+5 Snow-Covered Island
+4 Serum Visions

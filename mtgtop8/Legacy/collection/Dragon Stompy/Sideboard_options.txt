@@ -1,13 +1,13 @@
 1 Sulfur Elemental
 1 Walking Ballista
-2 Ensnaring Bridge
 1 Chandra, Awakened Inferno
-3 Ensnaring Bridge
 1 Abrade
+2 Ensnaring Bridge
 2 Sulfur Elemental
 1 Trinisphere
 1 Dead / Gone
 2 Abrade
+3 Ensnaring Bridge
 1 Ratchet Bomb
 2 Dead / Gone
 1 Volcanic Fallout
@@ -15,6 +15,8 @@
 1 Fiery Confluence
 4 Ensnaring Bridge
 1 Great Furnace
+1 Magus of the Moon
+2 Magus of the Moon
 1 Lion's Eye Diamond
 2 Volcanic Fallout
 1 Goblin Cratermaker
@@ -25,8 +27,6 @@
 2 Kozilek's Return
 1 Leyline of Combustion
 2 Leyline of Combustion
-1 Magus of the Moon
-2 Magus of the Moon
 1 Chaos Warp
 2 Trinisphere
 2 Chaos Warp
@@ -45,3 +45,12 @@
 4 Thought-Knot Seer
 3 Sulfur Elemental
 4 Sulfur Elemental
+1 Pyrostatic Pillar
+1 Spellskite
+2 Pyrostatic Pillar
+2 Spellskite
+3 Magus of the Moon
+3 Pyrostatic Pillar
+3 Spellskite
+4 Magus of the Moon
+4 Pyrostatic Pillar

@@ -1,11 +1,6 @@
 2 Mountain
 1 Darkblast
 1 Mana Confluence
-1 Scalding Tarn
-2 Scalding Tarn
-3 Scalding Tarn
-1 Arid Mesa
-2 Arid Mesa
 1 Once Upon a Time
 1 Verdant Catacombs
 1 Polluted Delta
@@ -41,43 +36,49 @@
 4 Stitcher's Supplier
 4 Glimpse the Unthinkable
 4 Vengevine
-4 Copperline Gorge
-1 Insolent Neonate
-2 Insolent Neonate
-3 Insolent Neonate
 1 Blast Zone
-4 Merchant of the Vale
-1 Steam Vents
+1 Scalding Tarn
+2 Scalding Tarn
+3 Scalding Tarn
+1 Arid Mesa
+2 Arid Mesa
 1 Merfolk Secretkeeper
 2 Once Upon a Time
 2 Merfolk Secretkeeper
 3 Once Upon a Time
-4 Verdant Catacombs
 4 Once Upon a Time
-1 Memory Sluice
 1 Swamp
+4 Copperline Gorge
+1 Insolent Neonate
+2 Insolent Neonate
+3 Insolent Neonate
+4 Merchant of the Vale
+1 Steam Vents
+3 Overgrown Tomb
+4 Verdant Catacombs
+3 Merfolk Secretkeeper
+1 Memory Sluice
 2 Memory Sluice
+1 Marsh Flats
+2 Marsh Flats
 1 Ghost Quarter
 2 Darkblast
 3 Darkblast
 4 Darkblast
 1 Dakmor Salvage
-2 Gemstone Mine
+1 Forest
 1 Breeding Pool
 1 Darkslick Shores
 1 Snow-Covered Swamp
 2 Darkslick Shores
-3 Merfolk Secretkeeper
+2 Gemstone Mine
 3 Stomping Ground
-3 Overgrown Tomb
 1 Tome Scour
 2 Tome Scour
 2 City of Brass
 3 City of Brass
 3 Tome Scour
 4 Tome Scour
-1 Marsh Flats
-2 Marsh Flats
 2 Swamp
 3 Carrion Feeder
 3 Memory Sluice
@@ -91,3 +92,4 @@
 3 Shriekmaw
 4 Shriekmaw
 4 Bloodstained Mire
+4 Merfolk Secretkeeper
