@@ -28,13 +28,13 @@
 
 |*n*<sup>th</sup> copy|                                      Maindeck Card                                      |*n*<sup>th</sup> copy|                                        Sideboard Card                                         |
 |--------------------:|-----------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------------|
-|                    1|[Driven/Despair](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430846)|                    1|[Collector Ouphe](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464107)     |
-|                    1|[Grisly Salvage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405253)|                    1|[Assassin's Trophy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452902)   |
+|                    1|[Driven/Despair](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430846)|                    1|[Assassin's Trophy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452902)   |
+|                    1|[Grisly Salvage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405253)|                    1|[Collector Ouphe](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464107)     |
 |                    2|[Grisly Salvage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405253)|                    1|[Ashiok, Dream Render](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461155)|
 |                    3|[Grisly Salvage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405253)|                    1|[Oko, Thief of Crowns](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473159)|
 |                    4|[Grisly Salvage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405253)|                    2|[Ashiok, Dream Render](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461155)|
-|                     |                                                                                         |                    2|[Oko, Thief of Crowns](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473159)|
 |                     |                                                                                         |                    2|[Collector Ouphe](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464107)     |
+|                     |                                                                                         |                    2|[Oko, Thief of Crowns](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473159)|
 |                     |                                                                                         |                    3|[Oko, Thief of Crowns](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473159)|
 |                     |                                                                                         |                    3|[Collector Ouphe](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464107)     |
 

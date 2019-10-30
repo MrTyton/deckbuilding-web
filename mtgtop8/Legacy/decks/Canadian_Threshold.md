@@ -77,6 +77,6 @@
 |                     |                                                                                               |                    2|[Grim Lavamancer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430589)        |
 |                     |                                                                                               |                    2|[Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)         |
 |                     |                                                                                               |                    2|[Engineered Explosives](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=50139)   |
-|                     |                                                                                               |                    3|[Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452)      |
 |                     |                                                                                               |                    3|[Submerge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=21296)                |
+|                     |                                                                                               |                    3|[Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452)      |
 

@@ -13,12 +13,12 @@
 1 Brazen Borrower
 2 Wasteland
 1 Snow-Covered Plains
-1 Tundra
-1 Plains
-1 Karakas
-1 Plateau
-1 Unsettled Mariner
 1 Fiery Islet
+1 Plains
+1 Plateau
+1 Karakas
+1 Unsettled Mariner
+1 Tundra
 1 Geier Reach Sanitarium
 1 Spirit of the Labyrinth
 1 Vendilion Clique
@@ -62,16 +62,16 @@
 4 Supreme Phantom
 4 Drogskol Captain
 4 Rattlechains
-1 Volcanic Island
-1 Liliana's Triumph
-1 Angrath's Rampage
+1 Augur of Bolas
 1 Fallen Shinobi
+1 Volcanic Island
+1 Angrath's Rampage
+1 Liliana's Triumph
 1 Swamp
 1 Mountain
-1 Augur of Bolas
+2 Augur of Bolas
 2 Island
 2 Swamp
-2 Augur of Bolas
 2 Jace, the Mind Sculptor
 3 Kolaghan's Command
 3 Snapcaster Mage
@@ -82,17 +82,18 @@
 1 Misty Rainforest
 1 Daze
 1 Tropical Island
-1 Gilded Goose
 1 Green Sun's Zenith
+1 Scavenging Ooze
 1 Noble Hierarch
 1 Courser of Kruphix
 1 Oko, Thief of Crowns
 1 Snow-Covered Forest
-1 Scavenging Ooze
-1 Collector Ouphe
-1 Dryad Arbor
-1 Hexdrinker
 1 Sylvan Library
+1 Collector Ouphe
+1 Hexdrinker
+1 Dryad Arbor
+1 Gilded Goose
+2 Tropical Island
 2 Ice-Fang Coatl
 2 Misty Rainforest
 2 Daze
@@ -102,14 +103,13 @@
 2 Green Sun's Zenith
 2 Snow-Covered Forest
 2 Oko, Thief of Crowns
-2 Tropical Island
 2 Courser of Kruphix
 3 Wasteland
-3 Tropical Island
-3 Misty Rainforest
 3 Windswept Heath
 3 Snow-Covered Forest
+3 Misty Rainforest
 3 Ice-Fang Coatl
+3 Tropical Island
 3 Green Sun's Zenith
 3 Courser of Kruphix
 3 Oko, Thief of Crowns

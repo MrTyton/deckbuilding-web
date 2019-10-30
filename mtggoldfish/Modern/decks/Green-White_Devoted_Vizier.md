@@ -32,11 +32,11 @@
 
 |*n*<sup>th</sup> copy|                                       Maindeck Card                                        |*n*<sup>th</sup> copy|                                         Sideboard Card                                         |
 |--------------------:|--------------------------------------------------------------------------------------------|--------------------:|------------------------------------------------------------------------------------------------|
-|                    1|[Knight of Autumn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452933) |                    1|[Thrun, the Last Troll](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=214050)|
-|                    1|[Verdant Catacombs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405113)|                    1|[Worship](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=25553)               |
+|                    1|[Verdant Catacombs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405113)|                    1|[Thrun, the Last Troll](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=214050)|
 |                    1|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)           |                    1|[Gaddock Teeg](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=140188)         |
+|                    1|[Knight of Autumn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452933) |                    1|[Worship](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=25553)               |
+|                    2|[Eternal Witness](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=51628)   |                     |                                                                                                |
 |                    2|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)           |                     |                                                                                                |
 |                    2|[Verdant Catacombs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405113)|                     |                                                                                                |
-|                    2|[Eternal Witness](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=51628)   |                     |                                                                                                |
 |                    2|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)           |                     |                                                                                                |
 

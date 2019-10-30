@@ -28,8 +28,8 @@
 
 |*n*<sup>th</sup> copy|                                         Maindeck Card                                         |*n*<sup>th</sup> copy|                                        Sideboard Card                                         |
 |--------------------:|-----------------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------------|
-|                    1|[Gemstone Caverns](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=122094)    |                    1|[Shenanigans](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464095)         |
-|                    1|[Wooded Foothills](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405116)    |                    1|[Engineered Explosives](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=50139)|
+|                    1|[Gemstone Caverns](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=122094)    |                    1|[Engineered Explosives](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=50139)|
+|                    1|[Wooded Foothills](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405116)    |                    1|[Shenanigans](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464095)         |
 |                    1|[Merchant of the Vale](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473093)|                    1|[Quicksilver Amulet](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439386)  |
 |                    1|[Cathartic Reunion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417682)   |                    1|[Blood Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45386)           |
 |                    2|[Cathartic Reunion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417682)   |                    2|[Engineered Explosives](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=50139)|

@@ -4,8 +4,8 @@
 1 Generous Gift
 1 Cleansing Nova
 1 Burrenton Forge-Tender
-1 Remorseful Cleric
 1 Stony Silence
+1 Remorseful Cleric
 1 Sorcerous Spyglass
 2 Remorseful Cleric
 2 Stony Silence
@@ -28,17 +28,6 @@
 3 Ethersworn Canonist
 3 Kitchen Finks
 4 Kitchen Finks
-1 Aether Gust
-1 Summary Dismissal
-1 Hurkyl's Recall
-1 Flusterstorm
-1 Redirect
-1 Thing in the Ice
-2 Hurkyl's Recall
-2 Flusterstorm
-2 Redirect
-3 Plague Engineer
-4 Plague Engineer
 1 Ancient Grudge
 1 Return to Nature
 1 Thragtusk
@@ -51,6 +40,17 @@
 2 Ceremonious Rejection
 3 Ceremonious Rejection
 4 Ceremonious Rejection
+1 Summary Dismissal
+1 Aether Gust
+1 Hurkyl's Recall
+1 Flusterstorm
+1 Redirect
+1 Thing in the Ice
+2 Flusterstorm
+2 Hurkyl's Recall
+2 Redirect
+3 Plague Engineer
+4 Plague Engineer
 1 Tireless Tracker
 1 Fry
 1 Veil of Summer
@@ -59,7 +59,7 @@
 2 Tireless Tracker
 2 Destructive Revelry
 2 Veil of Summer
-3 Damping Sphere
 3 Veil of Summer
+3 Damping Sphere
 4 Veil of Summer
 4 Damping Sphere

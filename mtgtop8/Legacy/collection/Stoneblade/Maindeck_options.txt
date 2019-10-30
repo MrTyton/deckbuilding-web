@@ -16,10 +16,10 @@
 1 Underground Sea
 1 Wasteland
 2 Wasteland
-1 Snow-Covered Plains
 1 Snow-Covered Island
-2 Snow-Covered Plains
+1 Snow-Covered Plains
 2 Snow-Covered Island
+2 Snow-Covered Plains
 3 Snow-Covered Island
 2 Back to Basics
 1 Monastery Mentor
@@ -37,8 +37,8 @@
 2 Polluted Delta
 3 Polluted Delta
 4 Polluted Delta
-1 Arcum's Astrolabe
 1 Snow-Covered Swamp
+1 Arcum's Astrolabe
 2 Arcum's Astrolabe
 3 Arcum's Astrolabe
 1 Windswept Heath
@@ -47,48 +47,45 @@
 1 Thalia, Heretic Cathar
 2 Magmatic Sinkhole
 2 Force of Negation
+2 Vendilion Clique
 1 Marsh Flats
 1 Engineered Explosives
 1 Tasigur, the Golden Fang
 1 Plague Engineer
-2 Plague Engineer
 2 Tasigur, the Golden Fang
-2 Vendilion Clique
-1 Inquisition of Kozilek
+2 Plague Engineer
+2 Arid Mesa
+3 Arid Mesa
+2 Windswept Heath
+3 Windswept Heath
 1 Liliana, the Last Hope
 1 Kaya's Guile
 1 Vindicate
 1 Bitterblossom
 1 Baleful Strix
-2 Swamp
+1 Inquisition of Kozilek
 2 Inquisition of Kozilek
 2 Vindicate
 2 Bitterblossom
 2 Kaya's Guile
+2 Swamp
 2 Baleful Strix
 3 Underground Sea
-2 Arid Mesa
-3 Arid Mesa
-2 Windswept Heath
-3 Windswept Heath
-2 Spell Snare
-3 Scalding Tarn
-4 Scalding Tarn
 1 Snow-Covered Forest
-1 Oko, Thief of Crowns
 1 Ice-Fang Coatl
-1 Academy Ruins
 1 Sword of the Meek
 1 Urza, Lord High Artificer
 1 Thopter Foundry
-1 Abrupt Decay
-1 Assassin's Trophy
 1 Dead of Winter
 1 Tropical Island
 1 Retrofitter Foundry
+1 Abrupt Decay
+1 Academy Ruins
+1 Oko, Thief of Crowns
+1 Assassin's Trophy
 2 Snow-Covered Swamp
-2 Snow-Covered Forest
 2 Oko, Thief of Crowns
+2 Snow-Covered Forest
 2 Ice-Fang Coatl
 2 Urza, Lord High Artificer
 2 Thopter Foundry
@@ -97,8 +94,8 @@
 3 Ice-Fang Coatl
 3 Urza, Lord High Artificer
 3 Thopter Foundry
-4 Thopter Foundry
 4 Arcum's Astrolabe
+4 Thopter Foundry
 1 Daze
 1 Delver of Secrets
 1 Gideon's Triumph
@@ -109,6 +106,9 @@
 3 Delver of Secrets
 4 Daze
 4 Delver of Secrets
+2 Spell Snare
+3 Scalding Tarn
+4 Scalding Tarn
 4 Snow-Covered Island
 5 Snow-Covered Island
 6 Snow-Covered Island
