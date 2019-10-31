@@ -1,6 +1,5 @@
 1 Nahiri, the Harbinger
 1 Field of the Dead
-1 Thragtusk
 1 Snow-Covered Plains
 1 Sweltering Suns
 1 Scapeshift
@@ -12,6 +11,7 @@
 1 Cinder Glade
 1 Farseek
 1 Panglacial Wurm
+1 Thragtusk
 1 Sakura-Tribe Elder
 2 Scapeshift
 2 Cinder Glade
@@ -34,15 +34,16 @@
 3 Sakura-Tribe Elder
 3 Scapeshift
 3 Mountain
-4 Stomping Ground
 4 Sacred Foundry
 4 Sakura-Tribe Elder
 4 Primeval Titan
+4 Stomping Ground
 4 Scapeshift
 4 Search for Tomorrow
 4 Eladamri's Call
 1 Simian Spirit Guide
 2 Simian Spirit Guide
+1 Gruul Spellbreaker
 1 Renegade Rallier
 1 Stirring Wildwood
 1 Rhonas the Indomitable
@@ -54,19 +55,18 @@
 1 Lightning Helix
 1 Sarkhan Vol
 1 Naya Charm
-1 Gruul Spellbreaker
-2 Qasali Pridemage
 2 Gruul Spellbreaker
+2 Qasali Pridemage
 2 Collected Company
 2 Flooded Strand
 2 Lightning Helix
 3 Qasali Pridemage
 3 Collected Company
 1 Elvish Reclaimer
-1 Huntmaster of the Fells
 1 Embercleave
 1 Castle Ardenvale
 1 Karn, the Great Creator
+1 Huntmaster of the Fells
 1 Batterskull
 1 Tranquil Thicket
 1 Forgotten Cave
@@ -86,35 +86,20 @@
 4 Wrenn and Six
 4 Simian Spirit Guide
 4 Stoneforge Mystic
-1 Hexdrinker
-1 Bloodbraid Elf
-2 Tireless Tracker
-2 Tarmogoyf
-2 Hexdrinker
-2 Bloodbraid Elf
-2 Knight of Autumn
-3 Hexdrinker
-3 Tarmogoyf
-3 Scavenging Ooze
-3 Knight of Autumn
-3 Bloodbraid Elf
-4 Hexdrinker
-4 Tarmogoyf
-4 Bloodbraid Elf
 1 Kiki-Jiki, Mirror Breaker
+1 Magus of the Moon
 1 Grove of the Burnwillows
-1 Restoration Angel
 1 Noble Hierarch
+1 Restoration Angel
 1 Eternal Witness
 1 Chord of Calling
 1 Eidolon of Rhetoric
 1 Selfless Spirit
-1 Magus of the Moon
 1 Copperline Gorge
 1 Wall of Blossoms
 2 Chord of Calling
-2 Restoration Angel
 2 Noble Hierarch
+2 Restoration Angel
 2 Eternal Witness
 2 Wall of Blossoms
 2 Copperline Gorge
@@ -127,6 +112,22 @@
 3 Restoration Angel
 4 Chord of Calling
 4 Restoration Angel
+1 Hexdrinker
+1 Bloodbraid Elf
+2 Tarmogoyf
+2 Hexdrinker
+2 Tireless Tracker
+2 Bloodbraid Elf
+2 Knight of Autumn
+3 Tarmogoyf
+3 Scavenging Ooze
+3 Knight of Autumn
+3 Hexdrinker
+3 Bloodbraid Elf
+4 Tarmogoyf
+4 Bloodbraid Elf
+4 Hexdrinker
+1 Mutagenic Growth
 1 Rancor
 1 Dryad Arbor
 1 Narnam Renegade
@@ -135,17 +136,16 @@
 1 Burning-Tree Emissary
 1 Experiment One
 1 Vexing Devil
-1 Mutagenic Growth
 1 Ghor-Clan Rampager
 1 Become Immense
 1 Goblin Guide
+2 Mutagenic Growth
 2 Narnam Renegade
 2 Rancor
 2 Reckless Bushwhacker
 2 Vexing Devil
 2 Goblin Guide
 2 Atarka's Command
-2 Mutagenic Growth
 2 Burning-Tree Emissary
 2 Ghor-Clan Rampager
 2 Experiment One

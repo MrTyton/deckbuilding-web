@@ -15,7 +15,6 @@
 1 Flaxen Intruder
 1 March of the Multitudes
 1 Temple Garden
-1 Conclave Tribunal
 1 Faerie Guidemother
 1 Giant Killer
 1 Flower / Flourish
@@ -24,7 +23,6 @@
 1 Plains
 2 March of the Multitudes
 2 Temple Garden
-2 Conclave Tribunal
 2 Plains
 2 Faerie Guidemother
 2 Venerated Loxodon
@@ -57,11 +55,10 @@
 1 Massacre Girl
 1 Liliana, Dreadhorde General
 4 Rankle, Master of Pranks
-3 Flaxen Intruder
-3 Shepherd of the Flock
-4 Flower / Flourish
 2 Vraska, Golgari Queen
 1 Garruk, Cursed Huntsman
+1 Conclave Tribunal
+2 Conclave Tribunal
 1 Knight of the Ebon Legion
 1 Midnight Reaper
 1 Smitten Swordmaster
@@ -78,12 +75,12 @@
 1 Cavalier of Night
 4 Questing Beast
 1 Sorcerous Spyglass
-1 Trostani Discordant
-1 Castle Ardenvale
 2 Garruk, Cursed Huntsman
 2 Liliana, Dreadhorde General
 1 Ajani, the Greathearted
 2 Ajani, the Greathearted
+3 Flaxen Intruder
+3 Shepherd of the Flock
 1 Ugin, the Ineffable
 1 Leafkin Druid
 2 Leafkin Druid
@@ -97,11 +94,9 @@
 3 Assassin's Trophy
 4 Assassin's Trophy
 4 Knight of the Ebon Legion
-1 Blacklance Paragon
-2 Blacklance Paragon
-3 Blacklance Paragon
-4 Blacklance Paragon
-9 Swamp
+1 Trostani Discordant
+1 Castle Ardenvale
+4 Flower / Flourish
 1 Mountain
 1 Kraul Harpooner
 2 Kraul Harpooner
@@ -112,3 +107,16 @@
 5 Mountain
 6 Mountain
 7 Mountain
+1 Blacklance Paragon
+2 Blacklance Paragon
+3 Blacklance Paragon
+4 Blacklance Paragon
+9 Swamp
+1 Emmara, Soul of the Accord
+1 Unbreakable Formation
+1 Gideon Blackblade
+2 Emmara, Soul of the Accord
+9 Plains
+9 Forest
+10 Plains
+10 Forest
