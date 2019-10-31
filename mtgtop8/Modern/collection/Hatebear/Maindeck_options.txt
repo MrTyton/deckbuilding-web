@@ -1,45 +1,58 @@
-1 Tidehollow Sculler
-1 Swamp
-1 Caves of Koilos
-2 Tidehollow Sculler
-2 Concealed Courtyard
-2 Caves of Koilos
-3 Tidehollow Sculler
-3 Concealed Courtyard
-3 Caves of Koilos
-6 Plains
-2 Horizon Canopy
-2 Phyrexian Revoker
-1 Shefet Dunes
+3 Silent Clearing
+4 Stoneforge Mystic
+1 Field of Ruin
+4 Plains
+5 Plains
+1 Phyrexian Revoker
+1 Tectonic Edge
 1 Wasteland Strangler
 2 Wasteland Strangler
 4 Concealed Courtyard
 4 Caves of Koilos
+2 Field of Ruin
+1 Horizon Canopy
+6 Plains
+2 Horizon Canopy
+2 Phyrexian Revoker
+3 Wasteland Strangler
+4 Tidehollow Sculler
+1 Shefet Dunes
 7 Plains
 1 Sword of Feast and Famine
-1 Sunbaked Canyon
-1 Snow-Covered Plains
 1 Charming Prince
 2 Charming Prince
 1 Thraben Inspector
-2 Sunbaked Canyon
+1 Sunbaked Canyon
+1 Snow-Covered Plains
 1 Blade Splicer
 2 Blade Splicer
-1 Restoration Angel
 1 Eiganjo Castle
+1 Restoration Angel
 8 Plains
 9 Plains
 2 Tectonic Edge
 3 Field of Ruin
 4 Field of Ruin
 1 Ranger-Captain of Eos
-3 Wasteland Strangler
-4 Tidehollow Sculler
+2 Sunbaked Canyon
+1 Mutavault
+2 Mutavault
+3 Mutavault
+2 Shefet Dunes
 2 Snow-Covered Plains
 3 Snow-Covered Plains
 4 Snow-Covered Plains
-1 Wastes
+5 Snow-Covered Plains
+6 Snow-Covered Plains
+7 Snow-Covered Plains
+2 Restoration Angel
+1 Sword of Light and Shadow
+10 Plains
+3 Tectonic Edge
+4 Tectonic Edge
 1 Thalia, Heretic Cathar
+3 Horizon Canopy
+1 Wastes
 1 Chalice of the Void
 1 Gemstone Caverns
 1 Dismember
@@ -54,39 +67,25 @@
 2 Simian Spirit Guide
 2 Dismember
 2 Cavern of Souls
+3 Dismember
 3 Sunbaked Canyon
 3 Chalice of the Void
 3 Simian Spirit Guide
 3 Gemstone Caverns
 3 Reality Smasher
-4 Sunbaked Canyon
 4 Chalice of the Void
+4 Sunbaked Canyon
 4 Reality Smasher
 4 Simian Spirit Guide
-2 Shefet Dunes
-1 Mutavault
-2 Mutavault
-3 Mutavault
-5 Snow-Covered Plains
-6 Snow-Covered Plains
-7 Snow-Covered Plains
-2 Restoration Angel
-1 Sword of Light and Shadow
-10 Plains
-3 Tectonic Edge
-4 Tectonic Edge
-2 Thalia, Heretic Cathar
-3 Horizon Canopy
-3 Dismember
 1 Spellskite
 1 Adarkar Wastes
 1 Shalai, Voice of Plenty
 1 Spell Queller
 1 Hallowed Fountain
-1 Vendilion Clique
 1 Spellstutter Sprite
 1 Seachrome Coast
 1 Deputy of Detention
+1 Vendilion Clique
 2 Spellskite
 2 Seachrome Coast
 2 Spell Queller
@@ -118,16 +117,13 @@
 3 Charming Prince
 2 Ranger-Captain of Eos
 3 Ranger-Captain of Eos
+2 Thalia, Heretic Cathar
 1 Hypnotic Sprite
 1 Flagstones of Trokair
 1 Serra Avenger
 1 Walking Ballista
 2 Serra Avenger
 2 Vendilion Clique
-1 Winds of Abandon
-1 Warping Wail
-2 Winds of Abandon
-2 Warping Wail
 1 Militia Bugler
 1 Weathered Wayfarer
 2 Militia Bugler
@@ -142,8 +138,8 @@
 1 Sigarda, Host of Herons
 1 Qasali Pridemage
 1 Voice of Resurgence
-1 Aven Mindcensor
 1 Thrun, the Last Troll
+1 Aven Mindcensor
 1 Birds of Paradise
 1 Noble Hierarch
 1 Temple Garden
@@ -161,8 +157,8 @@
 2 Forest
 2 Scavenging Ooze
 2 Voice of Resurgence
-3 Aven Mindcensor
 3 Qasali Pridemage
+3 Aven Mindcensor
 3 Temple Garden
 3 Forest
 3 Thalia, Heretic Cathar

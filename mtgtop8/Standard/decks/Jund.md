@@ -45,15 +45,14 @@
 |                    2|[Embercleave](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473082)            |                     |              |
 |                    2|[Questing Beast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473133)         |                     |              |
 |                    2|[Growth-Chamber Guardian](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457272)|                     |              |
-|                    3|[Growth-Chamber Guardian](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457272)|                     |              |
 |                    3|[Fabled Passage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473206)         |                     |              |
 |                    3|[Rix Maadi Reveler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457253)      |                     |              |
 |                    3|[Skarrgan Hellkite](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457258)      |                     |              |
 |                    3|[Bonecrusher Giant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473077)      |                     |              |
 |                    3|[Embercleave](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473082)            |                     |              |
 |                    3|[Questing Beast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473133)         |                     |              |
+|                    3|[Growth-Chamber Guardian](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457272)|                     |              |
 |                    3|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)                 |                     |              |
-|                    4|[Growth-Chamber Guardian](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457272)|                     |              |
 |                    4|[Rix Maadi Reveler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457253)      |                     |              |
 |                    4|[Rotting Regisaur](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466865)       |                     |              |
 |                    4|[Bonecrusher Giant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473077)      |                     |              |
@@ -62,4 +61,5 @@
 |                    4|[Questing Beast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473133)         |                     |              |
 |                    4|[Fabled Passage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473206)         |                     |              |
 |                    4|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)                 |                     |              |
+|                    4|[Growth-Chamber Guardian](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457272)|                     |              |
 
