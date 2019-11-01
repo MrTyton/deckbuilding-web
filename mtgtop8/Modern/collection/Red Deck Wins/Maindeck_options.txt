@@ -25,23 +25,18 @@
 3 Soul-Scar Mage
 3 Lava Dart
 4 Soul-Scar Mage
-3 Arid Mesa
-1 Grim Lavamancer
+4 Lava Dart
 1 Seal of Fire
 2 Seal of Fire
 3 Seal of Fire
 3 Fiery Islet
 4 Seal of Fire
 4 Fiery Islet
-4 Lava Dart
-13 Mountain
-14 Mountain
 1 Snow-Covered Mountain
 2 Snow-Covered Mountain
 3 Snow-Covered Mountain
-1 Scalding Tarn
-3 Skullcrack
-15 Mountain
+13 Mountain
+14 Mountain
 1 Burst Lightning
 1 Bedlam Reveler
 1 Crash Through
@@ -49,11 +44,17 @@
 2 Bedlam Reveler
 2 Manamorphose
 2 Crash Through
-3 Manamorphose
 3 Bedlam Reveler
+3 Manamorphose
 3 Crash Through
 4 Manamorphose
 4 Crash Through
+1 Scalding Tarn
+3 Arid Mesa
+1 Grim Lavamancer
+3 Skullcrack
+15 Mountain
+2 Burst Lightning
 2 Scalding Tarn
 1 Kiln Fiend
 1 Mutagenic Growth
@@ -65,7 +66,6 @@
 1 Firebolt
 1 Runaway Steam-Kin
 2 Firebolt
-2 Burst Lightning
 2 Runaway Steam-Kin
 3 Runaway Steam-Kin
 1 Shard Volley
@@ -75,6 +75,18 @@
 3 Grim Lavamancer
 4 Shard Volley
 4 Grim Lavamancer
+1 Warlord's Fury
+2 Warlord's Fury
+3 Warlord's Fury
+4 Bedlam Reveler
+4 Warlord's Fury
+4 Snow-Covered Mountain
+5 Snow-Covered Mountain
+6 Snow-Covered Mountain
+7 Snow-Covered Mountain
+8 Snow-Covered Mountain
+9 Snow-Covered Mountain
+10 Snow-Covered Mountain
 1 Thunderous Wrath
 2 Thunderous Wrath
 4 Skullcrack
