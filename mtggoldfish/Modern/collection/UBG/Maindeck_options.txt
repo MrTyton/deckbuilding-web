@@ -3,43 +3,43 @@
 2 Watery Grave
 1 Overgrown Tomb
 2 Overgrown Tomb
-1 Prized Amalgam
-1 Vengevine
 1 Marsh Flats
-1 Bloodstained Mire
+1 Vengevine
 1 Stitcher's Supplier
 1 Glimpse the Unthinkable
 1 Hedron Crab
 1 Gravecrawler
+1 Bloodstained Mire
 1 Creeping Chill
-2 Creeping Chill
-2 Prized Amalgam
+1 Prized Amalgam
+2 Marsh Flats
 2 Vengevine
 2 Bloodstained Mire
-2 Marsh Flats
+2 Prized Amalgam
 2 Gravecrawler
 2 Glimpse the Unthinkable
 2 Stitcher's Supplier
 2 Hedron Crab
-3 Creeping Chill
-3 Prized Amalgam
-3 Vengevine
-3 Bloodstained Mire
+2 Creeping Chill
 3 Marsh Flats
+3 Vengevine
 3 Hedron Crab
+3 Prized Amalgam
 3 Glimpse the Unthinkable
+3 Bloodstained Mire
+3 Creeping Chill
 3 Stitcher's Supplier
 3 Gravecrawler
-4 Creeping Chill
-4 Gravecrawler
-4 Prized Amalgam
 4 Vengevine
+4 Prized Amalgam
+4 Gravecrawler
+4 Creeping Chill
 4 Hedron Crab
 4 Stitcher's Supplier
 1 Carrion Feeder
 2 Carrion Feeder
-3 Carrion Feeder
 3 Overgrown Tomb
+3 Carrion Feeder
 4 Glimpse the Unthinkable
 1 Narcomoeba
 2 Narcomoeba
@@ -116,8 +116,8 @@
 1 Mox Opal
 1 Urza, Lord High Artificer
 1 Mishra's Bauble
-2 Emry, Lurker of the Loch
 2 Mishra's Bauble
+2 Emry, Lurker of the Loch
 2 Mox Opal
 2 Urza, Lord High Artificer
 2 Engineered Explosives
@@ -139,6 +139,8 @@
 1 Dakmor Salvage
 1 Gemstone Mine
 1 Lotleth Troll
+1 Once Upon a Time
+3 Gurmag Angler
 3 Inquisition of Kozilek
 1 Forest
 1 Maelstrom Pulse
@@ -146,15 +148,13 @@
 3 Island
 1 Counterbalance
 3 Flooded Strand
-1 Once Upon a Time
-3 Gurmag Angler
-1 Ghost Quarter
 1 Lonely Sandbar
+1 Dovin's Veto
 1 Gifts Ungiven
 1 Hallowed Fountain
-1 Dovin's Veto
 1 Surgical Extraction
 1 Life from the Loam
+1 Ghost Quarter
 2 Gifts Ungiven
 3 Gifts Ungiven
 1 Narset, Parter of Veils
@@ -162,15 +162,6 @@
 2 Creeping Tar Pit
 3 Verdant Catacombs
 4 Verdant Catacombs
-1 Tezzeret, Agent of Bolas
-2 Tezzeret, Agent of Bolas
-3 Tezzeret, Agent of Bolas
-4 Engineered Explosives
-4 Thoughtseize
-4 Oko, Thief of Crowns
-4 Gilded Goose
-4 Tezzeret, Agent of Bolas
-4 Emry, Lurker of the Loch
 1 Fact or Fiction
 1 Remand
 1 Blue Sun's Zenith
@@ -198,12 +189,21 @@
 2 Ingenious Infiltrator
 2 Spellstutter Sprite
 3 Spellstutter Sprite
-3 Ingenious Infiltrator
-3 Botanical Sanctum
 3 Faerie Seer
+3 Botanical Sanctum
+3 Ingenious Infiltrator
 4 Ingenious Infiltrator
 4 Faerie Seer
 4 Spellstutter Sprite
+1 Tezzeret, Agent of Bolas
+2 Tezzeret, Agent of Bolas
+3 Tezzeret, Agent of Bolas
+4 Oko, Thief of Crowns
+4 Gilded Goose
+4 Tezzeret, Agent of Bolas
+4 Engineered Explosives
+4 Emry, Lurker of the Loch
+4 Thoughtseize
 1 Bloodghast
 2 Bloodghast
 3 Bloodghast
@@ -212,13 +212,13 @@
 2 Spell Snare
 3 Scalding Tarn
 4 Scalding Tarn
-1 Witching Well
 1 Saheeli, Sublime Artificer
 1 Sai, Master Thopterist
 1 Paradoxical Outcome
 1 Mox Amber
 1 Everflowing Chalice
 1 Waterlogged Grove
+1 Witching Well
 2 Sai, Master Thopterist
 2 Saheeli, Sublime Artificer
 2 Everflowing Chalice
@@ -227,6 +227,6 @@
 3 Birds of Paradise
 3 Paradoxical Outcome
 3 Everflowing Chalice
-4 Birds of Paradise
 4 Paradoxical Outcome
 4 Everflowing Chalice
+4 Birds of Paradise

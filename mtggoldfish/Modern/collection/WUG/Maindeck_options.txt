@@ -58,31 +58,38 @@
 1 Charming Prince
 2 Brazen Borrower
 2 Vesperlark
+1 Coiling Oracle
+2 Coiling Oracle
+3 Coiling Oracle
+3 Soulherder
 1 Watcher for Tomorrow
 1 Renegade Rallier
 1 Ephemerate
 2 Watcher for Tomorrow
 2 Ephemerate
 3 Ephemerate
-1 Coiling Oracle
-2 Coiling Oracle
-3 Soulherder
-3 Coiling Oracle
+1 Knight of the Reliquary
+1 Tectonic Edge
+2 Tectonic Edge
+2 Knight of the Reliquary
+3 Knight of the Reliquary
+4 Snow-Covered Forest
+4 Knight of the Reliquary
 1 Gilded Goose
 1 Mishra's Bauble
 1 Urza, Lord High Artificer
 1 Mox Opal
 1 Emry, Lurker of the Loch
-1 Mox Amber
 1 Witching Well
+1 Mox Amber
 1 Thopter Foundry
 1 Sword of the Meek
 1 Arcum's Astrolabe
 2 Urza, Lord High Artificer
 2 Gilded Goose
 2 Mox Opal
-2 Mishra's Bauble
 2 Emry, Lurker of the Loch
+2 Mishra's Bauble
 2 Mox Amber
 2 Thopter Foundry
 2 Arcum's Astrolabe
@@ -100,20 +107,13 @@
 4 Mishra's Bauble
 4 Urza, Lord High Artificer
 4 Gilded Goose
-1 Knight of the Reliquary
-1 Tectonic Edge
-2 Tectonic Edge
-2 Knight of the Reliquary
-3 Knight of the Reliquary
-4 Snow-Covered Forest
-4 Knight of the Reliquary
 1 Verdant Catacombs
 1 Dryad Arbor
 1 Eladamri's Call
 1 Leyline of Abundance
 1 Karn, the Great Creator
-1 Heliod's Pilgrim
 1 Freed from the Real
+1 Heliod's Pilgrim
 1 Sylvan Caryatid
 2 Verdant Catacombs
 2 Eladamri's Call
@@ -130,8 +130,8 @@
 4 Sylvan Caryatid
 4 Leyline of Abundance
 1 Geist of Saint Traft
-1 Detention Sphere
 1 Tamiyo, Field Researcher
+1 Detention Sphere
 1 Winds of Abandon
 2 Geist of Saint Traft
 2 Detention Sphere
@@ -148,18 +148,17 @@
 1 Island
 1 Scale Up
 1 Blossoming Defense
-1 Apostle's Blessing
 1 Mutagenic Growth
 1 Inkmoth Nexus
 1 Blighted Agent
 1 Season of Growth
-1 Vines of Vastwood
 1 Pendelhaven
+1 Vines of Vastwood
+1 Apostle's Blessing
 1 Spellskite
 1 Distortion Strike
 1 Glistener Elf
 1 Might of Old Krosa
-2 Apostle's Blessing
 2 Mutagenic Growth
 2 Inkmoth Nexus
 2 Scale Up
@@ -168,23 +167,24 @@
 2 Blossoming Defense
 2 Distortion Strike
 2 Blighted Agent
+2 Apostle's Blessing
 2 Might of Old Krosa
 2 Glistener Elf
-3 Mutagenic Growth
 3 Vines of Vastwood
+3 Mutagenic Growth
 3 Might of Old Krosa
 3 Scale Up
 3 Glistener Elf
 3 Blighted Agent
 3 Inkmoth Nexus
 3 Blossoming Defense
+4 Mutagenic Growth
 4 Glistener Elf
 4 Blighted Agent
 4 Might of Old Krosa
 4 Blossoming Defense
 4 Inkmoth Nexus
 4 Vines of Vastwood
-4 Mutagenic Growth
 1 Yavimaya Coast
 1 Wastes
 1 Cavern of Souls
@@ -202,8 +202,8 @@
 1 Ancient Stirrings
 2 Thought-Knot Seer
 2 Brushland
-2 Drowner of Hope
 2 Reality Smasher
+2 Drowner of Hope
 2 Once Upon a Time
 2 Ancient Stirrings
 2 Eldrazi Temple
