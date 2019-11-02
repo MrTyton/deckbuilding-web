@@ -58,16 +58,16 @@
 1 Charming Prince
 2 Brazen Borrower
 2 Vesperlark
-1 Coiling Oracle
-2 Coiling Oracle
-3 Coiling Oracle
-3 Soulherder
 1 Watcher for Tomorrow
 1 Renegade Rallier
 1 Ephemerate
 2 Watcher for Tomorrow
 2 Ephemerate
 3 Ephemerate
+1 Coiling Oracle
+2 Coiling Oracle
+3 Coiling Oracle
+3 Soulherder
 1 Tectonic Edge
 1 Knight of the Reliquary
 2 Tectonic Edge
@@ -75,33 +75,33 @@
 3 Knight of the Reliquary
 4 Snow-Covered Forest
 4 Knight of the Reliquary
+1 Sword of the Meek
 1 Gilded Goose
 1 Mishra's Bauble
 1 Urza, Lord High Artificer
 1 Mox Opal
+1 Thopter Foundry
 1 Emry, Lurker of the Loch
 1 Witching Well
 1 Mox Amber
-1 Thopter Foundry
-1 Sword of the Meek
 1 Arcum's Astrolabe
-2 Emry, Lurker of the Loch
-2 Gilded Goose
+2 Thopter Foundry
 2 Urza, Lord High Artificer
 2 Mox Opal
+2 Gilded Goose
 2 Mishra's Bauble
 2 Mox Amber
-2 Thopter Foundry
+2 Emry, Lurker of the Loch
 2 Arcum's Astrolabe
 2 Sword of the Meek
 3 Arcum's Astrolabe
 3 Oko, Thief of Crowns
+3 Thopter Foundry
 3 Urza, Lord High Artificer
 3 Mishra's Bauble
-3 Emry, Lurker of the Loch
 3 Mox Opal
 3 Gilded Goose
-3 Thopter Foundry
+3 Emry, Lurker of the Loch
 4 Arcum's Astrolabe
 4 Mox Opal
 4 Mishra's Bauble
@@ -112,26 +112,26 @@
 1 Eladamri's Call
 1 Leyline of Abundance
 1 Karn, the Great Creator
-1 Freed from the Real
-1 Heliod's Pilgrim
 1 Sylvan Caryatid
+1 Heliod's Pilgrim
+1 Freed from the Real
 2 Verdant Catacombs
 2 Eladamri's Call
-2 Leyline of Abundance
 2 Karn, the Great Creator
 2 Freed from the Real
 2 Sylvan Caryatid
+2 Leyline of Abundance
 3 Verdant Catacombs
 3 Eladamri's Call
+3 Karn, the Great Creator
 3 Freed from the Real
 3 Leyline of Abundance
-3 Karn, the Great Creator
 3 Sylvan Caryatid
 4 Sylvan Caryatid
 4 Leyline of Abundance
 1 Geist of Saint Traft
-1 Tamiyo, Field Researcher
 1 Detention Sphere
+1 Tamiyo, Field Researcher
 1 Winds of Abandon
 2 Geist of Saint Traft
 2 Detention Sphere
@@ -154,12 +154,12 @@
 1 Emrakul, the Promised End
 1 Thought-Knot Seer
 1 Brushland
+1 Drowner of Hope
 1 Eldrazi Skyspawner
 1 Sword of Light and Shadow
 1 Once Upon a Time
 1 Eldrazi Displacer
 1 Eldrazi Temple
-1 Drowner of Hope
 1 Ancient Stirrings
 2 Thought-Knot Seer
 2 Reality Smasher
@@ -180,9 +180,9 @@
 3 Once Upon a Time
 4 Once Upon a Time
 4 Reality Smasher
+4 Thought-Knot Seer
 4 Ancient Stirrings
 4 Eldrazi Displacer
-4 Thought-Knot Seer
 4 Eldrazi Temple
 1 Scale Up
 1 Blossoming Defense
@@ -191,8 +191,8 @@
 1 Inkmoth Nexus
 1 Blighted Agent
 1 Season of Growth
-1 Pendelhaven
 1 Vines of Vastwood
+1 Pendelhaven
 1 Apostle's Blessing
 1 Distortion Strike
 1 Glistener Elf
@@ -211,9 +211,9 @@
 3 Vines of Vastwood
 3 Mutagenic Growth
 3 Might of Old Krosa
-3 Scale Up
 3 Glistener Elf
 3 Blighted Agent
+3 Scale Up
 3 Inkmoth Nexus
 3 Blossoming Defense
 4 Mutagenic Growth
