@@ -1,7 +1,7 @@
 # Hyper-Show
 
 #### [Export MTGO List](../collection/Hyper-Show/Hyper-Show.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Chancellor%20of%20the%20Annex%0A4%09Elvish%20Spirit%20Guide%0A4%09Emrakul,%20the%20Aeons%20Torn%0A4%09Force%20of%20Will%0A1%09Forest%0A4%09Griselbrand%0A2%09Hypergenesis%0A1%09Island%0A2%09Misdirection%0A4%09Misty%20Rainforest%0A1%09Mountain%0A4%09Omniscience%0A2%09Scalding%20Tarn%0A4%09Shardless%20Agent%0A4%09Show%20and%20Tell%0A4%09Simian%20Spirit%20Guide%0A1%09Taiga%0A1%09Tropical%20Island%0A4%09Violent%20Outburst%0A1%09Volcanic%20Island%0A4%09Wooded%20Foothills&deckside=2%09Arcane%20Artisan%0A3%09Ashen%20Rider%0A1%09Ingot%20Chewer%0A2%09Kozilek's%20Return%0A3%09Leyline%20of%20Sanctity%0A3%09Leyline%20of%20the%20Void%0A1%09Mystical%20Dispute)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Chancellor%20of%20the%20Annex%0A4%09Elvish%20Spirit%20Guide%0A4%09Emrakul,%20the%20Aeons%20Torn%0A4%09Force%20of%20Will%0A1%09Forest%0A4%09Griselbrand%0A2%09Hypergenesis%0A1%09Island%0A2%09Misdirection%0A4%09Misty%20Rainforest%0A1%09Mountain%0A4%09Omniscience%0A2%09Scalding%20Tarn%0A4%09Shardless%20Agent%0A4%09Show%20and%20Tell%0A4%09Simian%20Spirit%20Guide%0A1%09Taiga%0A1%09Tropical%20Island%0A4%09Violent%20Outburst%0A1%09Volcanic%20Island%0A4%09Wooded%20Foothills&deckside=2%09Arcane%20Artisan%0A3%09Ashen%20Rider%0A2%09Ingot%20Chewer%0A2%09Kozilek's%20Return%0A3%09Leyline%20of%20Sanctity%0A3%09Leyline%20of%20the%20Void)
 # Maindeck
 
 |                                           Creature (24)                                            |                                    Enchantment (4)                                     |                                        Instant (10)                                         |                                          Land (16)                                          |                                       Sorcery (6)                                        |
@@ -19,11 +19,11 @@
 
 # Sideboard
 
-|                                       Creature (6)                                        |                                        Enchantment (6)                                         |                                         Instant (3)                                         |
+|                                       Creature (7)                                        |                                        Enchantment (6)                                         |                                         Instant (2)                                         |
 |-------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|
 |2 [Arcane Artisan](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446001)|3 [Leyline of Sanctity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=204993)|2 [Kozilek's Return](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407608)|
-|3 [Ashen Rider](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373689)   |3 [Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)|1 [Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)|
-|1 [Ingot Chewer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389558)  |                                                                                                |                                                                                             |
+|3 [Ashen Rider](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373689)   |3 [Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)|                                                                                             |
+|2 [Ingot Chewer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389558)  |                                                                                                |                                                                                             |
 
 
 # Other Options
@@ -31,5 +31,5 @@
 |*n*<sup>th</sup> copy|                                    Maindeck Card                                     |*n*<sup>th</sup> copy|                                      Sideboard Card                                       |
 |--------------------:|--------------------------------------------------------------------------------------|--------------------:|-------------------------------------------------------------------------------------------|
 |                    1|[Steam Vents](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405109)|                    2|[Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)|
-|                     |                                                                                      |                    2|[Ingot Chewer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389558)    |
+|                     |                                                                                      |                    1|[Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)|
 

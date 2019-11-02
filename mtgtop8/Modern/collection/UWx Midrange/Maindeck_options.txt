@@ -1,5 +1,4 @@
 3 Snow-Covered Island
-1 Polluted Delta
 1 Mystic Sanctuary
 2 Snow-Covered Plains
 3 Teferi, Time Raveler
@@ -7,13 +6,12 @@
 1 Dismember
 4 Snow-Covered Island
 5 Snow-Covered Island
+1 Polluted Delta
 6 Snow-Covered Island
 1 Supreme Verdict
 5 Island
 1 Prismatic Vista
-6 Island
 2 Scalding Tarn
-3 Jace, the Mind Sculptor
 1 Lightning Bolt
 1 Lightning Helix
 1 Steam Vents
@@ -25,12 +23,15 @@
 3 Lightning Bolt
 3 Lightning Helix
 4 Lightning Bolt
-2 Polluted Delta
-1 Sword of Fire and Ice
-1 Misty Rainforest
+6 Island
+3 Jace, the Mind Sculptor
 3 Scalding Tarn
-1 Logic Knot
+1 Sword of Fire and Ice
 1 Geist of Saint Traft
+1 Misty Rainforest
+1 Spirebluff Canal
+1 Logic Knot
+2 Polluted Delta
 2 Mystic Sanctuary
 3 Spell Snare
 1 Castle Ardenvale
@@ -40,48 +41,27 @@
 1 Spell Pierce
 1 Sulfur Falls
 2 Geist of Saint Traft
-1 Spirebluff Canal
 4 Scalding Tarn
-1 Inquisition of Kozilek
-1 Thoughtseize
-1 Godless Shrine
-1 Fatal Push
-1 Swamp
-1 Watery Grave
-1 Creeping Tar Pit
-2 Inquisition of Kozilek
-2 Thoughtseize
-2 Watery Grave
-2 Fatal Push
-3 Polluted Delta
-4 Polluted Delta
+1 Seachrome Coast
 2 Logic Knot
+1 Fiery Islet
+2 Vendilion Clique
+4 Lightning Helix
+1 Sword of Light and Shadow
 1 Detention Sphere
 2 Supreme Verdict
-1 Seachrome Coast
 2 Misty Rainforest
 1 Restoration Angel
 2 Restoration Angel
-2 Spell Pierce
 1 Winds of Abandon
 2 Winds of Abandon
+2 Spell Pierce
+1 Giver of Runes
+1 Arid Mesa
+2 Giver of Runes
 1 Inspiring Vantage
 1 Blinkmoth Nexus
 2 Spirebluff Canal
-1 Search for Azcanta
-1 Silent Clearing
-3 Inquisition of Kozilek
-1 Bitterblossom
-1 Drowned Catacomb
-1 Spellstutter Sprite
-1 Castle Vantress
-1 Mutavault
-2 Bitterblossom
-2 Spellstutter Sprite
-2 Creeping Tar Pit
-3 Spellstutter Sprite
-3 Bitterblossom
-4 Spellstutter Sprite
 4 Force of Negation
 1 Serum Visions
 1 Narset, Parter of Veils
@@ -93,10 +73,26 @@
 2 Monastery Mentor
 2 Arcum's Astrolabe
 3 Serum Visions
-3 Prismatic Vista
 3 Monastery Mentor
+3 Prismatic Vista
 3 Arcum's Astrolabe
 4 Serum Visions
+1 Inquisition of Kozilek
+1 Thoughtseize
+1 Search for Azcanta
+1 Godless Shrine
+1 Silent Clearing
+1 Swamp
+1 Watery Grave
+1 Creeping Tar Pit
+1 Fatal Push
+2 Inquisition of Kozilek
+2 Thoughtseize
+2 Watery Grave
+2 Fatal Push
+3 Polluted Delta
+3 Inquisition of Kozilek
+4 Polluted Delta
 1 Sun Titan
 1 Prairie Stream
 1 Crucible of Worlds
@@ -105,7 +101,6 @@
 1 Kami of False Hope
 1 Watcher for Tomorrow
 1 Ranger-Captain of Eos
-1 Sword of Light and Shadow
 1 Weathered Wayfarer
 1 Venser, the Sojourner
 1 Mortarpod
@@ -120,27 +115,24 @@
 2 Sun Titan
 2 Emeria, the Sky Ruin
 3 Charming Prince
-3 Watcher for Tomorrow
 3 Ranger-Captain of Eos
+3 Watcher for Tomorrow
 3 Snow-Covered Plains
 3 Sun Titan
 3 Emeria, the Sky Ruin
 4 Snow-Covered Plains
-4 Charming Prince
 4 Ranger-Captain of Eos
+4 Charming Prince
 5 Snow-Covered Plains
 6 Snow-Covered Plains
 7 Snow-Covered Plains
-1 Fiery Islet
 1 The Royal Scions
 1 Dovin's Veto
 1 Brineborn Cutthroat
 1 Sunbaked Canyon
 2 Sacred Foundry
 2 The Royal Scions
-2 Vendilion Clique
 2 Dovin's Veto
 2 Brineborn Cutthroat
 3 Brineborn Cutthroat
 4 Brineborn Cutthroat
-4 Lightning Helix

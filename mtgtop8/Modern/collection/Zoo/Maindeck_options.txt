@@ -1,32 +1,33 @@
+2 Bloodbraid Elf
+3 Bloodbraid Elf
 1 Voice of Resurgence
 2 Voice of Resurgence
 1 Kessig Wolf Run
 1 Knight of the Reliquary
 2 Knight of the Reliquary
 3 Knight of the Reliquary
+2 Temple Garden
 2 Forest
+2 Scavenging Ooze
 1 Noble Hierarch
 2 Noble Hierarch
 3 Noble Hierarch
 4 Noble Hierarch
-1 Scavenging Ooze
 1 Knight of Autumn
-1 Sunbaked Canyon
 1 Qasali Pridemage
 2 Qasali Pridemage
+1 Sunbaked Canyon
+1 Boros Charm
+2 Boros Charm
 4 Path to Exile
 1 Kird Ape
 2 Kird Ape
-4 Reckless Bushwhacker
 2 Hexdrinker
-2 Temple Garden
-2 Scavenging Ooze
+4 Tarmogoyf
 1 Gruul Spellbreaker
 1 Lightning Helix
 2 Lightning Helix
 4 Bloodbraid Elf
-1 Boros Charm
-2 Boros Charm
 1 Once Upon a Time
 1 Hidden Herbalists
 2 Once Upon a Time
@@ -40,15 +41,19 @@
 1 Gideon Blackblade
 2 Gideon Blackblade
 2 Knight of Autumn
-4 Tarmogoyf
 1 Snow-Covered Mountain
 1 Snow-Covered Forest
 2 Gruul Spellbreaker
-1 Simian Spirit Guide
-2 Simian Spirit Guide
+1 Monastery Swiftspear
+2 Monastery Swiftspear
+3 Boros Charm
+3 Monastery Swiftspear
+4 Monastery Swiftspear
 1 Become Immense
 1 Mutagenic Growth
 2 Mutagenic Growth
+1 Simian Spirit Guide
+2 Simian Spirit Guide
 1 Ghost Quarter
 1 Bonecrusher Giant
 3 Hexdrinker
@@ -67,17 +72,12 @@
 2 Rancor
 1 Bloodstained Mire
 1 Bomat Courier
-1 Monastery Swiftspear
 2 Become Immense
 2 Bomat Courier
-2 Monastery Swiftspear
 3 Mutagenic Growth
 3 Bomat Courier
-3 Boros Charm
-3 Monastery Swiftspear
 4 Bomat Courier
 4 Mutagenic Growth
-4 Monastery Swiftspear
 1 Domri, Anarch of Bolas
 1 Stirring Wildwood
 1 Elvish Reclaimer
@@ -137,6 +137,16 @@
 3 Gruul Spellbreaker
 3 Voice of Resurgence
 4 Gruul Spellbreaker
+1 Light Up the Stage
+1 Rift Bolt
+1 Copperline Gorge
+2 Copperline Gorge
+2 Light Up the Stage
+2 Rift Bolt
+3 Copperline Gorge
+3 Light Up the Stage
+3 Rift Bolt
+4 Boros Charm
 1 Blast Zone
 1 Forgotten Cave
 1 Castle Ardenvale
@@ -159,10 +169,10 @@
 2 Bloodstained Mire
 3 Bloodstained Mire
 4 Bloodstained Mire
+1 Hallowed Fountain
 1 Blood Crypt
 1 Steam Vents
 1 Grim Lavamancer
-1 Hallowed Fountain
 1 Mantis Rider
 1 Breeding Pool
 1 Tribal Flames

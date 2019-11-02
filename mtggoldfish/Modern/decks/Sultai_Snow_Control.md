@@ -33,8 +33,8 @@
 
 |*n*<sup>th</sup> copy|                                        Maindeck Card                                         |*n*<sup>th</sup> copy|                                         Sideboard Card                                         |
 |--------------------:|----------------------------------------------------------------------------------------------|--------------------:|------------------------------------------------------------------------------------------------|
-|                    1|[Into the Story](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473012)     |                    1|[Pulse of Murasa](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446177)      |
-|                    1|[Sunken Hollow](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=402051)      |                    1|[Into the Story](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473012)       |
+|                    1|[Sunken Hollow](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=402051)      |                    1|[Pulse of Murasa](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446177)      |
+|                    1|[Into the Story](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473012)     |                    1|[Into the Story](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473012)       |
 |                    1|[Force of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464001)  |                    1|[Thrun, the Last Troll](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=214050)|
 |                    1|[Pulse of Murasa](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446177)    |                    1|[Plague Engineer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464049)      |
 |                    2|[Mystic Sanctuary](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473209)   |                    1|[Abrupt Decay](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456061)         |
@@ -46,7 +46,7 @@
 |                    3|[Polluted Delta](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405104)     |                    3|[Rain of Tears](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=135220)        |
 |                    3|[Opt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442948)                |                     |                                                                                                |
 |                    3|[Into the Story](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473012)     |                     |                                                                                                |
-|                    3|[Cryptic Command](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438614)    |                     |                                                                                                |
 |                    4|[Snow-Covered Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121130)|                     |                                                                                                |
 |                    5|[Snow-Covered Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121130)|                     |                                                                                                |
+|                    3|[Cryptic Command](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438614)    |                     |                                                                                                |
 

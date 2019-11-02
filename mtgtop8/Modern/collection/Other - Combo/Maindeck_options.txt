@@ -1,52 +1,45 @@
-3 Snow-Covered Island
-3 Yavimaya Coast
-3 Botanical Sanctum
-3 Twiddle
-4 Snow-Covered Island
-4 Yavimaya Coast
-4 Botanical Sanctum
 1 Temple Garden
 1 Misty Rainforest
-1 Snow-Covered Forest
 1 Prismatic Vista
 1 Minamo, School at Water's Edge
 1 Grinding Station
+1 Once Upon a Time
 1 Breeding Pool
 1 Snow-Covered Plains
 1 Marsh Flats
-1 Engineered Explosives
 1 Urborg, Tomb of Yawgmoth
+1 Engineered Explosives
 1 Teferi, Time Raveler
 1 Emry, Lurker of the Loch
 1 Mox Amber
 1 Flooded Strand
 1 Mishra's Bauble
+1 Snow-Covered Forest
 1 Jace, Wielder of Mysteries
 1 Watery Grave
 1 Hope of Ghirapur
 1 Arcum's Astrolabe
 1 Unearth
 1 Mox Opal
-1 Once Upon a Time
 1 Polluted Delta
 1 Sai, Master Thopterist
 1 Kethis, the Hidden Hand
 1 Snow-Covered Swamp
 2 Flooded Strand
 2 Prismatic Vista
+2 Once Upon a Time
+2 Emry, Lurker of the Loch
 2 Teferi, Time Raveler
 2 Hope of Ghirapur
 2 Arcum's Astrolabe
-2 Emry, Lurker of the Loch
 2 Grinding Station
 2 Mox Opal
 2 Kethis, the Hidden Hand
-2 Once Upon a Time
-2 Sai, Master Thopterist
 2 Mishra's Bauble
 2 Mox Amber
 2 Unearth
 2 Engineered Explosives
+2 Sai, Master Thopterist
 3 Arcum's Astrolabe
 3 Prismatic Vista
 3 Unearth
@@ -64,17 +57,6 @@
 4 Mishra's Bauble
 4 Grinding Station
 4 Mox Opal
-1 Shivan Reef
-1 Shimmer of Possibility
-1 Spirebluff Canal
-1 Steam Vents
-1 Fiery Islet
-2 Merchant Scroll
-2 Spirebluff Canal
-3 Vizier of Tumbling Sands
-3 Spirebluff Canal
-4 Vizier of Tumbling Sands
-4 Spirebluff Canal
 1 Lightning Bolt
 1 Mountain
 1 Forest
@@ -86,10 +68,10 @@
 1 Magus of the Moon
 1 Noble Hierarch
 1 Fauna Shaman
-1 Knight of Autumn
 1 Arid Mesa
 1 Eladamri's Call
 1 Cavern of Souls
+1 Knight of Autumn
 1 Rampaging Ferocidon
 1 Steel Leaf Champion
 1 Eldritch Evolution
@@ -135,14 +117,21 @@
 4 Wooded Foothills
 4 Steel Leaf Champion
 1 Eye of Nowhere
+1 Island
 1 Peek
 1 Opt
+1 Vizier of Tumbling Sands
+2 Island
 2 Eye of Nowhere
+2 Vizier of Tumbling Sands
 2 Peek
 2 Opt
+3 Island
+3 Lonely Sandbar
 3 Opt
 3 Peek
 4 Opt
+4 Island
 4 Lonely Sandbar
 4 Peek
 5 Island
@@ -157,6 +146,7 @@
 1 Fecundity
 1 Goblin Instigator
 1 Magmatic Insight
+1 Wild Cantor
 1 Skirk Prospector
 1 Voracious Dragon
 1 Empty the Warrens
@@ -164,12 +154,11 @@
 1 Commune with the Gods
 1 Dragon Fodder
 1 Postmortem Lunge
-1 Wild Cantor
 1 Battle Hymn
 1 Infernal Plunge
-2 Mountain
 2 Karplusan Forest
 2 Wild Cantor
+2 Mountain
 2 Empty the Warrens
 2 Fecundity
 2 Infernal Plunge
