@@ -1,7 +1,7 @@
 # Burn
 
 #### [Export MTGO List](../collection/Burn/Burn.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Chain%20Lightning%0A4%09Eidolon%20of%20the%20Great%20Revel%0A4%09Exquisite%20Firecraft%0A4%09Fireblast%0A4%09Goblin%20Guide%0A4%09Lava%20Spike%0A4%09Lightning%20Bolt%0A4%09Monastery%20Swiftspear%0A20%09Mountain%0A4%09Price%20of%20Progress%0A4%09Rift%20Bolt&deckside=2%09Alpine%20Moon%0A1%09Dead/Gone%0A4%09Leyline%20of%20the%20Void%0A1%09Searing%20Blood%0A1%09Skewer%20the%20Critics%0A4%09Smash%20to%20Smithereens%0A2%09Sulfuric%20Vortex)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Chain%20Lightning%0A4%09Eidolon%20of%20the%20Great%20Revel%0A4%09Exquisite%20Firecraft%0A4%09Fireblast%0A4%09Goblin%20Guide%0A4%09Lava%20Spike%0A4%09Lightning%20Bolt%0A4%09Monastery%20Swiftspear%0A20%09Mountain%0A4%09Price%20of%20Progress%0A4%09Rift%20Bolt&deckside=2%09Alpine%20Moon%0A1%09Dead/Gone%0A4%09Leyline%20of%20the%20Void%0A2%09Searing%20Blood%0A4%09Smash%20to%20Smithereens%0A2%09Sulfuric%20Vortex)
 # Maindeck
 
 |                                             Creature (12)                                             |                                         Instant (12)                                         |                                      Land (20)                                       |                                          Sorcery (16)                                          |
@@ -14,30 +14,32 @@
 
 # Sideboard
 
-|                                        Enchantment (8)                                         |                                           Instant (6)                                           |                                          Sorcery (1)                                          |
-|------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
-|2 [Alpine Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447264)        |1 [Dead/Gone](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=126419)           |1 [Skewer the Critics](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457259)|
-|4 [Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)|1 [Searing Blood](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=378483)       |                                                                                               |
-|2 [Sulfuric Vortex](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382379)    |4 [Smash to Smithereens](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397795)|                                                                                               |
+|                                        Enchantment (8)                                         |                                           Instant (7)                                           |
+|------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
+|2 [Alpine Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447264)        |1 [Dead/Gone](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=126419)           |
+|4 [Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)|2 [Searing Blood](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=378483)       |
+|2 [Sulfuric Vortex](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382379)    |4 [Smash to Smithereens](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397795)|
 
 
 # Other Options
 
 |*n*<sup>th</sup> copy|                                       Maindeck Card                                        |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
 |--------------------:|--------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
-|                    1|[Bonecrusher Giant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473077)|                    2|[Searing Blood](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=378483)      |
+|                    1|[Bonecrusher Giant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473077)|                    1|[Skewer the Critics](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457259) |
 |                    2|[Bonecrusher Giant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473077)|                    2|[Dead/Gone](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=126419)          |
-|                    1|[Wooded Foothills](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405116) |                    1|[Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)     |
-|                    1|[Barbarian Ring](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=29906)    |                    1|[Faerie Macabre](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=201822)     |
-|                    1|[Arid Mesa](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405092)        |                    2|[Faerie Macabre](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=201822)     |
+|                    1|[Arid Mesa](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405092)        |                    1|[Faerie Macabre](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=201822)     |
+|                    1|[Barbarian Ring](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=29906)    |                    1|[Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)     |
+|                    1|[Wooded Foothills](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405116) |                    2|[Faerie Macabre](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=201822)     |
 |                    1|[Bloodstained Mire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405094)|                    3|[Dead/Gone](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=126419)          |
-|                    2|[Wooded Foothills](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405116) |                    1|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|
-|                    2|[Bloodstained Mire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405094)|                    1|[Pyrostatic Pillar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=44290)   |
+|                    2|[Bloodstained Mire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405094)|                    1|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|
+|                    2|[Wooded Foothills](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405116) |                    1|[Pyrostatic Pillar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=44290)   |
 |                     |                                                                                            |                    2|[Pyrostatic Pillar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=44290)   |
 |                     |                                                                                            |                    1|[Red Elemental Blast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=814)   |
 |                     |                                                                                            |                    1|[Flamebreak](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=50539)          |
-|                     |                                                                                            |                    2|[Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)     |
 |                     |                                                                                            |                    2|[Red Elemental Blast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=814)   |
+|                     |                                                                                            |                    2|[Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)     |
+|                     |                                                                                            |                    1|[Ashen Rider](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373689)        |
+|                     |                                                                                            |                    2|[Ashen Rider](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373689)        |
 |                     |                                                                                            |                    3|[Faerie Macabre](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=201822)     |
 |                     |                                                                                            |                    4|[Faerie Macabre](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=201822)     |
 |                     |                                                                                            |                    1|[Ensnaring Bridge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=15866)    |

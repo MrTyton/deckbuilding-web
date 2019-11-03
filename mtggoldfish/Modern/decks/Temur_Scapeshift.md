@@ -44,8 +44,8 @@
 |                    3|[Drawn from Dreams](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466810)|                    4|[Obstinate Baloth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438745) |
 |                    3|[Ice-Fang Coatl](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464152)   |                    2|[Collector Ouphe](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464107)  |
 |                    3|[Lightning Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=806)      |                     |                                                                                            |
+|                    4|[Cryptic Command](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438614)  |                     |                                                                                            |
 |                    4|[Lightning Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=806)      |                     |                                                                                            |
 |                    4|[Ice-Fang Coatl](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464152)   |                     |                                                                                            |
-|                    4|[Cryptic Command](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438614)  |                     |                                                                                            |
 |                    4|[Scapeshift](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447337)       |                     |                                                                                            |
 

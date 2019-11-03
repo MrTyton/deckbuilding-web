@@ -58,6 +58,7 @@
 4 Mox Opal
 3 Flooded Strand
 1 Pithing Needle
+1 Damping Sphere
 1 Tolaria West
 1 Whir of Invention
 1 Thopter Foundry
@@ -69,7 +70,6 @@
 1 Ensnaring Bridge
 1 Sword of the Meek
 1 Glimmervoid
-1 Damping Sphere
 1 Teferi's Puzzle Box
 2 Ensnaring Bridge
 2 Pithing Needle
@@ -80,8 +80,8 @@
 3 Thopter Foundry
 3 Narset, Parter of Veils
 4 Thopter Foundry
-4 Whir of Invention
 4 Narset, Parter of Veils
+4 Whir of Invention
 5 Snow-Covered Island
 2 Abrupt Decay
 1 Tasigur, the Golden Fang
@@ -122,12 +122,12 @@
 4 Verdant Catacombs
 1 Castle Locthwain
 1 Nurturing Peatland
+1 Blooming Marsh
 1 Hexdrinker
 1 Urborg, Tomb of Yawgmoth
 1 Tireless Tracker
 1 Rankle, Master of Pranks
 1 Stubborn Denial
-1 Blooming Marsh
 1 Collective Brutality
 1 Scavenging Ooze
 2 Hexdrinker
@@ -142,8 +142,8 @@
 1 Nexus of Fate
 1 Mystical Teachings
 1 Wilderness Reclamation
-2 Remand
 2 Growth Spiral
+2 Remand
 2 Mystical Teachings
 2 Wilderness Reclamation
 3 Growth Spiral
@@ -177,6 +177,7 @@
 1 Glimpse the Unthinkable
 1 Gravecrawler
 1 Bloodghast
+1 Gurmag Angler
 1 Bloodstained Mire
 1 Hedron Crab
 1 Stitcher's Supplier
@@ -184,16 +185,15 @@
 1 Carrion Feeder
 1 Creeping Chill
 1 Prized Amalgam
-1 Gurmag Angler
 2 Marsh Flats
 2 Gurmag Angler
 2 Vengevine
 2 Carrion Feeder
 2 Prized Amalgam
 2 Bloodstained Mire
-2 Bloodghast
 2 Gravecrawler
 2 Stitcher's Supplier
+2 Bloodghast
 2 Hedron Crab
 2 Glimpse the Unthinkable
 2 Memory Sluice
@@ -206,12 +206,12 @@
 3 Prized Amalgam
 3 Glimpse the Unthinkable
 3 Bloodghast
+3 Gravecrawler
 3 Overgrown Tomb
 3 Bloodstained Mire
 3 Creeping Chill
 3 Watery Grave
 3 Stitcher's Supplier
-3 Gravecrawler
 4 Watery Grave
 4 Bloodstained Mire
 4 Vengevine
@@ -240,7 +240,7 @@
 4 Gilded Goose
 4 Oko, Thief of Crowns
 4 Urza, Lord High Artificer
-4 Tezzeret, Agent of Bolas
 4 Emry, Lurker of the Loch
 4 Thoughtseize
 4 Engineered Explosives
+4 Tezzeret, Agent of Bolas

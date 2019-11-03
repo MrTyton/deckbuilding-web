@@ -46,7 +46,7 @@
 |                    2|[Narset, Parter of Veils](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460988)   |                     |                                                                                               |
 |                    2|[Enter the God-Eternals](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461123)    |                     |                                                                                               |
 |                    2|[Lochmere Serpent](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473157)          |                     |                                                                                               |
-|                    3|[Narset, Parter of Veils](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460988)   |                     |                                                                                               |
 |                    8|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)                    |                     |                                                                                               |
 |                    8|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)                     |                     |                                                                                               |
+|                    3|[Narset, Parter of Veils](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460988)   |                     |                                                                                               |
 

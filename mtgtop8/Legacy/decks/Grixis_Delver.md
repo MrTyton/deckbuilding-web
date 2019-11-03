@@ -64,6 +64,6 @@
 |                    4|[Polluted Delta](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405104)     |                     |                                                                                                 |
 |                    1|[Spell Snare](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446100)        |                     |                                                                                                 |
 |                    2|[Misty Rainforest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405102)   |                     |                                                                                                 |
-|                    4|[Gurmag Angler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391850)      |                     |                                                                                                 |
 |                    4|[Thought Scour](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=380203)      |                     |                                                                                                 |
+|                    4|[Gurmag Angler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391850)      |                     |                                                                                                 |
 

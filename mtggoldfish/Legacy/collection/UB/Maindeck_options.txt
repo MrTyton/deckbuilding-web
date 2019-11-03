@@ -1,58 +1,49 @@
+1 Bloodstained Mire
+1 Prismatic Vista
+2 Prismatic Vista
+3 Prismatic Vista
+1 Snapcaster Mage
+2 Snapcaster Mage
+1 Tyrant's Scorn
 1 Baleful Strix
 1 Snow-Covered Swamp
 2 Baleful Strix
-1 Ingenious Infiltrator
+3 Baleful Strix
 1 Yuriko, the Tiger's Shadow
+1 Spellseeker
+1 Ingenious Infiltrator
 1 Snow-Covered Island
+1 Plague Engineer
 2 Snow-Covered Swamp
 2 Ingenious Infiltrator
 2 Snow-Covered Island
+2 Plague Engineer
+3 Snow-Covered Swamp
 3 Snow-Covered Island
 4 Prismatic Vista
-1 Snapcaster Mage
-2 Snapcaster Mage
-3 Gurmag Angler
-4 Gurmag Angler
-2 Flooded Strand
-3 Baleful Strix
-1 Plague Engineer
-3 Snow-Covered Swamp
-3 Ingenious Infiltrator
 4 Baleful Strix
-1 Tyrant's Scorn
-1 Spellseeker
-2 Plague Engineer
-2 Brazen Borrower
-1 Arcum's Astrolabe
+3 Thoughtseize
 1 Snow-Covered Mountain
 1 Badlands
+1 Arcum's Astrolabe
 1 Kolaghan's Command
 1 Imperial Recruiter
 1 Lightning Bolt
 2 Bloodstained Mire
 2 Arcum's Astrolabe
 2 Kolaghan's Command
+3 Ingenious Infiltrator
 2 Spellseeker
-2 Yuriko, the Tiger's Shadow
 3 Snapcaster Mage
 1 Misty Rainforest
-3 Thoughtseize
+3 Drown in the Loch
+4 Vantress Gargoyle
 1 Bonecrusher Giant
 2 Bonecrusher Giant
 2 Lightning Bolt
 3 Bloodstained Mire
 4 Bloodstained Mire
-1 Ornithopter
-1 Retrofitter Foundry
-2 Ornithopter
-2 Retrofitter Foundry
-3 Ornithopter
-3 Retrofitter Foundry
-3 Yuriko, the Tiger's Shadow
-4 Snow-Covered Island
 1 Spell Snare
-1 Spell Pierce
-2 Spell Pierce
 3 Island
 1 Counterspell
 4 Fatal Push
@@ -62,18 +53,18 @@
 3 Stifle
 4 Stifle
 4 Island
-1 Tombstalker
-2 Tombstalker
-3 Drown in the Loch
 3 Arcum's Astrolabe
-3 Bonecrusher Giant
 1 Angrath's Rampage
 3 Kolaghan's Command
-1 Jace, the Mind Sculptor
+3 Bonecrusher Giant
+3 Flooded Strand
+4 Flooded Strand
 1 Creeping Tar Pit
 1 Standstill
 1 Mishra's Factory
 1 Dust Bowl
+1 Spell Pierce
+1 Jace, the Mind Sculptor
 1 Marsh Flats
 1 Diabolic Edict
 2 Spell Snare
@@ -81,31 +72,33 @@
 2 Counterspell
 2 Mishra's Factory
 2 Creeping Tar Pit
+2 Spell Pierce
 2 Diabolic Edict
 3 Spell Pierce
 3 Standstill
-3 Spell Snare
 3 Mishra's Factory
+3 Spell Snare
 4 Snapcaster Mage
 4 Mishra's Factory
 1 Force of Negation
-1 Fallen Shinobi
 1 Liliana's Triumph
 1 Tasigur, the Golden Fang
+1 Fallen Shinobi
 1 Spellstutter Sprite
 2 Tasigur, the Golden Fang
+2 Yuriko, the Tiger's Shadow
 2 Spellstutter Sprite
+4 Snow-Covered Island
 4 Snow-Covered Swamp
-4 Vantress Gargoyle
 1 Sorcerous Spyglass
-1 Umezawa's Jitte
+1 Urza, Lord High Artificer
+1 Emry, Lurker of the Loch
 1 Seat of the Synod
 1 Chrome Mox
 1 Sai, Master Thopterist
 1 Mox Amber
-1 Emry, Lurker of the Loch
-1 Urza, Lord High Artificer
 1 Dovin, Hand of Control
+1 Umezawa's Jitte
 1 Thopter Foundry
 1 Tolaria West
 1 Walking Ballista
@@ -118,18 +111,18 @@
 1 Mox Diamond
 1 Mishra's Bauble
 1 Chalice of the Void
+2 Urza, Lord High Artificer
+2 Emry, Lurker of the Loch
 2 Seat of the Synod
 2 Thopter Foundry
-2 Emry, Lurker of the Loch
-2 Urza, Lord High Artificer
 2 Tribute Mage
 2 Mishra's Bauble
+2 Chalice of the Void
 2 Mox Opal
 2 Ancient Tomb
 2 Sorcerous Spyglass
-2 Chalice of the Void
-3 Urza, Lord High Artificer
 3 Emry, Lurker of the Loch
+3 Urza, Lord High Artificer
 3 Ancient Tomb
 3 Chalice of the Void
 3 Mishra's Bauble
@@ -140,22 +133,14 @@
 4 Mishra's Bauble
 4 Urza, Lord High Artificer
 4 Ancient Tomb
-1 Murderous Cut
-1 Changeling Outcast
-2 Changeling Outcast
-3 Flooded Strand
-3 Changeling Outcast
-4 Ornithopter
-4 Ingenious Infiltrator
-4 Retrofitter Foundry
 1 Pteramander
 1 Flusterstorm
 1 Curious Obsession
 1 Vapor Snag
+2 True-Name Nemesis
 2 Pteramander
 2 Vapor Snag
 2 Curious Obsession
-2 True-Name Nemesis
 3 Pteramander
 3 True-Name Nemesis
 4 Pteramander
