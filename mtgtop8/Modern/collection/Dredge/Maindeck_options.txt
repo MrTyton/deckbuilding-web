@@ -1,7 +1,3 @@
-1 Darkblast
-1 City of Brass
-1 Polluted Delta
-1 Watery Grave
 1 Overgrown Tomb
 1 Merfolk Secretkeeper
 1 Hedron Crab
@@ -19,6 +15,7 @@
 3 Watery Grave
 3 Polluted Delta
 3 Hedron Crab
+3 Merfolk Secretkeeper
 3 Vengevine
 3 Stitcher's Supplier
 3 Gravecrawler
@@ -27,15 +24,24 @@
 4 Hedron Crab
 4 Stitcher's Supplier
 4 Vengevine
-1 Mana Confluence
+3 Golgari Thug
+1 Darkblast
+1 City of Brass
+1 Marsh Flats
 1 Swamp
-3 Merfolk Secretkeeper
+4 Merfolk Secretkeeper
 1 Glimpse the Unthinkable
 1 Carrion Feeder
 2 Carrion Feeder
 2 Glimpse the Unthinkable
 3 Glimpse the Unthinkable
 4 Glimpse the Unthinkable
+2 Marsh Flats
+3 Overgrown Tomb
+4 Wooded Foothills
+1 Mana Confluence
+3 Carrion Feeder
+3 Marsh Flats
 1 Verdant Catacombs
 1 Once Upon a Time
 2 Verdant Catacombs
@@ -43,30 +49,24 @@
 3 Verdant Catacombs
 3 Once Upon a Time
 4 Once Upon a Time
-1 Marsh Flats
-4 Merfolk Secretkeeper
-3 Overgrown Tomb
-4 Verdant Catacombs
-1 Insolent Neonate
-2 Insolent Neonate
-3 Insolent Neonate
+1 Haunted Dead
+2 Swamp
+4 Watery Grave
+4 Marsh Flats
 1 Scalding Tarn
 2 Scalding Tarn
 3 Scalding Tarn
-1 Steam Vents
 1 Arid Mesa
 2 Arid Mesa
 1 Breeding Pool
 1 Darkslick Shores
 2 Darkslick Shores
-2 Marsh Flats
+4 Verdant Catacombs
+1 Steam Vents
+1 Insolent Neonate
+2 Insolent Neonate
+3 Insolent Neonate
 4 Copperline Gorge
-1 Haunted Dead
-2 Swamp
-3 Carrion Feeder
-3 Marsh Flats
-4 Watery Grave
-4 Marsh Flats
 1 Grisly Salvage
 1 Collective Brutality
 2 Grisly Salvage
@@ -74,6 +74,7 @@
 4 Grisly Salvage
 1 Blast Zone
 4 Merchant of the Vale
+4 Bloodstained Mire
 1 Ghost Quarter
 2 Darkblast
 3 Darkblast
@@ -81,18 +82,14 @@
 1 Dakmor Salvage
 1 Snow-Covered Swamp
 1 Forest
+1 Island
+1 Gurmag Angler
+2 Gurmag Angler
+3 Arid Mesa
+4 Arid Mesa
 1 Tome Scour
 2 Tome Scour
-2 City of Brass
 3 City of Brass
 3 Tome Scour
 4 Tome Scour
-4 Bloodstained Mire
-3 Arid Mesa
-4 Arid Mesa
-1 Shriekmaw
-2 Shriekmaw
-3 Shriekmaw
-4 Shriekmaw
-1 Memory Sluice
-2 Memory Sluice
+2 City of Brass

@@ -1,6 +1,6 @@
+3 Snow-Covered Island
 4 Force of Negation
 3 Snow-Covered Forest
-3 Snow-Covered Island
 1 Eternal Witness
 1 Knight of Autumn
 1 Soulherder
@@ -17,31 +17,31 @@
 4 Ephemerate
 4 Coiling Oracle
 4 Misty Rainforest
+3 Oko, Thief of Crowns
+1 Tireless Tracker
+2 Jace, the Mind Sculptor
+1 Time Warp
 1 Razorverge Thicket
 2 Razorverge Thicket
 1 Giver of Runes
 2 Giver of Runes
-1 Tireless Tracker
-1 Time Warp
 1 Gavony Township
 1 Collected Company
 2 Collected Company
 3 Collected Company
-3 Oko, Thief of Crowns
-2 Jace, the Mind Sculptor
-2 Temple Garden
-2 Deputy of Detention
+1 Mana Leak
+2 Mana Leak
 2 Tireless Tracker
+2 Deputy of Detention
 3 Giver of Runes
 1 Wall of Blossoms
 1 Mulldrifter
 2 Knight of Autumn
-3 Razorverge Thicket
 4 Soulherder
-1 Mana Leak
-2 Mana Leak
-2 Hallowed Fountain
-4 Flooded Strand
+2 Temple Garden
+1 Arcum's Astrolabe
+2 Arcum's Astrolabe
+3 Razorverge Thicket
 1 Moorland Haunt
 3 Mana Leak
 2 Mulldrifter
@@ -49,11 +49,15 @@
 1 Wall of Omens
 1 Watcher for Tomorrow
 2 Wall of Omens
+2 Hallowed Fountain
 4 Collected Company
-1 Hexdrinker
-1 Arcum's Astrolabe
-2 Arcum's Astrolabe
-3 Birds of Paradise
+4 Flooded Strand
+1 Opt
+1 Spell Snare
+2 Spell Snare
+2 Opt
+3 Arcum's Astrolabe
+4 Arcum's Astrolabe
 1 Canopy Vista
 1 Prairie Stream
 2 Watcher for Tomorrow
@@ -61,40 +65,47 @@
 2 Time Warp
 2 Wall of Blossoms
 3 Deputy of Detention
+1 Hexdrinker
 1 Brazen Borrower
 2 Brazen Borrower
 2 Breeding Pool
 1 Reflector Mage
-1 Opt
-1 Spell Snare
-2 Spell Snare
-2 Opt
-3 Arcum's Astrolabe
-4 Arcum's Astrolabe
-1 Geist of Saint Traft
-1 Ranger-Captain of Eos
-1 Caustic Caterpillar
-2 Ranger-Captain of Eos
+1 Snapcaster Mage
+1 Supreme Verdict
+2 Snapcaster Mage
+3 Snapcaster Mage
+3 Opt
+4 Snow-Covered Island
+5 Snow-Covered Island
 1 Knight of the Reliquary
 1 Ghost Quarter
 2 Knight of the Reliquary
 3 Knight of the Reliquary
 4 Knight of the Reliquary
+3 Birds of Paradise
 3 Temple Garden
-1 Plains
-1 Forest
 1 Botanical Sanctum
-1 Remand
 1 Thragtusk
+1 Remand
+1 Geist of Saint Traft
 2 Geist of Saint Traft
 1 Gilded Goose
 2 Gilded Goose
 1 Spell Pierce
 2 Spell Pierce
+1 Mystical Dispute
+1 Teferi, Hero of Dominaria
+1 Cryptic Command
+1 Field of Ruin
+2 Cryptic Command
+2 Field of Ruin
 1 Renegade Rallier
 1 Wooded Foothills
 3 Wall of Blossoms
+1 Ranger-Captain of Eos
 1 Sword of Light and Shadow
+1 Caustic Caterpillar
+2 Ranger-Captain of Eos
 3 Ranger-Captain of Eos
 1 Charming Prince
 1 Oust
@@ -108,31 +119,14 @@
 2 Venser, Shaper Savant
 3 Wall of Omens
 4 Wall of Omens
-1 Restoration Angel
-1 Aven Mindcensor
-1 Island
-1 Squadron Hawk
-2 Restoration Angel
-2 Plains
-2 Aven Mindcensor
-2 Island
-2 Squadron Hawk
-3 Squadron Hawk
-4 Squadron Hawk
 1 Serum Visions
 1 Castle Ardenvale
-1 Snapcaster Mage
-1 Supreme Verdict
 2 Serum Visions
-2 Snapcaster Mage
 3 Serum Visions
-3 Snapcaster Mage
-3 Opt
-4 Snow-Covered Island
 4 Serum Visions
 4 Opt
-5 Snow-Covered Island
 1 Sejiri Steppe
+1 Plains
 1 Minamo, School at Water's Edge
 1 Fauna Shaman
 1 Dryad Arbor
@@ -140,6 +134,7 @@
 1 Scavenging Ooze
 1 Scryb Ranger
 1 Thalia, Guardian of Thraben
+1 Forest
 2 Horizon Canopy
 2 Scryb Ranger
 2 Forest

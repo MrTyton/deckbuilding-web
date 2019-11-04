@@ -20,15 +20,15 @@
 2 Plague Engineer
 3 Snow-Covered Swamp
 3 Snow-Covered Island
-4 Prismatic Vista
 4 Baleful Strix
+4 Prismatic Vista
 3 Thoughtseize
 1 Snow-Covered Mountain
-1 Badlands
 1 Arcum's Astrolabe
 1 Kolaghan's Command
 1 Imperial Recruiter
 1 Lightning Bolt
+1 Badlands
 2 Bloodstained Mire
 2 Arcum's Astrolabe
 2 Kolaghan's Command
@@ -57,8 +57,6 @@
 1 Angrath's Rampage
 3 Kolaghan's Command
 3 Bonecrusher Giant
-3 Flooded Strand
-4 Flooded Strand
 1 Creeping Tar Pit
 1 Standstill
 1 Mishra's Factory
@@ -68,34 +66,36 @@
 1 Marsh Flats
 1 Diabolic Edict
 2 Spell Snare
+2 Spell Pierce
 2 Standstill
 2 Counterspell
 2 Mishra's Factory
 2 Creeping Tar Pit
-2 Spell Pierce
 2 Diabolic Edict
 3 Spell Pierce
 3 Standstill
 3 Mishra's Factory
 3 Spell Snare
-4 Snapcaster Mage
 4 Mishra's Factory
-1 Force of Negation
-1 Liliana's Triumph
+4 Snapcaster Mage
 1 Tasigur, the Golden Fang
 1 Fallen Shinobi
+1 Liliana's Triumph
 1 Spellstutter Sprite
+1 Force of Negation
 2 Tasigur, the Golden Fang
 2 Yuriko, the Tiger's Shadow
 2 Spellstutter Sprite
 4 Snow-Covered Island
 4 Snow-Covered Swamp
+3 Flooded Strand
+4 Flooded Strand
+1 Karakas
 1 Mox Opal
 1 Urza, Lord High Artificer
 1 Emry, Lurker of the Loch
 1 Mishra's Bauble
 1 Seat of the Synod
-1 Karakas
 1 Chrome Mox
 1 Sai, Master Thopterist
 1 Ancient Tomb
@@ -134,13 +134,13 @@
 4 Chalice of the Void
 4 Urza, Lord High Artificer
 1 Pteramander
-1 Flusterstorm
 1 Curious Obsession
 1 Vapor Snag
-2 True-Name Nemesis
+1 Flusterstorm
 2 Pteramander
-2 Vapor Snag
 2 Curious Obsession
+2 True-Name Nemesis
+2 Vapor Snag
 3 Pteramander
 3 True-Name Nemesis
 4 Pteramander
