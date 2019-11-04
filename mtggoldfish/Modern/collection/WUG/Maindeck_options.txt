@@ -2,7 +2,6 @@
 2 Giver of Runes
 3 Giver of Runes
 1 Horizon Canopy
-4 Windswept Heath
 1 Shalai, Voice of Plenty
 1 Vizier of Remedies
 1 Devoted Druid
@@ -12,10 +11,9 @@
 2 Vizier of Remedies
 3 Devoted Druid
 3 Vizier of Remedies
+4 Windswept Heath
 4 Vizier of Remedies
 4 Devoted Druid
-1 Forest
-4 Misty Rainforest
 1 Brazen Borrower
 2 Hallowed Fountain
 1 Sword of Feast and Famine
@@ -36,24 +34,25 @@
 3 Temple Garden
 4 Collected Company
 4 Chord of Calling
+1 Forest
 1 Plains
 1 Razorverge Thicket
 2 Razorverge Thicket
-2 Teferi, Time Raveler
 1 Wooded Foothills
 1 Finale of Devastation
 2 Wooded Foothills
 2 Finale of Devastation
-3 Birds of Paradise
 3 Finale of Devastation
+3 Birds of Paradise
 4 Birds of Paradise
 4 Finale of Devastation
 2 Oko, Thief of Crowns
+4 Misty Rainforest
 1 Tireless Tracker
 2 Tireless Tracker
+2 Teferi, Time Raveler
 4 Prismatic Vista
 4 Stoneforge Mystic
-3 Teferi, Time Raveler
 1 Vesperlark
 1 Charming Prince
 2 Brazen Borrower
@@ -79,8 +78,8 @@
 1 Gilded Goose
 1 Mishra's Bauble
 1 Urza, Lord High Artificer
-1 Thopter Foundry
 1 Mox Opal
+1 Thopter Foundry
 1 Emry, Lurker of the Loch
 1 Witching Well
 1 Mox Amber
@@ -111,21 +110,21 @@
 1 Dryad Arbor
 1 Eladamri's Call
 1 Leyline of Abundance
+1 Sylvan Caryatid
 1 Karn, the Great Creator
 1 Freed from the Real
 1 Heliod's Pilgrim
-1 Sylvan Caryatid
 2 Verdant Catacombs
 2 Eladamri's Call
-2 Leyline of Abundance
 2 Karn, the Great Creator
 2 Freed from the Real
 2 Sylvan Caryatid
+2 Leyline of Abundance
 3 Verdant Catacombs
 3 Eladamri's Call
+3 Karn, the Great Creator
 3 Freed from the Real
 3 Leyline of Abundance
-3 Karn, the Great Creator
 3 Sylvan Caryatid
 4 Sylvan Caryatid
 4 Leyline of Abundance
@@ -137,6 +136,7 @@
 2 Detention Sphere
 3 Field of Ruin
 3 Geist of Saint Traft
+3 Teferi, Time Raveler
 4 Path to Exile
 2 Forest
 3 Forest
@@ -145,76 +145,37 @@
 4 Giver of Runes
 4 Razorverge Thicket
 4 Wooded Foothills
-1 Island
-1 Scale Up
-1 Blossoming Defense
-1 Mutagenic Growth
-1 Spellskite
-1 Inkmoth Nexus
-1 Blighted Agent
-1 Season of Growth
-1 Pendelhaven
-1 Vines of Vastwood
-1 Apostle's Blessing
-1 Distortion Strike
-1 Glistener Elf
-1 Might of Old Krosa
-2 Mutagenic Growth
-2 Inkmoth Nexus
-2 Scale Up
-2 Pendelhaven
-2 Vines of Vastwood
-2 Blossoming Defense
-2 Distortion Strike
-2 Blighted Agent
-2 Apostle's Blessing
-2 Might of Old Krosa
-2 Glistener Elf
-3 Vines of Vastwood
-3 Mutagenic Growth
-3 Might of Old Krosa
-3 Scale Up
-3 Glistener Elf
-3 Blighted Agent
-3 Inkmoth Nexus
-3 Blossoming Defense
-4 Mutagenic Growth
-4 Glistener Elf
-4 Blighted Agent
-4 Might of Old Krosa
-4 Blossoming Defense
-4 Inkmoth Nexus
-4 Vines of Vastwood
 1 Yavimaya Coast
 1 World Breaker
 1 Emrakul, the Promised End
 1 Thought-Knot Seer
 1 Brushland
-1 Cavern of Souls
+1 Island
+1 Reality Smasher
 1 Wastes
 1 Eldrazi Skyspawner
 1 Sword of Light and Shadow
+1 Cavern of Souls
 1 Once Upon a Time
 1 Eldrazi Displacer
 1 Eldrazi Temple
-1 Reality Smasher
 1 Drowner of Hope
 1 Ancient Stirrings
 2 Thought-Knot Seer
 2 Brushland
 2 Reality Smasher
 2 Drowner of Hope
+2 Eldrazi Displacer
 2 Once Upon a Time
 2 Ancient Stirrings
 2 Eldrazi Temple
 2 Cavern of Souls
-2 Eldrazi Displacer
 2 Eldrazi Skyspawner
 3 Thought-Knot Seer
 3 Cavern of Souls
+3 Ancient Stirrings
 3 Reality Smasher
 3 Eldrazi Displacer
-3 Ancient Stirrings
 3 Eldrazi Temple
 3 Once Upon a Time
 4 Once Upon a Time

@@ -58,7 +58,6 @@
 4 Mox Opal
 3 Flooded Strand
 1 Pithing Needle
-1 Damping Sphere
 1 Tolaria West
 1 Whir of Invention
 1 Thopter Foundry
@@ -70,6 +69,7 @@
 1 Ensnaring Bridge
 1 Sword of the Meek
 1 Glimmervoid
+1 Damping Sphere
 1 Teferi's Puzzle Box
 2 Ensnaring Bridge
 2 Pithing Needle
@@ -90,8 +90,8 @@
 1 Forest
 1 Maelstrom Pulse
 1 Swamp
-2 Swamp
 2 Island
+2 Swamp
 2 Creeping Tar Pit
 3 Thoughtseize
 1 Growth Spiral
@@ -100,8 +100,8 @@
 1 Gilded Goose
 2 Gilded Goose
 3 Gilded Goose
-1 Tectonic Edge
 1 Crucible of Worlds
+1 Tectonic Edge
 1 Blast Zone
 3 Ensnaring Bridge
 1 Counterbalance
@@ -111,9 +111,9 @@
 1 Steam Vents
 3 Island
 1 Lonely Sandbar
-1 Dovin's Veto
 1 Gifts Ungiven
 1 Hallowed Fountain
+1 Dovin's Veto
 1 Surgical Extraction
 1 Life from the Loam
 2 Gifts Ungiven
@@ -172,52 +172,52 @@
 4 Ingenious Infiltrator
 4 Faerie Seer
 4 Spellstutter Sprite
-1 Marsh Flats
+1 Prized Amalgam
 1 Vengevine
+1 Marsh Flats
+1 Bloodstained Mire
 1 Glimpse the Unthinkable
 1 Gravecrawler
 1 Bloodghast
 1 Gurmag Angler
-1 Bloodstained Mire
 1 Hedron Crab
 1 Stitcher's Supplier
 1 Memory Sluice
 1 Carrion Feeder
 1 Creeping Chill
-1 Prized Amalgam
+2 Creeping Chill
 2 Marsh Flats
-2 Gurmag Angler
-2 Vengevine
-2 Carrion Feeder
 2 Prized Amalgam
+2 Vengevine
 2 Bloodstained Mire
+2 Carrion Feeder
 2 Gravecrawler
 2 Stitcher's Supplier
 2 Bloodghast
 2 Hedron Crab
 2 Glimpse the Unthinkable
+2 Gurmag Angler
 2 Memory Sluice
-2 Creeping Chill
+3 Creeping Chill
 3 Marsh Flats
-3 Carrion Feeder
-3 Memory Sluice
-3 Vengevine
-3 Hedron Crab
 3 Prized Amalgam
+3 Watery Grave
+3 Vengevine
+3 Bloodstained Mire
+3 Hedron Crab
+3 Memory Sluice
 3 Glimpse the Unthinkable
 3 Bloodghast
 3 Gravecrawler
 3 Overgrown Tomb
-3 Bloodstained Mire
-3 Creeping Chill
-3 Watery Grave
 3 Stitcher's Supplier
+3 Carrion Feeder
+4 Creeping Chill
+4 Gravecrawler
+4 Prized Amalgam
 4 Watery Grave
 4 Bloodstained Mire
 4 Vengevine
-4 Prized Amalgam
-4 Gravecrawler
-4 Creeping Chill
 4 Hedron Crab
 4 Stitcher's Supplier
 4 Glimpse the Unthinkable
