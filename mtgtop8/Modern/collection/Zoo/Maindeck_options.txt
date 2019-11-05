@@ -49,8 +49,8 @@
 3 Boros Charm
 3 Monastery Swiftspear
 4 Monastery Swiftspear
-1 Become Immense
 1 Mutagenic Growth
+1 Become Immense
 2 Mutagenic Growth
 1 Simian Spirit Guide
 2 Simian Spirit Guide
@@ -72,8 +72,8 @@
 2 Rancor
 1 Bloodstained Mire
 1 Bomat Courier
-2 Become Immense
 2 Bomat Courier
+2 Become Immense
 3 Mutagenic Growth
 3 Bomat Courier
 4 Bomat Courier
@@ -110,8 +110,8 @@
 2 Ruination Rioter
 2 Sunbaked Canyon
 2 Mountain
-3 Become Immense
 3 Sacred Foundry
+3 Become Immense
 3 Stomping Ground
 1 Birds of Paradise
 1 Rhonas the Indomitable
@@ -127,16 +127,6 @@
 3 Birds of Paradise
 3 Collected Company
 4 Birds of Paradise
-1 Sword of Feast and Famine
-1 Elspeth, Knight-Errant
-1 Snow-Covered Plains
-1 Sword of Light and Shadow
-1 Slayers' Stronghold
-1 Treetop Village
-2 Snow-Covered Forest
-3 Gruul Spellbreaker
-3 Voice of Resurgence
-4 Gruul Spellbreaker
 1 Light Up the Stage
 1 Rift Bolt
 1 Copperline Gorge
@@ -147,6 +137,16 @@
 3 Rift Bolt
 3 Light Up the Stage
 4 Boros Charm
+1 Sword of Feast and Famine
+1 Elspeth, Knight-Errant
+1 Snow-Covered Plains
+1 Sword of Light and Shadow
+1 Slayers' Stronghold
+1 Treetop Village
+2 Snow-Covered Forest
+3 Voice of Resurgence
+3 Gruul Spellbreaker
+4 Gruul Spellbreaker
 1 Blast Zone
 1 Seasoned Pyromancer
 1 Forgotten Cave

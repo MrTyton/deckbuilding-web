@@ -46,7 +46,7 @@
 |                    3|[Assassin's Trophy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452902)  |                    3|[Rain of Tears](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=135220)        |
 |                    3|[Opt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442948)                |                     |                                                                                                |
 |                    3|[Into the Story](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473012)     |                     |                                                                                                |
+|                    3|[Cryptic Command](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438614)    |                     |                                                                                                |
 |                    4|[Snow-Covered Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121130)|                     |                                                                                                |
 |                    5|[Snow-Covered Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121130)|                     |                                                                                                |
-|                    3|[Cryptic Command](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438614)    |                     |                                                                                                |
 

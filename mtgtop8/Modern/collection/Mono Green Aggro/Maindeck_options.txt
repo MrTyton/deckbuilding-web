@@ -1,85 +1,73 @@
-4 Noble Hierarch
-1 Hexdrinker
-2 Hexdrinker
-2 Nurturing Peatland
-3 Hexdrinker
-3 Nurturing Peatland
-4 Hexdrinker
-4 Nurturing Peatland
-1 Tranquil Thicket
 1 Courser of Kruphix
 1 Hornet Queen
-1 Acidic Slime
-1 Birds of Paradise
-1 Utopia Sprawl
-1 Walking Ballista
-1 Wooded Foothills
 1 Arbor Elf
+1 Utopia Sprawl
+1 Birds of Paradise
+1 Walking Ballista
+1 Acidic Slime
+1 Wooded Foothills
 1 Karn, the Great Creator
+2 Arbor Elf
+2 Utopia Sprawl
 2 Karn, the Great Creator
 2 Wooded Foothills
-2 Utopia Sprawl
-2 Arbor Elf
 2 Walking Ballista
 3 Arbor Elf
-3 Karn, the Great Creator
 3 Utopia Sprawl
+3 Karn, the Great Creator
 4 Arbor Elf
 4 Utopia Sprawl
 1 Questing Beast
 1 Waterlogged Grove
 2 Questing Beast
 2 Waterlogged Grove
-1 Nullhide Ferox
-1 Vine Mare
-2 Nullhide Ferox
-2 Vine Mare
-3 Nullhide Ferox
-3 Vine Mare
-1 Beast Within
-1 Garruk's Companion
-2 Beast Within
-2 Garruk's Companion
-3 Garruk's Companion
+1 Rancor
 1 Syr Faren, the Hengehammer
 1 Thorn Lieutenant
 1 Savage Swipe
-1 Bow of Nylea
 1 Okina, Temple to the Grandfathers
+1 Bow of Nylea
+1 Dryad Militant
+2 Rancor
 2 Syr Faren, the Hengehammer
 2 Thorn Lieutenant
 2 Savage Swipe
+2 Dryad Militant
+3 Rancor
 3 Syr Faren, the Hengehammer
 3 Savage Swipe
+3 Dryad Militant
+4 Rancor
 4 Savage Swipe
+4 Dryad Militant
 1 Once Upon a Time
 1 Misty Rainforest
 1 Nykthos, Shrine to Nyx
 1 Garruk Wildspeaker
 1 Nissa, Voice of Zendikar
-1 Burning-Tree Emissary
+1 Windswept Heath
 1 Ruric Thar, the Unbowed
 1 Summoner's Pact
 1 Craterhoof Behemoth
-1 Windswept Heath
+1 Burning-Tree Emissary
 1 Oath of Nissa
 1 Stomping Ground
 2 Once Upon a Time
 2 Courser of Kruphix
 2 Garruk Wildspeaker
-2 Burning-Tree Emissary
-2 Nissa, Voice of Zendikar
 2 Windswept Heath
 2 Birds of Paradise
+2 Nissa, Voice of Zendikar
 2 Stomping Ground
 2 Summoner's Pact
 2 Oath of Nissa
+2 Burning-Tree Emissary
 2 Nykthos, Shrine to Nyx
 3 Summoner's Pact
 3 Once Upon a Time
-3 Burning-Tree Emissary
 3 Windswept Heath
 3 Oath of Nissa
+3 Burning-Tree Emissary
 3 Nykthos, Shrine to Nyx
 3 Garruk Wildspeaker
 3 Wooded Foothills
@@ -111,6 +99,13 @@
 4 Eternal Witness
 4 Primal Command
 4 Karn, the Great Creator
+1 Nullhide Ferox
+1 Vine Mare
+2 Vine Mare
+2 Nullhide Ferox
+3 Nullhide Ferox
+3 Vine Mare
+17 Forest
 1 Snow-Covered Forest
 1 Scavenging Ooze
 2 Snow-Covered Forest
@@ -128,12 +123,3 @@
 12 Snow-Covered Forest
 13 Snow-Covered Forest
 14 Snow-Covered Forest
-1 Leatherback Baloth
-1 Barkhide Troll
-2 Leatherback Baloth
-2 Barkhide Troll
-3 Leatherback Baloth
-3 Barkhide Troll
-4 Leatherback Baloth
-4 Barkhide Troll
-18 Forest

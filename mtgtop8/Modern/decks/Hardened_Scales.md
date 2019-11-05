@@ -56,6 +56,7 @@
 |                    3|[Metallic Mimic](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423831)      |                     |                                                                                                  |
 |                    4|[Metallic Mimic](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423831)      |                     |                                                                                                  |
 |                    4|[Llanowar Reborn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220496)     |                     |                                                                                                  |
+|                    4|[Steel Overseer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=222714)      |                     |                                                                                                  |
 |                    1|[Snow-Covered Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121192) |                     |                                                                                                  |
 |                    2|[Snow-Covered Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121192) |                     |                                                                                                  |
 |                    3|[Snow-Covered Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121192) |                     |                                                                                                  |
@@ -63,5 +64,4 @@
 |                    4|[Snow-Covered Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121192) |                     |                                                                                                  |
 |                    4|[Blinkmoth Nexus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=39439)      |                     |                                                                                                  |
 |                    5|[Snow-Covered Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121192) |                     |                                                                                                  |
-|                    4|[Steel Overseer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=222714)      |                     |                                                                                                  |
 

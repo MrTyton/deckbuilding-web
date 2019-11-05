@@ -23,3 +23,20 @@
 |3 [Glass Casket](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472977)      |1 [Realm-Cloaked Giant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472988)|4 [Aether Gust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466796)     |2 [Narset, Parter of Veils](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460988)|1 [Devout Decree](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466767)  |
 |2 [Sorcerous Spyglass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435407)|                                                                                                |1 [Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)|                                                                                                    |1 [Finale of Glory](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460939)|
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                  Maindeck Card                                  |*n*<sup>th</sup> copy|Sideboard Card|
+|--------------------:|---------------------------------------------------------------------------------|---------------------|--------------|
+|                    5|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)|                     |              |
+|                    6|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)|                     |              |
+|                    7|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)|                     |              |
+|                    7|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)|                     |              |
+|                    8|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)|                     |              |
+|                    8|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)|                     |              |
+|                    9|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)|                     |              |
+|                    9|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)|                     |              |
+|                   10|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)|                     |              |
+|                   10|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)|                     |              |
+|                   11|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)|                     |              |
+

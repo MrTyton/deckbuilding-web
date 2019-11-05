@@ -56,7 +56,7 @@
 |                    3|[Marsh Flats](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405101)           |                     |                                                                                                       |
 |                    3|[Young Pyromancer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426592)      |                     |                                                                                                       |
 |                    3|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)                 |                     |                                                                                                       |
-|                    4|[Young Pyromancer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426592)      |                     |                                                                                                       |
 |                    4|[Seasoned Pyromancer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464094)   |                     |                                                                                                       |
+|                    4|[Young Pyromancer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426592)      |                     |                                                                                                       |
 |                    4|[Inquisition of Kozilek](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416897)|                     |                                                                                                       |
 
