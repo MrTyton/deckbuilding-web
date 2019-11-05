@@ -1,13 +1,14 @@
 1 Terminus
-1 Snow-Covered Mountain
-1 Spell Snare
 3 Arcum's Astrolabe
+1 Spell Snare
 2 Tundra
+2 Counterbalance
 1 Island
 2 Island
 3 Island
 4 Island
 5 Island
+2 Magmatic Sinkhole
 2 Terminus
 3 Terminus
 1 Portent
@@ -17,14 +18,13 @@
 3 Counterbalance
 3 Scalding Tarn
 2 Plains
-2 Magmatic Sinkhole
 2 Portent
-1 Back to Basics
 1 Accumulated Knowledge
 2 Accumulated Knowledge
 3 Accumulated Knowledge
 4 Accumulated Knowledge
 6 Snow-Covered Island
+1 Back to Basics
 1 Polluted Delta
 2 Polluted Delta
 4 Scalding Tarn
@@ -58,8 +58,6 @@
 2 Retrofitter Foundry
 2 Oko, Thief of Crowns
 3 Retrofitter Foundry
-2 Supreme Verdict
-3 Teferi, Time Raveler
 1 Daze
 1 True-Name Nemesis
 2 Daze
