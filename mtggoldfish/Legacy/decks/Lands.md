@@ -76,6 +76,8 @@
 |                    2|[Ghost Quarter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389534)       |                    1|[Sorcerous Spyglass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435407) |
 |                    3|[Ghost Quarter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389534)       |                    2|[Sylvan Safekeeper](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389709)  |
 |                     |                                                                                               |                    3|[Force of Vigor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464113)     |
+|                     |                                                                                               |                    2|[Thorn of Amethyst](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=140166)  |
+|                     |                                                                                               |                    3|[Thorn of Amethyst](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=140166)  |
 |                     |                                                                                               |                    1|[Cindervines](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457305)        |
 |                     |                                                                                               |                    1|[Spell Pierce](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425876)       |
 |                     |                                                                                               |                    1|[Flusterstorm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=228255)       |
@@ -85,6 +87,4 @@
 |                     |                                                                                               |                    4|[Flusterstorm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=228255)       |
 |                     |                                                                                               |                    2|[Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)     |
 |                     |                                                                                               |                    4|[Krosan Grip](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376394)        |
-|                     |                                                                                               |                    2|[Thorn of Amethyst](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=140166)  |
-|                     |                                                                                               |                    3|[Thorn of Amethyst](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=140166)  |
 

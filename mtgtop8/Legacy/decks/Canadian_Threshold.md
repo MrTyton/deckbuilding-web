@@ -74,8 +74,8 @@
 |                     |                                                                                               |                    2|[Winter Orb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=643)                |
 |                     |                                                                                               |                    1|[Dismember](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382182)              |
 |                     |                                                                                               |                    2|[Grim Lavamancer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430589)        |
-|                     |                                                                                               |                    1|[Shenanigans](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464095)            |
-|                     |                                                                                               |                    3|[Pyroblast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=4083)                |
 |                     |                                                                                               |                    2|[Engineered Explosives](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=50139)   |
 |                     |                                                                                               |                    3|[Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452)      |
+|                     |                                                                                               |                    1|[Shenanigans](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464095)            |
+|                     |                                                                                               |                    3|[Pyroblast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=4083)                |
 

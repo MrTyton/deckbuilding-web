@@ -25,12 +25,17 @@
 
 # Other Options
 
-|*n*<sup>th</sup> copy|Maindeck Card|*n*<sup>th</sup> copy|                                       Sideboard Card                                       |
-|---------------------|-------------|--------------------:|--------------------------------------------------------------------------------------------|
-|                     |             |                    1|[Brazen Borrower](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473001)  |
-|                     |             |                    1|[Vantress Gargoyle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473033)|
-|                     |             |                    2|[Vantress Gargoyle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473033)|
-|                     |             |                    2|[Brazen Borrower](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473001)  |
-|                     |             |                    3|[Vantress Gargoyle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473033)|
-|                     |             |                    3|[Brazen Borrower](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473001)  |
+|*n*<sup>th</sup> copy|                                            Maindeck Card                                            |*n*<sup>th</sup> copy|                                       Sideboard Card                                        |
+|--------------------:|-----------------------------------------------------------------------------------------------------|--------------------:|---------------------------------------------------------------------------------------------|
+|                    1|[Vantress Gargoyle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473033)         |                    4|[Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)  |
+|                    1|[Jace, Wielder of Mysteries](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460981)|                    1|[Brazen Borrower](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473001)   |
+|                    1|[Mystic Sanctuary](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473209)          |                    1|[Sorcerous Spyglass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435407)|
+|                    1|[Aid the Fallen](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461003)            |                    2|[Sorcerous Spyglass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435407)|
+|                    2|[Mystic Sanctuary](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473209)          |                    2|[Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)            |
+|                    2|[Vantress Gargoyle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473033)         |                    3|[Aether Gust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466796)       |
+|                    3|[Mystic Sanctuary](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473209)          |                    1|[Vantress Gargoyle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473033) |
+|                    4|[Mystic Sanctuary](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473209)          |                    2|[Vantress Gargoyle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473033) |
+|                     |                                                                                                     |                    2|[Brazen Borrower](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473001)   |
+|                     |                                                                                                     |                    3|[Brazen Borrower](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473001)   |
+|                     |                                                                                                     |                    3|[Vantress Gargoyle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473033) |
 

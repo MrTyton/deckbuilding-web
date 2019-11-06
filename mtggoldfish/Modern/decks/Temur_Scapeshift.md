@@ -33,8 +33,8 @@
 
 |*n*<sup>th</sup> copy|                                       Maindeck Card                                        |*n*<sup>th</sup> copy|                                       Sideboard Card                                       |
 |--------------------:|--------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------|
-|                    1|[Drawn from Dreams](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466810)|                    1|[Tireless Tracker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409997) |
-|                    1|[Repeal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405357)           |                    1|[Collector Ouphe](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464107)  |
+|                    1|[Repeal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405357)           |                    1|[Tireless Tracker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409997) |
+|                    1|[Drawn from Dreams](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466810)|                    1|[Collector Ouphe](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464107)  |
 |                    1|[Farseek](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420766)          |                    1|[Force of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464001)|
 |                    1|[Ice-Fang Coatl](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464152)   |                    2|[Force of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464001)|
 |                    2|[Drawn from Dreams](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466810)|                    2|[Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)   |
@@ -44,8 +44,8 @@
 |                    3|[Drawn from Dreams](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466810)|                    4|[Obstinate Baloth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438745) |
 |                    3|[Ice-Fang Coatl](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464152)   |                    2|[Collector Ouphe](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464107)  |
 |                    3|[Lightning Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=806)      |                     |                                                                                            |
+|                    4|[Cryptic Command](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438614)  |                     |                                                                                            |
 |                    4|[Lightning Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=806)      |                     |                                                                                            |
 |                    4|[Ice-Fang Coatl](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464152)   |                     |                                                                                            |
-|                    4|[Cryptic Command](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438614)  |                     |                                                                                            |
 |                    4|[Scapeshift](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447337)       |                     |                                                                                            |
 

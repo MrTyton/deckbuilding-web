@@ -26,17 +26,33 @@
 
 # Other Options
 
-|*n*<sup>th</sup> copy|                                  Maindeck Card                                  |*n*<sup>th</sup> copy|Sideboard Card|
-|--------------------:|---------------------------------------------------------------------------------|---------------------|--------------|
-|                    5|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)|                     |              |
-|                    6|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)|                     |              |
-|                    7|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)|                     |              |
-|                    7|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)|                     |              |
-|                    8|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)|                     |              |
-|                    8|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)|                     |              |
-|                    9|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)|                     |              |
-|                    9|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)|                     |              |
-|                   10|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)|                     |              |
-|                   10|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)|                     |              |
-|                   11|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)|                     |              |
+|*n*<sup>th</sup> copy|                                          Maindeck Card                                           |*n*<sup>th</sup> copy|                                           Sideboard Card                                            |
+|--------------------:|--------------------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------------------|
+|                    7|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)                 |                    2|[Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)          |
+|                    1|[Finale of Glory](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460939)        |                    1|[Dovin's Veto](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461120)              |
+|                    1|[Quench](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457192)                 |                    2|[Devout Decree](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466767)             |
+|                    2|[Quench](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457192)                 |                    2|[Dovin's Veto](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461120)              |
+|                    2|[Finale of Glory](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460939)        |                    3|[Devout Decree](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466767)             |
+|                    2|[Gadwick, the Wizened](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473010)   |                    1|[Time Wipe](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461150)                 |
+|                    1|[Tale's End](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466831)             |                    1|[Prison Realm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460953)              |
+|                    1|[Sinister Sabotage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452804)      |                    1|[Elite Guardmage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461122)           |
+|                    1|[Essence Capture](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457181)        |                    2|[Elite Guardmage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461122)           |
+|                    2|[Sinister Sabotage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452804)      |                    1|[Turn into a Pumpkin](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473031)       |
+|                    3|[Quench](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457192)                 |                    1|[Didn't Say Please](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473004)         |
+|                    3|[Finale of Glory](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460939)        |                    2|[Didn't Say Please](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473004)         |
+|                    1|[Opt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442948)                    |                    1|[Deputy of Detention](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457309)       |
+|                    2|[Opt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442948)                    |                    1|[Apostle of Purifying Light](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466760)|
+|                    3|[Opt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442948)                    |                    2|[Deputy of Detention](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457309)       |
+|                    3|[Gadwick, the Wizened](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473010)   |                    2|[Apostle of Purifying Light](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466760)|
+|                    4|[Opt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442948)                    |                    3|[Deputy of Detention](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457309)       |
+|                    1|[Ugin, the Ineffable](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460929)    |                    4|[Deputy of Detention](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457309)       |
+|                    5|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)                 |                    3|[Narset, Parter of Veils](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460988)   |
+|                    1|[Realm-Cloaked Giant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472988)    |                    4|[Devout Decree](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466767)             |
+|                    2|[Realm-Cloaked Giant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472988)    |                    4|[Glass Casket](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472977)              |
+|                    1|[Aether Gust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466796)            |                     |                                                                                                     |
+|                    1|[Narset, Parter of Veils](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460988)|                     |                                                                                                     |
+|                    2|[Aether Gust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466796)            |                     |                                                                                                     |
+|                    4|[Quench](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457192)                 |                     |                                                                                                     |
+|                    6|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)                 |                     |                                                                                                     |
+|                    8|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)                 |                     |                                                                                                     |
 

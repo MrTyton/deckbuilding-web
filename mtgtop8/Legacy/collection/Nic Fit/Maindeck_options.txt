@@ -6,20 +6,6 @@
 2 Sylvan Library
 3 Windswept Heath
 3 Forest
-1 Hexdrinker
-1 Swords to Plowshares
-1 Gaddock Teeg
-1 Snow-Covered Plains
-1 Liliana of the Veil
-2 Swords to Plowshares
-2 Savannah
-2 Tarmogoyf
-2 Hexdrinker
-2 Liliana of the Veil
-3 Bayou
-3 Sylvan Library
-4 Abrupt Decay
-4 Windswept Heath
 1 Renegade Rallier
 1 Island
 1 Tundra
@@ -39,6 +25,20 @@
 3 Birthing Pod
 4 Polluted Delta
 4 Baleful Strix
+1 Swords to Plowshares
+1 Gaddock Teeg
+1 Snow-Covered Plains
+1 Liliana of the Veil
+1 Hexdrinker
+2 Swords to Plowshares
+2 Savannah
+2 Tarmogoyf
+2 Hexdrinker
+2 Liliana of the Veil
+3 Bayou
+3 Sylvan Library
+4 Windswept Heath
+4 Abrupt Decay
 1 Cavern of Souls
 1 Living Wish
 1 Liliana, Dreadhorde General
@@ -69,12 +69,12 @@
 4 Living Wish
 1 Oko, Thief of Crowns
 1 Jace, the Mind Sculptor
-1 Maelstrom Pulse
 1 Sylvan Ranger
 1 Ponder
 1 Ice-Fang Coatl
 1 Snow-Covered Island
 1 Creeping Tar Pit
+1 Maelstrom Pulse
 1 Collective Brutality
 2 Tropical Island
 2 Leovold, Emissary of Trest
@@ -98,8 +98,8 @@
 2 Assassin's Trophy
 2 Crop Rotation
 2 Pernicious Deed
-3 Swamp
 3 Assassin's Trophy
+3 Swamp
 4 Assassin's Trophy
 4 Forest
 4 Swamp
