@@ -1,11 +1,20 @@
-2 Mind Stone
+1 Warping Wail
 2 Warping Wail
 1 Hangarback Walker
 1 Sea Gate Wreckage
-1 Tectonic Edge
 3 Dismember
-2 Cavern of Souls
+1 Tectonic Edge
+1 Mystic Forge
 1 Ulamog, the Ceaseless Hunger
+1 Radiant Fountain
+2 Cavern of Souls
+1 Wurmcoil Engine
+1 Spatial Contortion
+2 Endbringer
+1 Simian Spirit Guide
+2 Simian Spirit Guide
+1 Once Upon a Time
+2 Once Upon a Time
 1 Noble Hierarch
 1 Ancient Stirrings
 2 Noble Hierarch
@@ -14,8 +23,9 @@
 3 Noble Hierarch
 4 Ancient Stirrings
 4 Noble Hierarch
-1 Snow-Covered Forest
-2 Snow-Covered Forest
+3 Once Upon a Time
+3 Simian Spirit Guide
+4 Simian Spirit Guide
 1 Eldrazi Obligator
 1 Lightning Bolt
 2 Eldrazi Obligator
@@ -24,28 +34,20 @@
 3 Lightning Bolt
 3 Eldrazi Obligator
 4 Eldrazi Obligator
-1 Once Upon a Time
-2 Once Upon a Time
-1 Snow-Covered Mountain
-1 Grove of the Burnwillows
-1 Bonecrusher Giant
-1 Karplusan Forest
-1 Wooded Foothills
-1 Stomping Ground
-2 Bonecrusher Giant
-2 Grove of the Burnwillows
-2 Wooded Foothills
-2 Karplusan Forest
-3 Grove of the Burnwillows
-3 Karplusan Forest
-4 Grove of the Burnwillows
-4 Karplusan Forest
-4 Lightning Bolt
-1 Mystic Forge
-1 Radiant Fountain
-1 Wurmcoil Engine
-1 Spatial Contortion
-2 Endbringer
+1 Serum Powder
+1 Mutavault
+1 Eldrazi Mimic
+2 Mutavault
+2 Serum Powder
+2 Eldrazi Mimic
+3 Mutavault
+3 Eldrazi Mimic
+3 Serum Powder
+4 Eldrazi Mimic
+4 Serum Powder
+1 Snow-Covered Forest
+2 Snow-Covered Forest
+4 Once Upon a Time
 1 Eldrazi Skyspawner
 1 Oko, Thief of Crowns
 1 Yavimaya Coast
@@ -56,14 +58,31 @@
 2 Oko, Thief of Crowns
 2 Misty Rainforest
 2 Yavimaya Coast
-3 Once Upon a Time
-1 Domri, Anarch of Bolas
-1 Birds of Paradise
+1 Forest
+2 Forest
 1 Ugin, the Spirit Dragon
 1 Karn Liberated
 2 Mystic Forge
 3 Mind Stone
 4 Mind Stone
+1 Blood Crypt
+1 Sulfurous Springs
+1 Mountain
+1 Temur Battle Rage
+1 Hazoret the Fervent
+1 Ramunap Ruins
+1 Dust Stalker
+2 Dust Stalker
+2 Sulfurous Springs
+2 Mountain
+2 Ramunap Ruins
+2 Temur Battle Rage
+3 Ramunap Ruins
+3 Dust Stalker
+3 Sulfurous Springs
+4 Cavern of Souls
+4 Dust Stalker
+4 Sulfurous Springs
 1 Boreal Druid
 1 Plains
 1 Temple Garden
@@ -73,11 +92,9 @@
 1 Brushland
 1 Eldrazi Displacer
 1 Engineered Explosives
-1 Forest
 2 Boreal Druid
 2 Path to Exile
 2 Windswept Heath
-2 Forest
 2 Drowner of Hope
 2 Eldrazi Displacer
 2 Brushland
@@ -95,49 +112,45 @@
 1 Gilded Goose
 1 Sanctum of Ugin
 1 Elder Deep-Fiend
+2 Prismatic Vista
 2 Stubborn Denial
 2 Gilded Goose
 2 Elder Deep-Fiend
-2 Prismatic Vista
 3 Misty Rainforest
 3 Yavimaya Coast
 3 Prismatic Vista
 3 Elder Deep-Fiend
-4 Once Upon a Time
 4 Yavimaya Coast
-1 Simian Spirit Guide
-1 Blood Crypt
-1 Sulfurous Springs
-1 Mountain
-1 Serum Powder
-1 Mutavault
-1 Temur Battle Rage
-1 Hazoret the Fervent
-1 Eldrazi Mimic
-1 Ramunap Ruins
-1 Dust Stalker
-2 Mutavault
-2 Simian Spirit Guide
-2 Dust Stalker
-2 Sulfurous Springs
-2 Mountain
-2 Serum Powder
-2 Ramunap Ruins
-2 Temur Battle Rage
-2 Eldrazi Mimic
-3 Mutavault
-3 Simian Spirit Guide
-3 Eldrazi Mimic
-3 Dust Stalker
-3 Ramunap Ruins
-3 Serum Powder
-3 Sulfurous Springs
-4 Cavern of Souls
-4 Simian Spirit Guide
-4 Dust Stalker
-4 Sulfurous Springs
-4 Eldrazi Mimic
-4 Serum Powder
 1 Emrakul, the Promised End
 2 Spatial Contortion
 4 Walking Ballista
+1 Blinkmoth Nexus
+1 Eternal Scourge
+1 Zhalfirin Void
+1 Endless One
+2 Zhalfirin Void
+2 Eternal Scourge
+2 Blinkmoth Nexus
+3 Zhalfirin Void
+3 Eternal Scourge
+3 Forest
+4 Zhalfirin Void
+4 Dismember
+4 Eternal Scourge
+4 Forest
+5 Forest
+1 Snow-Covered Mountain
+1 Grove of the Burnwillows
+1 Bonecrusher Giant
+1 Karplusan Forest
+1 Wooded Foothills
+1 Stomping Ground
+2 Bonecrusher Giant
+2 Grove of the Burnwillows
+2 Wooded Foothills
+2 Karplusan Forest
+3 Grove of the Burnwillows
+3 Karplusan Forest
+4 Grove of the Burnwillows
+4 Karplusan Forest
+4 Lightning Bolt

@@ -6,25 +6,6 @@
 2 Sylvan Library
 3 Windswept Heath
 3 Forest
-1 Renegade Rallier
-1 Island
-1 Tundra
-1 Birthing Pod
-1 Noble Hierarch
-1 Siege Rhino
-1 Phantasmal Image
-1 Custodi Lich
-1 Knight of Autumn
-1 Hostage Taker
-2 Underground Sea
-2 Birthing Pod
-2 Noble Hierarch
-3 Baleful Strix
-3 Polluted Delta
-3 Underground Sea
-3 Birthing Pod
-4 Polluted Delta
-4 Baleful Strix
 1 Swords to Plowshares
 1 Gaddock Teeg
 1 Snow-Covered Plains
@@ -39,17 +20,36 @@
 3 Sylvan Library
 4 Windswept Heath
 4 Abrupt Decay
+1 Renegade Rallier
+1 Island
+1 Tundra
+1 Knight of Autumn
+1 Birthing Pod
+1 Noble Hierarch
+1 Siege Rhino
+1 Phantasmal Image
+1 Custodi Lich
+1 Hostage Taker
+2 Underground Sea
+2 Birthing Pod
+2 Noble Hierarch
+3 Baleful Strix
+3 Polluted Delta
+3 Underground Sea
+3 Birthing Pod
+4 Baleful Strix
+4 Polluted Delta
 1 Cavern of Souls
 1 Living Wish
-1 Liliana, Dreadhorde General
 1 Lingering Souls
-1 Evolutionary Leap
 1 Arena Rector
 1 Ugin, the Spirit Dragon
 1 Academy Rector
 1 Omniscience
 1 Recruiter of the Guard
+1 Liliana, Dreadhorde General
 1 Overwhelming Splendor
+1 Evolutionary Leap
 1 Cruel Reality
 1 Plains
 1 Elspeth, Sun's Champion
@@ -78,8 +78,8 @@
 1 Collective Brutality
 2 Tropical Island
 2 Leovold, Emissary of Trest
-2 Jace, the Mind Sculptor
 2 Snow-Covered Island
+2 Jace, the Mind Sculptor
 4 Misty Rainforest
 4 Brainstorm
 1 Blast Zone

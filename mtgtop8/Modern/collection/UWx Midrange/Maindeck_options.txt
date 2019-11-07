@@ -1,43 +1,41 @@
-3 Snow-Covered Island
-1 Mystic Sanctuary
-2 Snow-Covered Plains
+5 Island
 3 Teferi, Time Raveler
-4 Island
+1 Snow-Covered Plains
+1 Vendilion Clique
+3 Snow-Covered Island
+2 Snow-Covered Plains
 1 Dismember
+2 Scalding Tarn
+1 Polluted Delta
 4 Snow-Covered Island
 5 Snow-Covered Island
-1 Polluted Delta
-6 Snow-Covered Island
-1 Supreme Verdict
-5 Island
 1 Prismatic Vista
-2 Scalding Tarn
 1 Lightning Bolt
 1 Lightning Helix
 1 Steam Vents
 2 Lightning Bolt
-1 Sacred Foundry
 1 Mountain
-2 Lightning Helix
+1 Sacred Foundry
 2 Steam Vents
+2 Lightning Helix
 3 Lightning Bolt
 3 Lightning Helix
 4 Lightning Bolt
+1 Supreme Verdict
+1 Misty Rainforest
+6 Snow-Covered Island
 6 Island
 3 Jace, the Mind Sculptor
 3 Scalding Tarn
 1 Sword of Fire and Ice
 1 Geist of Saint Traft
-1 Misty Rainforest
+2 Mystic Sanctuary
 1 Spirebluff Canal
 1 Logic Knot
 2 Polluted Delta
-2 Mystic Sanctuary
-3 Spell Snare
 1 Castle Ardenvale
 1 Fae of Wishes
 2 Fae of Wishes
-3 Celestial Colonnade
 1 Spell Pierce
 1 Sulfur Falls
 2 Geist of Saint Traft
@@ -53,8 +51,6 @@
 1 Restoration Angel
 2 Restoration Angel
 2 Misty Rainforest
-1 Winds of Abandon
-2 Winds of Abandon
 2 Spell Pierce
 1 Inspiring Vantage
 1 Blinkmoth Nexus
@@ -62,28 +58,32 @@
 1 Arid Mesa
 1 Giver of Runes
 2 Giver of Runes
+3 Spell Snare
+1 Winds of Abandon
+2 Winds of Abandon
+3 Celestial Colonnade
 4 Force of Negation
-1 Narset, Parter of Veils
 1 Serum Visions
+1 Narset, Parter of Veils
 1 Monastery Mentor
 1 Arcum's Astrolabe
-2 Narset, Parter of Veils
 2 Serum Visions
+2 Narset, Parter of Veils
 2 Prismatic Vista
 2 Monastery Mentor
 2 Arcum's Astrolabe
-3 Serum Visions
 3 Monastery Mentor
 3 Prismatic Vista
 3 Arcum's Astrolabe
+3 Serum Visions
 4 Serum Visions
 1 Inquisition of Kozilek
 1 Thoughtseize
 1 Search for Azcanta
-1 Godless Shrine
 1 Silent Clearing
 1 Swamp
 1 Watery Grave
+1 Godless Shrine
 1 Creeping Tar Pit
 1 Fatal Push
 2 Inquisition of Kozilek
@@ -93,12 +93,12 @@
 3 Polluted Delta
 3 Inquisition of Kozilek
 4 Polluted Delta
+1 Ranger-Captain of Eos
 1 Sun Titan
-1 Prairie Stream
 1 Charming Prince
 1 Kami of False Hope
+1 Prairie Stream
 1 Watcher for Tomorrow
-1 Ranger-Captain of Eos
 1 Weathered Wayfarer
 1 Venser, the Sojourner
 1 Mortarpod
@@ -108,9 +108,9 @@
 1 Crucible of Worlds
 1 Mistveil Plains
 2 Charming Prince
+2 Ranger-Captain of Eos
 2 Prairie Stream
 2 Watcher for Tomorrow
-2 Ranger-Captain of Eos
 2 Detention Sphere
 2 Sun Titan
 2 Emeria, the Sky Ruin
