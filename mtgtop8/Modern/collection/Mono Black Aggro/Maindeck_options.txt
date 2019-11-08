@@ -5,15 +5,14 @@
 1 Undead Augur
 1 Relentless Dead
 2 Carrion Feeder
-2 Gravecrawler
 2 Diregraf Colossus
+2 Gravecrawler
 2 Fatal Push
 2 Undead Augur
-3 Gravecrawler
 3 Carrion Feeder
 3 Fatal Push
+3 Gravecrawler
 4 Gravecrawler
-1 Marsh Flats
 1 Snow-Covered Swamp
 1 Murderous Rider
 1 Castle Locthwain
@@ -23,6 +22,7 @@
 1 Urborg, Tomb of Yawgmoth
 1 Liliana, Untouched by Death
 1 Death Baron
+1 Marsh Flats
 1 Mutavault
 1 Godless Shrine
 1 Plains
@@ -30,10 +30,10 @@
 1 Cryptbreaker
 1 Lord of the Accursed
 2 Marsh Flats
+2 Murderous Rider
 2 Snow-Covered Swamp
 2 Godless Shrine
 2 Liliana, the Last Hope
-2 Murderous Rider
 2 Mutavault
 2 Dark Salvation
 2 Lord of the Accursed
@@ -42,20 +42,20 @@
 2 Relentless Dead
 2 Cryptbreaker
 3 Marsh Flats
+3 Murderous Rider
 3 Mutavault
 3 Snow-Covered Swamp
 3 Cryptbreaker
 3 Relentless Dead
-3 Murderous Rider
 3 Godless Shrine
 3 Tidehollow Sculler
 4 Marsh Flats
 4 Snow-Covered Swamp
 4 Mutavault
+4 Godless Shrine
 4 Relentless Dead
 4 Cryptbreaker
 4 Tidehollow Sculler
-4 Godless Shrine
 5 Snow-Covered Swamp
 6 Snow-Covered Swamp
 1 Unearth
@@ -63,23 +63,23 @@
 1 Geralf's Messenger
 1 Liliana of the Veil
 1 Plague Belcher
-2 Stitcher's Supplier
 2 Unearth
 2 Geralf's Messenger
 2 Plague Belcher
+2 Stitcher's Supplier
 2 Liliana of the Veil
-3 Stitcher's Supplier
 3 Unearth
 3 Liliana of the Veil
 3 Plague Belcher
 3 Undead Augur
 3 Geralf's Messenger
+3 Stitcher's Supplier
 3 Diregraf Colossus
-4 Stitcher's Supplier
 4 Carrion Feeder
 4 Unearth
 4 Fatal Push
 4 Plague Belcher
+4 Stitcher's Supplier
 4 Undead Augur
 4 Diregraf Colossus
 16 Swamp

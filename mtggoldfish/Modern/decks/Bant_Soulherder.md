@@ -33,8 +33,8 @@
 |*n*<sup>th</sup> copy|                                       Maindeck Card                                       |*n*<sup>th</sup> copy|Sideboard Card|
 |--------------------:|-------------------------------------------------------------------------------------------|---------------------|--------------|
 |                    1|[Brazen Borrower](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473001) |                     |              |
-|                    1|[Charming Prince](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472970) |                     |              |
 |                    1|[Vesperlark](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463984)      |                     |              |
+|                    1|[Charming Prince](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472970) |                     |              |
 |                    2|[Flooded Strand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405098)  |                     |              |
 |                    2|[Hallowed Fountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=97071)|                     |              |
 |                    2|[Brazen Borrower](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473001) |                     |              |

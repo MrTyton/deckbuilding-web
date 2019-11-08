@@ -1,16 +1,68 @@
 1 Sacred Foundry
 3 Sunbaked Canyon
+1 Mountain
+1 Arid Mesa
+2 Arid Mesa
+3 Arid Mesa
+4 Arid Mesa
 1 Lightning Bolt
 2 Sacred Foundry
 2 Lightning Bolt
+1 Lightning Helix
+2 Lightning Helix
+1 Inspiring Vantage
+2 Inspiring Vantage
+3 Inspiring Vantage
+1 Bloodstained Mire
+1 Lava Spike
+1 Monastery Swiftspear
+2 Mountain
+2 Lava Spike
+2 Monastery Swiftspear
+3 Mountain
+3 Lava Spike
+3 Lightning Bolt
+3 Monastery Swiftspear
+4 Lightning Bolt
+4 Monastery Swiftspear
+4 Lava Spike
+1 Searing Blaze
+1 Wooded Foothills
+1 Goblin Guide
+1 Leyline of Combustion
+1 Boros Charm
+1 Rift Bolt
+1 Skullcrack
+1 Skewer the Critics
+2 Searing Blaze
+2 Wooded Foothills
+2 Goblin Guide
+2 Leyline of Combustion
+2 Boros Charm
+2 Skewer the Critics
+2 Skullcrack
+3 Searing Blaze
+3 Goblin Guide
+3 Leyline of Combustion
+3 Skullcrack
+3 Boros Charm
+3 Skewer the Critics
+3 Lightning Helix
+4 Skullcrack
+4 Goblin Guide
+4 Searing Blaze
+4 Lightning Helix
+4 Boros Charm
+4 Sunbaked Canyon
+4 Skewer the Critics
+4 Mountain
 3 Sacred Foundry
 4 Sacred Foundry
 1 Blade Splicer
+1 Aether Vial
 1 Restoration Angel
 1 Leonin Arbiter
 1 Flickerwisp
-1 Aether Vial
-1 Inspiring Vantage
 1 Magus of the Moon
 1 Pia Nalaar
 1 Field of Ruin
@@ -19,21 +71,19 @@
 1 Ghost Quarter
 1 Path to Exile
 2 Blade Splicer
+2 Aether Vial
 2 Charming Prince
 2 Restoration Angel
 2 Magus of the Moon
 2 Leonin Arbiter
 2 Flickerwisp
 2 Pia Nalaar
-2 Inspiring Vantage
 2 Militia Bugler
 2 Field of Ruin
 2 Ghost Quarter
 2 Path to Exile
-2 Aether Vial
 3 Blade Splicer
 3 Aether Vial
-3 Inspiring Vantage
 3 Ghost Quarter
 3 Leonin Arbiter
 3 Flickerwisp
@@ -43,11 +93,6 @@
 4 Inspiring Vantage
 4 Blade Splicer
 4 Ghost Quarter
-1 Mountain
-1 Arid Mesa
-2 Arid Mesa
-3 Arid Mesa
-4 Arid Mesa
 1 Soul-Scar Mage
 1 Lava Dart
 1 Crash Through
@@ -55,10 +100,7 @@
 1 Blistercoil Weird
 1 Kiln Fiend
 1 Mutagenic Growth
-1 Bloodstained Mire
-1 Lava Spike
 1 Manamorphose
-1 Monastery Swiftspear
 1 Light Up the Stage
 2 Light Up the Stage
 2 Soul-Scar Mage
@@ -67,69 +109,57 @@
 2 Gut Shot
 2 Blistercoil Weird
 2 Kiln Fiend
-2 Mountain
 2 Mutagenic Growth
 2 Bloodstained Mire
 2 Manamorphose
-2 Lava Spike
-2 Monastery Swiftspear
 3 Light Up the Stage
 3 Soul-Scar Mage
 3 Lava Dart
 3 Crash Through
 3 Mutagenic Growth
 3 Kiln Fiend
-3 Mountain
 3 Manamorphose
-3 Lava Spike
-3 Lightning Bolt
-3 Monastery Swiftspear
 3 Gut Shot
 4 Light Up the Stage
 4 Soul-Scar Mage
 4 Lava Dart
 4 Crash Through
 4 Manamorphose
-4 Monastery Swiftspear
-4 Lightning Bolt
-4 Lava Spike
 4 Kiln Fiend
 4 Gut Shot
 4 Mutagenic Growth
+1 Emrakul, the Aeons Torn
 1 Gideon of the Trials
-1 Abrade
 1 Chalice of the Void
-1 Blessed Alliance
-1 Cast Out
 1 Nahiri, the Harbinger
+1 Blessed Alliance
 1 Chandra, Torch of Defiance
 1 Blood Moon
+1 Abrade
 1 Anger of the Gods
 1 Wrath of God
-1 Emrakul, the Aeons Torn
 1 Realm-Cloaked Giant
-1 Needle Spires
+1 Cast Out
 1 Rugged Prairie
 1 Gideon Jura
-1 Lightning Helix
+1 Needle Spires
 2 Chalice of the Void
 2 Nahiri, the Harbinger
-2 Abrade
-2 Anger of the Gods
 2 Gideon of the Trials
+2 Anger of the Gods
+2 Abrade
 2 Rugged Prairie
 2 Blood Moon
 2 Chandra, Torch of Defiance
 2 Gideon Jura
 2 Wrath of God
-2 Lightning Helix
-3 Nahiri, the Harbinger
-3 Anger of the Gods
 3 Blood Moon
+3 Nahiri, the Harbinger
+3 Chalice of the Void
+3 Anger of the Gods
 3 Temple of Triumph
 3 Rugged Prairie
-3 Chalice of the Void
-4 Blood Moon
 4 Chalice of the Void
+4 Blood Moon
 4 Nahiri, the Harbinger
 8 Plains

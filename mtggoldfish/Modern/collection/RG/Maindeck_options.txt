@@ -44,25 +44,11 @@
 4 Eldrazi Temple
 4 Reality Smasher
 4 Thought-Knot Seer
-1 Wrenn and Six
-1 Tarfire
-1 Goblin Rabblemaster
-1 Banefire
-1 Hexdrinker
-2 Snow-Covered Mountain
-2 Goblin Rabblemaster
-2 Wrenn and Six
-2 Hexdrinker
-3 Wrenn and Six
-3 Goblin Rabblemaster
-4 Wrenn and Six
-4 Blood Moon
-4 Seasoned Pyromancer
 1 Karn, the Great Creator
 1 Stone Rain
+1 Mwonvuli Acid-Moss
 1 Bonfire of the Damned
 1 Thragtusk
-1 Mwonvuli Acid-Moss
 2 Karn, the Great Creator
 2 Mwonvuli Acid-Moss
 2 Thragtusk
@@ -72,28 +58,42 @@
 3 Thragtusk
 3 Bonfire of the Damned
 3 Stone Rain
+4 Stomping Ground
 4 Karn, the Great Creator
 4 Bonfire of the Damned
-4 Stomping Ground
+1 Wrenn and Six
+1 Tarfire
+1 Goblin Rabblemaster
+1 Hexdrinker
+1 Banefire
+2 Snow-Covered Mountain
+2 Goblin Rabblemaster
+2 Wrenn and Six
+2 Hexdrinker
+3 Wrenn and Six
+3 Goblin Rabblemaster
+4 Wrenn and Six
+4 Blood Moon
+4 Seasoned Pyromancer
 1 Magmatic Sinkhole
 1 Fire-Lit Thicket
 1 Merchant of the Vale
-1 Tranquil Thicket
 1 Countryside Crusher
-1 Life from the Loam
 1 Flame Jab
 1 Copperline Gorge
 1 Forgotten Cave
 1 Seismic Assault
+1 Tranquil Thicket
 1 Treetop Village
+1 Life from the Loam
 2 Life from the Loam
 2 Magmatic Sinkhole
 2 Ghost Quarter
 2 Copperline Gorge
 2 Tranquil Thicket
-2 Countryside Crusher
 2 Forgotten Cave
 2 Fire-Lit Thicket
+2 Countryside Crusher
 2 Mountain
 2 Raging Ravine
 2 Flame Jab
@@ -161,8 +161,8 @@
 3 Grove of the Burnwillows
 3 Birds of Paradise
 3 Tireless Tracker
-3 Karplusan Forest
 3 Noble Hierarch
+3 Karplusan Forest
 4 Grove of the Burnwillows
 4 Birds of Paradise
 4 Karplusan Forest

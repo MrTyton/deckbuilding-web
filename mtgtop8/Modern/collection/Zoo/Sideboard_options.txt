@@ -5,52 +5,63 @@
 2 Worship
 3 Blood Moon
 3 Path to Exile
+1 Deflecting Palm
+2 Deflecting Palm
+1 Gaddock Teeg
 1 Knight of Autumn
+1 Eidolon of the Great Revel
+2 Eidolon of the Great Revel
 2 Knight of Autumn
 1 Cindervines
 1 Voice of Resurgence
-1 Eidolon of the Great Revel
 2 Voice of Resurgence
 2 Cindervines
-2 Eidolon of the Great Revel
-1 Gaddock Teeg
 1 Ancient Grudge
 1 Alpine Moon
 1 Veil of Summer
 2 Veil of Summer
 1 Rending Volley
-1 Deflecting Palm
-2 Deflecting Palm
+1 Hushbringer
+2 Hushbringer
+3 Destructive Revelry
 2 Gaddock Teeg
 2 Ancient Grudge
 1 Magus of the Moon
 2 Magus of the Moon
 1 Damping Sphere
 2 Damping Sphere
+1 Weather the Storm
+2 Weather the Storm
 1 Tormod's Crypt
 1 Bojuka Bog
 1 Bonecrusher Giant
 1 Domri Rade
+1 Serra the Benevolent
+1 Liquimetal Coating
+1 Chandra, Awakened Inferno
+1 Wurmcoil Engine
+1 Mycosynth Lattice
+1 Surgical Extraction
+1 Engineered Explosives
+1 Ensnaring Bridge
 1 Dromoka's Command
 1 Rampaging Ferocidon
 1 Celestial Purge
 1 Gideon, Ally of Zendikar
 1 Nissa, Vital Force
+1 Bloodbraid Elf
+2 Bloodbraid Elf
 1 Seasoned Pyromancer
 2 Seasoned Pyromancer
-1 Bloodbraid Elf
-1 Hushbringer
-2 Bloodbraid Elf
-2 Hushbringer
 1 Volcanic Fallout
 2 Stony Silence
 2 Volcanic Fallout
-1 Boros Charm
 1 Hazoret the Fervent
 1 Abrade
 1 Devastating Summons
 1 Harsh Mentor
 1 Hooting Mandrills
+1 Boros Charm
 2 Boros Charm
 2 Harsh Mentor
 2 Hooting Mandrills
@@ -58,29 +69,18 @@
 1 Tocatli Honor Guard
 1 Relic of Progenitus
 2 Relic of Progenitus
-1 Serra the Benevolent
-1 Liquimetal Coating
-1 Weather the Storm
-1 Chandra, Awakened Inferno
-1 Wurmcoil Engine
-1 Mycosynth Lattice
-1 Surgical Extraction
-1 Engineered Explosives
-1 Ensnaring Bridge
-2 Weather the Storm
 1 Aven Mindcensor
 2 Aven Mindcensor
 2 Rending Volley
+1 Kari Zev's Expertise
+1 Kor Firewalker
+2 Kor Firewalker
+2 Kari Zev's Expertise
 1 Lightning Helix
 1 Goblin Rabblemaster
 2 Lightning Helix
 3 Magus of the Moon
 3 Rest in Peace
-1 Kari Zev's Expertise
-1 Kor Firewalker
-2 Kor Firewalker
-2 Kari Zev's Expertise
-3 Destructive Revelry
 1 Ghost Quarter
 1 Tireless Tracker
 1 Huntmaster of the Fells
@@ -110,3 +110,5 @@
 3 Damping Sphere
 3 Kitchen Finks
 3 Meddling Mage
+3 Weather the Storm
+3 Eidolon of the Great Revel
