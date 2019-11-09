@@ -24,8 +24,8 @@
 2 Blood Moon
 3 Blood Moon
 2 Bonecrusher Giant
-3 Kiora, Behemoth Beckoner
 3 Bonecrusher Giant
+3 Kiora, Behemoth Beckoner
 4 Bonecrusher Giant
 1 Karn, the Great Creator
 2 Karn, the Great Creator
@@ -64,11 +64,11 @@
 1 Magmatic Sinkhole
 1 Fire-Lit Thicket
 1 Merchant of the Vale
-1 Countryside Crusher
 1 Tranquil Thicket
+1 Forgotten Cave
+1 Countryside Crusher
 1 Flame Jab
 1 Copperline Gorge
-1 Forgotten Cave
 1 Seismic Assault
 1 Treetop Village
 1 Life from the Loam
@@ -77,12 +77,12 @@
 2 Ghost Quarter
 2 Copperline Gorge
 2 Tranquil Thicket
+2 Forgotten Cave
 2 Countryside Crusher
 2 Raging Ravine
-2 Forgotten Cave
+2 Flame Jab
 2 Fire-Lit Thicket
 2 Mountain
-2 Flame Jab
 2 Merchant of the Vale
 2 Seismic Assault
 3 Life from the Loam
@@ -113,11 +113,11 @@
 2 Mutavault
 2 Dismember
 2 Simian Spirit Guide
-2 Zhalfirin Void
-2 Chalice of the Void
 2 Eternal Scourge
 2 Matter Reshaper
+2 Zhalfirin Void
 2 Blast Zone
+2 Chalice of the Void
 2 Serum Powder
 2 Eldrazi Mimic
 2 Blinkmoth Nexus
@@ -146,8 +146,8 @@
 3 Thragtusk
 3 Bonfire of the Damned
 3 Stone Rain
-4 Stomping Ground
 4 Bonfire of the Damned
+4 Stomping Ground
 4 Karn, the Great Creator
 1 Grove of the Burnwillows
 1 Boreal Druid
@@ -155,9 +155,9 @@
 1 Noble Hierarch
 1 Karplusan Forest
 2 Grove of the Burnwillows
+2 Noble Hierarch
 2 Tireless Tracker
 2 Karplusan Forest
-2 Noble Hierarch
 3 Grove of the Burnwillows
 3 Birds of Paradise
 3 Tireless Tracker
@@ -176,8 +176,8 @@
 1 Garruk Wildspeaker
 1 Craterhoof Behemoth
 1 Voracious Hydra
-1 Burning-Tree Emissary
 1 Ruric Thar, the Unbowed
+1 Burning-Tree Emissary
 1 Oath of Nissa
 2 Eternal Witness
 2 Nykthos, Shrine to Nyx
@@ -203,11 +203,11 @@
 1 Gut Shot
 1 Mutagenic Growth
 1 Dreadhorde Arcanist
-1 Atarka's Command
-1 Light Up the Stage
 1 Dwarven Mine
+1 Atarka's Command
 1 Bloodstained Mire
 1 Monastery Swiftspear
+1 Light Up the Stage
 2 Arid Mesa
 2 Soul-Scar Mage
 2 Scalding Tarn
@@ -216,8 +216,8 @@
 2 Gut Shot
 2 Mutagenic Growth
 2 Dreadhorde Arcanist
-2 Atarka's Command
 2 Bloodstained Mire
+2 Atarka's Command
 2 Dwarven Mine
 2 Monastery Swiftspear
 2 Light Up the Stage

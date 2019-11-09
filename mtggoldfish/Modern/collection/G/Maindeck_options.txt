@@ -33,19 +33,19 @@
 3 Hardened Scales
 3 Mox Opal
 3 Arcbound Ravager
-3 Hangarback Walker
 3 Darksteel Citadel
+3 Hangarback Walker
 3 Animation Module
 3 Arcbound Worker
 3 Welding Jar
 3 Inkmoth Nexus
 4 Snow-Covered Forest
 4 Walking Ballista
-4 Inkmoth Nexus
 4 Arcbound Ravager
 4 Arcbound Worker
 4 Hangarback Walker
 4 Hardened Scales
+4 Inkmoth Nexus
 4 Mox Opal
 4 Welding Jar
 4 Darksteel Citadel
@@ -54,23 +54,23 @@
 1 Rancor
 1 Syr Faren, the Hengehammer
 1 Hexdrinker
-1 Pelt Collector
 1 Treetop Village
 1 Bow of Nylea
 1 Aspect of Hydra
 1 Okina, Temple to the Grandfathers
+1 Pelt Collector
 1 Thorn Lieutenant
 1 Avatar of the Resolute
-1 Savage Swipe
 1 Dryad Militant
 1 Vines of Vastwood
 1 Strangleroot Geist
+1 Savage Swipe
 2 Rancor
 2 Hexdrinker
 2 Syr Faren, the Hengehammer
+2 Savage Swipe
 2 Pelt Collector
 2 Thorn Lieutenant
-2 Savage Swipe
 2 Avatar of the Resolute
 2 Dryad Militant
 2 Strangleroot Geist
@@ -78,7 +78,6 @@
 2 Aspect of Hydra
 3 Rancor
 3 Nurturing Peatland
-3 Pelt Collector
 3 Syr Faren, the Hengehammer
 3 Hexdrinker
 3 Avatar of the Resolute
@@ -87,15 +86,16 @@
 3 Strangleroot Geist
 3 Vines of Vastwood
 3 Aspect of Hydra
+3 Pelt Collector
 4 Rancor
 4 Hexdrinker
 4 Forest
-4 Pelt Collector
 4 Nurturing Peatland
 4 Strangleroot Geist
 4 Avatar of the Resolute
 4 Dryad Militant
 4 Savage Swipe
+4 Pelt Collector
 4 Aspect of Hydra
 4 Vines of Vastwood
 5 Forest
@@ -103,6 +103,6 @@
 7 Forest
 8 Forest
 9 Forest
+10 Forest
 11 Forest
 12 Forest
-10 Forest
