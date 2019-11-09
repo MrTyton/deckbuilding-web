@@ -1,21 +1,21 @@
-1 Scavenging Ooze
-3 Verdant Catacombs
-4 Verdant Catacombs
+1 Windswept Heath
 2 Windswept Heath
 3 Windswept Heath
 4 Windswept Heath
-1 Blood Moon
 1 Birds of Paradise
 2 Birds of Paradise
+1 Pillage
+2 Pillage
+1 Blood Moon
 2 Domri, Anarch of Bolas
 1 Stormbreath Dragon
+1 Snow-Covered Mountain
 1 Obstinate Baloth
 1 Misty Rainforest
 1 Inferno Titan
 2 Inferno Titan
 3 Pillage
 4 Pillage
-1 Snow-Covered Mountain
 1 Snow-Covered Forest
 2 Snow-Covered Forest
 3 Snow-Covered Forest
@@ -24,9 +24,12 @@
 2 Blood Moon
 3 Blood Moon
 2 Bonecrusher Giant
-3 Bonecrusher Giant
 3 Kiora, Behemoth Beckoner
+3 Bonecrusher Giant
 4 Bonecrusher Giant
+1 Karn, the Great Creator
+2 Karn, the Great Creator
+3 Karn, the Great Creator
 1 Tarmogoyf
 1 Ghost Quarter
 2 Tarmogoyf
@@ -44,34 +47,17 @@
 4 Eldrazi Temple
 4 Reality Smasher
 4 Thought-Knot Seer
-1 Karn, the Great Creator
-1 Stone Rain
-1 Mwonvuli Acid-Moss
-1 Bonfire of the Damned
-1 Thragtusk
-2 Karn, the Great Creator
-2 Mwonvuli Acid-Moss
-2 Thragtusk
-2 Stone Rain
-2 Bonfire of the Damned
-3 Karn, the Great Creator
-3 Thragtusk
-3 Bonfire of the Damned
-3 Stone Rain
-4 Stomping Ground
-4 Karn, the Great Creator
-4 Bonfire of the Damned
-1 Wrenn and Six
+2 Snow-Covered Mountain
 1 Tarfire
+1 Wrenn and Six
 1 Goblin Rabblemaster
 1 Hexdrinker
 1 Banefire
-2 Snow-Covered Mountain
 2 Goblin Rabblemaster
 2 Wrenn and Six
 2 Hexdrinker
-3 Wrenn and Six
 3 Goblin Rabblemaster
+3 Wrenn and Six
 4 Wrenn and Six
 4 Blood Moon
 4 Seasoned Pyromancer
@@ -79,11 +65,11 @@
 1 Fire-Lit Thicket
 1 Merchant of the Vale
 1 Countryside Crusher
+1 Tranquil Thicket
 1 Flame Jab
 1 Copperline Gorge
 1 Forgotten Cave
 1 Seismic Assault
-1 Tranquil Thicket
 1 Treetop Village
 1 Life from the Loam
 2 Life from the Loam
@@ -91,11 +77,11 @@
 2 Ghost Quarter
 2 Copperline Gorge
 2 Tranquil Thicket
+2 Countryside Crusher
+2 Raging Ravine
 2 Forgotten Cave
 2 Fire-Lit Thicket
-2 Countryside Crusher
 2 Mountain
-2 Raging Ravine
 2 Flame Jab
 2 Merchant of the Vale
 2 Seismic Assault
@@ -107,11 +93,10 @@
 3 Copperline Gorge
 3 Merchant of the Vale
 4 Ghost Quarter
-4 Countryside Crusher
 4 Copperline Gorge
 4 Life from the Loam
+4 Countryside Crusher
 1 Dismember
-1 Blast Zone
 1 Wastes
 1 Blinkmoth Nexus
 1 Simian Spirit Guide
@@ -122,16 +107,17 @@
 1 Scavenger Grounds
 1 Chalice of the Void
 1 Eternal Scourge
+1 Blast Zone
 1 Eldrazi Mimic
 1 Zhalfirin Void
 2 Mutavault
-2 Blast Zone
 2 Dismember
-2 Eternal Scourge
-2 Matter Reshaper
 2 Simian Spirit Guide
 2 Zhalfirin Void
 2 Chalice of the Void
+2 Eternal Scourge
+2 Matter Reshaper
+2 Blast Zone
 2 Serum Powder
 2 Eldrazi Mimic
 2 Blinkmoth Nexus
@@ -149,24 +135,112 @@
 4 Zhalfirin Void
 4 Serum Powder
 4 Chalice of the Void
+1 Stone Rain
+1 Mwonvuli Acid-Moss
+1 Bonfire of the Damned
+1 Thragtusk
+2 Mwonvuli Acid-Moss
+2 Thragtusk
+2 Stone Rain
+2 Bonfire of the Damned
+3 Thragtusk
+3 Bonfire of the Damned
+3 Stone Rain
+4 Stomping Ground
+4 Bonfire of the Damned
+4 Karn, the Great Creator
 1 Grove of the Burnwillows
 1 Boreal Druid
 1 Tireless Tracker
 1 Noble Hierarch
 1 Karplusan Forest
 2 Grove of the Burnwillows
-2 Noble Hierarch
 2 Tireless Tracker
 2 Karplusan Forest
+2 Noble Hierarch
 3 Grove of the Burnwillows
 3 Birds of Paradise
 3 Tireless Tracker
-3 Noble Hierarch
 3 Karplusan Forest
+3 Noble Hierarch
 4 Grove of the Burnwillows
 4 Birds of Paradise
 4 Karplusan Forest
 4 Noble Hierarch
+1 Courser of Kruphix
+1 Nykthos, Shrine to Nyx
+1 Eternal Witness
+1 Wistful Selkie
+1 Acidic Slime
+1 Genesis Hydra
+1 Garruk Wildspeaker
+1 Craterhoof Behemoth
+1 Voracious Hydra
+1 Burning-Tree Emissary
+1 Ruric Thar, the Unbowed
+1 Oath of Nissa
+2 Eternal Witness
+2 Nykthos, Shrine to Nyx
+2 Garruk Wildspeaker
+2 Voracious Hydra
+2 Genesis Hydra
+2 Oath of Nissa
+2 Burning-Tree Emissary
+3 Eternal Witness
+3 Oath of Nissa
+3 Burning-Tree Emissary
+3 Nykthos, Shrine to Nyx
+3 Garruk Wildspeaker
+4 Burning-Tree Emissary
+4 Nykthos, Shrine to Nyx
+4 Garruk Wildspeaker
+4 Oath of Nissa
+1 Arid Mesa
+1 Scalding Tarn
+1 Soul-Scar Mage
+1 Lava Dart
+1 Manamorphose
+1 Gut Shot
+1 Mutagenic Growth
+1 Dreadhorde Arcanist
+1 Atarka's Command
+1 Light Up the Stage
+1 Dwarven Mine
+1 Bloodstained Mire
+1 Monastery Swiftspear
+2 Arid Mesa
+2 Soul-Scar Mage
+2 Scalding Tarn
+2 Lava Dart
+2 Manamorphose
+2 Gut Shot
+2 Mutagenic Growth
+2 Dreadhorde Arcanist
+2 Atarka's Command
+2 Bloodstained Mire
+2 Dwarven Mine
+2 Monastery Swiftspear
+2 Light Up the Stage
+3 Light Up the Stage
+3 Soul-Scar Mage
+3 Lava Dart
+3 Snow-Covered Mountain
+3 Scalding Tarn
+3 Manamorphose
+3 Mutagenic Growth
+3 Monastery Swiftspear
+3 Dreadhorde Arcanist
+3 Atarka's Command
+4 Light Up the Stage
+4 Soul-Scar Mage
+4 Lava Dart
+4 Manamorphose
+4 Snow-Covered Mountain
+4 Dreadhorde Arcanist
+4 Monastery Swiftspear
+4 Atarka's Command
+4 Mutagenic Growth
+5 Snow-Covered Mountain
 1 Vengevine
 2 Obstinate Baloth
 2 Vengevine

@@ -1,8 +1,8 @@
 1 Nurturing Peatland
 2 Nurturing Peatland
+1 Blooming Marsh
 1 Maelstrom Pulse
 1 Field of Ruin
-1 Blooming Marsh
 2 Blooming Marsh
 3 Fatal Push
 1 Bloodbraid Elf
@@ -67,19 +67,19 @@
 4 Simian Spirit Guide
 1 Vraska, Golgari Queen
 1 Courser of Kruphix
-1 Liliana, the Last Hope
+1 Treetop Village
 1 Damnation
+1 Liliana, the Last Hope
 1 Canyon Slough
 1 Obstinate Baloth
 1 Collective Brutality
 1 Tectonic Edge
-1 Treetop Village
 2 Courser of Kruphix
+2 Maelstrom Pulse
+2 Treetop Village
 2 Tectonic Edge
 2 Abrupt Decay
-2 Maelstrom Pulse
 2 Collective Brutality
-2 Treetop Village
 3 Courser of Kruphix
 3 Collective Brutality
 3 Snow-Covered Swamp
@@ -95,15 +95,15 @@
 3 Prismatic Vista
 4 Bloodbraid Elf
 1 Woodland Cemetery
-1 Dragonskull Summit
-1 Windswept Heath
 1 Chandra, Acolyte of Flame
+1 Windswept Heath
 1 Plague Engineer
 1 Polluted Delta
+1 Dragonskull Summit
+2 Chandra, Acolyte of Flame
 2 Blood Crypt
 2 Stomping Ground
 2 Raging Ravine
-2 Chandra, Acolyte of Flame
 2 Woodland Cemetery
 2 Polluted Delta
 4 Lightning Bolt
@@ -114,6 +114,7 @@
 1 Pashalik Mons
 1 Goblin Cratermaker
 1 Sling-Gang Lieutenant
+1 Munitions Expert
 1 Goblin Ringleader
 1 Putrid Goblin
 1 Aether Vial
@@ -124,18 +125,17 @@
 1 Auntie's Hovel
 1 Krenko, Mob Boss
 1 Goblin Warchief
-1 Munitions Expert
-2 Cavern of Souls
 2 Once Upon a Time
+2 Cavern of Souls
 2 Sling-Gang Lieutenant
-2 Goblin Matron
+2 Goblin Cratermaker
 2 Munitions Expert
+2 Goblin Matron
 2 Aether Vial
 2 Mogg War Marshal
 2 Mountain
 2 Skirk Prospector
 2 Goblin Ringleader
-2 Goblin Cratermaker
 2 Goblin Warchief
 3 Once Upon a Time
 3 Cavern of Souls
@@ -146,8 +146,8 @@
 3 Goblin Matron
 3 Skirk Prospector
 4 Cavern of Souls
-4 Once Upon a Time
 4 Aether Vial
+4 Once Upon a Time
 4 Goblin Matron
 4 Bloodstained Mire
 4 Goblin Ringleader

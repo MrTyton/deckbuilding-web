@@ -1,42 +1,47 @@
-2 Birds of Paradise
-3 Snow-Covered Island
-1 Deputy of Detention
+4 Force of Negation
 2 Mana Leak
-4 Windswept Heath
+1 Deputy of Detention
+2 Birds of Paradise
 4 Misty Rainforest
+4 Windswept Heath
 4 Prismatic Vista
 1 Razorverge Thicket
 2 Razorverge Thicket
 3 Snow-Covered Forest
-1 Eternal Witness
 1 Knight of Autumn
+1 Eternal Witness
 1 Soulherder
 2 Soulherder
-1 Coiling Oracle
 1 Ephemerate
+1 Coiling Oracle
+2 Eternal Witness
 2 Coiling Oracle
 2 Ephemerate
-2 Eternal Witness
-3 Eternal Witness
 3 Ephemerate
-3 Soulherder
+3 Eternal Witness
 3 Coiling Oracle
+3 Soulherder
 4 Ephemerate
 4 Coiling Oracle
 1 Gavony Township
+1 Arcum's Astrolabe
+2 Arcum's Astrolabe
 3 Mana Leak
-1 Tireless Tracker
 1 Mulldrifter
 1 Time Warp
 2 Knight of Autumn
+1 Tireless Tracker
 1 Giver of Runes
 2 Giver of Runes
 1 Collected Company
 2 Collected Company
 3 Collected Company
-1 Arcum's Astrolabe
-2 Arcum's Astrolabe
-2 Temple Garden
+1 Opt
+1 Spell Snare
+2 Spell Snare
+2 Opt
+3 Arcum's Astrolabe
+4 Arcum's Astrolabe
 1 Moorland Haunt
 1 Wall of Blossoms
 2 Mulldrifter
@@ -48,14 +53,21 @@
 2 Hallowed Fountain
 2 Tireless Tracker
 2 Deputy of Detention
+2 Temple Garden
 3 Giver of Runes
 4 Flooded Strand
-1 Opt
-1 Spell Snare
-2 Spell Snare
-2 Opt
-3 Arcum's Astrolabe
-4 Arcum's Astrolabe
+1 Snapcaster Mage
+1 Supreme Verdict
+2 Snapcaster Mage
+3 Opt
+3 Snapcaster Mage
+4 Snow-Covered Island
+5 Snow-Covered Island
+1 Teferi, Hero of Dominaria
+1 Cryptic Command
+1 Field of Ruin
+2 Cryptic Command
+2 Field of Ruin
 1 Canopy Vista
 1 Prairie Stream
 2 Watcher for Tomorrow
@@ -67,50 +79,26 @@
 1 Brazen Borrower
 2 Brazen Borrower
 2 Breeding Pool
-1 Snapcaster Mage
-1 Supreme Verdict
-2 Snapcaster Mage
-3 Opt
-3 Snapcaster Mage
-4 Snow-Covered Island
-5 Snow-Covered Island
-1 Knight of the Reliquary
-1 Ghost Quarter
-2 Knight of the Reliquary
-3 Knight of the Reliquary
-4 Knight of the Reliquary
-3 Birds of Paradise
-3 Temple Garden
-1 Botanical Sanctum
 1 Gaddock Teeg
+1 Mystical Dispute
 1 Remand
+1 Thragtusk
+2 Wall of Blossoms
+2 Time Warp
 1 Gilded Goose
 2 Gilded Goose
+2 Supreme Verdict
 1 Geist of Saint Traft
 2 Geist of Saint Traft
 1 Spell Pierce
 2 Spell Pierce
-1 Thragtusk
-2 Wall of Blossoms
-2 Time Warp
-1 Teferi, Hero of Dominaria
-1 Cryptic Command
-1 Mystical Dispute
-1 Field of Ruin
-2 Cryptic Command
-2 Field of Ruin
 1 Ranger-Captain of Eos
 1 Sword of Light and Shadow
 1 Caustic Caterpillar
 2 Ranger-Captain of Eos
 3 Ranger-Captain of Eos
-1 Charming Prince
-1 Reflector Mage
-1 Oust
-1 Vesperlark
-2 Oust
-2 Vesperlark
-3 Oust
+1 Botanical Sanctum
+3 Birds of Paradise
 4 Eternal Witness
 2 Venser, Shaper Savant
 3 Wall of Omens
@@ -121,27 +109,18 @@
 3 Serum Visions
 4 Opt
 4 Serum Visions
+1 Knight of the Reliquary
+1 Ghost Quarter
+2 Knight of the Reliquary
+3 Knight of the Reliquary
+4 Knight of the Reliquary
 2 Gavony Township
+3 Temple Garden
 4 Temple Garden
-1 Sejiri Steppe
-1 Plains
-1 Minamo, School at Water's Edge
-1 Fauna Shaman
-1 Dryad Arbor
-1 Mangara of Corondor
-1 Scavenging Ooze
-1 Scryb Ranger
-1 Thalia, Guardian of Thraben
-1 Forest
-2 Horizon Canopy
-2 Scryb Ranger
-2 Forest
-2 Thalia, Guardian of Thraben
-2 Mangara of Corondor
-2 Fauna Shaman
-3 Mangara of Corondor
-3 Fauna Shaman
-3 Scryb Ranger
-3 Thalia, Guardian of Thraben
-4 Mangara of Corondor
-4 Fauna Shaman
+1 Charming Prince
+1 Reflector Mage
+1 Oust
+1 Vesperlark
+2 Oust
+2 Vesperlark
+3 Oust
