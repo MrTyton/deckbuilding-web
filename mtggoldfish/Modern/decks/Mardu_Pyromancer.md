@@ -43,6 +43,6 @@
 |                    2|[Collective Brutality](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414380)  |                    1|[Kolaghan's Command](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394613)        |
 |                    2|[Blackcleave Cliffs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=209401)    |                    1|[Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)              |
 |                    3|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)                 |                    2|[Deafening Silence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472972)         |
-|                    3|[Blackcleave Cliffs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=209401)    |                    2|[Lightning Skelemental](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464157)     |
-|                    4|[Inquisition of Kozilek](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416897)|                     |                                                                                                     |
+|                    4|[Inquisition of Kozilek](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416897)|                    2|[Lightning Skelemental](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464157)     |
+|                    3|[Blackcleave Cliffs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=209401)    |                     |                                                                                                     |
 

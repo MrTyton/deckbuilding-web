@@ -30,19 +30,19 @@
 
 |*n*<sup>th</sup> copy|                                           Maindeck Card                                            |*n*<sup>th</sup> copy|Sideboard Card|
 |--------------------:|----------------------------------------------------------------------------------------------------|---------------------|--------------|
-|                    1|[Disfigure](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442076)                |                     |              |
-|                    1|[Drill Bit](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457217)                |                     |              |
 |                    1|[Legion's End](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466860)             |                     |              |
+|                    1|[Drill Bit](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457217)                |                     |              |
 |                    1|[Spawn of Mayhem](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457229)          |                     |              |
 |                    1|[Midnight Reaper](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452827)          |                     |              |
 |                    1|[Epic Downfall](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473047)            |                     |              |
 |                    1|[Yarok's Fenlurker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466877)        |                     |              |
 |                    1|[Gutterbones](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457220)              |                     |              |
 |                    1|[Rankle, Master of Pranks](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473063) |                     |              |
+|                    1|[Disfigure](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442076)                |                     |              |
 |                    1|[Knight of the Ebon Legion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466859)|                     |              |
-|                    2|[Disfigure](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442076)                |                     |              |
 |                    2|[Spawn of Mayhem](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457229)          |                     |              |
 |                    2|[Gutterbones](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457220)              |                     |              |
+|                    2|[Disfigure](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442076)                |                     |              |
 |                    2|[Midnight Reaper](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452827)          |                     |              |
 |                    2|[Yarok's Fenlurker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466877)        |                     |              |
 |                    2|[Knight of the Ebon Legion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466859)|                     |              |

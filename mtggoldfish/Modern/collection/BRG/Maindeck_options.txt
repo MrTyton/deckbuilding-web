@@ -14,12 +14,12 @@
 2 Karplusan Forest
 2 Force of Vigor
 2 Monstrous Carabid
-2 Demonic Dread
 2 Violent Outburst
 2 Horror of the Broken Lands
 2 Hollow One
 2 Simian Spirit Guide
 2 Living End
+2 Demonic Dread
 2 Street Wraith
 2 Llanowar Wastes
 2 Archfiend of Ifnir
@@ -28,12 +28,12 @@
 3 Faerie Macabre
 3 Force of Vigor
 3 Street Wraith
+3 Living End
 3 Demonic Dread
 3 Simian Spirit Guide
 3 Violent Outburst
 3 Llanowar Wastes
 3 Monstrous Carabid
-3 Living End
 3 Horror of the Broken Lands
 3 Hollow One
 4 Karplusan Forest
@@ -84,8 +84,8 @@
 1 Polluted Delta
 1 Chandra, Acolyte of Flame
 1 Windswept Heath
-1 Plague Engineer
 1 Dragonskull Summit
+1 Plague Engineer
 2 Chandra, Acolyte of Flame
 2 Blood Crypt
 2 Stomping Ground
@@ -110,20 +110,20 @@
 1 Goblin Matron
 1 Skirk Prospector
 1 Mogg War Marshal
+1 Goblin Warchief
 1 Krenko, Mob Boss
 1 Auntie's Hovel
-1 Goblin Warchief
 2 Cavern of Souls
 2 Once Upon a Time
 2 Sling-Gang Lieutenant
 2 Goblin Cratermaker
 2 Munitions Expert
-2 Skirk Prospector
 2 Goblin Matron
 2 Aether Vial
-2 Mountain
 2 Mogg War Marshal
+2 Mountain
 2 Ghost Quarter
+2 Skirk Prospector
 2 Goblin Ringleader
 2 Goblin Warchief
 3 Once Upon a Time
@@ -139,7 +139,7 @@
 4 Aether Vial
 4 Once Upon a Time
 4 Goblin Matron
-4 Munitions Expert
 4 Bloodstained Mire
 4 Goblin Ringleader
+4 Munitions Expert
 4 Goblin Warchief
