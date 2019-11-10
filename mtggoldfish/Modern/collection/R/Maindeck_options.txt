@@ -20,13 +20,13 @@
 2 Burst Lightning
 2 Zurgo Bellstriker
 3 Burst Lightning
-3 Searing Blaze
 3 Bonecrusher Giant
+3 Searing Blaze
 3 Rampaging Ferocidon
 3 Ash Zealot
 3 Incinerate
-4 Searing Blaze
 4 Bonecrusher Giant
+4 Searing Blaze
 4 Incinerate
 4 Ash Zealot
 3 Light Up the Stage
@@ -34,9 +34,9 @@
 4 Light Up the Stage
 1 Arid Mesa
 1 Vexing Devil
-1 Wooded Foothills
 1 Bloodstained Mire
 1 Skullcrack
+1 Wooded Foothills
 2 Vexing Devil
 2 Bloodstained Mire
 2 Wooded Foothills
@@ -48,32 +48,32 @@
 1 Goblin Rabblemaster
 1 Chalice of the Void
 1 Abrade
-1 Castle Embereth
 1 Legion Warboss
 1 Torbran, Thane of Red Fell
 1 Desperate Ritual
 1 Magus of the Moon
+1 Castle Embereth
 1 Mutavault
 1 Simian Spirit Guide
 2 Gemstone Caverns
 2 Goblin Rabblemaster
 2 Chalice of the Void
 2 Legion Warboss
-2 Castle Embereth
 2 Magus of the Moon
 2 Torbran, Thane of Red Fell
 2 Abrade
 2 Chandra, Torch of Defiance
 2 Simian Spirit Guide
+2 Castle Embereth
 2 Desperate Ritual
 3 Goblin Rabblemaster
 3 Magus of the Moon
-3 Gemstone Caverns
 3 Legion Warboss
 3 Chalice of the Void
 3 Chandra, Torch of Defiance
 3 Desperate Ritual
 3 Ramunap Ruins
+3 Gemstone Caverns
 3 Simian Spirit Guide
 4 Chalice of the Void
 4 Goblin Rabblemaster
@@ -138,7 +138,6 @@
 3 Cranial Plating
 3 Welding Jar
 4 Welding Jar
-4 Arcbound Ravager
 4 Springleaf Drum
 4 Blinkmoth Nexus
 4 Frogmite
@@ -146,6 +145,7 @@
 4 Darksteel Citadel
 4 Memnite
 4 Inkmoth Nexus
+4 Arcbound Ravager
 4 Mox Opal
 4 Signal Pest
 4 Ornithopter
