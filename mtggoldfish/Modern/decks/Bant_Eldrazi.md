@@ -52,7 +52,7 @@
 |                    1|[Snow-Covered Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121130) |                     |                                                                                               |
 |                    1|[Wastes](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407694)              |                     |                                                                                               |
 |                    3|[Prismatic Vista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464193)     |                     |                                                                                               |
+|                    4|[Prismatic Vista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464193)     |                     |                                                                                               |
 |                    4|[Yavimaya Coast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129810)      |                     |                                                                                               |
 |                    4|[Brushland](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129496)           |                     |                                                                                               |
-|                    4|[Prismatic Vista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464193)     |                     |                                                                                               |
 

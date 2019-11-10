@@ -50,7 +50,7 @@ def output():
         fp.write(everything)
 
     everything = "# Stock Decklists\n#### Based on mtgtop8\n\n"
-    for format in ["Standard", "Modern", "Legacy"]:
+    for format in ["Standard", "Pioneer", "Modern", "Legacy"]:
         everything += "\n" + create(format, 'mtgtop8')
 
     everything += f"\n\n#### Last Updated at {datetime.datetime.now().strftime('%I:%M%p on %B %d, %Y')}"

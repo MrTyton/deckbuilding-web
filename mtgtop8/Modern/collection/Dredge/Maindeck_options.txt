@@ -3,6 +3,7 @@
 1 Stinkweed Imp
 2 Forgotten Cave
 2 Shriekhorn
+2 Copperline Gorge
 2 Conflagrate
 2 Stinkweed Imp
 2 Stomping Ground
@@ -16,15 +17,14 @@
 4 Stinkweed Imp
 4 Shriekhorn
 1 Mountain
+2 Blood Crypt
 2 Golgari Thug
 3 Forgotten Cave
-2 Copperline Gorge
-1 Wooded Foothills
-4 Life from the Loam
-2 Blood Crypt
 1 Merchant of the Vale
 2 Merchant of the Vale
 3 Merchant of the Vale
+4 Life from the Loam
+1 Wooded Foothills
 3 Copperline Gorge
 2 Wooded Foothills
 2 Marsh Flats
@@ -34,51 +34,51 @@
 1 Carrion Feeder
 2 Carrion Feeder
 3 Marsh Flats
-2 Once Upon a Time
-4 Marsh Flats
-4 Bloodstained Mire
-1 Gemstone Mine
-2 Mountain
 3 Wooded Foothills
+4 Bloodstained Mire
+2 Once Upon a Time
+2 Mountain
+4 Marsh Flats
 3 Once Upon a Time
 1 Verdant Catacombs
 2 Verdant Catacombs
 3 Verdant Catacombs
 3 Carrion Feeder
 2 Swamp
-3 Golgari Thug
 1 City of Brass
-1 Arid Mesa
-2 Arid Mesa
+1 Gemstone Mine
+3 Golgari Thug
 4 Once Upon a Time
 1 Darkslick Shores
 2 Darkslick Shores
 1 Haunted Dead
 4 Watery Grave
-1 Darkblast
 1 Gurmag Angler
 1 Memory Sluice
+1 Darkblast
+4 Merchant of the Vale
+1 Arid Mesa
+2 Arid Mesa
+4 Wooded Foothills
 1 Breeding Pool
 4 Verdant Catacombs
-4 Wooded Foothills
 1 Grisly Salvage
 1 Collective Brutality
 2 Grisly Salvage
 3 Grisly Salvage
 4 Grisly Salvage
-1 Snow-Covered Swamp
 1 Blast Zone
+1 Snow-Covered Swamp
 2 Gurmag Angler
 2 Memory Sluice
 1 Mana Confluence
-4 Merchant of the Vale
 4 Copperline Gorge
 3 Arid Mesa
 1 Insolent Neonate
-1 Steam Vents
 1 Island
 1 Forest
 2 Snow-Covered Swamp
+1 Steam Vents
 2 Insolent Neonate
 3 Insolent Neonate
 1 Snow-Covered Forest
@@ -88,12 +88,6 @@
 1 Scalding Tarn
 2 Scalding Tarn
 3 Scalding Tarn
-1 Tome Scour
-2 Tome Scour
-2 City of Brass
-3 City of Brass
-3 Tome Scour
-4 Tome Scour
 3 Memory Sluice
 4 Memory Sluice
 4 Arid Mesa

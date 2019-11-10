@@ -194,7 +194,7 @@ if __name__ == "__main__":
         "Forest":("[{}]({})".format("Forest", "http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860"), "Land", "Forest", "RIX", 196)}
     
     for site in ["mtggoldfish", "mtgtop8"]:
-        for format in ["Modern", "Standard", "Legacy"]:
+        for format in ["Modern", "Standard", "Legacy", "Pioneer"]:
             d = f'./{site}/{format}/collection'
             archetypes = [(o, os.path.join(d, o)) for o in os.listdir(d)
                           if os.path.isdir(os.path.join(d, o))]
