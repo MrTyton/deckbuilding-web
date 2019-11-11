@@ -198,11 +198,12 @@ if __name__ == "__main__":
             d = f'./{site}/{format}/collection'
             archetypes = [(o, os.path.join(d, o)) for o in os.listdir(d)
                           if os.path.isdir(os.path.join(d, o))]
+            print(archetypes)
             for title, dir in archetypes:
                 log(f"\tGenerating Page for {title}")
-#                try:
-                run(title, dir, format, site, memoizer)
- #               except Exception as e:
+                try:
+                    run(title, dir, format, site, memoizer)
+                except Exception as e:
  #                   print(e)
  #                   continue
 
