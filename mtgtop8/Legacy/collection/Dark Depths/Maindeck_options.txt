@@ -1,19 +1,15 @@
 2 Dark Confidant
-1 Once Upon a Time
-1 Ghost Quarter
-1 Tarmogoyf
-2 Tarmogoyf
-3 Tarmogoyf
-3 Dark Confidant
 1 Sylvan Safekeeper
+1 Once Upon a Time
 2 Once Upon a Time
 3 Once Upon a Time
 4 Once Upon a Time
-1 Inquisition of Kozilek
-1 Misty Rainforest
 3 Wasteland
-1 Satyr Wayfinder
+1 Misty Rainforest
+1 Windswept Heath
+1 Ghost Quarter
 1 Stitcher's Supplier
+1 Satyr Wayfinder
 1 Hogaak, Arisen Necropolis
 2 Hogaak, Arisen Necropolis
 2 Satyr Wayfinder
@@ -21,16 +17,20 @@
 3 Hogaak, Arisen Necropolis
 3 Stitcher's Supplier
 3 Satyr Wayfinder
-1 Windswept Heath
+1 Tarmogoyf
+2 Tarmogoyf
+3 Tarmogoyf
 4 Tarmogoyf
+3 Dark Confidant
 4 Dark Confidant
+1 Dryad Arbor
 4 Stitcher's Supplier
 1 Cabal Therapy
 1 Khalni Garden
 2 Cabal Therapy
 3 Cabal Therapy
 4 Satyr Wayfinder
-2 Inquisition of Kozilek
+1 Inquisition of Kozilek
 1 Pithing Needle
 2 Pithing Needle
 1 Elvish Spirit Guide
@@ -42,9 +42,7 @@
 4 Lotus Petal
 3 Sylvan Scrying
 1 Blast Zone
-1 Dryad Arbor
-1 Life from the Loam
-1 Assassin's Trophy
+2 Windswept Heath
 1 Not of This World
 2 Not of This World
 3 Not of This World
@@ -54,55 +52,65 @@
 4 Not of This World
 4 Sylvan Scrying
 4 Cabal Therapy
-1 Hymn to Tourach
-2 Hymn to Tourach
 4 Hogaak, Arisen Necropolis
 1 Overgrown Tomb
-2 Windswept Heath
-1 Steely Resolve
-2 Forest
-2 Overgrown Tomb
-3 Hymn to Tourach
-2 Khalni Garden
-3 Bayou
-1 Rite of Consumption
-2 Ghost Quarter
-3 Ghost Quarter
-1 Wooded Foothills
+2 Inquisition of Kozilek
 1 Snow-Covered Plains
-1 Hexdrinker
-1 Plateau
-1 Taiga
 1 Gaddock Teeg
 1 Scavenging Ooze
 1 Knight of the Reliquary
-1 Wrenn and Six
 1 Savannah
 1 Horizon Canopy
 1 Green Sun's Zenith
 1 Knight of Autumn
-1 Swords to Plowshares
 2 Green Sun's Zenith
-2 Wooded Foothills
-2 Swords to Plowshares
-2 Wrenn and Six
 2 Knight of the Reliquary
 3 Windswept Heath
 3 Green Sun's Zenith
-3 Wrenn and Six
 3 Knight of the Reliquary
-3 Swords to Plowshares
 4 Windswept Heath
-4 Wasteland
-4 Swords to Plowshares
 4 Knight of the Reliquary
 4 Green Sun's Zenith
+1 Life from the Loam
+1 Assassin's Trophy
+1 Steely Resolve
+2 Forest
+2 Overgrown Tomb
+1 Hymn to Tourach
+2 Hymn to Tourach
+3 Hymn to Tourach
+1 Ancient Tomb
+1 Path to Exile
+1 Flagstones of Trokair
+1 Giver of Runes
+2 Giver of Runes
+2 Sylvan Library
+2 Snow-Covered Forest
+2 Path to Exile
+2 Savannah
+3 Giver of Runes
+3 Path to Exile
+2 Khalni Garden
+3 Bayou
+1 Wooded Foothills
+1 Hexdrinker
+1 Plateau
+1 Taiga
+1 Wrenn and Six
+1 Swords to Plowshares
+2 Wooded Foothills
+2 Swords to Plowshares
+2 Wrenn and Six
+3 Wrenn and Six
+3 Swords to Plowshares
+4 Wasteland
+4 Swords to Plowshares
 1 Stifle
 1 Brainstorm
 1 Tropical Island
+1 Underground Sea
 1 Gemstone Mine
 1 Polluted Delta
-1 Underground Sea
 2 Misty Rainforest
 2 Brainstorm
 2 Polluted Delta

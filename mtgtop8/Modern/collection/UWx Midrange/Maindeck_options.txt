@@ -3,18 +3,18 @@
 6 Island
 3 Teferi, Time Raveler
 1 Sword of Fire and Ice
+1 Steam Vents
 1 Lightning Helix
 1 Lightning Bolt
 1 Mountain
-1 Steam Vents
 1 Sacred Foundry
-2 Steam Vents
 2 Lightning Helix
 2 Lightning Bolt
+2 Steam Vents
 2 Scalding Tarn
+3 Scalding Tarn
 3 Lightning Helix
 3 Lightning Bolt
-3 Scalding Tarn
 4 Lightning Bolt
 1 Misty Rainforest
 1 Snow-Covered Island
@@ -58,23 +58,23 @@
 1 Blinkmoth Nexus
 2 Spirebluff Canal
 3 Spell Snare
-4 Force of Negation
-1 Inquisition of Kozilek
-1 Thoughtseize
 1 Search for Azcanta
+1 Thoughtseize
+1 Inquisition of Kozilek
 1 Swamp
 1 Watery Grave
 1 Godless Shrine
 1 Creeping Tar Pit
 1 Fatal Push
 1 Silent Clearing
-2 Inquisition of Kozilek
 2 Thoughtseize
 2 Watery Grave
 2 Fatal Push
+2 Inquisition of Kozilek
 3 Polluted Delta
 3 Inquisition of Kozilek
 4 Polluted Delta
+4 Force of Negation
 1 Ranger-Captain of Eos
 1 Sun Titan
 1 Charming Prince
@@ -110,12 +110,12 @@
 6 Snow-Covered Plains
 7 Snow-Covered Plains
 1 Breeding Pool
-1 Logic Knot
 1 Oko, Thief of Crowns
 1 Snow-Covered Forest
 1 Temple Garden
 1 Remand
 1 Serum Visions
+1 Logic Knot
 1 Monastery Mentor
 1 Pulse of Murasa
 1 Ice-Fang Coatl

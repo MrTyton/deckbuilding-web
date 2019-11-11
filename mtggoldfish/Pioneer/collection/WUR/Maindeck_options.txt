@@ -19,11 +19,11 @@
 1 Agent of Treachery
 1 Sulfur Falls
 1 Izzet Charm
+1 Jace, Vryn's Prodigy
 1 Aurelia, the Warleader
 1 Alesha, Who Smiles at Death
 1 Refurbish
 1 God-Pharaoh's Gift
-1 Jace, Vryn's Prodigy
 1 Reflector Mage
 1 Port Town
 2 Chart a Course
@@ -31,9 +31,9 @@
 2 Sulfur Falls
 2 Izzet Charm
 2 Agent of Treachery
-2 God-Pharaoh's Gift
 2 Alesha, Who Smiles at Death
 2 Jace, Vryn's Prodigy
+2 God-Pharaoh's Gift
 2 Aurelia, the Warleader
 2 Reflector Mage
 2 Refurbish
@@ -58,7 +58,6 @@
 2 Plains
 3 Teferi, Time Raveler
 1 Detention Sphere
-1 Syncopate
 1 Abrade
 1 Nahiri, the Harbinger
 1 Blessed Alliance
@@ -67,6 +66,7 @@
 1 Lyra Dawnbringer
 1 Dragonlord Ojutai
 1 Negate
+1 Syncopate
 1 Deafening Clarion
 1 Elspeth, Sun's Champion
 1 Mystic Monastery
@@ -77,14 +77,14 @@
 1 Oath of Jace
 1 Supreme Verdict
 2 Detention Sphere
-2 Syncopate
+2 Field of Ruin
 2 Island
 2 Abrade
 2 Deafening Clarion
 2 Narset, Parter of Veils
 2 Supreme Verdict
 2 Mystic Monastery
-2 Field of Ruin
+2 Syncopate
 2 Oath of Jace
 2 Nahiri, the Harbinger
 2 Absorb
@@ -112,8 +112,8 @@
 2 Shrapnel Blast
 3 Steel Overseer
 3 Toolcraft Exemplar
-3 Shrapnel Blast
 3 Mana Confluence
+3 Shrapnel Blast
 4 Springleaf Drum
 4 Mana Confluence
 4 Steel Overseer
