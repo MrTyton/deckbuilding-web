@@ -204,9 +204,8 @@ if __name__ == "__main__":
                 try:
                     run(title, dir, format, site, memoizer)
                 except Exception as e:
- #                   print(e)
- #                   continue
-
+                    print(e)
+                    continue
                 with open("./data/card_backup.pkl", "wb") as fp:
                     pickle.dump(memoizer, fp)
     log(f"Time for generating decklists: {str(datetime.timedelta(seconds=time()-start))}")
