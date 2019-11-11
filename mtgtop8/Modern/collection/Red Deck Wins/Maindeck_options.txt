@@ -1,10 +1,36 @@
 4 Lightning Helix
+2 Fiery Islet
 2 Skullcrack
 1 Scalding Tarn
-2 Fiery Islet
+2 Scalding Tarn
 3 Bloodstained Mire
 3 Wooded Foothills
-2 Scalding Tarn
+4 Mountain
+5 Mountain
+6 Mountain
+1 Light Up the Stage
+1 Seal of Fire
+1 Lava Dart
+2 Lava Dart
+7 Mountain
+8 Mountain
+9 Mountain
+10 Mountain
+11 Mountain
+12 Mountain
+2 Seal of Fire
+3 Fiery Islet
+3 Seal of Fire
+4 Seal of Fire
+1 Soul-Scar Mage
+2 Light Up the Stage
+2 Soul-Scar Mage
+3 Light Up the Stage
+3 Soul-Scar Mage
+3 Lava Dart
+4 Lava Dart
+4 Soul-Scar Mage
+4 Light Up the Stage
 1 Snow-Covered Mountain
 2 Snow-Covered Mountain
 1 Blood Crypt
@@ -13,6 +39,8 @@
 2 Atarka's Command
 3 Atarka's Command
 4 Atarka's Command
+13 Mountain
+14 Mountain
 1 Mana Confluence
 1 Gemstone Mine
 1 Delver of Secrets
@@ -30,38 +58,11 @@
 4 Gemstone Mine
 4 Mana Confluence
 4 Bump in the Night
-4 Mountain
-5 Mountain
-6 Mountain
 3 Skullcrack
 3 Arid Mesa
-4 Bloodstained Mire
 1 Shard Volley
-1 Light Up the Stage
-1 Seal of Fire
-1 Lava Dart
-2 Lava Dart
-7 Mountain
-8 Mountain
-9 Mountain
-10 Mountain
-11 Mountain
-12 Mountain
-13 Mountain
-14 Mountain
-2 Seal of Fire
-3 Fiery Islet
-3 Seal of Fire
-4 Seal of Fire
-1 Soul-Scar Mage
-2 Light Up the Stage
-2 Soul-Scar Mage
-3 Light Up the Stage
-3 Soul-Scar Mage
-3 Lava Dart
-4 Lava Dart
-4 Soul-Scar Mage
-4 Light Up the Stage
+4 Fiery Islet
+4 Bloodstained Mire
 15 Mountain
 3 Snow-Covered Mountain
 3 Scalding Tarn
@@ -70,7 +71,6 @@
 2 Shard Volley
 3 Vexing Devil
 3 Shard Volley
-4 Fiery Islet
 4 Vexing Devil
 4 Skullcrack
 1 Copperline Gorge
@@ -108,20 +108,20 @@
 1 Castle Embereth
 1 Ramunap Ruins
 1 Torbran, Thane of Red Fell
+1 Harsh Mentor
 1 Magus of the Moon
 1 Bonecrusher Giant
 1 Goblin Rabblemaster
-1 Harsh Mentor
 1 Abrade
 1 Legion Warboss
 2 Simian Spirit Guide
 2 Gemstone Caverns
+2 Castle Embereth
 2 Bonecrusher Giant
 2 Ramunap Ruins
-2 Castle Embereth
 2 Torbran, Thane of Red Fell
-2 Magus of the Moon
 2 Harsh Mentor
+2 Magus of the Moon
 2 Goblin Rabblemaster
 2 Abrade
 2 Legion Warboss

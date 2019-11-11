@@ -19,8 +19,8 @@
 2 Hazoret the Fervent
 3 Bomat Courier
 4 Bomat Courier
-1 Crash Through
 1 Bedlam Reveler
+1 Crash Through
 2 Bedlam Reveler
 2 Crash Through
 3 Bedlam Reveler
@@ -65,18 +65,40 @@
 1 Experimental Frenzy
 2 Experimental Frenzy
 1 Slaying Fire
-1 Robber of the Rich
 1 Zurgo Bellstriker
+1 Robber of the Rich
 1 Ash Zealot
-2 Ash Zealot
 2 Slaying Fire
+2 Ash Zealot
 2 Robber of the Rich
 2 Zurgo Bellstriker
+3 Slaying Fire
 3 Ash Zealot
 3 Robber of the Rich
-3 Slaying Fire
 4 Robber of the Rich
 4 Ash Zealot
+1 Wily Goblin
+1 Magma Spray
+1 Glorybringer
+1 Purphoros, God of the Forge
+1 Frostburn Weird
+1 Thunderbreak Regent
+1 Sarkhan, the Dragonspeaker
+1 Abrade
+2 Wily Goblin
+2 Magma Spray
+2 Sarkhan, the Dragonspeaker
+2 Abrade
+2 Frostburn Weird
+2 Thunderbreak Regent
+2 Glorybringer
+3 Frostburn Weird
+3 Wily Goblin
+3 Glorybringer
+4 Mizzium Mortars
+4 Frostburn Weird
+4 Glorybringer
+4 Wily Goblin
 1 Earthshaker Khenra
 1 Firedrinker Satyr
 2 Firedrinker Satyr
@@ -110,8 +132,8 @@
 3 Smuggler's Copter
 3 Goblin Warchief
 3 Goblin Piledriver
-3 Goblin Ringleader
 3 Goblin Rabblemaster
+3 Goblin Ringleader
 4 Mutavault
 4 Skirk Prospector
 4 Goblin Piledriver
@@ -119,28 +141,6 @@
 4 Smuggler's Copter
 4 Goblin Rabblemaster
 4 Goblin Warchief
-1 Wily Goblin
-1 Magma Spray
-1 Glorybringer
-1 Purphoros, God of the Forge
-1 Frostburn Weird
-1 Thunderbreak Regent
-1 Sarkhan, the Dragonspeaker
-1 Abrade
-2 Wily Goblin
-2 Magma Spray
-2 Sarkhan, the Dragonspeaker
-2 Abrade
-2 Frostburn Weird
-2 Thunderbreak Regent
-2 Glorybringer
-3 Frostburn Weird
-3 Wily Goblin
-3 Glorybringer
-4 Mizzium Mortars
-4 Glorybringer
-4 Wily Goblin
-4 Frostburn Weird
 1 Dragon Fodder
 2 Dragon Fodder
 2 Stoke the Flames

@@ -32,34 +32,34 @@
 2 Blossoming Defense
 3 Blossoming Defense
 1 Voltaic Brawler
+1 Skewer the Critics
 1 Abbot of Keral Keep
+1 Stoke the Flames
 1 Foundry Street Denizen
 1 Dragon Fodder
-1 Lightning Strike
-1 Stoke the Flames
 1 Eidolon of the Great Revel
+1 Lightning Strike
 1 Light Up the Stage
 1 Hordeling Outburst
-1 Skewer the Critics
 1 Monastery Swiftspear
+2 Skewer the Critics
+2 Stoke the Flames
 2 Abbot of Keral Keep
 2 Foundry Street Denizen
 2 Dragon Fodder
-2 Hordeling Outburst
-2 Stoke the Flames
-2 Monastery Swiftspear
 2 Eidolon of the Great Revel
+2 Hordeling Outburst
+2 Monastery Swiftspear
 2 Lightning Strike
-2 Skewer the Critics
+3 Stoke the Flames
 3 Dragon Fodder
 3 Eidolon of the Great Revel
 3 Monastery Swiftspear
-3 Stoke the Flames
 3 Lightning Strike
 4 Dragon Fodder
+4 Stoke the Flames
 4 Eidolon of the Great Revel
 4 Lightning Strike
-4 Stoke the Flames
 4 Monastery Swiftspear
 7 Mountain
 8 Mountain
@@ -106,11 +106,23 @@
 4 Growth-Chamber Guardian
 4 Oath of Nissa
 4 Chandra, Torch of Defiance
+1 Vivien Reid
+1 Dragonlord Atarka
+1 Paradise Druid
+1 Temple of Abandon
+2 Paradise Druid
+2 Dragonlord Atarka
+2 Temple of Abandon
+3 Dragonlord Atarka
+3 Paradise Druid
+4 Once Upon a Time
+4 Paradise Druid
+4 Dragonlord Atarka
 1 Temur Battle Rage
 1 Maximize Velocity
+1 Aether Hub
 1 Attune with Aether
 1 Harnessed Lightning
-1 Aether Hub
 1 Collision / Colossus
 1 Become Immense
 1 Fling
@@ -118,10 +130,10 @@
 1 Electrostatic Pummeler
 1 Bristling Hydra
 2 Temur Battle Rage
-2 Attune with Aether
-2 Collision / Colossus
-2 Harnessed Lightning
 2 Aether Hub
+2 Collision / Colossus
+2 Attune with Aether
+2 Harnessed Lightning
 2 Become Immense
 2 Longtusk Cub
 2 Voltaic Brawler
@@ -129,9 +141,9 @@
 2 Bristling Hydra
 2 Maximize Velocity
 3 Collision / Colossus
+3 Aether Hub
 3 Attune with Aether
 3 Harnessed Lightning
-3 Aether Hub
 3 Bristling Hydra
 3 Electrostatic Pummeler
 3 Temur Battle Rage
@@ -147,6 +159,21 @@
 4 Electrostatic Pummeler
 4 Longtusk Cub
 4 Bristling Hydra
+1 Legion Warboss
+1 Questing Beast
+1 Lovestruck Beast
+1 Hazoret the Fervent
+2 Legion Warboss
+2 Hazoret the Fervent
+2 Questing Beast
+2 Lovestruck Beast
+3 Embercleave
+3 Legion Warboss
+3 Lovestruck Beast
+3 Questing Beast
+4 Legion Warboss
+4 Lovestruck Beast
+8 Forest
 1 Experiment One
 1 Pelt Collector
 1 Burning-Tree Emissary
@@ -166,30 +193,3 @@
 4 Burning-Tree Emissary
 4 Zhur-Taa Goblin
 4 Experiment One
-1 Legion Warboss
-1 Questing Beast
-1 Lovestruck Beast
-1 Hazoret the Fervent
-2 Legion Warboss
-2 Hazoret the Fervent
-2 Questing Beast
-2 Lovestruck Beast
-3 Embercleave
-3 Legion Warboss
-3 Lovestruck Beast
-3 Questing Beast
-4 Legion Warboss
-4 Lovestruck Beast
-8 Forest
-1 Vivien Reid
-1 Dragonlord Atarka
-1 Temple of Abandon
-1 Paradise Druid
-2 Dragonlord Atarka
-2 Paradise Druid
-2 Temple of Abandon
-3 Dragonlord Atarka
-3 Paradise Druid
-4 Once Upon a Time
-4 Dragonlord Atarka
-4 Paradise Druid

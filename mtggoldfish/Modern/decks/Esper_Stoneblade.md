@@ -83,7 +83,7 @@
 |                    3|[Jace, the Mind Sculptor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442051) |                     |                                                                                                   |
 |                    3|[Isolated Chapel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443129)         |                     |                                                                                                   |
 |                    3|[Field of Ruin](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435415)           |                     |                                                                                                   |
-|                    4|[Isolated Chapel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443129)         |                     |                                                                                                   |
 |                    4|[Force of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464001)       |                     |                                                                                                   |
+|                    4|[Isolated Chapel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443129)         |                     |                                                                                                   |
 |                    4|[Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)            |                     |                                                                                                   |
 

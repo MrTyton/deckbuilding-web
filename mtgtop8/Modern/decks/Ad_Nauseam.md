@@ -58,9 +58,9 @@
 |                     |                                                                                              |                    2|[Stony Silence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=247425)          |
 |                     |                                                                                              |                    3|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)          |
 |                     |                                                                                              |                    1|[Ashiok, Dream Render](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461155)   |
+|                     |                                                                                              |                    1|[Fatal Push](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423724)             |
 |                     |                                                                                              |                    1|[Dispel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401858)                 |
 |                     |                                                                                              |                    1|[Disenchant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=847)                |
-|                     |                                                                                              |                    1|[Fatal Push](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423724)             |
 |                     |                                                                                              |                    2|[Pact of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442057)       |
 |                     |                                                                                              |                    3|[Pact of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442057)       |
 

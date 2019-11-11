@@ -84,8 +84,8 @@
 |                    2|[All That Glitters](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472964)      |                     |                                                                                                    |
 |                    2|[Suppression Field](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=83617)       |                     |                                                                                                    |
 |                    3|[Gryff's Boon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409758)           |                     |                                                                                                    |
-|                    3|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)                 |                     |                                                                                                    |
 |                    3|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)                 |                     |                                                                                                    |
+|                    3|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)                 |                     |                                                                                                    |
 |                    4|[Gryff's Boon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409758)           |                     |                                                                                                    |
 |                    4|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)                 |                     |                                                                                                    |
 

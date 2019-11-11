@@ -1,8 +1,8 @@
+1 Boros Charm
 2 Boros Charm
 1 Kird Ape
 2 Kird Ape
 2 Hexdrinker
-1 Sunbaked Canyon
 1 Qasali Pridemage
 1 Voice of Resurgence
 2 Qasali Pridemage
@@ -11,6 +11,8 @@
 1 Bloodbraid Elf
 2 Bloodbraid Elf
 3 Bloodbraid Elf
+1 Noble Hierarch
+2 Noble Hierarch
 1 Kessig Wolf Run
 1 Knight of the Reliquary
 2 Knight of the Reliquary
@@ -20,8 +22,6 @@
 1 Gruul Spellbreaker
 2 Forest
 2 Scavenging Ooze
-1 Noble Hierarch
-2 Noble Hierarch
 3 Noble Hierarch
 4 Noble Hierarch
 1 Knight of Autumn
@@ -36,6 +36,9 @@
 4 Hidden Herbalists
 1 Lightning Helix
 2 Lightning Helix
+1 Monastery Swiftspear
+2 Monastery Swiftspear
+3 Monastery Swiftspear
 3 Kird Ape
 4 Kird Ape
 1 Gideon Blackblade
@@ -44,9 +47,6 @@
 1 Snow-Covered Mountain
 1 Snow-Covered Forest
 2 Gruul Spellbreaker
-1 Monastery Swiftspear
-2 Monastery Swiftspear
-3 Monastery Swiftspear
 4 Monastery Swiftspear
 1 Become Immense
 1 Mutagenic Growth
@@ -81,6 +81,11 @@
 1 Copperline Gorge
 2 Copperline Gorge
 1 Domri, Anarch of Bolas
+1 Kytheon, Hero of Akros
+2 Kytheon, Hero of Akros
+1 Thalia, Guardian of Thraben
+2 Thalia, Guardian of Thraben
+3 Stomping Ground
 1 Elvish Reclaimer
 2 Elvish Reclaimer
 3 Simian Spirit Guide
@@ -95,13 +100,10 @@
 2 Wrenn and Six
 3 Wrenn and Six
 1 Ghost Quarter
+1 Seasoned Pyromancer
 1 Ajani, the Greathearted
 1 Tireless Tracker
 2 Tireless Tracker
-1 Kytheon, Hero of Akros
-2 Kytheon, Hero of Akros
-1 Thalia, Guardian of Thraben
-2 Thalia, Guardian of Thraben
 1 Scalding Tarn
 2 Bloodstained Mire
 3 Sunbaked Canyon
@@ -124,7 +126,6 @@
 4 Birds of Paradise
 3 Become Immense
 3 Sacred Foundry
-3 Stomping Ground
 4 Mutagenic Growth
 1 Light Up the Stage
 1 Rift Bolt
@@ -144,12 +145,29 @@
 3 Voice of Resurgence
 3 Gruul Spellbreaker
 4 Gruul Spellbreaker
+1 Lightning Mauler
+1 Champion of the Parish
+1 Voltaic Brawler
+1 Cavern of Souls
+1 Giver of Runes
+1 Mayor of Avabruck
+2 Mayor of Avabruck
+2 Lightning Mauler
+2 Voltaic Brawler
+2 Champion of the Parish
+2 Giver of Runes
+2 Cavern of Souls
+3 Giver of Runes
+3 Champion of the Parish
+3 Mayor of Avabruck
+3 Kytheon, Hero of Akros
+4 Mayor of Avabruck
+4 Champion of the Parish
 1 Tranquil Thicket
 1 Forgotten Cave
 1 Blast Zone
 1 Castle Ardenvale
 1 Embercleave
-1 Seasoned Pyromancer
 1 Huntmaster of the Fells
 1 Karn, the Great Creator
 2 Ghost Quarter
@@ -161,8 +179,8 @@
 4 Simian Spirit Guide
 4 Wrenn and Six
 4 Knight of the Reliquary
-4 Karn, the Great Creator
 4 Stoneforge Mystic
+4 Karn, the Great Creator
 1 Hallowed Fountain
 1 Blood Crypt
 1 Steam Vents

@@ -1,10 +1,60 @@
+1 Detention Sphere
+1 Syncopate
+1 Abrade
+1 Nahiri, the Harbinger
+1 Blessed Alliance
+1 Narset, Parter of Veils
+1 Teferi, Hero of Dominaria
+1 Lyra Dawnbringer
+1 Dragonlord Ojutai
+1 Negate
+1 Deafening Clarion
+1 Elspeth, Sun's Champion
+1 Mystic Monastery
+1 Justice Strike
+1 Keranos, God of Storms
+1 Field of Ruin
+1 Absorb
+1 Oath of Jace
+1 Supreme Verdict
+2 Detention Sphere
+2 Syncopate
+2 Island
+2 Abrade
+2 Deafening Clarion
+2 Narset, Parter of Veils
+2 Supreme Verdict
+2 Mystic Monastery
+2 Field of Ruin
+2 Oath of Jace
+2 Nahiri, the Harbinger
+2 Absorb
+3 Abrade
+3 Island
+3 Field of Ruin
+3 Nahiri, the Harbinger
+3 Supreme Verdict
+3 Mystic Monastery
+3 Syncopate
+3 Narset, Parter of Veils
+4 Field of Ruin
+4 Nahiri, the Harbinger
+4 Mystic Monastery
+1 Boros Charm
+1 Spell Pierce
+1 Stonecoil Serpent
+1 Battlefield Forge
+1 Skilled Animator
+2 Boros Charm
+2 Spell Pierce
+2 Stonecoil Serpent
+2 Skilled Animator
+2 Battlefield Forge
+3 Boros Charm
+3 Stonecoil Serpent
+4 Boros Charm
+4 Stonecoil Serpent
 4 Aether Hub
-1 Mountain
-1 Glacial Fortress
-1 Steam Vents
-2 Glacial Fortress
-2 Steam Vents
-3 Hallowed Fountain
 1 Inspiring Vantage
 1 Thraben Inspector
 2 Inspiring Vantage
@@ -12,18 +62,16 @@
 3 Inspiring Vantage
 4 Hallowed Fountain
 4 Inspiring Vantage
-3 Steam Vents
-4 Steam Vents
 1 Chart a Course
 1 Champion of Wits
 1 Agent of Treachery
 1 Sulfur Falls
 1 Izzet Charm
-1 Jace, Vryn's Prodigy
 1 Aurelia, the Warleader
 1 Alesha, Who Smiles at Death
 1 Refurbish
 1 God-Pharaoh's Gift
+1 Jace, Vryn's Prodigy
 1 Reflector Mage
 1 Port Town
 2 Chart a Course
@@ -31,9 +79,9 @@
 2 Sulfur Falls
 2 Izzet Charm
 2 Agent of Treachery
+2 God-Pharaoh's Gift
 2 Alesha, Who Smiles at Death
 2 Jace, Vryn's Prodigy
-2 God-Pharaoh's Gift
 2 Aurelia, the Warleader
 2 Reflector Mage
 2 Refurbish
@@ -51,54 +99,6 @@
 4 Champion of Wits
 4 God-Pharaoh's Gift
 4 Refurbish
-1 Teferi, Time Raveler
-1 Sacred Foundry
-2 Teferi, Time Raveler
-2 Sacred Foundry
-2 Plains
-3 Teferi, Time Raveler
-1 Detention Sphere
-1 Abrade
-1 Nahiri, the Harbinger
-1 Blessed Alliance
-1 Narset, Parter of Veils
-1 Teferi, Hero of Dominaria
-1 Lyra Dawnbringer
-1 Dragonlord Ojutai
-1 Negate
-1 Syncopate
-1 Deafening Clarion
-1 Elspeth, Sun's Champion
-1 Mystic Monastery
-1 Justice Strike
-1 Keranos, God of Storms
-1 Field of Ruin
-1 Absorb
-1 Oath of Jace
-1 Supreme Verdict
-2 Detention Sphere
-2 Field of Ruin
-2 Island
-2 Abrade
-2 Deafening Clarion
-2 Narset, Parter of Veils
-2 Supreme Verdict
-2 Mystic Monastery
-2 Syncopate
-2 Oath of Jace
-2 Nahiri, the Harbinger
-2 Absorb
-3 Abrade
-3 Island
-3 Nahiri, the Harbinger
-3 Supreme Verdict
-3 Field of Ruin
-3 Mystic Monastery
-3 Syncopate
-3 Narset, Parter of Veils
-4 Nahiri, the Harbinger
-4 Mystic Monastery
-4 Field of Ruin
 1 Pia Nalaar
 1 Experimental Frenzy
 1 Mana Confluence
@@ -112,8 +112,8 @@
 2 Shrapnel Blast
 3 Steel Overseer
 3 Toolcraft Exemplar
-3 Mana Confluence
 3 Shrapnel Blast
+3 Mana Confluence
 4 Springleaf Drum
 4 Mana Confluence
 4 Steel Overseer

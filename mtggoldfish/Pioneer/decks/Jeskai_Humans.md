@@ -1,7 +1,7 @@
 # Jeskai Humans
 
 #### [Export MTGO List](../collection/Jeskai%20Humans/Jeskai%20Humans.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=2%09Charming%20Prince%0A2%09Giant%20Killer%0A4%09Hallowed%20Fountain%0A4%09Inspiring%20Vantage%0A2%09Jeskai%20Charm%0A2%09Kari%20Zev,%20Skyship%20Raider%0A2%09Kytheon,%20Hero%20of%20Akros%0A4%09Mantis%20Rider%0A2%09Plains%0A4%09Reflector%20Mage%0A2%09Robber%20of%20the%20Rich%0A4%09Sacred%20Foundry%0A4%09Smuggler's%20Copter%0A4%09Spirebluff%20Canal%0A2%09Tajic,%20Legion's%20Edge%0A4%09Thalia's%20Lieutenant%0A4%09Thraben%20Inspector%0A4%09Unclaimed%20Territory%0A4%09Wild%20Slash&deckside=3%09Abrade%0A2%09Boros%20Charm%0A2%09Deputy%20of%20Detention%0A2%09Gideon,%20Ally%20of%20Zendikar%0A3%09Mystical%20Dispute%0A3%09Rest%20in%20Peace)
+#### [Print on decklist.org](http://decklist.org/?deckmain=2%09Charming%20Prince%0A2%09Giant%20Killer%0A4%09Hallowed%20Fountain%0A4%09Inspiring%20Vantage%0A2%09Jeskai%20Charm%0A2%09Kari%20Zev,%20Skyship%20Raider%0A2%09Kytheon,%20Hero%20of%20Akros%0A4%09Mantis%20Rider%0A2%09Plains%0A4%09Reflector%20Mage%0A2%09Robber%20of%20the%20Rich%0A4%09Sacred%20Foundry%0A4%09Smuggler's%20Copter%0A4%09Spirebluff%20Canal%0A2%09Tajic,%20Legion's%20Edge%0A4%09Thalia's%20Lieutenant%0A4%09Thraben%20Inspector%0A4%09Unclaimed%20Territory%0A4%09Wild%20Slash&deckside=3%09Abrade%0A2%09Boros%20Charm%0A3%09Deputy%20of%20Detention%0A2%09Gideon,%20Ally%20of%20Zendikar%0A3%09Mystical%20Dispute%0A2%09Rest%20in%20Peace)
 # Maindeck
 
 |                                         Artifact (4)                                         |                                            Creature (28)                                            |                                       Instant (6)                                       |                                           Land (22)                                            |
@@ -20,19 +20,19 @@
 
 # Sideboard
 
-|                                          Creature (2)                                          |                                     Enchantment (3)                                      |                                         Instant (8)                                         |                                          Planeswalker (2)                                           |
+|                                          Creature (3)                                          |                                     Enchantment (2)                                      |                                         Instant (8)                                         |                                          Planeswalker (2)                                           |
 |------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
-|2 [Deputy of Detention](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457309)|3 [Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)|3 [Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)          |2 [Gideon, Ally of Zendikar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401897)|
+|3 [Deputy of Detention](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457309)|2 [Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)|3 [Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)          |2 [Gideon, Ally of Zendikar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401897)|
 |                                                                                                |                                                                                          |2 [Boros Charm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442188)     |                                                                                                     |
 |                                                                                                |                                                                                          |3 [Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)|                                                                                                     |
 
 
 # Other Options
 
-|*n*<sup>th</sup> copy|                                    Maindeck Card                                     |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
-|--------------------:|--------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
-|                    1|[Boros Elite](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=455755)|                    3|[Deputy of Detention](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457309)|
-|                    1|[Boros Charm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442188)|                     |                                                                                              |
-|                    2|[Boros Charm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442188)|                     |                                                                                              |
-|                    2|[Boros Elite](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=455755)|                     |                                                                                              |
+|*n*<sup>th</sup> copy|                                    Maindeck Card                                     |*n*<sup>th</sup> copy|                                     Sideboard Card                                     |
+|--------------------:|--------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------|
+|                    1|[Boros Charm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442188)|                    3|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)|
+|                    1|[Boros Elite](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=455755)|                     |                                                                                        |
+|                    2|[Boros Charm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442188)|                     |                                                                                        |
+|                    2|[Boros Elite](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=455755)|                     |                                                                                        |
 
