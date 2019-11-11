@@ -25,6 +25,19 @@
 |[Esper Dance](./mtggoldfish/Standard/decks/Esper_Dance.md)          |[Grixis Fires Superfriends](./mtggoldfish/Standard/decks/Grixis_Fires_Superfriends.md)|[Mardu Kaalia](./mtggoldfish/Standard/decks/Mardu_Kaalia.md)                          |[Rakdos Aristocrats](./mtggoldfish/Standard/decks/Rakdos_Aristocrats.md)  |                                                                            |
 
 
+# Pioneer
+
+|                                       A                                       |                                   B                                   |                                        C                                        |                                         D                                         |                      E                      |
+|-------------------------------------------------------------------------------|-----------------------------------------------------------------------|---------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|---------------------------------------------|
+|[Abzan Aristocrats](./mtggoldfish/Pioneer/decks/Abzan_Aristocrats.md)          |[Boros Burn](./mtggoldfish/Pioneer/decks/Boros_Burn.md)                |[Izzet Control](./mtggoldfish/Pioneer/decks/Izzet_Control.md)                    |[Rakdos Aggro](./mtggoldfish/Pioneer/decks/Rakdos_Aggro.md)                        |[WR](./mtggoldfish/Pioneer/decks/WR.md)      |
+|[Abzan](./mtggoldfish/Pioneer/decks/Abzan.md)                                  |[Dimir Control](./mtggoldfish/Pioneer/decks/Dimir_Control.md)          |[Jeskai Humans](./mtggoldfish/Pioneer/decks/Jeskai_Humans.md)                    |[Selesnya Midrange](./mtggoldfish/Pioneer/decks/Selesnya_Midrange.md)              |[WUBRG](./mtggoldfish/Pioneer/decks/WUBRG.md)|
+|[BG](./mtggoldfish/Pioneer/decks/BG.md)                                        |[Four-Colors Humans](./mtggoldfish/Pioneer/decks/Four-Colors_Humans.md)|[Jund](./mtggoldfish/Pioneer/decks/Jund.md)                                      |[Simic Eldrazi](./mtggoldfish/Pioneer/decks/Simic_Eldrazi.md)                      |[WUBR](./mtggoldfish/Pioneer/decks/WUBR.md)  |
+|[Bant Biomancer Combo](./mtggoldfish/Pioneer/decks/Bant_Biomancer_Combo.md)    |[Green Field Ramp](./mtggoldfish/Pioneer/decks/Green_Field_Ramp.md)    |[Mardu Vehicles](./mtggoldfish/Pioneer/decks/Mardu_Vehicles.md)                  |[Simic Midrange](./mtggoldfish/Pioneer/decks/Simic_Midrange.md)                    |[WUR](./mtggoldfish/Pioneer/decks/WUR.md)    |
+|[Bant Field of the Dead](./mtggoldfish/Pioneer/decks/Bant_Field_of_the_Dead.md)|[Grixis Midrange](./mtggoldfish/Pioneer/decks/Grixis_Midrange.md)      |[Mono-Red Creature Aggro](./mtggoldfish/Pioneer/decks/Mono-Red_Creature_Aggro.md)|[Sultai Energy](./mtggoldfish/Pioneer/decks/Sultai_Energy.md)                      |                                             |
+|[Blue-White Control](./mtggoldfish/Pioneer/decks/Blue-White_Control.md)        |[Grixis Pyromancer](./mtggoldfish/Pioneer/decks/Grixis_Pyromancer.md)  |[Prowess Burn](./mtggoldfish/Pioneer/decks/Prowess_Burn.md)                      |[Temur(-White) Ascendancy](./mtggoldfish/Pioneer/decks/Temur(-White)_Ascendancy.md)|                                             |
+|[Blue-White Humans](./mtggoldfish/Pioneer/decks/Blue-White_Humans.md)          |[Grixis Spells](./mtggoldfish/Pioneer/decks/Grixis_Spells.md)          |[R](./mtggoldfish/Pioneer/decks/R.md)                                            |[WG](./mtggoldfish/Pioneer/decks/WG.md)                                            |                                             |
+
+
 # Modern
 
 |                                         A                                          |                                          B                                           |                                       C                                        |                                     D                                      |                               E                                |
@@ -80,4 +93,4 @@
 
 
 
-#### Last Updated at 06:44PM on November 10, 2019
+#### Last Updated at 07:17PM on November 10, 2019

@@ -42,7 +42,7 @@ def create(format, site):
 
 def output():
     everything = "# Stock Decklists\n#### Based on mtggoldfish\n\n"
-    for format in ["Standard", "Modern", "Legacy"]:
+    for format in ["Standard", "Pioneer", "Modern", "Legacy"]:
         everything += "\n" + create(format, 'mtggoldfish')
 
     everything += f"\n\n#### Last Updated at {datetime.datetime.now().strftime('%I:%M%p on %B %d, %Y')}"
