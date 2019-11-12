@@ -1,4 +1,5 @@
 1 Plains
+1 Primeval Titan
 1 Forest
 2 Primeval Titan
 2 Search for Tomorrow
@@ -7,28 +8,27 @@
 4 Path to Exile
 2 Oko, Thief of Crowns
 2 Misty Rainforest
-3 Snow-Covered Forest
+1 Lightning Bolt
+2 Lightning Bolt
+3 Lightning Bolt
 2 Wooded Foothills
 1 On Thin Ice
 2 On Thin Ice
 3 On Thin Ice
-1 Lightning Bolt
-2 Lightning Bolt
 3 Misty Rainforest
-3 Lightning Bolt
 1 Force of Negation
+2 Force of Negation
+3 Snow-Covered Island
 1 Spell Pierce
 1 Batterskull
 1 Sword of Fire and Ice
 1 Stoneforge Mystic
 2 Spell Pierce
 2 Jace, the Mind Sculptor
-2 Force of Negation
 2 Stoneforge Mystic
 2 Flooded Strand
 3 Flooded Strand
 3 Stoneforge Mystic
-3 Snow-Covered Island
 4 Flooded Strand
 4 Stoneforge Mystic
 2 Wrenn and Six
@@ -69,3 +69,13 @@
 3 Spell Pierce
 4 Spell Pierce
 4 On Thin Ice
+1 Remand
+1 Lightning Helix
+1 Snapcaster Mage
+2 Remand
+2 Snapcaster Mage
+2 Lightning Helix
+3 Remand
+3 Spell Queller
+4 Spell Queller
+4 Lightning Bolt

@@ -28,8 +28,8 @@
 |                    2|[Ramunap Ruins](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430870)|                    1|[Pithing Needle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129526)|
 |                    3|[Ramunap Ruins](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430870)|                    2|[Pithing Needle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129526)|
 |                    4|[Ramunap Ruins](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430870)|                    2|[Searing Blood](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=378483) |
+|                     |                                                                                        |                    3|[Searing Blood](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=378483) |
 |                     |                                                                                        |                    3|[Pithing Needle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129526)|
 |                     |                                                                                        |                    4|[Searing Blood](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=378483) |
 |                     |                                                                                        |                    4|[Roast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394667)         |
-|                     |                                                                                        |                    3|[Searing Blood](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=378483) |
 

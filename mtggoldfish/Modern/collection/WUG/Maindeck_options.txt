@@ -1,29 +1,57 @@
-1 Forest
-1 Shalai, Voice of Plenty
-1 Vizier of Remedies
-1 Devoted Druid
-1 Walking Ballista
-1 Wooded Foothills
-1 Finale of Devastation
-2 Devoted Druid
-2 Wooded Foothills
-2 Finale of Devastation
-2 Vizier of Remedies
-3 Devoted Druid
-3 Finale of Devastation
-3 Vizier of Remedies
-4 Birds of Paradise
-4 Vizier of Remedies
-4 Devoted Druid
-4 Finale of Devastation
-1 Batterskull
-1 Stoneforge Mystic
-2 Stoneforge Mystic
-3 Stoneforge Mystic
-1 Eladamri's Call
-2 Eladamri's Call
-3 Eladamri's Call
+1 Oko, Thief of Crowns
+2 Oko, Thief of Crowns
+3 Oko, Thief of Crowns
+1 Phyrexian Revoker
+2 Flooded Strand
+1 Seachrome Coast
+1 Botanical Sanctum
+2 Seachrome Coast
+4 Eladamri's Call
+4 Oko, Thief of Crowns
+1 Lightning Greaves
+1 Fiend Hunter
+3 Horizon Canopy
+4 Horizon Canopy
+1 Birds of Paradise
+1 Misty Rainforest
+2 Misty Rainforest
+3 Misty Rainforest
+2 Birds of Paradise
+3 Birds of Paradise
+1 Snow-Covered Island
 2 Snow-Covered Plains
+1 Path to Exile
+2 Path to Exile
+1 Scavenging Ooze
+1 Collected Company
+2 Collected Company
+3 Collected Company
+1 Spell Queller
+1 Teferi, Time Raveler
+2 Spell Queller
+3 Spell Queller
+1 Prismatic Vista
+2 Prismatic Vista
+2 Snow-Covered Island
+2 Eternal Witness
+1 Ice-Fang Coatl
+2 Ice-Fang Coatl
+3 Ice-Fang Coatl
+3 Snow-Covered Forest
+4 Ice-Fang Coatl
+4 Spell Queller
+3 Path to Exile
+1 Force of Negation
+2 Force of Negation
+1 Reflector Mage
+1 Ephemerate
+1 Knight of Autumn
+1 Soulherder
+2 Soulherder
+2 Ephemerate
+3 Ephemerate
+4 Collected Company
+4 Birds of Paradise
 3 Prismatic Vista
 4 Prismatic Vista
 1 Waterlogged Grove
@@ -32,29 +60,27 @@
 3 Force of Negation
 4 Flooded Strand
 1 Sword of Feast and Famine
-1 Once Upon a Time
+1 Collector Ouphe
 1 Watcher for Tomorrow
 1 Renegade Rallier
 2 Watcher for Tomorrow
 2 Knight of Autumn
+3 Seachrome Coast
 1 Blast Zone
 1 Brazen Borrower
 1 Ghost Quarter
 1 Meddling Mage
-1 Deputy of Detention
 1 Teferi, Hero of Dominaria
 1 Gavony Township
+1 Deputy of Detention
 1 Knight of the Reliquary
+2 Scavenging Ooze
 2 Meddling Mage
 2 Deputy of Detention
 2 Knight of the Reliquary
-2 Scavenging Ooze
 3 Knight of the Reliquary
 4 Knight of the Reliquary
-1 Oko, Thief of Crowns
 2 Teferi, Time Raveler
-2 Oko, Thief of Crowns
-3 Oko, Thief of Crowns
 1 Castle Vantress
 1 Field of Ruin
 1 Opt
@@ -63,14 +89,14 @@
 1 Cryptic Command
 1 Glacial Fortress
 1 Hinterland Harbor
+1 Celestial Colonnade
 1 Logic Knot
 1 Restoration Angel
 1 Mana Leak
 1 Wall of Omens
-1 Celestial Colonnade
 2 Field of Ruin
-2 Cryptic Command
 2 Snapcaster Mage
+2 Cryptic Command
 2 Celestial Colonnade
 2 Opt
 2 Restoration Angel
@@ -82,21 +108,20 @@
 3 Wall of Omens
 3 Snow-Covered Island
 3 Restoration Angel
-4 Path to Exile
 4 Opt
+4 Path to Exile
 4 Wall of Omens
 1 Karn, the Great Creator
 1 Verdant Catacombs
-1 Dryad Arbor
+1 Leyline of Abundance
 1 Sylvan Caryatid
 1 Heliod's Pilgrim
 1 Freed from the Real
-1 Leyline of Abundance
 2 Verdant Catacombs
+2 Leyline of Abundance
 2 Karn, the Great Creator
 2 Freed from the Real
 2 Sylvan Caryatid
-2 Leyline of Abundance
 3 Verdant Catacombs
 3 Karn, the Great Creator
 3 Freed from the Real
@@ -104,21 +129,15 @@
 3 Sylvan Caryatid
 4 Sylvan Caryatid
 4 Leyline of Abundance
-1 Duskwatch Recruiter
 1 Chord of Calling
+1 Duskwatch Recruiter
 2 Chord of Calling
 2 Forest
-2 Razorverge Thicket
 2 Duskwatch Recruiter
-2 Giver of Runes
-3 Giver of Runes
-3 Forest
-3 Wooded Foothills
 3 Chord of Calling
-3 Razorverge Thicket
+3 Wooded Foothills
+3 Forest
 3 Temple Garden
-4 Giver of Runes
-4 Razorverge Thicket
 4 Chord of Calling
 4 Wooded Foothills
 1 Gilded Goose
@@ -146,17 +165,16 @@
 3 Mox Opal
 3 Arcum's Astrolabe
 3 Mishra's Bauble
+3 Urza, Lord High Artificer
 3 Thopter Foundry
 3 Emry, Lurker of the Loch
-3 Urza, Lord High Artificer
 4 Gilded Goose
 4 Urza, Lord High Artificer
-4 Mox Opal
 4 Mishra's Bauble
+4 Mox Opal
 4 Arcum's Astrolabe
 1 Venser, Shaper Savant
 1 Prairie Stream
-1 Phyrexian Revoker
 1 Canopy Vista
 1 Charming Prince
 1 Lavinia of the Tenth
@@ -168,19 +186,16 @@
 2 Coiling Oracle
 3 Eternal Witness
 3 Soulherder
-3 Coiling Oracle
 3 Aether Vial
+3 Coiling Oracle
 4 Aether Vial
 4 Ephemerate
 4 Coiling Oracle
-4 Stoneforge Mystic
 1 Yavimaya Coast
 1 World Breaker
-1 Sword of Light and Shadow
 1 Island
 1 Thought-Knot Seer
 1 Emrakul, the Promised End
-1 Brushland
 1 Reality Smasher
 1 Eldrazi Skyspawner
 1 Cavern of Souls
@@ -189,25 +204,23 @@
 1 Ancient Stirrings
 1 Eldrazi Displacer
 1 Wastes
+1 Brushland
 2 Thought-Knot Seer
-2 Once Upon a Time
-2 Brushland
-2 Reality Smasher
 2 Eldrazi Temple
+2 Reality Smasher
 2 Drowner of Hope
 2 Eldrazi Displacer
+2 Brushland
 2 Ancient Stirrings
 2 Cavern of Souls
 2 Eldrazi Skyspawner
-3 Once Upon a Time
 3 Thought-Knot Seer
 3 Reality Smasher
-3 Cavern of Souls
 3 Ancient Stirrings
+3 Cavern of Souls
 3 Eldrazi Displacer
 3 Eldrazi Temple
 4 Ancient Stirrings
-4 Once Upon a Time
 4 Eldrazi Displacer
 4 Thought-Knot Seer
 4 Eldrazi Temple
@@ -219,9 +232,9 @@
 1 Weathered Wayfarer
 1 Ulamog, the Ceaseless Hunger
 1 Thalia, Heretic Cathar
-1 Thalia's Lancers
-1 Wildfield Borderpost
 1 Godsend
+1 Wildfield Borderpost
+1 Thalia's Lancers
 1 Leyline of Sanctity
 1 Knight of the White Orchid
 1 Fieldmist Borderpost
@@ -231,26 +244,26 @@
 2 Plains
 2 Fieldmist Borderpost
 2 Thalia, Heretic Cathar
-2 Leyline of Sanctity
 2 Thalia's Lancers
+2 Leyline of Sanctity
 2 Knight of the White Orchid
-2 Weathered Wayfarer
 2 Auriok Champion
 2 Wildfield Borderpost
+2 Weathered Wayfarer
 3 Nykthos, Shrine to Nyx
 3 Leyline of Sanctity
-3 Thalia's Lancers
 3 Auriok Champion
 3 Plains
-3 Fieldmist Borderpost
 3 Wildfield Borderpost
+3 Thalia's Lancers
 3 Weathered Wayfarer
+3 Fieldmist Borderpost
 3 Knight of the White Orchid
 4 Leyline of Sanctity
 4 Nykthos, Shrine to Nyx
 4 Fieldmist Borderpost
-4 Weathered Wayfarer
 4 Thalia's Lancers
+4 Weathered Wayfarer
 4 Wildfield Borderpost
 4 Plains
 5 Plains

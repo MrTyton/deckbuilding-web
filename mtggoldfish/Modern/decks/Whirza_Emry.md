@@ -44,8 +44,8 @@
 |                    1|[Polluted Delta](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405104)       |                    2|[Deputy of Detention](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457309) |
 |                    2|[Polluted Delta](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405104)       |                    2|[Battle at the Bridge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423720)|
 |                    2|[Jeskai Ascendancy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386571)    |                    3|[Meddling Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=179547)       |
-|                    2|[Witching Well](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473036)        |                    3|[Battle at the Bridge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423720)|
-|                    3|[Witching Well](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473036)        |                     |                                                                                               |
+|                    3|[Witching Well](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473036)        |                    3|[Battle at the Bridge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423720)|
 |                    4|[Witching Well](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473036)        |                     |                                                                                               |
 |                    6|[Snow-Covered Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121130)  |                     |                                                                                               |
+|                    2|[Witching Well](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473036)        |                     |                                                                                               |
 

@@ -21,3 +21,18 @@
 |                                                                                        |4 [Redcap Melee](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473097)  |1 [Temple of Abandon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373711)|
 |                                                                                        |4 [Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)|                                                                                              |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                      Maindeck Card                                      |*n*<sup>th</sup> copy|                                      Sideboard Card                                       |
+|--------------------:|-----------------------------------------------------------------------------------------|--------------------:|-------------------------------------------------------------------------------------------|
+|                    1|[Game Trail](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=410044)    |                    1|[Chandra's Defeat](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430775)|
+|                    1|[Dragon Mantle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373634) |                    1|[Alpine Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447264)     |
+|                    2|[Game Trail](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=410044)    |                    1|[Fry](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466894)             |
+|                    3|[Rimrock Knight](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473099)|                    2|[Chandra's Defeat](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430775)|
+|                    3|[Reckless Rage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439767) |                    2|[Alpine Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447264)     |
+|                    4|[Reckless Rage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439767) |                    3|[Alpine Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447264)     |
+|                    7|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)      |                    3|[Chandra's Defeat](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430775)|
+|                    8|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)      |                    4|[Cindervines](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457305)     |
+|                     |                                                                                         |                    4|[Chandra's Defeat](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430775)|
+

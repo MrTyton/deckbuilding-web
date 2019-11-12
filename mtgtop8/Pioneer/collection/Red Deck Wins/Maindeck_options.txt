@@ -1,46 +1,43 @@
 4 Wizard's Lightning
-3 Searing Blood
+1 Skewer the Critics
 1 Shock
 2 Shock
-4 Searing Blood
-1 Boros Charm
-1 Sacred Foundry
-1 Battlefield Forge
-1 Inspiring Vantage
-2 Boros Charm
-2 Sacred Foundry
-2 Battlefield Forge
-2 Inspiring Vantage
-3 Boros Charm
-3 Sacred Foundry
-3 Inspiring Vantage
-3 Battlefield Forge
-4 Sacred Foundry
-4 Boros Charm
-4 Battlefield Forge
-4 Inspiring Vantage
-1 Skewer the Critics
+3 Searing Blood
 2 Skewer the Critics
 3 Skewer the Critics
-1 Rampaging Ferocidon
-2 Rampaging Ferocidon
-15 Mountain
-1 Castle Embereth
+4 Searing Blood
+1 Sacred Foundry
+1 Inspiring Vantage
+1 Boros Charm
+2 Sacred Foundry
+2 Inspiring Vantage
+2 Boros Charm
+3 Sacred Foundry
+3 Inspiring Vantage
+3 Boros Charm
+4 Inspiring Vantage
+4 Boros Charm
+4 Sacred Foundry
+1 Battlefield Forge
+2 Battlefield Forge
+3 Battlefield Forge
+4 Battlefield Forge
 3 Shock
 4 Shock
+1 Castle Embereth
+4 Skewer the Critics
+1 Skullcrack
+15 Mountain
+1 Rampaging Ferocidon
+2 Rampaging Ferocidon
 1 Runaway Steam-Kin
 2 Runaway Steam-Kin
 3 Runaway Steam-Kin
 3 Rampaging Ferocidon
+4 Runaway Steam-Kin
 1 Goblin Chainwhirler
 2 Goblin Chainwhirler
 3 Goblin Chainwhirler
-4 Skewer the Critics
-1 Skullcrack
-1 Stoke the Flames
-2 Stoke the Flames
-3 Stoke the Flames
-4 Runaway Steam-Kin
 4 Goblin Chainwhirler
 1 Atarka's Command
 1 Stomping Ground
@@ -51,6 +48,9 @@
 3 Stomping Ground
 4 Atarka's Command
 4 Stomping Ground
+1 Stoke the Flames
+2 Stoke the Flames
+3 Stoke the Flames
 1 Reckless Bushwhacker
 1 Burning-Tree Emissary
 1 Game Trail
@@ -64,66 +64,59 @@
 1 Torbran, Thane of Red Fell
 2 Torbran, Thane of Red Fell
 3 Torbran, Thane of Red Fell
-1 Ash Zealot
-16 Mountain
 2 Skullcrack
+16 Mountain
 2 Rootbound Crag
 2 Hazoret the Fervent
-1 Become Immense
 1 Abrade
+1 Ash Zealot
+1 Become Immense
 1 Forest
 1 Viashino Pyromancer
 2 Viashino Pyromancer
-1 Earthshaker Khenra
-1 Chandra's Phoenix
-1 Exquisite Firecraft
-2 Earthshaker Khenra
-2 Chandra's Phoenix
-2 Ash Zealot
-3 Earthshaker Khenra
-3 Ash Zealot
-4 Earthshaker Khenra
-4 Ash Zealot
+1 Clifftop Retreat
+2 Clifftop Retreat
+3 Clifftop Retreat
 4 Stoke the Flames
+1 Chandra, Torch of Defiance
+2 Chandra, Torch of Defiance
 1 Stonecoil Serpent
 1 Heart of Kiran
 1 Dragonskull Summit
 1 Foreboding Ruins
 1 Blood Crypt
 1 Dreadbore
-1 Chandra, Torch of Defiance
 1 Unlicensed Disintegration
 1 Scrapheap Scrounger
+2 Scrapheap Scrounger
 2 Stonecoil Serpent
-2 Dragonskull Summit
 2 Heart of Kiran
+2 Dragonskull Summit
 2 Blood Crypt
 2 Foreboding Ruins
-2 Chandra, Torch of Defiance
 2 Unlicensed Disintegration
-2 Scrapheap Scrounger
+3 Scrapheap Scrounger
 3 Stonecoil Serpent
-3 Blood Crypt
 3 Foreboding Ruins
 3 Dragonskull Summit
-3 Scrapheap Scrounger
+3 Blood Crypt
 3 Unlicensed Disintegration
 4 Stonecoil Serpent
 4 Scrapheap Scrounger
-4 Blood Crypt
 4 Foreboding Ruins
-4 Unlicensed Disintegration
+4 Blood Crypt
 4 Dragonskull Summit
+4 Unlicensed Disintegration
 1 Crash Through
 1 Dreadhorde Arcanist
 1 Collision / Colossus
 1 Temur Battle Rage
 1 Warlord's Fury
 1 Blistercoil Weird
+2 Temur Battle Rage
 2 Crash Through
 2 Dreadhorde Arcanist
 2 Collision / Colossus
-2 Temur Battle Rage
 2 Warlord's Fury
 2 Blistercoil Weird
 3 Dreadhorde Arcanist
@@ -133,15 +126,50 @@
 4 Dreadhorde Arcanist
 4 Rootbound Crag
 4 Crash Through
-1 Slaying Fire
-2 Slaying Fire
-2 Castle Embereth
-3 Slaying Fire
-3 Castle Embereth
-4 Slaying Fire
-4 Torbran, Thane of Red Fell
-17 Mountain
+1 Robber of the Rich
+1 Legion Loyalist
+1 Hanweir Battlements
+1 Reality Smasher
+1 Hanweir Garrison
+1 Thought-Knot Seer
+1 Harnessed Lightning
+1 Aether Hub
+1 Embercleave
+1 Goblin Rabblemaster
+1 Crumbling Vestige
+2 Legion Loyalist
+2 Robber of the Rich
+2 Hanweir Battlements
+2 Reality Smasher
+2 Crumbling Vestige
+2 Hanweir Garrison
+2 Harnessed Lightning
+2 Thought-Knot Seer
+2 Abrade
+2 Embercleave
+2 Goblin Rabblemaster
+2 Aether Hub
+3 Legion Loyalist
+3 Hanweir Battlements
+3 Reality Smasher
+3 Hanweir Garrison
+3 Thought-Knot Seer
+3 Aether Hub
+3 Goblin Rabblemaster
+4 Goblin Rabblemaster
+4 Legion Loyalist
+4 Hanweir Garrison
+4 Thought-Knot Seer
+4 Aether Hub
 1 Zurgo Bellstriker
 2 Zurgo Bellstriker
 4 Reckless Bushwhacker
 4 Game Trail
+1 Slaying Fire
+2 Slaying Fire
+2 Castle Embereth
+3 Castle Embereth
+3 Slaying Fire
+4 Slaying Fire
+4 Torbran, Thane of Red Fell
+17 Mountain

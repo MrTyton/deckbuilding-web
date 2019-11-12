@@ -1,7 +1,7 @@
 # Rakdos Vehicles
 
 #### [Export MTGO List](../collection/Rakdos%20Vehicles/Rakdos%20Vehicles.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Blood%20Crypt%0A4%09Bomat%20Courier%0A4%09Dragonskull%20Summit%0A2%09Dreadbore%0A2%09Fatal%20Push%0A2%09Heart%20of%20Kiran%0A3%09Karn,%20Scion%20of%20Urza%0A8%09Mountain%0A4%09Rampaging%20Ferocidon%0A4%09Scrapheap%20Scrounger%0A4%09Smuggler's%20Copter%0A4%09Stonecoil%20Serpent%0A5%09Swamp%0A4%09Thoughtseize%0A3%09Unlicensed%20Disintegration%0A1%09Urborg,%20Tomb%20of%20Yawgmoth%0A2%09Walking%20Ballista&deckside=2%09Abrade%0A2%09Aethersphere%20Harvester%0A2%09Anger%20of%20the%20Gods%0A2%09Collective%20Brutality%0A2%09Duress%0A2%09Fry%0A2%09Kolaghan's%20Command%0A1%09Tormod's%20Crypt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Blood%20Crypt%0A4%09Bomat%20Courier%0A4%09Dragonskull%20Summit%0A2%09Dreadbore%0A2%09Fatal%20Push%0A2%09Heart%20of%20Kiran%0A3%09Karn,%20Scion%20of%20Urza%0A8%09Mountain%0A4%09Rampaging%20Ferocidon%0A4%09Scrapheap%20Scrounger%0A4%09Smuggler's%20Copter%0A4%09Stonecoil%20Serpent%0A5%09Swamp%0A4%09Thoughtseize%0A3%09Unlicensed%20Disintegration%0A1%09Urborg,%20Tomb%20of%20Yawgmoth%0A2%09Walking%20Ballista&deckside=2%09Abrade%0A2%09Aethersphere%20Harvester%0A2%09Anger%20of%20the%20Gods%0A4%09Duress%0A2%09Fry%0A2%09Kolaghan's%20Command%0A1%09Tormod's%20Crypt)
 # Maindeck
 
 |                                         Artifact (6)                                         |                                         Creature (18)                                          |                                             Instant (5)                                              |                                              Land (22)                                              |                                        Planeswalker (3)                                        |                                       Sorcery (6)                                       |
@@ -15,17 +15,17 @@
 
 # Sideboard
 
-|                                           Artifact (3)                                            |                                          Instant (6)                                          |                                           Sorcery (6)                                           |
-|---------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
-|2 [Aethersphere Harvester](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423809)|2 [Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)            |2 [Anger of the Gods](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438682)   |
-|1 [Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)        |2 [Fry](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466894)               |2 [Collective Brutality](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414380)|
-|                                                                                                   |2 [Kolaghan's Command](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394613)|2 [Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)               |
+|                                           Artifact (3)                                            |                                          Instant (6)                                          |                                         Sorcery (6)                                          |
+|---------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
+|2 [Aethersphere Harvester](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423809)|2 [Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)            |2 [Anger of the Gods](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438682)|
+|1 [Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)        |2 [Fry](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466894)               |4 [Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)            |
+|                                                                                                   |2 [Kolaghan's Command](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394613)|                                                                                              |
 
 
 # Other Options
 
-|*n*<sup>th</sup> copy|Maindeck Card|*n*<sup>th</sup> copy|                                 Sideboard Card                                 |
-|---------------------|-------------|--------------------:|--------------------------------------------------------------------------------|
-|                     |             |                    4|[Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)|
-|                     |             |                    3|[Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)|
+|*n*<sup>th</sup> copy|Maindeck Card|*n*<sup>th</sup> copy|                                        Sideboard Card                                         |
+|---------------------|-------------|--------------------:|-----------------------------------------------------------------------------------------------|
+|                     |             |                    1|[Collective Brutality](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414380)|
+|                     |             |                    2|[Collective Brutality](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414380)|
 

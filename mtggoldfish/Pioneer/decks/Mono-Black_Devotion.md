@@ -22,22 +22,3 @@
 |                                                                                           |                                                                                                |3 [Noxious Grasp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466864)|3 [Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)               |
 |                                                                                           |                                                                                                |                                                                                          |2 [Witch's Vengeance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473073)   |
 
-
-# Other Options
-
-|*n*<sup>th</sup> copy|                                           Maindeck Card                                           |*n*<sup>th</sup> copy|                                          Sideboard Card                                           |
-|--------------------:|---------------------------------------------------------------------------------------------------|--------------------:|---------------------------------------------------------------------------------------------------|
-|                    1|[Rankle, Master of Pranks](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473063)|                    1|[Bontu's Last Reckoning](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430749)  |
-|                    1|[Cast Down](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442969)               |                    1|[Kalitas, Traitor of Ghet](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407596)|
-|                    1|[Hero's Downfall](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373575)         |                    1|[Liliana, the Last Hope](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414388)  |
-|                    2|[Rankle, Master of Pranks](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473063)|                    1|[Drown in Sorrow](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=378437)         |
-|                    2|[Cast Down](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442969)               |                    1|[Read the Bones](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389649)          |
-|                    3|[Lifebane Zombie](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370723)         |                    1|[Silence the Believers](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=380499)   |
-|                    4|[Lifebane Zombie](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370723)         |                    4|[Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)                   |
-|                   14|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)                   |                    4|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)     |
-|                   15|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)                   |                     |                                                                                                   |
-|                   16|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)                   |                     |                                                                                                   |
-|                   17|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)                   |                     |                                                                                                   |
-|                   18|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)                   |                     |                                                                                                   |
-|                   19|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)                   |                     |                                                                                                   |
-

@@ -53,8 +53,8 @@
 |                    1|[Temple Garden](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405112)          |                     |                                                                                              |
 |                    2|[Glittering Wish](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=136157)        |                     |                                                                                              |
 |                    2|[City of Brass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=4178)            |                     |                                                                                              |
-|                    3|[City of Brass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=4178)            |                     |                                                                                              |
+|                    3|[Glittering Wish](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=136157)        |                     |                                                                                              |
 |                    4|[Glittering Wish](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=136157)        |                     |                                                                                              |
 |                    4|[City of Brass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=4178)            |                     |                                                                                              |
-|                    3|[Glittering Wish](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=136157)        |                     |                                                                                              |
+|                    3|[City of Brass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=4178)            |                     |                                                                                              |
 

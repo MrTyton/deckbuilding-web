@@ -9,9 +9,9 @@
 4 Bomat Courier
 1 Searing Blaze
 1 Rampaging Ferocidon
-1 Incinerate
 1 Zurgo Bellstriker
 1 Burst Lightning
+1 Incinerate
 1 Ash Zealot
 2 Searing Blaze
 2 Rampaging Ferocidon
@@ -42,73 +42,6 @@
 2 Wooded Foothills
 3 Vexing Devil
 4 Vexing Devil
-1 Darksteel Citadel
-1 Ghost Quarter
-1 Blinkmoth Nexus
-1 Ornithopter
-1 Galvanic Blast
-1 Inkmoth Nexus
-1 Springleaf Drum
-1 Signal Pest
-1 Mox Opal
-1 Cranial Plating
-1 Arcbound Ravager
-1 Welding Jar
-1 Memnite
-1 Vault Skirge
-1 Frogmite
-2 Ornithopter
-2 Ghost Quarter
-2 Galvanic Blast
-2 Welding Jar
-2 Springleaf Drum
-2 Frogmite
-2 Vault Skirge
-2 Inkmoth Nexus
-2 Signal Pest
-2 Cranial Plating
-2 Arcbound Ravager
-2 Darksteel Citadel
-2 Memnite
-2 Mox Opal
-2 Blinkmoth Nexus
-3 Ornithopter
-3 Arcbound Ravager
-3 Mox Opal
-3 Springleaf Drum
-3 Memnite
-3 Darksteel Citadel
-3 Inkmoth Nexus
-3 Vault Skirge
-3 Signal Pest
-3 Blinkmoth Nexus
-3 Frogmite
-3 Cranial Plating
-3 Welding Jar
-4 Welding Jar
-4 Blinkmoth Nexus
-4 Inkmoth Nexus
-4 Springleaf Drum
-4 Ornithopter
-4 Frogmite
-4 Cranial Plating
-4 Darksteel Citadel
-4 Memnite
-4 Arcbound Ravager
-4 Mox Opal
-4 Signal Pest
-1 Snow-Covered Mountain
-2 Snow-Covered Mountain
-3 Snow-Covered Mountain
-4 Snow-Covered Mountain
-5 Snow-Covered Mountain
-6 Snow-Covered Mountain
-7 Snow-Covered Mountain
-8 Snow-Covered Mountain
-9 Snow-Covered Mountain
-10 Snow-Covered Mountain
-11 Snow-Covered Mountain
-12 Snow-Covered Mountain
 1 Gemstone Caverns
 1 Chandra, Torch of Defiance
 1 Hazoret the Fervent
@@ -123,17 +56,16 @@
 1 Mutavault
 1 Simian Spirit Guide
 2 Gemstone Caverns
-2 Chandra, Torch of Defiance
 2 Goblin Rabblemaster
 2 Chalice of the Void
 2 Legion Warboss
 2 Magus of the Moon
 2 Torbran, Thane of Red Fell
 2 Abrade
+2 Chandra, Torch of Defiance
 2 Simian Spirit Guide
 2 Castle Embereth
 2 Desperate Ritual
-3 Gemstone Caverns
 3 Goblin Rabblemaster
 3 Magus of the Moon
 3 Legion Warboss
@@ -141,6 +73,7 @@
 3 Chandra, Torch of Defiance
 3 Desperate Ritual
 3 Ramunap Ruins
+3 Gemstone Caverns
 3 Simian Spirit Guide
 4 Chalice of the Void
 4 Goblin Rabblemaster
@@ -149,3 +82,70 @@
 4 Magus of the Moon
 4 Simian Spirit Guide
 4 Ramunap Ruins
+1 Snow-Covered Mountain
+2 Snow-Covered Mountain
+3 Snow-Covered Mountain
+4 Snow-Covered Mountain
+5 Snow-Covered Mountain
+6 Snow-Covered Mountain
+7 Snow-Covered Mountain
+8 Snow-Covered Mountain
+9 Snow-Covered Mountain
+10 Snow-Covered Mountain
+11 Snow-Covered Mountain
+12 Snow-Covered Mountain
+1 Darksteel Citadel
+1 Blinkmoth Nexus
+1 Ornithopter
+1 Galvanic Blast
+1 Inkmoth Nexus
+1 Springleaf Drum
+1 Signal Pest
+1 Mox Opal
+1 Cranial Plating
+1 Arcbound Ravager
+1 Welding Jar
+1 Memnite
+1 Vault Skirge
+1 Ghost Quarter
+1 Frogmite
+2 Ornithopter
+2 Blinkmoth Nexus
+2 Galvanic Blast
+2 Welding Jar
+2 Springleaf Drum
+2 Frogmite
+2 Vault Skirge
+2 Inkmoth Nexus
+2 Signal Pest
+2 Cranial Plating
+2 Ghost Quarter
+2 Mox Opal
+2 Arcbound Ravager
+2 Darksteel Citadel
+2 Memnite
+3 Ornithopter
+3 Arcbound Ravager
+3 Mox Opal
+3 Springleaf Drum
+3 Memnite
+3 Darksteel Citadel
+3 Vault Skirge
+3 Signal Pest
+3 Blinkmoth Nexus
+3 Inkmoth Nexus
+3 Frogmite
+3 Cranial Plating
+3 Welding Jar
+4 Welding Jar
+4 Springleaf Drum
+4 Blinkmoth Nexus
+4 Frogmite
+4 Cranial Plating
+4 Darksteel Citadel
+4 Memnite
+4 Inkmoth Nexus
+4 Arcbound Ravager
+4 Mox Opal
+4 Signal Pest
+4 Ornithopter

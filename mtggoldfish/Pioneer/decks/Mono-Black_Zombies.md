@@ -24,3 +24,20 @@
 |2 [Midnight Reaper](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452827)         |2 [Noxious Grasp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466864)|                                                                                                   |2 [Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)        |
 |1 [Murderous Rider](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473059)         |                                                                                          |                                                                                                   |                                                                                                 |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                       Maindeck Card                                        |*n*<sup>th</sup> copy|                                          Sideboard Card                                           |
+|--------------------:|--------------------------------------------------------------------------------------------|--------------------:|---------------------------------------------------------------------------------------------------|
+|                    1|[Smuggler's Copter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417808)|                    1|[Kitesail Freebooter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435264)     |
+|                    2|[Smuggler's Copter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417808)|                    1|[Disfigure](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442076)               |
+|                    3|[Smuggler's Copter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417808)|                    1|[Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)                   |
+|                    3|[Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)     |                    2|[Kitesail Freebooter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435264)     |
+|                    4|[Smuggler's Copter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417808)|                    2|[Disfigure](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442076)               |
+|                    4|[Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)     |                    2|[Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)                   |
+|                   15|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)            |                    3|[Noxious Grasp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466864)           |
+|                     |                                                                                            |                    3|[Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)                   |
+|                     |                                                                                            |                    3|[Kitesail Freebooter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435264)     |
+|                     |                                                                                            |                    3|[Kalitas, Traitor of Ghet](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407596)|
+|                     |                                                                                            |                    4|[Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)                   |
+
