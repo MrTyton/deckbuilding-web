@@ -1,54 +1,52 @@
-1 Verdant Catacombs
-2 Verdant Catacombs
+4 Postmortem Lunge
 4 Razorverge Thicket
 1 Wooded Foothills
 2 Wooded Foothills
-1 Duskwatch Recruiter
 1 Dryad Arbor
+1 Snow-Covered Forest
+2 Eternal Witness
+1 Verdant Catacombs
+2 Verdant Catacombs
+1 Teferi, Time Raveler
+2 Teferi, Time Raveler
+2 Duskwatch Recruiter
 3 Birds of Paradise
 4 Birds of Paradise
-1 Knight of Autumn
-2 Eternal Witness
 3 Oko, Thief of Crowns
+1 Snow-Covered Plains
+4 Horizon Canopy
+1 Knight of Autumn
+1 Scavenging Ooze
 1 Kitchen Finks
-2 Duskwatch Recruiter
-1 Overgrown Tomb
+3 Forest
 1 Chord of Calling
 2 Chord of Calling
+3 Chord of Calling
 1 Gavony Township
-4 Horizon Canopy
-1 Scavenging Ooze
+1 Overgrown Tomb
+1 Eldritch Evolution
+2 Eldritch Evolution
+2 Snow-Covered Forest
+3 Wooded Foothills
 3 Verdant Catacombs
-1 Godless Shrine
+2 Ranger-Captain of Eos
 1 Collected Company
 2 Collected Company
 3 Collected Company
 4 Collected Company
-1 Snow-Covered Forest
-3 Forest
-3 Chord of Calling
-2 Kitchen Finks
-1 Swamp
-1 Eldritch Evolution
-2 Eldritch Evolution
-3 Eternal Witness
 4 Chord of Calling
-2 Ranger-Captain of Eos
-1 Snow-Covered Plains
-3 Wooded Foothills
-1 Teferi, Time Raveler
-2 Teferi, Time Raveler
+1 Godless Shrine
+1 Botanical Sanctum
+3 Misty Rainforest
+2 Kitchen Finks
+1 Waterlogged Grove
+1 Swamp
 1 Restoration Angel
+1 Voice of Resurgence
 1 Stomping Ground
 1 Kiki-Jiki, Mirror Breaker
 2 Restoration Angel
-1 Waterlogged Grove
-1 Voice of Resurgence
 2 Voice of Resurgence
-3 Misty Rainforest
-3 Restoration Angel
-1 Carrion Feeder
-3 Kitchen Finks
 1 Renegade Rallier
 1 Spell Queller
 1 Corridor Monitor
@@ -56,16 +54,18 @@
 2 Waterlogged Grove
 2 Spell Queller
 2 Prime Speaker Vannifar
+3 Restoration Angel
 3 Voice of Resurgence
 3 Spell Queller
 3 Prime Speaker Vannifar
 4 Spell Queller
 4 Prime Speaker Vannifar
+1 Deputy of Detention
+1 Gilded Goose
+3 Teferi, Time Raveler
 3 Eldritch Evolution
-1 Flooded Strand
-2 Snow-Covered Forest
 1 Phyrexian Revoker
-1 Botanical Sanctum
+1 Flooded Strand
 1 Sword of Light and Shadow
 1 Batterskull
 1 Viridian Longbow
@@ -73,26 +73,28 @@
 2 Stoneforge Mystic
 3 Stoneforge Mystic
 4 Stoneforge Mystic
+3 Eternal Witness
 4 Forest
 4 Wooded Foothills
 1 Tireless Tracker
 2 Plains
-3 Teferi, Time Raveler
 1 Wall of Roots
 2 Wall of Roots
+1 Jace, Vryn's Prodigy
 1 Viscera Seer
 1 Marsh Flats
 1 Nurturing Peatland
-1 Gilded Goose
-1 Deputy of Detention
+2 Gilded Goose
 1 Lightning Greaves
 1 Fiend Hunter
 1 Collector Ouphe
 2 Snow-Covered Plains
+1 Carrion Feeder
+3 Kitchen Finks
 1 Militia Bugler
 1 Wooded Bastion
-2 Knight of Autumn
 2 Militia Bugler
+2 Knight of Autumn
 3 Duskwatch Recruiter
 3 Militia Bugler
 3 Temple Garden
@@ -120,9 +122,9 @@
 3 Path to Exile
 4 Path to Exile
 1 Karn, the Great Creator
+1 Sylvan Caryatid
 1 Freed from the Real
 1 Heliod's Pilgrim
-1 Sylvan Caryatid
 1 Leyline of Abundance
 2 Karn, the Great Creator
 2 Sylvan Caryatid
@@ -134,37 +136,6 @@
 3 Leyline of Abundance
 4 Sylvan Caryatid
 4 Leyline of Abundance
-2 Overgrown Tomb
-1 Wall of Blossoms
-1 Deceiver Exarch
-1 Hostage Taker
-1 Wall of Omens
-1 Primal Command
-1 Maelstrom Pulse
-1 Acidic Slime
-1 Island
-1 Niv-Mizzet Reborn
-1 Kolaghan's Command
-1 Utopia Sprawl
-1 Arbor Elf
-1 Manamorphose
-1 Bring to Light
-2 Wall of Blossoms
-2 Breeding Pool
-2 Wall of Omens
-2 Stomping Ground
-2 Bring to Light
-2 Arbor Elf
-2 Manamorphose
-2 Utopia Sprawl
-3 Arbor Elf
-3 Bring to Light
-3 Utopia Sprawl
-4 Restoration Angel
-4 Misty Rainforest
-4 Utopia Sprawl
-4 Arbor Elf
-4 Bring to Light
 1 Khalni Garden
 1 Geralf's Messenger
 1 Thragtusk
@@ -180,6 +151,7 @@
 1 Yawgmoth, Thran Physician
 2 Swamp
 2 Strangleroot Geist
+2 Overgrown Tomb
 2 Geralf's Messenger
 2 Blooming Marsh
 2 Twilight Mire

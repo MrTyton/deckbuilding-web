@@ -51,8 +51,8 @@
 1 Tarfire
 1 Goblin Rabblemaster
 1 Wrenn and Six
-1 Hexdrinker
 1 Banefire
+1 Hexdrinker
 2 Hexdrinker
 2 Goblin Rabblemaster
 2 Wrenn and Six
@@ -65,11 +65,11 @@
 1 Magmatic Sinkhole
 1 Fire-Lit Thicket
 1 Merchant of the Vale
-1 Forgotten Cave
 1 Countryside Crusher
 1 Tranquil Thicket
 1 Flame Jab
 1 Copperline Gorge
+1 Forgotten Cave
 1 Seismic Assault
 1 Treetop Village
 2 Life from the Loam
@@ -77,12 +77,12 @@
 2 Ghost Quarter
 2 Copperline Gorge
 2 Tranquil Thicket
-2 Forgotten Cave
 2 Countryside Crusher
-2 Raging Ravine
+2 Forgotten Cave
+2 Flame Jab
 2 Fire-Lit Thicket
 2 Mountain
-2 Flame Jab
+2 Raging Ravine
 2 Merchant of the Vale
 2 Seismic Assault
 3 Life from the Loam
@@ -112,10 +112,10 @@
 1 Zhalfirin Void
 2 Mutavault
 2 Dismember
-2 Simian Spirit Guide
+2 Zhalfirin Void
 2 Eternal Scourge
 2 Matter Reshaper
-2 Zhalfirin Void
+2 Simian Spirit Guide
 2 Blast Zone
 2 Chalice of the Void
 2 Serum Powder
@@ -123,11 +123,11 @@
 2 Blinkmoth Nexus
 3 Dismember
 3 Eternal Scourge
+3 Chalice of the Void
 3 Serum Powder
 3 Matter Reshaper
 3 Eldrazi Mimic
 3 Zhalfirin Void
-3 Chalice of the Void
 3 Mutavault
 4 Dismember
 4 Eternal Scourge
@@ -170,21 +170,21 @@
 1 Courser of Kruphix
 1 Nykthos, Shrine to Nyx
 1 Oath of Nissa
+1 Voracious Hydra
 1 Eternal Witness
 1 Wistful Selkie
-1 Ruric Thar, the Unbowed
 1 Acidic Slime
-1 Genesis Hydra
 1 Garruk Wildspeaker
 1 Craterhoof Behemoth
-1 Voracious Hydra
+1 Genesis Hydra
 1 Burning-Tree Emissary
+1 Ruric Thar, the Unbowed
 2 Oath of Nissa
 2 Eternal Witness
 2 Nykthos, Shrine to Nyx
 2 Garruk Wildspeaker
-2 Voracious Hydra
 2 Genesis Hydra
+2 Voracious Hydra
 2 Burning-Tree Emissary
 3 Oath of Nissa
 3 Eternal Witness

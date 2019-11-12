@@ -1,9 +1,10 @@
 2 Noxious Grasp
 3 Castle Locthwain
 1 Murderous Rider
+4 Gutterbones
 1 Rankle, Master of Pranks
 2 Rankle, Master of Pranks
-4 Gutterbones
+1 Bedevil
 2 Murderous Rider
 1 Knight of the Ebon Legion
 2 Knight of the Ebon Legion
@@ -12,26 +13,29 @@
 2 Dreadhorde Butcher
 3 Dreadhorde Butcher
 4 Dreadhorde Butcher
-1 Bedevil
 3 Murderous Rider
 1 Stormfist Crusader
 1 Rotting Regisaur
 2 Rotting Regisaur
 3 Rotting Regisaur
 4 Knight of the Ebon Legion
-1 Spawn of Mayhem
-2 Spawn of Mayhem
-3 Spawn of Mayhem
-4 Spawn of Mayhem
 2 Stormfist Crusader
 3 Stormfist Crusader
 4 Rotting Regisaur
 9 Swamp
 1 Bonecrusher Giant
+1 Spawn of Mayhem
 2 Bonecrusher Giant
+2 Spawn of Mayhem
 3 Bonecrusher Giant
+3 Spawn of Mayhem
+4 Spawn of Mayhem
 3 Rankle, Master of Pranks
 4 Murderous Rider
+4 Stormfist Crusader
+4 Angrath's Rampage
+1 Lava Coil
+2 Lava Coil
 1 Blacklance Paragon
 2 Blacklance Paragon
 3 Blacklance Paragon
@@ -40,18 +44,8 @@
 3 Fervent Champion
 4 Fervent Champion
 1 Robber of the Rich
-4 Stormfist Crusader
+2 Bedevil
 1 Castle Embereth
-4 Angrath's Rampage
-1 Lava Coil
-2 Lava Coil
-4 Blacklance Paragon
-1 Light Up the Stage
-2 Light Up the Stage
-1 Judith, the Scourge Diva
-2 Robber of the Rich
-3 Robber of the Rich
-4 Robber of the Rich
 1 Embercleave
 1 Tournament Grounds
 1 Rimrock Knight
@@ -60,18 +54,21 @@
 2 Tournament Grounds
 3 Embercleave
 3 Rimrock Knight
+4 Blacklance Paragon
 4 Rimrock Knight
 1 Rix Maadi Reveler
 2 Rix Maadi Reveler
+1 Light Up the Stage
+2 Light Up the Stage
 10 Swamp
+1 Judith, the Scourge Diva
+1 Mask of Immolation
+2 Robber of the Rich
+3 Robber of the Rich
+4 Robber of the Rich
 8 Mountain
-2 Bedevil
 2 Castle Embereth
-3 Light Up the Stage
-1 Shock
-2 Shock
-3 Shock
-2 Judith, the Scourge Diva
+1 Liliana, Dreadhorde General
 1 Steelclaw Lance
 2 Steelclaw Lance
 3 Steelclaw Lance
@@ -79,10 +76,16 @@
 4 Steelclaw Lance
 4 Tournament Grounds
 4 Embercleave
-1 Mask of Immolation
 1 Orzhov Enforcer
 2 Orzhov Enforcer
+1 God-Eternal Bontu
+1 Dreadhorde Invasion
+1 Bolas's Citadel
+2 Dreadhorde Invasion
+2 God-Eternal Bontu
+3 Dreadhorde Invasion
 3 Cavalier of Night
+3 Light Up the Stage
 1 Skarrgan Hellkite
 1 Sarkhan the Masterless
 1 Chandra, Fire Artisan
@@ -91,7 +94,6 @@
 2 Legion's End
 2 Skarrgan Hellkite
 3 Sarkhan the Masterless
-1 Liliana, Dreadhorde General
 1 Clackbridge Troll
 1 Evolving Wilds
 2 Liliana, Dreadhorde General
@@ -102,12 +104,16 @@
 3 Chandra, Acolyte of Flame
 3 Clackbridge Troll
 4 Chandra, Acolyte of Flame
+1 Shock
 1 Fling
+2 Shock
 2 Fling
+3 Shock
 4 Rankle, Master of Pranks
 1 Ayara, First of Locthwain
 1 Witch's Cottage
 1 Massacre Girl
+2 Judith, the Scourge Diva
 3 Judith, the Scourge Diva
 4 Judith, the Scourge Diva
 1 Smitten Swordmaster
@@ -131,12 +137,3 @@
 4 Godless Shrine
 4 Inspiring Veteran
 4 Acclaimed Contender
-1 Fireblade Artist
-1 Skewer the Critics
-2 Skewer the Critics
-2 Fireblade Artist
-3 Skewer the Critics
-3 Fireblade Artist
-4 Skewer the Critics
-4 Light Up the Stage
-4 Fireblade Artist

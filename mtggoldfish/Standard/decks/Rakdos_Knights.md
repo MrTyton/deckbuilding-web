@@ -81,6 +81,7 @@
 |                    3|[Foulmire Knight](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473052)         |                     |                                                                                                 |
 |                    1|[Bloodfell Caves](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=433168)         |                     |                                                                                                 |
 |                    3|[Order of Midnight](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473061)       |                     |                                                                                                 |
+|                    4|[Shock](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129732)                   |                     |                                                                                                 |
 |                    1|[Bedevil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457301)                 |                     |                                                                                                 |
 |                    1|[Robber of the Rich](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473100)      |                     |                                                                                                 |
 |                    1|[Fling](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426834)                   |                     |                                                                                                 |
@@ -91,5 +92,4 @@
 |                    3|[Castle Locthwain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473203)        |                     |                                                                                                 |
 |                    4|[Robber of the Rich](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473100)      |                     |                                                                                                 |
 |                    4|[Dreadhorde Butcher](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461121)      |                     |                                                                                                 |
-|                    4|[Shock](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129732)                   |                     |                                                                                                 |
 
