@@ -45,6 +45,6 @@
 |                    2|[Paradise Druid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461098)     |                    2|[Claim/Fame](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430839)         |
 |                    2|[Seachrome Coast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=209399)    |                    2|[Paradoxical Outcome](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417633)|
 |                    3|[Paradise Druid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461098)     |                    3|[Claim/Fame](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430839)         |
-|                    4|[Paradise Druid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461098)     |                    4|[Claim/Fame](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430839)         |
-|                    4|[Arid Mesa](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405092)          |                     |                                                                                              |
+|                    4|[Arid Mesa](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405092)          |                    4|[Claim/Fame](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430839)         |
+|                    4|[Paradise Druid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461098)     |                     |                                                                                              |
 
