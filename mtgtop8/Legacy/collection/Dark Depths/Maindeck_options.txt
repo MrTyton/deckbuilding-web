@@ -1,12 +1,13 @@
-2 Once Upon a Time
-3 Once Upon a Time
 4 Once Upon a Time
-2 Sylvan Scrying
 1 Swamp
-1 Sylvan Safekeeper
+1 Sylvan Scrying
+1 Sylvan Library
 1 Misty Rainforest
+2 Nurturing Peatland
+2 Sylvan Scrying
 1 Inquisition of Kozilek
 3 Wasteland
+1 Ghost Quarter
 1 Windswept Heath
 1 Stitcher's Supplier
 1 Satyr Wayfinder
@@ -19,10 +20,6 @@
 3 Satyr Wayfinder
 2 Inquisition of Kozilek
 3 Sylvan Scrying
-1 Tarmogoyf
-2 Tarmogoyf
-3 Tarmogoyf
-4 Tarmogoyf
 1 Stifle
 1 Brainstorm
 1 Tropical Island
@@ -36,7 +33,8 @@
 3 Brainstorm
 3 Misty Rainforest
 4 Brainstorm
-1 Ghost Quarter
+3 Dark Confidant
+4 Dark Confidant
 1 Dryad Arbor
 4 Stitcher's Supplier
 1 Cabal Therapy
@@ -46,10 +44,13 @@
 4 Satyr Wayfinder
 1 Blast Zone
 4 Polluted Delta
-3 Dark Confidant
-4 Dark Confidant
+1 Tarmogoyf
+2 Tarmogoyf
+3 Tarmogoyf
+4 Tarmogoyf
 4 Cabal Therapy
 2 Windswept Heath
+1 Life from the Loam
 4 Hogaak, Arisen Necropolis
 1 Overgrown Tomb
 1 Elvish Spirit Guide
@@ -59,6 +60,9 @@
 2 Lotus Petal
 3 Lotus Petal
 4 Lotus Petal
+1 Pithing Needle
+2 Pithing Needle
+2 Snow-Covered Forest
 1 Snow-Covered Plains
 1 Gaddock Teeg
 1 Knight of Autumn
@@ -75,21 +79,22 @@
 4 Windswept Heath
 4 Green Sun's Zenith
 4 Knight of the Reliquary
-1 Life from the Loam
 1 Steely Resolve
 2 Forest
 2 Overgrown Tomb
+1 Into the North
+2 Sylvan Safekeeper
+2 Into the North
 1 Ancient Tomb
 1 Path to Exile
 1 Flagstones of Trokair
 1 Giver of Runes
-2 Giver of Runes
 2 Sylvan Library
 2 Path to Exile
 2 Savannah
-2 Snow-Covered Forest
-3 Giver of Runes
+2 Giver of Runes
 3 Path to Exile
+3 Giver of Runes
 2 Khalni Garden
 3 Bayou
 1 Hymn to Tourach
@@ -108,13 +113,11 @@
 3 Swords to Plowshares
 4 Wasteland
 4 Swords to Plowshares
-1 Pithing Needle
 1 Not of This World
-2 Pithing Needle
 2 Not of This World
 3 Not of This World
 3 Elvish Spirit Guide
 3 Pithing Needle
-4 Elvish Spirit Guide
 4 Not of This World
 4 Sylvan Scrying
+4 Elvish Spirit Guide

@@ -26,10 +26,10 @@
 4 Fanatic of Mogis
 18 Mountain
 1 Purphoros, God of the Forge
-1 Earthshaker Khenra
 1 Firedrinker Satyr
-2 Earthshaker Khenra
+1 Earthshaker Khenra
 2 Firedrinker Satyr
+2 Earthshaker Khenra
 3 Firedrinker Satyr
 4 Firedrinker Satyr
 3 Torbran, Thane of Red Fell
@@ -80,23 +80,13 @@
 1 Cavalier of Flame
 3 Chandra, Torch of Defiance
 3 Magma Jet
-1 Zurgo Bellstriker
 1 Slaying Fire
+1 Zurgo Bellstriker
 2 Slaying Fire
 2 Zurgo Bellstriker
 3 Slaying Fire
 3 Robber of the Rich
 4 Robber of the Rich
-3 Searing Blood
-4 Torbran, Thane of Red Fell
-1 Rampaging Ferocidon
-2 Rampaging Ferocidon
-3 Hazoret the Fervent
-3 Skullcrack
-3 Rampaging Ferocidon
-4 Skewer the Critics
-4 Skullcrack
-4 Hazoret the Fervent
 1 Wily Goblin
 1 Magma Spray
 1 Glorybringer
@@ -139,17 +129,25 @@
 2 Thought-Knot Seer
 2 Hanweir Garrison
 2 Crumbling Vestige
-2 Hanweir Battlements
 2 Reality Smasher
+2 Hanweir Battlements
 2 Aether Hub
-3 Hanweir Battlements
 3 Hanweir Garrison
 3 Aether Hub
 3 Reality Smasher
 3 Thought-Knot Seer
+3 Hanweir Battlements
 4 Thought-Knot Seer
 4 Hanweir Garrison
 4 Aether Hub
+1 Rampaging Ferocidon
+2 Rampaging Ferocidon
+3 Rampaging Ferocidon
+3 Skullcrack
+3 Hazoret the Fervent
+4 Skullcrack
+4 Hazoret the Fervent
+4 Skewer the Critics
 1 Mutavault
 1 Siege-Gang Commander
 1 Skirk Prospector
@@ -169,22 +167,24 @@
 3 Goblin Warchief
 4 Mutavault
 4 Skirk Prospector
-4 Goblin Ringleader
 4 Goblin Piledriver
 4 Smuggler's Copter
+4 Goblin Ringleader
 4 Goblin Warchief
-1 Stoke the Flames
 1 Dragon Fodder
+1 Stoke the Flames
 2 Stoke the Flames
 2 Dragon Fodder
-3 Stoke the Flames
 3 Goblin Instigator
+3 Stoke the Flames
 3 Dragon Fodder
 4 Castle Embereth
 4 Stoke the Flames
 4 Reckless Bushwhacker
 4 Dragon Fodder
 4 Goblin Instigator
+3 Searing Blood
+4 Torbran, Thane of Red Fell
 1 Thrill of Possibility
 1 Crash Through
 1 Bedlam Reveler

@@ -71,8 +71,8 @@
 5 Swamp
 6 Swamp
 1 Stonecoil Serpent
-1 Vivien, Arkbow Ranger
 1 Karn's Bastion
+1 Vivien, Arkbow Ranger
 1 Voracious Hydra
 1 Drana, Liberator of Malakir
 1 Corpsejack Menace
@@ -82,9 +82,9 @@
 2 Karn's Bastion
 2 Vivien, Arkbow Ranger
 2 Voracious Hydra
-2 Drana, Liberator of Malakir
 2 Gyre Sage
 2 Corpsejack Menace
+2 Drana, Liberator of Malakir
 3 Stonecoil Serpent
 3 Corpsejack Menace
 3 Drana, Liberator of Malakir
@@ -102,11 +102,11 @@
 1 Nissa, Vastwood Seer
 2 Temple of Malady
 2 Languish
+2 Read the Bones
 2 Kalitas, Traitor of Ghet
 2 Dark Petition
-2 Field of Ruin
 2 Nissa, Vastwood Seer
-2 Read the Bones
+2 Field of Ruin
 3 Read the Bones
 3 Dark Petition
 4 Read the Bones
@@ -118,10 +118,10 @@
 1 Plaguecrafter
 1 Duskwatch Recruiter
 1 Liliana, Heretical Healer
-1 Blisterpod
-1 Nantuko Husk
-1 Catacomb Sifter
 1 Zulaport Cutthroat
+1 Nantuko Husk
+1 Blisterpod
+1 Catacomb Sifter
 2 Duskwatch Recruiter
 2 Westvale Abbey
 2 Zulaport Cutthroat
@@ -138,20 +138,6 @@
 4 Nantuko Husk
 4 Duskwatch Recruiter
 4 Catacomb Sifter
-1 Rishkar, Peema Renegade
-1 Verdurous Gearhulk
-1 Mindwrack Demon
-1 Scrapheap Scrounger
-2 Rishkar, Peema Renegade
-2 Verdurous Gearhulk
-2 Scrapheap Scrounger
-2 Mindwrack Demon
-3 Mindwrack Demon
-3 Scrapheap Scrounger
-3 Verdurous Gearhulk
-4 Mindwrack Demon
-4 Scrapheap Scrounger
-4 Verdurous Gearhulk
 1 Vivien, Champion of the Wilds
 1 Deathrite Shaman
 1 Brain Maggot
@@ -160,22 +146,22 @@
 2 Brain Maggot
 2 Wasteland Strangler
 3 Liliana, the Last Hope
-3 Brain Maggot
 3 Hissing Quagmire
+3 Brain Maggot
 3 Deathrite Shaman
 4 Deathrite Shaman
 4 Brain Maggot
 1 Golgari Guildgate
+1 Hour of Promise
 1 Hashep Oasis
 1 Arboreal Grazer
-1 Castle Garenbrig
+1 Ugin, the Spirit Dragon
 1 Ulamog, the Ceaseless Hunger
+1 Castle Garenbrig
 1 Nissa's Pilgrimage
 1 Field of the Dead
 1 Shrine of the Forsaken Gods
-1 Hour of Promise
 1 Font of Fertility
-1 Ugin, the Spirit Dragon
 1 Scavenger Grounds
 1 Elvish Rejuvenator
 1 Arch of Orazca
@@ -185,18 +171,18 @@
 2 Ulamog, the Ceaseless Hunger
 2 Elvish Rejuvenator
 2 Nissa's Pilgrimage
-2 Ugin, the Spirit Dragon
 2 Field of the Dead
+2 Ugin, the Spirit Dragon
 2 Emrakul, the Promised End
 2 Shrine of the Forsaken Gods
 2 Font of Fertility
 2 Ifnir Deadlands
 2 Hashep Oasis
-3 Ulamog, the Ceaseless Hunger
 3 Arboreal Grazer
 3 Hour of Promise
 3 Ugin, the Spirit Dragon
 3 Font of Fertility
+3 Ulamog, the Ceaseless Hunger
 3 Nissa's Pilgrimage
 3 Shrine of the Forsaken Gods
 3 Elvish Rejuvenator
@@ -205,6 +191,20 @@
 4 Elvish Rejuvenator
 4 Hour of Promise
 4 Font of Fertility
+1 Verdurous Gearhulk
+1 Rishkar, Peema Renegade
+1 Mindwrack Demon
+1 Scrapheap Scrounger
+2 Rishkar, Peema Renegade
+2 Verdurous Gearhulk
+2 Mindwrack Demon
+2 Scrapheap Scrounger
+3 Mindwrack Demon
+3 Scrapheap Scrounger
+3 Verdurous Gearhulk
+4 Mindwrack Demon
+4 Scrapheap Scrounger
+4 Verdurous Gearhulk
 1 Dwynen, Gilt-Leaf Daen
 1 Beast Whisperer
 1 Thorn Lieutenant

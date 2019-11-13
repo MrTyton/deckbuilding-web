@@ -31,8 +31,8 @@
 
 |*n*<sup>th</sup> copy|                                          Maindeck Card                                          |*n*<sup>th</sup> copy|                                       Sideboard Card                                        |
 |--------------------:|-------------------------------------------------------------------------------------------------|--------------------:|---------------------------------------------------------------------------------------------|
-|                    2|[Umezawa's Jitte](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=81979)        |                    1|[Council's Judgment](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382239)|
-|                    1|[Smuggler's Copter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417808)     |                    1|[Suppression Field](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=83617)  |
+|                    2|[Umezawa's Jitte](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=81979)        |                    1|[Suppression Field](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=83617)  |
+|                    1|[Smuggler's Copter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417808)     |                    1|[Council's Judgment](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382239)|
 |                    1|[Hero of Bladehold](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=214064)     |                    1|[Disenchant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=847)           |
 |                    3|[Thalia, Heretic Cathar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414338)|                    2|[Suppression Field](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=83617)  |
 |                    3|[Sanctum Prelate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416780)       |                    2|[Council's Judgment](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382239)|

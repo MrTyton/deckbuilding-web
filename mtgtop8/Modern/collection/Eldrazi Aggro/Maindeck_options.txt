@@ -1,12 +1,11 @@
-1 Sea Gate Wreckage
-1 Spatial Contortion
+1 Hangarback Walker
 2 All Is Dust
+1 Spatial Contortion
 1 Radiant Fountain
-1 Warping Wail
-1 Ulamog, the Ceaseless Hunger
 1 Once Upon a Time
 2 Once Upon a Time
 3 Once Upon a Time
+4 Once Upon a Time
 1 Noble Hierarch
 1 Ancient Stirrings
 2 Noble Hierarch
@@ -17,17 +16,14 @@
 4 Noble Hierarch
 1 Yavimaya Coast
 1 Oko, Thief of Crowns
-2 Oko, Thief of Crowns
 2 Yavimaya Coast
-4 Once Upon a Time
-2 Cavern of Souls
-1 Forest
-2 Forest
 3 Yavimaya Coast
-1 Eldrazi Skyspawner
-1 Breeding Pool
-2 Eldrazi Skyspawner
-3 Oko, Thief of Crowns
+2 Cavern of Souls
+1 Prismatic Vista
+2 Prismatic Vista
+3 Prismatic Vista
+4 Yavimaya Coast
+2 Oko, Thief of Crowns
 1 Drowner of Hope
 1 Brushland
 1 Path to Exile
@@ -35,54 +31,53 @@
 2 Path to Exile
 3 Path to Exile
 4 Path to Exile
-1 Sanctum of Ugin
-1 Prismatic Vista
-2 Prismatic Vista
-3 Prismatic Vista
-4 Yavimaya Coast
-1 Island
+1 Snow-Covered Island
+1 Snow-Covered Forest
+4 Prismatic Vista
 2 Drowner of Hope
+1 Birds of Paradise
+1 Eldrazi Displacer
+2 Eldrazi Displacer
+3 Cavern of Souls
+3 Brushland
+3 Eldrazi Displacer
+4 Brushland
+4 Eldrazi Displacer
+3 Oko, Thief of Crowns
+1 Snow-Covered Plains
+1 Warping Wail
+1 Ulamog, the Ceaseless Hunger
+1 Forest
+2 Forest
+1 Sanctum of Ugin
+1 Eldrazi Skyspawner
+1 Breeding Pool
+2 Eldrazi Skyspawner
+2 Radiant Fountain
+3 Wastes
+1 Stubborn Denial
+1 Elder Deep-Fiend
+1 Gilded Goose
+2 Elder Deep-Fiend
+2 Gilded Goose
+3 Elder Deep-Fiend
+1 Island
+1 Knight of Autumn
 1 Plains
 1 Temple Garden
 1 Windswept Heath
 2 Windswept Heath
 3 Windswept Heath
-1 Eldrazi Displacer
-2 Eldrazi Displacer
-3 Eldrazi Displacer
-4 Eldrazi Displacer
-1 Tectonic Edge
-2 Warping Wail
-2 Radiant Fountain
-3 Wastes
-1 Boreal Druid
-1 Engineered Explosives
-2 Boreal Druid
-3 Eldrazi Skyspawner
-4 Windswept Heath
-1 Misty Rainforest
-2 Misty Rainforest
-1 Elder Deep-Fiend
-1 Gilded Goose
-2 Gilded Goose
-2 Elder Deep-Fiend
-3 Elder Deep-Fiend
-4 Prismatic Vista
-1 Snow-Covered Island
-1 Snow-Covered Forest
-1 Birds of Paradise
-3 Cavern of Souls
-3 Brushland
-4 Brushland
 3 Dismember
 1 Simian Spirit Guide
 2 Simian Spirit Guide
-1 Hallowed Fountain
-1 Snow-Covered Plains
+1 Tectonic Edge
+2 Warping Wail
 1 Kiora, Behemoth Beckoner
 2 Sanctum of Ugin
 2 Breeding Pool
-1 Stubborn Denial
+1 Misty Rainforest
+2 Misty Rainforest
 2 Snow-Covered Forest
 2 Stubborn Denial
 3 Misty Rainforest
@@ -91,24 +86,21 @@
 1 Karn Liberated
 2 Karn Liberated
 3 Karn Liberated
+1 Adarkar Wastes
+2 Adarkar Wastes
+3 Mind Stone
+3 Blast Zone
+1 Boreal Druid
+1 Hallowed Fountain
+1 Engineered Explosives
+2 Boreal Druid
+3 Eldrazi Skyspawner
+4 Windswept Heath
 1 Mystic Forge
 3 Simian Spirit Guide
 4 Simian Spirit Guide
-1 Horizon Canopy
-1 Sword of Feast and Famine
-1 Knight of Autumn
-1 Batterskull
-1 Stoneforge Mystic
-2 Birds of Paradise
-2 Knight of Autumn
-2 Horizon Canopy
-2 Stoneforge Mystic
-3 Horizon Canopy
-3 Stoneforge Mystic
-4 Cavern of Souls
-4 Stoneforge Mystic
-1 Blinkmoth Nexus
 1 Mutavault
+1 Blinkmoth Nexus
 1 Serum Powder
 1 Eternal Scourge
 1 Eldrazi Mimic
@@ -133,7 +125,15 @@
 4 Eldrazi Mimic
 4 Serum Powder
 5 Forest
-1 Emrakul, the Promised End
-2 Endbringer
-2 Spatial Contortion
-4 Walking Ballista
+1 Horizon Canopy
+1 Sword of Feast and Famine
+1 Batterskull
+1 Stoneforge Mystic
+2 Birds of Paradise
+2 Knight of Autumn
+2 Horizon Canopy
+2 Stoneforge Mystic
+3 Horizon Canopy
+3 Stoneforge Mystic
+4 Cavern of Souls
+4 Stoneforge Mystic

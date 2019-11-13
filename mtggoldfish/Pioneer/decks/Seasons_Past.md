@@ -31,6 +31,6 @@
 |--------------------:|-----------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------------|
 |                    1|[Cast Down](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442969)     |                    1|[Hangarback Walker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420600)   |
 |                    1|[Ritual of Soot](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452834)|                    2|[Hangarback Walker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420600)   |
-|                    2|[Read the Bones](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389649)|                    3|[Hangarback Walker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420600)   |
-|                    4|[Dark Petition](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=398525) |                    2|[Illness in the Ranks](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=366354)|
+|                    2|[Read the Bones](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389649)|                    2|[Illness in the Ranks](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=366354)|
+|                    4|[Dark Petition](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=398525) |                    3|[Hangarback Walker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420600)   |
 

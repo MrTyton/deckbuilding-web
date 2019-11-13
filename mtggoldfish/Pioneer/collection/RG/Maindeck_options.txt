@@ -4,8 +4,8 @@
 3 Legion Warboss
 1 Lovestruck Beast
 2 Lovestruck Beast
-3 Lovestruck Beast
 3 Game Trail
+3 Lovestruck Beast
 4 Lovestruck Beast
 4 Game Trail
 4 Glorybringer
@@ -47,8 +47,8 @@
 2 Monastery Swiftspear
 2 Dreadhorde Arcanist
 3 Monastery Swiftspear
-3 Soul-Scar Mage
 3 Dreadhorde Arcanist
+3 Soul-Scar Mage
 4 Monastery Swiftspear
 4 Dreadhorde Arcanist
 4 Soul-Scar Mage
@@ -98,12 +98,12 @@
 1 Emrakul, the Promised End
 1 Stonecoil Serpent
 1 Elvish Rejuvenator
-1 Hour of Promise
 1 Shrine of the Forsaken Gods
 1 Field of the Dead
-1 Ulamog, the Ceaseless Hunger
 1 Castle Garenbrig
+1 Ulamog, the Ceaseless Hunger
 1 Arboreal Grazer
+1 Hour of Promise
 1 Kozilek's Return
 1 World Breaker
 1 Ugin, the Spirit Dragon
@@ -141,18 +141,18 @@
 1 Magma Spray
 1 Nykthos, Shrine to Nyx
 1 Temple of Abandon
-1 Fanatic of Mogis
 1 Eidolon of the Great Revel
+1 Fanatic of Mogis
 1 Dragon Whisperer
-1 Boros Reckoner
 1 Hammer of Purphoros
+1 Boros Reckoner
 1 Wily Goblin
 1 Goblin Chainwhirler
 2 Magma Spray
 2 Fanatic of Mogis
 2 Nykthos, Shrine to Nyx
-2 Dragon Whisperer
 2 Boros Reckoner
+2 Dragon Whisperer
 2 Goblin Chainwhirler
 2 Wily Goblin
 2 Temple of Abandon
@@ -161,9 +161,9 @@
 3 Goblin Chainwhirler
 3 Eidolon of the Great Revel
 3 Dragon Whisperer
-3 Chandra, Torch of Defiance
 3 Temple of Abandon
 3 Fanatic of Mogis
+3 Chandra, Torch of Defiance
 4 Nykthos, Shrine to Nyx
 4 Goblin Chainwhirler
 4 Eidolon of the Great Revel
@@ -171,15 +171,15 @@
 4 Temple of Abandon
 1 Season of Growth
 1 Fabled Passage
+1 Renegade Tactics
 1 Collision/Colossus
 1 Young Pyromancer
-1 Renegade Tactics
 1 Expedite
 1 Become Immense
 2 Become Immense
 2 Fabled Passage
-2 Collision/Colossus
 2 Young Pyromancer
+2 Collision/Colossus
 2 Renegade Tactics
 2 Expedite
 3 Fabled Passage
@@ -194,13 +194,13 @@
 4 Blossoming Defense
 4 Renegade Tactics
 4 Expedite
-1 Sea Gate Wreckage
 1 Reality Smasher
-1 Matter Reshaper
 1 Mutavault
+1 Matter Reshaper
+1 Sea Gate Wreckage
 2 Reality Smasher
-2 Mutavault
 2 Matter Reshaper
+2 Mutavault
 2 Hashep Oasis
 3 Reality Smasher
 3 Matter Reshaper

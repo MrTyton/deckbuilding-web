@@ -78,8 +78,8 @@
 |                    3|[Molten Vortex](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=398649)              |                    3|[Thorn of Amethyst](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=140166)  |
 |                     |                                                                                                      |                    1|[Flusterstorm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=228255)       |
 |                     |                                                                                                      |                    1|[Cindervines](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457305)        |
-|                     |                                                                                                      |                    2|[Cindervines](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457305)        |
 |                     |                                                                                                      |                    2|[Flusterstorm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=228255)       |
+|                     |                                                                                                      |                    2|[Cindervines](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457305)        |
 |                     |                                                                                                      |                    3|[Flusterstorm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=228255)       |
 |                     |                                                                                                      |                    4|[Flusterstorm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=228255)       |
 

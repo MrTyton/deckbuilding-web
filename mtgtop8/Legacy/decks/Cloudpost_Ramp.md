@@ -128,7 +128,7 @@
 |                    2|[Metalworker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=15246)                   |                     |                                                                                                  |
 |                    3|[Kuldotha Forgemaster](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=215098)         |                     |                                                                                                  |
 |                    3|[Metalworker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=15246)                   |                     |                                                                                                  |
-|                    4|[Metalworker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=15246)                   |                     |                                                                                                  |
 |                    4|[Mystic Forge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466987)                 |                     |                                                                                                  |
+|                    4|[Metalworker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=15246)                   |                     |                                                                                                  |
 |                    4|[Kuldotha Forgemaster](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=215098)         |                     |                                                                                                  |
 

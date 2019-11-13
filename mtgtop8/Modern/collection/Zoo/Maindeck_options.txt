@@ -1,31 +1,37 @@
-1 Boros Charm
-2 Boros Charm
-1 Kird Ape
-2 Kird Ape
-2 Hexdrinker
-1 Qasali Pridemage
-1 Voice of Resurgence
-2 Qasali Pridemage
-2 Voice of Resurgence
-1 Scavenging Ooze
 1 Bloodbraid Elf
 2 Bloodbraid Elf
 3 Bloodbraid Elf
-1 Noble Hierarch
-2 Noble Hierarch
 1 Kessig Wolf Run
 1 Knight of the Reliquary
 2 Knight of the Reliquary
 3 Knight of the Reliquary
+1 Boros Charm
+2 Boros Charm
+1 Scavenging Ooze
+1 Qasali Pridemage
+1 Voice of Resurgence
+2 Qasali Pridemage
+2 Voice of Resurgence
+1 Noble Hierarch
+2 Noble Hierarch
+4 Bloodbraid Elf
+1 Lightning Helix
+2 Lightning Helix
+1 Kird Ape
+2 Kird Ape
 4 Path to Exile
+2 Hexdrinker
 4 Tarmogoyf
 1 Gruul Spellbreaker
 2 Forest
 2 Scavenging Ooze
+1 Knight of Autumn
 3 Noble Hierarch
 4 Noble Hierarch
-1 Knight of Autumn
-4 Bloodbraid Elf
+3 Lightning Helix
+1 Monastery Swiftspear
+2 Monastery Swiftspear
+3 Monastery Swiftspear
 1 Once Upon a Time
 1 Hidden Herbalists
 2 Once Upon a Time
@@ -34,11 +40,6 @@
 3 Hidden Herbalists
 4 Once Upon a Time
 4 Hidden Herbalists
-1 Lightning Helix
-2 Lightning Helix
-1 Monastery Swiftspear
-2 Monastery Swiftspear
-3 Monastery Swiftspear
 3 Kird Ape
 4 Kird Ape
 1 Gideon Blackblade
@@ -48,12 +49,16 @@
 1 Snow-Covered Forest
 2 Gruul Spellbreaker
 4 Monastery Swiftspear
-1 Become Immense
 1 Mutagenic Growth
+1 Become Immense
 2 Mutagenic Growth
 1 Simian Spirit Guide
 2 Simian Spirit Guide
-3 Lightning Helix
+1 Bomat Courier
+1 Renegade Rallier
+1 Wrenn and Six
+2 Wrenn and Six
+3 Wrenn and Six
 1 Bonecrusher Giant
 3 Hexdrinker
 4 Hexdrinker
@@ -64,12 +69,22 @@
 2 Woolly Thoctar
 3 Woolly Thoctar
 4 Woolly Thoctar
+1 Steppe Lynx
+1 Plated Geopede
+2 Renegade Rallier
+2 Plated Geopede
+2 Steppe Lynx
+3 Steppe Lynx
+3 Plated Geopede
+3 Renegade Rallier
+4 Steppe Lynx
+4 Renegade Rallier
+4 Plated Geopede
 3 Ghor-Clan Rampager
 4 Ghor-Clan Rampager
 1 Rancor
 2 Rancor
 1 Bloodstained Mire
-1 Bomat Courier
 2 Sunbaked Canyon
 2 Bomat Courier
 2 Mountain
@@ -80,6 +95,7 @@
 3 Boros Charm
 1 Copperline Gorge
 2 Copperline Gorge
+4 Lightning Helix
 1 Domri, Anarch of Bolas
 1 Kytheon, Hero of Akros
 2 Kytheon, Hero of Akros
@@ -89,62 +105,46 @@
 1 Elvish Reclaimer
 2 Elvish Reclaimer
 3 Simian Spirit Guide
-4 Lightning Helix
 3 Qasali Pridemage
-1 Renegade Rallier
 1 Batterskull
 1 Stoneforge Mystic
 2 Stoneforge Mystic
 3 Stoneforge Mystic
-1 Wrenn and Six
-2 Wrenn and Six
-3 Wrenn and Six
 1 Ghost Quarter
 1 Seasoned Pyromancer
 1 Ajani, the Greathearted
 1 Tireless Tracker
 2 Tireless Tracker
+1 Courser of Kruphix
+2 Horizon Canopy
 1 Scalding Tarn
 2 Bloodstained Mire
 3 Sunbaked Canyon
 3 Bloodstained Mire
 3 Mountain
-1 Birds of Paradise
 1 Flooded Strand
+1 Dromoka's Command
 1 Rhonas the Indomitable
 1 Ajani Vengeant
 1 Sarkhan Vol
-1 Naya Charm
-1 Dromoka's Command
 1 Stirring Wildwood
 1 Collected Company
+1 Birds of Paradise
+1 Naya Charm
 2 Birds of Paradise
-2 Collected Company
 2 Flooded Strand
-3 Birds of Paradise
+2 Collected Company
 3 Collected Company
+3 Birds of Paradise
 4 Birds of Paradise
-3 Become Immense
-3 Sacred Foundry
-4 Mutagenic Growth
 1 Light Up the Stage
 1 Rift Bolt
 2 Light Up the Stage
 2 Rift Bolt
+3 Light Up the Stage
 3 Copperline Gorge
 3 Rift Bolt
-3 Light Up the Stage
 4 Boros Charm
-1 Sword of Feast and Famine
-1 Elspeth, Knight-Errant
-1 Snow-Covered Plains
-1 Sword of Light and Shadow
-1 Slayers' Stronghold
-1 Treetop Village
-2 Snow-Covered Forest
-3 Voice of Resurgence
-3 Gruul Spellbreaker
-4 Gruul Spellbreaker
 1 Lightning Mauler
 1 Champion of the Parish
 1 Voltaic Brawler
@@ -163,19 +163,19 @@
 3 Kytheon, Hero of Akros
 4 Mayor of Avabruck
 4 Champion of the Parish
-1 Tranquil Thicket
 1 Forgotten Cave
 1 Blast Zone
 1 Castle Ardenvale
+1 Tranquil Thicket
 1 Embercleave
 1 Huntmaster of the Fells
 1 Karn, the Great Creator
 2 Ghost Quarter
-2 Seasoned Pyromancer
 2 Karn, the Great Creator
+2 Seasoned Pyromancer
 3 Karn, the Great Creator
-3 Elvish Reclaimer
 3 Ghost Quarter
+3 Elvish Reclaimer
 4 Simian Spirit Guide
 4 Wrenn and Six
 4 Karn, the Great Creator
@@ -202,15 +202,16 @@
 3 Experiment One
 3 Rancor
 4 Experiment One
-1 Courser of Kruphix
-1 Plated Geopede
-1 Steppe Lynx
-2 Renegade Rallier
-2 Plated Geopede
-2 Steppe Lynx
-3 Steppe Lynx
-3 Renegade Rallier
-3 Plated Geopede
-4 Plated Geopede
-4 Renegade Rallier
-4 Steppe Lynx
+3 Sacred Foundry
+3 Become Immense
+4 Mutagenic Growth
+1 Sword of Feast and Famine
+1 Elspeth, Knight-Errant
+1 Snow-Covered Plains
+1 Sword of Light and Shadow
+1 Slayers' Stronghold
+1 Treetop Village
+2 Snow-Covered Forest
+3 Voice of Resurgence
+3 Gruul Spellbreaker
+4 Gruul Spellbreaker

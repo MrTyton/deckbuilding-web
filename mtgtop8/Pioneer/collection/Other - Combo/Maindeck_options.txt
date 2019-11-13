@@ -1,21 +1,10 @@
-1 Botanical Sanctum
-1 Temple Garden
-2 Botanical Sanctum
-3 Botanical Sanctum
-4 Botanical Sanctum
-1 Urborg, Tomb of Yawgmoth
-1 Once Upon a Time
-1 Blooming Marsh
-1 Lazav, the Multifarious
-1 Diligent Excavator
-1 Kethis, the Hidden Hand
-1 Mox Amber
 1 Jace, Wielder of Mysteries
 1 Mana Confluence
 1 Emry, Lurker of the Loch
 1 Oath of Nissa
 1 Terrarion
 1 Hope of Ghirapur
+2 Hope of Ghirapur
 2 Once Upon a Time
 2 Blooming Marsh
 2 Lazav, the Multifarious
@@ -24,11 +13,11 @@
 2 Mox Amber
 2 Emry, Lurker of the Loch
 2 Urborg, Tomb of Yawgmoth
-2 Hope of Ghirapur
 2 Mana Confluence
 2 Temple Garden
 2 Oath of Nissa
 2 Terrarion
+3 Hope of Ghirapur
 3 Once Upon a Time
 3 Emry, Lurker of the Loch
 3 Blooming Marsh
@@ -38,24 +27,34 @@
 3 Mox Amber
 3 Mana Confluence
 3 Oath of Nissa
-3 Hope of Ghirapur
 4 Oath of Nissa
-4 Teferi, Time Raveler
+4 Hallowed Fountain
 4 Once Upon a Time
+4 Teferi, Time Raveler
 4 Blooming Marsh
 4 Emry, Lurker of the Loch
 4 Hope of Ghirapur
 4 Diligent Excavator
 4 Kethis, the Hidden Hand
 4 Mox Amber
-4 Hallowed Fountain
 4 Mana Confluence
+1 Sphinx's Revelation
+1 Glacial Fortress
+1 Blink of an Eye
+1 Haze of Pollen
+2 Glacial Fortress
+2 Blink of an Eye
+2 Haze of Pollen
+3 Glacial Fortress
+3 Search for Azcanta
+3 Haze of Pollen
+4 Haze of Pollen
+4 Fabled Passage
 1 Mountain
 1 Stomping Ground
-1 Spirebluff Canal
 1 Ulamog, the Ceaseless Hunger
 1 Ugin, the Spirit Dragon
-1 Tireless Tracker
+1 Spirebluff Canal
 1 Rogue Refiner
 1 Nahiri, the Harbinger
 1 Aether Hub
@@ -63,6 +62,7 @@
 1 Ugin, the Ineffable
 1 Whirler Virtuoso
 1 Attune with Aether
+1 Tireless Tracker
 1 Harnessed Lightning
 1 Servant of the Conduit
 1 Woodweaver's Puzzleknot
@@ -97,23 +97,23 @@
 4 Harnessed Lightning
 4 Servant of the Conduit
 1 Censor
-1 Cyclonic Rift
 1 Fog
 1 Narset, Parter of Veils
+1 Cyclonic Rift
 1 Thing in the Ice
 1 Opt
-2 Fog
 2 Castle Vantress
 2 Island
 2 Opt
+2 Fog
 3 Tamiyo, Collector of Tales
 3 Fog
-3 Supreme Will
 3 Blast Zone
+3 Supreme Will
 3 Opt
 3 Island
 4 Fog
-4 Dig Through Time
 4 Opt
 4 Island
+4 Dig Through Time
 5 Island
