@@ -88,7 +88,7 @@
 |                    3|[Oko, Thief of Crowns](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473159)     |                     |                                                                                                   |
 |                    3|[Polluted Delta](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405104)           |                     |                                                                                                   |
 |                    3|[Delver of Secrets](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=226749)        |                     |                                                                                                   |
-|                    4|[Wasteland](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413790)                |                     |                                                                                                   |
 |                    4|[Tropical Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=884)             |                     |                                                                                                   |
+|                    4|[Wasteland](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413790)                |                     |                                                                                                   |
 |                    4|[Delver of Secrets](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=226749)        |                     |                                                                                                   |
 

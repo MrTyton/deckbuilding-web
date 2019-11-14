@@ -1,22 +1,5 @@
-3 Concealed Courtyard
-3 Tidehollow Sculler
-3 Caves of Koilos
-3 Silent Clearing
-2 Field of Ruin
-1 Charming Prince
-2 Charming Prince
-1 Tectonic Edge
-1 Phyrexian Revoker
-6 Plains
-1 Wasteland Strangler
-2 Wasteland Strangler
-3 Wasteland Strangler
-4 Concealed Courtyard
-4 Caves of Koilos
-4 Tidehollow Sculler
-1 Horizon Canopy
-1 Restoration Angel
 1 Thraben Inspector
+3 Silent Clearing
 7 Plains
 8 Plains
 9 Plains
@@ -26,6 +9,17 @@
 4 Stoneforge Mystic
 1 Sunbaked Canyon
 2 Horizon Canopy
+1 Concealed Courtyard
+1 Tidehollow Sculler
+1 Swamp
+1 Caves of Koilos
+2 Tidehollow Sculler
+2 Caves of Koilos
+2 Concealed Courtyard
+3 Concealed Courtyard
+3 Tidehollow Sculler
+3 Caves of Koilos
+1 Phyrexian Revoker
 1 Snow-Covered Plains
 1 Eiganjo Castle
 2 Sunbaked Canyon
@@ -43,6 +37,12 @@
 3 Snow-Covered Plains
 4 Snow-Covered Plains
 5 Snow-Covered Plains
+1 Wasteland Strangler
+2 Wasteland Strangler
+3 Wasteland Strangler
+4 Concealed Courtyard
+4 Caves of Koilos
+4 Tidehollow Sculler
 1 Wastes
 1 Chalice of the Void
 1 Dismember
@@ -56,15 +56,15 @@
 2 Battlefield Forge
 2 Simian Spirit Guide
 2 Dismember
+3 Sunbaked Canyon
 3 Dismember
 3 Chalice of the Void
-3 Sunbaked Canyon
 3 Gemstone Caverns
 3 Reality Smasher
 3 Simian Spirit Guide
+4 Sunbaked Canyon
 4 Chalice of the Void
 4 Reality Smasher
-4 Sunbaked Canyon
 4 Simian Spirit Guide
 3 Blade Splicer
 4 Restoration Angel
@@ -97,8 +97,8 @@
 1 Hallowed Fountain
 1 Seachrome Coast
 1 Deputy of Detention
-2 Spell Queller
 2 Seachrome Coast
+2 Spell Queller
 2 Hallowed Fountain
 3 Spell Queller
 3 Seachrome Coast
@@ -182,14 +182,14 @@
 2 Voice of Resurgence
 3 Forest
 3 Qasali Pridemage
-3 Aven Mindcensor
 3 Voice of Resurgence
+3 Aven Mindcensor
 3 Thalia, Heretic Cathar
 3 Temple Garden
 3 Noble Hierarch
 3 Razorverge Thicket
-4 Razorverge Thicket
 4 Temple Garden
+4 Razorverge Thicket
 4 Forest
 4 Noble Hierarch
 5 Forest

@@ -5,15 +5,15 @@
 3 Bonecrusher Giant
 4 Bloodstained Mire
 1 Force of Negation
-1 Tombstalker
 1 Spell Snare
+1 Tombstalker
 1 Retrofitter Foundry
 1 Spell Pierce
 1 Ornithopter
-2 Spell Pierce
-2 Retrofitter Foundry
-2 Underground Sea
 2 Spell Snare
+2 Retrofitter Foundry
+2 Spell Pierce
+2 Underground Sea
 2 Ornithopter
 2 Yuriko, the Tiger's Shadow
 2 Tombstalker
@@ -25,27 +25,13 @@
 1 Jace, the Mind Sculptor
 1 Island
 1 Scalding Tarn
-1 Angrath's Rampage
-1 Volcanic Island
-1 Liliana's Triumph
-1 Augur of Bolas
-1 Swamp
-1 Fallen Shinobi
-1 Mountain
-2 Island
-2 Jace, the Mind Sculptor
-2 Swamp
-2 Augur of Bolas
-3 Kolaghan's Command
-3 Snapcaster Mage
-3 Island
-4 Island
 1 Wasteland
 2 Wasteland
 1 Brazen Borrower
 1 Plains
 1 Karakas
 1 Hypnotic Sprite
+1 Fiery Islet
 1 Unsettled Mariner
 1 Phantasmal Image
 1 Plateau
@@ -63,7 +49,6 @@
 1 Spell Queller
 1 Mausoleum Wanderer
 1 Supreme Phantom
-1 Fiery Islet
 1 Drogskol Captain
 2 Flooded Strand
 2 Tundra
@@ -115,20 +100,20 @@
 1 Hexdrinker
 1 Collector Ouphe
 2 Misty Rainforest
-2 Tropical Island
 2 Oko, Thief of Crowns
+2 Tropical Island
 2 Noble Hierarch
 2 Daze
 2 Brazen Borrower
 2 Ice-Fang Coatl
 2 Courser of Kruphix
 2 Snow-Covered Forest
-3 Snow-Covered Forest
 3 Ice-Fang Coatl
+3 Snow-Covered Forest
+3 Tropical Island
 3 Wasteland
 3 Courser of Kruphix
 3 Misty Rainforest
-3 Tropical Island
 3 Oko, Thief of Crowns
 3 Brazen Borrower
 3 Noble Hierarch
@@ -137,6 +122,21 @@
 4 Misty Rainforest
 4 Ice-Fang Coatl
 4 Oko, Thief of Crowns
+1 Mountain
+1 Angrath's Rampage
+1 Volcanic Island
+1 Liliana's Triumph
+1 Augur of Bolas
+1 Swamp
+1 Fallen Shinobi
+2 Island
+2 Jace, the Mind Sculptor
+2 Swamp
+2 Augur of Bolas
+3 Kolaghan's Command
+3 Snapcaster Mage
+3 Island
+4 Island
 1 Mox Diamond
 1 Tomik, Distinguished Advokist
 1 Knight of the Reliquary
@@ -160,8 +160,8 @@
 2 Tomik, Distinguished Advokist
 2 Knight of the Reliquary
 2 Sylvan Library
-2 Wooded Foothills
 2 Savannah
+2 Wooded Foothills
 2 Crop Rotation
 2 Plains
 2 Thespian's Stage

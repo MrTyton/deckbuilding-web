@@ -37,8 +37,8 @@
 
 |*n*<sup>th</sup> copy|                                        Maindeck Card                                        |*n*<sup>th</sup> copy|                                      Sideboard Card                                      |
 |--------------------:|---------------------------------------------------------------------------------------------|--------------------:|------------------------------------------------------------------------------------------|
-|                    1|[Collector Ouphe](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464107)   |                    1|[Selfless Spirit](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414332)|
-|                    1|[Eldritch Evolution](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414456)|                    4|[Path to Exile](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220511)  |
+|                    1|[Eldritch Evolution](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414456)|                    1|[Selfless Spirit](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414332)|
+|                    1|[Collector Ouphe](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464107)   |                    4|[Path to Exile](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220511)  |
 |                    2|[Eldritch Evolution](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414456)|                    3|[Path to Exile](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220511)  |
 |                    4|[Noble Hierarch](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=179434)    |                     |                                                                                          |
 

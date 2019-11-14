@@ -59,6 +59,6 @@
 |                     |                                                                                                 |                    1|[Lavinia, Azorius Renegade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457333)   |
 |                     |                                                                                                 |                    2|[Lavinia, Azorius Renegade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457333)   |
 |                     |                                                                                                 |                    2|[Mirran Crusader](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=213802)             |
-|                     |                                                                                                 |                    4|[Collector Ouphe](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464107)             |
 |                     |                                                                                                 |                    3|[Unsettled Mariner](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464165)           |
+|                     |                                                                                                 |                    4|[Collector Ouphe](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464107)             |
 
