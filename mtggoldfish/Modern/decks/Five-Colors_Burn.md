@@ -33,7 +33,7 @@
 
 |*n*<sup>th</sup> copy|Maindeck Card|*n*<sup>th</sup> copy|                                     Sideboard Card                                     |
 |---------------------|-------------|--------------------:|----------------------------------------------------------------------------------------|
+|                     |             |                    2|[Path to Exile](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220511)|
 |                     |             |                    1|[Rain of Gore](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107358) |
 |                     |             |                    1|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)|
-|                     |             |                    2|[Path to Exile](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220511)|
 

@@ -27,6 +27,6 @@
 
 |*n*<sup>th</sup> copy|                                          Maindeck Card                                           |*n*<sup>th</sup> copy|                                     Sideboard Card                                      |
 |--------------------:|--------------------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------|
-|                    1|[Vivien Reid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447344)            |                    1|[Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)|
-|                    1|[Surrak, the Hunt Caller](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394721)|                     |                                                                                         |
+|                    1|[Surrak, the Hunt Caller](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394721)|                    1|[Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)|
+|                    1|[Vivien Reid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447344)            |                     |                                                                                         |
 

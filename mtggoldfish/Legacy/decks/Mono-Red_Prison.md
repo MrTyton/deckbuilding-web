@@ -55,8 +55,8 @@
 |                     |                                                                                                |                    1|[Karn, Scion of Urza](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442889)       |
 |                     |                                                                                                |                    1|[Dead/Gone](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=126419)                 |
 |                     |                                                                                                |                    1|[Tumble Magnet](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397755)             |
-|                     |                                                                                                |                    2|[Trinisphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=43545)                |
 |                     |                                                                                                |                    1|[Eidolon of the Great Revel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442117)|
 |                     |                                                                                                |                    2|[Eidolon of the Great Revel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442117)|
 |                     |                                                                                                |                    3|[Eidolon of the Great Revel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442117)|
+|                     |                                                                                                |                    2|[Trinisphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=43545)                |
 

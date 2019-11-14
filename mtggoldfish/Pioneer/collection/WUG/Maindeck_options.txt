@@ -1,60 +1,9 @@
-1 Temple of Enlightenment
-1 Swamp
-1 Mountain
-1 Ipnu Rivulet
-1 Desert of the Indomitable
-1 Painted Bluffs
-1 Desert of the Mindful
-2 Kenrith, the Returned King
-2 Island
-2 Field of the Dead
-2 Growth Spiral
-2 Golos, Tireless Pilgrim
-2 Hour of Promise
-2 Circuitous Route
-2 Elvish Rejuvenator
-2 Arboreal Grazer
-3 Growth Spiral
-3 Field of the Dead
-3 Circuitous Route
-3 Arboreal Grazer
-3 Hour of Promise
-3 Elvish Rejuvenator
-3 Golos, Tireless Pilgrim
-4 Growth Spiral
-4 Field of the Dead
-4 Circuitous Route
-4 Arboreal Grazer
-4 Hour of Promise
-4 Elvish Rejuvenator
-4 Golos, Tireless Pilgrim
-1 Sunpetal Grove
-2 Sunpetal Grove
-3 Gilded Goose
-4 Gilded Goose
-1 Collected Company
-1 Mana Confluence
-2 Collected Company
-3 Collected Company
-4 Collected Company
-1 Scavenging Ooze
-1 Tamiyo, Field Researcher
-3 Llanowar Elves
-1 Charming Prince
-1 Tireless Tracker
-2 Tireless Tracker
-3 Elvish Mystic
-2 Yavimaya Coast
-1 Reflector Mage
-2 Reflector Mage
-3 Hallowed Fountain
-3 Dromoka's Command
-2 Plains
 1 Spell Queller
 2 Spell Queller
 3 Spell Queller
 4 Spell Queller
 2 Scavenging Ooze
+1 Island
 2 Charming Prince
 3 Charming Prince
 3 Reflector Mage
@@ -70,11 +19,11 @@
 2 Tamiyo, Field Researcher
 3 Yavimaya Coast
 4 Yavimaya Coast
-1 Selfless Spirit
 1 Glacial Fortress
 1 Heart of Kiran
 2 Glacial Fortress
 4 Dromoka's Command
+1 Selfless Spirit
 3 Sunpetal Grove
 3 Fleecemane Lion
 4 Fleecemane Lion
@@ -84,13 +33,13 @@
 2 Selfless Spirit
 3 Vivien, Arkbow Ranger
 1 Ojutai's Command
-1 Simic Charm
 1 Dryad Militant
+1 Simic Charm
 1 Hero of Precinct One
 1 Hydroid Krasis
 1 Flower/Flourish
-1 Armada Wurm
 1 Teferi, Hero of Dominaria
+1 Armada Wurm
 2 Dryad Militant
 2 Hero of Precinct One
 2 Flower/Flourish
@@ -99,64 +48,70 @@
 3 Flower/Flourish
 4 Flower/Flourish
 4 Hero of Precinct One
-1 Prime Speaker Vannifar
-1 Corridor Monitor
-1 Renegade Rallier
-1 Thought-Knot Seer
-1 Eyeless Watcher
-1 Giant Killer
-1 Unclaimed Territory
-1 Biomancer's Familiar
-1 Eldrazi Displacer
-1 Chord of Calling
-1 Shefet Dunes
-2 Thought-Knot Seer
-2 Prime Speaker Vannifar
-2 Eldrazi Displacer
-2 Unclaimed Territory
-2 Shefet Dunes
-2 Giant Killer
-2 Chord of Calling
-3 Prime Speaker Vannifar
-3 Shefet Dunes
-3 Chord of Calling
-3 Unclaimed Territory
-4 Prime Speaker Vannifar
-4 Chord of Calling
-1 Thalia, Heretic Cathar
 1 Nissa, Vastwood Seer
 1 Knight of Autumn
+1 Fabled Passage
+1 Thalia, Heretic Cathar
 1 Jace, Vryn's Prodigy
 2 Courser of Kruphix
 2 Thalia, Heretic Cathar
 2 Knight of Autumn
 2 Fabled Passage
 3 Forest
-3 Deputy of Detention
 3 Knight of Autumn
+3 Deputy of Detention
 3 Fabled Passage
 4 Llanowar Elves
 4 Charming Prince
 4 Deputy of Detention
+1 Once Upon a Time
+1 Prime Speaker Vannifar
+1 Corridor Monitor
+1 Renegade Rallier
+1 Thought-Knot Seer
+1 Eldrazi Displacer
+1 Eyeless Watcher
+1 Giant Killer
+1 Unclaimed Territory
+1 Biomancer's Familiar
+1 Chord of Calling
+1 Shefet Dunes
+2 Once Upon a Time
+2 Prime Speaker Vannifar
+2 Thought-Knot Seer
+2 Eldrazi Displacer
+2 Unclaimed Territory
+2 Shefet Dunes
+2 Giant Killer
+2 Chord of Calling
+3 Once Upon a Time
+3 Prime Speaker Vannifar
+3 Chord of Calling
+3 Shefet Dunes
+3 Unclaimed Territory
+4 Prime Speaker Vannifar
+4 Chord of Calling
+4 Once Upon a Time
 1 Brazen Borrower
+1 Hinterland Harbor
 1 Fortified Village
 2 Hinterland Harbor
 2 Brazen Borrower
 2 Fortified Village
 3 Brazen Borrower
 4 Brazen Borrower
+1 Kytheon, Hero of Akros
 1 Thraben Inspector
 1 Spire of Industry
 1 Gideon Blackblade
-1 Kytheon, Hero of Akros
 1 Toolcraft Exemplar
 1 Gideon, Ally of Zendikar
 1 Smuggler's Copter
 1 Interplanar Beacon
+2 Kytheon, Hero of Akros
 2 Heart of Kiran
 2 Spire of Industry
 2 Thraben Inspector
-2 Kytheon, Hero of Akros
 2 Toolcraft Exemplar
 2 Smuggler's Copter
 2 Gideon, Ally of Zendikar
@@ -165,8 +120,8 @@
 3 Gideon Blackblade
 3 Thraben Inspector
 3 Spire of Industry
-3 Toolcraft Exemplar
 3 Plains
+3 Toolcraft Exemplar
 3 Smuggler's Copter
 4 Thraben Inspector
 4 Smuggler's Copter

@@ -1,61 +1,35 @@
-1 Fanatic of Mogis
-2 Nykthos, Shrine to Nyx
-2 Boros Reckoner
-2 Fanatic of Mogis
-3 Nykthos, Shrine to Nyx
-3 Boros Reckoner
-4 Boros Reckoner
-1 Burning-Tree Emissary
-2 Burning-Tree Emissary
-3 Burning-Tree Emissary
-4 Burning-Tree Emissary
-17 Mountain
-3 Shock
-1 Runaway Steam-Kin
-2 Runaway Steam-Kin
-3 Runaway Steam-Kin
-2 Skewer the Critics
-3 Skewer the Critics
-2 Searing Blood
-1 Bomat Courier
-2 Bomat Courier
-1 Mizzium Mortars
-2 Mizzium Mortars
-3 Mizzium Mortars
-3 Fanatic of Mogis
-4 Fanatic of Mogis
-18 Mountain
-1 Purphoros, God of the Forge
-1 Earthshaker Khenra
-1 Firedrinker Satyr
-2 Earthshaker Khenra
-2 Firedrinker Satyr
-3 Firedrinker Satyr
-4 Firedrinker Satyr
-3 Torbran, Thane of Red Fell
-4 Runaway Steam-Kin
-1 Skullcrack
-2 Skullcrack
-1 Magma Jet
-2 Magma Jet
-3 Castle Embereth
-1 Hazoret the Fervent
-2 Hazoret the Fervent
-3 Bomat Courier
-4 Bomat Courier
-1 Ash Zealot
-2 Ash Zealot
-3 Ash Zealot
-4 Ash Zealot
+4 Soul-Scar Mage
 1 Fanatical Firebrand
 2 Fanatical Firebrand
 3 Fanatical Firebrand
 4 Fanatical Firebrand
-4 Shock
 1 Legion Loyalist
 2 Legion Loyalist
 3 Legion Loyalist
 4 Legion Loyalist
+1 Torbran, Thane of Red Fell
+2 Torbran, Thane of Red Fell
+1 Ash Zealot
+2 Ash Zealot
+3 Ash Zealot
+4 Ash Zealot
+1 Searing Blood
+1 Burning-Tree Emissary
+2 Burning-Tree Emissary
+3 Burning-Tree Emissary
+4 Burning-Tree Emissary
+1 Nykthos, Shrine to Nyx
+1 Fanatic of Mogis
+1 Purphoros, God of the Forge
+1 Boros Reckoner
+2 Nykthos, Shrine to Nyx
+2 Fanatic of Mogis
+2 Boros Reckoner
+3 Nykthos, Shrine to Nyx
+3 Fanatic of Mogis
+3 Boros Reckoner
+4 Fanatic of Mogis
+4 Boros Reckoner
 1 Robber of the Rich
 2 Robber of the Rich
 1 Foundry Street Denizen
@@ -75,11 +49,12 @@
 2 Goblin Rabblemaster
 3 Goblin Rabblemaster
 4 Goblin Rabblemaster
+1 Runaway Steam-Kin
 1 Experimental Frenzy
+2 Runaway Steam-Kin
 2 Experimental Frenzy
-1 Cavalier of Flame
-3 Chandra, Torch of Defiance
-3 Magma Jet
+3 Runaway Steam-Kin
+4 Runaway Steam-Kin
 1 Zurgo Bellstriker
 1 Slaying Fire
 2 Slaying Fire
@@ -87,15 +62,21 @@
 3 Slaying Fire
 3 Robber of the Rich
 4 Robber of the Rich
-3 Searing Blood
-4 Torbran, Thane of Red Fell
+1 Skullcrack
+1 Eidolon of the Great Revel
 1 Rampaging Ferocidon
+2 Skewer the Critics
+2 Skullcrack
+2 Eidolon of the Great Revel
 2 Rampaging Ferocidon
+3 Skewer the Critics
 3 Hazoret the Fervent
 3 Skullcrack
+3 Eidolon of the Great Revel
 3 Rampaging Ferocidon
 4 Skewer the Critics
 4 Skullcrack
+4 Eidolon of the Great Revel
 4 Hazoret the Fervent
 1 Wily Goblin
 1 Magma Spray
@@ -103,23 +84,29 @@
 1 Frostburn Weird
 1 Thunderbreak Regent
 1 Sarkhan, the Dragonspeaker
+1 Mizzium Mortars
 2 Wily Goblin
 2 Magma Spray
-2 Frostburn Weird
 2 Sarkhan, the Dragonspeaker
+2 Frostburn Weird
+2 Mizzium Mortars
 2 Thunderbreak Regent
 2 Glorybringer
-3 Glorybringer
 3 Frostburn Weird
+3 Mizzium Mortars
 3 Wily Goblin
+3 Glorybringer
 4 Glorybringer
 4 Mizzium Mortars
 4 Frostburn Weird
 4 Wily Goblin
 1 Dragon Whisperer
+1 Magma Jet
 1 Rakdos Cackler
 2 Dragon Whisperer
 2 Purphoros, God of the Forge
+2 Searing Blood
+2 Magma Jet
 2 Rakdos Cackler
 3 Dragon Whisperer
 3 Rakdos Cackler
@@ -134,6 +121,7 @@
 3 Goblin Instigator
 3 Dragon Fodder
 4 Castle Embereth
+4 Shock
 4 Stoke the Flames
 4 Goblin Instigator
 4 Reckless Bushwhacker
@@ -143,22 +131,22 @@
 1 Embercleave
 1 Harnessed Lightning
 1 Hanweir Garrison
+1 Reality Smasher
 1 Thought-Knot Seer
 1 Aether Hub
-1 Reality Smasher
 2 Embercleave
 2 Harnessed Lightning
 2 Thought-Knot Seer
 2 Hanweir Garrison
 2 Crumbling Vestige
-2 Reality Smasher
 2 Hanweir Battlements
+2 Reality Smasher
 2 Aether Hub
+3 Hanweir Battlements
 3 Hanweir Garrison
 3 Aether Hub
 3 Reality Smasher
 3 Thought-Knot Seer
-3 Hanweir Battlements
 4 Thought-Knot Seer
 4 Hanweir Garrison
 4 Aether Hub
@@ -179,10 +167,10 @@
 3 Goblin Piledriver
 3 Goblin Ringleader
 3 Goblin Warchief
+4 Smuggler's Copter
 4 Mutavault
 4 Skirk Prospector
 4 Goblin Piledriver
-4 Smuggler's Copter
 4 Goblin Ringleader
 4 Goblin Warchief
 1 Thrill of Possibility

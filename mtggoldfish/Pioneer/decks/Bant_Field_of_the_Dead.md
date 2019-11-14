@@ -69,7 +69,7 @@
 |                     |                                                                                                     |                    2|[Detention Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460139)        |
 |                     |                                                                                                     |                    2|[Blessed Alliance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414302)        |
 |                     |                                                                                                     |                    3|[Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)        |
+|                     |                                                                                                     |                    3|[Disdainful Stroke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420705)       |
 |                     |                                                                                                     |                    4|[Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)        |
 |                     |                                                                                                     |                    4|[Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)                  |
-|                     |                                                                                                     |                    3|[Disdainful Stroke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420705)       |
 

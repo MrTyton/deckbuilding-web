@@ -41,13 +41,13 @@
 5 Forest
 6 Forest
 2 Island
-1 Ghalta, Primal Hunger
 1 Steel Leaf Champion
 1 Rhonas the Indomitable
 1 Surrak, the Hunt Caller
 1 Yorvo, Lord of Garenbrig
-2 Ghalta, Primal Hunger
+1 Ghalta, Primal Hunger
 2 Steel Leaf Champion
+2 Ghalta, Primal Hunger
 2 Yorvo, Lord of Garenbrig
 3 Steel Leaf Champion
 3 Ghalta, Primal Hunger
@@ -188,44 +188,44 @@
 1 Battlefield Forge
 1 Embercleave
 1 Fling
+1 Sigarda's Aid
+1 Swiftblade Vindicator
+1 Colossus Hammer
 1 Open the Armory
 1 All That Glitters
-1 Sigarda's Aid
 1 Gingerbrute
 1 Saheeli, Sublime Artificer
-1 Colossus Hammer
-1 Swiftblade Vindicator
 1 Ancestral Blade
 1 Board the Weatherlight
 1 Ornithopter
 2 Battlefield Forge
+2 Colossus Hammer
+2 Swiftblade Vindicator
+2 Sigarda's Aid
 2 Ancestral Blade
 2 All That Glitters
-2 Colossus Hammer
 2 Saheeli, Sublime Artificer
 2 Ornithopter
 2 Open the Armory
 2 Gingerbrute
-2 Swiftblade Vindicator
-2 Sigarda's Aid
 3 Battlefield Forge
+3 Swiftblade Vindicator
+3 Colossus Hammer
+3 Sigarda's Aid
 3 Ornithopter
 3 Gingerbrute
 3 Open the Armory
-3 Sigarda's Aid
-3 Swiftblade Vindicator
-3 Colossus Hammer
 3 All That Glitters
 3 Mountain
 3 Ancestral Blade
 4 Battlefield Forge
-4 Ornithopter
+4 Swiftblade Vindicator
+4 Colossus Hammer
 4 Sigarda's Aid
+4 Ornithopter
 4 Open the Armory
 4 Ancestral Blade
 4 Gingerbrute
-4 Colossus Hammer
-4 Swiftblade Vindicator
 4 All That Glitters
 1 Castle Locthwain
 1 Hissing Quagmire
@@ -247,24 +247,6 @@
 3 Dromoka's Command
 4 Dromoka's Command
 4 Loxodon Smiter
-1 Enter the Infinite
-1 Fae of Wishes
-1 Borborygmos Enraged
-1 Rosethorn Acolyte
-1 Anticipate
-1 Possibility Storm
-1 Shivan Reef
-2 Possibility Storm
-2 Fae of Wishes
-2 Rosethorn Acolyte
-2 Enter the Infinite
-2 Anticipate
-3 Possibility Storm
-3 Rosethorn Acolyte
-3 Fae of Wishes
-3 Anticipate
-4 Fae of Wishes
-4 Rosethorn Acolyte
 1 Thought-Knot Seer
 1 Reality Smasher
 1 Sea Gate Wreckage
@@ -279,6 +261,24 @@
 3 Blast Zone
 4 Hashep Oasis
 4 Thought-Knot Seer
+1 Fae of Wishes
+1 Rosethorn Acolyte
+1 Anticipate
+1 Possibility Storm
+1 Shivan Reef
+1 Borborygmos Enraged
+1 Enter the Infinite
+2 Fae of Wishes
+2 Rosethorn Acolyte
+2 Anticipate
+2 Enter the Infinite
+2 Possibility Storm
+3 Rosethorn Acolyte
+3 Fae of Wishes
+3 Anticipate
+3 Possibility Storm
+4 Rosethorn Acolyte
+4 Fae of Wishes
 1 Sunpetal Grove
 4 Empyrean Eagle
 1 Azorius Charm
@@ -305,8 +305,8 @@
 2 Glorybringer
 2 Siege Rhino
 2 Sylvan Caryatid
-3 Glorybringer
 3 Kolaghan's Command
+3 Glorybringer
 3 Scavenging Ooze
 3 Sylvan Caryatid
 3 Siege Rhino
@@ -345,24 +345,24 @@
 2 Drowned Catacomb
 2 Steam Vents
 2 Dragonskull Summit
-2 Young Pyromancer
 2 The Royal Scions
 2 Wild Slash
 2 Dreadhorde Arcanist
+2 Young Pyromancer
 2 Jace, Vryn's Prodigy
 3 Opt
 3 Steam Vents
 3 Spirebluff Canal
 3 Blood Crypt
-3 Young Pyromancer
 3 The Royal Scions
+3 Young Pyromancer
 3 Dreadhorde Arcanist
 3 Wild Slash
 4 Opt
 4 Steam Vents
 4 Spirebluff Canal
-4 Young Pyromancer
 4 Blood Crypt
+4 Young Pyromancer
 4 Wild Slash
 4 Dreadhorde Arcanist
 1 Lumbering Falls
@@ -403,19 +403,19 @@
 4 Toolcraft Exemplar
 1 Traverse the Ulvenwald
 1 Grim Flayer
+1 Satyr Wayfinder
 1 Den Protector
 1 Tasigur, the Golden Fang
 1 Scrabbling Claws
 1 Ishkanah, Grafwidow
-1 Satyr Wayfinder
 1 Kalitas, Traitor of Ghet
 1 Whisperwood Elemental
 2 Grim Flayer
+2 Satyr Wayfinder
 2 Treasure Cruise
 2 Assassin's Trophy
 2 Den Protector
 2 Scrabbling Claws
-2 Satyr Wayfinder
 2 Traverse the Ulvenwald
 2 Abrupt Decay
 2 Vraska, Golgari Queen

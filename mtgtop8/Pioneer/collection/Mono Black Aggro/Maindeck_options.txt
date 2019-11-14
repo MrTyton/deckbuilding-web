@@ -13,11 +13,11 @@
 1 Stromkirk Condemned
 1 Sorin, Imperious Bloodlord
 1 Champion of Dusk
+2 Drana, Liberator of Malakir
 2 Champion of Dusk
 2 Stromkirk Condemned
 2 Nykthos, Shrine to Nyx
 2 Sorin, Imperious Bloodlord
-2 Drana, Liberator of Malakir
 3 Sorin, Imperious Bloodlord
 3 Champion of Dusk
 4 Champion of Dusk
@@ -49,11 +49,11 @@
 2 Dread Wanderer
 3 Dread Wanderer
 4 Dread Wanderer
-3 Stromkirk Condemned
-3 Drana, Liberator of Malakir
 1 Gutterbones
 2 Rankle, Master of Pranks
 3 Rankle, Master of Pranks
+3 Stromkirk Condemned
+3 Drana, Liberator of Malakir
 1 Hero's Downfall
 1 Gonti, Lord of Luxury
 1 Transgress the Mind
@@ -77,44 +77,6 @@
 2 Cryptbreaker
 3 Cryptbreaker
 4 Cryptbreaker
-1 Blood Crypt
-1 Foreboding Ruins
-1 Voldaren Pariah
-1 Mountain
-1 Prized Amalgam
-1 Stitcher's Supplier
-1 Lightning Axe
-1 Canyon Slough
-1 Fiery Temper
-1 Bomat Courier
-1 Haunted Dead
-2 Blood Crypt
-2 Foreboding Ruins
-2 Haunted Dead
-2 Bomat Courier
-2 Prized Amalgam
-2 Stitcher's Supplier
-2 Voldaren Pariah
-2 Mountain
-2 Lightning Axe
-2 Fiery Temper
-2 Canyon Slough
-3 Blood Crypt
-3 Haunted Dead
-3 Prized Amalgam
-3 Bomat Courier
-3 Fiery Temper
-3 Stitcher's Supplier
-3 Foreboding Ruins
-3 Lightning Axe
-3 Voldaren Pariah
-4 Voldaren Pariah
-4 Blood Crypt
-4 Fiery Temper
-4 Prized Amalgam
-4 Foreboding Ruins
-4 Stitcher's Supplier
-4 Haunted Dead
 1 Phyrexian Revoker
 2 Phyrexian Revoker
 3 Phyrexian Revoker
@@ -142,24 +104,16 @@
 4 Lord of the Accursed
 4 Diregraf Ghoul
 4 Relentless Dead
-1 Lifebane Zombie
-2 Lifebane Zombie
-2 Collective Brutality
-3 Dread Presence
-4 Dread Presence
-17 Swamp
-18 Swamp
-19 Swamp
 1 Duress
 1 Gurmag Angler
 1 Asylum Visitor
-1 Specter's Shriek
 1 Bile Blight
 1 Fate Unraveler
 1 Bontu's Last Reckoning
 1 Unburden
 1 Shrieking Affliction
 1 Empty the Pits
+1 Specter's Shriek
 2 Asylum Visitor
 2 Bile Blight
 2 Duress
@@ -174,3 +128,49 @@
 4 Davriel, Rogue Shadowmage
 4 Shrieking Affliction
 4 Unburden
+1 Lifebane Zombie
+2 Lifebane Zombie
+2 Collective Brutality
+3 Dread Presence
+4 Dread Presence
+17 Swamp
+18 Swamp
+19 Swamp
+1 Foreboding Ruins
+1 Blood Crypt
+1 Voldaren Pariah
+1 Mountain
+1 Prized Amalgam
+1 Stitcher's Supplier
+1 Lightning Axe
+1 Canyon Slough
+1 Fiery Temper
+1 Bomat Courier
+1 Haunted Dead
+2 Foreboding Ruins
+2 Haunted Dead
+2 Bomat Courier
+2 Prized Amalgam
+2 Blood Crypt
+2 Stitcher's Supplier
+2 Voldaren Pariah
+2 Mountain
+2 Lightning Axe
+2 Fiery Temper
+2 Canyon Slough
+3 Haunted Dead
+3 Prized Amalgam
+3 Bomat Courier
+3 Blood Crypt
+3 Fiery Temper
+3 Stitcher's Supplier
+3 Foreboding Ruins
+3 Lightning Axe
+3 Voldaren Pariah
+4 Voldaren Pariah
+4 Fiery Temper
+4 Prized Amalgam
+4 Foreboding Ruins
+4 Stitcher's Supplier
+4 Haunted Dead
+4 Blood Crypt

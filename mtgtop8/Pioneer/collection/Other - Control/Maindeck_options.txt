@@ -98,8 +98,8 @@
 2 Fae of Wishes
 2 Sacred Foundry
 3 Sacred Foundry
-1 Hero's Downfall
 1 Fatal Push
+1 Hero's Downfall
 2 Hero's Downfall
 2 Fatal Push
 3 Fatal Push
@@ -123,10 +123,10 @@
 2 Once Upon a Time
 3 Once Upon a Time
 1 Gruul Guildgate
+1 Circuitous Route
 1 Simic Guildgate
 1 Izzet Guildgate
 1 Emrakul, the Promised End
-1 Circuitous Route
 2 Circuitous Route
 3 Circuitous Route
 4 Circuitous Route
@@ -136,7 +136,6 @@
 1 Sulfur Falls
 1 Temple of Epiphany
 2 Steam Vents
-4 Field of the Dead
 1 Sylvan Caryatid
 1 Shrine of the Forsaken Gods
 1 Dragonlord Atarka
@@ -146,6 +145,7 @@
 3 Sylvan Caryatid
 3 Dragonlord Atarka
 4 Sylvan Caryatid
+4 Field of the Dead
 1 Sanctum of Ugin
 2 Stomping Ground
 4 Once Upon a Time
@@ -185,30 +185,6 @@
 2 Spell Pierce
 3 Last Breath
 3 Commit / Memory
-1 Orzhov Guildgate
-1 Arboreal Grazer
-1 Golos, Tireless Pilgrim
-1 Rakdos Guildgate
-1 Azorius Guildgate
-1 Tireless Tracker
-1 Golgari Guildgate
-1 Kozilek's Return
-1 Selesnya Guildgate
-1 Dimir Guildgate
-1 Maze's End
-1 Elder Deep-Fiend
-1 Boros Guildgate
-2 Arboreal Grazer
-2 Golos, Tireless Pilgrim
-2 Emrakul, the Promised End
-2 Kozilek's Return
-2 Tireless Tracker
-2 Elder Deep-Fiend
-3 Arboreal Grazer
-3 Golos, Tireless Pilgrim
-3 Kozilek's Return
-4 Arboreal Grazer
-4 Golos, Tireless Pilgrim
 1 Thought Erasure
 1 Isolated Chapel
 2 Thought Erasure
@@ -239,39 +215,38 @@
 3 Yavimaya Coast
 4 Hour of Promise
 4 Yavimaya Coast
-1 Dark Deal
-1 Doom Blade
-1 Ritual of Soot
-1 Notion Thief
-2 Dark Deal
-2 Doom Blade
-2 Geier Reach Sanitarium
-2 Notion Thief
-2 Temple of Deceit
-2 Ritual of Soot
-3 Swamp
-3 Dark Deal
-3 Temple of Deceit
-3 Geier Reach Sanitarium
-3 Doom Blade
-3 Notion Thief
-3 Cast Down
-3 Ritual of Soot
-4 Notion Thief
-4 Doom Blade
-4 Day's Undoing
-4 Dark Deal
-4 Cast Down
-4 Temple of Deceit
-4 Swamp
+1 Orzhov Guildgate
+1 Arboreal Grazer
+1 Golos, Tireless Pilgrim
+1 Rakdos Guildgate
+1 Azorius Guildgate
+1 Tireless Tracker
+1 Golgari Guildgate
+1 Kozilek's Return
+1 Elder Deep-Fiend
+1 Selesnya Guildgate
+1 Dimir Guildgate
+1 Maze's End
+1 Boros Guildgate
+2 Arboreal Grazer
+2 Golos, Tireless Pilgrim
+2 Emrakul, the Promised End
+2 Kozilek's Return
+2 Elder Deep-Fiend
+2 Tireless Tracker
+3 Arboreal Grazer
+3 Golos, Tireless Pilgrim
+3 Kozilek's Return
+4 Arboreal Grazer
+4 Golos, Tireless Pilgrim
 1 Drown in the Loch
 1 Quench
 1 Cry of the Carnarium
 1 Liliana's Triumph
+1 Mutavault
 1 Ob Nixilis's Cruelty
 1 Urborg, Tomb of Yawgmoth
 1 Liliana, the Last Hope
-1 Mutavault
 1 Clash of Wills
 1 Castle Locthwain
 1 Jace, Vryn's Prodigy
@@ -288,19 +263,19 @@
 4 Jace, Vryn's Prodigy
 4 Fatal Push
 1 Nicol Bolas, Dragon-God
-1 Oath of Teferi
-1 Deafening Clarion
-1 Heart of Kiran
 1 Clifftop Retreat
+1 Oath of Teferi
+1 Heart of Kiran
+1 Deafening Clarion
 1 Nicol Bolas, God-Pharaoh
 1 Fires of Invention
 1 Temple of Triumph
 1 Interplanar Beacon
 1 Drawn from Dreams
 2 Oko, Thief of Crowns
-2 Heart of Kiran
 2 Nicol Bolas, Dragon-God
 2 Deafening Clarion
+2 Heart of Kiran
 2 Fires of Invention
 2 Temple of Triumph
 2 Interplanar Beacon
@@ -313,7 +288,33 @@
 3 Interplanar Beacon
 4 Interplanar Beacon
 4 Fires of Invention
+1 Ritual of Soot
+1 Dark Deal
+1 Doom Blade
+1 Notion Thief
+2 Ritual of Soot
+2 Temple of Deceit
+2 Notion Thief
+2 Geier Reach Sanitarium
+2 Doom Blade
+2 Dark Deal
+3 Doom Blade
+3 Dark Deal
+3 Swamp
+3 Temple of Deceit
+3 Ritual of Soot
+3 Geier Reach Sanitarium
+3 Notion Thief
+3 Cast Down
+4 Cast Down
+4 Dark Deal
+4 Day's Undoing
+4 Doom Blade
+4 Swamp
+4 Temple of Deceit
+4 Notion Thief
 1 Botanical Sanctum
+1 Game Trail
 1 Scapeshift
 1 Spirebluff Canal
 1 Hammer of Purphoros
@@ -322,7 +323,6 @@
 1 Shivan Reef
 1 Sheltered Thicket
 1 Pieces of the Puzzle
-1 Game Trail
 1 Splendid Reclamation
 1 Magmatic Insight
 1 Radiant Flames
@@ -354,8 +354,8 @@
 2 World Breaker
 2 Llanowar Elves
 2 Elvish Mystic
-3 Castle Garenbrig
 3 Nissa's Pilgrimage
+3 Castle Garenbrig
 3 Explosive Vegetation
 3 Ulvenwald Hydra
 3 Stomping Ground

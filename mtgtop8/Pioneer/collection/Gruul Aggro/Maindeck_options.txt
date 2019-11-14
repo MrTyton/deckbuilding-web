@@ -38,12 +38,12 @@
 4 Worldspine Wurm
 4 Champion of Rhonas
 4 Ilharg, the Raze-Boar
+1 Atarka's Command
 1 Zurgo Bellstriker
 1 Reckless Bushwhacker
-1 Atarka's Command
+2 Atarka's Command
 2 Zurgo Bellstriker
 2 Reckless Bushwhacker
-2 Atarka's Command
 3 Atarka's Command
 4 Atarka's Command
 1 Temur Battle Rage
@@ -92,37 +92,37 @@
 2 Managorger Hydra
 2 Kessig Prowler
 2 Syr Faren, the Hengehammer
-2 Yorvo, Lord of Garenbrig
 2 Aspect of Hydra
+2 Yorvo, Lord of Garenbrig
 2 Domri's Ambush
 3 Syr Faren, the Hengehammer
 3 Yorvo, Lord of Garenbrig
+1 Hazoret the Fervent
+1 Legion Warboss
+2 Hazoret the Fervent
+2 Legion Warboss
+3 Embercleave
+3 Legion Warboss
+4 Legion Warboss
 1 Sweltering Suns
 1 Cinder Glade
-1 Sylvan Caryatid
 1 Hanweir Battlements
+1 Sylvan Caryatid
 1 Combustible Gearhulk
 1 See the Unwritten
-2 Surrak, the Hunt Caller
 2 Sweltering Suns
 2 Sylvan Caryatid
 2 Hanweir Battlements
 2 Combustible Gearhulk
 2 See the Unwritten
 2 Cinder Glade
+2 Surrak, the Hunt Caller
 3 Cinder Glade
 3 Sylvan Caryatid
 3 Hanweir Battlements
 3 Combustible Gearhulk
 4 Cinder Glade
 4 Sylvan Caryatid
-1 Legion Warboss
-1 Hazoret the Fervent
-2 Hazoret the Fervent
-2 Legion Warboss
-3 Embercleave
-3 Legion Warboss
-4 Legion Warboss
 1 Growth-Chamber Guardian
 1 Mutavault
 1 Oath of Nissa
@@ -135,9 +135,9 @@
 2 Chandra, Torch of Defiance
 2 Tireless Tracker
 2 Mutavault
-3 Domri, Anarch of Bolas
 3 Growth-Chamber Guardian
 3 Oath of Nissa
+3 Domri, Anarch of Bolas
 3 Chandra, Torch of Defiance
 3 Tireless Tracker
 4 Growth-Chamber Guardian
@@ -174,8 +174,8 @@
 4 Dragonlord Atarka
 4 Paradise Druid
 1 Harnessed Lightning
-1 Attune with Aether
 1 Collision / Colossus
+1 Attune with Aether
 1 Aether Hub
 1 Fling
 1 Longtusk Cub
@@ -217,10 +217,10 @@
 2 Courser of Kruphix
 2 Domri Rade
 3 Domri Rade
-3 Glorybringer
 3 Courser of Kruphix
+3 Glorybringer
 4 Domri Rade
-4 Glorybringer
 4 Courser of Kruphix
 4 Questing Beast
+4 Glorybringer
 9 Forest
