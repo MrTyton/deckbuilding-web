@@ -33,17 +33,17 @@
 1 Hexdrinker
 1 Urborg, Tomb of Yawgmoth
 1 Rankle, Master of Pranks
+1 Castle Locthwain
 1 Tireless Tracker
 1 Stubborn Denial
 1 Collective Brutality
 1 Scavenging Ooze
-1 Castle Locthwain
 2 Hexdrinker
 2 Collective Brutality
 2 Stubborn Denial
 3 Creeping Tar Pit
-3 Assassin's Trophy
 3 Inquisition of Kozilek
+3 Assassin's Trophy
 4 Inquisition of Kozilek
 1 Vendilion Clique
 1 Torrential Gearhulk
@@ -52,8 +52,8 @@
 2 Abrupt Decay
 3 Opt
 3 Verdant Catacombs
-4 Verdant Catacombs
 4 Opt
+4 Verdant Catacombs
 2 Snow-Covered Forest
 1 Liliana of the Veil
 1 Blast Zone
@@ -63,9 +63,9 @@
 2 Prismatic Vista
 2 Liliana of the Veil
 2 Karn, the Great Creator
+3 Prismatic Vista
 3 Liliana of the Veil
 3 Force of Negation
-3 Prismatic Vista
 4 Force of Negation
 4 Ice-Fang Coatl
 1 Elvish Clancaller
@@ -92,6 +92,7 @@
 2 Lead the Stampede
 2 Shaman of the Pack
 2 Elvish Mystic
+2 Gilt-Leaf Palace
 2 Elvish Archdruid
 2 Heritage Druid
 2 Unclaimed Territory
@@ -99,7 +100,6 @@
 2 Nettle Sentinel
 2 Dwynen's Elite
 2 Chord of Calling
-2 Gilt-Leaf Palace
 3 Collected Company
 3 Snow-Covered Forest
 3 Elvish Clancaller
@@ -113,8 +113,8 @@
 3 Elvish Archdruid
 3 Nettle Sentinel
 4 Snow-Covered Forest
-4 Elvish Clancaller
 4 Blooming Marsh
+4 Elvish Clancaller
 4 Collected Company
 4 Heritage Druid
 4 Llanowar Elves

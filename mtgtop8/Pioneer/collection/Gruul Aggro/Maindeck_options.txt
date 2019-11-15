@@ -49,11 +49,11 @@
 1 Temur Battle Rage
 2 Temur Battle Rage
 1 Voltaic Brawler
-1 Abbot of Keral Keep
 1 Foundry Street Denizen
+1 Abbot of Keral Keep
 1 Dragon Fodder
-1 Lightning Strike
 1 Stoke the Flames
+1 Lightning Strike
 1 Eidolon of the Great Revel
 1 Light Up the Stage
 1 Hordeling Outburst
@@ -69,14 +69,14 @@
 2 Lightning Strike
 2 Skewer the Critics
 3 Dragon Fodder
+3 Stoke the Flames
 3 Eidolon of the Great Revel
 3 Monastery Swiftspear
-3 Stoke the Flames
 3 Lightning Strike
+4 Stoke the Flames
 4 Dragon Fodder
 4 Eidolon of the Great Revel
 4 Lightning Strike
-4 Stoke the Flames
 4 Monastery Swiftspear
 7 Mountain
 8 Mountain
@@ -92,43 +92,43 @@
 2 Managorger Hydra
 2 Kessig Prowler
 2 Syr Faren, the Hengehammer
-2 Aspect of Hydra
 2 Yorvo, Lord of Garenbrig
+2 Aspect of Hydra
 2 Domri's Ambush
 3 Syr Faren, the Hengehammer
 3 Yorvo, Lord of Garenbrig
 1 Hazoret the Fervent
 1 Legion Warboss
-2 Hazoret the Fervent
 2 Legion Warboss
+2 Hazoret the Fervent
 3 Embercleave
 3 Legion Warboss
 4 Legion Warboss
+1 Hanweir Battlements
 1 Sweltering Suns
 1 Cinder Glade
-1 Hanweir Battlements
 1 Sylvan Caryatid
 1 Combustible Gearhulk
 1 See the Unwritten
+2 Hanweir Battlements
+2 Surrak, the Hunt Caller
 2 Sweltering Suns
 2 Sylvan Caryatid
-2 Hanweir Battlements
 2 Combustible Gearhulk
 2 See the Unwritten
 2 Cinder Glade
-2 Surrak, the Hunt Caller
 3 Cinder Glade
-3 Sylvan Caryatid
 3 Hanweir Battlements
+3 Sylvan Caryatid
 3 Combustible Gearhulk
 4 Cinder Glade
 4 Sylvan Caryatid
 1 Growth-Chamber Guardian
 1 Mutavault
-1 Oath of Nissa
 1 Tireless Tracker
 1 Domri, Anarch of Bolas
 1 Chandra, Torch of Defiance
+1 Oath of Nissa
 2 Growth-Chamber Guardian
 2 Oath of Nissa
 2 Domri, Anarch of Bolas
@@ -143,6 +143,17 @@
 4 Growth-Chamber Guardian
 4 Oath of Nissa
 4 Chandra, Torch of Defiance
+1 Paradise Druid
+1 Dragonlord Atarka
+1 Vivien Reid
+1 Temple of Abandon
+2 Paradise Druid
+2 Dragonlord Atarka
+2 Temple of Abandon
+3 Dragonlord Atarka
+3 Paradise Druid
+4 Paradise Druid
+4 Dragonlord Atarka
 1 Pelt Collector
 1 Experiment One
 1 Burning-Tree Emissary
@@ -162,40 +173,29 @@
 4 Pelt Collector
 4 Burning-Tree Emissary
 4 Zhur-Taa Goblin
-1 Paradise Druid
-1 Dragonlord Atarka
-1 Vivien Reid
-1 Temple of Abandon
-2 Paradise Druid
-2 Dragonlord Atarka
-2 Temple of Abandon
-3 Dragonlord Atarka
-3 Paradise Druid
-4 Dragonlord Atarka
-4 Paradise Druid
-1 Harnessed Lightning
-1 Collision / Colossus
-1 Attune with Aether
-1 Aether Hub
 1 Fling
+1 Maximize Velocity
+1 Collision / Colossus
+1 Aether Hub
+1 Harnessed Lightning
+1 Attune with Aether
+1 Become Immense
 1 Longtusk Cub
 1 Electrostatic Pummeler
 1 Bristling Hydra
-1 Maximize Velocity
-1 Become Immense
 2 Collision / Colossus
-2 Attune with Aether
-2 Harnessed Lightning
 2 Aether Hub
+2 Harnessed Lightning
+2 Attune with Aether
 2 Become Immense
 2 Longtusk Cub
 2 Voltaic Brawler
 2 Electrostatic Pummeler
 2 Bristling Hydra
 2 Maximize Velocity
+3 Aether Hub
 3 Harnessed Lightning
 3 Attune with Aether
-3 Aether Hub
 3 Collision / Colossus
 3 Bristling Hydra
 3 Temur Battle Rage
@@ -204,10 +204,10 @@
 3 Electrostatic Pummeler
 3 Voltaic Brawler
 4 Collision / Colossus
-4 Harnessed Lightning
-4 Aether Hub
-4 Attune with Aether
 4 Blossoming Defense
+4 Harnessed Lightning
+4 Attune with Aether
+4 Aether Hub
 4 Electrostatic Pummeler
 4 Voltaic Brawler
 4 Longtusk Cub

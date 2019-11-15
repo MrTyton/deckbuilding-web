@@ -26,10 +26,10 @@
 |--------------------:|-----------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------|
 |                    3|[Warlord's Fury](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443039)|                    1|[Searing Blood](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=378483) |
 |                    4|[Warlord's Fury](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443039)|                    1|[Pithing Needle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129526)|
-|                   17|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)      |                    2|[Pithing Needle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129526)|
-|                   18|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)      |                    2|[Searing Blood](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=378483) |
-|                     |                                                                                         |                    3|[Pithing Needle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129526)|
+|                   17|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)      |                    2|[Searing Blood](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=378483) |
+|                   18|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)      |                    2|[Pithing Needle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129526)|
 |                     |                                                                                         |                    3|[Searing Blood](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=378483) |
+|                     |                                                                                         |                    3|[Pithing Needle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129526)|
 |                     |                                                                                         |                    4|[Searing Blood](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=378483) |
 |                     |                                                                                         |                    4|[Roast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394667)         |
 

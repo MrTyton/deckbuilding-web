@@ -1,7 +1,7 @@
 # Artifact Echo
 
 #### [Export MTGO List](../collection/Artifact%20Echo/Artifact%20Echo.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=2%09Ancient%20Tomb%0A4%09Chalice%20of%20the%20Void%0A2%09City%20of%20Traitors%0A4%09Echo%20of%20Eons%0A4%09Emry,%20Lurker%20of%20the%20Loch%0A4%09Karn,%20the%20Great%20Creator%0A3%09Lion's%20Eye%20Diamond%0A4%09Lotus%20Petal%0A4%09Mishra's%20Bauble%0A4%09Mox%20Opal%0A4%09Narset,%20Parter%20of%20Veils%0A4%09Seat%20of%20the%20Synod%0A9%09Snow-Covered%20Island%0A4%09Urza's%20Bauble%0A4%09Urza,%20Lord%20High%20Artificer&deckside=2%09Defense%20Grid%0A3%09Ensnaring%20Bridge%0A2%09Faerie%20Macabre%0A1%09Lion's%20Eye%20Diamond%0A1%09Liquimetal%20Coating%0A1%09Mycosynth%20Lattice%0A1%09Sorcerous%20Spyglass%0A1%09Tormod's%20Crypt%0A1%09Walking%20Ballista%0A1%09Witchbane%20Orb%0A1%09Wurmcoil%20Engine)
+#### [Print on decklist.org](http://decklist.org/?deckmain=2%09Ancient%20Tomb%0A4%09Chalice%20of%20the%20Void%0A2%09City%20of%20Traitors%0A4%09Echo%20of%20Eons%0A4%09Emry,%20Lurker%20of%20the%20Loch%0A4%09Karn,%20the%20Great%20Creator%0A3%09Lion's%20Eye%20Diamond%0A4%09Lotus%20Petal%0A4%09Mishra's%20Bauble%0A4%09Mox%20Opal%0A4%09Narset,%20Parter%20of%20Veils%0A4%09Seat%20of%20the%20Synod%0A9%09Snow-Covered%20Island%0A4%09Urza's%20Bauble%0A4%09Urza,%20Lord%20High%20Artificer&deckside=2%09Defense%20Grid%0A1%09Ensnaring%20Bridge%0A2%09Flusterstorm%0A1%09Lion's%20Eye%20Diamond%0A1%09Liquimetal%20Coating%0A1%09Mycosynth%20Lattice%0A1%09Mystic%20Forge%0A2%09Mystical%20Dispute%0A1%09Tormod's%20Crypt%0A1%09Walking%20Ballista%0A1%09Witchbane%20Orb%0A1%09Wurmcoil%20Engine)
 # Maindeck
 
 |                                         Artifact (23)                                          |                                             Creature (8)                                             |                                           Land (17)                                            |                                          Planeswalker (8)                                          |                                       Sorcery (4)                                       |
@@ -16,25 +16,25 @@
 
 # Sideboard
 
-|                                         Artifact (11)                                         |                                        Creature (4)                                         |
-|-----------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|
-|2 [Defense Grid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45481)       |2 [Faerie Macabre](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=201822)  |
-|3 [Ensnaring Bridge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=15866)   |1 [Walking Ballista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423848)|
-|1 [Lion's Eye Diamond](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3255)  |1 [Wurmcoil Engine](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389756) |
-|1 [Liquimetal Coating](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389578)|                                                                                             |
-|1 [Mycosynth Lattice](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446209) |                                                                                             |
-|1 [Sorcerous Spyglass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435407)|                                                                                             |
-|1 [Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)    |                                                                                             |
-|1 [Witchbane Orb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=233240)     |                                                                                             |
+|                                         Artifact (9)                                          |                                        Creature (2)                                         |                                         Instant (4)                                         |
+|-----------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|
+|2 [Defense Grid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45481)       |1 [Walking Ballista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423848)|2 [Flusterstorm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=228255)    |
+|1 [Ensnaring Bridge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=15866)   |1 [Wurmcoil Engine](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389756) |2 [Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)|
+|1 [Lion's Eye Diamond](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3255)  |                                                                                             |                                                                                             |
+|1 [Liquimetal Coating](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389578)|                                                                                             |                                                                                             |
+|1 [Mycosynth Lattice](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446209) |                                                                                             |                                                                                             |
+|1 [Mystic Forge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466987)      |                                                                                             |                                                                                             |
+|1 [Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)    |                                                                                             |                                                                                             |
+|1 [Witchbane Orb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=233240)     |                                                                                             |                                                                                             |
 
 
 # Other Options
 
-|*n*<sup>th</sup> copy|Maindeck Card|*n*<sup>th</sup> copy|                                      Sideboard Card                                       |
-|---------------------|-------------|--------------------:|-------------------------------------------------------------------------------------------|
-|                     |             |                    1|[Mystic Forge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466987)    |
-|                     |             |                    1|[Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)|
-|                     |             |                    2|[Flusterstorm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=228255)    |
-|                     |             |                    2|[Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)|
-|                     |             |                    1|[Flusterstorm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=228255)    |
+|*n*<sup>th</sup> copy|Maindeck Card|*n*<sup>th</sup> copy|                                       Sideboard Card                                        |
+|---------------------|-------------|--------------------:|---------------------------------------------------------------------------------------------|
+|                     |             |                    1|[Faerie Macabre](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=201822)    |
+|                     |             |                    1|[Sorcerous Spyglass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435407)|
+|                     |             |                    2|[Faerie Macabre](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=201822)    |
+|                     |             |                    2|[Ensnaring Bridge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=15866)   |
+|                     |             |                    3|[Ensnaring Bridge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=15866)   |
 

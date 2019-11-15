@@ -1,9 +1,9 @@
-1 Mountain
-1 Faerie Macabre
+2 Swamp
 1 Snow-Covered Forest
 1 Snow-Covered Swamp
 2 Snow-Covered Swamp
 1 Nurturing Peatland
+1 Faerie Macabre
 2 Faerie Macabre
 2 Bloodstained Mire
 3 Bloodstained Mire
@@ -14,11 +14,6 @@
 2 Wooded Foothills
 3 Wooded Foothills
 4 Wooded Foothills
-1 Valley Rannet
-1 Copperline Gorge
-2 Copperline Gorge
-3 Copperline Gorge
-4 Copperline Gorge
 1 Spirebluff Canal
 1 Striped Riverwinder
 1 Curator of Mysteries
@@ -29,8 +24,8 @@
 2 Spirebluff Canal
 3 Striped Riverwinder
 3 Curator of Mysteries
-4 Striped Riverwinder
 4 Curator of Mysteries
+4 Striped Riverwinder
 1 Island
 1 Force of Negation
 2 Force of Negation
@@ -74,11 +69,8 @@
 4 Electrodominance
 4 Spirebluff Canal
 4 Scalding Tarn
+1 Valley Rannet
 1 Twisted Abomination
-1 Jund Charm
-1 Kari Zev's Expertise
-1 Dryad Arbor
-2 Jund Charm
 1 Shriekmaw
 2 Shriekmaw
 1 Leyline of Sanctity
@@ -111,9 +103,13 @@
 3 Steam Vents
 4 Misty Rainforest
 4 Arid Mesa
+1 Copperline Gorge
 1 Seasoned Pyromancer
+2 Copperline Gorge
 2 Seasoned Pyromancer
+3 Copperline Gorge
 3 Seasoned Pyromancer
+4 Copperline Gorge
 4 Seasoned Pyromancer
 1 Remand
 1 Cryptic Command

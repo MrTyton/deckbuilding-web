@@ -35,22 +35,22 @@
 3 Narset, Parter of Veils
 2 Detention Sphere
 1 Torrential Gearhulk
+1 Field of the Dead
+2 Field of the Dead
 1 Jace, Architect of Thought
 1 Dovin's Veto
 1 Castle Ardenvale
-1 Field of the Dead
-2 Field of the Dead
 1 Censor
 1 Absorb
 2 Absorb
 4 Azorius Charm
 1 Commit / Memory
-1 Drowned Catacomb
 1 Thoughtseize
 1 Swamp
+2 Thoughtseize
+1 Drowned Catacomb
 1 Watery Grave
 2 Drowned Catacomb
-2 Thoughtseize
 2 Watery Grave
 3 Watery Grave
 4 Watery Grave
@@ -58,11 +58,14 @@
 1 Chart a Course
 2 Temple of Enlightenment
 1 Day's Undoing
+3 Thoughtseize
+4 Thoughtseize
 1 Blessed Alliance
 2 Blessed Alliance
 1 Seal Away
 1 Cast Out
 2 Cast Out
+2 Swamp
 4 Plains
 5 Plains
 1 Spell Pierce
@@ -83,52 +86,49 @@
 1 Approach of the Second Sun
 1 Hieroglyphic Illumination
 2 Hieroglyphic Illumination
-3 Thoughtseize
-4 Thoughtseize
 1 Negate
-2 Swamp
+1 Fatal Push
+2 Fatal Push
+1 Cast Down
+2 Cast Down
 1 Oath of Kaya
 1 Shambling Vent
 2 Shambling Vent
-1 Mountain
 1 Oko, Thief of Crowns
 2 Jace, Architect of Thought
+1 Mountain
 1 Fae of Wishes
 1 Sacred Foundry
-2 Fae of Wishes
 2 Sacred Foundry
+2 Fae of Wishes
 3 Sacred Foundry
-1 Fatal Push
 1 Hero's Downfall
 2 Hero's Downfall
-2 Fatal Push
 3 Fatal Push
+1 Languish
 1 Fetid Pools
-1 Cast Down
-2 Cast Down
 2 Day's Undoing
 3 Day's Undoing
 4 Narset, Parter of Veils
+1 Hour of Promise
+1 Steam Vents
 1 Temple of Deceit
-1 Languish
 3 Drowned Catacomb
 4 Drowned Catacomb
-1 Steam Vents
 1 Stomping Ground
-1 Hour of Promise
 3 Field of the Dead
+1 Izzet Guildgate
+1 Simic Guildgate
+1 Circuitous Route
+1 Gruul Guildgate
+1 Emrakul, the Promised End
 1 Castle Garenbrig
 1 Ulamog, the Ceaseless Hunger
 1 Once Upon a Time
-2 Once Upon a Time
-3 Once Upon a Time
-1 Gruul Guildgate
-1 Circuitous Route
-1 Simic Guildgate
-1 Izzet Guildgate
-1 Emrakul, the Promised End
 2 Circuitous Route
+2 Once Upon a Time
 3 Circuitous Route
+3 Once Upon a Time
 4 Circuitous Route
 1 Yavimaya Coast
 2 Hour of Promise
@@ -136,26 +136,14 @@
 1 Sulfur Falls
 1 Temple of Epiphany
 2 Steam Vents
-1 Sylvan Caryatid
-1 Shrine of the Forsaken Gods
-1 Dragonlord Atarka
-2 Sylvan Caryatid
-2 Dragonlord Atarka
-2 Castle Garenbrig
-3 Sylvan Caryatid
-3 Dragonlord Atarka
-4 Sylvan Caryatid
 4 Field of the Dead
-1 Sanctum of Ugin
-2 Stomping Ground
-4 Once Upon a Time
+2 Chart a Course
 1 Planar Cleansing
 2 Planar Cleansing
+2 Lumbering Falls
 1 Settle the Wreckage
 2 Seal Away
 2 Settle the Wreckage
-2 Chart a Course
-2 Lumbering Falls
 1 Sorin, Solemn Visitor
 1 Concealed Courtyard
 1 Gideon, Ally of Zendikar
@@ -181,78 +169,92 @@
 2 Mystic Sanctuary
 2 Sinister Sabotage
 2 Last Breath
-2 Commit / Memory
 2 Spell Pierce
+2 Commit / Memory
 3 Last Breath
 3 Commit / Memory
+1 Urborg, Tomb of Yawgmoth
+3 Swamp
+4 Swamp
 1 Thought Erasure
 1 Isolated Chapel
 2 Thought Erasure
-2 Isolated Chapel
 2 Oath of Kaya
+2 Isolated Chapel
 3 Teferi, Hero of Dominaria
+3 Detention Sphere
 3 Thought Erasure
 3 Oath of Kaya
-3 Detention Sphere
 4 Detention Sphere
-1 Gideon of the Trials
-2 Disallow
-3 Disallow
-3 Temple of Enlightenment
-4 Teferi, Time Raveler
+1 Sylvan Caryatid
 1 Scavenger Grounds
 1 Ugin, the Spirit Dragon
+1 Shrine of the Forsaken Gods
 1 Hydroid Krasis
 1 Sylvan Primordial
+1 Dragonlord Atarka
 1 Chandra, Flamecaller
 2 Ugin, the Spirit Dragon
+2 Sylvan Caryatid
 2 Hydroid Krasis
+2 Dragonlord Atarka
 2 Chandra, Flamecaller
 2 Sylvan Primordial
+2 Castle Garenbrig
 2 Yavimaya Coast
 3 Ugin, the Spirit Dragon
+3 Sylvan Caryatid
 3 Sylvan Primordial
+3 Dragonlord Atarka
 3 Yavimaya Coast
 4 Hour of Promise
+4 Sylvan Caryatid
 4 Yavimaya Coast
-1 Orzhov Guildgate
-1 Arboreal Grazer
 1 Golos, Tireless Pilgrim
-1 Rakdos Guildgate
-1 Azorius Guildgate
+1 Arboreal Grazer
+1 Sanctum of Ugin
 1 Tireless Tracker
+1 Maze's End
+1 Boros Guildgate
+1 Dimir Guildgate
+1 Selesnya Guildgate
 1 Golgari Guildgate
 1 Kozilek's Return
 1 Elder Deep-Fiend
-1 Selesnya Guildgate
-1 Dimir Guildgate
-1 Maze's End
-1 Boros Guildgate
-2 Arboreal Grazer
+1 Azorius Guildgate
+1 Rakdos Guildgate
+1 Orzhov Guildgate
 2 Golos, Tireless Pilgrim
-2 Emrakul, the Promised End
+2 Arboreal Grazer
+2 Stomping Ground
 2 Kozilek's Return
 2 Elder Deep-Fiend
 2 Tireless Tracker
+2 Emrakul, the Promised End
 3 Arboreal Grazer
 3 Golos, Tireless Pilgrim
 3 Kozilek's Return
 4 Arboreal Grazer
 4 Golos, Tireless Pilgrim
+4 Once Upon a Time
+1 Gideon of the Trials
+2 Disallow
+3 Disallow
+3 Temple of Enlightenment
+4 Teferi, Time Raveler
 1 Drown in the Loch
 1 Quench
-1 Cry of the Carnarium
 1 Liliana's Triumph
-1 Mutavault
 1 Ob Nixilis's Cruelty
-1 Urborg, Tomb of Yawgmoth
 1 Liliana, the Last Hope
+1 Mutavault
+1 Cry of the Carnarium
 1 Clash of Wills
 1 Castle Locthwain
 1 Jace, Vryn's Prodigy
 1 Kalitas, Traitor of Ghet
-2 Quench
 2 Drown in the Loch
+2 Quench
 2 Kalitas, Traitor of Ghet
 2 Liliana's Triumph
 2 Liliana, the Last Hope
@@ -265,9 +267,9 @@
 1 Nicol Bolas, Dragon-God
 1 Clifftop Retreat
 1 Oath of Teferi
-1 Heart of Kiran
 1 Deafening Clarion
 1 Nicol Bolas, God-Pharaoh
+1 Heart of Kiran
 1 Fires of Invention
 1 Temple of Triumph
 1 Interplanar Beacon
@@ -282,56 +284,54 @@
 2 Drawn from Dreams
 2 Oath of Teferi
 2 Temple of Epiphany
-3 Fae of Wishes
 3 Deafening Clarion
+3 Fae of Wishes
 3 Fires of Invention
 3 Interplanar Beacon
 4 Interplanar Beacon
 4 Fires of Invention
-1 Ritual of Soot
 1 Dark Deal
 1 Doom Blade
+1 Ritual of Soot
 1 Notion Thief
+2 Dark Deal
+2 Notion Thief
+2 Doom Blade
 2 Ritual of Soot
 2 Temple of Deceit
-2 Notion Thief
 2 Geier Reach Sanitarium
-2 Doom Blade
-2 Dark Deal
-3 Doom Blade
 3 Dark Deal
-3 Swamp
-3 Temple of Deceit
-3 Ritual of Soot
 3 Geier Reach Sanitarium
+3 Doom Blade
 3 Notion Thief
 3 Cast Down
-4 Cast Down
-4 Dark Deal
-4 Day's Undoing
-4 Doom Blade
-4 Swamp
-4 Temple of Deceit
+3 Ritual of Soot
+3 Temple of Deceit
 4 Notion Thief
+4 Day's Undoing
+4 Dark Deal
+4 Cast Down
+4 Doom Blade
+4 Temple of Deceit
 1 Botanical Sanctum
-1 Game Trail
 1 Scapeshift
 1 Spirebluff Canal
+1 Radiant Flames
 1 Hammer of Purphoros
 1 Temple of Mystery
 1 Izzet Charm
 1 Shivan Reef
 1 Sheltered Thicket
 1 Pieces of the Puzzle
+1 Game Trail
 1 Splendid Reclamation
 1 Magmatic Insight
-1 Radiant Flames
 1 Rootbound Crag
-2 Mountain
 2 Scapeshift
+2 Radiant Flames
+2 Mountain
 2 Magmatic Insight
 2 Splendid Reclamation
-2 Radiant Flames
 2 Izzet Charm
 2 Pieces of the Puzzle
 3 Pieces of the Puzzle
@@ -340,39 +340,41 @@
 4 Pieces of the Puzzle
 4 Magmatic Insight
 4 Splendid Reclamation
-1 Nissa's Pilgrimage
-1 Explosive Vegetation
-1 Ulvenwald Hydra
-1 Sea Gate Wreckage
-1 World Breaker
-1 Llanowar Elves
-1 Elvish Mystic
-2 Nissa's Pilgrimage
-2 Sanctum of Ugin
-2 Ulvenwald Hydra
-2 Explosive Vegetation
-2 World Breaker
-2 Llanowar Elves
-2 Elvish Mystic
-3 Nissa's Pilgrimage
-3 Castle Garenbrig
-3 Explosive Vegetation
-3 Ulvenwald Hydra
-3 Stomping Ground
-3 World Breaker
-3 Sanctum of Ugin
-3 Llanowar Elves
-3 Elvish Mystic
-3 Forest
-4 Castle Garenbrig
-4 Nissa's Pilgrimage
-4 World Breaker
-4 Explosive Vegetation
-4 Sanctum of Ugin
-4 Elvish Mystic
-4 Forest
-4 Llanowar Elves
-5 Forest
-6 Forest
-7 Forest
-8 Forest
+1 Dark Petition
+1 Reliquary Tower
+1 Hissing Quagmire
+1 Mastermind's Acquisition
+1 Arch of Orazca
+1 Blooming Marsh
+1 Llanowar Wastes
+1 Overgrown Tomb
+1 The Elderspell
+1 Walking Ballista
+1 Murderous Rider
+1 Woodland Cemetery
+1 Assassin's Trophy
+1 Bontu's Last Reckoning
+1 Nissa's Renewal
+1 Read the Bones
+1 Temple of Malady
+1 Vraska's Contempt
+1 Sign in Blood
+1 Torment of Hailfire
+1 Abrupt Decay
+1 Seasons Past
+2 Assassin's Trophy
+2 Vraska's Contempt
+2 Overgrown Tomb
+2 Woodland Cemetery
+2 Languish
+2 Seasons Past
+2 Dark Petition
+2 Abrupt Decay
+2 Read the Bones
+3 Overgrown Tomb
+3 Woodland Cemetery
+3 Dark Petition
+3 Languish
+4 Overgrown Tomb
+4 Languish
+5 Swamp

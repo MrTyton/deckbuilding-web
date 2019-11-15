@@ -1,69 +1,98 @@
-1 Scavenging Ooze
-3 Courser of Kruphix
-3 Swamp
-1 Assassin's Trophy
-1 Abrupt Decay
-1 Kalitas, Traitor of Ghet
-1 Thoughtseize
-2 Assassin's Trophy
-2 Abrupt Decay
-2 Thoughtseize
-3 Thoughtseize
-4 Thoughtseize
-1 Fatal Push
-2 Fatal Push
-1 Walking Ballista
-2 Walking Ballista
-3 Walking Ballista
-4 Walking Ballista
-1 Field of Ruin
-1 Winding Constrictor
-1 Nissa, Voice of Zendikar
-2 Winding Constrictor
-2 Nissa, Voice of Zendikar
-3 Winding Constrictor
-3 Nissa, Voice of Zendikar
-4 Nissa, Voice of Zendikar
-4 Winding Constrictor
-1 Traverse the Ulvenwald
-1 Grim Flayer
-2 Traverse the Ulvenwald
-2 Grim Flayer
-3 Traverse the Ulvenwald
-3 Grim Flayer
-4 Traverse the Ulvenwald
-4 Grim Flayer
-4 Elvish Visionary
-6 Forest
-1 Temple of Malady
 1 Castle Locthwain
 3 Abrupt Decay
+1 Scavenging Ooze
+3 Courser of Kruphix
+1 Murderous Rider
+1 Emrakul, the Promised End
+2 Fatal Push
+1 Assassin's Trophy
+1 Kalitas, Traitor of Ghet
+2 Assassin's Trophy
+4 Thoughtseize
+6 Forest
+1 Collected Company
+1 Elvish Visionary
+2 Collected Company
+2 Elvish Visionary
+3 Elvish Visionary
+1 Chord of Calling
+1 Dwynen's Elite
+1 Nykthos, Shrine to Nyx
+1 Shaman of the Pack
+1 Elvish Clancaller
+2 Chord of Calling
+2 Dwynen's Elite
+2 Nykthos, Shrine to Nyx
+2 Shaman of the Pack
+2 Elvish Clancaller
+3 Chord of Calling
+3 Nykthos, Shrine to Nyx
+3 Dwynen's Elite
+3 Shaman of the Pack
+3 Elvish Clancaller
+4 Elvish Clancaller
+4 Nykthos, Shrine to Nyx
+4 Shaman of the Pack
+4 Dwynen's Elite
+1 Once Upon a Time
+2 Once Upon a Time
+3 Once Upon a Time
+4 Once Upon a Time
+1 Stonecoil Serpent
+1 Vivien, Arkbow Ranger
+1 Voracious Hydra
+2 Stonecoil Serpent
+2 Voracious Hydra
+2 Vivien, Arkbow Ranger
+3 Stonecoil Serpent
+4 Courser of Kruphix
+1 Westvale Abbey
+3 Collected Company
+4 Collected Company
+7 Forest
+1 Hissing Quagmire
+1 Liliana, the Last Hope
+2 Hissing Quagmire
+2 Liliana, the Last Hope
+2 Scavenging Ooze
+4 Traverse the Ulvenwald
+4 Grim Flayer
+1 Fabled Passage
+1 Vraska's Contempt
+2 Temple of Malady
+2 Fabled Passage
+4 Elvish Visionary
+2 Murderous Rider
+3 Murderous Rider
 3 Fatal Push
 4 Fatal Push
-1 Murderous Rider
 1 Languish
 1 Urborg, Tomb of Yawgmoth
 4 Swamp
 5 Swamp
 6 Swamp
-1 Emrakul, the Promised End
-1 Stonecoil Serpent
+1 Field of the Dead
+1 Hashep Oasis
+1 Temur Sabertooth
+1 Vraska, Golgari Queen
+1 Vivien Reid
+1 Yahenni's Expertise
+1 Tireless Tracker
+2 Tireless Tracker
+2 Vraska's Contempt
+3 Tireless Tracker
+3 Scavenging Ooze
+4 Abrupt Decay
 1 Karn's Bastion
-1 Vivien, Arkbow Ranger
-1 Voracious Hydra
 1 Drana, Liberator of Malakir
 1 Corpsejack Menace
 1 Gyre Sage
 1 Rogue's Passage
-2 Stonecoil Serpent
-2 Voracious Hydra
-2 Vivien, Arkbow Ranger
 2 Corpsejack Menace
 2 Drana, Liberator of Malakir
 2 Gyre Sage
 2 Karn's Bastion
 3 Drana, Liberator of Malakir
-3 Stonecoil Serpent
 3 Corpsejack Menace
 4 Corpsejack Menace
 1 Dark Petition
@@ -71,30 +100,29 @@
 1 Beanstalk Giant
 1 Bontu's Last Reckoning
 1 Collective Brutality
-1 Fabled Passage
-1 Mastermind's Acquisition
-1 Vraska's Contempt
-1 Seasons Past
-1 Hero's Downfall
-1 Read the Bones
 1 Nissa, Vastwood Seer
+1 Mastermind's Acquisition
+1 Seasons Past
+1 Read the Bones
+1 Hero's Downfall
 2 Field of Ruin
-2 Temple of Malady
 2 Languish
-2 Read the Bones
 2 Kalitas, Traitor of Ghet
 2 Dark Petition
-2 Fabled Passage
+2 Read the Bones
 2 Nissa, Vastwood Seer
 3 Read the Bones
 3 Dark Petition
 4 Read the Bones
-1 Once Upon a Time
-1 Temur Sabertooth
-2 Once Upon a Time
-3 Once Upon a Time
-4 Courser of Kruphix
-4 Once Upon a Time
+1 Hardened Scales
+2 Hardened Scales
+3 Vivien, Arkbow Ranger
+3 Voracious Hydra
+3 Hardened Scales
+4 Voracious Hydra
+4 Vivien, Arkbow Ranger
+4 Stonecoil Serpent
+4 Hardened Scales
 1 Plaguecrafter
 1 Duskwatch Recruiter
 1 Liliana, Heretical Healer
@@ -118,15 +146,10 @@
 4 Nantuko Husk
 4 Duskwatch Recruiter
 4 Catacomb Sifter
-1 Hissing Quagmire
 1 Vivien, Champion of the Wilds
-1 Liliana, the Last Hope
 1 Deathrite Shaman
 1 Brain Maggot
 1 Wasteland Strangler
-2 Hissing Quagmire
-2 Scavenging Ooze
-2 Liliana, the Last Hope
 2 Deathrite Shaman
 2 Brain Maggot
 2 Wasteland Strangler
@@ -139,10 +162,8 @@
 1 Golgari Guildgate
 1 Hour of Promise
 1 Arboreal Grazer
-1 Hashep Oasis
 1 Castle Garenbrig
 1 Nissa's Pilgrimage
-1 Field of the Dead
 1 Shrine of the Forsaken Gods
 1 Ugin, the Spirit Dragon
 1 Ulamog, the Ceaseless Hunger
@@ -156,13 +177,13 @@
 2 Ulamog, the Ceaseless Hunger
 2 Elvish Rejuvenator
 2 Nissa's Pilgrimage
-2 Ugin, the Spirit Dragon
 2 Field of the Dead
+2 Ugin, the Spirit Dragon
 2 Emrakul, the Promised End
-2 Shrine of the Forsaken Gods
 2 Font of Fertility
 2 Ifnir Deadlands
 2 Hashep Oasis
+2 Shrine of the Forsaken Gods
 3 Arboreal Grazer
 3 Hour of Promise
 3 Ugin, the Spirit Dragon
@@ -203,7 +224,6 @@
 4 Chord of Calling
 4 Steel Leaf Champion
 4 Thorn Lieutenant
-7 Forest
 8 Forest
 1 Underworld Connections
 1 Gray Merchant of Asphodel
@@ -211,15 +231,13 @@
 1 Mutavault
 1 Pain Seer
 1 Lifebane Zombie
-2 Murderous Rider
-2 Mutavault
 2 Lifebane Zombie
 2 Gifted Aetherborn
+2 Mutavault
 2 Underworld Connections
 2 Pain Seer
 2 Gray Merchant of Asphodel
 2 Castle Locthwain
-3 Murderous Rider
 3 Assassin's Trophy
 3 Pain Seer
 3 Lifebane Zombie
@@ -229,7 +247,7 @@
 4 Murderous Rider
 4 Gifted Aetherborn
 4 Gray Merchant of Asphodel
-4 Lifebane Zombie
 4 Pain Seer
+4 Lifebane Zombie
 7 Swamp
 8 Swamp

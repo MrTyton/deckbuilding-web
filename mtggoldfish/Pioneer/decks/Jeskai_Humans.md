@@ -29,10 +29,18 @@
 
 # Other Options
 
-|*n*<sup>th</sup> copy|                                    Maindeck Card                                     |*n*<sup>th</sup> copy|                                      Sideboard Card                                       |
-|--------------------:|--------------------------------------------------------------------------------------|--------------------:|-------------------------------------------------------------------------------------------|
-|                    1|[Boros Charm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442188)|                    3|[Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)|
-|                    1|[Boros Elite](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=455755)|                     |                                                                                           |
-|                    2|[Boros Charm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442188)|                     |                                                                                           |
-|                    2|[Boros Elite](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=455755)|                     |                                                                                           |
+|*n*<sup>th</sup> copy|                                          Maindeck Card                                          |*n*<sup>th</sup> copy|                                      Sideboard Card                                       |
+|--------------------:|-------------------------------------------------------------------------------------------------|--------------------:|-------------------------------------------------------------------------------------------|
+|                    1|[Thalia, Heretic Cathar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414338)|                    3|[Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)|
+|                    1|[Rix Maadi Reveler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457253)     |                     |                                                                                           |
+|                    1|[Concealed Courtyard](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417818)   |                     |                                                                                           |
+|                    2|[Thalia, Heretic Cathar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414338)|                     |                                                                                           |
+|                    2|[Rix Maadi Reveler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457253)     |                     |                                                                                           |
+|                    2|[Concealed Courtyard](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417818)   |                     |                                                                                           |
+|                    3|[Rix Maadi Reveler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457253)     |                     |                                                                                           |
+|                    4|[Rix Maadi Reveler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457253)     |                     |                                                                                           |
+|                    1|[Boros Charm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442188)           |                     |                                                                                           |
+|                    1|[Boros Elite](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=455755)           |                     |                                                                                           |
+|                    2|[Boros Charm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442188)           |                     |                                                                                           |
+|                    2|[Boros Elite](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=455755)           |                     |                                                                                           |
 

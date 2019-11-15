@@ -12,22 +12,22 @@
 4 Inspiring Vantage
 1 Chart a Course
 1 Agent of Treachery
+1 God-Pharaoh's Gift
 1 Sulfur Falls
 1 Izzet Charm
 1 Aurelia, the Warleader
 1 Alesha, Who Smiles at Death
-1 God-Pharaoh's Gift
 1 Refurbish
 1 Jace, Vryn's Prodigy
 1 Champion of Wits
 1 Reflector Mage
 1 Port Town
-2 Chart a Course
 2 Port Town
+2 Chart a Course
 2 Agent of Treachery
+2 God-Pharaoh's Gift
 2 Alesha, Who Smiles at Death
 2 Jace, Vryn's Prodigy
-2 God-Pharaoh's Gift
 2 Aurelia, the Warleader
 2 Reflector Mage
 2 Izzet Charm
@@ -41,8 +41,8 @@
 3 Refurbish
 3 God-Pharaoh's Gift
 3 Reflector Mage
-4 Agent of Treachery
 4 Jace, Vryn's Prodigy
+4 Agent of Treachery
 4 Reflector Mage
 4 Champion of Wits
 4 God-Pharaoh's Gift
@@ -50,7 +50,6 @@
 3 Smuggler's Copter
 4 Spirebluff Canal
 1 Mantis Rider
-1 Wild Slash
 1 Fabled Passage
 1 Brazen Borrower
 1 Castle Ardenvale
@@ -58,30 +57,32 @@
 1 Dig Through Time
 1 Archangel Avacyn
 1 Spell Queller
+1 Wild Slash
 1 Jeskai Charm
 2 Mantis Rider
-2 Wild Slash
+2 Fabled Passage
 2 Dig Through Time
 2 Brazen Borrower
 2 Gideon, Ally of Zendikar
 2 Jeskai Charm
 2 Archangel Avacyn
-2 Fabled Passage
 2 Spell Queller
+2 Wild Slash
 3 Mantis Rider
-3 Wild Slash
 3 Thraben Inspector
+3 Wild Slash
 3 Spell Queller
 3 Gideon, Ally of Zendikar
+4 Teferi, Time Raveler
 4 Wild Slash
 4 Smuggler's Copter
-4 Teferi, Time Raveler
 4 Spell Queller
 4 Mantis Rider
 4 Thraben Inspector
 1 Boros Charm
 1 All That Glitters
 1 Ornithopter
+1 Bomat Courier
 1 Spell Pierce
 1 Gingerbrute
 1 Stonecoil Serpent
@@ -90,19 +91,18 @@
 1 Springleaf Drum
 1 Battlefield Forge
 1 Spire of Industry
-1 Bomat Courier
 1 Aether Hub
 1 Darksteel Citadel
 1 Skilled Animator
 2 Boros Charm
 2 All That Glitters
 2 Ornithopter
+2 Bomat Courier
 2 Spell Pierce
 2 Gingerbrute
 2 Stonecoil Serpent
 2 Springleaf Drum
 2 Skilled Animator
-2 Bomat Courier
 2 Battlefield Forge
 2 Aether Hub
 2 Darksteel Citadel
@@ -111,10 +111,10 @@
 3 Boros Charm
 3 All That Glitters
 3 Ornithopter
+3 Bomat Courier
 3 Gingerbrute
 3 Stonecoil Serpent
 3 Spire of Industry
-3 Bomat Courier
 3 Ensoul Artifact
 3 Darksteel Citadel
 3 Aether Hub

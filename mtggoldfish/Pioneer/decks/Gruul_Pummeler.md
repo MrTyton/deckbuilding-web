@@ -1,7 +1,7 @@
 # Gruul Pummeler
 
 #### [Export MTGO List](../collection/Gruul%20Pummeler/Gruul%20Pummeler.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Aether%20Hub%0A4%09Attune%20with%20Aether%0A3%09Become%20Immense%0A4%09Blossoming%20Defense%0A4%09Bristling%20Hydra%0A4%09Collision/Colossus%0A4%09Electrostatic%20Pummeler%0A1%09Fling%0A5%09Forest%0A4%09Harnessed%20Lightning%0A4%09Longtusk%20Cub%0A2%09Maximize%20Velocity%0A2%09Mountain%0A4%09Rootbound%20Crag%0A4%09Stomping%20Ground%0A3%09Temur%20Battle%20Rage%0A4%09Voltaic%20Brawler&deckside=2%09Heroic%20Intervention%0A2%09Pithing%20Needle%0A2%09Reclamation%20Sage%0A2%09Tormod's%20Crypt%0A4%09Veil%20of%20Summer%0A3%09Wild%20Slash)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Aether%20Hub%0A4%09Attune%20with%20Aether%0A3%09Become%20Immense%0A4%09Blossoming%20Defense%0A4%09Bristling%20Hydra%0A4%09Collision/Colossus%0A4%09Electrostatic%20Pummeler%0A5%09Forest%0A4%09Harnessed%20Lightning%0A4%09Longtusk%20Cub%0A2%09Maximize%20Velocity%0A2%09Mountain%0A4%09Rootbound%20Crag%0A4%09Stomping%20Ground%0A4%09Temur%20Battle%20Rage%0A4%09Voltaic%20Brawler&deckside=2%09Heroic%20Intervention%0A2%09Pithing%20Needle%0A2%09Reclamation%20Sage%0A2%09Tormod's%20Crypt%0A4%09Veil%20of%20Summer%0A3%09Wild%20Slash)
 # Maindeck
 
 |                                           Creature (16)                                           |                                          Instant (19)                                          |                                         Land (19)                                          |                                          Sorcery (6)                                          |
@@ -9,9 +9,8 @@
 |4 [Bristling Hydra](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417720)       |3 [Become Immense](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386487)     |4 [Aether Hub](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417815)     |4 [Attune with Aether](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417718)|
 |4 [Electrostatic Pummeler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417783)|4 [Blossoming Defense](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417719) |5 [Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)         |2 [Maximize Velocity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452861) |
 |4 [Longtusk Cub](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417734)          |4 [Collision/Colossus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457367) |2 [Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)       |                                                                                               |
-|4 [Voltaic Brawler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417762)       |1 [Fling](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426834)              |4 [Rootbound Crag](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420934) |                                                                                               |
-|                                                                                                   |4 [Harnessed Lightning](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417690)|4 [Stomping Ground](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405110)|                                                                                               |
-|                                                                                                   |3 [Temur Battle Rage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391940)  |                                                                                            |                                                                                               |
+|4 [Voltaic Brawler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417762)       |4 [Harnessed Lightning](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417690)|4 [Rootbound Crag](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420934) |                                                                                               |
+|                                                                                                   |4 [Temur Battle Rage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391940)  |4 [Stomping Ground](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405110)|                                                                                               |
 
 
 # Sideboard
@@ -25,11 +24,21 @@
 
 # Other Options
 
-|*n*<sup>th</sup> copy|                                       Maindeck Card                                        |*n*<sup>th</sup> copy|Sideboard Card|
-|--------------------:|--------------------------------------------------------------------------------------------|---------------------|--------------|
-|                    1|[Once Upon a Time](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473131) |                     |              |
-|                    2|[Once Upon a Time](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473131) |                     |              |
-|                    3|[Once Upon a Time](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473131) |                     |              |
-|                    4|[Once Upon a Time](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473131) |                     |              |
-|                    4|[Temur Battle Rage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391940)|                     |              |
+|*n*<sup>th</sup> copy|                                        Maindeck Card                                        |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
+|--------------------:|---------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
+|                    1|[Fling](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426834)             |                    1|[Destructive Revelry](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373351)|
+|                    1|[Once Upon a Time](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473131)  |                    1|[Rhythm of the Wild](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457345) |
+|                    2|[Once Upon a Time](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473131)  |                    1|[Radiant Flames](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=402002)     |
+|                    3|[Once Upon a Time](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473131)  |                    1|[Greenbelt Rampager](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423774) |
+|                    4|[Once Upon a Time](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473131)  |                    2|[Destructive Revelry](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373351)|
+|                    1|[Ghor-Clan Rampager](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460302)|                    2|[Rhythm of the Wild](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457345) |
+|                    2|[Ghor-Clan Rampager](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460302)|                    2|[Radiant Flames](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=402002)     |
+|                    3|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)          |                    2|[Greenbelt Rampager](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423774) |
+|                    3|[Ghor-Clan Rampager](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460302)|                    3|[Destructive Revelry](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373351)|
+|                    4|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)          |                    3|[Rhythm of the Wild](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457345) |
+|                    4|[Ghor-Clan Rampager](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460302)|                    3|[Greenbelt Rampager](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423774) |
+|                    6|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)            |                    3|[Radiant Flames](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=402002)     |
+|                    7|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)            |                    4|[Destructive Revelry](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373351)|
+|                     |                                                                                             |                    4|[Greenbelt Rampager](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423774) |
+|                     |                                                                                             |                    4|[Rhythm of the Wild](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457345) |
 

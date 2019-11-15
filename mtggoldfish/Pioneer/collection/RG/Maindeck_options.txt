@@ -1,28 +1,38 @@
+1 Domri's Ambush
+2 Blossoming Defense
+3 Blossoming Defense
+1 Domri, Anarch of Bolas
+6 Mountain
 3 Questing Beast
 4 Once Upon a Time
-1 Embercleave
-2 Embercleave
-3 Smuggler's Copter
-4 Smuggler's Copter
 1 Steel Leaf Champion
 2 Steel Leaf Champion
 3 Steel Leaf Champion
 4 Steel Leaf Champion
+3 Smuggler's Copter
+4 Smuggler's Copter
 1 Ramunap Ruins
 2 Ramunap Ruins
 2 Domri, Anarch of Bolas
 3 Ramunap Ruins
+2 Domri's Ambush
+1 Burning-Tree Emissary
+2 Burning-Tree Emissary
+3 Burning-Tree Emissary
+4 Burning-Tree Emissary
 3 Wild Slash
 4 Wild Slash
+1 Hashep Oasis
+2 Hashep Oasis
+3 Hashep Oasis
+4 Hashep Oasis
 1 Chandra, Torch of Defiance
 2 Chandra, Torch of Defiance
-1 Domri's Ambush
 1 Temur Battle Rage
-2 Blossoming Defense
 2 Temur Battle Rage
-3 Blossoming Defense
-1 Soul-Scar Mage
+4 Blossoming Defense
 1 Dreadhorde Arcanist
+1 Soul-Scar Mage
 1 Monastery Swiftspear
 2 Soul-Scar Mage
 2 Monastery Swiftspear
@@ -34,14 +44,20 @@
 4 Monastery Swiftspear
 4 Dreadhorde Arcanist
 1 Shock
-1 Burning-Tree Emissary
-2 Burning-Tree Emissary
-3 Burning-Tree Emissary
-4 Burning-Tree Emissary
 7 Mountain
 8 Mountain
 9 Mountain
 10 Mountain
+1 Scavenger Grounds
+1 Ugin, the Ineffable
+1 Thought-Knot Seer
+1 Aether Hub
+1 Blast Zone
+2 Thought-Knot Seer
+2 Aether Hub
+3 Aether Hub
+3 Thought-Knot Seer
+4 Thought-Knot Seer
 1 Syr Faren, the Hengehammer
 1 Managorger Hydra
 1 Aspect of Hydra
@@ -52,10 +68,9 @@
 2 Kessig Prowler
 2 Yorvo, Lord of Garenbrig
 2 Aspect of Hydra
-2 Domri's Ambush
 2 Managorger Hydra
-3 Yorvo, Lord of Garenbrig
 3 Syr Faren, the Hengehammer
+3 Yorvo, Lord of Garenbrig
 1 Mizzium Mortars
 1 Rampaging Ferocidon
 1 The Immortal Sun
@@ -65,28 +80,17 @@
 4 Ramunap Ruins
 3 Goblin Rabblemaster
 4 Goblin Rabblemaster
-1 Scavenger Grounds
-1 Ugin, the Ineffable
-1 Hashep Oasis
-1 Thought-Knot Seer
-1 Aether Hub
-1 Blast Zone
-2 Thought-Knot Seer
-2 Aether Hub
-3 Aether Hub
-3 Thought-Knot Seer
-4 Thought-Knot Seer
 1 Sanctum of Ugin
-1 Mana Confluence
 1 Stonecoil Serpent
+1 Field of the Dead
+1 Kozilek's Return
+1 Mana Confluence
 1 Elvish Rejuvenator
 1 Ulamog, the Ceaseless Hunger
 1 Shrine of the Forsaken Gods
-1 Field of the Dead
 1 Castle Garenbrig
 1 Arboreal Grazer
 1 Hour of Promise
-1 Kozilek's Return
 1 World Breaker
 1 Ugin, the Spirit Dragon
 1 Cascading Cataracts
@@ -95,10 +99,10 @@
 1 Emrakul, the Promised End
 1 Corrupted Crossroads
 1 Yavimaya Coast
+2 Stonecoil Serpent
 2 World Breaker
 2 Mana Confluence
 2 Ugin, the Ineffable
-2 Stonecoil Serpent
 2 Shrine of the Forsaken Gods
 2 Field of the Dead
 2 Elvish Rejuvenator
@@ -141,9 +145,26 @@
 4 Legion Loyalist
 4 Reckless Bushwhacker
 4 Atarka's Command
+1 Voltaic Brawler
+1 Hazoret the Fervent
+1 Pelt Collector
+1 Zhur-Taa Goblin
+1 Experiment One
+2 Voltaic Brawler
+2 Hazoret the Fervent
+2 Pelt Collector
+2 Experiment One
+2 Zhur-Taa Goblin
+3 Pelt Collector
+3 Experiment One
+3 Zhur-Taa Goblin
+3 Voltaic Brawler
+4 Pelt Collector
+4 Experiment One
+4 Voltaic Brawler
+1 Nykthos, Shrine to Nyx
 1 Eidolon of the Great Revel
 1 Magma Spray
-1 Nykthos, Shrine to Nyx
 1 Temple of Abandon
 1 Fanatic of Mogis
 1 Dragon Whisperer
@@ -151,69 +172,51 @@
 1 Boros Reckoner
 1 Wily Goblin
 1 Goblin Chainwhirler
-2 Eidolon of the Great Revel
-2 Magma Spray
-2 Fanatic of Mogis
 2 Nykthos, Shrine to Nyx
+2 Magma Spray
+2 Eidolon of the Great Revel
+2 Fanatic of Mogis
 2 Boros Reckoner
 2 Dragon Whisperer
 2 Goblin Chainwhirler
 2 Wily Goblin
 2 Temple of Abandon
+3 Nykthos, Shrine to Nyx
+3 Chandra, Torch of Defiance
 3 Eidolon of the Great Revel
 3 Goblin Chainwhirler
 3 Dragon Whisperer
 3 Fanatic of Mogis
-3 Nykthos, Shrine to Nyx
-3 Chandra, Torch of Defiance
 3 Temple of Abandon
+4 Nykthos, Shrine to Nyx
 4 Eidolon of the Great Revel
 4 Goblin Chainwhirler
-4 Nykthos, Shrine to Nyx
 4 Fanatic of Mogis
 4 Temple of Abandon
+1 Young Pyromancer
 1 Season of Growth
 1 Fabled Passage
 1 Collision/Colossus
 1 Renegade Tactics
-1 Young Pyromancer
 1 Expedite
 1 Become Immense
+2 Young Pyromancer
 2 Become Immense
 2 Collision/Colossus
-2 Young Pyromancer
 2 Renegade Tactics
 2 Expedite
 2 Fabled Passage
-3 Fabled Passage
 3 Become Immense
 3 Renegade Tactics
 3 Temur Battle Rage
 3 Young Pyromancer
 3 Expedite
-4 Fabled Passage
+3 Fabled Passage
 4 Young Pyromancer
+4 Fabled Passage
 4 Become Immense
-4 Blossoming Defense
 4 Renegade Tactics
 4 Expedite
-1 Sea Gate Wreckage
-1 Reality Smasher
-1 Mutavault
-1 Matter Reshaper
-2 Reality Smasher
-2 Mutavault
-2 Matter Reshaper
-2 Hashep Oasis
-3 Domri, Anarch of Bolas
-3 Matter Reshaper
-3 Reality Smasher
-3 Hashep Oasis
-3 Mutavault
-4 Reality Smasher
-4 Matter Reshaper
-4 Hashep Oasis
-4 Mutavault
 1 Domri Rade
 1 Courser of Kruphix
 1 Lovestruck Beast
@@ -225,9 +228,23 @@
 3 Lovestruck Beast
 3 Domri Rade
 4 Questing Beast
-4 Glorybringer
 4 Courser of Kruphix
+4 Glorybringer
 4 Lovestruck Beast
 4 Game Trail
 4 Domri Rade
 9 Forest
+1 Sea Gate Wreckage
+1 Reality Smasher
+1 Mutavault
+1 Matter Reshaper
+2 Reality Smasher
+2 Mutavault
+2 Matter Reshaper
+3 Domri, Anarch of Bolas
+3 Matter Reshaper
+3 Reality Smasher
+3 Mutavault
+4 Reality Smasher
+4 Matter Reshaper
+4 Mutavault

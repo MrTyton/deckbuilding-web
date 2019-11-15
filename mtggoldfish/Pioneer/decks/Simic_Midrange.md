@@ -27,12 +27,22 @@
 
 # Other Options
 
-|*n*<sup>th</sup> copy|                                       Maindeck Card                                        |*n*<sup>th</sup> copy|                                       Sideboard Card                                        |
-|--------------------:|--------------------------------------------------------------------------------------------|--------------------:|---------------------------------------------------------------------------------------------|
-|                    1|[Questing Beast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473133)   |                    2|[Unravel the Aether](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=378515)|
-|                    1|[Blast Zone](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461171)       |                    1|[Unravel the Aether](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=378515)|
-|                    2|[Blast Zone](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461171)       |                     |                                                                                             |
-|                    2|[Questing Beast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473133)   |                     |                                                                                             |
-|                    3|[Blast Zone](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461171)       |                     |                                                                                             |
-|                    1|[Sea Gate Wreckage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407687)|                     |                                                                                             |
+|*n*<sup>th</sup> copy|                                       Maindeck Card                                        |*n*<sup>th</sup> copy|                                         Sideboard Card                                          |
+|--------------------:|--------------------------------------------------------------------------------------------|--------------------:|-------------------------------------------------------------------------------------------------|
+|                    1|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)           |                    1|[Scavenging Ooze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420783)       |
+|                    1|[Once Upon a Time](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473131) |                    2|[Scavenging Ooze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420783)       |
+|                    1|[Elder Deep-Fiend](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414294) |                    1|[Warping Wail](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407522)          |
+|                    1|[Ipnu Rivulet](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430869)     |                    1|[Phyrexian Revoker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383343)     |
+|                    1|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)           |                    1|[Spatial Contortion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407518)    |
+|                    1|[Warping Wail](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407522)     |                    2|[Phyrexian Revoker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383343)     |
+|                    2|[Once Upon a Time](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473131) |                    2|[Spatial Contortion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407518)    |
+|                    2|[Elder Deep-Fiend](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414294) |                    1|[Unravel the Aether](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=378515)    |
+|                    3|[Once Upon a Time](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473131) |                    2|[Unravel the Aether](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=378515)    |
+|                    4|[Once Upon a Time](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473131) |                    1|[Aether Gust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466796)           |
+|                    1|[Blast Zone](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461171)       |                    1|[Prey Upon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423787)             |
+|                    1|[Questing Beast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473133)   |                    1|[Lifecrafter's Bestiary](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423829)|
+|                    1|[Sea Gate Wreckage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407687)|                    2|[Aether Gust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466796)           |
+|                    2|[Blast Zone](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461171)       |                    2|[Lifecrafter's Bestiary](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423829)|
+|                    3|[Blast Zone](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461171)       |                    2|[Prey Upon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423787)             |
+|                    2|[Questing Beast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473133)   |                    3|[Lifecrafter's Bestiary](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423829)|
 
