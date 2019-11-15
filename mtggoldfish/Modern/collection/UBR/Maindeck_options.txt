@@ -6,13 +6,13 @@
 4 Scalding Tarn
 1 Spirebluff Canal
 1 Electrodominance
-1 Force of Negation
 1 Remand
+1 Force of Negation
 1 Curator of Mysteries
 1 Living End
+1 Fiery Islet
 1 As Foretold
 1 Crashing Footfalls
-1 Fiery Islet
 1 Cascade Bluffs
 1 Desert Cerodon
 1 Tolaria West
@@ -35,10 +35,10 @@
 3 Force of Negation
 3 Street Wraith
 3 Desert Cerodon
-3 Remand
 3 Curator of Mysteries
 3 Living End
 3 Striped Riverwinder
+3 Remand
 3 Electrodominance
 3 Crashing Footfalls
 3 As Foretold
@@ -46,32 +46,12 @@
 4 Desert Cerodon
 4 Living End
 4 Remand
+4 Curator of Mysteries
 4 Crashing Footfalls
 4 Electrodominance
 4 Striped Riverwinder
 4 Spirebluff Canal
-4 Curator of Mysteries
 4 As Foretold
-1 Izzet Charm
-1 Archmage's Charm
-1 Drown in the Loch
-1 Opt
-1 Funeral Charm
-1 Wandering Fumarole
-2 Izzet Charm
-2 Funeral Charm
-2 Drown in the Loch
-2 Archmage's Charm
-2 Opt
-3 Creeping Tar Pit
-3 Funeral Charm
-3 Opt
-3 Cryptic Command
-3 Nimble Obstructionist
-3 Archmage's Charm
-4 Cryptic Command
-4 Funeral Charm
-4 Opt
 1 Flooded Strand
 1 Wishclaw Talisman
 1 Lonely Sandbar
@@ -89,20 +69,20 @@
 1 Peer Through Depths
 1 Lotus Field
 2 Wishclaw Talisman
-2 Psychic Puppetry
 2 Ideas Unbound
 2 Past in Flames
-2 Peer Through Depths
 2 Grapeshot
+2 Psychic Puppetry
 2 Reach Through Mists
+2 Peer Through Depths
 2 Sleight of Hand
 2 Flooded Strand
 2 Lotus Field
 2 Lonely Sandbar
 2 Darkslick Shores
 2 Serum Visions
-2 Dream's Grip
 2 Twiddle
+2 Dream's Grip
 3 Wishclaw Talisman
 3 Psychic Puppetry
 3 Darkslick Shores
@@ -124,5 +104,25 @@
 4 Dream's Grip
 4 Darkslick Shores
 4 Psychic Puppetry
-4 Reach Through Mists
 4 Flooded Strand
+4 Reach Through Mists
+1 Izzet Charm
+1 Archmage's Charm
+1 Drown in the Loch
+1 Opt
+1 Funeral Charm
+1 Wandering Fumarole
+2 Izzet Charm
+2 Funeral Charm
+2 Drown in the Loch
+2 Archmage's Charm
+2 Opt
+3 Creeping Tar Pit
+3 Funeral Charm
+3 Opt
+3 Cryptic Command
+3 Archmage's Charm
+3 Nimble Obstructionist
+4 Cryptic Command
+4 Funeral Charm
+4 Opt

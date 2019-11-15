@@ -58,6 +58,7 @@
 |                    2|[Underground Sea](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=886)              |                     |                                                                                                     |
 |                    2|[Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)              |                     |                                                                                                     |
 |                    3|[Underground Sea](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=886)              |                     |                                                                                                     |
+|                    3|[Abrupt Decay](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456061)              |                     |                                                                                                     |
 |                    1|[Preordain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405347)                 |                     |                                                                                                     |
 |                    1|[Tarmogoyf](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=136142)                 |                     |                                                                                                     |
 |                    2|[Preordain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405347)                 |                     |                                                                                                     |
@@ -67,5 +68,4 @@
 |                    3|[Tarmogoyf](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=136142)                 |                     |                                                                                                     |
 |                    3|[Preordain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405347)                 |                     |                                                                                                     |
 |                    4|[Tarmogoyf](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=136142)                 |                     |                                                                                                     |
-|                    3|[Abrupt Decay](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456061)              |                     |                                                                                                     |
 
