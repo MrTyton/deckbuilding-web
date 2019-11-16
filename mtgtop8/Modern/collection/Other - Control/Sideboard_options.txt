@@ -18,23 +18,11 @@
 1 Pithing Needle
 1 Kitchen Finks
 1 Celestial Purge
-2 Kitchen Finks
 2 Ethersworn Canonist
+2 Kitchen Finks
 3 Kitchen Finks
 3 Ethersworn Canonist
 4 Kitchen Finks
-1 Ancient Grudge
-1 Return to Nature
-1 Grafdigger's Cage
-1 Creeping Corrosion
-1 Thragtusk
-1 Pyroclasm
-1 Collector Ouphe
-1 Ceremonious Rejection
-2 Collector Ouphe
-2 Ceremonious Rejection
-3 Ceremonious Rejection
-4 Ceremonious Rejection
 1 Damping Sphere
 1 Thing in the Ice
 1 Hurkyl's Recall
@@ -47,6 +35,18 @@
 2 Redirect
 3 Plague Engineer
 4 Plague Engineer
+1 Return to Nature
+1 Grafdigger's Cage
+1 Creeping Corrosion
+1 Thragtusk
+1 Pyroclasm
+1 Ancient Grudge
+1 Collector Ouphe
+1 Ceremonious Rejection
+2 Collector Ouphe
+2 Ceremonious Rejection
+3 Ceremonious Rejection
+4 Ceremonious Rejection
 1 Generous Gift
 1 Cleansing Nova
 1 Remorseful Cleric
@@ -55,8 +55,8 @@
 1 Ghost Quarter
 2 Remorseful Cleric
 2 Generous Gift
-2 Cleansing Nova
 2 Stony Silence
+2 Cleansing Nova
 2 Damping Sphere
 3 Remorseful Cleric
 4 Remorseful Cleric

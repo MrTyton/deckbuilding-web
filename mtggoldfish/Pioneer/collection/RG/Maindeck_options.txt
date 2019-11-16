@@ -1,8 +1,8 @@
+4 Ghor-Clan Rampager
 1 Domri's Ambush
 2 Blossoming Defense
 3 Blossoming Defense
 1 Domri, Anarch of Bolas
-6 Mountain
 3 Questing Beast
 4 Once Upon a Time
 1 Steel Leaf Champion
@@ -48,6 +48,7 @@
 8 Mountain
 9 Mountain
 10 Mountain
+9 Forest
 1 Scavenger Grounds
 1 Ugin, the Ineffable
 1 Thought-Knot Seer
@@ -81,18 +82,23 @@
 3 Goblin Rabblemaster
 4 Goblin Rabblemaster
 1 Sanctum of Ugin
-1 Stonecoil Serpent
-1 Field of the Dead
 1 Kozilek's Return
-1 Mana Confluence
-1 Elvish Rejuvenator
 1 Ulamog, the Ceaseless Hunger
-1 Shrine of the Forsaken Gods
 1 Castle Garenbrig
 1 Arboreal Grazer
-1 Hour of Promise
 1 World Breaker
 1 Ugin, the Spirit Dragon
+2 World Breaker
+2 Arboreal Grazer
+2 Kozilek's Return
+3 Arboreal Grazer
+3 Kozilek's Return
+1 Stonecoil Serpent
+1 Field of the Dead
+1 Mana Confluence
+1 Elvish Rejuvenator
+1 Shrine of the Forsaken Gods
+1 Hour of Promise
 1 Cascading Cataracts
 1 Nissa's Revelation
 1 Golos, Tireless Pilgrim
@@ -100,41 +106,52 @@
 1 Corrupted Crossroads
 1 Yavimaya Coast
 2 Stonecoil Serpent
-2 World Breaker
 2 Mana Confluence
 2 Ugin, the Ineffable
 2 Shrine of the Forsaken Gods
 2 Field of the Dead
 2 Elvish Rejuvenator
-2 Arboreal Grazer
 2 Hour of Promise
-2 Golos, Tireless Pilgrim
-2 Kozilek's Return
 2 Corrupted Crossroads
+2 Golos, Tireless Pilgrim
 3 Stonecoil Serpent
 3 Field of the Dead
-3 Elvish Rejuvenator
 3 Shrine of the Forsaken Gods
+3 Elvish Rejuvenator
 3 Hour of Promise
-3 Arboreal Grazer
 3 Corrupted Crossroads
 3 Mana Confluence
-3 Kozilek's Return
 4 Hour of Promise
 4 Elvish Rejuvenator
 4 Arboreal Grazer
 4 Shrine of the Forsaken Gods
 4 Mana Confluence
 4 Aether Hub
+1 Domri Rade
+1 Courser of Kruphix
+1 Lovestruck Beast
+2 Courser of Kruphix
+2 Domri Rade
+2 Lovestruck Beast
+3 Courser of Kruphix
+3 Game Trail
+3 Lovestruck Beast
+3 Domri Rade
+4 Questing Beast
+4 Courser of Kruphix
+4 Glorybringer
+4 Lovestruck Beast
+4 Game Trail
+4 Domri Rade
 1 Light Up the Stage
-1 Reckless Bushwhacker
 1 Atarka's Command
 1 Legion Loyalist
+1 Reckless Bushwhacker
 2 Light Up the Stage
-2 Shock
 2 Reckless Bushwhacker
 2 Legion Loyalist
 2 Atarka's Command
+2 Shock
 3 Shock
 3 Light Up the Stage
 3 Reckless Bushwhacker
@@ -156,8 +173,8 @@
 2 Experiment One
 2 Zhur-Taa Goblin
 3 Pelt Collector
-3 Experiment One
 3 Zhur-Taa Goblin
+3 Experiment One
 3 Voltaic Brawler
 4 Pelt Collector
 4 Experiment One
@@ -168,8 +185,8 @@
 1 Temple of Abandon
 1 Fanatic of Mogis
 1 Dragon Whisperer
-1 Hammer of Purphoros
 1 Boros Reckoner
+1 Hammer of Purphoros
 1 Wily Goblin
 1 Goblin Chainwhirler
 2 Nykthos, Shrine to Nyx
@@ -178,19 +195,19 @@
 2 Fanatic of Mogis
 2 Boros Reckoner
 2 Dragon Whisperer
-2 Goblin Chainwhirler
 2 Wily Goblin
+2 Goblin Chainwhirler
 2 Temple of Abandon
 3 Nykthos, Shrine to Nyx
 3 Chandra, Torch of Defiance
 3 Eidolon of the Great Revel
 3 Goblin Chainwhirler
 3 Dragon Whisperer
-3 Fanatic of Mogis
 3 Temple of Abandon
+3 Fanatic of Mogis
 4 Nykthos, Shrine to Nyx
-4 Eidolon of the Great Revel
 4 Goblin Chainwhirler
+4 Eidolon of the Great Revel
 4 Fanatic of Mogis
 4 Temple of Abandon
 1 Young Pyromancer
@@ -214,37 +231,49 @@
 3 Fabled Passage
 4 Young Pyromancer
 4 Fabled Passage
-4 Become Immense
 4 Renegade Tactics
+4 Become Immense
 4 Expedite
-1 Domri Rade
-1 Courser of Kruphix
-1 Lovestruck Beast
-2 Courser of Kruphix
-2 Domri Rade
-2 Lovestruck Beast
-3 Courser of Kruphix
-3 Game Trail
-3 Lovestruck Beast
-3 Domri Rade
-4 Questing Beast
-4 Courser of Kruphix
-4 Glorybringer
-4 Lovestruck Beast
-4 Game Trail
-4 Domri Rade
-9 Forest
 1 Sea Gate Wreckage
 1 Reality Smasher
-1 Mutavault
 1 Matter Reshaper
+1 Mutavault
 2 Reality Smasher
-2 Mutavault
 2 Matter Reshaper
+2 Mutavault
 3 Domri, Anarch of Bolas
 3 Matter Reshaper
-3 Reality Smasher
 3 Mutavault
+3 Reality Smasher
 4 Reality Smasher
 4 Matter Reshaper
 4 Mutavault
+1 Oblivion Sower
+1 Omnath, Locus of Rage
+1 Nissa's Pilgrimage
+1 Whisperwood Elemental
+1 Sylvan Scrying
+1 Explosive Vegetation
+2 Sanctum of Ugin
+2 Ugin, the Spirit Dragon
+2 Nissa's Pilgrimage
+2 Ulamog, the Ceaseless Hunger
+2 Castle Garenbrig
+2 Whisperwood Elemental
+2 Explosive Vegetation
+2 Sylvan Scrying
+2 Omnath, Locus of Rage
+2 Oblivion Sower
+3 Castle Garenbrig
+3 Nissa's Pilgrimage
+3 World Breaker
+3 Whisperwood Elemental
+3 Sylvan Scrying
+3 Oblivion Sower
+3 Explosive Vegetation
+3 Sanctum of Ugin
+4 Castle Garenbrig
+4 Explosive Vegetation
+4 Kozilek's Return
+4 Nissa's Pilgrimage
+10 Forest

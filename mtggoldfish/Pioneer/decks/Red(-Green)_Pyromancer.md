@@ -26,8 +26,8 @@
 
 |*n*<sup>th</sup> copy|                                      Maindeck Card                                      |*n*<sup>th</sup> copy|                                      Sideboard Card                                       |
 |--------------------:|-----------------------------------------------------------------------------------------|--------------------:|-------------------------------------------------------------------------------------------|
-|                    1|[Game Trail](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=410044)    |                    1|[Chandra's Defeat](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430775)|
-|                    1|[Dragon Mantle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373634) |                    1|[Alpine Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447264)     |
+|                    1|[Game Trail](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=410044)    |                    1|[Alpine Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447264)     |
+|                    1|[Dragon Mantle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373634) |                    1|[Chandra's Defeat](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430775)|
 |                    2|[Game Trail](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=410044)    |                    1|[Fry](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466894)             |
 |                    3|[Rimrock Knight](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473099)|                    2|[Chandra's Defeat](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430775)|
 |                    3|[Reckless Rage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439767) |                    2|[Alpine Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447264)     |

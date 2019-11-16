@@ -4,8 +4,8 @@
 3 Fatal Push
 4 Snapcaster Mage
 2 Creeping Tar Pit
-1 Into the Story
 1 Opt
+1 Into the Story
 1 Mystic Sanctuary
 1 Cryptic Command
 2 Cryptic Command
@@ -19,31 +19,31 @@
 4 Misty Rainforest
 1 Prismatic Vista
 2 Snow-Covered Swamp
-1 Engineered Explosives
-1 Tezzeret, Agent of Bolas
 1 Gilded Goose
+1 Tezzeret, Agent of Bolas
+1 Engineered Explosives
 2 Gilded Goose
 2 Tezzeret, Agent of Bolas
 3 Arcum's Astrolabe
 3 Gilded Goose
-4 Arcum's Astrolabe
 4 Gilded Goose
+4 Arcum's Astrolabe
 1 Nurturing Peatland
 1 Blooming Marsh
 1 Hexdrinker
+1 Stubborn Denial
 1 Urborg, Tomb of Yawgmoth
 1 Rankle, Master of Pranks
-1 Castle Locthwain
 1 Tireless Tracker
-1 Stubborn Denial
+1 Castle Locthwain
 1 Collective Brutality
 1 Scavenging Ooze
 2 Hexdrinker
-2 Collective Brutality
 2 Stubborn Denial
+2 Collective Brutality
 3 Creeping Tar Pit
-3 Inquisition of Kozilek
 3 Assassin's Trophy
+3 Inquisition of Kozilek
 4 Inquisition of Kozilek
 1 Vendilion Clique
 1 Torrential Gearhulk
@@ -52,28 +52,51 @@
 2 Abrupt Decay
 3 Opt
 3 Verdant Catacombs
-4 Opt
 4 Verdant Catacombs
+4 Opt
 2 Snow-Covered Forest
+1 Brazen Borrower
 1 Liliana of the Veil
 1 Blast Zone
-1 Brazen Borrower
 1 Karn, the Great Creator
-2 Brazen Borrower
 2 Prismatic Vista
 2 Liliana of the Veil
 2 Karn, the Great Creator
-3 Prismatic Vista
+2 Brazen Borrower
 3 Liliana of the Veil
 3 Force of Negation
+3 Prismatic Vista
 4 Force of Negation
 4 Ice-Fang Coatl
+1 Emry, Lurker of the Loch
+1 Mox Opal
+1 Urza, Lord High Artificer
+1 Mishra's Bauble
+2 Mishra's Bauble
+2 Mox Opal
+2 Urza, Lord High Artificer
+2 Emry, Lurker of the Loch
+2 Engineered Explosives
+3 Mox Opal
+3 Engineered Explosives
+3 Tezzeret, Agent of Bolas
+3 Emry, Lurker of the Loch
+3 Mishra's Bauble
+3 Urza, Lord High Artificer
+4 Thoughtseize
+4 Engineered Explosives
+4 Oko, Thief of Crowns
+4 Urza, Lord High Artificer
+4 Tezzeret, Agent of Bolas
+4 Emry, Lurker of the Loch
+4 Mishra's Bauble
+4 Mox Opal
 1 Elvish Clancaller
 1 Collected Company
 1 Lead the Stampede
 1 Westvale Abbey
-1 Elvish Archdruid
 1 Pendelhaven
+1 Elvish Archdruid
 1 Gilt-Leaf Palace
 1 Ezuri, Renegade Leader
 1 Nettle Sentinel
@@ -92,7 +115,6 @@
 2 Lead the Stampede
 2 Shaman of the Pack
 2 Elvish Mystic
-2 Gilt-Leaf Palace
 2 Elvish Archdruid
 2 Heritage Druid
 2 Unclaimed Territory
@@ -100,6 +122,7 @@
 2 Nettle Sentinel
 2 Dwynen's Elite
 2 Chord of Calling
+2 Gilt-Leaf Palace
 3 Collected Company
 3 Snow-Covered Forest
 3 Elvish Clancaller
@@ -113,8 +136,8 @@
 3 Elvish Archdruid
 3 Nettle Sentinel
 4 Snow-Covered Forest
-4 Elvish Clancaller
 4 Blooming Marsh
+4 Elvish Clancaller
 4 Collected Company
 4 Heritage Druid
 4 Llanowar Elves
@@ -148,26 +171,3 @@
 4 Remand
 4 Wilderness Reclamation
 4 Growth Spiral
-1 Emry, Lurker of the Loch
-1 Mox Opal
-1 Urza, Lord High Artificer
-1 Mishra's Bauble
-2 Mishra's Bauble
-2 Mox Opal
-2 Urza, Lord High Artificer
-2 Emry, Lurker of the Loch
-2 Engineered Explosives
-3 Mox Opal
-3 Engineered Explosives
-3 Tezzeret, Agent of Bolas
-3 Emry, Lurker of the Loch
-3 Mishra's Bauble
-3 Urza, Lord High Artificer
-4 Thoughtseize
-4 Engineered Explosives
-4 Urza, Lord High Artificer
-4 Emry, Lurker of the Loch
-4 Mishra's Bauble
-4 Mox Opal
-4 Oko, Thief of Crowns
-4 Tezzeret, Agent of Bolas

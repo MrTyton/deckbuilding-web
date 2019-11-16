@@ -49,6 +49,6 @@
 |                    1|[Prismatic Vista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464193)       |                     |                                                                                                   |
 |                    2|[Sword of the Meek](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=126215)     |                     |                                                                                                   |
 |                    2|[Prismatic Vista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464193)       |                     |                                                                                                   |
-|                    2|[Darksteel Citadel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389479)     |                     |                                                                                                   |
 |                    3|[Oko, Thief of Crowns](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473159)  |                     |                                                                                                   |
+|                    2|[Darksteel Citadel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389479)     |                     |                                                                                                   |
 

@@ -31,10 +31,12 @@
 
 # Other Options
 
-|*n*<sup>th</sup> copy|                                        Maindeck Card                                        |*n*<sup>th</sup> copy|Sideboard Card|
-|--------------------:|---------------------------------------------------------------------------------------------|---------------------|--------------|
-|                    1|[The Royal Scions](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473161)  |                     |              |
-|                    2|[The Royal Scions](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473161)  |                     |              |
-|                    3|[Mutavault](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370733)         |                     |              |
-|                    3|[Wandering Fumarole](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407692)|                     |              |
+|*n*<sup>th</sup> copy|                                        Maindeck Card                                        |*n*<sup>th</sup> copy|                                     Sideboard Card                                     |
+|--------------------:|---------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------|
+|                    3|[Mutavault](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370733)         |                    1|[Lightning Axe](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409925)|
+|                    3|[Wandering Fumarole](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407692)|                    1|[Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)       |
+|                    1|[Stubborn Denial](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386673)   |                     |                                                                                        |
+|                    2|[Stubborn Denial](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386673)   |                     |                                                                                        |
+|                    1|[The Royal Scions](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473161)  |                     |                                                                                        |
+|                    2|[The Royal Scions](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473161)  |                     |                                                                                        |
 
