@@ -52,7 +52,7 @@
 |                    2|[City of Brass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=4178)            |                     |                                                                                              |
 |                    3|[City of Brass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=4178)            |                     |                                                                                              |
 |                    3|[Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)         |                     |                                                                                              |
-|                    4|[Glittering Wish](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=136157)        |                     |                                                                                              |
-|                    4|[City of Brass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=4178)            |                     |                                                                                              |
 |                    3|[Glittering Wish](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=136157)        |                     |                                                                                              |
+|                    4|[City of Brass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=4178)            |                     |                                                                                              |
+|                    4|[Glittering Wish](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=136157)        |                     |                                                                                              |
 

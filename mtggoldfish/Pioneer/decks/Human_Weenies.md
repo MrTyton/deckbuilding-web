@@ -43,8 +43,8 @@
 |                     |                                                                                                 |                    3|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)    |
 |                     |                                                                                                 |                    4|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)    |
 |                     |                                                                                                 |                    4|[Deafening Silence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472972)      |
-|                     |                                                                                                 |                    1|[Disenchant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=847)                |
 |                     |                                                                                                 |                    1|[Imposing Sovereign](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370770)     |
+|                     |                                                                                                 |                    1|[Disenchant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=847)                |
 |                     |                                                                                                 |                    2|[Imposing Sovereign](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370770)     |
 |                     |                                                                                                 |                    2|[Disenchant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=847)                |
 

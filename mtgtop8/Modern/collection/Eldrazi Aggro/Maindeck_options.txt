@@ -1,9 +1,11 @@
+1 Sea Gate Wreckage
 1 Spatial Contortion
-1 Radiant Fountain
 1 Warping Wail
 2 All Is Dust
 3 Walking Ballista
 2 Warping Wail
+3 Blast Zone
+1 Ulamog, the Ceaseless Hunger
 1 Noble Hierarch
 1 Ancient Stirrings
 2 Noble Hierarch
@@ -43,16 +45,12 @@
 3 Yavimaya Coast
 4 Yavimaya Coast
 1 Birds of Paradise
-1 Snow-Covered Plains
-2 Drowner of Hope
-2 Oko, Thief of Crowns
 1 Knight of Autumn
 1 Tectonic Edge
 2 Radiant Fountain
 3 Wastes
-3 Oko, Thief of Crowns
-3 Blast Zone
-1 Ulamog, the Ceaseless Hunger
+1 Snow-Covered Plains
+2 Drowner of Hope
 1 Horizon Canopy
 1 Sword of Feast and Famine
 1 Batterskull
@@ -64,7 +62,9 @@
 3 Stoneforge Mystic
 4 Stoneforge Mystic
 1 Stubborn Denial
+2 Oko, Thief of Crowns
 1 Sanctum of Ugin
+1 Relic of Progenitus
 1 Emrakul, the Promised End
 2 Endbringer
 1 Field of Ruin
@@ -79,6 +79,7 @@
 1 Karn Liberated
 2 Karn Liberated
 3 Karn Liberated
+3 Oko, Thief of Crowns
 1 Temple Garden
 1 Windswept Heath
 2 Birds of Paradise
@@ -96,8 +97,8 @@
 2 Eldrazi Skyspawner
 2 Gilded Goose
 2 Stubborn Denial
-2 Snow-Covered Forest
 2 Elder Deep-Fiend
+2 Snow-Covered Forest
 2 Misty Rainforest
 3 Misty Rainforest
 3 Elder Deep-Fiend

@@ -39,9 +39,9 @@
 
 |*n*<sup>th</sup> copy|                                        Maindeck Card                                         |*n*<sup>th</sup> copy|                                      Sideboard Card                                      |
 |--------------------:|----------------------------------------------------------------------------------------------|--------------------:|------------------------------------------------------------------------------------------|
-|                    1|[Auriok Champion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=72921)     |                    2|[Collector Ouphe](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464107)|
 |                    1|[Duskwatch Recruiter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409961)|                    1|[Kor Firewalker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442010) |
+|                    1|[Scavenging Ooze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420783)    |                    2|[Collector Ouphe](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464107)|
 |                    1|[Borborygmos Enraged](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=366283)|                     |                                                                                          |
 |                    2|[Razorverge Thicket](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=209407) |                     |                                                                                          |
-|                    1|[Scavenging Ooze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420783)    |                     |                                                                                          |
+|                    1|[Auriok Champion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=72921)     |                     |                                                                                          |
 

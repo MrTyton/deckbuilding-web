@@ -48,12 +48,12 @@
 4 Ponder
 1 Young Pyromancer
 1 Dreadhorde Arcanist
-1 Lightning Bolt
 1 Hexdrinker
 1 Island
+1 Volcanic Island
+1 Lightning Bolt
 1 Delver of Secrets
 1 Izzet Charm
-1 Volcanic Island
 1 Daze
 1 Deep Analysis
 2 Volcanic Island
@@ -77,8 +77,8 @@
 1 Sire of Insanity
 2 Scrubland
 1 Abrupt Decay
-1 Snow-Covered Island
 1 Oko, Thief of Crowns
+1 Snow-Covered Island
 1 Snapcaster Mage
 1 Tyrant's Scorn
 1 Tropical Island
@@ -107,6 +107,19 @@
 2 Rotting Regisaur
 3 Rotting Regisaur
 4 Rotting Regisaur
+1 Iona, Shield of Emeria
+1 Duress
+1 Hymn to Tourach
+2 Duress
+2 Hymn to Tourach
+3 Hymn to Tourach
+3 Lake of the Dead
+3 Duress
+4 Duress
+4 Cabal Therapy
+4 Grave Titan
+4 Hymn to Tourach
+16 Swamp
 1 Vilis, Broker of Blood
 1 Archfiend of Despair
 1 Urborg, Tomb of Yawgmoth
@@ -126,16 +139,3 @@
 4 Thespian's Stage
 4 Dark Depths
 4 Vampire Hexmage
-1 Duress
-1 Iona, Shield of Emeria
-1 Hymn to Tourach
-2 Duress
-2 Hymn to Tourach
-3 Hymn to Tourach
-3 Lake of the Dead
-3 Duress
-4 Duress
-4 Grave Titan
-4 Hymn to Tourach
-16 Swamp
-4 Cabal Therapy
