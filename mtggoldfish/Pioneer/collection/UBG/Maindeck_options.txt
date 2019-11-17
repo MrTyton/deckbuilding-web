@@ -11,9 +11,9 @@
 1 Tasigur, the Golden Fang
 1 Llanowar Elves
 1 Elvish Mystic
+1 Lovestruck Beast
 1 Questing Beast
 1 Llanowar Wastes
-1 Lovestruck Beast
 2 Llanowar Elves
 2 Elvish Mystic
 2 Lovestruck Beast
@@ -61,6 +61,72 @@
 3 Vraska, Golgari Queen
 3 Forest
 4 Tireless Tracker
+1 Geier Reach Sanitarium
+1 Syncopate
+1 Castle Vantress
+1 Growth Spiral
+1 Field of the Dead
+1 Hour of Promise
+1 Sinister Sabotage
+1 Narset, Parter of Veils
+1 Spell Pierce
+1 Opt
+2 Syncopate
+2 Growth Spiral
+2 Hour of Promise
+2 Field of the Dead
+2 Sinister Sabotage
+2 Dig Through Time
+2 Narset, Parter of Veils
+2 Opt
+2 Drowned Catacomb
+3 Swamp
+3 Growth Spiral
+3 Languish
+3 Field of the Dead
+3 Hour of Promise
+3 Sinister Sabotage
+3 Opt
+4 Abrupt Decay
+4 Growth Spiral
+4 Hour of Promise
+4 Opt
+1 Asylum Visitor
+1 Rotting Regisaur
+1 Bloodsoaked Champion
+2 Asylum Visitor
+2 Rotting Regisaur
+2 Bloodsoaked Champion
+3 Rotting Regisaur
+3 Bloodsoaked Champion
+4 Elvish Mystic
+4 Lovestruck Beast
+4 Rotting Regisaur
+4 Bloodsoaked Champion
+1 Witch's Oven
+1 Cauldron Familiar
+1 Trail of Crumbs
+1 Strategic Planning
+1 Massacre Girl
+1 Hangarback Walker
+1 Glint-Nest Crane
+2 Witch's Oven
+2 Cauldron Familiar
+2 Trail of Crumbs
+2 Strategic Planning
+2 Massacre Girl
+2 Glint-Nest Crane
+2 Hangarback Walker
+3 Witch's Oven
+3 Cauldron Familiar
+3 Trail of Crumbs
+3 Massacre Girl
+3 Glint-Nest Crane
+4 Witch's Oven
+4 Cauldron Familiar
+4 Trail of Crumbs
+4 Glint-Nest Crane
+4 Once Upon a Time
 1 Haunted Dead
 1 Gurmag Angler
 1 Tome Scour
@@ -84,92 +150,26 @@
 3 Stitcher's Supplier
 3 Prized Amalgam
 3 Haunted Dead
-3 Elder Deep-Fiend
 3 Satyr Wayfinder
+3 Elder Deep-Fiend
 4 Tome Scour
 4 Grisly Salvage
-4 Satyr Wayfinder
-4 Stitcher's Supplier
 4 Prized Amalgam
-4 Haunted Dead
+4 Stitcher's Supplier
 4 Elder Deep-Fiend
-1 Geier Reach Sanitarium
-1 Syncopate
-1 Castle Vantress
-1 Growth Spiral
-1 Field of the Dead
-1 Hour of Promise
-1 Sinister Sabotage
-1 Spell Pierce
-1 Opt
-1 Narset, Parter of Veils
-2 Syncopate
-2 Growth Spiral
-2 Hour of Promise
-2 Field of the Dead
-2 Sinister Sabotage
-2 Dig Through Time
-2 Narset, Parter of Veils
-2 Drowned Catacomb
-2 Opt
-3 Swamp
-3 Growth Spiral
-3 Languish
-3 Field of the Dead
-3 Hour of Promise
-3 Sinister Sabotage
-3 Opt
-4 Growth Spiral
-4 Abrupt Decay
-4 Hour of Promise
-4 Opt
-1 Rotting Regisaur
-1 Bloodsoaked Champion
-1 Asylum Visitor
-2 Rotting Regisaur
-2 Bloodsoaked Champion
-2 Asylum Visitor
-3 Rotting Regisaur
-3 Bloodsoaked Champion
-4 Elvish Mystic
-4 Lovestruck Beast
-4 Rotting Regisaur
-4 Bloodsoaked Champion
-1 Witch's Oven
-1 Cauldron Familiar
-1 Trail of Crumbs
-1 Strategic Planning
-1 Massacre Girl
-1 Hangarback Walker
-1 Glint-Nest Crane
-2 Cauldron Familiar
-2 Witch's Oven
-2 Trail of Crumbs
-2 Strategic Planning
-2 Massacre Girl
-2 Glint-Nest Crane
-2 Hangarback Walker
-3 Witch's Oven
-3 Cauldron Familiar
-3 Trail of Crumbs
-3 Massacre Girl
-3 Glint-Nest Crane
-4 Witch's Oven
-4 Cauldron Familiar
-4 Trail of Crumbs
-4 Glint-Nest Crane
-4 Once Upon a Time
+4 Haunted Dead
+4 Satyr Wayfinder
 1 Battle at the Bridge
 1 Guild Globe
-1 Golden Egg
 1 Karn, the Great Creator
+1 Golden Egg
 1 Spire of Industry
 1 Metallic Rebuke
 1 Herald of Anguish
 1 Renegade Map
 1 Prophetic Prism
-1 Tezzeret the Schemer
 1 Tezzeret, Master of the Bridge
+1 Tezzeret the Schemer
 2 Guild Globe
 2 Golden Egg
 2 Karn, the Great Creator
@@ -178,8 +178,8 @@
 2 Metallic Rebuke
 2 Herald of Anguish
 2 Renegade Map
-2 Tezzeret, Master of the Bridge
 2 Prophetic Prism
+2 Tezzeret, Master of the Bridge
 3 Metallic Rebuke
 3 Karn, the Great Creator
 3 Battle at the Bridge

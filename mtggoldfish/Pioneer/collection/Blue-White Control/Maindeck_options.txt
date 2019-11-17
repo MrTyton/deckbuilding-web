@@ -1,21 +1,21 @@
-1 Fabled Passage
 2 Cast Out
-2 Search for Azcanta
 1 Blessed Alliance
 3 Absorb
+1 Fabled Passage
+2 Search for Azcanta
 1 Last Breath
 2 Disallow
 2 Temple of Enlightenment
 1 Port Town
+2 Syncopate
 1 Torrential Gearhulk
 1 Settle the Wreckage
+2 Blessed Alliance
 3 Field of Ruin
 1 Elspeth, Sun's Champion
-2 Syncopate
 4 Teferi, Time Raveler
 2 Seal Away
 2 Censor
-2 Blessed Alliance
 2 Last Breath
 1 Gideon of the Trials
 3 Disallow
@@ -23,24 +23,25 @@
 1 Field of the Dead
 3 Censor
 3 Narset, Parter of Veils
+2 Jace, Architect of Thought
 1 Hieroglyphic Illumination
 2 Field of the Dead
 1 Commit/Memory
 1 Spell Pierce
 4 Field of Ruin
-2 Jace, Architect of Thought
-3 Temple of Enlightenment
-2 Torrential Gearhulk
-1 Mystic Sanctuary
-1 Cyclonic Rift
 2 Castle Vantress
 5 Plains
-2 Hieroglyphic Illumination
+3 Temple of Enlightenment
+2 Torrential Gearhulk
 3 Teferi, Hero of Dominaria
+1 Mystic Sanctuary
+1 Cyclonic Rift
+2 Castle Ardenvale
+2 Hieroglyphic Illumination
 2 Fabled Passage
 1 Prairie Stream
-2 Port Town
 2 Irrigated Farmland
+2 Port Town
 2 Commit/Memory
 4 Censor
 1 Blast Zone
@@ -51,7 +52,6 @@
 3 Sphinx's Revelation
 3 Last Breath
 7 Island
-2 Castle Ardenvale
 2 Dovin's Veto
 3 Port Town
 4 Port Town
@@ -78,6 +78,7 @@
 2 Sinister Sabotage
 1 Mutavault
 2 Mutavault
+4 Absorb
 1 Elixir of Immortality
 2 Gideon, Ally of Zendikar
 1 Spell Queller
@@ -85,6 +86,7 @@
 3 Spell Queller
 4 Fabled Passage
 1 Chemister's Insight
+1 Isolate
 1 Sorcerous Spyglass
 1 Disdainful Stroke
 1 Quench
@@ -99,10 +101,6 @@
 1 Treasure Cruise
 4 Temple of Enlightenment
 4 Disallow
-1 Isolate
-4 Absorb
-1 Pithing Needle
-4 Spell Queller
 1 Realm-Cloaked Giant
 1 Anticipate
 2 Anticipate
@@ -111,6 +109,8 @@
 4 Syncopate
 1 Blink of an Eye
 4 Dig Through Time
+1 Pithing Needle
+4 Spell Queller
 1 Essence Scatter
 1 Reliquary Tower
 3 Search for Azcanta

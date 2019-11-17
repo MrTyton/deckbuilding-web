@@ -1,3 +1,4 @@
+1 Leyline of Abundance
 1 Oath of Nissa
 2 Leyline of Abundance
 2 Oath of Nissa
@@ -5,7 +6,6 @@
 3 Oath of Nissa
 4 Leyline of Abundance
 4 Oath of Nissa
-3 Scavenging Ooze
 1 Courser of Kruphix
 2 Courser of Kruphix
 1 Ulamog, the Ceaseless Hunger
@@ -25,8 +25,8 @@
 1 Cascading Cataracts
 1 Hour of Promise
 1 Arboreal Grazer
-1 Golos, Tireless Pilgrim
 1 Ugin, the Spirit Dragon
+1 Golos, Tireless Pilgrim
 1 Desert of the Indomitable
 1 Scavenger Grounds
 1 Elvish Rejuvenator
@@ -35,26 +35,38 @@
 2 Shrine of the Forsaken Gods
 2 Arboreal Grazer
 2 Field of the Dead
-2 Golos, Tireless Pilgrim
 2 Desert of the Indomitable
 2 Hour of Promise
 2 Elvish Rejuvenator
+2 Golos, Tireless Pilgrim
 3 Ugin, the Spirit Dragon
-3 Hashep Oasis
 3 Shrine of the Forsaken Gods
 3 Arboreal Grazer
 3 Hour of Promise
+3 Hashep Oasis
 3 Elvish Rejuvenator
 4 Ugin, the Spirit Dragon
 4 Arboreal Grazer
 4 Elvish Rejuvenator
 4 Hour of Promise
 4 Castle Garenbrig
-1 Sylvan Caryatid
 1 Emrakul, the Promised End
-2 Sylvan Caryatid
+1 Sylvan Caryatid
 1 Field of Ruin
+2 Sylvan Caryatid
+3 Sylvan Caryatid
+4 Sylvan Caryatid
+1 Geier Reach Sanitarium
+1 Paradise Druid
+2 Paradise Druid
+1 Verdurous Gearhulk
+2 Verdurous Gearhulk
+3 Verdurous Gearhulk
+2 Ulamog, the Ceaseless Hunger
+4 Shrine of the Forsaken Gods
 1 Hydroid Krasis
+1 Polukranos, World Eater
+1 Kiora, Master of the Depths
 1 Breeding Pool
 1 Botanical Sanctum
 1 Oko, Thief of Crowns
@@ -68,21 +80,6 @@
 4 Hydroid Krasis
 4 Botanical Sanctum
 4 Breeding Pool
-3 Sylvan Caryatid
-4 Sylvan Caryatid
-16 Forest
-1 Geier Reach Sanitarium
-1 Kiora, Master of the Depths
-1 Polukranos, World Eater
-1 Paradise Druid
-2 Paradise Druid
-1 Verdurous Gearhulk
-2 Verdurous Gearhulk
-3 Verdurous Gearhulk
-1 Vivien, Champion of the Wilds
-3 Oko, Thief of Crowns
-2 Ulamog, the Ceaseless Hunger
-4 Shrine of the Forsaken Gods
 1 Dragonlord Atarka
 1 Explosive Vegetation
 1 Ulvenwald Hydra
@@ -105,48 +102,7 @@
 4 Explosive Vegetation
 4 Stomping Ground
 4 World Breaker
-1 Barkhide Troll
-1 Steel Leaf Champion
-1 Yorvo, Lord of Garenbrig
-1 Aspect of Hydra
-1 Dryad Militant
-1 Experiment One
-1 Questing Beast
-1 Blossoming Defense
-1 Pelt Collector
-1 Talons of Wildwood
-1 Avatar of the Resolute
-1 Kalonian Tusker
-2 Barkhide Troll
-2 Aspect of Hydra
-2 Steel Leaf Champion
-2 Yorvo, Lord of Garenbrig
-2 Dryad Militant
-2 Experiment One
-2 Blossoming Defense
-2 Pelt Collector
-2 Questing Beast
-2 Avatar of the Resolute
-2 Kalonian Tusker
-2 Talons of Wildwood
-3 Barkhide Troll
-3 Steel Leaf Champion
-3 Dryad Militant
-3 Blossoming Defense
-3 Avatar of the Resolute
-3 Aspect of Hydra
-3 Pelt Collector
-4 Barkhide Troll
-4 Dryad Militant
-4 Steel Leaf Champion
-4 Avatar of the Resolute
-4 Pelt Collector
-4 Blossoming Defense
-4 Aspect of Hydra
-17 Forest
-18 Forest
-19 Forest
-20 Forest
+16 Forest
 1 Temur Sabertooth
 1 Westvale Abbey
 1 Chord of Calling
@@ -170,12 +126,12 @@
 3 Chord of Calling
 3 Collected Company
 3 Courser of Kruphix
+3 Elvish Visionary
 3 Elvish Clancaller
 3 Dwynen's Elite
-3 Elvish Visionary
 3 Shaman of the Pack
-3 Blooming Marsh
 3 Overgrown Tomb
+3 Blooming Marsh
 4 Courser of Kruphix
 4 Collected Company
 4 Elvish Clancaller

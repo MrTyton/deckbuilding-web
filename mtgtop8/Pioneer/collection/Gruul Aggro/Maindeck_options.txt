@@ -84,16 +84,16 @@
 10 Mountain
 1 Resilient Khenra
 1 Kessig Prowler
+1 Yorvo, Lord of Garenbrig
+1 Aspect of Hydra
 1 Managorger Hydra
 1 Syr Faren, the Hengehammer
-1 Aspect of Hydra
-1 Yorvo, Lord of Garenbrig
 1 Domri's Ambush
 2 Managorger Hydra
+2 Aspect of Hydra
+2 Yorvo, Lord of Garenbrig
 2 Kessig Prowler
 2 Syr Faren, the Hengehammer
-2 Yorvo, Lord of Garenbrig
-2 Aspect of Hydra
 2 Domri's Ambush
 3 Syr Faren, the Hengehammer
 3 Yorvo, Lord of Garenbrig
@@ -105,21 +105,21 @@
 3 Legion Warboss
 4 Legion Warboss
 1 Sweltering Suns
-1 Hanweir Battlements
 1 Cinder Glade
 1 Sylvan Caryatid
 1 Combustible Gearhulk
 1 See the Unwritten
-2 Hanweir Battlements
+1 Hanweir Battlements
 2 Sweltering Suns
 2 Surrak, the Hunt Caller
 2 Sylvan Caryatid
+2 Hanweir Battlements
 2 Combustible Gearhulk
 2 See the Unwritten
 2 Cinder Glade
 3 Cinder Glade
-3 Hanweir Battlements
 3 Sylvan Caryatid
+3 Hanweir Battlements
 3 Combustible Gearhulk
 4 Cinder Glade
 4 Sylvan Caryatid
@@ -154,25 +154,6 @@
 3 Paradise Druid
 4 Paradise Druid
 4 Dragonlord Atarka
-1 Pelt Collector
-1 Experiment One
-1 Burning-Tree Emissary
-1 Zhur-Taa Goblin
-2 Pelt Collector
-2 Experiment One
-2 Burning-Tree Emissary
-2 Zhur-Taa Goblin
-3 Reckless Bushwhacker
-3 Zurgo Bellstriker
-3 Pelt Collector
-3 Experiment One
-3 Burning-Tree Emissary
-3 Zhur-Taa Goblin
-4 Reckless Bushwhacker
-4 Experiment One
-4 Pelt Collector
-4 Burning-Tree Emissary
-4 Zhur-Taa Goblin
 1 Fling
 1 Maximize Velocity
 1 Collision / Colossus
@@ -204,18 +185,37 @@
 3 Electrostatic Pummeler
 3 Voltaic Brawler
 4 Collision / Colossus
-4 Blossoming Defense
 4 Harnessed Lightning
 4 Attune with Aether
 4 Aether Hub
 4 Electrostatic Pummeler
 4 Voltaic Brawler
+4 Blossoming Defense
 4 Longtusk Cub
 4 Bristling Hydra
+1 Experiment One
+1 Pelt Collector
+1 Burning-Tree Emissary
+1 Zhur-Taa Goblin
+2 Experiment One
+2 Pelt Collector
+2 Burning-Tree Emissary
+2 Zhur-Taa Goblin
+3 Reckless Bushwhacker
+3 Zurgo Bellstriker
+3 Experiment One
+3 Burning-Tree Emissary
+3 Zhur-Taa Goblin
+3 Pelt Collector
+4 Reckless Bushwhacker
+4 Experiment One
+4 Burning-Tree Emissary
+4 Zhur-Taa Goblin
+4 Pelt Collector
 1 Courser of Kruphix
 1 Domri Rade
-2 Courser of Kruphix
 2 Domri Rade
+2 Courser of Kruphix
 3 Domri Rade
 3 Courser of Kruphix
 3 Glorybringer

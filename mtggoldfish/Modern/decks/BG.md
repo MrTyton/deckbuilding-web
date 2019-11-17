@@ -30,9 +30,9 @@
 
 |*n*<sup>th</sup> copy|                                          Maindeck Card                                          |*n*<sup>th</sup> copy|                                       Sideboard Card                                       |
 |--------------------:|-------------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------|
-|                    1|[Dwynen's Elite](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442739)        |                    1|[Reclamation Sage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389651) |
+|                    1|[Dwynen's Elite](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442739)        |                    1|[Abrupt Decay](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456061)     |
+|                    1|[Unclaimed Territory](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435419)   |                    1|[Reclamation Sage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389651) |
 |                    1|[Collector Ouphe](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464107)       |                    1|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)   |
-|                    1|[Unclaimed Territory](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435419)   |                    1|[Abrupt Decay](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456061)     |
 |                    1|[Pendelhaven](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442233)           |                    1|[Stain the Mind](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383402)   |
 |                    1|[Westvale Abbey](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=410049)        |                    1|[Weather the Storm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464140)|
 |                    1|[Lead the Stampede](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382295)     |                    2|[Abrupt Decay](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456061)     |

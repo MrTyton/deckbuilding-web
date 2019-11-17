@@ -23,3 +23,11 @@
 |1 [Silent Gravestone](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439846)|3 [Hope of Ghirapur](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423821)|                                                                                           |                                                                                    |                                                                                        |
 |2 [Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)   |1 [Monastery Mentor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391883)|                                                                                           |                                                                                    |                                                                                        |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                     Maindeck Card                                     |*n*<sup>th</sup> copy|                                     Sideboard Card                                     |
+|--------------------:|---------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------|
+|                    2|[Volcanic Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=887)|                    1|[Echoing Truth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405212)|
+|                     |                                                                                       |                    1|[Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)       |
+

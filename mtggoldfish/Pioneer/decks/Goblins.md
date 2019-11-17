@@ -43,8 +43,8 @@
 |                    3|[Ramunap Ruins](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430870)        |                    1|[Bonecrusher Giant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473077)  |
 |                    4|[Embercleave](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473082)          |                    2|[Bonecrusher Giant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473077)  |
 |                    4|[Burning-Tree Emissary](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426627)|                    2|[Goblin Trashmaster](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447280) |
-|                    1|[Goblin Chainwhirler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443017)  |                    3|[Goblin Chainwhirler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443017)|
-|                    1|[Goblin Warchief](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=157934)      |                    3|[Bonecrusher Giant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473077)  |
+|                    1|[Goblin Warchief](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=157934)      |                    3|[Goblin Chainwhirler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443017)|
+|                    1|[Goblin Chainwhirler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443017)  |                    3|[Bonecrusher Giant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473077)  |
 |                    2|[Goblin Chainwhirler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443017)  |                    4|[Bonecrusher Giant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473077)  |
 |                    3|[Goblin Chainwhirler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443017)  |                    4|[Goblin Chainwhirler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443017)|
 

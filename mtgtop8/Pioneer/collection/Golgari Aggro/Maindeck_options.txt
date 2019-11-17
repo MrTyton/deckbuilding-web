@@ -3,9 +3,9 @@
 3 Fatal Push
 1 Woodland Cemetery
 2 Woodland Cemetery
-1 Courser of Kruphix
 1 Castle Locthwain
 1 Ishkanah, Grafwidow
+1 Courser of Kruphix
 1 Assassin's Trophy
 1 Field of Ruin
 1 Scavenging Ooze
@@ -34,8 +34,8 @@
 2 Questing Beast
 3 Questing Beast
 3 Murderous Rider
-4 Murderous Rider
 4 Questing Beast
+4 Murderous Rider
 1 Sylvan Caryatid
 2 Sylvan Caryatid
 3 Sylvan Caryatid
@@ -50,11 +50,11 @@
 1 Bomat Courier
 2 Mana Confluence
 2 Chromanticore
-2 Blood Crypt
 2 Samut, Voice of Dissent
+2 Blood Crypt
 3 Samut, Voice of Dissent
-3 Mana Confluence
 3 Blood Crypt
+3 Mana Confluence
 4 Mana Confluence
 2 Scavenging Ooze
 1 Collective Brutality
@@ -63,36 +63,36 @@
 1 Kalitas, Traitor of Ghet
 2 Assassin's Trophy
 4 Woodland Cemetery
+1 Stonecoil Serpent
 1 Hangarback Walker
 1 Nissa, Voice of Zendikar
 1 Hardened Scales
-1 Winding Constrictor
-1 Stonecoil Serpent
 1 Rishkar, Peema Renegade
+1 Winding Constrictor
+2 Stonecoil Serpent
 2 Walking Ballista
 2 Hangarback Walker
 2 Hardened Scales
 2 Nissa, Voice of Zendikar
-2 Stonecoil Serpent
-2 Rishkar, Peema Renegade
 2 Winding Constrictor
+2 Rishkar, Peema Renegade
 3 Walking Ballista
+3 Stonecoil Serpent
 3 Hangarback Walker
 3 Hardened Scales
 3 Winding Constrictor
-3 Stonecoil Serpent
 4 Walking Ballista
 4 Hardened Scales
 4 Hangarback Walker
-4 Winding Constrictor
 4 Stonecoil Serpent
+4 Winding Constrictor
 6 Forest
-1 Experiment One
 1 Pelt Collector
-2 Experiment One
+1 Experiment One
 2 Pelt Collector
-3 Experiment One
+2 Experiment One
 3 Pelt Collector
+3 Experiment One
 4 Pelt Collector
 4 Experiment One
 1 Hashep Oasis
@@ -107,22 +107,22 @@
 3 Bomat Courier
 1 Renegade Map
 4 Hissing Quagmire
-1 Noxious Gearhulk
-1 Dead Weight
-1 Duress
-2 Duress
-3 Fabled Passage
-4 Fabled Passage
+1 Metallic Mimic
 1 Ruins of Oran-Rief
 1 Animation Module
 1 Karn's Bastion
 1 Steel Overseer
 1 Sea Gate Wreckage
-1 Metallic Mimic
 2 Metallic Mimic
 2 Steel Overseer
 3 Steel Overseer
 4 Steel Overseer
+1 Noxious Gearhulk
+1 Duress
+1 Dead Weight
+2 Duress
+3 Fabled Passage
+4 Fabled Passage
 3 Nissa, Voice of Zendikar
 4 Nissa, Voice of Zendikar
 1 Nullhide Ferox
@@ -131,44 +131,44 @@
 3 Rhonas the Indomitable
 4 Rhonas the Indomitable
 4 Nullhide Ferox
-1 Collected Company
 1 Elvish Visionary
 1 Duskwatch Recruiter
 1 Blisterpod
+1 Nantuko Husk
 1 Westvale Abbey
 1 Zulaport Cutthroat
-1 Nantuko Husk
 1 Plaguecrafter
 1 Liliana, Heretical Healer
+1 Collected Company
 1 Catacomb Sifter
 1 Llanowar Elves
 1 Elvish Mystic
-2 Collected Company
 2 Westvale Abbey
 2 Duskwatch Recruiter
 2 Blisterpod
+2 Nantuko Husk
+2 Collected Company
 2 Elvish Visionary
 2 Zulaport Cutthroat
-2 Nantuko Husk
 2 Liliana, Heretical Healer
 2 Elvish Mystic
 2 Llanowar Elves
 2 Catacomb Sifter
-3 Collected Company
 3 Nantuko Husk
 3 Blisterpod
 3 Duskwatch Recruiter
+3 Collected Company
 3 Zulaport Cutthroat
 3 Elvish Visionary
 3 Llanowar Elves
 3 Elvish Mystic
 3 Catacomb Sifter
-4 Elvish Mystic
-4 Collected Company
 4 Zulaport Cutthroat
 4 Duskwatch Recruiter
 4 Nantuko Husk
+4 Collected Company
 4 Catacomb Sifter
+4 Elvish Mystic
 4 Elvish Visionary
 4 Llanowar Elves
 1 Nightveil Predator
@@ -178,37 +178,37 @@
 4 Samut, Voice of Dissent
 4 Deathrite Shaman
 1 Driven / Despair
-1 Yorvo, Lord of Garenbrig
-1 Steel Leaf Champion
-1 Aspect of Hydra
-1 Barkhide Troll
 1 Syr Faren, the Hengehammer
-1 Avatar of the Resolute
+1 Barkhide Troll
+1 Aspect of Hydra
 1 Dryad Militant
+1 Steel Leaf Champion
+1 Yorvo, Lord of Garenbrig
 1 Blossoming Defense
-2 Yorvo, Lord of Garenbrig
-2 Steel Leaf Champion
+1 Avatar of the Resolute
 2 Blossoming Defense
 2 Driven / Despair
-2 Aspect of Hydra
 2 Syr Faren, the Hengehammer
-2 Barkhide Troll
-2 Avatar of the Resolute
+2 Aspect of Hydra
 2 Dryad Militant
+2 Barkhide Troll
+2 Steel Leaf Champion
+2 Avatar of the Resolute
+2 Yorvo, Lord of Garenbrig
 2 Hashep Oasis
-3 Steel Leaf Champion
 3 Blossoming Defense
+3 Dryad Militant
 3 Hashep Oasis
 3 Barkhide Troll
-3 Aspect of Hydra
 3 Avatar of the Resolute
-3 Dryad Militant
-4 Steel Leaf Champion
-4 Barkhide Troll
-4 Aspect of Hydra
-4 Avatar of the Resolute
-4 Blossoming Defense
+3 Steel Leaf Champion
+3 Aspect of Hydra
 4 Dryad Militant
+4 Blossoming Defense
+4 Barkhide Troll
+4 Avatar of the Resolute
+4 Aspect of Hydra
+4 Steel Leaf Champion
 7 Forest
 8 Forest
 9 Forest

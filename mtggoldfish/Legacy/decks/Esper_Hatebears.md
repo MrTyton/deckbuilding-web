@@ -34,12 +34,17 @@
 
 # Other Options
 
-|*n*<sup>th</sup> copy|                                       Maindeck Card                                        |*n*<sup>th</sup> copy|Sideboard Card|
-|--------------------:|--------------------------------------------------------------------------------------------|---------------------|--------------|
-|                    2|[Weathered Wayfarer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=83311)|                     |              |
-|                    3|[Marsh Flats](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405101)      |                     |              |
-|                    3|[Weathered Wayfarer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=83311)|                     |              |
-|                    3|[Daze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=189255)             |                     |              |
-|                    4|[Weathered Wayfarer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=83311)|                     |              |
-|                    4|[Tundra](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=885)              |                     |              |
+|*n*<sup>th</sup> copy|                                       Maindeck Card                                        |*n*<sup>th</sup> copy|                                            Sideboard Card                                            |
+|--------------------:|--------------------------------------------------------------------------------------------|--------------------:|------------------------------------------------------------------------------------------------------|
+|                    1|[Soulherder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464163)       |                    1|[Gideon, Ally of Zendikar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401897)   |
+|                    1|[Soul Diviner](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461145)     |                    1|[Swords to Plowshares](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=869)          |
+|                    1|[Swords to Plowshares](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=869)|                    1|[Containment Priest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389470)         |
+|                    2|[Swords to Plowshares](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=869)|                    1|[Ajani, Adversary of Tyrants](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447139)|
+|                    3|[Swords to Plowshares](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=869)|                     |                                                                                                      |
+|                    2|[Weathered Wayfarer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=83311)|                     |                                                                                                      |
+|                    3|[Weathered Wayfarer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=83311)|                     |                                                                                                      |
+|                    3|[Marsh Flats](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405101)      |                     |                                                                                                      |
+|                    3|[Daze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=189255)             |                     |                                                                                                      |
+|                    4|[Weathered Wayfarer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=83311)|                     |                                                                                                      |
+|                    4|[Tundra](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=885)              |                     |                                                                                                      |
 
