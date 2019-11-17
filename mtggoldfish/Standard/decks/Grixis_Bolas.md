@@ -34,8 +34,8 @@
 
 |*n*<sup>th</sup> copy|                                           Maindeck Card                                            |*n*<sup>th</sup> copy|                                       Sideboard Card                                        |
 |--------------------:|----------------------------------------------------------------------------------------------------|--------------------:|---------------------------------------------------------------------------------------------|
-|                    1|[Fabled Passage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473206)           |                    1|[Unmoored Ego](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452962)      |
-|                    1|[God-Eternal Kefnet](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460980)       |                    1|[Dreadhorde Butcher](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461121)|
+|                    1|[Fabled Passage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473206)           |                    1|[Dreadhorde Butcher](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461121)|
+|                    1|[God-Eternal Kefnet](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460980)       |                    1|[Unmoored Ego](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452962)      |
 |                    1|[Narset, Parter of Veils](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460988)  |                    1|[Rotting Regisaur](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466865)  |
 |                    1|[The Elderspell](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461016)           |                    1|[Clackbridge Troll](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473046) |
 |                    1|[Legion's End](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466860)             |                    1|[Augur of Bolas](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376251)    |

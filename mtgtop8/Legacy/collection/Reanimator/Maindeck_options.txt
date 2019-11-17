@@ -1,14 +1,14 @@
-2 Verdant Catacombs
-3 Polluted Delta
 2 Thoughtseize
-4 Bloodstained Mire
+3 Bloodstained Mire
+3 Polluted Delta
 4 Polluted Delta
+4 Bloodstained Mire
+3 Thoughtseize
 1 Tidespout Tyrant
 3 Swamp
-3 Thoughtseize
-1 Grave Titan
 1 Collective Brutality
 2 Collective Brutality
+1 Grave Titan
 4 Thoughtseize
 1 Lake of the Dead
 2 Grave Titan
@@ -17,8 +17,6 @@
 6 Swamp
 7 Swamp
 8 Swamp
-1 Chrome Mox
-2 Chrome Mox
 1 Underground Sea
 9 Swamp
 10 Swamp
@@ -31,8 +29,19 @@
 1 Massacre Wurm
 2 Lake of the Dead
 3 Grave Titan
+1 Dark Depths
+1 Urborg, Tomb of Yawgmoth
+1 Vampire Hexmage
+1 Thespian's Stage
+2 Vampire Hexmage
+2 Thespian's Stage
+2 Dark Depths
+2 Urborg, Tomb of Yawgmoth
+3 Thespian's Stage
+3 Dark Depths
 1 Snow-Covered Swamp
 2 Snow-Covered Swamp
+3 Verdant Catacombs
 1 Ponder
 1 Fatal Push
 1 Force of Will
@@ -53,9 +62,9 @@
 1 Volcanic Island
 1 Lightning Bolt
 1 Delver of Secrets
+1 Deep Analysis
 1 Izzet Charm
 1 Daze
-1 Deep Analysis
 2 Volcanic Island
 2 Young Pyromancer
 2 Dreadhorde Arcanist
@@ -74,7 +83,8 @@
 4 Daze
 4 Lightning Bolt
 4 Delver of Secrets
-1 Sire of Insanity
+1 Chrome Mox
+2 Chrome Mox
 2 Scrubland
 1 Abrupt Decay
 1 Oko, Thief of Crowns
@@ -101,7 +111,23 @@
 2 Misty Rainforest
 3 Arcum's Astrolabe
 3 Abrupt Decay
-3 Verdant Catacombs
+1 Nurturing Peatland
+1 Living Wish
+1 Shallow Grave
+1 Unburial Rites
+1 Lion's Eye Diamond
+1 Children of Korlis
+2 Living Wish
+2 Bayou
+2 Lion's Eye Diamond
+2 Shallow Grave
+3 Living Wish
+3 Shallow Grave
+3 Lion's Eye Diamond
+4 Verdant Catacombs
+4 Living Wish
+4 Shallow Grave
+4 Lion's Eye Diamond
 1 Rotting Regisaur
 1 Tectonic Hellion
 2 Rotting Regisaur
@@ -122,20 +148,10 @@
 16 Swamp
 1 Vilis, Broker of Blood
 1 Archfiend of Despair
-1 Urborg, Tomb of Yawgmoth
-1 Vampire Hexmage
-1 Thespian's Stage
-1 Dark Depths
 1 Thief of Blood
-2 Vampire Hexmage
-2 Thespian's Stage
-2 Dark Depths
-2 Urborg, Tomb of Yawgmoth
-3 Thespian's Stage
 3 Vampire Hexmage
-3 Dark Depths
 3 Urborg, Tomb of Yawgmoth
+4 Dark Depths
 4 Urborg, Tomb of Yawgmoth
 4 Thespian's Stage
-4 Dark Depths
 4 Vampire Hexmage
