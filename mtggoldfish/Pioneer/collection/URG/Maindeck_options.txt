@@ -69,13 +69,13 @@
 4 Growth Spiral
 1 Scavenging Ooze
 2 Scavenging Ooze
-1 Wild Slash
-2 Wild Slash
-3 Heart of Kiran
-3 The Royal Scions
 1 Weirding Wood
 2 Weirding Wood
 3 Weirding Wood
+1 Wild Slash
+2 Wild Slash
+3 The Royal Scions
+3 Heart of Kiran
 1 Anticipate
 2 Anticipate
 3 Mana Confluence
@@ -104,8 +104,8 @@
 2 Game Trail
 4 Wicked Wolf
 4 Stubborn Denial
+1 Hydroid Krasis
 1 Chandra, Flamecaller
-1 Yavimaya Coast
 1 Izzet Guildgate
 1 Sylvan Caryatid
 1 Ugin, the Spirit Dragon
@@ -114,18 +114,18 @@
 1 Circuitous Route
 1 Ulamog, the Ceaseless Hunger
 1 Emrakul, the Promised End
+1 Yavimaya Coast
 1 Shrine of the Forsaken Gods
 1 Sylvan Primordial
-1 Hydroid Krasis
 1 Dragonlord Atarka
-2 Yavimaya Coast
+2 Hydroid Krasis
 2 Sylvan Caryatid
 2 Circuitous Route
 2 Castle Garenbrig
 2 Ugin, the Spirit Dragon
 2 Sylvan Primordial
 2 Chandra, Flamecaller
-2 Hydroid Krasis
+2 Yavimaya Coast
 2 Dragonlord Atarka
 3 Sylvan Caryatid
 3 Ugin, the Spirit Dragon
@@ -148,8 +148,8 @@
 1 Purphoros, God of the Forge
 1 Escape to the Wilds
 1 Wayward Swordtooth
-2 Nissa's Pilgrimage
 2 Elvish Rejuvenator
+2 Nissa's Pilgrimage
 2 Arboreal Grazer
 2 Purphoros, God of the Forge
 2 Escape to the Wilds

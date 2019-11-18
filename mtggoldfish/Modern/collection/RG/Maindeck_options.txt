@@ -1,27 +1,5 @@
-1 Snow-Covered Forest
-2 Snow-Covered Forest
-3 Snow-Covered Forest
-4 Snow-Covered Forest
-2 Blood Moon
-3 Blood Moon
-1 Bonecrusher Giant
-2 Bonecrusher Giant
-3 Bonecrusher Giant
-3 Kiora, Behemoth Beckoner
-3 Glorybringer
-4 Bonecrusher Giant
-4 Glorybringer
-1 Karn, the Great Creator
-2 Karn, the Great Creator
-3 Karn, the Great Creator
-1 Once Upon a Time
-2 Once Upon a Time
 3 Once Upon a Time
-1 Ghost Quarter
-1 Tarmogoyf
-2 Tarmogoyf
-3 Tarmogoyf
-4 Tarmogoyf
+4 Bloodbraid Elf
 1 Reality Smasher
 1 Thought-Knot Seer
 1 Eldrazi Temple
@@ -34,23 +12,11 @@
 4 Reality Smasher
 4 Thought-Knot Seer
 4 Eldrazi Temple
-1 Seasoned Pyromancer
-1 Wrenn and Six
-1 Tarfire
-1 Goblin Rabblemaster
-1 Banefire
-1 Hexdrinker
-2 Snow-Covered Mountain
-2 Seasoned Pyromancer
-2 Wrenn and Six
-2 Hexdrinker
-2 Goblin Rabblemaster
-3 Seasoned Pyromancer
-3 Wrenn and Six
-3 Goblin Rabblemaster
-4 Wrenn and Six
-4 Blood Moon
-4 Seasoned Pyromancer
+1 Ghost Quarter
+1 Tarmogoyf
+2 Tarmogoyf
+3 Tarmogoyf
+4 Tarmogoyf
 1 Nykthos, Shrine to Nyx
 1 Courser of Kruphix
 1 Eternal Witness
@@ -89,18 +55,18 @@
 1 Mutavault
 1 Serum Powder
 1 Matter Reshaper
-1 Eternal Scourge
 1 Scavenger Grounds
+1 Eternal Scourge
 1 Blast Zone
 1 Eldrazi Mimic
 1 Zhalfirin Void
-2 Mutavault
 2 Simian Spirit Guide
 2 Chalice of the Void
 2 Dismember
+2 Zhalfirin Void
 2 Eternal Scourge
 2 Matter Reshaper
-2 Zhalfirin Void
+2 Mutavault
 2 Blast Zone
 2 Serum Powder
 2 Eldrazi Mimic
@@ -120,20 +86,6 @@
 4 Eldrazi Mimic
 4 Zhalfirin Void
 4 Serum Powder
-1 Stone Rain
-1 Mwonvuli Acid-Moss
-1 Bonfire of the Damned
-1 Thragtusk
-2 Mwonvuli Acid-Moss
-2 Thragtusk
-2 Stone Rain
-2 Bonfire of the Damned
-3 Thragtusk
-3 Bonfire of the Damned
-3 Stone Rain
-4 Bonfire of the Damned
-4 Stomping Ground
-4 Karn, the Great Creator
 1 Grove of the Burnwillows
 1 Tireless Tracker
 1 Noble Hierarch
@@ -144,14 +96,68 @@
 2 Tireless Tracker
 2 Karplusan Forest
 3 Grove of the Burnwillows
-3 Tireless Tracker
 3 Birds of Paradise
+3 Tireless Tracker
 3 Karplusan Forest
 3 Noble Hierarch
 4 Grove of the Burnwillows
 4 Birds of Paradise
 4 Karplusan Forest
 4 Noble Hierarch
+1 Snow-Covered Mountain
+1 Wrenn and Six
+1 Tarfire
+1 Seasoned Pyromancer
+1 Snow-Covered Forest
+1 Goblin Rabblemaster
+1 Banefire
+1 Hexdrinker
+2 Snow-Covered Mountain
+2 Snow-Covered Forest
+2 Seasoned Pyromancer
+2 Wrenn and Six
+2 Hexdrinker
+2 Goblin Rabblemaster
+3 Seasoned Pyromancer
+3 Snow-Covered Forest
+3 Wrenn and Six
+3 Goblin Rabblemaster
+4 Wrenn and Six
+4 Blood Moon
+4 Seasoned Pyromancer
+4 Snow-Covered Forest
+1 Stone Rain
+1 Mwonvuli Acid-Moss
+1 Bonfire of the Damned
+1 Thragtusk
+1 Inferno Titan
+1 Misty Rainforest
+2 Mwonvuli Acid-Moss
+2 Inferno Titan
+2 Thragtusk
+2 Stone Rain
+2 Bonfire of the Damned
+3 Pillage
+3 Bonfire of the Damned
+3 Thragtusk
+3 Stone Rain
+4 Bonfire of the Damned
+4 Stomping Ground
+4 Karn, the Great Creator
+4 Pillage
+1 Gruul Spellbreaker
+1 Magus of the Moon
+1 Obstinate Baloth
+1 Vengevine
+2 Gruul Spellbreaker
+2 Obstinate Baloth
+2 Vengevine
+2 Magus of the Moon
+3 Magus of the Moon
+3 Vengevine
+4 Magus of the Moon
+4 Vengevine
+8 Forest
 1 Copperline Gorge
 1 Merchant of the Vale
 1 Life from the Loam
@@ -168,13 +174,13 @@
 2 Magmatic Sinkhole
 2 Copperline Gorge
 2 Tranquil Thicket
+2 Fire-Lit Thicket
 2 Countryside Crusher
 2 Forgotten Cave
-2 Flame Jab
-2 Fire-Lit Thicket
 2 Ghost Quarter
 2 Mountain
 2 Raging Ravine
+2 Flame Jab
 2 Merchant of the Vale
 2 Seismic Assault
 3 Life from the Loam
@@ -188,20 +194,3 @@
 4 Copperline Gorge
 4 Life from the Loam
 4 Ghost Quarter
-1 Stormbreath Dragon
-1 Verdant Catacombs
-2 Stormbreath Dragon
-2 Verdant Catacombs
-2 Misty Rainforest
-3 Misty Rainforest
-3 Gruul Spellbreaker
-4 Gruul Spellbreaker
-5 Snow-Covered Forest
-6 Snow-Covered Forest
-7 Snow-Covered Forest
-1 Vengevine
-2 Obstinate Baloth
-2 Vengevine
-3 Vengevine
-4 Vengevine
-8 Forest

@@ -1,42 +1,17 @@
-2 Walking Ballista
-3 Walking Ballista
-4 Walking Ballista
-1 Nissa, Voice of Zendikar
-1 Winding Constrictor
-2 Nissa, Voice of Zendikar
-2 Winding Constrictor
-3 Winding Constrictor
-3 Nissa, Voice of Zendikar
-4 Nissa, Voice of Zendikar
-4 Winding Constrictor
-1 Temple of Malady
-1 Castle Locthwain
-1 Fabled Passage
-2 Fabled Passage
-3 Fatal Push
-3 Courser of Kruphix
-5 Forest
-1 Emrakul, the Promised End
-2 Assassin's Trophy
-1 Brain Maggot
-1 Wasteland Strangler
 2 Brain Maggot
 2 Wasteland Strangler
+2 Scavenging Ooze
 3 Brain Maggot
 4 Brain Maggot
-1 Tireless Tracker
-2 Tireless Tracker
-3 Tireless Tracker
-3 Scavenging Ooze
-4 Abrupt Decay
-2 Liliana, the Last Hope
-6 Forest
+1 Field of Ruin
+4 Llanowar Wastes
 1 Collected Company
 1 Elvish Visionary
 2 Collected Company
 2 Elvish Visionary
 3 Elvish Visionary
-4 Courser of Kruphix
+5 Forest
+3 Courser of Kruphix
 1 Chord of Calling
 1 Dwynen's Elite
 1 Nykthos, Shrine to Nyx
@@ -56,87 +31,94 @@
 4 Elvish Clancaller
 4 Shaman of the Pack
 4 Dwynen's Elite
-1 Once Upon a Time
-2 Once Upon a Time
-3 Once Upon a Time
-4 Once Upon a Time
-1 Stonecoil Serpent
-1 Voracious Hydra
-1 Vivien, Arkbow Ranger
-2 Stonecoil Serpent
-2 Vivien, Arkbow Ranger
-2 Voracious Hydra
-3 Stonecoil Serpent
 1 Westvale Abbey
 3 Collected Company
 4 Collected Company
-7 Forest
-1 Vraska's Contempt
-2 Temple of Malady
-1 Mutavault
-2 Murderous Rider
-3 Murderous Rider
+1 Walking Ballista
+2 Walking Ballista
+3 Walking Ballista
+4 Walking Ballista
+1 Nissa, Voice of Zendikar
+1 Winding Constrictor
+2 Winding Constrictor
+2 Nissa, Voice of Zendikar
+3 Winding Constrictor
+3 Nissa, Voice of Zendikar
+4 Nissa, Voice of Zendikar
+4 Winding Constrictor
+1 Fabled Passage
+2 Fabled Passage
 4 Elvish Visionary
-1 Field of the Dead
+6 Forest
+1 Temple of Malady
+1 Castle Locthwain
+1 Mutavault
 4 Fatal Push
+1 Emrakul, the Promised End
 1 Languish
 1 Urborg, Tomb of Yawgmoth
 4 Swamp
 5 Swamp
 6 Swamp
-1 Hashep Oasis
+1 Tireless Tracker
 1 Blightbeetle
+2 Tireless Tracker
+3 Tireless Tracker
 3 Wasteland Strangler
+3 Scavenging Ooze
 3 Fabled Passage
 4 Wasteland Strangler
+4 Abrupt Decay
 4 Fabled Passage
+1 Once Upon a Time
 1 Temur Sabertooth
-1 Vraska, Golgari Queen
-1 Yahenni's Expertise
-1 Vivien Reid
-2 Vraska's Contempt
+2 Once Upon a Time
+3 Once Upon a Time
+4 Once Upon a Time
+4 Courser of Kruphix
+1 Stonecoil Serpent
 1 Karn's Bastion
+1 Voracious Hydra
+1 Vivien, Arkbow Ranger
 1 Drana, Liberator of Malakir
 1 Corpsejack Menace
 1 Gyre Sage
 1 Rogue's Passage
+2 Stonecoil Serpent
+2 Karn's Bastion
+2 Vivien, Arkbow Ranger
+2 Voracious Hydra
+2 Corpsejack Menace
 2 Drana, Liberator of Malakir
 2 Gyre Sage
-2 Corpsejack Menace
-2 Karn's Bastion
 3 Drana, Liberator of Malakir
+3 Stonecoil Serpent
 3 Corpsejack Menace
 4 Corpsejack Menace
-1 Hardened Scales
-2 Hardened Scales
-3 Vivien, Arkbow Ranger
-3 Voracious Hydra
-3 Hardened Scales
-4 Voracious Hydra
-4 Vivien, Arkbow Ranger
-4 Stonecoil Serpent
-4 Hardened Scales
 1 Beanstalk Giant
 1 Legion's End
 1 Bontu's Last Reckoning
 1 Collective Brutality
-1 Dark Petition
 1 Mastermind's Acquisition
-1 Nissa, Vastwood Seer
+1 Vraska's Contempt
+1 Dark Petition
 1 Seasons Past
-1 Read the Bones
 1 Hero's Downfall
+1 Read the Bones
+1 Nissa, Vastwood Seer
+2 Temple of Malady
 2 Field of Ruin
 2 Languish
+2 Read the Bones
 2 Kalitas, Traitor of Ghet
 2 Dark Petition
 2 Nissa, Vastwood Seer
-2 Read the Bones
 3 Read the Bones
 3 Dark Petition
 4 Read the Bones
 1 Vivien, Champion of the Wilds
 1 Deathrite Shaman
+2 Liliana, the Last Hope
 2 Deathrite Shaman
 3 Liliana, the Last Hope
 3 Hissing Quagmire
@@ -146,44 +128,32 @@
 1 Nantuko Husk
 1 Duskwatch Recruiter
 1 Liliana, Heretical Healer
-1 Blisterpod
 1 Zulaport Cutthroat
+1 Blisterpod
 1 Catacomb Sifter
 2 Duskwatch Recruiter
 2 Nantuko Husk
 2 Westvale Abbey
-2 Liliana, Heretical Healer
 2 Zulaport Cutthroat
 2 Catacomb Sifter
+2 Liliana, Heretical Healer
 2 Blisterpod
 3 Duskwatch Recruiter
 3 Blisterpod
 3 Catacomb Sifter
 3 Zulaport Cutthroat
 3 Nantuko Husk
-4 Duskwatch Recruiter
 4 Zulaport Cutthroat
 4 Nantuko Husk
+4 Duskwatch Recruiter
 4 Catacomb Sifter
-1 Verdurous Gearhulk
-1 Rishkar, Peema Renegade
-1 Mindwrack Demon
-1 Scrapheap Scrounger
-2 Rishkar, Peema Renegade
-2 Verdurous Gearhulk
-2 Mindwrack Demon
-2 Scrapheap Scrounger
-3 Mindwrack Demon
-3 Scrapheap Scrounger
-3 Verdurous Gearhulk
-4 Verdurous Gearhulk
-4 Mindwrack Demon
-4 Scrapheap Scrounger
 1 Golgari Guildgate
 1 Hour of Promise
 1 Arboreal Grazer
+1 Hashep Oasis
 1 Castle Garenbrig
 1 Nissa's Pilgrimage
+1 Field of the Dead
 1 Shrine of the Forsaken Gods
 1 Ugin, the Spirit Dragon
 1 Ulamog, the Ceaseless Hunger
@@ -194,12 +164,12 @@
 1 Ifnir Deadlands
 2 Hour of Promise
 2 Arboreal Grazer
-2 Field of the Dead
+2 Ulamog, the Ceaseless Hunger
 2 Elvish Rejuvenator
 2 Nissa's Pilgrimage
+2 Field of the Dead
 2 Ugin, the Spirit Dragon
 2 Emrakul, the Promised End
-2 Ulamog, the Ceaseless Hunger
 2 Shrine of the Forsaken Gods
 2 Font of Fertility
 2 Ifnir Deadlands
@@ -217,6 +187,20 @@
 4 Elvish Rejuvenator
 4 Hour of Promise
 4 Font of Fertility
+1 Verdurous Gearhulk
+1 Rishkar, Peema Renegade
+1 Mindwrack Demon
+1 Scrapheap Scrounger
+2 Rishkar, Peema Renegade
+2 Verdurous Gearhulk
+2 Mindwrack Demon
+2 Scrapheap Scrounger
+3 Mindwrack Demon
+3 Scrapheap Scrounger
+3 Verdurous Gearhulk
+4 Mindwrack Demon
+4 Scrapheap Scrounger
+4 Verdurous Gearhulk
 1 Dwynen, Gilt-Leaf Daen
 1 Beast Whisperer
 1 Thorn Lieutenant
@@ -230,12 +214,14 @@
 4 Chord of Calling
 4 Steel Leaf Champion
 4 Thorn Lieutenant
+7 Forest
 8 Forest
 1 Underworld Connections
 1 Gray Merchant of Asphodel
 1 Gifted Aetherborn
 1 Pain Seer
 1 Lifebane Zombie
+2 Murderous Rider
 2 Lifebane Zombie
 2 Gifted Aetherborn
 2 Mutavault
@@ -245,6 +231,7 @@
 2 Castle Locthwain
 3 Assassin's Trophy
 3 Pain Seer
+3 Murderous Rider
 3 Lifebane Zombie
 3 Gifted Aetherborn
 3 Gray Merchant of Asphodel
@@ -252,7 +239,7 @@
 4 Murderous Rider
 4 Gifted Aetherborn
 4 Gray Merchant of Asphodel
-4 Pain Seer
 4 Lifebane Zombie
+4 Pain Seer
 7 Swamp
 8 Swamp

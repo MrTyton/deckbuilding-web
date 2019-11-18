@@ -30,9 +30,9 @@
 
 |*n*<sup>th</sup> copy|                                         Maindeck Card                                          |*n*<sup>th</sup> copy|                                        Sideboard Card                                         |
 |--------------------:|------------------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------------|
-|                    1|[Paradise Druid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461098)       |                    1|[Declaration in Stone](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409750)|
-|                    1|[Slip Through Space](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407557)   |                    1|[Eidolon of Rhetoric](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=380409) |
-|                    1|[Dragon Mantle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373634)        |                    1|[Deafening Clarion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452915)   |
+|                    1|[Slip Through Space](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407557)   |                    1|[Declaration in Stone](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409750)|
+|                    1|[Paradise Druid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461098)       |                    1|[Deafening Clarion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452915)   |
+|                    1|[Dragon Mantle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373634)        |                    1|[Eidolon of Rhetoric](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=380409) |
 |                    1|[Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)       |                    1|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)       |
 |                    1|[Spirebluff Canal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417822)     |                    1|[Sorcerous Spyglass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435407)  |
 |                    1|[Benefaction of Rhonas](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426858)|                    1|[Knight of Autumn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452933)    |
@@ -70,6 +70,7 @@
 |                    3|[Sylvan Caryatid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373624)      |                     |                                                                                               |
 |                    3|[Retraction Helix](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442060)     |                     |                                                                                               |
 |                    3|[Once Upon a Time](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473131)     |                     |                                                                                               |
+|                    4|[Paradise Druid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461098)       |                     |                                                                                               |
 |                    4|[Dragon Mantle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373634)        |                     |                                                                                               |
 |                    4|[Mana Confluence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409573)      |                     |                                                                                               |
 |                    4|[Sylvan Caryatid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373624)      |                     |                                                                                               |
@@ -78,5 +79,4 @@
 |                    4|[Opt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442948)                  |                     |                                                                                               |
 |                    4|[Commune with the Gods](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413704)|                     |                                                                                               |
 |                    4|[Jeskai Ascendancy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386571)    |                     |                                                                                               |
-|                    4|[Paradise Druid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461098)       |                     |                                                                                               |
 

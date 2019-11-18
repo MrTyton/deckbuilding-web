@@ -59,6 +59,6 @@
 |                     |                                                                                                      |                    1|[Davriel, Rogue Shadowmage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461010)|
 |                     |                                                                                                      |                    1|[Doom Blade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=247322)               |
 |                     |                                                                                                      |                    2|[Davriel, Rogue Shadowmage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461010)|
-|                     |                                                                                                      |                    3|[Blightbeetle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466841)             |
 |                     |                                                                                                      |                    2|[Doom Blade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=247322)               |
+|                     |                                                                                                      |                    3|[Blightbeetle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466841)             |
 

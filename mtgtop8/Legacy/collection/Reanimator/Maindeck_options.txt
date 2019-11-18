@@ -1,11 +1,11 @@
 2 Thoughtseize
 3 Bloodstained Mire
 3 Polluted Delta
-4 Polluted Delta
 4 Bloodstained Mire
-3 Thoughtseize
+4 Polluted Delta
 1 Tidespout Tyrant
 3 Swamp
+3 Thoughtseize
 1 Collective Brutality
 2 Collective Brutality
 1 Grave Titan
@@ -17,7 +17,7 @@
 6 Swamp
 7 Swamp
 8 Swamp
-1 Underground Sea
+4 Cabal Therapy
 9 Swamp
 10 Swamp
 11 Swamp
@@ -39,78 +39,14 @@
 2 Urborg, Tomb of Yawgmoth
 3 Thespian's Stage
 3 Dark Depths
+1 Underground Sea
 1 Snow-Covered Swamp
 2 Snow-Covered Swamp
 3 Verdant Catacombs
-1 Ponder
-1 Fatal Push
-1 Force of Will
-1 Brainstorm
-2 Force of Will
-2 Ponder
-2 Underground Sea
-2 Brainstorm
-3 Force of Will
-3 Brainstorm
-3 Ponder
-4 Brainstorm
-4 Ponder
-1 Young Pyromancer
-1 Dreadhorde Arcanist
-1 Hexdrinker
-1 Island
-1 Volcanic Island
-1 Lightning Bolt
-1 Delver of Secrets
-1 Deep Analysis
-1 Izzet Charm
-1 Daze
-2 Volcanic Island
-2 Young Pyromancer
-2 Dreadhorde Arcanist
-2 Lightning Bolt
-2 Delver of Secrets
-2 Izzet Charm
-2 Daze
-3 Dreadhorde Arcanist
-3 Lightning Bolt
-3 Young Pyromancer
-3 Underground Sea
-3 Daze
-3 Delver of Secrets
-3 Volcanic Island
-4 Force of Will
-4 Daze
-4 Lightning Bolt
-4 Delver of Secrets
 1 Chrome Mox
 2 Chrome Mox
 2 Scrubland
-1 Abrupt Decay
-1 Oko, Thief of Crowns
-1 Snow-Covered Island
-1 Snapcaster Mage
-1 Tyrant's Scorn
-1 Tropical Island
-1 Worldgorger Dragon
-1 Baleful Strix
-1 Leovold, Emissary of Trest
-1 Arcum's Astrolabe
-1 Snow-Covered Forest
-1 Misty Rainforest
-1 Stroke of Genius
-1 Gurmag Angler
-2 Abrupt Decay
-2 Snow-Covered Island
-2 Leovold, Emissary of Trest
-2 Fatal Push
-2 Arcum's Astrolabe
-2 Snapcaster Mage
-2 Oko, Thief of Crowns
-2 Baleful Strix
-2 Misty Rainforest
-3 Arcum's Astrolabe
-3 Abrupt Decay
+3 Marsh Flats
 1 Nurturing Peatland
 1 Living Wish
 1 Shallow Grave
@@ -133,6 +69,53 @@
 2 Rotting Regisaur
 3 Rotting Regisaur
 4 Rotting Regisaur
+1 Abrupt Decay
+1 Oko, Thief of Crowns
+1 Snow-Covered Island
+1 Ponder
+1 Snapcaster Mage
+1 Tyrant's Scorn
+1 Fatal Push
+1 Force of Will
+1 Brainstorm
+1 Tropical Island
+1 Worldgorger Dragon
+1 Baleful Strix
+1 Leovold, Emissary of Trest
+1 Arcum's Astrolabe
+1 Snow-Covered Forest
+1 Misty Rainforest
+1 Stroke of Genius
+1 Gurmag Angler
+2 Abrupt Decay
+2 Snow-Covered Island
+2 Leovold, Emissary of Trest
+2 Fatal Push
+2 Force of Will
+2 Ponder
+2 Arcum's Astrolabe
+2 Underground Sea
+2 Snapcaster Mage
+2 Brainstorm
+2 Oko, Thief of Crowns
+2 Baleful Strix
+2 Misty Rainforest
+3 Force of Will
+3 Brainstorm
+3 Ponder
+3 Arcum's Astrolabe
+3 Abrupt Decay
+4 Brainstorm
+4 Ponder
+1 Archfiend of Despair
+1 Thief of Blood
+1 Vilis, Broker of Blood
+3 Vampire Hexmage
+3 Urborg, Tomb of Yawgmoth
+4 Dark Depths
+4 Urborg, Tomb of Yawgmoth
+4 Thespian's Stage
+4 Vampire Hexmage
 1 Duress
 1 Iona, Shield of Emeria
 1 Hymn to Tourach
@@ -142,16 +125,6 @@
 3 Lake of the Dead
 3 Duress
 4 Duress
-4 Cabal Therapy
 4 Grave Titan
 4 Hymn to Tourach
 16 Swamp
-1 Vilis, Broker of Blood
-1 Archfiend of Despair
-1 Thief of Blood
-3 Vampire Hexmage
-3 Urborg, Tomb of Yawgmoth
-4 Dark Depths
-4 Urborg, Tomb of Yawgmoth
-4 Thespian's Stage
-4 Vampire Hexmage
