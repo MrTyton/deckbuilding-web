@@ -34,9 +34,9 @@
 1 Dreadhorde Arcanist
 1 Soul-Scar Mage
 1 Monastery Swiftspear
-2 Dreadhorde Arcanist
 2 Soul-Scar Mage
 2 Monastery Swiftspear
+2 Dreadhorde Arcanist
 3 Soul-Scar Mage
 3 Monastery Swiftspear
 3 Dreadhorde Arcanist
@@ -52,8 +52,8 @@
 1 Scavenger Grounds
 1 Ugin, the Ineffable
 1 Thought-Knot Seer
-1 Aether Hub
 1 Blast Zone
+1 Aether Hub
 2 Thought-Knot Seer
 2 Aether Hub
 3 Aether Hub
@@ -81,8 +81,32 @@
 4 Ramunap Ruins
 3 Goblin Rabblemaster
 4 Goblin Rabblemaster
-1 Sanctum of Ugin
+1 Young Pyromancer
+1 Season of Growth
+1 Fabled Passage
+1 Collision/Colossus
+1 Renegade Tactics
+1 Expedite
+1 Become Immense
+2 Young Pyromancer
+2 Become Immense
+2 Collision/Colossus
+2 Renegade Tactics
+2 Expedite
+2 Fabled Passage
+3 Fabled Passage
+3 Become Immense
+3 Renegade Tactics
+3 Temur Battle Rage
+3 Young Pyromancer
+3 Expedite
+4 Fabled Passage
+4 Young Pyromancer
+4 Expedite
+4 Renegade Tactics
+4 Become Immense
 1 Kozilek's Return
+1 Sanctum of Ugin
 1 Ulamog, the Ceaseless Hunger
 1 Castle Garenbrig
 1 Arboreal Grazer
@@ -109,8 +133,8 @@
 2 Mana Confluence
 2 Ugin, the Ineffable
 2 Shrine of the Forsaken Gods
-2 Field of the Dead
 2 Elvish Rejuvenator
+2 Field of the Dead
 2 Hour of Promise
 2 Golos, Tireless Pilgrim
 2 Corrupted Crossroads
@@ -134,19 +158,19 @@
 2 Domri Rade
 2 Lovestruck Beast
 3 Courser of Kruphix
-3 Game Trail
 3 Lovestruck Beast
+3 Game Trail
 3 Domri Rade
 4 Questing Beast
 4 Courser of Kruphix
 4 Glorybringer
-4 Game Trail
 4 Lovestruck Beast
+4 Game Trail
 4 Domri Rade
 1 Light Up the Stage
-1 Reckless Bushwhacker
 1 Atarka's Command
 1 Legion Loyalist
+1 Reckless Bushwhacker
 2 Light Up the Stage
 2 Shock
 2 Reckless Bushwhacker
@@ -173,35 +197,35 @@
 2 Experiment One
 2 Zhur-Taa Goblin
 3 Pelt Collector
-3 Experiment One
 3 Zhur-Taa Goblin
+3 Experiment One
 3 Voltaic Brawler
 4 Pelt Collector
 4 Experiment One
 4 Voltaic Brawler
 1 Nykthos, Shrine to Nyx
-1 Eidolon of the Great Revel
 1 Magma Spray
 1 Temple of Abandon
+1 Eidolon of the Great Revel
 1 Fanatic of Mogis
-1 Dragon Whisperer
 1 Boros Reckoner
+1 Dragon Whisperer
 1 Hammer of Purphoros
 1 Wily Goblin
 1 Goblin Chainwhirler
 2 Nykthos, Shrine to Nyx
 2 Magma Spray
-2 Eidolon of the Great Revel
 2 Fanatic of Mogis
 2 Boros Reckoner
 2 Dragon Whisperer
 2 Wily Goblin
 2 Goblin Chainwhirler
 2 Temple of Abandon
+2 Eidolon of the Great Revel
 3 Nykthos, Shrine to Nyx
 3 Chandra, Torch of Defiance
-3 Eidolon of the Great Revel
 3 Goblin Chainwhirler
+3 Eidolon of the Great Revel
 3 Dragon Whisperer
 3 Temple of Abandon
 3 Fanatic of Mogis
@@ -210,30 +234,6 @@
 4 Eidolon of the Great Revel
 4 Fanatic of Mogis
 4 Temple of Abandon
-1 Young Pyromancer
-1 Season of Growth
-1 Fabled Passage
-1 Collision/Colossus
-1 Renegade Tactics
-1 Expedite
-1 Become Immense
-2 Young Pyromancer
-2 Become Immense
-2 Collision/Colossus
-2 Renegade Tactics
-2 Expedite
-2 Fabled Passage
-3 Fabled Passage
-3 Become Immense
-3 Renegade Tactics
-3 Temur Battle Rage
-3 Young Pyromancer
-3 Expedite
-4 Fabled Passage
-4 Young Pyromancer
-4 Renegade Tactics
-4 Become Immense
-4 Expedite
 1 Sea Gate Wreckage
 1 Reality Smasher
 1 Matter Reshaper
@@ -256,9 +256,9 @@
 1 Explosive Vegetation
 2 Sanctum of Ugin
 2 Sylvan Scrying
+2 Ulamog, the Ceaseless Hunger
 2 Ugin, the Spirit Dragon
 2 Nissa's Pilgrimage
-2 Ulamog, the Ceaseless Hunger
 2 Castle Garenbrig
 2 Whisperwood Elemental
 2 Explosive Vegetation

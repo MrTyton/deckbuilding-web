@@ -1,6 +1,6 @@
+1 Disallow
 1 Wilderness Reclamation
 1 Absorb
-1 Nexus of Fate
 1 Supreme Will
 2 Island
 2 Search for Azcanta
@@ -17,10 +17,10 @@
 2 Wilderness Reclamation
 3 Growth Spiral
 3 Glacial Fortress
+3 Lumbering Falls
 3 Wilderness Reclamation
 3 Sphinx's Revelation
 3 Supreme Verdict
-3 Lumbering Falls
 4 Sphinx's Revelation
 4 Growth Spiral
 4 Fabled Passage
@@ -97,10 +97,10 @@
 1 Corridor Monitor
 1 Renegade Rallier
 1 Thought-Knot Seer
+1 Eldrazi Displacer
 1 Eyeless Watcher
 1 Giant Killer
 1 Biomancer's Familiar
-1 Eldrazi Displacer
 1 Chord of Calling
 1 Unclaimed Territory
 1 Shefet Dunes
@@ -115,8 +115,8 @@
 3 Once Upon a Time
 3 Prime Speaker Vannifar
 3 Chord of Calling
-3 Shefet Dunes
 3 Unclaimed Territory
+3 Shefet Dunes
 4 Once Upon a Time
 4 Prime Speaker Vannifar
 4 Chord of Calling
@@ -153,8 +153,8 @@
 1 Interplanar Beacon
 2 Kytheon, Hero of Akros
 2 Heart of Kiran
-2 Spire of Industry
 2 Thraben Inspector
+2 Spire of Industry
 2 Gideon, Ally of Zendikar
 2 Toolcraft Exemplar
 2 Smuggler's Copter
