@@ -80,6 +80,6 @@
 |                    1|[Dreadbore](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430622)              |                     |                                                                                                   |
 |                    2|[Blooming Marsh](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417816)         |                     |                                                                                                   |
 |                    2|[Dreadbore](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430622)              |                     |                                                                                                   |
-|                    3|[Tireless Tracker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409997)       |                     |                                                                                                   |
 |                    4|[Kolaghan's Command](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394613)     |                     |                                                                                                   |
+|                    3|[Tireless Tracker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409997)       |                     |                                                                                                   |
 

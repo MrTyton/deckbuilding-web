@@ -11,8 +11,8 @@
 1 Spell Pierce
 1 Ornithopter
 2 Spell Snare
-2 Retrofitter Foundry
 2 Spell Pierce
+2 Retrofitter Foundry
 2 Underground Sea
 2 Ornithopter
 2 Yuriko, the Tiger's Shadow
@@ -27,11 +27,11 @@
 1 Scalding Tarn
 1 Mountain
 1 Angrath's Rampage
-1 Volcanic Island
 1 Liliana's Triumph
 1 Swamp
 1 Fallen Shinobi
 1 Augur of Bolas
+1 Volcanic Island
 2 Jace, the Mind Sculptor
 2 Island
 2 Swamp
@@ -46,7 +46,6 @@
 1 Plains
 1 Karakas
 1 Fiery Islet
-1 Hypnotic Sprite
 1 Unsettled Mariner
 1 Plateau
 1 Phantasmal Image
@@ -63,6 +62,7 @@
 1 Rattlechains
 1 Spell Queller
 1 Mausoleum Wanderer
+1 Hypnotic Sprite
 1 Supreme Phantom
 1 Drogskol Captain
 2 Tundra
@@ -103,40 +103,6 @@
 3 Windswept Heath
 3 Green Sun's Zenith
 4 Green Sun's Zenith
-1 Gilded Goose
-1 Ice-Fang Coatl
-1 Noble Hierarch
-1 Courser of Kruphix
-1 Misty Rainforest
-1 Snow-Covered Forest
-1 Tropical Island
-1 Oko, Thief of Crowns
-1 Hexdrinker
-1 Daze
-1 Collector Ouphe
-2 Tropical Island
-2 Noble Hierarch
-2 Misty Rainforest
-2 Oko, Thief of Crowns
-2 Brazen Borrower
-2 Ice-Fang Coatl
-2 Courser of Kruphix
-2 Snow-Covered Forest
-2 Daze
-3 Ice-Fang Coatl
-3 Snow-Covered Forest
-3 Tropical Island
-3 Wasteland
-3 Courser of Kruphix
-3 Misty Rainforest
-3 Oko, Thief of Crowns
-3 Brazen Borrower
-3 Noble Hierarch
-4 Noble Hierarch
-4 Tropical Island
-4 Misty Rainforest
-4 Ice-Fang Coatl
-4 Oko, Thief of Crowns
 1 Knight of the Reliquary
 1 Horizon Canopy
 1 Tomik, Distinguished Advokist
@@ -146,8 +112,8 @@
 1 Bojuka Bog
 1 Crop Rotation
 1 Wooded Foothills
-1 Mox Diamond
 1 Ramunap Excavator
+1 Mox Diamond
 1 Gaddock Teeg
 1 Dark Depths
 1 Thespian's Stage
@@ -183,3 +149,37 @@
 4 Thespian's Stage
 4 Elvish Reclaimer
 4 Crop Rotation
+1 Gilded Goose
+1 Ice-Fang Coatl
+1 Noble Hierarch
+1 Courser of Kruphix
+1 Misty Rainforest
+1 Snow-Covered Forest
+1 Tropical Island
+1 Oko, Thief of Crowns
+1 Hexdrinker
+1 Daze
+1 Collector Ouphe
+2 Tropical Island
+2 Noble Hierarch
+2 Misty Rainforest
+2 Oko, Thief of Crowns
+2 Brazen Borrower
+2 Ice-Fang Coatl
+2 Courser of Kruphix
+2 Snow-Covered Forest
+2 Daze
+3 Ice-Fang Coatl
+3 Snow-Covered Forest
+3 Tropical Island
+3 Wasteland
+3 Courser of Kruphix
+3 Misty Rainforest
+3 Oko, Thief of Crowns
+3 Brazen Borrower
+3 Noble Hierarch
+4 Tropical Island
+4 Misty Rainforest
+4 Ice-Fang Coatl
+4 Oko, Thief of Crowns
+4 Noble Hierarch

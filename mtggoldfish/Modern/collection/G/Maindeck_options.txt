@@ -6,6 +6,7 @@
 4 Forest
 5 Forest
 6 Forest
+1 Horizon Canopy
 1 Devoted Druid
 1 Vivien, Arkbow Ranger
 1 Once Upon a Time
@@ -21,12 +22,11 @@
 1 Windswept Heath
 1 Misty Rainforest
 1 Burning-Tree Emissary
-1 Horizon Canopy
 1 Karn, the Great Creator
 2 Misty Rainforest
-2 Vivien, Arkbow Ranger
 2 Devoted Druid
 2 Once Upon a Time
+2 Horizon Canopy
 2 Leyline of Abundance
 2 Oath of Nissa
 2 Genesis Hydra
@@ -36,21 +36,21 @@
 2 Windswept Heath
 2 Karn, the Great Creator
 2 Noble Hierarch
+2 Vivien, Arkbow Ranger
 2 Wistful Selkie
-2 Horizon Canopy
 2 Burning-Tree Emissary
 3 Windswept Heath
-3 Horizon Canopy
 3 Misty Rainforest
 3 Once Upon a Time
-3 Vivien, Arkbow Ranger
 3 Leyline of Abundance
 3 Oath of Nissa
 3 Llanowar Elves
+3 Horizon Canopy
 3 Nykthos, Shrine to Nyx
 3 Burning-Tree Emissary
 3 Genesis Hydra
 3 Karn, the Great Creator
+3 Vivien, Arkbow Ranger
 3 Noble Hierarch
 4 Leyline of Abundance
 4 Oath of Nissa
@@ -80,21 +80,21 @@
 2 Savage Swipe
 2 Avatar of the Resolute
 2 Dryad Militant
+2 Pelt Collector
 2 Vines of Vastwood
 2 Syr Faren, the Hengehammer
 2 Aspect of Hydra
-2 Pelt Collector
 2 Strangleroot Geist
 3 Rancor
 3 Nurturing Peatland
 3 Avatar of the Resolute
-3 Savage Swipe
 3 Dryad Militant
 3 Hexdrinker
 3 Strangleroot Geist
 3 Vines of Vastwood
 3 Syr Faren, the Hengehammer
 3 Aspect of Hydra
+3 Savage Swipe
 3 Pelt Collector
 4 Rancor
 4 Dryad Militant
@@ -110,5 +110,5 @@
 8 Forest
 9 Forest
 10 Forest
-12 Forest
 11 Forest
+12 Forest

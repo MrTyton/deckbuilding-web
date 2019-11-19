@@ -47,6 +47,6 @@
 |                    2|[Snow-Covered Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121130)|                    1|[Goblin Cratermaker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452853)        |
 |                    2|[Vendilion Clique](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442065)   |                    1|[Beacon Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452904)               |
 |                    3|[Snow-Covered Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121130)|                    1|[Magma Spray](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426843)               |
-|                    4|[Snow-Covered Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121130)|                    2|[Into the Story](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473012)            |
-|                    2|[Misty Rainforest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405102)   |                    1|[Into the Story](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473012)            |
+|                    4|[Snow-Covered Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121130)|                    1|[Into the Story](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473012)            |
+|                    2|[Misty Rainforest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405102)   |                    2|[Into the Story](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473012)            |
 

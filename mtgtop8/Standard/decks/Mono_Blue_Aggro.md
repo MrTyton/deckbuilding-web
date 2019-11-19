@@ -66,8 +66,8 @@
 |                   18|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)              |                     |                                                                                                  |
 |                   19|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)              |                     |                                                                                                  |
 |                    2|[Maximize Altitude](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452793)   |                     |                                                                                                  |
-|                    1|[Gadwick, the Wizened](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473010)|                     |                                                                                                  |
-|                    3|[Essence Capture](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457181)     |                     |                                                                                                  |
 |                    2|[Lazotep Plating](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460986)     |                     |                                                                                                  |
 |                    3|[Lazotep Plating](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460986)     |                     |                                                                                                  |
+|                    1|[Gadwick, the Wizened](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473010)|                     |                                                                                                  |
+|                    3|[Essence Capture](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457181)     |                     |                                                                                                  |
 

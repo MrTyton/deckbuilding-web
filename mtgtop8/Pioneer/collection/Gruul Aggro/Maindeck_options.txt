@@ -49,49 +49,49 @@
 1 Temur Battle Rage
 2 Temur Battle Rage
 1 Voltaic Brawler
+1 Lightning Strike
+1 Light Up the Stage
+1 Monastery Swiftspear
 1 Foundry Street Denizen
+1 Skewer the Critics
 1 Abbot of Keral Keep
 1 Dragon Fodder
 1 Stoke the Flames
-1 Lightning Strike
 1 Eidolon of the Great Revel
-1 Light Up the Stage
 1 Hordeling Outburst
-1 Skewer the Critics
-1 Monastery Swiftspear
+2 Lightning Strike
+2 Monastery Swiftspear
 2 Foundry Street Denizen
+2 Skewer the Critics
 2 Abbot of Keral Keep
 2 Dragon Fodder
 2 Stoke the Flames
-2 Hordeling Outburst
-2 Monastery Swiftspear
 2 Eidolon of the Great Revel
-2 Lightning Strike
-2 Skewer the Critics
+2 Hordeling Outburst
+3 Monastery Swiftspear
+3 Lightning Strike
 3 Dragon Fodder
 3 Stoke the Flames
 3 Eidolon of the Great Revel
-3 Monastery Swiftspear
-3 Lightning Strike
+4 Monastery Swiftspear
+4 Lightning Strike
 4 Stoke the Flames
 4 Dragon Fodder
 4 Eidolon of the Great Revel
-4 Lightning Strike
-4 Monastery Swiftspear
 7 Mountain
 8 Mountain
 9 Mountain
 10 Mountain
-1 Resilient Khenra
-1 Kessig Prowler
-1 Yorvo, Lord of Garenbrig
-1 Aspect of Hydra
 1 Managorger Hydra
+1 Resilient Khenra
+1 Yorvo, Lord of Garenbrig
+1 Kessig Prowler
+1 Aspect of Hydra
 1 Syr Faren, the Hengehammer
 1 Domri's Ambush
 2 Managorger Hydra
-2 Aspect of Hydra
 2 Yorvo, Lord of Garenbrig
+2 Aspect of Hydra
 2 Kessig Prowler
 2 Syr Faren, the Hengehammer
 2 Domri's Ambush
@@ -105,8 +105,8 @@
 3 Legion Warboss
 4 Legion Warboss
 1 Sweltering Suns
-1 Cinder Glade
 1 Sylvan Caryatid
+1 Cinder Glade
 1 Combustible Gearhulk
 1 See the Unwritten
 1 Hanweir Battlements
@@ -124,9 +124,9 @@
 4 Cinder Glade
 4 Sylvan Caryatid
 1 Growth-Chamber Guardian
-1 Mutavault
 1 Oath of Nissa
 1 Tireless Tracker
+1 Mutavault
 1 Domri, Anarch of Bolas
 1 Chandra, Torch of Defiance
 2 Growth-Chamber Guardian
@@ -135,38 +135,38 @@
 2 Chandra, Torch of Defiance
 2 Tireless Tracker
 2 Mutavault
+3 Domri, Anarch of Bolas
 3 Growth-Chamber Guardian
 3 Oath of Nissa
 3 Tireless Tracker
-3 Domri, Anarch of Bolas
 3 Chandra, Torch of Defiance
 4 Growth-Chamber Guardian
 4 Oath of Nissa
 4 Chandra, Torch of Defiance
 1 Paradise Druid
+1 Temple of Abandon
 1 Dragonlord Atarka
 1 Vivien Reid
-1 Temple of Abandon
 2 Paradise Druid
 2 Dragonlord Atarka
 2 Temple of Abandon
 3 Dragonlord Atarka
 3 Paradise Druid
-4 Paradise Druid
 4 Dragonlord Atarka
+4 Paradise Druid
 1 Fling
-1 Maximize Velocity
+1 Harnessed Lightning
 1 Collision / Colossus
 1 Aether Hub
-1 Harnessed Lightning
 1 Attune with Aether
-1 Become Immense
 1 Longtusk Cub
 1 Electrostatic Pummeler
 1 Bristling Hydra
+1 Maximize Velocity
+1 Become Immense
 2 Collision / Colossus
-2 Aether Hub
 2 Harnessed Lightning
+2 Aether Hub
 2 Attune with Aether
 2 Become Immense
 2 Longtusk Cub
@@ -174,9 +174,9 @@
 2 Electrostatic Pummeler
 2 Bristling Hydra
 2 Maximize Velocity
-3 Aether Hub
 3 Harnessed Lightning
 3 Attune with Aether
+3 Aether Hub
 3 Collision / Colossus
 3 Bristling Hydra
 3 Temur Battle Rage
@@ -184,12 +184,12 @@
 3 Longtusk Cub
 3 Electrostatic Pummeler
 3 Voltaic Brawler
-4 Voltaic Brawler
 4 Collision / Colossus
 4 Harnessed Lightning
-4 Aether Hub
 4 Attune with Aether
+4 Aether Hub
 4 Electrostatic Pummeler
+4 Voltaic Brawler
 4 Blossoming Defense
 4 Longtusk Cub
 4 Bristling Hydra
@@ -207,13 +207,13 @@
 3 Burning-Tree Emissary
 3 Zhur-Taa Goblin
 3 Pelt Collector
+4 Zhur-Taa Goblin
 4 Reckless Bushwhacker
 4 Experiment One
 4 Burning-Tree Emissary
-4 Zhur-Taa Goblin
 4 Pelt Collector
-1 Courser of Kruphix
 1 Domri Rade
+1 Courser of Kruphix
 2 Domri Rade
 2 Courser of Kruphix
 3 Domri Rade

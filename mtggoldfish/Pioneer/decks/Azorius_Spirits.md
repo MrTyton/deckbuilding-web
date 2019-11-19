@@ -1,7 +1,7 @@
 # Azorius Spirits
 
 #### [Export MTGO List](../collection/Azorius%20Spirits/Azorius%20Spirits.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Brazen%20Borrower%0A4%09Curious%20Obsession%0A4%09Empyrean%20Eagle%0A4%09Glacial%20Fortress%0A4%09Hallowed%20Fountain%0A7%09Island%0A4%09Mausoleum%20Wanderer%0A2%09Mutavault%0A3%09Plains%0A4%09Port%20Town%0A4%09Rattlechains%0A4%09Spectral%20Sailor%0A4%09Spell%20Pierce%0A4%09Spell%20Queller%0A4%09Supreme%20Phantom&deckside=2%09Blessed%20Alliance%0A2%09Ceremonious%20Rejection%0A1%09Detention%20Sphere%0A2%09Gideon,%20Ally%20of%20Zendikar%0A4%09Mystical%20Dispute%0A4%09Surge%20of%20Righteousness)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Brazen%20Borrower%0A4%09Curious%20Obsession%0A4%09Empyrean%20Eagle%0A4%09Glacial%20Fortress%0A4%09Hallowed%20Fountain%0A7%09Island%0A4%09Mausoleum%20Wanderer%0A2%09Mutavault%0A3%09Plains%0A4%09Port%20Town%0A4%09Rattlechains%0A4%09Spectral%20Sailor%0A4%09Spell%20Pierce%0A4%09Spell%20Queller%0A4%09Supreme%20Phantom&deckside=2%09Blessed%20Alliance%0A2%09Ceremonious%20Rejection%0A2%09Disdainful%20Stroke%0A3%09Mystical%20Dispute%0A2%09Settle%20the%20Wreckage%0A4%09Surge%20of%20Righteousness)
 # Maindeck
 
 |                                         Creature (28)                                         |                                       Enchantment (4)                                        |                                       Instant (4)                                       |                                          Land (24)                                          |
@@ -17,19 +17,25 @@
 
 # Sideboard
 
-|                                       Enchantment (1)                                       |                                           Instant (12)                                            |                                          Planeswalker (2)                                           |
-|---------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
-|1 [Detention Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460139)|2 [Blessed Alliance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414302)      |2 [Gideon, Ally of Zendikar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401897)|
-|                                                                                             |2 [Ceremonious Rejection](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417613) |                                                                                                     |
-|                                                                                             |4 [Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)      |                                                                                                     |
-|                                                                                             |4 [Surge of Righteousness](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394720)|                                                                                                     |
+|                                           Instant (15)                                            |
+|---------------------------------------------------------------------------------------------------|
+|2 [Blessed Alliance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414302)      |
+|2 [Ceremonious Rejection](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417613) |
+|2 [Disdainful Stroke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420705)     |
+|3 [Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)      |
+|2 [Settle the Wreckage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435186)   |
+|4 [Surge of Righteousness](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394720)|
 
 
 # Other Options
 
-|*n*<sup>th</sup> copy|                                  Maindeck Card                                  |*n*<sup>th</sup> copy|                                      Sideboard Card                                      |
-|--------------------:|---------------------------------------------------------------------------------|--------------------:|------------------------------------------------------------------------------------------|
-|                    4|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)|                    1|[Ratchet Bomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370623)   |
-|                     |                                                                                 |                    2|[Ratchet Bomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370623)   |
-|                     |                                                                                 |                    1|[Selfless Spirit](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414332)|
+|*n*<sup>th</sup> copy|                                  Maindeck Card                                  |*n*<sup>th</sup> copy|                                          Sideboard Card                                           |
+|--------------------:|---------------------------------------------------------------------------------|--------------------:|---------------------------------------------------------------------------------------------------|
+|                    4|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)|                    4|[Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)        |
+|                     |                                                                                 |                    1|[Detention Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460139)        |
+|                     |                                                                                 |                    1|[Gideon, Ally of Zendikar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401897)|
+|                     |                                                                                 |                    2|[Gideon, Ally of Zendikar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401897)|
+|                     |                                                                                 |                    1|[Ratchet Bomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370623)            |
+|                     |                                                                                 |                    2|[Ratchet Bomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370623)            |
+|                     |                                                                                 |                    1|[Selfless Spirit](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414332)         |
 

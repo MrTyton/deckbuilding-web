@@ -30,11 +30,11 @@
 
 |*n*<sup>th</sup> copy|                                          Maindeck Card                                          |*n*<sup>th</sup> copy|                                       Sideboard Card                                        |
 |--------------------:|-------------------------------------------------------------------------------------------------|--------------------:|---------------------------------------------------------------------------------------------|
-|                    4|[Nullhide Ferox](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452888)        |                    1|[Shapers' Sanctuary](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435362)|
+|                    1|[Nykthos, Shrine to Nyx](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373713)|                    1|[Shapers' Sanctuary](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435362)|
 |                    2|[Nykthos, Shrine to Nyx](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373713)|                    1|[Setessan Tactics](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=380495)  |
 |                    3|[Nykthos, Shrine to Nyx](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373713)|                    2|[Setessan Tactics](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=380495)  |
 |                    4|[Nykthos, Shrine to Nyx](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373713)|                    3|[Naturalize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129656)        |
-|                    1|[Nykthos, Shrine to Nyx](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373713)|                    3|[Setessan Tactics](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=380495)  |
+|                    4|[Nullhide Ferox](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452888)        |                    3|[Setessan Tactics](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=380495)  |
 |                     |                                                                                                 |                    4|[Feed the Clan](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386535)     |
 |                     |                                                                                                 |                    4|[Setessan Tactics](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=380495)  |
 

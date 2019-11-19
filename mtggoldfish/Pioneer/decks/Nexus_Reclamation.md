@@ -1,7 +1,7 @@
 # Nexus Reclamation
 
 #### [Export MTGO List](../collection/Nexus%20Reclamation/Nexus%20Reclamation.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=2%09Blast%20Zone%0A2%09Blink%20of%20an%20Eye%0A4%09Breeding%20Pool%0A1%09Castle%20Vantress%0A3%09Dig%20Through%20Time%0A4%09Fabled%20Passage%0A3%09Forest%0A3%09Glacial%20Fortress%0A4%09Growth%20Spiral%0A3%09Hallowed%20Fountain%0A4%09Haze%20of%20Pollen%0A3%09Hinterland%20Harbor%0A1%09Island%0A1%09Lumbering%20Falls%0A4%09Nexus%20of%20Fate%0A2%09Oko,%20Thief%20of%20Crowns%0A1%09Plains%0A3%09Search%20for%20Azcanta%0A1%09Sphinx's%20Revelation%0A2%09Supreme%20Will%0A2%09Tamiyo,%20Collector%20of%20Tales%0A3%09Teferi,%20Time%20Raveler%0A4%09Wilderness%20Reclamation&deckside=4%09Cerulean%20Drake%0A1%09Deputy%20of%20Detention%0A2%09Display%20of%20Dominance%0A2%09Dovin's%20Veto%0A1%09Jace,%20Architect%20of%20Thought%0A2%09Thing%20in%20the%20Ice%0A3%09Veil%20of%20Summer)
+#### [Print on decklist.org](http://decklist.org/?deckmain=2%09Blast%20Zone%0A2%09Blink%20of%20an%20Eye%0A4%09Breeding%20Pool%0A1%09Castle%20Vantress%0A3%09Dig%20Through%20Time%0A4%09Fabled%20Passage%0A3%09Forest%0A3%09Glacial%20Fortress%0A4%09Growth%20Spiral%0A3%09Hallowed%20Fountain%0A4%09Haze%20of%20Pollen%0A3%09Hinterland%20Harbor%0A1%09Island%0A1%09Lumbering%20Falls%0A4%09Nexus%20of%20Fate%0A2%09Oko,%20Thief%20of%20Crowns%0A1%09Plains%0A3%09Search%20for%20Azcanta%0A1%09Sphinx's%20Revelation%0A2%09Supreme%20Will%0A2%09Tamiyo,%20Collector%20of%20Tales%0A3%09Teferi,%20Time%20Raveler%0A4%09Wilderness%20Reclamation&deckside=4%09Cerulean%20Drake%0A1%09Deputy%20of%20Detention%0A2%09Display%20of%20Dominance%0A3%09Dovin's%20Veto%0A2%09Thing%20in%20the%20Ice%0A3%09Veil%20of%20Summer)
 # Maindeck
 
 |                                          Enchantment (7)                                          |                                          Instant (20)                                          |                                          Land (26)                                           |                                           Planeswalker (7)                                            |
@@ -21,16 +21,16 @@
 
 # Sideboard
 
-|                                          Creature (7)                                          |                                           Instant (7)                                           |                                           Planeswalker (1)                                            |
-|------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
-|4 [Cerulean Drake](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466807)     |2 [Display of Dominance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394538)|1 [Jace, Architect of Thought](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=380190)|
-|1 [Deputy of Detention](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457309)|2 [Dovin's Veto](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461120)        |                                                                                                       |
-|2 [Thing in the Ice](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409836)   |3 [Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)      |                                                                                                       |
+|                                          Creature (7)                                          |                                           Instant (8)                                           |
+|------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
+|4 [Cerulean Drake](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466807)     |2 [Display of Dominance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394538)|
+|1 [Deputy of Detention](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457309)|3 [Dovin's Veto](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461120)        |
+|2 [Thing in the Ice](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409836)   |3 [Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)      |
 
 
 # Other Options
 
-|*n*<sup>th</sup> copy|Maindeck Card|*n*<sup>th</sup> copy|                                    Sideboard Card                                     |
-|---------------------|-------------|--------------------:|---------------------------------------------------------------------------------------|
-|                     |             |                    3|[Dovin's Veto](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461120)|
+|*n*<sup>th</sup> copy|Maindeck Card|*n*<sup>th</sup> copy|                                           Sideboard Card                                            |
+|---------------------|-------------|--------------------:|-----------------------------------------------------------------------------------------------------|
+|                     |             |                    1|[Jace, Architect of Thought](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=380190)|
 

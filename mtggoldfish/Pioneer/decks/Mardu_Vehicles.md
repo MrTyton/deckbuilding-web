@@ -29,8 +29,8 @@
 
 |*n*<sup>th</sup> copy|                                          Maindeck Card                                          |*n*<sup>th</sup> copy|Sideboard Card|
 |--------------------:|-------------------------------------------------------------------------------------------------|---------------------|--------------|
+|                    1|[Liliana, the Last Hope](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414388)|                     |              |
+|                    3|[Gideon Blackblade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463943)     |                     |              |
 |                    1|[Battlefield Forge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129479)     |                     |              |
 |                    2|[Battlefield Forge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129479)     |                     |              |
-|                    3|[Gideon Blackblade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463943)     |                     |              |
-|                    1|[Liliana, the Last Hope](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414388)|                     |              |
 

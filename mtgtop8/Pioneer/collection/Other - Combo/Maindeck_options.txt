@@ -4,14 +4,6 @@
 2 Hallowed Fountain
 3 Teferi, Time Raveler
 3 Hallowed Fountain
-1 Thing in the Ice
-1 Cyclonic Rift
-1 Narset, Parter of Veils
-3 Fog
-3 Tamiyo, Collector of Tales
-3 Blast Zone
-3 Supreme Will
-4 Fog
 1 Sphinx's Revelation
 1 Glacial Fortress
 2 Glacial Fortress
@@ -19,104 +11,66 @@
 3 Haze of Pollen
 3 Glacial Fortress
 4 Haze of Pollen
+1 Cyclonic Rift
+1 Thing in the Ice
+1 Narset, Parter of Veils
+3 Tamiyo, Collector of Tales
+3 Fog
+3 Blast Zone
+3 Supreme Will
+4 Fog
 1 Temple Garden
 1 Botanical Sanctum
 2 Botanical Sanctum
 3 Botanical Sanctum
 4 Botanical Sanctum
-1 Oath of Nissa
 1 Emry, Lurker of the Loch
 1 Once Upon a Time
-1 Urborg, Tomb of Yawgmoth
+1 Oath of Nissa
 1 Blooming Marsh
-1 Mox Amber
-1 Mana Confluence
-1 Diligent Excavator
+1 Lazav, the Multifarious
 1 Jace, Wielder of Mysteries
+1 Diligent Excavator
+1 Urborg, Tomb of Yawgmoth
 1 Terrarion
 1 Kethis, the Hidden Hand
-1 Lazav, the Multifarious
+1 Mox Amber
+1 Mana Confluence
 1 Hope of Ghirapur
-2 Oath of Nissa
 2 Emry, Lurker of the Loch
-2 Urborg, Tomb of Yawgmoth
 2 Once Upon a Time
-2 Mana Confluence
-2 Temple Garden
-2 Blooming Marsh
-2 Hope of Ghirapur
-2 Kethis, the Hidden Hand
-2 Diligent Excavator
-2 Mox Amber
+2 Oath of Nissa
 2 Lazav, the Multifarious
+2 Kethis, the Hidden Hand
+2 Mox Amber
 2 Terrarion
-3 Oath of Nissa
-3 Hope of Ghirapur
+2 Diligent Excavator
+2 Temple Garden
+2 Mana Confluence
+2 Blooming Marsh
+2 Urborg, Tomb of Yawgmoth
+2 Hope of Ghirapur
 3 Once Upon a Time
+3 Hope of Ghirapur
+3 Oath of Nissa
+3 Lazav, the Multifarious
+3 Kethis, the Hidden Hand
+3 Mox Amber
 3 Emry, Lurker of the Loch
+3 Diligent Excavator
 3 Blooming Marsh
 3 Mana Confluence
-3 Mox Amber
-3 Lazav, the Multifarious
-3 Diligent Excavator
-3 Kethis, the Hidden Hand
-4 Oath of Nissa
 4 Teferi, Time Raveler
 4 Once Upon a Time
-4 Blooming Marsh
-4 Mana Confluence
-4 Kethis, the Hidden Hand
-4 Hallowed Fountain
-4 Mox Amber
-4 Diligent Excavator
-4 Hope of Ghirapur
+4 Oath of Nissa
 4 Emry, Lurker of the Loch
-1 Ulamog, the Ceaseless Hunger
-1 Mountain
-1 Stomping Ground
-1 Ugin, the Spirit Dragon
-1 Tireless Tracker
-1 Attune with Aether
-1 Ugin, the Ineffable
-1 Spirebluff Canal
-1 Whirler Virtuoso
-1 Emrakul, the Promised End
-1 Harnessed Lightning
-1 Aether Hub
-1 Nahiri, the Harbinger
-1 Rogue Refiner
-1 Servant of the Conduit
-1 Woodweaver's Puzzleknot
-1 Aetherworks Marvel
-2 Ulamog, the Ceaseless Hunger
-2 Stomping Ground
-2 Ugin, the Spirit Dragon
-2 Attune with Aether
-2 Whirler Virtuoso
-2 Harnessed Lightning
-2 Rogue Refiner
-2 Woodweaver's Puzzleknot
-2 Servant of the Conduit
-2 Aetherworks Marvel
-2 Nahiri, the Harbinger
-2 Aether Hub
-3 Whirler Virtuoso
-3 Attune with Aether
-3 Harnessed Lightning
-3 Nahiri, the Harbinger
-3 Rogue Refiner
-3 Woodweaver's Puzzleknot
-3 Aetherworks Marvel
-3 Aether Hub
-3 Servant of the Conduit
-4 Attune with Aether
-4 Aether Hub
-4 Harnessed Lightning
-4 Woodweaver's Puzzleknot
-4 Aetherworks Marvel
-4 Rogue Refiner
-4 Whirler Virtuoso
-4 Servant of the Conduit
+4 Hope of Ghirapur
+4 Mox Amber
+4 Kethis, the Hidden Hand
+4 Diligent Excavator
+4 Blooming Marsh
+4 Hallowed Fountain
+4 Mana Confluence
 1 Hieroglyphic Illumination
 2 Censor
 2 Hieroglyphic Illumination
@@ -124,3 +78,49 @@
 4 Hieroglyphic Illumination
 4 Forest
 6 Island
+1 Ugin, the Spirit Dragon
+1 Ulamog, the Ceaseless Hunger
+1 Mountain
+1 Stomping Ground
+1 Servant of the Conduit
+1 Attune with Aether
+1 Rogue Refiner
+1 Aether Hub
+1 Tireless Tracker
+1 Whirler Virtuoso
+1 Ugin, the Ineffable
+1 Emrakul, the Promised End
+1 Spirebluff Canal
+1 Nahiri, the Harbinger
+1 Harnessed Lightning
+1 Woodweaver's Puzzleknot
+1 Aetherworks Marvel
+2 Ugin, the Spirit Dragon
+2 Servant of the Conduit
+2 Stomping Ground
+2 Ulamog, the Ceaseless Hunger
+2 Attune with Aether
+2 Rogue Refiner
+2 Aether Hub
+2 Whirler Virtuoso
+2 Harnessed Lightning
+2 Woodweaver's Puzzleknot
+2 Aetherworks Marvel
+2 Nahiri, the Harbinger
+3 Servant of the Conduit
+3 Whirler Virtuoso
+3 Rogue Refiner
+3 Aether Hub
+3 Nahiri, the Harbinger
+3 Woodweaver's Puzzleknot
+3 Aetherworks Marvel
+3 Attune with Aether
+3 Harnessed Lightning
+4 Aether Hub
+4 Servant of the Conduit
+4 Rogue Refiner
+4 Woodweaver's Puzzleknot
+4 Aetherworks Marvel
+4 Whirler Virtuoso
+4 Attune with Aether
+4 Harnessed Lightning

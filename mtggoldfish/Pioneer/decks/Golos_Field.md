@@ -41,3 +41,14 @@
 |                                                                                           |1 [Ulamog, the Ceaseless Hunger](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=402079)|1 [Back to Nature](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=208284)|                                                                                                 |
 |                                                                                           |                                                                                                         |3 [Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)|                                                                                                 |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|Maindeck Card|*n*<sup>th</sup> copy|                                        Sideboard Card                                         |
+|---------------------|-------------|--------------------:|-----------------------------------------------------------------------------------------------|
+|                     |             |                    1|[Return to Nature](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461102)    |
+|                     |             |                    2|[Return to Nature](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461102)    |
+|                     |             |                    3|[Return to Nature](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461102)    |
+|                     |             |                    4|[Jaddi Offshoot](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401928)      |
+|                     |             |                    3|[Teferi, Time Raveler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461148)|
+
