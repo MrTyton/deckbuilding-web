@@ -1,11 +1,19 @@
+1 Once Upon a Time
+1 Hidden Herbalists
+2 Once Upon a Time
+2 Hidden Herbalists
+3 Once Upon a Time
+3 Hidden Herbalists
+4 Once Upon a Time
+4 Hidden Herbalists
+1 Sunbaked Canyon
+2 Hexdrinker
+2 Temple Garden
 1 Boros Charm
 2 Boros Charm
 1 Knight of the Reliquary
 2 Knight of the Reliquary
 3 Knight of the Reliquary
-1 Kird Ape
-2 Kird Ape
-2 Hexdrinker
 1 Bloodbraid Elf
 2 Bloodbraid Elf
 3 Bloodbraid Elf
@@ -13,6 +21,8 @@
 1 Scavenging Ooze
 1 Lightning Helix
 2 Lightning Helix
+1 Simian Spirit Guide
+2 Simian Spirit Guide
 4 Tarmogoyf
 1 Qasali Pridemage
 1 Voice of Resurgence
@@ -24,19 +34,11 @@
 4 Bloodbraid Elf
 1 Noble Hierarch
 2 Noble Hierarch
+4 Path to Exile
 3 Lightning Helix
 1 Monastery Swiftspear
 2 Monastery Swiftspear
 3 Monastery Swiftspear
-4 Path to Exile
-1 Once Upon a Time
-1 Hidden Herbalists
-2 Once Upon a Time
-2 Hidden Herbalists
-3 Once Upon a Time
-3 Hidden Herbalists
-4 Once Upon a Time
-4 Hidden Herbalists
 3 Kird Ape
 4 Kird Ape
 1 Gideon Blackblade
@@ -45,13 +47,12 @@
 3 Noble Hierarch
 4 Noble Hierarch
 1 Gruul Spellbreaker
+3 Simian Spirit Guide
 4 Monastery Swiftspear
 1 Become Immense
 1 Mutagenic Growth
 2 Mutagenic Growth
 1 Bomat Courier
-1 Simian Spirit Guide
-2 Simian Spirit Guide
 1 Renegade Rallier
 1 Wrenn and Six
 2 Wrenn and Six
@@ -103,7 +104,6 @@
 3 Stomping Ground
 1 Elvish Reclaimer
 2 Elvish Reclaimer
-3 Simian Spirit Guide
 1 Ghost Quarter
 1 Seasoned Pyromancer
 1 Ajani, the Greathearted
@@ -111,6 +111,8 @@
 1 Tireless Tracker
 2 Tireless Tracker
 1 Courser of Kruphix
+1 Goblin Bushwhacker
+1 Devastating Summons
 2 Horizon Canopy
 1 Scalding Tarn
 2 Bloodstained Mire

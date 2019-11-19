@@ -21,9 +21,9 @@
 1 Surrak, the Hunt Caller
 1 Ilharg, the Raze-Boar
 1 Rhythm of the Wild
-1 Champion of Rhonas
 1 Worldspine Wurm
 1 Generator Servant
+1 Champion of Rhonas
 2 Rhythm of the Wild
 2 Ilharg, the Raze-Boar
 2 Worldspine Wurm
@@ -31,9 +31,9 @@
 2 Generator Servant
 3 Rhythm of the Wild
 3 Generator Servant
+3 Champion of Rhonas
 3 Ilharg, the Raze-Boar
 3 Worldspine Wurm
-3 Champion of Rhonas
 4 Generator Servant
 4 Worldspine Wurm
 4 Champion of Rhonas
@@ -46,6 +46,7 @@
 2 Reckless Bushwhacker
 3 Atarka's Command
 4 Atarka's Command
+9 Forest
 1 Temur Battle Rage
 2 Temur Battle Rage
 1 Voltaic Brawler
@@ -105,8 +106,8 @@
 3 Legion Warboss
 4 Legion Warboss
 1 Sweltering Suns
-1 Sylvan Caryatid
 1 Cinder Glade
+1 Sylvan Caryatid
 1 Combustible Gearhulk
 1 See the Unwritten
 1 Hanweir Battlements
@@ -114,20 +115,20 @@
 2 Surrak, the Hunt Caller
 2 Sylvan Caryatid
 2 Hanweir Battlements
-2 Combustible Gearhulk
 2 See the Unwritten
 2 Cinder Glade
+2 Combustible Gearhulk
 3 Cinder Glade
 3 Sylvan Caryatid
-3 Hanweir Battlements
 3 Combustible Gearhulk
+3 Hanweir Battlements
 4 Cinder Glade
 4 Sylvan Caryatid
 1 Growth-Chamber Guardian
 1 Oath of Nissa
 1 Tireless Tracker
-1 Mutavault
 1 Domri, Anarch of Bolas
+1 Mutavault
 1 Chandra, Torch of Defiance
 2 Growth-Chamber Guardian
 2 Oath of Nissa
@@ -152,8 +153,19 @@
 2 Temple of Abandon
 3 Dragonlord Atarka
 3 Paradise Druid
-4 Dragonlord Atarka
 4 Paradise Druid
+4 Dragonlord Atarka
+1 Courser of Kruphix
+1 Domri Rade
+2 Courser of Kruphix
+2 Domri Rade
+3 Domri Rade
+3 Courser of Kruphix
+3 Glorybringer
+4 Domri Rade
+4 Courser of Kruphix
+4 Questing Beast
+4 Glorybringer
 1 Fling
 1 Harnessed Lightning
 1 Collision / Colossus
@@ -172,27 +184,27 @@
 2 Longtusk Cub
 2 Voltaic Brawler
 2 Electrostatic Pummeler
-2 Bristling Hydra
 2 Maximize Velocity
+2 Bristling Hydra
 3 Harnessed Lightning
 3 Attune with Aether
 3 Aether Hub
 3 Collision / Colossus
 3 Bristling Hydra
 3 Temur Battle Rage
-3 Become Immense
 3 Longtusk Cub
 3 Electrostatic Pummeler
+3 Become Immense
 3 Voltaic Brawler
 4 Collision / Colossus
 4 Harnessed Lightning
 4 Attune with Aether
 4 Aether Hub
+4 Bristling Hydra
 4 Electrostatic Pummeler
 4 Voltaic Brawler
 4 Blossoming Defense
 4 Longtusk Cub
-4 Bristling Hydra
 1 Experiment One
 1 Pelt Collector
 1 Burning-Tree Emissary
@@ -204,23 +216,52 @@
 3 Reckless Bushwhacker
 3 Zurgo Bellstriker
 3 Experiment One
-3 Burning-Tree Emissary
 3 Zhur-Taa Goblin
+3 Burning-Tree Emissary
 3 Pelt Collector
 4 Zhur-Taa Goblin
 4 Reckless Bushwhacker
 4 Experiment One
 4 Burning-Tree Emissary
 4 Pelt Collector
-1 Domri Rade
-1 Courser of Kruphix
-2 Domri Rade
-2 Courser of Kruphix
-3 Domri Rade
-3 Courser of Kruphix
-3 Glorybringer
-4 Domri Rade
-4 Courser of Kruphix
-4 Questing Beast
-4 Glorybringer
-9 Forest
+1 Castle Garenbrig
+1 Sanctum of Ugin
+1 Nissa's Pilgrimage
+1 Explosive Vegetation
+1 Whisperwood Elemental
+1 Ulamog, the Ceaseless Hunger
+1 Ugin, the Spirit Dragon
+1 Kozilek's Return
+1 Oblivion Sower
+1 Sylvan Scrying
+1 Omnath, Locus of Rage
+1 World Breaker
+1 Arboreal Grazer
+2 Castle Garenbrig
+2 World Breaker
+2 Nissa's Pilgrimage
+2 Omnath, Locus of Rage
+2 Explosive Vegetation
+2 Sanctum of Ugin
+2 Sylvan Scrying
+2 Ulamog, the Ceaseless Hunger
+2 Ugin, the Spirit Dragon
+2 Whisperwood Elemental
+2 Arboreal Grazer
+2 Oblivion Sower
+2 Kozilek's Return
+3 World Breaker
+3 Explosive Vegetation
+3 Whisperwood Elemental
+3 Nissa's Pilgrimage
+3 Castle Garenbrig
+3 Sylvan Scrying
+3 Oblivion Sower
+3 Arboreal Grazer
+3 Sanctum of Ugin
+3 Kozilek's Return
+4 Explosive Vegetation
+4 Castle Garenbrig
+4 Nissa's Pilgrimage
+4 Kozilek's Return
+10 Forest

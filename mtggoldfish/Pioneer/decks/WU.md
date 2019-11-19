@@ -105,7 +105,7 @@
 |                    3|[Jace, Vryn's Prodigy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=398434)      |                     |                                                                                                     |
 |                    3|[Fabled Passage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473206)            |                     |                                                                                                     |
 |                    4|[Opt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442948)                       |                     |                                                                                                     |
-|                    4|[Fabled Passage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473206)            |                     |                                                                                                     |
 |                    4|[Sinister Sabotage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452804)         |                     |                                                                                                     |
+|                    4|[Fabled Passage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473206)            |                     |                                                                                                     |
 |                    6|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)                    |                     |                                                                                                     |
 

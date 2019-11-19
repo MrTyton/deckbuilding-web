@@ -32,10 +32,10 @@
 
 |*n*<sup>th</sup> copy|                                          Maindeck Card                                          |*n*<sup>th</sup> copy|                                        Sideboard Card                                         |
 |--------------------:|-------------------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------------|
-|                    1|[Watery Grave](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405114)          |                    1|[Fatal Push](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423724)          |
-|                    1|[Nexus of Fate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=450253)         |                    1|[Collective Brutality](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414380)|
-|                    2|[Sai, Master Thopterist](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447205)|                    2|[Fatal Push](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423724)          |
+|                    1|[Nexus of Fate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=450253)         |                    1|[Fatal Push](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423724)          |
+|                    1|[Watery Grave](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405114)          |                    1|[Collective Brutality](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414380)|
+|                    1|[Snow-Covered Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121256)    |                    2|[Fatal Push](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423724)          |
 |                    3|[Misty Rainforest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405102)      |                    2|[Ashiok, Dream Render](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461155)|
 |                    4|[Misty Rainforest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405102)      |                    3|[Fatal Push](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423724)          |
-|                    1|[Snow-Covered Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121256)    |                    3|[Force of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464001)   |
+|                    2|[Sai, Master Thopterist](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447205)|                    3|[Force of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464001)   |
 
