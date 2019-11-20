@@ -1,7 +1,4 @@
 2 Shalai, Voice of Plenty
-1 Prismatic Vista
-2 Prismatic Vista
-3 Prismatic Vista
 1 Snow-Covered Island
 1 Questing Beast
 1 Scavenging Ooze
@@ -12,11 +9,12 @@
 1 Courser of Kruphix
 1 Ice-Fang Coatl
 1 Nissa, Steward of Elements
+1 Prismatic Vista
 1 Jace, the Mind Sculptor
 1 Breeding Pool
 1 Field of Ruin
-1 Oko, Thief of Crowns
 1 Misty Rainforest
+1 Oko, Thief of Crowns
 2 Questing Beast
 2 Scavenging Ooze
 2 Breeding Pool
@@ -26,15 +24,17 @@
 2 Oath of Nissa
 2 Courser of Kruphix
 2 Tireless Tracker
-2 Ice-Fang Coatl
+2 Prismatic Vista
 2 Jace, the Mind Sculptor
-2 Misty Rainforest
+2 Ice-Fang Coatl
 2 Oko, Thief of Crowns
+2 Misty Rainforest
 3 Courser of Kruphix
 3 Arbor Elf
 3 Oath of Nissa
 3 Utopia Sprawl
 3 Field of Ruin
+3 Prismatic Vista
 3 Ice-Fang Coatl
 3 Oko, Thief of Crowns
 3 Misty Rainforest
@@ -42,103 +42,56 @@
 4 Utopia Sprawl
 4 Oko, Thief of Crowns
 4 Prismatic Vista
-4 Misty Rainforest
 4 Ice-Fang Coatl
-1 Curious Obsession
-1 Mana Leak
+4 Misty Rainforest
 1 Disrupting Shoal
-1 Mausoleum Wanderer
-2 Curious Obsession
-2 Mausoleum Wanderer
-2 Disrupting Shoal
-3 Mausoleum Wanderer
-3 Disrupting Shoal
-4 Mausoleum Wanderer
-1 Seachrome Coast
-1 Eiganjo Castle
-1 Hallowed Fountain
-1 Flooded Strand
-1 Geist of Saint Traft
-1 Path to Exile
-1 Spell Pierce
-1 Steel of the Godhead
-1 Island
-1 Moorland Haunt
-1 Opt
-1 Reprobation
-1 Angelic Destiny
-1 Tallowisp
-1 Crystallization
-1 Rattlechains
-1 Spell Snare
-1 Shining Shoal
-1 Plains
-1 Spell Queller
-2 Geist of Saint Traft
-2 Moorland Haunt
-2 Seachrome Coast
-2 Path to Exile
-2 Steel of the Godhead
-2 Rattlechains
-2 Tallowisp
-2 Plains
-2 Flooded Strand
-2 Island
-2 Shining Shoal
-2 Hallowed Fountain
-2 Spell Queller
-3 Flooded Strand
-3 Geist of Saint Traft
-3 Seachrome Coast
-3 Spell Queller
-3 Island
-3 Rattlechains
-3 Tallowisp
-4 Rattlechains
-4 Flooded Strand
-4 Seachrome Coast
-4 Spell Queller
-4 Island
-4 Geist of Saint Traft
-4 Tallowisp
+1 Curious Obsession
 1 Spellstutter Sprite
-1 Brazen Borrower
+1 Mana Leak
 1 Faerie Seer
 1 Mutavault
+1 Brazen Borrower
 1 Faerie Miscreant
+1 Siren Stormtamer
+1 Mausoleum Wanderer
 1 Waterlogged Grove
 1 Force of Negation
 1 Fiery Islet
 1 Snapback
 1 Ninja of the Deep Hours
-1 Siren Stormtamer
+2 Disrupting Shoal
 2 Mana Leak
+2 Curious Obsession
 2 Mutavault
 2 Snow-Covered Island
 2 Snapback
 2 Faerie Seer
 2 Brazen Borrower
 2 Faerie Miscreant
-2 Force of Negation
-2 Siren Stormtamer
+2 Mausoleum Wanderer
 2 Spellstutter Sprite
+2 Siren Stormtamer
 2 Ninja of the Deep Hours
+2 Force of Negation
 3 Brazen Borrower
+3 Disrupting Shoal
 3 Curious Obsession
 3 Force of Negation
-3 Faerie Miscreant
 3 Spellstutter Sprite
+3 Faerie Miscreant
+3 Faerie Seer
+3 Mausoleum Wanderer
 3 Ninja of the Deep Hours
 3 Snow-Covered Island
-3 Faerie Seer
 4 Brazen Borrower
 4 Force of Negation
 4 Snow-Covered Island
 4 Ninja of the Deep Hours
-4 Curious Obsession
 4 Faerie Miscreant
-4 Disrupting Shoal
+4 Mausoleum Wanderer
+4 Curious Obsession
 4 Faerie Seer
+4 Disrupting Shoal
 4 Spellstutter Sprite
 5 Snow-Covered Island
 6 Snow-Covered Island

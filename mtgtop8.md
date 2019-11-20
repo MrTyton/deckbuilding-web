@@ -19,12 +19,12 @@
 
 # Pioneer
 
-|                               A                               |                                B                                |                               C                               |                              D                              |
-|---------------------------------------------------------------|-----------------------------------------------------------------|---------------------------------------------------------------|-------------------------------------------------------------|
-|[Abzan Aggro](./mtgtop8/Pioneer/decks/Abzan_Aggro.md)          |[Gruul Aggro](./mtgtop8/Pioneer/decks/Gruul_Aggro.md)            |[Mono Blue Aggro](./mtgtop8/Pioneer/decks/Mono_Blue_Aggro.md)  |[Other - Control](./mtgtop8/Pioneer/decks/Other_-_Control.md)|
-|[Arclight Phoenix](./mtgtop8/Pioneer/decks/Arclight_Phoenix.md)|[Izzet Control](./mtgtop8/Pioneer/decks/Izzet_Control.md)        |[Mono Green Aggro](./mtgtop8/Pioneer/decks/Mono_Green_Aggro.md)|[Red Deck Wins](./mtgtop8/Pioneer/decks/Red_Deck_Wins.md)    |
-|[Copycat](./mtgtop8/Pioneer/decks/Copycat.md)                  |[Jeskai Ascendancy](./mtgtop8/Pioneer/decks/Jeskai_Ascendancy.md)|[Other - Aggro](./mtgtop8/Pioneer/decks/Other_-_Aggro.md)      |[Sultai Control](./mtgtop8/Pioneer/decks/Sultai_Control.md)  |
-|[Golgari Aggro](./mtgtop8/Pioneer/decks/Golgari_Aggro.md)      |[Mono Black Aggro](./mtgtop8/Pioneer/decks/Mono_Black_Aggro.md)  |[Other - Combo](./mtgtop8/Pioneer/decks/Other_-_Combo.md)      |[UR Aggro](./mtgtop8/Pioneer/decks/UR_Aggro.md)              |
+|                               A                               |                                   B                                   |                               C                               |                              D                              |                             E                             |
+|---------------------------------------------------------------|-----------------------------------------------------------------------|---------------------------------------------------------------|-------------------------------------------------------------|-----------------------------------------------------------|
+|[Abzan Aggro](./mtgtop8/Pioneer/decks/Abzan_Aggro.md)          |[Gruul Aggro](./mtgtop8/Pioneer/decks/Gruul_Aggro.md)                  |[Mono Black Aggro](./mtgtop8/Pioneer/decks/Mono_Black_Aggro.md)|[Other - Aggro](./mtgtop8/Pioneer/decks/Other_-_Aggro.md)    |[Sultai Control](./mtgtop8/Pioneer/decks/Sultai_Control.md)|
+|[Arclight Phoenix](./mtgtop8/Pioneer/decks/Arclight_Phoenix.md)|[Hour of Promise Ramp](./mtgtop8/Pioneer/decks/Hour_of_Promise_Ramp.md)|[Mono Blue Aggro](./mtgtop8/Pioneer/decks/Mono_Blue_Aggro.md)  |[Other - Combo](./mtgtop8/Pioneer/decks/Other_-_Combo.md)    |[UR Aggro](./mtgtop8/Pioneer/decks/UR_Aggro.md)            |
+|[Copycat](./mtgtop8/Pioneer/decks/Copycat.md)                  |[Izzet Control](./mtgtop8/Pioneer/decks/Izzet_Control.md)              |[Mono Green Aggro](./mtgtop8/Pioneer/decks/Mono_Green_Aggro.md)|[Other - Control](./mtgtop8/Pioneer/decks/Other_-_Control.md)|[UW Control](./mtgtop8/Pioneer/decks/UW_Control.md)        |
+|[Golgari Aggro](./mtgtop8/Pioneer/decks/Golgari_Aggro.md)      |[Jeskai Ascendancy](./mtgtop8/Pioneer/decks/Jeskai_Ascendancy.md)      |[Nexus Fog](./mtgtop8/Pioneer/decks/Nexus_Fog.md)              |[Red Deck Wins](./mtgtop8/Pioneer/decks/Red_Deck_Wins.md)    |                                                           |
 
 
 # Modern
@@ -64,4 +64,4 @@
 
 
 
-#### Last Updated at 12:52AM on November 20, 2019
+#### Last Updated at 12:32PM on November 20, 2019

@@ -16,13 +16,13 @@
 2 Hallowed Fountain
 4 Brazen Borrower
 2 Plains
-1 Glacial Fortress
 1 Spell Queller
+1 Glacial Fortress
 2 Spell Queller
-3 Hallowed Fountain
 3 Spell Queller
-4 Hallowed Fountain
+3 Hallowed Fountain
 4 Spell Queller
+4 Hallowed Fountain
 1 Reflector Mage
 2 Reflector Mage
 3 Reflector Mage
@@ -69,12 +69,12 @@
 4 Plains
 5 Plains
 6 Plains
-1 Irrigated Farmland
-1 Castle Ardenvale
 1 Archangel Avacyn
+1 Castle Ardenvale
+1 Irrigated Farmland
 2 Irrigated Farmland
-2 Castle Ardenvale
 2 Archangel Avacyn
+2 Castle Ardenvale
 3 Archangel Avacyn
 4 Teferi, Time Raveler
 4 Gideon, Ally of Zendikar
@@ -110,8 +110,8 @@
 1 Mutavault
 1 Spectral Sailor
 1 Curious Obsession
-2 Spectral Sailor
 2 Mutavault
+2 Spectral Sailor
 2 Curious Obsession
 3 Spectral Sailor
 3 Curious Obsession
@@ -140,17 +140,63 @@
 2 Rhonas the Indomitable
 3 Questing Beast
 4 Questing Beast
+2 Walking Ballista
+3 Walking Ballista
+4 Walking Ballista
+1 Field of the Dead
+1 Elvish Rejuvenator
+1 Desert of the Indomitable
+1 Arboreal Grazer
+1 Cascading Cataracts
+1 Golos, Tireless Pilgrim
+1 Scavenger Grounds
+1 Radiant Fountain
+1 Ugin, the Spirit Dragon
+1 Sanctum of Ugin
+1 Nissa's Pilgrimage
+1 Ulamog, the Ceaseless Hunger
+1 Castle Garenbrig
+1 Emrakul, the Promised End
+1 Shrine of the Forsaken Gods
+1 Hour of Promise
+1 Blast Zone
+1 Geier Reach Sanitarium
+2 Field of the Dead
+2 Blast Zone
+2 Shrine of the Forsaken Gods
+2 Elvish Rejuvenator
+2 Desert of the Indomitable
+2 Arboreal Grazer
+2 Golos, Tireless Pilgrim
+2 Nissa's Pilgrimage
+2 Sanctum of Ugin
+2 Ugin, the Spirit Dragon
+2 Castle Garenbrig
+2 Hour of Promise
+3 Elvish Rejuvenator
+3 Ugin, the Spirit Dragon
+3 Shrine of the Forsaken Gods
+3 Hashep Oasis
+3 Arboreal Grazer
+3 Castle Garenbrig
+3 Nissa's Pilgrimage
+3 Hour of Promise
+4 Hour of Promise
+4 Elvish Rejuvenator
+4 Ugin, the Spirit Dragon
+4 Arboreal Grazer
+4 Nissa's Pilgrimage
 1 Scrapheap Scrounger
 1 Metallic Rebuke
 1 Toolcraft Exemplar
 1 Concealed Courtyard
 2 Scrapheap Scrounger
-2 Toolcraft Exemplar
 2 Metallic Rebuke
+2 Toolcraft Exemplar
 2 Concealed Courtyard
 3 Concealed Courtyard
-3 Spire of Industry
 3 Scrapheap Scrounger
+3 Spire of Industry
 3 Toolcraft Exemplar
 3 Heart of Kiran
 4 Scrapheap Scrounger
@@ -161,41 +207,25 @@
 2 Collected Company
 3 Collected Company
 4 Collected Company
-1 Favorable Winds
 1 Unclaimed Territory
 1 Nebelgast Herald
 1 Hanged Executioner
 1 Azorius Charm
+1 Favorable Winds
 2 Unclaimed Territory
 2 Nebelgast Herald
 3 Mutavault
 3 Unclaimed Territory
 3 Nebelgast Herald
 4 Unclaimed Territory
-2 Mana Confluence
-1 Mountain
-1 Spirebluff Canal
-1 Fae of Wishes
-1 Rosethorn Acolyte
-1 Anticipate
-1 Shivan Reef
-1 Borborygmos Enraged
-1 Enter the Infinite
-1 Possibility Storm
-2 Enter the Infinite
-2 Spirebluff Canal
-2 Fae of Wishes
-2 Rosethorn Acolyte
-2 Anticipate
-2 Possibility Storm
-3 Mana Confluence
-3 Rosethorn Acolyte
-3 Anticipate
-3 Fae of Wishes
-3 Possibility Storm
-4 Rosethorn Acolyte
-4 Fae of Wishes
-4 Mana Confluence
+1 Spell Pierce
+2 Spell Pierce
+2 Port Town
+3 Port Town
+3 Spell Pierce
+4 Port Town
+4 Spell Pierce
+4 Curious Obsession
 1 Overgrown Tomb
 1 Swamp
 1 Blooming Marsh
@@ -206,11 +236,11 @@
 1 Aether Hub
 1 Glint-Sleeve Siphoner
 1 Attune with Aether
-1 Hostage Taker
 1 The Scarab God
 1 Thoughtseize
 1 Rogue Refiner
 1 Abrupt Decay
+1 Hostage Taker
 2 Woodland Cemetery
 2 The Scarab God
 2 Aether Hub
@@ -242,66 +272,36 @@
 2 Scavenging Ooze
 2 Voracious Hydra
 2 Nissa, Who Shakes the World
-3 Hydroid Krasis
 3 Hinterland Harbor
 3 Nissa, Who Shakes the World
 3 Voracious Hydra
+3 Hydroid Krasis
 4 Hydroid Krasis
 4 Nissa, Who Shakes the World
-1 Spell Pierce
-2 Port Town
-2 Spell Pierce
-3 Spell Pierce
-3 Port Town
-4 Spell Pierce
-4 Curious Obsession
-4 Port Town
-2 Walking Ballista
-3 Walking Ballista
-4 Walking Ballista
-1 Geier Reach Sanitarium
-1 Radiant Fountain
-1 Shrine of the Forsaken Gods
-1 Desert of the Indomitable
-1 Cascading Cataracts
-1 Field of the Dead
-1 Arboreal Grazer
-1 Golos, Tireless Pilgrim
-1 Ugin, the Spirit Dragon
-1 Ulamog, the Ceaseless Hunger
-1 Emrakul, the Promised End
-1 Nissa's Pilgrimage
-1 Sanctum of Ugin
-1 Castle Garenbrig
-1 Blast Zone
-1 Scavenger Grounds
-1 Elvish Rejuvenator
-1 Hour of Promise
-2 Shrine of the Forsaken Gods
-2 Desert of the Indomitable
-2 Field of the Dead
-2 Arboreal Grazer
-2 Golos, Tireless Pilgrim
-2 Ugin, the Spirit Dragon
-2 Sanctum of Ugin
-2 Nissa's Pilgrimage
-2 Castle Garenbrig
-2 Blast Zone
-2 Hour of Promise
-2 Elvish Rejuvenator
-3 Ugin, the Spirit Dragon
-3 Hashep Oasis
-3 Shrine of the Forsaken Gods
-3 Arboreal Grazer
-3 Castle Garenbrig
-3 Nissa's Pilgrimage
-3 Elvish Rejuvenator
-3 Hour of Promise
-4 Ugin, the Spirit Dragon
-4 Nissa's Pilgrimage
-4 Hour of Promise
-4 Arboreal Grazer
-4 Elvish Rejuvenator
+2 Mana Confluence
+1 Mountain
+1 Spirebluff Canal
+1 Fae of Wishes
+1 Rosethorn Acolyte
+1 Anticipate
+1 Possibility Storm
+1 Shivan Reef
+1 Borborygmos Enraged
+1 Enter the Infinite
+2 Fae of Wishes
+2 Spirebluff Canal
+2 Rosethorn Acolyte
+2 Anticipate
+2 Enter the Infinite
+2 Possibility Storm
+3 Mana Confluence
+3 Rosethorn Acolyte
+3 Fae of Wishes
+3 Anticipate
+3 Possibility Storm
+4 Mana Confluence
+4 Fae of Wishes
+4 Rosethorn Acolyte
 1 Satyr Wayfinder
 1 Blood Crypt
 1 Deathrite Shaman
@@ -354,12 +354,12 @@
 4 Blooming Marsh
 4 Narcomoeba
 4 Creeping Chill
-1 Hope of Ghirapur
 1 Ensoul Artifact
 1 Darksteel Citadel
 1 Skilled Animator
 1 Gingerbrute
 1 Ghostfire Blade
+1 Hope of Ghirapur
 2 Gingerbrute
 2 Skilled Animator
 2 Darksteel Citadel
@@ -377,26 +377,26 @@
 4 Ensoul Artifact
 1 Hardened Scales
 1 Nissa, Voice of Zendikar
-1 Karn's Bastion
 1 Hangarback Walker
+1 Karn's Bastion
 1 Emry, Lurker of the Loch
 1 Mox Amber
 1 Evolutionary Leap
 1 Steel Overseer
 2 Hardened Scales
 2 Nissa, Voice of Zendikar
+2 Mox Amber
 2 Evolutionary Leap
 2 Emry, Lurker of the Loch
-2 Mox Amber
 2 Hangarback Walker
 2 Steel Overseer
+3 Emry, Lurker of the Loch
 3 Hardened Scales
 3 Mox Amber
-3 Emry, Lurker of the Loch
 3 Hangarback Walker
 3 Steel Overseer
-4 Hangarback Walker
 4 Emry, Lurker of the Loch
+4 Hangarback Walker
 4 Hardened Scales
 4 Steel Overseer
 1 Dauntless Bodyguard
@@ -417,13 +417,13 @@
 2 Soldier of the Pantheon
 2 Benalish Marshal
 2 Knight of the White Orchid
+3 Declaration in Stone
 3 Dauntless Bodyguard
 3 Thalia's Lieutenant
 3 Mardu Woe-Reaper
 3 Brave the Elements
 3 Boros Elite
 3 Soldier of the Pantheon
-3 Declaration in Stone
 3 Knight of the White Orchid
 3 Benalish Marshal
 4 Dauntless Bodyguard

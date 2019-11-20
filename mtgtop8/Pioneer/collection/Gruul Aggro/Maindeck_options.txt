@@ -65,11 +65,11 @@
 4 Champion of Rhonas
 4 Ilharg, the Raze-Boar
 1 Atarka's Command
-1 Zurgo Bellstriker
 1 Reckless Bushwhacker
+1 Zurgo Bellstriker
 2 Atarka's Command
-2 Zurgo Bellstriker
 2 Reckless Bushwhacker
+2 Zurgo Bellstriker
 3 Atarka's Command
 4 Atarka's Command
 2 Voltaic Brawler
@@ -78,35 +78,35 @@
 10 Forest
 1 Temur Battle Rage
 2 Temur Battle Rage
-1 Lightning Strike
-1 Light Up the Stage
-1 Monastery Swiftspear
-1 Foundry Street Denizen
 1 Skewer the Critics
 1 Abbot of Keral Keep
+1 Eidolon of the Great Revel
 1 Dragon Fodder
 1 Stoke the Flames
-1 Eidolon of the Great Revel
+1 Foundry Street Denizen
+1 Lightning Strike
 1 Hordeling Outburst
-2 Lightning Strike
-2 Monastery Swiftspear
-2 Foundry Street Denizen
+1 Light Up the Stage
+1 Monastery Swiftspear
 2 Skewer the Critics
 2 Abbot of Keral Keep
 2 Dragon Fodder
-2 Stoke the Flames
 2 Eidolon of the Great Revel
+2 Stoke the Flames
+2 Foundry Street Denizen
 2 Hordeling Outburst
+2 Monastery Swiftspear
+2 Lightning Strike
+3 Dragon Fodder
+3 Eidolon of the Great Revel
+3 Stoke the Flames
 3 Monastery Swiftspear
 3 Lightning Strike
-3 Dragon Fodder
-3 Stoke the Flames
-3 Eidolon of the Great Revel
-4 Monastery Swiftspear
-4 Lightning Strike
 4 Stoke the Flames
 4 Dragon Fodder
 4 Eidolon of the Great Revel
+4 Monastery Swiftspear
+4 Lightning Strike
 7 Mountain
 8 Mountain
 9 Mountain
@@ -132,24 +132,6 @@
 3 Reckless Bushwhacker
 3 Zurgo Bellstriker
 4 Reckless Bushwhacker
-1 Growth-Chamber Guardian
-1 Mutavault
-1 Oath of Nissa
-1 Tireless Tracker
-1 Chandra, Torch of Defiance
-2 Growth-Chamber Guardian
-2 Mutavault
-2 Oath of Nissa
-2 Chandra, Torch of Defiance
-2 Tireless Tracker
-3 Domri, Anarch of Bolas
-3 Growth-Chamber Guardian
-3 Oath of Nissa
-3 Tireless Tracker
-3 Chandra, Torch of Defiance
-4 Growth-Chamber Guardian
-4 Oath of Nissa
-4 Chandra, Torch of Defiance
 1 Sweltering Suns
 1 Cinder Glade
 1 Sylvan Caryatid
@@ -157,33 +139,33 @@
 1 See the Unwritten
 1 Hanweir Battlements
 2 Sweltering Suns
-2 Surrak, the Hunt Caller
+2 Sylvan Caryatid
 2 Hanweir Battlements
 2 See the Unwritten
-2 Sylvan Caryatid
+2 Surrak, the Hunt Caller
 2 Cinder Glade
 2 Combustible Gearhulk
 3 Cinder Glade
+3 Sylvan Caryatid
 3 Combustible Gearhulk
 3 Hanweir Battlements
-3 Sylvan Caryatid
 4 Cinder Glade
 4 Sylvan Caryatid
 1 Paradise Druid
-1 Temple of Abandon
-1 Dragonlord Atarka
 1 Vivien Reid
+1 Dragonlord Atarka
+1 Temple of Abandon
 2 Paradise Druid
-2 Dragonlord Atarka
 2 Temple of Abandon
-3 Dragonlord Atarka
+2 Dragonlord Atarka
 3 Paradise Druid
+3 Dragonlord Atarka
 4 Paradise Druid
 4 Dragonlord Atarka
 1 Fling
 1 Maximize Velocity
-1 Harnessed Lightning
 1 Collision / Colossus
+1 Harnessed Lightning
 1 Attune with Aether
 1 Aether Hub
 1 Become Immense
@@ -200,8 +182,8 @@
 2 Maximize Velocity
 2 Bristling Hydra
 3 Attune with Aether
-3 Aether Hub
 3 Harnessed Lightning
+3 Aether Hub
 3 Collision / Colossus
 3 Bristling Hydra
 3 Temur Battle Rage
@@ -209,10 +191,10 @@
 3 Electrostatic Pummeler
 3 Become Immense
 4 Collision / Colossus
+4 Harnessed Lightning
 4 Attune with Aether
 4 Blossoming Defense
 4 Aether Hub
-4 Harnessed Lightning
 4 Bristling Hydra
 4 Longtusk Cub
 4 Electrostatic Pummeler
@@ -226,43 +208,61 @@
 4 Courser of Kruphix
 4 Questing Beast
 4 Glorybringer
-1 Castle Garenbrig
-1 Sanctum of Ugin
-1 Nissa's Pilgrimage
-1 Explosive Vegetation
+1 Mutavault
+1 Growth-Chamber Guardian
+1 Tireless Tracker
+1 Chandra, Torch of Defiance
+1 Oath of Nissa
+2 Growth-Chamber Guardian
+2 Chandra, Torch of Defiance
+2 Oath of Nissa
+2 Tireless Tracker
+2 Mutavault
+3 Domri, Anarch of Bolas
+3 Growth-Chamber Guardian
+3 Tireless Tracker
+3 Oath of Nissa
+3 Chandra, Torch of Defiance
+4 Growth-Chamber Guardian
+4 Chandra, Torch of Defiance
+4 Oath of Nissa
+1 Arboreal Grazer
 1 Whisperwood Elemental
-1 Ulamog, the Ceaseless Hunger
-1 Ugin, the Spirit Dragon
-1 Oblivion Sower
+1 Castle Garenbrig
 1 World Breaker
+1 Ulamog, the Ceaseless Hunger
+1 Explosive Vegetation
 1 Kozilek's Return
+1 Nissa's Pilgrimage
+1 Sanctum of Ugin
+1 Oblivion Sower
+1 Ugin, the Spirit Dragon
 1 Sylvan Scrying
 1 Omnath, Locus of Rage
-1 Arboreal Grazer
-2 Castle Garenbrig
-2 Nissa's Pilgrimage
-2 Sanctum of Ugin
-2 World Breaker
+2 Arboreal Grazer
 2 Omnath, Locus of Rage
-2 Explosive Vegetation
 2 Whisperwood Elemental
 2 Sylvan Scrying
+2 Castle Garenbrig
 2 Ulamog, the Ceaseless Hunger
+2 Explosive Vegetation
+2 World Breaker
 2 Ugin, the Spirit Dragon
-2 Arboreal Grazer
-2 Oblivion Sower
+2 Sanctum of Ugin
+2 Nissa's Pilgrimage
 2 Kozilek's Return
-3 Nissa's Pilgrimage
-3 Castle Garenbrig
-3 World Breaker
-3 Explosive Vegetation
+2 Oblivion Sower
+3 Arboreal Grazer
 3 Whisperwood Elemental
 3 Sylvan Scrying
-3 Oblivion Sower
-3 Arboreal Grazer
 3 Sanctum of Ugin
+3 Explosive Vegetation
+3 World Breaker
+3 Nissa's Pilgrimage
+3 Castle Garenbrig
 3 Kozilek's Return
-4 Nissa's Pilgrimage
-4 Castle Garenbrig
+3 Oblivion Sower
 4 Explosive Vegetation
+4 Castle Garenbrig
+4 Nissa's Pilgrimage
 4 Kozilek's Return

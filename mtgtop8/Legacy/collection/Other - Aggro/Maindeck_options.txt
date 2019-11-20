@@ -5,8 +5,8 @@
 1 Angrath's Rampage
 1 Ponder
 1 Liliana's Triumph
-1 Swamp
 1 Fallen Shinobi
+1 Swamp
 1 Augur of Bolas
 1 Volcanic Island
 2 Thoughtseize
@@ -16,33 +16,33 @@
 2 Swamp
 2 Augur of Bolas
 3 Kolaghan's Command
+3 Snapcaster Mage
 3 Ponder
 3 Island
-3 Snapcaster Mage
 4 Ponder
 4 Island
 1 Wasteland
-2 Wasteland
 1 Brazen Borrower
 1 Flooded Strand
-1 Plains
-1 Karakas
+2 Wasteland
 1 Fiery Islet
 1 Plateau
 1 Phantasmal Image
 1 Snow-Covered Plains
 1 Tundra
+1 Plains
 1 Spirit of the Labyrinth
 1 Vendilion Clique
 1 Cavern of Souls
-1 Unsettled Mariner
+1 Karakas
 1 Mother of Runes
+1 Unsettled Mariner
 1 Aether Vial
 1 Moorland Haunt
 1 Geier Reach Sanitarium
-1 Eidolon of the Great Revel
 1 Rattlechains
 1 Spell Queller
+1 Eidolon of the Great Revel
 1 Mausoleum Wanderer
 1 Hypnotic Sprite
 1 Supreme Phantom
@@ -57,8 +57,8 @@
 2 Unsettled Mariner
 2 Drogskol Captain
 2 Mausoleum Wanderer
-2 Flooded Strand
 2 Mother of Runes
+2 Flooded Strand
 2 Spell Queller
 3 Flooded Strand
 3 Cavern of Souls
@@ -75,63 +75,8 @@
 4 Supreme Phantom
 4 Drogskol Captain
 4 Rattlechains
-1 Windswept Heath
-1 Dryad Arbor
-1 Sylvan Library
-1 Scavenging Ooze
-1 Green Sun's Zenith
-2 Windswept Heath
-2 Green Sun's Zenith
-3 Windswept Heath
-3 Green Sun's Zenith
-4 Green Sun's Zenith
-1 Knight of the Reliquary
-1 Horizon Canopy
-1 Tomik, Distinguished Advokist
-1 Savannah
-1 Terravore
-1 Forest
-1 Bojuka Bog
-1 Crop Rotation
-1 Wooded Foothills
-1 Ramunap Excavator
-1 Mox Diamond
-1 Gaddock Teeg
-1 Dark Depths
-1 Thespian's Stage
-1 Sylvan Safekeeper
-1 Elvish Reclaimer
-1 Giver of Runes
-1 Knight of Autumn
-1 Sejiri Steppe
-2 Knight of the Reliquary
-2 Wooded Foothills
-2 Mox Diamond
-2 Tomik, Distinguished Advokist
-2 Dark Depths
-2 Thespian's Stage
-2 Sylvan Library
-2 Crop Rotation
-2 Savannah
-2 Plains
-2 Forest
-2 Elvish Reclaimer
-2 Giver of Runes
-3 Knight of the Reliquary
-3 Mox Diamond
-3 Dark Depths
-3 Thespian's Stage
-3 Savannah
-3 Giver of Runes
-3 Crop Rotation
-3 Elvish Reclaimer
-4 Knight of the Reliquary
-4 Mox Diamond
-4 Windswept Heath
-4 Thespian's Stage
-4 Elvish Reclaimer
-4 Crop Rotation
 1 Gilded Goose
+1 Windswept Heath
 1 Ice-Fang Coatl
 1 Noble Hierarch
 1 Courser of Kruphix
@@ -139,28 +84,37 @@
 1 Snow-Covered Forest
 1 Tropical Island
 1 Oko, Thief of Crowns
+1 Dryad Arbor
 1 Force of Negation
 1 Hexdrinker
-1 Daze
 1 Collector Ouphe
+1 Sylvan Library
+1 Scavenging Ooze
+1 Green Sun's Zenith
+1 Daze
+2 Windswept Heath
 2 Tropical Island
 2 Noble Hierarch
 2 Misty Rainforest
 2 Oko, Thief of Crowns
 2 Brazen Borrower
 2 Snow-Covered Forest
+2 Green Sun's Zenith
 2 Ice-Fang Coatl
 2 Courser of Kruphix
 2 Daze
 3 Ice-Fang Coatl
+3 Windswept Heath
 3 Snow-Covered Forest
 3 Tropical Island
 3 Wasteland
 3 Courser of Kruphix
-3 Misty Rainforest
+3 Green Sun's Zenith
 3 Oko, Thief of Crowns
+3 Misty Rainforest
 3 Brazen Borrower
 3 Noble Hierarch
+4 Green Sun's Zenith
 4 Tropical Island
 4 Misty Rainforest
 4 Ice-Fang Coatl
