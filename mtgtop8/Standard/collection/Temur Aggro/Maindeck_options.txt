@@ -1,9 +1,9 @@
+2 Bonecrusher Giant
 1 Domri, Anarch of Bolas
-1 Hydroid Krasis
 2 Hydroid Krasis
 1 Temple of Mystery
-2 Domri, Anarch of Bolas
 2 Temple of Mystery
+2 Domri, Anarch of Bolas
 3 Temple of Mystery
 1 Nissa, Who Shakes the World
 2 Nissa, Who Shakes the World
@@ -25,14 +25,17 @@
 3 Hydroid Krasis
 4 Hydroid Krasis
 4 Omnath, Locus of the Roil
+1 Living Twister
+1 Castle Vantress
+2 Living Twister
 1 Fabled Passage
 2 Fabled Passage
 1 Lava Coil
 2 Lava Coil
 1 Shock
-1 Living Twister
-1 Castle Vantress
-2 Living Twister
+1 Negate
+2 Negate
+3 Living Twister
 1 Chandra, Awakened Inferno
 3 Bonecrusher Giant
 1 Paradise Druid
@@ -58,14 +61,27 @@
 2 Aether Gust
 2 Kraul Harpooner
 3 Mountain
-1 Negate
-2 Negate
-3 Living Twister
 4 Bonecrusher Giant
 1 Embercleave
 1 Voracious Hydra
 2 Embercleave
 4 Temple of Epiphany
+1 Scampering Scorcher
+1 Creeping Trailblazer
+1 Healer of the Glade
+1 Thunderkin Awakener
+2 Scampering Scorcher
+2 Cloudkin Seer
+2 Healer of the Glade
+2 Thunderkin Awakener
+3 Cloudkin Seer
+3 Neoform
+3 Thunderkin Awakener
+4 Temple of Mystery
+4 Shock
+4 Neoform
+4 Thunderkin Awakener
+4 Cloudkin Seer
 1 Beanstalk Giant
 1 Growth Spiral
 1 Escape to the Wilds
@@ -87,19 +103,3 @@
 4 Field of the Dead
 4 Circuitous Route
 4 Growth Spiral
-1 Scampering Scorcher
-1 Creeping Trailblazer
-1 Healer of the Glade
-1 Thunderkin Awakener
-2 Scampering Scorcher
-2 Cloudkin Seer
-2 Healer of the Glade
-2 Thunderkin Awakener
-3 Cloudkin Seer
-3 Neoform
-3 Thunderkin Awakener
-4 Temple of Mystery
-4 Neoform
-4 Thunderkin Awakener
-4 Cloudkin Seer
-4 Shock

@@ -50,7 +50,6 @@
 4 Overgrown Tomb
 1 The Scarab God
 1 Courser of Kruphix
-1 Traverse the Ulvenwald
 1 Assassin's Trophy
 1 Tireless Tracker
 1 Fabled Passage
@@ -61,9 +60,10 @@
 1 Kaya, Orzhov Usurper
 1 Nissa, Vastwood Seer
 1 Scavenging Ooze
+1 Traverse the Ulvenwald
 2 Courser of Kruphix
-2 Traverse the Ulvenwald
 2 Tireless Tracker
+2 Traverse the Ulvenwald
 2 Treasure Cruise
 2 Watery Grave
 2 Sunpetal Grove
@@ -85,13 +85,13 @@
 4 Teferi, Time Raveler
 1 Gideon, Ally of Zendikar
 1 Reflector Mage
+1 Toolcraft Exemplar
 1 Metallic Rebuke
 1 Concealed Courtyard
 1 Scrapheap Scrounger
 1 Smuggler's Copter
 1 Spire of Industry
 1 Thraben Inspector
-1 Toolcraft Exemplar
 2 Gideon, Ally of Zendikar
 2 Reflector Mage
 2 Toolcraft Exemplar
@@ -120,8 +120,8 @@
 4 Scrapheap Scrounger
 4 Thraben Inspector
 1 Opulent Palace
-1 Striped Riverwinder
 1 Champion of Wits
+1 Striped Riverwinder
 1 Questing Beast
 1 Woodland Cemetery
 1 Lotleth Troll
@@ -148,10 +148,10 @@
 3 Zetalpa, Primal Dawn
 3 Opulent Palace
 3 Breeding Pool
+3 Questing Beast
 3 Gather the Pack
 3 Murderous Rider
 3 Lotleth Troll
-3 Questing Beast
 3 Woodland Cemetery
 3 Grisly Salvage
 3 Drowned Catacomb

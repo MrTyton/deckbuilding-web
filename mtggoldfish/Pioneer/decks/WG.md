@@ -42,6 +42,6 @@
 |                    3|[Voice of Resurgence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=368951)     |                     |                                                                                            |
 |                    4|[Collected Company](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394519)       |                     |                                                                                            |
 |                    4|[Reverent Hunter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373601)         |                     |                                                                                            |
-|                    4|[Voice of Resurgence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=368951)     |                     |                                                                                            |
 |                    9|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)                  |                     |                                                                                            |
+|                    4|[Voice of Resurgence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=368951)     |                     |                                                                                            |
 

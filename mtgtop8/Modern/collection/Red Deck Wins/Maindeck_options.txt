@@ -1,11 +1,11 @@
 1 Skullcrack
 2 Skullcrack
+4 Mountain
+5 Mountain
 1 Scalding Tarn
 3 Bloodstained Mire
-4 Mountain
 2 Fiery Islet
 3 Fiery Islet
-5 Mountain
 6 Mountain
 1 Light Up the Stage
 7 Mountain
@@ -33,20 +33,17 @@
 4 Fiery Islet
 3 Wooded Foothills
 4 Bloodstained Mire
-1 Stomping Ground
 3 Skullcrack
 4 Skullcrack
 4 Arid Mesa
-1 Snow-Covered Mountain
-2 Snow-Covered Mountain
 13 Mountain
 14 Mountain
 1 Simian Spirit Guide
 1 Gemstone Caverns
 1 Ramunap Ruins
-1 Magus of the Moon
 1 Harsh Mentor
 1 Abrade
+1 Magus of the Moon
 1 Bonecrusher Giant
 1 Goblin Rabblemaster
 1 Torbran, Thane of Red Fell
@@ -55,8 +52,8 @@
 2 Gemstone Caverns
 2 Bonecrusher Giant
 2 Ramunap Ruins
-2 Magus of the Moon
 2 Harsh Mentor
+2 Magus of the Moon
 2 Abrade
 2 Goblin Rabblemaster
 2 Torbran, Thane of Red Fell
@@ -71,22 +68,20 @@
 4 Simian Spirit Guide
 4 Torbran, Thane of Red Fell
 4 Goblin Rabblemaster
-1 Bedlam Reveler
+1 Stomping Ground
+1 Snow-Covered Mountain
 1 Crash Through
 1 Manamorphose
+1 Bedlam Reveler
+2 Snow-Covered Mountain
 2 Bedlam Reveler
 2 Manamorphose
 2 Crash Through
-3 Bedlam Reveler
 3 Manamorphose
+3 Bedlam Reveler
 3 Crash Through
-4 Manamorphose
 4 Crash Through
-1 Blood Crypt
-1 Atarka's Command
-2 Atarka's Command
-3 Atarka's Command
-4 Atarka's Command
+4 Manamorphose
 2 Scalding Tarn
 1 Kiln Fiend
 1 Firebolt
@@ -114,35 +109,29 @@
 4 Abrade
 4 Ramunap Ruins
 4 Leyline of Combustion
+4 Wooded Foothills
 1 Copperline Gorge
-1 Wild Nacatl
 1 Thunderous Wrath
+1 Blood Crypt
+1 Wild Nacatl
+1 Atarka's Command
 2 Copperline Gorge
-2 Stomping Ground
-2 Wild Nacatl
 2 Thunderous Wrath
+2 Stomping Ground
+2 Atarka's Command
+2 Wild Nacatl
 3 Thunderous Wrath
 3 Copperline Gorge
 3 Wild Nacatl
+3 Atarka's Command
 4 Thunderous Wrath
 4 Wild Nacatl
-1 City of Brass
-1 Mana Confluence
-1 Gemstone Mine
-1 Delver of Secrets
-1 Bump in the Night
-2 Mana Confluence
-2 Gemstone Mine
-2 Bump in the Night
-2 City of Brass
-3 Mana Confluence
-3 Bump in the Night
-3 Gemstone Mine
-3 City of Brass
-4 City of Brass
-4 Gemstone Mine
-4 Mana Confluence
-4 Bump in the Night
+4 Atarka's Command
+1 Castle Embereth
+2 Castle Embereth
+3 Legion Warboss
+4 Legion Warboss
+15 Mountain
 1 Mishra's Bauble
 1 Seasoned Pyromancer
 1 Forked Bolt
@@ -162,9 +151,3 @@
 12 Snow-Covered Mountain
 13 Snow-Covered Mountain
 14 Snow-Covered Mountain
-1 Castle Embereth
-2 Castle Embereth
-3 Legion Warboss
-4 Legion Warboss
-15 Mountain
-4 Wooded Foothills

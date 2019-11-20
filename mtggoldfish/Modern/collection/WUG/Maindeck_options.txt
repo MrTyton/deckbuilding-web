@@ -6,8 +6,8 @@
 3 Collected Company
 1 Misty Rainforest
 2 Misty Rainforest
-1 Noble Hierarch
 1 Birds of Paradise
+1 Noble Hierarch
 2 Birds of Paradise
 2 Noble Hierarch
 3 Noble Hierarch
@@ -16,8 +16,8 @@
 4 Spell Queller
 1 Oko, Thief of Crowns
 2 Oko, Thief of Crowns
-1 Razorverge Thicket
 1 Giver of Runes
+1 Razorverge Thicket
 4 Collected Company
 4 Noble Hierarch
 3 Misty Rainforest
@@ -39,20 +39,20 @@
 1 Scavenging Ooze
 1 Plains
 1 Forest
+2 Temple Garden
+1 Wooded Foothills
 1 Shalai, Voice of Plenty
 1 Vizier of Remedies
 1 Finale of Devastation
 1 Devoted Druid
 1 Walking Ballista
-1 Wooded Foothills
-2 Temple Garden
-2 Devoted Druid
 2 Wooded Foothills
+2 Devoted Druid
 2 Finale of Devastation
 2 Vizier of Remedies
-3 Devoted Druid
 3 Finale of Devastation
 3 Vizier of Remedies
+3 Devoted Druid
 4 Birds of Paradise
 4 Vizier of Remedies
 4 Devoted Druid
@@ -69,60 +69,72 @@
 2 Tireless Tracker
 2 Snow-Covered Plains
 3 Deputy of Detention
-1 Sword of Fire and Ice
-1 Gilded Goose
-1 Nimble Obstructionist
-1 On Thin Ice
-1 Renegade Rallier
-2 Breeding Pool
-2 Gilded Goose
-2 Renegade Rallier
-2 Nimble Obstructionist
-2 On Thin Ice
-2 Hallowed Fountain
-3 Gilded Goose
-3 On Thin Ice
-4 Gilded Goose
-4 Force of Negation
+2 Forest
+3 Temple Garden
+1 Chord of Calling
+1 Duskwatch Recruiter
+2 Chord of Calling
+2 Duskwatch Recruiter
+3 Wooded Foothills
+3 Chord of Calling
+3 Forest
+4 Chord of Calling
+4 Wooded Foothills
+4 Razorverge Thicket
 1 Wall of Omens
 1 Castle Vantress
-1 Snapcaster Mage
-1 Spell Pierce
+1 Restoration Angel
 1 Opt
 1 Celestial Colonnade
+1 Spell Pierce
 1 Cryptic Command
 1 Glacial Fortress
 1 Hinterland Harbor
 1 Logic Knot
-1 Restoration Angel
 1 Mana Leak
-2 Snapcaster Mage
+1 Snapcaster Mage
+2 Restoration Angel
 2 Wall of Omens
 2 Cryptic Command
 2 Opt
 2 Celestial Colonnade
 2 Teferi, Time Raveler
-2 Restoration Angel
+2 Snapcaster Mage
 3 Opt
 3 Cryptic Command
 3 Teferi, Time Raveler
-3 Field of Ruin
 3 Wall of Omens
 3 Snow-Covered Island
 3 Restoration Angel
+3 Field of Ruin
 4 Opt
 4 Path to Exile
 4 Wall of Omens
+1 Sword of Fire and Ice
+1 Renegade Rallier
+1 Nimble Obstructionist
+1 On Thin Ice
+1 Gilded Goose
+2 Renegade Rallier
+2 Gilded Goose
+2 On Thin Ice
+2 Nimble Obstructionist
+2 Hallowed Fountain
+2 Breeding Pool
+3 Gilded Goose
+3 On Thin Ice
+4 Force of Negation
+4 Gilded Goose
 1 Karn, the Great Creator
-1 Verdant Catacombs
 1 Dryad Arbor
+1 Leyline of Abundance
 1 Sylvan Caryatid
+1 Verdant Catacombs
 1 Heliod's Pilgrim
 1 Freed from the Real
-1 Leyline of Abundance
-2 Verdant Catacombs
 2 Karn, the Great Creator
 2 Leyline of Abundance
+2 Verdant Catacombs
 2 Freed from the Real
 2 Sylvan Caryatid
 3 Verdant Catacombs
@@ -130,12 +142,12 @@
 3 Freed from the Real
 3 Leyline of Abundance
 3 Sylvan Caryatid
-4 Sylvan Caryatid
 4 Leyline of Abundance
+4 Sylvan Caryatid
+1 Ghost Quarter
 1 Blast Zone
 1 Teferi, Hero of Dominaria
 1 Knight of the Reliquary
-1 Ghost Quarter
 1 Meddling Mage
 1 Gavony Township
 2 Knight of the Reliquary
@@ -144,35 +156,75 @@
 3 Knight of the Reliquary
 4 Misty Rainforest
 4 Knight of the Reliquary
-1 Chord of Calling
-1 Duskwatch Recruiter
-2 Chord of Calling
-2 Forest
-2 Duskwatch Recruiter
-3 Temple Garden
-3 Chord of Calling
-3 Forest
-3 Wooded Foothills
-4 Razorverge Thicket
-4 Chord of Calling
-4 Wooded Foothills
+1 Elvish Reclaimer
+1 Cavern of Souls
+1 Flagstones of Trokair
+1 Gemstone Mine
+1 Primeval Titan
+1 Bojuka Bog
+1 Tolaria West
+1 Field of the Dead
+1 Engineered Explosives
+1 Reclamation Sage
+1 Simic Growth Chamber
+1 Vesuva
+1 Pact of Negation
+1 Castle Garenbrig
+1 Amulet of Vigor
+1 Sunhome, Fortress of the Legion
+1 Summoner's Pact
+1 Kabira Crossroads
+1 Slayers' Stronghold
+1 Selesnya Sanctuary
+1 Boros Garrison
+1 Azusa, Lost but Seeking
+2 Elvish Reclaimer
+2 Once Upon a Time
+2 Gemstone Mine
+2 Flagstones of Trokair
+2 Amulet of Vigor
+2 Selesnya Sanctuary
+2 Summoner's Pact
+2 Simic Growth Chamber
+2 Primeval Titan
+2 Azusa, Lost but Seeking
+2 Tolaria West
+2 Castle Garenbrig
+3 Elvish Reclaimer
+3 Flagstones of Trokair
+3 Once Upon a Time
+3 Selesnya Sanctuary
+3 Primeval Titan
+3 Simic Growth Chamber
+3 Azusa, Lost but Seeking
+3 Amulet of Vigor
+3 Summoner's Pact
+4 Elvish Reclaimer
+4 Once Upon a Time
+4 Temple Garden
+4 Summoner's Pact
+4 Primeval Titan
+4 Azusa, Lost but Seeking
+4 Simic Growth Chamber
+4 Amulet of Vigor
+4 Flagstones of Trokair
 1 Thalia, Heretic Cathar
 1 Nykthos, Shrine to Nyx
 1 Elesh Norn, Grand Cenobite
-1 Gideon of the Trials
 1 Auriok Champion
+1 Gideon of the Trials
 1 Weathered Wayfarer
 1 Ulamog, the Ceaseless Hunger
+1 Godsend
+1 Fieldmist Borderpost
 1 Wildfield Borderpost
 1 Thalia's Lancers
-1 Godsend
 1 Leyline of Sanctity
 1 Knight of the White Orchid
-1 Fieldmist Borderpost
 1 Heliod, God of the Sun
-2 Thalia, Heretic Cathar
-2 Nykthos, Shrine to Nyx
 2 Plains
+2 Nykthos, Shrine to Nyx
+2 Thalia, Heretic Cathar
 2 Fieldmist Borderpost
 2 Thalia's Lancers
 2 Leyline of Sanctity
@@ -183,16 +235,16 @@
 3 Plains
 3 Nykthos, Shrine to Nyx
 3 Leyline of Sanctity
-3 Thalia's Lancers
 3 Auriok Champion
 3 Fieldmist Borderpost
 3 Wildfield Borderpost
+3 Thalia's Lancers
 3 Weathered Wayfarer
 3 Knight of the White Orchid
-4 Leyline of Sanctity
 4 Nykthos, Shrine to Nyx
-4 Fieldmist Borderpost
 4 Plains
+4 Leyline of Sanctity
+4 Fieldmist Borderpost
 4 Weathered Wayfarer
 4 Thalia's Lancers
 4 Wildfield Borderpost

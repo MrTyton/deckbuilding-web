@@ -28,8 +28,8 @@
 
 |*n*<sup>th</sup> copy|                                       Maindeck Card                                        |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
 |--------------------:|--------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
-|                    1|[Temple of Triumph](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373560)|                    1|[Swift Justice](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386374)      |
-|                    2|[Temple of Triumph](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373560)|                    1|[Devout Decree](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466767)      |
+|                    1|[Temple of Triumph](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373560)|                    1|[Devout Decree](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466767)      |
+|                    2|[Temple of Triumph](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373560)|                    1|[Swift Justice](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386374)      |
 |                    1|[Sheltering Light](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435187) |                    2|[Devout Decree](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466767)      |
 |                    1|[Madcap Skills](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=366377)    |                    2|[Swift Justice](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386374)      |
 |                    1|[Boros Charm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442188)      |                    3|[Devout Decree](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466767)      |
