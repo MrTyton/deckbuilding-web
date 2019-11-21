@@ -43,7 +43,6 @@
 1 Nurturing Peatland
 1 Rankle, Master of Pranks
 1 Hexdrinker
-1 Scavenging Ooze
 1 Stubborn Denial
 1 Maelstrom Pulse
 1 Tarmogoyf
@@ -54,6 +53,7 @@
 1 Tireless Tracker
 1 Thought Scour
 1 Collective Brutality
+1 Scavenging Ooze
 1 Castle Locthwain
 1 Forest
 2 Swamp
@@ -72,14 +72,14 @@
 4 Inquisition of Kozilek
 4 Tarmogoyf
 4 Thought Scour
-1 Tasigur, the Golden Fang
 1 Into the Story
+1 Tasigur, the Golden Fang
 1 Mystic Sanctuary
+1 Vendilion Clique
 1 Opt
 1 Dead of Winter
 1 Pulse of Murasa
 1 Torrential Gearhulk
-1 Vendilion Clique
 1 Cryptic Command
 2 Opt
 2 Abrupt Decay
@@ -91,7 +91,6 @@
 4 Opt
 4 Verdant Catacombs
 4 Snapcaster Mage
-1 Collected Company
 1 Elvish Clancaller
 1 Lead the Stampede
 1 Westvale Abbey
@@ -101,6 +100,7 @@
 1 Ezuri, Renegade Leader
 1 Nettle Sentinel
 1 Heritage Druid
+1 Collected Company
 1 Unclaimed Territory
 1 Reclamation Sage
 1 Dwynen's Elite
@@ -109,7 +109,6 @@
 1 Chord of Calling
 1 Elvish Mystic
 2 Nurturing Peatland
-2 Collected Company
 2 Blooming Marsh
 2 Elvish Clancaller
 2 Lead the Stampede
@@ -123,11 +122,12 @@
 2 Nettle Sentinel
 2 Dwynen's Elite
 2 Chord of Calling
-3 Collected Company
+2 Collected Company
 3 Snow-Covered Forest
 3 Blooming Marsh
 3 Elvish Clancaller
 3 Heritage Druid
+3 Collected Company
 3 Llanowar Elves
 3 Dwynen's Elite
 3 Shaman of the Pack
