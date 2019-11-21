@@ -4,13 +4,14 @@
 
 # Standard
 
-|                                A                                 |                                B                                 |                                          C                                           |                                   D                                    |                   E                    |
-|------------------------------------------------------------------|------------------------------------------------------------------|--------------------------------------------------------------------------------------|------------------------------------------------------------------------|----------------------------------------|
-|[Azorius Control](./mtggoldfish/Standard/decks/Azorius_Control.md)|[Esper Dance](./mtggoldfish/Standard/decks/Esper_Dance.md)        |[Jeskai Fires Superfriends](./mtggoldfish/Standard/decks/Jeskai_Fires_Superfriends.md)|[Mono-Red Cavalcade](./mtggoldfish/Standard/decks/Mono-Red_Cavalcade.md)|[UB](./mtggoldfish/Standard/decks/UB.md)|
-|[B](./mtggoldfish/Standard/decks/B.md)                            |[Grixis Amass](./mtggoldfish/Standard/decks/Grixis_Amass.md)      |[Jeskai Fires](./mtggoldfish/Standard/decks/Jeskai_Fires.md)                          |[Orzhov Control](./mtggoldfish/Standard/decks/Orzhov_Control.md)        |                                        |
-|[Boros Aggro](./mtggoldfish/Standard/decks/Boros_Aggro.md)        |[Grixis Midrange](./mtggoldfish/Standard/decks/Grixis_Midrange.md)|[Mardu Knights](./mtggoldfish/Standard/decks/Mardu_Knights.md)                        |[Rakdos Aristocrats](./mtggoldfish/Standard/decks/Rakdos_Aristocrats.md)|                                        |
-|[Boros Knights](./mtggoldfish/Standard/decks/Boros_Knights.md)    |[Izzet Flash](./mtggoldfish/Standard/decks/Izzet_Flash.md)        |[Mono-Black Aggro](./mtggoldfish/Standard/decks/Mono-Black_Aggro.md)                  |[Rakdos Knights](./mtggoldfish/Standard/decks/Rakdos_Knights.md)        |                                        |
-|[Esper Control](./mtggoldfish/Standard/decks/Esper_Control.md)    |[Izzet Phoenix](./mtggoldfish/Standard/decks/Izzet_Phoenix.md)    |[Mono-Red Aggro](./mtggoldfish/Standard/decks/Mono-Red_Aggro.md)                      |[Temur Reclamation](./mtggoldfish/Standard/decks/Temur_Reclamation.md)  |                                        |
+|                                A                                 |                                B                                 |                                          C                                           |                                   D                                    |                    E                     |
+|------------------------------------------------------------------|------------------------------------------------------------------|--------------------------------------------------------------------------------------|------------------------------------------------------------------------|------------------------------------------|
+|[Azorius Control](./mtggoldfish/Standard/decks/Azorius_Control.md)|[Esper Control](./mtggoldfish/Standard/decks/Esper_Control.md)    |[Jeskai Fires Superfriends](./mtggoldfish/Standard/decks/Jeskai_Fires_Superfriends.md)|[Orzhov Control](./mtggoldfish/Standard/decks/Orzhov_Control.md)        |[U](./mtggoldfish/Standard/decks/U.md)    |
+|[BG](./mtggoldfish/Standard/decks/BG.md)                          |[Esper Stax](./mtggoldfish/Standard/decks/Esper_Stax.md)          |[Jeskai Fires](./mtggoldfish/Standard/decks/Jeskai_Fires.md)                          |[Rakdos Aristocrats](./mtggoldfish/Standard/decks/Rakdos_Aristocrats.md)|[WUB](./mtggoldfish/Standard/decks/WUB.md)|
+|[BRG](./mtggoldfish/Standard/decks/BRG.md)                        |[Grixis Amass](./mtggoldfish/Standard/decks/Grixis_Amass.md)      |[Mardu Knights](./mtggoldfish/Standard/decks/Mardu_Knights.md)                        |[Rakdos Knights](./mtggoldfish/Standard/decks/Rakdos_Knights.md)        |[W](./mtggoldfish/Standard/decks/W.md)    |
+|[B](./mtggoldfish/Standard/decks/B.md)                            |[Grixis Midrange](./mtggoldfish/Standard/decks/Grixis_Midrange.md)|[Mono-Black Aggro](./mtggoldfish/Standard/decks/Mono-Black_Aggro.md)                  |[Temur Reclamation](./mtggoldfish/Standard/decks/Temur_Reclamation.md)  |                                          |
+|[Boros Aggro](./mtggoldfish/Standard/decks/Boros_Aggro.md)        |[Izzet Flash](./mtggoldfish/Standard/decks/Izzet_Flash.md)        |[Mono-Red Aggro](./mtggoldfish/Standard/decks/Mono-Red_Aggro.md)                      |[UB](./mtggoldfish/Standard/decks/UB.md)                                |                                          |
+|[Boros Knights](./mtggoldfish/Standard/decks/Boros_Knights.md)    |[Izzet Phoenix](./mtggoldfish/Standard/decks/Izzet_Phoenix.md)    |[Mono-Red Cavalcade](./mtggoldfish/Standard/decks/Mono-Red_Cavalcade.md)              |[UG](./mtggoldfish/Standard/decks/UG.md)                                |                                          |
 
 
 # Pioneer
@@ -97,4 +98,4 @@
 
 
 
-#### Last Updated at 12:32PM on November 20, 2019
+#### Last Updated at 01:10AM on November 21, 2019

@@ -38,8 +38,8 @@
 |                    3|[Mana Confluence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409573) |                    1|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)                 |
 |                    3|[Anticipate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401813)      |                    1|[Chandra, Awakened Inferno](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466881)|
 |                    4|[Mana Confluence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409573) |                    2|[Baral's Expertise](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423696)        |
-|                    1|[Curious Pair](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473112)    |                    1|[Disdainful Stroke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420705)        |
-|                    1|[Sylvan Caryatid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373624) |                    1|[Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)           |
+|                    1|[Curious Pair](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473112)    |                    1|[Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)           |
+|                    1|[Sylvan Caryatid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373624) |                    1|[Disdainful Stroke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420705)        |
 |                    2|[Sylvan Caryatid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373624) |                    2|[Disdainful Stroke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420705)        |
 |                    3|[Spirebluff Canal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417822)|                    2|[Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)           |
 

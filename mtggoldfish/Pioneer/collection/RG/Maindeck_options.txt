@@ -39,12 +39,12 @@
 2 Young Pyromancer
 2 Wild Slash
 2 Collision/Colossus
-2 Dreadhorde Arcanist
 2 Soul-Scar Mage
 2 Monastery Swiftspear
 2 Renegade Tactics
 2 Expedite
 2 Fabled Passage
+2 Dreadhorde Arcanist
 3 Soul-Scar Mage
 3 Young Pyromancer
 3 Fabled Passage
@@ -62,8 +62,8 @@
 4 Become Immense
 4 Monastery Swiftspear
 4 Dreadhorde Arcanist
-1 Scavenger Grounds
 1 Ugin, the Ineffable
+1 Scavenger Grounds
 1 Thought-Knot Seer
 1 Blast Zone
 1 Aether Hub
@@ -89,13 +89,13 @@
 1 Shrine of the Forsaken Gods
 1 Cascading Cataracts
 1 Field of the Dead
-1 Yavimaya Coast
 1 Hour of Promise
 1 Nissa's Revelation
 1 Golos, Tireless Pilgrim
 1 Emrakul, the Promised End
 1 Corrupted Crossroads
 1 Elvish Rejuvenator
+1 Yavimaya Coast
 2 Stonecoil Serpent
 2 Mana Confluence
 2 Shrine of the Forsaken Gods
@@ -157,19 +157,19 @@
 1 Sea Gate Wreckage
 1 Ramunap Ruins
 1 Reality Smasher
-1 Matter Reshaper
 1 Mutavault
+1 Matter Reshaper
 2 Ramunap Ruins
 2 Domri, Anarch of Bolas
 2 Reality Smasher
-2 Matter Reshaper
 2 Mutavault
+2 Matter Reshaper
 3 Domri, Anarch of Bolas
 3 Ramunap Ruins
 3 Smuggler's Copter
 3 Matter Reshaper
-3 Mutavault
 3 Reality Smasher
+3 Mutavault
 4 Matter Reshaper
 4 Smuggler's Copter
 4 Mutavault
@@ -180,8 +180,8 @@
 1 Wily Goblin
 1 Nykthos, Shrine to Nyx
 1 Eidolon of the Great Revel
-1 Chandra, Torch of Defiance
 1 Magma Spray
+1 Chandra, Torch of Defiance
 1 Temple of Abandon
 1 Fanatic of Mogis
 1 Dragon Whisperer
@@ -191,11 +191,11 @@
 2 Wily Goblin
 2 Goblin Chainwhirler
 2 Nykthos, Shrine to Nyx
-2 Magma Spray
 2 Chandra, Torch of Defiance
 2 Eidolon of the Great Revel
 2 Fanatic of Mogis
 2 Boros Reckoner
+2 Magma Spray
 2 Dragon Whisperer
 2 Temple of Abandon
 3 Nykthos, Shrine to Nyx
@@ -222,9 +222,9 @@
 1 Explosive Vegetation
 2 Sanctum of Ugin
 2 Sylvan Scrying
-2 Ulamog, the Ceaseless Hunger
 2 Ugin, the Spirit Dragon
 2 Nissa's Pilgrimage
+2 Ulamog, the Ceaseless Hunger
 2 Castle Garenbrig
 2 Whisperwood Elemental
 2 Explosive Vegetation

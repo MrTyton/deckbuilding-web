@@ -22,21 +22,21 @@
 1 Life from the Loam
 1 Magmatic Sinkhole
 1 Fire-Lit Thicket
-1 Forgotten Cave
+1 Tranquil Thicket
 1 Raging Ravine
 1 Countryside Crusher
 1 Flame Jab
+1 Forgotten Cave
 1 Seismic Assault
-1 Tranquil Thicket
 1 Treetop Village
 2 Life from the Loam
 2 Magmatic Sinkhole
 2 Ghost Quarter
 2 Copperline Gorge
 2 Tranquil Thicket
+2 Fire-Lit Thicket
 2 Countryside Crusher
 2 Forgotten Cave
-2 Fire-Lit Thicket
 2 Mountain
 2 Raging Ravine
 2 Flame Jab
@@ -45,9 +45,9 @@
 3 Life from the Loam
 3 Ghost Quarter
 3 Countryside Crusher
+3 Flame Jab
 3 Seismic Assault
 3 Copperline Gorge
-3 Flame Jab
 3 Merchant of the Vale
 4 Ghost Quarter
 4 Countryside Crusher
@@ -66,20 +66,20 @@
 1 Scavenging Ooze
 1 Ruric Thar, the Unbowed
 1 Oath of Nissa
-2 Nykthos, Shrine to Nyx
 2 Garruk Wildspeaker
 2 Genesis Hydra
 2 Voracious Hydra
 2 Oath of Nissa
 2 Burning-Tree Emissary
 2 Eternal Witness
+2 Nykthos, Shrine to Nyx
 3 Oath of Nissa
 3 Burning-Tree Emissary
 3 Eternal Witness
 3 Nykthos, Shrine to Nyx
 3 Garruk Wildspeaker
-4 Garruk Wildspeaker
 4 Burning-Tree Emissary
+4 Garruk Wildspeaker
 4 Oath of Nissa
 4 Nykthos, Shrine to Nyx
 1 Simian Spirit Guide
@@ -99,10 +99,10 @@
 2 Simian Spirit Guide
 2 Serum Powder
 2 Dismember
+2 Zhalfirin Void
 2 Eternal Scourge
 2 Matter Reshaper
 2 Mutavault
-2 Zhalfirin Void
 2 Blast Zone
 2 Chalice of the Void
 2 Eldrazi Mimic
@@ -140,29 +140,10 @@
 4 Birds of Paradise
 4 Karplusan Forest
 4 Noble Hierarch
-1 Misty Rainforest
-1 Stone Rain
-1 Mwonvuli Acid-Moss
-1 Bonfire of the Damned
-1 Thragtusk
-1 Inferno Titan
-2 Mwonvuli Acid-Moss
-2 Thragtusk
-2 Stone Rain
-2 Inferno Titan
-2 Bonfire of the Damned
-3 Pillage
-3 Bonfire of the Damned
-3 Thragtusk
-3 Stone Rain
-4 Bonfire of the Damned
-4 Stomping Ground
-4 Karn, the Great Creator
-4 Pillage
 1 Snow-Covered Mountain
-1 Wrenn and Six
 1 Snow-Covered Forest
 1 Tarfire
+1 Wrenn and Six
 1 Hexdrinker
 1 Seasoned Pyromancer
 1 Goblin Rabblemaster
@@ -170,16 +151,16 @@
 2 Snow-Covered Mountain
 2 Snow-Covered Forest
 2 Seasoned Pyromancer
-2 Goblin Rabblemaster
 2 Wrenn and Six
 2 Hexdrinker
+2 Goblin Rabblemaster
 3 Seasoned Pyromancer
 3 Snow-Covered Forest
 3 Wrenn and Six
 3 Goblin Rabblemaster
 4 Wrenn and Six
-4 Blood Moon
 4 Seasoned Pyromancer
+4 Blood Moon
 4 Snow-Covered Forest
 1 Vengevine
 1 Magus of the Moon
@@ -194,3 +175,22 @@
 4 Vengevine
 4 Magus of the Moon
 8 Forest
+1 Misty Rainforest
+1 Thragtusk
+1 Stone Rain
+1 Mwonvuli Acid-Moss
+1 Bonfire of the Damned
+1 Inferno Titan
+2 Mwonvuli Acid-Moss
+2 Inferno Titan
+2 Thragtusk
+2 Stone Rain
+2 Bonfire of the Damned
+3 Pillage
+3 Bonfire of the Damned
+3 Thragtusk
+3 Stone Rain
+4 Bonfire of the Damned
+4 Stomping Ground
+4 Karn, the Great Creator
+4 Pillage

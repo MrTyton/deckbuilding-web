@@ -69,12 +69,12 @@
 4 Plains
 5 Plains
 6 Plains
-1 Archangel Avacyn
 1 Castle Ardenvale
+1 Archangel Avacyn
 1 Irrigated Farmland
 2 Irrigated Farmland
-2 Archangel Avacyn
 2 Castle Ardenvale
+2 Archangel Avacyn
 3 Archangel Avacyn
 4 Teferi, Time Raveler
 4 Gideon, Ally of Zendikar
@@ -307,12 +307,12 @@
 1 Deathrite Shaman
 1 Llanowar Wastes
 1 Collective Brutality
+1 Grisly Salvage
 1 Driven / Despair
 1 Claim / Fame
 1 Hooting Mandrills
 1 Narcomoeba
 1 Haunted Dead
-1 Grisly Salvage
 1 Stitcher's Supplier
 1 Creeping Chill
 1 Prized Amalgam
@@ -320,22 +320,22 @@
 2 Llanowar Wastes
 2 Driven / Despair
 2 Deathrite Shaman
+2 Grisly Salvage
 2 Collective Brutality
-2 Claim / Fame
 2 Hooting Mandrills
+2 Claim / Fame
 2 Creeping Chill
 2 Narcomoeba
 2 Overgrown Tomb
 2 Haunted Dead
-2 Grisly Salvage
 2 Stitcher's Supplier
 2 Swamp
 2 Prized Amalgam
 3 Satyr Wayfinder
 3 Deathrite Shaman
 3 Llanowar Wastes
-3 Driven / Despair
 3 Grisly Salvage
+3 Driven / Despair
 3 Stitcher's Supplier
 3 Prized Amalgam
 3 Haunted Dead
@@ -426,11 +426,11 @@
 3 Soldier of the Pantheon
 3 Knight of the White Orchid
 3 Benalish Marshal
+4 Declaration in Stone
 4 Dauntless Bodyguard
 4 Thalia's Lieutenant
 4 Soldier of the Pantheon
 4 Benalish Marshal
-4 Declaration in Stone
 4 Brave the Elements
 4 Mardu Woe-Reaper
 4 Boros Elite

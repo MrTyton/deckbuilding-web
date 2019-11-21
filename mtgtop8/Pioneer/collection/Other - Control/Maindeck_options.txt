@@ -52,20 +52,20 @@
 1 Fae of Wishes
 3 Languish
 4 Swamp
-2 Field of Ruin
 2 Kalitas, Traitor of Ghet
+2 Field of Ruin
 1 Assassin's Trophy
 1 Abrupt Decay
 2 Abrupt Decay
 2 Forest
 1 Dark Petition
 1 Hissing Quagmire
-1 Murderous Rider
 1 Read the Bones
 1 Temple of Malady
 1 Vraska's Contempt
 1 Sign in Blood
 1 Seasons Past
+1 Murderous Rider
 2 Assassin's Trophy
 2 Dark Petition
 3 Dark Petition
@@ -79,16 +79,16 @@
 1 Murderous Cut
 2 Torrential Gearhulk
 1 Quench
-1 Cry of the Carnarium
 1 Ob Nixilis's Cruelty
 1 Mutavault
+1 Cry of the Carnarium
 2 Quench
 1 Hieroglyphic Illumination
 1 Commit / Memory
-1 Gideon, Ally of Zendikar
-1 Concealed Courtyard
-1 Sorin, Solemn Visitor
 1 Liliana, Dreadhorde General
+1 Concealed Courtyard
+1 Gideon, Ally of Zendikar
+1 Sorin, Solemn Visitor
 2 Hieroglyphic Illumination
 2 Godless Shrine
 2 Concealed Courtyard
@@ -99,36 +99,36 @@
 2 Absorb
 3 Plains
 4 Teferi, Time Raveler
-1 The Scarab God
-3 Liliana, the Last Hope
-4 Dig Through Time
 1 Approach of the Second Sun
 2 Oath of Kaya
 3 Oath of Kaya
-4 Detention Sphere
 4 Glacial Fortress
+4 Detention Sphere
+1 The Scarab God
+3 Liliana, the Last Hope
+4 Dig Through Time
 1 Field of the Dead
 1 Blooming Marsh
 1 Hour of Promise
 2 Field of the Dead
-1 Llanowar Wastes
 1 Overgrown Tomb
+1 Llanowar Wastes
 1 Reliquary Tower
 1 Arch of Orazca
 1 The Elderspell
+1 Woodland Cemetery
 1 Bontu's Last Reckoning
 1 Nissa's Renewal
 1 Torment of Hailfire
 1 Walking Ballista
-1 Woodland Cemetery
 1 Mastermind's Acquisition
-2 Woodland Cemetery
 2 Overgrown Tomb
 2 Vraska's Contempt
+2 Woodland Cemetery
 2 Seasons Past
 2 Read the Bones
-3 Woodland Cemetery
 3 Overgrown Tomb
+3 Woodland Cemetery
 4 Overgrown Tomb
 4 Languish
 3 Abrupt Decay
@@ -144,8 +144,8 @@
 1 Oko, Thief of Crowns
 2 Oko, Thief of Crowns
 1 Clifftop Retreat
-1 Oath of Teferi
 1 Heart of Kiran
+1 Oath of Teferi
 1 Fires of Invention
 1 Temple of Triumph
 1 Nicol Bolas, God-Pharaoh
@@ -157,6 +157,7 @@
 2 Temple of Enlightenment
 2 Sacred Foundry
 2 Fae of Wishes
+2 Jace, Architect of Thought
 2 Nicol Bolas, Dragon-God
 2 Heart of Kiran
 2 Deafening Clarion
@@ -165,7 +166,6 @@
 2 Interplanar Beacon
 2 Drawn from Dreams
 2 Oath of Teferi
-2 Jace, Architect of Thought
 2 Temple of Epiphany
 3 Sacred Foundry
 3 Deafening Clarion
@@ -179,8 +179,8 @@
 1 Doom Blade
 1 Dark Deal
 1 Notion Thief
-2 Castle Vantress
 2 Geier Reach Sanitarium
+2 Castle Vantress
 2 Ritual of Soot
 2 Doom Blade
 2 Notion Thief
@@ -242,10 +242,10 @@
 1 Disallow
 1 Temple Garden
 1 Nexus of Fate
-2 Search for Azcanta
 2 Breeding Pool
 2 Lumbering Falls
 2 Settle the Wreckage
+2 Search for Azcanta
 2 Supreme Will
 2 Wilderness Reclamation
 2 Temple Garden
@@ -257,37 +257,37 @@
 4 Wilderness Reclamation
 1 Botanical Sanctum
 1 Sylvan Caryatid
-1 Nomad Outpost
-1 Rogue Refiner
-1 Unmoored Ego
-1 Attune with Aether
 1 Opulent Palace
+1 Nomad Outpost
+1 Attune with Aether
 1 Aether Hub
+1 Rogue Refiner
 1 Gilded Goose
 1 Bring to Light
 1 Niv-Mizzet Reborn
+1 Unmoored Ego
 1 Mana Confluence
 1 Tolsimir, Friend to Wolves
 2 Blooming Marsh
 2 Mana Confluence
-2 Rogue Refiner
-2 Attune with Aether
-2 Bring to Light
 2 Opulent Palace
+2 Bring to Light
 2 Gilded Goose
 2 Botanical Sanctum
+2 Rogue Refiner
+2 Attune with Aether
 2 Aether Hub
 2 Niv-Mizzet Reborn
 3 Blooming Marsh
-3 Rogue Refiner
 3 Bring to Light
 3 Niv-Mizzet Reborn
 3 Gilded Goose
 3 Oko, Thief of Crowns
+3 Rogue Refiner
 3 Aether Hub
 4 Blooming Marsh
-4 Rogue Refiner
 4 Gilded Goose
+4 Rogue Refiner
 4 Aether Hub
 1 Stomping Ground
 1 Scapeshift
@@ -326,8 +326,8 @@
 3 Forest
 4 Forest
 1 Nissa, Vastwood Seer
-1 Tireless Tracker
 1 Grasp of Darkness
+1 Tireless Tracker
 1 Garruk, Cursed Huntsman
 1 Collective Brutality
 1 Crypt Incursion
@@ -375,9 +375,9 @@
 3 World Breaker
 3 Explosive Vegetation
 3 Dragonlord Atarka
+3 Sylvan Caryatid
 3 Llanowar Elves
 3 Elvish Mystic
-3 Sylvan Caryatid
 3 Ulvenwald Hydra
 3 Sanctum of Ugin
 3 Once Upon a Time

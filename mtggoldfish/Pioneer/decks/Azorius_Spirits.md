@@ -32,10 +32,10 @@
 |*n*<sup>th</sup> copy|                                  Maindeck Card                                  |*n*<sup>th</sup> copy|                                          Sideboard Card                                           |
 |--------------------:|---------------------------------------------------------------------------------|--------------------:|---------------------------------------------------------------------------------------------------|
 |                    4|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)|                    4|[Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)        |
-|                     |                                                                                 |                    1|[Detention Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460139)        |
-|                     |                                                                                 |                    1|[Gideon, Ally of Zendikar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401897)|
-|                     |                                                                                 |                    2|[Gideon, Ally of Zendikar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401897)|
 |                     |                                                                                 |                    1|[Selfless Spirit](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414332)         |
 |                     |                                                                                 |                    1|[Ratchet Bomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370623)            |
 |                     |                                                                                 |                    2|[Ratchet Bomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370623)            |
+|                     |                                                                                 |                    1|[Detention Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460139)        |
+|                     |                                                                                 |                    1|[Gideon, Ally of Zendikar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401897)|
+|                     |                                                                                 |                    2|[Gideon, Ally of Zendikar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401897)|
 

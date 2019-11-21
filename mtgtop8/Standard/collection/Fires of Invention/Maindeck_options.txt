@@ -1,10 +1,13 @@
-3 Fae of Wishes
-3 Drawn from Dreams
-3 Aether Gust
+3 Sacred Foundry
 1 Realm-Cloaked Giant
+3 Aether Gust
+4 Fabled Passage
+3 Fae of Wishes
 3 Prison Realm
 1 Time Wipe
 4 Sacred Foundry
+4 Temple of Triumph
+4 Bonecrusher Giant
 4 Fae of Wishes
 1 Narset, Parter of Veils
 1 Sarkhan the Masterless
@@ -14,28 +17,23 @@
 3 Narset, Parter of Veils
 1 Interplanar Beacon
 2 Interplanar Beacon
-4 Fabled Passage
 3 Interplanar Beacon
-4 Temple of Triumph
 3 Sarkhan the Masterless
 4 Interplanar Beacon
-4 Bonecrusher Giant
-1 Chandra, Awakened Inferno
-1 Ugin, the Ineffable
-1 Shimmer of Possibility
-2 Kenrith, the Returned King
-4 Narset, Parter of Veils
-1 Solar Blaze
 1 Sorcerous Spyglass
 2 Sorcerous Spyglass
+1 Ugin, the Ineffable
 1 Opt
 2 Opt
-2 Shimmer of Possibility
-3 Shimmer of Possibility
+2 Kenrith, the Returned King
+1 Solar Blaze
+1 Chandra, Awakened Inferno
 1 Sphinx of Foresight
+3 Island
 1 Justice Strike
 2 Justice Strike
-3 Island
+4 Narset, Parter of Veils
+1 Shimmer of Possibility
 4 Castle Vantress
 2 Plains
 2 Solar Blaze
@@ -57,6 +55,8 @@
 1 Evolving Wilds
 2 Realm-Cloaked Giant
 2 Evolving Wilds
+2 Shimmer of Possibility
+3 Shimmer of Possibility
 1 Finale of Glory
 1 Irencrag Feat
 1 Tranquil Cove
@@ -82,9 +82,9 @@
 2 Bond of Revival
 2 Drakuseth, Maw of Flames
 3 Thrill of Possibility
+3 Discovery / Dispersal
 3 Drakuseth, Maw of Flames
 3 Bond of Revival
-3 Discovery / Dispersal
 4 Discovery / Dispersal
 4 Drakuseth, Maw of Flames
 4 Bond of Revival
@@ -120,16 +120,16 @@
 4 Once Upon a Time
 1 Karn's Bastion
 1 Nicol Bolas, Dragon-God
+1 Temple of Malady
 1 Garruk, Cursed Huntsman
 1 Ral, Storm Conduit
 1 Liliana, Dreadhorde General
 1 Thought Erasure
 1 Ral, Izzet Viceroy
 1 Saheeli, Sublime Artificer
+1 Ritual of Soot
 1 Casualties of War
 1 Bedevil
-1 Ritual of Soot
-1 Temple of Malady
 1 Kasmina, Enigmatic Mentor
 1 Blast Zone
 2 Ral, Izzet Viceroy
@@ -149,8 +149,8 @@
 1 Torbran, Thane of Red Fell
 1 Chandra, Acolyte of Flame
 1 Chandra's Triumph
-1 Leyline of Combustion
 1 Chandra, Fire Artisan
+1 Leyline of Combustion
 1 Flame Sweep
 1 Chandra, Novice Pyromancer
 1 Chandra's Regulator
@@ -158,20 +158,20 @@
 2 Torbran, Thane of Red Fell
 2 Chandra, Acolyte of Flame
 2 Chandra's Triumph
-2 Leyline of Combustion
 2 Chandra, Awakened Inferno
+2 Leyline of Combustion
 2 Chandra, Novice Pyromancer
 2 Flame Sweep
 2 Chandra's Regulator
+3 Chandra, Acolyte of Flame
 3 Torbran, Thane of Red Fell
 3 Chandra's Triumph
 3 Chandra, Awakened Inferno
 3 Leyline of Combustion
 3 Chandra's Regulator
-3 Chandra, Acolyte of Flame
 3 Chandra, Novice Pyromancer
-4 Chandra's Triumph
 4 Chandra, Acolyte of Flame
+4 Chandra's Triumph
 4 Chandra, Novice Pyromancer
 4 Chandra's Regulator
 5 Mountain
