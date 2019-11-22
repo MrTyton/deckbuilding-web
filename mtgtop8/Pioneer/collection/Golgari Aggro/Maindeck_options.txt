@@ -30,22 +30,22 @@
 3 Elvish Mystic
 2 Murderous Rider
 4 Woodland Cemetery
-1 Lotleth Troll
-1 Soulflayer
 1 Zetalpa, Primal Dawn
-2 Soulflayer
-2 Zetalpa, Primal Dawn
+1 Soulflayer
+1 Lotleth Troll
 2 Lotleth Troll
-3 Soulflayer
-3 Zetalpa, Primal Dawn
-3 Lotleth Troll
+2 Zetalpa, Primal Dawn
+2 Soulflayer
 3 Grisly Salvage
-4 Lotleth Troll
-4 Grisly Salvage
+3 Lotleth Troll
+3 Zetalpa, Primal Dawn
+3 Soulflayer
 4 Soulflayer
+4 Grisly Salvage
+4 Lotleth Troll
 3 Traverse the Ulvenwald
-1 Ishkanah, Grafwidow
 1 Castle Locthwain
+1 Ishkanah, Grafwidow
 1 Courser of Kruphix
 1 Assassin's Trophy
 2 Fabled Passage
@@ -71,15 +71,15 @@
 1 Deathrite Shaman
 2 Deathrite Shaman
 1 Mana Confluence
+1 Blood Crypt
 1 Samut, Voice of Dissent
 1 Chromanticore
-1 Blood Crypt
 1 Bomat Courier
 2 Blood Crypt
 2 Mana Confluence
 2 Samut, Voice of Dissent
-3 Blood Crypt
 3 Mana Confluence
+3 Blood Crypt
 3 Samut, Voice of Dissent
 4 Mana Confluence
 1 Gather the Pack
@@ -131,37 +131,19 @@
 1 Rhonas the Indomitable
 2 Rhonas the Indomitable
 1 Jadelight Ranger
-1 Castle Garenbrig
-2 Vessel of Nascency
-3 Liliana, the Last Hope
 1 Smuggler's Copter
 1 Mutavault
 2 Smuggler's Copter
-3 Smuggler's Copter
 3 Rishkar, Peema Renegade
+3 Smuggler's Copter
+1 Castle Garenbrig
+2 Vessel of Nascency
+3 Liliana, the Last Hope
 1 Ghor-Clan Rampager
 2 Bomat Courier
 3 Chromanticore
 3 Bomat Courier
 4 Samut, Voice of Dissent
-1 Renegade Map
-4 Hissing Quagmire
-1 Metallic Mimic
-1 Ruins of Oran-Rief
-1 Animation Module
-1 Steel Overseer
-1 Karn's Bastion
-1 Sea Gate Wreckage
-2 Metallic Mimic
-2 Steel Overseer
-3 Steel Overseer
-4 Steel Overseer
-1 Nullhide Ferox
-2 Nullhide Ferox
-3 Nullhide Ferox
-3 Rhonas the Indomitable
-4 Nullhide Ferox
-4 Rhonas the Indomitable
 1 Glorybringer
 1 Satyr Wayfinder
 1 Den Protector
@@ -169,28 +151,30 @@
 3 Satyr Wayfinder
 4 Satyr Wayfinder
 1 Tasigur, the Golden Fang
-3 Assassin's Trophy
 3 Scavenging Ooze
+3 Assassin's Trophy
 4 Scavenging Ooze
 4 Abrupt Decay
+1 Renegade Map
+4 Hissing Quagmire
 1 Elvish Visionary
 1 Collected Company
 1 Duskwatch Recruiter
 1 Westvale Abbey
-1 Nantuko Husk
 1 Zulaport Cutthroat
 1 Plaguecrafter
 1 Liliana, Heretical Healer
+1 Nantuko Husk
 1 Blisterpod
 1 Catacomb Sifter
 2 Westvale Abbey
 2 Collected Company
 2 Duskwatch Recruiter
 2 Elvish Visionary
-2 Nantuko Husk
 2 Zulaport Cutthroat
 2 Liliana, Heretical Healer
 2 Blisterpod
+2 Nantuko Husk
 2 Catacomb Sifter
 3 Duskwatch Recruiter
 3 Collected Company
@@ -205,10 +189,26 @@
 4 Nantuko Husk
 4 Elvish Visionary
 4 Duskwatch Recruiter
+1 Metallic Mimic
+1 Ruins of Oran-Rief
+1 Animation Module
+1 Karn's Bastion
+1 Sea Gate Wreckage
+1 Steel Overseer
+2 Metallic Mimic
+2 Steel Overseer
+3 Steel Overseer
+4 Steel Overseer
+1 Nullhide Ferox
+2 Nullhide Ferox
+3 Rhonas the Indomitable
+3 Nullhide Ferox
+4 Rhonas the Indomitable
+4 Nullhide Ferox
 1 Barkhide Troll
-1 Syr Faren, the Hengehammer
 1 Dryad Militant
 1 Aspect of Hydra
+1 Syr Faren, the Hengehammer
 1 Driven / Despair
 1 Blossoming Defense
 1 Steel Leaf Champion
@@ -216,8 +216,8 @@
 1 Avatar of the Resolute
 2 Yorvo, Lord of Garenbrig
 2 Barkhide Troll
-2 Syr Faren, the Hengehammer
 2 Aspect of Hydra
+2 Syr Faren, the Hengehammer
 2 Dryad Militant
 2 Driven / Despair
 2 Blossoming Defense
@@ -225,16 +225,16 @@
 2 Avatar of the Resolute
 3 Barkhide Troll
 3 Dryad Militant
+3 Aspect of Hydra
 3 Hashep Oasis
 3 Blossoming Defense
 3 Avatar of the Resolute
 3 Steel Leaf Champion
-3 Aspect of Hydra
 4 Barkhide Troll
 4 Blossoming Defense
 4 Dryad Militant
-4 Avatar of the Resolute
 4 Aspect of Hydra
-4 Steel Leaf Champion
-9 Forest
+4 Avatar of the Resolute
 8 Forest
+9 Forest
+4 Steel Leaf Champion

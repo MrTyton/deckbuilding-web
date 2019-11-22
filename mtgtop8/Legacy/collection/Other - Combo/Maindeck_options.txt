@@ -21,30 +21,15 @@
 4 Ponder
 4 Brainstorm
 4 Force of Will
-1 Misty Rainforest
 1 Scalding Tarn
 2 Scalding Tarn
-1 Ancient Tomb
-2 Ancient Tomb
-1 Karn, the Great Creator
-1 City of Traitors
-1 Grim Monolith
-2 Karn, the Great Creator
-2 City of Traitors
-2 Grim Monolith
-3 Ancient Tomb
-3 Grim Monolith
-3 Karn, the Great Creator
-4 Ancient Tomb
-4 Karn, the Great Creator
-4 Grim Monolith
+1 Snapcaster Mage
+2 Snapcaster Mage
 1 Flooded Strand
 1 Prismatic Vista
 1 Snow-Covered Island
 2 Snow-Covered Island
 3 Snow-Covered Island
-1 Snapcaster Mage
-2 Snapcaster Mage
 1 Volcanic Island
 2 Volcanic Island
 1 Teferi, Time Raveler
@@ -52,8 +37,8 @@
 1 Arcum's Astrolabe
 1 Spell Queller
 1 Swords to Plowshares
-1 Supreme Verdict
 1 Snow-Covered Plains
+1 Supreme Verdict
 1 Unexpectedly Absent
 1 Tundra
 1 Spell Pierce
@@ -84,6 +69,7 @@
 4 Swords to Plowshares
 4 Saheeli Rai
 4 Teferi, Time Raveler
+1 Misty Rainforest
 1 Island
 1 Tropical Island
 1 Gurmag Angler
@@ -108,24 +94,22 @@
 2 Animate Dead
 3 Baleful Strix
 3 Abrupt Decay
-3 Polluted Delta
 3 Animate Dead
+3 Polluted Delta
 3 Underground Sea
 4 Animate Dead
 4 Polluted Delta
-1 Defense Grid
-1 Mox Opal
-2 Defense Grid
-2 Mox Opal
-3 Mox Opal
-4 Mox Opal
+1 Ancient Tomb
+2 Ancient Tomb
 1 Chain of Vapor
 1 Grapeshot
 1 Echo of Eons
+1 Defense Grid
 1 Repeal
 1 Urza's Bauble
 1 Riddlesmith
 1 Simian Spirit Guide
+1 Mox Opal
 1 Brain Freeze
 1 Gamble
 1 Narset, Parter of Veils
@@ -133,10 +117,12 @@
 1 Mishra's Bauble
 2 Chrome Mox
 2 Echo of Eons
+2 Defense Grid
 2 Narset, Parter of Veils
 2 Chain of Vapor
 2 Urza's Bauble
 2 Gamble
+2 Mox Opal
 2 Simian Spirit Guide
 2 Mishra's Bauble
 2 Ovalchase Daredevil
@@ -146,11 +132,13 @@
 3 Echo of Eons
 3 Narset, Parter of Veils
 3 Riddlesmith
+3 Mox Opal
 3 Ovalchase Daredevil
 3 Mishra's Bauble
 3 Urza's Bauble
 4 Gamble
 4 Narset, Parter of Veils
+4 Mox Opal
 4 Chrome Mox
 4 Echo of Eons
 4 Mishra's Bauble
@@ -160,53 +148,33 @@
 1 Preordain
 1 Daze
 1 Intuition
+1 Karn, the Great Creator
 1 Power Artifact
 1 Walking Ballista
+1 City of Traitors
+1 Grim Monolith
 2 Intuition
 2 Walking Ballista
 2 Daze
 2 Preordain
+2 Karn, the Great Creator
 2 Power Artifact
+2 City of Traitors
+2 Grim Monolith
 3 Walking Ballista
 3 Daze
+3 Ancient Tomb
+3 Preordain
+3 Grim Monolith
+3 Karn, the Great Creator
 3 Power Artifact
 3 Intuition
-3 Preordain
 4 Walking Ballista
 4 Snow-Covered Island
 4 Daze
 4 Power Artifact
+4 Ancient Tomb
+4 Karn, the Great Creator
 5 Snow-Covered Island
 6 Snow-Covered Island
-1 Mystic Forge
-1 Chalice of the Void
-1 Inventors' Fair
-1 Serum Powder
-1 Voltaic Key
-1 Basalt Monolith
-1 Crystal Vein
-1 Manifold Key
-1 Thran Dynamo
-1 Ensnaring Bridge
-1 Paradox Engine
-2 Voltaic Key
-2 Mystic Forge
-2 Chalice of the Void
-2 Serum Powder
-2 Inventors' Fair
-2 Crystal Vein
-2 Basalt Monolith
-2 Manifold Key
-3 City of Traitors
-3 Mystic Forge
-3 Defense Grid
-3 Serum Powder
-3 Crystal Vein
-3 Inventors' Fair
-3 Chalice of the Void
-4 City of Traitors
-4 Mystic Forge
-4 Chalice of the Void
-4 Inventors' Fair
-4 Serum Powder
-4 Crystal Vein
+4 Grim Monolith

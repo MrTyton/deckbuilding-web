@@ -1,33 +1,40 @@
-1 Canyon Slough
-2 Canyon Slough
-3 Castle Locthwain
-5 Mountain
-1 Fabled Passage
-1 Scrapheap Scrounger
-1 Rankle, Master of Pranks
-1 Bloodsoaked Champion
-2 Scrapheap Scrounger
-2 Bloodsoaked Champion
-3 Bloodsoaked Champion
-4 Bloodsoaked Champion
-4 Bonecrusher Giant
-1 Hazoret the Fervent
-2 Hazoret the Fervent
-4 Smuggler's Copter
 1 Mutavault
 2 Mutavault
 3 Mutavault
-4 Mutavault
-3 Murderous Rider
-4 Wild Slash
+1 Hazoret the Fervent
+2 Hazoret the Fervent
+1 Liliana, the Last Hope
+2 Liliana, the Last Hope
+1 Wild Slash
+2 Wild Slash
+6 Swamp
+3 Chandra, Torch of Defiance
+3 Bonecrusher Giant
+3 Wild Slash
 1 Kalitas, Traitor of Ghet
 2 Kalitas, Traitor of Ghet
-6 Swamp
+2 Rankle, Master of Pranks
+3 Scrapheap Scrounger
+4 Scrapheap Scrounger
+4 Glorybringer
+3 Castle Locthwain
+1 Cut/Ribbons
+5 Mountain
+1 Canyon Slough
+2 Canyon Slough
+1 Temple of Malice
+2 Temple of Malice
+2 Fabled Passage
+4 Mutavault
+1 Smoldering Marsh
+3 Murderous Rider
+4 Bonecrusher Giant
+4 Wild Slash
+1 Walking Ballista
+2 Walking Ballista
 1 Ramunap Ruins
 2 Ramunap Ruins
 6 Mountain
-1 Temple of Malice
-2 Temple of Malice
 3 Temple of Malice
 4 Temple of Malice
 1 Young Pyromancer
@@ -39,16 +46,27 @@
 3 Young Pyromancer
 3 Kalitas, Traitor of Ghet
 4 Young Pyromancer
-2 Rankle, Master of Pranks
-2 Fabled Passage
-3 Scrapheap Scrounger
-4 Scrapheap Scrounger
 1 Castle Embereth
-1 Smoldering Marsh
 2 Smoldering Marsh
 3 Canyon Slough
 3 Smoldering Marsh
 4 Canyon Slough
+1 Legion's End
+1 Bedlam Reveler
+1 Liliana, Death's Majesty
+1 Anger of the Gods
+1 Fiery Impulse
+1 Goblin Dark-Dwellers
+2 Bedlam Reveler
+2 Goblin Dark-Dwellers
+2 Anger of the Gods
+2 Fiery Impulse
+3 Fabled Passage
+3 Goblin Dark-Dwellers
+3 Anger of the Gods
+4 Kolaghan's Command
+4 Fabled Passage
+4 Goblin Dark-Dwellers
 1 Judith, the Scourge Diva
 1 Draconic Roar
 1 Goblin Rabblemaster
@@ -64,7 +82,6 @@
 4 Goblin Rabblemaster
 4 Draconic Roar
 1 Banefire
-1 Walking Ballista
 1 Karn's Bastion
 1 Blast Zone
 1 Imminent Doom
@@ -72,7 +89,6 @@
 1 Eternal Scourge
 1 Bomat Courier
 2 Blast Zone
-2 Walking Ballista
 2 Bomat Courier
 2 Karn's Bastion
 2 Banefire
@@ -105,8 +121,8 @@
 4 Ramunap Ruins
 1 Asylum Visitor
 1 Voldaren Pariah
-1 Falkenrath Gorger
 1 Stromkirk Condemned
+1 Falkenrath Gorger
 1 Bloodhall Priest
 1 Key to the City
 1 Fiery Temper
@@ -139,23 +155,23 @@
 2 Cut/Ribbons
 2 Nykthos, Shrine to Nyx
 2 Ahn-Crop Crasher
+2 Exava, Rakdos Blood Witch
 2 Goblin Chainwhirler
 2 Wily Goblin
 2 Earthshaker Khenra
-2 Exava, Rakdos Blood Witch
+3 Nykthos, Shrine to Nyx
 3 Burning-Tree Emissary
 3 Rix Maadi Reveler
 3 Goblin Chainwhirler
 3 Earthshaker Khenra
-3 Nykthos, Shrine to Nyx
 3 Cut/Ribbons
 3 Wily Goblin
 3 Ahn-Crop Crasher
+4 Nykthos, Shrine to Nyx
 4 Burning-Tree Emissary
 4 Rix Maadi Reveler
 4 Goblin Chainwhirler
 4 Cut/Ribbons
-4 Nykthos, Shrine to Nyx
 7 Mountain
 8 Mountain
 9 Mountain

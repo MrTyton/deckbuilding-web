@@ -43,7 +43,6 @@
 |                    1|[Liliana's Triumph](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461025)      |                     |              |
 |                    1|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)                 |                     |              |
 |                    1|[The Elderspell](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461016)         |                     |              |
-|                    2|[Fabled Passage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473206)         |                     |              |
 |                    2|[The Elderspell](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461016)         |                     |              |
 |                    2|[Liliana's Triumph](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461025)      |                     |              |
 |                    2|[Lochmere Serpent](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473157)       |                     |              |
@@ -51,6 +50,7 @@
 |                    2|[Despark](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461117)                |                     |              |
 |                    2|[Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)                 |                     |              |
 |                    2|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)                  |                     |              |
+|                    2|[Fabled Passage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473206)         |                     |              |
 |                    3|[Fabled Passage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473206)         |                     |              |
 |                    3|[Liliana's Triumph](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461025)      |                     |              |
 |                    3|[Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)                 |                     |              |

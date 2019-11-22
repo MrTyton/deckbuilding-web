@@ -1,10 +1,10 @@
+2 Dark Confidant
 3 Once Upon a Time
 1 Sylvan Library
-1 Windswept Heath
-2 Nurturing Peatland
-1 Snow-Covered Swamp
 1 Sylvan Scrying
 2 Sylvan Scrying
+1 Windswept Heath
+1 Snow-Covered Swamp
 1 Dryad Arbor
 1 Misty Rainforest
 4 Once Upon a Time
@@ -45,7 +45,6 @@
 4 Green Sun's Zenith
 1 Inquisition of Kozilek
 2 Inquisition of Kozilek
-3 Sylvan Scrying
 1 Stifle
 1 Brainstorm
 1 Tropical Island
@@ -57,20 +56,19 @@
 2 Misty Rainforest
 3 Polluted Delta
 3 Misty Rainforest
+3 Sylvan Scrying
 3 Brainstorm
 4 Brainstorm
 4 Stitcher's Supplier
 4 Cabal Therapy
 4 Satyr Wayfinder
 3 Bayou
-1 Plains
-2 Forest
 1 Lotus Petal
 2 Lotus Petal
 3 Lotus Petal
 4 Lotus Petal
-1 Pithing Needle
-2 Pithing Needle
+1 Plains
+2 Forest
 1 Wooded Foothills
 2 Wooded Foothills
 1 Tomik, Distinguished Advokist
@@ -80,14 +78,14 @@
 2 Plains
 3 Savannah
 4 Polluted Delta
-4 Hogaak, Arisen Necropolis
-2 Sylvan Safekeeper
-3 Dark Confidant
 1 Elvish Spirit Guide
 2 Elvish Spirit Guide
 3 Elvish Spirit Guide
-3 Pithing Needle
-4 Duress
+4 Hogaak, Arisen Necropolis
+1 Pithing Needle
+2 Sylvan Safekeeper
+2 Pithing Needle
+3 Dark Confidant
 2 Snow-Covered Forest
 1 Blast Zone
 1 Snow-Covered Plains
@@ -108,6 +106,10 @@
 1 Into the North
 2 Into the North
 4 Dark Confidant
+3 Pithing Needle
+4 Duress
+1 Hymn to Tourach
+4 Elvish Spirit Guide
 1 Hexdrinker
 1 Plateau
 1 Swords to Plowshares
@@ -117,11 +119,5 @@
 2 Wrenn and Six
 3 Wrenn and Six
 3 Swords to Plowshares
-4 Wasteland
 4 Swords to Plowshares
-1 Not of This World
-2 Not of This World
-3 Not of This World
-4 Not of This World
-4 Sylvan Scrying
-4 Elvish Spirit Guide
+4 Wasteland

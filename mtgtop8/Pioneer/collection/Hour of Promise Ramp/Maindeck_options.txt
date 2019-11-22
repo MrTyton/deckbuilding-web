@@ -1,3 +1,4 @@
+2 Once Upon a Time
 3 Once Upon a Time
 4 Teferi, Time Raveler
 4 Once Upon a Time
@@ -10,6 +11,10 @@
 3 Ugin, the Spirit Dragon
 1 Sanctum of Ugin
 1 Hashep Oasis
+1 Azorius Charm
+1 Oko, Thief of Crowns
+2 Oko, Thief of Crowns
+3 Oko, Thief of Crowns
 2 Shrine of the Forsaken Gods
 4 Ugin, the Spirit Dragon
 2 Castle Garenbrig
@@ -17,20 +22,20 @@
 2 Golos, Tireless Pilgrim
 1 Desert of the Indomitable
 3 Forest
-1 Nissa's Pilgrimage
 1 Cascading Cataracts
+1 Nissa's Pilgrimage
 1 Walking Ballista
 2 Hashep Oasis
-2 Sanctum of Ugin
-2 Nissa's Pilgrimage
 2 Desert of the Indomitable
+2 Sanctum of Ugin
 2 Ulamog, the Ceaseless Hunger
+2 Nissa's Pilgrimage
 2 Blast Zone
 2 Walking Ballista
-3 Nissa's Pilgrimage
-3 Castle Garenbrig
 3 Shrine of the Forsaken Gods
+3 Nissa's Pilgrimage
 3 Hashep Oasis
+3 Castle Garenbrig
 3 Walking Ballista
 4 Nissa's Pilgrimage
 4 Forest
@@ -39,7 +44,6 @@
 6 Forest
 4 Sphinx's Revelation
 1 Scapeshift
-1 Settle the Wreckage
 1 Stomping Ground
 1 Mountain
 2 Hydroid Krasis
@@ -69,11 +73,6 @@
 3 Settle the Wreckage
 2 Scapeshift
 3 Scapeshift
-1 Azorius Charm
-1 Oko, Thief of Crowns
-2 Oko, Thief of Crowns
-3 Oko, Thief of Crowns
-4 Castle Garenbrig
 1 Rootbound Crag
 1 Temple of Abandon
 1 Ipnu Rivulet
@@ -83,33 +82,17 @@
 2 Risen Reef
 3 Risen Reef
 3 Elder Deep-Fiend
-4 Risen Reef
 4 Elder Deep-Fiend
-1 Sylvan Caryatid
-1 Dragonlord Atarka
-1 Sylvan Primordial
-1 Chandra, Flamecaller
-2 Sylvan Caryatid
-2 Dragonlord Atarka
-2 Chandra, Flamecaller
-2 Sylvan Primordial
-2 Yavimaya Coast
-3 Sylvan Caryatid
-3 Dragonlord Atarka
-3 Sylvan Primordial
-3 Yavimaya Coast
-3 Breeding Pool
-4 Sylvan Caryatid
-4 Breeding Pool
-4 Yavimaya Coast
+4 Risen Reef
+4 Castle Garenbrig
 1 Courser of Kruphix
 1 Castle Locthwain
 1 Hissing Quagmire
 1 Urborg, Tomb of Yawgmoth
-1 Vraska's Contempt
+1 Ifnir Deadlands
 1 Temple of Malady
 1 Abrupt Decay
-1 Ifnir Deadlands
+1 Vraska's Contempt
 1 Legion's End
 1 Gilded Goose
 1 Overgrown Tomb
@@ -133,12 +116,29 @@
 3 Gilded Goose
 4 Abrupt Decay
 4 Thoughtseize
-4 Gilded Goose
 4 Tireless Tracker
+4 Gilded Goose
+1 Sylvan Caryatid
+1 Dragonlord Atarka
+1 Sylvan Primordial
+1 Chandra, Flamecaller
+2 Sylvan Caryatid
+2 Dragonlord Atarka
+2 Chandra, Flamecaller
+2 Sylvan Primordial
+2 Yavimaya Coast
+3 Sylvan Caryatid
+3 Dragonlord Atarka
+3 Sylvan Primordial
+3 Yavimaya Coast
+3 Breeding Pool
+4 Sylvan Caryatid
+4 Breeding Pool
+4 Yavimaya Coast
 1 Sea Gate Wreckage
 7 Forest
-1 Boros Guildgate
 1 Maze's End
+1 Boros Guildgate
 1 Dimir Guildgate
 1 Selesnya Guildgate
 1 Golgari Guildgate

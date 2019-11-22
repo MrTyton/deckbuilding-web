@@ -1,19 +1,19 @@
-1 Lovestruck Beast
-2 Lovestruck Beast
-3 Lovestruck Beast
-3 Questing Beast
-4 Lovestruck Beast
-3 Once Upon a Time
-1 Blossoming Defense
-3 Gruul Spellbreaker
-4 Gruul Spellbreaker
-3 Ghor-Clan Rampager
-4 Ghor-Clan Rampager
+2 Bonecrusher Giant
+3 Bonecrusher Giant
+8 Forest
 4 Once Upon a Time
 1 Legion Warboss
 2 Legion Warboss
 3 Legion Warboss
 4 Legion Warboss
+4 Bonecrusher Giant
+1 Gruul Spellbreaker
+2 Gruul Spellbreaker
+1 Blossoming Defense
+3 Gruul Spellbreaker
+4 Gruul Spellbreaker
+3 Ghor-Clan Rampager
+4 Ghor-Clan Rampager
 1 Glorybringer
 2 Glorybringer
 9 Forest
@@ -27,13 +27,13 @@
 2 Pelt Collector
 2 Burning-Tree Emissary
 2 Zhur-Taa Goblin
-3 Experiment One
 3 Zhur-Taa Goblin
+3 Experiment One
 3 Burning-Tree Emissary
 3 Pelt Collector
 4 Zhur-Taa Goblin
-4 Experiment One
 4 Burning-Tree Emissary
+4 Experiment One
 4 Pelt Collector
 1 Domri Rade
 1 Domri, Anarch of Bolas
@@ -44,12 +44,12 @@
 4 Steel Leaf Champion
 2 Blossoming Defense
 3 Blossoming Defense
-1 Surrak, the Hunt Caller
 1 Ilharg, the Raze-Boar
 1 Rhythm of the Wild
 1 Champion of Rhonas
 1 Worldspine Wurm
 1 Generator Servant
+1 Surrak, the Hunt Caller
 2 Rhythm of the Wild
 2 Ilharg, the Raze-Boar
 2 Worldspine Wurm
@@ -72,6 +72,7 @@
 2 Zurgo Bellstriker
 3 Atarka's Command
 4 Atarka's Command
+1 Collision / Colossus
 2 Voltaic Brawler
 3 Voltaic Brawler
 4 Voltaic Brawler
@@ -80,33 +81,33 @@
 2 Temur Battle Rage
 1 Skewer the Critics
 1 Abbot of Keral Keep
-1 Eidolon of the Great Revel
-1 Dragon Fodder
 1 Stoke the Flames
-1 Foundry Street Denizen
 1 Lightning Strike
+1 Eidolon of the Great Revel
+1 Monastery Swiftspear
+1 Foundry Street Denizen
+1 Dragon Fodder
 1 Hordeling Outburst
 1 Light Up the Stage
-1 Monastery Swiftspear
 2 Skewer the Critics
-2 Abbot of Keral Keep
-2 Dragon Fodder
-2 Eidolon of the Great Revel
 2 Stoke the Flames
+2 Abbot of Keral Keep
+2 Lightning Strike
+2 Eidolon of the Great Revel
+2 Monastery Swiftspear
 2 Foundry Street Denizen
 2 Hordeling Outburst
-2 Monastery Swiftspear
-2 Lightning Strike
-3 Dragon Fodder
-3 Eidolon of the Great Revel
+2 Dragon Fodder
 3 Stoke the Flames
-3 Monastery Swiftspear
+3 Eidolon of the Great Revel
 3 Lightning Strike
-4 Stoke the Flames
-4 Dragon Fodder
-4 Eidolon of the Great Revel
+3 Monastery Swiftspear
+3 Dragon Fodder
 4 Monastery Swiftspear
 4 Lightning Strike
+4 Eidolon of the Great Revel
+4 Dragon Fodder
+4 Stoke the Flames
 7 Mountain
 8 Mountain
 9 Mountain
@@ -115,40 +116,40 @@
 1 Hazoret the Fervent
 2 Hazoret the Fervent
 1 Managorger Hydra
-1 Resilient Khenra
 1 Yorvo, Lord of Garenbrig
-1 Kessig Prowler
-1 Aspect of Hydra
-1 Syr Faren, the Hengehammer
 1 Domri's Ambush
-2 Managorger Hydra
+1 Syr Faren, the Hengehammer
+1 Aspect of Hydra
+1 Kessig Prowler
+1 Resilient Khenra
 2 Yorvo, Lord of Garenbrig
-2 Aspect of Hydra
+2 Managorger Hydra
+2 Domri's Ambush
 2 Kessig Prowler
 2 Syr Faren, the Hengehammer
-2 Domri's Ambush
-3 Syr Faren, the Hengehammer
+2 Aspect of Hydra
 3 Yorvo, Lord of Garenbrig
+3 Syr Faren, the Hengehammer
 3 Reckless Bushwhacker
 3 Zurgo Bellstriker
 4 Reckless Bushwhacker
 1 Sweltering Suns
 1 Cinder Glade
 1 Sylvan Caryatid
+1 Hanweir Battlements
 1 Combustible Gearhulk
 1 See the Unwritten
-1 Hanweir Battlements
 2 Sweltering Suns
-2 Sylvan Caryatid
 2 Hanweir Battlements
+2 Sylvan Caryatid
 2 See the Unwritten
 2 Surrak, the Hunt Caller
 2 Cinder Glade
 2 Combustible Gearhulk
 3 Cinder Glade
+3 Hanweir Battlements
 3 Sylvan Caryatid
 3 Combustible Gearhulk
-3 Hanweir Battlements
 4 Cinder Glade
 4 Sylvan Caryatid
 1 Paradise Druid
@@ -156,8 +157,8 @@
 1 Dragonlord Atarka
 1 Temple of Abandon
 2 Paradise Druid
-2 Temple of Abandon
 2 Dragonlord Atarka
+2 Temple of Abandon
 3 Paradise Druid
 3 Dragonlord Atarka
 4 Paradise Druid
@@ -168,9 +169,9 @@
 3 Domri Rade
 3 Courser of Kruphix
 3 Glorybringer
+4 Questing Beast
 4 Domri Rade
 4 Courser of Kruphix
-4 Questing Beast
 4 Glorybringer
 1 Mutavault
 1 Growth-Chamber Guardian
@@ -191,7 +192,6 @@
 4 Chandra, Torch of Defiance
 4 Oath of Nissa
 1 Fling
-1 Collision / Colossus
 1 Harnessed Lightning
 1 Attune with Aether
 1 Aether Hub
@@ -214,9 +214,9 @@
 3 Aether Hub
 3 Collision / Colossus
 3 Bristling Hydra
+3 Electrostatic Pummeler
 3 Temur Battle Rage
 3 Longtusk Cub
-3 Electrostatic Pummeler
 3 Become Immense
 4 Collision / Colossus
 4 Harnessed Lightning
@@ -226,43 +226,43 @@
 4 Longtusk Cub
 4 Electrostatic Pummeler
 4 Blossoming Defense
-1 Arboreal Grazer
 1 Whisperwood Elemental
+1 Arboreal Grazer
 1 Castle Garenbrig
-1 Ulamog, the Ceaseless Hunger
 1 World Breaker
-1 Explosive Vegetation
-1 Kozilek's Return
 1 Nissa's Pilgrimage
-1 Sanctum of Ugin
-1 Oblivion Sower
+1 Ulamog, the Ceaseless Hunger
+1 Kozilek's Return
 1 Ugin, the Spirit Dragon
+1 Sanctum of Ugin
+1 Explosive Vegetation
 1 Sylvan Scrying
 1 Omnath, Locus of Rage
-2 Arboreal Grazer
+1 Oblivion Sower
 2 Omnath, Locus of Rage
+2 Arboreal Grazer
 2 Whisperwood Elemental
 2 Sylvan Scrying
-2 Castle Garenbrig
-2 Ulamog, the Ceaseless Hunger
-2 Explosive Vegetation
-2 World Breaker
 2 Ugin, the Spirit Dragon
+2 Ulamog, the Ceaseless Hunger
+2 Castle Garenbrig
+2 World Breaker
 2 Sanctum of Ugin
 2 Nissa's Pilgrimage
+2 Explosive Vegetation
 2 Kozilek's Return
 2 Oblivion Sower
-3 Arboreal Grazer
 3 Whisperwood Elemental
+3 Arboreal Grazer
 3 Sylvan Scrying
 3 Sanctum of Ugin
-3 Explosive Vegetation
-3 World Breaker
 3 Nissa's Pilgrimage
 3 Castle Garenbrig
+3 Explosive Vegetation
+3 World Breaker
 3 Kozilek's Return
 3 Oblivion Sower
-4 Explosive Vegetation
 4 Castle Garenbrig
+4 Explosive Vegetation
 4 Nissa's Pilgrimage
 4 Kozilek's Return
