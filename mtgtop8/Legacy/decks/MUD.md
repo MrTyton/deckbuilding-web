@@ -1,0 +1,30 @@
+# MUD
+
+#### [Export MTGO List](../collection/MUD/MUD.txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Ancient%20Tomb%0A3%09Batterskull%0A4%09Chalice%20of%20the%20Void%0A4%09City%20of%20Traitors%0A4%09Cloudpost%0A4%09Grim%20Monolith%0A3%09Karn%20Liberated%0A3%09Kozilek,%20Butcher%20of%20Truth%0A4%09Metalworker%0A4%09Thespian's%20Stage%0A2%09Thran%20Dynamo%0A4%09Trinisphere%0A3%09Ugin,%20the%20Spirit%20Dragon%0A3%09Ulamog,%20the%20Ceaseless%20Hunger%0A4%09Vesuva%0A3%09Wasteland%0A4%09Wurmcoil%20Engine&deckside=2%09Crucible%20of%20Worlds%0A1%09Karn%20Liberated%0A4%09Leyline%20of%20the%20Void%0A2%09Thran%20Dynamo%0A2%09Ugin,%20the%20Spirit%20Dragon%0A1%09Ulamog,%20the%20Ceaseless%20Hunger%0A3%09Walking%20Ballista)
+# Maindeck
+
+|                                         Artifact (17)                                          |                                              Creature (14)                                              |                                          Land (23)                                          |                                          Planeswalker (6)                                          |
+|------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
+|3 [Batterskull](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=233055)        |3 [Kozilek, Butcher of Truth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397668)   |4 [Ancient Tomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409567)    |3 [Karn Liberated](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397828)         |
+|4 [Chalice of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442211)|4 [Metalworker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=15246)                  |4 [City of Traitors](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=6168)  |3 [Ugin, the Spirit Dragon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391948)|
+|4 [Grim Monolith](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=12626)       |3 [Ulamog, the Ceaseless Hunger](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=402079)|4 [Cloudpost](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=49050)        |                                                                                                    |
+|2 [Thran Dynamo](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220506)       |4 [Wurmcoil Engine](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389756)             |4 [Thespian's Stage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=366353)|                                                                                                    |
+|4 [Trinisphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=43545)         |                                                                                                         |4 [Vesuva](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=113543)          |                                                                                                    |
+|                                                                                                |                                                                                                         |3 [Wasteland](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413790)       |                                                                                                    |
+
+
+# Sideboard
+
+|                                         Artifact (4)                                          |                                              Creature (4)                                               |                                        Enchantment (4)                                         |                                          Planeswalker (3)                                          |
+|-----------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
+|2 [Crucible of Worlds](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129480)|1 [Ulamog, the Ceaseless Hunger](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=402079)|4 [Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)|1 [Karn Liberated](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397828)         |
+|2 [Thran Dynamo](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220506)      |3 [Walking Ballista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423848)            |                                                                                                |2 [Ugin, the Spirit Dragon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391948)|
+
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                   Maindeck Card                                    |*n*<sup>th</sup> copy|Sideboard Card|
+|--------------------:|------------------------------------------------------------------------------------|---------------------|--------------|
+|                    4|[Wasteland](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413790)|                     |              |
+

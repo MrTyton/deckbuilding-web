@@ -2,12 +2,8 @@
 2 Skullcrack
 4 Mountain
 5 Mountain
-1 Scalding Tarn
-3 Bloodstained Mire
 2 Fiery Islet
-3 Fiery Islet
 6 Mountain
-1 Light Up the Stage
 7 Mountain
 8 Mountain
 9 Mountain
@@ -16,7 +12,7 @@
 12 Mountain
 1 Lava Dart
 2 Lava Dart
-1 Seal of Fire
+1 Light Up the Stage
 1 Soul-Scar Mage
 2 Light Up the Stage
 2 Soul-Scar Mage
@@ -24,20 +20,35 @@
 3 Soul-Scar Mage
 3 Lava Dart
 4 Lava Dart
-4 Soul-Scar Mage
 4 Light Up the Stage
+4 Soul-Scar Mage
+1 Scalding Tarn
+3 Bloodstained Mire
+3 Fiery Islet
 3 Arid Mesa
+4 Bloodstained Mire
+3 Wooded Foothills
+13 Mountain
+1 Crash Through
+1 Manamorphose
+1 Bedlam Reveler
+2 Bedlam Reveler
+2 Manamorphose
+2 Crash Through
+3 Manamorphose
+3 Bedlam Reveler
+3 Crash Through
+4 Crash Through
+4 Manamorphose
+1 Seal of Fire
+14 Mountain
 2 Seal of Fire
 3 Seal of Fire
 4 Seal of Fire
 4 Fiery Islet
-3 Wooded Foothills
-4 Bloodstained Mire
 3 Skullcrack
 4 Skullcrack
 4 Arid Mesa
-13 Mountain
-14 Mountain
 1 Simian Spirit Guide
 1 Gemstone Caverns
 1 Ramunap Ruins
@@ -69,19 +80,12 @@
 4 Torbran, Thane of Red Fell
 4 Goblin Rabblemaster
 1 Stomping Ground
+1 Mishra's Bauble
+2 Mishra's Bauble
+3 Mishra's Bauble
+4 Mishra's Bauble
 1 Snow-Covered Mountain
-1 Crash Through
-1 Manamorphose
-1 Bedlam Reveler
 2 Snow-Covered Mountain
-2 Bedlam Reveler
-2 Manamorphose
-2 Crash Through
-3 Manamorphose
-3 Bedlam Reveler
-3 Crash Through
-4 Crash Through
-4 Manamorphose
 2 Scalding Tarn
 1 Kiln Fiend
 1 Firebolt
@@ -93,13 +97,6 @@
 1 Grim Lavamancer
 3 Sacred Foundry
 4 Sacred Foundry
-1 Shard Volley
-1 Vexing Devil
-2 Shard Volley
-2 Vexing Devil
-3 Shard Volley
-3 Vexing Devil
-4 Vexing Devil
 1 Blast Zone
 1 Leyline of Combustion
 2 Leyline of Combustion
@@ -110,6 +107,9 @@
 4 Ramunap Ruins
 4 Leyline of Combustion
 4 Wooded Foothills
+1 Burst Lightning
+2 Burst Lightning
+4 Bedlam Reveler
 1 Copperline Gorge
 1 Thunderous Wrath
 1 Blood Crypt
@@ -132,15 +132,11 @@
 3 Legion Warboss
 4 Legion Warboss
 15 Mountain
-1 Mishra's Bauble
 1 Seasoned Pyromancer
 1 Forked Bolt
-2 Mishra's Bauble
 2 Forked Bolt
 3 Snow-Covered Mountain
-3 Mishra's Bauble
 4 Snow-Covered Mountain
-4 Mishra's Bauble
 5 Snow-Covered Mountain
 6 Snow-Covered Mountain
 7 Snow-Covered Mountain

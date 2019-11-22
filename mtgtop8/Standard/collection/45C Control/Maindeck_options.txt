@@ -1,33 +1,33 @@
-1 Golgari Guildgate
 2 Oko, Thief of Crowns
+1 Overgrown Tomb
 3 Arboreal Grazer
-1 Time Wipe
 1 Gruul Guildgate
+1 Time Wipe
 1 Plaza of Harmony
 1 Mountain
-3 Teferi, Time Raveler
 1 Castle Vantress
-2 Agent of Treachery
-1 Fae of Wishes
+3 Teferi, Time Raveler
 2 Overgrown Tomb
-3 Beanstalk Giant
 3 Oko, Thief of Crowns
+2 Agent of Treachery
 2 Hallowed Fountain
-3 Realm-Cloaked Giant
+1 Fae of Wishes
+1 Watery Grave
 1 Izzet Guildgate
 1 Orzhov Guildgate
-1 Watery Grave
+3 Beanstalk Giant
 4 Fabled Passage
+2 Plains
 1 Jungle Hollow
 1 Yarok, the Desecrated
 2 Yarok, the Desecrated
-2 Plains
-1 Stomping Ground
 1 Legion's End
 2 Legion's End
-2 Watery Grave
+1 Stomping Ground
 2 Swamp
+2 Watery Grave
 1 Temple of Epiphany
+3 Realm-Cloaked Giant
 2 Time Wipe
 1 Risen Reef
 2 Risen Reef
@@ -41,8 +41,8 @@
 1 Gilded Goose
 1 Paradise Druid
 1 Wicked Wolf
-2 Gilded Goose
 2 Wicked Wolf
+2 Gilded Goose
 2 Paradise Druid
 3 Wicked Wolf
 3 Breeding Pool
@@ -68,10 +68,13 @@
 3 Casualties of War
 4 Assassin's Trophy
 1 Nicol Bolas, Dragon-God
+1 Ugin, the Ineffable
+1 Sacred Foundry
+2 Sacred Foundry
+3 Sacred Foundry
 1 Shimmer of Possibility
 1 Karn's Bastion
 1 Spark Double
-1 Ugin, the Ineffable
 1 Interplanar Beacon
 1 Blast Zone
 1 Fires of Invention
@@ -80,36 +83,33 @@
 1 Liliana, Dreadhorde General
 1 Sarkhan the Masterless
 1 Chandra, Awakened Inferno
-1 Planewide Celebration
 1 Steam Vents
 1 Drawn from Dreams
-1 Sacred Foundry
+1 Planewide Celebration
 2 Shimmer of Possibility
 2 Nicol Bolas, Dragon-God
 2 Interplanar Beacon
 2 Ugin, the Ineffable
 2 Narset, Parter of Veils
 2 Sarkhan the Masterless
-2 Sacred Foundry
+2 Temple of Epiphany
 2 Fires of Invention
 2 Steam Vents
-2 Temple of Epiphany
-3 Sacred Foundry
 3 Shimmer of Possibility
 3 Interplanar Beacon
 3 Hallowed Fountain
 3 Fae of Wishes
 3 Narset, Parter of Veils
 3 Steam Vents
-3 Deafening Clarion
 3 Fires of Invention
 3 Temple of Epiphany
+3 Deafening Clarion
 4 Sacred Foundry
 4 Interplanar Beacon
 4 Narset, Parter of Veils
 4 Hallowed Fountain
-4 Steam Vents
 4 Fires of Invention
+4 Steam Vents
 1 Nightpack Ambusher
 1 Garruk, Cursed Huntsman
 1 Tolsimir, Friend to Wolves
@@ -129,20 +129,64 @@
 1 Trail of Crumbs
 1 Aether Gust
 1 Witch's Oven
-1 Cauldron Familiar
 1 Korvold, Fae-Cursed King
-1 Mayhem Devil
+1 Cauldron Familiar
 1 Murderous Rider
+1 Mayhem Devil
 2 Stomping Ground
 2 Aether Gust
 2 Trail of Crumbs
 2 Mayhem Devil
 2 Witch's Oven
-2 Murderous Rider
 2 Cauldron Familiar
 2 Korvold, Fae-Cursed King
+2 Murderous Rider
 2 Temple of Malady
 3 Stomping Ground
 3 Mayhem Devil
 3 Witch's Oven
 4 Mayhem Devil
+1 Golden Egg
+1 Castle Ardenvale
+1 Cavalier of Dawn
+1 Kaya's Wrath
+1 Oath of Kaya
+1 Mortify
+1 Dance of the Manse
+1 Revenge of Ravens
+1 Doom Foretold
+1 Blood Crypt
+1 Temple of Triumph
+1 Ethereal Absolution
+1 Godless Shrine
+1 Guild Globe
+1 Temple of Silence
+1 Prison Realm
+2 Golden Egg
+2 Cavalier of Dawn
+2 Oath of Kaya
+2 Revenge of Ravens
+2 Ethereal Absolution
+2 Blood Crypt
+2 Doom Foretold
+2 Temple of Silence
+2 Prison Realm
+2 Godless Shrine
+2 Kaya's Wrath
+2 Dance of the Manse
+2 Guild Globe
+2 Temple of Triumph
+3 Oath of Kaya
+3 Golden Egg
+3 Guild Globe
+3 Kaya's Wrath
+3 Godless Shrine
+3 Doom Foretold
+3 Swamp
+3 Revenge of Ravens
+4 Godless Shrine
+4 Golden Egg
+4 Oath of Kaya
+4 Doom Foretold
+4 Kaya's Wrath
+4 Guild Globe
