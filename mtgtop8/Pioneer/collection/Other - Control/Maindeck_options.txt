@@ -1,58 +1,65 @@
-2 Supreme Verdict
-3 Hallowed Fountain
-3 Supreme Verdict
-1 Teferi, Time Raveler
-2 Teferi, Time Raveler
+4 Fabled Passage
 2 Glacial Fortress
+1 Search for Azcanta
 1 Teferi, Hero of Dominaria
+1 Field of Ruin
+1 Fetid Pools
+1 Detention Sphere
+1 Castle Locthwain
+4 Hallowed Fountain
+1 Castle Vantress
+1 Temple of Deceit
 2 Teferi, Hero of Dominaria
+3 Glacial Fortress
 1 Cast Down
 2 Cast Down
-1 Search for Azcanta
+3 Teferi, Time Raveler
 1 Narset, Parter of Veils
 2 Narset, Parter of Veils
+1 Oath of Kaya
 1 Kalitas, Traitor of Ghet
-1 Detention Sphere
-4 Hallowed Fountain
+1 Godless Shrine
+1 Shambling Vent
+2 Shambling Vent
+1 Thought Erasure
+2 Thought Erasure
+3 Thought Erasure
 1 Jace, Architect of Thought
-1 Castle Locthwain
-1 Clash of Wills
-2 Clash of Wills
 1 Sphinx's Revelation
 2 Sphinx's Revelation
-3 Glacial Fortress
-3 Teferi, Time Raveler
-1 Oath of Kaya
+4 Supreme Verdict
+1 Clash of Wills
+2 Clash of Wills
 1 Isolated Chapel
 2 Isolated Chapel
 2 Detention Sphere
 3 Teferi, Hero of Dominaria
 3 Detention Sphere
-1 Godless Shrine
-1 Shambling Vent
-2 Shambling Vent
-1 Forest
-1 Thought Erasure
-2 Thought Erasure
-3 Thought Erasure
-2 Temple of Deceit
+2 Oath of Kaya
+3 Oath of Kaya
+4 Glacial Fortress
+4 Teferi, Time Raveler
+2 Godless Shrine
+3 Godless Shrine
 1 Day's Undoing
 2 Day's Undoing
 3 Narset, Parter of Veils
 3 Day's Undoing
 4 Narset, Parter of Veils
+1 Forest
+2 Temple of Deceit
 1 Steam Vents
+3 Cast Down
 2 Torrential Gearhulk
 1 Mountain
-3 Cast Down
 1 Absorb
 2 Plains
 3 Sphinx's Revelation
 4 Sphinx's Revelation
-4 Supreme Verdict
-2 Steam Vents
+1 Murderous Rider
 1 Hieroglyphic Illumination
 2 Hieroglyphic Illumination
+2 Steam Vents
 1 Negate
 2 Negate
 1 Kolaghan's Command
@@ -68,8 +75,8 @@
 1 Disallow
 1 Syncopate
 2 Syncopate
-1 Fae of Wishes
 4 Swamp
+1 Fae of Wishes
 3 Languish
 2 Field of Ruin
 2 Kalitas, Traitor of Ghet
@@ -81,7 +88,6 @@
 2 Abrupt Decay
 1 Dark Petition
 1 Hissing Quagmire
-1 Murderous Rider
 1 Read the Bones
 1 Temple of Malady
 1 Sign in Blood
@@ -117,15 +123,12 @@
 1 Sorin, Solemn Visitor
 1 Concealed Courtyard
 1 Liliana, Dreadhorde General
-2 Godless Shrine
 2 Concealed Courtyard
 3 Hieroglyphic Illumination
-3 Godless Shrine
 1 Censor
 2 Censor
 2 Absorb
 3 Plains
-4 Teferi, Time Raveler
 1 Magma Spray
 1 Dragonmaster Outcast
 1 Nicol Bolas, the Ravager
@@ -136,33 +139,26 @@
 3 Nicol Bolas, the Ravager
 3 Kolaghan's Command
 4 Disallow
+1 Approach of the Second Sun
+4 Detention Sphere
 1 The Scarab God
 3 Liliana, the Last Hope
 4 Dig Through Time
-1 Approach of the Second Sun
-2 Oath of Kaya
-3 Oath of Kaya
-4 Detention Sphere
-4 Glacial Fortress
-1 Llanowar Wastes
-1 Overgrown Tomb
-1 Reliquary Tower
-1 Arch of Orazca
-1 The Elderspell
-1 Woodland Cemetery
-1 Nissa's Renewal
-1 Bontu's Last Reckoning
-1 Torment of Hailfire
-1 Walking Ballista
-1 Mastermind's Acquisition
-2 Overgrown Tomb
-2 Woodland Cemetery
-2 Seasons Past
-2 Read the Bones
-3 Overgrown Tomb
-3 Woodland Cemetery
-4 Overgrown Tomb
-4 Languish
+1 Disinformation Campaign
+1 Trial of Ambition
+1 Doom Foretold
+1 The Eldest Reborn
+1 Starfield of Nyx
+1 Demonic Pact
+1 Temple of Silence
+2 Doom Foretold
+2 Trial of Ambition
+2 Disinformation Campaign
+2 Temple of Silence
+3 Doom Foretold
+4 Oath of Kaya
+4 Doom Foretold
+4 Godless Shrine
 1 Temple of Epiphany
 1 Sulfur Falls
 1 Deafening Clarion
@@ -222,6 +218,25 @@
 4 Day's Undoing
 4 Doom Blade
 4 Notion Thief
+1 Llanowar Wastes
+1 Overgrown Tomb
+1 Reliquary Tower
+1 Arch of Orazca
+1 The Elderspell
+1 Woodland Cemetery
+1 Nissa's Renewal
+1 Bontu's Last Reckoning
+1 Torment of Hailfire
+1 Walking Ballista
+1 Mastermind's Acquisition
+2 Overgrown Tomb
+2 Woodland Cemetery
+2 Seasons Past
+2 Read the Bones
+3 Overgrown Tomb
+3 Woodland Cemetery
+4 Overgrown Tomb
+4 Languish
 1 Thing in the Ice
 1 The Royal Scions
 1 Treasure Cruise
@@ -251,9 +266,9 @@
 1 Lumbering Falls
 1 Cyclonic Rift
 1 Wilderness Reclamation
-1 Supreme Will
 1 Temple Garden
 1 Nexus of Fate
+1 Supreme Will
 2 Search for Azcanta
 2 Breeding Pool
 2 Lumbering Falls
@@ -262,8 +277,8 @@
 2 Wilderness Reclamation
 2 Temple Garden
 3 Temple Garden
-3 Lumbering Falls
 3 Wilderness Reclamation
+3 Lumbering Falls
 4 Temple Garden
 4 Wilderness Reclamation
 1 Botanical Sanctum
@@ -326,8 +341,8 @@
 2 Pieces of the Puzzle
 3 Hour of Promise
 3 Field of the Dead
-3 Pieces of the Puzzle
 3 Splendid Reclamation
+3 Pieces of the Puzzle
 3 Magmatic Insight
 4 Pieces of the Puzzle
 4 Magmatic Insight

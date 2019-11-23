@@ -1,15 +1,18 @@
-1 Sleep
-1 Heroic Intervention
-2 Sleep
-3 Sleep
-1 Lifecrafter's Bestiary
-2 Lifecrafter's Bestiary
-3 Lifecrafter's Bestiary
-1 Prey Upon
+1 Surge of Righteousness
+2 Surge of Righteousness
+3 Surge of Righteousness
+1 Supreme Verdict
+2 Supreme Verdict
+1 Lyra Dawnbringer
+1 Rest in Peace
+1 Dovin's Veto
+2 Rest in Peace
+3 Rest in Peace
+3 Supreme Verdict
+2 Spell Pierce
 2 Heroic Intervention
-2 Prey Upon
-3 Prey Upon
 4 Lifecrafter's Bestiary
+1 Feed the Clan
 1 Reclamation Sage
 1 Scavenging Ooze
 1 Wicked Wolf
@@ -17,59 +20,54 @@
 1 Abrade
 1 Aether Gust
 2 Aether Gust
-1 Spell Pierce
 2 Reclamation Sage
 2 Scavenging Ooze
 3 Disdainful Stroke
-1 Hunt the Hunter
 1 Negate
+1 Hunt the Hunter
 2 Abrade
-1 Stubborn Denial
 1 Deputy of Detention
-2 Spell Pierce
+1 Stubborn Denial
 1 Return to Nature
 1 Questing Beast
 3 Mystical Dispute
-1 Blessed Alliance
-2 Blessed Alliance
-1 Tireless Tracker
-1 Declaration in Stone
-2 Declaration in Stone
-1 Thoughtseize
-2 Thoughtseize
-1 Teferi, Time Raveler
-1 Feed the Clan
 1 Teferi, Hero of Dominaria
 1 Roast
 1 Nissa's Defeat
 2 Roast
 2 Nissa's Defeat
-1 Leyline of the Void
+1 Tireless Tracker
+1 Thoughtseize
+2 Thoughtseize
 1 Fatal Push
+1 Leyline of the Void
 2 Fatal Push
+1 Golgari Charm
+2 Golgari Charm
 3 Thoughtseize
 1 Abrupt Decay
 1 Stain the Mind
-1 Golgari Charm
 1 Distended Mindbender
 1 Caustic Caterpillar
 2 Abrupt Decay
 2 Stain the Mind
-2 Golgari Charm
 2 Distended Mindbender
 2 Dovin's Veto
 1 Unknown Card
 2 Unknown Card
+2 Negate
 2 Return to Nature
 1 Tamiyo, Collector of Tales
 1 Vivien Reid
 1 Entrancing Melody
 2 Entrancing Melody
-2 Negate
 2 Questing Beast
+1 Teferi, Time Raveler
+1 Declaration in Stone
 1 Authority of the Consuls
 1 Noxious Grasp
 2 Teferi, Time Raveler
+2 Declaration in Stone
 2 Tireless Tracker
 2 Noxious Grasp
 1 Possibility Storm
@@ -79,15 +77,21 @@
 2 Fry
 2 Magma Spray
 2 Veil of Summer
-1 Pithing Needle
-1 Sorcerous Spyglass
-2 Sorcerous Spyglass
-1 Disallow
-1 Essence Scatter
-1 Favorable Winds
-2 Disallow
-2 Pithing Needle
-3 Declaration in Stone
+1 Grafdigger's Cage
+2 Grafdigger's Cage
+2 Feed the Clan
+3 Feed the Clan
+1 Languish
+1 Unmoored Ego
+1 Duress
+1 Dragonlord Silumgar
+1 Virulent Plague
+1 Confiscation Coup
+2 Languish
+2 Virulent Plague
+2 Unmoored Ego
+2 Duress
+3 Duress
 1 Blossoming Defense
 1 Reality Shift
 2 Blossoming Defense
@@ -116,6 +120,7 @@
 4 Wicked Wolf
 1 Dromoka's Command
 1 Remorseful Cleric
+1 Pithing Needle
 1 Knight of Autumn
 2 Deputy of Detention
 2 Remorseful Cleric
@@ -124,18 +129,8 @@
 3 Spell Pierce
 3 Dromoka's Command
 4 Spell Pierce
-1 Gideon, Ally of Zendikar
-1 Selfless Spirit
-1 Devout Decree
-1 Deafening Silence
-1 Baffling End
-2 Gideon, Ally of Zendikar
-2 Selfless Spirit
-2 Devout Decree
-2 Deafening Silence
-2 Authority of the Consuls
-3 Authority of the Consuls
-4 Authority of the Consuls
+3 Heroic Intervention
+4 Prey Upon
 1 Aethersphere Harvester
 1 Kraul Harpooner
 2 Aethersphere Harvester
@@ -143,8 +138,6 @@
 2 Kraul Harpooner
 3 Leyline of the Void
 4 Leyline of the Void
-3 Heroic Intervention
-4 Prey Upon
 1 Brazen Borrower
 1 Metallic Rebuke
 1 Cerulean Drake
@@ -168,8 +161,10 @@
 4 Thoughtseize
 4 Rotting Regisaur
 4 Assassin's Trophy
+1 Blessed Alliance
 1 Ceremonious Rejection
 1 Settle the Wreckage
 2 Settle the Wreckage
+2 Blessed Alliance
 2 Ceremonious Rejection
 4 Surge of Righteousness

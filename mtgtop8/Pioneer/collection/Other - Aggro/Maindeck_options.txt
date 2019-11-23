@@ -1,83 +1,11 @@
-3 Ghalta, Primal Hunger
-2 Yorvo, Lord of Garenbrig
+3 Gilded Goose
+4 Gilded Goose
+1 Surrak, the Hunt Caller
+1 Scavenging Ooze
 1 Wicked Wolf
 2 Wicked Wolf
-1 Brazen Borrower
-2 Brazen Borrower
-1 Smuggler's Copter
-2 Smuggler's Copter
-1 Island
-3 Smuggler's Copter
-4 Smuggler's Copter
-3 Brazen Borrower
-1 Plains
-1 Hallowed Fountain
-2 Hallowed Fountain
-4 Brazen Borrower
-2 Plains
-1 Spell Queller
-1 Glacial Fortress
-2 Island
-2 Spell Queller
-3 Spell Queller
-3 Hallowed Fountain
-4 Spell Queller
-4 Hallowed Fountain
-1 Reflector Mage
-2 Reflector Mage
-3 Reflector Mage
-2 Glacial Fortress
-3 Glacial Fortress
-4 Glacial Fortress
-3 Plains
-3 Island
-4 Island
-5 Island
-1 Empyrean Eagle
-1 Mausoleum Wanderer
-1 Rattlechains
-1 Supreme Phantom
-2 Rattlechains
-2 Mausoleum Wanderer
-2 Supreme Phantom
-2 Empyrean Eagle
-3 Supreme Phantom
-3 Empyrean Eagle
-3 Rattlechains
-3 Mausoleum Wanderer
-4 Supreme Phantom
-4 Mausoleum Wanderer
-4 Rattlechains
-1 Selfless Spirit
-2 Selfless Spirit
-1 Teferi, Time Raveler
-2 Teferi, Time Raveler
-3 Teferi, Time Raveler
-6 Island
-7 Island
-1 Thraben Inspector
-2 Thraben Inspector
-3 Thraben Inspector
-4 Thraben Inspector
-1 Gideon, Ally of Zendikar
-2 Gideon, Ally of Zendikar
-3 Gideon, Ally of Zendikar
-4 Reflector Mage
-1 Surrak, the Hunt Caller
-1 Declaration in Stone
-2 Declaration in Stone
-4 Plains
-5 Plains
-6 Plains
-1 Archangel Avacyn
-1 Castle Ardenvale
-1 Irrigated Farmland
-2 Irrigated Farmland
-2 Archangel Avacyn
-2 Castle Ardenvale
-3 Archangel Avacyn
-4 Teferi, Time Raveler
-4 Gideon, Ally of Zendikar
+7 Forest
+2 Surrak, the Hunt Caller
 1 Stomping Ground
 2 Stomping Ground
 3 Stomping Ground
@@ -90,8 +18,8 @@
 2 Bonecrusher Giant
 2 Glorybringer
 2 Steam Vents
-2 Rootbound Crag
 2 Chandra, Torch of Defiance
+2 Rootbound Crag
 3 Bonecrusher Giant
 3 Glorybringer
 3 Wicked Wolf
@@ -102,33 +30,130 @@
 4 Steam Vents
 4 Glorybringer
 4 Rootbound Crag
-1 Scavenging Ooze
+1 Brazen Borrower
+2 Brazen Borrower
+1 Smuggler's Copter
+2 Smuggler's Copter
+1 Island
+3 Smuggler's Copter
+3 Brazen Borrower
+4 Smuggler's Copter
+4 Brazen Borrower
+1 Hallowed Fountain
+1 Plains
+2 Hallowed Fountain
+1 Reflector Mage
+2 Reflector Mage
+3 Reflector Mage
+1 Spell Queller
+1 Glacial Fortress
+2 Island
+2 Spell Queller
+2 Plains
+2 Glacial Fortress
+3 Spell Queller
+3 Hallowed Fountain
+3 Glacial Fortress
+4 Spell Queller
+4 Glacial Fortress
+4 Hallowed Fountain
+1 Thraben Inspector
+1 Gideon, Ally of Zendikar
+2 Thraben Inspector
+2 Gideon, Ally of Zendikar
+3 Thraben Inspector
+3 Gideon, Ally of Zendikar
+4 Thraben Inspector
+4 Reflector Mage
+1 Teferi, Time Raveler
+2 Teferi, Time Raveler
+3 Teferi, Time Raveler
+3 Plains
+3 Island
+4 Island
+5 Island
+6 Island
+7 Island
+1 Declaration in Stone
+1 Archangel Avacyn
+1 Castle Ardenvale
+1 Irrigated Farmland
+2 Irrigated Farmland
+2 Archangel Avacyn
+2 Castle Ardenvale
+2 Declaration in Stone
+3 Archangel Avacyn
+4 Teferi, Time Raveler
+4 Plains
+4 Gideon, Ally of Zendikar
+5 Plains
+6 Plains
+2 Scavenging Ooze
+1 Selfless Spirit
+2 Selfless Spirit
 1 Port Town
+1 Empyrean Eagle
+1 Rattlechains
+1 Mausoleum Wanderer
+1 Supreme Phantom
+2 Rattlechains
+2 Mausoleum Wanderer
+2 Supreme Phantom
+2 Empyrean Eagle
+3 Supreme Phantom
+3 Empyrean Eagle
+3 Rattlechains
+3 Mausoleum Wanderer
 4 Empyrean Eagle
-3 Selfless Spirit
-4 Selfless Spirit
-1 Mutavault
-1 Spectral Sailor
-1 Curious Obsession
-2 Mutavault
-2 Spectral Sailor
-2 Curious Obsession
-3 Spectral Sailor
-3 Curious Obsession
-4 Spectral Sailor
+4 Supreme Phantom
+4 Mausoleum Wanderer
+4 Rattlechains
 1 Temple Garden
 2 Temple Garden
 3 Temple Garden
 4 Temple Garden
 1 Mana Confluence
+1 Hinterland Harbor
+2 Hinterland Harbor
+1 Overgrown Tomb
+1 Blooming Marsh
+2 Blooming Marsh
+1 Swamp
+1 Woodland Cemetery
+1 Tasigur, the Golden Fang
+1 Aether Hub
+1 Glint-Sleeve Siphoner
+1 Attune with Aether
+1 The Scarab God
+1 Thoughtseize
+1 Rogue Refiner
+1 Abrupt Decay
+2 Woodland Cemetery
+2 Aether Hub
+2 Glint-Sleeve Siphoner
+2 Attune with Aether
+2 Thoughtseize
+2 Rogue Refiner
+2 Abrupt Decay
+3 Rogue Refiner
+3 Aether Hub
+3 Glint-Sleeve Siphoner
+3 Abrupt Decay
+3 Thoughtseize
+4 Rogue Refiner
+4 Glint-Sleeve Siphoner
+4 Aether Hub
+4 Thoughtseize
+2 Overgrown Tomb
+3 Overgrown Tomb
+4 Overgrown Tomb
+2 Mana Confluence
 1 Scrapheap Scrounger
 2 Scrapheap Scrounger
 3 Scrapheap Scrounger
 4 Scrapheap Scrounger
-2 Mana Confluence
-1 Overgrown Tomb
-1 Blooming Marsh
-2 Blooming Marsh
+1 Watery Grave
+2 Watery Grave
 1 Satyr Wayfinder
 1 Driven / Despair
 1 Narcomoeba
@@ -140,13 +165,11 @@
 2 Driven / Despair
 2 Creeping Chill
 2 Narcomoeba
-2 Overgrown Tomb
 2 Haunted Dead
-2 Stitcher's Supplier
 2 Prized Amalgam
+2 Stitcher's Supplier
 3 Satyr Wayfinder
 3 Haunted Dead
-3 Overgrown Tomb
 3 Stitcher's Supplier
 3 Prized Amalgam
 3 Blooming Marsh
@@ -156,21 +179,23 @@
 4 Haunted Dead
 4 Prized Amalgam
 4 Stitcher's Supplier
-4 Overgrown Tomb
 4 Blooming Marsh
 4 Narcomoeba
 4 Creeping Chill
 3 Mana Confluence
+2 Swamp
 1 Spire of Industry
-1 Hinterland Harbor
-2 Hinterland Harbor
-7 Forest
-1 Swamp
 1 The Royal Scions
 2 The Royal Scions
-2 Surrak, the Hunt Caller
 1 Charming Prince
 2 Charming Prince
+1 Castle Locthwain
+1 Hostage Taker
+2 The Scarab God
+2 Hostage Taker
+3 Attune with Aether
+3 The Scarab God
+4 Attune with Aether
 1 Metallic Rebuke
 1 Toolcraft Exemplar
 1 Concealed Courtyard
@@ -189,61 +214,29 @@
 2 Rhonas the Indomitable
 3 Questing Beast
 4 Questing Beast
+1 Spell Pierce
+1 Mutavault
+1 Spectral Sailor
+1 Curious Obsession
+2 Spell Pierce
+2 Port Town
+2 Mutavault
+2 Spectral Sailor
+2 Curious Obsession
+3 Port Town
+3 Spell Pierce
+3 Spectral Sailor
+3 Curious Obsession
+4 Port Town
+4 Spell Pierce
+4 Spectral Sailor
+4 Curious Obsession
 1 Collected Company
 2 Collected Company
 3 Collected Company
+3 Selfless Spirit
 4 Collected Company
-1 Unclaimed Territory
-1 Nebelgast Herald
-1 Hanged Executioner
-1 Azorius Charm
-1 Favorable Winds
-2 Unclaimed Territory
-2 Nebelgast Herald
-3 Mutavault
-3 Unclaimed Territory
-3 Nebelgast Herald
-4 Unclaimed Territory
-1 Spell Pierce
-2 Spell Pierce
-2 Port Town
-3 Port Town
-3 Spell Pierce
-4 Port Town
-4 Spell Pierce
-4 Curious Obsession
-1 Woodland Cemetery
-1 Tasigur, the Golden Fang
-1 Castle Locthwain
-1 Aether Hub
-1 Glint-Sleeve Siphoner
-1 Attune with Aether
-1 The Scarab God
-1 Thoughtseize
-1 Rogue Refiner
-1 Abrupt Decay
-1 Hostage Taker
-2 Woodland Cemetery
-2 The Scarab God
-2 Aether Hub
-2 Glint-Sleeve Siphoner
-2 Attune with Aether
-2 Hostage Taker
-2 Thoughtseize
-2 Rogue Refiner
-2 Abrupt Decay
-3 Rogue Refiner
-3 Attune with Aether
-3 Aether Hub
-3 The Scarab God
-3 Glint-Sleeve Siphoner
-3 Abrupt Decay
-3 Thoughtseize
-4 Attune with Aether
-4 Rogue Refiner
-4 Glint-Sleeve Siphoner
-4 Aether Hub
-4 Thoughtseize
+4 Selfless Spirit
 1 Hydroid Krasis
 1 Mass Manipulation
 1 Nykthos, Shrine to Nyx
@@ -251,7 +244,6 @@
 1 Voracious Hydra
 2 Hydroid Krasis
 2 Mass Manipulation
-2 Scavenging Ooze
 2 Voracious Hydra
 2 Nissa, Who Shakes the World
 3 Hinterland Harbor
@@ -262,15 +254,31 @@
 4 Nissa, Who Shakes the World
 1 Glowspore Shaman
 1 Elder Deep-Fiend
-1 Watery Grave
 2 Glowspore Shaman
 2 Elder Deep-Fiend
-2 Watery Grave
 3 Watery Grave
 3 Glowspore Shaman
 3 Elder Deep-Fiend
 4 Watery Grave
 4 Elder Deep-Fiend
+1 Urborg, Tomb of Yawgmoth
+1 Hero's Downfall
+1 Tireless Tracker
+1 Liliana, the Last Hope
+1 Vraska, Golgari Queen
+1 Jace, Vryn's Prodigy
+1 Fatal Push
+1 Kalitas, Traitor of Ghet
+2 Hero's Downfall
+2 Kalitas, Traitor of Ghet
+2 Tireless Tracker
+2 Fatal Push
+2 Liliana, the Last Hope
+2 Jace, Vryn's Prodigy
+3 Woodland Cemetery
+3 Tireless Tracker
+3 Fatal Push
+4 Fatal Push
 1 Walking Ballista
 1 Field of the Dead
 1 Arboreal Grazer
@@ -331,7 +339,6 @@
 2 Collective Brutality
 2 Claim / Fame
 2 Grisly Salvage
-2 Swamp
 3 Llanowar Wastes
 3 Deathrite Shaman
 3 Driven / Despair
@@ -376,61 +383,13 @@
 2 Ghostfire Blade
 3 Gingerbrute
 3 Stonecoil Serpent
+3 Darksteel Citadel
 3 Skilled Animator
 3 Ensoul Artifact
 3 Ghostfire Blade
-3 Darksteel Citadel
 4 Gingerbrute
 4 Stonecoil Serpent
 4 Darksteel Citadel
 4 Skilled Animator
 4 Ghostfire Blade
 4 Ensoul Artifact
-1 Dauntless Bodyguard
-1 Kytheon, Hero of Akros
-1 Thalia's Lieutenant
-1 Brave the Elements
-1 Soldier of the Pantheon
-1 Benalish Marshal
-1 Knight of the White Orchid
-1 Mardu Woe-Reaper
-1 Boros Elite
-2 Dauntless Bodyguard
-2 Thalia's Lieutenant
-2 Kytheon, Hero of Akros
-2 Benalish Marshal
-2 Boros Elite
-2 Mardu Woe-Reaper
-2 Brave the Elements
-2 Soldier of the Pantheon
-2 Knight of the White Orchid
-3 Declaration in Stone
-3 Thalia's Lieutenant
-3 Dauntless Bodyguard
-3 Mardu Woe-Reaper
-3 Brave the Elements
-3 Boros Elite
-3 Soldier of the Pantheon
-3 Knight of the White Orchid
-3 Benalish Marshal
-4 Thalia's Lieutenant
-4 Dauntless Bodyguard
-4 Benalish Marshal
-4 Declaration in Stone
-4 Soldier of the Pantheon
-4 Brave the Elements
-4 Boros Elite
-4 Mardu Woe-Reaper
-4 Knight of the White Orchid
-7 Plains
-8 Plains
-9 Plains
-10 Plains
-11 Plains
-12 Plains
-13 Plains
-14 Plains
-15 Plains
-16 Plains
-17 Plains
-18 Plains

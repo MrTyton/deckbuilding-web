@@ -3,16 +3,16 @@
 4 Swamp
 1 Scavenging Ooze
 1 Grim Flayer
+1 Vraska, Golgari Queen
+1 Liliana, the Last Hope
 1 Hissing Quagmire
 1 Tireless Tracker
-1 Liliana, the Last Hope
 1 Abrupt Decay
 1 Fabled Passage
-1 Vraska, Golgari Queen
 2 Grim Flayer
+2 Liliana, the Last Hope
 2 Tireless Tracker
 2 Abrupt Decay
-2 Liliana, the Last Hope
 2 Vraska, Golgari Queen
 3 Grim Flayer
 4 Grim Flayer
@@ -66,8 +66,8 @@
 2 Scavenging Ooze
 1 Field of Ruin
 2 Field of Ruin
-3 Tireless Tracker
 3 Abrupt Decay
+3 Tireless Tracker
 1 Deathrite Shaman
 2 Deathrite Shaman
 1 Mana Confluence
@@ -168,8 +168,8 @@
 1 Blisterpod
 1 Catacomb Sifter
 2 Westvale Abbey
-2 Collected Company
 2 Duskwatch Recruiter
+2 Collected Company
 2 Elvish Visionary
 2 Zulaport Cutthroat
 2 Liliana, Heretical Healer
@@ -214,7 +214,6 @@
 1 Steel Leaf Champion
 1 Yorvo, Lord of Garenbrig
 1 Avatar of the Resolute
-2 Yorvo, Lord of Garenbrig
 2 Barkhide Troll
 2 Aspect of Hydra
 2 Syr Faren, the Hengehammer
@@ -223,6 +222,7 @@
 2 Blossoming Defense
 2 Steel Leaf Champion
 2 Avatar of the Resolute
+2 Yorvo, Lord of Garenbrig
 3 Barkhide Troll
 3 Dryad Militant
 3 Aspect of Hydra
