@@ -84,7 +84,7 @@
 |                    2|[Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)            |                     |                                                                                                     |
 |                    3|[Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)            |                     |                                                                                                     |
 |                    3|[Verdant Catacombs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405113)       |                     |                                                                                                     |
+|                    4|[Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)            |                     |                                                                                                     |
 |                    4|[Verdant Catacombs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405113)       |                     |                                                                                                     |
 |                    4|[Aluren](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=4747)                    |                     |                                                                                                     |
-|                    4|[Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)            |                     |                                                                                                     |
 

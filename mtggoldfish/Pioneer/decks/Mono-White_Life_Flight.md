@@ -33,8 +33,8 @@
 
 |*n*<sup>th</sup> copy|                                       Maindeck Card                                        |*n*<sup>th</sup> copy|                                       Sideboard Card                                       |
 |--------------------:|--------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------|
-|                    1|[Legion's Landing](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435173) |                    3|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)    |
-|                    1|[Archangel Avacyn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409741) |                    3|[Pithing Needle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129526)   |
+|                    1|[Legion's Landing](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435173) |                    3|[Pithing Needle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129526)   |
+|                    1|[Archangel Avacyn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409741) |                    3|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)    |
 |                    1|[Selfless Spirit](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414332)  |                    4|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)    |
 |                    1|[Mage-Ring Network](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=398533)|                    3|[Deafening Silence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472972)|
 |                    1|[Westvale Abbey](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=410049)   |                     |                                                                                            |

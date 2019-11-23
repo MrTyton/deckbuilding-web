@@ -31,18 +31,18 @@
 2 Murderous Rider
 4 Woodland Cemetery
 1 Zetalpa, Primal Dawn
-1 Soulflayer
 1 Lotleth Troll
-2 Lotleth Troll
-2 Zetalpa, Primal Dawn
+1 Soulflayer
 2 Soulflayer
+2 Zetalpa, Primal Dawn
+2 Lotleth Troll
 3 Grisly Salvage
-3 Lotleth Troll
-3 Zetalpa, Primal Dawn
 3 Soulflayer
-4 Soulflayer
+3 Zetalpa, Primal Dawn
+3 Lotleth Troll
 4 Grisly Salvage
 4 Lotleth Troll
+4 Soulflayer
 3 Traverse the Ulvenwald
 1 Castle Locthwain
 1 Ishkanah, Grafwidow
@@ -71,8 +71,8 @@
 1 Deathrite Shaman
 2 Deathrite Shaman
 1 Mana Confluence
-1 Blood Crypt
 1 Samut, Voice of Dissent
+1 Blood Crypt
 1 Chromanticore
 1 Bomat Courier
 2 Blood Crypt
@@ -231,9 +231,9 @@
 3 Avatar of the Resolute
 3 Steel Leaf Champion
 4 Barkhide Troll
-4 Blossoming Defense
 4 Dryad Militant
 4 Aspect of Hydra
+4 Blossoming Defense
 4 Avatar of the Resolute
 8 Forest
 9 Forest

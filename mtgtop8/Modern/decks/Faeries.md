@@ -39,6 +39,6 @@
 |                    3|[Mana Leak](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45242)         |                    2|[Engineered Explosives](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=50139)|
 |                    3|[Drown in the Loch](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473150)|                    2|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682) |
 |                    3|[Snapcaster Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=227676)  |                    2|[Force of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464001)   |
-|                    4|[Darkslick Shores](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=209400) |                    2|[Damnation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425888)           |
-|                    4|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)           |                    3|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682) |
+|                    4|[Darkslick Shores](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=209400) |                    3|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682) |
+|                    4|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)           |                    2|[Damnation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425888)           |
 

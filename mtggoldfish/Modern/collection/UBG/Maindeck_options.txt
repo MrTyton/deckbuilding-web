@@ -1,3 +1,26 @@
+2 Fatal Push
+1 Gilded Goose
+1 Tezzeret, Agent of Bolas
+2 Gilded Goose
+2 Tezzeret, Agent of Bolas
+3 Oko, Thief of Crowns
+3 Gilded Goose
+4 Gilded Goose
+1 Overgrown Tomb
+1 Drown in the Loch
+1 Verdant Catacombs
+1 Snapcaster Mage
+2 Drown in the Loch
+2 Snapcaster Mage
+2 Verdant Catacombs
+3 Drown in the Loch
+2 Watery Grave
+1 Ice-Fang Coatl
+1 Narset, Parter of Veils
+1 Force of Negation
+1 Field of Ruin
+2 Ice-Fang Coatl
+2 Narset, Parter of Veils
 2 Force of Negation
 3 Ice-Fang Coatl
 1 Thoughtseize
@@ -10,25 +33,30 @@
 2 Assassin's Trophy
 2 Creeping Tar Pit
 3 Snapcaster Mage
+1 Nihil Spellbomb
+2 Nihil Spellbomb
 2 Snow-Covered Forest
+1 Prismatic Vista
+1 Liliana of the Veil
 1 Brazen Borrower
 1 Blast Zone
 1 Karn, the Great Creator
-1 Prismatic Vista
-1 Liliana of the Veil
-2 Snow-Covered Swamp
+2 Prismatic Vista
 2 Liliana of the Veil
+2 Snow-Covered Swamp
 2 Karn, the Great Creator
 2 Brazen Borrower
-2 Prismatic Vista
 2 Field of Ruin
+3 Prismatic Vista
 3 Liliana of the Veil
 3 Force of Negation
-3 Prismatic Vista
-4 Force of Negation
 4 Ice-Fang Coatl
+4 Force of Negation
+1 Talisman of Dominance
+2 Talisman of Dominance
+3 Chromatic Star
+4 Chromatic Star
 1 Emry, Lurker of the Loch
-2 Engineered Explosives
 2 Emry, Lurker of the Loch
 3 Engineered Explosives
 3 Tezzeret, Agent of Bolas
@@ -41,8 +69,6 @@
 4 Thoughtseize
 1 Blooming Marsh
 1 Nurturing Peatland
-1 Hexdrinker
-1 Scavenging Ooze
 1 Castle Locthwain
 1 Stubborn Denial
 1 Maelstrom Pulse
@@ -55,69 +81,44 @@
 1 Tireless Tracker
 1 Thought Scour
 1 Collective Brutality
+1 Scavenging Ooze
 1 Forest
+1 Hexdrinker
 2 Swamp
-2 Stubborn Denial
 2 Hexdrinker
+2 Stubborn Denial
 2 Tarmogoyf
 2 Collective Brutality
+2 Thought Scour
 2 Island
 2 Inquisition of Kozilek
-2 Thought Scour
+3 Tarmogoyf
 3 Assassin's Trophy
 3 Thought Scour
 3 Creeping Tar Pit
 3 Inquisition of Kozilek
-3 Tarmogoyf
-4 Inquisition of Kozilek
 4 Tarmogoyf
 4 Thought Scour
-1 Tasigur, the Golden Fang
+4 Inquisition of Kozilek
 1 Into the Story
-1 Mystic Sanctuary
-1 Opt
-1 Dead of Winter
-1 Pulse of Murasa
-1 Torrential Gearhulk
+1 Tasigur, the Golden Fang
 1 Vendilion Clique
+1 Opt
+1 Pulse of Murasa
+1 Mystic Sanctuary
+1 Torrential Gearhulk
 1 Cryptic Command
+1 Dead of Winter
 2 Opt
 2 Abrupt Decay
 2 Cryptic Command
+3 Opt
 3 Cryptic Command
 3 Fatal Push
-3 Opt
 3 Verdant Catacombs
-4 Opt
 4 Verdant Catacombs
+4 Opt
 4 Snapcaster Mage
-1 Inventors' Fair
-1 Serum Visions
-1 Metallic Rebuke
-1 Thopter Foundry
-1 Thoughtcast
-1 Sword of the Meek
-1 Chromatic Star
-1 Darksteel Citadel
-1 Talisman of Dominance
-2 Sword of the Meek
-2 Serum Visions
-2 Metallic Rebuke
-2 Thopter Foundry
-2 Chromatic Star
-2 Darksteel Citadel
-2 Thoughtcast
-2 Talisman of Dominance
-3 Serum Visions
-3 Thoughtcast
-3 Chromatic Star
-3 Thopter Foundry
-3 Sword of the Meek
-4 Thopter Foundry
-4 Serum Visions
-4 Chromatic Star
-4 Thoughtcast
-1 Collected Company
 1 Elvish Clancaller
 1 Chord of Calling
 1 Lead the Stampede
@@ -128,6 +129,7 @@
 1 Ezuri, Renegade Leader
 1 Nettle Sentinel
 1 Heritage Druid
+1 Collected Company
 1 Unclaimed Territory
 1 Reclamation Sage
 1 Dwynen's Elite
@@ -135,31 +137,31 @@
 1 Llanowar Elves
 1 Elvish Mystic
 2 Nurturing Peatland
-2 Collected Company
 2 Blooming Marsh
 2 Elvish Clancaller
 2 Chord of Calling
 2 Lead the Stampede
 2 Shaman of the Pack
-2 Heritage Druid
 2 Elvish Mystic
 2 Gilt-Leaf Palace
 2 Elvish Archdruid
+2 Heritage Druid
 2 Unclaimed Territory
 2 Llanowar Elves
 2 Nettle Sentinel
 2 Dwynen's Elite
-3 Collected Company
+2 Collected Company
 3 Snow-Covered Forest
 3 Blooming Marsh
 3 Elvish Clancaller
 3 Chord of Calling
+3 Heritage Druid
+3 Collected Company
 3 Llanowar Elves
 3 Dwynen's Elite
 3 Shaman of the Pack
 3 Elvish Mystic
 3 Elvish Archdruid
-3 Heritage Druid
 3 Nettle Sentinel
 4 Elvish Clancaller
 4 Snow-Covered Forest
@@ -171,5 +173,5 @@
 4 Elvish Mystic
 4 Chord of Calling
 4 Shaman of the Pack
-4 Dwynen's Elite
 4 Nettle Sentinel
+4 Dwynen's Elite

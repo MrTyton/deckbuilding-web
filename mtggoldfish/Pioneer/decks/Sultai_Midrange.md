@@ -68,7 +68,7 @@
 |                    3|[Glint-Sleeve Siphoner](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423729)   |                     |                                                                                             |
 |                    3|[Assassin's Trophy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452902)       |                     |                                                                                             |
 |                    3|[Aether Hub](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417815)              |                     |                                                                                             |
-|                    4|[Glint-Sleeve Siphoner](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423729)   |                     |                                                                                             |
 |                    4|[Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)            |                     |                                                                                             |
+|                    4|[Glint-Sleeve Siphoner](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423729)   |                     |                                                                                             |
 |                    4|[Aether Hub](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417815)              |                     |                                                                                             |
 

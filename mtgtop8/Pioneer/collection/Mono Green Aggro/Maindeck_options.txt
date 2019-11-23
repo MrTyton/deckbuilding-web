@@ -3,9 +3,9 @@
 1 Overgrown Tomb
 1 Llanowar Wastes
 1 Blooming Marsh
-2 Llanowar Wastes
 2 Blooming Marsh
 2 Overgrown Tomb
+2 Llanowar Wastes
 3 Overgrown Tomb
 3 Blooming Marsh
 4 Overgrown Tomb
@@ -17,12 +17,12 @@
 2 Hardened Scales
 2 Winding Constrictor
 3 Nissa, Voice of Zendikar
-3 Hardened Scales
 3 Llanowar Wastes
+3 Hardened Scales
 3 Winding Constrictor
 4 Nissa, Voice of Zendikar
-4 Hardened Scales
 4 Llanowar Wastes
+4 Hardened Scales
 4 Winding Constrictor
 1 Paradise Druid
 1 Questing Beast
@@ -45,10 +45,11 @@
 3 Steel Leaf Champion
 4 Steel Leaf Champion
 1 Blast Zone
-1 Field of the Dead
 1 Radiant Fountain
 1 Hashep Oasis
 1 Scavenger Grounds
+1 Hour of Promise
+1 Field of the Dead
 1 Cascading Cataracts
 1 Arboreal Grazer
 1 Nissa's Pilgrimage
@@ -59,9 +60,8 @@
 1 Desert of the Indomitable
 1 Ugin, the Spirit Dragon
 1 Elvish Rejuvenator
-1 Hour of Promise
-2 Field of the Dead
 2 Ugin, the Spirit Dragon
+2 Field of the Dead
 2 Desert of the Indomitable
 2 Blast Zone
 2 Ulamog, the Ceaseless Hunger

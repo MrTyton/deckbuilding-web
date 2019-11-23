@@ -69,12 +69,12 @@
 4 Plains
 5 Plains
 6 Plains
-1 Castle Ardenvale
 1 Archangel Avacyn
+1 Castle Ardenvale
 1 Irrigated Farmland
 2 Irrigated Farmland
-2 Castle Ardenvale
 2 Archangel Avacyn
+2 Castle Ardenvale
 3 Archangel Avacyn
 4 Teferi, Time Raveler
 4 Gideon, Ally of Zendikar
@@ -94,9 +94,9 @@
 2 Chandra, Torch of Defiance
 3 Bonecrusher Giant
 3 Glorybringer
+3 Wicked Wolf
 3 Steam Vents
 3 Chandra, Torch of Defiance
-3 Wicked Wolf
 3 Rootbound Crag
 4 Bonecrusher Giant
 4 Steam Vents
@@ -276,9 +276,9 @@
 1 Arboreal Grazer
 1 Golos, Tireless Pilgrim
 1 Elvish Rejuvenator
-1 Sanctum of Ugin
 1 Desert of the Indomitable
 1 Ugin, the Spirit Dragon
+1 Sanctum of Ugin
 1 Ulamog, the Ceaseless Hunger
 1 Nissa's Pilgrimage
 1 Castle Garenbrig
@@ -323,19 +323,19 @@
 1 Deathrite Shaman
 1 Llanowar Wastes
 1 Collective Brutality
-1 Grisly Salvage
 1 Claim / Fame
+1 Grisly Salvage
 2 Llanowar Wastes
 2 Deathrite Shaman
-2 Grisly Salvage
 2 Hooting Mandrills
 2 Collective Brutality
 2 Claim / Fame
+2 Grisly Salvage
 2 Swamp
 3 Llanowar Wastes
 3 Deathrite Shaman
-3 Grisly Salvage
 3 Driven / Despair
+3 Grisly Salvage
 4 Llanowar Wastes
 4 Grisly Salvage
 4 Driven / Despair
@@ -361,29 +361,29 @@
 4 Fae of Wishes
 4 Rosethorn Acolyte
 4 Mana Confluence
+1 Gingerbrute
 1 Stonecoil Serpent
 1 Ensoul Artifact
 1 Darksteel Citadel
 1 Skilled Animator
-1 Gingerbrute
 1 Ghostfire Blade
 1 Hope of Ghirapur
+2 Gingerbrute
 2 Stonecoil Serpent
 2 Skilled Animator
 2 Darksteel Citadel
-2 Gingerbrute
 2 Ensoul Artifact
 2 Ghostfire Blade
+3 Gingerbrute
 3 Stonecoil Serpent
 3 Skilled Animator
-3 Gingerbrute
 3 Ensoul Artifact
 3 Ghostfire Blade
 3 Darksteel Citadel
+4 Gingerbrute
 4 Stonecoil Serpent
 4 Darksteel Citadel
 4 Skilled Animator
-4 Gingerbrute
 4 Ghostfire Blade
 4 Ensoul Artifact
 1 Dauntless Bodyguard
@@ -413,10 +413,10 @@
 3 Soldier of the Pantheon
 3 Knight of the White Orchid
 3 Benalish Marshal
-4 Declaration in Stone
 4 Thalia's Lieutenant
 4 Dauntless Bodyguard
 4 Benalish Marshal
+4 Declaration in Stone
 4 Soldier of the Pantheon
 4 Brave the Elements
 4 Boros Elite

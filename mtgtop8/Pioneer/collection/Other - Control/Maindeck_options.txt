@@ -1,4 +1,4 @@
-2 Hallowed Fountain
+2 Supreme Verdict
 3 Hallowed Fountain
 3 Supreme Verdict
 1 Teferi, Time Raveler
@@ -24,8 +24,8 @@
 3 Teferi, Time Raveler
 1 Oath of Kaya
 1 Isolated Chapel
-2 Detention Sphere
 2 Isolated Chapel
+2 Detention Sphere
 3 Teferi, Hero of Dominaria
 3 Detention Sphere
 1 Godless Shrine
@@ -65,8 +65,8 @@
 3 Blood Crypt
 3 Steam Vents
 4 Blood Crypt
-1 Syncopate
 1 Disallow
+1 Syncopate
 2 Syncopate
 1 Fae of Wishes
 4 Swamp
@@ -94,8 +94,8 @@
 1 Field of the Dead
 1 Hour of Promise
 2 Field of the Dead
-1 Breeding Pool
 1 Growth Spiral
+1 Breeding Pool
 2 Growth Spiral
 3 Growth Spiral
 4 Growth Spiral
@@ -113,9 +113,9 @@
 1 Mutavault
 2 Quench
 1 Commit / Memory
+1 Gideon, Ally of Zendikar
 1 Sorin, Solemn Visitor
 1 Concealed Courtyard
-1 Gideon, Ally of Zendikar
 1 Liliana, Dreadhorde General
 2 Godless Shrine
 2 Concealed Courtyard
@@ -129,21 +129,21 @@
 1 Magma Spray
 1 Dragonmaster Outcast
 1 Nicol Bolas, the Ravager
-2 Nicol Bolas, the Ravager
 2 Disallow
+2 Nicol Bolas, the Ravager
 3 Disallow
 3 Torrential Gearhulk
 3 Nicol Bolas, the Ravager
 3 Kolaghan's Command
 4 Disallow
-1 Approach of the Second Sun
-2 Oath of Kaya
-3 Oath of Kaya
-4 Glacial Fortress
-4 Detention Sphere
 1 The Scarab God
 3 Liliana, the Last Hope
 4 Dig Through Time
+1 Approach of the Second Sun
+2 Oath of Kaya
+3 Oath of Kaya
+4 Detention Sphere
+4 Glacial Fortress
 1 Llanowar Wastes
 1 Overgrown Tomb
 1 Reliquary Tower
@@ -163,18 +163,18 @@
 3 Woodland Cemetery
 4 Overgrown Tomb
 4 Languish
-1 Sulfur Falls
 1 Temple of Epiphany
+1 Sulfur Falls
 1 Deafening Clarion
 1 Oko, Thief of Crowns
 2 Oko, Thief of Crowns
 1 Clifftop Retreat
+1 Sacred Foundry
 1 Oath of Teferi
 1 Heart of Kiran
 1 Fires of Invention
 1 Temple of Triumph
 1 Nicol Bolas, God-Pharaoh
-1 Sacred Foundry
 1 Nicol Bolas, Dragon-God
 1 Temple of Enlightenment
 1 Interplanar Beacon
@@ -182,8 +182,8 @@
 2 Temple of Enlightenment
 2 Fae of Wishes
 2 Nicol Bolas, Dragon-God
-2 Deafening Clarion
 2 Heart of Kiran
+2 Deafening Clarion
 2 Fires of Invention
 2 Temple of Triumph
 2 Sacred Foundry
@@ -206,8 +206,8 @@
 1 Geier Reach Sanitarium
 2 Castle Vantress
 2 Geier Reach Sanitarium
-2 Doom Blade
 2 Ritual of Soot
+2 Doom Blade
 2 Notion Thief
 2 Dark Deal
 3 Temple of Deceit
@@ -223,8 +223,8 @@
 4 Doom Blade
 4 Notion Thief
 1 Thing in the Ice
-1 Treasure Cruise
 1 The Royal Scions
+1 Treasure Cruise
 1 Wild Slash
 1 Dragonskull Summit
 1 Dreadhorde Arcanist
@@ -269,31 +269,31 @@
 1 Botanical Sanctum
 1 Sylvan Caryatid
 1 Nomad Outpost
-1 Rogue Refiner
-1 Opulent Palace
 1 Attune with Aether
+1 Rogue Refiner
+1 Niv-Mizzet Reborn
+1 Opulent Palace
 1 Aether Hub
 1 Gilded Goose
 1 Bring to Light
-1 Niv-Mizzet Reborn
 1 Unmoored Ego
 1 Mana Confluence
 1 Tolsimir, Friend to Wolves
 2 Blooming Marsh
-2 Mana Confluence
+2 Attune with Aether
 2 Rogue Refiner
-2 Opulent Palace
+2 Mana Confluence
+2 Niv-Mizzet Reborn
 2 Bring to Light
+2 Opulent Palace
 2 Gilded Goose
 2 Botanical Sanctum
-2 Attune with Aether
 2 Aether Hub
-2 Niv-Mizzet Reborn
 3 Blooming Marsh
 3 Rogue Refiner
+3 Bring to Light
 3 Niv-Mizzet Reborn
 3 Gilded Goose
-3 Bring to Light
 3 Oko, Thief of Crowns
 3 Aether Hub
 4 Blooming Marsh
@@ -325,8 +325,8 @@
 2 Izzet Charm
 2 Pieces of the Puzzle
 3 Hour of Promise
-3 Pieces of the Puzzle
 3 Field of the Dead
+3 Pieces of the Puzzle
 3 Splendid Reclamation
 3 Magmatic Insight
 4 Pieces of the Puzzle

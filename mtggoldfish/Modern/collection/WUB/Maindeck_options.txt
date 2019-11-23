@@ -1,59 +1,5 @@
-1 Mutavault
-1 Mistbind Clique
-1 Spellstutter Sprite
-2 Mutavault
-2 Liliana of the Veil
-2 Bitterblossom
-2 Spell Snare
-2 Swamp
-2 Spellstutter Sprite
-2 Darkslick Shores
-3 Spellstutter Sprite
-3 Liliana of the Veil
-3 Cryptic Command
-3 Bitterblossom
-4 Spellstutter Sprite
-1 Silent Clearing
-4 Flooded Strand
-1 Drogskol Captain
-1 Geist of Saint Traft
-1 Ghost Quarter
-1 Spell Queller
-1 Moorland Haunt
-1 Curious Obsession
-1 Rattlechains
-1 Concealed Courtyard
-1 Lingering Souls
-1 Mausoleum Wanderer
-1 Supreme Phantom
-2 Drogskol Captain
-2 Geist of Saint Traft
-2 Spell Queller
-2 Lingering Souls
-2 Rattlechains
-2 Supreme Phantom
-2 Curious Obsession
-2 Mausoleum Wanderer
-2 Concealed Courtyard
-3 Drogskol Captain
-3 Spell Queller
-3 Lingering Souls
-3 Concealed Courtyard
-3 Mausoleum Wanderer
-3 Supreme Phantom
-3 Rattlechains
-3 Curious Obsession
-4 Spell Queller
-4 Drogskol Captain
-4 Path to Exile
-4 Mausoleum Wanderer
-4 Rattlechains
-4 Supreme Phantom
-1 Sword of Fire and Ice
-1 Narset, Parter of Veils
-1 Snow-Covered Plains
-1 Mystic Sanctuary
 1 Tasigur, the Golden Fang
+1 Narset, Parter of Veils
 2 Snow-Covered Island
 2 Mystic Sanctuary
 2 Narset, Parter of Veils
@@ -62,48 +8,101 @@
 3 Snow-Covered Island
 3 Narset, Parter of Veils
 4 Stoneforge Mystic
+4 Narset, Parter of Veils
 4 Snow-Covered Island
 4 Drown in the Loch
-4 Narset, Parter of Veils
+1 Silent Clearing
+4 Flooded Strand
+1 Drogskol Captain
+1 Moorland Haunt
+1 Rattlechains
+1 Mausoleum Wanderer
+1 Supreme Phantom
+1 Geist of Saint Traft
+1 Curious Obsession
+1 Ghost Quarter
+1 Concealed Courtyard
+1 Spell Queller
+1 Lingering Souls
+2 Drogskol Captain
+2 Geist of Saint Traft
+2 Spell Queller
+2 Rattlechains
+2 Supreme Phantom
+2 Mausoleum Wanderer
+2 Curious Obsession
+2 Lingering Souls
+2 Concealed Courtyard
+3 Spell Queller
+3 Supreme Phantom
+3 Drogskol Captain
+3 Rattlechains
+3 Mausoleum Wanderer
+3 Curious Obsession
+3 Lingering Souls
+3 Concealed Courtyard
+4 Spell Queller
+4 Drogskol Captain
+4 Mausoleum Wanderer
+4 Supreme Phantom
+4 Rattlechains
+4 Path to Exile
+1 Mutavault
+1 Bitterblossom
+1 Mistbind Clique
+1 Vendilion Clique
+1 Spellstutter Sprite
+1 Liliana of the Veil
+2 Mutavault
+2 Bitterblossom
+2 Spell Snare
+2 Swamp
+2 Spellstutter Sprite
+2 Darkslick Shores
+2 Liliana of the Veil
+3 Spellstutter Sprite
+3 Liliana of the Veil
+3 Cryptic Command
+3 Bitterblossom
+4 Spellstutter Sprite
 1 Stubborn Denial
 1 Unearth
 1 Marsh Flats
 1 Death's Shadow
 1 Jace, Vryn's Prodigy
 1 Dismember
-1 Ranger-Captain of Eos
 1 Gurmag Angler
+1 Ranger-Captain of Eos
+2 Silent Clearing
 2 Death's Shadow
 2 Gurmag Angler
 2 Ranger-Captain of Eos
 2 Marsh Flats
-2 Silent Clearing
 2 Unearth
 2 Fatal Push
 2 Godless Shrine
 2 Stubborn Denial
+3 Silent Clearing
+3 Fatal Push
 3 Death's Shadow
 3 Marsh Flats
 3 Stubborn Denial
 3 Ranger-Captain of Eos
-3 Fatal Push
-3 Silent Clearing
 4 Silent Clearing
 4 Death's Shadow
 4 Stubborn Denial
 4 Ranger-Captain of Eos
 1 Blast Zone
 1 Prairie Stream
-1 Teferi, Hero of Dominaria
 1 Celestial Colonnade
 1 Condemn
+1 Teferi, Hero of Dominaria
 1 Serum Visions
 1 Ancestral Vision
 1 Irrigated Farmland
 1 Brazen Borrower
 1 Supreme Verdict
 1 Misty Rainforest
-2 Jace, the Mind Sculptor
 2 Blast Zone
 2 Celestial Colonnade
 2 Mana Leak
@@ -111,6 +110,7 @@
 2 Plains
 2 Irrigated Farmland
 2 Ancestral Vision
+2 Jace, the Mind Sculptor
 2 Misty Rainforest
 2 Serum Visions
 3 Misty Rainforest

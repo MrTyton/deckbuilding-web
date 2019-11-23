@@ -49,7 +49,7 @@
 |                    3|[Snow-Covered Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121130)|                    1|[Spell Snare](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446100)               |
 |                    4|[Snow-Covered Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121130)|                    2|[Saheeli, Sublime Artificer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461161)|
 |                    2|[Misty Rainforest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405102)   |                    3|[Blood Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45386)                 |
-|                     |                                                                                              |                    1|[Magma Spray](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426843)               |
 |                     |                                                                                              |                    1|[Into the Story](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473012)            |
+|                     |                                                                                              |                    1|[Magma Spray](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426843)               |
 |                     |                                                                                              |                    2|[Into the Story](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473012)            |
 

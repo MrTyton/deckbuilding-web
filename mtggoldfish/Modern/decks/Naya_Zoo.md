@@ -31,8 +31,8 @@
 
 |*n*<sup>th</sup> copy|                                         Maindeck Card                                          |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
 |--------------------:|------------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
-|                    1|[Snow-Covered Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121192)  |                    1|[Hooting Mandrills](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386558)  |
-|                    1|[Snow-Covered Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121233)|                    1|[Harsh Mentor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426837)       |
+|                    1|[Snow-Covered Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121233)|                    1|[Hooting Mandrills](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386558)  |
+|                    1|[Snow-Covered Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121192)  |                    1|[Harsh Mentor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426837)       |
 |                    1|[Kird Ape](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=1302)               |                    1|[Hazoret the Fervent](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426838)|
 |                    1|[Elvish Reclaimer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466923)     |                    1|[Devastating Summons](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=194927)|
 |                    1|[Simian Spirit Guide](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442137)  |                    1|[Destructive Revelry](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373351)|

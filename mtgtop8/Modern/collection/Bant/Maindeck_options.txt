@@ -1,14 +1,7 @@
-3 Flooded Strand
-1 Arcum's Astrolabe
-2 Arcum's Astrolabe
-3 Mana Leak
-2 Birds of Paradise
+1 Horizon Canopy
+1 Birds of Paradise
+1 Sword of Fire and Ice
 4 Misty Rainforest
-1 Razorverge Thicket
-2 Razorverge Thicket
-4 Force of Negation
-4 Windswept Heath
-4 Prismatic Vista
 1 Opt
 1 Spell Snare
 2 Spell Snare
@@ -26,11 +19,18 @@
 3 Opt
 3 Snapcaster Mage
 4 Snow-Covered Island
+3 Mana Leak
+2 Birds of Paradise
+4 Force of Negation
+4 Windswept Heath
 5 Snow-Covered Island
+1 Razorverge Thicket
+2 Razorverge Thicket
+4 Prismatic Vista
+1 Mystical Dispute
 1 Moorland Haunt
 1 Gilded Goose
 1 Deputy of Detention
-3 Razorverge Thicket
 1 Brazen Borrower
 2 Brazen Borrower
 1 Eternal Witness
@@ -43,9 +43,10 @@
 1 Collected Company
 2 Collected Company
 3 Collected Company
+4 Flooded Strand
 2 Hallowed Fountain
-1 Ephemerate
 1 Time Warp
+1 Ephemerate
 1 Coiling Oracle
 2 Eternal Witness
 2 Coiling Oracle
@@ -57,8 +58,9 @@
 3 Soulherder
 4 Ephemerate
 4 Coiling Oracle
-1 Mystical Dispute
+2 Supreme Verdict
 1 Botanical Sanctum
+3 Razorverge Thicket
 1 Tireless Tracker
 2 Deputy of Detention
 2 Tireless Tracker
@@ -69,23 +71,22 @@
 2 Knight of Autumn
 1 Wall of Blossoms
 2 Time Warp
-4 Flooded Strand
 1 Charming Prince
-1 Prairie Stream
 1 Canopy Vista
+1 Prairie Stream
 1 Eladamri's Call
 1 Once Upon a Time
+1 Venser, Shaper Savant
 1 Phyrexian Revoker
 1 Aether Vial
 1 Lavinia of the Tenth
-1 Venser, Shaper Savant
 2 Eladamri's Call
 2 Aether Vial
 3 Eladamri's Call
 3 Aether Vial
 4 Aether Vial
+1 Mystic Sanctuary
 1 Gaddock Teeg
-1 Remand
 1 Mulldrifter
 2 Mulldrifter
 1 Geist of Saint Traft
@@ -93,7 +94,6 @@
 2 Geist of Saint Traft
 1 Spell Pierce
 2 Spell Pierce
-2 Supreme Verdict
 3 Birds of Paradise
 1 Reflector Mage
 1 Oust

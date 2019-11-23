@@ -27,8 +27,8 @@
 
 |*n*<sup>th</sup> copy|                                        Maindeck Card                                        |*n*<sup>th</sup> copy|                                         Sideboard Card                                          |
 |--------------------:|---------------------------------------------------------------------------------------------|--------------------:|-------------------------------------------------------------------------------------------------|
-|                    1|[Collision/Colossus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457367)|                    2|[Smash to Smithereens](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397795)  |
-|                    1|[Temur Battle Rage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391940) |                    3|[Exquisite Firecraft](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=398513)   |
+|                    1|[Temur Battle Rage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391940) |                    2|[Smash to Smithereens](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397795)  |
+|                    1|[Collision/Colossus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457367)|                    3|[Exquisite Firecraft](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=398513)   |
 |                    2|[Blistercoil Weird](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=289222) |                    4|[Searing Blood](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=378483)         |
 |                    2|[Temur Battle Rage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391940) |                    1|[Risk Factor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452863)           |
 |                    2|[Collision/Colossus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457367)|                    1|[Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)        |
