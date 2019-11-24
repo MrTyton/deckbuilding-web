@@ -28,8 +28,8 @@
 
 |*n*<sup>th</sup> copy|                                       Maindeck Card                                        |*n*<sup>th</sup> copy|                                          Sideboard Card                                           |
 |--------------------:|--------------------------------------------------------------------------------------------|--------------------:|---------------------------------------------------------------------------------------------------|
-|                    2|[Hangarback Walker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420600)|                    1|[Rankle, Master of Pranks](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473063)|
-|                    1|[Castle Locthwain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473203) |                    1|[Blightbeetle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466841)            |
+|                    2|[Hangarback Walker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420600)|                    1|[Blightbeetle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466841)            |
+|                    1|[Castle Locthwain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473203) |                    1|[Rankle, Master of Pranks](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473063)|
 |                    3|[Hangarback Walker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420600)|                    2|[Rankle, Master of Pranks](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473063)|
 |                    1|[Once Upon a Time](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473131) |                    2|[Blightbeetle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466841)            |
 |                    1|[Glint-Nest Crane](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417623) |                    3|[Blightbeetle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466841)            |

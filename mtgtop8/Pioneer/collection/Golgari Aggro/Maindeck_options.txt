@@ -31,18 +31,18 @@
 2 Murderous Rider
 4 Woodland Cemetery
 1 Zetalpa, Primal Dawn
-1 Lotleth Troll
 1 Soulflayer
-2 Soulflayer
-2 Zetalpa, Primal Dawn
+1 Lotleth Troll
 2 Lotleth Troll
+2 Zetalpa, Primal Dawn
+2 Soulflayer
 3 Grisly Salvage
-3 Soulflayer
-3 Zetalpa, Primal Dawn
 3 Lotleth Troll
+3 Zetalpa, Primal Dawn
+3 Soulflayer
+4 Soulflayer
 4 Grisly Salvage
 4 Lotleth Troll
-4 Soulflayer
 3 Traverse the Ulvenwald
 1 Castle Locthwain
 1 Ishkanah, Grafwidow
@@ -71,8 +71,8 @@
 1 Deathrite Shaman
 2 Deathrite Shaman
 1 Mana Confluence
-1 Samut, Voice of Dissent
 1 Blood Crypt
+1 Samut, Voice of Dissent
 1 Chromanticore
 1 Bomat Courier
 2 Blood Crypt
@@ -94,9 +94,9 @@
 3 Pelt Collector
 4 Pelt Collector
 4 Vivien, Arkbow Ranger
-1 Duress
-1 Dead Weight
 1 Noxious Gearhulk
+1 Dead Weight
+1 Duress
 2 Duress
 3 Fabled Passage
 4 Fabled Passage
@@ -189,10 +189,10 @@
 4 Nantuko Husk
 4 Elvish Visionary
 4 Duskwatch Recruiter
+1 Karn's Bastion
 1 Metallic Mimic
 1 Ruins of Oran-Rief
 1 Animation Module
-1 Karn's Bastion
 1 Sea Gate Wreckage
 1 Steel Overseer
 2 Metallic Mimic

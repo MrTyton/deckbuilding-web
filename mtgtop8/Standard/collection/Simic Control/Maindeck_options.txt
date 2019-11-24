@@ -2,46 +2,46 @@
 3 Temple of Mystery
 1 Fabled Passage
 4 Temple of Mystery
+11 Forest
 1 Castle Garenbrig
 2 Castle Garenbrig
-11 Forest
 1 Arboreal Grazer
 2 Arboreal Grazer
 1 Leafkin Druid
 2 Leafkin Druid
 3 Leafkin Druid
 4 Leafkin Druid
-3 Castle Garenbrig
-3 Brazen Borrower
+1 Risen Reef
+2 Risen Reef
+3 Risen Reef
+4 Risen Reef
 1 Feasting Troll King
 1 Golden Egg
 2 Feasting Troll King
 2 Golden Egg
 3 Feasting Troll King
+3 Castle Garenbrig
 4 Feasting Troll King
-1 Voracious Hydra
-2 Voracious Hydra
 1 Growth Spiral
 2 Growth Spiral
-1 Risen Reef
-2 Risen Reef
-3 Risen Reef
-4 Risen Reef
 1 Trail of Crumbs
 3 Arboreal Grazer
 4 Castle Garenbrig
 4 Arboreal Grazer
+3 Brazen Borrower
 3 Growth Spiral
 12 Forest
-1 Stonecoil Serpent
-2 Stonecoil Serpent
+1 Voracious Hydra
+2 Voracious Hydra
 1 End-Raze Forerunners
 1 Finale of Devastation
+2 Finale of Devastation
+1 Stonecoil Serpent
+2 Stonecoil Serpent
 1 Bond of Flourishing
 1 Roalesk, Apex Hybrid
 2 Roalesk, Apex Hybrid
 2 Bond of Flourishing
-2 Finale of Devastation
 3 Bond of Flourishing
 3 Finale of Devastation
 4 Bond of Flourishing
@@ -51,7 +51,15 @@
 1 Tamiyo, Collector of Tales
 2 Tamiyo, Collector of Tales
 3 Tamiyo, Collector of Tales
+1 Agent of Treachery
+1 Cavalier of Thorns
+1 Quasiduplicate
+2 Agent of Treachery
+2 Cavalier of Thorns
+3 Cavalier of Thorns
+4 Cavalier of Thorns
 1 The Great Henge
+1 Thrashing Brontodon
 1 Negate
 1 Vivien, Arkbow Ranger
 2 Mobilized District
@@ -66,8 +74,8 @@
 4 Hallowed Fountain
 1 Witch's Oven
 1 Fae of Wishes
-1 Meteor Golem
 1 Emry, Lurker of the Loch
+1 Meteor Golem
 1 Crashing Drawbridge
 2 Witch's Oven
 2 Fae of Wishes
@@ -81,8 +89,6 @@
 4 Golden Egg
 4 Emry, Lurker of the Loch
 4 Tamiyo, Collector of Tales
-3 Voracious Hydra
-4 Voracious Hydra
 8 Island
 9 Island
 10 Island
@@ -91,16 +97,9 @@
 1 Jace, Wielder of Mysteries
 1 Overgrown Tomb
 1 Temple of Malady
-1 Agent of Treachery
-1 Cavalier of Thorns
-1 Quasiduplicate
-2 Agent of Treachery
-2 Cavalier of Thorns
 2 Quasiduplicate
 2 Overgrown Tomb
 2 Watery Grave
-3 Cavalier of Thorns
 3 Agent of Treachery
 3 Quasiduplicate
-4 Cavalier of Thorns
 4 Agent of Treachery

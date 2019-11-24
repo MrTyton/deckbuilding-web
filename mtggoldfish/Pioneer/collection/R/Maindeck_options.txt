@@ -1,91 +1,21 @@
-1 Lightning Strike
-2 Lightning Strike
-1 Wild Slash
-2 Castle Embereth
-2 Wild Slash
-3 Wild Slash
-4 Wild Slash
-1 Goblin Rabblemaster
-1 Mutavault
-1 Kari Zev, Skyship Raider
-1 Smuggler's Copter
-1 Legion Warboss
-1 Hanweir Garrison
-1 Embercleave
-1 Legion Loyalist
-1 Hanweir Battlements
-2 Kari Zev, Skyship Raider
-2 Smuggler's Copter
-2 Legion Warboss
-2 Hanweir Garrison
-2 Legion Loyalist
-2 Embercleave
-2 Hanweir Battlements
-2 Mutavault
-2 Goblin Rabblemaster
-3 Mutavault
-3 Smuggler's Copter
-3 Legion Warboss
-3 Legion Loyalist
-3 Lightning Strike
-3 Hanweir Garrison
-3 Hanweir Battlements
-3 Goblin Rabblemaster
-4 Legion Warboss
-4 Legion Loyalist
-4 Hanweir Garrison
-4 Lightning Strike
-4 Smuggler's Copter
-4 Goblin Rabblemaster
-4 Mutavault
-1 Torbran, Thane of Red Fell
-1 Dragon Whisperer
-1 Magma Jet
-1 Fanatic of Mogis
-1 Purphoros, God of the Forge
-1 Searing Blood
-1 Rakdos Cackler
-1 Ash Zealot
-1 Burning-Tree Emissary
-2 Torbran, Thane of Red Fell
-2 Dragon Whisperer
-2 Ash Zealot
-2 Purphoros, God of the Forge
-2 Fanatic of Mogis
-2 Magma Jet
-2 Searing Blood
-2 Burning-Tree Emissary
-2 Rakdos Cackler
-3 Fanatic of Mogis
-3 Ash Zealot
-3 Dragon Whisperer
-3 Burning-Tree Emissary
-3 Rakdos Cackler
-4 Fanatic of Mogis
-4 Ash Zealot
-4 Nykthos, Shrine to Nyx
-4 Burning-Tree Emissary
-4 Dragon Whisperer
-4 Rakdos Cackler
-16 Mountain
-17 Mountain
-18 Mountain
+12 Mountain
+13 Mountain
 1 Titan's Strength
 1 Dragon Mantle
-1 Satyr Hoplite
 1 Foundry Street Denizen
 1 Cartouche of Zeal
 1 Consuming Fervor
 1 Akroan Crusader
 1 Hammerhand
+1 Satyr Hoplite
 1 Monastery Swiftspear
 1 Soul-Scar Mage
 2 Titan's Strength
 2 Dragon Mantle
-2 Hammerhand
 2 Foundry Street Denizen
 2 Akroan Crusader
 2 Satyr Hoplite
+2 Hammerhand
 2 Consuming Fervor
 2 Soul-Scar Mage
 2 Monastery Swiftspear
@@ -111,3 +41,48 @@
 4 Hammerhand
 4 Akroan Crusader
 4 Soul-Scar Mage
+1 Torbran, Thane of Red Fell
+1 Dragon Whisperer
+1 Magma Jet
+1 Nykthos, Shrine to Nyx
+1 Fanatic of Mogis
+1 Purphoros, God of the Forge
+1 Searing Blood
+1 Rakdos Cackler
+1 Boros Reckoner
+1 Ash Zealot
+1 Burning-Tree Emissary
+1 Goblin Chainwhirler
+2 Torbran, Thane of Red Fell
+2 Dragon Whisperer
+2 Ash Zealot
+2 Purphoros, God of the Forge
+2 Fanatic of Mogis
+2 Magma Jet
+2 Nykthos, Shrine to Nyx
+2 Boros Reckoner
+2 Searing Blood
+2 Burning-Tree Emissary
+2 Goblin Chainwhirler
+2 Rakdos Cackler
+3 Nykthos, Shrine to Nyx
+3 Fanatic of Mogis
+3 Ash Zealot
+3 Goblin Chainwhirler
+3 Boros Reckoner
+3 Dragon Whisperer
+3 Rakdos Cackler
+3 Burning-Tree Emissary
+4 Goblin Chainwhirler
+4 Fanatic of Mogis
+4 Ash Zealot
+4 Nykthos, Shrine to Nyx
+4 Boros Reckoner
+4 Burning-Tree Emissary
+4 Dragon Whisperer
+4 Rakdos Cackler
+15 Mountain
+16 Mountain
+17 Mountain
+18 Mountain
+14 Mountain

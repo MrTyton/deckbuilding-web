@@ -82,32 +82,32 @@
 1 Skewer the Critics
 1 Abbot of Keral Keep
 1 Stoke the Flames
-1 Lightning Strike
 1 Eidolon of the Great Revel
 1 Monastery Swiftspear
 1 Foundry Street Denizen
 1 Dragon Fodder
+1 Lightning Strike
 1 Hordeling Outburst
 1 Light Up the Stage
 2 Skewer the Critics
 2 Stoke the Flames
 2 Abbot of Keral Keep
-2 Lightning Strike
 2 Eidolon of the Great Revel
 2 Monastery Swiftspear
 2 Foundry Street Denizen
 2 Hordeling Outburst
 2 Dragon Fodder
+2 Lightning Strike
 3 Stoke the Flames
 3 Eidolon of the Great Revel
-3 Lightning Strike
 3 Monastery Swiftspear
+3 Lightning Strike
 3 Dragon Fodder
 4 Monastery Swiftspear
-4 Lightning Strike
 4 Eidolon of the Great Revel
 4 Dragon Fodder
 4 Stoke the Flames
+4 Lightning Strike
 7 Mountain
 8 Mountain
 9 Mountain
@@ -128,28 +128,28 @@
 2 Kessig Prowler
 2 Syr Faren, the Hengehammer
 2 Aspect of Hydra
-3 Yorvo, Lord of Garenbrig
 3 Syr Faren, the Hengehammer
+3 Yorvo, Lord of Garenbrig
 3 Reckless Bushwhacker
 3 Zurgo Bellstriker
 4 Reckless Bushwhacker
 1 Sweltering Suns
 1 Cinder Glade
 1 Sylvan Caryatid
-1 Hanweir Battlements
 1 Combustible Gearhulk
 1 See the Unwritten
+1 Hanweir Battlements
 2 Sweltering Suns
-2 Hanweir Battlements
 2 Sylvan Caryatid
+2 Hanweir Battlements
 2 See the Unwritten
 2 Surrak, the Hunt Caller
 2 Cinder Glade
 2 Combustible Gearhulk
 3 Cinder Glade
-3 Hanweir Battlements
 3 Sylvan Caryatid
 3 Combustible Gearhulk
+3 Hanweir Battlements
 4 Cinder Glade
 4 Sylvan Caryatid
 1 Paradise Druid
@@ -179,13 +179,13 @@
 1 Chandra, Torch of Defiance
 1 Oath of Nissa
 2 Growth-Chamber Guardian
+2 Tireless Tracker
 2 Chandra, Torch of Defiance
 2 Oath of Nissa
-2 Tireless Tracker
 2 Mutavault
 3 Domri, Anarch of Bolas
-3 Growth-Chamber Guardian
 3 Tireless Tracker
+3 Growth-Chamber Guardian
 3 Oath of Nissa
 3 Chandra, Torch of Defiance
 4 Growth-Chamber Guardian
@@ -233,8 +233,8 @@
 1 Nissa's Pilgrimage
 1 Ulamog, the Ceaseless Hunger
 1 Kozilek's Return
-1 Ugin, the Spirit Dragon
 1 Sanctum of Ugin
+1 Ugin, the Spirit Dragon
 1 Explosive Vegetation
 1 Sylvan Scrying
 1 Omnath, Locus of Rage

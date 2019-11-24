@@ -43,8 +43,8 @@
 3 Godless Shrine
 1 Day's Undoing
 2 Day's Undoing
-3 Narset, Parter of Veils
 3 Day's Undoing
+3 Narset, Parter of Veils
 4 Narset, Parter of Veils
 1 Forest
 2 Temple of Deceit
@@ -119,8 +119,8 @@
 1 Mutavault
 2 Quench
 1 Commit / Memory
-1 Gideon, Ally of Zendikar
 1 Sorin, Solemn Visitor
+1 Gideon, Ally of Zendikar
 1 Concealed Courtyard
 1 Liliana, Dreadhorde General
 2 Concealed Courtyard
@@ -129,8 +129,8 @@
 2 Censor
 2 Absorb
 3 Plains
-1 Magma Spray
 1 Dragonmaster Outcast
+1 Magma Spray
 1 Nicol Bolas, the Ravager
 2 Disallow
 2 Nicol Bolas, the Ravager
@@ -165,22 +165,22 @@
 1 Oko, Thief of Crowns
 2 Oko, Thief of Crowns
 1 Clifftop Retreat
-1 Sacred Foundry
-1 Heart of Kiran
+1 Nicol Bolas, Dragon-God
 1 Oath of Teferi
+1 Heart of Kiran
 1 Fires of Invention
 1 Temple of Triumph
 1 Nicol Bolas, God-Pharaoh
-1 Nicol Bolas, Dragon-God
+1 Sacred Foundry
 1 Temple of Enlightenment
 1 Interplanar Beacon
 1 Drawn from Dreams
 2 Temple of Enlightenment
 2 Fae of Wishes
 2 Nicol Bolas, Dragon-God
-2 Heart of Kiran
 2 Deafening Clarion
 2 Jace, Architect of Thought
+2 Heart of Kiran
 2 Fires of Invention
 2 Temple of Triumph
 2 Sacred Foundry
@@ -220,26 +220,26 @@
 4 Notion Thief
 1 Llanowar Wastes
 1 Overgrown Tomb
+1 Woodland Cemetery
 1 Reliquary Tower
 1 Arch of Orazca
 1 The Elderspell
-1 Woodland Cemetery
-1 Nissa's Renewal
 1 Bontu's Last Reckoning
+1 Nissa's Renewal
 1 Torment of Hailfire
 1 Walking Ballista
 1 Mastermind's Acquisition
 2 Overgrown Tomb
 2 Woodland Cemetery
-2 Seasons Past
 2 Read the Bones
+2 Seasons Past
 3 Overgrown Tomb
 3 Woodland Cemetery
 4 Overgrown Tomb
 4 Languish
 1 Thing in the Ice
-1 The Royal Scions
 1 Treasure Cruise
+1 The Royal Scions
 1 Wild Slash
 1 Dragonskull Summit
 1 Dreadhorde Arcanist
@@ -285,25 +285,25 @@
 1 Sylvan Caryatid
 1 Nomad Outpost
 1 Rogue Refiner
-1 Niv-Mizzet Reborn
 1 Opulent Palace
 1 Attune with Aether
 1 Aether Hub
 1 Gilded Goose
 1 Bring to Light
+1 Niv-Mizzet Reborn
 1 Unmoored Ego
 1 Mana Confluence
 1 Tolsimir, Friend to Wolves
 2 Blooming Marsh
 2 Mana Confluence
 2 Rogue Refiner
-2 Niv-Mizzet Reborn
 2 Bring to Light
 2 Opulent Palace
 2 Gilded Goose
 2 Botanical Sanctum
 2 Attune with Aether
 2 Aether Hub
+2 Niv-Mizzet Reborn
 3 Blooming Marsh
 3 Rogue Refiner
 3 Bring to Light
@@ -358,9 +358,9 @@
 1 Crypt Incursion
 1 Tireless Tracker
 1 Vraska, Relic Seeker
-2 Hissing Quagmire
 2 Grasp of Darkness
 2 Tireless Tracker
+2 Hissing Quagmire
 2 Temple of Malady
 2 Nissa, Vastwood Seer
 3 Tireless Tracker
@@ -376,13 +376,13 @@
 1 Sanctum of Ugin
 1 Shrine of the Forsaken Gods
 1 Nissa's Pilgrimage
-1 Dragonlord Atarka
 1 World Breaker
 1 Castle Garenbrig
 1 Llanowar Elves
 1 Elvish Mystic
 1 Ulamog, the Ceaseless Hunger
 1 Once Upon a Time
+1 Dragonlord Atarka
 2 Dragonlord Atarka
 2 Ulvenwald Hydra
 2 Explosive Vegetation
@@ -396,22 +396,22 @@
 2 Sylvan Caryatid
 2 Once Upon a Time
 3 World Breaker
-3 Sylvan Caryatid
 3 Dragonlord Atarka
 3 Explosive Vegetation
 3 Castle Garenbrig
 3 Nissa's Pilgrimage
 3 Llanowar Elves
 3 Elvish Mystic
+3 Sylvan Caryatid
 3 Ulvenwald Hydra
 3 Sanctum of Ugin
 3 Once Upon a Time
 3 Stomping Ground
 4 Sanctum of Ugin
 4 Nissa's Pilgrimage
-4 Sylvan Caryatid
 4 Explosive Vegetation
 4 Castle Garenbrig
+4 Sylvan Caryatid
 4 World Breaker
 4 Elvish Mystic
 4 Once Upon a Time

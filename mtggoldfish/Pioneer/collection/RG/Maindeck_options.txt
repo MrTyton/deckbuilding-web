@@ -1,23 +1,23 @@
 2 Managorger Hydra
-3 Once Upon a Time
 3 Syr Faren, the Hengehammer
 3 Yorvo, Lord of Garenbrig
+3 Once Upon a Time
 4 Once Upon a Time
 2 Mountain
 3 Mountain
 4 Mountain
 1 Hashep Oasis
 1 Voltaic Brawler
+1 Hazoret the Fervent
 1 Pelt Collector
 1 Burning-Tree Emissary
-1 Hazoret the Fervent
 1 Zhur-Taa Goblin
 1 Embercleave
 1 Experiment One
 2 Voltaic Brawler
+2 Hazoret the Fervent
 2 Pelt Collector
 2 Burning-Tree Emissary
-2 Hazoret the Fervent
 2 Embercleave
 2 Hashep Oasis
 2 Experiment One
@@ -37,26 +37,26 @@
 4 Hashep Oasis
 4 Experiment One
 9 Forest
-1 Glorybringer
 1 Domri Rade
+1 Glorybringer
 1 Courser of Kruphix
 1 Lovestruck Beast
 1 Smuggler's Copter
-2 Courser of Kruphix
 2 Domri Rade
 2 Lovestruck Beast
 2 Smuggler's Copter
+2 Courser of Kruphix
 2 Glorybringer
 3 Questing Beast
-3 Courser of Kruphix
 3 Lovestruck Beast
+3 Courser of Kruphix
 3 Game Trail
 3 Glorybringer
 3 Domri Rade
 4 Questing Beast
-4 Glorybringer
 4 Courser of Kruphix
 4 Lovestruck Beast
+4 Glorybringer
 4 Game Trail
 4 Domri Rade
 1 Kozilek's Return
@@ -74,10 +74,10 @@
 1 Blast Zone
 1 Aether Hub
 1 Stonecoil Serpent
-1 Emrakul, the Promised End
 1 Ugin, the Ineffable
 1 Mana Confluence
 1 Scavenger Grounds
+1 Emrakul, the Promised End
 1 Shrine of the Forsaken Gods
 1 Cascading Cataracts
 1 Field of the Dead
@@ -123,9 +123,9 @@
 1 Explosive Vegetation
 2 Sanctum of Ugin
 2 Sylvan Scrying
-2 Ulamog, the Ceaseless Hunger
 2 Ugin, the Spirit Dragon
 2 Nissa's Pilgrimage
+2 Ulamog, the Ceaseless Hunger
 2 Castle Garenbrig
 2 Whisperwood Elemental
 2 Explosive Vegetation
@@ -143,6 +143,6 @@
 4 Explosive Vegetation
 4 Kozilek's Return
 4 Nissa's Pilgrimage
-5 Mountain
 6 Mountain
 10 Forest
+5 Mountain

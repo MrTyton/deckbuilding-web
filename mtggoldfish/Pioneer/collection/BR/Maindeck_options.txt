@@ -1,40 +1,17 @@
-1 Mutavault
-2 Mutavault
-3 Mutavault
-1 Hazoret the Fervent
-2 Hazoret the Fervent
-1 Liliana, the Last Hope
-2 Liliana, the Last Hope
-1 Wild Slash
-2 Wild Slash
-6 Swamp
-3 Chandra, Torch of Defiance
-3 Bonecrusher Giant
-3 Wild Slash
+1 Murderous Rider
+2 Murderous Rider
+3 Murderous Rider
 1 Kalitas, Traitor of Ghet
 2 Kalitas, Traitor of Ghet
-2 Rankle, Master of Pranks
-3 Scrapheap Scrounger
-4 Scrapheap Scrounger
-4 Glorybringer
-3 Castle Locthwain
-1 Cut/Ribbons
-5 Mountain
-1 Canyon Slough
-2 Canyon Slough
-1 Temple of Malice
-2 Temple of Malice
-2 Fabled Passage
-4 Mutavault
-1 Smoldering Marsh
-3 Murderous Rider
-4 Bonecrusher Giant
-4 Wild Slash
-1 Walking Ballista
-2 Walking Ballista
+4 Swamp
+5 Swamp
+6 Swamp
 1 Ramunap Ruins
 2 Ramunap Ruins
+3 Smuggler's Copter
 6 Mountain
+1 Temple of Malice
+2 Temple of Malice
 3 Temple of Malice
 4 Temple of Malice
 1 Young Pyromancer
@@ -47,48 +24,46 @@
 3 Kalitas, Traitor of Ghet
 4 Young Pyromancer
 1 Castle Embereth
+1 Smoldering Marsh
 2 Smoldering Marsh
 3 Canyon Slough
+3 Castle Locthwain
 3 Smoldering Marsh
 4 Canyon Slough
-1 Legion's End
-1 Bedlam Reveler
-1 Liliana, Death's Majesty
-1 Anger of the Gods
-1 Fiery Impulse
-1 Goblin Dark-Dwellers
-2 Bedlam Reveler
-2 Goblin Dark-Dwellers
-2 Anger of the Gods
-2 Fiery Impulse
-3 Fabled Passage
-3 Goblin Dark-Dwellers
-3 Anger of the Gods
-4 Kolaghan's Command
-4 Fabled Passage
-4 Goblin Dark-Dwellers
 1 Judith, the Scourge Diva
+1 Scrapheap Scrounger
+1 Rankle, Master of Pranks
 1 Draconic Roar
 1 Goblin Rabblemaster
+1 Fabled Passage
 1 Kolaghan, the Storm's Fury
-1 Foul-Tongue Invocation
 1 Transgress the Mind
+1 Foul-Tongue Invocation
+1 Bloodsoaked Champion
 2 Judith, the Scourge Diva
+2 Scrapheap Scrounger
+2 Bloodsoaked Champion
 2 Draconic Roar
 2 Kolaghan, the Storm's Fury
 2 Goblin Rabblemaster
 3 Draconic Roar
 3 Goblin Rabblemaster
+3 Bloodsoaked Champion
+4 Bloodsoaked Champion
 4 Goblin Rabblemaster
 4 Draconic Roar
+1 Hazoret the Fervent
 1 Banefire
 1 Karn's Bastion
 1 Blast Zone
 1 Imminent Doom
+1 Walking Ballista
 1 Lightning Strike
 1 Eternal Scourge
 1 Bomat Courier
 2 Blast Zone
+2 Walking Ballista
+2 Hazoret the Fervent
 2 Bomat Courier
 2 Karn's Bastion
 2 Banefire
@@ -105,24 +80,28 @@
 1 Reality Smasher
 1 Eldrazi Obligator
 1 Thought-Knot Seer
+1 Mutavault
 2 Eldrazi Obligator
 2 Ifnir Deadlands
 2 Reality Smasher
 2 Thought-Knot Seer
 2 Urborg, Tomb of Yawgmoth
+2 Mutavault
 3 Eldrazi Obligator
 3 Ramunap Ruins
 3 Ifnir Deadlands
 3 Reality Smasher
 3 Thought-Knot Seer
+3 Mutavault
 4 Eldrazi Obligator
+4 Mutavault
 4 Reality Smasher
 4 Thought-Knot Seer
 4 Ramunap Ruins
 1 Asylum Visitor
 1 Voldaren Pariah
-1 Stromkirk Condemned
 1 Falkenrath Gorger
+1 Stromkirk Condemned
 1 Bloodhall Priest
 1 Key to the City
 1 Fiery Temper
@@ -137,6 +116,7 @@
 3 Falkenrath Gorger
 3 Fiery Temper
 3 Asylum Visitor
+4 Smuggler's Copter
 4 Fiery Temper
 4 Bloodhall Priest
 4 Falkenrath Gorger
@@ -152,8 +132,8 @@
 1 Goblin Chainwhirler
 2 Burning-Tree Emissary
 2 Rix Maadi Reveler
-2 Cut/Ribbons
 2 Nykthos, Shrine to Nyx
+2 Cut/Ribbons
 2 Ahn-Crop Crasher
 2 Exava, Rakdos Blood Witch
 2 Goblin Chainwhirler

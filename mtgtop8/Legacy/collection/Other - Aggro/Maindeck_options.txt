@@ -6,22 +6,22 @@
 1 Bonecrusher Giant
 1 Snow-Covered Mountain
 1 Spellseeker
+1 Snow-Covered Swamp
 1 Arcum's Astrolabe
 1 Tyrant's Scorn
-1 Snow-Covered Swamp
 1 Hymn to Tourach
 1 Imperial Recruiter
 2 Bonecrusher Giant
-2 Arcum's Astrolabe
-2 Fatal Push
 2 Snow-Covered Swamp
+2 Fatal Push
+2 Arcum's Astrolabe
 2 Hymn to Tourach
 2 Bloodstained Mire
 2 Spellseeker
 3 Bonecrusher Giant
+3 Snow-Covered Island
 3 Snow-Covered Swamp
 3 Bloodstained Mire
-3 Snow-Covered Island
 4 Bloodstained Mire
 1 Wasteland
 2 Wasteland
@@ -32,8 +32,8 @@
 1 Plateau
 1 Phantasmal Image
 1 Spirit of the Labyrinth
-1 Cavern of Souls
 1 Vendilion Clique
+1 Cavern of Souls
 1 Mother of Runes
 1 Snow-Covered Plains
 1 Unsettled Mariner
@@ -104,7 +104,6 @@
 3 Windswept Heath
 1 Tomik, Distinguished Advokist
 1 Elvish Spirit Guide
-1 Forest
 1 Ramunap Excavator
 1 Gaddock Teeg
 1 Selesnya Charm
@@ -114,6 +113,7 @@
 1 Call of the Conclave
 1 Wake the Reflections
 1 Savannah
+1 Forest
 1 Voice of Resurgence
 1 Druid's Deliverance
 1 Swords to Plowshares
@@ -159,8 +159,8 @@
 1 Courser of Kruphix
 1 Snow-Covered Forest
 1 Misty Rainforest
-1 Tropical Island
 1 Oko, Thief of Crowns
+1 Tropical Island
 1 Hexdrinker
 1 Dryad Arbor
 1 Collector Ouphe
@@ -168,8 +168,8 @@
 1 Scavenging Ooze
 1 Green Sun's Zenith
 2 Ice-Fang Coatl
-2 Tropical Island
 2 Oko, Thief of Crowns
+2 Tropical Island
 2 Misty Rainforest
 2 Brazen Borrower
 2 Noble Hierarch
@@ -177,14 +177,14 @@
 2 Courser of Kruphix
 2 Snow-Covered Forest
 3 Snow-Covered Forest
-3 Brazen Borrower
 3 Ice-Fang Coatl
+3 Oko, Thief of Crowns
 3 Tropical Island
 3 Misty Rainforest
 3 Green Sun's Zenith
 3 Courser of Kruphix
 3 Wasteland
-3 Oko, Thief of Crowns
+3 Brazen Borrower
 3 Noble Hierarch
 4 Tropical Island
 4 Misty Rainforest

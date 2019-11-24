@@ -1,38 +1,27 @@
-3 Smuggler's Copter
-1 Prized Amalgam
-1 Elder Deep-Fiend
-1 Satyr Wayfinder
-1 Stitcher's Supplier
-1 Scrapheap Scrounger
-2 Prized Amalgam
-2 Satyr Wayfinder
-2 Stitcher's Supplier
-2 Scrapheap Scrounger
-3 Prized Amalgam
-3 Scrapheap Scrounger
-3 Satyr Wayfinder
-3 Stitcher's Supplier
-4 Prized Amalgam
-4 Satyr Wayfinder
-4 Scrapheap Scrounger
-4 Oko, Thief of Crowns
-4 Fatal Push
-1 Woodland Cemetery
-1 Dig Through Time
-1 Hinterland Harbor
-1 Drowned Catacomb
-2 Languish
+3 Thoughtseize
+4 Fabled Passage
+4 Thoughtseize
+3 Breeding Pool
+1 Oko, Thief of Crowns
+1 Heart of Kiran
+2 Oko, Thief of Crowns
+3 Oko, Thief of Crowns
+2 Swamp
+3 Fatal Push
+3 Abrupt Decay
+1 Languish
 2 Heart of Kiran
-3 Heart of Kiran
 3 Tireless Tracker
+3 Heart of Kiran
 1 Liliana, the Last Hope
+1 Jace, Vryn's Prodigy
 2 Liliana, the Last Hope
+1 Courser of Kruphix
 1 Murderous Rider
-2 Hinterland Harbor
-2 Jace, Vryn's Prodigy
+1 Scavenging Ooze
+2 Courser of Kruphix
+2 Scavenging Ooze
 1 Treasure Cruise
-1 Tasigur, the Golden Fang
-2 Tasigur, the Golden Fang
 1 Haunted Dead
 2 Haunted Dead
 2 Elder Deep-Fiend
@@ -41,14 +30,20 @@
 4 Elder Deep-Fiend
 4 Haunted Dead
 4 Stitcher's Supplier
+4 Oko, Thief of Crowns
 1 Castle Locthwain
+1 Woodland Cemetery
+1 Dig Through Time
+1 Hinterland Harbor
 2 Island
+4 Fatal Push
 1 Opulent Palace
-2 Drowned Catacomb
-4 Abrupt Decay
+1 Drowned Catacomb
+2 Languish
 1 Merfolk Branchwalker
 1 Brazen Borrower
 1 Field of Ruin
+2 Hinterland Harbor
 2 Merfolk Branchwalker
 3 Assassin's Trophy
 1 Garruk, Cursed Huntsman
@@ -59,29 +54,21 @@
 2 Murderous Rider
 2 The Scarab God
 2 Deathrite Shaman
+2 Jace, Vryn's Prodigy
 3 Deathrite Shaman
-1 Tome Scour
 1 Grisly Salvage
+1 Tome Scour
+1 Tasigur, the Golden Fang
 1 Gurmag Angler
 2 Grisly Salvage
 2 Tome Scour
 2 Gurmag Angler
 2 Treasure Cruise
+2 Tasigur, the Golden Fang
 3 Grisly Salvage
 3 Tome Scour
 4 Grisly Salvage
 4 Tome Scour
-1 Drown in the Loch
-1 Kalitas, Traitor of Ghet
-1 Hero's Downfall
-2 Drown in the Loch
-2 Kalitas, Traitor of Ghet
-2 Woodland Cemetery
-3 Scavenging Ooze
-3 Jace, Vryn's Prodigy
-3 Courser of Kruphix
-3 Hinterland Harbor
-4 Jace, Vryn's Prodigy
 1 Emry, Lurker of the Loch
 1 Feasting Troll King
 1 Witch's Oven
@@ -106,19 +93,19 @@
 4 Tireless Tracker
 1 Metallic Rebuke
 1 Battle at the Bridge
-1 Spire of Industry
 1 Guild Globe
 1 Golden Egg
 1 Tezzeret the Schemer
+1 Spire of Industry
 1 Herald of Anguish
 1 Renegade Map
 1 Prophetic Prism
 1 Tezzeret, Master of the Bridge
 1 Karn, the Great Creator
 2 Metallic Rebuke
-2 Spire of Industry
 2 Guild Globe
 2 Golden Egg
+2 Spire of Industry
 2 Battle at the Bridge
 2 Karn, the Great Creator
 2 Herald of Anguish
@@ -131,8 +118,8 @@
 3 Prophetic Prism
 4 Prophetic Prism
 4 Karn, the Great Creator
-1 Syncopate
 1 Sinister Sabotage
+1 Syncopate
 1 Field of the Dead
 1 Narset, Parter of Veils
 1 Growth Spiral
@@ -141,13 +128,14 @@
 1 Geier Reach Sanitarium
 1 Spell Pierce
 1 Hour of Promise
-2 Syncopate
 2 Field of the Dead
+2 Syncopate
 2 Sinister Sabotage
 2 Narset, Parter of Veils
 2 Dig Through Time
 2 Hour of Promise
 2 Growth Spiral
+2 Drowned Catacomb
 2 Opt
 3 Swamp
 3 Field of the Dead
@@ -156,6 +144,7 @@
 3 Hour of Promise
 3 Opt
 3 Growth Spiral
+4 Abrupt Decay
 4 Opt
 4 Hour of Promise
 4 Growth Spiral

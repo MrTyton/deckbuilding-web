@@ -84,7 +84,7 @@
 |                     |                                                                                                     |                    1|[Improbable Alliance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473155)        |
 |                     |                                                                                                     |                    1|[The Royal Scions](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473161)           |
 |                     |                                                                                                     |                    1|[Dawn of Hope](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452758)               |
-|                     |                                                                                                     |                    1|[Flame Sweep](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466893)                |
 |                     |                                                                                                     |                    1|[Ugin, the Ineffable](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460929)        |
 |                     |                                                                                                     |                    1|[Glass Casket](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472977)               |
+|                     |                                                                                                     |                    1|[Flame Sweep](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466893)                |
 
