@@ -42,8 +42,8 @@
 |                    1|[Wildborn Preserver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473144)      |                    4|[Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)       |
 |                    1|[Westvale Abbey](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=410049)          |                     |                                                                                              |
 |                    2|[Wildborn Preserver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473144)      |                     |                                                                                              |
-|                    3|[Chord of Calling](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383209)        |                     |                                                                                              |
 |                    3|[Wildborn Preserver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473144)      |                     |                                                                                              |
+|                    3|[Chord of Calling](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383209)        |                     |                                                                                              |
 |                    4|[Wildborn Preserver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473144)      |                     |                                                                                              |
 |                    3|[Marwyn, the Nurturer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443060)    |                     |                                                                                              |
 
