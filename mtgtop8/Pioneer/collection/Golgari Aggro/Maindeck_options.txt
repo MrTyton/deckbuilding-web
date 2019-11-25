@@ -1,7 +1,17 @@
+1 Scavenging Ooze
+2 Thoughtseize
+1 Woodland Cemetery
+2 Woodland Cemetery
+1 Murderous Rider
+3 Swamp
+1 Grisly Salvage
+2 Grisly Salvage
+2 Fatal Push
+1 Traverse the Ulvenwald
+2 Traverse the Ulvenwald
 3 Thoughtseize
 4 Thoughtseize
 4 Swamp
-1 Scavenging Ooze
 1 Grim Flayer
 1 Vraska, Golgari Queen
 1 Liliana, the Last Hope
@@ -9,25 +19,20 @@
 1 Tireless Tracker
 1 Abrupt Decay
 1 Fabled Passage
+2 Vraska, Golgari Queen
 2 Grim Flayer
 2 Liliana, the Last Hope
 2 Abrupt Decay
 2 Tireless Tracker
-2 Vraska, Golgari Queen
 3 Grim Flayer
 4 Grim Flayer
-1 Grisly Salvage
-2 Grisly Salvage
 3 Woodland Cemetery
-2 Vivien, Arkbow Ranger
-3 Voracious Hydra
-1 Hashep Oasis
+4 Elvish Mystic
+4 Llanowar Elves
+4 Stonecoil Serpent
 1 Hangarback Walker
 2 Hangarback Walker
-4 Stonecoil Serpent
 1 Rishkar, Peema Renegade
-3 Llanowar Elves
-3 Elvish Mystic
 2 Murderous Rider
 4 Woodland Cemetery
 1 Zetalpa, Primal Dawn
@@ -55,9 +60,7 @@
 2 Experiment One
 3 Experiment One
 4 Experiment One
-7 Forest
-3 Vivien, Arkbow Ranger
-4 Voracious Hydra
+4 Vivien, Arkbow Ranger
 4 Zetalpa, Primal Dawn
 2 Rishkar, Peema Renegade
 2 Courser of Kruphix
@@ -87,13 +90,10 @@
 3 Gather the Pack
 4 Gather the Pack
 1 Questing Beast
-4 Elvish Mystic
-4 Llanowar Elves
 1 Pelt Collector
 2 Pelt Collector
 3 Pelt Collector
 4 Pelt Collector
-4 Vivien, Arkbow Ranger
 1 Noxious Gearhulk
 1 Dead Weight
 1 Duress
@@ -119,8 +119,8 @@
 3 Sylvan Caryatid
 4 Sylvan Caryatid
 2 Questing Beast
-3 Questing Beast
 3 Murderous Rider
+3 Questing Beast
 4 Questing Beast
 4 Murderous Rider
 1 Collective Brutality
@@ -128,6 +128,7 @@
 3 Hangarback Walker
 4 Hangarback Walker
 2 Hashep Oasis
+8 Forest
 1 Rhonas the Indomitable
 2 Rhonas the Indomitable
 1 Jadelight Ranger
@@ -235,6 +236,5 @@
 4 Dryad Militant
 4 Aspect of Hydra
 4 Avatar of the Resolute
-8 Forest
 9 Forest
 4 Steel Leaf Champion

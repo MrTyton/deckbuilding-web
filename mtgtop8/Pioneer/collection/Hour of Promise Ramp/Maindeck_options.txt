@@ -1,16 +1,21 @@
-2 Once Upon a Time
 3 Once Upon a Time
-4 Teferi, Time Raveler
 4 Once Upon a Time
+1 Settle the Wreckage
+4 Teferi, Time Raveler
 1 Hydroid Krasis
 1 Radiant Fountain
 1 Ulamog, the Ceaseless Hunger
+1 Stomping Ground
+1 Mountain
 1 Castle Garenbrig
+1 Golos, Tireless Pilgrim
+2 Golos, Tireless Pilgrim
 1 Shrine of the Forsaken Gods
 2 Ugin, the Spirit Dragon
 3 Ugin, the Spirit Dragon
 1 Sanctum of Ugin
 1 Hashep Oasis
+2 Fabled Passage
 1 Oko, Thief of Crowns
 1 Azorius Charm
 2 Oko, Thief of Crowns
@@ -18,8 +23,6 @@
 2 Shrine of the Forsaken Gods
 4 Ugin, the Spirit Dragon
 2 Castle Garenbrig
-1 Golos, Tireless Pilgrim
-2 Golos, Tireless Pilgrim
 1 Desert of the Indomitable
 3 Forest
 1 Nissa's Pilgrimage
@@ -42,16 +45,17 @@
 4 Walking Ballista
 5 Forest
 6 Forest
-4 Sphinx's Revelation
 1 Scapeshift
-1 Stomping Ground
-1 Mountain
+4 Sphinx's Revelation
+1 Temple of Abandon
 2 Hydroid Krasis
 1 Elder Deep-Fiend
 1 Steam Vents
 1 Kozilek's Return
 2 Elder Deep-Fiend
 2 Kozilek's Return
+3 Golos, Tireless Pilgrim
+4 Golos, Tireless Pilgrim
 1 Simic Guildgate
 1 Gruul Guildgate
 1 Emrakul, the Promised End
@@ -62,7 +66,8 @@
 3 Circuitous Route
 4 Circuitous Route
 1 Westvale Abbey
-2 Fabled Passage
+1 Temple of Malady
+1 Swamp
 1 Tireless Tracker
 2 Tireless Tracker
 1 Detention Sphere
@@ -73,36 +78,54 @@
 3 Settle the Wreckage
 2 Scapeshift
 3 Scapeshift
+1 Boros Guildgate
+1 Maze's End
+1 Dimir Guildgate
+1 Selesnya Guildgate
+1 Golgari Guildgate
+1 Azorius Guildgate
+1 Rakdos Guildgate
+1 Orzhov Guildgate
+2 Stomping Ground
+2 Steam Vents
+2 Emrakul, the Promised End
+3 Kozilek's Return
 1 Rootbound Crag
-1 Temple of Abandon
 1 Ipnu Rivulet
 1 Risen Reef
-1 Sulfur Falls
 1 Temple of Epiphany
+1 Sulfur Falls
 2 Risen Reef
 3 Elder Deep-Fiend
 3 Risen Reef
 4 Elder Deep-Fiend
 4 Risen Reef
+1 Crumbling Vestige
+1 Watery Grave
+1 Explosive Vegetation
+1 Kenrith, the Returned King
+2 Kenrith, the Returned King
+2 Explosive Vegetation
+2 Island
+3 Explosive Vegetation
+4 Explosive Vegetation
 4 Castle Garenbrig
 1 Courser of Kruphix
 1 Castle Locthwain
+1 Murderous Rider
+1 Woodland Cemetery
 1 Hissing Quagmire
 1 Urborg, Tomb of Yawgmoth
-1 Temple of Malady
 1 Abrupt Decay
 1 Ifnir Deadlands
 1 Vraska's Contempt
 1 Legion's End
 1 Gilded Goose
 1 Overgrown Tomb
-1 Woodland Cemetery
 1 Thoughtseize
 1 Llanowar Wastes
 1 Fatal Push
-1 Swamp
 1 Blooming Marsh
-1 Murderous Rider
 2 Vraska's Contempt
 2 Abrupt Decay
 2 Gilded Goose
@@ -137,17 +160,3 @@
 4 Yavimaya Coast
 1 Sea Gate Wreckage
 7 Forest
-1 Boros Guildgate
-1 Maze's End
-1 Dimir Guildgate
-1 Selesnya Guildgate
-1 Golgari Guildgate
-1 Azorius Guildgate
-1 Rakdos Guildgate
-1 Orzhov Guildgate
-2 Stomping Ground
-2 Steam Vents
-2 Emrakul, the Promised End
-3 Golos, Tireless Pilgrim
-3 Kozilek's Return
-4 Golos, Tireless Pilgrim

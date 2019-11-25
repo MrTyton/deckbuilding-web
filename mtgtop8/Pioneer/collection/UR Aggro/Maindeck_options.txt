@@ -1,7 +1,7 @@
+2 Mutavault
+3 Metallic Rebuke
 1 Wild Slash
 2 Wild Slash
-1 Mutavault
-2 Mutavault
 1 Mountain
 2 Mountain
 3 Mountain
@@ -9,21 +9,21 @@
 1 Sulfur Falls
 2 Sulfur Falls
 1 Izzet Charm
-2 Izzet Charm
 2 Island
+2 Izzet Charm
 3 Izzet Charm
 4 Izzet Charm
-1 Bonecrusher Giant
 1 Elder Deep-Fiend
+1 Bonecrusher Giant
 1 Lightning Axe
 1 Kozilek's Return
 1 Brazen Borrower
 1 Rekindling Phoenix
 1 Chandra, Torch of Defiance
 1 Flamewake Phoenix
-2 Bonecrusher Giant
 2 Chandra, Torch of Defiance
 2 Elder Deep-Fiend
+2 Bonecrusher Giant
 2 Lightning Axe
 2 Kozilek's Return
 2 Brazen Borrower
@@ -37,38 +37,40 @@
 3 Flamewake Phoenix
 3 Rekindling Phoenix
 4 Bonecrusher Giant
-4 Brazen Borrower
 4 Kozilek's Return
 4 Elder Deep-Fiend
+4 Brazen Borrower
 4 Flamewake Phoenix
 4 Rekindling Phoenix
+3 Mutavault
 1 Whirler Rogue
 3 Stonecoil Serpent
 4 Stonecoil Serpent
 3 Sulfur Falls
 1 Treasure Cruise
 1 Stormchaser Mage
+1 Monastery Swiftspear
 1 Soul-Scar Mage
 1 Opt
-1 Monastery Swiftspear
 2 Treasure Cruise
 2 Stormchaser Mage
 2 Monastery Swiftspear
 2 Soul-Scar Mage
 2 Opt
 3 Wild Slash
+3 Monastery Swiftspear
 3 Stormchaser Mage
 3 Soul-Scar Mage
-3 Monastery Swiftspear
 3 Opt
+4 Monastery Swiftspear
 4 Stormchaser Mage
 4 Opt
-4 Monastery Swiftspear
 4 Soul-Scar Mage
 1 Wandering Fumarole
 2 Wandering Fumarole
-3 Mutavault
 3 Wandering Fumarole
+1 Stubborn Denial
+2 Stubborn Denial
 4 Lightning Axe
 1 The Royal Scions
 2 The Royal Scions
@@ -91,11 +93,17 @@
 5 Mountain
 6 Mountain
 1 Smash to Smithereens
+1 Sanctum of Ugin
 1 Champion of Wits
 2 Champion of Wits
-1 Sanctum of Ugin
-1 Stubborn Denial
-2 Stubborn Denial
+1 Springleaf Drum
+1 Scrapheap Scrounger
+1 Emry, Lurker of the Loch
+2 Springleaf Drum
+2 Scrapheap Scrounger
+2 Emry, Lurker of the Loch
+3 Scrapheap Scrounger
+3 Emry, Lurker of the Loch
 1 Abrade
 1 Renegade Tactics
 1 Warlord's Fury

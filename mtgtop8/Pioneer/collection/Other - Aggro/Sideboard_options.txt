@@ -1,55 +1,51 @@
 1 Reclamation Sage
-1 Scavenging Ooze
 2 Reclamation Sage
-2 Scavenging Ooze
+1 Scavenging Ooze
+1 Sleep
+2 Sleep
 1 Lifecrafter's Bestiary
 2 Lifecrafter's Bestiary
 3 Lifecrafter's Bestiary
-1 Sleep
-2 Sleep
-1 Wicked Wolf
-1 Unravel the Aether
-1 Aether Gust
-2 Aether Gust
-1 Abrade
-3 Disdainful Stroke
 1 Negate
-3 Reclamation Sage
+2 Scavenging Ooze
 1 Aethersphere Harvester
 2 Aethersphere Harvester
-1 Hunt the Hunter
 1 Prey Upon
 2 Prey Upon
 3 Prey Upon
 1 Spell Pierce
+1 Grafdigger's Cage
+1 Abrade
+2 Abrade
+1 Tireless Tracker
+2 Negate
+1 Aether Gust
+2 Aether Gust
+1 Wicked Wolf
+1 Unravel the Aether
 1 Heroic Intervention
 3 Sleep
-1 Stubborn Denial
 1 Questing Beast
+1 Stubborn Denial
+1 Ratchet Bomb
 1 Thoughtseize
 2 Thoughtseize
+1 Return to Nature
+2 Return to Nature
 1 Fatal Push
 1 Leyline of the Void
 2 Fatal Push
-1 Ratchet Bomb
 3 Thoughtseize
-1 Return to Nature
-2 Return to Nature
 1 Abrupt Decay
 2 Abrupt Decay
 1 Collective Brutality
 1 Assassin's Trophy
 2 Collective Brutality
-1 Tireless Tracker
+2 Tireless Tracker
 1 Supreme Verdict
 2 Supreme Verdict
-2 Negate
 1 Golgari Charm
 2 Golgari Charm
-1 Roast
-1 Nissa's Defeat
-2 Roast
-2 Nissa's Defeat
 1 Tamiyo, Collector of Tales
 1 Vivien Reid
 1 Entrancing Melody
@@ -60,20 +56,15 @@
 1 Caustic Caterpillar
 2 Stain the Mind
 2 Distended Mindbender
-1 Unknown Card
-2 Abrade
-2 Unknown Card
+2 Spell Pierce
 1 Teferi, Time Raveler
 1 Declaration in Stone
 1 Authority of the Consuls
 1 Noxious Grasp
 2 Teferi, Time Raveler
-2 Tireless Tracker
 2 Declaration in Stone
 2 Noxious Grasp
-2 Spell Pierce
 1 Feed the Clan
-1 Grafdigger's Cage
 2 Grafdigger's Cage
 2 Feed the Clan
 3 Feed the Clan
@@ -88,12 +79,22 @@
 2 Unmoored Ego
 2 Duress
 3 Duress
-1 Blossoming Defense
-1 Reality Shift
-2 Blossoming Defense
-2 Hunt the Hunter
-2 Reality Shift
-3 Hunt the Hunter
+1 Unknown Card
+2 Unknown Card
+3 Disdainful Stroke
+1 Apostle of Purifying Light
+1 Devout Decree
+1 Wear / Tear
+1 Dual Shot
+1 Fiendslayer Paladin
+1 Wild Slash
+2 Apostle of Purifying Light
+2 Devout Decree
+2 Wear / Tear
+2 Dual Shot
+2 Fiendslayer Paladin
+2 Wild Slash
+3 Dual Shot
 1 Teferi, Hero of Dominaria
 1 Lyra Dawnbringer
 1 Rest in Peace
@@ -138,6 +139,7 @@
 3 Abrupt Decay
 3 Return to Nature
 4 Return to Nature
+3 Reclamation Sage
 3 Aethersphere Harvester
 3 Scavenging Ooze
 4 Aethersphere Harvester
@@ -147,8 +149,8 @@
 2 Brazen Borrower
 2 Metallic Rebuke
 2 Cerulean Drake
-3 Metallic Rebuke
 3 Cerulean Drake
+3 Metallic Rebuke
 4 Cerulean Drake
 1 Rotting Regisaur
 2 Assassin's Trophy
@@ -159,6 +161,13 @@
 4 Thoughtseize
 4 Assassin's Trophy
 4 Rotting Regisaur
+1 Blood Sun
+1 Magma Spray
+2 Blood Sun
+2 Magma Spray
+3 Magma Spray
+4 Magma Spray
+1 Hunt the Hunter
 2 Heroic Intervention
 3 Heroic Intervention
 4 Prey Upon

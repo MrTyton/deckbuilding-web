@@ -1,7 +1,6 @@
-2 Kraul Harpooner
-10 Forest
 1 Embercleave
 1 Bonecrusher Giant
+1 Kraul Harpooner
 1 Mountain
 1 Domri's Ambush
 1 Rimrock Knight
@@ -9,6 +8,7 @@
 2 Mountain
 2 Embercleave
 2 Bonecrusher Giant
+2 Kraul Harpooner
 2 Stomping Ground
 2 Rimrock Knight
 2 Domri's Ambush
@@ -30,132 +30,132 @@
 8 Mountain
 9 Mountain
 10 Mountain
-1 Massacre Girl
-1 Liliana, Dreadhorde General
-2 Rankle, Master of Pranks
-2 Vraska, Golgari Queen
+10 Forest
+2 Fabled Passage
 1 Veil of Summer
 4 Kraul Harpooner
+1 Find / Finality
+1 Vivien, Arkbow Ranger
+1 Massacre Girl
+1 Liliana, Dreadhorde General
+2 Vraska, Golgari Queen
+1 Assassin's Trophy
+1 Nissa, Who Shakes the World
 2 Castle Locthwain
+2 Massacre Girl
 1 Noxious Grasp
 2 Noxious Grasp
-1 Assassin's Trophy
-2 Fabled Passage
-1 Find / Finality
-2 Massacre Girl
-3 Noxious Grasp
 2 Liliana, Dreadhorde General
+2 Vivien, Arkbow Ranger
+4 Paradise Druid
 3 Order of Midnight
-3 Rankle, Master of Pranks
+3 Noxious Grasp
 2 Assassin's Trophy
-1 Vivien, Arkbow Ranger
 2 Find / Finality
-1 Nissa, Who Shakes the World
+1 Casualties of War
 2 Nissa, Who Shakes the World
+1 The Great Henge
+1 Midnight Reaper
+2 Midnight Reaper
 1 Beanstalk Giant
 2 Beanstalk Giant
+3 Fabled Passage
+3 Rankle, Master of Pranks
+1 Garruk, Cursed Huntsman
+3 Midnight Reaper
 4 Order of Midnight
+3 Beanstalk Giant
 1 Lucky Clover
 2 Lucky Clover
 3 Lucky Clover
 4 Lucky Clover
 8 Swamp
-1 Casualties of War
-3 Vraska, Golgari Queen
-2 Vivien, Arkbow Ranger
-4 Paradise Druid
-1 Knight of the Ebon Legion
-1 Midnight Reaper
-1 Smitten Swordmaster
-2 Smitten Swordmaster
-2 Knight of the Ebon Legion
-2 Midnight Reaper
-3 Knight of the Ebon Legion
-3 Midnight Reaper
-3 Smitten Swordmaster
-4 Midnight Reaper
-4 Knight of the Ebon Legion
-4 Smitten Swordmaster
-3 Beanstalk Giant
-1 Flaxen Intruder
-2 Flaxen Intruder
-1 Temple Garden
-1 Faerie Guidemother
-1 Giant Killer
-1 Castle Ardenvale
-1 Venerated Loxodon
-1 Plains
-2 Temple Garden
-2 Plains
-2 Faerie Guidemother
-2 Venerated Loxodon
-2 Giant Killer
-3 Giant Killer
-3 Temple Garden
-3 Venerated Loxodon
-3 Plains
-3 Faerie Guidemother
-4 Temple Garden
-4 Venerated Loxodon
-4 Faerie Guidemother
-4 Giant Killer
-4 Plains
 1 Gruul Spellbreaker
 1 Skarrgan Hellkite
-1 The Great Henge
 2 Gruul Spellbreaker
 1 Blightbeetle
 2 Blightbeetle
+3 Vraska, Golgari Queen
 1 Bond of Flourishing
+1 Flaxen Intruder
 1 Ugin, the Ineffable
 1 Reaper of Night
 1 Jungle Hollow
 2 Bond of Flourishing
+2 Flaxen Intruder
 2 Jungle Hollow
 2 Reaper of Night
 3 Jungle Hollow
 1 Golgari Findbroker
 3 Vivien, Arkbow Ranger
 4 Vivien, Arkbow Ranger
-1 Blacklance Paragon
-2 Blacklance Paragon
-3 Blacklance Paragon
-4 Blacklance Paragon
+1 Trail of Crumbs
+1 Gilded Goose
+1 Witch's Oven
+1 Cauldron Familiar
+1 Wicked Wolf
+2 Casualties of War
+2 Trail of Crumbs
+2 Gilded Goose
+2 Witch's Oven
+2 Cauldron Familiar
+3 Casualties of War
+3 Cauldron Familiar
+3 Trail of Crumbs
+3 Witch's Oven
+3 Gilded Goose
+4 Gilded Goose
+4 Witch's Oven
 3 Assassin's Trophy
 4 Beanstalk Giant
-4 Noxious Grasp
+1 Knight of the Ebon Legion
+1 Smitten Swordmaster
+2 Knight of the Ebon Legion
+2 Smitten Swordmaster
+3 Knight of the Ebon Legion
+3 Smitten Swordmaster
+4 Midnight Reaper
+4 Knight of the Ebon Legion
+4 Smitten Swordmaster
+1 Temple Garden
 1 Conclave Tribunal
 1 Shepherd of the Flock
+1 Faerie Guidemother
+1 Giant Killer
 1 Pelt Collector
 1 Unbreakable Formation
+1 Castle Ardenvale
+1 Venerated Loxodon
+1 Plains
 1 Huatli's Raptor
+2 Temple Garden
 2 Conclave Tribunal
+2 Plains
+2 Faerie Guidemother
 2 Pelt Collector
 2 Unbreakable Formation
+2 Venerated Loxodon
 2 Huatli's Raptor
 2 Castle Ardenvale
+2 Giant Killer
 2 Shepherd of the Flock
 3 Unbreakable Formation
+3 Giant Killer
+3 Temple Garden
 3 Conclave Tribunal
+3 Venerated Loxodon
 3 Huatli's Raptor
+3 Plains
+3 Faerie Guidemother
 3 Shepherd of the Flock
-3 Fabled Passage
 3 Pelt Collector
 4 Fabled Passage
+4 Temple Garden
+4 Venerated Loxodon
+4 Faerie Guidemother
+4 Giant Killer
+4 Plains
 4 Huatli's Raptor
 4 Pelt Collector
 4 Shepherd of the Flock
 5 Plains
-1 Hallowed Fountain
-1 Ajani, the Greathearted
-1 Incubation / Incongruity
-2 Hallowed Fountain
-2 Ajani, the Greathearted
-2 Incubation / Incongruity
-3 Hallowed Fountain
-3 Incubation / Incongruity
-3 Flaxen Intruder
-3 Ajani, the Greathearted
-4 Incubation / Incongruity
-4 Flaxen Intruder
-11 Forest
