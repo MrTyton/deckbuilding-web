@@ -32,9 +32,9 @@
 |*n*<sup>th</sup> copy|Maindeck Card|*n*<sup>th</sup> copy|                                      Sideboard Card                                       |
 |---------------------|-------------|--------------------:|-------------------------------------------------------------------------------------------|
 |                     |             |                    1|[Fry](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466894)             |
+|                     |             |                    1|[Obstinate Baloth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438745)|
 |                     |             |                    1|[Dispel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401858)          |
 |                     |             |                    1|[Pulse of Murasa](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446177) |
-|                     |             |                    1|[Obstinate Baloth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438745)|
 |                     |             |                    2|[Fry](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466894)             |
 |                     |             |                    2|[Pulse of Murasa](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446177) |
 |                     |             |                    3|[Obstinate Baloth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438745)|

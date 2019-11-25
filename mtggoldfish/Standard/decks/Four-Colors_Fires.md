@@ -30,3 +30,11 @@
 |                                                                                                |                                                                                          |                                                                                                        |1 [The Elderspell](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461016)        |
 |                                                                                                |                                                                                          |                                                                                                        |1 [Time Wipe](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461150)             |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                       Maindeck Card                                        |*n*<sup>th</sup> copy|                                           Sideboard Card                                           |
+|--------------------:|--------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------------|
+|                    1|[Drawn from Dreams](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466810)|                    1|[Chandra, Awakened Inferno](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466881)|
+|                    3|[Ritual of Soot](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452834)   |                    2|[Noxious Grasp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466864)            |
+

@@ -29,16 +29,16 @@
 3 Force of Negation
 3 Oko, Thief of Crowns
 2 Hallowed Fountain
-1 Cryptic Command
 1 Mana Leak
+1 Cryptic Command
 1 Hinterland Harbor
 1 Snapcaster Mage
 2 Cryptic Command
 2 Teferi, Time Raveler
 2 Snapcaster Mage
-3 Snow-Covered Island
 3 Field of Ruin
 3 Path to Exile
+3 Snow-Covered Island
 3 Teferi, Time Raveler
 3 Flooded Strand
 4 Path to Exile
@@ -57,8 +57,8 @@
 2 Snow-Covered Plains
 3 Razorverge Thicket
 3 Deputy of Detention
-1 Duskwatch Recruiter
 1 Island
+1 Duskwatch Recruiter
 1 Collector Ouphe
 2 Duskwatch Recruiter
 2 Reflector Mage
@@ -79,33 +79,33 @@
 2 Nimble Obstructionist
 3 Gilded Goose
 3 On Thin Ice
-4 Force of Negation
 4 Gilded Goose
+4 Force of Negation
 1 Wall of Omens
-1 Castle Vantress
+1 Glacial Fortress
+1 Logic Knot
+1 Spell Pierce
 1 Opt
 1 Celestial Colonnade
-1 Spell Pierce
-1 Logic Knot
-1 Glacial Fortress
 1 Restoration Angel
+1 Castle Vantress
 2 Wall of Omens
-2 Opt
 2 Celestial Colonnade
 2 Restoration Angel
-3 Opt
-3 Cryptic Command
+2 Opt
 3 Wall of Omens
 3 Restoration Angel
-4 Opt
-4 Wall of Omens
+3 Opt
+3 Cryptic Command
 4 Flooded Strand
+4 Wall of Omens
+4 Opt
 1 Ghost Quarter
-1 Blast Zone
 1 Teferi, Hero of Dominaria
 1 Knight of the Reliquary
-1 Scavenging Ooze
+1 Blast Zone
 1 Meddling Mage
+1 Scavenging Ooze
 1 Gavony Township
 2 Knight of the Reliquary
 2 Scavenging Ooze
@@ -115,52 +115,53 @@
 4 Misty Rainforest
 4 Knight of the Reliquary
 1 Field of the Dead
-1 Supreme Verdict
-1 Mystic Sanctuary
-1 Growth Spiral
-1 Arcum's Astrolabe
 1 Scapeshift
+1 Arcum's Astrolabe
+1 Mystic Sanctuary
 1 Scalding Tarn
 1 Remand
+1 Growth Spiral
 1 Polluted Delta
+1 Supreme Verdict
 2 Field of the Dead
 2 Mystic Sanctuary
-2 Mana Leak
-2 Remand
 2 Scapeshift
 2 Arcum's Astrolabe
+2 Mana Leak
+2 Remand
 2 Growth Spiral
 3 Arcum's Astrolabe
 3 Remand
 3 Growth Spiral
 4 Teferi, Time Raveler
 4 Arcum's Astrolabe
-4 Snow-Covered Island
 4 Remand
+4 Snow-Covered Island
 4 Growth Spiral
 1 Elvish Reclaimer
 1 Cavern of Souls
 1 Flagstones of Trokair
-1 Primeval Titan
 1 Bojuka Bog
 1 Reclamation Sage
-1 Engineered Explosives
 1 Pact of Negation
 1 Simic Growth Chamber
-1 Vesuva
 1 Castle Garenbrig
 1 Amulet of Vigor
+1 Primeval Titan
 1 Kabira Crossroads
 1 Sunhome, Fortress of the Legion
+1 Vesuva
 1 Summoner's Pact
 1 Slayers' Stronghold
 1 Selesnya Sanctuary
+1 Engineered Explosives
 1 Gemstone Mine
 1 Tolaria West
 1 Boros Garrison
 1 Azusa, Lost but Seeking
 2 Elvish Reclaimer
 2 Flagstones of Trokair
+2 Castle Garenbrig
 2 Selesnya Sanctuary
 2 Summoner's Pact
 2 Simic Growth Chamber
@@ -168,10 +169,9 @@
 2 Amulet of Vigor
 2 Azusa, Lost but Seeking
 2 Tolaria West
-2 Castle Garenbrig
 2 Primeval Titan
-3 Flagstones of Trokair
 3 Elvish Reclaimer
+3 Flagstones of Trokair
 3 Selesnya Sanctuary
 3 Primeval Titan
 3 Simic Growth Chamber
@@ -191,27 +191,27 @@
 1 Leyline of Abundance
 1 Sylvan Caryatid
 1 Heliod's Pilgrim
-1 Freed from the Real
 1 Verdant Catacombs
+1 Freed from the Real
 2 Karn, the Great Creator
 2 Leyline of Abundance
 2 Verdant Catacombs
 2 Freed from the Real
 2 Sylvan Caryatid
-3 Verdant Catacombs
-3 Karn, the Great Creator
-3 Sylvan Caryatid
 3 Freed from the Real
+3 Verdant Catacombs
+3 Sylvan Caryatid
+3 Karn, the Great Creator
 3 Leyline of Abundance
 4 Leyline of Abundance
 4 Sylvan Caryatid
 4 Birds of Paradise
 1 Thalia, Heretic Cathar
-1 Nykthos, Shrine to Nyx
 1 Elesh Norn, Grand Cenobite
 1 Auriok Champion
 1 Gideon of the Trials
 1 Weathered Wayfarer
+1 Nykthos, Shrine to Nyx
 1 Ulamog, the Ceaseless Hunger
 1 Godsend
 1 Wildfield Borderpost
@@ -221,9 +221,9 @@
 1 Fieldmist Borderpost
 1 Heliod, God of the Sun
 2 Thalia, Heretic Cathar
-2 Plains
-2 Nykthos, Shrine to Nyx
 2 Fieldmist Borderpost
+2 Nykthos, Shrine to Nyx
+2 Plains
 2 Leyline of Sanctity
 2 Thalia's Lancers
 2 Knight of the White Orchid
@@ -232,17 +232,17 @@
 2 Wildfield Borderpost
 3 Plains
 3 Leyline of Sanctity
-3 Nykthos, Shrine to Nyx
 3 Thalia's Lancers
 3 Auriok Champion
+3 Nykthos, Shrine to Nyx
 3 Wildfield Borderpost
 3 Weathered Wayfarer
 3 Fieldmist Borderpost
 3 Knight of the White Orchid
-4 Nykthos, Shrine to Nyx
 4 Leyline of Sanctity
 4 Fieldmist Borderpost
 4 Plains
+4 Nykthos, Shrine to Nyx
 4 Weathered Wayfarer
 4 Thalia's Lancers
 4 Wildfield Borderpost

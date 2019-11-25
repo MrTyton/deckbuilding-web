@@ -36,8 +36,8 @@
 
 |*n*<sup>th</sup> copy|                                       Maindeck Card                                        |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
 |--------------------:|--------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
-|                    1|[Verdant Catacombs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405113)|                    4|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|
-|                    1|[Pithing Needle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129526)   |                    1|[Force of Vigor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464113)     |
+|                    1|[Verdant Catacombs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405113)|                    1|[Force of Vigor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464113)     |
+|                    1|[Pithing Needle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129526)   |                    4|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|
 |                    2|[Verdant Catacombs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405113)|                     |                                                                                              |
 |                    2|[Pithing Needle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129526)   |                     |                                                                                              |
 |                    3|[Verdant Catacombs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405113)|                     |                                                                                              |

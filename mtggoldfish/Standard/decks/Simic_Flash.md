@@ -24,3 +24,20 @@
 |2 [Shifting Ceratops](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466948)|3 [Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020) |
 |                                                                                              |2 [Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)           |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                        Maindeck Card                                        |*n*<sup>th</sup> copy|                                          Sideboard Card                                          |
+|--------------------:|---------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------------|
+|                    1|[Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)            |                    1|[Sorcerous Spyglass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435407)     |
+|                    1|[Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)  |                    1|[Narset, Parter of Veils](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460988)|
+|                    2|[Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)            |                    1|[Thrashing Brontodon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456570)    |
+|                    2|[Unsummon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=136218)          |                    2|[Narset, Parter of Veils](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460988)|
+|                    2|[Fabled Passage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473206)    |                    2|[Sorcerous Spyglass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435407)     |
+|                    2|[Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)  |                    2|[Thrashing Brontodon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456570)    |
+|                    3|[Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)  |                    3|[Thrashing Brontodon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456570)    |
+|                    3|[Wildborn Preserver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473144)|                    3|[Sorcerous Spyglass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435407)     |
+|                    4|[Sinister Sabotage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452804) |                    4|[Aether Gust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466796)            |
+|                    8|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)            |                    4|[Sorcerous Spyglass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435407)     |
+|                    3|[Unsummon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=136218)          |                    3|[Aether Gust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466796)            |
+

@@ -3,9 +3,6 @@
 1 Mutavault
 2 Mutavault
 1 Mountain
-1 Whirler Rogue
-3 Stonecoil Serpent
-4 Stonecoil Serpent
 2 Mountain
 3 Mountain
 4 Mountain
@@ -24,23 +21,19 @@
 1 Rekindling Phoenix
 1 Chandra, Torch of Defiance
 1 Flamewake Phoenix
-1 Wandering Fumarole
-2 Chandra, Torch of Defiance
 2 Bonecrusher Giant
+2 Chandra, Torch of Defiance
 2 Elder Deep-Fiend
 2 Lightning Axe
 2 Kozilek's Return
 2 Brazen Borrower
 2 Rekindling Phoenix
-2 Wandering Fumarole
 2 Flamewake Phoenix
 3 Bonecrusher Giant
 3 Brazen Borrower
 3 Kozilek's Return
 3 Elder Deep-Fiend
-3 Mutavault
 3 Lightning Axe
-3 Wandering Fumarole
 3 Flamewake Phoenix
 3 Rekindling Phoenix
 4 Bonecrusher Giant
@@ -49,6 +42,10 @@
 4 Elder Deep-Fiend
 4 Flamewake Phoenix
 4 Rekindling Phoenix
+1 Whirler Rogue
+3 Stonecoil Serpent
+4 Stonecoil Serpent
+3 Sulfur Falls
 1 Treasure Cruise
 1 Stormchaser Mage
 1 Soul-Scar Mage
@@ -68,11 +65,20 @@
 4 Opt
 4 Monastery Swiftspear
 4 Soul-Scar Mage
+1 Wandering Fumarole
+2 Wandering Fumarole
+3 Mutavault
+3 Wandering Fumarole
+4 Lightning Axe
+1 The Royal Scions
+2 The Royal Scions
+3 The Royal Scions
+3 Island
+4 The Royal Scions
 1 Wizard's Lightning
 2 Wizard's Lightning
 3 Treasure Cruise
 3 Wizard's Lightning
-3 Sulfur Falls
 4 Sulfur Falls
 4 Wizard's Lightning
 4 Treasure Cruise
@@ -85,6 +91,8 @@
 5 Mountain
 6 Mountain
 1 Smash to Smithereens
+1 Champion of Wits
+2 Champion of Wits
 1 Sanctum of Ugin
 1 Stubborn Denial
 2 Stubborn Denial
@@ -96,20 +104,14 @@
 2 Renegade Tactics
 3 Shock
 4 Shock
-1 Champion of Wits
-2 Champion of Wits
-4 Lightning Axe
-1 The Royal Scions
 1 Risk Factor
 1 Lightning Strike
-2 The Royal Scions
 2 Risk Factor
 2 Lightning Strike
-3 The Royal Scions
-3 Island
 3 Lightning Strike
-4 The Royal Scions
 4 Lightning Strike
+4 Island
+5 Island
 1 Finale of Promise
 1 Temple of Epiphany
 1 Incendiary Flow

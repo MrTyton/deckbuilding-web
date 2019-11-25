@@ -49,7 +49,7 @@
 |                    2|[Vendilion Clique](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442065)   |                    1|[Spell Snare](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446100)               |
 |                    3|[Snow-Covered Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121130)|                    2|[Saheeli, Sublime Artificer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461161)|
 |                    4|[Snow-Covered Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121130)|                    3|[Blood Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45386)                 |
-|                     |                                                                                              |                    1|[Into the Story](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473012)            |
 |                     |                                                                                              |                    1|[Magma Spray](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426843)               |
+|                     |                                                                                              |                    1|[Into the Story](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473012)            |
 |                     |                                                                                              |                    2|[Into the Story](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473012)            |
 

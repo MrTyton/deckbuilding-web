@@ -2,7 +2,7 @@
 
 #### [Export MTGO List](../collection/Mono-Blue%20Tempo/Mono-Blue%20Tempo.txt)
 #### [Export Arena List](../collection/Mono-Blue%20Tempo/Mono-Blue%20Tempo_arena.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Brazen%20Borrower%0A4%09Brineborn%20Cutthroat%0A2%09Castle%20Vantress%0A3%09Essence%20Capture%0A2%09Gadwick,%20the%20Wizened%0A4%09Hypnotic%20Sprite%0A20%09Island%0A4%09Opt%0A2%09Pteramander%0A4%09Quench%0A3%09Sinister%20Sabotage%0A4%09Spectral%20Sailor%0A4%09Unsummon&deckside=4%09Aether%20Gust%0A1%09Mu%20Yanling,%20Sky%20Dancer%0A3%09Mystical%20Dispute%0A2%09Negate%0A2%09Sorcerous%20Spyglass%0A3%09Stolen%20by%20the%20Fae)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Brazen%20Borrower%0A4%09Brineborn%20Cutthroat%0A2%09Castle%20Vantress%0A3%09Essence%20Capture%0A2%09Gadwick,%20the%20Wizened%0A4%09Hypnotic%20Sprite%0A20%09Island%0A4%09Opt%0A2%09Pteramander%0A4%09Quench%0A3%09Sinister%20Sabotage%0A4%09Spectral%20Sailor%0A4%09Unsummon&deckside=4%09Aether%20Gust%0A2%09Heart-Piercer%20Bow%0A2%09Mu%20Yanling,%20Sky%20Dancer%0A3%09Mystical%20Dispute%0A2%09Negate%0A2%09Sorcerous%20Spyglass)
 # Maindeck
 
 |                                          Creature (20)                                          |                                         Instant (18)                                         |                                         Land (22)                                          |
@@ -17,9 +17,18 @@
 
 # Sideboard
 
-|                                         Artifact (2)                                          |                                         Instant (9)                                         |                                         Planeswalker (1)                                          |                                         Sorcery (3)                                          |
-|-----------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
-|2 [Sorcerous Spyglass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435407)|4 [Aether Gust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466796)     |1 [Mu Yanling, Sky Dancer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466822)|3 [Stolen by the Fae](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473028)|
-|                                                                                               |3 [Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)|                                                                                                   |                                                                                              |
-|                                                                                               |2 [Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)          |                                                                                                   |                                                                                              |
+|                                         Artifact (4)                                          |                                         Instant (9)                                         |                                         Planeswalker (2)                                          |
+|-----------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
+|2 [Heart-Piercer Bow](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386551) |4 [Aether Gust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466796)     |2 [Mu Yanling, Sky Dancer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466822)|
+|2 [Sorcerous Spyglass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435407)|3 [Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)|                                                                                                   |
+|                                                                                               |2 [Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)          |                                                                                                   |
+
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                  Maindeck Card                                  |*n*<sup>th</sup> copy|                                       Sideboard Card                                       |
+|--------------------:|---------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------|
+|                   21|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)|                    1|[Stolen by the Fae](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473028)|
+|                     |                                                                                 |                    2|[Stolen by the Fae](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473028)|
+|                     |                                                                                 |                    3|[Stolen by the Fae](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473028)|
 

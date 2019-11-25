@@ -1,21 +1,9 @@
-2 Kiora, Behemoth Beckoner
-2 Glorybringer
-3 Bonecrusher Giant
-3 Glorybringer
-3 Kiora, Behemoth Beckoner
-4 Bonecrusher Giant
-4 Glorybringer
-1 Once Upon a Time
-2 Once Upon a Time
-3 Once Upon a Time
-4 Bloodbraid Elf
-1 Tarmogoyf
-1 Ghost Quarter
-2 Tarmogoyf
-3 Tarmogoyf
-3 Lightning Bolt
-4 Lightning Bolt
-4 Tarmogoyf
+1 Mountain
+2 Stomping Ground
+1 Tireless Tracker
+1 Kessig Wolf Run
+2 Tireless Tracker
+3 Tireless Tracker
 1 Eldrazi Temple
 1 Thought-Knot Seer
 1 Reality Smasher
@@ -28,54 +16,44 @@
 4 Eldrazi Temple
 4 Thought-Knot Seer
 4 Reality Smasher
-1 Questing Beast
-1 Trinisphere
-1 Stormbreath Dragon
-1 Stone Rain
-1 Chandra, Torch of Defiance
-2 Questing Beast
-2 Trinisphere
-2 Stone Rain
-3 Pillage
-3 Stone Rain
-4 Stomping Ground
-1 Nykthos, Shrine to Nyx
-1 Courser of Kruphix
-1 Eternal Witness
-1 Wistful Selkie
-1 Ruric Thar, the Unbowed
-1 Acidic Slime
-1 Genesis Hydra
-1 Garruk Wildspeaker
-1 Craterhoof Behemoth
-1 Voracious Hydra
-1 Burning-Tree Emissary
-1 Scavenging Ooze
-1 Oath of Nissa
-2 Garruk Wildspeaker
-2 Nykthos, Shrine to Nyx
-2 Genesis Hydra
-2 Voracious Hydra
-2 Oath of Nissa
-2 Burning-Tree Emissary
-2 Eternal Witness
-3 Oath of Nissa
-3 Eternal Witness
-3 Burning-Tree Emissary
-3 Nykthos, Shrine to Nyx
-3 Garruk Wildspeaker
-4 Burning-Tree Emissary
-4 Oath of Nissa
-4 Nykthos, Shrine to Nyx
-4 Garruk Wildspeaker
+1 Lightning Bolt
+2 Lightning Bolt
+1 Grove of the Burnwillows
+1 Bonecrusher Giant
+1 Noble Hierarch
+1 Boreal Druid
+1 Glorybringer
+1 Kiora, Behemoth Beckoner
+1 Karplusan Forest
+1 Domri, Anarch of Bolas
+2 Grove of the Burnwillows
+2 Bonecrusher Giant
+2 Noble Hierarch
+2 Kiora, Behemoth Beckoner
+2 Domri, Anarch of Bolas
+2 Karplusan Forest
+2 Glorybringer
+3 Grove of the Burnwillows
+3 Bonecrusher Giant
+3 Karplusan Forest
+3 Birds of Paradise
+3 Glorybringer
+3 Kiora, Behemoth Beckoner
+3 Noble Hierarch
+4 Grove of the Burnwillows
+4 Bonecrusher Giant
+4 Birds of Paradise
+4 Glorybringer
+4 Karplusan Forest
+4 Noble Hierarch
 1 Simian Spirit Guide
 1 Blast Zone
 1 Wastes
+1 Mutavault
 1 Serum Powder
 1 Dismember
 1 Blinkmoth Nexus
 1 Endless One
-1 Mutavault
 1 Matter Reshaper
 1 Scavenger Grounds
 1 Eternal Scourge
@@ -83,14 +61,14 @@
 1 Zhalfirin Void
 1 Chalice of the Void
 2 Simian Spirit Guide
+2 Mutavault
 2 Blast Zone
 2 Serum Powder
 2 Dismember
-2 Zhalfirin Void
 2 Eternal Scourge
 2 Matter Reshaper
-2 Mutavault
 2 Chalice of the Void
+2 Zhalfirin Void
 2 Eldrazi Mimic
 2 Blinkmoth Nexus
 3 Mutavault
@@ -103,62 +81,49 @@
 3 Chalice of the Void
 4 Once Upon a Time
 4 Dismember
+4 Chalice of the Void
 4 Eternal Scourge
 4 Eldrazi Mimic
 4 Zhalfirin Void
 4 Serum Powder
-4 Chalice of the Void
-1 Grove of the Burnwillows
-1 Noble Hierarch
-1 Boreal Druid
-1 Karplusan Forest
-2 Grove of the Burnwillows
-2 Karplusan Forest
-2 Noble Hierarch
-3 Grove of the Burnwillows
-3 Birds of Paradise
-3 Karplusan Forest
-3 Noble Hierarch
-4 Grove of the Burnwillows
-4 Birds of Paradise
-4 Karplusan Forest
-4 Noble Hierarch
-1 Tarfire
-1 Snow-Covered Forest
-1 Goblin Rabblemaster
-1 Banefire
-1 Snow-Covered Mountain
-2 Hexdrinker
-2 Snow-Covered Mountain
-2 Goblin Rabblemaster
-2 Snow-Covered Forest
-3 Snow-Covered Forest
-3 Goblin Rabblemaster
-4 Wrenn and Six
-4 Blood Moon
-4 Snow-Covered Forest
-1 Magus of the Moon
-1 Obstinate Baloth
-1 Vengevine
-1 Gruul Spellbreaker
-2 Obstinate Baloth
-2 Magus of the Moon
-2 Gruul Spellbreaker
-2 Vengevine
-3 Magus of the Moon
-3 Vengevine
-4 Magus of the Moon
-4 Vengevine
-8 Forest
+1 Pillage
+2 Pillage
+1 Questing Beast
+1 Trinisphere
+1 Seasoned Pyromancer
+1 Blood Moon
+1 Stormbreath Dragon
+1 Stone Rain
+1 Chandra, Torch of Defiance
+1 Wrenn and Six
+1 Hexdrinker
+2 Seasoned Pyromancer
+2 Blood Moon
+2 Questing Beast
+2 Trinisphere
+2 Wrenn and Six
+2 Stone Rain
+3 Seasoned Pyromancer
+3 Blood Moon
+3 Wrenn and Six
+3 Pillage
+3 Stomping Ground
+3 Stone Rain
+4 Seasoned Pyromancer
+4 Stomping Ground
+7 Forest
 1 Copperline Gorge
 1 Life from the Loam
 1 Raging Ravine
 1 Merchant of the Vale
+1 Tarmogoyf
 1 Magmatic Sinkhole
 1 Fire-Lit Thicket
+1 Ghost Quarter
+1 Forgotten Cave
 1 Countryside Crusher
 1 Flame Jab
-1 Forgotten Cave
+1 Bloodbraid Elf
 1 Seismic Assault
 1 Tranquil Thicket
 1 Treetop Village
@@ -166,10 +131,12 @@
 2 Magmatic Sinkhole
 2 Copperline Gorge
 2 Merchant of the Vale
+2 Tarmogoyf
 2 Tranquil Thicket
-2 Fire-Lit Thicket
 2 Countryside Crusher
 2 Forgotten Cave
+2 Bloodbraid Elf
+2 Fire-Lit Thicket
 2 Ghost Quarter
 2 Mountain
 2 Raging Ravine
@@ -177,12 +144,18 @@
 2 Seismic Assault
 3 Copperline Gorge
 3 Life from the Loam
+3 Tarmogoyf
+3 Lightning Bolt
 3 Merchant of the Vale
 3 Countryside Crusher
 3 Flame Jab
 3 Ghost Quarter
 3 Seismic Assault
+3 Bloodbraid Elf
+4 Lightning Bolt
+4 Tarmogoyf
 4 Countryside Crusher
 4 Copperline Gorge
+4 Bloodbraid Elf
 4 Life from the Loam
 4 Ghost Quarter
