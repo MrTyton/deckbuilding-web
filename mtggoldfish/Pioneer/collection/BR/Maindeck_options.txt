@@ -1,38 +1,62 @@
+2 Dreadbore
+3 Kolaghan's Command
+3 Canyon Slough
+4 Canyon Slough
+4 Bonecrusher Giant
+1 Liliana, the Last Hope
+2 Liliana, the Last Hope
+4 Wild Slash
+1 Kalitas, Traitor of Ghet
+1 Stromkirk Condemned
+1 Falkenrath Gorger
+2 Stromkirk Condemned
+2 Falkenrath Gorger
+3 Stromkirk Condemned
+3 Falkenrath Gorger
+4 Falkenrath Gorger
+7 Swamp
+1 Scrapheap Scrounger
+1 Rankle, Master of Pranks
+2 Scrapheap Scrounger
+1 Bomat Courier
+2 Bomat Courier
+3 Bomat Courier
+4 Bomat Courier
+1 Goblin Chainwhirler
+2 Goblin Chainwhirler
+3 Goblin Chainwhirler
+4 Goblin Chainwhirler
+7 Mountain
+8 Mountain
+1 Castle Embereth
+1 Smoldering Marsh
 1 Murderous Rider
 2 Murderous Rider
+2 Smoldering Marsh
 3 Murderous Rider
-1 Kalitas, Traitor of Ghet
-2 Kalitas, Traitor of Ghet
-4 Swamp
-5 Swamp
-6 Swamp
-1 Ramunap Ruins
-2 Ramunap Ruins
-3 Smuggler's Copter
-6 Mountain
-1 Temple of Malice
-2 Temple of Malice
-3 Temple of Malice
-4 Temple of Malice
+3 Castle Locthwain
+3 Smoldering Marsh
 1 Young Pyromancer
 1 Field of Ruin
 1 Murderous Cut
 2 Young Pyromancer
+2 Kalitas, Traitor of Ghet
 2 Field of Ruin
-3 Field of Ruin
 3 Young Pyromancer
+3 Field of Ruin
 3 Kalitas, Traitor of Ghet
 4 Young Pyromancer
-1 Castle Embereth
-1 Smoldering Marsh
-2 Smoldering Marsh
-3 Canyon Slough
-3 Castle Locthwain
-3 Smoldering Marsh
-4 Canyon Slough
+1 Cast Down
+1 Legion Warboss
+2 Rankle, Master of Pranks
+2 Legion Warboss
+3 Legion Warboss
+3 Scrapheap Scrounger
+3 Foreboding Ruins
+4 Legion Warboss
+4 Scrapheap Scrounger
+4 Foreboding Ruins
 1 Judith, the Scourge Diva
-1 Scrapheap Scrounger
-1 Rankle, Master of Pranks
 1 Draconic Roar
 1 Goblin Rabblemaster
 1 Fabled Passage
@@ -41,7 +65,6 @@
 1 Foul-Tongue Invocation
 1 Bloodsoaked Champion
 2 Judith, the Scourge Diva
-2 Scrapheap Scrounger
 2 Bloodsoaked Champion
 2 Draconic Roar
 2 Kolaghan, the Storm's Fury
@@ -56,103 +79,87 @@
 1 Banefire
 1 Karn's Bastion
 1 Blast Zone
-1 Imminent Doom
 1 Walking Ballista
 1 Lightning Strike
+1 Imminent Doom
 1 Eternal Scourge
-1 Bomat Courier
+1 Ramunap Ruins
 2 Blast Zone
-2 Walking Ballista
 2 Hazoret the Fervent
-2 Bomat Courier
+2 Lightning Strike
 2 Karn's Bastion
 2 Banefire
 2 Imminent Doom
-2 Lightning Strike
-3 Bomat Courier
+2 Walking Ballista
+2 Ramunap Ruins
 3 Lightning Strike
 3 Imminent Doom
-4 Bomat Courier
 4 Lightning Strike
 4 Imminent Doom
-1 Ifnir Deadlands
-1 Scavenger Grounds
-1 Reality Smasher
-1 Eldrazi Obligator
-1 Thought-Knot Seer
 1 Mutavault
-2 Eldrazi Obligator
-2 Ifnir Deadlands
-2 Reality Smasher
-2 Thought-Knot Seer
-2 Urborg, Tomb of Yawgmoth
+1 Unclaimed Territory
+1 Drana, Liberator of Malakir
+1 Sorin, Imperious Bloodlord
+1 Olivia, Mobilized for War
+1 Champion of Dusk
+2 Unclaimed Territory
+2 Champion of Dusk
+2 Drana, Liberator of Malakir
+2 Sorin, Imperious Bloodlord
+2 Olivia, Mobilized for War
 2 Mutavault
-3 Eldrazi Obligator
-3 Ramunap Ruins
-3 Ifnir Deadlands
-3 Reality Smasher
-3 Thought-Knot Seer
+3 Unclaimed Territory
+3 Sorin, Imperious Bloodlord
 3 Mutavault
-4 Eldrazi Obligator
-4 Mutavault
-4 Reality Smasher
-4 Thought-Knot Seer
-4 Ramunap Ruins
+3 Champion of Dusk
+4 Unclaimed Territory
+4 Champion of Dusk
+4 Sorin, Imperious Bloodlord
+4 Stromkirk Condemned
 1 Asylum Visitor
 1 Voldaren Pariah
-1 Falkenrath Gorger
-1 Stromkirk Condemned
 1 Bloodhall Priest
 1 Key to the City
 1 Fiery Temper
 2 Asylum Visitor
 2 Key to the City
-2 Stromkirk Condemned
 2 Bloodhall Priest
 2 Fiery Temper
-2 Falkenrath Gorger
-3 Stromkirk Condemned
 3 Bloodhall Priest
-3 Falkenrath Gorger
 3 Fiery Temper
 3 Asylum Visitor
-4 Smuggler's Copter
 4 Fiery Temper
 4 Bloodhall Priest
-4 Falkenrath Gorger
-7 Swamp
 8 Swamp
 1 Burning-Tree Emissary
 1 Rix Maadi Reveler
 1 Nykthos, Shrine to Nyx
+1 Temple of Malice
 1 Ahn-Crop Crasher
 1 Earthshaker Khenra
-1 Wily Goblin
 1 Exava, Rakdos Blood Witch
-1 Goblin Chainwhirler
+1 Wily Goblin
 2 Burning-Tree Emissary
 2 Rix Maadi Reveler
-2 Nykthos, Shrine to Nyx
 2 Cut/Ribbons
+2 Nykthos, Shrine to Nyx
 2 Ahn-Crop Crasher
 2 Exava, Rakdos Blood Witch
-2 Goblin Chainwhirler
+2 Temple of Malice
 2 Wily Goblin
 2 Earthshaker Khenra
 3 Burning-Tree Emissary
-3 Rix Maadi Reveler
 3 Nykthos, Shrine to Nyx
-3 Goblin Chainwhirler
+3 Rix Maadi Reveler
 3 Earthshaker Khenra
 3 Cut/Ribbons
 3 Wily Goblin
+3 Temple of Malice
 3 Ahn-Crop Crasher
+4 Nykthos, Shrine to Nyx
 4 Burning-Tree Emissary
 4 Rix Maadi Reveler
-4 Nykthos, Shrine to Nyx
-4 Goblin Chainwhirler
+4 Temple of Malice
 4 Cut/Ribbons
-7 Mountain
-8 Mountain
 9 Mountain
 10 Mountain

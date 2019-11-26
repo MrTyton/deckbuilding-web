@@ -1,0 +1,23 @@
+# U
+
+#### [Export MTGO List](../collection/U/U.txt)
+#### [Export Arena List](../collection/U/U_arena.txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=2%09Blast%20Zone%0A4%09Brazen%20Borrower%0A4%09Brineborn%20Cutthroat%0A2%09Castle%20Vantress%0A2%09Chemister's%20Insight%0A4%09Essence%20Capture%0A4%09Faerie%20Vandal%0A18%09Island%0A4%09Negate%0A4%09Opt%0A4%09Pteramander%0A4%09Sinister%20Sabotage%0A4%09Winged%20Words&deckside=4%09Aether%20Gust%0A1%09Blast%20Zone%0A4%09Cerulean%20Drake%0A3%09Mystical%20Dispute%0A3%09Sorcerous%20Spyglass)
+# Maindeck
+
+|                                         Creature (16)                                          |                                          Instant (18)                                          |                                         Land (22)                                          |                                       Sorcery (4)                                       |
+|------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
+|4 [Brazen Borrower](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473001)    |2 [Chemister's Insight](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452782)|2 [Blast Zone](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461171)     |4 [Winged Words](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466834)|
+|4 [Brineborn Cutthroat](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466804)|4 [Essence Capture](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457181)    |2 [Castle Vantress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473204)|                                                                                         |
+|4 [Faerie Vandal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473007)      |4 [Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)             |18 [Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)        |                                                                                         |
+|4 [Pteramander](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457191)        |4 [Opt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442948)                |                                                                                            |                                                                                         |
+|                                                                                                |4 [Sinister Sabotage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452804)  |                                                                                            |                                                                                         |
+
+
+# Sideboard
+
+|                                         Artifact (3)                                          |                                       Creature (4)                                        |                                         Instant (7)                                         |                                       Land (1)                                        |
+|-----------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
+|3 [Sorcerous Spyglass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435407)|4 [Cerulean Drake](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466807)|4 [Aether Gust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466796)     |1 [Blast Zone](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461171)|
+|                                                                                               |                                                                                           |3 [Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)|                                                                                       |
+

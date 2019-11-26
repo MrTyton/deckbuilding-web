@@ -24,3 +24,22 @@
 |3 [Gate to the Afterlife](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426930)|1 [God-Eternal Bontu](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461019) |4 [Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)      |
 |2 [God-Pharaoh's Gift](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430850)   |1 [God-Eternal Oketra](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460943)|4 [Fragmentize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417587)|
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                         Maindeck Card                                         |*n*<sup>th</sup> copy|                                          Sideboard Card                                           |
+|--------------------:|-----------------------------------------------------------------------------------------------|--------------------:|---------------------------------------------------------------------------------------------------|
+|                    1|[Caves of Koilos](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129497)     |                    1|[Sorin, Solemn Visitor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386672)   |
+|                    1|[Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)        |                    1|[Blightbeetle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466841)            |
+|                    1|[Lord of the Accursed](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426801)|                    1|[Gideon, Ally of Zendikar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401897)|
+|                    2|[Lord of the Accursed](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426801)|                    1|[Ashiok, Dream Render](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461155)    |
+|                    2|[Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)        |                    1|[Murderous Rider](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473059)         |
+|                    3|[Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)        |                    1|[Liliana, the Last Hope](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414388)  |
+|                    3|[Lord of the Accursed](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426801)|                    1|[Fatal Push](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423724)              |
+|                    4|[Lord of the Accursed](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426801)|                    2|[Sorin, Solemn Visitor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386672)   |
+|                    4|[Lazotep Reaver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461023)      |                    2|[Blightbeetle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466841)            |
+|                    4|[Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)        |                    2|[Gideon, Ally of Zendikar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401897)|
+|                    5|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)               |                    2|[Ashiok, Dream Render](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461155)    |
+|                     |                                                                                               |                    3|[Ashiok, Dream Render](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461155)    |
+|                     |                                                                                               |                    2|[Fatal Push](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423724)              |
+

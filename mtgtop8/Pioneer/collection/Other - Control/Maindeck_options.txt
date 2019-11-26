@@ -31,8 +31,8 @@
 1 Clash of Wills
 2 Clash of Wills
 1 Isolated Chapel
-2 Isolated Chapel
 2 Detention Sphere
+2 Isolated Chapel
 3 Teferi, Hero of Dominaria
 3 Detention Sphere
 2 Oath of Kaya
@@ -43,8 +43,8 @@
 3 Godless Shrine
 1 Day's Undoing
 2 Day's Undoing
-3 Day's Undoing
 3 Narset, Parter of Veils
+3 Day's Undoing
 4 Narset, Parter of Veils
 1 Forest
 2 Temple of Deceit
@@ -88,10 +88,10 @@
 2 Abrupt Decay
 1 Dark Petition
 1 Hissing Quagmire
+1 Seasons Past
 1 Read the Bones
 1 Temple of Malady
 1 Sign in Blood
-1 Seasons Past
 2 Assassin's Trophy
 2 Dark Petition
 3 Dark Petition
@@ -100,8 +100,8 @@
 1 Field of the Dead
 1 Hour of Promise
 2 Field of the Dead
-1 Growth Spiral
 1 Breeding Pool
+1 Growth Spiral
 2 Growth Spiral
 3 Growth Spiral
 4 Growth Spiral
@@ -129,26 +129,13 @@
 2 Censor
 2 Absorb
 3 Plains
-1 Dragonmaster Outcast
-1 Magma Spray
-1 Nicol Bolas, the Ravager
-2 Disallow
-2 Nicol Bolas, the Ravager
-3 Disallow
-3 Torrential Gearhulk
-3 Nicol Bolas, the Ravager
-3 Kolaghan's Command
-4 Disallow
 1 Approach of the Second Sun
 4 Detention Sphere
-1 The Scarab God
-3 Liliana, the Last Hope
-4 Dig Through Time
 1 Disinformation Campaign
+1 Starfield of Nyx
 1 Trial of Ambition
 1 Doom Foretold
 1 The Eldest Reborn
-1 Starfield of Nyx
 1 Demonic Pact
 1 Temple of Silence
 2 Doom Foretold
@@ -159,15 +146,65 @@
 4 Oath of Kaya
 4 Doom Foretold
 4 Godless Shrine
+1 Llanowar Wastes
+1 Overgrown Tomb
+1 Woodland Cemetery
+1 Reliquary Tower
+1 Arch of Orazca
+1 The Elderspell
+1 Bontu's Last Reckoning
+1 Nissa's Renewal
+1 Torment of Hailfire
+1 Walking Ballista
+1 Mastermind's Acquisition
+2 Overgrown Tomb
+2 Woodland Cemetery
+2 Seasons Past
+2 Read the Bones
+3 Overgrown Tomb
+3 Woodland Cemetery
+4 Overgrown Tomb
+4 Languish
+1 Dragonmaster Outcast
+1 Magma Spray
+1 Nicol Bolas, the Ravager
+2 Disallow
+2 Nicol Bolas, the Ravager
+3 Disallow
+3 Torrential Gearhulk
+3 Nicol Bolas, the Ravager
+3 Kolaghan's Command
+4 Disallow
+1 Blast Zone
+2 Blast Zone
+1 Cyclonic Rift
+1 Lumbering Falls
+1 Wilderness Reclamation
+1 Nexus of Fate
+1 Supreme Will
+1 Settle the Wreckage
+1 Temple Garden
+2 Lumbering Falls
+2 Breeding Pool
+2 Wilderness Reclamation
+2 Supreme Will
+2 Search for Azcanta
+2 Settle the Wreckage
+2 Temple Garden
+3 Wilderness Reclamation
+3 Temple Garden
+3 Lumbering Falls
+4 Wilderness Reclamation
+4 Temple Garden
 1 Temple of Epiphany
 1 Sulfur Falls
 1 Deafening Clarion
 1 Oko, Thief of Crowns
 2 Oko, Thief of Crowns
-1 Clifftop Retreat
 1 Nicol Bolas, Dragon-God
-1 Oath of Teferi
 1 Heart of Kiran
+1 Oath of Teferi
+1 Clifftop Retreat
 1 Fires of Invention
 1 Temple of Triumph
 1 Nicol Bolas, God-Pharaoh
@@ -177,10 +214,10 @@
 1 Drawn from Dreams
 2 Temple of Enlightenment
 2 Fae of Wishes
-2 Nicol Bolas, Dragon-God
+2 Heart of Kiran
 2 Deafening Clarion
 2 Jace, Architect of Thought
-2 Heart of Kiran
+2 Nicol Bolas, Dragon-God
 2 Fires of Invention
 2 Temple of Triumph
 2 Sacred Foundry
@@ -195,15 +232,38 @@
 3 Sacred Foundry
 4 Interplanar Beacon
 4 Fires of Invention
-1 Notion Thief
-1 Doom Blade
+1 The Royal Scions
+1 Treasure Cruise
+1 Wild Slash
+1 Dragonskull Summit
+1 Dreadhorde Arcanist
+1 Thing in the Ice
+1 Young Pyromancer
+2 The Royal Scions
+2 Wild Slash
+2 Thing in the Ice
+2 Dreadhorde Arcanist
+2 Young Pyromancer
+2 Dragonskull Summit
+3 Wild Slash
+3 Thing in the Ice
+3 Young Pyromancer
+3 Spirebluff Canal
+3 Dreadhorde Arcanist
+4 Steam Vents
+4 Wild Slash
+4 Thing in the Ice
+4 Spirebluff Canal
+4 Dreadhorde Arcanist
 1 Ritual of Soot
+1 Doom Blade
 1 Dark Deal
 1 Geier Reach Sanitarium
+1 Notion Thief
 2 Castle Vantress
 2 Geier Reach Sanitarium
-2 Doom Blade
 2 Ritual of Soot
+2 Doom Blade
 2 Notion Thief
 2 Dark Deal
 3 Temple of Deceit
@@ -218,76 +278,16 @@
 4 Day's Undoing
 4 Doom Blade
 4 Notion Thief
-1 Llanowar Wastes
-1 Overgrown Tomb
-1 Woodland Cemetery
-1 Reliquary Tower
-1 Arch of Orazca
-1 The Elderspell
-1 Bontu's Last Reckoning
-1 Nissa's Renewal
-1 Torment of Hailfire
-1 Walking Ballista
-1 Mastermind's Acquisition
-2 Overgrown Tomb
-2 Woodland Cemetery
-2 Read the Bones
-2 Seasons Past
-3 Overgrown Tomb
-3 Woodland Cemetery
-4 Overgrown Tomb
-4 Languish
-1 Thing in the Ice
-1 Treasure Cruise
-1 The Royal Scions
-1 Wild Slash
-1 Dragonskull Summit
-1 Dreadhorde Arcanist
-1 Young Pyromancer
-2 Thing in the Ice
-2 The Royal Scions
-2 Wild Slash
-2 Dreadhorde Arcanist
-2 Young Pyromancer
-2 Dragonskull Summit
-3 Thing in the Ice
-3 Wild Slash
-3 Young Pyromancer
-3 Spirebluff Canal
-3 Dreadhorde Arcanist
-4 Wild Slash
-4 Thing in the Ice
-4 Spirebluff Canal
-4 Dreadhorde Arcanist
-4 Steam Vents
-1 Blast Zone
-2 Blast Zone
-1 Cyclonic Rift
-1 Settle the Wreckage
-1 Lumbering Falls
-1 Wilderness Reclamation
-1 Temple Garden
-1 Nexus of Fate
-1 Supreme Will
-2 Search for Azcanta
-2 Breeding Pool
-2 Lumbering Falls
-2 Settle the Wreckage
-2 Supreme Will
-2 Wilderness Reclamation
-2 Temple Garden
-3 Temple Garden
-3 Wilderness Reclamation
-3 Lumbering Falls
-4 Temple Garden
-4 Wilderness Reclamation
+1 The Scarab God
+3 Liliana, the Last Hope
+4 Dig Through Time
 1 Botanical Sanctum
 1 Sylvan Caryatid
-1 Nomad Outpost
 1 Rogue Refiner
-1 Opulent Palace
 1 Attune with Aether
+1 Nomad Outpost
 1 Aether Hub
+1 Opulent Palace
 1 Gilded Goose
 1 Bring to Light
 1 Niv-Mizzet Reborn
@@ -295,54 +295,54 @@
 1 Mana Confluence
 1 Tolsimir, Friend to Wolves
 2 Blooming Marsh
-2 Mana Confluence
 2 Rogue Refiner
+2 Attune with Aether
+2 Mana Confluence
 2 Bring to Light
-2 Opulent Palace
 2 Gilded Goose
 2 Botanical Sanctum
-2 Attune with Aether
 2 Aether Hub
+2 Opulent Palace
 2 Niv-Mizzet Reborn
 3 Blooming Marsh
 3 Rogue Refiner
-3 Bring to Light
 3 Niv-Mizzet Reborn
 3 Gilded Goose
+3 Bring to Light
 3 Oko, Thief of Crowns
 3 Aether Hub
 4 Blooming Marsh
-4 Rogue Refiner
 4 Gilded Goose
+4 Rogue Refiner
 4 Aether Hub
 1 Stomping Ground
 1 Scapeshift
-1 Yavimaya Coast
-1 Strategic Planning
+1 Sheltered Thicket
 1 Splendid Reclamation
 1 Hammer of Purphoros
 1 Temple of Mystery
 1 Izzet Charm
 1 Shivan Reef
-1 Sheltered Thicket
+1 Yavimaya Coast
 1 Pieces of the Puzzle
 1 Game Trail
 1 Magmatic Insight
+1 Strategic Planning
 1 Hinterland Harbor
 1 Rootbound Crag
 2 Scapeshift
-2 Strategic Planning
 2 Hour of Promise
-2 Radiant Flames
+2 Strategic Planning
 2 Mountain
 2 Magmatic Insight
 2 Splendid Reclamation
+2 Radiant Flames
 2 Izzet Charm
 2 Pieces of the Puzzle
 3 Hour of Promise
-3 Field of the Dead
 3 Splendid Reclamation
 3 Pieces of the Puzzle
+3 Field of the Dead
 3 Magmatic Insight
 4 Pieces of the Puzzle
 4 Magmatic Insight
@@ -351,17 +351,17 @@
 3 Forest
 4 Forest
 1 Nissa, Vastwood Seer
-1 Grasp of Darkness
 1 Garruk, Cursed Huntsman
+1 Grasp of Darkness
 1 Collective Brutality
-1 To the Slaughter
 1 Crypt Incursion
+1 To the Slaughter
 1 Tireless Tracker
 1 Vraska, Relic Seeker
 2 Grasp of Darkness
+2 Temple of Malady
 2 Tireless Tracker
 2 Hissing Quagmire
-2 Temple of Malady
 2 Nissa, Vastwood Seer
 3 Tireless Tracker
 3 Temple of Malady
@@ -371,21 +371,21 @@
 7 Swamp
 8 Swamp
 1 Sea Gate Wreckage
-1 Ulvenwald Hydra
 1 Explosive Vegetation
+1 Ulvenwald Hydra
 1 Sanctum of Ugin
 1 Shrine of the Forsaken Gods
 1 Nissa's Pilgrimage
+1 Dragonlord Atarka
 1 World Breaker
 1 Castle Garenbrig
 1 Llanowar Elves
 1 Elvish Mystic
 1 Ulamog, the Ceaseless Hunger
 1 Once Upon a Time
-1 Dragonlord Atarka
 2 Dragonlord Atarka
-2 Ulvenwald Hydra
 2 Explosive Vegetation
+2 Ulvenwald Hydra
 2 Nissa's Pilgrimage
 2 Sanctum of Ugin
 2 World Breaker
@@ -395,15 +395,15 @@
 2 Elvish Mystic
 2 Sylvan Caryatid
 2 Once Upon a Time
-3 World Breaker
-3 Dragonlord Atarka
 3 Explosive Vegetation
+3 World Breaker
+3 Ulvenwald Hydra
+3 Dragonlord Atarka
 3 Castle Garenbrig
 3 Nissa's Pilgrimage
 3 Llanowar Elves
 3 Elvish Mystic
 3 Sylvan Caryatid
-3 Ulvenwald Hydra
 3 Sanctum of Ugin
 3 Once Upon a Time
 3 Stomping Ground

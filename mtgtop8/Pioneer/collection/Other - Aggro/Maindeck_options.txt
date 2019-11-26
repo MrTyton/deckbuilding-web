@@ -18,8 +18,8 @@
 3 Spell Queller
 3 Hallowed Fountain
 3 Glacial Fortress
-4 Spell Queller
 4 Glacial Fortress
+4 Spell Queller
 4 Hallowed Fountain
 1 Port Town
 1 Empyrean Eagle
@@ -55,14 +55,14 @@
 2 Mutavault
 2 Spectral Sailor
 2 Curious Obsession
-3 Port Town
 3 Spell Pierce
 3 Spectral Sailor
+3 Port Town
 3 Curious Obsession
-4 Port Town
 4 Spell Pierce
 4 Spectral Sailor
 4 Curious Obsession
+4 Port Town
 2 Surrak, the Hunt Caller
 3 Smuggler's Copter
 4 Smuggler's Copter
@@ -128,9 +128,9 @@
 4 Elder Deep-Fiend
 1 Driven / Despair
 1 Narcomoeba
-2 Driven / Despair
 2 Mana Confluence
 2 Narcomoeba
+2 Driven / Despair
 2 Stitcher's Supplier
 3 Haunted Dead
 3 Stitcher's Supplier
@@ -202,8 +202,8 @@
 1 Spire of Industry
 1 Castle Locthwain
 1 Hostage Taker
-2 The Scarab God
 2 Hostage Taker
+2 The Scarab God
 3 The Scarab God
 1 Glowspore Shaman
 2 Glowspore Shaman
@@ -230,6 +230,15 @@
 3 Whirler Virtuoso
 4 Harnessed Lightning
 4 Whirler Virtuoso
+1 Collected Company
+1 Selfless Spirit
+2 Selfless Spirit
+2 Collected Company
+3 Selfless Spirit
+3 Collected Company
+4 Selfless Spirit
+4 Collected Company
+1 Kiora, Behemoth Beckoner
 1 Rosethorn Acolyte
 1 Vivien Reid
 1 Game Trail
@@ -241,17 +250,16 @@
 1 Borborygmos Enraged
 1 Geier Reach Sanitarium
 1 Enter the Infinite
-1 Kiora, Behemoth Beckoner
+2 Kiora, Behemoth Beckoner
 2 Rosethorn Acolyte
 2 Game Trail
 2 Domri Rade
 2 Possibility Storm
-2 Kiora, Behemoth Beckoner
 2 Captain Lannery Storm
 2 Walking Ballista
+3 Kiora, Behemoth Beckoner
 3 Mountain
 3 Possibility Storm
-3 Kiora, Behemoth Beckoner
 4 Possibility Storm
 1 Urborg, Tomb of Yawgmoth
 1 Hero's Downfall
@@ -269,43 +277,35 @@
 3 Tireless Tracker
 3 Fatal Push
 4 Fatal Push
-1 Collected Company
-1 Selfless Spirit
-2 Collected Company
-2 Selfless Spirit
-3 Collected Company
-3 Selfless Spirit
-4 Collected Company
-4 Selfless Spirit
 1 Hydroid Krasis
+1 Mass Manipulation
 1 Nykthos, Shrine to Nyx
 1 Nissa, Who Shakes the World
-1 Mass Manipulation
 1 Voracious Hydra
 2 Hydroid Krasis
 2 Mass Manipulation
 2 Voracious Hydra
 2 Nissa, Who Shakes the World
 3 Hinterland Harbor
+3 Hydroid Krasis
 3 Nissa, Who Shakes the World
 3 Voracious Hydra
-3 Hydroid Krasis
 4 Hydroid Krasis
 4 Nissa, Who Shakes the World
 1 Minister of Inquiries
-1 Gather the Pack
 1 Bloodsoaked Champion
+1 Gather the Pack
 1 Gurmag Angler
-2 Gather the Pack
 2 Gurmag Angler
+2 Gather the Pack
 4 Deathrite Shaman
 1 Blood Crypt
 1 Collective Brutality
-1 Hooting Mandrills
 1 Claim / Fame
-2 Hooting Mandrills
+1 Hooting Mandrills
 2 Collective Brutality
 2 Claim / Fame
+2 Hooting Mandrills
 3 Driven / Despair
 4 Llanowar Wastes
 4 Driven / Despair
@@ -350,7 +350,9 @@
 4 Toolcraft Exemplar
 1 Battlefield Forge
 1 Clifftop Retreat
+1 Gird for Battle
 1 Sacred Foundry
+1 Phalanx Leader
 1 Expedite
 1 Titan's Strength
 1 Reckless Rage
@@ -359,50 +361,48 @@
 1 Favored Hoplite
 1 Tenth District Legionnaire
 1 Defiant Strike
-1 Gird for Battle
 1 Gods Willing
 1 Monastery Swiftspear
-1 Phalanx Leader
 2 Battlefield Forge
 2 Clifftop Retreat
+2 Gird for Battle
+2 Phalanx Leader
 2 Sacred Foundry
 2 Expedite
 2 Titan's Strength
+2 Reckless Rage
 2 Favored Hoplite
-2 Gird for Battle
 2 Monastery Swiftspear
 2 Tenth District Legionnaire
-2 Phalanx Leader
 2 Gods Willing
 2 Inspiring Vantage
 2 Feather, the Redeemed
 2 Defiant Strike
-2 Reckless Rage
 3 Battlefield Forge
 3 Clifftop Retreat
 3 Sacred Foundry
-3 Reckless Rage
+3 Gird for Battle
 3 Expedite
 3 Titan's Strength
+3 Reckless Rage
 3 Inspiring Vantage
 3 Favored Hoplite
 3 Defiant Strike
-3 Gird for Battle
 3 Monastery Swiftspear
 3 Tenth District Legionnaire
 3 Feather, the Redeemed
 3 Gods Willing
 4 Inspiring Vantage
 4 Sacred Foundry
-4 Reckless Rage
+4 Gird for Battle
 4 Titan's Strength
 4 Expedite
+4 Reckless Rage
 4 Defiant Strike
 4 Tenth District Legionnaire
 4 Gods Willing
 4 Monastery Swiftspear
 4 Feather, the Redeemed
-4 Gird for Battle
 4 Favored Hoplite
 1 Declaration in Stone
 1 Archangel Avacyn
@@ -410,13 +410,13 @@
 1 Castle Ardenvale
 1 Irrigated Farmland
 2 Irrigated Farmland
+2 Archangel Avacyn
 2 Castle Ardenvale
 2 Declaration in Stone
-2 Archangel Avacyn
 2 Charming Prince
 3 Archangel Avacyn
 4 Teferi, Time Raveler
-4 Plains
 4 Gideon, Ally of Zendikar
+4 Plains
 5 Plains
 6 Plains

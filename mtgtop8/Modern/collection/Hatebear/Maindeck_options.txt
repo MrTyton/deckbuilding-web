@@ -1,22 +1,28 @@
+2 Phyrexian Revoker
+1 Sunbaked Canyon
+3 Silent Clearing
+1 Blade Splicer
+2 Blade Splicer
+1 Thraben Inspector
+3 Charming Prince
 2 Snow-Covered Plains
 3 Snow-Covered Plains
 4 Snow-Covered Plains
 5 Snow-Covered Plains
 1 Wastes
-1 Sunbaked Canyon
+1 Battlefield Forge
+2 Battlefield Forge
+2 Sunbaked Canyon
 1 Chalice of the Void
 1 Dismember
-1 Reality Smasher
 1 Gemstone Caverns
-1 Battlefield Forge
 1 Simian Spirit Guide
+1 Reality Smasher
 2 Chalice of the Void
 2 Reality Smasher
 2 Gemstone Caverns
-2 Battlefield Forge
 2 Simian Spirit Guide
 2 Dismember
-2 Sunbaked Canyon
 3 Chalice of the Void
 3 Dismember
 3 Sunbaked Canyon
@@ -27,26 +33,20 @@
 4 Reality Smasher
 4 Sunbaked Canyon
 4 Simian Spirit Guide
-3 Silent Clearing
+1 Horizon Canopy
 1 Swamp
 1 Tidehollow Sculler
-1 Caves of Koilos
 1 Concealed Courtyard
+1 Caves of Koilos
 2 Tidehollow Sculler
 2 Caves of Koilos
 2 Concealed Courtyard
 3 Concealed Courtyard
 3 Tidehollow Sculler
 3 Caves of Koilos
-1 Horizon Canopy
-1 Thraben Inspector
-3 Charming Prince
 1 Thalia, Heretic Cathar
-1 Restoration Angel
 1 Shefet Dunes
 6 Plains
-1 Blade Splicer
-2 Blade Splicer
 2 Restoration Angel
 3 Blade Splicer
 3 Restoration Angel
@@ -84,8 +84,8 @@
 1 Selfless Spirit
 1 Seachrome Coast
 1 Spell Queller
-1 Hallowed Fountain
 1 Deputy of Detention
+1 Hallowed Fountain
 1 Adarkar Wastes
 2 Spell Queller
 2 Hallowed Fountain
@@ -102,9 +102,9 @@
 2 Thraben Inspector
 2 Selfless Spirit
 1 Geier Reach Sanitarium
-1 Reflector Mage
 1 Geist of Saint Traft
 1 Lavinia, Azorius Renegade
+1 Reflector Mage
 1 Spirit of the Labyrinth
 1 Island
 1 Teferi, Time Raveler
@@ -137,6 +137,22 @@
 4 Spellstutter Sprite
 4 Deputy of Detention
 4 Adarkar Wastes
+1 Inspiring Vantage
+1 Snow-Covered Mountain
+1 Lightning Bolt
+1 Kiki-Jiki, Mirror Breaker
+1 Mountain
+1 Seasoned Pyromancer
+2 Inspiring Vantage
+2 Lightning Bolt
+2 Seasoned Pyromancer
+3 Inspiring Vantage
+3 Lightning Bolt
+3 Seasoned Pyromancer
+3 Battlefield Forge
+4 Battlefield Forge
+4 Lightning Bolt
+4 Inspiring Vantage
 1 Giant Killer
 1 Sword of Light and Shadow
 2 Ranger-Captain of Eos
@@ -145,9 +161,8 @@
 10 Snow-Covered Plains
 11 Snow-Covered Plains
 12 Snow-Covered Plains
-1 Birds of Paradise
-1 Razorverge Thicket
 1 Stirring Wildwood
+1 Razorverge Thicket
 1 Qasali Pridemage
 1 Loxodon Smiter
 1 Sigarda, Host of Herons
@@ -158,25 +173,26 @@
 1 Noble Hierarch
 1 Temple Garden
 1 Forest
+1 Birds of Paradise
 1 Gaddock Teeg
 1 Scavenging Ooze
-2 Birds of Paradise
 2 Razorverge Thicket
 2 Temple Garden
 2 Qasali Pridemage
 2 Aven Mindcensor
 2 Loxodon Smiter
 2 Noble Hierarch
-2 Forest
+2 Birds of Paradise
 2 Scavenging Ooze
 2 Voice of Resurgence
+2 Forest
 3 Forest
 3 Aven Mindcensor
 3 Voice of Resurgence
-3 Qasali Pridemage
 3 Horizon Canopy
-3 Temple Garden
 3 Thalia, Heretic Cathar
+3 Qasali Pridemage
+3 Temple Garden
 3 Noble Hierarch
 3 Razorverge Thicket
 4 Razorverge Thicket

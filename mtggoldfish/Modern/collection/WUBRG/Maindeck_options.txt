@@ -1,9 +1,9 @@
 1 Sacred Foundry
-1 Polluted Delta
-1 Snow-Covered Swamp
 1 Mirrodin Besieged
 1 Watery Grave
 1 Everflowing Chalice
+1 Polluted Delta
+1 Snow-Covered Swamp
 2 Polluted Delta
 3 Polluted Delta
 4 Polluted Delta
@@ -16,19 +16,19 @@
 3 Birds of Paradise
 4 Birds of Paradise
 1 Verdant Catacombs
+1 Dreadbore
 1 Huntmaster of the Fells
+1 Swamp
 1 Arid Mesa
 1 Izzet Charm
-1 Dreadbore
 1 Nahiri, the Harbinger
 1 Thought Erasure
 1 Inquisition of Kozilek
 1 Kess, Dissident Mage
-1 Assassin's Trophy
 1 Unmoored Ego
 1 Maelstrom Pulse
 1 Blood Crypt
-1 Swamp
+1 Plains
 1 Niv-Mizzet Reborn
 1 Godless Shrine
 1 Kolaghan's Command
@@ -37,20 +37,20 @@
 1 Eladamri's Call
 1 Pillar of the Paruns
 1 Bring to Light
-1 Plains
 1 Kaya's Guile
 1 Forest
 1 Supreme Verdict
+1 Assassin's Trophy
 2 Verdant Catacombs
 2 Izzet Charm
 2 Arid Mesa
 2 Kaya's Guile
 2 Inquisition of Kozilek
-2 Assassin's Trophy
 2 Pillar of the Paruns
 2 Bring to Light
 2 Windswept Heath
 2 Wrenn and Six
+2 Assassin's Trophy
 2 Niv-Mizzet Reborn
 2 Lightning Helix
 2 Kolaghan's Command
@@ -64,15 +64,75 @@
 4 Lightning Helix
 4 Pillar of the Paruns
 4 Windswept Heath
-1 Snow-Covered Forest
+1 Botanical Sanctum
+1 Waterlogged Grove
+1 Simian Spirit Guide
+1 Neoform
+1 Street Wraith
+1 Dissenter's Deliverance
+1 Eldritch Evolution
+1 Pact of Negation
+1 Veil of Summer
+1 Life Goes On
+1 Serum Visions
+1 Summoner's Pact
+1 Edge of Autumn
+1 Griselbrand
+1 Wild Cantor
+1 Laboratory Maniac
+1 Chancellor of the Tangle
+1 Nourishing Shoal
+1 Island
+1 Allosaurus Rider
+1 Gemstone Mine
+1 Manamorphose
+1 Autochthon Wurm
+2 Botanical Sanctum
+2 Simian Spirit Guide
+2 Eldritch Evolution
+2 Dissenter's Deliverance
+2 Allosaurus Rider
+2 Autochthon Wurm
+2 Chancellor of the Tangle
+2 Neoform
+2 Summoner's Pact
+2 Manamorphose
+2 Gemstone Mine
+2 Nourishing Shoal
+2 Waterlogged Grove
+2 Serum Visions
+3 Gemstone Mine
+3 Eldritch Evolution
+3 Dissenter's Deliverance
+3 Botanical Sanctum
+3 Simian Spirit Guide
+3 Waterlogged Grove
+3 Manamorphose
+3 Allosaurus Rider
+3 Neoform
+3 Summoner's Pact
+3 Chancellor of the Tangle
+3 Nourishing Shoal
+4 Gemstone Mine
+4 Botanical Sanctum
+4 Waterlogged Grove
+4 Simian Spirit Guide
+4 Summoner's Pact
+4 Allosaurus Rider
+4 Neoform
+4 Nourishing Shoal
+4 Eldritch Evolution
+4 Manamorphose
+4 Chancellor of the Tangle
 1 Oath of Nissa
 1 Prismatic Vista
-1 Ice-Fang Coatl
-1 Noble Hierarch
-1 Temple Garden
 1 Jace, the Mind Sculptor
-1 Saheeli Rai
+1 Snow-Covered Forest
+1 Ice-Fang Coatl
 1 Path to Exile
+1 Temple Garden
+1 Saheeli Rai
+1 Noble Hierarch
 1 Oko, Thief of Crowns
 1 Wall of Blossoms
 1 Misty Rainforest
@@ -81,31 +141,31 @@
 2 Snow-Covered Forest
 2 Oath of Nissa
 2 Prismatic Vista
-2 Oko, Thief of Crowns
 2 Wall of Blossoms
 2 Saheeli Rai
-2 Noble Hierarch
 2 Ice-Fang Coatl
+2 Oko, Thief of Crowns
 2 Path to Exile
+2 Noble Hierarch
 2 Felidar Guardian
 2 Misty Rainforest
 3 Oko, Thief of Crowns
-3 Misty Rainforest
 3 Teferi, Time Raveler
 3 Snow-Covered Forest
 3 Prismatic Vista
 3 Oath of Nissa
 3 Felidar Guardian
+3 Misty Rainforest
 3 Saheeli Rai
 3 Ice-Fang Coatl
 3 Noble Hierarch
 4 Oko, Thief of Crowns
-4 Misty Rainforest
 4 Snow-Covered Forest
 4 Saheeli Rai
 4 Oath of Nissa
 4 Ice-Fang Coatl
 4 Felidar Guardian
 4 Teferi, Time Raveler
+4 Misty Rainforest
 4 Prismatic Vista
 5 Snow-Covered Forest

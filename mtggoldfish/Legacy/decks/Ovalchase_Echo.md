@@ -28,6 +28,6 @@
 
 |*n*<sup>th</sup> copy|                                Maindeck Card                                 |*n*<sup>th</sup> copy|                                     Sideboard Card                                     |
 |--------------------:|------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------|
-|                    1|[Tundra](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=885)|                    1|[Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)       |
-|                     |                                                                              |                    1|[Echoing Truth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405212)|
+|                    1|[Tundra](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=885)|                    1|[Echoing Truth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405212)|
+|                     |                                                                              |                    1|[Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)       |
 

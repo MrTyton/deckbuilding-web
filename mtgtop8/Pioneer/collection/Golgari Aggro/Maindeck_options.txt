@@ -36,18 +36,18 @@
 2 Murderous Rider
 4 Woodland Cemetery
 1 Zetalpa, Primal Dawn
-1 Soulflayer
 1 Lotleth Troll
-2 Lotleth Troll
-2 Zetalpa, Primal Dawn
+1 Soulflayer
 2 Soulflayer
+2 Zetalpa, Primal Dawn
+2 Lotleth Troll
 3 Grisly Salvage
-3 Lotleth Troll
-3 Zetalpa, Primal Dawn
 3 Soulflayer
+3 Zetalpa, Primal Dawn
+3 Lotleth Troll
 4 Grisly Salvage
-4 Soulflayer
 4 Lotleth Troll
+4 Soulflayer
 3 Traverse the Ulvenwald
 1 Castle Locthwain
 1 Ishkanah, Grafwidow
@@ -95,8 +95,8 @@
 3 Pelt Collector
 4 Pelt Collector
 1 Noxious Gearhulk
-1 Dead Weight
 1 Duress
+1 Dead Weight
 2 Duress
 3 Fabled Passage
 4 Fabled Passage
@@ -144,6 +144,16 @@
 2 Bomat Courier
 3 Chromanticore
 3 Bomat Courier
+1 Karn's Bastion
+1 Steel Overseer
+1 Metallic Mimic
+1 Ruins of Oran-Rief
+1 Animation Module
+1 Sea Gate Wreckage
+2 Steel Overseer
+2 Metallic Mimic
+3 Steel Overseer
+4 Steel Overseer
 4 Samut, Voice of Dissent
 1 Glorybringer
 1 Satyr Wayfinder
@@ -163,16 +173,16 @@
 1 Collected Company
 1 Duskwatch Recruiter
 1 Zulaport Cutthroat
-1 Plaguecrafter
 1 Liliana, Heretical Healer
+1 Plaguecrafter
 1 Nantuko Husk
 1 Blisterpod
 1 Catacomb Sifter
-2 Westvale Abbey
 2 Duskwatch Recruiter
 2 Collected Company
 2 Zulaport Cutthroat
 2 Liliana, Heretical Healer
+2 Westvale Abbey
 2 Blisterpod
 2 Nantuko Husk
 2 Elvish Visionary
@@ -190,23 +200,12 @@
 4 Nantuko Husk
 4 Elvish Visionary
 4 Duskwatch Recruiter
-1 Karn's Bastion
-1 Metallic Mimic
-1 Ruins of Oran-Rief
-1 Animation Module
-1 Sea Gate Wreckage
-1 Steel Overseer
-2 Metallic Mimic
-2 Steel Overseer
-3 Steel Overseer
-4 Steel Overseer
 1 Nullhide Ferox
 2 Nullhide Ferox
 3 Rhonas the Indomitable
 3 Nullhide Ferox
 4 Rhonas the Indomitable
 4 Nullhide Ferox
-1 Barkhide Troll
 1 Driven / Despair
 1 Dryad Militant
 1 Aspect of Hydra
@@ -215,22 +214,23 @@
 1 Steel Leaf Champion
 1 Yorvo, Lord of Garenbrig
 1 Avatar of the Resolute
-2 Barkhide Troll
+1 Barkhide Troll
 2 Driven / Despair
 2 Aspect of Hydra
-2 Syr Faren, the Hengehammer
 2 Dryad Militant
+2 Syr Faren, the Hengehammer
 2 Blossoming Defense
 2 Steel Leaf Champion
 2 Avatar of the Resolute
 2 Yorvo, Lord of Garenbrig
-3 Barkhide Troll
+2 Barkhide Troll
 3 Dryad Militant
 3 Aspect of Hydra
 3 Hashep Oasis
 3 Blossoming Defense
 3 Avatar of the Resolute
 3 Steel Leaf Champion
+3 Barkhide Troll
 4 Barkhide Troll
 4 Blossoming Defense
 4 Dryad Militant

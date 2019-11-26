@@ -22,11 +22,11 @@
 2 Cathartic Reunion
 2 Life from the Loam
 2 Merchant of the Vale
+3 Forgotten Cave
 3 Cathartic Reunion
 3 Stinkweed Imp
 3 Life from the Loam
 3 Merchant of the Vale
-3 Forgotten Cave
 3 Shriekhorn
 4 Cathartic Reunion
 4 Stinkweed Imp
@@ -42,15 +42,14 @@
 2 Blood Crypt
 1 Once Upon a Time
 3 Marsh Flats
+4 Life from the Loam
+4 Verdant Catacombs
 4 Watery Grave
 1 Gurmag Angler
 2 Gurmag Angler
-4 Life from the Loam
-4 Verdant Catacombs
 3 Gurmag Angler
 1 Gemstone Mine
 3 Golgari Thug
-1 Driven / Despair
 2 Once Upon a Time
 1 Breeding Pool
 1 Darkslick Shores
@@ -58,6 +57,7 @@
 4 Marsh Flats
 4 Wooded Foothills
 2 Mountain
+1 Driven / Despair
 3 Once Upon a Time
 1 Grisly Salvage
 1 Snow-Covered Swamp
@@ -66,14 +66,13 @@
 4 Once Upon a Time
 4 Grisly Salvage
 1 Darkblast
+1 Memory Sluice
+2 Memory Sluice
 3 Conflagrate
 2 Haunted Dead
 1 Steam Vents
-1 Memory Sluice
-2 Memory Sluice
 1 Tome Scour
 2 Tome Scour
-2 Driven / Despair
 2 Gemstone Mine
 1 Scalding Tarn
 1 Arid Mesa
@@ -82,6 +81,9 @@
 2 Arid Mesa
 3 Arid Mesa
 4 Merchant of the Vale
+1 Fatestitcher
+3 Memory Sluice
+4 Memory Sluice
 1 Misty Rainforest
 1 Island
 2 Misty Rainforest

@@ -1,13 +1,11 @@
 1 Horizon Canopy
-1 Birds of Paradise
-1 Sword of Fire and Ice
 4 Misty Rainforest
 1 Opt
 1 Spell Snare
-2 Spell Snare
 2 Opt
 3 Arcum's Astrolabe
 4 Arcum's Astrolabe
+2 Spell Snare
 1 Teferi, Hero of Dominaria
 1 Cryptic Command
 1 Field of Ruin
@@ -17,18 +15,22 @@
 2 Snapcaster Mage
 2 Field of Ruin
 3 Opt
-3 Snapcaster Mage
 4 Snow-Covered Island
+1 Birds of Paradise
+1 Sword of Fire and Ice
+3 Snapcaster Mage
+4 Force of Negation
+5 Snow-Covered Island
+1 Mystical Dispute
 3 Mana Leak
 2 Birds of Paradise
-4 Force of Negation
-4 Windswept Heath
-5 Snow-Covered Island
 1 Razorverge Thicket
 2 Razorverge Thicket
+4 Windswept Heath
+4 Flooded Strand
 4 Prismatic Vista
-1 Mystical Dispute
-1 Moorland Haunt
+1 Vendilion Clique
+2 Supreme Verdict
 1 Gilded Goose
 1 Deputy of Detention
 1 Brazen Borrower
@@ -39,11 +41,9 @@
 2 Soulherder
 1 Giver of Runes
 2 Giver of Runes
-1 Vendilion Clique
 1 Collected Company
 2 Collected Company
 3 Collected Company
-4 Flooded Strand
 2 Hallowed Fountain
 1 Ephemerate
 1 Time Warp
@@ -58,8 +58,8 @@
 3 Soulherder
 4 Ephemerate
 4 Coiling Oracle
-2 Supreme Verdict
-1 Botanical Sanctum
+1 Mystic Sanctuary
+1 Moorland Haunt
 3 Razorverge Thicket
 1 Tireless Tracker
 2 Deputy of Detention
@@ -85,10 +85,11 @@
 3 Eladamri's Call
 3 Aether Vial
 4 Aether Vial
-1 Mystic Sanctuary
 1 Gaddock Teeg
+1 Dovin's Veto
 1 Mulldrifter
 2 Mulldrifter
+1 Botanical Sanctum
 1 Geist of Saint Traft
 2 Gilded Goose
 2 Geist of Saint Traft
@@ -100,7 +101,6 @@
 2 Oust
 2 Vesperlark
 3 Oust
-3 Birds of Paradise
 1 Wall of Omens
 1 Watcher for Tomorrow
 1 Thragtusk

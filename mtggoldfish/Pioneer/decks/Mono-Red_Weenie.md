@@ -32,6 +32,6 @@
 |                    2|[Robber of the Rich](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473100)|                    1|[Hour of Devastation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430786)|
 |                    2|[Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)            |                    2|[Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452)  |
 |                    1|[Reality Smasher](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407517)   |                     |                                                                                              |
-|                    2|[Reality Smasher](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407517)   |                     |                                                                                              |
 |                    3|[Reality Smasher](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407517)   |                     |                                                                                              |
+|                    2|[Reality Smasher](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407517)   |                     |                                                                                              |
 
