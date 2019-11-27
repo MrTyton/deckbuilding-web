@@ -38,10 +38,10 @@
 |                    2|[Pyretic Ritual](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205067)|                    1|[Gamble](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413674)          |
 |                    3|[Manamorphose](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370568)  |                    1|[Autumn's Veil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205051)   |
 |                    3|[Pyretic Ritual](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205067)|                    2|[Autumn's Veil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205051)   |
-|                    4|[Manamorphose](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370568)  |                    1|[Bribery](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45279)          |
-|                    4|[Pyretic Ritual](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205067)|                    1|[Xantid Swarm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413735)    |
-|                     |                                                                                         |                    1|[Reforge the Soul](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278256)|
-|                     |                                                                                         |                    2|[Xantid Swarm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413735)    |
+|                    4|[Manamorphose](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370568)  |                    1|[Reforge the Soul](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278256)|
+|                    4|[Pyretic Ritual](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205067)|                    1|[Bribery](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45279)          |
+|                     |                                                                                         |                    1|[Xantid Swarm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413735)    |
 |                     |                                                                                         |                    3|[Xantid Swarm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413735)    |
 |                     |                                                                                         |                    4|[Xantid Swarm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413735)    |
+|                     |                                                                                         |                    2|[Xantid Swarm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413735)    |
 

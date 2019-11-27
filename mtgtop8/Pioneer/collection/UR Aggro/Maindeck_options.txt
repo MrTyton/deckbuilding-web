@@ -1,20 +1,23 @@
-2 Mutavault
-3 Metallic Rebuke
+4 Ornithopter
 1 Wild Slash
 2 Wild Slash
+3 Metallic Rebuke
 1 Mountain
+1 Stubborn Denial
+2 Stubborn Denial
 2 Mountain
 3 Mountain
 4 Mountain
 1 Sulfur Falls
 2 Sulfur Falls
+3 Mutavault
 1 Izzet Charm
 2 Island
 2 Izzet Charm
 3 Izzet Charm
 4 Izzet Charm
-1 Elder Deep-Fiend
 1 Bonecrusher Giant
+1 Elder Deep-Fiend
 1 Lightning Axe
 1 Kozilek's Return
 1 Brazen Borrower
@@ -22,30 +25,32 @@
 1 Chandra, Torch of Defiance
 1 Flamewake Phoenix
 2 Chandra, Torch of Defiance
-2 Elder Deep-Fiend
 2 Bonecrusher Giant
+2 Elder Deep-Fiend
 2 Lightning Axe
-2 Kozilek's Return
 2 Brazen Borrower
+2 Kozilek's Return
 2 Rekindling Phoenix
 2 Flamewake Phoenix
 3 Bonecrusher Giant
 3 Brazen Borrower
-3 Kozilek's Return
 3 Elder Deep-Fiend
+3 Kozilek's Return
 3 Lightning Axe
 3 Flamewake Phoenix
 3 Rekindling Phoenix
 4 Bonecrusher Giant
+4 Brazen Borrower
 4 Kozilek's Return
 4 Elder Deep-Fiend
-4 Brazen Borrower
 4 Flamewake Phoenix
 4 Rekindling Phoenix
-3 Mutavault
 1 Whirler Rogue
 3 Stonecoil Serpent
 4 Stonecoil Serpent
+1 Wandering Fumarole
+2 Wandering Fumarole
+3 Wandering Fumarole
 3 Sulfur Falls
 1 Treasure Cruise
 1 Stormchaser Mage
@@ -66,11 +71,6 @@
 4 Stormchaser Mage
 4 Opt
 4 Soul-Scar Mage
-1 Wandering Fumarole
-2 Wandering Fumarole
-3 Wandering Fumarole
-1 Stubborn Denial
-2 Stubborn Denial
 4 Lightning Axe
 1 The Royal Scions
 2 The Royal Scions
@@ -104,6 +104,7 @@
 2 Emry, Lurker of the Loch
 3 Scrapheap Scrounger
 3 Emry, Lurker of the Loch
+3 Stubborn Denial
 1 Abrade
 1 Renegade Tactics
 1 Warlord's Fury

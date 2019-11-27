@@ -1,37 +1,32 @@
+1 Scavenging Ooze
 1 Reclamation Sage
 2 Reclamation Sage
-1 Scavenging Ooze
-1 Sleep
-2 Sleep
-1 Lifecrafter's Bestiary
-2 Lifecrafter's Bestiary
-3 Lifecrafter's Bestiary
-1 Negate
 2 Scavenging Ooze
-1 Aethersphere Harvester
-2 Aethersphere Harvester
-1 Prey Upon
-2 Prey Upon
-3 Prey Upon
-1 Spell Pierce
-1 Grafdigger's Cage
+1 Negate
+1 Unravel the Aether
 1 Abrade
 2 Abrade
-1 Tireless Tracker
-2 Negate
+3 Disdainful Stroke
 1 Aether Gust
 2 Aether Gust
-1 Wicked Wolf
-1 Unravel the Aether
-1 Heroic Intervention
-3 Sleep
-1 Questing Beast
+1 Tireless Tracker
+2 Negate
+1 Entrancing Melody
+2 Entrancing Melody
 1 Stubborn Denial
+1 Wicked Wolf
+3 Scavenging Ooze
+2 Unravel the Aether
+1 Questing Beast
+1 Sleep
+2 Sleep
+1 Return to Nature
+2 Return to Nature
 1 Ratchet Bomb
 1 Thoughtseize
 2 Thoughtseize
-1 Return to Nature
-2 Return to Nature
+1 Aethersphere Harvester
+2 Aethersphere Harvester
 1 Fatal Push
 1 Leyline of the Void
 2 Fatal Push
@@ -41,22 +36,27 @@
 1 Collective Brutality
 1 Assassin's Trophy
 2 Collective Brutality
+1 Lifecrafter's Bestiary
+2 Lifecrafter's Bestiary
+3 Lifecrafter's Bestiary
+1 Spell Pierce
+1 Grafdigger's Cage
 2 Tireless Tracker
 1 Supreme Verdict
 2 Supreme Verdict
+1 Pithing Needle
 1 Golgari Charm
 2 Golgari Charm
 1 Tamiyo, Collector of Tales
 1 Vivien Reid
-1 Entrancing Melody
 2 Questing Beast
-2 Entrancing Melody
+1 Unknown Card
+2 Unknown Card
 1 Stain the Mind
 1 Distended Mindbender
 1 Caustic Caterpillar
 2 Stain the Mind
 2 Distended Mindbender
-2 Spell Pierce
 1 Teferi, Time Raveler
 1 Declaration in Stone
 1 Authority of the Consuls
@@ -64,9 +64,13 @@
 2 Teferi, Time Raveler
 2 Declaration in Stone
 2 Noxious Grasp
+2 Spell Pierce
 1 Feed the Clan
+1 Prey Upon
 2 Grafdigger's Cage
 2 Feed the Clan
+2 Prey Upon
+3 Prey Upon
 3 Feed the Clan
 1 Devout Decree
 1 Wear / Tear
@@ -97,14 +101,11 @@
 1 Dragonlord Silumgar
 1 Virulent Plague
 1 Confiscation Coup
-2 Languish
 2 Virulent Plague
+2 Languish
 2 Unmoored Ego
 2 Duress
 3 Duress
-1 Unknown Card
-2 Unknown Card
-3 Disdainful Stroke
 1 Teferi, Hero of Dominaria
 1 Lyra Dawnbringer
 1 Rest in Peace
@@ -113,16 +114,15 @@
 3 Rest in Peace
 3 Supreme Verdict
 1 Gilded Goose
+1 Heroic Intervention
 2 Wicked Wolf
-2 Unravel the Aether
 2 Gilded Goose
 3 Wicked Wolf
+3 Sleep
 4 Wicked Wolf
-1 Hunt the Hunter
-2 Heroic Intervention
-3 Heroic Intervention
-4 Lifecrafter's Bestiary
-4 Prey Upon
+2 Pithing Needle
+3 Entrancing Melody
+4 Entrancing Melody
 1 Blood Sun
 1 Magma Spray
 2 Blood Sun
@@ -140,7 +140,6 @@
 4 Return to Nature
 3 Reclamation Sage
 3 Aethersphere Harvester
-3 Scavenging Ooze
 4 Aethersphere Harvester
 1 Brazen Borrower
 1 Metallic Rebuke
@@ -163,7 +162,6 @@
 1 Deputy of Detention
 1 Dromoka's Command
 1 Remorseful Cleric
-1 Pithing Needle
 1 Knight of Autumn
 2 Deputy of Detention
 2 Remorseful Cleric
