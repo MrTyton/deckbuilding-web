@@ -1,19 +1,19 @@
 4 Bloodstained Mire
 4 Polluted Delta
-3 Thoughtseize
 3 Cabal Therapy
 1 Marsh Flats
 2 Marsh Flats
-1 Tidespout Tyrant
+3 Thoughtseize
 3 Swamp
-4 Thoughtseize
 3 Verdant Catacombs
-1 Collective Brutality
-2 Collective Brutality
+1 Tidespout Tyrant
+4 Thoughtseize
 1 Iona, Shield of Emeria
 1 Grave Titan
 2 Bayou
-3 Collective Brutality
+1 Collective Brutality
+2 Collective Brutality
+4 Verdant Catacombs
 1 Dark Depths
 1 Urborg, Tomb of Yawgmoth
 1 Thespian's Stage
@@ -32,16 +32,16 @@
 3 Urborg, Tomb of Yawgmoth
 4 Dark Depths
 4 Thespian's Stage
-4 Verdant Catacombs
 1 Vampire Hexmage
 2 Vampire Hexmage
 2 Lake of the Dead
+3 Collective Brutality
 3 Grave Titan
 1 Underground Sea
+1 Snow-Covered Swamp
+2 Snow-Covered Swamp
 1 Ashiok, Dream Render
 1 Liliana of the Veil
-1 Chrome Mox
-2 Chrome Mox
 2 Scrubland
 1 Nurturing Peatland
 1 Living Wish
@@ -63,14 +63,14 @@
 1 Thief of Blood
 1 Vilis, Broker of Blood
 3 Vampire Hexmage
-4 Vampire Hexmage
 4 Urborg, Tomb of Yawgmoth
+4 Vampire Hexmage
 1 Snow-Covered Island
-1 Tropical Island
 1 Ponder
 1 Brainstorm
 1 Oko, Thief of Crowns
 1 Leovold, Emissary of Trest
+1 Tropical Island
 1 Baleful Strix
 1 Tyrant's Scorn
 1 Misty Rainforest
@@ -83,7 +83,7 @@
 1 Abrupt Decay
 1 Stroke of Genius
 1 Gurmag Angler
-1 Snow-Covered Swamp
+2 Oko, Thief of Crowns
 2 Brainstorm
 2 Snow-Covered Island
 2 Baleful Strix
@@ -96,8 +96,6 @@
 2 Snapcaster Mage
 2 Abrupt Decay
 2 Fatal Push
-2 Oko, Thief of Crowns
-2 Snow-Covered Swamp
 3 Brainstorm
 3 Abrupt Decay
 3 Force of Will

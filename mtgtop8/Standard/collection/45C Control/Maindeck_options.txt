@@ -62,8 +62,8 @@
 1 Castle Locthwain
 2 Find / Finality
 1 Casualties of War
-2 Assassin's Trophy
 2 Casualties of War
+2 Assassin's Trophy
 3 Assassin's Trophy
 3 Casualties of War
 4 Assassin's Trophy
@@ -72,22 +72,22 @@
 1 Sacred Foundry
 2 Sacred Foundry
 3 Sacred Foundry
-1 Spark Double
-1 Planewide Celebration
-1 Blast Zone
-1 Chandra, Awakened Inferno
-1 Interplanar Beacon
-1 Liliana, Dreadhorde General
-1 Sarkhan the Masterless
-1 Narset, Parter of Veils
-1 Tamiyo, Collector of Tales
 1 Karn's Bastion
+1 Liliana, Dreadhorde General
+1 Spark Double
+1 Blast Zone
+1 Interplanar Beacon
+1 Chandra, Awakened Inferno
+1 Planewide Celebration
+1 Tamiyo, Collector of Tales
+1 Sarkhan the Masterless
 1 Fires of Invention
+1 Narset, Parter of Veils
 1 Steam Vents
 1 Shimmer of Possibility
 1 Drawn from Dreams
-2 Interplanar Beacon
 2 Nicol Bolas, Dragon-God
+2 Interplanar Beacon
 2 Sarkhan the Masterless
 2 Ugin, the Ineffable
 2 Narset, Parter of Veils
@@ -110,22 +110,6 @@
 4 Narset, Parter of Veils
 4 Fires of Invention
 4 Steam Vents
-1 Nightpack Ambusher
-1 Garruk, Cursed Huntsman
-1 Tolsimir, Friend to Wolves
-2 Nightpack Ambusher
-2 Garruk, Cursed Huntsman
-2 Tolsimir, Friend to Wolves
-3 Nightpack Ambusher
-3 Temple Garden
-3 Garruk, Cursed Huntsman
-3 Tolsimir, Friend to Wolves
-3 Forest
-3 Paradise Druid
-4 Nightpack Ambusher
-4 Paradise Druid
-4 Temple Garden
-4 Breeding Pool
 1 Cauldron Familiar
 1 Witch's Oven
 1 Trail of Crumbs
@@ -134,10 +118,10 @@
 1 Murderous Rider
 1 Mayhem Devil
 2 Stomping Ground
+2 Aether Gust
 2 Cauldron Familiar
 2 Witch's Oven
 2 Trail of Crumbs
-2 Aether Gust
 2 Mayhem Devil
 2 Korvold, Fae-Cursed King
 2 Murderous Rider
@@ -176,10 +160,10 @@
 2 Dance of the Manse
 2 Guild Globe
 2 Temple of Triumph
+3 Kaya's Wrath
 3 Oath of Kaya
 3 Golden Egg
 3 Guild Globe
-3 Kaya's Wrath
 3 Godless Shrine
 3 Doom Foretold
 3 Swamp
@@ -190,3 +174,19 @@
 4 Doom Foretold
 4 Kaya's Wrath
 4 Guild Globe
+1 Nightpack Ambusher
+1 Garruk, Cursed Huntsman
+1 Tolsimir, Friend to Wolves
+2 Nightpack Ambusher
+2 Garruk, Cursed Huntsman
+2 Tolsimir, Friend to Wolves
+3 Nightpack Ambusher
+3 Temple Garden
+3 Garruk, Cursed Huntsman
+3 Tolsimir, Friend to Wolves
+3 Forest
+3 Paradise Druid
+4 Nightpack Ambusher
+4 Temple Garden
+4 Breeding Pool
+4 Paradise Druid

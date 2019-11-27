@@ -2,36 +2,52 @@
 1 Once Upon a Time
 2 Once Upon a Time
 3 Once Upon a Time
+1 Waterlogged Grove
+2 Waterlogged Grove
+4 Once Upon a Time
+1 Wooded Foothills
+1 Nykthos, Shrine to Nyx
+1 Burning-Tree Emissary
+1 Oath of Nissa
+2 Wooded Foothills
+2 Burning-Tree Emissary
+2 Nykthos, Shrine to Nyx
+2 Oath of Nissa
+3 Oath of Nissa
+3 Burning-Tree Emissary
+3 Nykthos, Shrine to Nyx
+4 Oath of Nissa
+4 Nykthos, Shrine to Nyx
+4 Burning-Tree Emissary
 1 Llanowar Elves
 2 Llanowar Elves
 1 Snow-Covered Forest
 2 Snow-Covered Forest
 3 Snow-Covered Forest
 4 Snow-Covered Forest
-1 Wooded Foothills
+1 Genesis Hydra
+1 Leyline of Abundance
+1 Dryad Arbor
+2 Leyline of Abundance
+2 Genesis Hydra
+3 Leyline of Abundance
+4 Leyline of Abundance
+1 Birds of Paradise
+1 Windswept Heath
+1 Karn, the Great Creator
+2 Birds of Paradise
+2 Windswept Heath
+2 Karn, the Great Creator
+3 Windswept Heath
+3 Karn, the Great Creator
 1 Misty Rainforest
-1 Nykthos, Shrine to Nyx
 1 Garruk Wildspeaker
-1 Burning-Tree Emissary
-1 Oath of Nissa
-2 Wooded Foothills
 2 Garruk Wildspeaker
-2 Nykthos, Shrine to Nyx
-2 Oath of Nissa
-2 Burning-Tree Emissary
 3 Wooded Foothills
-3 Oath of Nissa
 3 Garruk Wildspeaker
-3 Nykthos, Shrine to Nyx
-3 Burning-Tree Emissary
-4 Oath of Nissa
 4 Garruk Wildspeaker
-4 Nykthos, Shrine to Nyx
-4 Burning-Tree Emissary
 1 Questing Beast
-1 Waterlogged Grove
 2 Questing Beast
-2 Waterlogged Grove
 1 Hashep Oasis
 1 Rhonas the Indomitable
 1 Yorvo, Lord of Garenbrig
@@ -39,63 +55,47 @@
 2 Rhonas the Indomitable
 2 Yorvo, Lord of Garenbrig
 3 Llanowar Elves
-4 Once Upon a Time
+1 Verdant Catacombs
 1 Eternal Witness
+1 Finale of Devastation
 1 Wall of Blossoms
-1 Genesis Hydra
-1 Leyline of Abundance
-1 Dryad Arbor
 1 Pendelhaven
 1 Castle Garenbrig
-1 Breeding Pool
-1 Verdant Catacombs
 1 Collector Ouphe
-1 Finale of Devastation
+1 Breeding Pool
 2 Misty Rainforest
 2 Eternal Witness
-2 Leyline of Abundance
-2 Genesis Hydra
 2 Finale of Devastation
 2 Collector Ouphe
 3 Eternal Witness
 3 Misty Rainforest
-3 Leyline of Abundance
 3 Genesis Hydra
 3 Finale of Devastation
 3 Collector Ouphe
 4 Wooded Foothills
 4 Misty Rainforest
-4 Leyline of Abundance
 4 Eternal Witness
-1 Stomping Ground
-1 Hornet Queen
-1 Craterhoof Behemoth
-1 Nissa, Voice of Zendikar
-1 Arbor Elf
-1 Birds of Paradise
-1 Windswept Heath
-1 Acidic Slime
-1 Utopia Sprawl
-1 Ruric Thar, the Unbowed
-1 Summoner's Pact
 1 Courser of Kruphix
+1 Craterhoof Behemoth
+1 Hornet Queen
+1 Arbor Elf
+1 Utopia Sprawl
+1 Nissa, Voice of Zendikar
+1 Ruric Thar, the Unbowed
+1 Acidic Slime
+1 Summoner's Pact
 1 Walking Ballista
-1 Karn, the Great Creator
+1 Stomping Ground
 2 Stomping Ground
 2 Courser of Kruphix
 2 Arbor Elf
-2 Windswept Heath
 2 Utopia Sprawl
-2 Birds of Paradise
 2 Nissa, Voice of Zendikar
-2 Karn, the Great Creator
 2 Summoner's Pact
 2 Walking Ballista
 3 Summoner's Pact
 3 Arbor Elf
 3 Utopia Sprawl
-3 Windswept Heath
-3 Karn, the Great Creator
 4 Arbor Elf
 4 Utopia Sprawl
 1 Thorn Lieutenant
@@ -112,6 +112,21 @@
 4 Savage Swipe
 4 Dryad Militant
 4 Rancor
+1 Vivien, Arkbow Ranger
+1 Wistful Selkie
+1 Devoted Druid
+2 Vivien, Arkbow Ranger
+2 Wistful Selkie
+2 Devoted Druid
+3 Vivien, Arkbow Ranger
+3 Birds of Paradise
+3 Waterlogged Grove
+3 Wistful Selkie
+4 Birds of Paradise
+4 Windswept Heath
+4 Vivien, Arkbow Ranger
+4 Karn, the Great Creator
+4 Wistful Selkie
 1 Scavenging Ooze
 2 Blossoming Defense
 2 Scavenging Ooze

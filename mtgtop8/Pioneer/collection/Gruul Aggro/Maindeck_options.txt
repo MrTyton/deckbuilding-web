@@ -152,6 +152,46 @@
 3 Hanweir Battlements
 4 Cinder Glade
 4 Sylvan Caryatid
+1 World Breaker
+1 Kozilek's Return
+1 Whisperwood Elemental
+1 Nissa's Pilgrimage
+1 Sanctum of Ugin
+1 Castle Garenbrig
+1 Oblivion Sower
+1 Explosive Vegetation
+1 Omnath, Locus of Rage
+1 Sylvan Scrying
+1 Ugin, the Spirit Dragon
+1 Ulamog, the Ceaseless Hunger
+1 Arboreal Grazer
+2 Oblivion Sower
+2 Kozilek's Return
+2 World Breaker
+2 Omnath, Locus of Rage
+2 Sylvan Scrying
+2 Whisperwood Elemental
+2 Castle Garenbrig
+2 Nissa's Pilgrimage
+2 Sanctum of Ugin
+2 Explosive Vegetation
+2 Ulamog, the Ceaseless Hunger
+2 Arboreal Grazer
+2 Ugin, the Spirit Dragon
+3 Oblivion Sower
+3 Kozilek's Return
+3 Whisperwood Elemental
+3 Castle Garenbrig
+3 Sylvan Scrying
+3 Nissa's Pilgrimage
+3 Sanctum of Ugin
+3 World Breaker
+3 Explosive Vegetation
+3 Arboreal Grazer
+4 Kozilek's Return
+4 Nissa's Pilgrimage
+4 Explosive Vegetation
+4 Castle Garenbrig
 1 Paradise Druid
 1 Dragonlord Atarka
 1 Vivien Reid
@@ -164,40 +204,40 @@
 4 Paradise Druid
 4 Dragonlord Atarka
 1 Fling
-1 Harnessed Lightning
-1 Attune with Aether
-1 Aether Hub
 1 Become Immense
 1 Longtusk Cub
+1 Attune with Aether
+1 Aether Hub
 1 Electrostatic Pummeler
+1 Harnessed Lightning
 1 Bristling Hydra
 1 Maximize Velocity
 2 Collision / Colossus
-2 Harnessed Lightning
-2 Attune with Aether
-2 Aether Hub
 2 Become Immense
+2 Harnessed Lightning
 2 Longtusk Cub
+2 Aether Hub
 2 Electrostatic Pummeler
 2 Maximize Velocity
 2 Bristling Hydra
-3 Harnessed Lightning
-3 Aether Hub
-3 Attune with Aether
+2 Attune with Aether
 3 Collision / Colossus
 3 Bristling Hydra
 3 Electrostatic Pummeler
 3 Temur Battle Rage
 3 Longtusk Cub
+3 Attune with Aether
+3 Aether Hub
 3 Become Immense
+3 Harnessed Lightning
 4 Collision / Colossus
-4 Harnessed Lightning
-4 Aether Hub
-4 Attune with Aether
 4 Bristling Hydra
 4 Longtusk Cub
 4 Electrostatic Pummeler
 4 Blossoming Defense
+4 Attune with Aether
+4 Harnessed Lightning
+4 Aether Hub
 1 Courser of Kruphix
 2 Courser of Kruphix
 2 Domri Rade
@@ -208,54 +248,14 @@
 4 Questing Beast
 4 Glorybringer
 4 Domri Rade
-1 Whisperwood Elemental
-1 Nissa's Pilgrimage
-1 Sanctum of Ugin
-1 Ugin, the Spirit Dragon
-1 Ulamog, the Ceaseless Hunger
-1 Castle Garenbrig
-1 Kozilek's Return
-1 Oblivion Sower
-1 World Breaker
-1 Explosive Vegetation
-1 Omnath, Locus of Rage
-1 Sylvan Scrying
-1 Arboreal Grazer
-2 Oblivion Sower
-2 Omnath, Locus of Rage
-2 Sylvan Scrying
-2 Whisperwood Elemental
-2 Ugin, the Spirit Dragon
-2 Ulamog, the Ceaseless Hunger
-2 Castle Garenbrig
-2 Nissa's Pilgrimage
-2 Sanctum of Ugin
-2 World Breaker
-2 Explosive Vegetation
-2 Kozilek's Return
-2 Arboreal Grazer
-3 Oblivion Sower
-3 Whisperwood Elemental
-3 Castle Garenbrig
-3 Sylvan Scrying
-3 Nissa's Pilgrimage
-3 Sanctum of Ugin
-3 World Breaker
-3 Explosive Vegetation
-3 Kozilek's Return
-3 Arboreal Grazer
-4 Nissa's Pilgrimage
-4 Explosive Vegetation
-4 Castle Garenbrig
-4 Kozilek's Return
 1 Mutavault
+1 Oath of Nissa
 1 Tireless Tracker
 1 Chandra, Torch of Defiance
 1 Growth-Chamber Guardian
-1 Oath of Nissa
+2 Oath of Nissa
 2 Growth-Chamber Guardian
 2 Chandra, Torch of Defiance
-2 Oath of Nissa
 2 Tireless Tracker
 2 Mutavault
 3 Domri, Anarch of Bolas
@@ -263,6 +263,6 @@
 3 Oath of Nissa
 3 Growth-Chamber Guardian
 3 Chandra, Torch of Defiance
-4 Chandra, Torch of Defiance
 4 Oath of Nissa
+4 Chandra, Torch of Defiance
 4 Growth-Chamber Guardian

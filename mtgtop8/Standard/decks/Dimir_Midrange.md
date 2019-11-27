@@ -47,6 +47,6 @@
 |                    2|[Opt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442948)                       |                     |                                                                                               |
 |                    2|[Tyrant's Scorn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461152)            |                     |                                                                                               |
 |                    2|[Castle Vantress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473204)           |                     |                                                                                               |
-|                    4|[Opt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442948)                       |                     |                                                                                               |
 |                    3|[Opt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442948)                       |                     |                                                                                               |
+|                    4|[Opt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442948)                       |                     |                                                                                               |
 
