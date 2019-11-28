@@ -76,8 +76,8 @@
 1 Nicol Bolas, the Ravager
 2 Nicol Bolas, the Ravager
 3 Nicol Bolas, the Ravager
-1 Disallow
 1 Syncopate
+1 Disallow
 2 Syncopate
 1 Elspeth, Sun's Champion
 1 Sulfur Falls
@@ -178,11 +178,11 @@
 4 Oath of Kaya
 4 Doom Foretold
 4 Godless Shrine
+1 Arch of Orazca
 1 Llanowar Wastes
 1 Overgrown Tomb
 1 Woodland Cemetery
 1 Reliquary Tower
-1 Arch of Orazca
 1 The Elderspell
 1 Bontu's Last Reckoning
 1 Nissa's Renewal
@@ -247,19 +247,19 @@
 4 Spirebluff Canal
 4 Dreadhorde Arcanist
 1 Notion Thief
-1 Ritual of Soot
 1 Doom Blade
+1 Ritual of Soot
 1 Dark Deal
 1 Geier Reach Sanitarium
 2 Castle Vantress
 2 Geier Reach Sanitarium
-2 Ritual of Soot
 2 Doom Blade
+2 Ritual of Soot
 2 Notion Thief
 2 Dark Deal
 3 Temple of Deceit
-3 Ritual of Soot
 3 Doom Blade
+3 Ritual of Soot
 3 Dark Deal
 3 Geier Reach Sanitarium
 3 Notion Thief
@@ -274,9 +274,8 @@
 4 Dig Through Time
 1 Botanical Sanctum
 1 Sylvan Caryatid
-1 Rogue Refiner
-1 Attune with Aether
 1 Nomad Outpost
+1 Attune with Aether
 1 Aether Hub
 1 Opulent Palace
 1 Gilded Goose
@@ -285,22 +284,23 @@
 1 Unmoored Ego
 1 Mana Confluence
 1 Tolsimir, Friend to Wolves
+1 Rogue Refiner
 2 Blooming Marsh
-2 Rogue Refiner
-2 Attune with Aether
 2 Mana Confluence
 2 Bring to Light
 2 Gilded Goose
 2 Botanical Sanctum
+2 Rogue Refiner
+2 Attune with Aether
 2 Aether Hub
 2 Opulent Palace
 2 Niv-Mizzet Reborn
 3 Blooming Marsh
-3 Rogue Refiner
 3 Niv-Mizzet Reborn
 3 Gilded Goose
 3 Bring to Light
 3 Oko, Thief of Crowns
+3 Rogue Refiner
 3 Aether Hub
 4 Blooming Marsh
 4 Gilded Goose
@@ -323,11 +323,11 @@
 1 Rootbound Crag
 2 Scapeshift
 2 Splendid Reclamation
+2 Radiant Flames
 2 Strategic Planning
 2 Mountain
 2 Magmatic Insight
 2 Hour of Promise
-2 Radiant Flames
 2 Izzet Charm
 2 Pieces of the Puzzle
 3 Splendid Reclamation
@@ -343,17 +343,17 @@
 2 Blast Zone
 1 Cyclonic Rift
 1 Lumbering Falls
+1 Settle the Wreckage
 1 Wilderness Reclamation
+1 Temple Garden
 1 Nexus of Fate
 1 Supreme Will
-1 Settle the Wreckage
-1 Temple Garden
 2 Lumbering Falls
 2 Breeding Pool
-2 Wilderness Reclamation
-2 Supreme Will
 2 Search for Azcanta
+2 Supreme Will
 2 Settle the Wreckage
+2 Wilderness Reclamation
 2 Temple Garden
 3 Wilderness Reclamation
 3 Temple Garden
@@ -370,11 +370,11 @@
 1 To the Slaughter
 1 Tireless Tracker
 1 Vraska, Relic Seeker
+2 Nissa, Vastwood Seer
 2 Temple of Malady
 2 Grasp of Darkness
 2 Tireless Tracker
 2 Hissing Quagmire
-2 Nissa, Vastwood Seer
 3 Tireless Tracker
 3 Temple of Malady
 3 Hissing Quagmire
@@ -383,8 +383,8 @@
 7 Swamp
 8 Swamp
 1 Sea Gate Wreckage
-1 Explosive Vegetation
 1 Ulvenwald Hydra
+1 Explosive Vegetation
 1 World Breaker
 1 Dragonlord Atarka
 1 Castle Garenbrig
@@ -395,9 +395,9 @@
 1 Shrine of the Forsaken Gods
 1 Once Upon a Time
 1 Nissa's Pilgrimage
+2 Ulvenwald Hydra
 2 Dragonlord Atarka
 2 Explosive Vegetation
-2 Ulvenwald Hydra
 2 Sylvan Caryatid
 2 World Breaker
 2 Sanctum of Ugin
@@ -409,9 +409,9 @@
 2 Once Upon a Time
 3 Explosive Vegetation
 3 Sylvan Caryatid
-3 World Breaker
 3 Ulvenwald Hydra
 3 Dragonlord Atarka
+3 World Breaker
 3 Llanowar Elves
 3 Elvish Mystic
 3 Sanctum of Ugin

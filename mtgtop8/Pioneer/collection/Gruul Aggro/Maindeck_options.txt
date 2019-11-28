@@ -1,35 +1,37 @@
+3 Once Upon a Time
+3 Wild Slash
 2 Bonecrusher Giant
 3 Bonecrusher Giant
-8 Forest
+3 Rootbound Crag
 4 Once Upon a Time
-1 Legion Warboss
-2 Legion Warboss
-3 Legion Warboss
-4 Legion Warboss
+4 Wild Slash
+4 Rootbound Crag
 4 Bonecrusher Giant
+3 Ghor-Clan Rampager
 1 Gruul Spellbreaker
 2 Gruul Spellbreaker
+1 Glorybringer
+3 Embercleave
 1 Blossoming Defense
 3 Gruul Spellbreaker
 4 Gruul Spellbreaker
-3 Ghor-Clan Rampager
 4 Ghor-Clan Rampager
-1 Glorybringer
+1 Hazoret the Fervent
 2 Glorybringer
+4 Questing Beast
 9 Forest
-3 Embercleave
 1 Voltaic Brawler
 1 Experiment One
 1 Pelt Collector
-1 Burning-Tree Emissary
 1 Zhur-Taa Goblin
-2 Zhur-Taa Goblin
+1 Burning-Tree Emissary
 2 Experiment One
 2 Pelt Collector
+2 Zhur-Taa Goblin
 2 Burning-Tree Emissary
 3 Pelt Collector
-3 Zhur-Taa Goblin
 3 Experiment One
+3 Zhur-Taa Goblin
 3 Burning-Tree Emissary
 4 Experiment One
 4 Pelt Collector
@@ -38,6 +40,7 @@
 1 Domri Rade
 1 Domri, Anarch of Bolas
 2 Domri, Anarch of Bolas
+1 Domri's Ambush
 1 Steel Leaf Champion
 2 Steel Leaf Champion
 3 Steel Leaf Champion
@@ -113,13 +116,16 @@
 9 Mountain
 10 Mountain
 1 Castle Embereth
-1 Hazoret the Fervent
 2 Hazoret the Fervent
+1 Vine Mare
+2 Vine Mare
+1 Abrade
+2 Abrade
+3 Abrade
 1 Syr Faren, the Hengehammer
 1 Managorger Hydra
 1 Yorvo, Lord of Garenbrig
 1 Aspect of Hydra
-1 Domri's Ambush
 1 Kessig Prowler
 1 Resilient Khenra
 2 Syr Faren, the Hengehammer
@@ -152,20 +158,19 @@
 3 Hanweir Battlements
 4 Cinder Glade
 4 Sylvan Caryatid
+1 Oblivion Sower
 1 World Breaker
 1 Kozilek's Return
 1 Whisperwood Elemental
 1 Nissa's Pilgrimage
 1 Sanctum of Ugin
 1 Castle Garenbrig
-1 Oblivion Sower
 1 Explosive Vegetation
 1 Omnath, Locus of Rage
 1 Sylvan Scrying
 1 Ugin, the Spirit Dragon
 1 Ulamog, the Ceaseless Hunger
 1 Arboreal Grazer
-2 Oblivion Sower
 2 Kozilek's Return
 2 World Breaker
 2 Omnath, Locus of Rage
@@ -174,11 +179,11 @@
 2 Castle Garenbrig
 2 Nissa's Pilgrimage
 2 Sanctum of Ugin
+2 Oblivion Sower
 2 Explosive Vegetation
 2 Ulamog, the Ceaseless Hunger
 2 Arboreal Grazer
 2 Ugin, the Spirit Dragon
-3 Oblivion Sower
 3 Kozilek's Return
 3 Whisperwood Elemental
 3 Castle Garenbrig
@@ -187,6 +192,7 @@
 3 Sanctum of Ugin
 3 World Breaker
 3 Explosive Vegetation
+3 Oblivion Sower
 3 Arboreal Grazer
 4 Kozilek's Return
 4 Nissa's Pilgrimage
@@ -204,7 +210,6 @@
 4 Paradise Druid
 4 Dragonlord Atarka
 1 Fling
-1 Become Immense
 1 Longtusk Cub
 1 Attune with Aether
 1 Aether Hub
@@ -212,6 +217,7 @@
 1 Harnessed Lightning
 1 Bristling Hydra
 1 Maximize Velocity
+1 Become Immense
 2 Collision / Colossus
 2 Become Immense
 2 Harnessed Lightning
@@ -223,9 +229,9 @@
 2 Attune with Aether
 3 Collision / Colossus
 3 Bristling Hydra
-3 Electrostatic Pummeler
 3 Temur Battle Rage
 3 Longtusk Cub
+3 Electrostatic Pummeler
 3 Attune with Aether
 3 Aether Hub
 3 Become Immense
@@ -234,9 +240,9 @@
 4 Bristling Hydra
 4 Longtusk Cub
 4 Electrostatic Pummeler
+4 Harnessed Lightning
 4 Blossoming Defense
 4 Attune with Aether
-4 Harnessed Lightning
 4 Aether Hub
 1 Courser of Kruphix
 2 Courser of Kruphix
@@ -245,7 +251,6 @@
 3 Glorybringer
 3 Domri Rade
 4 Courser of Kruphix
-4 Questing Beast
 4 Glorybringer
 4 Domri Rade
 1 Mutavault

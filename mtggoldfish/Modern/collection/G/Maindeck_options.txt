@@ -1,5 +1,5 @@
-1 Throne of Geth
-1 Phyrexia's Core
+1 Steel Overseer
+1 Blinkmoth Nexus
 1 Forest
 2 Forest
 3 Forest
@@ -7,17 +7,17 @@
 5 Forest
 6 Forest
 1 Karn, the Great Creator
-1 Devoted Druid
+1 Genesis Hydra
 1 Vivien, Arkbow Ranger
+1 Wistful Selkie
 1 Once Upon a Time
+1 Devoted Druid
 1 Leyline of Abundance
 1 Elvish Mystic
 1 Nykthos, Shrine to Nyx
 1 Llanowar Elves
-1 Wistful Selkie
 1 Dryad Arbor
 1 Noble Hierarch
-1 Genesis Hydra
 1 Windswept Heath
 1 Misty Rainforest
 1 Burning-Tree Emissary
@@ -25,6 +25,7 @@
 1 Oath of Nissa
 2 Karn, the Great Creator
 2 Devoted Druid
+2 Genesis Hydra
 2 Vivien, Arkbow Ranger
 2 Once Upon a Time
 2 Leyline of Abundance
@@ -32,7 +33,6 @@
 2 Elvish Mystic
 2 Nykthos, Shrine to Nyx
 2 Windswept Heath
-2 Genesis Hydra
 2 Noble Hierarch
 2 Wistful Selkie
 2 Oath of Nissa
@@ -98,17 +98,17 @@
 3 Pelt Collector
 4 Strangleroot Geist
 4 Hexdrinker
+4 Nurturing Peatland
 4 Dryad Militant
 4 Savage Swipe
 4 Avatar of the Resolute
 4 Pelt Collector
 4 Aspect of Hydra
-4 Nurturing Peatland
 4 Vines of Vastwood
 4 Rancor
 7 Forest
-8 Forest
 9 Forest
+10 Forest
 11 Forest
 12 Forest
-10 Forest
+8 Forest
