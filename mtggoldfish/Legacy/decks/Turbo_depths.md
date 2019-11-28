@@ -77,7 +77,6 @@
 |                     |                                                                                                 |                    4|[Mindbreak Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197532)          |
 |                     |                                                                                                 |                    3|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)     |
 |                     |                                                                                                 |                    4|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)     |
-|                     |                                                                                                 |                    1|[Reclamation Sage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389651)        |
 |                     |                                                                                                 |                    1|[Boseiju, Who Shelters All](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=75305)|
 |                     |                                                                                                 |                    1|[Rite of Consumption](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=159400)     |
 |                     |                                                                                                 |                    1|[Blast Zone](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461171)              |
@@ -85,4 +84,5 @@
 |                     |                                                                                                 |                    3|[Assassin's Trophy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452902)       |
 |                     |                                                                                                 |                    3|[Rite of Consumption](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=159400)     |
 |                     |                                                                                                 |                    4|[Rite of Consumption](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=159400)     |
+|                     |                                                                                                 |                    1|[Reclamation Sage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389651)        |
 
