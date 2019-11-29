@@ -42,7 +42,7 @@
 |                     |                                                                                             |                    2|[Fry](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466894)                       |
 |                     |                                                                                             |                    1|[Aethersphere Harvester](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423809)    |
 |                     |                                                                                             |                    1|[Rampaging Ferocidon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435308)       |
-|                     |                                                                                             |                    2|[Hazoret the Fervent](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426838)       |
 |                     |                                                                                             |                    2|[Aethersphere Harvester](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423809)    |
+|                     |                                                                                             |                    2|[Hazoret the Fervent](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426838)       |
 |                     |                                                                                             |                    2|[Rampaging Ferocidon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435308)       |
 

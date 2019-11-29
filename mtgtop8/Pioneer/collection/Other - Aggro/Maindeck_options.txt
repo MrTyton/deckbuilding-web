@@ -1,7 +1,5 @@
-1 Brazen Borrower
-2 Brazen Borrower
-1 Surrak, the Hunt Caller
-1 Yorvo, Lord of Garenbrig
+4 Stubborn Denial
+7 Forest
 1 Mutavault
 1 Island
 2 Mutavault
@@ -44,13 +42,12 @@
 3 Rattlechains
 3 Mausoleum Wanderer
 4 Empyrean Eagle
+4 Rattlechains
 4 Supreme Phantom
 4 Mausoleum Wanderer
-4 Rattlechains
 5 Island
 6 Island
 7 Island
-1 Scavenging Ooze
 3 Questing Beast
 1 Smuggler's Copter
 2 Smuggler's Copter
@@ -60,10 +57,6 @@
 1 Tireless Tracker
 2 Tireless Tracker
 2 Port Town
-1 Ghalta, Primal Hunger
-2 Ghalta, Primal Hunger
-2 Yorvo, Lord of Garenbrig
-3 Ghalta, Primal Hunger
 1 Curious Obsession
 2 Curious Obsession
 3 Port Town
@@ -81,9 +74,11 @@
 4 Hydroid Krasis
 4 Wicked Wolf
 4 Nissa, Who Shakes the World
+1 Surrak, the Hunt Caller
+1 Yorvo, Lord of Garenbrig
 2 Rhonas the Indomitable
 3 Hashep Oasis
-2 Scavenging Ooze
+1 Scavenging Ooze
 1 Glorybringer
 1 Chandra, Torch of Defiance
 1 Stomping Ground
@@ -110,11 +105,13 @@
 3 Chandra, Torch of Defiance
 1 Llanowar Wastes
 1 Overgrown Tomb
-1 Watery Grave
 1 Blooming Marsh
 2 Blooming Marsh
-2 Watery Grave
 2 Overgrown Tomb
+3 Blooming Marsh
+4 Blooming Marsh
+1 Watery Grave
+2 Watery Grave
 1 Stitcher's Supplier
 1 Satyr Wayfinder
 1 Scrapheap Scrounger
@@ -132,18 +129,19 @@
 3 Scrapheap Scrounger
 3 Prized Amalgam
 3 Elder Deep-Fiend
-3 Blooming Marsh
 3 Creeping Chill
 3 Watery Grave
 4 Satyr Wayfinder
 4 Elder Deep-Fiend
 4 Prized Amalgam
-4 Blooming Marsh
 4 Creeping Chill
+3 Overgrown Tomb
 1 Mountain
 2 Mountain
 1 Hinterland Harbor
 2 Hinterland Harbor
+2 Llanowar Wastes
+3 Llanowar Wastes
 1 Swamp
 1 Aether Hub
 1 Attune with Aether
@@ -155,19 +153,23 @@
 3 Aether Hub
 4 Rogue Refiner
 4 Aether Hub
-3 Overgrown Tomb
 4 Overgrown Tomb
 2 Declaration in Stone
 1 Sky Tether
-2 Surrak, the Hunt Caller
 1 Vivien, Arkbow Ranger
 2 Vivien, Arkbow Ranger
+1 Ghalta, Primal Hunger
+2 Ghalta, Primal Hunger
+2 Yorvo, Lord of Garenbrig
+3 Ghalta, Primal Hunger
 1 Steam Vents
 2 Steam Vents
+2 Scavenging Ooze
 3 Steam Vents
 4 Questing Beast
 4 Steam Vents
 4 Glorybringer
+4 Port Town
 3 Mutavault
 4 Mutavault
 1 Kiora, Behemoth Beckoner
@@ -175,8 +177,8 @@
 1 Game Trail
 1 Vivien Reid
 1 Walking Ballista
-1 Possibility Storm
 1 Domri Rade
+1 Possibility Storm
 1 Shared Summons
 1 Captain Lannery Storm
 1 Borborygmos Enraged
@@ -231,47 +233,14 @@
 1 Gather the Pack
 1 Grisly Salvage
 1 Gurmag Angler
-2 Llanowar Wastes
 2 Deathrite Shaman
 2 Gurmag Angler
 2 Grisly Salvage
 2 Gather the Pack
-3 Llanowar Wastes
 3 Deathrite Shaman
 3 Grisly Salvage
 4 Grisly Salvage
 4 Deathrite Shaman
-1 Thraben Inspector
-1 Castle Ardenvale
-2 Thraben Inspector
-3 Thraben Inspector
-4 Thraben Inspector
-6 Plains
-7 Plains
-1 Gideon of the Trials
-1 Brimaz, King of Oreskos
-1 Gideon, Ally of Zendikar
-1 Archangel Avacyn
-1 Gideon Blackblade
-1 Reflector Mage
-1 Teferi, Time Raveler
-1 Supreme Verdict
-1 Irrigated Farmland
-1 Lyra Dawnbringer
-2 Irrigated Farmland
-2 Castle Ardenvale
-2 Archangel Avacyn
-2 Reflector Mage
-2 Teferi, Time Raveler
-2 Gideon, Ally of Zendikar
-3 Reflector Mage
-3 Archangel Avacyn
-3 Gideon, Ally of Zendikar
-3 Selfless Spirit
-4 Gideon, Ally of Zendikar
-4 Selfless Spirit
-4 Reflector Mage
-4 Port Town
 1 Thought-Knot Seer
 1 Reality Smasher
 1 Sea Gate Wreckage
@@ -283,6 +252,36 @@
 3 Heart of Kiran
 4 Thought-Knot Seer
 4 Hashep Oasis
+1 Thraben Inspector
+1 Castle Ardenvale
+2 Thraben Inspector
+3 Thraben Inspector
+4 Thraben Inspector
+6 Plains
+7 Plains
+1 Gideon of the Trials
+1 Brimaz, King of Oreskos
+1 Archangel Avacyn
+1 Gideon, Ally of Zendikar
+1 Gideon Blackblade
+1 Irrigated Farmland
+1 Reflector Mage
+1 Teferi, Time Raveler
+1 Supreme Verdict
+1 Lyra Dawnbringer
+2 Irrigated Farmland
+2 Castle Ardenvale
+2 Archangel Avacyn
+2 Reflector Mage
+2 Teferi, Time Raveler
+2 Gideon, Ally of Zendikar
+3 Reflector Mage
+3 Archangel Avacyn
+3 Gideon, Ally of Zendikar
+3 Selfless Spirit
+4 Selfless Spirit
+4 Reflector Mage
+4 Gideon, Ally of Zendikar
 2 Stitcher's Supplier
 3 Stitcher's Supplier
 4 Stitcher's Supplier
@@ -317,13 +316,44 @@
 4 Attune with Aether
 4 Harnessed Lightning
 4 Whirler Virtuoso
+1 Elvish Visionary
+1 Wildborn Preserver
+1 Collected Company
+1 Unclaimed Territory
+1 Shaman of the Pack
+1 Gnarlroot Trapper
+1 Elvish Clancaller
+1 Dwynen's Elite
+1 Dwynen, Gilt-Leaf Daen
+2 Wildborn Preserver
+2 Collected Company
+2 Unclaimed Territory
+2 Elvish Clancaller
+2 Gnarlroot Trapper
+2 Shaman of the Pack
+2 Dwynen's Elite
+2 Elvish Visionary
+3 Wildborn Preserver
+3 Collected Company
+3 Unclaimed Territory
+3 Elvish Clancaller
+3 Shaman of the Pack
+3 Dwynen's Elite
+3 Elvish Visionary
+4 Wildborn Preserver
+4 Collected Company
+4 Unclaimed Territory
+4 Elvish Visionary
+4 Elvish Clancaller
+4 Shaman of the Pack
+4 Dwynen's Elite
+1 Titan's Strength
 1 Battlefield Forge
 1 Clifftop Retreat
 1 Gird for Battle
 1 Sacred Foundry
 1 Phalanx Leader
 1 Expedite
-1 Titan's Strength
 1 Reckless Rage
 1 Inspiring Vantage
 1 Favored Hoplite
@@ -332,13 +362,13 @@
 1 Gods Willing
 1 Monastery Swiftspear
 1 Feather, the Redeemed
+2 Titan's Strength
 2 Battlefield Forge
 2 Clifftop Retreat
 2 Gird for Battle
 2 Phalanx Leader
 2 Sacred Foundry
 2 Expedite
-2 Titan's Strength
 2 Reckless Rage
 2 Favored Hoplite
 2 Monastery Swiftspear
@@ -352,9 +382,9 @@
 3 Sacred Foundry
 3 Gird for Battle
 3 Expedite
-3 Titan's Strength
 3 Reckless Rage
 3 Inspiring Vantage
+3 Titan's Strength
 3 Favored Hoplite
 3 Defiant Strike
 3 Monastery Swiftspear
@@ -375,7 +405,6 @@
 4 Favored Hoplite
 1 Grasp of Darkness
 1 Godless Shrine
-1 Lazotep Reaver
 1 Temple of Silence
 1 Isolated Chapel
 1 Cryptbreaker
@@ -384,31 +413,32 @@
 1 Westvale Abbey
 1 Rally the Ancestors
 1 Diregraf Colossus
+1 Lazotep Reaver
 1 Wayward Servant
 1 Corpse Knight
 1 Nantuko Husk
 1 Foulmire Knight
-2 Lazotep Reaver
 2 Temple of Silence
 2 Godless Shrine
+2 Nantuko Husk
+2 Lazotep Reaver
 2 Wayward Servant
 2 Isolated Chapel
 2 Concealed Courtyard
-2 Nantuko Husk
+2 Diregraf Colossus
 2 Foulmire Knight
 2 Corpse Knight
 2 Liliana, Untouched by Death
 2 Cryptbreaker
-2 Diregraf Colossus
 2 Rally the Ancestors
 3 Isolated Chapel
-3 Lazotep Reaver
 3 Godless Shrine
 3 Corpse Knight
 3 Cryptbreaker
 3 Liliana, Untouched by Death
 3 Rally the Ancestors
 3 Swamp
+3 Lazotep Reaver
 3 Concealed Courtyard
 3 Wayward Servant
 4 Concealed Courtyard
@@ -456,10 +486,10 @@
 3 Boros Elite
 3 Benalish Marshal
 3 Knight of the White Orchid
-4 Declaration in Stone
 4 Thalia's Lieutenant
 4 Dauntless Bodyguard
 4 Benalish Marshal
+4 Declaration in Stone
 4 Brave the Elements
 4 Boros Elite
 4 Mardu Woe-Reaper

@@ -30,8 +30,8 @@
 
 |*n*<sup>th</sup> copy|                                       Maindeck Card                                        |*n*<sup>th</sup> copy|                                         Sideboard Card                                         |
 |--------------------:|--------------------------------------------------------------------------------------------|--------------------:|------------------------------------------------------------------------------------------------|
-|                    1|[Season of Growth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466945) |                    1|[Leyline of Sanctity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=204993)  |
-|                    1|[Helm of the Gods](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=398588) |                    1|[Pithing Needle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129526)       |
+|                    1|[Season of Growth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466945) |                    1|[Pithing Needle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129526)       |
+|                    1|[Helm of the Gods](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=398588) |                    1|[Leyline of Sanctity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=204993)  |
 |                    3|[Fortified Village](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=410042)|                    2|[Pithing Needle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129526)       |
 |                    4|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)           |                    2|[Leyline of Sanctity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=204993)  |
 |                    4|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)           |                    2|[Cartouche of Strength](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426860)|

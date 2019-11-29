@@ -42,6 +42,6 @@
 |                    3|[Glint-Nest Crane](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417623) |                    2|[Battle at the Bridge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423720)|
 |                    4|[Once Upon a Time](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473131) |                    3|[Rotting Regisaur](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466865)    |
 |                    4|[Glint-Nest Crane](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417623) |                    3|[Battle at the Bridge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423720)|
-|                     |                                                                                            |                    4|[Rotting Regisaur](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466865)    |
 |                     |                                                                                            |                    4|[Battle at the Bridge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423720)|
+|                     |                                                                                            |                    4|[Rotting Regisaur](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466865)    |
 

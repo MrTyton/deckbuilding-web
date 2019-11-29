@@ -3,10 +3,6 @@
 2 Soul-Scar Mage
 3 Soul-Scar Mage
 4 Soul-Scar Mage
-1 Monastery Swiftspear
-2 Monastery Swiftspear
-3 Monastery Swiftspear
-4 Monastery Swiftspear
 1 Skewer the Critics
 1 Thermo-Alchemist
 1 Wizard's Lightning
@@ -27,7 +23,10 @@
 1 Torbran, Thane of Red Fell
 2 Torbran, Thane of Red Fell
 4 Glorybringer
-3 Castle Embereth
+1 Monastery Swiftspear
+2 Monastery Swiftspear
+3 Monastery Swiftspear
+4 Monastery Swiftspear
 1 Shock
 1 Runaway Steam-Kin
 1 Experimental Frenzy
@@ -36,46 +35,14 @@
 2 Runaway Steam-Kin
 2 Experimental Frenzy
 2 Bonecrusher Giant
+3 Runaway Steam-Kin
 3 Shock
 3 Skewer the Critics
-3 Runaway Steam-Kin
 3 Experimental Frenzy
-4 Shock
 4 Runaway Steam-Kin
+4 Shock
 4 Experimental Frenzy
 4 Legion Warboss
-1 Nykthos, Shrine to Nyx
-1 Dragon Whisperer
-1 Chandra, Pyromaster
-1 Ember Hauler
-1 Leyline of Combustion
-1 Fanatic of Mogis
-1 Chandra, Torch of Defiance
-1 Wily Goblin
-1 Burning-Tree Emissary
-1 Fall of the Titans
-1 Goblin Chainwhirler
-2 Wily Goblin
-2 Nykthos, Shrine to Nyx
-2 Ember Hauler
-2 Leyline of Combustion
-2 Fanatic of Mogis
-2 Burning-Tree Emissary
-2 Goblin Chainwhirler
-3 Wily Goblin
-3 Fanatic of Mogis
-3 Nykthos, Shrine to Nyx
-3 Goblin Chainwhirler
-3 Leyline of Combustion
-3 Burning-Tree Emissary
-3 Torbran, Thane of Red Fell
-3 Ember Hauler
-4 Goblin Chainwhirler
-4 Nykthos, Shrine to Nyx
-4 Fanatic of Mogis
-4 Leyline of Combustion
-4 Burning-Tree Emissary
-4 Ember Hauler
 1 Viashino Pyromancer
 1 Skullcrack
 1 Searing Blood
@@ -89,38 +56,38 @@
 4 Viashino Pyromancer
 4 Searing Blood
 4 Thermo-Alchemist
-1 Titan's Strength
-1 Dragon Mantle
-1 Foundry Street Denizen
-1 Cartouche of Zeal
-1 Consuming Fervor
-1 Akroan Crusader
-1 Satyr Hoplite
-1 Hammerhand
-2 Titan's Strength
-2 Dragon Mantle
-2 Foundry Street Denizen
-2 Akroan Crusader
-2 Satyr Hoplite
-2 Hammerhand
-2 Consuming Fervor
-2 Cartouche of Zeal
-3 Dragon Mantle
-3 Foundry Street Denizen
-3 Satyr Hoplite
-3 Cartouche of Zeal
-3 Hammerhand
-3 Titan's Strength
-3 Consuming Fervor
-3 Akroan Crusader
-4 Dragon Mantle
-4 Foundry Street Denizen
-4 Cartouche of Zeal
-4 Satyr Hoplite
-4 Titan's Strength
-4 Consuming Fervor
-4 Hammerhand
-4 Akroan Crusader
+1 Nykthos, Shrine to Nyx
+1 Ember Hauler
+1 Leyline of Combustion
+1 Chandra, Pyromaster
+1 Fanatic of Mogis
+1 Chandra, Torch of Defiance
+1 Wily Goblin
+1 Dragon Whisperer
+1 Burning-Tree Emissary
+1 Fall of the Titans
+1 Goblin Chainwhirler
+2 Nykthos, Shrine to Nyx
+2 Ember Hauler
+2 Leyline of Combustion
+2 Fanatic of Mogis
+2 Burning-Tree Emissary
+2 Goblin Chainwhirler
+2 Wily Goblin
+3 Nykthos, Shrine to Nyx
+3 Goblin Chainwhirler
+3 Leyline of Combustion
+3 Burning-Tree Emissary
+3 Wily Goblin
+3 Torbran, Thane of Red Fell
+3 Ember Hauler
+3 Fanatic of Mogis
+4 Nykthos, Shrine to Nyx
+4 Leyline of Combustion
+4 Goblin Chainwhirler
+4 Burning-Tree Emissary
+4 Ember Hauler
+4 Fanatic of Mogis
 1 Stoke the Flames
 1 Dragon Fodder
 1 Bomat Courier
@@ -132,6 +99,7 @@
 2 Dragon Fodder
 2 Hordeling Outburst
 3 Stoke the Flames
+3 Castle Embereth
 3 Bomat Courier
 3 Hordeling Outburst
 3 Dragon Fodder

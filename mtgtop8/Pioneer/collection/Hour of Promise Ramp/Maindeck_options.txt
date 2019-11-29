@@ -12,13 +12,13 @@
 1 Castle Locthwain
 1 Hissing Quagmire
 1 Urborg, Tomb of Yawgmoth
-1 Abrupt Decay
 1 Ifnir Deadlands
 1 Tireless Tracker
 1 Overgrown Tomb
 1 Llanowar Wastes
 1 Fatal Push
 1 Blooming Marsh
+1 Abrupt Decay
 2 Swamp
 2 Abrupt Decay
 2 Tireless Tracker
@@ -26,7 +26,6 @@
 2 Fatal Push
 3 Abrupt Decay
 3 Tireless Tracker
-1 Radiant Fountain
 1 Courser of Kruphix
 2 Fabled Passage
 1 Thoughtseize
@@ -35,6 +34,7 @@
 4 Thoughtseize
 2 Llanowar Wastes
 4 Tireless Tracker
+1 Radiant Fountain
 4 Abrupt Decay
 1 Crumbling Vestige
 1 World Breaker
@@ -55,14 +55,15 @@
 1 Ulamog, the Ceaseless Hunger
 2 Settle the Wreckage
 2 Murderous Rider
+4 Sphinx's Revelation
 1 Shrine of the Forsaken Gods
 1 Sanctum of Ugin
 2 Ugin, the Spirit Dragon
 2 Shrine of the Forsaken Gods
 3 Ugin, the Spirit Dragon
 4 Ugin, the Spirit Dragon
-4 Sphinx's Revelation
 2 World Breaker
+1 Sea Gate Wreckage
 1 Nissa's Pilgrimage
 2 Hashep Oasis
 2 Ulamog, the Ceaseless Hunger
@@ -72,7 +73,6 @@
 3 Castle Garenbrig
 3 Hashep Oasis
 3 Shrine of the Forsaken Gods
-4 Castle Garenbrig
 4 Nissa's Pilgrimage
 4 Forest
 5 Forest
@@ -105,8 +105,8 @@
 1 Temple of Epiphany
 1 Ipnu Rivulet
 1 Steam Vents
-2 Risen Reef
 2 Elder Deep-Fiend
+2 Risen Reef
 2 Kozilek's Return
 3 Elder Deep-Fiend
 3 Risen Reef
@@ -116,13 +116,13 @@
 2 Kalitas, Traitor of Ghet
 2 Legion's End
 4 Fatal Push
-1 Sea Gate Wreckage
 1 Arch of Orazca
 1 Sheltered Thicket
 1 Spatial Contortion
 2 Radiant Fountain
 2 Spatial Contortion
 3 Spatial Contortion
+4 Castle Garenbrig
 4 Spatial Contortion
 4 Shrine of the Forsaken Gods
 1 Watery Grave
@@ -143,3 +143,4 @@
 2 Walking Ballista
 3 Walking Ballista
 4 Walking Ballista
+7 Forest

@@ -34,8 +34,8 @@
 |                    4|[Questing Beast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473133)        |                    1|[Grasp of Darkness](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407595)  |
 |                    4|[Rhonas the Indomitable](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426884)|                    1|[Assassin's Trophy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452902)  |
 |                     |                                                                                                 |                    1|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)|
-|                     |                                                                                                 |                    2|[Grasp of Darkness](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407595)  |
 |                     |                                                                                                 |                    2|[Assassin's Trophy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452902)  |
+|                     |                                                                                                 |                    2|[Grasp of Darkness](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407595)  |
 |                     |                                                                                                 |                    2|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)|
 |                     |                                                                                                 |                    3|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)|
 

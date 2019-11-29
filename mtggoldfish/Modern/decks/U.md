@@ -25,24 +25,3 @@
 |                                                                                                |2 [Spellskite](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397743)           |2 [Cryptic Command](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438614)      |                                                                                                 |
 |                                                                                                |2 [Tidebinder Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438462)      |2 [Spell Snare](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446100)          |                                                                                                 |
 
-
-# Other Options
-
-|*n*<sup>th</sup> copy|                                       Maindeck Card                                        |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
-|--------------------:|--------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
-|                    1|[Faerie Conclave](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=106531)  |                    1|[Deprive](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=193519)            |
-|                    1|[Cursecatcher](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442042)     |                    1|[Dismember](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382182)          |
-|                    1|[Tidebinder Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438462)  |                    1|[Vendilion Clique](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442065)   |
-|                    1|[Deprive](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=193519)          |                    1|[Brazen Borrower](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473001)    |
-|                    2|[Faerie Conclave](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=106531)  |                    1|[Chalice of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442211)|
-|                    2|[Cursecatcher](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442042)     |                    2|[Brazen Borrower](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473001)    |
-|                    2|[Deprive](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=193519)          |                    2|[Vendilion Clique](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442065)   |
-|                    2|[Tidebinder Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438462)  |                    2|[Deprive](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=193519)            |
-|                    3|[Cursecatcher](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442042)     |                    2|[Dismember](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382182)          |
-|                    4|[Cursecatcher](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442042)     |                    2|[Chalice of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442211)|
-|                    4|[Waterlogged Grove](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464198)|                    3|[Dismember](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382182)          |
-|                    6|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)           |                    3|[Relic of Progenitus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174824)|
-|                    8|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)           |                    3|[Chalice of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442211)|
-|                    9|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)           |                     |                                                                                              |
-|                    7|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)           |                     |                                                                                              |
-

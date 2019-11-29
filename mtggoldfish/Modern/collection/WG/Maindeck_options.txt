@@ -2,46 +2,6 @@
 2 Noble Hierarch
 3 Noble Hierarch
 4 Noble Hierarch
-1 Once Upon a Time
-2 Once Upon a Time
-3 Forest
-3 Temple Garden
-3 Once Upon a Time
-4 Once Upon a Time
-1 Blossoming Defense
-1 Rancor
-1 Inkmoth Nexus
-1 Ichorclaw Myr
-1 Pendelhaven
-1 Scale Up
-1 Glistener Elf
-1 Groundswell
-1 Vines of Vastwood
-1 Might of Old Krosa
-2 Scale Up
-2 Rancor
-2 Inkmoth Nexus
-2 Pendelhaven
-2 Ichorclaw Myr
-2 Blossoming Defense
-2 Vines of Vastwood
-2 Groundswell
-2 Might of Old Krosa
-2 Glistener Elf
-3 Groundswell
-3 Might of Old Krosa
-3 Scale Up
-3 Glistener Elf
-3 Vines of Vastwood
-3 Inkmoth Nexus
-3 Ichorclaw Myr
-3 Blossoming Defense
-4 Inkmoth Nexus
-4 Scale Up
-4 Glistener Elf
-4 Might of Old Krosa
-4 Ichorclaw Myr
-4 Vines of Vastwood
 1 Eldrazi Temple
 1 Wastes
 1 Ancient Stirrings
@@ -71,9 +31,9 @@
 3 Prismatic Vista
 3 Thought-Knot Seer
 3 Cavern of Souls
-3 Reality Smasher
 3 Karn, the Great Creator
 3 Brushland
+3 Reality Smasher
 4 Eldrazi Temple
 4 Eldrazi Displacer
 4 Ancient Stirrings
@@ -83,6 +43,92 @@
 4 Karn, the Great Creator
 4 Prismatic Vista
 4 Stoneforge Mystic
+3 Forest
+3 Temple Garden
+1 Rancor
+2 Rancor
+1 Once Upon a Time
+2 Once Upon a Time
+3 Once Upon a Time
+4 Once Upon a Time
+1 Blossoming Defense
+1 Inkmoth Nexus
+1 Ichorclaw Myr
+1 Pendelhaven
+1 Groundswell
+1 Scale Up
+1 Glistener Elf
+1 Vines of Vastwood
+1 Might of Old Krosa
+2 Scale Up
+2 Inkmoth Nexus
+2 Pendelhaven
+2 Ichorclaw Myr
+2 Blossoming Defense
+2 Vines of Vastwood
+2 Groundswell
+2 Might of Old Krosa
+2 Glistener Elf
+3 Groundswell
+3 Might of Old Krosa
+3 Scale Up
+3 Glistener Elf
+3 Vines of Vastwood
+3 Inkmoth Nexus
+3 Ichorclaw Myr
+3 Blossoming Defense
+4 Inkmoth Nexus
+4 Scale Up
+4 Glistener Elf
+4 Might of Old Krosa
+4 Vines of Vastwood
+4 Ichorclaw Myr
+3 Plains
+4 Temple Garden
+4 Plains
+1 Dryad Arbor
+1 Suppression Field
+1 All That Glitters
+1 Spider Umbra
+1 Ethereal Armor
+1 Hyena Umbra
+1 Daybreak Coronet
+1 Sixth Sense
+1 Gladecover Scout
+1 Windswept Heath
+1 Kor Spiritdancer
+1 Gryff's Boon
+1 Slippery Bogle
+2 Suppression Field
+2 Slippery Bogle
+2 Windswept Heath
+2 Daybreak Coronet
+2 Gladecover Scout
+2 Ethereal Armor
+2 All That Glitters
+2 Gryff's Boon
+2 Hyena Umbra
+2 Kor Spiritdancer
+2 Spider Umbra
+3 Rancor
+3 Kor Spiritdancer
+3 Slippery Bogle
+3 Daybreak Coronet
+3 Gryff's Boon
+3 Spider Umbra
+3 Ethereal Armor
+3 Hyena Umbra
+3 Windswept Heath
+3 Gladecover Scout
+4 Hyena Umbra
+4 Kor Spiritdancer
+4 Windswept Heath
+4 Ethereal Armor
+4 Daybreak Coronet
+4 Gladecover Scout
+4 Gryff's Boon
+4 Slippery Bogle
+4 Rancor
 1 Castle Ardenvale
 1 Giant Killer
 1 Unbreakable Formation
@@ -105,29 +151,26 @@
 2 Shepherd of the Flock
 2 March of the Multitudes
 2 Conclave Tribunal
-3 Plains
-3 Lovestruck Beast
 3 Shepherd of the Flock
-3 Edgewall Innkeeper
 3 Flower/Flourish
+3 Edgewall Innkeeper
+3 Lovestruck Beast
 3 March of the Multitudes
 3 Faerie Guidemother
 3 Giant Killer
 3 Venerated Loxodon
 4 Forest
-4 Lovestruck Beast
 4 Faerie Guidemother
 4 Edgewall Innkeeper
-4 Venerated Loxodon
 4 Giant Killer
-4 Temple Garden
+4 Lovestruck Beast
+4 Venerated Loxodon
 4 Shepherd of the Flock
-4 Plains
 5 Forest
 5 Plains
 6 Forest
 6 Plains
-7 Forest
 7 Plains
+7 Forest
 8 Forest
 8 Plains

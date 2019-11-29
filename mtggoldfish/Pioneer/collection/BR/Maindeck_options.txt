@@ -1,57 +1,40 @@
-2 Dreadbore
-3 Kolaghan's Command
-3 Canyon Slough
-4 Canyon Slough
-4 Bonecrusher Giant
-1 Liliana, the Last Hope
-2 Liliana, the Last Hope
-4 Wild Slash
-1 Kalitas, Traitor of Ghet
-1 Stromkirk Condemned
-1 Falkenrath Gorger
-2 Stromkirk Condemned
-2 Falkenrath Gorger
-3 Stromkirk Condemned
-3 Falkenrath Gorger
-4 Falkenrath Gorger
-7 Swamp
+1 Canyon Slough
+1 Dreadbore
+2 Canyon Slough
 1 Rankle, Master of Pranks
 1 Scrapheap Scrounger
 2 Scrapheap Scrounger
-1 Bomat Courier
-2 Bomat Courier
-3 Bomat Courier
-4 Bomat Courier
 1 Goblin Chainwhirler
 2 Goblin Chainwhirler
 3 Goblin Chainwhirler
 4 Goblin Chainwhirler
 7 Mountain
 8 Mountain
-1 Murderous Rider
-1 Castle Embereth
-1 Smoldering Marsh
-2 Murderous Rider
-2 Smoldering Marsh
-3 Murderous Rider
-3 Castle Locthwain
-3 Smoldering Marsh
+1 Wild Slash
+2 Wild Slash
 1 Young Pyromancer
+1 Liliana, the Last Hope
 1 Field of Ruin
 1 Murderous Cut
 2 Young Pyromancer
+2 Dreadbore
+2 Liliana, the Last Hope
 2 Kalitas, Traitor of Ghet
 2 Field of Ruin
-3 Young Pyromancer
-3 Kalitas, Traitor of Ghet
+3 Kolaghan's Command
+3 Bonecrusher Giant
 3 Field of Ruin
+3 Young Pyromancer
+3 Wild Slash
+3 Kalitas, Traitor of Ghet
 4 Young Pyromancer
+4 Wild Slash
 1 Judith, the Scourge Diva
+1 Draconic Roar
 1 Goblin Rabblemaster
 1 Fabled Passage
 1 Kolaghan, the Storm's Fury
 1 Transgress the Mind
-1 Draconic Roar
 1 Foul-Tongue Invocation
 1 Bloodsoaked Champion
 2 Judith, the Scourge Diva
@@ -65,27 +48,22 @@
 4 Bloodsoaked Champion
 4 Goblin Rabblemaster
 4 Draconic Roar
-1 Hazoret the Fervent
-1 Banefire
-1 Karn's Bastion
-1 Blast Zone
-1 Walking Ballista
-1 Lightning Strike
-1 Imminent Doom
-1 Eternal Scourge
-1 Ramunap Ruins
-2 Blast Zone
-2 Hazoret the Fervent
-2 Lightning Strike
-2 Karn's Bastion
-2 Banefire
-2 Imminent Doom
-2 Walking Ballista
-2 Ramunap Ruins
-3 Lightning Strike
-3 Imminent Doom
-4 Lightning Strike
-4 Imminent Doom
+1 Cast Down
+1 Bomat Courier
+1 Legion Warboss
+2 Rankle, Master of Pranks
+2 Bomat Courier
+2 Legion Warboss
+3 Legion Warboss
+3 Bomat Courier
+3 Foreboding Ruins
+3 Canyon Slough
+3 Scrapheap Scrounger
+4 Legion Warboss
+4 Bomat Courier
+4 Canyon Slough
+4 Foreboding Ruins
+4 Scrapheap Scrounger
 1 Mutavault
 1 Unclaimed Territory
 1 Drana, Liberator of Malakir
@@ -100,27 +78,17 @@
 2 Mutavault
 3 Unclaimed Territory
 3 Sorin, Imperious Bloodlord
-3 Champion of Dusk
 3 Mutavault
+3 Champion of Dusk
 4 Unclaimed Territory
 4 Champion of Dusk
 4 Sorin, Imperious Bloodlord
 4 Stromkirk Condemned
-1 Cast Down
-1 Legion Warboss
-2 Rankle, Master of Pranks
-2 Legion Warboss
-3 Legion Warboss
-3 Foreboding Ruins
-3 Scrapheap Scrounger
-4 Legion Warboss
-4 Foreboding Ruins
-4 Scrapheap Scrounger
 1 Asylum Visitor
 1 Voldaren Pariah
 1 Bloodhall Priest
-1 Fiery Temper
 1 Key to the City
+1 Fiery Temper
 2 Asylum Visitor
 2 Key to the City
 2 Bloodhall Priest
@@ -139,15 +107,16 @@
 1 Earthshaker Khenra
 1 Exava, Rakdos Blood Witch
 1 Wily Goblin
+1 Cut/Ribbons
 2 Burning-Tree Emissary
 2 Rix Maadi Reveler
 2 Cut/Ribbons
 2 Nykthos, Shrine to Nyx
 2 Ahn-Crop Crasher
+2 Earthshaker Khenra
 2 Exava, Rakdos Blood Witch
 2 Temple of Malice
 2 Wily Goblin
-2 Earthshaker Khenra
 3 Nykthos, Shrine to Nyx
 3 Burning-Tree Emissary
 3 Rix Maadi Reveler
@@ -155,6 +124,7 @@
 3 Cut/Ribbons
 3 Wily Goblin
 3 Temple of Malice
+3 Chandra, Torch of Defiance
 3 Ahn-Crop Crasher
 4 Nykthos, Shrine to Nyx
 4 Burning-Tree Emissary

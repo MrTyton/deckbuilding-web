@@ -2,12 +2,12 @@
 2 Teferi, Time Raveler
 3 Teferi, Time Raveler
 1 Stomping Ground
-1 Oath of Nissa
 1 Prismatic Vista
-1 Jace, the Mind Sculptor
 1 Snow-Covered Forest
+1 Oath of Nissa
 1 Path to Exile
 1 Temple Garden
+1 Jace, the Mind Sculptor
 1 Saheeli Rai
 1 Misty Rainforest
 1 Oko, Thief of Crowns
@@ -15,18 +15,18 @@
 1 Ice-Fang Coatl
 2 Snow-Covered Forest
 2 Oath of Nissa
+2 Oko, Thief of Crowns
 2 Felidar Guardian
 2 Saheeli Rai
 2 Ice-Fang Coatl
-2 Oko, Thief of Crowns
 2 Prismatic Vista
 2 Path to Exile
 2 Misty Rainforest
 3 Oko, Thief of Crowns
+3 Misty Rainforest
 3 Prismatic Vista
 3 Oath of Nissa
 3 Felidar Guardian
-3 Misty Rainforest
 3 Saheeli Rai
 3 Ice-Fang Coatl
 4 Oko, Thief of Crowns
@@ -46,6 +46,13 @@
 1 Wrenn and Six
 2 Wrenn and Six
 1 Watery Grave
+1 Snow-Covered Swamp
+1 Mirrodin Besieged
+1 Everflowing Chalice
+1 Polluted Delta
+2 Polluted Delta
+3 Polluted Delta
+4 Polluted Delta
 1 Fae of Wishes
 1 Castle Vantress
 1 Fires of Invention
@@ -67,10 +74,10 @@
 1 Island
 1 Cavalier of Gales
 1 Temple of Triumph
-1 Realm-Cloaked Giant
-1 Fabled Passage
 1 Deafening Clarion
 1 Bonecrusher Giant
+1 Realm-Cloaked Giant
+1 Fabled Passage
 1 Mountain
 1 Cavalier of Flame
 1 Kenrith, the Returned King
@@ -78,13 +85,13 @@
 2 Deafening Clarion
 2 Temple of Triumph
 2 Island
-2 Fabled Passage
-2 Bonecrusher Giant
 2 Castle Vantress
+2 Bonecrusher Giant
 2 Hallowed Fountain
 2 Cavalier of Flame
 2 Mountain
 2 Cavalier of Gales
+2 Fabled Passage
 3 Drawn from Dreams
 3 Deafening Clarion
 3 Castle Vantress
@@ -99,13 +106,6 @@
 4 Temple of Epiphany
 4 Cavalier of Gales
 4 Cavalier of Flame
-1 Mirrodin Besieged
-1 Everflowing Chalice
-1 Polluted Delta
-1 Snow-Covered Swamp
-2 Polluted Delta
-3 Polluted Delta
-4 Polluted Delta
 1 Waterlogged Grove
 1 Serum Visions
 1 Wooded Foothills
@@ -120,15 +120,15 @@
 1 Blood Crypt
 1 Godless Shrine
 1 Verdant Catacombs
-1 Huntmaster of the Fells
 1 Dreadbore
-1 Swamp
-1 Izzet Charm
+1 Huntmaster of the Fells
 1 Nahiri, the Harbinger
 1 Inquisition of Kozilek
 1 Kess, Dissident Mage
+1 Assassin's Trophy
 1 Unmoored Ego
 1 Maelstrom Pulse
+1 Swamp
 1 Niv-Mizzet Reborn
 1 Kolaghan's Command
 1 Arid Mesa
@@ -138,17 +138,17 @@
 1 Bring to Light
 1 Kaya's Guile
 1 Forest
+1 Izzet Charm
 1 Supreme Verdict
-1 Assassin's Trophy
 2 Verdant Catacombs
 2 Izzet Charm
 2 Arid Mesa
 2 Kaya's Guile
 2 Inquisition of Kozilek
+2 Assassin's Trophy
 2 Pillar of the Paruns
 2 Bring to Light
 2 Windswept Heath
-2 Assassin's Trophy
 2 Niv-Mizzet Reborn
 2 Lightning Helix
 2 Kolaghan's Command
@@ -169,8 +169,8 @@
 1 Dissenter's Deliverance
 1 Pact of Negation
 1 Eldritch Evolution
-1 Veil of Summer
 1 Life Goes On
+1 Veil of Summer
 1 Summoner's Pact
 1 Edge of Autumn
 1 Wild Cantor
@@ -219,23 +219,23 @@
 4 Eldritch Evolution
 4 Manamorphose
 4 Chancellor of the Tangle
+1 Temple of Silence
+1 Chandra, Awakened Inferno
 1 Narset, Parter of Veils
 1 Liliana, Dreadhorde General
 1 The Elderspell
-1 Chandra, Awakened Inferno
 1 Noxious Grasp
 1 Ritual of Soot
 1 Nicol Bolas, Dragon-God
 1 Interplanar Beacon
-1 Temple of Silence
 2 Narset, Parter of Veils
 2 Blood Crypt
-2 Watery Grave
 2 Noxious Grasp
 2 Nicol Bolas, Dragon-God
 2 The Elderspell
 2 Interplanar Beacon
 2 Ritual of Soot
+2 Watery Grave
 2 Temple of Silence
 2 Godless Shrine
 2 Thought Erasure
