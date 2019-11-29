@@ -60,6 +60,6 @@
 |                    2|[Emry, Lurker of the Loch](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473005)|                    3|[Etched Champion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397710)       |
 |                    3|[Memnite](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=194078)                 |                    1|[Whipflare](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389744)             |
 |                    1|[Ensoul Artifact](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383232)         |                    1|[Sai, Master Thopterist](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447205)|
-|                    2|[Ensoul Artifact](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383232)         |                    3|[Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)          |
-|                    3|[Ensoul Artifact](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383232)         |                    2|Wear / Tear                                                                                      |
+|                    2|[Ensoul Artifact](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383232)         |                    2|Wear / Tear                                                                                      |
+|                    3|[Ensoul Artifact](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383232)         |                    3|[Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)          |
 
