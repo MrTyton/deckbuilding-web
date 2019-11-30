@@ -81,8 +81,8 @@
 |                     |                                                                                                   |                    2|[Aethersphere Harvester](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423809)|
 |                     |                                                                                                   |                    1|[Magma Spray](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426843)           |
 |                     |                                                                                                   |                    2|[Magma Spray](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426843)           |
-|                     |                                                                                                   |                    2|[Fry](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466894)                   |
 |                     |                                                                                                   |                    3|[Disdainful Stroke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420705)     |
 |                     |                                                                                                   |                    4|[Flame Sweep](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466893)           |
 |                     |                                                                                                   |                    4|[The Antiquities War](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442930)   |
+|                     |                                                                                                   |                    2|[Fry](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466894)                   |
 
