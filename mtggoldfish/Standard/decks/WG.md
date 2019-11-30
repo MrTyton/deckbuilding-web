@@ -25,3 +25,12 @@
 |2 [The Great Henge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473123)|2 [Knight of Autumn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452933)  |                                                                                              |                                                                                          |
 |                                                                                            |2 [Questing Beast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473133)    |                                                                                              |                                                                                          |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|Maindeck Card|*n*<sup>th</sup> copy|                                             Sideboard Card                                             |
+|---------------------|-------------|--------------------:|--------------------------------------------------------------------------------------------------------|
+|                     |             |                    1|[Vivien, Champion of the Wilds](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461107)|
+|                     |             |                    2|[Vivien, Champion of the Wilds](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461107)|
+|                     |             |                    3|[Knight of Autumn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452933)             |
+

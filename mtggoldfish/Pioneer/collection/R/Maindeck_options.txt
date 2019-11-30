@@ -1,12 +1,14 @@
-14 Mountain
+4 Hanweir Garrison
+1 Torbran, Thane of Red Fell
+4 Legion Warboss
 1 Soul-Scar Mage
 2 Soul-Scar Mage
 3 Soul-Scar Mage
 4 Soul-Scar Mage
 1 Skewer the Critics
-1 Thermo-Alchemist
 1 Wizard's Lightning
 1 Ghitu Lavarunner
+1 Thermo-Alchemist
 1 Light Up the Stage
 2 Skewer the Critics
 2 Wizard's Lightning
@@ -14,22 +16,29 @@
 2 Light Up the Stage
 2 Thermo-Alchemist
 3 Ghitu Lavarunner
-3 Thermo-Alchemist
 3 Light Up the Stage
 3 Wizard's Lightning
+3 Thermo-Alchemist
 4 Wizard's Lightning
 4 Ghitu Lavarunner
 4 Light Up the Stage
-1 Torbran, Thane of Red Fell
 2 Torbran, Thane of Red Fell
 4 Glorybringer
 1 Monastery Swiftspear
 2 Monastery Swiftspear
 3 Monastery Swiftspear
 4 Monastery Swiftspear
+1 Stoke the Flames
+2 Stoke the Flames
+3 Stoke the Flames
+3 Castle Embereth
+4 Castle Embereth
+4 Stoke the Flames
+15 Mountain
+16 Mountain
 1 Shock
-1 Runaway Steam-Kin
 1 Experimental Frenzy
+1 Runaway Steam-Kin
 1 Bonecrusher Giant
 2 Shock
 2 Runaway Steam-Kin
@@ -42,7 +51,27 @@
 4 Runaway Steam-Kin
 4 Shock
 4 Experimental Frenzy
-4 Legion Warboss
+1 Goblin Piledriver
+1 Goblin Instigator
+1 Foundry Street Denizen
+1 Skirk Prospector
+1 Reckless Bushwhacker
+2 Goblin Piledriver
+2 Foundry Street Denizen
+2 Skirk Prospector
+2 Reckless Bushwhacker
+2 Goblin Instigator
+3 Foundry Street Denizen
+3 Goblin Piledriver
+3 Skirk Prospector
+3 Embercleave
+3 Reckless Bushwhacker
+3 Goblin Instigator
+4 Foundry Street Denizen
+4 Goblin Piledriver
+4 Skirk Prospector
+4 Goblin Instigator
+4 Reckless Bushwhacker
 1 Viashino Pyromancer
 1 Skullcrack
 1 Searing Blood
@@ -54,8 +83,8 @@
 3 Viashino Pyromancer
 3 Searing Blood
 4 Viashino Pyromancer
-4 Searing Blood
 4 Thermo-Alchemist
+4 Searing Blood
 1 Nykthos, Shrine to Nyx
 1 Ember Hauler
 1 Leyline of Combustion
@@ -71,9 +100,9 @@
 2 Ember Hauler
 2 Leyline of Combustion
 2 Fanatic of Mogis
+2 Wily Goblin
 2 Burning-Tree Emissary
 2 Goblin Chainwhirler
-2 Wily Goblin
 3 Nykthos, Shrine to Nyx
 3 Goblin Chainwhirler
 3 Leyline of Combustion
@@ -88,25 +117,17 @@
 4 Burning-Tree Emissary
 4 Ember Hauler
 4 Fanatic of Mogis
-1 Stoke the Flames
 1 Dragon Fodder
 1 Bomat Courier
 1 Hordeling Outburst
 1 Hazoret the Fervent
-2 Stoke the Flames
 2 Bomat Courier
 2 Hazoret the Fervent
 2 Dragon Fodder
 2 Hordeling Outburst
-3 Stoke the Flames
-3 Castle Embereth
 3 Bomat Courier
 3 Hordeling Outburst
 3 Dragon Fodder
-4 Castle Embereth
 4 Bomat Courier
-4 Stoke the Flames
 4 Dragon Fodder
-15 Mountain
-16 Mountain
 4 Hordeling Outburst

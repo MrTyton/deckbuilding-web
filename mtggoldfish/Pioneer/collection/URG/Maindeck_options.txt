@@ -1,63 +1,97 @@
-1 Oko, Thief of Crowns
-1 Once Upon a Time
-2 Oko, Thief of Crowns
-2 Botanical Sanctum
-2 Forest
-2 Once Upon a Time
-3 Oko, Thief of Crowns
-3 Stomping Ground
-3 Once Upon a Time
-4 Stomping Ground
-1 Aether Hub
-1 Rogue Refiner
-1 Longtusk Cub
-1 Attune with Aether
+1 Temple of Mystery
+1 Temple of Abandon
+1 Hour of Promise
+1 Elvish Rejuvenator
+1 Field of the Dead
+1 Sulfur Falls
+1 Growth Spiral
+1 Temple of Epiphany
+1 Rootbound Crag
+2 Field of the Dead
+2 Elvish Rejuvenator
+2 Hour of Promise
+2 Growth Spiral
+3 Elvish Rejuvenator
+3 Field of the Dead
+3 Growth Spiral
+4 Elvish Rejuvenator
+4 Growth Spiral
 1 Gilded Goose
 1 Heart of Kiran
+2 Gilded Goose
+2 Heart of Kiran
+2 Spirebluff Canal
+3 Gilded Goose
+3 Breeding Pool
+1 Jadelight Ranger
+1 Dig Through Time
+1 Shivan Reef
+1 Jace, Vryn's Prodigy
+1 Yavimaya Coast
+2 Jadelight Ranger
+2 Dig Through Time
+2 Jace, Vryn's Prodigy
+2 Steam Vents
+3 Jadelight Ranger
+3 Jace, Vryn's Prodigy
+3 Brazen Borrower
+4 Jadelight Ranger
+4 Jace, Vryn's Prodigy
+4 Brazen Borrower
+1 Rogue Refiner
+1 Abrade
+1 Longtusk Cub
 1 Glorybringer
-1 Harnessed Lightning
 1 Tireless Tracker
 1 Whirler Virtuoso
 1 Chandra, Torch of Defiance
-1 Abrade
 2 Rogue Refiner
-2 Harnessed Lightning
-2 Heart of Kiran
 2 Whirler Virtuoso
 2 Longtusk Cub
-2 Gilded Goose
-2 Spirebluff Canal
 2 Chandra, Torch of Defiance
 2 Tireless Tracker
-2 Mountain
-2 Attune with Aether
-2 Aether Hub
 2 Glorybringer
 3 Rogue Refiner
-3 Chandra, Torch of Defiance
-3 Harnessed Lightning
-3 Botanical Sanctum
 3 Longtusk Cub
-3 Attune with Aether
-3 Aether Hub
-3 Gilded Goose
 3 Whirler Virtuoso
+3 Chandra, Torch of Defiance
 4 Rogue Refiner
-4 Botanical Sanctum
-4 Oko, Thief of Crowns
 4 Whirler Virtuoso
-4 Attune with Aether
-4 Aether Hub
-4 Harnessed Lightning
+1 Ipnu Rivulet
+1 Risen Reef
+1 Field of Ruin
+1 Radiant Fountain
+1 Shrine of the Forsaken Gods
+1 Hashep Oasis
+1 Castle Vantress
+1 Ugin, the Spirit Dragon
+1 Ulamog, the Ceaseless Hunger
+1 Arboreal Grazer
+1 Scavenger Grounds
+1 Lumbering Falls
+1 Blast Zone
+2 Risen Reef
+2 Ugin, the Spirit Dragon
+2 Arboreal Grazer
+2 Shrine of the Forsaken Gods
+3 Risen Reef
+3 Hour of Promise
+3 Arboreal Grazer
+3 Ugin, the Spirit Dragon
+4 Risen Reef
+4 Hour of Promise
+4 Arboreal Grazer
+4 Field of the Dead
+4 Ugin, the Spirit Dragon
 1 Walking Ballista
 1 Verdurous Gearhulk
-1 Traverse the Ulvenwald
 1 Castle Garenbrig
+1 Traverse the Ulvenwald
+1 Emrakul, the Promised End
 1 Courser of Kruphix
 1 Shaman of Forgotten Ways
 1 Ishkanah, Grafwidow
 1 Satyr Wayfinder
-1 Emrakul, the Promised End
 1 Scavenging Ooze
 1 Gather the Pack
 2 Hinterland Harbor
@@ -70,7 +104,6 @@
 2 Shaman of Forgotten Ways
 2 Emrakul, the Promised End
 2 Gather the Pack
-3 Breeding Pool
 3 Traverse the Ulvenwald
 3 Courser of Kruphix
 3 Gather the Pack
@@ -80,31 +113,37 @@
 4 Courser of Kruphix
 4 Traverse the Ulvenwald
 4 Gather the Pack
-4 Kozilek's Return
 4 Satyr Wayfinder
-1 Ipnu Rivulet
-1 Risen Reef
-1 Ulamog, the Ceaseless Hunger
-1 Castle Vantress
-1 Field of Ruin
-1 Hashep Oasis
-1 Scavenger Grounds
-1 Radiant Fountain
-1 Arboreal Grazer
-1 Shrine of the Forsaken Gods
-1 Lumbering Falls
-1 Ugin, the Spirit Dragon
-1 Blast Zone
-2 Risen Reef
-2 Ugin, the Spirit Dragon
-2 Arboreal Grazer
-2 Shrine of the Forsaken Gods
-3 Risen Reef
-3 Ugin, the Spirit Dragon
-3 Hour of Promise
-3 Arboreal Grazer
-4 Risen Reef
-4 Hour of Promise
-4 Arboreal Grazer
-4 Ugin, the Spirit Dragon
-4 Field of the Dead
+1 Rekindling Phoenix
+2 Rekindling Phoenix
+2 Frontier Bivouac
+3 Island
+3 Rekindling Phoenix
+3 Frontier Bivouac
+3 Mountain
+4 Rekindling Phoenix
+4 Frontier Bivouac
+1 Ensoul Artifact
+1 Spire of Industry
+1 Stubborn Denial
+1 Smuggler's Copter
+1 Pia Nalaar
+1 Llanowar Elves
+1 The Royal Scions
+1 Elvish Mystic
+2 Ensoul Artifact
+2 Spire of Industry
+2 Stubborn Denial
+2 Elvish Mystic
+2 Smuggler's Copter
+2 Pia Nalaar
+2 The Royal Scions
+2 Llanowar Elves
+3 Ensoul Artifact
+3 Spire of Industry
+3 Smuggler's Copter
+3 Heart of Kiran
+4 Gilded Goose
+4 Smuggler's Copter
+4 Heart of Kiran
+4 Ensoul Artifact

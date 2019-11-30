@@ -14,6 +14,24 @@
 1 Mycosynth Lattice
 1 Jace, the Mind Sculptor
 2 Defense Grid
+1 Assassin's Trophy
+1 Hymn to Tourach
+1 True-Name Nemesis
+1 Gurmag Angler
+1 Marsh Casualties
+1 Liliana's Triumph
+1 Veil of Summer
+1 Coffin Purge
+1 Toxic Deluge
+1 Thoughtseize
+2 Assassin's Trophy
+2 Liliana's Triumph
+2 True-Name Nemesis
+2 Veil of Summer
+1 Abrupt Decay
+1 Plague Engineer
+2 Pithing Needle
+2 Silent Gravestone
 1 Vendilion Clique
 1 Supreme Verdict
 1 Blood Moon
@@ -21,24 +39,6 @@
 1 Containment Priest
 2 Flusterstorm
 2 Containment Priest
-1 Assassin's Trophy
-1 Abrupt Decay
-1 Plague Engineer
-2 Pithing Needle
-2 Silent Gravestone
-1 Hymn to Tourach
-1 Gurmag Angler
-1 Marsh Casualties
-1 Liliana's Triumph
-1 True-Name Nemesis
-1 Veil of Summer
-1 Coffin Purge
-1 Toxic Deluge
-1 Thoughtseize
-2 Assassin's Trophy
-2 Liliana's Triumph
-2 Veil of Summer
-2 True-Name Nemesis
 1 Wishclaw Talisman
 1 Reclamation Sage
 1 Serenity
@@ -47,14 +47,14 @@
 2 Wishclaw Talisman
 3 Wishclaw Talisman
 1 Sorcerous Spyglass
-1 Rest in Peace
 1 Celestial Purge
+1 Rest in Peace
 1 Engineered Explosives
 2 Rest in Peace
 3 Pyroblast
-1 Faerie Macabre
 1 Monastery Mentor
 1 Chain of Vapor
+1 Faerie Macabre
 1 Abrade
 1 Hope of Ghirapur
 2 Chain of Vapor

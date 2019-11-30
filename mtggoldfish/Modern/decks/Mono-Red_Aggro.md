@@ -27,12 +27,14 @@
 
 # Other Options
 
-|*n*<sup>th</sup> copy|                                     Maindeck Card                                     |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
-|--------------------:|---------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
-|                    1|[Lava Dart](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=29766)    |                    2|[Magus of the Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=136152)  |
-|                    1|[Harsh Mentor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426837)|                    2|[Hazoret the Fervent](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426838)|
-|                    2|[Lava Dart](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=29766)    |                     |                                                                                              |
-|                    2|[Harsh Mentor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426837)|                     |                                                                                              |
-|                    2|[Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)      |                     |                                                                                              |
-|                    3|[Harsh Mentor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426837)|                     |                                                                                              |
+|*n*<sup>th</sup> copy|                                       Maindeck Card                                        |*n*<sup>th</sup> copy|                                         Sideboard Card                                         |
+|--------------------:|--------------------------------------------------------------------------------------------|--------------------:|------------------------------------------------------------------------------------------------|
+|                    1|[Harsh Mentor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426837)     |                    1|[Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)               |
+|                    2|[Harsh Mentor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426837)     |                    2|[Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)               |
+|                    3|[Harsh Mentor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426837)     |                    4|[Leyline of Combustion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466902)|
+|                    1|[Lava Dart](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=29766)         |                    2|[Magus of the Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=136152)    |
+|                    2|[Lava Dart](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=29766)         |                    2|[Hazoret the Fervent](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426838)  |
+|                    2|[Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)           |                     |                                                                                                |
+|                    3|[Magus of the Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=136152)|                     |                                                                                                |
+|                    4|[Magus of the Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=136152)|                     |                                                                                                |
 

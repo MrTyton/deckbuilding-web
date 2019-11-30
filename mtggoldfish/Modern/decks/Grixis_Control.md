@@ -73,6 +73,6 @@
 |                    4|[Kolaghan's Command](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394613)     |                     |                                                                                                   |
 |                    2|[Search for Azcanta](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435226)     |                     |                                                                                                   |
 |                    2|[Dreadbore](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430622)              |                     |                                                                                                   |
-|                    4|[Force of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464001)      |                     |                                                                                                   |
 |                    4|[Field of Ruin](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435415)          |                     |                                                                                                   |
+|                    4|[Force of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464001)      |                     |                                                                                                   |
 
