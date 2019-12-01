@@ -6,66 +6,61 @@
 1 Aether Gust
 2 Aether Gust
 1 Fry
-2 Fry
 1 Magma Spray
-2 Stubborn Denial
 1 Chandra, Torch of Defiance
-2 Scavenging Ooze
-1 Mystical Dispute
-1 Supreme Verdict
-1 Teferi, Hero of Dominaria
-1 Dovin's Veto
-1 Surge of Righteousness
-2 Surge of Righteousness
-1 Declaration in Stone
-1 Grafdigger's Cage
-2 Mystical Dispute
-2 Supreme Verdict
-1 Tireless Tracker
-2 Tireless Tracker
-1 Thoughtseize
-2 Thoughtseize
-1 Negate
+2 Fry
+2 Chandra, Torch of Defiance
 2 Magma Spray
 3 Magma Spray
 4 Magma Spray
-1 Blightbeetle
-2 Blightbeetle
-1 Noxious Grasp
-2 Declaration in Stone
-1 Assassin's Trophy
-3 Blightbeetle
-2 Assassin's Trophy
-3 Assassin's Trophy
-3 Thoughtseize
-1 Ratchet Bomb
-1 Collective Brutality
-2 Collective Brutality
-1 Abrupt Decay
-2 Abrupt Decay
-1 Fatal Push
-1 Leyline of the Void
-2 Fatal Push
-2 Negate
-1 Duress
-2 Duress
-1 Golgari Charm
-2 Golgari Charm
-1 Pithing Needle
-2 Pithing Needle
-1 Absorb
-1 Settle the Wreckage
-1 Deputy of Detention
-1 Remorseful Cleric
-1 God-Eternal Oketra
-2 Deputy of Detention
-1 Stain the Mind
-1 Caustic Caterpillar
-1 Distended Mindbender
-2 Stain the Mind
-2 Distended Mindbender
+1 Thoughtseize
+2 Thoughtseize
 1 Blood Sun
 2 Blood Sun
+3 Thoughtseize
+1 Pithing Needle
+2 Pithing Needle
+2 Stubborn Denial
+2 Scavenging Ooze
+1 Negate
+1 Tireless Tracker
+2 Tireless Tracker
+4 Thoughtseize
+1 Assassin's Trophy
+1 Blightbeetle
+2 Blightbeetle
+2 Assassin's Trophy
+3 Assassin's Trophy
+3 Blightbeetle
+1 Collective Brutality
+2 Collective Brutality
+1 Ratchet Bomb
+1 Return to Nature
+2 Return to Nature
+3 Return to Nature
+4 Return to Nature
+1 Mystical Dispute
+1 Grafdigger's Cage
+2 Negate
+1 Declaration in Stone
+1 Noxious Grasp
+2 Declaration in Stone
+1 Duress
+2 Duress
+1 Supreme Verdict
+1 Flame Sweep
+2 Flame Sweep
+2 Mystical Dispute
+1 Absorb
+1 Deputy of Detention
+1 Remorseful Cleric
+1 Dovin's Veto
+1 Settle the Wreckage
+1 Teferi, Hero of Dominaria
+1 Surge of Righteousness
+1 God-Eternal Oketra
+2 Deputy of Detention
+2 Surge of Righteousness
 1 Fragmentize
 3 Duress
 1 Dragonlord Silumgar
@@ -73,30 +68,36 @@
 1 Unmoored Ego
 1 Confiscation Coup
 1 Virulent Plague
+1 Golgari Charm
+2 Golgari Charm
 2 Languish
 2 Unmoored Ego
 2 Virulent Plague
 1 Teferi, Time Raveler
 1 Authority of the Consuls
 2 Teferi, Time Raveler
+2 Supreme Verdict
 2 Noxious Grasp
-1 Flame Sweep
-2 Flame Sweep
-2 Chandra, Torch of Defiance
+1 Abrupt Decay
+1 Oko, Thief of Crowns
+2 Abrupt Decay
+3 Abrupt Decay
+3 Wild Slash
+1 Kolaghan's Command
+3 Blood Sun
 1 Unknown Card
 2 Unknown Card
 3 Disdainful Stroke
 1 Devout Decree
 2 Devout Decree
 3 Dual Shot
-3 Wild Slash
 2 Wicked Wolf
 3 Aether Gust
 1 Bow of Nylea
-1 Hornet Nest
 1 Display of Dominance
-2 Hornet Nest
+1 Hornet Nest
 2 Display of Dominance
+2 Hornet Nest
 2 Ratchet Bomb
 3 Hornet Nest
 1 Sylvan Messenger
@@ -104,12 +105,6 @@
 2 Shapers' Sanctuary
 2 Sylvan Messenger
 3 Reclamation Sage
-1 Lyra Dawnbringer
-1 Rest in Peace
-2 Rest in Peace
-3 Rest in Peace
-3 Surge of Righteousness
-3 Supreme Verdict
 1 Crumble to Dust
 1 Dreadbore
 1 Goblin Rabblemaster
@@ -125,15 +120,12 @@
 2 Dark Betrayal
 3 Dark Betrayal
 4 Dark Betrayal
-1 Return to Nature
-1 Oko, Thief of Crowns
-2 Return to Nature
-3 Abrupt Decay
-3 Return to Nature
-4 Return to Nature
+1 Fatal Push
 1 Aethersphere Harvester
+1 Leyline of the Void
 1 Kraul Harpooner
 2 Aethersphere Harvester
+2 Fatal Push
 2 Leyline of the Void
 2 Kraul Harpooner
 3 Leyline of the Void
@@ -142,7 +134,6 @@
 2 Rotting Regisaur
 3 Rotting Regisaur
 3 Collective Brutality
-4 Thoughtseize
 4 Rotting Regisaur
 4 Assassin's Trophy
 1 Liliana, the Last Hope
@@ -152,8 +143,8 @@
 2 Despark
 2 Fragmentize
 3 Fragmentize
-4 Fragmentize
 4 Duress
+4 Fragmentize
 1 Longtusk Cub
 1 Alpine Moon
 1 Lava Coil
@@ -164,3 +155,12 @@
 3 Stubborn Denial
 4 Longtusk Cub
 4 Stubborn Denial
+1 Leyline of Sanctity
+1 Rest in Peace
+1 Valorous Stance
+2 Rest in Peace
+2 Leyline of Sanctity
+2 Valorous Stance
+3 Pithing Needle
+3 Valorous Stance
+4 Valorous Stance
