@@ -3,12 +3,12 @@
 4 Once Upon a Time
 1 Rootbound Crag
 2 Rootbound Crag
-3 Wild Slash
 3 Rootbound Crag
-4 Wild Slash
+3 Wild Slash
 3 Ghor-Clan Rampager
 4 Rootbound Crag
 1 Domri's Ambush
+4 Wild Slash
 1 Vine Mare
 2 Vine Mare
 1 Gruul Spellbreaker
@@ -26,23 +26,23 @@
 1 Hazoret the Fervent
 2 Glorybringer
 9 Forest
+1 Burning-Tree Emissary
+2 Burning-Tree Emissary
+3 Burning-Tree Emissary
+4 Burning-Tree Emissary
 1 Voltaic Brawler
 1 Zhur-Taa Goblin
 1 Pelt Collector
 1 Experiment One
-1 Burning-Tree Emissary
 2 Zhur-Taa Goblin
 2 Pelt Collector
 2 Experiment One
-2 Burning-Tree Emissary
 3 Zhur-Taa Goblin
 3 Experiment One
 3 Pelt Collector
-3 Burning-Tree Emissary
 4 Pelt Collector
 4 Experiment One
 4 Zhur-Taa Goblin
-4 Burning-Tree Emissary
 1 Domri Rade
 1 Domri, Anarch of Bolas
 2 Domri, Anarch of Bolas
@@ -54,10 +54,10 @@
 3 Blossoming Defense
 1 Ilharg, the Raze-Boar
 1 Rhythm of the Wild
-1 Champion of Rhonas
-1 Worldspine Wurm
 1 Generator Servant
+1 Worldspine Wurm
 1 Surrak, the Hunt Caller
+1 Champion of Rhonas
 2 Rhythm of the Wild
 2 Ilharg, the Raze-Boar
 2 Worldspine Wurm
@@ -68,8 +68,8 @@
 3 Champion of Rhonas
 3 Ilharg, the Raze-Boar
 3 Worldspine Wurm
-4 Generator Servant
 4 Worldspine Wurm
+4 Generator Servant
 4 Champion of Rhonas
 4 Ilharg, the Raze-Boar
 1 Zurgo Bellstriker
@@ -77,9 +77,10 @@
 1 Atarka's Command
 2 Reckless Bushwhacker
 2 Atarka's Command
-2 Zurgo Bellstriker
 3 Atarka's Command
+3 Reckless Bushwhacker
 4 Atarka's Command
+4 Reckless Bushwhacker
 1 Collision / Colossus
 2 Voltaic Brawler
 3 Voltaic Brawler
@@ -87,58 +88,24 @@
 10 Forest
 1 Temur Battle Rage
 2 Temur Battle Rage
-1 Skewer the Critics
-1 Stoke the Flames
-1 Abbot of Keral Keep
-1 Hordeling Outburst
-1 Dragon Fodder
-1 Foundry Street Denizen
-1 Eidolon of the Great Revel
-1 Lightning Strike
-1 Light Up the Stage
-1 Monastery Swiftspear
-2 Skewer the Critics
-2 Stoke the Flames
-2 Abbot of Keral Keep
-2 Hordeling Outburst
-2 Dragon Fodder
-2 Foundry Street Denizen
-2 Eidolon of the Great Revel
-2 Monastery Swiftspear
-2 Lightning Strike
-3 Stoke the Flames
-3 Dragon Fodder
-3 Eidolon of the Great Revel
-3 Monastery Swiftspear
-3 Lightning Strike
-4 Stoke the Flames
-4 Dragon Fodder
-4 Eidolon of the Great Revel
-4 Monastery Swiftspear
-4 Lightning Strike
-7 Mountain
-8 Mountain
-9 Mountain
-10 Mountain
 1 Castle Embereth
 2 Hazoret the Fervent
+2 Zurgo Bellstriker
+3 Zurgo Bellstriker
 1 Managorger Hydra
 1 Aspect of Hydra
 1 Syr Faren, the Hengehammer
 1 Yorvo, Lord of Garenbrig
-1 Kessig Prowler
 1 Resilient Khenra
+1 Kessig Prowler
 2 Aspect of Hydra
 2 Domri's Ambush
 2 Syr Faren, the Hengehammer
-2 Kessig Prowler
 2 Yorvo, Lord of Garenbrig
+2 Kessig Prowler
 2 Managorger Hydra
 3 Yorvo, Lord of Garenbrig
 3 Syr Faren, the Hengehammer
-3 Reckless Bushwhacker
-3 Zurgo Bellstriker
-4 Reckless Bushwhacker
 1 Hanweir Battlements
 1 Sweltering Suns
 1 Cinder Glade
@@ -150,8 +117,8 @@
 2 Sweltering Suns
 2 Sylvan Caryatid
 2 See the Unwritten
-2 Cinder Glade
 2 Combustible Gearhulk
+2 Cinder Glade
 3 Cinder Glade
 3 Hanweir Battlements
 3 Sylvan Caryatid
@@ -169,41 +136,6 @@
 3 Paradise Druid
 4 Paradise Druid
 4 Dragonlord Atarka
-1 Harnessed Lightning
-1 Maximize Velocity
-1 Fling
-1 Attune with Aether
-1 Aether Hub
-1 Longtusk Cub
-1 Become Immense
-1 Electrostatic Pummeler
-1 Bristling Hydra
-2 Harnessed Lightning
-2 Become Immense
-2 Collision / Colossus
-2 Attune with Aether
-2 Aether Hub
-2 Longtusk Cub
-2 Electrostatic Pummeler
-2 Maximize Velocity
-2 Bristling Hydra
-3 Attune with Aether
-3 Harnessed Lightning
-3 Aether Hub
-3 Temur Battle Rage
-3 Become Immense
-3 Longtusk Cub
-3 Collision / Colossus
-3 Bristling Hydra
-3 Electrostatic Pummeler
-4 Collision / Colossus
-4 Attune with Aether
-4 Harnessed Lightning
-4 Blossoming Defense
-4 Aether Hub
-4 Longtusk Cub
-4 Bristling Hydra
-4 Electrostatic Pummeler
 1 Courser of Kruphix
 2 Domri Rade
 2 Courser of Kruphix
@@ -213,18 +145,50 @@
 4 Glorybringer
 4 Courser of Kruphix
 4 Domri Rade
+1 Become Immense
+2 Become Immense
+1 Legion Loyalist
+1 Bomat Courier
+1 Spire of Industry
+1 Gingerbrute
+1 Hope of Ghirapur
+1 Inventor's Apprentice
+1 Mana Confluence
+1 Monastery Swiftspear
+2 Legion Loyalist
+2 Bomat Courier
+2 Spire of Industry
+2 Gingerbrute
+2 Inventor's Apprentice
+2 Mana Confluence
+2 Hope of Ghirapur
+2 Monastery Swiftspear
+3 Legion Loyalist
+3 Mana Confluence
+3 Bomat Courier
+3 Gingerbrute
+3 Inventor's Apprentice
+3 Spire of Industry
+3 Monastery Swiftspear
+4 Legion Loyalist
+4 Mana Confluence
+4 Inventor's Apprentice
+4 Gingerbrute
+4 Bomat Courier
+4 Monastery Swiftspear
+4 Spire of Industry
 1 Castle Garenbrig
 1 Sanctum of Ugin
 1 Nissa's Pilgrimage
 1 Explosive Vegetation
 1 World Breaker
-1 Whisperwood Elemental
 1 Ulamog, the Ceaseless Hunger
 1 Oblivion Sower
-1 Ugin, the Spirit Dragon
+1 Whisperwood Elemental
 1 Sylvan Scrying
 1 Kozilek's Return
 1 Omnath, Locus of Rage
+1 Ugin, the Spirit Dragon
 1 Arboreal Grazer
 2 Ugin, the Spirit Dragon
 2 Nissa's Pilgrimage
@@ -249,8 +213,8 @@
 3 Kozilek's Return
 3 Whisperwood Elemental
 3 Arboreal Grazer
-4 Nissa's Pilgrimage
 4 Castle Garenbrig
+4 Nissa's Pilgrimage
 4 Explosive Vegetation
 4 Kozilek's Return
 1 Tireless Tracker
@@ -266,8 +230,41 @@
 3 Tireless Tracker
 3 Domri, Anarch of Bolas
 3 Chandra, Torch of Defiance
-3 Oath of Nissa
 3 Growth-Chamber Guardian
+3 Oath of Nissa
 4 Chandra, Torch of Defiance
 4 Oath of Nissa
 4 Growth-Chamber Guardian
+1 Harnessed Lightning
+1 Maximize Velocity
+1 Fling
+1 Attune with Aether
+1 Aether Hub
+1 Longtusk Cub
+1 Electrostatic Pummeler
+1 Bristling Hydra
+2 Harnessed Lightning
+2 Collision / Colossus
+2 Attune with Aether
+2 Aether Hub
+2 Longtusk Cub
+2 Electrostatic Pummeler
+2 Maximize Velocity
+2 Bristling Hydra
+3 Attune with Aether
+3 Harnessed Lightning
+3 Aether Hub
+3 Temur Battle Rage
+3 Become Immense
+3 Longtusk Cub
+3 Collision / Colossus
+3 Bristling Hydra
+3 Electrostatic Pummeler
+4 Collision / Colossus
+4 Attune with Aether
+4 Harnessed Lightning
+4 Blossoming Defense
+4 Aether Hub
+4 Longtusk Cub
+4 Bristling Hydra
+4 Electrostatic Pummeler

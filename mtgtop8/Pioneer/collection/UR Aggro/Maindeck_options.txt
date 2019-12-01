@@ -13,29 +13,29 @@
 1 Rekindling Phoenix
 1 Kozilek's Return
 1 Lightning Axe
+1 Chandra, Torch of Defiance
 1 Brazen Borrower
 1 Bonecrusher Giant
-1 Chandra, Torch of Defiance
 1 Flamewake Phoenix
-2 Elder Deep-Fiend
-2 Rekindling Phoenix
-2 Kozilek's Return
-2 Lightning Axe
-2 Bonecrusher Giant
 2 Brazen Borrower
+2 Elder Deep-Fiend
+2 Kozilek's Return
+2 Rekindling Phoenix
+2 Lightning Axe
 2 Chandra, Torch of Defiance
+2 Bonecrusher Giant
 2 Flamewake Phoenix
-3 Brazen Borrower
 3 Elder Deep-Fiend
+3 Brazen Borrower
 3 Rekindling Phoenix
 3 Kozilek's Return
 3 Lightning Axe
 3 Flamewake Phoenix
 3 Bonecrusher Giant
-4 Brazen Borrower
 4 Elder Deep-Fiend
 4 Rekindling Phoenix
 4 Kozilek's Return
+4 Brazen Borrower
 4 Flamewake Phoenix
 4 Bonecrusher Giant
 3 Metallic Rebuke
@@ -60,21 +60,21 @@
 1 Whirler Rogue
 1 Stormchaser Mage
 1 Treasure Cruise
-1 Monastery Swiftspear
 1 Opt
 1 Soul-Scar Mage
+1 Monastery Swiftspear
 2 Stormchaser Mage
-2 Treasure Cruise
 2 Monastery Swiftspear
+2 Treasure Cruise
 2 Soul-Scar Mage
 2 Opt
+3 Monastery Swiftspear
 3 Stormchaser Mage
 3 Wild Slash
-3 Monastery Swiftspear
 3 Soul-Scar Mage
 3 Opt
-4 Stormchaser Mage
 4 Monastery Swiftspear
+4 Stormchaser Mage
 4 Opt
 4 Soul-Scar Mage
 4 Island
@@ -120,13 +120,13 @@
 4 Shock
 1 Lightning Strike
 1 Risk Factor
-2 Lightning Strike
 2 Risk Factor
+2 Lightning Strike
 3 Lightning Strike
 4 Lightning Strike
 1 Finale of Promise
-1 Dreadhorde Arcanist
 1 Abbot of Keral Keep
+1 Dreadhorde Arcanist
 1 Chart a Course
 1 Ramunap Ruins
 1 Temple of Epiphany
@@ -138,6 +138,6 @@
 2 Incendiary Flow
 2 Ramunap Ruins
 3 Incendiary Flow
+4 Incendiary Flow
 7 Mountain
 8 Mountain
-4 Incendiary Flow

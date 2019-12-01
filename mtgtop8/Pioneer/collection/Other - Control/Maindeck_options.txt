@@ -13,10 +13,10 @@
 1 Thought Erasure
 2 Thought Erasure
 2 Languish
+1 Castle Locthwain
 1 Detention Sphere
 4 Hallowed Fountain
 3 Thought Erasure
-1 Castle Locthwain
 2 Teferi, Hero of Dominaria
 1 Jace, Architect of Thought
 3 Glacial Fortress
@@ -25,34 +25,35 @@
 1 Shambling Vent
 2 Shambling Vent
 1 Godless Shrine
+1 Mountain
 2 Torrential Gearhulk
 1 Hieroglyphic Illumination
 2 Hieroglyphic Illumination
 1 Steam Vents
-1 Sphinx's Revelation
-2 Sphinx's Revelation
-2 Field of Ruin
-1 Mountain
 2 Steam Vents
-1 Clash of Wills
-2 Clash of Wills
-4 Supreme Verdict
-1 Kolaghan's Command
-1 Fae of Wishes
-1 Disallow
 1 Blood Crypt
 2 Blood Crypt
-2 Kolaghan's Command
 3 Blood Crypt
-3 Steam Vents
 4 Blood Crypt
+1 Kolaghan's Command
+1 Sphinx's Revelation
+2 Sphinx's Revelation
+1 Fae of Wishes
+2 Field of Ruin
+1 Clash of Wills
+2 Clash of Wills
+2 Kolaghan's Command
+3 Steam Vents
+1 Disallow
+4 Supreme Verdict
 1 Isolated Chapel
 2 Isolated Chapel
 2 Detention Sphere
 3 Teferi, Hero of Dominaria
 3 Detention Sphere
-1 The Scarab God
 1 Forest
+1 The Scarab God
+2 Kalitas, Traitor of Ghet
 1 Censor
 2 Censor
 1 Commit / Memory
@@ -63,6 +64,7 @@
 4 Teferi, Time Raveler
 2 Godless Shrine
 3 Godless Shrine
+4 Swamp
 1 Spirebluff Canal
 2 Disallow
 3 Torrential Gearhulk
@@ -73,12 +75,12 @@
 4 Narset, Parter of Veils
 2 Temple of Deceit
 3 Cast Down
+1 Vraska's Contempt
+1 Murderous Rider
 1 Absorb
 2 Plains
 3 Sphinx's Revelation
 4 Sphinx's Revelation
-1 Vraska's Contempt
-1 Murderous Rider
 1 Negate
 2 Negate
 2 Spirebluff Canal
@@ -88,6 +90,8 @@
 1 Syncopate
 2 Syncopate
 1 Supreme Will
+1 Dreadbore
+2 Dreadbore
 1 Elspeth, Sun's Champion
 1 Sulfur Falls
 1 Dragonskull Summit
@@ -102,26 +106,27 @@
 3 Fae of Wishes
 3 Fires of Invention
 4 Fires of Invention
-4 Swamp
 3 Languish
-2 Kalitas, Traitor of Ghet
 2 Vraska's Contempt
-1 Collective Brutality
-2 Forest
+1 Read the Bones
+5 Swamp
 1 Assassin's Trophy
 1 Abrupt Decay
 2 Abrupt Decay
+2 Forest
+1 Collective Brutality
+1 Anger of the Gods
+2 Anger of the Gods
 1 Dark Petition
 1 Hissing Quagmire
 1 Temple of Malady
 1 Seasons Past
-1 Read the Bones
 1 Sign in Blood
 2 Dark Petition
 2 Assassin's Trophy
 3 Dark Petition
-5 Swamp
 1 Radiant Flames
+2 Read the Bones
 1 Field of the Dead
 1 Hour of Promise
 2 Field of the Dead
@@ -130,13 +135,11 @@
 2 Growth Spiral
 3 Growth Spiral
 4 Growth Spiral
-1 Temple of Epiphany
 1 Blooming Marsh
+1 Temple of Epiphany
 1 Oko, Thief of Crowns
 1 Deafening Clarion
 2 Oko, Thief of Crowns
-1 Dreadbore
-2 Dreadbore
 3 Abrupt Decay
 1 Silumgar's Command
 1 Drownyard Temple
@@ -152,14 +155,12 @@
 1 Sorin, Solemn Visitor
 2 Concealed Courtyard
 3 Hieroglyphic Illumination
-1 Anger of the Gods
 1 Wandering Fumarole
 1 Bedevil
 1 Crux of Fate
 1 Tyrant's Scorn
 1 Rakdos's Return
 2 Sulfur Falls
-2 Anger of the Gods
 2 Tyrant's Scorn
 2 Wandering Fumarole
 2 Crux of Fate
@@ -168,6 +169,7 @@
 3 Plains
 1 Approach of the Second Sun
 4 Detention Sphere
+2 Mountain
 1 Botanical Sanctum
 1 Sylvan Caryatid
 1 Aether Hub
@@ -211,12 +213,11 @@
 1 Nissa's Renewal
 1 Bontu's Last Reckoning
 1 Torment of Hailfire
-1 Mastermind's Acquisition
 1 Walking Ballista
+1 Mastermind's Acquisition
 2 Woodland Cemetery
 2 Overgrown Tomb
 2 Seasons Past
-2 Read the Bones
 3 Woodland Cemetery
 3 Overgrown Tomb
 4 Overgrown Tomb
@@ -244,17 +245,17 @@
 1 Temple of Enlightenment
 1 Sacred Foundry
 1 Clifftop Retreat
+1 Heart of Kiran
 1 Interplanar Beacon
 1 Temple of Triumph
 1 Oath of Teferi
-1 Heart of Kiran
 1 Nicol Bolas, God-Pharaoh
 2 Temple of Enlightenment
 2 Sacred Foundry
+2 Heart of Kiran
 2 Temple of Epiphany
 2 Temple of Triumph
 2 Drawn from Dreams
-2 Heart of Kiran
 2 Deafening Clarion
 2 Interplanar Beacon
 2 Oath of Teferi
@@ -264,10 +265,10 @@
 4 Interplanar Beacon
 1 Wild Slash
 1 Treasure Cruise
-1 The Royal Scions
 1 Dreadhorde Arcanist
 1 Thing in the Ice
 1 Young Pyromancer
+1 The Royal Scions
 2 The Royal Scions
 2 Wild Slash
 2 Thing in the Ice
@@ -333,14 +334,14 @@
 1 Sheltered Thicket
 1 Strategic Planning
 1 Izzet Charm
-1 Rootbound Crag
 1 Temple of Mystery
-1 Game Trail
 1 Splendid Reclamation
+1 Rootbound Crag
 1 Hammer of Purphoros
 1 Shivan Reef
 1 Yavimaya Coast
 1 Pieces of the Puzzle
+1 Game Trail
 1 Magmatic Insight
 1 Hinterland Harbor
 2 Strategic Planning
@@ -348,7 +349,6 @@
 2 Izzet Charm
 2 Splendid Reclamation
 2 Radiant Flames
-2 Mountain
 2 Magmatic Insight
 2 Hour of Promise
 2 Pieces of the Puzzle
@@ -372,6 +372,35 @@
 4 Field of Ruin
 4 Thought Erasure
 5 Island
+1 Foreboding Ruins
+1 Bonecrusher Giant
+1 Glorybringer
+1 Chandra, Acolyte of Flame
+1 Despise
+1 Chandra, Awakened Inferno
+1 Chandra, Torch of Defiance
+2 Glorybringer
+2 Foreboding Ruins
+2 Bonecrusher Giant
+2 Chandra, Torch of Defiance
+2 Chandra, Acolyte of Flame
+2 Despise
+2 Chandra, Awakened Inferno
+2 Castle Locthwain
+3 Glorybringer
+3 Foreboding Ruins
+3 Anger of the Gods
+3 Bonecrusher Giant
+3 Chandra, Torch of Defiance
+3 Dreadbore
+3 Mountain
+4 Glorybringer
+4 Dreadbore
+4 Mountain
+4 Bonecrusher Giant
+5 Mountain
+6 Mountain
+7 Mountain
 3 Forest
 4 Forest
 1 Nissa, Vastwood Seer
@@ -396,8 +425,8 @@
 1 Ulvenwald Hydra
 1 Explosive Vegetation
 1 Sea Gate Wreckage
-1 World Breaker
 1 Dragonlord Atarka
+1 World Breaker
 1 Castle Garenbrig
 1 Llanowar Elves
 1 Elvish Mystic
@@ -406,11 +435,11 @@
 1 Shrine of the Forsaken Gods
 1 Once Upon a Time
 1 Nissa's Pilgrimage
-2 Stomping Ground
 2 Ulvenwald Hydra
 2 Dragonlord Atarka
 2 Explosive Vegetation
 2 Sylvan Caryatid
+2 Stomping Ground
 2 World Breaker
 2 Sanctum of Ugin
 2 Nissa's Pilgrimage
@@ -418,17 +447,17 @@
 2 Llanowar Elves
 2 Elvish Mystic
 2 Once Upon a Time
-3 Stomping Ground
 3 Explosive Vegetation
 3 Ulvenwald Hydra
 3 Sylvan Caryatid
 3 Dragonlord Atarka
+3 Stomping Ground
 3 World Breaker
 3 Llanowar Elves
 3 Elvish Mystic
+3 Nissa's Pilgrimage
 3 Sanctum of Ugin
 3 Once Upon a Time
-3 Nissa's Pilgrimage
 3 Castle Garenbrig
 4 Sylvan Caryatid
 4 Castle Garenbrig
