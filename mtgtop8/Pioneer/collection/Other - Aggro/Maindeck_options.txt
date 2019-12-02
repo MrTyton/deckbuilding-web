@@ -1,7 +1,6 @@
 1 Smuggler's Copter
 2 Smuggler's Copter
 3 Smuggler's Copter
-4 Smuggler's Copter
 1 Botanical Sanctum
 2 Botanical Sanctum
 3 Botanical Sanctum
@@ -11,16 +10,10 @@
 2 Oko, Thief of Crowns
 3 Oko, Thief of Crowns
 4 Oko, Thief of Crowns
+1 Forest
 1 Once Upon a Time
 2 Once Upon a Time
 3 Once Upon a Time
-1 Gilded Goose
-2 Gilded Goose
-2 Breeding Pool
-3 Gilded Goose
-1 Heart of Kiran
-2 Heart of Kiran
-1 Forest
 1 Stomping Ground
 2 Stomping Ground
 3 Stomping Ground
@@ -29,8 +22,15 @@
 2 Bonecrusher Giant
 3 Bonecrusher Giant
 4 Bonecrusher Giant
+1 Gilded Goose
+2 Gilded Goose
+2 Breeding Pool
+3 Gilded Goose
 1 Island
+4 Smuggler's Copter
 4 Once Upon a Time
+1 Heart of Kiran
+2 Heart of Kiran
 4 Stomping Ground
 1 Glorybringer
 2 Glorybringer
@@ -41,33 +41,29 @@
 1 Chandra, Torch of Defiance
 1 Steam Vents
 4 Gilded Goose
-1 Spirebluff Canal
-1 Spire of Industry
-2 Spire of Industry
-3 Spire of Industry
 2 Island
-3 Heart of Kiran
-1 Scrapheap Scrounger
-2 Scrapheap Scrounger
-3 Scrapheap Scrounger
-1 Gideon, Ally of Zendikar
-1 Thraben Inspector
-2 Gideon, Ally of Zendikar
-2 Thraben Inspector
-3 Gideon, Ally of Zendikar
-3 Thraben Inspector
-4 Thraben Inspector
 1 Brazen Borrower
 2 Brazen Borrower
+3 Island
+1 Thraben Inspector
+2 Thraben Inspector
+3 Thraben Inspector
+3 Plains
+4 Plains
+4 Thraben Inspector
 1 Reflector Mage
 1 Hallowed Fountain
 2 Reflector Mage
 2 Hallowed Fountain
 3 Reflector Mage
+3 Hallowed Fountain
 4 Reflector Mage
-3 Island
-3 Plains
-4 Plains
+4 Hallowed Fountain
+5 Plains
+6 Plains
+1 Gideon, Ally of Zendikar
+2 Gideon, Ally of Zendikar
+3 Gideon, Ally of Zendikar
 1 Archangel Avacyn
 1 Glacial Fortress
 1 Spell Queller
@@ -82,31 +78,30 @@
 2 Glacial Fortress
 2 Spell Queller
 3 Archangel Avacyn
-3 Hallowed Fountain
 3 Glacial Fortress
 3 Spell Queller
 4 Glacial Fortress
 4 Spell Queller
 4 Island
 4 Gideon, Ally of Zendikar
-4 Hallowed Fountain
-5 Plains
-6 Plains
 7 Plains
+1 Spirebluff Canal
+1 Spire of Industry
+2 Spire of Industry
+3 Spire of Industry
 1 Walking Ballista
-4 Scrapheap Scrounger
 2 Chandra, Torch of Defiance
 3 Chandra, Torch of Defiance
 3 Breeding Pool
 2 Spirebluff Canal
-3 Mountain
+1 Abrade
 1 Attune with Aether
 1 Aether Hub
 2 Attune with Aether
 2 Aether Hub
 3 Aether Hub
 4 Aether Hub
-1 Abrade
+3 Mountain
 1 Harnessed Lightning
 2 Harnessed Lightning
 3 Harnessed Lightning
@@ -114,16 +109,18 @@
 4 Harnessed Lightning
 4 Attune with Aether
 3 Glorybringer
-1 Concealed Courtyard
-2 Concealed Courtyard
-3 Concealed Courtyard
-4 Concealed Courtyard
-1 Toolcraft Exemplar
-2 Toolcraft Exemplar
-3 Toolcraft Exemplar
-4 Toolcraft Exemplar
+1 Elder Deep-Fiend
+2 Elder Deep-Fiend
+3 Elder Deep-Fiend
+4 Elder Deep-Fiend
 1 Swamp
-1 Gideon Blackblade
+1 Scrapheap Scrounger
+2 Scrapheap Scrounger
+3 Scrapheap Scrounger
+1 Overgrown Tomb
+1 Blooming Marsh
+2 Overgrown Tomb
+2 Blooming Marsh
 1 Fatal Push
 2 Fatal Push
 3 Fatal Push
@@ -132,15 +129,6 @@
 2 Thoughtseize
 3 Thoughtseize
 4 Thoughtseize
-1 Elder Deep-Fiend
-2 Elder Deep-Fiend
-3 Elder Deep-Fiend
-4 Elder Deep-Fiend
-1 Mana Confluence
-1 Overgrown Tomb
-1 Blooming Marsh
-2 Overgrown Tomb
-2 Blooming Marsh
 1 Rogue Refiner
 1 Tireless Tracker
 2 Rogue Refiner
@@ -150,6 +138,7 @@
 1 Watery Grave
 2 Watery Grave
 3 Overgrown Tomb
+4 Scrapheap Scrounger
 3 Blooming Marsh
 4 Blooming Marsh
 1 Stitcher's Supplier
@@ -168,44 +157,40 @@
 4 Satyr Wayfinder
 4 Prized Amalgam
 4 Creeping Chill
+1 Gideon Blackblade
+3 Heart of Kiran
 1 Ensoul Artifact
 1 Stubborn Denial
 2 Ensoul Artifact
 2 Stubborn Denial
 3 Ensoul Artifact
 4 Ensoul Artifact
-4 Spire of Industry
+1 Selfless Spirit
+2 Selfless Spirit
+3 Selfless Spirit
+1 Concealed Courtyard
+2 Concealed Courtyard
+3 Concealed Courtyard
+4 Concealed Courtyard
 1 Scavenging Ooze
-4 Overgrown Tomb
-1 Urborg, Tomb of Yawgmoth
 2 Steam Vents
 1 Rootbound Crag
 2 Rootbound Crag
 3 Rootbound Crag
 4 Rootbound Crag
-1 Yavimaya Coast
+4 Overgrown Tomb
+1 Urborg, Tomb of Yawgmoth
 2 Swamp
+1 Yavimaya Coast
 1 Pia Nalaar
-2 Walking Ballista
-1 Temple Garden
-2 Temple Garden
-3 Temple Garden
-4 Temple Garden
 1 Rekindling Phoenix
 2 Rekindling Phoenix
 3 Rekindling Phoenix
 4 Rekindling Phoenix
+2 Walking Ballista
 1 Llanowar Wastes
 2 Llanowar Wastes
 3 Llanowar Wastes
-1 Godless Shrine
-1 Isolated Chapel
-2 Godless Shrine
-3 Godless Shrine
-4 Godless Shrine
-2 Stitcher's Supplier
-3 Stitcher's Supplier
-4 Stitcher's Supplier
 1 Blood Crypt
 1 Dragonskull Summit
 1 Canyon Slough
@@ -216,14 +201,28 @@
 4 Blood Crypt
 4 Mountain
 5 Mountain
-3 Forest
-2 Mana Confluence
-3 Mana Confluence
+4 Spire of Industry
+2 Stitcher's Supplier
+3 Stitcher's Supplier
+4 Stitcher's Supplier
+1 Godless Shrine
+1 Isolated Chapel
+2 Godless Shrine
+3 Godless Shrine
+4 Godless Shrine
+1 Unclaimed Territory
+2 Unclaimed Territory
+3 Unclaimed Territory
+4 Unclaimed Territory
 3 Swamp
 4 Swamp
 5 Swamp
-1 Metallic Rebuke
-2 Metallic Rebuke
+1 Westvale Abbey
+3 Forest
+3 Llanowar Elves
+3 Elvish Mystic
+4 Elvish Mystic
+4 Llanowar Elves
 1 Fabled Passage
 1 The Royal Scions
 2 The Royal Scions
@@ -250,6 +249,28 @@
 3 Deathrite Shaman
 4 Grisly Salvage
 4 Deathrite Shaman
+1 Cloudblazer
+1 Deputy of Detention
+1 Oketra's Monument
+1 Militia Bugler
+1 Dusk / Dawn
+1 Charming Prince
+1 Angel of Invention
+2 Cloudblazer
+2 Westvale Abbey
+2 Oketra's Monument
+2 Militia Bugler
+2 Charming Prince
+2 Deputy of Detention
+2 Angel of Invention
+3 Cloudblazer
+3 Oketra's Monument
+3 Militia Bugler
+3 Charming Prince
+3 Angel of Invention
+4 Charming Prince
+4 Militia Bugler
+4 Oketra's Monument
 1 Champion of Wits
 1 Kozilek's Return
 1 Frontier Bivouac
@@ -262,49 +283,13 @@
 4 Frontier Bivouac
 4 Kozilek's Return
 4 Champion of Wits
-1 Thalia, Heretic Cathar
-1 Caves of Koilos
-1 Mutavault
-2 Mutavault
-2 Thalia, Heretic Cathar
-2 Caves of Koilos
-2 Gideon Blackblade
-3 Mutavault
-3 Thalia, Heretic Cathar
-3 Caves of Koilos
-4 Mutavault
-4 Caves of Koilos
 1 Gideon of the Trials
 1 Brimaz, King of Oreskos
 1 Lyra Dawnbringer
 1 Supreme Verdict
 1 Declaration in Stone
-1 Selfless Spirit
 2 Irrigated Farmland
-2 Selfless Spirit
-3 Selfless Spirit
 4 Selfless Spirit
-1 Castle Embereth
-1 Young Pyromancer
-1 Cut / Ribbons
-1 Castle Locthwain
-1 Knight of the Ebon Legion
-1 Murderous Rider
-2 Kolaghan's Command
-2 Canyon Slough
-2 Young Pyromancer
-2 Knight of the Ebon Legion
-2 Murderous Rider
-2 Castle Locthwain
-3 Canyon Slough
-3 Kolaghan's Command
-3 Young Pyromancer
-3 Castle Locthwain
-3 Knight of the Ebon Legion
-3 Murderous Rider
-4 Canyon Slough
-4 Murderous Rider
-4 Knight of the Ebon Legion
 1 Questing Beast
 2 Questing Beast
 2 Scavenging Ooze
@@ -324,8 +309,8 @@
 1 Shrapnel Blast
 2 Stonecoil Serpent
 2 Ghostfire Blade
-2 Darksteel Citadel
 2 Yavimaya Coast
+2 Darksteel Citadel
 2 Skilled Animator
 2 Gingerbrute
 2 Shrapnel Blast
@@ -375,6 +360,25 @@
 4 Archangel Avacyn
 4 Teferi, Time Raveler
 4 Knight of the White Orchid
+1 Thalia, Heretic Cathar
+1 Caves of Koilos
+1 Mutavault
+1 Toolcraft Exemplar
+2 Mutavault
+2 Thalia, Heretic Cathar
+2 Caves of Koilos
+2 Gideon Blackblade
+2 Toolcraft Exemplar
+3 Mutavault
+3 Thalia, Heretic Cathar
+3 Caves of Koilos
+3 Toolcraft Exemplar
+4 Mutavault
+4 Caves of Koilos
+4 Toolcraft Exemplar
+1 Mana Confluence
+2 Mana Confluence
+3 Mana Confluence
 1 Glowspore Shaman
 1 Driven / Despair
 1 Narcomoeba
@@ -387,7 +391,29 @@
 4 Haunted Dead
 4 Narcomoeba
 4 Watery Grave
+1 Castle Embereth
+1 Young Pyromancer
+1 Cut / Ribbons
+1 Castle Locthwain
+1 Knight of the Ebon Legion
+1 Murderous Rider
+2 Kolaghan's Command
+2 Canyon Slough
+2 Young Pyromancer
+2 Knight of the Ebon Legion
+2 Murderous Rider
+2 Castle Locthwain
+3 Canyon Slough
+3 Kolaghan's Command
+3 Young Pyromancer
+3 Castle Locthwain
+3 Knight of the Ebon Legion
+3 Murderous Rider
+4 Canyon Slough
+4 Murderous Rider
+4 Knight of the Ebon Legion
 4 Forest
+1 Temple Garden
 1 Season of Growth
 1 Gift of Orzhova
 1 Unflinching Courage
@@ -400,6 +426,7 @@
 1 Ethereal Armor
 1 Gladecover Scout
 1 All That Glitters
+2 Temple Garden
 2 Season of Growth
 2 All That Glitters
 2 Gryff's Boon
@@ -411,6 +438,7 @@
 2 Sentinel's Mark
 2 Unflinching Courage
 2 Sunpetal Grove
+3 Temple Garden
 3 Fortified Village
 3 Unflinching Courage
 3 Cartouche of Solidarity
@@ -422,6 +450,7 @@
 3 Sentinel's Mark
 3 Bassara Tower Archer
 3 All That Glitters
+4 Temple Garden
 4 Fortified Village
 4 Mana Confluence
 4 Gladecover Scout
@@ -433,14 +462,9 @@
 4 Ethereal Armor
 4 All That Glitters
 4 Gryff's Boon
-3 Llanowar Elves
-3 Elvish Mystic
-4 Elvish Mystic
-4 Llanowar Elves
 1 Steel Leaf Champion
 1 Dwynen, Gilt-Leaf Daen
 1 Wildborn Preserver
-1 Unclaimed Territory
 1 Collected Company
 1 Elvish Visionary
 1 Gnarlroot Trapper
@@ -449,7 +473,6 @@
 1 Dwynen's Elite
 2 Steel Leaf Champion
 2 Wildborn Preserver
-2 Unclaimed Territory
 2 Elvish Visionary
 2 Collected Company
 2 Elvish Clancaller
@@ -457,7 +480,6 @@
 2 Gnarlroot Trapper
 2 Shaman of the Pack
 3 Steel Leaf Champion
-3 Unclaimed Territory
 3 Wildborn Preserver
 3 Elvish Visionary
 3 Collected Company
@@ -465,7 +487,6 @@
 3 Shaman of the Pack
 3 Dwynen's Elite
 4 Steel Leaf Champion
-4 Unclaimed Territory
 4 Wildborn Preserver
 4 Elvish Visionary
 4 Collected Company
@@ -477,7 +498,6 @@
 1 Nantuko Husk
 1 Cryptbreaker
 1 Liliana, Untouched by Death
-1 Westvale Abbey
 1 Rally the Ancestors
 1 Diregraf Colossus
 1 Lazotep Reaver
@@ -489,8 +509,8 @@
 2 Nantuko Husk
 2 Lazotep Reaver
 2 Wayward Servant
-2 Diregraf Colossus
 2 Foulmire Knight
+2 Diregraf Colossus
 2 Corpse Knight
 2 Liliana, Untouched by Death
 2 Cryptbreaker
@@ -539,17 +559,17 @@
 7 Forest
 1 Wild Slash
 1 Unlicensed Disintegration
-1 Goblin Chainwhirler
 1 Foreboding Ruins
 1 Bomat Courier
 1 Ramunap Ruins
 1 Soul-Scar Mage
+1 Goblin Chainwhirler
 2 Unlicensed Disintegration
-2 Goblin Chainwhirler
 2 Foreboding Ruins
 2 Bomat Courier
 2 Wild Slash
 2 Soul-Scar Mage
+2 Goblin Chainwhirler
 3 Unlicensed Disintegration
 3 Dragonskull Summit
 3 Foreboding Ruins
@@ -557,8 +577,8 @@
 3 Goblin Chainwhirler
 3 Wild Slash
 3 Soul-Scar Mage
-4 Goblin Chainwhirler
 4 Dragonskull Summit
+4 Goblin Chainwhirler
 4 Foreboding Ruins
 4 Bomat Courier
 4 Soul-Scar Mage

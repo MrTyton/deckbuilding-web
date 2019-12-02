@@ -1,7 +1,7 @@
-1 Reclamation Sage
-2 Disdainful Stroke
 1 Scavenging Ooze
+1 Disdainful Stroke
 1 Stubborn Denial
+2 Disdainful Stroke
 1 Chandra, Torch of Defiance
 1 Wicked Wolf
 1 Unravel the Aether
@@ -11,58 +11,54 @@
 2 Magma Spray
 3 Magma Spray
 4 Magma Spray
-1 Thoughtseize
-2 Thoughtseize
 1 Blood Sun
 2 Blood Sun
+1 Thoughtseize
+2 Thoughtseize
 3 Thoughtseize
 1 Pithing Needle
 2 Pithing Needle
+2 Scavenging Ooze
 2 Stubborn Denial
 1 Aether Gust
 2 Aether Gust
-2 Scavenging Ooze
 4 Thoughtseize
-1 Tireless Tracker
-2 Tireless Tracker
-1 Grafdigger's Cage
-1 Supreme Verdict
-1 Mystical Dispute
 1 Assassin's Trophy
-1 Declaration in Stone
 1 Blightbeetle
 2 Blightbeetle
 2 Assassin's Trophy
 3 Assassin's Trophy
+3 Blightbeetle
 1 Collective Brutality
 2 Collective Brutality
 1 Ratchet Bomb
 1 Return to Nature
 2 Return to Nature
-2 Supreme Verdict
+3 Return to Nature
+4 Return to Nature
+1 Grafdigger's Cage
+1 Mystical Dispute
+1 Supreme Verdict
 1 Teferi, Hero of Dominaria
 1 Surge of Righteousness
 2 Surge of Righteousness
-3 Blightbeetle
-3 Return to Nature
-4 Return to Nature
+1 Declaration in Stone
+1 Deputy of Detention
+2 Deputy of Detention
+1 Absorb
+1 Settle the Wreckage
+1 Remorseful Cleric
+1 Dovin's Veto
+1 God-Eternal Oketra
 1 Negate
 2 Negate
-1 Noxious Grasp
-2 Declaration in Stone
 1 Duress
 2 Duress
 1 Flame Sweep
 2 Flame Sweep
-1 Absorb
-1 Settle the Wreckage
-1 Deputy of Detention
-1 Remorseful Cleric
-1 Dovin's Veto
-1 God-Eternal Oketra
-2 Deputy of Detention
+1 Tireless Tracker
+2 Tireless Tracker
 2 Mystical Dispute
-1 Fragmentize
 3 Duress
 1 Dragonlord Silumgar
 1 Languish
@@ -74,20 +70,16 @@
 2 Languish
 2 Unmoored Ego
 2 Virulent Plague
-1 Teferi, Time Raveler
-1 Authority of the Consuls
-2 Teferi, Time Raveler
-2 Noxious Grasp
 1 Brazen Borrower
-1 Metallic Rebuke
 1 Hangarback Walker
 1 Whirler Rogue
 1 Temur Battle Rage
+1 Metallic Rebuke
 1 Sorcerous Spyglass
 2 Brazen Borrower
 2 Temur Battle Rage
-2 Metallic Rebuke
 2 Grafdigger's Cage
+2 Metallic Rebuke
 2 Sorcerous Spyglass
 2 Whirler Rogue
 1 Oko, Thief of Crowns
@@ -102,6 +94,19 @@
 3 Dual Shot
 2 Wicked Wolf
 3 Aether Gust
+1 Rest in Peace
+2 Rest in Peace
+1 Kambal, Consul of Allocation
+1 Selfless Spirit
+1 Dusk / Dawn
+1 Aven Mindcensor
+1 Suncleanser
+1 Sin Collector
+1 Giant Killer
+2 Aven Mindcensor
+2 Sin Collector
+3 Rest in Peace
+3 Sin Collector
 1 Bow of Nylea
 1 Display of Dominance
 1 Hornet Nest
@@ -117,6 +122,7 @@
 1 Solemnity
 2 Solemnity
 2 Teferi, Hero of Dominaria
+2 Supreme Verdict
 3 Solemnity
 3 Disdainful Stroke
 3 Supreme Verdict
@@ -128,17 +134,17 @@
 2 Goblin Rabblemaster
 3 Crumble to Dust
 3 Goblin Rabblemaster
+1 Fragmentize
 1 Kalitas, Traitor of Ghet
-1 Kambal, Consul of Allocation
+1 Noxious Grasp
 1 Dark Betrayal
 2 Kalitas, Traitor of Ghet
+2 Declaration in Stone
 2 Dark Betrayal
 3 Dark Betrayal
 4 Dark Betrayal
 1 Leyline of Sanctity
 1 Valorous Stance
-1 Rest in Peace
-2 Rest in Peace
 2 Leyline of Sanctity
 2 Valorous Stance
 3 Pithing Needle
