@@ -27,10 +27,6 @@
 3 Cavern of Souls
 3 Merrow Reejerey
 4 Merrow Reejerey
-1 Fiery Islet
-2 Fiery Islet
-3 Brazen Borrower
-4 Brazen Borrower
 1 Noble Hierarch
 1 Ongoing Investigation
 1 Collected Company
@@ -38,13 +34,17 @@
 2 Noble Hierarch
 2 Ongoing Investigation
 2 Collected Company
-3 Misty Rainforest
-3 Collected Company
 3 Noble Hierarch
-4 Misty Rainforest
+3 Collected Company
+3 Misty Rainforest
+4 Noble Hierarch
 4 Collected Company
 4 Oko, Thief of Crowns
-4 Noble Hierarch
+4 Misty Rainforest
+1 Fiery Islet
+2 Fiery Islet
+3 Brazen Borrower
+4 Brazen Borrower
 1 Echoing Truth
 2 Echoing Truth
 4 Cavern of Souls
@@ -59,12 +59,12 @@
 2 Once Upon a Time
 3 Once Upon a Time
 4 Once Upon a Time
-1 Cursecatcher
 1 Faerie Conclave
 1 Deprive
-2 Cursecatcher
+1 Cursecatcher
 2 Deprive
 2 Faerie Conclave
+2 Cursecatcher
 3 Cursecatcher
 4 Cursecatcher
 4 Harbinger of the Tides

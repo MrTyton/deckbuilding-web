@@ -7,8 +7,8 @@
 3 Flooded Strand
 4 Flooded Strand
 7 Island
-1 Vendilion Clique
 1 Thing in the Ice
+1 Vendilion Clique
 1 Cascade Bluffs
 1 Augur of Bolas
 2 Augur of Bolas
@@ -16,25 +16,25 @@
 3 Thing in the Ice
 1 Simian Spirit Guide
 1 Jace, the Mind Sculptor
-1 Narset, Parter of Veils
 1 Castle Vantress
-1 Time Warp
 1 Chandra, Torch of Defiance
+1 Time Warp
 1 Fires of Invention
 1 Dictate of Kruphix
+1 Narset, Parter of Veils
 1 Savor the Moment
 1 Exhaustion
 1 Howling Mine
 1 Izzet Charm
 1 Mikokoro, Center of the Sea
 2 Jace, the Mind Sculptor
-2 Narset, Parter of Veils
 2 Castle Vantress
 2 Chandra, Torch of Defiance
 2 Savor the Moment
 2 Dictate of Kruphix
 2 Fires of Invention
 2 Spell Pierce
+2 Narset, Parter of Veils
 2 Simian Spirit Guide
 2 Exhaustion
 2 Time Warp
@@ -50,16 +50,15 @@
 4 Fires of Invention
 4 Savor the Moment
 1 Academy Ruins
-1 Tolaria West
 1 Tectonic Edge
-1 Karn, the Great Creator
+1 Tolaria West
 1 Warping Wail
 1 Ensnaring Bridge
+1 Karn, the Great Creator
 1 Karn, Scion of Urza
 1 Gemstone Caverns
 1 Thirst for Knowledge
 1 Cyclonic Rift
-1 Talisman of Dominance
 1 Walking Ballista
 1 Field of Ruin
 1 Urza's Tower
@@ -67,6 +66,7 @@
 1 Urza's Power Plant
 1 Spell Burst
 1 Expedition Map
+1 Talisman of Dominance
 1 Condescend
 1 Chalice of the Void
 2 Tolaria West
@@ -81,9 +81,9 @@
 2 Chalice of the Void
 2 Urza's Power Plant
 2 Karn, Scion of Urza
+2 Talisman of Dominance
 2 Urza's Mine
 2 Walking Ballista
-2 Talisman of Dominance
 3 Ensnaring Bridge
 3 Karn, the Great Creator
 3 Urza's Tower
@@ -103,10 +103,10 @@
 4 Urza's Mine
 4 Urza's Power Plant
 1 Dreadhorde Arcanist
-1 The Royal Scions
 1 Jace, Vryn's Prodigy
-1 Flame Slash
 1 Ancestral Vision
+1 The Royal Scions
+1 Flame Slash
 2 Dreadhorde Arcanist
 2 Jace, Vryn's Prodigy
 2 The Royal Scions
@@ -116,8 +116,8 @@
 3 Blood Moon
 3 Ancestral Vision
 4 Dreadhorde Arcanist
-4 The Royal Scions
 4 Ancestral Vision
+4 The Royal Scions
 8 Island
 1 Keranos, God of Storms
 1 Spell Snare
@@ -130,7 +130,7 @@
 2 Deprive
 4 Remand
 4 Cryptic Command
-4 Snapcaster Mage
 4 Sulfur Falls
 4 Archmage's Charm
+4 Snapcaster Mage
 8 Snow-Covered Island

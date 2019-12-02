@@ -1,87 +1,35 @@
-2 Kiora, Master of the Depths
-4 Jace, Vryn's Prodigy
-7 Forest
-3 Elvish Mystic
-1 Yavimaya Coast
-2 Yavimaya Coast
-3 Yavimaya Coast
-4 Yavimaya Coast
-2 Walking Ballista
-1 Hashep Oasis
-1 Thought-Knot Seer
-1 Smuggler's Copter
-1 Llanowar Wastes
-2 Thought-Knot Seer
-2 Smuggler's Copter
-2 Hashep Oasis
-3 Hashep Oasis
-3 Smuggler's Copter
-3 Thought-Knot Seer
-4 Thought-Knot Seer
-4 Hashep Oasis
-1 Grapple with the Past
-2 Ishkanah, Grafwidow
-1 Eldrazi Skyspawner
-1 Elder Deep-Fiend
-1 Mutavault
-1 Matter Reshaper
-1 Heart of Kiran
-2 Eldrazi Skyspawner
-2 Elder Deep-Fiend
-2 Heart of Kiran
-2 Mutavault
-2 Matter Reshaper
-3 Eldrazi Skyspawner
-3 Elder Deep-Fiend
-3 Matter Reshaper
-3 Mutavault
-4 Eldrazi Skyspawner
-4 Mutavault
-4 Matter Reshaper
-4 Elder Deep-Fiend
-4 Smuggler's Copter
-1 Reality Smasher
-1 Steel Leaf Champion
-1 Rhonas the Indomitable
-1 Lovestruck Beast
-1 Questing Beast
-2 Reality Smasher
-2 Lovestruck Beast
-2 Steel Leaf Champion
-2 Questing Beast
-2 Llanowar Wastes
-3 Reality Smasher
-3 Llanowar Wastes
-3 Lovestruck Beast
-3 Steel Leaf Champion
-3 Questing Beast
-4 Reality Smasher
-4 Elvish Mystic
-4 Steel Leaf Champion
+1 Island
 1 Aether Hub
 1 Emry, Lurker of the Loch
+1 Forest
 2 Emry, Lurker of the Loch
+2 Forest
+2 Island
 2 Aether Hub
+3 Forest
 3 Aether Hub
 4 Aether Hub
 1 Hangarback Walker
+1 Satyr Wayfinder
 1 Champion of Wits
 1 Agent of Treachery
-1 Satyr Wayfinder
 1 Minister of Inquiries
-1 Gate to the Afterlife
 1 God-Pharaoh's Gift
+1 Walking Ballista
+1 Gate to the Afterlife
+2 Satyr Wayfinder
+2 Walking Ballista
 2 Agent of Treachery
+2 God-Pharaoh's Gift
 2 Gate to the Afterlife
 2 Minister of Inquiries
-2 Satyr Wayfinder
-2 God-Pharaoh's Gift
 2 Champion of Wits
 3 Walking Ballista
 3 Emry, Lurker of the Loch
 3 Agent of Treachery
 3 Champion of Wits
 3 Satyr Wayfinder
+3 Island
 3 Gate to the Afterlife
 3 Minister of Inquiries
 4 Emry, Lurker of the Loch
@@ -91,56 +39,33 @@
 4 Gate to the Afterlife
 4 Minister of Inquiries
 4 Walking Ballista
-1 Jadelight Ranger
-1 Nykthos, Shrine to Nyx
-1 Nissa, Who Shakes the World
-1 Castle Garenbrig
-1 Voracious Hydra
-1 Hydroid Krasis
-2 Nykthos, Shrine to Nyx
-2 Jadelight Ranger
-2 Scavenging Ooze
-2 Voracious Hydra
-2 Hydroid Krasis
-2 Nissa, Who Shakes the World
-3 Voracious Hydra
-3 Jadelight Ranger
-3 Nykthos, Shrine to Nyx
-3 Hydroid Krasis
-3 Wicked Wolf
-3 Nissa, Who Shakes the World
-4 Nykthos, Shrine to Nyx
-4 Jadelight Ranger
-4 Hydroid Krasis
-4 Nissa, Who Shakes the World
-4 Wicked Wolf
-8 Forest
+1 Emrakul, the Promised End
 1 Attune with Aether
 1 Rogue Refiner
+1 Tamiyo, Collector of Tales
 1 Growth Spiral
 1 Ugin, the Spirit Dragon
-1 Tamiyo, Collector of Tales
-1 Renegade Map
 1 Tireless Tracker
-1 Glassblower's Puzzleknot
 1 Hinterland Harbor
+1 Renegade Map
 1 Servant of the Conduit
-1 Vessel of Nascency
+1 Glassblower's Puzzleknot
 1 Woodweaver's Puzzleknot
 1 Aetherworks Marvel
-2 Attune with Aether
+1 Vessel of Nascency
 2 Rogue Refiner
-2 Emrakul, the Promised End
+2 Attune with Aether
 2 Ugin, the Spirit Dragon
-2 Growth Spiral
 2 Hinterland Harbor
+2 Growth Spiral
+2 Emrakul, the Promised End
 2 Tireless Tracker
-2 Tamiyo, Collector of Tales
 2 Woodweaver's Puzzleknot
 2 Aetherworks Marvel
 2 Servant of the Conduit
-3 Attune with Aether
+2 Tamiyo, Collector of Tales
 3 Rogue Refiner
+3 Attune with Aether
 3 Woodweaver's Puzzleknot
 3 Aetherworks Marvel
 3 Growth Spiral
@@ -151,5 +76,9 @@
 4 Woodweaver's Puzzleknot
 4 Aetherworks Marvel
 4 Emrakul, the Promised End
+4 Forest
 4 Growth Spiral
 4 Servant of the Conduit
+5 Forest
+6 Forest
+7 Forest

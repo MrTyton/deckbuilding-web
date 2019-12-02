@@ -26,9 +26,27 @@
 
 # Other Options
 
-|*n*<sup>th</sup> copy|                                  Maindeck Card                                  |*n*<sup>th</sup> copy|                                       Sideboard Card                                       |
-|--------------------:|---------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------|
-|                   21|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)|                    1|[Stolen by the Fae](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473028)|
-|                     |                                                                                 |                    2|[Stolen by the Fae](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473028)|
-|                     |                                                                                 |                    3|[Stolen by the Fae](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473028)|
+|*n*<sup>th</sup> copy|                                        Maindeck Card                                         |*n*<sup>th</sup> copy|                                       Sideboard Card                                        |
+|--------------------:|----------------------------------------------------------------------------------------------|--------------------:|---------------------------------------------------------------------------------------------|
+|                    1|[Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)             |                    1|[Stolen by the Fae](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473028) |
+|                    1|[Winged Words](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466834)       |                    2|[Stolen by the Fae](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473028) |
+|                    1|[Blast Zone](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461171)         |                    3|[Stolen by the Fae](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473028) |
+|                    1|[Faerie Vandal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473007)      |                    1|[Blast Zone](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461171)        |
+|                    1|[Chemister's Insight](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452782)|                    1|[Cerulean Drake](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466807)    |
+|                    2|[Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)             |                    2|[Cerulean Drake](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466807)    |
+|                    2|[Chemister's Insight](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452782)|                    3|[Cerulean Drake](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466807)    |
+|                    2|[Winged Words](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466834)       |                    3|[Sorcerous Spyglass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435407)|
+|                    2|[Blast Zone](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461171)         |                    4|[Cerulean Drake](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466807)    |
+|                    2|[Faerie Vandal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473007)      |                     |                                                                                             |
+|                    3|[Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)             |                     |                                                                                             |
+|                    3|[Pteramander](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457191)        |                     |                                                                                             |
+|                    3|[Faerie Vandal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473007)      |                     |                                                                                             |
+|                    3|[Winged Words](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466834)       |                     |                                                                                             |
+|                    4|[Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)             |                     |                                                                                             |
+|                    4|[Winged Words](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466834)       |                     |                                                                                             |
+|                    4|[Faerie Vandal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473007)      |                     |                                                                                             |
+|                    4|[Sinister Sabotage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452804)  |                     |                                                                                             |
+|                    4|[Essence Capture](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457181)    |                     |                                                                                             |
+|                    4|[Pteramander](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457191)        |                     |                                                                                             |
+|                   21|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)             |                     |                                                                                             |
 

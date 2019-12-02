@@ -65,8 +65,8 @@
 |                    2|[Kaya, Orzhov Usurper](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460129)|                     |                                                                                                    |
 |                    2|[Seraph of the Scales](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457349)|                     |                                                                                                    |
 |                    2|[Legion's End](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466860)        |                     |                                                                                                    |
-|                    3|[Sorcerous Spyglass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435407)  |                     |                                                                                                    |
 |                    3|[Murderous Rider](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473059)     |                     |                                                                                                    |
+|                    3|[Sorcerous Spyglass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435407)  |                     |                                                                                                    |
 |                    7|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)              |                     |                                                                                                    |
 |                    6|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)               |                     |                                                                                                    |
 

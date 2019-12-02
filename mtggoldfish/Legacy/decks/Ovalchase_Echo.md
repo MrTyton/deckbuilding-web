@@ -28,6 +28,6 @@
 
 |*n*<sup>th</sup> copy|                                     Maindeck Card                                     |*n*<sup>th</sup> copy|                                     Sideboard Card                                     |
 |--------------------:|---------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------|
-|                    2|[Volcanic Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=887)|                    1|[Echoing Truth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405212)|
-|                     |                                                                                       |                    1|[Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)       |
+|                    2|[Volcanic Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=887)|                    1|[Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)       |
+|                     |                                                                                       |                    1|[Echoing Truth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405212)|
 

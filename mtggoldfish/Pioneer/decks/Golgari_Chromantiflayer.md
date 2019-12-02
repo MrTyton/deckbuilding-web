@@ -29,8 +29,8 @@
 
 |*n*<sup>th</sup> copy|                                           Maindeck Card                                           |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
 |--------------------:|---------------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
-|                    1|[Sylvan Caryatid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373624)         |                    1|[Gifted Aetherborn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423728)  |
-|                    1|[Hazoret the Fervent](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426838)     |                    1|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)|
+|                    1|[Hazoret the Fervent](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426838)     |                    1|[Gifted Aetherborn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423728)  |
+|                    1|[Sylvan Caryatid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373624)         |                    1|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)|
 |                    1|[Once Upon a Time](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473131)        |                    1|[Phyrexian Revoker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383343)  |
 |                    1|[Samut, Voice of Dissent](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426907) |                    1|[Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)     |
 |                    1|[Urborg, Tomb of Yawgmoth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383425)|                    1|[Fatal Push](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423724)         |
@@ -40,7 +40,7 @@
 |                    3|[Sylvan Caryatid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373624)         |                    2|[Reclamation Sage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389651)   |
 |                    3|[Llanowar Wastes](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129627)         |                    2|[Fatal Push](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423724)         |
 |                    3|[Once Upon a Time](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473131)        |                    2|[Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)     |
-|                    4|[Llanowar Wastes](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129627)         |                    3|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)|
-|                    4|[Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)            |                    3|[Fatal Push](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423724)         |
+|                    4|[Llanowar Wastes](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129627)         |                    3|[Fatal Push](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423724)         |
+|                    4|[Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)            |                    3|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)|
 |                    4|[Sylvan Caryatid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373624)         |                     |                                                                                              |
 

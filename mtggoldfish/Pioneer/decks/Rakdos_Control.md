@@ -32,6 +32,6 @@
 |*n*<sup>th</sup> copy|                                       Maindeck Card                                        |*n*<sup>th</sup> copy|                                      Sideboard Card                                      |
 |--------------------:|--------------------------------------------------------------------------------------------|--------------------:|------------------------------------------------------------------------------------------|
 |                    2|[Castle Locthwain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473203) |                    1|[Alpine Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447264)    |
-|                    3|[Anger of the Gods](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438682)|                    1|[Sweltering Suns](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426851)|
-|                     |                                                                                            |                    1|[Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)         |
+|                    3|[Anger of the Gods](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438682)|                    1|[Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)         |
+|                     |                                                                                            |                    1|[Sweltering Suns](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426851)|
 

@@ -22,3 +22,20 @@
 |                                                                                        |3 [Baffling End](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439658)            |                                                                                         |                                                                                        |
 |                                                                                        |2 [Seal Away](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442919)               |                                                                                         |                                                                                        |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                        Maindeck Card                                         |*n*<sup>th</sup> copy|                                           Sideboard Card                                            |
+|--------------------:|----------------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------------------|
+|                    1|[Dauntless Bodyguard](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442902)|                    1|[Stonecoil Serpent](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473197)         |
+|                    1|[Field of Ruin](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435415)      |                    1|[Field of Ruin](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435415)             |
+|                    1|[Gift of Orzhova](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=366339)    |                    1|[Fiendslayer Paladin](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430547)       |
+|                    2|[Dauntless Bodyguard](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442902)|                    1|[Apostle of Purifying Light](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466760)|
+|                    2|[Field of Ruin](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435415)      |                    2|[Stonecoil Serpent](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473197)         |
+|                    2|[Gift of Orzhova](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=366339)    |                    2|[Pithing Needle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129526)            |
+|                    3|[Dauntless Bodyguard](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442902)|                    2|[Apostle of Purifying Light](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466760)|
+|                    3|[Knight of Grace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442911)    |                    3|[Stonecoil Serpent](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473197)         |
+|                    4|[Dauntless Bodyguard](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442902)|                    3|[Pithing Needle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129526)            |
+|                   17|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)             |                    4|[Stonecoil Serpent](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473197)         |
+|                     |                                                                                              |                    1|[Pithing Needle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129526)            |
+

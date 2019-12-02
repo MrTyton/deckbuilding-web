@@ -86,9 +86,9 @@
 2 Dragonskull Summit
 1 Sacred Foundry
 2 Sacred Foundry
-1 Drawn from Dreams
 1 Nicol Bolas, Dragon-God
 1 Fires of Invention
+1 Drawn from Dreams
 2 Jace, Architect of Thought
 2 Nicol Bolas, Dragon-God
 2 Fires of Invention
@@ -149,17 +149,17 @@
 2 Quench
 2 Clash of Wills
 1 Gideon, Ally of Zendikar
-1 Concealed Courtyard
 1 Sorin, Solemn Visitor
+1 Concealed Courtyard
 2 Concealed Courtyard
 3 Hieroglyphic Illumination
+1 Tyrant's Scorn
 1 Wandering Fumarole
 1 Bedevil
 1 Crux of Fate
-1 Tyrant's Scorn
 1 Rakdos's Return
-2 Sulfur Falls
 2 Tyrant's Scorn
+2 Sulfur Falls
 2 Wandering Fumarole
 2 Crux of Fate
 3 Dragonskull Summit
@@ -213,10 +213,10 @@
 4 Blooming Marsh
 4 Rogue Refiner
 4 Gilded Goose
-1 Arch of Orazca
 1 Woodland Cemetery
 1 Llanowar Wastes
 1 Overgrown Tomb
+1 Arch of Orazca
 1 Reliquary Tower
 1 The Elderspell
 1 Nissa's Renewal
@@ -236,11 +236,11 @@
 3 Kolaghan's Command
 4 Disallow
 1 Blessed Alliance
+1 Cast Out
 1 Castle Ardenvale
 1 Irrigated Farmland
 1 Ipnu Rivulet
 1 Azorius Charm
-1 Cast Out
 2 Irrigated Farmland
 2 Approach of the Second Sun
 2 Castle Ardenvale
@@ -255,26 +255,46 @@
 1 Clifftop Retreat
 1 Heart of Kiran
 1 Interplanar Beacon
-1 Temple of Triumph
 1 Oath of Teferi
 1 Nicol Bolas, God-Pharaoh
+1 Temple of Triumph
 2 Heart of Kiran
-2 Temple of Epiphany
 2 Temple of Triumph
-2 Drawn from Dreams
 2 Deafening Clarion
 2 Interplanar Beacon
+2 Drawn from Dreams
 2 Oath of Teferi
+2 Temple of Epiphany
 3 Sacred Foundry
 3 Deafening Clarion
 3 Interplanar Beacon
 4 Interplanar Beacon
+1 Dreadhorde Arcanist
+1 Young Pyromancer
+1 Wild Slash
+1 Treasure Cruise
+1 Thing in the Ice
+1 The Royal Scions
+2 The Royal Scions
+2 Dreadhorde Arcanist
+2 Young Pyromancer
+2 Wild Slash
+2 Thing in the Ice
+3 Spirebluff Canal
+3 Dreadhorde Arcanist
+3 Young Pyromancer
+3 Thing in the Ice
+3 Wild Slash
+4 Spirebluff Canal
+4 Dreadhorde Arcanist
+4 Thing in the Ice
+4 Wild Slash
 1 Disinformation Campaign
-1 Starfield of Nyx
-1 Doom Foretold
 1 Trial of Ambition
-1 The Eldest Reborn
+1 Starfield of Nyx
 1 Demonic Pact
+1 Doom Foretold
+1 The Eldest Reborn
 1 Temple of Silence
 2 Disinformation Campaign
 2 Doom Foretold
@@ -282,28 +302,8 @@
 2 Temple of Silence
 3 Doom Foretold
 4 Oath of Kaya
-4 Doom Foretold
 4 Godless Shrine
-1 Wild Slash
-1 Treasure Cruise
-1 Dreadhorde Arcanist
-1 Thing in the Ice
-1 Young Pyromancer
-1 The Royal Scions
-2 The Royal Scions
-2 Wild Slash
-2 Thing in the Ice
-2 Dreadhorde Arcanist
-2 Young Pyromancer
-3 Spirebluff Canal
-3 Thing in the Ice
-3 Young Pyromancer
-3 Wild Slash
-3 Dreadhorde Arcanist
-4 Spirebluff Canal
-4 Thing in the Ice
-4 Wild Slash
-4 Dreadhorde Arcanist
+4 Doom Foretold
 1 Geier Reach Sanitarium
 1 Notion Thief
 1 Doom Blade
@@ -323,10 +323,10 @@
 3 Notion Thief
 3 Cast Down
 4 Temple of Deceit
+4 Doom Blade
 4 Cast Down
 4 Dark Deal
 4 Day's Undoing
-4 Doom Blade
 4 Notion Thief
 3 Liliana, the Last Hope
 4 Dig Through Time
@@ -348,16 +348,16 @@
 3 Wilderness Reclamation
 3 Temple Garden
 3 Lumbering Falls
-4 Sphinx's Revelation
 4 Temple Garden
+4 Sphinx's Revelation
 4 Wilderness Reclamation
 1 Stomping Ground
-1 Scapeshift
-1 Sheltered Thicket
 1 Strategic Planning
 1 Izzet Charm
+1 Scapeshift
 1 Temple of Mystery
 1 Splendid Reclamation
+1 Sheltered Thicket
 1 Rootbound Crag
 1 Hammer of Purphoros
 1 Shivan Reef
@@ -393,18 +393,18 @@
 4 Thought Erasure
 5 Island
 1 Foreboding Ruins
+1 Despise
 1 Bonecrusher Giant
 1 Glorybringer
 1 Chandra, Acolyte of Flame
-1 Despise
 1 Chandra, Awakened Inferno
 1 Chandra, Torch of Defiance
 2 Glorybringer
 2 Foreboding Ruins
 2 Bonecrusher Giant
+2 Despise
 2 Chandra, Torch of Defiance
 2 Chandra, Acolyte of Flame
-2 Despise
 2 Chandra, Awakened Inferno
 2 Castle Locthwain
 3 Glorybringer
@@ -442,10 +442,10 @@
 6 Swamp
 7 Swamp
 8 Swamp
-1 Ulvenwald Hydra
 1 Explosive Vegetation
 1 Sea Gate Wreckage
 1 Dragonlord Atarka
+1 Ulvenwald Hydra
 1 World Breaker
 1 Castle Garenbrig
 1 Llanowar Elves
@@ -455,13 +455,13 @@
 1 Shrine of the Forsaken Gods
 1 Nissa's Pilgrimage
 1 Once Upon a Time
-2 Ulvenwald Hydra
-2 Dragonlord Atarka
 2 Explosive Vegetation
 2 Sylvan Caryatid
+2 Sanctum of Ugin
+2 Dragonlord Atarka
+2 Ulvenwald Hydra
 2 Stomping Ground
 2 World Breaker
-2 Sanctum of Ugin
 2 Nissa's Pilgrimage
 2 Castle Garenbrig
 2 Llanowar Elves
@@ -479,9 +479,9 @@
 3 Sanctum of Ugin
 3 Once Upon a Time
 3 Castle Garenbrig
+4 World Breaker
 4 Sylvan Caryatid
 4 Castle Garenbrig
-4 World Breaker
 4 Explosive Vegetation
 4 Sanctum of Ugin
 4 Elvish Mystic

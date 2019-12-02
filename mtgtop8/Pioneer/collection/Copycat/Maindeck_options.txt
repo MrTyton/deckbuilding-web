@@ -63,18 +63,18 @@
 4 Sulfur Falls
 4 Censor
 4 Izzet Charm
-1 Prime Speaker Vannifar
+1 Thalia's Lancers
 1 Corridor Monitor
 1 Renegade Rallier
-1 Thalia's Lancers
+1 Prime Speaker Vannifar
 2 Renegade Rallier
-2 Prime Speaker Vannifar
 2 Corridor Monitor
+2 Prime Speaker Vannifar
 3 Prime Speaker Vannifar
 4 Temple Garden
 4 Inspiring Vantage
-1 Tamiyo, Collector of Tales
 1 Harnessed Lightning
+1 Tamiyo, Collector of Tales
 2 Harnessed Lightning
 3 Harnessed Lightning
 4 Rogue Refiner
@@ -92,9 +92,9 @@
 4 Sacred Foundry
 1 Deafening Clarion
 2 Deafening Clarion
-1 Godless Shrine
 1 Blood Crypt
 1 Swamp
+1 Godless Shrine
 1 Watery Grave
 1 Oath of Kaya
 2 Oath of Kaya
@@ -105,7 +105,6 @@
 2 Brazen Borrower
 1 Ojutai's Command
 1 Assassin's Trophy
-1 Knight of Autumn
 1 Dreadbore
 1 Niv-Mizzet Reborn
 1 Kolaghan's Command
@@ -113,6 +112,7 @@
 1 Unmoored Ego
 1 Silumgar's Command
 1 Bring to Light
+1 Knight of Autumn
 2 Assassin's Trophy
 2 Mana Confluence
 2 Bring to Light
@@ -121,6 +121,25 @@
 3 Bring to Light
 3 Niv-Mizzet Reborn
 3 Island
+4 Harnessed Lightning
+1 Lumbering Falls
+1 Risen Reef
+1 Eldritch Evolution
+1 Overgrown Tomb
+1 Arboreal Grazer
+1 Field of the Dead
+1 Golos, Tireless Pilgrim
+1 Yarok, the Desecrated
+2 Risen Reef
+2 Golos, Tireless Pilgrim
+2 Field of the Dead
+2 Arboreal Grazer
+2 Eldritch Evolution
+3 Risen Reef
+3 Arboreal Grazer
+3 Eldritch Evolution
+4 Voice of Resurgence
+4 Risen Reef
 1 Field of Ruin
 1 Cloudblazer
 1 Elite Guardmage
@@ -128,11 +147,11 @@
 1 Tithe Taker
 1 Charming Prince
 1 Thraben Inspector
-2 Field of Ruin
 2 Elite Guardmage
 2 Cloudblazer
 2 Charming Prince
 2 Tithe Taker
+2 Field of Ruin
 2 Plains
 2 Dusk / Dawn
 2 Thraben Inspector
@@ -148,31 +167,13 @@
 1 Shock
 2 Shock
 4 Elvish Mystic
-1 Lumbering Falls
-1 Eldritch Evolution
-1 Risen Reef
-1 Overgrown Tomb
-1 Arboreal Grazer
-1 Field of the Dead
-1 Golos, Tireless Pilgrim
-1 Yarok, the Desecrated
-2 Eldritch Evolution
-2 Risen Reef
-2 Golos, Tireless Pilgrim
-2 Field of the Dead
-2 Arboreal Grazer
-3 Eldritch Evolution
-3 Risen Reef
-3 Arboreal Grazer
-4 Risen Reef
-4 Voice of Resurgence
 1 Thrill of Possibility
 1 Fiery Impulse
 1 Lava Coil
 1 Anticipate
 2 Thrill of Possibility
-2 Lava Coil
 2 Spell Pierce
+2 Lava Coil
 2 Anticipate
 2 Fiery Impulse
 3 Anticipate
@@ -184,8 +185,8 @@
 4 Dig Through Time
 4 Fiery Impulse
 4 Spirebluff Canal
-1 Urborg, Tomb of Yawgmoth
 1 Cast Down
+1 Urborg, Tomb of Yawgmoth
 1 Discovery / Dispersal
 1 Languish
 1 Yahenni's Expertise
@@ -199,12 +200,12 @@
 1 Narset, Parter of Veils
 1 Interplanar Beacon
 1 Fatal Push
+2 Godless Shrine
 2 Narset, Parter of Veils
 2 Languish
 2 Fatal Push
 2 Thoughtseize
 2 Watery Grave
-2 Godless Shrine
 2 Prophetic Prism
 3 Watery Grave
 3 Thoughtseize
@@ -217,4 +218,3 @@
 1 Elvish Visionary
 2 Wicked Wolf
 4 Llanowar Elves
-4 Harnessed Lightning

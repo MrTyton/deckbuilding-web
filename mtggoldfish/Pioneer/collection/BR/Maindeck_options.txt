@@ -1,21 +1,31 @@
-4 Canyon Slough
+1 Goblin Chainwhirler
+2 Goblin Chainwhirler
+3 Goblin Chainwhirler
+3 Scrapheap Scrounger
+4 Goblin Chainwhirler
+4 Foreboding Ruins
+7 Mountain
+1 Fabled Passage
 1 Bomat Courier
+1 Unlicensed Disintegration
+1 Hazoret the Fervent
+1 Monastery Swiftspear
 2 Bomat Courier
+2 Hazoret the Fervent
+2 Unlicensed Disintegration
+2 Monastery Swiftspear
 3 Bomat Courier
+3 Monastery Swiftspear
+3 Unlicensed Disintegration
 4 Bomat Courier
+4 Unlicensed Disintegration
+4 Monastery Swiftspear
 4 Scrapheap Scrounger
-1 Rankle, Master of Pranks
-4 Glorybringer
-2 Kolaghan's Command
-1 Cast Down
-1 Legion Warboss
-2 Rankle, Master of Pranks
-2 Legion Warboss
-3 Legion Warboss
-4 Legion Warboss
-1 Wild Slash
-2 Wild Slash
-1 Kalitas, Traitor of Ghet
+8 Mountain
+9 Mountain
+10 Mountain
+11 Mountain
+1 Urborg, Tomb of Yawgmoth
 1 Knight of the Ebon Legion
 2 Knight of the Ebon Legion
 3 Knight of the Ebon Legion
@@ -23,16 +33,19 @@
 6 Swamp
 1 Young Pyromancer
 2 Young Pyromancer
-3 Kolaghan's Command
+2 Canyon Slough
 3 Young Pyromancer
-4 Bonecrusher Giant
-2 Kalitas, Traitor of Ghet
+1 Liliana, the Last Hope
+1 Field of Ruin
+2 Liliana, the Last Hope
+2 Field of Ruin
+1 Cut/Ribbons
 2 Dreadbore
-1 Rekindling Phoenix
-2 Rekindling Phoenix
-3 Rekindling Phoenix
-1 Fabled Passage
-1 Urborg, Tomb of Yawgmoth
+1 Anger of the Gods
+2 Anger of the Gods
+2 Fabled Passage
+3 Fabled Passage
+4 Bonecrusher Giant
 1 Stromkirk Condemned
 1 Falkenrath Gorger
 2 Stromkirk Condemned
@@ -41,85 +54,57 @@
 3 Falkenrath Gorger
 4 Falkenrath Gorger
 7 Swamp
-1 Cut/Ribbons
-9 Mountain
-10 Mountain
-1 Temple of Malice
-2 Temple of Malice
-3 Temple of Malice
-2 Cast Down
+1 Magma Spray
+1 Heart of Kiran
+1 Lightning Strike
+1 Goblin Dark-Dwellers
+2 Magma Spray
+2 Lightning Strike
+3 Lightning Strike
+4 Fabled Passage
+1 Read the Bones
+1 Chandra, Acolyte of Flame
+1 Despise
+1 Chandra, Awakened Inferno
+2 Chandra, Awakened Inferno
+2 Chandra, Acolyte of Flame
+2 Despise
+2 Read the Bones
+3 Dreadbore
+3 Anger of the Gods
+4 Dreadbore
 1 Castle Embereth
 1 Murderous Rider
 2 Murderous Rider
 3 Murderous Rider
+3 Canyon Slough
 3 Castle Locthwain
 4 Murderous Rider
-1 Read the Bones
-1 Chandra, Acolyte of Flame
-1 Despise
-1 Anger of the Gods
-1 Chandra, Awakened Inferno
-2 Chandra, Awakened Inferno
-2 Read the Bones
-2 Chandra, Acolyte of Flame
-2 Despise
-2 Anger of the Gods
-2 Fabled Passage
-3 Fabled Passage
-3 Dreadbore
-3 Anger of the Gods
-4 Dreadbore
-1 Burning-Tree Emissary
-1 Rix Maadi Reveler
-1 Nykthos, Shrine to Nyx
-1 Ahn-Crop Crasher
-1 Earthshaker Khenra
-1 Exava, Rakdos Blood Witch
-1 Wily Goblin
-2 Burning-Tree Emissary
-2 Rix Maadi Reveler
-2 Cut/Ribbons
-2 Nykthos, Shrine to Nyx
-2 Ahn-Crop Crasher
-2 Exava, Rakdos Blood Witch
-2 Wily Goblin
-2 Earthshaker Khenra
-3 Nykthos, Shrine to Nyx
-3 Burning-Tree Emissary
-3 Rix Maadi Reveler
-3 Earthshaker Khenra
-3 Cut/Ribbons
-3 Wily Goblin
-3 Ahn-Crop Crasher
-4 Nykthos, Shrine to Nyx
-4 Burning-Tree Emissary
-4 Rix Maadi Reveler
-4 Temple of Malice
-4 Cut/Ribbons
-1 Liliana, the Last Hope
-1 Field of Ruin
+4 Canyon Slough
 1 Murderous Cut
-2 Liliana, the Last Hope
-2 Field of Ruin
 3 Wild Slash
 3 Kalitas, Traitor of Ghet
 3 Field of Ruin
 4 Young Pyromancer
 4 Wild Slash
-1 Soul-Scar Mage
 1 Aether Hub
 1 Glint-Sleeve Siphoner
+1 Temple of Malice
 1 Harnessed Lightning
-2 Soul-Scar Mage
+1 Soul-Scar Mage
 2 Harnessed Lightning
+2 Temple of Malice
+2 Soul-Scar Mage
 2 Glint-Sleeve Siphoner
 2 Aether Hub
 3 Glint-Sleeve Siphoner
 3 Aether Hub
+3 Temple of Malice
 3 Harnessed Lightning
 4 Glint-Sleeve Siphoner
 4 Aether Hub
 1 Judith, the Scourge Diva
+1 Rankle, Master of Pranks
 1 Draconic Roar
 1 Goblin Rabblemaster
 1 Kolaghan, the Storm's Fury
@@ -141,8 +126,8 @@
 1 Unclaimed Territory
 1 Drana, Liberator of Malakir
 1 Sorin, Imperious Bloodlord
-1 Olivia, Mobilized for War
 1 Champion of Dusk
+1 Olivia, Mobilized for War
 2 Mutavault
 2 Unclaimed Territory
 2 Champion of Dusk
@@ -172,14 +157,3 @@
 4 Fiery Temper
 4 Bloodhall Priest
 8 Swamp
-1 Hazoret the Fervent
-1 Monastery Swiftspear
-1 Unlicensed Disintegration
-2 Monastery Swiftspear
-2 Hazoret the Fervent
-2 Unlicensed Disintegration
-3 Monastery Swiftspear
-3 Unlicensed Disintegration
-4 Monastery Swiftspear
-4 Unlicensed Disintegration
-11 Mountain

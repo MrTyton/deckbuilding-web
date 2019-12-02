@@ -36,6 +36,6 @@
 |                    2|[Kolaghan's Command](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394613)|                    1|[Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)                   |
 |                    2|[Shock](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129732)             |                    3|[Noxious Grasp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466864)           |
 |                    2|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)            |                    4|[Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)        |
-|                    3|[Kolaghan's Command](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394613)|                    4|[Radiant Flames](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=402002)          |
-|                    3|[Treasure Cruise](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420718)   |                     |                                                                                                   |
+|                    3|[Treasure Cruise](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420718)   |                    4|[Radiant Flames](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=402002)          |
+|                    3|[Kolaghan's Command](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394613)|                     |                                                                                                   |
 
