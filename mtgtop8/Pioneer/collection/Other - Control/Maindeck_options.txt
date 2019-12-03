@@ -1,59 +1,60 @@
-1 Urborg, Tomb of Yawgmoth
-3 Thought Erasure
-2 Steam Vents
 4 Island
+1 Thought Erasure
+2 Thought Erasure
 1 Oath of Kaya
-1 Castle Locthwain
-4 Fatal Push
-1 Jace, Vryn's Prodigy
 3 Glacial Fortress
-1 Fae of Wishes
 2 Hero's Downfall
+1 Kalitas, Traitor of Ghet
 2 Field of Ruin
+3 Thought Erasure
+1 Cast Down
+2 Cast Down
 1 Drown in the Loch
 2 Drown in the Loch
 3 Drown in the Loch
 3 Dig Through Time
-1 Cast Down
-2 Cast Down
-4 Fabled Passage
 1 Shambling Vent
 2 Shambling Vent
-2 Jace, Vryn's Prodigy
-3 Jace, Vryn's Prodigy
-3 Steam Vents
-1 Kalitas, Traitor of Ghet
+4 Fabled Passage
+1 Fae of Wishes
+1 Steam Vents
+1 Jace, Vryn's Prodigy
 2 Hieroglyphic Illumination
-1 Spirebluff Canal
+2 Steam Vents
+4 Glacial Fortress
+1 Temple of Deceit
+1 Liliana, the Last Hope
+1 Censor
+2 Censor
+4 Swamp
+2 Kalitas, Traitor of Ghet
 1 Blood Crypt
 2 Blood Crypt
 3 Blood Crypt
 4 Blood Crypt
-1 Kolaghan's Command
-1 Temple of Deceit
-4 Glacial Fortress
-1 Censor
-2 Censor
-1 Sulfur Falls
 1 Negate
+1 Kolaghan's Command
+3 Steam Vents
+1 Sulfur Falls
 2 Languish
-2 Kolaghan's Command
-1 Disallow
-1 Liliana, the Last Hope
 1 Liliana's Triumph
 2 Liliana, the Last Hope
 2 Liliana's Triumph
+2 Jace, Vryn's Prodigy
+3 Jace, Vryn's Prodigy
 4 Jace, Vryn's Prodigy
+1 Disallow
 1 Jace, Architect of Thought
-2 Fae of Wishes
-2 Plains
 1 Anger of the Gods
 2 Anger of the Gods
-4 Supreme Verdict
+2 Fae of Wishes
+2 Plains
+2 Kolaghan's Command
+1 Spirebluff Canal
 1 Forest
+4 Supreme Verdict
 1 The Scarab God
-2 Kalitas, Traitor of Ghet
-4 Swamp
+5 Swamp
 1 Commit / Memory
 1 Liliana, Dreadhorde General
 1 Sinister Sabotage
@@ -66,13 +67,12 @@
 3 Godless Shrine
 1 Vraska's Contempt
 4 Teferi, Time Raveler
+1 Murderous Rider
 2 Oath of Kaya
 3 Oath of Kaya
-1 Murderous Rider
 1 Nicol Bolas, the Ravager
 2 Nicol Bolas, the Ravager
 3 Nicol Bolas, the Ravager
-2 Spirebluff Canal
 3 Censor
 1 Approach of the Second Sun
 1 Day's Undoing
@@ -80,10 +80,7 @@
 3 Narset, Parter of Veils
 3 Day's Undoing
 4 Narset, Parter of Veils
-4 Steam Vents
 1 Elspeth, Sun's Champion
-1 Dragonskull Summit
-2 Dragonskull Summit
 1 Sacred Foundry
 2 Sacred Foundry
 1 Nicol Bolas, Dragon-God
@@ -95,28 +92,40 @@
 3 Fae of Wishes
 3 Fires of Invention
 4 Fires of Invention
-1 Dreadbore
-2 Dreadbore
 2 Negate
-1 Syncopate
-2 Syncopate
 1 Sphinx's Revelation
 2 Sphinx's Revelation
+1 Syncopate
+2 Syncopate
+1 Mutavault
+3 Kolaghan's Command
+1 Dragonskull Summit
+1 Bedevil
+2 Dragonskull Summit
+3 Dragonskull Summit
 1 Supreme Will
 3 Languish
 2 Vraska's Contempt
+1 Temple of Enlightenment
+2 Temple of Enlightenment
 1 Read the Bones
-5 Swamp
 1 Collective Brutality
+2 Forest
 1 Assassin's Trophy
 1 Abrupt Decay
 2 Abrupt Decay
-2 Forest
-1 Temple of Enlightenment
-2 Temple of Enlightenment
+2 Mountain
 2 Castle Vantress
 1 Settle the Wreckage
 1 Absorb
+1 Bonecrusher Giant
+1 Chandra, Torch of Defiance
+2 Bonecrusher Giant
+2 Chandra, Torch of Defiance
+2 Castle Locthwain
+3 Bonecrusher Giant
+3 Mountain
+4 Bonecrusher Giant
 1 Dark Petition
 1 Hissing Quagmire
 1 Sign in Blood
@@ -125,24 +134,33 @@
 2 Dark Petition
 2 Assassin's Trophy
 3 Dark Petition
-1 Radiant Flames
 2 Read the Bones
-1 Oko, Thief of Crowns
-1 Deafening Clarion
-2 Oko, Thief of Crowns
-1 Blooming Marsh
-3 Abrupt Decay
+1 Radiant Flames
 1 Field of the Dead
-1 Temple of Epiphany
 1 Hour of Promise
 2 Field of the Dead
+1 Temple of Epiphany
 1 Breeding Pool
 1 Growth Spiral
 2 Growth Spiral
 3 Growth Spiral
 4 Growth Spiral
+1 Oko, Thief of Crowns
+1 Deafening Clarion
+2 Oko, Thief of Crowns
+1 Blooming Marsh
+1 Dreadbore
+2 Dreadbore
+3 Abrupt Decay
+1 Tyrant's Scorn
+1 Crux of Fate
+1 Wandering Fumarole
+1 Rakdos's Return
+2 Tyrant's Scorn
+2 Sulfur Falls
+2 Wandering Fumarole
+2 Crux of Fate
 1 Quench
-1 Mutavault
 1 Ob Nixilis's Cruelty
 1 Cry of the Carnarium
 1 Clash of Wills
@@ -153,16 +171,6 @@
 1 Concealed Courtyard
 2 Concealed Courtyard
 3 Hieroglyphic Illumination
-1 Tyrant's Scorn
-1 Bedevil
-1 Crux of Fate
-1 Wandering Fumarole
-1 Rakdos's Return
-2 Tyrant's Scorn
-2 Sulfur Falls
-2 Wandering Fumarole
-2 Crux of Fate
-3 Dragonskull Summit
 1 Brazen Borrower
 1 Inspiring Vantage
 1 Mystic Monastery
@@ -172,6 +180,7 @@
 2 Abrade
 2 Magma Spray
 3 Magma Spray
+4 Steam Vents
 1 Isolated Chapel
 2 Isolated Chapel
 2 Detention Sphere
@@ -179,10 +188,9 @@
 3 Detention Sphere
 4 Detention Sphere
 1 Dragonmaster Outcast
+2 Spirebluff Canal
 3 Disallow
-3 Kolaghan's Command
 4 Disallow
-2 Mountain
 1 Botanical Sanctum
 1 Sylvan Caryatid
 1 Attune with Aether
@@ -269,26 +277,6 @@
 3 Deafening Clarion
 3 Interplanar Beacon
 4 Interplanar Beacon
-1 The Royal Scions
-1 Dreadhorde Arcanist
-1 Wild Slash
-1 Treasure Cruise
-1 Thing in the Ice
-1 Young Pyromancer
-2 The Royal Scions
-2 Dreadhorde Arcanist
-2 Wild Slash
-2 Thing in the Ice
-2 Young Pyromancer
-3 Spirebluff Canal
-3 Dreadhorde Arcanist
-3 Thing in the Ice
-3 Young Pyromancer
-3 Wild Slash
-4 Spirebluff Canal
-4 Dreadhorde Arcanist
-4 Thing in the Ice
-4 Wild Slash
 1 Disinformation Campaign
 1 Starfield of Nyx
 1 Doom Foretold
@@ -330,6 +318,26 @@
 4 Notion Thief
 3 Liliana, the Last Hope
 4 Dig Through Time
+1 Canyon Slough
+1 Gifted Aetherborn
+1 Angrath's Rampage
+1 Goblin Dark-Dwellers
+2 Mutavault
+2 Canyon Slough
+2 Bedevil
+2 Angrath's Rampage
+2 Gifted Aetherborn
+2 Goblin Dark-Dwellers
+3 Canyon Slough
+3 Bedevil
+3 Gifted Aetherborn
+3 Goblin Dark-Dwellers
+4 Dragonskull Summit
+4 Canyon Slough
+4 Bedevil
+4 Kolaghan's Command
+4 Goblin Dark-Dwellers
+4 Gifted Aetherborn
 1 Blast Zone
 2 Blast Zone
 1 Lumbering Falls
@@ -392,32 +400,24 @@
 4 Field of Ruin
 4 Thought Erasure
 5 Island
-1 Bonecrusher Giant
 1 Foreboding Ruins
 1 Despise
 1 Glorybringer
 1 Chandra, Acolyte of Flame
 1 Chandra, Awakened Inferno
-1 Chandra, Torch of Defiance
 2 Glorybringer
-2 Bonecrusher Giant
 2 Foreboding Ruins
 2 Despise
 2 Chandra, Acolyte of Flame
 2 Chandra, Awakened Inferno
-2 Chandra, Torch of Defiance
-2 Castle Locthwain
 3 Glorybringer
 3 Foreboding Ruins
-3 Bonecrusher Giant
 3 Chandra, Torch of Defiance
 3 Anger of the Gods
 3 Dreadbore
-3 Mountain
 4 Glorybringer
 4 Dreadbore
 4 Mountain
-4 Bonecrusher Giant
 5 Mountain
 6 Mountain
 7 Mountain
@@ -475,9 +475,9 @@
 3 World Breaker
 3 Llanowar Elves
 3 Elvish Mystic
-3 Nissa's Pilgrimage
 3 Sanctum of Ugin
 3 Once Upon a Time
+3 Nissa's Pilgrimage
 3 Castle Garenbrig
 4 Sylvan Caryatid
 4 Explosive Vegetation

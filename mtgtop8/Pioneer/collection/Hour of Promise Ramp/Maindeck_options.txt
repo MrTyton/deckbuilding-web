@@ -1,13 +1,11 @@
-1 Radiant Fountain
 1 Tranquil Cove
+4 Once Upon a Time
 1 Castle Garenbrig
+1 Radiant Fountain
 1 Ugin, the Spirit Dragon
 1 Llanowar Wastes
 1 Hashep Oasis
 3 Forest
-4 Once Upon a Time
-1 Urborg, Tomb of Yawgmoth
-1 Castle Locthwain
 1 Temple of Malady
 1 Blooming Marsh
 1 Hissing Quagmire
@@ -16,8 +14,10 @@
 1 Ifnir Deadlands
 1 Tireless Tracker
 1 Abrupt Decay
+1 Urborg, Tomb of Yawgmoth
 1 Fatal Push
 1 Swamp
+1 Castle Locthwain
 2 Tireless Tracker
 2 Abrupt Decay
 2 Overgrown Tomb
@@ -28,7 +28,6 @@
 4 Tireless Tracker
 1 Scavenger Grounds
 1 Lumbering Falls
-2 Fabled Passage
 1 Legion's End
 1 Murderous Rider
 2 Murderous Rider
@@ -66,22 +65,26 @@
 2 Thoughtseize
 3 Thoughtseize
 4 Thoughtseize
+2 Fabled Passage
 1 Jungle Hollow
 1 Desert of the Indomitable
 2 Plains
 4 Abrupt Decay
 1 Nissa, Vastwood Seer
 1 Sheltered Thicket
-1 Agent of Treachery
-1 Dovin's Veto
-2 Detention Sphere
 1 Kalitas, Traitor of Ghet
 2 Llanowar Wastes
 2 Kalitas, Traitor of Ghet
+3 Sphinx's Revelation
 2 Hydroid Krasis
+1 Cyclonic Rift
 1 Azorius Charm
 2 Azorius Charm
+1 Emrakul, the Promised End
 1 Courser of Kruphix
+1 Agent of Treachery
+1 Dovin's Veto
+2 Detention Sphere
 1 Narset, Parter of Veils
 2 Narset, Parter of Veils
 1 Ultimate Price
@@ -89,26 +92,9 @@
 2 Ultimate Price
 1 Settle the Wreckage
 2 Settle the Wreckage
-3 Sphinx's Revelation
-2 Legion's End
-4 Fatal Push
-1 Approach of the Second Sun
-2 Approach of the Second Sun
-3 Approach of the Second Sun
-4 Approach of the Second Sun
-1 Cascading Cataracts
-1 Spatial Contortion
-2 Blast Zone
-2 Spatial Contortion
-2 Ulamog, the Ceaseless Hunger
-3 Hashep Oasis
-3 Spatial Contortion
-4 Spatial Contortion
-7 Forest
 1 Jace, Architect of Thought
 1 Absorb
 1 Walking Ballista
-1 Cyclonic Rift
 1 Elspeth, Sun's Champion
 1 Dig Through Time
 2 Botanical Sanctum
@@ -125,3 +111,18 @@
 3 Absorb
 3 Azorius Charm
 3 Hallowed Fountain
+1 Approach of the Second Sun
+2 Approach of the Second Sun
+3 Approach of the Second Sun
+4 Approach of the Second Sun
+1 Cascading Cataracts
+1 Spatial Contortion
+2 Blast Zone
+2 Spatial Contortion
+2 Ulamog, the Ceaseless Hunger
+3 Hashep Oasis
+3 Spatial Contortion
+4 Spatial Contortion
+7 Forest
+2 Legion's End
+4 Fatal Push
