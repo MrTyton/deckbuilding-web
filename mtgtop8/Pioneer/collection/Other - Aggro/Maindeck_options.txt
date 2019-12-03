@@ -1,23 +1,80 @@
+1 Mountain
+2 Mountain
+1 Gird for Battle
+1 Phalanx Leader
+1 Titan's Strength
+1 Battlefield Forge
+1 Inspiring Vantage
+1 Clifftop Retreat
+1 Expedite
+1 Sacred Foundry
+1 Monastery Swiftspear
+1 Reckless Rage
+1 Feather, the Redeemed
+1 Favored Hoplite
+1 Tenth District Legionnaire
+1 Defiant Strike
+1 Gods Willing
+2 Gird for Battle
+2 Phalanx Leader
+2 Inspiring Vantage
+2 Sacred Foundry
+2 Gods Willing
+2 Titan's Strength
+2 Clifftop Retreat
+2 Battlefield Forge
+2 Expedite
+2 Monastery Swiftspear
+2 Reckless Rage
+2 Tenth District Legionnaire
+2 Feather, the Redeemed
+2 Favored Hoplite
+2 Defiant Strike
+3 Gird for Battle
+3 Inspiring Vantage
+3 Clifftop Retreat
+3 Battlefield Forge
+3 Sacred Foundry
+3 Expedite
+3 Monastery Swiftspear
+3 Reckless Rage
+3 Titan's Strength
+3 Favored Hoplite
+3 Defiant Strike
+3 Tenth District Legionnaire
+3 Feather, the Redeemed
+3 Gods Willing
+4 Gird for Battle
+4 Sacred Foundry
+4 Inspiring Vantage
+4 Expedite
+4 Monastery Swiftspear
+4 Titan's Strength
+4 Reckless Rage
+4 Defiant Strike
+4 Tenth District Legionnaire
+4 Gods Willing
+4 Feather, the Redeemed
+4 Favored Hoplite
 1 Smuggler's Copter
 2 Smuggler's Copter
 3 Smuggler's Copter
+4 Smuggler's Copter
+1 Forest
+2 Forest
+1 Island
 1 Botanical Sanctum
 2 Botanical Sanctum
 3 Botanical Sanctum
-1 Breeding Pool
-4 Botanical Sanctum
 1 Oko, Thief of Crowns
 2 Oko, Thief of Crowns
 3 Oko, Thief of Crowns
 4 Oko, Thief of Crowns
-1 Forest
-1 Once Upon a Time
-2 Once Upon a Time
-3 Once Upon a Time
+4 Botanical Sanctum
 1 Stomping Ground
 2 Stomping Ground
 3 Stomping Ground
-2 Forest
+1 Breeding Pool
 1 Bonecrusher Giant
 2 Bonecrusher Giant
 3 Bonecrusher Giant
@@ -26,11 +83,50 @@
 2 Gilded Goose
 2 Breeding Pool
 3 Gilded Goose
-1 Island
-4 Smuggler's Copter
-4 Once Upon a Time
 1 Heart of Kiran
 2 Heart of Kiran
+2 Island
+1 Brazen Borrower
+2 Brazen Borrower
+1 Thraben Inspector
+2 Thraben Inspector
+3 Thraben Inspector
+4 Thraben Inspector
+3 Island
+1 Reflector Mage
+1 Hallowed Fountain
+1 Selfless Spirit
+2 Reflector Mage
+2 Hallowed Fountain
+2 Selfless Spirit
+3 Reflector Mage
+3 Hallowed Fountain
+3 Selfless Spirit
+4 Reflector Mage
+4 Hallowed Fountain
+1 Gideon, Ally of Zendikar
+2 Gideon, Ally of Zendikar
+3 Gideon, Ally of Zendikar
+1 Archangel Avacyn
+1 Irrigated Farmland
+1 Glacial Fortress
+1 Spell Queller
+1 Teferi, Time Raveler
+1 Port Town
+2 Archangel Avacyn
+2 Irrigated Farmland
+2 Glacial Fortress
+2 Castle Ardenvale
+2 Teferi, Time Raveler
+2 Port Town
+2 Spell Queller
+3 Archangel Avacyn
+3 Glacial Fortress
+3 Spell Queller
+4 Gideon, Ally of Zendikar
+4 Glacial Fortress
+4 Spell Queller
+4 Island
 4 Stomping Ground
 1 Glorybringer
 2 Glorybringer
@@ -39,158 +135,76 @@
 2 Llanowar Elves
 2 Elvish Mystic
 1 Chandra, Torch of Defiance
+1 Walking Ballista
+2 Walking Ballista
 1 Steam Vents
 4 Gilded Goose
-2 Island
-1 Brazen Borrower
-2 Brazen Borrower
-3 Island
-1 Thraben Inspector
-2 Thraben Inspector
-3 Thraben Inspector
-3 Plains
-4 Plains
-4 Thraben Inspector
-1 Reflector Mage
-1 Hallowed Fountain
-2 Reflector Mage
-2 Hallowed Fountain
-3 Reflector Mage
-3 Hallowed Fountain
-4 Reflector Mage
-4 Hallowed Fountain
-5 Plains
-6 Plains
-1 Gideon, Ally of Zendikar
-2 Gideon, Ally of Zendikar
-3 Gideon, Ally of Zendikar
-1 Archangel Avacyn
-1 Glacial Fortress
-1 Spell Queller
-1 Teferi, Time Raveler
-1 Irrigated Farmland
-1 Port Town
-1 Castle Ardenvale
-2 Archangel Avacyn
-2 Castle Ardenvale
-2 Teferi, Time Raveler
-2 Port Town
-2 Glacial Fortress
-2 Spell Queller
-3 Archangel Avacyn
-3 Glacial Fortress
-3 Spell Queller
-4 Glacial Fortress
-4 Spell Queller
-4 Island
-4 Gideon, Ally of Zendikar
-7 Plains
 1 Spirebluff Canal
 1 Spire of Industry
 2 Spire of Industry
 3 Spire of Industry
-1 Walking Ballista
 2 Chandra, Torch of Defiance
 3 Chandra, Torch of Defiance
 3 Breeding Pool
 2 Spirebluff Canal
 1 Abrade
-1 Attune with Aether
-1 Aether Hub
-2 Attune with Aether
-2 Aether Hub
-3 Aether Hub
-4 Aether Hub
 3 Mountain
 1 Harnessed Lightning
+1 Attune with Aether
+1 Aether Hub
 2 Harnessed Lightning
+2 Attune with Aether
+2 Aether Hub
 3 Harnessed Lightning
 3 Attune with Aether
+3 Aether Hub
 4 Harnessed Lightning
+4 Aether Hub
 4 Attune with Aether
 3 Glorybringer
-1 Elder Deep-Fiend
-2 Elder Deep-Fiend
-3 Elder Deep-Fiend
-4 Elder Deep-Fiend
-1 Swamp
-1 Scrapheap Scrounger
-2 Scrapheap Scrounger
-3 Scrapheap Scrounger
-1 Overgrown Tomb
-1 Blooming Marsh
-2 Overgrown Tomb
-2 Blooming Marsh
-1 Fatal Push
-2 Fatal Push
-3 Fatal Push
-4 Fatal Push
-1 Thoughtseize
-2 Thoughtseize
-3 Thoughtseize
-4 Thoughtseize
-1 Rogue Refiner
-1 Tireless Tracker
-2 Rogue Refiner
-2 Tireless Tracker
-3 Rogue Refiner
-4 Rogue Refiner
-1 Watery Grave
-2 Watery Grave
-3 Overgrown Tomb
-4 Scrapheap Scrounger
-3 Blooming Marsh
-4 Blooming Marsh
-1 Stitcher's Supplier
-1 Satyr Wayfinder
-1 Haunted Dead
-1 Prized Amalgam
-1 Creeping Chill
-2 Satyr Wayfinder
-2 Creeping Chill
-2 Haunted Dead
-2 Prized Amalgam
-3 Satyr Wayfinder
-3 Prized Amalgam
-3 Creeping Chill
-3 Watery Grave
-4 Satyr Wayfinder
-4 Prized Amalgam
-4 Creeping Chill
-1 Gideon Blackblade
-3 Heart of Kiran
-1 Ensoul Artifact
 1 Stubborn Denial
+1 Ensoul Artifact
 2 Ensoul Artifact
 2 Stubborn Denial
 3 Ensoul Artifact
 4 Ensoul Artifact
-1 Selfless Spirit
-2 Selfless Spirit
-3 Selfless Spirit
-1 Concealed Courtyard
-2 Concealed Courtyard
-3 Concealed Courtyard
-4 Concealed Courtyard
-1 Scavenging Ooze
+1 Gideon Blackblade
+3 Heart of Kiran
 2 Steam Vents
 1 Rootbound Crag
 2 Rootbound Crag
 3 Rootbound Crag
 4 Rootbound Crag
-4 Overgrown Tomb
-1 Urborg, Tomb of Yawgmoth
-2 Swamp
-1 Yavimaya Coast
 1 Pia Nalaar
+1 Swamp
 1 Rekindling Phoenix
 2 Rekindling Phoenix
 3 Rekindling Phoenix
 4 Rekindling Phoenix
-2 Walking Ballista
-1 Llanowar Wastes
-2 Llanowar Wastes
-3 Llanowar Wastes
+1 Elder Deep-Fiend
+2 Elder Deep-Fiend
+3 Elder Deep-Fiend
+4 Elder Deep-Fiend
+1 Scrapheap Scrounger
+2 Scrapheap Scrounger
+3 Scrapheap Scrounger
+1 Concealed Courtyard
+2 Concealed Courtyard
+3 Concealed Courtyard
+4 Concealed Courtyard
+1 Thoughtseize
+1 Fatal Push
+2 Thoughtseize
+2 Fatal Push
+3 Fatal Push
+3 Thoughtseize
+4 Thoughtseize
+4 Fatal Push
+3 Forest
+1 Questing Beast
+2 Questing Beast
+3 Questing Beast
+4 Scrapheap Scrounger
 1 Blood Crypt
 1 Dragonskull Summit
 1 Canyon Slough
@@ -201,76 +215,86 @@
 4 Blood Crypt
 4 Mountain
 5 Mountain
+4 Forest
+1 Overgrown Tomb
+1 Blooming Marsh
+2 Overgrown Tomb
+2 Blooming Marsh
+3 Blooming Marsh
+4 Blooming Marsh
+1 Murderous Rider
+2 Murderous Rider
+2 Swamp
+3 Swamp
+3 Murderous Rider
+4 Murderous Rider
+4 Swamp
 4 Spire of Industry
-2 Stitcher's Supplier
-3 Stitcher's Supplier
-4 Stitcher's Supplier
-1 Godless Shrine
-1 Isolated Chapel
-2 Godless Shrine
-3 Godless Shrine
-4 Godless Shrine
+1 Yavimaya Coast
+1 Grisly Salvage
+1 Gather the Pack
+2 Grisly Salvage
+2 Gather the Pack
+3 Grisly Salvage
+4 Grisly Salvage
 1 Unclaimed Territory
 2 Unclaimed Territory
 3 Unclaimed Territory
 4 Unclaimed Territory
-3 Swamp
-4 Swamp
-5 Swamp
-1 Westvale Abbey
-3 Forest
+1 Llanowar Wastes
+2 Llanowar Wastes
+3 Llanowar Wastes
 3 Llanowar Elves
 3 Elvish Mystic
 4 Elvish Mystic
 4 Llanowar Elves
+3 Overgrown Tomb
 1 Fabled Passage
 1 The Royal Scions
 2 The Royal Scions
 2 Pia Nalaar
 4 Heart of Kiran
+1 Woodland Cemetery
+1 Temple of Malady
+1 Zetalpa, Primal Dawn
+1 Soulflayer
+1 Lotleth Troll
+1 Chromanticore
+1 Rhonas the Indomitable
+1 Collective Brutality
+1 Sylvan Caryatid
+2 Lotleth Troll
+2 Zetalpa, Primal Dawn
+2 Soulflayer
+2 Rhonas the Indomitable
+2 Chromanticore
+2 Woodland Cemetery
+2 Collective Brutality
+2 Sylvan Caryatid
+3 Lotleth Troll
+3 Zetalpa, Primal Dawn
+3 Soulflayer
+3 Rhonas the Indomitable
+3 Gather the Pack
+3 Woodland Cemetery
+4 Soulflayer
+4 Lotleth Troll
+4 Zetalpa, Primal Dawn
+4 Gather the Pack
+4 Overgrown Tomb
 1 Whirler Virtuoso
+1 Rogue Refiner
 1 Longtusk Cub
+1 Tireless Tracker
 2 Whirler Virtuoso
+2 Rogue Refiner
 2 Longtusk Cub
+2 Tireless Tracker
 3 Whirler Virtuoso
+3 Rogue Refiner
 3 Longtusk Cub
 4 Whirler Virtuoso
-1 Grisly Salvage
-1 Deathrite Shaman
-1 Gather the Pack
-1 Minister of Inquiries
-1 Bloodsoaked Champion
-1 Gurmag Angler
-2 Grisly Salvage
-2 Deathrite Shaman
-2 Gather the Pack
-2 Gurmag Angler
-3 Grisly Salvage
-3 Deathrite Shaman
-4 Grisly Salvage
-4 Deathrite Shaman
-1 Cloudblazer
-1 Deputy of Detention
-1 Oketra's Monument
-1 Militia Bugler
-1 Dusk / Dawn
-1 Charming Prince
-1 Angel of Invention
-2 Cloudblazer
-2 Westvale Abbey
-2 Oketra's Monument
-2 Militia Bugler
-2 Charming Prince
-2 Deputy of Detention
-2 Angel of Invention
-3 Cloudblazer
-3 Oketra's Monument
-3 Militia Bugler
-3 Charming Prince
-3 Angel of Invention
-4 Charming Prince
-4 Militia Bugler
-4 Oketra's Monument
+4 Rogue Refiner
 1 Champion of Wits
 1 Kozilek's Return
 1 Frontier Bivouac
@@ -283,150 +307,128 @@
 4 Frontier Bivouac
 4 Kozilek's Return
 4 Champion of Wits
+1 Scavenging Ooze
+2 Scavenging Ooze
+3 Steam Vents
+4 Questing Beast
+4 Glorybringer
+4 Breeding Pool
+4 Steam Vents
+1 Angel of Invention
+1 Cloudblazer
+1 Deputy of Detention
+1 Dusk / Dawn
+1 Charming Prince
+1 Oketra's Monument
+1 Westvale Abbey
+1 Militia Bugler
+2 Angel of Invention
+2 Cloudblazer
+2 Westvale Abbey
+2 Charming Prince
+2 Deputy of Detention
+2 Militia Bugler
+2 Oketra's Monument
+3 Angel of Invention
+3 Cloudblazer
+3 Charming Prince
+3 Oketra's Monument
+3 Militia Bugler
+4 Charming Prince
+4 Militia Bugler
+4 Oketra's Monument
+1 Thalia, Heretic Cathar
+1 Caves of Koilos
+1 Godless Shrine
+1 Isolated Chapel
+1 Urborg, Tomb of Yawgmoth
+1 Toolcraft Exemplar
+2 Godless Shrine
+2 Caves of Koilos
+2 Thalia, Heretic Cathar
+2 Gideon Blackblade
+2 Toolcraft Exemplar
+3 Godless Shrine
+3 Thalia, Heretic Cathar
+3 Caves of Koilos
+3 Toolcraft Exemplar
+4 Godless Shrine
+4 Mutavault
+4 Caves of Koilos
+4 Toolcraft Exemplar
 1 Gideon of the Trials
 1 Brimaz, King of Oreskos
 1 Lyra Dawnbringer
 1 Supreme Verdict
 1 Declaration in Stone
-2 Irrigated Farmland
 4 Selfless Spirit
-1 Questing Beast
-2 Questing Beast
-2 Scavenging Ooze
-3 Steam Vents
-3 Questing Beast
-4 Questing Beast
-4 Glorybringer
-4 Breeding Pool
-4 Steam Vents
-1 Stonecoil Serpent
-1 Skilled Animator
-1 Darksteel Citadel
-1 Ghostfire Blade
+1 Deathrite Shaman
+1 Satyr Wayfinder
+1 Minister of Inquiries
+1 Haunted Dead
+1 Stitcher's Supplier
+1 Prized Amalgam
+1 Bloodsoaked Champion
+1 Gurmag Angler
+1 Creeping Chill
+1 Watery Grave
+2 Deathrite Shaman
+2 Satyr Wayfinder
+2 Gurmag Angler
+2 Creeping Chill
+2 Watery Grave
+2 Haunted Dead
+2 Prized Amalgam
+3 Deathrite Shaman
+3 Satyr Wayfinder
+3 Prized Amalgam
+3 Creeping Chill
+3 Watery Grave
+4 Satyr Wayfinder
+4 Deathrite Shaman
+4 Prized Amalgam
+4 Creeping Chill
 1 Hope of Ghirapur
 1 Gingerbrute
+1 Stonecoil Serpent
+1 Darksteel Citadel
+1 Skilled Animator
 1 Shivan Reef
+1 Ghostfire Blade
 1 Shrapnel Blast
+2 Yavimaya Coast
+2 Gingerbrute
+2 Skilled Animator
+2 Darksteel Citadel
 2 Stonecoil Serpent
 2 Ghostfire Blade
-2 Yavimaya Coast
-2 Darksteel Citadel
-2 Skilled Animator
-2 Gingerbrute
 2 Shrapnel Blast
-3 Stonecoil Serpent
-3 Skilled Animator
-3 Darksteel Citadel
-3 Ghostfire Blade
 3 Yavimaya Coast
 3 Gingerbrute
+3 Darksteel Citadel
+3 Skilled Animator
+3 Stonecoil Serpent
+3 Ghostfire Blade
 3 Stubborn Denial
 3 Shrapnel Blast
-4 Stonecoil Serpent
+4 Gingerbrute
 4 Darksteel Citadel
 4 Skilled Animator
-4 Gingerbrute
 4 Ghostfire Blade
 4 Shrapnel Blast
-1 Woodland Cemetery
-1 Vraska, Golgari Queen
-1 Jace, Vryn's Prodigy
-1 Tasigur, the Golden Fang
-1 Liliana, the Last Hope
-1 Abrupt Decay
-1 The Scarab God
-1 Hero's Downfall
-1 Glint-Sleeve Siphoner
-1 Kalitas, Traitor of Ghet
-1 Hinterland Harbor
-2 Hero's Downfall
-2 Jace, Vryn's Prodigy
-2 Hinterland Harbor
-2 Woodland Cemetery
-2 Liliana, the Last Hope
-2 Abrupt Decay
-2 Kalitas, Traitor of Ghet
-2 Glint-Sleeve Siphoner
-3 Tireless Tracker
-3 Abrupt Decay
-3 Woodland Cemetery
-3 Glint-Sleeve Siphoner
-4 Glint-Sleeve Siphoner
-1 Settle the Wreckage
-1 Knight of the White Orchid
-2 Knight of the White Orchid
-3 Knight of the White Orchid
-3 Teferi, Time Raveler
-4 Archangel Avacyn
-4 Teferi, Time Raveler
-4 Knight of the White Orchid
-1 Thalia, Heretic Cathar
-1 Caves of Koilos
-1 Mutavault
-1 Toolcraft Exemplar
-2 Mutavault
-2 Thalia, Heretic Cathar
-2 Caves of Koilos
-2 Gideon Blackblade
-2 Toolcraft Exemplar
-3 Mutavault
-3 Thalia, Heretic Cathar
-3 Caves of Koilos
-3 Toolcraft Exemplar
-4 Mutavault
-4 Caves of Koilos
-4 Toolcraft Exemplar
-1 Mana Confluence
-2 Mana Confluence
-3 Mana Confluence
-1 Glowspore Shaman
-1 Driven / Despair
-1 Narcomoeba
-2 Glowspore Shaman
-2 Driven / Despair
-2 Narcomoeba
-3 Glowspore Shaman
-3 Haunted Dead
-3 Narcomoeba
-4 Haunted Dead
-4 Narcomoeba
-4 Watery Grave
-1 Castle Embereth
-1 Young Pyromancer
-1 Cut / Ribbons
-1 Castle Locthwain
-1 Knight of the Ebon Legion
-1 Murderous Rider
-2 Kolaghan's Command
-2 Canyon Slough
-2 Young Pyromancer
-2 Knight of the Ebon Legion
-2 Murderous Rider
-2 Castle Locthwain
-3 Canyon Slough
-3 Kolaghan's Command
-3 Young Pyromancer
-3 Castle Locthwain
-3 Knight of the Ebon Legion
-3 Murderous Rider
-4 Canyon Slough
-4 Murderous Rider
-4 Knight of the Ebon Legion
-4 Forest
-1 Temple Garden
-1 Season of Growth
+4 Stonecoil Serpent
 1 Gift of Orzhova
+1 Season of Growth
 1 Unflinching Courage
 1 Bassara Tower Archer
-1 Sunpetal Grove
+1 Sentinel's Mark
 1 Fortified Village
 1 Cartouche of Solidarity
-1 Sentinel's Mark
 1 Gryff's Boon
 1 Ethereal Armor
 1 Gladecover Scout
 1 All That Glitters
-2 Temple Garden
+1 Mana Confluence
 2 Season of Growth
 2 All That Glitters
 2 Gryff's Boon
@@ -436,121 +438,103 @@
 2 Ethereal Armor
 2 Bassara Tower Archer
 2 Sentinel's Mark
+2 Mana Confluence
 2 Unflinching Courage
-2 Sunpetal Grove
-3 Temple Garden
 3 Fortified Village
+3 Season of Growth
+3 Mana Confluence
 3 Unflinching Courage
 3 Cartouche of Solidarity
-3 Sunpetal Grove
 3 Gryff's Boon
 3 Gladecover Scout
-3 Season of Growth
 3 Ethereal Armor
 3 Sentinel's Mark
 3 Bassara Tower Archer
 3 All That Glitters
-4 Temple Garden
+4 Season of Growth
 4 Fortified Village
 4 Mana Confluence
 4 Gladecover Scout
-4 Unflinching Courage
 4 Cartouche of Solidarity
-4 Sunpetal Grove
-4 Season of Growth
+4 Unflinching Courage
 4 Bassara Tower Archer
 4 Ethereal Armor
 4 All That Glitters
 4 Gryff's Boon
-1 Steel Leaf Champion
 1 Dwynen, Gilt-Leaf Daen
 1 Wildborn Preserver
 1 Collected Company
 1 Elvish Visionary
+1 Steel Leaf Champion
 1 Gnarlroot Trapper
 1 Elvish Clancaller
 1 Shaman of the Pack
 1 Dwynen's Elite
-2 Steel Leaf Champion
 2 Wildborn Preserver
 2 Elvish Visionary
 2 Collected Company
-2 Elvish Clancaller
+2 Steel Leaf Champion
 2 Dwynen's Elite
+2 Elvish Clancaller
 2 Gnarlroot Trapper
 2 Shaman of the Pack
-3 Steel Leaf Champion
 3 Wildborn Preserver
 3 Elvish Visionary
 3 Collected Company
 3 Elvish Clancaller
 3 Shaman of the Pack
+3 Steel Leaf Champion
 3 Dwynen's Elite
-4 Steel Leaf Champion
-4 Wildborn Preserver
 4 Elvish Visionary
+4 Wildborn Preserver
 4 Collected Company
+4 Steel Leaf Champion
 4 Elvish Clancaller
 4 Shaman of the Pack
 4 Dwynen's Elite
-1 Grasp of Darkness
-1 Temple of Silence
-1 Nantuko Husk
-1 Cryptbreaker
-1 Liliana, Untouched by Death
-1 Rally the Ancestors
-1 Diregraf Colossus
-1 Lazotep Reaver
-1 Wayward Servant
-1 Corpse Knight
-1 Foulmire Knight
-2 Isolated Chapel
-2 Temple of Silence
-2 Nantuko Husk
-2 Lazotep Reaver
-2 Wayward Servant
-2 Foulmire Knight
-2 Diregraf Colossus
-2 Corpse Knight
-2 Liliana, Untouched by Death
-2 Cryptbreaker
-2 Rally the Ancestors
-3 Corpse Knight
-3 Cryptbreaker
-3 Liliana, Untouched by Death
-3 Rally the Ancestors
-3 Lazotep Reaver
-3 Wayward Servant
-3 Isolated Chapel
-4 Lazotep Reaver
-4 Corpse Knight
-4 Cryptbreaker
-4 Isolated Chapel
-4 Wayward Servant
-4 Rally the Ancestors
-6 Swamp
-7 Swamp
-1 Captain Lannery Storm
-1 Kiora, Behemoth Beckoner
+3 Brazen Borrower
+3 Teferi, Time Raveler
+4 Brazen Borrower
+5 Island
+1 Young Pyromancer
+1 Castle Embereth
+1 Cut / Ribbons
+1 Castle Locthwain
+1 Knight of the Ebon Legion
+2 Kolaghan's Command
+2 Canyon Slough
+2 Young Pyromancer
+2 Knight of the Ebon Legion
+2 Castle Locthwain
+3 Canyon Slough
+3 Kolaghan's Command
+3 Young Pyromancer
+3 Castle Locthwain
+3 Knight of the Ebon Legion
+4 Canyon Slough
+4 Knight of the Ebon Legion
+5 Swamp
 1 Rosethorn Acolyte
-1 Geier Reach Sanitarium
+1 Shared Summons
+1 Borborygmos Enraged
+1 Enter the Infinite
 1 Possibility Storm
+1 Kiora, Behemoth Beckoner
+1 Captain Lannery Storm
+1 Geier Reach Sanitarium
 1 Domri Rade
 1 Vivien Reid
 1 Lovestruck Beast
-1 Shared Summons
 1 Game Trail
-1 Borborygmos Enraged
-1 Enter the Infinite
-2 Captain Lannery Storm
 2 Rosethorn Acolyte
-2 Domri Rade
 2 Possibility Storm
+2 Captain Lannery Storm
+2 Domri Rade
 2 Kiora, Behemoth Beckoner
 2 Lovestruck Beast
 2 Game Trail
-3 Lovestruck Beast
 3 Possibility Storm
+3 Lovestruck Beast
 3 Kiora, Behemoth Beckoner
 4 Possibility Storm
 4 Lovestruck Beast
@@ -570,15 +554,15 @@
 2 Wild Slash
 2 Soul-Scar Mage
 2 Goblin Chainwhirler
+3 Wild Slash
 3 Unlicensed Disintegration
 3 Dragonskull Summit
 3 Foreboding Ruins
 3 Bomat Courier
 3 Goblin Chainwhirler
-3 Wild Slash
 3 Soul-Scar Mage
-4 Dragonskull Summit
 4 Goblin Chainwhirler
+4 Dragonskull Summit
 4 Foreboding Ruins
 4 Bomat Courier
 4 Soul-Scar Mage

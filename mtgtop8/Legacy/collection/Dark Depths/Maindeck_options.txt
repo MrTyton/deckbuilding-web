@@ -4,13 +4,13 @@
 2 Nurturing Peatland
 4 Mox Diamond
 3 Dark Confidant
-1 Snow-Covered Forest
 1 Misty Rainforest
+1 Snow-Covered Forest
 1 Snow-Covered Swamp
-2 Sylvan Safekeeper
 1 Windswept Heath
 1 Elvish Spirit Guide
 2 Elvish Spirit Guide
+2 Sylvan Safekeeper
 2 Sylvan Library
 3 Bayou
 1 Dryad Arbor
@@ -34,8 +34,8 @@
 3 Lotus Petal
 4 Lotus Petal
 4 Duress
-1 Pithing Needle
-2 Pithing Needle
+1 Inquisition of Kozilek
+2 Inquisition of Kozilek
 1 Plains
 1 Gaddock Teeg
 1 Horizon Canopy
@@ -62,27 +62,28 @@
 4 Satyr Wayfinder
 4 Cabal Therapy
 3 Sylvan Safekeeper
+1 Pithing Needle
+2 Pithing Needle
 3 Pithing Needle
 4 Elvish Spirit Guide
-1 Ancient Tomb
-2 Snow-Covered Forest
-1 Scavenging Ooze
-1 Inquisition of Kozilek
-2 Inquisition of Kozilek
 1 Blast Zone
+1 Ancient Tomb
+1 Scavenging Ooze
 1 Scrubland
 1 Hymn to Tourach
 1 Assassin's Trophy
 2 Assassin's Trophy
 2 Khalni Garden
-1 Into the North
+1 Riftstone Portal
+1 Raven's Crime
 1 Life from the Loam
-2 Into the North
+3 Inquisition of Kozilek
 1 Maze of Ith
 3 Sylvan Library
 1 Flagstones of Trokair
 1 Snow-Covered Plains
 1 Path to Exile
+2 Snow-Covered Forest
 2 Path to Exile
 3 Path to Exile
 1 Tomik, Distinguished Advokist
@@ -94,8 +95,6 @@
 2 Forest
 2 Plains
 3 Savannah
-2 Ghost Quarter
-4 Sylvan Scrying
 1 Stifle
 1 Brainstorm
 1 Tropical Island
@@ -110,3 +109,5 @@
 3 Brainstorm
 4 Polluted Delta
 4 Brainstorm
+2 Ghost Quarter
+4 Sylvan Scrying

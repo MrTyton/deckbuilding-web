@@ -1,28 +1,40 @@
-14 Mountain
+2 Hazoret the Fervent
 1 Shock
 2 Shock
+1 Mutavault
+2 Mutavault
 1 Legion Loyalist
-1 Embercleave
+1 Glorybringer
+2 Glorybringer
 1 Goblin Rabblemaster
+1 Embercleave
 2 Legion Loyalist
 2 Goblin Rabblemaster
 2 Embercleave
 3 Legion Loyalist
 3 Goblin Rabblemaster
 4 Legion Loyalist
-1 Glorybringer
-2 Glorybringer
-1 Chandra, Torch of Defiance
-2 Chandra, Torch of Defiance
+3 Glorybringer
 1 Hanweir Battlements
 1 Hanweir Garrison
+1 Kari Zev, Skyship Raider
 2 Hanweir Battlements
 2 Hanweir Garrison
-3 Hanweir Battlements
+2 Kari Zev, Skyship Raider
 3 Hanweir Garrison
+3 Hanweir Battlements
 4 Hanweir Garrison
 4 Goblin Rabblemaster
-3 Glorybringer
+1 Chandra, Torch of Defiance
+2 Chandra, Torch of Defiance
+1 Goblin Chainwhirler
+2 Goblin Chainwhirler
+3 Goblin Chainwhirler
+4 Goblin Chainwhirler
+15 Mountain
+1 Skewer the Critics
+2 Skewer the Critics
+3 Skewer the Critics
 1 Harnessed Lightning
 1 Crumbling Vestige
 1 Thought-Knot Seer
@@ -31,27 +43,24 @@
 2 Thought-Knot Seer
 2 Crumbling Vestige
 2 Aether Hub
+3 Harnessed Lightning
 3 Thought-Knot Seer
 3 Aether Hub
 4 Aether Hub
-4 Thought-Knot Seer
-1 Kari Zev, Skyship Raider
-2 Kari Zev, Skyship Raider
-1 Mutavault
-2 Mutavault
-1 Skewer the Critics
-2 Skewer the Critics
-3 Skewer the Critics
-3 Harnessed Lightning
 4 Harnessed Lightning
+4 Thought-Knot Seer
 3 Hazoret the Fervent
+2 Castle Embereth
 3 Mutavault
 4 Mutavault
-2 Castle Embereth
 1 Searing Blood
 2 Searing Blood
 3 Searing Blood
 4 Searing Blood
+1 Runaway Steam-Kin
+1 Experimental Frenzy
+2 Runaway Steam-Kin
+2 Experimental Frenzy
 3 Shock
 4 Shock
 1 Skullcrack
@@ -68,20 +77,18 @@
 4 Boros Charm
 4 Inspiring Vantage
 4 Sacred Foundry
-1 Goblin Chainwhirler
 1 Blood Crypt
 1 Dragonskull Summit
-2 Goblin Chainwhirler
 2 Blood Crypt
 2 Dragonskull Summit
-3 Goblin Chainwhirler
 3 Blood Crypt
-4 Goblin Chainwhirler
 4 Blood Crypt
 4 Skewer the Critics
+1 Bonecrusher Giant
+2 Bonecrusher Giant
 1 Scrapheap Scrounger
-1 Unlicensed Disintegration
 1 Foreboding Ruins
+1 Unlicensed Disintegration
 2 Foreboding Ruins
 2 Scrapheap Scrounger
 2 Unlicensed Disintegration
@@ -96,39 +103,33 @@
 2 Burning-Tree Emissary
 3 Burning-Tree Emissary
 4 Burning-Tree Emissary
-15 Mountain
 1 Stoke the Flames
 2 Stoke the Flames
 3 Stoke the Flames
 4 Stoke the Flames
+16 Mountain
+17 Mountain
 4 Glorybringer
 1 Reckless Bushwhacker
 2 Reckless Bushwhacker
 3 Reckless Bushwhacker
 1 Titan's Strength
 2 Titan's Strength
-1 Runaway Steam-Kin
-1 Experimental Frenzy
-2 Runaway Steam-Kin
-2 Experimental Frenzy
 1 Clifftop Retreat
 2 Clifftop Retreat
 3 Clifftop Retreat
-1 Robber of the Rich
-1 Reality Smasher
-1 Abrade
-2 Robber of the Rich
-2 Reality Smasher
-2 Abrade
-3 Reality Smasher
 1 Legion Warboss
 2 Legion Warboss
 3 Legion Warboss
 4 Legion Warboss
+3 Runaway Steam-Kin
+3 Experimental Frenzy
+4 Experimental Frenzy
+4 Runaway Steam-Kin
+1 Canyon Slough
 1 Pia Nalaar
 1 Rekindling Phoenix
 1 Carnival / Carnage
-1 Canyon Slough
 2 Pia Nalaar
 2 Canyon Slough
 2 Rekindling Phoenix
@@ -139,26 +140,65 @@
 3 Viashino Pyromancer
 3 Skullcrack
 4 Skullcrack
-1 Bonecrusher Giant
 1 Heart of Kiran
 2 Heart of Kiran
-2 Bonecrusher Giant
 3 Bonecrusher Giant
 4 Unlicensed Disintegration
 1 Battlefield Forge
 2 Battlefield Forge
 3 Battlefield Forge
 4 Battlefield Forge
+1 Atarka's Command
+1 Dragon Fodder
+1 Zurgo Bellstriker
+1 Rakdos Cackler
+1 Ghor-Clan Rampager
+1 Stomping Ground
+1 Rootbound Crag
+2 Atarka's Command
+2 Dragon Fodder
+2 Stomping Ground
+2 Rakdos Cackler
+2 Rootbound Crag
+2 Ghor-Clan Rampager
+3 Ghor-Clan Rampager
+3 Dragon Fodder
+3 Atarka's Command
+3 Rakdos Cackler
+3 Rootbound Crag
+3 Stomping Ground
+4 Reckless Bushwhacker
+4 Stomping Ground
+4 Atarka's Command
+4 Rakdos Cackler
+4 Rootbound Crag
+1 Goblin Instigator
+1 Goblin Piledriver
+1 Fanatical Firebrand
+1 Foundry Street Denizen
+2 Goblin Instigator
+2 Goblin Piledriver
+2 Fanatical Firebrand
+2 Foundry Street Denizen
+3 Goblin Instigator
+3 Goblin Piledriver
+3 Foundry Street Denizen
+3 Castle Embereth
+4 Goblin Instigator
+4 Foundry Street Denizen
+4 Goblin Piledriver
+18 Mountain
+19 Mountain
 1 Ahn-Crop Crasher
-1 Rix Maadi Reveler
 1 Wily Goblin
+1 Rix Maadi Reveler
 1 Temple of Malice
 1 Cut / Ribbons
 1 Earthshaker Khenra
 1 Nykthos, Shrine to Nyx
 1 Exava, Rakdos Blood Witch
-2 Rix Maadi Reveler
 2 Wily Goblin
+2 Rix Maadi Reveler
 2 Nykthos, Shrine to Nyx
 2 Ahn-Crop Crasher
 2 Earthshaker Khenra
@@ -169,54 +209,11 @@
 3 Wily Goblin
 3 Rix Maadi Reveler
 3 Earthshaker Khenra
-3 Nykthos, Shrine to Nyx
 3 Cut / Ribbons
+3 Nykthos, Shrine to Nyx
 3 Chandra, Torch of Defiance
 3 Ahn-Crop Crasher
-4 Rix Maadi Reveler
 4 Temple of Malice
+4 Rix Maadi Reveler
 4 Cut / Ribbons
 4 Nykthos, Shrine to Nyx
-1 Atarka's Command
-1 Zurgo Bellstriker
-1 Dragon Fodder
-1 Rakdos Cackler
-1 Ghor-Clan Rampager
-1 Stomping Ground
-1 Rootbound Crag
-2 Atarka's Command
-2 Stomping Ground
-2 Dragon Fodder
-2 Rootbound Crag
-2 Ghor-Clan Rampager
-2 Rakdos Cackler
-3 Ghor-Clan Rampager
-3 Atarka's Command
-3 Dragon Fodder
-3 Rakdos Cackler
-3 Rootbound Crag
-3 Stomping Ground
-4 Reckless Bushwhacker
-4 Stomping Ground
-4 Atarka's Command
-4 Rootbound Crag
-4 Rakdos Cackler
-1 Foundry Street Denizen
-1 Goblin Instigator
-1 Goblin Piledriver
-1 Fanatical Firebrand
-2 Goblin Instigator
-2 Foundry Street Denizen
-2 Goblin Piledriver
-2 Fanatical Firebrand
-3 Goblin Instigator
-3 Goblin Piledriver
-3 Foundry Street Denizen
-3 Castle Embereth
-4 Goblin Instigator
-4 Goblin Piledriver
-4 Foundry Street Denizen
-16 Mountain
-17 Mountain
-18 Mountain
-19 Mountain

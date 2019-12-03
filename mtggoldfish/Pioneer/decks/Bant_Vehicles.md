@@ -37,6 +37,6 @@
 |                    3|[Concealed Courtyard](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417818)     |                    2|[Spell Queller](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414494)           |
 |                    3|[Once Upon a Time](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473131)        |                    2|[Dispel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401858)                  |
 |                    4|[Thraben Inspector](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409784)       |                    2|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)           |
-|                    4|[Scrapheap Scrounger](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417804)     |                    3|[Dispel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401858)                  |
-|                    4|[Concealed Courtyard](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417818)     |                     |                                                                                                   |
+|                    4|[Concealed Courtyard](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417818)     |                    3|[Dispel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401858)                  |
+|                    4|[Scrapheap Scrounger](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417804)     |                     |                                                                                                   |
 
