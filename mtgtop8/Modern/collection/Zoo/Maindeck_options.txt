@@ -1,69 +1,51 @@
+1 Kird Ape
 2 Kird Ape
+1 Hexdrinker
+2 Hexdrinker
+2 Temple Garden
+2 Sacred Foundry
 1 Path to Exile
 2 Path to Exile
-2 Temple Garden
-1 Horizon Canopy
-1 Boros Charm
-2 Boros Charm
-1 Plains
-1 Simian Spirit Guide
-2 Simian Spirit Guide
+3 Simian Spirit Guide
 1 Tarmogoyf
+3 Path to Exile
+1 Lightning Helix
+2 Lightning Helix
 2 Tarmogoyf
 3 Tarmogoyf
 4 Tarmogoyf
+1 Boros Charm
+2 Boros Charm
 1 Monastery Swiftspear
 2 Monastery Swiftspear
 3 Monastery Swiftspear
 1 Sunbaked Canyon
-3 Simian Spirit Guide
-1 Lightning Helix
-2 Lightning Helix
-1 Mutagenic Growth
-1 Become Immense
-2 Mutagenic Growth
-4 Monastery Swiftspear
-3 Path to Exile
-1 Bomat Courier
 1 Bonecrusher Giant
 3 Hexdrinker
 4 Hexdrinker
-3 Lightning Helix
 1 Scavenging Ooze
+3 Lightning Helix
 1 Snow-Covered Mountain
 1 Snow-Covered Forest
-1 Bloodstained Mire
-2 Sunbaked Canyon
-2 Bomat Courier
-2 Become Immense
-2 Mountain
-3 Bomat Courier
-3 Mutagenic Growth
-4 Bomat Courier
-1 Rancor
-2 Rancor
-3 Boros Charm
-1 Copperline Gorge
-2 Copperline Gorge
-3 Kird Ape
-3 Ghor-Clan Rampager
-4 Kird Ape
-4 Ghor-Clan Rampager
 1 Knight of the Reliquary
 2 Knight of the Reliquary
 3 Knight of the Reliquary
-1 Kytheon, Hero of Akros
-2 Kytheon, Hero of Akros
-3 Stomping Ground
+1 Mutagenic Growth
+1 Become Immense
+2 Mutagenic Growth
+1 Copperline Gorge
+2 Copperline Gorge
+4 Monastery Swiftspear
 1 Elvish Reclaimer
 2 Elvish Reclaimer
+2 Scavenging Ooze
 1 Qasali Pridemage
 1 Voice of Resurgence
 1 Gruul Spellbreaker
 2 Forest
 2 Qasali Pridemage
 2 Voice of Resurgence
-2 Scavenging Ooze
+1 Bomat Courier
 1 Renegade Rallier
 1 Kessig Wolf Run
 1 Bloodbraid Elf
@@ -74,24 +56,42 @@
 2 Wrenn and Six
 3 Wrenn and Six
 1 Knight of Autumn
-1 Noble Hierarch
-2 Noble Hierarch
 1 Ghost Quarter
 4 Path to Exile
+1 Noble Hierarch
+2 Noble Hierarch
 1 Seasoned Pyromancer
 1 Goblin Bushwhacker
 1 Devastating Summons
 1 Scalding Tarn
+1 Bloodstained Mire
+2 Sunbaked Canyon
+2 Bomat Courier
+2 Become Immense
 2 Bloodstained Mire
+2 Mountain
 3 Sunbaked Canyon
+3 Bomat Courier
+3 Mutagenic Growth
 3 Bloodstained Mire
 3 Mountain
-1 Flooded Strand
+4 Bomat Courier
+1 Experiment One
+1 Vexing Devil
+1 Rancor
+1 Dryad Arbor
+2 Experiment One
+2 Vexing Devil
+2 Rancor
+3 Experiment One
+3 Rancor
+4 Experiment One
 1 Ajani Vengeant
 1 Rhonas the Indomitable
 1 Collected Company
 1 Stirring Wildwood
 1 Dromoka's Command
+1 Flooded Strand
 1 Birds of Paradise
 1 Sarkhan Vol
 1 Naya Charm
@@ -103,25 +103,16 @@
 3 Qasali Pridemage
 3 Birds of Paradise
 4 Birds of Paradise
-1 Experiment One
-1 Vexing Devil
-1 Dryad Arbor
-2 Experiment One
-2 Vexing Devil
-3 Experiment One
-3 Rancor
-4 Experiment One
-3 Sacred Foundry
-3 Become Immense
-4 Mutagenic Growth
-1 Light Up the Stage
 1 Rift Bolt
-2 Light Up the Stage
+1 Light Up the Stage
 2 Rift Bolt
+2 Light Up the Stage
 3 Copperline Gorge
 3 Rift Bolt
+3 Boros Charm
 3 Light Up the Stage
 4 Boros Charm
+1 Kytheon, Hero of Akros
 1 Lightning Mauler
 1 Champion of the Parish
 1 Voltaic Brawler
@@ -132,6 +123,7 @@
 2 Mayor of Avabruck
 2 Lightning Mauler
 2 Voltaic Brawler
+2 Kytheon, Hero of Akros
 2 Champion of the Parish
 2 Giver of Runes
 2 Thalia, Guardian of Thraben
@@ -139,6 +131,7 @@
 3 Giver of Runes
 3 Champion of the Parish
 3 Mayor of Avabruck
+3 Stomping Ground
 3 Kytheon, Hero of Akros
 4 Mayor of Avabruck
 4 Champion of the Parish
@@ -146,15 +139,19 @@
 1 Woolly Thoctar
 2 Gideon Blackblade
 2 Woolly Thoctar
+3 Kird Ape
 3 Woolly Thoctar
+3 Ghor-Clan Rampager
+4 Kird Ape
 4 Woolly Thoctar
+4 Ghor-Clan Rampager
 1 Hallowed Fountain
-1 Steam Vents
-1 Blood Crypt
 1 Grim Lavamancer
+1 Blood Crypt
 1 Mantis Rider
 1 Breeding Pool
 1 Tribal Flames
+1 Steam Vents
 2 Knight of Autumn
 2 Mantis Rider
 2 Tribal Flames
@@ -165,14 +162,14 @@
 4 Tribal Flames
 4 Lightning Helix
 4 Mantis Rider
-1 Castle Ardenvale
 1 Tranquil Thicket
+1 Castle Ardenvale
 1 Forgotten Cave
 1 Blast Zone
+1 Embercleave
 1 Karn, the Great Creator
 1 Huntmaster of the Fells
 1 Batterskull
-1 Embercleave
 1 Stoneforge Mystic
 2 Ghost Quarter
 2 Seasoned Pyromancer

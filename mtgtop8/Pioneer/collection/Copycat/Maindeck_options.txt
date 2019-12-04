@@ -21,8 +21,8 @@
 3 Attune with Aether
 4 Attune with Aether
 2 Steam Vents
-3 Steam Vents
 3 Hallowed Fountain
+3 Steam Vents
 4 Steam Vents
 1 Dig Through Time
 1 Glacial Fortress
@@ -36,8 +36,8 @@
 4 Opt
 1 Supreme Verdict
 1 Clifftop Retreat
-1 Sulfur Falls
 1 Detention Sphere
+1 Sulfur Falls
 2 Detention Sphere
 3 Glacial Fortress
 4 Glacial Fortress
@@ -45,8 +45,8 @@
 1 Irrigated Farmland
 1 Censor
 1 Hieroglyphic Illumination
-1 Castle Vantress
 1 Abrade
+1 Castle Vantress
 1 Izzet Charm
 2 Hieroglyphic Illumination
 2 Censor
@@ -104,6 +104,7 @@
 2 Yavimaya Coast
 2 Brazen Borrower
 1 Assassin's Trophy
+1 Knight of Autumn
 1 Dreadbore
 1 Niv-Mizzet Reborn
 1 Kolaghan's Command
@@ -111,7 +112,6 @@
 1 Unmoored Ego
 1 Silumgar's Command
 1 Bring to Light
-1 Knight of Autumn
 1 Ojutai's Command
 2 Assassin's Trophy
 2 Mana Confluence
@@ -121,6 +121,9 @@
 3 Bring to Light
 3 Niv-Mizzet Reborn
 3 Island
+1 Shock
+2 Shock
+4 Elvish Mystic
 1 Lumbering Falls
 1 Risen Reef
 1 Eldritch Evolution
@@ -137,19 +140,16 @@
 3 Risen Reef
 3 Arboreal Grazer
 3 Eldritch Evolution
-4 Voice of Resurgence
 4 Risen Reef
-1 Shock
-2 Shock
-4 Elvish Mystic
+4 Voice of Resurgence
 1 Thrill of Possibility
-1 Fiery Impulse
-1 Lava Coil
 1 Anticipate
+1 Lava Coil
+1 Fiery Impulse
 2 Thrill of Possibility
 2 Spell Pierce
-2 Lava Coil
 2 Anticipate
+2 Lava Coil
 2 Fiery Impulse
 3 Anticipate
 3 Lava Coil
@@ -215,6 +215,6 @@
 3 Elite Guardmage
 3 Charming Prince
 3 Thraben Inspector
-4 Thraben Inspector
 4 Tithe Taker
 4 Charming Prince
+4 Thraben Inspector

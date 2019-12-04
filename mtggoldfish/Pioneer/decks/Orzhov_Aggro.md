@@ -33,8 +33,8 @@
 |---------------------|-------------|--------------------:|---------------------------------------------------------------------------------------------------|
 |                     |             |                    1|[Kalitas, Traitor of Ghet](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407596)|
 |                     |             |                    1|[Dark Betrayal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373504)           |
-|                     |             |                    2|[Kalitas, Traitor of Ghet](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407596)|
 |                     |             |                    2|[Declaration in Stone](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409750)    |
+|                     |             |                    2|[Kalitas, Traitor of Ghet](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407596)|
 |                     |             |                    2|[Dark Betrayal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373504)           |
 |                     |             |                    3|[Dark Betrayal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373504)           |
 |                     |             |                    4|[Dark Betrayal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373504)           |

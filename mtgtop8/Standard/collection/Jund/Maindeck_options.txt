@@ -1,12 +1,12 @@
-3 Murderous Rider
 2 Wicked Wolf
-4 Fabled Passage
-1 Liliana, Dreadhorde General
+3 Swamp
 4 Trail of Crumbs
-3 Wicked Wolf
 2 Massacre Girl
-4 Midnight Reaper
+1 Liliana, Dreadhorde General
+4 Fabled Passage
+3 Wicked Wolf
 1 Temple of Malady
+4 Midnight Reaper
 1 Angrath's Rampage
 2 Angrath's Rampage
 1 Once Upon a Time
@@ -21,20 +21,8 @@
 3 Noxious Grasp
 4 Noxious Grasp
 2 Castle Locthwain
-1 Legion's End
 1 Assassin's Trophy
 2 Temple of Malady
-1 Rotting Regisaur
-1 Collision / Colossus
-1 Gruul Spellbreaker
-2 Rotting Regisaur
-2 Mountain
-2 Collision / Colossus
-2 Gruul Spellbreaker
-3 Rotting Regisaur
-3 Mountain
-3 Collision / Colossus
-3 Gruul Spellbreaker
 1 Castle Garenbrig
 1 Thrashing Brontodon
 2 Thrashing Brontodon
@@ -43,6 +31,7 @@
 2 Liliana, Dreadhorde General
 1 Casualties of War
 2 Casualties of War
+1 Legion's End
 2 Legion's End
 1 Rankle, Master of Pranks
 2 Rankle, Master of Pranks
@@ -53,25 +42,36 @@
 4 Massacre Girl
 4 Murderous Rider
 4 Swamp
+1 Rotting Regisaur
 1 Giant Growth
 1 Shock
-1 Stormfist Crusader
+1 Collision / Colossus
+1 Gruul Spellbreaker
 1 Fling
 1 Dreadhorde Butcher
 1 Dreadhorde Arcanist
+1 Stormfist Crusader
+2 Rotting Regisaur
 2 Giant Growth
 2 Shock
-2 Stormfist Crusader
+2 Mountain
+2 Collision / Colossus
+2 Gruul Spellbreaker
 2 Fling
 2 Dreadhorde Butcher
+2 Stormfist Crusader
 2 Dreadhorde Arcanist
+3 Rotting Regisaur
 3 Giant Growth
 3 Shock
-3 Stormfist Crusader
+3 Mountain
+3 Collision / Colossus
+3 Gruul Spellbreaker
 3 Dreadhorde Butcher
 3 Fling
 3 Dreadhorde Arcanist
 3 Temple of Malady
+3 Stormfist Crusader
 4 Dreadhorde Arcanist
 4 Giant Growth
 4 Shock
@@ -79,31 +79,5 @@
 4 Dreadhorde Butcher
 4 Collision / Colossus
 4 Temple of Malady
-1 Rix Maadi Reveler
-1 Skarrgan Hellkite
-1 Bonecrusher Giant
-1 Embercleave
-1 Questing Beast
-1 Shifting Ceratops
-1 Growth-Chamber Guardian
-2 Questing Beast
-2 Skarrgan Hellkite
-2 Rix Maadi Reveler
-2 Bonecrusher Giant
-2 Embercleave
-2 Growth-Chamber Guardian
-3 Rix Maadi Reveler
-3 Skarrgan Hellkite
-3 Bonecrusher Giant
-3 Embercleave
-3 Growth-Chamber Guardian
-3 Questing Beast
-4 Rotting Regisaur
-4 Questing Beast
-4 Bonecrusher Giant
-4 Skarrgan Hellkite
-4 Rix Maadi Reveler
-4 Gruul Spellbreaker
-4 Growth-Chamber Guardian
 2 Assassin's Trophy
 6 Forest

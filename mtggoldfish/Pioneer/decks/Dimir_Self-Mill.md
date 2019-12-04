@@ -37,6 +37,6 @@
 |                    4|[Cryptbreaker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414381)    |                    2|[Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)        |
 |                     |                                                                                           |                    2|[Collective Brutality](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414380)    |
 |                     |                                                                                           |                    2|[Elder Deep-Fiend](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414294)        |
-|                     |                                                                                           |                    3|[Collective Brutality](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414380)    |
 |                     |                                                                                           |                    3|[Fatal Push](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423724)              |
+|                     |                                                                                           |                    3|[Collective Brutality](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414380)    |
 

@@ -39,8 +39,8 @@
 |                    1|[Shaman of Forgotten Ways](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394688) |                    1|[Alpine Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447264)  |
 |                    2|[Verdurous Gearhulk](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417745)       |                    1|[Aether Gust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466796)  |
 |                    2|[Sanctum of Ugin](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=402022)          |                    3|[Hornet Nest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383267)  |
-|                    2|[Shaman of Forgotten Ways](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394688) |                    2|[Aether Gust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466796)  |
+|                    2|[Emrakul, the Promised End](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414295)|                    2|[Aether Gust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466796)  |
+|                    2|[Shaman of Forgotten Ways](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394688) |                     |                                                                                        |
 |                    2|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)                   |                     |                                                                                        |
-|                    2|[Emrakul, the Promised End](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414295)|                     |                                                                                        |
 |                    4|[Stomping Ground](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405110)          |                     |                                                                                        |
 

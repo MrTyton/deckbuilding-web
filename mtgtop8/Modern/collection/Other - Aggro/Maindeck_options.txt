@@ -2,21 +2,21 @@
 1 Breeding Pool
 1 Oko, Thief of Crowns
 2 Oko, Thief of Crowns
-1 Plains
 1 Horizon Canopy
 1 Forest
 1 Copperline Gorge
-1 Wrenn and Six
+1 Plains
 1 Stomping Ground
+1 Wrenn and Six
 1 Tarmogoyf
+1 Bloodbraid Elf
 1 Lightning Helix
 1 Sunbaked Canyon
 1 Pillage
-1 Ajani Vengeant
 1 Steam Vents
 1 Stone Rain
 1 Mountain
-1 Bloodbraid Elf
+1 Ajani Vengeant
 1 Lightning Bolt
 1 Hexdrinker
 1 Sacred Foundry
@@ -24,10 +24,10 @@
 2 Wrenn and Six
 2 Tarmogoyf
 2 Lightning Helix
+2 Bloodbraid Elf
 2 Pillage
 2 Stone Rain
 2 Forest
-2 Bloodbraid Elf
 2 Ajani Vengeant
 2 Hexdrinker
 2 Lightning Bolt
@@ -35,10 +35,10 @@
 3 Lightning Helix
 3 Wooded Foothills
 3 Wrenn and Six
+3 Bloodbraid Elf
 3 Tarmogoyf
 3 Pillage
 3 Lightning Bolt
-3 Bloodbraid Elf
 3 Hexdrinker
 4 Stone Rain
 4 Lightning Helix
@@ -50,11 +50,11 @@
 4 Lightning Bolt
 1 Snow-Covered Island
 1 Nissa, Steward of Elements
+1 Tireless Tracker
 1 Oath of Nissa
 1 Jace, the Mind Sculptor
 1 Courser of Kruphix
 1 Field of Ruin
-1 Tireless Tracker
 1 Questing Beast
 1 Ice-Fang Coatl
 1 Utopia Sprawl
@@ -129,7 +129,6 @@
 3 Spellstutter Sprite
 3 Ninja of the Deep Hours
 3 Faerie Seer
-4 Brazen Borrower
 4 Force of Negation
 4 Snow-Covered Island
 4 Ninja of the Deep Hours
@@ -138,6 +137,7 @@
 4 Faerie Miscreant
 4 Disrupting Shoal
 4 Faerie Seer
+4 Brazen Borrower
 4 Spellstutter Sprite
 5 Snow-Covered Island
 6 Snow-Covered Island

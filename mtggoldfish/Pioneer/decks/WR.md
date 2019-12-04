@@ -38,7 +38,7 @@
 |                    3|[Lightning Strike](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383299)|                     |                                                                                               |
 |                    4|[Shock](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129732)           |                     |                                                                                               |
 |                    4|[Ghitu Lavarunner](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443015)|                     |                                                                                               |
-|                    4|[Lightning Strike](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383299)|                     |                                                                                               |
 |                    8|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)        |                     |                                                                                               |
 |                    9|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)        |                     |                                                                                               |
+|                    4|[Lightning Strike](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383299)|                     |                                                                                               |
 

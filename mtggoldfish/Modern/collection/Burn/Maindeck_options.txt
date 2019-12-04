@@ -5,6 +5,7 @@
 10 Mountain
 11 Mountain
 1 Wooded Foothills
+1 Skullcrack
 1 Seal of Fire
 2 Seal of Fire
 3 Seal of Fire
@@ -13,16 +14,15 @@
 4 Seal of Fire
 3 Light Up the Stage
 4 Light Up the Stage
-1 Skullcrack
 12 Mountain
 3 Shard Volley
 2 Bloodstained Mire
-1 Arid Mesa
-4 Lightning Helix
 2 Wooded Foothills
+1 Arid Mesa
 2 Skullcrack
-4 Searing Blaze
+4 Lightning Helix
 2 Arid Mesa
+4 Searing Blaze
 1 Fanatical Firebrand
 2 Fanatical Firebrand
 3 Fanatical Firebrand
@@ -48,26 +48,26 @@
 1 Mogg Fanatic
 2 Mogg Fanatic
 1 Grim Lavamancer
-4 Bloodstained Mire
 4 Sacred Foundry
 3 Mogg Fanatic
 3 Scalding Tarn
 13 Mountain
 1 Stomping Ground
+4 Bloodstained Mire
 4 Wooded Foothills
 1 Snow-Covered Mountain
 2 Snow-Covered Mountain
 3 Snow-Covered Mountain
 4 Scalding Tarn
 4 Mogg Fanatic
+2 Grim Lavamancer
 1 Bonecrusher Giant
 2 Bonecrusher Giant
-2 Grim Lavamancer
 14 Mountain
-1 Copperline Gorge
 1 Wild Nacatl
 1 Atarka's Command
 1 Thunderous Wrath
+1 Copperline Gorge
 2 Copperline Gorge
 2 Stomping Ground
 2 Atarka's Command
@@ -84,18 +84,18 @@
 1 Molten Rain
 2 Molten Rain
 3 Molten Rain
-3 Bonecrusher Giant
-4 Bonecrusher Giant
-3 Grim Lavamancer
-4 Grim Lavamancer
 1 Burst Lightning
 2 Burst Lightning
 3 Burst Lightning
 4 Burst Lightning
+3 Grim Lavamancer
+4 Grim Lavamancer
 1 Vexing Devil
 2 Vexing Devil
 3 Vexing Devil
 4 Vexing Devil
+3 Bonecrusher Giant
+4 Bonecrusher Giant
 1 Blood Crypt
 3 Thunderous Wrath
 4 Thunderous Wrath

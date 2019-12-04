@@ -1,29 +1,6 @@
-3 Ingenious Infiltrator
 1 Flooded Strand
 1 Daze
-1 Snow-Covered Island
 1 Brazen Borrower
-2 Snow-Covered Island
-1 Spellseeker
-1 Snow-Covered Swamp
-1 Snow-Covered Mountain
-1 Hymn to Tourach
-1 Tyrant's Scorn
-1 Imperial Recruiter
-1 Arcum's Astrolabe
-1 Bonecrusher Giant
-2 Bonecrusher Giant
-2 Snow-Covered Swamp
-2 Hymn to Tourach
-2 Spellseeker
-2 Arcum's Astrolabe
-2 Bloodstained Mire
-2 Fatal Push
-3 Bonecrusher Giant
-3 Snow-Covered Island
-3 Snow-Covered Swamp
-3 Bloodstained Mire
-4 Bloodstained Mire
 1 Wasteland
 2 Wasteland
 1 Karakas
@@ -39,14 +16,15 @@
 3 Aether Vial
 4 Flooded Strand
 4 Aether Vial
+1 Snow-Covered Island
 1 Fiery Islet
 1 Plateau
 1 Geier Reach Sanitarium
 1 Snow-Covered Plains
 1 Vendilion Clique
 1 Cavern of Souls
-1 Unsettled Mariner
 1 Spirit of the Labyrinth
+1 Unsettled Mariner
 1 Moorland Haunt
 1 Rattlechains
 1 Phantasmal Image
@@ -62,9 +40,9 @@
 2 Supreme Phantom
 2 Spirit of the Labyrinth
 2 Unsettled Mariner
-2 Drogskol Captain
 2 Mausoleum Wanderer
 2 Spell Queller
+2 Drogskol Captain
 3 Cavern of Souls
 3 Drogskol Captain
 3 Supreme Phantom
@@ -92,6 +70,7 @@
 3 Retrofitter Foundry
 3 Ornithopter
 3 Changeling Outcast
+3 Ingenious Infiltrator
 3 Daze
 3 Yuriko, the Tiger's Shadow
 4 Changeling Outcast
@@ -117,6 +96,7 @@
 1 Hexdrinker
 2 Ice-Fang Coatl
 2 Misty Rainforest
+2 Snow-Covered Island
 2 Tropical Island
 2 Courser of Kruphix
 2 Brazen Borrower
@@ -155,8 +135,8 @@
 1 Call of the Conclave
 1 Wake the Reflections
 1 Savannah
-1 Forest
 1 Voice of Resurgence
+1 Forest
 1 Druid's Deliverance
 2 Karakas
 2 Elvish Spirit Guide
@@ -167,8 +147,8 @@
 2 Wake the Reflections
 2 Selesnya Charm
 2 Forest
-2 Call of the Conclave
 2 Sundering Growth
+2 Call of the Conclave
 2 Mana Tithe
 2 Voice of Resurgence
 2 Rhonas's Last Stand
@@ -213,6 +193,6 @@
 3 Recruiter of the Guard
 3 Meddling Mage
 3 Mother of Runes
-4 Mother of Runes
 4 Meddling Mage
+4 Mother of Runes
 4 Recruiter of the Guard
