@@ -21,6 +21,7 @@
 1 Plateau
 1 Geier Reach Sanitarium
 1 Snow-Covered Plains
+1 Spell Queller
 1 Vendilion Clique
 1 Cavern of Souls
 1 Spirit of the Labyrinth
@@ -28,7 +29,6 @@
 1 Moorland Haunt
 1 Rattlechains
 1 Phantasmal Image
-1 Spell Queller
 1 Eidolon of the Great Revel
 1 Mausoleum Wanderer
 1 Hypnotic Sprite
@@ -36,12 +36,12 @@
 1 Drogskol Captain
 2 Fiery Islet
 2 Cavern of Souls
+2 Spell Queller
 2 Rattlechains
 2 Supreme Phantom
 2 Spirit of the Labyrinth
 2 Unsettled Mariner
 2 Mausoleum Wanderer
-2 Spell Queller
 2 Drogskol Captain
 3 Cavern of Souls
 3 Drogskol Captain
@@ -110,9 +110,9 @@
 3 Oko, Thief of Crowns
 3 Misty Rainforest
 3 Courser of Kruphix
+3 Brazen Borrower
 3 Wasteland
 3 Green Sun's Zenith
-3 Brazen Borrower
 3 Noble Hierarch
 4 Tropical Island
 4 Misty Rainforest

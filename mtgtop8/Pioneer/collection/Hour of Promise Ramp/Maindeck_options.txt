@@ -1,13 +1,13 @@
-1 Tranquil Cove
-4 Once Upon a Time
-1 Castle Garenbrig
-1 Radiant Fountain
 1 Ugin, the Spirit Dragon
-1 Llanowar Wastes
+1 Castle Garenbrig
+4 Once Upon a Time
 1 Hashep Oasis
 3 Forest
-1 Blooming Marsh
+1 Tranquil Cove
+1 Radiant Fountain
+1 Llanowar Wastes
 1 Temple of Malady
+1 Blooming Marsh
 1 Hissing Quagmire
 1 Ifnir Deadlands
 1 Overgrown Tomb
@@ -21,18 +21,18 @@
 2 Tireless Tracker
 2 Abrupt Decay
 2 Overgrown Tomb
-2 Swamp
 2 Fatal Push
+2 Swamp
 3 Abrupt Decay
 3 Tireless Tracker
 4 Tireless Tracker
 1 Scavenger Grounds
-1 Lumbering Falls
 1 Legion's End
 1 Murderous Rider
 2 Murderous Rider
 3 Fatal Push
 1 Crumbling Vestige
+2 Ugin, the Spirit Dragon
 1 Sanctum of Ugin
 1 Ulamog, the Ceaseless Hunger
 1 World Breaker
@@ -42,7 +42,6 @@
 2 Castle Garenbrig
 2 World Breaker
 2 Nissa's Pilgrimage
-2 Ugin, the Spirit Dragon
 2 Sanctum of Ugin
 2 Hashep Oasis
 3 Ugin, the Spirit Dragon
@@ -65,46 +64,54 @@
 2 Thoughtseize
 3 Thoughtseize
 4 Thoughtseize
-2 Fabled Passage
 1 Jungle Hollow
 1 Desert of the Indomitable
-2 Plains
 4 Abrupt Decay
-1 Nissa, Vastwood Seer
+1 Lumbering Falls
+2 Plains
+2 Hydroid Krasis
 1 Sheltered Thicket
+1 Nissa, Vastwood Seer
+2 Fabled Passage
 1 Kalitas, Traitor of Ghet
 2 Llanowar Wastes
 2 Kalitas, Traitor of Ghet
 3 Sphinx's Revelation
-2 Hydroid Krasis
-1 Cyclonic Rift
+1 Settle the Wreckage
+2 Settle the Wreckage
 1 Azorius Charm
 2 Azorius Charm
+1 Cyclonic Rift
+2 Breeding Pool
+2 Temple Garden
+2 Hallowed Fountain
 1 Emrakul, the Promised End
 1 Courser of Kruphix
-1 Agent of Treachery
-1 Dovin's Veto
-2 Detention Sphere
 1 Narset, Parter of Veils
 2 Narset, Parter of Veils
 1 Ultimate Price
 2 Blooming Marsh
 2 Ultimate Price
-1 Settle the Wreckage
-2 Settle the Wreckage
+1 Agent of Treachery
+1 Ipnu Rivulet
+1 Fumigate
+1 Shefet Dunes
+2 Fumigate
+2 Island
+3 Hydroid Krasis
+3 Settle the Wreckage
+3 Island
+3 Fumigate
 1 Jace, Architect of Thought
 1 Absorb
 1 Walking Ballista
 1 Elspeth, Sun's Champion
 1 Dig Through Time
 2 Botanical Sanctum
-2 Breeding Pool
-2 Temple Garden
 2 Temple of Enlightenment
 2 Cyclonic Rift
 2 Absorb
 2 Dig Through Time
-2 Hallowed Fountain
 2 Glacial Fortress
 2 Sunpetal Grove
 3 Temple Garden

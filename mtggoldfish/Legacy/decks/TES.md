@@ -49,7 +49,7 @@
 |                    4|[Mox Opal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397719)           |                    4|[Echoing Truth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405212)      |
 |                    4|[Wishclaw Talisman](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473072)  |                     |                                                                                              |
 |                    1|[Simian Spirit Guide](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442137)|                     |                                                                                              |
-|                    1|[Tendrils of Agony](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45842)   |                     |                                                                                              |
-|                    3|[Defense Grid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45481)        |                     |                                                                                              |
 |                    2|[Simian Spirit Guide](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442137)|                     |                                                                                              |
+|                    3|[Defense Grid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45481)        |                     |                                                                                              |
+|                    1|[Tendrils of Agony](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45842)   |                     |                                                                                              |
 
