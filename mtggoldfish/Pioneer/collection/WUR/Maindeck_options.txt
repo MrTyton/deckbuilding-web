@@ -5,8 +5,6 @@
 4 Hallowed Fountain
 1 Plains
 1 Clifftop Retreat
-1 Kenrith, the Returned King
-1 Cavalier of Gales
 1 Scorching Dragonfire
 1 Detention Sphere
 1 Temple of Triumph
@@ -19,10 +17,11 @@
 1 Jace, Architect of Thought
 1 Glacial Fortress
 1 Deafening Clarion
+1 Cavalier of Gales
 1 Cavalier of Flame
 1 Drawn from Dreams
+1 Kenrith, the Returned King
 2 Detention Sphere
-2 Cavalier of Gales
 2 Scorching Dragonfire
 2 Drawn from Dreams
 2 Fires of Invention
@@ -32,6 +31,7 @@
 2 Elspeth, Sun's Champion
 2 Cavalier of Flame
 2 Glacial Fortress
+2 Cavalier of Gales
 2 Temple of Triumph
 2 Temple of Epiphany
 3 Cavalier of Gales
@@ -84,8 +84,8 @@
 3 Mantis Rider
 3 Toolcraft Exemplar
 3 Battlefield Forge
-4 Wild Slash
 4 Smuggler's Copter
+4 Wild Slash
 4 Spire of Industry
 4 Veteran Motorist
 4 Bomat Courier

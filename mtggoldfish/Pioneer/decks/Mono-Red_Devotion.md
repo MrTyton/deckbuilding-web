@@ -27,7 +27,7 @@
 
 |*n*<sup>th</sup> copy|                                        Maindeck Card                                         |*n*<sup>th</sup> copy|                                         Sideboard Card                                          |
 |--------------------:|----------------------------------------------------------------------------------------------|--------------------:|-------------------------------------------------------------------------------------------------|
-|                    1|[Magma Spray](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426843)        |                    1|[Chandra, Pyromaster](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430581)   |
-|                    1|[Experimental Frenzy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452849)|                    1|[Embereth Shieldbreaker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473084)|
+|                    1|[Experimental Frenzy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452849)|                    1|[Chandra, Pyromaster](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430581)   |
+|                    1|[Magma Spray](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426843)        |                    1|[Embereth Shieldbreaker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473084)|
 |                    2|[Magma Spray](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426843)        |                    1|[Mob Rule](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391882)              |
 

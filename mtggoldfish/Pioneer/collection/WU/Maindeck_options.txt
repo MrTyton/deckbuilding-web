@@ -1,7 +1,7 @@
 1 Gideon, Ally of Zendikar
 2 Gideon, Ally of Zendikar
-3 Field of Ruin
 3 Castle Ardenvale
+3 Field of Ruin
 4 Field of Ruin
 1 Brazen Borrower
 1 Search for Azcanta
@@ -11,9 +11,9 @@
 2 Search for Azcanta
 2 Dovin's Veto
 1 Settle the Wreckage
+1 Irrigated Farmland
 1 Absorb
 1 Castle Vantress
-1 Irrigated Farmland
 2 Absorb
 2 Irrigated Farmland
 3 Azorius Charm
@@ -24,13 +24,13 @@
 1 Charming Prince
 1 Gideon of the Trials
 1 Walking Ballista
-1 Deputy of Detention
 1 Gideon Blackblade
+1 Deputy of Detention
 2 Charming Prince
 2 Gideon of the Trials
+2 Gideon Blackblade
 2 Deputy of Detention
 2 Walking Ballista
-2 Gideon Blackblade
 3 Charming Prince
 3 Gideon of the Trials
 3 Walking Ballista
@@ -54,28 +54,28 @@
 4 Cast Out
 1 Lyra Dawnbringer
 1 Empyrean Eagle
-1 Healer's Hawk
 1 Siren Stormtamer
 1 Mutavault
 1 Gisela, the Broken Blade
-2 Brazen Borrower
-2 Healer's Hawk
+1 Healer's Hawk
 2 Empyrean Eagle
 2 Siren Stormtamer
 2 Lyra Dawnbringer
+2 Healer's Hawk
+2 Brazen Borrower
 2 Gisela, the Broken Blade
 2 Settle the Wreckage
-3 Brazen Borrower
 3 Empyrean Eagle
 3 Siren Stormtamer
 3 Port Town
 3 Settle the Wreckage
 3 Healer's Hawk
+3 Brazen Borrower
 4 Empyrean Eagle
 4 Port Town
 1 Fae of Wishes
-1 Mystic Sanctuary
 1 Hour of Revelation
+1 Mystic Sanctuary
 1 Sphinx's Revelation
 1 Disallow
 1 Quicken
@@ -87,10 +87,10 @@
 2 Quicken
 2 Sphinx's Revelation
 2 Hour of Revelation
+3 Fae of Wishes
+3 Censor
 3 Absorb
 3 Mystic Sanctuary
-3 Censor
-3 Fae of Wishes
 3 Prairie Stream
 3 Sphinx's Revelation
 3 Quicken
@@ -100,23 +100,6 @@
 4 Quicken
 4 Prairie Stream
 4 Mystic Sanctuary
-1 Anticipate
-1 Sinister Sabotage
-1 Mystical Dispute
-1 Narset, Parter of Veils
-1 Secure the Wastes
-1 Opt
-1 Myth Realized
-2 Anticipate
-2 Narset, Parter of Veils
-2 Myth Realized
-2 Opt
-3 Myth Realized
-3 Opt
-4 Opt
-4 Myth Realized
-7 Island
-8 Island
 1 Mausoleum Wanderer
 1 Bygone Bishop
 2 Mausoleum Wanderer
@@ -127,3 +110,20 @@
 4 Mausoleum Wanderer
 4 Reflector Mage
 8 Plains
+1 Sinister Sabotage
+1 Mystical Dispute
+1 Narset, Parter of Veils
+1 Secure the Wastes
+1 Opt
+1 Myth Realized
+1 Anticipate
+2 Narset, Parter of Veils
+2 Anticipate
+2 Myth Realized
+2 Opt
+3 Myth Realized
+3 Opt
+4 Opt
+4 Myth Realized
+7 Island
+8 Island

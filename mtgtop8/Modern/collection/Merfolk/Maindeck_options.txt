@@ -1,13 +1,14 @@
-3 Oko, Thief of Crowns
-1 Oboro, Palace in the Clouds
 1 Harbinger of the Tides
+3 Oko, Thief of Crowns
+2 Harbinger of the Tides
+1 Oboro, Palace in the Clouds
 1 Benthic Biomancer
 2 Benthic Biomancer
 6 Island
 7 Island
 8 Island
 9 Island
-2 Harbinger of the Tides
+1 Flooded Strand
 1 Merrow Reejerey
 2 Merrow Reejerey
 3 Benthic Biomancer
@@ -16,10 +17,10 @@
 11 Island
 1 Phantasmal Image
 2 Phantasmal Image
-1 Flooded Strand
 1 Snow-Covered Island
 2 Snow-Covered Island
 3 Snow-Covered Island
+2 Flooded Strand
 1 Sea's Claim
 2 Sea's Claim
 1 Misty Rainforest
@@ -29,7 +30,6 @@
 3 Phantasmal Image
 4 Phantasmal Image
 13 Island
-2 Flooded Strand
 2 Cavern of Souls
 3 Cavern of Souls
 3 Merrow Reejerey
@@ -62,24 +62,24 @@
 2 Scalding Tarn
 3 Brazen Borrower
 4 Cavern of Souls
-1 Ongoing Investigation
-1 Noble Hierarch
-1 Collected Company
-1 Forest
-2 Noble Hierarch
-2 Ongoing Investigation
-2 Collected Company
-3 Noble Hierarch
-3 Collected Company
-3 Misty Rainforest
-4 Noble Hierarch
-4 Collected Company
-4 Misty Rainforest
-4 Oko, Thief of Crowns
 1 Master of Waves
 2 Master of Waves
 3 Master of Waves
 4 Master of Waves
+1 Ongoing Investigation
+1 Noble Hierarch
+1 Collected Company
+1 Forest
+2 Ongoing Investigation
+2 Noble Hierarch
+2 Collected Company
+3 Collected Company
+3 Misty Rainforest
+3 Noble Hierarch
+4 Collected Company
+4 Misty Rainforest
+4 Oko, Thief of Crowns
+4 Noble Hierarch
 1 Repeal
 2 Repeal
 3 Dismember
