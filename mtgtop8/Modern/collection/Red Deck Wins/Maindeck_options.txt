@@ -1,16 +1,17 @@
 4 Skewer the Critics
-3 Bloodstained Mire
 4 Searing Blaze
+3 Bloodstained Mire
+3 Wooded Foothills
 1 Light Up the Stage
 2 Light Up the Stage
-1 Manamorphose
 1 Soul-Scar Mage
 1 Crash Through
 1 Lava Dart
+1 Manamorphose
 1 Bedlam Reveler
-2 Manamorphose
 2 Bedlam Reveler
 2 Lava Dart
+2 Manamorphose
 2 Soul-Scar Mage
 2 Crash Through
 3 Light Up the Stage
@@ -19,9 +20,9 @@
 3 Soul-Scar Mage
 3 Crash Through
 3 Lava Dart
-4 Manamorphose
 4 Lava Dart
 4 Crash Through
+4 Manamorphose
 4 Mountain
 4 Soul-Scar Mage
 4 Light Up the Stage
@@ -31,37 +32,27 @@
 8 Mountain
 9 Mountain
 10 Mountain
-3 Wooded Foothills
+1 Scalding Tarn
 11 Mountain
 12 Mountain
 13 Mountain
 14 Mountain
-1 Scalding Tarn
 2 Fiery Islet
-4 Bedlam Reveler
 1 Burst Lightning
 1 Kiln Fiend
 2 Kiln Fiend
 3 Kiln Fiend
+4 Bedlam Reveler
 2 Scalding Tarn
 3 Scalding Tarn
 4 Bloodstained Mire
 3 Skullcrack
 4 Skullcrack
-1 Warlord's Fury
-2 Warlord's Fury
-3 Warlord's Fury
-3 Fiery Islet
-4 Warlord's Fury
-4 Fiery Islet
 1 Stomping Ground
 1 Snow-Covered Mountain
 4 Wooded Foothills
 2 Burst Lightning
-1 Firebolt
-2 Firebolt
 3 Arid Mesa
-1 Mutagenic Growth
 1 Thunderous Wrath
 1 Steam Vents
 1 Shard Volley
@@ -72,6 +63,13 @@
 3 Abrade
 3 Burst Lightning
 4 Burst Lightning
+1 Mutagenic Growth
+1 Warlord's Fury
+2 Warlord's Fury
+3 Warlord's Fury
+3 Fiery Islet
+4 Warlord's Fury
+4 Fiery Islet
 1 Mishra's Bauble
 2 Mishra's Bauble
 3 Mishra's Bauble
@@ -83,7 +81,9 @@
 2 Snow-Covered Mountain
 3 Snow-Covered Mountain
 4 Arid Mesa
+1 Firebolt
 1 Reckless Charge
+2 Firebolt
 2 Reckless Charge
 15 Mountain
 16 Mountain

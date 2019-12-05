@@ -46,8 +46,8 @@
 |                    3|[Prismatic Vista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464193)        |                     |                                                                                          |
 |                    3|[Lotus Petal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420602)            |                     |                                                                                          |
 |                    4|[Karn, the Great Creator](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460928)|                     |                                                                                          |
-|                    4|[Prismatic Vista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464193)        |                     |                                                                                          |
-|                    4|[Arcum's Astrolabe](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464169)      |                     |                                                                                          |
 |                    4|[Mox Opal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397719)               |                     |                                                                                          |
+|                    4|[Arcum's Astrolabe](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464169)      |                     |                                                                                          |
+|                    4|[Prismatic Vista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464193)        |                     |                                                                                          |
 |                    4|[Ancient Tomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409567)           |                     |                                                                                          |
 

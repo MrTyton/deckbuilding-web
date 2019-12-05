@@ -11,6 +11,23 @@
 4 Giver of Runes
 4 Noble Hierarch
 1 Reflector Mage
+1 Sword of Fire and Ice
+1 Nimble Obstructionist
+1 Soulherder
+1 Renegade Rallier
+1 Eternal Witness
+1 Brazen Borrower
+1 Gilded Goose
+1 On Thin Ice
+2 Renegade Rallier
+2 Soulherder
+2 Gilded Goose
+2 Nimble Obstructionist
+2 On Thin Ice
+3 Gilded Goose
+3 On Thin Ice
+4 Force of Negation
+4 Gilded Goose
 1 Sword of Feast and Famine
 3 Stoneforge Mystic
 4 Stoneforge Mystic
@@ -25,59 +42,22 @@
 3 Deputy of Detention
 3 Razorverge Thicket
 4 Collected Company
-1 Waterlogged Grove
-1 Restoration Angel
-1 Opt
-1 Castle Vantress
-1 Spell Pierce
-1 Glacial Fortress
-1 Celestial Colonnade
-1 Logic Knot
-1 Wall of Omens
-2 Opt
-2 Celestial Colonnade
-2 Restoration Angel
-2 Wall of Omens
-3 Cryptic Command
-3 Opt
-3 Wall of Omens
-3 Restoration Angel
-4 Opt
-4 Flooded Strand
-4 Wall of Omens
-1 Sword of Fire and Ice
-1 Nimble Obstructionist
-1 Brazen Borrower
-1 Soulherder
-1 Renegade Rallier
-1 Eternal Witness
-1 Gilded Goose
-1 On Thin Ice
-2 Soulherder
-2 Renegade Rallier
-2 Gilded Goose
-2 Nimble Obstructionist
-2 On Thin Ice
-3 Gilded Goose
-3 On Thin Ice
-4 Force of Negation
-4 Gilded Goose
 1 Plains
-1 Forest
 1 Once Upon a Time
-2 Forest
+1 Forest
 2 Once Upon a Time
+2 Forest
 2 Temple Garden
 3 Once Upon a Time
 3 Temple Garden
 4 Once Upon a Time
 1 Wooded Foothills
-1 Island
 1 Shalai, Voice of Plenty
-1 Collector Ouphe
 1 Vizier of Remedies
+1 Island
 1 Finale of Devastation
 1 Duskwatch Recruiter
+1 Collector Ouphe
 1 Walking Ballista
 1 Eladamri's Call
 1 Devoted Druid
@@ -89,8 +69,8 @@
 2 Vizier of Remedies
 2 Eladamri's Call
 3 Horizon Canopy
-3 Forest
 3 Finale of Devastation
+3 Forest
 3 Reflector Mage
 3 Eladamri's Call
 3 Vizier of Remedies
@@ -100,6 +80,29 @@
 4 Devoted Druid
 4 Finale of Devastation
 1 Field of the Dead
+1 Scapeshift
+1 Growth Spiral
+1 Remand
+1 Arcum's Astrolabe
+1 Scalding Tarn
+1 Mystic Sanctuary
+1 Polluted Delta
+1 Supreme Verdict
+2 Field of the Dead
+2 Growth Spiral
+2 Mana Leak
+2 Remand
+2 Arcum's Astrolabe
+2 Scapeshift
+2 Mystic Sanctuary
+3 Growth Spiral
+3 Remand
+3 Arcum's Astrolabe
+4 Teferi, Time Raveler
+4 Remand
+4 Snow-Covered Island
+4 Arcum's Astrolabe
+4 Growth Spiral
 1 Elvish Reclaimer
 1 Flagstones of Trokair
 1 Gemstone Mine
@@ -108,7 +111,6 @@
 1 Tolaria West
 1 Castle Garenbrig
 1 Bojuka Bog
-1 Reclamation Sage
 1 Pact of Negation
 1 Simic Growth Chamber
 1 Summoner's Pact
@@ -116,6 +118,7 @@
 1 Amulet of Vigor
 1 Kabira Crossroads
 1 Sunhome, Fortress of the Legion
+1 Reclamation Sage
 1 Cavern of Souls
 1 Slayers' Stronghold
 1 Selesnya Sanctuary
@@ -142,39 +145,35 @@
 3 Amulet of Vigor
 3 Summoner's Pact
 4 Elvish Reclaimer
-4 Temple Garden
 4 Summoner's Pact
 4 Primeval Titan
 4 Azusa, Lost but Seeking
 4 Simic Growth Chamber
 4 Amulet of Vigor
 4 Flagstones of Trokair
-1 Scapeshift
-1 Growth Spiral
-1 Remand
-1 Arcum's Astrolabe
-1 Scalding Tarn
-1 Mystic Sanctuary
-1 Polluted Delta
-1 Supreme Verdict
-2 Field of the Dead
-2 Growth Spiral
-2 Mana Leak
-2 Remand
-2 Arcum's Astrolabe
-2 Scapeshift
-2 Mystic Sanctuary
-3 Growth Spiral
-3 Remand
-3 Arcum's Astrolabe
-4 Snow-Covered Island
-4 Teferi, Time Raveler
-4 Remand
-4 Arcum's Astrolabe
-4 Growth Spiral
-1 Karn, the Great Creator
+4 Temple Garden
+1 Waterlogged Grove
+1 Restoration Angel
+1 Opt
+1 Spell Pierce
+1 Castle Vantress
+1 Glacial Fortress
+1 Celestial Colonnade
+1 Logic Knot
+1 Wall of Omens
+2 Celestial Colonnade
+2 Restoration Angel
+2 Wall of Omens
+2 Opt
+3 Cryptic Command
+3 Wall of Omens
+3 Restoration Angel
+3 Opt
+4 Flooded Strand
+4 Wall of Omens
+4 Opt
 1 Weathered Wayfarer
-1 Gideon of the Trials
+1 Karn, the Great Creator
 1 Elesh Norn, Grand Cenobite
 1 Nykthos, Shrine to Nyx
 1 Ulamog, the Ceaseless Hunger
@@ -182,6 +181,7 @@
 1 Wildfield Borderpost
 1 Thalia, Heretic Cathar
 1 Thalia's Lancers
+1 Gideon of the Trials
 1 Leyline of Sanctity
 1 Knight of the White Orchid
 1 Fieldmist Borderpost

@@ -1,10 +1,10 @@
-3 Force of Negation
-3 Steam Vents
-1 Brazen Borrower
+1 Sulfur Falls
+2 Sulfur Falls
 4 Cryptic Command
 2 Magmatic Sinkhole
 3 Mystic Sanctuary
 1 Misty Rainforest
+2 Spell Snare
 1 Desolate Lighthouse
 4 Remand
 1 Fiery Islet
@@ -19,25 +19,22 @@
 4 Through the Breach
 2 Abrade
 4 Thing in the Ice
-1 Flame Slash
-3 Sulfur Falls
-3 Polluted Delta
-1 Vendilion Clique
 3 Flooded Strand
 4 Flooded Strand
-3 Archmage's Charm
 1 Snow-Covered Mountain
 1 Izzet Charm
-4 Steam Vents
 4 Emrakul, the Aeons Torn
-1 Logic Knot
-1 Castle Vantress
+4 Steam Vents
+1 Flame Slash
 1 Snow-Covered Island
 2 Snow-Covered Island
 3 Snow-Covered Island
 4 Snow-Covered Island
 5 Snow-Covered Island
+1 Vendilion Clique
+3 Sulfur Falls
 3 Blood Moon
+3 Polluted Delta
 4 Polluted Delta
 1 Electrolyze
 1 Augur of Bolas
@@ -45,6 +42,7 @@
 1 Burst Lightning
 2 Augur of Bolas
 2 Burst Lightning
+3 Archmage's Charm
 1 Chandra, Torch of Defiance
 1 Chandra, Awakened Inferno
 2 Vendilion Clique
@@ -68,9 +66,11 @@
 4 Ancestral Vision
 4 Dreadhorde Arcanist
 8 Island
+1 Logic Knot
 1 Narset, Parter of Veils
 1 Geier Reach Sanitarium
 1 Day's Undoing
+1 Castle Vantress
 1 Fact or Fiction
 1 Field of Ruin
 1 Mana Leak
@@ -78,7 +78,7 @@
 2 Narset, Parter of Veils
 2 Field of Ruin
 3 Narset, Parter of Veils
-4 Mystic Sanctuary
-4 Field of Ruin
-4 Narset, Parter of Veils
 3 Field of Ruin
+4 Mystic Sanctuary
+4 Narset, Parter of Veils
+4 Field of Ruin

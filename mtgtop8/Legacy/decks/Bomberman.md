@@ -45,6 +45,6 @@
 |                    3|[Ancient Den](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205275)         |                    1|[Wurmcoil Engine](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389756)              |
 |                    4|[Mox Opal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397719)            |                    1|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)          |
 |                    4|[Ancient Den](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205275)         |                    2|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)          |
-|                     |                                                                                               |                    4|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)          |
 |                     |                                                                                               |                    3|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)          |
+|                     |                                                                                               |                    4|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)          |
 
