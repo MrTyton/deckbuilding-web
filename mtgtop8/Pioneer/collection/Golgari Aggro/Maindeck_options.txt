@@ -1,42 +1,42 @@
+3 Woodland Cemetery
 1 Swamp
-1 Rishkar, Peema Renegade
+4 Vivien, Arkbow Ranger
 1 Experiment One
 2 Experiment One
 3 Experiment One
-1 Woodland Cemetery
-2 Woodland Cemetery
-3 Woodland Cemetery
-2 Swamp
+4 Stonecoil Serpent
+4 Woodland Cemetery
 1 Hangarback Walker
 2 Hangarback Walker
-2 Rishkar, Peema Renegade
+1 Rishkar, Peema Renegade
 1 Pelt Collector
 2 Pelt Collector
 3 Pelt Collector
 4 Pelt Collector
 4 Experiment One
-4 Woodland Cemetery
 1 Thoughtseize
-1 Fatal Push
+2 Swamp
+2 Rishkar, Peema Renegade
 1 Scavenging Ooze
+1 Castle Locthwain
 1 Murderous Rider
+1 Fatal Push
 2 Thoughtseize
 1 Abrupt Decay
 2 Abrupt Decay
-2 Fatal Push
 1 Grisly Salvage
 2 Grisly Salvage
 2 Murderous Rider
 3 Swamp
-1 Castle Locthwain
 1 Traverse the Ulvenwald
 2 Traverse the Ulvenwald
-1 Hissing Quagmire
 1 Courser of Kruphix
+1 Hissing Quagmire
 1 Liliana, the Last Hope
 1 Fabled Passage
 1 Tireless Tracker
 1 Vraska, Golgari Queen
+2 Fatal Push
 2 Tireless Tracker
 2 Vraska, Golgari Queen
 2 Fabled Passage
@@ -45,8 +45,8 @@
 4 Swamp
 1 Grim Flayer
 1 Ishkanah, Grafwidow
-2 Liliana, the Last Hope
 2 Grim Flayer
+2 Liliana, the Last Hope
 3 Grim Flayer
 4 Grim Flayer
 1 Assassin's Trophy
@@ -59,9 +59,9 @@
 1 Lotleth Troll
 1 Soulflayer
 1 Zetalpa, Primal Dawn
-2 Soulflayer
 2 Zetalpa, Primal Dawn
 2 Lotleth Troll
+2 Soulflayer
 3 Soulflayer
 3 Zetalpa, Primal Dawn
 3 Lotleth Troll
@@ -74,7 +74,6 @@
 8 Forest
 2 Hashep Oasis
 2 Hissing Quagmire
-3 Fatal Push
 2 Questing Beast
 3 Murderous Rider
 1 Deathrite Shaman
@@ -83,32 +82,31 @@
 3 Traverse the Ulvenwald
 1 Rhonas the Indomitable
 2 Rhonas the Indomitable
-1 Noxious Gearhulk
 1 Duress
 1 Dead Weight
+1 Noxious Gearhulk
 2 Duress
 3 Rishkar, Peema Renegade
-1 Karn's Bastion
 3 Hangarback Walker
-4 Hangarback Walker
 2 Field of Ruin
-3 Hissing Quagmire
 3 Abrupt Decay
+3 Hissing Quagmire
+3 Fatal Push
 1 Nullhide Ferox
 2 Nullhide Ferox
-3 Nullhide Ferox
 3 Questing Beast
+3 Nullhide Ferox
 3 Rhonas the Indomitable
-4 Murderous Rider
 4 Nullhide Ferox
+4 Murderous Rider
 1 Sylvan Caryatid
 2 Sylvan Caryatid
 3 Sylvan Caryatid
 4 Sylvan Caryatid
-1 Chromanticore
 1 Blood Crypt
 1 Mana Confluence
 1 Samut, Voice of Dissent
+1 Chromanticore
 1 Bomat Courier
 2 Blood Crypt
 2 Mana Confluence
@@ -119,57 +117,48 @@
 4 Mana Confluence
 1 Nissa, Vital Force
 1 Jadelight Ranger
+1 Verdurous Gearhulk
+1 Nykthos, Shrine to Nyx
+1 Ruins of Oran-Rief
 1 Mutavault
 1 Smuggler's Copter
 2 Smuggler's Copter
 3 Smuggler's Copter
-1 Sea Gate Wreckage
-1 Steel Overseer
-1 Metallic Mimic
-1 Animation Module
-1 Ruins of Oran-Rief
-2 Steel Overseer
-2 Metallic Mimic
-3 Steel Overseer
-4 Steel Overseer
-1 Tasigur, the Golden Fang
 1 Ob Nixilis Reignited
 1 Sylvan Advocate
-2 Tasigur, the Golden Fang
+1 Tasigur, the Golden Fang
 2 Sylvan Advocate
+2 Tasigur, the Golden Fang
 3 Field of Ruin
 3 Sylvan Advocate
 4 Sylvan Advocate
+1 Karn's Bastion
+4 Hangarback Walker
 1 Temple of Malady
 1 Rotting Regisaur
 2 Temple of Malady
 2 Rotting Regisaur
 3 Rotting Regisaur
 4 Rotting Regisaur
-1 Gather the Pack
-2 Gather the Pack
-3 Gather the Pack
-4 Rhonas the Indomitable
-4 Questing Beast
-4 Gather the Pack
 1 Urborg, Tomb of Yawgmoth
-1 Vessel of Nascency
 1 Castle Garenbrig
 1 Emrakul, the Promised End
+1 Vessel of Nascency
 2 Vessel of Nascency
 3 Liliana, the Last Hope
 3 Tireless Tracker
 4 Fatal Push
-1 Duskwatch Recruiter
-1 Elvish Visionary
-1 Plaguecrafter
-1 Liliana, Heretical Healer
 1 Westvale Abbey
+1 Elvish Visionary
+1 Collected Company
+1 Duskwatch Recruiter
+1 Liliana, Heretical Healer
+1 Plaguecrafter
 1 Zulaport Cutthroat
 1 Nantuko Husk
-1 Collected Company
 1 Blisterpod
 1 Catacomb Sifter
+2 Collected Company
 2 Duskwatch Recruiter
 2 Westvale Abbey
 2 Zulaport Cutthroat
@@ -178,69 +167,74 @@
 2 Elvish Visionary
 2 Catacomb Sifter
 2 Liliana, Heretical Healer
-2 Collected Company
-3 Duskwatch Recruiter
 3 Collected Company
+3 Duskwatch Recruiter
 3 Catacomb Sifter
 3 Blisterpod
 3 Nantuko Husk
-3 Zulaport Cutthroat
 3 Elvish Visionary
+3 Zulaport Cutthroat
 4 Collected Company
 4 Catacomb Sifter
 4 Zulaport Cutthroat
 4 Nantuko Husk
 4 Elvish Visionary
 4 Duskwatch Recruiter
+1 Gather the Pack
+2 Gather the Pack
+3 Gather the Pack
+4 Questing Beast
+4 Gather the Pack
+4 Rhonas the Indomitable
 1 Glorybringer
+1 Satyr Wayfinder
 1 Den Protector
 1 Nightveil Predator
-1 Satyr Wayfinder
 1 Hazoret the Fervent
-2 Nightveil Predator
 2 Satyr Wayfinder
+2 Nightveil Predator
 3 Satyr Wayfinder
 3 Deathrite Shaman
 4 Deathrite Shaman
 4 Satyr Wayfinder
 1 Collective Brutality
 1 Ghor-Clan Rampager
-2 Chromanticore
 2 Collective Brutality
 2 Bomat Courier
-3 Chromanticore
+2 Chromanticore
 3 Bomat Courier
+3 Chromanticore
 4 Traverse the Ulvenwald
-5 Swamp
-1 Steel Leaf Champion
-1 Yorvo, Lord of Garenbrig
-1 Aspect of Hydra
-1 Dryad Militant
 1 Driven / Despair
 1 Blossoming Defense
-1 Syr Faren, the Hengehammer
+1 Dryad Militant
+1 Yorvo, Lord of Garenbrig
+1 Steel Leaf Champion
 1 Avatar of the Resolute
+1 Syr Faren, the Hengehammer
+1 Aspect of Hydra
 1 Barkhide Troll
-2 Steel Leaf Champion
-2 Yorvo, Lord of Garenbrig
-2 Aspect of Hydra
-2 Dryad Militant
 2 Blossoming Defense
+2 Dryad Militant
+2 Yorvo, Lord of Garenbrig
+2 Steel Leaf Champion
+2 Avatar of the Resolute
 2 Syr Faren, the Hengehammer
 2 Driven / Despair
-2 Avatar of the Resolute
 2 Barkhide Troll
-3 Steel Leaf Champion
-3 Dryad Militant
-3 Aspect of Hydra
-3 Blossoming Defense
-3 Avatar of the Resolute
-3 Barkhide Troll
+2 Aspect of Hydra
 3 Hashep Oasis
-4 Steel Leaf Champion
-4 Aspect of Hydra
-4 Dryad Militant
+3 Dryad Militant
+3 Steel Leaf Champion
+3 Avatar of the Resolute
+3 Aspect of Hydra
+3 Barkhide Troll
+3 Blossoming Defense
 4 Blossoming Defense
+4 Steel Leaf Champion
+4 Dryad Militant
 4 Avatar of the Resolute
 4 Barkhide Troll
+4 Aspect of Hydra
 9 Forest
+5 Swamp

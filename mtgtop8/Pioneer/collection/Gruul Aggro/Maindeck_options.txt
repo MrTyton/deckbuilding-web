@@ -29,40 +29,12 @@
 1 Collision / Colossus
 1 Magma Spray
 2 Magma Spray
+3 Vine Mare
 1 Rhonas the Indomitable
 1 Scavenging Ooze
 2 Scavenging Ooze
 2 Rhonas the Indomitable
 3 Scavenging Ooze
-3 Vine Mare
-1 Burning-Tree Emissary
-2 Burning-Tree Emissary
-3 Burning-Tree Emissary
-4 Burning-Tree Emissary
-10 Forest
-1 Zhur-Taa Goblin
-1 Voltaic Brawler
-1 Gruul Spellbreaker
-1 Experiment One
-1 Pelt Collector
-1 Domri Rade
-1 Castle Embereth
-2 Zhur-Taa Goblin
-2 Voltaic Brawler
-2 Gruul Spellbreaker
-2 Experiment One
-2 Pelt Collector
-3 Voltaic Brawler
-3 Gruul Spellbreaker
-3 Zhur-Taa Goblin
-3 Experiment One
-3 Pelt Collector
-4 Ghor-Clan Rampager
-4 Voltaic Brawler
-4 Gruul Spellbreaker
-4 Experiment One
-4 Pelt Collector
-4 Zhur-Taa Goblin
 1 Captain Lannery Storm
 1 Kiora, Behemoth Beckoner
 1 Gilded Goose
@@ -82,6 +54,7 @@
 3 Possibility Storm
 4 Captain Lannery Storm
 4 Possibility Storm
+10 Forest
 1 Castle Garenbrig
 1 Nissa's Pilgrimage
 1 Sanctum of Ugin
@@ -89,76 +62,103 @@
 1 Ulamog, the Ceaseless Hunger
 1 Oblivion Sower
 1 World Breaker
-1 Kozilek's Return
 1 Explosive Vegetation
+1 Kozilek's Return
+1 Sylvan Scrying
 1 Omnath, Locus of Rage
 1 Arboreal Grazer
-1 Sylvan Scrying
 1 Ugin, the Spirit Dragon
 2 Ugin, the Spirit Dragon
-2 Sanctum of Ugin
-2 Nissa's Pilgrimage
 2 World Breaker
+2 Nissa's Pilgrimage
+2 Sanctum of Ugin
 2 Castle Garenbrig
 2 Oblivion Sower
 2 Explosive Vegetation
-2 Whisperwood Elemental
+2 Sylvan Scrying
 2 Ulamog, the Ceaseless Hunger
 2 Kozilek's Return
-2 Sylvan Scrying
+2 Whisperwood Elemental
 2 Arboreal Grazer
 2 Omnath, Locus of Rage
 3 Nissa's Pilgrimage
 3 Castle Garenbrig
 3 World Breaker
-3 Sanctum of Ugin
+3 Sylvan Scrying
 3 Oblivion Sower
 3 Explosive Vegetation
+3 Sanctum of Ugin
 3 Kozilek's Return
 3 Arboreal Grazer
 3 Whisperwood Elemental
-3 Sylvan Scrying
 4 Nissa's Pilgrimage
 4 Castle Garenbrig
 4 Explosive Vegetation
 4 Kozilek's Return
+1 Burning-Tree Emissary
+2 Burning-Tree Emissary
+3 Burning-Tree Emissary
+4 Burning-Tree Emissary
 1 Legion Loyalist
 1 Bomat Courier
 1 Reckless Bushwhacker
-1 Zurgo Bellstriker
-1 Become Immense
 1 Atarka's Command
+1 Zurgo Bellstriker
 1 Inventor's Apprentice
 1 Gingerbrute
 1 Spire of Industry
 1 Hope of Ghirapur
 1 Monastery Swiftspear
+1 Become Immense
+2 Become Immense
 2 Legion Loyalist
 2 Reckless Bushwhacker
 2 Bomat Courier
 2 Atarka's Command
-2 Become Immense
+2 Gingerbrute
 2 Mana Confluence
-2 Inventor's Apprentice
 2 Hope of Ghirapur
 2 Monastery Swiftspear
 2 Spire of Industry
-2 Gingerbrute
+2 Inventor's Apprentice
 3 Legion Loyalist
 3 Mana Confluence
 3 Reckless Bushwhacker
 3 Bomat Courier
 3 Atarka's Command
-3 Inventor's Apprentice
 3 Gingerbrute
 3 Spire of Industry
 3 Monastery Swiftspear
+3 Inventor's Apprentice
 4 Legion Loyalist
 4 Mana Confluence
-4 Inventor's Apprentice
 4 Atarka's Command
 4 Reckless Bushwhacker
-4 Bomat Courier
-4 Monastery Swiftspear
 4 Spire of Industry
 4 Gingerbrute
+4 Bomat Courier
+4 Monastery Swiftspear
+4 Inventor's Apprentice
+1 Experiment One
+1 Pelt Collector
+1 Voltaic Brawler
+1 Zhur-Taa Goblin
+1 Domri Rade
+1 Castle Embereth
+1 Gruul Spellbreaker
+2 Experiment One
+2 Pelt Collector
+2 Voltaic Brawler
+2 Gruul Spellbreaker
+2 Zhur-Taa Goblin
+3 Experiment One
+3 Pelt Collector
+3 Zhur-Taa Goblin
+3 Gruul Spellbreaker
+3 Voltaic Brawler
+4 Experiment One
+4 Pelt Collector
+4 Ghor-Clan Rampager
+4 Voltaic Brawler
+4 Zhur-Taa Goblin
+4 Gruul Spellbreaker

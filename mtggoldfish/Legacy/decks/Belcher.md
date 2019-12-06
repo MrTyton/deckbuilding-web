@@ -32,16 +32,22 @@
 
 # Other Options
 
-|*n*<sup>th</sup> copy|                                      Maindeck Card                                      |*n*<sup>th</sup> copy|                                       Sideboard Card                                        |
-|--------------------:|-----------------------------------------------------------------------------------------|--------------------:|---------------------------------------------------------------------------------------------|
-|                    1|[Pyretic Ritual](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205067)|                    1|[Diminishing Returns](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=15363)|
-|                    2|[Pyretic Ritual](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205067)|                    1|[Autumn's Veil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205051)     |
-|                    3|[Manamorphose](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370568)  |                    2|[Autumn's Veil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205051)     |
-|                    3|[Pyretic Ritual](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205067)|                    1|[Xantid Swarm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413735)      |
-|                    4|[Manamorphose](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370568)  |                    1|[Gamble](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413674)            |
-|                    4|[Pyretic Ritual](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205067)|                    1|[Reforge the Soul](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278256)  |
-|                     |                                                                                         |                    1|[Bribery](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45279)            |
-|                     |                                                                                         |                    3|[Xantid Swarm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413735)      |
-|                     |                                                                                         |                    4|[Xantid Swarm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413735)      |
-|                     |                                                                                         |                    2|[Xantid Swarm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413735)      |
+|*n*<sup>th</sup> copy|                                      Maindeck Card                                       |*n*<sup>th</sup> copy|                                       Sideboard Card                                        |
+|--------------------:|------------------------------------------------------------------------------------------|--------------------:|---------------------------------------------------------------------------------------------|
+|                    1|[Pyretic Ritual](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205067) |                    1|[Diminishing Returns](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=15363)|
+|                    2|[Pyretic Ritual](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205067) |                    1|[Autumn's Veil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205051)     |
+|                    3|[Manamorphose](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370568)   |                    2|[Autumn's Veil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205051)     |
+|                    3|[Pyretic Ritual](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205067) |                    1|[Gamble](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413674)            |
+|                    4|[Manamorphose](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370568)   |                    1|[Xantid Swarm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413735)      |
+|                    4|[Pyretic Ritual](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205067) |                    1|[Reforge the Soul](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278256)  |
+|                    1|[Stomping Ground](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405110)|                    1|[Hull Breach](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376367)       |
+|                    1|[Dark Ritual](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=651)       |                    1|[Reanimate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220576)         |
+|                    1|[Cabal Ritual](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=30564)    |                    1|[Chain Lightning](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446139)   |
+|                    2|[Dark Ritual](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=651)       |                    1|[Grapeshot](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426588)         |
+|                    3|[Dark Ritual](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=651)       |                    1|[Pyroblast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=4083)           |
+|                    4|[Dark Ritual](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=651)       |                    1|[Past in Flames](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420748)    |
+|                    1|[Bayou](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=879)             |                    1|[Bribery](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45279)            |
+|                     |                                                                                          |                    3|[Xantid Swarm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413735)      |
+|                     |                                                                                          |                    4|[Xantid Swarm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413735)      |
+|                     |                                                                                          |                    2|[Xantid Swarm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413735)      |
 

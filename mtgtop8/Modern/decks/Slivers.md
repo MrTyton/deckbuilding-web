@@ -1,7 +1,7 @@
 # Slivers
 
 #### [Export MTGO List](../collection/Slivers/Slivers.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Aether%20Vial%0A1%09Breeding%20Pool%0A4%09Cavern%20of%20Souls%0A4%09Cloudshredder%20Sliver%0A3%09Collected%20Company%0A3%09Diffusion%20Sliver%0A1%09Dregscape%20Sliver%0A1%09Forest%0A3%09Galerider%20Sliver%0A2%09Ghost%20Quarter%0A1%09Godless%20Shrine%0A2%09Leeching%20Sliver%0A4%09Manaweft%20Sliver%0A2%09Mutavault%0A2%09Necrotic%20Sliver%0A1%09Overgrown%20Tomb%0A1%09Polluted%20Delta%0A4%09Predatory%20Sliver%0A4%09Sedge%20Sliver%0A4%09Sinew%20Sliver%0A4%09Sliver%20Hive%0A2%09Striking%20Sliver%0A1%09Swamp%0A2%09Verdant%20Catacombs&deckside=2%09Chalice%20of%20the%20Void%0A2%09Damping%20Matrix%0A2%09Damping%20Sphere%0A1%09Darkheart%20Sliver%0A2%09Dismember%0A3%09Harmonic%20Sliver%0A2%09Surgical%20Extraction%0A1%09Syphon%20Sliver)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Aether%20Vial%0A1%09Breeding%20Pool%0A4%09Cavern%20of%20Souls%0A4%09Cloudshredder%20Sliver%0A3%09Collected%20Company%0A3%09Diffusion%20Sliver%0A1%09Dregscape%20Sliver%0A1%09Forest%0A3%09Galerider%20Sliver%0A2%09Ghost%20Quarter%0A1%09Godless%20Shrine%0A2%09Leeching%20Sliver%0A4%09Manaweft%20Sliver%0A2%09Mutavault%0A2%09Necrotic%20Sliver%0A1%09Overgrown%20Tomb%0A1%09Polluted%20Delta%0A4%09Predatory%20Sliver%0A4%09Sedge%20Sliver%0A4%09Sinew%20Sliver%0A4%09Sliver%20Hive%0A2%09Striking%20Sliver%0A1%09Swamp%0A2%09Verdant%20Catacombs&deckside=1%09Darkheart%20Sliver%0A1%09Diffusion%20Sliver%0A2%09Frenetic%20Sliver%0A3%09Harmonic%20Sliver%0A2%09Phyrexian%20Revoker%0A1%09Spellskite%0A2%09Syphon%20Sliver%0A1%09Unsettled%20Mariner%0A2%09Warping%20Wail)
 # Maindeck
 
 |                                     Artifact (4)                                      |                                          Creature (33)                                          |                                         Instant (3)                                          |                                          Land (20)                                           |
@@ -21,25 +21,30 @@
 
 # Sideboard
 
-|                                          Artifact (6)                                          |                                        Creature (5)                                         |                                          Instant (4)                                           |
-|------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
-|2 [Chalice of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442211)|1 [Darkheart Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=126012)|2 [Dismember](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382182)          |
-|2 [Damping Matrix](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426043)     |3 [Harmonic Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=109706) |2 [Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|
-|2 [Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)     |1 [Syphon Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370752)   |                                                                                                |
+|                                        Creature (13)                                         |                                       Instant (2)                                       |
+|----------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
+|1 [Darkheart Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=126012) |2 [Warping Wail](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407522)|
+|1 [Diffusion Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383225) |                                                                                         |
+|2 [Frenetic Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=126011)  |                                                                                         |
+|3 [Harmonic Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=109706)  |                                                                                         |
+|2 [Phyrexian Revoker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383343)|                                                                                         |
+|1 [Spellskite](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397743)       |                                                                                         |
+|2 [Syphon Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370752)    |                                                                                         |
+|1 [Unsettled Mariner](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464165)|                                                                                         |
 
 
 # Other Options
 
-|*n*<sup>th</sup> copy|                                       Maindeck Card                                        |*n*<sup>th</sup> copy|                                       Sideboard Card                                       |
-|--------------------:|--------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------|
-|                    1|[Temple Garden](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405112)    |                    1|[Unsettled Mariner](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464165)|
-|                    1|[Blood Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=97102)       |                    1|[Warping Wail](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407522)     |
-|                    3|[Verdant Catacombs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405113)|                    1|[Phyrexian Revoker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383343)|
-|                    3|[Leeching Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383297)  |                    1|[Diffusion Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383225) |
-|                    4|[Verdant Catacombs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405113)|                    1|[Spellskite](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397743)       |
-|                    4|[Galerider Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370590) |                    1|[Frenetic Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=126011)  |
-|                     |                                                                                            |                    2|[Phyrexian Revoker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383343)|
-|                     |                                                                                            |                    2|[Syphon Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370752)    |
-|                     |                                                                                            |                    2|[Warping Wail](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407522)     |
-|                     |                                                                                            |                    2|[Frenetic Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=126011)  |
+|*n*<sup>th</sup> copy|                                       Maindeck Card                                        |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
+|--------------------:|--------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
+|                    1|[Temple Garden](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405112)    |                    1|[Damping Matrix](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426043)     |
+|                    1|[Blood Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=97102)       |                    1|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|
+|                    3|[Verdant Catacombs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405113)|                    1|[Dismember](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382182)          |
+|                    3|[Leeching Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383297)  |                    1|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)     |
+|                    4|[Verdant Catacombs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405113)|                    1|[Chalice of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442211)|
+|                    4|[Galerider Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370590) |                    2|[Chalice of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442211)|
+|                     |                                                                                            |                    2|[Dismember](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382182)          |
+|                     |                                                                                            |                    2|[Damping Matrix](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426043)     |
+|                     |                                                                                            |                    2|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|
+|                     |                                                                                            |                    2|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)     |
 

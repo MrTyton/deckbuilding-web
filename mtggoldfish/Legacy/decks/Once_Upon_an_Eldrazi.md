@@ -25,3 +25,11 @@
 |2 [Thorn of Amethyst](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=140166) |2 [Orzhov Pontiff](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460469)               |                                                                                          |3 [Swords to Plowshares](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=869)|
 |                                                                                               |1 [Tomik, Distinguished Advokist](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460961)|                                                                                          |                                                                                              |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                  Maindeck Card                                  |*n*<sup>th</sup> copy|Sideboard Card|
+|--------------------:|---------------------------------------------------------------------------------|---------------------|--------------|
+|                    2|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)|                     |              |
+|                    1|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)|                     |              |
+

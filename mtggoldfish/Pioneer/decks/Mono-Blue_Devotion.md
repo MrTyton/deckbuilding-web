@@ -1,7 +1,7 @@
 # Mono-Blue Devotion
 
 #### [Export MTGO List](../collection/Mono-Blue%20Devotion/Mono-Blue%20Devotion.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=2%09Brazen%20Borrower%0A1%09Castle%20Vantress%0A4%09Cloudfin%20Raptor%0A4%09Curious%20Obsession%0A2%09Gadwick,%20the%20Wizened%0A4%09Harbinger%20of%20the%20Tides%0A21%09Island%0A4%09Master%20of%20Waves%0A4%09Merfolk%20Trickster%0A4%09Siren%20Stormtamer%0A4%09Tempest%20Djinn%0A2%09Thassa,%20God%20of%20the%20Sea%0A4%09Wizard's%20Retort&deckside=3%09Aether%20Gust%0A1%09Ashiok,%20Dream%20Render%0A3%09Entrancing%20Melody%0A3%09Mystical%20Dispute%0A3%09Negate%0A2%09Spell%20Pierce)
+#### [Print on decklist.org](http://decklist.org/?deckmain=2%09Brazen%20Borrower%0A1%09Castle%20Vantress%0A4%09Cloudfin%20Raptor%0A4%09Curious%20Obsession%0A2%09Gadwick,%20the%20Wizened%0A4%09Harbinger%20of%20the%20Tides%0A21%09Island%0A4%09Master%20of%20Waves%0A4%09Merfolk%20Trickster%0A4%09Siren%20Stormtamer%0A4%09Tempest%20Djinn%0A2%09Thassa,%20God%20of%20the%20Sea%0A4%09Wizard's%20Retort&deckside=3%09Aether%20Gust%0A3%09Entrancing%20Melody%0A3%09Mystical%20Dispute%0A3%09Negate%0A2%09Spell%20Pierce%0A1%09Take%20into%20Custody)
 # Maindeck
 
 |                                           Creature (30)                                           |                                       Enchantment (4)                                        |                                        Instant (4)                                         |                                         Land (22)                                          |
@@ -19,34 +19,27 @@
 
 # Sideboard
 
-|                                        Instant (11)                                         |                                        Planeswalker (1)                                         |                                         Sorcery (3)                                          |
-|---------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
-|3 [Aether Gust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466796)     |1 [Ashiok, Dream Render](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461155)|3 [Entrancing Melody](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435207)|
-|3 [Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)|                                                                                                 |                                                                                              |
-|3 [Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)          |                                                                                                 |                                                                                              |
-|2 [Spell Pierce](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425876)    |                                                                                                 |                                                                                              |
+|                                         Instant (12)                                         |                                         Sorcery (3)                                          |
+|----------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
+|3 [Aether Gust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466796)      |3 [Entrancing Melody](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435207)|
+|3 [Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020) |                                                                                              |
+|3 [Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)           |                                                                                              |
+|2 [Spell Pierce](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425876)     |                                                                                              |
+|1 [Take into Custody](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423714)|                                                                                              |
 
 
 # Other Options
 
-|*n*<sup>th</sup> copy|                                          Maindeck Card                                          |*n*<sup>th</sup> copy|                                           Sideboard Card                                            |
-|--------------------:|-------------------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------------------|
-|                    2|[Castle Vantress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473204)       |                    2|[Ashiok, Dream Render](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461155)      |
-|                    1|[Tidebinder Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438462)       |                    4|[Aether Gust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466796)               |
-|                    1|[Treasure Cruise](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420718)       |                    1|[Jace, Memory Adept](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=238263)        |
-|                    1|[Nykthos, Shrine to Nyx](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373713)|                    1|[Tidebinder Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438462)           |
-|                    1|[Mausoleum Wanderer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414364)    |                    2|[Tidebinder Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438462)           |
-|                    1|[Smuggler's Copter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417808)     |                    2|[Jace, Memory Adept](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=238263)        |
-|                    2|[Mausoleum Wanderer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414364)    |                    1|[Take into Custody](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423714)         |
-|                    2|[Smuggler's Copter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417808)     |                    2|[Take into Custody](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423714)         |
-|                    2|[Nykthos, Shrine to Nyx](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373713)|                    4|[Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)                    |
-|                    3|[Brazen Borrower](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473001)       |                    4|[Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)          |
-|                    3|[Smuggler's Copter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417808)     |                    1|[Jace, Architect of Thought](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=380190)|
-|                    3|[Gadwick, the Wizened](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473010)  |                    1|[Narset, Parter of Veils](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460988)   |
-|                    3|[Thassa, God of the Sea](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373535)|                    1|[Bident of Thassa](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442031)          |
-|                    3|[Nykthos, Shrine to Nyx](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373713)|                    2|[Narset, Parter of Veils](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460988)   |
-|                    4|[Smuggler's Copter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417808)     |                    3|[Ashiok, Dream Render](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461155)      |
-|                    4|[Thassa, God of the Sea](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373535)|                    3|[Narset, Parter of Veils](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460988)   |
-|                    4|[Brazen Borrower](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473001)       |                    3|[Tidebinder Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438462)           |
-|                    4|[Gadwick, the Wizened](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473010)  |                    4|[Tidebinder Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438462)           |
+|*n*<sup>th</sup> copy|                                      Maindeck Card                                       |*n*<sup>th</sup> copy|                                        Sideboard Card                                         |
+|--------------------:|------------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------------|
+|                    1|[Treasure Cruise](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420718)|                    2|[Take into Custody](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423714)   |
+|                    2|[Castle Vantress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473204)|                    4|[Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)    |
+|                    1|[Tidebinder Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438462)|                    4|[Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)              |
+|                     |                                                                                          |                    4|[Aether Gust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466796)         |
+|                     |                                                                                          |                    1|[Jace, Memory Adept](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=238263)  |
+|                     |                                                                                          |                    1|[Ashiok, Dream Render](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461155)|
+|                     |                                                                                          |                    2|[Ashiok, Dream Render](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461155)|
+|                     |                                                                                          |                    1|[Tidebinder Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438462)     |
+|                     |                                                                                          |                    2|[Tidebinder Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438462)     |
+|                     |                                                                                          |                    2|[Jace, Memory Adept](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=238263)  |
 

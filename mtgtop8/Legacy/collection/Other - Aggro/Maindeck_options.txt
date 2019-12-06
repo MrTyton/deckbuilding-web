@@ -34,7 +34,6 @@
 1 Hypnotic Sprite
 1 Supreme Phantom
 1 Drogskol Captain
-2 Cavern of Souls
 2 Fiery Islet
 2 Spell Queller
 2 Rattlechains
@@ -42,6 +41,7 @@
 2 Spirit of the Labyrinth
 2 Unsettled Mariner
 2 Mausoleum Wanderer
+2 Cavern of Souls
 2 Drogskol Captain
 3 Cavern of Souls
 3 Drogskol Captain
@@ -86,8 +86,8 @@
 1 Oko, Thief of Crowns
 1 Misty Rainforest
 1 Tropical Island
-1 Ice-Fang Coatl
 1 Gilded Goose
+1 Ice-Fang Coatl
 1 Courser of Kruphix
 1 Dryad Arbor
 1 Snow-Covered Forest
@@ -110,8 +110,8 @@
 3 Oko, Thief of Crowns
 3 Misty Rainforest
 3 Courser of Kruphix
-3 Brazen Borrower
 3 Wasteland
+3 Brazen Borrower
 3 Green Sun's Zenith
 3 Noble Hierarch
 4 Tropical Island
@@ -138,7 +138,6 @@
 1 Voice of Resurgence
 1 Forest
 1 Druid's Deliverance
-2 Karakas
 2 Plains
 2 Elvish Spirit Guide
 2 Sylvan Library
@@ -150,6 +149,7 @@
 2 Sundering Growth
 2 Call of the Conclave
 2 Mana Tithe
+2 Karakas
 2 Voice of Resurgence
 2 Rhonas's Last Stand
 3 Plains
@@ -173,17 +173,17 @@
 4 Druid's Deliverance
 5 Forest
 1 Charming Prince
+1 Chrome Mox
 1 Palace Jailer
+1 Remorseful Cleric
 1 Marsh Flats
 1 Scrubland
 1 True-Name Nemesis
-1 Remorseful Cleric
 1 Recruiter of the Guard
 1 Meddling Mage
 1 Weathered Wayfarer
 1 Flickerwisp
 1 Leonin Relic-Warder
-1 Chrome Mox
 1 Soulherder
 2 Marsh Flats
 2 True-Name Nemesis
@@ -193,6 +193,6 @@
 3 Recruiter of the Guard
 3 Meddling Mage
 3 Mother of Runes
-4 Meddling Mage
 4 Mother of Runes
+4 Meddling Mage
 4 Recruiter of the Guard

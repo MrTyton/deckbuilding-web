@@ -1,5 +1,4 @@
 2 Ghost Quarter
-3 Walking Ballista
 2 Mind Stone
 2 Cavern of Souls
 1 Once Upon a Time
@@ -22,25 +21,11 @@
 3 Oko, Thief of Crowns
 4 Noble Hierarch
 4 Ancient Stirrings
+3 Walking Ballista
 1 Elder Deep-Fiend
 1 Sanctum of Ugin
 2 Elder Deep-Fiend
 3 Elder Deep-Fiend
-1 Forest
-3 Cavern of Souls
-1 Serum Powder
-1 Eternal Scourge
-2 Serum Powder
-2 Eternal Scourge
-3 Dismember
-3 Serum Powder
-3 Eternal Scourge
-4 Eternal Scourge
-4 Serum Powder
-1 Spatial Contortion
-1 Sea Gate Wreckage
-1 Adarkar Wastes
-2 Adarkar Wastes
 1 Stubborn Denial
 1 World Breaker
 1 Snow-Covered Forest
@@ -56,6 +41,21 @@
 3 Misty Rainforest
 3 Prismatic Vista
 4 Yavimaya Coast
+1 Forest
+3 Cavern of Souls
+1 Serum Powder
+1 Eternal Scourge
+2 Serum Powder
+2 Eternal Scourge
+3 Dismember
+3 Serum Powder
+3 Eternal Scourge
+4 Eternal Scourge
+4 Serum Powder
+1 Spatial Contortion
+1 Sea Gate Wreckage
+1 Adarkar Wastes
+2 Adarkar Wastes
 1 Eldrazi Skyspawner
 1 Island
 1 Unclaimed Territory
@@ -99,24 +99,24 @@
 4 Path to Exile
 4 Windswept Heath
 4 Eldrazi Displacer
-1 Eldrazi Mimic
-1 Endless One
 1 Simian Spirit Guide
 1 Mutavault
+1 Eldrazi Mimic
 1 Zhalfirin Void
-2 Eldrazi Mimic
+1 Endless One
 2 Zhalfirin Void
 2 Mutavault
 2 Forest
 2 Simian Spirit Guide
-3 Eldrazi Mimic
+2 Eldrazi Mimic
 3 Zhalfirin Void
+3 Eldrazi Mimic
 3 Forest
 3 Mutavault
 3 Simian Spirit Guide
-4 Eldrazi Mimic
 4 Dismember
 4 Forest
+4 Eldrazi Mimic
 4 Simian Spirit Guide
 5 Forest
 4 Zhalfirin Void

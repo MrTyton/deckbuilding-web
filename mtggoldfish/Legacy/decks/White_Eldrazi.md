@@ -24,3 +24,12 @@
 |1 [Umezawa's Jitte](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=81979)|2 [Faerie Macabre](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=201822)|3 [Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)|3 [Celestial Purge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=183055)  |3 [Council's Judgment](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382239)|
 |                                                                                           |                                                                                           |                                                                                          |3 [Swords to Plowshares](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=869)|                                                                                               |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                      Maindeck Card                                       |*n*<sup>th</sup> copy|                                          Sideboard Card                                           |
+|--------------------:|------------------------------------------------------------------------------------------|--------------------:|---------------------------------------------------------------------------------------------------|
+|                    2|[Reality Smasher](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407517)|                    1|[Walking Ballista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423848)        |
+|                    3|[Karakas](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413782)        |                    1|[Gideon, Ally of Zendikar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401897)|
+|                    1|[Reality Smasher](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407517)|                    1|[Mirran Crusader](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=213802)         |
+
