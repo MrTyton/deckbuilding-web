@@ -5,23 +5,12 @@
 1 Light Up the Stage
 2 Light Up the Stage
 1 Soul-Scar Mage
-1 Crash Through
 1 Lava Dart
-1 Manamorphose
-1 Bedlam Reveler
-2 Bedlam Reveler
 2 Lava Dart
-2 Manamorphose
 2 Soul-Scar Mage
-2 Crash Through
 3 Light Up the Stage
-3 Manamorphose
-3 Bedlam Reveler
 3 Soul-Scar Mage
-3 Crash Through
 3 Lava Dart
-4 Manamorphose
-4 Crash Through
 4 Mountain
 4 Soul-Scar Mage
 4 Light Up the Stage
@@ -31,12 +20,23 @@
 8 Mountain
 9 Mountain
 10 Mountain
-3 Wooded Foothills
 4 Lava Dart
 11 Mountain
 12 Mountain
 13 Mountain
 14 Mountain
+1 Crash Through
+1 Manamorphose
+1 Bedlam Reveler
+2 Bedlam Reveler
+2 Manamorphose
+2 Crash Through
+3 Manamorphose
+3 Bedlam Reveler
+3 Crash Through
+4 Manamorphose
+4 Crash Through
+3 Wooded Foothills
 2 Scalding Tarn
 3 Scalding Tarn
 3 Arid Mesa
@@ -45,6 +45,7 @@
 3 Kiln Fiend
 2 Fiery Islet
 1 Burst Lightning
+15 Mountain
 1 Snow-Covered Mountain
 4 Arid Mesa
 4 Bloodstained Mire
@@ -57,7 +58,6 @@
 4 Burst Lightning
 4 Bedlam Reveler
 3 Fiery Islet
-15 Mountain
 1 Thunderous Wrath
 1 Steam Vents
 1 Shard Volley
@@ -72,6 +72,10 @@
 1 Abrade
 2 Abrade
 3 Abrade
+1 Seal of Fire
+2 Seal of Fire
+3 Seal of Fire
+4 Seal of Fire
 1 Mutagenic Growth
 1 Warlord's Fury
 2 Warlord's Fury

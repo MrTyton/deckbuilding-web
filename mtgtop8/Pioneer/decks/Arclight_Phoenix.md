@@ -70,7 +70,7 @@
 |                     |                                                                                                     |                    1|[Chandra, Awakened Inferno](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466881) |
 |                     |                                                                                                     |                    1|[Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)            |
 |                     |                                                                                                     |                    2|[Chandra, Awakened Inferno](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466881) |
-|                     |                                                                                                     |                    3|[Flame Sweep](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466893)               |
 |                     |                                                                                                     |                    3|[Spell Pierce](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425876)              |
+|                     |                                                                                                     |                    3|[Flame Sweep](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466893)               |
 |                     |                                                                                                     |                    2|[Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)            |
 
