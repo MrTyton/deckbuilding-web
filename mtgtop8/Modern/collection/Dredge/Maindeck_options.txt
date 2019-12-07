@@ -10,7 +10,6 @@
 1 Blood Crypt
 1 Golgari Thug
 1 Shriekhorn
-1 Mountain
 1 Cathartic Reunion
 1 Stinkweed Imp
 2 Forgotten Cave
@@ -35,12 +34,15 @@
 2 Merchant of the Vale
 3 Copperline Gorge
 3 Merchant of the Vale
+1 Mountain
 1 Gemstone Mine
 1 City of Brass
 3 Forgotten Cave
 1 Once Upon a Time
 1 Memory Sluice
 2 Memory Sluice
+1 Scalding Tarn
+2 Scalding Tarn
 2 Marsh Flats
 1 Darkslick Shores
 1 Haunted Dead
@@ -49,16 +51,15 @@
 2 Gurmag Angler
 3 Gurmag Angler
 4 Watery Grave
-1 Scalding Tarn
-2 Scalding Tarn
 3 Scalding Tarn
 1 Wooded Foothills
 2 Wooded Foothills
-3 Wooded Foothills
 2 Darkslick Shores
-3 Golgari Thug
 1 Darkblast
+3 Golgari Thug
+1 Arid Mesa
 1 Driven / Despair
+3 Wooded Foothills
 2 Once Upon a Time
 4 Marsh Flats
 3 Memory Sluice
@@ -70,7 +71,6 @@
 3 Grisly Salvage
 4 Once Upon a Time
 4 Grisly Salvage
-1 Arid Mesa
 4 Scalding Tarn
 2 City of Brass
 2 Haunted Dead
@@ -78,11 +78,13 @@
 4 Carrion Feeder
 1 Snow-Covered Swamp
 1 Forest
+1 Snow-Covered Mountain
 1 Skaab Ruinator
 1 Fatestitcher
 2 Gemstone Mine
 2 Arid Mesa
 3 Arid Mesa
+4 Wooded Foothills
 4 Copperline Gorge
 1 Tome Scour
 1 Steam Vents
@@ -91,4 +93,3 @@
 3 City of Brass
 3 Tome Scour
 4 Tome Scour
-4 Wooded Foothills

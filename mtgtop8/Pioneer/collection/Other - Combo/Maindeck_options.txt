@@ -1,3 +1,5 @@
+1 Stomping Ground
+1 Attune with Aether
 1 Rogue Refiner
 1 Ulamog, the Ceaseless Hunger
 1 Whirler Virtuoso
@@ -11,11 +13,11 @@
 2 Stomping Ground
 2 Rogue Refiner
 2 Attune with Aether
-2 Ulamog, the Ceaseless Hunger
 2 Woodweaver's Puzzleknot
-2 Whirler Virtuoso
-2 Harnessed Lightning
 2 Aetherworks Marvel
+2 Whirler Virtuoso
+2 Ulamog, the Ceaseless Hunger
+2 Harnessed Lightning
 2 Aether Hub
 3 Attune with Aether
 3 Forest
@@ -27,11 +29,9 @@
 4 Attune with Aether
 4 Rogue Refiner
 4 Woodweaver's Puzzleknot
-4 Harnessed Lightning
 4 Aetherworks Marvel
+4 Harnessed Lightning
 4 Aether Hub
-1 Yavimaya Coast
-4 Growth Spiral
 1 Servant of the Conduit
 2 Servant of the Conduit
 3 Servant of the Conduit
@@ -46,14 +46,6 @@
 4 Steam Vents
 1 Finale of Revelation
 1 Blast Zone
-1 Vessel of Nascency
-1 Hour of Devastation
-2 Vessel of Nascency
-2 Hour of Devastation
-3 Hour of Devastation
-3 Vessel of Nascency
-3 Emrakul, the Promised End
-4 Hour of Devastation
 1 Shrine of the Forsaken Gods
 1 Golos, Tireless Pilgrim
 1 World Breaker
@@ -67,26 +59,34 @@
 3 Kozilek's Return
 3 Glassblower's Puzzleknot
 4 Kozilek's Return
+1 Vessel of Nascency
+1 Hour of Devastation
+2 Vessel of Nascency
+2 Hour of Devastation
+3 Hour of Devastation
+3 Vessel of Nascency
+3 Emrakul, the Promised End
+4 Hour of Devastation
 1 Temple Garden
 1 Ugin, the Ineffable
-1 Ugin, the Spirit Dragon
 1 Nahiri, the Harbinger
 1 Spirebluff Canal
-1 Plains
 1 Tireless Tracker
-2 Nahiri, the Harbinger
+1 Ugin, the Spirit Dragon
+1 Plains
 2 Ugin, the Spirit Dragon
+2 Nahiri, the Harbinger
 3 Nahiri, the Harbinger
 3 Whirler Virtuoso
 4 Whirler Virtuoso
 1 Urborg, Tomb of Yawgmoth
 1 Oko, Thief of Crowns
 1 Hallowed Fountain
-1 Blooming Marsh
 1 Kethis, the Hidden Hand
 1 Teferi, Time Raveler
 1 Emry, Lurker of the Loch
 1 Mox Amber
+1 Blooming Marsh
 1 Hope of Ghirapur
 1 Mana Confluence
 1 Jace, Wielder of Mysteries
@@ -98,21 +98,21 @@
 2 Oko, Thief of Crowns
 2 Kethis, the Hidden Hand
 2 Hallowed Fountain
-2 Blooming Marsh
 2 Mox Amber
 2 Teferi, Time Raveler
 2 Emry, Lurker of the Loch
-2 Hope of Ghirapur
+2 Blooming Marsh
 2 Mana Confluence
+2 Hope of Ghirapur
 2 Diligent Excavator
 2 Oath of Nissa
 2 Lazav, the Multifarious
 2 Temple Garden
 2 Terrarion
 3 Kethis, the Hidden Hand
-3 Blooming Marsh
 3 Hallowed Fountain
 3 Teferi, Time Raveler
+3 Blooming Marsh
 3 Mox Amber
 3 Emry, Lurker of the Loch
 3 Mana Confluence
@@ -121,8 +121,8 @@
 3 Lazav, the Multifarious
 3 Diligent Excavator
 4 Kethis, the Hidden Hand
-4 Blooming Marsh
 4 Hallowed Fountain
+4 Blooming Marsh
 4 Mox Amber
 4 Emry, Lurker of the Loch
 4 Mana Confluence

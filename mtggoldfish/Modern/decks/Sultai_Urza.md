@@ -36,8 +36,8 @@
 |--------------------:|------------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------|
 |                    1|[Talisman of Dominance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430629)|                    1|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)   |
 |                    2|[Talisman of Dominance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430629)|                    2|[Assassin's Trophy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452902)|
-|                    3|[Chromatic Star](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=135279)       |                    3|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)   |
-|                    4|[Chromatic Star](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=135279)       |                    3|[Assassin's Trophy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452902)|
+|                    3|[Chromatic Star](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=135279)       |                    2|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)   |
+|                    4|[Chromatic Star](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=135279)       |                    3|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)   |
 |                     |                                                                                                |                    3|[Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)   |
-|                     |                                                                                                |                    2|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)   |
+|                     |                                                                                                |                    3|[Assassin's Trophy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452902)|
 

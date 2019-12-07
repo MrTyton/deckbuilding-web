@@ -35,8 +35,8 @@
 3 Dig Through Time
 4 Opt
 1 Supreme Verdict
-1 Clifftop Retreat
 1 Detention Sphere
+1 Clifftop Retreat
 1 Sulfur Falls
 2 Detention Sphere
 3 Glacial Fortress
@@ -128,17 +128,35 @@
 1 Shock
 2 Shock
 4 Elvish Mystic
-1 Tithe Taker
+1 Lumbering Falls
+1 Field of the Dead
+1 Risen Reef
+1 Golos, Tireless Pilgrim
+1 Arboreal Grazer
+1 Eldritch Evolution
+1 Overgrown Tomb
+1 Yarok, the Desecrated
+2 Golos, Tireless Pilgrim
+2 Eldritch Evolution
+2 Field of the Dead
+2 Risen Reef
+2 Arboreal Grazer
+3 Eldritch Evolution
+3 Risen Reef
+3 Arboreal Grazer
+4 Voice of Resurgence
+4 Risen Reef
 1 Thraben Inspector
+1 Tithe Taker
 1 Charming Prince
 1 Dusk / Dawn
 1 Field of Ruin
 1 Elite Guardmage
 1 Cloudblazer
-2 Tithe Taker
 2 Thraben Inspector
 2 Plains
 2 Charming Prince
+2 Tithe Taker
 2 Field of Ruin
 2 Dusk / Dawn
 2 Cloudblazer
@@ -152,24 +170,6 @@
 4 Thraben Inspector
 4 Charming Prince
 4 Tithe Taker
-1 Lumbering Falls
-1 Field of the Dead
-1 Eldritch Evolution
-1 Golos, Tireless Pilgrim
-1 Arboreal Grazer
-1 Overgrown Tomb
-1 Risen Reef
-1 Yarok, the Desecrated
-2 Golos, Tireless Pilgrim
-2 Field of the Dead
-2 Arboreal Grazer
-2 Eldritch Evolution
-2 Risen Reef
-3 Eldritch Evolution
-3 Arboreal Grazer
-3 Risen Reef
-4 Voice of Resurgence
-4 Risen Reef
 1 Thrill of Possibility
 1 Lava Coil
 1 Anticipate
@@ -188,13 +188,13 @@
 4 Dig Through Time
 4 Fiery Impulse
 4 Spirebluff Canal
-1 Discovery / Dispersal
 1 Yahenni's Expertise
 1 Urborg, Tomb of Yawgmoth
 1 Languish
 1 Isolated Chapel
 1 Prophetic Prism
 1 Nicol Bolas, Dragon-God
+1 Discovery / Dispersal
 1 Search for Azcanta
 1 Thoughtseize
 1 Teferi, Hero of Dominaria

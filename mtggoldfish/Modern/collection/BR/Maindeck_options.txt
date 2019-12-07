@@ -1,8 +1,6 @@
-1 Burst Lightning
-2 Burst Lightning
-3 Burst Lightning
-4 Burst Lightning
 1 Sulfurous Springs
+6 Mountain
+7 Mountain
 1 Simian Spirit Guide
 2 Simian Spirit Guide
 3 Simian Spirit Guide
@@ -12,11 +10,12 @@
 1 Prismatic Vista
 1 Rampaging Ferocidon
 1 Wastes
-1 Reality Smasher
+1 Keldon Marauders
 1 Eldrazi Temple
 1 Thought-Knot Seer
 1 Marauding Raptor
-1 Keldon Marauders
+1 Burst Lightning
+1 Reality Smasher
 1 Dismember
 1 Ramunap Ruins
 2 Bonecrusher Giant
@@ -25,8 +24,9 @@
 2 Gemstone Caverns
 2 Thought-Knot Seer
 2 Marauding Raptor
-2 Dismember
+2 Burst Lightning
 2 Eldrazi Temple
+2 Dismember
 2 Keldon Marauders
 2 Ramunap Ruins
 2 Rampaging Ferocidon
@@ -34,9 +34,9 @@
 3 Prismatic Vista
 3 Ramunap Ruins
 3 Eldrazi Temple
-3 Keldon Marauders
 3 Rampaging Ferocidon
 3 Reality Smasher
+3 Keldon Marauders
 3 Gemstone Caverns
 3 Thought-Knot Seer
 3 Marauding Raptor
@@ -49,99 +49,38 @@
 4 Eldrazi Temple
 4 Ramunap Ruins
 4 Marauding Raptor
-1 Arid Mesa
 1 Blackcleave Cliffs
 1 Blood Crypt
-1 Bloodstained Mire
 2 Blackcleave Cliffs
-2 Bloodstained Mire
 3 Blackcleave Cliffs
 3 Bloodstained Mire
-1 Fiery Islet
 1 Snow-Covered Mountain
 1 Skullcrack
-1 Skewer the Critics
 1 Searing Blaze
-1 Rift Bolt
 1 Lightning Skelemental
 1 Finale of Promise
 1 Bump in the Night
-1 Lava Spike
-1 Goblin Guide
+1 Mishra's Bauble
 2 Snow-Covered Mountain
-2 Skewer the Critics
-2 Fiery Islet
-2 Arid Mesa
 2 Searing Blaze
-2 Rift Bolt
+2 Mishra's Bauble
 2 Finale of Promise
-2 Goblin Guide
-2 Lava Spike
-2 Bump in the Night
 2 Lightning Skelemental
-3 Skewer the Critics
+2 Bump in the Night
 3 Snow-Covered Mountain
-3 Fiery Islet
 3 Arid Mesa
-3 Lava Spike
 3 Searing Blaze
-3 Goblin Guide
+3 Mishra's Bauble
 3 Lightning Skelemental
-3 Rift Bolt
 3 Bump in the Night
-4 Skewer the Critics
 4 Snow-Covered Mountain
 4 Blackcleave Cliffs
 4 Arid Mesa
-4 Rift Bolt
-4 Goblin Guide
-4 Lava Spike
+4 Mishra's Bauble
 4 Bump in the Night
 1 Swamp
 2 Swamp
 3 Swamp
-1 Mutavault
-1 Merchant of the Vale
-1 Through the Breach
-1 Inquisition of Kozilek
-1 Fatal Push
-1 Goryo's Vengeance
-1 Night's Whisper
-1 Thoughtseize
-1 Griselbrand
-1 Thrill of Possibility
-1 Marsh Flats
-1 Emrakul, the Aeons Torn
-1 Collective Brutality
-2 Mutavault
-2 Fatal Push
-2 Inquisition of Kozilek
-2 Goryo's Vengeance
-2 Thoughtseize
-2 Griselbrand
-2 Collective Brutality
-2 Night's Whisper
-2 Thrill of Possibility
-2 Through the Breach
-2 Emrakul, the Aeons Torn
-2 Merchant of the Vale
-3 Collective Brutality
-3 Griselbrand
-3 Thrill of Possibility
-3 Goryo's Vengeance
-3 Night's Whisper
-3 Through the Breach
-3 Merchant of the Vale
-3 Emrakul, the Aeons Torn
-4 Emrakul, the Aeons Torn
-4 Swamp
-4 Collective Brutality
-4 Through the Breach
-4 Thrill of Possibility
-4 Griselbrand
-4 Bloodstained Mire
-4 Goryo's Vengeance
-5 Swamp
 1 Tarfire
 1 Pashalik Mons
 1 Sling-Gang Lieutenant
@@ -150,7 +89,6 @@
 1 Auntie's Hovel
 1 Aether Vial
 1 Goblin Matron
-1 Krenko, Mob Boss
 1 Goblin Bushwhacker
 1 Goblin Trashmaster
 1 Skirk Prospector
@@ -159,6 +97,7 @@
 1 Castle Embereth
 1 Knucklebone Witch
 1 Field of Ruin
+1 Krenko, Mob Boss
 1 Goblin Grenade
 1 Dragonskull Summit
 2 Pashalik Mons
@@ -188,3 +127,45 @@
 4 Aether Vial
 4 Skirk Prospector
 4 Mogg War Marshal
+1 Mutavault
+1 Merchant of the Vale
+1 Marsh Flats
+1 Through the Breach
+1 Inquisition of Kozilek
+1 Fatal Push
+1 Goryo's Vengeance
+1 Night's Whisper
+1 Thoughtseize
+1 Griselbrand
+1 Thrill of Possibility
+1 Emrakul, the Aeons Torn
+1 Collective Brutality
+2 Mutavault
+2 Fatal Push
+2 Inquisition of Kozilek
+2 Thoughtseize
+2 Griselbrand
+2 Goryo's Vengeance
+2 Collective Brutality
+2 Night's Whisper
+2 Thrill of Possibility
+2 Through the Breach
+2 Merchant of the Vale
+2 Emrakul, the Aeons Torn
+3 Collective Brutality
+3 Griselbrand
+3 Merchant of the Vale
+3 Goryo's Vengeance
+3 Thrill of Possibility
+3 Night's Whisper
+3 Through the Breach
+3 Emrakul, the Aeons Torn
+4 Emrakul, the Aeons Torn
+4 Collective Brutality
+4 Through the Breach
+4 Griselbrand
+4 Bloodstained Mire
+4 Thrill of Possibility
+4 Swamp
+4 Goryo's Vengeance
+5 Swamp

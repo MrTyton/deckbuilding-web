@@ -282,16 +282,16 @@
 3 Deafening Clarion
 3 Interplanar Beacon
 4 Interplanar Beacon
-1 Disinformation Campaign
 1 Trial of Ambition
+1 Disinformation Campaign
 1 Starfield of Nyx
 1 Demonic Pact
 1 Doom Foretold
 1 The Eldest Reborn
 1 Temple of Silence
-2 Disinformation Campaign
 2 Doom Foretold
 2 Trial of Ambition
+2 Disinformation Campaign
 2 Temple of Silence
 3 Doom Foretold
 4 Oath of Kaya
@@ -302,17 +302,17 @@
 1 Ritual of Soot
 1 Notion Thief
 1 Dark Deal
-2 Doom Blade
 2 Ritual of Soot
+2 Doom Blade
 2 Notion Thief
 2 Temple of Deceit
 2 Geier Reach Sanitarium
 2 Dark Deal
-3 Ritual of Soot
 3 Doom Blade
 3 Dark Deal
 3 Geier Reach Sanitarium
 3 Temple of Deceit
+3 Ritual of Soot
 3 Notion Thief
 3 Cast Down
 4 Cast Down
@@ -356,15 +356,15 @@
 4 Sphinx's Revelation
 3 Liliana, the Last Hope
 4 Dig Through Time
+1 Angrath's Rampage
 1 Canyon Slough
 1 Gifted Aetherborn
-1 Angrath's Rampage
 1 Goblin Dark-Dwellers
 2 Mutavault
+2 Bedevil
+2 Angrath's Rampage
 2 Canyon Slough
 2 Gifted Aetherborn
-2 Angrath's Rampage
-2 Bedevil
 2 Goblin Dark-Dwellers
 3 Bedevil
 3 Gifted Aetherborn
@@ -397,9 +397,9 @@
 2 Magmatic Insight
 2 Pieces of the Puzzle
 3 Pieces of the Puzzle
-3 Hour of Promise
 3 Splendid Reclamation
 3 Field of the Dead
+3 Hour of Promise
 3 Magmatic Insight
 4 Field of the Dead
 4 Pieces of the Puzzle
@@ -409,8 +409,8 @@
 1 Collective Brutality
 1 Choked Estuary
 2 Fetid Pools
-2 Discovery / Dispersal
 2 Collective Brutality
+2 Discovery / Dispersal
 3 Field of Ruin
 4 Field of Ruin
 4 Thought Erasure
@@ -448,10 +448,10 @@
 1 Explosive Vegetation
 1 Shrine of the Forsaken Gods
 1 Once Upon a Time
-2 World Breaker
 2 Nissa's Pilgrimage
 2 Sylvan Caryatid
 2 Sanctum of Ugin
+2 World Breaker
 2 Dragonlord Atarka
 2 Castle Garenbrig
 2 Llanowar Elves
