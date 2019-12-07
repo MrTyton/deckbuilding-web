@@ -1,10 +1,14 @@
-4 Forest
 2 Ulamog, the Ceaseless Hunger
+1 Emrakul, the Promised End
 1 Dismember
 1 Once Upon a Time
 2 Dismember
+1 Relic of Progenitus
 2 Once Upon a Time
+4 Oblivion Stone
+4 Wurmcoil Engine
 1 Academy Ruins
+1 Island
 1 Remand
 1 Thirst for Knowledge
 1 Repeal
@@ -17,21 +21,6 @@
 4 Condescend
 1 Field of Ruin
 1 Cyclonic Rift
-2 Repeal
-3 Thirst for Knowledge
-1 Treasure Mage
-1 Chalice of the Void
-1 Island
-4 Oblivion Stone
-1 Relic of Progenitus
-4 Wurmcoil Engine
-1 All Is Dust
-1 Mindslaver
-1 Force of Negation
-2 Force of Negation
-3 Repeal
-1 Nimble Obstructionist
-1 Snow-Covered Island
 1 Tolaria West
 1 Snapcaster Mage
 2 Island
@@ -39,15 +28,22 @@
 4 Remand
 4 Island
 1 Supreme Will
+1 Treasure Mage
+1 Chalice of the Void
 2 Supreme Will
 2 Chalice of the Void
+2 Repeal
+3 Thirst for Knowledge
+1 All Is Dust
 1 World Breaker
 1 Ugin, the Ineffable
 1 Fact or Fiction
 1 Trinket Mage
 1 Stonecoil Serpent
 1 Solemn Simulacrum
+1 Nimble Obstructionist
 1 Torrential Gearhulk
+1 Snow-Covered Island
 1 Warping Wail
 1 Buried Ruin
 1 Gemstone Caverns
@@ -66,9 +62,9 @@
 1 Temple of Epiphany
 1 Shivan Reef
 2 Spirebluff Canal
+2 Magma Jet
 2 Shivan Reef
 2 Gifts Ungiven
-2 Magma Jet
 2 Temple of Epiphany
 3 Ugin, the Spirit Dragon
 3 Spirebluff Canal
@@ -83,19 +79,13 @@
 4 Ulamog, the Ceaseless Hunger
 4 Once Upon a Time
 5 Forest
-1 Tectonic Edge
-1 Talisman of Dominance
-2 Field of Ruin
-2 Snow-Covered Island
-3 Snow-Covered Island
-4 Snow-Covered Island
-4 Repeal
-5 Snow-Covered Island
-6 Snow-Covered Island
-7 Snow-Covered Island
+1 Mindslaver
+1 Force of Negation
 1 Spatial Contortion
 1 Witching Well
+2 Force of Negation
 2 Spatial Contortion
+3 Repeal
 4 Thirst for Knowledge
 5 Island
 6 Island
