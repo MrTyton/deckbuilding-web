@@ -63,7 +63,7 @@
 |                    2|[Scavenging Ooze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420783)        |                     |                                                                                              |
 |                    3|[Brazen Borrower](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473001)        |                     |                                                                                              |
 |                    3|[Gilded Goose](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473122)           |                     |                                                                                              |
-|                    4|[Brazen Borrower](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473001)        |                     |                                                                                              |
 |                    4|[Gilded Goose](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473122)           |                     |                                                                                              |
 |                    4|[Breeding Pool](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=97088)           |                     |                                                                                              |
+|                    4|[Brazen Borrower](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473001)        |                     |                                                                                              |
 

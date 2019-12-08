@@ -3,8 +3,8 @@
 2 Devoted Druid
 3 Finale of Devastation
 3 Devoted Druid
-4 Finale of Devastation
 4 Devoted Druid
+4 Finale of Devastation
 1 Arcum's Astrolabe
 2 Arcum's Astrolabe
 3 Misty Rainforest
@@ -47,8 +47,8 @@
 1 Nimble Obstructionist
 2 Renegade Rallier
 2 Soulherder
-2 On Thin Ice
 2 Gilded Goose
+2 On Thin Ice
 2 Nimble Obstructionist
 3 Force of Negation
 3 Gilded Goose
@@ -71,12 +71,10 @@
 4 Collected Company
 4 Stoneforge Mystic
 1 Field of the Dead
-1 Cavern of Souls
 1 Elvish Reclaimer
 1 Flagstones of Trokair
 1 Gemstone Mine
 1 Ghost Quarter
-1 Tolaria West
 1 Summoner's Pact
 1 Primeval Titan
 1 Bojuka Bog
@@ -85,14 +83,16 @@
 1 Reclamation Sage
 1 Pact of Negation
 1 Simic Growth Chamber
-1 Amulet of Vigor
 1 Sunhome, Fortress of the Legion
+1 Amulet of Vigor
 1 Kabira Crossroads
-1 Vesuva
+1 Cavern of Souls
 1 Slayers' Stronghold
+1 Vesuva
 1 Selesnya Sanctuary
-1 Azusa, Lost but Seeking
+1 Tolaria West
 1 Boros Garrison
+1 Azusa, Lost but Seeking
 2 Elvish Reclaimer
 2 Gemstone Mine
 2 Flagstones of Trokair
@@ -121,25 +121,25 @@
 4 Amulet of Vigor
 4 Flagstones of Trokair
 1 Growth Spiral
-1 Hinterland Harbor
-1 Mana Leak
 1 Remand
+1 Hinterland Harbor
+1 Scalding Tarn
 1 Mystic Sanctuary
+1 Mana Leak
 1 Cryptic Command
 1 Scapeshift
-1 Scalding Tarn
 1 Polluted Delta
 1 Snapcaster Mage
 1 Supreme Verdict
 2 Field of the Dead
 2 Growth Spiral
-2 Teferi, Time Raveler
-2 Mana Leak
 2 Remand
+2 Teferi, Time Raveler
+2 Mystic Sanctuary
 2 Cryptic Command
 2 Scapeshift
+2 Mana Leak
 2 Snapcaster Mage
-2 Mystic Sanctuary
 3 Teferi, Time Raveler
 3 Growth Spiral
 3 Field of Ruin

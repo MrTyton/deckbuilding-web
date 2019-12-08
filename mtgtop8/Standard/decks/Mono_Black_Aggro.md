@@ -31,9 +31,9 @@
 |*n*<sup>th</sup> copy|Maindeck Card|*n*<sup>th</sup> copy|                                       Sideboard Card                                        |
 |---------------------|-------------|--------------------:|---------------------------------------------------------------------------------------------|
 |                     |             |                    1|[Order of Midnight](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473061) |
+|                     |             |                    1|[Murderous Rider](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473059)   |
 |                     |             |                    1|[Piper of the Swarm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473062)|
 |                     |             |                    1|[The Elderspell](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461016)    |
-|                     |             |                    1|[Murderous Rider](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473059)   |
 |                     |             |                    2|[Order of Midnight](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473061) |
 |                     |             |                    2|[The Elderspell](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461016)    |
 |                     |             |                    2|[Piper of the Swarm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473062)|

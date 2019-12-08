@@ -33,8 +33,8 @@
 
 |*n*<sup>th</sup> copy|                                        Maindeck Card                                         |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
 |--------------------:|----------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
-|                    1|[Duskwatch Recruiter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409961)|                    1|[Lovestruck Beast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473127)   |
-|                    1|[Charming Prince](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472970)    |                    1|[Dragonlord Dromoka](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394547) |
+|                    1|[Charming Prince](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472970)    |                    1|[Lovestruck Beast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473127)   |
+|                    1|[Duskwatch Recruiter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409961)|                    1|[Dragonlord Dromoka](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394547) |
 |                    1|[Tireless Tracker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409997)   |                    1|[Dovin's Veto](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461120)       |
 |                    1|[Dromoka's Command](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394558)  |                    1|[Deputy of Detention](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457309)|
 |                    1|[Fortified Village](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=410042)  |                    1|[Lambholt Pacifist](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409976)  |

@@ -56,7 +56,7 @@
 |                    4|[Llanowar Wastes](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129627)         |                     |                                                                                               |
 |                    1|[Wildborn Preserver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473144)      |                     |                                                                                               |
 |                    2|[Wildborn Preserver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473144)      |                     |                                                                                               |
-|                    3|[Marwyn, the Nurturer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443060)    |                     |                                                                                               |
-|                    4|[Wildborn Preserver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473144)      |                     |                                                                                               |
 |                    3|[Wildborn Preserver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473144)      |                     |                                                                                               |
+|                    4|[Wildborn Preserver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473144)      |                     |                                                                                               |
+|                    3|[Marwyn, the Nurturer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443060)    |                     |                                                                                               |
 
