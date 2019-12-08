@@ -9,7 +9,7 @@
 |[45C Control](./mtgtop8/Standard/decks/45C_Control.md)              |[Golgari Aggro](./mtgtop8/Standard/decks/Golgari_Aggro.md)    |[Jund](./mtgtop8/Standard/decks/Jund.md)                        |[Selesnya Aggro](./mtgtop8/Standard/decks/Selesnya_Aggro.md)|[Temur Control](./mtgtop8/Standard/decks/Temur_Control.md)|
 |[Adventure](./mtgtop8/Standard/decks/Adventure.md)                  |[Golgari Control](./mtgtop8/Standard/decks/Golgari_Control.md)|[Mono Black Aggro](./mtgtop8/Standard/decks/Mono_Black_Aggro.md)|[Simic Aggro](./mtgtop8/Standard/decks/Simic_Aggro.md)      |[UR Aggro](./mtgtop8/Standard/decks/UR_Aggro.md)          |
 |[Esper Control](./mtgtop8/Standard/decks/Esper_Control.md)          |[Gruul Aggro](./mtgtop8/Standard/decks/Gruul_Aggro.md)        |[Rakdos Aggro](./mtgtop8/Standard/decks/Rakdos_Aggro.md)        |[Simic Control](./mtgtop8/Standard/decks/Simic_Control.md)  |[UW Control](./mtgtop8/Standard/decks/UW_Control.md)      |
-|[Fires of Invention](./mtgtop8/Standard/decks/Fires_of_Invention.md)|[Izzet Control](./mtgtop8/Standard/decks/Izzet_Control.md)    |[Red Deck Wins](./mtgtop8/Standard/decks/Red_Deck_Wins.md)      |[Sultai Control](./mtgtop8/Standard/decks/Sultai_Control.md)|                                                          |
+|[Fires of Invention](./mtgtop8/Standard/decks/Fires_of_Invention.md)|[Izzet Control](./mtgtop8/Standard/decks/Izzet_Control.md)    |[Red Deck Wins](./mtgtop8/Standard/decks/Red_Deck_Wins.md)      |[Sultai Control](./mtgtop8/Standard/decks/Sultai_Control.md)|[Weenie White](./mtgtop8/Standard/decks/Weenie_White.md)  |
 
 
 # Pioneer
@@ -60,4 +60,4 @@
 
 
 
-#### Last Updated at 12:33AM on December 08, 2019
+#### Last Updated at 12:36PM on December 08, 2019
