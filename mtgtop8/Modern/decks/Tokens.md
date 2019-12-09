@@ -22,3 +22,18 @@
 |2 [Pithing Needle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129526)|                                                                                           |2 [Stony Silence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=247425)|                                                                                             |
 |1 [Torpor Orb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=233069)    |                                                                                           |                                                                                          |                                                                                             |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                       Maindeck Card                                       |*n*<sup>th</sup> copy|Sideboard Card|
+|--------------------:|-------------------------------------------------------------------------------------------|---------------------|--------------|
+|                    1|[Launch the Fleet](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=380449)|                     |              |
+|                    1|[Force of Vigor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464113)  |                     |              |
+|                    2|[Launch the Fleet](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=380449)|                     |              |
+|                    2|[Force of Vigor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464113)  |                     |              |
+|                    3|[Force of Vigor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464113)  |                     |              |
+|                    3|[Launch the Fleet](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=380449)|                     |              |
+|                    4|[Force of Vigor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464113)  |                     |              |
+|                    8|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)          |                     |              |
+|                    4|[Launch the Fleet](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=380449)|                     |              |
+

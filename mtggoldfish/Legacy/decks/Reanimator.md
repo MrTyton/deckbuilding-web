@@ -103,7 +103,7 @@
 |                     |                                                                                                     |                    4|[Show and Tell](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416878)             |
 |                     |                                                                                                     |                    1|[Sphinx of the Steel Wind](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=189641)  |
 |                     |                                                                                                     |                    2|[Cabal Therapy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413625)             |
-|                     |                                                                                                     |                    3|[Cabal Therapy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413625)             |
 |                     |                                                                                                     |                    4|[Cabal Therapy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413625)             |
 |                     |                                                                                                     |                    4|[Rotting Regisaur](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466865)          |
+|                     |                                                                                                     |                    3|[Cabal Therapy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413625)             |
 
