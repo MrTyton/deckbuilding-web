@@ -25,13 +25,13 @@
 4 Searing Blood
 1 Runaway Steam-Kin
 1 Experimental Frenzy
-2 Experimental Frenzy
 2 Runaway Steam-Kin
+2 Experimental Frenzy
 1 Viashino Pyromancer
 2 Viashino Pyromancer
 3 Viashino Pyromancer
-1 Boros Charm
 1 Sacred Foundry
+1 Boros Charm
 1 Inspiring Vantage
 1 Battlefield Forge
 2 Boros Charm
@@ -72,11 +72,11 @@
 3 Bonecrusher Giant
 1 Goblin Rabblemaster
 1 Embercleave
-2 Legion Loyalist
 2 Goblin Rabblemaster
 2 Embercleave
-3 Legion Loyalist
+2 Legion Loyalist
 3 Goblin Rabblemaster
+3 Legion Loyalist
 4 Legion Loyalist
 3 Glorybringer
 2 Castle Embereth
@@ -109,13 +109,17 @@
 1 Titan's Strength
 2 Titan's Strength
 4 Viashino Pyromancer
+3 Runaway Steam-Kin
+3 Experimental Frenzy
+4 Runaway Steam-Kin
+4 Experimental Frenzy
 1 Legion Warboss
 2 Legion Warboss
 3 Legion Warboss
 4 Legion Warboss
 1 Canyon Slough
-1 Rekindling Phoenix
 1 Carnival / Carnage
+1 Rekindling Phoenix
 1 Pia Nalaar
 2 Canyon Slough
 2 Rekindling Phoenix
@@ -152,10 +156,6 @@
 3 Robber of the Rich
 4 Robber of the Rich
 4 Hazoret the Fervent
-3 Runaway Steam-Kin
-3 Experimental Frenzy
-4 Experimental Frenzy
-4 Runaway Steam-Kin
 1 Rix Maadi Reveler
 1 Temple of Malice
 1 Cut / Ribbons
@@ -184,21 +184,21 @@
 4 Nykthos, Shrine to Nyx
 4 Temple of Malice
 4 Cut / Ribbons
-1 Goblin Piledriver
-1 Goblin Instigator
 1 Fanatical Firebrand
 1 Foundry Street Denizen
-2 Goblin Instigator
-2 Goblin Piledriver
+1 Goblin Instigator
+1 Goblin Piledriver
 2 Fanatical Firebrand
+2 Goblin Piledriver
+2 Goblin Instigator
 2 Foundry Street Denizen
 3 Goblin Instigator
-3 Castle Embereth
 3 Goblin Piledriver
 3 Foundry Street Denizen
-4 Goblin Instigator
+3 Castle Embereth
 4 Goblin Piledriver
 4 Foundry Street Denizen
+4 Goblin Instigator
 18 Mountain
 19 Mountain
 1 Rakdos Cackler

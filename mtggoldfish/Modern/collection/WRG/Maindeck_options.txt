@@ -2,14 +2,14 @@
 1 Horizon Canopy
 1 Plains
 2 Forest
+2 Verdant Catacombs
+2 Giver of Runes
 2 Postmortem Lunge
 2 Horizon Canopy
-2 Verdant Catacombs
 2 Devoted Druid
 2 Shalai, Voice of Plenty
 2 Temple Garden
 2 Eladamri's Call
-2 Giver of Runes
 2 Finale of Devastation
 2 Vizier of Remedies
 3 Giver of Runes
@@ -19,12 +19,22 @@
 3 Horizon Canopy
 3 Vizier of Remedies
 3 Postmortem Lunge
+4 Giver of Runes
 4 Postmortem Lunge
-4 Finale of Devastation
 4 Devoted Druid
 4 Vizier of Remedies
-4 Giver of Runes
+4 Finale of Devastation
 4 Eladamri's Call
+1 Hidden Herbalists
+1 Pelt Collector
+2 Mountain
+2 Pelt Collector
+2 Hidden Herbalists
+3 Hidden Herbalists
+3 Pelt Collector
+4 Hidden Herbalists
+4 Pelt Collector
+4 Vexing Devil
 1 Godless Shrine
 1 Sigarda, Host of Herons
 1 Overgrown Tomb
@@ -35,18 +45,8 @@
 2 Eternal Witness
 3 Simian Spirit Guide
 3 Verdant Catacombs
-4 Simian Spirit Guide
 4 Verdant Catacombs
-1 Hidden Herbalists
-1 Pelt Collector
-2 Pelt Collector
-2 Mountain
-2 Hidden Herbalists
-3 Hidden Herbalists
-3 Pelt Collector
-4 Hidden Herbalists
-4 Pelt Collector
-4 Vexing Devil
+4 Simian Spirit Guide
 1 Birds of Paradise
 1 Dryad Arbor
 1 Eldritch Evolution
@@ -63,14 +63,14 @@
 4 Noble Hierarch
 1 Grim Lavamancer
 1 Rancor
-1 Ghor-Clan Rampager
 1 Experiment One
+1 Ghor-Clan Rampager
 2 Grim Lavamancer
 2 Rancor
 2 Sacred Foundry
+2 Experiment One
 2 Stomping Ground
 2 Ghor-Clan Rampager
-2 Experiment One
 3 Experiment One
 3 Kird Ape
 4 Atarka's Command

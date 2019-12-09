@@ -175,9 +175,9 @@
 1 Clash of Wills
 2 Quench
 2 Clash of Wills
-1 Concealed Courtyard
 1 Gideon, Ally of Zendikar
 1 Sorin, Solemn Visitor
+1 Concealed Courtyard
 2 Concealed Courtyard
 3 Hieroglyphic Illumination
 1 Brazen Borrower
@@ -230,6 +230,32 @@
 4 Rogue Refiner
 4 Aether Hub
 4 Gilded Goose
+1 Dark Petition
+1 Hissing Quagmire
+1 Llanowar Wastes
+1 Overgrown Tomb
+1 Arch of Orazca
+1 Bontu's Last Reckoning
+1 Nissa's Renewal
+1 Temple of Malady
+1 The Elderspell
+1 Walking Ballista
+1 Sign in Blood
+1 Torment of Hailfire
+1 Woodland Cemetery
+1 Mastermind's Acquisition
+1 Seasons Past
+1 Reliquary Tower
+2 Overgrown Tomb
+2 Assassin's Trophy
+2 Woodland Cemetery
+2 Seasons Past
+2 Dark Petition
+3 Overgrown Tomb
+3 Dark Petition
+3 Woodland Cemetery
+4 Overgrown Tomb
+4 Languish
 1 Dragonmaster Outcast
 2 Spirebluff Canal
 3 Disallow
@@ -302,51 +328,25 @@
 1 Ritual of Soot
 1 Notion Thief
 1 Dark Deal
+2 Geier Reach Sanitarium
+2 Temple of Deceit
 2 Doom Blade
 2 Ritual of Soot
 2 Notion Thief
-2 Temple of Deceit
-2 Geier Reach Sanitarium
 2 Dark Deal
+3 Temple of Deceit
 3 Ritual of Soot
 3 Doom Blade
 3 Dark Deal
 3 Geier Reach Sanitarium
-3 Temple of Deceit
 3 Notion Thief
 3 Cast Down
+4 Temple of Deceit
 4 Cast Down
 4 Dark Deal
 4 Day's Undoing
-4 Temple of Deceit
 4 Doom Blade
 4 Notion Thief
-1 Dark Petition
-1 Hissing Quagmire
-1 Llanowar Wastes
-1 Overgrown Tomb
-1 Arch of Orazca
-1 Temple of Malady
-1 The Elderspell
-1 Walking Ballista
-1 Nissa's Renewal
-1 Bontu's Last Reckoning
-1 Sign in Blood
-1 Torment of Hailfire
-1 Woodland Cemetery
-1 Mastermind's Acquisition
-1 Seasons Past
-1 Reliquary Tower
-2 Overgrown Tomb
-2 Assassin's Trophy
-2 Woodland Cemetery
-2 Seasons Past
-2 Dark Petition
-3 Overgrown Tomb
-3 Dark Petition
-3 Woodland Cemetery
-4 Overgrown Tomb
-4 Languish
 1 Temple Garden
 2 Settle the Wreckage
 2 Temple Garden
@@ -416,15 +416,15 @@
 4 Thought Erasure
 5 Island
 1 Foreboding Ruins
+1 Despise
 1 Glorybringer
 1 Chandra, Acolyte of Flame
 1 Chandra, Awakened Inferno
-1 Despise
 2 Glorybringer
 2 Foreboding Ruins
+2 Despise
 2 Chandra, Acolyte of Flame
 2 Chandra, Awakened Inferno
-2 Despise
 3 Glorybringer
 3 Foreboding Ruins
 3 Chandra, Torch of Defiance
@@ -435,7 +435,6 @@
 5 Mountain
 6 Mountain
 7 Mountain
-1 Nissa's Pilgrimage
 1 Sea Gate Wreckage
 1 Dragonlord Atarka
 1 World Breaker
@@ -447,12 +446,13 @@
 1 Sanctum of Ugin
 1 Explosive Vegetation
 1 Shrine of the Forsaken Gods
+1 Nissa's Pilgrimage
 1 Once Upon a Time
-2 Nissa's Pilgrimage
 2 Sylvan Caryatid
 2 Sanctum of Ugin
 2 World Breaker
 2 Dragonlord Atarka
+2 Nissa's Pilgrimage
 2 Castle Garenbrig
 2 Llanowar Elves
 2 Explosive Vegetation
