@@ -1,22 +1,8 @@
-7 Swamp
-1 Smitten Swordmaster
-2 Smitten Swordmaster
-3 Smitten Swordmaster
-4 Smitten Swordmaster
-4 Order of Midnight
 8 Swamp
 9 Swamp
-1 The Great Henge
-4 Questing Beast
-1 Liliana, Dreadhorde General
-1 Vivien, Arkbow Ranger
-2 Vivien, Arkbow Ranger
-1 Rankle, Master of Pranks
-1 Find / Finality
-3 Paradise Druid
-4 Paradise Druid
-8 Forest
-2 Rankle, Master of Pranks
+1 Paradise Druid
+2 Paradise Druid
+4 Temple of Malady
 3 Beanstalk Giant
 4 Beanstalk Giant
 1 Bonecrusher Giant
@@ -50,19 +36,26 @@
 2 Brazen Borrower
 2 Island
 2 Temple of Mystery
-3 Brazen Borrower
 3 Fae of Wishes
+3 Brazen Borrower
 3 Escape to the Wilds
 3 Growth Spiral
 3 Island
-4 Brazen Borrower
 4 Fae of Wishes
-3 Fabled Passage
+4 Brazen Borrower
+1 Find / Finality
+8 Forest
+1 The Great Henge
+1 Questing Beast
+2 Questing Beast
+3 Questing Beast
+4 Questing Beast
 1 Vraska, Golgari Queen
+1 Liliana, Dreadhorde General
 1 Duress
 2 Vraska, Golgari Queen
-3 Vraska, Golgari Queen
 3 Castle Locthwain
+3 Vraska, Golgari Queen
 4 Casualties of War
 1 Return to Nature
 1 Hydroid Krasis
@@ -87,25 +80,21 @@
 3 Gilded Goose
 4 Witch's Oven
 4 Gilded Goose
-2 Liliana, Dreadhorde General
-1 Legion's End
-2 Legion's End
-1 Assassin's Trophy
+1 Vivien, Arkbow Ranger
+2 Vivien, Arkbow Ranger
+3 Paradise Druid
 3 Vivien, Arkbow Ranger
+4 Paradise Druid
 1 Wicked Wolf
 1 Garruk, Cursed Huntsman
 1 Thrashing Brontodon
-3 Legion's End
 3 Temple of Epiphany
+1 Rankle, Master of Pranks
+1 Legion's End
+2 Rankle, Master of Pranks
+2 Legion's End
 2 Find / Finality
 4 Vivien, Arkbow Ranger
-1 Disfigure
-1 Vivien's Arkbow
-2 Assassin's Trophy
-2 Disfigure
-2 Vivien's Arkbow
-3 Assassin's Trophy
-4 Assassin's Trophy
 1 Rotting Regisaur
 2 The Great Henge
 2 Rotting Regisaur
@@ -116,18 +105,19 @@
 1 Skarrgan Hellkite
 1 The Royal Scions
 1 Embercleave
+1 Embereth Shieldbreaker
 1 Domri's Ambush
 1 Rimrock Knight
-1 Embereth Shieldbreaker
 2 Gruul Spellbreaker
 2 The Royal Scions
-2 Embercleave
 2 Embereth Shieldbreaker
+2 Embercleave
 2 Domri's Ambush
-3 Embercleave
 3 The Royal Scions
 3 Embereth Shieldbreaker
+3 Fabled Passage
 3 Domri's Ambush
+3 Embercleave
 3 Mountain
 4 The Royal Scions
 4 Embereth Shieldbreaker

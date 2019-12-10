@@ -62,6 +62,6 @@
 |                    4|[Swords to Plowshares](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=869)       |                     |                                                                                                    |
 |                    4|[Energy Field](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=10421)             |                     |                                                                                                    |
 |                    4|[Tundra](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=885)                     |                     |                                                                                                    |
-|                    6|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)                  |                     |                                                                                                    |
 |                    7|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)                  |                     |                                                                                                    |
+|                    6|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)                  |                     |                                                                                                    |
 

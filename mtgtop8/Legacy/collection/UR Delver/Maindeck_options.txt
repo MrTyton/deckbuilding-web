@@ -1,24 +1,24 @@
 1 Misty Rainforest
-1 Forked Bolt
-1 Wooded Foothills
 3 Preordain
-1 Prismatic Vista
-1 Abrade
-2 Misty Rainforest
+1 Wooded Foothills
 1 Fiery Islet
+1 Prismatic Vista
+1 Forked Bolt
+2 Brazen Borrower
+2 Misty Rainforest
 1 Spell Snare
+1 Abrade
 3 Chain Lightning
 1 Monastery Swiftspear
 2 Monastery Swiftspear
 3 Monastery Swiftspear
 4 Monastery Swiftspear
 2 Vapor Snag
-2 Brazen Borrower
+1 Bloodstained Mire
 3 Island
 1 Stifle
 2 Stifle
 3 Stifle
-1 Bloodstained Mire
 1 Snow-Covered Island
 1 Snow-Covered Mountain
 2 Snow-Covered Island
@@ -28,7 +28,6 @@
 2 Stormchaser Mage
 3 Stormchaser Mage
 3 True-Name Nemesis
-3 Flooded Strand
 3 Polluted Delta
 1 Grim Lavamancer
 1 Price of Progress
@@ -40,7 +39,6 @@
 2 Force of Negation
 4 Volcanic Island
 2 Wooded Foothills
-1 The Royal Scions
 1 Piracy Charm
 3 Misty Rainforest
 1 Snapcaster Mage
@@ -52,15 +50,12 @@
 2 Hexdrinker
 3 Tropical Island
 1 Robber of the Rich
-2 Robber of the Rich
 2 Prismatic Vista
+2 Robber of the Rich
 3 Robber of the Rich
 4 Robber of the Rich
+3 Flooded Strand
 4 Stifle
-1 Fire / Ice
-2 Mountain
-2 Price of Progress
-4 Chain Lightning
 1 Light Up the Stage
 1 Soul-Scar Mage
 1 Pteramander
@@ -70,5 +65,9 @@
 2 Soul-Scar Mage
 3 Light Up the Stage
 3 Pteramander
-4 Pteramander
 4 Light Up the Stage
+4 Pteramander
+1 Fire / Ice
+2 Mountain
+2 Price of Progress
+4 Chain Lightning

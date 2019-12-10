@@ -1,28 +1,29 @@
 2 Golgari Charm
 4 Fatal Push
 4 Thoughtseize
+1 Abrupt Decay
+2 Scavenging Ooze
+1 Assassin's Trophy
+2 Assassin's Trophy
 1 Leyline of the Void
 2 Leyline of the Void
 3 Leyline of the Void
 2 Blightbeetle
 2 Questing Beast
-1 Abrupt Decay
-2 Scavenging Ooze
-1 Assassin's Trophy
-2 Assassin's Trophy
 3 Hangarback Walker
-1 Languish
-2 Languish
 2 Reclamation Sage
 1 Gifted Aetherborn
 2 Gifted Aetherborn
-4 Leyline of the Void
-1 Veil of Summer
+1 Vraska, Golgari Queen
+2 Vraska, Golgari Queen
 1 Duress
 2 Duress
-1 Shapers' Sanctuary
-2 Veil of Summer
+4 Leyline of the Void
+1 Languish
+2 Languish
 1 Witch's Vengeance
+1 Shapers' Sanctuary
+1 Veil of Summer
 2 Abrupt Decay
 1 Doom Blade
 1 Virulent Plague
@@ -34,17 +35,12 @@
 1 Arborback Stomper
 1 Grasp of Darkness
 2 Grasp of Darkness
+1 Evolutionary Leap
+1 Pithing Needle
+2 Evolutionary Leap
+2 Pithing Needle
 1 Heroic Intervention
 2 Heroic Intervention
-1 Kalitas, Traitor of Ghet
-1 Pulse of Murasa
-1 Emrakul, the Promised End
-1 Collective Brutality
-1 Grafdigger's Cage
-1 Pithing Needle
-2 Collective Brutality
-2 Pithing Needle
-2 Grafdigger's Cage
 1 Mistcutter Hydra
 2 Mistcutter Hydra
 1 Lifecrafter's Bestiary
@@ -54,12 +50,11 @@
 1 World Breaker
 1 Unravel the Aether
 2 Virulent Plague
-1 Vraska, Golgari Queen
 1 Return to Nature
 1 Voracious Hydra
-2 Vraska, Golgari Queen
 3 Scavenging Ooze
 1 Carnage Tyrant
+2 Veil of Summer
 3 Noxious Grasp
 1 Nightveil Predator
 1 Phyrexian Revoker
@@ -72,12 +67,11 @@
 1 Cry of the Carnarium
 2 Damping Sphere
 3 Damping Sphere
-3 Reclamation Sage
-3 Blightbeetle
+1 Kalitas, Traitor of Ghet
 1 Ashiok, Dream Render
 1 Mountain
-1 Drown in Sorrow
 1 Crumble to Dust
+1 Drown in Sorrow
 2 Ashiok, Dream Render
 2 Drown in Sorrow
 2 Crumble to Dust
@@ -85,8 +79,10 @@
 3 Crumble to Dust
 1 Vine Mare
 1 Feed the Clan
-2 Shapers' Sanctuary
 2 Vine Mare
 2 Feed the Clan
+2 Shapers' Sanctuary
 3 Shapers' Sanctuary
 3 Feed the Clan
+3 Reclamation Sage
+3 Blightbeetle

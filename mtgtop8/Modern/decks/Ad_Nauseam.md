@@ -29,18 +29,3 @@
 |                                                                                              |                                                                                                |1 [Path to Exile](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220511)   |                                                                                                 |                                                                                                   |
 |                                                                                              |                                                                                                |1 [Slaughter Pact](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=130704)  |                                                                                                 |                                                                                                   |
 
-
-# Other Options
-
-|*n*<sup>th</sup> copy|                                       Maindeck Card                                       |*n*<sup>th</sup> copy|                                         Sideboard Card                                          |
-|--------------------:|-------------------------------------------------------------------------------------------|--------------------:|-------------------------------------------------------------------------------------------------|
-|                    1|[City of Brass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=4178)     |                    1|[Wishclaw Talisman](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473072)     |
-|                    2|[City of Brass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=4178)     |                    1|[Spoils of the Vault](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=46572)    |
-|                    2|[Pact of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442057)|                    1|[Godhead of Awe](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=142019)        |
-|                    3|[City of Brass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=4178)     |                    2|[Bontu's Last Reckoning](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430749)|
-|                    4|[Temple of Deceit](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373734)|                    2|[Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)                 |
-|                    4|[Sleight of Hand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=25557)  |                    2|[Echoing Truth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405212)         |
-|                    4|[City of Brass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=4178)     |                    2|[Path to Exile](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220511)         |
-|                    3|[Pact of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442057)|                    3|[Bontu's Last Reckoning](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430749)|
-|                     |                                                                                           |                    3|[Path to Exile](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220511)         |
-

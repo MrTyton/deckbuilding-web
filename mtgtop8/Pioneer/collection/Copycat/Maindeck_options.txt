@@ -35,8 +35,8 @@
 3 Dig Through Time
 4 Opt
 1 Supreme Verdict
-1 Detention Sphere
 1 Clifftop Retreat
+1 Detention Sphere
 1 Sulfur Falls
 2 Detention Sphere
 3 Glacial Fortress
@@ -55,8 +55,8 @@
 2 Clifftop Retreat
 2 Supreme Verdict
 2 Sulfur Falls
-3 Detention Sphere
 3 Izzet Charm
+3 Detention Sphere
 3 Censor
 3 Sulfur Falls
 3 Supreme Verdict
@@ -121,10 +121,6 @@
 3 Bring to Light
 3 Niv-Mizzet Reborn
 3 Island
-1 Wicked Wolf
-1 Elvish Visionary
-2 Wicked Wolf
-4 Llanowar Elves
 1 Shock
 2 Shock
 4 Elvish Mystic
@@ -146,6 +142,10 @@
 3 Arboreal Grazer
 4 Voice of Resurgence
 4 Risen Reef
+1 Elvish Visionary
+1 Wicked Wolf
+2 Wicked Wolf
+4 Llanowar Elves
 1 Tithe Taker
 1 Thraben Inspector
 1 Charming Prince
