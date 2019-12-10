@@ -1,84 +1,74 @@
 1 Thoughtseize
 2 Thoughtseize
 3 Thoughtseize
+1 Duress
+1 Fatal Push
 4 Thoughtseize
+2 Fatal Push
+3 Fatal Push
 1 Magma Spray
 2 Magma Spray
 1 Abrade
-1 Chandra, Torch of Defiance
-2 Chandra, Torch of Defiance
-2 Abrade
-1 Fry
-1 Stubborn Denial
-1 Wicked Wolf
+1 Assassin's Trophy
+1 Ashiok, Dream Render
 1 Disdainful Stroke
-1 Reclamation Sage
 2 Disdainful Stroke
-1 Duress
-1 Fatal Push
-2 Fatal Push
-3 Fatal Push
-1 Dreadbore
-2 Dreadbore
-3 Magma Spray
-4 Magma Spray
-1 Blightbeetle
-1 Scavenging Ooze
-1 Pithing Needle
-2 Pithing Needle
+1 Wicked Wolf
+1 Chandra, Awakened Inferno
+1 Reclamation Sage
+2 Reclamation Sage
+1 Fry
 1 Brazen Borrower
+2 Abrade
+1 Stubborn Denial
 2 Stubborn Denial
 1 Aether Gust
 2 Aether Gust
+1 Scavenging Ooze
+2 Scavenging Ooze
+2 Assassin's Trophy
 1 Rest in Peace
 2 Rest in Peace
-2 Blightbeetle
+1 Blightbeetle
 1 Fragmentize
 1 Dark Betrayal
 1 Noxious Grasp
 2 Duress
 2 Dark Betrayal
-1 Assassin's Trophy
-2 Assassin's Trophy
 1 Kambal, Consul of Allocation
+1 Devout Decree
+1 Mystical Dispute
+2 Mystical Dispute
+1 Deputy of Detention
+2 Deputy of Detention
+1 Vivien Reid
 1 Wear / Tear
 2 Fry
 2 Wear / Tear
-1 Flame Sweep
-2 Flame Sweep
-1 Ashiok, Dream Render
 1 Ultimate Price
 1 Natural State
 1 Liliana's Defeat
 2 Ultimate Price
 2 Ashiok, Dream Render
-1 Vivien Reid
-1 Chandra, Awakened Inferno
-2 Reclamation Sage
-1 Devout Decree
-1 Deputy of Detention
-2 Deputy of Detention
-1 Mystical Dispute
 1 Lyra Dawnbringer
 1 Crafty Cutpurse
-2 Mystical Dispute
 2 Devout Decree
 2 Crafty Cutpurse
 2 Lyra Dawnbringer
 1 Virulent Plague
 1 Questing Beast
 1 Carnage Tyrant
-1 Lost Legacy
 1 Rankle, Master of Pranks
+1 Lost Legacy
 1 Fourth Bridge Prowler
 2 Rankle, Master of Pranks
 2 Lost Legacy
 3 Assassin's Trophy
+1 Unmoored Ego
 1 Murderous Rider
 1 Collective Brutality
 1 Tormod's Crypt
 1 Ratchet Bomb
-1 Unmoored Ego
 2 Murderous Rider
 2 Brazen Borrower
 2 Tormod's Crypt
@@ -91,16 +81,11 @@
 2 Apostle of Purifying Light
 3 Wild Slash
 3 Dromoka's Command
+1 Dreadbore
 1 Chandra, Acolyte of Flame
+2 Dreadbore
 2 Chandra, Acolyte of Flame
 3 Chandra, Acolyte of Flame
-1 Crumble to Dust
-1 Goblin Rabblemaster
-2 Goblin Rabblemaster
-2 Crumble to Dust
-3 Goblin Rabblemaster
-3 Crumble to Dust
-3 Blightbeetle
 1 Ob Nixilis's Cruelty
 1 Blood Baron of Vizkopa
 1 Ob Nixilis Reignited
@@ -110,6 +95,10 @@
 2 Noxious Grasp
 3 Noxious Grasp
 3 Duress
+1 Tireless Tracker
+1 Roast
+2 Roast
+3 Disdainful Stroke
 1 Selfless Spirit
 1 Dusk / Dawn
 1 Sin Collector
@@ -120,36 +109,15 @@
 2 Aven Mindcensor
 3 Rest in Peace
 3 Sin Collector
-1 Kolaghan's Command
-1 Blood Sun
-2 Blood Sun
-3 Blood Sun
-1 Kalitas, Traitor of Ghet
-2 Kalitas, Traitor of Ghet
-3 Dark Betrayal
-4 Dark Betrayal
-1 Alpine Moon
-1 Longtusk Cub
-1 Lava Coil
-2 Scavenging Ooze
-2 Alpine Moon
-2 Longtusk Cub
-2 Lava Coil
-3 Longtusk Cub
-3 Stubborn Denial
-4 Stubborn Denial
-4 Longtusk Cub
-1 Return to Nature
-1 Valorous Stance
-1 Leyline of Sanctity
-2 Return to Nature
-2 Leyline of Sanctity
-2 Valorous Stance
-3 Return to Nature
-3 Pithing Needle
-3 Valorous Stance
-4 Return to Nature
-4 Valorous Stance
+1 Vraska, Golgari Queen
+1 Witch's Vengeance
+1 Languish
+1 Sultai Charm
+1 Golgari Charm
+2 Golgari Charm
+2 Languish
+2 Sultai Charm
+3 Golgari Charm
 1 Deflecting Palm
 1 Surge of Righteousness
 2 Selfless Spirit
@@ -158,3 +126,39 @@
 3 Selfless Spirit
 3 Wear / Tear
 4 Selfless Spirit
+1 Kalitas, Traitor of Ghet
+2 Kalitas, Traitor of Ghet
+2 Blightbeetle
+3 Dark Betrayal
+4 Dark Betrayal
+1 Chandra, Torch of Defiance
+1 Kolaghan's Command
+1 Blood Sun
+2 Chandra, Torch of Defiance
+2 Blood Sun
+3 Magma Spray
+3 Blood Sun
+4 Magma Spray
+1 Alpine Moon
+1 Longtusk Cub
+1 Lava Coil
+2 Alpine Moon
+2 Longtusk Cub
+2 Lava Coil
+3 Longtusk Cub
+3 Stubborn Denial
+4 Stubborn Denial
+4 Longtusk Cub
+1 Return to Nature
+1 Pithing Needle
+1 Valorous Stance
+1 Leyline of Sanctity
+2 Return to Nature
+2 Pithing Needle
+2 Leyline of Sanctity
+2 Valorous Stance
+3 Return to Nature
+3 Pithing Needle
+3 Valorous Stance
+4 Return to Nature
+4 Valorous Stance

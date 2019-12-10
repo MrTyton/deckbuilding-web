@@ -1,28 +1,31 @@
-1 Duress
-2 Duress
+1 Pithing Needle
+1 Dovin's Veto
 2 Kalitas, Traitor of Ghet
+1 Supreme Verdict
+1 Ashiok, Dream Render
 1 Virulent Plague
 1 Narset, Parter of Veils
 1 Aether Gust
-1 Cry of the Carnarium
-3 Noxious Grasp
 3 Negate
+2 Ashiok, Dream Render
+3 Noxious Grasp
 2 Narset, Parter of Veils
 1 Tireless Tracker
 2 Tireless Tracker
 1 Magma Spray
 2 Magma Spray
+1 Liliana, the Last Hope
+2 Cry of the Carnarium
 2 Disdainful Stroke
 1 The Elderspell
-1 Ashiok, Dream Render
 2 Rest in Peace
+1 Knight of Autumn
+2 Knight of Autumn
+1 Surge of Righteousness
+1 Nyx-Fleece Ram
 1 Settle the Wreckage
 1 Elspeth, Sun's Champion
 2 Dovin's Veto
-1 Surge of Righteousness
-1 Nyx-Fleece Ram
-1 Knight of Autumn
-2 Knight of Autumn
 1 Spell Pierce
 2 Spell Pierce
 3 Duress
@@ -30,19 +33,15 @@
 1 Lyra Dawnbringer
 1 Devout Decree
 1 Kaya, Orzhov Usurper
-2 Ashiok, Dream Render
-1 Davriel, Rogue Shadowmage
 1 Sorcerous Spyglass
+1 Davriel, Rogue Shadowmage
+1 Vraska's Contempt
+1 Rakdos's Return
 2 Virulent Plague
-2 Pithing Needle
 1 Gideon, Ally of Zendikar
 2 Gideon, Ally of Zendikar
 1 Crumble to Dust
 2 Crumble to Dust
-1 Possibility Storm
-1 Grafdigger's Cage
-2 Grafdigger's Cage
-1 Rakdos's Return
 1 Leyline of the Void
 2 Leyline of the Void
 1 Anger of the Gods
@@ -52,10 +51,16 @@
 1 Monastery Mentor
 1 Leyline of Sanctity
 1 Chandra, Awakened Inferno
-1 Crucible of Worlds
 1 Wear / Tear
 1 Solemnity
+1 Crucible of Worlds
+1 Possibility Storm
 1 Field of Ruin
+1 Murderous Rider
+1 Notion Thief
+1 Grasp of Darkness
+1 Thought Erasure
+1 Unknown Card
 1 Kolaghan's Command
 1 Oath of Kaya
 1 Abrupt Decay
@@ -65,38 +70,23 @@
 1 Foul-Tongue Invocation
 1 Casualties of War
 1 Nicol Bolas, Dragon-God
-1 Nicol Bolas, God-Pharaoh
 1 Oketra's Last Mercy
-1 Planewide Celebration
 1 Tamiyo, Collector of Tales
 1 Ugin, the Spirit Dragon
+1 Nicol Bolas, God-Pharaoh
+1 Planewide Celebration
 1 Command the Dreadhorde
-1 Transgress the Mind
-1 Thought Distortion
-1 The Immortal Sun
-1 Return to Nature
-1 Lost Legacy
-2 Return to Nature
-1 Enter the God-Eternals
-2 Collective Brutality
+1 Yahenni's Expertise
+2 Liliana, the Last Hope
 1 Detention Sphere
 1 Torrential Gearhulk
 2 Nyx-Fleece Ram
 2 Surge of Righteousness
-1 Deafening Clarion
-1 Jace, Cunning Castaway
-1 Authority of the Consuls
-1 Nezahal, Primal Tide
-1 Hour of Revelation
-1 Deploy the Gatewatch
-1 Gideon's Intervention
-2 Authority of the Consuls
+1 Enter the God-Eternals
+2 Collective Brutality
+2 Pithing Needle
 1 Seal Away
 2 Seal Away
-1 Liliana, the Last Hope
-1 Yahenni's Expertise
-2 Liliana, the Last Hope
-2 Cry of the Carnarium
 1 Cyclonic Rift
 1 Dragonmaster Outcast
 1 Fry
@@ -107,6 +97,14 @@
 2 Izzet Staticaster
 2 Hornet Nest
 2 Dragonmaster Outcast
+1 Transgress the Mind
+1 Thought Distortion
+1 The Immortal Sun
+1 Return to Nature
+1 Grafdigger's Cage
+1 Lost Legacy
+2 Grafdigger's Cage
+2 Return to Nature
 1 Flaying Tendrils
 1 Sphinx of the Final Word
 1 The Magic Mirror
@@ -126,11 +124,10 @@
 2 Thing in the Ice
 3 Thing in the Ice
 4 Thing in the Ice
-1 Vraska's Contempt
 1 Read the Bones
 1 The Eldest Reborn
-2 Anger of the Gods
 2 Vraska's Contempt
+2 Anger of the Gods
 2 Read the Bones
 2 The Eldest Reborn
 4 Duress
@@ -143,9 +140,9 @@
 4 Sorcerous Spyglass
 1 Languish
 1 Blightbeetle
-2 Languish
 2 Blightbeetle
 2 Slaughter Games
+2 Languish
 3 Blightbeetle
 3 Slaughter Games
 4 Blightbeetle
