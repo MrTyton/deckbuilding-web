@@ -24,3 +24,10 @@
 |                                                                                               |                                                                                             |                                                                                                     |2 [Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)   |
 |                                                                                               |                                                                                             |                                                                                                     |1 [Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)             |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                      Maindeck Card                                      |*n*<sup>th</sup> copy|                                    Sideboard Card                                    |
+|--------------------:|-----------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------|
+|                    3|[Hydroid Krasis](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457327)|                    1|[Aether Gust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466796)|
+

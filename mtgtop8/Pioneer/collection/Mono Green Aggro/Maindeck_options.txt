@@ -3,8 +3,8 @@
 2 Steel Leaf Champion
 3 Steel Leaf Champion
 4 Steel Leaf Champion
-1 The Great Henge
 1 Ghalta, Primal Hunger
+1 The Great Henge
 2 Ghalta, Primal Hunger
 1 Hardened Scales
 1 Nissa, Voice of Zendikar
@@ -12,8 +12,7 @@
 2 Hardened Scales
 3 Hardened Scales
 4 Hardened Scales
-1 Reclamation Sage
-2 Reclamation Sage
+16 Forest
 1 Verdurous Gearhulk
 1 Overgrown Tomb
 1 Llanowar Wastes
@@ -21,9 +20,9 @@
 1 Winding Constrictor
 2 Verdurous Gearhulk
 2 Blooming Marsh
-2 Overgrown Tomb
 2 Winding Constrictor
 2 Llanowar Wastes
+2 Overgrown Tomb
 3 Winding Constrictor
 3 Nissa, Voice of Zendikar
 3 Llanowar Wastes
@@ -35,67 +34,89 @@
 4 Overgrown Tomb
 4 Blooming Marsh
 1 Bow of Nylea
+1 Sylvan Caryatid
+2 Sylvan Caryatid
 1 Paradise Druid
 2 The Great Henge
 2 Questing Beast
-1 Blossoming Defense
+1 Gilded Goose
+2 Gilded Goose
 1 Aspect of Hydra
+1 Blossoming Defense
 2 Aspect of Hydra
 1 Rhonas the Indomitable
-16 Forest
+1 Whisperwood Elemental
+1 Biomass Mutation
 1 Nylea, God of the Hunt
 1 Yorvo, Lord of Garenbrig
 2 Yorvo, Lord of Garenbrig
+1 Vivien, Champion of the Wilds
+2 Vivien, Champion of the Wilds
+1 Reclamation Sage
+2 Reclamation Sage
 1 Shapers' Sanctuary
 2 Shapers' Sanctuary
+1 Nullhide Ferox
+1 Surrak, the Hunt Caller
+1 Polukranos, World Eater
+2 Surrak, the Hunt Caller
+2 Nullhide Ferox
+2 Paradise Druid
+2 Polukranos, World Eater
+3 Castle Garenbrig
+3 Questing Beast
+3 Ghalta, Primal Hunger
+3 Surrak, the Hunt Caller
+3 Nullhide Ferox
+3 The Great Henge
+3 Paradise Druid
+4 Castle Garenbrig
 1 Hashep Oasis
 1 Pelt Collector
-1 Experiment One
 1 Wildborn Preserver
 1 Avatar of the Resolute
 1 Dryad Militant
+1 Experiment One
 1 Barkhide Troll
 2 Pelt Collector
-2 Experiment One
 2 Hashep Oasis
-2 Rhonas the Indomitable
 2 Wildborn Preserver
 2 Avatar of the Resolute
 2 Blossoming Defense
 2 Dryad Militant
+2 Rhonas the Indomitable
+2 Experiment One
 2 Barkhide Troll
+3 Hashep Oasis
 3 Pelt Collector
-3 Experiment One
-3 Blossoming Defense
 3 Avatar of the Resolute
+3 Blossoming Defense
 3 Wildborn Preserver
 3 Dryad Militant
+3 Experiment One
 3 Aspect of Hydra
-3 Hashep Oasis
 3 Barkhide Troll
-4 Experiment One
 4 Pelt Collector
 4 Blossoming Defense
+4 Hashep Oasis
 4 Wildborn Preserver
 4 Dryad Militant
+4 Experiment One
 4 Avatar of the Resolute
 4 Aspect of Hydra
 4 Barkhide Troll
-4 Hashep Oasis
-1 Hydroid Krasis
 1 Wicked Wolf
 1 Oko, Thief of Crowns
-1 Gilded Goose
 1 Breeding Pool
 1 Botanical Sanctum
+1 Hydroid Krasis
 2 Wicked Wolf
-2 Hydroid Krasis
 2 Oko, Thief of Crowns
-2 Gilded Goose
+2 Hydroid Krasis
 2 Breeding Pool
 2 Botanical Sanctum
-3 Hydroid Krasis
 3 Oko, Thief of Crowns
+3 Hydroid Krasis
 3 Breeding Pool
 3 Botanical Sanctum
 3 Wicked Wolf
@@ -106,23 +127,6 @@
 4 Oko, Thief of Crowns
 4 Breeding Pool
 4 Gilded Goose
-1 Nullhide Ferox
-1 Surrak, the Hunt Caller
-1 Polukranos, World Eater
-2 Nullhide Ferox
-2 Paradise Druid
-2 Surrak, the Hunt Caller
-2 Polukranos, World Eater
-3 Questing Beast
-3 Nullhide Ferox
-3 The Great Henge
-3 Ghalta, Primal Hunger
-3 Castle Garenbrig
-3 Surrak, the Hunt Caller
-3 Paradise Druid
-4 Castle Garenbrig
-1 Sylvan Caryatid
 1 Skysovereign, Consul Flagship
-2 Sylvan Caryatid
 3 Sylvan Caryatid
 17 Forest

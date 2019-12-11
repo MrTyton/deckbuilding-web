@@ -1,6 +1,6 @@
 4 Overgrown Tomb
-1 Swamp
 1 Fabled Passage
+1 Swamp
 1 Tireless Tracker
 1 Murderous Rider
 2 Forest
@@ -13,6 +13,7 @@
 2 Tireless Tracker
 3 Fabled Passage
 1 Hissing Quagmire
+3 Isolated Chapel
 1 Mana Confluence
 1 Rakshasa Deathdealer
 2 Mana Confluence
@@ -20,18 +21,17 @@
 2 Abzan Charm
 3 Rakshasa Deathdealer
 3 Gideon, Ally of Zendikar
-3 Isolated Chapel
 1 Traverse the Ulvenwald
-1 Satyr Wayfinder
 1 Courser of Kruphix
-1 Ishkanah, Grafwidow
+1 Satyr Wayfinder
 1 Ob Nixilis Reignited
+1 Ishkanah, Grafwidow
 1 Emrakul, the Promised End
 2 Traverse the Ulvenwald
-2 Satyr Wayfinder
 2 Courser of Kruphix
-3 Courser of Kruphix
+2 Satyr Wayfinder
 3 Traverse the Ulvenwald
+3 Courser of Kruphix
 3 Satyr Wayfinder
 4 Traverse the Ulvenwald
 1 Shambling Vent
@@ -39,8 +39,8 @@
 1 Tasigur, the Golden Fang
 2 Liliana, the Last Hope
 4 Fatal Push
-1 Thalia, Heretic Cathar
 1 Murderous Cut
+1 Thalia, Heretic Cathar
 1 Walking Ballista
 2 Walking Ballista
 3 Forest
@@ -48,40 +48,40 @@
 1 Deathrite Shaman
 1 Vraska the Unseen
 1 Vessel of Nascency
-1 Urborg, Tomb of Yawgmoth
 1 Collective Brutality
+1 Urborg, Tomb of Yawgmoth
 2 Shambling Vent
 2 Deathrite Shaman
-2 Vessel of Nascency
 2 Vraska the Unseen
+2 Vessel of Nascency
 2 Collective Brutality
 2 Scavenging Ooze
+3 Abrupt Decay
 3 Vessel of Nascency
 3 Deathrite Shaman
-3 Abrupt Decay
 4 Abrupt Decay
 4 Vessel of Nascency
 1 Gilded Goose
-1 Witch's Oven
-1 Cauldron Familiar
-1 Archangel Avacyn
 1 Castle Locthwain
-1 Wicked Wolf
+1 Witch's Oven
 1 Anguished Unmaking
+1 Cauldron Familiar
+1 Wicked Wolf
+1 Archangel Avacyn
 1 Smuggler's Copter
 1 Trail of Crumbs
 2 Wicked Wolf
 2 Gilded Goose
-2 Anguished Unmaking
 2 Cauldron Familiar
 2 Witch's Oven
+2 Anguished Unmaking
 2 Archangel Avacyn
 2 Smuggler's Copter
 2 Trail of Crumbs
 3 Gilded Goose
 3 Wicked Wolf
-3 Witch's Oven
 3 Archangel Avacyn
+3 Witch's Oven
 3 Cauldron Familiar
 3 Anguished Unmaking
 3 Trail of Crumbs
@@ -106,9 +106,9 @@
 4 Jadelight Ranger
 4 Fabled Passage
 4 Merfolk Branchwalker
-1 Liliana, Heretical Healer
-1 Unclaimed Territory
 1 Collected Company
+1 Unclaimed Territory
+1 Liliana, Heretical Healer
 1 Xathrid Necromancer
 1 Plaguecrafter
 1 Thalia's Lieutenant
@@ -118,8 +118,8 @@
 1 Channeler Initiate
 1 Cartel Aristocrat
 1 Dauntless Bodyguard
-2 Unclaimed Territory
 2 Collected Company
+2 Unclaimed Territory
 2 Plaguecrafter
 2 Liliana, Heretical Healer
 2 Xathrid Necromancer
@@ -130,8 +130,8 @@
 2 Zulaport Cutthroat
 2 Channeler Initiate
 2 Dauntless Bodyguard
-3 Unclaimed Territory
 3 Collected Company
+3 Unclaimed Territory
 3 Channeler Initiate
 3 Cartel Aristocrat
 3 Dauntless Bodyguard
@@ -142,8 +142,8 @@
 3 Zulaport Cutthroat
 3 Bloodsoaked Champion
 4 Godless Shrine
-4 Unclaimed Territory
 4 Collected Company
+4 Unclaimed Territory
 4 Xathrid Necromancer
 4 Bloodsoaked Champion
 4 Zulaport Cutthroat

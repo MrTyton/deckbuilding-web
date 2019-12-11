@@ -1,54 +1,103 @@
-1 Light Up the Stage
-1 Soul-Scar Mage
-1 Wild Slash
-1 Experimental Frenzy
-1 Goblin Chainwhirler
-2 Runaway Steam-Kin
-2 Wild Slash
-2 Experimental Frenzy
-2 Soul-Scar Mage
-2 Goblin Chainwhirler
-2 Lightning Strike
-2 Light Up the Stage
-3 Wild Slash
-3 Goblin Chainwhirler
-3 Experimental Frenzy
-3 Runaway Steam-Kin
-3 Light Up the Stage
-3 Lightning Strike
-3 Soul-Scar Mage
-4 Goblin Chainwhirler
-4 Wild Slash
-4 Experimental Frenzy
-4 Runaway Steam-Kin
-4 Lightning Strike
-4 Soul-Scar Mage
-4 Light Up the Stage
-1 Stoke the Flames
-2 Stoke the Flames
-3 Stoke the Flames
-4 Stoke the Flames
+2 Castle Embereth
+1 Legion Loyalist
+1 Goblin Rabblemaster
+2 Legion Loyalist
+2 Goblin Rabblemaster
+3 Goblin Rabblemaster
+3 Legion Loyalist
+4 Legion Loyalist
+1 Embercleave
+2 Embercleave
+1 Foundry Street Denizen
+2 Foundry Street Denizen
+3 Foundry Street Denizen
+4 Foundry Street Denizen
+1 Goblin Piledriver
+1 Goblin Instigator
+2 Goblin Piledriver
+2 Goblin Instigator
+3 Goblin Piledriver
+3 Goblin Instigator
+3 Castle Embereth
+4 Goblin Piledriver
+4 Goblin Instigator
 1 Legion Warboss
-1 Skirk Prospector
 2 Legion Warboss
-2 Skirk Prospector
-3 Legion Warboss
-3 Skirk Prospector
-4 Legion Warboss
 4 Goblin Rabblemaster
-4 Skirk Prospector
-3 Embercleave
-4 Reckless Bushwhacker
+1 Reckless Bushwhacker
+2 Reckless Bushwhacker
+3 Reckless Bushwhacker
 1 Burning-Tree Emissary
 2 Burning-Tree Emissary
 3 Burning-Tree Emissary
 4 Burning-Tree Emissary
+1 Torbran, Thane of Red Fell
+1 Glorybringer
+1 Chandra, Torch of Defiance
+2 Chandra, Torch of Defiance
+2 Glorybringer
+3 Glorybringer
+1 Stoke the Flames
+2 Stoke the Flames
+3 Stoke the Flames
+4 Stoke the Flames
+1 Skirk Prospector
+2 Skirk Prospector
+3 Legion Warboss
+3 Skirk Prospector
+4 Legion Warboss
+4 Skirk Prospector
+3 Embercleave
+4 Reckless Bushwhacker
+1 Kari Zev, Skyship Raider
+2 Kari Zev, Skyship Raider
+2 Torbran, Thane of Red Fell
 18 Mountain
 19 Mountain
+1 Mutavault
+2 Mutavault
+3 Bonecrusher Giant
 1 Fanatical Firebrand
 2 Fanatical Firebrand
-1 Torbran, Thane of Red Fell
 4 Castle Embereth
+1 Hanweir Garrison
+1 Hanweir Battlements
+2 Hanweir Garrison
+2 Hanweir Battlements
+3 Mutavault
+3 Hanweir Garrison
+3 Hanweir Battlements
+4 Hanweir Garrison
+4 Mutavault
+1 Shock
+1 Searing Blood
+1 Exquisite Firecraft
+2 Shock
+2 Searing Blood
+2 Exquisite Firecraft
+3 Searing Blood
+4 Searing Blood
+1 Mizzium Mortars
+1 Nykthos, Shrine to Nyx
+1 Fanatic of Mogis
+1 Wily Goblin
+1 Dragon Whisperer
+1 Boros Reckoner
+2 Mizzium Mortars
+2 Fanatic of Mogis
+2 Nykthos, Shrine to Nyx
+2 Boros Reckoner
+2 Wily Goblin
+3 Mizzium Mortars
+3 Boros Reckoner
+3 Wily Goblin
+3 Nykthos, Shrine to Nyx
+3 Fanatic of Mogis
+4 Mizzium Mortars
+4 Boros Reckoner
+4 Wily Goblin
+4 Fanatic of Mogis
+4 Nykthos, Shrine to Nyx
 1 Throne of the God-Pharaoh
 1 Cavalcade of Calamity
 1 Hordeling Outburst
@@ -60,59 +109,49 @@
 3 Hordeling Outburst
 4 Cavalcade of Calamity
 4 Hordeling Outburst
-1 Field of Ruin
 1 Treasure Map
-1 Mutavault
-1 Chandra, Acolyte of Flame
-1 Anger of the Gods
-1 Chandra, Flamecaller
 1 Rekindling Phoenix
-1 Glorybringer
+1 Chandra, Acolyte of Flame
+1 Abrade
+1 Chandra, Flamecaller
 1 Lava Coil
-1 Chandra, Torch of Defiance
+1 Field of Ruin
 1 Chandra, Awakened Inferno
 1 Chandra's Regulator
-1 Abrade
-2 Mutavault
+1 Anger of the Gods
 2 Field of Ruin
+2 Rekindling Phoenix
 2 Chandra, Acolyte of Flame
 2 Chandra, Awakened Inferno
-2 Rekindling Phoenix
+2 Lava Coil
 2 Abrade
 2 Treasure Map
 2 Chandra, Flamecaller
-2 Lava Coil
-2 Chandra, Torch of Defiance
-2 Anger of the Gods
-2 Glorybringer
 2 Chandra's Regulator
-3 Chandra, Acolyte of Flame
+2 Anger of the Gods
 3 Chandra, Torch of Defiance
-3 Lava Coil
-3 Chandra's Regulator
-3 Anger of the Gods
-3 Treasure Map
-3 Glorybringer
-3 Bonecrusher Giant
+3 Chandra, Acolyte of Flame
 3 Rekindling Phoenix
+3 Lava Coil
+3 Anger of the Gods
+3 Chandra's Regulator
+3 Treasure Map
 4 Lava Coil
 4 Glorybringer
 20 Mountain
 21 Mountain
-1 Zurgo Bellstriker
 1 Rimrock Knight
-1 Kari Zev, Skyship Raider
 1 Forge Devil
 1 Dragon Fodder
+1 Zurgo Bellstriker
 1 Rakdos Cackler
-2 Zurgo Bellstriker
 2 Rimrock Knight
-2 Kari Zev, Skyship Raider
 2 Forge Devil
 2 Dragon Fodder
+2 Zurgo Bellstriker
 2 Rakdos Cackler
-3 Zurgo Bellstriker
 3 Rimrock Knight
+3 Zurgo Bellstriker
 3 Forge Devil
 3 Rakdos Cackler
 3 Dragon Fodder

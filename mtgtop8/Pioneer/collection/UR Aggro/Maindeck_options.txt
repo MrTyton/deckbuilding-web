@@ -16,22 +16,22 @@
 1 Lightning Axe
 1 Brazen Borrower
 1 Flamewake Phoenix
-2 Rekindling Phoenix
 2 Bonecrusher Giant
+2 Rekindling Phoenix
 2 Kozilek's Return
 2 Elder Deep-Fiend
 2 Lightning Axe
 2 Brazen Borrower
 2 Flamewake Phoenix
-3 Rekindling Phoenix
 3 Bonecrusher Giant
+3 Rekindling Phoenix
 3 Kozilek's Return
-3 Elder Deep-Fiend
 3 Lightning Axe
 3 Brazen Borrower
+3 Elder Deep-Fiend
 3 Flamewake Phoenix
-4 Rekindling Phoenix
 4 Bonecrusher Giant
+4 Rekindling Phoenix
 4 Kozilek's Return
 4 Elder Deep-Fiend
 4 Brazen Borrower
@@ -62,18 +62,18 @@
 5 Mountain
 1 Stormchaser Mage
 1 Soul-Scar Mage
-1 Treasure Cruise
 1 Monastery Swiftspear
+1 Treasure Cruise
 1 Opt
 2 Stormchaser Mage
 2 Soul-Scar Mage
-2 Treasure Cruise
 2 Monastery Swiftspear
+2 Treasure Cruise
 2 Opt
 3 Stormchaser Mage
 3 Soul-Scar Mage
-3 Wild Slash
 3 Monastery Swiftspear
+3 Wild Slash
 3 Opt
 4 Soul-Scar Mage
 4 Stormchaser Mage
@@ -94,8 +94,8 @@
 1 Crash Through
 2 Crash Through
 3 Crash Through
-4 Wild Slash
 4 Crash Through
+4 Wild Slash
 6 Mountain
 1 Smash to Smithereens
 1 Glorybringer
@@ -105,14 +105,14 @@
 2 Sanctum of Ugin
 3 Sanctum of Ugin
 3 Champion of Wits
-1 Springleaf Drum
 1 Scrapheap Scrounger
 1 Emry, Lurker of the Loch
-2 Springleaf Drum
+1 Springleaf Drum
 2 Scrapheap Scrounger
 2 Emry, Lurker of the Loch
-3 Emry, Lurker of the Loch
+2 Springleaf Drum
 3 Scrapheap Scrounger
+3 Emry, Lurker of the Loch
 3 Stubborn Denial
 1 Abrade
 1 Renegade Tactics
@@ -128,13 +128,13 @@
 2 Risk Factor
 3 Lightning Strike
 4 Lightning Strike
-1 Ramunap Ruins
 1 Finale of Promise
-1 Abbot of Keral Keep
+1 Ramunap Ruins
 1 Chart a Course
 1 Dreadhorde Arcanist
 1 Temple of Epiphany
 1 Incendiary Flow
+1 Abbot of Keral Keep
 1 Blistercoil Weird
 2 Blistercoil Weird
 2 Finale of Promise

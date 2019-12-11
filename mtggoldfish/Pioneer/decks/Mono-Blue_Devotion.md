@@ -1,7 +1,7 @@
 # Mono-Blue Devotion
 
 #### [Export MTGO List](../collection/Mono-Blue%20Devotion/Mono-Blue%20Devotion.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=2%09Brazen%20Borrower%0A1%09Castle%20Vantress%0A4%09Cloudfin%20Raptor%0A4%09Curious%20Obsession%0A2%09Gadwick,%20the%20Wizened%0A4%09Harbinger%20of%20the%20Tides%0A21%09Island%0A4%09Master%20of%20Waves%0A4%09Merfolk%20Trickster%0A4%09Siren%20Stormtamer%0A4%09Tempest%20Djinn%0A2%09Thassa,%20God%20of%20the%20Sea%0A4%09Wizard's%20Retort&deckside=3%09Aether%20Gust%0A3%09Entrancing%20Melody%0A3%09Mystical%20Dispute%0A3%09Negate%0A2%09Spell%20Pierce%0A1%09Take%20into%20Custody)
+#### [Print on decklist.org](http://decklist.org/?deckmain=2%09Brazen%20Borrower%0A1%09Castle%20Vantress%0A4%09Cloudfin%20Raptor%0A4%09Curious%20Obsession%0A2%09Gadwick,%20the%20Wizened%0A4%09Harbinger%20of%20the%20Tides%0A21%09Island%0A4%09Master%20of%20Waves%0A4%09Merfolk%20Trickster%0A4%09Siren%20Stormtamer%0A4%09Tempest%20Djinn%0A2%09Thassa,%20God%20of%20the%20Sea%0A4%09Wizard's%20Retort&deckside=2%09Aether%20Gust%0A3%09Entrancing%20Melody%0A4%09Mystical%20Dispute%0A4%09Negate%0A2%09Spell%20Pierce)
 # Maindeck
 
 |                                           Creature (30)                                           |                                       Enchantment (4)                                        |                                        Instant (4)                                         |                                         Land (22)                                          |
@@ -19,27 +19,32 @@
 
 # Sideboard
 
-|                                         Instant (12)                                         |                                         Sorcery (3)                                          |
-|----------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
-|3 [Aether Gust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466796)      |3 [Entrancing Melody](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435207)|
-|3 [Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020) |                                                                                              |
-|3 [Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)           |                                                                                              |
-|2 [Spell Pierce](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425876)     |                                                                                              |
-|1 [Take into Custody](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423714)|                                                                                              |
+|                                        Instant (12)                                         |                                         Sorcery (3)                                          |
+|---------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
+|2 [Aether Gust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466796)     |3 [Entrancing Melody](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435207)|
+|4 [Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)|                                                                                              |
+|4 [Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)          |                                                                                              |
+|2 [Spell Pierce](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425876)    |                                                                                              |
 
 
 # Other Options
 
 |*n*<sup>th</sup> copy|                                      Maindeck Card                                       |*n*<sup>th</sup> copy|                                        Sideboard Card                                         |
 |--------------------:|------------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------------|
-|                    1|[Treasure Cruise](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420718)|                    2|[Take into Custody](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423714)   |
-|                    2|[Castle Vantress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473204)|                    4|[Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)    |
-|                    1|[Tidebinder Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438462)|                    4|[Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)              |
-|                     |                                                                                          |                    4|[Aether Gust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466796)         |
-|                     |                                                                                          |                    1|[Jace, Memory Adept](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=238263)  |
-|                     |                                                                                          |                    1|[Ashiok, Dream Render](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461155)|
-|                     |                                                                                          |                    2|[Ashiok, Dream Render](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461155)|
+|                    1|[Treasure Cruise](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420718)|                    3|[Aether Gust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466796)         |
+|                    2|[Castle Vantress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473204)|                    1|[Jace, Memory Adept](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=238263)  |
+|                    1|[Tidebinder Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438462)|                    1|[Take into Custody](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423714)   |
+|                    1|[Spectral Sailor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466830)|                    2|[Take into Custody](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423714)   |
+|                    2|[Spectral Sailor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466830)|                    4|[Aether Gust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466796)         |
+|                    1|[Spell Pierce](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425876)   |                    1|[Ashiok, Dream Render](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461155)|
+|                    2|[Tidebinder Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438462)|                    2|[Ashiok, Dream Render](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461155)|
+|                    2|[Spell Pierce](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425876)   |                    2|[Jace, Memory Adept](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=238263)  |
 |                     |                                                                                          |                    1|[Tidebinder Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438462)     |
 |                     |                                                                                          |                    2|[Tidebinder Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438462)     |
-|                     |                                                                                          |                    2|[Jace, Memory Adept](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=238263)  |
+|                     |                                                                                          |                    1|[Sorcerous Spyglass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435407)  |
+|                     |                                                                                          |                    1|[Covetous Urge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473169)       |
+|                     |                                                                                          |                    2|[Sorcerous Spyglass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435407)  |
+|                     |                                                                                          |                    2|[Covetous Urge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473169)       |
+|                     |                                                                                          |                    3|[Spell Pierce](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425876)        |
+|                     |                                                                                          |                    4|[Entrancing Melody](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435207)   |
 
