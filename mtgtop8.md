@@ -15,12 +15,13 @@
 
 # Pioneer
 
-|                               A                               |                                B                                |                              C                              |                              D                              |                           E                           |
-|---------------------------------------------------------------|-----------------------------------------------------------------|-------------------------------------------------------------|-------------------------------------------------------------|-------------------------------------------------------|
-|[Abzan Aggro](./mtgtop8/Pioneer/decks/Abzan_Aggro.md)          |[Gruul Aggro](./mtgtop8/Pioneer/decks/Gruul_Aggro.md)            |[Mono Blue Aggro](./mtgtop8/Pioneer/decks/Mono_Blue_Aggro.md)|[Other - Control](./mtgtop8/Pioneer/decks/Other_-_Control.md)|[UR Aggro](./mtgtop8/Pioneer/decks/UR_Aggro.md)        |
-|[Arclight Phoenix](./mtgtop8/Pioneer/decks/Arclight_Phoenix.md)|[Izzet Control](./mtgtop8/Pioneer/decks/Izzet_Control.md)        |[Nexus Fog](./mtgtop8/Pioneer/decks/Nexus_Fog.md)            |[Red Deck Wins](./mtgtop8/Pioneer/decks/Red_Deck_Wins.md)    |[UW Control](./mtgtop8/Pioneer/decks/UW_Control.md)    |
-|[Copycat](./mtgtop8/Pioneer/decks/Copycat.md)                  |[Jeskai Ascendancy](./mtgtop8/Pioneer/decks/Jeskai_Ascendancy.md)|[Other - Aggro](./mtgtop8/Pioneer/decks/Other_-_Aggro.md)    |[Simic Aggro](./mtgtop8/Pioneer/decks/Simic_Aggro.md)        |[Weenie White](./mtgtop8/Pioneer/decks/Weenie_White.md)|
-|[Golgari Aggro](./mtgtop8/Pioneer/decks/Golgari_Aggro.md)      |[Mono Black Aggro](./mtgtop8/Pioneer/decks/Mono_Black_Aggro.md)  |[Other - Combo](./mtgtop8/Pioneer/decks/Other_-_Combo.md)    |[Spirit Aggro](./mtgtop8/Pioneer/decks/Spirit_Aggro.md)      |                                                       |
+|                               A                               |                                   B                                   |                               C                               |                             D                             |                           E                           |
+|---------------------------------------------------------------|-----------------------------------------------------------------------|---------------------------------------------------------------|-----------------------------------------------------------|-------------------------------------------------------|
+|[Abzan Aggro](./mtgtop8/Pioneer/decks/Abzan_Aggro.md)          |[Hour of Promise Ramp](./mtgtop8/Pioneer/decks/Hour_of_Promise_Ramp.md)|[Mono Green Aggro](./mtgtop8/Pioneer/decks/Mono_Green_Aggro.md)|[Red Deck Wins](./mtgtop8/Pioneer/decks/Red_Deck_Wins.md)  |[UW Control](./mtgtop8/Pioneer/decks/UW_Control.md)    |
+|[Arclight Phoenix](./mtgtop8/Pioneer/decks/Arclight_Phoenix.md)|[Izzet Control](./mtgtop8/Pioneer/decks/Izzet_Control.md)              |[Nexus Fog](./mtgtop8/Pioneer/decks/Nexus_Fog.md)              |[Simic Aggro](./mtgtop8/Pioneer/decks/Simic_Aggro.md)      |[Weenie White](./mtgtop8/Pioneer/decks/Weenie_White.md)|
+|[Copycat](./mtgtop8/Pioneer/decks/Copycat.md)                  |[Jeskai Ascendancy](./mtgtop8/Pioneer/decks/Jeskai_Ascendancy.md)      |[Other - Aggro](./mtgtop8/Pioneer/decks/Other_-_Aggro.md)      |[Spirit Aggro](./mtgtop8/Pioneer/decks/Spirit_Aggro.md)    |                                                       |
+|[Golgari Aggro](./mtgtop8/Pioneer/decks/Golgari_Aggro.md)      |[Mono Black Aggro](./mtgtop8/Pioneer/decks/Mono_Black_Aggro.md)        |[Other - Combo](./mtgtop8/Pioneer/decks/Other_-_Combo.md)      |[Sultai Control](./mtgtop8/Pioneer/decks/Sultai_Control.md)|                                                       |
+|[Gruul Aggro](./mtgtop8/Pioneer/decks/Gruul_Aggro.md)          |[Mono Blue Aggro](./mtgtop8/Pioneer/decks/Mono_Blue_Aggro.md)          |[Other - Control](./mtgtop8/Pioneer/decks/Other_-_Control.md)  |[UR Aggro](./mtgtop8/Pioneer/decks/UR_Aggro.md)            |                                                       |
 
 
 # Modern
@@ -60,4 +61,4 @@
 
 
 
-#### Last Updated at 12:59AM on December 11, 2019
+#### Last Updated at 12:43PM on December 11, 2019

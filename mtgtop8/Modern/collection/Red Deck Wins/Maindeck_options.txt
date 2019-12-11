@@ -1,8 +1,17 @@
 4 Skewer the Critics
-1 Light Up the Stage
-2 Light Up the Stage
 4 Mountain
 5 Mountain
+1 Light Up the Stage
+2 Light Up the Stage
+6 Mountain
+7 Mountain
+8 Mountain
+9 Mountain
+10 Mountain
+11 Mountain
+12 Mountain
+13 Mountain
+14 Mountain
 1 Soul-Scar Mage
 1 Lava Dart
 2 Lava Dart
@@ -10,46 +19,39 @@
 3 Light Up the Stage
 3 Soul-Scar Mage
 3 Lava Dart
-4 Soul-Scar Mage
 4 Light Up the Stage
-6 Mountain
-7 Mountain
-8 Mountain
-9 Mountain
-10 Mountain
+4 Soul-Scar Mage
 4 Lava Dart
-11 Mountain
-12 Mountain
-13 Mountain
-14 Mountain
 1 Crash Through
 1 Manamorphose
 1 Bedlam Reveler
-2 Bedlam Reveler
 2 Manamorphose
 2 Crash Through
+2 Bedlam Reveler
 3 Manamorphose
 3 Bedlam Reveler
 3 Crash Through
 4 Manamorphose
 4 Crash Through
-1 Scalding Tarn
-3 Bloodstained Mire
-4 Searing Blaze
 3 Wooded Foothills
+4 Searing Blaze
+3 Bloodstained Mire
+1 Scalding Tarn
 2 Fiery Islet
+15 Mountain
 2 Scalding Tarn
 3 Scalding Tarn
-1 Snow-Covered Mountain
 3 Arid Mesa
 4 Arid Mesa
 1 Kiln Fiend
 2 Kiln Fiend
 3 Kiln Fiend
 1 Burst Lightning
-15 Mountain
 4 Bedlam Reveler
 3 Fiery Islet
+1 Firebolt
+2 Firebolt
+1 Snow-Covered Mountain
 2 Snow-Covered Mountain
 3 Snow-Covered Mountain
 2 Burst Lightning
@@ -65,26 +67,27 @@
 3 Seal of Fire
 4 Seal of Fire
 4 Fiery Islet
-1 Firebolt
-2 Firebolt
+3 Skullcrack
+16 Mountain
+17 Mountain
+3 Firebolt
+4 Firebolt
+1 Shard Volley
+2 Shard Volley
 1 Mutagenic Growth
-1 Steam Vents
+1 Bonecrusher Giant
+2 Bonecrusher Giant
 1 Risk Factor
 1 Runaway Steam-Kin
 2 Runaway Steam-Kin
 3 Runaway Steam-Kin
-3 Skullcrack
 1 Mishra's Bauble
 2 Mishra's Bauble
 3 Mishra's Bauble
-3 Firebolt
 4 Mishra's Bauble
-4 Firebolt
-1 Shard Volley
 1 Vexing Devil
 1 Flame Javelin
 1 Forked Bolt
-2 Shard Volley
 2 Vexing Devil
 2 Flame Javelin
 3 Vexing Devil
@@ -94,9 +97,15 @@
 2 Abrade
 3 Abrade
 4 Wooded Foothills
+4 Scalding Tarn
 1 Reckless Charge
 2 Reckless Charge
-16 Mountain
-17 Mountain
 18 Mountain
-4 Scalding Tarn
+1 Incinerate
+1 Ghitu Lavarunner
+2 Ghitu Lavarunner
+3 Ghitu Lavarunner
+3 Shard Volley
+4 Skullcrack
+4 Ghitu Lavarunner
+4 Shard Volley

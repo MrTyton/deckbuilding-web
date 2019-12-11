@@ -1,25 +1,26 @@
-2 Ghost Quarter
+1 Tectonic Edge
 3 Walking Ballista
-2 Mind Stone
 1 Sea Gate Wreckage
+3 Dismember
+2 Cavern of Souls
 1 Once Upon a Time
 2 Once Upon a Time
 3 Once Upon a Time
 4 Once Upon a Time
 1 Noble Hierarch
-1 Yavimaya Coast
 1 Ancient Stirrings
-1 Oko, Thief of Crowns
-2 Oko, Thief of Crowns
 2 Noble Hierarch
 2 Ancient Stirrings
-2 Yavimaya Coast
 3 Ancient Stirrings
-3 Oko, Thief of Crowns
-3 Yavimaya Coast
 3 Noble Hierarch
 4 Noble Hierarch
-2 Cavern of Souls
+1 Yavimaya Coast
+1 Oko, Thief of Crowns
+2 Oko, Thief of Crowns
+2 Yavimaya Coast
+3 Oko, Thief of Crowns
+3 Yavimaya Coast
+4 Ancient Stirrings
 3 Cavern of Souls
 1 Snow-Covered Forest
 1 Snow-Covered Island
@@ -28,19 +29,23 @@
 4 Yavimaya Coast
 1 Breeding Pool
 1 Drowner of Hope
-4 Ancient Stirrings
 1 Elder Deep-Fiend
 1 Sanctum of Ugin
 2 Elder Deep-Fiend
 3 Elder Deep-Fiend
 1 Radiant Fountain
+2 Mind Stone
+1 Ulamog, the Ceaseless Hunger
+2 Endbringer
+2 All Is Dust
 1 Stubborn Denial
-1 Misty Rainforest
 1 Gilded Goose
+1 Misty Rainforest
 2 Misty Rainforest
 2 Stubborn Denial
 2 Snow-Covered Forest
 2 Gilded Goose
+1 Forest
 3 Prismatic Vista
 1 Birds of Paradise
 1 Path to Exile
@@ -55,32 +60,28 @@
 3 Eldrazi Displacer
 4 Path to Exile
 4 Eldrazi Displacer
-1 Forest
 1 Eternal Scourge
 1 Serum Powder
 2 Eternal Scourge
 2 Serum Powder
-3 Dismember
 3 Eternal Scourge
 3 Serum Powder
 4 Eternal Scourge
 4 Serum Powder
+2 Forest
 1 Basilisk Collar
-1 Ulamog, the Ceaseless Hunger
-2 Endbringer
-1 Adarkar Wastes
-2 Adarkar Wastes
+1 Buried Ruin
 1 World Breaker
 3 Misty Rainforest
-2 All Is Dust
 3 Wastes
+3 Endbringer
 1 Brazen Borrower
 1 Kiora, Behemoth Beckoner
 2 Brazen Borrower
 2 Breeding Pool
 3 Stubborn Denial
-1 Hallowed Fountain
 1 Temple Garden
+1 Hallowed Fountain
 1 Windswept Heath
 1 Plains
 2 Windswept Heath
@@ -119,7 +120,6 @@
 1 Endless One
 2 Zhalfirin Void
 2 Mutavault
-2 Forest
 2 Simian Spirit Guide
 2 Eldrazi Mimic
 3 Zhalfirin Void
@@ -131,5 +131,30 @@
 4 Forest
 4 Eldrazi Mimic
 4 Simian Spirit Guide
-5 Forest
 4 Zhalfirin Void
+5 Forest
+1 Grove of the Burnwillows
+1 Bloodbraid Elf
+1 Eldrazi Obligator
+1 Mountain
+1 Lightning Bolt
+1 Field of Ruin
+1 Karplusan Forest
+1 Stomping Ground
+2 Grove of the Burnwillows
+2 Lightning Bolt
+2 Bloodbraid Elf
+2 Eldrazi Obligator
+2 Field of Ruin
+2 Karplusan Forest
+2 Mountain
+3 Grove of the Burnwillows
+3 Lightning Bolt
+3 Karplusan Forest
+3 Bloodbraid Elf
+3 Eldrazi Obligator
+4 Grove of the Burnwillows
+4 Eldrazi Obligator
+4 Bloodbraid Elf
+4 Karplusan Forest
+4 Lightning Bolt

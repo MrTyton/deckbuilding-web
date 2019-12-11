@@ -66,6 +66,6 @@
 |                    4|[Aether Vial](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=48146)                 |                     |                                                                                                      |
 |                    4|[Leonin Arbiter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=432996)             |                     |                                                                                                      |
 |                    4|[Eldrazi Temple](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401710)             |                     |                                                                                                      |
-|                    4|[Thalia, Guardian of Thraben](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442025)|                     |                                                                                                      |
 |                    9|[Snow-Covered Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121267)        |                     |                                                                                                      |
+|                    4|[Thalia, Guardian of Thraben](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442025)|                     |                                                                                                      |
 

@@ -184,11 +184,6 @@
 3 Azorius Charm
 3 Absorb
 4 Azorius Charm
-1 Radiant Flames
-1 Dragonmaster Outcast
-2 Spirebluff Canal
-3 Disallow
-4 Disallow
 1 Sylvan Caryatid
 1 Gilded Goose
 1 Blooming Marsh
@@ -209,19 +204,31 @@
 4 Blooming Marsh
 4 Rogue Refiner
 4 Gilded Goose
-1 Geier Reach Sanitarium
-1 Glimmer of Genius
-2 Glimmer of Genius
-3 Narset, Parter of Veils
-3 Sunken Hollow
-3 Glimmer of Genius
-4 Sunken Hollow
 1 Tamiyo, Collector of Tales
 1 Hinterland Harbor
 2 Hinterland Harbor
 3 Hinterland Harbor
 4 Censor
 4 Oko, Thief of Crowns
+1 Jace, Architect of Thought
+1 Nicol Bolas, Dragon-God
+1 Drawn from Dreams
+1 Fires of Invention
+1 Wandering Fumarole
+1 Rakdos's Return
+2 Jace, Architect of Thought
+2 Fires of Invention
+2 Nicol Bolas, Dragon-God
+2 Tyrant's Scorn
+2 Wandering Fumarole
+3 Fires of Invention
+3 Fae of Wishes
+4 Fires of Invention
+1 Radiant Flames
+1 Dragonmaster Outcast
+2 Spirebluff Canal
+3 Disallow
+4 Disallow
 1 Dragonlord Ojutai
 1 Ojutai's Command
 1 Silumgar's Scorn
@@ -238,55 +245,20 @@
 4 Brazen Borrower
 4 Dragonlord Ojutai
 1 Spell Pierce
+1 Scorching Dragonfire
 1 Pull from Tomorrow
 1 Wild Slash
-1 Scorching Dragonfire
 1 Expansion / Explosion
 2 Izzet Charm
 2 Stomping Ground
+2 Scorching Dragonfire
 2 Wild Slash
 2 Expansion / Explosion
-2 Scorching Dragonfire
 3 Sulfur Falls
 3 Stomping Ground
 3 Expansion / Explosion
 3 Wild Slash
 4 Expansion / Explosion
-1 Mutavault
-1 Canyon Slough
-1 Angrath's Rampage
-1 Gifted Aetherborn
-1 Goblin Dark-Dwellers
-2 Goblin Dark-Dwellers
-2 Mutavault
-2 Canyon Slough
-2 Bedevil
-2 Angrath's Rampage
-2 Gifted Aetherborn
-3 Bedevil
-3 Goblin Dark-Dwellers
-3 Gifted Aetherborn
-3 Canyon Slough
-4 Dragonskull Summit
-4 Bedevil
-4 Goblin Dark-Dwellers
-4 Gifted Aetherborn
-4 Kolaghan's Command
-4 Canyon Slough
-1 Jace, Architect of Thought
-1 Nicol Bolas, Dragon-God
-1 Wandering Fumarole
-1 Fires of Invention
-1 Rakdos's Return
-1 Drawn from Dreams
-2 Jace, Architect of Thought
-2 Nicol Bolas, Dragon-God
-2 Fires of Invention
-2 Tyrant's Scorn
-2 Wandering Fumarole
-3 Fae of Wishes
-3 Fires of Invention
-4 Fires of Invention
 1 Overgrown Tomb
 1 Vraska, Golgari Queen
 1 Knight of Autumn
@@ -324,12 +296,12 @@
 4 Gideon of the Trials
 4 Gideon, Ally of Zendikar
 4 Concealed Courtyard
-1 The Eldest Reborn
 1 Trial of Ambition
 1 Disinformation Campaign
 1 Starfield of Nyx
 1 Demonic Pact
 1 Doom Foretold
+1 The Eldest Reborn
 1 Temple of Silence
 2 Doom Foretold
 2 Trial of Ambition
@@ -339,12 +311,19 @@
 3 Doom Foretold
 4 Oath of Kaya
 4 Doom Foretold
+1 Geier Reach Sanitarium
+1 Glimmer of Genius
+2 Glimmer of Genius
+3 Narset, Parter of Veils
+3 Sunken Hollow
+3 Glimmer of Genius
+4 Sunken Hollow
 1 Tasigur, the Golden Fang
+2 The Scarab God
 2 Tasigur, the Golden Fang
 2 Choked Estuary
-2 The Scarab God
-3 Vraska's Contempt
 3 Syncopate
+3 Vraska's Contempt
 4 Syncopate
 4 Languish
 1 Sphinx's Revelation
@@ -362,14 +341,35 @@
 3 Liliana, the Last Hope
 4 Jace, Vryn's Prodigy
 4 Dig Through Time
+1 Mutavault
+1 Canyon Slough
+1 Angrath's Rampage
+1 Gifted Aetherborn
+1 Goblin Dark-Dwellers
+2 Goblin Dark-Dwellers
+2 Mutavault
+2 Canyon Slough
+2 Bedevil
+2 Angrath's Rampage
+2 Gifted Aetherborn
+3 Bedevil
+3 Goblin Dark-Dwellers
+3 Gifted Aetherborn
+3 Canyon Slough
+4 Dragonskull Summit
+4 Bedevil
+4 Goblin Dark-Dwellers
+4 Kolaghan's Command
+4 Canyon Slough
+4 Gifted Aetherborn
 1 Commit / Memory
 1 Collective Brutality
 1 Discovery / Dispersal
 1 Temple of Deceit
 1 Liliana, Dreadhorde General
-2 Fetid Pools
 2 Collective Brutality
 2 Discovery / Dispersal
+2 Fetid Pools
 4 Thought Erasure
 5 Island
 1 Foreboding Ruins
@@ -379,8 +379,8 @@
 1 Chandra, Acolyte of Flame
 1 Chandra, Awakened Inferno
 2 Foreboding Ruins
-2 Glorybringer
 2 Despise
+2 Glorybringer
 2 Read the Bones
 2 Chandra, Acolyte of Flame
 2 Chandra, Awakened Inferno
