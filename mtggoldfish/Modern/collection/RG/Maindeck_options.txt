@@ -1,4 +1,4 @@
-1 Forgotten Cave
+1 Bloodstained Mire
 1 Seismic Assault
 1 Countryside Crusher
 1 Birds of Paradise
@@ -38,21 +38,22 @@
 2 Bonecrusher Giant
 2 Fulminator Mage
 2 Pillage
-3 Bonecrusher Giant
 3 Pillage
+3 Bonecrusher Giant
 4 Pillage
 1 Become Immense
 1 Tarfire
+1 Temur Battle Rage
 1 Rancor
 1 Season of Growth
 1 Manamorphose
 1 Sunbaked Canyon
 1 Eidolon of the Great Revel
-1 Temur Battle Rage
 1 Mutagenic Growth
 1 Monastery Swiftspear
 1 Mishra's Bauble
 2 Become Immense
+2 Temur Battle Rage
 2 Mishra's Bauble
 2 Rancor
 2 Season of Growth
@@ -61,7 +62,6 @@
 2 Monastery Swiftspear
 2 Eidolon of the Great Revel
 2 Sunbaked Canyon
-2 Temur Battle Rage
 3 Temur Battle Rage
 3 Mutagenic Growth
 3 Monastery Swiftspear
@@ -72,6 +72,32 @@
 4 Season of Growth
 4 Monastery Swiftspear
 4 Mutagenic Growth
+1 Kessig Wolf Run
+1 Glorybringer
+1 Utopia Sprawl
+1 Arbor Elf
+1 Domri, Anarch of Bolas
+1 Gruul Spellbreaker
+2 Scavenging Ooze
+2 Gruul Spellbreaker
+2 Utopia Sprawl
+2 Arbor Elf
+2 Glorybringer
+3 Seasoned Pyromancer
+3 Magus of the Moon
+3 Gruul Spellbreaker
+3 Glorybringer
+3 Arbor Elf
+3 Utopia Sprawl
+4 Magus of the Moon
+4 Glorybringer
+4 Utopia Sprawl
+4 Arbor Elf
+4 Forest
+4 Gruul Spellbreaker
+5 Forest
+6 Forest
+7 Forest
 1 Castle Garenbrig
 1 Primeval Titan
 1 Relic of Progenitus
@@ -121,29 +147,3 @@
 5 Mountain
 6 Mountain
 7 Mountain
-1 Kessig Wolf Run
-1 Glorybringer
-1 Utopia Sprawl
-1 Arbor Elf
-1 Domri, Anarch of Bolas
-1 Gruul Spellbreaker
-2 Scavenging Ooze
-2 Gruul Spellbreaker
-2 Utopia Sprawl
-2 Arbor Elf
-2 Glorybringer
-3 Seasoned Pyromancer
-3 Magus of the Moon
-3 Gruul Spellbreaker
-3 Glorybringer
-3 Arbor Elf
-3 Utopia Sprawl
-4 Magus of the Moon
-4 Glorybringer
-4 Utopia Sprawl
-4 Arbor Elf
-4 Forest
-4 Gruul Spellbreaker
-5 Forest
-6 Forest
-7 Forest

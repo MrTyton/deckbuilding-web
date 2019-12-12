@@ -43,8 +43,8 @@
 |                    3|[Leeching Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383297)  |                    1|[Dismember](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382182)          |
 |                    4|[Verdant Catacombs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405113)|                    1|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)     |
 |                    4|[Galerider Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370590) |                    2|[Chalice of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442211)|
+|                     |                                                                                            |                    2|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|
 |                     |                                                                                            |                    2|[Dismember](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382182)          |
 |                     |                                                                                            |                    2|[Damping Matrix](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426043)     |
-|                     |                                                                                            |                    2|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|
 |                     |                                                                                            |                    2|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)     |
 

@@ -1,20 +1,25 @@
-1 Shock
-2 Shock
-15 Mountain
-2 Hazoret the Fervent
+2 Searing Blood
 1 Bonecrusher Giant
-2 Bonecrusher Giant
 16 Mountain
-1 Goblin Chainwhirler
-2 Goblin Chainwhirler
-3 Goblin Chainwhirler
-4 Goblin Chainwhirler
 1 Experimental Frenzy
 1 Runaway Steam-Kin
 2 Experimental Frenzy
 2 Runaway Steam-Kin
-1 Searing Blood
-2 Searing Blood
+1 Smuggler's Copter
+2 Smuggler's Copter
+2 Hazoret the Fervent
+3 Smuggler's Copter
+4 Smuggler's Copter
+2 Bonecrusher Giant
+1 Goblin Chainwhirler
+2 Goblin Chainwhirler
+3 Goblin Chainwhirler
+4 Goblin Chainwhirler
+3 Runaway Steam-Kin
+3 Experimental Frenzy
+4 Runaway Steam-Kin
+3 Searing Blood
+4 Searing Blood
 1 Skewer the Critics
 2 Skewer the Critics
 3 Skewer the Critics
@@ -36,12 +41,7 @@
 3 Shock
 4 Shock
 17 Mountain
-3 Runaway Steam-Kin
-3 Experimental Frenzy
 4 Experimental Frenzy
-4 Runaway Steam-Kin
-3 Searing Blood
-4 Searing Blood
 3 Battlefield Forge
 4 Battlefield Forge
 1 Viashino Pyromancer
@@ -87,6 +87,8 @@
 4 Burning-Tree Emissary
 1 Titan's Strength
 2 Titan's Strength
+1 Exquisite Firecraft
+2 Exquisite Firecraft
 4 Viashino Pyromancer
 3 Skullcrack
 4 Skullcrack
@@ -151,9 +153,9 @@
 2 Ghor-Clan Rampager
 2 Rootbound Crag
 2 Atarka's Command
-3 Ghor-Clan Rampager
 3 Dragon Fodder
 3 Rakdos Cackler
+3 Ghor-Clan Rampager
 3 Stomping Ground
 3 Rootbound Crag
 3 Atarka's Command

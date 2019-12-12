@@ -1,11 +1,58 @@
-3 Mountain
+1 Bloodstained Mire
+2 Bloodstained Mire
+1 Skewer the Critics
+1 Rift Bolt
+1 Lava Spike
+1 Goblin Guide
+2 Fiery Islet
+2 Skewer the Critics
+2 Arid Mesa
+2 Rift Bolt
+2 Goblin Guide
+2 Lava Spike
+3 Skewer the Critics
+3 Fiery Islet
+3 Lava Spike
+3 Goblin Guide
+3 Rift Bolt
+4 Skewer the Critics
+4 Rift Bolt
+4 Goblin Guide
+4 Lava Spike
+1 Blackcleave Cliffs
+1 Blood Crypt
+2 Blackcleave Cliffs
+3 Blackcleave Cliffs
+3 Bloodstained Mire
+1 Snow-Covered Mountain
+1 Skullcrack
+1 Searing Blaze
+1 Lightning Skelemental
+1 Finale of Promise
+1 Bump in the Night
+2 Snow-Covered Mountain
+2 Searing Blaze
+2 Finale of Promise
+2 Lightning Skelemental
+2 Bump in the Night
+3 Snow-Covered Mountain
+3 Arid Mesa
+3 Bump in the Night
+4 Snow-Covered Mountain
+4 Blackcleave Cliffs
+4 Arid Mesa
+4 Bump in the Night
+15 Mountain
+16 Mountain
+1 Sunbaked Canyon
+1 Burst Lightning
+2 Burst Lightning
 3 Searing Blaze
 3 Lightning Skelemental
 2 Skullcrack
 3 Finale of Promise
-4 Mountain
-5 Mountain
-1 Sunbaked Canyon
+3 Burst Lightning
+4 Burst Lightning
 1 Wooded Foothills
 1 Seal of Fire
 1 Vexing Devil
@@ -26,38 +73,34 @@
 3 Vexing Devil
 4 Seal of Fire
 4 Sunbaked Canyon
+4 Eidolon of the Great Revel
 4 Fiery Islet
 4 Vexing Devil
-4 Eidolon of the Great Revel
 1 Simian Spirit Guide
 2 Simian Spirit Guide
 3 Simian Spirit Guide
 4 Simian Spirit Guide
 1 Sulfurous Springs
-6 Mountain
-7 Mountain
 1 Bonecrusher Giant
 1 Gemstone Caverns
 1 Prismatic Vista
 1 Rampaging Ferocidon
 1 Wastes
+1 Eldrazi Temple
 1 Thought-Knot Seer
 1 Marauding Raptor
-1 Burst Lightning
-1 Eldrazi Temple
+1 Keldon Marauders
 1 Reality Smasher
 1 Dismember
 1 Ramunap Ruins
-1 Keldon Marauders
 2 Bonecrusher Giant
 2 Prismatic Vista
 2 Reality Smasher
 2 Gemstone Caverns
 2 Thought-Knot Seer
 2 Marauding Raptor
-2 Burst Lightning
-2 Eldrazi Temple
 2 Dismember
+2 Eldrazi Temple
 2 Keldon Marauders
 2 Ramunap Ruins
 2 Rampaging Ferocidon
@@ -65,11 +108,11 @@
 3 Prismatic Vista
 3 Ramunap Ruins
 3 Eldrazi Temple
-3 Rampaging Ferocidon
 3 Reality Smasher
-3 Keldon Marauders
+3 Rampaging Ferocidon
 3 Gemstone Caverns
 3 Thought-Knot Seer
+3 Keldon Marauders
 3 Marauding Raptor
 4 Bonecrusher Giant
 4 Prismatic Vista
@@ -92,7 +135,6 @@
 1 Auntie's Hovel
 1 Aether Vial
 1 Goblin Matron
-1 Krenko, Mob Boss
 1 Goblin Bushwhacker
 1 Goblin Trashmaster
 1 Skirk Prospector
@@ -100,6 +142,7 @@
 1 Mogg War Marshal
 1 Knucklebone Witch
 1 Field of Ruin
+1 Krenko, Mob Boss
 1 Goblin Grenade
 1 Dragonskull Summit
 2 Pashalik Mons
@@ -119,9 +162,9 @@
 3 Sling-Gang Lieutenant
 3 Mogg War Marshal
 3 Goblin Matron
-3 Auntie's Hovel
 3 Munitions Expert
 3 Aether Vial
+3 Auntie's Hovel
 3 Sulfurous Springs
 3 Skirk Prospector
 4 Goblin Matron
@@ -145,9 +188,9 @@
 2 Mutavault
 2 Fatal Push
 2 Inquisition of Kozilek
+2 Goryo's Vengeance
 2 Thoughtseize
 2 Griselbrand
-2 Goryo's Vengeance
 2 Collective Brutality
 2 Night's Whisper
 2 Thrill of Possibility
@@ -164,10 +207,10 @@
 3 Emrakul, the Aeons Torn
 4 Emrakul, the Aeons Torn
 4 Through the Breach
-4 Thrill of Possibility
 4 Griselbrand
 4 Bloodstained Mire
+4 Thrill of Possibility
 4 Swamp
-4 Collective Brutality
 4 Goryo's Vengeance
+4 Collective Brutality
 5 Swamp

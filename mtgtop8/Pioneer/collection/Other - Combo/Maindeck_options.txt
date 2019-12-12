@@ -1,3 +1,4 @@
+1 Island
 1 Stomping Ground
 1 Rogue Refiner
 1 Woodweaver's Puzzleknot
@@ -9,9 +10,8 @@
 1 Harnessed Lightning
 1 Mountain
 1 Whirler Virtuoso
-1 Island
-2 Whirler Virtuoso
 2 Stomping Ground
+2 Whirler Virtuoso
 2 Rogue Refiner
 2 Woodweaver's Puzzleknot
 2 Aetherworks Marvel
@@ -19,10 +19,10 @@
 2 Harnessed Lightning
 2 Attune with Aether
 2 Aether Hub
+3 Forest
 3 Rogue Refiner
 3 Woodweaver's Puzzleknot
 3 Aetherworks Marvel
-3 Forest
 3 Attune with Aether
 3 Aether Hub
 3 Harnessed Lightning
@@ -56,8 +56,8 @@
 4 Hour of Devastation
 1 Temple Garden
 1 Ugin, the Ineffable
-1 Nahiri, the Harbinger
 1 Spirebluff Canal
+1 Nahiri, the Harbinger
 1 Tireless Tracker
 1 Ugin, the Spirit Dragon
 1 Plains
@@ -70,9 +70,9 @@
 2 Hope of Ghirapur
 1 Blooming Marsh
 1 Oko, Thief of Crowns
-1 Teferi, Time Raveler
 1 Urborg, Tomb of Yawgmoth
 1 Hallowed Fountain
+1 Teferi, Time Raveler
 1 Kethis, the Hidden Hand
 1 Emry, Lurker of the Loch
 1 Mox Amber
@@ -89,8 +89,8 @@
 2 Teferi, Time Raveler
 2 Kethis, the Hidden Hand
 2 Emry, Lurker of the Loch
-2 Mox Amber
 2 Mana Confluence
+2 Mox Amber
 2 Diligent Excavator
 2 Oath of Nissa
 2 Lazav, the Multifarious
@@ -107,8 +107,8 @@
 3 Oath of Nissa
 3 Lazav, the Multifarious
 3 Diligent Excavator
-4 Kethis, the Hidden Hand
 4 Blooming Marsh
+4 Kethis, the Hidden Hand
 4 Hallowed Fountain
 4 Mox Amber
 4 Mana Confluence
@@ -124,24 +124,24 @@
 1 Kozilek's Return
 2 Golos, Tireless Pilgrim
 2 World Breaker
-2 Kozilek's Return
 2 Glassblower's Puzzleknot
+2 Kozilek's Return
 3 Ulamog, the Ceaseless Hunger
 3 Kozilek's Return
 3 Glassblower's Puzzleknot
 4 Kozilek's Return
-1 Heart of Kiran
 1 Mobilized District
 1 Sea Gate Wreckage
 1 Karn, Scion of Urza
 1 Warping Wail
+1 Heart of Kiran
 1 Wastes
 1 Zhalfirin Void
 1 Walking Ballista
 1 Spatial Contortion
 1 Scrap Trawler
-1 Stonecoil Serpent
 1 Ratchet Bomb
+1 Stonecoil Serpent
 1 Darksteel Citadel
 1 Karn, the Great Creator
 1 Field of Ruin
@@ -152,8 +152,8 @@
 2 Wastes
 2 Karn, Scion of Urza
 2 Blast Zone
-2 Zhalfirin Void
 2 Walking Ballista
+2 Zhalfirin Void
 2 Spatial Contortion
 2 Ratchet Bomb
 2 Stonecoil Serpent
@@ -165,9 +165,9 @@
 2 Field of Ruin
 2 Mobilized District
 3 Blast Zone
+3 Walking Ballista
 3 Karn, Scion of Urza
 3 Shrine of the Forsaken Gods
-3 Walking Ballista
 3 Warping Wail
 3 Wastes
 3 Zhalfirin Void
@@ -185,3 +185,16 @@
 4 Shrine of the Forsaken Gods
 4 Scrap Trawler
 4 Fountain of Renewal
+1 Expansion / Explosion
+1 Strategic Planning
+1 Opt
+1 Ral, Storm Conduit
+1 Doublecast
+2 Yavimaya Coast
+2 Expansion / Explosion
+2 Strategic Planning
+2 Doublecast
+3 Strategic Planning
+3 Doublecast
+4 Doublecast
+4 Strategic Planning

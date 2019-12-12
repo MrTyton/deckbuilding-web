@@ -5,37 +5,37 @@
 1 Sulfur Falls
 2 Sulfur Falls
 4 Mountain
+2 Island
 1 Izzet Charm
 2 Izzet Charm
-2 Island
 3 Izzet Charm
 1 Rekindling Phoenix
-1 Bonecrusher Giant
 1 Kozilek's Return
+1 Bonecrusher Giant
 1 Elder Deep-Fiend
 1 Lightning Axe
 1 Brazen Borrower
 1 Flamewake Phoenix
+2 Brazen Borrower
 2 Bonecrusher Giant
 2 Rekindling Phoenix
-2 Kozilek's Return
 2 Elder Deep-Fiend
+2 Kozilek's Return
 2 Lightning Axe
-2 Brazen Borrower
 2 Flamewake Phoenix
 3 Bonecrusher Giant
 3 Rekindling Phoenix
+3 Elder Deep-Fiend
 3 Kozilek's Return
 3 Lightning Axe
 3 Brazen Borrower
-3 Elder Deep-Fiend
 3 Flamewake Phoenix
-4 Bonecrusher Giant
 4 Rekindling Phoenix
 4 Kozilek's Return
-4 Elder Deep-Fiend
+4 Bonecrusher Giant
 4 Brazen Borrower
 4 Flamewake Phoenix
+4 Elder Deep-Fiend
 4 Izzet Charm
 1 Chandra, Torch of Defiance
 2 Chandra, Torch of Defiance
@@ -60,25 +60,25 @@
 3 The Royal Scions
 4 The Royal Scions
 5 Mountain
+1 Opt
+2 Opt
+3 Opt
+4 Opt
 1 Stormchaser Mage
 1 Soul-Scar Mage
-1 Monastery Swiftspear
 1 Treasure Cruise
-1 Opt
+1 Monastery Swiftspear
 2 Stormchaser Mage
 2 Soul-Scar Mage
-2 Monastery Swiftspear
 2 Treasure Cruise
-2 Opt
+2 Monastery Swiftspear
 3 Stormchaser Mage
 3 Soul-Scar Mage
-3 Monastery Swiftspear
 3 Wild Slash
-3 Opt
+3 Monastery Swiftspear
 4 Soul-Scar Mage
 4 Stormchaser Mage
 4 Monastery Swiftspear
-4 Opt
 1 Whirler Rogue
 5 Island
 1 Champion of Wits
@@ -97,11 +97,12 @@
 4 Crash Through
 4 Wild Slash
 6 Mountain
+1 Fabled Passage
 1 Smash to Smithereens
 1 Glorybringer
-1 Fabled Passage
 2 Glorybringer
 3 Glorybringer
+3 Stubborn Denial
 2 Sanctum of Ugin
 3 Sanctum of Ugin
 3 Champion of Wits
@@ -111,9 +112,8 @@
 2 Scrapheap Scrounger
 2 Emry, Lurker of the Loch
 2 Springleaf Drum
-3 Scrapheap Scrounger
 3 Emry, Lurker of the Loch
-3 Stubborn Denial
+3 Scrapheap Scrounger
 1 Abrade
 1 Renegade Tactics
 1 Warlord's Fury
@@ -122,6 +122,57 @@
 2 Renegade Tactics
 3 Shock
 4 Shock
+1 Cast Out
+1 Glacial Fortress
+1 Azorius Charm
+1 Plains
+1 Prairie Stream
+1 Absorb
+1 Port Town
+1 Irrigated Farmland
+1 Teferi, Time Raveler
+1 Hallowed Fountain
+1 Settle the Wreckage
+1 Approach of the Second Sun
+1 Castle Ardenvale
+1 Castle Vantress
+1 Dig Through Time
+1 Declaration in Stone
+1 Censor
+1 Search for Azcanta
+1 Fae of Wishes
+1 Supreme Verdict
+2 Cast Out
+2 Azorius Charm
+2 Absorb
+2 Glacial Fortress
+2 Irrigated Farmland
+2 Fabled Passage
+2 Teferi, Time Raveler
+2 Hallowed Fountain
+2 Dig Through Time
+2 Plains
+2 Censor
+2 Supreme Verdict
+2 Declaration in Stone
+2 Fae of Wishes
+3 Cast Out
+3 Irrigated Farmland
+3 Glacial Fortress
+3 Hallowed Fountain
+3 Teferi, Time Raveler
+3 Declaration in Stone
+3 Supreme Verdict
+3 Fae of Wishes
+3 Dig Through Time
+3 Censor
+3 Plains
+4 Teferi, Time Raveler
+4 Censor
+4 Glacial Fortress
+4 Hallowed Fountain
+4 Fae of Wishes
+4 Plains
 1 Risk Factor
 1 Lightning Strike
 2 Lightning Strike

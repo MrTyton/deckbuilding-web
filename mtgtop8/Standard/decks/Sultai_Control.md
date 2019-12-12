@@ -56,7 +56,7 @@
 |                    2|[Frilled Mystic](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457318)      |                     |                                                                                               |
 |                    2|[Fabled Passage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473206)      |                     |                                                                                               |
 |                    2|[Temple of Malady](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=380515)    |                     |                                                                                               |
+|                    3|[Temple of Malady](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=380515)    |                     |                                                                                               |
 |                    3|[Temple of Mystery](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373571)   |                     |                                                                                               |
 |                    3|[Frilled Mystic](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457318)      |                     |                                                                                               |
-|                    3|[Temple of Malady](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=380515)    |                     |                                                                                               |
 

@@ -1,59 +1,6 @@
 3 Kolaghan's Command
 3 Snapcaster Mage
 1 Brazen Borrower
-1 Wasteland
-2 Wasteland
-1 Karakas
-1 Plains
-1 Tundra
-1 Mother of Runes
-1 Aether Vial
-2 Tundra
-2 Aether Vial
-2 Flooded Strand
-2 Mother of Runes
-3 Flooded Strand
-3 Aether Vial
-4 Flooded Strand
-4 Aether Vial
-1 Snow-Covered Island
-1 Fiery Islet
-1 Plateau
-1 Geier Reach Sanitarium
-1 Snow-Covered Plains
-1 Spell Queller
-1 Spirit of the Labyrinth
-1 Unsettled Mariner
-1 Moorland Haunt
-1 Vendilion Clique
-1 Rattlechains
-1 Cavern of Souls
-1 Phantasmal Image
-1 Eidolon of the Great Revel
-1 Mausoleum Wanderer
-1 Hypnotic Sprite
-1 Supreme Phantom
-1 Drogskol Captain
-2 Fiery Islet
-2 Spell Queller
-2 Rattlechains
-2 Supreme Phantom
-2 Spirit of the Labyrinth
-2 Unsettled Mariner
-2 Mausoleum Wanderer
-2 Cavern of Souls
-2 Drogskol Captain
-3 Cavern of Souls
-3 Drogskol Captain
-3 Supreme Phantom
-3 Spell Queller
-3 Rattlechains
-3 Mausoleum Wanderer
-4 Spell Queller
-4 Supreme Phantom
-4 Drogskol Captain
-4 Rattlechains
-4 Mausoleum Wanderer
 1 Force of Negation
 2 Daze
 1 Retrofitter Foundry
@@ -77,32 +24,34 @@
 4 Ingenious Infiltrator
 4 Ornithopter
 4 Yuriko, the Tiger's Shadow
-1 Sylvan Library
-1 Windswept Heath
-2 Windswept Heath
-3 Windswept Heath
+1 Wasteland
+2 Wasteland
+1 Tropical Island
+1 Ice-Fang Coatl
+1 Snow-Covered Island
 1 Scavenging Ooze
 1 Noble Hierarch
-1 Oko, Thief of Crowns
+1 Sylvan Library
 1 Misty Rainforest
-1 Ice-Fang Coatl
-1 Tropical Island
 1 Gilded Goose
 1 Courser of Kruphix
+1 Oko, Thief of Crowns
 1 Dryad Arbor
 1 Snow-Covered Forest
 1 Collector Ouphe
 1 Green Sun's Zenith
+1 Windswept Heath
 1 Hexdrinker
+2 Tropical Island
 2 Ice-Fang Coatl
 2 Misty Rainforest
-2 Snow-Covered Island
-2 Tropical Island
 2 Courser of Kruphix
 2 Brazen Borrower
+2 Windswept Heath
+2 Green Sun's Zenith
+2 Snow-Covered Island
 2 Noble Hierarch
 2 Oko, Thief of Crowns
-2 Green Sun's Zenith
 2 Snow-Covered Forest
 3 Snow-Covered Forest
 3 Oko, Thief of Crowns
@@ -113,6 +62,7 @@
 3 Brazen Borrower
 3 Wasteland
 3 Green Sun's Zenith
+3 Windswept Heath
 3 Noble Hierarch
 4 Oko, Thief of Crowns
 4 Ice-Fang Coatl
@@ -120,79 +70,45 @@
 4 Misty Rainforest
 4 Green Sun's Zenith
 4 Noble Hierarch
-1 Tomik, Distinguished Advokist
-1 Swords to Plowshares
-2 Swords to Plowshares
-3 Swords to Plowshares
-4 Swords to Plowshares
-1 Elvish Spirit Guide
-1 Ramunap Excavator
-1 Gaddock Teeg
-1 Selesnya Charm
-1 Rhonas's Last Stand
-1 Mana Tithe
-1 Sundering Growth
-1 Call of the Conclave
-1 Wake the Reflections
-1 Savannah
-1 Voice of Resurgence
-1 Forest
-1 Druid's Deliverance
-2 Plains
-2 Elvish Spirit Guide
-2 Sylvan Library
-2 Druid's Deliverance
-2 Savannah
-2 Wake the Reflections
-2 Selesnya Charm
-2 Forest
-2 Sundering Growth
-2 Call of the Conclave
-2 Mana Tithe
-2 Karakas
-2 Voice of Resurgence
-2 Rhonas's Last Stand
-3 Plains
-3 Elvish Spirit Guide
-3 Selesnya Charm
-3 Forest
-3 Wake the Reflections
-3 Voice of Resurgence
-3 Call of the Conclave
-3 Druid's Deliverance
-3 Rhonas's Last Stand
-4 Forest
-4 Plains
-4 Elvish Spirit Guide
-4 Rhonas's Last Stand
-4 Windswept Heath
-4 Selesnya Charm
-4 Voice of Resurgence
-4 Wake the Reflections
-4 Call of the Conclave
-4 Druid's Deliverance
-5 Forest
 1 Charming Prince
 1 Palace Jailer
 1 Chrome Mox
 1 Marsh Flats
+1 Karakas
+1 Tundra
 1 Scrubland
+1 Plains
+1 Tomik, Distinguished Advokist
 1 Recruiter of the Guard
+1 True-Name Nemesis
 1 Meddling Mage
 1 Remorseful Cleric
-1 True-Name Nemesis
+1 Mother of Runes
 1 Weathered Wayfarer
 1 Flickerwisp
+1 Aether Vial
 1 Leonin Relic-Warder
+1 Swords to Plowshares
 1 Soulherder
+2 Tundra
 2 Meddling Mage
+2 Aether Vial
 2 True-Name Nemesis
+2 Swords to Plowshares
 2 Soulherder
-2 Recruiter of the Guard
 2 Marsh Flats
+2 Recruiter of the Guard
+2 Mother of Runes
+2 Flooded Strand
 3 Recruiter of the Guard
+3 Flooded Strand
 3 Meddling Mage
 3 Mother of Runes
+3 Swords to Plowshares
+3 Aether Vial
 4 Mother of Runes
+4 Flooded Strand
+4 Swords to Plowshares
 4 Meddling Mage
+4 Aether Vial
 4 Recruiter of the Guard

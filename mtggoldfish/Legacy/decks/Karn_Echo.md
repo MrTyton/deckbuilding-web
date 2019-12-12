@@ -1,7 +1,7 @@
 # Karn Echo
 
 #### [Export MTGO List](../collection/Karn%20Echo/Karn%20Echo.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Ancient%20Tomb%0A3%09Basalt%20Monolith%0A4%09City%20of%20Traitors%0A3%09Darksteel%20Citadel%0A3%09Defense%20Grid%0A4%09Echo%20of%20Eons%0A1%09Emry,%20Lurker%20of%20the%20Loch%0A4%09Grim%20Monolith%0A4%09Karn,%20the%20Great%20Creator%0A3%09Lion's%20Eye%20Diamond%0A4%09Lotus%20Petal%0A4%09Manifold%20Key%0A3%09Mesmeric%20Orb%0A4%09Mox%20Opal%0A3%09Mystic%20Forge%0A4%09Seat%20of%20the%20Synod%0A4%09Voltaic%20Key%0A1%09Walking%20Ballista&deckside=1%09Aetherflux%20Reservoir%0A1%09Basalt%20Monolith%0A1%09Defense%20Grid%0A3%09Echoing%20Truth%0A1%09Ensnaring%20Bridge%0A1%09Lion's%20Eye%20Diamond%0A1%09Mesmeric%20Orb%0A1%09Mycosynth%20Lattice%0A1%09Mystic%20Forge%0A1%09Silent%20Gravestone%0A2%09Tormod's%20Crypt%0A1%09Walking%20Ballista)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Ancient%20Tomb%0A3%09Basalt%20Monolith%0A4%09City%20of%20Traitors%0A3%09Darksteel%20Citadel%0A3%09Defense%20Grid%0A4%09Echo%20of%20Eons%0A1%09Emry,%20Lurker%20of%20the%20Loch%0A4%09Grim%20Monolith%0A4%09Karn,%20the%20Great%20Creator%0A3%09Lion's%20Eye%20Diamond%0A4%09Lotus%20Petal%0A4%09Manifold%20Key%0A3%09Mesmeric%20Orb%0A4%09Mox%20Opal%0A3%09Mystic%20Forge%0A4%09Seat%20of%20the%20Synod%0A4%09Voltaic%20Key%0A1%09Walking%20Ballista&deckside=1%09Aetherflux%20Reservoir%0A1%09Basalt%20Monolith%0A4%09Echoing%20Truth%0A1%09Ensnaring%20Bridge%0A1%09Lion's%20Eye%20Diamond%0A1%09Mesmeric%20Orb%0A1%09Mycosynth%20Lattice%0A1%09Mystic%20Forge%0A1%09Silent%20Gravestone%0A2%09Tormod's%20Crypt%0A1%09Walking%20Ballista)
 # Maindeck
 
 |                                        Artifact (35)                                        |                                            Creature (2)                                             |                                          Land (15)                                           |                                          Planeswalker (4)                                          |                                       Sorcery (4)                                       |
@@ -20,11 +20,10 @@
 
 # Sideboard
 
-|                                          Artifact (11)                                          |                                        Creature (1)                                         |                                       Instant (3)                                        |
+|                                          Artifact (10)                                          |                                        Creature (1)                                         |                                       Instant (4)                                        |
 |-------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
-|1 [Aetherflux Reservoir](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417765)|1 [Walking Ballista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423848)|3 [Echoing Truth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405212)|
+|1 [Aetherflux Reservoir](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417765)|1 [Walking Ballista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423848)|4 [Echoing Truth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405212)|
 |1 [Basalt Monolith](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=599)        |                                                                                             |                                                                                          |
-|1 [Defense Grid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45481)         |                                                                                             |                                                                                          |
 |1 [Ensnaring Bridge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=15866)     |                                                                                             |                                                                                          |
 |1 [Lion's Eye Diamond](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3255)    |                                                                                             |                                                                                          |
 |1 [Mesmeric Orb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=30008)         |                                                                                             |                                                                                          |
@@ -36,8 +35,8 @@
 
 # Other Options
 
-|*n*<sup>th</sup> copy|                                      Maindeck Card                                       |*n*<sup>th</sup> copy|                                     Sideboard Card                                     |
-|--------------------:|------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------|
-|                    1|[Inventors' Fair](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417820)|                    4|[Echoing Truth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405212)|
-|                    4|[Defense Grid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45481)    |                     |                                                                                        |
+|*n*<sup>th</sup> copy|                                      Maindeck Card                                       |*n*<sup>th</sup> copy|                                    Sideboard Card                                    |
+|--------------------:|------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------|
+|                    1|[Inventors' Fair](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417820)|                    1|[Defense Grid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45481)|
+|                    4|[Defense Grid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45481)    |                     |                                                                                      |
 
