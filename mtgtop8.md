@@ -4,13 +4,14 @@
 
 # Standard
 
-|                                 A                                  |                              B                               |                               C                                |                             D                              |                            E                             |
-|--------------------------------------------------------------------|--------------------------------------------------------------|----------------------------------------------------------------|------------------------------------------------------------|----------------------------------------------------------|
-|[Adventure](./mtgtop8/Standard/decks/Adventure.md)                  |[Golgari Control](./mtgtop8/Standard/decks/Golgari_Control.md)|[Mardu Aggro](./mtgtop8/Standard/decks/Mardu_Aggro.md)          |[Rakdos Aggro](./mtgtop8/Standard/decks/Rakdos_Aggro.md)    |[Temur Aggro](./mtgtop8/Standard/decks/Temur_Aggro.md)    |
-|[Esper Control](./mtgtop8/Standard/decks/Esper_Control.md)          |[Grixis Control](./mtgtop8/Standard/decks/Grixis_Control.md)  |[Mono Black Aggro](./mtgtop8/Standard/decks/Mono_Black_Aggro.md)|[Red Deck Wins](./mtgtop8/Standard/decks/Red_Deck_Wins.md)  |[Temur Control](./mtgtop8/Standard/decks/Temur_Control.md)|
-|[Esper Midrange](./mtgtop8/Standard/decks/Esper_Midrange.md)        |[Gruul Aggro](./mtgtop8/Standard/decks/Gruul_Aggro.md)        |[Mono Green Aggro](./mtgtop8/Standard/decks/Mono_Green_Aggro.md)|[Simic Aggro](./mtgtop8/Standard/decks/Simic_Aggro.md)      |[UR Aggro](./mtgtop8/Standard/decks/UR_Aggro.md)          |
-|[Fires of Invention](./mtgtop8/Standard/decks/Fires_of_Invention.md)|[Izzet Control](./mtgtop8/Standard/decks/Izzet_Control.md)    |[Orzhov Control](./mtgtop8/Standard/decks/Orzhov_Control.md)    |[Simic Control](./mtgtop8/Standard/decks/Simic_Control.md)  |[UW Control](./mtgtop8/Standard/decks/UW_Control.md)      |
-|[Golgari Aggro](./mtgtop8/Standard/decks/Golgari_Aggro.md)          |[Jund](./mtgtop8/Standard/decks/Jund.md)                      |[Other - Aggro](./mtgtop8/Standard/decks/Other_-_Aggro.md)      |[Sultai Control](./mtgtop8/Standard/decks/Sultai_Control.md)|[Weenie White](./mtgtop8/Standard/decks/Weenie_White.md)  |
+|                                 A                                  |                              B                               |                               C                                |                             D                              |                           E                            |
+|--------------------------------------------------------------------|--------------------------------------------------------------|----------------------------------------------------------------|------------------------------------------------------------|--------------------------------------------------------|
+|[Adventure](./mtgtop8/Standard/decks/Adventure.md)                  |[Golgari Control](./mtgtop8/Standard/decks/Golgari_Control.md)|[Mono Black Aggro](./mtgtop8/Standard/decks/Mono_Black_Aggro.md)|[Simic Aggro](./mtgtop8/Standard/decks/Simic_Aggro.md)      |[UW Control](./mtgtop8/Standard/decks/UW_Control.md)    |
+|[Boros Aggro](./mtgtop8/Standard/decks/Boros_Aggro.md)              |[Grixis Control](./mtgtop8/Standard/decks/Grixis_Control.md)  |[Mono Green Aggro](./mtgtop8/Standard/decks/Mono_Green_Aggro.md)|[Simic Control](./mtgtop8/Standard/decks/Simic_Control.md)  |[Weenie White](./mtgtop8/Standard/decks/Weenie_White.md)|
+|[Esper Control](./mtgtop8/Standard/decks/Esper_Control.md)          |[Gruul Aggro](./mtgtop8/Standard/decks/Gruul_Aggro.md)        |[Orzhov Control](./mtgtop8/Standard/decks/Orzhov_Control.md)    |[Sultai Control](./mtgtop8/Standard/decks/Sultai_Control.md)|                                                        |
+|[Esper Midrange](./mtgtop8/Standard/decks/Esper_Midrange.md)        |[Izzet Control](./mtgtop8/Standard/decks/Izzet_Control.md)    |[Other - Aggro](./mtgtop8/Standard/decks/Other_-_Aggro.md)      |[Temur Aggro](./mtgtop8/Standard/decks/Temur_Aggro.md)      |                                                        |
+|[Fires of Invention](./mtgtop8/Standard/decks/Fires_of_Invention.md)|[Jund](./mtgtop8/Standard/decks/Jund.md)                      |[Rakdos Aggro](./mtgtop8/Standard/decks/Rakdos_Aggro.md)        |[Temur Control](./mtgtop8/Standard/decks/Temur_Control.md)  |                                                        |
+|[Golgari Aggro](./mtgtop8/Standard/decks/Golgari_Aggro.md)          |[Mardu Aggro](./mtgtop8/Standard/decks/Mardu_Aggro.md)        |[Red Deck Wins](./mtgtop8/Standard/decks/Red_Deck_Wins.md)      |[UR Aggro](./mtgtop8/Standard/decks/UR_Aggro.md)            |                                                        |
 
 
 # Pioneer
@@ -61,4 +62,4 @@
 
 
 
-#### Last Updated at 12:36AM on December 12, 2019
+#### Last Updated at 12:26PM on December 12, 2019

@@ -26,3 +26,24 @@
 |2 [Shifting Ceratops](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466948)  |1 [Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)          |                                                                                                       |                                                                                              |
 |2 [Thrashing Brontodon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456570)|                                                                                             |                                                                                                       |                                                                                              |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                         Maindeck Card                                          |*n*<sup>th</sup> copy|                                       Sideboard Card                                       |
+|--------------------:|------------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------|
+|                    1|[Aether Gust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466796)          |                    1|[Return to Nature](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461102) |
+|                    1|[Arboreal Grazer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461076)      |                    2|[Return to Nature](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461102) |
+|                    1|[Finale of Devastation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461087)|                    3|[Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020) |
+|                    1|[Blast Zone](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461171)           |                    3|[Aether Gust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466796)      |
+|                    1|[Growth Spiral](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457322)        |                    3|[Shifting Ceratops](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466948)|
+|                    1|[End-Raze Forerunners](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457268) |                    4|[Shifting Ceratops](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466948)|
+|                    2|[Finale of Devastation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461087)|                     |                                                                                            |
+|                    2|[Castle Vantress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473204)      |                     |                                                                                            |
+|                    2|[Growth Spiral](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457322)        |                     |                                                                                            |
+|                    2|[Arboreal Grazer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461076)      |                     |                                                                                            |
+|                    3|[Growth Spiral](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457322)        |                     |                                                                                            |
+|                    4|[Growth Spiral](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457322)        |                     |                                                                                            |
+|                    8|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)               |                     |                                                                                            |
+|                    9|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)               |                     |                                                                                            |
+|                   10|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)               |                     |                                                                                            |
+
