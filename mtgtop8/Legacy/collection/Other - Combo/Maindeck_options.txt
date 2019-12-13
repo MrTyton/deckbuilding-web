@@ -1,3 +1,14 @@
+1 Scalding Tarn
+2 Scalding Tarn
+1 Snow-Covered Island
+1 Brainstorm
+1 Flooded Strand
+1 Ponder
+1 Prismatic Vista
+1 Force of Will
+2 Snow-Covered Island
+2 Brainstorm
+2 Ponder
 2 Force of Will
 3 Brainstorm
 3 Snow-Covered Island
@@ -31,28 +42,18 @@
 3 Scalding Tarn
 4 Swords to Plowshares
 4 Flooded Strand
-1 Polluted Delta
 1 Chrome Mox
-1 Godless Shrine
+1 Scrubland
+1 Marsh Flats
+1 Bloodstained Mire
+3 Polluted Delta
 1 Tendrils of Agony
 1 Crop Rotation
 1 Forest
-2 Verdant Catacombs
 2 Crop Rotation
-3 Verdant Catacombs
 4 Verdant Catacombs
 4 Thoughtseize
 4 Living Wish
-1 Unburial Rites
-1 Scrubland
-1 Marsh Flats
-1 Unmask
-1 Bloodstained Mire
-2 Unmask
-2 Polluted Delta
-3 Vampire Hexmage
-3 Griselbrand
-4 Exhume
 1 Arid Mesa
 1 Magmatic Sinkhole
 1 Deceiver Exarch
@@ -69,7 +70,6 @@
 4 Arcum's Astrolabe
 4 Scalding Tarn
 4 Deceiver Exarch
-1 Spell Queller
 1 Supreme Verdict
 1 Unexpectedly Absent
 1 Council's Judgment
@@ -77,6 +77,7 @@
 1 Karakas
 1 Saheeli Rai
 1 Felidar Guardian
+1 Spell Queller
 2 Snow-Covered Plains
 2 Tundra
 2 Felidar Guardian
@@ -145,8 +146,8 @@
 2 Walking Ballista
 2 Daze
 2 Preordain
-2 Karn, the Great Creator
 2 Power Artifact
+2 Karn, the Great Creator
 2 City of Traitors
 2 Grim Monolith
 3 Walking Ballista

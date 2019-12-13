@@ -201,6 +201,6 @@
 |                    4|[Militia Bugler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447165)           |                     |                                                                                                     |
 |                    4|[Oketra's Monument](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426935)        |                     |                                                                                                     |
 |                    8|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)                   |                     |                                                                                                     |
-|                    9|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)                   |                     |                                                                                                     |
 |                   10|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)                   |                     |                                                                                                     |
+|                    9|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)                   |                     |                                                                                                     |
 
