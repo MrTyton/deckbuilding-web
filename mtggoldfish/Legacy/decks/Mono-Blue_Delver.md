@@ -36,8 +36,8 @@
 
 |*n*<sup>th</sup> copy|                                        Maindeck Card                                         |*n*<sup>th</sup> copy|                                         Sideboard Card                                         |
 |--------------------:|----------------------------------------------------------------------------------------------|--------------------:|------------------------------------------------------------------------------------------------|
-|                    3|[Polluted Delta](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405104)     |                    1|[Winter Orb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=643)              |
-|                    3|[Flooded Strand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405098)     |                    1|[Venser, Shaper Savant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=136209)|
+|                    3|[Flooded Strand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405098)     |                    1|[Winter Orb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=643)              |
+|                    3|[Polluted Delta](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405104)     |                    1|[Venser, Shaper Savant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=136209)|
 |                    4|[Polluted Delta](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405104)     |                    1|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)  |
 |                    1|[Snow-Covered Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121130)|                    2|[Hydroblast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3915)             |
 |                    1|[Scalding Tarn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405107)      |                    2|[Winter Orb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=643)              |

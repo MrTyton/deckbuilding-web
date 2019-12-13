@@ -2,7 +2,7 @@
 
 #### [Export MTGO List](../collection/Mono%20Black%20Aggro/Mono%20Black%20Aggro.txt)
 #### [Export Arena List](../collection/Mono%20Black%20Aggro/Mono%20Black%20Aggro_arena.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=3%09Ayara,%20First%20of%20Locthwain%0A3%09Castle%20Locthwain%0A4%09Cauldron%20Familiar%0A2%09Cavalier%20of%20Night%0A3%09Drill%20Bit%0A4%09Gutterbones%0A4%09Midnight%20Reaper%0A3%09Murderous%20Rider%0A2%09Orzhov%20Enforcer%0A4%09Priest%20of%20Forgotten%20Gods%0A20%09Swamp%0A4%09Witch's%20Oven%0A4%09Yarok's%20Fenlurker&deckside=4%09Duress%0A1%09Murderous%20Rider%0A4%09Order%20of%20Midnight%0A3%09Piper%20of%20the%20Swarm%0A3%09The%20Elderspell)
+#### [Print on decklist.org](http://decklist.org/?deckmain=3%09Ayara,%20First%20of%20Locthwain%0A3%09Castle%20Locthwain%0A4%09Cauldron%20Familiar%0A2%09Cavalier%20of%20Night%0A3%09Drill%20Bit%0A4%09Gutterbones%0A4%09Midnight%20Reaper%0A3%09Murderous%20Rider%0A2%09Orzhov%20Enforcer%0A4%09Priest%20of%20Forgotten%20Gods%0A20%09Swamp%0A4%09Witch's%20Oven%0A4%09Yarok's%20Fenlurker&deckside=2%09Davriel,%20Rogue%20Shadowmage%0A2%09Duress%0A2%09Epic%20Downfall%0A2%09Legion's%20End%0A2%09Massacre%20Girl%0A2%09Noxious%20Grasp%0A3%09Revenge%20of%20Ravens)
 # Maindeck
 
 |                                      Artifact (4)                                       |                                            Creature (30)                                             |                                          Land (23)                                          |                                     Sorcery (3)                                      |
@@ -20,9 +20,28 @@
 
 # Sideboard
 
-|                                         Creature (8)                                          |                                        Sorcery (7)                                        |
-|-----------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
-|1 [Murderous Rider](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473059)   |4 [Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)         |
-|4 [Order of Midnight](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473061) |3 [The Elderspell](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461016)|
-|3 [Piper of the Swarm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473062)|                                                                                           |
+|                                       Creature (2)                                       |                                       Enchantment (3)                                        |                                       Instant (2)                                        |                                           Planeswalker (2)                                           |                                       Sorcery (6)                                        |
+|------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
+|2 [Massacre Girl](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461026)|3 [Revenge of Ravens](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473066)|2 [Noxious Grasp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466864)|2 [Davriel, Rogue Shadowmage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461010)|2 [Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)        |
+|                                                                                          |                                                                                              |                                                                                          |                                                                                                      |2 [Epic Downfall](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473047)|
+|                                                                                          |                                                                                              |                                                                                          |                                                                                                      |2 [Legion's End](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466860) |
+
+
+# Other Options
+
+|*n*<sup>th</sup> copy|Maindeck Card|*n*<sup>th</sup> copy|                                       Sideboard Card                                        |
+|---------------------|-------------|--------------------:|---------------------------------------------------------------------------------------------|
+|                     |             |                    1|[The Elderspell](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461016)    |
+|                     |             |                    1|[Piper of the Swarm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473062)|
+|                     |             |                    1|[Order of Midnight](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473061) |
+|                     |             |                    1|[Murderous Rider](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473059)   |
+|                     |             |                    2|[Order of Midnight](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473061) |
+|                     |             |                    2|[The Elderspell](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461016)    |
+|                     |             |                    2|[Piper of the Swarm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473062)|
+|                     |             |                    3|[Order of Midnight](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473061) |
+|                     |             |                    3|[Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)             |
+|                     |             |                    3|[The Elderspell](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461016)    |
+|                     |             |                    4|[Order of Midnight](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473061) |
+|                     |             |                    4|[Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)             |
+|                     |             |                    3|[Piper of the Swarm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473062)|
 

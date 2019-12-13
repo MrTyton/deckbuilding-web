@@ -1,7 +1,7 @@
 # B
 
 #### [Export MTGO List](../collection/B/B.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Bloodsoaked%20Champion%0A4%09Castle%20Locthwain%0A4%09Fatal%20Push%0A4%09Grasp%20of%20Darkness%0A4%09Gutterbones%0A4%09Knight%20of%20the%20Ebon%20Legion%0A4%09Murderous%20Rider%0A4%09Mutavault%0A4%09Rankle,%20Master%20of%20Pranks%0A4%09Scrapheap%20Scrounger%0A15%09Swamp%0A4%09Thoughtseize%0A1%09Urborg,%20Tomb%20of%20Yawgmoth&deckside=2%09Ashiok,%20Dream%20Render%0A4%09Duress%0A3%09Kalitas,%20Traitor%20of%20Ghet%0A1%09Legion's%20End%0A4%09Noxious%20Grasp%0A1%09Plague%20Mare)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Bloodsoaked%20Champion%0A4%09Castle%20Locthwain%0A4%09Fatal%20Push%0A4%09Grasp%20of%20Darkness%0A4%09Gutterbones%0A4%09Knight%20of%20the%20Ebon%20Legion%0A4%09Murderous%20Rider%0A4%09Mutavault%0A4%09Rankle,%20Master%20of%20Pranks%0A4%09Scrapheap%20Scrounger%0A15%09Swamp%0A4%09Thoughtseize%0A1%09Urborg,%20Tomb%20of%20Yawgmoth&deckside=4%09Blightbeetle%0A4%09Duress%0A3%09Kalitas,%20Traitor%20of%20Ghet%0A4%09Noxious%20Grasp)
 # Maindeck
 
 |                                            Creature (24)                                             |                                         Instant (8)                                          |                                              Land (24)                                              |                                       Sorcery (4)                                       |
@@ -16,27 +16,27 @@
 
 # Sideboard
 
-|                                            Creature (4)                                             |                                       Instant (4)                                        |                                        Planeswalker (2)                                         |                                       Sorcery (5)                                       |
-|-----------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
-|3 [Kalitas, Traitor of Ghet](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407596)|4 [Noxious Grasp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466864)|2 [Ashiok, Dream Render](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461155)|4 [Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)       |
-|1 [Plague Mare](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447250)             |                                                                                          |                                                                                                 |1 [Legion's End](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466860)|
+|                                            Creature (7)                                             |                                       Instant (4)                                        |                                   Sorcery (4)                                    |
+|-----------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
+|4 [Blightbeetle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466841)            |4 [Noxious Grasp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466864)|4 [Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)|
+|3 [Kalitas, Traitor of Ghet](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407596)|                                                                                          |                                                                                  |
 
 
 # Other Options
 
-|*n*<sup>th</sup> copy|                                       Maindeck Card                                       |*n*<sup>th</sup> copy|                                      Sideboard Card                                      |
-|--------------------:|-------------------------------------------------------------------------------------------|--------------------:|------------------------------------------------------------------------------------------|
-|                    1|[Spawn of Mayhem](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457229) |                    2|[Plague Mare](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447250)    |
-|                    2|[Spawn of Mayhem](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457229) |                    1|[Blightbeetle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466841)   |
-|                    3|[Spawn of Mayhem](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457229) |                    2|[Blightbeetle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466841)   |
-|                    4|[Spawn of Mayhem](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457229) |                    3|[Blightbeetle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466841)   |
-|                    1|[Rotting Regisaur](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466865)|                    4|[Blightbeetle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466841)   |
-|                   16|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)           |                    1|[Lifebane Zombie](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370723)|
-|                    2|[Pack Rat](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=253624)        |                    2|[Lifebane Zombie](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370723)|
-|                    3|[Pack Rat](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=253624)        |                    3|[Lifebane Zombie](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370723)|
-|                    1|[Pack Rat](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=253624)        |                    4|[Lifebane Zombie](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370723)|
-|                     |                                                                                           |                    1|[Dark Betrayal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373504)  |
-|                     |                                                                                           |                    2|[Dark Betrayal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373504)  |
-|                     |                                                                                           |                    3|[Dark Betrayal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373504)  |
-|                     |                                                                                           |                    4|[Dark Betrayal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373504)  |
+|*n*<sup>th</sup> copy|                                       Maindeck Card                                       |*n*<sup>th</sup> copy|                                        Sideboard Card                                         |
+|--------------------:|-------------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------------|
+|                    1|[Spawn of Mayhem](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457229) |                    1|[Ashiok, Dream Render](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461155)|
+|                    2|[Spawn of Mayhem](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457229) |                    1|[Legion's End](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466860)        |
+|                    3|[Spawn of Mayhem](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457229) |                    1|[Plague Mare](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447250)         |
+|                    4|[Spawn of Mayhem](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457229) |                    2|[Ashiok, Dream Render](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461155)|
+|                    1|[Rotting Regisaur](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466865)|                    2|[Plague Mare](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447250)         |
+|                   16|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)           |                    1|[Lifebane Zombie](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370723)     |
+|                    2|[Pack Rat](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=253624)        |                    2|[Lifebane Zombie](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370723)     |
+|                    3|[Pack Rat](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=253624)        |                    3|[Lifebane Zombie](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370723)     |
+|                    1|[Pack Rat](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=253624)        |                    4|[Lifebane Zombie](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370723)     |
+|                     |                                                                                           |                    1|[Dark Betrayal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373504)       |
+|                     |                                                                                           |                    2|[Dark Betrayal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373504)       |
+|                     |                                                                                           |                    3|[Dark Betrayal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373504)       |
+|                     |                                                                                           |                    4|[Dark Betrayal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373504)       |
 

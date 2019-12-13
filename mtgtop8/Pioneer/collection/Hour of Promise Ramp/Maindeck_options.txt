@@ -11,8 +11,8 @@
 1 Urborg, Tomb of Yawgmoth
 1 Temple of Malady
 1 Abrupt Decay
-1 Woodland Cemetery
 1 Blooming Marsh
+1 Woodland Cemetery
 1 Overgrown Tomb
 1 Hissing Quagmire
 1 Fatal Push
@@ -25,8 +25,8 @@
 3 Abrupt Decay
 4 Tireless Tracker
 1 Ugin, the Spirit Dragon
-1 Legion's End
 1 Murderous Rider
+1 Legion's End
 2 Murderous Rider
 3 Fatal Push
 1 Tranquil Cove
@@ -35,30 +35,30 @@
 4 Forest
 5 Forest
 6 Forest
-1 Nissa's Pilgrimage
 1 Sanctum of Ugin
 1 Shrine of the Forsaken Gods
 1 World Breaker
+1 Nissa's Pilgrimage
 1 Ulamog, the Ceaseless Hunger
-2 Nissa's Pilgrimage
-2 World Breaker
 2 Castle Garenbrig
 2 Shrine of the Forsaken Gods
 2 Sanctum of Ugin
+2 World Breaker
+2 Nissa's Pilgrimage
 2 Hashep Oasis
-3 Nissa's Pilgrimage
 3 Castle Garenbrig
-3 Ugin, the Spirit Dragon
 3 Shrine of the Forsaken Gods
-4 Nissa's Pilgrimage
+3 Ugin, the Spirit Dragon
+3 Nissa's Pilgrimage
 4 Ugin, the Spirit Dragon
+4 Nissa's Pilgrimage
 1 Oblivion Sower
 1 Arch of Orazca
 2 Oblivion Sower
-3 Oblivion Sower
 3 World Breaker
-4 World Breaker
+3 Oblivion Sower
 4 Castle Garenbrig
+4 World Breaker
 1 Thoughtseize
 2 Thoughtseize
 3 Thoughtseize
@@ -79,8 +79,6 @@
 1 Courser of Kruphix
 7 Forest
 1 Sheltered Thicket
-1 Sea Gate Wreckage
-2 Radiant Fountain
 1 Ultimate Price
 2 Ultimate Price
 2 Blooming Marsh
@@ -89,6 +87,8 @@
 1 Fortified Village
 1 Brazen Borrower
 2 Brazen Borrower
+1 Sea Gate Wreckage
+2 Radiant Fountain
 1 Emrakul, the Promised End
 1 Cyclonic Rift
 3 Sphinx's Revelation
@@ -106,6 +106,8 @@
 3 Settle the Wreckage
 3 Island
 3 Fumigate
+2 Legion's End
+4 Fatal Push
 1 Cascading Cataracts
 1 Spatial Contortion
 2 Ulamog, the Ceaseless Hunger
@@ -114,8 +116,6 @@
 3 Hashep Oasis
 3 Spatial Contortion
 4 Spatial Contortion
-2 Legion's End
-4 Fatal Push
 1 Oko, Thief of Crowns
 1 Golos, Tireless Pilgrim
 1 Chandra, Flamecaller
@@ -136,8 +136,8 @@
 1 Rakdos Guildgate
 1 Gates Ablaze
 2 Oko, Thief of Crowns
-2 Golos, Tireless Pilgrim
 2 Chandra, Awakened Inferno
+2 Golos, Tireless Pilgrim
 2 Nissa, Vital Force
 2 Courser of Kruphix
 2 Maze's End
@@ -150,5 +150,5 @@
 3 Oko, Thief of Crowns
 3 Circuitous Route
 3 Gruul Guildgate
-4 Circuitous Route
 8 Forest
+4 Circuitous Route

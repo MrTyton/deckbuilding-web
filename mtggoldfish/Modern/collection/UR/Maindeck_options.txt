@@ -33,7 +33,6 @@
 3 Spirebluff Canal
 4 Spirebluff Canal
 1 Dreadhorde Arcanist
-1 Electrodominance
 1 Sleight of Hand
 1 Crashing Footfalls
 1 Flame Slash
@@ -41,6 +40,7 @@
 1 As Foretold
 1 Ancestral Vision
 1 Lightning Axe
+1 Electrodominance
 2 Mountain
 2 Dreadhorde Arcanist
 2 Sleight of Hand
@@ -119,13 +119,13 @@
 1 Howling Mine
 1 Izzet Charm
 1 Mikokoro, Center of the Sea
+2 Castle Vantress
 2 Spell Pierce
 2 Jace, the Mind Sculptor
 2 Chandra, Torch of Defiance
 2 Savor the Moment
 2 Dictate of Kruphix
 2 Fires of Invention
-2 Castle Vantress
 2 Exhaustion
 2 Time Warp
 2 Howling Mine
@@ -134,7 +134,7 @@
 3 Savor the Moment
 3 Howling Mine
 3 Fires of Invention
-4 Fires of Invention
 4 Time Warp
 4 Savor the Moment
+4 Fires of Invention
 4 Mystic Sanctuary

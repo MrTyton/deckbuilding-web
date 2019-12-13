@@ -1,26 +1,23 @@
-4 Steam Vents
-3 The Royal Scions
+2 Sulfur Falls
+2 Mountain
+3 Mountain
+1 The Royal Scions
+2 The Royal Scions
 3 Wild Slash
 4 Wild Slash
+1 Brazen Borrower
+4 Mountain
+1 Stubborn Denial
+2 Stubborn Denial
 1 Izzet Charm
 1 Bonecrusher Giant
 2 Bonecrusher Giant
-4 Mountain
-1 Opt
-2 Opt
 3 Opt
 3 Island
 4 Opt
 2 Brazen Borrower
-1 Stubborn Denial
-2 Stubborn Denial
-3 Stubborn Denial
-1 Jace, Vryn's Prodigy
-2 Jace, Vryn's Prodigy
-4 Island
-5 Island
-1 Chandra, Torch of Defiance
 1 Glorybringer
+1 Chandra, Torch of Defiance
 2 Chandra, Torch of Defiance
 2 Glorybringer
 3 Glorybringer
@@ -29,21 +26,83 @@
 4 Bonecrusher Giant
 5 Mountain
 2 Izzet Charm
+1 Chart a Course
+2 Chart a Course
+3 Sulfur Falls
+1 Kari Zev, Skyship Raider
+1 Hanweir Garrison
+1 Embercleave
+1 Goblin Rabblemaster
+1 Hanweir Battlements
+2 Embercleave
+2 Kari Zev, Skyship Raider
+2 Hanweir Garrison
+2 Goblin Rabblemaster
+2 Hanweir Battlements
+3 Hanweir Garrison
+3 Goblin Rabblemaster
+4 Sulfur Falls
+4 Hanweir Garrison
+4 Goblin Rabblemaster
+6 Mountain
+1 Whirler Rogue
 1 Treasure Cruise
 2 Treasure Cruise
 3 Treasure Cruise
-1 Wandering Fumarole
-1 Hope of Ghirapur
-1 Pia Nalaar
 1 Ornithopter
-2 Hope of Ghirapur
 2 Ornithopter
-2 Pia Nalaar
 3 Ornithopter
-4 Ornithopter
-1 Rekindling Phoenix
+3 The Royal Scions
+3 Stubborn Denial
+1 Arclight Phoenix
+1 Lightning Axe
+2 Arclight Phoenix
+2 Lightning Axe
+3 Chart a Course
+3 Arclight Phoenix
+3 Lightning Axe
+4 Lightning Axe
+4 Chart a Course
+4 Treasure Cruise
+4 Arclight Phoenix
+1 Crackling Drake
+2 Crackling Drake
+1 Wandering Fumarole
+1 Jace, Vryn's Prodigy
+2 Jace, Vryn's Prodigy
+4 Island
+5 Island
+1 The Antiquities War
+1 Phyrexian Revoker
+2 The Antiquities War
+2 Phyrexian Revoker
+1 Ramunap Ruins
+1 Metallic Rebuke
+2 Ramunap Ruins
+2 Metallic Rebuke
+3 Ramunap Ruins
+3 Metallic Rebuke
+1 Young Pyromancer
+1 Cathartic Reunion
+1 Fabled Passage
+1 Thing in the Ice
+1 Merfolk Secretkeeper
+1 Fiery Temper
+2 Cathartic Reunion
+2 Young Pyromancer
+2 Thing in the Ice
+2 Merfolk Secretkeeper
+2 Fiery Temper
+3 Thing in the Ice
+3 Merfolk Secretkeeper
+4 Thing in the Ice
+1 Soul-Scar Mage
+2 Soul-Scar Mage
+3 Soul-Scar Mage
+4 Soul-Scar Mage
 1 Castle Vantress
 1 Dig Through Time
+1 Rekindling Phoenix
 1 Icefall Regent
 1 Scorching Dragonfire
 2 Rekindling Phoenix
@@ -55,76 +114,52 @@
 3 Scorching Dragonfire
 3 Rekindling Phoenix
 3 Dig Through Time
-4 Rekindling Phoenix
-4 Jace, Vryn's Prodigy
 4 Glorybringer
-1 The Antiquities War
-1 Phyrexian Revoker
-2 The Antiquities War
-2 Phyrexian Revoker
-3 Stonecoil Serpent
-4 Stonecoil Serpent
+4 Jace, Vryn's Prodigy
+4 Rekindling Phoenix
+1 Pia Nalaar
+2 Pia Nalaar
+4 Ornithopter
+1 Fanatical Firebrand
+2 Fanatical Firebrand
+3 Fanatical Firebrand
+4 Fanatical Firebrand
+1 Thrill of Possibility
+1 Anger of the Gods
+1 Expedite
+1 Strategic Planning
+2 Thrill of Possibility
+2 Anger of the Gods
+2 Strategic Planning
+2 Expedite
+3 Thrill of Possibility
+3 Strategic Planning
+3 Expedite
+3 Crackling Drake
+4 Thrill of Possibility
+4 Strategic Planning
 1 Hieroglyphic Illumination
 1 Geier Reach Sanitarium
 1 Improbable Alliance
 1 Irencrag Pyromancer
-1 Crackling Drake
 2 Hieroglyphic Illumination
 2 Improbable Alliance
 2 Irencrag Pyromancer
-2 Crackling Drake
-3 Improbable Alliance
 3 Izzet Charm
 3 Irencrag Pyromancer
-4 Improbable Alliance
+3 Improbable Alliance
 4 The Royal Scions
 4 Izzet Charm
+4 Improbable Alliance
 4 Irencrag Pyromancer
-1 Young Pyromancer
-1 Cathartic Reunion
-1 Thing in the Ice
-1 Chart a Course
-1 Merfolk Secretkeeper
-1 Arclight Phoenix
-1 Fabled Passage
-1 Lightning Axe
-1 Fiery Temper
-2 Cathartic Reunion
-2 Young Pyromancer
-2 Thing in the Ice
-2 Arclight Phoenix
-2 Fiery Temper
-2 Merfolk Secretkeeper
-2 Lightning Axe
-2 Chart a Course
-3 Thing in the Ice
-3 Merfolk Secretkeeper
-3 Chart a Course
-3 Arclight Phoenix
-3 Lightning Axe
-4 Thing in the Ice
-4 Lightning Axe
-4 Chart a Course
-4 Treasure Cruise
-4 Arclight Phoenix
-1 Soul-Scar Mage
-1 Kari Zev, Skyship Raider
-1 Hanweir Garrison
-1 Embercleave
-1 Goblin Rabblemaster
-1 Hanweir Battlements
-2 Embercleave
-2 Soul-Scar Mage
-2 Kari Zev, Skyship Raider
-2 Hanweir Garrison
-2 Goblin Rabblemaster
-2 Hanweir Battlements
-3 Sulfur Falls
-3 Soul-Scar Mage
-3 Hanweir Garrison
-3 Goblin Rabblemaster
-4 Soul-Scar Mage
-4 Sulfur Falls
-4 Hanweir Garrison
-4 Goblin Rabblemaster
-6 Mountain
+1 Karn, Scion of Urza
+1 Pithing Needle
+1 Steel Overseer
+1 Dive Down
+2 Steel Overseer
+2 Dive Down
+2 Pithing Needle
+3 Steel Overseer
+3 Mutavault
+4 Steel Overseer
+4 Mutavault

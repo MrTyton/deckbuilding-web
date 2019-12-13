@@ -49,15 +49,15 @@
 1 Castle Vantress
 1 Izzet Charm
 2 Irrigated Farmland
-2 Hieroglyphic Illumination
 2 Censor
+2 Hieroglyphic Illumination
 2 Clifftop Retreat
 2 Supreme Verdict
 2 Sulfur Falls
 2 Izzet Charm
+3 Sulfur Falls
 3 Detention Sphere
 3 Censor
-3 Sulfur Falls
 3 Izzet Charm
 3 Supreme Verdict
 4 Censor
@@ -104,10 +104,10 @@
 2 Brazen Borrower
 2 Yavimaya Coast
 1 Ojutai's Command
-1 Abrupt Decay
 1 Dreadbore
 1 Niv-Mizzet Reborn
 1 Kolaghan's Command
+1 Abrupt Decay
 1 Unmoored Ego
 1 Silumgar's Command
 1 Bring to Light
@@ -128,6 +128,24 @@
 1 Wicked Wolf
 2 Wicked Wolf
 4 Llanowar Elves
+1 Thrill of Possibility
+1 Fiery Impulse
+1 Lava Coil
+1 Anticipate
+2 Thrill of Possibility
+2 Fiery Impulse
+2 Lava Coil
+2 Spell Pierce
+2 Anticipate
+3 Anticipate
+3 Spirebluff Canal
+3 Thrill of Possibility
+3 Lava Coil
+3 Fiery Impulse
+4 Fiery Impulse
+4 Anticipate
+4 Dig Through Time
+4 Spirebluff Canal
 1 Golos, Tireless Pilgrim
 1 Field of the Dead
 1 Risen Reef
@@ -149,45 +167,27 @@
 1 Thraben Inspector
 1 Charming Prince
 1 Tithe Taker
+1 Cloudblazer
 1 Field of Ruin
 1 Elite Guardmage
-1 Cloudblazer
 1 Dusk / Dawn
-2 Plains
 2 Thraben Inspector
+2 Cloudblazer
 2 Charming Prince
 2 Tithe Taker
 2 Field of Ruin
+2 Plains
 2 Dusk / Dawn
-2 Cloudblazer
 2 Elite Guardmage
+3 Deafening Clarion
 3 Thraben Inspector
+3 Cloudblazer
 3 Charming Prince
 3 Tithe Taker
 3 Elite Guardmage
-3 Cloudblazer
-3 Deafening Clarion
 4 Thraben Inspector
 4 Charming Prince
 4 Tithe Taker
-1 Thrill of Possibility
-1 Fiery Impulse
-1 Lava Coil
-1 Anticipate
-2 Thrill of Possibility
-2 Fiery Impulse
-2 Lava Coil
-2 Spell Pierce
-2 Anticipate
-3 Anticipate
-3 Spirebluff Canal
-3 Thrill of Possibility
-3 Lava Coil
-3 Fiery Impulse
-4 Anticipate
-4 Dig Through Time
-4 Spirebluff Canal
-4 Fiery Impulse
 1 Cast Down
 1 Interplanar Beacon
 1 Yahenni's Expertise

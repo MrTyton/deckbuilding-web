@@ -1,14 +1,23 @@
+2 Kiora, Behemoth Beckoner
+3 Chandra, Torch of Defiance
+2 Mountain
+1 Brazen Borrower
+2 Brazen Borrower
+1 Whirler Virtuoso
+1 Rogue Refiner
+1 Aether Hub
+1 Harnessed Lightning
+2 Harnessed Lightning
+2 Rogue Refiner
+2 Aether Hub
+3 Harnessed Lightning
+3 Rogue Refiner
 3 Aether Hub
 4 Rogue Refiner
 4 Aether Hub
 4 Harnessed Lightning
 4 Oko, Thief of Crowns
 1 Island
-3 Wicked Wolf
-3 Heart of Kiran
-3 Bonecrusher Giant
-4 Bonecrusher Giant
-4 Steam Vents
 2 Spirebluff Canal
 3 Elvish Mystic
 1 Embercleave
@@ -27,15 +36,6 @@
 1 Dig Through Time
 1 Lumbering Falls
 1 Emrakul, the Promised End
-1 The Royal Scions
-1 Hazoret the Fervent
-1 Stubborn Denial
-1 Kiora, Behemoth Beckoner
-1 Sweltering Suns
-2 The Royal Scions
-2 Stubborn Denial
-2 Kiora, Behemoth Beckoner
-3 Chandra, Torch of Defiance
 1 Rekindling Phoenix
 2 Rekindling Phoenix
 4 Elvish Mystic
@@ -44,8 +44,8 @@
 2 Mizzium Mortars
 2 Tireless Tracker
 3 Tireless Tracker
-3 Mizzium Mortars
 3 Brazen Borrower
+3 Mizzium Mortars
 4 Heart of Kiran
 4 Brazen Borrower
 1 Longtusk Cub
@@ -76,20 +76,20 @@
 4 Lovestruck Beast
 4 Goblin Rabblemaster
 4 Game Trail
+1 Vessel of Nascency
 1 Ulamog, the Ceaseless Hunger
 1 Hour of Devastation
-1 Vessel of Nascency
 1 Woodweaver's Puzzleknot
 1 Aetherworks Marvel
+2 Emrakul, the Promised End
 2 Vessel of Nascency
 2 Hour of Devastation
 2 Ulamog, the Ceaseless Hunger
-2 Emrakul, the Promised End
 2 Woodweaver's Puzzleknot
 2 Aetherworks Marvel
+3 Vessel of Nascency
 3 Woodweaver's Puzzleknot
 3 Aetherworks Marvel
-3 Vessel of Nascency
 3 Forest
 3 Emrakul, the Promised End
 3 Hour of Devastation
@@ -97,66 +97,66 @@
 4 Aetherworks Marvel
 4 Hour of Devastation
 4 Forest
+1 Satyr Wayfinder
+1 Castle Garenbrig
 1 Sanctum of Ugin
 1 Jace, Vryn's Prodigy
-1 Castle Garenbrig
-1 Hinterland Harbor
+1 Grapple with the Past
 1 Kozilek's Return
 1 Courser of Kruphix
-1 Satyr Wayfinder
-1 Grapple with the Past
 1 Ishkanah, Grafwidow
+1 Hinterland Harbor
 1 Walking Ballista
-1 Traverse the Ulvenwald
 1 Vantress Gargoyle
+1 Traverse the Ulvenwald
 1 Gather the Pack
-2 Kozilek's Return
+2 Satyr Wayfinder
 2 Castle Garenbrig
+2 Kozilek's Return
 2 Traverse the Ulvenwald
 2 Vantress Gargoyle
 2 Hinterland Harbor
 2 Jace, Vryn's Prodigy
-2 Satyr Wayfinder
 2 Gather the Pack
 2 Courser of Kruphix
+3 Hinterland Harbor
+3 Satyr Wayfinder
 3 Elder Deep-Fiend
 3 Kozilek's Return
 3 Courser of Kruphix
 3 Traverse the Ulvenwald
 3 Gather the Pack
-3 Satyr Wayfinder
-3 Hinterland Harbor
+4 Hinterland Harbor
 4 Courser of Kruphix
 4 Gather the Pack
 4 Kozilek's Return
 4 Satyr Wayfinder
 4 Traverse the Ulvenwald
-4 Hinterland Harbor
+1 Expansion/Explosion
 1 Blast Zone
 1 Pull from Tomorrow
-1 Cyclonic Rift
-1 Supreme Will
 1 Anger of the Gods
-1 Nexus of Fate
-1 Expansion/Explosion
 1 Disallow
 1 Scorching Dragonfire
 1 Sulfur Falls
 1 Growth Spiral
-1 Search for Azcanta
 1 Castle Vantress
 1 Fabled Passage
+1 Cyclonic Rift
 1 Spell Pierce
 1 Wilderness Reclamation
+1 Search for Azcanta
+1 Nexus of Fate
+1 Supreme Will
 1 Izzet Charm
+2 Lumbering Falls
 2 Search for Azcanta
 2 Sulfur Falls
-2 Supreme Will
 2 Scorching Dragonfire
-2 Lumbering Falls
 2 Dig Through Time
 2 Expansion/Explosion
 2 Castle Vantress
+2 Supreme Will
 2 Growth Spiral
 2 Island
 2 Anger of the Gods
@@ -165,12 +165,12 @@
 2 Fabled Passage
 3 Wild Slash
 3 Sulfur Falls
+3 Anger of the Gods
 3 Wilderness Reclamation
 3 Fabled Passage
 3 Growth Spiral
 3 Lumbering Falls
 3 Expansion/Explosion
-3 Anger of the Gods
 4 Fabled Passage
 4 Wilderness Reclamation
 4 Expansion/Explosion
