@@ -28,28 +28,28 @@
 1 Pelt Collector
 1 Hazoret the Fervent
 1 Zhur-Taa Goblin
-2 Ghor-Clan Rampager
 2 Blossoming Defense
 2 Voltaic Brawler
 2 Experiment One
 2 Pelt Collector
 2 Hazoret the Fervent
+2 Ghor-Clan Rampager
 2 Hashep Oasis
 2 Zhur-Taa Goblin
 3 Pelt Collector
 3 Experiment One
 3 Hashep Oasis
 3 Zhur-Taa Goblin
-3 Voltaic Brawler
 3 Blossoming Defense
+3 Voltaic Brawler
 4 Blossoming Defense
 4 Experiment One
 4 Voltaic Brawler
 4 Pelt Collector
 1 Domri's Ambush
 2 Domri's Ambush
-1 Mizzium Mortars
 1 Rekindling Phoenix
+1 Mizzium Mortars
 2 Rekindling Phoenix
 1 Glorybringer
 2 Glorybringer
@@ -65,6 +65,21 @@
 1 Paradise Druid
 2 Vivien, Arkbow Ranger
 4 Heart of Kiran
+1 Chandra, Torch of Defiance
+1 Gilded Goose
+1 Sheltered Thicket
+2 Chandra, Torch of Defiance
+2 Gilded Goose
+2 Sheltered Thicket
+2 Mizzium Mortars
+3 Gilded Goose
+3 Sheltered Thicket
+3 Rekindling Phoenix
+3 Mizzium Mortars
+4 Rekindling Phoenix
+4 Gilded Goose
+4 Mizzium Mortars
+4 Domri, Anarch of Bolas
 1 Xenagos, the Reveler
 1 Tireless Tracker
 1 Abrade
@@ -76,21 +91,6 @@
 4 Tireless Tracker
 4 Questing Beast
 4 Hashep Oasis
-1 Chandra, Torch of Defiance
-1 Gilded Goose
-1 Sheltered Thicket
-2 Chandra, Torch of Defiance
-2 Gilded Goose
-2 Sheltered Thicket
-2 Mizzium Mortars
-3 Gilded Goose
-3 Sheltered Thicket
-3 Mizzium Mortars
-3 Rekindling Phoenix
-4 Rekindling Phoenix
-4 Gilded Goose
-4 Domri, Anarch of Bolas
-4 Mizzium Mortars
 1 Yorvo, Lord of Garenbrig
 1 Surrak, the Hunt Caller
 1 Rhythm of the Wild
@@ -108,13 +108,13 @@
 1 Commune with Dinosaurs
 2 Marauding Raptor
 2 Ripjaw Raptor
-2 Commune with Dinosaurs
 2 Reckless Rage
+2 Commune with Dinosaurs
 2 Regisaur Alpha
 3 Marauding Raptor
 3 Regisaur Alpha
-3 Commune with Dinosaurs
 3 Reckless Rage
+3 Commune with Dinosaurs
 3 Ripjaw Raptor
 4 Marauding Raptor
 4 Reckless Rage

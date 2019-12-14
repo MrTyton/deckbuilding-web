@@ -53,7 +53,7 @@
 |                    2|[Sacred Foundry](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405106)       |                     |                                                                                                |
 |                    2|[Lightning Helix](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=249386)      |                     |                                                                                                |
 |                    3|[Growth Spiral](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457322)        |                     |                                                                                                |
-|                    3|[Lightning Helix](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=249386)      |                     |                                                                                                |
-|                    4|[Growth Spiral](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457322)        |                     |                                                                                                |
 |                    4|[Remand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=380255)               |                     |                                                                                                |
+|                    4|[Growth Spiral](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457322)        |                     |                                                                                                |
+|                    3|[Lightning Helix](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=249386)      |                     |                                                                                                |
 

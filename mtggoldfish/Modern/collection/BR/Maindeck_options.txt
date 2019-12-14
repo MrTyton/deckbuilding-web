@@ -33,8 +33,8 @@
 2 Snow-Covered Mountain
 2 Searing Blaze
 2 Finale of Promise
-2 Lightning Skelemental
 2 Bump in the Night
+2 Lightning Skelemental
 3 Snow-Covered Mountain
 3 Arid Mesa
 3 Bump in the Night
@@ -54,8 +54,8 @@
 3 Burst Lightning
 4 Burst Lightning
 1 Wooded Foothills
-1 Seal of Fire
 1 Vexing Devil
+1 Seal of Fire
 1 Eidolon of the Great Revel
 1 Forked Bolt
 1 Shard Volley
@@ -69,8 +69,8 @@
 2 Eidolon of the Great Revel
 3 Seal of Fire
 3 Sunbaked Canyon
-3 Eidolon of the Great Revel
 3 Vexing Devil
+3 Eidolon of the Great Revel
 4 Seal of Fire
 4 Sunbaked Canyon
 4 Eidolon of the Great Revel
@@ -80,19 +80,19 @@
 2 Simian Spirit Guide
 3 Simian Spirit Guide
 4 Simian Spirit Guide
-1 Sulfurous Springs
 1 Bonecrusher Giant
 1 Gemstone Caverns
 1 Prismatic Vista
 1 Rampaging Ferocidon
-1 Wastes
+1 Reality Smasher
+1 Keldon Marauders
 1 Eldrazi Temple
 1 Thought-Knot Seer
+1 Sulfurous Springs
 1 Marauding Raptor
-1 Keldon Marauders
-1 Reality Smasher
 1 Dismember
 1 Ramunap Ruins
+1 Wastes
 2 Bonecrusher Giant
 2 Prismatic Vista
 2 Reality Smasher
@@ -106,12 +106,12 @@
 2 Rampaging Ferocidon
 3 Bonecrusher Giant
 3 Prismatic Vista
-3 Ramunap Ruins
 3 Eldrazi Temple
+3 Ramunap Ruins
 3 Marauding Raptor
-3 Keldon Marauders
 3 Rampaging Ferocidon
 3 Reality Smasher
+3 Keldon Marauders
 3 Gemstone Caverns
 3 Thought-Knot Seer
 4 Bonecrusher Giant
@@ -123,68 +123,21 @@
 4 Eldrazi Temple
 4 Ramunap Ruins
 4 Marauding Raptor
-1 Swamp
-2 Swamp
-3 Swamp
-1 Castle Embereth
-1 Tarfire
-1 Pashalik Mons
-1 Field of Ruin
-1 Sling-Gang Lieutenant
-1 Munitions Expert
-1 Unearth
-1 Auntie's Hovel
-1 Aether Vial
-1 Goblin Matron
-1 Krenko, Mob Boss
-1 Goblin Bushwhacker
-1 Goblin Trashmaster
-1 Skirk Prospector
-1 Goblin Chieftain
-1 Mogg War Marshal
-1 Knucklebone Witch
-1 Goblin Grenade
-1 Dragonskull Summit
-2 Pashalik Mons
-2 Field of Ruin
-2 Sling-Gang Lieutenant
-2 Munitions Expert
-2 Aether Vial
-2 Goblin Grenade
-2 Mogg War Marshal
-2 Goblin Matron
-2 Auntie's Hovel
-2 Sulfurous Springs
-2 Skirk Prospector
-2 Knucklebone Witch
-2 Dragonskull Summit
-3 Pashalik Mons
-3 Sling-Gang Lieutenant
-3 Mogg War Marshal
-3 Goblin Matron
-3 Munitions Expert
-3 Aether Vial
-3 Auntie's Hovel
-3 Sulfurous Springs
-3 Skirk Prospector
-4 Goblin Matron
-4 Auntie's Hovel
-4 Aether Vial
-4 Skirk Prospector
-4 Mogg War Marshal
 1 Mutavault
 1 Merchant of the Vale
 1 Marsh Flats
-1 Through the Breach
 1 Inquisition of Kozilek
 1 Fatal Push
 1 Goryo's Vengeance
 1 Night's Whisper
 1 Thoughtseize
 1 Griselbrand
+1 Swamp
+1 Through the Breach
 1 Thrill of Possibility
 1 Emrakul, the Aeons Torn
 1 Collective Brutality
+2 Swamp
 2 Mutavault
 2 Fatal Push
 2 Inquisition of Kozilek
@@ -198,6 +151,7 @@
 2 Emrakul, the Aeons Torn
 2 Merchant of the Vale
 3 Collective Brutality
+3 Swamp
 3 Merchant of the Vale
 3 Griselbrand
 3 Goryo's Vengeance
@@ -207,9 +161,9 @@
 3 Emrakul, the Aeons Torn
 4 Emrakul, the Aeons Torn
 4 Through the Breach
+4 Thrill of Possibility
 4 Griselbrand
 4 Bloodstained Mire
-4 Thrill of Possibility
 4 Swamp
 4 Goryo's Vengeance
 4 Collective Brutality
