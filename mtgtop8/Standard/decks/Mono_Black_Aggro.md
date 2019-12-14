@@ -26,22 +26,3 @@
 |                                                                                          |                                                                                              |                                                                                          |                                                                                                      |2 [Epic Downfall](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473047)|
 |                                                                                          |                                                                                              |                                                                                          |                                                                                                      |2 [Legion's End](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466860) |
 
-
-# Other Options
-
-|*n*<sup>th</sup> copy|Maindeck Card|*n*<sup>th</sup> copy|                                       Sideboard Card                                        |
-|---------------------|-------------|--------------------:|---------------------------------------------------------------------------------------------|
-|                     |             |                    1|[The Elderspell](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461016)    |
-|                     |             |                    1|[Piper of the Swarm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473062)|
-|                     |             |                    1|[Order of Midnight](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473061) |
-|                     |             |                    1|[Murderous Rider](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473059)   |
-|                     |             |                    2|[Order of Midnight](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473061) |
-|                     |             |                    2|[The Elderspell](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461016)    |
-|                     |             |                    2|[Piper of the Swarm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473062)|
-|                     |             |                    3|[Order of Midnight](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473061) |
-|                     |             |                    3|[Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)             |
-|                     |             |                    3|[The Elderspell](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461016)    |
-|                     |             |                    4|[Order of Midnight](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473061) |
-|                     |             |                    4|[Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)             |
-|                     |             |                    3|[Piper of the Swarm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473062)|
-

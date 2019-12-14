@@ -1,6 +1,6 @@
+16 Mountain
+1 Runaway Steam-Kin
 2 Runaway Steam-Kin
-1 Shock
-2 Shock
 1 Experimental Frenzy
 2 Experimental Frenzy
 1 Searing Blood
@@ -21,30 +21,30 @@
 17 Mountain
 3 Searing Blood
 4 Searing Blood
+3 Shock
+4 Shock
 1 Skewer the Critics
+2 Skewer the Critics
+3 Skewer the Critics
+4 Experimental Frenzy
+4 Skewer the Critics
 1 Sacred Foundry
 1 Boros Charm
 1 Inspiring Vantage
 1 Battlefield Forge
 2 Boros Charm
-2 Skewer the Critics
 2 Sacred Foundry
 2 Inspiring Vantage
 2 Battlefield Forge
 3 Boros Charm
-3 Skewer the Critics
 3 Sacred Foundry
 3 Inspiring Vantage
 4 Boros Charm
 4 Inspiring Vantage
 4 Sacred Foundry
-4 Experimental Frenzy
-3 Battlefield Forge
-4 Skewer the Critics
-4 Battlefield Forge
-3 Shock
-4 Shock
 3 Bonecrusher Giant
+3 Battlefield Forge
+4 Battlefield Forge
 1 Viashino Pyromancer
 1 Zurgo Bellstriker
 3 Hazoret the Fervent
@@ -73,10 +73,6 @@
 3 Burning-Tree Emissary
 4 Burning-Tree Emissary
 1 Ash Zealot
-1 Stoke the Flames
-2 Stoke the Flames
-3 Stoke the Flames
-4 Stoke the Flames
 1 Rakdos Cackler
 2 Rakdos Cackler
 3 Rakdos Cackler
@@ -97,29 +93,6 @@
 2 Viashino Pyromancer
 3 Viashino Pyromancer
 4 Viashino Pyromancer
-1 Foundry Street Denizen
-1 Goblin Instigator
-1 Goblin Piledriver
-1 Fanatical Firebrand
-1 Goblin Rabblemaster
-1 Embercleave
-2 Foundry Street Denizen
-2 Legion Loyalist
-2 Goblin Instigator
-2 Goblin Piledriver
-2 Fanatical Firebrand
-2 Goblin Rabblemaster
-2 Embercleave
-3 Foundry Street Denizen
-3 Legion Loyalist
-3 Castle Embereth
-3 Goblin Instigator
-3 Goblin Piledriver
-3 Goblin Rabblemaster
-4 Foundry Street Denizen
-4 Legion Loyalist
-4 Goblin Instigator
-4 Goblin Piledriver
 1 Torbran, Thane of Red Fell
 1 Boros Reckoner
 1 Fanatic of Mogis
@@ -134,6 +107,33 @@
 3 Boros Reckoner
 4 Fanatic of Mogis
 4 Boros Reckoner
+1 Foundry Street Denizen
+1 Goblin Instigator
+1 Goblin Piledriver
+1 Fanatical Firebrand
+1 Goblin Rabblemaster
+1 Stoke the Flames
+1 Embercleave
+2 Foundry Street Denizen
+2 Legion Loyalist
+2 Goblin Instigator
+2 Goblin Piledriver
+2 Fanatical Firebrand
+2 Goblin Rabblemaster
+2 Stoke the Flames
+2 Embercleave
+3 Foundry Street Denizen
+3 Legion Loyalist
+3 Castle Embereth
+3 Goblin Instigator
+3 Goblin Piledriver
+3 Stoke the Flames
+3 Goblin Rabblemaster
+4 Foundry Street Denizen
+4 Legion Loyalist
+4 Goblin Instigator
+4 Goblin Piledriver
+4 Stoke the Flames
 1 Canyon Slough
 1 Carnival / Carnage
 1 Pia Nalaar

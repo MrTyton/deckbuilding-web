@@ -7,17 +7,17 @@
 1 Tireless Tracker
 2 Tireless Tracker
 3 Tireless Tracker
-1 Castle Locthwain
-1 Urborg, Tomb of Yawgmoth
 1 Temple of Malady
 1 Abrupt Decay
-1 Blooming Marsh
+1 Urborg, Tomb of Yawgmoth
 1 Woodland Cemetery
+1 Blooming Marsh
 1 Overgrown Tomb
 1 Hissing Quagmire
 1 Fatal Push
 1 Swamp
 1 Ifnir Deadlands
+1 Castle Locthwain
 2 Overgrown Tomb
 2 Abrupt Decay
 2 Fatal Push
@@ -106,8 +106,6 @@
 3 Settle the Wreckage
 3 Island
 3 Fumigate
-2 Legion's End
-4 Fatal Push
 1 Cascading Cataracts
 1 Spatial Contortion
 2 Ulamog, the Ceaseless Hunger
@@ -150,5 +148,7 @@
 3 Oko, Thief of Crowns
 3 Circuitous Route
 3 Gruul Guildgate
-8 Forest
 4 Circuitous Route
+8 Forest
+2 Legion's End
+4 Fatal Push

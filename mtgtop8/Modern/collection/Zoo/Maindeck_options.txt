@@ -1,7 +1,5 @@
-2 Simian Spirit Guide
-1 Bonecrusher Giant
-1 Hexdrinker
 2 Hexdrinker
+2 Ghor-Clan Rampager
 3 Hexdrinker
 4 Hexdrinker
 1 Lightning Helix
@@ -14,23 +12,18 @@
 3 Monastery Swiftspear
 1 Boros Charm
 2 Boros Charm
-1 Snow-Covered Mountain
-1 Snow-Covered Forest
 3 Lightning Helix
 1 Scavenging Ooze
 1 Tarmogoyf
 1 Kird Ape
 2 Kird Ape
+1 Light Up the Stage
+2 Light Up the Stage
+3 Light Up the Stage
 1 Knight of the Reliquary
 2 Knight of the Reliquary
 3 Path to Exile
 3 Knight of the Reliquary
-1 Light Up the Stage
-2 Light Up the Stage
-3 Light Up the Stage
-1 Mutagenic Growth
-1 Become Immense
-2 Mutagenic Growth
 1 Copperline Gorge
 2 Copperline Gorge
 4 Monastery Swiftspear
@@ -38,6 +31,8 @@
 3 Tarmogoyf
 4 Tarmogoyf
 1 Grim Lavamancer
+1 Simian Spirit Guide
+2 Simian Spirit Guide
 3 Simian Spirit Guide
 3 Stomping Ground
 2 Scavenging Ooze
@@ -46,12 +41,12 @@
 2 Bloodbraid Elf
 3 Bloodbraid Elf
 4 Bloodbraid Elf
-1 Sunbaked Canyon
 1 Kessig Wolf Run
 1 Renegade Rallier
 1 Wrenn and Six
 2 Wrenn and Six
 3 Wrenn and Six
+1 Sunbaked Canyon
 1 Noble Hierarch
 2 Noble Hierarch
 1 Knight of Autumn
@@ -66,8 +61,10 @@
 4 Dismember
 4 Kird Ape
 4 Light Up the Stage
-1 Goblin Bushwhacker
 1 Devastating Summons
+1 Goblin Bushwhacker
+1 Snow-Covered Mountain
+1 Snow-Covered Forest
 1 Ajani Vengeant
 1 Rhonas the Indomitable
 1 Gruul Spellbreaker
@@ -92,9 +89,12 @@
 3 Collected Company
 4 Birds of Paradise
 1 Scalding Tarn
+1 Mutagenic Growth
 1 Bloodstained Mire
-2 Bomat Courier
+1 Become Immense
+2 Mutagenic Growth
 2 Sunbaked Canyon
+2 Bomat Courier
 2 Become Immense
 2 Bloodstained Mire
 2 Mountain
@@ -172,16 +172,6 @@
 4 Tribal Flames
 4 Lightning Helix
 4 Mantis Rider
-1 Vexing Devil
-1 Rancor
-1 Dryad Arbor
-1 Experiment One
-2 Vexing Devil
-2 Experiment One
-2 Rancor
-3 Experiment One
-3 Rancor
-4 Experiment One
 1 Plated Geopede
 1 Steppe Lynx
 2 Horizon Canopy

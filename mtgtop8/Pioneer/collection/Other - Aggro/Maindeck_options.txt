@@ -1,65 +1,38 @@
-2 Island
+1 Llanowar Elves
+1 Elvish Mystic
+1 Questing Beast
+4 Breeding Pool
+2 Questing Beast
+2 Llanowar Elves
+2 Elvish Mystic
+1 Heart of Kiran
+1 Chandra, Torch of Defiance
+1 Bonecrusher Giant
+2 Heart of Kiran
+2 Bonecrusher Giant
+3 Bonecrusher Giant
+1 Rootbound Crag
+1 Glorybringer
+1 Stubborn Denial
+1 Steam Vents
+1 Stomping Ground
+1 The Royal Scions
+2 Rootbound Crag
+2 Stomping Ground
+2 The Royal Scions
+2 Glorybringer
+2 Steam Vents
+2 Stubborn Denial
+3 Rootbound Crag
+3 Glorybringer
+3 Stomping Ground
+3 Steam Vents
+4 Glorybringer
+4 Steam Vents
+4 Stomping Ground
+1 Liliana, the Last Hope
 3 Swamp
-1 Mutavault
-2 Mutavault
-1 Plains
-2 Plains
-3 Plains
-1 Temple Garden
-1 Sunpetal Grove
-2 Temple Garden
-1 Canopy Vista
-1 Once Upon a Time
-2 Once Upon a Time
-2 Sunpetal Grove
-3 Temple Garden
-3 Sunpetal Grove
-3 Once Upon a Time
-4 Once Upon a Time
-4 Temple Garden
-4 Sunpetal Grove
-4 Plains
-1 Dauntless Bodyguard
-2 Dauntless Bodyguard
-3 Dauntless Bodyguard
-4 Dauntless Bodyguard
-5 Plains
-6 Plains
-1 Venerable Knight
-1 Acclaimed Contender
-1 The Circle of Loyalty
-1 Worthy Knight
-1 Knight of Grace
-1 History of Benalia
-1 Heron's Grace Champion
-1 Thalia's Lieutenant
-1 Knight of the White Orchid
-1 Castle Ardenvale
-2 Venerable Knight
-2 Acclaimed Contender
-2 Worthy Knight
-2 Knight of Grace
-2 History of Benalia
-2 Thalia's Lieutenant
-2 Heron's Grace Champion
-2 Knight of the White Orchid
-3 Knight of Grace
-3 Venerable Knight
-3 Mutavault
-3 Acclaimed Contender
-3 History of Benalia
-3 Worthy Knight
-3 Knight of the White Orchid
-3 Thalia's Lieutenant
-3 Heron's Grace Champion
-4 Venerable Knight
-4 Acclaimed Contender
-4 History of Benalia
-4 Worthy Knight
-4 Thalia's Lieutenant
-4 Heron's Grace Champion
-4 Knight of the White Orchid
-7 Plains
+2 Island
 1 Kalitas, Traitor of Ghet
 2 Kalitas, Traitor of Ghet
 1 Castle Locthwain
@@ -69,6 +42,9 @@
 2 Concealed Courtyard
 3 Concealed Courtyard
 4 Concealed Courtyard
+1 Mutavault
+2 Mutavault
+1 Godless Shrine
 1 Isolated Chapel
 1 Champion of Dusk
 1 Sorin, Imperious Bloodlord
@@ -78,7 +54,6 @@
 1 Blood Baron of Vizkopa
 1 Urborg, Tomb of Yawgmoth
 1 Caves of Koilos
-1 Godless Shrine
 1 Knight of the Ebon Legion
 2 Godless Shrine
 2 Sorin, Imperious Bloodlord
@@ -104,13 +79,8 @@
 6 Swamp
 7 Swamp
 8 Swamp
-4 Botanical Sanctum
-1 Questing Beast
 1 Woodland Cemetery
-3 Forest
 4 Abrupt Decay
-1 Llanowar Elves
-1 Elvish Mystic
 1 Grisly Salvage
 2 Grisly Salvage
 1 Llanowar Wastes
@@ -152,97 +122,101 @@
 4 Stitcher's Supplier
 4 Narcomoeba
 4 Creeping Chill
-1 Jace, Vryn's Prodigy
+1 Yavimaya Coast
+3 Forest
+2 Chandra, Torch of Defiance
 2 Dig Through Time
-1 The Scarab God
-4 Breeding Pool
-2 Questing Beast
-2 Llanowar Elves
-2 Elvish Mystic
-1 Heart of Kiran
-1 Chandra, Torch of Defiance
-1 Bonecrusher Giant
-2 Heart of Kiran
-2 Bonecrusher Giant
-3 Bonecrusher Giant
-1 Rootbound Crag
-1 Glorybringer
-1 Stubborn Denial
-1 Steam Vents
-1 Stomping Ground
-1 The Royal Scions
-2 Rootbound Crag
-2 Stomping Ground
-2 The Royal Scions
-2 Glorybringer
-2 Steam Vents
-2 Stubborn Denial
-3 Rootbound Crag
-3 Glorybringer
+1 Domri, Anarch of Bolas
 3 Heart of Kiran
 3 Wicked Wolf
-3 Stomping Ground
-3 Steam Vents
-4 Glorybringer
-4 Steam Vents
-4 Stomping Ground
+4 Rootbound Crag
+4 Bonecrusher Giant
+1 Jace, Vryn's Prodigy
+1 The Scarab God
+3 Elvish Mystic
 1 Drown in the Loch
 4 Watery Grave
 4 Fabled Passage
 1 Hissing Quagmire
-2 Woodland Cemetery
 2 Liliana, the Last Hope
-1 Yavimaya Coast
-2 Yavimaya Coast
-3 Yavimaya Coast
-4 Yavimaya Coast
+2 Woodland Cemetery
+3 Llanowar Elves
 4 Llanowar Wastes
-2 Jace, Vryn's Prodigy
-4 Forest
-3 Scrapheap Scrounger
-1 Hallowed Fountain
-1 Militia Bugler
-1 Reflector Mage
-1 Deputy of Detention
-1 Charming Prince
-1 Selfless Spirit
-2 Reflector Mage
-2 Militia Bugler
-2 Hallowed Fountain
-2 Charming Prince
-2 Deputy of Detention
-2 Selfless Spirit
-3 Reflector Mage
-3 Charming Prince
 1 Collected Company
 2 Collected Company
 3 Collected Company
 4 Collected Company
+2 Yavimaya Coast
+3 Yavimaya Coast
+4 Yavimaya Coast
+2 Jace, Vryn's Prodigy
+1 Hallowed Fountain
+1 Reflector Mage
+1 Deputy of Detention
+1 Selfless Spirit
+2 Hallowed Fountain
+2 Deputy of Detention
+1 Temple Garden
+1 Sunpetal Grove
+2 Temple Garden
+1 Glacial Fortress
+1 Spell Queller
+1 Teferi, Time Raveler
+2 Spell Queller
+3 Spell Queller
+4 Spell Queller
+4 Elvish Mystic
+1 Plains
+2 Plains
+3 Plains
+1 Militia Bugler
+1 Charming Prince
+2 Reflector Mage
+2 Militia Bugler
+2 Charming Prince
+2 Selfless Spirit
+3 Reflector Mage
+3 Charming Prince
+3 Hallowed Fountain
+4 Hallowed Fountain
+3 Scrapheap Scrounger
 1 Hazoret the Fervent
-2 Chandra, Torch of Defiance
+2 Sunpetal Grove
+3 Temple Garden
+3 Sunpetal Grove
+4 Sunpetal Grove
+1 Canopy Vista
 2 Vraska, Golgari Queen
-1 Torrential Gearhulk
-1 Ultimate Price
-2 Torrential Gearhulk
-3 Scavenging Ooze
+1 Kiora, Behemoth Beckoner
+1 Anger of the Gods
+2 Kiora, Behemoth Beckoner
+3 Chandra, Torch of Defiance
+1 Rhonas the Indomitable
+3 The Royal Scions
 1 Spirebluff Canal
-1 Domri, Anarch of Bolas
 1 Brazen Borrower
 2 Brazen Borrower
 3 Stubborn Denial
+1 Wastes
+1 Prairie Stream
+1 Eldrazi Displacer
+1 Declaration in Stone
+1 Knight of Autumn
+2 Eldrazi Displacer
+2 Teferi, Time Raveler
+2 Declaration in Stone
+3 Jace, Vryn's Prodigy
+3 Teferi, Time Raveler
 3 Murderous Rider
-1 Glint-Sleeve Siphoner
-1 Hero's Downfall
-1 Aether Hub
-1 Rogue Refiner
-2 Glint-Sleeve Siphoner
-2 Hero's Downfall
-2 Rogue Refiner
-2 Aether Hub
-3 Rogue Refiner
-3 Glint-Sleeve Siphoner
-3 Aether Hub
-4 Glint-Sleeve Siphoner
+1 Voice of Resurgence
+1 Fortified Village
+1 Lovestruck Beast
+2 Voice of Resurgence
+2 Glacial Fortress
+2 Lovestruck Beast
+3 Voice of Resurgence
+3 Deputy of Detention
+4 Voice of Resurgence
 1 Lochmere Serpent
 1 Thought Erasure
 1 Drowned Catacomb
@@ -253,6 +227,18 @@
 3 Courser of Kruphix
 4 Tireless Tracker
 4 Courser of Kruphix
+1 Glint-Sleeve Siphoner
+1 Rogue Refiner
+1 Hero's Downfall
+1 Aether Hub
+2 Glint-Sleeve Siphoner
+2 Rogue Refiner
+2 Hero's Downfall
+2 Aether Hub
+3 Glint-Sleeve Siphoner
+3 Rogue Refiner
+3 Aether Hub
+4 Glint-Sleeve Siphoner
 4 Satyr Wayfinder
 1 Traverse the Ulvenwald
 1 Walking Ballista
@@ -269,22 +255,12 @@
 3 Woodland Cemetery
 4 Woodland Cemetery
 4 Grim Flayer
-1 Wastes
-1 Prairie Stream
-1 Eldrazi Displacer
-1 Glacial Fortress
-1 Declaration in Stone
-1 Spell Queller
-1 Knight of Autumn
-1 Teferi, Time Raveler
-2 Eldrazi Displacer
-2 Teferi, Time Raveler
-2 Declaration in Stone
-2 Spell Queller
-3 Jace, Vryn's Prodigy
-3 Teferi, Time Raveler
-3 Spell Queller
-4 Spell Queller
+1 Ultimate Price
+1 Torrential Gearhulk
+2 Torrential Gearhulk
+3 Scavenging Ooze
+4 Forest
+4 Plains
 1 Wild Slash
 1 Mountain
 2 Mountain
@@ -295,6 +271,10 @@
 4 Mountain
 5 Mountain
 6 Mountain
+1 Dauntless Bodyguard
+2 Dauntless Bodyguard
+3 Dauntless Bodyguard
+4 Dauntless Bodyguard
 1 Boros Charm
 1 Clifftop Retreat
 1 Kari Zev, Skyship Raider
@@ -316,26 +296,26 @@
 2 Hanweir Battlements
 2 Hanweir Garrison
 2 Honored Crop-Captain
-2 Legion Loyalist
 2 Heroic Reinforcements
 2 Rimrock Knight
+2 Legion Loyalist
 2 Goblin Rabblemaster
 3 Inspiring Vantage
 3 Sacred Foundry
 3 Clifftop Retreat
 3 Hanweir Garrison
 3 Honored Crop-Captain
-3 Legion Loyalist
 3 Heroic Reinforcements
 3 Rimrock Knight
+3 Legion Loyalist
 3 Goblin Rabblemaster
 4 Sacred Foundry
 4 Inspiring Vantage
 4 Honored Crop-Captain
 4 Heroic Reinforcements
 4 Hanweir Garrison
-4 Legion Loyalist
 4 Rimrock Knight
+4 Legion Loyalist
 4 Goblin Rabblemaster
 1 Unclaimed Territory
 1 Westvale Abbey
@@ -344,6 +324,8 @@
 2 Smuggler's Copter
 3 Smuggler's Copter
 4 Smuggler's Copter
+5 Plains
+6 Plains
 1 Cloudblazer
 1 Oketra's Monument
 1 Spire of Industry
@@ -357,7 +339,6 @@
 2 Angel of Invention
 2 Thraben Inspector
 3 Unclaimed Territory
-3 Hallowed Fountain
 3 Cloudblazer
 3 Spire of Industry
 3 Angel of Invention
@@ -368,63 +349,12 @@
 4 Reflector Mage
 4 Unclaimed Territory
 4 Charming Prince
-4 Hallowed Fountain
 4 Spire of Industry
 4 Oketra's Monument
 4 Militia Bugler
 4 Thraben Inspector
 1 Ashiok, Dream Render
 4 Gurmag Angler
-1 Kiora, Behemoth Beckoner
-1 Anger of the Gods
-2 Kiora, Behemoth Beckoner
-3 Chandra, Torch of Defiance
-4 Rootbound Crag
-4 Bonecrusher Giant
-1 Gift of Orzhova
-1 Gryff's Boon
-1 All That Glitters
-1 Gladecover Scout
-1 Bassara Tower Archer
-1 Cartouche of Solidarity
-1 Fortified Village
-1 Ethereal Armor
-1 Sentinel's Mark
-1 Season of Growth
-1 Unflinching Courage
-1 Mana Confluence
-2 Sentinel's Mark
-2 Gryff's Boon
-2 Bassara Tower Archer
-2 All That Glitters
-2 Ethereal Armor
-2 Cartouche of Solidarity
-2 Gladecover Scout
-2 Season of Growth
-2 Unflinching Courage
-2 Fortified Village
-2 Mana Confluence
-3 All That Glitters
-3 Gladecover Scout
-3 Ethereal Armor
-3 Bassara Tower Archer
-3 Unflinching Courage
-3 Season of Growth
-3 Cartouche of Solidarity
-3 Fortified Village
-3 Mana Confluence
-3 Gryff's Boon
-3 Sentinel's Mark
-4 Gladecover Scout
-4 Cartouche of Solidarity
-4 All That Glitters
-4 Unflinching Courage
-4 Ethereal Armor
-4 Fortified Village
-4 Season of Growth
-4 Mana Confluence
-4 Bassara Tower Archer
-4 Gryff's Boon
 1 Elvish Visionary
 1 Chord of Calling
 1 Nykthos, Shrine to Nyx
@@ -445,50 +375,87 @@
 2 Shaman of the Pack
 3 Chord of Calling
 3 Elvish Clancaller
-3 Llanowar Elves
 3 Gnarlroot Trapper
 3 Shaman of the Pack
-3 Elvish Mystic
 3 Elvish Visionary
 3 Steel Leaf Champion
 3 Dwynen's Elite
-4 Elvish Mystic
 4 Elvish Visionary
 4 Steel Leaf Champion
 4 Elvish Clancaller
 4 Llanowar Elves
 4 Shaman of the Pack
 4 Dwynen's Elite
-1 Blood Crypt
-1 Dragonskull Summit
+1 Venerable Knight
+1 Once Upon a Time
+1 Acclaimed Contender
+1 The Circle of Loyalty
+1 Worthy Knight
+1 Knight of Grace
+1 History of Benalia
+1 Heron's Grace Champion
+1 Thalia's Lieutenant
+1 Knight of the White Orchid
+1 Castle Ardenvale
+2 Venerable Knight
+2 Once Upon a Time
+2 Acclaimed Contender
+2 Worthy Knight
+2 Knight of Grace
+2 History of Benalia
+2 Thalia's Lieutenant
+2 Heron's Grace Champion
+2 Knight of the White Orchid
+3 Knight of Grace
+3 Venerable Knight
+3 Mutavault
+3 Acclaimed Contender
+3 History of Benalia
+3 Once Upon a Time
+3 Worthy Knight
+3 Knight of the White Orchid
+3 Thalia's Lieutenant
+3 Heron's Grace Champion
+4 Once Upon a Time
+4 Temple Garden
+4 Venerable Knight
+4 Acclaimed Contender
+4 History of Benalia
+4 Worthy Knight
+4 Thalia's Lieutenant
+4 Heron's Grace Champion
+4 Knight of the White Orchid
+7 Plains
 1 Foreboding Ruins
 1 Unlicensed Disintegration
 1 Bomat Courier
 1 Soul-Scar Mage
+1 Dragonskull Summit
+1 Blood Crypt
 1 Goblin Chainwhirler
-2 Blood Crypt
-2 Dragonskull Summit
 2 Foreboding Ruins
 2 Unlicensed Disintegration
 2 Hazoret the Fervent
+2 Blood Crypt
 2 Soul-Scar Mage
 2 Goblin Chainwhirler
 2 Bomat Courier
+2 Dragonskull Summit
 3 Goblin Chainwhirler
-3 Blood Crypt
-3 Dragonskull Summit
 3 Unlicensed Disintegration
 3 Foreboding Ruins
 3 Bomat Courier
+3 Dragonskull Summit
+3 Blood Crypt
 3 Soul-Scar Mage
 4 Goblin Chainwhirler
-4 Blood Crypt
-4 Dragonskull Summit
 4 Foreboding Ruins
 4 Unlicensed Disintegration
 4 Soul-Scar Mage
 4 Bomat Courier
 4 Scrapheap Scrounger
+4 Blood Crypt
+4 Dragonskull Summit
 7 Mountain
 8 Mountain
 9 Mountain

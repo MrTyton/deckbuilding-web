@@ -1,21 +1,6 @@
-2 Mystical Dispute
-1 Disdainful Stroke
-1 Noxious Grasp
-2 Noxious Grasp
-1 Scavenging Ooze
-1 Languish
-1 Legion's End
-2 Disdainful Stroke
-1 Duress
-1 Reclamation Sage
-1 Fatal Push
-1 Thoughtseize
 2 Thoughtseize
 3 Thoughtseize
-1 Blightbeetle
-2 Fatal Push
-3 Fatal Push
-1 Ashiok, Dream Render
+2 Negate
 2 Duress
 1 Blood Baron of Vizkopa
 1 Ob Nixilis Reignited
@@ -25,44 +10,50 @@
 2 Dark Betrayal
 3 Noxious Grasp
 3 Duress
-1 Negate
+2 Fatal Push
+3 Fatal Push
+1 Ashiok, Dream Render
+1 Unravel the Aether
 1 Ob Nixilis's Cruelty
 1 Liliana, the Last Hope
+3 Disdainful Stroke
+2 Reclamation Sage
 2 Blightbeetle
 1 Liliana's Defeat
 2 Ashiok, Dream Render
-1 Kalitas, Traitor of Ghet
-2 Negate
+2 Scavenging Ooze
+1 Abrade
+1 Roast
 1 Tireless Tracker
-3 Disdainful Stroke
+1 Kalitas, Traitor of Ghet
+1 Nissa, Vital Force
+1 Anger of the Gods
+1 Chandra, Awakened Inferno
 2 Languish
 1 Assassin's Trophy
-1 Witch's Vengeance
-1 Unmoored Ego
 2 Legion's End
-2 Reclamation Sage
-1 Chandra, Awakened Inferno
-2 Scavenging Ooze
+1 Unmoored Ego
+1 Witch's Vengeance
 4 Thoughtseize
 1 Magma Spray
 1 Stain the Mind
-1 Plains
 1 Collective Brutality
 1 Dragonlord Silumgar
 1 Vivien Reid
 1 Ishkanah, Grafwidow
 1 Liliana, Death's Majesty
 1 Dead Weight
-1 Nissa, Vital Force
 1 Emrakul, the Promised End
 1 Massacre Girl
+1 Dromoka's Command
+1 Knight of Autumn
+2 Knight of Autumn
+1 Sarkhan the Masterless
+2 Anger of the Gods
 2 Ob Nixilis's Cruelty
-1 Abrade
-1 Roast
 1 Wicked Wolf
 2 Roast
 1 Fry
-1 Anger of the Gods
 1 Shifting Ceratops
 1 Cindervines
 1 Aethersphere Harvester
@@ -85,34 +76,44 @@
 1 Nylea's Disciple
 2 Nylea's Disciple
 3 Nylea's Disciple
+2 Unravel the Aether
 1 Hero's Downfall
 2 Hero's Downfall
-2 Witch's Vengeance
 2 Unmoored Ego
+2 Witch's Vengeance
 3 Unmoored Ego
-3 Dromoka's Command
 1 Chandra, Acolyte of Flame
 1 Dreadbore
 2 Dreadbore
 2 Chandra, Acolyte of Flame
 2 Magma Spray
 3 Chandra, Acolyte of Flame
-1 Knight of Autumn
 1 Greenwarden of Murasa
 1 Archangel Avacyn
 1 Deafening Silence
 1 Void Grafter
 2 Archangel Avacyn
 2 Void Grafter
-2 Knight of Autumn
 2 Deafening Silence
 3 Mystical Dispute
+1 Gideon, Ally of Zendikar
+1 Declaration in Stone
+1 Mutavault
+1 Fiendslayer Paladin
+2 Declaration in Stone
+2 Fiendslayer Paladin
+2 Dromoka's Command
+2 Gideon, Ally of Zendikar
+3 Gideon, Ally of Zendikar
+3 Unravel the Aether
+3 Dromoka's Command
+3 Declaration in Stone
 1 Painful Truths
 1 Cry of the Carnarium
 3 Negate
+1 Selfless Spirit
 1 Rest in Peace
 2 Rest in Peace
-1 Selfless Spirit
 1 Deputy of Detention
 1 Dusk / Dawn
 1 Kambal, Consul of Allocation
@@ -125,13 +126,18 @@
 2 Aven Mindcensor
 3 Rest in Peace
 3 Sin Collector
+1 Golgari Charm
 1 Sultai Charm
 1 Vraska, Golgari Queen
-1 Golgari Charm
 2 Golgari Charm
 2 Sultai Charm
 3 Golgari Charm
-3 Dark Betrayal
+1 Teferi, Time Raveler
+1 Baffling End
+1 Ephara, God of the Polis
+2 Baffling End
+3 Knight of Autumn
+3 Baffling End
 1 Deflecting Palm
 1 Wear / Tear
 1 Surge of Righteousness
@@ -143,16 +149,4 @@
 3 Selfless Spirit
 3 Wear / Tear
 4 Selfless Spirit
-1 Return to Nature
-1 Pithing Needle
-1 Valorous Stance
-1 Leyline of Sanctity
-2 Return to Nature
-2 Pithing Needle
-2 Leyline of Sanctity
-2 Valorous Stance
-3 Return to Nature
-3 Pithing Needle
-3 Valorous Stance
-4 Return to Nature
-4 Valorous Stance
+3 Dark Betrayal

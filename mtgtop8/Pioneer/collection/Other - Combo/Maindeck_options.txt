@@ -1,6 +1,6 @@
 1 Island
-1 Whirler Virtuoso
 1 Stomping Ground
+1 Whirler Virtuoso
 1 Rogue Refiner
 1 Aetherworks Marvel
 1 Woodweaver's Puzzleknot
@@ -10,8 +10,8 @@
 1 Aether Hub
 1 Harnessed Lightning
 1 Mountain
-2 Whirler Virtuoso
 2 Stomping Ground
+2 Whirler Virtuoso
 2 Rogue Refiner
 2 Aetherworks Marvel
 2 Woodweaver's Puzzleknot
@@ -56,10 +56,10 @@
 4 Hour of Devastation
 1 Temple Garden
 1 Ugin, the Ineffable
+1 Plains
 1 Nahiri, the Harbinger
 1 Spirebluff Canal
 1 Tireless Tracker
-1 Plains
 1 Ugin, the Spirit Dragon
 2 Ugin, the Spirit Dragon
 2 Nahiri, the Harbinger
@@ -82,13 +82,13 @@
 1 Hope of Ghirapur
 2 Hope of Ghirapur
 1 Urborg, Tomb of Yawgmoth
-1 Teferi, Time Raveler
-1 Kethis, the Hidden Hand
 1 Hallowed Fountain
+1 Kethis, the Hidden Hand
 1 Emry, Lurker of the Loch
 1 Mox Amber
-1 Mana Confluence
 1 Jace, Wielder of Mysteries
+1 Teferi, Time Raveler
+1 Mana Confluence
 1 Diligent Excavator
 1 Blooming Marsh
 1 Oath of Nissa
@@ -96,65 +96,65 @@
 1 Oko, Thief of Crowns
 1 Lazav, the Multifarious
 2 Urborg, Tomb of Yawgmoth
-2 Kethis, the Hidden Hand
+2 Temple Garden
 2 Hallowed Fountain
+2 Kethis, the Hidden Hand
 2 Teferi, Time Raveler
 2 Emry, Lurker of the Loch
-2 Temple Garden
-2 Mana Confluence
 2 Mox Amber
 2 Oath of Nissa
+2 Mana Confluence
 2 Diligent Excavator
 2 Blooming Marsh
 2 Oko, Thief of Crowns
 2 Lazav, the Multifarious
 2 Terrarion
 3 Kethis, the Hidden Hand
+3 Hallowed Fountain
 3 Teferi, Time Raveler
 3 Mox Amber
 3 Emry, Lurker of the Loch
-3 Mana Confluence
-3 Hallowed Fountain
 3 Hope of Ghirapur
+3 Mana Confluence
 3 Lazav, the Multifarious
 3 Oath of Nissa
 3 Diligent Excavator
 3 Blooming Marsh
 4 Kethis, the Hidden Hand
-4 Mox Amber
-4 Mana Confluence
-4 Emry, Lurker of the Loch
 4 Hallowed Fountain
+4 Mox Amber
+4 Emry, Lurker of the Loch
 4 Oath of Nissa
 4 Diligent Excavator
+4 Mana Confluence
 4 Hope of Ghirapur
 4 Teferi, Time Raveler
 4 Blooming Marsh
 1 Field of Ruin
 2 Field of Ruin
+1 Heart of Kiran
 1 Mobilized District
 1 Sea Gate Wreckage
 1 Karn, Scion of Urza
-1 Heart of Kiran
 1 Warping Wail
-1 Walking Ballista
 1 Wastes
+1 Walking Ballista
 1 Zhalfirin Void
 1 Spatial Contortion
 1 Scrap Trawler
 1 Ratchet Bomb
 1 Stonecoil Serpent
+1 Mutavault
 1 Darksteel Citadel
 1 Foundry of the Consuls
 1 Fountain of Renewal
-1 Mutavault
 1 Karn, the Great Creator
 2 Shrine of the Forsaken Gods
 2 Wastes
 2 Karn, Scion of Urza
 2 Blast Zone
-2 Zhalfirin Void
 2 Mutavault
+2 Zhalfirin Void
 2 Spatial Contortion
 2 Walking Ballista
 2 Ratchet Bomb
@@ -168,10 +168,10 @@
 3 Blast Zone
 3 Karn, Scion of Urza
 3 Shrine of the Forsaken Gods
-3 Mutavault
 3 Warping Wail
 3 Wastes
 3 Zhalfirin Void
+3 Mutavault
 3 Ratchet Bomb
 3 Spatial Contortion
 3 Karn, the Great Creator
@@ -200,31 +200,31 @@
 4 Strategic Planning
 1 Drown in the Loch
 1 Sunken Hollow
-1 Cyclonic Rift
 1 Geier Reach Sanitarium
+1 Cyclonic Rift
 1 Drowned Catacomb
 1 Dictate of Kruphix
 1 Fabled Passage
-1 Thoughtseize
 1 Notion Thief
-1 Fatal Push
-1 Engulf the Shore
 1 Narset, Parter of Veils
+1 Engulf the Shore
 1 Brazen Borrower
 1 Unsummon
+1 Fatal Push
 1 Swamp
 1 Watery Grave
 1 Spell Pierce
+1 Thoughtseize
 1 Wizard's Retort
 1 Dakra Mystic
 1 Unsubstantiate
 1 Day's Undoing
 2 Sunken Hollow
-2 Geier Reach Sanitarium
 2 Brazen Borrower
 2 Cyclonic Rift
 2 Day's Undoing
 2 Dictate of Kruphix
+2 Geier Reach Sanitarium
 2 Fabled Passage
 2 Fatal Push
 2 Narset, Parter of Veils
@@ -246,12 +246,12 @@
 3 Island
 4 Watery Grave
 4 Sunken Hollow
+4 Narset, Parter of Veils
 4 Notion Thief
 4 Brazen Borrower
 4 Day's Undoing
 4 Dakra Mystic
 4 Island
-4 Narset, Parter of Veils
 5 Island
 6 Island
 7 Island

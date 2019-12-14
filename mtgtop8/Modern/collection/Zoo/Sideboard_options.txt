@@ -13,8 +13,8 @@
 2 Weather the Storm
 3 Eidolon of the Great Revel
 1 Gaddock Teeg
-1 Bonecrusher Giant
 1 Domri Rade
+1 Bonecrusher Giant
 1 Serra the Benevolent
 1 Wurmcoil Engine
 1 Tormod's Crypt
@@ -22,8 +22,8 @@
 1 Mycosynth Lattice
 1 Liquimetal Coating
 1 Ensnaring Bridge
-1 Engineered Explosives
 1 Surgical Extraction
+1 Engineered Explosives
 1 Harsh Mentor
 1 Scavenging Ooze
 1 Kataki, War's Wage
@@ -32,11 +32,11 @@
 2 Gaddock Teeg
 1 Seasoned Pyromancer
 2 Seasoned Pyromancer
+1 Worship
 1 Blessed Alliance
 1 Choke
 1 Relic of Progenitus
 1 Tocatli Honor Guard
-1 Worship
 2 Relic of Progenitus
 1 Huntmaster of the Fells
 1 Stony Silence
@@ -47,11 +47,6 @@
 2 Leyline of Sanctity
 2 Tireless Tracker
 3 Leyline of Sanctity
-1 Hushbringer
-2 Hushbringer
-2 Destructive Revelry
-3 Destructive Revelry
-3 Weather the Storm
 1 Lightning Helix
 1 Goblin Rabblemaster
 2 Lightning Helix
@@ -67,19 +62,11 @@
 3 Kitchen Finks
 3 Damping Sphere
 3 Meddling Mage
-1 Tin Street Hooligan
-2 Tin Street Hooligan
-3 Tin Street Hooligan
-1 Forked Bolt
-1 Natural State
-1 Veil of Summer
-1 Life Goes On
-1 Ghor-Clan Rampager
-2 Forked Bolt
-2 Veil of Summer
-2 Life Goes On
-3 Veil of Summer
-3 Life Goes On
+1 Hushbringer
+2 Hushbringer
+2 Destructive Revelry
+3 Destructive Revelry
+3 Weather the Storm
 1 Boros Charm
 1 Dragon's Claw
 1 Abrade
@@ -90,10 +77,13 @@
 3 Collector Ouphe
 3 Abrade
 4 Path to Exile
-1 Mutagenic Growth
+1 Tin Street Hooligan
 1 Thalia, Guardian of Thraben
-2 Mutagenic Growth
+1 Mutagenic Growth
 2 Thalia, Guardian of Thraben
+2 Mutagenic Growth
+2 Tin Street Hooligan
 3 Thalia, Guardian of Thraben
+3 Tin Street Hooligan
 4 Eidolon of the Great Revel
 4 Tin Street Hooligan

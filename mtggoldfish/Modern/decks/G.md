@@ -25,3 +25,21 @@
 |1 [Pithing Needle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129526)    |1 [Scavenging Ooze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420783)    |                                                                                           |
 |1 [Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)    |1 [Walking Ballista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423848)   |                                                                                           |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                       Maindeck Card                                        |*n*<sup>th</sup> copy|                                            Sideboard Card                                             |
+|--------------------:|--------------------------------------------------------------------------------------------|--------------------:|-------------------------------------------------------------------------------------------------------|
+|                    1|[Wooded Foothills](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405116) |                    1|[Witchbane Orb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=233240)               |
+|                    1|[Birds of Paradise](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129906)|                    1|[Voracious Hydra](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466954)             |
+|                    1|[Waterlogged Grove](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464198)|                    1|[Ulamog, the Ceaseless Hunger](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=402079)|
+|                    2|[Birds of Paradise](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129906)|                    1|[Nylea's Disciple](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373498)            |
+|                    2|[Waterlogged Grove](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464198)|                    1|[Spellskite](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397743)                  |
+|                    2|[Wooded Foothills](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405116) |                    1|[Trinisphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=43545)                  |
+|                    3|[Waterlogged Grove](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464198)|                     |                                                                                                       |
+|                    3|[Birds of Paradise](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129906)|                     |                                                                                                       |
+|                    3|[Wistful Selkie](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405453)   |                     |                                                                                                       |
+|                    4|[Windswept Heath](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405115)  |                     |                                                                                                       |
+|                    4|[Birds of Paradise](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129906)|                     |                                                                                                       |
+|                    4|[Wistful Selkie](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405453)   |                     |                                                                                                       |
+

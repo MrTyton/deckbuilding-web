@@ -28,20 +28,20 @@
 1 Pelt Collector
 1 Hazoret the Fervent
 1 Zhur-Taa Goblin
+2 Ghor-Clan Rampager
 2 Blossoming Defense
-2 Experiment One
 2 Voltaic Brawler
+2 Experiment One
 2 Pelt Collector
 2 Hazoret the Fervent
-2 Ghor-Clan Rampager
 2 Hashep Oasis
 2 Zhur-Taa Goblin
 3 Pelt Collector
 3 Experiment One
 3 Hashep Oasis
 3 Zhur-Taa Goblin
-3 Blossoming Defense
 3 Voltaic Brawler
+3 Blossoming Defense
 4 Blossoming Defense
 4 Experiment One
 4 Voltaic Brawler
@@ -65,21 +65,6 @@
 1 Paradise Druid
 2 Vivien, Arkbow Ranger
 4 Heart of Kiran
-1 Chandra, Torch of Defiance
-1 Gilded Goose
-1 Sheltered Thicket
-2 Chandra, Torch of Defiance
-2 Gilded Goose
-2 Sheltered Thicket
-2 Mizzium Mortars
-3 Gilded Goose
-3 Sheltered Thicket
-3 Mizzium Mortars
-3 Rekindling Phoenix
-4 Gilded Goose
-4 Rekindling Phoenix
-4 Mizzium Mortars
-4 Domri, Anarch of Bolas
 1 Xenagos, the Reveler
 1 Tireless Tracker
 1 Abrade
@@ -91,6 +76,21 @@
 4 Tireless Tracker
 4 Questing Beast
 4 Hashep Oasis
+1 Chandra, Torch of Defiance
+1 Gilded Goose
+1 Sheltered Thicket
+2 Chandra, Torch of Defiance
+2 Gilded Goose
+2 Sheltered Thicket
+2 Mizzium Mortars
+3 Gilded Goose
+3 Sheltered Thicket
+3 Mizzium Mortars
+3 Rekindling Phoenix
+4 Rekindling Phoenix
+4 Gilded Goose
+4 Domri, Anarch of Bolas
+4 Mizzium Mortars
 1 Yorvo, Lord of Garenbrig
 1 Surrak, the Hunt Caller
 1 Rhythm of the Wild
@@ -108,8 +108,8 @@
 1 Commune with Dinosaurs
 2 Marauding Raptor
 2 Ripjaw Raptor
-2 Reckless Rage
 2 Commune with Dinosaurs
+2 Reckless Rage
 2 Regisaur Alpha
 3 Marauding Raptor
 3 Regisaur Alpha
@@ -126,8 +126,8 @@
 1 World Breaker
 1 Nissa, Vastwood Seer
 1 Arch of Orazca
-1 Cinder Glade
 1 Hedron Archive
+1 Cinder Glade
 1 Chandra, Flamecaller
 1 Ulamog, the Ceaseless Hunger
 1 Kozilek's Return
