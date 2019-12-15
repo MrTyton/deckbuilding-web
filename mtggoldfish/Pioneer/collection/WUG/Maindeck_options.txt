@@ -1,132 +1,38 @@
-1 Wilderness Reclamation
-1 Settle the Wreckage
-1 Cyclonic Rift
-1 Sphinx's Revelation
-1 Blast Zone
-2 Sphinx's Revelation
-2 Wilderness Reclamation
-2 Supreme Will
-2 Settle the Wreckage
-2 Nexus of Fate
-3 Supreme Will
-3 Wilderness Reclamation
-4 Wilderness Reclamation
-1 Dromoka's Command
-3 Sunpetal Grove
-3 Botanical Sanctum
-4 Sunpetal Grove
-1 Mana Confluence
-1 Unflinching Courage
-1 Season of Growth
-1 Sentinel's Mark
-1 Ethereal Armor
-1 Curious Obsession
-1 Cartouche of Solidarity
-1 Bassara Tower Archer
-1 Gladecover Scout
-1 All That Glitters
-1 Gryff's Boon
-1 Holy Mantle
-2 Mana Confluence
-2 Unflinching Courage
-2 Season of Growth
-2 Curious Obsession
-2 Gladecover Scout
-2 Cartouche of Solidarity
-2 Forest
-2 Ethereal Armor
-2 All That Glitters
-2 Bassara Tower Archer
-2 Gryff's Boon
-2 Sentinel's Mark
-3 Cartouche of Solidarity
-3 Mana Confluence
-3 Season of Growth
-3 Unflinching Courage
-3 Bassara Tower Archer
-3 Curious Obsession
-3 Ethereal Armor
-3 Gladecover Scout
-3 All That Glitters
-4 Ethereal Armor
-4 Unflinching Courage
-4 All That Glitters
-4 Gladecover Scout
-4 Oko, Thief of Crowns
-1 Lumbering Falls
-1 Opt
-1 Search for Azcanta
-1 Sinister Sabotage
-1 Fabled Passage
-2 Opt
-2 Island
-2 Cast Out
-2 Sinister Sabotage
-2 Fabled Passage
-3 Island
-4 Censor
-4 Teferi, Time Raveler
-4 Supreme Verdict
-1 Elvish Mystic
-1 Llanowar Elves
-2 Elvish Mystic
-2 Llanowar Elves
-1 Gideon, Ally of Zendikar
-1 Detention Sphere
-2 Gideon, Ally of Zendikar
-3 Gideon, Ally of Zendikar
-4 Glacial Fortress
-1 Tireless Tracker
-1 Thraben Inspector
-2 Tireless Tracker
-2 Thraben Inspector
-3 Thraben Inspector
-4 Thraben Inspector
-1 Brazen Borrower
-1 Spell Queller
-2 Spell Queller
-3 Spell Queller
-4 Spell Queller
-1 Fortified Village
-1 Collected Company
-1 Reflector Mage
-2 Collected Company
-2 Reflector Mage
 3 Reflector Mage
-3 Collected Company
 4 Reflector Mage
 4 Collected Company
 1 Voice of Resurgence
 1 Deputy of Detention
 1 Knight of Autumn
 2 Voice of Resurgence
-3 Llanowar Elves
 3 Voice of Resurgence
+3 Llanowar Elves
 4 Voice of Resurgence
-3 Fabled Passage
 1 Archangel Avacyn
 1 Heart of Kiran
 1 Metallic Rebuke
-2 Heart of Kiran
 2 Archangel Avacyn
-2 Metallic Rebuke
+2 Heart of Kiran
 2 Brazen Borrower
+2 Metallic Rebuke
 3 Brazen Borrower
 3 Metallic Rebuke
 3 Heart of Kiran
-1 Narset, Parter of Veils
 1 Interplanar Beacon
+1 Narset, Parter of Veils
+1 Teferi, Hero of Dominaria
 1 Elspeth, Sun's Champion
 1 Gideon of the Trials
 1 Ajani, the Greathearted
-1 Nissa, Voice of Zendikar
 1 Oath of Ajani
-2 Narset, Parter of Veils
+1 Tamiyo, Collector of Tales
+1 Nissa, Voice of Zendikar
 2 Interplanar Beacon
 2 Gideon of the Trials
-2 Tamiyo, Collector of Tales
+2 Narset, Parter of Veils
 2 Detention Sphere
 2 Nissa, Voice of Zendikar
+2 Tamiyo, Collector of Tales
 2 Ajani, the Greathearted
 2 Oath of Ajani
 3 Interplanar Beacon
@@ -135,72 +41,80 @@
 3 Oath of Ajani
 4 Interplanar Beacon
 1 Renegade Rallier
-1 Unclaimed Territory
 1 Incubation/Incongruity
 1 Wicked Wolf
 1 Eldritch Evolution
 1 Eyeless Watcher
 1 Eldrazi Displacer
-1 Biomancer's Familiar
 1 Thought-Knot Seer
+1 Unclaimed Territory
+1 Corridor Monitor
+1 Biomancer's Familiar
+1 Temple of Plenty
 1 Prime Speaker Vannifar
 1 Chord of Calling
 1 Shefet Dunes
 1 Yavimaya Coast
-1 Corridor Monitor
-1 Temple of Plenty
 1 Selfless Spirit
 2 Eldritch Evolution
-2 Unclaimed Territory
 2 Incubation/Incongruity
 2 Eldrazi Displacer
 2 Temple of Plenty
-2 Prime Speaker Vannifar
 2 Selfless Spirit
+2 Unclaimed Territory
+2 Prime Speaker Vannifar
 2 Chord of Calling
 2 Yavimaya Coast
-3 Unclaimed Territory
 3 Yavimaya Coast
+3 Unclaimed Territory
 3 Prime Speaker Vannifar
 3 Chord of Calling
 3 Selfless Spirit
-4 Yavimaya Coast
 4 Prime Speaker Vannifar
-1 Charming Prince
-1 Ojutai's Command
-1 Duskwatch Recruiter
-1 Thalia's Lieutenant
-1 Scavenging Ooze
-2 Charming Prince
-2 Ojutai's Command
-2 Scavenging Ooze
-2 Duskwatch Recruiter
-2 Dromoka's Command
-2 Thalia's Lieutenant
-3 Duskwatch Recruiter
-3 Charming Prince
-3 Dromoka's Command
-3 Thalia's Lieutenant
-3 Tireless Tracker
-4 Charming Prince
-4 Botanical Sanctum
-4 Thalia's Lieutenant
-4 Tireless Tracker
-4 Dromoka's Command
-1 Tamiyo, Field Researcher
+4 Yavimaya Coast
 1 Courser of Kruphix
-1 Growth-Chamber Guardian
+1 Hinterland Harbor
+1 Tamiyo, Field Researcher
 1 Champion of Wits
+1 Growth-Chamber Guardian
+2 Courser of Kruphix
+2 Hinterland Harbor
 2 Deputy of Detention
 2 Growth-Chamber Guardian
 2 Fortified Village
 2 Champion of Wits
-2 Courser of Kruphix
 3 Courser of Kruphix
-3 Elvish Mystic
 3 Growth-Chamber Guardian
 3 Fortified Village
+3 Elvish Mystic
+3 Hinterland Harbor
+4 Hinterland Harbor
 4 Llanowar Elves
 4 Elvish Mystic
 4 Fortified Village
 4 Growth-Chamber Guardian
+1 Ojutai's Command
+1 Dromoka's Command
+1 Duskwatch Recruiter
+1 Charming Prince
+1 Thalia's Lieutenant
+1 Scavenging Ooze
+2 Ojutai's Command
+2 Dromoka's Command
+2 Duskwatch Recruiter
+2 Scavenging Ooze
+2 Charming Prince
+2 Thalia's Lieutenant
+3 Tireless Tracker
+3 Botanical Sanctum
+3 Duskwatch Recruiter
+3 Dromoka's Command
+3 Charming Prince
+3 Sunpetal Grove
+3 Thalia's Lieutenant
+4 Botanical Sanctum
+4 Charming Prince
+4 Tireless Tracker
+4 Thalia's Lieutenant
+4 Sunpetal Grove
+4 Dromoka's Command

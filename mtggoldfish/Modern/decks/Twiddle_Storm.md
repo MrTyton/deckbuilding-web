@@ -42,6 +42,6 @@
 |                     |                                                                                                   |                    1|[Ignite Memories](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=109756)     |
 |                     |                                                                                                   |                    2|[Pieces of the Puzzle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409821)|
 |                     |                                                                                                   |                    3|[Nature's Claim](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382316)      |
-|                     |                                                                                                   |                    3|[Rebuild](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464015)             |
 |                     |                                                                                                   |                    4|[Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)      |
+|                     |                                                                                                   |                    3|[Rebuild](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464015)             |
 

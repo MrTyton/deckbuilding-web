@@ -139,6 +139,6 @@
 |                    4|[Pithing Needle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129526)               |                     |                                                                                                        |
 |                    4|[Ancient Stirrings](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442148)            |                     |                                                                                                        |
 |                    6|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)                       |                     |                                                                                                        |
-|                    8|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)                       |                     |                                                                                                        |
 |                    7|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)                       |                     |                                                                                                        |
+|                    8|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)                       |                     |                                                                                                        |
 

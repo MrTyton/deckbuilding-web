@@ -30,9 +30,9 @@
 1 Arborback Stomper
 1 Ishkanah, Grafwidow
 1 Languish
-1 Nissa, Vital Force
 1 Plaguecrafter
 1 Liliana, Death's Majesty
+1 Nissa, Vital Force
 2 Languish
 1 Murderous Rider
 1 Liliana, the Last Hope
@@ -44,11 +44,11 @@
 1 Pithing Needle
 2 Evolutionary Leap
 2 Pithing Needle
+1 Lifecrafter's Bestiary
+2 Lifecrafter's Bestiary
 1 Verdurous Gearhulk
 1 World Breaker
 2 Virulent Plague
-1 Lifecrafter's Bestiary
-2 Lifecrafter's Bestiary
 1 Mistcutter Hydra
 2 Mistcutter Hydra
 1 Return to Nature
@@ -73,18 +73,6 @@
 2 Witch's Vengeance
 2 Caustic Caterpillar
 3 Caustic Caterpillar
-2 Reclamation Sage
-3 Reclamation Sage
-3 Blightbeetle
-1 Experiment One
-1 Scrapheap Scrounger
-2 Experiment One
-2 Scrapheap Scrounger
-3 Experiment One
-3 Scrapheap Scrounger
-4 Experiment One
-4 Scrapheap Scrounger
-4 Duress
 1 Kalitas, Traitor of Ghet
 1 Ashiok, Dream Render
 1 Mountain
@@ -95,3 +83,15 @@
 2 Crumble to Dust
 3 Ashiok, Dream Render
 3 Crumble to Dust
+2 Reclamation Sage
+3 Blightbeetle
+3 Reclamation Sage
+1 Experiment One
+1 Scrapheap Scrounger
+2 Experiment One
+2 Scrapheap Scrounger
+3 Experiment One
+3 Scrapheap Scrounger
+4 Experiment One
+4 Scrapheap Scrounger
+4 Duress

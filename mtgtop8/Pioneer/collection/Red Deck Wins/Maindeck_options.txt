@@ -32,16 +32,16 @@
 1 Boros Charm
 1 Inspiring Vantage
 1 Battlefield Forge
-2 Boros Charm
 2 Sacred Foundry
+2 Boros Charm
 2 Inspiring Vantage
 2 Battlefield Forge
-3 Boros Charm
 3 Sacred Foundry
 3 Inspiring Vantage
-4 Boros Charm
+3 Boros Charm
 4 Inspiring Vantage
 4 Sacred Foundry
+4 Boros Charm
 3 Bonecrusher Giant
 3 Battlefield Forge
 4 Battlefield Forge
@@ -50,22 +50,22 @@
 3 Hazoret the Fervent
 1 Chandra, Torch of Defiance
 1 Blood Crypt
+1 Scrapheap Scrounger
 1 Foreboding Ruins
 1 Unlicensed Disintegration
-1 Scrapheap Scrounger
 1 Dragonskull Summit
+2 Scrapheap Scrounger
 2 Unlicensed Disintegration
 2 Foreboding Ruins
 2 Blood Crypt
-2 Scrapheap Scrounger
 2 Dragonskull Summit
+3 Scrapheap Scrounger
 3 Foreboding Ruins
 3 Unlicensed Disintegration
-3 Scrapheap Scrounger
 3 Dragonskull Summit
 3 Blood Crypt
-4 Foreboding Ruins
 4 Scrapheap Scrounger
+4 Foreboding Ruins
 4 Dragonskull Summit
 4 Blood Crypt
 1 Burning-Tree Emissary
@@ -81,8 +81,8 @@
 19 Mountain
 1 Reckless Bushwhacker
 1 Legion Loyalist
-2 Castle Embereth
 2 Reckless Bushwhacker
+2 Castle Embereth
 3 Reckless Bushwhacker
 1 Titan's Strength
 2 Titan's Strength
@@ -93,47 +93,20 @@
 2 Viashino Pyromancer
 3 Viashino Pyromancer
 4 Viashino Pyromancer
-1 Torbran, Thane of Red Fell
 1 Boros Reckoner
 1 Fanatic of Mogis
+1 Torbran, Thane of Red Fell
 1 Fabled Passage
-2 Torbran, Thane of Red Fell
 2 Boros Reckoner
 2 Fanatic of Mogis
 2 Ash Zealot
+2 Torbran, Thane of Red Fell
 2 Fabled Passage
-3 Torbran, Thane of Red Fell
 3 Fanatic of Mogis
+3 Torbran, Thane of Red Fell
 3 Boros Reckoner
 4 Fanatic of Mogis
 4 Boros Reckoner
-1 Foundry Street Denizen
-1 Goblin Instigator
-1 Goblin Piledriver
-1 Fanatical Firebrand
-1 Goblin Rabblemaster
-1 Stoke the Flames
-1 Embercleave
-2 Foundry Street Denizen
-2 Legion Loyalist
-2 Goblin Instigator
-2 Goblin Piledriver
-2 Fanatical Firebrand
-2 Goblin Rabblemaster
-2 Stoke the Flames
-2 Embercleave
-3 Foundry Street Denizen
-3 Legion Loyalist
-3 Castle Embereth
-3 Goblin Instigator
-3 Goblin Piledriver
-3 Stoke the Flames
-3 Goblin Rabblemaster
-4 Foundry Street Denizen
-4 Legion Loyalist
-4 Goblin Instigator
-4 Goblin Piledriver
-4 Stoke the Flames
 1 Canyon Slough
 1 Pia Nalaar
 1 Carnival / Carnage
@@ -157,8 +130,35 @@
 2 Heart of Kiran
 2 Chandra, Torch of Defiance
 4 Unlicensed Disintegration
-1 Ghor-Clan Rampager
+1 Fanatical Firebrand
+1 Goblin Rabblemaster
+1 Stoke the Flames
+1 Foundry Street Denizen
+1 Goblin Instigator
+1 Embercleave
+1 Goblin Piledriver
+2 Fanatical Firebrand
+2 Goblin Rabblemaster
+2 Stoke the Flames
+2 Foundry Street Denizen
+2 Legion Loyalist
+2 Embercleave
+2 Goblin Piledriver
+2 Goblin Instigator
+3 Stoke the Flames
+3 Goblin Instigator
+3 Goblin Piledriver
+3 Foundry Street Denizen
+3 Castle Embereth
+3 Goblin Rabblemaster
+3 Legion Loyalist
+4 Stoke the Flames
+4 Foundry Street Denizen
+4 Goblin Piledriver
+4 Legion Loyalist
+4 Goblin Instigator
 1 Dragon Fodder
+1 Ghor-Clan Rampager
 1 Atarka's Command
 1 Stomping Ground
 1 Rootbound Crag

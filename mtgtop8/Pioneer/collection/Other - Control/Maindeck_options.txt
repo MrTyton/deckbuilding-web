@@ -1,20 +1,18 @@
-1 Anger of the Gods
-2 Anger of the Gods
-2 Island
-1 Teferi, Time Raveler
 2 Teferi, Time Raveler
+2 Island
 4 Watery Grave
 1 Search for Azcanta
-1 Plains
-1 Hallowed Fountain
 1 Castle Vantress
+1 Hallowed Fountain
+3 Drowned Catacomb
 2 Hallowed Fountain
 3 Teferi, Time Raveler
 1 Supreme Verdict
 1 Glacial Fortress
 2 Glacial Fortress
 3 Hallowed Fountain
-3 Drowned Catacomb
+1 Godless Shrine
+3 Fabled Passage
 2 Dig Through Time
 1 Opt
 2 Opt
@@ -23,20 +21,23 @@
 1 Censor
 2 Supreme Verdict
 2 Censor
-2 Liliana, the Last Hope
+2 Plains
 4 Hallowed Fountain
 3 Opt
+4 Teferi, Time Raveler
+1 Anger of the Gods
+2 Anger of the Gods
 1 Steam Vents
 1 Sulfur Falls
 2 Steam Vents
 3 Steam Vents
 4 Steam Vents
-4 Teferi, Time Raveler
 1 Narset, Parter of Veils
-2 Plains
+1 Shambling Vent
+2 Godless Shrine
+2 Liliana, the Last Hope
 1 Brazen Borrower
 3 Field of Ruin
-1 Godless Shrine
 1 Negate
 1 Hieroglyphic Illumination
 1 Cast Down
@@ -45,35 +46,29 @@
 3 Censor
 3 Supreme Verdict
 1 Isolated Chapel
-1 Shambling Vent
-2 Godless Shrine
-2 Teferi, Hero of Dominaria
-1 Forest
+3 Murderous Rider
+1 Languish
+2 Languish
 4 Drowned Catacomb
-2 Dreadbore
+1 Forest
+2 Teferi, Hero of Dominaria
+1 Concealed Courtyard
+2 Concealed Courtyard
+2 Shambling Vent
+3 Island
 1 Heart of Kiran
 1 Rekindling Phoenix
 2 Rekindling Phoenix
 3 Rekindling Phoenix
-3 Island
-5 Swamp
-1 Foreboding Ruins
-2 Foreboding Ruins
+1 Detention Sphere
 1 Magma Spray
 2 Magma Spray
-1 Chandra, Acolyte of Flame
-2 Chandra, Acolyte of Flame
+4 Glorybringer
 2 Narset, Parter of Veils
-1 Languish
 1 Vraska's Contempt
-2 Languish
-3 Murderous Rider
 1 Thought Erasure
-1 Detention Sphere
-1 Read the Bones
-3 Dreadbore
-5 Mountain
 2 Cast Down
+1 Oath of Kaya
 1 Sunken Hollow
 1 Choked Estuary
 2 Thought Erasure
@@ -91,16 +86,11 @@
 2 Brazen Borrower
 3 Brazen Borrower
 4 Brazen Borrower
-1 Oath of Kaya
+1 Gideon, Ally of Zendikar
+2 Gideon, Ally of Zendikar
 1 Aether Hub
 2 Aether Hub
 1 Goblin Dark-Dwellers
-4 Bonecrusher Giant
-1 Concealed Courtyard
-1 Gideon, Ally of Zendikar
-2 Shambling Vent
-2 Gideon, Ally of Zendikar
-2 Concealed Courtyard
 1 Sinister Sabotage
 2 Sinister Sabotage
 1 Oko, Thief of Crowns
@@ -118,6 +108,7 @@
 1 Assassin's Trophy
 1 Abrupt Decay
 2 Abrupt Decay
+2 Dreadbore
 1 Temple Garden
 1 Attune with Aether
 1 Bring to Light
@@ -138,7 +129,6 @@
 2 Cast Out
 4 Supreme Verdict
 4 Glacial Fortress
-1 Blast Zone
 1 Lumbering Falls
 1 Growth Spiral
 1 Nexus of Fate
@@ -146,27 +136,30 @@
 2 Growth Spiral
 3 Growth Spiral
 4 Growth Spiral
-3 Anger of the Gods
+1 Blast Zone
 2 Search for Azcanta
 1 Izzet Charm
 1 Stomping Ground
 2 Isolated Chapel
 1 Overgrown Tomb
 2 Forest
-2 Castle Vantress
+1 Mortify
 2 Mana Confluence
+2 Castle Vantress
 1 Blooming Marsh
 2 Blooming Marsh
-1 Spell Pierce
 2 Heart of Kiran
+1 Urborg, Tomb of Yawgmoth
+1 Anguished Unmaking
+2 Anguished Unmaking
+3 Godless Shrine
+3 Concealed Courtyard
+4 Godless Shrine
+4 Concealed Courtyard
+5 Swamp
+1 Spell Pierce
+1 Grasp of Darkness
 2 Detention Sphere
-1 Liliana, Dreadhorde General
-1 Rix Maadi Reveler
-1 Temple of Malice
-2 Rix Maadi Reveler
-2 Temple of Malice
-3 Rix Maadi Reveler
-3 Temple of Malice
 1 Inspiring Vantage
 1 Fae of Wishes
 1 Pithing Needle
@@ -174,17 +167,28 @@
 2 Fae of Wishes
 2 Abrade
 3 Magma Spray
+1 Foreboding Ruins
 1 Lightning Strike
 1 Cut / Ribbons
+2 Foreboding Ruins
 2 Lightning Strike
 3 Lightning Strike
+1 Rix Maadi Reveler
+1 Chandra, Acolyte of Flame
+1 Liliana, Dreadhorde General
+1 Temple of Malice
+2 Rix Maadi Reveler
+2 Chandra, Acolyte of Flame
+2 Temple of Malice
+3 Rix Maadi Reveler
+3 Temple of Malice
 1 Gilded Goose
 1 Sylvan Caryatid
 1 Botanical Sanctum
 1 Arlinn Kord
+1 The Royal Scions
 1 Opulent Palace
 1 Nomad Outpost
-1 The Royal Scions
 1 Rogue Refiner
 2 Gilded Goose
 2 Botanical Sanctum
@@ -203,63 +207,64 @@
 3 Oko, Thief of Crowns
 4 Censor
 4 Oko, Thief of Crowns
-1 Harnessed Lightning
-1 Glint-Sleeve Siphoner
-2 Harnessed Lightning
-2 Glint-Sleeve Siphoner
-3 Harnessed Lightning
-3 Glint-Sleeve Siphoner
-4 Glint-Sleeve Siphoner
-4 Harnessed Lightning
+3 Plains
+1 Secure the Wastes
+1 Collective Brutality
+1 Ob Nixilis Reignited
+1 Westvale Abbey
+1 Yahenni's Expertise
+1 Sorin, Grim Nemesis
+1 Duress
+1 Blighted Fen
+1 Ifnir Deadlands
+1 Transgress the Mind
+1 Archangel Avacyn
+1 Lyra Dawnbringer
+2 Grasp of Darkness
+2 Westvale Abbey
+2 Transgress the Mind
+2 Duress
+2 Sorin, Grim Nemesis
+2 Ifnir Deadlands
+2 Archangel Avacyn
+2 Ob Nixilis Reignited
+2 Mortify
+2 Blighted Fen
+3 Transgress the Mind
+3 Grasp of Darkness
+3 Ob Nixilis Reignited
+4 Murderous Rider
+4 Grasp of Darkness
 1 Dark Petition
 1 Nissa, Vastwood Seer
-1 Seasons Past
 1 Hissing Quagmire
-1 Grasp of Darkness
 1 Sylvan Advocate
 1 Den Protector
-1 Pulse of Murasa
+1 Hero's Downfall
 1 Lost Legacy
 1 Cry of the Carnarium
 1 Tireless Tracker
-1 Hero's Downfall
 1 Woodland Cemetery
+1 Seasons Past
 1 Scavenging Ooze
-2 Dark Petition
+1 Pulse of Murasa
 2 Overgrown Tomb
 2 Hissing Quagmire
 2 Sylvan Advocate
+2 Hero's Downfall
 2 Tireless Tracker
 2 Woodland Cemetery
-2 Hero's Downfall
+2 Dark Petition
 2 Scavenging Ooze
-3 Dark Petition
 3 Overgrown Tomb
-3 Sylvan Advocate
 3 Hissing Quagmire
+3 Sylvan Advocate
 3 Tireless Tracker
+3 Dark Petition
 3 Forest
 4 Overgrown Tomb
 4 Sylvan Advocate
 4 Forest
-1 Mutavault
-1 Urborg, Tomb of Yawgmoth
-1 Bedevil
-1 Angrath's Rampage
-1 Gifted Aetherborn
-2 Mutavault
-2 Bedevil
-2 Angrath's Rampage
-2 Gifted Aetherborn
-2 Goblin Dark-Dwellers
-3 Bedevil
-3 Goblin Dark-Dwellers
-3 Gifted Aetherborn
-4 Bedevil
-4 Goblin Dark-Dwellers
-4 Gifted Aetherborn
-4 Kolaghan's Command
-4 Canyon Slough
 1 Gonti, Lord of Luxury
 1 Fires of Invention
 1 Temple of Epiphany
@@ -273,7 +278,6 @@
 1 Vraska, Golgari Queen
 1 Tyrant's Scorn
 1 Knight of Autumn
-1 Mortify
 1 Navigator's Compass
 2 Oath of Kaya
 2 Assassin's Trophy
@@ -281,32 +285,6 @@
 3 Navigator's Compass
 4 Attune with Aether
 4 Navigator's Compass
-1 Kaya's Wrath
-1 Gideon of the Trials
-1 Gideon's Triumph
-1 Gideon Blackblade
-1 Anguished Unmaking
-1 Blood Baron of Vizkopa
-2 Kaya's Wrath
-2 Anguished Unmaking
-2 Gideon's Triumph
-2 Gideon of the Trials
-2 Gideon Blackblade
-2 Blood Baron of Vizkopa
-3 Heart of Kiran
-3 Gideon, Ally of Zendikar
-3 Kaya's Wrath
-3 Gideon of the Trials
-3 Godless Shrine
-3 Concealed Courtyard
-3 Isolated Chapel
-4 Kaya's Wrath
-4 Heart of Kiran
-4 Gideon, Ally of Zendikar
-4 Gideon of the Trials
-4 Field of Ruin
-4 Godless Shrine
-4 Concealed Courtyard
 1 Castle Ardenvale
 2 Castle Ardenvale
 1 Irrigated Farmland
@@ -347,29 +325,29 @@
 3 Glimmer of Genius
 4 Sunken Hollow
 1 Commit / Memory
-1 Sarkhan the Masterless
-1 Sweltering Suns
 1 Urza's Ruinous Blast
 1 Elspeth, Sun's Champion
-1 Mox Amber
 1 Interplanar Beacon
+1 Mox Amber
 1 Mizzium Mortars
 1 Fiery Impulse
+1 Sweltering Suns
+1 Sarkhan the Masterless
 2 Spirebluff Canal
-2 Mox Amber
 2 Geier Reach Sanitarium
-2 Sweltering Suns
-2 Interplanar Beacon
 2 Fiery Impulse
+2 Mox Amber
 2 Spell Pierce
+2 Interplanar Beacon
 2 Commit / Memory
-3 Fiery Impulse
-3 Interplanar Beacon
+2 Sweltering Suns
 3 Spirebluff Canal
+3 Fiery Impulse
 3 Spell Pierce
-4 Interplanar Beacon
+3 Interplanar Beacon
 4 Spirebluff Canal
 4 Spell Pierce
+4 Interplanar Beacon
 4 Narset, Parter of Veils
 1 Tasigur, the Golden Fang
 1 Syncopate
@@ -382,45 +360,86 @@
 3 Syncopate
 4 Syncopate
 4 Languish
+1 Gideon of the Trials
+1 Gideon Blackblade
+1 Kaya's Wrath
+1 Blood Baron of Vizkopa
+1 Gideon's Triumph
+2 Kaya's Wrath
+2 Blood Baron of Vizkopa
+2 Gideon of the Trials
+2 Gideon's Triumph
+2 Gideon Blackblade
+3 Gideon of the Trials
+3 Gideon, Ally of Zendikar
+3 Heart of Kiran
+3 Kaya's Wrath
+3 Isolated Chapel
+4 Gideon of the Trials
+4 Field of Ruin
+4 Heart of Kiran
+4 Kaya's Wrath
+4 Gideon, Ally of Zendikar
+1 Mutavault
+1 Gifted Aetherborn
+1 Angrath's Rampage
+1 Bedevil
+2 Mutavault
+2 Gifted Aetherborn
+2 Angrath's Rampage
+2 Goblin Dark-Dwellers
+2 Bedevil
+3 Gifted Aetherborn
+3 Bedevil
+3 Goblin Dark-Dwellers
+4 Gifted Aetherborn
+4 Bonecrusher Giant
+4 Kolaghan's Command
+4 Canyon Slough
+4 Bedevil
+4 Goblin Dark-Dwellers
 1 Disallow
+1 Scorching Dragonfire
 1 Pull from Tomorrow
 1 Cyclonic Rift
 1 Wild Slash
 1 Wilderness Reclamation
 1 Supreme Will
-1 Scorching Dragonfire
 1 Expansion / Explosion
 2 Lumbering Falls
-2 Izzet Charm
 2 Sulfur Falls
+2 Izzet Charm
 2 Stomping Ground
+2 Scorching Dragonfire
 2 Wild Slash
 2 Expansion / Explosion
 2 Supreme Will
 2 Wilderness Reclamation
-2 Scorching Dragonfire
 3 Sulfur Falls
 3 Lumbering Falls
 3 Stomping Ground
+3 Anger of the Gods
 3 Wilderness Reclamation
 3 Expansion / Explosion
 3 Wild Slash
 4 Expansion / Explosion
 4 Wilderness Reclamation
-1 Despise
-1 Chandra, Awakened Inferno
-2 Despise
-2 Read the Bones
-2 Chandra, Awakened Inferno
-3 Foreboding Ruins
-4 Dreadbore
-6 Mountain
-7 Mountain
+1 Harnessed Lightning
+1 Read the Bones
+1 Glint-Sleeve Siphoner
+2 Harnessed Lightning
+2 Glint-Sleeve Siphoner
+3 Harnessed Lightning
+3 Glint-Sleeve Siphoner
+3 Dreadbore
+4 Harnessed Lightning
+4 Glint-Sleeve Siphoner
+5 Mountain
 1 Always Watching
 1 Quarantine Field
-1 Legion's Landing
 1 Dawn of Hope
 1 Thraben Inspector
+1 Legion's Landing
 1 Walking Ballista
 1 Mastery of the Unseen
 1 Nykthos, Shrine to Nyx
@@ -430,8 +449,8 @@
 1 Gideon's Intervention
 1 Blind Obedience
 2 Always Watching
-2 Legion's Landing
 2 Thraben Inspector
+2 Legion's Landing
 2 Nykthos, Shrine to Nyx
 2 Stasis Snare
 2 Mastery of the Unseen
@@ -446,7 +465,6 @@
 3 Knight of the White Orchid
 3 Walking Ballista
 3 Always Watching
-3 Plains
 3 Castle Ardenvale
 3 Stasis Snare
 3 Mastery of the Unseen

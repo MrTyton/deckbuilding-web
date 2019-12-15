@@ -12,8 +12,8 @@
 2 Pelt Collector
 3 Pelt Collector
 1 Thoughtseize
-4 Vivien, Arkbow Ranger
 4 Elvish Mystic
+4 Vivien, Arkbow Ranger
 4 Experiment One
 4 Woodland Cemetery
 4 Hangarback Walker
@@ -49,8 +49,8 @@
 2 Lotleth Troll
 2 Zetalpa, Primal Dawn
 2 Soulflayer
-3 Lotleth Troll
 3 Grisly Salvage
+3 Lotleth Troll
 3 Zetalpa, Primal Dawn
 3 Soulflayer
 4 Soulflayer
@@ -68,11 +68,11 @@
 1 Field of Ruin
 1 Hissing Quagmire
 1 Fabled Passage
+1 Kalitas, Traitor of Ghet
 1 Courser of Kruphix
 1 Tireless Tracker
 1 Liliana, the Last Hope
 1 Vraska, Golgari Queen
-1 Kalitas, Traitor of Ghet
 2 Courser of Kruphix
 2 Fabled Passage
 2 Tireless Tracker
@@ -82,8 +82,8 @@
 4 Fabled Passage
 1 Sylvan Caryatid
 2 Sylvan Caryatid
-3 Questing Beast
 3 Sylvan Caryatid
+3 Questing Beast
 4 Murderous Rider
 4 Sylvan Caryatid
 1 Deathrite Shaman
@@ -91,21 +91,21 @@
 1 Mana Confluence
 2 Mana Confluence
 3 Traverse the Ulvenwald
-1 Blossoming Defense
+2 Nykthos, Shrine to Nyx
+3 Scavenging Ooze
 1 Golgari Charm
+1 Blossoming Defense
 1 Dreadhorde Invasion
 2 Dreadhorde Invasion
+2 Castle Locthwain
 2 Blossoming Defense
 2 Mutavault
 2 Jadelight Ranger
-2 Castle Locthwain
 3 Dreadhorde Invasion
 3 Blossoming Defense
 1 Smuggler's Copter
 2 Smuggler's Copter
 3 Smuggler's Copter
-2 Nykthos, Shrine to Nyx
-3 Scavenging Ooze
 2 Karn's Bastion
 3 Karn's Bastion
 1 The Great Henge
@@ -115,74 +115,74 @@
 2 Evolution Sage
 3 Avatar of the Resolute
 3 Evolution Sage
-1 Vessel of Nascency
-1 Urborg, Tomb of Yawgmoth
-1 Gather the Pack
-1 Gifted Aetherborn
-2 Vessel of Nascency
-2 Gather the Pack
-2 Gifted Aetherborn
-3 Vessel of Nascency
-3 Gather the Pack
-4 Questing Beast
-4 Traverse the Ulvenwald
-4 Gather the Pack
-4 Vessel of Nascency
 1 Tasigur, the Golden Fang
-1 Ob Nixilis Reignited
 1 Sylvan Advocate
+1 Ob Nixilis Reignited
 2 Field of Ruin
 2 Tasigur, the Golden Fang
 2 Sylvan Advocate
 2 Hissing Quagmire
-3 Hissing Quagmire
 3 Sylvan Advocate
 3 Field of Ruin
+3 Hissing Quagmire
 3 Abrupt Decay
 4 Sylvan Advocate
-1 Rhonas the Indomitable
-1 Temple of Malady
+1 Vessel of Nascency
+1 Urborg, Tomb of Yawgmoth
+1 Gifted Aetherborn
+1 Gather the Pack
+2 Vessel of Nascency
+2 Gifted Aetherborn
+2 Gather the Pack
+3 Vessel of Nascency
+3 Gather the Pack
+4 Vessel of Nascency
+4 Gather the Pack
+4 Traverse the Ulvenwald
+4 Questing Beast
 1 Rotting Regisaur
 1 Nullhide Ferox
+1 Temple of Malady
+1 Rhonas the Indomitable
 2 Rhonas the Indomitable
-2 Temple of Malady
 2 Rotting Regisaur
 2 Nullhide Ferox
+2 Temple of Malady
 3 Rotting Regisaur
 3 Nullhide Ferox
 3 Rhonas the Indomitable
 4 Nullhide Ferox
 4 Rotting Regisaur
-1 Nightveil Predator
-1 Chromanticore
-1 Blood Crypt
-1 Satyr Wayfinder
-1 Samut, Voice of Dissent
-1 Glorybringer
-1 Den Protector
-1 Bomat Courier
-1 Hazoret the Fervent
-2 Nightveil Predator
-2 Blood Crypt
-2 Satyr Wayfinder
-2 Samut, Voice of Dissent
-3 Mana Confluence
-3 Blood Crypt
-3 Deathrite Shaman
-3 Samut, Voice of Dissent
-3 Satyr Wayfinder
-4 Satyr Wayfinder
-4 Deathrite Shaman
-4 Mana Confluence
 1 Noxious Gearhulk
-1 Ishkanah, Grafwidow
 1 Grim Flayer
+1 Ishkanah, Grafwidow
 1 Duress
 1 Dead Weight
 2 Grim Flayer
-2 Duress
 2 Liliana, the Last Hope
+2 Duress
 3 Grim Flayer
 4 Grim Flayer
 4 Swamp
 5 Swamp
+1 Blood Crypt
+1 Satyr Wayfinder
+1 Den Protector
+1 Samut, Voice of Dissent
+1 Glorybringer
+1 Nightveil Predator
+1 Chromanticore
+1 Bomat Courier
+1 Hazoret the Fervent
+2 Blood Crypt
+2 Satyr Wayfinder
+2 Samut, Voice of Dissent
+2 Nightveil Predator
+3 Blood Crypt
+3 Deathrite Shaman
+3 Satyr Wayfinder
+3 Samut, Voice of Dissent
+3 Mana Confluence
+4 Satyr Wayfinder
+4 Deathrite Shaman
+4 Mana Confluence

@@ -27,8 +27,8 @@
 3 Aether Hub
 3 Harnessed Lightning
 4 Rogue Refiner
-4 Harnessed Lightning
 4 Aetherworks Marvel
+4 Harnessed Lightning
 4 Woodweaver's Puzzleknot
 4 Attune with Aether
 4 Aether Hub
@@ -81,8 +81,8 @@
 4 Kozilek's Return
 1 Hope of Ghirapur
 2 Hope of Ghirapur
-1 Urborg, Tomb of Yawgmoth
 1 Hallowed Fountain
+1 Urborg, Tomb of Yawgmoth
 1 Kethis, the Hidden Hand
 1 Emry, Lurker of the Loch
 1 Mox Amber
@@ -109,8 +109,8 @@
 2 Oko, Thief of Crowns
 2 Lazav, the Multifarious
 2 Terrarion
-3 Kethis, the Hidden Hand
 3 Hallowed Fountain
+3 Kethis, the Hidden Hand
 3 Teferi, Time Raveler
 3 Mox Amber
 3 Emry, Lurker of the Loch
@@ -135,26 +135,25 @@
 1 Heart of Kiran
 1 Mobilized District
 1 Sea Gate Wreckage
-1 Karn, Scion of Urza
 1 Warping Wail
 1 Wastes
+1 Karn, Scion of Urza
 1 Walking Ballista
-1 Zhalfirin Void
 1 Spatial Contortion
 1 Scrap Trawler
 1 Ratchet Bomb
 1 Stonecoil Serpent
 1 Mutavault
-1 Darksteel Citadel
+1 Zhalfirin Void
 1 Foundry of the Consuls
 1 Fountain of Renewal
+1 Darksteel Citadel
 1 Karn, the Great Creator
 2 Shrine of the Forsaken Gods
 2 Wastes
 2 Karn, Scion of Urza
 2 Blast Zone
 2 Mutavault
-2 Zhalfirin Void
 2 Spatial Contortion
 2 Walking Ballista
 2 Ratchet Bomb
@@ -163,14 +162,15 @@
 2 Karn, the Great Creator
 2 Fountain of Renewal
 2 Warping Wail
+2 Zhalfirin Void
 2 Mobilized District
 3 Walking Ballista
 3 Blast Zone
 3 Karn, Scion of Urza
 3 Shrine of the Forsaken Gods
+3 Zhalfirin Void
 3 Warping Wail
 3 Wastes
-3 Zhalfirin Void
 3 Mutavault
 3 Ratchet Bomb
 3 Spatial Contortion
@@ -181,9 +181,9 @@
 4 Stonecoil Serpent
 4 Karn, Scion of Urza
 4 Mutavault
-4 Zhalfirin Void
 4 Shrine of the Forsaken Gods
 4 Scrap Trawler
+4 Zhalfirin Void
 4 Fountain of Renewal
 1 Expansion / Explosion
 1 Strategic Planning
@@ -204,16 +204,16 @@
 1 Cyclonic Rift
 1 Drowned Catacomb
 1 Fabled Passage
+1 Thoughtseize
+1 Fatal Push
 1 Notion Thief
 1 Narset, Parter of Veils
 1 Engulf the Shore
 1 Brazen Borrower
 1 Unsummon
-1 Fatal Push
 1 Swamp
 1 Watery Grave
 1 Spell Pierce
-1 Thoughtseize
 1 Wizard's Retort
 1 Dakra Mystic
 1 Unsubstantiate

@@ -1,9 +1,8 @@
-1 Witching Well
-1 Thopter Foundry
 1 Sword of the Meek
+1 Thopter Foundry
 3 Cryptic Command
+1 Witching Well
 2 Thopter Foundry
-1 Everflowing Chalice
 1 Thoughtseize
 2 Thoughtseize
 1 Whir of Invention
@@ -11,20 +10,20 @@
 5 Snow-Covered Island
 2 Whir of Invention
 4 Thopter Foundry
-3 Scalding Tarn
+1 Everflowing Chalice
 1 Prismatic Vista
 1 Wishclaw Talisman
 1 Ensnaring Bridge
 1 Pithing Needle
 1 Inventors' Fair
-2 Breeding Pool
 1 Pentad Prism
-3 Flooded Strand
 2 Prismatic Vista
 1 Chromatic Star
 2 Chromatic Star
 1 Damping Sphere
 2 Sword of the Meek
+3 Flooded Strand
+3 Scalding Tarn
 1 Snow-Covered Mountain
 1 Steam Vents
 1 Nihil Spellbomb
@@ -34,7 +33,7 @@
 2 Drown in the Loch
 2 Fatal Push
 2 Pentad Prism
-4 Flooded Strand
+2 Breeding Pool
 1 Aether Spellbomb
 3 Prismatic Vista
 3 Whir of Invention
@@ -43,10 +42,11 @@
 2 Pithing Needle
 2 Goblin Engineer
 3 Goblin Engineer
+1 Archmage's Charm
+4 Flooded Strand
 4 Engineered Explosives
 1 Time Sieve
 1 Mystical Dispute
-1 Archmage's Charm
 1 Jace, the Mind Sculptor
 1 Pyrite Spellbomb
 2 Wishclaw Talisman
@@ -63,23 +63,31 @@
 4 Whir of Invention
 1 Waterlogged Grove
 4 Prismatic Vista
+1 Ice-Fang Coatl
+1 Hallowed Fountain
+2 Archmage's Charm
+2 Ice-Fang Coatl
+3 Ice-Fang Coatl
+3 Archmage's Charm
+4 Ice-Fang Coatl
+4 Archmage's Charm
 1 Botanical Sanctum
+1 Island
 1 Glimmervoid
 1 Karn, Scion of Urza
-1 Island
 1 Springleaf Drum
 1 Spire of Industry
-1 Memnite
 1 Ornithopter
+1 Memnite
 1 Darksteel Citadel
 2 Botanical Sanctum
 2 Glimmervoid
 2 Karn, Scion of Urza
 2 Springleaf Drum
 2 Ornithopter
+2 Spire of Industry
 2 Darksteel Citadel
 2 Memnite
-2 Spire of Industry
 3 Botanical Sanctum
 3 Glimmervoid
 3 Memnite
@@ -97,8 +105,8 @@
 4 Springleaf Drum
 1 Nexus of Fate
 1 Mox Amber
-1 Saheeli, Sublime Artificer
 1 Sai, Master Thopterist
+1 Saheeli, Sublime Artificer
 1 Mirrodin Besieged
 1 Paradoxical Outcome
 2 Everflowing Chalice
