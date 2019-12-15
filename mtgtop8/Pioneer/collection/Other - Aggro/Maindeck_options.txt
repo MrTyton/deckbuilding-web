@@ -5,13 +5,15 @@
 2 Elvish Mystic
 4 Breeding Pool
 2 Questing Beast
+1 Chandra, Torch of Defiance
+1 Bonecrusher Giant
+2 Bonecrusher Giant
+3 Bonecrusher Giant
 1 Rootbound Crag
 1 Glorybringer
 1 Heart of Kiran
-1 Stubborn Denial
-1 Chandra, Torch of Defiance
 1 Steam Vents
-1 Bonecrusher Giant
+1 Stubborn Denial
 1 Stomping Ground
 1 The Royal Scions
 2 Rootbound Crag
@@ -20,11 +22,9 @@
 2 The Royal Scions
 2 Glorybringer
 2 Steam Vents
-2 Bonecrusher Giant
 2 Stubborn Denial
 3 Rootbound Crag
 3 Glorybringer
-3 Bonecrusher Giant
 3 Stomping Ground
 3 Steam Vents
 4 Glorybringer
@@ -32,20 +32,22 @@
 4 Stomping Ground
 1 Liliana, the Last Hope
 3 Swamp
-2 Island
 1 Kalitas, Traitor of Ghet
-2 Kalitas, Traitor of Ghet
+2 Island
+2 Chandra, Torch of Defiance
+4 Bonecrusher Giant
 1 Castle Locthwain
 4 Swamp
 5 Swamp
+2 Kalitas, Traitor of Ghet
+6 Swamp
 1 Concealed Courtyard
 2 Concealed Courtyard
 3 Concealed Courtyard
 4 Concealed Courtyard
-1 Mutavault
-2 Mutavault
 1 Isolated Chapel
 1 Godless Shrine
+1 Mutavault
 1 Dusk Legion Zealot
 1 Sorin, Imperious Bloodlord
 1 Champion of Dusk
@@ -56,6 +58,7 @@
 1 Urborg, Tomb of Yawgmoth
 1 Knight of the Ebon Legion
 2 Godless Shrine
+2 Mutavault
 2 Champion of Dusk
 2 Sorin, Imperious Bloodlord
 2 Gifted Aetherborn
@@ -76,20 +79,21 @@
 4 Gifted Aetherborn
 4 Godless Shrine
 4 Knight of the Ebon Legion
-6 Swamp
 7 Swamp
 8 Swamp
 1 Woodland Cemetery
+1 Yavimaya Coast
 4 Abrupt Decay
 1 Grisly Salvage
 2 Grisly Salvage
+1 Scrapheap Scrounger
+2 Scrapheap Scrounger
 1 Llanowar Wastes
 2 Llanowar Wastes
 3 Llanowar Wastes
 1 Gather the Pack
 1 Satyr Wayfinder
 1 Narcomoeba
-1 Scrapheap Scrounger
 1 Haunted Dead
 1 Stitcher's Supplier
 1 Prized Amalgam
@@ -98,14 +102,13 @@
 1 Driven / Despair
 2 Gather the Pack
 2 Satyr Wayfinder
-2 Prized Amalgam
 2 Gurmag Angler
 2 Creeping Chill
 2 Narcomoeba
 2 Driven / Despair
 2 Haunted Dead
 2 Stitcher's Supplier
-2 Scrapheap Scrounger
+2 Prized Amalgam
 3 Grisly Salvage
 3 Gather the Pack
 3 Satyr Wayfinder
@@ -118,11 +121,10 @@
 3 Narcomoeba
 4 Grisly Salvage
 4 Gather the Pack
-4 Prized Amalgam
 4 Stitcher's Supplier
+4 Prized Amalgam
 4 Narcomoeba
 4 Creeping Chill
-1 Yavimaya Coast
 3 Forest
 1 Jace, Vryn's Prodigy
 3 Elvish Mystic
@@ -137,32 +139,30 @@
 2 Hallowed Fountain
 2 Deputy of Detention
 1 Temple Garden
-1 Sunpetal Grove
-2 Temple Garden
 1 Glacial Fortress
 1 Spell Queller
+1 Sunpetal Grove
+2 Temple Garden
 2 Spell Queller
 3 Spell Queller
 4 Spell Queller
-2 Dig Through Time
 1 Domri, Anarch of Bolas
-2 Chandra, Torch of Defiance
+2 Dig Through Time
 4 Rootbound Crag
-4 Bonecrusher Giant
 3 Heart of Kiran
 3 Wicked Wolf
 1 The Scarab God
+1 Brazen Borrower
 3 Hallowed Fountain
 4 Hallowed Fountain
-2 Sunpetal Grove
-3 Temple Garden
-3 Sunpetal Grove
-4 Sunpetal Grove
-1 Brazen Borrower
 1 Lovestruck Beast
 2 Glacial Fortress
 2 Lovestruck Beast
+2 Sunpetal Grove
+3 Temple Garden
 3 Deputy of Detention
+3 Sunpetal Grove
+4 Sunpetal Grove
 1 Drown in the Loch
 4 Watery Grave
 4 Fabled Passage
@@ -176,6 +176,15 @@
 4 Yavimaya Coast
 1 Teferi, Time Raveler
 2 Jace, Vryn's Prodigy
+3 Murderous Rider
+3 Scrapheap Scrounger
+1 Hazoret the Fervent
+1 Glint-Sleeve Siphoner
+1 Aether Hub
+2 Glint-Sleeve Siphoner
+2 Aether Hub
+3 Glint-Sleeve Siphoner
+4 Glint-Sleeve Siphoner
 4 Llanowar Wastes
 4 Elvish Mystic
 4 Llanowar Elves
@@ -189,11 +198,8 @@
 2 Charming Prince
 3 Reflector Mage
 3 Charming Prince
-4 Temple Garden
-1 Canopy Vista
 2 Vraska, Golgari Queen
 1 Kiora, Behemoth Beckoner
-1 Hazoret the Fervent
 1 Anger of the Gods
 2 Kiora, Behemoth Beckoner
 3 Chandra, Torch of Defiance
@@ -203,6 +209,7 @@
 2 Brazen Borrower
 3 Stubborn Denial
 1 Wastes
+1 Canopy Vista
 1 Prairie Stream
 1 Eldrazi Displacer
 1 Declaration in Stone
@@ -212,7 +219,12 @@
 2 Declaration in Stone
 3 Jace, Vryn's Prodigy
 3 Teferi, Time Raveler
-3 Murderous Rider
+1 Rogue Refiner
+1 Hero's Downfall
+2 Rogue Refiner
+2 Hero's Downfall
+3 Rogue Refiner
+3 Aether Hub
 1 Lochmere Serpent
 1 Thought Erasure
 1 Drowned Catacomb
@@ -228,20 +240,6 @@
 2 Voice of Resurgence
 3 Voice of Resurgence
 4 Voice of Resurgence
-1 Glint-Sleeve Siphoner
-1 Rogue Refiner
-1 Hero's Downfall
-1 Aether Hub
-2 Rogue Refiner
-2 Glint-Sleeve Siphoner
-2 Hero's Downfall
-2 Aether Hub
-3 Glint-Sleeve Siphoner
-3 Rogue Refiner
-3 Aether Hub
-4 Glint-Sleeve Siphoner
-3 Scrapheap Scrounger
-4 Satyr Wayfinder
 1 Traverse the Ulvenwald
 1 Walking Ballista
 1 Dead Weight
@@ -257,10 +255,12 @@
 3 Woodland Cemetery
 4 Woodland Cemetery
 4 Grim Flayer
+4 Satyr Wayfinder
 1 Growth-Chamber Guardian
 2 Growth-Chamber Guardian
 3 Growth-Chamber Guardian
 3 Lovestruck Beast
+4 Temple Garden
 4 Growth-Chamber Guardian
 4 Deputy of Detention
 4 Lovestruck Beast
@@ -269,12 +269,116 @@
 2 Torrential Gearhulk
 3 Scavenging Ooze
 4 Forest
+1 Ashiok, Dream Render
+4 Gurmag Angler
+1 Wild Slash
+1 Goblin Rabblemaster
+1 Mountain
+2 Mountain
+2 Wild Slash
+2 Goblin Rabblemaster
+3 Goblin Rabblemaster
+3 Mountain
+4 Mountain
+5 Mountain
+6 Mountain
+1 Cut / Ribbons
+1 Foreboding Ruins
+1 Rix Maadi Reveler
+1 Despise
+1 Dragonskull Summit
+1 Blood Crypt
+1 Rakdos's Return
+2 Hazoret the Fervent
+2 Despise
+2 Rix Maadi Reveler
+2 Blood Crypt
+2 Cut / Ribbons
+2 Dragonskull Summit
+3 Dragonskull Summit
+3 Blood Crypt
+3 Cut / Ribbons
+4 Blood Crypt
+4 Dragonskull Summit
+4 Plains
+1 Boros Charm
+1 Clifftop Retreat
+1 Legion Loyalist
+1 Inspiring Vantage
+1 Lightning Strike
+1 Rimrock Knight
+1 Sacred Foundry
+1 Honored Crop-Captain
+1 Hanweir Garrison
+1 Heroic Reinforcements
+1 Hanweir Battlements
+1 Dauntless Bodyguard
+1 Kari Zev, Skyship Raider
+2 Inspiring Vantage
+2 Boros Charm
+2 Clifftop Retreat
+2 Sacred Foundry
+2 Legion Loyalist
+2 Rimrock Knight
+2 Hanweir Battlements
+2 Honored Crop-Captain
+2 Heroic Reinforcements
+2 Hanweir Garrison
+2 Kari Zev, Skyship Raider
+2 Dauntless Bodyguard
+3 Inspiring Vantage
+3 Sacred Foundry
+3 Clifftop Retreat
+3 Wild Slash
+3 Legion Loyalist
+3 Rimrock Knight
+3 Hanweir Garrison
+3 Dauntless Bodyguard
+3 Heroic Reinforcements
+3 Honored Crop-Captain
+4 Sacred Foundry
+4 Inspiring Vantage
+4 Legion Loyalist
+4 Rimrock Knight
+4 Heroic Reinforcements
+4 Hanweir Garrison
+4 Wild Slash
+4 Dauntless Bodyguard
+4 Goblin Rabblemaster
+4 Honored Crop-Captain
 1 Unclaimed Territory
 1 Westvale Abbey
 2 Unclaimed Territory
-4 Plains
-5 Plains
-6 Plains
+1 Elvish Visionary
+1 Chord of Calling
+1 Nykthos, Shrine to Nyx
+1 Steel Leaf Champion
+1 Gnarlroot Trapper
+1 Elvish Clancaller
+1 Shaman of the Pack
+1 Marwyn, the Nurturer
+1 Dwynen's Elite
+2 Nykthos, Shrine to Nyx
+2 Elvish Visionary
+2 Chord of Calling
+2 Marwyn, the Nurturer
+2 Steel Leaf Champion
+2 Elvish Clancaller
+2 Dwynen's Elite
+2 Gnarlroot Trapper
+2 Shaman of the Pack
+3 Chord of Calling
+3 Elvish Clancaller
+3 Gnarlroot Trapper
+3 Shaman of the Pack
+3 Elvish Visionary
+3 Steel Leaf Champion
+3 Dwynen's Elite
+4 Elvish Visionary
+4 Steel Leaf Champion
+4 Elvish Clancaller
+4 Shaman of the Pack
+4 Dwynen's Elite
 1 Smuggler's Copter
 1 Cloudblazer
 1 Spire of Industry
@@ -306,130 +410,5 @@
 4 Oketra's Monument
 4 Militia Bugler
 4 Thraben Inspector
-1 Ashiok, Dream Render
-4 Gurmag Angler
-1 Elvish Visionary
-1 Chord of Calling
-1 Nykthos, Shrine to Nyx
-1 Steel Leaf Champion
-1 Gnarlroot Trapper
-1 Elvish Clancaller
-1 Shaman of the Pack
-1 Marwyn, the Nurturer
-1 Dwynen's Elite
-2 Nykthos, Shrine to Nyx
-2 Elvish Visionary
-2 Chord of Calling
-2 Marwyn, the Nurturer
-2 Elvish Clancaller
-2 Dwynen's Elite
-2 Steel Leaf Champion
-2 Gnarlroot Trapper
-2 Shaman of the Pack
-3 Chord of Calling
-3 Elvish Clancaller
-3 Gnarlroot Trapper
-3 Shaman of the Pack
-3 Elvish Visionary
-3 Steel Leaf Champion
-3 Dwynen's Elite
-4 Elvish Visionary
-4 Steel Leaf Champion
-4 Elvish Clancaller
-4 Shaman of the Pack
-4 Dwynen's Elite
-1 Dauntless Bodyguard
-2 Dauntless Bodyguard
-3 Dauntless Bodyguard
-4 Dauntless Bodyguard
-1 Boros Charm
-1 Wild Slash
-1 Clifftop Retreat
-1 Legion Loyalist
-1 Inspiring Vantage
-1 Lightning Strike
-1 Rimrock Knight
-1 Sacred Foundry
-1 Honored Crop-Captain
-1 Hanweir Garrison
-1 Goblin Rabblemaster
-1 Heroic Reinforcements
-1 Hanweir Battlements
-1 Mountain
-1 Kari Zev, Skyship Raider
-2 Inspiring Vantage
-2 Boros Charm
-2 Clifftop Retreat
-2 Sacred Foundry
-2 Legion Loyalist
-2 Rimrock Knight
-2 Mountain
-2 Hanweir Battlements
-2 Wild Slash
-2 Honored Crop-Captain
-2 Hanweir Garrison
-2 Kari Zev, Skyship Raider
-2 Heroic Reinforcements
-2 Goblin Rabblemaster
-3 Inspiring Vantage
-3 Sacred Foundry
-3 Clifftop Retreat
-3 Wild Slash
-3 Legion Loyalist
-3 Rimrock Knight
-3 Hanweir Garrison
-3 Goblin Rabblemaster
-3 Heroic Reinforcements
-3 Mountain
-3 Honored Crop-Captain
-4 Sacred Foundry
-4 Inspiring Vantage
-4 Legion Loyalist
-4 Rimrock Knight
-4 Heroic Reinforcements
-4 Wild Slash
-4 Hanweir Garrison
-4 Goblin Rabblemaster
-4 Mountain
-4 Honored Crop-Captain
-5 Mountain
-6 Mountain
-1 Venerable Knight
-1 Once Upon a Time
-1 Acclaimed Contender
-1 Worthy Knight
-1 The Circle of Loyalty
-1 Knight of Grace
-1 History of Benalia
-1 Heron's Grace Champion
-1 Thalia's Lieutenant
-1 Knight of the White Orchid
-1 Castle Ardenvale
-2 Venerable Knight
-2 Once Upon a Time
-2 Worthy Knight
-2 Acclaimed Contender
-2 Knight of Grace
-2 History of Benalia
-2 Thalia's Lieutenant
-2 Heron's Grace Champion
-2 Knight of the White Orchid
-3 Knight of Grace
-3 Venerable Knight
-3 Mutavault
-3 Worthy Knight
-3 Acclaimed Contender
-3 History of Benalia
-3 Once Upon a Time
-3 Knight of the White Orchid
-3 Thalia's Lieutenant
-3 Heron's Grace Champion
-4 Once Upon a Time
-4 Venerable Knight
-4 Acclaimed Contender
-4 Worthy Knight
-4 History of Benalia
-4 Thalia's Lieutenant
-4 Heron's Grace Champion
-4 Knight of the White Orchid
-7 Plains
+5 Plains
+6 Plains

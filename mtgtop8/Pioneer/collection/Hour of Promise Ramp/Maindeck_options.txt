@@ -12,8 +12,8 @@
 1 Abrupt Decay
 1 Woodland Cemetery
 1 Blooming Marsh
-1 Ifnir Deadlands
 1 Overgrown Tomb
+1 Ifnir Deadlands
 1 Hissing Quagmire
 1 Fatal Push
 1 Swamp
@@ -40,12 +40,12 @@
 1 Shrine of the Forsaken Gods
 1 Nissa's Pilgrimage
 1 Ulamog, the Ceaseless Hunger
+2 Hashep Oasis
 2 Castle Garenbrig
 2 Shrine of the Forsaken Gods
 2 Sanctum of Ugin
 2 World Breaker
 2 Nissa's Pilgrimage
-2 Hashep Oasis
 3 Castle Garenbrig
 3 Ugin, the Spirit Dragon
 3 Shrine of the Forsaken Gods
@@ -96,11 +96,11 @@
 1 Agent of Treachery
 1 Fumigate
 1 Shefet Dunes
-2 Hydroid Krasis
 2 Breeding Pool
 2 Temple Garden
 2 Hallowed Fountain
 2 Fumigate
+2 Hydroid Krasis
 2 Island
 3 Hydroid Krasis
 3 Settle the Wreckage
@@ -114,6 +114,8 @@
 3 Hashep Oasis
 3 Spatial Contortion
 4 Spatial Contortion
+2 Legion's End
+4 Fatal Push
 1 Oko, Thief of Crowns
 1 Golos, Tireless Pilgrim
 1 Chandra, Flamecaller
@@ -150,5 +152,3 @@
 3 Gruul Guildgate
 4 Circuitous Route
 8 Forest
-2 Legion's End
-4 Fatal Push

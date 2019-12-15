@@ -35,6 +35,7 @@
 2 Arid Mesa
 3 Arid Mesa
 1 Life from the Loam
+1 Birds of Paradise
 1 Field of Ruin
 1 Tireless Tracker
 1 Tranquil Thicket
@@ -42,10 +43,9 @@
 1 Bloodstained Mire
 1 Seismic Assault
 1 Countryside Crusher
-1 Birds of Paradise
 2 Tireless Tracker
-2 Field of Ruin
 2 Snow-Covered Forest
+2 Field of Ruin
 2 Tranquil Thicket
 2 Countryside Crusher
 2 Forgotten Cave
@@ -111,19 +111,19 @@
 4 Season of Growth
 4 Monastery Swiftspear
 4 Mutagenic Growth
-1 Relic of Progenitus
-1 Through the Breach
-1 Emrakul, the Aeons Torn
 1 Summoning Trap
+1 Relic of Progenitus
+1 Emrakul, the Aeons Torn
+1 Through the Breach
 1 Explore
 1 Prismatic Omen
 1 Nissa, Vastwood Seer
 1 Abrade
+2 Summoning Trap
 2 Emrakul, the Aeons Torn
 2 Through the Breach
 2 Explore
 2 Prismatic Omen
-2 Summoning Trap
 2 Cinder Glade
 3 Through the Breach
 3 Valakut, the Molten Pinnacle
@@ -147,8 +147,8 @@
 2 Utopia Sprawl
 2 Arbor Elf
 2 Glorybringer
-3 Seasoned Pyromancer
 3 Magus of the Moon
+3 Seasoned Pyromancer
 3 Gruul Spellbreaker
 3 Glorybringer
 3 Arbor Elf
