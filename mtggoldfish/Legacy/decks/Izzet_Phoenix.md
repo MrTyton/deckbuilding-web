@@ -26,3 +26,13 @@
 |                                                                                     |                                                                                      |2 [Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|
 |                                                                                     |                                                                                      |1 [Vapor Snag](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=249373)         |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                      Maindeck Card                                      |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
+|--------------------:|-----------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
+|                    3|[Flooded Strand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405098)|                    1|[Price of Progress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413683)  |
+|                     |                                                                                         |                    1|[Brazen Borrower](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473001)    |
+|                     |                                                                                         |                    2|[Brazen Borrower](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473001)    |
+|                     |                                                                                         |                    3|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|
+

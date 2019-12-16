@@ -61,7 +61,7 @@
 |                     |                                                                                               |                    2|[Chill](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=15444)                |
 |                     |                                                                                               |                    3|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706) |
 |                     |                                                                                               |                    1|[Spell Pierce](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425876)        |
-|                     |                                                                                               |                    2|[Flusterstorm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=228255)        |
 |                     |                                                                                               |                    2|[Crop Rotation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417430)       |
+|                     |                                                                                               |                    2|[Flusterstorm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=228255)        |
 |                     |                                                                                               |                    2|[Viridian Corrupter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=213772)  |
 

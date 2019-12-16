@@ -41,8 +41,8 @@
 2 Vizier of Remedies
 3 Horizon Canopy
 3 Windswept Heath
-3 Giver of Runes
 3 Forest
+3 Giver of Runes
 3 Reflector Mage
 3 Vizier of Remedies
 3 Eladamri's Call
@@ -51,6 +51,55 @@
 4 Vizier of Remedies
 4 Giver of Runes
 1 Field of the Dead
+1 Elvish Reclaimer
+1 Flagstones of Trokair
+1 Primeval Titan
+1 Pact of Negation
+1 Castle Garenbrig
+1 Reclamation Sage
+1 Bojuka Bog
+1 Simic Growth Chamber
+1 Summoner's Pact
+1 Amulet of Vigor
+1 Sunhome, Fortress of the Legion
+1 Kabira Crossroads
+1 Cavern of Souls
+1 Vesuva
+1 Slayers' Stronghold
+1 Engineered Explosives
+1 Selesnya Sanctuary
+1 Gemstone Mine
+1 Tolaria West
+1 Boros Garrison
+1 Ghost Quarter
+1 Azusa, Lost but Seeking
+2 Elvish Reclaimer
+2 Flagstones of Trokair
+2 Castle Garenbrig
+2 Selesnya Sanctuary
+2 Summoner's Pact
+2 Gemstone Mine
+2 Amulet of Vigor
+2 Simic Growth Chamber
+2 Azusa, Lost but Seeking
+2 Tolaria West
+2 Primeval Titan
+3 Elvish Reclaimer
+3 Flagstones of Trokair
+3 Summoner's Pact
+3 Selesnya Sanctuary
+3 Primeval Titan
+3 Simic Growth Chamber
+3 Azusa, Lost but Seeking
+3 Amulet of Vigor
+4 Elvish Reclaimer
+4 Summoner's Pact
+4 Primeval Titan
+4 Temple Garden
+4 Azusa, Lost but Seeking
+4 Simic Growth Chamber
+4 Amulet of Vigor
+4 Flagstones of Trokair
 1 Scapeshift
 1 Hinterland Harbor
 1 Supreme Verdict
@@ -79,55 +128,6 @@
 4 Remand
 4 Snow-Covered Island
 4 Growth Spiral
-1 Elvish Reclaimer
-1 Flagstones of Trokair
-1 Primeval Titan
-1 Pact of Negation
-1 Castle Garenbrig
-1 Bojuka Bog
-1 Reclamation Sage
-1 Simic Growth Chamber
-1 Summoner's Pact
-1 Amulet of Vigor
-1 Gemstone Mine
-1 Boros Garrison
-1 Sunhome, Fortress of the Legion
-1 Kabira Crossroads
-1 Cavern of Souls
-1 Vesuva
-1 Slayers' Stronghold
-1 Engineered Explosives
-1 Selesnya Sanctuary
-1 Tolaria West
-1 Ghost Quarter
-1 Azusa, Lost but Seeking
-2 Elvish Reclaimer
-2 Flagstones of Trokair
-2 Castle Garenbrig
-2 Selesnya Sanctuary
-2 Summoner's Pact
-2 Gemstone Mine
-2 Amulet of Vigor
-2 Simic Growth Chamber
-2 Azusa, Lost but Seeking
-2 Tolaria West
-2 Primeval Titan
-3 Elvish Reclaimer
-3 Flagstones of Trokair
-3 Summoner's Pact
-3 Selesnya Sanctuary
-3 Primeval Titan
-3 Simic Growth Chamber
-3 Azusa, Lost but Seeking
-3 Amulet of Vigor
-4 Elvish Reclaimer
-4 Summoner's Pact
-4 Primeval Titan
-4 Azusa, Lost but Seeking
-4 Simic Growth Chamber
-4 Amulet of Vigor
-4 Flagstones of Trokair
-4 Temple Garden
 1 Dryad Arbor
 1 Karn, the Great Creator
 1 Hydroid Krasis
@@ -139,16 +139,16 @@
 2 Utopia Sprawl
 2 Arbor Elf
 2 Hydroid Krasis
+3 Hydroid Krasis
 3 Snow-Covered Forest
 3 Waterlogged Grove
 3 Arbor Elf
 3 Karn, the Great Creator
 3 Utopia Sprawl
-3 Hydroid Krasis
 4 Waterlogged Grove
-4 Hydroid Krasis
 4 Utopia Sprawl
 4 Arbor Elf
+4 Hydroid Krasis
 4 Misty Rainforest
 4 Snow-Covered Forest
 4 Karn, the Great Creator

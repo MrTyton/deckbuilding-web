@@ -35,3 +35,24 @@
 |4 [Shifting Ceratops](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466948)           |                                                                                           |                                                                                              |
 |1 [Tolsimir, Friend to Wolves](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461151)  |                                                                                           |                                                                                              |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                            Maindeck Card                                            |*n*<sup>th</sup> copy|                                           Sideboard Card                                            |
+|--------------------:|-----------------------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------------------|
+|                    1|[Kenrith, the Returned King](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476052)|                    1|[Kenrith, the Returned King](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476052)|
+|                    1|[Gilded Goose](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473122)              |                    2|[Tolsimir, Friend to Wolves](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461151)|
+|                    1|[Hydroid Krasis](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457327)            |                    3|[Deputy of Detention](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457309)       |
+|                    2|[Gilded Goose](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473122)              |                    3|[Despark](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461117)                   |
+|                    2|[Hydroid Krasis](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457327)            |                    4|[Despark](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461117)                   |
+|                    2|[Stomping Ground](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405110)           |                    4|[Deputy of Detention](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457309)       |
+|                    3|[Stomping Ground](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405110)           |                     |                                                                                                     |
+|                    3|[Overgrown Tomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405103)            |                     |                                                                                                     |
+|                    3|[Teferi, Time Raveler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461148)      |                     |                                                                                                     |
+|                    3|[Temple of Epiphany](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442808)        |                     |                                                                                                     |
+|                    3|[Gilded Goose](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473122)              |                     |                                                                                                     |
+|                    4|[Temple of Mystery](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373571)         |                     |                                                                                                     |
+|                    4|[Teferi, Time Raveler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461148)      |                     |                                                                                                     |
+|                    4|[Fires of Invention](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473087)        |                     |                                                                                                     |
+|                    4|[Gilded Goose](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473122)              |                     |                                                                                                     |
+

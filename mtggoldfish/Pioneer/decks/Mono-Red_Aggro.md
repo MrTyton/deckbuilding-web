@@ -103,6 +103,6 @@
 |                     |                                                                                                     |                    3|[Glorybringer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426836)              |
 |                     |                                                                                                     |                    3|[Bonecrusher Giant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473077)         |
 |                     |                                                                                                     |                    4|[Glorybringer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426836)              |
-|                     |                                                                                                     |                    4|[Mutavault](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370733)                 |
 |                     |                                                                                                     |                    4|[Chandra, Torch of Defiance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417683)|
+|                     |                                                                                                     |                    4|[Mutavault](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370733)                 |
 

@@ -1,12 +1,15 @@
 3 Duress
-4 Abrupt Decay
+1 Sylvan Library
 1 Sylvan Scrying
-2 Sylvan Scrying
 4 Once Upon a Time
 1 Misty Rainforest
 1 Snow-Covered Forest
-2 Nurturing Peatland
+2 Sylvan Safekeeper
+2 Sylvan Scrying
+3 Bayou
 2 Sylvan Library
+2 Nurturing Peatland
+4 Dark Confidant
 1 Snow-Covered Swamp
 1 Windswept Heath
 1 Savannah
@@ -20,10 +23,8 @@
 3 Knight of the Reliquary
 4 Windswept Heath
 4 Knight of the Reliquary
-2 Sylvan Safekeeper
 1 Dryad Arbor
 3 Wasteland
-3 Bayou
 3 Giver of Runes
 1 Horizon Canopy
 1 Green Sun's Zenith
@@ -31,32 +32,26 @@
 2 Green Sun's Zenith
 3 Green Sun's Zenith
 4 Green Sun's Zenith
-4 Dark Confidant
 1 Inquisition of Kozilek
 2 Inquisition of Kozilek
-1 Elvish Spirit Guide
-2 Elvish Spirit Guide
 1 Plains
 1 Gaddock Teeg
 2 Snow-Covered Forest
 1 Scavenging Ooze
 1 Ramunap Excavator
+1 Elvish Spirit Guide
+2 Elvish Spirit Guide
 1 Assassin's Trophy
-3 Elvish Spirit Guide
-4 Duress
-1 Lotus Petal
-2 Lotus Petal
-3 Lotus Petal
-4 Lotus Petal
-1 Blast Zone
-1 Pithing Needle
-2 Pithing Needle
-3 Pithing Needle
 1 Tireless Tracker
 1 Snow-Covered Plains
 1 Flagstones of Trokair
 1 Ancient Tomb
+4 Duress
 1 Life from the Loam
+1 Blast Zone
+1 Pithing Needle
+2 Pithing Needle
+3 Pithing Needle
 1 Tomik, Distinguished Advokist
 2 Tomik, Distinguished Advokist
 1 Scrubland
@@ -71,6 +66,7 @@
 3 Inquisition of Kozilek
 1 Maze of Ith
 3 Sylvan Library
+3 Elvish Spirit Guide
 3 Sylvan Scrying
 3 Sylvan Safekeeper
 1 Wooded Foothills
@@ -79,8 +75,10 @@
 2 Plains
 2 Forest
 3 Savannah
-1 Hymn to Tourach
-4 Elvish Spirit Guide
+1 Lotus Petal
+2 Lotus Petal
+3 Lotus Petal
+4 Lotus Petal
 4 Wasteland
 1 Cabal Therapy
 1 Stitcher's Supplier
