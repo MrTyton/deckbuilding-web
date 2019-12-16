@@ -1,20 +1,22 @@
 3 Duress
 1 Sylvan Library
-1 Sylvan Scrying
 4 Once Upon a Time
-1 Misty Rainforest
+1 Sylvan Scrying
 1 Snow-Covered Forest
 2 Sylvan Safekeeper
 2 Sylvan Scrying
-3 Bayou
+1 Misty Rainforest
 2 Sylvan Library
 2 Nurturing Peatland
-4 Dark Confidant
 1 Snow-Covered Swamp
-1 Windswept Heath
+1 Inquisition of Kozilek
+2 Inquisition of Kozilek
+4 Dark Confidant
+3 Bayou
 1 Savannah
-1 Knight of the Reliquary
+1 Windswept Heath
 1 Giver of Runes
+1 Knight of the Reliquary
 2 Windswept Heath
 2 Savannah
 2 Giver of Runes
@@ -23,17 +25,15 @@
 3 Knight of the Reliquary
 4 Windswept Heath
 4 Knight of the Reliquary
-1 Dryad Arbor
 3 Wasteland
 3 Giver of Runes
+1 Dryad Arbor
 1 Horizon Canopy
 1 Green Sun's Zenith
 1 Knight of Autumn
 2 Green Sun's Zenith
 3 Green Sun's Zenith
 4 Green Sun's Zenith
-1 Inquisition of Kozilek
-2 Inquisition of Kozilek
 1 Plains
 1 Gaddock Teeg
 2 Snow-Covered Forest
@@ -56,8 +56,8 @@
 2 Tomik, Distinguished Advokist
 1 Scrubland
 2 Assassin's Trophy
-1 Into the North
 1 Taiga
+1 Into the North
 2 Into the North
 2 Sejiri Steppe
 2 Misty Rainforest
@@ -80,19 +80,3 @@
 3 Lotus Petal
 4 Lotus Petal
 4 Wasteland
-1 Cabal Therapy
-1 Stitcher's Supplier
-1 Satyr Wayfinder
-1 Khalni Garden
-1 Hogaak, Arisen Necropolis
-2 Cabal Therapy
-2 Hogaak, Arisen Necropolis
-2 Satyr Wayfinder
-2 Stitcher's Supplier
-3 Cabal Therapy
-3 Hogaak, Arisen Necropolis
-3 Stitcher's Supplier
-3 Satyr Wayfinder
-4 Stitcher's Supplier
-4 Satyr Wayfinder
-4 Cabal Therapy

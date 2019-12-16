@@ -24,8 +24,8 @@
 5 Snow-Covered Plains
 1 Wastes
 1 Tectonic Edge
-1 Ranger-Captain of Eos
 1 Eiganjo Castle
+1 Ranger-Captain of Eos
 2 Tectonic Edge
 3 Tectonic Edge
 4 Tectonic Edge
@@ -39,8 +39,8 @@
 1 Battlefield Forge
 2 Sunbaked Canyon
 2 Battlefield Forge
-1 Chalice of the Void
 1 Phyrexian Revoker
+1 Chalice of the Void
 1 Gemstone Caverns
 1 Simian Spirit Guide
 1 Reality Smasher
@@ -81,12 +81,10 @@
 1 Cavern of Souls
 2 Phyrexian Revoker
 2 Cavern of Souls
-1 Sword of Feast and Famine
-4 Silent Clearing
 1 Seachrome Coast
 1 Geier Reach Sanitarium
-1 Lavinia, Azorius Renegade
 1 Spell Queller
+1 Lavinia, Azorius Renegade
 1 Geist of Saint Traft
 1 Spirit of the Labyrinth
 1 Island
@@ -96,10 +94,10 @@
 1 Reflector Mage
 1 Adarkar Wastes
 2 Spell Queller
-2 Geist of Saint Traft
 2 Lavinia, Azorius Renegade
-2 Teferi, Time Raveler
+2 Geist of Saint Traft
 2 Spirit of the Labyrinth
+2 Teferi, Time Raveler
 2 Island
 2 Hallowed Fountain
 2 Seachrome Coast
@@ -107,8 +105,10 @@
 3 Spell Queller
 3 Geist of Saint Traft
 3 Seachrome Coast
-4 Seachrome Coast
 4 Spell Queller
+4 Seachrome Coast
+1 Sword of Feast and Famine
+4 Silent Clearing
 1 Inspiring Vantage
 1 Kiki-Jiki, Mirror Breaker
 1 Snow-Covered Mountain
@@ -134,9 +134,9 @@
 9 Snow-Covered Plains
 1 Noble Hierarch
 1 Razorverge Thicket
-1 Qasali Pridemage
 1 Loxodon Smiter
 1 Sigarda, Host of Herons
+1 Qasali Pridemage
 1 Voice of Resurgence
 1 Aven Mindcensor
 1 Thrun, the Last Troll
@@ -148,12 +148,12 @@
 1 Scavenging Ooze
 1 Stirring Wildwood
 2 Razorverge Thicket
-2 Temple Garden
 2 Voice of Resurgence
 2 Qasali Pridemage
 2 Aven Mindcensor
 2 Forest
 2 Noble Hierarch
+2 Temple Garden
 2 Birds of Paradise
 2 Loxodon Smiter
 2 Scavenging Ooze

@@ -1,13 +1,13 @@
-1 Temple of Malady
 1 Overgrown Tomb
 1 Swamp
+1 Murderous Rider
 2 Foulmire Knight
 2 Murderous Rider
 2 Overgrown Tomb
 2 Swamp
 3 Swamp
-3 Murderous Rider
 3 Foulmire Knight
+3 Murderous Rider
 3 Overgrown Tomb
 4 Foulmire Knight
 4 Swamp
@@ -31,8 +31,8 @@
 2 Castle Locthwain
 1 Smitten Swordmaster
 1 Midnight Reaper
-2 Smitten Swordmaster
 2 Midnight Reaper
+2 Smitten Swordmaster
 3 Smitten Swordmaster
 4 Smitten Swordmaster
 4 Order of Midnight
@@ -55,8 +55,8 @@
 1 Liliana, Dreadhorde General
 1 Duress
 2 Vraska, Golgari Queen
-3 Castle Locthwain
 3 Vraska, Golgari Queen
+3 Castle Locthwain
 4 Casualties of War
 4 Escape to the Wilds
 1 Return to Nature
@@ -90,6 +90,8 @@
 2 Expansion / Explosion
 3 Wilderness Reclamation
 3 Mountain
+4 Questing Beast
+4 Vivien, Arkbow Ranger
 1 Ugin, the Ineffable
 1 Thrashing Brontodon
 1 Blood Crypt
@@ -97,8 +99,6 @@
 3 Thrashing Brontodon
 3 Fabled Passage
 4 Fabled Passage
-4 Questing Beast
-4 Vivien, Arkbow Ranger
 4 Nissa, Who Shakes the World
 11 Swamp
 10 Swamp

@@ -1,7 +1,12 @@
-2 Fiery Islet
 2 Wooded Foothills
+2 Fiery Islet
+3 Arid Mesa
+4 Arid Mesa
+1 Scalding Tarn
 4 Mountain
+4 Searing Blaze
 5 Mountain
+3 Fiery Islet
 1 Light Up the Stage
 2 Light Up the Stage
 6 Mountain
@@ -22,43 +27,36 @@
 3 Lava Dart
 4 Light Up the Stage
 4 Soul-Scar Mage
-3 Fiery Islet
 1 Crash Through
 1 Manamorphose
 1 Bedlam Reveler
 2 Manamorphose
 2 Crash Through
 2 Bedlam Reveler
-3 Manamorphose
 3 Bedlam Reveler
+3 Manamorphose
 3 Crash Through
 4 Manamorphose
 4 Crash Through
-3 Arid Mesa
-4 Arid Mesa
-1 Scalding Tarn
 1 Burst Lightning
 2 Burst Lightning
 3 Burst Lightning
 4 Burst Lightning
 3 Bloodstained Mire
-4 Lava Dart
 15 Mountain
-3 Wooded Foothills
-4 Searing Blaze
 1 Risk Factor
 1 Runaway Steam-Kin
 2 Runaway Steam-Kin
 3 Runaway Steam-Kin
 2 Scalding Tarn
 3 Scalding Tarn
-4 Bedlam Reveler
-1 Kiln Fiend
-2 Kiln Fiend
+4 Lava Dart
+3 Wooded Foothills
 1 Seal of Fire
 2 Seal of Fire
 3 Seal of Fire
 4 Seal of Fire
+4 Bedlam Reveler
 3 Skullcrack
 1 Shard Volley
 2 Shard Volley
@@ -66,7 +64,8 @@
 2 Firebolt
 3 Firebolt
 4 Firebolt
-1 Stomping Ground
+1 Kiln Fiend
+2 Kiln Fiend
 1 Bonecrusher Giant
 2 Bonecrusher Giant
 1 Snow-Covered Mountain
@@ -90,11 +89,6 @@
 3 Vexing Devil
 4 Fiery Islet
 4 Vexing Devil
-1 Abrade
-2 Abrade
-3 Kiln Fiend
-3 Abrade
-4 Wooded Foothills
 1 Incinerate
 1 Ghitu Lavarunner
 2 Ghitu Lavarunner
@@ -109,6 +103,7 @@
 1 Thunderous Wrath
 1 Wild Nacatl
 1 Atarka's Command
+1 Stomping Ground
 2 Copperline Gorge
 2 Thunderous Wrath
 2 Stomping Ground

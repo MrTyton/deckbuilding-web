@@ -6,6 +6,9 @@
 1 The Great Henge
 1 Ghalta, Primal Hunger
 2 Ghalta, Primal Hunger
+1 Gilded Goose
+2 Gilded Goose
+2 The Great Henge
 1 Hardened Scales
 1 Nissa, Voice of Zendikar
 2 Nissa, Voice of Zendikar
@@ -13,16 +16,17 @@
 3 Hardened Scales
 4 Hardened Scales
 16 Forest
-1 Gilded Goose
-2 Gilded Goose
+1 Rhonas the Indomitable
+1 Aspect of Hydra
+2 Aspect of Hydra
 1 Verdurous Gearhulk
 1 Overgrown Tomb
 1 Llanowar Wastes
 1 Blooming Marsh
 1 Winding Constrictor
 2 Verdurous Gearhulk
-2 Blooming Marsh
 2 Winding Constrictor
+2 Blooming Marsh
 2 Llanowar Wastes
 2 Overgrown Tomb
 3 Winding Constrictor
@@ -33,11 +37,11 @@
 4 Llanowar Wastes
 4 Nissa, Voice of Zendikar
 4 Winding Constrictor
-4 Overgrown Tomb
 4 Blooming Marsh
+4 Overgrown Tomb
 1 Hydroid Krasis
-1 Wicked Wolf
 1 Oko, Thief of Crowns
+1 Wicked Wolf
 1 Breeding Pool
 1 Botanical Sanctum
 2 Hydroid Krasis
@@ -61,12 +65,20 @@
 1 Sylvan Caryatid
 2 Sylvan Caryatid
 1 Paradise Druid
-2 The Great Henge
 2 Questing Beast
-1 Aspect of Hydra
+1 Yorvo, Lord of Garenbrig
+2 Yorvo, Lord of Garenbrig
+1 Surrak, the Hunt Caller
+2 Surrak, the Hunt Caller
+3 Surrak, the Hunt Caller
+3 Ghalta, Primal Hunger
+3 The Great Henge
+3 Castle Garenbrig
+4 Castle Garenbrig
 1 Blossoming Defense
-2 Aspect of Hydra
-1 Rhonas the Indomitable
+2 Rhonas the Indomitable
+3 Aspect of Hydra
+4 Aspect of Hydra
 1 Whisperwood Elemental
 1 Biomass Mutation
 1 Nylea, God of the Hunt
@@ -76,14 +88,33 @@
 1 Yavimaya Coast
 2 Yavimaya Coast
 2 Heart of Kiran
-1 Yorvo, Lord of Garenbrig
-2 Yorvo, Lord of Garenbrig
 1 Reclamation Sage
 2 Reclamation Sage
 1 Shapers' Sanctuary
 2 Shapers' Sanctuary
-1 Hashep Oasis
+1 Nullhide Ferox
+1 Polukranos, World Eater
+2 Nullhide Ferox
+2 Paradise Druid
+2 Polukranos, World Eater
+3 Questing Beast
+3 Nullhide Ferox
+3 Paradise Druid
+1 Westvale Abbey
+1 Lovestruck Beast
+1 Shifting Ceratops
+2 Lovestruck Beast
+2 Shifting Ceratops
+3 Lovestruck Beast
+3 Shifting Ceratops
+4 The Great Henge
+4 Ghalta, Primal Hunger
+4 Lovestruck Beast
+1 Skysovereign, Consul Flagship
+3 Sylvan Caryatid
+17 Forest
 1 Pelt Collector
+1 Hashep Oasis
 1 Wildborn Preserver
 1 Avatar of the Resolute
 1 Dryad Militant
@@ -95,7 +126,6 @@
 2 Avatar of the Resolute
 2 Blossoming Defense
 2 Dryad Militant
-2 Rhonas the Indomitable
 2 Barkhide Troll
 2 Experiment One
 3 Pelt Collector
@@ -104,7 +134,6 @@
 3 Wildborn Preserver
 3 Dryad Militant
 3 Barkhide Troll
-3 Aspect of Hydra
 3 Experiment One
 3 Hashep Oasis
 4 Pelt Collector
@@ -112,25 +141,6 @@
 4 Dryad Militant
 4 Barkhide Troll
 4 Avatar of the Resolute
-4 Aspect of Hydra
 4 Blossoming Defense
 4 Experiment One
 4 Hashep Oasis
-1 Skysovereign, Consul Flagship
-3 Sylvan Caryatid
-17 Forest
-1 Nullhide Ferox
-1 Surrak, the Hunt Caller
-1 Polukranos, World Eater
-2 Nullhide Ferox
-2 Surrak, the Hunt Caller
-2 Paradise Druid
-2 Polukranos, World Eater
-3 Questing Beast
-3 Nullhide Ferox
-3 Surrak, the Hunt Caller
-3 Ghalta, Primal Hunger
-3 The Great Henge
-3 Castle Garenbrig
-3 Paradise Druid
-4 Castle Garenbrig

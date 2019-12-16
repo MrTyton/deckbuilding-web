@@ -65,7 +65,7 @@
 |                     |                                                                                                 |                    2|[Leyline of Sanctity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=204993)         |
 |                     |                                                                                                 |                    1|[Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)                       |
 |                     |                                                                                                 |                    2|[Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)                      |
-|                     |                                                                                                 |                    2|[Lingering Souls](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=368485)             |
 |                     |                                                                                                 |                    1|[Molten Rain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425928)                 |
 |                     |                                                                                                 |                    2|[Celestial Purge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=183055)             |
+|                     |                                                                                                 |                    2|[Lingering Souls](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=368485)             |
 
