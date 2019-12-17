@@ -36,8 +36,8 @@
 |                    2|[Finale of Revelation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460978)|                    1|[Emrakul, the Promised End](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414295)|
 |                    1|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)              |                    1|[Natural State](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407646)            |
 |                    1|[Opt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442948)                 |                    1|[Aetherflux Reservoir](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417765)     |
-|                    2|[Opt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442948)                 |                     |                                                                                                    |
 |                    2|[Yavimaya Coast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129810)      |                     |                                                                                                    |
+|                    2|[Opt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442948)                 |                     |                                                                                                    |
 |                    3|[Opt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442948)                 |                     |                                                                                                    |
 |                    4|[Opt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442948)                 |                     |                                                                                                    |
 

@@ -3,10 +3,10 @@
 3 Monastery Swiftspear
 4 Monastery Swiftspear
 1 Bedlam Reveler
-1 Soul-Scar Mage
 1 Manamorphose
-1 Lava Dart
 1 Crash Through
+1 Soul-Scar Mage
+1 Lava Dart
 1 Light Up the Stage
 1 Once Upon a Time
 1 Scalding Tarn
@@ -17,10 +17,10 @@
 1 Seasoned Pyromancer
 2 Fiery Islet
 2 Bedlam Reveler
-2 Soul-Scar Mage
 2 Crash Through
-2 Lava Dart
 2 Manamorphose
+2 Soul-Scar Mage
+2 Lava Dart
 2 Light Up the Stage
 2 Once Upon a Time
 2 Scalding Tarn
@@ -29,10 +29,10 @@
 2 Lava Spike
 2 Seasoned Pyromancer
 3 Crash Through
-3 Lava Dart
-3 Manamorphose
-3 Soul-Scar Mage
 3 Bedlam Reveler
+3 Manamorphose
+3 Lava Dart
+3 Soul-Scar Mage
 3 Light Up the Stage
 3 Bloodstained Mire
 3 Scalding Tarn
@@ -40,9 +40,9 @@
 3 Lava Spike
 3 Wild Slash
 3 Mountain
-4 Soul-Scar Mage
 4 Crash Through
 4 Manamorphose
+4 Soul-Scar Mage
 4 Light Up the Stage
 4 Lava Dart
 4 Once Upon a Time
@@ -90,15 +90,16 @@
 1 Bomat Courier
 1 Arid Mesa
 1 Atarka's Command
+1 Dreadhorde Arcanist
 1 Copperline Gorge
 1 Tarfire
 1 Mutagenic Growth
-1 Dreadhorde Arcanist
 1 Reckless Bushwhacker
 1 Invigorated Rampage
 1 Ramunap Ruins
 1 Burning-Tree Emissary
 1 Goblin Guide
+2 Dreadhorde Arcanist
 2 Bomat Courier
 2 Atarka's Command
 2 Copperline Gorge
@@ -108,9 +109,9 @@
 2 Goblin Guide
 2 Arid Mesa
 2 Burning-Tree Emissary
-2 Dreadhorde Arcanist
 2 Ramunap Ruins
 2 Invigorated Rampage
+3 Dreadhorde Arcanist
 3 Bomat Courier
 3 Atarka's Command
 3 Tarfire
@@ -118,7 +119,6 @@
 3 Burning-Tree Emissary
 3 Reckless Bushwhacker
 3 Goblin Guide
-3 Dreadhorde Arcanist
 4 Bomat Courier
 4 Atarka's Command
 4 Ramunap Ruins

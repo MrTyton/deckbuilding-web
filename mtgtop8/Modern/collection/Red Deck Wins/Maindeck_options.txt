@@ -1,12 +1,7 @@
-2 Wooded Foothills
 2 Fiery Islet
-3 Arid Mesa
-4 Arid Mesa
-1 Scalding Tarn
+2 Wooded Foothills
 4 Mountain
-4 Searing Blaze
 5 Mountain
-3 Fiery Islet
 1 Light Up the Stage
 2 Light Up the Stage
 6 Mountain
@@ -27,31 +22,36 @@
 3 Lava Dart
 4 Light Up the Stage
 4 Soul-Scar Mage
+3 Fiery Islet
 1 Crash Through
 1 Manamorphose
 1 Bedlam Reveler
 2 Manamorphose
 2 Crash Through
 2 Bedlam Reveler
-3 Bedlam Reveler
 3 Manamorphose
+3 Bedlam Reveler
 3 Crash Through
 4 Manamorphose
 4 Crash Through
+3 Arid Mesa
+4 Arid Mesa
 1 Burst Lightning
 2 Burst Lightning
 3 Burst Lightning
 4 Burst Lightning
-3 Bloodstained Mire
-15 Mountain
-1 Risk Factor
+4 Searing Blaze
 1 Runaway Steam-Kin
 2 Runaway Steam-Kin
 3 Runaway Steam-Kin
+4 Lava Dart
+15 Mountain
+1 Scalding Tarn
+1 Risk Factor
+3 Bloodstained Mire
+3 Wooded Foothills
 2 Scalding Tarn
 3 Scalding Tarn
-4 Lava Dart
-3 Wooded Foothills
 1 Seal of Fire
 2 Seal of Fire
 3 Seal of Fire
@@ -64,15 +64,13 @@
 2 Firebolt
 3 Firebolt
 4 Firebolt
-1 Kiln Fiend
-2 Kiln Fiend
 1 Bonecrusher Giant
 2 Bonecrusher Giant
+1 Kiln Fiend
+2 Kiln Fiend
 1 Snow-Covered Mountain
 2 Snow-Covered Mountain
 3 Snow-Covered Mountain
-1 Grim Lavamancer
-4 Scalding Tarn
 1 Warlord's Fury
 1 Mishra's Bauble
 2 Warlord's Fury
@@ -89,6 +87,8 @@
 3 Vexing Devil
 4 Fiery Islet
 4 Vexing Devil
+1 Grim Lavamancer
+4 Scalding Tarn
 1 Incinerate
 1 Ghitu Lavarunner
 2 Ghitu Lavarunner

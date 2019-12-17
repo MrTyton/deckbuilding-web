@@ -1,18 +1,17 @@
 3 Duress
-1 Sylvan Library
 4 Once Upon a Time
-1 Sylvan Scrying
+1 Sylvan Library
 1 Snow-Covered Forest
-2 Sylvan Safekeeper
-2 Sylvan Scrying
-1 Misty Rainforest
-2 Sylvan Library
-2 Nurturing Peatland
 1 Snow-Covered Swamp
 1 Inquisition of Kozilek
 2 Inquisition of Kozilek
+1 Sylvan Scrying
+1 Misty Rainforest
+2 Nurturing Peatland
+2 Sylvan Safekeeper
 4 Dark Confidant
-3 Bayou
+2 Sylvan Scrying
+2 Sylvan Library
 1 Savannah
 1 Windswept Heath
 1 Giver of Runes
@@ -34,6 +33,7 @@
 2 Green Sun's Zenith
 3 Green Sun's Zenith
 4 Green Sun's Zenith
+3 Bayou
 1 Plains
 1 Gaddock Teeg
 2 Snow-Covered Forest
@@ -46,24 +46,22 @@
 1 Snow-Covered Plains
 1 Flagstones of Trokair
 1 Ancient Tomb
-4 Duress
-1 Life from the Loam
-1 Blast Zone
-1 Pithing Needle
-2 Pithing Needle
-3 Pithing Needle
 1 Tomik, Distinguished Advokist
 2 Tomik, Distinguished Advokist
+1 Life from the Loam
 1 Scrubland
-2 Assassin's Trophy
-1 Taiga
-1 Into the North
-2 Into the North
 2 Sejiri Steppe
 2 Misty Rainforest
+1 Blast Zone
 1 Riftstone Portal
 1 Raven's Crime
 3 Inquisition of Kozilek
+1 Pithing Needle
+1 Taiga
+1 Into the North
+2 Pithing Needle
+2 Into the North
+3 Pithing Needle
 1 Maze of Ith
 3 Sylvan Library
 3 Elvish Spirit Guide
@@ -75,8 +73,10 @@
 2 Plains
 2 Forest
 3 Savannah
-1 Lotus Petal
-2 Lotus Petal
-3 Lotus Petal
-4 Lotus Petal
+2 Assassin's Trophy
+4 Duress
 4 Wasteland
+5 Thespian's Stage
+6 Thespian's Stage
+7 Thespian's Stage
+8 Thespian's Stage

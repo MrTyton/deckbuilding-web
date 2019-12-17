@@ -29,9 +29,12 @@
 
 |*n*<sup>th</sup> copy|                                       Maindeck Card                                        |*n*<sup>th</sup> copy|                                           Sideboard Card                                           |
 |--------------------:|--------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------------|
-|                    1|[Llanowar Elves](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129626)   |                    1|[Jaddi Offshoot](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401928)           |
-|                    1|[Hedron Archive](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401910)   |                    1|[Emrakul, the Promised End](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414295)|
-|                    1|[Walking Ballista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423848) |                    1|[Oblivion Sower](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401972)           |
+|                    1|[Walking Ballista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423848) |                    1|[Emrakul, the Promised End](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414295)|
+|                    1|[Hedron Archive](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401910)   |                    1|[Reclamation Sage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389651)         |
 |                    1|[Thought-Knot Seer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407519)|                    1|[Tireless Tracker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409997)         |
-|                     |                                                                                            |                    1|[Reclamation Sage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389651)         |
+|                    1|[Llanowar Elves](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129626)   |                    1|[Jaddi Offshoot](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401928)           |
+|                    1|[Elvish Mystic](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389499)    |                    1|[Oblivion Sower](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401972)           |
+|                    1|[Beanstalk Giant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473111)  |                    1|[Sorcerous Spyglass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435407)       |
+|                    2|[Beanstalk Giant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473111)  |                    2|[Sorcerous Spyglass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435407)       |
+|                    8|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)           |                    3|[Sorcerous Spyglass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435407)       |
 

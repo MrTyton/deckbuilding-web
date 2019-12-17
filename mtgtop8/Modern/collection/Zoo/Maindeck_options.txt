@@ -1,24 +1,24 @@
-3 Monastery Swiftspear
-1 Plains
-1 Tarmogoyf
 1 Lightning Helix
 2 Lightning Helix
-2 Temple Garden
 4 Monastery Swiftspear
 1 Boros Charm
+1 Path to Exile
+1 Ghor-Clan Rampager
+2 Ghor-Clan Rampager
+3 Lightning Helix
+1 Tarmogoyf
+2 Temple Garden
 2 Boros Charm
 2 Tarmogoyf
 3 Tarmogoyf
 4 Tarmogoyf
+2 Path to Exile
 1 Bonecrusher Giant
 1 Hexdrinker
 2 Hexdrinker
 3 Hexdrinker
 4 Hexdrinker
-1 Path to Exile
-2 Path to Exile
 1 Scavenging Ooze
-3 Lightning Helix
 1 Kird Ape
 2 Kird Ape
 1 Light Up the Stage
@@ -42,21 +42,30 @@
 2 Simian Spirit Guide
 3 Simian Spirit Guide
 1 Bomat Courier
-3 Stomping Ground
-2 Scavenging Ooze
-1 Sunbaked Canyon
 1 Bloodbraid Elf
 2 Bloodbraid Elf
 3 Bloodbraid Elf
 4 Bloodbraid Elf
-1 Renegade Rallier
+1 Hallowed Fountain
+1 Blood Crypt
+1 Breeding Pool
+1 Tribal Flames
+1 Steam Vents
+2 Tribal Flames
+3 Tribal Flames
+4 Tribal Flames
+3 Stomping Ground
+1 Noble Hierarch
+2 Noble Hierarch
+1 Sunbaked Canyon
+2 Scavenging Ooze
+1 Knight of Autumn
 1 Kessig Wolf Run
+1 Renegade Rallier
 1 Wrenn and Six
 2 Wrenn and Six
 3 Wrenn and Six
-1 Noble Hierarch
-2 Noble Hierarch
-1 Knight of Autumn
+1 Dromoka's Command
 1 Seasoned Pyromancer
 1 Ghost Quarter
 4 Path to Exile
@@ -72,20 +81,19 @@
 1 Snow-Covered Forest
 1 Ajani Vengeant
 1 Gruul Spellbreaker
-1 Stirring Wildwood
-1 Dromoka's Command
 1 Qasali Pridemage
 1 Voice of Resurgence
 1 Flooded Strand
-1 Rhonas the Indomitable
 1 Collected Company
+1 Rhonas the Indomitable
+1 Stirring Wildwood
 1 Birds of Paradise
 1 Sarkhan Vol
 1 Naya Charm
 2 Gruul Spellbreaker
-2 Forest
 2 Qasali Pridemage
 2 Voice of Resurgence
+2 Forest
 2 Birds of Paradise
 2 Flooded Strand
 2 Collected Company
@@ -93,15 +101,15 @@
 3 Qasali Pridemage
 3 Collected Company
 4 Birds of Paradise
-1 Scalding Tarn
 1 Mutagenic Growth
+1 Scalding Tarn
 2 Mutagenic Growth
 2 Sunbaked Canyon
 2 Bomat Courier
 2 Mountain
 3 Mutagenic Growth
-3 Sunbaked Canyon
 3 Bomat Courier
+3 Sunbaked Canyon
 3 Mountain
 4 Bomat Courier
 1 Rift Bolt
@@ -112,11 +120,11 @@
 4 Boros Charm
 1 Kytheon, Hero of Akros
 1 Lightning Mauler
-1 Champion of the Parish
 1 Voltaic Brawler
 1 Cavern of Souls
 1 Giver of Runes
 1 Mayor of Avabruck
+1 Champion of the Parish
 1 Thalia, Guardian of Thraben
 2 Mayor of Avabruck
 2 Lightning Mauler
@@ -132,6 +140,62 @@
 3 Kytheon, Hero of Akros
 4 Mayor of Avabruck
 4 Champion of the Parish
+1 Godless Shrine
+1 Viridescent Wisps
+1 Dreadhorde Arcanist
+1 Unearth
+1 Might of Alara
+1 Ajani, Caller of the Pride
+1 Young Pyromancer
+1 The Royal Scions
+2 The Royal Scions
+2 Unearth
+2 Viridescent Wisps
+2 Young Pyromancer
+2 Might of Alara
+2 Dreadhorde Arcanist
+3 The Royal Scions
+3 Might of Alara
+3 Dreadhorde Arcanist
+4 Might of Alara
+4 Dreadhorde Arcanist
+1 Street Wraith
+1 Hooting Mandrills
+1 Mishra's Bauble
+1 Crash Through
+1 Experiment One
+1 Reckless Charge
+2 Snow-Covered Mountain
+2 Mishra's Bauble
+2 Hooting Mandrills
+2 Street Wraith
+3 Hooting Mandrills
+3 Snow-Covered Mountain
+3 Street Wraith
+3 Mishra's Bauble
+4 Bloodstained Mire
+4 Street Wraith
+4 Mishra's Bauble
+1 Plated Geopede
+1 Steppe Lynx
+2 Horizon Canopy
+2 Steppe Lynx
+2 Renegade Rallier
+2 Plated Geopede
+3 Renegade Rallier
+3 Steppe Lynx
+3 Plated Geopede
+4 Plated Geopede
+4 Renegade Rallier
+4 Steppe Lynx
+1 Mantis Rider
+2 Knight of Autumn
+2 Mantis Rider
+3 Mantis Rider
+3 Noble Hierarch
+4 Lightning Helix
+4 Mantis Rider
+4 Noble Hierarch
 1 Embercleave
 1 Castle Ardenvale
 1 Tranquil Thicket
@@ -151,53 +215,8 @@
 3 Elvish Reclaimer
 3 Ghost Quarter
 3 Stoneforge Mystic
-4 Simian Spirit Guide
 4 Wrenn and Six
+4 Simian Spirit Guide
 4 Knight of the Reliquary
 4 Karn, the Great Creator
 4 Stoneforge Mystic
-1 Hallowed Fountain
-1 Blood Crypt
-1 Mantis Rider
-1 Breeding Pool
-1 Tribal Flames
-1 Steam Vents
-2 Knight of Autumn
-2 Mantis Rider
-2 Tribal Flames
-3 Noble Hierarch
-3 Tribal Flames
-3 Mantis Rider
-4 Noble Hierarch
-4 Tribal Flames
-4 Lightning Helix
-4 Mantis Rider
-1 Street Wraith
-1 Mishra's Bauble
-1 Hooting Mandrills
-1 Crash Through
-1 Experiment One
-1 Reckless Charge
-2 Mishra's Bauble
-2 Snow-Covered Mountain
-2 Hooting Mandrills
-2 Street Wraith
-3 Mishra's Bauble
-3 Hooting Mandrills
-3 Snow-Covered Mountain
-3 Street Wraith
-4 Mishra's Bauble
-4 Bloodstained Mire
-4 Street Wraith
-1 Plated Geopede
-1 Steppe Lynx
-2 Horizon Canopy
-2 Steppe Lynx
-2 Renegade Rallier
-2 Plated Geopede
-3 Renegade Rallier
-3 Steppe Lynx
-3 Plated Geopede
-4 Plated Geopede
-4 Renegade Rallier
-4 Steppe Lynx

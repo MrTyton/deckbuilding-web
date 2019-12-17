@@ -1,9 +1,27 @@
+1 Lightning Bolt
+2 Lightning Bolt
+2 Forest
+3 Forest
+1 Bloodbraid Elf
+3 Lightning Bolt
+4 Lightning Bolt
+2 Bloodbraid Elf
+3 Bloodbraid Elf
+4 Bloodbraid Elf
+1 Chandra, Torch of Defiance
+1 Scavenging Ooze
+1 Seasoned Pyromancer
+1 Bonecrusher Giant
+1 Magus of the Moon
+2 Misty Rainforest
+2 Seasoned Pyromancer
+2 Windswept Heath
 2 Magus of the Moon
 1 Tarmogoyf
 1 Noble Hierarch
 1 Horizon Canopy
-2 Noble Hierarch
 2 Tarmogoyf
+2 Noble Hierarch
 2 Horizon Canopy
 3 Tarmogoyf
 3 Noble Hierarch
@@ -13,24 +31,6 @@
 1 Wrenn and Six
 2 Copperline Gorge
 2 Wrenn and Six
-1 Snow-Covered Mountain
-2 Snow-Covered Mountain
-3 Snow-Covered Mountain
-1 Sheltered Thicket
-1 Field of the Dead
-1 Arboreal Grazer
-1 Scapeshift
-1 Verdant Catacombs
-2 Scapeshift
-2 Field of the Dead
-2 Arboreal Grazer
-3 Arboreal Grazer
-3 Farseek
-3 Summoner's Pact
-3 Scapeshift
-4 Arboreal Grazer
-4 Summoner's Pact
-4 Farseek
 1 Arid Mesa
 2 Arid Mesa
 3 Arid Mesa
@@ -61,9 +61,9 @@
 3 Forgotten Cave
 3 Life from the Loam
 3 Seismic Assault
+4 Copperline Gorge
 4 Wrenn and Six
 4 Birds of Paradise
-4 Copperline Gorge
 4 Countryside Crusher
 4 Forgotten Cave
 4 Seismic Assault
@@ -102,17 +102,17 @@
 2 Eidolon of the Great Revel
 2 Sunbaked Canyon
 3 Temur Battle Rage
-3 Mishra's Bauble
 3 Mutagenic Growth
 3 Monastery Swiftspear
 3 Eidolon of the Great Revel
+3 Mishra's Bauble
 3 Season of Growth
 4 Arid Mesa
 4 Season of Growth
 4 Monastery Swiftspear
 4 Mutagenic Growth
-1 Summoning Trap
 1 Relic of Progenitus
+1 Summoning Trap
 1 Emrakul, the Aeons Torn
 1 Through the Breach
 1 Explore
@@ -137,8 +137,8 @@
 6 Mountain
 7 Mountain
 1 Kessig Wolf Run
-1 Glorybringer
 1 Utopia Sprawl
+1 Glorybringer
 1 Arbor Elf
 1 Domri, Anarch of Bolas
 1 Gruul Spellbreaker

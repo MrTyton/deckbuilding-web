@@ -66,8 +66,8 @@
 |                    3|[Griselbrand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=239995)      |                     |                                                                                              |
 |                    3|[Lotus Petal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420602)      |                     |                                                                                              |
 |                    3|[Seething Song](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=83377)     |                     |                                                                                              |
+|                    4|[Sneak Attack](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413690)     |                     |                                                                                              |
 |                    4|[Through the Breach](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=80250)|                     |                                                                                              |
 |                    4|[City of Traitors](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=6168)   |                     |                                                                                              |
-|                    4|[Sneak Attack](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413690)     |                     |                                                                                              |
 |                    4|[Lotus Petal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420602)      |                     |                                                                                              |
 

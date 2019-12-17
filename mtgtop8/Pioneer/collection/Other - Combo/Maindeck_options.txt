@@ -2,34 +2,34 @@
 1 Stomping Ground
 1 Whirler Virtuoso
 1 Rogue Refiner
-1 Aetherworks Marvel
-1 Woodweaver's Puzzleknot
 1 Ulamog, the Ceaseless Hunger
 1 Emrakul, the Promised End
 1 Attune with Aether
 1 Aether Hub
-1 Harnessed Lightning
 1 Mountain
+1 Woodweaver's Puzzleknot
+1 Aetherworks Marvel
+1 Harnessed Lightning
 2 Stomping Ground
-2 Whirler Virtuoso
 2 Rogue Refiner
-2 Aetherworks Marvel
-2 Woodweaver's Puzzleknot
 2 Ulamog, the Ceaseless Hunger
-2 Harnessed Lightning
+2 Whirler Virtuoso
+2 Woodweaver's Puzzleknot
+2 Aetherworks Marvel
 2 Attune with Aether
 2 Aether Hub
+2 Harnessed Lightning
 3 Forest
 3 Rogue Refiner
-3 Aetherworks Marvel
 3 Woodweaver's Puzzleknot
+3 Aetherworks Marvel
 3 Attune with Aether
 3 Aether Hub
 3 Harnessed Lightning
 4 Rogue Refiner
-4 Aetherworks Marvel
 4 Harnessed Lightning
 4 Woodweaver's Puzzleknot
+4 Aetherworks Marvel
 4 Attune with Aether
 4 Aether Hub
 1 Servant of the Conduit
@@ -46,94 +46,95 @@
 4 Steam Vents
 1 Blast Zone
 1 Finale of Revelation
-1 Vessel of Nascency
-1 Hour of Devastation
-2 Vessel of Nascency
-2 Hour of Devastation
-3 Hour of Devastation
-3 Vessel of Nascency
-3 Emrakul, the Promised End
-4 Hour of Devastation
+1 Shrine of the Forsaken Gods
+1 World Breaker
+1 Golos, Tireless Pilgrim
+1 Kozilek's Return
+1 Glassblower's Puzzleknot
+2 Golos, Tireless Pilgrim
+2 World Breaker
+2 Glassblower's Puzzleknot
+2 Kozilek's Return
+3 Ulamog, the Ceaseless Hunger
+3 Kozilek's Return
+3 Glassblower's Puzzleknot
+4 Kozilek's Return
 1 Temple Garden
-1 Ugin, the Ineffable
 1 Plains
+1 Ugin, the Ineffable
 1 Nahiri, the Harbinger
 1 Spirebluff Canal
 1 Tireless Tracker
 1 Ugin, the Spirit Dragon
 2 Ugin, the Spirit Dragon
 2 Nahiri, the Harbinger
-3 Whirler Virtuoso
 3 Nahiri, the Harbinger
+3 Whirler Virtuoso
 4 Whirler Virtuoso
-1 Shrine of the Forsaken Gods
-1 World Breaker
-1 Golos, Tireless Pilgrim
-1 Glassblower's Puzzleknot
-1 Kozilek's Return
-2 Golos, Tireless Pilgrim
-2 World Breaker
-2 Kozilek's Return
-2 Glassblower's Puzzleknot
-3 Ulamog, the Ceaseless Hunger
-3 Kozilek's Return
-3 Glassblower's Puzzleknot
-4 Kozilek's Return
+1 Opt
+1 Hallowed Fountain
+1 Teferi, Time Raveler
+2 Hallowed Fountain
+2 Teferi, Time Raveler
+3 Teferi, Time Raveler
+3 Hallowed Fountain
+4 Hallowed Fountain
+4 Teferi, Time Raveler
 1 Hope of Ghirapur
 2 Hope of Ghirapur
 1 Urborg, Tomb of Yawgmoth
 1 Emry, Lurker of the Loch
 1 Mox Amber
-1 Hallowed Fountain
-1 Teferi, Time Raveler
+1 Terrarion
 1 Kethis, the Hidden Hand
 1 Oko, Thief of Crowns
 1 Jace, Wielder of Mysteries
 1 Mana Confluence
-1 Diligent Excavator
-1 Blooming Marsh
-1 Oath of Nissa
-1 Terrarion
 1 Lazav, the Multifarious
+1 Diligent Excavator
+1 Oath of Nissa
+1 Blooming Marsh
 2 Urborg, Tomb of Yawgmoth
 2 Emry, Lurker of the Loch
 2 Mox Amber
-2 Hallowed Fountain
 2 Temple Garden
 2 Kethis, the Hidden Hand
-2 Teferi, Time Raveler
+2 Terrarion
 2 Oko, Thief of Crowns
-2 Oath of Nissa
+2 Blooming Marsh
 2 Mana Confluence
 2 Diligent Excavator
-2 Blooming Marsh
+2 Oath of Nissa
 2 Lazav, the Multifarious
-2 Terrarion
 3 Mox Amber
 3 Emry, Lurker of the Loch
 3 Kethis, the Hidden Hand
-3 Teferi, Time Raveler
-3 Hallowed Fountain
 3 Hope of Ghirapur
 3 Mana Confluence
-3 Lazav, the Multifarious
-3 Oath of Nissa
 3 Diligent Excavator
+3 Oath of Nissa
+3 Lazav, the Multifarious
 3 Blooming Marsh
 4 Kethis, the Hidden Hand
 4 Mox Amber
-4 Hallowed Fountain
 4 Emry, Lurker of the Loch
-4 Oath of Nissa
 4 Diligent Excavator
-4 Mana Confluence
+4 Oath of Nissa
 4 Hope of Ghirapur
-4 Teferi, Time Raveler
 4 Blooming Marsh
+4 Mana Confluence
+1 Vessel of Nascency
+1 Hour of Devastation
+2 Vessel of Nascency
+2 Hour of Devastation
+3 Vessel of Nascency
+3 Emrakul, the Promised End
+3 Hour of Devastation
+4 Hour of Devastation
 1 Field of Ruin
 2 Field of Ruin
-1 Heart of Kiran
 1 Mutavault
+1 Heart of Kiran
 1 Mobilized District
 1 Sea Gate Wreckage
 1 Karn, Scion of Urza
@@ -143,27 +144,27 @@
 1 Scrap Trawler
 1 Ratchet Bomb
 1 Stonecoil Serpent
-1 Zhalfirin Void
-1 Foundry of the Consuls
+1 Darksteel Citadel
 1 Warping Wail
 1 Fountain of Renewal
-1 Darksteel Citadel
+1 Zhalfirin Void
+1 Foundry of the Consuls
 1 Karn, the Great Creator
 2 Wastes
 2 Shrine of the Forsaken Gods
-2 Karn, Scion of Urza
 2 Mutavault
 2 Blast Zone
 2 Spatial Contortion
 2 Walking Ballista
 2 Ratchet Bomb
-2 Stonecoil Serpent
+2 Karn, Scion of Urza
 2 Scrap Trawler
-2 Karn, the Great Creator
 2 Fountain of Renewal
 2 Warping Wail
-2 Zhalfirin Void
 2 Mobilized District
+2 Zhalfirin Void
+2 Karn, the Great Creator
+2 Stonecoil Serpent
 3 Blast Zone
 3 Karn, Scion of Urza
 3 Shrine of the Forsaken Gods
@@ -174,84 +175,117 @@
 3 Ratchet Bomb
 3 Spatial Contortion
 3 Karn, the Great Creator
-3 Walking Ballista
-3 Scrap Trawler
 3 Stonecoil Serpent
 3 Fountain of Renewal
+3 Walking Ballista
+3 Scrap Trawler
 4 Karn, Scion of Urza
 4 Mutavault
 4 Shrine of the Forsaken Gods
-4 Stonecoil Serpent
 4 Scrap Trawler
 4 Zhalfirin Void
 4 Fountain of Renewal
+4 Stonecoil Serpent
 1 Expansion / Explosion
 1 Strategic Planning
-1 Opt
-1 Ral, Storm Conduit
 1 Doublecast
+1 Ral, Storm Conduit
 2 Yavimaya Coast
 2 Expansion / Explosion
 2 Strategic Planning
 2 Doublecast
-3 Strategic Planning
 3 Doublecast
-4 Doublecast
+3 Strategic Planning
 4 Strategic Planning
+4 Doublecast
+1 Geier Reach Sanitarium
+1 Narset, Parter of Veils
+1 Day's Undoing
+2 Day's Undoing
+2 Geier Reach Sanitarium
+2 Narset, Parter of Veils
+2 Island
+3 Day's Undoing
+3 Narset, Parter of Veils
+3 Island
+4 Narset, Parter of Veils
+4 Island
+5 Island
+1 Myth Realized
+1 Glacial Fortress
+1 Azorius Charm
+1 Settle the Wreckage
+1 Teferi, Hero of Dominaria
+1 Search for Azcanta
+1 Supreme Verdict
+1 Port Town
+1 Blessed Alliance
+2 Myth Realized
+2 Search for Azcanta
+2 Azorius Charm
+2 Teferi, Hero of Dominaria
+2 Plains
+2 Glacial Fortress
+2 Blessed Alliance
+2 Supreme Verdict
+2 Port Town
+2 Opt
+3 Port Town
+3 Myth Realized
+3 Glacial Fortress
+3 Plains
+3 Azorius Charm
+3 Supreme Verdict
+3 Opt
+4 Port Town
+4 Myth Realized
+4 Plains
+4 Glacial Fortress
+4 Supreme Verdict
+4 Opt
+4 Azorius Charm
+5 Plains
 1 Drown in the Loch
 1 Sunken Hollow
-1 Geier Reach Sanitarium
 1 Cyclonic Rift
 1 Drowned Catacomb
 1 Fabled Passage
 1 Notion Thief
-1 Narset, Parter of Veils
 1 Engulf the Shore
 1 Brazen Borrower
+1 Dictate of Kruphix
+1 Thoughtseize
+1 Spell Pierce
+1 Swamp
+1 Unsubstantiate
+1 Wizard's Retort
 1 Unsummon
 1 Fatal Push
-1 Swamp
 1 Watery Grave
-1 Spell Pierce
-1 Thoughtseize
-1 Wizard's Retort
 1 Dakra Mystic
-1 Unsubstantiate
-1 Day's Undoing
-1 Dictate of Kruphix
 2 Sunken Hollow
 2 Brazen Borrower
 2 Cyclonic Rift
-2 Day's Undoing
-2 Geier Reach Sanitarium
 2 Fabled Passage
 2 Fatal Push
-2 Narset, Parter of Veils
-2 Notion Thief
-2 Dictate of Kruphix
-2 Spell Pierce
-2 Island
-2 Dakra Mystic
-2 Watery Grave
 2 Drowned Catacomb
 2 Engulf the Shore
+2 Notion Thief
+2 Watery Grave
+2 Dakra Mystic
+2 Dictate of Kruphix
+2 Spell Pierce
 3 Brazen Borrower
-3 Notion Thief
 3 Sunken Hollow
-3 Day's Undoing
+3 Notion Thief
 3 Fatal Push
-3 Narset, Parter of Veils
 3 Dakra Mystic
 3 Watery Grave
-3 Island
 4 Watery Grave
 4 Sunken Hollow
-4 Narset, Parter of Veils
 4 Notion Thief
 4 Day's Undoing
 4 Brazen Borrower
 4 Dakra Mystic
-4 Island
-5 Island
 6 Island
 7 Island
