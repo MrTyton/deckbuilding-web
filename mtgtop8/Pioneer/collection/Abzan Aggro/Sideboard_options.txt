@@ -1,7 +1,7 @@
+1 Veil of Summer
+2 Veil of Summer
 2 Rest in Peace
 3 Duress
-1 Fatal Push
-1 Painful Truths
 2 Painful Truths
 3 Rest in Peace
 1 Greenwarden of Murasa
@@ -16,12 +16,21 @@
 1 Ashiok, Dream Render
 1 Abrupt Decay
 1 Vraska, Golgari Queen
+2 Fatal Push
+1 Thoughtseize
+2 Thoughtseize
 1 Anafenza, the Foremost
 1 Liliana's Triumph
 1 Sorcerous Spyglass
 1 Yahenni's Expertise
 1 Abzan Charm
 2 Abzan Charm
+1 Carnage Tyrant
+1 Questing Beast
+1 Solemnity
+1 Thought Distortion
+1 Tireless Tracker
+2 Carnage Tyrant
 1 Ritual of Soot
 2 Ritual of Soot
 1 Hero's Downfall
@@ -31,8 +40,8 @@
 1 Collective Brutality
 1 Blightbeetle
 1 Witch's Vengeance
-1 Assassin's Trophy
 1 Infernal Reckoning
+1 Assassin's Trophy
 2 Infernal Reckoning
 2 Collective Brutality
 2 Blightbeetle
@@ -40,15 +49,6 @@
 2 Pithing Needle
 3 Witch's Vengeance
 3 Blightbeetle
-1 Thoughtseize
-2 Thoughtseize
-1 Settle the Wreckage
-1 The Immortal Sun
-1 Ixalan's Binding
-1 Lost Legacy
-1 Reclamation Sage
-3 Thoughtseize
-4 Leyline of the Void
 1 Gideon Blackblade
 1 Sin Collector
 1 Phyrexian Revoker
@@ -57,5 +57,11 @@
 2 Kaya, Orzhov Usurper
 2 Phyrexian Revoker
 2 Sin Collector
-2 Fatal Push
 3 Fatal Push
+1 Settle the Wreckage
+1 The Immortal Sun
+1 Ixalan's Binding
+1 Lost Legacy
+1 Reclamation Sage
+4 Leyline of the Void
+3 Thoughtseize
