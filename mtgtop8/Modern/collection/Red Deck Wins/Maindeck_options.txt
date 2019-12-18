@@ -1,6 +1,5 @@
 2 Fiery Islet
 2 Wooded Foothills
-4 Mountain
 5 Mountain
 1 Light Up the Stage
 2 Light Up the Stage
@@ -34,6 +33,7 @@
 3 Crash Through
 4 Manamorphose
 4 Crash Through
+4 Lightning Helix
 3 Arid Mesa
 4 Arid Mesa
 1 Burst Lightning
@@ -46,12 +46,13 @@
 3 Runaway Steam-Kin
 4 Lava Dart
 15 Mountain
-1 Scalding Tarn
 1 Risk Factor
 3 Bloodstained Mire
 3 Wooded Foothills
-2 Scalding Tarn
-3 Scalding Tarn
+1 Scalding Tarn
+1 Snow-Covered Mountain
+2 Snow-Covered Mountain
+3 Snow-Covered Mountain
 1 Seal of Fire
 2 Seal of Fire
 3 Seal of Fire
@@ -64,13 +65,10 @@
 2 Firebolt
 3 Firebolt
 4 Firebolt
-1 Bonecrusher Giant
-2 Bonecrusher Giant
 1 Kiln Fiend
 2 Kiln Fiend
-1 Snow-Covered Mountain
-2 Snow-Covered Mountain
-3 Snow-Covered Mountain
+1 Bonecrusher Giant
+2 Bonecrusher Giant
 1 Warlord's Fury
 1 Mishra's Bauble
 2 Warlord's Fury
@@ -79,15 +77,17 @@
 3 Mishra's Bauble
 4 Warlord's Fury
 4 Mishra's Bauble
+1 Flame Javelin
 1 Vexing Devil
 1 Forked Bolt
-1 Flame Javelin
-2 Vexing Devil
 2 Flame Javelin
+2 Vexing Devil
 3 Vexing Devil
 4 Fiery Islet
 4 Vexing Devil
 1 Grim Lavamancer
+2 Scalding Tarn
+3 Scalding Tarn
 4 Scalding Tarn
 1 Incinerate
 1 Ghitu Lavarunner
@@ -111,8 +111,8 @@
 2 Wild Nacatl
 3 Thunderous Wrath
 3 Copperline Gorge
-3 Wild Nacatl
 3 Atarka's Command
+3 Wild Nacatl
 4 Thunderous Wrath
 4 Copperline Gorge
 4 Bloodstained Mire

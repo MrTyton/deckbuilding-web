@@ -55,24 +55,24 @@
 19 Mountain
 1 Ash Zealot
 1 Zurgo Bellstriker
-1 Goblin Instigator
 1 Reckless Bushwhacker
-1 Goblin Piledriver
 1 Goblin Rabblemaster
 1 Foundry Street Denizen
-2 Goblin Instigator
-2 Foundry Street Denizen
+1 Goblin Instigator
+1 Goblin Piledriver
 2 Goblin Piledriver
 2 Goblin Rabblemaster
+2 Foundry Street Denizen
 2 Castle Embereth
-3 Castle Embereth
-3 Goblin Instigator
-3 Foundry Street Denizen
+2 Goblin Instigator
 3 Goblin Piledriver
 3 Goblin Rabblemaster
+3 Castle Embereth
+3 Foundry Street Denizen
+3 Goblin Instigator
+4 Goblin Piledriver
 4 Goblin Instigator
 4 Foundry Street Denizen
-4 Goblin Piledriver
 1 Burning-Tree Emissary
 2 Burning-Tree Emissary
 3 Burning-Tree Emissary
@@ -100,6 +100,20 @@
 4 Skirk Prospector
 4 Goblin Ringleader
 4 Goblin Warchief
+1 Legion Loyalist
+1 Stoke the Flames
+1 Embercleave
+1 Fanatical Firebrand
+2 Legion Loyalist
+2 Reckless Bushwhacker
+2 Stoke the Flames
+2 Embercleave
+2 Fanatical Firebrand
+3 Legion Loyalist
+3 Reckless Bushwhacker
+3 Stoke the Flames
+4 Legion Loyalist
+4 Stoke the Flames
 1 Robber of the Rich
 1 Slaying Fire
 1 Young Pyromancer
@@ -108,15 +122,15 @@
 3 Robber of the Rich
 4 Robber of the Rich
 4 Hazoret the Fervent
+1 Torbran, Thane of Red Fell
 1 Fanatic of Mogis
 1 Boros Reckoner
-1 Torbran, Thane of Red Fell
 1 Fabled Passage
 1 Rakdos Cackler
+2 Torbran, Thane of Red Fell
 2 Fanatic of Mogis
 2 Boros Reckoner
 2 Ash Zealot
-2 Torbran, Thane of Red Fell
 2 Rakdos Cackler
 2 Fabled Passage
 3 Torbran, Thane of Red Fell
@@ -131,23 +145,23 @@
 1 Squee, the Immortal
 1 Aethersphere Harvester
 1 Lava Coil
-1 Mizzium Mortars
 1 Lightning Axe
 1 Stormbreath Dragon
-1 Dire Fleet Daredevil
 1 Scab-Clan Berserker
+1 Dire Fleet Daredevil
 1 Glorybringer
 1 Drownyard Temple
 1 Roast
+1 Mizzium Mortars
 2 Stormbreath Dragon
-2 Westvale Abbey
 2 Pia and Kiran Nalaar
 2 Aethersphere Harvester
-2 Chandra, Torch of Defiance
 2 Lightning Axe
-2 Dire Fleet Daredevil
 2 Mizzium Mortars
+2 Dire Fleet Daredevil
 2 Squee, the Immortal
+2 Westvale Abbey
+2 Chandra, Torch of Defiance
 2 Roast
 2 Scab-Clan Berserker
 2 Glorybringer
@@ -158,17 +172,3 @@
 4 Glorybringer
 4 Westvale Abbey
 4 Scab-Clan Berserker
-1 Stoke the Flames
-1 Embercleave
-1 Legion Loyalist
-1 Fanatical Firebrand
-2 Reckless Bushwhacker
-2 Stoke the Flames
-2 Legion Loyalist
-2 Embercleave
-2 Fanatical Firebrand
-3 Reckless Bushwhacker
-3 Stoke the Flames
-3 Legion Loyalist
-4 Stoke the Flames
-4 Legion Loyalist

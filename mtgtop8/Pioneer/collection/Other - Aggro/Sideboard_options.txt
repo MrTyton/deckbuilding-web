@@ -5,8 +5,8 @@
 3 Fatal Push
 1 Blightbeetle
 1 Assassin's Trophy
-3 Noxious Grasp
 3 Duress
+3 Noxious Grasp
 1 Blood Baron of Vizkopa
 1 Ob Nixilis Reignited
 1 Devout Decree
@@ -32,16 +32,16 @@
 2 Legion's End
 2 Reclamation Sage
 1 Chandra, Awakened Inferno
-1 Ishkanah, Grafwidow
 1 Dead Weight
 1 Liliana, Death's Majesty
-1 Nissa, Vital Force
+1 Ishkanah, Grafwidow
 1 Emrakul, the Promised End
+1 Nissa, Vital Force
 1 Massacre Girl
 1 Stain the Mind
 1 Liliana's Defeat
-1 Dragonlord Silumgar
 1 Collective Brutality
+1 Dragonlord Silumgar
 1 Vivien Reid
 1 Lava Coil
 2 Lava Coil
@@ -62,6 +62,11 @@
 2 Kolaghan's Command
 2 Glorybringer
 2 Chandra, Acolyte of Flame
+2 Ob Nixilis's Cruelty
+1 Yahenni's Expertise
+1 Sorcerous Spyglass
+2 Kalitas, Traitor of Ghet
+2 Sorcerous Spyglass
 1 Wicked Wolf
 1 Abrade
 1 Roast
@@ -86,35 +91,22 @@
 2 Gideon of the Trials
 2 Wear / Tear
 2 Swift Justice
-2 Ob Nixilis's Cruelty
-1 Yahenni's Expertise
-1 Sorcerous Spyglass
-2 Kalitas, Traitor of Ghet
-2 Sorcerous Spyglass
-1 Hero's Downfall
-2 Hero's Downfall
-2 Unravel the Aether
-2 Witch's Vengeance
-2 Unmoored Ego
-3 Unmoored Ego
-1 Vraska, Golgari Queen
-1 Sultai Charm
-1 Golgari Charm
-2 Golgari Charm
-2 Sultai Charm
-3 Golgari Charm
-1 Detention Sphere
-1 Baffling End
-1 Dovin's Veto
-1 Gideon, Ally of Zendikar
-2 Dovin's Veto
-2 Baffling End
-2 Gideon, Ally of Zendikar
-3 Dovin's Veto
 1 Caustic Caterpillar
 1 Abrupt Decay
 2 Abrupt Decay
 3 Assassin's Trophy
+1 Hero's Downfall
+2 Hero's Downfall
+2 Unmoored Ego
+2 Unravel the Aether
+2 Witch's Vengeance
+3 Unmoored Ego
+1 Vraska, Golgari Queen
+1 Golgari Charm
+1 Sultai Charm
+2 Golgari Charm
+2 Sultai Charm
+3 Golgari Charm
 1 Greenwarden of Murasa
 1 Deafening Silence
 1 Archangel Avacyn
@@ -124,8 +116,16 @@
 2 Archangel Avacyn
 2 Void Grafter
 3 Mystical Dispute
-1 Cry of the Carnarium
+1 Detention Sphere
+1 Baffling End
+1 Dovin's Veto
+1 Gideon, Ally of Zendikar
+2 Dovin's Veto
+2 Baffling End
+2 Gideon, Ally of Zendikar
+3 Dovin's Veto
 1 Painful Truths
+1 Cry of the Carnarium
 3 Negate
 3 Dark Betrayal
 1 Vivien, Arkbow Ranger
@@ -137,8 +137,8 @@
 3 Scavenging Ooze
 3 Knight of Autumn
 4 Knight of Autumn
-1 Kaya, Orzhov Usurper
 1 Liliana, Dreadhorde General
+1 Kaya, Orzhov Usurper
 1 Pithing Needle
 1 Inspiring Cleric
 4 Noxious Grasp

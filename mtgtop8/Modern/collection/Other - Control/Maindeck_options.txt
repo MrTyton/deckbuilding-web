@@ -1,21 +1,22 @@
 1 Gideon, Ally of Zendikar
 1 Snow-Covered Swamp
 1 Field of Ruin
+1 Silent Clearing
+1 Liliana, Dreadhorde General
 1 Sorin, Lord of Innistrad
 1 Castle Ardenvale
-1 Liliana's Triumph
 1 Concealed Courtyard
 1 Elspeth, Knight-Errant
-1 Silent Clearing
 1 Interplanar Beacon
 1 Wrath of God
+1 Sorin, Vengeful Bloodlord
+1 Gideon of the Trials
 1 Path to Exile
 1 Oath of Kaya
-1 Sorin, Vengeful Bloodlord
-1 Kaya, Orzhov Usurper
+1 Liliana's Triumph
 1 Gideon Blackblade
+1 Kaya, Orzhov Usurper
 1 Elspeth, Sun's Champion
-1 Liliana, Dreadhorde General
 1 Sorin, Grim Nemesis
 1 Snow-Covered Plains
 1 Mind Stone
@@ -24,12 +25,10 @@
 1 Gideon Jura
 1 Cleansing Nova
 1 Day of Judgment
-1 Gideon of the Trials
 1 Liliana of the Veil
 2 Snow-Covered Plains
 2 Kaya, Orzhov Usurper
 2 Mind Stone
-2 Field of Ruin
 2 Concealed Courtyard
 2 Interplanar Beacon
 2 Gideon, Ally of Zendikar
@@ -38,6 +37,7 @@
 2 Marsh Flats
 2 Elspeth, Knight-Errant
 2 Oath of Kaya
+2 Field of Ruin
 2 Path to Exile
 2 Gideon Jura
 2 Gideon Blackblade
@@ -46,20 +46,20 @@
 2 Liliana of the Veil
 3 Gideon, Ally of Zendikar
 3 Snow-Covered Plains
-3 Field of Ruin
 3 Interplanar Beacon
 3 Marsh Flats
 3 Gideon of the Trials
+3 Field of Ruin
 3 Path to Exile
 3 Gideon Blackblade
 3 Godless Shrine
-4 Field of Ruin
 4 Interplanar Beacon
-4 Marsh Flats
 4 Godless Shrine
+4 Marsh Flats
 4 Path to Exile
-1 Mana Leak
+4 Field of Ruin
 1 Force of Negation
+1 Mana Leak
 1 Cryptic Command
 1 Snapcaster Mage
 2 Snow-Covered Island
@@ -80,12 +80,12 @@
 1 The Royal Scions
 1 Arcum's Astrolabe
 2 Tarmogoyf
-2 Jace, the Mind Sculptor
 2 Blood Moon
 2 Mana Leak
 2 Arcum's Astrolabe
 2 Scalding Tarn
 2 Wrenn and Six
+2 Jace, the Mind Sculptor
 2 Lightning Bolt
 2 Serum Visions
 3 Tarmogoyf
@@ -103,9 +103,9 @@
 1 Sunken Ruins
 1 Sunken Hollow
 1 Drowned Catacomb
-1 Vendilion Clique
 1 Radiant Fountain
 1 Mystic Sanctuary
+1 Vendilion Clique
 1 Overwhelmed Apprentice
 1 Castle Locthwain
 1 Spell Snare
@@ -124,6 +124,7 @@
 1 Polluted Delta
 1 Deprive
 1 Empty the Pits
+2 Polluted Delta
 2 Spell Snare
 2 Drown in the Loch
 2 Cryptic Command
@@ -134,7 +135,6 @@
 2 Overwhelmed Apprentice
 2 Thought Scour
 2 Opt
-2 Polluted Delta
 3 Polluted Delta
 3 Spell Snare
 3 Drown in the Loch
@@ -152,9 +152,9 @@
 1 Temple Garden
 1 Windswept Heath
 1 Leyline of Abundance
-1 Birds of Paradise
-1 Dryad Arbor
 1 Devoted Druid
+1 Dryad Arbor
+1 Birds of Paradise
 1 Wooded Foothills
 1 Nissa, Voice of Zendikar
 1 Shalai, Voice of Plenty
@@ -162,10 +162,10 @@
 1 Avacyn's Pilgrim
 1 Mwonvuli Acid-Moss
 2 Leyline of Abundance
-2 Windswept Heath
 2 Birds of Paradise
-2 Wooded Foothills
 2 Devoted Druid
+2 Windswept Heath
+2 Wooded Foothills
 2 Nissa, Voice of Zendikar
 2 Mwonvuli Acid-Moss
 2 Avacyn's Pilgrim
@@ -174,12 +174,12 @@
 2 Chancellor of the Annex
 3 Mwonvuli Acid-Moss
 3 Leyline of Abundance
+3 Nissa, Who Shakes the World
 3 Devoted Druid
-3 Windswept Heath
 3 Birds of Paradise
+3 Windswept Heath
 3 Chancellor of the Annex
 3 Nissa, Voice of Zendikar
-3 Nissa, Who Shakes the World
 3 Temple Garden
 3 Noble Hierarch
 3 Avacyn's Pilgrim

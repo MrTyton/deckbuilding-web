@@ -28,38 +28,38 @@
 1 Glacial Fortress
 2 Glacial Fortress
 1 Opt
-2 Opt
 2 Dig Through Time
 2 Island
-3 Dig Through Time
+2 Opt
 3 Opt
+3 Dig Through Time
 4 Opt
 1 Supreme Verdict
-1 Clifftop Retreat
 1 Sulfur Falls
 1 Detention Sphere
+1 Clifftop Retreat
 2 Detention Sphere
 3 Glacial Fortress
 4 Glacial Fortress
 4 Hallowed Fountain
-1 Irrigated Farmland
 1 Censor
-1 Castle Vantress
 1 Hieroglyphic Illumination
 1 Abrade
+1 Castle Vantress
+1 Irrigated Farmland
 1 Izzet Charm
-2 Irrigated Farmland
-2 Supreme Verdict
 2 Censor
 2 Hieroglyphic Illumination
-2 Clifftop Retreat
 2 Sulfur Falls
+2 Supreme Verdict
+2 Irrigated Farmland
 2 Izzet Charm
-3 Censor
+2 Clifftop Retreat
 3 Detention Sphere
-3 Supreme Verdict
+3 Censor
 3 Sulfur Falls
 3 Izzet Charm
+3 Supreme Verdict
 4 Censor
 4 Izzet Charm
 4 Sulfur Falls
@@ -104,17 +104,17 @@
 2 Brazen Borrower
 2 Yavimaya Coast
 1 Niv-Mizzet Reborn
-1 Dreadbore
+1 Abrupt Decay
 1 Ojutai's Command
 1 Assassin's Trophy
+1 Dreadbore
 1 Kolaghan's Command
-1 Abrupt Decay
 1 Unmoored Ego
 1 Silumgar's Command
 1 Bring to Light
 1 Knight of Autumn
-2 Niv-Mizzet Reborn
 2 Stomping Ground
+2 Niv-Mizzet Reborn
 2 Assassin's Trophy
 2 Bring to Light
 2 Mana Confluence
@@ -128,36 +128,36 @@
 1 Wicked Wolf
 2 Wicked Wolf
 4 Llanowar Elves
-1 Cloudblazer
 1 Thraben Inspector
 1 Charming Prince
 1 Field of Ruin
 1 Elite Guardmage
 1 Tithe Taker
+1 Cloudblazer
 1 Dusk / Dawn
-2 Cloudblazer
 2 Thraben Inspector
 2 Charming Prince
 2 Field of Ruin
 2 Plains
 2 Dusk / Dawn
+2 Cloudblazer
 2 Tithe Taker
 2 Elite Guardmage
-3 Deafening Clarion
-3 Cloudblazer
 3 Tithe Taker
 3 Thraben Inspector
 3 Charming Prince
 3 Elite Guardmage
+3 Cloudblazer
+3 Deafening Clarion
 4 Thraben Inspector
 4 Charming Prince
 4 Tithe Taker
 1 Golos, Tireless Pilgrim
 1 Field of the Dead
-1 Risen Reef
 1 Eldritch Evolution
 1 Overgrown Tomb
 1 Arboreal Grazer
+1 Risen Reef
 1 Lumbering Falls
 1 Yarok, the Desecrated
 2 Golos, Tireless Pilgrim
@@ -165,14 +165,14 @@
 2 Risen Reef
 2 Arboreal Grazer
 2 Eldritch Evolution
-3 Risen Reef
 3 Eldritch Evolution
 3 Arboreal Grazer
-4 Risen Reef
+3 Risen Reef
 4 Voice of Resurgence
+4 Risen Reef
 1 Thrill of Possibility
-1 Anticipate
 1 Lava Coil
+1 Anticipate
 1 Fiery Impulse
 2 Thrill of Possibility
 2 Lava Coil
@@ -188,25 +188,25 @@
 4 Anticipate
 4 Dig Through Time
 4 Spirebluff Canal
-1 Urborg, Tomb of Yawgmoth
+1 Search for Azcanta
 1 Yahenni's Expertise
 1 Nicol Bolas, Dragon-God
-1 Narset, Parter of Veils
-1 Thoughtseize
 1 Languish
+1 Narset, Parter of Veils
 1 Isolated Chapel
 1 Prophetic Prism
 1 Discovery / Dispersal
-1 Search for Azcanta
+1 Thoughtseize
 1 Teferi, Hero of Dominaria
+1 Urborg, Tomb of Yawgmoth
 1 Drowned Catacomb
 1 Cast Down
 1 Interplanar Beacon
 1 Fatal Push
-2 Thoughtseize
 2 Narset, Parter of Veils
 2 Languish
 2 Fatal Push
+2 Thoughtseize
 2 Watery Grave
 2 Godless Shrine
 2 Prophetic Prism

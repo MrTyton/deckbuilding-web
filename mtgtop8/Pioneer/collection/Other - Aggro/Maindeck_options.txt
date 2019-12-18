@@ -30,8 +30,8 @@
 4 Prized Amalgam
 4 Narcomoeba
 4 Creeping Chill
-2 Courser of Kruphix
 2 Assassin's Trophy
+2 Courser of Kruphix
 3 Fabled Passage
 3 Tireless Tracker
 1 Liliana, the Last Hope
@@ -42,6 +42,7 @@
 5 Swamp
 2 Kalitas, Traitor of Ghet
 6 Swamp
+1 Urborg, Tomb of Yawgmoth
 1 Gifted Aetherborn
 1 Concealed Courtyard
 1 Mutavault
@@ -50,7 +51,6 @@
 1 Champion of Dusk
 1 Grasp of Darkness
 1 Blood Baron of Vizkopa
-1 Urborg, Tomb of Yawgmoth
 1 Caves of Koilos
 1 Knight of the Ebon Legion
 1 Godless Shrine
@@ -58,12 +58,12 @@
 2 Champion of Dusk
 2 Sorin, Imperious Bloodlord
 2 Mutavault
+2 Castle Locthwain
 2 Concealed Courtyard
 2 Dusk Legion Zealot
 2 Blood Baron of Vizkopa
 2 Knight of the Ebon Legion
 2 Godless Shrine
-2 Castle Locthwain
 3 Gifted Aetherborn
 3 Sorin, Imperious Bloodlord
 3 Champion of Dusk
@@ -130,9 +130,9 @@
 3 Sunpetal Grove
 3 Lovestruck Beast
 4 Temple Garden
-4 Deputy of Detention
 4 Hallowed Fountain
 4 Sunpetal Grove
+4 Deputy of Detention
 4 Lovestruck Beast
 2 Dig Through Time
 1 The Scarab God
@@ -171,8 +171,8 @@
 4 Watery Grave
 4 Fabled Passage
 1 Hissing Quagmire
-2 Liliana, the Last Hope
 2 Woodland Cemetery
+2 Liliana, the Last Hope
 1 Yavimaya Coast
 2 Yavimaya Coast
 3 Yavimaya Coast
@@ -182,10 +182,10 @@
 1 Hazoret the Fervent
 2 Chandra, Torch of Defiance
 4 Bonecrusher Giant
-1 Glint-Sleeve Siphoner
 1 Aether Hub
-2 Glint-Sleeve Siphoner
+1 Glint-Sleeve Siphoner
 2 Aether Hub
+2 Glint-Sleeve Siphoner
 3 Glint-Sleeve Siphoner
 4 Glint-Sleeve Siphoner
 3 Elvish Mystic
@@ -198,57 +198,53 @@
 2 Caves of Koilos
 2 Shambling Vent
 3 Blood Baron of Vizkopa
+1 Rogue Refiner
+1 Hero's Downfall
+2 Hero's Downfall
+2 Rogue Refiner
+3 Rogue Refiner
+3 Aether Hub
 1 Plains
 2 Plains
 1 Canopy Vista
-1 Militia Bugler
 1 Prairie Stream
 1 Wastes
+1 Militia Bugler
 1 Eldrazi Displacer
 1 Reflector Mage
 1 Declaration in Stone
 1 Charming Prince
 1 Knight of Autumn
 1 Teferi, Time Raveler
-2 Militia Bugler
 2 Eldrazi Displacer
+2 Militia Bugler
 2 Charming Prince
 2 Teferi, Time Raveler
 2 Declaration in Stone
 2 Reflector Mage
 3 Reflector Mage
-3 Jace, Vryn's Prodigy
 3 Charming Prince
 3 Teferi, Time Raveler
+3 Jace, Vryn's Prodigy
 3 Plains
-1 Hero's Downfall
-1 Rogue Refiner
-2 Hero's Downfall
-2 Rogue Refiner
-3 Rogue Refiner
-3 Aether Hub
 1 Kiora, Behemoth Beckoner
 1 Anger of the Gods
 2 Kiora, Behemoth Beckoner
 3 Chandra, Torch of Defiance
 4 Rootbound Crag
-1 Lochmere Serpent
-1 Thought Erasure
-1 Drowned Catacomb
-1 Hinterland Harbor
-2 Drown in the Loch
-2 Thought Erasure
-3 Thought Erasure
-3 Courser of Kruphix
-4 Courser of Kruphix
+1 Torrential Gearhulk
+1 Ultimate Price
+2 Torrential Gearhulk
+3 Scavenging Ooze
+4 Forest
 1 Noxious Gearhulk
+1 Ishkanah, Grafwidow
 1 Traverse the Ulvenwald
-1 Walking Ballista
 1 Grim Flayer
+1 Walking Ballista
 1 Liliana, Death's Majesty
 1 Collective Brutality
 1 Dead Weight
-1 Ishkanah, Grafwidow
 2 Traverse the Ulvenwald
 2 Grim Flayer
 3 Traverse the Ulvenwald
@@ -256,17 +252,21 @@
 3 Woodland Cemetery
 4 Woodland Cemetery
 4 Grim Flayer
+1 Thought Erasure
+1 Drowned Catacomb
+1 Lochmere Serpent
+1 Hinterland Harbor
+2 Drown in the Loch
+2 Thought Erasure
+3 Courser of Kruphix
+3 Thought Erasure
+4 Courser of Kruphix
 1 Growth-Chamber Guardian
 2 Growth-Chamber Guardian
 3 Growth-Chamber Guardian
 4 Growth-Chamber Guardian
 3 Selfless Spirit
 4 Selfless Spirit
-1 Torrential Gearhulk
-1 Ultimate Price
-2 Torrential Gearhulk
-3 Scavenging Ooze
-4 Forest
 1 Ashiok, Dream Render
 4 Gurmag Angler
 1 Unclaimed Territory
@@ -310,10 +310,10 @@
 1 Battlefield Forge
 1 Titan's Strength
 1 Clifftop Retreat
-1 Reckless Rage
 1 Inspiring Vantage
 1 Expedite
 1 Sacred Foundry
+1 Reckless Rage
 1 Feather, the Redeemed
 1 Favored Hoplite
 1 Tenth District Legionnaire
@@ -328,11 +328,11 @@
 2 Sacred Foundry
 2 Titan's Strength
 2 Clifftop Retreat
-2 Reckless Rage
 2 Expedite
 2 Monastery Swiftspear
 2 Tenth District Legionnaire
 2 Gods Willing
+2 Reckless Rage
 2 Dreadhorde Arcanist
 2 Feather, the Redeemed
 2 Favored Hoplite
@@ -342,7 +342,6 @@
 3 Inspiring Vantage
 3 Sacred Foundry
 3 Battlefield Forge
-3 Reckless Rage
 3 Expedite
 3 Titan's Strength
 3 Favored Hoplite
@@ -351,11 +350,12 @@
 3 Tenth District Legionnaire
 3 Feather, the Redeemed
 3 Gods Willing
+3 Reckless Rage
 4 Sacred Foundry
 4 Inspiring Vantage
 4 Battlefield Forge
-4 Reckless Rage
 4 Titan's Strength
+4 Reckless Rage
 4 Defiant Strike
 4 Tenth District Legionnaire
 4 Gods Willing
@@ -364,10 +364,10 @@
 1 Wild Slash
 1 Dragonskull Summit
 1 Rix Maadi Reveler
-1 Cut / Ribbons
 1 Foreboding Ruins
-1 Rakdos's Return
+1 Cut / Ribbons
 1 Despise
+1 Rakdos's Return
 1 Goblin Rabblemaster
 1 Blood Crypt
 2 Hazoret the Fervent

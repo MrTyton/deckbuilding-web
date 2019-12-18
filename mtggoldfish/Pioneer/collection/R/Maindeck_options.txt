@@ -1,47 +1,24 @@
-1 Goblin Instigator
-2 Foundry Street Denizen
-2 Goblin Instigator
-3 Foundry Street Denizen
-3 Goblin Instigator
-3 Castle Embereth
-4 Foundry Street Denizen
-4 Goblin Instigator
-1 Goblin Chainwhirler
-2 Goblin Chainwhirler
-1 Shock
-1 Legion Warboss
-2 Legion Warboss
-1 Mizzium Mortars
-1 Runaway Steam-Kin
-1 Monastery Swiftspear
-1 Searing Blood
-1 Soul-Scar Mage
-1 Bomat Courier
-2 Runaway Steam-Kin
-2 Bomat Courier
-2 Searing Blood
-2 Soul-Scar Mage
-2 Monastery Swiftspear
-3 Runaway Steam-Kin
-3 Bomat Courier
-3 Monastery Swiftspear
-3 Soul-Scar Mage
-4 Monastery Swiftspear
-4 Soul-Scar Mage
-1 Goblin Piledriver
 1 Skirk Prospector
+2 Goblin Rabblemaster
 2 Goblin Piledriver
 2 Skirk Prospector
 3 Goblin Piledriver
+3 Goblin Rabblemaster
 3 Skirk Prospector
 4 Goblin Piledriver
 4 Skirk Prospector
-3 Goblin Chainwhirler
-4 Goblin Chainwhirler
 2 Shock
 3 Shock
 4 Shock
 1 Reckless Bushwhacker
+1 Legion Loyalist
+2 Legion Loyalist
+3 Legion Loyalist
+4 Legion Loyalist
+1 Torbran, Thane of Red Fell
+2 Torbran, Thane of Red Fell
+3 Goblin Chainwhirler
+4 Goblin Chainwhirler
 1 Burning-Tree Emissary
 2 Burning-Tree Emissary
 3 Burning-Tree Emissary
@@ -58,28 +35,29 @@
 1 Boros Reckoner
 1 Wily Goblin
 1 Fanatic of Mogis
-1 Dragon Whisperer
+1 Glorybringer
 1 Nykthos, Shrine to Nyx
+1 Chandra, Torch of Defiance
+1 Dragon Whisperer
+1 Mizzium Mortars
 2 Wily Goblin
 2 Boros Reckoner
 2 Fanatic of Mogis
-2 Mizzium Mortars
+2 Glorybringer
 2 Nykthos, Shrine to Nyx
+2 Chandra, Torch of Defiance
+2 Mizzium Mortars
 3 Nykthos, Shrine to Nyx
 3 Fanatic of Mogis
 3 Wily Goblin
 3 Boros Reckoner
 3 Mizzium Mortars
+3 Glorybringer
 4 Nykthos, Shrine to Nyx
 4 Fanatic of Mogis
 4 Wily Goblin
 4 Boros Reckoner
 4 Mizzium Mortars
-2 Embercleave
-3 Mutavault
-3 Hanweir Battlements
-4 Mutavault
-4 Bonecrusher Giant
 1 Dragon Fodder
 1 Stoke the Flames
 1 Fanatical Firebrand
@@ -96,9 +74,11 @@
 4 Stoke the Flames
 4 Dragon Fodder
 4 Castle Embereth
+1 Legion Warboss
 1 Throne of the God-Pharaoh
 1 Cavalcade of Calamity
 1 Hordeling Outburst
+2 Legion Warboss
 2 Cavalcade of Calamity
 2 Hordeling Outburst
 2 Throne of the God-Pharaoh
@@ -108,6 +88,7 @@
 3 Hordeling Outburst
 4 Legion Warboss
 4 Cavalcade of Calamity
+4 Goblin Rabblemaster
 4 Hordeling Outburst
 1 Siege-Gang Commander
 1 Goblin Trashmaster
@@ -125,8 +106,8 @@
 4 Goblin Ringleader
 17 Mountain
 1 Skewer the Critics
-1 Blistercoil Weird
 1 Light Up the Stage
+1 Blistercoil Weird
 2 Blistercoil Weird
 2 Light Up the Stage
 3 Searing Blood

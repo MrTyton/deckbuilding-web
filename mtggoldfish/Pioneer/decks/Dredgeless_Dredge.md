@@ -55,8 +55,8 @@
 |                     |                                                                                                     |                    2|[Blightbeetle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466841)        |
 |                     |                                                                                                     |                    2|[Murderous Cut](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386613)       |
 |                     |                                                                                                     |                    3|[Assassin's Trophy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452902)   |
+|                     |                                                                                                     |                    4|[Fatal Push](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423724)          |
 |                     |                                                                                                     |                    1|[Phyrexian Revoker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383343)   |
 |                     |                                                                                                     |                    2|[Phyrexian Revoker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383343)   |
 |                     |                                                                                                     |                    3|[Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)               |
-|                     |                                                                                                     |                    4|[Fatal Push](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423724)          |
 
