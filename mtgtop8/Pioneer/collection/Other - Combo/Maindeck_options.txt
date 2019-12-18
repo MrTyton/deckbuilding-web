@@ -31,12 +31,12 @@
 2 Hope of Ghirapur
 1 Field of Ruin
 2 Field of Ruin
-1 Mutavault
+1 Walking Ballista
 1 Heart of Kiran
 1 Mobilized District
 1 Sea Gate Wreckage
 1 Karn, Scion of Urza
-1 Walking Ballista
+1 Mutavault
 1 Wastes
 1 Spatial Contortion
 1 Scrap Trawler
@@ -53,8 +53,8 @@
 2 Wastes
 2 Mutavault
 2 Blast Zone
-2 Spatial Contortion
 2 Walking Ballista
+2 Spatial Contortion
 2 Ratchet Bomb
 2 Karn, Scion of Urza
 2 Stonecoil Serpent
@@ -71,9 +71,9 @@
 3 Warping Wail
 3 Wastes
 3 Mutavault
+3 Walking Ballista
 3 Ratchet Bomb
 3 Spatial Contortion
-3 Walking Ballista
 3 Karn, the Great Creator
 3 Scrap Trawler
 3 Stonecoil Serpent
@@ -96,8 +96,8 @@
 1 Once Upon a Time
 1 Emry, Lurker of the Loch
 1 Mox Amber
-1 Urborg, Tomb of Yawgmoth
 1 Terrarion
+1 Urborg, Tomb of Yawgmoth
 1 Kethis, the Hidden Hand
 1 Jace, Wielder of Mysteries
 1 Oko, Thief of Crowns
@@ -173,11 +173,11 @@
 2 Dig Through Time
 2 Supreme Verdict
 2 Opt
-3 Port Town
 3 Myth Realized
 3 Plains
 3 Glacial Fortress
 3 Azorius Charm
+3 Port Town
 3 Supreme Verdict
 3 Opt
 4 Port Town
@@ -194,13 +194,13 @@
 1 Drowned Catacomb
 1 Fabled Passage
 1 Engulf the Shore
+1 Spell Pierce
 1 Notion Thief
 1 Brazen Borrower
 1 Unsummon
 1 Fatal Push
 1 Swamp
 1 Watery Grave
-1 Spell Pierce
 1 Thoughtseize
 1 Wizard's Retort
 1 Dakra Mystic
@@ -212,12 +212,12 @@
 2 Cyclonic Rift
 2 Notion Thief
 2 Fabled Passage
-2 Fatal Push
-2 Dictate of Kruphix
 2 Spell Pierce
+2 Dictate of Kruphix
 2 Dakra Mystic
 2 Watery Grave
 2 Engulf the Shore
+2 Fatal Push
 3 Brazen Borrower
 3 Sunken Hollow
 3 Notion Thief

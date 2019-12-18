@@ -1,5 +1,3 @@
-1 Satyr Wayfinder
-1 Narcomoeba
 1 Haunted Dead
 1 Stitcher's Supplier
 1 Prized Amalgam
@@ -33,10 +31,49 @@
 2 Assassin's Trophy
 2 Courser of Kruphix
 3 Fabled Passage
+1 Murderous Rider
+2 Murderous Rider
 3 Tireless Tracker
+3 Breeding Pool
+4 Botanical Sanctum
+1 Llanowar Elves
+1 Elvish Mystic
+1 Dig Through Time
+1 Vraska, Golgari Queen
+1 Wicked Wolf
+2 Wicked Wolf
 1 Liliana, the Last Hope
 3 Swamp
+3 Scrapheap Scrounger
 1 Kalitas, Traitor of Ghet
+1 Questing Beast
+2 Llanowar Elves
+2 Elvish Mystic
+3 Forest
+2 Island
+4 Breeding Pool
+4 Satyr Wayfinder
+4 Abrupt Decay
+1 Jace, Vryn's Prodigy
+3 Llanowar Elves
+1 Collected Company
+2 Collected Company
+3 Collected Company
+4 Collected Company
+1 Hallowed Fountain
+1 Deputy of Detention
+1 Selfless Spirit
+1 Glacial Fortress
+1 Spell Queller
+1 Sunpetal Grove
+1 Temple Garden
+2 Temple Garden
+2 Hallowed Fountain
+2 Deputy of Detention
+2 Selfless Spirit
+2 Spell Queller
+3 Spell Queller
+4 Spell Queller
 1 Castle Locthwain
 4 Swamp
 5 Swamp
@@ -78,47 +115,8 @@
 4 Godless Shrine
 4 Knight of the Ebon Legion
 7 Swamp
-3 Breeding Pool
-1 Dig Through Time
-1 Vraska, Golgari Queen
-4 Botanical Sanctum
-1 Wicked Wolf
-2 Wicked Wolf
-1 Llanowar Elves
-1 Elvish Mystic
-3 Scrapheap Scrounger
-1 Questing Beast
-2 Island
-4 Satyr Wayfinder
-1 Isolated Chapel
-2 Isolated Chapel
-2 Grasp of Darkness
-8 Swamp
-4 Abrupt Decay
-3 Forest
-2 Llanowar Elves
-2 Elvish Mystic
-1 Jace, Vryn's Prodigy
-1 Collected Company
-2 Collected Company
-3 Collected Company
-4 Collected Company
-1 Hallowed Fountain
-1 Deputy of Detention
-1 Selfless Spirit
-1 Glacial Fortress
-1 Spell Queller
-1 Sunpetal Grove
-1 Temple Garden
-2 Temple Garden
-2 Hallowed Fountain
-2 Deputy of Detention
-2 Selfless Spirit
-2 Spell Queller
-3 Spell Queller
-4 Spell Queller
+2 Dig Through Time
 1 Brazen Borrower
-3 Llanowar Elves
 4 Llanowar Elves
 1 Lovestruck Beast
 2 Sunpetal Grove
@@ -134,10 +132,12 @@
 4 Sunpetal Grove
 4 Deputy of Detention
 4 Lovestruck Beast
-2 Dig Through Time
-1 The Scarab God
-4 Breeding Pool
+3 Elvish Mystic
 2 Questing Beast
+1 Yavimaya Coast
+2 Yavimaya Coast
+3 Yavimaya Coast
+4 Yavimaya Coast
 2 Brazen Borrower
 1 Chandra, Torch of Defiance
 1 Bonecrusher Giant
@@ -166,6 +166,7 @@
 4 Glorybringer
 4 Steam Vents
 4 Stomping Ground
+1 The Scarab God
 4 Tireless Tracker
 1 Drown in the Loch
 4 Watery Grave
@@ -173,10 +174,6 @@
 1 Hissing Quagmire
 2 Woodland Cemetery
 2 Liliana, the Last Hope
-1 Yavimaya Coast
-2 Yavimaya Coast
-3 Yavimaya Coast
-4 Yavimaya Coast
 2 Jace, Vryn's Prodigy
 3 Murderous Rider
 1 Hazoret the Fervent
@@ -188,8 +185,11 @@
 2 Glint-Sleeve Siphoner
 3 Glint-Sleeve Siphoner
 4 Glint-Sleeve Siphoner
-3 Elvish Mystic
+4 Forest
 4 Llanowar Wastes
+1 Walking Ballista
+1 Nykthos, Shrine to Nyx
+2 Nykthos, Shrine to Nyx
 2 Vraska, Golgari Queen
 1 Spirebluff Canal
 1 Domri, Anarch of Bolas
@@ -204,6 +204,10 @@
 2 Rogue Refiner
 3 Rogue Refiner
 3 Aether Hub
+1 Torrential Gearhulk
+1 Ultimate Price
+2 Torrential Gearhulk
+3 Scavenging Ooze
 1 Plains
 2 Plains
 1 Canopy Vista
@@ -216,12 +220,12 @@
 1 Charming Prince
 1 Knight of Autumn
 1 Teferi, Time Raveler
+2 Reflector Mage
 2 Eldrazi Displacer
 2 Militia Bugler
 2 Charming Prince
 2 Teferi, Time Raveler
 2 Declaration in Stone
-2 Reflector Mage
 3 Reflector Mage
 3 Charming Prince
 3 Teferi, Time Raveler
@@ -232,16 +236,10 @@
 2 Kiora, Behemoth Beckoner
 3 Chandra, Torch of Defiance
 4 Rootbound Crag
-1 Torrential Gearhulk
-1 Ultimate Price
-2 Torrential Gearhulk
-3 Scavenging Ooze
-4 Forest
 1 Noxious Gearhulk
 1 Ishkanah, Grafwidow
 1 Traverse the Ulvenwald
 1 Grim Flayer
-1 Walking Ballista
 1 Liliana, Death's Majesty
 1 Collective Brutality
 1 Dead Weight
@@ -272,7 +270,6 @@
 1 Unclaimed Territory
 1 Elvish Visionary
 1 Steel Leaf Champion
-1 Nykthos, Shrine to Nyx
 1 Gnarlroot Trapper
 1 Chord of Calling
 1 Elvish Clancaller
@@ -283,7 +280,6 @@
 2 Unclaimed Territory
 2 Elvish Visionary
 2 Steel Leaf Champion
-2 Nykthos, Shrine to Nyx
 2 Marwyn, the Nurturer
 2 Elvish Clancaller
 2 Dwynen's Elite
@@ -388,3 +384,36 @@
 4 Mountain
 5 Mountain
 6 Mountain
+1 Isolated Chapel
+2 Isolated Chapel
+2 Grasp of Darkness
+8 Swamp
+1 Hardened Scales
+1 Nissa, Voice of Zendikar
+1 Hydroid Krasis
+1 Nissa, Who Shakes the World
+1 Vivien, Arkbow Ranger
+1 Barkhide Troll
+2 Hardened Scales
+2 Nissa, Voice of Zendikar
+2 Nissa, Who Shakes the World
+2 Hydroid Krasis
+2 Vivien, Arkbow Ranger
+2 Barkhide Troll
+2 Walking Ballista
+3 Hardened Scales
+3 Nissa, Voice of Zendikar
+3 Hydroid Krasis
+3 Barkhide Troll
+3 Nykthos, Shrine to Nyx
+3 Nissa, Who Shakes the World
+3 Walking Ballista
+4 Hardened Scales
+4 Barkhide Troll
+4 Walking Ballista
+4 Nissa, Who Shakes the World
+5 Forest
+6 Forest
+7 Forest
+9 Forest
+8 Forest
