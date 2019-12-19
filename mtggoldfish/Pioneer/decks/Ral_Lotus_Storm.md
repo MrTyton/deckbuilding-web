@@ -27,9 +27,11 @@
 
 # Other Options
 
-|*n*<sup>th</sup> copy|Maindeck Card|*n*<sup>th</sup> copy|                                       Sideboard Card                                        |
-|---------------------|-------------|--------------------:|---------------------------------------------------------------------------------------------|
-|                     |             |                    1|[Unravel the Aether](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=378515)|
-|                     |             |                    2|[Unravel the Aether](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=378515)|
-|                     |             |                    3|[Unravel the Aether](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=378515)|
+|*n*<sup>th</sup> copy|                                      Maindeck Card                                       |*n*<sup>th</sup> copy|                                          Sideboard Card                                          |
+|--------------------:|------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------------|
+|                    1|[Blast Zone](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461171)     |                    2|[Ugin, the Spirit Dragon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391948)|
+|                    2|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)         |                    1|[Unravel the Aether](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=378515)     |
+|                    3|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)         |                    2|[Unravel the Aether](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=378515)     |
+|                    4|[Arboreal Grazer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461076)|                    3|[Unravel the Aether](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=378515)     |
+|                    4|[Growth Spiral](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457322)  |                     |                                                                                                  |
 

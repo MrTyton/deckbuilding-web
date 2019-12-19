@@ -1,7 +1,7 @@
 1 Surgical Extraction
-1 Pyroblast
 1 Hydroblast
 1 Wear / Tear
+1 Pyroblast
 2 Wear / Tear
 2 Pyroblast
 2 Hydroblast
@@ -19,6 +19,7 @@
 1 Magma Mine
 1 Welding Jar
 1 Mycosynth Lattice
+1 Plague Engineer
 1 Vendilion Clique
 1 Supreme Verdict
 1 Flusterstorm
@@ -26,12 +27,6 @@
 1 Containment Priest
 2 Flusterstorm
 2 Containment Priest
-1 Rest in Peace
-1 Celestial Purge
-1 Sorcerous Spyglass
-1 Engineered Explosives
-2 Rest in Peace
-3 Pyroblast
 1 Monastery Mentor
 1 Abrade
 1 Chain of Vapor
@@ -53,4 +48,9 @@
 3 Defense Grid
 3 Surgical Extraction
 4 Defense Grid
-1 Plague Engineer
+1 Rest in Peace
+1 Celestial Purge
+1 Sorcerous Spyglass
+2 Rest in Peace
+3 Pyroblast
+1 Engineered Explosives

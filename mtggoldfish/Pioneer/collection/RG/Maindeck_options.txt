@@ -53,23 +53,23 @@
 2 Bristling Hydra
 2 Ghor-Clan Rampager
 2 Attune with Aether
-3 Ghor-Clan Rampager
 3 Blossoming Defense
 3 Voltaic Brawler
 3 Aether Hub
 3 Temur Battle Rage
 3 Bristling Hydra
 3 Longtusk Cub
+3 Ghor-Clan Rampager
 3 Attune with Aether
 3 Electrostatic Pummeler
 3 Become Immense
 3 Harnessed Lightning
-4 Ghor-Clan Rampager
 4 Voltaic Brawler
 4 Blossoming Defense
 4 Aether Hub
 4 Electrostatic Pummeler
 4 Temur Battle Rage
+4 Ghor-Clan Rampager
 4 Longtusk Cub
 4 Bristling Hydra
 4 Attune with Aether
@@ -109,7 +109,6 @@
 4 Steel Leaf Champion
 1 Sylvan Caryatid
 1 Arch of Orazca
-1 Cinder Glade
 1 Hedron Archive
 1 Nissa, Vastwood Seer
 1 Emrakul, the Promised End
@@ -125,6 +124,7 @@
 1 Fabled Passage
 1 Walking Ballista
 1 Vessel of Nascency
+1 Cinder Glade
 1 Traverse the Ulvenwald
 2 Sylvan Caryatid
 2 Kozilek's Return
@@ -151,9 +151,9 @@
 4 Vessel of Nascency
 4 Grapple with the Past
 4 Nissa's Pilgrimage
-1 Domri Rade
 1 Xenagos, God of Revels
 1 Shifting Ceratops
+1 Domri Rade
 1 Lava Coil
 2 Shifting Ceratops
 2 Lava Coil

@@ -9,14 +9,14 @@
 4 Lotus Petal
 1 Magus of the Moon
 1 Wooded Foothills
-1 Nihil Spellbomb
 1 Wishclaw Talisman
+1 Nihil Spellbomb
 1 Badlands
 1 Daretti, Ingenious Iconoclast
 2 Wooded Foothills
-2 Badlands
 2 Bloodstained Mire
 2 Daretti, Ingenious Iconoclast
+2 Badlands
 1 Stonecoil Serpent
 2 Stonecoil Serpent
 6 Snow-Covered Mountain
@@ -36,6 +36,17 @@
 3 Mox Opal
 1 Wurmcoil Engine
 1 Solemn Simulacrum
+1 Plateau
+1 Ethersworn Canonist
+1 Enlightened Tutor
+1 Smuggler's Copter
+2 Plateau
+2 Enlightened Tutor
+2 Smuggler's Copter
+3 Scalding Tarn
+3 Enlightened Tutor
+3 Smuggler's Copter
+4 Scalding Tarn
 1 Fiery Islet
 1 Bomat Courier
 2 Bomat Courier
@@ -51,17 +62,6 @@
 3 Red Elemental Blast
 3 Simian Spirit Guide
 4 Simian Spirit Guide
-1 Plateau
-1 Enlightened Tutor
-1 Smuggler's Copter
-1 Ethersworn Canonist
-2 Plateau
-2 Enlightened Tutor
-2 Smuggler's Copter
-3 Scalding Tarn
-3 Enlightened Tutor
-3 Smuggler's Copter
-4 Scalding Tarn
 1 Academy Ruins
 1 Volcanic Island
 1 Brainstorm
@@ -80,8 +80,8 @@
 3 Brainstorm
 3 Emry, Lurker of the Loch
 3 Snow-Covered Island
-4 Emry, Lurker of the Loch
 4 Mox Opal
+4 Emry, Lurker of the Loch
 4 Prismatic Vista
 4 Force of Will
 4 Brainstorm

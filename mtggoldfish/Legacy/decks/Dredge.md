@@ -70,6 +70,6 @@
 |                     |                                                                                                    |                    3|[Serenity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=15360)                   |
 |                     |                                                                                                    |                    4|[Wispmare](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=145974)                  |
 |                     |                                                                                                    |                    2|[Firestorm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=4547)                   |
-|                     |                                                                                                    |                    3|[Firestorm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=4547)                   |
 |                     |                                                                                                    |                    4|[Nature's Claim](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382316)            |
+|                     |                                                                                                    |                    3|[Firestorm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=4547)                   |
 
