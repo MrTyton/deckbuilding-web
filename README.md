@@ -4,14 +4,14 @@
 
 # Standard
 
-|                                  A                                   |                                B                                 |                                      C                                       |                                  D                                   |                    E                     |
-|----------------------------------------------------------------------|------------------------------------------------------------------|------------------------------------------------------------------------------|----------------------------------------------------------------------|------------------------------------------|
-|[Azorius Control](./mtggoldfish/Standard/decks/Azorius_Control.md)    |[Gruul Adventure](./mtggoldfish/Standard/decks/Gruul_Adventure.md)|[Mono-Black Aristocats](./mtggoldfish/Standard/decks/Mono-Black_Aristocats.md)|[Simic Flash](./mtggoldfish/Standard/decks/Simic_Flash.md)            |[URG](./mtggoldfish/Standard/decks/URG.md)|
-|[Esper Blink](./mtggoldfish/Standard/decks/Esper_Blink.md)            |[Izzet Flash](./mtggoldfish/Standard/decks/Izzet_Flash.md)        |[Mono-Green Stompy](./mtggoldfish/Standard/decks/Mono-Green_Stompy.md)        |[Simic Ramp](./mtggoldfish/Standard/decks/Simic_Ramp.md)              |[WR](./mtggoldfish/Standard/decks/WR.md)  |
-|[Esper Control](./mtggoldfish/Standard/decks/Esper_Control.md)        |[Jeskai Fires](./mtggoldfish/Standard/decks/Jeskai_Fires.md)      |[R](./mtggoldfish/Standard/decks/R.md)                                        |[Sultai Ramp](./mtggoldfish/Standard/decks/Sultai_Ramp.md)            |[W](./mtggoldfish/Standard/decks/W.md)    |
-|[Five-Color Fires](./mtggoldfish/Standard/decks/Five-Color_Fires.md)  |[Jund Fires](./mtggoldfish/Standard/decks/Jund_Fires.md)          |[Rakdos Aristocrats](./mtggoldfish/Standard/decks/Rakdos_Aristocrats.md)      |[Temur Adventure](./mtggoldfish/Standard/decks/Temur_Adventure.md)    |                                          |
-|[Golgari Adventure](./mtggoldfish/Standard/decks/Golgari_Adventure.md)|[Jund Food](./mtggoldfish/Standard/decks/Jund_Food.md)            |[Rakdos Fires](./mtggoldfish/Standard/decks/Rakdos_Fires.md)                  |[Temur Reclamation](./mtggoldfish/Standard/decks/Temur_Reclamation.md)|                                          |
-|[Golgari Food](./mtggoldfish/Standard/decks/Golgari_Food.md)          |[Mardu Knights](./mtggoldfish/Standard/decks/Mardu_Knights.md)    |[Rakdos Knights](./mtggoldfish/Standard/decks/Rakdos_Knights.md)              |[UB](./mtggoldfish/Standard/decks/UB.md)                              |                                          |
+|                                   A                                    |                                B                                 |                                      C                                       |                                D                                 |                                  E                                   |
+|------------------------------------------------------------------------|------------------------------------------------------------------|------------------------------------------------------------------------------|------------------------------------------------------------------|----------------------------------------------------------------------|
+|[Azorius Control](./mtggoldfish/Standard/decks/Azorius_Control.md)      |[Golgari Food](./mtggoldfish/Standard/decks/Golgari_Food.md)      |[Jund Food](./mtggoldfish/Standard/decks/Jund_Food.md)                        |[Rakdos Fires](./mtggoldfish/Standard/decks/Rakdos_Fires.md)      |[Temur Reclamation](./mtggoldfish/Standard/decks/Temur_Reclamation.md)|
+|[Esper Blink](./mtggoldfish/Standard/decks/Esper_Blink.md)              |[Golos Fires](./mtggoldfish/Standard/decks/Golos_Fires.md)        |[Mardu Knights](./mtggoldfish/Standard/decks/Mardu_Knights.md)                |[Rakdos Knights](./mtggoldfish/Standard/decks/Rakdos_Knights.md)  |[UB](./mtggoldfish/Standard/decks/UB.md)                              |
+|[Esper Control](./mtggoldfish/Standard/decks/Esper_Control.md)          |[Gruul Adventure](./mtggoldfish/Standard/decks/Gruul_Adventure.md)|[Mono-Black Aristocats](./mtggoldfish/Standard/decks/Mono-Black_Aristocats.md)|[Simic Flash](./mtggoldfish/Standard/decks/Simic_Flash.md)        |[URG](./mtggoldfish/Standard/decks/URG.md)                            |
+|[Five-Color Fires](./mtggoldfish/Standard/decks/Five-Color_Fires.md)    |[Izzet Flash](./mtggoldfish/Standard/decks/Izzet_Flash.md)        |[Mono-Green Stompy](./mtggoldfish/Standard/decks/Mono-Green_Stompy.md)        |[Simic Ramp](./mtggoldfish/Standard/decks/Simic_Ramp.md)          |[WR](./mtggoldfish/Standard/decks/WR.md)                              |
+|[Golgari Adventure](./mtggoldfish/Standard/decks/Golgari_Adventure.md)  |[Jeskai Fires](./mtggoldfish/Standard/decks/Jeskai_Fires.md)      |[R](./mtggoldfish/Standard/decks/R.md)                                        |[Sultai Ramp](./mtggoldfish/Standard/decks/Sultai_Ramp.md)        |[W](./mtggoldfish/Standard/decks/W.md)                                |
+|[Golgari Adventures](./mtggoldfish/Standard/decks/Golgari_Adventures.md)|[Jund Fires](./mtggoldfish/Standard/decks/Jund_Fires.md)          |[Rakdos Aristocrats](./mtggoldfish/Standard/decks/Rakdos_Aristocrats.md)      |[Temur Adventure](./mtggoldfish/Standard/decks/Temur_Adventure.md)|                                                                      |
 
 
 # Pioneer
@@ -93,4 +93,4 @@
 
 
 
-#### Last Updated at 12:24AM on December 20, 2019
+#### Last Updated at 12:27PM on December 20, 2019

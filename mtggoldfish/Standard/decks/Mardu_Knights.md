@@ -44,7 +44,7 @@
 |                    3|[Rotting Regisaur](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466865)         |                     |                                                                                               |
 |                    3|[Skyknight Vanguard](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466972)       |                     |                                                                                               |
 |                    3|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)                 |                     |                                                                                               |
+|                    4|[Rotting Regisaur](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466865)         |                     |                                                                                               |
 |                    4|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)                 |                     |                                                                                               |
 |                    4|[Skyknight Vanguard](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466972)       |                     |                                                                                               |
-|                    4|[Rotting Regisaur](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466865)         |                     |                                                                                               |
 
