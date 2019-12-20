@@ -23,3 +23,17 @@
 |2 [Reclamation Sage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389651)|2 [Golgari Charm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405245)|                                                                                         |
 |2 [Scavenging Ooze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420783) |2 [Noxious Grasp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466864)|                                                                                         |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                          Maindeck Card                                           |*n*<sup>th</sup> copy|                                         Sideboard Card                                          |
+|--------------------:|--------------------------------------------------------------------------------------------------|--------------------:|-------------------------------------------------------------------------------------------------|
+|                    1|[Hashep Oasis](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430866)           |                    1|[Hangarback Walker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420600)     |
+|                    1|[Karn's Bastion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461175)         |                    1|[Shapers' Sanctuary](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435362)    |
+|                    1|[Stonecoil Serpent](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473197)      |                    1|[Lifecrafter's Bestiary](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423829)|
+|                    2|[Hashep Oasis](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430866)           |                    2|[Shapers' Sanctuary](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435362)    |
+|                    2|[Stonecoil Serpent](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473197)      |                    2|[Hangarback Walker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420600)     |
+|                    2|[Rishkar, Peema Renegade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423789)|                    2|[Lifecrafter's Bestiary](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423829)|
+|                    3|[Stonecoil Serpent](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473197)      |                    3|[Hangarback Walker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420600)     |
+|                    4|[Stonecoil Serpent](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473197)      |                    3|[Fatal Push](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423724)            |
+

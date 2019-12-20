@@ -1,7 +1,7 @@
-1 Narcomoeba
 1 Haunted Dead
 1 Stitcher's Supplier
 1 Prized Amalgam
+1 Gurmag Angler
 1 Driven / Despair
 2 Gather the Pack
 2 Satyr Wayfinder
@@ -83,18 +83,18 @@
 1 Gifted Aetherborn
 1 Concealed Courtyard
 1 Mutavault
-1 Dusk Legion Zealot
-1 Sorin, Imperious Bloodlord
 1 Champion of Dusk
+1 Sorin, Imperious Bloodlord
+1 Dusk Legion Zealot
 1 Grasp of Darkness
 1 Blood Baron of Vizkopa
 1 Caves of Koilos
 1 Knight of the Ebon Legion
 1 Godless Shrine
 2 Gifted Aetherborn
-2 Champion of Dusk
 2 Sorin, Imperious Bloodlord
 2 Mutavault
+2 Champion of Dusk
 2 Castle Locthwain
 2 Concealed Courtyard
 2 Dusk Legion Zealot
@@ -102,8 +102,8 @@
 2 Knight of the Ebon Legion
 2 Godless Shrine
 3 Gifted Aetherborn
-3 Sorin, Imperious Bloodlord
 3 Champion of Dusk
+3 Sorin, Imperious Bloodlord
 3 Concealed Courtyard
 3 Godless Shrine
 3 Castle Locthwain
@@ -128,9 +128,9 @@
 3 Sunpetal Grove
 3 Lovestruck Beast
 4 Temple Garden
-4 Hallowed Fountain
 4 Sunpetal Grove
 4 Deputy of Detention
+4 Hallowed Fountain
 4 Lovestruck Beast
 3 Elvish Mystic
 2 Questing Beast
@@ -211,21 +211,21 @@
 1 Plains
 2 Plains
 1 Canopy Vista
-1 Prairie Stream
 1 Wastes
-1 Militia Bugler
-1 Eldrazi Displacer
+1 Prairie Stream
 1 Reflector Mage
 1 Declaration in Stone
 1 Charming Prince
+1 Eldrazi Displacer
 1 Knight of Autumn
 1 Teferi, Time Raveler
+1 Militia Bugler
 2 Reflector Mage
 2 Eldrazi Displacer
-2 Militia Bugler
 2 Charming Prince
 2 Teferi, Time Raveler
 2 Declaration in Stone
+2 Militia Bugler
 3 Reflector Mage
 3 Charming Prince
 3 Teferi, Time Raveler
@@ -265,40 +265,40 @@
 4 Courser of Kruphix
 3 Selfless Spirit
 4 Selfless Spirit
-1 Ashiok, Dream Render
-4 Gurmag Angler
 1 Unclaimed Territory
 1 Elvish Visionary
 1 Steel Leaf Champion
+1 Shaman of the Pack
+1 Dwynen's Elite
+1 Elvish Clancaller
 1 Gnarlroot Trapper
 1 Chord of Calling
-1 Elvish Clancaller
-1 Shaman of the Pack
 1 Westvale Abbey
 1 Marwyn, the Nurturer
-1 Dwynen's Elite
 2 Unclaimed Territory
 2 Elvish Visionary
 2 Steel Leaf Champion
-2 Marwyn, the Nurturer
+2 Chord of Calling
 2 Elvish Clancaller
 2 Dwynen's Elite
-2 Gnarlroot Trapper
-2 Chord of Calling
 2 Shaman of the Pack
+2 Marwyn, the Nurturer
+2 Gnarlroot Trapper
 3 Steel Leaf Champion
-3 Elvish Clancaller
-3 Gnarlroot Trapper
 3 Chord of Calling
-3 Shaman of the Pack
 3 Elvish Visionary
+3 Elvish Clancaller
+3 Shaman of the Pack
 3 Dwynen's Elite
+3 Gnarlroot Trapper
 4 Steel Leaf Champion
-4 Elvish Mystic
-4 Elvish Visionary
-4 Elvish Clancaller
-4 Shaman of the Pack
 4 Dwynen's Elite
+4 Shaman of the Pack
+4 Elvish Clancaller
+4 Elvish Visionary
+4 Elvish Mystic
+1 Ashiok, Dream Render
+4 Gurmag Angler
 1 Mountain
 2 Mountain
 1 Gird for Battle
@@ -358,18 +358,18 @@
 4 Feather, the Redeemed
 4 Favored Hoplite
 1 Wild Slash
-1 Rix Maadi Reveler
 1 Dragonskull Summit
 1 Foreboding Ruins
+1 Rix Maadi Reveler
 1 Cut / Ribbons
 1 Despise
 1 Rakdos's Return
 1 Goblin Rabblemaster
 1 Blood Crypt
 2 Hazoret the Fervent
-2 Rix Maadi Reveler
 2 Dragonskull Summit
 2 Blood Crypt
+2 Rix Maadi Reveler
 2 Despise
 2 Cut / Ribbons
 2 Wild Slash

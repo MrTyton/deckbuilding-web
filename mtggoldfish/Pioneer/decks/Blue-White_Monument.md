@@ -27,9 +27,18 @@
 
 # Other Options
 
-|*n*<sup>th</sup> copy|Maindeck Card|*n*<sup>th</sup> copy|                                      Sideboard Card                                       |
-|---------------------|-------------|--------------------:|-------------------------------------------------------------------------------------------|
-|                     |             |                    1|[Archangel Avacyn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409741)|
-|                     |             |                    1|[Dovin's Veto](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461120)    |
-|                     |             |                    2|[Archangel Avacyn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409741)|
+|*n*<sup>th</sup> copy|                                           Maindeck Card                                           |*n*<sup>th</sup> copy|                                        Sideboard Card                                         |
+|--------------------:|---------------------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------------|
+|                    1|[Gideon, Ally of Zendikar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401897)|                    1|[Deafening Silence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472972)   |
+|                    1|[Castle Ardenvale](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473200)        |                    1|[Declaration in Stone](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409750)|
+|                    1|[God-Eternal Oketra](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460943)      |                    1|[Archangel of Tithes](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=398571) |
+|                    1|[Aviary Mechanic](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417579)         |                    2|[Deafening Silence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472972)   |
+|                    2|[Gideon, Ally of Zendikar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401897)|                    2|[Declaration in Stone](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409750)|
+|                    2|[Aviary Mechanic](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417579)         |                    2|[Dusk/Dawn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426912)           |
+|                    4|[Gideon, Ally of Zendikar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401897)|                    2|[Archangel of Tithes](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=398571) |
+|                    3|[Gideon, Ally of Zendikar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401897)|                    3|[Declaration in Stone](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409750)|
+|                     |                                                                                                   |                    3|[Disdainful Stroke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420705)   |
+|                     |                                                                                                   |                    1|[Archangel Avacyn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409741)    |
+|                     |                                                                                                   |                    1|[Dovin's Veto](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461120)        |
+|                     |                                                                                                   |                    2|[Archangel Avacyn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409741)    |
 

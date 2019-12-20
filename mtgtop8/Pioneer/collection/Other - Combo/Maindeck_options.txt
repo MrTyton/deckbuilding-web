@@ -11,8 +11,8 @@
 2 Vessel of Nascency
 2 Hour of Devastation
 3 Vessel of Nascency
-3 Hour of Devastation
 3 Emrakul, the Promised End
+3 Hour of Devastation
 4 Hour of Devastation
 1 Shrine of the Forsaken Gods
 1 World Breaker
@@ -36,6 +36,7 @@
 1 Sea Gate Wreckage
 1 Mobilized District
 1 Karn, Scion of Urza
+1 Warping Wail
 1 Mutavault
 1 Wastes
 1 Spatial Contortion
@@ -43,7 +44,6 @@
 1 Ratchet Bomb
 1 Stonecoil Serpent
 1 Blast Zone
-1 Warping Wail
 1 Zhalfirin Void
 1 Foundry of the Consuls
 1 Fountain of Renewal
@@ -64,8 +64,8 @@
 2 Zhalfirin Void
 2 Fountain of Renewal
 2 Mobilized District
-3 Blast Zone
 3 Shrine of the Forsaken Gods
+3 Blast Zone
 3 Karn, Scion of Urza
 3 Zhalfirin Void
 3 Warping Wail
@@ -78,8 +78,8 @@
 3 Scrap Trawler
 3 Stonecoil Serpent
 3 Fountain of Renewal
-4 Karn, Scion of Urza
 4 Shrine of the Forsaken Gods
+4 Karn, Scion of Urza
 4 Mutavault
 4 Stonecoil Serpent
 4 Scrap Trawler
@@ -190,12 +190,12 @@
 5 Plains
 1 Drown in the Loch
 1 Sunken Hollow
-1 Cyclonic Rift
 1 Drowned Catacomb
 1 Fabled Passage
 1 Engulf the Shore
 1 Spell Pierce
 1 Notion Thief
+1 Cyclonic Rift
 1 Brazen Borrower
 1 Unsummon
 1 Fatal Push

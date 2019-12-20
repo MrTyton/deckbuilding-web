@@ -1,7 +1,7 @@
 # Izzet Aggro
 
 #### [Export MTGO List](../collection/Izzet%20Aggro/Izzet%20Aggro.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Bonecrusher%20Giant%0A3%09Brazen%20Borrower%0A2%09Chandra,%20Torch%20of%20Defiance%0A2%09Embercleave%0A4%09Fanatical%20Firebrand%0A3%09Glorybringer%0A4%09Goblin%20Rabblemaster%0A2%09Hanweir%20Battlements%0A4%09Hanweir%20Garrison%0A2%09Island%0A2%09Izzet%20Charm%0A2%09Kari%20Zev,%20Skyship%20Raider%0A6%09Mountain%0A2%09Shivan%20Reef%0A4%09Spirebluff%20Canal%0A4%09Steam%20Vents%0A4%09Sulfur%20Falls%0A2%09The%20Royal%20Scions%0A4%09Wild%20Slash&deckside=2%09Abrade%0A3%09Aether%20Gust%0A1%09Mizzium%20Mortars%0A3%09Mystical%20Dispute%0A3%09Negate%0A3%09Roast)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Bonecrusher%20Giant%0A3%09Brazen%20Borrower%0A2%09Chandra,%20Torch%20of%20Defiance%0A2%09Embercleave%0A4%09Fanatical%20Firebrand%0A3%09Glorybringer%0A4%09Goblin%20Rabblemaster%0A2%09Hanweir%20Battlements%0A4%09Hanweir%20Garrison%0A2%09Island%0A2%09Izzet%20Charm%0A2%09Kari%20Zev,%20Skyship%20Raider%0A6%09Mountain%0A2%09Shivan%20Reef%0A4%09Spirebluff%20Canal%0A4%09Steam%20Vents%0A4%09Sulfur%20Falls%0A2%09The%20Royal%20Scions%0A4%09Wild%20Slash&deckside=2%09Abrade%0A4%09Aether%20Gust%0A3%09Mystical%20Dispute%0A3%09Negate%0A3%09Roast)
 # Maindeck
 
 |                                      Artifact (2)                                      |                                            Creature (24)                                            |                                      Instant (6)                                       |                                           Land (24)                                            |                                           Planeswalker (4)                                            |
@@ -17,20 +17,20 @@
 
 # Sideboard
 
-|                                        Instant (11)                                         |                                        Sorcery (4)                                         |
-|---------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
-|2 [Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)          |1 [Mizzium Mortars](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405302)|
-|3 [Aether Gust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466796)     |3 [Roast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394667)          |
-|3 [Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)|                                                                                            |
-|3 [Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)          |                                                                                            |
+|                                        Instant (12)                                         |                                   Sorcery (3)                                    |
+|---------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
+|2 [Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)          |3 [Roast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394667)|
+|4 [Aether Gust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466796)     |                                                                                  |
+|3 [Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)|                                                                                  |
+|3 [Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)          |                                                                                  |
 
 
 # Other Options
 
 |*n*<sup>th</sup> copy|                                      Maindeck Card                                      |*n*<sup>th</sup> copy|                                      Sideboard Card                                      |
 |--------------------:|-----------------------------------------------------------------------------------------|--------------------:|------------------------------------------------------------------------------------------|
-|                    1|[Soul-Scar Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426850)|                    2|[Mizzium Mortars](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405302)|
-|                    2|[Soul-Scar Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426850)|                    3|[Aether Gust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466796)    |
-|                    3|[Soul-Scar Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426850)|                     |                                                                                          |
+|                    2|[Soul-Scar Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426850)|                    2|[Mizzium Mortars](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405302)|
+|                    3|[Soul-Scar Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426850)|                    1|[Mizzium Mortars](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405302)|
 |                    4|[Soul-Scar Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426850)|                     |                                                                                          |
+|                    1|[Soul-Scar Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426850)|                     |                                                                                          |
 

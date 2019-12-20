@@ -29,10 +29,12 @@
 
 |*n*<sup>th</sup> copy|                                          Maindeck Card                                          |*n*<sup>th</sup> copy|                                         Sideboard Card                                          |
 |--------------------:|-------------------------------------------------------------------------------------------------|--------------------:|-------------------------------------------------------------------------------------------------|
-|                    3|[Grasp of Darkness](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407595)     |                    1|[Virulent Plague](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394739)       |
-|                    3|[Blood Baron of Vizkopa](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=433096)|                    1|[Blightbeetle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466841)          |
-|                     |                                                                                                 |                    1|[Cry of the Carnarium](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457214)  |
+|                    3|[Grasp of Darkness](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407595)     |                    1|[Settle the Wreckage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435186)   |
+|                    3|[Blood Baron of Vizkopa](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=433096)|                    2|[Settle the Wreckage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435186)   |
+|                     |                                                                                                 |                    1|[Virulent Plague](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394739)       |
+|                     |                                                                                                 |                    1|[Blightbeetle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466841)          |
 |                     |                                                                                                 |                    1|[Liliana, the Last Hope](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414388)|
+|                     |                                                                                                 |                    1|[Cry of the Carnarium](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457214)  |
 |                     |                                                                                                 |                    2|[Virulent Plague](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394739)       |
 |                     |                                                                                                 |                    3|[Dark Betrayal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373504)         |
 

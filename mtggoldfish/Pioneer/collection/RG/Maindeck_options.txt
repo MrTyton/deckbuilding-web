@@ -1,39 +1,72 @@
+1 Reckless Bushwhacker
+2 Zhur-Taa Goblin
+2 Experiment One
+2 Pelt Collector
+2 Atarka's Command
+2 Embercleave
+2 Reckless Bushwhacker
+2 Zurgo Bellstriker
+3 Pelt Collector
+3 Zhur-Taa Goblin
+3 Experiment One
+3 Atarka's Command
+3 Reckless Bushwhacker
+4 Experiment One
+4 Pelt Collector
+4 Zhur-Taa Goblin
+4 Atarka's Command
+4 Reckless Bushwhacker
+1 Sheltered Thicket
+1 Rekindling Phoenix
+1 Shifting Ceratops
+1 Xenagos, God of Revels
+1 Domri Rade
+1 Lava Coil
+2 Rekindling Phoenix
+2 Sheltered Thicket
+2 Shifting Ceratops
+3 Domri, Anarch of Bolas
+3 Rekindling Phoenix
+4 Rekindling Phoenix
+5 Mountain
+6 Mountain
+3 Questing Beast
+1 Gruul Spellbreaker
+1 Lovestruck Beast
 2 Gruul Spellbreaker
+2 Lovestruck Beast
 3 Lovestruck Beast
-1 Burning-Tree Emissary
-2 Burning-Tree Emissary
-3 Burning-Tree Emissary
-4 Burning-Tree Emissary
-1 Ghor-Clan Rampager
+1 Voltaic Brawler
+2 Voltaic Brawler
 1 Castle Garenbrig
 2 Castle Garenbrig
-1 Gilded Goose
+1 Ramunap Ruins
+1 Bomat Courier
+2 Ramunap Ruins
+2 Bomat Courier
 1 Mizzium Mortars
-2 Gilded Goose
 2 Mizzium Mortars
-3 Gilded Goose
-3 Sheltered Thicket
 3 Mizzium Mortars
-4 Mizzium Mortars
-4 Gilded Goose
-4 Domri, Anarch of Bolas
+3 Zurgo Bellstriker
+1 Chandra, Torch of Defiance
+2 Lava Coil
+3 Lava Coil
+4 Lava Coil
 1 Domri's Ambush
 1 Tireless Tracker
-1 Xenagos, the Reveler
 1 Abrade
+1 Xenagos, the Reveler
 2 Domri's Ambush
 2 Xenagos, the Reveler
 2 Abrade
 2 Tireless Tracker
 3 Gruul Spellbreaker
 3 Tireless Tracker
-4 Tireless Tracker
 4 Gruul Spellbreaker
+4 Tireless Tracker
 4 Questing Beast
-1 Become Immense
-1 Temur Battle Rage
-1 Voltaic Brawler
 1 Blossoming Defense
+1 Become Immense
 1 Collision/Colossus
 1 Aether Hub
 1 Longtusk Cub
@@ -41,17 +74,16 @@
 1 Electrostatic Pummeler
 1 Harnessed Lightning
 1 Bristling Hydra
-2 Become Immense
-2 Voltaic Brawler
+1 Temur Battle Rage
 2 Blossoming Defense
-2 Temur Battle Rage
-2 Collision/Colossus
+2 Become Immense
 2 Aether Hub
 2 Longtusk Cub
 2 Harnessed Lightning
+2 Collision/Colossus
 2 Electrostatic Pummeler
 2 Bristling Hydra
-2 Ghor-Clan Rampager
+2 Temur Battle Rage
 2 Attune with Aether
 3 Blossoming Defense
 3 Voltaic Brawler
@@ -59,7 +91,6 @@
 3 Temur Battle Rage
 3 Bristling Hydra
 3 Longtusk Cub
-3 Ghor-Clan Rampager
 3 Attune with Aether
 3 Electrostatic Pummeler
 3 Become Immense
@@ -69,32 +100,14 @@
 4 Aether Hub
 4 Electrostatic Pummeler
 4 Temur Battle Rage
-4 Ghor-Clan Rampager
 4 Longtusk Cub
 4 Bristling Hydra
 4 Attune with Aether
 4 Harnessed Lightning
-1 Hazoret the Fervent
-1 Once Upon a Time
-1 Smuggler's Copter
-1 Embercleave
-1 Goblin Rabblemaster
-2 Hazoret the Fervent
-2 Once Upon a Time
-2 Smuggler's Copter
-2 Embercleave
-2 Goblin Rabblemaster
-3 Chandra, Torch of Defiance
-3 Once Upon a Time
-3 Smuggler's Copter
-3 Goblin Rabblemaster
-4 Once Upon a Time
-4 Smuggler's Copter
-4 Goblin Rabblemaster
-1 Yorvo, Lord of Garenbrig
 1 Steel Leaf Champion
 1 Ghalta, Primal Hunger
 1 Surrak, the Hunt Caller
+1 Yorvo, Lord of Garenbrig
 1 Rhythm of the Wild
 1 The Great Henge
 2 Yorvo, Lord of Garenbrig
@@ -107,25 +120,26 @@
 3 Surrak, the Hunt Caller
 4 Lovestruck Beast
 4 Steel Leaf Champion
+1 Fabled Passage
 1 Sylvan Caryatid
 1 Arch of Orazca
 1 Hedron Archive
 1 Nissa, Vastwood Seer
 1 Emrakul, the Promised End
 1 Chandra, Flamecaller
-1 Ulamog, the Ceaseless Hunger
 1 Kozilek's Return
 1 Ishkanah, Grafwidow
 1 Dragonlord Atarka
 1 World Breaker
+1 Ulamog, the Ceaseless Hunger
 1 Nissa's Pilgrimage
 1 Shrine of the Forsaken Gods
 1 Grapple with the Past
-1 Fabled Passage
-1 Walking Ballista
 1 Vessel of Nascency
+1 Walking Ballista
 1 Cinder Glade
 1 Traverse the Ulvenwald
+2 Fabled Passage
 2 Sylvan Caryatid
 2 Kozilek's Return
 2 Traverse the Ulvenwald
@@ -140,23 +154,13 @@
 2 Dragonlord Atarka
 2 Shrine of the Forsaken Gods
 2 Walking Ballista
-2 Fabled Passage
 3 Sylvan Caryatid
 3 Kozilek's Return
-3 Traverse the Ulvenwald
 3 Vessel of Nascency
+3 Traverse the Ulvenwald
 3 Grapple with the Past
 3 Nissa's Pilgrimage
 4 Sylvan Caryatid
 4 Vessel of Nascency
 4 Grapple with the Past
 4 Nissa's Pilgrimage
-1 Xenagos, God of Revels
-1 Shifting Ceratops
-1 Domri Rade
-1 Lava Coil
-2 Shifting Ceratops
-2 Lava Coil
-3 Lava Coil
-4 Lava Coil
-6 Mountain
