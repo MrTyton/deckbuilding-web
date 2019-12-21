@@ -43,7 +43,7 @@
 |                     |                                                                                          |                    1|[Tidebinder Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438462)     |
 |                     |                                                                                          |                    2|[Tidebinder Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438462)     |
 |                     |                                                                                          |                    1|[Sorcerous Spyglass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435407)  |
-|                     |                                                                                          |                    1|[Covetous Urge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473169)       |
-|                     |                                                                                          |                    2|[Sorcerous Spyglass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435407)  |
 |                     |                                                                                          |                    2|[Covetous Urge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473169)       |
+|                     |                                                                                          |                    2|[Sorcerous Spyglass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435407)  |
+|                     |                                                                                          |                    1|[Covetous Urge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473169)       |
 

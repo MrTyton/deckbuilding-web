@@ -54,8 +54,8 @@
 1 Abrupt Decay
 1 Sylvan Caryatid
 2 Sylvan Caryatid
-3 Questing Beast
 3 Sylvan Caryatid
+3 Questing Beast
 4 Sylvan Caryatid
 3 Swamp
 1 Traverse the Ulvenwald
@@ -72,9 +72,9 @@
 1 Vessel of Nascency
 2 Vessel of Nascency
 3 Vessel of Nascency
-4 Questing Beast
-4 Vessel of Nascency
 4 Traverse the Ulvenwald
+4 Vessel of Nascency
+4 Questing Beast
 4 Murderous Rider
 1 Chromanticore
 1 Mana Confluence
@@ -89,9 +89,9 @@
 2 Deathrite Shaman
 1 Collective Brutality
 1 Grapple with the Past
+2 Chromanticore
 2 Collective Brutality
 2 Grapple with the Past
-2 Chromanticore
 3 Chromanticore
 1 Blossoming Defense
 1 Mutavault
@@ -135,6 +135,7 @@
 2 Gather the Pack
 3 Gather the Pack
 4 Gather the Pack
+1 Hissing Quagmire
 1 Tasigur, the Golden Fang
 1 Fabled Passage
 1 Sylvan Advocate
@@ -143,7 +144,6 @@
 1 Courser of Kruphix
 1 Tireless Tracker
 1 Liliana, the Last Hope
-1 Hissing Quagmire
 2 Field of Ruin
 2 Tasigur, the Golden Fang
 2 Fabled Passage
@@ -158,11 +158,11 @@
 3 Fabled Passage
 4 Sylvan Advocate
 4 Fabled Passage
-1 Satyr Wayfinder
 1 Blood Crypt
 1 Nightveil Predator
 1 Den Protector
 1 Glorybringer
+1 Satyr Wayfinder
 1 Samut, Voice of Dissent
 1 Bomat Courier
 1 Hazoret the Fervent
@@ -171,12 +171,12 @@
 2 Blood Crypt
 2 Samut, Voice of Dissent
 3 Satyr Wayfinder
-3 Blood Crypt
 3 Mana Confluence
+3 Blood Crypt
 3 Samut, Voice of Dissent
 3 Deathrite Shaman
-4 Deathrite Shaman
 4 Mana Confluence
+4 Deathrite Shaman
 4 Satyr Wayfinder
 1 Merfolk Branchwalker
 2 Castle Garenbrig

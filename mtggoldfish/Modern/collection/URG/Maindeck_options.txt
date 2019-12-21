@@ -12,14 +12,14 @@
 1 Fiery Islet
 2 Fiery Islet
 1 Mystical Dispute
-1 Force of Negation
 1 Spell Snare
+1 Force of Negation
 1 Mana Leak
 1 Ghost Quarter
 2 Mystical Dispute
-2 Force of Negation
 2 Mana Leak
 2 Spell Snare
+2 Force of Negation
 3 Force of Negation
 3 Snapcaster Mage
 1 Wooded Foothills
@@ -43,37 +43,11 @@
 2 Simian Spirit Guide
 2 Remand
 2 Pestermite
-3 Deceiver Exarch
 3 Simian Spirit Guide
+3 Deceiver Exarch
 3 Pestermite
 3 Kiki-Jiki, Mirror Breaker
 4 Simian Spirit Guide
-1 Time Warp
-1 Chandra, Torch of Defiance
-1 Castle Vantress
-1 Flooded Strand
-1 Fires of Invention
-1 Exhaustion
-1 Opt
-1 Mikokoro, Center of the Sea
-1 Polluted Delta
-1 Savor the Moment
-2 Chandra, Torch of Defiance
-2 Savor the Moment
-2 Castle Vantress
-2 Fires of Invention
-2 Jace, the Mind Sculptor
-2 Mystic Sanctuary
-2 Time Warp
-2 Polluted Delta
-3 Mystic Sanctuary
-3 Savor the Moment
-3 Time Warp
-3 Fires of Invention
-4 Time Warp
-4 Mystic Sanctuary
-4 Savor the Moment
-4 Fires of Invention
 2 Wooded Foothills
 3 Wooded Foothills
 4 Wooded Foothills
@@ -100,8 +74,8 @@
 2 Stomping Ground
 2 Skewer the Critics
 2 Spirebluff Canal
-2 Skullcrack
 2 Lava Spike
+2 Skullcrack
 3 Fiery Islet
 3 Monastery Swiftspear
 3 Goblin Guide
@@ -115,6 +89,7 @@
 4 Monastery Swiftspear
 4 Mishra's Bauble
 4 Lava Spike
+1 Time Warp
 1 Walking Ballista
 1 Emrakul, the Aeons Torn
 1 Arbor Elf
@@ -148,10 +123,10 @@
 2 Forest
 2 Castle Garenbrig
 2 Overgrowth
+2 Primal Command
 2 Garruk Wildspeaker
 2 Birds of Paradise
 2 Kiora's Follower
-2 Primal Command
 3 Breeding Pool
 3 Utopia Sprawl
 3 Arbor Elf
@@ -165,3 +140,28 @@
 4 Utopia Sprawl
 4 Forest
 4 Overgrowth
+1 Chandra, Torch of Defiance
+1 Castle Vantress
+1 Flooded Strand
+1 Fires of Invention
+1 Exhaustion
+1 Opt
+1 Polluted Delta
+1 Savor the Moment
+1 Mikokoro, Center of the Sea
+2 Chandra, Torch of Defiance
+2 Savor the Moment
+2 Castle Vantress
+2 Fires of Invention
+2 Jace, the Mind Sculptor
+2 Mystic Sanctuary
+2 Time Warp
+2 Polluted Delta
+3 Time Warp
+3 Mystic Sanctuary
+3 Savor the Moment
+3 Fires of Invention
+4 Time Warp
+4 Savor the Moment
+4 Fires of Invention
+4 Mystic Sanctuary

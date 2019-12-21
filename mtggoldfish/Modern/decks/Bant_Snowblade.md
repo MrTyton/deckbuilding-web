@@ -83,8 +83,8 @@
 |                     |                                                                                               |                    2|[Gaddock Teeg](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=140188)             |
 |                     |                                                                                               |                    1|[Deputy of Detention](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457309)      |
 |                     |                                                                                               |                    3|[Ashiok, Dream Render](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461155)     |
-|                     |                                                                                               |                    2|[Kataki, War's Wage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382190)       |
 |                     |                                                                                               |                    2|[Detention Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460139)         |
 |                     |                                                                                               |                    2|[Condemn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=130528)                  |
+|                     |                                                                                               |                    2|[Kataki, War's Wage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382190)       |
 |                     |                                                                                               |                    3|[Condemn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=130528)                  |
 

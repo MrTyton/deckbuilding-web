@@ -38,10 +38,10 @@
 1 Dragonlord Silumgar
 2 Silumgar's Scorn
 2 Dragonlord Ojutai
-3 Dragonlord Ojutai
 3 Silumgar's Scorn
-4 Dragonlord Ojutai
+3 Dragonlord Ojutai
 4 Silumgar's Scorn
+4 Dragonlord Ojutai
 1 Censor
 2 Censor
 3 Censor
@@ -243,21 +243,31 @@
 1 Blighted Fen
 1 Archangel Avacyn
 1 Lyra Dawnbringer
+2 Mortify
 2 Grasp of Darkness
 2 Archangel Avacyn
-2 Ifnir Deadlands
 2 Transgress the Mind
+2 Ifnir Deadlands
 2 Westvale Abbey
 2 Duress
 2 Sorin, Grim Nemesis
 2 Ob Nixilis Reignited
-2 Mortify
 2 Blighted Fen
 3 Grasp of Darkness
 3 Transgress the Mind
 3 Ob Nixilis Reignited
 4 Murderous Rider
 4 Grasp of Darkness
+1 Harnessed Lightning
+1 Goblin Dark-Dwellers
+1 Glint-Sleeve Siphoner
+2 Harnessed Lightning
+2 Glint-Sleeve Siphoner
+3 Harnessed Lightning
+3 Glint-Sleeve Siphoner
+3 Canyon Slough
+4 Harnessed Lightning
+4 Glint-Sleeve Siphoner
 1 Den Protector
 1 Sylvan Advocate
 1 Lost Legacy
@@ -284,16 +294,6 @@
 3 Fires of Invention
 3 The Scarab God
 4 Fires of Invention
-1 Harnessed Lightning
-1 Goblin Dark-Dwellers
-1 Glint-Sleeve Siphoner
-2 Harnessed Lightning
-2 Glint-Sleeve Siphoner
-3 Harnessed Lightning
-3 Glint-Sleeve Siphoner
-3 Canyon Slough
-4 Harnessed Lightning
-4 Glint-Sleeve Siphoner
 1 Gideon Blackblade
 1 Gideon of the Trials
 1 Gideon's Triumph
@@ -334,16 +334,16 @@
 3 Stomping Ground
 3 Lumbering Falls
 4 Expansion / Explosion
+1 Nicol Bolas, the Ravager
 1 Disdainful Stroke
 1 Wandering Fumarole
-1 Nicol Bolas, the Ravager
-2 Disdainful Stroke
 2 Nicol Bolas, the Ravager
+2 Disdainful Stroke
 2 Wandering Fumarole
 3 Nicol Bolas, the Ravager
+4 Nicol Bolas, the Ravager
 4 Jace, Vryn's Prodigy
 4 Opt
-4 Nicol Bolas, the Ravager
 1 Tyrant's Scorn
 1 Vraska, Golgari Queen
 1 Unmoored Ego
@@ -377,11 +377,11 @@
 1 Nissa's Renewal
 1 Bontu's Last Reckoning
 1 Mastermind's Acquisition
-1 Ugin, the Spirit Dragon
 1 Temple of Malady
 1 Sign in Blood
 1 Gaze of Granite
 1 Nissa's Pilgrimage
+1 Ugin, the Spirit Dragon
 2 Temple of Malady
 2 Nissa's Pilgrimage
 3 Temple of Malady
@@ -391,10 +391,10 @@
 7 Forest
 1 Always Watching
 1 Blind Obedience
-1 Quarantine Field
-1 Walking Ballista
-1 Thraben Inspector
 1 Dawn of Hope
+1 Quarantine Field
+1 Thraben Inspector
+1 Walking Ballista
 1 Legion's Landing
 1 Mastery of the Unseen
 1 Nykthos, Shrine to Nyx
@@ -414,8 +414,8 @@
 2 Arcanist's Owl
 2 Knight of the White Orchid
 2 Walking Ballista
-3 Castle Ardenvale
 3 Thraben Inspector
+3 Castle Ardenvale
 3 Gideon's Intervention
 3 Nykthos, Shrine to Nyx
 3 Arcanist's Owl
@@ -467,9 +467,9 @@
 3 Magma Spray
 3 Sarkhan, Fireblood
 3 Haven of the Spirit Dragon
-4 Castle Embereth
 4 Thunderbreak Regent
 4 Anger of the Gods
+4 Castle Embereth
 4 Magma Spray
 4 Draconic Roar
 4 Sarkhan, Fireblood

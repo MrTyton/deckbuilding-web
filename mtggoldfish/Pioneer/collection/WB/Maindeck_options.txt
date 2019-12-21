@@ -32,11 +32,11 @@
 2 Gideon Blackblade
 1 Doom Foretold
 1 Temple of Silence
-2 Doom Foretold
 2 Oath of Kaya
+2 Doom Foretold
 2 Temple of Silence
-3 Doom Foretold
 3 Temple of Silence
+3 Doom Foretold
 4 Doom Foretold
 3 Shambling Vent
 1 Thought-Knot Seer
@@ -61,69 +61,48 @@
 2 Aethersphere Harvester
 2 Ayli, Eternal Pilgrim
 3 Ayli, Eternal Pilgrim
-1 Obzedat, Ghost Council
-1 Graveyard Marshal
-1 Scrapheap Scrounger
-1 Rankle, Master of Pranks
-1 Brimaz, King of Oreskos
-1 Ruin Raider
-1 Ravenous Chupacabra
-2 Obzedat, Ghost Council
-2 Graveyard Marshal
-2 Scrapheap Scrounger
-2 Rankle, Master of Pranks
-2 Ruin Raider
-2 Ravenous Chupacabra
-2 Brimaz, King of Oreskos
-3 Graveyard Marshal
-3 Rankle, Master of Pranks
-3 Scrapheap Scrounger
-3 Brimaz, King of Oreskos
-4 Graveyard Marshal
-4 Scrapheap Scrounger
-4 Shambling Vent
-1 Aether Hub
-1 Reality Smasher
-1 Legion's End
-1 Despise
-1 Noxious Grasp
-1 Collective Brutality
-1 Blast Zone
-1 Gurmag Angler
-2 Aether Hub
-2 Glint-Sleeve Siphoner
-2 Collective Brutality
-2 Reality Smasher
-2 Legion's End
-2 Despise
-2 Gurmag Angler
-2 Ifnir Deadlands
-3 Gideon Blackblade
-3 Aether Hub
-3 Glint-Sleeve Siphoner
-3 Thought-Knot Seer
-3 Collective Brutality
-3 Reality Smasher
-4 Glint-Sleeve Siphoner
-4 Thought-Knot Seer
-1 Cavalier of Dawn
 1 Liliana, Dreadhorde General
+1 Cavalier of Dawn
 1 Gonti, Lord of Luxury
+1 Yarok's Fenlurker
 1 Realm-Cloaked Giant
 1 Burglar Rat
 1 Charming Prince
 1 Doomfall
-1 Yarok's Fenlurker
-2 Cavalier of Dawn
 2 Gonti, Lord of Luxury
+2 Yarok's Fenlurker
+2 Cavalier of Dawn
 2 Burglar Rat
 2 Charming Prince
-2 Yarok's Fenlurker
 3 Oath of Kaya
 3 Burglar Rat
 3 Charming Prince
 3 Yarok's Fenlurker
 4 Yarok's Fenlurker
+1 Despise
+1 Reality Smasher
+1 Legion's End
+1 Aether Hub
+1 Noxious Grasp
+1 Collective Brutality
+1 Blast Zone
+1 Gurmag Angler
+2 Despise
+2 Collective Brutality
+2 Reality Smasher
+2 Legion's End
+2 Gurmag Angler
+2 Ifnir Deadlands
+2 Glint-Sleeve Siphoner
+2 Aether Hub
+3 Thought-Knot Seer
+3 Collective Brutality
+3 Gideon Blackblade
+3 Glint-Sleeve Siphoner
+3 Aether Hub
+3 Reality Smasher
+4 Thought-Knot Seer
+4 Glint-Sleeve Siphoner
 1 Gideon's Triumph
 1 Blood Baron of Vizkopa
 2 Gideon's Triumph
@@ -136,8 +115,28 @@
 4 Fabled Passage
 4 Field of Ruin
 4 Gideon of the Trials
+1 Obzedat, Ghost Council
+1 Graveyard Marshal
+1 Rankle, Master of Pranks
+1 Brimaz, King of Oreskos
+1 Scrapheap Scrounger
+1 Ruin Raider
+1 Ravenous Chupacabra
+2 Obzedat, Ghost Council
+2 Graveyard Marshal
+2 Rankle, Master of Pranks
+2 Ruin Raider
+2 Scrapheap Scrounger
+2 Ravenous Chupacabra
+2 Brimaz, King of Oreskos
+3 Graveyard Marshal
+3 Scrapheap Scrounger
+3 Rankle, Master of Pranks
+3 Brimaz, King of Oreskos
+4 Graveyard Marshal
+4 Shambling Vent
+4 Scrapheap Scrounger
 1 Legion's Landing
-1 Knight of the Ebon Legion
 1 Twilight Prophet
 1 Skymarcher Aspirant
 1 Drana, Liberator of Malakir
@@ -145,47 +144,48 @@
 1 Legion Lieutenant
 1 Sorin, Imperious Bloodlord
 1 Champion of Dusk
+1 Knight of the Ebon Legion
 1 Adanto Vanguard
-2 Knight of the Ebon Legion
 2 Champion of Dusk
 2 Twilight Prophet
-2 Urborg, Tomb of Yawgmoth
 2 Sadistic Skymarcher
+2 Sorin, Imperious Bloodlord
+2 Adanto Vanguard
 2 Legion Lieutenant
 2 Skymarcher Aspirant
-2 Sorin, Imperious Bloodlord
 2 Drana, Liberator of Malakir
-2 Adanto Vanguard
+2 Urborg, Tomb of Yawgmoth
 2 Legion's Landing
+2 Knight of the Ebon Legion
 3 Unclaimed Territory
-3 Knight of the Ebon Legion
 3 Legion's Landing
-3 Sorin, Imperious Bloodlord
 3 Legion Lieutenant
 3 Champion of Dusk
 3 Sadistic Skymarcher
+3 Knight of the Ebon Legion
+3 Sorin, Imperious Bloodlord
 3 Skymarcher Aspirant
 3 Adanto Vanguard
-4 Knight of the Ebon Legion
 4 Legion Lieutenant
 4 Sadistic Skymarcher
+4 Knight of the Ebon Legion
 4 Skymarcher Aspirant
 4 Adanto Vanguard
+1 Nykthos, Shrine to Nyx
 1 Despark
 1 Final Payment
 1 Underworld Connections
 1 Trial of Ambition
 1 Golden Egg
 1 Demonic Pact
-1 Nykthos, Shrine to Nyx
 1 Starfield of Nyx
 1 Terrarion
 2 Despark
+2 Golden Egg
 2 Trial of Ambition
 2 Final Payment
 2 Demonic Pact
 2 Starfield of Nyx
-2 Golden Egg
 2 Terrarion
 3 Castle Locthwain
 3 Terrarion
@@ -195,29 +195,29 @@
 4 Terrarion
 1 Silkwrap
 1 Kitesail Freebooter
-1 Baffling End
-1 Eldrazi Displacer
-1 Fairgrounds Warden
 1 Brain Maggot
+1 Baffling End
+1 Fairgrounds Warden
 1 Bearer of Silence
+1 Eldrazi Displacer
 1 Shefet Dunes
 1 Wasteland Strangler
 2 Eldrazi Displacer
 2 Kitesail Freebooter
 2 Baffling End
+2 Brain Maggot
 2 Bearer of Silence
 2 Fairgrounds Warden
-2 Brain Maggot
 2 Wasteland Strangler
 3 Brain Maggot
 3 Bearer of Silence
 3 Wasteland Strangler
 3 Eldrazi Displacer
-4 Mutavault
 4 Wasteland Strangler
 4 Bearer of Silence
 4 Eldrazi Displacer
 4 Brain Maggot
+4 Mutavault
 1 Transgress the Mind
 1 Sorin, Grim Nemesis
 1 Blessed Alliance
@@ -229,6 +229,6 @@
 3 Read the Bones
 5 Plains
 6 Plains
-7 Swamp
 8 Swamp
 9 Swamp
+7 Swamp
