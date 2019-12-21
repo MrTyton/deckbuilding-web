@@ -1,35 +1,22 @@
 1 Lightning Bolt
 2 Lightning Bolt
-1 Through the Breach
-2 Cinder Glade
-2 Through the Breach
-3 Valakut, the Molten Pinnacle
-3 Cinder Glade
-3 Through the Breach
-4 Mountain
-4 Through the Breach
-4 Valakut, the Molten Pinnacle
-5 Mountain
-6 Mountain
-7 Mountain
 1 Bonecrusher Giant
 2 Forest
 3 Forest
 1 Bloodbraid Elf
 3 Lightning Bolt
 4 Lightning Bolt
-2 Bonecrusher Giant
-1 Chandra, Torch of Defiance
 2 Bloodbraid Elf
 3 Bloodbraid Elf
 4 Bloodbraid Elf
+2 Bonecrusher Giant
 1 Seasoned Pyromancer
 1 Scavenging Ooze
 1 Magus of the Moon
-2 Misty Rainforest
 2 Seasoned Pyromancer
 2 Windswept Heath
 2 Magus of the Moon
+2 Misty Rainforest
 1 Tarmogoyf
 1 Noble Hierarch
 1 Horizon Canopy
@@ -44,54 +31,31 @@
 1 Wrenn and Six
 2 Copperline Gorge
 2 Wrenn and Six
-1 Arid Mesa
-2 Arid Mesa
-3 Arid Mesa
-1 Life from the Loam
-1 Birds of Paradise
-1 Tireless Tracker
-1 Tranquil Thicket
-1 Forgotten Cave
-1 Bloodstained Mire
-1 Seismic Assault
-1 Field of Ruin
-1 Countryside Crusher
-2 Tireless Tracker
-2 Tranquil Thicket
-2 Countryside Crusher
-2 Forgotten Cave
-2 Field of Ruin
-2 Life from the Loam
-2 Birds of Paradise
-2 Snow-Covered Forest
-2 Seismic Assault
-3 Copperline Gorge
-3 Snow-Covered Forest
-3 Tireless Tracker
-3 Countryside Crusher
-3 Birds of Paradise
-3 Wrenn and Six
-3 Forgotten Cave
-3 Life from the Loam
-3 Seismic Assault
-4 Copperline Gorge
-4 Wrenn and Six
-4 Birds of Paradise
-4 Countryside Crusher
-4 Forgotten Cave
-4 Seismic Assault
-4 Life from the Loam
-4 Tireless Tracker
+2 Scapeshift
+3 Scapeshift
 1 Hexdrinker
 1 Pillage
 1 Fulminator Mage
-1 Kitchen Finks
 2 Hexdrinker
 2 Fulminator Mage
 2 Pillage
 3 Pillage
 3 Bonecrusher Giant
 4 Pillage
+1 Chandra, Torch of Defiance
+2 Cinder Glade
+3 Valakut, the Molten Pinnacle
+3 Cinder Glade
+3 Through the Breach
+4 Mountain
+4 Through the Breach
+4 Valakut, the Molten Pinnacle
+5 Mountain
+6 Mountain
+7 Mountain
+3 Seasoned Pyromancer
+3 Wrenn and Six
+1 Kitchen Finks
 1 Summoning Trap
 1 Relic of Progenitus
 1 Explore
@@ -105,6 +69,43 @@
 2 Emrakul, the Aeons Torn
 3 Explore
 4 Explore
+1 Arid Mesa
+2 Arid Mesa
+3 Arid Mesa
+1 Life from the Loam
+1 Birds of Paradise
+1 Tireless Tracker
+1 Tranquil Thicket
+1 Forgotten Cave
+1 Bloodstained Mire
+1 Seismic Assault
+1 Field of Ruin
+1 Countryside Crusher
+2 Snow-Covered Forest
+2 Field of Ruin
+2 Tireless Tracker
+2 Tranquil Thicket
+2 Countryside Crusher
+2 Birds of Paradise
+2 Forgotten Cave
+2 Life from the Loam
+2 Seismic Assault
+3 Copperline Gorge
+3 Snow-Covered Forest
+3 Tireless Tracker
+3 Countryside Crusher
+3 Birds of Paradise
+3 Life from the Loam
+3 Forgotten Cave
+3 Seismic Assault
+4 Copperline Gorge
+4 Wrenn and Six
+4 Birds of Paradise
+4 Countryside Crusher
+4 Forgotten Cave
+4 Seismic Assault
+4 Life from the Loam
+4 Tireless Tracker
 1 Tarfire
 1 Become Immense
 1 Temur Battle Rage
@@ -148,16 +149,15 @@
 2 Arbor Elf
 2 Glorybringer
 3 Magus of the Moon
-3 Seasoned Pyromancer
 3 Gruul Spellbreaker
 3 Glorybringer
 3 Arbor Elf
 3 Utopia Sprawl
 4 Magus of the Moon
+4 Forest
 4 Glorybringer
 4 Utopia Sprawl
 4 Arbor Elf
-4 Forest
 4 Gruul Spellbreaker
 5 Forest
 6 Forest

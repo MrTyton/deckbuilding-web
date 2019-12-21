@@ -11,16 +11,17 @@
 1 Shock
 2 Shock
 16 Mountain
-1 Bonecrusher Giant
 1 Experimental Frenzy
 1 Runaway Steam-Kin
 2 Runaway Steam-Kin
-1 Skewer the Critics
-2 Bonecrusher Giant
+1 Bonecrusher Giant
 2 Experimental Frenzy
 3 Runaway Steam-Kin
 4 Runaway Steam-Kin
+2 Bonecrusher Giant
 3 Experimental Frenzy
+1 Skewer the Critics
+4 Experimental Frenzy
 1 Torbran, Thane of Red Fell
 1 Mutavault
 1 Hanweir Garrison
@@ -31,8 +32,8 @@
 1 Chandra, Torch of Defiance
 1 Hanweir Battlements
 2 Hanweir Garrison
-2 Kari Zev, Skyship Raider
 2 Torbran, Thane of Red Fell
+2 Kari Zev, Skyship Raider
 2 Goblin Rabblemaster
 2 Chandra, Torch of Defiance
 2 Mutavault
@@ -47,7 +48,6 @@
 1 Goblin Chainwhirler
 2 Goblin Chainwhirler
 3 Goblin Chainwhirler
-4 Experimental Frenzy
 4 Goblin Chainwhirler
 17 Mountain
 1 Titan's Strength
@@ -83,8 +83,8 @@
 3 Blistercoil Weird
 4 Blistercoil Weird
 1 Legion Warboss
-2 Embercleave
 2 Legion Warboss
+2 Embercleave
 3 Mutavault
 3 Hanweir Battlements
 4 Mutavault

@@ -1,7 +1,7 @@
-2 Blade Splicer
 4 Thalia, Guardian of Thraben
 1 Charming Prince
 2 Charming Prince
+3 Silent Clearing
 3 Plains
 1 Snow-Covered Plains
 1 Restoration Angel
@@ -25,9 +25,9 @@
 4 Blade Splicer
 4 Plains
 1 Sunbaked Canyon
-1 Tectonic Edge
 1 Eiganjo Castle
 1 Ranger-Captain of Eos
+1 Tectonic Edge
 2 Tectonic Edge
 3 Tectonic Edge
 4 Tectonic Edge
@@ -39,14 +39,9 @@
 10 Plains
 11 Plains
 1 Thalia, Heretic Cathar
-1 Sword of Fire and Ice
-1 Stoneforge Mystic
-1 Batterskull
-2 Stoneforge Mystic
-3 Stoneforge Mystic
-1 Horizon Canopy
 2 Thraben Inspector
 8 Snow-Covered Plains
+1 Horizon Canopy
 1 Wastes
 1 Phyrexian Revoker
 1 Selfless Spirit
@@ -56,8 +51,13 @@
 1 Godless Shrine
 1 Spellskite
 2 Phyrexian Revoker
+1 Sword of Fire and Ice
+1 Stoneforge Mystic
+1 Batterskull
 1 Flagstones of Trokair
+2 Stoneforge Mystic
 2 Horizon Canopy
+3 Stoneforge Mystic
 1 Geier Reach Sanitarium
 1 Spell Queller
 1 Deputy of Detention
@@ -84,8 +84,6 @@
 3 Geist of Saint Traft
 4 Spell Queller
 4 Seachrome Coast
-1 Sword of Feast and Famine
-4 Silent Clearing
 1 Blast Zone
 1 Winds of Abandon
 1 Chalice of the Void

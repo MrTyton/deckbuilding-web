@@ -1,15 +1,15 @@
-3 Seachrome Coast
-4 Seachrome Coast
-1 Forest
 1 Temple Garden
 1 Windswept Heath
+1 Horizon Canopy
 2 Waterlogged Grove
-1 Giver of Runes
-2 Giver of Runes
 1 Snow-Covered Plains
 1 Snow-Covered Island
+3 Seachrome Coast
+4 Seachrome Coast
 2 Moorland Haunt
 4 Path to Exile
+1 Giver of Runes
+2 Giver of Runes
 1 Thalia, Guardian of Thraben
 2 Thalia, Guardian of Thraben
 3 Thalia, Guardian of Thraben
@@ -21,12 +21,8 @@
 3 Selfless Spirit
 2 Botanical Sanctum
 2 Horizon Canopy
-2 Island
 2 Cavern of Souls
-4 Unsettled Mariner
-1 Brazen Borrower
-1 Mutavault
-2 Plains
+2 Island
 3 Deputy of Detention
 1 Birds of Paradise
 3 Botanical Sanctum
@@ -34,18 +30,17 @@
 4 Misty Rainforest
 2 Phantasmal Image
 1 Remorseful Cleric
-1 Kira, Great Glass-Spinner
-3 Giver of Runes
+4 Unsettled Mariner
 3 Hallowed Fountain
-1 Teferi, Time Raveler
+1 Brazen Borrower
+1 Mutavault
 1 Field of Ruin
+1 Ghost Quarter
 2 Snow-Covered Island
 2 Snow-Covered Plains
-1 Ghost Quarter
-2 Mutavault
 1 Spell Pierce
+2 Plains
 1 Steel of the Godhead
-3 Island
 1 Godless Shrine
 1 Watery Grave
 1 Polluted Delta
@@ -56,35 +51,18 @@
 1 Gavony Township
 1 Hanged Executioner
 1 Reflector Mage
+1 Kira, Great Glass-Spinner
 2 Breeding Pool
 3 Breeding Pool
-1 Batterskull
-1 Sword of Light and Shadow
-1 Stoneforge Mystic
-2 Stoneforge Mystic
-3 Stoneforge Mystic
+3 Giver of Runes
 4 Thalia, Guardian of Thraben
+1 Teferi, Time Raveler
 2 Teferi, Time Raveler
 3 Snow-Covered Plains
 3 Snow-Covered Island
 4 Hallowed Fountain
 3 Windswept Heath
 4 Botanical Sanctum
-1 Empyrean Eagle
-1 Force of Virtue
-1 Marsh Flats
-1 Smuggler's Copter
-1 Squadron Hawk
-2 Empyrean Eagle
-2 Marsh Flats
-2 Force of Virtue
-2 Squadron Hawk
-3 Force of Virtue
-3 Empyrean Eagle
-3 Squadron Hawk
-4 Force of Virtue
-4 Empyrean Eagle
-4 Squadron Hawk
 1 Thoughtseize
 1 Inquisition of Kozilek
 1 Swamp
@@ -120,7 +98,24 @@
 3 Geist of Saint Traft
 3 Prismatic Vista
 3 Disrupting Shoal
+3 Island
 3 Tallowisp
 4 Island
-4 Tallowisp
 4 Geist of Saint Traft
+4 Tallowisp
+1 Empyrean Eagle
+1 Squadron Hawk
+1 Force of Virtue
+1 Marsh Flats
+1 Smuggler's Copter
+2 Empyrean Eagle
+2 Marsh Flats
+2 Squadron Hawk
+2 Mutavault
+2 Force of Virtue
+3 Squadron Hawk
+3 Force of Virtue
+3 Empyrean Eagle
+4 Squadron Hawk
+4 Empyrean Eagle
+4 Force of Virtue

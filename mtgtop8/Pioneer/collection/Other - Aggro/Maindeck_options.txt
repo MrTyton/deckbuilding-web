@@ -1,33 +1,33 @@
+1 Narcomoeba
+1 Creeping Chill
 1 Haunted Dead
 1 Stitcher's Supplier
-1 Prized Amalgam
-1 Gurmag Angler
 1 Driven / Despair
 2 Gather the Pack
-2 Satyr Wayfinder
 2 Gurmag Angler
+2 Satyr Wayfinder
 2 Creeping Chill
 2 Narcomoeba
+2 Prized Amalgam
 2 Driven / Despair
 2 Haunted Dead
-2 Prized Amalgam
 2 Stitcher's Supplier
 3 Grisly Salvage
 3 Gather the Pack
 3 Satyr Wayfinder
+3 Narcomoeba
+3 Creeping Chill
+3 Prized Amalgam
 3 Haunted Dead
 3 Stitcher's Supplier
-3 Prized Amalgam
 3 Driven / Despair
 3 Gurmag Angler
-3 Creeping Chill
-3 Narcomoeba
 4 Grisly Salvage
 4 Gather the Pack
-4 Stitcher's Supplier
 4 Prized Amalgam
-4 Narcomoeba
 4 Creeping Chill
+4 Narcomoeba
+4 Stitcher's Supplier
 2 Assassin's Trophy
 2 Courser of Kruphix
 3 Fabled Passage
@@ -83,18 +83,18 @@
 1 Gifted Aetherborn
 1 Concealed Courtyard
 1 Mutavault
-1 Champion of Dusk
-1 Sorin, Imperious Bloodlord
 1 Dusk Legion Zealot
+1 Sorin, Imperious Bloodlord
+1 Champion of Dusk
 1 Grasp of Darkness
 1 Blood Baron of Vizkopa
 1 Caves of Koilos
 1 Knight of the Ebon Legion
 1 Godless Shrine
 2 Gifted Aetherborn
+2 Champion of Dusk
 2 Sorin, Imperious Bloodlord
 2 Mutavault
-2 Champion of Dusk
 2 Castle Locthwain
 2 Concealed Courtyard
 2 Dusk Legion Zealot
@@ -102,8 +102,8 @@
 2 Knight of the Ebon Legion
 2 Godless Shrine
 3 Gifted Aetherborn
-3 Champion of Dusk
 3 Sorin, Imperious Bloodlord
+3 Champion of Dusk
 3 Concealed Courtyard
 3 Godless Shrine
 3 Castle Locthwain
@@ -211,12 +211,12 @@
 1 Plains
 2 Plains
 1 Canopy Vista
-1 Wastes
 1 Prairie Stream
+1 Wastes
+1 Eldrazi Displacer
 1 Reflector Mage
 1 Declaration in Stone
 1 Charming Prince
-1 Eldrazi Displacer
 1 Knight of Autumn
 1 Teferi, Time Raveler
 1 Militia Bugler
@@ -302,8 +302,8 @@
 1 Mountain
 2 Mountain
 1 Gird for Battle
-1 Boros Charm
 1 Battlefield Forge
+1 Boros Charm
 1 Titan's Strength
 1 Clifftop Retreat
 1 Inspiring Vantage

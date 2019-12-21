@@ -36,7 +36,6 @@
 1 Sea Gate Wreckage
 1 Mobilized District
 1 Karn, Scion of Urza
-1 Warping Wail
 1 Mutavault
 1 Wastes
 1 Spatial Contortion
@@ -44,6 +43,7 @@
 1 Ratchet Bomb
 1 Stonecoil Serpent
 1 Blast Zone
+1 Warping Wail
 1 Zhalfirin Void
 1 Foundry of the Consuls
 1 Fountain of Renewal
@@ -56,13 +56,13 @@
 2 Walking Ballista
 2 Spatial Contortion
 2 Ratchet Bomb
-2 Karn, Scion of Urza
 2 Stonecoil Serpent
 2 Karn, the Great Creator
 2 Scrap Trawler
 2 Warping Wail
 2 Zhalfirin Void
 2 Fountain of Renewal
+2 Karn, Scion of Urza
 2 Mobilized District
 3 Shrine of the Forsaken Gods
 3 Blast Zone
@@ -190,14 +190,14 @@
 5 Plains
 1 Drown in the Loch
 1 Sunken Hollow
+1 Unsummon
 1 Drowned Catacomb
 1 Fabled Passage
 1 Engulf the Shore
-1 Spell Pierce
 1 Notion Thief
+1 Spell Pierce
 1 Cyclonic Rift
 1 Brazen Borrower
-1 Unsummon
 1 Fatal Push
 1 Swamp
 1 Watery Grave

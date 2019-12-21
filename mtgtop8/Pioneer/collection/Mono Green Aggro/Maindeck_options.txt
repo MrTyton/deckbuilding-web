@@ -70,8 +70,8 @@
 2 Surrak, the Hunt Caller
 3 Ghalta, Primal Hunger
 3 Surrak, the Hunt Caller
-3 The Great Henge
 3 Castle Garenbrig
+3 The Great Henge
 4 Castle Garenbrig
 1 Blossoming Defense
 1 Hashep Oasis
@@ -83,12 +83,12 @@
 1 Nylea, God of the Hunt
 1 Vivien, Champion of the Wilds
 2 Vivien, Champion of the Wilds
-1 Reclamation Sage
-2 Reclamation Sage
 1 Heart of Kiran
 1 Yavimaya Coast
 2 Yavimaya Coast
 2 Heart of Kiran
+1 Reclamation Sage
+2 Reclamation Sage
 1 Paradise Druid
 1 Nullhide Ferox
 1 Polukranos, World Eater
@@ -98,6 +98,12 @@
 3 Questing Beast
 3 Nullhide Ferox
 3 Paradise Druid
+1 Biogenic Ooze
+1 Courser of Kruphix
+2 Biogenic Ooze
+2 Courser of Kruphix
+3 Courser of Kruphix
+4 Courser of Kruphix
 1 Lovestruck Beast
 1 Westvale Abbey
 1 Yorvo, Lord of Garenbrig
@@ -110,12 +116,6 @@
 4 The Great Henge
 4 Ghalta, Primal Hunger
 4 Lovestruck Beast
-1 Biogenic Ooze
-1 Courser of Kruphix
-2 Biogenic Ooze
-2 Courser of Kruphix
-3 Courser of Kruphix
-4 Courser of Kruphix
 1 Skysovereign, Consul Flagship
 3 Sylvan Caryatid
 17 Forest
@@ -135,16 +135,16 @@
 3 Blossoming Defense
 3 Avatar of the Resolute
 3 Wildborn Preserver
-3 Barkhide Troll
 3 Dryad Militant
+3 Barkhide Troll
 3 Experiment One
 3 Hashep Oasis
 3 Pelt Collector
 4 Pelt Collector
 4 Wildborn Preserver
-4 Barkhide Troll
-4 Dryad Militant
 4 Avatar of the Resolute
+4 Dryad Militant
+4 Barkhide Troll
 4 Blossoming Defense
 4 Experiment One
 4 Hashep Oasis

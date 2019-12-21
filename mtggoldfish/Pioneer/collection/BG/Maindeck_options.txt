@@ -7,7 +7,6 @@
 4 Blooming Marsh
 4 Collected Company
 7 Forest
-1 Llanowar Elves
 1 Temur Sabertooth
 1 Nykthos, Shrine to Nyx
 1 Elvish Mystic
@@ -17,6 +16,7 @@
 1 Elvish Clancaller
 1 Dwynen's Elite
 1 Shaman of the Pack
+1 Llanowar Elves
 2 Nykthos, Shrine to Nyx
 2 Mutavault
 2 Shaman of the Pack
@@ -59,23 +59,23 @@
 2 Steel Leaf Champion
 2 Yorvo, Lord of Garenbrig
 2 Rishkar, Peema Renegade
-2 Avatar of the Resolute
 2 Experiment One
+2 Avatar of the Resolute
 2 Pelt Collector
+2 Walking Ballista
 2 Winding Constrictor
 2 Hardened Scales
-2 Walking Ballista
 3 Yorvo, Lord of Garenbrig
-3 Avatar of the Resolute
 3 Pelt Collector
+3 Avatar of the Resolute
 3 Experiment One
 3 Walking Ballista
 3 Winding Constrictor
 3 Llanowar Wastes
 3 Hardened Scales
-4 Avatar of the Resolute
-4 Experiment One
 4 Pelt Collector
+4 Experiment One
+4 Avatar of the Resolute
 4 Hardened Scales
 4 Winding Constrictor
 4 Walking Ballista
@@ -83,8 +83,6 @@
 1 Dark Petition
 1 Lost Legacy
 1 Pulse of Murasa
-1 Kalitas, Traitor of Ghet
-1 Grasp of Darkness
 1 Hero's Downfall
 1 Den Protector
 1 Cry of the Carnarium
@@ -92,7 +90,9 @@
 1 Languish
 1 Sylvan Advocate
 1 Fabled Passage
+1 Grasp of Darkness
 1 Seasons Past
+1 Kalitas, Traitor of Ghet
 1 Hissing Quagmire
 1 Assassin's Trophy
 2 Field of Ruin
@@ -105,12 +105,12 @@
 2 Hissing Quagmire
 2 Fabled Passage
 3 Field of Ruin
-3 Tireless Tracker
 3 Fatal Push
 3 Hissing Quagmire
 3 Thoughtseize
 3 Sylvan Advocate
 3 Dark Petition
+3 Tireless Tracker
 4 Thoughtseize
 4 Sylvan Advocate
 5 Swamp

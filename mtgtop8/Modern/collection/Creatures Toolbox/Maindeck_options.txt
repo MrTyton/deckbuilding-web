@@ -10,8 +10,8 @@
 2 Gilded Goose
 3 Horizon Canopy
 1 Postmortem Lunge
-1 Verdant Catacombs
 1 Overgrown Tomb
+1 Verdant Catacombs
 2 Verdant Catacombs
 3 Birds of Paradise
 1 Chord of Calling
@@ -95,9 +95,6 @@
 2 Khalni Garden
 3 Khalni Garden
 3 Teferi, Time Raveler
-1 Wooded Foothills
-2 Wooded Foothills
-4 Postmortem Lunge
 1 Silent Clearing
 1 Wooded Bastion
 1 Paradise Druid
@@ -107,6 +104,9 @@
 3 Ranger-Captain of Eos
 3 Paradise Druid
 4 Paradise Druid
+1 Wooded Foothills
+2 Wooded Foothills
+4 Postmortem Lunge
 1 Sword of Fire and Ice
 1 Stoneforge Mystic
 1 Batterskull
@@ -141,6 +141,7 @@
 3 Prismatic Vista
 3 Ice-Fang Coatl
 3 Utopia Sprawl
+4 Snow-Covered Forest
 4 Prismatic Vista
 4 Karn, the Great Creator
 4 Gilded Goose
@@ -148,7 +149,6 @@
 4 Misty Rainforest
 4 Ice-Fang Coatl
 4 Arbor Elf
-4 Snow-Covered Forest
 4 Utopia Sprawl
 5 Snow-Covered Forest
 6 Snow-Covered Forest
@@ -173,11 +173,11 @@
 2 Drift of Phantasms
 2 Spell Queller
 3 Flooded Strand
+3 Wall of Omens
 3 Drift of Phantasms
 3 Overgrown Battlement
 3 Wall of Blossoms
 3 Resolute Watchdog
-3 Wall of Omens
 3 Saruli Caretaker
 4 Drift of Phantasms
 4 Wall of Omens
