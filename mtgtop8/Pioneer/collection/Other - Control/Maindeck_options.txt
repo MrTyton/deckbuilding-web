@@ -1,38 +1,36 @@
+2 Opt
+1 Cast Down
+1 Negate
+1 Dreadbore
+1 Blood Crypt
 1 Mountain
 1 Kolaghan's Command
-1 Glorybringer
-2 Glorybringer
 1 Dragonskull Summit
 2 Blood Crypt
 2 Dragonskull Summit
-3 Dragonskull Summit
-1 Negate
-1 Cast Down
-1 Jace, Vryn's Prodigy
-2 Jace, Vryn's Prodigy
-3 Jace, Vryn's Prodigy
+3 Opt
+1 Steam Vents
+2 Steam Vents
+3 Steam Vents
+2 Kolaghan's Command
+1 Forest
+2 Drown in the Loch
 1 Vraska's Contempt
 2 Languish
-2 Drown in the Loch
-1 Forest
-1 Opt
-2 Opt
-2 Kolaghan's Command
 1 Thought Erasure
 4 Teferi, Time Raveler
 2 Murderous Rider
-3 Field of Ruin
+2 Kalitas, Traitor of Ghet
 2 Isolated Chapel
 1 Concealed Courtyard
-1 Bonecrusher Giant
-1 Chandra, Torch of Defiance
-2 Bonecrusher Giant
-2 Chandra, Torch of Defiance
-3 Glorybringer
-3 Kolaghan's Command
-3 Blood Crypt
-4 Blood Crypt
-4 Dragonskull Summit
+3 Field of Ruin
+4 Swamp
+1 Glorybringer
+2 Glorybringer
+1 Censor
+2 Censor
+3 Censor
+3 Dragonskull Summit
 1 Silumgar's Scorn
 1 Dragonlord Ojutai
 1 Dragonlord Silumgar
@@ -42,53 +40,46 @@
 3 Dragonlord Ojutai
 4 Silumgar's Scorn
 4 Dragonlord Ojutai
-1 Censor
-2 Censor
-3 Censor
-1 Castle Locthwain
-2 Mountain
-1 Steam Vents
-2 Steam Vents
-3 Steam Vents
-4 Steam Vents
-2 Dreadbore
+2 Concealed Courtyard
 2 Thought Erasure
 3 Thought Erasure
-2 Concealed Courtyard
 1 Hero's Downfall
-3 Opt
+2 Dreadbore
+2 Cast Down
 1 Temple Garden
-1 Breeding Pool
 1 Abrupt Decay
 1 Assassin's Trophy
 2 Abrupt Decay
-2 Cast Down
-1 Brazen Borrower
-2 Brazen Borrower
-3 Brazen Borrower
-4 Brazen Borrower
-4 Glorybringer
-3 Chandra, Torch of Defiance
-3 Mountain
-4 Mountain
-1 Aether Hub
-2 Aether Hub
-1 Oko, Thief of Crowns
-2 Oko, Thief of Crowns
+1 Breeding Pool
+3 Blood Crypt
+4 Steam Vents
+2 Mountain
+1 Sulfur Falls
+1 Cast Out
 2 Plains
-1 Blast Zone
 1 Growth Spiral
 1 Nexus of Fate
 2 Breeding Pool
 2 Growth Spiral
 3 Growth Spiral
 4 Growth Spiral
-1 Cast Out
+1 Oko, Thief of Crowns
+2 Oko, Thief of Crowns
 1 Sunken Hollow
 1 Choked Estuary
 2 Vraska's Contempt
 2 Sunken Hollow
 3 Languish
+1 Brazen Borrower
+2 Brazen Borrower
+3 Brazen Borrower
+4 Brazen Borrower
+1 Bonecrusher Giant
+1 Chandra, Torch of Defiance
+2 Bonecrusher Giant
+2 Chandra, Torch of Defiance
+3 Glorybringer
+4 Glorybringer
 1 The Scarab God
 2 The Scarab God
 3 Island
@@ -103,27 +94,23 @@
 2 Hinterland Harbor
 3 Hinterland Harbor
 4 Supreme Verdict
-3 Dreadbore
-1 Canyon Slough
-2 Canyon Slough
-2 Castle Locthwain
-1 Anger of the Gods
-2 Anger of the Gods
-4 Fabled Passage
-1 Stomping Ground
 1 Oath of Kaya
 1 Overgrown Tomb
 2 Forest
+4 Fabled Passage
+1 Stomping Ground
 3 Oko, Thief of Crowns
 1 Attune with Aether
 1 Mana Confluence
 1 Bring to Light
 1 Niv-Mizzet Reborn
 1 Tolsimir, Friend to Wolves
+1 Aether Hub
 1 Deafening Clarion
 2 Attune with Aether
 2 Niv-Mizzet Reborn
 2 Bring to Light
+2 Aether Hub
 3 Attune with Aether
 3 Niv-Mizzet Reborn
 3 Bring to Light
@@ -131,25 +118,35 @@
 4 Aether Hub
 4 Attune with Aether
 1 Torrential Gearhulk
-1 Gideon, Ally of Zendikar
-2 Gideon, Ally of Zendikar
 1 Botanical Sanctum
 1 Lumbering Falls
+1 Anger of the Gods
+2 Anger of the Gods
 1 Cyclonic Rift
 1 Wilderness Reclamation
 1 Supreme Will
+1 Blast Zone
 2 Supreme Will
 2 Castle Vantress
 2 Wilderness Reclamation
 3 Wilderness Reclamation
 4 Wilderness Reclamation
 1 Izzet Charm
-1 Sulfur Falls
 2 Search for Azcanta
+1 Gideon, Ally of Zendikar
+2 Gideon, Ally of Zendikar
+4 Blood Crypt
+4 Dragonskull Summit
+3 Kolaghan's Command
+4 Jace, Vryn's Prodigy
+4 Opt
+1 Wild Slash
+2 Sulfur Falls
+2 Wild Slash
+3 Wild Slash
 2 Hero's Downfall
 1 Grasp of Darkness
 2 Assassin's Trophy
-1 Read the Bones
 1 Blooming Marsh
 2 Blooming Marsh
 3 Abrupt Decay
@@ -162,13 +159,15 @@
 2 Overgrown Tomb
 2 Tireless Tracker
 2 Dark Petition
-3 Dark Petition
 3 Forest
+3 Dark Petition
 4 Forest
 5 Swamp
+1 Castle Locthwain
 1 Heart of Kiran
 1 Mortify
 3 Murderous Rider
+1 Collective Brutality
 1 Urborg, Tomb of Yawgmoth
 1 Anguished Unmaking
 2 Anguished Unmaking
@@ -176,11 +175,13 @@
 3 Concealed Courtyard
 4 Godless Shrine
 4 Concealed Courtyard
-1 Magma Spray
-2 Magma Spray
 1 Haven of the Spirit Dragon
 2 Haven of the Spirit Dragon
-5 Mountain
+3 Chandra, Torch of Defiance
+1 Magma Spray
+2 Magma Spray
+3 Mountain
+4 Mountain
 3 Anger of the Gods
 1 Detention Sphere
 1 Hieroglyphic Illumination
@@ -193,13 +194,16 @@
 1 Elixir of Immortality
 1 Mystical Dispute
 3 Hero's Downfall
+1 Canyon Slough
 1 Lightning Strike
 1 Cut / Ribbons
 1 Rekindling Phoenix
 1 Foreboding Ruins
+2 Canyon Slough
+2 Castle Locthwain
 2 Rekindling Phoenix
-2 Foreboding Ruins
 2 Lightning Strike
+2 Foreboding Ruins
 3 Bonecrusher Giant
 3 Rekindling Phoenix
 3 Lightning Strike
@@ -230,8 +234,8 @@
 2 Cast Out
 4 Censor
 4 Oko, Thief of Crowns
-1 Den Protector
 1 Sylvan Advocate
+1 Den Protector
 1 Lost Legacy
 1 Cry of the Carnarium
 1 Woodland Cemetery
@@ -260,7 +264,6 @@
 1 Secure the Wastes
 1 Ifnir Deadlands
 1 Transgress the Mind
-1 Collective Brutality
 1 Westvale Abbey
 1 Sorin, Grim Nemesis
 1 Ob Nixilis Reignited
@@ -273,8 +276,8 @@
 2 Ob Nixilis Reignited
 2 Transgress the Mind
 2 Grasp of Darkness
-2 Ifnir Deadlands
 2 Westvale Abbey
+2 Ifnir Deadlands
 2 Duress
 2 Sorin, Grim Nemesis
 2 Archangel Avacyn
@@ -288,30 +291,41 @@
 1 Pull from Tomorrow
 1 Spell Pierce
 1 Scorching Dragonfire
-1 Wild Slash
 1 Expansion / Explosion
 2 Izzet Charm
-2 Sulfur Falls
 2 Lumbering Falls
 2 Stomping Ground
 2 Scorching Dragonfire
-2 Wild Slash
 2 Expansion / Explosion
 3 Sulfur Falls
 3 Expansion / Explosion
-3 Wild Slash
 3 Stomping Ground
 3 Lumbering Falls
 4 Expansion / Explosion
+1 Young Pyromancer
+1 Claim / Fame
+1 Treasure Cruise
+1 Dreadhorde Arcanist
+1 The Royal Scions
+2 Treasure Cruise
+2 Young Pyromancer
+2 Collective Brutality
+2 The Royal Scions
+2 Dreadhorde Arcanist
+2 Claim / Fame
+3 Young Pyromancer
+3 Dreadhorde Arcanist
+4 Young Pyromancer
+4 Dreadhorde Arcanist
+4 Wild Slash
 1 Disdainful Stroke
 1 Wandering Fumarole
 1 Nicol Bolas, the Ravager
 2 Disdainful Stroke
 2 Nicol Bolas, the Ravager
 2 Wandering Fumarole
+3 Dreadbore
 3 Nicol Bolas, the Ravager
-4 Jace, Vryn's Prodigy
-4 Opt
 4 Nicol Bolas, the Ravager
 1 Tyrant's Scorn
 1 Vraska, Golgari Queen
@@ -354,8 +368,8 @@
 2 Gideon Blackblade
 2 Kaya's Wrath
 2 Blood Baron of Vizkopa
-3 Heart of Kiran
 3 Gideon of the Trials
+3 Heart of Kiran
 3 Kaya's Wrath
 3 Gideon, Ally of Zendikar
 3 Isolated Chapel
@@ -364,16 +378,6 @@
 4 Gideon of the Trials
 4 Field of Ruin
 4 Gideon, Ally of Zendikar
-1 Harnessed Lightning
-1 Goblin Dark-Dwellers
-1 Glint-Sleeve Siphoner
-2 Harnessed Lightning
-2 Glint-Sleeve Siphoner
-3 Harnessed Lightning
-3 Glint-Sleeve Siphoner
-3 Canyon Slough
-4 Harnessed Lightning
-4 Glint-Sleeve Siphoner
 1 Nissa's Renewal
 1 Bontu's Last Reckoning
 1 Mastermind's Acquisition
@@ -382,6 +386,7 @@
 1 Gaze of Granite
 1 Ugin, the Spirit Dragon
 1 Nissa's Pilgrimage
+1 Read the Bones
 2 Temple of Malady
 2 Nissa's Pilgrimage
 3 Temple of Malady
@@ -473,6 +478,7 @@
 4 Magma Spray
 4 Draconic Roar
 4 Sarkhan, Fireblood
+5 Mountain
 6 Mountain
 7 Mountain
 8 Mountain

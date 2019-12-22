@@ -1,6 +1,6 @@
 2 Ugin, the Spirit Dragon
-2 Nahiri, the Harbinger
 2 Breeding Pool
+2 Nahiri, the Harbinger
 3 Breeding Pool
 3 Nahiri, the Harbinger
 3 Whirler Virtuoso
@@ -32,17 +32,17 @@
 1 Field of Ruin
 2 Field of Ruin
 1 Walking Ballista
-1 Heart of Kiran
 1 Sea Gate Wreckage
 1 Mobilized District
-1 Karn, Scion of Urza
-1 Warping Wail
-1 Mutavault
 1 Wastes
+1 Karn, Scion of Urza
+1 Mutavault
+1 Warping Wail
+1 Heart of Kiran
 1 Spatial Contortion
 1 Scrap Trawler
-1 Ratchet Bomb
 1 Stonecoil Serpent
+1 Ratchet Bomb
 1 Blast Zone
 1 Zhalfirin Void
 1 Foundry of the Consuls
@@ -51,9 +51,9 @@
 1 Karn, the Great Creator
 2 Shrine of the Forsaken Gods
 2 Wastes
+2 Walking Ballista
 2 Mutavault
 2 Blast Zone
-2 Walking Ballista
 2 Spatial Contortion
 2 Ratchet Bomb
 2 Stonecoil Serpent
@@ -68,10 +68,10 @@
 3 Blast Zone
 3 Karn, Scion of Urza
 3 Zhalfirin Void
+3 Walking Ballista
 3 Warping Wail
 3 Wastes
 3 Mutavault
-3 Walking Ballista
 3 Spatial Contortion
 3 Ratchet Bomb
 3 Karn, the Great Creator
@@ -163,8 +163,8 @@
 1 Dig Through Time
 1 Port Town
 2 Myth Realized
-2 Search for Azcanta
 2 Glacial Fortress
+2 Search for Azcanta
 2 Azorius Charm
 2 Teferi, Hero of Dominaria
 2 Plains
@@ -174,8 +174,8 @@
 2 Supreme Verdict
 2 Opt
 3 Myth Realized
-3 Plains
 3 Glacial Fortress
+3 Plains
 3 Azorius Charm
 3 Port Town
 3 Supreme Verdict
@@ -188,9 +188,9 @@
 4 Supreme Verdict
 4 Opt
 5 Plains
-1 Drown in the Loch
 1 Sunken Hollow
 1 Drowned Catacomb
+1 Drown in the Loch
 1 Unsummon
 1 Fabled Passage
 1 Engulf the Shore
@@ -206,9 +206,9 @@
 1 Dakra Mystic
 1 Unsubstantiate
 1 Dictate of Kruphix
-2 Drowned Catacomb
-2 Sunken Hollow
 2 Brazen Borrower
+2 Sunken Hollow
+2 Drowned Catacomb
 2 Cyclonic Rift
 2 Notion Thief
 2 Fabled Passage
@@ -221,9 +221,9 @@
 3 Brazen Borrower
 3 Sunken Hollow
 3 Notion Thief
-3 Fatal Push
 3 Dakra Mystic
 3 Watery Grave
+3 Fatal Push
 4 Watery Grave
 4 Sunken Hollow
 4 Notion Thief
