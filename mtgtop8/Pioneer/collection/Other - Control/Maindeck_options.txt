@@ -33,8 +33,8 @@
 3 Blood Crypt
 4 Blood Crypt
 4 Dragonskull Summit
-1 Dragonlord Ojutai
 1 Silumgar's Scorn
+1 Dragonlord Ojutai
 1 Dragonlord Silumgar
 2 Silumgar's Scorn
 2 Dragonlord Ojutai
@@ -154,12 +154,12 @@
 2 Blooming Marsh
 3 Abrupt Decay
 1 Hissing Quagmire
-1 Tireless Tracker
 1 Seasons Past
+1 Tireless Tracker
 1 Dark Petition
 1 Nissa, Vastwood Seer
-2 Overgrown Tomb
 2 Hissing Quagmire
+2 Overgrown Tomb
 2 Tireless Tracker
 2 Dark Petition
 3 Dark Petition
@@ -230,44 +230,6 @@
 2 Cast Out
 4 Censor
 4 Oko, Thief of Crowns
-3 Plains
-1 Secure the Wastes
-1 Ifnir Deadlands
-1 Collective Brutality
-1 Westvale Abbey
-1 Sorin, Grim Nemesis
-1 Ob Nixilis Reignited
-1 Yahenni's Expertise
-1 Transgress the Mind
-1 Duress
-1 Blighted Fen
-1 Archangel Avacyn
-1 Lyra Dawnbringer
-2 Mortify
-2 Grasp of Darkness
-2 Archangel Avacyn
-2 Transgress the Mind
-2 Ifnir Deadlands
-2 Westvale Abbey
-2 Duress
-2 Sorin, Grim Nemesis
-2 Ob Nixilis Reignited
-2 Blighted Fen
-3 Grasp of Darkness
-3 Transgress the Mind
-3 Ob Nixilis Reignited
-4 Murderous Rider
-4 Grasp of Darkness
-1 Harnessed Lightning
-1 Goblin Dark-Dwellers
-1 Glint-Sleeve Siphoner
-2 Harnessed Lightning
-2 Glint-Sleeve Siphoner
-3 Harnessed Lightning
-3 Glint-Sleeve Siphoner
-3 Canyon Slough
-4 Harnessed Lightning
-4 Glint-Sleeve Siphoner
 1 Den Protector
 1 Sylvan Advocate
 1 Lost Legacy
@@ -278,8 +240,8 @@
 2 Sylvan Advocate
 2 Woodland Cemetery
 2 Scavenging Ooze
-3 Overgrown Tomb
 3 Hissing Quagmire
+3 Overgrown Tomb
 3 Sylvan Advocate
 3 Tireless Tracker
 4 Overgrown Tomb
@@ -294,27 +256,34 @@
 3 Fires of Invention
 3 The Scarab God
 4 Fires of Invention
-1 Gideon Blackblade
-1 Gideon of the Trials
-1 Gideon's Triumph
-1 Blood Baron of Vizkopa
-1 Kaya's Wrath
-2 Gideon of the Trials
-2 Gideon Blackblade
-2 Heart of Kiran
-2 Gideon's Triumph
-2 Blood Baron of Vizkopa
-2 Kaya's Wrath
-3 Kaya's Wrath
-3 Gideon of the Trials
-3 Heart of Kiran
-3 Gideon, Ally of Zendikar
-3 Isolated Chapel
-4 Kaya's Wrath
-4 Gideon, Ally of Zendikar
-4 Gideon of the Trials
-4 Field of Ruin
-4 Heart of Kiran
+3 Plains
+1 Secure the Wastes
+1 Ifnir Deadlands
+1 Transgress the Mind
+1 Collective Brutality
+1 Westvale Abbey
+1 Sorin, Grim Nemesis
+1 Ob Nixilis Reignited
+1 Yahenni's Expertise
+1 Duress
+1 Blighted Fen
+1 Archangel Avacyn
+1 Lyra Dawnbringer
+2 Mortify
+2 Ob Nixilis Reignited
+2 Transgress the Mind
+2 Grasp of Darkness
+2 Ifnir Deadlands
+2 Westvale Abbey
+2 Duress
+2 Sorin, Grim Nemesis
+2 Archangel Avacyn
+2 Blighted Fen
+3 Transgress the Mind
+3 Grasp of Darkness
+3 Ob Nixilis Reignited
+4 Murderous Rider
+4 Grasp of Darkness
 1 Disallow
 1 Pull from Tomorrow
 1 Spell Pierce
@@ -334,16 +303,16 @@
 3 Stomping Ground
 3 Lumbering Falls
 4 Expansion / Explosion
-1 Nicol Bolas, the Ravager
 1 Disdainful Stroke
 1 Wandering Fumarole
-2 Nicol Bolas, the Ravager
+1 Nicol Bolas, the Ravager
 2 Disdainful Stroke
+2 Nicol Bolas, the Ravager
 2 Wandering Fumarole
 3 Nicol Bolas, the Ravager
-4 Nicol Bolas, the Ravager
 4 Jace, Vryn's Prodigy
 4 Opt
+4 Nicol Bolas, the Ravager
 1 Tyrant's Scorn
 1 Vraska, Golgari Queen
 1 Unmoored Ego
@@ -374,14 +343,45 @@
 3 Syncopate
 4 Syncopate
 4 Languish
+1 Gideon Blackblade
+1 Gideon of the Trials
+1 Gideon's Triumph
+1 Kaya's Wrath
+1 Blood Baron of Vizkopa
+2 Heart of Kiran
+2 Gideon of the Trials
+2 Gideon's Triumph
+2 Gideon Blackblade
+2 Kaya's Wrath
+2 Blood Baron of Vizkopa
+3 Heart of Kiran
+3 Gideon of the Trials
+3 Kaya's Wrath
+3 Gideon, Ally of Zendikar
+3 Isolated Chapel
+4 Heart of Kiran
+4 Kaya's Wrath
+4 Gideon of the Trials
+4 Field of Ruin
+4 Gideon, Ally of Zendikar
+1 Harnessed Lightning
+1 Goblin Dark-Dwellers
+1 Glint-Sleeve Siphoner
+2 Harnessed Lightning
+2 Glint-Sleeve Siphoner
+3 Harnessed Lightning
+3 Glint-Sleeve Siphoner
+3 Canyon Slough
+4 Harnessed Lightning
+4 Glint-Sleeve Siphoner
 1 Nissa's Renewal
 1 Bontu's Last Reckoning
 1 Mastermind's Acquisition
 1 Temple of Malady
 1 Sign in Blood
 1 Gaze of Granite
-1 Nissa's Pilgrimage
 1 Ugin, the Spirit Dragon
+1 Nissa's Pilgrimage
 2 Temple of Malady
 2 Nissa's Pilgrimage
 3 Temple of Malady
@@ -463,8 +463,8 @@
 3 Stormbreath Dragon
 3 Castle Embereth
 3 Thunderbreak Regent
-3 Draconic Roar
 3 Magma Spray
+3 Draconic Roar
 3 Sarkhan, Fireblood
 3 Haven of the Spirit Dragon
 4 Thunderbreak Regent

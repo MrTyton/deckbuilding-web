@@ -153,7 +153,7 @@
 |                    3|[Spell Pierce](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425876)              |                     |                                                                                                    |
 |                    3|[On Thin Ice](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463969)               |                     |                                                                                                    |
 |                    4|[Spell Pierce](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425876)              |                     |                                                                                                    |
-|                    4|[Windswept Heath](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405115)           |                     |                                                                                                    |
 |                    4|[On Thin Ice](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463969)               |                     |                                                                                                    |
+|                    4|[Windswept Heath](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405115)           |                     |                                                                                                    |
 |                    4|[Flooded Strand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405098)            |                     |                                                                                                    |
 

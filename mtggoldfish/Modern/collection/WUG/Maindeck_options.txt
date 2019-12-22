@@ -26,7 +26,6 @@
 1 Stoneforge Mystic
 1 Seachrome Coast
 2 Horizon Canopy
-2 Island
 2 Plains
 2 Aether Vial
 2 Meddling Mage
@@ -34,6 +33,7 @@
 2 Deputy of Detention
 2 Phantasmal Image
 2 Stoneforge Mystic
+2 Island
 2 Seachrome Coast
 3 Meddling Mage
 3 Phantasmal Image
@@ -91,23 +91,23 @@
 4 Supreme Verdict
 1 Dryad Arbor
 1 Hydroid Krasis
-1 Karn, the Great Creator
 1 Utopia Sprawl
 1 Arbor Elf
+1 Karn, the Great Creator
 1 Vizier of Remedies
 1 Devoted Druid
 1 Finale of Devastation
 1 Wall of Blossoms
-2 Karn, the Great Creator
+2 Hydroid Krasis
 2 Utopia Sprawl
 2 Arbor Elf
-2 Hydroid Krasis
+2 Karn, the Great Creator
 2 Devoted Druid
 2 Finale of Devastation
 3 Waterlogged Grove
 3 Arbor Elf
-3 Karn, the Great Creator
 3 Utopia Sprawl
+3 Karn, the Great Creator
 3 Hydroid Krasis
 3 Devoted Druid
 3 Finale of Devastation

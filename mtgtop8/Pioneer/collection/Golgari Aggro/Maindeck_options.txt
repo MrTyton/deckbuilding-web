@@ -1,29 +1,27 @@
+3 Llanowar Elves
 4 Once Upon a Time
-1 Elvish Mystic
-2 Elvish Mystic
-3 Elvish Mystic
-2 Rishkar, Peema Renegade
 4 Hangarback Walker
 1 Experiment One
 2 Experiment One
 3 Experiment One
 4 Pelt Collector
 1 Karn's Bastion
-4 Llanowar Elves
+1 Elvish Mystic
+2 Elvish Mystic
+3 Elvish Mystic
 4 Woodland Cemetery
-3 Vivien, Arkbow Ranger
+4 Experiment One
 1 Fatal Push
 2 Fatal Push
 3 Fatal Push
-4 Experiment One
+4 Llanowar Elves
+3 Vivien, Arkbow Ranger
+1 Castle Locthwain
+1 Thoughtseize
+1 Scavenging Ooze
 1 Hashep Oasis
 4 Elvish Mystic
 6 Forest
-1 Castle Locthwain
-1 Scavenging Ooze
-1 Thoughtseize
-4 Vivien, Arkbow Ranger
-7 Forest
 1 Verdurous Gearhulk
 4 Fatal Push
 2 Swamp
@@ -46,8 +44,8 @@
 4 Zetalpa, Primal Dawn
 4 Lotleth Troll
 4 Soulflayer
-1 Murderous Rider
 1 Questing Beast
+1 Murderous Rider
 2 Murderous Rider
 2 Questing Beast
 2 Scavenging Ooze
@@ -62,19 +60,20 @@
 2 Traverse the Ulvenwald
 3 Traverse the Ulvenwald
 3 Murderous Rider
+4 Vivien, Arkbow Ranger
+7 Forest
 8 Forest
 1 Ruins of Oran-Rief
 1 Nykthos, Shrine to Nyx
 2 Hashep Oasis
 1 Castle Garenbrig
 2 Karn's Bastion
-1 Jadelight Ranger
 1 Vessel of Nascency
 2 Vessel of Nascency
 3 Vessel of Nascency
-4 Traverse the Ulvenwald
-4 Vessel of Nascency
 4 Questing Beast
+4 Vessel of Nascency
+4 Traverse the Ulvenwald
 4 Murderous Rider
 1 Chromanticore
 1 Mana Confluence
@@ -87,12 +86,15 @@
 2 Assassin's Trophy
 1 Deathrite Shaman
 2 Deathrite Shaman
-1 Collective Brutality
 1 Grapple with the Past
-2 Chromanticore
+1 Collective Brutality
 2 Collective Brutality
 2 Grapple with the Past
+2 Chromanticore
 3 Chromanticore
+2 Nykthos, Shrine to Nyx
+3 Scavenging Ooze
+1 Jadelight Ranger
 1 Blossoming Defense
 1 Mutavault
 1 Dreadhorde Invasion
@@ -104,8 +106,6 @@
 2 Castle Locthwain
 3 Dreadhorde Invasion
 3 Blossoming Defense
-2 Nykthos, Shrine to Nyx
-3 Scavenging Ooze
 3 Karn's Bastion
 1 The Great Henge
 1 Avatar of the Resolute
@@ -115,8 +115,8 @@
 3 Avatar of the Resolute
 3 Evolution Sage
 3 Rishkar, Peema Renegade
-1 Rotting Regisaur
 1 Rhonas the Indomitable
+1 Rotting Regisaur
 1 Nullhide Ferox
 1 Temple of Malady
 2 Rotting Regisaur
@@ -135,15 +135,15 @@
 2 Gather the Pack
 3 Gather the Pack
 4 Gather the Pack
-1 Hissing Quagmire
+1 Ob Nixilis Reignited
 1 Tasigur, the Golden Fang
 1 Fabled Passage
 1 Sylvan Advocate
-1 Kalitas, Traitor of Ghet
-1 Ob Nixilis Reignited
+1 Liliana, the Last Hope
 1 Courser of Kruphix
 1 Tireless Tracker
-1 Liliana, the Last Hope
+1 Kalitas, Traitor of Ghet
+1 Hissing Quagmire
 2 Field of Ruin
 2 Tasigur, the Golden Fang
 2 Fabled Passage
@@ -151,18 +151,18 @@
 2 Tireless Tracker
 2 Hissing Quagmire
 2 Courser of Kruphix
-3 Abrupt Decay
-3 Sylvan Advocate
 3 Field of Ruin
+3 Sylvan Advocate
+3 Abrupt Decay
 3 Hissing Quagmire
 3 Fabled Passage
 4 Sylvan Advocate
 4 Fabled Passage
+1 Satyr Wayfinder
 1 Blood Crypt
 1 Nightveil Predator
 1 Den Protector
 1 Glorybringer
-1 Satyr Wayfinder
 1 Samut, Voice of Dissent
 1 Bomat Courier
 1 Hazoret the Fervent
@@ -171,12 +171,12 @@
 2 Blood Crypt
 2 Samut, Voice of Dissent
 3 Satyr Wayfinder
-3 Mana Confluence
 3 Blood Crypt
+3 Mana Confluence
 3 Samut, Voice of Dissent
 3 Deathrite Shaman
-4 Mana Confluence
 4 Deathrite Shaman
+4 Mana Confluence
 4 Satyr Wayfinder
 1 Merfolk Branchwalker
 2 Castle Garenbrig
