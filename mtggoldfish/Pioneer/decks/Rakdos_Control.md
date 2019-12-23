@@ -30,10 +30,10 @@
 
 |*n*<sup>th</sup> copy|                                           Maindeck Card                                           |*n*<sup>th</sup> copy|                                          Sideboard Card                                           |
 |--------------------:|---------------------------------------------------------------------------------------------------|--------------------:|---------------------------------------------------------------------------------------------------|
-|                    1|[Liliana, Death's Majesty](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426799)|                    1|[Blood Sun](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439749)               |
-|                    1|[Anger of the Gods](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438682)       |                    2|[Blood Sun](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439749)               |
-|                    1|[Liliana, the Last Hope](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414388)  |                    3|[Kalitas, Traitor of Ghet](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407596)|
-|                    2|[Anger of the Gods](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438682)       |                    4|[Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)                   |
+|                    1|[Anger of the Gods](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438682)       |                    1|[Blood Sun](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439749)               |
+|                    1|[Liliana, Death's Majesty](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426799)|                    2|[Blood Sun](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439749)               |
+|                    1|[Liliana, the Last Hope](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414388)  |                    4|[Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)                   |
+|                    2|[Anger of the Gods](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438682)       |                    3|[Kalitas, Traitor of Ghet](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407596)|
 |                    4|[Bedevil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457301)                 |                     |                                                                                                   |
 |                    4|[Fatal Push](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423724)              |                     |                                                                                                   |
 

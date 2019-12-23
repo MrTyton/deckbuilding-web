@@ -34,7 +34,7 @@
 |--------------------:|---------------------------------------------------------------------------------------------|--------------------:|-------------------------------------------------------------------------------------------------|
 |                    2|[Search for Azcanta](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435226)|                    1|[Liliana, the Last Hope](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414388)|
 |                    3|[Hostage Taker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435379)     |                    2|[Despise](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386517)               |
-|                    4|[Fatal Push](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423724)        |                    1|[Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)                |
-|                    3|[Search for Azcanta](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435226)|                    1|[Vantress Gargoyle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473033)     |
+|                    3|[Search for Azcanta](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435226)|                    1|[Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)                |
+|                    4|[Fatal Push](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423724)        |                    1|[Vantress Gargoyle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473033)     |
 |                     |                                                                                             |                    2|[Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)                |
 

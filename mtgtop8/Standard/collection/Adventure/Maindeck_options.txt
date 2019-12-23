@@ -1,14 +1,14 @@
 1 Order of Midnight
-1 Foulmire Knight
+1 Temple of Malady
+1 Murderous Rider
 1 Overgrown Tomb
 1 Swamp
-1 Murderous Rider
 2 Foulmire Knight
 2 Murderous Rider
 2 Overgrown Tomb
 2 Swamp
-3 Swamp
 3 Murderous Rider
+3 Swamp
 3 Foulmire Knight
 3 Overgrown Tomb
 4 Foulmire Knight
@@ -79,23 +79,23 @@
 1 Embercleave
 4 Vivien, Arkbow Ranger
 4 Nissa, Who Shakes the World
-1 Rimrock Knight
 1 The Royal Scions
 1 Domri's Ambush
-2 Rimrock Knight
+1 Rimrock Knight
 2 Embercleave
-2 Domri's Ambush
+2 Rimrock Knight
 2 The Royal Scions
+2 Domri's Ambush
+3 Embercleave
 3 Domri's Ambush
 3 Rimrock Knight
-3 Embercleave
 3 The Royal Scions
 4 Domri's Ambush
 4 The Royal Scions
 4 Rimrock Knight
 3 Mountain
-1 Vraska, Golgari Queen
 1 Liliana, Dreadhorde General
+1 Vraska, Golgari Queen
 2 Vraska, Golgari Queen
 1 Incubation / Incongruity
 2 Incubation / Incongruity
@@ -104,10 +104,10 @@
 1 Legion's End
 2 Rankle, Master of Pranks
 2 Liliana, Dreadhorde General
-1 Embereth Shieldbreaker
 1 Skarrgan Hellkite
-2 Embereth Shieldbreaker
+1 Embereth Shieldbreaker
 2 Skarrgan Hellkite
+2 Embereth Shieldbreaker
 1 Wilderness Reclamation
 1 Expansion / Explosion
 2 Wilderness Reclamation
@@ -118,6 +118,10 @@
 1 Blood Crypt
 2 Thrashing Brontodon
 3 Thrashing Brontodon
+1 Duress
+3 Castle Locthwain
+3 Vraska, Golgari Queen
+4 Casualties of War
 1 Blacklance Paragon
 2 Blacklance Paragon
 2 Find / Finality
@@ -128,7 +132,3 @@
 4 Embercleave
 4 Temple of Mystery
 4 Island
-1 Duress
-3 Castle Locthwain
-3 Vraska, Golgari Queen
-4 Casualties of War

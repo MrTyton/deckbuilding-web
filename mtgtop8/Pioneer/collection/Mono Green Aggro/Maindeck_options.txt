@@ -8,8 +8,8 @@
 2 Steel Leaf Champion
 3 Steel Leaf Champion
 4 Steel Leaf Champion
-1 Ghalta, Primal Hunger
 1 The Great Henge
+1 Ghalta, Primal Hunger
 2 Ghalta, Primal Hunger
 1 Whisperwood Elemental
 1 Biomass Mutation
@@ -21,16 +21,16 @@
 1 Botanical Sanctum
 1 Hydroid Krasis
 2 Wicked Wolf
-2 Hydroid Krasis
 2 Oko, Thief of Crowns
+2 Hydroid Krasis
 2 Breeding Pool
 2 Botanical Sanctum
-3 Hydroid Krasis
-3 Wicked Wolf
 3 Oko, Thief of Crowns
 3 Breeding Pool
 3 Botanical Sanctum
+3 Wicked Wolf
 3 Gilded Goose
+3 Hydroid Krasis
 4 Hydroid Krasis
 4 Botanical Sanctum
 4 Wicked Wolf
@@ -48,10 +48,10 @@
 1 Surrak, the Hunt Caller
 2 The Great Henge
 2 Surrak, the Hunt Caller
-3 Ghalta, Primal Hunger
-3 Surrak, the Hunt Caller
 3 Castle Garenbrig
 3 The Great Henge
+3 Ghalta, Primal Hunger
+3 Surrak, the Hunt Caller
 4 Castle Garenbrig
 1 Blossoming Defense
 1 Hashep Oasis
@@ -75,36 +75,36 @@
 2 Nullhide Ferox
 2 Paradise Druid
 2 Polukranos, World Eater
+3 Paradise Druid
 3 Questing Beast
 3 Nullhide Ferox
-3 Paradise Druid
+1 Westvale Abbey
+1 Lovestruck Beast
+1 Yorvo, Lord of Garenbrig
+1 Shifting Ceratops
+2 Yorvo, Lord of Garenbrig
+2 Lovestruck Beast
+2 Shifting Ceratops
+3 Lovestruck Beast
+3 Shifting Ceratops
+4 Ghalta, Primal Hunger
+4 The Great Henge
+4 Lovestruck Beast
 1 Biogenic Ooze
 1 Courser of Kruphix
 2 Biogenic Ooze
 2 Courser of Kruphix
 3 Courser of Kruphix
 4 Courser of Kruphix
-1 Westvale Abbey
-1 Lovestruck Beast
-1 Yorvo, Lord of Garenbrig
-1 Shifting Ceratops
-2 Lovestruck Beast
-2 Yorvo, Lord of Garenbrig
-2 Shifting Ceratops
-3 Lovestruck Beast
-3 Shifting Ceratops
-4 The Great Henge
-4 Ghalta, Primal Hunger
-4 Lovestruck Beast
 1 Wildborn Preserver
 1 Avatar of the Resolute
 1 Barkhide Troll
 1 Dryad Militant
 1 Experiment One
 1 Pelt Collector
-2 Blossoming Defense
 2 Wildborn Preserver
 2 Avatar of the Resolute
+2 Blossoming Defense
 2 Barkhide Troll
 2 Dryad Militant
 2 Experiment One
@@ -119,15 +119,12 @@
 3 Pelt Collector
 4 Pelt Collector
 4 Wildborn Preserver
-4 Dryad Militant
 4 Barkhide Troll
+4 Dryad Militant
+4 Avatar of the Resolute
 4 Blossoming Defense
 4 Experiment One
-4 Avatar of the Resolute
 4 Hashep Oasis
-1 Skysovereign, Consul Flagship
-3 Sylvan Caryatid
-17 Forest
 1 Verdurous Gearhulk
 1 Overgrown Tomb
 1 Llanowar Wastes
@@ -148,3 +145,6 @@
 4 Winding Constrictor
 4 Blooming Marsh
 4 Overgrown Tomb
+1 Skysovereign, Consul Flagship
+3 Sylvan Caryatid
+17 Forest

@@ -1,25 +1,11 @@
-1 Smokebraider
-1 Rage Forger
-2 Smokebraider
-3 Smokebraider
-4 Smokebraider
-1 Steam Vents
-1 Temple Garden
-1 Breeding Pool
-1 Plains
-1 Wooded Foothills
 1 Arid Mesa
 1 Stomping Ground
 1 Blood Crypt
+1 Wooded Foothills
 1 Sacred Foundry
 1 Forest
 2 Wooded Foothills
 2 Arid Mesa
-1 Island
-1 Birds of Paradise
-2 Birds of Paradise
-3 Birds of Paradise
-4 Birds of Paradise
 1 Scalding Tarn
 1 Verdant Catacombs
 1 Teferi, Time Raveler
@@ -30,6 +16,7 @@
 1 Swamp
 1 Noble Hierarch
 1 Utopia Sprawl
+1 Mountain
 1 Assassin's Trophy
 1 Saheeli Rai
 1 Bring to Light
@@ -40,31 +27,28 @@
 2 Kiki-Jiki, Mirror Breaker
 2 Bring to Light
 2 Mana Leak
+2 Utopia Sprawl
 2 Felidar Guardian
 2 Saheeli Rai
-2 Utopia Sprawl
 3 Scalding Tarn
 3 Teferi, Time Raveler
 3 Mana Leak
-3 Wooded Foothills
 3 Deceiver Exarch
 3 Felidar Guardian
 3 Bring to Light
-3 Arid Mesa
 3 Saheeli Rai
+3 Arid Mesa
+3 Wooded Foothills
 3 Utopia Sprawl
 4 Scalding Tarn
 4 Bring to Light
 4 Teferi, Time Raveler
 4 Deceiver Exarch
-4 Saheeli Rai
 4 Utopia Sprawl
+4 Saheeli Rai
 4 Felidar Guardian
 4 Wooded Foothills
 4 Arid Mesa
-1 Hallowed Fountain
-1 Lightning Bolt
-1 Path to Exile
 1 Dromoka's Command
 1 Unearth
 1 Atarka's Command
@@ -73,20 +57,20 @@
 1 Wild Nacatl
 1 Godless Shrine
 1 Windswept Heath
-1 Monastery Swiftspear
+1 Might of Alara
 1 Ajani, Caller of the Pride
 1 Young Pyromancer
 1 Tribal Flames
 1 The Royal Scions
 1 Lightning Helix
 1 Boros Charm
-1 Might of Alara
+1 Monastery Swiftspear
 2 The Royal Scions
 2 Dreadhorde Arcanist
 2 Unearth
 2 Atarka's Command
-2 Viridescent Wisps
 2 Windswept Heath
+2 Viridescent Wisps
 2 Young Pyromancer
 2 Monastery Swiftspear
 2 Might of Alara
@@ -95,66 +79,18 @@
 2 Tribal Flames
 2 Lightning Helix
 3 Dreadhorde Arcanist
+3 The Royal Scions
 3 Might of Alara
 3 Lightning Bolt
-3 The Royal Scions
 3 Tribal Flames
 3 Monastery Swiftspear
 3 Lightning Helix
 3 Wild Nacatl
 3 Windswept Heath
 4 Dreadhorde Arcanist
-4 Lightning Bolt
 4 Tribal Flames
 4 Wild Nacatl
 4 Monastery Swiftspear
+4 Lightning Bolt
 4 Windswept Heath
 4 Might of Alara
-1 Glittering Wish
-1 Waterlogged Grove
-1 Engineered Explosives
-1 Grove of the Burnwillows
-1 Swan Song
-1 Silence
-1 Veil of Summer
-1 Serum Visions
-1 Flooded Strand
-1 Jeskai Ascendancy
-1 Manamorphose
-1 Sleight of Hand
-1 Sylvan Caryatid
-1 Abundant Growth
-1 Gemstone Mine
-1 Mystic Speculation
-1 Fatestitcher
-1 Horizon Canopy
-1 Repeal
-1 Cerulean Wisps
-1 Nagging Thoughts
-2 Glittering Wish
-2 Flooded Strand
-2 Jeskai Ascendancy
-2 Sylvan Caryatid
-2 Gemstone Mine
-2 Manamorphose
-2 Fatestitcher
-2 Cerulean Wisps
-2 Sleight of Hand
-2 Serum Visions
-3 Gemstone Mine
-3 Glittering Wish
-3 Manamorphose
-3 Fatestitcher
-3 Sleight of Hand
-3 Flooded Strand
-3 Cerulean Wisps
-3 Serum Visions
-3 Sylvan Caryatid
-3 Jeskai Ascendancy
-4 Sleight of Hand
-4 Glittering Wish
-4 Gemstone Mine
-4 Sylvan Caryatid
-4 Serum Visions
-4 Manamorphose
-4 Flooded Strand

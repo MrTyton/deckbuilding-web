@@ -61,8 +61,8 @@
 3 Supreme Verdict
 3 Sulfur Falls
 4 Censor
-4 Sulfur Falls
 4 Izzet Charm
+4 Sulfur Falls
 1 Thalia's Lancers
 1 Corridor Monitor
 1 Renegade Rallier
@@ -92,11 +92,11 @@
 4 Sacred Foundry
 1 Deafening Clarion
 2 Deafening Clarion
+1 Oath of Kaya
 1 Blood Crypt
 1 Swamp
 1 Godless Shrine
 1 Watery Grave
-1 Oath of Kaya
 2 Oath of Kaya
 3 Oath of Kaya
 1 Deputy of Detention
@@ -105,18 +105,18 @@
 2 Yavimaya Coast
 1 Silumgar's Command
 1 Ojutai's Command
-1 Abrupt Decay
 1 Assassin's Trophy
 1 Dreadbore
 1 Niv-Mizzet Reborn
 1 Kolaghan's Command
+1 Abrupt Decay
 1 Unmoored Ego
 1 Bring to Light
 1 Knight of Autumn
-2 Stomping Ground
 2 Assassin's Trophy
 2 Bring to Light
 2 Mana Confluence
+2 Stomping Ground
 2 Niv-Mizzet Reborn
 3 Bring to Light
 3 Niv-Mizzet Reborn
@@ -142,19 +142,19 @@
 3 Arboreal Grazer
 4 Risen Reef
 4 Voice of Resurgence
-1 Lava Coil
 1 Thrill of Possibility
+1 Lava Coil
 1 Anticipate
 1 Fiery Impulse
+2 Thrill of Possibility
 2 Spell Pierce
 2 Lava Coil
-2 Thrill of Possibility
 2 Anticipate
 2 Fiery Impulse
+3 Thrill of Possibility
 3 Anticipate
 3 Lava Coil
 3 Fiery Impulse
-3 Thrill of Possibility
 3 Spirebluff Canal
 4 Fiery Impulse
 4 Anticipate
@@ -170,6 +170,7 @@
 1 Yahenni's Expertise
 1 Search for Azcanta
 1 Languish
+1 Fatal Push
 1 Isolated Chapel
 1 Prophetic Prism
 1 Thoughtseize
@@ -178,11 +179,10 @@
 1 Drowned Catacomb
 1 Narset, Parter of Veils
 1 Interplanar Beacon
-1 Fatal Push
-2 Thoughtseize
+2 Fatal Push
 2 Languish
 2 Narset, Parter of Veils
-2 Fatal Push
+2 Thoughtseize
 2 Watery Grave
 2 Godless Shrine
 2 Prophetic Prism
@@ -194,27 +194,27 @@
 4 Thoughtseize
 4 Watery Grave
 4 Harnessed Lightning
-1 Charming Prince
 1 Field of Ruin
-1 Elite Guardmage
+1 Charming Prince
 1 Thraben Inspector
+1 Elite Guardmage
 1 Tithe Taker
 1 Cloudblazer
 1 Dusk / Dawn
 2 Field of Ruin
+2 Charming Prince
+2 Thraben Inspector
 2 Plains
 2 Dusk / Dawn
-2 Thraben Inspector
 2 Cloudblazer
 2 Tithe Taker
-2 Charming Prince
 2 Elite Guardmage
 3 Elite Guardmage
+3 Charming Prince
+3 Thraben Inspector
 3 Tithe Taker
 3 Cloudblazer
 3 Deafening Clarion
-3 Charming Prince
-3 Thraben Inspector
+4 Thraben Inspector
 4 Tithe Taker
 4 Charming Prince
-4 Thraben Inspector

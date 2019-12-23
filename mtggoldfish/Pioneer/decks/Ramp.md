@@ -38,7 +38,7 @@
 |                    1|[Elvish Mystic](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389499)      |                    1|[Sorcerous Spyglass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435407)       |
 |                    1|[Beanstalk Giant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473111)    |                    2|[Sorcerous Spyglass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435407)       |
 |                    2|[Beanstalk Giant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473111)    |                    3|[Sorcerous Spyglass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435407)       |
-|                     |                                                                                              |                    2|[Walking Ballista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423848)         |
-|                     |                                                                                              |                    3|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)           |
 |                     |                                                                                              |                    2|[Tireless Tracker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409997)         |
+|                     |                                                                                              |                    3|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)           |
+|                     |                                                                                              |                    2|[Walking Ballista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423848)         |
 

@@ -26,22 +26,22 @@
 1 Mountain
 1 Forest
 2 Breeding Pool
-1 Island
 1 Seasoned Pyromancer
 1 Deceiver Exarch
 1 Pestermite
-1 Tranquil Thicket
-1 Kiki-Jiki, Mirror Breaker
 1 Simian Spirit Guide
 1 Sulfur Falls
+1 Island
+1 Tranquil Thicket
 1 Hinterland Harbor
+1 Kiki-Jiki, Mirror Breaker
 1 Remand
+2 Deceiver Exarch
 2 Seasoned Pyromancer
 2 Island
-2 Deceiver Exarch
-2 Kiki-Jiki, Mirror Breaker
 2 Simian Spirit Guide
 2 Remand
+2 Kiki-Jiki, Mirror Breaker
 2 Pestermite
 3 Simian Spirit Guide
 3 Deceiver Exarch
@@ -52,22 +52,22 @@
 3 Wooded Foothills
 4 Wooded Foothills
 1 Searing Blaze
+1 Light Up the Stage
 1 Monastery Swiftspear
+1 Eidolon of the Great Revel
 1 Goblin Guide
 1 Skewer the Critics
-1 Eidolon of the Great Revel
 1 Rift Bolt
 1 Spirebluff Canal
 1 Mishra's Bauble
 1 Skullcrack
 1 Lava Spike
 1 Copperline Gorge
-1 Light Up the Stage
+2 Eidolon of the Great Revel
 2 Monastery Swiftspear
 2 Mountain
 2 Goblin Guide
 2 Rift Bolt
-2 Eidolon of the Great Revel
 2 Mishra's Bauble
 2 Copperline Gorge
 2 Searing Blaze
@@ -79,8 +79,8 @@
 3 Fiery Islet
 3 Monastery Swiftspear
 3 Goblin Guide
-3 Lava Spike
 3 Copperline Gorge
+3 Lava Spike
 3 Mishra's Bauble
 3 Searing Blaze
 4 Searing Blaze
@@ -90,54 +90,54 @@
 4 Mishra's Bauble
 4 Lava Spike
 1 Time Warp
-1 Arbor Elf
-1 Utopia Sprawl
-1 Walking Ballista
 1 Emrakul, the Aeons Torn
-1 Eternal Witness
+1 Castle Garenbrig
 1 Overgrowth
 1 Nykthos, Shrine to Nyx
 1 Kiora's Follower
 1 Xenagos, God of Revels
 1 Garruk Wildspeaker
 1 Tireless Tracker
-1 Castle Garenbrig
 1 Panglacial Wurm
+1 Utopia Sprawl
 1 Windswept Heath
 1 Hydroid Krasis
+1 Walking Ballista
 1 Primal Command
 1 Verdant Catacombs
 1 Kiora, Master of the Depths
+1 Eternal Witness
+1 Arbor Elf
 1 Birds of Paradise
 1 Tooth and Nail
 1 Primeval Titan
 1 Kessig Wolf Run
 2 Tireless Tracker
-2 Arbor Elf
-2 Utopia Sprawl
 2 Hydroid Krasis
-2 Eternal Witness
+2 Castle Garenbrig
 2 Tooth and Nail
 2 Kiora, Master of the Depths
 2 Windswept Heath
 2 Forest
-2 Castle Garenbrig
+2 Utopia Sprawl
+2 Arbor Elf
 2 Overgrowth
 2 Primal Command
 2 Garruk Wildspeaker
+2 Eternal Witness
 2 Birds of Paradise
 2 Kiora's Follower
-3 Utopia Sprawl
-3 Arbor Elf
 3 Breeding Pool
-3 Windswept Heath
 3 Forest
 3 Tooth and Nail
 3 Kiora's Follower
+3 Arbor Elf
+3 Windswept Heath
 3 Overgrowth
-4 Arbor Elf
+3 Utopia Sprawl
 4 Utopia Sprawl
 4 Windswept Heath
+4 Arbor Elf
 4 Forest
 4 Overgrowth
 1 Chandra, Torch of Defiance

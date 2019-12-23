@@ -31,15 +31,15 @@
 2 Censor
 3 Censor
 3 Dragonskull Summit
-1 Silumgar's Scorn
 1 Dragonlord Ojutai
+1 Silumgar's Scorn
 1 Dragonlord Silumgar
 2 Silumgar's Scorn
 2 Dragonlord Ojutai
-3 Silumgar's Scorn
 3 Dragonlord Ojutai
-4 Silumgar's Scorn
+3 Silumgar's Scorn
 4 Dragonlord Ojutai
+4 Silumgar's Scorn
 2 Concealed Courtyard
 2 Thought Erasure
 3 Thought Erasure
@@ -234,6 +234,33 @@
 2 Cast Out
 4 Censor
 4 Oko, Thief of Crowns
+3 Plains
+1 Secure the Wastes
+1 Ifnir Deadlands
+1 Westvale Abbey
+1 Sorin, Grim Nemesis
+1 Ob Nixilis Reignited
+1 Yahenni's Expertise
+1 Transgress the Mind
+1 Duress
+1 Blighted Fen
+1 Archangel Avacyn
+1 Lyra Dawnbringer
+2 Mortify
+2 Ob Nixilis Reignited
+2 Archangel Avacyn
+2 Westvale Abbey
+2 Transgress the Mind
+2 Ifnir Deadlands
+2 Duress
+2 Sorin, Grim Nemesis
+2 Blighted Fen
+2 Grasp of Darkness
+3 Transgress the Mind
+3 Ob Nixilis Reignited
+3 Grasp of Darkness
+4 Murderous Rider
+4 Grasp of Darkness
 1 Sylvan Advocate
 1 Lost Legacy
 1 Cry of the Carnarium
@@ -260,54 +287,6 @@
 3 Fires of Invention
 3 The Scarab God
 4 Fires of Invention
-1 Gideon Blackblade
-1 Gideon of the Trials
-1 Gideon's Triumph
-1 Kaya's Wrath
-1 Blood Baron of Vizkopa
-2 Heart of Kiran
-2 Gideon of the Trials
-2 Gideon's Triumph
-2 Gideon Blackblade
-2 Kaya's Wrath
-2 Blood Baron of Vizkopa
-3 Gideon, Ally of Zendikar
-3 Gideon of the Trials
-3 Heart of Kiran
-3 Kaya's Wrath
-3 Isolated Chapel
-4 Heart of Kiran
-4 Kaya's Wrath
-4 Gideon, Ally of Zendikar
-4 Gideon of the Trials
-4 Field of Ruin
-3 Plains
-1 Secure the Wastes
-1 Ifnir Deadlands
-1 Transgress the Mind
-1 Westvale Abbey
-1 Sorin, Grim Nemesis
-1 Ob Nixilis Reignited
-1 Yahenni's Expertise
-1 Duress
-1 Archangel Avacyn
-1 Blighted Fen
-1 Lyra Dawnbringer
-2 Mortify
-2 Ob Nixilis Reignited
-2 Transgress the Mind
-2 Grasp of Darkness
-2 Westvale Abbey
-2 Ifnir Deadlands
-2 Duress
-2 Archangel Avacyn
-2 Sorin, Grim Nemesis
-2 Blighted Fen
-3 Transgress the Mind
-3 Grasp of Darkness
-3 Ob Nixilis Reignited
-4 Murderous Rider
-4 Grasp of Darkness
 1 Disallow
 1 Pull from Tomorrow
 1 Spell Pierce
@@ -323,15 +302,15 @@
 3 Stomping Ground
 3 Lumbering Falls
 4 Expansion / Explosion
-1 The Royal Scions
 1 Young Pyromancer
 1 Claim / Fame
 1 Treasure Cruise
 1 Dreadhorde Arcanist
-2 Young Pyromancer
-2 The Royal Scions
-2 Collective Brutality
+1 The Royal Scions
 2 Treasure Cruise
+2 Young Pyromancer
+2 Collective Brutality
+2 The Royal Scions
 2 Dreadhorde Arcanist
 2 Claim / Fame
 3 Young Pyromancer
@@ -339,12 +318,12 @@
 4 Young Pyromancer
 4 Dreadhorde Arcanist
 4 Wild Slash
-1 Wandering Fumarole
 1 Disdainful Stroke
+1 Wandering Fumarole
 1 Nicol Bolas, the Ravager
-2 Wandering Fumarole
 2 Disdainful Stroke
 2 Nicol Bolas, the Ravager
+2 Wandering Fumarole
 3 Dreadbore
 3 Nicol Bolas, the Ravager
 4 Nicol Bolas, the Ravager
@@ -357,6 +336,27 @@
 2 Navigator's Compass
 3 Navigator's Compass
 4 Navigator's Compass
+1 Gideon Blackblade
+1 Gideon of the Trials
+1 Gideon's Triumph
+1 Blood Baron of Vizkopa
+1 Kaya's Wrath
+2 Gideon Blackblade
+2 Heart of Kiran
+2 Gideon's Triumph
+2 Gideon of the Trials
+2 Blood Baron of Vizkopa
+2 Kaya's Wrath
+3 Heart of Kiran
+3 Gideon of the Trials
+3 Gideon, Ally of Zendikar
+3 Kaya's Wrath
+3 Isolated Chapel
+4 Gideon of the Trials
+4 Gideon, Ally of Zendikar
+4 Field of Ruin
+4 Heart of Kiran
+4 Kaya's Wrath
 1 Narset, Parter of Veils
 1 Glimmer of Genius
 1 Geier Reach Sanitarium
@@ -381,11 +381,11 @@
 1 Nissa's Renewal
 1 Bontu's Last Reckoning
 1 Mastermind's Acquisition
-1 Temple of Malady
 1 Sign in Blood
+1 Temple of Malady
 1 Gaze of Granite
-1 Nissa's Pilgrimage
 1 Ugin, the Spirit Dragon
+1 Nissa's Pilgrimage
 1 Read the Bones
 2 Temple of Malady
 2 Nissa's Pilgrimage
@@ -451,33 +451,33 @@
 15 Plains
 16 Plains
 17 Plains
-1 Thunderbreak Regent
 1 Stormbreath Dragon
-1 Draconic Roar
 1 Castle Embereth
+1 Thunderbreak Regent
 1 Abrade
 1 Sarkhan, Fireblood
 1 Crater's Claws
+1 Draconic Roar
 2 Castle Embereth
-2 Thunderbreak Regent
 2 Stormbreath Dragon
-2 Draconic Roar
 2 Crater's Claws
+2 Thunderbreak Regent
+2 Draconic Roar
 2 Abrade
 2 Sarkhan, Fireblood
 3 Stormbreath Dragon
 3 Castle Embereth
-3 Thunderbreak Regent
 3 Magma Spray
+3 Thunderbreak Regent
 3 Draconic Roar
 3 Sarkhan, Fireblood
 3 Haven of the Spirit Dragon
-4 Thunderbreak Regent
 4 Anger of the Gods
 4 Castle Embereth
 4 Magma Spray
 4 Draconic Roar
 4 Sarkhan, Fireblood
+4 Thunderbreak Regent
 5 Mountain
 6 Mountain
 7 Mountain

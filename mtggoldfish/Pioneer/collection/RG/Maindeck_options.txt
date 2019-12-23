@@ -1,72 +1,6 @@
-1 Llanowar Elves
-2 Questing Beast
-2 Elvish Mystic
-2 Llanowar Elves
-3 Llanowar Elves
-3 Elvish Mystic
-4 Elvish Mystic
-4 Llanowar Elves
-4 Mountain
-7 Forest
-8 Forest
-1 Domri, Anarch of Bolas
-1 Glorybringer
-2 Domri, Anarch of Bolas
-2 Rhonas the Indomitable
-2 Glorybringer
-3 Glorybringer
-4 Glorybringer
-1 Ramunap Ruins
-1 Bomat Courier
-2 Ramunap Ruins
-1 Domri Rade
-1 Rekindling Phoenix
-1 Shifting Ceratops
-1 Xenagos, God of Revels
-1 Sheltered Thicket
-1 Lava Coil
-2 Rekindling Phoenix
-2 Sheltered Thicket
-2 Shifting Ceratops
-3 Domri, Anarch of Bolas
-3 Rekindling Phoenix
-4 Rekindling Phoenix
-5 Mountain
-6 Mountain
-3 Questing Beast
-1 Gruul Spellbreaker
-1 Lovestruck Beast
-2 Gruul Spellbreaker
-2 Lovestruck Beast
-3 Lovestruck Beast
-1 Voltaic Brawler
-2 Voltaic Brawler
-1 Castle Garenbrig
-2 Castle Garenbrig
-1 Thud
-2 Bomat Courier
-1 Mizzium Mortars
-2 Mizzium Mortars
-3 Mizzium Mortars
-3 Zurgo Bellstriker
-1 Chandra, Torch of Defiance
-2 Lava Coil
-3 Lava Coil
-4 Lava Coil
-1 Domri's Ambush
-1 Tireless Tracker
-1 Abrade
-1 Xenagos, the Reveler
-2 Domri's Ambush
-2 Xenagos, the Reveler
-2 Abrade
-2 Tireless Tracker
-3 Gruul Spellbreaker
-3 Tireless Tracker
-4 Gruul Spellbreaker
-4 Tireless Tracker
-4 Questing Beast
+1 Ghor-Clan Rampager
 1 Blossoming Defense
+1 Voltaic Brawler
 1 Become Immense
 1 Collision/Colossus
 1 Aether Hub
@@ -77,6 +11,7 @@
 1 Bristling Hydra
 1 Temur Battle Rage
 2 Blossoming Defense
+2 Voltaic Brawler
 2 Become Immense
 2 Aether Hub
 2 Longtusk Cub
@@ -84,14 +19,16 @@
 2 Collision/Colossus
 2 Electrostatic Pummeler
 2 Bristling Hydra
+2 Ghor-Clan Rampager
 2 Temur Battle Rage
 2 Attune with Aether
-3 Blossoming Defense
 3 Voltaic Brawler
+3 Blossoming Defense
 3 Aether Hub
 3 Temur Battle Rage
 3 Bristling Hydra
 3 Longtusk Cub
+3 Ghor-Clan Rampager
 3 Attune with Aether
 3 Electrostatic Pummeler
 3 Become Immense
@@ -101,43 +38,54 @@
 4 Aether Hub
 4 Electrostatic Pummeler
 4 Temur Battle Rage
+4 Ghor-Clan Rampager
 4 Longtusk Cub
 4 Bristling Hydra
 4 Attune with Aether
 4 Harnessed Lightning
+1 Castle Garenbrig
+2 Castle Garenbrig
+7 Forest
+8 Forest
+1 Yorvo, Lord of Garenbrig
+1 Burning-Tree Emissary
 1 Steel Leaf Champion
 1 Rhythm of the Wild
 1 Ghalta, Primal Hunger
 1 Surrak, the Hunt Caller
-1 Yorvo, Lord of Garenbrig
 1 The Great Henge
 2 Yorvo, Lord of Garenbrig
+2 Burning-Tree Emissary
 2 Steel Leaf Champion
 2 Rhythm of the Wild
 2 Ghalta, Primal Hunger
 2 Surrak, the Hunt Caller
+3 Burning-Tree Emissary
 3 Steel Leaf Champion
 3 Ghalta, Primal Hunger
 3 Surrak, the Hunt Caller
+3 Bonecrusher Giant
+4 Burning-Tree Emissary
 4 Lovestruck Beast
+4 Bonecrusher Giant
 4 Steel Leaf Champion
 1 Fabled Passage
 1 Sylvan Caryatid
-1 World Breaker
 1 Arch of Orazca
 1 Hedron Archive
 1 Nissa, Vastwood Seer
 1 Emrakul, the Promised End
 1 Chandra, Flamecaller
-1 Ishkanah, Grafwidow
 1 Kozilek's Return
+1 World Breaker
+1 Ishkanah, Grafwidow
 1 Dragonlord Atarka
 1 Ulamog, the Ceaseless Hunger
 1 Nissa's Pilgrimage
 1 Shrine of the Forsaken Gods
 1 Grapple with the Past
-1 Vessel of Nascency
 1 Walking Ballista
+1 Vessel of Nascency
 1 Cinder Glade
 1 Traverse the Ulvenwald
 2 Fabled Passage
@@ -157,8 +105,8 @@
 2 Walking Ballista
 3 Sylvan Caryatid
 3 Kozilek's Return
-3 Vessel of Nascency
 3 Traverse the Ulvenwald
+3 Vessel of Nascency
 3 Grapple with the Past
 3 Nissa's Pilgrimage
 4 Sylvan Caryatid

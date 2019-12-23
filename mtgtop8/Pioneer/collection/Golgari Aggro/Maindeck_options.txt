@@ -87,25 +87,25 @@
 2 Castle Locthwain
 1 Fabled Passage
 2 Fabled Passage
+1 Collective Brutality
 1 Grapple with the Past
 1 Chromanticore
-1 Collective Brutality
 2 Collective Brutality
 2 Grapple with the Past
 2 Chromanticore
 3 Chromanticore
-1 Jadelight Ranger
 1 Blossoming Defense
-1 Golgari Charm
 1 Dreadhorde Invasion
+1 Jadelight Ranger
+1 Golgari Charm
 2 Dreadhorde Invasion
-2 Jadelight Ranger
 2 Blossoming Defense
+2 Jadelight Ranger
 3 Dreadhorde Invasion
 3 Blossoming Defense
-3 Karn's Bastion
 2 Nykthos, Shrine to Nyx
 3 Scavenging Ooze
+3 Karn's Bastion
 1 The Great Henge
 1 Avatar of the Resolute
 1 Evolution Sage
@@ -114,17 +114,17 @@
 3 Avatar of the Resolute
 3 Evolution Sage
 3 Rishkar, Peema Renegade
-1 Rhonas the Indomitable
 1 Rotting Regisaur
 1 Nullhide Ferox
 1 Temple of Malady
+1 Rhonas the Indomitable
 2 Rotting Regisaur
 2 Rhonas the Indomitable
 2 Nullhide Ferox
 2 Temple of Malady
-3 Rotting Regisaur
-3 Nullhide Ferox
 3 Rhonas the Indomitable
+3 Nullhide Ferox
+3 Rotting Regisaur
 4 Nullhide Ferox
 4 Rotting Regisaur
 1 Dark Salvation
@@ -145,11 +145,11 @@
 2 Dread Wanderer
 2 Liliana, Untouched by Death
 2 Cryptbreaker
-3 Heart of Kiran
 3 Lord of the Accursed
 3 Diregraf Colossus
 3 Dread Wanderer
 3 Castle Locthwain
+3 Heart of Kiran
 3 Mutavault
 3 Cryptbreaker
 4 Lord of the Accursed
@@ -163,14 +163,14 @@
 2 Gather the Pack
 3 Gather the Pack
 4 Gather the Pack
-1 Ob Nixilis Reignited
 1 Tasigur, the Golden Fang
+1 Ob Nixilis Reignited
 1 Deathrite Shaman
-1 Liliana, the Last Hope
+1 Kalitas, Traitor of Ghet
 1 Sylvan Advocate
 1 Courser of Kruphix
 1 Tireless Tracker
-1 Kalitas, Traitor of Ghet
+1 Liliana, the Last Hope
 1 Hissing Quagmire
 2 Field of Ruin
 2 Tasigur, the Golden Fang
@@ -179,8 +179,8 @@
 2 Tireless Tracker
 2 Hissing Quagmire
 2 Courser of Kruphix
-3 Field of Ruin
 3 Abrupt Decay
+3 Field of Ruin
 3 Hissing Quagmire
 3 Fabled Passage
 3 Sylvan Advocate
