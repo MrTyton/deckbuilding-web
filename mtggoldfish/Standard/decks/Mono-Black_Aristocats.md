@@ -26,3 +26,16 @@
 |                                                                                          |                                                                                              |                                                                                          |                                                                                                      |2 [Epic Downfall](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473047)|
 |                                                                                          |                                                                                              |                                                                                          |                                                                                                      |2 [Legion's End](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466860) |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                           Maindeck Card                                            |*n*<sup>th</sup> copy|                                          Sideboard Card                                           |
+|--------------------:|----------------------------------------------------------------------------------------------------|--------------------:|---------------------------------------------------------------------------------------------------|
+|                    1|[Dreadhorde Invasion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461013)      |                    1|[Sorcerous Spyglass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435407)      |
+|                    3|[Orzhov Enforcer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457223)          |                    1|[Cavalier of Night](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466848)       |
+|                    4|[Drill Bit](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457217)                |                    1|[Priest of Forgotten Gods](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457227)|
+|                    4|[Orzhov Enforcer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457223)          |                    2|[Sorcerous Spyglass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435407)      |
+|                    4|[Castle Locthwain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473203)         |                    2|[Priest of Forgotten Gods](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457227)|
+|                    4|[Murderous Rider](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473059)          |                    2|[Cavalier of Night](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466848)       |
+|                    4|[Ayara, First of Locthwain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473037)|                     |                                                                                                   |
+

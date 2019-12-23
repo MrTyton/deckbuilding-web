@@ -27,8 +27,8 @@
 
 |*n*<sup>th</sup> copy|                                        Maindeck Card                                         |*n*<sup>th</sup> copy|                                        Sideboard Card                                         |
 |--------------------:|----------------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------------|
-|                    1|[Stonecoil Serpent](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473197)  |                    1|[Beast Within](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446158)        |
-|                    1|[Phyrexian Metamorph](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=214375)|                    1|[Sword of Fire and Ice](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=46429)|
+|                    1|[Stonecoil Serpent](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473197)  |                    1|[Sword of Fire and Ice](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=46429)|
+|                    1|[Phyrexian Metamorph](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=214375)|                    1|[Beast Within](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446158)        |
 |                    2|[Stonecoil Serpent](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473197)  |                    2|[Beast Within](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446158)        |
 |                    3|[Lodestone Golem](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220536)    |                    3|[Ensnaring Bridge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=15866)     |
 |                    3|[Lotus Petal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420602)        |                    3|[Spellskite](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397743)          |

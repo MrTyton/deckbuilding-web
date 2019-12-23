@@ -235,21 +235,21 @@
 4 Censor
 4 Oko, Thief of Crowns
 1 Sylvan Advocate
-1 Den Protector
 1 Lost Legacy
 1 Cry of the Carnarium
+1 Den Protector
 1 Woodland Cemetery
 1 Scavenging Ooze
 1 Pulse of Murasa
 2 Sylvan Advocate
 2 Woodland Cemetery
 2 Scavenging Ooze
+3 Sylvan Advocate
 3 Hissing Quagmire
 3 Overgrown Tomb
-3 Sylvan Advocate
 3 Tireless Tracker
-4 Overgrown Tomb
 4 Sylvan Advocate
+4 Overgrown Tomb
 1 Temple of Deceit
 1 Fires of Invention
 1 Gonti, Lord of Luxury
@@ -260,6 +260,27 @@
 3 Fires of Invention
 3 The Scarab God
 4 Fires of Invention
+1 Gideon Blackblade
+1 Gideon of the Trials
+1 Gideon's Triumph
+1 Kaya's Wrath
+1 Blood Baron of Vizkopa
+2 Heart of Kiran
+2 Gideon of the Trials
+2 Gideon's Triumph
+2 Gideon Blackblade
+2 Kaya's Wrath
+2 Blood Baron of Vizkopa
+3 Gideon, Ally of Zendikar
+3 Gideon of the Trials
+3 Heart of Kiran
+3 Kaya's Wrath
+3 Isolated Chapel
+4 Heart of Kiran
+4 Kaya's Wrath
+4 Gideon, Ally of Zendikar
+4 Gideon of the Trials
+4 Field of Ruin
 3 Plains
 1 Secure the Wastes
 1 Ifnir Deadlands
@@ -269,8 +290,8 @@
 1 Ob Nixilis Reignited
 1 Yahenni's Expertise
 1 Duress
-1 Blighted Fen
 1 Archangel Avacyn
+1 Blighted Fen
 1 Lyra Dawnbringer
 2 Mortify
 2 Ob Nixilis Reignited
@@ -279,8 +300,8 @@
 2 Westvale Abbey
 2 Ifnir Deadlands
 2 Duress
-2 Sorin, Grim Nemesis
 2 Archangel Avacyn
+2 Sorin, Grim Nemesis
 2 Blighted Fen
 3 Transgress the Mind
 3 Grasp of Darkness
@@ -302,15 +323,15 @@
 3 Stomping Ground
 3 Lumbering Falls
 4 Expansion / Explosion
+1 The Royal Scions
 1 Young Pyromancer
 1 Claim / Fame
 1 Treasure Cruise
 1 Dreadhorde Arcanist
-1 The Royal Scions
-2 Treasure Cruise
 2 Young Pyromancer
-2 Collective Brutality
 2 The Royal Scions
+2 Collective Brutality
+2 Treasure Cruise
 2 Dreadhorde Arcanist
 2 Claim / Fame
 3 Young Pyromancer
@@ -318,12 +339,12 @@
 4 Young Pyromancer
 4 Dreadhorde Arcanist
 4 Wild Slash
-1 Disdainful Stroke
 1 Wandering Fumarole
+1 Disdainful Stroke
 1 Nicol Bolas, the Ravager
+2 Wandering Fumarole
 2 Disdainful Stroke
 2 Nicol Bolas, the Ravager
-2 Wandering Fumarole
 3 Dreadbore
 3 Nicol Bolas, the Ravager
 4 Nicol Bolas, the Ravager
@@ -357,35 +378,14 @@
 3 Syncopate
 4 Syncopate
 4 Languish
-1 Gideon Blackblade
-1 Gideon of the Trials
-1 Gideon's Triumph
-1 Kaya's Wrath
-1 Blood Baron of Vizkopa
-2 Heart of Kiran
-2 Gideon of the Trials
-2 Gideon's Triumph
-2 Gideon Blackblade
-2 Kaya's Wrath
-2 Blood Baron of Vizkopa
-3 Gideon of the Trials
-3 Heart of Kiran
-3 Kaya's Wrath
-3 Gideon, Ally of Zendikar
-3 Isolated Chapel
-4 Heart of Kiran
-4 Kaya's Wrath
-4 Gideon of the Trials
-4 Field of Ruin
-4 Gideon, Ally of Zendikar
 1 Nissa's Renewal
 1 Bontu's Last Reckoning
 1 Mastermind's Acquisition
 1 Temple of Malady
 1 Sign in Blood
 1 Gaze of Granite
-1 Ugin, the Spirit Dragon
 1 Nissa's Pilgrimage
+1 Ugin, the Spirit Dragon
 1 Read the Bones
 2 Temple of Malady
 2 Nissa's Pilgrimage
@@ -398,8 +398,8 @@
 1 Blind Obedience
 1 Dawn of Hope
 1 Quarantine Field
-1 Thraben Inspector
 1 Walking Ballista
+1 Thraben Inspector
 1 Legion's Landing
 1 Mastery of the Unseen
 1 Nykthos, Shrine to Nyx

@@ -29,8 +29,8 @@
 
 |*n*<sup>th</sup> copy|                                      Maindeck Card                                      |*n*<sup>th</sup> copy|                                      Sideboard Card                                      |
 |--------------------:|-----------------------------------------------------------------------------------------|--------------------:|------------------------------------------------------------------------------------------|
-|                    2|[Soul-Scar Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426850)|                    2|[Mizzium Mortars](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405302)|
-|                    3|[Soul-Scar Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426850)|                    1|[Mizzium Mortars](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405302)|
+|                    1|[Soul-Scar Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426850)|                    2|[Mizzium Mortars](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405302)|
+|                    2|[Soul-Scar Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426850)|                    1|[Mizzium Mortars](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405302)|
+|                    3|[Soul-Scar Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426850)|                     |                                                                                          |
 |                    4|[Soul-Scar Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426850)|                     |                                                                                          |
-|                    1|[Soul-Scar Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426850)|                     |                                                                                          |
 

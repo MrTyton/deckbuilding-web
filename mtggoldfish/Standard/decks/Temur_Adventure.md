@@ -41,7 +41,7 @@
 |                    1|[Return to Nature](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461102)   |                    1|[Frogify](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473009)         |
 |                    2|[Return to Nature](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461102)   |                    1|[Aether Gust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466796)     |
 |                    3|[Escape to the Wilds](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473151)|                    1|[Once and Future](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473130) |
-|                    4|[Brazen Borrower](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473001)    |                    2|[Return to Nature](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461102)|
-|                    4|[Hydroid Krasis](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457327)     |                    2|[Once and Future](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473130) |
+|                    4|[Hydroid Krasis](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457327)     |                    2|[Return to Nature](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461102)|
+|                    4|[Brazen Borrower](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473001)    |                    2|[Once and Future](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473130) |
 |                    5|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)             |                     |                                                                                           |
 

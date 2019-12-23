@@ -19,6 +19,7 @@
 1 Magma Mine
 1 Welding Jar
 1 Mycosynth Lattice
+1 Plague Engineer
 1 Vendilion Clique
 1 Supreme Verdict
 1 Flusterstorm
@@ -32,16 +33,6 @@
 1 Sorcerous Spyglass
 2 Rest in Peace
 3 Pyroblast
-1 Monastery Mentor
-1 Abrade
-1 Chain of Vapor
-1 Faerie Macabre
-1 Hope of Ghirapur
-2 Chain of Vapor
-2 Tormod's Crypt
-2 Faerie Macabre
-2 Hope of Ghirapur
-3 Hope of Ghirapur
 1 Teferi, Time Raveler
 1 Force of Will
 1 Hurkyl's Recall
@@ -53,4 +44,13 @@
 3 Defense Grid
 3 Surgical Extraction
 4 Defense Grid
-1 Plague Engineer
+1 Monastery Mentor
+1 Abrade
+1 Chain of Vapor
+1 Faerie Macabre
+1 Hope of Ghirapur
+2 Chain of Vapor
+2 Faerie Macabre
+2 Hope of Ghirapur
+3 Hope of Ghirapur
+2 Tormod's Crypt

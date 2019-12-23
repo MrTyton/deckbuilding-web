@@ -24,19 +24,19 @@
 3 Bonecrusher Giant
 4 Skewer the Critics
 1 Sacred Foundry
-1 Battlefield Forge
 1 Boros Charm
+1 Battlefield Forge
 1 Inspiring Vantage
 2 Sacred Foundry
 2 Boros Charm
 2 Battlefield Forge
 2 Inspiring Vantage
-3 Sacred Foundry
 3 Boros Charm
+3 Sacred Foundry
 3 Inspiring Vantage
+4 Boros Charm
 4 Inspiring Vantage
 4 Sacred Foundry
-4 Boros Charm
 4 Experimental Frenzy
 3 Battlefield Forge
 4 Battlefield Forge
@@ -61,9 +61,9 @@
 2 Burning-Tree Emissary
 3 Burning-Tree Emissary
 4 Burning-Tree Emissary
-1 Goblin Piledriver
-1 Foundry Street Denizen
 1 Goblin Instigator
+1 Foundry Street Denizen
+1 Goblin Piledriver
 1 Reckless Bushwhacker
 2 Goblin Instigator
 2 Foundry Street Denizen
@@ -79,8 +79,8 @@
 1 Torbran, Thane of Red Fell
 2 Torbran, Thane of Red Fell
 1 Glorybringer
-2 Chandra, Torch of Defiance
 2 Glorybringer
+2 Chandra, Torch of Defiance
 3 Glorybringer
 1 Exquisite Firecraft
 2 Exquisite Firecraft
@@ -93,9 +93,9 @@
 1 Stoke the Flames
 1 Legion Loyalist
 1 Fanatical Firebrand
+2 Reckless Bushwhacker
 2 Stoke the Flames
 2 Legion Loyalist
-2 Reckless Bushwhacker
 2 Fanatical Firebrand
 3 Stoke the Flames
 3 Reckless Bushwhacker
@@ -120,6 +120,18 @@
 4 Goblin Ringleader
 4 Skirk Prospector
 4 Goblin Warchief
+1 Mutavault
+1 Rampaging Ferocidon
+1 Kari Zev, Skyship Raider
+2 Mutavault
+2 Kari Zev, Skyship Raider
+2 Rampaging Ferocidon
+3 Chandra, Torch of Defiance
+3 Mutavault
+3 Rampaging Ferocidon
+4 Mutavault
+4 Rampaging Ferocidon
+4 Goblin Rabblemaster
 1 Robber of the Rich
 1 Slaying Fire
 1 Young Pyromancer
@@ -128,59 +140,47 @@
 3 Robber of the Rich
 4 Robber of the Rich
 4 Hazoret the Fervent
-1 Fabled Passage
-1 Fanatic of Mogis
 1 Boros Reckoner
+1 Fanatic of Mogis
+1 Fabled Passage
 1 Rakdos Cackler
-2 Ash Zealot
-2 Fanatic of Mogis
 2 Boros Reckoner
+2 Fanatic of Mogis
+2 Ash Zealot
 2 Rakdos Cackler
 2 Fabled Passage
+3 Fanatic of Mogis
 3 Boros Reckoner
 3 Rakdos Cackler
 3 Torbran, Thane of Red Fell
-3 Fanatic of Mogis
+4 Fanatic of Mogis
 4 Boros Reckoner
 4 Rakdos Cackler
-4 Fanatic of Mogis
 1 Squee, the Immortal
 1 Drownyard Temple
 1 Lava Coil
+1 Mizzium Mortars
 1 Stormbreath Dragon
-1 Lightning Axe
 1 Dire Fleet Daredevil
 1 Scab-Clan Berserker
-1 Aethersphere Harvester
 1 Pia and Kiran Nalaar
+1 Aethersphere Harvester
 1 Westvale Abbey
+1 Lightning Axe
 1 Roast
-1 Mizzium Mortars
 2 Stormbreath Dragon
 2 Scab-Clan Berserker
+2 Mizzium Mortars
 2 Dire Fleet Daredevil
-2 Aethersphere Harvester
 2 Pia and Kiran Nalaar
+2 Aethersphere Harvester
 2 Squee, the Immortal
 2 Westvale Abbey
 2 Roast
 2 Lightning Axe
-2 Mizzium Mortars
 3 Scab-Clan Berserker
 3 Pia and Kiran Nalaar
 3 Westvale Abbey
-4 Scab-Clan Berserker
 4 Glorybringer
+4 Scab-Clan Berserker
 4 Westvale Abbey
-1 Mutavault
-1 Rampaging Ferocidon
-1 Kari Zev, Skyship Raider
-2 Kari Zev, Skyship Raider
-2 Mutavault
-2 Rampaging Ferocidon
-3 Mutavault
-3 Rampaging Ferocidon
-3 Chandra, Torch of Defiance
-4 Rampaging Ferocidon
-4 Mutavault
-4 Goblin Rabblemaster
