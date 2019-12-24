@@ -26,3 +26,28 @@
 |                                                                                               |1 [Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)           |1 [Enter the God-Eternals](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461123)|
 |                                                                                               |3 [Noxious Grasp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466864)    |                                                                                                   |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                          Maindeck Card                                          |*n*<sup>th</sup> copy|                                        Sideboard Card                                         |
+|--------------------:|-------------------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------------|
+|                    1|[Aether Gust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466796)           |                    1|[Aether Gust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466796)         |
+|                    1|[Overwhelmed Apprentice](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473022)|                    2|[Aether Gust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466796)         |
+|                    1|[Thought Collapse](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457201)      |                    2|[Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)    |
+|                    1|[Tyrant's Scorn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461152)        |                    3|[Cry of the Carnarium](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457214)|
+|                    2|[Tyrant's Scorn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461152)        |                    3|[Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)    |
+|                    2|[Aether Gust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466796)           |                    4|[Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)    |
+|                    2|[Thought Collapse](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457201)      |                    4|[Noxious Grasp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466864)       |
+|                    2|[Overwhelmed Apprentice](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473022)|                     |                                                                                               |
+|                    2|[Castle Vantress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473204)       |                     |                                                                                               |
+|                    3|[Overwhelmed Apprentice](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473022)|                     |                                                                                               |
+|                    4|[Into the Story](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473012)        |                     |                                                                                               |
+|                    4|[Overwhelmed Apprentice](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473022)|                     |                                                                                               |
+|                    4|[Brazen Borrower](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473001)       |                     |                                                                                               |
+|                    4|[Drown in the Loch](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473150)     |                     |                                                                                               |
+|                    4|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)                 |                     |                                                                                               |
+|                    5|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)                 |                     |                                                                                               |
+|                    7|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)                |                     |                                                                                               |
+|                    8|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)                |                     |                                                                                               |
+|                    9|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)                |                     |                                                                                               |
+

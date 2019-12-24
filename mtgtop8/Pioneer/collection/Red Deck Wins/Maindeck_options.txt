@@ -1,28 +1,25 @@
+3 Ghitu Lavarunner
+4 Ghitu Lavarunner
+1 Searing Blood
+2 Searing Blood
 1 Wizard's Lightning
 2 Wizard's Lightning
 3 Wizard's Lightning
 4 Wizard's Lightning
-1 Searing Blood
-2 Searing Blood
-1 Eidolon of the Great Revel
-2 Eidolon of the Great Revel
 17 Mountain
-3 Searing Blood
-4 Searing Blood
+1 Goblin Chainwhirler
+2 Goblin Chainwhirler
 3 Shock
 4 Shock
+3 Eidolon of the Great Revel
+3 Goblin Chainwhirler
+4 Goblin Chainwhirler
+3 Searing Blood
+4 Searing Blood
 1 Skewer the Critics
 2 Skewer the Critics
 3 Skewer the Critics
-3 Eidolon of the Great Revel
 4 Eidolon of the Great Revel
-1 Goblin Chainwhirler
-2 Goblin Chainwhirler
-3 Experimental Frenzy
-3 Goblin Chainwhirler
-4 Goblin Chainwhirler
-3 Bonecrusher Giant
-4 Skewer the Critics
 1 Sacred Foundry
 1 Battlefield Forge
 1 Boros Charm
@@ -37,9 +34,12 @@
 4 Inspiring Vantage
 4 Sacred Foundry
 4 Boros Charm
-4 Experimental Frenzy
+3 Experimental Frenzy
+3 Bonecrusher Giant
+4 Skewer the Critics
 3 Battlefield Forge
 4 Battlefield Forge
+4 Experimental Frenzy
 1 Viashino Pyromancer
 2 Hazoret the Fervent
 4 Bonecrusher Giant
@@ -84,6 +84,9 @@
 3 Glorybringer
 1 Exquisite Firecraft
 2 Exquisite Firecraft
+1 Lightning Berserker
+1 Mana Confluence
+2 Lightning Berserker
 1 Skullcrack
 2 Skullcrack
 1 Smuggler's Copter
@@ -111,8 +114,8 @@
 1 Icon of Ancestry
 1 Siege-Gang Commander
 2 Goblin Warchief
-2 Skirk Prospector
 2 Goblin Ringleader
+2 Skirk Prospector
 2 Goblin Trashmaster
 3 Skirk Prospector
 3 Goblin Ringleader
@@ -128,12 +131,12 @@
 3 Robber of the Rich
 4 Robber of the Rich
 4 Hazoret the Fervent
-1 Fanatic of Mogis
 1 Boros Reckoner
+1 Fanatic of Mogis
 1 Fabled Passage
 1 Rakdos Cackler
-2 Fanatic of Mogis
 2 Boros Reckoner
+2 Fanatic of Mogis
 2 Ash Zealot
 2 Rakdos Cackler
 2 Fabled Passage
@@ -144,26 +147,26 @@
 4 Boros Reckoner
 4 Fanatic of Mogis
 4 Rakdos Cackler
-1 Drownyard Temple
 1 Squee, the Immortal
+1 Drownyard Temple
 1 Lava Coil
-1 Mizzium Mortars
+1 Westvale Abbey
+1 Scab-Clan Berserker
 1 Stormbreath Dragon
 1 Lightning Axe
 1 Dire Fleet Daredevil
-1 Scab-Clan Berserker
-1 Pia and Kiran Nalaar
-1 Westvale Abbey
 1 Aethersphere Harvester
+1 Pia and Kiran Nalaar
 1 Roast
+1 Mizzium Mortars
 2 Stormbreath Dragon
-2 Scab-Clan Berserker
 2 Mizzium Mortars
 2 Dire Fleet Daredevil
-2 Pia and Kiran Nalaar
+2 Aethersphere Harvester
+2 Scab-Clan Berserker
 2 Squee, the Immortal
 2 Westvale Abbey
-2 Aethersphere Harvester
+2 Pia and Kiran Nalaar
 2 Roast
 2 Lightning Axe
 3 Scab-Clan Berserker
@@ -172,15 +175,15 @@
 4 Scab-Clan Berserker
 4 Glorybringer
 4 Westvale Abbey
-1 Mutavault
 1 Rampaging Ferocidon
 1 Kari Zev, Skyship Raider
-2 Mutavault
+1 Mutavault
 2 Kari Zev, Skyship Raider
+2 Mutavault
 2 Rampaging Ferocidon
 3 Chandra, Torch of Defiance
 3 Mutavault
 3 Rampaging Ferocidon
-4 Mutavault
 4 Rampaging Ferocidon
+4 Mutavault
 4 Goblin Rabblemaster

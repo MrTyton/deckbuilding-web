@@ -22,3 +22,12 @@
 |2 [Kambal, Consul of Allocation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417756)|2 [Oath of Kaya](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461136)|3 [Abrupt Decay](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456061)|2 [Ashiok, Dream Render](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461155)|3 [Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)        |
 |1 [Teshar, Ancestor's Apostle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442924)  |                                                                                         |                                                                                         |                                                                                                 |2 [Urza's Ruinous Blast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442927)|
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|Maindeck Card|*n*<sup>th</sup> copy|                                       Sideboard Card                                       |
+|---------------------|-------------|--------------------:|--------------------------------------------------------------------------------------------|
+|                     |             |                    1|[Assassin's Trophy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452902)|
+|                     |             |                    1|[Fatal Push](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423724)       |
+|                     |             |                    2|[Fatal Push](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423724)       |
+

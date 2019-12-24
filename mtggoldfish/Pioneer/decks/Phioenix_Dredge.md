@@ -27,12 +27,12 @@
 
 |*n*<sup>th</sup> copy|                                       Maindeck Card                                        |*n*<sup>th</sup> copy|Sideboard Card|
 |--------------------:|--------------------------------------------------------------------------------------------|---------------------|--------------|
-|                    1|[Castle Vantress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473204)  |                     |              |
 |                    1|[Drowned Secrets](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452789)  |                     |              |
+|                    1|[Castle Vantress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473204)  |                     |              |
 |                    1|[Maximize Altitude](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452793)|                     |              |
 |                    2|[Drowned Secrets](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452789)  |                     |              |
 |                    2|[Maximize Altitude](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452793)|                     |              |
-|                    3|[Maximize Altitude](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452793)|                     |              |
 |                    3|[Opt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442948)              |                     |              |
+|                    3|[Maximize Altitude](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452793)|                     |              |
 |                    3|[Drowned Secrets](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452789)  |                     |              |
 

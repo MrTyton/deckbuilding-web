@@ -29,13 +29,13 @@
 2 Abzan Charm
 2 Shambling Vent
 3 Concealed Courtyard
-3 Isolated Chapel
 1 Mana Confluence
 1 Rakshasa Deathdealer
 2 Mana Confluence
 2 Rakshasa Deathdealer
 3 Gideon, Ally of Zendikar
 3 Rakshasa Deathdealer
+3 Isolated Chapel
 3 Forest
 4 Concealed Courtyard
 1 Tasigur, the Golden Fang
@@ -46,8 +46,8 @@
 2 Assassin's Trophy
 4 Fatal Push
 1 Castle Locthwain
-1 Murderous Cut
 1 Thalia, Heretic Cathar
+1 Murderous Cut
 1 Walking Ballista
 2 Walking Ballista
 3 Mana Confluence
@@ -67,10 +67,10 @@
 3 Languish
 3 Murderous Rider
 3 Abzan Charm
+1 Vraska the Unseen
 1 Vessel of Nascency
 1 Deathrite Shaman
 1 Collective Brutality
-1 Vraska the Unseen
 2 Vraska the Unseen
 2 Vessel of Nascency
 2 Deathrite Shaman
@@ -102,8 +102,8 @@
 1 Witch's Oven
 1 Cauldron Familiar
 1 Trail of Crumbs
-2 Gilded Goose
 2 Wicked Wolf
+2 Gilded Goose
 2 Smuggler's Copter
 2 Anguished Unmaking
 2 Archangel Avacyn
@@ -112,8 +112,8 @@
 2 Trail of Crumbs
 3 Gilded Goose
 3 Smuggler's Copter
-3 Archangel Avacyn
 3 Wicked Wolf
+3 Archangel Avacyn
 3 Cauldron Familiar
 3 Anguished Unmaking
 3 Trail of Crumbs
@@ -123,19 +123,20 @@
 4 Witch's Oven
 4 Trail of Crumbs
 1 Collected Company
-1 Liliana, Heretical Healer
 1 Unclaimed Territory
-1 Xathrid Necromancer
 1 Plaguecrafter
+1 Xathrid Necromancer
+1 Zulaport Cutthroat
+1 Liliana, Heretical Healer
 1 Thalia's Lieutenant
 1 Kytheon, Hero of Akros
 1 Bloodsoaked Champion
-1 Zulaport Cutthroat
 1 Cartel Aristocrat
 1 Dauntless Bodyguard
 1 Channeler Initiate
 2 Collected Company
 2 Unclaimed Territory
+2 Zulaport Cutthroat
 2 Xathrid Necromancer
 2 Plaguecrafter
 2 Cartel Aristocrat
@@ -143,11 +144,11 @@
 2 Bloodsoaked Champion
 2 Kytheon, Hero of Akros
 2 Thalia's Lieutenant
-2 Zulaport Cutthroat
 2 Channeler Initiate
 2 Dauntless Bodyguard
-3 Unclaimed Territory
 3 Collected Company
+3 Unclaimed Territory
+3 Zulaport Cutthroat
 3 Channeler Initiate
 3 Dauntless Bodyguard
 3 Cartel Aristocrat
@@ -155,14 +156,13 @@
 3 Liliana, Heretical Healer
 3 Thalia's Lieutenant
 3 Xathrid Necromancer
-3 Zulaport Cutthroat
 3 Bloodsoaked Champion
 4 Godless Shrine
-4 Unclaimed Territory
 4 Collected Company
+4 Unclaimed Territory
+4 Zulaport Cutthroat
 4 Xathrid Necromancer
 4 Bloodsoaked Champion
-4 Zulaport Cutthroat
 4 Thalia's Lieutenant
 4 Dauntless Bodyguard
 4 Cartel Aristocrat

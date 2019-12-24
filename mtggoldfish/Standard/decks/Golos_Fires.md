@@ -41,7 +41,18 @@
 
 # Other Options
 
-|*n*<sup>th</sup> copy|                                     Maindeck Card                                     |*n*<sup>th</sup> copy|Sideboard Card|
-|--------------------:|---------------------------------------------------------------------------------------|---------------------|--------------|
-|                    4|[Breeding Pool](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=97088)|                     |              |
+|*n*<sup>th</sup> copy|                                            Maindeck Card                                            |*n*<sup>th</sup> copy|                                          Sideboard Card                                          |
+|--------------------:|-----------------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------------|
+|                    4|[Breeding Pool](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=97088)              |                    1|[Ethereal Absolution](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457314)    |
+|                    1|[Deafening Clarion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452915)         |                    1|[Conclave Tribunal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452756)      |
+|                    1|[Watery Grave](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405114)              |                    1|[Hushbringer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472980)            |
+|                    1|[Thought Erasure](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452956)           |                    1|[Time Wipe](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461150)              |
+|                    1|[Overgrown Tomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405103)            |                    1|[Knight of Autumn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452933)       |
+|                    1|[Tolsimir, Friend to Wolves](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461151)|                    1|[Casualties of War](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461114)      |
+|                    2|[Thought Erasure](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452956)           |                    1|[Garruk, Cursed Huntsman](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473153)|
+|                    2|[Temple of Epiphany](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442808)        |                    2|[Conclave Tribunal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452756)      |
+|                    2|[Deafening Clarion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452915)         |                    2|[Hushbringer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472980)            |
+|                    3|[Temple of Epiphany](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442808)        |                    2|[Time Wipe](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461150)              |
+|                    3|[Hallowed Fountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=97071)          |                    2|[Casualties of War](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461114)      |
+|                    4|[Hallowed Fountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=97071)          |                    4|[Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)       |
 

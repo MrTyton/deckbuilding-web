@@ -9,16 +9,16 @@
 1 World Breaker
 2 Hashep Oasis
 2 Nissa's Pilgrimage
-2 Shrine of the Forsaken Gods
 2 World Breaker
 2 Sanctum of Ugin
+2 Shrine of the Forsaken Gods
 2 Castle Garenbrig
 3 Castle Garenbrig
-3 Nissa's Pilgrimage
 3 Ugin, the Spirit Dragon
 3 Shrine of the Forsaken Gods
-4 Nissa's Pilgrimage
+3 Nissa's Pilgrimage
 4 Ugin, the Spirit Dragon
+4 Nissa's Pilgrimage
 4 Once Upon a Time
 1 Llanowar Wastes
 1 Arch of Orazca
@@ -32,10 +32,10 @@
 1 Tireless Tracker
 2 Tireless Tracker
 3 Tireless Tracker
-1 Castle Locthwain
-1 Urborg, Tomb of Yawgmoth
-1 Hissing Quagmire
 1 Temple of Malady
+1 Hissing Quagmire
+1 Urborg, Tomb of Yawgmoth
+1 Castle Locthwain
 1 Abrupt Decay
 1 Woodland Cemetery
 1 Blooming Marsh
@@ -61,8 +61,8 @@
 2 Spatial Contortion
 3 Hashep Oasis
 3 Spatial Contortion
-1 Murderous Rider
 1 Legion's End
+1 Murderous Rider
 2 Murderous Rider
 3 Fatal Push
 1 Scavenger Grounds
@@ -80,13 +80,13 @@
 4 Abrupt Decay
 1 Tranquil Cove
 1 Hedron Archive
-1 Thought-Knot Seer
 1 Walking Ballista
+1 Thought-Knot Seer
 1 Nissa, Vastwood Seer
 2 Fabled Passage
 1 Kalitas, Traitor of Ghet
-2 Llanowar Wastes
 2 Kalitas, Traitor of Ghet
+2 Llanowar Wastes
 1 Settle the Wreckage
 2 Plains
 2 Settle the Wreckage
@@ -115,19 +115,19 @@
 2 Fumigate
 2 Island
 2 Breeding Pool
-3 Hydroid Krasis
 3 Settle the Wreckage
+3 Hydroid Krasis
 3 Island
 3 Fumigate
 2 Legion's End
 4 Fatal Push
 1 Oko, Thief of Crowns
-1 Chandra, Flamecaller
 1 Circuitous Route
 1 Dimir Guildgate
 1 Golos, Tireless Pilgrim
-1 Chandra, Awakened Inferno
+1 Chandra, Flamecaller
 1 Nissa, Vital Force
+1 Chandra, Awakened Inferno
 1 Gateway Plaza
 1 Boros Guildgate
 1 Selesnya Guildgate
@@ -144,8 +144,8 @@
 2 Circuitous Route
 2 Courser of Kruphix
 2 Golos, Tireless Pilgrim
-2 Chandra, Awakened Inferno
 2 Nissa, Vital Force
+2 Chandra, Awakened Inferno
 2 Maze's End
 2 Gruul Guildgate
 2 Simic Guildgate

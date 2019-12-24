@@ -1,7 +1,7 @@
 # Five-Colors Elementals
 
 #### [Export MTGO List](../collection/Five-Colors%20Elementals/Five-Colors%20Elementals.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Aether%20Vial%0A4%09Ancient%20Ziggurat%0A4%09Cavern%20of%20Souls%0A1%09Fiery%20Islet%0A4%09Flamekin%20Harbinger%0A2%09Flickerwisp%0A2%09Force%20of%20Negation%0A1%09Fulminator%20Mage%0A4%09Lightning%20Skelemental%0A1%09Mountain%0A1%09Mulldrifter%0A1%09Omnath,%20Locus%20of%20the%20Roil%0A3%09Phantasmal%20Image%0A4%09Primal%20Beyond%0A4%09Risen%20Reef%0A1%09Shriekmaw%0A2%09Simian%20Spirit%20Guide%0A2%09Spitebellows%0A1%09Sunbaked%20Canyon%0A4%09Thunderkin%20Awakener%0A4%09Unclaimed%20Territory%0A4%09Unsettled%20Mariner%0A2%09Vesperlark&deckside=3%09Damping%20Sphere%0A1%09Dismember%0A3%09Force%20of%20Negation%0A2%09Fulminator%20Mage%0A1%09Grafdigger's%20Cage%0A2%09Healer%20of%20the%20Glade%0A1%09Ingot%20Chewer%0A2%09Ravenous%20Trap)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Aether%20Vial%0A4%09Ancient%20Ziggurat%0A4%09Cavern%20of%20Souls%0A1%09Fiery%20Islet%0A4%09Flamekin%20Harbinger%0A2%09Flickerwisp%0A2%09Force%20of%20Negation%0A1%09Fulminator%20Mage%0A4%09Lightning%20Skelemental%0A1%09Mountain%0A1%09Mulldrifter%0A1%09Omnath,%20Locus%20of%20the%20Roil%0A3%09Phantasmal%20Image%0A4%09Primal%20Beyond%0A4%09Risen%20Reef%0A1%09Shriekmaw%0A2%09Simian%20Spirit%20Guide%0A2%09Spitebellows%0A1%09Sunbaked%20Canyon%0A4%09Thunderkin%20Awakener%0A4%09Unclaimed%20Territory%0A4%09Unsettled%20Mariner%0A2%09Vesperlark&deckside=3%09Damping%20Sphere%0A1%09Dismember%0A2%09Force%20of%20Negation%0A2%09Fulminator%20Mage%0A1%09Grafdigger's%20Cage%0A3%09Healer%20of%20the%20Glade%0A1%09Ingot%20Chewer%0A2%09Ravenous%20Trap)
 # Maindeck
 
 |                                     Artifact (4)                                      |                                            Creature (35)                                             |                                         Instant (2)                                          |                                           Land (19)                                            |
@@ -24,20 +24,20 @@
 
 # Sideboard
 
-|                                         Artifact (4)                                         |                                          Creature (5)                                          |                                         Instant (6)                                          |
+|                                         Artifact (4)                                         |                                          Creature (6)                                          |                                         Instant (5)                                          |
 |----------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
 |3 [Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)   |2 [Fulminator Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397686)    |1 [Dismember](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382182)        |
-|1 [Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452)|2 [Healer of the Glade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466930)|3 [Force of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464001)|
+|1 [Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452)|3 [Healer of the Glade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466930)|2 [Force of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464001)|
 |                                                                                              |1 [Ingot Chewer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389558)       |2 [Ravenous Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197537)    |
 
 
 # Other Options
 
-|*n*<sup>th</sup> copy|                                     Maindeck Card                                     |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
-|--------------------:|---------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
-|                    1|[Rage Forger](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=153104) |                    4|[Force of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464001)  |
-|                    1|[Smokebraider](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205398)|                    3|[Healer of the Glade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466930)|
-|                    2|[Smokebraider](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205398)|                     |                                                                                              |
-|                    3|[Smokebraider](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205398)|                     |                                                                                              |
-|                    4|[Smokebraider](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205398)|                     |                                                                                              |
+|*n*<sup>th</sup> copy|                                     Maindeck Card                                     |*n*<sup>th</sup> copy|                                       Sideboard Card                                       |
+|--------------------:|---------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------|
+|                    1|[Rage Forger](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=153104) |                    3|[Force of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464001)|
+|                    1|[Smokebraider](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205398)|                    4|[Force of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464001)|
+|                    2|[Smokebraider](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205398)|                     |                                                                                            |
+|                    3|[Smokebraider](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205398)|                     |                                                                                            |
+|                    4|[Smokebraider](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205398)|                     |                                                                                            |
 

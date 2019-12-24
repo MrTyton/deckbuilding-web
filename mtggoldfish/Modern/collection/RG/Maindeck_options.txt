@@ -11,6 +11,7 @@
 2 Seismic Assault
 3 Copperline Gorge
 3 Snow-Covered Mountain
+3 Snow-Covered Forest
 3 Tireless Tracker
 3 Countryside Crusher
 3 Birds of Paradise
@@ -19,7 +20,6 @@
 3 Life from the Loam
 3 Forgotten Cave
 3 Bloodbraid Elf
-3 Snow-Covered Forest
 4 Copperline Gorge
 4 Wrenn and Six
 4 Birds of Paradise
@@ -30,21 +30,21 @@
 4 Tireless Tracker
 4 Life from the Loam
 1 Chandra, Torch of Defiance
-1 Abrade
 1 Relic of Progenitus
-1 Castle Garenbrig
 1 Summoning Trap
 1 Explore
 1 Prismatic Omen
+1 Castle Garenbrig
 1 Search for Tomorrow
 1 Nissa, Vastwood Seer
 1 Emrakul, the Aeons Torn
-2 Castle Garenbrig
+1 Abrade
 2 Summoning Trap
 2 Explore
 2 Forest
 2 Prismatic Omen
 2 Search for Tomorrow
+2 Castle Garenbrig
 2 Emrakul, the Aeons Torn
 3 Castle Garenbrig
 3 Search for Tomorrow
@@ -55,7 +55,6 @@
 4 Explore
 3 Stomping Ground
 4 Stomping Ground
-1 Tarmogoyf
 1 Tarfire
 1 Become Immense
 1 Temur Battle Rage
@@ -63,13 +62,13 @@
 1 Season of Growth
 1 Noble Hierarch
 1 Manamorphose
+1 Tarmogoyf
 1 Sunbaked Canyon
 1 Eidolon of the Great Revel
 1 Horizon Canopy
 1 Mutagenic Growth
 1 Monastery Swiftspear
 1 Mishra's Bauble
-2 Tarmogoyf
 2 Become Immense
 2 Temur Battle Rage
 2 Mishra's Bauble
@@ -77,6 +76,7 @@
 2 Season of Growth
 2 Noble Hierarch
 2 Manamorphose
+2 Tarmogoyf
 2 Mutagenic Growth
 2 Monastery Swiftspear
 2 Eidolon of the Great Revel
@@ -98,10 +98,10 @@
 4 Mutagenic Growth
 1 Sheltered Thicket
 1 Elvish Rejuvenator
-1 Windswept Heath
 1 Bonecrusher Giant
 1 Kodama's Reach
 1 Once Upon a Time
+1 Windswept Heath
 1 Hour of Promise
 1 Woodfall Primus
 2 Elvish Rejuvenator

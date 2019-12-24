@@ -71,15 +71,15 @@
 4 Yavimaya Coast
 4 Island
 4 Lonely Sandbar
-1 Misty Rainforest
 1 Snow-Covered Forest
+1 Misty Rainforest
 1 Snow-Covered Island
-1 Verdant Catacombs
 1 Temple Garden
 1 Engineered Explosives
 1 Overgrown Tomb
 1 Hallowed Fountain
 1 Arcum's Astrolabe
+1 Verdant Catacombs
 1 Prismatic Vista
 1 Snow-Covered Plains
 1 Snow-Covered Swamp
@@ -94,18 +94,20 @@
 1 Cryptic Command
 1 Once Upon a Time
 1 Mystic Sanctuary
-1 Fact or Fiction
+1 Wilderness Reclamation
 1 Gilded Goose
 1 Life from the Loam
 1 Remand
 1 Nexus of Fate
 1 Oko, Thief of Crowns
+1 Fact or Fiction
 1 Ice-Fang Coatl
-1 Wilderness Reclamation
 1 Field of Ruin
 2 Cryptic Command
+2 Snow-Covered Forest
 2 Once Upon a Time
 2 Misty Rainforest
+2 Wilderness Reclamation
 2 Fact or Fiction
 2 Remand
 2 Mystic Sanctuary
@@ -115,8 +117,6 @@
 2 Ice-Fang Coatl
 2 Field of Ruin
 2 Nexus of Fate
-2 Wilderness Reclamation
-2 Snow-Covered Forest
 3 Field of Ruin
 3 Once Upon a Time
 3 Cryptic Command
@@ -134,8 +134,8 @@
 4 Field of Ruin
 4 Once Upon a Time
 4 Oko, Thief of Crowns
-4 Cryptic Command
 4 Gilded Goose
+4 Cryptic Command
 4 Remand
 4 Misty Rainforest
 4 Ice-Fang Coatl

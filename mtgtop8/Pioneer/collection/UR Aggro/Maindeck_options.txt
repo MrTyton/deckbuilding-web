@@ -1,17 +1,12 @@
-4 Stonecoil Serpent
-3 Steam Vents
 4 Steam Vents
 1 Mountain
 2 Island
-1 Sulfur Falls
-2 Mountain
-2 Sulfur Falls
-3 Mountain
 1 Kozilek's Return
 1 Bonecrusher Giant
 1 Rekindling Phoenix
 1 Brazen Borrower
 1 Lightning Axe
+1 Sulfur Falls
 1 Elder Deep-Fiend
 1 Flamewake Phoenix
 1 Izzet Charm
@@ -21,60 +16,61 @@
 2 Izzet Charm
 2 Rekindling Phoenix
 2 Brazen Borrower
+2 Mountain
+2 Sulfur Falls
 2 Elder Deep-Fiend
 2 Flamewake Phoenix
 3 Kozilek's Return
 3 Lightning Axe
 3 Bonecrusher Giant
-3 Izzet Charm
 3 Brazen Borrower
+3 Izzet Charm
 3 Rekindling Phoenix
 3 Flamewake Phoenix
 3 Elder Deep-Fiend
+3 Mountain
 4 Rekindling Phoenix
 4 Kozilek's Return
-4 Bonecrusher Giant
 4 Brazen Borrower
+4 Bonecrusher Giant
 4 Flamewake Phoenix
 4 Elder Deep-Fiend
-1 Stubborn Denial
+4 Izzet Charm
 4 Mountain
+3 Stonecoil Serpent
+4 Stonecoil Serpent
+1 Stubborn Denial
+1 Wandering Fumarole
 1 Chandra, Torch of Defiance
 2 Chandra, Torch of Defiance
-4 Izzet Charm
 3 Metallic Rebuke
+1 Wild Slash
 3 Mutavault
 2 Stubborn Denial
-1 Wandering Fumarole
-4 Lightning Axe
-1 Wild Slash
-2 Wild Slash
 2 Wandering Fumarole
-3 Wandering Fumarole
 1 Sanctum of Ugin
-3 Sulfur Falls
-1 Whirler Rogue
-3 Island
-4 Island
+4 Lightning Axe
+2 Wild Slash
+3 Wandering Fumarole
 1 The Royal Scions
 2 The Royal Scions
+3 Sulfur Falls
+1 Whirler Rogue
+1 Champion of Wits
+2 Champion of Wits
+3 Island
+4 Island
 3 The Royal Scions
 4 The Royal Scions
 5 Island
-1 Champion of Wits
-2 Champion of Wits
 2 Sanctum of Ugin
 3 Sanctum of Ugin
-1 Shock
-5 Mountain
 1 Fabled Passage
 1 Smash to Smithereens
+1 Shock
 1 Phyrexian Revoker
 2 Phyrexian Revoker
 3 Stubborn Denial
-1 Glorybringer
-2 Glorybringer
-3 Glorybringer
 3 Champion of Wits
 1 Emry, Lurker of the Loch
 1 Springleaf Drum
@@ -84,37 +80,39 @@
 2 Scrapheap Scrounger
 3 Scrapheap Scrounger
 3 Emry, Lurker of the Loch
-1 Opt
-2 Opt
-3 Opt
-4 Opt
+1 Glorybringer
+2 Glorybringer
+3 Glorybringer
+5 Mountain
 1 Approach of the Second Sun
 1 Cast Out
 1 Prairie Stream
-1 Port Town
 1 Dig Through Time
-1 Supreme Verdict
+1 Opt
 1 Search for Azcanta
+1 Irrigated Farmland
+1 Castle Ardenvale
+1 Supreme Verdict
+1 Port Town
 1 Azorius Charm
 1 Glacial Fortress
 1 Teferi, Time Raveler
 1 Settle the Wreckage
 1 Hallowed Fountain
 1 Declaration in Stone
-1 Castle Ardenvale
 1 Censor
 1 Castle Vantress
-1 Irrigated Farmland
-1 Absorb
 1 Fae of Wishes
+1 Absorb
 1 Plains
 2 Cast Out
-2 Irrigated Farmland
-2 Supreme Verdict
+2 Opt
 2 Dig Through Time
+2 Supreme Verdict
 2 Plains
 2 Azorius Charm
 2 Glacial Fortress
+2 Irrigated Farmland
 2 Teferi, Time Raveler
 2 Hallowed Fountain
 2 Declaration in Stone
@@ -124,54 +122,20 @@
 2 Absorb
 3 Cast Out
 3 Dig Through Time
-3 Irrigated Farmland
+3 Opt
 3 Supreme Verdict
-3 Plains
 3 Glacial Fortress
+3 Plains
+3 Irrigated Farmland
 3 Teferi, Time Raveler
 3 Hallowed Fountain
 3 Declaration in Stone
 3 Fae of Wishes
 3 Censor
 4 Censor
+4 Opt
 4 Glacial Fortress
 4 Plains
 4 Teferi, Time Raveler
 4 Hallowed Fountain
 4 Fae of Wishes
-1 Wizard's Lightning
-1 Warlord's Fury
-1 Crash Through
-1 Stormchaser Mage
-1 Treasure Cruise
-1 Monastery Swiftspear
-1 Abrade
-1 Soul-Scar Mage
-1 Renegade Tactics
-2 Wizard's Lightning
-2 Shock
-2 Warlord's Fury
-2 Crash Through
-2 Stormchaser Mage
-2 Treasure Cruise
-2 Monastery Swiftspear
-2 Soul-Scar Mage
-2 Renegade Tactics
-3 Wizard's Lightning
-3 Shock
-3 Crash Through
-3 Stormchaser Mage
-3 Monastery Swiftspear
-3 Treasure Cruise
-3 Wild Slash
-3 Soul-Scar Mage
-4 Wizard's Lightning
-4 Sulfur Falls
-4 Shock
-4 Stormchaser Mage
-4 Crash Through
-4 Wild Slash
-4 Monastery Swiftspear
-4 Treasure Cruise
-6 Mountain
-4 Soul-Scar Mage

@@ -2,33 +2,23 @@
 1 Oko, Thief of Crowns
 2 Oko, Thief of Crowns
 3 Oko, Thief of Crowns
+4 Oko, Thief of Crowns
+2 Gilded Goose
+2 Breeding Pool
 1 Thoughtseize
 2 Thoughtseize
 3 Thoughtseize
 4 Thoughtseize
 1 Fatal Push
 2 Fatal Push
-2 Gilded Goose
-1 Scavenging Ooze
-2 Forest
-4 Oko, Thief of Crowns
-2 Breeding Pool
-1 Tireless Tracker
-2 Tireless Tracker
-1 Abrupt Decay
-2 Abrupt Decay
 3 Fatal Push
 4 Fatal Push
-1 Island
-3 Abrupt Decay
+1 Scavenging Ooze
+2 Forest
+1 Tireless Tracker
+2 Tireless Tracker
 4 Botanical Sanctum
-1 Fabled Passage
-1 Courser of Kruphix
-2 Fabled Passage
-1 Murderous Rider
-2 Murderous Rider
-3 Gilded Goose
-4 Gilded Goose
+1 Island
 1 Llanowar Elves
 1 Elvish Mystic
 3 Tireless Tracker
@@ -41,6 +31,19 @@
 2 Collected Company
 3 Collected Company
 4 Collected Company
+1 Hallowed Fountain
+1 Brazen Borrower
+1 Selfless Spirit
+1 Glacial Fortress
+1 Spell Queller
+2 Hallowed Fountain
+2 Glacial Fortress
+2 Selfless Spirit
+2 Spell Queller
+3 Hallowed Fountain
+3 Spell Queller
+4 Hallowed Fountain
+4 Spell Queller
 1 Sunpetal Grove
 1 Temple Garden
 2 Temple Garden
@@ -48,59 +51,56 @@
 3 Temple Garden
 3 Sunpetal Grove
 4 Temple Garden
-1 Hallowed Fountain
-1 Brazen Borrower
 1 Deputy of Detention
-1 Selfless Spirit
-1 Glacial Fortress
-1 Spell Queller
 1 Lovestruck Beast
-2 Hallowed Fountain
-2 Glacial Fortress
 2 Deputy of Detention
-2 Selfless Spirit
-2 Spell Queller
 2 Lovestruck Beast
 3 Deputy of Detention
-3 Hallowed Fountain
-3 Spell Queller
 3 Lovestruck Beast
-4 Deputy of Detention
-4 Hallowed Fountain
-4 Spell Queller
 4 Lovestruck Beast
-1 Assassin's Trophy
+4 Deputy of Detention
+1 Abrupt Decay
+2 Abrupt Decay
+3 Abrupt Decay
+3 Gilded Goose
+4 Gilded Goose
 2 Scavenging Ooze
-3 Forest
 4 Breeding Pool
+1 Fabled Passage
 1 Dig Through Time
+1 Courser of Kruphix
+2 Fabled Passage
 4 Llanowar Wastes
+1 Murderous Rider
+2 Murderous Rider
+1 Assassin's Trophy
+4 Llanowar Elves
+3 Forest
 1 Wicked Wolf
 2 Wicked Wolf
+2 Brazen Borrower
+3 Selfless Spirit
+4 Selfless Spirit
+3 Scrapheap Scrounger
+4 Sunpetal Grove
+4 Satyr Wayfinder
+4 Tireless Tracker
+2 Island
+1 Ashiok, Dream Render
+4 Forest
+1 Vraska, Golgari Queen
+4 Abrupt Decay
+2 Dig Through Time
 2 Assassin's Trophy
 2 Courser of Kruphix
 3 Fabled Passage
-4 Llanowar Elves
 3 Swamp
-3 Scrapheap Scrounger
 1 Kalitas, Traitor of Ghet
-4 Sunpetal Grove
-4 Satyr Wayfinder
-4 Forest
-2 Brazen Borrower
-3 Selfless Spirit
-4 Tireless Tracker
-4 Selfless Spirit
-1 Ashiok, Dream Render
-1 Vraska, Golgari Queen
-4 Abrupt Decay
+2 Kalitas, Traitor of Ghet
 1 Liliana, the Last Hope
-2 Dig Through Time
-2 Island
 1 Castle Locthwain
 4 Swamp
 5 Swamp
-2 Kalitas, Traitor of Ghet
 6 Swamp
 1 Gifted Aetherborn
 1 Urborg, Tomb of Yawgmoth
@@ -112,8 +112,8 @@
 1 Grasp of Darkness
 1 Blood Baron of Vizkopa
 1 Caves of Koilos
-1 Knight of the Ebon Legion
 1 Godless Shrine
+1 Knight of the Ebon Legion
 2 Gifted Aetherborn
 2 Champion of Dusk
 2 Sorin, Imperious Bloodlord
@@ -139,14 +139,13 @@
 4 Knight of the Ebon Legion
 7 Swamp
 1 The Scarab God
-4 Fabled Passage
-1 Walking Ballista
 4 Watery Grave
 1 Nykthos, Shrine to Nyx
 2 Nykthos, Shrine to Nyx
 5 Forest
 6 Forest
 1 Nissa, Who Shakes the World
+1 Walking Ballista
 1 Hydroid Krasis
 1 Yavimaya Coast
 2 Nissa, Who Shakes the World
@@ -161,7 +160,6 @@
 7 Forest
 8 Forest
 4 Elvish Mystic
-1 Questing Beast
 3 Murderous Rider
 1 Aether Hub
 1 Glint-Sleeve Siphoner
@@ -169,15 +167,15 @@
 2 Glint-Sleeve Siphoner
 3 Glint-Sleeve Siphoner
 4 Glint-Sleeve Siphoner
-2 Vraska, Golgari Queen
 1 Drowned Catacomb
 2 Drowned Catacomb
 2 Ashiok, Dream Render
 1 Shambling Vent
-2 Caves of Koilos
 2 Shambling Vent
+2 Caves of Koilos
 3 Blood Baron of Vizkopa
 1 Rogue Refiner
+1 Questing Beast
 1 Hero's Downfall
 1 Jace, Vryn's Prodigy
 2 Hero's Downfall
@@ -191,58 +189,12 @@
 1 Ultimate Price
 2 Torrential Gearhulk
 3 Scavenging Ooze
-1 Hissing Quagmire
-1 Noxious Gearhulk
-1 Ishkanah, Grafwidow
-1 Traverse the Ulvenwald
-1 Grim Flayer
-1 Liliana, Death's Majesty
-1 Collective Brutality
-1 Dead Weight
-2 Woodland Cemetery
-2 Traverse the Ulvenwald
-2 Grim Flayer
-2 Liliana, the Last Hope
-3 Traverse the Ulvenwald
-3 Grim Flayer
-3 Woodland Cemetery
-4 Woodland Cemetery
-4 Grim Flayer
+2 Vraska, Golgari Queen
+4 Fabled Passage
 1 Growth-Chamber Guardian
 2 Growth-Chamber Guardian
 3 Growth-Chamber Guardian
 4 Growth-Chamber Guardian
-1 Unclaimed Territory
-1 Elvish Visionary
-1 Steel Leaf Champion
-1 Shaman of the Pack
-1 Dwynen's Elite
-1 Elvish Clancaller
-1 Gnarlroot Trapper
-1 Chord of Calling
-1 Westvale Abbey
-1 Marwyn, the Nurturer
-2 Unclaimed Territory
-2 Elvish Visionary
-2 Steel Leaf Champion
-2 Chord of Calling
-2 Elvish Clancaller
-2 Dwynen's Elite
-2 Shaman of the Pack
-2 Marwyn, the Nurturer
-2 Gnarlroot Trapper
-3 Steel Leaf Champion
-3 Chord of Calling
-3 Elvish Visionary
-3 Shaman of the Pack
-3 Dwynen's Elite
-3 Elvish Clancaller
-3 Gnarlroot Trapper
-4 Steel Leaf Champion
-4 Dwynen's Elite
-4 Shaman of the Pack
-4 Elvish Clancaller
-4 Elvish Visionary
 1 Heart of Kiran
 1 Castle Garenbrig
 1 Jadelight Ranger
@@ -277,9 +229,9 @@
 2 Season of Growth
 2 Gryff's Boon
 2 Ethereal Armor
+2 Sixth Sense
 2 Bassara Tower Archer
 2 Gladecover Scout
-2 Sixth Sense
 2 Witchstalker
 3 Cartouche of Solidarity
 3 Gryff's Boon
@@ -301,6 +253,37 @@
 4 Gladecover Scout
 4 Bassara Tower Archer
 4 Ethereal Armor
+1 Westvale Abbey
+1 Steel Leaf Champion
+1 Unclaimed Territory
+1 Elvish Visionary
+1 Chord of Calling
+1 Gnarlroot Trapper
+1 Elvish Clancaller
+1 Shaman of the Pack
+1 Marwyn, the Nurturer
+1 Dwynen's Elite
+2 Steel Leaf Champion
+2 Unclaimed Territory
+2 Elvish Visionary
+2 Chord of Calling
+2 Marwyn, the Nurturer
+2 Dwynen's Elite
+2 Elvish Clancaller
+2 Gnarlroot Trapper
+2 Shaman of the Pack
+3 Steel Leaf Champion
+3 Chord of Calling
+3 Elvish Clancaller
+3 Gnarlroot Trapper
+3 Shaman of the Pack
+3 Elvish Visionary
+3 Dwynen's Elite
+4 Steel Leaf Champion
+4 Elvish Visionary
+4 Elvish Clancaller
+4 Shaman of the Pack
+4 Dwynen's Elite
 1 Mountain
 2 Mountain
 1 Gird for Battle
@@ -309,25 +292,25 @@
 1 Titan's Strength
 1 Clifftop Retreat
 1 Inspiring Vantage
+1 Sacred Foundry
 1 Dreadhorde Arcanist
 1 Expedite
-1 Sacred Foundry
 1 Reckless Rage
+1 Feather, the Redeemed
 1 Favored Hoplite
 1 Tenth District Legionnaire
 1 Defiant Strike
 1 Gods Willing
 1 Monastery Swiftspear
-1 Feather, the Redeemed
 2 Gird for Battle
 2 Inspiring Vantage
 2 Battlefield Forge
 2 Boros Charm
-2 Sacred Foundry
 2 Titan's Strength
 2 Clifftop Retreat
 2 Dreadhorde Arcanist
 2 Expedite
+2 Sacred Foundry
 2 Reckless Rage
 2 Monastery Swiftspear
 2 Tenth District Legionnaire
@@ -337,10 +320,10 @@
 2 Defiant Strike
 3 Gird for Battle
 3 Inspiring Vantage
-3 Sacred Foundry
 3 Battlefield Forge
-3 Dreadhorde Arcanist
 3 Expedite
+3 Sacred Foundry
+3 Dreadhorde Arcanist
 3 Titan's Strength
 3 Favored Hoplite
 3 Defiant Strike
@@ -359,54 +342,93 @@
 4 Gods Willing
 4 Feather, the Redeemed
 4 Favored Hoplite
+1 Reflector Mage
+1 Archangel Avacyn
+1 Charming Prince
+1 Gideon, Ally of Zendikar
+1 Shepherd of the Flock
+1 Teferi, Time Raveler
+1 Thraben Inspector
+1 Port Town
+1 Castle Ardenvale
+1 Irrigated Farmland
+2 Irrigated Farmland
+2 Charming Prince
+2 Teferi, Time Raveler
+2 Reflector Mage
+2 Archangel Avacyn
+2 Gideon, Ally of Zendikar
+2 Port Town
+2 Thraben Inspector
+3 Reflector Mage
+3 Irrigated Farmland
+3 Brazen Borrower
+3 Glacial Fortress
+3 Gideon, Ally of Zendikar
+3 Charming Prince
+3 Archangel Avacyn
+3 Teferi, Time Raveler
+3 Thraben Inspector
+3 Plains
+3 Island
+3 Port Town
+4 Gideon, Ally of Zendikar
+4 Brazen Borrower
+4 Reflector Mage
+4 Glacial Fortress
+4 Teferi, Time Raveler
+4 Plains
+4 Thraben Inspector
+4 Island
+5 Plains
 1 Wild Slash
 1 Blood Crypt
 1 Dragonskull Summit
 1 Rix Maadi Reveler
-1 Foreboding Ruins
-1 Despise
-1 Cut / Ribbons
 1 Hazoret the Fervent
-1 Rakdos's Return
+1 Despise
 1 Chandra, Torch of Defiance
 1 Goblin Rabblemaster
+1 Cut / Ribbons
 1 Bonecrusher Giant
-2 Hazoret the Fervent
-2 Dragonskull Summit
+1 Rakdos's Return
+1 Foreboding Ruins
 2 Chandra, Torch of Defiance
 2 Blood Crypt
+2 Dragonskull Summit
 2 Rix Maadi Reveler
 2 Despise
+2 Hazoret the Fervent
 2 Bonecrusher Giant
 2 Cut / Ribbons
 2 Wild Slash
 2 Goblin Rabblemaster
-3 Dragonskull Summit
 3 Blood Crypt
+3 Dragonskull Summit
 3 Goblin Rabblemaster
 3 Bonecrusher Giant
 3 Cut / Ribbons
 3 Mountain
-4 Dragonskull Summit
+4 Bonecrusher Giant
 4 Blood Crypt
 4 Mountain
-4 Bonecrusher Giant
+4 Dragonskull Summit
 5 Mountain
 6 Mountain
-1 Hardened Scales
 1 Nissa, Voice of Zendikar
+1 Hardened Scales
 1 Vivien, Arkbow Ranger
 1 Barkhide Troll
+2 Vivien, Arkbow Ranger
 2 Hardened Scales
 2 Nissa, Voice of Zendikar
-2 Vivien, Arkbow Ranger
 2 Barkhide Troll
 3 Hardened Scales
-3 Nissa, Voice of Zendikar
 3 Yavimaya Coast
 3 Barkhide Troll
-4 Hardened Scales
+3 Nissa, Voice of Zendikar
 4 Yavimaya Coast
+4 Hardened Scales
 4 Barkhide Troll
 4 Walking Ballista
 9 Forest

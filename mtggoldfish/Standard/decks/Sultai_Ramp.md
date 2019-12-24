@@ -2,7 +2,7 @@
 
 #### [Export MTGO List](../collection/Sultai%20Ramp/Sultai%20Ramp.txt)
 #### [Export Arena List](../collection/Sultai%20Ramp/Sultai%20Ramp_arena.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=3%09Arboreal%20Grazer%0A4%09Breeding%20Pool%0A4%09Casualties%20of%20War%0A4%09Cavalier%20of%20Thorns%0A2%09Circuitous%20Route%0A1%09Dimir%20Guildgate%0A9%09Forest%0A4%09Gilded%20Goose%0A4%09Growth%20Spiral%0A4%09Hydroid%20Krasis%0A2%09Island%0A4%09Nissa,%20Who%20Shakes%20the%20World%0A4%09Overgrown%20Tomb%0A1%09Swamp%0A2%09Temple%20of%20Malady%0A1%09Temple%20of%20Mystery%0A3%09Vraska,%20Golgari%20Queen%0A4%09Watery%20Grave&deckside=1%09Assassin's%20Trophy%0A1%09Disdainful%20Stroke%0A2%09Duress%0A2%09Epic%20Downfall%0A2%09Mystical%20Dispute%0A4%09Noxious%20Grasp%0A1%09Return%20to%20Nature%0A2%09Shifting%20Ceratops)
+#### [Print on decklist.org](http://decklist.org/?deckmain=3%09Arboreal%20Grazer%0A4%09Breeding%20Pool%0A4%09Casualties%20of%20War%0A4%09Cavalier%20of%20Thorns%0A2%09Circuitous%20Route%0A1%09Dimir%20Guildgate%0A9%09Forest%0A4%09Gilded%20Goose%0A4%09Growth%20Spiral%0A4%09Hydroid%20Krasis%0A2%09Island%0A4%09Nissa,%20Who%20Shakes%20the%20World%0A4%09Overgrown%20Tomb%0A1%09Swamp%0A2%09Temple%20of%20Malady%0A1%09Temple%20of%20Mystery%0A3%09Vraska,%20Golgari%20Queen%0A4%09Watery%20Grave&deckside=1%09Assassin's%20Trophy%0A2%09Duress%0A2%09Epic%20Downfall%0A3%09Mystical%20Dispute%0A4%09Noxious%20Grasp%0A3%09Shifting%20Ceratops)
 # Maindeck
 
 |                                         Creature (15)                                         |                                       Instant (4)                                        |                                          Land (28)                                           |                                            Planeswalker (7)                                            |                                         Sorcery (6)                                          |
@@ -20,22 +20,20 @@
 
 # Sideboard
 
-|                                         Creature (2)                                         |                                         Instant (9)                                          |                                       Sorcery (4)                                        |
+|                                         Creature (3)                                         |                                         Instant (8)                                          |                                       Sorcery (4)                                        |
 |----------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
-|2 [Shifting Ceratops](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466948)|1 [Assassin's Trophy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452902)|2 [Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)        |
-|                                                                                              |1 [Disdainful Stroke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420705)|2 [Epic Downfall](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473047)|
-|                                                                                              |2 [Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020) |                                                                                          |
+|3 [Shifting Ceratops](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466948)|1 [Assassin's Trophy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452902)|2 [Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)        |
+|                                                                                              |3 [Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020) |2 [Epic Downfall](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473047)|
 |                                                                                              |4 [Noxious Grasp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466864)    |                                                                                          |
-|                                                                                              |1 [Return to Nature](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461102) |                                                                                          |
 
 
 # Other Options
 
 |*n*<sup>th</sup> copy|                                       Maindeck Card                                       |*n*<sup>th</sup> copy|                                       Sideboard Card                                       |
 |--------------------:|-------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------|
-|                    1|[Voracious Hydra](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466954) |                    3|[Shifting Ceratops](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466948)|
-|                    2|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)           |                    3|[Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020) |
-|                    2|[Voracious Hydra](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466954) |                     |                                                                                            |
+|                    1|[Voracious Hydra](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466954) |                    1|[Return to Nature](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461102) |
+|                    2|[Voracious Hydra](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466954) |                    1|[Disdainful Stroke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420705)|
+|                    2|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)           |                     |                                                                                            |
 |                    3|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)          |                     |                                                                                            |
 |                    3|[Circuitous Route](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452875)|                     |                                                                                            |
 |                    4|[Arboreal Grazer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461076) |                     |                                                                                            |

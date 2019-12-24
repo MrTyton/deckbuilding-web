@@ -1,7 +1,7 @@
 # Izzet Phoenix
 
 #### [Export MTGO List](../collection/Izzet%20Phoenix/Izzet%20Phoenix.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Arclight%20Phoenix%0A4%09Brainstorm%0A4%09Daze%0A4%09Delver%20of%20Secrets%0A4%09Faithless%20Looting%0A2%09Flooded%20Strand%0A4%09Force%20of%20Will%0A4%09Gut%20Shot%0A2%09Island%0A4%09Lightning%20Bolt%0A1%09Misty%20Rainforest%0A1%09Mountain%0A2%09Polluted%20Delta%0A4%09Ponder%0A4%09Pteramander%0A4%09Scalding%20Tarn%0A4%09Thought%20Scour%0A4%09Volcanic%20Island&deckside=1%09Abrade%0A2%09Brazen%20Borrower%0A2%09Force%20of%20Negation%0A1%09Null%20Rod%0A1%09Price%20of%20Progress%0A3%09Pyroblast%0A2%09Spell%20Pierce%0A3%09Surgical%20Extraction)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Arclight%20Phoenix%0A4%09Brainstorm%0A4%09Daze%0A4%09Delver%20of%20Secrets%0A4%09Faithless%20Looting%0A2%09Flooded%20Strand%0A4%09Force%20of%20Will%0A4%09Gut%20Shot%0A2%09Island%0A4%09Lightning%20Bolt%0A1%09Misty%20Rainforest%0A1%09Mountain%0A2%09Polluted%20Delta%0A4%09Ponder%0A4%09Pteramander%0A4%09Scalding%20Tarn%0A4%09Thought%20Scour%0A4%09Volcanic%20Island&deckside=2%09Abrade%0A2%09Blood%20Moon%0A2%09Force%20of%20Negation%0A1%09Null%20Rod%0A3%09Pyroblast%0A2%09Spell%20Pierce%0A2%09Surgical%20Extraction%0A1%09Vapor%20Snag)
 # Maindeck
 
 |                                        Creature (12)                                         |                                       Instant (24)                                       |                                          Land (16)                                          |                                         Sorcery (8)                                          |
@@ -17,22 +17,22 @@
 
 # Sideboard
 
-|                                    Artifact (1)                                     |                                        Creature (2)                                        |                                          Instant (12)                                          |
-|-------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
-|1 [Null Rod](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383034)|2 [Brazen Borrower](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473001)|1 [Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)             |
-|                                                                                     |                                                                                            |2 [Force of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464001)  |
-|                                                                                     |                                                                                            |1 [Price of Progress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413683)  |
-|                                                                                     |                                                                                            |3 [Pyroblast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=4083)            |
-|                                                                                     |                                                                                            |2 [Spell Pierce](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425876)       |
-|                                                                                     |                                                                                            |3 [Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|
+|                                    Artifact (1)                                     |                                   Enchantment (2)                                    |                                          Instant (12)                                          |
+|-------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
+|1 [Null Rod](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383034)|2 [Blood Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45386)|2 [Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)             |
+|                                                                                     |                                                                                      |2 [Force of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464001)  |
+|                                                                                     |                                                                                      |3 [Pyroblast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=4083)            |
+|                                                                                     |                                                                                      |2 [Spell Pierce](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425876)       |
+|                                                                                     |                                                                                      |2 [Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|
+|                                                                                     |                                                                                      |1 [Vapor Snag](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=249373)         |
 
 
 # Other Options
 
-|*n*<sup>th</sup> copy|                                      Maindeck Card                                      |*n*<sup>th</sup> copy|                                   Sideboard Card                                    |
-|--------------------:|-----------------------------------------------------------------------------------------|--------------------:|-------------------------------------------------------------------------------------|
-|                    3|[Flooded Strand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405098)|                    1|[Blood Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45386) |
-|                     |                                                                                         |                    2|[Blood Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45386) |
-|                     |                                                                                         |                    2|[Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)    |
-|                     |                                                                                         |                    1|[Vapor Snag](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=249373)|
+|*n*<sup>th</sup> copy|                                      Maindeck Card                                      |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
+|--------------------:|-----------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
+|                    3|[Flooded Strand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405098)|                    1|[Price of Progress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413683)  |
+|                     |                                                                                         |                    1|[Brazen Borrower](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473001)    |
+|                     |                                                                                         |                    2|[Brazen Borrower](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473001)    |
+|                     |                                                                                         |                    3|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|
 

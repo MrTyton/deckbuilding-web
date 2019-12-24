@@ -73,6 +73,6 @@
 |                    2|[Sentinel of the Pearl Trident](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442953)|                     |                                                                                                |
 |                    3|[Sentinel of the Pearl Trident](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442953)|                     |                                                                                                |
 |                    4|[Sentinel of the Pearl Trident](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442953)|                     |                                                                                                |
-|                    4|[Cursecatcher](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442042)                 |                     |                                                                                                |
 |                   12|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)                       |                     |                                                                                                |
+|                    4|[Cursecatcher](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442042)                 |                     |                                                                                                |
 

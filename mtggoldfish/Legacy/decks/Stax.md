@@ -1,0 +1,36 @@
+# Stax
+
+#### [Export MTGO List](../collection/Stax/Stax.txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=1%09Academy%20Ruins%0A4%09Ancient%20Tomb%0A4%09Chalice%20of%20the%20Void%0A4%09City%20of%20Traitors%0A1%09Crucible%20of%20Worlds%0A1%09Crystal%20Vein%0A4%09Darksteel%20Citadel%0A1%09Ensnaring%20Bridge%0A2%09Grim%20Monolith%0A2%09Icy%20Manipulator%0A2%09Inventors'%20Fair%0A4%09Karn,%20Scion%20of%20Urza%0A4%09Karn,%20the%20Great%20Creator%0A4%09Mind%20Stone%0A2%09Mox%20Diamond%0A3%09Mox%20Opal%0A4%09Tangle%20Wire%0A2%09The%20Tabernacle%20at%20Pendrell%20Vale%0A4%09Trinisphere%0A4%09Wasteland%0A3%09Winter%20Orb&deckside=1%09Crucible%20of%20Worlds%0A2%09Defense%20Grid%0A1%09Ensnaring%20Bridge%0A1%09Liquimetal%20Coating%0A1%09Mycosynth%20Lattice%0A1%09Ratchet%20Bomb%0A1%09Sorcerous%20Spyglass%0A1%09Sphere%20of%20Resistance%0A4%09Tormod's%20Crypt%0A1%09Walking%20Ballista%0A1%09Winter%20Orb)
+# Maindeck
+
+|                                         Artifact (30)                                          |                                                Land (22)                                                 |                                          Planeswalker (8)                                          |
+|------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
+|4 [Chalice of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442211)|1 [Academy Ruins](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370424)                |4 [Karn, Scion of Urza](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442889)    |
+|1 [Crucible of Worlds](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129480) |4 [Ancient Tomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409567)                 |4 [Karn, the Great Creator](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460928)|
+|1 [Ensnaring Bridge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=15866)    |4 [City of Traitors](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=6168)               |                                                                                                    |
+|2 [Grim Monolith](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=12626)       |1 [Crystal Vein](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=15413)                  |                                                                                                    |
+|2 [Icy Manipulator](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129601)    |4 [Darksteel Citadel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389479)            |                                                                                                    |
+|4 [Mind Stone](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=135280)         |2 [Inventors' Fair](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417820)              |                                                                                                    |
+|2 [Mox Diamond](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=5193)          |2 [The Tabernacle at Pendrell Vale](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=1690)|                                                                                                    |
+|3 [Mox Opal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397719)           |4 [Wasteland](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413790)                    |                                                                                                    |
+|4 [Tangle Wire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=21399)         |                                                                                                          |                                                                                                    |
+|4 [Trinisphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=43545)         |                                                                                                          |                                                                                                    |
+|3 [Winter Orb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=643)            |                                                                                                          |                                                                                                    |
+
+
+# Sideboard
+
+|                                         Artifact (14)                                         |                                        Creature (1)                                         |
+|-----------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|
+|1 [Crucible of Worlds](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129480)|1 [Walking Ballista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423848)|
+|2 [Defense Grid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45481)       |                                                                                             |
+|1 [Ensnaring Bridge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=15866)   |                                                                                             |
+|1 [Liquimetal Coating](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389578)|                                                                                             |
+|1 [Mycosynth Lattice](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446209) |                                                                                             |
+|1 [Ratchet Bomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370623)      |                                                                                             |
+|1 [Sorcerous Spyglass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435407)|                                                                                             |
+|1 [Sphere of Resistance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=6160)|                                                                                             |
+|4 [Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)    |                                                                                             |
+|1 [Winter Orb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=643)           |                                                                                             |
+

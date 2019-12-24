@@ -1,7 +1,7 @@
-1 Veil of Summer
-2 Teferi, Time Raveler
-2 Snow-Covered Plains
 1 Prismatic Vista
+1 Ice-Fang Coatl
+2 Ice-Fang Coatl
+1 Veil of Summer
 1 Counterbalance
 1 Dovin's Veto
 2 Counterbalance
@@ -11,21 +11,6 @@
 3 Accumulated Knowledge
 4 Accumulated Knowledge
 2 Prismatic Vista
-2 Scalding Tarn
-5 Snow-Covered Island
-1 Supreme Verdict
-1 Back to Basics
-1 Plains
-1 Island
-2 Plains
-2 Island
-3 Island
-4 Island
-2 Spell Pierce
-2 Council's Judgment
-2 Polluted Delta
-2 Dovin's Veto
-3 Teferi, Time Raveler
 1 Snow-Covered Swamp
 1 Bayou
 1 Baleful Strix
@@ -35,6 +20,7 @@
 1 Abrupt Decay
 1 Scrubland
 1 Underground Sea
+2 Polluted Delta
 2 Abrupt Decay
 2 Hymn to Tourach
 2 Underground Sea
@@ -43,6 +29,23 @@
 3 Polluted Delta
 3 Baleful Strix
 4 Polluted Delta
+3 Teferi, Time Raveler
+5 Snow-Covered Island
+1 Supreme Verdict
+1 Back to Basics
+1 Plains
+1 Island
+2 Plains
+2 Island
+3 Island
+4 Island
+2 Scalding Tarn
+2 Spell Pierce
+2 Council's Judgment
+2 Drown in the Loch
+4 Baleful Strix
+3 Hymn to Tourach
+2 Dovin's Veto
 1 Portent
 1 Predict
 2 Predict
@@ -50,12 +53,9 @@
 3 Scalding Tarn
 1 Narset, Parter of Veils
 3 Jace, the Mind Sculptor
-3 Ice-Fang Coatl
+3 Inquisition of Kozilek
 4 Oko, Thief of Crowns
 4 Terminus
-2 Drown in the Loch
-4 Baleful Strix
-3 Hymn to Tourach
 1 Monastery Mentor
 2 Volcanic Island
 4 Scalding Tarn
@@ -72,7 +72,7 @@
 1 Teferi, Hero of Dominaria
 2 Supreme Verdict
 2 Monastery Mentor
-3 Inquisition of Kozilek
+3 Ice-Fang Coatl
 1 Snow-Covered Mountain
 1 Rest in Peace
 1 Spell Snare
@@ -83,8 +83,8 @@
 3 Prismatic Vista
 4 Prismatic Vista
 6 Snow-Covered Island
-3 Predict
 3 Plains
+3 Predict
 5 Island
 6 Island
 7 Island

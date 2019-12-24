@@ -1,7 +1,7 @@
 # Izzet Phoenixes
 
 #### [Export MTGO List](../collection/Izzet%20Phoenixes/Izzet%20Phoenixes.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Bonecrusher%20Giant%0A4%09Brazen%20Borrower%0A2%09Champion%20of%20Wits%0A4%09Elder%20Deep-Fiend%0A4%09Flamewake%20Phoenix%0A2%09Island%0A4%09Izzet%20Charm%0A4%09Kozilek's%20Return%0A3%09Lightning%20Axe%0A4%09Mountain%0A2%09Mutavault%0A4%09Rekindling%20Phoenix%0A2%09Sanctum%20of%20Ugin%0A2%09Shivan%20Reef%0A4%09Spirebluff%20Canal%0A4%09Steam%20Vents%0A1%09Stubborn%20Denial%0A2%09Sulfur%20Falls%0A2%09The%20Royal%20Scions%0A2%09Wandering%20Fumarole&deckside=3%09Aether%20Gust%0A2%09Dig%20Through%20Time%0A1%09Mystical%20Dispute%0A2%09Redcap%20Melee%0A4%09Stubborn%20Denial%0A3%09Wild%20Slash)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Bonecrusher%20Giant%0A4%09Brazen%20Borrower%0A2%09Champion%20of%20Wits%0A4%09Elder%20Deep-Fiend%0A4%09Flamewake%20Phoenix%0A2%09Island%0A4%09Izzet%20Charm%0A4%09Kozilek's%20Return%0A3%09Lightning%20Axe%0A4%09Mountain%0A2%09Mutavault%0A4%09Rekindling%20Phoenix%0A2%09Sanctum%20of%20Ugin%0A2%09Shivan%20Reef%0A4%09Spirebluff%20Canal%0A4%09Steam%20Vents%0A1%09Stubborn%20Denial%0A2%09Sulfur%20Falls%0A2%09The%20Royal%20Scions%0A2%09Wandering%20Fumarole&deckside=3%09Aether%20Gust%0A2%09Dig%20Through%20Time%0A2%09Mystical%20Dispute%0A2%09Redcap%20Melee%0A3%09Stubborn%20Denial%0A3%09Wild%20Slash)
 # Maindeck
 
 |                                         Creature (22)                                         |                                        Instant (12)                                         |                                           Land (24)                                           |                                      Planeswalker (2)                                       |
@@ -23,9 +23,9 @@
 |---------------------------------------------------------------------------------------------|
 |3 [Aether Gust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466796)     |
 |2 [Dig Through Time](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386518)|
-|1 [Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)|
+|2 [Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)|
 |2 [Redcap Melee](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473097)    |
-|4 [Stubborn Denial](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386673) |
+|3 [Stubborn Denial](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386673) |
 |3 [Wild Slash](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391959)      |
 
 
@@ -33,21 +33,21 @@
 
 |*n*<sup>th</sup> copy|                                            Maindeck Card                                            |*n*<sup>th</sup> copy|                                         Sideboard Card                                          |
 |--------------------:|-----------------------------------------------------------------------------------------------------|--------------------:|-------------------------------------------------------------------------------------------------|
-|                    4|[Lightning Axe](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409925)             |                    2|[Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)      |
-|                    1|[Chandra, Torch of Defiance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417683)|                    1|[Entrancing Melody](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435207)     |
-|                    2|[Chandra, Torch of Defiance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417683)|                    2|[Entrancing Melody](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435207)     |
-|                    1|[Chart a Course](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435200)            |                    3|[Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)      |
-|                    2|[Chart a Course](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435200)            |                    3|[Entrancing Melody](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435207)     |
+|                    1|[Chart a Course](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435200)            |                    1|[Entrancing Melody](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435207)     |
+|                    2|[Chart a Course](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435200)            |                    2|[Entrancing Melody](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435207)     |
+|                    4|[Lightning Axe](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409925)             |                    3|[Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)      |
+|                    1|[Chandra, Torch of Defiance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417683)|                    4|[Stubborn Denial](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386673)       |
+|                    2|[Chandra, Torch of Defiance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417683)|                    3|[Entrancing Melody](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435207)     |
 |                    3|[Chart a Course](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435200)            |                    1|[Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)                |
 |                    4|[Chart a Course](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435200)            |                    1|[Lightning Axe](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409925)         |
-|                    3|[Wandering Fumarole](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407692)        |                    1|[Sorcerous Spyglass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435407)    |
-|                    3|[Mutavault](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370733)                 |                    2|[Sorcerous Spyglass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435407)    |
-|                    1|[Entrancing Melody](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435207)         |                    1|[Embereth Shieldbreaker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473084)|
+|                    3|[Wandering Fumarole](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407692)        |                    1|[Sweltering Suns](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426851)       |
+|                    3|[Mutavault](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370733)                 |                    1|[Fry](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466894)                   |
+|                    1|[Entrancing Melody](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435207)         |                    2|[Sweltering Suns](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426851)       |
+|                    1|[Vantress Gargoyle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473033)         |                    1|[Embereth Shieldbreaker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473084)|
+|                    2|[Vantress Gargoyle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473033)         |                    2|[Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)                |
 |                    2|[Stubborn Denial](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386673)           |                    2|[Embereth Shieldbreaker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473084)|
-|                    1|[Vantress Gargoyle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473033)         |                    2|[Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)                |
-|                    2|[Vantress Gargoyle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473033)         |                    1|[Banefire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=186613)              |
-|                    1|[Wild Slash](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391959)                |                    4|[Wild Slash](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391959)            |
-|                    2|[Wild Slash](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391959)                |                     |                                                                                                 |
-|                    3|[Sanctum of Ugin](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=402022)           |                     |                                                                                                 |
-|                    3|[Sulfur Falls](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443135)              |                     |                                                                                                 |
+|                    1|[Wild Slash](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391959)                |                    1|[Sorcerous Spyglass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435407)    |
+|                    2|[Wild Slash](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391959)                |                    2|[Sorcerous Spyglass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435407)    |
+|                    3|[Sanctum of Ugin](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=402022)           |                    1|[Banefire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=186613)              |
+|                    3|[Sulfur Falls](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443135)              |                    4|[Wild Slash](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391959)            |
 
