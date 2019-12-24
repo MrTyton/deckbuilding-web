@@ -78,7 +78,7 @@
 |                    1|[Phyrexian Revoker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383343)       |                     |                                                                                                    |
 |                    1|[Shefet Dunes](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430872)            |                     |                                                                                                    |
 |                    1|[Sunbaked Canyon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464196)         |                     |                                                                                                    |
-|                    2|[Phyrexian Revoker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383343)       |                     |                                                                                                    |
 |                    2|[Shefet Dunes](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430872)            |                     |                                                                                                    |
+|                    2|[Phyrexian Revoker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383343)       |                     |                                                                                                    |
 |                    4|[Eldrazi Displacer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407523)       |                     |                                                                                                    |
 

@@ -144,7 +144,7 @@
 |                    3|[Dovin, Hand of Control](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461156) |                     |                                                                                                     |
 |                    3|[Karn, the Great Creator](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460928)|                     |                                                                                                     |
 |                    4|[Oath of Nissa](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407650)          |                     |                                                                                                     |
-|                    4|[Interplanar Beacon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461174)     |                     |                                                                                                     |
 |                    4|[Simian Spirit Guide](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442137)    |                     |                                                                                                     |
+|                    4|[Interplanar Beacon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461174)     |                     |                                                                                                     |
 |                    3|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)                 |                     |                                                                                                     |
 

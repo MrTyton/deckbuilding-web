@@ -50,7 +50,7 @@
 |                    1|[Anticipate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401813)           |                     |                                                                                                   |
 |                    1|[Blast Zone](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461171)           |                     |                                                                                                   |
 |                    2|[Anticipate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401813)           |                     |                                                                                                   |
+|                    4|[Sinister Sabotage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452804)    |                     |                                                                                                   |
 |                    4|[Quench](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457192)               |                     |                                                                                                   |
 |                    4|[Brazen Borrower](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473001)      |                     |                                                                                                   |
-|                    4|[Sinister Sabotage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452804)    |                     |                                                                                                   |
 
