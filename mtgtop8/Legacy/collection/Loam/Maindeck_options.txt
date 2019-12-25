@@ -1,11 +1,8 @@
+1 Oko, Thief of Crowns
+2 Oko, Thief of Crowns
 1 Wrenn and Six
 2 Wrenn and Six
 3 Wrenn and Six
-1 Swamp
-1 Oko, Thief of Crowns
-2 Oko, Thief of Crowns
-1 Marsh Flats
-1 Wooded Foothills
 1 Thespian's Stage
 1 Dark Depths
 1 Elvish Reclaimer
@@ -19,6 +16,7 @@
 1 Sejiri Steppe
 2 Green Sun's Zenith
 2 Crop Rotation
+1 Wooded Foothills
 1 Tropical Island
 1 Sylvan Safekeeper
 1 Horizon Canopy
@@ -30,7 +28,9 @@
 3 Green Sun's Zenith
 4 Swords to Plowshares
 1 Snow-Covered Forest
+1 Marsh Flats
 1 Tarmogoyf
+1 Swamp
 1 Waterlogged Grove
 2 Thespian's Stage
 2 Dark Depths
@@ -38,10 +38,6 @@
 4 Windswept Heath
 1 Anje's Ravager
 2 Anje's Ravager
-1 Grim Flayer
-2 Grim Flayer
-3 Grim Flayer
-4 Grim Flayer
 1 Tundra
 1 Teferi, Time Raveler
 1 Misty Rainforest
@@ -59,12 +55,10 @@
 1 Nurturing Peatland
 4 Wrenn and Six
 1 Sevinne's Reclamation
-1 Barbarian Ring
-1 Ghost Quarter
 1 Plague Engineer
 1 Polluted Delta
-2 Scavenging Ooze
 2 Assassin's Trophy
+2 Scavenging Ooze
 1 Volrath's Stronghold
 3 Oko, Thief of Crowns
 1 Flagstones of Trokair
@@ -74,9 +68,13 @@
 1 Sheltered Thicket
 2 Wooded Foothills
 4 Green Sun's Zenith
-1 Bloodstained Mire
+1 Grim Flayer
+2 Grim Flayer
+3 Grim Flayer
+4 Grim Flayer
 1 Thoughtseize
 1 Fatal Push
+1 Bloodstained Mire
 1 Snow-Covered Swamp
 2 Thoughtseize
 2 Fatal Push

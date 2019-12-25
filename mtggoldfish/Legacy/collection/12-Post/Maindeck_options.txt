@@ -37,8 +37,8 @@
 2 Forest
 3 Crop Rotation
 3 Forest
-4 Forest
 4 Crop Rotation
+4 Forest
 5 Forest
 6 Forest
 7 Forest
@@ -105,6 +105,13 @@
 2 Sundering Titan
 1 Unwinding Clock
 3 Ulamog, the Ceaseless Hunger
+1 Buried Ruin
+1 Voltaic Servant
+2 Voltaic Servant
+3 Wasteland
+3 Mystic Forge
+4 Trinisphere
+4 Wasteland
 2 Endbringer
 3 Endbringer
 3 Wurmcoil Engine
@@ -126,13 +133,6 @@
 4 Metalworker
 4 Blast Zone
 4 Thran Dynamo
-1 Buried Ruin
-1 Voltaic Servant
-2 Voltaic Servant
-3 Wasteland
-3 Mystic Forge
-4 Wasteland
-4 Trinisphere
 1 Dark Depths
 4 Candelabra of Tawnos
 1 Elvish Reclaimer

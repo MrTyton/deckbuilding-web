@@ -12,12 +12,12 @@
 1 Overgrown Tomb
 2 Forest
 1 Hero's Downfall
-1 Dark Petition
 1 Hissing Quagmire
 1 Seasons Past
 1 Tireless Tracker
-2 Dark Petition
+1 Dark Petition
 2 Hissing Quagmire
+2 Dark Petition
 2 Overgrown Tomb
 3 Forest
 3 Dark Petition
@@ -77,8 +77,8 @@
 3 Hissing Quagmire
 1 Nissa, Vastwood Seer
 2 Tireless Tracker
-1 Choked Estuary
 1 Sunken Hollow
+1 Choked Estuary
 2 Sunken Hollow
 2 Vraska's Contempt
 3 Languish
@@ -176,8 +176,8 @@
 1 Elixir of Immortality
 1 Mystical Dispute
 3 Hero's Downfall
-1 Sinister Sabotage
 1 Lumbering Falls
+1 Sinister Sabotage
 2 Sinister Sabotage
 2 Cast Out
 4 Censor
@@ -195,6 +195,15 @@
 2 Rogue Refiner
 3 Gilded Goose
 4 Gilded Goose
+1 Ojutai's Command
+1 Crux of Fate
+1 Brazen Borrower
+1 Silumgar, the Drifting Death
+2 Brazen Borrower
+2 Ojutai's Command
+2 Crux of Fate
+3 Brazen Borrower
+4 Brazen Borrower
 3 Plains
 1 Westvale Abbey
 1 Sorin, Grim Nemesis
@@ -207,50 +216,19 @@
 1 Archangel Avacyn
 1 Lyra Dawnbringer
 2 Mortify
-2 Ifnir Deadlands
-2 Transgress the Mind
+2 Ob Nixilis Reignited
 2 Westvale Abbey
+2 Transgress the Mind
 2 Grasp of Darkness
 2 Duress
 2 Sorin, Grim Nemesis
+2 Ifnir Deadlands
 2 Archangel Avacyn
-2 Ob Nixilis Reignited
 2 Blighted Fen
 3 Transgress the Mind
 3 Grasp of Darkness
 3 Ob Nixilis Reignited
 4 Grasp of Darkness
-1 Ojutai's Command
-1 Crux of Fate
-1 Brazen Borrower
-1 Silumgar, the Drifting Death
-2 Brazen Borrower
-2 Ojutai's Command
-2 Crux of Fate
-3 Brazen Borrower
-4 Brazen Borrower
-1 Kaya's Wrath
-1 Gideon Blackblade
-1 Heart of Kiran
-1 Gideon's Triumph
-1 Gideon of the Trials
-1 Blood Baron of Vizkopa
-2 Gideon Blackblade
-2 Kaya's Wrath
-2 Heart of Kiran
-2 Gideon's Triumph
-2 Gideon of the Trials
-2 Blood Baron of Vizkopa
-3 Isolated Chapel
-3 Heart of Kiran
-3 Gideon, Ally of Zendikar
-3 Kaya's Wrath
-3 Gideon of the Trials
-4 Kaya's Wrath
-4 Field of Ruin
-4 Gideon of the Trials
-4 Gideon, Ally of Zendikar
-4 Heart of Kiran
 1 Anger of the Gods
 2 Anger of the Gods
 3 Anger of the Gods
@@ -261,16 +239,16 @@
 1 Elspeth, Sun's Champion
 1 Fae of Wishes
 1 Interplanar Beacon
+1 Temple of Triumph
 1 Sarkhan the Masterless
 1 Kenrith, the Returned King
-1 Temple of Triumph
 2 Sacred Foundry
 2 Magma Jet
 2 Fae of Wishes
 2 Interplanar Beacon
 2 Sarkhan the Masterless
-2 Kenrith, the Returned King
 2 Temple of Triumph
+2 Kenrith, the Returned King
 2 Commit / Memory
 3 Sacred Foundry
 3 Fae of Wishes
@@ -285,6 +263,26 @@
 2 Courser of Kruphix
 3 Lovestruck Beast
 4 Lovestruck Beast
+1 Bonecrusher Giant
+2 Bonecrusher Giant
+1 Sphinx of Foresight
+1 Cavalier of Flame
+1 Cavalier of Gales
+1 Sweltering Suns
+2 Sweltering Suns
+2 Sphinx of Foresight
+2 Cavalier of Gales
+2 Cavalier of Flame
+2 Temple of Epiphany
+3 Castle Vantress
+3 Bonecrusher Giant
+3 Sphinx of Foresight
+3 Cavalier of Flame
+3 Cavalier of Gales
+3 Sweltering Suns
+4 Cavalier of Gales
+4 Bonecrusher Giant
+4 Cavalier of Flame
 1 Young Pyromancer
 1 Claim / Fame
 1 Treasure Cruise
@@ -324,43 +322,23 @@
 2 Navigator's Compass
 3 Navigator's Compass
 4 Navigator's Compass
-1 Fetid Pools
 1 Glimmer of Genius
+1 Fetid Pools
 2 Glimmer of Genius
-3 Sunken Hollow
 3 Glimmer of Genius
+3 Sunken Hollow
 4 Sunken Hollow
-1 Bonecrusher Giant
-2 Bonecrusher Giant
-1 Sphinx of Foresight
-1 Cavalier of Flame
-1 Sweltering Suns
-1 Cavalier of Gales
-2 Sweltering Suns
-2 Sphinx of Foresight
-2 Cavalier of Gales
-2 Cavalier of Flame
-2 Temple of Epiphany
-3 Castle Vantress
-3 Bonecrusher Giant
-3 Sphinx of Foresight
-3 Cavalier of Flame
-3 Cavalier of Gales
-3 Sweltering Suns
-4 Bonecrusher Giant
-4 Cavalier of Flame
-4 Cavalier of Gales
 1 Tasigur, the Golden Fang
 1 Syncopate
 1 The Scarab God
 2 Torrential Gearhulk
 2 Choked Estuary
+2 The Scarab God
 2 Tasigur, the Golden Fang
 2 Search for Azcanta
-2 The Scarab God
 2 Syncopate
-3 Vraska's Contempt
 3 Drown in the Loch
+3 Vraska's Contempt
 3 Syncopate
 4 Syncopate
 4 Languish
@@ -394,18 +372,40 @@
 4 Hinterland Harbor
 4 Breeding Pool
 4 Wilderness Reclamation
-1 Bontu's Last Reckoning
+1 Heart of Kiran
+1 Gideon's Triumph
+1 Kaya's Wrath
+1 Gideon Blackblade
+1 Gideon of the Trials
+1 Blood Baron of Vizkopa
+2 Heart of Kiran
+2 Gideon of the Trials
+2 Kaya's Wrath
+2 Gideon Blackblade
+2 Blood Baron of Vizkopa
+2 Gideon's Triumph
+3 Isolated Chapel
+3 Heart of Kiran
+3 Gideon of the Trials
+3 Gideon, Ally of Zendikar
+3 Kaya's Wrath
+4 Heart of Kiran
+4 Field of Ruin
+4 Kaya's Wrath
+4 Gideon, Ally of Zendikar
+4 Gideon of the Trials
 1 Nissa's Renewal
+1 Bontu's Last Reckoning
 1 Mastermind's Acquisition
 1 Gaze of Granite
 1 Ugin, the Spirit Dragon
 2 Nissa's Pilgrimage
 7 Forest
 1 Always Watching
+1 Legion's Landing
 1 Quarantine Field
 1 Thraben Inspector
 1 Walking Ballista
-1 Legion's Landing
 1 Dawn of Hope
 1 Knight of the White Orchid
 1 Mastery of the Unseen
@@ -417,8 +417,8 @@
 1 Blind Obedience
 2 Always Watching
 2 Thraben Inspector
-2 Legion's Landing
 2 Castle Ardenvale
+2 Legion's Landing
 2 Nykthos, Shrine to Nyx
 2 Stasis Snare
 2 Mastery of the Unseen
@@ -460,27 +460,27 @@
 17 Plains
 1 Stormbreath Dragon
 1 Magma Spray
-1 Draconic Roar
 1 Thunderbreak Regent
 1 Castle Embereth
 1 Abrade
 1 Sarkhan, Fireblood
 1 Crater's Claws
+1 Draconic Roar
 2 Castle Embereth
 2 Stormbreath Dragon
 2 Magma Spray
-2 Draconic Roar
 2 Crater's Claws
 2 Thunderbreak Regent
+2 Draconic Roar
 2 Abrade
 2 Sarkhan, Fireblood
 3 Stormbreath Dragon
 3 Castle Embereth
 3 Glorybringer
 3 Magma Spray
-3 Draconic Roar
 3 Chandra, Torch of Defiance
 3 Thunderbreak Regent
+3 Draconic Roar
 3 Mountain
 3 Sarkhan, Fireblood
 3 Haven of the Spirit Dragon

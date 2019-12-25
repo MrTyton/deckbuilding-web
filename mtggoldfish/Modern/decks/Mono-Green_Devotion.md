@@ -41,7 +41,7 @@
 |                    3|[Devoted Druid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=135500)     |                    4|[Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)      |
 |                    3|[Misty Rainforest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405102)  |                    3|[Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)      |
 |                    3|[Garruk Wildspeaker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=247323)|                     |                                                                                               |
-|                    4|[Garruk Wildspeaker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=247323)|                     |                                                                                               |
 |                    4|[Genesis Hydra](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438729)     |                     |                                                                                               |
+|                    4|[Garruk Wildspeaker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=247323)|                     |                                                                                               |
 |                    4|[Wistful Selkie](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405453)    |                     |                                                                                               |
 

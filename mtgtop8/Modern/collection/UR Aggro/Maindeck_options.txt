@@ -1,11 +1,11 @@
 1 Mana Leak
 2 Flooded Strand
 3 Flooded Strand
-3 Deprive
 3 Polluted Delta
+3 Deprive
 1 Burst Lightning
-4 Flooded Strand
 4 Steam Vents
+4 Flooded Strand
 4 Polluted Delta
 1 Snow-Covered Mountain
 1 Arid Mesa
@@ -21,8 +21,8 @@
 1 Manamorphose
 1 Fiery Islet
 1 Rift Bolt
-2 Snow-Covered Mountain
 2 Arid Mesa
+2 Snow-Covered Mountain
 2 Lava Spike
 2 Monastery Swiftspear
 2 Light Up the Stage
@@ -32,8 +32,8 @@
 2 Manamorphose
 2 Fiery Islet
 2 Rift Bolt
-3 Mutagenic Growth
 3 Arid Mesa
+3 Mutagenic Growth
 3 Monastery Swiftspear
 3 Lava Spike
 3 Light Up the Stage
@@ -43,7 +43,6 @@
 3 Snow-Covered Mountain
 3 Rift Bolt
 4 Snow-Covered Mountain
-4 Arid Mesa
 4 Lava Spike
 4 Monastery Swiftspear
 4 Light Up the Stage
@@ -51,5 +50,6 @@
 4 Manamorphose
 4 Rift Bolt
 4 Wizard's Lightning
+4 Arid Mesa
 5 Snow-Covered Mountain
 6 Island

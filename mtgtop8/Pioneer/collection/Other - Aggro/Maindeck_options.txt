@@ -92,8 +92,8 @@
 6 Swamp
 1 Gifted Aetherborn
 1 Urborg, Tomb of Yawgmoth
-1 Sorin, Imperious Bloodlord
 1 Champion of Dusk
+1 Sorin, Imperious Bloodlord
 1 Dusk Legion Zealot
 1 Concealed Courtyard
 1 Mutavault
@@ -103,8 +103,8 @@
 1 Knight of the Ebon Legion
 1 Godless Shrine
 2 Gifted Aetherborn
-2 Champion of Dusk
 2 Sorin, Imperious Bloodlord
+2 Champion of Dusk
 2 Mutavault
 2 Castle Locthwain
 2 Concealed Courtyard
@@ -113,8 +113,8 @@
 2 Knight of the Ebon Legion
 2 Godless Shrine
 3 Gifted Aetherborn
-3 Sorin, Imperious Bloodlord
 3 Champion of Dusk
+3 Sorin, Imperious Bloodlord
 3 Concealed Courtyard
 3 Godless Shrine
 3 Castle Locthwain
@@ -225,22 +225,22 @@
 1 Gladecover Scout
 1 All That Glitters
 2 Cartouche of Solidarity
-2 All That Glitters
 2 Vine Mare
 2 Unflinching Courage
-2 Fortified Village
 2 Season of Growth
 2 Gryff's Boon
 2 Ethereal Armor
 2 Sixth Sense
 2 Bassara Tower Archer
+2 All That Glitters
 2 Gladecover Scout
+2 Fortified Village
 2 Witchstalker
 3 Cartouche of Solidarity
 3 Gryff's Boon
 3 All That Glitters
-3 Fortified Village
 3 Season of Growth
+3 Fortified Village
 3 Unflinching Courage
 3 Witchstalker
 3 Sixth Sense
@@ -248,11 +248,11 @@
 3 Ethereal Armor
 3 Bassara Tower Archer
 4 All That Glitters
-4 Fortified Village
 4 Season of Growth
 4 Sixth Sense
 4 Unflinching Courage
 4 Witchstalker
+4 Fortified Village
 4 Gladecover Scout
 4 Bassara Tower Archer
 4 Ethereal Armor
@@ -263,12 +263,12 @@
 1 Attune with Aether
 1 Karn, Scion of Urza
 1 Abrade
-1 Bristling Hydra
 1 Servant of the Conduit
 1 Longtusk Cub
 1 Vizier of Many Faces
 1 Steam Vents
 1 Stomping Ground
+1 Bristling Hydra
 2 The Scarab God
 2 Stomping Ground
 2 Harnessed Lightning
@@ -299,8 +299,8 @@
 1 Steel Leaf Champion
 1 Unclaimed Territory
 1 Elvish Visionary
-1 Chord of Calling
 1 Gnarlroot Trapper
+1 Chord of Calling
 1 Elvish Clancaller
 1 Shaman of the Pack
 1 Marwyn, the Nurturer
@@ -308,16 +308,16 @@
 2 Steel Leaf Champion
 2 Unclaimed Territory
 2 Elvish Visionary
-2 Chord of Calling
 2 Marwyn, the Nurturer
 2 Dwynen's Elite
 2 Elvish Clancaller
 2 Gnarlroot Trapper
+2 Chord of Calling
 2 Shaman of the Pack
 3 Steel Leaf Champion
-3 Chord of Calling
 3 Elvish Clancaller
 3 Gnarlroot Trapper
+3 Chord of Calling
 3 Shaman of the Pack
 3 Elvish Visionary
 3 Dwynen's Elite

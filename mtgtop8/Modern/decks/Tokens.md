@@ -27,8 +27,8 @@
 
 |*n*<sup>th</sup> copy|                                       Maindeck Card                                       |*n*<sup>th</sup> copy|Sideboard Card|
 |--------------------:|-------------------------------------------------------------------------------------------|---------------------|--------------|
-|                    1|[Force of Vigor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464113)  |                     |              |
 |                    1|[Launch the Fleet](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=380449)|                     |              |
+|                    1|[Force of Vigor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464113)  |                     |              |
 |                    2|[Force of Vigor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464113)  |                     |              |
 |                    2|[Launch the Fleet](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=380449)|                     |              |
 |                    3|[Force of Vigor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464113)  |                     |              |
