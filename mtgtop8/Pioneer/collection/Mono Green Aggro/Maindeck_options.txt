@@ -1,44 +1,49 @@
-3 Scavenging Ooze
-1 Sylvan Caryatid
-1 Whisperwood Elemental
 1 Gilded Goose
 2 Gilded Goose
+3 Scavenging Ooze
 1 Steel Leaf Champion
 2 Steel Leaf Champion
 3 Steel Leaf Champion
 4 Steel Leaf Champion
+1 Sylvan Caryatid
+1 Whisperwood Elemental
 16 Forest
-1 The Great Henge
 1 Ghalta, Primal Hunger
 2 Ghalta, Primal Hunger
-1 Biomass Mutation
-2 Sylvan Caryatid
 1 Aspect of Hydra
 2 Aspect of Hydra
-1 Oko, Thief of Crowns
-1 Wicked Wolf
-1 Hydroid Krasis
 1 Breeding Pool
 1 Botanical Sanctum
-2 Wicked Wolf
-2 Oko, Thief of Crowns
+1 Hydroid Krasis
 2 Hydroid Krasis
 2 Breeding Pool
 2 Botanical Sanctum
-3 Oko, Thief of Crowns
+3 Hydroid Krasis
 3 Breeding Pool
 3 Botanical Sanctum
-3 Wicked Wolf
-3 Gilded Goose
-3 Hydroid Krasis
 4 Hydroid Krasis
-4 Botanical Sanctum
+4 Breeding Pool
+1 The Great Henge
+1 Biomass Mutation
+2 Sylvan Caryatid
+1 Yavimaya Coast
+2 Yavimaya Coast
+1 Oko, Thief of Crowns
+1 Wicked Wolf
+2 Wicked Wolf
+2 Oko, Thief of Crowns
+3 Gilded Goose
+3 Oko, Thief of Crowns
+3 Wicked Wolf
 4 Gilded Goose
+4 Botanical Sanctum
 4 Wicked Wolf
 4 Oko, Thief of Crowns
-4 Breeding Pool
 3 Castle Garenbrig
 4 Castle Garenbrig
+1 Rhonas the Indomitable
+3 Aspect of Hydra
+4 Aspect of Hydra
 2 Questing Beast
 1 Surrak, the Hunt Caller
 2 The Great Henge
@@ -46,20 +51,28 @@
 3 The Great Henge
 3 Ghalta, Primal Hunger
 3 Surrak, the Hunt Caller
+1 Yorvo, Lord of Garenbrig
+2 Yorvo, Lord of Garenbrig
 1 Blossoming Defense
 1 Hashep Oasis
 2 Hashep Oasis
-1 Rhonas the Indomitable
+1 Avatar of the Resolute
+1 Barkhide Troll
+1 Experiment One
+2 Avatar of the Resolute
+2 Barkhide Troll
+2 Experiment One
+3 Avatar of the Resolute
+3 Barkhide Troll
+3 Experiment One
+4 Barkhide Troll
+4 Experiment One
+4 Avatar of the Resolute
 2 Rhonas the Indomitable
-3 Aspect of Hydra
-4 Aspect of Hydra
-1 Bow of Nylea
 1 Arch of Orazca
 1 Hornet Queen
 1 Nylea, God of the Hunt
 1 Heart of Kiran
-1 Yavimaya Coast
-2 Yavimaya Coast
 2 Heart of Kiran
 1 Vivien, Champion of the Wilds
 2 Vivien, Champion of the Wilds
@@ -76,71 +89,57 @@
 3 Paradise Druid
 1 Biogenic Ooze
 1 Courser of Kruphix
-2 Biogenic Ooze
 2 Courser of Kruphix
+2 Biogenic Ooze
 3 Courser of Kruphix
 4 Courser of Kruphix
 1 Westvale Abbey
 1 Shifting Ceratops
-1 Yorvo, Lord of Garenbrig
 1 Lovestruck Beast
 2 Shifting Ceratops
 2 Lovestruck Beast
-2 Yorvo, Lord of Garenbrig
 3 Shifting Ceratops
 3 Lovestruck Beast
 4 The Great Henge
 4 Lovestruck Beast
 4 Ghalta, Primal Hunger
 1 Wildborn Preserver
-1 Avatar of the Resolute
-1 Barkhide Troll
 1 Dryad Militant
-1 Experiment One
 1 Pelt Collector
-2 Pelt Collector
 2 Blossoming Defense
 2 Wildborn Preserver
-2 Avatar of the Resolute
-2 Barkhide Troll
 2 Dryad Militant
-2 Experiment One
-3 Pelt Collector
+2 Pelt Collector
 3 Blossoming Defense
-3 Avatar of the Resolute
 3 Wildborn Preserver
-3 Barkhide Troll
 3 Dryad Militant
-3 Experiment One
 3 Hashep Oasis
+3 Pelt Collector
 4 Pelt Collector
 4 Wildborn Preserver
-4 Barkhide Troll
 4 Dryad Militant
 4 Blossoming Defense
-4 Experiment One
-4 Avatar of the Resolute
 4 Hashep Oasis
 1 Elvish Rejuvenator
+1 Cavalier of Thorns
 1 World Breaker
 1 Ugin, the Spirit Dragon
 1 Ulamog, the Ceaseless Hunger
 1 Nissa's Pilgrimage
-1 Shrine of the Forsaken Gods
 1 Sanctum of Ugin
 1 Ulvenwald Hydra
-1 Cavalier of Thorns
+1 Shrine of the Forsaken Gods
 1 Radiant Fountain
 2 Shrine of the Forsaken Gods
 2 Sanctum of Ugin
 2 Elvish Rejuvenator
+2 Cavalier of Thorns
 2 Ulamog, the Ceaseless Hunger
 2 World Breaker
 2 Radiant Fountain
 2 Nissa's Pilgrimage
 2 Ugin, the Spirit Dragon
 2 Ulvenwald Hydra
-2 Cavalier of Thorns
 3 Nissa's Pilgrimage
 3 World Breaker
 3 Shrine of the Forsaken Gods
@@ -155,3 +154,9 @@
 4 Elvish Rejuvenator
 4 Cavalier of Thorns
 4 Sanctum of Ugin
+1 Duskwatch Recruiter
+1 Syr Faren, the Hengehammer
+1 Renegade Krasis
+2 Duskwatch Recruiter
+3 Yorvo, Lord of Garenbrig
+4 Yorvo, Lord of Garenbrig

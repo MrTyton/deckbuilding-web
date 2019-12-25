@@ -1,38 +1,37 @@
-2 Pelt Collector
-3 Pelt Collector
-1 Once Upon a Time
-2 Once Upon a Time
-3 Once Upon a Time
-4 Llanowar Elves
-1 Karn's Bastion
-3 Vivien, Arkbow Ranger
+2 Elvish Mystic
+3 Elvish Mystic
+4 Voracious Hydra
 1 Fatal Push
 2 Fatal Push
 3 Fatal Push
 4 Woodland Cemetery
-4 Elvish Mystic
-6 Forest
-4 Once Upon a Time
 1 Experiment One
 2 Experiment One
 3 Experiment One
 4 Experiment One
 4 Pelt Collector
+1 Once Upon a Time
+2 Once Upon a Time
+3 Once Upon a Time
+4 Llanowar Elves
 1 Thoughtseize
 2 Swamp
+3 Vivien, Arkbow Ranger
 1 Castle Locthwain
 1 Scavenging Ooze
-4 Vivien, Arkbow Ranger
-7 Forest
-8 Forest
+4 Once Upon a Time
+4 Elvish Mystic
+6 Forest
+2 Thoughtseize
 1 Verdurous Gearhulk
 4 Fatal Push
-2 Thoughtseize
 3 Thoughtseize
 4 Thoughtseize
 2 Scavenging Ooze
 3 Swamp
+1 Castle Garenbrig
 1 Murderous Rider
+1 Vraska, Golgari Queen
 2 Murderous Rider
 1 Lotleth Troll
 2 Lotleth Troll
@@ -58,37 +57,43 @@
 4 Zetalpa, Primal Dawn
 4 Traverse the Ulvenwald
 4 Soulflayer
+3 Murderous Rider
+1 Questing Beast
+2 Questing Beast
+4 Vivien, Arkbow Ranger
+7 Forest
+8 Forest
 1 Hashep Oasis
 1 Ruins of Oran-Rief
 1 Nykthos, Shrine to Nyx
-1 Questing Beast
-2 Questing Beast
-1 Castle Garenbrig
 2 Karn's Bastion
-1 Vraska, Golgari Queen
-3 Murderous Rider
+1 Urborg, Tomb of Yawgmoth
 1 Vessel of Nascency
 2 Vessel of Nascency
-3 Vessel of Nascency
 3 Questing Beast
+3 Vessel of Nascency
 4 Vessel of Nascency
 4 Questing Beast
+2 Castle Locthwain
 1 Chromanticore
 2 Chromanticore
 1 Gather the Pack
 2 Gather the Pack
 3 Gather the Pack
 4 Gather the Pack
+1 Fabled Passage
+2 Fabled Passage
 2 Vraska, Golgari Queen
-1 Urborg, Tomb of Yawgmoth
 1 Abrupt Decay
 1 Assassin's Trophy
 2 Assassin's Trophy
 1 Mutavault
 2 Mutavault
-2 Castle Locthwain
-1 Fabled Passage
-2 Fabled Passage
+1 Liliana, the Last Hope
+1 Courser of Kruphix
+2 Courser of Kruphix
+3 Fabled Passage
+4 Fabled Passage
 2 Hashep Oasis
 1 Grapple with the Past
 1 Collective Brutality
@@ -114,6 +119,26 @@
 2 Evolution Sage
 3 Avatar of the Resolute
 3 Evolution Sage
+1 Field of Ruin
+1 Tasigur, the Golden Fang
+1 Deathrite Shaman
+1 Sylvan Advocate
+1 Tireless Tracker
+1 Ob Nixilis Reignited
+1 Kalitas, Traitor of Ghet
+1 Hissing Quagmire
+2 Tasigur, the Golden Fang
+2 Abrupt Decay
+2 Sylvan Advocate
+2 Deathrite Shaman
+2 Field of Ruin
+2 Tireless Tracker
+2 Hissing Quagmire
+3 Abrupt Decay
+3 Field of Ruin
+3 Sylvan Advocate
+3 Hissing Quagmire
+4 Sylvan Advocate
 1 Mana Confluence
 1 Gifted Aetherborn
 2 Mana Confluence
@@ -153,6 +178,31 @@
 4 Dread Wanderer
 4 Lord of the Accursed
 4 Cryptbreaker
+1 Emrakul, the Promised End
+1 Massacre Girl
+1 Gilded Goose
+1 Witch's Oven
+1 Temple of Malady
+1 Cauldron Familiar
+1 Cavalier of Thorns
+1 Trail of Crumbs
+2 Witch's Oven
+2 Gilded Goose
+2 Liliana, the Last Hope
+2 Cauldron Familiar
+2 Cavalier of Thorns
+2 Trail of Crumbs
+2 Temple of Malady
+3 Temple of Malady
+3 Cauldron Familiar
+3 Trail of Crumbs
+3 Cavalier of Thorns
+3 Witch's Oven
+3 Gilded Goose
+4 Witch's Oven
+4 Cauldron Familiar
+4 Gilded Goose
+4 Trail of Crumbs
 1 Blood Crypt
 1 Samut, Voice of Dissent
 1 Commune with the Gods
@@ -166,28 +216,3 @@
 3 Blood Crypt
 3 Samut, Voice of Dissent
 4 Samut, Voice of Dissent
-1 Field of Ruin
-1 Tasigur, the Golden Fang
-1 Deathrite Shaman
-1 Sylvan Advocate
-1 Courser of Kruphix
-1 Tireless Tracker
-1 Liliana, the Last Hope
-1 Ob Nixilis Reignited
-1 Kalitas, Traitor of Ghet
-1 Hissing Quagmire
-2 Tasigur, the Golden Fang
-2 Abrupt Decay
-2 Sylvan Advocate
-2 Deathrite Shaman
-2 Field of Ruin
-2 Tireless Tracker
-2 Hissing Quagmire
-2 Courser of Kruphix
-3 Abrupt Decay
-3 Field of Ruin
-3 Sylvan Advocate
-3 Hissing Quagmire
-3 Fabled Passage
-4 Sylvan Advocate
-4 Fabled Passage
