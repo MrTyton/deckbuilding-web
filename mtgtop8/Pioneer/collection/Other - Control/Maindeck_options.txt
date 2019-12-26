@@ -191,6 +191,26 @@
 2 Cast Out
 4 Oko, Thief of Crowns
 4 Censor
+1 Bonecrusher Giant
+2 Bonecrusher Giant
+1 Sphinx of Foresight
+1 Cavalier of Flame
+1 Sweltering Suns
+1 Cavalier of Gales
+2 Sphinx of Foresight
+2 Sweltering Suns
+2 Cavalier of Gales
+2 Cavalier of Flame
+2 Temple of Epiphany
+3 Castle Vantress
+3 Bonecrusher Giant
+3 Sphinx of Foresight
+3 Cavalier of Flame
+3 Cavalier of Gales
+3 Sweltering Suns
+4 Cavalier of Gales
+4 Bonecrusher Giant
+4 Cavalier of Flame
 1 Ojutai's Command
 1 Crux of Fate
 1 Brazen Borrower
@@ -211,8 +231,8 @@
 1 Ifnir Deadlands
 1 Archangel Avacyn
 1 Lyra Dawnbringer
-2 Mortify
 2 Ob Nixilis Reignited
+2 Mortify
 2 Westvale Abbey
 2 Transgress the Mind
 2 Grasp of Darkness
@@ -241,10 +261,10 @@
 2 Sacred Foundry
 2 Magma Jet
 2 Fae of Wishes
-2 Interplanar Beacon
-2 Sarkhan the Masterless
-2 Temple of Triumph
 2 Kenrith, the Returned King
+2 Interplanar Beacon
+2 Temple of Triumph
+2 Sarkhan the Masterless
 2 Commit / Memory
 3 Sacred Foundry
 3 Fae of Wishes
@@ -260,26 +280,6 @@
 2 Courser of Kruphix
 3 Lovestruck Beast
 4 Lovestruck Beast
-1 Bonecrusher Giant
-2 Bonecrusher Giant
-1 Sphinx of Foresight
-1 Cavalier of Flame
-1 Cavalier of Gales
-1 Sweltering Suns
-2 Sweltering Suns
-2 Sphinx of Foresight
-2 Cavalier of Gales
-2 Cavalier of Flame
-2 Temple of Epiphany
-3 Castle Vantress
-3 Bonecrusher Giant
-3 Sphinx of Foresight
-3 Cavalier of Flame
-3 Cavalier of Gales
-3 Sweltering Suns
-4 Cavalier of Gales
-4 Bonecrusher Giant
-4 Cavalier of Flame
 1 Claim / Fame
 1 Treasure Cruise
 1 Wild Slash
@@ -458,9 +458,9 @@
 15 Plains
 16 Plains
 17 Plains
+1 Magma Spray
 1 Castle Embereth
 1 Stormbreath Dragon
-1 Magma Spray
 1 Draconic Roar
 1 Thunderbreak Regent
 1 Abrade
@@ -484,8 +484,8 @@
 3 Mountain
 3 Sarkhan, Fireblood
 3 Haven of the Spirit Dragon
-4 Anger of the Gods
 4 Castle Embereth
+4 Anger of the Gods
 4 Glorybringer
 4 Magma Spray
 4 Draconic Roar

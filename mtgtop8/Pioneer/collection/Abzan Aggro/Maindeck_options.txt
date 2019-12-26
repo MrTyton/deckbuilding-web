@@ -1,34 +1,18 @@
-3 Satyr Wayfinder
-4 Traverse the Ulvenwald
-1 Concealed Courtyard
-2 Concealed Courtyard
-1 Isolated Chapel
-3 Godless Shrine
-1 Woodland Cemetery
-2 Sunpetal Grove
-1 Fleecemane Lion
-1 Gideon Blackblade
-1 Gideon, Ally of Zendikar
-1 Dromoka's Command
-1 Warden of the First Tree
-1 Anafenza, the Foremost
-2 Isolated Chapel
-2 Fleecemane Lion
-2 Gideon Blackblade
-2 Gideon, Ally of Zendikar
-2 Dromoka's Command
-2 Anafenza, the Foremost
-2 Warden of the First Tree
-3 Sunpetal Grove
-3 Fleecemane Lion
-3 Anafenza, the Foremost
-3 Warden of the First Tree
-4 Fleecemane Lion
-4 Warden of the First Tree
+1 Vraska, Golgari Queen
+1 Grim Flayer
+2 Grim Flayer
+3 Grim Flayer
 1 Scavenging Ooze
+4 Overgrown Tomb
+4 Temple Garden
+1 Tireless Tracker
+1 Hissing Quagmire
+2 Swamp
 2 Abzan Charm
-2 Shambling Vent
-3 Concealed Courtyard
+4 Grim Flayer
+2 Fabled Passage
+2 Tireless Tracker
+3 Fabled Passage
 3 Isolated Chapel
 1 Mana Confluence
 1 Rakshasa Deathdealer
@@ -36,6 +20,23 @@
 2 Rakshasa Deathdealer
 3 Gideon, Ally of Zendikar
 3 Rakshasa Deathdealer
+1 Ob Nixilis Reignited
+1 Shambling Vent
+1 Ishkanah, Grafwidow
+1 Traverse the Ulvenwald
+1 Satyr Wayfinder
+1 Emrakul, the Promised End
+1 Courser of Kruphix
+2 Traverse the Ulvenwald
+2 Satyr Wayfinder
+2 Courser of Kruphix
+3 Courser of Kruphix
+3 Traverse the Ulvenwald
+3 Satyr Wayfinder
+4 Traverse the Ulvenwald
+3 Concealed Courtyard
+2 Shambling Vent
+3 Mana Confluence
 3 Forest
 4 Concealed Courtyard
 1 Tasigur, the Golden Fang
@@ -50,7 +51,6 @@
 1 Thalia, Heretic Cathar
 1 Walking Ballista
 2 Walking Ballista
-3 Mana Confluence
 1 Dark Petition
 1 Nissa, Vastwood Seer
 1 Painful Truths
@@ -137,8 +137,8 @@
 2 Collected Company
 2 Unclaimed Territory
 2 Dauntless Bodyguard
-2 Thalia's Lieutenant
 2 Zulaport Cutthroat
+2 Thalia's Lieutenant
 2 Xathrid Necromancer
 2 Plaguecrafter
 2 Cartel Aristocrat

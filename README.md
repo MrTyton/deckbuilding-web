@@ -18,8 +18,8 @@
 |[Boros Knights](./mtggoldfish/Standard/decks/Boros_Knights.md)        |[Golgari Adventures](./mtggoldfish/Standard/decks/Golgari_Adventures.md)              |[Jund Sacrifice](./mtggoldfish/Standard/decks/Jund_Sacrifice.md)                  |[Rakdos Knights](./mtggoldfish/Standard/decks/Rakdos_Knights.md)          |[Temur Midrange](./mtggoldfish/Standard/decks/Temur_Midrange.md)                      |
 |[Dimir Control](./mtggoldfish/Standard/decks/Dimir_Control.md)        |[Golgari Food](./mtggoldfish/Standard/decks/Golgari_Food.md)                          |[Kethis](./mtggoldfish/Standard/decks/Kethis.md)                                  |[Rakdos Sacrifice](./mtggoldfish/Standard/decks/Rakdos_Sacrifice.md)      |[Temur Reclamation](./mtggoldfish/Standard/decks/Temur_Reclamation.md)                |
 |[Dimir Mill](./mtggoldfish/Standard/decks/Dimir_Mill.md)              |[Golgari Midrange](./mtggoldfish/Standard/decks/Golgari_Midrange.md)                  |[Mardu Knights](./mtggoldfish/Standard/decks/Mardu_Knights.md)                    |[Selesnya Adventure](./mtggoldfish/Standard/decks/Selesnya_Adventure.md)  |[UBG](./mtggoldfish/Standard/decks/UBG.md)                                            |
-|[Dino-Fling](./mtggoldfish/Standard/decks/Dino-Fling.md)              |[Grixis Control](./mtggoldfish/Standard/decks/Grixis_Control.md)                      |[Mardu Sacrifice](./mtggoldfish/Standard/decks/Mardu_Sacrifice.md)                |[Selesnya Knights](./mtggoldfish/Standard/decks/Selesnya_Knights.md)      |[UG](./mtggoldfish/Standard/decks/UG.md)                                              |
-|[Drowned Secrets](./mtggoldfish/Standard/decks/Drowned_Secrets.md)    |[Grixis Fires](./mtggoldfish/Standard/decks/Grixis_Fires.md)                          |[Mono Black Discard](./mtggoldfish/Standard/decks/Mono_Black_Discard.md)          |[Simic Ascendancy](./mtggoldfish/Standard/decks/Simic_Ascendancy.md)      |[White Weenie](./mtggoldfish/Standard/decks/White_Weenie.md)                          |
+|[Dino-Fling](./mtggoldfish/Standard/decks/Dino-Fling.md)              |[Grixis Control](./mtggoldfish/Standard/decks/Grixis_Control.md)                      |[Mardu Sacrifice](./mtggoldfish/Standard/decks/Mardu_Sacrifice.md)                |[Selesnya Knights](./mtggoldfish/Standard/decks/Selesnya_Knights.md)      |[White Weenie](./mtggoldfish/Standard/decks/White_Weenie.md)                          |
+|[Drowned Secrets](./mtggoldfish/Standard/decks/Drowned_Secrets.md)    |[Grixis Fires](./mtggoldfish/Standard/decks/Grixis_Fires.md)                          |[Mono Black Discard](./mtggoldfish/Standard/decks/Mono_Black_Discard.md)          |[Simic Ascendancy](./mtggoldfish/Standard/decks/Simic_Ascendancy.md)      |                                                                                      |
 |[Emry Cauldron](./mtggoldfish/Standard/decks/Emry_Cauldron.md)        |[Gruul Adventure](./mtggoldfish/Standard/decks/Gruul_Adventure.md)                    |[Mono Green Growth Cycle](./mtggoldfish/Standard/decks/Mono_Green_Growth_Cycle.md)|[Simic Flash](./mtggoldfish/Standard/decks/Simic_Flash.md)                |                                                                                      |
 
 
@@ -104,4 +104,4 @@
 
 
 
-#### Last Updated at 12:44AM on December 26, 2019
+#### Last Updated at 12:34PM on December 26, 2019

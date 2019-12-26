@@ -1,25 +1,22 @@
-4 Wizard's Lightning
-1 Eidolon of the Great Revel
-2 Eidolon of the Great Revel
-1 Hazoret the Fervent
+2 Runaway Steam-Kin
+3 Runaway Steam-Kin
+4 Runaway Steam-Kin
 1 Searing Blood
 2 Searing Blood
 1 Experimental Frenzy
 2 Experimental Frenzy
-17 Mountain
-1 Goblin Chainwhirler
-2 Goblin Chainwhirler
+2 Bonecrusher Giant
 3 Shock
 4 Shock
+1 Goblin Chainwhirler
+2 Goblin Chainwhirler
 3 Eidolon of the Great Revel
-3 Goblin Chainwhirler
-4 Goblin Chainwhirler
-3 Searing Blood
-4 Searing Blood
 1 Skewer the Critics
 2 Skewer the Critics
 3 Skewer the Critics
 4 Eidolon of the Great Revel
+3 Searing Blood
+4 Searing Blood
 1 Sacred Foundry
 1 Battlefield Forge
 1 Boros Charm
@@ -34,23 +31,30 @@
 4 Inspiring Vantage
 4 Sacred Foundry
 4 Boros Charm
-3 Experimental Frenzy
+3 Goblin Chainwhirler
 4 Skewer the Critics
 3 Battlefield Forge
 4 Battlefield Forge
-3 Bonecrusher Giant
-4 Experimental Frenzy
+4 Goblin Chainwhirler
+3 Experimental Frenzy
 1 Viashino Pyromancer
-4 Bonecrusher Giant
+17 Mountain
+3 Bonecrusher Giant
 2 Viashino Pyromancer
 3 Viashino Pyromancer
 4 Viashino Pyromancer
+4 Bonecrusher Giant
+1 Chandra, Torch of Defiance
+2 Chandra, Torch of Defiance
+4 Experimental Frenzy
 2 Hazoret the Fervent
 1 Goblin Rabblemaster
 2 Goblin Rabblemaster
 3 Goblin Rabblemaster
 18 Mountain
 19 Mountain
+1 Embercleave
+2 Embercleave
 1 Goblin Instigator
 1 Foundry Street Denizen
 1 Goblin Piledriver
@@ -59,24 +63,20 @@
 2 Goblin Instigator
 2 Foundry Street Denizen
 2 Goblin Piledriver
-3 Castle Embereth
 3 Goblin Instigator
+3 Castle Embereth
 3 Foundry Street Denizen
 3 Goblin Piledriver
 4 Goblin Instigator
 4 Foundry Street Denizen
 4 Goblin Piledriver
-1 Embercleave
-2 Embercleave
 1 Burning-Tree Emissary
 2 Burning-Tree Emissary
 3 Burning-Tree Emissary
 4 Burning-Tree Emissary
 1 Torbran, Thane of Red Fell
 2 Torbran, Thane of Red Fell
-1 Chandra, Torch of Defiance
 1 Glorybringer
-2 Chandra, Torch of Defiance
 2 Glorybringer
 3 Glorybringer
 1 Lightning Berserker
@@ -107,9 +107,9 @@
 1 Skirk Prospector
 1 Volley Veteran
 1 Goblin Ringleader
+1 Icon of Ancestry
 1 Goblin Cratermaker
 1 Goblin Trashmaster
-1 Icon of Ancestry
 1 Siege-Gang Commander
 2 Goblin Warchief
 2 Skirk Prospector
@@ -125,8 +125,8 @@
 1 Fanatic of Mogis
 1 Ash Zealot
 1 Fabled Passage
-1 Rakdos Cackler
 1 Zurgo Bellstriker
+1 Rakdos Cackler
 2 Boros Reckoner
 2 Fanatic of Mogis
 2 Ash Zealot
