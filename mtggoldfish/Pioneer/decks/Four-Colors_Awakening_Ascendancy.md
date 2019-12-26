@@ -56,8 +56,8 @@
 |                     |                                                                                            |                    2|[Roast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394667)                    |
 |                     |                                                                                            |                    3|[Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)           |
 |                     |                                                                                            |                    2|[Abrupt Decay](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456061)             |
-|                     |                                                                                            |                    2|[Natural State](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407646)            |
 |                     |                                                                                            |                    1|[Deafening Clarion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452915)        |
 |                     |                                                                                            |                    2|[Deafening Clarion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452915)        |
 |                     |                                                                                            |                    2|[Wear/Tear](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=368950)                |
+|                     |                                                                                            |                    2|[Natural State](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407646)            |
 

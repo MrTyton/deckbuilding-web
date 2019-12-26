@@ -60,6 +60,6 @@
 |                     |                                                                                             |                    3|[Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)        |
 |                     |                                                                                             |                    3|[Whispers of Emrakul](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414411) |
 |                     |                                                                                             |                    4|[Pithing Needle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129526)      |
-|                     |                                                                                             |                    4|[Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)        |
 |                     |                                                                                             |                    4|[Whispers of Emrakul](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414411) |
+|                     |                                                                                             |                    4|[Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)        |
 

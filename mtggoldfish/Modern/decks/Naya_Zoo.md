@@ -42,6 +42,6 @@
 |                    1|[Ghost Quarter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389534)          |                    2|[Stony Silence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=247425)       |
 |                    4|[Lightning Helix](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=249386)        |                     |                                                                                               |
 |                    4|[Wrenn and Six](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464166)          |                     |                                                                                               |
-|                    4|[Knight of the Reliquary](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=189145)|                     |                                                                                               |
 |                    4|[Path to Exile](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220511)          |                     |                                                                                               |
+|                    4|[Knight of the Reliquary](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=189145)|                     |                                                                                               |
 

@@ -1,21 +1,21 @@
 4 Botanical Sanctum
-1 Llanowar Elves
 1 Oko, Thief of Crowns
 2 Oko, Thief of Crowns
 3 Oko, Thief of Crowns
 4 Oko, Thief of Crowns
-1 Elvish Mystic
 2 Breeding Pool
+1 Llanowar Elves
 2 Llanowar Elves
 3 Llanowar Elves
+1 Elvish Mystic
 2 Elvish Mystic
-1 Tireless Tracker
-2 Tireless Tracker
-3 Tireless Tracker
 3 Breeding Pool
 1 Brazen Borrower
+1 Tireless Tracker
 1 Lovestruck Beast
+2 Tireless Tracker
 2 Lovestruck Beast
+3 Tireless Tracker
 3 Lovestruck Beast
 4 Lovestruck Beast
 1 Sunpetal Grove
@@ -52,41 +52,37 @@
 2 Brazen Borrower
 3 Selfless Spirit
 4 Selfless Spirit
-2 Forest
-4 Llanowar Elves
 3 Scrapheap Scrounger
+4 Llanowar Elves
+4 Satyr Wayfinder
+4 Tireless Tracker
+4 Breeding Pool
+2 Forest
+1 Fatal Push
+2 Fatal Push
+3 Fatal Push
 1 Island
+3 Gilded Goose
 1 Scavenging Ooze
 1 Thoughtseize
 2 Thoughtseize
 3 Thoughtseize
 4 Thoughtseize
-1 The Scarab God
-1 Fatal Push
-2 Fatal Push
-3 Fatal Push
-1 Abrupt Decay
-2 Abrupt Decay
-3 Abrupt Decay
-3 Gilded Goose
-4 Satyr Wayfinder
-4 Tireless Tracker
+1 Castle Locthwain
 1 Murderous Rider
+1 The Scarab God
 4 Gilded Goose
-4 Breeding Pool
-4 Fatal Push
-1 Vraska, Golgari Queen
-1 Fabled Passage
-2 Fabled Passage
 1 Questing Beast
 1 Assassin's Trophy
+1 Abrupt Decay
 2 Questing Beast
+2 Abrupt Decay
+3 Abrupt Decay
+1 Yavimaya Coast
+2 Yavimaya Coast
 1 Heart of Kiran
 2 Heart of Kiran
-1 Wicked Wolf
-2 Wicked Wolf
 1 Vivien, Arkbow Ranger
-2 Scavenging Ooze
 3 Forest
 4 Forest
 5 Forest
@@ -94,12 +90,10 @@
 1 Nissa, Who Shakes the World
 1 Walking Ballista
 1 Hydroid Krasis
-1 Yavimaya Coast
 1 Nykthos, Shrine to Nyx
 2 Nykthos, Shrine to Nyx
 2 Nissa, Who Shakes the World
 2 Hydroid Krasis
-2 Yavimaya Coast
 2 Walking Ballista
 3 Hydroid Krasis
 3 Nykthos, Shrine to Nyx
@@ -108,13 +102,13 @@
 4 Nissa, Who Shakes the World
 7 Forest
 8 Forest
-2 Murderous Rider
-3 Swamp
-1 Castle Locthwain
+2 Scavenging Ooze
+4 Fatal Push
+1 Vraska, Golgari Queen
+4 Watery Grave
 1 Kalitas, Traitor of Ghet
 1 Aether Hub
 2 Aether Hub
-3 Murderous Rider
 1 Rogue Refiner
 2 Rogue Refiner
 3 Rogue Refiner
@@ -123,6 +117,9 @@
 2 Glint-Sleeve Siphoner
 3 Glint-Sleeve Siphoner
 4 Glint-Sleeve Siphoner
+2 Murderous Rider
+1 Liliana, the Last Hope
+3 Murderous Rider
 1 Mountain
 1 Bonecrusher Giant
 2 Bonecrusher Giant
@@ -146,38 +143,45 @@
 4 Dragonskull Summit
 5 Mountain
 6 Mountain
-1 Liliana, the Last Hope
+3 Swamp
 4 Swamp
 5 Swamp
 6 Swamp
 1 Plains
 2 Plains
-1 Unflinching Courage
-1 Witchstalker
-1 Ethereal Armor
 1 All That Glitters
 1 Gladecover Scout
+1 Ethereal Armor
+1 Unflinching Courage
+1 Witchstalker
 2 Unflinching Courage
-2 Ethereal Armor
 2 All That Glitters
+2 Ethereal Armor
 2 Gladecover Scout
 2 Witchstalker
-3 All That Glitters
-3 Unflinching Courage
-3 Witchstalker
 3 Ethereal Armor
 3 Gladecover Scout
-4 Unflinching Courage
+3 Unflinching Courage
+3 All That Glitters
+3 Witchstalker
 4 Gladecover Scout
+4 Unflinching Courage
 4 Ethereal Armor
+2 Castle Locthwain
 1 Stomping Ground
 2 Stomping Ground
 3 Stomping Ground
 4 Stomping Ground
+1 Hero's Downfall
+1 Jace, Vryn's Prodigy
+2 Hero's Downfall
+2 Jace, Vryn's Prodigy
 1 Rhonas the Indomitable
+1 Fabled Passage
 1 Hinterland Harbor
 2 Woodland Cemetery
 2 Hinterland Harbor
+2 Fabled Passage
 3 Questing Beast
 1 Wild Slash
 1 Rix Maadi Reveler
@@ -192,19 +196,57 @@
 2 Goblin Rabblemaster
 3 Goblin Rabblemaster
 3 Cut / Ribbons
-1 Hero's Downfall
-1 Jace, Vryn's Prodigy
-2 Hero's Downfall
-2 Jace, Vryn's Prodigy
-4 Watery Grave
 1 Growth-Chamber Guardian
 2 Growth-Chamber Guardian
 3 Growth-Chamber Guardian
 4 Growth-Chamber Guardian
-1 Dig Through Time
-1 Courser of Kruphix
-4 Abrupt Decay
+1 Trail of Crumbs
+1 Cauldron Familiar
+1 Witch's Oven
+1 Massacre Girl
+1 Sylvan Caryatid
+2 Vraska, Golgari Queen
+2 Trail of Crumbs
+2 Cauldron Familiar
+2 Witch's Oven
+2 Massacre Girl
+2 Sylvan Caryatid
+3 Massacre Girl
+3 Vraska, Golgari Queen
+3 Witch's Oven
+3 Trail of Crumbs
+3 Cauldron Familiar
+3 Sylvan Caryatid
+4 Trail of Crumbs
+4 Cauldron Familiar
+4 Witch's Oven
 4 Elvish Mystic
+1 Cartouche of Solidarity
+1 Vine Mare
+1 Fortified Village
+1 Season of Growth
+1 Bassara Tower Archer
+1 Sixth Sense
+1 Gryff's Boon
+2 Cartouche of Solidarity
+2 Vine Mare
+2 Season of Growth
+2 Sixth Sense
+2 Bassara Tower Archer
+2 Fortified Village
+2 Gryff's Boon
+3 Cartouche of Solidarity
+3 Gryff's Boon
+3 Season of Growth
+3 Sixth Sense
+3 Bassara Tower Archer
+3 Fortified Village
+4 Fortified Village
+4 Season of Growth
+4 Bassara Tower Archer
+4 Sixth Sense
+4 All That Glitters
+4 Witchstalker
 1 Sacred Foundry
 2 Sacred Foundry
 3 Sacred Foundry
@@ -231,8 +273,10 @@
 4 Boros Charm
 4 Voice of Resurgence
 4 Adanto Vanguard
+1 Wicked Wolf
 1 Castle Garenbrig
 1 Jadelight Ranger
+2 Wicked Wolf
 2 Jadelight Ranger
 3 Wicked Wolf
 3 Jadelight Ranger
@@ -254,8 +298,8 @@
 1 Port Town
 1 Castle Ardenvale
 1 Irrigated Farmland
-2 Irrigated Farmland
 2 Island
+2 Irrigated Farmland
 2 Charming Prince
 2 Teferi, Time Raveler
 2 Reflector Mage
@@ -286,38 +330,12 @@
 2 Drowned Catacomb
 2 Ashiok, Dream Render
 4 Llanowar Wastes
-1 Cartouche of Solidarity
-1 Vine Mare
-1 Fortified Village
-1 Sixth Sense
-1 Season of Growth
-1 Bassara Tower Archer
-1 Gryff's Boon
-2 Cartouche of Solidarity
-2 Vine Mare
-2 Season of Growth
-2 Gryff's Boon
-2 Sixth Sense
-2 Bassara Tower Archer
-2 Fortified Village
-3 Cartouche of Solidarity
-3 Gryff's Boon
-3 Season of Growth
-3 Fortified Village
-3 Sixth Sense
-3 Bassara Tower Archer
-4 All That Glitters
-4 Season of Growth
-4 Sixth Sense
-4 Witchstalker
-4 Fortified Village
-4 Bassara Tower Archer
 1 Harnessed Lightning
 1 Garruk, Cursed Huntsman
 1 Whirler Virtuoso
 1 Attune with Aether
-1 Karn, Scion of Urza
 1 Abrade
+1 Karn, Scion of Urza
 1 Servant of the Conduit
 1 Steam Vents
 1 Longtusk Cub
@@ -413,7 +431,6 @@
 2 Sorin, Imperious Bloodlord
 2 Champion of Dusk
 2 Mutavault
-2 Castle Locthwain
 2 Concealed Courtyard
 2 Dusk Legion Zealot
 2 Blood Baron of Vizkopa

@@ -31,9 +31,9 @@
 |                    3|[Lightning Skelemental](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464157)|                    1|[Claim the Firstborn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473080)   |
 |                    3|[Searing Blaze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=270873)        |                    1|[Searing Blaze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=270873)         |
 |                     |                                                                                                |                    1|[Shrine of Burning Rage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=218018)|
-|                     |                                                                                                |                    2|[Magmatic Sinkhole](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464084)     |
 |                     |                                                                                                |                    2|[Claim the Firstborn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473080)   |
 |                     |                                                                                                |                    2|[Shrine of Burning Rage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=218018)|
+|                     |                                                                                                |                    2|[Magmatic Sinkhole](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464084)     |
 |                     |                                                                                                |                    2|[Searing Blaze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=270873)         |
 |                     |                                                                                                |                    3|[Claim the Firstborn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473080)   |
 

@@ -31,6 +31,6 @@
 |*n*<sup>th</sup> copy|                                            Maindeck Card                                            |*n*<sup>th</sup> copy|                                       Sideboard Card                                       |
 |--------------------:|-----------------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------|
 |                    1|[Kitchen Finks](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370458)             |                    1|[Magus of the Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=136152)|
-|                    1|[Chandra, Torch of Defiance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417683)|                    2|[Magus of the Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=136152)|
-|                     |                                                                                                     |                    2|[Obstinate Baloth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438745) |
+|                    1|[Chandra, Torch of Defiance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417683)|                    2|[Obstinate Baloth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438745) |
+|                     |                                                                                                     |                    2|[Magus of the Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=136152)|
 

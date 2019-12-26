@@ -1,12 +1,6 @@
-3 Jace, Vryn's Prodigy
-1 Opt
-2 Opt
-1 Forest
-1 Cast Down
-1 Negate
-1 Liliana, the Last Hope
-2 Liliana, the Last Hope
+1 Vraska's Contempt
 4 Swamp
+2 Languish
 1 Abrupt Decay
 1 Assassin's Trophy
 1 Overgrown Tomb
@@ -23,19 +17,35 @@
 3 Dark Petition
 4 Forest
 5 Swamp
-2 Isolated Chapel
 1 Thought Erasure
 2 Abrupt Decay
+1 Oath of Kaya
+3 Island
+1 Sphinx's Revelation
+1 Detention Sphere
 1 Concealed Courtyard
-2 Drown in the Loch
+2 Isolated Chapel
+1 Censor
+2 Censor
+3 Censor
+2 Teferi, Hero of Dominaria
+2 Thought Erasure
+3 Thought Erasure
+2 Assassin's Trophy
+1 Temple Garden
 3 Opt
 2 Kalitas, Traitor of Ghet
-1 Blood Crypt
 1 Kolaghan's Command
 1 Dreadbore
+1 Blood Crypt
+1 Mountain
 1 Steam Vents
 2 Steam Vents
 3 Steam Vents
+1 Jace, Vryn's Prodigy
+2 Jace, Vryn's Prodigy
+3 Jace, Vryn's Prodigy
+3 Field of Ruin
 1 Dragonlord Ojutai
 1 Silumgar's Scorn
 1 Dragonlord Silumgar
@@ -45,21 +55,8 @@
 3 Silumgar's Scorn
 4 Dragonlord Ojutai
 4 Silumgar's Scorn
-1 Censor
-2 Censor
-3 Censor
-2 Assassin's Trophy
-3 Field of Ruin
-2 Thought Erasure
-3 Thought Erasure
-1 Mountain
-1 Temple Garden
-1 Grasp of Darkness
 2 Concealed Courtyard
-2 Kolaghan's Command
-1 Dragonskull Summit
-2 Blood Crypt
-3 Murderous Rider
+1 Grasp of Darkness
 1 Sign in Blood
 1 Temple of Malady
 1 Nissa's Pilgrimage
@@ -69,26 +66,27 @@
 4 Temple of Malady
 5 Forest
 6 Forest
-2 Cast Down
-2 Dreadbore
+3 Murderous Rider
 2 Hero's Downfall
 1 Scavenging Ooze
 1 Pulse of Murasa
 3 Hissing Quagmire
 1 Nissa, Vastwood Seer
 2 Tireless Tracker
-1 Sunken Hollow
-1 Choked Estuary
-2 Sunken Hollow
-2 Vraska's Contempt
-3 Languish
+2 Kolaghan's Command
+1 Dragonskull Summit
+2 Blood Crypt
+1 Liliana, the Last Hope
+2 Liliana, the Last Hope
+2 Dreadbore
+1 Negate
 2 Plains
 1 Cast Out
+1 Breeding Pool
 1 Oko, Thief of Crowns
 2 Oko, Thief of Crowns
-1 Breeding Pool
 4 Fabled Passage
-1 Oath of Kaya
+2 Oath of Kaya
 3 Abrupt Decay
 1 Attune with Aether
 1 Mana Confluence
@@ -111,15 +109,12 @@
 1 Blooming Marsh
 2 Blooming Marsh
 3 Oko, Thief of Crowns
-3 Island
-1 Sphinx's Revelation
 1 Tamiyo, Collector of Tales
 1 Growth Spiral
 1 Nexus of Fate
 1 Azorius Charm
 1 Hinterland Harbor
 2 Breeding Pool
-2 Teferi, Hero of Dominaria
 2 Azorius Charm
 2 Hinterland Harbor
 2 Growth Spiral
@@ -128,25 +123,23 @@
 3 Growth Spiral
 4 Supreme Verdict
 4 Growth Spiral
+1 Supreme Will
 4 Glacial Fortress
 1 Botanical Sanctum
-1 Torrential Gearhulk
 1 Gideon, Ally of Zendikar
 2 Gideon, Ally of Zendikar
+1 Torrential Gearhulk
+2 Drown in the Loch
 2 Dragonskull Summit
 4 Jace, Vryn's Prodigy
 4 Opt
 1 Urborg, Tomb of Yawgmoth
-1 Detention Sphere
 1 Mortify
 1 Narset, Parter of Veils
-1 Geier Reach Sanitarium
+1 Elspeth, Sun's Champion
 2 Narset, Parter of Veils
-3 Narset, Parter of Veils
 2 Castle Vantress
 2 Mountain
-1 Wandering Fumarole
-2 Wandering Fumarole
 1 Collective Brutality
 1 Anguished Unmaking
 2 Anguished Unmaking
@@ -156,6 +149,8 @@
 4 Concealed Courtyard
 3 Blood Crypt
 1 Castle Locthwain
+1 Wandering Fumarole
+2 Wandering Fumarole
 1 Ob Nixilis Reignited
 4 Murderous Rider
 1 Chandra, Torch of Defiance
@@ -173,28 +168,29 @@
 2 Glorybringer
 1 Hieroglyphic Illumination
 2 Detention Sphere
+2 Cast Down
 1 Elixir of Immortality
 1 Mystical Dispute
 3 Hero's Downfall
-1 Lumbering Falls
-1 Sinister Sabotage
-2 Sinister Sabotage
-2 Cast Out
-4 Censor
-4 Oko, Thief of Crowns
-1 Inspiring Vantage
 1 Gilded Goose
+1 Inspiring Vantage
 1 Voice of Resurgence
 1 Silumgar's Command
 1 Whirler Virtuoso
 1 Rogue Refiner
 2 Gilded Goose
-2 Voice of Resurgence
 2 Botanical Sanctum
+2 Voice of Resurgence
 2 Mana Confluence
 2 Rogue Refiner
 3 Gilded Goose
 4 Gilded Goose
+1 Lumbering Falls
+1 Sinister Sabotage
+2 Sinister Sabotage
+2 Cast Out
+4 Oko, Thief of Crowns
+4 Censor
 1 Ojutai's Command
 1 Crux of Fate
 1 Brazen Borrower
@@ -234,8 +230,8 @@
 3 Anger of the Gods
 1 Sacred Foundry
 1 Commit / Memory
-1 Elspeth, Sun's Champion
 1 Chandra, Flamecaller
+1 Geier Reach Sanitarium
 1 Magma Jet
 1 Fae of Wishes
 1 Interplanar Beacon
@@ -253,6 +249,7 @@
 3 Sacred Foundry
 3 Fae of Wishes
 3 Interplanar Beacon
+3 Narset, Parter of Veils
 4 Interplanar Beacon
 4 Narset, Parter of Veils
 4 Fae of Wishes
@@ -283,17 +280,17 @@
 4 Cavalier of Gales
 4 Bonecrusher Giant
 4 Cavalier of Flame
-1 Young Pyromancer
 1 Claim / Fame
 1 Treasure Cruise
 1 Wild Slash
 1 Dreadhorde Arcanist
+1 Young Pyromancer
 1 The Royal Scions
 2 Collective Brutality
-2 Young Pyromancer
 2 The Royal Scions
 2 Wild Slash
 2 Dreadhorde Arcanist
+2 Young Pyromancer
 2 Claim / Fame
 2 Treasure Cruise
 3 Dreadhorde Arcanist
@@ -318,25 +315,29 @@
 1 Unmoored Ego
 1 Knight of Autumn
 1 Navigator's Compass
-2 Oath of Kaya
 2 Navigator's Compass
 3 Navigator's Compass
 4 Navigator's Compass
-1 Glimmer of Genius
-1 Fetid Pools
-2 Glimmer of Genius
-3 Glimmer of Genius
-3 Sunken Hollow
-4 Sunken Hollow
+1 Jace, Architect of Thought
+1 Declaration in Stone
+1 Approach of the Second Sun
+1 Dovin's Veto
+2 Jace, Architect of Thought
+4 Thought Erasure
+1 Sunken Hollow
 1 Tasigur, the Golden Fang
+1 Choked Estuary
 1 Syncopate
 1 The Scarab God
 2 Torrential Gearhulk
 2 Choked Estuary
 2 Tasigur, the Golden Fang
 2 The Scarab God
+2 Sunken Hollow
 2 Search for Azcanta
 2 Syncopate
+2 Vraska's Contempt
+3 Languish
 3 Drown in the Loch
 3 Vraska's Contempt
 3 Syncopate
@@ -360,7 +361,6 @@
 1 Cyclonic Rift
 1 Wilderness Reclamation
 1 Blast Zone
-1 Supreme Will
 2 Supreme Will
 2 Wilderness Reclamation
 2 Sunpetal Grove
@@ -404,8 +404,8 @@
 1 Always Watching
 1 Legion's Landing
 1 Quarantine Field
-1 Thraben Inspector
 1 Walking Ballista
+1 Thraben Inspector
 1 Dawn of Hope
 1 Knight of the White Orchid
 1 Mastery of the Unseen
@@ -461,26 +461,26 @@
 1 Castle Embereth
 1 Stormbreath Dragon
 1 Magma Spray
+1 Draconic Roar
 1 Thunderbreak Regent
 1 Abrade
 1 Sarkhan, Fireblood
 1 Crater's Claws
-1 Draconic Roar
 2 Castle Embereth
 2 Stormbreath Dragon
 2 Magma Spray
+2 Draconic Roar
 2 Crater's Claws
 2 Thunderbreak Regent
-2 Draconic Roar
 2 Abrade
 2 Sarkhan, Fireblood
 3 Stormbreath Dragon
 3 Castle Embereth
 3 Glorybringer
 3 Magma Spray
+3 Draconic Roar
 3 Chandra, Torch of Defiance
 3 Thunderbreak Regent
-3 Draconic Roar
 3 Mountain
 3 Sarkhan, Fireblood
 3 Haven of the Spirit Dragon
