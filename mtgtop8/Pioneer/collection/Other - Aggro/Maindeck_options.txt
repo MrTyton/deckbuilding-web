@@ -25,9 +25,9 @@
 3 Temple Garden
 3 Sunpetal Grove
 4 Temple Garden
+1 Glacial Fortress
 1 Hallowed Fountain
 1 Selfless Spirit
-1 Glacial Fortress
 1 Spell Queller
 2 Hallowed Fountain
 2 Glacial Fortress
@@ -111,8 +111,8 @@
 2 Aether Hub
 1 Rogue Refiner
 2 Rogue Refiner
-3 Rogue Refiner
 3 Aether Hub
+3 Rogue Refiner
 1 Glint-Sleeve Siphoner
 2 Glint-Sleeve Siphoner
 3 Glint-Sleeve Siphoner
@@ -186,9 +186,9 @@
 1 Wild Slash
 1 Rix Maadi Reveler
 1 Despise
+1 Rakdos's Return
 1 Goblin Rabblemaster
 1 Cut / Ribbons
-1 Rakdos's Return
 2 Rix Maadi Reveler
 2 Despise
 2 Cut / Ribbons
@@ -196,10 +196,6 @@
 2 Goblin Rabblemaster
 3 Goblin Rabblemaster
 3 Cut / Ribbons
-1 Growth-Chamber Guardian
-2 Growth-Chamber Guardian
-3 Growth-Chamber Guardian
-4 Growth-Chamber Guardian
 1 Trail of Crumbs
 1 Cauldron Familiar
 1 Witch's Oven
@@ -220,6 +216,10 @@
 4 Trail of Crumbs
 4 Cauldron Familiar
 4 Witch's Oven
+1 Growth-Chamber Guardian
+2 Growth-Chamber Guardian
+3 Growth-Chamber Guardian
+4 Growth-Chamber Guardian
 4 Elvish Mystic
 1 Cartouche of Solidarity
 1 Fortified Village
@@ -230,17 +230,17 @@
 1 Gryff's Boon
 2 Cartouche of Solidarity
 2 Vine Mare
+2 Fortified Village
 2 Season of Growth
 2 Sixth Sense
 2 Bassara Tower Archer
-2 Fortified Village
 2 Gryff's Boon
 3 Cartouche of Solidarity
 3 Gryff's Boon
+3 Fortified Village
 3 Season of Growth
 3 Sixth Sense
 3 Bassara Tower Archer
-3 Fortified Village
 4 Fortified Village
 4 Season of Growth
 4 Bassara Tower Archer
@@ -288,25 +288,26 @@
 3 Plains
 4 Plains
 5 Plains
+1 Shepherd of the Flock
 1 Reflector Mage
 1 Archangel Avacyn
 1 Charming Prince
-1 Shepherd of the Flock
 1 Teferi, Time Raveler
 1 Thraben Inspector
 1 Westvale Abbey
 1 Port Town
 1 Castle Ardenvale
 1 Irrigated Farmland
+2 Port Town
 2 Island
 2 Irrigated Farmland
 2 Charming Prince
+2 Archangel Avacyn
 2 Teferi, Time Raveler
 2 Reflector Mage
-2 Archangel Avacyn
-2 Port Town
 2 Gideon, Ally of Zendikar
 2 Thraben Inspector
+3 Teferi, Time Raveler
 3 Port Town
 3 Reflector Mage
 3 Irrigated Farmland
@@ -315,14 +316,13 @@
 3 Gideon, Ally of Zendikar
 3 Charming Prince
 3 Archangel Avacyn
-3 Teferi, Time Raveler
 3 Thraben Inspector
 3 Island
+4 Teferi, Time Raveler
 4 Reflector Mage
 4 Gideon, Ally of Zendikar
 4 Brazen Borrower
 4 Glacial Fortress
-4 Teferi, Time Raveler
 4 Island
 4 Thraben Inspector
 1 Ashiok, Dream Render
@@ -332,36 +332,36 @@
 4 Llanowar Wastes
 1 Harnessed Lightning
 1 Garruk, Cursed Huntsman
+1 Karn, Scion of Urza
 1 Whirler Virtuoso
 1 Attune with Aether
-1 Abrade
-1 Karn, Scion of Urza
 1 Servant of the Conduit
-1 Steam Vents
+1 Abrade
 1 Longtusk Cub
+1 Steam Vents
 1 Vizier of Many Faces
 1 Bristling Hydra
 2 The Scarab God
 2 Harnessed Lightning
+2 Karn, Scion of Urza
 2 Attune with Aether
 2 Steam Vents
-2 Karn, Scion of Urza
-2 Abrade
-2 Bristling Hydra
-2 Whirler Virtuoso
 2 Servant of the Conduit
+2 Whirler Virtuoso
+2 Abrade
 2 Longtusk Cub
+2 Bristling Hydra
 3 Abrade
 3 Harnessed Lightning
-3 The Scarab God
-3 Longtusk Cub
 3 Whirler Virtuoso
+3 Longtusk Cub
+3 The Scarab God
 3 Bristling Hydra
 3 Attune with Aether
 3 Steam Vents
-4 Rogue Refiner
 4 Harnessed Lightning
 4 Aether Hub
+4 Rogue Refiner
 4 Whirler Virtuoso
 4 Attune with Aether
 1 Battlefield Forge
@@ -389,10 +389,10 @@
 2 Clifftop Retreat
 2 Dreadhorde Arcanist
 2 Expedite
-2 Reckless Rage
 2 Monastery Swiftspear
 2 Tenth District Legionnaire
 2 Gods Willing
+2 Reckless Rage
 2 Feather, the Redeemed
 2 Favored Hoplite
 2 Defiant Strike
@@ -504,38 +504,38 @@
 11 Mountain
 1 Venerable Knight
 1 Worthy Knight
+1 Fervent Champion
+1 Inspiring Veteran
 1 History of Benalia
 1 Embercleave
 1 Mana Confluence
-1 Inspiring Veteran
 1 Thalia's Lieutenant
 1 Dauntless Bodyguard
 1 Benalish Marshal
-1 Fervent Champion
 2 Venerable Knight
 2 Worthy Knight
+2 Inspiring Veteran
+2 Fervent Champion
 2 History of Benalia
 2 Thalia's Lieutenant
-2 Fervent Champion
 2 Embercleave
-2 Inspiring Veteran
 2 Benalish Marshal
 2 Dauntless Bodyguard
 3 Venerable Knight
-3 Worthy Knight
 3 History of Benalia
+3 Worthy Knight
 3 Inspiring Veteran
+3 Fervent Champion
 3 Benalish Marshal
 3 Dauntless Bodyguard
 3 Thalia's Lieutenant
-3 Fervent Champion
 4 Venerable Knight
-4 Worthy Knight
 4 History of Benalia
+4 Worthy Knight
+4 Fervent Champion
 4 Inspiring Veteran
 4 Benalish Marshal
 4 Dauntless Bodyguard
 4 Thalia's Lieutenant
-4 Fervent Champion
 6 Plains
 7 Plains

@@ -1,14 +1,14 @@
-2 Ugin, the Spirit Dragon
 2 Breeding Pool
 2 Nahiri, the Harbinger
+2 Ugin, the Spirit Dragon
 3 Breeding Pool
 3 Whirler Virtuoso
 3 Nahiri, the Harbinger
 4 Breeding Pool
 4 Whirler Virtuoso
 1 Shrine of the Forsaken Gods
-1 World Breaker
 1 Golos, Tireless Pilgrim
+1 World Breaker
 1 Kozilek's Return
 1 Glassblower's Puzzleknot
 2 Golos, Tireless Pilgrim
@@ -27,27 +27,26 @@
 2 Field of Ruin
 1 Heart of Kiran
 1 Sea Gate Wreckage
-1 Warping Wail
 1 Wastes
 1 Mutavault
-1 Stonecoil Serpent
-1 Karn, Scion of Urza
-1 Spatial Contortion
 1 Mobilized District
-1 Darksteel Citadel
+1 Stonecoil Serpent
+1 Spatial Contortion
+1 Karn, Scion of Urza
 1 Scrap Trawler
 1 Ratchet Bomb
+1 Warping Wail
 1 Blast Zone
+1 Darksteel Citadel
 1 Zhalfirin Void
 1 Fountain of Renewal
 1 Foundry of the Consuls
 1 Karn, the Great Creator
-2 Shrine of the Forsaken Gods
 2 Wastes
 2 Blast Zone
-2 Karn, Scion of Urza
 2 Mobilized District
 2 Stonecoil Serpent
+2 Karn, Scion of Urza
 2 Mutavault
 2 Spatial Contortion
 2 Ratchet Bomb
@@ -56,7 +55,7 @@
 2 Warping Wail
 2 Zhalfirin Void
 2 Karn, the Great Creator
-3 Shrine of the Forsaken Gods
+2 Shrine of the Forsaken Gods
 3 Blast Zone
 3 Karn, Scion of Urza
 3 Zhalfirin Void
@@ -67,6 +66,7 @@
 3 Stonecoil Serpent
 3 Spatial Contortion
 3 Ratchet Bomb
+3 Shrine of the Forsaken Gods
 3 Fountain of Renewal
 3 Scrap Trawler
 3 Karn, the Great Creator
@@ -86,17 +86,17 @@
 4 Hallowed Fountain
 4 Teferi, Time Raveler
 1 Once Upon a Time
-1 Mox Amber
 1 Emry, Lurker of the Loch
+1 Mox Amber
 1 Terrarion
 1 Mana Confluence
 1 Urborg, Tomb of Yawgmoth
-1 Kethis, the Hidden Hand
 1 Jace, Wielder of Mysteries
 1 Oko, Thief of Crowns
 1 Lazav, the Multifarious
 1 Diligent Excavator
 1 Oath of Nissa
+1 Kethis, the Hidden Hand
 1 Blooming Marsh
 2 Urborg, Tomb of Yawgmoth
 2 Temple Garden
@@ -104,31 +104,31 @@
 2 Emry, Lurker of the Loch
 2 Terrarion
 2 Once Upon a Time
-2 Kethis, the Hidden Hand
 2 Oko, Thief of Crowns
 2 Blooming Marsh
+2 Kethis, the Hidden Hand
 2 Mana Confluence
 2 Diligent Excavator
 2 Oath of Nissa
 2 Lazav, the Multifarious
-3 Mox Amber
 3 Emry, Lurker of the Loch
-3 Kethis, the Hidden Hand
+3 Mox Amber
 3 Once Upon a Time
-3 Hope of Ghirapur
 3 Mana Confluence
 3 Diligent Excavator
 3 Oath of Nissa
 3 Lazav, the Multifarious
+3 Hope of Ghirapur
 3 Blooming Marsh
+3 Kethis, the Hidden Hand
 4 Mox Amber
-4 Kethis, the Hidden Hand
 4 Once Upon a Time
 4 Emry, Lurker of the Loch
 4 Diligent Excavator
 4 Oath of Nissa
 4 Hope of Ghirapur
 4 Blooming Marsh
+4 Kethis, the Hidden Hand
 4 Mana Confluence
 1 Vessel of Nascency
 1 Hour of Devastation
@@ -139,8 +139,8 @@
 3 Hour of Devastation
 4 Hour of Devastation
 1 Geier Reach Sanitarium
-1 Day's Undoing
 1 Narset, Parter of Veils
+1 Day's Undoing
 2 Day's Undoing
 2 Geier Reach Sanitarium
 2 Narset, Parter of Veils
@@ -156,8 +156,8 @@
 1 Azorius Charm
 1 Port Town
 1 Settle the Wreckage
-1 Supreme Verdict
 1 Blessed Alliance
+1 Supreme Verdict
 1 Teferi, Hero of Dominaria
 1 Search for Azcanta
 1 Opt
@@ -180,18 +180,18 @@
 3 Supreme Verdict
 3 Azorius Charm
 3 Opt
+4 Supreme Verdict
 4 Port Town
 4 Myth Realized
 4 Glacial Fortress
 4 Plains
-4 Supreme Verdict
 4 Opt
 4 Azorius Charm
 5 Plains
 1 Kiora, Behemoth Beckoner
-1 Enter the Infinite
-1 Elvish Mystic
 1 Possibility Storm
+1 Elvish Mystic
+1 Enter the Infinite
 1 Borborygmos Enraged
 1 Llanowar Elves
 1 Rosethorn Acolyte

@@ -40,13 +40,13 @@
 1 Redcap Melee
 1 Exquisite Firecraft
 2 Exquisite Firecraft
+2 Deflecting Palm
 1 Scavenger Grounds
 2 Scavenger Grounds
 1 Kari Zev's Expertise
 1 Declaration in Stone
-2 Declaration in Stone
 2 Chandra, Acolyte of Flame
-2 Deflecting Palm
+2 Declaration in Stone
 1 Frenzied Goblin
 1 Shock
 2 Shock
@@ -66,12 +66,6 @@
 3 Experimental Frenzy
 3 Wear / Tear
 4 Experimental Frenzy
-1 Goblin Cratermaker
-1 Goblin Ringleader
-2 Goblin Ringleader
-2 Goblin Cratermaker
-3 Goblin Ringleader
-4 Goblin Ringleader
 1 Scab-Clan Berserker
 1 Damping Sphere
 2 Scab-Clan Berserker
@@ -80,6 +74,12 @@
 3 Damping Sphere
 4 Tormod's Crypt
 4 Scab-Clan Berserker
+1 Goblin Cratermaker
+1 Goblin Ringleader
+2 Goblin Ringleader
+2 Goblin Cratermaker
+3 Goblin Ringleader
+4 Goblin Ringleader
 1 Mutavault
 1 Bonecrusher Giant
 2 Bonecrusher Giant
@@ -87,8 +87,8 @@
 3 Bonecrusher Giant
 3 Mutavault
 3 Chandra, Torch of Defiance
-4 Glorybringer
 4 Mutavault
+4 Glorybringer
 4 Chandra, Torch of Defiance
 1 Rekindling Phoenix
 1 Mountain

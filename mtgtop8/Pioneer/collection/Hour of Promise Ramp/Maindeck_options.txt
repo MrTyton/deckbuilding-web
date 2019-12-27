@@ -1,45 +1,62 @@
-2 Ugin, the Spirit Dragon
-4 Forest
-5 Forest
-6 Forest
-1 Nissa's Pilgrimage
-1 Ulamog, the Ceaseless Hunger
-1 Shrine of the Forsaken Gods
-1 Sanctum of Ugin
-1 World Breaker
-2 Hashep Oasis
-2 Nissa's Pilgrimage
-2 World Breaker
-2 Sanctum of Ugin
-2 Shrine of the Forsaken Gods
-2 Castle Garenbrig
-3 Castle Garenbrig
-3 Ugin, the Spirit Dragon
-3 Shrine of the Forsaken Gods
-3 Nissa's Pilgrimage
-4 Ugin, the Spirit Dragon
-4 Nissa's Pilgrimage
+1 Hallowed Fountain
+1 Blossoming Sands
+1 Growth Spiral
+1 Temple Garden
+1 Temple of Plenty
+1 Breeding Pool
+1 Plains
+1 Temple of Mystery
+2 Teferi, Time Raveler
+2 Growth Spiral
+3 Growth Spiral
+4 Growth Spiral
+1 Temple of Enlightenment
+1 Sphinx's Revelation
+1 Sunpetal Grove
+1 Thornwood Falls
+1 Glacial Fortress
+1 Supreme Verdict
+1 Botanical Sanctum
+2 Sphinx's Revelation
+2 Supreme Verdict
+3 Teferi, Time Raveler
+3 Supreme Verdict
+4 Supreme Verdict
+4 Teferi, Time Raveler
 4 Once Upon a Time
-1 Llanowar Wastes
-1 Arch of Orazca
-3 World Breaker
-4 Castle Garenbrig
-4 World Breaker
 1 Castle Vantress
 1 Scapeshift
 1 Hinterland Harbor
+1 Llanowar Wastes
 1 Hydroid Krasis
+1 Oblivion Sower
+7 Forest
+2 Radiant Fountain
+1 Spatial Contortion
+2 Ulamog, the Ceaseless Hunger
+2 Spatial Contortion
+3 Hashep Oasis
+3 Spatial Contortion
+1 Detention Sphere
+2 Oblivion Sower
+3 Oblivion Sower
+3 Radiant Fountain
+4 Hashep Oasis
+4 Shrine of the Forsaken Gods
+4 Radiant Fountain
+4 Spatial Contortion
+1 Crumbling Vestige
 1 Tireless Tracker
 2 Tireless Tracker
 3 Tireless Tracker
 1 Temple of Malady
-1 Hissing Quagmire
 1 Urborg, Tomb of Yawgmoth
+1 Hissing Quagmire
 1 Castle Locthwain
-1 Abrupt Decay
 1 Woodland Cemetery
-1 Blooming Marsh
 1 Overgrown Tomb
+1 Blooming Marsh
+1 Abrupt Decay
 1 Ifnir Deadlands
 1 Fatal Push
 1 Swamp
@@ -49,41 +66,22 @@
 2 Swamp
 3 Abrupt Decay
 4 Tireless Tracker
-1 Detention Sphere
-1 Oblivion Sower
-2 Oblivion Sower
-3 Oblivion Sower
-1 Crumbling Vestige
-7 Forest
-2 Radiant Fountain
-1 Spatial Contortion
-2 Ulamog, the Ceaseless Hunger
-2 Spatial Contortion
-3 Hashep Oasis
-3 Spatial Contortion
+1 Walking Ballista
+1 Thought-Knot Seer
+1 Scavenger Grounds
+1 Desert of the Indomitable
+3 Fatal Push
+4 Abrupt Decay
 1 Murderous Rider
 1 Legion's End
 2 Murderous Rider
-3 Fatal Push
-1 Scavenger Grounds
-1 Desert of the Indomitable
+1 Tranquil Cove
+1 Hedron Archive
 1 Thoughtseize
 2 Thoughtseize
 3 Thoughtseize
 4 Thoughtseize
-3 Radiant Fountain
-4 Hashep Oasis
-4 Shrine of the Forsaken Gods
-4 Radiant Fountain
-4 Spatial Contortion
 1 Jungle Hollow
-4 Abrupt Decay
-1 Tranquil Cove
-1 Hedron Archive
-1 Walking Ballista
-1 Thought-Knot Seer
-1 Nissa, Vastwood Seer
-2 Fabled Passage
 1 Kalitas, Traitor of Ghet
 2 Kalitas, Traitor of Ghet
 2 Llanowar Wastes
@@ -91,9 +89,9 @@
 2 Plains
 2 Settle the Wreckage
 1 Courser of Kruphix
-1 Sea Gate Wreckage
 1 Sheltered Thicket
 1 Llanowar Elves
+1 Sea Gate Wreckage
 1 Narset, Parter of Veils
 2 Narset, Parter of Veils
 1 Ultimate Price
@@ -105,6 +103,8 @@
 1 Fortified Village
 1 Brazen Borrower
 2 Brazen Borrower
+1 Nissa, Vastwood Seer
+2 Fabled Passage
 1 Ipnu Rivulet
 1 Agent of Treachery
 1 Fumigate
@@ -122,9 +122,10 @@
 2 Legion's End
 4 Fatal Push
 1 Oko, Thief of Crowns
+1 Circuitous Route
 1 Dimir Guildgate
-1 Golos, Tireless Pilgrim
 1 Chandra, Flamecaller
+1 Golos, Tireless Pilgrim
 1 Gruul Guildgate
 1 Boros Guildgate
 1 Nissa, Vital Force
@@ -136,24 +137,23 @@
 1 Golgari Guildgate
 1 Izzet Guildgate
 1 Simic Guildgate
-1 Circuitous Route
 1 Azorius Guildgate
 1 Rakdos Guildgate
 1 Gates Ablaze
 2 Oko, Thief of Crowns
+2 Circuitous Route
 2 Courser of Kruphix
 2 Golos, Tireless Pilgrim
 2 Gruul Guildgate
 2 Nissa, Vital Force
 2 Chandra, Awakened Inferno
 2 Maze's End
-2 Circuitous Route
 2 Simic Guildgate
 2 Gates Ablaze
+3 Circuitous Route
 3 Chandra, Awakened Inferno
 3 Oko, Thief of Crowns
 3 Simic Guildgate
-3 Circuitous Route
 3 Gruul Guildgate
 4 Circuitous Route
 8 Forest
