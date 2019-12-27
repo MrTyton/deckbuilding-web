@@ -8,10 +8,10 @@
 2 Baffling End
 1 Vivien, Arkbow Ranger
 2 Vivien, Arkbow Ranger
-1 Negate
+3 Mystical Dispute
 1 Abrupt Decay
 2 Abrupt Decay
-3 Mystical Dispute
+1 Negate
 3 Dovin's Veto
 2 Disdainful Stroke
 1 Noxious Grasp
@@ -20,32 +20,30 @@
 3 Scavenging Ooze
 1 Thrashing Brontodon
 1 Questing Beast
+1 Chandra, Awakened Inferno
 2 Negate
-1 Unmoored Ego
-2 Unmoored Ego
 3 Negate
 4 Negate
-1 Chandra, Awakened Inferno
 1 Reclamation Sage
 1 Aethersphere Harvester
 2 Aethersphere Harvester
-2 Duress
 1 Kolaghan's Command
 2 Noxious Grasp
 3 Noxious Grasp
 1 Gideon, Ally of Zendikar
 1 Rest in Peace
 2 Rest in Peace
-1 Witch's Vengeance
 1 Oko, Thief of Crowns
 1 Ultimate Price
 2 Oko, Thief of Crowns
 2 Ultimate Price
-1 Wicked Wolf
-2 Questing Beast
-2 Wicked Wolf
 1 Detention Sphere
 2 Gideon, Ally of Zendikar
+1 Wicked Wolf
+1 Unmoored Ego
+2 Questing Beast
+2 Wicked Wolf
+2 Unmoored Ego
 1 Heroic Intervention
 2 Heroic Intervention
 1 Blightbeetle
@@ -65,21 +63,22 @@
 1 Spell Pierce
 2 Skysovereign, Consul Flagship
 2 Spell Pierce
-1 Davriel, Rogue Shadowmage
-1 Hazoret the Fervent
-1 Chandra, Acolyte of Flame
-1 Glorybringer
-1 Embercleave
-1 Lava Coil
-2 Kolaghan's Command
-2 Glorybringer
-2 Chandra, Acolyte of Flame
-2 Lava Coil
 1 Murderous Cut
 1 Liliana's Defeat
 1 Stain the Mind
 2 Murderous Cut
 2 Natural State
+2 Duress
+1 Davriel, Rogue Shadowmage
+1 Hazoret the Fervent
+1 Chandra, Acolyte of Flame
+1 Embercleave
+1 Glorybringer
+1 Lava Coil
+2 Kolaghan's Command
+2 Glorybringer
+2 Chandra, Acolyte of Flame
+2 Lava Coil
 1 Boros Charm
 1 Declaration in Stone
 2 Declaration in Stone
@@ -113,14 +112,6 @@
 2 Arashin Cleric
 3 Supreme Verdict
 3 Arashin Cleric
-1 Hero's Downfall
-1 Legion's End
-1 Unravel the Aether
-2 Hero's Downfall
-2 Witch's Vengeance
-2 Unravel the Aether
-2 Legion's End
-3 Unmoored Ego
 1 Gruul Spellbreaker
 1 Skullcrack
 1 Authority of the Consuls
@@ -148,6 +139,21 @@
 2 Magma Spray
 2 Chandra, Awakened Inferno
 4 Thoughtseize
+1 Unsummon
+1 Leyline of Sanctity
+1 Sheltering Light
+1 Sentinel's Mark
+1 Failure / Comply
+2 Leyline of Sanctity
+2 Sentinel's Mark
+2 Sheltering Light
+2 Unsummon
+2 Failure / Comply
+3 Leyline of Sanctity
+3 Sheltering Light
+3 Unsummon
+4 Sheltering Light
+4 Leyline of Sanctity
 1 Settle the Wreckage
 1 Teferi, Time Raveler
 2 Settle the Wreckage
@@ -156,6 +162,7 @@
 4 Knight of Autumn
 1 Pithing Needle
 1 Liliana, Dreadhorde General
+1 Witch's Vengeance
 1 Kaya, Orzhov Usurper
 1 Inspiring Cleric
 3 Duress

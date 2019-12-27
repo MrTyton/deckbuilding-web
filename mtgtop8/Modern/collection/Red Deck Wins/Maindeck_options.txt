@@ -1,5 +1,3 @@
-1 Light Up the Stage
-2 Light Up the Stage
 5 Mountain
 6 Mountain
 7 Mountain
@@ -10,42 +8,43 @@
 12 Mountain
 13 Mountain
 14 Mountain
-1 Lava Dart
-1 Soul-Scar Mage
-2 Lava Dart
-2 Soul-Scar Mage
-3 Light Up the Stage
-3 Soul-Scar Mage
-3 Lava Dart
-4 Light Up the Stage
-4 Soul-Scar Mage
+1 Light Up the Stage
+2 Light Up the Stage
 1 Burst Lightning
 1 Crash Through
+1 Lava Dart
+1 Soul-Scar Mage
 1 Manamorphose
 1 Bedlam Reveler
 2 Burst Lightning
+2 Lava Dart
 2 Manamorphose
+2 Soul-Scar Mage
 2 Crash Through
 2 Bedlam Reveler
+3 Light Up the Stage
 3 Manamorphose
 3 Bedlam Reveler
 3 Burst Lightning
+3 Soul-Scar Mage
 3 Crash Through
+3 Lava Dart
+4 Light Up the Stage
 4 Manamorphose
 4 Burst Lightning
 4 Crash Through
-4 Inspiring Vantage
+4 Soul-Scar Mage
 4 Lightning Helix
+4 Inspiring Vantage
 1 Runaway Steam-Kin
 2 Runaway Steam-Kin
 3 Runaway Steam-Kin
+4 Searing Blaze
+15 Mountain
+1 Risk Factor
 3 Fiery Islet
 4 Skewer the Critics
-4 Searing Blaze
-1 Risk Factor
-15 Mountain
 3 Wooded Foothills
-4 Lava Dart
 3 Skullcrack
 3 Bloodstained Mire
 1 Snow-Covered Mountain
@@ -53,10 +52,7 @@
 3 Snow-Covered Mountain
 3 Arid Mesa
 4 Arid Mesa
-4 Skullcrack
-1 Scalding Tarn
-1 Stomping Ground
-2 Stomping Ground
+4 Lava Dart
 1 Bonecrusher Giant
 2 Bonecrusher Giant
 4 Snow-Covered Mountain
@@ -71,28 +67,17 @@
 13 Snow-Covered Mountain
 14 Snow-Covered Mountain
 15 Snow-Covered Mountain
-1 Seal of Fire
-2 Seal of Fire
-1 Grim Lavamancer
-1 Deflecting Palm
-1 Kiln Fiend
-2 Kiln Fiend
-4 Bedlam Reveler
-3 Seal of Fire
-4 Seal of Fire
-1 Smuggler's Copter
 1 Simian Spirit Guide
 1 Castle Embereth
 1 Ramunap Ruins
 1 Gemstone Caverns
 1 Magus of the Moon
 1 Dismember
-1 Phyrexian Revoker
-1 Goblin Rabblemaster
 1 Embercleave
+1 Goblin Rabblemaster
 1 Legion Warboss
+1 Seal of Fire
 2 Simian Spirit Guide
-2 Smuggler's Copter
 2 Castle Embereth
 2 Ramunap Ruins
 2 Gemstone Caverns
@@ -101,18 +86,38 @@
 2 Embercleave
 2 Legion Warboss
 3 Castle Embereth
-3 Smuggler's Copter
 3 Legion Warboss
 3 Bonecrusher Giant
 3 Simian Spirit Guide
 3 Gemstone Caverns
 3 Magus of the Moon
 3 Goblin Rabblemaster
-4 Smuggler's Copter
 4 Simian Spirit Guide
-4 Bonecrusher Giant
 4 Magus of the Moon
 4 Goblin Rabblemaster
+4 Skullcrack
+1 Scalding Tarn
+1 Stomping Ground
+2 Stomping Ground
+1 Grim Lavamancer
+1 Deflecting Palm
+1 Kiln Fiend
+2 Kiln Fiend
+4 Bedlam Reveler
+1 Seasoned Pyromancer
+1 Desperate Ritual
+2 Seasoned Pyromancer
+2 Desperate Ritual
+3 Seasoned Pyromancer
+3 Desperate Ritual
+4 Seasoned Pyromancer
+1 Smuggler's Copter
+1 Phyrexian Revoker
+2 Smuggler's Copter
+2 Seal of Fire
+3 Smuggler's Copter
+4 Smuggler's Copter
+4 Bonecrusher Giant
 1 Firebolt
 1 Incinerate
 1 Shard Volley
