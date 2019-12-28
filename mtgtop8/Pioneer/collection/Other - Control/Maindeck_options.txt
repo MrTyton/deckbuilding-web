@@ -56,10 +56,10 @@
 1 Temple Garden
 1 Grasp of Darkness
 1 Mountain
+1 Sign in Blood
 1 Nissa's Pilgrimage
 1 Temple of Malady
 1 Read the Bones
-1 Sign in Blood
 2 Temple of Malady
 2 Assassin's Trophy
 3 Temple of Malady
@@ -107,9 +107,9 @@
 3 Oko, Thief of Crowns
 1 Gilded Goose
 1 Mana Confluence
-1 Bring to Light
 1 Stomping Ground
 1 Niv-Mizzet Reborn
+1 Bring to Light
 1 Tolsimir, Friend to Wolves
 1 Aether Hub
 1 Rogue Refiner
@@ -168,28 +168,28 @@
 1 Hieroglyphic Illumination
 2 Detention Sphere
 2 Cast Down
-1 Elixir of Immortality
 1 Mystical Dispute
+1 Elixir of Immortality
 3 Hero's Downfall
 1 Lumbering Falls
 1 Sinister Sabotage
 2 Sinister Sabotage
 2 Cast Out
-4 Oko, Thief of Crowns
 4 Censor
+4 Oko, Thief of Crowns
 1 Inspiring Vantage
 1 Voice of Resurgence
 1 Attune with Aether
 1 Silumgar's Command
-1 Whirler Virtuoso
 1 Deafening Clarion
+1 Whirler Virtuoso
 2 Voice of Resurgence
 2 Attune with Aether
 2 Mana Confluence
 3 Attune with Aether
 4 Aether Hub
-4 Gilded Goose
 4 Attune with Aether
+4 Gilded Goose
 3 Plains
 1 Mortify
 1 Westvale Abbey
@@ -203,10 +203,10 @@
 1 Archangel Avacyn
 1 Lyra Dawnbringer
 2 Mortify
-2 Transgress the Mind
 2 Westvale Abbey
 2 Grasp of Darkness
 2 Duress
+2 Transgress the Mind
 2 Sorin, Grim Nemesis
 2 Ifnir Deadlands
 2 Archangel Avacyn
@@ -238,8 +238,8 @@
 1 Cavalier of Flame
 1 Cavalier of Gales
 1 Sweltering Suns
-2 Sphinx of Foresight
 2 Sweltering Suns
+2 Sphinx of Foresight
 2 Cavalier of Gales
 2 Cavalier of Flame
 2 Temple of Epiphany
@@ -257,17 +257,17 @@
 3 Anger of the Gods
 1 Sacred Foundry
 1 Commit / Memory
+1 Fae of Wishes
 1 Geier Reach Sanitarium
 1 Magma Jet
-1 Fae of Wishes
 1 Interplanar Beacon
 1 Temple of Triumph
 1 Kenrith, the Returned King
 1 Chandra, Flamecaller
 1 Sarkhan the Masterless
 2 Sacred Foundry
-2 Magma Jet
 2 Fae of Wishes
+2 Magma Jet
 2 Temple of Triumph
 2 Sarkhan the Masterless
 2 Kenrith, the Returned King
@@ -285,8 +285,8 @@
 1 Wild Slash
 1 Dreadhorde Arcanist
 1 Young Pyromancer
-2 Collective Brutality
 2 The Royal Scions
+2 Collective Brutality
 2 Wild Slash
 2 Dreadhorde Arcanist
 2 Young Pyromancer
@@ -308,30 +308,30 @@
 3 Kolaghan's Command
 4 Steam Vents
 4 Nicol Bolas, the Ravager
+1 Approach of the Second Sun
 1 Jace, Architect of Thought
 1 Declaration in Stone
-1 Approach of the Second Sun
 1 Dovin's Veto
 2 Jace, Architect of Thought
 2 Oath of Kaya
 4 Thought Erasure
-1 Sunken Hollow
 1 Choked Estuary
 1 Tasigur, the Golden Fang
 1 Syncopate
+1 Sunken Hollow
 1 The Scarab God
 2 Torrential Gearhulk
 2 Choked Estuary
-2 The Scarab God
 2 Tasigur, the Golden Fang
+2 The Scarab God
 2 Sunken Hollow
 2 Search for Azcanta
 2 Syncopate
 2 Vraska's Contempt
-3 Languish
 3 Drown in the Loch
 3 Vraska's Contempt
 3 Syncopate
+3 Languish
 4 Syncopate
 4 Languish
 1 Sylvan Advocate
@@ -349,12 +349,12 @@
 4 Overgrown Tomb
 1 Sylvan Caryatid
 1 Traverse the Ulvenwald
+1 Arlinn Kord
+1 Opulent Palace
+1 Nomad Outpost
 1 Keranos, God of Storms
 1 Vraska, Golgari Queen
 1 Despark
-1 Nomad Outpost
-1 Opulent Palace
-1 Arlinn Kord
 2 Traverse the Ulvenwald
 2 Sylvan Caryatid
 2 Opulent Palace
@@ -363,8 +363,8 @@
 3 Blooming Marsh
 4 Rogue Refiner
 4 Blooming Marsh
-1 Settle the Wreckage
 1 Sunpetal Grove
+1 Settle the Wreckage
 1 Blast Zone
 1 Cyclonic Rift
 1 Wilderness Reclamation
@@ -394,8 +394,8 @@
 3 Isolated Chapel
 3 Heart of Kiran
 3 Gideon of the Trials
-3 Gideon, Ally of Zendikar
 3 Kaya's Wrath
+3 Gideon, Ally of Zendikar
 4 Heart of Kiran
 4 Field of Ruin
 4 Kaya's Wrath
@@ -412,8 +412,8 @@
 1 Always Watching
 1 Legion's Landing
 1 Quarantine Field
-1 Thraben Inspector
 1 Walking Ballista
+1 Thraben Inspector
 1 Knight of the White Orchid
 1 Dawn of Hope
 1 Mastery of the Unseen
@@ -433,8 +433,8 @@
 2 Gideon's Intervention
 2 Arcanist's Owl
 2 Walking Ballista
-3 Thraben Inspector
 3 Castle Ardenvale
+3 Thraben Inspector
 3 Gideon's Intervention
 3 Knight of the White Orchid
 3 Nykthos, Shrine to Nyx

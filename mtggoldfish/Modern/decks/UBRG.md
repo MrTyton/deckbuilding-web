@@ -37,8 +37,8 @@
 |*n*<sup>th</sup> copy|                                   Maindeck Card                                    |*n*<sup>th</sup> copy|                                        Sideboard Card                                         |
 |--------------------:|------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------------|
 |                    1|[Mana Leak](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45242) |                    1|[Nihil Spellbomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442215)     |
-|                    1|[Rise/Fall](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=259266)|                    1|[Ancient Grudge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=235600)      |
+|                    1|[Rise/Fall](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=259266)|                    1|[Thragtusk](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430614)           |
+|                     |                                                                                    |                    1|[Ancient Grudge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=235600)      |
 |                     |                                                                                    |                    1|[Kolaghan's Command](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394613)  |
-|                     |                                                                                    |                    1|[Thragtusk](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430614)           |
 |                     |                                                                                    |                    2|[Collective Brutality](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414380)|
 

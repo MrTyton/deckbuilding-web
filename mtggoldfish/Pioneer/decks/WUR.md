@@ -33,6 +33,6 @@
 |*n*<sup>th</sup> copy|                                        Maindeck Card                                        |*n*<sup>th</sup> copy|                                    Sideboard Card                                    |
 |--------------------:|---------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------|
 |                    1|[Irrigated Farmland](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426947)|                    1|[Fry](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466894)        |
-|                     |                                                                                             |                    2|[Magma Spray](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426843)|
-|                     |                                                                                             |                    2|[Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)     |
+|                    2|[Sulfur Falls](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443135)      |                    2|[Magma Spray](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426843)|
+|                    1|[Sulfur Falls](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443135)      |                    2|[Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)     |
 

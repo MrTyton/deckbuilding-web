@@ -70,7 +70,7 @@
 |                    3|[Llanowar Elves](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129626)           |                    3|[Dovin's Veto](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461120)              |
 |                    4|[Llanowar Elves](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129626)           |                    4|[Dovin's Veto](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461120)              |
 |                     |                                                                                                    |                    1|[Ceremonious Rejection](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417613)     |
-|                     |                                                                                                    |                    2|[Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)                    |
 |                     |                                                                                                    |                    2|[Ceremonious Rejection](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417613)     |
+|                     |                                                                                                    |                    2|[Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)                    |
 |                     |                                                                                                    |                    3|[Teferi, Time Raveler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461148)      |
 

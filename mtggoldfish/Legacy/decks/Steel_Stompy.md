@@ -28,8 +28,8 @@
 
 |*n*<sup>th</sup> copy|                                        Maindeck Card                                         |*n*<sup>th</sup> copy|                                        Sideboard Card                                         |
 |--------------------:|----------------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------------|
-|                    1|[Karn, Scion of Urza](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442889)|                    1|[Sword of Fire and Ice](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=46429)|
-|                    1|[Etched Champion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397710)    |                    1|[Beast Within](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446158)        |
+|                    1|[Karn, Scion of Urza](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442889)|                    1|[Beast Within](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446158)        |
+|                    1|[Etched Champion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397710)    |                    1|[Sword of Fire and Ice](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=46429)|
 |                    2|[Etched Champion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397710)    |                    2|[Beast Within](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446158)        |
 |                    2|[Karn, Scion of Urza](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442889)|                    3|[Ensnaring Bridge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=15866)     |
 |                    3|[Phyrexian Revoker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383343)  |                    3|[Spellskite](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397743)          |

@@ -1,41 +1,26 @@
-1 Cryptic Command
 2 Cryptic Command
+2 Prismatic Vista
+3 Prismatic Vista
+4 Misty Rainforest
 2 Hallowed Fountain
-1 Batterskull
-1 Stoneforge Mystic
-2 Stoneforge Mystic
-3 Stoneforge Mystic
-3 Snow-Covered Forest
-1 Mystic Sanctuary
-1 Settle the Wreckage
-2 Breeding Pool
-2 Jace, the Mind Sculptor
-1 Mana Leak
-2 Mana Leak
-3 Brazen Borrower
-4 Teferi, Time Raveler
-4 Brazen Borrower
 1 Sword of Feast and Famine
+3 Force of Negation
+4 Force of Negation
+3 Windswept Heath
+1 Mystic Sanctuary
+2 Breeding Pool
 1 Geist of Saint Traft
 2 Geist of Saint Traft
-3 Windswept Heath
 4 Windswept Heath
+3 Snow-Covered Forest
 1 Horizon Canopy
-1 Sword of Fire and Ice
-1 Reflector Mage
 2 Horizon Canopy
-2 Reflector Mage
-3 Horizon Canopy
-3 Reflector Mage
-4 Reflector Mage
 4 Stoneforge Mystic
-1 Field of Ruin
+1 Once Upon a Time
+1 Settle the Wreckage
+2 Jace, the Mind Sculptor
 1 Celestial Colonnade
-4 Prismatic Vista
-1 Island
-1 Plains
-1 Forest
-1 Spell Pierce
+1 Field of Ruin
 1 Vendilion Clique
 1 Eladamri's Call
 1 Spell Snare
@@ -48,29 +33,18 @@
 2 Eladamri's Call
 3 Eladamri's Call
 4 Flooded Strand
-1 Meddling Mage
-1 Sword of Light and Shadow
-1 Aether Vial
-1 Deputy of Detention
-1 Phantasmal Image
-1 Seachrome Coast
-2 Island
-2 Meddling Mage
-2 Aether Vial
-2 Plains
-2 Phantasmal Image
-2 Deputy of Detention
-2 Seachrome Coast
-3 Meddling Mage
-3 Island
-3 Deputy of Detention
-3 Seachrome Coast
-3 Plains
-3 Aether Vial
-3 Phantasmal Image
-4 Meddling Mage
-4 Deputy of Detention
-4 Aether Vial
+1 Mana Leak
+2 Mana Leak
+3 Brazen Borrower
+4 Brazen Borrower
+4 Teferi, Time Raveler
+2 Once Upon a Time
+3 Once Upon a Time
+1 Reflector Mage
+2 Reflector Mage
+3 Reflector Mage
+4 Reflector Mage
+1 Sword of Fire and Ice
 1 Birds of Paradise
 1 Mirran Crusader
 1 Qasali Pridemage
@@ -81,20 +55,86 @@
 2 Mirran Crusader
 2 Collected Company
 3 Mirran Crusader
-3 Birds of Paradise
 3 Collected Company
 3 Qasali Pridemage
 3 Geist of Saint Traft
-4 Horizon Canopy
+3 Birds of Paradise
 4 Birds of Paradise
 4 Collected Company
 4 Mirran Crusader
 4 Geist of Saint Traft
 4 Qasali Pridemage
+3 Horizon Canopy
+1 Island
+1 Plains
+1 Forest
+4 Once Upon a Time
+1 Aether Vial
+1 Deputy of Detention
+1 Seachrome Coast
+2 Aether Vial
+2 Deputy of Detention
+2 Seachrome Coast
+3 Seachrome Coast
+3 Aether Vial
+4 Aether Vial
+4 Prismatic Vista
+1 Karn, the Great Creator
+2 Karn, the Great Creator
+3 Arcum's Astrolabe
+4 Arcum's Astrolabe
+1 Spell Pierce
+2 Gavony Township
+4 Horizon Canopy
+1 Meddling Mage
+1 Sword of Light and Shadow
+1 Phantasmal Image
+2 Island
+2 Meddling Mage
+2 Plains
+2 Phantasmal Image
+3 Meddling Mage
+3 Island
+3 Deputy of Detention
+3 Plains
+3 Phantasmal Image
+4 Meddling Mage
+4 Deputy of Detention
+1 Scalding Tarn
+1 Mishra's Bauble
+1 Urza, Lord High Artificer
+1 Polluted Delta
+1 Mox Opal
+2 Mishra's Bauble
+2 Urza, Lord High Artificer
+2 Mox Opal
+3 Urza, Lord High Artificer
+3 Mishra's Bauble
+3 Mox Opal
+4 Urza, Lord High Artificer
+4 Mishra's Bauble
+4 Mox Opal
+4 Snow-Covered Island
+1 Hexdrinker
+1 Razorverge Thicket
+1 Moorland Haunt
+1 Giver of Runes
+1 Phyrexian Revoker
+1 Walking Ballista
+1 Ranger-Captain of Eos
+1 Thalia, Guardian of Thraben
+1 Selfless Spirit
+2 Giver of Runes
+2 Phyrexian Revoker
+2 Ranger-Captain of Eos
+2 Thalia, Guardian of Thraben
+3 Ranger-Captain of Eos
+3 Giver of Runes
+4 Giver of Runes
+4 Ranger-Captain of Eos
 1 Dryad Arbor
 1 Arbor Elf
 1 Utopia Sprawl
-1 Karn, the Great Creator
 1 Vizier of Remedies
 1 Hydroid Krasis
 1 Devoted Druid
@@ -103,7 +143,6 @@
 2 Hydroid Krasis
 2 Arbor Elf
 2 Utopia Sprawl
-2 Karn, the Great Creator
 2 Devoted Druid
 2 Finale of Devastation
 3 Waterlogged Grove
@@ -113,7 +152,6 @@
 3 Hydroid Krasis
 3 Devoted Druid
 3 Finale of Devastation
-3 Arcum's Astrolabe
 4 Waterlogged Grove
 4 Arbor Elf
 4 Utopia Sprawl
@@ -122,26 +160,24 @@
 4 Karn, the Great Creator
 4 Devoted Druid
 4 Finale of Devastation
-4 Arcum's Astrolabe
 5 Snow-Covered Forest
 6 Snow-Covered Forest
-1 Once Upon a Time
-1 Field of the Dead
 1 Yavimaya Coast
 1 Westvale Abbey
-1 Hinterland Harbor
 1 Sakura-Tribe Elder
 1 Hour of Promise
-1 Kabira Crossroads
-1 Explore
 1 Detention Sphere
-1 Primeval Titan
+1 Kabira Crossroads
 1 Sphinx's Revelation
+1 Primeval Titan
 1 Glacial Fortress
+1 Explore
 1 Supreme Verdict
+1 Field of the Dead
 1 Arboreal Grazer
-1 Wargate
 1 Sunpetal Grove
+1 Hinterland Harbor
+1 Wargate
 1 Castle Garenbrig
 1 Brushland
 2 Field of the Dead
@@ -152,13 +188,13 @@
 2 Wargate
 2 Arboreal Grazer
 3 Arboreal Grazer
-3 Field of the Dead
 3 Explore
 3 Primeval Titan
 3 Hour of Promise
+3 Field of the Dead
 3 Supreme Verdict
 3 Wargate
-4 Field of the Dead
 4 Explore
 4 Wargate
 4 Supreme Verdict
+4 Field of the Dead

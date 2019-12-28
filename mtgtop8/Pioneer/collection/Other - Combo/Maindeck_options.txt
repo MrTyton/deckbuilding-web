@@ -31,8 +31,8 @@
 1 Mutavault
 1 Mobilized District
 1 Stonecoil Serpent
-1 Spatial Contortion
 1 Karn, Scion of Urza
+1 Spatial Contortion
 1 Scrap Trawler
 1 Ratchet Bomb
 1 Warping Wail
@@ -44,9 +44,9 @@
 1 Karn, the Great Creator
 2 Wastes
 2 Blast Zone
+2 Karn, Scion of Urza
 2 Mobilized District
 2 Stonecoil Serpent
-2 Karn, Scion of Urza
 2 Mutavault
 2 Spatial Contortion
 2 Ratchet Bomb
@@ -59,10 +59,10 @@
 3 Blast Zone
 3 Karn, Scion of Urza
 3 Zhalfirin Void
-3 Walking Ballista
 3 Warping Wail
 3 Wastes
 3 Mutavault
+3 Walking Ballista
 3 Stonecoil Serpent
 3 Spatial Contortion
 3 Ratchet Bomb
@@ -165,8 +165,8 @@
 2 Glacial Fortress
 2 Myth Realized
 2 Teferi, Hero of Dominaria
-2 Azorius Charm
 2 Plains
+2 Azorius Charm
 2 Search for Azcanta
 2 Port Town
 2 Blessed Alliance
@@ -175,8 +175,8 @@
 2 Opt
 3 Myth Realized
 3 Glacial Fortress
-3 Port Town
 3 Plains
+3 Port Town
 3 Supreme Verdict
 3 Azorius Charm
 3 Opt
@@ -190,23 +190,23 @@
 5 Plains
 1 Kiora, Behemoth Beckoner
 1 Possibility Storm
-1 Elvish Mystic
 1 Enter the Infinite
 1 Borborygmos Enraged
 1 Rosethorn Acolyte
+1 Elvish Mystic
 1 Llanowar Elves
 1 Captain Lannery Storm
 1 Rootbound Crag
 1 Domri Rade
 1 Bonecrusher Giant
-1 Questing Beast
 1 Vivien Reid
-1 Glorybringer
+1 Questing Beast
 1 Lovestruck Beast
+1 Glorybringer
 1 Chandra, Torch of Defiance
 1 Game Trail
-2 Elvish Mystic
 2 Possibility Storm
+2 Elvish Mystic
 2 Llanowar Elves
 2 Kiora, Behemoth Beckoner
 2 Rosethorn Acolyte
@@ -241,10 +241,10 @@
 1 Unsubstantiate
 1 Cyclonic Rift
 1 Sunken Hollow
+1 Spell Pierce
 1 Fabled Passage
 1 Notion Thief
 1 Engulf the Shore
-1 Spell Pierce
 1 Brazen Borrower
 1 Unsummon
 1 Dictate of Kruphix
@@ -258,8 +258,8 @@
 2 Drowned Catacomb
 2 Cyclonic Rift
 2 Sunken Hollow
-2 Fabled Passage
 2 Spell Pierce
+2 Fabled Passage
 2 Engulf the Shore
 2 Fatal Push
 2 Notion Thief
@@ -272,9 +272,9 @@
 3 Watery Grave
 3 Notion Thief
 3 Fatal Push
-4 Day's Undoing
 4 Brazen Borrower
 4 Watery Grave
+4 Day's Undoing
 4 Sunken Hollow
 4 Notion Thief
 4 Dakra Mystic

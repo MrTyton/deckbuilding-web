@@ -1,78 +1,30 @@
-1 Arid Mesa
-1 Stomping Ground
-1 Blood Crypt
-1 Wooded Foothills
-1 Sacred Foundry
-1 Forest
-2 Wooded Foothills
-2 Arid Mesa
-1 Scalding Tarn
-1 Niv-Mizzet Reborn
-1 Teferi, Time Raveler
-1 Verdant Catacombs
-1 Deceiver Exarch
-1 Kiki-Jiki, Mirror Breaker
-1 Mana Leak
-1 Swamp
-1 Noble Hierarch
-1 Utopia Sprawl
-1 Mountain
-1 Assassin's Trophy
-1 Saheeli Rai
-1 Bring to Light
-1 Felidar Guardian
-2 Scalding Tarn
-2 Teferi, Time Raveler
-2 Deceiver Exarch
-2 Kiki-Jiki, Mirror Breaker
-2 Bring to Light
-2 Mana Leak
-2 Utopia Sprawl
-2 Felidar Guardian
-2 Saheeli Rai
-3 Scalding Tarn
-3 Teferi, Time Raveler
-3 Mana Leak
-3 Deceiver Exarch
-3 Felidar Guardian
-3 Bring to Light
-3 Saheeli Rai
-3 Arid Mesa
-3 Wooded Foothills
-3 Utopia Sprawl
-4 Scalding Tarn
-4 Bring to Light
-4 Teferi, Time Raveler
-4 Deceiver Exarch
-4 Utopia Sprawl
-4 Saheeli Rai
-4 Felidar Guardian
-4 Wooded Foothills
-4 Arid Mesa
+1 Hallowed Fountain
+1 Lightning Bolt
+1 Path to Exile
+1 Young Pyromancer
 1 Dromoka's Command
 1 Dreadhorde Arcanist
-1 Unearth
+1 Godless Shrine
 1 Atarka's Command
+1 Unearth
 1 Viridescent Wisps
 1 Wild Nacatl
-1 Godless Shrine
 1 Windswept Heath
 1 Might of Alara
 1 Ajani, Caller of the Pride
-1 Young Pyromancer
 1 Tribal Flames
 1 The Royal Scions
 1 Lightning Helix
 1 Boros Charm
 1 Monastery Swiftspear
 2 The Royal Scions
-2 Dreadhorde Arcanist
-2 Unearth
-2 Atarka's Command
-2 Windswept Heath
-2 Viridescent Wisps
 2 Young Pyromancer
+2 Dreadhorde Arcanist
+2 Atarka's Command
+2 Viridescent Wisps
+2 Windswept Heath
 2 Monastery Swiftspear
+2 Unearth
 2 Might of Alara
 2 Wild Nacatl
 2 Lightning Bolt
@@ -83,8 +35,8 @@
 3 Might of Alara
 3 Lightning Bolt
 3 Tribal Flames
-3 Monastery Swiftspear
 3 Lightning Helix
+3 Monastery Swiftspear
 3 Wild Nacatl
 3 Windswept Heath
 4 Dreadhorde Arcanist
@@ -94,3 +46,108 @@
 4 Monastery Swiftspear
 4 Windswept Heath
 4 Might of Alara
+1 Sunbaked Canyon
+1 Unclaimed Territory
+1 Shriekmaw
+1 Spitebellows
+1 Lightning Skelemental
+1 Incandescent Soulstoke
+1 Risen Reef
+1 Unsettled Mariner
+1 Omnath, Locus of the Roil
+1 Flickerwisp
+1 Aether Vial
+1 Spark Elemental
+1 Reflecting Pool
+1 Flamekin Harbinger
+1 Thunderkin Awakener
+1 Cavern of Souls
+1 Primal Beyond
+1 Hellspark Elemental
+1 Voice of Resurgence
+1 Fiery Islet
+2 Sunbaked Canyon
+2 Cavern of Souls
+2 Unclaimed Territory
+2 Lightning Skelemental
+2 Aether Vial
+2 Reflecting Pool
+2 Spark Elemental
+2 Unsettled Mariner
+2 Hellspark Elemental
+2 Thunderkin Awakener
+2 Risen Reef
+2 Incandescent Soulstoke
+2 Flamekin Harbinger
+2 Voice of Resurgence
+2 Primal Beyond
+3 Cavern of Souls
+3 Flamekin Harbinger
+3 Voice of Resurgence
+3 Primal Beyond
+3 Unsettled Mariner
+3 Incandescent Soulstoke
+3 Lightning Skelemental
+3 Risen Reef
+3 Aether Vial
+3 Reflecting Pool
+3 Thunderkin Awakener
+3 Unclaimed Territory
+4 Cavern of Souls
+4 Risen Reef
+4 Lightning Skelemental
+4 Primal Beyond
+4 Unclaimed Territory
+4 Aether Vial
+4 Flamekin Harbinger
+4 Voice of Resurgence
+4 Reflecting Pool
+4 Unsettled Mariner
+1 Glittering Wish
+1 Engineered Explosives
+1 Waterlogged Grove
+1 Grove of the Burnwillows
+1 Swan Song
+1 Silence
+1 Veil of Summer
+1 Serum Visions
+1 Flooded Strand
+1 Jeskai Ascendancy
+1 Manamorphose
+1 Sleight of Hand
+1 Sylvan Caryatid
+1 Abundant Growth
+1 Gemstone Mine
+1 Mystic Speculation
+1 Fatestitcher
+1 Horizon Canopy
+1 Repeal
+1 Nagging Thoughts
+1 Cerulean Wisps
+2 Glittering Wish
+2 Flooded Strand
+2 Jeskai Ascendancy
+2 Sylvan Caryatid
+2 Gemstone Mine
+2 Manamorphose
+2 Fatestitcher
+2 Cerulean Wisps
+2 Sleight of Hand
+2 Serum Visions
+3 Gemstone Mine
+3 Glittering Wish
+3 Manamorphose
+3 Fatestitcher
+3 Sleight of Hand
+3 Cerulean Wisps
+3 Jeskai Ascendancy
+3 Flooded Strand
+3 Serum Visions
+3 Sylvan Caryatid
+4 Sleight of Hand
+4 Glittering Wish
+4 Gemstone Mine
+4 Sylvan Caryatid
+4 Serum Visions
+4 Manamorphose
+4 Flooded Strand
