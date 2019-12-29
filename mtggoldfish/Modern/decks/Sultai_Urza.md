@@ -54,9 +54,9 @@
 |                    2|[Chromatic Star](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=135279)          |                    2|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)    |
 |                    3|[Chromatic Star](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=135279)          |                    3|[Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)    |
 |                    4|[Thoughtcast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=222732)             |                     |                                                                                             |
-|                    1|[Everflowing Chalice](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220534)     |                     |                                                                                             |
 |                    1|[Tireless Tracker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409997)        |                     |                                                                                             |
 |                    1|[Whir of Invention](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423716)       |                     |                                                                                             |
+|                    1|[Everflowing Chalice](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220534)     |                     |                                                                                             |
 |                    2|[Everflowing Chalice](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220534)     |                     |                                                                                             |
 |                    4|[Polluted Delta](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405104)          |                     |                                                                                             |
 
