@@ -1,47 +1,45 @@
-3 Rootbound Crag
-1 Glorybringer
-1 Domri's Ambush
-2 Glorybringer
+1 Rhonas the Indomitable
 4 Rootbound Crag
-3 Glorybringer
+1 Domri's Ambush
+1 Glorybringer
 1 Vine Mare
+2 Glorybringer
+3 Wild Slash
 2 Rhonas the Indomitable
-1 Abrade
-2 Abrade
 1 Domri, Anarch of Bolas
 2 Domri, Anarch of Bolas
-4 Glorybringer
 1 Rekindling Phoenix
 2 Rekindling Phoenix
+3 Glorybringer
 1 Domri Rade
-3 Wild Slash
-2 Vine Mare
-1 Gruul Spellbreaker
-2 Gruul Spellbreaker
-3 Gruul Spellbreaker
-1 Steel Leaf Champion
-2 Steel Leaf Champion
-3 Steel Leaf Champion
-3 Rekindling Phoenix
-4 Rekindling Phoenix
+1 Legion Warboss
 1 Collected Company
 2 Collected Company
 3 Collected Company
-1 Legion Warboss
+2 Vine Mare
+1 Gilded Goose
+2 Gilded Goose
+1 Gruul Spellbreaker
+2 Gruul Spellbreaker
+3 Gruul Spellbreaker
+1 Abrade
+2 Abrade
+1 Steel Leaf Champion
+2 Steel Leaf Champion
+3 Steel Leaf Champion
+2 Legion Warboss
+3 Legion Warboss
+4 Legion Warboss
+3 Rekindling Phoenix
+4 Rekindling Phoenix
+4 Glorybringer
 1 Kiora, Behemoth Beckoner
 9 Forest
 1 Chandra, Torch of Defiance
 3 Domri, Anarch of Bolas
-1 Gilded Goose
-2 Gilded Goose
 3 Ghor-Clan Rampager
 4 Gruul Spellbreaker
 1 Hazoret the Fervent
-3 Abrade
-3 Once Upon a Time
-2 Legion Warboss
-3 Legion Warboss
-4 Legion Warboss
 4 Questing Beast
 1 Walking Ballista
 1 Shared Summons
@@ -59,6 +57,8 @@
 1 Scavenging Ooze
 2 Scavenging Ooze
 2 Domri Rade
+4 Collected Company
+4 Wild Slash
 1 Heart of Kiran
 2 Heart of Kiran
 3 Heart of Kiran
@@ -74,6 +74,7 @@
 4 Burning-Tree Emissary
 4 Voltaic Brawler
 1 Blossoming Defense
+1 Roast
 4 Ghor-Clan Rampager
 1 Mutavault
 1 Collision / Colossus
@@ -85,18 +86,18 @@
 1 Nylea, God of the Hunt
 1 Rogue's Passage
 1 Temur Battle Rage
-1 Magma Spray
-2 Magma Spray
+2 Kiora, Behemoth Beckoner
 1 Vivien, Arkbow Ranger
 1 Aethersphere Harvester
 2 Vivien, Arkbow Ranger
-2 Kiora, Behemoth Beckoner
 1 Mizzium Mortars
 2 Mizzium Mortars
 3 Mizzium Mortars
 3 Embercleave
 3 Vine Mare
-4 Once Upon a Time
+1 Magma Spray
+2 Magma Spray
+3 Once Upon a Time
 1 Thrash / Threat
 2 Thrash / Threat
 3 Domri Rade
@@ -104,7 +105,6 @@
 1 Earthshaker Khenra
 1 Stormbreath Dragon
 1 Polukranos, World Eater
-1 Roast
 1 Lightning Strike
 1 Cinder Glade
 2 Earthshaker Khenra
@@ -113,14 +113,24 @@
 2 Lightning Strike
 3 Earthshaker Khenra
 4 Earthshaker Khenra
+1 Metallic Mimic
+1 Krenko, Tin Street Kingpin
+1 Grumgully, the Generous
+1 Castle Embereth
+2 Metallic Mimic
+2 Grumgully, the Generous
+2 Krenko, Tin Street Kingpin
+3 Metallic Mimic
+3 Grumgully, the Generous
+3 Krenko, Tin Street Kingpin
+4 Metallic Mimic
 1 Shifting Ceratops
 1 Xenagos, God of Revels
 2 Shifting Ceratops
 3 Lava Coil
 4 Lava Coil
+3 Abrade
 4 Abrade
-4 Wild Slash
-4 Collected Company
 1 Experiment One
 1 Pelt Collector
 1 Zhur-Taa Goblin
@@ -131,8 +141,8 @@
 2 Zhur-Taa Goblin
 3 Hashep Oasis
 3 Experiment One
-3 Blossoming Defense
 3 Pelt Collector
+3 Blossoming Defense
 3 Zhur-Taa Goblin
 4 Experiment One
 4 Pelt Collector

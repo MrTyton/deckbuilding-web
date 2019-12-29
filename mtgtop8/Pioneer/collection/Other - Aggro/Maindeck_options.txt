@@ -1,63 +1,91 @@
-1 Gilded Goose
-4 Botanical Sanctum
-1 Llanowar Elves
-2 Llanowar Elves
-3 Llanowar Elves
-1 Oko, Thief of Crowns
-2 Oko, Thief of Crowns
-3 Oko, Thief of Crowns
-4 Oko, Thief of Crowns
-1 Elvish Mystic
-2 Elvish Mystic
-1 Brazen Borrower
-1 Tireless Tracker
-1 Lovestruck Beast
-2 Tireless Tracker
-2 Lovestruck Beast
-3 Tireless Tracker
-3 Lovestruck Beast
-4 Lovestruck Beast
-3 Breeding Pool
-1 Temple Garden
-2 Temple Garden
-3 Temple Garden
-4 Temple Garden
-1 Glacial Fortress
-1 Hallowed Fountain
-1 Spell Queller
-2 Hallowed Fountain
-2 Glacial Fortress
-2 Spell Queller
-3 Hallowed Fountain
-3 Spell Queller
-4 Spell Queller
-1 Sunpetal Grove
-2 Sunpetal Grove
-3 Sunpetal Grove
-1 Selfless Spirit
-2 Selfless Spirit
-4 Hallowed Fountain
-1 Collected Company
-1 Deputy of Detention
-2 Collected Company
-2 Deputy of Detention
-3 Deputy of Detention
-3 Collected Company
-4 Collected Company
-4 Deputy of Detention
-1 Woodland Cemetery
-3 Elvish Mystic
-4 Sunpetal Grove
-2 Brazen Borrower
-3 Selfless Spirit
-4 Selfless Spirit
-3 Scrapheap Scrounger
-4 Llanowar Elves
-4 Satyr Wayfinder
-4 Tireless Tracker
 2 Gilded Goose
+1 Swamp
+1 Blooming Marsh
+1 Overgrown Tomb
+2 Blooming Marsh
+2 Overgrown Tomb
+3 Overgrown Tomb
+4 Overgrown Tomb
+1 Watery Grave
+2 Watery Grave
+3 Watery Grave
+3 Blooming Marsh
+4 Blooming Marsh
+2 Swamp
+1 Scrapheap Scrounger
+2 Scrapheap Scrounger
+1 Llanowar Wastes
+1 Gather the Pack
+1 Grisly Salvage
+1 Satyr Wayfinder
+1 Driven / Despair
+1 Gurmag Angler
+1 Narcomoeba
+1 Haunted Dead
+1 Stitcher's Supplier
+1 Prized Amalgam
+1 Creeping Chill
+2 Gather the Pack
+2 Grisly Salvage
+2 Llanowar Wastes
+2 Satyr Wayfinder
+2 Gurmag Angler
+2 Creeping Chill
+2 Narcomoeba
+2 Driven / Despair
+2 Haunted Dead
+2 Prized Amalgam
+2 Stitcher's Supplier
+3 Gather the Pack
+3 Grisly Salvage
+3 Satyr Wayfinder
+3 Haunted Dead
+3 Stitcher's Supplier
+3 Prized Amalgam
+3 Llanowar Wastes
+3 Driven / Despair
+3 Gurmag Angler
+3 Creeping Chill
+3 Narcomoeba
+4 Gather the Pack
+4 Grisly Salvage
+4 Prized Amalgam
+4 Stitcher's Supplier
+4 Narcomoeba
+4 Creeping Chill
+1 Woodland Cemetery
 4 Breeding Pool
 2 Forest
+1 Murderous Rider
+1 Fatal Push
+2 Fatal Push
+3 Fatal Push
+1 Vraska, Golgari Queen
+3 Gilded Goose
+1 Castle Locthwain
+4 Gilded Goose
+2 Murderous Rider
+1 Fabled Passage
+2 Fabled Passage
+1 Trail of Crumbs
+1 Witch's Oven
+1 Cauldron Familiar
+1 Massacre Girl
+2 Vraska, Golgari Queen
+2 Trail of Crumbs
+2 Cauldron Familiar
+2 Witch's Oven
+3 Witch's Oven
+3 Trail of Crumbs
+3 Cauldron Familiar
+4 Trail of Crumbs
+4 Cauldron Familiar
+4 Witch's Oven
+1 Island
+1 Mountain
+1 Stomping Ground
+2 Stomping Ground
+3 Stomping Ground
 1 Plains
 1 All That Glitters
 1 Gladecover Scout
@@ -74,6 +102,26 @@
 4 Gladecover Scout
 4 Unflinching Courage
 4 Ethereal Armor
+1 Abrupt Decay
+1 Heart of Kiran
+2 Heart of Kiran
+3 Scrapheap Scrounger
+1 Blood Crypt
+1 Dragonskull Summit
+2 Blood Crypt
+2 Dragonskull Summit
+3 Blood Crypt
+4 Blood Crypt
+1 Thoughtseize
+1 Kalitas, Traitor of Ghet
+2 Thoughtseize
+3 Thoughtseize
+4 Thoughtseize
+1 Wicked Wolf
+2 Wicked Wolf
+1 Yavimaya Coast
+2 Yavimaya Coast
+2 Plains
 1 Fortified Village
 1 Bassara Tower Archer
 1 Sixth Sense
@@ -87,67 +135,40 @@
 4 Bassara Tower Archer
 4 Sixth Sense
 4 All That Glitters
-1 Island
-2 Plains
-3 Gilded Goose
-1 Castle Locthwain
-1 Murderous Rider
-1 Fatal Push
-2 Fatal Push
-3 Fatal Push
-1 Witchstalker
-2 Witchstalker
-3 Witchstalker
+1 Scavenging Ooze
 3 Forest
 4 Forest
 5 Forest
 6 Forest
-1 Heart of Kiran
-2 Heart of Kiran
-1 Vraska, Golgari Queen
-1 Scavenging Ooze
-1 Thoughtseize
-1 Kalitas, Traitor of Ghet
-2 Thoughtseize
-3 Thoughtseize
-4 Thoughtseize
-1 Yavimaya Coast
-2 Yavimaya Coast
-4 Gilded Goose
-2 Murderous Rider
-1 Mountain
+1 Witchstalker
+2 Witchstalker
+3 Witchstalker
 3 Murderous Rider
+1 The Scarab God
+2 Castle Locthwain
+4 Fatal Push
+1 Sacred Foundry
+2 Sacred Foundry
 1 Bonecrusher Giant
 2 Bonecrusher Giant
 3 Bonecrusher Giant
 4 Bonecrusher Giant
 2 Mountain
 1 Hazoret the Fervent
-1 Blood Crypt
-1 Dragonskull Summit
 1 Chandra, Torch of Defiance
 1 Foreboding Ruins
-2 Blood Crypt
-2 Dragonskull Summit
 2 Hazoret the Fervent
 2 Chandra, Torch of Defiance
-3 Blood Crypt
 3 Dragonskull Summit
 3 Mountain
-4 Blood Crypt
 4 Mountain
 4 Dragonskull Summit
 5 Mountain
 6 Mountain
-1 Sacred Foundry
-2 Sacred Foundry
-1 Fabled Passage
-2 Fabled Passage
-1 The Scarab God
-1 Wild Slash
-2 Wild Slash
 1 Aether Hub
 2 Aether Hub
+1 Wild Slash
+2 Wild Slash
 3 Swamp
 4 Swamp
 5 Swamp
@@ -168,18 +189,23 @@
 2 Gideon, Ally of Zendikar
 3 Teferi, Time Raveler
 3 Gideon, Ally of Zendikar
-1 Stomping Ground
-2 Stomping Ground
-3 Stomping Ground
 4 Stomping Ground
 1 Steam Vents
 2 Steam Vents
 3 Steam Vents
+1 Mayhem Devil
+1 Liliana, Heretical Healer
+1 Korvold, Fae-Cursed King
+1 Grim Haruspex
+2 Mayhem Devil
+2 Liliana, Heretical Healer
+2 Korvold, Fae-Cursed King
+2 Grim Haruspex
+3 Grim Haruspex
 1 Rhonas the Indomitable
 1 Vivien, Arkbow Ranger
 1 Questing Beast
 1 Assassin's Trophy
-1 Abrupt Decay
 1 Hinterland Harbor
 2 Woodland Cemetery
 2 Hinterland Harbor
@@ -187,6 +213,18 @@
 2 Abrupt Decay
 3 Abrupt Decay
 3 Questing Beast
+1 Sylvan Caryatid
+2 Massacre Girl
+2 Sylvan Caryatid
+3 Massacre Girl
+3 Vraska, Golgari Queen
+3 Sylvan Caryatid
+4 Watery Grave
+1 Growth-Chamber Guardian
+2 Growth-Chamber Guardian
+3 Growth-Chamber Guardian
+4 Growth-Chamber Guardian
+4 Satyr Wayfinder
 1 Rix Maadi Reveler
 1 Despise
 1 Glint-Sleeve Siphoner
@@ -202,29 +240,6 @@
 3 Goblin Rabblemaster
 3 Cut / Ribbons
 4 Glint-Sleeve Siphoner
-2 Castle Locthwain
-4 Fatal Push
-1 Trail of Crumbs
-1 Cauldron Familiar
-1 Witch's Oven
-1 Massacre Girl
-1 Sylvan Caryatid
-2 Vraska, Golgari Queen
-2 Trail of Crumbs
-2 Cauldron Familiar
-2 Witch's Oven
-2 Massacre Girl
-2 Sylvan Caryatid
-3 Massacre Girl
-3 Vraska, Golgari Queen
-3 Witch's Oven
-3 Trail of Crumbs
-3 Cauldron Familiar
-3 Sylvan Caryatid
-4 Watery Grave
-4 Trail of Crumbs
-4 Cauldron Familiar
-4 Witch's Oven
 1 Mana Confluence
 1 Stubborn Denial
 1 Aqueous Form
@@ -243,12 +258,8 @@
 4 Stubborn Denial
 4 Aqueous Form
 4 Oppressive Rays
-4 Curious Obsession
 4 Mana Confluence
-1 Growth-Chamber Guardian
-2 Growth-Chamber Guardian
-3 Growth-Chamber Guardian
-4 Growth-Chamber Guardian
+4 Curious Obsession
 4 Elvish Mystic
 1 Mantis Rider
 1 Spirebluff Canal
@@ -368,8 +379,8 @@
 2 Servant of the Conduit
 2 Longtusk Cub
 2 Karn, Scion of Urza
-3 Abrade
 3 Harnessed Lightning
+3 Abrade
 3 Aether Hub
 3 Rogue Refiner
 3 The Scarab God
@@ -413,13 +424,13 @@
 3 Gird for Battle
 3 Expedite
 3 Dreadhorde Arcanist
-3 Gods Willing
 3 Titan's Strength
 3 Favored Hoplite
 3 Defiant Strike
 3 Monastery Swiftspear
 3 Tenth District Legionnaire
 3 Feather, the Redeemed
+3 Gods Willing
 3 Reckless Rage
 4 Titan's Strength
 4 Reckless Rage
@@ -471,8 +482,8 @@
 7 Swamp
 1 Venerable Knight
 1 Worthy Knight
-1 Fervent Champion
 1 Inspiring Veteran
+1 Fervent Champion
 1 History of Benalia
 1 Embercleave
 1 Benalish Marshal
@@ -539,12 +550,10 @@
 1 Walking Ballista
 1 Hydroid Krasis
 1 Nykthos, Shrine to Nyx
-1 Wicked Wolf
 1 Castle Garenbrig
 1 Jadelight Ranger
 2 Nykthos, Shrine to Nyx
 2 Nissa, Who Shakes the World
-2 Wicked Wolf
 2 Hydroid Krasis
 2 Scavenging Ooze
 2 Walking Ballista

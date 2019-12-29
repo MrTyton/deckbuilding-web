@@ -88,8 +88,8 @@
 |                     |                                                                                              |                    3|[Rampaging Ferocidon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435308)         |
 |                     |                                                                                              |                    3|[Deafening Silence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472972)           |
 |                     |                                                                                              |                    3|[Sheltering Light](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435187)            |
-|                     |                                                                                              |                    1|[Chance for Glory](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452909)            |
 |                     |                                                                                              |                    1|[Crash Through](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430777)               |
+|                     |                                                                                              |                    1|[Chance for Glory](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452909)            |
 |                     |                                                                                              |                    2|[Deflecting Palm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386516)             |
 |                     |                                                                                              |                    3|[Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)                      |
 

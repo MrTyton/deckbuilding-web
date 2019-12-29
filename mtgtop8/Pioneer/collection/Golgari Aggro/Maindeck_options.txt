@@ -1,34 +1,16 @@
-3 Pelt Collector
-4 Stonecoil Serpent
-1 Fatal Push
-2 Fatal Push
-3 Fatal Push
 2 Swamp
+1 Karn's Bastion
 1 Castle Locthwain
 1 Thoughtseize
-1 Karn's Bastion
-4 Llanowar Elves
-3 Vivien, Arkbow Ranger
+4 Nissa, Voice of Zendikar
+1 Elvish Mystic
+2 Elvish Mystic
+3 Elvish Mystic
+4 Voracious Hydra
 4 Woodland Cemetery
-1 Scavenging Ooze
-1 Once Upon a Time
-2 Once Upon a Time
-3 Once Upon a Time
-4 Elvish Mystic
-6 Forest
-1 Experiment One
-2 Experiment One
-3 Experiment One
-4 Experiment One
-2 Thoughtseize
-4 Pelt Collector
-1 Verdurous Gearhulk
-4 Fatal Push
-3 Thoughtseize
 1 Murderous Rider
 3 Swamp
 2 Murderous Rider
-3 Murderous Rider
 1 Lotleth Troll
 2 Lotleth Troll
 3 Lotleth Troll
@@ -45,6 +27,7 @@
 4 Grisly Salvage
 4 Zetalpa, Primal Dawn
 4 Soulflayer
+3 Murderous Rider
 1 Questing Beast
 2 Questing Beast
 1 Urborg, Tomb of Yawgmoth
@@ -62,22 +45,39 @@
 2 Gather the Pack
 3 Gather the Pack
 4 Gather the Pack
-4 Thoughtseize
-2 Scavenging Ooze
-1 Castle Garenbrig
-1 Vraska, Golgari Queen
-4 Vivien, Arkbow Ranger
-7 Forest
-8 Forest
-4 Once Upon a Time
-1 Ruins of Oran-Rief
-1 Nykthos, Shrine to Nyx
-2 Karn's Bastion
+2 Thoughtseize
+1 Experiment One
+2 Experiment One
+3 Experiment One
+4 Experiment One
+4 Pelt Collector
+3 Thoughtseize
+1 Verdurous Gearhulk
 1 Vessel of Nascency
 2 Vessel of Nascency
+4 Llanowar Elves
+4 Fatal Push
+4 Murderous Rider
+3 Vivien, Arkbow Ranger
+4 Thoughtseize
+1 Scavenging Ooze
+2 Scavenging Ooze
+1 Vraska, Golgari Queen
+1 Castle Garenbrig
+1 Ruins of Oran-Rief
+1 Nykthos, Shrine to Nyx
+1 Once Upon a Time
+2 Once Upon a Time
+3 Once Upon a Time
+4 Elvish Mystic
+6 Forest
+1 Gifted Aetherborn
+2 Gifted Aetherborn
+1 Collective Brutality
+2 Collective Brutality
 3 Vessel of Nascency
 4 Vessel of Nascency
-4 Murderous Rider
+2 Karn's Bastion
 1 Grapple with the Past
 2 Grapple with the Past
 1 Chromanticore
@@ -96,14 +96,10 @@
 2 Courser of Kruphix
 3 Fabled Passage
 4 Fabled Passage
+1 Mana Confluence
+2 Mana Confluence
 1 Hashep Oasis
 2 Hashep Oasis
-1 Mana Confluence
-1 Gifted Aetherborn
-2 Mana Confluence
-2 Gifted Aetherborn
-1 Collective Brutality
-2 Collective Brutality
 3 Chromanticore
 2 Nykthos, Shrine to Nyx
 3 Scavenging Ooze
@@ -116,14 +112,15 @@
 3 Avatar of the Resolute
 3 Evolution Sage
 1 Jadelight Ranger
-1 Golgari Charm
 1 Blossoming Defense
+1 Golgari Charm
 1 Dreadhorde Invasion
 2 Jadelight Ranger
-2 Dreadhorde Invasion
 2 Blossoming Defense
+2 Dreadhorde Invasion
 3 Dreadhorde Invasion
 3 Blossoming Defense
+4 Once Upon a Time
 1 Blood Crypt
 1 Commune with the Gods
 1 Samut, Voice of Dissent
@@ -133,8 +130,8 @@
 2 Blood Crypt
 2 Commune with the Gods
 2 Samut, Voice of Dissent
-3 Commune with the Gods
 3 Blood Crypt
+3 Commune with the Gods
 3 Samut, Voice of Dissent
 4 Samut, Voice of Dissent
 1 Nullhide Ferox
@@ -173,20 +170,20 @@
 3 Merfolk Branchwalker
 4 Swamp
 4 Merfolk Branchwalker
-1 Dark Salvation
-1 Lord of the Accursed
 1 Liliana's Mastery
+1 Lord of the Accursed
 1 Death Baron
 1 Liliana, Untouched by Death
+1 Dark Salvation
 1 Cryptbreaker
 1 Diregraf Colossus
 1 Dread Wanderer
 1 Heart of Kiran
 1 Driven / Despair
-2 Dark Salvation
-2 Lord of the Accursed
 2 Liliana's Mastery
+2 Lord of the Accursed
 2 Heart of Kiran
+2 Dark Salvation
 2 Diregraf Colossus
 2 Dread Wanderer
 2 Liliana, Untouched by Death
@@ -194,8 +191,8 @@
 3 Dread Wanderer
 3 Diregraf Colossus
 3 Lord of the Accursed
-3 Heart of Kiran
 3 Castle Locthwain
+3 Heart of Kiran
 3 Mutavault
 3 Cryptbreaker
 4 Dread Wanderer
@@ -204,14 +201,14 @@
 1 Emrakul, the Promised End
 1 Massacre Girl
 1 Gilded Goose
-1 Witch's Oven
 1 Temple of Malady
 1 Cauldron Familiar
+1 Witch's Oven
 1 Cavalier of Thorns
 1 Trail of Crumbs
 2 Liliana, the Last Hope
-2 Witch's Oven
 2 Gilded Goose
+2 Witch's Oven
 2 Cauldron Familiar
 2 Cavalier of Thorns
 2 Trail of Crumbs
@@ -226,3 +223,6 @@
 4 Cauldron Familiar
 4 Gilded Goose
 4 Trail of Crumbs
+4 Vivien, Arkbow Ranger
+7 Forest
+8 Forest
