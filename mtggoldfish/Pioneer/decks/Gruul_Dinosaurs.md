@@ -29,7 +29,7 @@
 
 |*n*<sup>th</sup> copy|                                          Maindeck Card                                          |*n*<sup>th</sup> copy|                                      Sideboard Card                                      |
 |--------------------:|-------------------------------------------------------------------------------------------------|--------------------:|------------------------------------------------------------------------------------------|
-|                    2|[Rhonas the Indomitable](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426884)|                    1|[Magma Spray](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426843)    |
+|                    2|[Rhonas the Indomitable](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426884)|                    2|[Magma Spray](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426843)    |
 |                    3|[Rootbound Crag](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420934)        |                    3|[Scavenging Ooze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420783)|
-|                    4|[Rootbound Crag](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420934)        |                    2|[Magma Spray](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426843)    |
+|                    4|[Rootbound Crag](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420934)        |                    1|[Magma Spray](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426843)    |
 

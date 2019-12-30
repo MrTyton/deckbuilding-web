@@ -35,6 +35,6 @@
 |                    1|[Voltaic Brawler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417762)  |                     |              |
 |                    2|[Voltaic Brawler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417762)  |                     |              |
 |                    3|[Zurgo Bellstriker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394748)|                     |              |
-|                    4|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)         |                     |              |
 |                    6|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)           |                     |              |
+|                    4|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)         |                     |              |
 

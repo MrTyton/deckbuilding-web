@@ -3,12 +3,12 @@
 2 Goblin Chainwhirler
 1 Rampaging Ferocidon
 2 Rampaging Ferocidon
+1 Lava Coil
+2 Lava Coil
 1 Chandra, Torch of Defiance
 1 Experimental Frenzy
 1 Smash to Smithereens
 2 Smash to Smithereens
-1 Lava Coil
-2 Lava Coil
 1 Searing Blood
 2 Searing Blood
 1 Hazoret the Fervent
@@ -19,13 +19,13 @@
 2 Roast
 1 Mizzium Mortars
 1 Rekindling Phoenix
-1 Alpine Moon
 2 Rekindling Phoenix
-1 Pithing Needle
-2 Mizzium Mortars
 1 Eidolon of the Great Revel
 2 Eidolon of the Great Revel
 3 Eidolon of the Great Revel
+1 Alpine Moon
+1 Pithing Needle
+2 Mizzium Mortars
 2 Alpine Moon
 1 Redcap Melee
 3 Roast
@@ -36,6 +36,8 @@
 3 Lava Coil
 1 Skullcrack
 2 Skullcrack
+1 Grafdigger's Cage
+2 Grafdigger's Cage
 1 Smuggler's Copter
 2 Smuggler's Copter
 4 Lava Coil
@@ -44,8 +46,8 @@
 3 Tibalt, Rakish Instigator
 4 Tibalt, Rakish Instigator
 3 Fry
-1 Grafdigger's Cage
-2 Grafdigger's Cage
+1 Magma Spray
+2 Magma Spray
 1 Rending Volley
 2 Rending Volley
 3 Experimental Frenzy
@@ -58,14 +60,16 @@
 3 Hazoret the Fervent
 4 Eidolon of the Great Revel
 1 Forge Devil
-1 Magma Spray
 2 Forge Devil
-2 Magma Spray
+3 Magma Spray
 3 Smash to Smithereens
 1 Built to Smash
 1 Heart of Kiran
 1 Torbran, Thane of Red Fell
 1 Castle Embereth
+1 Aethersphere Harvester
+1 Burning Earth
+2 Aethersphere Harvester
 2 Chandra, Acolyte of Flame
 1 Chandra, Fire of Kaladesh
 2 Chandra, Fire of Kaladesh
@@ -78,11 +82,8 @@
 1 Leyline of Combustion
 2 Leyline of Combustion
 3 Leyline of Combustion
+3 Abrade
 3 Alpine Moon
-1 Aethersphere Harvester
-1 Burning Earth
-2 Aethersphere Harvester
-3 Magma Spray
 3 Skullcrack
 4 Skullcrack
 1 By Force
@@ -92,6 +93,6 @@
 3 By Force
 3 Leyline of the Void
 4 Leyline of the Void
-4 Smash to Smithereens
 3 Mizzium Mortars
 4 Mizzium Mortars
+4 Smash to Smithereens

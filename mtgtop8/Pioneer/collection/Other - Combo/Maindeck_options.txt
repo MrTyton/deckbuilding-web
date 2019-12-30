@@ -94,19 +94,20 @@
 1 Stonecoil Serpent
 1 Karn, Scion of Urza
 1 Spatial Contortion
-1 Scrap Trawler
 1 Ratchet Bomb
 1 Warping Wail
 1 Blast Zone
 1 Darksteel Citadel
+1 Scrap Trawler
 1 Zhalfirin Void
 1 Fountain of Renewal
 1 Foundry of the Consuls
 1 Karn, the Great Creator
 2 Wastes
+2 Zhalfirin Void
 2 Blast Zone
-2 Mobilized District
 2 Karn, Scion of Urza
+2 Mobilized District
 2 Stonecoil Serpent
 2 Mutavault
 2 Spatial Contortion
@@ -114,13 +115,12 @@
 2 Scrap Trawler
 2 Fountain of Renewal
 2 Warping Wail
-2 Zhalfirin Void
 2 Karn, the Great Creator
 2 Shrine of the Forsaken Gods
 3 Blast Zone
-3 Karn, Scion of Urza
 3 Zhalfirin Void
 3 Warping Wail
+3 Karn, Scion of Urza
 3 Wastes
 3 Mutavault
 3 Walking Ballista
@@ -132,19 +132,19 @@
 3 Scrap Trawler
 3 Karn, the Great Creator
 4 Shrine of the Forsaken Gods
-4 Karn, Scion of Urza
 4 Mutavault
 4 Scrap Trawler
 4 Zhalfirin Void
 4 Fountain of Renewal
+4 Karn, Scion of Urza
 4 Stonecoil Serpent
 1 Geier Reach Sanitarium
-1 Day's Undoing
 1 Narset, Parter of Veils
+1 Day's Undoing
 2 Day's Undoing
+2 Geier Reach Sanitarium
 2 Narset, Parter of Veils
 2 Island
-2 Geier Reach Sanitarium
 3 Day's Undoing
 3 Narset, Parter of Veils
 3 Island
@@ -189,8 +189,8 @@
 4 Azorius Charm
 5 Plains
 1 Kiora, Behemoth Beckoner
-1 Enter the Infinite
 1 Possibility Storm
+1 Enter the Infinite
 1 Borborygmos Enraged
 1 Rosethorn Acolyte
 1 Captain Lannery Storm

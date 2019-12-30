@@ -86,8 +86,8 @@
 1 Fabled Passage
 2 Fabled Passage
 2 Vraska, Golgari Queen
-1 Abrupt Decay
 1 Assassin's Trophy
+1 Abrupt Decay
 2 Assassin's Trophy
 1 Mutavault
 2 Mutavault
@@ -96,11 +96,20 @@
 2 Courser of Kruphix
 3 Fabled Passage
 4 Fabled Passage
-1 Mana Confluence
-2 Mana Confluence
 1 Hashep Oasis
 2 Hashep Oasis
+1 Mana Confluence
+2 Mana Confluence
 3 Chromanticore
+1 Blossoming Defense
+1 Jadelight Ranger
+1 Golgari Charm
+1 Dreadhorde Invasion
+2 Blossoming Defense
+2 Jadelight Ranger
+2 Dreadhorde Invasion
+3 Blossoming Defense
+3 Dreadhorde Invasion
 2 Nykthos, Shrine to Nyx
 3 Scavenging Ooze
 3 Karn's Bastion
@@ -111,15 +120,6 @@
 2 Evolution Sage
 3 Avatar of the Resolute
 3 Evolution Sage
-1 Jadelight Ranger
-1 Blossoming Defense
-1 Golgari Charm
-1 Dreadhorde Invasion
-2 Jadelight Ranger
-2 Blossoming Defense
-2 Dreadhorde Invasion
-3 Dreadhorde Invasion
-3 Blossoming Defense
 4 Once Upon a Time
 1 Blood Crypt
 1 Hazoret the Fervent
@@ -146,16 +146,16 @@
 4 Satyr Wayfinder
 1 Field of Ruin
 1 Tasigur, the Golden Fang
-1 Kalitas, Traitor of Ghet
 1 Deathrite Shaman
 1 Sylvan Advocate
 1 Tireless Tracker
 1 Ob Nixilis Reignited
+1 Kalitas, Traitor of Ghet
 1 Hissing Quagmire
 2 Tasigur, the Golden Fang
-2 Abrupt Decay
 2 Sylvan Advocate
 2 Deathrite Shaman
+2 Abrupt Decay
 2 Field of Ruin
 2 Tireless Tracker
 2 Hissing Quagmire
@@ -170,53 +170,53 @@
 3 Merfolk Branchwalker
 4 Swamp
 4 Merfolk Branchwalker
-1 Liliana's Mastery
+1 Cryptbreaker
+1 Dread Wanderer
+1 Diregraf Colossus
 1 Lord of the Accursed
 1 Death Baron
 1 Liliana, Untouched by Death
 1 Dark Salvation
-1 Cryptbreaker
-1 Diregraf Colossus
-1 Dread Wanderer
+1 Liliana's Mastery
 1 Heart of Kiran
 1 Driven / Despair
-2 Liliana's Mastery
-2 Lord of the Accursed
-2 Heart of Kiran
-2 Dark Salvation
-2 Diregraf Colossus
-2 Dread Wanderer
-2 Liliana, Untouched by Death
 2 Cryptbreaker
+2 Dread Wanderer
+2 Diregraf Colossus
+2 Lord of the Accursed
+2 Dark Salvation
+2 Liliana's Mastery
+2 Heart of Kiran
+2 Liliana, Untouched by Death
+3 Cryptbreaker
 3 Dread Wanderer
 3 Diregraf Colossus
-3 Lord of the Accursed
-3 Heart of Kiran
 3 Castle Locthwain
+3 Heart of Kiran
+3 Lord of the Accursed
 3 Mutavault
-3 Cryptbreaker
+4 Cryptbreaker
 4 Dread Wanderer
 4 Lord of the Accursed
-4 Cryptbreaker
 1 Emrakul, the Promised End
-1 Cavalier of Thorns
 1 Massacre Girl
 1 Gilded Goose
 1 Temple of Malady
 1 Cauldron Familiar
 1 Witch's Oven
+1 Cavalier of Thorns
 1 Trail of Crumbs
 2 Liliana, the Last Hope
-2 Cavalier of Thorns
 2 Gilded Goose
 2 Witch's Oven
 2 Cauldron Familiar
+2 Cavalier of Thorns
 2 Trail of Crumbs
 2 Temple of Malady
 3 Temple of Malady
-3 Cavalier of Thorns
 3 Cauldron Familiar
 3 Trail of Crumbs
+3 Cavalier of Thorns
 3 Witch's Oven
 3 Gilded Goose
 4 Witch's Oven

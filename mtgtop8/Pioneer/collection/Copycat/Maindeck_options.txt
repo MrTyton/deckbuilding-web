@@ -36,8 +36,8 @@
 4 Opt
 1 Supreme Verdict
 1 Clifftop Retreat
-1 Detention Sphere
 1 Sulfur Falls
+1 Detention Sphere
 2 Detention Sphere
 3 Glacial Fortress
 4 Glacial Fortress
@@ -48,11 +48,11 @@
 1 Hieroglyphic Illumination
 1 Abrade
 1 Izzet Charm
+2 Irrigated Farmland
 2 Clifftop Retreat
 2 Supreme Verdict
 2 Censor
 2 Sulfur Falls
-2 Irrigated Farmland
 2 Izzet Charm
 2 Hieroglyphic Illumination
 3 Detention Sphere
@@ -105,14 +105,14 @@
 2 Yavimaya Coast
 1 Bring to Light
 1 Niv-Mizzet Reborn
-1 Silumgar's Command
 1 Ojutai's Command
 1 Dreadbore
-1 Assassin's Trophy
 1 Unmoored Ego
 1 Kolaghan's Command
 1 Abrupt Decay
+1 Silumgar's Command
 1 Knight of Autumn
+1 Assassin's Trophy
 2 Bring to Light
 2 Niv-Mizzet Reborn
 2 Assassin's Trophy
@@ -147,8 +147,8 @@
 1 Lava Coil
 1 Fiery Impulse
 2 Thrill of Possibility
-2 Spell Pierce
 2 Anticipate
+2 Spell Pierce
 2 Lava Coil
 2 Fiery Impulse
 3 Thrill of Possibility
@@ -164,14 +164,13 @@
 1 Wicked Wolf
 2 Wicked Wolf
 4 Llanowar Elves
-1 Isolated Chapel
-1 Teferi, Hero of Dominaria
 1 Discovery / Dispersal
+1 Teferi, Hero of Dominaria
+1 Nicol Bolas, Dragon-God
 1 Yahenni's Expertise
-1 Fatal Push
 1 Languish
 1 Narset, Parter of Veils
-1 Nicol Bolas, Dragon-God
+1 Isolated Chapel
 1 Prophetic Prism
 1 Search for Azcanta
 1 Thoughtseize
@@ -179,9 +178,10 @@
 1 Drowned Catacomb
 1 Cast Down
 1 Interplanar Beacon
+1 Fatal Push
 2 Languish
-2 Fatal Push
 2 Narset, Parter of Veils
+2 Fatal Push
 2 Thoughtseize
 2 Watery Grave
 2 Godless Shrine

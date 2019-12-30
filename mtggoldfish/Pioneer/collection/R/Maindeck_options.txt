@@ -1,17 +1,30 @@
+3 Torbran, Thane of Red Fell
+4 Runaway Steam-Kin
+1 Monastery Swiftspear
+2 Monastery Swiftspear
 3 Monastery Swiftspear
 4 Monastery Swiftspear
 1 Shock
+3 Chandra, Torch of Defiance
+1 Mutavault
+1 Kari Zev, Skyship Raider
+2 Kari Zev, Skyship Raider
+2 Mutavault
+3 Mutavault
+4 Mutavault
 1 Reckless Bushwhacker
-2 Castle Embereth
-1 Glorybringer
-2 Glorybringer
-3 Glorybringer
 1 Experimental Frenzy
 2 Experimental Frenzy
 2 Reckless Bushwhacker
 1 Fanatical Firebrand
 2 Fanatical Firebrand
 3 Fanatical Firebrand
+1 Rekindling Phoenix
+2 Rekindling Phoenix
+3 Rekindling Phoenix
+3 Kari Zev, Skyship Raider
+4 Rekindling Phoenix
+4 Glorybringer
 1 Walking Ballista
 1 Oath of Chandra
 2 Oath of Chandra
@@ -34,14 +47,7 @@
 2 Slaying Fire
 3 Slaying Fire
 3 Experimental Frenzy
-3 Chandra, Torch of Defiance
 4 Fanatical Firebrand
-1 Kari Zev, Skyship Raider
-1 Mutavault
-2 Kari Zev, Skyship Raider
-2 Mutavault
-3 Mutavault
-4 Mutavault
 2 Shock
 3 Shock
 4 Shock
@@ -49,12 +55,6 @@
 2 Mask of Immolation
 4 Experimental Frenzy
 4 Slaying Fire
-1 Rekindling Phoenix
-2 Rekindling Phoenix
-3 Rekindling Phoenix
-3 Kari Zev, Skyship Raider
-4 Rekindling Phoenix
-4 Glorybringer
 1 Wily Goblin
 2 Wily Goblin
 3 Wily Goblin
@@ -65,8 +65,8 @@
 4 Bomat Courier
 1 Mizzium Mortars
 2 Mizzium Mortars
-1 Blood Crypt
 1 Scrapheap Scrounger
+1 Blood Crypt
 1 Dragonskull Summit
 2 Blood Crypt
 2 Scrapheap Scrounger
@@ -93,16 +93,16 @@
 4 Foundry Street Denizen
 4 Goblin Instigator
 1 Scavenger Grounds
-1 Magma Jet
 1 Chandra, Flamecaller
+1 Magma Jet
 1 Chandra, Awakened Inferno
 2 Magma Jet
 3 Magma Jet
 1 Embercleave
 4 Goblin Rabblemaster
 1 Sunscorched Desert
-1 Abrade
 1 Rampaging Ferocidon
+1 Abrade
 2 Sunscorched Desert
 2 Rampaging Ferocidon
 3 Rampaging Ferocidon
@@ -115,21 +115,6 @@
 3 Blistercoil Weird
 4 Searing Blood
 4 Blistercoil Weird
-1 Legion Loyalist
-1 Dragon Fodder
-1 Stoke the Flames
-2 Legion Loyalist
-2 Stoke the Flames
-2 Dragon Fodder
-3 Legion Loyalist
-3 Reckless Bushwhacker
-3 Stoke the Flames
-3 Dragon Fodder
-4 Castle Embereth
-4 Legion Loyalist
-4 Reckless Bushwhacker
-4 Dragon Fodder
-4 Stoke the Flames
 1 Viashino Pyromancer
 1 Wizard's Lightning
 1 Ghitu Lavarunner
@@ -145,15 +130,25 @@
 4 Wizard's Lightning
 4 Ghitu Lavarunner
 4 Skewer the Critics
-1 Siege-Gang Commander
+1 Rimrock Knight
+1 Zurgo Bellstriker
+1 Ahn-Crop Crasher
+2 Zurgo Bellstriker
+2 Ahn-Crop Crasher
+2 Rimrock Knight
+3 Rimrock Knight
+3 Ahn-Crop Crasher
+4 Rimrock Knight
+4 Ahn-Crop Crasher
 1 Icon of Ancestry
+1 Siege-Gang Commander
 1 Goblin Trashmaster
 1 Goblin Cratermaker
-1 Goblin Piledriver
 1 Goblin Ringleader
 1 Volley Veteran
-1 Skirk Prospector
 1 Goblin Warchief
+1 Skirk Prospector
+1 Goblin Piledriver
 2 Goblin Trashmaster
 2 Goblin Ringleader
 2 Goblin Piledriver
@@ -168,13 +163,18 @@
 4 Skirk Prospector
 4 Goblin Ringleader
 17 Mountain
-1 Rimrock Knight
-1 Zurgo Bellstriker
-1 Ahn-Crop Crasher
-2 Zurgo Bellstriker
-2 Ahn-Crop Crasher
-2 Rimrock Knight
-3 Rimrock Knight
-3 Ahn-Crop Crasher
-4 Rimrock Knight
-4 Ahn-Crop Crasher
+1 Legion Loyalist
+1 Dragon Fodder
+1 Stoke the Flames
+2 Legion Loyalist
+2 Stoke the Flames
+2 Dragon Fodder
+3 Legion Loyalist
+3 Reckless Bushwhacker
+3 Stoke the Flames
+3 Dragon Fodder
+4 Castle Embereth
+4 Legion Loyalist
+4 Reckless Bushwhacker
+4 Stoke the Flames
+4 Dragon Fodder

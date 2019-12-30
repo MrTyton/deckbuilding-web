@@ -1,4 +1,4 @@
-1 Mutavault
+1 Chandra, Torch of Defiance
 2 Kari Zev, Skyship Raider
 2 Chandra, Torch of Defiance
 2 Mutavault
@@ -12,20 +12,20 @@
 2 Torbran, Thane of Red Fell
 1 Hazoret the Fervent
 1 Eidolon of the Great Revel
+2 Embercleave
+3 Chandra, Torch of Defiance
 1 Searing Blood
 2 Searing Blood
 2 Eidolon of the Great Revel
 3 Eidolon of the Great Revel
 4 Eidolon of the Great Revel
-3 Chandra, Torch of Defiance
 3 Mutavault
-2 Embercleave
 2 Castle Embereth
+4 Mutavault
 1 Rampaging Ferocidon
 2 Rampaging Ferocidon
 3 Rampaging Ferocidon
 4 Rampaging Ferocidon
-4 Mutavault
 1 Viashino Pyromancer
 2 Viashino Pyromancer
 3 Viashino Pyromancer
@@ -37,13 +37,13 @@
 2 Hanweir Battlements
 3 Hanweir Garrison
 4 Hanweir Garrison
+16 Mountain
 1 Smuggler's Copter
 2 Smuggler's Copter
 3 Smuggler's Copter
 4 Smuggler's Copter
 2 Hazoret the Fervent
 1 Mizzium Mortars
-16 Mountain
 4 Searing Blood
 1 Shock
 2 Shock
@@ -51,6 +51,10 @@
 2 Legion Loyalist
 3 Legion Loyalist
 4 Legion Loyalist
+1 Goblin Chainwhirler
+2 Goblin Chainwhirler
+3 Goblin Chainwhirler
+4 Goblin Chainwhirler
 1 Experimental Frenzy
 3 Shock
 4 Shock
@@ -60,10 +64,7 @@
 2 Earthshaker Khenra
 3 Earthshaker Khenra
 4 Earthshaker Khenra
-1 Goblin Chainwhirler
-2 Goblin Chainwhirler
-3 Goblin Chainwhirler
-4 Goblin Chainwhirler
+17 Mountain
 1 Runaway Steam-Kin
 2 Experimental Frenzy
 2 Runaway Steam-Kin
@@ -71,6 +72,7 @@
 1 Skullcrack
 2 Skullcrack
 1 Abbot of Keral Keep
+1 Heart of Kiran
 1 Scab-Clan Berserker
 2 Scab-Clan Berserker
 1 Chandra, Acolyte of Flame
@@ -92,4 +94,3 @@
 2 Thermo-Alchemist
 3 Thermo-Alchemist
 4 Thermo-Alchemist
-17 Mountain

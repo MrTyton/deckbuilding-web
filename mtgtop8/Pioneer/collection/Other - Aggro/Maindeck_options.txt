@@ -19,11 +19,11 @@
 1 Grisly Salvage
 1 Satyr Wayfinder
 1 Driven / Despair
-1 Gurmag Angler
 1 Narcomoeba
 1 Haunted Dead
 1 Stitcher's Supplier
 1 Prized Amalgam
+1 Gurmag Angler
 1 Creeping Chill
 2 Gather the Pack
 2 Grisly Salvage
@@ -106,8 +106,8 @@
 1 Heart of Kiran
 2 Heart of Kiran
 3 Scrapheap Scrounger
-1 Dragonskull Summit
 1 Blood Crypt
+1 Dragonskull Summit
 2 Blood Crypt
 2 Dragonskull Summit
 3 Blood Crypt
@@ -213,6 +213,10 @@
 2 Abrupt Decay
 3 Abrupt Decay
 3 Questing Beast
+1 Growth-Chamber Guardian
+2 Growth-Chamber Guardian
+3 Growth-Chamber Guardian
+4 Growth-Chamber Guardian
 1 Sylvan Caryatid
 2 Massacre Girl
 2 Sylvan Caryatid
@@ -220,14 +224,10 @@
 3 Vraska, Golgari Queen
 3 Sylvan Caryatid
 4 Watery Grave
-1 Growth-Chamber Guardian
-2 Growth-Chamber Guardian
-3 Growth-Chamber Guardian
-4 Growth-Chamber Guardian
 4 Satyr Wayfinder
 1 Rix Maadi Reveler
-1 Despise
 1 Glint-Sleeve Siphoner
+1 Despise
 1 Rakdos's Return
 1 Goblin Rabblemaster
 1 Cut / Ribbons
@@ -285,6 +285,19 @@
 4 Wild Slash
 4 Mantis Rider
 4 Judge's Familiar
+1 Vine Mare
+1 Season of Growth
+1 Cartouche of Solidarity
+1 Gryff's Boon
+2 Cartouche of Solidarity
+2 Vine Mare
+2 Season of Growth
+2 Gryff's Boon
+3 Cartouche of Solidarity
+3 Gryff's Boon
+3 Season of Growth
+4 Season of Growth
+4 Witchstalker
 1 Boros Charm
 2 Boros Charm
 1 Madcap Skills
@@ -307,19 +320,6 @@
 4 Boros Charm
 4 Voice of Resurgence
 4 Adanto Vanguard
-1 Cartouche of Solidarity
-1 Vine Mare
-1 Season of Growth
-1 Gryff's Boon
-2 Cartouche of Solidarity
-2 Vine Mare
-2 Gryff's Boon
-2 Season of Growth
-3 Cartouche of Solidarity
-3 Gryff's Boon
-3 Season of Growth
-4 Witchstalker
-4 Season of Growth
 3 Plains
 4 Plains
 5 Plains

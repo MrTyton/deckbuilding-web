@@ -21,9 +21,9 @@
 3 Aether Gust
 2 Negate
 3 Wildborn Preserver
-3 Mystical Dispute
 3 Gilded Goose
 4 Quench
+3 Mystical Dispute
 4 Hydroid Krasis
 1 Teferi, Time Raveler
 1 Hallowed Fountain
@@ -41,12 +41,6 @@
 2 Castle Garenbrig
 4 Paradise Druid
 3 Fabled Passage
-1 Watery Grave
-1 Overgrown Tomb
-2 Watery Grave
-2 Overgrown Tomb
-3 Watery Grave
-4 Watery Grave
 4 Wildborn Preserver
 1 Agent of Treachery
 1 Shimmer of Possibility
@@ -72,12 +66,6 @@
 2 Gadwick, the Wizened
 1 Wicked Wolf
 2 Wicked Wolf
-1 Tyrant's Scorn
-1 Blacklance Paragon
-1 Swamp
-2 Tyrant's Scorn
-2 Blacklance Paragon
-3 Blacklance Paragon
 1 Temple of Epiphany
 2 Temple of Epiphany
 3 Temple of Epiphany
@@ -94,11 +82,19 @@
 1 Plains
 4 Teferi, Time Raveler
 4 Opt
+1 Watery Grave
+1 Blacklance Paragon
+1 Swamp
+1 Overgrown Tomb
+1 Tyrant's Scorn
+2 Watery Grave
+2 Blacklance Paragon
+2 Tyrant's Scorn
+2 Overgrown Tomb
+3 Blacklance Paragon
+3 Watery Grave
+4 Watery Grave
 4 Mystical Dispute
-1 Noxious Grasp
-2 Noxious Grasp
-3 Overgrown Tomb
-4 Overgrown Tomb
 1 Thrashing Brontodon
 1 Leafkin Druid
 1 End-Raze Forerunners
@@ -110,6 +106,6 @@
 2 Shifting Ceratops
 2 Anticipate
 3 Negate
-3 Essence Capture
 3 Anticipate
+3 Essence Capture
 8 Island
