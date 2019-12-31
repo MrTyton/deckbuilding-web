@@ -81,7 +81,7 @@
 |                    2|[Tidehollow Sculler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=175054)   |                     |                                                                                                     |
 |                    3|[Utopia Sprawl](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442181)        |                     |                                                                                                     |
 |                    3|[Oko, Thief of Crowns](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473159) |                     |                                                                                                     |
+|                    3|[Tidehollow Sculler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=175054)   |                     |                                                                                                     |
 |                    4|[Utopia Sprawl](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442181)        |                     |                                                                                                     |
 |                    4|[Tidehollow Sculler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=175054)   |                     |                                                                                                     |
-|                    3|[Tidehollow Sculler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=175054)   |                     |                                                                                                     |
 

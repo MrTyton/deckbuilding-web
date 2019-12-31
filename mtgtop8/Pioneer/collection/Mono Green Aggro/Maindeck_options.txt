@@ -1,8 +1,26 @@
 3 Castle Garenbrig
-4 Walking Ballista
+4 Castle Garenbrig
+1 Ghalta, Primal Hunger
+2 Ghalta, Primal Hunger
 1 Gilded Goose
 2 Gilded Goose
-4 Castle Garenbrig
+1 Lovestruck Beast
+2 Lovestruck Beast
+1 The Great Henge
+1 Surrak, the Hunt Caller
+2 The Great Henge
+2 Surrak, the Hunt Caller
+3 Ghalta, Primal Hunger
+1 Yorvo, Lord of Garenbrig
+1 Rhonas the Indomitable
+2 Yorvo, Lord of Garenbrig
+4 Walking Ballista
+2 Questing Beast
+3 The Great Henge
+2 Rhonas the Indomitable
+3 Lovestruck Beast
+4 Lovestruck Beast
+3 Yorvo, Lord of Garenbrig
 1 Sanctum of Ugin
 1 Elvish Rejuvenator
 1 Shrine of the Forsaken Gods
@@ -29,24 +47,6 @@
 3 Cavalier of Thorns
 4 Nissa's Pilgrimage
 4 Elvish Rejuvenator
-1 Ghalta, Primal Hunger
-2 Ghalta, Primal Hunger
-1 Rhonas the Indomitable
-1 Lovestruck Beast
-2 Lovestruck Beast
-1 The Great Henge
-1 Surrak, the Hunt Caller
-2 The Great Henge
-2 Surrak, the Hunt Caller
-3 Ghalta, Primal Hunger
-3 The Great Henge
-1 Yorvo, Lord of Garenbrig
-2 Yorvo, Lord of Garenbrig
-2 Rhonas the Indomitable
-1 Aspect of Hydra
-2 Aspect of Hydra
-3 Aspect of Hydra
-4 Aspect of Hydra
 1 Sylvan Caryatid
 1 Whisperwood Elemental
 1 Arch of Orazca
@@ -61,20 +61,30 @@
 3 Radiant Fountain
 4 Arboreal Grazer
 3 Surrak, the Hunt Caller
-3 Lovestruck Beast
-4 Lovestruck Beast
-2 Questing Beast
-3 Yorvo, Lord of Garenbrig
-1 Hashep Oasis
-2 Hashep Oasis
+1 Aspect of Hydra
+2 Aspect of Hydra
+3 Aspect of Hydra
+4 Aspect of Hydra
+3 Questing Beast
+4 Yorvo, Lord of Garenbrig
 1 Biomass Mutation
 2 Sylvan Caryatid
+1 Rogue's Passage
+2 Rogue's Passage
+3 Rhonas the Indomitable
+3 Rogue's Passage
+4 Questing Beast
+4 Rhonas the Indomitable
+4 Rogue's Passage
 3 Ulvenwald Hydra
+1 Hashep Oasis
 1 Courser of Kruphix
+2 Hashep Oasis
 2 Courser of Kruphix
 3 Courser of Kruphix
 4 Cavalier of Thorns
 4 World Breaker
+4 Ghalta, Primal Hunger
 1 Hydroid Krasis
 1 Breeding Pool
 1 Botanical Sanctum
@@ -91,20 +101,6 @@
 1 Oblivion Sower
 1 Scavenger Grounds
 1 Westvale Abbey
-3 Questing Beast
-4 Yorvo, Lord of Garenbrig
-1 Avatar of the Resolute
-1 Experiment One
-1 Barkhide Troll
-2 Avatar of the Resolute
-2 Experiment One
-2 Barkhide Troll
-3 Avatar of the Resolute
-3 Experiment One
-3 Barkhide Troll
-4 Barkhide Troll
-4 Avatar of the Resolute
-4 Experiment One
 1 Heart of Kiran
 1 Oko, Thief of Crowns
 1 Wicked Wolf
@@ -119,10 +115,6 @@
 4 Wicked Wolf
 4 Oko, Thief of Crowns
 1 Hornet Queen
-1 Duskwatch Recruiter
-1 Syr Faren, the Hengehammer
-1 Renegade Krasis
-2 Duskwatch Recruiter
 1 Vivien, Champion of the Wilds
 2 Vivien, Champion of the Wilds
 3 Scavenging Ooze
@@ -134,40 +126,30 @@
 2 Paradise Druid
 3 Nullhide Ferox
 3 Paradise Druid
-4 Sanctum of Ugin
-1 Biogenic Ooze
-2 Biogenic Ooze
-4 Courser of Kruphix
-1 Pelt Collector
-1 Blossoming Defense
-1 Dryad Militant
-1 Wildborn Preserver
-2 Pelt Collector
-2 Blossoming Defense
-2 Dryad Militant
-2 Wildborn Preserver
-3 Pelt Collector
-3 Blossoming Defense
-3 Hashep Oasis
-3 Wildborn Preserver
-3 Dryad Militant
-4 Pelt Collector
-4 Hashep Oasis
-4 Wildborn Preserver
-4 Dryad Militant
-4 Blossoming Defense
 1 Shifting Ceratops
 2 Shifting Ceratops
 3 Shifting Ceratops
 4 The Great Henge
-4 Ghalta, Primal Hunger
-1 Rogue's Passage
-2 Rogue's Passage
-3 Rhonas the Indomitable
-3 Rogue's Passage
-4 Questing Beast
-4 Rhonas the Indomitable
-4 Rogue's Passage
+4 Sanctum of Ugin
+1 Avatar of the Resolute
+1 Duskwatch Recruiter
+1 Experiment One
+1 Syr Faren, the Hengehammer
+1 Renegade Krasis
+1 Barkhide Troll
+2 Avatar of the Resolute
+2 Duskwatch Recruiter
+2 Experiment One
+2 Barkhide Troll
+3 Avatar of the Resolute
+3 Experiment One
+3 Barkhide Troll
+4 Barkhide Troll
+4 Avatar of the Resolute
+4 Experiment One
+1 Biogenic Ooze
+2 Biogenic Ooze
+4 Courser of Kruphix
 1 Emrakul, the Promised End
 1 Sea Gate Wreckage
 2 Oblivion Sower

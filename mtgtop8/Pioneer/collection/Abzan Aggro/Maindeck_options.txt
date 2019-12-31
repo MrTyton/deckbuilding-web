@@ -1,10 +1,10 @@
-1 Vraska, Golgari Queen
-1 Grim Flayer
-2 Grim Flayer
-3 Grim Flayer
+3 Sunpetal Grove
+3 Anafenza, the Foremost
+3 Warden of the First Tree
+3 Fleecemane Lion
+4 Warden of the First Tree
+4 Fleecemane Lion
 1 Scavenging Ooze
-4 Overgrown Tomb
-4 Temple Garden
 1 Tireless Tracker
 1 Hissing Quagmire
 2 Swamp
@@ -22,8 +22,8 @@
 3 Rakshasa Deathdealer
 1 Ob Nixilis Reignited
 1 Shambling Vent
-1 Ishkanah, Grafwidow
 1 Traverse the Ulvenwald
+1 Ishkanah, Grafwidow
 1 Satyr Wayfinder
 1 Emrakul, the Promised End
 1 Courser of Kruphix
@@ -47,6 +47,19 @@
 2 Assassin's Trophy
 4 Fatal Push
 1 Castle Locthwain
+1 Collected Company
+1 Cartel Aristocrat
+1 Zulaport Cutthroat
+2 Collected Company
+2 Cartel Aristocrat
+2 Zulaport Cutthroat
+3 Collected Company
+3 Cartel Aristocrat
+3 Zulaport Cutthroat
+4 Collected Company
+4 Godless Shrine
+4 Cartel Aristocrat
+4 Zulaport Cutthroat
 1 Thalia, Heretic Cathar
 1 Murderous Cut
 1 Walking Ballista
@@ -81,8 +94,8 @@
 4 Vessel of Nascency
 1 Smuggler's Copter
 1 Witch's Oven
-1 Cauldron Familiar
 1 Archangel Avacyn
+1 Cauldron Familiar
 1 Trail of Crumbs
 1 Wicked Wolf
 1 Anguished Unmaking
@@ -122,47 +135,61 @@
 4 Fabled Passage
 4 Merfolk Branchwalker
 4 Jadelight Ranger
-1 Collected Company
 1 Unclaimed Territory
 1 Liliana, Heretical Healer
 1 Dauntless Bodyguard
 1 Thalia's Lieutenant
-1 Cartel Aristocrat
 1 Xathrid Necromancer
-1 Zulaport Cutthroat
 1 Plaguecrafter
 1 Kytheon, Hero of Akros
 1 Bloodsoaked Champion
 1 Channeler Initiate
-2 Collected Company
 2 Unclaimed Territory
 2 Liliana, Heretical Healer
 2 Dauntless Bodyguard
-2 Cartel Aristocrat
 2 Thalia's Lieutenant
 2 Xathrid Necromancer
-2 Zulaport Cutthroat
 2 Plaguecrafter
 2 Bloodsoaked Champion
 2 Kytheon, Hero of Akros
 2 Channeler Initiate
-3 Collected Company
 3 Unclaimed Territory
 3 Xathrid Necromancer
 3 Thalia's Lieutenant
 3 Dauntless Bodyguard
-3 Cartel Aristocrat
-3 Zulaport Cutthroat
 3 Channeler Initiate
 3 Plaguecrafter
 3 Liliana, Heretical Healer
 3 Bloodsoaked Champion
-4 Collected Company
 4 Unclaimed Territory
-4 Godless Shrine
 4 Thalia's Lieutenant
 4 Dauntless Bodyguard
-4 Cartel Aristocrat
-4 Zulaport Cutthroat
 4 Xathrid Necromancer
 4 Bloodsoaked Champion
+1 Westvale Abbey
+1 Voice of Resurgence
+1 Hunted Witness
+1 Cruel Celebrant
+1 Rally the Ancestors
+1 Return to the Ranks
+1 Hangarback Walker
+1 Nantuko Husk
+1 Blisterpod
+2 Voice of Resurgence
+2 Rally the Ancestors
+2 Hunted Witness
+2 Cruel Celebrant
+2 Hangarback Walker
+2 Return to the Ranks
+2 Blisterpod
+2 Nantuko Husk
+3 Hangarback Walker
+3 Voice of Resurgence
+3 Return to the Ranks
+3 Hunted Witness
+3 Blisterpod
+3 Cruel Celebrant
+4 Voice of Resurgence
+4 Hangarback Walker
+4 Cruel Celebrant
+4 Blisterpod

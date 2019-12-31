@@ -1,22 +1,38 @@
-1 Experimental Frenzy
-2 Experimental Frenzy
+2 Shock
+1 Wizard's Lightning
+2 Wizard's Lightning
 1 Searing Blood
 2 Searing Blood
+17 Mountain
+1 Chandra, Torch of Defiance
+2 Chandra, Torch of Defiance
 1 Ghitu Lavarunner
 2 Ghitu Lavarunner
 3 Wizard's Lightning
 3 Ghitu Lavarunner
 4 Wizard's Lightning
 4 Ghitu Lavarunner
-4 Bonecrusher Giant
-17 Mountain
 3 Searing Blood
 4 Searing Blood
 3 Experimental Frenzy
+1 Hazoret the Fervent
+1 Glorybringer
 1 Eidolon of the Great Revel
 2 Eidolon of the Great Revel
+1 Torbran, Thane of Red Fell
+1 Goblin Rabblemaster
+2 Goblin Rabblemaster
+1 Mutavault
+1 Kari Zev, Skyship Raider
+2 Mutavault
+2 Kari Zev, Skyship Raider
+2 Torbran, Thane of Red Fell
+2 Glorybringer
+3 Glorybringer
 3 Shock
 4 Shock
+3 Goblin Rabblemaster
+1 Viashino Pyromancer
 3 Eidolon of the Great Revel
 1 Sacred Foundry
 1 Battlefield Forge
@@ -32,40 +48,24 @@
 4 Inspiring Vantage
 4 Sacred Foundry
 4 Boros Charm
-1 Chandra, Torch of Defiance
-2 Chandra, Torch of Defiance
-1 Hazoret the Fervent
-3 Battlefield Forge
-4 Battlefield Forge
-4 Eidolon of the Great Revel
-1 Skewer the Critics
-2 Skewer the Critics
-3 Skewer the Critics
-1 Viashino Pyromancer
-1 Glorybringer
-2 Glorybringer
-3 Glorybringer
-1 Torbran, Thane of Red Fell
-1 Goblin Rabblemaster
-2 Goblin Rabblemaster
-1 Mutavault
-1 Kari Zev, Skyship Raider
-2 Mutavault
-2 Kari Zev, Skyship Raider
-2 Torbran, Thane of Red Fell
-3 Goblin Rabblemaster
-4 Experimental Frenzy
-4 Skewer the Critics
-2 Viashino Pyromancer
-3 Viashino Pyromancer
-4 Viashino Pyromancer
 2 Castle Embereth
-1 Embercleave
-2 Embercleave
 4 Goblin Rabblemaster
 3 Mutavault
 3 Chandra, Torch of Defiance
 4 Mutavault
+4 Experimental Frenzy
+2 Viashino Pyromancer
+3 Viashino Pyromancer
+4 Viashino Pyromancer
+4 Eidolon of the Great Revel
+1 Skewer the Critics
+2 Skewer the Critics
+3 Skewer the Critics
+3 Battlefield Forge
+4 Battlefield Forge
+1 Embercleave
+2 Embercleave
+3 Kari Zev, Skyship Raider
 18 Mountain
 19 Mountain
 1 Skirk Prospector
@@ -87,8 +87,10 @@
 3 Foundry Street Denizen
 3 Goblin Ringleader
 4 Goblin Instigator
-4 Skirk Prospector
 4 Foundry Street Denizen
+4 Skirk Prospector
+1 Zurgo Bellstriker
+3 Torbran, Thane of Red Fell
 4 Glorybringer
 1 Lightning Berserker
 1 Mana Confluence
@@ -97,8 +99,15 @@
 2 Exquisite Firecraft
 1 Skullcrack
 2 Skullcrack
+1 Skarrgan Hellkite
+1 Chandra, Acolyte of Flame
+2 Skarrgan Hellkite
+2 Chandra, Acolyte of Flame
+2 Zurgo Bellstriker
+3 Zurgo Bellstriker
 2 Hazoret the Fervent
 3 Hazoret the Fervent
+4 Skewer the Critics
 1 Dragon Fodder
 1 Krenko, Tin Street Kingpin
 1 Fanatical Firebrand
@@ -118,14 +127,12 @@
 1 Rekindling Phoenix
 2 Rekindling Phoenix
 3 Rekindling Phoenix
-3 Kari Zev, Skyship Raider
 4 Rekindling Phoenix
 1 Fanatic of Mogis
 1 Burning-Tree Emissary
 1 Ash Zealot
 1 Boros Reckoner
 1 Fabled Passage
-1 Zurgo Bellstriker
 1 Rakdos Cackler
 2 Fanatic of Mogis
 2 Burning-Tree Emissary
@@ -136,7 +143,6 @@
 3 Fanatic of Mogis
 3 Boros Reckoner
 3 Burning-Tree Emissary
-3 Torbran, Thane of Red Fell
 3 Rakdos Cackler
 4 Boros Reckoner
 4 Fanatic of Mogis
