@@ -9,18 +9,6 @@
 1 Elvish Mystic
 2 Elvish Mystic
 1 Brazen Borrower
-1 Tireless Tracker
-1 Lovestruck Beast
-2 Tireless Tracker
-2 Lovestruck Beast
-3 Tireless Tracker
-3 Lovestruck Beast
-4 Lovestruck Beast
-3 Breeding Pool
-1 Temple Garden
-2 Temple Garden
-3 Temple Garden
-4 Temple Garden
 1 Glacial Fortress
 1 Hallowed Fountain
 1 Spell Queller
@@ -30,12 +18,24 @@
 3 Hallowed Fountain
 3 Spell Queller
 4 Spell Queller
-1 Sunpetal Grove
-2 Sunpetal Grove
-3 Sunpetal Grove
+1 Tireless Tracker
+1 Lovestruck Beast
+2 Tireless Tracker
+2 Lovestruck Beast
+3 Tireless Tracker
+3 Lovestruck Beast
+4 Lovestruck Beast
 1 Selfless Spirit
 2 Selfless Spirit
 4 Hallowed Fountain
+3 Breeding Pool
+1 Temple Garden
+2 Temple Garden
+3 Temple Garden
+4 Temple Garden
+1 Sunpetal Grove
+2 Sunpetal Grove
+3 Sunpetal Grove
 1 Collected Company
 1 Deputy of Detention
 2 Collected Company
@@ -44,34 +44,75 @@
 3 Collected Company
 4 Collected Company
 4 Deputy of Detention
-3 Elvish Mystic
-4 Sunpetal Grove
 2 Brazen Borrower
 3 Selfless Spirit
 4 Selfless Spirit
+3 Elvish Mystic
+4 Sunpetal Grove
 4 Llanowar Elves
 2 Gilded Goose
 2 Scrapheap Scrounger
 4 Tireless Tracker
 4 Satyr Wayfinder
 1 Ashiok, Dream Render
+1 Island
+1 Plains
+2 Plains
+1 Gideon, Ally of Zendikar
+1 Reflector Mage
+1 Teferi, Time Raveler
+2 Island
+2 Teferi, Time Raveler
+2 Gideon, Ally of Zendikar
+3 Teferi, Time Raveler
+3 Gideon, Ally of Zendikar
+3 Plains
+4 Plains
+5 Plains
+1 Archangel Avacyn
+1 Charming Prince
+1 Thraben Inspector
+1 Westvale Abbey
+1 Port Town
+1 Castle Ardenvale
+1 Irrigated Farmland
+2 Port Town
+2 Irrigated Farmland
+2 Charming Prince
+2 Archangel Avacyn
+2 Reflector Mage
+2 Thraben Inspector
+3 Reflector Mage
+3 Brazen Borrower
+3 Glacial Fortress
+3 Charming Prince
+3 Archangel Avacyn
+3 Island
+3 Thraben Inspector
+4 Teferi, Time Raveler
+4 Reflector Mage
+4 Brazen Borrower
+4 Glacial Fortress
+4 Island
+4 Thraben Inspector
 1 Woodland Cemetery
-4 Breeding Pool
 2 Forest
+4 Breeding Pool
 1 Murderous Rider
 1 Fatal Push
+1 Vraska, Golgari Queen
 2 Fatal Push
 3 Fatal Push
-1 Vraska, Golgari Queen
 3 Gilded Goose
-1 Castle Locthwain
-4 Gilded Goose
-2 Murderous Rider
 1 Fabled Passage
 2 Fabled Passage
+4 Gilded Goose
+1 Castle Locthwain
+1 Mountain
+2 Murderous Rider
 1 Trail of Crumbs
-1 Witch's Oven
 1 Cauldron Familiar
+1 Witch's Oven
 1 Massacre Girl
 2 Vraska, Golgari Queen
 2 Trail of Crumbs
@@ -83,12 +124,9 @@
 4 Trail of Crumbs
 4 Cauldron Familiar
 4 Witch's Oven
-1 Island
-1 Mountain
 1 Stomping Ground
 2 Stomping Ground
 3 Stomping Ground
-1 Plains
 1 All That Glitters
 1 Gladecover Scout
 1 Ethereal Armor
@@ -105,25 +143,6 @@
 4 Unflinching Courage
 4 Ethereal Armor
 1 Abrupt Decay
-3 Scrapheap Scrounger
-1 Heart of Kiran
-2 Heart of Kiran
-1 Blood Crypt
-1 Dragonskull Summit
-2 Blood Crypt
-2 Dragonskull Summit
-3 Blood Crypt
-4 Blood Crypt
-1 Thoughtseize
-1 Kalitas, Traitor of Ghet
-2 Thoughtseize
-3 Thoughtseize
-4 Thoughtseize
-1 Wicked Wolf
-2 Wicked Wolf
-1 Yavimaya Coast
-2 Yavimaya Coast
-1 Scavenging Ooze
 1 Fortified Village
 1 Bassara Tower Archer
 1 Sixth Sense
@@ -137,18 +156,38 @@
 4 Bassara Tower Archer
 4 Sixth Sense
 4 All That Glitters
-2 Plains
+1 Yavimaya Coast
+2 Yavimaya Coast
+1 Heart of Kiran
+2 Heart of Kiran
+1 Witchstalker
+2 Witchstalker
+3 Witchstalker
 3 Forest
 4 Forest
 5 Forest
 6 Forest
-1 Witchstalker
-2 Witchstalker
-3 Witchstalker
+1 Wicked Wolf
+2 Wicked Wolf
+3 Scrapheap Scrounger
+1 Blood Crypt
+1 Dragonskull Summit
+2 Blood Crypt
+2 Dragonskull Summit
+3 Blood Crypt
+4 Blood Crypt
+1 Scavenging Ooze
+1 Sacred Foundry
+2 Sacred Foundry
 3 Murderous Rider
+1 Thoughtseize
+1 Kalitas, Traitor of Ghet
+2 Thoughtseize
+3 Thoughtseize
+4 Thoughtseize
 1 The Scarab God
-2 Castle Locthwain
-4 Fatal Push
+6 Plains
+7 Plains
 1 Bonecrusher Giant
 2 Bonecrusher Giant
 3 Bonecrusher Giant
@@ -165,24 +204,22 @@
 4 Dragonskull Summit
 5 Mountain
 6 Mountain
-1 Aether Hub
-2 Aether Hub
-3 Swamp
-4 Swamp
-5 Swamp
-6 Swamp
 1 Wild Slash
 2 Wild Slash
-1 Sacred Foundry
-2 Sacred Foundry
+1 Aether Hub
+2 Aether Hub
+1 Glorybringer
+2 Glorybringer
+1 Censor
+2 Censor
 1 Liliana, Heretical Healer
+1 Grim Haruspex
 1 Mayhem Devil
 1 Korvold, Fae-Cursed King
-1 Grim Haruspex
 2 Liliana, Heretical Healer
+2 Grim Haruspex
 2 Mayhem Devil
 2 Korvold, Fae-Cursed King
-2 Grim Haruspex
 3 Grim Haruspex
 1 Rhonas the Indomitable
 1 Vivien, Arkbow Ranger
@@ -201,29 +238,20 @@
 2 Growth-Chamber Guardian
 3 Growth-Chamber Guardian
 4 Growth-Chamber Guardian
+1 Shepherd of the Flock
+3 Port Town
+3 Irrigated Farmland
+4 Gideon, Ally of Zendikar
+4 Elvish Mystic
 1 Sylvan Caryatid
+2 Castle Locthwain
 2 Massacre Girl
 2 Sylvan Caryatid
 3 Massacre Girl
 3 Vraska, Golgari Queen
 3 Sylvan Caryatid
 4 Watery Grave
-1 Rix Maadi Reveler
-1 Glint-Sleeve Siphoner
-1 Despise
-1 Rakdos's Return
-1 Goblin Rabblemaster
-1 Cut / Ribbons
-2 Rix Maadi Reveler
-2 Despise
-2 Glint-Sleeve Siphoner
-2 Cut / Ribbons
-2 Goblin Rabblemaster
-3 Glint-Sleeve Siphoner
-3 Goblin Rabblemaster
-3 Cut / Ribbons
-4 Glint-Sleeve Siphoner
-4 Elvish Mystic
+4 Fatal Push
 1 Vine Mare
 1 Season of Growth
 1 Cartouche of Solidarity
@@ -262,16 +290,7 @@
 4 Boros Charm
 4 Voice of Resurgence
 4 Adanto Vanguard
-1 Gideon, Ally of Zendikar
-1 Glorybringer
-2 Glorybringer
-1 Reflector Mage
-1 Teferi, Time Raveler
-2 Island
-2 Teferi, Time Raveler
-2 Gideon, Ally of Zendikar
-3 Teferi, Time Raveler
-3 Gideon, Ally of Zendikar
+1 Mana Confluence
 1 Steam Vents
 2 Steam Vents
 3 Steam Vents
@@ -282,8 +301,8 @@
 1 Mantis Rider
 1 Spirebluff Canal
 1 Wandering Fumarole
-1 Turn / Burn
 1 Scorching Dragonfire
+1 Turn / Burn
 1 Spell Pierce
 1 Jeskai Charm
 1 Judge's Familiar
@@ -303,40 +322,45 @@
 4 Wild Slash
 4 Judge's Familiar
 4 Mantis Rider
-1 Mana Confluence
-3 Plains
-4 Plains
-5 Plains
-1 Shepherd of the Flock
-1 Archangel Avacyn
-1 Charming Prince
-1 Thraben Inspector
-1 Westvale Abbey
-1 Port Town
-1 Castle Ardenvale
-1 Irrigated Farmland
-2 Port Town
-2 Irrigated Farmland
-2 Charming Prince
-2 Archangel Avacyn
-2 Reflector Mage
-2 Thraben Inspector
-3 Reflector Mage
-3 Port Town
-3 Irrigated Farmland
-3 Brazen Borrower
-3 Glacial Fortress
-3 Charming Prince
-3 Archangel Avacyn
-3 Thraben Inspector
-3 Island
-4 Teferi, Time Raveler
-4 Reflector Mage
-4 Gideon, Ally of Zendikar
-4 Brazen Borrower
-4 Glacial Fortress
-4 Island
-4 Thraben Inspector
+1 Battlefield Forge
+1 Venerable Knight
+1 Mutavault
+1 Fervent Champion
+1 Inspiring Veteran
+1 Worthy Knight
+1 History of Benalia
+1 Embercleave
+1 Benalish Marshal
+1 Thalia's Lieutenant
+1 Dauntless Bodyguard
+2 Battlefield Forge
+2 Venerable Knight
+2 Inspiring Veteran
+2 Fervent Champion
+2 Worthy Knight
+2 History of Benalia
+2 Thalia's Lieutenant
+2 Embercleave
+2 Benalish Marshal
+2 Dauntless Bodyguard
+3 Battlefield Forge
+3 Venerable Knight
+3 Inspiring Veteran
+3 Fervent Champion
+3 History of Benalia
+3 Worthy Knight
+3 Benalish Marshal
+3 Dauntless Bodyguard
+3 Thalia's Lieutenant
+4 Battlefield Forge
+4 Venerable Knight
+4 Fervent Champion
+4 Inspiring Veteran
+4 Worthy Knight
+4 History of Benalia
+4 Benalish Marshal
+4 Dauntless Bodyguard
+4 Thalia's Lieutenant
 1 Stubborn Denial
 1 Aqueous Form
 1 Oppressive Rays
@@ -395,87 +419,25 @@
 4 Rogue Refiner
 4 Whirler Virtuoso
 4 Attune with Aether
-1 Mutavault
-1 Gifted Aetherborn
-1 Champion of Dusk
-1 Sorin, Imperious Bloodlord
-1 Dusk Legion Zealot
-1 Urborg, Tomb of Yawgmoth
-1 Concealed Courtyard
-1 Blood Baron of Vizkopa
-1 Liliana, the Last Hope
-1 Caves of Koilos
-1 Knight of the Ebon Legion
-1 Grasp of Darkness
-1 Godless Shrine
-1 Shambling Vent
-2 Gifted Aetherborn
-2 Sorin, Imperious Bloodlord
-2 Champion of Dusk
-2 Dusk Legion Zealot
-2 Mutavault
-2 Concealed Courtyard
-2 Blood Baron of Vizkopa
-2 Kalitas, Traitor of Ghet
-2 Knight of the Ebon Legion
-2 Godless Shrine
-2 Caves of Koilos
-2 Shambling Vent
-3 Champion of Dusk
-3 Sorin, Imperious Bloodlord
-3 Gifted Aetherborn
-3 Blood Baron of Vizkopa
-3 Concealed Courtyard
-3 Godless Shrine
-3 Castle Locthwain
-3 Knight of the Ebon Legion
-4 Sorin, Imperious Bloodlord
-4 Champion of Dusk
-4 Gifted Aetherborn
-4 Concealed Courtyard
-4 Godless Shrine
-4 Knight of the Ebon Legion
-7 Swamp
-1 Battlefield Forge
-1 Venerable Knight
-1 Worthy Knight
-1 Inspiring Veteran
-1 Fervent Champion
-1 History of Benalia
-1 Embercleave
-1 Benalish Marshal
-1 Thalia's Lieutenant
-1 Dauntless Bodyguard
-2 Battlefield Forge
-2 Venerable Knight
-2 Worthy Knight
-2 Inspiring Veteran
-2 Fervent Champion
-2 History of Benalia
-2 Thalia's Lieutenant
-2 Embercleave
-2 Benalish Marshal
-2 Dauntless Bodyguard
-3 Battlefield Forge
-3 Venerable Knight
-3 History of Benalia
-3 Worthy Knight
-3 Inspiring Veteran
-3 Fervent Champion
-3 Benalish Marshal
-3 Dauntless Bodyguard
-3 Thalia's Lieutenant
-4 Battlefield Forge
-4 Venerable Knight
-4 History of Benalia
-4 Worthy Knight
-4 Fervent Champion
-4 Inspiring Veteran
-4 Benalish Marshal
-4 Dauntless Bodyguard
-4 Thalia's Lieutenant
-6 Plains
-7 Plains
+1 Rix Maadi Reveler
+1 Glint-Sleeve Siphoner
+1 Despise
+1 Rakdos's Return
+1 Goblin Rabblemaster
+1 Cut / Ribbons
+2 Rix Maadi Reveler
+2 Despise
+2 Glint-Sleeve Siphoner
+2 Cut / Ribbons
+2 Goblin Rabblemaster
+3 Glint-Sleeve Siphoner
+3 Goblin Rabblemaster
+3 Swamp
+3 Cut / Ribbons
+4 Glint-Sleeve Siphoner
+4 Swamp
+5 Swamp
+6 Swamp
 1 Canyon Slough
 1 Bomat Courier
 1 Chandra, Acolyte of Flame
@@ -483,8 +445,8 @@
 1 Unlicensed Disintegration
 1 Goblin Chainwhirler
 2 Bomat Courier
-2 Unlicensed Disintegration
 2 Goblin Chainwhirler
+2 Unlicensed Disintegration
 2 Foreboding Ruins
 2 Stonecoil Serpent
 3 Glorybringer
@@ -495,9 +457,9 @@
 3 Goblin Chainwhirler
 3 Unlicensed Disintegration
 3 Foreboding Ruins
-4 Goblin Chainwhirler
 4 Chandra, Torch of Defiance
 4 Foreboding Ruins
+4 Goblin Chainwhirler
 4 Bomat Courier
 4 Scrapheap Scrounger
 4 Unlicensed Disintegration

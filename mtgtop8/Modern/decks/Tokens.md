@@ -34,6 +34,6 @@
 |                    3|[Force of Vigor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464113)  |                     |              |
 |                    3|[Launch the Fleet](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=380449)|                     |              |
 |                    4|[Force of Vigor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464113)  |                     |              |
-|                    8|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)          |                     |              |
 |                    4|[Launch the Fleet](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=380449)|                     |              |
+|                    8|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)          |                     |              |
 

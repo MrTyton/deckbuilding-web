@@ -36,6 +36,6 @@
 |                    4|[Vault Skirge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=217984)       |                    2|[Beast Within](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446158)        |
 |                    1|[Blast Zone](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461171)         |                    3|[Spellskite](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397743)          |
 |                    1|[Wastes](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407694)             |                     |                                                                                               |
-|                    4|[Lotus Petal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420602)        |                     |                                                                                               |
 |                    2|[Blast Zone](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461171)         |                     |                                                                                               |
+|                    4|[Lotus Petal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420602)        |                     |                                                                                               |
 

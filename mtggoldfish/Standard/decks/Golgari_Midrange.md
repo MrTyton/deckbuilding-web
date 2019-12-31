@@ -52,6 +52,6 @@
 |                    3|[Leyline Prowler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461129)            |                     |                                                                                              |
 |                    4|[Leyline Prowler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461129)            |                     |                                                                                              |
 |                    7|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)                     |                     |                                                                                              |
-|                    9|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)                     |                     |                                                                                              |
 |                    8|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)                     |                     |                                                                                              |
+|                    9|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)                     |                     |                                                                                              |
 

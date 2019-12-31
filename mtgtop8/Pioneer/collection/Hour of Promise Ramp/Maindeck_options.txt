@@ -42,24 +42,24 @@
 3 Oblivion Sower
 3 Radiant Fountain
 4 Shrine of the Forsaken Gods
-4 Hashep Oasis
 4 Radiant Fountain
+4 Hashep Oasis
 4 Spatial Contortion
 1 Crumbling Vestige
 1 Tireless Tracker
 2 Tireless Tracker
 3 Tireless Tracker
 1 Urborg, Tomb of Yawgmoth
-1 Temple of Malady
-1 Castle Locthwain
 1 Hissing Quagmire
-1 Abrupt Decay
+1 Temple of Malady
 1 Woodland Cemetery
-1 Blooming Marsh
 1 Overgrown Tomb
+1 Blooming Marsh
+1 Abrupt Decay
 1 Ifnir Deadlands
 1 Fatal Push
 1 Swamp
+1 Castle Locthwain
 2 Overgrown Tomb
 2 Abrupt Decay
 2 Fatal Push
@@ -89,8 +89,8 @@
 2 Settle the Wreckage
 2 Plains
 1 Courser of Kruphix
-1 Sheltered Thicket
 1 Llanowar Elves
+1 Sheltered Thicket
 1 Sea Gate Wreckage
 1 Cascading Cataracts
 2 Blast Zone
@@ -105,9 +105,9 @@
 2 Brazen Borrower
 1 Nissa, Vastwood Seer
 2 Fabled Passage
-1 Ipnu Rivulet
-1 Agent of Treachery
 1 Fumigate
+1 Agent of Treachery
+1 Ipnu Rivulet
 1 Shefet Dunes
 2 Hallowed Fountain
 2 Hydroid Krasis
@@ -115,9 +115,9 @@
 2 Island
 2 Temple Garden
 2 Breeding Pool
+3 Island
 3 Settle the Wreckage
 3 Hydroid Krasis
-3 Island
 3 Fumigate
 2 Legion's End
 4 Fatal Push
@@ -125,18 +125,18 @@
 1 Chandra, Flamecaller
 1 Golos, Tireless Pilgrim
 1 Rakdos Guildgate
+1 Gruul Guildgate
+1 Golgari Guildgate
 1 Azorius Guildgate
 1 Orzhov Guildgate
 1 Simic Guildgate
+1 Boros Guildgate
 1 Izzet Guildgate
 1 Gateway Plaza
-1 Golgari Guildgate
 1 Gates Ablaze
 1 Maze's End
 1 Selesnya Guildgate
 1 Nissa, Vital Force
-1 Boros Guildgate
-1 Gruul Guildgate
 1 Dimir Guildgate
 1 Chandra, Awakened Inferno
 1 Circuitous Route
@@ -145,15 +145,15 @@
 2 Golos, Tireless Pilgrim
 2 Gates Ablaze
 2 Simic Guildgate
-2 Maze's End
 2 Gruul Guildgate
+2 Maze's End
 2 Circuitous Route
 2 Nissa, Vital Force
 2 Chandra, Awakened Inferno
-3 Chandra, Awakened Inferno
 3 Oko, Thief of Crowns
 3 Gruul Guildgate
 3 Simic Guildgate
 3 Circuitous Route
+3 Chandra, Awakened Inferno
 4 Circuitous Route
 8 Forest

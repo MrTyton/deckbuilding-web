@@ -25,3 +25,11 @@
 |1 [Skarrgan Hellkite](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457258)  |                                                                                        |                                                                                  |                                                                                      |
 |3 [Thrashing Brontodon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456570)|                                                                                        |                                                                                  |                                                                                      |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                      Maindeck Card                                       |*n*<sup>th</sup> copy|                                           Sideboard Card                                           |
+|--------------------:|------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------------|
+|                    8|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)       |                    1|[Chandra, Awakened Inferno](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466881)|
+|                    4|[Zhur-Taa Goblin](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457359)|                    2|[Chandra, Awakened Inferno](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466881)|
+

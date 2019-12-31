@@ -36,8 +36,8 @@
 
 |*n*<sup>th</sup> copy|                                          Maindeck Card                                          |*n*<sup>th</sup> copy|Sideboard Card|
 |--------------------:|-------------------------------------------------------------------------------------------------|---------------------|--------------|
-|                    1|[Dragonlord Ojutai](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394549)     |                     |              |
 |                    1|[Disallow](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423698)              |                     |              |
+|                    1|[Dragonlord Ojutai](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394549)     |                     |              |
 |                    1|[Silumgar's Scorn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394706)      |                     |              |
 |                    1|[Foul-Tongue Invocation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394577)|                     |              |
 |                    2|[Dragonlord Silumgar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394550)   |                     |              |
