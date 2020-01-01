@@ -39,21 +39,21 @@
 4 Spawn of Mayhem
 1 Cast Down
 2 Cast Down
-1 Diregraf Colossus
-1 Cryptbreaker
 1 Dark Salvation
 1 Liliana, Untouched by Death
 1 Lord of the Accursed
-2 Cryptbreaker
-2 Diregraf Colossus
+1 Diregraf Colossus
+1 Cryptbreaker
 2 Dark Salvation
+2 Diregraf Colossus
+2 Cryptbreaker
 3 Dark Salvation
-3 Cryptbreaker
 3 Diregraf Colossus
+3 Cryptbreaker
 4 Diregraf Colossus
 4 Cryptbreaker
-1 Sign in Blood
 1 Ob Nixilis Reignited
+1 Sign in Blood
 1 Liliana's Triumph
 1 Oath of Liliana
 1 Gonti, Lord of Luxury
@@ -62,9 +62,9 @@
 2 Oath of Liliana
 2 Gonti, Lord of Luxury
 2 Liliana's Triumph
-2 Ob Nixilis Reignited
-2 Sign in Blood
 2 Liliana, Death's Majesty
+2 Sign in Blood
+2 Ob Nixilis Reignited
 2 Nykthos, Shrine to Nyx
 2 Liliana, the Last Hope
 1 Night Market Lookout
@@ -78,28 +78,13 @@
 2 Legion's End
 3 Pack Rat
 4 Pack Rat
-1 Sanctum Seeker
-2 Sanctum Seeker
-3 Sanctum Seeker
-4 Sanctum Seeker
-1 Relentless Dead
-1 Risen Executioner
-1 Lazotep Reaver
-2 Relentless Dead
-2 Risen Executioner
-2 Lazotep Reaver
-3 Risen Executioner
-3 Relentless Dead
-4 Dark Salvation
-4 Risen Executioner
-4 Relentless Dead
 1 Graveyard Marshal
 1 Diregraf Ghoul
 1 Liliana's Mastery
 2 Graveyard Marshal
 2 Diregraf Ghoul
-2 Lord of the Accursed
 2 Liliana's Mastery
+2 Lord of the Accursed
 3 Graveyard Marshal
 3 Liliana's Mastery
 3 Diregraf Ghoul
@@ -107,6 +92,21 @@
 4 Graveyard Marshal
 4 Diregraf Ghoul
 4 Lord of the Accursed
+1 Sanctum Seeker
+2 Sanctum Seeker
+3 Sanctum Seeker
+4 Sanctum Seeker
+1 Relentless Dead
+1 Lazotep Reaver
+1 Risen Executioner
+2 Lazotep Reaver
+2 Relentless Dead
+2 Risen Executioner
+3 Risen Executioner
+3 Relentless Dead
+4 Dark Salvation
+4 Risen Executioner
+4 Relentless Dead
 1 Liliana, Heretical Healer
 1 Kitesail Freebooter
 2 Kitesail Freebooter

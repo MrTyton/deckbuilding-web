@@ -12,6 +12,8 @@
 1 Runaway Steam-Kin
 2 Runaway Steam-Kin
 3 Runaway Steam-Kin
+1 Mizzium Mortars
+1 Scavenger Grounds
 4 Runaway Steam-Kin
 1 Experimental Frenzy
 2 Experimental Frenzy
@@ -30,9 +32,7 @@
 3 Boros Reckoner
 3 Fanatic of Mogis
 4 Boros Reckoner
-1 Mizzium Mortars
 1 Shock
-1 Scavenger Grounds
 3 Experimental Frenzy
 1 Fanatical Firebrand
 2 Fanatical Firebrand
@@ -48,6 +48,8 @@
 3 Wily Goblin
 4 Wily Goblin
 4 Fanatic of Mogis
+1 Bomat Courier
+2 Bomat Courier
 2 Mizzium Mortars
 4 Experimental Frenzy
 1 Slaying Fire
@@ -58,19 +60,17 @@
 2 Mask of Immolation
 3 Mizzium Mortars
 4 Mizzium Mortars
-1 Bomat Courier
-2 Bomat Courier
 3 Bomat Courier
 4 Slaying Fire
 1 Abrade
 1 Embercleave
 1 Goblin Rabblemaster
 2 Goblin Rabblemaster
-1 Scrapheap Scrounger
 1 Blood Crypt
+1 Scrapheap Scrounger
 1 Dragonskull Summit
-2 Scrapheap Scrounger
 2 Blood Crypt
+2 Scrapheap Scrounger
 2 Dragonskull Summit
 3 Scrapheap Scrounger
 3 Blood Crypt
@@ -90,12 +90,12 @@
 4 Light Up the Stage
 3 Goblin Rabblemaster
 4 Goblin Rabblemaster
-1 Foundry Street Denizen
 1 Legion Warboss
+1 Foundry Street Denizen
 1 Goblin Instigator
 1 Skirk Prospector
-2 Foundry Street Denizen
 2 Legion Warboss
+2 Foundry Street Denizen
 2 Skirk Prospector
 2 Goblin Instigator
 3 Foundry Street Denizen
@@ -108,6 +108,8 @@
 2 Embercleave
 1 Searing Blood
 2 Searing Blood
+1 Battlefield Forge
+2 Battlefield Forge
 1 Purphoros, God of the Forge
 2 Purphoros, God of the Forge
 1 Thermo-Alchemist
@@ -118,10 +120,10 @@
 1 Chandra, Awakened Inferno
 2 Magma Jet
 3 Magma Jet
-1 Sunscorched Desert
 1 Rampaging Ferocidon
-2 Sunscorched Desert
+1 Sunscorched Desert
 2 Rampaging Ferocidon
+2 Sunscorched Desert
 3 Rampaging Ferocidon
 4 Rampaging Ferocidon
 4 Bomat Courier

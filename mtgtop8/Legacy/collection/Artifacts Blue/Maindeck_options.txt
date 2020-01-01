@@ -1,12 +1,12 @@
-4 Snow-Covered Island
-5 Snow-Covered Island
-6 Snow-Covered Island
-1 Cavern of Souls
-1 Defense Grid
 2 Cavern of Souls
+3 Cavern of Souls
+1 Island
+2 Island
+3 Island
+4 Urza's Bauble
+1 Defense Grid
 2 Defense Grid
 2 Sai, Master Thopterist
-3 Cavern of Souls
 4 Island
 5 Island
 6 Island
@@ -48,6 +48,7 @@
 4 Arcum's Astrolabe
 4 Brainstorm
 1 Teferi, Time Raveler
+1 Gilded Goose
 1 Tundra
 1 Flooded Strand
 1 Sylvan Library
@@ -60,7 +61,6 @@
 1 Windswept Heath
 1 Wasteland
 1 Stoneforge Mystic
-1 Gilded Goose
 1 True-Name Nemesis
 1 Forest
 2 Tundra
@@ -86,6 +86,7 @@
 4 Misty Rainforest
 4 Swords to Plowshares
 4 Wasteland
+4 Cavern of Souls
 1 Karakas
 1 Vault of Whispers
 2 Vault of Whispers
@@ -95,8 +96,8 @@
 1 Snow-Covered Swamp
 1 Prismatic Vista
 1 Nihil Spellbomb
-1 Abrupt Decay
 1 Engineered Explosives
+1 Abrupt Decay
 1 Aether Spellbomb
 2 Abrupt Decay
 2 Engineered Explosives

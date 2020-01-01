@@ -111,16 +111,16 @@
 1 Mountain
 2 Murderous Rider
 1 Trail of Crumbs
-1 Cauldron Familiar
 1 Witch's Oven
+1 Cauldron Familiar
 1 Massacre Girl
 2 Vraska, Golgari Queen
 2 Trail of Crumbs
-2 Cauldron Familiar
 2 Witch's Oven
-3 Witch's Oven
+2 Cauldron Familiar
 3 Trail of Crumbs
 3 Cauldron Familiar
+3 Witch's Oven
 4 Trail of Crumbs
 4 Cauldron Familiar
 4 Witch's Oven
@@ -170,8 +170,8 @@
 1 Wicked Wolf
 2 Wicked Wolf
 3 Scrapheap Scrounger
-1 Blood Crypt
 1 Dragonskull Summit
+1 Blood Crypt
 2 Blood Crypt
 2 Dragonskull Summit
 3 Blood Crypt
@@ -200,8 +200,8 @@
 2 Mountain
 3 Dragonskull Summit
 3 Mountain
-4 Mountain
 4 Dragonskull Summit
+4 Mountain
 5 Mountain
 6 Mountain
 1 Wild Slash
@@ -252,19 +252,6 @@
 3 Sylvan Caryatid
 4 Watery Grave
 4 Fatal Push
-1 Vine Mare
-1 Season of Growth
-1 Cartouche of Solidarity
-1 Gryff's Boon
-2 Cartouche of Solidarity
-2 Vine Mare
-2 Season of Growth
-2 Gryff's Boon
-3 Cartouche of Solidarity
-3 Gryff's Boon
-3 Season of Growth
-4 Season of Growth
-4 Witchstalker
 4 Stomping Ground
 3 Sacred Foundry
 4 Sacred Foundry
@@ -322,6 +309,19 @@
 4 Wild Slash
 4 Judge's Familiar
 4 Mantis Rider
+1 Cartouche of Solidarity
+1 Vine Mare
+1 Season of Growth
+1 Gryff's Boon
+2 Cartouche of Solidarity
+2 Vine Mare
+2 Gryff's Boon
+2 Season of Growth
+3 Cartouche of Solidarity
+3 Gryff's Boon
+3 Season of Growth
+4 Witchstalker
+4 Season of Growth
 1 Battlefield Forge
 1 Venerable Knight
 1 Mutavault

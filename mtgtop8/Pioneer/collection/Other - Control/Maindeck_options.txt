@@ -34,8 +34,8 @@
 1 Kolaghan's Command
 1 Dreadbore
 2 Dreadbore
-1 Dragonskull Summit
 1 Blood Crypt
+1 Dragonskull Summit
 2 Blood Crypt
 2 Hero's Downfall
 1 Mountain
@@ -48,6 +48,7 @@
 3 Murderous Rider
 1 Assassin's Trophy
 1 Nissa's Pilgrimage
+1 Sign in Blood
 1 Temple of Malady
 1 Tireless Tracker
 1 Seasons Past
@@ -55,7 +56,6 @@
 1 Dark Petition
 1 Hissing Quagmire
 1 Read the Bones
-1 Sign in Blood
 2 Temple of Malady
 2 Assassin's Trophy
 2 Dark Petition
@@ -158,8 +158,8 @@
 2 Temple of Epiphany
 1 Sulfur Falls
 2 Sulfur Falls
-2 Dragonskull Summit
 2 Kolaghan's Command
+2 Dragonskull Summit
 1 The Royal Scions
 2 Mountain
 3 Blood Crypt
@@ -230,30 +230,30 @@
 4 Dragonlord Ojutai
 4 Silumgar's Scorn
 3 Plains
-1 Mortify
 1 Westvale Abbey
 1 Sorin, Grim Nemesis
-1 Secure the Wastes
 1 Yahenni's Expertise
+1 Secure the Wastes
 1 Duress
 1 Transgress the Mind
 1 Blighted Fen
 1 Ifnir Deadlands
+1 Mortify
 1 Archangel Avacyn
 1 Lyra Dawnbringer
 2 Mortify
 2 Westvale Abbey
 2 Duress
 2 Transgress the Mind
-2 Grasp of Darkness
 2 Sorin, Grim Nemesis
 2 Ifnir Deadlands
 2 Archangel Avacyn
 2 Ob Nixilis Reignited
 2 Blighted Fen
-3 Grasp of Darkness
+2 Grasp of Darkness
 3 Transgress the Mind
 3 Ob Nixilis Reignited
+3 Grasp of Darkness
 4 Grasp of Darkness
 1 Gonti, Lord of Luxury
 1 Lovestruck Beast
@@ -370,10 +370,10 @@
 3 Isolated Chapel
 3 Gideon, Ally of Zendikar
 3 Kaya's Wrath
-4 Gideon, Ally of Zendikar
 4 Heart of Kiran
 4 Field of Ruin
 4 Kaya's Wrath
+4 Gideon, Ally of Zendikar
 4 Gideon of the Trials
 1 Hydroid Krasis
 1 Gadwick, the Wizened
@@ -412,8 +412,8 @@
 1 Bontu's Last Reckoning
 1 Mastermind's Acquisition
 1 Gaze of Granite
-1 Nissa, Vastwood Seer
 1 Ugin, the Spirit Dragon
+1 Nissa, Vastwood Seer
 2 Nissa's Pilgrimage
 2 Tireless Tracker
 7 Forest
@@ -443,8 +443,8 @@
 3 Sarkhan, Fireblood
 3 Mountain
 3 Haven of the Spirit Dragon
-4 Anger of the Gods
 4 Castle Embereth
+4 Anger of the Gods
 4 Magma Spray
 4 Glorybringer
 4 Draconic Roar
