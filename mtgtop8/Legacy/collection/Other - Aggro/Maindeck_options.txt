@@ -1,3 +1,8 @@
+1 Liliana's Triumph
+1 Angrath's Rampage
+1 Snapcaster Mage
+1 Volcanic Island
+1 Drown in the Loch
 1 Jace, the Mind Sculptor
 1 Lightning Bolt
 1 Badlands
@@ -11,13 +16,10 @@
 2 Kolaghan's Command
 3 Snapcaster Mage
 3 Kolaghan's Command
-1 Spell Pierce
 1 Commandeer
 1 Gurmag Angler
-2 Spell Pierce
 2 Underground Sea
 2 Bloodstained Mire
-2 Brazen Borrower
 2 Scalding Tarn
 2 Gurmag Angler
 2 Fatal Push
@@ -27,21 +29,25 @@
 1 Changeling Outcast
 1 Murderous Cut
 2 Force of Negation
-2 Daze
 2 Changeling Outcast
 3 Swamp
 3 Changeling Outcast
-3 Daze
 4 Changeling Outcast
-4 Ingenious Infiltrator
 4 Ornithopter
 4 Yuriko, the Tiger's Shadow
+4 Ingenious Infiltrator
 1 Wasteland
+2 Wasteland
+1 True-Name Nemesis
+2 True-Name Nemesis
+2 Flooded Strand
+3 Flooded Strand
+3 Wasteland
+4 Wasteland
 1 Marsh Flats
 1 Karakas
 1 Plains
 1 Swords to Plowshares
-2 Wasteland
 2 Swords to Plowshares
 3 Swords to Plowshares
 4 Swords to Plowshares
@@ -63,11 +69,11 @@
 1 Ramunap Excavator
 1 Gaddock Teeg
 1 Tireless Tracker
+1 Birds of Paradise
 1 Green Sun's Zenith
 1 Dryad Arbor
 1 Windswept Heath
 1 Savannah
-1 Birds of Paradise
 1 Forest
 2 Thalia, Guardian of Thraben
 2 Stoneforge Mystic
@@ -75,12 +81,11 @@
 2 Giver of Runes
 2 Noble Hierarch
 2 Verdant Catacombs
-2 Savannah
 2 Windswept Heath
 2 Green Sun's Zenith
+2 Savannah
 2 Forest
 3 Thalia, Guardian of Thraben
-3 Wasteland
 3 Noble Hierarch
 3 Giver of Runes
 3 Knight of the Reliquary
@@ -91,7 +96,6 @@
 3 Windswept Heath
 4 Giver of Runes
 4 Knight of the Reliquary
-4 Wasteland
 4 Windswept Heath
 4 Green Sun's Zenith
 4 Noble Hierarch
@@ -101,7 +105,6 @@
 1 Scrubland
 1 Tundra
 1 Tomik, Distinguished Advokist
-1 True-Name Nemesis
 1 Remorseful Cleric
 1 Mother of Runes
 1 Weathered Wayfarer
@@ -112,15 +115,12 @@
 1 Recruiter of the Guard
 1 Soulherder
 2 Tundra
-2 True-Name Nemesis
 2 Marsh Flats
 2 Aether Vial
 2 Recruiter of the Guard
 2 Soulherder
 2 Meddling Mage
 2 Mother of Runes
-2 Flooded Strand
-3 Flooded Strand
 3 Recruiter of the Guard
 3 Meddling Mage
 3 Mother of Runes
@@ -130,19 +130,44 @@
 4 Aether Vial
 4 Meddling Mage
 4 Recruiter of the Guard
+1 Stifle
+1 Misty Rainforest
+1 Pteramander
+1 Delver of Secrets
+1 Curious Obsession
+2 Misty Rainforest
+2 Stifle
+2 Pteramander
+2 Curious Obsession
+2 Delver of Secrets
+3 Spell Pierce
+3 Stifle
+3 True-Name Nemesis
+3 Pteramander
+3 Delver of Secrets
+3 Curious Obsession
+4 Spell Pierce
+4 Stifle
+4 True-Name Nemesis
+4 Curious Obsession
+4 Pteramander
+4 Delver of Secrets
+4 Daze
+5 Island
+6 Island
 1 Chandra, Torch of Defiance
 1 Simian Spirit Guide
 1 Red Elemental Blast
 1 Blood Moon
 1 Imperial Recruiter
-1 Pyroblast
-1 Ensnaring Bridge
 1 Painter's Servant
 1 Goblin Welder
 1 Ichor Wellspring
 1 Karn, the Great Creator
 1 Ancient Tomb
 1 Goblin Engineer
+1 Ensnaring Bridge
+1 Pyroblast
 1 Smuggler's Copter
 1 Great Furnace
 1 City of Traitors
@@ -154,33 +179,33 @@
 2 Red Elemental Blast
 2 Blood Moon
 2 Grindstone
-2 Karn, the Great Creator
-2 City of Traitors
 2 Goblin Welder
 2 Smuggler's Copter
 2 Ancient Tomb
 2 Painter's Servant
 2 Great Furnace
 2 Goblin Engineer
+2 City of Traitors
+2 Karn, the Great Creator
 2 Lotus Petal
 2 Imperial Recruiter
 3 Mountain
 3 Simian Spirit Guide
 3 Pyroblast
 3 Blood Moon
+3 Karn, the Great Creator
 3 Ancient Tomb
 3 Great Furnace
 3 Grindstone
 3 City of Traitors
-3 Karn, the Great Creator
 3 Goblin Welder
 3 Painter's Servant
 3 Goblin Engineer
 4 Mountain
 4 Simian Spirit Guide
+4 Pyroblast
 4 Goblin Engineer
 4 Karn, the Great Creator
-4 Pyroblast
 4 Blood Moon
 4 Ancient Tomb
 5 Mountain

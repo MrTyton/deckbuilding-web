@@ -1,35 +1,37 @@
-3 Castle Garenbrig
-4 Castle Garenbrig
-1 Ghalta, Primal Hunger
-2 Ghalta, Primal Hunger
-1 Gilded Goose
-2 Gilded Goose
 1 Lovestruck Beast
 2 Lovestruck Beast
-1 The Great Henge
-1 Surrak, the Hunt Caller
-2 The Great Henge
-2 Surrak, the Hunt Caller
-3 Ghalta, Primal Hunger
-1 Rhonas the Indomitable
+3 Castle Garenbrig
+1 Ghalta, Primal Hunger
 1 Yorvo, Lord of Garenbrig
+1 Rhonas the Indomitable
+2 Ghalta, Primal Hunger
 2 Yorvo, Lord of Garenbrig
-4 Walking Ballista
-2 Questing Beast
-3 The Great Henge
+1 Gilded Goose
+2 Gilded Goose
+1 Surrak, the Hunt Caller
+2 Surrak, the Hunt Caller
 2 Rhonas the Indomitable
+3 Ghalta, Primal Hunger
 3 Lovestruck Beast
 4 Lovestruck Beast
+4 Castle Garenbrig
+4 Walking Ballista
+1 The Great Henge
+2 The Great Henge
+1 Aspect of Hydra
+2 Aspect of Hydra
+3 Aspect of Hydra
+4 Aspect of Hydra
 3 Yorvo, Lord of Garenbrig
-1 Sanctum of Ugin
-1 Ugin, the Spirit Dragon
-1 Elvish Rejuvenator
 1 Shrine of the Forsaken Gods
+1 Sanctum of Ugin
+1 Elvish Rejuvenator
+1 Nissa's Pilgrimage
 1 World Breaker
 1 Cavalier of Thorns
 1 Radiant Fountain
+1 Ugin, the Spirit Dragon
 1 Ulamog, the Ceaseless Hunger
-1 Nissa's Pilgrimage
 2 Shrine of the Forsaken Gods
 2 Ugin, the Spirit Dragon
 2 Sanctum of Ugin
@@ -49,42 +51,6 @@
 4 Elvish Rejuvenator
 1 Sylvan Caryatid
 1 Whisperwood Elemental
-1 Arch of Orazca
-1 Ulvenwald Hydra
-2 Ulvenwald Hydra
-3 Sanctum of Ugin
-4 Shrine of the Forsaken Gods
-1 Arboreal Grazer
-1 Blast Zone
-2 Arboreal Grazer
-3 Arboreal Grazer
-3 Radiant Fountain
-4 Arboreal Grazer
-3 Surrak, the Hunt Caller
-1 Aspect of Hydra
-2 Aspect of Hydra
-3 Aspect of Hydra
-4 Aspect of Hydra
-3 Questing Beast
-4 Yorvo, Lord of Garenbrig
-1 Biomass Mutation
-2 Sylvan Caryatid
-1 Rogue's Passage
-2 Rogue's Passage
-3 Rhonas the Indomitable
-3 Rogue's Passage
-4 Questing Beast
-4 Rhonas the Indomitable
-4 Rogue's Passage
-3 Ulvenwald Hydra
-1 Hashep Oasis
-1 Courser of Kruphix
-2 Hashep Oasis
-2 Courser of Kruphix
-3 Courser of Kruphix
-4 Cavalier of Thorns
-4 World Breaker
-4 Ghalta, Primal Hunger
 1 Hydroid Krasis
 1 Breeding Pool
 1 Botanical Sanctum
@@ -98,9 +64,47 @@
 3 Hydroid Krasis
 4 Hydroid Krasis
 4 Breeding Pool
+1 Arch of Orazca
+1 Ulvenwald Hydra
+2 Ulvenwald Hydra
+3 Sanctum of Ugin
+4 Shrine of the Forsaken Gods
+1 Arboreal Grazer
+1 Blast Zone
+2 Arboreal Grazer
+3 Arboreal Grazer
+3 Radiant Fountain
+4 Arboreal Grazer
+1 Hashep Oasis
+2 Hashep Oasis
+3 Surrak, the Hunt Caller
+3 The Great Henge
+2 Questing Beast
+4 Ghalta, Primal Hunger
+4 Yorvo, Lord of Garenbrig
+1 Biomass Mutation
+2 Sylvan Caryatid
+1 Rogue's Passage
+2 Rogue's Passage
+3 Questing Beast
+3 Rhonas the Indomitable
+3 Rogue's Passage
+4 Questing Beast
+4 Rhonas the Indomitable
+4 Rogue's Passage
+3 Ulvenwald Hydra
+1 Courser of Kruphix
+2 Courser of Kruphix
+3 Courser of Kruphix
+4 Cavalier of Thorns
+4 World Breaker
 1 Oblivion Sower
 1 Scavenger Grounds
 1 Westvale Abbey
+4 Botanical Sanctum
+1 Duskwatch Recruiter
+2 Duskwatch Recruiter
+1 Syr Faren, the Hengehammer
 1 Heart of Kiran
 1 Oko, Thief of Crowns
 1 Wicked Wolf
@@ -111,21 +115,16 @@
 3 Gilded Goose
 3 Oko, Thief of Crowns
 4 Gilded Goose
-4 Botanical Sanctum
 4 Wicked Wolf
 4 Oko, Thief of Crowns
 1 Hornet Queen
 1 Vivien, Champion of the Wilds
 2 Vivien, Champion of the Wilds
 3 Scavenging Ooze
-1 Nullhide Ferox
-1 Polukranos, World Eater
-1 Paradise Druid
-2 Polukranos, World Eater
-2 Nullhide Ferox
-2 Paradise Druid
-3 Nullhide Ferox
-3 Paradise Druid
+1 Tireless Tracker
+2 Tireless Tracker
+3 Tireless Tracker
+3 Yavimaya Coast
 1 Emrakul, the Promised End
 1 Sea Gate Wreckage
 2 Oblivion Sower
@@ -137,22 +136,24 @@
 3 Shifting Ceratops
 4 The Great Henge
 1 Avatar of the Resolute
-1 Syr Faren, the Hengehammer
-1 Duskwatch Recruiter
+1 Barkhide Troll
 1 Experiment One
 1 Renegade Krasis
-1 Barkhide Troll
 2 Avatar of the Resolute
-2 Duskwatch Recruiter
-2 Experiment One
 2 Barkhide Troll
+2 Experiment One
+3 Barkhide Troll
 3 Avatar of the Resolute
 3 Experiment One
-3 Barkhide Troll
 4 Barkhide Troll
 4 Avatar of the Resolute
 4 Experiment One
 1 Biogenic Ooze
 2 Biogenic Ooze
 4 Courser of Kruphix
+2 Syr Faren, the Hengehammer
+3 Hashep Oasis
+3 Syr Faren, the Hengehammer
+4 Surrak, the Hunt Caller
+4 Hashep Oasis
 17 Forest

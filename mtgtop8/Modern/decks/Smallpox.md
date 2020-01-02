@@ -41,8 +41,8 @@
 |                    2|[Silent Clearing](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464195)          |                    2|[Disenchant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=847)             |
 |                    2|[Ghost Quarter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389534)            |                     |                                                                                               |
 |                    3|[Haakon, Stromgald Scourge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=122045)|                     |                                                                                               |
-|                    3|[Snow-Covered Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121256)       |                     |                                                                                               |
 |                    3|[Collective Brutality](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414380)     |                     |                                                                                               |
+|                    3|[Snow-Covered Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121256)       |                     |                                                                                               |
 |                    4|[Collective Brutality](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414380)     |                     |                                                                                               |
 |                    3|[Ghost Quarter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389534)            |                     |                                                                                               |
 

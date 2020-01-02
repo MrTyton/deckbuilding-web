@@ -1,57 +1,87 @@
+1 Questing Beast
+1 Misty Rainforest
+1 Oko, Thief of Crowns
+2 Misty Rainforest
+2 Oko, Thief of Crowns
+1 Scavenging Ooze
+1 Prismatic Vista
+2 Scavenging Ooze
+2 Questing Beast
+2 Prismatic Vista
+3 Prismatic Vista
+5 Snow-Covered Forest
+6 Snow-Covered Forest
+7 Snow-Covered Forest
+8 Snow-Covered Forest
+1 Noble Hierarch
+2 Noble Hierarch
+1 Field of Ruin
+1 Nissa, Who Shakes the World
+1 Courser of Kruphix
+1 Nissa, Steward of Elements
+1 Tireless Tracker
+1 Utopia Sprawl
+1 Jace, the Mind Sculptor
+1 Arbor Elf
+1 Oath of Nissa
+1 Karn, the Great Creator
+2 Jace, the Mind Sculptor
+2 Utopia Sprawl
+2 Karn, the Great Creator
+2 Arbor Elf
+2 Tireless Tracker
+2 Courser of Kruphix
+2 Field of Ruin
+2 Oath of Nissa
+3 Karn, the Great Creator
+3 Arbor Elf
+3 Utopia Sprawl
+3 Field of Ruin
+3 Courser of Kruphix
+3 Oath of Nissa
+3 Misty Rainforest
+3 Oko, Thief of Crowns
+4 Prismatic Vista
+4 Arbor Elf
+4 Utopia Sprawl
+4 Karn, the Great Creator
+4 Misty Rainforest
+4 Oko, Thief of Crowns
 1 Forest
-1 Verdant Catacombs
-1 Overgrown Tomb
+1 Traverse the Ulvenwald
 1 Blooming Marsh
 1 Grim Flayer
-1 Snapcaster Mage
-1 Polluted Delta
-1 Watery Grave
 1 Stubborn Denial
 1 Brazen Borrower
-1 Fatal Push
-1 Liliana of the Veil
 1 Swamp
+1 Liliana of the Veil
 1 Island
-1 Inquisition of Kozilek
 1 Tarmogoyf
 1 Once Upon a Time
 1 Assassin's Trophy
-1 Traverse the Ulvenwald
 1 Mishra's Bauble
-1 Thoughtseize
-2 Overgrown Tomb
+2 Traverse the Ulvenwald
+2 Tarmogoyf
 2 Brazen Borrower
 2 Verdant Catacombs
 2 Blooming Marsh
-2 Polluted Delta
-2 Snapcaster Mage
-2 Fatal Push
 2 Liliana of the Veil
 2 Assassin's Trophy
-2 Traverse the Ulvenwald
 2 Mishra's Bauble
-2 Thoughtseize
-2 Inquisition of Kozilek
-2 Watery Grave
 2 Grim Flayer
 2 Once Upon a Time
-2 Tarmogoyf
 2 Stubborn Denial
+3 Tarmogoyf
 3 Verdant Catacombs
 3 Assassin's Trophy
 3 Blooming Marsh
-3 Fatal Push
-3 Thoughtseize
 3 Mishra's Bauble
 3 Grim Flayer
-3 Inquisition of Kozilek
-3 Tarmogoyf
 3 Once Upon a Time
-4 Fatal Push
 4 Tarmogoyf
+4 Grim Flayer
 4 Mishra's Bauble
 4 Thoughtseize
-4 Grim Flayer
 1 Windswept Heath
 2 Windswept Heath
 3 Windswept Heath
@@ -59,20 +89,20 @@
 1 Temple Garden
 1 Hallowed Fountain
 1 Champion of the Parish
-1 Unsettled Mariner
 1 Thalia's Lieutenant
+1 Unsettled Mariner
 1 Hardened Scales
-1 Cavern of Souls
 1 Razorverge Thicket
-1 Kazandu Blademaster
 1 Hada Freeblade
 1 Collected Company
 1 Botanical Sanctum
 1 Avacyn's Pilgrim
+1 Cavern of Souls
 1 Horizon Canopy
 1 Plains
 1 Oran-Rief Survivalist
 1 Reflector Mage
+1 Kazandu Blademaster
 2 Cavern of Souls
 2 Champion of the Parish
 2 Horizon Canopy
@@ -87,27 +117,28 @@
 2 Collected Company
 3 Cavern of Souls
 3 Champion of the Parish
+3 Hardened Scales
 3 Hada Freeblade
-3 Collected Company
 3 Reflector Mage
 3 Horizon Canopy
 3 Oran-Rief Survivalist
-3 Hardened Scales
+3 Noble Hierarch
+3 Collected Company
 3 Thalia's Lieutenant
 3 Kazandu Blademaster
-3 Noble Hierarch
 3 Razorverge Thicket
 4 Collected Company
 4 Cavern of Souls
 4 Champion of the Parish
 4 Windswept Heath
+4 Kazandu Blademaster
 4 Reflector Mage
-4 Hada Freeblade
 4 Hardened Scales
 4 Thalia's Lieutenant
-4 Kazandu Blademaster
+4 Hada Freeblade
 4 Noble Hierarch
 4 Oran-Rief Survivalist
+1 Arcum's Astrolabe
 1 Hexdrinker
 1 Vines of Vastwood
 1 Aspect of Hydra
@@ -117,21 +148,21 @@
 1 Shapers' Sanctuary
 1 Castle Garenbrig
 1 Barkhide Troll
-1 Arcum's Astrolabe
 1 Burning-Tree Emissary
 1 Dryad Militant
 1 Llanowar Elves
+2 Arcum's Astrolabe
 2 Hexdrinker
 2 Aspect of Hydra
 2 Vines of Vastwood
 2 Rancor
 2 Steel Leaf Champion
 2 Strangleroot Geist
-2 Arcum's Astrolabe
 2 Llanowar Elves
+2 Barkhide Troll
 2 Burning-Tree Emissary
 2 Dryad Militant
-2 Barkhide Troll
+3 Arcum's Astrolabe
 3 Hexdrinker
 3 Aspect of Hydra
 3 Rancor
@@ -139,7 +170,6 @@
 3 Steel Leaf Champion
 3 Strangleroot Geist
 3 Scavenging Ooze
-3 Arcum's Astrolabe
 4 Scavenging Ooze
 4 Hexdrinker
 4 Aspect of Hydra

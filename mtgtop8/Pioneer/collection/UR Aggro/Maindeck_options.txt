@@ -1,33 +1,32 @@
-2 Ensoul Artifact
-2 Gingerbrute
-2 Darksteel Citadel
-2 Shrapnel Blast
-2 Skilled Animator
-2 Ghostfire Blade
-2 Bomat Courier
-2 Stonecoil Serpent
-3 Shrapnel Blast
-3 Darksteel Citadel
-3 Ensoul Artifact
-3 Gingerbrute
-3 Bomat Courier
-3 Ghostfire Blade
-4 Shivan Reef
-4 Shrapnel Blast
-4 Darksteel Citadel
-4 Ensoul Artifact
-4 Bomat Courier
-4 Gingerbrute
-1 Hope of Ghirapur
-3 Skilled Animator
-4 Skilled Animator
-3 Spire of Industry
-4 Spire of Industry
-4 Izzet Charm
-4 Mountain
-1 Smuggler's Copter
-2 Smuggler's Copter
-3 Smuggler's Copter
+2 Sulfur Falls
+3 Mountain
+3 Brazen Borrower
+3 Bonecrusher Giant
+4 Bonecrusher Giant
+1 Kozilek's Return
+1 Lightning Axe
+1 Rekindling Phoenix
+1 Elder Deep-Fiend
+1 Izzet Charm
+1 Flamewake Phoenix
+2 Kozilek's Return
+2 Lightning Axe
+2 Izzet Charm
+2 Rekindling Phoenix
+2 Elder Deep-Fiend
+2 Flamewake Phoenix
+3 Rekindling Phoenix
+3 Kozilek's Return
+3 Lightning Axe
+3 Izzet Charm
+3 Flamewake Phoenix
+3 Elder Deep-Fiend
+4 Rekindling Phoenix
+4 Kozilek's Return
+4 Brazen Borrower
+4 Elder Deep-Fiend
+4 Flamewake Phoenix
+1 Stubborn Denial
 4 Smuggler's Copter
 1 Metallic Rebuke
 2 Metallic Rebuke
@@ -36,35 +35,39 @@
 3 Ornithopter
 2 Hope of Ghirapur
 4 Ghostfire Blade
-1 Stubborn Denial
-1 Wandering Fumarole
+4 Izzet Charm
+4 Mountain
+2 Stubborn Denial
 4 Ornithopter
 3 Stonecoil Serpent
 4 Stonecoil Serpent
-3 Mutavault
-2 Stubborn Denial
-2 Wandering Fumarole
+1 Wandering Fumarole
 1 Sanctum of Ugin
-1 Chandra, Torch of Defiance
-2 Chandra, Torch of Defiance
-3 Wandering Fumarole
+2 Wandering Fumarole
 1 Wild Slash
+3 Mutavault
 1 The Royal Scions
 2 The Royal Scions
-4 Lightning Axe
+1 Chandra, Torch of Defiance
+2 Chandra, Torch of Defiance
+3 Sulfur Falls
 3 Metallic Rebuke
 2 Wild Slash
-3 Sulfur Falls
-1 Whirler Rogue
-1 Champion of Wits
-2 Champion of Wits
+3 Wandering Fumarole
+4 Lightning Axe
 3 Island
 4 Island
+1 Whirler Rogue
+5 Island
 3 The Royal Scions
 4 The Royal Scions
-5 Island
+1 Champion of Wits
+2 Champion of Wits
 2 Sanctum of Ugin
 3 Sanctum of Ugin
+1 Glorybringer
+2 Glorybringer
+3 Glorybringer
 1 Fabled Passage
 1 Smash to Smithereens
 1 Shock
@@ -80,9 +83,31 @@
 3 Scrapheap Scrounger
 3 Emry, Lurker of the Loch
 3 Champion of Wits
-1 Glorybringer
-2 Glorybringer
-3 Glorybringer
+1 Opt
+2 Opt
+3 Opt
+1 Silumgar's Scorn
+1 Sarkhan, Fireblood
+1 Thunderbreak Regent
+1 Draconic Roar
+1 Kiora, Behemoth Beckoner
+1 Magma Spray
+1 Niv-Mizzet, Parun
+1 Icefall Regent
+2 Silumgar's Scorn
+2 Kiora, Behemoth Beckoner
+2 Sarkhan, Fireblood
+2 Thunderbreak Regent
+2 Draconic Roar
+2 Niv-Mizzet, Parun
+2 Magma Spray
+3 Silumgar's Scorn
+3 Kiora, Behemoth Beckoner
+3 Thunderbreak Regent
+4 Glorybringer
+4 Sulfur Falls
+4 Silumgar's Scorn
+4 Thunderbreak Regent
 5 Mountain
 1 Prairie Stream
 1 Castle Ardenvale
@@ -90,7 +115,6 @@
 1 Approach of the Second Sun
 1 Dig Through Time
 1 Supreme Verdict
-1 Opt
 1 Search for Azcanta
 1 Glacial Fortress
 1 Port Town
@@ -98,21 +122,20 @@
 1 Settle the Wreckage
 1 Teferi, Time Raveler
 1 Hallowed Fountain
-1 Cast Out
 1 Declaration in Stone
-1 Censor
+1 Cast Out
 1 Castle Vantress
+1 Censor
 1 Fae of Wishes
 1 Absorb
 1 Plains
 2 Fabled Passage
 2 Irrigated Farmland
-2 Opt
 2 Dig Through Time
 2 Supreme Verdict
 2 Plains
-2 Azorius Charm
 2 Glacial Fortress
+2 Azorius Charm
 2 Teferi, Time Raveler
 2 Hallowed Fountain
 2 Declaration in Stone
@@ -122,7 +145,6 @@
 2 Absorb
 3 Dig Through Time
 3 Irrigated Farmland
-3 Opt
 3 Supreme Verdict
 3 Plains
 3 Glacial Fortress

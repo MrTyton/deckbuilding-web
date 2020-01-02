@@ -1,15 +1,16 @@
+1 Damping Sphere
+2 Damping Sphere
+3 Damping Sphere
+1 Alpine Moon
+2 Alpine Moon
+1 Pithing Needle
+1 Grafdigger's Cage
+1 Tormod's Crypt
 3 Collective Brutality
-1 Goblin Chainwhirler
-1 Thoughtseize
 1 Pashalik Mons
-2 Thoughtseize
 3 Thoughtseize
 1 Tarfire
-1 Icon of Ancestry
-1 Blood Moon
 2 Tarfire
-2 Icon of Ancestry
-2 Blood Moon
 3 Tarfire
 1 Dragon's Claw
 1 Relic of Progenitus
@@ -19,7 +20,6 @@
 2 Tormod's Crypt
 1 Surgical Extraction
 1 Spellskite
-1 Pithing Needle
 1 Fatal Push
 1 Plague Engineer
 2 Spellskite
@@ -33,6 +33,8 @@
 2 Grafdigger's Cage
 2 Weather the Storm
 3 Alpine Moon
+3 Blood Moon
+4 Leyline of the Void
 1 Smash to Smithereens
 2 Smash to Smithereens
 1 Mutavault

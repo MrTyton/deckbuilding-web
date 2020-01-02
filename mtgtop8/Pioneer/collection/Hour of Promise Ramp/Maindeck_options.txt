@@ -49,7 +49,6 @@
 1 Tireless Tracker
 2 Tireless Tracker
 3 Tireless Tracker
-1 Urborg, Tomb of Yawgmoth
 1 Hissing Quagmire
 1 Temple of Malady
 1 Woodland Cemetery
@@ -58,6 +57,7 @@
 1 Abrupt Decay
 1 Ifnir Deadlands
 1 Fatal Push
+1 Urborg, Tomb of Yawgmoth
 1 Swamp
 1 Castle Locthwain
 2 Overgrown Tomb
@@ -87,8 +87,8 @@
 2 Llanowar Wastes
 1 Llanowar Elves
 1 Settle the Wreckage
-2 Settle the Wreckage
 2 Plains
+2 Settle the Wreckage
 1 Courser of Kruphix
 8 Forest
 1 Sheltered Thicket
@@ -106,9 +106,9 @@
 1 Fortified Village
 1 Brazen Borrower
 2 Brazen Borrower
+1 Fumigate
 1 Agent of Treachery
 1 Ipnu Rivulet
-1 Fumigate
 1 Shefet Dunes
 2 Hallowed Fountain
 2 Hydroid Krasis
@@ -136,8 +136,8 @@
 1 Maze's End
 1 Selesnya Guildgate
 1 Nissa, Vital Force
-1 Dimir Guildgate
 1 Chandra, Awakened Inferno
+1 Dimir Guildgate
 1 Circuitous Route
 2 Oko, Thief of Crowns
 2 Courser of Kruphix
@@ -147,8 +147,8 @@
 2 Gruul Guildgate
 2 Maze's End
 2 Circuitous Route
-2 Nissa, Vital Force
 2 Chandra, Awakened Inferno
+2 Nissa, Vital Force
 3 Oko, Thief of Crowns
 3 Gruul Guildgate
 3 Simic Guildgate

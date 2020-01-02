@@ -1,12 +1,12 @@
+2 Liliana, the Last Hope
+4 Teferi, Time Raveler
 1 Steam Vents
 2 Steam Vents
 3 Steam Vents
 1 Sphinx's Revelation
-1 Urborg, Tomb of Yawgmoth
 1 Forest
 1 Hero's Downfall
 1 Languish
-3 Swamp
 3 Opt
 4 Opt
 1 Jace, Vryn's Prodigy
@@ -31,12 +31,14 @@
 3 Growth Spiral
 4 Growth Spiral
 1 Temple Garden
+2 Plains
 1 Kolaghan's Command
 1 Dreadbore
 2 Dreadbore
 1 Blood Crypt
 1 Dragonskull Summit
 2 Blood Crypt
+1 Cast Down
 2 Hero's Downfall
 1 Mountain
 1 Vraska's Contempt
@@ -47,15 +49,17 @@
 5 Forest
 3 Murderous Rider
 1 Assassin's Trophy
-1 Nissa's Pilgrimage
+4 Swamp
+5 Swamp
 1 Sign in Blood
+1 Nissa's Pilgrimage
 1 Temple of Malady
 1 Tireless Tracker
 1 Seasons Past
 1 Overgrown Tomb
-1 Dark Petition
 1 Hissing Quagmire
 1 Read the Bones
+1 Dark Petition
 2 Temple of Malady
 2 Assassin's Trophy
 2 Dark Petition
@@ -64,21 +68,24 @@
 3 Temple of Malady
 3 Dark Petition
 4 Temple of Malady
-4 Swamp
-5 Swamp
 6 Forest
-2 Plains
-2 Drown in the Loch
-1 Fetid Pools
-2 Torrential Gearhulk
+1 Isolated Chapel
+2 Isolated Chapel
 1 Narset, Parter of Veils
 1 Detention Sphere
 2 Narset, Parter of Veils
-2 Abrupt Decay
-3 Abrupt Decay
+1 Elspeth, Sun's Champion
+1 Concealed Courtyard
+1 Oath of Kaya
 1 Thought Erasure
 2 Thought Erasure
 3 Thought Erasure
+2 Abrupt Decay
+3 Abrupt Decay
+2 Drown in the Loch
+1 Fetid Pools
+2 Torrential Gearhulk
+1 Supreme Will
 1 Sinister Sabotage
 2 Sinister Sabotage
 1 Nexus of Fate
@@ -86,11 +93,15 @@
 2 Azorius Charm
 2 Temple Garden
 4 Supreme Verdict
-1 Supreme Will
-1 Cast Down
+4 Fabled Passage
+1 Chandra, Torch of Defiance
+1 Temple of Epiphany
+1 Fires of Invention
+2 Fires of Invention
+3 Fires of Invention
+4 Fires of Invention
 1 Botanical Sanctum
 1 Blast Zone
-4 Fabled Passage
 1 Lumbering Falls
 1 Cyclonic Rift
 1 Wilderness Reclamation
@@ -100,17 +111,15 @@
 4 Hinterland Harbor
 4 Breeding Pool
 4 Wilderness Reclamation
-1 Chandra, Torch of Defiance
-1 Fires of Invention
-1 Temple of Epiphany
-2 Fires of Invention
-3 Fires of Invention
-4 Fires of Invention
+1 Anguished Unmaking
+2 Concealed Courtyard
+3 Godless Shrine
+3 Concealed Courtyard
+4 Godless Shrine
+4 Concealed Courtyard
 1 Oko, Thief of Crowns
 2 Oko, Thief of Crowns
 3 Oko, Thief of Crowns
-1 Concealed Courtyard
-1 Oath of Kaya
 1 Gilded Goose
 1 Mana Confluence
 1 Stomping Ground
@@ -133,51 +142,46 @@
 3 Aether Hub
 1 Jace, Architect of Thought
 2 Jace, Architect of Thought
-1 Elspeth, Sun's Champion
 1 Deafening Clarion
 1 Sacred Foundry
 1 Fae of Wishes
+1 Temple of Triumph
 1 Geier Reach Sanitarium
 1 Interplanar Beacon
-1 Temple of Triumph
 2 Sacred Foundry
-2 Fae of Wishes
 2 Temple of Triumph
+2 Fae of Wishes
 2 Interplanar Beacon
 3 Sacred Foundry
 3 Fae of Wishes
 3 Narset, Parter of Veils
 3 Interplanar Beacon
-4 Narset, Parter of Veils
 4 Interplanar Beacon
+4 Narset, Parter of Veils
 1 Negate
 1 Wandering Fumarole
 2 Wandering Fumarole
 4 Island
 2 Chandra, Torch of Defiance
 2 Temple of Epiphany
+1 Gideon of the Trials
+2 Oath of Kaya
 1 Sulfur Falls
 2 Sulfur Falls
 2 Kolaghan's Command
 2 Dragonskull Summit
 1 The Royal Scions
 2 Mountain
-3 Blood Crypt
-1 Gideon of the Trials
-1 Isolated Chapel
-2 Isolated Chapel
 1 Grasp of Darkness
 2 Languish
+3 Blood Crypt
 1 Collective Brutality
 1 Ob Nixilis Reignited
 4 Murderous Rider
-1 Anguished Unmaking
 2 Anguished Unmaking
-2 Concealed Courtyard
-3 Godless Shrine
-3 Concealed Courtyard
-4 Godless Shrine
-4 Concealed Courtyard
+3 Isolated Chapel
+1 Lyra Dawnbringer
+3 Plains
 1 Glorybringer
 1 Haven of the Spirit Dragon
 2 Haven of the Spirit Dragon
@@ -186,10 +190,10 @@
 2 Anger of the Gods
 3 Anger of the Gods
 1 Mutavault
-1 Liliana's Triumph
 1 Quench
-2 Liliana's Triumph
+1 Liliana's Triumph
 2 Quench
+2 Liliana's Triumph
 3 Drown in the Loch
 1 Temple of Enlightenment
 1 Clifftop Retreat
@@ -205,8 +209,8 @@
 2 Cast Out
 4 Censor
 4 Oko, Thief of Crowns
-1 Inspiring Vantage
 1 Voice of Resurgence
+1 Inspiring Vantage
 1 Attune with Aether
 1 Silumgar's Command
 1 Whirler Virtuoso
@@ -229,31 +233,29 @@
 3 Hero's Downfall
 4 Dragonlord Ojutai
 4 Silumgar's Scorn
-3 Plains
 1 Westvale Abbey
+1 Archangel Avacyn
 1 Sorin, Grim Nemesis
-1 Yahenni's Expertise
 1 Secure the Wastes
+1 Yahenni's Expertise
 1 Duress
-1 Transgress the Mind
 1 Blighted Fen
 1 Ifnir Deadlands
+1 Transgress the Mind
 1 Mortify
-1 Archangel Avacyn
-1 Lyra Dawnbringer
 2 Mortify
+2 Archangel Avacyn
+2 Transgress the Mind
 2 Westvale Abbey
 2 Duress
-2 Transgress the Mind
+2 Grasp of Darkness
 2 Sorin, Grim Nemesis
 2 Ifnir Deadlands
-2 Archangel Avacyn
 2 Ob Nixilis Reignited
 2 Blighted Fen
-2 Grasp of Darkness
+3 Grasp of Darkness
 3 Transgress the Mind
 3 Ob Nixilis Reignited
-3 Grasp of Darkness
 4 Grasp of Darkness
 1 Gonti, Lord of Luxury
 1 Lovestruck Beast
@@ -314,7 +316,6 @@
 1 Approach of the Second Sun
 1 Declaration in Stone
 1 Dovin's Veto
-2 Oath of Kaya
 4 Thought Erasure
 1 Traverse the Ulvenwald
 1 Sylvan Caryatid
@@ -340,8 +341,8 @@
 1 Sweltering Suns
 2 Sweltering Suns
 2 Sphinx of Foresight
-2 Cavalier of Gales
 2 Cavalier of Flame
+2 Cavalier of Gales
 3 Castle Vantress
 3 Bonecrusher Giant
 3 Sphinx of Foresight
@@ -351,23 +352,22 @@
 4 Cavalier of Gales
 4 Cavalier of Flame
 4 Bonecrusher Giant
-1 Gideon Blackblade
-1 Heart of Kiran
 1 Gideon's Triumph
 1 Gideon, Ally of Zendikar
+1 Gideon Blackblade
+1 Heart of Kiran
 1 Kaya's Wrath
 1 Blood Baron of Vizkopa
 2 Heart of Kiran
 2 Gideon of the Trials
 2 Gideon Blackblade
-2 Gideon, Ally of Zendikar
 2 Blood Baron of Vizkopa
+2 Gideon, Ally of Zendikar
 2 Kaya's Wrath
 2 Gideon's Triumph
 3 Field of Ruin
 3 Heart of Kiran
 3 Gideon of the Trials
-3 Isolated Chapel
 3 Gideon, Ally of Zendikar
 3 Kaya's Wrath
 4 Heart of Kiran
@@ -408,29 +408,57 @@
 4 Sinister Sabotage
 4 Hieroglyphic Illumination
 5 Island
+1 Trial of Ambition
+1 Karn, Scion of Urza
+1 Gifted Aetherborn
+1 Liliana, Dreadhorde General
+1 Doom Foretold
+1 Caves of Koilos
+1 Knight of the Ebon Legion
+1 History of Benalia
+1 Brought Back
+2 History of Benalia
+2 Gifted Aetherborn
+2 Doom Foretold
+2 Knight of the Ebon Legion
+2 Trial of Ambition
+2 Karn, Scion of Urza
+3 History of Benalia
+3 Karn, Scion of Urza
+3 Gifted Aetherborn
+3 Doom Foretold
+3 Knight of the Ebon Legion
+4 History of Benalia
+4 Isolated Chapel
+4 Gifted Aetherborn
+4 Plains
+4 Knight of the Ebon Legion
+4 Doom Foretold
+5 Plains
+6 Swamp
 1 Nissa's Renewal
 1 Bontu's Last Reckoning
 1 Mastermind's Acquisition
 1 Gaze of Granite
-1 Ugin, the Spirit Dragon
 1 Nissa, Vastwood Seer
+1 Ugin, the Spirit Dragon
 2 Nissa's Pilgrimage
 2 Tireless Tracker
 7 Forest
-1 Castle Embereth
 1 Stormbreath Dragon
-1 Draconic Roar
 1 Magma Spray
+1 Castle Embereth
+1 Draconic Roar
 1 Thunderbreak Regent
+1 Crater's Claws
 1 Abrade
 1 Sarkhan, Fireblood
-1 Crater's Claws
 2 Castle Embereth
 2 Stormbreath Dragon
-2 Draconic Roar
-2 Thunderbreak Regent
-2 Crater's Claws
 2 Magma Spray
+2 Draconic Roar
+2 Crater's Claws
+2 Thunderbreak Regent
 2 Abrade
 2 Sarkhan, Fireblood
 3 Stormbreath Dragon
@@ -443,8 +471,8 @@
 3 Sarkhan, Fireblood
 3 Mountain
 3 Haven of the Spirit Dragon
-4 Castle Embereth
 4 Anger of the Gods
+4 Castle Embereth
 4 Magma Spray
 4 Glorybringer
 4 Draconic Roar
@@ -463,60 +491,3 @@
 14 Mountain
 15 Mountain
 16 Mountain
-1 Blind Obedience
-1 Legion's Landing
-1 Knight of the White Orchid
-1 Thraben Inspector
-1 Walking Ballista
-1 Always Watching
-1 Dawn of Hope
-1 Quarantine Field
-1 Mastery of the Unseen
-1 Nykthos, Shrine to Nyx
-1 Arcanist's Owl
-1 Castle Ardenvale
-1 Stasis Snare
-1 Gideon's Intervention
-2 Knight of the White Orchid
-2 Thraben Inspector
-2 Always Watching
-2 Castle Ardenvale
-2 Legion's Landing
-2 Nykthos, Shrine to Nyx
-2 Stasis Snare
-2 Mastery of the Unseen
-2 Gideon's Intervention
-2 Arcanist's Owl
-2 Walking Ballista
-3 Castle Ardenvale
-3 Thraben Inspector
-3 Always Watching
-3 Gideon's Intervention
-3 Knight of the White Orchid
-3 Nykthos, Shrine to Nyx
-3 Arcanist's Owl
-3 Walking Ballista
-3 Stasis Snare
-3 Mastery of the Unseen
-4 Walking Ballista
-4 Thraben Inspector
-4 Stasis Snare
-4 Arcanist's Owl
-4 Plains
-4 Nykthos, Shrine to Nyx
-4 Mastery of the Unseen
-4 Always Watching
-4 Knight of the White Orchid
-5 Plains
-6 Plains
-7 Plains
-8 Plains
-9 Plains
-10 Plains
-11 Plains
-12 Plains
-13 Plains
-14 Plains
-15 Plains
-16 Plains
-17 Plains

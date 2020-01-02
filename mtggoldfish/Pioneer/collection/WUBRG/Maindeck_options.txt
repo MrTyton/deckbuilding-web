@@ -1,11 +1,3 @@
-1 Yavimaya Coast
-1 Doublecast
-2 Doublecast
-3 Doublecast
-4 Doublecast
-1 Island
-1 Teferi, Time Raveler
-2 Teferi, Time Raveler
 3 Teferi, Time Raveler
 1 Supreme Verdict
 1 Steam Vents
@@ -19,11 +11,11 @@
 1 Detention Sphere
 2 Hallowed Fountain
 1 Geier Reach Sanitarium
-1 Temple of Triumph
 1 Chandra, Torch of Defiance
 1 Castle Vantress
 1 Kenrith, the Returned King
 1 Narset, Parter of Veils
+1 Temple of Triumph
 1 Temple of Epiphany
 1 Anger of the Gods
 1 Interplanar Beacon
@@ -38,13 +30,16 @@
 2 Interplanar Beacon
 2 Anger of the Gods
 3 Narset, Parter of Veils
-3 Steam Vents
-3 Interplanar Beacon
 3 Anger of the Gods
+3 Steam Vents
 3 Sacred Foundry
+3 Interplanar Beacon
 3 Hallowed Fountain
-4 Interplanar Beacon
 4 Narset, Parter of Veils
+4 Interplanar Beacon
+1 Strategic Planning
+2 Strategic Planning
+3 Strategic Planning
 1 Mountain
 1 Plains
 1 Stomping Ground
@@ -71,9 +66,9 @@
 1 Sulfur Falls
 1 Sarkhan the Masterless
 1 Glacial Fortress
-2 Temple of Triumph
 2 Sarkhan the Masterless
 2 Glacial Fortress
+2 Temple of Triumph
 2 Sulfur Falls
 2 Commit/Memory
 2 Island
@@ -128,14 +123,14 @@
 1 Grisly Salvage
 1 Hazoret the Fervent
 1 Lotleth Troll
-1 Nightveil Predator
 1 Soulflayer
 1 Zetalpa, Primal Dawn
-1 Chromanticore
+1 Commune with the Gods
+1 Nightveil Predator
 1 Traverse the Ulvenwald
 1 Samut, Voice of Dissent
 1 Gather the Pack
-1 Commune with the Gods
+1 Chromanticore
 2 Swamp
 2 Grisly Salvage
 2 Traverse the Ulvenwald
@@ -146,12 +141,12 @@
 2 Gather the Pack
 2 Commune with the Gods
 2 Soulflayer
-3 Soulflayer
 3 Mana Confluence
+3 Soulflayer
+3 Commune with the Gods
 3 Zetalpa, Primal Dawn
 3 Gather the Pack
 3 Lotleth Troll
-3 Commune with the Gods
 3 Grisly Salvage
 3 Overgrown Tomb
 4 Grisly Salvage
@@ -169,12 +164,10 @@
 3 Attune with Aether
 1 Shock
 1 Keranos, God of Storms
-1 Ral, Storm Conduit
 1 Knight of Autumn
 1 Obzedat, Ghost Council
 1 Mizzium Mortars
 2 Mizzium Mortars
-2 Blast Zone
 1 Magma Jet
 2 Magma Jet
 1 The Royal Scions
@@ -184,8 +177,8 @@
 3 Abrupt Decay
 3 Thought Erasure
 1 The Scarab God
-1 Casualties of War
 1 Vraska, Golgari Queen
+1 Casualties of War
 1 Frontier Bivouac
 2 The Scarab God
 2 Casualties of War
@@ -196,15 +189,28 @@
 2 Deathrite Shaman
 2 Blood Crypt
 3 Samut, Voice of Dissent
-3 Traverse the Ulvenwald
 3 Blood Crypt
+3 Traverse the Ulvenwald
 3 Deathrite Shaman
 4 Traverse the Ulvenwald
 4 Deathrite Shaman
+1 Questing Beast
+1 Murderous Rider
+1 Thoughtseize
+1 Watery Grave
+2 Murderous Rider
+2 Thoughtseize
+2 Watery Grave
+3 Murderous Rider
+3 Nightveil Predator
+3 Swamp
+3 Watery Grave
+4 Nightveil Predator
+4 Swamp
 1 Jace, Architect of Thought
+1 Mystic Monastery
 1 Temple of Enlightenment
 1 Chandra, Awakened Inferno
-1 Mystic Monastery
 2 Shock
 2 Jace, Architect of Thought
 3 Shock
@@ -222,16 +228,16 @@
 1 Spell Pierce
 2 Anticipate
 2 Fiery Impulse
+2 Unbridled Growth
 2 Spell Pierce
 2 Sylvan Awakening
 2 Jeskai Ascendancy
 2 Temple Garden
 2 Izzet Charm
-2 Unbridled Growth
 3 Anticipate
+3 Fiery Impulse
 3 Unbridled Growth
 3 Sylvan Awakening
-3 Fiery Impulse
 3 Jeskai Ascendancy
 4 Fiery Impulse
 4 Anticipate
@@ -240,16 +246,3 @@
 4 Attune with Aether
 4 Jeskai Ascendancy
 4 Strategic Planning
-1 Questing Beast
-1 Murderous Rider
-1 Thoughtseize
-1 Watery Grave
-2 Murderous Rider
-2 Thoughtseize
-2 Watery Grave
-3 Murderous Rider
-3 Nightveil Predator
-3 Swamp
-3 Watery Grave
-4 Nightveil Predator
-4 Swamp

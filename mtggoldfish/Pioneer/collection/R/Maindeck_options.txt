@@ -1,26 +1,29 @@
 1 Torbran, Thane of Red Fell
-2 Torbran, Thane of Red Fell
-1 Nykthos, Shrine to Nyx
-2 Nykthos, Shrine to Nyx
-3 Nykthos, Shrine to Nyx
-4 Nykthos, Shrine to Nyx
-1 Burning-Tree Emissary
-2 Burning-Tree Emissary
-3 Burning-Tree Emissary
-4 Burning-Tree Emissary
-3 Torbran, Thane of Red Fell
-1 Runaway Steam-Kin
-2 Runaway Steam-Kin
-3 Runaway Steam-Kin
-1 Mizzium Mortars
 1 Scavenger Grounds
-4 Runaway Steam-Kin
-1 Experimental Frenzy
-2 Experimental Frenzy
+2 Torbran, Thane of Red Fell
 1 Monastery Swiftspear
 2 Monastery Swiftspear
 3 Monastery Swiftspear
 4 Monastery Swiftspear
+1 Runaway Steam-Kin
+2 Runaway Steam-Kin
+3 Runaway Steam-Kin
+3 Torbran, Thane of Red Fell
+4 Runaway Steam-Kin
+1 Burning-Tree Emissary
+2 Burning-Tree Emissary
+3 Burning-Tree Emissary
+4 Burning-Tree Emissary
+1 Nykthos, Shrine to Nyx
+2 Nykthos, Shrine to Nyx
+3 Nykthos, Shrine to Nyx
+4 Nykthos, Shrine to Nyx
+1 Experimental Frenzy
+2 Experimental Frenzy
+1 Mizzium Mortars
+1 Bomat Courier
+2 Bomat Courier
+3 Experimental Frenzy
 1 Eidolon of the Great Revel
 2 Eidolon of the Great Revel
 3 Eidolon of the Great Revel
@@ -32,11 +35,23 @@
 3 Boros Reckoner
 3 Fanatic of Mogis
 4 Boros Reckoner
+3 Bomat Courier
 1 Shock
-3 Experimental Frenzy
+4 Experimental Frenzy
+1 Light Up the Stage
+1 Wizard's Lightning
+1 Ghitu Lavarunner
+2 Wizard's Lightning
+2 Ghitu Lavarunner
+2 Light Up the Stage
+3 Wizard's Lightning
+3 Ghitu Lavarunner
+3 Light Up the Stage
+4 Light Up the Stage
 1 Fanatical Firebrand
 2 Fanatical Firebrand
 3 Fanatical Firebrand
+1 Abrade
 1 Reckless Bushwhacker
 1 Walking Ballista
 1 Oath of Chandra
@@ -48,68 +63,59 @@
 3 Wily Goblin
 4 Wily Goblin
 4 Fanatic of Mogis
-1 Bomat Courier
-2 Bomat Courier
-2 Mizzium Mortars
-4 Experimental Frenzy
+4 Bomat Courier
 1 Slaying Fire
 2 Slaying Fire
 3 Slaying Fire
+4 Wizard's Lightning
+4 Ghitu Lavarunner
+2 Mizzium Mortars
+17 Mountain
 4 Fanatical Firebrand
 1 Mask of Immolation
 2 Mask of Immolation
+1 Battlefield Forge
+2 Battlefield Forge
+4 Slaying Fire
 3 Mizzium Mortars
 4 Mizzium Mortars
-3 Bomat Courier
-4 Slaying Fire
-1 Abrade
+1 Searing Blood
+2 Searing Blood
+2 Shock
+3 Shock
 1 Embercleave
 1 Goblin Rabblemaster
 2 Goblin Rabblemaster
-1 Blood Crypt
 1 Scrapheap Scrounger
+1 Blood Crypt
 1 Dragonskull Summit
-2 Blood Crypt
 2 Scrapheap Scrounger
+2 Blood Crypt
 2 Dragonskull Summit
 3 Scrapheap Scrounger
 3 Blood Crypt
 4 Scrapheap Scrounger
 4 Blood Crypt
-1 Wizard's Lightning
-1 Ghitu Lavarunner
-1 Light Up the Stage
-2 Shock
-2 Wizard's Lightning
-2 Ghitu Lavarunner
-2 Light Up the Stage
-3 Shock
-3 Ghitu Lavarunner
-3 Light Up the Stage
-3 Wizard's Lightning
-4 Light Up the Stage
 3 Goblin Rabblemaster
 4 Goblin Rabblemaster
 1 Legion Warboss
 1 Foundry Street Denizen
-1 Goblin Instigator
 1 Skirk Prospector
+1 Goblin Instigator
 2 Legion Warboss
 2 Foundry Street Denizen
-2 Skirk Prospector
 2 Goblin Instigator
+2 Skirk Prospector
 3 Foundry Street Denizen
 3 Castle Embereth
 3 Goblin Instigator
 3 Skirk Prospector
-4 Skirk Prospector
 4 Foundry Street Denizen
 4 Goblin Instigator
+4 Skirk Prospector
 2 Embercleave
-1 Searing Blood
-2 Searing Blood
-1 Battlefield Forge
-2 Battlefield Forge
+1 Magma Spray
+2 Magma Spray
 1 Purphoros, God of the Forge
 2 Purphoros, God of the Forge
 1 Thermo-Alchemist
@@ -120,24 +126,27 @@
 1 Chandra, Awakened Inferno
 2 Magma Jet
 3 Magma Jet
+1 Earthshaker Khenra
+1 Hazoret the Fervent
+2 Earthshaker Khenra
+2 Hazoret the Fervent
+3 Earthshaker Khenra
+4 Earthshaker Khenra
+1 Skewer the Critics
+1 Viashino Pyromancer
+2 Skewer the Critics
+2 Viashino Pyromancer
+3 Skewer the Critics
+3 Viashino Pyromancer
+4 Shock
+4 Skewer the Critics
+4 Viashino Pyromancer
 1 Rampaging Ferocidon
 1 Sunscorched Desert
 2 Rampaging Ferocidon
 2 Sunscorched Desert
 3 Rampaging Ferocidon
 4 Rampaging Ferocidon
-4 Bomat Courier
-1 Viashino Pyromancer
-1 Skewer the Critics
-2 Viashino Pyromancer
-2 Skewer the Critics
-3 Viashino Pyromancer
-3 Skewer the Critics
-4 Viashino Pyromancer
-4 Shock
-4 Skewer the Critics
-4 Wizard's Lightning
-4 Ghitu Lavarunner
 1 Zurgo Bellstriker
 1 Rimrock Knight
 1 Ahn-Crop Crasher
@@ -176,12 +185,11 @@
 1 Dragon Fodder
 1 Goblin Warchief
 2 Goblin Trashmaster
-2 Goblin Ringleader
 2 Siege-Gang Commander
 2 Dragon Fodder
+2 Goblin Ringleader
 2 Goblin Warchief
 3 Goblin Ringleader
 4 Castle Embereth
-17 Mountain
 18 Mountain
 19 Mountain

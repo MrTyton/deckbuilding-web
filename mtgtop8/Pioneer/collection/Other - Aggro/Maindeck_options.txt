@@ -111,16 +111,16 @@
 1 Mountain
 2 Murderous Rider
 1 Trail of Crumbs
-1 Witch's Oven
 1 Cauldron Familiar
+1 Witch's Oven
 1 Massacre Girl
 2 Vraska, Golgari Queen
 2 Trail of Crumbs
-2 Witch's Oven
 2 Cauldron Familiar
+2 Witch's Oven
+3 Witch's Oven
 3 Trail of Crumbs
 3 Cauldron Familiar
-3 Witch's Oven
 4 Trail of Crumbs
 4 Cauldron Familiar
 4 Witch's Oven
@@ -230,8 +230,8 @@
 2 Hinterland Harbor
 2 Questing Beast
 2 Abrupt Decay
-3 Abrupt Decay
 3 Questing Beast
+3 Abrupt Decay
 1 Decimator of the Provinces
 4 Gurmag Angler
 1 Growth-Chamber Guardian
@@ -356,8 +356,8 @@
 4 Battlefield Forge
 4 Fervent Champion
 4 Inspiring Veteran
-4 Worthy Knight
 4 History of Benalia
+4 Worthy Knight
 4 Benalish Marshal
 4 Dauntless Bodyguard
 4 Thalia's Lieutenant
@@ -389,22 +389,22 @@
 1 Garruk, Cursed Huntsman
 1 Whirler Virtuoso
 1 Attune with Aether
+1 Karn, Scion of Urza
 1 Abrade
 1 Servant of the Conduit
 1 Longtusk Cub
-1 Karn, Scion of Urza
 1 Vizier of Many Faces
 1 Bristling Hydra
 2 The Scarab God
 2 Harnessed Lightning
 2 Rogue Refiner
 2 Attune with Aether
+2 Karn, Scion of Urza
 2 Abrade
 2 Bristling Hydra
 2 Servant of the Conduit
 2 Whirler Virtuoso
 2 Longtusk Cub
-2 Karn, Scion of Urza
 3 Harnessed Lightning
 3 Abrade
 3 Aether Hub
@@ -440,22 +440,22 @@
 6 Swamp
 1 Canyon Slough
 1 Bomat Courier
+1 Unlicensed Disintegration
 1 Chandra, Acolyte of Flame
 1 Stonecoil Serpent
 1 Goblin Chainwhirler
-1 Unlicensed Disintegration
 2 Bomat Courier
-2 Goblin Chainwhirler
 2 Unlicensed Disintegration
+2 Goblin Chainwhirler
 2 Foreboding Ruins
 2 Stonecoil Serpent
 3 Glorybringer
 3 Heart of Kiran
 3 Chandra, Torch of Defiance
+3 Unlicensed Disintegration
 3 Stonecoil Serpent
 3 Bomat Courier
 3 Goblin Chainwhirler
-3 Unlicensed Disintegration
 3 Foreboding Ruins
 4 Chandra, Torch of Defiance
 4 Foreboding Ruins
