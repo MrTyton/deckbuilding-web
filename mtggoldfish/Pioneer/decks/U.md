@@ -25,3 +25,27 @@
 |                                                                                           |3 [Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)           |
 |                                                                                           |3 [Summary Dismissal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414370)|
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                        Maindeck Card                                        |*n*<sup>th</sup> copy|                                         Sideboard Card                                          |
+|--------------------:|---------------------------------------------------------------------------------------------|--------------------:|-------------------------------------------------------------------------------------------------|
+|                    1|[Tidebinder Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438462)   |                    1|[Tidebinder Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438462)       |
+|                    1|[Rattlechains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409824)      |                    1|[Spell Pierce](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425876)          |
+|                    1|[Siren Stormtamer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435232)  |                    1|[Ashiok, Dream Render](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461155)  |
+|                    1|[Spectral Sailor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466830)   |                    2|[Spell Pierce](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425876)          |
+|                    1|[Cloudfin Raptor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460767)   |                    2|[Ashiok, Dream Render](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461155)  |
+|                    1|[Mausoleum Wanderer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414364)|                    3|[Spell Pierce](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425876)          |
+|                    2|[Tidebinder Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438462)   |                    3|[Ashiok, Dream Render](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461155)  |
+|                    2|[Cloudfin Raptor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460767)   |                    4|[Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)      |
+|                    2|[Spectral Sailor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466830)   |                    1|[Mu Yanling, Sky Dancer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466822)|
+|                    2|[Mausoleum Wanderer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414364)|                     |                                                                                                 |
+|                    2|[Castle Vantress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473204)   |                     |                                                                                                 |
+|                    2|[Siren Stormtamer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435232)  |                     |                                                                                                 |
+|                    3|[Tidebinder Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438462)   |                     |                                                                                                 |
+|                    3|[Cloudfin Raptor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460767)   |                     |                                                                                                 |
+|                    3|[Mausoleum Wanderer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414364)|                     |                                                                                                 |
+|                    4|[Mausoleum Wanderer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414364)|                     |                                                                                                 |
+|                    4|[Cloudfin Raptor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460767)   |                     |                                                                                                 |
+|                   20|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)            |                     |                                                                                                 |
+

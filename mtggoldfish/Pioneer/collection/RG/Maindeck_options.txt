@@ -1,59 +1,88 @@
-1 Game Trail
-1 Elvish Mystic
-1 Llanowar Elves
-2 Llanowar Elves
-2 Elvish Mystic
-2 Game Trail
-3 Llanowar Elves
-3 Game Trail
-3 Elvish Mystic
-4 Game Trail
-4 Llanowar Elves
-1 Collected Company
+2 Bristling Hydra
+2 Temur Battle Rage
+2 Aether Hub
+3 Blossoming Defense
+3 Harnessed Lightning
+3 Bristling Hydra
+3 Temur Battle Rage
+3 Become Immense
+3 Attune with Aether
+3 Aether Hub
+3 Longtusk Cub
+3 Electrostatic Pummeler
+4 Voltaic Brawler
+4 Blossoming Defense
+4 Harnessed Lightning
+4 Electrostatic Pummeler
+4 Temur Battle Rage
+4 Attune with Aether
+4 Longtusk Cub
+4 Bristling Hydra
+4 Aether Hub
+4 Elvish Mystic
 1 Goblin Rabblemaster
 2 Goblin Rabblemaster
-2 Collected Company
 3 Goblin Rabblemaster
-3 Collected Company
-3 Mountain
-4 Collected Company
 4 Goblin Rabblemaster
-4 Elvish Mystic
-4 Mountain
-5 Mountain
-6 Mountain
-1 Bonecrusher Giant
-1 Embercleave
-2 Bonecrusher Giant
-2 Embercleave
-3 Bonecrusher Giant
-4 Bonecrusher Giant
-1 Rimrock Knight
+1 Glorybringer
+2 Glorybringer
 1 Kari Zev, Skyship Raider
 1 Lovestruck Beast
 2 Kari Zev, Skyship Raider
 2 Lovestruck Beast
-2 Rimrock Knight
 3 Lovestruck Beast
-3 Rimrock Knight
 3 Embercleave
-4 Embercleave
 4 Lovestruck Beast
+6 Forest
+1 Rekindling Phoenix
+2 Rekindling Phoenix
+3 Rekindling Phoenix
+1 Collected Company
+2 Collected Company
+3 Collected Company
+4 Collected Company
+1 Xenagos, the Reveler
+3 Glorybringer
+1 Wild Slash
+2 Wild Slash
+1 Questing Beast
+1 Domri, Anarch of Bolas
+2 Questing Beast
+2 Domri, Anarch of Bolas
+7 Forest
+1 Hashep Oasis
+1 Gruul Spellbreaker
+1 Vivien, Arkbow Ranger
+2 Hashep Oasis
+2 Gruul Spellbreaker
+2 Vivien, Arkbow Ranger
+3 Gruul Spellbreaker
+3 Domri, Anarch of Bolas
+4 Gruul Spellbreaker
+1 Chandra, Torch of Defiance
+1 Mizzium Mortars
+2 Chandra, Torch of Defiance
+2 Xenagos, the Reveler
+2 Mizzium Mortars
+3 Kari Zev, Skyship Raider
+4 Rekindling Phoenix
+1 Rimrock Knight
+2 Rimrock Knight
+3 Rimrock Knight
+4 Embercleave
 4 Rimrock Knight
 1 Grumgully, the Generous
-1 Metallic Mimic
 1 Castle Embereth
 1 Legion Warboss
 1 Krenko, Tin Street Kingpin
 1 Gilded Goose
 1 Roast
-1 Wild Slash
+1 Metallic Mimic
 2 Krenko, Tin Street Kingpin
-2 Metallic Mimic
 2 Grumgully, the Generous
 2 Legion Warboss
 2 Gilded Goose
-2 Wild Slash
+2 Metallic Mimic
 3 Metallic Mimic
 3 Krenko, Tin Street Kingpin
 3 Wild Slash
@@ -62,33 +91,24 @@
 4 Metallic Mimic
 4 Legion Warboss
 4 Wild Slash
-6 Forest
 1 Sheltered Thicket
 1 Rhonas the Indomitable
 1 Steel Leaf Champion
-1 Xenagos, the Reveler
 1 Domri's Ambush
-1 Questing Beast
 1 Scavenging Ooze
 1 Domri Rade
-1 Glorybringer
 1 Shifting Ceratops
-1 Domri, Anarch of Bolas
 2 Steel Leaf Champion
-2 Questing Beast
 2 Domri's Ambush
 2 Sheltered Thicket
 2 Scavenging Ooze
-2 Domri, Anarch of Bolas
 2 Shifting Ceratops
-2 Glorybringer
 3 Questing Beast
-3 Glorybringer
 3 Steel Leaf Champion
 3 Sheltered Thicket
-3 Shifting Ceratops
 3 Domri's Ambush
 3 Scavenging Ooze
+3 Shifting Ceratops
 4 Domri's Ambush
 4 Steel Leaf Champion
 1 Hour of Promise
@@ -108,8 +128,8 @@
 2 Kozilek's Return
 2 Arboreal Grazer
 2 Elvish Rejuvenator
-2 Ugin, the Spirit Dragon
 2 Ulamog, the Ceaseless Hunger
+2 Ugin, the Spirit Dragon
 2 World Breaker
 2 Nissa's Pilgrimage
 2 Castle Garenbrig
@@ -120,8 +140,8 @@
 3 Arboreal Grazer
 3 Elvish Rejuvenator
 3 Kozilek's Return
-3 Shrine of the Forsaken Gods
 3 World Breaker
+3 Shrine of the Forsaken Gods
 3 Nissa's Pilgrimage
 3 Castle Garenbrig
 4 Ugin, the Spirit Dragon
@@ -133,4 +153,3 @@
 4 World Breaker
 4 Hour of Promise
 4 Nissa's Pilgrimage
-7 Forest

@@ -1,5 +1,5 @@
+1 Swamp
 1 Cryptic Command
-1 Mountain
 1 Scalding Tarn
 1 Lightning Bolt
 1 Creeping Tar Pit
@@ -34,15 +34,15 @@
 4 Darkslick Shores
 4 Lonely Sandbar
 1 Field of Ruin
+1 Force of Negation
 1 Thought Scour
 1 Into the Story
 1 Fatal Push
 1 Magmatic Sinkhole
-1 Force of Negation
-2 Thought Scour
-2 Into the Story
 2 Field of Ruin
 2 Force of Negation
+2 Thought Scour
+2 Into the Story
 2 Fatal Push
 3 Drown in the Loch
 3 Thought Scour
@@ -75,18 +75,14 @@
 1 Spell Snare
 2 Vantress Gargoyle
 2 Spell Snare
-3 Field of Ruin
 3 Spell Snare
+3 Field of Ruin
 3 Into the Story
 1 Merchant Scroll
 1 City of Brass
 2 City of Brass
 3 City of Brass
 4 City of Brass
-1 Pact of Negation
-1 Eye of Nowhere
-3 Flooded Strand
-4 Flooded Strand
 1 Dreadbore
 1 Goblin Dark-Dwellers
 1 Nimble Obstructionist
@@ -94,3 +90,7 @@
 2 Dreadbore
 2 Nimble Obstructionist
 4 Kolaghan's Command
+1 Pact of Negation
+1 Eye of Nowhere
+3 Flooded Strand
+4 Flooded Strand

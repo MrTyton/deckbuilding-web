@@ -21,12 +21,12 @@
 1 Grisly Salvage
 1 Soulflayer
 1 Zetalpa, Primal Dawn
-2 Grisly Salvage
 2 Soulflayer
 2 Zetalpa, Primal Dawn
-3 Grisly Salvage
+2 Grisly Salvage
 3 Soulflayer
 3 Zetalpa, Primal Dawn
+3 Grisly Salvage
 4 Grisly Salvage
 4 Zetalpa, Primal Dawn
 4 Soulflayer
@@ -47,10 +47,10 @@
 4 Murderous Rider
 1 Sylvan Caryatid
 1 Traverse the Ulvenwald
-2 Sylvan Caryatid
 2 Traverse the Ulvenwald
-3 Sylvan Caryatid
+2 Sylvan Caryatid
 3 Traverse the Ulvenwald
+3 Sylvan Caryatid
 4 Sylvan Caryatid
 4 Traverse the Ulvenwald
 4 Elvish Mystic
@@ -69,11 +69,11 @@
 2 Nullhide Ferox
 2 Satyr Wayfinder
 3 Nullhide Ferox
-3 Grapple with the Past
 3 Satyr Wayfinder
+3 Grapple with the Past
 4 Nullhide Ferox
-4 Grapple with the Past
 4 Satyr Wayfinder
+4 Grapple with the Past
 1 Hashep Oasis
 2 Hashep Oasis
 1 Scavenging Ooze
@@ -107,12 +107,12 @@
 1 Mana Confluence
 2 Mana Confluence
 3 Chromanticore
+1 Jadelight Ranger
 1 Assassin's Trophy
 1 Golgari Charm
 1 Dreadhorde Invasion
-1 Jadelight Ranger
-2 Jadelight Ranger
 2 Assassin's Trophy
+2 Jadelight Ranger
 2 Dreadhorde Invasion
 3 Dreadhorde Invasion
 3 Scavenging Ooze
@@ -121,45 +121,45 @@
 2 Evolution Sage
 3 Avatar of the Resolute
 3 Evolution Sage
+1 Cryptbreaker
+1 Dread Wanderer
+1 Diregraf Colossus
+1 Death Baron
+1 Lord of the Accursed
+1 Liliana, Untouched by Death
+1 Dark Salvation
+1 Liliana's Mastery
+1 Heart of Kiran
+1 Driven / Despair
+2 Cryptbreaker
+2 Dread Wanderer
+2 Diregraf Colossus
+2 Lord of the Accursed
+2 Liliana, Untouched by Death
+2 Dark Salvation
+2 Liliana's Mastery
+2 Heart of Kiran
+3 Cryptbreaker
+3 Dread Wanderer
+3 Diregraf Colossus
+3 Lord of the Accursed
+3 Heart of Kiran
+3 Castle Locthwain
+3 Mutavault
+4 Cryptbreaker
+4 Dread Wanderer
+4 Lord of the Accursed
 2 Verdurous Gearhulk
 3 Nykthos, Shrine to Nyx
 4 Nykthos, Shrine to Nyx
 1 Merfolk Branchwalker
 2 Castle Garenbrig
-2 Karn's Bastion
 2 Merfolk Branchwalker
+2 Karn's Bastion
 2 Vraska, Golgari Queen
 3 Merfolk Branchwalker
 4 Merfolk Branchwalker
 4 Swamp
-1 Liliana's Mastery
-1 Lord of the Accursed
-1 Death Baron
-1 Liliana, Untouched by Death
-1 Dark Salvation
-1 Heart of Kiran
-1 Cryptbreaker
-1 Diregraf Colossus
-1 Dread Wanderer
-1 Driven / Despair
-2 Liliana's Mastery
-2 Lord of the Accursed
-2 Heart of Kiran
-2 Dark Salvation
-2 Diregraf Colossus
-2 Dread Wanderer
-2 Liliana, Untouched by Death
-2 Cryptbreaker
-3 Diregraf Colossus
-3 Dread Wanderer
-3 Lord of the Accursed
-3 Heart of Kiran
-3 Castle Locthwain
-3 Mutavault
-3 Cryptbreaker
-4 Dread Wanderer
-4 Lord of the Accursed
-4 Cryptbreaker
 1 Blood Crypt
 1 Samut, Voice of Dissent
 1 Hazoret the Fervent

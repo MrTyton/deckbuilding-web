@@ -34,18 +34,32 @@
 
 # Other Options
 
-|*n*<sup>th</sup> copy|                                          Maindeck Card                                          |*n*<sup>th</sup> copy|Sideboard Card|
-|--------------------:|-------------------------------------------------------------------------------------------------|---------------------|--------------|
-|                    1|[Disallow](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423698)              |                     |              |
-|                    1|[Dragonlord Ojutai](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394549)     |                     |              |
-|                    1|[Silumgar's Scorn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394706)      |                     |              |
-|                    1|[Foul-Tongue Invocation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394577)|                     |              |
-|                    2|[Dragonlord Silumgar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394550)   |                     |              |
-|                    2|[Dragonlord Ojutai](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394549)     |                     |              |
-|                    2|[Silumgar's Scorn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394706)      |                     |              |
-|                    3|[Dragonlord Ojutai](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394549)     |                     |              |
-|                    3|[Silumgar's Scorn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394706)      |                     |              |
-|                    4|[Teferi, Time Raveler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461148)  |                     |              |
-|                    4|[Silumgar's Scorn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394706)      |                     |              |
-|                    4|[Dragonlord Ojutai](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394549)     |                     |              |
+|*n*<sup>th</sup> copy|                                           Maindeck Card                                            |*n*<sup>th</sup> copy|                                        Sideboard Card                                         |
+|--------------------:|----------------------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------------|
+|                    1|[Cast Down](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442969)                |                    1|[Nyx-Fleece Ram](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442015)      |
+|                    1|[Ojutai's Command](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394642)         |                    1|[Cry of the Carnarium](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457214)|
+|                    1|[Utter End](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420843)                |                    2|[Cry of the Carnarium](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457214)|
+|                    1|[Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)             |                    1|[The Scarab God](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430834)      |
+|                    2|[Cast Down](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442969)                |                     |                                                                                               |
+|                    2|[Torrential Gearhulk](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417640)      |                     |                                                                                               |
+|                    2|[Ojutai's Command](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394642)         |                     |                                                                                               |
+|                    2|[Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)             |                     |                                                                                               |
+|                    2|[Utter End](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420843)                |                     |                                                                                               |
+|                    2|[Godless Shrine](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405099)           |                     |                                                                                               |
+|                    3|[Cast Down](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442969)                |                     |                                                                                               |
+|                    3|[Glacial Fortress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=190562)         |                     |                                                                                               |
+|                    3|[Jace, Vryn's Prodigy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=398434)     |                     |                                                                                               |
+|                    3|[Teferi, Hero of Dominaria](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443095)|                     |                                                                                               |
+|                    1|[Disallow](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423698)                 |                     |                                                                                               |
+|                    1|[Dragonlord Ojutai](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394549)        |                     |                                                                                               |
+|                    1|[Silumgar's Scorn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394706)         |                     |                                                                                               |
+|                    1|[Foul-Tongue Invocation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394577)   |                     |                                                                                               |
+|                    2|[Silumgar's Scorn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394706)         |                     |                                                                                               |
+|                    2|[Dragonlord Ojutai](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394549)        |                     |                                                                                               |
+|                    2|[Dragonlord Silumgar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394550)      |                     |                                                                                               |
+|                    3|[Silumgar's Scorn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394706)         |                     |                                                                                               |
+|                    3|[Dragonlord Ojutai](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394549)        |                     |                                                                                               |
+|                    4|[Teferi, Time Raveler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461148)     |                     |                                                                                               |
+|                    4|[Silumgar's Scorn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394706)         |                     |                                                                                               |
+|                    4|[Dragonlord Ojutai](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394549)        |                     |                                                                                               |
 
