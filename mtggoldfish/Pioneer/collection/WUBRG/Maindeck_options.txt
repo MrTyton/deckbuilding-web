@@ -1,7 +1,7 @@
+2 Opt
+1 Strategic Planning
 2 Strategic Planning
 3 Strategic Planning
-1 Opt
-2 Opt
 1 Mountain
 1 Island
 1 Plains
@@ -11,12 +11,12 @@
 1 Abrupt Decay
 1 Gilded Goose
 1 Supreme Verdict
-1 Teferi, Time Raveler
 1 Assassin's Trophy
+1 Teferi, Time Raveler
+1 Oath of Kaya
 1 Sylvan Caryatid
 1 Fabled Passage
 1 Kolaghan's Command
-1 Oath of Kaya
 1 Thought Erasure
 1 Unmoored Ego
 1 Niv-Mizzet Reborn
@@ -27,9 +27,10 @@
 2 Bring to Light
 2 Fabled Passage
 2 Niv-Mizzet Reborn
-3 Bring to Light
 3 Fabled Passage
 3 Niv-Mizzet Reborn
+3 Bring to Light
+1 Sheltered Thicket
 3 Shimmer of Possibility
 1 Mana Confluence
 2 Blooming Marsh
@@ -122,16 +123,18 @@
 4 Blooming Marsh
 3 Opt
 4 Opt
-1 Sheltered Thicket
 1 Keranos, God of Storms
 1 Saheeli Rai
 1 Detention Sphere
 1 Knight of Autumn
 1 Obzedat, Ghost Council
 2 Hallowed Fountain
-1 Deathrite Shaman
-1 Glorybringer
+1 Doublecast
+2 Doublecast
+3 Doublecast
 1 Bomat Courier
+1 Glorybringer
+1 Deathrite Shaman
 2 Deathrite Shaman
 2 Blood Crypt
 3 Samut, Voice of Dissent
@@ -151,8 +154,8 @@
 3 Swamp
 3 Watery Grave
 3 Murderous Rider
-4 Swamp
 4 Nightveil Predator
+4 Swamp
 1 Shock
 1 Izzet Charm
 1 Anticipate
@@ -162,9 +165,9 @@
 1 Spell Pierce
 1 Sylvan Awakening
 1 Unbridled Growth
+2 Spell Pierce
 2 Anticipate
 2 Fiery Impulse
-2 Spell Pierce
 2 Sylvan Awakening
 2 Jeskai Ascendancy
 2 Temple Garden
@@ -172,9 +175,9 @@
 2 Unbridled Growth
 3 Anticipate
 3 Fiery Impulse
+3 Jeskai Ascendancy
 3 Sylvan Awakening
 3 Unbridled Growth
-3 Jeskai Ascendancy
 4 Attune with Aether
 4 Fiery Impulse
 4 Anticipate

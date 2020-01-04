@@ -1,3 +1,9 @@
+3 Force of Negation
+1 Simian Spirit Guide
+1 Violent Outburst
+2 Simian Spirit Guide
+2 Violent Outburst
+3 Violent Outburst
 4 Violent Outburst
 4 Street Wraith
 1 Stomping Ground
@@ -7,6 +13,7 @@
 1 Overgrown Tomb
 1 Blood Crypt
 1 Horror of the Broken Lands
+1 Monstrous Carabid
 1 Swamp
 1 Beast Within
 1 Demonic Dread
@@ -14,6 +21,7 @@
 1 Verdant Catacombs
 2 Blackcleave Cliffs
 2 Beast Within
+2 Monstrous Carabid
 2 Demonic Dread
 2 Horror of the Broken Lands
 2 Grove of the Burnwillows
@@ -21,32 +29,12 @@
 3 Blackcleave Cliffs
 3 Beast Within
 3 Demonic Dread
+3 Monstrous Carabid
 3 Horror of the Broken Lands
 4 Blackcleave Cliffs
 4 Horror of the Broken Lands
-4 Demonic Dread
-2 Fiery Islet
-2 Mountain
-4 Remand
-4 As Foretold
-1 Forest
-1 Fulminator Mage
-1 Archfiend of Ifnir
-2 Fulminator Mage
-2 Verdant Catacombs
-2 Archfiend of Ifnir
-3 Fulminator Mage
-3 Grove of the Burnwillows
-3 Verdant Catacombs
-4 Fulminator Mage
-4 Verdant Catacombs
-1 Ancestral Vision
-1 Monstrous Carabid
-2 Monstrous Carabid
-3 Monstrous Carabid
 4 Monstrous Carabid
-4 Simian Spirit Guide
-3 Force of Negation
+4 Demonic Dread
 1 Breeding Pool
 1 Flooded Strand
 2 Flooded Strand
@@ -57,13 +45,19 @@
 2 Windcaller Aven
 3 Windcaller Aven
 1 Seasoned Pyromancer
+1 Forest
+1 Fulminator Mage
+1 Archfiend of Ifnir
+2 Fulminator Mage
+2 Verdant Catacombs
 2 Swamp
+2 Archfiend of Ifnir
 2 Seasoned Pyromancer
-1 Shriekmaw
-1 Faerie Macabre
-2 Faerie Macabre
-2 Shriekmaw
-3 Archfiend of Ifnir
+3 Fulminator Mage
+3 Grove of the Burnwillows
+3 Verdant Catacombs
+4 Fulminator Mage
+4 Verdant Catacombs
 1 Izzet Charm
 1 Lightning Bolt
 1 River of Tears
@@ -92,12 +86,13 @@
 3 Bloodstained Mire
 3 Deadshot Minotaur
 4 Bloodstained Mire
+4 Simian Spirit Guide
 4 Lightning Skelemental
 4 Deadshot Minotaur
 1 Arid Mesa
-1 Teferi, Time Raveler
 1 Temple Garden
 1 Snow-Covered Plains
+1 Teferi, Time Raveler
 1 Hallowed Fountain
 1 Ardent Plea
 1 Glassdust Hulk

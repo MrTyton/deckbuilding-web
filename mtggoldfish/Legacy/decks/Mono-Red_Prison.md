@@ -85,7 +85,7 @@
 |                     |                                                                                                     |                    1|[Reality Smasher](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407517)          |
 |                     |                                                                                                     |                    2|[Reality Smasher](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407517)          |
 |                     |                                                                                                     |                    4|[Thought-Knot Seer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407519)        |
-|                     |                                                                                                     |                    2|[Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)           |
 |                     |                                                                                                     |                    2|[Magus of the Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=136152)        |
+|                     |                                                                                                     |                    2|[Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)           |
 |                     |                                                                                                     |                    3|[Goblin Cratermaker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452853)       |
 

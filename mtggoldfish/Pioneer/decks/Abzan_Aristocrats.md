@@ -43,6 +43,6 @@
 |                    2|[Abrupt Decay](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456061)       |                    3|[Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)                   |
 |                    3|[Murderous Rider](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473059)    |                    4|[Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)                   |
 |                    3|[Grim Haruspex](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386548)      |                    1|[Despark](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461117)                 |
-|                    3|[Concealed Courtyard](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417818)|                    3|[Kaya's Wrath](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457331)            |
-|                    4|[Murderous Rider](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473059)    |                     |                                                                                                   |
+|                    4|[Murderous Rider](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473059)    |                    3|[Kaya's Wrath](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457331)            |
+|                    3|[Concealed Courtyard](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417818)|                     |                                                                                                   |
 

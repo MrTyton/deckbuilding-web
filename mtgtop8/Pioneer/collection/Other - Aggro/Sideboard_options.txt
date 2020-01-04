@@ -48,12 +48,6 @@
 1 Kolaghan's Command
 1 Ultimate Price
 2 Gideon, Ally of Zendikar
-1 Heroic Intervention
-2 Heroic Intervention
-1 Blightbeetle
-1 Thrashing Brontodon
-1 Dragonlord Silumgar
-2 Blightbeetle
 1 Wicked Wolf
 1 Questing Beast
 2 Wicked Wolf
@@ -62,10 +56,12 @@
 1 Surge of Righteousness
 1 Sphinx of the Final Word
 2 Surge of Righteousness
-1 Liliana's Defeat
-1 Murderous Cut
-1 Stain the Mind
-2 Murderous Cut
+1 Heroic Intervention
+2 Heroic Intervention
+1 Blightbeetle
+1 Thrashing Brontodon
+1 Dragonlord Silumgar
+2 Blightbeetle
 1 Flame Sweep
 1 Keranos, God of Storms
 1 Wear / Tear
@@ -77,6 +73,10 @@
 2 Cindervines
 2 Chandra's Defeat
 2 Fry
+1 Murderous Cut
+1 Liliana's Defeat
+1 Stain the Mind
+2 Murderous Cut
 1 Glorybringer
 1 Hazoret the Fervent
 1 Davriel, Rogue Shadowmage
@@ -125,27 +125,27 @@
 3 Declaration in Stone
 3 Mystical Dispute
 3 Baffling End
-1 Teferi, Time Raveler
-2 Settle the Wreckage
-2 Teferi, Time Raveler
-3 Scavenging Ooze
-3 Knight of Autumn
-4 Knight of Autumn
 1 Unsummon
 1 Leyline of Sanctity
 1 Sheltering Light
 1 Sentinel's Mark
 1 Failure / Comply
 2 Unsummon
-2 Leyline of Sanctity
-2 Sentinel's Mark
 2 Sheltering Light
+2 Sentinel's Mark
+2 Leyline of Sanctity
 2 Failure / Comply
 3 Unsummon
-3 Leyline of Sanctity
 3 Sheltering Light
-4 Leyline of Sanctity
+3 Leyline of Sanctity
 4 Sheltering Light
+4 Leyline of Sanctity
+1 Teferi, Time Raveler
+2 Settle the Wreckage
+2 Teferi, Time Raveler
+3 Scavenging Ooze
+3 Knight of Autumn
+4 Knight of Autumn
 1 Brought Back
 1 Gaea's Blessing
 1 Dromoka's Command

@@ -146,12 +146,12 @@
 1 Fortified Village
 1 Bassara Tower Archer
 1 Sixth Sense
-2 Fortified Village
 2 Sixth Sense
 2 Bassara Tower Archer
-3 Fortified Village
+2 Fortified Village
 3 Bassara Tower Archer
 3 Sixth Sense
+3 Fortified Village
 4 Fortified Village
 4 Bassara Tower Archer
 4 Sixth Sense
@@ -309,12 +309,12 @@
 4 Wild Slash
 4 Judge's Familiar
 4 Mantis Rider
+1 Gryff's Boon
 1 Vine Mare
 1 Cartouche of Solidarity
-1 Gryff's Boon
 1 Season of Growth
-2 Vine Mare
 2 Gryff's Boon
+2 Vine Mare
 2 Cartouche of Solidarity
 2 Season of Growth
 3 Cartouche of Solidarity
@@ -405,12 +405,12 @@
 2 Servant of the Conduit
 2 Whirler Virtuoso
 2 Longtusk Cub
-3 The Scarab God
 3 Harnessed Lightning
 3 Bristling Hydra
 3 Abrade
 3 Aether Hub
 3 Rogue Refiner
+3 The Scarab God
 3 Longtusk Cub
 3 Whirler Virtuoso
 3 Attune with Aether
@@ -438,24 +438,24 @@
 4 Swamp
 5 Swamp
 6 Swamp
-1 Unlicensed Disintegration
 1 Bomat Courier
 1 Canyon Slough
 1 Chandra, Acolyte of Flame
 1 Stonecoil Serpent
 1 Goblin Chainwhirler
-2 Unlicensed Disintegration
+1 Unlicensed Disintegration
 2 Bomat Courier
 2 Goblin Chainwhirler
+2 Unlicensed Disintegration
 2 Foreboding Ruins
 2 Stonecoil Serpent
 3 Glorybringer
 3 Heart of Kiran
-3 Unlicensed Disintegration
 3 Chandra, Torch of Defiance
 3 Stonecoil Serpent
 3 Bomat Courier
 3 Goblin Chainwhirler
+3 Unlicensed Disintegration
 3 Foreboding Ruins
 4 Unlicensed Disintegration
 4 Chandra, Torch of Defiance

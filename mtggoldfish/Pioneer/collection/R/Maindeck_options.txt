@@ -1,12 +1,12 @@
 1 Torbran, Thane of Red Fell
-2 Torbran, Thane of Red Fell
 1 Scavenger Grounds
+2 Torbran, Thane of Red Fell
+1 Burning-Tree Emissary
+2 Burning-Tree Emissary
 1 Monastery Swiftspear
 2 Monastery Swiftspear
 3 Monastery Swiftspear
 4 Monastery Swiftspear
-1 Burning-Tree Emissary
-2 Burning-Tree Emissary
 3 Burning-Tree Emissary
 4 Burning-Tree Emissary
 1 Runaway Steam-Kin
@@ -17,6 +17,7 @@
 2 Nykthos, Shrine to Nyx
 3 Nykthos, Shrine to Nyx
 4 Nykthos, Shrine to Nyx
+17 Mountain
 1 Mizzium Mortars
 1 Bomat Courier
 2 Bomat Courier
@@ -39,9 +40,9 @@
 2 Fanatical Firebrand
 3 Fanatical Firebrand
 3 Bomat Courier
-17 Mountain
 1 Reckless Bushwhacker
 2 Reckless Bushwhacker
+1 Embercleave
 3 Experimental Frenzy
 1 Light Up the Stage
 2 Light Up the Stage
@@ -66,12 +67,12 @@
 3 Slaying Fire
 1 Wizard's Lightning
 1 Ghitu Lavarunner
+2 Ghitu Lavarunner
 2 Shock
 2 Wizard's Lightning
-2 Ghitu Lavarunner
-3 Shock
-3 Ghitu Lavarunner
 3 Wizard's Lightning
+3 Ghitu Lavarunner
+3 Shock
 1 Goblin Rabblemaster
 2 Goblin Rabblemaster
 1 Foundry Street Denizen
@@ -82,7 +83,8 @@
 3 Goblin Instigator
 4 Foundry Street Denizen
 4 Goblin Instigator
-1 Embercleave
+18 Mountain
+19 Mountain
 3 Goblin Rabblemaster
 4 Goblin Rabblemaster
 3 Castle Embereth
@@ -104,19 +106,19 @@
 1 Viashino Pyromancer
 2 Viashino Pyromancer
 3 Viashino Pyromancer
-4 Shock
 4 Wizard's Lightning
 4 Ghitu Lavarunner
-1 Scrapheap Scrounger
+4 Shock
 1 Blood Crypt
+1 Scrapheap Scrounger
 1 Dragonskull Summit
-2 Scrapheap Scrounger
 2 Blood Crypt
+2 Scrapheap Scrounger
 2 Dragonskull Summit
-3 Scrapheap Scrounger
 3 Blood Crypt
-4 Scrapheap Scrounger
+3 Scrapheap Scrounger
 4 Blood Crypt
+4 Scrapheap Scrounger
 2 Embercleave
 1 Siege-Gang Commander
 1 Goblin Ringleader
@@ -125,8 +127,6 @@
 2 Goblin Ringleader
 2 Goblin Warchief
 3 Goblin Ringleader
-18 Mountain
-19 Mountain
 1 Dragon Fodder
 2 Dragon Fodder
 1 Legion Warboss
@@ -159,15 +159,6 @@
 1 Goblin Trashmaster
 2 Goblin Trashmaster
 4 Castle Embereth
-1 Cavalcade of Calamity
-1 Throne of the God-Pharaoh
-2 Cavalcade of Calamity
-2 Throne of the God-Pharaoh
-3 Cavalcade of Calamity
-3 Legion Warboss
-3 Throne of the God-Pharaoh
-4 Cavalcade of Calamity
-4 Legion Warboss
 1 Skewer the Critics
 2 Skewer the Critics
 3 Skewer the Critics
@@ -179,6 +170,15 @@
 2 Sunscorched Desert
 3 Rampaging Ferocidon
 4 Rampaging Ferocidon
+1 Cavalcade of Calamity
+1 Throne of the God-Pharaoh
+2 Cavalcade of Calamity
+2 Throne of the God-Pharaoh
+3 Cavalcade of Calamity
+3 Throne of the God-Pharaoh
+3 Legion Warboss
+4 Cavalcade of Calamity
+4 Legion Warboss
 1 Stoke the Flames
 3 Goblin Warchief
 4 Goblin Warchief
@@ -191,8 +191,8 @@
 4 Reckless Bushwhacker
 4 Obelisk of Urd
 4 Dragon Fodder
-1 Zurgo Bellstriker
 1 Rimrock Knight
+1 Zurgo Bellstriker
 1 Ahn-Crop Crasher
 2 Zurgo Bellstriker
 2 Rimrock Knight
