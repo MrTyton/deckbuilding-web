@@ -1,12 +1,12 @@
 3 Castle Garenbrig
 4 Castle Garenbrig
+1 Cavalier of Thorns
 1 Shrine of the Forsaken Gods
 1 Elvish Rejuvenator
 1 Ulamog, the Ceaseless Hunger
 1 World Breaker
 1 Sanctum of Ugin
 1 Nissa's Pilgrimage
-1 Cavalier of Thorns
 1 Radiant Fountain
 1 Ugin, the Spirit Dragon
 2 Shrine of the Forsaken Gods
@@ -49,6 +49,7 @@
 3 Arboreal Grazer
 3 Radiant Fountain
 4 Arboreal Grazer
+4 Walking Ballista
 1 The Great Henge
 2 The Great Henge
 1 Aspect of Hydra
@@ -59,7 +60,6 @@
 2 Gilded Goose
 3 Yorvo, Lord of Garenbrig
 1 Sylvan Caryatid
-1 Whisperwood Elemental
 2 Ulvenwald Hydra
 1 Oblivion Sower
 1 Hydroid Krasis
@@ -75,7 +75,6 @@
 3 Botanical Sanctum
 4 Hydroid Krasis
 4 Breeding Pool
-4 Walking Ballista
 1 Hashep Oasis
 2 Hashep Oasis
 3 Surrak, the Hunt Caller
@@ -83,8 +82,6 @@
 2 Questing Beast
 4 Ghalta, Primal Hunger
 4 Yorvo, Lord of Garenbrig
-1 Biomass Mutation
-2 Sylvan Caryatid
 1 Rogue's Passage
 2 Rogue's Passage
 3 Questing Beast
@@ -93,6 +90,8 @@
 4 Questing Beast
 4 Rhonas the Indomitable
 4 Rogue's Passage
+1 Whisperwood Elemental
+2 Sylvan Caryatid
 3 Ulvenwald Hydra
 4 Cavalier of Thorns
 4 World Breaker
@@ -118,7 +117,9 @@
 4 Gilded Goose
 4 Wicked Wolf
 4 Oko, Thief of Crowns
+1 Biomass Mutation
 1 Hornet Queen
+3 Scavenging Ooze
 1 Tireless Tracker
 2 Tireless Tracker
 3 Tireless Tracker
