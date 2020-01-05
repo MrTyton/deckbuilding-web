@@ -1,66 +1,4 @@
-2 Opt
-1 Strategic Planning
-2 Strategic Planning
-3 Strategic Planning
-1 Mountain
-1 Island
-1 Plains
-1 Stomping Ground
-1 Swamp
-1 Blooming Marsh
-1 Abrupt Decay
-1 Gilded Goose
-1 Supreme Verdict
-1 Assassin's Trophy
-1 Teferi, Time Raveler
-1 Oath of Kaya
-1 Sylvan Caryatid
-1 Fabled Passage
-1 Kolaghan's Command
-1 Thought Erasure
-1 Unmoored Ego
-1 Niv-Mizzet Reborn
-1 Bring to Light
-2 Abrupt Decay
-2 Gilded Goose
-2 Teferi, Time Raveler
-2 Bring to Light
-2 Fabled Passage
-2 Niv-Mizzet Reborn
-3 Fabled Passage
-3 Niv-Mizzet Reborn
-3 Bring to Light
-1 Sheltered Thicket
-3 Shimmer of Possibility
-1 Mana Confluence
-2 Blooming Marsh
-1 Nahiri, the Harbinger
-1 Tolsimir, Friend to Wolves
-1 Arlinn Kord
-3 Gilded Goose
-3 Teferi, Time Raveler
-1 Deafening Clarion
-1 Attune with Aether
-1 Aether Hub
-2 Attune with Aether
-2 Aether Hub
-3 Attune with Aether
-3 Aether Hub
-4 Aether Hub
-2 Mana Confluence
-3 Blooming Marsh
-1 Opulent Palace
-1 Dreadbore
-1 Nomad Outpost
-1 Rogue Refiner
-1 The Royal Scions
-2 Opulent Palace
-2 Dreadbore
-2 Rogue Refiner
-2 Thought Erasure
-3 Abrupt Decay
-3 Thought Erasure
-3 Rogue Refiner
+1 Breeding Pool
 1 Temple Garden
 2 Stomping Ground
 1 Blood Crypt
@@ -71,72 +9,68 @@
 1 Hallowed Fountain
 1 Godless Shrine
 1 Sacred Foundry
-2 Woodland Cemetery
 2 Sylvan Caryatid
+2 Woodland Cemetery
 2 Oath of Kaya
 2 Drown in the Loch
 3 Sylvan Caryatid
+4 Sylvan Caryatid
 4 Teferi, Time Raveler
 4 Niv-Mizzet Reborn
-4 Sylvan Caryatid
 4 Fabled Passage
 4 Bring to Light
 1 Overgrown Tomb
 2 Overgrown Tomb
 1 Grisly Salvage
-1 Hazoret the Fervent
-1 Gather the Pack
-1 Zetalpa, Primal Dawn
-1 Soulflayer
-1 Lotleth Troll
 1 Samut, Voice of Dissent
+1 Hazoret the Fervent
+1 Lotleth Troll
+1 Soulflayer
+1 Commune with the Gods
+1 Zetalpa, Primal Dawn
 1 Chromanticore
 1 Nightveil Predator
 1 Traverse the Ulvenwald
-1 Commune with the Gods
+1 Gather the Pack
 2 Swamp
-2 Lotleth Troll
-2 Gather the Pack
-2 Zetalpa, Primal Dawn
-2 Soulflayer
 2 Grisly Salvage
 2 Traverse the Ulvenwald
 2 Nightveil Predator
-2 Samut, Voice of Dissent
+2 Gather the Pack
+2 Zetalpa, Primal Dawn
 2 Commune with the Gods
-3 Grisly Salvage
-3 Lotleth Troll
-3 Gather the Pack
-3 Zetalpa, Primal Dawn
-3 Soulflayer
+2 Samut, Voice of Dissent
+2 Lotleth Troll
+2 Soulflayer
 3 Mana Confluence
+3 Soulflayer
 3 Commune with the Gods
+3 Zetalpa, Primal Dawn
+3 Gather the Pack
+3 Lotleth Troll
+3 Grisly Salvage
 3 Overgrown Tomb
-4 Soulflayer
-4 Zetalpa, Primal Dawn
-4 Lotleth Troll
-4 Grisly Salvage
 4 Gather the Pack
 4 Overgrown Tomb
-4 Mana Confluence
+4 Grisly Salvage
+4 Lotleth Troll
 4 Commune with the Gods
+4 Mana Confluence
+4 Zetalpa, Primal Dawn
+4 Soulflayer
 4 Blooming Marsh
-3 Opt
-4 Opt
 1 Keranos, God of Storms
 1 Saheeli Rai
+1 Obzedat, Ghost Council
 1 Detention Sphere
 1 Knight of Autumn
-1 Obzedat, Ghost Council
 2 Hallowed Fountain
-1 Doublecast
-2 Doublecast
-3 Doublecast
-1 Bomat Courier
 1 Glorybringer
 1 Deathrite Shaman
+1 Bomat Courier
 2 Deathrite Shaman
 2 Blood Crypt
+2 Forest
 3 Samut, Voice of Dissent
 3 Traverse the Ulvenwald
 3 Blood Crypt
@@ -150,38 +84,53 @@
 2 Murderous Rider
 2 Thoughtseize
 2 Watery Grave
+3 Murderous Rider
 3 Nightveil Predator
 3 Swamp
 3 Watery Grave
-3 Murderous Rider
 4 Nightveil Predator
 4 Swamp
 1 Shock
 1 Izzet Charm
+1 Dig Through Time
 1 Anticipate
 1 Discovery/Dispersal
 1 Fiery Impulse
 1 Jeskai Ascendancy
 1 Spell Pierce
-1 Sylvan Awakening
 1 Unbridled Growth
+1 Sylvan Awakening
+1 Strategic Planning
+1 Opt
 2 Spell Pierce
+2 Temple Garden
+2 Dig Through Time
 2 Anticipate
 2 Fiery Impulse
+2 Strategic Planning
 2 Sylvan Awakening
 2 Jeskai Ascendancy
-2 Temple Garden
 2 Izzet Charm
+2 Opt
 2 Unbridled Growth
+2 Breeding Pool
+3 Dig Through Time
 3 Anticipate
+3 Botanical Sanctum
 3 Fiery Impulse
 3 Jeskai Ascendancy
+3 Breeding Pool
 3 Sylvan Awakening
 3 Unbridled Growth
+3 Strategic Planning
+3 Opt
 4 Attune with Aether
+4 Botanical Sanctum
 4 Fiery Impulse
 4 Anticipate
-4 Sylvan Awakening
+4 Opt
 4 Unbridled Growth
+4 Sylvan Awakening
 4 Jeskai Ascendancy
+4 Dig Through Time
 4 Strategic Planning

@@ -7,16 +7,16 @@
 1 Walking Ballista
 1 Enter the Infinite
 1 Blood Crypt
-1 Dragonskull Summit
 1 Borborygmos Enraged
 1 Possibility Storm
 1 Lovestruck Beast
+1 Dragonskull Summit
 1 Rootbound Crag
 2 Lovestruck Beast
 2 Blood Crypt
 2 Rootbound Crag
-2 Dragonskull Summit
 2 Possibility Storm
+2 Dragonskull Summit
 3 Possibility Storm
 3 Lovestruck Beast
 4 Overgrown Tomb
@@ -27,45 +27,45 @@
 2 Harnessed Lightning
 3 Harnessed Lightning
 4 Harnessed Lightning
-1 Fatal Push
 1 Kolaghan's Command
+1 Goblin Rabblemaster
+1 Fatal Push
 1 Beanstalk Giant
 1 Captain Lannery Storm
-1 Goblin Rabblemaster
 1 Scavenging Ooze
 1 Llanowar Elves
 1 Elvish Mystic
 2 Goblin Rabblemaster
+2 Kolaghan's Command
 2 Elvish Mystic
 2 Scavenging Ooze
 2 Beanstalk Giant
 2 Captain Lannery Storm
 2 Llanowar Elves
 2 Fatal Push
-2 Kolaghan's Command
 3 Goblin Rabblemaster
 3 Fatal Push
 3 Beanstalk Giant
 4 Goblin Rabblemaster
 4 Beanstalk Giant
 4 Fatal Push
-1 Circuitous Route
 1 Elvish Rejuvenator
+1 Circuitous Route
 1 Dimir Guildgate
-1 Hydroid Krasis
-1 Gateway Plaza
+1 Ugin, the Spirit Dragon
 1 Arboreal Grazer
-1 Growth Spiral
 1 Selesnya Guildgate
 1 Gate Colossus
 1 Maze's End
 1 Gates Ablaze
-1 Ugin, the Spirit Dragon
+1 Gateway Plaza
 1 Izzet Guildgate
 1 Boros Guildgate
 1 Plaza of Harmony
+1 Hydroid Krasis
 1 Simic Guildgate
 1 Orzhov Guildgate
+1 Growth Spiral
 1 Azorius Guildgate
 1 Golgari Guildgate
 1 Guild Summit
@@ -74,25 +74,25 @@
 1 Gatebreaker Ram
 2 Elvish Rejuvenator
 2 Circuitous Route
-2 Hydroid Krasis
+2 Arboreal Grazer
 2 Maze's End
 2 Gruul Guildgate
 2 Growth Spiral
+2 Hydroid Krasis
 2 Simic Guildgate
 2 Plaza of Harmony
 2 Gatebreaker Ram
 2 Guild Summit
-2 Arboreal Grazer
 2 Golgari Guildgate
 2 Gates Ablaze
 3 Elvish Rejuvenator
 3 Circuitous Route
+3 Arboreal Grazer
 3 Hydroid Krasis
 3 Simic Guildgate
 3 Gatebreaker Ram
 3 Gates Ablaze
 3 Guild Summit
-3 Arboreal Grazer
 3 Growth Spiral
 3 Maze's End
 3 Plaza of Harmony
@@ -100,69 +100,69 @@
 4 Elvish Rejuvenator
 4 Circuitous Route
 4 Arboreal Grazer
+4 Hydroid Krasis
 4 Gates Ablaze
 4 Plaza of Harmony
-4 Hydroid Krasis
 4 Gatebreaker Ram
 4 Growth Spiral
 3 Servant of the Conduit
 4 Servant of the Conduit
-1 Shimmer of Possibility
-1 Baral, Chief of Compliance
-1 Dark Petition
-1 Pieces of the Puzzle
-1 Finale of Revelation
-1 Opt
-1 Dig Through Time
-1 Doublecast
-1 Lumbering Falls
 1 Sylvan Scrying
-1 Pore Over the Pages
+1 Temple of Mystery
+1 Blast Zone
+1 Pieces of the Puzzle
+1 Yavimaya Coast
+1 Opt
+1 Vizier of Tumbling Sands
+1 Dark Petition
+1 Dig Through Time
+1 Finale of Revelation
+1 Lumbering Falls
 1 Botanical Sanctum
+1 Pore Over the Pages
+1 Doublecast
 1 Hidden Strings
 1 Thespian's Stage
-1 Yavimaya Coast
+1 Baral, Chief of Compliance
 1 Lotus Field
+1 Shimmer of Possibility
 1 Banefire
-1 Blast Zone
-1 Temple of Mystery
-1 Vizier of Tumbling Sands
-2 Shimmer of Possibility
-2 Finale of Revelation
-2 Dark Petition
-2 Opt
-2 Dig Through Time
+2 Temple of Mystery
 2 Sylvan Scrying
+2 Dark Petition
+2 Yavimaya Coast
+2 Opt
 2 Vizier of Tumbling Sands
+2 Dig Through Time
 2 Hidden Strings
 2 Thespian's Stage
+2 Shimmer of Possibility
 2 Island
 2 Doublecast
-2 Temple of Mystery
+2 Finale of Revelation
 2 Lotus Field
 2 Botanical Sanctum
 2 Pore Over the Pages
 2 Baral, Chief of Compliance
-2 Yavimaya Coast
-3 Shimmer of Possibility
+3 Temple of Mystery
+3 Yavimaya Coast
 3 Hidden Strings
 3 Thespian's Stage
 3 Pore Over the Pages
 3 Botanical Sanctum
-3 Yavimaya Coast
 3 Sylvan Scrying
-3 Temple of Mystery
+3 Shimmer of Possibility
 3 Lotus Field
-3 Dig Through Time
 3 Vizier of Tumbling Sands
 3 Doublecast
-4 Shimmer of Possibility
+3 Dig Through Time
 4 Temple of Mystery
 4 Botanical Sanctum
+4 Shimmer of Possibility
 4 Lotus Field
-4 Doublecast
 4 Hidden Strings
 4 Thespian's Stage
+4 Doublecast
 4 Sylvan Scrying
 4 Vizier of Tumbling Sands
 4 Pore Over the Pages

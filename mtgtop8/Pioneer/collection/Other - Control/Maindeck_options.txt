@@ -37,13 +37,13 @@
 4 Swamp
 5 Swamp
 1 Nissa's Pilgrimage
+1 Dark Petition
 1 Tireless Tracker
 1 Temple of Malady
 1 Seasons Past
 1 Overgrown Tomb
 1 Hissing Quagmire
 1 Read the Bones
-1 Dark Petition
 1 Sign in Blood
 2 Temple of Malady
 2 Assassin's Trophy
@@ -116,17 +116,17 @@
 1 Temple Garden
 1 Gilded Goose
 1 Mana Confluence
+1 Bring to Light
 1 Stomping Ground
 1 Niv-Mizzet Reborn
-1 Bring to Light
 1 Tolsimir, Friend to Wolves
 1 Aether Hub
 1 Rogue Refiner
 1 Blooming Marsh
 2 Gilded Goose
 2 Botanical Sanctum
-2 Bring to Light
 2 Niv-Mizzet Reborn
+2 Bring to Light
 2 Blooming Marsh
 2 Rogue Refiner
 2 Aether Hub
@@ -242,18 +242,18 @@
 1 Ifnir Deadlands
 1 Mortify
 2 Mortify
+2 Ob Nixilis Reignited
 2 Archangel Avacyn
 2 Westvale Abbey
 2 Duress
 2 Transgress the Mind
-2 Grasp of Darkness
 2 Sorin, Grim Nemesis
 2 Ifnir Deadlands
-2 Ob Nixilis Reignited
 2 Blighted Fen
-3 Grasp of Darkness
+2 Grasp of Darkness
 3 Transgress the Mind
 3 Ob Nixilis Reignited
+3 Grasp of Darkness
 4 Grasp of Darkness
 1 Gonti, Lord of Luxury
 1 Courser of Kruphix
@@ -303,17 +303,17 @@
 2 Magma Jet
 2 Commit / Memory
 4 Fae of Wishes
-1 Young Pyromancer
 1 Claim / Fame
 1 Treasure Cruise
 1 Dreadhorde Arcanist
+1 Young Pyromancer
 1 Wild Slash
-2 Young Pyromancer
 2 Treasure Cruise
 2 The Royal Scions
 2 Collective Brutality
 2 Wild Slash
 2 Dreadhorde Arcanist
+2 Young Pyromancer
 2 Claim / Fame
 3 Dreadhorde Arcanist
 3 Young Pyromancer
@@ -322,14 +322,14 @@
 4 Young Pyromancer
 4 Wild Slash
 1 Canyon Slough
+1 Angrath's Rampage
 1 Angrath, the Flame-Chained
 1 Rekindling Phoenix
 1 Rakdos's Return
 1 Temple of Malice
-1 Angrath's Rampage
 2 Canyon Slough
-2 Rekindling Phoenix
 2 Rakdos's Return
+2 Rekindling Phoenix
 2 Temple of Malice
 3 Castle Locthwain
 3 Canyon Slough
@@ -352,12 +352,12 @@
 4 Thought Erasure
 1 Traverse the Ulvenwald
 1 Sylvan Caryatid
-1 Arlinn Kord
-1 Nomad Outpost
-1 Opulent Palace
 1 Keranos, God of Storms
 1 Vraska, Golgari Queen
+1 Nomad Outpost
+1 Opulent Palace
 1 Despark
+1 Arlinn Kord
 2 Traverse the Ulvenwald
 2 Sylvan Caryatid
 2 Opulent Palace
@@ -366,8 +366,8 @@
 3 Blooming Marsh
 4 Rogue Refiner
 4 Blooming Marsh
-1 Gideon Blackblade
 1 Gideon's Triumph
+1 Gideon Blackblade
 1 Gideon, Ally of Zendikar
 1 Heart of Kiran
 1 Kaya's Wrath
@@ -462,8 +462,8 @@
 2 Tireless Tracker
 7 Forest
 1 Stormbreath Dragon
-1 Magma Spray
 1 Castle Embereth
+1 Magma Spray
 1 Thunderbreak Regent
 1 Crater's Claws
 1 Abrade
