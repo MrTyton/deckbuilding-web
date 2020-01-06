@@ -1,5 +1,4 @@
 3 Heart of Kiran
-6 Mountain
 2 Ghor-Clan Rampager
 3 Rootbound Crag
 4 Rootbound Crag
@@ -7,21 +6,21 @@
 2 Gruul Spellbreaker
 3 Gruul Spellbreaker
 4 Gruul Spellbreaker
-1 Pelt Collector
 1 Experiment One
+1 Pelt Collector
 1 Voltaic Brawler
 1 Burning-Tree Emissary
 1 Zhur-Taa Goblin
-2 Pelt Collector
 2 Experiment One
+2 Pelt Collector
 2 Voltaic Brawler
 2 Burning-Tree Emissary
 2 Zhur-Taa Goblin
-3 Pelt Collector
 3 Experiment One
+3 Pelt Collector
+3 Voltaic Brawler
 3 Burning-Tree Emissary
 3 Zhur-Taa Goblin
-3 Voltaic Brawler
 4 Experiment One
 4 Voltaic Brawler
 4 Pelt Collector
@@ -34,26 +33,27 @@
 1 Hazoret the Fervent
 2 Hazoret the Fervent
 4 Embercleave
+6 Mountain
 3 Ghor-Clan Rampager
 2 Scavenging Ooze
+4 Ghor-Clan Rampager
 1 Questing Beast
 2 Questing Beast
-4 Ghor-Clan Rampager
 3 Questing Beast
 3 Blossoming Defense
 1 Mana Confluence
 1 Domri Rade
 2 Domri Rade
-1 Rhonas the Indomitable
 3 Hazoret the Fervent
 1 Rimrock Knight
+4 Blossoming Defense
+1 Rhonas the Indomitable
 1 Steel Leaf Champion
 1 Wild Slash
 2 Steel Leaf Champion
 2 Wild Slash
-3 Steel Leaf Champion
-4 Blossoming Defense
 3 Wild Slash
+3 Steel Leaf Champion
 4 Wild Slash
 4 Zhur-Taa Goblin
 4 Domri, Anarch of Bolas
@@ -65,7 +65,6 @@
 4 Heart of Kiran
 1 Domri's Ambush
 2 Domri's Ambush
-4 Collected Company
 1 Reckless Bushwhacker
 2 Reckless Bushwhacker
 3 Reckless Bushwhacker
@@ -74,14 +73,17 @@
 2 Atarka's Command
 1 Mizzium Mortars
 1 Chandra, Torch of Defiance
-1 Magma Spray
 1 Collision/Colossus
+1 Magma Spray
 1 Hanweir Garrison
 2 Hanweir Garrison
-2 Mana Confluence
-2 Rhonas the Indomitable
 1 Earthshaker Khenra
 2 Earthshaker Khenra
+2 Mana Confluence
+2 Rhonas the Indomitable
+4 Collected Company
+3 Atarka's Command
+4 Atarka's Command
 1 Chandra, Pyromaster
 1 Chandra, Fire Artisan
 1 Glorybringer
@@ -91,5 +93,3 @@
 3 Thorn Lieutenant
 4 Thorn Lieutenant
 4 Hashep Oasis
-3 Atarka's Command
-4 Atarka's Command

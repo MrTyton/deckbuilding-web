@@ -3,9 +3,9 @@
 1 Roast
 2 Roast
 1 Experimental Frenzy
-3 Roast
 3 Damping Sphere
 2 Experimental Frenzy
+3 Roast
 3 Experimental Frenzy
 4 Experimental Frenzy
 1 Tibalt, Rakish Instigator
@@ -15,10 +15,10 @@
 1 Rampaging Ferocidon
 2 Rampaging Ferocidon
 1 Searing Blood
-1 Goblin Chainwhirler
-2 Goblin Chainwhirler
 2 Searing Blood
 1 Chandra, Torch of Defiance
+1 Goblin Chainwhirler
+2 Goblin Chainwhirler
 1 Lava Coil
 2 Lava Coil
 3 Searing Blood
@@ -26,12 +26,12 @@
 4 Tibalt, Rakish Instigator
 4 Searing Blood
 3 Rampaging Ferocidon
+1 Magma Spray
+2 Magma Spray
 1 Smash to Smithereens
 2 Smash to Smithereens
 3 Abrade
 2 Hazoret the Fervent
-1 Magma Spray
-2 Magma Spray
 3 Lava Coil
 1 Chandra's Defeat
 1 Eldrazi Obligator
@@ -51,8 +51,8 @@
 2 Chandra, Acolyte of Flame
 3 Goblin Chainwhirler
 2 Mutavault
-3 Chandra, Torch of Defiance
 3 Mutavault
+3 Chandra, Torch of Defiance
 1 Thought-Knot Seer
 2 Chandra's Defeat
 1 Pithing Needle
@@ -86,9 +86,6 @@
 2 Eidolon of the Great Revel
 3 Eidolon of the Great Revel
 3 Rekindling Phoenix
-1 Leyline of Combustion
-2 Leyline of Combustion
-3 Leyline of Combustion
 3 Grafdigger's Cage
 4 Mutavault
 3 Skullcrack

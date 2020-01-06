@@ -54,7 +54,7 @@
 |                    1|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)                |                    2|[Stain the Mind](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383402)     |
 |                    1|[Ghost Quarter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389534)        |                    2|[Assassin's Trophy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452902)  |
 |                    1|[Mana Confluence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409573)      |                     |                                                                                              |
-|                    2|[City of Brass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=4178)          |                     |                                                                                              |
-|                    3|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)             |                     |                                                                                              |
 |                    1|[Snow-Covered Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121192)  |                     |                                                                                              |
+|                    3|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)             |                     |                                                                                              |
+|                    2|[City of Brass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=4178)          |                     |                                                                                              |
 

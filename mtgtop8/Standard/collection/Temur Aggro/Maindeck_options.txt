@@ -1,25 +1,25 @@
 1 Castle Vantress
 1 Temple of Epiphany
 1 Temple of Mystery
+1 Unsummon
 1 Tale's End
 1 Nightpack Ambusher
-1 Unsummon
 1 Frilled Mystic
 1 Ionize
 2 Nightpack Ambusher
-2 Chandra, Awakened Inferno
-2 Tale's End
 2 Unsummon
+2 Chandra, Awakened Inferno
 2 Ionize
+2 Tale's End
 2 Frilled Mystic
-3 Unsummon
 3 Ionize
 3 Nightpack Ambusher
+3 Unsummon
 3 Frilled Mystic
 4 Nightpack Ambusher
 1 Wicked Wolf
-1 Kraul Harpooner
 1 Aether Gust
+1 Kraul Harpooner
 1 Oko, Thief of Crowns
 2 Wicked Wolf
 2 Aether Gust
@@ -36,7 +36,6 @@
 1 Once Upon a Time
 1 Living Twister
 1 Cavalier of Thorns
-2 Temple of Epiphany
 2 Negate
 2 Omnath, Locus of the Roil
 2 Leafkin Druid
@@ -45,6 +44,7 @@
 2 Cavalier of Thorns
 2 Once Upon a Time
 2 Living Twister
+2 Temple of Epiphany
 3 Living Twister
 3 Temple of Mystery
 3 Cavalier of Thorns
@@ -68,9 +68,9 @@
 4 Growth-Chamber Guardian
 1 Vivien, Arkbow Ranger
 1 Castle Garenbrig
-1 Mass Manipulation
 1 Growth Spiral
 1 Embercleave
+1 Mass Manipulation
 2 Embercleave
 2 Mass Manipulation
 2 Growth Spiral

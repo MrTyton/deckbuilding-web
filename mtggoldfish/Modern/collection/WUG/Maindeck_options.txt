@@ -13,8 +13,8 @@
 2 Prismatic Vista
 3 Prismatic Vista
 1 Mystic Sanctuary
-1 Field of Ruin
 1 Celestial Colonnade
+1 Field of Ruin
 1 Eladamri's Call
 2 Eladamri's Call
 3 Eladamri's Call
@@ -22,8 +22,8 @@
 1 Vendilion Clique
 1 Tireless Tracker
 1 Shalai, Voice of Plenty
-1 Remand
 1 Snapcaster Mage
+1 Remand
 2 Field of Ruin
 2 Snapcaster Mage
 4 Flooded Strand
@@ -43,9 +43,9 @@
 2 Birds of Paradise
 2 Mirran Crusader
 2 Collected Company
+3 Birds of Paradise
 3 Geist of Saint Traft
 3 Collected Company
-3 Birds of Paradise
 3 Mirran Crusader
 4 Birds of Paradise
 4 Collected Company
@@ -76,14 +76,14 @@
 2 Urza, Lord High Artificer
 2 Mox Opal
 2 Mishra's Bauble
-3 Urza, Lord High Artificer
 3 Mox Opal
 3 Arcum's Astrolabe
 3 Mishra's Bauble
+3 Urza, Lord High Artificer
 4 Urza, Lord High Artificer
-4 Snow-Covered Island
 4 Mishra's Bauble
 4 Mox Opal
+4 Snow-Covered Island
 4 Arcum's Astrolabe
 2 Gavony Township
 4 Horizon Canopy
@@ -121,10 +121,10 @@
 1 Giver of Runes
 1 Hexdrinker
 1 Selfless Spirit
+1 Phyrexian Revoker
 1 Moorland Haunt
 1 Razorverge Thicket
 1 Ranger-Captain of Eos
-1 Phyrexian Revoker
 1 Thalia, Guardian of Thraben
 2 Giver of Runes
 2 Phyrexian Revoker
@@ -150,8 +150,8 @@
 2 Verdant Catacombs
 2 Arbor Elf
 2 Utopia Sprawl
-2 Postmortem Lunge
 2 Oath of Nissa
+2 Postmortem Lunge
 2 Finale of Devastation
 2 Vizier of Remedies
 3 Devoted Druid
@@ -185,6 +185,7 @@
 3 Coiling Oracle
 4 Ephemerate
 4 Coiling Oracle
+1 Explore
 1 Yavimaya Coast
 1 Westvale Abbey
 1 Supreme Verdict
@@ -194,28 +195,27 @@
 1 Hour of Promise
 1 Primeval Titan
 1 Sakura-Tribe Elder
-1 Field of the Dead
-1 Arboreal Grazer
-1 Explore
 1 Brushland
+1 Arboreal Grazer
+1 Field of the Dead
+1 Detention Sphere
 1 Sunpetal Grove
 1 Hinterland Harbor
 1 Wargate
 1 Castle Garenbrig
-1 Detention Sphere
-2 Supreme Verdict
 2 Explore
-2 Hour of Promise
+2 Supreme Verdict
 2 Primeval Titan
+2 Hour of Promise
 2 Field of the Dead
 2 Wargate
 2 Arboreal Grazer
 3 Explore
 3 Primeval Titan
-3 Field of the Dead
 3 Hour of Promise
 3 Arboreal Grazer
 3 Supreme Verdict
+3 Field of the Dead
 3 Wargate
 4 Explore
 4 Wargate

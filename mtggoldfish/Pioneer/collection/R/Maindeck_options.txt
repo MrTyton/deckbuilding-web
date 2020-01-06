@@ -71,12 +71,12 @@
 3 Slaying Fire
 1 Wizard's Lightning
 1 Ghitu Lavarunner
-2 Shock
-2 Wizard's Lightning
 2 Ghitu Lavarunner
-3 Shock
-3 Ghitu Lavarunner
+2 Wizard's Lightning
+2 Shock
 3 Wizard's Lightning
+3 Ghitu Lavarunner
+3 Shock
 1 Goblin Rabblemaster
 2 Goblin Rabblemaster
 1 Foundry Street Denizen
@@ -106,9 +106,9 @@
 1 Viashino Pyromancer
 2 Viashino Pyromancer
 3 Viashino Pyromancer
-4 Shock
 4 Wizard's Lightning
 4 Ghitu Lavarunner
+4 Shock
 1 Scrapheap Scrounger
 1 Blood Crypt
 1 Dragonskull Summit

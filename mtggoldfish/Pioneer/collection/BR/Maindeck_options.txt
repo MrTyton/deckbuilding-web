@@ -87,12 +87,6 @@
 3 Legion Warboss
 4 Dreadhorde Arcanist
 4 Rekindling Phoenix
-1 Mutavault
-2 Mutavault
-2 Hazoret the Fervent
-2 Chandra, Acolyte of Flame
-3 Mutavault
-4 Mutavault
 1 Hangarback Walker
 1 Abrade
 1 Magma Spray
@@ -101,8 +95,14 @@
 2 Magma Spray
 2 Pia Nalaar
 3 Hangarback Walker
-4 Canyon Slough
 4 Hangarback Walker
+4 Canyon Slough
+1 Mutavault
+2 Mutavault
+2 Hazoret the Fervent
+2 Chandra, Acolyte of Flame
+3 Mutavault
+4 Mutavault
 1 Dire Fleet Daredevil
 1 Young Pyromancer
 2 Dire Fleet Daredevil
@@ -110,18 +110,18 @@
 3 Young Pyromancer
 3 Dreadbore
 4 Young Pyromancer
-1 Monastery Swiftspear
 1 Soul-Scar Mage
-1 Lightning Strike
 1 Castle Embereth
 1 Embercleave
+1 Lightning Strike
+1 Monastery Swiftspear
 2 Lightning Strike
-2 Monastery Swiftspear
 2 Soul-Scar Mage
 2 Embercleave
-3 Monastery Swiftspear
+2 Monastery Swiftspear
 3 Soul-Scar Mage
 3 Ramunap Ruins
+3 Monastery Swiftspear
 4 Monastery Swiftspear
 9 Mountain
 1 Harnessed Lightning

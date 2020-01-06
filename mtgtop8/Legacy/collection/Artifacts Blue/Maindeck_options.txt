@@ -20,8 +20,8 @@
 1 Underground Sea
 2 Baleful Strix
 2 Polluted Delta
-3 Baleful Strix
 3 Polluted Delta
+3 Baleful Strix
 1 Tropical Island
 1 Oko, Thief of Crowns
 2 Oko, Thief of Crowns
@@ -50,9 +50,9 @@
 1 Teferi, Time Raveler
 1 Gilded Goose
 1 Tundra
-1 Flooded Strand
 1 Sylvan Library
 1 Ice-Fang Coatl
+1 True-Name Nemesis
 1 Swords to Plowshares
 1 Umezawa's Jitte
 1 Batterskull
@@ -61,22 +61,22 @@
 1 Windswept Heath
 1 Wasteland
 1 Stoneforge Mystic
-1 True-Name Nemesis
+1 Flooded Strand
 1 Forest
 2 Tundra
 2 Windswept Heath
-2 Flooded Strand
+2 True-Name Nemesis
 2 Ice-Fang Coatl
 2 Sylvan Library
 2 Swords to Plowshares
 2 Ponder
-2 True-Name Nemesis
 2 Noble Hierarch
 2 Wasteland
 2 Stoneforge Mystic
+2 Flooded Strand
+3 Flooded Strand
 3 Ponder
 3 Sylvan Library
-3 Flooded Strand
 3 Ice-Fang Coatl
 3 Swords to Plowshares
 3 Wasteland

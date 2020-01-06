@@ -75,6 +75,6 @@
 |                     |                                                                                                 |                    2|[History of Benalia](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442909)        |
 |                     |                                                                                                 |                    2|[Declaration in Stone](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409750)      |
 |                     |                                                                                                 |                    3|[Disenchant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=847)                   |
-|                     |                                                                                                 |                    3|[History of Benalia](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442909)        |
 |                     |                                                                                                 |                    4|[History of Benalia](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442909)        |
+|                     |                                                                                                 |                    3|[History of Benalia](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442909)        |
 
