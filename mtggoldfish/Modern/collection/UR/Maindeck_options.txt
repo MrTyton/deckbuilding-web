@@ -1,6 +1,6 @@
+2 Sulfur Falls
 2 Blood Moon
 2 Mana Leak
-2 Sulfur Falls
 1 Spirebluff Canal
 2 Spirebluff Canal
 3 Spirebluff Canal
@@ -17,7 +17,6 @@
 1 Eidolon of the Great Revel
 1 Bloodstained Mire
 2 Snow-Covered Mountain
-2 Fiery Islet
 2 Monastery Swiftspear
 2 Lava Spike
 2 Skullcrack
@@ -26,6 +25,7 @@
 2 Searing Blaze
 2 Goblin Guide
 2 Eidolon of the Great Revel
+2 Fiery Islet
 3 Snow-Covered Mountain
 3 Skullcrack
 3 Monastery Swiftspear
@@ -80,17 +80,17 @@
 2 Simian Spirit Guide
 2 Sphinx of Foresight
 3 Dreadhorde Arcanist
-3 Electrodominance
+3 As Foretold
+3 Ancestral Vision
 3 Crashing Footfalls
 3 Simian Spirit Guide
-3 Ancestral Vision
-3 As Foretold
+3 Electrodominance
 3 Sleight of Hand
-4 Steam Vents
 4 Force of Negation
-4 Electrodominance
-4 Sleight of Hand
-4 Crashing Footfalls
-4 As Foretold
-4 Simian Spirit Guide
 4 Ancestral Vision
+4 As Foretold
+4 Electrodominance
+4 Crashing Footfalls
+4 Steam Vents
+4 Sleight of Hand
+4 Simian Spirit Guide

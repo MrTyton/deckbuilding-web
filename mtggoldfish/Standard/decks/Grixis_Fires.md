@@ -49,8 +49,8 @@
 |                    3|[Shimmer of Possibility](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457195) |                     |                                                                                        |
 |                    4|[Interplanar Beacon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461174)     |                     |                                                                                        |
 |                    4|[Murderous Rider](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473059)        |                     |                                                                                        |
-|                    4|[Temple of Epiphany](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442808)     |                     |                                                                                        |
-|                    4|[Shimmer of Possibility](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457195) |                     |                                                                                        |
 |                    4|[Nicol Bolas, Dragon-God](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463947)|                     |                                                                                        |
+|                    4|[Temple of Epiphany](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442808)     |                     |                                                                                        |
 |                    4|[Drawn from Dreams](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466810)      |                     |                                                                                        |
+|                    4|[Shimmer of Possibility](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457195) |                     |                                                                                        |
 

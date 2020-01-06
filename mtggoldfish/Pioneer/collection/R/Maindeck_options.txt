@@ -1,6 +1,7 @@
 1 Torbran, Thane of Red Fell
 1 Scavenger Grounds
 2 Torbran, Thane of Red Fell
+17 Mountain
 1 Burning-Tree Emissary
 2 Burning-Tree Emissary
 1 Monastery Swiftspear
@@ -17,10 +18,10 @@
 2 Nykthos, Shrine to Nyx
 3 Nykthos, Shrine to Nyx
 4 Nykthos, Shrine to Nyx
-17 Mountain
 1 Mizzium Mortars
 1 Bomat Courier
 2 Bomat Courier
+1 Embercleave
 4 Runaway Steam-Kin
 1 Shock
 1 Experimental Frenzy
@@ -42,7 +43,6 @@
 3 Bomat Courier
 1 Reckless Bushwhacker
 2 Reckless Bushwhacker
-1 Embercleave
 3 Experimental Frenzy
 1 Light Up the Stage
 2 Light Up the Stage
@@ -51,6 +51,8 @@
 1 Battlefield Forge
 2 Battlefield Forge
 1 Abrade
+18 Mountain
+19 Mountain
 4 Fanatical Firebrand
 1 Walking Ballista
 1 Oath of Chandra
@@ -85,8 +87,6 @@
 3 Goblin Instigator
 4 Foundry Street Denizen
 4 Goblin Instigator
-18 Mountain
-19 Mountain
 3 Goblin Rabblemaster
 4 Goblin Rabblemaster
 3 Castle Embereth
@@ -144,6 +144,8 @@
 2 Searing Blood
 1 Magma Spray
 2 Magma Spray
+1 Earthshaker Khenra
+2 Earthshaker Khenra
 2 Hazoret the Fervent
 1 Purphoros, God of the Forge
 2 Purphoros, God of the Forge

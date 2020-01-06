@@ -1,9 +1,9 @@
 4 Misty Rainforest
 2 Hallowed Fountain
 1 Sword of Feast and Famine
+4 Windswept Heath
 1 Geist of Saint Traft
 2 Geist of Saint Traft
-4 Windswept Heath
 2 Waterlogged Grove
 1 Prismatic Vista
 1 Once Upon a Time
@@ -13,20 +13,21 @@
 2 Prismatic Vista
 3 Prismatic Vista
 1 Mystic Sanctuary
-1 Celestial Colonnade
 1 Field of Ruin
+1 Celestial Colonnade
 1 Eladamri's Call
+2 Eladamri's Call
+3 Eladamri's Call
 1 Spell Snare
 1 Vendilion Clique
 1 Tireless Tracker
 1 Shalai, Voice of Plenty
 1 Remand
 1 Snapcaster Mage
-2 Eladamri's Call
 2 Field of Ruin
 2 Snapcaster Mage
-3 Eladamri's Call
 4 Flooded Strand
+3 Snow-Covered Forest
 3 Once Upon a Time
 1 Horizon Canopy
 2 Horizon Canopy
@@ -48,12 +49,12 @@
 3 Mirran Crusader
 4 Birds of Paradise
 4 Collected Company
-4 Mirran Crusader
 4 Geist of Saint Traft
-3 Snow-Covered Forest
+4 Mirran Crusader
 2 Breeding Pool
 3 Horizon Canopy
 4 Once Upon a Time
+4 Teferi, Time Raveler
 1 Sword of Fire and Ice
 1 Settle the Wreckage
 2 Jace, the Mind Sculptor
@@ -61,18 +62,17 @@
 2 Mana Leak
 3 Brazen Borrower
 4 Brazen Borrower
-4 Teferi, Time Raveler
 1 Qasali Pridemage
 2 Qasali Pridemage
 3 Qasali Pridemage
 4 Qasali Pridemage
+1 Karn, the Great Creator
+2 Karn, the Great Creator
 1 Scalding Tarn
 1 Mox Opal
-1 Polluted Delta
 1 Urza, Lord High Artificer
-1 Karn, the Great Creator
+1 Polluted Delta
 1 Mishra's Bauble
-2 Karn, the Great Creator
 2 Urza, Lord High Artificer
 2 Mox Opal
 2 Mishra's Bauble
@@ -95,14 +95,15 @@
 2 Meddling Mage
 3 Meddling Mage
 4 Meddling Mage
-1 Aether Vial
 1 Seachrome Coast
+1 Aether Vial
+2 Seachrome Coast
 2 Aether Vial
 2 Deputy of Detention
-2 Seachrome Coast
 3 Seachrome Coast
 3 Aether Vial
 4 Aether Vial
+1 Walking Ballista
 1 Spell Pierce
 1 Metallic Rebuke
 2 Polluted Delta
@@ -111,21 +112,20 @@
 2 Phantasmal Image
 2 Island
 2 Plains
+3 Deputy of Detention
 3 Island
 3 Plains
-3 Deputy of Detention
 3 Phantasmal Image
 4 Prismatic Vista
 4 Deputy of Detention
-1 Moorland Haunt
 1 Giver of Runes
 1 Hexdrinker
-1 Phyrexian Revoker
-1 Razorverge Thicket
-1 Walking Ballista
-1 Ranger-Captain of Eos
-1 Thalia, Guardian of Thraben
 1 Selfless Spirit
+1 Moorland Haunt
+1 Razorverge Thicket
+1 Ranger-Captain of Eos
+1 Phyrexian Revoker
+1 Thalia, Guardian of Thraben
 2 Giver of Runes
 2 Phyrexian Revoker
 2 Ranger-Captain of Eos
@@ -134,12 +134,46 @@
 3 Ranger-Captain of Eos
 4 Giver of Runes
 4 Ranger-Captain of Eos
+1 Wooded Foothills
+1 Devoted Druid
+1 Dryad Arbor
+1 Vizier of Remedies
+1 Arbor Elf
+1 Utopia Sprawl
+1 Veil of Summer
+1 Verdant Catacombs
+1 Postmortem Lunge
+1 Finale of Devastation
+1 Oath of Nissa
+2 Devoted Druid
+2 Temple Garden
+2 Verdant Catacombs
+2 Arbor Elf
+2 Utopia Sprawl
+2 Postmortem Lunge
+2 Oath of Nissa
+2 Finale of Devastation
+2 Vizier of Remedies
+3 Devoted Druid
+3 Karn, the Great Creator
+3 Utopia Sprawl
+3 Arbor Elf
+3 Finale of Devastation
+3 Oath of Nissa
+4 Devoted Druid
+4 Eladamri's Call
+4 Utopia Sprawl
+4 Arbor Elf
+4 Snow-Covered Forest
+4 Karn, the Great Creator
+4 Finale of Devastation
+4 Oath of Nissa
 1 Ephemerate
 1 Coiling Oracle
-1 Knight of Autumn
 1 Soulherder
-1 Eternal Witness
 1 Canopy Vista
+1 Eternal Witness
+1 Knight of Autumn
 1 Venser, Shaper Savant
 1 Thragtusk
 2 Ephemerate
@@ -151,36 +185,36 @@
 3 Coiling Oracle
 4 Ephemerate
 4 Coiling Oracle
-1 Castle Garenbrig
-1 Brushland
 1 Yavimaya Coast
 1 Westvale Abbey
-1 Hour of Promise
+1 Supreme Verdict
+1 Glacial Fortress
+1 Sphinx's Revelation
 1 Kabira Crossroads
+1 Hour of Promise
 1 Primeval Titan
 1 Sakura-Tribe Elder
-1 Explore
 1 Field of the Dead
 1 Arboreal Grazer
-1 Sphinx's Revelation
-1 Glacial Fortress
+1 Explore
+1 Brushland
 1 Sunpetal Grove
 1 Hinterland Harbor
 1 Wargate
+1 Castle Garenbrig
 1 Detention Sphere
-1 Supreme Verdict
-2 Arboreal Grazer
-2 Field of the Dead
+2 Supreme Verdict
 2 Explore
 2 Hour of Promise
 2 Primeval Titan
+2 Field of the Dead
 2 Wargate
-2 Supreme Verdict
-3 Field of the Dead
-3 Arboreal Grazer
+2 Arboreal Grazer
 3 Explore
 3 Primeval Titan
+3 Field of the Dead
 3 Hour of Promise
+3 Arboreal Grazer
 3 Supreme Verdict
 3 Wargate
 4 Explore

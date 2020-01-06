@@ -29,12 +29,12 @@
 
 # Other Options
 
-|*n*<sup>th</sup> copy|                                         Maindeck Card                                          |*n*<sup>th</sup> copy|Sideboard Card|
-|--------------------:|------------------------------------------------------------------------------------------------|---------------------|--------------|
-|                    1|[Vraska, Golgari Queen](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452963)|                     |              |
-|                    1|[Gilded Goose](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473122)         |                     |              |
-|                    2|[Vraska, Golgari Queen](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452963)|                     |              |
-|                    2|[Gilded Goose](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473122)         |                     |              |
-|                    3|[Gilded Goose](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473122)         |                     |              |
-|                    4|[Gilded Goose](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473122)         |                     |              |
+|*n*<sup>th</sup> copy|                                         Maindeck Card                                          |*n*<sup>th</sup> copy|                                      Sideboard Card                                       |
+|--------------------:|------------------------------------------------------------------------------------------------|--------------------:|-------------------------------------------------------------------------------------------|
+|                    1|[Vraska, Golgari Queen](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452963)|                    1|[Return to Nature](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461102)|
+|                    2|[Vraska, Golgari Queen](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452963)|                    2|[Return to Nature](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461102)|
+|                    1|[Gilded Goose](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473122)         |                    1|[Aether Gust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466796)     |
+|                    2|[Gilded Goose](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473122)         |                     |                                                                                           |
+|                    3|[Gilded Goose](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473122)         |                     |                                                                                           |
+|                    4|[Gilded Goose](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473122)         |                     |                                                                                           |
 
