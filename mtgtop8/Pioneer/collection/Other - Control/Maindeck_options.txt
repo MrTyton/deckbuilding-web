@@ -1,23 +1,23 @@
-2 Godless Shrine
-2 Teferi, Time Raveler
-1 Hallowed Fountain
 1 Glacial Fortress
+1 Hallowed Fountain
 2 Hallowed Fountain
-2 Supreme Verdict
 3 Hallowed Fountain
-1 Shambling Vent
-2 Shambling Vent
+2 Supreme Verdict
+2 Glacial Fortress
+4 Hallowed Fountain
+1 Godless Shrine
+2 Godless Shrine
 1 Teferi, Hero of Dominaria
 3 Supreme Verdict
-4 Hallowed Fountain
 3 Teferi, Time Raveler
-2 Glacial Fortress
 4 Drowned Catacomb
 1 Urborg, Tomb of Yawgmoth
-1 Hero's Downfall
-1 Languish
 2 Kolaghan's Command
 2 Dragonskull Summit
+1 Hero's Downfall
+1 Languish
+1 Shambling Vent
+2 Shambling Vent
 1 Sphinx's Revelation
 1 Torrential Gearhulk
 1 Censor
@@ -25,6 +25,8 @@
 2 Mountain
 3 Dig Through Time
 3 Blood Crypt
+1 Fetid Pools
+1 Cast Down
 1 Forest
 1 Vraska's Contempt
 1 Abrupt Decay
@@ -38,70 +40,57 @@
 5 Swamp
 1 Nissa's Pilgrimage
 1 Dark Petition
-1 Tireless Tracker
+1 Hissing Quagmire
+1 Overgrown Tomb
 1 Temple of Malady
 1 Seasons Past
-1 Overgrown Tomb
-1 Hissing Quagmire
+1 Tireless Tracker
 1 Read the Bones
 1 Sign in Blood
+2 Hissing Quagmire
+2 Overgrown Tomb
+2 Dark Petition
 2 Temple of Malady
 2 Assassin's Trophy
-2 Dark Petition
-2 Overgrown Tomb
-2 Hissing Quagmire
-3 Temple of Malady
 3 Dark Petition
+3 Temple of Malady
 4 Temple of Malady
 6 Forest
-1 Cast Down
 2 Hero's Downfall
-2 Castle Vantress
 2 Drown in the Loch
+2 Castle Vantress
 2 Teferi, Hero of Dominaria
-1 Narset, Parter of Veils
 1 Detention Sphere
+1 Narset, Parter of Veils
 2 Narset, Parter of Veils
 2 Chandra, Torch of Defiance
 4 Teferi, Time Raveler
-1 Temple of Epiphany
 1 Fires of Invention
+1 Temple of Epiphany
 2 Fires of Invention
 3 Fires of Invention
 4 Fires of Invention
 1 Elspeth, Sun's Champion
-1 Isolated Chapel
-2 Isolated Chapel
-1 Oath of Kaya
 1 Thought Erasure
 2 Thought Erasure
 3 Thought Erasure
 2 Abrupt Decay
 3 Abrupt Decay
-1 Concealed Courtyard
-1 Fetid Pools
+1 Oath of Kaya
 2 Torrential Gearhulk
-4 Fabled Passage
-1 Anguished Unmaking
-2 Plains
-2 Concealed Courtyard
-3 Godless Shrine
-3 Concealed Courtyard
-4 Godless Shrine
-4 Concealed Courtyard
 1 Jace, Architect of Thought
 2 Jace, Architect of Thought
-1 Sacred Foundry
 1 Fae of Wishes
+1 Sacred Foundry
 1 Geier Reach Sanitarium
 1 Interplanar Beacon
 1 Temple of Triumph
-2 Sacred Foundry
 2 Fae of Wishes
+2 Sacred Foundry
 2 Interplanar Beacon
 2 Temple of Triumph
-3 Sacred Foundry
 3 Fae of Wishes
+3 Sacred Foundry
 3 Narset, Parter of Veils
 3 Interplanar Beacon
 4 Interplanar Beacon
@@ -110,23 +99,26 @@
 2 Wandering Fumarole
 1 Glorybringer
 2 Glorybringer
+1 Negate
+1 Sulfur Falls
+2 Sulfur Falls
 2 Temple of Epiphany
 1 Deafening Clarion
-1 Botanical Sanctum
 1 Temple Garden
-1 Gilded Goose
+1 Botanical Sanctum
 1 Mana Confluence
+1 Gilded Goose
+1 Blooming Marsh
+1 Bring to Light
 1 Stomping Ground
 1 Niv-Mizzet Reborn
-1 Bring to Light
 1 Tolsimir, Friend to Wolves
 1 Aether Hub
 1 Rogue Refiner
-1 Blooming Marsh
 2 Botanical Sanctum
 2 Gilded Goose
-2 Bring to Light
 2 Niv-Mizzet Reborn
+2 Bring to Light
 2 Blooming Marsh
 2 Rogue Refiner
 2 Aether Hub
@@ -134,59 +126,66 @@
 3 Niv-Mizzet Reborn
 3 Bring to Light
 3 Aether Hub
-1 Negate
+1 Concealed Courtyard
 1 Bonecrusher Giant
 2 Bonecrusher Giant
-1 Sulfur Falls
-2 Sulfur Falls
-1 Supreme Will
+3 Dragonskull Summit
 3 Glacial Fortress
+1 Supreme Will
 1 Blast Zone
 2 Censor
 3 Censor
+1 Hinterland Harbor
+1 Growth Spiral
 1 Breeding Pool
 1 Tamiyo, Collector of Tales
 1 Cyclonic Rift
 1 Wilderness Reclamation
-1 Growth Spiral
-1 Hinterland Harbor
+2 Growth Spiral
 2 Breeding Pool
 2 Hinterland Harbor
 2 Wilderness Reclamation
-2 Growth Spiral
 3 Hinterland Harbor
+3 Growth Spiral
 3 Breeding Pool
 3 Wilderness Reclamation
-3 Growth Spiral
+4 Growth Spiral
 4 Hinterland Harbor
 4 Breeding Pool
 4 Wilderness Reclamation
-4 Growth Spiral
-3 Dragonskull Summit
 1 The Royal Scions
-1 Gideon of the Trials
-2 Oath of Kaya
+1 Isolated Chapel
+2 Isolated Chapel
 4 Island
 2 Castle Locthwain
+4 Fabled Passage
 3 Bonecrusher Giant
 4 Bonecrusher Giant
+2 Oath of Kaya
 1 Grasp of Darkness
 2 Languish
 1 Ob Nixilis Reignited
 4 Murderous Rider
 1 Collective Brutality
-2 Anguished Unmaking
-3 Isolated Chapel
+3 Godless Shrine
+4 Godless Shrine
+1 Anguished Unmaking
 1 Lyra Dawnbringer
+2 Plains
+2 Concealed Courtyard
+3 Concealed Courtyard
 3 Plains
+4 Concealed Courtyard
 1 Haven of the Spirit Dragon
 2 Haven of the Spirit Dragon
 1 Anger of the Gods
 2 Anger of the Gods
 3 Anger of the Gods
-3 Chandra, Torch of Defiance
-3 Glorybringer
+2 Mana Confluence
+2 Fetid Pools
 3 Mountain
+3 Glorybringer
+3 Chandra, Torch of Defiance
 4 Mountain
 1 Liliana's Triumph
 1 Quench
@@ -195,43 +194,33 @@
 2 Quench
 3 Drown in the Loch
 1 Temple of Enlightenment
-1 Clifftop Retreat
-1 Nahiri, the Harbinger
 1 Chandra, Awakened Inferno
+1 Nahiri, the Harbinger
+1 Clifftop Retreat
+1 Gideon of the Trials
 1 Mobilized District
 2 Nahiri, the Harbinger
 2 Detention Sphere
 2 Deafening Clarion
 3 Deafening Clarion
 3 Teferi, Hero of Dominaria
-1 Commit / Memory
-1 Kenrith, the Returned King
-1 Magma Jet
-1 Chandra, Flamecaller
-1 Sarkhan the Masterless
-2 Kenrith, the Returned King
-2 Sarkhan the Masterless
-2 Magma Jet
-2 Commit / Memory
-4 Fae of Wishes
 1 Voice of Resurgence
-1 Inspiring Vantage
 1 Attune with Aether
+1 Inspiring Vantage
 1 Oko, Thief of Crowns
 1 Silumgar's Command
 1 Whirler Virtuoso
 2 Voice of Resurgence
 2 Attune with Aether
 2 Oko, Thief of Crowns
-2 Mana Confluence
 3 Attune with Aether
 3 Oko, Thief of Crowns
 4 Aether Hub
 4 Attune with Aether
 4 Gilded Goose
-1 Silumgar's Scorn
-1 Elixir of Immortality
 1 Dragonlord Ojutai
+1 Elixir of Immortality
+1 Silumgar's Scorn
 1 Mystical Dispute
 1 Dragonlord Silumgar
 2 Dragonlord Ojutai
@@ -241,35 +230,40 @@
 3 Silumgar's Scorn
 4 Dragonlord Ojutai
 4 Silumgar's Scorn
+1 Approach of the Second Sun
+1 Declaration in Stone
+1 Dovin's Veto
+4 Thought Erasure
+1 Ifnir Deadlands
 1 Archangel Avacyn
 1 Westvale Abbey
+1 Sorin, Grim Nemesis
 1 Blighted Fen
-1 Secure the Wastes
 1 Yahenni's Expertise
 1 Duress
-1 Sorin, Grim Nemesis
 1 Transgress the Mind
-1 Ifnir Deadlands
+1 Secure the Wastes
 1 Mortify
 2 Mortify
+2 Ifnir Deadlands
 2 Archangel Avacyn
 2 Blighted Fen
-2 Westvale Abbey
-2 Duress
+2 Anguished Unmaking
 2 Transgress the Mind
+2 Duress
 2 Grasp of Darkness
+2 Westvale Abbey
 2 Sorin, Grim Nemesis
-2 Ifnir Deadlands
 2 Ob Nixilis Reignited
 3 Grasp of Darkness
 3 Transgress the Mind
 3 Ob Nixilis Reignited
 4 Grasp of Darkness
-1 Gonti, Lord of Luxury
 1 Courser of Kruphix
 1 Lovestruck Beast
-1 Scavenging Ooze
+1 Gonti, Lord of Luxury
 1 Pulse of Murasa
+1 Scavenging Ooze
 2 Lovestruck Beast
 2 Courser of Kruphix
 3 Lovestruck Beast
@@ -281,8 +275,8 @@
 1 Sweltering Suns
 2 Cavalier of Gales
 2 Sweltering Suns
-2 Sphinx of Foresight
 2 Cavalier of Flame
+2 Sphinx of Foresight
 3 Castle Vantress
 3 Sweltering Suns
 3 Sphinx of Foresight
@@ -290,33 +284,86 @@
 3 Cavalier of Gales
 4 Cavalier of Gales
 4 Cavalier of Flame
+3 Isolated Chapel
+1 Aqueous Form
+1 Gods Willing
+1 Cerulean Drake
+1 Open the Armory
+1 Ancestral Blade
+1 Scheming Symmetry
+1 Merfolk Secretkeeper
+1 Overwhelmed Apprentice
+1 Colossus Hammer
+1 Sigarda's Aid
+1 Apostle of Purifying Light
+2 Gods Willing
+2 Merfolk Secretkeeper
+2 Open the Armory
+2 Cerulean Drake
+2 Sigarda's Aid
+2 Colossus Hammer
+2 Overwhelmed Apprentice
+2 Scheming Symmetry
+2 Apostle of Purifying Light
+3 Gods Willing
+3 Overwhelmed Apprentice
+3 Fetid Pools
+3 Merfolk Secretkeeper
+3 Open the Armory
+3 Cerulean Drake
+3 Sigarda's Aid
+3 Colossus Hammer
+3 Scheming Symmetry
+3 Apostle of Purifying Light
+3 Mana Confluence
+4 Cerulean Drake
+4 Gods Willing
+4 Open the Armory
+4 Merfolk Secretkeeper
+4 Scheming Symmetry
+4 Fetid Pools
+4 Overwhelmed Apprentice
+4 Apostle of Purifying Light
+4 Sigarda's Aid
+4 Colossus Hammer
+4 Mana Confluence
 1 Sunpetal Grove
 1 Settle the Wreckage
 1 Nexus of Fate
 1 Azorius Charm
+2 Temple Garden
 2 Azorius Charm
 2 Supreme Will
 2 Sunpetal Grove
-2 Temple Garden
 2 Nexus of Fate
 3 Supreme Will
 3 Nexus of Fate
-4 Glacial Fortress
 4 Supreme Verdict
+4 Glacial Fortress
+1 Commit / Memory
+1 Magma Jet
+1 Chandra, Flamecaller
+1 Sarkhan the Masterless
+1 Kenrith, the Returned King
+2 Magma Jet
+2 Sarkhan the Masterless
+2 Kenrith, the Returned King
+2 Commit / Memory
+4 Fae of Wishes
 1 Dreadhorde Arcanist
+1 Young Pyromancer
 1 Claim / Fame
 1 Treasure Cruise
-1 Young Pyromancer
 1 Wild Slash
-2 Dreadhorde Arcanist
-2 Treasure Cruise
 2 The Royal Scions
+2 Dreadhorde Arcanist
+2 Young Pyromancer
+2 Treasure Cruise
 2 Collective Brutality
 2 Wild Slash
-2 Young Pyromancer
 2 Claim / Fame
-3 Dreadhorde Arcanist
 3 Young Pyromancer
+3 Dreadhorde Arcanist
 3 Wild Slash
 4 Dreadhorde Arcanist
 4 Young Pyromancer
@@ -328,8 +375,8 @@
 1 Rakdos's Return
 1 Temple of Malice
 2 Canyon Slough
-2 Rakdos's Return
 2 Rekindling Phoenix
+2 Rakdos's Return
 2 Temple of Malice
 3 Castle Locthwain
 3 Canyon Slough
@@ -337,8 +384,8 @@
 3 Temple of Malice
 4 Dragonskull Summit
 4 Blood Crypt
-1 Disdainful Stroke
 1 Nicol Bolas, the Ravager
+1 Disdainful Stroke
 2 Disdainful Stroke
 2 Nicol Bolas, the Ravager
 3 Dreadbore
@@ -346,18 +393,14 @@
 3 Kolaghan's Command
 4 Steam Vents
 4 Nicol Bolas, the Ravager
-1 Approach of the Second Sun
-1 Declaration in Stone
-1 Dovin's Veto
-4 Thought Erasure
 1 Traverse the Ulvenwald
 1 Sylvan Caryatid
-1 Arlinn Kord
-1 Nomad Outpost
-1 Opulent Palace
 1 Keranos, God of Storms
 1 Vraska, Golgari Queen
+1 Nomad Outpost
+1 Opulent Palace
 1 Despark
+1 Arlinn Kord
 2 Traverse the Ulvenwald
 2 Sylvan Caryatid
 2 Opulent Palace
@@ -366,44 +409,21 @@
 3 Blooming Marsh
 4 Rogue Refiner
 4 Blooming Marsh
-1 Gideon's Triumph
-1 Gideon Blackblade
-1 Gideon, Ally of Zendikar
-1 Heart of Kiran
-1 Kaya's Wrath
-1 Blood Baron of Vizkopa
-2 Gideon of the Trials
-2 Gideon Blackblade
-2 Heart of Kiran
-2 Gideon, Ally of Zendikar
-2 Blood Baron of Vizkopa
-2 Kaya's Wrath
-2 Gideon's Triumph
-3 Field of Ruin
-3 Heart of Kiran
-3 Gideon of the Trials
-3 Kaya's Wrath
-3 Gideon, Ally of Zendikar
-4 Kaya's Wrath
-4 Heart of Kiran
-4 Field of Ruin
-4 Gideon, Ally of Zendikar
-4 Gideon of the Trials
 1 Hydroid Krasis
+1 Lumbering Falls
 1 Gadwick, the Wizened
 1 Frilled Mystic
-1 Lumbering Falls
+1 Brazen Borrower
 1 Nissa, Who Shakes the World
 1 Prophet of Kruphix
-1 Brazen Borrower
-2 Brazen Borrower
 2 Hydroid Krasis
+2 Brazen Borrower
 2 Lumbering Falls
 2 Cyclonic Rift
 2 Gadwick, the Wizened
 2 Prophet of Kruphix
-2 Nissa, Who Shakes the World
 2 Frilled Mystic
+2 Nissa, Who Shakes the World
 3 Brazen Borrower
 3 Frilled Mystic
 4 Brazen Borrower
@@ -415,7 +435,6 @@
 2 Negate
 2 Sinister Sabotage
 2 Vraska's Contempt
-2 Fetid Pools
 2 Hieroglyphic Illumination
 3 Torrential Gearhulk
 3 Vraska's Contempt
@@ -424,15 +443,15 @@
 4 Sinister Sabotage
 4 Hieroglyphic Illumination
 5 Island
+1 Caves of Koilos
 1 Liliana, Dreadhorde General
 1 Trial of Ambition
 1 Karn, Scion of Urza
 1 Gifted Aetherborn
+1 Brought Back
 1 Doom Foretold
-1 Caves of Koilos
 1 Knight of the Ebon Legion
 1 History of Benalia
-1 Brought Back
 2 Karn, Scion of Urza
 2 Gifted Aetherborn
 2 Doom Foretold
@@ -444,39 +463,39 @@
 3 Knight of the Ebon Legion
 3 Doom Foretold
 3 History of Benalia
+4 Plains
 4 Isolated Chapel
 4 Gifted Aetherborn
 4 History of Benalia
-4 Plains
 4 Knight of the Ebon Legion
 4 Doom Foretold
 5 Plains
 6 Swamp
-1 Bontu's Last Reckoning
-1 Nissa's Renewal
-1 Gaze of Granite
-1 Mastermind's Acquisition
 1 Nissa, Vastwood Seer
+1 Mastermind's Acquisition
+1 Nissa's Renewal
+1 Bontu's Last Reckoning
 1 Ugin, the Spirit Dragon
+1 Gaze of Granite
 2 Nissa's Pilgrimage
 2 Tireless Tracker
 7 Forest
-1 Stormbreath Dragon
+1 Crater's Claws
 1 Magma Spray
+1 Stormbreath Dragon
 1 Castle Embereth
 1 Thunderbreak Regent
-1 Crater's Claws
 1 Abrade
 1 Sarkhan, Fireblood
 1 Draconic Roar
-2 Castle Embereth
 2 Stormbreath Dragon
-2 Magma Spray
 2 Crater's Claws
+2 Magma Spray
 2 Thunderbreak Regent
 2 Draconic Roar
 2 Abrade
 2 Sarkhan, Fireblood
+2 Castle Embereth
 3 Stormbreath Dragon
 3 Castle Embereth
 3 Magma Spray
@@ -485,8 +504,8 @@
 3 Sarkhan, Fireblood
 3 Haven of the Spirit Dragon
 4 Glorybringer
-4 Castle Embereth
 4 Anger of the Gods
+4 Castle Embereth
 4 Magma Spray
 4 Draconic Roar
 4 Sarkhan, Fireblood

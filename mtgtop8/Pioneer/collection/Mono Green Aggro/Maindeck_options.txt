@@ -3,31 +3,31 @@
 3 Castle Garenbrig
 4 Castle Garenbrig
 1 Cavalier of Thorns
-1 Shrine of the Forsaken Gods
-1 Elvish Rejuvenator
 1 Ulamog, the Ceaseless Hunger
 1 World Breaker
-1 Sanctum of Ugin
 1 Nissa's Pilgrimage
-1 Radiant Fountain
+1 Sanctum of Ugin
+1 Shrine of the Forsaken Gods
 1 Ugin, the Spirit Dragon
-2 Shrine of the Forsaken Gods
-2 Ugin, the Spirit Dragon
-2 Sanctum of Ugin
-2 Ulamog, the Ceaseless Hunger
-2 World Breaker
-2 Nissa's Pilgrimage
-2 Elvish Rejuvenator
+1 Elvish Rejuvenator
+1 Radiant Fountain
 2 Cavalier of Thorns
+2 World Breaker
+2 Ulamog, the Ceaseless Hunger
+2 Sanctum of Ugin
 2 Radiant Fountain
-3 Nissa's Pilgrimage
-3 Shrine of the Forsaken Gods
+2 Elvish Rejuvenator
+2 Nissa's Pilgrimage
+2 Ugin, the Spirit Dragon
+2 Shrine of the Forsaken Gods
+3 Cavalier of Thorns
 3 World Breaker
+3 Shrine of the Forsaken Gods
+3 Nissa's Pilgrimage
 3 Ugin, the Spirit Dragon
 3 Elvish Rejuvenator
-3 Cavalier of Thorns
-4 Nissa's Pilgrimage
 4 Elvish Rejuvenator
+4 Nissa's Pilgrimage
 1 Yorvo, Lord of Garenbrig
 1 Rhonas the Indomitable
 2 Yorvo, Lord of Garenbrig
@@ -38,8 +38,8 @@
 1 Arboreal Grazer
 1 Blast Zone
 2 Arboreal Grazer
-3 Arboreal Grazer
 3 Radiant Fountain
+3 Arboreal Grazer
 4 Arboreal Grazer
 4 Walking Ballista
 1 Surrak, the Hunt Caller
@@ -62,13 +62,13 @@
 1 Oblivion Sower
 1 Gilded Goose
 2 Gilded Goose
+1 Botanical Sanctum
 1 Hydroid Krasis
 1 Breeding Pool
-1 Botanical Sanctum
 1 Yavimaya Coast
-2 Hydroid Krasis
 2 Yavimaya Coast
 2 Breeding Pool
+2 Hydroid Krasis
 2 Botanical Sanctum
 3 Hydroid Krasis
 3 Breeding Pool
@@ -88,8 +88,8 @@
 3 Rhonas the Indomitable
 3 Rogue's Passage
 4 Questing Beast
-4 Rhonas the Indomitable
 4 Rogue's Passage
+4 Rhonas the Indomitable
 1 Whisperwood Elemental
 2 Sylvan Caryatid
 3 Ulvenwald Hydra
@@ -107,14 +107,14 @@
 1 Duskwatch Recruiter
 2 Duskwatch Recruiter
 1 Heart of Kiran
-1 Oko, Thief of Crowns
 1 Wicked Wolf
+1 Oko, Thief of Crowns
 2 Wicked Wolf
-2 Heart of Kiran
 2 Oko, Thief of Crowns
-3 Wicked Wolf
+2 Heart of Kiran
 3 Gilded Goose
 3 Oko, Thief of Crowns
+3 Wicked Wolf
 4 Gilded Goose
 4 Wicked Wolf
 4 Oko, Thief of Crowns
@@ -125,14 +125,18 @@
 2 Tireless Tracker
 3 Tireless Tracker
 3 Yavimaya Coast
-1 Westvale Abbey
-1 Emrakul, the Promised End
 1 Sea Gate Wreckage
+1 Emrakul, the Promised End
+1 Westvale Abbey
 2 Blast Zone
 4 Radiant Fountain
 4 Sanctum of Ugin
-1 Avatar of the Resolute
+3 Syr Faren, the Hengehammer
+3 Hashep Oasis
+4 Hashep Oasis
+4 Surrak, the Hunt Caller
 1 Barkhide Troll
+1 Avatar of the Resolute
 1 Experiment One
 1 Renegade Krasis
 2 Barkhide Troll
@@ -147,10 +151,6 @@
 1 Biogenic Ooze
 2 Biogenic Ooze
 4 Courser of Kruphix
-3 Hashep Oasis
-3 Syr Faren, the Hengehammer
-4 Surrak, the Hunt Caller
-4 Hashep Oasis
 18 Forest
 19 Forest
 20 Forest

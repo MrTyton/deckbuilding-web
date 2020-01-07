@@ -1,4 +1,4 @@
-1 Plains
+1 Mountain
 3 Rogue Refiner
 1 Brazen Borrower
 1 Forest
@@ -48,21 +48,21 @@
 1 Irrigated Farmland
 1 Hieroglyphic Illumination
 1 Abrade
+2 Sulfur Falls
 2 Izzet Charm
 2 Clifftop Retreat
-2 Supreme Verdict
 2 Censor
-2 Sulfur Falls
+2 Supreme Verdict
 2 Irrigated Farmland
 2 Hieroglyphic Illumination
-3 Sulfur Falls
 3 Detention Sphere
 3 Izzet Charm
+3 Sulfur Falls
 3 Supreme Verdict
 3 Censor
+4 Censor
 4 Sulfur Falls
 4 Izzet Charm
-4 Censor
 1 Corridor Monitor
 1 Prime Speaker Vannifar
 1 Renegade Rallier
@@ -92,10 +92,10 @@
 4 Sacred Foundry
 1 Deafening Clarion
 2 Deafening Clarion
-1 Godless Shrine
 1 Watery Grave
 1 Blood Crypt
 1 Swamp
+1 Godless Shrine
 1 Oath of Kaya
 2 Oath of Kaya
 3 Oath of Kaya
@@ -103,93 +103,93 @@
 1 Sunpetal Grove
 2 Brazen Borrower
 2 Yavimaya Coast
-1 Bring to Light
-1 Niv-Mizzet Reborn
 1 Silumgar's Command
 1 Ojutai's Command
-1 Unmoored Ego
 1 Dreadbore
+1 Niv-Mizzet Reborn
 1 Kolaghan's Command
 1 Abrupt Decay
+1 Unmoored Ego
+1 Bring to Light
 1 Knight of Autumn
 1 Assassin's Trophy
-2 Niv-Mizzet Reborn
-2 Bring to Light
 2 Assassin's Trophy
+2 Bring to Light
 2 Mana Confluence
 2 Stomping Ground
+2 Niv-Mizzet Reborn
 3 Bring to Light
 3 Niv-Mizzet Reborn
 3 Island
+1 Lava Coil
+1 Anticipate
+1 Thrill of Possibility
+1 Fiery Impulse
+2 Lava Coil
+2 Anticipate
+2 Thrill of Possibility
+2 Spell Pierce
+2 Fiery Impulse
+3 Anticipate
+3 Thrill of Possibility
+3 Lava Coil
+3 Fiery Impulse
+3 Spirebluff Canal
+4 Fiery Impulse
+4 Anticipate
+4 Dig Through Time
+4 Spirebluff Canal
 1 Eldritch Evolution
 1 Field of the Dead
-1 Golos, Tireless Pilgrim
-1 Arboreal Grazer
-1 Lumbering Falls
 1 Risen Reef
+1 Lumbering Falls
 1 Overgrown Tomb
+1 Arboreal Grazer
+1 Golos, Tireless Pilgrim
 1 Yarok, the Desecrated
 2 Field of the Dead
 2 Eldritch Evolution
-2 Arboreal Grazer
-2 Golos, Tireless Pilgrim
 2 Risen Reef
+2 Golos, Tireless Pilgrim
+2 Arboreal Grazer
 3 Eldritch Evolution
-3 Arboreal Grazer
 3 Risen Reef
+3 Arboreal Grazer
 4 Risen Reef
 4 Voice of Resurgence
 1 Shock
 2 Shock
 4 Elvish Mystic
-1 Thrill of Possibility
-1 Anticipate
-1 Fiery Impulse
-1 Lava Coil
-2 Thrill of Possibility
-2 Anticipate
-2 Fiery Impulse
-2 Lava Coil
-2 Spell Pierce
-3 Thrill of Possibility
-3 Anticipate
-3 Lava Coil
-3 Fiery Impulse
-3 Spirebluff Canal
-4 Anticipate
-4 Fiery Impulse
-4 Dig Through Time
-4 Spirebluff Canal
 1 Elvish Visionary
 1 Wicked Wolf
 2 Wicked Wolf
 4 Llanowar Elves
-1 Search for Azcanta
+1 Isolated Chapel
 1 Teferi, Hero of Dominaria
 1 Discovery / Dispersal
 1 Interplanar Beacon
+1 Languish
 1 Yahenni's Expertise
-1 Isolated Chapel
 1 Narset, Parter of Veils
 1 Cast Down
-1 Languish
 1 Prophetic Prism
 1 Nicol Bolas, Dragon-God
+1 Search for Azcanta
 1 Thoughtseize
 1 Urborg, Tomb of Yawgmoth
 1 Drowned Catacomb
 1 Fatal Push
 2 Narset, Parter of Veils
 2 Godless Shrine
+2 Watery Grave
 2 Languish
 2 Fatal Push
 2 Thoughtseize
-2 Watery Grave
 2 Prophetic Prism
-3 Fatal Push
-3 Thoughtseize
-3 Prophetic Prism
 3 Godless Shrine
+3 Thoughtseize
+3 Fatal Push
+3 Prophetic Prism
 3 Watery Grave
 4 Thoughtseize
 4 Watery Grave
@@ -201,10 +201,10 @@
 1 Tithe Taker
 1 Cloudblazer
 1 Dusk / Dawn
+2 Plains
 2 Elite Guardmage
 2 Charming Prince
 2 Field of Ruin
-2 Plains
 2 Dusk / Dawn
 2 Thraben Inspector
 2 Cloudblazer
