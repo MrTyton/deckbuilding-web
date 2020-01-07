@@ -1,7 +1,4 @@
-3 Vivien, Arkbow Ranger
-1 Castle Garenbrig
-7 Forest
-4 Vivien, Arkbow Ranger
+2 Woodland Cemetery
 3 Swamp
 1 Lotleth Troll
 2 Lotleth Troll
@@ -12,9 +9,9 @@
 1 Grisly Salvage
 1 Soulflayer
 1 Zetalpa, Primal Dawn
+2 Soulflayer
 2 Zetalpa, Primal Dawn
 2 Grisly Salvage
-2 Soulflayer
 3 Soulflayer
 3 Zetalpa, Primal Dawn
 3 Grisly Salvage
@@ -23,24 +20,20 @@
 4 Soulflayer
 3 Woodland Cemetery
 1 Castle Locthwain
-1 Urborg, Tomb of Yawgmoth
-3 Murderous Rider
 1 Questing Beast
 2 Questing Beast
 3 Questing Beast
 4 Questing Beast
+3 Murderous Rider
 1 Gather the Pack
 2 Gather the Pack
 3 Gather the Pack
 4 Gather the Pack
-4 Llanowar Elves
-1 Fatal Push
-2 Fatal Push
-1 Pelt Collector
-2 Pelt Collector
-3 Pelt Collector
-1 Karn's Bastion
+4 Stonecoil Serpent
 4 Murderous Rider
+1 Urborg, Tomb of Yawgmoth
+7 Forest
+4 Vivien, Arkbow Ranger
 1 Sylvan Caryatid
 1 Traverse the Ulvenwald
 2 Sylvan Caryatid
@@ -49,25 +42,12 @@
 3 Traverse the Ulvenwald
 4 Sylvan Caryatid
 4 Traverse the Ulvenwald
-1 Hashep Oasis
-2 Hashep Oasis
-4 Elvish Mystic
-1 Experiment One
-2 Experiment One
-3 Experiment One
-4 Experiment One
-4 Pelt Collector
-3 Fatal Push
-1 Vessel of Nascency
-2 Vessel of Nascency
-4 Woodland Cemetery
-1 Verdurous Gearhulk
 1 Grapple with the Past
 2 Grapple with the Past
-1 Vraska, Golgari Queen
-1 Blossoming Defense
-2 Blossoming Defense
-3 Blossoming Defense
+4 Woodland Cemetery
+1 Fatal Push
+2 Fatal Push
+1 Karn's Bastion
 1 Nullhide Ferox
 1 Satyr Wayfinder
 2 Nullhide Ferox
@@ -78,18 +58,36 @@
 4 Satyr Wayfinder
 4 Nullhide Ferox
 4 Grapple with the Past
+1 Hashep Oasis
+2 Hashep Oasis
+4 Elvish Mystic
+4 Llanowar Elves
+1 Vessel of Nascency
+2 Vessel of Nascency
+3 Fatal Push
+1 Pelt Collector
+2 Pelt Collector
+3 Pelt Collector
+4 Pelt Collector
+1 Vraska, Golgari Queen
+1 Blossoming Defense
+2 Blossoming Defense
+3 Blossoming Defense
 8 Forest
 1 Gifted Aetherborn
 2 Gifted Aetherborn
 1 Collective Brutality
 2 Collective Brutality
+1 Experiment One
+2 Experiment One
+3 Experiment One
+4 Experiment One
 3 Vessel of Nascency
 4 Vessel of Nascency
-1 Avatar of the Resolute
-2 Avatar of the Resolute
 1 Scavenging Ooze
 2 Scavenging Ooze
 1 Ruins of Oran-Rief
+1 Verdurous Gearhulk
 1 Nykthos, Shrine to Nyx
 2 Nykthos, Shrine to Nyx
 1 Thoughtseize
@@ -104,12 +102,9 @@
 2 Fabled Passage
 1 Mana Confluence
 2 Mana Confluence
+1 Avatar of the Resolute
+2 Avatar of the Resolute
 3 Chromanticore
-1 The Great Henge
-1 Evolution Sage
-2 Evolution Sage
-3 Avatar of the Resolute
-3 Evolution Sage
 1 Dread Wanderer
 1 Cryptbreaker
 1 Diregraf Colossus
@@ -196,13 +191,13 @@
 2 Trail of Crumbs
 3 Temple of Malady
 3 Cauldron Familiar
-3 Trail of Crumbs
 3 Gilded Goose
 3 Fabled Passage
+3 Trail of Crumbs
 3 Witch's Oven
 3 Cavalier of Thorns
 4 Witch's Oven
-4 Gilded Goose
 4 Cauldron Familiar
 4 Fabled Passage
+4 Gilded Goose
 4 Trail of Crumbs

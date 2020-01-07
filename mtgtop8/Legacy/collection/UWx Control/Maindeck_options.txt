@@ -1,11 +1,9 @@
-1 Entreat the Angels
-1 Spell Pierce
-2 Force of Negation
-2 Prismatic Vista
-1 Underground Sea
-1 Snow-Covered Swamp
+2 Counterbalance
+3 Oko, Thief of Crowns
 2 Polluted Delta
 3 Polluted Delta
+1 Underground Sea
+1 Snow-Covered Swamp
 4 Polluted Delta
 1 Drown in the Loch
 1 Bayou
@@ -17,37 +15,39 @@
 2 Hymn to Tourach
 2 Drown in the Loch
 3 Hymn to Tourach
-3 Teferi, Time Raveler
 1 Baleful Strix
 2 Baleful Strix
 3 Baleful Strix
+3 Teferi, Time Raveler
 1 Veil of Summer
 1 Ice-Fang Coatl
 2 Ice-Fang Coatl
+1 Spell Pierce
 1 Dovin's Veto
-1 Monastery Mentor
+2 Prismatic Vista
 2 Tundra
-1 Predict
-2 Predict
+2 Scalding Tarn
+2 Council's Judgment
 2 Spell Pierce
 3 Jace, the Mind Sculptor
-2 Council's Judgment
-2 Underground Sea
-2 Inquisition of Kozilek
-3 Inquisition of Kozilek
-3 Ice-Fang Coatl
-1 Back to Basics
-1 Portent
-2 Monastery Mentor
-1 Counterspell
-1 Narset, Parter of Veils
-1 Supreme Verdict
-2 Scalding Tarn
-4 Baleful Strix
 1 Accumulated Knowledge
 2 Accumulated Knowledge
 3 Accumulated Knowledge
 4 Accumulated Knowledge
+2 Underground Sea
+2 Inquisition of Kozilek
+3 Inquisition of Kozilek
+3 Ice-Fang Coatl
+1 Counterspell
+1 Narset, Parter of Veils
+1 Supreme Verdict
+1 Monastery Mentor
+2 Monastery Mentor
+1 Predict
+2 Predict
+4 Baleful Strix
+3 Scalding Tarn
+1 Pyroblast
 2 Volcanic Island
 1 Plains
 1 Island
@@ -55,17 +55,17 @@
 2 Island
 3 Island
 4 Island
-5 Snow-Covered Island
+1 Portent
+1 Back to Basics
 4 Terminus
-3 Scalding Tarn
 2 Portent
 3 Counterbalance
-2 Narset, Parter of Veils
-1 Search for Azcanta
 3 Predict
-1 Pyroblast
+1 Search for Azcanta
+2 Narset, Parter of Veils
 4 Ice-Fang Coatl
 3 Prismatic Vista
+5 Snow-Covered Island
 1 Liliana, the Last Hope
 1 Vindicate
 2 Liliana, the Last Hope
@@ -73,8 +73,8 @@
 1 Thoughtseize
 1 Verdant Catacombs
 2 Thoughtseize
-1 Brazen Borrower
 1 Bloodstained Mire
+1 Brazen Borrower
 1 Wooded Foothills
 2 Bloodstained Mire
 1 Sylvan Library

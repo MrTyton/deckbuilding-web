@@ -12,8 +12,8 @@
 1 Mox Opal
 1 Sai, Master Thopterist
 1 Hope of Ghirapur
-2 Unearth
 2 Mishra's Bauble
+2 Unearth
 2 Emry, Lurker of the Loch
 2 Kethis, the Hidden Hand
 2 Hope of Ghirapur
@@ -35,8 +35,8 @@
 4 Grinding Station
 4 Mox Opal
 4 Mox Amber
-1 Spire of Industry
 1 Glimmervoid
+1 Spire of Industry
 1 Mana Confluence
 1 Seachrome Coast
 1 Okina, Temple to the Grandfathers
@@ -64,8 +64,8 @@
 2 Grapeshot
 2 Lonely Sandbar
 2 Botanical Sanctum
-3 Lonely Sandbar
 3 Yavimaya Coast
+3 Lonely Sandbar
 3 Botanical Sanctum
 4 Lonely Sandbar
 4 Yavimaya Coast
@@ -74,23 +74,6 @@
 1 Misty Rainforest
 1 Snow-Covered Forest
 1 Snow-Covered Island
-1 Temple Garden
-1 Prismatic Vista
-1 Overgrown Tomb
-1 Hallowed Fountain
-1 Arcum's Astrolabe
-1 Verdant Catacombs
-1 Engineered Explosives
-1 Snow-Covered Plains
-1 Snow-Covered Swamp
-2 Verdant Catacombs
-2 Teferi, Time Raveler
-2 Engineered Explosives
-2 Arcum's Astrolabe
-2 Prismatic Vista
-3 Prismatic Vista
-3 Arcum's Astrolabe
-4 Arcum's Astrolabe
 1 Cryptic Command
 1 Mystic Sanctuary
 1 Once Upon a Time
@@ -109,31 +92,32 @@
 2 Once Upon a Time
 2 Misty Rainforest
 2 Remand
-2 Mystic Sanctuary
 2 Oko, Thief of Crowns
 2 Wilderness Reclamation
 2 Gilded Goose
+2 Mystic Sanctuary
 2 Snow-Covered Island
 2 Ice-Fang Coatl
 2 Field of Ruin
 2 Nexus of Fate
+3 Misty Rainforest
+3 Snow-Covered Island
+3 Flooded Strand
 3 Field of Ruin
-3 Cryptic Command
 3 Once Upon a Time
 3 Remand
+3 Cryptic Command
 3 Gilded Goose
-3 Flooded Strand
 3 Nexus of Fate
 3 Wilderness Reclamation
-3 Misty Rainforest
 3 Oko, Thief of Crowns
 3 Fact or Fiction
 3 Ice-Fang Coatl
-3 Snow-Covered Island
+4 Oko, Thief of Crowns
 4 Misty Rainforest
 4 Field of Ruin
+4 Flooded Strand
 4 Snow-Covered Island
-4 Oko, Thief of Crowns
 4 Once Upon a Time
 4 Remand
 4 Gilded Goose
@@ -144,4 +128,20 @@
 5 Snow-Covered Island
 6 Snow-Covered Island
 7 Snow-Covered Island
-4 Flooded Strand
+1 Temple Garden
+1 Prismatic Vista
+1 Overgrown Tomb
+1 Hallowed Fountain
+1 Arcum's Astrolabe
+1 Verdant Catacombs
+1 Engineered Explosives
+1 Snow-Covered Plains
+1 Snow-Covered Swamp
+2 Verdant Catacombs
+2 Engineered Explosives
+2 Teferi, Time Raveler
+2 Arcum's Astrolabe
+2 Prismatic Vista
+3 Prismatic Vista
+3 Arcum's Astrolabe
+4 Arcum's Astrolabe

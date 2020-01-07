@@ -1,7 +1,10 @@
-3 Oath of Nissa
-4 Oath of Nissa
+1 Lightning Bolt
+2 Lightning Bolt
+3 Lightning Bolt
 4 Oko, Thief of Crowns
 4 Spell Queller
+2 Windswept Heath
+3 Windswept Heath
 3 Snow-Covered Forest
 1 Remand
 2 Remand
@@ -10,6 +13,12 @@
 1 Sacred Foundry
 1 Scalding Tarn
 2 Scalding Tarn
+1 Horizon Canopy
+1 Knight of Autumn
+1 Gilded Goose
+2 Gilded Goose
+3 Gilded Goose
+4 Gilded Goose
 1 Lightning Helix
 1 Snapcaster Mage
 2 Lightning Helix
@@ -18,34 +27,25 @@
 3 Snow-Covered Island
 2 Flooded Strand
 3 Flooded Strand
-3 Path to Exile
-1 Wooded Foothills
 2 Snow-Covered Plains
+1 Wooded Foothills
 3 Scalding Tarn
 4 Scalding Tarn
 1 Wicked Wolf
 1 Blood Moon
-1 Knight of Autumn
 1 Karn, the Great Creator
-1 Sun Titan
-1 Gilded Goose
 1 Abrade
-2 Gilded Goose
+1 Sun Titan
 2 Knight of Autumn
 2 Stomping Ground
 2 Karn, the Great Creator
+2 Blood Moon
 2 Wicked Wolf
 2 Abrade
-2 Blood Moon
 2 Breeding Pool
-3 Gilded Goose
 3 Karn, the Great Creator
 3 Blood Moon
-4 Gilded Goose
 2 Wrenn and Six
-2 Windswept Heath
-3 Windswept Heath
-1 Horizon Canopy
 1 Sword of Light and Shadow
 1 Spell Pierce
 1 Batterskull
@@ -54,6 +54,15 @@
 3 Stoneforge Mystic
 4 Stoneforge Mystic
 4 Noble Hierarch
+1 Eladamri's Call
+1 Razorverge Thicket
+1 Shalai, Voice of Plenty
+1 Magus of the Moon
+1 Wall of Omens
+1 Eternal Witness
+2 Eladamri's Call
+4 Windswept Heath
+4 Path to Exile
 3 Remand
 4 Lightning Bolt
 1 Arid Mesa
@@ -71,24 +80,24 @@
 1 Swamp
 1 Mountain
 1 Bring to Light
-2 Arid Mesa
 2 Wooded Foothills
+2 Arid Mesa
 2 Utopia Sprawl
 2 Kiki-Jiki, Mirror Breaker
 2 Deceiver Exarch
 2 Bring to Light
 2 Mana Leak
 3 Mana Leak
-3 Arid Mesa
 3 Wooded Foothills
 3 Utopia Sprawl
 3 Deceiver Exarch
 3 Bring to Light
+3 Arid Mesa
 4 Bring to Light
-4 Arid Mesa
+4 Wooded Foothills
 4 Utopia Sprawl
 4 Deceiver Exarch
-4 Wooded Foothills
+4 Arid Mesa
 1 Overgrown Tomb
 1 Wall of Blossoms
 1 Jace, the Mind Sculptor
@@ -110,7 +119,7 @@
 2 Delay
 2 Serum Visions
 3 Lightning Helix
-3 Snapcaster Mage
 3 Delay
+3 Snapcaster Mage
 3 Serum Visions
 4 Flooded Strand
