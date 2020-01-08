@@ -1,5 +1,5 @@
+1 Legion Warboss
 2 Legion Warboss
-4 Glorybringer
 3 Goblin Chainwhirler
 4 Goblin Chainwhirler
 2 Embercleave
@@ -17,20 +17,20 @@
 2 Bomat Courier
 3 Bomat Courier
 4 Bomat Courier
-1 Ghitu Lavarunner
-2 Ghitu Lavarunner
-3 Wizard's Lightning
-3 Ghitu Lavarunner
-4 Ghitu Lavarunner
-4 Wizard's Lightning
-1 Shock
-2 Shock
+1 Rampaging Ferocidon
+2 Rampaging Ferocidon
+3 Rampaging Ferocidon
+17 Mountain
 1 Eidolon of the Great Revel
 2 Eidolon of the Great Revel
+1 Rekindling Phoenix
+2 Rekindling Phoenix
+3 Rekindling Phoenix
+4 Rekindling Phoenix
 1 Sacred Foundry
 1 Battlefield Forge
-1 Boros Charm
 1 Inspiring Vantage
+1 Boros Charm
 2 Sacred Foundry
 2 Battlefield Forge
 2 Boros Charm
@@ -42,19 +42,23 @@
 4 Inspiring Vantage
 4 Sacred Foundry
 4 Battlefield Forge
-1 Rampaging Ferocidon
-2 Rampaging Ferocidon
-3 Rampaging Ferocidon
-17 Mountain
+1 Chandra, Acolyte of Flame
+2 Chandra, Acolyte of Flame
+3 Kari Zev, Skyship Raider
+1 Ghitu Lavarunner
+2 Ghitu Lavarunner
+3 Wizard's Lightning
+3 Ghitu Lavarunner
+4 Ghitu Lavarunner
+4 Wizard's Lightning
 1 Viashino Pyromancer
 2 Viashino Pyromancer
 3 Viashino Pyromancer
 4 Viashino Pyromancer
 3 Eidolon of the Great Revel
 4 Boros Charm
-3 Kari Zev, Skyship Raider
-3 Shock
-4 Shock
+1 Shock
+2 Shock
 1 Foundry Street Denizen
 2 Foundry Street Denizen
 3 Foundry Street Denizen
@@ -77,6 +81,7 @@
 2 Fanatical Firebrand
 3 Fanatical Firebrand
 1 Abrade
+1 Scavenger Grounds
 1 Skewer the Critics
 2 Skewer the Critics
 1 Hanweir Garrison
@@ -84,10 +89,8 @@
 1 Experimental Frenzy
 2 Experimental Frenzy
 3 Experimental Frenzy
-1 Chandra, Acolyte of Flame
 1 Skarrgan Hellkite
 2 Skarrgan Hellkite
-2 Chandra, Acolyte of Flame
 2 Zurgo Bellstriker
 3 Torbran, Thane of Red Fell
 3 Zurgo Bellstriker
@@ -98,13 +101,10 @@
 1 Mana Confluence
 2 Lightning Berserker
 2 Searing Blood
+3 Shock
 3 Searing Blood
+4 Shock
 4 Searing Blood
-1 Scavenger Grounds
-1 Rekindling Phoenix
-2 Rekindling Phoenix
-3 Rekindling Phoenix
-4 Rekindling Phoenix
 1 Reckless Bushwhacker
 1 Earthshaker Khenra
 1 Burning-Tree Emissary
@@ -123,18 +123,6 @@
 4 Reckless Bushwhacker
 4 Earthshaker Khenra
 4 Rakdos Cackler
-1 Atarka's Command
-1 Stomping Ground
-1 Rootbound Crag
-2 Atarka's Command
-2 Stomping Ground
-2 Rootbound Crag
-3 Atarka's Command
-3 Stomping Ground
-3 Rootbound Crag
-4 Atarka's Command
-4 Stomping Ground
-4 Rootbound Crag
 1 Rile
 1 Clifftop Retreat
 1 Plains

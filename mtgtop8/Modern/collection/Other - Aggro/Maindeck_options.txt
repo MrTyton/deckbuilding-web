@@ -34,8 +34,8 @@
 1 Fallen Shinobi
 1 Creeping Tar Pit
 1 Bitterblossom
-1 Mana Leak
 1 Snow-Covered Swamp
+1 Mana Leak
 1 Gonti, Lord of Luxury
 1 Abrupt Decay
 1 Ingenious Infiltrator
@@ -43,11 +43,11 @@
 1 Higure, the Still Wind
 2 Snow-Covered Swamp
 2 Bitterblossom
+2 Mana Leak
 2 Snow-Covered Island
 2 Abrupt Decay
 2 Fallen Shinobi
 2 Gonti, Lord of Luxury
-2 Mana Leak
 2 Faerie Seer
 2 Ingenious Infiltrator
 3 Snow-Covered Swamp
@@ -164,36 +164,36 @@
 6 Forest
 7 Forest
 8 Forest
+1 Rancor
 1 Arcum's Astrolabe
-1 Vines of Vastwood
+1 Shapers' Sanctuary
 1 Aspect of Hydra
 1 Steel Leaf Champion
 1 Strangleroot Geist
-1 Rancor
-1 Shapers' Sanctuary
 1 Castle Garenbrig
 1 Barkhide Troll
 1 Llanowar Elves
 1 Burning-Tree Emissary
 1 Dryad Militant
+1 Vines of Vastwood
+2 Rancor
 2 Arcum's Astrolabe
 2 Aspect of Hydra
-2 Vines of Vastwood
 2 Steel Leaf Champion
 2 Strangleroot Geist
-2 Rancor
 2 Burning-Tree Emissary
 2 Barkhide Troll
 2 Dryad Militant
 2 Llanowar Elves
+2 Vines of Vastwood
+3 Rancor
 3 Arcum's Astrolabe
 3 Hexdrinker
 3 Aspect of Hydra
-3 Vines of Vastwood
 3 Steel Leaf Champion
 3 Strangleroot Geist
-3 Rancor
 3 Scavenging Ooze
+3 Vines of Vastwood
 4 Rancor
 4 Scavenging Ooze
 4 Hexdrinker
@@ -205,13 +205,14 @@
 11 Snow-Covered Forest
 12 Snow-Covered Forest
 1 Temple Garden
+1 Razorverge Thicket
 1 Seachrome Coast
 1 Hallowed Fountain
+1 Plains
 1 Unsettled Mariner
 1 Hardened Scales
 1 Kazandu Blademaster
 1 Thalia's Lieutenant
-1 Razorverge Thicket
 1 Hada Freeblade
 1 Champion of the Parish
 1 Collected Company
@@ -219,7 +220,6 @@
 1 Avacyn's Pilgrim
 1 Cavern of Souls
 1 Horizon Canopy
-1 Plains
 1 Oran-Rief Survivalist
 1 Reflector Mage
 2 Horizon Canopy
@@ -246,6 +246,7 @@
 3 Thalia's Lieutenant
 3 Noble Hierarch
 3 Razorverge Thicket
+4 Noble Hierarch
 4 Hada Freeblade
 4 Collected Company
 4 Reflector Mage
@@ -253,6 +254,5 @@
 4 Hardened Scales
 4 Thalia's Lieutenant
 4 Kazandu Blademaster
-4 Noble Hierarch
 4 Oran-Rief Survivalist
 4 Cavern of Souls

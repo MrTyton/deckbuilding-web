@@ -1,39 +1,42 @@
-1 Snow-Covered Plains
-2 Birds of Paradise
+1 Forest
 1 Teferi, Time Raveler
+2 Birds of Paradise
 1 Gilded Goose
 2 Teferi, Time Raveler
 4 Oko, Thief of Crowns
 4 Vizier of Remedies
-2 Forest
+2 Shalai, Voice of Plenty
 1 Postmortem Lunge
 2 Gilded Goose
-1 Oath of Nissa
-2 Shalai, Voice of Plenty
-1 Path to Exile
 3 Horizon Canopy
+2 Forest
+1 Oath of Nissa
+1 Path to Exile
+2 Postmortem Lunge
+4 Horizon Canopy
 2 Deputy of Detention
 1 Verdant Catacombs
-1 Overgrown Tomb
 2 Verdant Catacombs
 3 Birds of Paradise
 4 Birds of Paradise
-3 Verdant Catacombs
+3 Postmortem Lunge
+4 Postmortem Lunge
 1 Eldritch Evolution
 2 Eldritch Evolution
+1 Overgrown Tomb
 1 Chord of Calling
 2 Chord of Calling
 3 Chord of Calling
 2 Snow-Covered Forest
 1 Twilight Mire
 1 Blooming Marsh
-1 Nurturing Peatland
 1 Strangleroot Geist
 1 Scavenging Ooze
 1 Blood Artist
 1 Urborg, Tomb of Yawgmoth
 1 Geralf's Messenger
 1 Wall of Roots
+1 Nurturing Peatland
 1 Khalni Garden
 1 Young Wolf
 1 Yawgmoth, Thran Physician
@@ -45,6 +48,7 @@
 2 Young Wolf
 2 Yawgmoth, Thran Physician
 2 Wall of Roots
+3 Verdant Catacombs
 3 Blooming Marsh
 3 Strangleroot Geist
 3 Wall of Roots
@@ -61,36 +65,31 @@
 4 Geralf's Messenger
 4 Twilight Mire
 4 Wall of Roots
-2 Postmortem Lunge
 1 Gavony Township
 1 Knight of Autumn
 1 Swamp
-4 Horizon Canopy
 1 Waterlogged Grove
 2 Waterlogged Grove
 1 Meddling Mage
 2 Knight of Autumn
-4 Verdant Catacombs
+1 Wooded Foothills
+2 Wooded Foothills
 1 Hapatra, Vizier of Poisons
 1 Snow-Covered Swamp
 1 Thragtusk
-2 Nurturing Peatland
 2 Snow-Covered Swamp
+2 Nurturing Peatland
 1 Liliana, Heretical Healer
 2 Khalni Garden
 3 Khalni Garden
-1 Wooded Foothills
-2 Wooded Foothills
-3 Postmortem Lunge
-4 Postmortem Lunge
 1 Carrion Feeder
 1 Collected Company
-1 Kitchen Finks
 1 Godless Shrine
+1 Kitchen Finks
 1 Marsh Flats
 2 Collected Company
-2 Ranger-Captain of Eos
 2 Gavony Township
+2 Ranger-Captain of Eos
 2 Kitchen Finks
 3 Collected Company
 3 Eternal Witness
@@ -108,10 +107,10 @@
 1 Arbor Elf
 1 Karn, the Great Creator
 2 Hydroid Krasis
+2 Arbor Elf
 2 Karn, the Great Creator
 2 Arcum's Astrolabe
 2 Ice-Fang Coatl
-2 Arbor Elf
 2 Prismatic Vista
 2 Utopia Sprawl
 3 Arcum's Astrolabe
@@ -119,10 +118,10 @@
 3 Gilded Goose
 3 Waterlogged Grove
 3 Arbor Elf
-3 Prismatic Vista
 3 Ice-Fang Coatl
 3 Misty Rainforest
 3 Karn, the Great Creator
+3 Prismatic Vista
 3 Utopia Sprawl
 4 Snow-Covered Forest
 4 Karn, the Great Creator
