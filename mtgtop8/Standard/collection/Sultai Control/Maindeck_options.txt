@@ -1,5 +1,10 @@
-1 Liliana, Dreadhorde General
-1 Temple of Malady
+1 Massacre Girl
+2 Murderous Rider
+2 Island
+1 Temple of Mystery
+3 Casualties of War
+4 Once Upon a Time
+7 Forest
 1 Castle Locthwain
 1 Cauldron Familiar
 1 Trail of Crumbs
@@ -15,37 +20,22 @@
 4 Cauldron Familiar
 4 Witch's Oven
 4 Trail of Crumbs
-4 Once Upon a Time
-2 Massacre Girl
-3 Massacre Girl
-2 Island
-7 Forest
-3 Casualties of War
-1 Temple of Mystery
-3 Noxious Grasp
 2 Temple of Malady
 2 Temple of Mystery
 4 Casualties of War
+2 Massacre Girl
+3 Massacre Girl
+3 Noxious Grasp
 1 Growth Spiral
 2 Growth Spiral
 3 Growth Spiral
 4 Growth Spiral
 1 Assassin's Trophy
-4 Noxious Grasp
-3 Swamp
 4 Fabled Passage
 1 Cavalier of Thorns
 2 Cavalier of Thorns
 3 Cavalier of Thorns
 4 Cavalier of Thorns
-1 Circuitous Route
-2 Circuitous Route
-3 Circuitous Route
-8 Forest
-1 Brazen Borrower
-1 Castle Vantress
-2 Brazen Borrower
-1 Garruk, Cursed Huntsman
 1 Leafkin Druid
 1 Risen Reef
 1 Aether Gust
@@ -57,6 +47,15 @@
 3 Aether Gust
 4 Leafkin Druid
 4 Risen Reef
+4 Noxious Grasp
+1 Circuitous Route
+2 Circuitous Route
+3 Circuitous Route
+8 Forest
+1 Brazen Borrower
+1 Castle Vantress
+2 Brazen Borrower
+1 Garruk, Cursed Huntsman
 4 Aether Gust
 1 Gadwick, the Wizened
 1 Tamiyo, Collector of Tales
@@ -70,6 +69,7 @@
 3 Brazen Borrower
 4 Circuitous Route
 1 Temple Garden
+3 Swamp
 1 Voracious Hydra
 2 Voracious Hydra
 1 Frilled Mystic
@@ -94,7 +94,6 @@
 1 Ugin, the Ineffable
 1 Questing Beast
 2 Questing Beast
-2 Temple Garden
 1 Arboreal Grazer
 2 Arboreal Grazer
 3 Arboreal Grazer
@@ -110,6 +109,4 @@
 3 Nightpack Ambusher
 4 Nightpack Ambusher
 4 Frilled Mystic
-3 Vraska, Golgari Queen
-4 Murderous Rider
-4 Swamp
+2 Temple Garden

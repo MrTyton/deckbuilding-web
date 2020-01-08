@@ -1,82 +1,85 @@
-1 Stomping Ground
-1 Breeding Pool
-1 Steam Vents
-1 Scalding Tarn
-1 Lightning Bolt
-2 Lightning Bolt
-1 Serum Visions
-2 Scalding Tarn
-2 Serum Visions
-3 Serum Visions
-1 Tarmogoyf
-2 Tarmogoyf
-3 Lightning Bolt
-3 Tarmogoyf
-4 Lightning Bolt
-4 Tarmogoyf
-4 Serum Visions
-1 Ice-Fang Coatl
 2 Ice-Fang Coatl
-3 Ice-Fang Coatl
-1 The Royal Scions
-1 Blood Moon
-1 Bloodbraid Elf
-2 Blood Moon
-2 Bloodbraid Elf
-3 Bloodbraid Elf
-4 Bloodbraid Elf
-1 Fiery Islet
-1 Magmatic Sinkhole
-1 Skred
-2 Snow-Covered Forest
-3 Snow-Covered Forest
-4 Ice-Fang Coatl
-1 Wrenn and Six
-2 Wrenn and Six
-3 Wrenn and Six
-2 Skred
-3 Skred
-1 Mystical Dispute
-3 Scalding Tarn
-4 Scalding Tarn
-1 Snapcaster Mage
-1 Jace, the Mind Sculptor
-1 Mystic Sanctuary
-1 Cryptic Command
-2 Snapcaster Mage
-1 Mana Leak
-1 Force of Negation
-2 Mana Leak
-2 Force of Negation
-1 Wooded Foothills
-2 Fiery Islet
-1 Lonely Sandbar
-1 Engineered Explosives
-1 Aether Spellbomb
-1 Spell Snare
-1 Ghost Quarter
-2 Cryptic Command
-2 Spell Snare
 2 Mystical Dispute
-3 Force of Negation
+3 Ice-Fang Coatl
 3 Snapcaster Mage
+1 Spell Pierce
+1 Hexdrinker
+1 Magmatic Sinkhole
+1 Delver of Secrets
+1 Stubborn Denial
+2 The Royal Scions
+2 Hexdrinker
+2 Magmatic Sinkhole
+2 Delver of Secrets
+2 Opt
+2 Stubborn Denial
+3 Mana Leak
+3 Hexdrinker
+3 Opt
+3 Delver of Secrets
+4 Hexdrinker
+4 Force of Negation
+4 Opt
+4 Mana Leak
+4 Delver of Secrets
+1 Mountain
+2 Wooded Foothills
+2 Stomping Ground
+3 Oko, Thief of Crowns
+3 Wooded Foothills
+4 Wooded Foothills
+1 Copperline Gorge
+1 Searing Blaze
+1 Skewer the Critics
+1 Light Up the Stage
+1 Rift Bolt
+1 Spirebluff Canal
+1 Monastery Swiftspear
+1 Skullcrack
+1 Lava Spike
+1 Eidolon of the Great Revel
+1 Mishra's Bauble
+1 Goblin Guide
+2 Copperline Gorge
+2 Searing Blaze
+2 Rift Bolt
+2 Mishra's Bauble
+2 Skewer the Critics
+2 Goblin Guide
+2 Spirebluff Canal
+2 Monastery Swiftspear
+2 Mountain
+2 Eidolon of the Great Revel
+2 Skullcrack
+2 Lava Spike
+3 Fiery Islet
+3 Copperline Gorge
+3 Lava Spike
+3 Monastery Swiftspear
+3 Mishra's Bauble
+3 Goblin Guide
+3 Searing Blaze
+4 Fiery Islet
+4 Monastery Swiftspear
+4 Mishra's Bauble
+4 Searing Blaze
+4 Goblin Guide
+4 Lava Spike
 1 Fires of Invention
+1 Chandra, Torch of Defiance
 1 Castle Vantress
 1 Flooded Strand
 1 Exhaustion
-1 Savor the Moment
-1 Chandra, Torch of Defiance
 1 Time Warp
 1 Mikokoro, Center of the Sea
 1 Polluted Delta
-1 Opt
+1 Savor the Moment
+2 Jace, the Mind Sculptor
+2 Chandra, Torch of Defiance
 2 Savor the Moment
 2 Fires of Invention
-2 Chandra, Torch of Defiance
 2 Castle Vantress
-2 Steam Vents
 2 Mystic Sanctuary
-2 Jace, the Mind Sculptor
 2 Time Warp
 2 Polluted Delta
 3 Time Warp
@@ -84,106 +87,50 @@
 3 Savor the Moment
 3 Fires of Invention
 4 Time Warp
-4 Mystic Sanctuary
 4 Fires of Invention
 4 Savor the Moment
-1 Mountain
-2 Wooded Foothills
-2 Stomping Ground
-3 Wooded Foothills
-4 Wooded Foothills
-1 Copperline Gorge
-1 Light Up the Stage
-1 Searing Blaze
-1 Goblin Guide
-1 Skewer the Critics
-1 Rift Bolt
-1 Skullcrack
-1 Lava Spike
-1 Spirebluff Canal
-1 Eidolon of the Great Revel
-1 Monastery Swiftspear
-2 Copperline Gorge
-2 Goblin Guide
-2 Mountain
-2 Searing Blaze
-2 Rift Bolt
-2 Spirebluff Canal
-2 Skewer the Critics
-2 Lava Spike
-2 Monastery Swiftspear
-2 Eidolon of the Great Revel
-2 Skullcrack
-3 Copperline Gorge
-3 Goblin Guide
-3 Fiery Islet
-3 Lava Spike
-3 Searing Blaze
-3 Monastery Swiftspear
-4 Goblin Guide
-4 Fiery Islet
-4 Monastery Swiftspear
-4 Lava Spike
-4 Searing Blaze
-1 Seasoned Pyromancer
-1 Glorybringer
+4 Mystic Sanctuary
 1 Pia and Kiran Nalaar
+1 Tireless Tracker
+1 Seasoned Pyromancer
+1 Blood Moon
+1 Birds of Paradise
 1 Bonecrusher Giant
+1 Glorybringer
+1 Bloodbraid Elf
 1 Utopia Sprawl
 1 Windswept Heath
 1 Forest
-1 Tireless Tracker
 1 Arbor Elf
-1 Birds of Paradise
-2 Glorybringer
-2 Bonecrusher Giant
-2 Forest
+1 Karn, the Great Creator
+2 Tireless Tracker
 2 Birds of Paradise
+2 Blood Moon
+2 Bonecrusher Giant
+2 Karn, the Great Creator
+2 Forest
 2 Utopia Sprawl
 2 Arbor Elf
-2 Tireless Tracker
+2 Bloodbraid Elf
 2 Windswept Heath
-3 Forest
-3 Glorybringer
+2 Glorybringer
 3 Tireless Tracker
 3 Bonecrusher Giant
 3 Blood Moon
 3 Arbor Elf
+3 Karn, the Great Creator
+3 Forest
+3 Glorybringer
+3 Bloodbraid Elf
 3 Utopia Sprawl
-4 Glorybringer
-4 Forest
-4 Bonecrusher Giant
-4 Arbor Elf
-4 Utopia Sprawl
-4 Blood Moon
 4 Karn, the Great Creator
-5 Forest
+4 Bonecrusher Giant
+4 Bloodbraid Elf
+4 Utopia Sprawl
+4 Oko, Thief of Crowns
+4 Blood Moon
+4 Arbor Elf
+4 Forest
+4 Glorybringer
 6 Forest
-1 Island
-1 Stubborn Denial
-1 Once Upon a Time
-1 Flame Slash
-1 Noble Hierarch
-1 Delver of Secrets
-1 Thought Scour
-1 Hooting Mandrills
-2 Breeding Pool
-2 Once Upon a Time
-2 Stubborn Denial
-2 Flame Slash
-2 Noble Hierarch
-2 Hooting Mandrills
-2 Delver of Secrets
-2 Thought Scour
-3 Hooting Mandrills
-3 Mana Leak
-3 Once Upon a Time
-3 Noble Hierarch
-3 Thought Scour
-3 Flame Slash
-3 Delver of Secrets
-4 Once Upon a Time
-4 Thought Scour
-4 Hooting Mandrills
-4 Mana Leak
-4 Delver of Secrets
+5 Forest

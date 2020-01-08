@@ -16,8 +16,8 @@
 4 Breeding Pool
 1 Hour of Promise
 3 Golos, Tireless Pilgrim
-4 Ulamog, the Ceaseless Hunger
 4 Golos, Tireless Pilgrim
+4 Ulamog, the Ceaseless Hunger
 1 World Breaker
 1 Kozilek's Return
 1 Glassblower's Puzzleknot
@@ -33,37 +33,38 @@
 2 Hope of Ghirapur
 1 Field of Ruin
 2 Field of Ruin
+1 Karn, the Great Creator
 1 Heart of Kiran
 1 Mobilized District
 1 Wastes
 1 Sea Gate Wreckage
-1 Darksteel Citadel
-1 Karn, Scion of Urza
 1 Spatial Contortion
+1 Karn, Scion of Urza
 1 Stonecoil Serpent
 1 Mutavault
 1 Ratchet Bomb
 1 Warping Wail
 1 Blast Zone
+1 Darksteel Citadel
 1 Scrap Trawler
 1 Zhalfirin Void
 1 Fountain of Renewal
 1 Foundry of the Consuls
-1 Karn, the Great Creator
 2 Wastes
-2 Zhalfirin Void
 2 Mutavault
+2 Karn, the Great Creator
 2 Blast Zone
 2 Mobilized District
 2 Karn, Scion of Urza
-2 Stonecoil Serpent
 2 Spatial Contortion
-2 Warping Wail
+2 Stonecoil Serpent
 2 Ratchet Bomb
+2 Warping Wail
 2 Scrap Trawler
 2 Fountain of Renewal
-2 Karn, the Great Creator
+2 Zhalfirin Void
 3 Blast Zone
+3 Karn, the Great Creator
 3 Zhalfirin Void
 3 Wastes
 3 Mutavault
@@ -75,7 +76,6 @@
 3 Warping Wail
 3 Fountain of Renewal
 3 Scrap Trawler
-3 Karn, the Great Creator
 4 Stonecoil Serpent
 4 Shrine of the Forsaken Gods
 4 Mutavault
@@ -93,8 +93,8 @@
 4 Hallowed Fountain
 1 Once Upon a Time
 1 Urborg, Tomb of Yawgmoth
-1 Emry, Lurker of the Loch
 1 Mox Amber
+1 Emry, Lurker of the Loch
 1 Oko, Thief of Crowns
 1 Mana Confluence
 1 Jace, Wielder of Mysteries
@@ -117,8 +117,8 @@
 2 Diligent Excavator
 2 Oath of Nissa
 2 Lazav, the Multifarious
-3 Emry, Lurker of the Loch
 3 Mox Amber
+3 Emry, Lurker of the Loch
 3 Once Upon a Time
 3 Mana Confluence
 3 Diligent Excavator
@@ -195,9 +195,9 @@
 4 Myth Realized
 5 Plains
 1 Kiora, Behemoth Beckoner
+1 Borborygmos Enraged
 1 Enter the Infinite
 1 Possibility Storm
-1 Borborygmos Enraged
 1 Rosethorn Acolyte
 1 Elvish Mystic
 1 Llanowar Elves
@@ -240,20 +240,20 @@
 5 Forest
 6 Forest
 7 Forest
-1 Unsubstantiate
 1 Drown in the Loch
 1 Drowned Catacomb
 1 Sunken Hollow
 1 Spell Pierce
 1 Fabled Passage
-1 Notion Thief
 1 Engulf the Shore
+1 Notion Thief
 1 Cyclonic Rift
 1 Unsummon
 1 Brazen Borrower
 1 Dictate of Kruphix
 1 Thoughtseize
 1 Swamp
+1 Unsubstantiate
 1 Wizard's Retort
 1 Fatal Push
 1 Watery Grave

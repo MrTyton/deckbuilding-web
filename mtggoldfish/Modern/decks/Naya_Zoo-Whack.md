@@ -1,0 +1,49 @@
+# Naya Zoo-Whack
+
+#### [Export MTGO List](../collection/Naya%20Zoo-Whack/Naya%20Zoo-Whack.txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Arid%20Mesa%0A4%09Atarka's%20Command%0A4%09Burning-Tree%20Emissary%0A2%09Dryad%20Arbor%0A1%09Forest%0A2%09Goblin%20Bushwhacker%0A4%09Goblin%20Guide%0A2%09Hexdrinker%0A4%09Hidden%20Herbalists%0A4%09Lightning%20Bolt%0A1%09Mountain%0A4%09Narnam%20Renegade%0A4%09Once%20Upon%20a%20Time%0A4%09Reckless%20Bushwhacker%0A1%09Sacred%20Foundry%0A2%09Stomping%20Ground%0A1%09Temple%20Garden%0A4%09Wild%20Nacatl%0A4%09Windswept%20Heath%0A4%09Wooded%20Foothills&deckside=1%09Collector%20Ouphe%0A3%09Magus%20of%20the%20Moon%0A3%09Path%20to%20Exile%0A2%09Rest%20in%20Peace%0A2%09Thalia,%20Guardian%20of%20Thraben%0A2%09Tin%20Street%20Hooligan%0A2%09Veil%20of%20Summer)
+# Maindeck
+
+|                                          Creature (28)                                           |                                        Instant (12)                                         |                                          Land (20)                                          |
+|--------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|
+|4 [Burning-Tree Emissary](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426627)|4 [Atarka's Command](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394502)|4 [Arid Mesa](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405092)       |
+|2 [Goblin Bushwhacker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=177501)   |4 [Lightning Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=806)     |2 [Dryad Arbor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=136196)     |
+|4 [Goblin Guide](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425921)         |4 [Once Upon a Time](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473131)|1 [Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)          |
+|2 [Hexdrinker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464117)           |                                                                                             |1 [Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)        |
+|4 [Hidden Herbalists](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423777)    |                                                                                             |1 [Sacred Foundry](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405106)  |
+|4 [Narnam Renegade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423784)      |                                                                                             |2 [Stomping Ground](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405110) |
+|4 [Reckless Bushwhacker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407626) |                                                                                             |1 [Temple Garden](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405112)   |
+|4 [Wild Nacatl](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174989)          |                                                                                             |4 [Windswept Heath](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405115) |
+|                                                                                                  |                                                                                             |4 [Wooded Foothills](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405116)|
+
+
+# Sideboard
+
+|                                              Creature (8)                                              |                                     Enchantment (2)                                      |                                        Instant (5)                                        |
+|--------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
+|1 [Collector Ouphe](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464107)            |2 [Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)|3 [Path to Exile](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220511) |
+|3 [Magus of the Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=136152)          |                                                                                          |2 [Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)|
+|2 [Thalia, Guardian of Thraben](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442025)|                                                                                          |                                                                                           |
+|2 [Tin Street Hooligan](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=96960)         |                                                                                          |                                                                                           |
+
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                         Maindeck Card                                          |*n*<sup>th</sup> copy|                                      Sideboard Card                                      |
+|--------------------:|------------------------------------------------------------------------------------------------|--------------------:|------------------------------------------------------------------------------------------|
+|                    1|[Snow-Covered Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121192)  |                    1|[Kor Firewalker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442010) |
+|                    1|[Snow-Covered Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121233)|                    3|[Collector Ouphe](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464107)|
+|                    1|[Vexing Devil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278257)         |                    2|[Collector Ouphe](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464107)|
+|                    1|[Simian Spirit Guide](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442137)  |                     |                                                                                          |
+|                    1|[Pelt Collector](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452891)       |                     |                                                                                          |
+|                    1|[Kird Ape](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=1302)               |                     |                                                                                          |
+|                    2|[Vexing Devil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278257)         |                     |                                                                                          |
+|                    2|[Pelt Collector](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452891)       |                     |                                                                                          |
+|                    2|[Kird Ape](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=1302)               |                     |                                                                                          |
+|                    2|[Simian Spirit Guide](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442137)  |                     |                                                                                          |
+|                    2|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)             |                     |                                                                                          |
+|                    3|[Vexing Devil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278257)         |                     |                                                                                          |
+|                    3|[Pelt Collector](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452891)       |                     |                                                                                          |
+|                    4|[Vexing Devil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278257)         |                     |                                                                                          |
+|                    4|[Pelt Collector](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452891)       |                     |                                                                                          |
+

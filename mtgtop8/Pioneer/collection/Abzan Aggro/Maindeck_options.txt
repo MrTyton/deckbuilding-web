@@ -51,11 +51,11 @@
 1 Zulaport Cutthroat
 1 Cartel Aristocrat
 2 Collected Company
-2 Zulaport Cutthroat
 2 Cartel Aristocrat
+2 Zulaport Cutthroat
 3 Collected Company
-3 Zulaport Cutthroat
 3 Cartel Aristocrat
+3 Zulaport Cutthroat
 4 Collected Company
 4 Godless Shrine
 4 Zulaport Cutthroat
@@ -72,21 +72,21 @@
 1 Seasons Past
 1 Sandsteppe Citadel
 2 Murderous Rider
-2 Nissa, Vastwood Seer
 2 Dark Petition
+2 Nissa, Vastwood Seer
 2 Castle Locthwain
 2 Languish
 2 Sandsteppe Citadel
 3 Murderous Rider
 3 Languish
 3 Abzan Charm
-1 Vraska the Unseen
 1 Vessel of Nascency
-1 Collective Brutality
 1 Deathrite Shaman
+1 Vraska the Unseen
+1 Collective Brutality
 2 Vessel of Nascency
-2 Collective Brutality
 2 Deathrite Shaman
+2 Collective Brutality
 2 Vraska the Unseen
 2 Scavenging Ooze
 3 Vessel of Nascency
@@ -135,8 +135,8 @@
 4 Fabled Passage
 4 Merfolk Branchwalker
 4 Jadelight Ranger
-1 Unclaimed Territory
 1 Liliana, Heretical Healer
+1 Unclaimed Territory
 1 Dauntless Bodyguard
 1 Thalia's Lieutenant
 1 Xathrid Necromancer
@@ -144,8 +144,8 @@
 1 Kytheon, Hero of Akros
 1 Bloodsoaked Champion
 1 Channeler Initiate
-2 Unclaimed Territory
 2 Liliana, Heretical Healer
+2 Unclaimed Territory
 2 Dauntless Bodyguard
 2 Thalia's Lieutenant
 2 Xathrid Necromancer
@@ -167,15 +167,14 @@
 4 Xathrid Necromancer
 4 Bloodsoaked Champion
 1 Westvale Abbey
-1 Nantuko Husk
 1 Voice of Resurgence
 1 Return to the Ranks
 1 Hangarback Walker
 1 Rally the Ancestors
 1 Hunted Witness
+1 Nantuko Husk
 1 Cruel Celebrant
 1 Blisterpod
-2 Nantuko Husk
 2 Voice of Resurgence
 2 Hangarback Walker
 2 Return to the Ranks
@@ -183,6 +182,7 @@
 2 Hunted Witness
 2 Rally the Ancestors
 2 Blisterpod
+2 Nantuko Husk
 3 Hangarback Walker
 3 Voice of Resurgence
 3 Return to the Ranks

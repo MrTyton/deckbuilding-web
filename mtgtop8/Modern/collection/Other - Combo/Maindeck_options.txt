@@ -1,22 +1,10 @@
-1 Minamo, School at Water's Edge
-1 Mishra's Bauble
-1 Eiganjo Castle
-1 Unearth
-1 Urborg, Tomb of Yawgmoth
-1 Teferi, Time Raveler
-1 Mox Amber
-1 Jace, Wielder of Mysteries
-1 Kethis, the Hidden Hand
-1 Emry, Lurker of the Loch
-1 Grinding Station
-1 Mox Opal
 1 Sai, Master Thopterist
 1 Hope of Ghirapur
 2 Mishra's Bauble
 2 Unearth
+2 Hope of Ghirapur
 2 Emry, Lurker of the Loch
 2 Kethis, the Hidden Hand
-2 Hope of Ghirapur
 2 Grinding Station
 2 Mox Opal
 2 Mox Amber
@@ -65,14 +53,26 @@
 2 Lonely Sandbar
 2 Botanical Sanctum
 3 Yavimaya Coast
-3 Lonely Sandbar
 3 Botanical Sanctum
-4 Lonely Sandbar
+3 Lonely Sandbar
 4 Yavimaya Coast
 4 Botanical Sanctum
+4 Lonely Sandbar
 4 Island
-1 Misty Rainforest
+1 Breeding Pool
+1 Flooded Strand
+2 Flooded Strand
+2 Watery Grave
+2 Polluted Delta
+3 Darkslick Shores
+3 Polluted Delta
+3 Past in Flames
+3 Wishclaw Talisman
+4 Polluted Delta
+4 Darkslick Shores
+4 Wishclaw Talisman
 1 Snow-Covered Forest
+1 Misty Rainforest
 1 Snow-Covered Island
 1 Cryptic Command
 1 Mystic Sanctuary
@@ -115,8 +115,8 @@
 3 Ice-Fang Coatl
 4 Oko, Thief of Crowns
 4 Misty Rainforest
-4 Field of Ruin
 4 Flooded Strand
+4 Field of Ruin
 4 Snow-Covered Island
 4 Once Upon a Time
 4 Remand
@@ -128,8 +128,8 @@
 5 Snow-Covered Island
 6 Snow-Covered Island
 7 Snow-Covered Island
-1 Temple Garden
 1 Prismatic Vista
+1 Temple Garden
 1 Overgrown Tomb
 1 Hallowed Fountain
 1 Arcum's Astrolabe

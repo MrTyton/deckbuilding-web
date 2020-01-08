@@ -2,8 +2,8 @@
 2 Rest in Peace
 2 Dovin's Veto
 1 Arashin Cleric
-1 Supreme Verdict
 1 Linvala, the Preserver
+1 Supreme Verdict
 2 Arashin Cleric
 2 Supreme Verdict
 3 Supreme Verdict
@@ -44,8 +44,8 @@
 1 Damping Sphere
 2 Damping Sphere
 1 Brought Back
-1 Gaea's Blessing
 1 Dromoka's Command
+1 Gaea's Blessing
 2 Brought Back
 2 Dromoka's Command
 1 Leyline of Sanctity
@@ -59,6 +59,12 @@
 1 Gryff's Boon
 1 Adanto Vanguard
 2 Adanto Vanguard
+1 Chandra's Defeat
+1 Fry
+1 Cindervines
+2 Fry
+2 Cindervines
+2 Chandra's Defeat
 1 Questing Beast
 2 Questing Beast
 2 Unmoored Ego
@@ -68,12 +74,6 @@
 1 Thrashing Brontodon
 1 Dragonlord Silumgar
 2 Blightbeetle
-1 Chandra's Defeat
-1 Fry
-1 Cindervines
-2 Fry
-2 Cindervines
-2 Chandra's Defeat
 1 Murderous Cut
 1 Liliana's Defeat
 1 Stain the Mind
@@ -128,22 +128,22 @@
 3 Declaration in Stone
 3 Deafening Silence
 4 Fatal Push
-1 Unsummon
-1 Sheltering Light
-1 Failure / Comply
-2 Unsummon
-2 Sheltering Light
-2 Sentinel's Mark
-2 Failure / Comply
-3 Unsummon
-3 Sheltering Light
-4 Sheltering Light
 1 Teferi, Time Raveler
 2 Teferi, Time Raveler
 2 Settle the Wreckage
 3 Scavenging Ooze
 3 Knight of Autumn
 4 Knight of Autumn
+1 Sheltering Light
+1 Unsummon
+1 Failure / Comply
+2 Sentinel's Mark
+2 Sheltering Light
+2 Failure / Comply
+2 Unsummon
+3 Sheltering Light
+3 Unsummon
+4 Sheltering Light
 1 Pithing Needle
 2 Pithing Needle
 3 Dromoka's Command

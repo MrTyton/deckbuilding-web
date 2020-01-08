@@ -1,7 +1,7 @@
 # Gruul Dinosaurs
 
 #### [Export MTGO List](../collection/Gruul%20Dinosaurs/Gruul%20Dinosaurs.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=2%09Bonecrusher%20Giant%0A4%09Commune%20with%20Dinosaurs%0A3%09Domri,%20Anarch%20of%20Bolas%0A4%09Elvish%20Mystic%0A8%09Forest%0A2%09Game%20Trail%0A2%09Ghalta,%20Primal%20Hunger%0A2%09Heart%20of%20Kiran%0A4%09Llanowar%20Elves%0A4%09Marauding%20Raptor%0A4%09Mountain%0A4%09Reckless%20Rage%0A4%09Regisaur%20Alpha%0A1%09Rhonas%20the%20Indomitable%0A4%09Ripjaw%20Raptor%0A4%09Rootbound%20Crag%0A4%09Stomping%20Ground&deckside=2%09Chandra,%20Awakened%20Inferno%0A3%09Chandra,%20Torch%20of%20Defiance%0A2%09Fry%0A3%09Scavenging%20Ooze%0A2%09Thrashing%20Brontodon%0A2%09Vivien%20Reid%0A1%09Wild%20Slash)
+#### [Print on decklist.org](http://decklist.org/?deckmain=2%09Bonecrusher%20Giant%0A4%09Commune%20with%20Dinosaurs%0A3%09Domri,%20Anarch%20of%20Bolas%0A4%09Elvish%20Mystic%0A8%09Forest%0A2%09Game%20Trail%0A2%09Ghalta,%20Primal%20Hunger%0A2%09Heart%20of%20Kiran%0A4%09Llanowar%20Elves%0A4%09Marauding%20Raptor%0A4%09Mountain%0A4%09Reckless%20Rage%0A4%09Regisaur%20Alpha%0A1%09Rhonas%20the%20Indomitable%0A4%09Ripjaw%20Raptor%0A4%09Rootbound%20Crag%0A4%09Stomping%20Ground&deckside=2%09Chandra,%20Awakened%20Inferno%0A3%09Chandra,%20Torch%20of%20Defiance%0A2%09Fry%0A1%09Magma%20Spray%0A3%09Scavenging%20Ooze%0A2%09Thrashing%20Brontodon%0A2%09Vivien%20Reid)
 # Maindeck
 
 |                                       Artifact (2)                                        |                                           Creature (25)                                           |                                       Instant (4)                                        |                                         Land (22)                                          |                                         Planeswalker (3)                                          |                                            Sorcery (4)                                            |
@@ -18,20 +18,20 @@
 
 # Sideboard
 
-|                                          Creature (5)                                          |                                      Instant (3)                                      |                                           Planeswalker (7)                                            |
-|------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
-|3 [Scavenging Ooze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420783)    |2 [Fry](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466894)       |2 [Chandra, Awakened Inferno](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466881) |
-|2 [Thrashing Brontodon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456570)|1 [Wild Slash](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391959)|3 [Chandra, Torch of Defiance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417683)|
-|                                                                                                |                                                                                       |2 [Vivien Reid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447344)               |
+|                                          Creature (5)                                          |                                      Instant (3)                                       |                                           Planeswalker (7)                                            |
+|------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
+|3 [Scavenging Ooze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420783)    |2 [Fry](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466894)        |2 [Chandra, Awakened Inferno](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466881) |
+|2 [Thrashing Brontodon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456570)|1 [Magma Spray](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426843)|3 [Chandra, Torch of Defiance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417683)|
+|                                                                                                |                                                                                        |2 [Vivien Reid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447344)               |
 
 
 # Other Options
 
 |*n*<sup>th</sup> copy|                                          Maindeck Card                                          |*n*<sup>th</sup> copy|                                      Sideboard Card                                      |
 |--------------------:|-------------------------------------------------------------------------------------------------|--------------------:|------------------------------------------------------------------------------------------|
-|                    3|[Bonecrusher Giant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473077)     |                    2|[Wild Slash](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391959)     |
-|                    4|[Bonecrusher Giant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473077)     |                    1|[Magma Spray](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426843)    |
-|                    3|[Game Trail](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=410044)            |                    2|[Magma Spray](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426843)    |
+|                    3|[Bonecrusher Giant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473077)     |                    2|[Magma Spray](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426843)    |
+|                    4|[Bonecrusher Giant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473077)     |                    1|[Wild Slash](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391959)     |
+|                    3|[Game Trail](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=410044)            |                    1|[Mizzium Mortars](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405302)|
 |                    9|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)                |                    2|[Mizzium Mortars](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405302)|
-|                    2|[Rhonas the Indomitable](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426884)|                    1|[Mizzium Mortars](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405302)|
+|                    2|[Rhonas the Indomitable](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426884)|                    2|[Wild Slash](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391959)     |
 

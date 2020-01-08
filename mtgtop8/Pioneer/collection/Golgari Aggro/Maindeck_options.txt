@@ -36,10 +36,10 @@
 4 Vivien, Arkbow Ranger
 1 Sylvan Caryatid
 1 Traverse the Ulvenwald
-2 Sylvan Caryatid
 2 Traverse the Ulvenwald
-3 Sylvan Caryatid
+2 Sylvan Caryatid
 3 Traverse the Ulvenwald
+3 Sylvan Caryatid
 4 Sylvan Caryatid
 4 Traverse the Ulvenwald
 1 Grapple with the Past
@@ -55,9 +55,9 @@
 3 Nullhide Ferox
 3 Grapple with the Past
 3 Satyr Wayfinder
-4 Satyr Wayfinder
 4 Nullhide Ferox
 4 Grapple with the Past
+4 Satyr Wayfinder
 1 Hashep Oasis
 2 Hashep Oasis
 4 Elvish Mystic
@@ -87,8 +87,8 @@
 1 Scavenging Ooze
 2 Scavenging Ooze
 1 Ruins of Oran-Rief
-1 Verdurous Gearhulk
 1 Nykthos, Shrine to Nyx
+1 Verdurous Gearhulk
 2 Nykthos, Shrine to Nyx
 1 Thoughtseize
 2 Thoughtseize
@@ -98,49 +98,16 @@
 2 Vraska, Golgari Queen
 3 Thoughtseize
 1 Fabled Passage
-2 Castle Locthwain
 2 Fabled Passage
+2 Castle Locthwain
 1 Mana Confluence
 2 Mana Confluence
 1 Avatar of the Resolute
 2 Avatar of the Resolute
 3 Chromanticore
-1 Dread Wanderer
-1 Cryptbreaker
-1 Diregraf Colossus
-1 Lord of the Accursed
-1 Death Baron
-1 Liliana, Untouched by Death
-1 Dark Salvation
-1 Liliana's Mastery
-1 Heart of Kiran
-1 Mutavault
-1 Driven / Despair
-2 Dread Wanderer
-2 Cryptbreaker
-2 Diregraf Colossus
-2 Lord of the Accursed
-2 Liliana, Untouched by Death
-2 Dark Salvation
-2 Liliana's Mastery
-2 Heart of Kiran
-2 Mutavault
-3 Cryptbreaker
-3 Dread Wanderer
-3 Diregraf Colossus
-3 Lord of the Accursed
-3 Heart of Kiran
-3 Castle Locthwain
-3 Mutavault
-4 Cryptbreaker
-4 Dread Wanderer
-4 Lord of the Accursed
-2 Verdurous Gearhulk
-3 Nykthos, Shrine to Nyx
-4 Nykthos, Shrine to Nyx
 1 Slitherhead
-1 Westvale Abbey
 1 Assassin's Trophy
+1 Westvale Abbey
 1 Tireless Tracker
 2 Slitherhead
 2 Abrupt Decay
@@ -155,8 +122,41 @@
 2 Karn's Bastion
 2 Castle Garenbrig
 3 Merfolk Branchwalker
-4 Merfolk Branchwalker
 4 Swamp
+4 Merfolk Branchwalker
+1 Liliana, Untouched by Death
+1 Dark Salvation
+1 Heart of Kiran
+1 Death Baron
+1 Cryptbreaker
+1 Diregraf Colossus
+1 Liliana's Mastery
+1 Mutavault
+1 Dread Wanderer
+1 Driven / Despair
+1 Lord of the Accursed
+2 Liliana, Untouched by Death
+2 Heart of Kiran
+2 Mutavault
+2 Dark Salvation
+2 Diregraf Colossus
+2 Lord of the Accursed
+2 Liliana's Mastery
+2 Dread Wanderer
+2 Cryptbreaker
+3 Heart of Kiran
+3 Castle Locthwain
+3 Cryptbreaker
+3 Lord of the Accursed
+3 Mutavault
+3 Dread Wanderer
+3 Diregraf Colossus
+4 Cryptbreaker
+4 Dread Wanderer
+4 Lord of the Accursed
+2 Verdurous Gearhulk
+3 Nykthos, Shrine to Nyx
+4 Nykthos, Shrine to Nyx
 4 Fatal Push
 1 Samut, Voice of Dissent
 1 Bomat Courier
@@ -167,10 +167,11 @@
 2 Samut, Voice of Dissent
 2 Blood Crypt
 2 Commune with the Gods
-3 Samut, Voice of Dissent
 3 Commune with the Gods
+3 Samut, Voice of Dissent
 3 Blood Crypt
 4 Samut, Voice of Dissent
+1 Cavalier of Thorns
 1 Temple of Malady
 1 Emrakul, the Promised End
 1 Massacre Girl
@@ -179,14 +180,13 @@
 1 Witch's Oven
 1 Liliana, the Last Hope
 1 Cauldron Familiar
-1 Cavalier of Thorns
 1 Trail of Crumbs
 2 Temple of Malady
+2 Cavalier of Thorns
 2 Liliana, the Last Hope
 2 Witch's Oven
 2 Gilded Goose
 2 Cauldron Familiar
-2 Cavalier of Thorns
 2 Courser of Kruphix
 2 Trail of Crumbs
 3 Temple of Malady
