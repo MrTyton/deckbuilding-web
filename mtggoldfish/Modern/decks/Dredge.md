@@ -54,6 +54,6 @@
 |                    3|[Conflagrate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=114909)          |                    2|[Assassin's Trophy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452902)  |
 |                    1|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)                |                    2|[Stain the Mind](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383402)     |
 |                    1|[Ghost Quarter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389534)        |                     |                                                                                              |
-|                    2|[City of Brass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=4178)          |                     |                                                                                              |
 |                    3|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)             |                     |                                                                                              |
+|                    2|[City of Brass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=4178)          |                     |                                                                                              |
 

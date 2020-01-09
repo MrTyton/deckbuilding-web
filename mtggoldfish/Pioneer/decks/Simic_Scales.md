@@ -1,7 +1,7 @@
 # Simic Scales
 
 #### [Export MTGO List](../collection/Simic%20Scales/Simic%20Scales.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Barkhide%20Troll%0A4%09Botanical%20Sanctum%0A4%09Breeding%20Pool%0A4%09Elvish%20Mystic%0A9%09Forest%0A2%09Gilded%20Goose%0A4%09Hardened%20Scales%0A1%09Hashep%20Oasis%0A3%09Hydroid%20Krasis%0A4%09Llanowar%20Elves%0A4%09Nissa,%20Voice%20of%20Zendikar%0A4%09Nissa,%20Who%20Shakes%20the%20World%0A2%09Nykthos,%20Shrine%20to%20Nyx%0A3%09Vivien,%20Arkbow%20Ranger%0A4%09Walking%20Ballista%0A4%09Yavimaya%20Coast&deckside=4%09Mystical%20Dispute%0A1%09Reclamation%20Sage%0A3%09Scavenging%20Ooze%0A2%09Skysovereign,%20Consul%20Flagship%0A1%09Sorcerous%20Spyglass%0A2%09Spell%20Pierce%0A1%09Thrashing%20Brontodon%0A1%09Tireless%20Tracker)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Barkhide%20Troll%0A4%09Botanical%20Sanctum%0A4%09Breeding%20Pool%0A4%09Elvish%20Mystic%0A9%09Forest%0A2%09Gilded%20Goose%0A4%09Hardened%20Scales%0A1%09Hashep%20Oasis%0A3%09Hydroid%20Krasis%0A4%09Llanowar%20Elves%0A4%09Nissa,%20Voice%20of%20Zendikar%0A4%09Nissa,%20Who%20Shakes%20the%20World%0A2%09Nykthos,%20Shrine%20to%20Nyx%0A3%09Vivien,%20Arkbow%20Ranger%0A4%09Walking%20Ballista%0A4%09Yavimaya%20Coast&deckside=1%09Hydroid%20Krasis%0A4%09Mystical%20Dispute%0A1%09Reclamation%20Sage%0A3%09Scavenging%20Ooze%0A2%09Skysovereign,%20Consul%20Flagship%0A2%09Spell%20Pierce%0A1%09Thrashing%20Brontodon%0A1%09Tireless%20Tracker)
 # Maindeck
 
 |                                        Creature (21)                                        |                                      Enchantment (4)                                       |                                             Land (24)                                             |                                           Planeswalker (11)                                            |
@@ -16,19 +16,20 @@
 
 # Sideboard
 
-|                                               Artifact (3)                                               |                                          Creature (6)                                          |                                         Instant (6)                                         |
+|                                               Artifact (2)                                               |                                          Creature (7)                                          |                                         Instant (6)                                         |
 |----------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|
-|2 [Skysovereign, Consul Flagship](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417807)|1 [Reclamation Sage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389651)   |4 [Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)|
-|1 [Sorcerous Spyglass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435407)           |3 [Scavenging Ooze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420783)    |2 [Spell Pierce](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425876)    |
+|2 [Skysovereign, Consul Flagship](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417807)|1 [Hydroid Krasis](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457327)     |4 [Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)|
+|                                                                                                          |1 [Reclamation Sage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389651)   |2 [Spell Pierce](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425876)    |
+|                                                                                                          |3 [Scavenging Ooze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420783)    |                                                                                             |
 |                                                                                                          |1 [Thrashing Brontodon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456570)|                                                                                             |
 |                                                                                                          |1 [Tireless Tracker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409997)   |                                                                                             |
 
 
 # Other Options
 
-|*n*<sup>th</sup> copy|                                       Maindeck Card                                        |*n*<sup>th</sup> copy|                                     Sideboard Card                                      |
-|--------------------:|--------------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------|
-|                    1|[Hangarback Walker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420600)|                    1|[Hydroid Krasis](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457327)|
-|                    4|[Hydroid Krasis](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457327)   |                     |                                                                                         |
-|                    2|[Hangarback Walker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420600)|                     |                                                                                         |
+|*n*<sup>th</sup> copy|                                       Maindeck Card                                        |*n*<sup>th</sup> copy|                                       Sideboard Card                                        |
+|--------------------:|--------------------------------------------------------------------------------------------|--------------------:|---------------------------------------------------------------------------------------------|
+|                    1|[Hangarback Walker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420600)|                    1|[Sorcerous Spyglass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435407)|
+|                    4|[Hydroid Krasis](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457327)   |                     |                                                                                             |
+|                    2|[Hangarback Walker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420600)|                     |                                                                                             |
 

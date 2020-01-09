@@ -202,8 +202,8 @@
 2 Nahiri, the Harbinger
 2 Detention Sphere
 2 Deafening Clarion
-3 Teferi, Hero of Dominaria
 3 Deafening Clarion
+3 Teferi, Hero of Dominaria
 1 Voice of Resurgence
 1 Attune with Aether
 1 Inspiring Vantage
@@ -231,9 +231,9 @@
 4 Dragonlord Ojutai
 4 Silumgar's Scorn
 1 Courser of Kruphix
-1 Gonti, Lord of Luxury
 1 Lovestruck Beast
 1 Pulse of Murasa
+1 Gonti, Lord of Luxury
 1 Scavenging Ooze
 2 Courser of Kruphix
 2 Lovestruck Beast
@@ -260,19 +260,19 @@
 1 Cerulean Drake
 1 Open the Armory
 1 Scheming Symmetry
+1 Sigarda's Aid
 1 Ancestral Blade
+1 Colossus Hammer
 1 Merfolk Secretkeeper
 1 Aqueous Form
 1 Overwhelmed Apprentice
-1 Colossus Hammer
-1 Sigarda's Aid
 1 Apostle of Purifying Light
 2 Gods Willing
 2 Merfolk Secretkeeper
+2 Colossus Hammer
 2 Open the Armory
 2 Sigarda's Aid
 2 Cerulean Drake
-2 Colossus Hammer
 2 Overwhelmed Apprentice
 2 Scheming Symmetry
 2 Apostle of Purifying Light
@@ -280,10 +280,10 @@
 3 Fetid Pools
 3 Merfolk Secretkeeper
 3 Overwhelmed Apprentice
+3 Colossus Hammer
 3 Cerulean Drake
 3 Open the Armory
 3 Sigarda's Aid
-3 Colossus Hammer
 3 Scheming Symmetry
 3 Apostle of Purifying Light
 3 Mana Confluence
@@ -291,11 +291,11 @@
 4 Open the Armory
 4 Merfolk Secretkeeper
 4 Gods Willing
+4 Colossus Hammer
 4 Scheming Symmetry
+4 Sigarda's Aid
 4 Fetid Pools
 4 Overwhelmed Apprentice
-4 Sigarda's Aid
-4 Colossus Hammer
 4 Apostle of Purifying Light
 4 Mana Confluence
 1 Sunpetal Grove
@@ -342,14 +342,13 @@
 1 Ifnir Deadlands
 1 Secure the Wastes
 1 Westvale Abbey
-1 Sorin, Grim Nemesis
 1 Blighted Fen
+1 Sorin, Grim Nemesis
 1 Yahenni's Expertise
 1 Duress
 1 Archangel Avacyn
 1 Transgress the Mind
 1 Mortify
-2 Mortify
 2 Blighted Fen
 2 Anguished Unmaking
 2 Archangel Avacyn
@@ -360,6 +359,7 @@
 2 Ifnir Deadlands
 2 Ob Nixilis Reignited
 2 Transgress the Mind
+2 Mortify
 3 Grasp of Darkness
 3 Transgress the Mind
 3 Ob Nixilis Reignited
@@ -377,11 +377,11 @@
 1 Dovin's Veto
 1 Declaration in Stone
 4 Thought Erasure
-1 Traverse the Ulvenwald
 1 Sylvan Caryatid
-1 Keranos, God of Storms
-1 Vraska, Golgari Queen
+1 Traverse the Ulvenwald
 1 Despark
+1 Vraska, Golgari Queen
+1 Keranos, God of Storms
 1 Nomad Outpost
 1 Opulent Palace
 1 Arlinn Kord
@@ -446,11 +446,11 @@
 1 Caves of Koilos
 1 Trial of Ambition
 1 Gifted Aetherborn
-1 Karn, Scion of Urza
-1 Brought Back
 1 Liliana, Dreadhorde General
+1 Brought Back
 1 Doom Foretold
 1 Knight of the Ebon Legion
+1 Karn, Scion of Urza
 1 History of Benalia
 2 Gifted Aetherborn
 2 Doom Foretold
@@ -463,9 +463,9 @@
 3 Knight of the Ebon Legion
 3 Doom Foretold
 3 History of Benalia
-4 Isolated Chapel
 4 Gifted Aetherborn
 4 History of Benalia
+4 Isolated Chapel
 4 Plains
 4 Knight of the Ebon Legion
 4 Doom Foretold

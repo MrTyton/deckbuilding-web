@@ -32,8 +32,8 @@
 2 Overgrown Tomb
 2 Commune with the Gods
 3 Lotleth Troll
-3 Overgrown Tomb
 3 Commune with the Gods
+3 Overgrown Tomb
 4 Lotleth Troll
 4 Commune with the Gods
 4 Overgrown Tomb
@@ -42,10 +42,10 @@
 3 Samut, Voice of Dissent
 3 Teferi, Time Raveler
 1 Saheeli Rai
-1 Deathrite Shaman
-1 Bomat Courier
-1 Blood Crypt
 1 Glorybringer
+1 Deathrite Shaman
+1 Blood Crypt
+1 Bomat Courier
 2 Deathrite Shaman
 2 Blood Crypt
 2 Forest
@@ -85,7 +85,6 @@
 3 Watery Grave
 4 Nightveil Predator
 4 Swamp
-1 Battlefield Forge
 1 Chandra, Flamecaller
 1 Kenrith, the Returned King
 1 Gideon of the Trials
@@ -93,21 +92,22 @@
 1 Fae of Wishes
 1 Sarkhan the Masterless
 1 Castle Vantress
+1 Battlefield Forge
 1 Shivan Reef
 1 Fires of Invention
+1 Steam Vents
 1 Hallowed Fountain
 1 Chandra, Torch of Defiance
 1 Anger of the Gods
 1 Interplanar Beacon
-1 Steam Vents
-1 Sacred Foundry
 1 Shimmer of Possibility
-2 Battlefield Forge
+1 Sacred Foundry
 2 Kenrith, the Returned King
 2 Sarkhan the Masterless
 2 Fae of Wishes
 2 Fires of Invention
 2 Sacred Foundry
+2 Battlefield Forge
 2 Shivan Reef
 2 Shimmer of Possibility
 2 Narset, Parter of Veils
@@ -121,16 +121,16 @@
 2 Anger of the Gods
 3 Narset, Parter of Veils
 3 Fae of Wishes
-3 Battlefield Forge
+3 Anger of the Gods
 3 Interplanar Beacon
 3 Steam Vents
 3 Sacred Foundry
 3 Supreme Verdict
 3 Shimmer of Possibility
+3 Battlefield Forge
 3 Shivan Reef
 3 Fires of Invention
 3 Hallowed Fountain
-3 Anger of the Gods
 4 Fae of Wishes
 4 Teferi, Time Raveler
 4 Steam Vents

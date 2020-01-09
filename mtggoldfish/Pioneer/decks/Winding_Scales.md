@@ -60,6 +60,6 @@
 |                    4|[Metallic Mimic](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423831)        |                     |                                                                                                 |
 |                    1|[Aethersphere Harvester](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423809)|                     |                                                                                                 |
 |                    1|[Nissa, Vital Force](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417736)    |                     |                                                                                                 |
-|                    2|[Nissa, Vital Force](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417736)    |                     |                                                                                                 |
 |                    2|[Aethersphere Harvester](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423809)|                     |                                                                                                 |
+|                    2|[Nissa, Vital Force](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417736)    |                     |                                                                                                 |
 

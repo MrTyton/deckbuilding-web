@@ -40,7 +40,7 @@
 |                     |                                                                                             |                    2|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)      |
 |                     |                                                                                             |                    1|[Nissa, Vital Force](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417736)  |
 |                     |                                                                                             |                    1|[The Immortal Sun](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439844)    |
-|                     |                                                                                             |                    1|[Ishkanah, Grafwidow](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414463) |
 |                     |                                                                                             |                    1|[Lost Legacy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417661)         |
 |                     |                                                                                             |                    2|[Lost Legacy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417661)         |
+|                     |                                                                                             |                    1|[Ishkanah, Grafwidow](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414463) |
 

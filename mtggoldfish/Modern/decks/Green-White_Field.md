@@ -40,12 +40,12 @@
 
 |*n*<sup>th</sup> copy|                                       Maindeck Card                                       |*n*<sup>th</sup> copy|                                         Sideboard Card                                         |
 |--------------------:|-------------------------------------------------------------------------------------------|--------------------:|------------------------------------------------------------------------------------------------|
-|                    3|[Eladamri's Call](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442192) |                    1|[Bojuka Bog](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376269)           |
-|                    4|[Eladamri's Call](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442192) |                    1|[Timely Reinforcements](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220074)|
-|                    1|[Ghost Quarter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389534)   |                    1|[Collector Ouphe](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464107)      |
-|                    1|[Radiant Fountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438810)|                    2|[Timely Reinforcements](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220074)|
-|                    1|[Explore](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=451098)         |                     |                                                                                                |
-|                    2|[Explore](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=451098)         |                     |                                                                                                |
+|                    1|[Ghost Quarter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389534)   |                    1|[Bojuka Bog](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376269)           |
+|                    1|[Radiant Fountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438810)|                    1|[Timely Reinforcements](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220074)|
+|                    1|[Explore](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=451098)         |                    1|[Collector Ouphe](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464107)      |
+|                    2|[Explore](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=451098)         |                    2|[Timely Reinforcements](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220074)|
 |                    3|[Explore](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=451098)         |                     |                                                                                                |
 |                    4|[Explore](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=451098)         |                     |                                                                                                |
+|                    3|[Eladamri's Call](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442192) |                     |                                                                                                |
+|                    4|[Eladamri's Call](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442192) |                     |                                                                                                |
 
