@@ -1,10 +1,3 @@
-2 Counterbalance
-3 Oko, Thief of Crowns
-2 Polluted Delta
-3 Polluted Delta
-1 Underground Sea
-1 Snow-Covered Swamp
-4 Polluted Delta
 1 Drown in the Loch
 1 Bayou
 1 Inquisition of Kozilek
@@ -18,31 +11,38 @@
 1 Baleful Strix
 2 Baleful Strix
 3 Baleful Strix
+1 Prismatic Vista
+1 Counterbalance
+2 Counterbalance
+1 Snow-Covered Forest
+3 Snapcaster Mage
+2 Tundra
+2 Underground Sea
 3 Teferi, Time Raveler
-1 Veil of Summer
-1 Ice-Fang Coatl
-2 Ice-Fang Coatl
 1 Spell Pierce
 3 Jace, the Mind Sculptor
 2 Council's Judgment
+2 Force of Negation
+1 Ice-Fang Coatl
+2 Ice-Fang Coatl
+4 Misty Rainforest
 1 Dovin's Veto
 2 Prismatic Vista
-2 Tundra
 2 Spell Pierce
-1 Accumulated Knowledge
-2 Accumulated Knowledge
-3 Accumulated Knowledge
-4 Accumulated Knowledge
-2 Underground Sea
 2 Inquisition of Kozilek
 3 Inquisition of Kozilek
+1 Veil of Summer
 3 Ice-Fang Coatl
-2 Scalding Tarn
 1 Supreme Verdict
+2 Scalding Tarn
 1 Portent
 1 Predict
 2 Predict
 4 Baleful Strix
+1 Accumulated Knowledge
+2 Accumulated Knowledge
+3 Accumulated Knowledge
+4 Accumulated Knowledge
 1 Pyroblast
 1 Monastery Mentor
 2 Monastery Mentor
@@ -58,9 +58,9 @@
 1 Counterspell
 1 Back to Basics
 1 Narset, Parter of Veils
-4 Terminus
 2 Volcanic Island
 3 Scalding Tarn
+1 Thoughtseize
 3 Spell Pierce
 1 Search for Azcanta
 5 Island
@@ -72,7 +72,7 @@
 1 Vindicate
 2 Liliana, the Last Hope
 2 Snow-Covered Swamp
-1 Thoughtseize
+1 Leovold, Emissary of Trest
 1 Verdant Catacombs
 2 Thoughtseize
 1 Bloodstained Mire
@@ -94,6 +94,7 @@
 3 Monastery Mentor
 1 Karakas
 3 Portent
+4 Terminus
 1 Snow-Covered Mountain
 1 Preordain
 1 Spell Snare
