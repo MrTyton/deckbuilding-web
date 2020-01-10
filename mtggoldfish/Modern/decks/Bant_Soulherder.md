@@ -33,8 +33,8 @@
 
 |*n*<sup>th</sup> copy|                                       Maindeck Card                                       |*n*<sup>th</sup> copy|                                        Sideboard Card                                         |
 |--------------------:|-------------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------------|
-|                    1|[Thragtusk](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430614)       |                    1|[Teferi, Time Raveler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461148)|
-|                    1|[Canopy Vista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401837)    |                    2|[Ashiok, Dream Render](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461155)|
+|                    1|[Canopy Vista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401837)    |                    1|[Teferi, Time Raveler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461148)|
+|                    1|[Thragtusk](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430614)       |                    2|[Ashiok, Dream Render](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461155)|
 |                    1|[Knight of Autumn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452933)|                    3|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)       |
 |                    3|[Soulherder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464163)      |                     |                                                                                               |
 

@@ -1,21 +1,19 @@
-1 Legion Warboss
-2 Legion Warboss
+1 Goblin Chainwhirler
+2 Goblin Chainwhirler
 3 Goblin Chainwhirler
 4 Goblin Chainwhirler
-2 Embercleave
 1 Light Up the Stage
 2 Light Up the Stage
-17 Mountain
 1 Monastery Swiftspear
 2 Monastery Swiftspear
 3 Monastery Swiftspear
 4 Monastery Swiftspear
-3 Light Up the Stage
 1 Wizard's Lightning
 1 Ghitu Lavarunner
 2 Wizard's Lightning
 2 Ghitu Lavarunner
 3 Ghitu Lavarunner
+3 Light Up the Stage
 3 Wizard's Lightning
 4 Ghitu Lavarunner
 4 Wizard's Lightning
@@ -26,21 +24,10 @@
 4 Bomat Courier
 1 Eidolon of the Great Revel
 2 Eidolon of the Great Revel
-1 Sacred Foundry
-1 Battlefield Forge
-1 Inspiring Vantage
-1 Boros Charm
-2 Sacred Foundry
-2 Battlefield Forge
-2 Boros Charm
-2 Inspiring Vantage
-3 Boros Charm
-3 Sacred Foundry
-3 Battlefield Forge
-3 Inspiring Vantage
-4 Inspiring Vantage
-4 Sacred Foundry
-4 Battlefield Forge
+2 Embercleave
+17 Mountain
+3 Eidolon of the Great Revel
+4 Eidolon of the Great Revel
 1 Rekindling Phoenix
 2 Rekindling Phoenix
 3 Rekindling Phoenix
@@ -48,6 +35,7 @@
 1 Chandra, Acolyte of Flame
 2 Chandra, Acolyte of Flame
 3 Kari Zev, Skyship Raider
+1 Hazoret the Fervent
 1 Foundry Street Denizen
 2 Foundry Street Denizen
 3 Foundry Street Denizen
@@ -60,21 +48,11 @@
 1 Fanatical Firebrand
 2 Fanatical Firebrand
 3 Fanatical Firebrand
-1 Viashino Pyromancer
-2 Viashino Pyromancer
-3 Viashino Pyromancer
-4 Viashino Pyromancer
-3 Eidolon of the Great Revel
-4 Boros Charm
-1 Shock
-2 Shock
-3 Shock
-4 Shock
 1 Skirk Prospector
 1 Goblin Ringleader
 1 Siege-Gang Commander
-1 Goblin Trashmaster
 1 Krenko, Tin Street Kingpin
+1 Goblin Trashmaster
 2 Skirk Prospector
 2 Goblin Ringleader
 2 Siege-Gang Commander
@@ -88,6 +66,10 @@
 2 Dragon Fodder
 3 Goblin Instigator
 4 Goblin Instigator
+1 Viashino Pyromancer
+2 Viashino Pyromancer
+3 Viashino Pyromancer
+4 Viashino Pyromancer
 3 Goblin Warchief
 3 Legion Warboss
 4 Goblin Warchief
@@ -96,12 +78,22 @@
 2 Legion Loyalist
 3 Legion Loyalist
 4 Legion Loyalist
+1 Sacred Foundry
+1 Battlefield Forge
+1 Boros Charm
+1 Inspiring Vantage
+2 Sacred Foundry
+2 Battlefield Forge
+2 Boros Charm
+2 Inspiring Vantage
+3 Boros Charm
+3 Sacred Foundry
+3 Battlefield Forge
+3 Inspiring Vantage
+4 Inspiring Vantage
+4 Sacred Foundry
+4 Battlefield Forge
 1 Scavenger Grounds
-1 Skewer the Critics
-2 Skewer the Critics
-1 Experimental Frenzy
-1 Hazoret the Fervent
-2 Experimental Frenzy
 1 Hanweir Garrison
 2 Hanweir Garrison
 1 Skarrgan Hellkite
@@ -113,16 +105,17 @@
 1 Rampaging Ferocidon
 2 Rampaging Ferocidon
 3 Rampaging Ferocidon
+1 Shock
+1 Experimental Frenzy
+2 Experimental Frenzy
+2 Shock
+3 Shock
+4 Shock
+1 Skewer the Critics
+2 Skewer the Critics
+4 Boros Charm
 3 Castle Embereth
 4 Castle Embereth
-4 Eidolon of the Great Revel
-1 Lightning Berserker
-1 Searing Blood
-1 Mana Confluence
-2 Lightning Berserker
-2 Searing Blood
-3 Searing Blood
-4 Searing Blood
 1 Hordeling Outburst
 1 Goblin Piledriver
 2 Hordeling Outburst
@@ -154,13 +147,13 @@
 4 Rakdos Cackler
 1 Rile
 1 Clifftop Retreat
+1 Gods Willing
 1 Plains
 1 Dreadhorde Arcanist
-1 Gods Willing
 1 Defiant Strike
 1 Favored Hoplite
-1 Reckless Rage
 1 Titan's Strength
+1 Reckless Rage
 1 Feather, the Redeemed
 1 Gird for Battle
 1 Tenth District Legionnaire

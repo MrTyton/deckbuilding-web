@@ -1,7 +1,7 @@
 # Mono-Red Devotion
 
 #### [Export MTGO List](../collection/Mono-Red%20Devotion/Mono-Red%20Devotion.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Boros%20Reckoner%0A2%09Castle%20Embereth%0A3%09Chandra,%20Torch%20of%20Defiance%0A4%09Eidolon%20of%20the%20Great%20Revel%0A4%09Fanatic%20of%20Mogis%0A4%09Glorybringer%0A4%09Goblin%20Chainwhirler%0A4%09Mizzium%20Mortars%0A14%09Mountain%0A4%09Nykthos,%20Shrine%20to%20Nyx%0A2%09Purphoros,%20God%20of%20the%20Forge%0A4%09Ramunap%20Ruins%0A3%09Torbran,%20Thane%20of%20Red%20Fell%0A4%09Wily%20Goblin&deckside=3%09Abrade%0A3%09Anger%20of%20the%20Gods%0A2%09Cavalier%20of%20Flame%0A2%09Chandra,%20Awakened%20Inferno%0A3%09Damping%20Sphere%0A2%09Fry)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Boros%20Reckoner%0A2%09Castle%20Embereth%0A3%09Chandra,%20Torch%20of%20Defiance%0A4%09Eidolon%20of%20the%20Great%20Revel%0A4%09Fanatic%20of%20Mogis%0A4%09Glorybringer%0A4%09Goblin%20Chainwhirler%0A4%09Mizzium%20Mortars%0A14%09Mountain%0A4%09Nykthos,%20Shrine%20to%20Nyx%0A2%09Purphoros,%20God%20of%20the%20Forge%0A4%09Ramunap%20Ruins%0A3%09Torbran,%20Thane%20of%20Red%20Fell%0A4%09Wily%20Goblin&deckside=3%09Abrade%0A3%09Burning%20Earth%0A2%09Chandra,%20Awakened%20Inferno%0A4%09Legion%20Warboss%0A3%09Star%20of%20Extinction)
 # Maindeck
 
 |                                             Creature (29)                                              |                                             Land (24)                                             |                                           Planeswalker (3)                                            |                                        Sorcery (4)                                         |
@@ -18,24 +18,23 @@
 
 # Sideboard
 
-|                                       Artifact (3)                                        |                                         Creature (2)                                         |                                    Instant (5)                                    |                                           Planeswalker (2)                                           |                                         Sorcery (3)                                          |
-|-------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
-|3 [Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)|2 [Cavalier of Flame](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466879)|3 [Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)|2 [Chandra, Awakened Inferno](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466881)|3 [Anger of the Gods](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438682)|
-|                                                                                           |                                                                                              |2 [Fry](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466894)   |                                                                                                      |                                                                                              |
+|                                       Creature (4)                                        |                                     Enchantment (3)                                      |                                    Instant (3)                                    |                                           Planeswalker (2)                                           |                                          Sorcery (3)                                          |
+|-------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
+|4 [Legion Warboss](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452859)|3 [Burning Earth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370696)|3 [Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)|2 [Chandra, Awakened Inferno](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466881)|3 [Star of Extinction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435315)|
 
 
 # Other Options
 
-|*n*<sup>th</sup> copy|Maindeck Card|*n*<sup>th</sup> copy|                                       Sideboard Card                                        |
-|---------------------|-------------|--------------------:|---------------------------------------------------------------------------------------------|
-|                     |             |                    1|[Legion Warboss](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452859)    |
-|                     |             |                    1|[Star of Extinction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435315)|
-|                     |             |                    1|[Burning Earth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370696)     |
-|                     |             |                    2|[Legion Warboss](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452859)    |
-|                     |             |                    2|[Star of Extinction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435315)|
-|                     |             |                    2|[Burning Earth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370696)     |
-|                     |             |                    3|[Legion Warboss](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452859)    |
-|                     |             |                    3|[Star of Extinction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435315)|
-|                     |             |                    4|[Legion Warboss](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452859)    |
-|                     |             |                    3|[Burning Earth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370696)     |
+|*n*<sup>th</sup> copy|Maindeck Card|*n*<sup>th</sup> copy|                                       Sideboard Card                                       |
+|---------------------|-------------|--------------------:|--------------------------------------------------------------------------------------------|
+|                     |             |                    1|[Fry](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466894)              |
+|                     |             |                    1|[Anger of the Gods](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438682)|
+|                     |             |                    1|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)   |
+|                     |             |                    1|[Cavalier of Flame](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466879)|
+|                     |             |                    2|[Fry](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466894)              |
+|                     |             |                    2|[Anger of the Gods](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438682)|
+|                     |             |                    2|[Cavalier of Flame](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466879)|
+|                     |             |                    2|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)   |
+|                     |             |                    3|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)   |
+|                     |             |                    3|[Anger of the Gods](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438682)|
 

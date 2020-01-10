@@ -1,3 +1,4 @@
+1 Grisly Salvage
 1 Soulflayer
 1 Zetalpa, Primal Dawn
 1 Traverse the Ulvenwald
@@ -26,21 +27,21 @@
 1 Commune with the Gods
 1 Chromanticore
 1 Nightveil Predator
+2 Commune with the Gods
 2 Lotleth Troll
 2 Traverse the Ulvenwald
 2 Nightveil Predator
 2 Overgrown Tomb
-2 Commune with the Gods
 3 Lotleth Troll
-3 Commune with the Gods
 3 Overgrown Tomb
+3 Commune with the Gods
 4 Lotleth Troll
 4 Commune with the Gods
 4 Overgrown Tomb
 1 Thoughtseize
 2 Thoughtseize
 3 Samut, Voice of Dissent
-3 Teferi, Time Raveler
+3 Botanical Sanctum
 1 Saheeli Rai
 1 Glorybringer
 1 Deathrite Shaman
@@ -54,8 +55,8 @@
 3 Blood Crypt
 4 Deathrite Shaman
 4 Traverse the Ulvenwald
-1 Duress
 1 Tomebound Lich
+1 Duress
 1 Jace, Vryn's Prodigy
 1 Fatal Push
 1 Striped Riverwinder
@@ -64,7 +65,6 @@
 2 Fatal Push
 2 Tomebound Lich
 3 Jace, Vryn's Prodigy
-3 Botanical Sanctum
 3 Striped Riverwinder
 3 Thoughtseize
 3 Tomebound Lich
@@ -75,21 +75,33 @@
 4 Thoughtseize
 4 Tomebound Lich
 1 Questing Beast
-1 Murderous Rider
 1 Watery Grave
+1 Murderous Rider
 2 Murderous Rider
 2 Watery Grave
-3 Nightveil Predator
 3 Murderous Rider
+3 Nightveil Predator
 3 Swamp
 3 Watery Grave
 4 Nightveil Predator
 4 Swamp
+1 Detention Sphere
+1 Whirler Virtuoso
+1 Drown in the Loch
+1 Knight of Autumn
+1 Servant of the Conduit
+1 Tyrant's Scorn
+2 Sylvan Caryatid
+2 Servant of the Conduit
+3 Servant of the Conduit
+3 Sylvan Caryatid
+4 Servant of the Conduit
+4 Sylvan Caryatid
+4 Attune with Aether
 1 Chandra, Flamecaller
 1 Kenrith, the Returned King
-1 Gideon of the Trials
-1 Narset, Parter of Veils
 1 Fae of Wishes
+1 Narset, Parter of Veils
 1 Sarkhan the Masterless
 1 Castle Vantress
 1 Battlefield Forge
@@ -99,6 +111,7 @@
 1 Hallowed Fountain
 1 Chandra, Torch of Defiance
 1 Anger of the Gods
+1 Gideon of the Trials
 1 Interplanar Beacon
 1 Shimmer of Possibility
 1 Sacred Foundry
@@ -122,9 +135,9 @@
 3 Narset, Parter of Veils
 3 Fae of Wishes
 3 Anger of the Gods
-3 Interplanar Beacon
 3 Steam Vents
 3 Sacred Foundry
+3 Interplanar Beacon
 3 Supreme Verdict
 3 Shimmer of Possibility
 3 Battlefield Forge

@@ -33,8 +33,8 @@
 
 |*n*<sup>th</sup> copy|                                       Maindeck Card                                        |*n*<sup>th</sup> copy|                                      Sideboard Card                                      |
 |--------------------:|--------------------------------------------------------------------------------------------|--------------------:|------------------------------------------------------------------------------------------|
-|                    1|[Bloodstained Mire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405094)|                    2|[Shenanigans](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464095)    |
-|                    1|[Pyrite Spellbomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442796) |                    1|[Grim Lavamancer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430589)|
+|                    1|[Bloodstained Mire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405094)|                    1|[Grim Lavamancer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430589)|
+|                    1|[Pyrite Spellbomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442796) |                    2|[Shenanigans](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464095)    |
 |                    2|[Bloodstained Mire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405094)|                     |                                                                                          |
 |                    2|[Pyrite Spellbomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442796) |                     |                                                                                          |
 

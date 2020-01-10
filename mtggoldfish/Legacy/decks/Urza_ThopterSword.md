@@ -33,8 +33,8 @@
 
 |*n*<sup>th</sup> copy|                                         Maindeck Card                                         |*n*<sup>th</sup> copy|                                        Sideboard Card                                         |
 |--------------------:|-----------------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------------|
-|                    3|[Lotus Petal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420602)         |                    1|[Thopter Foundry](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=183017)     |
-|                    4|[Polluted Delta](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405104)      |                    1|[Flusterstorm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=228255)        |
+|                    4|[Polluted Delta](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405104)      |                    1|[Thopter Foundry](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=183017)     |
+|                    3|[Lotus Petal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420602)         |                    1|[Flusterstorm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=228255)        |
 |                    1|[Snow-Covered Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121130) |                    1|[Dovin's Veto](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461120)        |
 |                    1|[Sword of the Meek](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=126215)   |                    1|[Blue Elemental Blast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=694)   |
 |                    2|[Snow-Covered Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121130) |                    1|[Relic of Progenitus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174824) |

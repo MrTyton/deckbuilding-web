@@ -1,7 +1,7 @@
 # Mono-Black Control
 
 #### [Export MTGO List](../collection/Mono-Black%20Control/Mono-Black%20Control.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=2%09Cast%20Down%0A4%09Castle%20Locthwain%0A2%09Fatal%20Push%0A4%09Gifted%20Aetherborn%0A2%09Gonti,%20Lord%20of%20Luxury%0A2%09Grasp%20of%20Darkness%0A2%09Kalitas,%20Traitor%20of%20Ghet%0A4%09Lifebane%20Zombie%0A2%09Liliana%20of%20the%20Dark%20Realms%0A2%09Liliana's%20Triumph%0A2%09Liliana,%20Death's%20Majesty%0A2%09Liliana,%20the%20Last%20Hope%0A4%09Murderous%20Rider%0A4%09Mutavault%0A13%09Swamp%0A4%09Thoughtseize%0A3%09Urborg,%20Tomb%20of%20Yawgmoth%0A2%09Vraska's%20Contempt&deckside=1%09Cry%20of%20the%20Carnarium%0A4%09Duress%0A2%09Legion's%20End%0A4%09Leyline%20of%20the%20Void%0A2%09Noxious%20Grasp%0A1%09The%20Eldest%20Reborn%0A1%09Thought%20Distortion)
+#### [Print on decklist.org](http://decklist.org/?deckmain=2%09Cast%20Down%0A4%09Castle%20Locthwain%0A2%09Fatal%20Push%0A4%09Gifted%20Aetherborn%0A2%09Gonti,%20Lord%20of%20Luxury%0A2%09Grasp%20of%20Darkness%0A2%09Kalitas,%20Traitor%20of%20Ghet%0A4%09Lifebane%20Zombie%0A2%09Liliana%20of%20the%20Dark%20Realms%0A2%09Liliana's%20Triumph%0A2%09Liliana,%20Death's%20Majesty%0A2%09Liliana,%20the%20Last%20Hope%0A4%09Murderous%20Rider%0A4%09Mutavault%0A13%09Swamp%0A4%09Thoughtseize%0A3%09Urborg,%20Tomb%20of%20Yawgmoth%0A2%09Vraska's%20Contempt&deckside=2%09Cry%20of%20the%20Carnarium%0A3%09Duress%0A2%09Legion's%20End%0A4%09Leyline%20of%20the%20Void%0A2%09Noxious%20Grasp%0A1%09The%20Eldest%20Reborn%0A1%09Thought%20Distortion)
 # Maindeck
 
 |                                            Creature (16)                                            |                                         Instant (10)                                         |                                              Land (24)                                              |                                           Planeswalker (6)                                            |                                       Sorcery (4)                                       |
@@ -17,18 +17,18 @@
 
 |                                        Enchantment (5)                                         |                                       Instant (2)                                        |                                           Sorcery (8)                                           |
 |------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
-|4 [Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)|2 [Noxious Grasp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466864)|1 [Cry of the Carnarium](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457214)|
-|1 [The Eldest Reborn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442978)  |                                                                                          |4 [Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)               |
+|4 [Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)|2 [Noxious Grasp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466864)|2 [Cry of the Carnarium](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457214)|
+|1 [The Eldest Reborn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442978)  |                                                                                          |3 [Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)               |
 |                                                                                                |                                                                                          |2 [Legion's End](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466860)        |
 |                                                                                                |                                                                                          |1 [Thought Distortion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466871)  |
 
 
 # Other Options
 
-|*n*<sup>th</sup> copy|                                       Maindeck Card                                        |*n*<sup>th</sup> copy|                                        Sideboard Card                                         |
-|--------------------:|--------------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------------|
-|                    3|[Grasp of Darkness](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407595)|                    2|[Cry of the Carnarium](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457214)|
-|                    4|[Fatal Push](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423724)       |                     |                                                                                               |
-|                    4|[Grasp of Darkness](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407595)|                     |                                                                                               |
-|                    3|[Fatal Push](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423724)       |                     |                                                                                               |
+|*n*<sup>th</sup> copy|                                       Maindeck Card                                        |*n*<sup>th</sup> copy|                                 Sideboard Card                                 |
+|--------------------:|--------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------|
+|                    3|[Grasp of Darkness](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407595)|                    4|[Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)|
+|                    4|[Fatal Push](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423724)       |                     |                                                                                |
+|                    4|[Grasp of Darkness](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407595)|                     |                                                                                |
+|                    3|[Fatal Push](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423724)       |                     |                                                                                |
 

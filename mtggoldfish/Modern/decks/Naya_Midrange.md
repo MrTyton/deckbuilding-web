@@ -36,8 +36,8 @@
 
 |*n*<sup>th</sup> copy|                                           Maindeck Card                                            |*n*<sup>th</sup> copy|                                       Sideboard Card                                       |
 |--------------------:|----------------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------|
-|                    1|[Sword of Feast and Famine](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=214070)|                    2|[Weather the Storm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464140)|
-|                    1|[Scavenging Ooze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420783)          |                    1|[Knight of Autumn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452933) |
+|                    1|[Scavenging Ooze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420783)          |                    2|[Weather the Storm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464140)|
+|                    1|[Sword of Feast and Famine](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=214070)|                    1|[Knight of Autumn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452933) |
 |                    1|[Elspeth, Knight-Errant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174859)   |                    1|[Choke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45431)             |
 |                    1|[Sejiri Steppe](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=243453)            |                    1|[Blood Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45386)        |
 |                    2|[Questing Beast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473133)           |                    1|[Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)   |
