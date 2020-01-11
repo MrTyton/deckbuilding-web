@@ -1,34 +1,47 @@
-1 Swamp
-3 Thoughtseize
-1 Scavenging Ooze
-4 Llanowar Wastes
-1 Tireless Tracker
-4 Thoughtseize
-2 Swamp
-3 Swamp
-1 Fatal Push
-1 Assassin's Trophy
-1 Murderous Rider
-1 Fabled Passage
-2 Fabled Passage
-2 Fatal Push
-2 Assassin's Trophy
-1 Liliana, the Last Hope
-1 Abrupt Decay
-1 Kalitas, Traitor of Ghet
-2 Scavenging Ooze
-1 Woodland Cemetery
+2 Collected Company
+3 Collected Company
+4 Collected Company
+1 Nykthos, Shrine to Nyx
+1 Shaman of the Pack
+1 Dwynen's Elite
+1 Elvish Clancaller
+1 Elvish Visionary
+2 Elvish Clancaller
+2 Shaman of the Pack
+2 Dwynen's Elite
+2 Nykthos, Shrine to Nyx
+2 Elvish Visionary
+3 Elvish Clancaller
+3 Shaman of the Pack
+3 Elvish Visionary
+3 Dwynen's Elite
+4 Elvish Clancaller
+4 Elvish Visionary
+4 Shaman of the Pack
+4 Dwynen's Elite
+1 Mutavault
+2 Mutavault
+4 Courser of Kruphix
 1 Vraska, Golgari Queen
+4 Swamp
 2 Tireless Tracker
 3 Fatal Push
-4 Swamp
 2 Abrupt Decay
 1 Traverse the Ulvenwald
 2 Traverse the Ulvenwald
 3 Traverse the Ulvenwald
 1 Walking Ballista
-2 Woodland Cemetery
 1 Castle Locthwain
+1 Hashep Oasis
+3 Lovestruck Beast
+1 Questing Beast
+1 The Great Henge
+2 The Great Henge
+1 Heart of Kiran
+2 Heart of Kiran
+1 Ghalta, Primal Hunger
+2 Ghalta, Primal Hunger
+2 Liliana, the Last Hope
 1 Chord of Calling
 1 Temur Sabertooth
 2 Chord of Calling
@@ -36,24 +49,15 @@
 3 Nykthos, Shrine to Nyx
 4 Chord of Calling
 4 Nykthos, Shrine to Nyx
-1 Lovestruck Beast
-2 Lovestruck Beast
-2 Liliana, the Last Hope
-1 Questing Beast
+3 Woodland Cemetery
 1 Emrakul, the Promised End
 4 Traverse the Ulvenwald
-3 Woodland Cemetery
-1 Rhonas the Indomitable
-1 The Great Henge
-2 The Great Henge
-1 Heart of Kiran
-2 Heart of Kiran
-1 Hashep Oasis
-3 Lovestruck Beast
+4 Lovestruck Beast
+2 Rhonas the Indomitable
+2 Hashep Oasis
+3 Ghalta, Primal Hunger
 1 Rotting Regisaur
-1 Ghalta, Primal Hunger
 2 Rotting Regisaur
-2 Ghalta, Primal Hunger
 3 Rotting Regisaur
 4 Rotting Regisaur
 2 Murderous Rider
@@ -67,25 +71,34 @@
 1 Blast Zone
 1 Castle Garenbrig
 1 Ishkanah, Grafwidow
-4 Lovestruck Beast
-2 Rhonas the Indomitable
-2 Hashep Oasis
-3 Ghalta, Primal Hunger
 1 Field of Ruin
 1 Collective Brutality
-1 Vraska's Contempt
-3 The Great Henge
-2 Castle Locthwain
-3 Mutavault
-3 Tireless Tracker
 8 Forest
-4 Fatal Push
 1 Yorvo, Lord of Garenbrig
 2 Yorvo, Lord of Garenbrig
 3 Scavenging Ooze
-3 Rhonas the Indomitable
 4 Scavenging Ooze
+3 The Great Henge
+1 Surrak, the Hunt Caller
+2 Surrak, the Hunt Caller
+3 Surrak, the Hunt Caller
+1 Vraska's Contempt
+2 Castle Locthwain
+3 Mutavault
+3 Hashep Oasis
+3 Tireless Tracker
+4 Fatal Push
+3 Rhonas the Indomitable
+1 Syr Faren, the Hengehammer
+1 Aspect of Hydra
+2 Syr Faren, the Hengehammer
+2 Aspect of Hydra
+4 Ghalta, Primal Hunger
 9 Forest
+1 Scrapheap Scrounger
+2 Scrapheap Scrounger
+3 Scrapheap Scrounger
+4 Scrapheap Scrounger
 1 Kiora, Behemoth Beckoner
 2 Kiora, Behemoth Beckoner
 2 Questing Beast
@@ -94,14 +107,6 @@
 2 Unclaimed Territory
 3 Unclaimed Territory
 4 Unclaimed Territory
-1 Scrapheap Scrounger
-2 Scrapheap Scrounger
-3 Scrapheap Scrounger
-4 Scrapheap Scrounger
-1 Surrak, the Hunt Caller
-2 Surrak, the Hunt Caller
-3 Surrak, the Hunt Caller
-3 Hashep Oasis
 4 Hashep Oasis
 1 Driven/Despair
 2 Driven/Despair
@@ -136,11 +141,7 @@
 1 Gilded Goose
 2 Gilded Goose
 3 Questing Beast
-1 Syr Faren, the Hengehammer
-1 Aspect of Hydra
 1 Mana Confluence
-2 Syr Faren, the Hengehammer
-2 Aspect of Hydra
 2 Mana Confluence
 3 Mana Confluence
 3 Syr Faren, the Hengehammer
@@ -193,6 +194,10 @@
 2 Satyr Wayfinder
 3 Satyr Wayfinder
 4 Satyr Wayfinder
+1 Vine Mare
+3 Aspect of Hydra
+4 Aspect of Hydra
+4 Surrak, the Hunt Caller
 1 Plaguecrafter
 1 Grisly Salvage
 1 Vraska the Unseen
@@ -245,6 +250,7 @@
 4 Ugin, the Spirit Dragon
 4 Arboreal Grazer
 4 Nissa's Pilgrimage
+4 The Great Henge
 1 Burning-Tree Emissary
 1 Duskwatch Recruiter
 1 Zulaport Cutthroat
@@ -252,21 +258,19 @@
 2 Burning-Tree Emissary
 2 Nantuko Husk
 2 Zulaport Cutthroat
-3 Driven/Despair
 3 Zulaport Cutthroat
+3 Driven/Despair
 3 Nantuko Husk
 3 Burning-Tree Emissary
 4 Driven/Despair
 4 Zulaport Cutthroat
 4 Burning-Tree Emissary
 4 Nantuko Husk
-4 The Great Henge
-4 Ghalta, Primal Hunger
 1 Status/Statue
-1 Sorin, Imperious Bloodlord
 1 Vraska, Swarm's Eminence
 1 Dusk Legion Zealot
 1 Champion of Dusk
+1 Sorin, Imperious Bloodlord
 1 Knight of the Ebon Legion
 2 Status/Statue
 2 Dusk Legion Zealot
@@ -306,9 +310,9 @@
 3 Slitherhead
 3 Hangarback Walker
 4 Hardened Scales
+4 Hangarback Walker
 4 Lotleth Troll
 4 Winding Constrictor
-4 Hangarback Walker
 4 Stonecoil Serpent
 4 Slitherhead
 1 Evolving Wilds

@@ -57,13 +57,6 @@
 1 Unravel the Aether
 2 Collective Brutality
 2 Unravel the Aether
-1 Dispel
-1 Perilous Vault
-1 Moment of Craving
-1 Summary Dismissal
-1 Thought Distortion
-2 Summary Dismissal
-2 Cry of the Carnarium
 1 Chandra, Awakened Inferno
 1 Rekindling Phoenix
 1 Ritual of Soot
@@ -72,12 +65,19 @@
 2 Chandra, Awakened Inferno
 2 Rekindling Phoenix
 2 Hour of Devastation
+1 Dispel
+1 Perilous Vault
+1 Moment of Craving
+1 Summary Dismissal
+1 Thought Distortion
+2 Summary Dismissal
+2 Cry of the Carnarium
 3 Leyline of the Void
 4 Leyline of the Void
 1 Thought Erasure
 1 Rakdos's Return
-1 Infernal Reckoning
 1 Surrak Dragonclaw
+1 Infernal Reckoning
 2 Thought Erasure
 2 Rakdos's Return
 2 Questing Beast
@@ -115,8 +115,8 @@
 1 Declaration in Stone
 1 Anguished Unmaking
 1 Blessed Alliance
-1 Leyline of Sanctity
 1 Vraska's Contempt
+1 Leyline of Sanctity
 2 Blessed Alliance
 2 Declaration in Stone
 2 Lost Legacy

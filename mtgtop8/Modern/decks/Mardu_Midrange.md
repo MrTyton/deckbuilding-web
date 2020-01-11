@@ -51,8 +51,8 @@
 |                    2|[Young Pyromancer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426592)          |                    3|[Fulminator Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397686)      |
 |                    2|[Chandra, Torch of Defiance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417683)|                     |                                                                                                |
 |                    2|[Lightning Skelemental](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464157)     |                     |                                                                                                |
-|                    3|[Young Pyromancer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426592)          |                     |                                                                                                |
 |                    3|[Dreadhorde Arcanist](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461052)       |                     |                                                                                                |
 |                    3|[Unearth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442102)                   |                     |                                                                                                |
+|                    3|[Young Pyromancer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426592)          |                     |                                                                                                |
 |                    3|[Lightning Skelemental](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464157)     |                     |                                                                                                |
 

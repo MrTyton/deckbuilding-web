@@ -40,8 +40,8 @@
 |                    1|[Snow-Covered Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121267)    |                    1|[Rest for the Weary](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=189180)  |
 |                    1|[Snow-Covered Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121192)    |                    2|[Declaration in Stone](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409750)|
 |                    1|[Raging Ravine](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457142)          |                    2|[Stony Silence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=247425)       |
-|                    4|[Lightning Helix](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=249386)        |                     |                                                                                               |
 |                    4|[Wrenn and Six](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464166)          |                     |                                                                                               |
+|                    4|[Lightning Helix](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=249386)        |                     |                                                                                               |
 |                    4|[Path to Exile](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220511)          |                     |                                                                                               |
 |                    4|[Knight of the Reliquary](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=189145)|                     |                                                                                               |
 

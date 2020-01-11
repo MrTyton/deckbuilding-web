@@ -29,8 +29,8 @@
 
 |*n*<sup>th</sup> copy|                                         Maindeck Card                                          |*n*<sup>th</sup> copy|                                         Sideboard Card                                         |
 |--------------------:|------------------------------------------------------------------------------------------------|--------------------:|------------------------------------------------------------------------------------------------|
-|                    1|[Smuggler's Copter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417808)    |                    2|[Dragon's Claw](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129527)        |
-|                    2|[Smuggler's Copter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417808)    |                    2|[Kozilek's Return](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407608)     |
+|                    1|[Smuggler's Copter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417808)    |                    2|[Kozilek's Return](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407608)     |
+|                    2|[Smuggler's Copter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417808)    |                    2|[Dragon's Claw](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129527)        |
 |                    3|[Smuggler's Copter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417808)    |                    3|[Dragon's Claw](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129527)        |
 |                    1|[Snow-Covered Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121233)|                    1|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)  |
 |                    2|[Snow-Covered Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121233)|                    2|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)  |

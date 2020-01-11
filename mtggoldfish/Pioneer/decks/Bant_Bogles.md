@@ -30,7 +30,7 @@
 
 |*n*<sup>th</sup> copy|                                      Maindeck Card                                       |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
 |--------------------:|------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
-|                    3|[Stubborn Denial](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386673)|                    2|[Sentinel's Mark](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457164)    |
-|                    4|[Stubborn Denial](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386673)|                    4|[Leyline of Sanctity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=204993)|
+|                    3|[Stubborn Denial](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386673)|                    4|[Leyline of Sanctity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=204993)|
+|                    4|[Stubborn Denial](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386673)|                    2|[Sentinel's Mark](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457164)    |
 |                    4|[Oppressive Rays](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=380465)|                     |                                                                                              |
 
