@@ -1,3 +1,9 @@
+2 Winding Constrictor
+2 Walking Ballista
+3 Walking Ballista
+3 Winding Constrictor
+3 Hardened Scales
+4 Forest
 4 Hardened Scales
 4 Winding Constrictor
 4 Walking Ballista
@@ -5,47 +11,40 @@
 1 Stonecoil Serpent
 2 Stonecoil Serpent
 3 Stonecoil Serpent
-5 Forest
-1 Hangarback Walker
-2 Hangarback Walker
-3 Hangarback Walker
-1 Rishkar, Peema Renegade
 1 Vivien, Arkbow Ranger
+5 Forest
 6 Forest
 1 Voracious Hydra
 1 Elvish Mystic
 1 Llanowar Elves
-2 Voracious Hydra
 2 Elvish Mystic
+2 Voracious Hydra
 2 Vivien, Arkbow Ranger
 2 Llanowar Elves
 3 Llanowar Elves
 3 Voracious Hydra
 3 Elvish Mystic
 4 Voracious Hydra
-4 Nissa, Voice of Zendikar
-2 Rishkar, Peema Renegade
-4 Hangarback Walker
-4 Questing Beast
-1 Nullhide Ferox
-3 Woodland Cemetery
+1 Rishkar, Peema Renegade
+1 Hangarback Walker
+2 Hangarback Walker
+3 Hangarback Walker
 7 Forest
 3 Vivien, Arkbow Ranger
-1 Castle Locthwain
-1 Sylvan Caryatid
-2 Sylvan Caryatid
-3 Sylvan Caryatid
-4 Sylvan Caryatid
-4 Vivien, Arkbow Ranger
+4 Nissa, Voice of Zendikar
+2 Rishkar, Peema Renegade
 1 Gifted Aetherborn
+4 Hangarback Walker
+1 Samut, Voice of Dissent
+1 Castle Locthwain
+3 Woodland Cemetery
+1 Rhonas the Indomitable
 1 Collective Brutality
 2 Collective Brutality
-1 Samut, Voice of Dissent
+4 Vivien, Arkbow Ranger
 2 Nullhide Ferox
-4 Woodland Cemetery
-1 Castle Garenbrig
-4 Stonecoil Serpent
 1 Satyr Wayfinder
+1 Castle Garenbrig
 1 Grapple with the Past
 2 Grapple with the Past
 2 Satyr Wayfinder
@@ -58,24 +57,26 @@
 8 Forest
 1 Hashep Oasis
 2 Hashep Oasis
-1 Rhonas the Indomitable
+4 Woodland Cemetery
+2 Rhonas the Indomitable
+4 Swamp
 2 Gifted Aetherborn
-1 Fatal Push
-2 Fatal Push
-1 Karn's Bastion
-3 Fatal Push
-1 Vraska, Golgari Queen
+1 Commune with the Gods
+4 Stonecoil Serpent
 1 Blossoming Defense
 2 Blossoming Defense
 3 Blossoming Defense
-2 Rhonas the Indomitable
-4 Swamp
+1 Vraska, Golgari Queen
+1 Fatal Push
+2 Fatal Push
+1 Temple of Malady
 1 Thoughtseize
 1 Fabled Passage
 2 Thoughtseize
 2 Fabled Passage
 2 Castle Locthwain
-1 Temple of Malady
+3 Fatal Push
+1 Cavalier of Thorns
 1 Emrakul, the Promised End
 1 Massacre Girl
 1 Gilded Goose
@@ -83,21 +84,20 @@
 1 Witch's Oven
 1 Liliana, the Last Hope
 1 Cauldron Familiar
-1 Cavalier of Thorns
 1 Trail of Crumbs
 2 Temple of Malady
 2 Liliana, the Last Hope
+2 Cavalier of Thorns
 2 Witch's Oven
 2 Gilded Goose
 2 Cauldron Familiar
-2 Cavalier of Thorns
 2 Courser of Kruphix
 2 Trail of Crumbs
 3 Temple of Malady
 3 Thoughtseize
 3 Cauldron Familiar
-3 Fabled Passage
 3 Trail of Crumbs
+3 Fabled Passage
 3 Witch's Oven
 3 Gilded Goose
 3 Cavalier of Thorns
@@ -106,30 +106,31 @@
 4 Gilded Goose
 4 Fabled Passage
 4 Trail of Crumbs
-1 Pelt Collector
-1 Experiment One
-2 Pelt Collector
-2 Experiment One
-3 Pelt Collector
-3 Experiment One
-4 Pelt Collector
-4 Experiment One
 4 Llanowar Elves
 4 Elvish Mystic
-1 Abrupt Decay
-1 Commune with the Gods
 2 Commune with the Gods
 1 Traverse the Ulvenwald
 2 Traverse the Ulvenwald
 3 Traverse the Ulvenwald
 4 Traverse the Ulvenwald
+1 Karn's Bastion
+1 Abrupt Decay
+1 Vampire of the Dire Moon
 1 Vessel of Nascency
 2 Vessel of Nascency
 1 Mana Confluence
 2 Mana Confluence
+1 Pelt Collector
+1 Experiment One
 1 Avatar of the Resolute
 1 Ruins of Oran-Rief
+2 Pelt Collector
+2 Experiment One
 2 Avatar of the Resolute
+3 Pelt Collector
+3 Experiment One
+4 Pelt Collector
+4 Experiment One
 1 Slitherhead
 1 Assassin's Trophy
 1 Tireless Tracker
@@ -189,4 +190,3 @@
 2 Verdurous Gearhulk
 3 Nykthos, Shrine to Nyx
 4 Nykthos, Shrine to Nyx
-4 Fatal Push

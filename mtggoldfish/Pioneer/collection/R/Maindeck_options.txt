@@ -1,9 +1,9 @@
 1 Torbran, Thane of Red Fell
 2 Castle Embereth
-1 Chandra, Torch of Defiance
 1 Kari Zev, Skyship Raider
-2 Chandra, Torch of Defiance
+1 Chandra, Torch of Defiance
 2 Kari Zev, Skyship Raider
+2 Chandra, Torch of Defiance
 1 Monastery Swiftspear
 2 Monastery Swiftspear
 3 Monastery Swiftspear
@@ -34,8 +34,8 @@
 3 Goblin Piledriver
 3 Goblin Rabblemaster
 4 Goblin Piledriver
-4 Legion Loyalist
 4 Goblin Rabblemaster
+4 Legion Loyalist
 1 Skirk Prospector
 2 Skirk Prospector
 3 Skirk Prospector
@@ -105,17 +105,6 @@
 3 Cavalcade of Calamity
 3 Throne of the God-Pharaoh
 4 Cavalcade of Calamity
-1 Shock
-1 Runaway Steam-Kin
-1 Thermo-Alchemist
-2 Shock
-2 Runaway Steam-Kin
-2 Thermo-Alchemist
-3 Runaway Steam-Kin
-3 Shock
-3 Thermo-Alchemist
-4 Experimental Frenzy
-4 Runaway Steam-Kin
 1 Scavenger Grounds
 2 Scavenger Grounds
 3 Chandra, Torch of Defiance
@@ -142,5 +131,16 @@
 4 Obelisk of Urd
 4 Burning-Tree Emissary
 4 Reckless Bushwhacker
+1 Shock
+1 Runaway Steam-Kin
+1 Thermo-Alchemist
+2 Shock
+2 Runaway Steam-Kin
+2 Thermo-Alchemist
+3 Runaway Steam-Kin
+3 Shock
+3 Thermo-Alchemist
+4 Runaway Steam-Kin
+4 Experimental Frenzy
 1 Stoke the Flames
 4 Goblin Ringleader
