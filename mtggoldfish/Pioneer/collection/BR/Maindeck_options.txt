@@ -1,12 +1,12 @@
 4 Foreboding Ruins
-1 Goblin Rabblemaster
 1 Lightning Strike
 1 Soul-Scar Mage
-2 Goblin Rabblemaster
+1 Goblin Rabblemaster
 2 Lightning Strike
 2 Soul-Scar Mage
-3 Ramunap Ruins
+2 Goblin Rabblemaster
 3 Soul-Scar Mage
+3 Ramunap Ruins
 1 Mutavault
 2 Mutavault
 1 Bomat Courier
@@ -26,10 +26,10 @@
 4 Glorybringer
 4 Fatal Push
 3 Canyon Slough
-1 Kolaghan's Command
 1 Liliana, the Last Hope
 1 Kalitas, Traitor of Ghet
 1 Fabled Passage
+1 Kolaghan's Command
 2 Kolaghan's Command
 2 Fabled Passage
 2 Liliana, the Last Hope
@@ -52,8 +52,15 @@
 2 Legion Warboss
 3 Legion Warboss
 3 Dreadhorde Arcanist
-4 Dreadhorde Arcanist
 4 Rekindling Phoenix
+4 Dreadhorde Arcanist
+2 Hazoret the Fervent
+3 Heart of Kiran
+3 Mutavault
+4 Unlicensed Disintegration
+4 Mutavault
+4 Bomat Courier
+4 Heart of Kiran
 1 Angrath's Rampage
 1 Legion's End
 1 Vraska's Contempt
@@ -91,29 +98,22 @@
 4 Gifted Aetherborn
 4 Harnessed Lightning
 4 Aether Hub
-2 Hazoret the Fervent
-3 Heart of Kiran
-3 Mutavault
-4 Unlicensed Disintegration
-4 Bomat Courier
-4 Heart of Kiran
-4 Mutavault
+1 Monastery Swiftspear
 1 Castle Embereth
 1 Embercleave
-1 Monastery Swiftspear
-2 Embercleave
 2 Monastery Swiftspear
-3 Goblin Rabblemaster
+2 Embercleave
 3 Wild Slash
 3 Monastery Swiftspear
-4 Monastery Swiftspear
+3 Goblin Rabblemaster
 4 Wild Slash
+4 Monastery Swiftspear
 9 Mountain
 1 Kari Zev, Skyship Raider
 1 Torbran, Thane of Red Fell
 2 Kari Zev, Skyship Raider
 2 Torbran, Thane of Red Fell
-3 Kari Zev, Skyship Raider
 3 Lightning Strike
-4 Ramunap Ruins
+3 Kari Zev, Skyship Raider
 4 Soul-Scar Mage
+4 Ramunap Ruins

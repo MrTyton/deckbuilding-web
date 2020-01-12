@@ -1,28 +1,28 @@
-1 Ulamog, the Ceaseless Hunger
-1 Arboreal Grazer
 1 Elvish Rejuvenator
-1 Ugin, the Spirit Dragon
+1 World Breaker
+1 Kozilek's Return
+1 Ulamog, the Ceaseless Hunger
 2 Shrine of the Forsaken Gods
 2 Ugin, the Spirit Dragon
 2 Nissa's Pilgrimage
 2 World Breaker
 2 Castle Garenbrig
 2 Kozilek's Return
-2 Ulamog, the Ceaseless Hunger
-2 Elvish Rejuvenator
 2 Arboreal Grazer
+2 Elvish Rejuvenator
+2 Ulamog, the Ceaseless Hunger
 3 Castle Garenbrig
 3 Nissa's Pilgrimage
 3 World Breaker
 3 Shrine of the Forsaken Gods
-3 Ugin, the Spirit Dragon
 3 Arboreal Grazer
+3 Ugin, the Spirit Dragon
 3 Elvish Rejuvenator
 4 Nissa's Pilgrimage
-4 Ugin, the Spirit Dragon
 4 Arboreal Grazer
-4 Shrine of the Forsaken Gods
+4 Ugin, the Spirit Dragon
 4 Elvish Rejuvenator
+4 Shrine of the Forsaken Gods
 4 Castle Garenbrig
 4 World Breaker
 8 Forest
@@ -61,6 +61,13 @@
 2 Soul-Scar Mage
 3 Soul-Scar Mage
 4 Soul-Scar Mage
+1 Kiora, Behemoth Beckoner
+1 Incendiary Flow
+2 Kiora, Behemoth Beckoner
+2 Incendiary Flow
+3 Incendiary Flow
+3 Kiora, Behemoth Beckoner
+4 Glorybringer
 1 Thought-Knot Seer
 1 Mutavault
 1 Crater's Claws
@@ -70,15 +77,8 @@
 3 Hashep Oasis
 3 Thought-Knot Seer
 3 Crater's Claws
-4 Hashep Oasis
 4 Thought-Knot Seer
-1 Kiora, Behemoth Beckoner
-1 Incendiary Flow
-2 Kiora, Behemoth Beckoner
-2 Incendiary Flow
-3 Kiora, Behemoth Beckoner
-3 Incendiary Flow
-4 Glorybringer
+4 Hashep Oasis
 1 Mana Confluence
 1 Torbran, Thane of Red Fell
 1 Burning-Tree Emissary
@@ -103,21 +103,21 @@
 1 Kari Zev, Skyship Raider
 1 Collected Company
 1 Rimrock Knight
-2 Collected Company
 2 Rimrock Knight
 2 Kari Zev, Skyship Raider
+2 Collected Company
 3 Rimrock Knight
 3 Collected Company
-3 Embercleave
 3 Ghor-Clan Rampager
+3 Embercleave
 4 Rimrock Knight
 4 Collected Company
 4 Ghor-Clan Rampager
 4 Embercleave
 1 Hour of Promise
+1 Walking Ballista
 1 Sanctum of Ugin
 1 Chandra, Flamecaller
-1 Walking Ballista
 2 Hour of Promise
 2 Chandra, Flamecaller
 3 Hour of Promise
@@ -126,9 +126,9 @@
 4 Hour of Promise
 1 Shifting Ceratops
 1 Domri's Ambush
-1 Steel Leaf Champion
 1 Xenagos, the Reveler
 1 Domri Rade
+1 Steel Leaf Champion
 1 Sheltered Thicket
 1 Rhonas the Indomitable
 2 Domri's Ambush
@@ -166,45 +166,45 @@
 3 Blossoming Defense
 3 Ilharg, the Raze-Boar
 4 Worldspine Wurm
-4 Generator Servant
 4 Dragonlord Atarka
+4 Generator Servant
 4 Champion of Rhonas
 4 Ilharg, the Raze-Boar
 1 Skewer the Critics
+1 Blistercoil Weird
 1 Bomat Courier
 1 Lightning Strike
 1 Shock
-1 Blistercoil Weird
+1 Light Up the Stage
 1 Crash Through
 1 Dreadhorde Arcanist
 1 Atarka's Command
-1 Light Up the Stage
 1 Monastery Swiftspear
 2 Skewer the Critics
 2 Bomat Courier
 2 Lightning Strike
 2 Shock
+2 Light Up the Stage
 2 Crash Through
 2 Atarka's Command
 2 Dreadhorde Arcanist
 2 Monastery Swiftspear
-2 Light Up the Stage
 3 Skewer the Critics
 3 Bomat Courier
 3 Shock
 3 Lightning Strike
 3 Crash Through
-3 Monastery Swiftspear
 3 Light Up the Stage
+3 Monastery Swiftspear
 3 Atarka's Command
-4 Wild Slash
 4 Bomat Courier
-4 Crash Through
-4 Monastery Swiftspear
+4 Wild Slash
 4 Lightning Strike
+4 Crash Through
+4 Light Up the Stage
+4 Monastery Swiftspear
 4 Atarka's Command
 4 Shock
-4 Light Up the Stage
 7 Mountain
 8 Mountain
 9 Mountain

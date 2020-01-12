@@ -59,9 +59,9 @@
 2 Karn, Scion of Urza
 2 Stonecoil Serpent
 2 Ratchet Bomb
-2 Warping Wail
 2 Scrap Trawler
 2 Fountain of Renewal
+2 Warping Wail
 2 Spatial Contortion
 3 Blast Zone
 3 Karn, the Great Creator
@@ -76,8 +76,8 @@
 3 Ratchet Bomb
 3 Fountain of Renewal
 3 Scrap Trawler
-4 Stonecoil Serpent
 4 Shrine of the Forsaken Gods
+4 Stonecoil Serpent
 4 Mutavault
 4 Scrap Trawler
 4 Zhalfirin Void
@@ -87,15 +87,15 @@
 1 Teferi, Time Raveler
 2 Hallowed Fountain
 2 Teferi, Time Raveler
-3 Teferi, Time Raveler
 3 Hallowed Fountain
-4 Teferi, Time Raveler
+3 Teferi, Time Raveler
 4 Hallowed Fountain
+4 Teferi, Time Raveler
 1 Once Upon a Time
 1 Urborg, Tomb of Yawgmoth
+1 Oko, Thief of Crowns
 1 Emry, Lurker of the Loch
 1 Mox Amber
-1 Oko, Thief of Crowns
 1 Mana Confluence
 1 Jace, Wielder of Mysteries
 1 Terrarion
@@ -105,16 +105,16 @@
 1 Kethis, the Hidden Hand
 1 Blooming Marsh
 2 Urborg, Tomb of Yawgmoth
-2 Temple Garden
+2 Oko, Thief of Crowns
 2 Emry, Lurker of the Loch
 2 Mox Amber
-2 Oko, Thief of Crowns
 2 Once Upon a Time
 2 Mana Confluence
 2 Blooming Marsh
 2 Kethis, the Hidden Hand
 2 Terrarion
 2 Diligent Excavator
+2 Temple Garden
 2 Oath of Nissa
 2 Lazav, the Multifarious
 3 Mox Amber
@@ -157,21 +157,21 @@
 4 Narset, Parter of Veils
 4 Island
 5 Island
+1 Search for Azcanta
 1 Teferi, Hero of Dominaria
 1 Port Town
 1 Glacial Fortress
 1 Settle the Wreckage
 1 Supreme Verdict
 1 Blessed Alliance
-1 Search for Azcanta
 1 Opt
 1 Dig Through Time
 1 Azorius Charm
 1 Myth Realized
 2 Plains
 2 Teferi, Hero of Dominaria
-2 Port Town
 2 Glacial Fortress
+2 Port Town
 2 Supreme Verdict
 2 Blessed Alliance
 2 Azorius Charm
@@ -198,24 +198,24 @@
 1 Borborygmos Enraged
 1 Enter the Infinite
 1 Possibility Storm
+1 Captain Lannery Storm
 1 Rosethorn Acolyte
 1 Elvish Mystic
 1 Llanowar Elves
-1 Captain Lannery Storm
 1 Glorybringer
+1 Questing Beast
 1 Bonecrusher Giant
 1 Lovestruck Beast
-1 Questing Beast
 1 Vivien Reid
 1 Domri Rade
 1 Chandra, Torch of Defiance
 1 Game Trail
 2 Possibility Storm
 2 Kiora, Behemoth Beckoner
-2 Elvish Mystic
-2 Llanowar Elves
-2 Rosethorn Acolyte
 2 Captain Lannery Storm
+2 Llanowar Elves
+2 Elvish Mystic
+2 Rosethorn Acolyte
 2 Glorybringer
 2 Bonecrusher Giant
 2 Lovestruck Beast
@@ -226,8 +226,8 @@
 3 Elvish Mystic
 3 Kiora, Behemoth Beckoner
 3 Llanowar Elves
-3 Glorybringer
 3 Bonecrusher Giant
+3 Glorybringer
 3 Lovestruck Beast
 3 Rootbound Crag
 3 Mountain
@@ -276,8 +276,8 @@
 3 Watery Grave
 3 Notion Thief
 3 Fatal Push
-4 Brazen Borrower
 4 Watery Grave
+4 Brazen Borrower
 4 Day's Undoing
 4 Sunken Hollow
 4 Notion Thief

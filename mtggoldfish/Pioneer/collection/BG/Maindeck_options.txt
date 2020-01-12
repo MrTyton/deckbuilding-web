@@ -1,28 +1,34 @@
-2 Collected Company
-3 Collected Company
-4 Collected Company
-1 Nykthos, Shrine to Nyx
-1 Shaman of the Pack
-1 Dwynen's Elite
-1 Elvish Clancaller
-1 Elvish Visionary
-2 Elvish Clancaller
-2 Shaman of the Pack
-2 Dwynen's Elite
-2 Nykthos, Shrine to Nyx
-2 Elvish Visionary
-3 Elvish Clancaller
-3 Shaman of the Pack
-3 Elvish Visionary
-3 Dwynen's Elite
-4 Elvish Clancaller
-4 Elvish Visionary
-4 Shaman of the Pack
-4 Dwynen's Elite
-1 Mutavault
-2 Mutavault
-4 Courser of Kruphix
+3 Llanowar Wastes
+1 Steel Leaf Champion
+2 Steel Leaf Champion
+3 Steel Leaf Champion
+4 Steel Leaf Champion
+1 Lovestruck Beast
+2 Lovestruck Beast
+1 Thoughtseize
+2 Thoughtseize
+1 Scavenging Ooze
+1 Rhonas the Indomitable
+3 Thoughtseize
+1 Swamp
+2 Scavenging Ooze
+1 Tireless Tracker
+1 Woodland Cemetery
+4 Thoughtseize
+2 Swamp
+3 Swamp
+1 Fatal Push
+1 Murderous Rider
+1 Fabled Passage
+2 Fabled Passage
+2 Woodland Cemetery
+2 Fatal Push
+1 Liliana, the Last Hope
+1 Abrupt Decay
+1 Kalitas, Traitor of Ghet
+1 Assassin's Trophy
 1 Vraska, Golgari Queen
+2 Assassin's Trophy
 4 Swamp
 2 Tireless Tracker
 3 Fatal Push
@@ -32,34 +38,23 @@
 3 Traverse the Ulvenwald
 1 Walking Ballista
 1 Castle Locthwain
-1 Hashep Oasis
+4 Llanowar Wastes
+2 Liliana, the Last Hope
+1 Emrakul, the Promised End
+4 Traverse the Ulvenwald
+3 Woodland Cemetery
 3 Lovestruck Beast
 1 Questing Beast
+1 Hashep Oasis
+4 Lovestruck Beast
 1 The Great Henge
 2 The Great Henge
+2 Rhonas the Indomitable
 1 Heart of Kiran
 2 Heart of Kiran
 1 Ghalta, Primal Hunger
 2 Ghalta, Primal Hunger
-2 Liliana, the Last Hope
-1 Chord of Calling
-1 Temur Sabertooth
-2 Chord of Calling
-3 Chord of Calling
-3 Nykthos, Shrine to Nyx
-4 Chord of Calling
-4 Nykthos, Shrine to Nyx
-3 Woodland Cemetery
-1 Emrakul, the Promised End
-4 Traverse the Ulvenwald
-4 Lovestruck Beast
-2 Rhonas the Indomitable
-2 Hashep Oasis
 3 Ghalta, Primal Hunger
-1 Rotting Regisaur
-2 Rotting Regisaur
-3 Rotting Regisaur
-4 Rotting Regisaur
 2 Murderous Rider
 1 Urborg, Tomb of Yawgmoth
 3 Fabled Passage
@@ -70,7 +65,13 @@
 4 Grim Flayer
 1 Blast Zone
 1 Castle Garenbrig
+3 Mutavault
 1 Ishkanah, Grafwidow
+2 Hashep Oasis
+1 Rotting Regisaur
+2 Rotting Regisaur
+3 Rotting Regisaur
+4 Rotting Regisaur
 1 Field of Ruin
 1 Collective Brutality
 8 Forest
@@ -84,8 +85,6 @@
 3 Surrak, the Hunt Caller
 1 Vraska's Contempt
 2 Castle Locthwain
-3 Mutavault
-3 Hashep Oasis
 3 Tireless Tracker
 4 Fatal Push
 3 Rhonas the Indomitable
@@ -93,30 +92,14 @@
 1 Aspect of Hydra
 2 Syr Faren, the Hengehammer
 2 Aspect of Hydra
+3 Hashep Oasis
 4 Ghalta, Primal Hunger
 9 Forest
-1 Scrapheap Scrounger
-2 Scrapheap Scrounger
-3 Scrapheap Scrounger
-4 Scrapheap Scrounger
-1 Kiora, Behemoth Beckoner
-2 Kiora, Behemoth Beckoner
-2 Questing Beast
-3 Heart of Kiran
-1 Unclaimed Territory
-2 Unclaimed Territory
-3 Unclaimed Territory
-4 Unclaimed Territory
-4 Hashep Oasis
-1 Driven/Despair
-2 Driven/Despair
 2 Kalitas, Traitor of Ghet
 3 Abrupt Decay
+1 Driven/Despair
+2 Driven/Despair
 2 Vraska's Contempt
-1 Thought-Knot Seer
-2 Thought-Knot Seer
-3 Thought-Knot Seer
-4 Thought-Knot Seer
 1 Languish
 1 Hissing Quagmire
 1 Arch of Orazca
@@ -125,26 +108,17 @@
 2 Vraska, Golgari Queen
 1 Nissa, Vastwood Seer
 4 Woodland Cemetery
+5 Swamp
 1 Gifted Aetherborn
 2 Gifted Aetherborn
 3 Gifted Aetherborn
 4 Gifted Aetherborn
-5 Swamp
 1 Westvale Abbey
 2 Walking Ballista
 3 Walking Ballista
 4 Walking Ballista
 1 Noxious Gearhulk
-1 Throne of the God-Pharaoh
-1 Midnight Reaper
 1 Merfolk Branchwalker
-1 Gilded Goose
-2 Gilded Goose
-3 Questing Beast
-1 Mana Confluence
-2 Mana Confluence
-3 Mana Confluence
-3 Syr Faren, the Hengehammer
 1 Dark Petition
 1 Lost Legacy
 1 Nissa's Renewal
@@ -169,26 +143,14 @@
 2 Kraul Harpooner
 2 Blossoming Defense
 3 Yorvo, Lord of Garenbrig
-3 Kiora, Behemoth Beckoner
+1 Kiora, Behemoth Beckoner
+1 Gilded Goose
+2 Kiora, Behemoth Beckoner
+2 Gilded Goose
+2 Questing Beast
+3 Questing Beast
+3 Heart of Kiran
 4 Tireless Tracker
-1 Wastes
-1 Ugin, the Ineffable
-1 Reality Smasher
-1 Blighted Fen
-1 Ifnir Deadlands
-1 Endless Sands
-1 Mirrorpool
-1 Matter Reshaper
-2 Mirrorpool
-2 Ifnir Deadlands
-2 Matter Reshaper
-2 Reality Smasher
-2 Blighted Fen
-3 Murderous Rider
-3 Assassin's Trophy
-3 Matter Reshaper
-3 Liliana, the Last Hope
-4 Matter Reshaper
 1 Satyr Wayfinder
 1 Golgari Findbroker
 2 Satyr Wayfinder
@@ -212,6 +174,12 @@
 2 Renegade Map
 3 Grisly Salvage
 4 Abrupt Decay
+1 Throne of the God-Pharaoh
+1 Unclaimed Territory
+1 Midnight Reaper
+2 Unclaimed Territory
+3 Unclaimed Territory
+4 Unclaimed Territory
 1 Ulamog, the Ceaseless Hunger
 1 World Breaker
 1 Elvish Rejuvenator
@@ -250,6 +218,10 @@
 4 Ugin, the Spirit Dragon
 4 Arboreal Grazer
 4 Nissa's Pilgrimage
+1 Scrapheap Scrounger
+2 Scrapheap Scrounger
+3 Scrapheap Scrounger
+4 Scrapheap Scrounger
 4 The Great Henge
 1 Burning-Tree Emissary
 1 Duskwatch Recruiter
@@ -266,11 +238,38 @@
 4 Zulaport Cutthroat
 4 Burning-Tree Emissary
 4 Nantuko Husk
+1 Mana Confluence
+2 Mana Confluence
+3 Mana Confluence
+3 Syr Faren, the Hengehammer
+4 Hashep Oasis
+1 Wastes
+1 Ugin, the Ineffable
+1 Reality Smasher
+1 Blighted Fen
+1 Ifnir Deadlands
+1 Thought-Knot Seer
+1 Endless Sands
+1 Mirrorpool
+1 Matter Reshaper
+2 Thought-Knot Seer
+2 Mirrorpool
+2 Ifnir Deadlands
+2 Matter Reshaper
+2 Reality Smasher
+2 Blighted Fen
+3 Murderous Rider
+3 Assassin's Trophy
+3 Matter Reshaper
+3 Thought-Knot Seer
+3 Liliana, the Last Hope
+4 Matter Reshaper
+4 Thought-Knot Seer
 1 Status/Statue
+1 Sorin, Imperious Bloodlord
 1 Vraska, Swarm's Eminence
 1 Dusk Legion Zealot
 1 Champion of Dusk
-1 Sorin, Imperious Bloodlord
 1 Knight of the Ebon Legion
 2 Status/Statue
 2 Dusk Legion Zealot
@@ -310,9 +309,9 @@
 3 Slitherhead
 3 Hangarback Walker
 4 Hardened Scales
-4 Hangarback Walker
 4 Lotleth Troll
 4 Winding Constrictor
+4 Hangarback Walker
 4 Stonecoil Serpent
 4 Slitherhead
 1 Evolving Wilds

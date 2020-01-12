@@ -1,11 +1,59 @@
+3 Temple Garden
+4 Temple Garden
+1 Sunpetal Grove
+2 Sunpetal Grove
+3 Sunpetal Grove
+1 Unflinching Courage
+1 Gladecover Scout
+1 Ethereal Armor
+1 All That Glitters
+2 Unflinching Courage
+2 Gladecover Scout
+2 Ethereal Armor
+2 All That Glitters
+3 Gladecover Scout
+3 Unflinching Courage
+3 All That Glitters
+3 Ethereal Armor
+4 Gladecover Scout
+4 Unflinching Courage
+4 Ethereal Armor
+4 Sunpetal Grove
+1 Plains
+1 Fortified Village
+1 Bassara Tower Archer
+2 Bassara Tower Archer
+2 Fortified Village
+3 Bassara Tower Archer
+3 Fortified Village
+4 Fortified Village
+4 All That Glitters
+2 Plains
+3 Forest
+4 Forest
+5 Forest
+1 Cartouche of Solidarity
+1 Gryff's Boon
+2 Gryff's Boon
+2 Cartouche of Solidarity
+3 Cartouche of Solidarity
+3 Gryff's Boon
+1 Sixth Sense
+2 Sixth Sense
+3 Sixth Sense
+4 Bassara Tower Archer
+4 Sixth Sense
+1 Witchstalker
+2 Witchstalker
+3 Witchstalker
+1 Gilded Goose
+1 Breeding Pool
+2 Breeding Pool
 4 Botanical Sanctum
+3 Breeding Pool
 1 Llanowar Elves
 2 Llanowar Elves
 3 Llanowar Elves
-1 Oko, Thief of Crowns
-2 Oko, Thief of Crowns
-3 Oko, Thief of Crowns
-4 Oko, Thief of Crowns
 1 Elvish Mystic
 2 Elvish Mystic
 1 Brazen Borrower
@@ -24,11 +72,6 @@
 3 Selfless Spirit
 4 Hallowed Fountain
 4 Selfless Spirit
-3 Breeding Pool
-1 Temple Garden
-2 Temple Garden
-3 Temple Garden
-4 Temple Garden
 1 Tireless Tracker
 1 Lovestruck Beast
 2 Tireless Tracker
@@ -36,91 +79,19 @@
 3 Tireless Tracker
 3 Lovestruck Beast
 4 Lovestruck Beast
-1 Sunpetal Grove
-2 Sunpetal Grove
-3 Sunpetal Grove
+1 Oko, Thief of Crowns
+2 Oko, Thief of Crowns
+3 Oko, Thief of Crowns
 3 Elvish Mystic
-2 Forest
-1 Woodland Cemetery
-2 Gilded Goose
-3 Gilded Goose
-1 Murderous Rider
-1 Vraska, Golgari Queen
-4 Gilded Goose
-1 Fabled Passage
-2 Fabled Passage
-1 Fatal Push
-2 Fatal Push
-3 Fatal Push
-1 Castle Locthwain
-1 Trail of Crumbs
-1 Cauldron Familiar
-1 Witch's Oven
-1 Massacre Girl
-2 Trail of Crumbs
-2 Cauldron Familiar
-2 Witch's Oven
-2 Murderous Rider
-3 Witch's Oven
-3 Trail of Crumbs
-3 Cauldron Familiar
-4 Trail of Crumbs
-4 Cauldron Familiar
-4 Witch's Oven
-1 Stomping Ground
-2 Stomping Ground
-3 Stomping Ground
-1 Plains
-4 Sunpetal Grove
-1 Unflinching Courage
-1 Ethereal Armor
-1 Gladecover Scout
-1 All That Glitters
-2 Ethereal Armor
-2 All That Glitters
-2 Gladecover Scout
-2 Unflinching Courage
-3 All That Glitters
-3 Ethereal Armor
-3 Unflinching Courage
-3 Gladecover Scout
-4 Ethereal Armor
-4 Unflinching Courage
-4 Gladecover Scout
-2 Plains
-1 Fortified Village
-1 Bassara Tower Archer
-1 Sixth Sense
-2 Fortified Village
-2 Bassara Tower Archer
-2 Sixth Sense
-3 Fortified Village
-3 Sixth Sense
-3 Bassara Tower Archer
-4 All That Glitters
-4 Fortified Village
-4 Sixth Sense
-4 Bassara Tower Archer
-1 Witchstalker
-2 Witchstalker
-3 Witchstalker
-3 Forest
-4 Forest
-5 Forest
-4 Breeding Pool
+4 Oko, Thief of Crowns
 1 Season of Growth
 1 Vine Mare
-1 Cartouche of Solidarity
-1 Gryff's Boon
-2 Gryff's Boon
-2 Cartouche of Solidarity
 2 Season of Growth
 2 Vine Mare
-3 Gryff's Boon
-3 Cartouche of Solidarity
 3 Season of Growth
 4 Witchstalker
 4 Season of Growth
+4 Breeding Pool
 1 Collected Company
 1 Deputy of Detention
 2 Deputy of Detention
@@ -131,11 +102,11 @@
 4 Collected Company
 4 Deputy of Detention
 2 Scrapheap Scrounger
-1 Mountain
 4 Satyr Wayfinder
 1 Ashiok, Dream Render
-1 Island
 1 Castle Ardenvale
+1 Island
+3 Plains
 1 Gideon, Ally of Zendikar
 1 Reflector Mage
 1 Teferi, Time Raveler
@@ -144,7 +115,6 @@
 2 Gideon, Ally of Zendikar
 3 Teferi, Time Raveler
 3 Gideon, Ally of Zendikar
-3 Plains
 4 Plains
 5 Plains
 1 Irrigated Farmland
@@ -172,26 +142,53 @@
 4 Glacial Fortress
 4 Island
 4 Thraben Inspector
+1 Woodland Cemetery
+2 Gilded Goose
+3 Gilded Goose
+1 Fabled Passage
+2 Fabled Passage
+1 Stomping Ground
+2 Stomping Ground
+3 Stomping Ground
+1 Mountain
+1 Murderous Rider
+1 Vraska, Golgari Queen
+4 Stomping Ground
+4 Gilded Goose
 1 Blood Crypt
 2 Blood Crypt
 3 Blood Crypt
 4 Blood Crypt
-4 Stomping Ground
-2 Vraska, Golgari Queen
+1 Trail of Crumbs
+1 Cauldron Familiar
+1 Witch's Oven
+1 Massacre Girl
 1 Korvold, Fae-Cursed King
 1 Mayhem Devil
+2 Trail of Crumbs
+2 Cauldron Familiar
+2 Witch's Oven
+2 Murderous Rider
 2 Korvold, Fae-Cursed King
 2 Mayhem Devil
-2 Massacre Girl
-3 Murderous Rider
+3 Witch's Oven
+3 Trail of Crumbs
+3 Cauldron Familiar
+4 Trail of Crumbs
+4 Cauldron Familiar
+4 Witch's Oven
+1 Fatal Push
 1 Abrupt Decay
+2 Fatal Push
+3 Fatal Push
+1 Castle Locthwain
 6 Forest
-1 Wicked Wolf
-2 Wicked Wolf
 1 Heart of Kiran
 2 Heart of Kiran
-1 Yavimaya Coast
-2 Yavimaya Coast
+1 Wicked Wolf
+2 Wicked Wolf
+1 Gift of Orzhova
+2 Gift of Orzhova
 4 Llanowar Elves
 1 Scavenging Ooze
 3 Fabled Passage
@@ -207,35 +204,12 @@
 2 Censor
 1 Liliana, Heretical Healer
 1 Grim Haruspex
+2 Vraska, Golgari Queen
 2 Liliana, Heretical Healer
 2 Grim Haruspex
 3 Grim Haruspex
 1 Decimator of the Provinces
 4 Gurmag Angler
-3 Sacred Foundry
-4 Sacred Foundry
-1 Fleecemane Lion
-1 Voice of Resurgence
-1 Boros Charm
-1 Gift of Orzhova
-1 Madcap Skills
-1 Adanto Vanguard
-1 Rootbound Crag
-2 Adanto Vanguard
-2 Boros Charm
-2 Fleecemane Lion
-2 Voice of Resurgence
-2 Gift of Orzhova
-2 Rootbound Crag
-2 Madcap Skills
-3 Voice of Resurgence
-3 Adanto Vanguard
-3 Boros Charm
-3 Fleecemane Lion
-3 Madcap Skills
-4 Adanto Vanguard
-4 Voice of Resurgence
-4 Boros Charm
 1 Shepherd of the Flock
 3 Port Town
 3 Irrigated Farmland
@@ -257,14 +231,28 @@
 3 Thoughtseize
 4 Thoughtseize
 4 Elvish Mystic
-1 Sylvan Caryatid
-2 Castle Locthwain
-2 Sylvan Caryatid
-3 Massacre Girl
-3 Vraska, Golgari Queen
-3 Sylvan Caryatid
-4 Watery Grave
-4 Fatal Push
+3 Sacred Foundry
+4 Sacred Foundry
+1 Voice of Resurgence
+1 Fleecemane Lion
+1 Boros Charm
+1 Madcap Skills
+1 Adanto Vanguard
+1 Rootbound Crag
+2 Boros Charm
+2 Voice of Resurgence
+2 Fleecemane Lion
+2 Adanto Vanguard
+2 Rootbound Crag
+2 Madcap Skills
+3 Voice of Resurgence
+3 Boros Charm
+3 Fleecemane Lion
+3 Madcap Skills
+3 Adanto Vanguard
+4 Voice of Resurgence
+4 Boros Charm
+4 Adanto Vanguard
 1 Steam Vents
 2 Steam Vents
 3 Steam Vents
@@ -303,8 +291,10 @@
 1 Hangarback Walker
 2 Paradise Druid
 2 Hangarback Walker
+2 Massacre Girl
 3 Hangarback Walker
 3 Mayhem Devil
+3 Murderous Rider
 4 Hangarback Walker
 4 Murderous Rider
 4 Mayhem Devil
@@ -378,10 +368,10 @@
 1 Garruk, Cursed Huntsman
 1 Harnessed Lightning
 1 Rogue Refiner
-1 Aether Hub
-1 Servant of the Conduit
-1 Attune with Aether
 1 Whirler Virtuoso
+1 Servant of the Conduit
+1 Aether Hub
+1 Attune with Aether
 1 Karn, Scion of Urza
 1 Bristling Hydra
 1 Abrade
@@ -390,8 +380,8 @@
 2 The Scarab God
 2 Harnessed Lightning
 2 Rogue Refiner
-2 Aether Hub
 2 Servant of the Conduit
+2 Aether Hub
 2 Attune with Aether
 2 Karn, Scion of Urza
 2 Bristling Hydra
@@ -399,28 +389,43 @@
 2 Whirler Virtuoso
 2 Longtusk Cub
 3 Harnessed Lightning
-3 Abrade
-3 Aether Hub
 3 Rogue Refiner
+3 Aether Hub
 3 Bristling Hydra
+3 Abrade
 3 The Scarab God
 3 Longtusk Cub
 3 Whirler Virtuoso
 3 Attune with Aether
 4 Harnessed Lightning
-4 Aether Hub
 4 Rogue Refiner
+4 Aether Hub
 4 Whirler Virtuoso
 4 Attune with Aether
+1 Cartouche of Strength
+1 Hopeful Eidolon
+1 Helm of the Gods
+1 Sram, Senior Edificer
+2 Cartouche of Strength
+2 Sram, Senior Edificer
+2 Hopeful Eidolon
+2 Helm of the Gods
+3 Hopeful Eidolon
+3 Sram, Senior Edificer
+4 Cartouche of Solidarity
+4 Sram, Senior Edificer
+4 Gryff's Boon
 1 Nykthos, Shrine to Nyx
 1 Nissa, Who Shakes the World
 1 Hydroid Krasis
 1 Walking Ballista
+1 Yavimaya Coast
 1 Castle Garenbrig
 1 Jadelight Ranger
 2 Nissa, Who Shakes the World
 2 Hydroid Krasis
 2 Nykthos, Shrine to Nyx
+2 Yavimaya Coast
 2 Scavenging Ooze
 2 Walking Ballista
 2 Jadelight Ranger
@@ -449,19 +454,19 @@
 2 Stonecoil Serpent
 2 Hazoret the Fervent
 2 Bomat Courier
-2 Chandra, Torch of Defiance
 2 Goblin Chainwhirler
 2 Mountain
 2 Unlicensed Disintegration
+2 Chandra, Torch of Defiance
 2 Foreboding Ruins
 3 Stonecoil Serpent
+3 Glorybringer
 3 Bomat Courier
-3 Heart of Kiran
 3 Chandra, Torch of Defiance
+3 Heart of Kiran
 3 Goblin Chainwhirler
 3 Dragonskull Summit
 3 Mountain
-3 Glorybringer
 3 Unlicensed Disintegration
 3 Foreboding Ruins
 4 Bomat Courier

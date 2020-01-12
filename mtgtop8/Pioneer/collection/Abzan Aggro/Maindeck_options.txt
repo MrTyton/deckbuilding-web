@@ -1,16 +1,18 @@
-3 Sunpetal Grove
-3 Warden of the First Tree
 3 Anafenza, the Foremost
-3 Fleecemane Lion
-4 Fleecemane Lion
 4 Warden of the First Tree
-1 Scavenging Ooze
-1 Tireless Tracker
-1 Hissing Quagmire
-2 Swamp
-2 Abzan Charm
-4 Grim Flayer
+2 Forest
+1 Vraska, Golgari Queen
+1 Grim Flayer
+2 Grim Flayer
+3 Grim Flayer
+3 Gideon, Ally of Zendikar
 2 Fabled Passage
+1 Ob Nixilis Reignited
+1 Tireless Tracker
+2 Swamp
+1 Hissing Quagmire
+1 Scavenging Ooze
+4 Grim Flayer
 2 Tireless Tracker
 3 Fabled Passage
 3 Isolated Chapel
@@ -18,9 +20,7 @@
 1 Rakshasa Deathdealer
 2 Mana Confluence
 2 Rakshasa Deathdealer
-3 Gideon, Ally of Zendikar
 3 Rakshasa Deathdealer
-1 Ob Nixilis Reignited
 1 Shambling Vent
 1 Traverse the Ulvenwald
 1 Ishkanah, Grafwidow
@@ -36,17 +36,21 @@
 4 Traverse the Ulvenwald
 3 Concealed Courtyard
 2 Shambling Vent
+1 Castle Locthwain
 3 Mana Confluence
 3 Forest
+2 Murderous Rider
+3 Murderous Rider
+3 Abzan Charm
+4 Godless Shrine
 4 Concealed Courtyard
-1 Tasigur, the Golden Fang
-2 Liliana, the Last Hope
 1 Urborg, Tomb of Yawgmoth
 3 Abrupt Decay
 4 Abrupt Decay
+1 Tasigur, the Golden Fang
+2 Liliana, the Last Hope
 2 Assassin's Trophy
 4 Fatal Push
-1 Castle Locthwain
 1 Collected Company
 1 Zulaport Cutthroat
 1 Cartel Aristocrat
@@ -57,7 +61,6 @@
 3 Cartel Aristocrat
 3 Zulaport Cutthroat
 4 Collected Company
-4 Godless Shrine
 4 Zulaport Cutthroat
 4 Cartel Aristocrat
 1 Thalia, Heretic Cathar
@@ -69,21 +72,18 @@
 1 Painful Truths
 1 Sandsteppe Citadel
 1 Languish
-1 Seasons Past
 1 Utter End
-2 Nissa, Vastwood Seer
-2 Murderous Rider
+1 Seasons Past
 2 Castle Locthwain
+2 Nissa, Vastwood Seer
 2 Languish
 2 Dark Petition
 2 Sandsteppe Citadel
-3 Murderous Rider
-3 Abzan Charm
 3 Languish
 1 Vessel of Nascency
-1 Deathrite Shaman
 1 Vraska the Unseen
 1 Collective Brutality
+1 Deathrite Shaman
 2 Vessel of Nascency
 2 Deathrite Shaman
 2 Collective Brutality
@@ -92,34 +92,40 @@
 3 Vessel of Nascency
 3 Deathrite Shaman
 4 Vessel of Nascency
+1 Gilded Goose
 1 Smuggler's Copter
+1 Archangel Avacyn
 1 Witch's Oven
 1 Cauldron Familiar
 1 Trail of Crumbs
-1 Archangel Avacyn
-1 Wicked Wolf
 1 Anguished Unmaking
-1 Gilded Goose
+1 Wicked Wolf
 2 Smuggler's Copter
+2 Gilded Goose
+2 Archangel Avacyn
 2 Witch's Oven
 2 Cauldron Familiar
 2 Trail of Crumbs
-2 Gilded Goose
-2 Archangel Avacyn
 2 Anguished Unmaking
 2 Wicked Wolf
-3 Cauldron Familiar
 3 Smuggler's Copter
-3 Trail of Crumbs
-3 Witch's Oven
 3 Archangel Avacyn
 3 Gilded Goose
+3 Cauldron Familiar
+3 Trail of Crumbs
+3 Witch's Oven
 3 Wicked Wolf
 3 Anguished Unmaking
+4 Smuggler's Copter
 4 Witch's Oven
 4 Trail of Crumbs
-4 Smuggler's Copter
 4 Gilded Goose
+1 Liliana, Death's Majesty
+1 Obzedat, Ghost Council
+1 Temple of Silence
+4 Gideon, Ally of Zendikar
+4 Abzan Charm
+4 Murderous Rider
 1 Merfolk Branchwalker
 1 Kalitas, Traitor of Ghet
 1 Jadelight Ranger
@@ -181,15 +187,15 @@
 2 Cruel Celebrant
 2 Hunted Witness
 2 Rally the Ancestors
-2 Blisterpod
 2 Nantuko Husk
+2 Blisterpod
 3 Hangarback Walker
 3 Voice of Resurgence
 3 Return to the Ranks
 3 Blisterpod
 3 Hunted Witness
 3 Cruel Celebrant
-4 Voice of Resurgence
 4 Hangarback Walker
+4 Voice of Resurgence
 4 Cruel Celebrant
 4 Blisterpod
