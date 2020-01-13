@@ -2,7 +2,7 @@
 
 #### [Export MTGO List](../collection/Simic%20Ramp/Simic%20Ramp.txt)
 #### [Export Arena List](../collection/Simic%20Ramp/Simic%20Ramp_arena.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=1%09Agent%20of%20Treachery%0A2%09Arboreal%20Grazer%0A1%09Blast%20Zone%0A4%09Breeding%20Pool%0A2%09Castle%20Garenbrig%0A2%09Castle%20Vantress%0A4%09Cavalier%20of%20Thorns%0A1%09End-Raze%20Forerunners%0A2%09Finale%20of%20Devastation%0A10%09Forest%0A4%09Growth%20Spiral%0A4%09Hydroid%20Krasis%0A5%09Island%0A4%09Leafkin%20Druid%0A4%09Nissa,%20Who%20Shakes%20the%20World%0A2%09Quasiduplicate%0A4%09Risen%20Reef%0A4%09Temple%20of%20Mystery&deckside=4%09Aether%20Gust%0A4%09Lovestruck%20Beast%0A4%09Mystical%20Dispute%0A3%09Shifting%20Ceratops)
+#### [Print on decklist.org](http://decklist.org/?deckmain=1%09Agent%20of%20Treachery%0A2%09Arboreal%20Grazer%0A1%09Blast%20Zone%0A4%09Breeding%20Pool%0A2%09Castle%20Garenbrig%0A2%09Castle%20Vantress%0A4%09Cavalier%20of%20Thorns%0A1%09End-Raze%20Forerunners%0A2%09Finale%20of%20Devastation%0A10%09Forest%0A4%09Growth%20Spiral%0A4%09Hydroid%20Krasis%0A5%09Island%0A4%09Leafkin%20Druid%0A4%09Nissa,%20Who%20Shakes%20the%20World%0A2%09Quasiduplicate%0A4%09Risen%20Reef%0A4%09Temple%20of%20Mystery&deckside=4%09Aether%20Gust%0A3%09Lovestruck%20Beast%0A4%09Mystical%20Dispute%0A1%09Return%20to%20Nature%0A3%09Shifting%20Ceratops)
 # Maindeck
 
 |                                          Creature (20)                                          |                                       Instant (4)                                        |                                          Land (28)                                           |                                            Planeswalker (4)                                            |                                           Sorcery (4)                                            |
@@ -18,30 +18,29 @@
 
 # Sideboard
 
-|                                         Creature (7)                                         |                                         Instant (8)                                         |
+|                                         Creature (6)                                         |                                         Instant (9)                                         |
 |----------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|
-|4 [Lovestruck Beast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473127) |4 [Aether Gust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466796)     |
+|3 [Lovestruck Beast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473127) |4 [Aether Gust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466796)     |
 |3 [Shifting Ceratops](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466948)|4 [Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)|
+|                                                                                              |1 [Return to Nature](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461102)|
 
 
 # Other Options
 
 |*n*<sup>th</sup> copy|                                         Maindeck Card                                         |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
 |--------------------:|-----------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
-|                    6|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)              |                    1|[Disdainful Stroke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420705)  |
-|                    1|[Aether Gust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466796)         |                    2|[Disdainful Stroke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420705)  |
-|                    2|[End-Raze Forerunners](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457268)|                    1|[Return to Nature](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461102)   |
-|                    3|[Arboreal Grazer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461076)     |                    2|[Return to Nature](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461102)   |
+|                    6|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)              |                    4|[Lovestruck Beast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473127)   |
+|                    1|[Aether Gust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466796)         |                    2|[Return to Nature](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461102)   |
+|                    2|[End-Raze Forerunners](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457268)|                    1|[Disdainful Stroke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420705)  |
+|                    3|[Arboreal Grazer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461076)     |                    2|[Disdainful Stroke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420705)  |
 |                    1|[Gilded Goose](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473122)        |                    1|[Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)             |
-|                    1|[Fabled Passage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473206)      |                    1|[Thrashing Brontodon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456570)|
-|                    1|[Flood of Tears](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466813)      |                    3|[Return to Nature](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461102)   |
+|                    1|[Fabled Passage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473206)      |                    3|[Return to Nature](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461102)   |
+|                    1|[Flood of Tears](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466813)      |                    1|[Thrashing Brontodon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456570)|
 |                    1|[Voracious Hydra](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466954)     |                    4|[Shifting Ceratops](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466948)  |
-|                    1|[Shifting Ceratops](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466948)   |                    1|[Voracious Hydra](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466954)    |
-|                    1|[The Great Henge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473123)     |                    1|[Sorcerous Spyglass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435407) |
-|                    2|[The Great Henge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473123)     |                    1|[Blast Zone](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461171)         |
-|                    2|[Fabled Passage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473206)      |                    1|[Questing Beast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473133)     |
+|                    1|[The Great Henge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473123)     |                    1|[Voracious Hydra](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466954)    |
+|                    2|[The Great Henge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473123)     |                    1|[Sorcerous Spyglass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435407) |
+|                    2|[Fabled Passage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473206)      |                    1|[Blast Zone](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461171)         |
+|                     |                                                                                               |                    1|[Questing Beast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473133)     |
 |                     |                                                                                               |                    1|[Agent of Treachery](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466797) |
 |                     |                                                                                               |                    1|[Quasiduplicate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452801)     |
-|                     |                                                                                               |                    1|[Mass Manipulation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457186)  |
-|                     |                                                                                               |                    2|[Thrashing Brontodon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456570)|
 

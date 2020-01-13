@@ -26,3 +26,10 @@
 |                                                                                              |2 [Plague Engineer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464049)|                                                                                            |                                                                                           |                                                                                                 |
 |                                                                                              |1 [Scavenging Ooze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420783)|                                                                                            |                                                                                           |                                                                                                 |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                      Maindeck Card                                      |*n*<sup>th</sup> copy|Sideboard Card|
+|--------------------:|-----------------------------------------------------------------------------------------|---------------------|--------------|
+|                    4|[Ice-Fang Coatl](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464152)|                     |              |
+
