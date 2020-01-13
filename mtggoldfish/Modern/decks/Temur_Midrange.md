@@ -38,8 +38,8 @@
 |                    2|[Wrenn and Six](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464166) |                    1|[Collector Ouphe](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464107)        |
 |                    3|[Wrenn and Six](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464166) |                    1|[Huntmaster of the Fells](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=262875)|
 |                     |                                                                                         |                    1|[Force of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464001)      |
-|                     |                                                                                         |                    2|[Collector Ouphe](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464107)        |
 |                     |                                                                                         |                    2|[Disdainful Stroke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420705)      |
+|                     |                                                                                         |                    2|[Collector Ouphe](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464107)        |
 |                     |                                                                                         |                    2|[Force of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464001)      |
 |                     |                                                                                         |                    2|[Ancient Grudge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=235600)         |
 

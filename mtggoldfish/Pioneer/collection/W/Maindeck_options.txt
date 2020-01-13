@@ -1,24 +1,29 @@
-1 Thalia's Lieutenant
-1 Declaration in Stone
-2 Brave the Elements
-2 Thalia's Lieutenant
-2 Dauntless Bodyguard
-3 Brave the Elements
-3 Thalia's Lieutenant
 3 Dauntless Bodyguard
-4 Thalia's Lieutenant
 4 Dauntless Bodyguard
-3 Knight of the White Orchid
 1 Benalish Marshal
 2 Benalish Marshal
 3 Benalish Marshal
 4 Benalish Marshal
+1 Knight of the White Orchid
+2 Knight of the White Orchid
+1 Thalia's Lieutenant
+2 Brave the Elements
+2 Thalia's Lieutenant
+3 Brave the Elements
+3 Thalia's Lieutenant
+4 Thalia's Lieutenant
+1 Shefet Dunes
+2 Shefet Dunes
+3 Knight of the White Orchid
+1 Thraben Inspector
+2 Thraben Inspector
+3 Thraben Inspector
+4 Thraben Inspector
+17 Plains
 1 The Circle of Loyalty
 1 Worthy Knight
 1 Venerable Knight
-1 Shefet Dunes
 1 History of Benalia
-2 Shefet Dunes
 2 Worthy Knight
 2 Venerable Knight
 2 Declaration in Stone
@@ -29,15 +34,21 @@
 4 Venerable Knight
 4 Worthy Knight
 4 History of Benalia
-17 Plains
 1 Kytheon, Hero of Akros
 4 Brave the Elements
-1 Thraben Inspector
-2 Thraben Inspector
-3 Thraben Inspector
-4 Thraben Inspector
 4 Knight of the White Orchid
+1 Mutavault
+1 Boros Elite
+2 Boros Elite
+3 Boros Elite
+4 Boros Elite
+1 Giant Killer
+2 Giant Killer
+3 Giant Killer
 1 Tomik, Distinguished Advokist
+1 Always Watching
+2 Always Watching
+3 Always Watching
 1 Lyra Dawnbringer
 1 Nykthos, Shrine to Nyx
 18 Plains
@@ -50,6 +61,22 @@
 1 Knight of Grace
 2 Knight of Grace
 4 Sram, Senior Edificer
+1 Law-Rune Enforcer
+1 Judge's Familiar
+1 Conclave Tribunal
+1 Venerated Loxodon
+1 Legion's Landing
+2 Law-Rune Enforcer
+2 Judge's Familiar
+2 Venerated Loxodon
+2 Legion's Landing
+3 Law-Rune Enforcer
+3 Legion's Landing
+3 Venerated Loxodon
+4 Law-Rune Enforcer
+4 Legion's Landing
+4 Venerated Loxodon
+4 Always Watching
 1 Gideon, Ally of Zendikar
 1 Acclaimed Contender
 2 Gideon, Ally of Zendikar
@@ -63,35 +90,30 @@
 1 Mastery of the Unseen
 1 Selfless Spirit
 1 Stasis Snare
-1 Giant Killer
 1 Anafenza, Kin-Tree Spirit
 1 Archangel of Tithes
 2 Tomik, Distinguished Advokist
 2 Lyra Dawnbringer
 2 Nykthos, Shrine to Nyx
-2 Selfless Spirit
 2 Stasis Snare
+2 Selfless Spirit
 2 Archangel of Tithes
 2 Mastery of the Unseen
-2 Giant Killer
 3 Nykthos, Shrine to Nyx
 3 Archangel of Tithes
 3 Selfless Spirit
-3 Giant Killer
 3 Stasis Snare
 3 Mastery of the Unseen
+4 Stasis Snare
 4 Mastery of the Unseen
 4 Giant Killer
-4 Stasis Snare
 4 Archangel of Tithes
-1 Mutavault
 1 Ajani, Caller of the Pride
 1 Banisher Priest
 1 Imposing Sovereign
 1 Rogue's Passage
 1 Precinct Captain
 1 Thalia, Heretic Cathar
-1 Boros Elite
 1 Hanweir Militia Captain
 2 Banisher Priest
 2 Mutavault
@@ -101,13 +123,10 @@
 2 Rogue's Passage
 2 Ajani, Caller of the Pride
 2 Kytheon, Hero of Akros
-2 Boros Elite
 3 Mutavault
 3 Hanweir Militia Captain
-3 Boros Elite
 3 Precinct Captain
 4 Precinct Captain
-4 Boros Elite
 4 Mutavault
 1 Hushbringer
 1 Archangel of Thune
@@ -115,7 +134,6 @@
 1 Resplendent Angel
 1 Sephara, Sky's Blade
 1 Bruna, the Fading Light
-1 Always Watching
 1 Gisela, the Broken Blade
 1 Ajani, Strength of the Pride
 1 Glory-Bound Initiate
@@ -123,7 +141,6 @@
 1 Healer's Hawk
 2 Shalai, Voice of Plenty
 2 Hushbringer
-2 Always Watching
 2 Resplendent Angel
 2 Healer's Hawk
 2 Ajani, Strength of the Pride
@@ -131,9 +148,8 @@
 2 Lone Rider
 2 Glory-Bound Initiate
 3 Hushbringer
-3 Ajani, Strength of the Pride
 3 Glory-Bound Initiate
-3 Always Watching
+3 Ajani, Strength of the Pride
 3 Gisela, the Broken Blade
 3 Lone Rider
 3 Healer's Hawk

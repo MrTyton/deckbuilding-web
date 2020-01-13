@@ -1,32 +1,35 @@
+2 Oblivion Sower
+4 Hashep Oasis
 4 Radiant Fountain
 1 Spatial Contortion
 2 Spatial Contortion
 3 Spatial Contortion
-1 Field of the Dead
-2 Field of the Dead
-2 Llanowar Elves
-1 Westvale Abbey
-1 Once Upon a Time
-2 Once Upon a Time
-3 Once Upon a Time
-3 Cavalier of Thorns
-4 Spatial Contortion
-1 Thought-Knot Seer
-3 Oblivion Sower
-1 Scavenger Grounds
 1 Elvish Mystic
 10 Forest
 11 Forest
 1 Ulvenwald Hydra
-1 Field of Ruin
-4 Once Upon a Time
-1 Yavimaya Coast
-1 Llanowar Wastes
+1 Field of the Dead
+2 Field of the Dead
+1 Westvale Abbey
+1 Once Upon a Time
+2 Once Upon a Time
+3 Once Upon a Time
+4 Spatial Contortion
+1 Thought-Knot Seer
 2 Elvish Mystic
 2 Walking Ballista
 3 Sanctum of Ugin
 4 Cavalier of Thorns
+3 Oblivion Sower
+1 Scavenger Grounds
+4 Once Upon a Time
+1 Yavimaya Coast
+1 Field of Ruin
+2 Ulvenwald Hydra
+1 Llanowar Wastes
 2 Blast Zone
+1 Crumbling Vestige
+1 Desert of the Indomitable
 3 Field of the Dead
 4 Field of the Dead
 1 Fabled Passage
@@ -45,12 +48,15 @@
 2 Growth Spiral
 3 Growth Spiral
 4 Growth Spiral
+1 Hedron Archive
 1 Sphinx's Revelation
 1 Temple of Enlightenment
 1 Sunpetal Grove
 1 Glacial Fortress
 1 Thornwood Falls
 1 Supreme Verdict
+1 Castle Vantress
+1 Scapeshift
 1 Scattered Groves
 1 Botanical Sanctum
 2 Sphinx's Revelation
@@ -59,25 +65,17 @@
 3 Supreme Verdict
 4 Teferi, Time Raveler
 4 Supreme Verdict
-1 Crumbling Vestige
-1 Desert of the Indomitable
-1 Tranquil Cove
-1 Hedron Archive
-2 Ulvenwald Hydra
-1 Castle Vantress
-1 Scapeshift
 3 Llanowar Elves
-1 Hinterland Harbor
 1 Tireless Tracker
 2 Tireless Tracker
 3 Tireless Tracker
+1 Urborg, Tomb of Yawgmoth
 1 Castle Locthwain
 1 Temple of Malady
 1 Hissing Quagmire
 1 Ifnir Deadlands
 1 Overgrown Tomb
 1 Thoughtseize
-1 Urborg, Tomb of Yawgmoth
 1 Fatal Push
 1 Swamp
 1 Blooming Marsh
@@ -86,48 +84,46 @@
 2 Thoughtseize
 2 Abrupt Decay
 2 Overgrown Tomb
-2 Swamp
 2 Fatal Push
+2 Swamp
 3 Thoughtseize
 3 Abrupt Decay
 4 Tireless Tracker
 4 Thoughtseize
 1 Hydroid Krasis
-1 Settle the Wreckage
-2 Plains
-2 Settle the Wreckage
+1 Tranquil Cove
 1 Courser of Kruphix
 1 Sheltered Thicket
 1 Cascading Cataracts
 1 Detention Sphere
-1 Lumbering Falls
-1 Fortified Village
-1 Brazen Borrower
-2 Brazen Borrower
-1 Narset, Parter of Veils
-2 Narset, Parter of Veils
+1 Hinterland Harbor
+1 Murderous Rider
 1 Jungle Hollow
 1 Legion's End
 1 Nissa, Vastwood Seer
-1 Murderous Rider
-2 Fabled Passage
 2 Murderous Rider
-1 Emrakul, the Promised End
+2 Fabled Passage
+1 Narset, Parter of Veils
+2 Narset, Parter of Veils
 1 Sea Gate Wreckage
+1 Emrakul, the Promised End
 2 Sea Gate Wreckage
 1 Nissa, Who Shakes the World
 2 Nissa, Who Shakes the World
 3 Ulvenwald Hydra
 3 Walking Ballista
 1 Fumigate
+1 Settle the Wreckage
 1 Agent of Treachery
 1 Ipnu Rivulet
 1 Shefet Dunes
 2 Hallowed Fountain
+2 Plains
 2 Fumigate
 2 Hydroid Krasis
 2 Island
 2 Temple Garden
+2 Settle the Wreckage
 2 Breeding Pool
 3 Settle the Wreckage
 3 Hydroid Krasis
@@ -152,12 +148,12 @@
 1 Nissa, Vital Force
 1 Chandra, Flamecaller
 1 Gateway Plaza
-1 Boros Guildgate
 1 Selesnya Guildgate
 1 Maze's End
 1 Orzhov Guildgate
 1 Golgari Guildgate
 1 Izzet Guildgate
+1 Boros Guildgate
 1 Gruul Guildgate
 1 Simic Guildgate
 1 Azorius Guildgate
@@ -170,9 +166,9 @@
 2 Oko, Thief of Crowns
 2 Chandra, Awakened Inferno
 2 Maze's End
+2 Gates Ablaze
 2 Gruul Guildgate
 2 Simic Guildgate
-2 Gates Ablaze
 3 Circuitous Route
 3 Oko, Thief of Crowns
 3 Chandra, Awakened Inferno

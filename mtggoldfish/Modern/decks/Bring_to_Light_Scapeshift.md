@@ -39,8 +39,8 @@
 |                    4|[Arcum's Astrolabe](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464169)   |                    1|[Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)     |
 |                    4|[Ice-Fang Coatl](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464152)      |                    2|[Force of Vigor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464113)       |
 |                    3|[Path to Exile](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220511)       |                    2|[Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)     |
-|                    1|[Mwonvuli Acid-Moss](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=118888)  |                    3|[Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)       |
+|                    1|[Mwonvuli Acid-Moss](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=118888)  |                    2|[Obstinate Baloth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438745)     |
 |                    1|[Oko, Thief of Crowns](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473159)|                    2|[Timely Reinforcements](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220074)|
-|                     |                                                                                               |                    2|[Obstinate Baloth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438745)     |
 |                     |                                                                                               |                    3|[Force of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464001)    |
+|                     |                                                                                               |                    3|[Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)       |
 

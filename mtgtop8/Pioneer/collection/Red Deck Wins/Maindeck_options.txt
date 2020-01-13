@@ -2,6 +2,8 @@
 2 Goblin Chainwhirler
 3 Goblin Chainwhirler
 4 Goblin Chainwhirler
+17 Mountain
+2 Embercleave
 1 Light Up the Stage
 2 Light Up the Stage
 1 Monastery Swiftspear
@@ -15,39 +17,26 @@
 3 Ghitu Lavarunner
 3 Light Up the Stage
 3 Wizard's Lightning
-4 Ghitu Lavarunner
 4 Wizard's Lightning
+4 Ghitu Lavarunner
 4 Light Up the Stage
-1 Bomat Courier
-2 Bomat Courier
-3 Bomat Courier
-4 Bomat Courier
-1 Eidolon of the Great Revel
-2 Eidolon of the Great Revel
-2 Embercleave
-17 Mountain
-3 Eidolon of the Great Revel
-4 Eidolon of the Great Revel
-1 Rekindling Phoenix
-2 Rekindling Phoenix
-3 Rekindling Phoenix
-4 Rekindling Phoenix
-1 Chandra, Acolyte of Flame
-2 Chandra, Acolyte of Flame
-3 Kari Zev, Skyship Raider
-1 Hazoret the Fervent
 1 Foundry Street Denizen
 2 Foundry Street Denizen
 3 Foundry Street Denizen
 4 Foundry Street Denizen
-1 Goblin Warchief
 1 Goblin Instigator
-2 Goblin Warchief
+1 Goblin Warchief
 2 Goblin Instigator
+2 Goblin Warchief
 18 Mountain
 1 Fanatical Firebrand
 2 Fanatical Firebrand
 3 Fanatical Firebrand
+1 Bomat Courier
+1 Hazoret the Fervent
+2 Bomat Courier
+3 Bomat Courier
+4 Bomat Courier
 1 Skirk Prospector
 1 Goblin Ringleader
 1 Siege-Gang Commander
@@ -66,6 +55,8 @@
 2 Dragon Fodder
 3 Goblin Instigator
 4 Goblin Instigator
+1 Eidolon of the Great Revel
+2 Eidolon of the Great Revel
 1 Viashino Pyromancer
 2 Viashino Pyromancer
 3 Viashino Pyromancer
@@ -93,18 +84,21 @@
 4 Inspiring Vantage
 4 Sacred Foundry
 4 Battlefield Forge
-1 Scavenger Grounds
+1 Rekindling Phoenix
 1 Hanweir Garrison
 2 Hanweir Garrison
-1 Skarrgan Hellkite
-2 Skarrgan Hellkite
-2 Zurgo Bellstriker
-3 Torbran, Thane of Red Fell
-3 Zurgo Bellstriker
 1 Abrade
 1 Rampaging Ferocidon
 2 Rampaging Ferocidon
 3 Rampaging Ferocidon
+1 Chandra, Acolyte of Flame
+1 Skarrgan Hellkite
+2 Skarrgan Hellkite
+2 Chandra, Acolyte of Flame
+2 Zurgo Bellstriker
+3 Torbran, Thane of Red Fell
+3 Kari Zev, Skyship Raider
+3 Zurgo Bellstriker
 1 Shock
 1 Experimental Frenzy
 2 Experimental Frenzy
@@ -127,6 +121,8 @@
 4 Dragon Fodder
 4 Goblin Piledriver
 4 Legion Warboss
+3 Eidolon of the Great Revel
+4 Eidolon of the Great Revel
 1 Burning-Tree Emissary
 1 Reckless Bushwhacker
 1 Earthshaker Khenra
@@ -145,6 +141,7 @@
 4 Reckless Bushwhacker
 4 Earthshaker Khenra
 4 Rakdos Cackler
+1 Rile
 1 Clifftop Retreat
 1 Gods Willing
 1 Plains
@@ -154,7 +151,6 @@
 1 Titan's Strength
 1 Reckless Rage
 1 Feather, the Redeemed
-1 Rile
 1 Gird for Battle
 1 Tenth District Legionnaire
 2 Rile

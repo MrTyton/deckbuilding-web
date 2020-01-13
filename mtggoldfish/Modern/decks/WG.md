@@ -70,9 +70,9 @@
 |                    3|[Windswept Heath](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405115)          |                     |                                                                                         |
 |                    4|[Elvish Reclaimer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466923)         |                     |                                                                                         |
 |                    4|[Path to Exile](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220511)            |                     |                                                                                         |
-|                    4|[Windswept Heath](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405115)          |                     |                                                                                         |
 |                    4|[Knight of the Reliquary](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=189145)  |                     |                                                                                         |
+|                    4|[Windswept Heath](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405115)          |                     |                                                                                         |
+|                    4|[Explore](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=451098)                  |                     |                                                                                         |
 |                    4|[Flagstones of Trokair](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=116733)    |                     |                                                                                         |
 |                    4|[Stoneforge Mystic](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=198383)        |                     |                                                                                         |
-|                    4|[Explore](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=451098)                  |                     |                                                                                         |
 

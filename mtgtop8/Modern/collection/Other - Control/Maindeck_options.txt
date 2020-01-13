@@ -9,14 +9,10 @@
 4 Search for Tomorrow
 1 Overgrown Tomb
 1 Prismatic Vista
-1 Veil of Summer
 1 Engineered Explosives
+1 Veil of Summer
 2 Tireless Tracker
 3 Snow-Covered Forest
-1 Courser of Kruphix
-1 Oboro, Palace in the Clouds
-2 Courser of Kruphix
-3 Forest
 1 Elvish Rejuvenator
 1 Verdant Catacombs
 1 Sakura-Tribe Scout
@@ -26,6 +22,10 @@
 3 Elvish Rejuvenator
 3 Cavern of Souls
 3 Sakura-Tribe Scout
+1 Courser of Kruphix
+1 Oboro, Palace in the Clouds
+2 Courser of Kruphix
+3 Forest
 1 Snow-Covered Swamp
 2 Field of Ruin
 3 Field of Ruin
@@ -36,16 +36,15 @@
 1 Marsh Flats
 1 Godless Shrine
 1 Sorin, Grim Nemesis
-1 Gideon Jura
 1 Wrath of God
+1 Gideon Jura
 1 Interplanar Beacon
 1 Silent Clearing
-1 Concealed Courtyard
 1 Gideon, Ally of Zendikar
+1 Concealed Courtyard
 1 Liliana of the Veil
 1 Sorin, Vengeful Bloodlord
 1 Liliana's Triumph
-1 Path to Exile
 1 Kaya, Orzhov Usurper
 1 Gideon of the Trials
 1 Gideon Blackblade
@@ -54,6 +53,7 @@
 1 Sorin, Lord of Innistrad
 1 Day of Judgment
 1 Cleansing Nova
+1 Path to Exile
 1 Oath of Kaya
 2 Mind Stone
 2 Snow-Covered Plains
@@ -64,26 +64,26 @@
 2 Marsh Flats
 2 Interplanar Beacon
 2 Liliana's Triumph
-2 Path to Exile
-2 Gideon Blackblade
 2 Kaya, Orzhov Usurper
+2 Gideon Blackblade
+2 Path to Exile
 2 Concealed Courtyard
 2 Elspeth, Knight-Errant
 2 Oath of Kaya
 2 Gideon Jura
 2 Wrath of God
-3 Path to Exile
 3 Gideon Blackblade
 3 Snow-Covered Plains
 3 Marsh Flats
 3 Interplanar Beacon
 3 Gideon of the Trials
+3 Path to Exile
 3 Gideon, Ally of Zendikar
 3 Godless Shrine
 4 Interplanar Beacon
-4 Path to Exile
 4 Marsh Flats
 4 Godless Shrine
+4 Path to Exile
 4 Field of Ruin
 1 Drown in the Loch
 1 Cryptic Command
@@ -101,11 +101,11 @@
 1 Desolate Lighthouse
 1 Mystical Teachings
 1 Abrupt Decay
+1 Kolaghan's Command
 1 Wilderness Reclamation
 1 Dead of Winter
 1 Ice-Fang Coatl
 1 Lochmere Serpent
-1 Kolaghan's Command
 1 Logic Knot
 1 Pull from Tomorrow
 1 Lightning Bolt
@@ -118,12 +118,12 @@
 1 Wandering Fumarole
 1 Snow-Covered Mountain
 1 Arcum's Astrolabe
-2 Wrenn and Six
 2 Arcum's Astrolabe
 2 Mystical Teachings
 2 Lightning Bolt
 2 Dead of Winter
 2 Prismatic Vista
+2 Wrenn and Six
 2 Ice-Fang Coatl
 3 Wrenn and Six
 3 Arcum's Astrolabe
@@ -133,20 +133,20 @@
 4 Ice-Fang Coatl
 4 Snow-Covered Island
 4 Arcum's Astrolabe
+1 Castle Locthwain
 1 Thought Scour
 1 Darkslick Shores
-1 Castle Locthwain
 1 Sunken Ruins
-1 Mana Leak
 1 Into the Story
 1 Drowned Catacomb
+1 Spell Snare
 1 Fatal Push
 1 Vendilion Clique
-1 Spell Snare
 1 Overwhelmed Apprentice
 1 Mystic Sanctuary
 1 Brazen Borrower
 1 Agony Warp
+1 Mana Leak
 1 Flooded Strand
 1 Sunken Hollow
 1 Opt
