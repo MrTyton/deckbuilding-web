@@ -59,8 +59,8 @@
 |[Bant Aggro](./mtgtop8/Legacy/decks/Bant_Aggro.md)            |[Dragon Stompy](./mtgtop8/Legacy/decks/Dragon_Stompy.md)          |[Infect](./mtgtop8/Legacy/decks/Infect.md)                |[Other - Control](./mtgtop8/Legacy/decks/Other_-_Control.md)  |[The Rock (Junk)](./mtgtop8/Legacy/decks/The_Rock_(Junk).md)      |
 |[Bant Control](./mtgtop8/Legacy/decks/Bant_Control.md)        |[Dredge](./mtgtop8/Legacy/decks/Dredge.md)                        |[Lands](./mtgtop8/Legacy/decks/Lands.md)                  |[Painter](./mtgtop8/Legacy/decks/Painter.md)                  |[UR Delver](./mtgtop8/Legacy/decks/UR_Delver.md)                  |
 |[Belcher](./mtgtop8/Legacy/decks/Belcher.md)                  |[Eldrazi Aggro](./mtgtop8/Legacy/decks/Eldrazi_Aggro.md)          |[Landstill](./mtgtop8/Legacy/decks/Landstill.md)          |[Patriot Aggro](./mtgtop8/Legacy/decks/Patriot_Aggro.md)      |[UWx Control](./mtgtop8/Legacy/decks/UWx_Control.md)              |
-|[Bomberman](./mtgtop8/Legacy/decks/Bomberman.md)              |[Elves](./mtgtop8/Legacy/decks/Elves.md)                          |[Loam](./mtgtop8/Legacy/decks/Loam.md)                    |[Pikula](./mtgtop8/Legacy/decks/Pikula.md)                    |                                                                  |
+|[Bomberman](./mtgtop8/Legacy/decks/Bomberman.md)              |[Elves](./mtgtop8/Legacy/decks/Elves.md)                          |[Loam](./mtgtop8/Legacy/decks/Loam.md)                    |[Pikula](./mtgtop8/Legacy/decks/Pikula.md)                    |[Zoo](./mtgtop8/Legacy/decks/Zoo.md)                              |
 
 
 
-#### Last Updated at 12:25AM on January 14, 2020
+#### Last Updated at 12:43PM on January 14, 2020
