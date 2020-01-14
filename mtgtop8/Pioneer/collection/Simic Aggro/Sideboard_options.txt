@@ -13,22 +13,22 @@
 2 Icy Blast
 2 Questing Beast
 1 Entrancing Melody
-1 Return to Nature
 1 Hunt the Hunter
+1 Return to Nature
 1 Unravel the Aether
 2 Unravel the Aether
 1 Tireless Tracker
-1 Spell Pierce
-1 Shapers' Sanctuary
-1 Sleep
-1 Feed the Clan
-2 Spell Pierce
-2 Shapers' Sanctuary
-2 Sleep
-2 Return to Nature
-2 Feed the Clan
 1 Prey Upon
 2 Prey Upon
+1 Spell Pierce
+1 Shapers' Sanctuary
+1 Feed the Clan
+1 Sleep
+2 Spell Pierce
+2 Shapers' Sanctuary
+2 Return to Nature
+2 Feed the Clan
+2 Sleep
 1 Rhonas the Indomitable
 1 Steel Leaf Champion
 1 Blink of an Eye
@@ -54,13 +54,12 @@
 2 Thrashing Brontodon
 3 Heroic Intervention
 3 Thrashing Brontodon
-1 Emrakul, the Promised End
-1 Cyclonic Rift
-1 Natural State
-2 Tireless Tracker
-2 Cyclonic Rift
-2 Natural State
-3 Natural State
+1 Fatal Push
+1 Thoughtseize
+2 Fatal Push
+2 Thoughtseize
+3 Thoughtseize
+4 Thoughtseize
 1 Nissa, Vital Force
 1 Vivien Reid
 2 Nissa, Vital Force
@@ -68,9 +67,10 @@
 3 Hunt the Hunter
 3 Scavenging Ooze
 4 Hunt the Hunter
-1 Thoughtseize
-1 Fatal Push
-2 Thoughtseize
-2 Fatal Push
-3 Thoughtseize
-4 Thoughtseize
+1 Emrakul, the Promised End
+1 Cyclonic Rift
+1 Natural State
+2 Tireless Tracker
+2 Cyclonic Rift
+2 Natural State
+3 Natural State

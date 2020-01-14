@@ -1,7 +1,3 @@
-1 Lotleth Troll
-2 Lotleth Troll
-3 Lotleth Troll
-4 Lotleth Troll
 1 Murderous Rider
 1 Grisly Salvage
 1 Soulflayer
@@ -22,87 +18,51 @@
 3 Swamp
 2 Murderous Rider
 3 Murderous Rider
-4 Hangarback Walker
 1 Questing Beast
 2 Questing Beast
 3 Questing Beast
 4 Murderous Rider
 1 Urborg, Tomb of Yawgmoth
-4 Questing Beast
 1 Nullhide Ferox
 1 Sylvan Caryatid
 2 Sylvan Caryatid
 3 Sylvan Caryatid
 4 Sylvan Caryatid
 3 Woodland Cemetery
-4 Vivien, Arkbow Ranger
+7 Forest
+3 Vivien, Arkbow Ranger
+4 Nissa, Voice of Zendikar
+2 Rishkar, Peema Renegade
+4 Hangarback Walker
 1 Gifted Aetherborn
 1 Samut, Voice of Dissent
-1 Hashep Oasis
-2 Hashep Oasis
+4 Questing Beast
 1 Rhonas the Indomitable
 1 Collective Brutality
 2 Collective Brutality
+4 Vivien, Arkbow Ranger
 4 Woodland Cemetery
-1 Castle Garenbrig
-4 Stonecoil Serpent
-1 Castle Locthwain
-8 Forest
+1 Hashep Oasis
+2 Hashep Oasis
 2 Rhonas the Indomitable
 4 Swamp
 2 Gifted Aetherborn
 2 Nullhide Ferox
-1 Satyr Wayfinder
 1 Commune with the Gods
+4 Stonecoil Serpent
+1 Castle Garenbrig
+8 Forest
+1 Castle Locthwain
+1 Satyr Wayfinder
 1 Blossoming Defense
 2 Blossoming Defense
 3 Blossoming Defense
-1 Temple of Malady
-1 Vraska, Golgari Queen
-1 Fatal Push
-2 Fatal Push
-1 Cavalier of Thorns
-1 Thoughtseize
-1 Emrakul, the Promised End
-1 Massacre Girl
-1 Gilded Goose
-1 Fabled Passage
-1 Witch's Oven
-1 Liliana, the Last Hope
-1 Cauldron Familiar
-1 Courser of Kruphix
-1 Trail of Crumbs
-2 Temple of Malady
-2 Liliana, the Last Hope
-2 Cavalier of Thorns
-2 Thoughtseize
-2 Gilded Goose
-2 Witch's Oven
-2 Cauldron Familiar
-2 Courser of Kruphix
-2 Trail of Crumbs
-2 Fabled Passage
-2 Castle Locthwain
-3 Temple of Malady
-3 Fatal Push
-3 Thoughtseize
-3 Cauldron Familiar
-3 Trail of Crumbs
-3 Fabled Passage
-3 Witch's Oven
-3 Gilded Goose
-3 Cavalier of Thorns
-4 Witch's Oven
-4 Cauldron Familiar
-4 Gilded Goose
-4 Fabled Passage
-4 Trail of Crumbs
 1 Grapple with the Past
-2 Grapple with the Past
 2 Satyr Wayfinder
+2 Grapple with the Past
 3 Nullhide Ferox
-3 Grapple with the Past
 3 Satyr Wayfinder
+3 Grapple with the Past
 4 Nullhide Ferox
 4 Grapple with the Past
 4 Satyr Wayfinder
@@ -119,6 +79,10 @@
 4 Traverse the Ulvenwald
 1 Karn's Bastion
 1 Abrupt Decay
+1 Temple of Malady
+1 Fatal Push
+2 Fatal Push
+1 Vraska, Golgari Queen
 1 Vampire of the Dire Moon
 1 Vessel of Nascency
 2 Vessel of Nascency
@@ -137,8 +101,8 @@
 1 Assassin's Trophy
 1 Westvale Abbey
 1 Tireless Tracker
-2 Slitherhead
 2 Vraska, Golgari Queen
+2 Slitherhead
 2 Abrupt Decay
 2 Tireless Tracker
 3 Slitherhead
@@ -152,10 +116,46 @@
 2 Samut, Voice of Dissent
 2 Chromanticore
 2 Blood Crypt
-3 Commune with the Gods
 3 Samut, Voice of Dissent
+3 Commune with the Gods
 3 Blood Crypt
 4 Samut, Voice of Dissent
+1 Thoughtseize
+1 Emrakul, the Promised End
+1 Massacre Girl
+1 Gilded Goose
+1 Fabled Passage
+1 Witch's Oven
+1 Liliana, the Last Hope
+1 Cauldron Familiar
+1 Courser of Kruphix
+1 Cavalier of Thorns
+1 Trail of Crumbs
+2 Liliana, the Last Hope
+2 Temple of Malady
+2 Thoughtseize
+2 Gilded Goose
+2 Witch's Oven
+2 Cauldron Familiar
+2 Cavalier of Thorns
+2 Courser of Kruphix
+2 Trail of Crumbs
+2 Fabled Passage
+2 Castle Locthwain
+3 Temple of Malady
+3 Fatal Push
+3 Thoughtseize
+3 Cauldron Familiar
+3 Trail of Crumbs
+3 Fabled Passage
+3 Witch's Oven
+3 Gilded Goose
+3 Cavalier of Thorns
+4 Witch's Oven
+4 Cauldron Familiar
+4 Gilded Goose
+4 Fabled Passage
+4 Trail of Crumbs
 1 Nykthos, Shrine to Nyx
 1 Verdurous Gearhulk
 2 Nykthos, Shrine to Nyx

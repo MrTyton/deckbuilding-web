@@ -37,6 +37,6 @@
 |                    2|[Bedevil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457301)|                    1|[Legion's End](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466860)        |
 |                     |                                                                                  |                    2|[Ashiok, Dream Render](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461155)|
 |                     |                                                                                  |                    1|[Angrath's Rampage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461112)   |
-|                     |                                                                                  |                    3|[Radiant Flames](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=402002)      |
 |                     |                                                                                  |                    2|[Angrath's Rampage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461112)   |
+|                     |                                                                                  |                    3|[Radiant Flames](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=402002)      |
 

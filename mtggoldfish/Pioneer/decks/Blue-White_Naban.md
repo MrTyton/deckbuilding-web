@@ -32,6 +32,6 @@
 |--------------------:|------------------------------------------------------------------------------------------|--------------------:|------------------------------------------------------------------------------------------|
 |                    1|[Censor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426748)         |                    1|[Aether Gust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466796)    |
 |                    1|[Master of Waves](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438441)|                    2|[Aether Gust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466796)    |
-|                    1|[Cast Out](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426710)       |                    3|[Supreme Verdict](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438776)|
-|                     |                                                                                          |                    4|[Supreme Verdict](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438776)|
+|                    1|[Cast Out](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426710)       |                    4|[Supreme Verdict](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438776)|
+|                     |                                                                                          |                    3|[Supreme Verdict](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438776)|
 

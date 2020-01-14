@@ -30,13 +30,18 @@
 
 # Other Options
 
-|*n*<sup>th</sup> copy|                                      Maindeck Card                                      |*n*<sup>th</sup> copy|                                     Sideboard Card                                      |
-|--------------------:|-----------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------|
-|                    1|[Opulent Palace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420930)|                    2|[Ritual of Soot](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452834)|
-|                    2|[Opulent Palace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420930)|                    3|[Ritual of Soot](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452834)|
-|                    2|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)        |                    1|[Ritual of Soot](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452834)|
-|                    3|[Overgrown Tomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405103)|                     |                                                                                         |
-|                    3|[Opulent Palace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420930)|                     |                                                                                         |
-|                    4|[Opulent Palace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420930)|                     |                                                                                         |
-|                    4|[Overgrown Tomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405103)|                     |                                                                                         |
+|*n*<sup>th</sup> copy|                                      Maindeck Card                                      |*n*<sup>th</sup> copy|                                        Sideboard Card                                         |
+|--------------------:|-----------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------------|
+|                    3|[Overgrown Tomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405103)|                    1|[Ritual of Soot](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452834)      |
+|                    1|[Ultimate Price](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394735)|                    2|[Ritual of Soot](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452834)      |
+|                    1|[Supreme Will](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430738)  |                    3|[Ritual of Soot](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452834)      |
+|                    2|[Ultimate Price](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394735)|                    1|[Assassin's Trophy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452902)   |
+|                    2|[Supreme Will](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430738)  |                    1|[Cry of the Carnarium](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457214)|
+|                    3|[Supreme Will](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430738)  |                    1|[Cerulean Drake](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466807)      |
+|                    1|[Opulent Palace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420930)|                    2|[Assassin's Trophy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452902)   |
+|                    2|[Opulent Palace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420930)|                    2|[Cry of the Carnarium](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457214)|
+|                    2|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)        |                    2|[Cerulean Drake](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466807)      |
+|                    3|[Opulent Palace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420930)|                     |                                                                                               |
+|                    4|[Opulent Palace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420930)|                     |                                                                                               |
+|                    4|[Overgrown Tomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405103)|                     |                                                                                               |
 

@@ -35,8 +35,8 @@
 |                    4|[Giant Killer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472976)         |                    1|[Flaxen Intruder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473117) |
 |                     |                                                                                                |                    1|[Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)|
 |                     |                                                                                                |                    1|[Dovin's Veto](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461120)    |
-|                     |                                                                                                |                    2|[Tithe Taker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457171)     |
 |                     |                                                                                                |                    2|[Kraul Harpooner](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452886) |
-|                     |                                                                                                |                    3|[Tithe Taker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457171)     |
 |                     |                                                                                                |                    2|[Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)|
+|                     |                                                                                                |                    2|[Tithe Taker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457171)     |
+|                     |                                                                                                |                    3|[Tithe Taker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457171)     |
 

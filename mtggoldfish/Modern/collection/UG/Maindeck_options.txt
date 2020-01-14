@@ -1,7 +1,3 @@
-1 Waterlogged Grove
-2 Breeding Pool
-2 Waterlogged Grove
-3 Waterlogged Grove
 1 Polluted Delta
 1 Spreading Seas
 1 Silvergill Adept
@@ -9,12 +5,13 @@
 1 Aether Vial
 1 Kumena's Speaker
 1 Master of the Pearl Trident
+1 Mutavault
 1 Snow-Covered Island
 1 Botanical Sanctum
 1 Merfolk Trickster
 1 Dismember
+1 Waterlogged Grove
 1 Lord of Atlantis
-1 Mutavault
 1 Force of Negation
 2 Spreading Seas
 2 Silvergill Adept
@@ -27,19 +24,22 @@
 2 Merfolk Trickster
 2 Force of Negation
 2 Dismember
+2 Waterlogged Grove
+2 Breeding Pool
 2 Botanical Sanctum
 2 Kumena's Speaker
 3 Force of Negation
+3 Mutavault
+3 Waterlogged Grove
 3 Lord of Atlantis
 3 Botanical Sanctum
 3 Merfolk Trickster
 3 Silvergill Adept
 3 Merfolk Mistbinder
+3 Spreading Seas
 3 Kumena's Speaker
 3 Master of the Pearl Trident
-3 Spreading Seas
 3 Aether Vial
-3 Mutavault
 3 Snow-Covered Island
 4 Snow-Covered Island
 4 Mutavault
@@ -52,52 +52,5 @@
 4 Merfolk Trickster
 4 Master of the Pearl Trident
 4 Silvergill Adept
-4 Merfolk Mistbinder
 5 Snow-Covered Island
-1 Gilded Goose
-1 Oath of Nissa
-1 Hydroid Krasis
-1 Nykthos, Shrine to Nyx
-1 Dryad Arbor
-1 Wistful Selkie
-1 Leyline of Abundance
-1 Genesis Hydra
-1 Nissa, Who Shakes the World
-1 Noble Hierarch
-1 Wooded Foothills
-1 Once Upon a Time
-1 Burning-Tree Emissary
-1 Birds of Paradise
-1 Windswept Heath
-2 Birds of Paradise
-2 Gilded Goose
-2 Oath of Nissa
-2 Hydroid Krasis
-2 Windswept Heath
-2 Leyline of Abundance
-2 Wistful Selkie
-2 Nykthos, Shrine to Nyx
-2 Genesis Hydra
-2 Wooded Foothills
-2 Nissa, Who Shakes the World
-2 Noble Hierarch
-2 Burning-Tree Emissary
-2 Once Upon a Time
-3 Once Upon a Time
-3 Forest
-3 Oath of Nissa
-3 Burning-Tree Emissary
-3 Nykthos, Shrine to Nyx
-3 Leyline of Abundance
-3 Nissa, Who Shakes the World
-3 Noble Hierarch
-4 Once Upon a Time
-4 Oath of Nissa
-4 Karn, the Great Creator
-4 Leyline of Abundance
-4 Burning-Tree Emissary
-4 Nykthos, Shrine to Nyx
-4 Forest
-4 Noble Hierarch
-5 Forest
-6 Forest
+4 Merfolk Mistbinder

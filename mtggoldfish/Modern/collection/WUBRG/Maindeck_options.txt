@@ -4,9 +4,9 @@
 1 Assassin's Trophy
 1 Teferi, Time Raveler
 1 Niv-Mizzet Reborn
-1 Blood Crypt
 1 Breeding Pool
 1 Verdant Catacombs
+1 Blood Crypt
 1 Birds of Paradise
 1 Bring to Light
 1 Plains
@@ -58,7 +58,45 @@
 3 Verdant Catacombs
 4 Windswept Heath
 4 Pillar of the Paruns
+1 Temple Garden
 1 Mountain
+1 Steam Vents
+1 Wooded Foothills
+1 Kiki-Jiki, Mirror Breaker
+1 Deceiver Exarch
+1 Noble Hierarch
+1 Mana Leak
+1 Utopia Sprawl
+1 Scalding Tarn
+1 Saheeli Rai
+1 Felidar Guardian
+2 Wooded Foothills
+2 Deceiver Exarch
+2 Kiki-Jiki, Mirror Breaker
+2 Teferi, Time Raveler
+2 Mana Leak
+2 Utopia Sprawl
+2 Scalding Tarn
+2 Felidar Guardian
+2 Saheeli Rai
+3 Scalding Tarn
+3 Arid Mesa
+3 Mana Leak
+3 Deceiver Exarch
+3 Felidar Guardian
+3 Teferi, Time Raveler
+3 Saheeli Rai
+3 Utopia Sprawl
+3 Wooded Foothills
+4 Wooded Foothills
+4 Teferi, Time Raveler
+4 Scalding Tarn
+4 Deceiver Exarch
+4 Utopia Sprawl
+4 Saheeli Rai
+4 Felidar Guardian
+4 Bring to Light
+4 Arid Mesa
 1 Ancient Ziggurat
 1 Insolent Neonate
 1 Smokebraider
@@ -87,8 +125,8 @@
 2 Lightning Skelemental
 2 Thunderkin Awakener
 2 Aether Vial
-2 Risen Reef
 2 Flamekin Harbinger
+2 Risen Reef
 2 Cavern of Souls
 2 Sunbaked Canyon
 2 Fiery Islet
@@ -98,10 +136,10 @@
 3 Flamekin Harbinger
 3 Cavern of Souls
 3 Sunbaked Canyon
-3 Fiery Islet
 3 Lightning Skelemental
 3 Risen Reef
 3 Vesperlark
+3 Fiery Islet
 3 Aether Vial
 3 Thunderkin Awakener
 3 Unclaimed Territory
@@ -116,44 +154,6 @@
 4 Vesperlark
 4 Risen Reef
 4 Lightning Skelemental
-1 Temple Garden
-1 Steam Vents
-1 Wooded Foothills
-1 Kiki-Jiki, Mirror Breaker
-1 Deceiver Exarch
-1 Noble Hierarch
-1 Mana Leak
-1 Utopia Sprawl
-1 Scalding Tarn
-1 Saheeli Rai
-1 Felidar Guardian
-2 Wooded Foothills
-2 Deceiver Exarch
-2 Kiki-Jiki, Mirror Breaker
-2 Teferi, Time Raveler
-2 Mana Leak
-2 Utopia Sprawl
-2 Scalding Tarn
-2 Felidar Guardian
-2 Saheeli Rai
-3 Scalding Tarn
-3 Arid Mesa
-3 Mana Leak
-3 Deceiver Exarch
-3 Felidar Guardian
-3 Teferi, Time Raveler
-3 Saheeli Rai
-3 Wooded Foothills
-3 Utopia Sprawl
-4 Wooded Foothills
-4 Scalding Tarn
-4 Deceiver Exarch
-4 Utopia Sprawl
-4 Saheeli Rai
-4 Felidar Guardian
-4 Bring to Light
-4 Arid Mesa
-4 Teferi, Time Raveler
 1 Horizon Canopy
 1 Snow-Covered Plains
 1 Grapeshot
@@ -172,7 +172,6 @@
 1 Cathar's Shield
 1 Sigil of Distinction
 2 Hallowed Fountain
-2 Snow-Covered Plains
 2 Repeal
 2 Sigil of Distinction
 2 Puresteel Paladin
@@ -182,6 +181,7 @@
 2 Paradise Mantle
 2 Flooded Strand
 2 Once Upon a Time
+2 Snow-Covered Plains
 2 Cathar's Shield
 2 Accorder's Shield
 2 Sram, Senior Edificer
@@ -198,13 +198,13 @@
 3 Paradise Mantle
 3 Once Upon a Time
 4 Flooded Strand
+4 Once Upon a Time
 4 Puresteel Paladin
 4 Accorder's Shield
 4 Spidersilk Net
-4 Once Upon a Time
 4 Paradise Mantle
 4 Mox Opal
-4 Retract
 4 Sigil of Distinction
 4 Sram, Senior Edificer
 4 Cathar's Shield
+4 Retract
