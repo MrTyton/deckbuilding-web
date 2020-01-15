@@ -1,8 +1,8 @@
 1 Plains
 1 Gilded Goose
 1 Teferi, Time Raveler
-2 Teferi, Time Raveler
 2 Birds of Paradise
+2 Teferi, Time Raveler
 2 Shalai, Voice of Plenty
 4 Vizier of Remedies
 4 Oko, Thief of Crowns
@@ -11,28 +11,33 @@
 1 Path to Exile
 2 Postmortem Lunge
 2 Forest
+1 Waterlogged Grove
 3 Horizon Canopy
+1 Oath of Nissa
+2 Deputy of Detention
+3 Postmortem Lunge
+4 Postmortem Lunge
 1 Verdant Catacombs
 2 Verdant Catacombs
-1 Overgrown Tomb
 1 Chord of Calling
 2 Chord of Calling
 3 Birds of Paradise
 3 Chord of Calling
 4 Birds of Paradise
+1 Overgrown Tomb
 1 Wall of Roots
+2 Wall of Roots
+1 Khalni Garden
 1 Blooming Marsh
-1 Nurturing Peatland
 1 Strangleroot Geist
-1 Eldritch Evolution
 1 Urborg, Tomb of Yawgmoth
+1 Eldritch Evolution
 1 Geralf's Messenger
 1 Twilight Mire
+1 Nurturing Peatland
 1 Blood Artist
-1 Khalni Garden
 1 Young Wolf
 1 Yawgmoth, Thran Physician
-2 Wall of Roots
 2 Blooming Marsh
 2 Overgrown Tomb
 2 Strangleroot Geist
@@ -41,6 +46,7 @@
 2 Young Wolf
 2 Yawgmoth, Thran Physician
 2 Eldritch Evolution
+2 Nurturing Peatland
 3 Verdant Catacombs
 3 Blooming Marsh
 3 Strangleroot Geist
@@ -57,37 +63,28 @@
 4 Geralf's Messenger
 4 Twilight Mire
 4 Wall of Roots
-1 Swamp
-1 Waterlogged Grove
-2 Snow-Covered Forest
-1 Oath of Nissa
-2 Deputy of Detention
-3 Postmortem Lunge
-4 Postmortem Lunge
-1 Scavenging Ooze
-4 Blooming Marsh
-2 Nurturing Peatland
+2 Waterlogged Grove
 4 Horizon Canopy
 1 Gavony Township
 1 Knight of Autumn
+1 Swamp
 4 Chord of Calling
-2 Waterlogged Grove
 1 Dryad Arbor
+1 Kitchen Finks
+2 Snow-Covered Forest
 1 Meddling Mage
 2 Knight of Autumn
+2 Breeding Pool
+1 Cavalier of Night
+4 Verdant Catacombs
 1 Hapatra, Vizier of Poisons
 1 Snow-Covered Swamp
 1 Thragtusk
+1 Scavenging Ooze
 2 Snow-Covered Swamp
-2 Breeding Pool
-1 Liliana, Heretical Healer
-2 Khalni Garden
-3 Khalni Garden
-1 Cavalier of Night
-4 Verdant Catacombs
+4 Blooming Marsh
 1 Carrion Feeder
 1 Collected Company
-1 Kitchen Finks
 1 Godless Shrine
 1 Marsh Flats
 2 Gavony Township
@@ -98,15 +95,18 @@
 3 Collected Company
 3 Kitchen Finks
 4 Collected Company
+3 Waterlogged Grove
+3 Misty Rainforest
+4 Misty Rainforest
 1 Hydroid Krasis
 1 Ice-Fang Coatl
 1 Tireless Tracker
 1 Arcum's Astrolabe
 1 Utopia Sprawl
-1 Prismatic Vista
 1 Snow-Covered Island
 1 Arbor Elf
 1 Karn, the Great Creator
+1 Prismatic Vista
 2 Prismatic Vista
 2 Hydroid Krasis
 2 Karn, the Great Creator
@@ -117,21 +117,46 @@
 3 Prismatic Vista
 3 Snow-Covered Forest
 3 Gilded Goose
-3 Waterlogged Grove
 3 Arbor Elf
-3 Ice-Fang Coatl
-3 Misty Rainforest
 3 Arcum's Astrolabe
 3 Karn, the Great Creator
+3 Ice-Fang Coatl
 3 Utopia Sprawl
 4 Snow-Covered Forest
 4 Karn, the Great Creator
 4 Prismatic Vista
 4 Gilded Goose
 4 Arcum's Astrolabe
-4 Misty Rainforest
 4 Ice-Fang Coatl
 4 Arbor Elf
+4 Utopia Sprawl
 5 Snow-Covered Forest
 6 Snow-Covered Forest
-4 Utopia Sprawl
+1 Steam Vents
+1 Glen Elendra Archmage
+1 Zealous Conscripts
+1 Sacred Foundry
+1 Corridor Monitor
+1 Prime Speaker Vannifar
+1 Renegade Rallier
+1 Wooded Foothills
+1 Rhythm of the Wild
+1 Restoration Angel
+1 Kiki-Jiki, Mirror Breaker
+1 Deceiver Exarch
+1 Fire-Lit Thicket
+1 Island
+1 Breaching Hippocamp
+1 Grove of the Burnwillows
+1 Collector Ouphe
+1 Bounding Krasis
+1 Stomping Ground
+2 Grove of the Burnwillows
+2 Prime Speaker Vannifar
+2 Rhythm of the Wild
+2 Kiki-Jiki, Mirror Breaker
+2 Wooded Foothills
+3 Prime Speaker Vannifar
+3 Rhythm of the Wild
+3 Wooded Foothills
+4 Wooded Foothills

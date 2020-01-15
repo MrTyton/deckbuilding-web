@@ -17,15 +17,15 @@
 1 Bomat Courier
 1 Lightning Strike
 1 Shock
-1 Atarka's Command
 1 Light Up the Stage
+1 Atarka's Command
 1 Monastery Swiftspear
 2 Lightning Strike
 2 Bomat Courier
 2 Shock
+2 Light Up the Stage
 2 Atarka's Command
 2 Monastery Swiftspear
-2 Light Up the Stage
 3 Bomat Courier
 3 Lightning Strike
 3 Shock
@@ -101,6 +101,10 @@
 2 Vivien, Arkbow Ranger
 3 Domri, Anarch of Bolas
 3 Rekindling Phoenix
+1 Legion Warboss
+2 Legion Warboss
+3 Legion Warboss
+4 Legion Warboss
 1 Kiora, Behemoth Beckoner
 1 Incendiary Flow
 2 Kiora, Behemoth Beckoner
@@ -133,10 +137,6 @@
 3 Skewer the Critics
 3 Crash Through
 4 Crash Through
-1 Legion Warboss
-2 Legion Warboss
-3 Legion Warboss
-4 Legion Warboss
 4 Collected Company
 1 Mana Confluence
 1 Torbran, Thane of Red Fell
@@ -188,8 +188,8 @@
 3 Temur Battle Rage
 3 Longtusk Cub
 3 Ghor-Clan Rampager
-4 Blossoming Defense
 4 Aether Hub
+4 Blossoming Defense
 4 Harnessed Lightning
 4 Bristling Hydra
 4 Ghor-Clan Rampager

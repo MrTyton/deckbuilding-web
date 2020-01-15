@@ -31,9 +31,9 @@
 
 |*n*<sup>th</sup> copy|                                           Maindeck Card                                           |*n*<sup>th</sup> copy|Sideboard Card|
 |--------------------:|---------------------------------------------------------------------------------------------------|---------------------|--------------|
-|                    1|[Welding Jar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=48328)              |                     |              |
 |                    1|[Chromatic Star](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=135279)          |                     |              |
 |                    1|[Wishclaw Talisman](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473072)       |                     |              |
+|                    1|[Welding Jar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=48328)              |                     |              |
 |                    1|[Aether Spellbomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220525)        |                     |              |
 |                    3|[Emry, Lurker of the Loch](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473005)|                     |              |
 |                    4|[Scalding Tarn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405107)           |                     |              |

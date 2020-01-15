@@ -17,25 +17,25 @@
 1 Plains
 1 Island
 2 Tropical Island
-1 True-Name Nemesis
 1 Noble Hierarch
+1 Daze
 1 Wasteland
+1 True-Name Nemesis
 1 Umezawa's Jitte
 1 Batterskull
 1 Stoneforge Mystic
 1 Sword of Fire and Ice
-1 Daze
 2 Noble Hierarch
-2 True-Name Nemesis
 2 Wasteland
+2 True-Name Nemesis
 2 Tundra
-2 Stoneforge Mystic
 2 Daze
-3 Wasteland
+2 Stoneforge Mystic
 3 Noble Hierarch
 3 Stoneforge Mystic
-3 True-Name Nemesis
 3 Daze
+3 True-Name Nemesis
+3 Wasteland
 4 Noble Hierarch
 4 Daze
 4 Wasteland
@@ -70,6 +70,16 @@
 3 Abrupt Decay
 3 Polluted Delta
 4 Oko, Thief of Crowns
+1 Ephemerate
+1 Toothy, Imaginary Friend
+1 Pir, Imaginative Rascal
+2 Snow-Covered Forest
+2 Ephemerate
+2 Toothy, Imaginary Friend
+2 Pir, Imaginative Rascal
+3 Windswept Heath
+3 Prismatic Vista
+4 Prismatic Vista
 1 Accumulated Knowledge
 2 Accumulated Knowledge
 3 Accumulated Knowledge
@@ -115,16 +125,6 @@
 4 Mishra's Bauble
 4 Ancient Tomb
 4 Seat of the Synod
-1 Ephemerate
-1 Toothy, Imaginary Friend
-1 Pir, Imaginative Rascal
-2 Snow-Covered Forest
-2 Ephemerate
-2 Toothy, Imaginary Friend
-2 Pir, Imaginative Rascal
-3 Windswept Heath
-3 Prismatic Vista
-4 Prismatic Vista
 1 Sylvan Library
 1 Birds of Paradise
 1 Elspeth, Knight-Errant

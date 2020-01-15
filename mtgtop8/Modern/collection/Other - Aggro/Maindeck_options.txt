@@ -1,115 +1,78 @@
-3 Once Upon a Time
-1 Hexdrinker
-2 Hexdrinker
-1 Snow-Covered Forest
-2 Snow-Covered Forest
-3 Snow-Covered Forest
-4 Snow-Covered Forest
-1 Ice-Fang Coatl
-1 Snow-Covered Island
-2 Ice-Fang Coatl
-2 Breeding Pool
-3 Ice-Fang Coatl
-4 Ice-Fang Coatl
-1 Misty Rainforest
-2 Misty Rainforest
-1 Overgrown Tomb
-1 Snapcaster Mage
-1 Polluted Delta
 1 Fatal Push
-1 Watery Grave
 1 Inquisition of Kozilek
 1 Thoughtseize
 2 Watery Grave
 2 Overgrown Tomb
-2 Fatal Push
 2 Polluted Delta
 2 Snapcaster Mage
 2 Thoughtseize
+2 Fatal Push
 2 Inquisition of Kozilek
-3 Fatal Push
 3 Thoughtseize
+3 Fatal Push
 3 Inquisition of Kozilek
 4 Fatal Push
+1 Snow-Covered Forest
+2 Snow-Covered Forest
+3 Snow-Covered Forest
+4 Snow-Covered Forest
 1 Fallen Shinobi
-1 Creeping Tar Pit
-1 Bitterblossom
 1 Mana Leak
-1 Snow-Covered Swamp
+1 Bitterblossom
+1 Creeping Tar Pit
+1 Ice-Fang Coatl
 1 Gonti, Lord of Luxury
 1 Abrupt Decay
+1 Snow-Covered Swamp
 1 Ingenious Infiltrator
 1 Faerie Seer
+1 Snow-Covered Island
 1 Higure, the Still Wind
 2 Snow-Covered Swamp
+2 Mana Leak
 2 Bitterblossom
+2 Ice-Fang Coatl
 2 Snow-Covered Island
 2 Abrupt Decay
 2 Fallen Shinobi
 2 Gonti, Lord of Luxury
-2 Mana Leak
 2 Faerie Seer
 2 Ingenious Infiltrator
+2 Breeding Pool
 3 Snow-Covered Swamp
-3 Abrupt Decay
-3 Snow-Covered Island
-3 Mana Leak
-3 Polluted Delta
 3 Ingenious Infiltrator
+3 Snow-Covered Island
+3 Ice-Fang Coatl
+3 Polluted Delta
+3 Mana Leak
+3 Abrupt Decay
 3 Faerie Seer
-4 Ingenious Infiltrator
 4 Snow-Covered Island
+4 Ice-Fang Coatl
+4 Ingenious Infiltrator
 4 Polluted Delta
 4 Faerie Seer
-1 Prismatic Vista
-1 Scavenging Ooze
-2 Prismatic Vista
-2 Scavenging Ooze
-3 Prismatic Vista
-5 Snow-Covered Forest
-6 Snow-Covered Forest
-7 Snow-Covered Forest
-8 Snow-Covered Forest
-1 Noble Hierarch
-2 Noble Hierarch
-1 Courser of Kruphix
-1 Nissa, Who Shakes the World
-1 Nissa, Steward of Elements
-1 Field of Ruin
-1 Tireless Tracker
-1 Oath of Nissa
-1 Jace, the Mind Sculptor
-2 Courser of Kruphix
-2 Field of Ruin
-2 Tireless Tracker
-2 Oath of Nissa
-2 Jace, the Mind Sculptor
-3 Field of Ruin
-3 Courser of Kruphix
-3 Oath of Nissa
-3 Misty Rainforest
-4 Misty Rainforest
-4 Prismatic Vista
-4 Oko, Thief of Crowns
 1 Seasoned Pyromancer
 1 Blood Moon
 1 Forgotten Cave
 2 Seasoned Pyromancer
 2 Blood Moon
 3 Blood Moon
+3 Oko, Thief of Crowns
 3 Seasoned Pyromancer
-4 Wrenn and Six
 4 Seasoned Pyromancer
+4 Wrenn and Six
 4 Blood Moon
 1 Swamp
 1 Grim Flayer
-1 Brazen Borrower
-1 Liliana of the Veil
 1 Stubborn Denial
+1 Liliana of the Veil
 1 Assassin's Trophy
 1 Island
 1 Tarmogoyf
 1 Blooming Marsh
+1 Misty Rainforest
+1 Brazen Borrower
 1 Traverse the Ulvenwald
 1 Mishra's Bauble
 2 Grim Flayer
@@ -118,9 +81,10 @@
 2 Liliana of the Veil
 2 Assassin's Trophy
 2 Traverse the Ulvenwald
-2 Mishra's Bauble
 2 Brazen Borrower
+2 Misty Rainforest
 2 Tarmogoyf
+2 Mishra's Bauble
 2 Stubborn Denial
 3 Blooming Marsh
 3 Grim Flayer
@@ -132,26 +96,33 @@
 4 Mishra's Bauble
 4 Thoughtseize
 4 Tarmogoyf
+1 Hexdrinker
+2 Hexdrinker
+1 Karn, the Great Creator
 1 Goblin Rabblemaster
 1 Chandra, Awakened Inferno
 1 Castle Embereth
 1 Pillage
+2 Karn, the Great Creator
 2 Pillage
 2 Goblin Rabblemaster
 3 Mountain
+3 Karn, the Great Creator
 3 Pillage
 3 Goblin Rabblemaster
 4 Mountain
 4 Once Upon a Time
+4 Karn, the Great Creator
 4 Pillage
 1 Seachrome Coast
 1 Temple Garden
+1 Razorverge Thicket
+1 Plains
 1 Unsettled Mariner
 1 Hardened Scales
-1 Kazandu Blademaster
-1 Hallowed Fountain
 1 Thalia's Lieutenant
-1 Razorverge Thicket
+1 Hallowed Fountain
+1 Noble Hierarch
 1 Hada Freeblade
 1 Champion of the Parish
 1 Collected Company
@@ -159,12 +130,13 @@
 1 Avacyn's Pilgrim
 1 Cavern of Souls
 1 Horizon Canopy
-1 Plains
 1 Oran-Rief Survivalist
 1 Reflector Mage
-2 Horizon Canopy
+1 Kazandu Blademaster
 2 Unsettled Mariner
+2 Horizon Canopy
 2 Kazandu Blademaster
+2 Noble Hierarch
 2 Hardened Scales
 2 Hada Freeblade
 2 Champion of the Parish
@@ -174,18 +146,19 @@
 2 Oran-Rief Survivalist
 2 Cavern of Souls
 2 Collected Company
-3 Horizon Canopy
 3 Cavern of Souls
+3 Collected Company
 3 Hada Freeblade
 3 Champion of the Parish
 3 Reflector Mage
+3 Horizon Canopy
 3 Kazandu Blademaster
 3 Oran-Rief Survivalist
 3 Hardened Scales
-3 Collected Company
 3 Thalia's Lieutenant
 3 Noble Hierarch
 3 Razorverge Thicket
+4 Noble Hierarch
 4 Hada Freeblade
 4 Collected Company
 4 Reflector Mage
@@ -193,45 +166,53 @@
 4 Hardened Scales
 4 Thalia's Lieutenant
 4 Kazandu Blademaster
-4 Noble Hierarch
 4 Oran-Rief Survivalist
 4 Cavern of Souls
-1 Arcum's Astrolabe
+1 Prismatic Vista
 1 Llanowar Elves
-1 Vines of Vastwood
-1 Aspect of Hydra
-1 Steel Leaf Champion
 1 Strangleroot Geist
-1 Rancor
 1 Shapers' Sanctuary
+1 Arcum's Astrolabe
+1 Vines of Vastwood
+1 Scavenging Ooze
+1 Steel Leaf Champion
+1 Rancor
+1 Aspect of Hydra
 1 Castle Garenbrig
 1 Barkhide Troll
 1 Burning-Tree Emissary
 1 Dryad Militant
-2 Arcum's Astrolabe
 2 Llanowar Elves
-2 Aspect of Hydra
-2 Vines of Vastwood
-2 Steel Leaf Champion
 2 Strangleroot Geist
+2 Prismatic Vista
+2 Arcum's Astrolabe
+2 Vines of Vastwood
+2 Scavenging Ooze
+2 Steel Leaf Champion
 2 Rancor
 2 Burning-Tree Emissary
 2 Barkhide Troll
 2 Dryad Militant
-3 Arcum's Astrolabe
-3 Hexdrinker
-3 Aspect of Hydra
-3 Vines of Vastwood
-3 Steel Leaf Champion
+2 Aspect of Hydra
 3 Strangleroot Geist
-3 Rancor
+3 Hexdrinker
+3 Arcum's Astrolabe
+3 Vines of Vastwood
 3 Scavenging Ooze
-4 Rancor
+3 Prismatic Vista
+3 Steel Leaf Champion
+3 Rancor
+3 Aspect of Hydra
 4 Hexdrinker
-4 Aspect of Hydra
-4 Strangleroot Geist
 4 Scavenging Ooze
+4 Strangleroot Geist
+4 Aspect of Hydra
+4 Rancor
 4 Vines of Vastwood
+5 Snow-Covered Forest
+6 Snow-Covered Forest
+7 Snow-Covered Forest
+8 Snow-Covered Forest
 9 Snow-Covered Forest
 10 Snow-Covered Forest
 11 Snow-Covered Forest
@@ -247,12 +228,12 @@
 2 Glorybringer
 3 Vengevine
 3 Gruul Spellbreaker
-3 Magus of the Moon
 3 Glorybringer
+3 Magus of the Moon
 4 Vengevine
 4 Gruul Spellbreaker
-4 Magus of the Moon
 4 Glorybringer
+4 Magus of the Moon
+6 Forest
 7 Forest
 8 Forest
-6 Forest
