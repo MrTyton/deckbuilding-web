@@ -1,5 +1,5 @@
-1 Arlinn Kord
 1 Kolaghan's Command
+1 Arlinn Kord
 3 Abrupt Decay
 1 Drown in the Loch
 1 Servant of the Conduit
@@ -10,26 +10,26 @@
 4 Attune with Aether
 4 Servant of the Conduit
 4 Blooming Marsh
+1 Fatal Push
+2 Fatal Push
 1 Traverse the Ulvenwald
-1 Tomebound Lich
 1 Thoughtseize
+1 Tomebound Lich
 1 Grisly Salvage
 1 Soulflayer
 1 Zetalpa, Primal Dawn
-1 Fatal Push
 1 Samut, Voice of Dissent
 1 Gather the Pack
 1 Striped Riverwinder
 2 Swamp
 2 Striped Riverwinder
+2 Samut, Voice of Dissent
 2 Thoughtseize
 2 Soulflayer
-2 Fatal Push
 2 Zetalpa, Primal Dawn
 2 Grisly Salvage
 2 Gather the Pack
 2 Tomebound Lich
-2 Samut, Voice of Dissent
 3 Mana Confluence
 3 Soulflayer
 3 Zetalpa, Primal Dawn
@@ -41,32 +41,32 @@
 3 Striped Riverwinder
 4 Fabled Passage
 4 Botanical Sanctum
-4 Mana Confluence
 4 Grisly Salvage
 4 Striped Riverwinder
+4 Mana Confluence
 4 Zetalpa, Primal Dawn
 4 Thoughtseize
 4 Tomebound Lich
 4 Soulflayer
 1 Fires of Invention
-1 Hallowed Fountain
 2 Fires of Invention
 3 Fires of Invention
 4 Fires of Invention
+1 The Scarab God
+2 The Scarab God
+1 Hallowed Fountain
 1 Saheeli Rai
-1 Vessel of Nascency
 1 Lotleth Troll
+1 Vessel of Nascency
 2 Vessel of Nascency
 2 Traverse the Ulvenwald
 2 The Royal Scions
 1 Sorin, Vengeful Bloodlord
-1 The Scarab God
 1 Spirebluff Canal
 2 Whirler Virtuoso
-2 The Scarab God
 4 Niv-Mizzet Reborn
-1 Tyrant's Scorn
 1 Knight of Autumn
+1 Tyrant's Scorn
 4 Sylvan Caryatid
 1 Duress
 1 Jace, Vryn's Prodigy
@@ -76,44 +76,44 @@
 4 Gather the Pack
 1 Frontier Bivouac
 1 Utter End
-1 Cut/Ribbons
 1 Godless Shrine
+1 Cut/Ribbons
 4 Bring to Light
+1 Fae of Wishes
+1 Chandra, Torch of Defiance
+1 Steam Vents
+2 Fae of Wishes
+2 Steam Vents
+2 Chandra, Torch of Defiance
+3 Steam Vents
 1 Chandra, Flamecaller
 1 Kenrith, the Returned King
-1 Fae of Wishes
 1 Interplanar Beacon
-1 Narset, Parter of Veils
 1 Sarkhan the Masterless
-1 Anger of the Gods
+1 Narset, Parter of Veils
 1 Castle Vantress
 1 Battlefield Forge
 1 Shivan Reef
-1 Steam Vents
-1 Chandra, Torch of Defiance
-1 Gideon of the Trials
+1 Anger of the Gods
 1 Shimmer of Possibility
+1 Gideon of the Trials
 1 Sacred Foundry
 2 Kenrith, the Returned King
 2 Sarkhan the Masterless
-2 Fae of Wishes
 2 Interplanar Beacon
-2 Anger of the Gods
 2 Sacred Foundry
 2 Battlefield Forge
-2 Shivan Reef
+2 Island
 2 Shimmer of Possibility
 2 Narset, Parter of Veils
 2 Castle Vantress
 2 Supreme Verdict
-2 Steam Vents
-2 Island
-2 Chandra, Torch of Defiance
 2 Hallowed Fountain
+2 Anger of the Gods
+2 Shivan Reef
 3 Fae of Wishes
 3 Narset, Parter of Veils
 3 Anger of the Gods
-3 Steam Vents
 3 Interplanar Beacon
 3 Sacred Foundry
 3 Supreme Verdict
@@ -123,9 +123,50 @@
 3 Hallowed Fountain
 4 Fae of Wishes
 4 Teferi, Time Raveler
-4 Steam Vents
 4 Hallowed Fountain
-4 Interplanar Beacon
+4 Steam Vents
 4 Battlefield Forge
 4 Shivan Reef
+4 Interplanar Beacon
 4 Narset, Parter of Veils
+1 Glorybringer
+1 Silumgar's Command
+1 Bedevil
+1 Wandering Fumarole
+1 Supreme Will
+1 Sweltering Suns
+1 Hostage Taker
+1 Languish
+1 Liliana, Death's Majesty
+1 Sulfur Falls
+1 Blood Crypt
+1 Glint-Sleeve Siphoner
+1 Watery Grave
+1 Jace, Architect of Thought
+1 Drowned Catacomb
+1 Champion of Wits
+1 Drawn from Dreams
+1 Dragonskull Summit
+1 Ravenous Chupacabra
+2 Glorybringer
+2 Wandering Fumarole
+2 Sweltering Suns
+2 Blood Crypt
+2 Dragonskull Summit
+2 Watery Grave
+2 Drowned Catacomb
+2 Glint-Sleeve Siphoner
+2 Champion of Wits
+3 Chandra, Torch of Defiance
+3 Champion of Wits
+3 Dragonskull Summit
+3 Glint-Sleeve Siphoner
+3 Blood Crypt
+3 The Scarab God
+3 Watery Grave
+3 Drowned Catacomb
+4 Glint-Sleeve Siphoner
+4 Drowned Catacomb
+4 Dragonskull Summit
+4 Watery Grave
+4 Blood Crypt

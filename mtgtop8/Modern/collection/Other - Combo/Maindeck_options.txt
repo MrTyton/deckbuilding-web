@@ -1,9 +1,10 @@
 1 Urborg, Tomb of Yawgmoth
 1 Grinding Station
-1 Kethis, the Hidden Hand
 1 Eiganjo Castle
+1 Kethis, the Hidden Hand
 1 Mishra's Bauble
 1 Unearth
+1 Hope of Ghirapur
 1 Jace, Wielder of Mysteries
 1 Wishclaw Talisman
 1 Teferi, Time Raveler
@@ -12,21 +13,20 @@
 1 Minamo, School at Water's Edge
 1 Mox Opal
 1 Sai, Master Thopterist
-1 Hope of Ghirapur
 2 Sai, Master Thopterist
 2 Grinding Station
 2 Kethis, the Hidden Hand
 2 Mishra's Bauble
 2 Unearth
-2 Hope of Ghirapur
 2 Emry, Lurker of the Loch
+2 Hope of Ghirapur
 2 Mox Opal
 2 Mox Amber
-3 Hope of Ghirapur
 3 Unearth
 3 Kethis, the Hidden Hand
 3 Mishra's Bauble
 3 Grinding Station
+3 Hope of Ghirapur
 3 Mox Opal
 3 Mox Amber
 3 Emry, Lurker of the Loch
@@ -79,8 +79,8 @@
 3 Arcum's Astrolabe
 4 Arcum's Astrolabe
 1 Botanical Sanctum
-1 Lonely Sandbar
 1 Yavimaya Coast
+1 Lonely Sandbar
 1 Dream's Grip
 1 Ideas Unbound
 1 Psychic Puppetry
@@ -94,6 +94,7 @@
 1 Lotus Field
 1 Vizier of Tumbling Sands
 2 Yavimaya Coast
+2 Lonely Sandbar
 2 Ideas Unbound
 2 Sylvan Scrying
 2 Vizier of Tumbling Sands
@@ -101,7 +102,6 @@
 2 Psychic Puppetry
 2 Reach Through Mists
 2 Peer Through Depths
-2 Lonely Sandbar
 2 Lotus Field
 2 Botanical Sanctum
 2 Dream's Grip
@@ -109,19 +109,19 @@
 2 Twiddle
 3 Botanical Sanctum
 3 Yavimaya Coast
+3 Lonely Sandbar
 3 Reach Through Mists
 3 Psychic Puppetry
 3 Peer Through Depths
-3 Lonely Sandbar
 3 Lotus Field
 3 Dream's Grip
 3 Twiddle
 3 Ideas Unbound
-4 Botanical Sanctum
+4 Lonely Sandbar
 4 Yavimaya Coast
+4 Botanical Sanctum
 4 Lotus Field
 4 Psychic Puppetry
-4 Lonely Sandbar
 4 Reach Through Mists
 4 Dream's Grip
 4 Ideas Unbound
@@ -131,12 +131,12 @@
 1 Gilded Goose
 1 Oko, Thief of Crowns
 1 Breeding Pool
-1 Nexus of Fate
 1 Wilderness Reclamation
 1 Fact or Fiction
 1 Ice-Fang Coatl
 1 Field of Ruin
 1 Flooded Strand
+1 Nexus of Fate
 1 Life from the Loam
 2 Flooded Strand
 2 Snow-Covered Forest
@@ -144,34 +144,34 @@
 2 Misty Rainforest
 2 Gilded Goose
 2 Oko, Thief of Crowns
-2 Wilderness Reclamation
+2 Nexus of Fate
 2 Fact or Fiction
+2 Wilderness Reclamation
 2 Snow-Covered Island
 2 Mystic Sanctuary
 2 Field of Ruin
-2 Nexus of Fate
 2 Ice-Fang Coatl
 3 Field of Ruin
 3 Snow-Covered Island
 3 Flooded Strand
 3 Once Upon a Time
 3 Gilded Goose
-3 Nexus of Fate
+3 Fact or Fiction
 3 Wilderness Reclamation
+3 Nexus of Fate
 3 Misty Rainforest
 3 Oko, Thief of Crowns
-3 Fact or Fiction
 3 Ice-Fang Coatl
 4 Snow-Covered Island
 4 Field of Ruin
 4 Flooded Strand
 4 Once Upon a Time
 4 Gilded Goose
+4 Wilderness Reclamation
 4 Misty Rainforest
 4 Ice-Fang Coatl
 4 Cryptic Command
 4 Oko, Thief of Crowns
-4 Wilderness Reclamation
 4 Nexus of Fate
 5 Snow-Covered Island
 6 Snow-Covered Island

@@ -37,11 +37,11 @@
 
 |*n*<sup>th</sup> copy|                                        Maindeck Card                                         |*n*<sup>th</sup> copy|                                         Sideboard Card                                          |
 |--------------------:|----------------------------------------------------------------------------------------------|--------------------:|-------------------------------------------------------------------------------------------------|
-|                    1|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)              |                    1|[March of the Machines](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=106555) |
-|                    1|[Overgrown Tomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405103)     |                    1|[Thragtusk](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430614)             |
-|                    1|[Search for Tomorrow](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205408)|                    1|[Melira, Sylvok Outcast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=194274)|
-|                    1|[Prismatic Vista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464193)    |                    1|[Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)        |
-|                    2|[Search for Tomorrow](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205408)|                    1|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)        |
+|                    1|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)              |                    1|[Melira, Sylvok Outcast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=194274)|
+|                    1|[Overgrown Tomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405103)     |                    1|[March of the Machines](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=106555) |
+|                    1|[Search for Tomorrow](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205408)|                    1|[Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)        |
+|                    1|[Prismatic Vista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464193)    |                    1|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)        |
+|                    2|[Search for Tomorrow](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205408)|                    1|[Thragtusk](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430614)             |
 |                    3|[Search for Tomorrow](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205408)|                    2|[Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)        |
 |                     |                                                                                              |                    3|[Dismember](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382182)             |
 

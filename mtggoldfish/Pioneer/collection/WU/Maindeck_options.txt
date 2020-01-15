@@ -1,33 +1,3 @@
-1 Essence Scatter
-1 Jace, Architect of Thought
-1 Last Breath
-2 Teferi, Hero of Dominaria
-2 Narset, Parter of Veils
-2 Supreme Verdict
-2 Field of Ruin
-2 Essence Scatter
-2 Jace, Architect of Thought
-2 Last Breath
-2 Sphinx's Revelation
-3 Supreme Verdict
-3 Detention Sphere
-3 Sphinx's Revelation
-4 Supreme Verdict
-1 Blast Zone
-1 Supreme Will
-1 Anticipate
-1 Brave the Elements
-1 Unsummon
-1 Treasure Cruise
-1 Opt
-1 Syncopate
-1 Essence Flux
-1 Monastery Mentor
-2 Fabled Passage
-2 Anticipate
-2 Supreme Will
-2 Treasure Cruise
-2 Brave the Elements
 2 Syncopate
 2 Monastery Mentor
 2 Essence Flux
@@ -35,9 +5,9 @@
 2 Opt
 3 Fabled Passage
 3 Brave the Elements
-3 Monastery Mentor
 3 Opt
 3 Syncopate
+3 Monastery Mentor
 4 Fabled Passage
 4 Monastery Mentor
 4 Opt
@@ -45,14 +15,20 @@
 1 Elite Guardmage
 1 Hero of Precinct One
 1 Reflector Mage
+1 Depose/Deploy
+1 Mutavault
 1 Judge's Familiar
+1 Port Town
 1 Ojutai's Command
 2 Reflector Mage
 2 Elite Guardmage
 2 Hero of Precinct One
 2 Ojutai's Command
 2 Selfless Spirit
+2 Mutavault
 2 Judge's Familiar
+2 Depose/Deploy
+2 Port Town
 3 Hero of Precinct One
 3 Reflector Mage
 3 Dovin's Veto
@@ -60,34 +36,27 @@
 4 Hero of Precinct One
 4 Reflector Mage
 4 Judge's Familiar
-1 Brazen Borrower
-1 Spectral Sailor
-1 Empyrean Eagle
-1 Quench
-1 Rattlechains
-1 Favorable Winds
-1 Mausoleum Wanderer
-1 Dimensional Infiltrator
-2 Brazen Borrower
-2 Spectral Sailor
-2 Empyrean Eagle
-2 Quench
-2 Rattlechains
-2 Dimensional Infiltrator
-2 Favorable Winds
-2 Mausoleum Wanderer
-3 Rattlechains
-3 Brazen Borrower
-3 Spectral Sailor
-3 Dimensional Infiltrator
-3 Favorable Winds
-3 Mausoleum Wanderer
-3 Port Town
-3 Depose/Deploy
-4 Rattlechains
-4 Brazen Borrower
-4 Spectral Sailor
-4 Dimensional Infiltrator
-4 Port Town
-4 Favorable Winds
-7 Island
+1 Field of Ruin
+1 Search for Azcanta
+1 Castle Vantress
+1 Supreme Verdict
+1 Elixir of Immortality
+1 Blessed Alliance
+1 Narset, Parter of Veils
+1 Sphinx's Revelation
+1 Jace, Architect of Thought
+1 Essence Scatter
+1 Last Breath
+2 Teferi, Hero of Dominaria
+2 Narset, Parter of Veils
+2 Supreme Verdict
+2 Field of Ruin
+2 Sphinx's Revelation
+2 Jace, Architect of Thought
+2 Last Breath
+2 Essence Scatter
+3 Supreme Verdict
+3 Sphinx's Revelation
+3 Detention Sphere
+4 Supreme Verdict
+6 Island

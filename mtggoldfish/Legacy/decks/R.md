@@ -1,0 +1,22 @@
+# R
+
+#### [Export MTGO List](../collection/R/R.txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Chain%20Lightning%0A4%09Eidolon%20of%20the%20Great%20Revel%0A1%09Exquisite%20Firecraft%0A4%09Fireblast%0A4%09Goblin%20Guide%0A4%09Lava%20Spike%0A4%09Lightning%20Bolt%0A4%09Monastery%20Swiftspear%0A4%09Price%20of%20Progress%0A4%09Rift%20Bolt%0A4%09Skewer%20the%20Critics%0A19%09Snow-Covered%20Mountain&deckside=2%09Exquisite%20Firecraft%0A2%09Pyrostatic%20Pillar%0A4%09Searing%20Blood%0A4%09Smash%20to%20Smithereens%0A3%09Sulfuric%20Vortex)
+# Maindeck
+
+|                                             Creature (12)                                             |                                         Instant (12)                                         |                                             Land (19)                                             |                                          Sorcery (17)                                          |
+|-------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
+|4 [Eidolon of the Great Revel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442117)|4 [Fireblast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=189239)        |19 [Snow-Covered Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121233)|4 [Chain Lightning](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446139)    |
+|4 [Goblin Guide](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425921)              |4 [Lightning Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=806)      |                                                                                                   |1 [Exquisite Firecraft](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=398513)|
+|4 [Monastery Swiftspear](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438706)      |4 [Price of Progress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413683)|                                                                                                   |4 [Lava Spike](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=79084)          |
+|                                                                                                       |                                                                                              |                                                                                                   |4 [Rift Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426589)          |
+|                                                                                                       |                                                                                              |                                                                                                   |4 [Skewer the Critics](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457259) |
+
+
+# Sideboard
+
+|                                       Enchantment (5)                                       |                                           Instant (8)                                           |                                          Sorcery (2)                                           |
+|---------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
+|2 [Pyrostatic Pillar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=44290)|4 [Searing Blood](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=378483)       |2 [Exquisite Firecraft](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=398513)|
+|3 [Sulfuric Vortex](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382379) |4 [Smash to Smithereens](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397795)|                                                                                                |
+

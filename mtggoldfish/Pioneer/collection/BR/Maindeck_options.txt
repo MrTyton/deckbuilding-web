@@ -37,18 +37,11 @@
 1 Liliana, the Last Hope
 1 Fabled Passage
 2 Kolaghan's Command
-2 Fabled Passage
 2 Liliana, the Last Hope
 2 Kalitas, Traitor of Ghet
+2 Fabled Passage
 3 Kolaghan's Command
 3 Fatal Push
-1 Monastery Swiftspear
-1 Embercleave
-2 Monastery Swiftspear
-2 Embercleave
-3 Monastery Swiftspear
-3 Goblin Rabblemaster
-4 Monastery Swiftspear
 1 Hangarback Walker
 1 Magma Spray
 1 Pia Nalaar
@@ -66,8 +59,15 @@
 4 Mutavault
 4 Bomat Courier
 4 Heart of Kiran
-1 Angrath's Rampage
+1 Embercleave
+1 Monastery Swiftspear
+2 Embercleave
+2 Monastery Swiftspear
+3 Monastery Swiftspear
+3 Goblin Rabblemaster
+4 Monastery Swiftspear
 1 Legion's End
+1 Angrath's Rampage
 1 Vraska's Contempt
 1 Temple of Malice
 1 Goblin Dark-Dwellers
@@ -75,8 +75,8 @@
 1 Young Pyromancer
 1 Fiery Impulse
 2 Angrath's Rampage
-2 Vraska's Contempt
 2 Dreadbore
+2 Vraska's Contempt
 2 Young Pyromancer
 2 Temple of Malice
 2 Goblin Dark-Dwellers
