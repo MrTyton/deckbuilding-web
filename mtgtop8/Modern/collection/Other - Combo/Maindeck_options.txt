@@ -1,8 +1,8 @@
 1 Urborg, Tomb of Yawgmoth
 1 Unearth
-1 Kethis, the Hidden Hand
-1 Eiganjo Castle
 1 Grinding Station
+1 Eiganjo Castle
+1 Kethis, the Hidden Hand
 1 Mishra's Bauble
 1 Hope of Ghirapur
 1 Jace, Wielder of Mysteries
@@ -41,7 +41,6 @@
 1 Snow-Covered Island
 1 Prismatic Vista
 1 Temple Garden
-1 Snow-Covered Swamp
 1 Overgrown Tomb
 1 Watery Grave
 1 Hallowed Fountain
@@ -49,6 +48,7 @@
 1 Snow-Covered Plains
 1 Verdant Catacombs
 1 Engineered Explosives
+1 Snow-Covered Swamp
 2 Prismatic Vista
 2 Verdant Catacombs
 2 Engineered Explosives
@@ -94,8 +94,8 @@
 2 Snow-Covered Forest
 2 Mystic Sanctuary
 2 Once Upon a Time
-2 Misty Rainforest
 2 Gilded Goose
+2 Misty Rainforest
 2 Oko, Thief of Crowns
 2 Nexus of Fate
 2 Fact or Fiction
@@ -108,9 +108,9 @@
 3 Flooded Strand
 3 Once Upon a Time
 3 Fact or Fiction
-3 Gilded Goose
 3 Wilderness Reclamation
 3 Nexus of Fate
+3 Gilded Goose
 3 Misty Rainforest
 3 Oko, Thief of Crowns
 3 Ice-Fang Coatl
@@ -119,17 +119,17 @@
 4 Snow-Covered Island
 4 Once Upon a Time
 4 Wilderness Reclamation
-4 Gilded Goose
 4 Misty Rainforest
 4 Ice-Fang Coatl
+4 Gilded Goose
 4 Cryptic Command
 4 Oko, Thief of Crowns
 4 Nexus of Fate
 5 Snow-Covered Island
 6 Snow-Covered Island
 7 Snow-Covered Island
-1 Yavimaya Coast
 1 Botanical Sanctum
+1 Yavimaya Coast
 1 Lonely Sandbar
 1 Echoing Truth
 1 Dream's Grip

@@ -31,8 +31,8 @@
 |                    3|[Exquisite Firecraft](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=398513)|                    1|[Sulfuric Vortex](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382379)     |
 |                    4|[Price of Progress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413683)  |                    1|[Ensnaring Bridge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=15866)     |
 |                   12|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)           |                    2|[Relic of Progenitus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174824) |
-|                   13|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)           |                    3|[Relic of Progenitus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174824) |
-|                   14|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)           |                    3|[Pyrostatic Pillar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=44290)    |
+|                   13|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)           |                    3|[Pyrostatic Pillar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=44290)    |
+|                   14|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)           |                    3|[Relic of Progenitus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174824) |
 |                   15|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)           |                    4|[Smash to Smithereens](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397795)|
 |                   11|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)           |                    3|[Smash to Smithereens](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397795)|
 

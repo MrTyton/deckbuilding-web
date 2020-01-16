@@ -18,8 +18,8 @@
 1 Nahiri, the Harbinger
 1 Spirebluff Canal
 1 Tireless Tracker
-2 Ugin, the Spirit Dragon
 2 Nahiri, the Harbinger
+2 Ugin, the Spirit Dragon
 3 Breeding Pool
 3 Nahiri, the Harbinger
 4 Breeding Pool
@@ -35,13 +35,13 @@
 2 Field of Ruin
 1 Zhalfirin Void
 1 Heart of Kiran
-1 Mobilized District
 1 Karn, the Great Creator
 1 Wastes
 1 Mutavault
 1 Sea Gate Wreckage
 1 Karn, Scion of Urza
 1 Warping Wail
+1 Mobilized District
 1 Ratchet Bomb
 1 Fountain of Renewal
 1 Blast Zone
@@ -106,10 +106,10 @@
 1 Blooming Marsh
 2 Emry, Lurker of the Loch
 2 Mox Amber
-2 Temple Garden
 2 Urborg, Tomb of Yawgmoth
 2 Once Upon a Time
 2 Mana Confluence
+2 Temple Garden
 2 Oko, Thief of Crowns
 2 Blooming Marsh
 2 Kethis, the Hidden Hand
@@ -157,9 +157,9 @@
 4 Narset, Parter of Veils
 4 Island
 5 Island
-1 Teferi, Hero of Dominaria
 1 Glacial Fortress
 1 Port Town
+1 Teferi, Hero of Dominaria
 1 Blessed Alliance
 1 Settle the Wreckage
 1 Supreme Verdict
@@ -168,9 +168,9 @@
 1 Dig Through Time
 1 Azorius Charm
 1 Myth Realized
-2 Teferi, Hero of Dominaria
 2 Glacial Fortress
 2 Port Town
+2 Teferi, Hero of Dominaria
 2 Plains
 2 Blessed Alliance
 2 Supreme Verdict
@@ -243,7 +243,6 @@
 1 Drown in the Loch
 1 Unsubstantiate
 1 Sunken Hollow
-1 Spell Pierce
 1 Fabled Passage
 1 Engulf the Shore
 1 Unsummon
@@ -252,6 +251,7 @@
 1 Brazen Borrower
 1 Dictate of Kruphix
 1 Thoughtseize
+1 Spell Pierce
 1 Swamp
 1 Drowned Catacomb
 1 Wizard's Retort
@@ -260,22 +260,22 @@
 1 Dakra Mystic
 2 Drowned Catacomb
 2 Brazen Borrower
-2 Spell Pierce
 2 Fabled Passage
-2 Fatal Push
 2 Cyclonic Rift
 2 Engulf the Shore
+2 Fatal Push
 2 Sunken Hollow
 2 Notion Thief
 2 Watery Grave
 2 Dakra Mystic
 2 Dictate of Kruphix
+2 Spell Pierce
 3 Brazen Borrower
-3 Fatal Push
 3 Dakra Mystic
 3 Sunken Hollow
 3 Watery Grave
 3 Notion Thief
+3 Fatal Push
 4 Watery Grave
 4 Brazen Borrower
 4 Day's Undoing
