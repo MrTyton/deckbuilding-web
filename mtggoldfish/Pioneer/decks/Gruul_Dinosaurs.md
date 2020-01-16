@@ -37,6 +37,6 @@
 |                     |                                                                                                 |                    1|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)            |
 |                     |                                                                                                 |                    1|[Glorybringer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426836)              |
 |                     |                                                                                                 |                    2|[Glorybringer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426836)              |
-|                     |                                                                                                 |                    1|[Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)                    |
 |                     |                                                                                                 |                    2|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)            |
+|                     |                                                                                                 |                    1|[Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)                    |
 

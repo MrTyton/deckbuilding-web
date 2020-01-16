@@ -18,19 +18,19 @@
 1 Island
 2 Tropical Island
 1 Daze
-1 Noble Hierarch
 1 True-Name Nemesis
+1 Noble Hierarch
 1 Wasteland
+1 Stoneforge Mystic
 1 Batterskull
 1 Umezawa's Jitte
-1 Stoneforge Mystic
 1 Sword of Fire and Ice
-2 Noble Hierarch
 2 True-Name Nemesis
-2 Wasteland
+2 Noble Hierarch
 2 Tundra
-2 Daze
+2 Wasteland
 2 Stoneforge Mystic
+2 Daze
 3 Noble Hierarch
 3 Stoneforge Mystic
 3 Daze
@@ -63,13 +63,12 @@
 1 Drown in the Loch
 1 Underground Sea
 1 Plague Engineer
+2 Plague Engineer
 2 Abrupt Decay
 2 Leovold, Emissary of Trest
-2 Plague Engineer
 2 Drown in the Loch
 3 Abrupt Decay
 3 Polluted Delta
-4 Oko, Thief of Crowns
 1 Ephemerate
 1 Toothy, Imaginary Friend
 1 Pir, Imaginative Rascal
@@ -80,6 +79,7 @@
 3 Windswept Heath
 3 Prismatic Vista
 4 Prismatic Vista
+4 Oko, Thief of Crowns
 1 Accumulated Knowledge
 2 Accumulated Knowledge
 3 Accumulated Knowledge
@@ -125,10 +125,10 @@
 4 Mishra's Bauble
 4 Ancient Tomb
 4 Seat of the Synod
+1 Vendilion Clique
 1 Sylvan Library
 1 Birds of Paradise
 1 Elspeth, Knight-Errant
-1 Vendilion Clique
 1 Spell Queller
 2 Vendilion Clique
 2 Spell Queller

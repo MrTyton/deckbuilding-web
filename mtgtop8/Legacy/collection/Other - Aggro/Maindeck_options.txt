@@ -1,4 +1,4 @@
-2 Plague Engineer
+2 Lightning Bolt
 2 Kolaghan's Command
 3 Snapcaster Mage
 3 Kolaghan's Command
@@ -7,18 +7,18 @@
 1 Retrofitter Foundry
 1 Commandeer
 1 Gurmag Angler
+2 Scalding Tarn
 2 Underground Sea
 2 Bloodstained Mire
 2 Ornithopter
 2 Yuriko, the Tiger's Shadow
-2 Scalding Tarn
 2 Retrofitter Foundry
 2 Gurmag Angler
 2 Fatal Push
-3 Fatal Push
 3 Retrofitter Foundry
 3 Ingenious Infiltrator
 3 Ornithopter
+3 Fatal Push
 3 Yuriko, the Tiger's Shadow
 4 Fatal Push
 1 Wasteland
@@ -38,61 +38,61 @@
 2 Swords to Plowshares
 3 Swords to Plowshares
 4 Swords to Plowshares
+1 Giver of Runes
 1 Thalia, Guardian of Thraben
 1 Maze of Ith
-1 Gaea's Cradle
-1 Scryb Ranger
-1 Sword of Fire and Ice
-1 Qasali Pridemage
-1 Scavenging Ooze
-1 Questing Beast
-1 Noble Hierarch
-1 Horizon Canopy
-1 Stoneforge Mystic
 1 Knight of the Reliquary
+1 Horizon Canopy
+1 Noble Hierarch
+1 Sword of Fire and Ice
+1 Scavenging Ooze
 1 Umezawa's Jitte
-1 Giver of Runes
 1 Batterskull
+1 Stoneforge Mystic
+1 Questing Beast
 1 Ramunap Excavator
+1 Qasali Pridemage
 1 Gaddock Teeg
 1 Tireless Tracker
+1 Gaea's Cradle
 1 Birds of Paradise
 1 Green Sun's Zenith
 1 Dryad Arbor
 1 Windswept Heath
 1 Savannah
 1 Verdant Catacombs
+1 Scryb Ranger
 1 Forest
 2 Thalia, Guardian of Thraben
-2 Stoneforge Mystic
 2 Giver of Runes
 2 Knight of the Reliquary
-2 Verdant Catacombs
 2 Noble Hierarch
+2 Verdant Catacombs
+2 Stoneforge Mystic
 2 Windswept Heath
 2 Green Sun's Zenith
 2 Savannah
 2 Forest
 3 Thalia, Guardian of Thraben
+3 Knight of the Reliquary
 3 Giver of Runes
 3 Noble Hierarch
-3 Knight of the Reliquary
 3 Stoneforge Mystic
 3 Verdant Catacombs
 3 Green Sun's Zenith
 3 Savannah
 3 Windswept Heath
 4 Knight of the Reliquary
-4 Giver of Runes
 4 Windswept Heath
+4 Giver of Runes
 4 Green Sun's Zenith
 4 Noble Hierarch
 1 Chrome Mox
-1 Remorseful Cleric
 1 Charming Prince
-1 Scrubland
+1 Remorseful Cleric
 1 Tundra
 1 Tomik, Distinguished Advokist
+1 Scrubland
 1 Palace Jailer
 1 Mother of Runes
 1 Weathered Wayfarer
@@ -102,8 +102,8 @@
 1 Meddling Mage
 1 Recruiter of the Guard
 1 Soulherder
-2 Marsh Flats
 2 Tundra
+2 Marsh Flats
 2 Aether Vial
 2 Recruiter of the Guard
 2 Soulherder
@@ -118,10 +118,10 @@
 4 Aether Vial
 4 Meddling Mage
 4 Recruiter of the Guard
-1 Stifle
-1 Misty Rainforest
 1 Delver of Secrets
 1 Curious Obsession
+1 Stifle
+1 Misty Rainforest
 1 Pteramander
 2 Stifle
 2 Daze
@@ -166,8 +166,8 @@
 2 Mountain
 2 Pyroblast
 2 Simian Spirit Guide
-2 Red Elemental Blast
 2 Blood Moon
+2 Red Elemental Blast
 2 Grindstone
 2 Goblin Welder
 2 Smuggler's Copter

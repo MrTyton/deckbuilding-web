@@ -1,12 +1,12 @@
-1 Scavenging Ooze
 3 Llanowar Wastes
+1 Scavenging Ooze
 1 Swamp
-1 Thoughtseize
-2 Thoughtseize
-3 Thoughtseize
 1 Tireless Tracker
 1 Woodland Cemetery
+1 Thoughtseize
 1 Fatal Push
+2 Thoughtseize
+3 Thoughtseize
 1 Fabled Passage
 2 Fabled Passage
 2 Swamp
@@ -24,6 +24,7 @@
 4 Swamp
 2 Woodland Cemetery
 2 Tireless Tracker
+4 Llanowar Wastes
 1 Steel Leaf Champion
 2 Steel Leaf Champion
 3 Steel Leaf Champion
@@ -36,28 +37,25 @@
 3 Traverse the Ulvenwald
 1 Castle Locthwain
 3 Fabled Passage
-4 Llanowar Wastes
-2 Liliana, the Last Hope
-1 Urborg, Tomb of Yawgmoth
-2 Murderous Rider
-1 Emrakul, the Promised End
-4 Traverse the Ulvenwald
+8 Forest
 1 Rhonas the Indomitable
 2 Rhonas the Indomitable
 1 Lovestruck Beast
 2 Lovestruck Beast
 3 Lovestruck Beast
+4 Lovestruck Beast
+2 Liliana, the Last Hope
+2 Murderous Rider
+1 Urborg, Tomb of Yawgmoth
+1 Emrakul, the Promised End
+4 Traverse the Ulvenwald
 4 Fabled Passage
 3 Mutavault
 1 Castle Garenbrig
 1 Questing Beast
-8 Forest
+3 Woodland Cemetery
 1 Yorvo, Lord of Garenbrig
 2 Yorvo, Lord of Garenbrig
-4 Lovestruck Beast
-1 Hashep Oasis
-2 Hashep Oasis
-3 Woodland Cemetery
 1 Field of Ruin
 1 Grim Flayer
 2 Grim Flayer
@@ -67,6 +65,8 @@
 1 Ishkanah, Grafwidow
 4 Fatal Push
 1 Vraska's Contempt
+1 Hashep Oasis
+2 Hashep Oasis
 1 The Great Henge
 2 The Great Henge
 3 Scavenging Ooze
@@ -77,25 +77,25 @@
 3 Tireless Tracker
 1 Collective Brutality
 1 Hissing Quagmire
-1 Syr Faren, the Hengehammer
-1 Aspect of Hydra
-1 Surrak, the Hunt Caller
-2 Syr Faren, the Hengehammer
-2 Aspect of Hydra
-2 Surrak, the Hunt Caller
-3 Hashep Oasis
-3 Surrak, the Hunt Caller
 1 Heart of Kiran
 2 Heart of Kiran
 1 Rotting Regisaur
 2 Rotting Regisaur
 3 Rotting Regisaur
 4 Rotting Regisaur
+1 Surrak, the Hunt Caller
+2 Surrak, the Hunt Caller
+3 Surrak, the Hunt Caller
 2 Castle Locthwain
 1 Languish
 1 Arch of Orazca
 1 Vine Mare
+1 Syr Faren, the Hengehammer
+1 Aspect of Hydra
+2 Syr Faren, the Hengehammer
+2 Aspect of Hydra
 3 Aspect of Hydra
+3 Hashep Oasis
 4 Aspect of Hydra
 4 Surrak, the Hunt Caller
 4 Ghalta, Primal Hunger
@@ -105,9 +105,9 @@
 1 Wayward Swordtooth
 1 Ramunap Excavator
 1 Crucible of Worlds
-1 Drownyard Temple
-1 The Gitrog Monster
 1 Nissa, Who Shakes the World
+1 The Gitrog Monster
+1 Drownyard Temple
 1 Llanowar Scout
 1 Sylvan Advocate
 2 Evolving Wilds
@@ -118,8 +118,8 @@
 2 The Gitrog Monster
 2 Wayward Swordtooth
 3 Wayward Swordtooth
-3 Sylvan Advocate
 3 Evolving Wilds
+3 Sylvan Advocate
 3 The Gitrog Monster
 4 Wayward Swordtooth
 4 Sylvan Advocate
@@ -128,6 +128,8 @@
 5 Swamp
 3 Rhonas the Indomitable
 3 Yorvo, Lord of Garenbrig
+3 The Great Henge
+9 Forest
 2 Kalitas, Traitor of Ghet
 2 Vraska's Contempt
 1 Nissa, Vastwood Seer
@@ -171,6 +173,10 @@
 1 Nissa's Pilgrimage
 1 Noxious Gearhulk
 1 Merfolk Branchwalker
+1 Blossoming Defense
+1 Kraul Harpooner
+2 Kraul Harpooner
+2 Blossoming Defense
 1 Nissa's Renewal
 1 Lost Legacy
 1 Bontu's Last Reckoning
@@ -189,11 +195,12 @@
 4 Satyr Wayfinder
 1 Pulse of Murasa
 1 Gonti, Lord of Luxury
-2 Temple of Malady
 2 Field of Ruin
+2 Temple of Malady
 3 Temple of Malady
 3 Hissing Quagmire
 4 Temple of Malady
+1 Massacre Girl
 1 Phyrexian Revoker
 1 Plaguecrafter
 1 Grisly Salvage
@@ -201,7 +208,6 @@
 1 Dead Weight
 1 Grapple with the Past
 1 Renegade Map
-1 Massacre Girl
 1 Liliana, Death's Majesty
 2 Dead Weight
 2 Grisly Salvage
@@ -221,11 +227,11 @@
 2 Rishkar, Peema Renegade
 2 Pelt Collector
 2 Experiment One
-3 Pelt Collector
 3 Vivien, Arkbow Ranger
+3 Pelt Collector
 3 Experiment One
-4 Pelt Collector
 4 Nissa, Voice of Zendikar
+4 Pelt Collector
 4 Experiment One
 1 World Breaker
 1 Elvish Rejuvenator
@@ -236,37 +242,38 @@
 1 Shrine of the Forsaken Gods
 1 Radiant Fountain
 2 Elvish Rejuvenator
-2 Cavalier of Thorns
 2 Radiant Fountain
 2 Arboreal Grazer
 2 Castle Garenbrig
 2 Sanctum of Ugin
 2 World Breaker
+2 Cavalier of Thorns
 2 Nissa's Pilgrimage
 2 Ulamog, the Ceaseless Hunger
 2 Ugin, the Spirit Dragon
-2 Ulvenwald Hydra
 2 Shrine of the Forsaken Gods
+2 Ulvenwald Hydra
 3 Elvish Rejuvenator
-3 Cavalier of Thorns
-3 Radiant Fountain
 3 Ugin, the Spirit Dragon
 3 Arboreal Grazer
-3 Shrine of the Forsaken Gods
 3 Ulvenwald Hydra
+3 Shrine of the Forsaken Gods
+3 Cavalier of Thorns
 3 World Breaker
+3 Radiant Fountain
 3 Nissa's Pilgrimage
 3 Castle Garenbrig
 4 Elvish Rejuvenator
-4 Cavalier of Thorns
 4 Ugin, the Spirit Dragon
 4 Arboreal Grazer
+4 Cavalier of Thorns
 4 Nissa's Pilgrimage
-1 Mana Confluence
-2 Mana Confluence
-3 Mana Confluence
-3 Syr Faren, the Hengehammer
-4 Hashep Oasis
+1 Scrapheap Scrounger
+2 Scrapheap Scrounger
+3 Scrapheap Scrounger
+3 Heart of Kiran
+4 Scrapheap Scrounger
+4 The Great Henge
 1 Wastes
 1 Ugin, the Ineffable
 1 Reality Smasher
@@ -284,22 +291,22 @@
 2 Blighted Fen
 3 Assassin's Trophy
 3 Matter Reshaper
-3 Liliana, the Last Hope
 3 Thought-Knot Seer
+3 Liliana, the Last Hope
 4 Matter Reshaper
 4 Thought-Knot Seer
 1 Status/Statue
-1 Sorin, Imperious Bloodlord
 1 Vraska, Swarm's Eminence
 1 Dusk Legion Zealot
 1 Champion of Dusk
+1 Sorin, Imperious Bloodlord
 1 Knight of the Ebon Legion
 2 Status/Statue
 2 Dusk Legion Zealot
 2 Champion of Dusk
 2 Knight of the Ebon Legion
-2 Vraska, Swarm's Eminence
 2 Sorin, Imperious Bloodlord
+2 Vraska, Swarm's Eminence
 3 Sorin, Imperious Bloodlord
 3 Vraska, Swarm's Eminence
 3 Dusk Legion Zealot
@@ -308,8 +315,8 @@
 4 Castle Locthwain
 4 Champion of Dusk
 4 Sorin, Imperious Bloodlord
-1 Icon of Ancestry
 1 Wildborn Preserver
+1 Icon of Ancestry
 1 Thorn Lieutenant
 2 Icon of Ancestry
 2 Wildborn Preserver
@@ -324,8 +331,8 @@
 4 Yorvo, Lord of Garenbrig
 1 Westvale Abbey
 1 Karn's Bastion
-1 Slitherhead
 1 Lotleth Troll
+1 Slitherhead
 2 Lotleth Troll
 2 Slitherhead
 3 Vraska, Golgari Queen
@@ -336,12 +343,6 @@
 4 Lotleth Troll
 4 Stonecoil Serpent
 4 Slitherhead
-1 Blossoming Defense
-1 Kraul Harpooner
-2 Kraul Harpooner
-2 Blossoming Defense
-3 The Great Henge
-9 Forest
 2 Nissa, Vastwood Seer
 2 Nissa, Who Shakes the World
 3 Llanowar Scout

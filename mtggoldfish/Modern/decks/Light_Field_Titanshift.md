@@ -40,8 +40,8 @@
 
 |*n*<sup>th</sup> copy|                                      Maindeck Card                                      |*n*<sup>th</sup> copy|                                         Sideboard Card                                          |
 |--------------------:|-----------------------------------------------------------------------------------------|--------------------:|-------------------------------------------------------------------------------------------------|
-|                    1|[Hunting Wilds](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=451107) |                    1|[Crumble to Dust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401850)       |
-|                    1|[Vesuva](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=113543)        |                    1|[Shatterstorm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=130370)          |
+|                    1|[Hunting Wilds](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=451107) |                    1|[Shatterstorm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=130370)          |
+|                    1|[Vesuva](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=113543)        |                    1|[Crumble to Dust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401850)       |
 |                    2|[Bloodbraid Elf](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=185053)|                    1|[Melira, Sylvok Outcast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=194274)|
 |                    3|[Prismatic Omen](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=151989)|                    1|[Chameleon Colossus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220451)    |
 |                     |                                                                                         |                    2|[Eidolon of Rhetoric](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=380409)   |

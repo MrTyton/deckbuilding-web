@@ -32,3 +32,11 @@
 |1 [Knight of Autumn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452933)|                                                                                              |                                                                                           |                                                                                                 |                                                                                                  |
 |1 [Palace Jailer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416775)   |                                                                                              |                                                                                           |                                                                                                 |                                                                                                  |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                        Maindeck Card                                         |*n*<sup>th</sup> copy|Sideboard Card|
+|--------------------:|----------------------------------------------------------------------------------------------|---------------------|--------------|
+|                    1|[Snow-Covered Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121267)|                     |              |
+|                    1|[Snow-Covered Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121192)|                     |              |
+

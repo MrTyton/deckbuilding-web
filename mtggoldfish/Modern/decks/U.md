@@ -1,7 +1,7 @@
 # U
 
 #### [Export MTGO List](../collection/U/U.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Aether%20Vial%0A4%09Benthic%20Biomancer%0A1%09Brazen%20Borrower%0A2%09Cursecatcher%0A2%09Deprive%0A2%09Faerie%20Conclave%0A1%09Force%20of%20Negation%0A1%09Harbinger%20of%20the%20Tides%0A10%09Island%0A4%09Lord%20of%20Atlantis%0A4%09Master%20of%20the%20Pearl%20Trident%0A4%09Merfolk%20Trickster%0A2%09Merrow%20Reejerey%0A4%09Mutavault%0A1%09Oboro,%20Palace%20in%20the%20Clouds%0A4%09Repeal%0A4%09Silvergill%20Adept%0A4%09Spreading%20Seas%0A2%09Waterlogged%20Grove&deckside=2%09Ceremonious%20Rejection%0A3%09Chalice%20of%20the%20Void%0A3%09Dismember%0A1%09Faerie%20Macabre%0A4%09Relic%20of%20Progenitus%0A2%09Wizard's%20Retort)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Aether%20Vial%0A4%09Benthic%20Biomancer%0A1%09Brazen%20Borrower%0A2%09Cursecatcher%0A2%09Deprive%0A2%09Faerie%20Conclave%0A1%09Force%20of%20Negation%0A1%09Harbinger%20of%20the%20Tides%0A10%09Island%0A4%09Lord%20of%20Atlantis%0A4%09Master%20of%20the%20Pearl%20Trident%0A4%09Merfolk%20Trickster%0A2%09Merrow%20Reejerey%0A4%09Mutavault%0A1%09Oboro,%20Palace%20in%20the%20Clouds%0A4%09Repeal%0A4%09Silvergill%20Adept%0A4%09Spreading%20Seas%0A2%09Waterlogged%20Grove&deckside=2%09Ceremonious%20Rejection%0A3%09Chalice%20of%20the%20Void%0A3%09Dismember%0A2%09Faerie%20Macabre%0A4%09Relic%20of%20Progenitus%0A1%09Wizard's%20Retort)
 # Maindeck
 
 |                                     Artifact (4)                                      |                                             Creature (26)                                              |                                      Enchantment (4)                                      |                                         Instant (7)                                          |                                               Land (19)                                               |
@@ -19,18 +19,18 @@
 
 # Sideboard
 
-|                                          Artifact (7)                                          |                                       Creature (1)                                        |                                           Instant (7)                                            |
+|                                          Artifact (7)                                          |                                       Creature (2)                                        |                                           Instant (6)                                            |
 |------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
-|3 [Chalice of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442211)|1 [Faerie Macabre](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=201822)|2 [Ceremonious Rejection](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417613)|
+|3 [Chalice of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442211)|2 [Faerie Macabre](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=201822)|2 [Ceremonious Rejection](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417613)|
 |4 [Relic of Progenitus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174824)|                                                                                           |3 [Dismember](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382182)            |
-|                                                                                                |                                                                                           |2 [Wizard's Retort](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442963)      |
+|                                                                                                |                                                                                           |1 [Wizard's Retort](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442963)      |
 
 
 # Other Options
 
 |*n*<sup>th</sup> copy|                                          Maindeck Card                                          |*n*<sup>th</sup> copy|                                       Sideboard Card                                       |
 |--------------------:|-------------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------|
-|                    2|[Brazen Borrower](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473001)       |                    2|[Faerie Macabre](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=201822)   |
+|                    2|[Brazen Borrower](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473001)       |                    2|[Wizard's Retort](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442963)  |
 |                    2|[Harbinger of the Tides](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=433017)|                    1|[Phyrexian Revoker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383343)|
 |                    2|[Force of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464001)     |                    1|[Deprive](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=193519)          |
 |                    3|[Waterlogged Grove](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464198)     |                    2|[Phyrexian Revoker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383343)|

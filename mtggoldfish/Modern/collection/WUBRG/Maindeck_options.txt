@@ -3,19 +3,19 @@
 2 Once Upon a Time
 3 Once Upon a Time
 1 Breeding Pool
-1 Swamp
 1 Verdant Catacombs
+1 Swamp
 1 Forest
 2 Verdant Catacombs
 1 Birds of Paradise
+1 Blood Crypt
 1 Teferi, Time Raveler
 1 Niv-Mizzet Reborn
-1 Blood Crypt
+1 Assassin's Trophy
 1 Arid Mesa
 1 Sacred Foundry
 1 Bring to Light
 1 Plains
-1 Assassin's Trophy
 1 Stomping Ground
 2 Assassin's Trophy
 2 Birds of Paradise
@@ -28,9 +28,10 @@
 1 Godless Shrine
 3 Verdant Catacombs
 1 Kess, Dissident Mage
-1 Kolaghan's Command
+1 Izzet Charm
 1 Wrenn and Six
 1 Lightning Helix
+1 Kolaghan's Command
 1 Force of Negation
 1 Kaya's Guile
 1 Dreadbore
@@ -43,18 +44,17 @@
 1 Windswept Heath
 1 Eladamri's Call
 1 Pillar of the Paruns
-1 Izzet Charm
 1 Supreme Verdict
 2 Wrenn and Six
-2 Kolaghan's Command
 2 Lightning Helix
 2 Pillar of the Paruns
 2 Windswept Heath
 2 Dreadbore
 2 Kaya's Guile
-2 Inquisition of Kozilek
 2 Izzet Charm
+2 Inquisition of Kozilek
 2 Niv-Mizzet Reborn
+2 Kolaghan's Command
 3 Assassin's Trophy
 3 Wrenn and Six
 3 Pillar of the Paruns
@@ -65,24 +65,24 @@
 1 Mountain
 1 Steam Vents
 1 Oath of Nissa
-1 Wooded Foothills
 1 Kiki-Jiki, Mirror Breaker
 1 Utopia Sprawl
 1 Scalding Tarn
 1 Noble Hierarch
 1 Temple Garden
 1 Saheeli Rai
+1 Wooded Foothills
 1 Deceiver Exarch
 1 Felidar Guardian
-2 Wooded Foothills
 2 Utopia Sprawl
 2 Kiki-Jiki, Mirror Breaker
+2 Saheeli Rai
 2 Teferi, Time Raveler
-2 Oath of Nissa
+2 Wooded Foothills
 2 Scalding Tarn
+2 Oath of Nissa
 2 Noble Hierarch
 2 Felidar Guardian
-2 Saheeli Rai
 3 Teferi, Time Raveler
 3 Arid Mesa
 3 Utopia Sprawl
@@ -98,6 +98,15 @@
 4 Felidar Guardian
 4 Teferi, Time Raveler
 4 Bring to Light
+1 Snow-Covered Island
+1 Snow-Covered Forest
+1 Angel's Grace
+1 Chancellor of the Annex
+2 Breeding Pool
+2 Chancellor of the Annex
+3 Chancellor of the Annex
+4 Once Upon a Time
+4 Chancellor of the Annex
 1 Cavern of Souls
 1 Aether Vial
 2 Cavern of Souls
@@ -155,17 +164,7 @@
 4 Risen Reef
 4 Vesperlark
 4 Lightning Skelemental
-1 Snow-Covered Island
-1 Snow-Covered Forest
-1 Angel's Grace
-1 Chancellor of the Annex
-2 Breeding Pool
-2 Chancellor of the Annex
-3 Chancellor of the Annex
-4 Once Upon a Time
-4 Chancellor of the Annex
 1 Dregscape Sliver
-1 Mutavault
 1 Syphon Sliver
 1 Darkheart Sliver
 1 Homing Sliver
@@ -177,6 +176,7 @@
 1 Diffusion Sliver
 1 Necrotic Sliver
 1 Cloudshredder Sliver
+1 Mutavault
 1 Sliver Hive
 1 Predatory Sliver
 1 Collected Company
@@ -198,8 +198,8 @@
 3 Cloudshredder Sliver
 3 Sliver Hive
 3 Collected Company
-3 Galerider Sliver
 3 Sinew Sliver
+3 Galerider Sliver
 3 Sedge Sliver
 3 Predatory Sliver
 3 Mutavault
