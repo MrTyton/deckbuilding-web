@@ -1,94 +1,113 @@
-1 Lotleth Troll
+2 Swamp
 2 Lotleth Troll
 3 Lotleth Troll
-3 Swamp
-1 Rhonas the Indomitable
 1 Urborg, Tomb of Yawgmoth
-1 Murderous Rider
-2 Murderous Rider
-3 Murderous Rider
 1 Questing Beast
 1 Sylvan Caryatid
 1 Nullhide Ferox
 1 Grisly Salvage
 1 Soulflayer
 1 Zetalpa, Primal Dawn
+1 Murderous Rider
 1 Gather the Pack
-2 Questing Beast
+2 Murderous Rider
 2 Soulflayer
+2 Questing Beast
 2 Sylvan Caryatid
 2 Zetalpa, Primal Dawn
 2 Gather the Pack
 2 Grisly Salvage
 3 Soulflayer
 3 Zetalpa, Primal Dawn
-3 Sylvan Caryatid
 3 Gather the Pack
+3 Murderous Rider
 3 Questing Beast
+3 Sylvan Caryatid
 3 Grisly Salvage
 4 Sylvan Caryatid
 4 Gather the Pack
-4 Grisly Salvage
 4 Murderous Rider
 4 Zetalpa, Primal Dawn
+4 Grisly Salvage
 4 Soulflayer
 4 Lotleth Troll
-2 Rishkar, Peema Renegade
+3 Swamp
+7 Forest
 4 Hangarback Walker
 4 Nissa, Voice of Zendikar
+2 Rhonas the Indomitable
 1 Gifted Aetherborn
 1 Samut, Voice of Dissent
-2 Rhonas the Indomitable
 2 Hashep Oasis
+8 Forest
 1 Collective Brutality
 2 Collective Brutality
 4 Swamp
+2 Rishkar, Peema Renegade
 4 Woodland Cemetery
-8 Forest
 2 Gifted Aetherborn
 4 Questing Beast
-1 Temple of Malady
-1 Vraska, Golgari Queen
 1 Commune with the Gods
 2 Nullhide Ferox
+1 Temple of Malady
+1 Vraska, Golgari Queen
 1 Karn's Bastion
 4 Stonecoil Serpent
-1 Castle Garenbrig
-1 Castle Locthwain
+4 Llanowar Elves
+1 Steel Leaf Champion
+1 The Great Henge
+1 Rotting Regisaur
+1 Lovestruck Beast
+1 Scrapheap Scrounger
+2 The Great Henge
+2 Steel Leaf Champion
+2 Rotting Regisaur
+2 Scrapheap Scrounger
+2 Lovestruck Beast
+3 The Great Henge
+3 Rotting Regisaur
+3 Scrapheap Scrounger
+4 Elvish Mystic
+4 Rotting Regisaur
+1 Ghalta, Primal Hunger
+1 Heart of Kiran
+1 Surrak, the Hunt Caller
+2 Ghalta, Primal Hunger
+2 Heart of Kiran
+2 Surrak, the Hunt Caller
+3 Steel Leaf Champion
+3 Lovestruck Beast
+3 Ghalta, Primal Hunger
+3 Surrak, the Hunt Caller
+3 Heart of Kiran
+4 The Great Henge
+4 Steel Leaf Champion
+4 Lovestruck Beast
+4 Scrapheap Scrounger
+9 Forest
 4 Vivien, Arkbow Ranger
 1 Satyr Wayfinder
 1 Pelt Collector
 2 Pelt Collector
 3 Pelt Collector
 4 Pelt Collector
+1 Castle Locthwain
+2 Vraska, Golgari Queen
 1 Abrupt Decay
 2 Abrupt Decay
-2 Vraska, Golgari Queen
-4 Llanowar Elves
-2 Temple of Malady
-1 Vampire of the Dire Moon
-1 Rankle, Master of Pranks
 1 Nykthos, Shrine to Nyx
-1 Scavenging Ooze
-2 Scavenging Ooze
+1 Vampire of the Dire Moon
+1 Castle Garenbrig
+1 Rankle, Master of Pranks
+2 Temple of Malady
 1 Mana Confluence
-2 Mana Confluence
 2 Commune with the Gods
-1 Blossoming Defense
-2 Blossoming Defense
-3 Blossoming Defense
+2 Mana Confluence
 1 Grapple with the Past
-2 Grapple with the Past
 2 Satyr Wayfinder
-3 Grapple with the Past
+2 Grapple with the Past
 3 Satyr Wayfinder
-1 Experiment One
-1 Inventors' Fair
-1 Verdurous Gearhulk
-2 Experiment One
-2 Verdurous Gearhulk
-3 Experiment One
-4 Experiment One
+3 Grapple with the Past
 1 Slitherhead
 1 Assassin's Trophy
 1 Westvale Abbey
@@ -98,71 +117,32 @@
 3 Slitherhead
 3 Vraska, Golgari Queen
 4 Slitherhead
-1 Fatal Push
-1 Thoughtseize
-1 Emrakul, the Promised End
-1 Gilded Goose
-1 Fabled Passage
-1 Witch's Oven
-1 Liliana, the Last Hope
-1 Cauldron Familiar
-1 Massacre Girl
-1 Courser of Kruphix
-1 Cavalier of Thorns
-1 Trail of Crumbs
-2 Liliana, the Last Hope
-2 Thoughtseize
-2 Fatal Push
-2 Gilded Goose
-2 Witch's Oven
-2 Cauldron Familiar
-2 Cavalier of Thorns
-2 Courser of Kruphix
-2 Trail of Crumbs
-2 Fabled Passage
-2 Castle Locthwain
-3 Temple of Malady
-3 Fatal Push
-3 Thoughtseize
-3 Cauldron Familiar
-3 Cavalier of Thorns
-3 Trail of Crumbs
-3 Fabled Passage
-3 Witch's Oven
-3 Gilded Goose
-4 Witch's Oven
-4 Cauldron Familiar
-4 Fabled Passage
-4 Gilded Goose
-4 Trail of Crumbs
-1 Steel Leaf Champion
-1 Scrapheap Scrounger
-1 The Great Henge
-1 Ghalta, Primal Hunger
-1 Surrak, the Hunt Caller
-1 Heart of Kiran
-1 Lovestruck Beast
-1 Rotting Regisaur
-2 Steel Leaf Champion
-2 The Great Henge
-2 Scrapheap Scrounger
-2 Lovestruck Beast
-2 Heart of Kiran
-2 Ghalta, Primal Hunger
-2 Surrak, the Hunt Caller
-2 Rotting Regisaur
-3 Heart of Kiran
-3 Steel Leaf Champion
-3 Scrapheap Scrounger
-3 The Great Henge
-3 Lovestruck Beast
-3 Ghalta, Primal Hunger
-3 Surrak, the Hunt Caller
-3 Rotting Regisaur
-4 The Great Henge
-4 Steel Leaf Champion
-4 Elvish Mystic
-4 Lovestruck Beast
-4 Rotting Regisaur
-4 Scrapheap Scrounger
-9 Forest
+1 Inventors' Fair
+1 Experiment One
+1 Verdurous Gearhulk
+2 Verdurous Gearhulk
+2 Experiment One
+3 Experiment One
+4 Experiment One
+1 Growth-Chamber Guardian
+1 Kiora, Behemoth Beckoner
+1 Reality Smasher
+1 Unclaimed Territory
+1 Thought-Knot Seer
+2 Growth-Chamber Guardian
+2 Kiora, Behemoth Beckoner
+2 Reality Smasher
+2 Thought-Knot Seer
+2 Unclaimed Territory
+3 Growth-Chamber Guardian
+3 Thought-Knot Seer
+3 Reality Smasher
+3 Unclaimed Territory
+3 Hashep Oasis
+4 Growth-Chamber Guardian
+4 Thought-Knot Seer
+4 Hashep Oasis
+4 Reality Smasher
+4 Unclaimed Territory
+1 Scavenging Ooze
+2 Scavenging Ooze

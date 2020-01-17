@@ -27,6 +27,6 @@
 
 |*n*<sup>th</sup> copy|                                        Maindeck Card                                        |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
 |--------------------:|---------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
-|                    3|[Lightning Stormkin](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466967)|                    1|[Goblin Chainwhirler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443017)|
-|                    4|[Lightning Stormkin](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466967)|                    2|[Goblin Chainwhirler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443017)|
+|                    3|[Lightning Stormkin](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466967)|                    2|[Goblin Chainwhirler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443017)|
+|                    4|[Lightning Stormkin](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466967)|                    1|[Goblin Chainwhirler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443017)|
 

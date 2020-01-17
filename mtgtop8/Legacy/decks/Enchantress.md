@@ -86,7 +86,7 @@
 |                    3|[Trail of Crumbs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473141)        |                     |                                                                                                     |
 |                    3|[Estrid's Invocation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=450609)    |                     |                                                                                                     |
 |                    3|[Verdant Catacombs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405113)      |                     |                                                                                                     |
-|                    4|[Estrid's Invocation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=450609)    |                     |                                                                                                     |
 |                    4|[Snow-Covered Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121192)    |                     |                                                                                                     |
+|                    4|[Estrid's Invocation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=450609)    |                     |                                                                                                     |
 |                    4|[Argothian Enchantress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413700)  |                     |                                                                                                     |
 

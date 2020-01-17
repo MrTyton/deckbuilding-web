@@ -64,7 +64,7 @@
 |                    4|[Stomping Ground](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405110)      |                     |                                                                                                     |
 |                    4|[Lightning Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=806)          |                     |                                                                                                     |
 |                    4|[Noble Hierarch](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=179434)       |                     |                                                                                                     |
-|                    4|[Pillage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14755)               |                     |                                                                                                     |
 |                    5|[Snow-Covered Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121192)  |                     |                                                                                                     |
 |                    6|[Snow-Covered Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121192)  |                     |                                                                                                     |
+|                    4|[Pillage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14755)               |                     |                                                                                                     |
 

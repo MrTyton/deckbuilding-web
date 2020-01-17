@@ -3,15 +3,6 @@
 2 Rootbound Crag
 2 Shrine of the Forsaken Gods
 3 Shrine of the Forsaken Gods
-1 World Breaker
-1 Kozilek's Return
-1 Glassblower's Puzzleknot
-2 World Breaker
-2 Glassblower's Puzzleknot
-2 Kozilek's Return
-3 Kozilek's Return
-3 Glassblower's Puzzleknot
-4 Kozilek's Return
 1 Temple Garden
 1 Ugin, the Ineffable
 1 Plains
@@ -27,6 +18,15 @@
 3 Golos, Tireless Pilgrim
 4 Ulamog, the Ceaseless Hunger
 4 Golos, Tireless Pilgrim
+1 World Breaker
+1 Kozilek's Return
+1 Glassblower's Puzzleknot
+2 World Breaker
+2 Glassblower's Puzzleknot
+2 Kozilek's Return
+3 Kozilek's Return
+3 Glassblower's Puzzleknot
+4 Kozilek's Return
 1 Walking Ballista
 2 Walking Ballista
 1 Hope of Ghirapur
@@ -35,19 +35,19 @@
 2 Field of Ruin
 1 Zhalfirin Void
 1 Heart of Kiran
-1 Karn, the Great Creator
 1 Wastes
+1 Karn, the Great Creator
 1 Mutavault
 1 Sea Gate Wreckage
-1 Karn, Scion of Urza
-1 Warping Wail
 1 Mobilized District
+1 Warping Wail
+1 Spatial Contortion
 1 Ratchet Bomb
+1 Karn, Scion of Urza
 1 Fountain of Renewal
 1 Blast Zone
 1 Stonecoil Serpent
 1 Darksteel Citadel
-1 Spatial Contortion
 1 Scrap Trawler
 1 Foundry of the Consuls
 2 Wastes
@@ -55,29 +55,29 @@
 2 Zhalfirin Void
 2 Karn, the Great Creator
 2 Mutavault
-2 Karn, Scion of Urza
-2 Warping Wail
+2 Spatial Contortion
 2 Ratchet Bomb
+2 Warping Wail
+2 Karn, Scion of Urza
 2 Fountain of Renewal
 2 Scrap Trawler
 2 Mobilized District
-2 Spatial Contortion
 2 Stonecoil Serpent
 3 Blast Zone
 3 Warping Wail
+3 Karn, Scion of Urza
 3 Zhalfirin Void
 3 Wastes
 3 Karn, the Great Creator
 3 Mutavault
-3 Karn, Scion of Urza
+3 Spatial Contortion
 3 Fountain of Renewal
 3 Ratchet Bomb
-3 Spatial Contortion
 3 Stonecoil Serpent
 3 Walking Ballista
 3 Scrap Trawler
-4 Shrine of the Forsaken Gods
 4 Stonecoil Serpent
+4 Shrine of the Forsaken Gods
 4 Mutavault
 4 Scrap Trawler
 4 Zhalfirin Void
@@ -87,33 +87,33 @@
 1 Hallowed Fountain
 2 Teferi, Time Raveler
 2 Hallowed Fountain
-3 Teferi, Time Raveler
 3 Hallowed Fountain
+3 Teferi, Time Raveler
 4 Hallowed Fountain
 4 Teferi, Time Raveler
 1 Once Upon a Time
-1 Urborg, Tomb of Yawgmoth
 1 Emry, Lurker of the Loch
 1 Mox Amber
-1 Mana Confluence
-1 Jace, Wielder of Mysteries
 1 Terrarion
+1 Mana Confluence
+1 Urborg, Tomb of Yawgmoth
+1 Jace, Wielder of Mysteries
 1 Lazav, the Multifarious
 1 Diligent Excavator
 1 Oath of Nissa
 1 Oko, Thief of Crowns
 1 Kethis, the Hidden Hand
 1 Blooming Marsh
+2 Urborg, Tomb of Yawgmoth
 2 Emry, Lurker of the Loch
 2 Mox Amber
-2 Urborg, Tomb of Yawgmoth
+2 Terrarion
 2 Once Upon a Time
 2 Mana Confluence
 2 Temple Garden
 2 Oko, Thief of Crowns
 2 Blooming Marsh
 2 Kethis, the Hidden Hand
-2 Terrarion
 2 Diligent Excavator
 2 Oath of Nissa
 2 Lazav, the Multifarious
@@ -140,13 +140,13 @@
 1 Hour of Devastation
 2 Vessel of Nascency
 2 Hour of Devastation
-3 Vessel of Nascency
 3 Emrakul, the Promised End
 3 Hour of Devastation
+3 Vessel of Nascency
 4 Hour of Devastation
 1 Geier Reach Sanitarium
-1 Day's Undoing
 1 Narset, Parter of Veils
+1 Day's Undoing
 2 Day's Undoing
 2 Geier Reach Sanitarium
 2 Narset, Parter of Veils
@@ -157,8 +157,8 @@
 4 Narset, Parter of Veils
 4 Island
 5 Island
-1 Glacial Fortress
 1 Port Town
+1 Glacial Fortress
 1 Teferi, Hero of Dominaria
 1 Blessed Alliance
 1 Settle the Wreckage
@@ -168,11 +168,11 @@
 1 Dig Through Time
 1 Azorius Charm
 1 Myth Realized
-2 Glacial Fortress
 2 Port Town
+2 Glacial Fortress
 2 Teferi, Hero of Dominaria
-2 Plains
 2 Blessed Alliance
+2 Plains
 2 Supreme Verdict
 2 Azorius Charm
 2 Dig Through Time
@@ -181,15 +181,15 @@
 2 Opt
 3 Port Town
 3 Plains
-3 Glacial Fortress
 3 Supreme Verdict
+3 Glacial Fortress
 3 Myth Realized
 3 Azorius Charm
 3 Opt
 4 Port Town
 4 Plains
-4 Glacial Fortress
 4 Supreme Verdict
+4 Glacial Fortress
 4 Opt
 4 Azorius Charm
 4 Myth Realized
@@ -201,8 +201,8 @@
 1 Possibility Storm
 1 Rosethorn Acolyte
 1 Elvish Mystic
-1 Llanowar Elves
 1 Captain Lannery Storm
+1 Llanowar Elves
 1 Glorybringer
 1 Questing Beast
 1 Vivien Reid
@@ -213,8 +213,8 @@
 2 Domri Rade
 2 Possibility Storm
 2 Kiora, Behemoth Beckoner
-2 Llanowar Elves
 2 Elvish Mystic
+2 Llanowar Elves
 2 Rosethorn Acolyte
 2 Captain Lannery Storm
 2 Glorybringer
@@ -224,8 +224,8 @@
 2 Game Trail
 3 Possibility Storm
 3 Kiora, Behemoth Beckoner
-3 Llanowar Elves
 3 Elvish Mystic
+3 Llanowar Elves
 3 Glorybringer
 3 Lovestruck Beast
 3 Bonecrusher Giant

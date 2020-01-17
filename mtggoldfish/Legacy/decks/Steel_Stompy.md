@@ -45,7 +45,7 @@
 |                    2|[Blast Zone](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461171)          |                     |                                                                                               |
 |                    4|[Lotus Petal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420602)         |                     |                                                                                               |
 |                    1|[Etched Champion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397710)     |                     |                                                                                               |
-|                    2|[Etched Champion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397710)     |                     |                                                                                               |
 |                    2|[Karn, Scion of Urza](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442889) |                     |                                                                                               |
+|                    2|[Etched Champion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397710)     |                     |                                                                                               |
 |                    4|[Vault Skirge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=217984)        |                     |                                                                                               |
 

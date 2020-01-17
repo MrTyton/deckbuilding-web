@@ -20,15 +20,15 @@
 1 Tireless Tracker
 1 Prey Upon
 2 Prey Upon
-1 Spell Pierce
-1 Shapers' Sanctuary
-1 Feed the Clan
 1 Sleep
+1 Spell Pierce
+1 Feed the Clan
+1 Shapers' Sanctuary
 2 Spell Pierce
-2 Shapers' Sanctuary
+2 Sleep
 2 Return to Nature
 2 Feed the Clan
-2 Sleep
+2 Shapers' Sanctuary
 1 Rhonas the Indomitable
 1 Steel Leaf Champion
 1 Blink of an Eye
@@ -40,20 +40,22 @@
 2 Walking Ballista
 3 Steel Leaf Champion
 3 Questing Beast
-1 Shifting Ceratops
-1 Thrashing Brontodon
-2 Thrashing Brontodon
-3 Thrashing Brontodon
-3 Heroic Intervention
+1 Voracious Hydra
+1 Pithing Needle
+2 Voracious Hydra
+3 Lifecrafter's Bestiary
+1 Emrakul, the Promised End
+1 Natural State
+1 Cyclonic Rift
+2 Cyclonic Rift
+2 Tireless Tracker
+2 Natural State
+3 Natural State
 1 Agent of Treachery
 1 Mass Manipulation
 2 Mass Manipulation
 2 Entrancing Melody
 3 Mystical Dispute
-1 Voracious Hydra
-1 Pithing Needle
-2 Voracious Hydra
-3 Lifecrafter's Bestiary
 1 Fatal Push
 1 Thoughtseize
 2 Fatal Push
@@ -67,10 +69,8 @@
 3 Hunt the Hunter
 3 Scavenging Ooze
 4 Hunt the Hunter
-1 Emrakul, the Promised End
-1 Natural State
-1 Cyclonic Rift
-2 Cyclonic Rift
-2 Tireless Tracker
-2 Natural State
-3 Natural State
+1 Thrashing Brontodon
+1 Shifting Ceratops
+2 Thrashing Brontodon
+3 Thrashing Brontodon
+3 Heroic Intervention

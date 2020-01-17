@@ -38,66 +38,54 @@
 2 Inspiring Vantage
 3 Sacred Foundry
 3 Battlefield Forge
-3 Boros Charm
 3 Inspiring Vantage
+3 Boros Charm
 4 Inspiring Vantage
 4 Sacred Foundry
 4 Boros Charm
 1 Abrade
 2 Abrade
-1 Hanweir Battlements
-1 Shivan Reef
-1 Thought-Knot Seer
-1 Matter Reshaper
-1 Blast Zone
-2 Matter Reshaper
-2 Scavenger Grounds
-2 Shivan Reef
-2 Thought-Knot Seer
-3 Matter Reshaper
-3 Thought-Knot Seer
-4 Matter Reshaper
 1 Viashino Pyromancer
 1 Light Up the Stage
 2 Viashino Pyromancer
 2 Light Up the Stage
 3 Light Up the Stage
 4 Light Up the Stage
-2 Rekindling Phoenix
-3 Rekindling Phoenix
-4 Rekindling Phoenix
-1 Goblin Instigator
 1 Goblin Piledriver
-1 Legion Loyalist
-1 Goblin Warchief
-1 Reckless Bushwhacker
-1 Foundry Street Denizen
 1 Skirk Prospector
+1 Goblin Warchief
 1 Stoke the Flames
 1 Goblin Ringleader
+1 Goblin Instigator
+1 Legion Loyalist
+1 Foundry Street Denizen
+1 Reckless Bushwhacker
 2 Goblin Instigator
-2 Legion Loyalist
-2 Foundry Street Denizen
 2 Goblin Warchief
 2 Goblin Piledriver
-2 Reckless Bushwhacker
+2 Legion Loyalist
 2 Goblin Ringleader
+2 Foundry Street Denizen
 2 Skirk Prospector
 2 Stoke the Flames
+2 Reckless Bushwhacker
 3 Goblin Instigator
 3 Legion Loyalist
 3 Goblin Piledriver
 3 Goblin Warchief
-3 Reckless Bushwhacker
+3 Legion Warboss
 3 Skirk Prospector
 3 Goblin Ringleader
 3 Stoke the Flames
-3 Legion Warboss
+3 Reckless Bushwhacker
 4 Goblin Instigator
 4 Legion Loyalist
 4 Goblin Piledriver
 4 Skirk Prospector
 4 Goblin Ringleader
+2 Rekindling Phoenix
+3 Rekindling Phoenix
+4 Rekindling Phoenix
 1 Earthshaker Khenra
 1 Bomat Courier
 2 Earthshaker Khenra
@@ -106,6 +94,18 @@
 3 Bomat Courier
 4 Earthshaker Khenra
 4 Bomat Courier
+1 Hanweir Battlements
+1 Shivan Reef
+1 Thought-Knot Seer
+1 Matter Reshaper
+1 Blast Zone
+2 Scavenger Grounds
+2 Shivan Reef
+2 Thought-Knot Seer
+2 Matter Reshaper
+3 Thought-Knot Seer
+3 Matter Reshaper
+4 Matter Reshaper
 1 Eidolon of the Great Revel
 1 Incendiary Flow
 2 Eidolon of the Great Revel
@@ -123,10 +123,10 @@
 19 Mountain
 20 Mountain
 1 Clifftop Retreat
-1 Gods Willing
 1 Plains
 1 Dreadhorde Arcanist
 1 Titan's Strength
+1 Gods Willing
 1 Reckless Rage
 1 Favored Hoplite
 1 Defiant Strike
@@ -134,8 +134,8 @@
 1 Dauntless Bodyguard
 1 Tenth District Legionnaire
 2 Clifftop Retreat
-2 Gods Willing
 2 Dreadhorde Arcanist
+2 Gods Willing
 2 Plains
 2 Feather, the Redeemed
 2 Reckless Rage
@@ -144,10 +144,10 @@
 2 Defiant Strike
 2 Tenth District Legionnaire
 2 Dauntless Bodyguard
-3 Clifftop Retreat
 3 Gods Willing
 3 Reckless Rage
 3 Tenth District Legionnaire
+3 Clifftop Retreat
 3 Titan's Strength
 3 Plains
 3 Defiant Strike
