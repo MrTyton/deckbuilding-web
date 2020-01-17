@@ -27,3 +27,21 @@
 |                                                                                              |1 [Shifting Ceratops](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466948)|                                                                                            |2 [Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)   |                                                                                               |
 |                                                                                              |1 [Tireless Tracker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409997) |                                                                                            |                                                                                              |                                                                                               |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                        Maindeck Card                                         |*n*<sup>th</sup> copy|                                        Sideboard Card                                         |
+|--------------------:|----------------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------------|
+|                    1|[Bayou](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=879)                 |                    1|[Scavenging Ooze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420783)     |
+|                    1|[Gilded Goose](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473122)       |                    1|[Ashiok, Dream Render](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461155)|
+|                    1|[Sylvan Library](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=2240)       |                    1|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706) |
+|                    2|[Ice-Fang Coatl](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464152)     |                    1|[Back to Basics](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456642)      |
+|                    2|[Snow-Covered Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121256) |                    2|[Carpet of Flowers](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=5858)     |
+|                    2|[Snow-Covered Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121192)|                    2|[Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452)   |
+|                    2|[Gilded Goose](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473122)       |                    2|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706) |
+|                    3|[Ice-Fang Coatl](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464152)     |                    2|[Plague Engineer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464049)     |
+|                    3|[Gilded Goose](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473122)       |                     |                                                                                               |
+|                    3|[Abrupt Decay](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456061)       |                     |                                                                                               |
+|                    4|[Gilded Goose](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473122)       |                     |                                                                                               |
+|                    4|[Ice-Fang Coatl](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464152)     |                     |                                                                                               |
+
