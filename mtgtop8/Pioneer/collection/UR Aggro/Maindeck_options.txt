@@ -1,3 +1,4 @@
+2 Island
 1 Sulfur Falls
 2 Mountain
 3 Mountain
@@ -23,6 +24,7 @@
 3 Elder Deep-Fiend
 4 Brazen Borrower
 4 Elder Deep-Fiend
+1 Wandering Fumarole
 2 Sulfur Falls
 4 Mountain
 1 Flamewake Phoenix
@@ -30,43 +32,39 @@
 3 Flamewake Phoenix
 4 Rekindling Phoenix
 4 Flamewake Phoenix
+1 Sanctum of Ugin
 3 Lightning Axe
 3 Izzet Charm
 4 Kozilek's Return
-1 Wandering Fumarole
-4 Izzet Charm
-1 Sanctum of Ugin
 2 Wandering Fumarole
-3 Sulfur Falls
-1 Emry, Lurker of the Loch
-3 Mutavault
-3 Island
 2 Emry, Lurker of the Loch
-1 Chandra, Torch of Defiance
-2 Chandra, Torch of Defiance
+4 Izzet Charm
+3 Mutavault
 1 Ornithopter
 2 Ornithopter
+3 Sulfur Falls
 3 Ornithopter
 4 Spire of Industry
-4 Island
+3 Island
 1 Metallic Rebuke
-3 Wandering Fumarole
-4 Lightning Axe
 1 Smuggler's Copter
 2 Smuggler's Copter
 3 Smuggler's Copter
 4 Ornithopter
+3 Wandering Fumarole
+1 Chandra, Torch of Defiance
+2 Chandra, Torch of Defiance
 2 Sanctum of Ugin
-5 Island
+4 Island
 1 Glorybringer
 2 Glorybringer
 3 Glorybringer
-3 The Royal Scions
-4 The Royal Scions
 4 Smuggler's Copter
 2 Metallic Rebuke
 1 Champion of Wits
 2 Champion of Wits
+4 Lightning Axe
+5 Island
 3 Wild Slash
 1 Shock
 5 Mountain
@@ -74,6 +72,8 @@
 2 Opt
 3 Opt
 1 Fabled Passage
+1 Dive Down
+1 Hangarback Walker
 1 Pia Nalaar
 1 Whirler Rogue
 1 Phyrexian Revoker
@@ -87,6 +87,8 @@
 3 Emry, Lurker of the Loch
 3 Scrapheap Scrounger
 3 Metallic Rebuke
+3 The Royal Scions
+4 The Royal Scions
 1 Thermo-Alchemist
 2 Thermo-Alchemist
 3 Thermo-Alchemist
@@ -172,36 +174,36 @@
 4 Silumgar's Scorn
 4 Glorybringer
 4 Thunderbreak Regent
-1 Wizard's Lightning
 1 Crash Through
-1 Light Up the Stage
 1 Soul-Scar Mage
 1 Dreadhorde Arcanist
+1 Wizard's Lightning
 1 Hazoret the Fervent
 1 Monastery Swiftspear
 1 Curious Obsession
 1 Stormchaser Mage
+1 Light Up the Stage
 2 Shock
-2 Wizard's Lightning
 2 Dreadhorde Arcanist
-2 Light Up the Stage
-2 Monastery Swiftspear
 2 Crash Through
+2 Monastery Swiftspear
 2 Soul-Scar Mage
+2 Wizard's Lightning
 2 Curious Obsession
 2 Stormchaser Mage
+2 Light Up the Stage
 3 Shock
-3 Wizard's Lightning
 3 Monastery Swiftspear
-3 Light Up the Stage
 3 Soul-Scar Mage
+3 Wizard's Lightning
 3 Stormchaser Mage
 3 Crash Through
+3 Light Up the Stage
 3 Curious Obsession
 4 Monastery Swiftspear
-4 Wizard's Lightning
 4 Light Up the Stage
 4 Soul-Scar Mage
+4 Wizard's Lightning
 4 Wild Slash
 4 Stormchaser Mage
 4 Crash Through
