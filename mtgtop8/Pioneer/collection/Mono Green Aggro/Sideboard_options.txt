@@ -58,11 +58,6 @@
 1 Feed the Clan
 1 Kiora, Behemoth Beckoner
 2 Feed the Clan
-1 Naturalize
-1 Natural State
-1 Prey Upon
-2 Natural State
-2 Prey Upon
 1 Ugin, the Spirit Dragon
 1 Kozilek, the Great Distortion
 1 Grafdigger's Cage
@@ -70,15 +65,16 @@
 2 Courser of Kruphix
 2 Crook of Condemnation
 1 Tormod's Crypt
+2 Roar of Challenge
 2 Tormod's Crypt
 2 Blossoming Defense
-2 Roar of Challenge
+1 Prey Upon
+1 Naturalize
+1 Natural State
+2 Prey Upon
+2 Natural State
 3 Tireless Tracker
 3 Nylea's Disciple
-1 Thrashing Brontodon
-2 Thrashing Brontodon
-2 Prowling Serpopard
-3 Shifting Ceratops
 1 World Breaker
 1 Emrakul, the Promised End
 1 Jaddi Offshoot
@@ -88,6 +84,13 @@
 3 Jaddi Offshoot
 3 Ratchet Bomb
 3 Sorcerous Spyglass
+1 Negate
+1 Mystical Dispute
+2 Negate
+2 Mystical Dispute
+3 Negate
+3 Mystical Dispute
+4 Negate
 4 Thought-Knot Seer
 1 Voracious Hydra
 1 Titanic Brawl
@@ -103,10 +106,7 @@
 3 Ultimate Price
 3 Thoughtseize
 4 Thoughtseize
-1 Negate
-1 Mystical Dispute
-2 Negate
-3 Negate
-3 Mystical Dispute
-4 Negate
-2 Mystical Dispute
+1 Thrashing Brontodon
+2 Prowling Serpopard
+3 Shifting Ceratops
+2 Thrashing Brontodon

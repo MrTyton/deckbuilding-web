@@ -45,12 +45,6 @@
 4 Boros Charm
 1 Abrade
 2 Abrade
-1 Viashino Pyromancer
-1 Light Up the Stage
-2 Viashino Pyromancer
-2 Light Up the Stage
-3 Light Up the Stage
-4 Light Up the Stage
 1 Goblin Piledriver
 1 Skirk Prospector
 1 Goblin Warchief
@@ -73,11 +67,11 @@
 3 Legion Loyalist
 3 Goblin Piledriver
 3 Goblin Warchief
-3 Legion Warboss
 3 Skirk Prospector
 3 Goblin Ringleader
 3 Stoke the Flames
 3 Reckless Bushwhacker
+3 Legion Warboss
 4 Goblin Instigator
 4 Legion Loyalist
 4 Goblin Piledriver
@@ -86,6 +80,12 @@
 2 Rekindling Phoenix
 3 Rekindling Phoenix
 4 Rekindling Phoenix
+1 Viashino Pyromancer
+1 Light Up the Stage
+2 Viashino Pyromancer
+2 Light Up the Stage
+3 Light Up the Stage
+4 Light Up the Stage
 1 Earthshaker Khenra
 1 Bomat Courier
 2 Earthshaker Khenra
@@ -124,9 +124,9 @@
 20 Mountain
 1 Clifftop Retreat
 1 Plains
-1 Dreadhorde Arcanist
 1 Titan's Strength
 1 Gods Willing
+1 Dreadhorde Arcanist
 1 Reckless Rage
 1 Favored Hoplite
 1 Defiant Strike
@@ -134,7 +134,6 @@
 1 Dauntless Bodyguard
 1 Tenth District Legionnaire
 2 Clifftop Retreat
-2 Dreadhorde Arcanist
 2 Gods Willing
 2 Plains
 2 Feather, the Redeemed
@@ -142,12 +141,13 @@
 2 Favored Hoplite
 2 Titan's Strength
 2 Defiant Strike
+2 Dreadhorde Arcanist
 2 Tenth District Legionnaire
 2 Dauntless Bodyguard
+3 Clifftop Retreat
 3 Gods Willing
 3 Reckless Rage
 3 Tenth District Legionnaire
-3 Clifftop Retreat
 3 Titan's Strength
 3 Plains
 3 Defiant Strike

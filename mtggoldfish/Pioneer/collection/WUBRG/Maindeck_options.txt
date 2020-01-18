@@ -1,7 +1,7 @@
-1 Deafening Clarion
 1 Gilded Goose
-2 Thought Erasure
+1 Deafening Clarion
 2 Gilded Goose
+2 Thought Erasure
 2 Abrupt Decay
 3 Gilded Goose
 3 Thought Erasure
@@ -10,8 +10,8 @@
 4 Botanical Sanctum
 1 Fatal Push
 2 Fatal Push
-1 Tomebound Lich
 1 Thoughtseize
+1 Tomebound Lich
 1 Grisly Salvage
 1 Soulflayer
 1 Zetalpa, Primal Dawn
@@ -19,8 +19,8 @@
 1 Samut, Voice of Dissent
 1 Gather the Pack
 1 Striped Riverwinder
-2 Striped Riverwinder
 2 Thoughtseize
+2 Striped Riverwinder
 2 Soulflayer
 2 Samut, Voice of Dissent
 2 Zetalpa, Primal Dawn
@@ -29,17 +29,17 @@
 2 Tomebound Lich
 3 Grisly Salvage
 3 Mana Confluence
+3 Thoughtseize
 3 Soulflayer
 3 Samut, Voice of Dissent
 3 Zetalpa, Primal Dawn
 3 Gather the Pack
-3 Thoughtseize
 3 Tomebound Lich
 3 Striped Riverwinder
 4 Grisly Salvage
+4 Thoughtseize
 4 Mana Confluence
 4 Zetalpa, Primal Dawn
-4 Thoughtseize
 4 Tomebound Lich
 4 Striped Riverwinder
 4 Soulflayer
@@ -47,42 +47,42 @@
 2 Breeding Pool
 1 Fae of Wishes
 2 Fae of Wishes
-1 Arboreal Grazer
-1 Lotus Field
-1 Dig Through Time
-1 Opt
-1 Pore Over the Pages
 1 Temple of Mystery
 1 Thespian's Stage
 1 Hidden Strings
-1 Sylvan Scrying
+1 Pore Over the Pages
+1 Lotus Field
 1 Vizier of Tumbling Sands
-2 Arboreal Grazer
-2 Dig Through Time
+1 Sylvan Scrying
+1 Arboreal Grazer
+1 Dig Through Time
+1 Opt
+2 Temple of Mystery
+2 Thespian's Stage
+2 Hidden Strings
 2 Pore Over the Pages
 2 Vizier of Tumbling Sands
-2 Hidden Strings
-2 Thespian's Stage
-2 Opt
-2 Sylvan Scrying
-2 Temple of Mystery
 2 Lotus Field
-3 Arboreal Grazer
+2 Sylvan Scrying
+2 Dig Through Time
+2 Arboreal Grazer
+2 Opt
+3 Temple of Mystery
+3 Pore Over the Pages
+3 Dig Through Time
+3 Sylvan Scrying
 3 Thespian's Stage
 3 Hidden Strings
-3 Breeding Pool
-3 Temple of Mystery
-3 Sylvan Scrying
 3 Lotus Field
-3 Dig Through Time
-3 Pore Over the Pages
-4 Arboreal Grazer
+3 Breeding Pool
+3 Arboreal Grazer
 4 Temple of Mystery
-4 Lotus Field
-4 Hidden Strings
 4 Pore Over the Pages
-4 Thespian's Stage
 4 Sylvan Scrying
+4 Thespian's Stage
+4 Hidden Strings
+4 Lotus Field
+4 Arboreal Grazer
 1 Tyrant's Scorn
 1 Knight of Autumn
 4 Sylvan Caryatid
@@ -93,15 +93,15 @@
 4 Fae of Wishes
 1 Shimmer of Possibility
 2 Shimmer of Possibility
-1 Blast Zone
 1 Growth Spiral
-2 Forest
+1 Blast Zone
 2 Growth Spiral
-3 Vizier of Tumbling Sands
+2 Forest
 3 Growth Spiral
-4 Dig Through Time
+3 Vizier of Tumbling Sands
 4 Growth Spiral
 4 Vizier of Tumbling Sands
+4 Dig Through Time
 1 Omniscience
 3 Opt
 4 Breeding Pool
@@ -128,8 +128,8 @@
 3 Shimmer of Possibility
 1 Sheltered Thicket
 1 Saheeli Rai
-2 Vessel of Nascency
 2 The Royal Scions
+2 Vessel of Nascency
 2 Traverse the Ulvenwald
 1 Overgrown Tomb
 1 Collective Brutality
@@ -141,8 +141,8 @@
 1 Spirebluff Canal
 2 Whirler Virtuoso
 4 Niv-Mizzet Reborn
-1 Steam Vents
 1 Chandra, Torch of Defiance
+1 Steam Vents
 2 Steam Vents
 2 Chandra, Torch of Defiance
 3 Steam Vents
@@ -151,10 +151,10 @@
 1 Champion of Wits
 1 Silumgar's Command
 1 Supreme Will
-1 Bedevil
 1 Ravenous Chupacabra
 1 Sweltering Suns
 1 Languish
+1 Bedevil
 1 Sulfur Falls
 1 Blood Crypt
 1 Glorybringer
@@ -188,10 +188,10 @@
 1 Godless Shrine
 1 Cut/Ribbons
 4 Bring to Light
-1 Expansion/Explosion
 1 Fetid Pools
 1 Dark Petition
 1 Doublecast
+1 Expansion/Explosion
 1 Yavimaya Coast
 2 Dark Petition
 2 Yavimaya Coast
@@ -200,8 +200,8 @@
 1 Chandra, Flamecaller
 1 Kenrith, the Returned King
 1 Shivan Reef
-1 Anger of the Gods
 1 Narset, Parter of Veils
+1 Anger of the Gods
 1 Sarkhan the Masterless
 1 Castle Vantress
 1 Battlefield Forge

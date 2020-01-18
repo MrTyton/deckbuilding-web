@@ -1,28 +1,5 @@
-1 Sphinx's Revelation
-1 Field of Ruin
-1 Supreme Verdict
-1 Last Breath
-2 Teferi, Hero of Dominaria
-2 Sphinx's Revelation
-2 Supreme Verdict
-2 Narset, Parter of Veils
-2 Essence Scatter
-2 Jace, Architect of Thought
-2 Last Breath
-2 Field of Ruin
-3 Supreme Verdict
-3 Sphinx's Revelation
-3 Detention Sphere
-4 Supreme Verdict
-1 Supreme Will
-1 Anticipate
-1 Spell Pierce
-1 Blast Zone
-1 Unsummon
-1 Treasure Cruise
 1 Syncopate
 1 Essence Flux
-2 Opt
 2 Anticipate
 2 Supreme Will
 2 Spell Pierce
@@ -30,17 +7,18 @@
 2 Syncopate
 2 Essence Flux
 2 Unsummon
+2 Opt
 3 Brave the Elements
 3 Opt
 3 Syncopate
-4 Opt
 4 Monastery Mentor
+4 Opt
 1 Dovin, Grand Arbiter
 1 Elite Guardmage
 1 Hero of Precinct One
 1 Reflector Mage
-1 Mutavault
 1 Depose/Deploy
+1 Mutavault
 1 Judge's Familiar
 1 Port Town
 1 Ojutai's Command
@@ -60,6 +38,28 @@
 4 Hero of Precinct One
 4 Reflector Mage
 4 Judge's Familiar
+1 Supreme Verdict
+1 Jace, Architect of Thought
+1 Sphinx's Revelation
+1 Elixir of Immortality
+1 Search for Azcanta
+1 Narset, Parter of Veils
+1 Blessed Alliance
+1 Essence Scatter
+1 Field of Ruin
+1 Last Breath
+2 Teferi, Hero of Dominaria
+2 Supreme Verdict
+2 Sphinx's Revelation
+2 Narset, Parter of Veils
+2 Essence Scatter
+2 Jace, Architect of Thought
+2 Field of Ruin
+2 Last Breath
+3 Sphinx's Revelation
+3 Detention Sphere
+3 Supreme Verdict
+4 Supreme Verdict
 1 Brazen Borrower
 1 Dig Through Time
 1 Cast Out
@@ -75,6 +75,6 @@
 3 Dig Through Time
 3 Dragonlord Ojutai
 4 Censor
-4 Brazen Borrower
 4 Dig Through Time
+4 Brazen Borrower
 7 Island

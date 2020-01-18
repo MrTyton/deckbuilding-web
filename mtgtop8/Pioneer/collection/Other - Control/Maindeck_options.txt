@@ -113,13 +113,13 @@
 1 Sulfur Falls
 2 Steam Vents
 1 Bedevil
-1 Glint-Sleeve Siphoner
 1 Wandering Fumarole
+1 Glint-Sleeve Siphoner
 1 Champion of Wits
-2 Glint-Sleeve Siphoner
 2 Champion of Wits
 2 The Scarab God
 2 Wandering Fumarole
+2 Glint-Sleeve Siphoner
 3 Steam Vents
 3 Glint-Sleeve Siphoner
 4 Glint-Sleeve Siphoner
@@ -131,8 +131,8 @@
 2 Traverse the Ulvenwald
 3 Traverse the Ulvenwald
 4 Traverse the Ulvenwald
-1 Seasons Past
 1 Dark Petition
+1 Seasons Past
 1 Hissing Quagmire
 2 Dark Petition
 2 Assassin's Trophy
@@ -155,8 +155,8 @@
 3 Narset, Parter of Veils
 1 Fires of Invention
 1 Drawn from Dreams
-1 Fae of Wishes
 1 Jace, Architect of Thought
+1 Fae of Wishes
 2 Fires of Invention
 2 Fae of Wishes
 3 Fires of Invention
@@ -189,15 +189,15 @@
 2 Goblin Rabblemaster
 3 Castle Locthwain
 3 Canyon Slough
-1 Liliana, Dreadhorde General
+1 Glimmer of Genius
 1 Ritual of Soot
 1 Hour of Devastation
-1 Glimmer of Genius
+1 Liliana, Dreadhorde General
 1 Nicol Bolas, the Ravager
 2 Nicol Bolas, Dragon-God
+2 Glimmer of Genius
 2 Ritual of Soot
 2 Nicol Bolas, the Ravager
-2 Glimmer of Genius
 3 Kalitas, Traitor of Ghet
 3 Nicol Bolas, the Ravager
 1 Glacial Fortress
@@ -207,8 +207,8 @@
 1 Elspeth, Sun's Champion
 1 Nicol Bolas, God-Pharaoh
 1 Interplanar Beacon
-1 Temple of Epiphany
 1 Chandra, Awakened Inferno
+1 Temple of Epiphany
 1 Temple of Enlightenment
 1 Clifftop Retreat
 1 Keranos, God of Storms
@@ -224,10 +224,10 @@
 2 Temple of Epiphany
 2 Temple of Triumph
 2 Deafening Clarion
-3 Fae of Wishes
 3 Supreme Verdict
 3 Interplanar Beacon
 3 Deafening Clarion
+3 Fae of Wishes
 4 Interplanar Beacon
 1 Chandra, Acolyte of Flame
 1 Goblin Dark-Dwellers
@@ -270,8 +270,8 @@
 4 Lovestruck Beast
 1 Isolated Chapel
 1 Gods Willing
-1 Sigarda's Aid
 1 Cerulean Drake
+1 Sigarda's Aid
 1 Open the Armory
 1 Aqueous Form
 1 Ancestral Blade
@@ -281,9 +281,9 @@
 1 Scheming Symmetry
 1 Merfolk Secretkeeper
 2 Colossus Hammer
-2 Gods Willing
 2 Open the Armory
 2 Overwhelmed Apprentice
+2 Gods Willing
 2 Sigarda's Aid
 2 Apostle of Purifying Light
 2 Scheming Symmetry
@@ -294,9 +294,9 @@
 3 Godless Shrine
 3 Overwhelmed Apprentice
 3 Sigarda's Aid
+3 Gods Willing
 3 Fetid Pools
 3 Colossus Hammer
-3 Gods Willing
 3 Open the Armory
 3 Isolated Chapel
 3 Apostle of Purifying Light
@@ -304,9 +304,9 @@
 3 Scheming Symmetry
 3 Merfolk Secretkeeper
 4 Cerulean Drake
+4 Mana Confluence
 4 Open the Armory
 4 Colossus Hammer
-4 Mana Confluence
 4 Scheming Symmetry
 4 Sigarda's Aid
 4 Gods Willing

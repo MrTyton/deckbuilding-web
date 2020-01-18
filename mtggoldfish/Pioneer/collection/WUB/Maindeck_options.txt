@@ -5,21 +5,21 @@
 4 Supreme Verdict
 1 Isolated Chapel
 1 Sphinx's Revelation
+1 Hero's Downfall
 1 Censor
+1 Elixir of Immortality
 1 Search for Azcanta
 1 Absorb
-1 Ultimate Price
-1 Hero's Downfall
-1 Elixir of Immortality
 1 Disallow
 1 Dovin's Veto
 1 Glimmer of Genius
+1 Ultimate Price
+2 Hero's Downfall
 2 Censor
 2 Absorb
 2 Sphinx's Revelation
 2 Dovin's Veto
 2 Ultimate Price
-2 Hero's Downfall
 2 Glimmer of Genius
 3 Shambling Vent
 3 Sphinx's Revelation
@@ -30,49 +30,29 @@
 4 Absorb
 4 Sphinx's Revelation
 1 Jace, Architect of Thought
-1 Gideon of the Trials
+1 Kaya, Orzhov Usurper
 1 Narset, Parter of Veils
 1 Thoughtseize
 1 Swamp
 1 Oath of Kaya
-1 Kaya, Orzhov Usurper
 1 Thought Erasure
+1 Gideon of the Trials
 1 Murderous Rider
-2 Gideon of the Trials
 2 Narset, Parter of Veils
+2 Thoughtseize
 2 Murderous Rider
 2 Jace, Architect of Thought
-2 Thoughtseize
 2 Oath of Kaya
+2 Gideon of the Trials
 2 Thought Erasure
 3 Thought Erasure
-3 Murderous Rider
 3 Thoughtseize
+3 Murderous Rider
 4 Thought Erasure
-4 Fatal Push
 4 Thoughtseize
-1 Elite Guardmage
-1 Kytheon, Hero of Akros
-1 Thalia's Lieutenant
-1 Kitesail Freebooter
-1 Unclaimed Territory
-2 Elite Guardmage
-2 Thalia's Lieutenant
-2 Unclaimed Territory
-2 Kitesail Freebooter
-3 Elite Guardmage
-3 Thalia's Lieutenant
-3 Kitesail Freebooter
-3 Unclaimed Territory
-4 Thraben Inspector
-4 Unclaimed Territory
-4 Charming Prince
-4 Elite Guardmage
-4 Kitesail Freebooter
-4 Concealed Courtyard
-4 Thalia's Lieutenant
-1 Brazen Borrower
+4 Fatal Push
 1 Selfless Spirit
+1 Brazen Borrower
 1 Archangel Avacyn
 1 Spell Queller
 2 Brazen Borrower
@@ -84,9 +64,28 @@
 3 Spell Queller
 3 Gideon, Ally of Zendikar
 4 Spell Queller
+1 Thalia's Lieutenant
+1 Kytheon, Hero of Akros
+1 Elite Guardmage
+1 Kitesail Freebooter
+1 Unclaimed Territory
+2 Thalia's Lieutenant
+2 Elite Guardmage
+2 Unclaimed Territory
+2 Kitesail Freebooter
+3 Thalia's Lieutenant
+3 Elite Guardmage
+3 Kitesail Freebooter
+3 Unclaimed Territory
+4 Concealed Courtyard
+4 Thalia's Lieutenant
+4 Unclaimed Territory
+4 Charming Prince
+4 Elite Guardmage
+4 Kitesail Freebooter
+4 Thraben Inspector
 1 Merfolk Secretkeeper
 1 Gods Willing
-1 Mana Confluence
 1 Scheming Symmetry
 1 Fetid Pools
 1 Apostle of Purifying Light
@@ -97,6 +96,7 @@
 1 Aqueous Form
 1 Open the Armory
 1 Sigarda's Aid
+1 Mana Confluence
 2 Fetid Pools
 2 Merfolk Secretkeeper
 2 Gods Willing
@@ -110,25 +110,25 @@
 2 Open the Armory
 2 Colossus Hammer
 3 Merfolk Secretkeeper
-3 Isolated Chapel
 3 Scheming Symmetry
 3 Cerulean Drake
 3 Apostle of Purifying Light
-3 Mana Confluence
 3 Open the Armory
 3 Gods Willing
 3 Colossus Hammer
 3 Fetid Pools
 3 Sigarda's Aid
+3 Mana Confluence
 3 Overwhelmed Apprentice
+3 Isolated Chapel
 4 Merfolk Secretkeeper
 4 Apostle of Purifying Light
 4 Overwhelmed Apprentice
 4 Fetid Pools
 4 Sigarda's Aid
 4 Scheming Symmetry
-4 Mana Confluence
 4 Colossus Hammer
 4 Gods Willing
 4 Open the Armory
+4 Mana Confluence
 4 Cerulean Drake

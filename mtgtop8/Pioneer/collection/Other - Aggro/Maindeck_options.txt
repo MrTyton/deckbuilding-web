@@ -23,19 +23,19 @@
 1 Defiant Strike
 1 Favored Hoplite
 1 Reckless Rage
-1 Titan's Strength
 1 Dreadhorde Arcanist
+1 Titan's Strength
 1 Gods Willing
 2 Invigorated Rampage
 2 Battlefield Forge
 2 Monastery Swiftspear
 2 Tenth District Legionnaire
+2 Dreadhorde Arcanist
 2 Defiant Strike
 2 Titan's Strength
 2 Favored Hoplite
 2 Reckless Rage
 2 Feather, the Redeemed
-2 Dreadhorde Arcanist
 2 Gods Willing
 3 Battlefield Forge
 3 Monastery Swiftspear
@@ -81,13 +81,13 @@
 2 Gladecover Scout
 2 Fortified Village
 2 Unflinching Courage
+3 Fortified Village
 3 Forest
 3 All That Glitters
 3 Ethereal Armor
 3 Gryff's Boon
 3 Unflinching Courage
 3 Cartouche of Solidarity
-3 Fortified Village
 3 Gladecover Scout
 3 Bassara Tower Archer
 4 All That Glitters
@@ -181,29 +181,29 @@
 1 Mutavault
 2 Mutavault
 1 Worthy Knight
+1 Tajic, Legion's Edge
 1 History of Benalia
 1 Conclave Tribunal
 1 Gideon, Ally of Zendikar
-1 Tajic, Legion's Edge
 1 Inspiring Veteran
 1 Venerable Knight
 2 Worthy Knight
+2 Tajic, Legion's Edge
 2 History of Benalia
 2 Conclave Tribunal
 2 Venerable Knight
-2 Tajic, Legion's Edge
 2 Gideon, Ally of Zendikar
 2 Inspiring Veteran
-3 Worthy Knight
 3 History of Benalia
+3 Worthy Knight
+3 Tajic, Legion's Edge
 3 Clifftop Retreat
 3 Venerable Knight
 3 Inspiring Veteran
-3 Tajic, Legion's Edge
 4 History of Benalia
 4 Worthy Knight
-4 Inspiring Veteran
 4 Clifftop Retreat
+4 Inspiring Veteran
 1 Ashiok, Dream Render
 4 Haunted Dead
 1 Tireless Tracker
@@ -237,26 +237,6 @@
 3 Mountain
 4 Dreadhorde Arcanist
 4 Tenth District Legionnaire
-2 Gilded Goose
-1 Renegade Rallier
-1 Leafkin Druid
-1 Risen Reef
-1 Shalai, Voice of Plenty
-1 Neoform
-1 Mana Confluence
-2 Leafkin Druid
-2 Neoform
-2 Risen Reef
-2 Mana Confluence
-3 Teferi, Time Raveler
-3 Voice of Resurgence
-3 Leafkin Druid
-3 Neoform
-3 Risen Reef
-3 Mana Confluence
-4 Voice of Resurgence
-4 Neoform
-4 Risen Reef
 1 Rhonas the Indomitable
 1 Aether Hub
 2 Aether Hub
@@ -278,18 +258,38 @@
 1 Aethersphere Harvester
 2 The Scarab God
 2 Unclaimed Territory
+2 Aethersphere Harvester
 2 Glint-Sleeve Siphoner
 2 Elite Guardmage
-2 Aethersphere Harvester
 2 Kitesail Freebooter
 3 Unclaimed Territory
 3 Glint-Sleeve Siphoner
 3 Elite Guardmage
 3 Kitesail Freebooter
 4 Unclaimed Territory
-4 Glint-Sleeve Siphoner
 4 Kitesail Freebooter
+4 Glint-Sleeve Siphoner
 4 Elite Guardmage
+2 Gilded Goose
+1 Renegade Rallier
+1 Leafkin Druid
+1 Risen Reef
+1 Shalai, Voice of Plenty
+1 Neoform
+1 Mana Confluence
+2 Leafkin Druid
+2 Neoform
+2 Risen Reef
+2 Mana Confluence
+3 Teferi, Time Raveler
+3 Voice of Resurgence
+3 Leafkin Druid
+3 Neoform
+3 Risen Reef
+3 Mana Confluence
+4 Voice of Resurgence
+4 Neoform
+4 Risen Reef
 1 Steel Leaf Champion
 1 Duskwatch Recruiter
 1 Yorvo, Lord of Garenbrig
@@ -387,9 +387,9 @@
 2 Knight of the White Orchid
 3 Soldier of the Pantheon
 3 Kytheon, Hero of Akros
-3 Hazoret the Fervent
 3 Tithe Taker
 3 Brave the Elements
+3 Hazoret the Fervent
 3 Declaration in Stone
 3 Knight of the White Orchid
 4 Soldier of the Pantheon
@@ -422,30 +422,30 @@
 1 Attune with Aether
 1 Rogue Refiner
 1 Whirler Virtuoso
-1 Glorybringer
+1 Bristling Hydra
 1 Longtusk Cub
+1 Glorybringer
 1 Abrade
 1 Chandra, Torch of Defiance
 1 Confiscation Coup
 1 Sulfur Falls
 1 Magma Spray
-1 Bristling Hydra
 2 Harnessed Lightning
 2 Spirebluff Canal
 2 Whirler Virtuoso
 2 Attune with Aether
 2 Rogue Refiner
+2 Bristling Hydra
 2 Longtusk Cub
 2 Glorybringer
 2 Confiscation Coup
-2 Bristling Hydra
 2 Chandra, Torch of Defiance
 2 Magma Spray
 3 Rogue Refiner
 3 Harnessed Lightning
 3 Longtusk Cub
-3 Whirler Virtuoso
 3 Bristling Hydra
+3 Whirler Virtuoso
 3 Attune with Aether
 3 Glorybringer
 4 Rogue Refiner
@@ -457,6 +457,7 @@
 1 Urborg, Tomb of Yawgmoth
 1 Ifnir Deadlands
 1 Ravenous Chupacabra
+1 Caves of Koilos
 1 Lyra Dawnbringer
 1 Ultimate Price
 1 Liliana, the Last Hope
@@ -464,7 +465,6 @@
 1 Thought-Knot Seer
 1 Fatal Push
 1 Thoughtseize
-1 Caves of Koilos
 1 Fairgrounds Warden
 1 Baffling End
 1 Brain Maggot
@@ -472,6 +472,7 @@
 1 Wasteland Strangler
 1 Shambling Vent
 2 Ravenous Chupacabra
+2 Caves of Koilos
 2 Ultimate Price
 2 Thought-Knot Seer
 2 Fatal Push
@@ -481,7 +482,6 @@
 2 Brain Maggot
 2 Ifnir Deadlands
 2 Lyra Dawnbringer
-2 Caves of Koilos
 2 Shefet Dunes
 2 Wasteland Strangler
 2 Shambling Vent

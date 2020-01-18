@@ -21,8 +21,8 @@
 1 Ice-Fang Coatl
 1 Gonti, Lord of Luxury
 1 Abrupt Decay
-1 Snow-Covered Swamp
 1 Mana Leak
+1 Snow-Covered Swamp
 1 Ingenious Infiltrator
 1 Faerie Seer
 1 Fallen Shinobi
@@ -42,10 +42,10 @@
 3 Snow-Covered Swamp
 3 Abrupt Decay
 3 Ice-Fang Coatl
-3 Ingenious Infiltrator
 3 Mana Leak
 3 Snow-Covered Island
 3 Polluted Delta
+3 Ingenious Infiltrator
 3 Faerie Seer
 4 Polluted Delta
 4 Ice-Fang Coatl
@@ -63,6 +63,24 @@
 4 Seasoned Pyromancer
 4 Wrenn and Six
 4 Blood Moon
+1 Hexdrinker
+2 Hexdrinker
+1 Goblin Rabblemaster
+1 Chandra, Awakened Inferno
+1 Castle Embereth
+1 Pillage
+1 Karn, the Great Creator
+2 Karn, the Great Creator
+2 Pillage
+2 Goblin Rabblemaster
+3 Mountain
+3 Karn, the Great Creator
+3 Pillage
+3 Goblin Rabblemaster
+4 Mountain
+4 Pillage
+4 Once Upon a Time
+4 Karn, the Great Creator
 1 Swamp
 1 Grim Flayer
 1 Liliana of the Veil
@@ -96,24 +114,6 @@
 4 Mishra's Bauble
 4 Thoughtseize
 4 Tarmogoyf
-1 Hexdrinker
-2 Hexdrinker
-1 Goblin Rabblemaster
-1 Chandra, Awakened Inferno
-1 Castle Embereth
-1 Pillage
-1 Karn, the Great Creator
-2 Karn, the Great Creator
-2 Pillage
-2 Goblin Rabblemaster
-3 Mountain
-3 Karn, the Great Creator
-3 Pillage
-3 Goblin Rabblemaster
-4 Mountain
-4 Once Upon a Time
-4 Karn, the Great Creator
-4 Pillage
 1 Seachrome Coast
 1 Reflector Mage
 1 Temple Garden
@@ -133,7 +133,6 @@
 1 Plains
 1 Oran-Rief Survivalist
 1 Kazandu Blademaster
-2 Reflector Mage
 2 Unsettled Mariner
 2 Horizon Canopy
 2 Kazandu Blademaster
@@ -142,25 +141,26 @@
 2 Hada Freeblade
 2 Champion of the Parish
 2 Thalia's Lieutenant
+2 Reflector Mage
 2 Razorverge Thicket
 2 Oran-Rief Survivalist
 2 Cavern of Souls
 2 Collected Company
 3 Horizon Canopy
 3 Cavern of Souls
-3 Reflector Mage
 3 Collected Company
 3 Hada Freeblade
 3 Champion of the Parish
+3 Reflector Mage
 3 Kazandu Blademaster
 3 Oran-Rief Survivalist
 3 Hardened Scales
 3 Thalia's Lieutenant
 3 Noble Hierarch
 3 Razorverge Thicket
-4 Reflector Mage
 4 Hada Freeblade
 4 Collected Company
+4 Reflector Mage
 4 Champion of the Parish
 4 Hardened Scales
 4 Thalia's Lieutenant
@@ -171,8 +171,9 @@
 1 Prismatic Vista
 1 Llanowar Elves
 1 Strangleroot Geist
-1 Arcum's Astrolabe
 1 Shapers' Sanctuary
+1 Arcum's Astrolabe
+1 Vines of Vastwood
 1 Scavenging Ooze
 1 Steel Leaf Champion
 1 Rancor
@@ -181,11 +182,11 @@
 1 Barkhide Troll
 1 Burning-Tree Emissary
 1 Dryad Militant
-1 Vines of Vastwood
 2 Strangleroot Geist
 2 Llanowar Elves
 2 Prismatic Vista
 2 Arcum's Astrolabe
+2 Vines of Vastwood
 2 Scavenging Ooze
 2 Steel Leaf Champion
 2 Rancor
@@ -193,12 +194,11 @@
 2 Barkhide Troll
 2 Dryad Militant
 2 Aspect of Hydra
-2 Vines of Vastwood
 3 Strangleroot Geist
 3 Hexdrinker
 3 Arcum's Astrolabe
-3 Scavenging Ooze
 3 Vines of Vastwood
+3 Scavenging Ooze
 3 Prismatic Vista
 3 Steel Leaf Champion
 3 Rancor

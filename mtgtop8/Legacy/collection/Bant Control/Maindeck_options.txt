@@ -7,20 +7,17 @@
 1 Pyroblast
 4 Ice-Fang Coatl
 1 Prismatic Vista
-1 Council's Judgment
 1 Spell Pierce
 1 Flusterstorm
 1 Accumulated Knowledge
 2 Accumulated Knowledge
 3 Accumulated Knowledge
 4 Accumulated Knowledge
-2 Snow-Covered Plains
 1 Windswept Heath
 1 Forest
 1 Plains
 1 Island
 2 Tropical Island
-1 Daze
 1 True-Name Nemesis
 1 Noble Hierarch
 1 Wasteland
@@ -28,6 +25,7 @@
 1 Batterskull
 1 Umezawa's Jitte
 1 Sword of Fire and Ice
+1 Daze
 2 True-Name Nemesis
 2 Noble Hierarch
 2 Tundra
@@ -36,13 +34,14 @@
 2 Daze
 3 Noble Hierarch
 3 Stoneforge Mystic
-3 Daze
 3 True-Name Nemesis
 3 Wasteland
+3 Daze
 4 Noble Hierarch
 4 Daze
 4 Wasteland
 2 Prismatic Vista
+1 Council's Judgment
 2 Polluted Delta
 2 Windswept Heath
 2 Spell Pierce
@@ -50,9 +49,6 @@
 3 Jace, the Mind Sculptor
 1 Snow-Covered Mountain
 1 Archmage's Charm
-1 Dovin's Veto
-1 Engineered Explosives
-2 Dovin's Veto
 2 Scalding Tarn
 1 Supreme Verdict
 1 Monastery Mentor
@@ -72,20 +68,12 @@
 2 Drown in the Loch
 3 Abrupt Decay
 3 Polluted Delta
-1 Ephemerate
-1 Toothy, Imaginary Friend
-1 Pir, Imaginative Rascal
-2 Snow-Covered Forest
-2 Ephemerate
-2 Toothy, Imaginary Friend
-2 Pir, Imaginative Rascal
-3 Windswept Heath
-3 Prismatic Vista
-4 Prismatic Vista
 4 Oko, Thief of Crowns
+2 Snow-Covered Plains
 4 Terminus
 1 Narset, Parter of Veils
 1 Thopter Foundry
+1 Mishra's Bauble
 1 Lotus Petal
 1 Ancient Tomb
 1 Sword of the Meek
@@ -94,9 +82,9 @@
 1 Mox Opal
 1 Urza, Lord High Artificer
 1 Seat of the Synod
-1 Mishra's Bauble
 1 Chalice of the Void
 2 Thopter Foundry
+2 Mishra's Bauble
 2 Lotus Petal
 2 Emry, Lurker of the Loch
 2 Seat of the Synod
@@ -107,7 +95,7 @@
 2 Ancient Tomb
 2 Chalice of the Void
 2 Urza, Lord High Artificer
-2 Mishra's Bauble
+3 Mishra's Bauble
 3 Mox Opal
 3 Ancient Tomb
 3 Chalice of the Void
@@ -117,17 +105,26 @@
 3 Lotus Petal
 3 Island
 3 Emry, Lurker of the Loch
-3 Mishra's Bauble
 3 Urza, Lord High Artificer
+4 Mishra's Bauble
 4 Chalice of the Void
 4 Emry, Lurker of the Loch
-4 Mishra's Bauble
 4 Ancient Tomb
 4 Seat of the Synod
-1 Vendilion Clique
+1 Ephemerate
+1 Toothy, Imaginary Friend
+1 Pir, Imaginative Rascal
+2 Snow-Covered Forest
+2 Ephemerate
+2 Toothy, Imaginary Friend
+2 Pir, Imaginative Rascal
+3 Windswept Heath
+3 Prismatic Vista
+4 Prismatic Vista
 1 Sylvan Library
 1 Birds of Paradise
 1 Elspeth, Knight-Errant
+1 Vendilion Clique
 1 Spell Queller
 2 Vendilion Clique
 2 Spell Queller
