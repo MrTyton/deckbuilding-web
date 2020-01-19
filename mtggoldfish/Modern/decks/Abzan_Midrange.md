@@ -34,8 +34,8 @@
 
 |*n*<sup>th</sup> copy|                                        Maindeck Card                                         |*n*<sup>th</sup> copy|                                      Sideboard Card                                      |
 |--------------------:|----------------------------------------------------------------------------------------------|--------------------:|------------------------------------------------------------------------------------------|
-|                    1|[Snow-Covered Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121267)|                    1|[Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952) |
-|                    1|[Snow-Covered Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121256) |                    2|[Mirran Crusader](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=213802)|
+|                    1|[Snow-Covered Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121256) |                    1|[Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952) |
+|                    1|[Snow-Covered Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121267)|                    2|[Mirran Crusader](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=213802)|
 |                    1|[Snow-Covered Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121192)|                    2|[Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952) |
 |                    2|[Snow-Covered Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121256) |                    3|[Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952) |
 |                    1|[Abrupt Decay](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456061)       |                    1|[Mirran Crusader](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=213802)|
