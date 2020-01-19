@@ -33,8 +33,8 @@
 |*n*<sup>th</sup> copy|                                     Maindeck Card                                      |*n*<sup>th</sup> copy|                                       Sideboard Card                                       |
 |--------------------:|----------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------|
 |                    1|[Frenzy Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=126187)|                    3|[Diffusion Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383225) |
-|                    2|[Frenzy Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=126187)|                    1|[Darkheart Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=126012) |
-|                    3|[Mutavault](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370733)    |                    4|[Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452)|
+|                    2|[Frenzy Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=126187)|                    4|[Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452)|
+|                    3|[Mutavault](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370733)    |                    1|[Darkheart Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=126012) |
 |                    3|[Frenzy Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=126187)|                     |                                                                                            |
 |                    4|[Frenzy Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=126187)|                     |                                                                                            |
 

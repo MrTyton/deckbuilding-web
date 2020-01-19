@@ -31,8 +31,8 @@
 2 Dig Through Time
 2 Island
 2 Opt
-3 Dig Through Time
 3 Opt
+3 Dig Through Time
 4 Opt
 1 Supreme Verdict
 1 Detention Sphere
@@ -42,24 +42,24 @@
 3 Glacial Fortress
 4 Glacial Fortress
 4 Hallowed Fountain
-1 Izzet Charm
 1 Hieroglyphic Illumination
 1 Abrade
 1 Castle Vantress
 1 Censor
 1 Irrigated Farmland
-2 Clifftop Retreat
-2 Izzet Charm
-2 Sulfur Falls
+1 Izzet Charm
 2 Irrigated Farmland
 2 Hieroglyphic Illumination
 2 Censor
+2 Sulfur Falls
 2 Supreme Verdict
-3 Izzet Charm
-3 Sulfur Falls
+2 Izzet Charm
+2 Clifftop Retreat
 3 Detention Sphere
 3 Censor
+3 Izzet Charm
 3 Supreme Verdict
+3 Sulfur Falls
 4 Censor
 4 Izzet Charm
 4 Sulfur Falls
@@ -105,10 +105,10 @@
 2 Brazen Borrower
 1 Ojutai's Command
 1 Silumgar's Command
+1 Abrupt Decay
 1 Dreadbore
 1 Niv-Mizzet Reborn
 1 Kolaghan's Command
-1 Abrupt Decay
 1 Unmoored Ego
 1 Bring to Light
 1 Knight of Autumn
@@ -121,13 +121,13 @@
 3 Bring to Light
 3 Niv-Mizzet Reborn
 3 Island
-1 Shock
-2 Shock
-4 Elvish Mystic
 1 Elvish Visionary
 1 Wicked Wolf
 2 Wicked Wolf
 4 Llanowar Elves
+1 Shock
+2 Shock
+4 Elvish Mystic
 1 Lumbering Falls
 1 Golos, Tireless Pilgrim
 1 Eldritch Evolution
@@ -146,6 +146,7 @@
 3 Arboreal Grazer
 4 Risen Reef
 4 Voice of Resurgence
+4 Harnessed Lightning
 1 Anticipate
 1 Thrill of Possibility
 1 Lava Coil
@@ -160,18 +161,18 @@
 3 Fiery Impulse
 3 Lava Coil
 3 Spirebluff Canal
-4 Dig Through Time
 4 Anticipate
 4 Fiery Impulse
+4 Dig Through Time
 4 Spirebluff Canal
+1 Cast Down
 1 Discovery / Dispersal
-1 Narset, Parter of Veils
 1 Search for Azcanta
+1 Narset, Parter of Veils
 1 Interplanar Beacon
 1 Isolated Chapel
 1 Languish
 1 Yahenni's Expertise
-1 Cast Down
 1 Nicol Bolas, Dragon-God
 1 Prophetic Prism
 1 Thoughtseize
@@ -193,7 +194,6 @@
 3 Watery Grave
 4 Watery Grave
 4 Thoughtseize
-4 Harnessed Lightning
 1 Tithe Taker
 1 Charming Prince
 1 Field of Ruin
