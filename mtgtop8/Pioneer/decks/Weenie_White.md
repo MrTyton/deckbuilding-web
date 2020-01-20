@@ -141,6 +141,6 @@
 |                    4|[Healer's Hawk](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452764)               |                     |                                                                                                     |
 |                    4|[Lone Rider](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414324)                  |                     |                                                                                                     |
 |                    4|[Gisela, the Broken Blade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414319)    |                     |                                                                                                     |
-|                    4|[Hushbringer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472980)                 |                     |                                                                                                     |
 |                   20|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)                      |                     |                                                                                                     |
+|                    4|[Hushbringer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472980)                 |                     |                                                                                                     |
 

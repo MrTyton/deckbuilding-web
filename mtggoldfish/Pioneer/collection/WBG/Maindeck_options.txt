@@ -1,32 +1,19 @@
-2 Liliana, the Last Hope
-1 Hissing Quagmire
-1 Sylvan Advocate
-2 Sylvan Advocate
-3 Sylvan Advocate
-3 Shambling Vent
-4 Sylvan Advocate
-4 Shambling Vent
-1 Kalitas, Traitor of Ghet
-1 Assassin's Trophy
-2 Swamp
-3 Concealed Courtyard
-1 Castle Locthwain
-1 Sunpetal Grove
 4 Concealed Courtyard
-1 Mana Confluence
+1 Sunpetal Grove
 1 Woodland Cemetery
+1 Mana Confluence
 1 Rally the Ancestors
 1 Return to the Ranks
+1 Hunted Witness
 1 Zulaport Cutthroat
 1 Cartel Aristocrat
-1 Hunted Witness
 1 Voice of Resurgence
-2 Cartel Aristocrat
 2 Return to the Ranks
+2 Cartel Aristocrat
 2 Hunted Witness
-2 Voice of Resurgence
 2 Zulaport Cutthroat
 2 Rally the Ancestors
+2 Voice of Resurgence
 3 Voice of Resurgence
 3 Cartel Aristocrat
 3 Return to the Ranks
@@ -35,40 +22,19 @@
 4 Zulaport Cutthroat
 4 Voice of Resurgence
 4 Cartel Aristocrat
-1 Dark Petition
-1 Mastermind's Acquisition
-1 Sorin, Grim Nemesis
-1 Elvish Rejuvenator
-1 Cast Down
-1 Languish
-1 Cry of the Carnarium
-1 Urborg, Tomb of Yawgmoth
-1 Caves of Koilos
-2 Cast Down
-2 Cry of the Carnarium
-2 Scavenging Ooze
-3 Scavenging Ooze
-1 Elvish Mystic
-1 Llanowar Elves
-1 Gilded Goose
-1 Elspeth, Sun's Champion
-1 Lovestruck Beast
-2 Lovestruck Beast
-2 Gilded Goose
-3 Gilded Goose
-3 Tireless Tracker
-4 Gilded Goose
-4 Tireless Tracker
 1 Walking Ballista
-1 Ishkanah, Grafwidow
 1 Traverse the Ulvenwald
-1 Vraska, Golgari Queen
 1 Grim Flayer
+1 Kalitas, Traitor of Ghet
+1 Vraska, Golgari Queen
 1 Emrakul, the Promised End
+1 Ishkanah, Grafwidow
 1 Courser of Kruphix
+1 Assassin's Trophy
 2 Courser of Kruphix
 2 Traverse the Ulvenwald
 2 Grim Flayer
+2 Swamp
 3 Courser of Kruphix
 3 Traverse the Ulvenwald
 3 Grim Flayer
@@ -76,17 +42,38 @@
 4 Traverse the Ulvenwald
 4 Fabled Passage
 4 Grim Flayer
+1 Elvish Mystic
+1 Llanowar Elves
+1 Questing Beast
+1 Gilded Goose
+1 Elspeth, Sun's Champion
+1 Lovestruck Beast
+2 Questing Beast
+2 Liliana, the Last Hope
+2 Gilded Goose
+2 Lovestruck Beast
+3 Gilded Goose
+3 Tireless Tracker
+4 Gilded Goose
+4 Tireless Tracker
+1 Hissing Quagmire
 1 Nissa, Vastwood Seer
-1 Archangel Avacyn
+1 Sylvan Advocate
 1 Nissa, Vital Force
+1 Archangel Avacyn
 1 Sylvan Caryatid
+2 Sylvan Advocate
 2 Plains
 2 Sylvan Caryatid
 2 Nissa, Vital Force
 2 Sunpetal Grove
 2 Archangel Avacyn
+3 Sylvan Advocate
+3 Shambling Vent
 3 Archangel Avacyn
 3 Sylvan Caryatid
+4 Sylvan Advocate
+4 Shambling Vent
 4 Sylvan Caryatid
 1 Collected Company
 1 Westvale Abbey
@@ -105,8 +92,8 @@
 3 Cruel Celebrant
 4 Collected Company
 4 Hangarback Walker
-4 Blisterpod
 4 Cruel Celebrant
+4 Blisterpod
 1 Thraben Inspector
 1 Liliana, Heretical Healer
 1 Satyr Wayfinder
@@ -130,9 +117,9 @@
 4 Hunted Witness
 4 Return to the Ranks
 1 Liliana, Death's Majesty
-1 Fleecemane Lion
 1 Temple of Silence
 1 Obzedat, Ghost Council
+1 Fleecemane Lion
 2 Fleecemane Lion
 3 Fleecemane Lion
 4 Murderous Rider

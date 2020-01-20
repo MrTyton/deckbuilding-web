@@ -1,0 +1,24 @@
+# BR
+
+#### [Export MTGO List](../collection/BR/BR.txt)
+#### [Export Arena List](../collection/BR/BR_arena.txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Blood%20Crypt%0A3%09Careless%20Celebrant%0A3%09Castle%20Locthwain%0A4%09Cauldron%20Familiar%0A3%09Drag%20to%20the%20Underworld%0A2%09Fabled%20Passage%0A4%09Gutterbones%0A4%09Mayhem%20Devil%0A4%09Mountain%0A3%09Nightmare%20Shepherd%0A4%09Priest%20of%20Forgotten%20Gods%0A3%09Rix%20Maadi%20Reveler%0A7%09Swamp%0A4%09Temple%20of%20Malice%0A4%09Witch's%20Oven%0A4%09Woe%20Strider&deckside=1%09Careless%20Celebrant%0A2%09Cavalier%20of%20Night%0A3%09Drill%20Bit%0A2%09Embereth%20Shieldbreaker%0A3%09Epic%20Downfall%0A2%09Experimental%20Frenzy%0A2%09Noxious%20Grasp)
+# Maindeck
+
+|                                      Artifact (4)                                       |                                            Creature (19)                                            |                                          Land (24)                                          |      Unknown (13)      |
+|-----------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|------------------------|
+|4 [Witch's Oven](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473199)|4 [Cauldron Familiar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473043)       |4 [Blood Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=97102)      |3 Careless Celebrant    |
+|                                                                                         |4 [Gutterbones](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457220)             |3 [Castle Locthwain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473203)|3 Drag to the Underworld|
+|                                                                                         |4 [Mayhem Devil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461131)            |2 [Fabled Passage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473206)  |3 Nightmare Shepherd    |
+|                                                                                         |4 [Priest of Forgotten Gods](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457227)|4 [Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)        |4 Woe Strider           |
+|                                                                                         |3 [Rix Maadi Reveler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457253)       |7 [Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)           |                        |
+|                                                                                         |                                                                                                     |4 [Temple of Malice](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=378536)|                        |
+
+
+# Sideboard
+
+|                                           Creature (4)                                            |                                        Enchantment (2)                                         |                                       Instant (2)                                        |                                       Sorcery (6)                                        |    Unknown (1)     |
+|---------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|--------------------|
+|2 [Cavalier of Night](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466848)     |2 [Experimental Frenzy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452849)|2 [Noxious Grasp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466864)|3 [Drill Bit](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457217)    |1 Careless Celebrant|
+|2 [Embereth Shieldbreaker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473084)|                                                                                                |                                                                                          |3 [Epic Downfall](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473047)|                    |
+

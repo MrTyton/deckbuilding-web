@@ -1,0 +1,24 @@
+# U
+
+#### [Export MTGO List](../collection/U/U.txt)
+#### [Export Arena List](../collection/U/U_arena.txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=2%09Agent%20of%20Treachery%0A4%09Arcanist's%20Owl%0A4%09Brazen%20Borrower%0A4%09Castle%20Vantress%0A4%09Cavalier%20of%20Gales%0A4%09Corridor%20Monitor%0A4%09Fabled%20Passage%0A3%09Gadwick,%20the%20Wizened%0A16%09Island%0A4%09Kiora,%20Behemoth%20Beckoner%0A4%09Nyx%20Lotus%0A4%09Thassa's%20Oracle%0A3%09Thassa,%20Deep-Dwelling&deckside=3%09Aether%20Gust%0A1%09Agent%20of%20Treachery%0A3%09Frogify%0A4%09Mystical%20Dispute%0A2%09Sorcerous%20Spyglass%0A2%09Soul-Guide%20Lantern)
+# Maindeck
+
+|                                          Creature (21)                                          |                                         Land (24)                                          |                                          Planeswalker (4)                                           |     Unknown (11)      |
+|-------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|-----------------------|
+|2 [Agent of Treachery](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466797)  |4 [Castle Vantress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473204)|4 [Kiora, Behemoth Beckoner](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461159)|4 Nyx Lotus            |
+|4 [Arcanist's Owl](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473168)      |4 [Fabled Passage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473206) |                                                                                                     |4 Thassa's Oracle      |
+|4 [Brazen Borrower](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473001)     |16 [Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)        |                                                                                                     |3 Thassa, Deep-Dwelling|
+|4 [Cavalier of Gales](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466806)   |                                                                                            |                                                                                                     |                       |
+|4 [Corridor Monitor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473003)    |                                                                                            |                                                                                                     |                       |
+|3 [Gadwick, the Wizened](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473010)|                                                                                            |                                                                                                     |                       |
+
+
+# Sideboard
+
+|                                         Artifact (2)                                          |                                         Creature (1)                                          |                                  Enchantment (3)                                   |                                         Instant (7)                                         |    Unknown (2)     |
+|-----------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|--------------------|
+|2 [Sorcerous Spyglass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435407)|1 [Agent of Treachery](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466797)|3 [Frogify](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473009)|3 [Aether Gust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466796)     |2 Soul-Guide Lantern|
+|                                                                                               |                                                                                               |                                                                                    |4 [Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)|                    |
+

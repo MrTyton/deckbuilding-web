@@ -24,13 +24,20 @@
 
 # Other Options
 
-|*n*<sup>th</sup> copy|                                       Maindeck Card                                       |*n*<sup>th</sup> copy|                                      Sideboard Card                                      |
-|--------------------:|-------------------------------------------------------------------------------------------|--------------------:|------------------------------------------------------------------------------------------|
-|                    1|[Castle Locthwain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473203)|                    1|[Plague Engineer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464049)|
-|                     |                                                                                           |                    1|[Unmask](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=19829)          |
-|                     |                                                                                           |                    2|[Plague Engineer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464049)|
-|                     |                                                                                           |                    2|[Unmask](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=19829)          |
-|                     |                                                                                           |                    3|[Toxic Deluge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376559)   |
-|                     |                                                                                           |                    3|[Unmask](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=19829)          |
-|                     |                                                                                           |                    4|[Unmask](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=19829)          |
+|*n*<sup>th</sup> copy|                                       Maindeck Card                                       |*n*<sup>th</sup> copy|                                         Sideboard Card                                          |
+|--------------------:|-------------------------------------------------------------------------------------------|--------------------:|-------------------------------------------------------------------------------------------------|
+|                    1|[Castle Locthwain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473203)|                    1|[Plague Engineer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464049)       |
+|                    1|[Rotting Regisaur](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466865)|                    1|[Ratchet Bomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370623)          |
+|                    1|[Unmask](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=19829)           |                    1|[Faerie Macabre](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=201822)        |
+|                    2|[Unmask](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=19829)           |                    1|[Sire of Insanity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=369068)      |
+|                   17|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)           |                    1|[Pithing Needle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129526)        |
+|                     |                                                                                           |                    1|[Archetype of Endurance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=378488)|
+|                     |                                                                                           |                    2|[Ratchet Bomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370623)          |
+|                     |                                                                                           |                    2|[Pithing Needle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129526)        |
+|                     |                                                                                           |                    1|[Unmask](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=19829)                 |
+|                     |                                                                                           |                    2|[Unmask](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=19829)                 |
+|                     |                                                                                           |                    2|[Plague Engineer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464049)       |
+|                     |                                                                                           |                    3|[Toxic Deluge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376559)          |
+|                     |                                                                                           |                    3|[Unmask](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=19829)                 |
+|                     |                                                                                           |                    4|[Unmask](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=19829)                 |
 

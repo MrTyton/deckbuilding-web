@@ -1,64 +1,67 @@
-1 Questing Beast
-3 Siege Rhino
 1 Mana Confluence
+1 Questing Beast
+2 Botanical Sanctum
+3 Siege Rhino
 1 Blooming Marsh
 2 Blooming Marsh
 1 Thought Erasure
 2 Mana Confluence
-2 Botanical Sanctum
-1 Languish
+1 Nahiri, the Harbinger
+2 Blood Crypt
 1 Fatal Push
 2 Fatal Push
+2 Dreadbore
+3 Fatal Push
 2 Swamp
 3 Swamp
-3 Fatal Push
+4 Fatal Push
 1 Thoughtseize
 2 Thoughtseize
 3 Thoughtseize
-4 Fatal Push
-1 Kalitas, Traitor of Ghet
-2 Dreadbore
 4 Thoughtseize
-1 Vraska's Contempt
-1 Field of Ruin
-1 Murderous Rider
+1 Kalitas, Traitor of Ghet
 1 Dragonskull Summit
-2 Blood Crypt
 2 Dragonskull Summit
 3 Dragonskull Summit
 3 Blood Crypt
 4 Blood Crypt
-1 Castle Locthwain
 1 Chandra, Torch of Defiance
 2 Chandra, Torch of Defiance
 1 Liliana, the Last Hope
 1 Angrath's Rampage
-1 Urborg, Tomb of Yawgmoth
 4 Dragonskull Summit
-2 Kalitas, Traitor of Ghet
+1 Urborg, Tomb of Yawgmoth
+1 Field of Ruin
+1 Castle Locthwain
+1 Murderous Rider
 1 Rekindling Phoenix
 1 Canyon Slough
 1 Bonecrusher Giant
 1 Temple of Malice
+2 Castle Locthwain
 2 Bonecrusher Giant
 2 Mountain
 2 Temple of Malice
 2 Kolaghan's Command
-2 Castle Locthwain
 2 Canyon Slough
 3 Bonecrusher Giant
 3 Mountain
 4 Bonecrusher Giant
-2 Field of Ruin
+1 Languish
 1 Hallowed Fountain
+1 Vraska's Contempt
+2 Watery Grave
+2 Kalitas, Traitor of Ghet
+3 Dreadbore
 1 Glorybringer
 2 Glorybringer
-3 Dreadbore
 1 Sheltered Thicket
-2 Vraska's Contempt
+1 Deafening Clarion
+1 Sunpetal Grove
+4 Siege Rhino
+2 Field of Ruin
 1 Drowned Catacomb
 1 The Scarab God
-2 Watery Grave
 2 Drowned Catacomb
 3 Drowned Catacomb
 3 Watery Grave
@@ -68,11 +71,10 @@
 3 Rekindling Phoenix
 3 Glorybringer
 4 Mountain
-1 Sunpetal Grove
-4 Siege Rhino
-2 Murderous Rider
-2 Languish
+1 Frontier Bivouac
+2 Vraska's Contempt
 4 Drowned Catacomb
+2 Languish
 1 Narset, Parter of Veils
 1 Castle Vantress
 2 Narset, Parter of Veils
@@ -82,8 +84,8 @@
 1 Hieroglyphic Illumination
 1 Negate
 1 Opt
-1 Dig Through Time
 1 Censor
+1 Dig Through Time
 2 Disallow
 2 Torrential Gearhulk
 2 Negate
@@ -99,22 +101,16 @@
 4 Censor
 4 Opt
 4 Island
+1 Concealed Courtyard
 3 Temple of Malice
-1 Read the Bones
 1 Unmoored Ego
-1 Nahiri, the Harbinger
-1 Assassin's Trophy
-2 Overgrown Tomb
-2 Forest
-3 Forest
-4 Swamp
-3 Murderous Rider
+1 Nomad Outpost
 3 Chandra, Torch of Defiance
 1 Sulfur Falls
 2 Steam Vents
 1 Bedevil
-1 Wandering Fumarole
 1 Glint-Sleeve Siphoner
+1 Wandering Fumarole
 1 Champion of Wits
 2 Champion of Wits
 2 The Scarab God
@@ -131,26 +127,8 @@
 2 Traverse the Ulvenwald
 3 Traverse the Ulvenwald
 4 Traverse the Ulvenwald
-1 Dark Petition
-1 Seasons Past
-1 Hissing Quagmire
-2 Dark Petition
-2 Assassin's Trophy
-2 Hissing Quagmire
-3 Dark Petition
-3 Hissing Quagmire
-5 Swamp
-1 Courser of Kruphix
-1 Tireless Tracker
-2 Courser of Kruphix
-4 Forest
-5 Forest
-6 Forest
-3 Blooming Marsh
-3 Overgrown Tomb
-3 Abrupt Decay
-4 Overgrown Tomb
-1 Deafening Clarion
+2 Murderous Rider
+3 Murderous Rider
 1 Geier Reach Sanitarium
 3 Narset, Parter of Veils
 1 Fires of Invention
@@ -162,13 +140,24 @@
 3 Fires of Invention
 4 Fires of Invention
 1 Nicol Bolas, Dragon-God
+1 Read the Bones
+1 Assassin's Trophy
+3 Blooming Marsh
+1 Courser of Kruphix
+1 Tireless Tracker
+2 Overgrown Tomb
+2 Courser of Kruphix
+2 Forest
+3 Forest
+4 Swamp
+4 Forest
+5 Forest
+6 Forest
 1 Detention Sphere
 3 Mana Confluence
 2 Fetid Pools
 1 Kaya, Orzhov Usurper
-1 Frontier Bivouac
 1 Despark
-1 Concealed Courtyard
 1 Solar Blaze
 1 Rakdos's Return
 2 Rakdos's Return
@@ -200,39 +189,49 @@
 2 Nicol Bolas, the Ravager
 3 Kalitas, Traitor of Ghet
 3 Nicol Bolas, the Ravager
+1 Temple of Deceit
+1 Uro, Titan of Nature's Wrath
+1 Temple of Plenty
+1 Paradise Druid
+2 Uro, Titan of Nature's Wrath
+2 Paradise Druid
+2 Concealed Courtyard
+3 Uro, Titan of Nature's Wrath
+3 Paradise Druid
+4 Niv-Mizzet Reborn
 1 Glacial Fortress
 2 Glacial Fortress
 2 Hallowed Fountain
 3 Hallowed Fountain
 1 Elspeth, Sun's Champion
+1 Clifftop Retreat
 1 Nicol Bolas, God-Pharaoh
 1 Interplanar Beacon
 1 Chandra, Awakened Inferno
 1 Temple of Enlightenment
-1 Clifftop Retreat
 1 Keranos, God of Storms
 1 Oath of Teferi
-1 Temple of Triumph
 1 Temple of Epiphany
+1 Temple of Triumph
 2 Oath of Teferi
 2 Drawn from Dreams
-2 Detention Sphere
 2 Jace, Architect of Thought
+2 Detention Sphere
 2 Supreme Verdict
 2 Interplanar Beacon
 2 Sacred Foundry
 2 Temple of Triumph
 2 Deafening Clarion
 2 Temple of Epiphany
-3 Supreme Verdict
 3 Interplanar Beacon
+3 Supreme Verdict
 3 Deafening Clarion
 3 Fae of Wishes
 4 Interplanar Beacon
 1 Chandra, Acolyte of Flame
+1 Ob Nixilis Reignited
 1 Goblin Dark-Dwellers
 1 Anger of the Gods
-1 Ob Nixilis Reignited
 2 Goblin Dark-Dwellers
 2 Anger of the Gods
 2 Angrath's Rampage
@@ -242,7 +241,6 @@
 4 Temple of Malice
 1 Attune with Aether
 1 Tyrant's Scorn
-1 Nomad Outpost
 1 Drown in the Loch
 1 Servant of the Conduit
 1 Whirler Virtuoso
@@ -256,22 +254,10 @@
 3 Servant of the Conduit
 4 Attune with Aether
 4 Servant of the Conduit
-1 Temple of Malady
-1 Nissa's Pilgrimage
-1 Pulse of Murasa
-1 Lovestruck Beast
-1 Gonti, Lord of Luxury
-1 Scavenging Ooze
-2 Temple of Malady
-2 Lovestruck Beast
-3 Temple of Malady
-3 Lovestruck Beast
-4 Temple of Malady
-4 Lovestruck Beast
-1 Isolated Chapel
 1 Gods Willing
-1 Sigarda's Aid
+1 Isolated Chapel
 1 Cerulean Drake
+1 Sigarda's Aid
 1 Open the Armory
 1 Aqueous Form
 1 Ancestral Blade
@@ -280,42 +266,63 @@
 1 Apostle of Purifying Light
 1 Scheming Symmetry
 1 Merfolk Secretkeeper
-2 Colossus Hammer
 2 Gods Willing
+2 Isolated Chapel
+2 Colossus Hammer
 2 Open the Armory
 2 Overwhelmed Apprentice
 2 Sigarda's Aid
 2 Apostle of Purifying Light
 2 Scheming Symmetry
-2 Isolated Chapel
 2 Cerulean Drake
 2 Merfolk Secretkeeper
+3 Gods Willing
 3 Glacial Fortress
 3 Godless Shrine
 3 Overwhelmed Apprentice
 3 Sigarda's Aid
 3 Fetid Pools
 3 Colossus Hammer
-3 Gods Willing
 3 Open the Armory
-3 Isolated Chapel
 3 Apostle of Purifying Light
 3 Cerulean Drake
+3 Isolated Chapel
 3 Scheming Symmetry
 3 Merfolk Secretkeeper
+4 Gods Willing
 4 Cerulean Drake
 4 Mana Confluence
 4 Open the Armory
 4 Colossus Hammer
 4 Scheming Symmetry
 4 Sigarda's Aid
-4 Gods Willing
 4 Fetid Pools
 4 Overwhelmed Apprentice
 4 Apostle of Purifying Light
 4 Merfolk Secretkeeper
 4 Godless Shrine
 4 Hallowed Fountain
+1 Temple of Malady
+1 Dark Petition
+1 Seasons Past
+1 Nissa's Pilgrimage
+1 Pulse of Murasa
+1 Lovestruck Beast
+1 Hissing Quagmire
+1 Gonti, Lord of Luxury
+1 Scavenging Ooze
+2 Temple of Malady
+2 Dark Petition
+2 Assassin's Trophy
+2 Hissing Quagmire
+2 Lovestruck Beast
+3 Dark Petition
+3 Hissing Quagmire
+3 Temple of Malady
+3 Lovestruck Beast
+4 Temple of Malady
+4 Lovestruck Beast
+5 Swamp
 1 Cast Down
 2 Cast Down
 2 Hieroglyphic Illumination
@@ -337,25 +344,11 @@
 2 Hangarback Walker
 3 Grisly Salvage
 3 Courser of Kruphix
+3 Overgrown Tomb
+3 Abrupt Decay
 3 Tireless Tracker
 4 Grisly Salvage
 4 Abrupt Decay
 4 Blooming Marsh
+4 Overgrown Tomb
 7 Forest
-1 Beanstalk Giant
-1 Sign in Blood
-1 Nissa, Vital Force
-1 Duress
-1 Ugin, the Spirit Dragon
-1 Villainous Wealth
-2 Beanstalk Giant
-2 Read the Bones
-2 Seasons Past
-2 Duress
-2 Sign in Blood
-3 Beanstalk Giant
-3 Languish
-4 Languish
-6 Swamp
-7 Swamp
-8 Swamp

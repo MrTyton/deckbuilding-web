@@ -80,6 +80,6 @@
 |                     |                                                                                                        |                    3|[Force of Virtue](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463959)              |
 |                     |                                                                                                        |                    2|[Magus of the Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=136152)            |
 |                     |                                                                                                        |                    3|[Deputy of Detention](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457309)          |
-|                     |                                                                                                        |                    4|[Deputy of Detention](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457309)          |
 |                     |                                                                                                        |                    4|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)          |
+|                     |                                                                                                        |                    4|[Deputy of Detention](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457309)          |
 

@@ -16,42 +16,42 @@
 2 Boros Charm
 1 Battlefield Forge
 2 Mountain
-1 Invigorated Rampage
-1 Monastery Swiftspear
 1 Tenth District Legionnaire
 1 Feather, the Redeemed
 1 Defiant Strike
+1 Invigorated Rampage
 1 Favored Hoplite
 1 Reckless Rage
-1 Titan's Strength
 1 Dreadhorde Arcanist
+1 Titan's Strength
+1 Monastery Swiftspear
 1 Gods Willing
-2 Invigorated Rampage
-2 Monastery Swiftspear
 2 Tenth District Legionnaire
+2 Dreadhorde Arcanist
 2 Defiant Strike
 2 Titan's Strength
 2 Favored Hoplite
 2 Reckless Rage
-2 Battlefield Forge
 2 Feather, the Redeemed
-2 Dreadhorde Arcanist
+2 Invigorated Rampage
+2 Monastery Swiftspear
+2 Battlefield Forge
 2 Gods Willing
-3 Monastery Swiftspear
 3 Favored Hoplite
 3 Defiant Strike
 3 Titan's Strength
-3 Battlefield Forge
 3 Tenth District Legionnaire
 3 Reckless Rage
-3 Gods Willing
+3 Battlefield Forge
 3 Dreadhorde Arcanist
+3 Monastery Swiftspear
+3 Gods Willing
 4 Favored Hoplite
-4 Monastery Swiftspear
 4 Defiant Strike
-4 Titan's Strength
 4 Reckless Rage
 4 Battlefield Forge
+4 Titan's Strength
+4 Monastery Swiftspear
 4 Gods Willing
 3 Plains
 4 Plains
@@ -218,6 +218,10 @@
 3 Dromoka's Command
 3 Yavimaya Coast
 4 Yavimaya Coast
+3 Feather, the Redeemed
+3 Mountain
+4 Dreadhorde Arcanist
+4 Tenth District Legionnaire
 1 Gift of Orzhova
 1 Cartouche of Strength
 1 Hopeful Eidolon
@@ -233,43 +237,6 @@
 4 Cartouche of Solidarity
 4 Gryff's Boon
 4 Sram, Senior Edificer
-3 Feather, the Redeemed
-3 Mountain
-4 Dreadhorde Arcanist
-4 Tenth District Legionnaire
-1 Rhonas the Indomitable
-1 Aether Hub
-2 Aether Hub
-3 Aether Hub
-4 Aether Hub
-1 Concealed Courtyard
-1 Godless Shrine
-2 Concealed Courtyard
-2 Godless Shrine
-3 Godless Shrine
-3 Concealed Courtyard
-4 Godless Shrine
-4 Concealed Courtyard
-1 Unclaimed Territory
-1 Glint-Sleeve Siphoner
-1 Elite Guardmage
-1 The Scarab God
-1 Kitesail Freebooter
-1 Aethersphere Harvester
-2 The Scarab God
-2 Unclaimed Territory
-2 Aethersphere Harvester
-2 Glint-Sleeve Siphoner
-2 Elite Guardmage
-2 Kitesail Freebooter
-3 Unclaimed Territory
-3 Glint-Sleeve Siphoner
-3 Elite Guardmage
-3 Kitesail Freebooter
-4 Unclaimed Territory
-4 Kitesail Freebooter
-4 Glint-Sleeve Siphoner
-4 Elite Guardmage
 2 Gilded Goose
 1 Renegade Rallier
 1 Leafkin Druid
@@ -290,6 +257,39 @@
 4 Voice of Resurgence
 4 Neoform
 4 Risen Reef
+1 Rhonas the Indomitable
+1 Aether Hub
+2 Aether Hub
+3 Aether Hub
+4 Aether Hub
+1 Concealed Courtyard
+1 Godless Shrine
+2 Concealed Courtyard
+2 Godless Shrine
+3 Godless Shrine
+3 Concealed Courtyard
+4 Godless Shrine
+4 Concealed Courtyard
+1 Unclaimed Territory
+1 Glint-Sleeve Siphoner
+1 Kitesail Freebooter
+1 Elite Guardmage
+1 The Scarab God
+1 Aethersphere Harvester
+2 The Scarab God
+2 Unclaimed Territory
+2 Glint-Sleeve Siphoner
+2 Elite Guardmage
+2 Kitesail Freebooter
+2 Aethersphere Harvester
+3 Unclaimed Territory
+3 Glint-Sleeve Siphoner
+3 Elite Guardmage
+3 Kitesail Freebooter
+4 Unclaimed Territory
+4 Glint-Sleeve Siphoner
+4 Kitesail Freebooter
+4 Elite Guardmage
 1 Steel Leaf Champion
 1 Duskwatch Recruiter
 1 Yorvo, Lord of Garenbrig
@@ -456,6 +456,7 @@
 4 Attune with Aether
 1 Urborg, Tomb of Yawgmoth
 1 Ifnir Deadlands
+1 Shambling Vent
 1 Ravenous Chupacabra
 1 Caves of Koilos
 1 Lyra Dawnbringer
@@ -470,7 +471,6 @@
 1 Brain Maggot
 1 Shefet Dunes
 1 Wasteland Strangler
-1 Shambling Vent
 2 Ravenous Chupacabra
 2 Caves of Koilos
 2 Ultimate Price
