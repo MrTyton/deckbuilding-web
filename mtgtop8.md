@@ -17,13 +17,13 @@
 
 # Pioneer
 
-|                               A                               |                                B                                |                               C                               |                              D                              |                           E                           |
-|---------------------------------------------------------------|-----------------------------------------------------------------|---------------------------------------------------------------|-------------------------------------------------------------|-------------------------------------------------------|
-|[Abzan Aggro](./mtgtop8/Pioneer/decks/Abzan_Aggro.md)          |[Gruul Aggro](./mtgtop8/Pioneer/decks/Gruul_Aggro.md)            |[Mono Blue Aggro](./mtgtop8/Pioneer/decks/Mono_Blue_Aggro.md)  |[Other - Control](./mtgtop8/Pioneer/decks/Other_-_Control.md)|[UR Aggro](./mtgtop8/Pioneer/decks/UR_Aggro.md)        |
-|[Arclight Phoenix](./mtgtop8/Pioneer/decks/Arclight_Phoenix.md)|[Izzet Control](./mtgtop8/Pioneer/decks/Izzet_Control.md)        |[Mono Green Aggro](./mtgtop8/Pioneer/decks/Mono_Green_Aggro.md)|[Red Deck Wins](./mtgtop8/Pioneer/decks/Red_Deck_Wins.md)    |[UW Control](./mtgtop8/Pioneer/decks/UW_Control.md)    |
-|[Copycat](./mtgtop8/Pioneer/decks/Copycat.md)                  |[Jeskai Ascendancy](./mtgtop8/Pioneer/decks/Jeskai_Ascendancy.md)|[Nexus Fog](./mtgtop8/Pioneer/decks/Nexus_Fog.md)              |[Simic Aggro](./mtgtop8/Pioneer/decks/Simic_Aggro.md)        |[Weenie White](./mtgtop8/Pioneer/decks/Weenie_White.md)|
-|[Golgari Aggro](./mtgtop8/Pioneer/decks/Golgari_Aggro.md)      |[Lotus Field](./mtgtop8/Pioneer/decks/Lotus_Field.md)            |[Other - Aggro](./mtgtop8/Pioneer/decks/Other_-_Aggro.md)      |[Spirit Aggro](./mtgtop8/Pioneer/decks/Spirit_Aggro.md)      |                                                       |
-|[Green Ramp](./mtgtop8/Pioneer/decks/Green_Ramp.md)            |[Mono Black Aggro](./mtgtop8/Pioneer/decks/Mono_Black_Aggro.md)  |[Other - Combo](./mtgtop8/Pioneer/decks/Other_-_Combo.md)      |[Sultai Control](./mtgtop8/Pioneer/decks/Sultai_Control.md)  |                                                       |
+|                                 A                                 |                                B                                |                                C                                |                              D                              |                             E                             |
+|-------------------------------------------------------------------|-----------------------------------------------------------------|-----------------------------------------------------------------|-------------------------------------------------------------|-----------------------------------------------------------|
+|[Abzan Aggro](./mtgtop8/Pioneer/decks/Abzan_Aggro.md)              |[Green Ramp](./mtgtop8/Pioneer/decks/Green_Ramp.md)              |[Mono Black Aggro](./mtgtop8/Pioneer/decks/Mono_Black_Aggro.md)  |[Other - Aggro](./mtgtop8/Pioneer/decks/Other_-_Aggro.md)    |[Spirit Aggro](./mtgtop8/Pioneer/decks/Spirit_Aggro.md)    |
+|[Arclight Phoenix](./mtgtop8/Pioneer/decks/Arclight_Phoenix.md)    |[Gruul Aggro](./mtgtop8/Pioneer/decks/Gruul_Aggro.md)            |[Mono Blue Aggro](./mtgtop8/Pioneer/decks/Mono_Blue_Aggro.md)    |[Other - Combo](./mtgtop8/Pioneer/decks/Other_-_Combo.md)    |[Sultai Control](./mtgtop8/Pioneer/decks/Sultai_Control.md)|
+|[Copycat](./mtgtop8/Pioneer/decks/Copycat.md)                      |[Izzet Control](./mtgtop8/Pioneer/decks/Izzet_Control.md)        |[Mono Green Aggro](./mtgtop8/Pioneer/decks/Mono_Green_Aggro.md)  |[Other - Control](./mtgtop8/Pioneer/decks/Other_-_Control.md)|[UR Aggro](./mtgtop8/Pioneer/decks/UR_Aggro.md)            |
+|[Fires of Invention](./mtgtop8/Pioneer/decks/Fires_of_Invention.md)|[Jeskai Ascendancy](./mtgtop8/Pioneer/decks/Jeskai_Ascendancy.md)|[Nexus Fog](./mtgtop8/Pioneer/decks/Nexus_Fog.md)                |[Red Deck Wins](./mtgtop8/Pioneer/decks/Red_Deck_Wins.md)    |[UW Control](./mtgtop8/Pioneer/decks/UW_Control.md)        |
+|[Golgari Aggro](./mtgtop8/Pioneer/decks/Golgari_Aggro.md)          |[Lotus Field](./mtgtop8/Pioneer/decks/Lotus_Field.md)            |[Niv-Mizzet Reborn](./mtgtop8/Pioneer/decks/Niv-Mizzet_Reborn.md)|[Simic Aggro](./mtgtop8/Pioneer/decks/Simic_Aggro.md)        |[Weenie White](./mtgtop8/Pioneer/decks/Weenie_White.md)    |
 
 
 # Modern
@@ -63,4 +63,4 @@
 
 
 
-#### Last Updated at 12:57PM on January 20, 2020
+#### Last Updated at 01:20AM on January 21, 2020

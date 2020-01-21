@@ -9,18 +9,18 @@
 3 Bonecrusher Giant
 3 Brazen Borrower
 4 Bonecrusher Giant
-1 Rekindling Phoenix
 1 Kozilek's Return
 1 Lightning Axe
+1 Rekindling Phoenix
 1 Elder Deep-Fiend
 1 Izzet Charm
-2 Rekindling Phoenix
 2 Kozilek's Return
 2 Lightning Axe
 2 Izzet Charm
+2 Rekindling Phoenix
 2 Elder Deep-Fiend
-3 Rekindling Phoenix
 3 Kozilek's Return
+3 Rekindling Phoenix
 3 Elder Deep-Fiend
 4 Brazen Borrower
 4 Elder Deep-Fiend
@@ -30,8 +30,8 @@
 1 Flamewake Phoenix
 2 Flamewake Phoenix
 3 Flamewake Phoenix
-4 Rekindling Phoenix
 4 Flamewake Phoenix
+4 Rekindling Phoenix
 1 Sanctum of Ugin
 3 Lightning Axe
 3 Izzet Charm
@@ -78,8 +78,8 @@
 1 Whirler Rogue
 1 Phyrexian Revoker
 2 Phyrexian Revoker
-3 Stubborn Denial
 3 Sanctum of Ugin
+3 Stubborn Denial
 1 Springleaf Drum
 1 Scrapheap Scrounger
 2 Springleaf Drum
@@ -106,11 +106,11 @@
 1 Irrigated Farmland
 1 Castle Vantress
 1 Azorius Charm
-1 Dig Through Time
-1 Search for Azcanta
-1 Supreme Verdict
-1 Glacial Fortress
 1 Port Town
+1 Dig Through Time
+1 Supreme Verdict
+1 Search for Azcanta
+1 Glacial Fortress
 1 Hallowed Fountain
 1 Settle the Wreckage
 1 Teferi, Time Raveler
@@ -135,9 +135,9 @@
 2 Censor
 2 Fae of Wishes
 2 Absorb
-3 Irrigated Farmland
 3 Dig Through Time
 3 Declaration in Stone
+3 Irrigated Farmland
 3 Glacial Fortress
 3 Supreme Verdict
 3 Plains
@@ -171,41 +171,41 @@
 3 Silumgar's Scorn
 3 Thunderbreak Regent
 4 Sulfur Falls
-4 Silumgar's Scorn
 4 Glorybringer
+4 Silumgar's Scorn
 4 Thunderbreak Regent
+1 Light Up the Stage
 1 Crash Through
-1 Soul-Scar Mage
 1 Monastery Swiftspear
 1 Dreadhorde Arcanist
-1 Wizard's Lightning
 1 Hazoret the Fervent
+1 Wizard's Lightning
+1 Soul-Scar Mage
 1 Curious Obsession
 1 Stormchaser Mage
-1 Light Up the Stage
 2 Shock
+2 Light Up the Stage
 2 Monastery Swiftspear
 2 Crash Through
 2 Dreadhorde Arcanist
-2 Soul-Scar Mage
 2 Wizard's Lightning
+2 Soul-Scar Mage
 2 Curious Obsession
 2 Stormchaser Mage
-2 Light Up the Stage
 3 Shock
+3 Light Up the Stage
 3 Monastery Swiftspear
-3 Soul-Scar Mage
 3 Wizard's Lightning
+3 Soul-Scar Mage
 3 Stormchaser Mage
 3 Crash Through
-3 Light Up the Stage
 3 Curious Obsession
-4 Monastery Swiftspear
 4 Light Up the Stage
-4 Soul-Scar Mage
+4 Monastery Swiftspear
 4 Wizard's Lightning
 4 Wild Slash
+4 Soul-Scar Mage
 4 Stormchaser Mage
-4 Crash Through
-7 Mountain
 6 Mountain
+7 Mountain
+4 Crash Through

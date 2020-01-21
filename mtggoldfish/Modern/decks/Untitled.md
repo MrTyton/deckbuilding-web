@@ -34,3 +34,16 @@
 |1 [Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)               |                                                                                             |                                                                                               |
 |1 [Torpor Orb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=233069)                   |                                                                                             |                                                                                               |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                       Maindeck Card                                       |*n*<sup>th</sup> copy|                                       Sideboard Card                                       |
+|--------------------:|-------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------|
+|                    1|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)          |                    2|[Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452)|
+|                    1|[Once Upon a Time](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473131)|                    3|[Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452)|
+|                    1|[Karn Liberated](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397828)  |                    1|[Mystic Forge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466987)     |
+|                    2|[Once Upon a Time](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473131)|                     |                                                                                            |
+|                    3|[Walking Ballista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423848)|                     |                                                                                            |
+|                    4|[Once Upon a Time](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473131)|                     |                                                                                            |
+|                    3|[Once Upon a Time](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473131)|                     |                                                                                            |
+

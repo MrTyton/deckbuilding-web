@@ -3,17 +3,11 @@
 2 Collected Company
 3 Collected Company
 4 Collected Company
-1 Courser of Kruphix
-2 Courser of Kruphix
-1 Mutavault
-2 Mutavault
-1 Nykthos, Shrine to Nyx
 1 Shaman of the Pack
 1 Dwynen's Elite
 1 Elvish Clancaller
 2 Elvish Clancaller
 2 Dwynen's Elite
-2 Nykthos, Shrine to Nyx
 2 Shaman of the Pack
 3 Elvish Clancaller
 3 Shaman of the Pack
@@ -21,90 +15,86 @@
 4 Elvish Clancaller
 4 Shaman of the Pack
 4 Dwynen's Elite
+1 Courser of Kruphix
+2 Courser of Kruphix
+1 Mutavault
+1 Nykthos, Shrine to Nyx
+2 Mutavault
+2 Nykthos, Shrine to Nyx
+1 Elvish Visionary
+2 Elvish Visionary
+3 Elvish Visionary
+4 Elvish Visionary
 3 Courser of Kruphix
 4 Courser of Kruphix
 1 Chord of Calling
 1 Temur Sabertooth
-1 Elvish Visionary
 2 Chord of Calling
-2 Elvish Visionary
 3 Chord of Calling
 3 Nykthos, Shrine to Nyx
-3 Elvish Visionary
 4 Chord of Calling
-4 Elvish Visionary
 4 Nykthos, Shrine to Nyx
 1 Scavenging Ooze
+2 Hashep Oasis
 1 Woodland Cemetery
 2 Scavenging Ooze
-2 Woodland Cemetery
-1 Yorvo, Lord of Garenbrig
-2 Yorvo, Lord of Garenbrig
-2 Hashep Oasis
 3 Mutavault
 4 Ghalta, Primal Hunger
-3 Scavenging Ooze
-4 Scavenging Ooze
+1 Yorvo, Lord of Garenbrig
+2 Yorvo, Lord of Garenbrig
+2 Woodland Cemetery
 1 Swamp
 1 Tireless Tracker
 1 Thoughtseize
 2 Thoughtseize
 3 Thoughtseize
-1 Blossoming Defense
-2 Blossoming Defense
-1 Fatal Push
 1 Fabled Passage
+1 Fatal Push
 2 Fabled Passage
-4 Thoughtseize
 1 Murderous Rider
-2 Swamp
-3 Swamp
-2 Fatal Push
 1 Abrupt Decay
 1 Field of Ruin
 2 Murderous Rider
-4 Swamp
-1 Castle Locthwain
+2 Swamp
+3 Swamp
 1 Questing Beast
-1 Walking Ballista
-3 Woodland Cemetery
+4 Thoughtseize
+2 Fatal Push
 3 Fatal Push
 1 Vraska, Golgari Queen
 1 Emrakul, the Promised End
-1 Liliana, the Last Hope
 1 Traverse the Ulvenwald
-2 Traverse the Ulvenwald
+1 Liliana, the Last Hope
+1 Castle Locthwain
 2 Abrupt Decay
+2 Traverse the Ulvenwald
 3 Traverse the Ulvenwald
-1 Kalitas, Traitor of Ghet
+3 Scavenging Ooze
+4 Scavenging Ooze
+4 Swamp
 2 Tireless Tracker
+1 Walking Ballista
+3 Woodland Cemetery
 3 Hashep Oasis
-4 Woodland Cemetery
 3 Fabled Passage
 4 Fatal Push
 1 Ishkanah, Grafwidow
 4 Traverse the Ulvenwald
+1 Kalitas, Traitor of Ghet
 1 Assassin's Trophy
 1 Vraska's Contempt
 1 Castle Garenbrig
-2 Walking Ballista
 1 Vivien, Arkbow Ranger
 2 Vivien, Arkbow Ranger
 1 Blast Zone
-1 Hissing Quagmire
+1 Blossoming Defense
+2 Blossoming Defense
 3 Blossoming Defense
-1 Vine Mare
-1 Syr Faren, the Hengehammer
-1 Aspect of Hydra
-2 Syr Faren, the Hengehammer
-2 Aspect of Hydra
-3 Aspect of Hydra
-4 Aspect of Hydra
-4 Surrak, the Hunt Caller
 1 Nissa, Vastwood Seer
-1 Phyrexian Revoker
+4 Woodland Cemetery
 1 Plaguecrafter
 1 Massacre Girl
+1 Phyrexian Revoker
 1 Grisly Salvage
 1 Vraska the Unseen
 1 Dead Weight
@@ -117,19 +107,26 @@
 3 Abrupt Decay
 3 Grisly Salvage
 4 Abrupt Decay
-3 Rhonas the Indomitable
-3 Yorvo, Lord of Garenbrig
+1 Syr Faren, the Hengehammer
+1 Aspect of Hydra
+1 Vine Mare
+2 Syr Faren, the Hengehammer
+2 Aspect of Hydra
+3 Aspect of Hydra
+4 Aspect of Hydra
+4 Surrak, the Hunt Caller
+1 Hissing Quagmire
 4 Fabled Passage
-1 Urborg, Tomb of Yawgmoth
 1 Arch of Orazca
 1 Ulamog, the Ceaseless Hunger
 1 Evolving Wilds
 1 Wayward Swordtooth
-1 Crucible of Worlds
-1 Nissa, Who Shakes the World
-1 The Gitrog Monster
-1 Drownyard Temple
 1 Ramunap Excavator
+1 Crucible of Worlds
+1 Drownyard Temple
+1 Urborg, Tomb of Yawgmoth
+1 The Gitrog Monster
+1 Nissa, Who Shakes the World
 1 Llanowar Scout
 1 Sylvan Advocate
 2 Evolving Wilds
@@ -148,9 +145,8 @@
 4 Sylvan Advocate
 4 Evolving Wilds
 1 Hangarback Walker
+2 Walking Ballista
 3 Vivien, Arkbow Ranger
-3 Walking Ballista
-4 Walking Ballista
 1 Voracious Hydra
 1 Experiment One
 1 Nissa, Voice of Zendikar
@@ -159,8 +155,8 @@
 1 Pelt Collector
 1 Winding Constrictor
 1 Rishkar, Peema Renegade
-2 Hangarback Walker
 2 Voracious Hydra
+2 Hangarback Walker
 2 Hardened Scales
 2 Stonecoil Serpent
 2 Nissa, Voice of Zendikar
@@ -168,6 +164,7 @@
 2 Rishkar, Peema Renegade
 2 Pelt Collector
 2 Experiment One
+3 Walking Ballista
 3 Hardened Scales
 3 Nissa, Voice of Zendikar
 3 Stonecoil Serpent
@@ -179,6 +176,7 @@
 4 Winding Constrictor
 4 Pelt Collector
 4 Experiment One
+4 Walking Ballista
 2 Liliana, the Last Hope
 1 Dark Petition
 1 Temple of Malady
@@ -187,35 +185,26 @@
 2 Dark Petition
 2 Temple of Malady
 2 Assassin's Trophy
-2 Castle Locthwain
-3 Castle Locthwain
+1 Unclaimed Territory
+2 Unclaimed Territory
+3 Unclaimed Territory
+4 Unclaimed Territory
 1 Cavalier of Thorns
-5 Swamp
 1 Nissa's Pilgrimage
-1 Merfolk Branchwalker
-1 Kraul Harpooner
-2 Kraul Harpooner
 1 Verdurous Gearhulk
 1 Inventors' Fair
 2 Verdurous Gearhulk
 1 Cast Down
 2 Cast Down
+1 Merfolk Branchwalker
+3 Rhonas the Indomitable
 1 Grim Flayer
 1 Collective Brutality
 2 Grim Flayer
+2 Castle Locthwain
+3 Castle Locthwain
 3 Grim Flayer
 4 Grim Flayer
-1 Languish
-1 Pulse of Murasa
-1 Gonti, Lord of Luxury
-1 Read the Bones
-2 Hissing Quagmire
-2 Languish
-3 Temple of Malady
-3 Murderous Rider
-3 Hissing Quagmire
-3 Dark Petition
-4 Temple of Malady
 1 World Breaker
 1 Elvish Rejuvenator
 1 Sanctum of Ugin
@@ -251,51 +240,31 @@
 4 Arboreal Grazer
 4 Cavalier of Thorns
 4 Nissa's Pilgrimage
-4 Tireless Tracker
 1 Growth-Chamber Guardian
 1 Kiora, Behemoth Beckoner
-1 Reality Smasher
 1 Thought-Knot Seer
-1 Unclaimed Territory
+1 Reality Smasher
 2 Growth-Chamber Guardian
 2 Kiora, Behemoth Beckoner
-2 Unclaimed Territory
 2 Thought-Knot Seer
 2 Reality Smasher
 3 Growth-Chamber Guardian
-3 Reality Smasher
 3 Thought-Knot Seer
-3 Unclaimed Territory
-4 Reality Smasher
+3 Reality Smasher
 4 Growth-Chamber Guardian
-4 Unclaimed Territory
-4 Hashep Oasis
 4 Thought-Knot Seer
-1 Status/Statue
-1 Knight of the Ebon Legion
-1 Vraska, Swarm's Eminence
-1 Gifted Aetherborn
-1 Dusk Legion Zealot
-1 Champion of Dusk
-1 Sorin, Imperious Bloodlord
-2 Status/Statue
-2 Kalitas, Traitor of Ghet
-2 Dusk Legion Zealot
-2 Champion of Dusk
-2 Gifted Aetherborn
-2 Knight of the Ebon Legion
-2 Vraska, Swarm's Eminence
-2 Sorin, Imperious Bloodlord
-3 Status/Statue
-3 Sorin, Imperious Bloodlord
-3 Vraska, Swarm's Eminence
-3 Dusk Legion Zealot
-3 Gifted Aetherborn
-3 Champion of Dusk
-4 Castle Locthwain
-4 Gifted Aetherborn
-4 Champion of Dusk
-4 Sorin, Imperious Bloodlord
+4 Reality Smasher
+4 Hashep Oasis
+4 Tireless Tracker
+1 Gnarlroot Trapper
+1 Dwynen, Gilt-Leaf Daen
+1 Marwyn, the Nurturer
+1 Growing Rites of Itlimoc
+2 Marwyn, the Nurturer
+2 Gnarlroot Trapper
+3 Gnarlroot Trapper
+3 Marwyn, the Nurturer
+4 Gnarlroot Trapper
 1 Avatar of the Resolute
 2 Avatar of the Resolute
 3 Voracious Hydra
@@ -314,6 +283,7 @@
 4 Wildborn Preserver
 2 Questing Beast
 3 Questing Beast
+3 Yorvo, Lord of Garenbrig
 4 Questing Beast
 4 Yorvo, Lord of Garenbrig
 1 Nissa, Vital Force
@@ -321,3 +291,15 @@
 2 Nissa, Who Shakes the World
 3 Llanowar Scout
 4 Mutavault
+1 Languish
+1 Pulse of Murasa
+1 Gonti, Lord of Luxury
+1 Read the Bones
+2 Hissing Quagmire
+2 Languish
+3 Temple of Malady
+3 Murderous Rider
+3 Hissing Quagmire
+3 Dark Petition
+4 Temple of Malady
+5 Swamp

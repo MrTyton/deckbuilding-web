@@ -33,3 +33,35 @@
 |1 [Mirran Crusader](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=213802)             |                                                                                           |
 |1 [Phyrexian Revoker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383343)           |                                                                                           |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                           Maindeck Card                                            |*n*<sup>th</sup> copy|                                      Sideboard Card                                       |
+|--------------------:|----------------------------------------------------------------------------------------------------|--------------------:|-------------------------------------------------------------------------------------------|
+|                    1|[Snow-Covered Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121267)      |                    1|[Walking Ballista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423848)|
+|                    1|[Snow-Covered Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121192)      |                    1|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)  |
+|                    1|[Godless Shrine](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405099)           |                    1|[Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)    |
+|                    1|[Marsh Flats](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405101)              |                    2|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)  |
+|                    1|[Verdant Catacombs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405113)        |                    2|[Mirran Crusader](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=213802) |
+|                    1|[Giver of Runes](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463962)           |                    2|[Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)    |
+|                    1|[Spike Feeder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=21113)              |                    3|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)  |
+|                    1|[Anafenza, Kin-Tree Spirit](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394490)|                    3|[Mirran Crusader](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=213802) |
+|                    2|[Anafenza, Kin-Tree Spirit](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394490)|                    3|[Path to Exile](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220511)   |
+|                    2|[Ranger-Captain of Eos](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463970)    |                    4|[Path to Exile](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220511)   |
+|                    2|[Verdant Catacombs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405113)        |                     |                                                                                           |
+|                    2|[Giver of Runes](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463962)           |                     |                                                                                           |
+|                    2|[Spike Feeder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=21113)              |                     |                                                                                           |
+|                    2|[Viscera Seer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376569)             |                     |                                                                                           |
+|                    3|[Giver of Runes](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463962)           |                     |                                                                                           |
+|                    3|[Spike Feeder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=21113)              |                     |                                                                                           |
+|                    3|[Ranger-Captain of Eos](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463970)    |                     |                                                                                           |
+|                    3|[Anafenza, Kin-Tree Spirit](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394490)|                     |                                                                                           |
+|                    3|[Horizon Canopy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409571)           |                     |                                                                                           |
+|                    3|[Verdant Catacombs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405113)        |                     |                                                                                           |
+|                    4|[Ranger-Captain of Eos](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463970)    |                     |                                                                                           |
+|                    4|[Verdant Catacombs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405113)        |                     |                                                                                           |
+|                    4|[Spike Feeder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=21113)              |                     |                                                                                           |
+|                    4|Heliod, Sun-Crowned                                                                                 |                     |                                                                                           |
+|                    4|[Once Upon a Time](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473131)         |                     |                                                                                           |
+|                    4|[Giver of Runes](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463962)           |                     |                                                                                           |
+

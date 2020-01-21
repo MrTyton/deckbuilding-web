@@ -4,13 +4,13 @@
 3 Island
 4 Sulfur Falls
 4 Island
-1 Lightning Axe
-1 Treasure Cruise
 1 Arclight Phoenix
+1 Treasure Cruise
+1 Lightning Axe
 1 Izzet Charm
-2 Lightning Axe
 2 Arclight Phoenix
 2 Izzet Charm
+2 Lightning Axe
 3 Izzet Charm
 3 Arclight Phoenix
 3 Lightning Axe
@@ -40,56 +40,55 @@
 1 Bonecrusher Giant
 2 Bedlam Reveler
 3 Crackling Drake
-4 Light Up the Stage
+4 Curious Obsession
 1 Young Pyromancer
 2 Young Pyromancer
 3 Young Pyromancer
 4 Young Pyromancer
-4 Curious Obsession
 1 Thrill of Possibility
-1 Fiery Temper
 1 Improbable Alliance
 1 Chart a Course
 1 Quicken
+1 Fiery Temper
 2 Brazen Borrower
 2 Thrill of Possibility
-2 Fiery Temper
 2 Improbable Alliance
+2 Fiery Temper
 2 Quicken
 2 Chart a Course
+3 Fiery Temper
 3 Brazen Borrower
 3 Improbable Alliance
-3 Treasure Cruise
-3 Fiery Temper
 3 Chart a Course
-4 Improbable Alliance
+3 Treasure Cruise
 4 Fiery Temper
+4 Improbable Alliance
 4 Brazen Borrower
 4 Chart a Course
 4 Treasure Cruise
-1 Emry, Lurker of the Loch
-1 The Royal Scions
-1 Stubborn Denial
 1 Stonecoil Serpent
 1 Shrapnel Blast
 1 Darksteel Citadel
 1 Ensoul Artifact
+1 The Royal Scions
 1 Gingerbrute
+1 Stubborn Denial
 1 Ghostfire Blade
 1 Bomat Courier
 1 Thopter Engineer
 1 Hope of Ghirapur
 1 Skilled Animator
-2 The Royal Scions
-2 Emry, Lurker of the Loch
-2 Stubborn Denial
+1 Emry, Lurker of the Loch
 2 Stonecoil Serpent
 2 Skilled Animator
 2 Bomat Courier
 2 Hope of Ghirapur
 2 Darksteel Citadel
+2 Emry, Lurker of the Loch
 2 Shrapnel Blast
 2 Ghostfire Blade
+2 Stubborn Denial
+2 The Royal Scions
 2 Gingerbrute
 2 Ensoul Artifact
 3 Gingerbrute
@@ -108,3 +107,4 @@
 4 Stonecoil Serpent
 4 Ghostfire Blade
 4 Shrapnel Blast
+4 Light Up the Stage
