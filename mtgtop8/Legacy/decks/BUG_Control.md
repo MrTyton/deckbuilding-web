@@ -88,8 +88,8 @@
 |                    2|[Baleful Strix](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376260)             |                     |                                                                                              |
 |                    3|[Hymn to Tourach](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413634)           |                     |                                                                                              |
 |                    3|[Underground Sea](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=886)              |                     |                                                                                              |
-|                    3|[Verdant Catacombs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405113)         |                     |                                                                                              |
 |                    3|[Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)              |                     |                                                                                              |
+|                    3|[Verdant Catacombs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405113)         |                     |                                                                                              |
 |                    3|[Baleful Strix](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376260)             |                     |                                                                                              |
 |                    4|[Baleful Strix](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376260)             |                     |                                                                                              |
 

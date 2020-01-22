@@ -53,6 +53,6 @@
 |                    4|[Silent Clearing](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464195)      |                    2|[Winds of Abandon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463986)        |
 |                     |                                                                                                |                    3|[Phyrexian Revoker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383343)       |
 |                     |                                                                                                |                    3|[Winds of Abandon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463986)        |
-|                     |                                                                                                |                    3|[Stony Silence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=247425)           |
 |                     |                                                                                                |                    4|[Phyrexian Revoker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383343)       |
+|                     |                                                                                                |                    3|[Stony Silence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=247425)           |
 
