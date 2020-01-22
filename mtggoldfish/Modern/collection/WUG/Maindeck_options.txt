@@ -1,5 +1,10 @@
 2 Flooded Strand
 1 Prismatic Vista
+2 Once Upon a Time
+1 Cryptic Command
+2 Cryptic Command
+2 Prismatic Vista
+3 Snow-Covered Forest
 1 Tranquil Thicket
 1 Lonely Sandbar
 1 Nexus of Fate
@@ -7,25 +12,20 @@
 1 Life from the Loam
 1 Sphinx's Revelation
 1 Fact or Fiction
-1 Cryptic Command
 1 Utopia Sprawl
-1 Mikokoro, Center of the Sea
 1 Hinterland Harbor
-1 Remand
-1 Sakura-Tribe Elder
 1 Celestial Colonnade
+1 Remand
+1 Mikokoro, Center of the Sea
+1 Sakura-Tribe Elder
 2 Wilderness Reclamation
 2 Remand
-2 Cryptic Command
 2 Fact or Fiction
-2 Utopia Sprawl
-2 Prismatic Vista
 2 Nexus of Fate
+2 Utopia Sprawl
 2 Lonely Sandbar
 2 Sphinx's Revelation
 2 Sakura-Tribe Elder
-3 Snow-Covered Island
-3 Snow-Covered Forest
 3 Nexus of Fate
 3 Prismatic Vista
 3 Wilderness Reclamation
@@ -35,51 +35,85 @@
 3 Sakura-Tribe Elder
 3 Cryptic Command
 3 Fact or Fiction
+3 Snow-Covered Island
 3 Utopia Sprawl
-4 Snow-Covered Island
+4 Cryptic Command
 4 Sakura-Tribe Elder
+4 Snow-Covered Island
 4 Fact or Fiction
 4 Lonely Sandbar
-4 Cryptic Command
 4 Utopia Sprawl
-4 Wilderness Reclamation
 4 Prismatic Vista
+4 Wilderness Reclamation
 5 Snow-Covered Island
 1 Elspeth, Sun's Nemesis
 3 Field of Ruin
-4 Misty Rainforest
+1 Deputy of Detention
+1 Razorverge Thicket
 1 Ranger-Captain of Eos
 1 Selfless Spirit
-1 Deputy of Detention
 1 Walking Ballista
 1 Sword of Fire and Ice
+1 Phyrexian Revoker
 1 Island
 1 Aether Vial
 1 Moorland Haunt
-1 Razorverge Thicket
+1 Forest
 1 Giver of Runes
 1 Seachrome Coast
-1 Phyrexian Revoker
 1 Hexdrinker
 1 Thalia, Guardian of Thraben
 1 Plains
-1 Forest
 2 Seachrome Coast
 2 Waterlogged Grove
 2 Horizon Canopy
-2 Ranger-Captain of Eos
 2 Deputy of Detention
-2 Phyrexian Revoker
 2 Aether Vial
+2 Ranger-Captain of Eos
 2 Brazen Borrower
+2 Phyrexian Revoker
 2 Giver of Runes
 2 Thalia, Guardian of Thraben
 3 Once Upon a Time
-3 Ranger-Captain of Eos
-3 Giver of Runes
 3 Seachrome Coast
+3 Giver of Runes
+3 Ranger-Captain of Eos
 3 Aether Vial
 4 Once Upon a Time
 4 Ranger-Captain of Eos
 4 Aether Vial
 4 Giver of Runes
+1 Tarmogoyf
+2 Tarmogoyf
+3 Arcum's Astrolabe
+3 Tarmogoyf
+4 Tarmogoyf
+4 Arcum's Astrolabe
+1 Mulldrifter
+1 Coiling Oracle
+1 Eladamri's Call
+1 Ephemerate
+1 Eternal Witness
+1 Collector Ouphe
+1 Venser, Shaper Savant
+1 Knight of Autumn
+1 Charming Prince
+1 Soulherder
+1 Prairie Stream
+1 Canopy Vista
+1 Lavinia of the Tenth
+2 Ephemerate
+2 Eternal Witness
+2 Venser, Shaper Savant
+2 Coiling Oracle
+2 Eladamri's Call
+2 Soulherder
+3 Eladamri's Call
+3 Eternal Witness
+3 Flooded Strand
+3 Ephemerate
+3 Soulherder
+3 Coiling Oracle
+4 Eternal Witness
+4 Ephemerate
+4 Coiling Oracle

@@ -57,8 +57,8 @@
 2 Dark Petition
 2 Hissing Quagmire
 2 Assassin's Trophy
-3 Dark Petition
 3 Hissing Quagmire
+3 Dark Petition
 1 Courser of Kruphix
 1 Tireless Tracker
 2 Courser of Kruphix
@@ -151,9 +151,9 @@
 2 Oath of Kaya
 1 Liliana, Dreadhorde General
 6 Swamp
+2 Glacial Fortress
 1 Nissa, Who Shakes the World
 2 Nissa, Who Shakes the World
-2 Glacial Fortress
 1 Angrath, the Flame-Chained
 1 Woodland Cemetery
 1 Jace, Unraveler of Secrets
@@ -171,12 +171,12 @@
 3 The Scarab God
 3 Champion of Wits
 1 Nahiri, the Harbinger
-1 Clifftop Retreat
 1 Temple of Enlightenment
 1 Chandra, Awakened Inferno
 1 Mobilized District
 1 Gideon of the Trials
 1 Deafening Clarion
+1 Clifftop Retreat
 1 Temple of Epiphany
 1 Temple of Triumph
 2 Nahiri, the Harbinger
@@ -223,6 +223,16 @@
 3 Sinister Sabotage
 4 Hieroglyphic Illumination
 4 Sinister Sabotage
+1 Approach of the Second Sun
+1 Thought Erasure
+1 Shambling Vent
+1 Sphinx's Revelation
+1 Dovin's Veto
+1 Declaration in Stone
+2 Thought Erasure
+2 Shambling Vent
+3 Thought Erasure
+4 Thought Erasure
 1 Chandra, Acolyte of Flame
 1 Goblin Dark-Dwellers
 1 Ob Nixilis Reignited
@@ -235,10 +245,10 @@
 1 Spell Pierce
 1 Spirebluff Canal
 1 Commit / Memory
-1 Heart of Kiran
-1 Sarkhan the Masterless
 1 Magma Spray
+1 Heart of Kiran
 1 Mox Amber
+1 Sarkhan the Masterless
 1 Urza's Ruinous Blast
 2 Spell Pierce
 2 Sulfur Falls
@@ -250,10 +260,10 @@
 3 Anger of the Gods
 3 Spirebluff Canal
 3 Spell Pierce
-4 Sacred Foundry
 4 Anger of the Gods
 4 Spirebluff Canal
 4 Steam Vents
+4 Sacred Foundry
 2 Cast Down
 3 Field of Ruin
 4 Field of Ruin
@@ -266,8 +276,8 @@
 1 Hinterland Harbor
 1 Wilderness Reclamation
 1 Growth Spiral
-1 Tamiyo, Collector of Tales
 1 Gadwick, the Wizened
+1 Tamiyo, Collector of Tales
 1 Frilled Mystic
 1 Prophet of Kruphix
 2 Breeding Pool
@@ -294,25 +304,15 @@
 4 Growth Spiral
 4 Brazen Borrower
 4 Frilled Mystic
-1 Approach of the Second Sun
-1 Thought Erasure
-1 Shambling Vent
-1 Sphinx's Revelation
-1 Declaration in Stone
-1 Dovin's Veto
-2 Thought Erasure
-2 Shambling Vent
-3 Thought Erasure
-4 Thought Erasure
 1 Isolated Chapel
 2 Isolated Chapel
 3 Godless Shrine
 3 Isolated Chapel
 4 Godless Shrine
 1 Merfolk Secretkeeper
+1 Gods Willing
 1 Mana Confluence
 1 Scheming Symmetry
-1 Gods Willing
 1 Cerulean Drake
 1 Apostle of Purifying Light
 1 Aqueous Form
@@ -332,7 +332,6 @@
 2 Colossus Hammer
 2 Open the Armory
 3 Merfolk Secretkeeper
-3 Gods Willing
 3 Mana Confluence
 3 Scheming Symmetry
 3 Cerulean Drake
@@ -343,11 +342,12 @@
 3 Sigarda's Aid
 3 Colossus Hammer
 3 Overwhelmed Apprentice
+3 Gods Willing
 4 Merfolk Secretkeeper
-4 Gods Willing
 4 Apostle of Purifying Light
 4 Overwhelmed Apprentice
 4 Sigarda's Aid
+4 Gods Willing
 4 Open the Armory
 4 Mana Confluence
 4 Colossus Hammer
@@ -355,38 +355,38 @@
 4 Fetid Pools
 4 Scheming Symmetry
 1 Concealed Courtyard
+1 Doom Foretold
 1 Caves of Koilos
 1 Trial of Ambition
 1 Karn, Scion of Urza
-1 History of Benalia
 1 Gifted Aetherborn
+1 History of Benalia
 1 Knight of the Ebon Legion
-1 Doom Foretold
 1 Brought Back
 1 Anguished Unmaking
 1 Lyra Dawnbringer
-2 Plains
 2 Concealed Courtyard
+2 Doom Foretold
 2 Karn, Scion of Urza
 2 Gifted Aetherborn
+2 Plains
 2 History of Benalia
-2 Doom Foretold
 2 Knight of the Ebon Legion
 2 Trial of Ambition
 3 Karn, Scion of Urza
-3 Plains
-3 Gifted Aetherborn
-3 History of Benalia
-3 Concealed Courtyard
-3 Knight of the Ebon Legion
 3 Doom Foretold
-4 Gifted Aetherborn
-4 Concealed Courtyard
+3 Gifted Aetherborn
+3 Concealed Courtyard
+3 Plains
+3 Knight of the Ebon Legion
+3 History of Benalia
 4 Isolated Chapel
+4 Concealed Courtyard
+4 Doom Foretold
 4 History of Benalia
 4 Plains
 4 Knight of the Ebon Legion
-4 Doom Foretold
+4 Gifted Aetherborn
 5 Plains
 1 Grisly Salvage
 1 Vraska, Golgari Queen

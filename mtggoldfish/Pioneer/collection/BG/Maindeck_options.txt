@@ -7,11 +7,11 @@
 1 Dwynen's Elite
 1 Elvish Clancaller
 2 Elvish Clancaller
-2 Dwynen's Elite
 2 Shaman of the Pack
+2 Dwynen's Elite
 3 Elvish Clancaller
-3 Shaman of the Pack
 3 Dwynen's Elite
+3 Shaman of the Pack
 4 Elvish Clancaller
 4 Shaman of the Pack
 4 Dwynen's Elite
@@ -45,6 +45,7 @@
 2 Woodland Cemetery
 1 Swamp
 1 Tireless Tracker
+1 Questing Beast
 1 Thoughtseize
 2 Thoughtseize
 3 Thoughtseize
@@ -57,7 +58,6 @@
 2 Murderous Rider
 2 Swamp
 3 Swamp
-1 Questing Beast
 4 Thoughtseize
 2 Fatal Push
 3 Fatal Push
@@ -73,20 +73,18 @@
 4 Scavenging Ooze
 4 Swamp
 2 Tireless Tracker
-1 Walking Ballista
 3 Woodland Cemetery
 3 Hashep Oasis
 3 Fabled Passage
 4 Fatal Push
+1 Walking Ballista
 1 Ishkanah, Grafwidow
 4 Traverse the Ulvenwald
 1 Kalitas, Traitor of Ghet
 1 Assassin's Trophy
 1 Vraska's Contempt
-1 Castle Garenbrig
 1 Vivien, Arkbow Ranger
 2 Vivien, Arkbow Ranger
-1 Blast Zone
 1 Blossoming Defense
 2 Blossoming Defense
 3 Blossoming Defense
@@ -95,88 +93,90 @@
 1 Plaguecrafter
 1 Massacre Girl
 1 Phyrexian Revoker
-1 Grisly Salvage
-1 Vraska the Unseen
 1 Dead Weight
-1 Grapple with the Past
+1 Grisly Salvage
 1 Renegade Map
 1 Liliana, Death's Majesty
+1 Vraska the Unseen
+1 Grapple with the Past
 2 Dead Weight
 2 Grisly Salvage
 2 Renegade Map
 3 Abrupt Decay
 3 Grisly Salvage
 4 Abrupt Decay
-1 Syr Faren, the Hengehammer
 1 Aspect of Hydra
+1 Syr Faren, the Hengehammer
 1 Vine Mare
-2 Syr Faren, the Hengehammer
 2 Aspect of Hydra
+2 Syr Faren, the Hengehammer
 3 Aspect of Hydra
 4 Aspect of Hydra
 4 Surrak, the Hunt Caller
 1 Hissing Quagmire
+1 Castle Garenbrig
 4 Fabled Passage
-1 Arch of Orazca
-1 Ulamog, the Ceaseless Hunger
 1 Evolving Wilds
 1 Wayward Swordtooth
 1 Ramunap Excavator
+1 Arch of Orazca
 1 Crucible of Worlds
-1 Drownyard Temple
+1 Sylvan Advocate
+1 Ulamog, the Ceaseless Hunger
+1 Nissa, Who Shakes the World
 1 Urborg, Tomb of Yawgmoth
 1 The Gitrog Monster
-1 Nissa, Who Shakes the World
+1 Drownyard Temple
 1 Llanowar Scout
-1 Sylvan Advocate
 2 Evolving Wilds
 2 Ramunap Excavator
 2 Crucible of Worlds
 2 Sylvan Advocate
-2 Llanowar Scout
 2 The Gitrog Monster
 2 Wayward Swordtooth
+2 Llanowar Scout
 3 Tireless Tracker
 3 Wayward Swordtooth
-3 Sylvan Advocate
 3 Evolving Wilds
+3 Sylvan Advocate
 3 The Gitrog Monster
 4 Wayward Swordtooth
-4 Sylvan Advocate
 4 Evolving Wilds
+4 Sylvan Advocate
 1 Hangarback Walker
 2 Walking Ballista
 3 Vivien, Arkbow Ranger
 1 Voracious Hydra
 1 Experiment One
 1 Nissa, Voice of Zendikar
-1 Hardened Scales
 1 Stonecoil Serpent
+1 Hardened Scales
+1 Rishkar, Peema Renegade
 1 Pelt Collector
 1 Winding Constrictor
-1 Rishkar, Peema Renegade
 2 Voracious Hydra
 2 Hangarback Walker
 2 Hardened Scales
 2 Stonecoil Serpent
 2 Nissa, Voice of Zendikar
-2 Winding Constrictor
 2 Rishkar, Peema Renegade
 2 Pelt Collector
+2 Winding Constrictor
 2 Experiment One
 3 Walking Ballista
 3 Hardened Scales
+3 Experiment One
+3 Winding Constrictor
 3 Nissa, Voice of Zendikar
 3 Stonecoil Serpent
 3 Pelt Collector
-3 Experiment One
-3 Winding Constrictor
 4 Hardened Scales
 4 Nissa, Voice of Zendikar
-4 Winding Constrictor
 4 Pelt Collector
+4 Winding Constrictor
 4 Experiment One
 4 Walking Ballista
+1 Blast Zone
 2 Liliana, the Last Hope
 1 Dark Petition
 1 Temple of Malady
@@ -189,13 +189,11 @@
 2 Unclaimed Territory
 3 Unclaimed Territory
 4 Unclaimed Territory
-1 Cavalier of Thorns
-1 Nissa's Pilgrimage
+1 Cast Down
+2 Cast Down
 1 Verdurous Gearhulk
 1 Inventors' Fair
 2 Verdurous Gearhulk
-1 Cast Down
-2 Cast Down
 1 Merfolk Branchwalker
 3 Rhonas the Indomitable
 1 Grim Flayer
@@ -205,41 +203,43 @@
 3 Castle Locthwain
 3 Grim Flayer
 4 Grim Flayer
-1 World Breaker
-1 Elvish Rejuvenator
-1 Sanctum of Ugin
-1 Ugin, the Spirit Dragon
-1 Arboreal Grazer
-1 Ulvenwald Hydra
-1 Shrine of the Forsaken Gods
-1 Radiant Fountain
-2 Elvish Rejuvenator
-2 Radiant Fountain
-2 Ugin, the Spirit Dragon
-2 Arboreal Grazer
-2 Castle Garenbrig
-2 Sanctum of Ugin
-2 World Breaker
-2 Cavalier of Thorns
-2 Nissa's Pilgrimage
-2 Ulamog, the Ceaseless Hunger
-2 Ulvenwald Hydra
-2 Shrine of the Forsaken Gods
-3 Elvish Rejuvenator
-3 Ugin, the Spirit Dragon
-3 Arboreal Grazer
-3 Ulvenwald Hydra
-3 Shrine of the Forsaken Gods
-3 Cavalier of Thorns
-3 World Breaker
-3 Radiant Fountain
-3 Nissa's Pilgrimage
-3 Castle Garenbrig
-4 Elvish Rejuvenator
-4 Ugin, the Spirit Dragon
-4 Arboreal Grazer
-4 Cavalier of Thorns
-4 Nissa's Pilgrimage
+1 Avatar of the Resolute
+2 Avatar of the Resolute
+3 Voracious Hydra
+3 Avatar of the Resolute
+4 Stonecoil Serpent
+4 Avatar of the Resolute
+1 Nissa, Vital Force
+2 Nissa, Vastwood Seer
+2 Nissa, Who Shakes the World
+3 Llanowar Scout
+4 Mutavault
+1 Growing Rites of Itlimoc
+1 Gnarlroot Trapper
+1 Dwynen, Gilt-Leaf Daen
+1 Marwyn, the Nurturer
+2 Marwyn, the Nurturer
+2 Gnarlroot Trapper
+3 Marwyn, the Nurturer
+3 Gnarlroot Trapper
+4 Gnarlroot Trapper
+1 Cavalier of Thorns
+4 Tireless Tracker
+2 Questing Beast
+3 Questing Beast
+3 Yorvo, Lord of Garenbrig
+4 Questing Beast
+4 Yorvo, Lord of Garenbrig
+1 Wildborn Preserver
+1 Icon of Ancestry
+1 Thorn Lieutenant
+2 Wildborn Preserver
+2 Icon of Ancestry
+2 Thorn Lieutenant
+3 Wildborn Preserver
+3 Thorn Lieutenant
+4 Wildborn Preserver
+4 Thorn Lieutenant
 1 Growth-Chamber Guardian
 1 Kiora, Behemoth Beckoner
 1 Thought-Knot Seer
@@ -253,53 +253,18 @@
 3 Reality Smasher
 4 Growth-Chamber Guardian
 4 Thought-Knot Seer
-4 Reality Smasher
 4 Hashep Oasis
-4 Tireless Tracker
-1 Gnarlroot Trapper
-1 Dwynen, Gilt-Leaf Daen
-1 Marwyn, the Nurturer
-1 Growing Rites of Itlimoc
-2 Marwyn, the Nurturer
-2 Gnarlroot Trapper
-3 Gnarlroot Trapper
-3 Marwyn, the Nurturer
-4 Gnarlroot Trapper
-1 Avatar of the Resolute
-2 Avatar of the Resolute
-3 Voracious Hydra
-3 Avatar of the Resolute
-4 Avatar of the Resolute
-4 Stonecoil Serpent
-1 Icon of Ancestry
-1 Wildborn Preserver
-1 Thorn Lieutenant
-2 Icon of Ancestry
-2 Wildborn Preserver
-2 Thorn Lieutenant
-3 Wildborn Preserver
-3 Thorn Lieutenant
-4 Thorn Lieutenant
-4 Wildborn Preserver
-2 Questing Beast
-3 Questing Beast
-3 Yorvo, Lord of Garenbrig
-4 Questing Beast
-4 Yorvo, Lord of Garenbrig
-1 Nissa, Vital Force
-2 Nissa, Vastwood Seer
-2 Nissa, Who Shakes the World
-3 Llanowar Scout
-4 Mutavault
+4 Reality Smasher
 1 Languish
-1 Pulse of Murasa
 1 Gonti, Lord of Luxury
+1 Pulse of Murasa
+1 Nissa's Pilgrimage
 1 Read the Bones
 2 Hissing Quagmire
 2 Languish
 3 Temple of Malady
 3 Murderous Rider
-3 Hissing Quagmire
 3 Dark Petition
+3 Hissing Quagmire
 4 Temple of Malady
 5 Swamp

@@ -1,62 +1,57 @@
 1 Decimator of the Provinces
 2 Decimator of the Provinces
 4 Llanowar Wastes
-1 Mountain
-1 Plains
-2 Plains
-1 Sacred Foundry
-1 Inspiring Vantage
-2 Sacred Foundry
-2 Inspiring Vantage
-3 Sacred Foundry
-3 Inspiring Vantage
-4 Inspiring Vantage
-4 Sacred Foundry
-1 Boros Charm
-2 Boros Charm
-1 Battlefield Forge
-2 Mountain
-1 Tenth District Legionnaire
-1 Invigorated Rampage
-1 Feather, the Redeemed
-1 Defiant Strike
-1 Favored Hoplite
-1 Reckless Rage
-1 Dreadhorde Arcanist
-1 Titan's Strength
-1 Monastery Swiftspear
-1 Gods Willing
-2 Tenth District Legionnaire
-2 Dreadhorde Arcanist
-2 Defiant Strike
-2 Titan's Strength
-2 Favored Hoplite
-2 Reckless Rage
-2 Feather, the Redeemed
-2 Invigorated Rampage
-2 Monastery Swiftspear
-2 Battlefield Forge
-2 Gods Willing
-3 Favored Hoplite
-3 Defiant Strike
-3 Titan's Strength
-3 Tenth District Legionnaire
-3 Reckless Rage
-3 Battlefield Forge
-3 Dreadhorde Arcanist
-3 Monastery Swiftspear
-3 Gods Willing
-4 Favored Hoplite
-4 Defiant Strike
-4 Reckless Rage
-4 Battlefield Forge
-4 Titan's Strength
-4 Monastery Swiftspear
-4 Gods Willing
-3 Plains
-4 Plains
-1 Gryff's Boon
-2 Gryff's Boon
+1 Island
+1 Spirebluff Canal
+2 Spirebluff Canal
+1 Wild Slash
+2 Wild Slash
+1 Emry, Lurker of the Loch
+1 Bomat Courier
+1 Spire of Industry
+1 Skilled Animator
+1 Hope of Ghirapur
+1 The Royal Scions
+1 Ghostfire Blade
+1 Gingerbrute
+1 Ensoul Artifact
+1 Darksteel Citadel
+1 Shrapnel Blast
+1 Stonecoil Serpent
+1 Shivan Reef
+1 Steam Vents
+2 Spire of Industry
+2 Steam Vents
+2 Ensoul Artifact
+2 Gingerbrute
+2 Ghostfire Blade
+2 Shrapnel Blast
+2 Darksteel Citadel
+2 Hope of Ghirapur
+2 Skilled Animator
+2 Bomat Courier
+2 Shivan Reef
+2 Stonecoil Serpent
+3 Spirebluff Canal
+3 Spire of Industry
+3 Darksteel Citadel
+3 Shrapnel Blast
+3 Skilled Animator
+3 Ghostfire Blade
+3 Ensoul Artifact
+3 Gingerbrute
+3 Bomat Courier
+3 Stonecoil Serpent
+3 Shivan Reef
+4 Shivan Reef
+4 Stonecoil Serpent
+4 Shrapnel Blast
+4 Ghostfire Blade
+4 Darksteel Citadel
+4 Ensoul Artifact
+4 Skilled Animator
+4 Gingerbrute
+4 Spirebluff Canal
 1 Forest
 2 Forest
 1 Sunpetal Grove
@@ -64,19 +59,23 @@
 2 Temple Garden
 3 Temple Garden
 4 Temple Garden
+1 Plains
 2 Sunpetal Grove
 3 Sunpetal Grove
 4 Sunpetal Grove
+2 Plains
 1 Gladecover Scout
 1 Unflinching Courage
 1 Bassara Tower Archer
 1 Fortified Village
 1 Cartouche of Solidarity
+1 Gryff's Boon
 1 Ethereal Armor
 1 All That Glitters
 2 Bassara Tower Archer
 2 Unflinching Courage
 2 Gladecover Scout
+2 Gryff's Boon
 2 Cartouche of Solidarity
 2 Ethereal Armor
 2 All That Glitters
@@ -97,12 +96,13 @@
 4 Ethereal Armor
 4 All That Glitters
 5 Forest
-1 Hallowed Fountain
-2 Hallowed Fountain
+1 Mountain
 1 Breeding Pool
 1 Llanowar Elves
 2 Breeding Pool
 2 Llanowar Elves
+1 Hallowed Fountain
+2 Hallowed Fountain
 1 Collected Company
 1 Spell Queller
 1 Elvish Mystic
@@ -132,10 +132,15 @@
 3 Lovestruck Beast
 3 Elvish Mystic
 4 Lovestruck Beast
-1 Castle Ardenvale
+2 Mountain
+1 Mutavault
+2 Mutavault
+3 Plains
 4 Reflector Mage
+2 Island
 1 Charming Prince
 4 Hallowed Fountain
+1 Castle Ardenvale
 1 Glacial Fortress
 1 Selfless Spirit
 2 Glacial Fortress
@@ -145,51 +150,64 @@
 3 Selfless Spirit
 4 Deputy of Detention
 4 Selfless Spirit
+1 Hangarback Walker
 1 Thraben Inspector
 2 Thraben Inspector
 3 Thraben Inspector
 4 Thraben Inspector
+1 Hazoret the Fervent
+4 Plains
 5 Plains
 6 Plains
 7 Plains
 8 Plains
 9 Plains
-1 Clifftop Retreat
-2 Clifftop Retreat
 1 Thalia's Lieutenant
 2 Thalia's Lieutenant
 3 Thalia's Lieutenant
 4 Thalia's Lieutenant
+1 Sacred Foundry
+1 Inspiring Vantage
 1 Declaration in Stone
 1 Benalish Marshal
 1 Dauntless Bodyguard
+2 Sacred Foundry
+2 Inspiring Vantage
 2 Declaration in Stone
 2 Benalish Marshal
 2 Dauntless Bodyguard
+3 Sacred Foundry
+3 Inspiring Vantage
 3 Benalish Marshal
 3 Dauntless Bodyguard
+4 Sacred Foundry
+4 Inspiring Vantage
 4 Benalish Marshal
 4 Dauntless Bodyguard
+3 Wild Slash
+4 Wild Slash
 1 Teferi, Time Raveler
 2 Teferi, Time Raveler
-1 Kytheon, Hero of Akros
 1 Westvale Abbey
 2 Charming Prince
 3 Charming Prince
 4 Charming Prince
-3 Mountain
+1 Kytheon, Hero of Akros
 4 Llanowar Elves
-1 Mutavault
-2 Mutavault
+1 Rhonas the Indomitable
 1 Worthy Knight
 1 Tajic, Legion's Edge
+1 Clifftop Retreat
+1 Boros Charm
 1 History of Benalia
 1 Conclave Tribunal
 1 Gideon, Ally of Zendikar
 1 Inspiring Veteran
 1 Venerable Knight
 2 Worthy Knight
+2 Clifftop Retreat
 2 Tajic, Legion's Edge
+2 Boros Charm
 2 History of Benalia
 2 Conclave Tribunal
 2 Venerable Knight
@@ -198,13 +216,13 @@
 3 Worthy Knight
 3 History of Benalia
 3 Tajic, Legion's Edge
-3 Clifftop Retreat
 3 Venerable Knight
 3 Inspiring Veteran
+3 Clifftop Retreat
 4 Worthy Knight
 4 History of Benalia
-4 Clifftop Retreat
 4 Inspiring Veteran
+4 Clifftop Retreat
 1 Ashiok, Dream Render
 4 Haunted Dead
 1 Tireless Tracker
@@ -219,9 +237,9 @@
 3 Dromoka's Command
 3 Yavimaya Coast
 4 Yavimaya Coast
-3 Feather, the Redeemed
-4 Dreadhorde Arcanist
-4 Tenth District Legionnaire
+2 The Royal Scions
+3 Steam Vents
+4 Spire of Industry
 2 Gilded Goose
 1 Renegade Rallier
 1 Leafkin Druid
@@ -242,8 +260,6 @@
 4 Voice of Resurgence
 4 Neoform
 4 Risen Reef
-1 Rhonas the Indomitable
-1 Island
 1 Aether Hub
 2 Aether Hub
 3 Aether Hub
@@ -273,9 +289,15 @@
 3 Elite Guardmage
 3 Kitesail Freebooter
 4 Unclaimed Territory
-4 Glint-Sleeve Siphoner
 4 Kitesail Freebooter
+4 Glint-Sleeve Siphoner
 4 Elite Guardmage
+1 Stubborn Denial
+1 Metallic Rebuke
+2 Stubborn Denial
+2 Emry, Lurker of the Loch
+2 Metallic Rebuke
+4 Bomat Courier
 1 Steel Leaf Champion
 1 Duskwatch Recruiter
 1 Yorvo, Lord of Garenbrig
@@ -292,69 +314,11 @@
 4 Breeding Pool
 4 Hinterland Harbor
 4 Elvish Mystic
-1 Hazoret the Fervent
-1 Spirebluff Canal
-2 Spirebluff Canal
-1 Hangarback Walker
-1 Wild Slash
-2 Wild Slash
-3 Wild Slash
-4 Wild Slash
-1 Emry, Lurker of the Loch
-1 Bomat Courier
-1 Spire of Industry
-1 Skilled Animator
-1 Hope of Ghirapur
-1 The Royal Scions
-1 Ghostfire Blade
-1 Gingerbrute
-1 Ensoul Artifact
-1 Darksteel Citadel
-1 Shrapnel Blast
-1 Stonecoil Serpent
-1 Shivan Reef
-1 Steam Vents
-2 Spire of Industry
-2 Steam Vents
-2 Ensoul Artifact
-2 Gingerbrute
-2 Ghostfire Blade
-2 Shrapnel Blast
-2 Darksteel Citadel
-2 Hope of Ghirapur
-2 Skilled Animator
-2 The Royal Scions
-2 Bomat Courier
-2 Shivan Reef
-2 Stonecoil Serpent
-3 Spirebluff Canal
-3 Spire of Industry
-3 Darksteel Citadel
-3 Shrapnel Blast
-3 Skilled Animator
-3 Ghostfire Blade
-3 Ensoul Artifact
-3 Gingerbrute
-3 Bomat Courier
-3 Stonecoil Serpent
-3 Shivan Reef
-3 Steam Vents
-4 Shivan Reef
-4 Stonecoil Serpent
-4 Shrapnel Blast
-4 Ghostfire Blade
-4 Spire of Industry
-4 Darksteel Citadel
-4 Ensoul Artifact
-4 Skilled Animator
-4 Gingerbrute
-4 Spirebluff Canal
 1 Cloudblazer
 1 Dusk / Dawn
 1 Oketra's Monument
 1 Angel of Invention
 1 Militia Bugler
-2 Island
 2 Cloudblazer
 2 Westvale Abbey
 2 Dusk / Dawn
@@ -367,8 +331,8 @@
 3 Oketra's Monument
 3 Island
 3 Militia Bugler
-4 Glacial Fortress
 4 Militia Bugler
+4 Glacial Fortress
 4 Oketra's Monument
 4 Island
 1 Stomping Ground
@@ -423,8 +387,8 @@
 2 Vine Mare
 2 Witchstalker
 2 Season of Growth
-3 Witchstalker
 3 Sixth Sense
+3 Witchstalker
 3 Season of Growth
 4 Bassara Tower Archer
 4 Sixth Sense
@@ -432,6 +396,7 @@
 4 Witchstalker
 1 Soldier of the Pantheon
 1 Tithe Taker
+1 Battlefield Forge
 1 Brave the Elements
 1 Knight of the White Orchid
 2 Soldier of the Pantheon
@@ -451,12 +416,6 @@
 4 Declaration in Stone
 4 Brave the Elements
 4 Knight of the White Orchid
-1 Gird for Battle
-1 Lagonna-Band Trailblazer
-2 Gird for Battle
-2 Lagonna-Band Trailblazer
-3 Gird for Battle
-4 Gird for Battle
 1 Glorybringer
 1 Abrade
 1 Chandra, Torch of Defiance
@@ -571,6 +530,7 @@
 3 Soul-Scar Mage
 3 Bonecrusher Giant
 3 Dragonskull Summit
+3 Mountain
 3 Foreboding Ruins
 4 Rekindling Phoenix
 4 Soul-Scar Mage
