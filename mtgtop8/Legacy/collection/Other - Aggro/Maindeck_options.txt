@@ -1,67 +1,43 @@
-1 Ingenious Infiltrator
-2 Prismatic Vista
-2 Ingenious Infiltrator
-3 Prismatic Vista
-4 Polluted Delta
-4 Ponder
-2 Island
-3 Island
-1 Thoughtseize
-1 Swamp
-2 Thoughtseize
-1 Snow-Covered Island
-2 Fatal Push
+1 Prismatic Vista
+1 Yuriko, the Tiger's Shadow
 1 Ornithopter
 1 Retrofitter Foundry
+1 Ingenious Infiltrator
 2 Underground Sea
+2 Prismatic Vista
 2 Ornithopter
 2 Yuriko, the Tiger's Shadow
 2 Retrofitter Foundry
+2 Ingenious Infiltrator
+3 Prismatic Vista
 3 Retrofitter Foundry
 3 Ornithopter
 3 Fatal Push
 3 Ingenious Infiltrator
 3 Yuriko, the Tiger's Shadow
-1 Scalding Tarn
-2 Swamp
+4 Ponder
+4 Polluted Delta
 1 Wasteland
 2 Wasteland
+1 True-Name Nemesis
+2 True-Name Nemesis
 1 Force of Negation
 1 Spell Pierce
 2 Brazen Borrower
 2 Spell Pierce
-1 True-Name Nemesis
-2 True-Name Nemesis
-4 Prismatic Vista
+2 Island
+3 Island
 1 Misty Rainforest
 2 Daze
 3 Daze
-4 Island
-2 Bloodstained Mire
 1 Giver of Runes
 2 Giver of Runes
 1 Plains
 4 Swords to Plowshares
-1 Mountain
-1 Kolaghan's Command
-1 Lightning Bolt
-1 Badlands
-2 Lightning Bolt
-2 Kolaghan's Command
-1 Drown in the Loch
-1 Volcanic Island
-1 Angrath's Rampage
-1 Snapcaster Mage
-1 Liliana's Triumph
-1 Jace, the Mind Sculptor
-1 Augur of Bolas
-1 Fallen Shinobi
-2 Snapcaster Mage
-2 Jace, the Mind Sculptor
-2 Augur of Bolas
-2 Plague Engineer
-3 Kolaghan's Command
-3 Snapcaster Mage
+1 Thoughtseize
+1 Swamp
+2 Thoughtseize
+2 Bloodstained Mire
 1 Tomik, Distinguished Advokist
 1 Chrome Mox
 1 Weathered Wayfarer
@@ -73,16 +49,20 @@
 1 Tithe
 3 Tundra
 4 Tundra
+1 Mountain
 1 Pyroblast
 2 Pyroblast
 1 Arid Mesa
 1 Plateau
 1 Bonecrusher Giant
+1 Kolaghan's Command
 1 Young Pyromancer
 1 Bedlam Reveler
+1 Lightning Bolt
 1 Hymn to Tourach
 1 Liliana, the Last Hope
 1 Cabal Therapy
+1 Badlands
 1 Lingering Souls
 1 Mishra's Bauble
 1 Faithless Looting
@@ -90,14 +70,16 @@
 2 Arid Mesa
 2 Liliana, the Last Hope
 2 Young Pyromancer
+2 Lightning Bolt
 2 Plateau
-2 Hymn to Tourach
 2 Bedlam Reveler
+2 Hymn to Tourach
 2 Mishra's Bauble
 2 Lingering Souls
+2 Kolaghan's Command
+2 Cabal Therapy
 2 Faithless Looting
 2 Badlands
-2 Cabal Therapy
 3 Cabal Therapy
 3 Badlands
 3 Arid Mesa
@@ -117,26 +99,11 @@
 4 Mishra's Bauble
 4 Faithless Looting
 4 Arid Mesa
-1 Preordain
-1 Snow-Covered Swamp
-1 Murderous Cut
-1 Changeling Outcast
-2 Snow-Covered Swamp
-2 Preordain
-2 Changeling Outcast
-2 Snow-Covered Island
-3 Changeling Outcast
-3 Preordain
-3 Snow-Covered Island
-4 Changeling Outcast
-4 Snow-Covered Island
-4 Ingenious Infiltrator
-4 Preordain
-4 Ornithopter
-4 Retrofitter Foundry
+1 Scalding Tarn
 1 Commandeer
 1 Gurmag Angler
 2 Scalding Tarn
+2 Swamp
 2 Gurmag Angler
 4 Fatal Push
 3 Wasteland
@@ -146,25 +113,25 @@
 1 Knight of the Reliquary
 1 Horizon Canopy
 1 Forest
-1 Maze of Ith
 1 Windswept Heath
 1 Birds of Paradise
-1 Noble Hierarch
 1 Ramunap Excavator
+1 Noble Hierarch
 1 Stoneforge Mystic
 1 Savannah
 1 Batterskull
 1 Umezawa's Jitte
 1 Qasali Pridemage
 1 Gaddock Teeg
+1 Maze of Ith
 1 Sword of Fire and Ice
-1 Gaea's Cradle
 1 Green Sun's Zenith
 1 Dryad Arbor
 1 Questing Beast
 1 Tireless Tracker
-1 Scryb Ranger
 1 Scavenging Ooze
+1 Scryb Ranger
+1 Gaea's Cradle
 2 Verdant Catacombs
 2 Thalia, Guardian of Thraben
 2 Knight of the Reliquary
@@ -188,8 +155,26 @@
 4 Giver of Runes
 4 Green Sun's Zenith
 4 Noble Hierarch
-1 Stifle
+1 Snow-Covered Swamp
+1 Murderous Cut
+1 Changeling Outcast
+1 Preordain
+2 Snow-Covered Swamp
+2 Preordain
+2 Changeling Outcast
+2 Snow-Covered Island
+3 Changeling Outcast
+3 Preordain
+3 Snow-Covered Island
+4 Prismatic Vista
+4 Changeling Outcast
+4 Snow-Covered Island
+4 Ingenious Infiltrator
+4 Preordain
+4 Ornithopter
+4 Retrofitter Foundry
 1 Delver of Secrets
+1 Stifle
 1 Curious Obsession
 1 Pteramander
 2 Stifle
@@ -207,6 +192,7 @@
 4 Spell Pierce
 4 Stifle
 4 Daze
+4 Island
 4 Curious Obsession
 4 Pteramander
 4 True-Name Nemesis
@@ -214,9 +200,9 @@
 6 Island
 1 Simian Spirit Guide
 1 Red Elemental Blast
-1 Blood Moon
 1 Ancient Tomb
 1 Imperial Recruiter
+1 Blood Moon
 1 Painter's Servant
 1 Goblin Welder
 1 Goblin Engineer

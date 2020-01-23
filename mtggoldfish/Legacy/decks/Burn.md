@@ -27,8 +27,8 @@
 
 |*n*<sup>th</sup> copy|                                         Maindeck Card                                          |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
 |--------------------:|------------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
-|                    4|[Bloodstained Mire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405094)    |                    2|[Grim Lavamancer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430589)    |
-|                    1|[Barbarian Ring](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=29906)        |                    2|[Red Elemental Blast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=814)   |
+|                    4|[Bloodstained Mire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405094)    |                    2|[Red Elemental Blast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=814)   |
+|                    1|[Barbarian Ring](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=29906)        |                    2|[Grim Lavamancer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430589)    |
 |                    1|[Grim Lavamancer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430589)      |                    2|[Electrickery](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456219)       |
 |                    3|[Exquisite Firecraft](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=398513)  |                    3|[Faerie Macabre](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=201822)     |
 |                   11|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)             |                    2|[Sulfuric Vortex](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382379)    |

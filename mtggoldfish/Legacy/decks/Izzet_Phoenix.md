@@ -32,7 +32,7 @@
 |*n*<sup>th</sup> copy|                                      Maindeck Card                                      |*n*<sup>th</sup> copy|                                   Sideboard Card                                    |
 |--------------------:|-----------------------------------------------------------------------------------------|--------------------:|-------------------------------------------------------------------------------------|
 |                    3|[Flooded Strand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405098)|                    1|[Vapor Snag](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=249373)|
-|                     |                                                                                         |                    1|[Blood Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45386) |
-|                     |                                                                                         |                    2|[Blood Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45386) |
 |                     |                                                                                         |                    2|[Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)    |
+|                     |                                                                                         |                    2|[Blood Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45386) |
+|                     |                                                                                         |                    1|[Blood Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45386) |
 

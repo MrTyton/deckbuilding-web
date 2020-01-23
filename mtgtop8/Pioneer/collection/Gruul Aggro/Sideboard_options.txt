@@ -42,6 +42,8 @@
 1 Chandra, Flamecaller
 1 Blazing Volley
 2 Courser of Kruphix
+1 Rampaging Ferocidon
+2 Rampaging Ferocidon
 1 Carnage Tyrant
 2 Carnage Tyrant
 1 Collision / Colossus
@@ -52,8 +54,6 @@
 2 Rhythm of the Wild
 1 Chandra's Defeat
 2 Chandra's Defeat
-1 Rampaging Ferocidon
-2 Rampaging Ferocidon
 3 Anger of the Gods
 1 Oath of Chandra
 2 Oath of Chandra
@@ -68,11 +68,11 @@
 2 Eidolon of the Great Revel
 3 Eidolon of the Great Revel
 3 Reclamation Sage
-2 Pithing Needle
-3 Lifecrafter's Bestiary
 1 Rending Volley
 2 Rending Volley
 3 Destructive Revelry
+2 Pithing Needle
+3 Lifecrafter's Bestiary
 1 Goblin Rabblemaster
 1 Forest
 2 Goblin Rabblemaster
@@ -87,8 +87,8 @@
 2 Feed the Clan
 2 Roast
 2 Bonecrusher Giant
-3 Feed the Clan
 3 Heroic Intervention
+3 Feed the Clan
 3 Bonecrusher Giant
 4 Heroic Intervention
 1 Nissa's Defeat
@@ -98,7 +98,7 @@
 1 Tormod's Crypt
 2 Tormod's Crypt
 2 Banefire
-3 Abrade
 3 Banefire
+3 Abrade
 3 Tormod's Crypt
 4 Tormod's Crypt

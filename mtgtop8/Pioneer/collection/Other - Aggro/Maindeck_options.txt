@@ -9,48 +9,48 @@
 1 Emry, Lurker of the Loch
 1 Bomat Courier
 1 Spire of Industry
-1 Skilled Animator
 1 Hope of Ghirapur
 1 The Royal Scions
-1 Ghostfire Blade
-1 Gingerbrute
-1 Ensoul Artifact
-1 Darksteel Citadel
 1 Shrapnel Blast
+1 Ensoul Artifact
+1 Gingerbrute
+1 Ghostfire Blade
+1 Darksteel Citadel
+1 Skilled Animator
 1 Stonecoil Serpent
 1 Shivan Reef
 1 Steam Vents
-2 Spire of Industry
 2 Steam Vents
-2 Ensoul Artifact
-2 Gingerbrute
-2 Ghostfire Blade
-2 Shrapnel Blast
-2 Darksteel Citadel
+2 Spire of Industry
 2 Hope of Ghirapur
 2 Skilled Animator
+2 Shrapnel Blast
+2 Ghostfire Blade
+2 Darksteel Citadel
+2 Gingerbrute
+2 Ensoul Artifact
 2 Bomat Courier
 2 Shivan Reef
 2 Stonecoil Serpent
 3 Spirebluff Canal
 3 Spire of Industry
-3 Darksteel Citadel
-3 Shrapnel Blast
-3 Skilled Animator
-3 Ghostfire Blade
-3 Ensoul Artifact
 3 Gingerbrute
+3 Ensoul Artifact
+3 Ghostfire Blade
+3 Shrapnel Blast
+3 Darksteel Citadel
+3 Skilled Animator
 3 Bomat Courier
 3 Stonecoil Serpent
 3 Shivan Reef
 4 Shivan Reef
 4 Stonecoil Serpent
-4 Shrapnel Blast
-4 Ghostfire Blade
-4 Darksteel Citadel
-4 Ensoul Artifact
-4 Skilled Animator
 4 Gingerbrute
+4 Skilled Animator
+4 Ensoul Artifact
+4 Darksteel Citadel
+4 Ghostfire Blade
+4 Shrapnel Blast
 4 Spirebluff Canal
 1 Forest
 2 Forest
@@ -64,35 +64,35 @@
 3 Sunpetal Grove
 4 Sunpetal Grove
 2 Plains
-1 Gladecover Scout
+1 Cartouche of Solidarity
 1 Unflinching Courage
 1 Bassara Tower Archer
 1 Fortified Village
-1 Cartouche of Solidarity
 1 Gryff's Boon
 1 Ethereal Armor
+1 Gladecover Scout
 1 All That Glitters
-2 Bassara Tower Archer
-2 Unflinching Courage
-2 Gladecover Scout
-2 Gryff's Boon
 2 Cartouche of Solidarity
+2 Gryff's Boon
 2 Ethereal Armor
+2 Bassara Tower Archer
 2 All That Glitters
+2 Gladecover Scout
 2 Fortified Village
-3 Fortified Village
+2 Unflinching Courage
 3 Forest
-3 Gladecover Scout
 3 Cartouche of Solidarity
-3 Bassara Tower Archer
 3 Unflinching Courage
 3 Gryff's Boon
+3 Fortified Village
 3 All That Glitters
 3 Ethereal Armor
-4 Gladecover Scout
-4 Unflinching Courage
+3 Bassara Tower Archer
+3 Gladecover Scout
 4 Forest
+4 Unflinching Courage
 4 Fortified Village
+4 Gladecover Scout
 4 Ethereal Armor
 4 All That Glitters
 5 Forest
@@ -237,15 +237,30 @@
 3 Dromoka's Command
 3 Yavimaya Coast
 4 Yavimaya Coast
+1 Helm of the Gods
+1 Gift of Orzhova
+1 Hopeful Eidolon
+1 Cartouche of Strength
+1 Sram, Senior Edificer
+2 Gift of Orzhova
+2 Sram, Senior Edificer
+2 Hopeful Eidolon
+2 Helm of the Gods
+2 Cartouche of Strength
+3 Hopeful Eidolon
+3 Sram, Senior Edificer
+4 Cartouche of Solidarity
+4 Sram, Senior Edificer
+4 Gryff's Boon
 2 The Royal Scions
 3 Steam Vents
 4 Spire of Industry
 2 Gilded Goose
 1 Renegade Rallier
 1 Leafkin Druid
+1 Neoform
 1 Risen Reef
 1 Shalai, Voice of Plenty
-1 Neoform
 1 Mana Confluence
 2 Leafkin Druid
 2 Neoform
@@ -289,8 +304,8 @@
 3 Elite Guardmage
 3 Kitesail Freebooter
 4 Unclaimed Territory
-4 Kitesail Freebooter
 4 Glint-Sleeve Siphoner
+4 Kitesail Freebooter
 4 Elite Guardmage
 1 Stubborn Denial
 1 Metallic Rebuke
@@ -379,21 +394,6 @@
 4 Witch's Oven
 4 Murderous Rider
 4 Mayhem Devil
-1 Sixth Sense
-1 Vine Mare
-1 Witchstalker
-1 Season of Growth
-2 Sixth Sense
-2 Vine Mare
-2 Witchstalker
-2 Season of Growth
-3 Sixth Sense
-3 Witchstalker
-3 Season of Growth
-4 Bassara Tower Archer
-4 Sixth Sense
-4 Season of Growth
-4 Witchstalker
 1 Soldier of the Pantheon
 1 Tithe Taker
 1 Battlefield Forge
@@ -416,6 +416,21 @@
 4 Declaration in Stone
 4 Brave the Elements
 4 Knight of the White Orchid
+1 Sixth Sense
+1 Vine Mare
+1 Witchstalker
+1 Season of Growth
+2 Sixth Sense
+2 Vine Mare
+2 Witchstalker
+2 Season of Growth
+3 Sixth Sense
+3 Witchstalker
+3 Season of Growth
+4 Sixth Sense
+4 Season of Growth
+4 Witchstalker
+4 Bassara Tower Archer
 1 Glorybringer
 1 Abrade
 1 Chandra, Torch of Defiance
@@ -451,21 +466,6 @@
 4 Bristling Hydra
 4 Longtusk Cub
 4 Attune with Aether
-1 Gift of Orzhova
-1 Cartouche of Strength
-1 Hopeful Eidolon
-1 Helm of the Gods
-1 Sram, Senior Edificer
-2 Gift of Orzhova
-2 Cartouche of Strength
-2 Sram, Senior Edificer
-2 Hopeful Eidolon
-2 Helm of the Gods
-3 Hopeful Eidolon
-3 Sram, Senior Edificer
-4 Cartouche of Solidarity
-4 Sram, Senior Edificer
-4 Gryff's Boon
 1 Urborg, Tomb of Yawgmoth
 1 Ifnir Deadlands
 1 Ravenous Chupacabra

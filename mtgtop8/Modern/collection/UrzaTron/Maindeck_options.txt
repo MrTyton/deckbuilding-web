@@ -3,20 +3,18 @@
 1 Dismember
 1 Once Upon a Time
 1 World Breaker
-1 Thought-Knot Seer
 2 Dismember
 4 Oblivion Stone
-2 Thought-Knot Seer
-1 All Is Dust
-1 Relic of Progenitus
-2 Relic of Progenitus
+1 Thought-Knot Seer
+2 Once Upon a Time
 1 Ugin, the Ineffable
+2 Thought-Knot Seer
 1 Repeal
-1 Island
 1 Field of Ruin
 1 Remand
 1 Academy Ruins
 1 Snapcaster Mage
+1 Island
 1 Cyclonic Rift
 1 Thirst for Knowledge
 1 Tolaria West
@@ -30,10 +28,11 @@
 3 Island
 3 Condescend
 3 Thirst for Knowledge
-2 Once Upon a Time
 4 Wurmcoil Engine
+1 All Is Dust
+1 Relic of Progenitus
+2 Relic of Progenitus
 3 Relic of Progenitus
-3 Thought-Knot Seer
 1 Force of Negation
 1 Nimble Obstructionist
 2 Nimble Obstructionist
@@ -43,6 +42,10 @@
 4 Condescend
 4 Island
 5 Island
+2 Blast Zone
+3 Once Upon a Time
+2 Ugin, the Ineffable
+1 Chalice of the Void
 1 Breeding Pool
 1 Simic Signet
 1 Eldrazi Temple
@@ -52,15 +55,12 @@
 2 Simic Signet
 2 Tolaria West
 2 Oko, Thief of Crowns
+3 Thought-Knot Seer
 1 Buried Ruin
-2 Ugin, the Ineffable
-2 Blast Zone
-3 Once Upon a Time
 1 Nurturing Peatland
 3 Dismember
 3 Thragtusk
 3 Walking Ballista
-4 Thought-Knot Seer
 1 Chromatic Lantern
 2 Chromatic Lantern
 3 Chromatic Lantern
@@ -69,12 +69,39 @@
 1 Karn, Scion of Urza
 1 Trinket Mage
 1 Mindslaver
-1 Talisman of Dominance
-1 Chalice of the Void
 1 Tectonic Edge
+1 Talisman of Dominance
 2 Snapcaster Mage
 2 Talisman of Dominance
 4 Thirst for Knowledge
+1 Snow-Covered Forest
+1 Sea Gate Wreckage
+1 Wastes
+1 Inventors' Fair
+1 Everflowing Chalice
+1 Mystic Forge
+1 Astral Cornucopia
+1 Surge Node
+1 Coretapper
+1 Paradox Engine
+2 Everflowing Chalice
+2 Mystic Forge
+2 Surge Node
+2 Paradox Engine
+2 Astral Cornucopia
+2 Chalice of the Void
+2 Coretapper
+3 Mystic Forge
+3 Surge Node
+3 Astral Cornucopia
+3 Everflowing Chalice
+3 Chalice of the Void
+3 Coretapper
+4 Chalice of the Void
+4 Astral Cornucopia
+4 Coretapper
+4 Surge Node
+4 Everflowing Chalice
 1 Supreme Will
 1 Talisman of Curiosity
 1 Talisman of Creativity

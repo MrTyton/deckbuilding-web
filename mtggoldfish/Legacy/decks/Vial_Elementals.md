@@ -31,3 +31,12 @@
 |                                                                                          |1 [Wispmare](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=145974)       |                                                                                            |3 [Red Elemental Blast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=814)   |
 |                                                                                          |                                                                                            |                                                                                            |2 [Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                      Maindeck Card                                       |*n*<sup>th</sup> copy|Sideboard Card|
+|--------------------:|------------------------------------------------------------------------------------------|---------------------|--------------|
+|                    2|[Mana Confluence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409573)|                     |              |
+|                    3|[Mana Confluence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409573)|                     |              |
+|                    1|[Mana Confluence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409573)|                     |              |
+

@@ -3,6 +3,8 @@
 2 Collected Company
 3 Collected Company
 4 Collected Company
+1 Courser of Kruphix
+2 Courser of Kruphix
 1 Shaman of the Pack
 1 Dwynen's Elite
 1 Elvish Clancaller
@@ -15,17 +17,15 @@
 4 Elvish Clancaller
 4 Shaman of the Pack
 4 Dwynen's Elite
-1 Courser of Kruphix
-2 Courser of Kruphix
 1 Mutavault
 1 Nykthos, Shrine to Nyx
 2 Mutavault
+3 Courser of Kruphix
 2 Nykthos, Shrine to Nyx
 1 Elvish Visionary
 2 Elvish Visionary
 3 Elvish Visionary
 4 Elvish Visionary
-3 Courser of Kruphix
 4 Courser of Kruphix
 1 Chord of Calling
 1 Temur Sabertooth
@@ -35,26 +35,26 @@
 4 Chord of Calling
 4 Nykthos, Shrine to Nyx
 1 Scavenging Ooze
+2 Scavenging Ooze
 2 Hashep Oasis
 1 Woodland Cemetery
-2 Scavenging Ooze
 3 Mutavault
 4 Ghalta, Primal Hunger
 1 Yorvo, Lord of Garenbrig
 2 Yorvo, Lord of Garenbrig
-2 Woodland Cemetery
 1 Swamp
 1 Tireless Tracker
-1 Questing Beast
+2 Woodland Cemetery
 1 Thoughtseize
 2 Thoughtseize
 3 Thoughtseize
 1 Fabled Passage
 1 Fatal Push
 2 Fabled Passage
+1 Questing Beast
 1 Murderous Rider
-1 Abrupt Decay
 1 Field of Ruin
+1 Abrupt Decay
 2 Murderous Rider
 2 Swamp
 3 Swamp
@@ -69,20 +69,28 @@
 2 Abrupt Decay
 2 Traverse the Ulvenwald
 3 Traverse the Ulvenwald
-3 Scavenging Ooze
-4 Scavenging Ooze
-4 Swamp
 2 Tireless Tracker
-3 Woodland Cemetery
-3 Hashep Oasis
 3 Fabled Passage
 4 Fatal Push
 1 Walking Ballista
+1 Assassin's Trophy
+1 Kalitas, Traitor of Ghet
+4 Swamp
+1 Hissing Quagmire
+3 Scavenging Ooze
+4 Scavenging Ooze
+4 Fabled Passage
+3 Woodland Cemetery
+1 Hangarback Walker
+2 Walking Ballista
+2 Liliana, the Last Hope
+1 Temple of Malady
+2 Field of Ruin
+2 Temple of Malady
+1 Vraska's Contempt
+3 Hashep Oasis
 1 Ishkanah, Grafwidow
 4 Traverse the Ulvenwald
-1 Kalitas, Traitor of Ghet
-1 Assassin's Trophy
-1 Vraska's Contempt
 1 Vivien, Arkbow Ranger
 2 Vivien, Arkbow Ranger
 1 Blossoming Defense
@@ -113,17 +121,20 @@
 3 Aspect of Hydra
 4 Aspect of Hydra
 4 Surrak, the Hunt Caller
-1 Hissing Quagmire
+3 Tireless Tracker
+1 Cast Down
+2 Cast Down
 1 Castle Garenbrig
-4 Fabled Passage
+1 Grim Flayer
+2 Grim Flayer
 1 Evolving Wilds
 1 Wayward Swordtooth
 1 Ramunap Excavator
 1 Arch of Orazca
 1 Crucible of Worlds
+1 Nissa, Who Shakes the World
 1 Sylvan Advocate
 1 Ulamog, the Ceaseless Hunger
-1 Nissa, Who Shakes the World
 1 Urborg, Tomb of Yawgmoth
 1 The Gitrog Monster
 1 Drownyard Temple
@@ -135,7 +146,6 @@
 2 The Gitrog Monster
 2 Wayward Swordtooth
 2 Llanowar Scout
-3 Tireless Tracker
 3 Wayward Swordtooth
 3 Evolving Wilds
 3 Sylvan Advocate
@@ -143,62 +153,54 @@
 4 Wayward Swordtooth
 4 Evolving Wilds
 4 Sylvan Advocate
-1 Hangarback Walker
-2 Walking Ballista
+1 Blast Zone
 3 Vivien, Arkbow Ranger
+1 Hardened Scales
+1 Nissa, Voice of Zendikar
 1 Voracious Hydra
 1 Experiment One
-1 Nissa, Voice of Zendikar
 1 Stonecoil Serpent
-1 Hardened Scales
 1 Rishkar, Peema Renegade
 1 Pelt Collector
 1 Winding Constrictor
+2 Nissa, Voice of Zendikar
+2 Hardened Scales
 2 Voracious Hydra
 2 Hangarback Walker
-2 Hardened Scales
 2 Stonecoil Serpent
-2 Nissa, Voice of Zendikar
 2 Rishkar, Peema Renegade
 2 Pelt Collector
 2 Winding Constrictor
 2 Experiment One
-3 Walking Ballista
+3 Nissa, Voice of Zendikar
 3 Hardened Scales
+3 Walking Ballista
 3 Experiment One
 3 Winding Constrictor
-3 Nissa, Voice of Zendikar
 3 Stonecoil Serpent
 3 Pelt Collector
+4 Walking Ballista
 4 Hardened Scales
 4 Nissa, Voice of Zendikar
 4 Pelt Collector
 4 Winding Constrictor
 4 Experiment One
-4 Walking Ballista
-1 Blast Zone
-2 Liliana, the Last Hope
 1 Dark Petition
-1 Temple of Malady
 1 Seasons Past
-2 Field of Ruin
 2 Dark Petition
-2 Temple of Malady
 2 Assassin's Trophy
 1 Unclaimed Territory
 2 Unclaimed Territory
 3 Unclaimed Territory
 4 Unclaimed Territory
-1 Cast Down
-2 Cast Down
+1 Shadowspear
+2 Shadowspear
 1 Verdurous Gearhulk
 1 Inventors' Fair
 2 Verdurous Gearhulk
 1 Merfolk Branchwalker
 3 Rhonas the Indomitable
-1 Grim Flayer
 1 Collective Brutality
-2 Grim Flayer
 2 Castle Locthwain
 3 Castle Locthwain
 3 Grim Flayer
@@ -215,8 +217,8 @@
 3 Llanowar Scout
 4 Mutavault
 1 Growing Rites of Itlimoc
-1 Gnarlroot Trapper
 1 Dwynen, Gilt-Leaf Daen
+1 Gnarlroot Trapper
 1 Marwyn, the Nurturer
 2 Marwyn, the Nurturer
 2 Gnarlroot Trapper
@@ -236,8 +238,8 @@
 2 Wildborn Preserver
 2 Icon of Ancestry
 2 Thorn Lieutenant
-3 Wildborn Preserver
 3 Thorn Lieutenant
+3 Wildborn Preserver
 4 Wildborn Preserver
 4 Thorn Lieutenant
 1 Growth-Chamber Guardian
@@ -246,8 +248,8 @@
 1 Reality Smasher
 2 Growth-Chamber Guardian
 2 Kiora, Behemoth Beckoner
-2 Thought-Knot Seer
 2 Reality Smasher
+2 Thought-Knot Seer
 3 Growth-Chamber Guardian
 3 Thought-Knot Seer
 3 Reality Smasher
