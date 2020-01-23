@@ -29,8 +29,8 @@
 1 Gavony Township
 1 Godless Shrine
 2 Ranger-Captain of Eos
-3 Ranger-Captain of Eos
 3 Kitchen Finks
+3 Ranger-Captain of Eos
 1 Wooded Foothills
 2 Wooded Foothills
 1 Oath of Nissa
@@ -99,8 +99,8 @@
 1 Glen Elendra Archmage
 1 Corridor Monitor
 1 Prime Speaker Vannifar
-2 Grove of the Burnwillows
 2 Kiki-Jiki, Mirror Breaker
+2 Grove of the Burnwillows
 2 Rhythm of the Wild
 2 Prime Speaker Vannifar
 3 Prime Speaker Vannifar
@@ -118,19 +118,6 @@
 2 Breeding Pool
 1 Silent Clearing
 3 Eternal Witness
-1 Tectonic Edge
-1 Tireless Tracker
-1 Knight of the Reliquary
-1 Field of Ruin
-1 Plague Engineer
-2 Field of Ruin
-2 Knight of the Reliquary
-2 Tectonic Edge
-2 Snow-Covered Plains
-3 Knight of the Reliquary
-3 Snow-Covered Forest
-4 Snow-Covered Forest
-4 Knight of the Reliquary
 1 Hapatra, Vizier of Poisons
 1 Thragtusk
 2 Snow-Covered Swamp
@@ -140,18 +127,18 @@
 1 Anafenza, Kin-Tree Spirit
 2 Viscera Seer
 2 Spike Feeder
-2 Anafenza, Kin-Tree Spirit
 2 Heliod, Sun-Crowned
+2 Anafenza, Kin-Tree Spirit
+3 Heliod, Sun-Crowned
 3 Anafenza, Kin-Tree Spirit
 3 Spike Feeder
-3 Heliod, Sun-Crowned
-4 Heliod, Sun-Crowned
 4 Spike Feeder
+4 Heliod, Sun-Crowned
 4 Ranger-Captain of Eos
 1 Deceiver Exarch
 1 Collector Ouphe
-1 Zealous Conscripts
 1 Breaching Hippocamp
+1 Zealous Conscripts
 1 Bounding Krasis
 1 Island
 3 Misty Rainforest
@@ -167,6 +154,19 @@
 4 Grove of the Burnwillows
 4 Prime Speaker Vannifar
 4 Rhythm of the Wild
+1 Tectonic Edge
+1 Tireless Tracker
+1 Knight of the Reliquary
+1 Field of Ruin
+1 Plague Engineer
+2 Field of Ruin
+2 Knight of the Reliquary
+2 Tectonic Edge
+2 Snow-Covered Plains
+3 Knight of the Reliquary
+3 Snow-Covered Forest
+4 Snow-Covered Forest
+4 Knight of the Reliquary
 1 Gemstone Caverns
 1 Simian Spirit Guide
 1 Chalice of the Void

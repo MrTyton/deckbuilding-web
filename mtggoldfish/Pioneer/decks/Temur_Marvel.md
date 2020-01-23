@@ -36,6 +36,6 @@
 |                    3|[Ugin, the Spirit Dragon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391948)|                    1|[Kozilek's Return](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407608)   |
 |                    1|[Radiant Fountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438810)       |                    1|[Alpine Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447264)        |
 |                    2|[Breeding Pool](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=97088)           |                    1|[Harnessed Lightning](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417690)|
-|                    1|[Hanweir Battlements](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414511)    |                    1|[Chandra's Defeat](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430775)   |
-|                     |                                                                                                  |                    2|[Chandra's Defeat](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430775)   |
+|                    1|[Hanweir Battlements](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414511)    |                    2|[Chandra's Defeat](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430775)   |
+|                     |                                                                                                  |                    1|[Chandra's Defeat](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430775)   |
 

@@ -6,11 +6,11 @@
 1 Devoted Druid
 2 Horizon Canopy
 2 Devoted Druid
-3 Ezuri, Renegade Leader
 3 Horizon Canopy
 3 Devoted Druid
-4 Devoted Druid
+3 Ezuri, Renegade Leader
 4 Ezuri, Renegade Leader
+4 Devoted Druid
 1 Reclamation Sage
 1 Lead the Stampede
 4 Forest
@@ -29,13 +29,6 @@
 2 Verdant Catacombs
 3 Breeding Pool
 3 Verdant Catacombs
-1 Gilt-Leaf Palace
-1 Blooming Marsh
-1 Pendelhaven
-2 Gilt-Leaf Palace
-2 Blooming Marsh
-3 Gilt-Leaf Palace
-4 Gilt-Leaf Palace
 1 Once Upon a Time
 1 Razorverge Thicket
 1 Shalai, Voice of Plenty
@@ -46,6 +39,13 @@
 4 Once Upon a Time
 4 Razorverge Thicket
 4 Chord of Calling
+1 Blooming Marsh
+1 Pendelhaven
+1 Gilt-Leaf Palace
+2 Blooming Marsh
+2 Gilt-Leaf Palace
+3 Gilt-Leaf Palace
+4 Gilt-Leaf Palace
 1 Elvish Clancaller
 1 Scryb Ranger
 1 Dryad Arbor

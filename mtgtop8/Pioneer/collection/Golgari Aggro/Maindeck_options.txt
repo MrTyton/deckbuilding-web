@@ -3,9 +3,9 @@
 3 Lotleth Troll
 1 Murderous Rider
 1 Urborg, Tomb of Yawgmoth
-1 Nullhide Ferox
 1 Questing Beast
 1 Sylvan Caryatid
+1 Nullhide Ferox
 1 Grisly Salvage
 1 Soulflayer
 1 Zetalpa, Primal Dawn
@@ -25,9 +25,9 @@
 3 Sylvan Caryatid
 3 Grisly Salvage
 4 Murderous Rider
-4 Zetalpa, Primal Dawn
 4 Sylvan Caryatid
 4 Gather the Pack
+4 Zetalpa, Primal Dawn
 4 Grisly Salvage
 4 Soulflayer
 4 Lotleth Troll
@@ -55,17 +55,17 @@
 4 Stonecoil Serpent
 4 Llanowar Elves
 1 Steel Leaf Champion
-1 The Great Henge
 1 Scrapheap Scrounger
 1 Lovestruck Beast
+1 The Great Henge
 1 Rotting Regisaur
-2 The Great Henge
 2 Steel Leaf Champion
 2 Scrapheap Scrounger
-2 Rotting Regisaur
 2 Lovestruck Beast
-3 The Great Henge
+2 Rotting Regisaur
+2 The Great Henge
 3 Scrapheap Scrounger
+3 The Great Henge
 3 Rotting Regisaur
 4 Elvish Mystic
 4 Rotting Regisaur
@@ -75,15 +75,15 @@
 2 Heart of Kiran
 2 Ghalta, Primal Hunger
 2 Surrak, the Hunt Caller
-3 Heart of Kiran
 3 Steel Leaf Champion
 3 Lovestruck Beast
 3 Ghalta, Primal Hunger
 3 Surrak, the Hunt Caller
-4 The Great Henge
-4 Lovestruck Beast
-4 Steel Leaf Champion
+3 Heart of Kiran
 4 Scrapheap Scrounger
+4 Steel Leaf Champion
+4 Lovestruck Beast
+4 The Great Henge
 9 Forest
 4 Vivien, Arkbow Ranger
 1 Satyr Wayfinder
@@ -106,30 +106,23 @@
 1 Scavenging Ooze
 2 Scavenging Ooze
 1 Grapple with the Past
-2 Satyr Wayfinder
 2 Grapple with the Past
-3 Grapple with the Past
+2 Satyr Wayfinder
 3 Satyr Wayfinder
-1 Inventors' Fair
-1 Experiment One
-1 Verdurous Gearhulk
-2 Verdurous Gearhulk
-2 Experiment One
-3 Experiment One
-4 Experiment One
-1 Growth-Chamber Guardian
-1 Kiora, Behemoth Beckoner
-1 Reality Smasher
+3 Grapple with the Past
 1 Unclaimed Territory
+1 Growth-Chamber Guardian
+1 Reality Smasher
 1 Thought-Knot Seer
-2 Growth-Chamber Guardian
+1 Kiora, Behemoth Beckoner
 2 Kiora, Behemoth Beckoner
+2 Unclaimed Territory
+2 Growth-Chamber Guardian
 2 Thought-Knot Seer
 2 Reality Smasher
-2 Unclaimed Territory
 3 Growth-Chamber Guardian
-3 Thought-Knot Seer
 3 Hashep Oasis
+3 Thought-Knot Seer
 3 Reality Smasher
 3 Unclaimed Territory
 4 Growth-Chamber Guardian
@@ -146,3 +139,10 @@
 3 Slitherhead
 3 Vraska, Golgari Queen
 4 Slitherhead
+1 Verdurous Gearhulk
+1 Inventors' Fair
+1 Experiment One
+2 Verdurous Gearhulk
+2 Experiment One
+3 Experiment One
+4 Experiment One

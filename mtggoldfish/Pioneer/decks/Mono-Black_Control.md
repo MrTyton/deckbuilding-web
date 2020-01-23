@@ -27,8 +27,8 @@
 
 |*n*<sup>th</sup> copy|                                       Maindeck Card                                        |*n*<sup>th</sup> copy|                                 Sideboard Card                                 |
 |--------------------:|--------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------|
-|                    3|[Fatal Push](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423724)       |                    4|[Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)|
-|                    3|[Grasp of Darkness](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407595)|                     |                                                                                |
-|                    4|[Fatal Push](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423724)       |                     |                                                                                |
+|                    3|[Grasp of Darkness](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407595)|                    4|[Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)|
+|                    3|[Fatal Push](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423724)       |                     |                                                                                |
 |                    4|[Grasp of Darkness](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407595)|                     |                                                                                |
+|                    4|[Fatal Push](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423724)       |                     |                                                                                |
 

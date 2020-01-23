@@ -33,9 +33,9 @@
 
 |*n*<sup>th</sup> copy|                                       Maindeck Card                                       |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
 |--------------------:|-------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
-|                    1|[Fiery Islet](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464187)     |                    1|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|
-|                    1|[Misty Rainforest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405102)|                    2|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|
-|                    2|[Mana Leak](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45242)        |                    2|[Weather the Storm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464140)  |
+|                    1|[Misty Rainforest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405102)|                    2|[Weather the Storm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464140)  |
+|                    1|[Fiery Islet](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464187)     |                    2|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|
+|                    2|[Mana Leak](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45242)        |                    1|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|
 |                    3|[Mana Leak](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45242)        |                     |                                                                                              |
 |                    4|[Cryptic Command](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438614) |                     |                                                                                              |
 

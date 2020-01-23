@@ -9,49 +9,49 @@
 1 Emry, Lurker of the Loch
 1 Bomat Courier
 1 Spire of Industry
-1 Hope of Ghirapur
 1 The Royal Scions
-1 Shrapnel Blast
+1 Stonecoil Serpent
 1 Ensoul Artifact
-1 Gingerbrute
-1 Ghostfire Blade
 1 Darksteel Citadel
 1 Skilled Animator
-1 Stonecoil Serpent
+1 Hope of Ghirapur
 1 Shivan Reef
+1 Gingerbrute
 1 Steam Vents
-2 Steam Vents
+1 Ghostfire Blade
+1 Shrapnel Blast
 2 Spire of Industry
+2 Steam Vents
+2 Bomat Courier
+2 Shivan Reef
 2 Hope of Ghirapur
 2 Skilled Animator
-2 Shrapnel Blast
-2 Ghostfire Blade
 2 Darksteel Citadel
 2 Gingerbrute
 2 Ensoul Artifact
-2 Bomat Courier
-2 Shivan Reef
 2 Stonecoil Serpent
+2 Ghostfire Blade
+2 Shrapnel Blast
 3 Spirebluff Canal
 3 Spire of Industry
-3 Gingerbrute
-3 Ensoul Artifact
-3 Ghostfire Blade
-3 Shrapnel Blast
+3 Bomat Courier
 3 Darksteel Citadel
 3 Skilled Animator
-3 Bomat Courier
 3 Stonecoil Serpent
+3 Gingerbrute
+3 Ghostfire Blade
 3 Shivan Reef
+3 Shrapnel Blast
+3 Ensoul Artifact
 4 Shivan Reef
 4 Stonecoil Serpent
-4 Gingerbrute
-4 Skilled Animator
-4 Ensoul Artifact
 4 Darksteel Citadel
+4 Skilled Animator
+4 Gingerbrute
+4 Spirebluff Canal
 4 Ghostfire Blade
 4 Shrapnel Blast
-4 Spirebluff Canal
+4 Ensoul Artifact
 1 Forest
 2 Forest
 1 Sunpetal Grove
@@ -65,8 +65,8 @@
 4 Sunpetal Grove
 2 Plains
 1 Cartouche of Solidarity
-1 Unflinching Courage
 1 Bassara Tower Archer
+1 Unflinching Courage
 1 Fortified Village
 1 Gryff's Boon
 1 Ethereal Armor
@@ -90,9 +90,9 @@
 3 Bassara Tower Archer
 3 Gladecover Scout
 4 Forest
-4 Unflinching Courage
 4 Fortified Village
 4 Gladecover Scout
+4 Unflinching Courage
 4 Ethereal Armor
 4 All That Glitters
 5 Forest
@@ -146,10 +146,10 @@
 2 Glacial Fortress
 2 Selfless Spirit
 2 Deputy of Detention
-3 Deputy of Detention
 3 Selfless Spirit
-4 Deputy of Detention
+3 Deputy of Detention
 4 Selfless Spirit
+4 Deputy of Detention
 1 Hangarback Walker
 1 Thraben Inspector
 2 Thraben Inspector
@@ -196,29 +196,29 @@
 4 Llanowar Elves
 1 Rhonas the Indomitable
 1 Worthy Knight
-1 Tajic, Legion's Edge
 1 Clifftop Retreat
 1 Boros Charm
 1 History of Benalia
 1 Conclave Tribunal
 1 Gideon, Ally of Zendikar
+1 Tajic, Legion's Edge
 1 Inspiring Veteran
 1 Venerable Knight
 2 Worthy Knight
 2 Clifftop Retreat
-2 Tajic, Legion's Edge
 2 Boros Charm
 2 History of Benalia
 2 Conclave Tribunal
 2 Venerable Knight
+2 Tajic, Legion's Edge
 2 Gideon, Ally of Zendikar
 2 Inspiring Veteran
 3 Worthy Knight
 3 History of Benalia
-3 Tajic, Legion's Edge
 3 Venerable Knight
 3 Inspiring Veteran
 3 Clifftop Retreat
+3 Tajic, Legion's Edge
 4 Worthy Knight
 4 History of Benalia
 4 Inspiring Veteran
@@ -234,24 +234,9 @@
 2 Tireless Tracker
 2 Dromoka's Command
 3 Tireless Tracker
-3 Dromoka's Command
 3 Yavimaya Coast
+3 Dromoka's Command
 4 Yavimaya Coast
-1 Helm of the Gods
-1 Gift of Orzhova
-1 Hopeful Eidolon
-1 Cartouche of Strength
-1 Sram, Senior Edificer
-2 Gift of Orzhova
-2 Sram, Senior Edificer
-2 Hopeful Eidolon
-2 Helm of the Gods
-2 Cartouche of Strength
-3 Hopeful Eidolon
-3 Sram, Senior Edificer
-4 Cartouche of Solidarity
-4 Sram, Senior Edificer
-4 Gryff's Boon
 2 The Royal Scions
 3 Steam Vents
 4 Spire of Industry
@@ -288,21 +273,21 @@
 4 Concealed Courtyard
 4 Godless Shrine
 1 Unclaimed Territory
-1 Glint-Sleeve Siphoner
 1 Kitesail Freebooter
+1 Glint-Sleeve Siphoner
 1 Elite Guardmage
 1 The Scarab God
 1 Aethersphere Harvester
 2 The Scarab God
 2 Unclaimed Territory
-2 Glint-Sleeve Siphoner
 2 Kitesail Freebooter
+2 Glint-Sleeve Siphoner
 2 Elite Guardmage
 2 Aethersphere Harvester
 3 Unclaimed Territory
 3 Glint-Sleeve Siphoner
-3 Elite Guardmage
 3 Kitesail Freebooter
+3 Elite Guardmage
 4 Unclaimed Territory
 4 Glint-Sleeve Siphoner
 4 Kitesail Freebooter
@@ -313,6 +298,50 @@
 2 Emry, Lurker of the Loch
 2 Metallic Rebuke
 4 Bomat Courier
+1 Murderous Rider
+1 Urborg, Tomb of Yawgmoth
+1 Wasteland Strangler
+1 Brain Maggot
+1 Ifnir Deadlands
+1 Shambling Vent
+1 Ravenous Chupacabra
+1 Caves of Koilos
+1 Ultimate Price
+1 Lyra Dawnbringer
+1 Liliana, the Last Hope
+1 Silkwrap
+1 Thought-Knot Seer
+1 Fatal Push
+1 Thoughtseize
+1 Fairgrounds Warden
+1 Baffling End
+1 Shefet Dunes
+2 Wasteland Strangler
+2 Brain Maggot
+2 Fairgrounds Warden
+2 Ifnir Deadlands
+2 Caves of Koilos
+2 Ravenous Chupacabra
+2 Shambling Vent
+2 Ultimate Price
+2 Thought-Knot Seer
+2 Fatal Push
+2 Thoughtseize
+2 Liliana, the Last Hope
+2 Lyra Dawnbringer
+2 Shefet Dunes
+3 Caves of Koilos
+3 Wasteland Strangler
+3 Brain Maggot
+3 Mutavault
+3 Thought-Knot Seer
+3 Fatal Push
+4 Wasteland Strangler
+4 Brain Maggot
+4 Caves of Koilos
+4 Mutavault
+4 Thought-Knot Seer
+4 Fatal Push
 1 Steel Leaf Champion
 1 Duskwatch Recruiter
 1 Yorvo, Lord of Garenbrig
@@ -335,8 +364,8 @@
 1 Angel of Invention
 1 Militia Bugler
 2 Cloudblazer
-2 Westvale Abbey
 2 Dusk / Dawn
+2 Westvale Abbey
 2 Militia Bugler
 2 Oketra's Monument
 2 Angel of Invention
@@ -354,7 +383,6 @@
 2 Stomping Ground
 3 Stomping Ground
 4 Stomping Ground
-1 Murderous Rider
 1 Blood Crypt
 2 Blood Crypt
 3 Blood Crypt
@@ -396,8 +424,8 @@
 4 Mayhem Devil
 1 Soldier of the Pantheon
 1 Tithe Taker
-1 Battlefield Forge
 1 Brave the Elements
+1 Battlefield Forge
 1 Knight of the White Orchid
 2 Soldier of the Pantheon
 2 Hazoret the Fervent
@@ -406,11 +434,11 @@
 2 Kytheon, Hero of Akros
 2 Knight of the White Orchid
 3 Soldier of the Pantheon
+3 Hazoret the Fervent
 3 Kytheon, Hero of Akros
 3 Tithe Taker
 3 Brave the Elements
 3 Knight of the White Orchid
-3 Hazoret the Fervent
 3 Declaration in Stone
 4 Soldier of the Pantheon
 4 Declaration in Stone
@@ -442,22 +470,22 @@
 1 Whirler Virtuoso
 1 Attune with Aether
 1 Bristling Hydra
-1 Longtusk Cub
 1 Magma Spray
+1 Longtusk Cub
 1 Confiscation Coup
 1 Sulfur Falls
 2 Rogue Refiner
 2 Harnessed Lightning
-2 Whirler Virtuoso
 2 Attune with Aether
+2 Whirler Virtuoso
 2 Bristling Hydra
-2 Longtusk Cub
 2 Confiscation Coup
 2 Magma Spray
+2 Longtusk Cub
 3 Rogue Refiner
 3 Harnessed Lightning
-3 Longtusk Cub
 3 Bristling Hydra
+3 Longtusk Cub
 3 Whirler Virtuoso
 3 Attune with Aether
 4 Botanical Sanctum
@@ -466,50 +494,23 @@
 4 Bristling Hydra
 4 Longtusk Cub
 4 Attune with Aether
-1 Urborg, Tomb of Yawgmoth
-1 Ifnir Deadlands
-1 Ravenous Chupacabra
-1 Shambling Vent
-1 Ultimate Price
-1 Caves of Koilos
-1 Lyra Dawnbringer
-1 Liliana, the Last Hope
-1 Silkwrap
-1 Thought-Knot Seer
-1 Fatal Push
-1 Fairgrounds Warden
-1 Thoughtseize
-1 Baffling End
-1 Brain Maggot
-1 Shefet Dunes
-1 Wasteland Strangler
-2 Shambling Vent
-2 Caves of Koilos
-2 Ultimate Price
-2 Thought-Knot Seer
-2 Fatal Push
-2 Fairgrounds Warden
-2 Ravenous Chupacabra
-2 Wasteland Strangler
-2 Thoughtseize
-2 Liliana, the Last Hope
-2 Brain Maggot
-2 Ifnir Deadlands
-2 Lyra Dawnbringer
-2 Shefet Dunes
-3 Mutavault
-3 Thought-Knot Seer
-3 Fatal Push
-3 Brain Maggot
-3 Wasteland Strangler
-3 Caves of Koilos
-4 Mutavault
-4 Thought-Knot Seer
-4 Fatal Push
-4 Wasteland Strangler
-4 Caves of Koilos
-4 Brain Maggot
+1 Sram, Senior Edificer
+1 Hopeful Eidolon
+1 Helm of the Gods
+1 Gift of Orzhova
+1 Cartouche of Strength
+2 Helm of the Gods
+2 Gift of Orzhova
+2 Hopeful Eidolon
+2 Sram, Senior Edificer
+2 Cartouche of Strength
+3 Sram, Senior Edificer
+3 Hopeful Eidolon
+4 Cartouche of Solidarity
+4 Sram, Senior Edificer
+4 Gryff's Boon
 1 Rekindling Phoenix
+1 Foreboding Ruins
 1 Heart of Kiran
 1 Castle Embereth
 1 Soul-Scar Mage
@@ -517,25 +518,24 @@
 1 Goblin Chainwhirler
 1 Bonecrusher Giant
 1 Dragonskull Summit
-1 Foreboding Ruins
 2 Rekindling Phoenix
+2 Foreboding Ruins
 2 Heart of Kiran
 2 Soul-Scar Mage
 2 Goblin Chainwhirler
 2 Bonecrusher Giant
-2 Foreboding Ruins
 2 Dragonskull Summit
+3 Foreboding Ruins
 3 Rekindling Phoenix
 3 Goblin Chainwhirler
 3 Soul-Scar Mage
 3 Bonecrusher Giant
 3 Dragonskull Summit
 3 Mountain
-3 Foreboding Ruins
+4 Foreboding Ruins
 4 Rekindling Phoenix
 4 Soul-Scar Mage
 4 Goblin Chainwhirler
-4 Foreboding Ruins
 4 Glorybringer
 4 Scrapheap Scrounger
 4 Mountain

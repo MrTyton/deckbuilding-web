@@ -89,6 +89,6 @@
 |                    1|[Flooded Strand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405098)          |                     |                                                                                                 |
 |                    2|[Lightning Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=806)             |                     |                                                                                                 |
 |                    2|[Flooded Strand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405098)          |                     |                                                                                                 |
-|                    3|[Blood Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=97102)              |                     |                                                                                                 |
 |                    3|[Flooded Strand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405098)          |                     |                                                                                                 |
+|                    3|[Blood Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=97102)              |                     |                                                                                                 |
 

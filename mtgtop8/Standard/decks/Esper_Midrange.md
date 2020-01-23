@@ -63,7 +63,7 @@
 |                    3|Atris, Oracle of Half-Truths                                                                         |                     |                                                                                              |
 |                    4|[Temple of Deceit](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373734)          |                     |                                                                                              |
 |                    4|[Temple of Enlightenment](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=378535)   |                     |                                                                                              |
-|                    4|[Thought Erasure](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452956)           |                     |                                                                                              |
 |                    4|[Tyrant's Scorn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461152)            |                     |                                                                                              |
 |                    4|[Hero of Precinct One](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457155)      |                     |                                                                                              |
+|                    4|[Thought Erasure](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452956)           |                     |                                                                                              |
 
