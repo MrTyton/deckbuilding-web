@@ -228,8 +228,8 @@
 1 Chandra, Acolyte of Flame
 2 Goblin Dark-Dwellers
 2 Angrath's Rampage
-3 Kolaghan's Command
 3 Goblin Dark-Dwellers
+3 Kolaghan's Command
 4 Goblin Dark-Dwellers
 4 Temple of Malice
 1 Approach of the Second Sun
@@ -273,8 +273,8 @@
 1 Lumbering Falls
 1 Brazen Borrower
 1 Hinterland Harbor
-1 Growth Spiral
 1 Wilderness Reclamation
+1 Growth Spiral
 1 Cyclonic Rift
 1 Gadwick, the Wizened
 1 Tamiyo, Collector of Tales
@@ -310,7 +310,6 @@
 3 Godless Shrine
 4 Godless Shrine
 1 Mana Confluence
-1 Gods Willing
 1 Apostle of Purifying Light
 1 Scheming Symmetry
 1 Merfolk Secretkeeper
@@ -320,8 +319,8 @@
 1 Sigarda's Aid
 1 Overwhelmed Apprentice
 1 Ancestral Blade
+1 Gods Willing
 1 Colossus Hammer
-2 Gods Willing
 2 Mana Confluence
 2 Scheming Symmetry
 2 Merfolk Secretkeeper
@@ -330,6 +329,7 @@
 2 Overwhelmed Apprentice
 2 Sigarda's Aid
 2 Colossus Hammer
+2 Gods Willing
 2 Open the Armory
 3 Mana Confluence
 3 Scheming Symmetry
@@ -355,15 +355,15 @@
 4 Cerulean Drake
 4 Scheming Symmetry
 1 Concealed Courtyard
-1 Caves of Koilos
 1 Doom Foretold
 1 Trial of Ambition
 1 Karn, Scion of Urza
+1 Anguished Unmaking
 1 Gifted Aetherborn
 1 History of Benalia
+1 Caves of Koilos
 1 Knight of the Ebon Legion
 1 Brought Back
-1 Anguished Unmaking
 1 Lyra Dawnbringer
 2 Concealed Courtyard
 2 Doom Foretold
@@ -412,14 +412,14 @@
 4 Blooming Marsh
 4 Traverse the Ulvenwald
 7 Forest
-1 Beanstalk Giant
 1 Nissa, Vital Force
 1 Duress
 1 Ugin, the Spirit Dragon
 1 Villainous Wealth
-2 Beanstalk Giant
+1 Beanstalk Giant
 2 Duress
 2 Seasons Past
+2 Beanstalk Giant
 2 Sign in Blood
 2 Read the Bones
 3 Languish

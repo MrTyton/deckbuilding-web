@@ -6,9 +6,9 @@
 1 Bonecrusher Giant
 1 Kolaghan's Command
 1 Young Pyromancer
+1 Hymn to Tourach
 1 Bedlam Reveler
 1 Lightning Bolt
-1 Hymn to Tourach
 1 Liliana, the Last Hope
 1 Arid Mesa
 1 Cabal Therapy
@@ -18,16 +18,16 @@
 1 Faithless Looting
 2 Bonecrusher Giant
 2 Arid Mesa
-2 Liliana, the Last Hope
+2 Hymn to Tourach
 2 Young Pyromancer
 2 Lightning Bolt
 2 Plateau
 2 Bedlam Reveler
-2 Hymn to Tourach
 2 Mishra's Bauble
 2 Lingering Souls
 2 Kolaghan's Command
 2 Cabal Therapy
+2 Liliana, the Last Hope
 2 Faithless Looting
 2 Badlands
 3 Cabal Therapy
@@ -70,14 +70,13 @@
 2 Swords to Plowshares
 3 Swords to Plowshares
 1 Verdant Catacombs
-1 Thalia, Guardian of Thraben
 1 Knight of the Reliquary
+1 Thalia, Guardian of Thraben
 1 Plains
 1 Horizon Canopy
 1 Forest
-1 Windswept Heath
-1 Birds of Paradise
 1 Ramunap Excavator
+1 Birds of Paradise
 1 Noble Hierarch
 1 Stoneforge Mystic
 1 Savannah
@@ -89,6 +88,7 @@
 1 Sword of Fire and Ice
 1 Green Sun's Zenith
 1 Dryad Arbor
+1 Windswept Heath
 1 Questing Beast
 1 Tireless Tracker
 1 Scavenging Ooze
@@ -97,12 +97,12 @@
 2 Verdant Catacombs
 2 Thalia, Guardian of Thraben
 2 Knight of the Reliquary
-2 Windswept Heath
-2 Forest
 2 Noble Hierarch
 2 Stoneforge Mystic
 2 Savannah
+2 Windswept Heath
 2 Green Sun's Zenith
+2 Forest
 3 Verdant Catacombs
 3 Thalia, Guardian of Thraben
 3 Knight of the Reliquary
@@ -123,8 +123,8 @@
 1 Tundra
 1 Snow-Covered Plains
 1 Palace Jailer
-1 Mother of Runes
 1 Plague Engineer
+1 Mother of Runes
 1 Flickerwisp
 1 Aether Vial
 1 Leonin Relic-Warder
@@ -152,9 +152,9 @@
 1 Changeling Outcast
 1 Preordain
 2 Snow-Covered Swamp
+2 Snow-Covered Island
 2 Preordain
 2 Changeling Outcast
-2 Snow-Covered Island
 3 Changeling Outcast
 3 Preordain
 3 Snow-Covered Island

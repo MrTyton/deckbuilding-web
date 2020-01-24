@@ -67,8 +67,8 @@
 |                     |                                                                                                 |                    1|[Knight of Grace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442911)         |
 |                     |                                                                                                 |                    1|[Hushbringer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472980)             |
 |                     |                                                                                                 |                    1|[Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)          |
-|                     |                                                                                                 |                    2|[Knight of Grace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442911)         |
 |                     |                                                                                                 |                    2|[Hushbringer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472980)             |
+|                     |                                                                                                 |                    2|[Knight of Grace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442911)         |
 |                     |                                                                                                 |                    2|[Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)          |
 |                     |                                                                                                 |                    3|[Knight of Grace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442911)         |
 
