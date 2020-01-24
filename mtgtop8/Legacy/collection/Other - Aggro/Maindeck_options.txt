@@ -1,58 +1,7 @@
-1 Prismatic Vista
-1 Yuriko, the Tiger's Shadow
-1 Ornithopter
-1 Retrofitter Foundry
-1 Ingenious Infiltrator
-2 Underground Sea
-2 Prismatic Vista
-2 Ornithopter
-2 Yuriko, the Tiger's Shadow
-2 Retrofitter Foundry
-2 Ingenious Infiltrator
-3 Prismatic Vista
-3 Retrofitter Foundry
-3 Ornithopter
-3 Fatal Push
-3 Ingenious Infiltrator
-3 Yuriko, the Tiger's Shadow
-4 Ponder
-4 Polluted Delta
-1 Wasteland
-2 Wasteland
-1 True-Name Nemesis
-2 True-Name Nemesis
-1 Force of Negation
-1 Spell Pierce
-2 Brazen Borrower
-2 Spell Pierce
-2 Island
-3 Island
-1 Misty Rainforest
-2 Daze
-3 Daze
-1 Giver of Runes
-2 Giver of Runes
-1 Plains
-4 Swords to Plowshares
-1 Thoughtseize
-1 Swamp
-2 Thoughtseize
-2 Bloodstained Mire
-1 Tomik, Distinguished Advokist
-1 Chrome Mox
-1 Weathered Wayfarer
-2 Mother of Runes
-3 Mother of Runes
-4 Mother of Runes
-1 Snow-Covered Plains
-1 Peacekeeper
-1 Tithe
-3 Tundra
-4 Tundra
+2 Marsh Flats
 1 Mountain
 1 Pyroblast
 2 Pyroblast
-1 Arid Mesa
 1 Plateau
 1 Bonecrusher Giant
 1 Kolaghan's Command
@@ -61,6 +10,7 @@
 1 Lightning Bolt
 1 Hymn to Tourach
 1 Liliana, the Last Hope
+1 Arid Mesa
 1 Cabal Therapy
 1 Badlands
 1 Lingering Souls
@@ -82,8 +32,8 @@
 2 Badlands
 3 Cabal Therapy
 3 Badlands
-3 Arid Mesa
 3 Marsh Flats
+3 Arid Mesa
 3 Lightning Bolt
 3 Young Pyromancer
 3 Bedlam Reveler
@@ -106,11 +56,23 @@
 2 Swamp
 2 Gurmag Angler
 4 Fatal Push
+1 Flooded Strand
+2 Flooded Strand
+3 Flooded Strand
+1 Wasteland
+2 Wasteland
 3 Wasteland
 4 Wasteland
+1 Giver of Runes
+1 Swords to Plowshares
+1 Karakas
+2 Giver of Runes
+2 Swords to Plowshares
+3 Swords to Plowshares
 1 Verdant Catacombs
 1 Thalia, Guardian of Thraben
 1 Knight of the Reliquary
+1 Plains
 1 Horizon Canopy
 1 Forest
 1 Windswept Heath
@@ -152,9 +114,39 @@
 3 Green Sun's Zenith
 4 Knight of the Reliquary
 4 Windswept Heath
+4 Swords to Plowshares
 4 Giver of Runes
 4 Green Sun's Zenith
 4 Noble Hierarch
+1 Charming Prince
+1 Remorseful Cleric
+1 Tundra
+1 Snow-Covered Plains
+1 Palace Jailer
+1 Mother of Runes
+1 Plague Engineer
+1 Flickerwisp
+1 Aether Vial
+1 Leonin Relic-Warder
+1 Peacekeeper
+1 Meddling Mage
+1 Tithe
+1 Recruiter of the Guard
+1 Soulherder
+2 Tundra
+2 Aether Vial
+2 Recruiter of the Guard
+2 Soulherder
+2 Meddling Mage
+3 Recruiter of the Guard
+3 Tundra
+3 Meddling Mage
+3 Aether Vial
+4 Flooded Strand
+4 Aether Vial
+4 Meddling Mage
+4 Tundra
+4 Recruiter of the Guard
 1 Snow-Covered Swamp
 1 Murderous Cut
 1 Changeling Outcast
@@ -174,11 +166,13 @@
 4 Ornithopter
 4 Retrofitter Foundry
 1 Delver of Secrets
+1 True-Name Nemesis
 1 Stifle
 1 Curious Obsession
 1 Pteramander
 2 Stifle
 2 Delver of Secrets
+2 True-Name Nemesis
 2 Curious Obsession
 2 Pteramander
 2 Misty Rainforest
@@ -205,11 +199,11 @@
 1 Blood Moon
 1 Painter's Servant
 1 Goblin Welder
-1 Goblin Engineer
 1 Chandra, Torch of Defiance
 1 Karn, the Great Creator
 1 Great Furnace
 1 Ichor Wellspring
+1 Goblin Engineer
 1 Ensnaring Bridge
 1 Smuggler's Copter
 1 City of Traitors

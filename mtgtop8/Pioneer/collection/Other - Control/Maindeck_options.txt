@@ -95,8 +95,8 @@
 1 Sulfur Falls
 1 Bedevil
 1 Wandering Fumarole
-1 Glint-Sleeve Siphoner
 1 Champion of Wits
+1 Glint-Sleeve Siphoner
 2 Wandering Fumarole
 2 The Scarab God
 2 Champion of Wits
@@ -197,8 +197,8 @@
 2 Drown in the Loch
 2 Liliana's Triumph
 2 Hero's Downfall
-3 Drown in the Loch
 3 Jace, Vryn's Prodigy
+3 Drown in the Loch
 4 Jace, Vryn's Prodigy
 1 Aether Hub
 1 Glimmer of Genius
@@ -273,23 +273,23 @@
 1 Lumbering Falls
 1 Brazen Borrower
 1 Hinterland Harbor
-1 Wilderness Reclamation
 1 Growth Spiral
+1 Wilderness Reclamation
+1 Cyclonic Rift
 1 Gadwick, the Wizened
 1 Tamiyo, Collector of Tales
-1 Cyclonic Rift
 1 Frilled Mystic
 1 Prophet of Kruphix
 2 Breeding Pool
 2 Hydroid Krasis
 2 Brazen Borrower
 2 Growth Spiral
-2 Hinterland Harbor
 2 Wilderness Reclamation
+2 Cyclonic Rift
 2 Gadwick, the Wizened
 2 Prophet of Kruphix
+2 Hinterland Harbor
 2 Lumbering Falls
-2 Cyclonic Rift
 2 Frilled Mystic
 3 Breeding Pool
 3 Growth Spiral
@@ -311,9 +311,9 @@
 4 Godless Shrine
 1 Mana Confluence
 1 Gods Willing
+1 Apostle of Purifying Light
 1 Scheming Symmetry
 1 Merfolk Secretkeeper
-1 Apostle of Purifying Light
 1 Cerulean Drake
 1 Aqueous Form
 1 Open the Armory
@@ -325,8 +325,8 @@
 2 Mana Confluence
 2 Scheming Symmetry
 2 Merfolk Secretkeeper
-2 Cerulean Drake
 2 Apostle of Purifying Light
+2 Cerulean Drake
 2 Overwhelmed Apprentice
 2 Sigarda's Aid
 2 Colossus Hammer
@@ -334,16 +334,17 @@
 3 Mana Confluence
 3 Scheming Symmetry
 3 Merfolk Secretkeeper
+3 Fetid Pools
 3 Cerulean Drake
 3 Apostle of Purifying Light
 3 Glacial Fortress
 3 Open the Armory
-3 Fetid Pools
 3 Sigarda's Aid
 3 Colossus Hammer
 3 Overwhelmed Apprentice
 3 Gods Willing
 4 Merfolk Secretkeeper
+4 Fetid Pools
 4 Apostle of Purifying Light
 4 Overwhelmed Apprentice
 4 Sigarda's Aid
@@ -352,22 +353,21 @@
 4 Mana Confluence
 4 Colossus Hammer
 4 Cerulean Drake
-4 Fetid Pools
 4 Scheming Symmetry
 1 Concealed Courtyard
+1 Caves of Koilos
 1 Doom Foretold
 1 Trial of Ambition
 1 Karn, Scion of Urza
 1 Gifted Aetherborn
 1 History of Benalia
-1 Caves of Koilos
 1 Knight of the Ebon Legion
 1 Brought Back
 1 Anguished Unmaking
 1 Lyra Dawnbringer
 2 Concealed Courtyard
-2 Trial of Ambition
 2 Doom Foretold
+2 Trial of Ambition
 2 Karn, Scion of Urza
 2 Gifted Aetherborn
 2 Plains
@@ -391,11 +391,11 @@
 1 Grisly Salvage
 1 Vraska, Golgari Queen
 1 Traverse the Ulvenwald
+1 Ishkanah, Grafwidow
 1 Blooming Marsh
 1 Emrakul, the Promised End
 1 Nissa, Vastwood Seer
 1 Hangarback Walker
-1 Ishkanah, Grafwidow
 2 Grisly Salvage
 2 Nissa, Vastwood Seer
 2 Traverse the Ulvenwald

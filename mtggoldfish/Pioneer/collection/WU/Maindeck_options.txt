@@ -1,28 +1,60 @@
-2 Sphinx's Revelation
-3 Sphinx's Revelation
+3 Irrigated Farmland
+1 Spell Queller
+2 Spell Queller
+3 Spell Queller
+4 Spell Queller
 1 Censor
-2 Dig Through Time
 2 Censor
 3 Censor
-2 Brazen Borrower
+2 Sinister Sabotage
+3 Sinister Sabotage
+4 Sinister Sabotage
+1 Search for Azcanta
+1 Detention Sphere
+2 Narset, Parter of Veils
+1 Blessed Alliance
+2 Sphinx's Revelation
+3 Sphinx's Revelation
 3 Brazen Borrower
 4 Brazen Borrower
-7 Island
+1 Thraben Inspector
+2 Thraben Inspector
+3 Thraben Inspector
+4 Thraben Inspector
+7 Plains
 1 Fabled Passage
-6 Plains
+2 Syncopate
+2 Cast Out
+1 Dragonlord Ojutai
+1 Charming Prince
+1 Port Town
+1 Westvale Abbey
+1 Selfless Spirit
+2 Charming Prince
+2 Selfless Spirit
+3 Selfless Spirit
+3 Charming Prince
+4 Charming Prince
+1 The Birth of Meletis
+2 The Birth of Meletis
+1 Heliod, Sun-Crowned
+1 Walking Ballista
+2 Heliod, Sun-Crowned
+2 Walking Ballista
+3 Heliod, Sun-Crowned
+3 Walking Ballista
+4 Walking Ballista
+4 Heliod, Sun-Crowned
 1 Glimmer of Genius
-2 Sinister Sabotage
 2 Glimmer of Genius
 3 Field of Ruin
 3 Glimmer of Genius
-3 Sinister Sabotage
 3 Castle Ardenvale
-4 Sinister Sabotage
 1 Elixir of Immortality
-1 Essence Scatter
 1 Temple of Enlightenment
 1 Jace, Architect of Thought
 1 Last Breath
+1 Essence Scatter
 2 Detention Sphere
 2 Essence Scatter
 2 Jace, Architect of Thought
@@ -31,77 +63,83 @@
 3 Temple of Enlightenment
 3 Detention Sphere
 4 Temple of Enlightenment
-1 Spell Queller
-1 Dragonlord Ojutai
+1 Nykthos, Shrine to Nyx
+1 Anafenza, Kin-Tree Spirit
+1 Alseid of Life's Bounty
+1 Baffling End
+1 Knight of the White Orchid
+1 Arcanist's Owl
+1 Cavalier of Dawn
+2 Anafenza, Kin-Tree Spirit
+2 Alseid of Life's Bounty
+2 Baffling End
+2 Arcanist's Owl
+2 Cavalier of Dawn
+2 Knight of the White Orchid
+3 The Birth of Meletis
+3 Alseid of Life's Bounty
+3 Knight of the White Orchid
+3 Cavalier of Dawn
+3 Baffling End
+4 The Birth of Meletis
+4 Alseid of Life's Bounty
+4 Cavalier of Dawn
+4 Knight of the White Orchid
+1 Thirst for Meaning
+1 Omen of the Sea
+1 Seal Away
+1 Omen of the Sun
+2 Castle Vantress
+2 Thirst for Meaning
+2 Omen of the Sea
+2 Omen of the Sun
+2 Seal Away
+3 Thirst for Meaning
+3 Omen of the Sea
+3 Seal Away
+3 Omen of the Sun
+4 Thirst for Meaning
+4 Omen of the Sea
+4 Seal Away
 1 Monastery Mentor
 1 Brave the Elements
 2 Fabled Passage
-2 Spell Queller
 2 Brave the Elements
 2 Dragonlord Ojutai
 2 Monastery Mentor
-2 Cast Out
 3 Fabled Passage
-3 Spell Queller
-3 Dig Through Time
 3 Dragonlord Ojutai
+3 Dig Through Time
 3 Monastery Mentor
 4 Fabled Passage
-4 Spell Queller
 4 Censor
 4 Dig Through Time
-1 Settle the Wreckage
+1 Reflector Mage
+1 Thassa, Deep-Dwelling
+1 Cloudblazer
+2 Reflector Mage
+2 Port Town
+2 Cloudblazer
+2 Thassa, Deep-Dwelling
+3 Reflector Mage
+3 Cloudblazer
+3 Thassa, Deep-Dwelling
+4 Reflector Mage
+4 Thassa, Deep-Dwelling
+4 Cloudblazer
 1 Disallow
 1 Mutavault
 2 Blessed Alliance
 2 Mutavault
 2 Disallow
-2 Syncopate
 3 Disallow
 3 Mutavault
 3 Syncopate
 4 Mutavault
-1 Nykthos, Shrine to Nyx
-1 The Birth of Meletis
-1 Walking Ballista
-1 Anafenza, Kin-Tree Spirit
-1 Alseid of Life's Bounty
-1 Heliod, Sun-Crowned
-1 Arcanist's Owl
-1 Baffling End
-1 Knight of the White Orchid
-1 Thraben Inspector
-1 Cavalier of Dawn
-2 Walking Ballista
-2 The Birth of Meletis
-2 Anafenza, Kin-Tree Spirit
-2 Alseid of Life's Bounty
-2 Heliod, Sun-Crowned
-2 Baffling End
-2 Arcanist's Owl
-2 Thraben Inspector
-2 Cavalier of Dawn
-2 Knight of the White Orchid
-3 Walking Ballista
-3 The Birth of Meletis
-3 Alseid of Life's Bounty
-3 Heliod, Sun-Crowned
-3 Knight of the White Orchid
-3 Cavalier of Dawn
-3 Baffling End
-3 Thraben Inspector
-4 The Birth of Meletis
-4 Alseid of Life's Bounty
-4 Heliod, Sun-Crowned
-4 Cavalier of Dawn
-4 Knight of the White Orchid
-4 Thraben Inspector
-4 Walking Ballista
-7 Plains
 1 Secure the Wastes
 1 Anticipate
-1 Lazotep Plating
 1 Gideon, Ally of Zendikar
+1 Lazotep Plating
 1 Myth Realized
 2 Anticipate
 2 Lazotep Plating
@@ -109,3 +147,19 @@
 3 Myth Realized
 4 Myth Realized
 8 Island
+1 Militia Bugler
+1 Deputy of Detention
+1 Metallic Rebuke
+1 Oketra's Monument
+2 Militia Bugler
+2 Deputy of Detention
+2 Oketra's Monument
+2 Metallic Rebuke
+3 Militia Bugler
+3 Oketra's Monument
+3 Metallic Rebuke
+4 Militia Bugler
+4 Selfless Spirit
+4 Oketra's Monument
+8 Plains
+9 Plains

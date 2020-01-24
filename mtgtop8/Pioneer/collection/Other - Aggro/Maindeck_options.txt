@@ -80,8 +80,8 @@
 2 Gladecover Scout
 2 Fortified Village
 2 Unflinching Courage
-3 Forest
 3 Cartouche of Solidarity
+3 Forest
 3 Unflinching Courage
 3 Gryff's Boon
 3 Fortified Village
@@ -89,10 +89,10 @@
 3 Ethereal Armor
 3 Bassara Tower Archer
 3 Gladecover Scout
+4 Unflinching Courage
 4 Forest
 4 Fortified Village
 4 Gladecover Scout
-4 Unflinching Courage
 4 Ethereal Armor
 4 All That Glitters
 5 Forest
@@ -286,12 +286,12 @@
 2 Aethersphere Harvester
 3 Unclaimed Territory
 3 Glint-Sleeve Siphoner
-3 Kitesail Freebooter
 3 Elite Guardmage
+3 Kitesail Freebooter
 4 Unclaimed Territory
 4 Glint-Sleeve Siphoner
-4 Kitesail Freebooter
 4 Elite Guardmage
+4 Kitesail Freebooter
 1 Stubborn Denial
 1 Metallic Rebuke
 2 Stubborn Denial
@@ -305,8 +305,8 @@
 1 Ifnir Deadlands
 1 Shambling Vent
 1 Ravenous Chupacabra
-1 Caves of Koilos
 1 Ultimate Price
+1 Caves of Koilos
 1 Lyra Dawnbringer
 1 Liliana, the Last Hope
 1 Silkwrap
@@ -320,9 +320,9 @@
 2 Brain Maggot
 2 Fairgrounds Warden
 2 Ifnir Deadlands
-2 Caves of Koilos
-2 Ravenous Chupacabra
 2 Shambling Vent
+2 Ravenous Chupacabra
+2 Caves of Koilos
 2 Ultimate Price
 2 Thought-Knot Seer
 2 Fatal Push
@@ -330,9 +330,9 @@
 2 Liliana, the Last Hope
 2 Lyra Dawnbringer
 2 Shefet Dunes
-3 Caves of Koilos
 3 Wasteland Strangler
 3 Brain Maggot
+3 Caves of Koilos
 3 Mutavault
 3 Thought-Knot Seer
 3 Fatal Push
@@ -445,13 +445,13 @@
 4 Brave the Elements
 4 Knight of the White Orchid
 1 Sixth Sense
+1 Season of Growth
 1 Vine Mare
 1 Witchstalker
-1 Season of Growth
 2 Sixth Sense
+2 Season of Growth
 2 Vine Mare
 2 Witchstalker
-2 Season of Growth
 3 Sixth Sense
 3 Witchstalker
 3 Season of Growth
@@ -477,8 +477,8 @@
 2 Rogue Refiner
 2 Harnessed Lightning
 2 Attune with Aether
-2 Whirler Virtuoso
 2 Bristling Hydra
+2 Whirler Virtuoso
 2 Confiscation Coup
 2 Magma Spray
 2 Longtusk Cub
@@ -494,13 +494,13 @@
 4 Bristling Hydra
 4 Longtusk Cub
 4 Attune with Aether
+1 Gift of Orzhova
 1 Sram, Senior Edificer
 1 Hopeful Eidolon
 1 Helm of the Gods
-1 Gift of Orzhova
 1 Cartouche of Strength
-2 Helm of the Gods
 2 Gift of Orzhova
+2 Helm of the Gods
 2 Hopeful Eidolon
 2 Sram, Senior Edificer
 2 Cartouche of Strength

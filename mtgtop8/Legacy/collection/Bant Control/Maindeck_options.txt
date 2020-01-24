@@ -28,16 +28,16 @@
 1 Daze
 1 Noble Hierarch
 1 Wasteland
-2 True-Name Nemesis
-2 Daze
+2 Tundra
 2 Stoneforge Mystic
+2 True-Name Nemesis
 2 Noble Hierarch
 2 Wasteland
-2 Tundra
-3 Daze
+2 Daze
 3 Stoneforge Mystic
 3 True-Name Nemesis
 3 Wasteland
+3 Daze
 3 Noble Hierarch
 4 Noble Hierarch
 4 Daze
@@ -85,7 +85,6 @@
 1 Urza, Lord High Artificer
 1 Seat of the Synod
 1 Chalice of the Void
-2 Island
 2 Thopter Foundry
 2 Mishra's Bauble
 2 Lotus Petal
@@ -93,11 +92,11 @@
 2 Seat of the Synod
 2 Karn, the Great Creator
 2 Narset, Parter of Veils
+2 Island
 2 Mox Opal
 2 Ancient Tomb
 2 Chalice of the Void
 2 Urza, Lord High Artificer
-3 Island
 3 Mishra's Bauble
 3 Mox Opal
 3 Ancient Tomb
@@ -106,6 +105,7 @@
 3 Sevinne's Reclamation
 3 Karn, the Great Creator
 3 Lotus Petal
+3 Island
 3 Emry, Lurker of the Loch
 3 Urza, Lord High Artificer
 4 Mishra's Bauble

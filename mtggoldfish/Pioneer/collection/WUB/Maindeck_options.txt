@@ -1,72 +1,49 @@
+2 Isolated Chapel
+1 The Scarab God
+1 Reflector Mage
+2 Reflector Mage
+3 Reflector Mage
+4 Reflector Mage
+1 Concealed Courtyard
+2 Concealed Courtyard
+3 Concealed Courtyard
+1 Gideon, Ally of Zendikar
+2 Gideon, Ally of Zendikar
+1 Charming Prince
+1 Westvale Abbey
+1 Glint-Sleeve Siphoner
 1 Aether Hub
 1 Aethersphere Harvester
-1 Glint-Sleeve Siphoner
-1 Charming Prince
 1 Thraben Inspector
-1 Westvale Abbey
-2 Reflector Mage
-2 Aether Hub
-2 Aethersphere Harvester
-2 Glint-Sleeve Siphoner
 2 Charming Prince
+2 Glint-Sleeve Siphoner
+2 Aethersphere Harvester
 2 Thraben Inspector
 2 The Scarab God
-3 Reflector Mage
-3 Aether Hub
-3 Glint-Sleeve Siphoner
+2 Aether Hub
 3 Charming Prince
+3 Glint-Sleeve Siphoner
+3 Aether Hub
 3 Thraben Inspector
-4 Aether Hub
-4 Reflector Mage
 4 Glint-Sleeve Siphoner
+4 Aether Hub
 1 Search for Azcanta
-1 Thoughtseize
-1 Swamp
-2 Thoughtseize
-3 Thoughtseize
+1 Oath of Kaya
+2 Oath of Kaya
 1 Spell Queller
-1 Castle Ardenvale
-1 Archangel Avacyn
-1 Brazen Borrower
 1 Selfless Spirit
+1 Archangel Avacyn
+1 Castle Ardenvale
+1 Brazen Borrower
 2 Spell Queller
-2 Brazen Borrower
 2 Selfless Spirit
 2 Archangel Avacyn
+2 Brazen Borrower
 3 Spell Queller
 3 Selfless Spirit
-3 Brazen Borrower
 3 Gideon, Ally of Zendikar
+3 Brazen Borrower
 4 Spell Queller
-1 Omen of the Sea
-1 Starfield of Nyx
-1 Trial of Ambition
-1 Doom Foretold
-1 Oath of Kaya
-1 Detention Sphere
-1 The Eldest Reborn
-1 Temple of Enlightenment
-1 Ipnu Rivulet
-1 Cast Out
-1 Temple of Deceit
-1 Oath of Jace
-1 Dance of the Manse
-2 Omen of the Sea
-2 Search for Azcanta
-2 Starfield of Nyx
-2 Oath of Kaya
-2 Doom Foretold
-2 Trial of Ambition
-2 Detention Sphere
-2 Oath of Jace
-2 Dance of the Manse
-3 Omen of the Sea
-3 Detention Sphere
-3 Oath of Kaya
-3 Doom Foretold
-3 Dance of the Manse
-4 Omen of the Sea
-4 Doom Foretold
 1 Disallow
 1 Elixir of Immortality
 1 Ultimate Price
@@ -78,34 +55,58 @@
 3 Dovin's Veto
 4 Absorb
 4 Sphinx's Revelation
-1 Narset, Parter of Veils
 1 Fabled Passage
-1 Dig Through Time
+1 Narset, Parter of Veils
 1 Kaya, Orzhov Usurper
 1 Syncopate
 2 Syncopate
-2 Dig Through Time
 2 Narset, Parter of Veils
 2 Kaya, Orzhov Usurper
 2 Fabled Passage
-3 Teferi, Hero of Dominaria
 4 Fatal Push
-1 Torrential Gearhulk
-1 Fetid Pools
-1 Drown in the Loch
-1 Cast Down
-1 Dissolve
-1 Opt
-2 Torrential Gearhulk
-2 Isolated Chapel
-2 Cast Down
-2 Dissolve
-2 Opt
-3 Isolated Chapel
-3 Opt
-4 Isolated Chapel
-4 Glimmer of Genius
-4 Opt
+1 Omen of the Sea
+1 Ipnu Rivulet
+1 Detention Sphere
+1 The Eldest Reborn
+1 Temple of Enlightenment
+1 Trial of Ambition
+1 Doom Foretold
+1 Cast Out
+1 Temple of Deceit
+1 Oath of Jace
+1 Dance of the Manse
+1 Starfield of Nyx
+2 Search for Azcanta
+2 Omen of the Sea
+2 Detention Sphere
+2 Trial of Ambition
+2 Doom Foretold
+2 Oath of Jace
+2 Dance of the Manse
+2 Starfield of Nyx
+3 Detention Sphere
+3 Oath of Kaya
+3 Omen of the Sea
+3 Dance of the Manse
+3 Doom Foretold
+4 Omen of the Sea
+4 Doom Foretold
+1 Thought Erasure
+1 Tyrant's Scorn
+1 Tomebound Lich
+1 Sorin, Vengeful Bloodlord
+1 Hero of Precinct One
+2 Thought Erasure
+2 Tyrant's Scorn
+2 Tomebound Lich
+2 Sorin, Vengeful Bloodlord
+2 Hero of Precinct One
+3 Thought Erasure
+3 Hero of Precinct One
+3 Dig Through Time
+4 Thought Erasure
+4 Teferi, Time Raveler
+4 Hero of Precinct One
 1 Unclaimed Territory
 1 Elite Guardmage
 1 Thalia's Lieutenant
@@ -120,9 +121,24 @@
 3 Thalia's Lieutenant
 3 Kitesail Freebooter
 4 Unclaimed Territory
-4 Thalia's Lieutenant
 4 Charming Prince
+4 Concealed Courtyard
+4 Thalia's Lieutenant
 4 Elite Guardmage
 4 Kitesail Freebooter
 4 Thraben Inspector
-4 Concealed Courtyard
+1 Drown in the Loch
+1 Torrential Gearhulk
+1 Fetid Pools
+1 Cast Down
+1 Dissolve
+1 Opt
+2 Torrential Gearhulk
+2 Cast Down
+2 Dissolve
+2 Opt
+3 Isolated Chapel
+3 Opt
+4 Glimmer of Genius
+4 Opt
+4 Isolated Chapel
