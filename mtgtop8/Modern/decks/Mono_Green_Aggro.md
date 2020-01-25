@@ -28,21 +28,3 @@
 |1 [Pithing Needle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129526)    |                                                                                                         |                                                                                      |                                                                                           |
 |1 [Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)    |                                                                                                         |                                                                                      |                                                                                           |
 
-
-# Other Options
-
-|*n*<sup>th</sup> copy|                                       Maindeck Card                                        |*n*<sup>th</sup> copy|                                      Sideboard Card                                       |
-|--------------------:|--------------------------------------------------------------------------------------------|--------------------:|-------------------------------------------------------------------------------------------|
-|                    1|[Waterlogged Grove](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464198)|                    1|[Trinisphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=43545)      |
-|                    1|[Wistful Selkie](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405453)   |                    1|[Voracious Hydra](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466954) |
-|                    2|[Wooded Foothills](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405116) |                    1|[Scavenging Ooze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420783) |
-|                    2|[Waterlogged Grove](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464198)|                    1|[Nylea's Disciple](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373498)|
-|                    2|[Wistful Selkie](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405453)   |                    1|[Reclamation Sage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389651)|
-|                    2|[Windswept Heath](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405115)  |                    1|[Witchbane Orb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=233240)   |
-|                    3|[Windswept Heath](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405115)  |                     |                                                                                           |
-|                    3|[Waterlogged Grove](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464198)|                     |                                                                                           |
-|                    3|[Wistful Selkie](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405453)   |                     |                                                                                           |
-|                    4|[Windswept Heath](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405115)  |                     |                                                                                           |
-|                    6|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)           |                     |                                                                                           |
-|                    4|[Wistful Selkie](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405453)   |                     |                                                                                           |
-

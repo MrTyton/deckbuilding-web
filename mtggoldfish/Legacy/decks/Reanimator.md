@@ -69,8 +69,8 @@
 |                     |                                                                                                 |                    2|[Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)                     |
 |                     |                                                                                                 |                    3|[Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)                     |
 |                     |                                                                                                 |                    3|[Pyroblast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=4083)                   |
+|                     |                                                                                                 |                    3|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)       |
 |                     |                                                                                                 |                    2|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)       |
 |                     |                                                                                                 |                    3|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)       |
 |                     |                                                                                                 |                    4|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)       |
-|                     |                                                                                                 |                    3|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)       |
 

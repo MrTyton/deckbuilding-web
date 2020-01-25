@@ -1,69 +1,68 @@
 4 Goblin Rabblemaster
 3 Embercleave
-1 Elvish Rejuvenator
 1 World Breaker
 1 Castle Garenbrig
-1 Ugin, the Spirit Dragon
 1 Arboreal Grazer
 1 Kozilek's Return
 1 Nissa's Pilgrimage
 1 Ulamog, the Ceaseless Hunger
 1 Shrine of the Forsaken Gods
-2 Elvish Rejuvenator
-2 Ugin, the Spirit Dragon
+1 Elvish Rejuvenator
+1 Ugin, the Spirit Dragon
 2 Arboreal Grazer
 2 World Breaker
 2 Ulamog, the Ceaseless Hunger
 2 Kozilek's Return
+2 Elvish Rejuvenator
 2 Nissa's Pilgrimage
 2 Castle Garenbrig
+2 Ugin, the Spirit Dragon
 2 Shrine of the Forsaken Gods
-3 Elvish Rejuvenator
 3 Ugin, the Spirit Dragon
 3 Castle Garenbrig
 3 Arboreal Grazer
 3 World Breaker
 3 Shrine of the Forsaken Gods
 3 Nissa's Pilgrimage
-4 Elvish Rejuvenator
+3 Elvish Rejuvenator
 4 Arboreal Grazer
 4 Shrine of the Forsaken Gods
+4 Elvish Rejuvenator
 4 Castle Garenbrig
 4 World Breaker
 4 Nissa's Pilgrimage
 6 Mountain
+4 Gruul Spellbreaker
 1 Atarka's Command
 2 Atarka's Command
 3 Atarka's Command
 4 Atarka's Command
-4 Gruul Spellbreaker
 1 Bomat Courier
 1 Burning-Tree Emissary
 1 Reckless Bushwhacker
 1 Zurgo Bellstriker
-2 Burning-Tree Emissary
-2 Reckless Bushwhacker
-2 Zurgo Bellstriker
-3 Burning-Tree Emissary
-3 Reckless Bushwhacker
-4 Burning-Tree Emissary
-4 Reckless Bushwhacker
 1 Firedrinker Satyr
 1 Gallia of the Endless Dance
 1 Rakdos Cackler
 2 Bomat Courier
+2 Burning-Tree Emissary
+2 Reckless Bushwhacker
 2 Gallia of the Endless Dance
 2 Firedrinker Satyr
+2 Zurgo Bellstriker
 2 Rakdos Cackler
 3 Bomat Courier
 3 Gallia of the Endless Dance
 3 Rakdos Cackler
+3 Burning-Tree Emissary
+3 Reckless Bushwhacker
 3 Firedrinker Satyr
 4 Bomat Courier
 4 Gallia of the Endless Dance
+4 Burning-Tree Emissary
+4 Reckless Bushwhacker
 4 Firedrinker Satyr
 4 Rakdos Cackler
-1 Ghor-Clan Rampager
 1 Vivien, Arkbow Ranger
 2 Vivien, Arkbow Ranger
 3 Vivien, Arkbow Ranger
@@ -77,9 +76,9 @@
 1 Cavalier of Thorns
 1 Temple of Abandon
 1 Dragonlord Atarka
+2 Temple of Abandon
 2 Cavalier of Thorns
 2 Dragonlord Atarka
-2 Temple of Abandon
 3 Cavalier of Thorns
 4 Cavalier of Thorns
 1 Kiora, Behemoth Beckoner
@@ -99,9 +98,7 @@
 4 Klothys, God of Destiny
 1 Rhonas the Indomitable
 2 Rhonas the Indomitable
-2 Ghor-Clan Rampager
-3 Ghor-Clan Rampager
-4 Ghor-Clan Rampager
+1 Ghor-Clan Rampager
 1 Mana Confluence
 2 Mana Confluence
 1 Fabled Passage
@@ -139,33 +136,19 @@
 3 Heart of Kiran
 4 Questing Beast
 4 Heart of Kiran
-1 Zhur-Taa Goblin
-1 Ramunap Ruins
-1 Experiment One
-1 Pelt Collector
-1 Fling
-2 Zhur-Taa Goblin
-2 Ramunap Ruins
-2 Pelt Collector
-2 Experiment One
-3 Zhur-Taa Goblin
-3 Experiment One
-3 Pelt Collector
-4 Zhur-Taa Goblin
-4 Pelt Collector
-4 Experiment One
-1 Blossoming Defense
 1 Hashep Oasis
-1 Aether Hub
+1 Blossoming Defense
 1 Collision/Colossus
 1 Temur Battle Rage
 1 Rhythm of the Wild
 1 Longtusk Cub
 1 Attune with Aether
+1 Aether Hub
 1 Electrostatic Pummeler
 1 Bristling Hydra
 1 Harnessed Lightning
 2 Hashep Oasis
+2 Ghor-Clan Rampager
 2 Collision/Colossus
 2 Rhythm of the Wild
 2 Harnessed Lightning
@@ -181,12 +164,14 @@
 3 Temur Battle Rage
 3 Attune with Aether
 3 Longtusk Cub
+3 Ghor-Clan Rampager
 3 Aether Hub
 3 Blossoming Defense
 3 Harnessed Lightning
 4 Blossoming Defense
 4 Bristling Hydra
 4 Electrostatic Pummeler
+4 Ghor-Clan Rampager
 4 Harnessed Lightning
 4 Longtusk Cub
 4 Attune with Aether
@@ -206,8 +191,8 @@
 1 Soul-Scar Mage
 1 Wild Slash
 1 Skewer the Critics
-1 Monastery Swiftspear
 1 Light Up the Stage
+1 Monastery Swiftspear
 2 Shock
 2 Eidolon of the Great Revel
 2 Searing Blood
@@ -218,10 +203,10 @@
 2 Wild Slash
 3 Shock
 3 Eidolon of the Great Revel
+3 Light Up the Stage
 3 Skewer the Critics
 3 Wild Slash
 3 Monastery Swiftspear
-3 Light Up the Stage
 3 Searing Blood
 3 Soul-Scar Mage
 4 Shock

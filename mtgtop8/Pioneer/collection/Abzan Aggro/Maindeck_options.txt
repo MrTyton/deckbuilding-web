@@ -40,11 +40,11 @@
 3 Mana Confluence
 4 Godless Shrine
 1 Collected Company
-1 Cartel Aristocrat
 1 Zulaport Cutthroat
+1 Cartel Aristocrat
 2 Collected Company
-2 Zulaport Cutthroat
 2 Cartel Aristocrat
+2 Zulaport Cutthroat
 3 Collected Company
 3 Cartel Aristocrat
 3 Zulaport Cutthroat
@@ -53,31 +53,31 @@
 4 Cartel Aristocrat
 1 Voice of Resurgence
 1 Westvale Abbey
-1 Blisterpod
-1 Cruel Celebrant
-1 Nantuko Husk
-1 Hunted Witness
-1 Rally the Ancestors
 1 Return to the Ranks
 1 Hangarback Walker
+1 Rally the Ancestors
+1 Hunted Witness
+1 Nantuko Husk
+1 Cruel Celebrant
+1 Blisterpod
 2 Voice of Resurgence
+2 Hangarback Walker
+2 Return to the Ranks
+2 Cruel Celebrant
+2 Hunted Witness
 2 Rally the Ancestors
 2 Nantuko Husk
 2 Blisterpod
-2 Hunted Witness
-2 Cruel Celebrant
-2 Hangarback Walker
-2 Return to the Ranks
 3 Voice of Resurgence
-3 Cruel Celebrant
-3 Return to the Ranks
-3 Hunted Witness
 3 Hangarback Walker
+3 Return to the Ranks
 3 Blisterpod
-4 Blisterpod
-4 Cruel Celebrant
+3 Hunted Witness
+3 Cruel Celebrant
 4 Voice of Resurgence
 4 Hangarback Walker
+4 Cruel Celebrant
+4 Blisterpod
 4 Concealed Courtyard
 3 Forest
 2 Murderous Rider
@@ -122,30 +122,30 @@
 1 Smuggler's Copter
 1 Gilded Goose
 1 Witch's Oven
-1 Anguished Unmaking
-1 Cauldron Familiar
 1 Trail of Crumbs
+1 Cauldron Familiar
+1 Anguished Unmaking
 1 Archangel Avacyn
 1 Wicked Wolf
 2 Smuggler's Copter
 2 Gilded Goose
-2 Witch's Oven
-2 Cauldron Familiar
 2 Trail of Crumbs
+2 Cauldron Familiar
+2 Witch's Oven
 2 Archangel Avacyn
 2 Anguished Unmaking
 2 Wicked Wolf
 3 Smuggler's Copter
-3 Gilded Goose
-3 Cauldron Familiar
-3 Trail of Crumbs
 3 Witch's Oven
+3 Trail of Crumbs
+3 Cauldron Familiar
+3 Gilded Goose
 3 Archangel Avacyn
 3 Anguished Unmaking
 3 Wicked Wolf
 4 Smuggler's Copter
-4 Gilded Goose
 4 Witch's Oven
+4 Gilded Goose
 4 Trail of Crumbs
 1 Kytheon, Hero of Akros
 1 Plaguecrafter
@@ -196,6 +196,6 @@
 1 Liliana, Death's Majesty
 1 Obzedat, Ghost Council
 1 Temple of Silence
-4 Murderous Rider
 4 Gideon, Ally of Zendikar
+4 Murderous Rider
 4 Abzan Charm

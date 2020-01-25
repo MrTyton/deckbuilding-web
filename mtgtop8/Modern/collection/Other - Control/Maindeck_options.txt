@@ -6,15 +6,19 @@
 2 Search for Tomorrow
 3 Search for Tomorrow
 4 Search for Tomorrow
-1 Overgrown Tomb
 1 Swamp
+1 Overgrown Tomb
 1 Prismatic Vista
 1 Engineered Explosives
 1 Veil of Summer
 2 Tireless Tracker
 3 Snow-Covered Forest
-1 Elvish Rejuvenator
+1 Courser of Kruphix
+1 Oboro, Palace in the Clouds
+2 Courser of Kruphix
+3 Forest
 1 Craterhoof Behemoth
+1 Elvish Rejuvenator
 1 Verdant Catacombs
 1 Sakura-Tribe Scout
 2 Elvish Rejuvenator
@@ -22,10 +26,6 @@
 3 Elvish Rejuvenator
 3 Cavern of Souls
 3 Sakura-Tribe Scout
-1 Courser of Kruphix
-1 Oboro, Palace in the Clouds
-2 Courser of Kruphix
-3 Forest
 1 Drown in the Loch
 1 Snow-Covered Swamp
 1 Watery Grave
@@ -35,17 +35,16 @@
 1 Snapcaster Mage
 2 Polluted Delta
 2 Snow-Covered Island
+2 Field of Ruin
 2 Drown in the Loch
 2 Cryptic Command
 2 Snapcaster Mage
-2 Field of Ruin
 3 Polluted Delta
 1 Desolate Lighthouse
 1 Abrupt Decay
 1 Mystical Teachings
 1 Kolaghan's Command
 1 Snow-Covered Mountain
-1 Wrenn and Six
 1 Dead of Winter
 1 Ice-Fang Coatl
 1 Lochmere Serpent
@@ -54,16 +53,17 @@
 1 Fall of the Titans
 1 Lightning Bolt
 1 Magmatic Sinkhole
+1 Wrenn and Six
 1 Wilderness Reclamation
 1 The Royal Scions
 1 Steam Vents
 1 Wandering Fumarole
 1 Arcum's Astrolabe
-2 Wrenn and Six
 2 Dead of Winter
-2 Prismatic Vista
+2 Wrenn and Six
 2 Arcum's Astrolabe
 2 Mystical Teachings
+2 Prismatic Vista
 2 Ice-Fang Coatl
 2 Lightning Bolt
 3 Snow-Covered Island
@@ -73,18 +73,18 @@
 3 Field of Ruin
 3 Arcum's Astrolabe
 3 Drown in the Loch
-4 Ice-Fang Coatl
 4 Snow-Covered Island
 4 Arcum's Astrolabe
 4 Drown in the Loch
+4 Ice-Fang Coatl
 1 River of Tears
 1 Geier Reach Sanitarium
 1 Sunken Ruins
 1 Jace, the Mind Sculptor
+1 Narset, Parter of Veils
 1 Liliana of the Veil
 1 Fatal Push
 1 Damnation
-1 Narset, Parter of Veils
 1 Spell Snare
 1 Serum Visions
 1 Inquisition of Kozilek
@@ -97,10 +97,10 @@
 2 Snow-Covered Swamp
 2 Jace, the Mind Sculptor
 2 Creeping Tar Pit
-2 Geier Reach Sanitarium
 2 Narset, Parter of Veils
 2 Liliana of the Veil
 2 Damnation
+2 Geier Reach Sanitarium
 2 Darkslick Shores
 2 Fatal Push
 2 Inquisition of Kozilek

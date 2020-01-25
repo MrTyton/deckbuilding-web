@@ -22,3 +22,10 @@
 |1 [Spellskite](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397743)   |2 [Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)|2 [Path to Exile](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220511) |
 |                                                                                          |                                                                                          |3 [Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)|
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|Maindeck Card|*n*<sup>th</sup> copy|                                     Sideboard Card                                      |
+|---------------------|-------------|--------------------:|-----------------------------------------------------------------------------------------|
+|                     |             |                    2|[Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)|
+

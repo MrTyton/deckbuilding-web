@@ -24,15 +24,19 @@
 
 # Other Options
 
-|*n*<sup>th</sup> copy|                                        Maindeck Card                                        |*n*<sup>th</sup> copy|                                      Sideboard Card                                       |
-|--------------------:|---------------------------------------------------------------------------------------------|--------------------:|-------------------------------------------------------------------------------------------|
-|                    1|[Risk Factor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452863)       |                    1|[Spell Pierce](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425876)    |
-|                    1|[Bedlam Reveler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414415)    |                    2|[Spell Pierce](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425876)    |
-|                    1|[Brazen Borrower](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473001)   |                    1|[Chandra's Defeat](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430775)|
-|                    1|[Bonecrusher Giant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473077) |                    1|[Roast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394667)           |
-|                    2|[Bedlam Reveler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414415)    |                    2|[Roast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394667)           |
-|                    1|[The Royal Scions](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473161)  |                    1|[Magma Spray](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426843)     |
-|                    4|[Shivan Reef](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129731)       |                    3|[Spell Pierce](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425876)    |
-|                    4|[Shock](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129732)             |                    3|[Reckless Rage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439767)   |
-|                    4|[Light Up the Stage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457251)|                     |                                                                                           |
+|*n*<sup>th</sup> copy|                                        Maindeck Card                                        |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
+|--------------------:|---------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
+|                    4|[Shivan Reef](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129731)       |                    1|[Roast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394667)              |
+|                    4|[Shock](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129732)             |                    1|[Spell Pierce](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425876)       |
+|                    1|[The Royal Scions](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473161)  |                    2|[Spell Pierce](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425876)       |
+|                    1|[Brazen Borrower](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473001)   |                    1|[Chandra's Defeat](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430775)   |
+|                    1|[Risk Factor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452863)       |                    2|[Roast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394667)              |
+|                    1|[Bonecrusher Giant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473077) |                    4|[Goblin Chainwhirler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443017)|
+|                    1|[Bedlam Reveler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414415)    |                    1|[Magma Spray](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426843)        |
+|                    2|[Bedlam Reveler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414415)    |                    3|[Spell Pierce](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425876)       |
+|                    4|[Light Up the Stage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457251)|                    3|[Reckless Rage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439767)      |
+|                    1|[Skewer the Critics](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457259)|                     |                                                                                              |
+|                    2|[Skewer the Critics](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457259)|                     |                                                                                              |
+|                    3|[Skewer the Critics](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457259)|                     |                                                                                              |
+|                    8|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)          |                     |                                                                                              |
 
