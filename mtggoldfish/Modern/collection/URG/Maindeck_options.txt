@@ -18,6 +18,7 @@
 1 Nykthos, Shrine to Nyx
 1 Eternal Witness
 1 Primal Command
+1 Walking Ballista
 1 Tireless Tracker
 1 Overgrowth
 1 Kiora's Follower
@@ -26,7 +27,6 @@
 1 Utopia Sprawl
 1 Windswept Heath
 1 Hydroid Krasis
-1 Walking Ballista
 1 Time Warp
 1 Kiora, Master of the Depths
 1 Arbor Elf
@@ -74,24 +74,24 @@
 4 Scalding Tarn
 1 Opt
 1 Archmage's Charm
+1 Prismatic Vista
 1 Snow-Covered Mountain
 1 Field of Ruin
-1 Force of Negation
-1 Jace, the Mind Sculptor
 1 Ice-Fang Coatl
+1 Jace, the Mind Sculptor
 1 Logic Knot
-1 Prismatic Vista
 1 Skred
+1 Force of Negation
 1 Snapcaster Mage
 2 Snow-Covered Mountain
 2 Field of Ruin
-2 Force of Negation
 2 Logic Knot
 2 Snapcaster Mage
 2 Ice-Fang Coatl
 2 Archmage's Charm
 2 Jace, the Mind Sculptor
 2 Skred
+2 Force of Negation
 3 Snapcaster Mage
 3 Cryptic Command
 3 Ice-Fang Coatl
@@ -126,10 +126,10 @@
 3 Stubborn Denial
 3 Delver of Secrets
 3 Thought Scour
-4 Once Upon a Time
 4 Serum Visions
 4 Brazen Borrower
 4 Tarmogoyf
+4 Once Upon a Time
 4 Hooting Mandrills
 4 Mana Leak
 4 Thought Scour

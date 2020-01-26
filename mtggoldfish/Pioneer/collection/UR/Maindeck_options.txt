@@ -1,46 +1,4 @@
 4 Young Pyromancer
-1 The Royal Scions
-2 The Royal Scions
-4 Mountain
-1 Gingerbrute
-1 Darksteel Citadel
-1 Hope of Ghirapur
-1 Stonecoil Serpent
-1 Shrapnel Blast
-1 Stubborn Denial
-1 Skilled Animator
-1 Ensoul Artifact
-1 Ghostfire Blade
-1 Bomat Courier
-1 Thopter Engineer
-1 Emry, Lurker of the Loch
-2 Gingerbrute
-2 Stonecoil Serpent
-2 Hope of Ghirapur
-2 Shrapnel Blast
-2 Stubborn Denial
-2 Bomat Courier
-2 Skilled Animator
-2 Emry, Lurker of the Loch
-2 Ghostfire Blade
-2 Darksteel Citadel
-2 Ensoul Artifact
-3 Gingerbrute
-3 Darksteel Citadel
-3 Ensoul Artifact
-3 Ghostfire Blade
-3 Skilled Animator
-3 Bomat Courier
-3 Stonecoil Serpent
-3 Shrapnel Blast
-4 Gingerbrute
-4 Bomat Courier
-4 Skilled Animator
-4 Ensoul Artifact
-4 Darksteel Citadel
-4 Stonecoil Serpent
-4 Shrapnel Blast
-4 Ghostfire Blade
 2 Treasure Cruise
 3 Crackling Drake
 4 Izzet Charm
@@ -50,9 +8,9 @@
 1 Omen of the Sea
 1 Spell Pierce
 1 Chronic Flooding
+1 Thassa's Oracle
 1 Underworld Breach
 1 Hidden Strings
-1 Thassa's Oracle
 1 Witching Well
 2 Thassa's Oracle
 2 Witching Well
@@ -77,40 +35,43 @@
 4 Hidden Strings
 4 Witching Well
 6 Island
+1 The Royal Scions
 1 Bonecrusher Giant
+1 Ionize
 1 Mutavault
 1 Eldrazi Obligator
 1 Goblin Chainwhirler
 1 Glorybringer
-1 Runaway Steam-Kin
 1 Lightning Strike
-1 Torbran, Thane of Red Fell
-1 Ionize
-1 Kari Zev, Skyship Raider
 1 Soul-Scar Mage
+1 Torbran, Thane of Red Fell
+1 Runaway Steam-Kin
 1 Keranos, God of Storms
+1 Kari Zev, Skyship Raider
 1 Wandering Fumarole
 1 Ramunap Ruins
 2 Bonecrusher Giant
+2 Ionize
 2 Mutavault
 2 Torbran, Thane of Red Fell
 2 Soul-Scar Mage
 2 Goblin Chainwhirler
+2 The Royal Scions
 2 Lightning Strike
-2 Ramunap Ruins
 2 Runaway Steam-Kin
-2 Ionize
+2 Ramunap Ruins
 3 Bonecrusher Giant
+3 Runaway Steam-Kin
 3 Ionize
 3 Goblin Chainwhirler
-3 Ramunap Ruins
-3 Runaway Steam-Kin
-3 Soul-Scar Mage
 3 Lightning Strike
+3 Ramunap Ruins
+3 Soul-Scar Mage
 4 Goblin Chainwhirler
 4 Bonecrusher Giant
-4 Ionize
 4 Lightning Strike
+4 Mountain
+4 Ionize
 4 Ramunap Ruins
 4 Soul-Scar Mage
 5 Mountain
