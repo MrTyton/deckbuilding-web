@@ -5,22 +5,20 @@
 3 Once Upon a Time
 4 Once Upon a Time
 1 Hangarback Walker
-2 Ghost Quarter
 2 All Is Dust
 1 Forest
+2 Ghost Quarter
 3 Dismember
-1 Mystic Forge
-1 Spatial Contortion
+2 Cavern of Souls
 1 Radiant Fountain
 1 Wurmcoil Engine
 1 Karn Liberated
-2 Cavern of Souls
 1 Prismatic Vista
 1 Noble Hierarch
 1 Ancient Stirrings
 2 Prismatic Vista
-2 Ancient Stirrings
 2 Noble Hierarch
+2 Ancient Stirrings
 3 Noble Hierarch
 4 Noble Hierarch
 2 Forest
@@ -45,11 +43,13 @@
 2 Snow-Covered Forest
 3 Ancient Stirrings
 4 Ancient Stirrings
-1 Buried Ruin
 1 Emrakul, the Promised End
+1 Buried Ruin
+1 Mystic Forge
 2 Endbringer
 1 Pithing Needle
 3 Mind Stone
+1 Spatial Contortion
 3 Wastes
 1 Arch of Orazca
 1 Ulamog, the Ceaseless Hunger
@@ -60,8 +60,8 @@
 1 Birds of Paradise
 1 Jace, the Mind Sculptor
 1 Botanical Sanctum
-2 Breeding Pool
 2 Birds of Paradise
+2 Breeding Pool
 4 Elder Deep-Fiend
 1 Gilded Goose
 1 Drowner of Hope
@@ -70,6 +70,31 @@
 3 Prismatic Vista
 3 Misty Rainforest
 4 Yavimaya Coast
+1 Smuggler's Copter
+1 Mutavault
+1 Gemstone Caverns
+1 Llanowar Wastes
+1 Eldrazi Mimic
+1 Eternal Scourge
+1 Serum Powder
+1 Simian Spirit Guide
+2 Llanowar Wastes
+2 Eldrazi Mimic
+2 Eternal Scourge
+2 Serum Powder
+2 Mutavault
+2 Simian Spirit Guide
+3 Llanowar Wastes
+3 Eldrazi Mimic
+3 Eternal Scourge
+3 Serum Powder
+3 Ghost Quarter
+3 Mutavault
+3 Simian Spirit Guide
+4 Llanowar Wastes
+4 Eldrazi Mimic
+4 Eternal Scourge
+4 Simian Spirit Guide
 1 Snow-Covered Mountain
 1 Stomping Ground
 1 Grove of the Burnwillows
@@ -92,5 +117,5 @@
 3 Eldrazi Obligator
 4 Grove of the Burnwillows
 4 Eldrazi Obligator
-4 Lightning Bolt
 4 Karplusan Forest
+4 Lightning Bolt

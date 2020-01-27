@@ -27,3 +27,21 @@
 |1 [Agent of Treachery](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466797)|2 [Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)|2 [Chandra, Awakened Inferno](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466881)|2 [Act of Treason](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442107)     |2 Mystic Repeal   |
 |1 [Shifting Ceratops](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466948) |2 [Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)          |                                                                                                      |2 [Claim the Firstborn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473080)|1 Whirlwind Denial|
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                        Maindeck Card                                        |*n*<sup>th</sup> copy|                                       Sideboard Card                                       |
+|--------------------:|---------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------|
+|                    1|[Arboreal Grazer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461076)   |                    1|[Lava Coil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452858)        |
+|                    1|[Agent of Treachery](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466797)|                    1|[Return to Nature](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461102) |
+|                    1|[Growth Spiral](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457322)     |                    1|[Aether Gust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466796)      |
+|                    2|[Agent of Treachery](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466797)|                    1|The Akroan War                                                                              |
+|                    2|[Growth Spiral](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457322)     |                    1|[Bonecrusher Giant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473077)|
+|                    2|[Arboreal Grazer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461076)   |                    1|Storm's Wrath                                                                               |
+|                    2|[Temple of Epiphany](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442808)|                    2|[Lava Coil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452858)        |
+|                    3|[Growth Spiral](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457322)     |                    2|[Aether Gust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466796)      |
+|                    3|[Agent of Treachery](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466797)|                    2|[Bonecrusher Giant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473077)|
+|                    4|[Cavalier of Thorns](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466921)|                    2|Storm's Wrath                                                                               |
+|                    4|[Temple of Mystery](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373571) |                    3|[Bonecrusher Giant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473077)|
+|                    4|[Growth Spiral](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457322)     |                    3|[Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020) |
+

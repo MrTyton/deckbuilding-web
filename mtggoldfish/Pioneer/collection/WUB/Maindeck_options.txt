@@ -1,85 +1,13 @@
-2 Isolated Chapel
-1 The Scarab God
-1 Reflector Mage
-2 Reflector Mage
-3 Reflector Mage
-4 Reflector Mage
-1 Concealed Courtyard
-2 Concealed Courtyard
-3 Concealed Courtyard
-1 Gideon, Ally of Zendikar
-2 Gideon, Ally of Zendikar
-1 Charming Prince
-1 Aether Hub
-1 Aethersphere Harvester
-1 Glint-Sleeve Siphoner
-1 Westvale Abbey
-1 Thraben Inspector
-2 Charming Prince
-2 Aether Hub
-2 Aethersphere Harvester
-2 Glint-Sleeve Siphoner
-2 Thraben Inspector
-2 The Scarab God
-3 Charming Prince
-3 Aether Hub
-3 Glint-Sleeve Siphoner
-3 Thraben Inspector
-4 Aether Hub
-4 Glint-Sleeve Siphoner
-1 Search for Azcanta
-1 Oath of Kaya
-2 Oath of Kaya
-1 Thought Erasure
-1 Tyrant's Scorn
-1 Tomebound Lich
-1 Sorin, Vengeful Bloodlord
-1 Hero of Precinct One
-2 Hero of Precinct One
-2 Thought Erasure
-2 Tyrant's Scorn
-2 Tomebound Lich
-2 Sorin, Vengeful Bloodlord
-3 Hero of Precinct One
 3 Thought Erasure
 3 Dig Through Time
 4 Hero of Precinct One
 4 Thought Erasure
 4 Teferi, Time Raveler
-1 Archangel Avacyn
-1 Brazen Borrower
-1 Castle Ardenvale
-1 Spell Queller
-1 Selfless Spirit
-2 Archangel Avacyn
-2 Brazen Borrower
-2 Selfless Spirit
-2 Spell Queller
-3 Gideon, Ally of Zendikar
-3 Spell Queller
-3 Selfless Spirit
-3 Brazen Borrower
-4 Spell Queller
-1 Disallow
-1 Ultimate Price
-1 Hero's Downfall
-1 Elixir of Immortality
-2 Sphinx's Revelation
-2 Ultimate Price
-2 Hero's Downfall
-3 Sphinx's Revelation
-3 Dovin's Veto
-4 Absorb
-4 Sphinx's Revelation
-1 Fabled Passage
-1 Narset, Parter of Veils
-1 Kaya, Orzhov Usurper
-1 Syncopate
-2 Syncopate
-2 Narset, Parter of Veils
-2 Kaya, Orzhov Usurper
-2 Fabled Passage
-4 Fatal Push
+4 Godless Shrine
+1 Concealed Courtyard
+2 Concealed Courtyard
+3 Concealed Courtyard
+1 Search for Azcanta
 1 Dance of the Manse
 1 Omen of the Sea
 1 Temple of Deceit
@@ -88,7 +16,6 @@
 1 Temple of Enlightenment
 1 Trial of Ambition
 1 Doom Foretold
-1 Ipnu Rivulet
 1 Cast Out
 1 Oath of Jace
 1 Starfield of Nyx
@@ -107,6 +34,79 @@
 3 Doom Foretold
 4 Omen of the Sea
 4 Doom Foretold
+1 Absorb
+1 Dovin's Veto
+2 Absorb
+2 Dovin's Veto
+3 Fatal Push
+3 Absorb
+3 Shambling Vent
+1 The Scarab God
+1 Vraska's Contempt
+2 Vraska's Contempt
+1 Sphinx's Revelation
+1 Glimmer of Genius
+1 Elspeth, Sun's Champion
+1 Censor
+2 Glimmer of Genius
+2 Censor
+3 Glimmer of Genius
+4 Supreme Verdict
+1 Gideon, Ally of Zendikar
+2 Gideon, Ally of Zendikar
+1 Charming Prince
+1 Westvale Abbey
+1 Aether Hub
+1 Aethersphere Harvester
+1 Glint-Sleeve Siphoner
+1 Thraben Inspector
+2 Charming Prince
+2 Aether Hub
+2 Aethersphere Harvester
+2 Glint-Sleeve Siphoner
+2 Thraben Inspector
+2 The Scarab God
+3 Charming Prince
+3 Aether Hub
+3 Glint-Sleeve Siphoner
+3 Thraben Inspector
+4 Aether Hub
+4 Glint-Sleeve Siphoner
+1 Ipnu Rivulet
+1 Syncopate
+1 Fabled Passage
+1 Narset, Parter of Veils
+1 Kaya, Orzhov Usurper
+2 Fabled Passage
+2 Syncopate
+2 Narset, Parter of Veils
+2 Kaya, Orzhov Usurper
+4 Fatal Push
+1 Selfless Spirit
+1 Archangel Avacyn
+1 Brazen Borrower
+1 Castle Ardenvale
+1 Spell Queller
+2 Selfless Spirit
+2 Archangel Avacyn
+2 Brazen Borrower
+2 Spell Queller
+3 Selfless Spirit
+3 Spell Queller
+3 Gideon, Ally of Zendikar
+3 Brazen Borrower
+4 Spell Queller
+1 Disallow
+1 Ultimate Price
+1 Hero's Downfall
+1 Elixir of Immortality
+2 Sphinx's Revelation
+2 Ultimate Price
+2 Hero's Downfall
+3 Sphinx's Revelation
+3 Dovin's Veto
+4 Absorb
+4 Sphinx's Revelation
 1 Unclaimed Territory
 1 Elite Guardmage
 1 Kytheon, Hero of Akros
@@ -139,6 +139,6 @@
 2 Dissolve
 3 Opt
 3 Isolated Chapel
-4 Glimmer of Genius
 4 Opt
+4 Glimmer of Genius
 4 Isolated Chapel

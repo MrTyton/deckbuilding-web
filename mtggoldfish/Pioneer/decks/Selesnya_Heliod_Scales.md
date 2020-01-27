@@ -33,8 +33,8 @@
 |                    1|[Mana Confluence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409573)  |                    1|[Knight of Autumn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452933)       |
 |                    2|[Hangarback Walker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420600)|                    1|[Shifting Ceratops](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466948)      |
 |                    2|[Dromoka's Command](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394558)|                    2|[Shifting Ceratops](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466948)      |
-|                    3|[Hangarback Walker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420600)|                    2|[Knight of Autumn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452933)       |
-|                    3|[Dromoka's Command](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394558)|                    3|[Knight of Autumn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452933)       |
+|                    3|[Hangarback Walker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420600)|                    3|[Knight of Autumn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452933)       |
+|                    3|[Dromoka's Command](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394558)|                    2|[Knight of Autumn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452933)       |
 |                    4|[Hangarback Walker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420600)|                     |                                                                                                  |
 |                    2|[Mana Confluence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409573)  |                     |                                                                                                  |
 

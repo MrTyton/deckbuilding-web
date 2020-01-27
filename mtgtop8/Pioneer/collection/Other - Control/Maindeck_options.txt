@@ -1,8 +1,12 @@
-2 Rekindling Phoenix
-3 Rekindling Phoenix
+3 Watery Grave
+3 Drowned Catacomb
+4 Watery Grave
 3 Glorybringer
 4 Mountain
 1 Languish
+1 Rakdos's Return
+2 Rakdos's Return
+3 Castle Locthwain
 1 Island
 2 Vraska's Contempt
 2 Island
@@ -14,19 +18,18 @@
 1 The Scarab God
 1 Opt
 2 Opt
+2 Liliana, the Last Hope
 3 Dig Through Time
-1 Fetid Pools
 1 Torrential Gearhulk
+1 Fetid Pools
 1 Censor
 2 Torrential Gearhulk
 1 Search for Azcanta
-2 Liliana, the Last Hope
-3 Temple of Malice
+3 Chandra, Torch of Defiance
 2 Languish
 3 Fabled Passage
 3 Opt
 4 Opt
-3 Chandra, Torch of Defiance
 4 Island
 1 Hieroglyphic Illumination
 1 Negate
@@ -50,9 +53,9 @@
 4 Forest
 5 Forest
 5 Swamp
+1 Hissing Quagmire
 1 Dark Petition
 1 Seasons Past
-1 Hissing Quagmire
 1 Assassin's Trophy
 2 Dark Petition
 2 Hissing Quagmire
@@ -75,19 +78,18 @@
 3 Lovestruck Beast
 4 Temple of Malady
 4 Lovestruck Beast
-1 Rakdos's Return
-2 Rakdos's Return
-3 Castle Locthwain
 3 Canyon Slough
+1 Angrath, the Flame-Chained
 1 Disallow
 2 Disallow
 4 Censor
-2 Fetid Pools
 2 Hieroglyphic Illumination
 3 Torrential Gearhulk
 5 Island
+2 Fetid Pools
 3 Vraska's Contempt
 1 Sign in Blood
+4 Temple of Malice
 1 Steam Vents
 2 Steam Vents
 3 Steam Vents
@@ -95,25 +97,25 @@
 1 Sulfur Falls
 1 Bedevil
 1 Wandering Fumarole
-1 Champion of Wits
 1 Glint-Sleeve Siphoner
+1 Champion of Wits
 2 Wandering Fumarole
 2 The Scarab God
-2 Champion of Wits
 2 Glint-Sleeve Siphoner
+2 Champion of Wits
 3 Glint-Sleeve Siphoner
 4 Glint-Sleeve Siphoner
 1 Geier Reach Sanitarium
 3 Narset, Parter of Veils
-1 Hallowed Fountain
-2 Hallowed Fountain
-3 Hallowed Fountain
-4 Hallowed Fountain
 1 Teferi, Hero of Dominaria
+1 Hallowed Fountain
 1 Teferi, Time Raveler
 2 Teferi, Hero of Dominaria
 2 Teferi, Time Raveler
+2 Hallowed Fountain
 3 Teferi, Time Raveler
+3 Hallowed Fountain
+4 Hallowed Fountain
 1 Drown in the Loch
 1 Supreme Will
 1 Elspeth, Sun's Champion
@@ -126,8 +128,8 @@
 2 Fae of Wishes
 3 Fires of Invention
 4 Fires of Invention
-1 Glacial Fortress
 1 Supreme Verdict
+1 Glacial Fortress
 1 Detention Sphere
 2 Supreme Verdict
 2 Jace, Architect of Thought
@@ -145,16 +147,14 @@
 3 Overgrown Tomb
 3 Abrupt Decay
 4 Overgrown Tomb
+1 Oath of Kaya
 1 Godless Shrine
 2 Godless Shrine
-1 Oath of Kaya
 2 Oath of Kaya
 1 Liliana, Dreadhorde General
 6 Swamp
-2 Glacial Fortress
 1 Nissa, Who Shakes the World
 2 Nissa, Who Shakes the World
-1 Angrath, the Flame-Chained
 1 Woodland Cemetery
 1 Jace, Unraveler of Secrets
 1 Westvale Abbey
@@ -177,8 +177,8 @@
 1 Gideon of the Trials
 1 Deafening Clarion
 1 Clifftop Retreat
-1 Temple of Epiphany
 1 Temple of Triumph
+1 Temple of Epiphany
 2 Nahiri, the Harbinger
 2 Detention Sphere
 2 Temple of Triumph
@@ -215,6 +215,17 @@
 3 Nicol Bolas, the Ravager
 3 Kalitas, Traitor of Ghet
 4 Aether Hub
+1 Approach of the Second Sun
+1 Thought Erasure
+1 Sphinx's Revelation
+1 Dovin's Veto
+1 Declaration in Stone
+1 Shambling Vent
+2 Thought Erasure
+2 Glacial Fortress
+2 Shambling Vent
+3 Thought Erasure
+4 Thought Erasure
 1 Blast Zone
 1 Sinister Sabotage
 1 Perilous Vault
@@ -228,20 +239,9 @@
 1 Chandra, Acolyte of Flame
 2 Goblin Dark-Dwellers
 2 Angrath's Rampage
-3 Goblin Dark-Dwellers
 3 Kolaghan's Command
+3 Goblin Dark-Dwellers
 4 Goblin Dark-Dwellers
-4 Temple of Malice
-1 Approach of the Second Sun
-1 Thought Erasure
-1 Shambling Vent
-1 Sphinx's Revelation
-1 Dovin's Veto
-1 Declaration in Stone
-2 Thought Erasure
-2 Shambling Vent
-3 Thought Erasure
-4 Thought Erasure
 2 Cast Down
 3 Field of Ruin
 4 Field of Ruin
@@ -255,9 +255,9 @@
 1 Sarkhan the Masterless
 1 Urza's Ruinous Blast
 2 Spell Pierce
+2 Spirebluff Canal
 2 Sulfur Falls
 2 Heart of Kiran
-2 Spirebluff Canal
 2 Sarkhan the Masterless
 2 Mox Amber
 2 Magma Spray
@@ -272,10 +272,10 @@
 1 Breeding Pool
 1 Lumbering Falls
 1 Brazen Borrower
+1 Cyclonic Rift
 1 Hinterland Harbor
 1 Growth Spiral
 1 Wilderness Reclamation
-1 Cyclonic Rift
 1 Gadwick, the Wizened
 1 Tamiyo, Collector of Tales
 1 Frilled Mystic
@@ -286,8 +286,8 @@
 2 Brazen Borrower
 2 Growth Spiral
 2 Wilderness Reclamation
-2 Cyclonic Rift
 2 Gadwick, the Wizened
+2 Cyclonic Rift
 2 Prophet of Kruphix
 2 Lumbering Falls
 2 Frilled Mystic
@@ -304,65 +304,28 @@
 4 Fabled Passage
 4 Growth Spiral
 4 Frilled Mystic
-1 Isolated Chapel
-2 Isolated Chapel
-3 Isolated Chapel
-3 Godless Shrine
-4 Godless Shrine
-1 Mana Confluence
-1 Apostle of Purifying Light
-1 Scheming Symmetry
-1 Merfolk Secretkeeper
-1 Open the Armory
-1 Cerulean Drake
-1 Aqueous Form
-1 Sigarda's Aid
-1 Overwhelmed Apprentice
-1 Ancestral Blade
-1 Gods Willing
-1 Colossus Hammer
-2 Mana Confluence
-2 Scheming Symmetry
-2 Merfolk Secretkeeper
-2 Open the Armory
-2 Apostle of Purifying Light
-2 Cerulean Drake
-2 Overwhelmed Apprentice
-2 Sigarda's Aid
-2 Colossus Hammer
-2 Gods Willing
-3 Mana Confluence
-3 Scheming Symmetry
-3 Merfolk Secretkeeper
-3 Fetid Pools
-3 Cerulean Drake
-3 Apostle of Purifying Light
-3 Glacial Fortress
-3 Open the Armory
-3 Sigarda's Aid
-3 Colossus Hammer
-3 Overwhelmed Apprentice
-3 Gods Willing
-4 Merfolk Secretkeeper
-4 Fetid Pools
-4 Apostle of Purifying Light
-4 Overwhelmed Apprentice
-4 Sigarda's Aid
-4 Gods Willing
-4 Open the Armory
-4 Mana Confluence
-4 Colossus Hammer
-4 Cerulean Drake
-4 Scheming Symmetry
+1 Kroxa, Titan of Death's Hunger
+1 Pharika's Libation
+1 Ramunap Ruins
+2 Urborg, Tomb of Yawgmoth
+2 Kroxa, Titan of Death's Hunger
+2 Pharika's Libation
+2 Ramunap Ruins
+3 Kroxa, Titan of Death's Hunger
+3 Ramunap Ruins
+4 Rekindling Phoenix
+4 Kroxa, Titan of Death's Hunger
+4 Ramunap Ruins
 1 Concealed Courtyard
 1 Doom Foretold
 1 Trial of Ambition
+1 Isolated Chapel
 1 Karn, Scion of Urza
 1 Anguished Unmaking
 1 Gifted Aetherborn
-1 History of Benalia
 1 Caves of Koilos
 1 Knight of the Ebon Legion
+1 History of Benalia
 1 Brought Back
 1 Lyra Dawnbringer
 2 Concealed Courtyard
@@ -371,10 +334,13 @@
 2 Karn, Scion of Urza
 2 Gifted Aetherborn
 2 Plains
-2 History of Benalia
+2 Isolated Chapel
 2 Knight of the Ebon Legion
-3 Karn, Scion of Urza
+2 History of Benalia
 3 Doom Foretold
+3 Isolated Chapel
+3 Karn, Scion of Urza
+3 Godless Shrine
 3 Gifted Aetherborn
 3 Concealed Courtyard
 3 Plains
@@ -382,6 +348,7 @@
 3 History of Benalia
 4 Gifted Aetherborn
 4 Doom Foretold
+4 Godless Shrine
 4 History of Benalia
 4 Isolated Chapel
 4 Plains
@@ -391,11 +358,11 @@
 1 Grisly Salvage
 1 Vraska, Golgari Queen
 1 Traverse the Ulvenwald
-1 Ishkanah, Grafwidow
 1 Blooming Marsh
 1 Nissa, Vastwood Seer
 1 Emrakul, the Promised End
 1 Hangarback Walker
+1 Ishkanah, Grafwidow
 2 Grisly Salvage
 2 Nissa, Vastwood Seer
 2 Traverse the Ulvenwald
