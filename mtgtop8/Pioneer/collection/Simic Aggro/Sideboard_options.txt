@@ -4,11 +4,11 @@
 1 Heroic Intervention
 1 Scavenging Ooze
 2 Heroic Intervention
-3 Aether Gust
 1 Disdainful Stroke
 2 Disdainful Stroke
 3 Disdainful Stroke
 1 Icy Blast
+3 Aether Gust
 2 Scavenging Ooze
 2 Icy Blast
 2 Questing Beast
@@ -19,14 +19,12 @@
 3 Mystical Dispute
 1 Hunt the Hunter
 1 Return to Nature
-1 Unravel the Aether
-2 Unravel the Aether
 1 Tireless Tracker
-1 Prey Upon
-2 Prey Upon
+2 Shifting Ceratops
 1 Stubborn Denial
 1 Skysovereign, Consul Flagship
-2 Shifting Ceratops
+1 Prey Upon
+2 Prey Upon
 1 Agent of Treachery
 1 Mass Manipulation
 2 Mass Manipulation
@@ -37,8 +35,8 @@
 1 Shapers' Sanctuary
 2 Spell Pierce
 2 Sleep
-2 Return to Nature
 2 Feed the Clan
+2 Return to Nature
 2 Shapers' Sanctuary
 1 Rhonas the Indomitable
 1 Steel Leaf Champion
@@ -51,10 +49,6 @@
 2 Walking Ballista
 3 Steel Leaf Champion
 3 Questing Beast
-1 Voracious Hydra
-1 Pithing Needle
-2 Voracious Hydra
-3 Lifecrafter's Bestiary
 3 Thrashing Brontodon
 3 Heroic Intervention
 1 Emrakul, the Promised End
@@ -72,8 +66,22 @@
 3 Hunt the Hunter
 4 Hunt the Hunter
 1 Thoughtseize
+1 Unravel the Aether
 1 Fatal Push
 2 Thoughtseize
+2 Unravel the Aether
 2 Fatal Push
 3 Thoughtseize
 4 Thoughtseize
+1 Summary Dismissal
+1 Annul
+1 Ratchet Bomb
+1 Soul-Guide Lantern
+1 Grafdigger's Cage
+2 Summary Dismissal
+2 Annul
+2 Ratchet Bomb
+2 Soul-Guide Lantern
+3 Ratchet Bomb
+3 Annul
+4 Ratchet Bomb

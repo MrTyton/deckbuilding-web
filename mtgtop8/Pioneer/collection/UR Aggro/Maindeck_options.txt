@@ -1,14 +1,19 @@
-3 Mutavault
+2 Emry, Lurker of the Loch
+2 The Royal Scions
+4 Mutavault
+4 Wild Slash
+1 Hazoret the Fervent
+4 Steam Vents
+1 Bonecrusher Giant
 2 Island
 1 Sulfur Falls
 2 Mountain
 3 Mountain
-4 Steam Vents
-1 Bonecrusher Giant
 1 Brazen Borrower
 1 Wandering Fumarole
 2 Bonecrusher Giant
 2 Brazen Borrower
+2 Wandering Fumarole
 3 Bonecrusher Giant
 3 Brazen Borrower
 4 Bonecrusher Giant
@@ -28,8 +33,10 @@
 3 Elder Deep-Fiend
 4 Brazen Borrower
 4 Elder Deep-Fiend
-2 Wandering Fumarole
+4 Spire of Industry
+1 Shadowspear
 2 Sulfur Falls
+1 Hangarback Walker
 4 Mountain
 1 Flamewake Phoenix
 2 Flamewake Phoenix
@@ -39,131 +46,62 @@
 3 Lightning Axe
 3 Izzet Charm
 4 Kozilek's Return
-4 Izzet Charm
-4 Spire of Industry
-3 Wild Slash
 3 Sulfur Falls
-4 Mutavault
-1 Ornithopter
-2 Ornithopter
+1 Pia Nalaar
+4 Izzet Charm
+1 Champion of Wits
+2 Champion of Wits
+2 Hangarback Walker
 3 Wandering Fumarole
 2 Sanctum of Ugin
-3 Island
 1 Glorybringer
 2 Glorybringer
 3 Glorybringer
-4 Wild Slash
-1 Champion of Wits
-2 Champion of Wits
-1 Metallic Rebuke
-1 Chandra, Torch of Defiance
-2 Chandra, Torch of Defiance
-1 Shadowspear
-1 Hangarback Walker
-3 Ornithopter
-4 Island
-5 Mountain
-1 Shock
+3 Island
 1 Opt
 2 Opt
 3 Opt
-1 Fabled Passage
-1 Pia Nalaar
-1 Dive Down
+1 Metallic Rebuke
+1 Temur Battle Rage
+2 Temur Battle Rage
+2 Shadowspear
 1 Phyrexian Revoker
 1 Whirler Rogue
 2 Phyrexian Revoker
 1 Aethersphere Harvester
 2 Aethersphere Harvester
-3 Sanctum of Ugin
+2 Pia Nalaar
+1 Dive Down
+1 Ornithopter
+2 Ornithopter
 1 Steel Overseer
 2 Steel Overseer
-2 Hangarback Walker
 3 Steel Overseer
 3 Hangarback Walker
 4 Steel Overseer
 1 Thermo-Alchemist
+1 Chandra, Torch of Defiance
 2 Thermo-Alchemist
+2 Chandra, Torch of Defiance
 3 Thermo-Alchemist
 4 Wandering Fumarole
 1 Chart a Course
 2 Chart a Course
 3 Chart a Course
 4 Chart a Course
-4 Lightning Axe
-1 Smuggler's Copter
-2 Smuggler's Copter
-3 Smuggler's Copter
-3 Stubborn Denial
-4 Smuggler's Copter
-4 Opt
-1 Castle Ardenvale
-1 Prairie Stream
-1 Irrigated Farmland
-1 Castle Vantress
-1 Azorius Charm
-1 Port Town
-1 Dig Through Time
-1 Supreme Verdict
-1 Search for Azcanta
-1 Glacial Fortress
-1 Declaration in Stone
-1 Settle the Wreckage
-1 Hallowed Fountain
-1 Teferi, Time Raveler
-1 Cast Out
-1 Approach of the Second Sun
-1 Censor
-1 Absorb
-1 Fae of Wishes
-1 Plains
-2 Irrigated Farmland
-2 Fabled Passage
-2 Dig Through Time
-2 Azorius Charm
-2 Supreme Verdict
-2 Glacial Fortress
-2 Declaration in Stone
-2 Hallowed Fountain
-2 Teferi, Time Raveler
-2 Cast Out
-2 Plains
-2 Censor
-2 Fae of Wishes
-2 Absorb
-3 Dig Through Time
-3 Plains
-3 Irrigated Farmland
-3 Declaration in Stone
-3 Glacial Fortress
-3 Supreme Verdict
-3 Teferi, Time Raveler
-3 Hallowed Fountain
-3 Cast Out
-3 Fae of Wishes
-3 Censor
-4 Censor
-4 Plains
-4 Glacial Fortress
-4 Teferi, Time Raveler
-4 Hallowed Fountain
-4 Fae of Wishes
-2 Metallic Rebuke
-3 Metallic Rebuke
-4 Ornithopter
 1 Kiora, Behemoth Beckoner
 1 Magma Spray
 1 Niv-Mizzet, Parun
 1 Silumgar's Scorn
-1 Sarkhan, Fireblood
 1 Icefall Regent
 1 Thunderbreak Regent
 1 Draconic Roar
+1 Sarkhan, Fireblood
 2 Kiora, Behemoth Beckoner
 2 Niv-Mizzet, Parun
 2 Magma Spray
-2 Thunderbreak Regent
 2 Silumgar's Scorn
+2 Thunderbreak Regent
 2 Draconic Roar
 2 Sarkhan, Fireblood
 3 Kiora, Behemoth Beckoner
@@ -171,10 +109,11 @@
 3 Thunderbreak Regent
 4 Sulfur Falls
 4 Glorybringer
+4 Island
 4 Silumgar's Scorn
 4 Thunderbreak Regent
 5 Island
-1 Hazoret the Fervent
+1 Shock
 1 Crash Through
 1 Soul-Scar Mage
 1 Wizard's Lightning
@@ -187,8 +126,8 @@
 2 Crash Through
 2 Wizard's Lightning
 2 Soul-Scar Mage
-2 Curious Obsession
 2 Dreadhorde Arcanist
+2 Curious Obsession
 2 Monastery Swiftspear
 2 Stormchaser Mage
 2 Light Up the Stage
@@ -196,15 +135,17 @@
 3 Wizard's Lightning
 3 Soul-Scar Mage
 3 Stormchaser Mage
-3 Crash Through
 3 Monastery Swiftspear
 3 Light Up the Stage
+3 Crash Through
 3 Curious Obsession
 4 Light Up the Stage
+4 Opt
 4 Wizard's Lightning
 4 Soul-Scar Mage
 4 Monastery Swiftspear
 4 Stormchaser Mage
+5 Mountain
 6 Mountain
 7 Mountain
 4 Crash Through

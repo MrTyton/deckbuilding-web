@@ -144,8 +144,8 @@
 1 Glacial Fortress
 2 Glacial Fortress
 1 Selfless Spirit
-2 Selfless Spirit
 2 Deputy of Detention
+2 Selfless Spirit
 3 Selfless Spirit
 3 Deputy of Detention
 4 Selfless Spirit
@@ -266,12 +266,12 @@
 2 Aethersphere Harvester
 3 Unclaimed Territory
 3 Glint-Sleeve Siphoner
-3 Kitesail Freebooter
 3 Elite Guardmage
+3 Kitesail Freebooter
 4 Unclaimed Territory
-4 Kitesail Freebooter
 4 Glint-Sleeve Siphoner
 4 Elite Guardmage
+4 Kitesail Freebooter
 1 Metallic Rebuke
 1 Stubborn Denial
 2 Stubborn Denial
@@ -294,6 +294,50 @@
 4 Breeding Pool
 4 Hinterland Harbor
 4 Elvish Mystic
+1 Murderous Rider
+1 Urborg, Tomb of Yawgmoth
+1 Shambling Vent
+1 Ravenous Chupacabra
+1 Wasteland Strangler
+1 Brain Maggot
+1 Ifnir Deadlands
+1 Lyra Dawnbringer
+1 Ultimate Price
+1 Caves of Koilos
+1 Liliana, the Last Hope
+1 Silkwrap
+1 Thought-Knot Seer
+1 Fatal Push
+1 Thoughtseize
+1 Baffling End
+1 Fairgrounds Warden
+1 Shefet Dunes
+2 Caves of Koilos
+2 Ifnir Deadlands
+2 Ravenous Chupacabra
+2 Wasteland Strangler
+2 Brain Maggot
+2 Ultimate Price
+2 Thought-Knot Seer
+2 Fatal Push
+2 Fairgrounds Warden
+2 Thoughtseize
+2 Liliana, the Last Hope
+2 Lyra Dawnbringer
+2 Shefet Dunes
+2 Shambling Vent
+3 Mutavault
+3 Brain Maggot
+3 Wasteland Strangler
+3 Thought-Knot Seer
+3 Fatal Push
+3 Caves of Koilos
+4 Brain Maggot
+4 Mutavault
+4 Thought-Knot Seer
+4 Fatal Push
+4 Wasteland Strangler
+4 Caves of Koilos
 3 Glacial Fortress
 1 Cloudblazer
 1 Dusk / Dawn
@@ -320,7 +364,6 @@
 2 Stomping Ground
 3 Stomping Ground
 4 Stomping Ground
-1 Murderous Rider
 1 Blood Crypt
 2 Blood Crypt
 3 Blood Crypt
@@ -387,8 +430,8 @@
 3 Mana Confluence
 1 Renegade Rallier
 1 Leafkin Druid
-1 Shalai, Voice of Plenty
 1 Risen Reef
+1 Shalai, Voice of Plenty
 1 Neoform
 2 Leafkin Druid
 2 Risen Reef
@@ -485,15 +528,15 @@
 2 Bristling Hydra
 2 Magma Spray
 2 Longtusk Cub
-3 Rogue Refiner
 3 Harnessed Lightning
+3 Rogue Refiner
 3 Longtusk Cub
 3 Whirler Virtuoso
 3 Bristling Hydra
 3 Attune with Aether
 4 Botanical Sanctum
-4 Rogue Refiner
 4 Harnessed Lightning
+4 Rogue Refiner
 4 Longtusk Cub
 4 Bristling Hydra
 4 Attune with Aether
@@ -512,49 +555,6 @@
 4 Cartouche of Solidarity
 4 Sram, Senior Edificer
 4 Gryff's Boon
-1 Urborg, Tomb of Yawgmoth
-1 Ifnir Deadlands
-1 Shambling Vent
-1 Ravenous Chupacabra
-1 Ultimate Price
-1 Lyra Dawnbringer
-1 Caves of Koilos
-1 Liliana, the Last Hope
-1 Silkwrap
-1 Thought-Knot Seer
-1 Fatal Push
-1 Thoughtseize
-1 Baffling End
-1 Brain Maggot
-1 Fairgrounds Warden
-1 Shefet Dunes
-1 Wasteland Strangler
-2 Caves of Koilos
-2 Ifnir Deadlands
-2 Shambling Vent
-2 Ravenous Chupacabra
-2 Ultimate Price
-2 Thought-Knot Seer
-2 Fatal Push
-2 Fairgrounds Warden
-2 Wasteland Strangler
-2 Thoughtseize
-2 Liliana, the Last Hope
-2 Brain Maggot
-2 Lyra Dawnbringer
-2 Shefet Dunes
-3 Mutavault
-3 Thought-Knot Seer
-3 Fatal Push
-3 Brain Maggot
-3 Wasteland Strangler
-3 Caves of Koilos
-4 Mutavault
-4 Thought-Knot Seer
-4 Fatal Push
-4 Wasteland Strangler
-4 Caves of Koilos
-4 Brain Maggot
 1 Rekindling Phoenix
 1 Foreboding Ruins
 1 Heart of Kiran
