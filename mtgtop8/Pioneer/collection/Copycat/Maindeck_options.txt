@@ -42,26 +42,26 @@
 3 Glacial Fortress
 4 Glacial Fortress
 4 Hallowed Fountain
+1 Hieroglyphic Illumination
+1 Izzet Charm
 1 Abrade
 1 Castle Vantress
 1 Censor
 1 Irrigated Farmland
-1 Hieroglyphic Illumination
-1 Izzet Charm
-2 Irrigated Farmland
+2 Hieroglyphic Illumination
+2 Izzet Charm
 2 Supreme Verdict
 2 Censor
 2 Sulfur Falls
-2 Izzet Charm
-2 Hieroglyphic Illumination
+2 Irrigated Farmland
 2 Clifftop Retreat
-3 Censor
 3 Izzet Charm
 3 Detention Sphere
 3 Supreme Verdict
 3 Sulfur Falls
-4 Sulfur Falls
+3 Censor
 4 Censor
+4 Sulfur Falls
 4 Izzet Charm
 1 Renegade Rallier
 1 Prime Speaker Vannifar
@@ -114,10 +114,10 @@
 1 Kolaghan's Command
 1 Assassin's Trophy
 2 Niv-Mizzet Reborn
+2 Stomping Ground
 2 Mana Confluence
 2 Assassin's Trophy
 2 Bring to Light
-2 Stomping Ground
 3 Niv-Mizzet Reborn
 3 Bring to Light
 3 Island
@@ -128,6 +128,7 @@
 1 Wicked Wolf
 2 Wicked Wolf
 4 Llanowar Elves
+4 Harnessed Lightning
 1 Lumbering Falls
 1 Golos, Tireless Pilgrim
 1 Eldritch Evolution
@@ -153,9 +154,9 @@
 1 Thoughtseize
 1 Discovery / Dispersal
 1 Languish
-1 Nicol Bolas, Dragon-God
 1 Isolated Chapel
 1 Prophetic Prism
+1 Nicol Bolas, Dragon-God
 1 Yahenni's Expertise
 1 Teferi, Hero of Dominaria
 1 Drowned Catacomb
@@ -190,28 +191,27 @@
 3 Lava Coil
 3 Spirebluff Canal
 4 Anticipate
-4 Dig Through Time
 4 Fiery Impulse
+4 Dig Through Time
 4 Spirebluff Canal
-4 Harnessed Lightning
 1 Elite Guardmage
+1 Tithe Taker
 1 Charming Prince
 1 Field of Ruin
 1 Thraben Inspector
-1 Tithe Taker
 1 Cloudblazer
 1 Dusk / Dawn
 2 Elite Guardmage
+2 Tithe Taker
 2 Field of Ruin
 2 Plains
 2 Dusk / Dawn
 2 Thraben Inspector
 2 Cloudblazer
-2 Tithe Taker
 2 Charming Prince
 3 Elite Guardmage
-3 Tithe Taker
 3 Deafening Clarion
+3 Tithe Taker
 3 Cloudblazer
 3 Charming Prince
 3 Thraben Inspector

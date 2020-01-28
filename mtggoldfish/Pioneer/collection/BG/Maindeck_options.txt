@@ -1,5 +1,9 @@
+3 Woodland Cemetery
+1 Nissa, Vastwood Seer
+1 Vraska, Golgari Queen
 1 Massacre Girl
 1 Phyrexian Revoker
+1 Plaguecrafter
 1 Traverse the Ulvenwald
 1 Dead Weight
 1 Ishkanah, Grafwidow
@@ -15,17 +19,13 @@
 2 Traverse the Ulvenwald
 2 Renegade Map
 2 Grisly Salvage
-2 Woodland Cemetery
 3 Abrupt Decay
 3 Traverse the Ulvenwald
-3 Woodland Cemetery
 3 Grisly Salvage
 4 Abrupt Decay
 4 Woodland Cemetery
 4 Traverse the Ulvenwald
 7 Forest
-3 Lovestruck Beast
-4 Lovestruck Beast
 1 Hashep Oasis
 1 The Great Henge
 2 The Great Henge
@@ -39,8 +39,8 @@
 2 Rotting Regisaur
 3 Rotting Regisaur
 4 Rotting Regisaur
-1 Dwynen's Elite
 1 Shaman of the Pack
+1 Dwynen's Elite
 1 Elvish Clancaller
 2 Elvish Clancaller
 2 Shaman of the Pack
@@ -54,31 +54,52 @@
 1 Nykthos, Shrine to Nyx
 1 Unclaimed Territory
 2 Unclaimed Territory
+4 Thoughtseize
 2 Dead Weight
 2 Questing Beast
 3 Questing Beast
 3 Yorvo, Lord of Garenbrig
 4 Questing Beast
 4 Yorvo, Lord of Garenbrig
-2 Tireless Tracker
-1 Mutavault
-2 Mutavault
 2 Fatal Push
 3 Fatal Push
-3 Fabled Passage
 4 Fatal Push
+1 Hissing Quagmire
+1 Dark Petition
+1 Languish
+1 Assassin's Trophy
+1 Kalitas, Traitor of Ghet
+1 Nissa's Pilgrimage
+1 Temple of Malady
+1 Vraska's Contempt
+1 Seasons Past
+1 Pulse of Murasa
+2 Hissing Quagmire
+2 Field of Ruin
+2 Dark Petition
+2 Assassin's Trophy
+2 Languish
+2 Temple of Malady
+3 Temple of Malady
+3 Hissing Quagmire
+3 Murderous Rider
+3 Dark Petition
+2 Tireless Tracker
+3 Fabled Passage
+1 Mutavault
+2 Mutavault
 1 Crucible of Worlds
 1 Wayward Swordtooth
-1 Castle Garenbrig
 1 Ramunap Excavator
+1 Castle Garenbrig
 1 Arch of Orazca
 1 Nissa, Who Shakes the World
 1 Drownyard Temple
-1 Sylvan Advocate
 1 Ulamog, the Ceaseless Hunger
 1 Evolving Wilds
 1 Urborg, Tomb of Yawgmoth
 1 The Gitrog Monster
+1 Sylvan Advocate
 1 Llanowar Scout
 2 Ramunap Excavator
 2 Crucible of Worlds
@@ -89,9 +110,9 @@
 2 Evolving Wilds
 3 Tireless Tracker
 3 The Gitrog Monster
+3 Evolving Wilds
 3 Mutavault
 3 Wayward Swordtooth
-3 Evolving Wilds
 3 Sylvan Advocate
 4 Fabled Passage
 4 Wayward Swordtooth
@@ -107,11 +128,12 @@
 1 Gnarlroot Trapper
 2 Gnarlroot Trapper
 3 Gnarlroot Trapper
-1 Hissing Quagmire
-4 Thoughtseize
 3 Unclaimed Territory
 4 Unclaimed Territory
 1 Erebos's Intervention
+1 Ashiok, Dream Render
+1 Sign in Blood
+3 Field of Ruin
 1 Chord of Calling
 2 Chord of Calling
 3 Chord of Calling
@@ -140,8 +162,8 @@
 4 Tireless Tracker
 4 Courser of Kruphix
 1 Icon of Ancestry
-2 Icon of Ancestry
 2 Nykthos, Shrine to Nyx
+2 Icon of Ancestry
 4 Wildborn Preserver
 1 Growth-Chamber Guardian
 1 Kiora, Behemoth Beckoner
@@ -165,26 +187,7 @@
 4 Growth-Chamber Guardian
 4 Thought-Knot Seer
 4 Hashep Oasis
-1 Dark Petition
-1 Languish
-1 Assassin's Trophy
-1 Kalitas, Traitor of Ghet
 1 Gonti, Lord of Luxury
-1 Nissa's Pilgrimage
-1 Temple of Malady
-1 Vraska's Contempt
-1 Seasons Past
 1 Read the Bones
-1 Pulse of Murasa
-2 Hissing Quagmire
-2 Field of Ruin
-2 Dark Petition
-2 Assassin's Trophy
-2 Languish
-2 Temple of Malady
-3 Temple of Malady
-3 Hissing Quagmire
-3 Murderous Rider
-3 Dark Petition
 4 Temple of Malady
 5 Swamp

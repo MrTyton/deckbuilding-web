@@ -30,6 +30,6 @@
 |                    4|[Incendiary Flow](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414432)|                    2|[Anger of the Gods](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438682)|
 |                     |                                                                                          |                    2|[Chandra's Defeat](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430775) |
 |                     |                                                                                          |                    3|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)   |
-|                     |                                                                                          |                    4|[Roast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394667)            |
 |                     |                                                                                          |                    3|[Roast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394667)            |
+|                     |                                                                                          |                    4|[Roast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394667)            |
 

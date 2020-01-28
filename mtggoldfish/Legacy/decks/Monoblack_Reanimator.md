@@ -37,7 +37,7 @@
 |                     |                                                                                           |                    1|[Unmask](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=19829)                 |
 |                     |                                                                                           |                    2|[Unmask](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=19829)                 |
 |                     |                                                                                           |                    2|[Plague Engineer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464049)       |
-|                     |                                                                                           |                    3|[Toxic Deluge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376559)          |
 |                     |                                                                                           |                    3|[Unmask](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=19829)                 |
 |                     |                                                                                           |                    4|[Unmask](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=19829)                 |
+|                     |                                                                                           |                    3|[Toxic Deluge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376559)          |
 

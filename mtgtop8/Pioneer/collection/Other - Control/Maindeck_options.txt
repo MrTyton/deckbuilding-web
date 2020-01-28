@@ -1,29 +1,29 @@
+3 Watery Grave
 4 Watery Grave
-1 Island
 1 Vraska's Contempt
+1 Island
+3 Fabled Passage
 3 Drowned Catacomb
 1 Languish
 1 Dig Through Time
 2 Dig Through Time
+4 Drowned Catacomb
 1 Opt
 2 Opt
-4 Drowned Catacomb
-2 Island
 2 Vraska's Contempt
+2 Island
 1 Torrential Gearhulk
 1 Censor
 2 Torrential Gearhulk
 1 The Scarab God
 3 Opt
 4 Opt
-1 Castle Vantress
 1 Search for Azcanta
+1 Castle Vantress
+1 Fetid Pools
 3 Dig Through Time
 3 Island
-1 Fetid Pools
-3 Glorybringer
 4 Mountain
-3 Fabled Passage
 1 Rakdos's Return
 2 Rakdos's Return
 2 Liliana, the Last Hope
@@ -31,11 +31,11 @@
 2 Languish
 2 Censor
 3 Censor
-4 Island
 3 Chandra, Torch of Defiance
 1 Hieroglyphic Illumination
 1 Negate
 2 Negate
+4 Island
 3 Dreadbore
 1 Steam Vents
 2 Steam Vents
@@ -43,10 +43,10 @@
 3 Murderous Rider
 1 Sulfur Falls
 4 Censor
-2 Castle Vantress
 1 Narset, Parter of Veils
 2 Narset, Parter of Veils
 3 Canyon Slough
+2 Castle Vantress
 1 Cast Down
 1 Angrath, the Flame-Chained
 1 Disallow
@@ -56,10 +56,12 @@
 5 Island
 2 Fetid Pools
 3 Vraska's Contempt
+1 Mutavault
 1 Jace, Vryn's Prodigy
 2 Jace, Vryn's Prodigy
 3 Jace, Vryn's Prodigy
 4 Jace, Vryn's Prodigy
+4 Rekindling Phoenix
 4 Temple of Malice
 1 Read the Bones
 1 Nicol Bolas, the Ravager
@@ -67,9 +69,6 @@
 2 Nicol Bolas, Dragon-God
 2 Nicol Bolas, the Ravager
 3 Nicol Bolas, the Ravager
-1 Forest
-2 Forest
-3 Forest
 1 Bedevil
 1 Wandering Fumarole
 1 Glint-Sleeve Siphoner
@@ -95,24 +94,25 @@
 4 Hallowed Fountain
 4 Teferi, Time Raveler
 4 Swamp
-1 Abrupt Decay
 1 Overgrown Tomb
+1 Abrupt Decay
+1 Forest
 2 Overgrown Tomb
-4 Forest
-5 Forest
+2 Forest
+3 Forest
+1 Plains
 5 Swamp
 3 Languish
 4 Languish
-1 Hissing Quagmire
 1 Dark Petition
 1 Seasons Past
+1 Hissing Quagmire
 1 Assassin's Trophy
-2 Dark Petition
 2 Hissing Quagmire
+2 Dark Petition
 2 Assassin's Trophy
 3 Dark Petition
 3 Hissing Quagmire
-1 Plains
 1 Anger of the Gods
 2 Anger of the Gods
 1 Fae of Wishes
@@ -124,6 +124,8 @@
 1 Courser of Kruphix
 1 Tireless Tracker
 2 Courser of Kruphix
+4 Forest
+5 Forest
 6 Forest
 2 Abrupt Decay
 3 Overgrown Tomb
@@ -135,8 +137,8 @@
 1 Interplanar Beacon
 2 Sacred Foundry
 2 Interplanar Beacon
-3 Sacred Foundry
 3 Interplanar Beacon
+3 Sacred Foundry
 4 Narset, Parter of Veils
 4 Interplanar Beacon
 1 Godless Shrine
@@ -145,8 +147,6 @@
 4 Godless Shrine
 1 Liliana, Dreadhorde General
 6 Swamp
-1 Nissa, Who Shakes the World
-2 Nissa, Who Shakes the World
 1 Elspeth, Sun's Champion
 1 Jace, Unraveler of Secrets
 1 Westvale Abbey
@@ -156,8 +156,8 @@
 2 Thassa's Intervention
 2 Tyrant's Scorn
 1 Thirst for Meaning
-1 Temple of Deceit
 1 Sphinx's Revelation
+1 Temple of Deceit
 1 Ashiok, Nightmare Muse
 1 Ultimate Price
 1 Whirlwind Denial
@@ -167,15 +167,22 @@
 1 Goblin Rabblemaster
 2 Goblin Rabblemaster
 1 Quench
-1 Mutavault
+1 Hero's Downfall
 1 Drown in the Loch
 1 Liliana's Triumph
-1 Hero's Downfall
 2 Quench
+2 Hero's Downfall
 2 Drown in the Loch
 2 Liliana's Triumph
-2 Hero's Downfall
 3 Drown in the Loch
+1 Rix Maadi Reveler
+1 Distended Mindbender
+1 Flamewake Phoenix
+2 Rix Maadi Reveler
+2 Mutavault
+2 Distended Mindbender
+2 Flamewake Phoenix
+3 Flamewake Phoenix
 1 Liliana, Death's Majesty
 1 Supreme Will
 1 Silumgar's Command
@@ -187,15 +194,15 @@
 3 The Scarab God
 3 Champion of Wits
 1 Nahiri, the Harbinger
-1 Supreme Verdict
-1 Temple of Enlightenment
 1 Chandra, Awakened Inferno
 1 Mobilized District
 1 Gideon of the Trials
 1 Deafening Clarion
 1 Clifftop Retreat
+1 Supreme Verdict
 1 Temple of Triumph
 1 Temple of Epiphany
+1 Temple of Enlightenment
 2 Nahiri, the Harbinger
 2 Detention Sphere
 2 Supreme Verdict
@@ -203,9 +210,9 @@
 2 Deafening Clarion
 2 Jace, Architect of Thought
 2 Temple of Epiphany
-3 Supreme Verdict
 3 Fae of Wishes
 3 Deafening Clarion
+3 Supreme Verdict
 3 Teferi, Hero of Dominaria
 1 Aether Hub
 1 Glimmer of Genius
@@ -255,10 +262,10 @@
 3 Anger of the Gods
 3 Spirebluff Canal
 3 Spell Pierce
+4 Sacred Foundry
 4 Anger of the Gods
 4 Spirebluff Canal
 4 Steam Vents
-4 Sacred Foundry
 1 Temple of Malady
 1 Nissa's Pilgrimage
 1 Gonti, Lord of Luxury
@@ -272,42 +279,6 @@
 3 Lovestruck Beast
 4 Temple of Malady
 4 Lovestruck Beast
-1 Hydroid Krasis
-1 Breeding Pool
-1 Hinterland Harbor
-1 Growth Spiral
-1 Lumbering Falls
-1 Brazen Borrower
-1 Cyclonic Rift
-1 Wilderness Reclamation
-1 Gadwick, the Wizened
-1 Tamiyo, Collector of Tales
-1 Frilled Mystic
-1 Prophet of Kruphix
-2 Hydroid Krasis
-2 Breeding Pool
-2 Growth Spiral
-2 Hinterland Harbor
-2 Brazen Borrower
-2 Wilderness Reclamation
-2 Gadwick, the Wizened
-2 Cyclonic Rift
-2 Prophet of Kruphix
-2 Lumbering Falls
-2 Frilled Mystic
-3 Breeding Pool
-3 Growth Spiral
-3 Brazen Borrower
-3 Wilderness Reclamation
-3 Frilled Mystic
-3 Hinterland Harbor
-4 Hinterland Harbor
-4 Breeding Pool
-4 Growth Spiral
-4 Wilderness Reclamation
-4 Brazen Borrower
-4 Fabled Passage
-4 Frilled Mystic
 1 Kroxa, Titan of Death's Hunger
 1 Pharika's Libation
 1 Ramunap Ruins
@@ -317,58 +288,59 @@
 2 Ramunap Ruins
 3 Kroxa, Titan of Death's Hunger
 3 Ramunap Ruins
-4 Rekindling Phoenix
 4 Kroxa, Titan of Death's Hunger
 4 Ramunap Ruins
 1 Concealed Courtyard
-1 Doom Foretold
-1 Trial of Ambition
 1 Isolated Chapel
 1 Oath of Kaya
 1 Karn, Scion of Urza
 1 Anguished Unmaking
 1 Gifted Aetherborn
+1 Trial of Ambition
 1 History of Benalia
 1 Caves of Koilos
 1 Knight of the Ebon Legion
+1 Doom Foretold
 1 Brought Back
 1 Lyra Dawnbringer
 2 Concealed Courtyard
-2 Doom Foretold
-2 Trial of Ambition
 2 Karn, Scion of Urza
 2 Gifted Aetherborn
 2 Plains
 2 Isolated Chapel
-2 History of Benalia
+2 Doom Foretold
 2 Knight of the Ebon Legion
+2 Trial of Ambition
+2 History of Benalia
 2 Oath of Kaya
-3 Doom Foretold
 3 Isolated Chapel
 3 Karn, Scion of Urza
 3 Gifted Aetherborn
 3 Concealed Courtyard
 3 Plains
 3 Knight of the Ebon Legion
+3 Doom Foretold
 3 History of Benalia
 4 Gifted Aetherborn
-4 Doom Foretold
 4 History of Benalia
 4 Isolated Chapel
-4 Knight of the Ebon Legion
 4 Plains
+4 Knight of the Ebon Legion
 4 Concealed Courtyard
+4 Doom Foretold
 5 Plains
-1 Grisly Salvage
+1 Nissa, Who Shakes the World
 1 Vraska, Golgari Queen
+1 Grisly Salvage
 1 Traverse the Ulvenwald
 1 Blooming Marsh
+1 Ishkanah, Grafwidow
 1 Nissa, Vastwood Seer
 1 Emrakul, the Promised End
 1 Hangarback Walker
-1 Ishkanah, Grafwidow
 2 Nissa, Vastwood Seer
 2 Grisly Salvage
+2 Nissa, Who Shakes the World
 2 Traverse the Ulvenwald
 2 Blooming Marsh
 2 Tireless Tracker
@@ -383,11 +355,11 @@
 4 Blooming Marsh
 4 Traverse the Ulvenwald
 7 Forest
+1 Sign in Blood
 1 Nissa, Vital Force
 1 Duress
 1 Ugin, the Spirit Dragon
 1 Villainous Wealth
-1 Sign in Blood
 1 Beanstalk Giant
 2 Duress
 2 Seasons Past

@@ -1,30 +1,32 @@
-1 Collected Company
-2 Collected Company
-3 Collected Company
-4 Collected Company
-1 Lovestruck Beast
-1 Steel Leaf Champion
-2 Lovestruck Beast
-2 Steel Leaf Champion
-3 Lovestruck Beast
-3 Steel Leaf Champion
-4 Steel Leaf Champion
-1 The Great Henge
-1 Kraul Harpooner
-1 Ghalta, Primal Hunger
-1 Yorvo, Lord of Garenbrig
-1 Scavenging Ooze
-1 Rhonas the Indomitable
-2 The Great Henge
-2 Kraul Harpooner
-2 Rhonas the Indomitable
-2 Yorvo, Lord of Garenbrig
-2 Scavenging Ooze
-3 The Great Henge
-3 Yorvo, Lord of Garenbrig
-3 Kraul Harpooner
-4 Lovestruck Beast
-4 Kraul Harpooner
+1 Courser of Kruphix
+2 Wayward Swordtooth
+2 Nissa, Who Shakes the World
+2 Gilded Goose
+2 Courser of Kruphix
+3 Wayward Swordtooth
+3 Nissa, Who Shakes the World
+3 Courser of Kruphix
+4 Wayward Swordtooth
+1 Nissa's Pilgrimage
+2 Nissa's Pilgrimage
+3 Nissa's Pilgrimage
+4 Nissa's Pilgrimage
+4 Nissa, Who Shakes the World
+3 Gilded Goose
+1 Blast Zone
+1 Ulamog, the Ceaseless Hunger
+1 Cascading Cataracts
+1 Sanctum of Ugin
+1 Golos, Tireless Pilgrim
+1 World Breaker
+2 World Breaker
+2 Sanctum of Ugin
+3 Sanctum of Ugin
+3 World Breaker
+4 World Breaker
+1 Tireless Tracker
+2 Tireless Tracker
+2 Paradise Druid
 1 Cavalier of Thorns
 2 Cavalier of Thorns
 2 Nykthos, Shrine to Nyx
@@ -36,9 +38,8 @@
 2 Hashep Oasis
 3 Hashep Oasis
 3 Tireless Tracker
-4 Tireless Tracker
 4 Gilded Goose
-1 Paradise Druid
+4 Tireless Tracker
 4 Castle Garenbrig
 18 Forest
 1 Vivien, Arkbow Ranger
@@ -47,58 +48,29 @@
 1 Walking Ballista
 4 Hashep Oasis
 1 Phyrexian Revoker
-2 Paradise Druid
 3 Paradise Druid
 1 Aethersphere Harvester
+1 Rishkar, Peema Renegade
 1 Heart of Kiran
 1 Thrashing Brontodon
 1 Whisperwood Elemental
-1 Rishkar, Peema Renegade
 1 Karn, the Great Creator
 1 Hangarback Walker
 2 Heart of Kiran
-2 Walking Ballista
-2 Thrashing Brontodon
 2 Rishkar, Peema Renegade
+2 Thrashing Brontodon
 2 Karn, the Great Creator
+2 Walking Ballista
 2 Hangarback Walker
 3 Hangarback Walker
 3 Thrashing Brontodon
 3 Karn, the Great Creator
 3 Walking Ballista
-1 Burning-Tree Emissary
-2 Burning-Tree Emissary
-3 Burning-Tree Emissary
-4 Burning-Tree Emissary
-1 Radiant Fountain
-1 Hour of Promise
-1 Ugin, the Spirit Dragon
-1 Oblivion Sower
-1 Arboreal Grazer
-1 Shrine of the Forsaken Gods
-1 Ulvenwald Hydra
-1 Elvish Rejuvenator
-2 Hour of Promise
-2 Oblivion Sower
-2 Golos, Tireless Pilgrim
-2 Arboreal Grazer
-2 Elvish Rejuvenator
-2 Ugin, the Spirit Dragon
-2 Shrine of the Forsaken Gods
-2 Radiant Fountain
-3 Radiant Fountain
-3 Arboreal Grazer
-3 Shrine of the Forsaken Gods
-3 Ugin, the Spirit Dragon
-3 Elvish Rejuvenator
-4 Arboreal Grazer
-4 Ugin, the Spirit Dragon
-4 Shrine of the Forsaken Gods
-4 Elvish Rejuvenator
-4 Sanctum of Ugin
-1 Mutavault
-1 Evolving Wilds
+3 Rhonas the Indomitable
+4 The Great Henge
 1 Sylvan Advocate
+1 Evolving Wilds
+1 Mutavault
 1 Ramunap Excavator
 1 Fabled Passage
 1 Cryptic Caves
@@ -108,11 +80,41 @@
 2 Mutavault
 2 Fabled Passage
 3 Sylvan Advocate
-3 Fabled Passage
 3 Mutavault
+3 Fabled Passage
 4 Sylvan Advocate
-4 Fabled Passage
 4 Mutavault
+4 Fabled Passage
+1 Elvish Rejuvenator
+1 Shrine of the Forsaken Gods
+1 Radiant Fountain
+1 Hour of Promise
+1 Oblivion Sower
+1 Ugin, the Spirit Dragon
+1 Arboreal Grazer
+1 Ulvenwald Hydra
+2 Shrine of the Forsaken Gods
+2 Ugin, the Spirit Dragon
+2 Elvish Rejuvenator
+2 Hour of Promise
+2 Oblivion Sower
+2 Golos, Tireless Pilgrim
+2 Arboreal Grazer
+2 Radiant Fountain
+3 Elvish Rejuvenator
+3 Shrine of the Forsaken Gods
+3 Ugin, the Spirit Dragon
+3 Radiant Fountain
+3 Arboreal Grazer
+4 Elvish Rejuvenator
+4 Shrine of the Forsaken Gods
+4 Ugin, the Spirit Dragon
+4 Arboreal Grazer
+1 Burning-Tree Emissary
+2 Burning-Tree Emissary
+3 Burning-Tree Emissary
+4 Burning-Tree Emissary
+4 Sanctum of Ugin
 1 Arch of Orazca
 1 Finale of Devastation
 1 End-Raze Forerunners

@@ -25,10 +25,16 @@
 
 # Other Options
 
-|*n*<sup>th</sup> copy|                                       Maindeck Card                                        |*n*<sup>th</sup> copy|                                 Sideboard Card                                 |
-|--------------------:|--------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------|
-|                    3|[Grasp of Darkness](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407595)|                    3|[Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)|
-|                    3|[Fatal Push](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423724)       |                     |                                                                                |
-|                    4|[Grasp of Darkness](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407595)|                     |                                                                                |
-|                    4|[Fatal Push](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423724)       |                     |                                                                                |
+|*n*<sup>th</sup> copy|                                           Maindeck Card                                           |*n*<sup>th</sup> copy|                                     Sideboard Card                                      |
+|--------------------:|---------------------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------|
+|                    3|[Grasp of Darkness](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407595)       |                    4|[Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)         |
+|                    3|[Fatal Push](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423724)              |                    1|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)|
+|                    4|[Grasp of Darkness](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407595)       |                    2|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)|
+|                    4|[Fatal Push](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423724)              |                    3|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)|
+|                    1|Tymaret, Chosen from Death                                                                         |                    1|[Ritual of Soot](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452834)|
+|                    1|Pharika's Libation                                                                                 |                     |                                                                                         |
+|                    2|Pharika's Libation                                                                                 |                     |                                                                                         |
+|                    2|Tymaret, Chosen from Death                                                                         |                     |                                                                                         |
+|                    3|[Kalitas, Traitor of Ghet](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407596)|                     |                                                                                         |
+|                   14|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)                   |                     |                                                                                         |
 

@@ -29,6 +29,7 @@
 
 |*n*<sup>th</sup> copy|Maindeck Card|*n*<sup>th</sup> copy|                                     Sideboard Card                                      |
 |---------------------|-------------|--------------------:|-----------------------------------------------------------------------------------------|
+|                     |             |                    1|[Drop of Honey](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=944)    |
 |                     |             |                    1|[Dominate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405202)      |
 |                     |             |                    1|[Force of Vigor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464113)|
 
