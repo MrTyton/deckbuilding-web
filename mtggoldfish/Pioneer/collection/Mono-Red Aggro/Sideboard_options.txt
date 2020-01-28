@@ -30,11 +30,11 @@
 1 Castle Embereth
 2 Goblin Chainwhirler
 3 Goblin Chainwhirler
+4 Mutavault
 1 Burning Earth
 2 Burning Earth
 3 Burning Earth
 4 Burning Earth
-4 Mutavault
 1 Tormod's Crypt
 2 Tormod's Crypt
 3 Tormod's Crypt
@@ -51,6 +51,16 @@
 1 Exquisite Firecraft
 1 Abrade
 2 Abrade
+1 Leyline of the Void
+1 Kozilek's Return
+1 Smash to Smithereens
+1 Leyline of Combustion
+2 Leyline of the Void
+2 Smash to Smithereens
+2 Leyline of Combustion
+3 Leyline of the Void
+3 Smash to Smithereens
+4 Leyline of the Void
 1 Redcap Melee
 2 Redcap Melee
 4 Tormod's Crypt
@@ -61,13 +71,3 @@
 3 Eidolon of the Great Revel
 3 Lightning Axe
 4 Lightning Axe
-1 Kozilek's Return
-1 Leyline of Combustion
-1 Smash to Smithereens
-1 Leyline of the Void
-2 Leyline of Combustion
-2 Smash to Smithereens
-2 Leyline of the Void
-3 Smash to Smithereens
-3 Leyline of the Void
-4 Leyline of the Void

@@ -6,21 +6,22 @@
 1 Swamp
 1 Urborg, Tomb of Yawgmoth
 1 Questing Beast
-2 Murderous Rider
 2 Swamp
+2 Murderous Rider
 2 Questing Beast
+1 Gather the Pack
 1 Sylvan Caryatid
 1 Nullhide Ferox
 1 Grisly Salvage
 1 Soulflayer
 1 Zetalpa, Primal Dawn
-1 Gather the Pack
+2 Gather the Pack
 2 Soulflayer
 2 Sylvan Caryatid
 2 Zetalpa, Primal Dawn
 2 Grisly Salvage
-2 Gather the Pack
 2 Lotleth Troll
+3 Swamp
 3 Murderous Rider
 3 Soulflayer
 3 Zetalpa, Primal Dawn
@@ -29,7 +30,6 @@
 3 Questing Beast
 3 Sylvan Caryatid
 3 Grisly Salvage
-3 Swamp
 4 Murderous Rider
 4 Sylvan Caryatid
 4 Gather the Pack
@@ -69,8 +69,8 @@
 1 Rotting Regisaur
 2 Steel Leaf Champion
 2 Scrapheap Scrounger
-2 Rotting Regisaur
 2 The Great Henge
+2 Rotting Regisaur
 3 Scrapheap Scrounger
 3 Rotting Regisaur
 3 The Great Henge
@@ -103,11 +103,11 @@
 3 Thought-Knot Seer
 4 Thought-Knot Seer
 1 Vampire of the Dire Moon
-1 Nykthos, Shrine to Nyx
-2 Vraska, Golgari Queen
 1 Inventors' Fair
 1 Verdurous Gearhulk
 2 Verdurous Gearhulk
+1 Nykthos, Shrine to Nyx
+2 Vraska, Golgari Queen
 1 Sea Gate Wreckage
 1 Avatar of the Resolute
 2 Avatar of the Resolute
@@ -117,19 +117,19 @@
 1 Rankle, Master of Pranks
 2 Temple of Malady
 1 Grapple with the Past
-2 Satyr Wayfinder
 2 Grapple with the Past
-3 Satyr Wayfinder
+2 Satyr Wayfinder
 3 Grapple with the Past
+3 Satyr Wayfinder
 1 Watery Grave
 2 Watery Grave
 3 Watery Grave
 3 Rishkar, Peema Renegade
 4 Watery Grave
+1 Unclaimed Territory
 1 Growth-Chamber Guardian
 1 Reality Smasher
 1 Kiora, Behemoth Beckoner
-1 Unclaimed Territory
 2 Growth-Chamber Guardian
 2 Reality Smasher
 2 Kiora, Behemoth Beckoner
@@ -139,34 +139,34 @@
 3 Reality Smasher
 3 Unclaimed Territory
 4 Growth-Chamber Guardian
+4 Unclaimed Territory
 4 Hashep Oasis
 4 Reality Smasher
-4 Unclaimed Territory
 4 Vivien, Arkbow Ranger
+1 Assassin's Trophy
+1 Vivien, Champion of the Wilds
 1 Ifnir Deadlands
 1 Tireless Tracker
-1 Vivien, Champion of the Wilds
-1 Assassin's Trophy
 1 Despise
 1 Thoughtseize
 1 Brain Maggot
 1 Field of Ruin
 1 Wasteland Strangler
 2 Fatal Push
+2 Castle Locthwain
 2 Assassin's Trophy
 2 Tireless Tracker
 2 Thoughtseize
 2 Field of Ruin
 2 Brain Maggot
 2 Wasteland Strangler
-2 Castle Locthwain
 3 Field of Ruin
-3 Tireless Tracker
 3 Fatal Push
-3 Thoughtseize
 3 Scavenging Ooze
+3 Thoughtseize
 3 Brain Maggot
 3 Wasteland Strangler
+3 Tireless Tracker
 4 Thoughtseize
 4 Fatal Push
 4 Brain Maggot

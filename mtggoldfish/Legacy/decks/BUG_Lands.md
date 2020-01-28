@@ -40,6 +40,6 @@
 |*n*<sup>th</sup> copy|                                           Maindeck Card                                           |*n*<sup>th</sup> copy|Sideboard Card|
 |--------------------:|---------------------------------------------------------------------------------------------------|---------------------|--------------|
 |                    2|[Exploration](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382262)             |                     |              |
-|                    1|[Sylvan Library](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=2240)            |                     |              |
 |                    2|[Urborg, Tomb of Yawgmoth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383425)|                     |              |
+|                    1|[Sylvan Library](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=2240)            |                     |              |
 

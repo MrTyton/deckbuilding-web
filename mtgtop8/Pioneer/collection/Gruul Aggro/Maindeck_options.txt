@@ -1,11 +1,5 @@
-2 Burning-Tree Emissary
-3 Burning-Tree Emissary
-4 Burning-Tree Emissary
-3 Questing Beast
-1 Rekindling Phoenix
-2 Rekindling Phoenix
-2 Rhonas the Indomitable
-1 Chandra, Torch of Defiance
+3 Glorybringer
+2 Domri, Anarch of Bolas
 1 Voltaic Brawler
 2 Voltaic Brawler
 3 Voltaic Brawler
@@ -16,7 +10,6 @@
 1 Hazoret the Fervent
 1 Blossoming Defense
 1 Hashep Oasis
-2 Hashep Oasis
 1 Pelt Collector
 1 Experiment One
 2 Pelt Collector
@@ -25,76 +18,78 @@
 3 Experiment One
 4 Pelt Collector
 4 Experiment One
+4 Glorybringer
+3 Questing Beast
+2 Blossoming Defense
+2 Hashep Oasis
 1 Goblin Rabblemaster
 1 Wild Slash
 2 Goblin Rabblemaster
 2 Wild Slash
-1 Kiora, Behemoth Beckoner
-1 Domri Rade
+1 Rekindling Phoenix
+2 Rekindling Phoenix
 1 Steel Leaf Champion
 2 Steel Leaf Champion
+1 Kiora, Behemoth Beckoner
+2 Rhonas the Indomitable
 3 Goblin Rabblemaster
 4 Goblin Rabblemaster
 1 Collected Company
 2 Collected Company
 3 Collected Company
+1 Chandra, Torch of Defiance
 2 Chandra, Torch of Defiance
 3 Wild Slash
-2 Blossoming Defense
+2 Hazoret the Fervent
+3 Embercleave
 3 Steel Leaf Champion
-3 Rekindling Phoenix
 3 Ghor-Clan Rampager
-3 Domri, Anarch of Bolas
+4 Zhur-Taa Goblin
+1 Domri Rade
+9 Forest
 1 Gilded Goose
 2 Gilded Goose
 1 Ramunap Ruins
 2 Ramunap Ruins
 1 Domri's Ambush
 2 Domri's Ambush
-2 Hazoret the Fervent
 3 Hashep Oasis
 3 Blossoming Defense
-3 Embercleave
 1 Heart of Kiran
 2 Heart of Kiran
-2 Domri Rade
-4 Steel Leaf Champion
 3 Gilded Goose
-1 Lava Coil
-2 Lava Coil
+3 Domri, Anarch of Bolas
 2 Kiora, Behemoth Beckoner
 3 Kiora, Behemoth Beckoner
 1 Scavenging Ooze
 2 Scavenging Ooze
 1 Shared Summons
 1 Walking Ballista
-1 Possibility Storm
 1 Enter the Infinite
 1 Borborygmos Enraged
+1 Possibility Storm
 2 Possibility Storm
 3 Possibility Storm
 4 Possibility Storm
-1 Sheltered Thicket
-2 Sheltered Thicket
-4 Rekindling Phoenix
-9 Forest
+3 Rekindling Phoenix
+2 Domri Rade
+4 Steel Leaf Champion
 4 Ghor-Clan Rampager
-4 Zhur-Taa Goblin
 1 Reckless Bushwhacker
 2 Reckless Bushwhacker
 3 Reckless Bushwhacker
 4 Reckless Bushwhacker
-1 Collision / Colossus
-2 Collision / Colossus
 4 Collected Company
 1 Legion Warboss
 2 Legion Warboss
 3 Legion Warboss
 4 Legion Warboss
-1 Atarka's Command
+1 Collision / Colossus
+2 Collision / Colossus
 1 Zurgo Bellstriker
-2 Atarka's Command
+1 Atarka's Command
 2 Zurgo Bellstriker
+2 Atarka's Command
 3 Atarka's Command
 4 Atarka's Command
 4 Wild Slash
@@ -105,12 +100,14 @@
 3 Goblin Chainwhirler
 7 Mountain
 1 Mutavault
+1 Lava Coil
 2 Mutavault
+2 Lava Coil
 1 Geier Reach Sanitarium
-1 Gallia of the Endless Dance
-1 Crater's Claws
 1 Bomat Courier
 1 Fling
+1 Gallia of the Endless Dance
+1 Crater's Claws
 1 Whisperwood Elemental
 2 Whisperwood Elemental
 3 Rhonas the Indomitable
@@ -120,15 +117,18 @@
 1 Incendiary Flow
 2 Incendiary Flow
 3 Incendiary Flow
-1 Mizzium Mortars
-2 Mizzium Mortars
-3 Mizzium Mortars
 1 Abrade
 1 Thrash / Threat
 2 Abrade
 2 Thrash / Threat
 3 Domri Rade
 4 Questing Beast
+1 Sheltered Thicket
+1 Mizzium Mortars
+2 Sheltered Thicket
+2 Mizzium Mortars
+3 Mizzium Mortars
+4 Rekindling Phoenix
 1 Krenko, Tin Street Kingpin
 1 Metallic Mimic
 1 Grumgully, the Generous
@@ -142,9 +142,9 @@
 3 Grumgully, the Generous
 4 Metallic Mimic
 4 Blossoming Defense
-1 Collateral Damage
 1 Goblin Instigator
 1 Monastery Swiftspear
+1 Collateral Damage
 1 Foundry Street Denizen
 1 Dragon Fodder
 1 Wolf's Quarry
@@ -170,11 +170,6 @@
 3 Chandra, Torch of Defiance
 3 Captain Lannery Storm
 4 Captain Lannery Storm
-1 Xenagos, God of Revels
-1 Shifting Ceratops
-2 Shifting Ceratops
-3 Lava Coil
-4 Lava Coil
 1 Torbran, Thane of Red Fell
 1 Soul-Scar Mage
 2 Torbran, Thane of Red Fell
@@ -183,15 +178,15 @@
 3 Torbran, Thane of Red Fell
 3 Collision / Colossus
 3 Soul-Scar Mage
-4 Ramunap Ruins
 4 Torbran, Thane of Red Fell
+4 Ramunap Ruins
 4 Goblin Chainwhirler
 4 Soul-Scar Mage
-1 Flamewake Phoenix
 1 Fervent Champion
+1 Flamewake Phoenix
 1 Dwarven Mine
-1 Kari Zev's Expertise
 1 Chandra, Acolyte of Flame
+1 Kari Zev's Expertise
 1 Legion Loyalist
 1 Bloodrage Brawler
 1 Cinder Glade
