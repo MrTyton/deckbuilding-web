@@ -1,48 +1,177 @@
-2 Kolaghan's Command
-3 Fatal Push
-4 Inquisition of Kozilek
-1 Abrupt Decay
-2 Overgrown Tomb
-2 Scavenging Ooze
-3 Blackcleave Cliffs
-4 Bloodstained Mire
-1 Nurturing Peatland
 1 Forest
 1 Mountain
-3 Lightning Bolt
-1 Chandra, Torch of Defiance
-2 Chandra, Torch of Defiance
+1 Verdant Catacombs
+2 Verdant Catacombs
+4 Once Upon a Time
 1 Swamp
+1 Kolaghan's Command
+1 Thoughtseize
+2 Thoughtseize
+2 Wooded Foothills
+3 Wooded Foothills
+1 Blood Moon
 1 Seasoned Pyromancer
 2 Forest
+2 Blood Moon
 2 Seasoned Pyromancer
 3 Seasoned Pyromancer
 3 Forest
 4 Wooded Foothills
-3 Snow-Covered Forest
-1 Barren Moor
-2 Barren Moor
-1 Terminate
-1 Vraska, Golgari Queen
-1 Tireless Tracker
-2 Tireless Tracker
-2 Vraska, Golgari Queen
+1 Scavenging Ooze
+1 Abrupt Decay
+1 Fatal Push
 1 Huntmaster of the Fells
+1 Inquisition of Kozilek
+1 Tarmogoyf
+1 Wrenn and Six
+1 Raging Ravine
 1 Go for the Throat
 2 Abrupt Decay
+2 Overgrown Tomb
+2 Fatal Push
 2 Go for the Throat
 2 Raging Ravine
+2 Scavenging Ooze
+2 Kolaghan's Command
+2 Inquisition of Kozilek
+2 Tarmogoyf
+2 Wrenn and Six
 2 Huntmaster of the Fells
 3 Kolaghan's Command
+3 Fatal Push
+3 Wrenn and Six
+3 Blackcleave Cliffs
 3 Huntmaster of the Fells
+3 Inquisition of Kozilek
+3 Tarmogoyf
+3 Thoughtseize
+3 Verdant Catacombs
+4 Inquisition of Kozilek
+4 Thoughtseize
 4 Fatal Push
+4 Tarmogoyf
 4 Kolaghan's Command
-1 Simian Spirit Guide
-2 Simian Spirit Guide
-1 Once Upon a Time
-2 Once Upon a Time
-3 Once Upon a Time
-4 Once Upon a Time
+4 Verdant Catacombs
+1 Blast Zone
+1 Smuggler's Copter
+1 Serum Powder
+1 Dismember
+1 Chalice of the Void
+1 Mutavault
+1 Llanowar Wastes
+1 Reality Smasher
+1 Wastes
+1 Gemstone Caverns
+1 Thought-Knot Seer
+1 Cavern of Souls
+1 Eternal Scourge
+1 Eldrazi Temple
+1 Ghost Quarter
+1 Eldrazi Mimic
+1 Matter Reshaper
+2 Cavern of Souls
+2 Serum Powder
+2 Thought-Knot Seer
+2 Mutavault
+2 Dismember
+2 Reality Smasher
+2 Eternal Scourge
+2 Matter Reshaper
+2 Blast Zone
+2 Ghost Quarter
+2 Chalice of the Void
+2 Eldrazi Temple
+2 Llanowar Wastes
+2 Eldrazi Mimic
+3 Serum Powder
+3 Mutavault
+3 Thought-Knot Seer
+3 Eternal Scourge
+3 Dismember
+3 Matter Reshaper
+3 Eldrazi Mimic
+3 Chalice of the Void
+3 Eldrazi Temple
+3 Llanowar Wastes
+3 Reality Smasher
+3 Ghost Quarter
+4 Chalice of the Void
+4 Reality Smasher
+4 Eternal Scourge
+4 Llanowar Wastes
+4 Eldrazi Mimic
+4 Thought-Knot Seer
+4 Matter Reshaper
+4 Eldrazi Temple
+1 Temple of Malice
+1 Nurturing Peatland
+1 Sweltering Suns
+1 Ilharg, the Raze-Boar
+1 Emrakul, the Aeons Torn
+1 Generator Servant
+1 Pentad Prism
+2 Swamp
+2 Ilharg, the Raze-Boar
+2 Emrakul, the Aeons Torn
+2 Mountain
+2 Pentad Prism
+2 Generator Servant
+2 Blood Crypt
+3 Emrakul, the Aeons Torn
+3 Pentad Prism
+3 Generator Servant
+3 Ilharg, the Raze-Boar
+4 Emrakul, the Aeons Torn
+4 Ilharg, the Raze-Boar
+2 Stomping Ground
+1 Sunbaked Canyon
+1 Copperline Gorge
+1 Skewer the Critics
+1 Soul-Scar Mage
+1 Atarka's Command
+1 Lava Spike
+1 Lightning Bolt
+1 Lava Dart
+1 Eidolon of the Great Revel
+1 Seal of Fire
+1 Monastery Swiftspear
+1 Light Up the Stage
+1 Goblin Guide
+2 Sunbaked Canyon
+2 Copperline Gorge
+2 Skewer the Critics
+2 Goblin Guide
+2 Lava Dart
+2 Lava Spike
+2 Atarka's Command
+2 Soul-Scar Mage
+2 Monastery Swiftspear
+2 Eidolon of the Great Revel
+2 Light Up the Stage
+2 Lightning Bolt
+3 Copperline Gorge
+3 Skewer the Critics
+3 Sunbaked Canyon
+3 Eidolon of the Great Revel
+3 Lightning Bolt
+3 Light Up the Stage
+3 Lava Spike
+3 Monastery Swiftspear
+3 Atarka's Command
+3 Goblin Guide
+3 Soul-Scar Mage
+3 Lava Dart
+4 Copperline Gorge
+4 Skewer the Critics
+4 Sunbaked Canyon
+4 Lightning Bolt
+4 Monastery Swiftspear
+4 Eidolon of the Great Revel
+4 Lava Spike
+4 Atarka's Command
+4 Goblin Guide
+4 Soul-Scar Mage
+4 Light Up the Stage
 1 Utopia Sprawl
 1 Arbor Elf
 1 Mwonvuli Acid-Moss
@@ -55,160 +184,22 @@
 4 Mwonvuli Acid-Moss
 4 Arbor Elf
 4 Utopia Sprawl
-3 Simian Spirit Guide
-4 Simian Spirit Guide
-1 Blast Zone
-1 Smuggler's Copter
-1 Gemstone Caverns
-1 Serum Powder
-1 Chalice of the Void
-1 Dismember
-1 Mutavault
-1 Llanowar Wastes
-1 Reality Smasher
-1 Wastes
-1 Thought-Knot Seer
-1 Cavern of Souls
-1 Eternal Scourge
-1 Eldrazi Temple
-1 Eldrazi Mimic
-1 Ghost Quarter
-1 Matter Reshaper
-2 Cavern of Souls
-2 Chalice of the Void
-2 Serum Powder
-2 Dismember
-2 Mutavault
-2 Reality Smasher
-2 Thought-Knot Seer
-2 Eternal Scourge
-2 Matter Reshaper
-2 Ghost Quarter
-2 Eldrazi Temple
-2 Blast Zone
-2 Llanowar Wastes
-2 Eldrazi Mimic
-3 Chalice of the Void
-3 Serum Powder
-3 Mutavault
-3 Thought-Knot Seer
-3 Eternal Scourge
-3 Matter Reshaper
-3 Eldrazi Mimic
-3 Eldrazi Temple
-3 Reality Smasher
-3 Dismember
-3 Ghost Quarter
-3 Llanowar Wastes
-4 Chalice of the Void
-4 Reality Smasher
-4 Eternal Scourge
-4 Llanowar Wastes
-4 Eldrazi Mimic
-4 Thought-Knot Seer
-4 Matter Reshaper
-4 Eldrazi Temple
-1 Boom/Bust
-3 Prismatic Vista
-4 Blackcleave Cliffs
-4 Prismatic Vista
-1 Temple of Malice
-1 Through the Breach
-1 Insolent Neonate
-1 Goryo's Vengeance
-1 Sweltering Suns
-1 Ilharg, the Raze-Boar
-1 Emrakul, the Aeons Torn
-1 Merchant of the Vale
-1 Griselbrand
-1 Generator Servant
-1 Pentad Prism
-2 Swamp
-2 Insolent Neonate
-2 Through the Breach
-2 Ilharg, the Raze-Boar
-2 Emrakul, the Aeons Torn
-2 Griselbrand
-2 Goryo's Vengeance
-2 Mountain
-2 Pentad Prism
-2 Generator Servant
-2 Blood Crypt
-3 Insolent Neonate
-3 Griselbrand
-3 Through the Breach
-3 Pentad Prism
-3 Goryo's Vengeance
-3 Generator Servant
-3 Ilharg, the Raze-Boar
-3 Emrakul, the Aeons Torn
-4 Insolent Neonate
-4 Through the Breach
-4 Griselbrand
-4 Goryo's Vengeance
-4 Emrakul, the Aeons Torn
-4 Ilharg, the Raze-Boar
-2 Stomping Ground
-1 Sunbaked Canyon
-1 Copperline Gorge
-1 Skewer the Critics
-1 Eidolon of the Great Revel
-1 Soul-Scar Mage
-1 Atarka's Command
-1 Lava Spike
-1 Lava Dart
-1 Seal of Fire
-1 Goblin Guide
-1 Monastery Swiftspear
-1 Light Up the Stage
-2 Sunbaked Canyon
-2 Copperline Gorge
-2 Eidolon of the Great Revel
-2 Skewer the Critics
-2 Goblin Guide
-2 Lava Dart
-2 Lava Spike
-2 Snow-Covered Mountain
-2 Atarka's Command
-2 Soul-Scar Mage
-2 Monastery Swiftspear
-2 Light Up the Stage
-3 Copperline Gorge
-3 Eidolon of the Great Revel
-3 Skewer the Critics
-3 Sunbaked Canyon
-3 Light Up the Stage
-3 Lava Spike
-3 Snow-Covered Mountain
-3 Atarka's Command
-3 Soul-Scar Mage
-3 Goblin Guide
-3 Monastery Swiftspear
-3 Lava Dart
-4 Copperline Gorge
-4 Skewer the Critics
-4 Sunbaked Canyon
-4 Monastery Swiftspear
-4 Lightning Bolt
-4 Eidolon of the Great Revel
-4 Goblin Guide
-4 Lava Spike
-4 Atarka's Command
-4 Soul-Scar Mage
-4 Light Up the Stage
+1 Chandra, Torch of Defiance
 1 Pillage
 1 Chandra, Awakened Inferno
 1 Platinum Emperion
 1 Windswept Heath
 1 Madcap Experiment
+2 Chandra, Torch of Defiance
 2 Chandra, Awakened Inferno
 2 Pillage
 2 Madcap Experiment
 2 Platinum Emperion
 2 Windswept Heath
-3 Stomping Ground
 3 Pillage
+3 Blood Moon
 3 Platinum Emperion
+3 Stomping Ground
 3 Madcap Experiment
 3 Windswept Heath
 4 Seasoned Pyromancer
@@ -222,20 +213,21 @@
 6 Forest
 7 Forest
 8 Forest
+1 Snow-Covered Forest
 1 Nissa, Vastwood Seer
 1 Eternal Witness
-1 Walking Ballista
+1 Ramunap Excavator
 1 Primal Command
 1 Acidic Slime
-1 Ramunap Excavator
 1 Hornet Queen
+1 Field of Ruin
 1 Castle Garenbrig
+1 Shriekmaw
 1 Trinisphere
 1 Magus of the Moon
+1 Walking Ballista
 1 Birds of Paradise
-1 Shriekmaw
 1 Ohran Viper
-1 Field of Ruin
 2 Primal Command
 2 Eternal Witness
 2 Acidic Slime
@@ -244,7 +236,9 @@
 2 Birds of Paradise
 2 Walking Ballista
 2 Ohran Viper
+2 Snow-Covered Forest
 3 Birds of Paradise
+3 Snow-Covered Forest
 3 Eternal Witness
 3 Primal Command
 4 Snow-Covered Forest

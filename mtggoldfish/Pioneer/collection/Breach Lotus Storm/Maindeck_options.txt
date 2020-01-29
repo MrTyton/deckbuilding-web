@@ -1,12 +1,13 @@
+1 Fae of Wishes
 3 Yavimaya Coast
 1 Spirebluff Canal
 2 Spirebluff Canal
 3 Spirebluff Canal
 4 Spirebluff Canal
-1 Steam Vents
 1 Discovery/Dispersal
 1 Shivan Reef
 1 Opt
+1 Steam Vents
 1 Compelling Argument
 1 Baral, Chief of Compliance
 2 Discovery/Dispersal
@@ -16,8 +17,8 @@
 2 Island
 2 Opt
 2 Baral, Chief of Compliance
-3 Baral, Chief of Compliance
 3 Steam Vents
+3 Baral, Chief of Compliance
 3 Island
 3 Opt
 3 Compelling Argument
@@ -28,18 +29,17 @@
 5 Island
 6 Island
 7 Island
+4 Arboreal Grazer
 1 Temple of Epiphany
 2 Temple of Epiphany
 3 Discovery/Dispersal
 4 Discovery/Dispersal
 8 Island
-1 Unsubstantiate
 1 Cathartic Reunion
 1 Goblin Electromancer
+1 Unsubstantiate
 2 Cathartic Reunion
 4 Compelling Argument
-4 Arboreal Grazer
-1 Fae of Wishes
 4 Yavimaya Coast
 1 Expansion/Explosion
 1 Stomping Ground
@@ -56,12 +56,15 @@
 1 Taigam's Scheming
 1 Contingency Plan
 2 Taigam's Scheming
+1 Mountain
+2 Mountain
+2 Goblin Electromancer
+3 Cathartic Reunion
+3 Goblin Electromancer
+3 Shivan Reef
 1 Commune with Dinosaurs
 2 Commune with Dinosaurs
 3 Commune with Dinosaurs
-1 Jace, Wielder of Mysteries
-1 Blink of an Eye
-3 Thassa's Oracle
 1 Sheltered Thicket
 1 Breeding Pool
 2 Fae of Wishes
@@ -71,9 +74,6 @@
 2 Wolfwillow Haven
 3 Wolfwillow Haven
 4 Wolfwillow Haven
-1 Mountain
-2 Goblin Electromancer
-2 Mountain
-3 Cathartic Reunion
-3 Goblin Electromancer
-3 Shivan Reef
+1 Blink of an Eye
+1 Jace, Wielder of Mysteries
+3 Thassa's Oracle

@@ -29,11 +29,3 @@
 |                                                                                         |                                                                                           |1 [Tendrils of Agony](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45842)   |
 |                                                                                         |                                                                                           |1 [Trash for Treasure](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420753) |
 
-
-# Other Options
-
-|*n*<sup>th</sup> copy|Maindeck Card|*n*<sup>th</sup> copy|                                     Sideboard Card                                     |
-|---------------------|-------------|--------------------:|----------------------------------------------------------------------------------------|
-|                     |             |                    1|[Autumn's Veil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205051)|
-|                     |             |                    2|[Autumn's Veil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205051)|
-

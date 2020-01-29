@@ -5,8 +5,8 @@
 1 Plateau
 1 Bonecrusher Giant
 1 Kolaghan's Command
-1 Young Pyromancer
 1 Hymn to Tourach
+1 Young Pyromancer
 1 Bedlam Reveler
 1 Lightning Bolt
 1 Liliana, the Last Hope
@@ -19,10 +19,10 @@
 2 Bonecrusher Giant
 2 Arid Mesa
 2 Hymn to Tourach
-2 Young Pyromancer
-2 Lightning Bolt
 2 Plateau
+2 Young Pyromancer
 2 Bedlam Reveler
+2 Lightning Bolt
 2 Mishra's Bauble
 2 Lingering Souls
 2 Kolaghan's Command
@@ -70,12 +70,12 @@
 2 Swords to Plowshares
 3 Swords to Plowshares
 1 Verdant Catacombs
-1 Knight of the Reliquary
-1 Thalia, Guardian of Thraben
-1 Plains
 1 Horizon Canopy
+1 Knight of the Reliquary
+1 Plains
 1 Forest
 1 Ramunap Excavator
+1 Thalia, Guardian of Thraben
 1 Birds of Paradise
 1 Noble Hierarch
 1 Stoneforge Mystic
@@ -84,19 +84,19 @@
 1 Umezawa's Jitte
 1 Qasali Pridemage
 1 Gaddock Teeg
-1 Maze of Ith
 1 Sword of Fire and Ice
 1 Green Sun's Zenith
 1 Dryad Arbor
 1 Windswept Heath
 1 Questing Beast
 1 Tireless Tracker
+1 Maze of Ith
 1 Scavenging Ooze
 1 Scryb Ranger
 1 Gaea's Cradle
 2 Verdant Catacombs
-2 Thalia, Guardian of Thraben
 2 Knight of the Reliquary
+2 Thalia, Guardian of Thraben
 2 Noble Hierarch
 2 Stoneforge Mystic
 2 Savannah
@@ -104,12 +104,12 @@
 2 Green Sun's Zenith
 2 Forest
 3 Verdant Catacombs
-3 Thalia, Guardian of Thraben
 3 Knight of the Reliquary
 3 Giver of Runes
 3 Noble Hierarch
-3 Windswept Heath
+3 Thalia, Guardian of Thraben
 3 Stoneforge Mystic
+3 Windswept Heath
 3 Savannah
 3 Green Sun's Zenith
 4 Knight of the Reliquary
@@ -119,7 +119,6 @@
 4 Green Sun's Zenith
 4 Noble Hierarch
 1 Charming Prince
-1 Remorseful Cleric
 1 Tundra
 1 Snow-Covered Plains
 1 Palace Jailer
@@ -127,6 +126,7 @@
 1 Mother of Runes
 1 Flickerwisp
 1 Aether Vial
+1 Remorseful Cleric
 1 Leonin Relic-Warder
 1 Peacekeeper
 1 Meddling Mage
@@ -151,18 +151,18 @@
 1 Murderous Cut
 1 Changeling Outcast
 1 Preordain
-2 Snow-Covered Swamp
 2 Snow-Covered Island
+2 Snow-Covered Swamp
 2 Preordain
 2 Changeling Outcast
 3 Changeling Outcast
 3 Preordain
 3 Snow-Covered Island
+4 Preordain
 4 Prismatic Vista
 4 Changeling Outcast
 4 Snow-Covered Island
 4 Ingenious Infiltrator
-4 Preordain
 4 Ornithopter
 4 Retrofitter Foundry
 1 Delver of Secrets
@@ -182,17 +182,18 @@
 3 True-Name Nemesis
 3 Pteramander
 3 Curious Obsession
-4 Delver of Secrets
 4 Spell Pierce
+4 Delver of Secrets
+4 Island
 4 Stifle
 4 Daze
-4 Island
 4 Curious Obsession
 4 Pteramander
 4 True-Name Nemesis
 5 Island
 6 Island
 1 Simian Spirit Guide
+1 Great Furnace
 1 Red Elemental Blast
 1 Ancient Tomb
 1 Imperial Recruiter
@@ -201,7 +202,6 @@
 1 Goblin Welder
 1 Chandra, Torch of Defiance
 1 Karn, the Great Creator
-1 Great Furnace
 1 Ichor Wellspring
 1 Goblin Engineer
 1 Ensnaring Bridge
@@ -211,13 +211,13 @@
 1 Lotus Petal
 2 Mountain
 2 Simian Spirit Guide
+2 Great Furnace
 2 Blood Moon
 2 Red Elemental Blast
 2 Ancient Tomb
 2 Goblin Welder
 2 Smuggler's Copter
 2 Painter's Servant
-2 Great Furnace
 2 Goblin Engineer
 2 City of Traitors
 2 Karn, the Great Creator
@@ -226,11 +226,11 @@
 2 Grindstone
 3 Mountain
 3 Simian Spirit Guide
+3 Great Furnace
 3 Pyroblast
 3 Karn, the Great Creator
 3 Grindstone
 3 Ancient Tomb
-3 Great Furnace
 3 City of Traitors
 3 Goblin Welder
 3 Blood Moon

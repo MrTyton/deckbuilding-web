@@ -2,7 +2,7 @@
 
 #### [Export MTGO List](../collection/Sultai%20Midrange/Sultai%20Midrange.txt)
 #### [Export Arena List](../collection/Sultai%20Midrange/Sultai%20Midrange_arena.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Breeding%20Pool%0A3%09Casualties%20of%20War%0A4%09Cavalier%20of%20Thorns%0A4%09Fabled%20Passage%0A4%09Forest%0A4%09Growth%20Spiral%0A3%09Hydroid%20Krasis%0A2%09Island%0A1%09Jace,%20Wielder%20of%20Mysteries%0A4%09Overgrown%20Tomb%0A4%09Paradise%20Druid%0A4%09Polukranos,%20Unchained%0A1%09Swamp%0A2%09Tamiyo,%20Collector%20of%20Tales%0A4%09Temple%20of%20Mystery%0A4%09Thought%20Erasure%0A4%09Uro,%20Titan%20of%20Nature's%20Wrath%0A4%09Watery%20Grave&deckside=4%09Aether%20Gust%0A3%09Lovestruck%20Beast%0A4%09Mystical%20Dispute%0A2%09Noxious%20Grasp%0A2%09Shifting%20Ceratops)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Breeding%20Pool%0A3%09Casualties%20of%20War%0A4%09Cavalier%20of%20Thorns%0A4%09Fabled%20Passage%0A4%09Forest%0A4%09Growth%20Spiral%0A3%09Hydroid%20Krasis%0A2%09Island%0A1%09Jace,%20Wielder%20of%20Mysteries%0A4%09Overgrown%20Tomb%0A4%09Paradise%20Druid%0A4%09Polukranos,%20Unchained%0A1%09Swamp%0A2%09Tamiyo,%20Collector%20of%20Tales%0A4%09Temple%20of%20Mystery%0A4%09Thought%20Erasure%0A4%09Uro,%20Titan%20of%20Nature's%20Wrath%0A4%09Watery%20Grave&deckside=4%09Agonizing%20Remorse%0A4%09Epic%20Downfall%0A4%09Lovestruck%20Beast%0A3%09Negate)
 # Maindeck
 
 |                                         Creature (11)                                         |                                       Instant (4)                                        |                                          Land (27)                                           |                                           Planeswalker (3)                                            |                                         Sorcery (7)                                          |         Unknown (8)          |
@@ -19,27 +19,25 @@
 
 # Sideboard
 
-|                                         Creature (5)                                         |                                        Instant (10)                                         |
-|----------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|
-|3 [Lovestruck Beast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473127) |4 [Aether Gust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466796)     |
-|2 [Shifting Ceratops](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466948)|4 [Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)|
-|                                                                                              |2 [Noxious Grasp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466864)   |
+|                                        Creature (4)                                         |                                    Instant (3)                                    |                                       Sorcery (4)                                        |    Unknown (4)    |
+|---------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|-------------------|
+|4 [Lovestruck Beast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473127)|3 [Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)|4 [Epic Downfall](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473047)|4 Agonizing Remorse|
 
 
 # Other Options
 
-|*n*<sup>th</sup> copy|                                            Maindeck Card                                             |*n*<sup>th</sup> copy|                                      Sideboard Card                                       |
-|--------------------:|------------------------------------------------------------------------------------------------------|--------------------:|-------------------------------------------------------------------------------------------|
-|                    1|[Temple of Malady](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=380515)           |                    1|[Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)          |
-|                    1|[Nissa, Who Shakes the World](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461096)|                    1|[Epic Downfall](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473047)   |
-|                    1|[Arboreal Grazer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461076)            |                    1|Agonizing Remorse                                                                          |
-|                    2|[Temple of Malady](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=380515)           |                    2|[Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)          |
-|                    2|[Nissa, Who Shakes the World](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461096)|                    2|Agonizing Remorse                                                                          |
-|                    2|[Arboreal Grazer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461076)            |                    2|[Epic Downfall](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473047)   |
-|                    2|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)                      |                    3|[Epic Downfall](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473047)   |
-|                    3|[Nissa, Who Shakes the World](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461096)|                    3|Agonizing Remorse                                                                          |
-|                    4|[Nissa, Who Shakes the World](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461096)|                    3|[Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)          |
-|                    4|[Hydroid Krasis](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457327)             |                    4|Agonizing Remorse                                                                          |
-|                    4|[Casualties of War](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461114)          |                    4|[Epic Downfall](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473047)   |
-|                     |                                                                                                      |                    4|[Lovestruck Beast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473127)|
+|*n*<sup>th</sup> copy|                                            Maindeck Card                                             |*n*<sup>th</sup> copy|                                       Sideboard Card                                       |
+|--------------------:|------------------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------|
+|                    1|[Temple of Malady](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=380515)           |                    1|[Aether Gust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466796)      |
+|                    1|[Arboreal Grazer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461076)            |                    1|[Shifting Ceratops](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466948)|
+|                    1|[Nissa, Who Shakes the World](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461096)|                    1|[Noxious Grasp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466864)    |
+|                    2|[Temple of Malady](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=380515)           |                    1|[Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020) |
+|                    2|[Arboreal Grazer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461076)            |                    2|[Noxious Grasp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466864)    |
+|                    2|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)                      |                    2|[Aether Gust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466796)      |
+|                    2|[Nissa, Who Shakes the World](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461096)|                    2|[Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020) |
+|                    3|[Nissa, Who Shakes the World](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461096)|                    2|[Shifting Ceratops](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466948)|
+|                    4|[Hydroid Krasis](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457327)             |                    3|[Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020) |
+|                    4|[Nissa, Who Shakes the World](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461096)|                    3|[Aether Gust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466796)      |
+|                    4|[Casualties of War](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461114)          |                    4|[Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020) |
+|                     |                                                                                                      |                    4|[Aether Gust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466796)      |
 

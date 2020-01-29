@@ -1,0 +1,44 @@
+# BG
+
+#### [Export MTGO List](../collection/BG/BG.txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Blooming%20Marsh%0A3%09Cavern%20of%20Souls%0A4%09Collected%20Company%0A4%09Dwynen's%20Elite%0A4%09Elvish%20Archdruid%0A4%09Elvish%20Clancaller%0A4%09Elvish%20Mystic%0A2%09Ezuri,%20Renegade%20Leader%0A3%09Forest%0A4%09Gilt-Leaf%20Palace%0A4%09Heritage%20Druid%0A4%09Llanowar%20Elves%0A4%09Nettle%20Sentinel%0A3%09Nurturing%20Peatland%0A4%09Once%20Upon%20a%20Time%0A1%09Pendelhaven%0A4%09Shaman%20of%20the%20Pack&deckside=2%09Assassin's%20Trophy%0A1%09Choke%0A2%09Collector%20Ouphe%0A3%09Damping%20Sphere%0A2%09Heroic%20Intervention%0A4%09Leyline%20of%20the%20Void%0A1%09Reclamation%20Sage)
+# Maindeck
+
+|                                           Creature (34)                                           |                                         Instant (8)                                          |                                           Land (18)                                           |
+|---------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
+|4 [Dwynen's Elite](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442739)        |4 [Collected Company](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394519)|4 [Blooming Marsh](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417816)    |
+|4 [Elvish Archdruid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389498)      |4 [Once Upon a Time](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473131) |3 [Cavern of Souls](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278058)   |
+|4 [Elvish Clancaller](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447315)     |                                                                                              |3 [Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)            |
+|4 [Elvish Mystic](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389499)         |                                                                                              |4 [Gilt-Leaf Palace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=153455)  |
+|2 [Ezuri, Renegade Leader](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389511)|                                                                                              |3 [Nurturing Peatland](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464192)|
+|4 [Heritage Druid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413713)        |                                                                                              |1 [Pendelhaven](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442233)       |
+|4 [Llanowar Elves](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129626)        |                                                                                              |                                                                                               |
+|4 [Nettle Sentinel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442171)       |                                                                                              |                                                                                               |
+|4 [Shaman of the Pack](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413747)    |                                                                                              |                                                                                               |
+
+
+# Sideboard
+
+|                                       Artifact (3)                                        |                                        Creature (3)                                         |                                        Enchantment (5)                                         |                                          Instant (4)                                           |
+|-------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
+|3 [Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)|2 [Collector Ouphe](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464107) |1 [Choke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45431)               |2 [Assassin's Trophy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452902)  |
+|                                                                                           |1 [Reclamation Sage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389651)|4 [Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)|2 [Heroic Intervention](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423776)|
+
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                         Maindeck Card                                         |*n*<sup>th</sup> copy|                                          Sideboard Card                                           |
+|--------------------:|-----------------------------------------------------------------------------------------------|--------------------:|---------------------------------------------------------------------------------------------------|
+|                    1|[Scavenging Ooze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420783)     |                    1|[Kitchen Finks](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370458)           |
+|                    1|[Elves of Deep Shadow](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=292942)|                    1|[Chameleon Colossus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220451)      |
+|                    1|[Lead the Stampede](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382295)   |                    1|[Nissa, Voice of Zendikar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417424)|
+|                    1|[Essence Warden](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389505)      |                    2|[Kitchen Finks](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370458)           |
+|                    2|[Scavenging Ooze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420783)     |                    2|[Nissa, Voice of Zendikar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417424)|
+|                    2|[Essence Warden](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389505)      |                    2|[Chameleon Colossus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220451)      |
+|                    2|[Elves of Deep Shadow](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=292942)|                    3|[Chameleon Colossus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220451)      |
+|                    2|[Lead the Stampede](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382295)   |                    3|[Kitchen Finks](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370458)           |
+|                    3|[Elves of Deep Shadow](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=292942)|                     |                                                                                                   |
+|                    4|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)              |                     |                                                                                                   |
+|                    4|[Cavern of Souls](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278058)     |                     |                                                                                                   |
+|                    4|[Elves of Deep Shadow](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=292942)|                     |                                                                                                   |
+

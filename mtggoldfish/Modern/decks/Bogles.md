@@ -1,7 +1,7 @@
 # Bogles
 
 #### [Export MTGO List](../collection/Bogles/Bogles.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=1%09All%20That%20Glitters%0A4%09Daybreak%20Coronet%0A1%09Dryad%20Arbor%0A4%09Ethereal%20Armor%0A1%09Forest%0A4%09Gladecover%20Scout%0A2%09Gryff's%20Boon%0A4%09Horizon%20Canopy%0A4%09Hyena%20Umbra%0A1%09Keen%20Sense%0A4%09Kor%20Spiritdancer%0A2%09Plains%0A4%09Rancor%0A4%09Razorverge%20Thicket%0A4%09Slippery%20Bogle%0A2%09Spider%20Umbra%0A1%09Spirit%20Link%0A1%09Spirit%20Mantle%0A4%09Suppression%20Field%0A4%09Temple%20Garden%0A4%09Windswept%20Heath&deckside=3%09Damping%20Sphere%0A3%09Force%20of%20Vigor%0A3%09Pithing%20Needle%0A2%09Rest%20in%20Peace%0A3%09Stony%20Silence%0A1%09Tormod's%20Crypt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=1%09All%20That%20Glitters%0A4%09Daybreak%20Coronet%0A1%09Dryad%20Arbor%0A4%09Ethereal%20Armor%0A1%09Forest%0A4%09Gladecover%20Scout%0A2%09Gryff's%20Boon%0A4%09Horizon%20Canopy%0A4%09Hyena%20Umbra%0A1%09Keen%20Sense%0A4%09Kor%20Spiritdancer%0A2%09Plains%0A4%09Rancor%0A4%09Razorverge%20Thicket%0A4%09Slippery%20Bogle%0A2%09Spider%20Umbra%0A1%09Spirit%20Link%0A1%09Spirit%20Mantle%0A4%09Suppression%20Field%0A4%09Temple%20Garden%0A4%09Windswept%20Heath&deckside=3%09Aven%20Mindcensor%0A2%09Gaddock%20Teeg%0A4%09Path%20to%20Exile%0A3%09Rest%20in%20Peace%0A2%09Seal%20of%20Primordium%0A1%09Spirit%20Link)
 # Maindeck
 
 |                                        Creature (12)                                        |                                       Enchantment (28)                                       |                                           Land (20)                                           |
@@ -21,28 +21,28 @@
 
 # Sideboard
 
-|                                       Artifact (7)                                        |                                     Enchantment (5)                                      |                                        Instant (3)                                        |
-|-------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
-|3 [Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)|2 [Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)|3 [Force of Vigor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464113)|
-|3 [Pithing Needle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129526)|3 [Stony Silence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=247425)|                                                                                           |
-|1 [Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)|                                                                                          |                                                                                           |
+|                                        Creature (5)                                        |                                        Enchantment (6)                                        |                                       Instant (4)                                        |
+|--------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
+|3 [Aven Mindcensor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426707)|3 [Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)     |4 [Path to Exile](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220511)|
+|2 [Gaddock Teeg](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=140188)   |2 [Seal of Primordium](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425960)|                                                                                          |
+|                                                                                            |1 [Spirit Link](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129744)       |                                                                                          |
 
 
 # Other Options
 
-|*n*<sup>th</sup> copy|                                     Maindeck Card                                     |*n*<sup>th</sup> copy|                                       Sideboard Card                                        |
-|--------------------:|---------------------------------------------------------------------------------------|--------------------:|---------------------------------------------------------------------------------------------|
-|                    1|[Sixth Sense](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426889) |                    1|[Seal of Primordium](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425960)|
-|                    1|[Brushland](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129496)   |                    1|[Gaddock Teeg](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=140188)      |
-|                    2|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)      |                    1|[Aven Mindcensor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426707)   |
-|                    2|[Brushland](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129496)   |                    1|[Spirit Link](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129744)       |
-|                    3|[Gryff's Boon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409758)|                    1|[Path to Exile](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220511)     |
-|                    3|[Brushland](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129496)   |                    2|[Seal of Primordium](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425960)|
-|                    3|[Spider Umbra](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220555)|                    2|[Aven Mindcensor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426707)   |
-|                    4|[Gryff's Boon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409758)|                    2|[Path to Exile](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220511)     |
-|                    4|[Brushland](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129496)   |                    2|[Gaddock Teeg](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=140188)      |
-|                     |                                                                                       |                    3|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)     |
-|                     |                                                                                       |                    3|[Aven Mindcensor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426707)   |
-|                     |                                                                                       |                    4|[Path to Exile](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220511)     |
-|                     |                                                                                       |                    3|[Path to Exile](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220511)     |
+|*n*<sup>th</sup> copy|                                     Maindeck Card                                     |*n*<sup>th</sup> copy|                                     Sideboard Card                                      |
+|--------------------:|---------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------|
+|                    1|[Sixth Sense](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426889) |                    1|[Force of Vigor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464113)|
+|                    1|[Brushland](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129496)   |                    1|[Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)|
+|                    2|[Brushland](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129496)   |                    1|[Pithing Needle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129526)|
+|                    2|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)      |                    1|[Stony Silence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=247425) |
+|                    3|[Gryff's Boon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409758)|                    1|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)|
+|                    3|[Brushland](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129496)   |                    2|[Force of Vigor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464113)|
+|                    3|[Spider Umbra](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220555)|                    2|[Pithing Needle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129526)|
+|                    4|[Gryff's Boon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409758)|                    2|[Stony Silence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=247425) |
+|                    4|[Brushland](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129496)   |                    3|[Stony Silence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=247425) |
+|                     |                                                                                       |                    3|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)|
+|                     |                                                                                       |                    3|[Force of Vigor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464113)|
+|                     |                                                                                       |                    3|[Pithing Needle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129526)|
+|                     |                                                                                       |                    2|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)|
 

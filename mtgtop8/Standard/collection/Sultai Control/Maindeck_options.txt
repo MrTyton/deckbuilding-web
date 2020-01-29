@@ -1,15 +1,17 @@
 4 Risen Reef
 3 Forest
+1 Deathsprout
+2 Deathsprout
 3 Temple of Mystery
+3 Temple of Malady
 1 Noxious Grasp
 2 Noxious Grasp
 4 Aether Gust
 4 Forest
-1 Deathsprout
-2 Deathsprout
 1 Voracious Hydra
 2 Voracious Hydra
-3 Temple of Malady
+3 Deathsprout
+4 Deathsprout
 1 Gadwick, the Wizened
 1 Circuitous Route
 2 Circuitous Route
@@ -24,10 +26,8 @@
 2 Brazen Borrower
 1 Vraska, Golgari Queen
 2 Vraska, Golgari Queen
-3 Deathsprout
 3 Voracious Hydra
 4 Voracious Hydra
-4 Deathsprout
 1 Dimir Guildgate
 1 Massacre Girl
 1 Incubation Druid
@@ -65,17 +65,33 @@
 3 Island
 3 Gilded Goose
 4 Arboreal Grazer
+1 Wolfwillow Haven
+1 Atris, Oracle of Half-Truths
+1 Temple of Deceit
+1 Enter the God-Eternals
+1 Lovestruck Beast
+2 Wolfwillow Haven
+2 Atris, Oracle of Half-Truths
+2 Temple of Deceit
+2 Enter the God-Eternals
+2 Lovestruck Beast
+3 Wolfwillow Haven
+3 Temple of Deceit
+3 Lovestruck Beast
+4 Wolfwillow Haven
+4 Lovestruck Beast
+4 Temple of Malady
+1 Polukranos, Unchained
 1 Jace, Wielder of Mysteries
 1 Thought Erasure
 1 Uro, Titan of Nature's Wrath
-1 Polukranos, Unchained
+2 Polukranos, Unchained
 2 Thought Erasure
 2 Uro, Titan of Nature's Wrath
-2 Polukranos, Unchained
 2 Tamiyo, Collector of Tales
+3 Polukranos, Unchained
 3 Thought Erasure
 3 Uro, Titan of Nature's Wrath
-3 Polukranos, Unchained
 4 Thought Erasure
 4 Uro, Titan of Nature's Wrath
 4 Temple of Mystery

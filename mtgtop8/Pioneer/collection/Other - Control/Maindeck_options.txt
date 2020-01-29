@@ -20,8 +20,8 @@
 1 The Scarab God
 3 Opt
 4 Opt
-1 Castle Vantress
 1 Fetid Pools
+1 Castle Vantress
 3 Dig Through Time
 3 Island
 2 Vraska's Contempt
@@ -135,8 +135,8 @@
 1 Trial of Ambition
 1 Oath of Kaya
 1 Doom Foretold
-2 Isolated Chapel
 2 Plains
+2 Isolated Chapel
 2 Doom Foretold
 2 Trial of Ambition
 2 Oath of Kaya
@@ -152,8 +152,8 @@
 1 Erebos's Intervention
 2 Thassa's Intervention
 2 Tyrant's Scorn
-1 Sphinx's Revelation
 1 Thirst for Meaning
+1 Sphinx's Revelation
 1 Ashiok, Nightmare Muse
 1 Ultimate Price
 1 Glacial Fortress
@@ -168,8 +168,8 @@
 1 Drown in the Loch
 2 Quench
 2 Drown in the Loch
-2 Hero's Downfall
 2 Liliana's Triumph
+2 Hero's Downfall
 3 Drown in the Loch
 1 Rix Maadi Reveler
 1 Distended Mindbender
@@ -207,36 +207,13 @@
 3 Field of Ruin
 4 Field of Ruin
 4 Dig Through Time
-1 Concealed Courtyard
-1 Caves of Koilos
-1 Knight of the Ebon Legion
-1 Karn, Scion of Urza
-1 Anguished Unmaking
-1 Gifted Aetherborn
-1 History of Benalia
-1 Brought Back
-1 Lyra Dawnbringer
-2 Concealed Courtyard
-2 Knight of the Ebon Legion
-2 Karn, Scion of Urza
-2 Gifted Aetherborn
-2 History of Benalia
-3 Karn, Scion of Urza
-3 Gifted Aetherborn
-3 Knight of the Ebon Legion
-3 Concealed Courtyard
-3 History of Benalia
-4 History of Benalia
-4 Concealed Courtyard
-4 Knight of the Ebon Legion
-4 Gifted Aetherborn
 1 Spirebluff Canal
 1 Commit / Memory
-1 Mox Amber
 1 Sacred Foundry
+1 Mox Amber
+1 Urza's Ruinous Blast
 1 Heart of Kiran
 1 Spell Pierce
-1 Urza's Ruinous Blast
 1 Magma Spray
 1 Sarkhan the Masterless
 1 Interplanar Beacon
@@ -276,30 +253,30 @@
 1 Kroxa, Titan of Death's Hunger
 1 Pharika's Libation
 1 Ramunap Ruins
+2 Urborg, Tomb of Yawgmoth
 2 Kroxa, Titan of Death's Hunger
 2 Pharika's Libation
-2 Urborg, Tomb of Yawgmoth
 2 Ramunap Ruins
 3 Kroxa, Titan of Death's Hunger
 3 Ramunap Ruins
 4 Kroxa, Titan of Death's Hunger
 4 Ramunap Ruins
+1 Murderous Cut
 1 Thassa's Oracle
 1 Inverter of Truth
-1 Murderous Cut
 1 Jace, Wielder of Mysteries
 2 Temple of Deceit
-2 Inverter of Truth
 2 Thassa's Oracle
 2 Jace, Wielder of Mysteries
-3 Inverter of Truth
+2 Inverter of Truth
 3 Thassa's Oracle
+3 Inverter of Truth
 4 Thassa's Oracle
 4 Inverter of Truth
 1 Liliana, Death's Majesty
 1 Supreme Will
-1 Silumgar's Command
 1 Ravenous Chupacabra
+1 Silumgar's Command
 1 Sweltering Suns
 1 Hostage Taker
 1 Fae of Wishes
@@ -312,52 +289,61 @@
 3 Fires of Invention
 3 Champion of Wits
 4 Fires of Invention
-1 The Birth of Meletis
+1 Concealed Courtyard
+1 Karn, Scion of Urza
+1 Anguished Unmaking
+1 Gifted Aetherborn
+1 Caves of Koilos
+1 Knight of the Ebon Legion
+1 History of Benalia
+1 Brought Back
+1 Lyra Dawnbringer
+2 Concealed Courtyard
+2 Karn, Scion of Urza
+2 Gifted Aetherborn
+2 Knight of the Ebon Legion
+2 History of Benalia
+3 Karn, Scion of Urza
+3 Gifted Aetherborn
+3 Concealed Courtyard
+3 Knight of the Ebon Legion
+3 History of Benalia
+4 Gifted Aetherborn
+4 History of Benalia
+4 Knight of the Ebon Legion
+4 Concealed Courtyard
 1 Temple of Silence
 1 Shepherd of the Flock
-1 Ashiok, Dream Render
 1 Kaya's Wrath
+1 Ashiok, Dream Render
 1 Starfield of Nyx
+1 The Birth of Meletis
 1 Treacherous Blessing
 1 Final Payment
-2 The Birth of Meletis
 2 Final Payment
 2 Kaya's Wrath
 2 Treacherous Blessing
 2 Shambling Vent
+2 The Birth of Meletis
 2 Starfield of Nyx
+3 Oath of Kaya
 3 Starfield of Nyx
 3 Shambling Vent
-3 Oath of Kaya
 3 Kaya's Wrath
 3 Trial of Ambition
 3 Treacherous Blessing
 4 Treacherous Blessing
 4 Trial of Ambition
 4 Shambling Vent
-1 Ugin, the Spirit Dragon
-1 Sign in Blood
-1 Nissa, Vital Force
-1 Duress
-1 Villainous Wealth
-1 Beanstalk Giant
-2 Duress
-2 Seasons Past
-2 Beanstalk Giant
-2 Sign in Blood
-2 Read the Bones
-3 Beanstalk Giant
-7 Swamp
-8 Swamp
-1 Grisly Salvage
 1 Vraska, Golgari Queen
+1 Grisly Salvage
 1 Nissa, Who Shakes the World
-1 Nissa, Vastwood Seer
 1 Traverse the Ulvenwald
 1 Blooming Marsh
 1 Emrakul, the Promised End
-1 Ishkanah, Grafwidow
+1 Nissa, Vastwood Seer
 1 Hangarback Walker
+1 Ishkanah, Grafwidow
 2 Nissa, Vastwood Seer
 2 Grisly Salvage
 2 Nissa, Who Shakes the World
@@ -375,3 +361,17 @@
 4 Traverse the Ulvenwald
 4 Abrupt Decay
 7 Forest
+1 Ugin, the Spirit Dragon
+1 Sign in Blood
+1 Nissa, Vital Force
+1 Duress
+1 Villainous Wealth
+1 Beanstalk Giant
+2 Duress
+2 Seasons Past
+2 Beanstalk Giant
+2 Sign in Blood
+2 Read the Bones
+3 Beanstalk Giant
+7 Swamp
+8 Swamp
