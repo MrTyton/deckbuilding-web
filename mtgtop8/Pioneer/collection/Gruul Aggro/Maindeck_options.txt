@@ -1,15 +1,10 @@
-3 Glorybringer
-2 Domri, Anarch of Bolas
-1 Voltaic Brawler
 2 Voltaic Brawler
 3 Voltaic Brawler
 4 Voltaic Brawler
 1 Zhur-Taa Goblin
 2 Zhur-Taa Goblin
 3 Zhur-Taa Goblin
-1 Hazoret the Fervent
 1 Blossoming Defense
-1 Hashep Oasis
 1 Pelt Collector
 1 Experiment One
 2 Pelt Collector
@@ -18,51 +13,73 @@
 3 Experiment One
 4 Pelt Collector
 4 Experiment One
+1 Hazoret the Fervent
+1 Glorybringer
+2 Glorybringer
+3 Glorybringer
+1 Hashep Oasis
+2 Blossoming Defense
+2 Rhonas the Indomitable
+1 Kiora, Behemoth Beckoner
 4 Glorybringer
 3 Questing Beast
-2 Blossoming Defense
+1 Chandra, Torch of Defiance
+2 Chandra, Torch of Defiance
+1 Collected Company
+2 Collected Company
+3 Collected Company
+1 Heart of Kiran
+2 Heart of Kiran
 2 Hashep Oasis
+2 Hazoret the Fervent
+3 Embercleave
 1 Goblin Rabblemaster
 1 Wild Slash
 2 Goblin Rabblemaster
 2 Wild Slash
-1 Rekindling Phoenix
-2 Rekindling Phoenix
 1 Steel Leaf Champion
 2 Steel Leaf Champion
-1 Kiora, Behemoth Beckoner
-2 Rhonas the Indomitable
-3 Goblin Rabblemaster
-4 Goblin Rabblemaster
-1 Collected Company
-2 Collected Company
-3 Collected Company
-1 Chandra, Torch of Defiance
-2 Chandra, Torch of Defiance
-3 Wild Slash
-2 Hazoret the Fervent
-3 Embercleave
-3 Steel Leaf Champion
+1 Rekindling Phoenix
+2 Rekindling Phoenix
 3 Ghor-Clan Rampager
 4 Zhur-Taa Goblin
-1 Domri Rade
 9 Forest
+3 Goblin Rabblemaster
+4 Goblin Rabblemaster
 1 Gilded Goose
 2 Gilded Goose
-1 Ramunap Ruins
-2 Ramunap Ruins
-1 Domri's Ambush
-2 Domri's Ambush
+3 Wild Slash
+1 Commune with Dinosaurs
+1 Ghalta, Primal Hunger
+1 Ripjaw Raptor
+1 Marauding Raptor
+1 Reckless Rage
+1 Regisaur Alpha
+2 Commune with Dinosaurs
+2 Ghalta, Primal Hunger
+2 Marauding Raptor
+2 Reckless Rage
+2 Regisaur Alpha
+2 Ripjaw Raptor
+3 Commune with Dinosaurs
+3 Reckless Rage
+3 Regisaur Alpha
+3 Ripjaw Raptor
+3 Marauding Raptor
+4 Reckless Rage
+4 Regisaur Alpha
+4 Commune with Dinosaurs
+4 Ripjaw Raptor
+4 Marauding Raptor
 3 Hashep Oasis
 3 Blossoming Defense
-1 Heart of Kiran
-2 Heart of Kiran
+3 Steel Leaf Champion
 3 Domri, Anarch of Bolas
 3 Gilded Goose
+1 Domri Rade
+3 Rekindling Phoenix
 2 Kiora, Behemoth Beckoner
 3 Kiora, Behemoth Beckoner
-1 Scavenging Ooze
-2 Scavenging Ooze
 1 Walking Ballista
 1 Shared Summons
 1 Enter the Infinite
@@ -71,9 +88,6 @@
 2 Possibility Storm
 3 Possibility Storm
 4 Possibility Storm
-3 Rekindling Phoenix
-2 Domri Rade
-4 Steel Leaf Champion
 4 Ghor-Clan Rampager
 1 Reckless Bushwhacker
 2 Reckless Bushwhacker
@@ -84,14 +98,16 @@
 2 Legion Warboss
 3 Legion Warboss
 4 Legion Warboss
-1 Collision / Colossus
-2 Collision / Colossus
+1 Ramunap Ruins
+2 Ramunap Ruins
 1 Atarka's Command
 1 Zurgo Bellstriker
 2 Atarka's Command
 2 Zurgo Bellstriker
 3 Atarka's Command
 4 Atarka's Command
+1 Domri's Ambush
+2 Domri's Ambush
 4 Wild Slash
 1 Mana Confluence
 2 Mana Confluence
@@ -99,10 +115,6 @@
 2 Goblin Chainwhirler
 3 Goblin Chainwhirler
 7 Mountain
-1 Mutavault
-1 Lava Coil
-2 Mutavault
-2 Lava Coil
 1 Geier Reach Sanitarium
 1 Bomat Courier
 1 Fling
@@ -118,16 +130,12 @@
 2 Incendiary Flow
 3 Incendiary Flow
 4 Blossoming Defense
-1 Abrade
-1 Thrash / Threat
-2 Abrade
-2 Thrash / Threat
-3 Domri Rade
-4 Questing Beast
+2 Domri Rade
+4 Steel Leaf Champion
 1 Sheltered Thicket
 1 Mizzium Mortars
-2 Sheltered Thicket
 2 Mizzium Mortars
+2 Sheltered Thicket
 3 Mizzium Mortars
 4 Rekindling Phoenix
 1 Krenko, Tin Street Kingpin
@@ -143,15 +151,15 @@
 3 Grumgully, the Generous
 4 Metallic Mimic
 1 Collateral Damage
-1 Goblin Instigator
 1 Monastery Swiftspear
+1 Goblin Instigator
 1 Foundry Street Denizen
 1 Dragon Fodder
 1 Wolf's Quarry
 1 Hordeling Outburst
 1 Become Immense
-2 Goblin Instigator
 2 Monastery Swiftspear
+2 Goblin Instigator
 2 Foundry Street Denizen
 2 Wolf's Quarry
 2 Dragon Fodder
@@ -159,20 +167,17 @@
 3 Monastery Swiftspear
 3 Mana Confluence
 3 Foundry Street Denizen
-3 Goblin Instigator
 3 Dragon Fodder
+3 Goblin Instigator
 4 Monastery Swiftspear
 4 Foundry Street Denizen
 4 Goblin Instigator
 4 Dragon Fodder
-1 Captain Lannery Storm
-2 Captain Lannery Storm
-3 Chandra, Torch of Defiance
-3 Captain Lannery Storm
-4 Captain Lannery Storm
+1 Collision / Colossus
 1 Torbran, Thane of Red Fell
 1 Soul-Scar Mage
 2 Torbran, Thane of Red Fell
+2 Collision / Colossus
 2 Soul-Scar Mage
 3 Ramunap Ruins
 3 Torbran, Thane of Red Fell
@@ -182,10 +187,17 @@
 4 Ramunap Ruins
 4 Goblin Chainwhirler
 4 Soul-Scar Mage
-1 Fervent Champion
-1 Flamewake Phoenix
-1 Dwarven Mine
+1 Scavenging Ooze
+1 Captain Lannery Storm
+2 Scavenging Ooze
+2 Captain Lannery Storm
+3 Chandra, Torch of Defiance
+3 Captain Lannery Storm
+4 Captain Lannery Storm
 1 Chandra, Acolyte of Flame
+1 Flamewake Phoenix
+1 Fervent Champion
+1 Dwarven Mine
 1 Kari Zev's Expertise
 1 Legion Loyalist
 1 Bloodrage Brawler

@@ -1,10 +1,3 @@
-3 Woodland Cemetery
-1 Lotleth Troll
-1 Rhonas the Indomitable
-2 Rhonas the Indomitable
-1 Murderous Rider
-1 Swamp
-1 Urborg, Tomb of Yawgmoth
 1 Questing Beast
 2 Murderous Rider
 2 Swamp
@@ -36,30 +29,27 @@
 4 Zetalpa, Primal Dawn
 4 Grisly Salvage
 4 Soulflayer
-2 Hashep Oasis
+3 Woodland Cemetery
+4 Nissa, Voice of Zendikar
+7 Forest
+4 Voracious Hydra
+3 Vivien, Arkbow Ranger
 1 Gifted Aetherborn
-1 Samut, Voice of Dissent
 4 Swamp
 4 Lotleth Troll
-4 Woodland Cemetery
-8 Forest
-1 Collective Brutality
-2 Collective Brutality
+2 Rishkar, Peema Renegade
+4 Hangarback Walker
+2 Hashep Oasis
+1 Samut, Voice of Dissent
 2 Gifted Aetherborn
+4 Questing Beast
+1 Temple of Malady
+4 Woodland Cemetery
 4 Stonecoil Serpent
 1 Pelt Collector
 2 Pelt Collector
 3 Pelt Collector
-2 Nullhide Ferox
-4 Questing Beast
-1 Temple of Malady
-1 Vraska, Golgari Queen
-1 Karn's Bastion
-4 Pelt Collector
-1 Experiment One
-2 Experiment One
-3 Experiment One
-4 Experiment One
+8 Forest
 4 Llanowar Elves
 1 Lovestruck Beast
 2 Lovestruck Beast
@@ -92,7 +82,18 @@
 4 Lovestruck Beast
 4 The Great Henge
 9 Forest
+1 Collective Brutality
+2 Collective Brutality
 1 Commune with the Gods
+2 Nullhide Ferox
+1 Karn's Bastion
+1 Vraska, Golgari Queen
+4 Pelt Collector
+1 Experiment One
+2 Experiment One
+3 Experiment One
+4 Experiment One
+2 Temple of Malady
 1 Satyr Wayfinder
 1 Scavenging Ooze
 2 Scavenging Ooze
@@ -103,6 +104,8 @@
 3 Thought-Knot Seer
 4 Thought-Knot Seer
 1 Vampire of the Dire Moon
+1 Rankle, Master of Pranks
+2 Commune with the Gods
 1 Nykthos, Shrine to Nyx
 2 Vraska, Golgari Queen
 1 Inventors' Fair
@@ -114,11 +117,9 @@
 1 Abrupt Decay
 1 Castle Garenbrig
 2 Abrupt Decay
-1 Rankle, Master of Pranks
-2 Temple of Malady
 1 Grapple with the Past
-2 Grapple with the Past
 2 Satyr Wayfinder
+2 Grapple with the Past
 3 Satyr Wayfinder
 3 Grapple with the Past
 1 Watery Grave
@@ -143,12 +144,12 @@
 4 Hashep Oasis
 4 Reality Smasher
 4 Vivien, Arkbow Ranger
-1 Assassin's Trophy
 1 Ifnir Deadlands
-1 Tireless Tracker
-1 Vivien, Champion of the Wilds
-1 Thoughtseize
 1 Despise
+1 Assassin's Trophy
+1 Vivien, Champion of the Wilds
+1 Tireless Tracker
+1 Thoughtseize
 1 Brain Maggot
 1 Field of Ruin
 1 Wasteland Strangler

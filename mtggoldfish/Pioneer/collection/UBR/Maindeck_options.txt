@@ -1,35 +1,43 @@
-3 Steam Vents
-4 Steam Vents
-1 Young Pyromancer
-1 Strategic Planning
-1 Ox of Agonas
-1 Hazoret the Fervent
-1 Kolaghan's Command
-1 Castle Embereth
-1 Chandra, Torch of Defiance
-1 The Royal Scions
-2 Young Pyromancer
-2 Strategic Planning
-2 Ox of Agonas
-2 Kolaghan's Command
-2 Chandra, Torch of Defiance
-2 Mountain
-2 The Royal Scions
-3 Young Pyromancer
-3 Ox of Agonas
-3 The Royal Scions
-3 Strategic Planning
-4 Fabled Passage
-4 The Royal Scions
-4 Young Pyromancer
-4 Ox of Agonas
-4 Bonecrusher Giant
-4 Strategic Planning
-1 Thought-Knot Seer
+1 Opt
+1 Censor
+2 Opt
+3 Opt
+4 Opt
+1 Vraska's Contempt
+1 Syncopate
+1 Nicol Bolas, Dragon-God
+1 Dreadbore
+1 Sulfur Falls
+1 Dig Through Time
+1 Nicol Bolas, the Ravager
+1 Drowned Catacomb
+1 Kalitas, Traitor of Ghet
+1 Radiant Flames
+2 Drowned Catacomb
+2 Syncopate
+2 Nicol Bolas, Dragon-God
+2 Kalitas, Traitor of Ghet
+2 Dreadbore
+2 Dig Through Time
+2 Radiant Flames
+2 Nicol Bolas, the Ravager
+3 Syncopate
+3 Nicol Bolas, the Ravager
+3 Drowned Catacomb
+4 Watery Grave
 1 Spirebluff Canal
+1 Shivan Reef
+2 Spirebluff Canal
+2 Shivan Reef
+2 Island
+3 Shivan Reef
+3 Spirebluff Canal
+4 Spirebluff Canal
+4 Shivan Reef
+1 Thought-Knot Seer
 1 Skilled Animator
-1 Ghostfire Blade
 1 Darksteel Citadel
+1 Ghostfire Blade
 1 Ensoul Artifact
 1 Shrapnel Blast
 1 Stonecoil Serpent
@@ -37,11 +45,10 @@
 1 Bomat Courier
 1 Hope of Ghirapur
 1 Phyrexian Revoker
-1 Shivan Reef
 1 Ipnu Rivulet
 1 Mutavault
 2 Thought-Knot Seer
-2 Spirebluff Canal
+2 Ipnu Rivulet
 2 Ensoul Artifact
 2 Darksteel Citadel
 2 Ghostfire Blade
@@ -52,31 +59,61 @@
 2 Phyrexian Revoker
 2 Bomat Courier
 2 Mutavault
-2 Shivan Reef
-2 Island
-2 Ipnu Rivulet
 3 Mutavault
 3 Phyrexian Revoker
-3 Shivan Reef
 3 Bomat Courier
 3 Thought-Knot Seer
-3 Spirebluff Canal
-3 Darksteel Citadel
 3 Shrapnel Blast
 3 Stonecoil Serpent
 3 Skilled Animator
+3 Darksteel Citadel
 3 Ghostfire Blade
 3 Ensoul Artifact
 3 Gingerbrute
 4 Bomat Courier
-4 Thought-Knot Seer
-4 Spirebluff Canal
-4 Shivan Reef
 4 Shrapnel Blast
 4 Ghostfire Blade
+4 Thought-Knot Seer
 4 Darksteel Citadel
 4 Ensoul Artifact
 4 Skilled Animator
 4 Stonecoil Serpent
 4 Gingerbrute
 4 Mutavault
+1 Discovery/Dispersal
+1 Underworld Breach
+1 Goblin Electromancer
+1 Shimmer of Possibility
+1 Negate
+1 Chronic Flooding
+1 Thassa's Oracle
+1 Temple of Epiphany
+1 Hidden Strings
+1 Baral, Chief of Compliance
+1 Blink of an Eye
+2 Discovery/Dispersal
+2 Goblin Electromancer
+2 Shimmer of Possibility
+2 Blink of an Eye
+2 Underworld Breach
+2 Temple of Epiphany
+2 Censor
+2 Hidden Strings
+2 Chronic Flooding
+2 Baral, Chief of Compliance
+3 Discovery/Dispersal
+3 Island
+3 Censor
+3 Goblin Electromancer
+3 Hidden Strings
+3 Baral, Chief of Compliance
+3 Underworld Breach
+3 Chronic Flooding
+4 Discovery/Dispersal
+4 Underworld Breach
+4 Baral, Chief of Compliance
+4 Chronic Flooding
+4 Island
+4 Hidden Strings
+6 Island
+5 Island

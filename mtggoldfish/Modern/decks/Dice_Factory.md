@@ -45,6 +45,6 @@
 |                    2|[Karn Liberated](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397828)     |                    1|[Torpor Orb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=233069)             |
 |                     |                                                                                              |                    1|[Welding Jar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=48328)             |
 |                     |                                                                                              |                    1|[Gilded Lotus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443103)           |
-|                     |                                                                                              |                    3|[Thought-Knot Seer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407519)      |
 |                     |                                                                                              |                    3|[Dismember](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382182)              |
+|                     |                                                                                              |                    3|[Thought-Knot Seer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407519)      |
 

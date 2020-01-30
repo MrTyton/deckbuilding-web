@@ -5,22 +5,6 @@
 2 Emrakul, the Promised End
 3 Steam Vents
 4 Steam Vents
-2 Rootbound Crag
-3 Shrine of the Forsaken Gods
-1 Radiant Fountain
-1 Hour of Promise
-1 Temple Garden
-1 Ugin, the Ineffable
-1 Plains
-1 Nahiri, the Harbinger
-1 Spirebluff Canal
-1 Tireless Tracker
-2 Nahiri, the Harbinger
-3 Breeding Pool
-3 Nahiri, the Harbinger
-4 Breeding Pool
-1 Field of Ruin
-2 Field of Ruin
 2 Island
 3 Island
 4 Island
@@ -42,42 +26,63 @@
 3 Opt
 4 Opt
 1 Jace, Wielder of Mysteries
-1 Castle Locthwain
-1 Temple of Deceit
+1 Fetid Pools
 1 Thassa's Oracle
 1 Inverter of Truth
 1 Murderous Cut
-1 Castle Vantress
-1 Collective Brutality
-1 Fetid Pools
-1 Bontu's Last Reckoning
-1 Discovery / Dispersal
-2 Discovery / Dispersal
-2 Murderous Cut
+2 Fetid Pools
 2 Inverter of Truth
 2 Jace, Wielder of Mysteries
-2 Temple of Deceit
 2 Thassa's Oracle
-2 Fetid Pools
-2 Collective Brutality
 2 Thoughtseize
 2 Swamp
-3 Jace, Wielder of Mysteries
 3 Dig Through Time
 3 Drowned Catacomb
 3 Inverter of Truth
-3 Field of Ruin
 3 Thassa's Oracle
-3 Discovery / Dispersal
-3 Fetid Pools
 3 Thoughtseize
+3 Jace, Wielder of Mysteries
 4 Drowned Catacomb
 4 Inverter of Truth
 4 Thassa's Oracle
-4 Discovery / Dispersal
-4 Fetid Pools
 4 Fatal Push
 4 Thoughtseize
+5 Island
+1 Field of Ruin
+2 Field of Ruin
+1 Drown in the Loch
+1 Fabled Passage
+2 Fabled Passage
+6 Island
+2 Rootbound Crag
+3 Shrine of the Forsaken Gods
+1 Plains
+1 Ugin, the Ineffable
+1 Temple Garden
+1 Hour of Promise
+1 Radiant Fountain
+1 Nahiri, the Harbinger
+1 Spirebluff Canal
+1 Tireless Tracker
+2 Nahiri, the Harbinger
+3 Breeding Pool
+3 Nahiri, the Harbinger
+4 Breeding Pool
+1 Discovery / Dispersal
+1 Castle Locthwain
+1 Temple of Deceit
+1 Castle Vantress
+1 Bontu's Last Reckoning
+1 Collective Brutality
+2 Murderous Cut
+2 Discovery / Dispersal
+2 Temple of Deceit
+2 Collective Brutality
+3 Fetid Pools
+3 Field of Ruin
+3 Discovery / Dispersal
+4 Fetid Pools
+4 Discovery / Dispersal
 1 World Breaker
 1 Kozilek's Return
 1 Glassblower's Puzzleknot
@@ -93,13 +98,13 @@
 2 Hope of Ghirapur
 1 Wastes
 1 Zhalfirin Void
+1 Heart of Kiran
 1 Mutavault
 1 Sea Gate Wreckage
+1 Darksteel Citadel
 1 Stonecoil Serpent
 1 Mobilized District
 1 Warping Wail
-1 Heart of Kiran
-1 Darksteel Citadel
 1 Spatial Contortion
 1 Karn, Scion of Urza
 1 Ratchet Bomb
@@ -109,9 +114,9 @@
 1 Foundry of the Consuls
 1 Karn, the Great Creator
 2 Wastes
-2 Mutavault
 2 Stonecoil Serpent
 2 Zhalfirin Void
+2 Mutavault
 2 Spatial Contortion
 2 Warping Wail
 2 Karn, Scion of Urza
@@ -125,15 +130,15 @@
 3 Stonecoil Serpent
 3 Walking Ballista
 3 Zhalfirin Void
-3 Wastes
 3 Karn, Scion of Urza
+3 Wastes
 3 Mutavault
 3 Spatial Contortion
 3 Ratchet Bomb
+3 Karn, the Great Creator
 3 Fountain of Renewal
 3 Scrap Trawler
 3 Warping Wail
-3 Karn, the Great Creator
 4 Shrine of the Forsaken Gods
 4 Stonecoil Serpent
 4 Mutavault
@@ -141,6 +146,27 @@
 4 Zhalfirin Void
 4 Fountain of Renewal
 4 Karn, Scion of Urza
+1 Omen of the Sea
+1 Thought Erasure
+1 Choked Estuary
+1 Censor
+2 Drown in the Loch
+2 Thought Erasure
+2 Choked Estuary
+2 Censor
+3 Swamp
+3 Fabled Passage
+4 Fabled Passage
+4 Dig Through Time
+1 Geier Reach Sanitarium
+1 Day's Undoing
+1 Narset, Parter of Veils
+2 Geier Reach Sanitarium
+2 Day's Undoing
+2 Narset, Parter of Veils
+3 Narset, Parter of Veils
+3 Day's Undoing
+4 Narset, Parter of Veils
 1 Teferi, Time Raveler
 1 Hallowed Fountain
 2 Teferi, Time Raveler
@@ -151,8 +177,8 @@
 4 Hallowed Fountain
 1 Once Upon a Time
 1 Mox Amber
-1 Mana Confluence
 1 Terrarion
+1 Mana Confluence
 1 Urborg, Tomb of Yawgmoth
 1 Emry, Lurker of the Loch
 1 Lazav, the Multifarious
@@ -162,11 +188,11 @@
 1 Kethis, the Hidden Hand
 1 Blooming Marsh
 2 Mox Amber
-2 Emry, Lurker of the Loch
-2 Mana Confluence
-2 Once Upon a Time
-2 Temple Garden
 2 Terrarion
+2 Emry, Lurker of the Loch
+2 Once Upon a Time
+2 Mana Confluence
+2 Temple Garden
 2 Oko, Thief of Crowns
 2 Blooming Marsh
 2 Kethis, the Hidden Hand
@@ -174,8 +200,8 @@
 2 Urborg, Tomb of Yawgmoth
 2 Lazav, the Multifarious
 2 Oath of Nissa
-3 Emry, Lurker of the Loch
 3 Mox Amber
+3 Emry, Lurker of the Loch
 3 Mana Confluence
 3 Once Upon a Time
 3 Diligent Excavator
@@ -187,8 +213,8 @@
 4 Once Upon a Time
 4 Mox Amber
 4 Emry, Lurker of the Loch
-4 Mana Confluence
 4 Diligent Excavator
+4 Mana Confluence
 4 Oath of Nissa
 4 Hope of Ghirapur
 4 Blooming Marsh
@@ -201,24 +227,14 @@
 3 Emrakul, the Promised End
 3 Hour of Devastation
 4 Hour of Devastation
-1 Geier Reach Sanitarium
-1 Day's Undoing
-1 Narset, Parter of Veils
-2 Geier Reach Sanitarium
-2 Narset, Parter of Veils
-2 Day's Undoing
-3 Narset, Parter of Veils
-3 Day's Undoing
-4 Narset, Parter of Veils
-5 Island
 1 Glacial Fortress
 1 Myth Realized
 1 Teferi, Hero of Dominaria
 1 Blessed Alliance
+1 Azorius Charm
 1 Settle the Wreckage
 1 Search for Azcanta
 1 Supreme Verdict
-1 Azorius Charm
 1 Port Town
 2 Glacial Fortress
 2 Teferi, Hero of Dominaria
@@ -231,10 +247,10 @@
 2 Port Town
 3 Port Town
 3 Myth Realized
-3 Plains
-3 Glacial Fortress
-3 Azorius Charm
 3 Supreme Verdict
+3 Glacial Fortress
+3 Plains
+3 Azorius Charm
 4 Port Town
 4 Myth Realized
 4 Glacial Fortress
@@ -249,41 +265,41 @@
 1 Enter the Infinite
 1 Rosethorn Acolyte
 1 Lovestruck Beast
+1 Bonecrusher Giant
 1 Captain Lannery Storm
 1 Elvish Mystic
-1 Glorybringer
-1 Llanowar Elves
-1 Bonecrusher Giant
-1 Questing Beast
 1 Vivien Reid
+1 Llanowar Elves
+1 Glorybringer
+1 Questing Beast
 1 Chandra, Torch of Defiance
 1 Game Trail
-2 Domri Rade
 2 Possibility Storm
 2 Kiora, Behemoth Beckoner
+2 Bonecrusher Giant
 2 Lovestruck Beast
-2 Elvish Mystic
+2 Domri Rade
 2 Rosethorn Acolyte
 2 Captain Lannery Storm
-2 Glorybringer
+2 Elvish Mystic
 2 Llanowar Elves
-2 Bonecrusher Giant
+2 Glorybringer
 2 Mountain
 2 Game Trail
 3 Possibility Storm
 3 Kiora, Behemoth Beckoner
+3 Bonecrusher Giant
+3 Llanowar Elves
 3 Elvish Mystic
 3 Lovestruck Beast
-3 Llanowar Elves
 3 Glorybringer
-3 Bonecrusher Giant
 3 Rootbound Crag
 3 Mountain
+4 Bonecrusher Giant
 4 Possibility Storm
 4 Lovestruck Beast
 4 Llanowar Elves
 4 Elvish Mystic
-4 Bonecrusher Giant
 4 Rootbound Crag
 5 Forest
 6 Forest
@@ -291,11 +307,9 @@
 1 Unsubstantiate
 1 Sunken Hollow
 1 Dictate of Kruphix
-1 Fabled Passage
 1 Unsummon
 1 Notion Thief
 1 Cyclonic Rift
-1 Drown in the Loch
 1 Brazen Borrower
 1 Spell Pierce
 1 Engulf the Shore
@@ -304,10 +318,9 @@
 2 Brazen Borrower
 2 Cyclonic Rift
 2 Dictate of Kruphix
-2 Fabled Passage
+2 Notion Thief
 2 Engulf the Shore
 2 Sunken Hollow
-2 Notion Thief
 2 Dakra Mystic
 2 Spell Pierce
 3 Brazen Borrower
@@ -319,5 +332,4 @@
 4 Sunken Hollow
 4 Notion Thief
 4 Dakra Mystic
-6 Island
 7 Island

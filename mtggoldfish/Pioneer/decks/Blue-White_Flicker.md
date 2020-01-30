@@ -34,7 +34,7 @@
 |                    1|[Westvale Abbey](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=410049)      |                    1|Heliod's Intervention                                                                          |
 |                    4|[Teferi, Time Raveler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461148)|                    1|[Cataclysmic Gearhulk](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417582)|
 |                    4|Thassa, Deep-Dwelling                                                                          |                    1|Whirlwind Denial                                                                               |
-|                    4|[Cloudblazer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442190)         |                    1|[Summary Dismissal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414370)   |
-|                     |                                                                                               |                    1|[Deputy of Detention](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457309) |
+|                    4|[Cloudblazer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442190)         |                    1|[Deputy of Detention](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457309) |
+|                     |                                                                                               |                    1|[Summary Dismissal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414370)   |
 |                     |                                                                                               |                    3|[Dovin's Veto](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461120)        |
 
