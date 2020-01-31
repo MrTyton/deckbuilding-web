@@ -18,11 +18,11 @@
 3 Forest
 4 Wooded Foothills
 1 Scavenging Ooze
-1 Abrupt Decay
 1 Fatal Push
 1 Huntmaster of the Fells
 1 Inquisition of Kozilek
 1 Tarmogoyf
+1 Abrupt Decay
 1 Wrenn and Six
 1 Raging Ravine
 1 Go for the Throat
@@ -38,13 +38,13 @@
 2 Wrenn and Six
 2 Huntmaster of the Fells
 3 Kolaghan's Command
+3 Thoughtseize
 3 Fatal Push
 3 Wrenn and Six
 3 Blackcleave Cliffs
 3 Huntmaster of the Fells
 3 Inquisition of Kozilek
 3 Tarmogoyf
-3 Thoughtseize
 3 Verdant Catacombs
 4 Thoughtseize
 4 Fatal Push
@@ -71,10 +71,10 @@
 1 Matter Reshaper
 2 Cavern of Souls
 2 Serum Powder
-2 Thought-Knot Seer
 2 Mutavault
 2 Dismember
 2 Reality Smasher
+2 Thought-Knot Seer
 2 Eternal Scourge
 2 Matter Reshaper
 2 Blast Zone
@@ -117,10 +117,10 @@
 2 Pentad Prism
 2 Generator Servant
 2 Blood Crypt
-3 Emrakul, the Aeons Torn
 3 Pentad Prism
 3 Generator Servant
 3 Ilharg, the Raze-Boar
+3 Emrakul, the Aeons Torn
 4 Emrakul, the Aeons Torn
 4 Ilharg, the Raze-Boar
 2 Stomping Ground
@@ -172,9 +172,9 @@
 4 Goblin Guide
 4 Soul-Scar Mage
 4 Light Up the Stage
+1 Mwonvuli Acid-Moss
 1 Utopia Sprawl
 1 Arbor Elf
-1 Mwonvuli Acid-Moss
 2 Mwonvuli Acid-Moss
 2 Utopia Sprawl
 2 Arbor Elf
@@ -185,8 +185,8 @@
 4 Arbor Elf
 4 Utopia Sprawl
 1 Chandra, Torch of Defiance
-1 Pillage
 1 Chandra, Awakened Inferno
+1 Pillage
 1 Platinum Emperion
 1 Windswept Heath
 1 Madcap Experiment
@@ -217,9 +217,8 @@
 1 Nissa, Vastwood Seer
 1 Eternal Witness
 1 Ramunap Excavator
-1 Acidic Slime
 1 Primal Command
-1 Hornet Queen
+1 Acidic Slime
 1 Field of Ruin
 1 Castle Garenbrig
 1 Shriekmaw
@@ -228,6 +227,7 @@
 1 Walking Ballista
 1 Birds of Paradise
 1 Ohran Viper
+1 Hornet Queen
 2 Primal Command
 2 Eternal Witness
 2 Acidic Slime
@@ -239,11 +239,11 @@
 2 Snow-Covered Forest
 3 Birds of Paradise
 3 Snow-Covered Forest
-3 Eternal Witness
 3 Primal Command
+3 Eternal Witness
+4 Primal Command
 4 Snow-Covered Forest
 4 Eternal Witness
-4 Primal Command
 5 Snow-Covered Forest
 6 Snow-Covered Forest
 7 Snow-Covered Forest

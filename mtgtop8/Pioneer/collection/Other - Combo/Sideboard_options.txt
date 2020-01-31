@@ -1,12 +1,12 @@
 2 Negate
-1 Questing Beast
-1 Aether Meltdown
 4 Mystical Dispute
+1 Cry of the Carnarium
 1 Noxious Grasp
 1 Aether Gust
 2 Aether Gust
+1 Questing Beast
 1 Damping Sphere
-1 Cry of the Carnarium
+1 Aether Meltdown
 2 Cry of the Carnarium
 1 Fry
 2 Fry
@@ -14,8 +14,12 @@
 1 Scavenging Ooze
 2 Scavenging Ooze
 3 Aether Gust
+1 Legion's End
+1 Kalitas, Traitor of Ghet
 1 Fatal Push
 1 Thoughtseize
+1 Unmoored Ego
+2 Unmoored Ego
 1 Karn, Scion of Urza
 1 Chandra, Flamecaller
 2 Karn, Scion of Urza
@@ -24,10 +28,8 @@
 2 Damping Sphere
 1 Pack Rat
 1 The Scarab God
-1 Legion's End
 1 Liliana's Triumph
 1 Grafdigger's Cage
-1 Kalitas, Traitor of Ghet
 1 Ultimate Price
 2 Grafdigger's Cage
 1 Ratchet Bomb
@@ -50,6 +52,13 @@
 1 Golos, Tireless Pilgrim
 1 Whirler Virtuoso
 2 Golos, Tireless Pilgrim
+1 Hero's Downfall
+1 Ritual of Soot
+1 Infernal Reckoning
+1 Thief of Sanity
+2 Kalitas, Traitor of Ghet
+2 Thief of Sanity
+2 Infernal Reckoning
 1 Ashiok, Dream Render
 2 Ashiok, Dream Render
 1 Narset, Parter of Veils
@@ -63,14 +72,6 @@
 2 Urza's Ruinous Blast
 3 Thoughtseize
 3 Fatal Push
-1 Bow of Nylea
-1 Display of Dominance
-1 Reclamation Sage
-1 Hornet Nest
-2 Display of Dominance
-2 Reclamation Sage
-2 Hornet Nest
-3 Hornet Nest
 1 Settle the Wreckage
 1 Monastery Mentor
 1 Apostle of Purifying Light
@@ -81,6 +82,14 @@
 2 Settle the Wreckage
 3 Lavinia, Azorius Renegade
 3 Monastery Mentor
+1 Bow of Nylea
+1 Display of Dominance
+1 Reclamation Sage
+1 Hornet Nest
+2 Display of Dominance
+2 Reclamation Sage
+2 Hornet Nest
+3 Hornet Nest
 1 Rest in Peace
 2 Chandra, Torch of Defiance
 2 Rest in Peace
@@ -94,10 +103,8 @@
 1 Engulf the Shore
 4 Aether Gust
 1 Bontu's Last Reckoning
-1 Unmoored Ego
 1 Dragonlord Silumgar
 1 Duress
 2 Bontu's Last Reckoning
-2 Unmoored Ego
 2 Duress
 2 Noxious Grasp

@@ -63,7 +63,7 @@
 |                    4|[Castle Vantress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473204)        |                    4|[Devout Decree](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466767)             |
 |                     |                                                                                                  |                    1|Heliod's Intervention                                                                                |
 |                     |                                                                                                  |                    1|Elspeth Conquers Death                                                                               |
-|                     |                                                                                                  |                    2|Elspeth Conquers Death                                                                               |
 |                     |                                                                                                  |                    2|Heliod's Intervention                                                                                |
+|                     |                                                                                                  |                    2|Elspeth Conquers Death                                                                               |
 |                     |                                                                                                  |                    3|Heliod's Intervention                                                                                |
 

@@ -1,14 +1,14 @@
-2 Scalding Tarn
-1 Wooded Foothills
 2 Wooded Foothills
-3 Flooded Strand
-4 Flooded Strand
-3 Polluted Delta
+2 Spell Snare
+1 Brazen Borrower
 3 Wooded Foothills
 1 Chain Lightning
 1 Dreadhorde Arcanist
 2 Dreadhorde Arcanist
 3 Dreadhorde Arcanist
+3 Flooded Strand
+4 Flooded Strand
+3 Polluted Delta
 1 Dismember
 1 True-Name Nemesis
 1 Sylvan Library
@@ -17,7 +17,6 @@
 3 Spell Pierce
 1 Waterlogged Grove
 1 Fiery Islet
-4 Polluted Delta
 4 Wooded Foothills
 1 Hexdrinker
 1 Island
@@ -25,14 +24,8 @@
 4 Scalding Tarn
 2 Preordain
 3 Misty Rainforest
-1 Fire / Ice
 2 Chain Lightning
 2 Brazen Borrower
-1 Flusterstorm
-1 Snow-Covered Island
-1 Disrupt
-2 Disrupt
-3 Hooting Mandrills
 1 Magmatic Sinkhole
 1 Young Pyromancer
 2 Force of Negation
@@ -51,3 +44,9 @@
 2 Hexdrinker
 2 Vapor Snag
 4 Dreadhorde Arcanist
+1 Flusterstorm
+1 Snow-Covered Island
+1 Disrupt
+2 Disrupt
+3 Hooting Mandrills
+4 Polluted Delta

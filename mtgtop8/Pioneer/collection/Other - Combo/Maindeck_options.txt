@@ -1,14 +1,3 @@
-4 Ulamog, the Ceaseless Hunger
-2 Ugin, the Spirit Dragon
-4 Forest
-2 Breeding Pool
-2 Emrakul, the Promised End
-3 Steam Vents
-4 Steam Vents
-2 Island
-3 Island
-4 Island
-1 Thoughtseize
 1 Swamp
 1 Drowned Catacomb
 1 Fatal Push
@@ -29,31 +18,51 @@
 1 Fetid Pools
 1 Thassa's Oracle
 1 Inverter of Truth
-1 Murderous Cut
 2 Fetid Pools
-2 Inverter of Truth
 2 Jace, Wielder of Mysteries
+2 Inverter of Truth
 2 Thassa's Oracle
 2 Thoughtseize
 2 Swamp
 3 Dig Through Time
 3 Drowned Catacomb
-3 Inverter of Truth
 3 Thassa's Oracle
+3 Inverter of Truth
 3 Thoughtseize
-3 Jace, Wielder of Mysteries
 4 Drowned Catacomb
 4 Inverter of Truth
-4 Thassa's Oracle
 4 Fatal Push
 4 Thoughtseize
+1 Rootbound Crag
+2 Shrine of the Forsaken Gods
+3 Golos, Tireless Pilgrim
+4 Golos, Tireless Pilgrim
+4 Ulamog, the Ceaseless Hunger
 5 Island
-1 Field of Ruin
-2 Field of Ruin
+2 Ugin, the Spirit Dragon
 1 Drown in the Loch
 1 Fabled Passage
 2 Fabled Passage
+4 Forest
+2 Breeding Pool
+1 Choked Estuary
+1 Thought Erasure
+2 Drown in the Loch
+2 Choked Estuary
+2 Thought Erasure
+3 Fabled Passage
+4 Fabled Passage
+4 Dig Through Time
+2 Emrakul, the Promised End
+3 Steam Vents
+4 Steam Vents
+1 Murderous Cut
+3 Jace, Wielder of Mysteries
+4 Thassa's Oracle
+1 Castle Locthwain
 6 Island
+1 Field of Ruin
+2 Field of Ruin
 2 Rootbound Crag
 3 Shrine of the Forsaken Gods
 1 Plains
@@ -61,6 +70,17 @@
 1 Temple Garden
 1 Hour of Promise
 1 Radiant Fountain
+1 Omen of the Sea
+1 Censor
+2 Censor
+3 Swamp
+1 The Scarab God
+1 Tyrant's Scorn
+1 Hero's Downfall
+1 Jace, Vryn's Prodigy
+2 Castle Locthwain
+2 Jace, Vryn's Prodigy
+3 Jace, Vryn's Prodigy
 1 Nahiri, the Harbinger
 1 Spirebluff Canal
 1 Tireless Tracker
@@ -69,17 +89,16 @@
 3 Nahiri, the Harbinger
 4 Breeding Pool
 1 Discovery / Dispersal
-1 Castle Locthwain
 1 Temple of Deceit
 1 Castle Vantress
-1 Bontu's Last Reckoning
 1 Collective Brutality
-2 Murderous Cut
+1 Bontu's Last Reckoning
 2 Discovery / Dispersal
 2 Temple of Deceit
 2 Collective Brutality
-3 Fetid Pools
+2 Murderous Cut
 3 Field of Ruin
+3 Fetid Pools
 3 Discovery / Dispersal
 4 Fetid Pools
 4 Discovery / Dispersal
@@ -99,10 +118,10 @@
 1 Wastes
 1 Zhalfirin Void
 1 Heart of Kiran
+1 Stonecoil Serpent
 1 Mutavault
 1 Sea Gate Wreckage
 1 Darksteel Citadel
-1 Stonecoil Serpent
 1 Mobilized District
 1 Warping Wail
 1 Karn, Scion of Urza
@@ -127,14 +146,14 @@
 2 Mobilized District
 2 Karn, the Great Creator
 3 Blast Zone
-3 Stonecoil Serpent
 3 Walking Ballista
+3 Stonecoil Serpent
 3 Zhalfirin Void
 3 Karn, Scion of Urza
 3 Wastes
 3 Mutavault
-3 Spatial Contortion
 3 Ratchet Bomb
+3 Spatial Contortion
 3 Karn, the Great Creator
 3 Fountain of Renewal
 3 Scrap Trawler
@@ -146,18 +165,6 @@
 4 Zhalfirin Void
 4 Fountain of Renewal
 4 Karn, Scion of Urza
-1 Omen of the Sea
-1 Thought Erasure
-1 Choked Estuary
-1 Censor
-2 Drown in the Loch
-2 Thought Erasure
-2 Choked Estuary
-2 Censor
-3 Swamp
-3 Fabled Passage
-4 Fabled Passage
-4 Dig Through Time
 1 Geier Reach Sanitarium
 1 Day's Undoing
 1 Narset, Parter of Veils
@@ -176,8 +183,8 @@
 4 Teferi, Time Raveler
 4 Hallowed Fountain
 1 Once Upon a Time
-1 Mox Amber
 1 Terrarion
+1 Mox Amber
 1 Mana Confluence
 1 Urborg, Tomb of Yawgmoth
 1 Emry, Lurker of the Loch
@@ -187,8 +194,8 @@
 1 Oko, Thief of Crowns
 1 Kethis, the Hidden Hand
 1 Blooming Marsh
-2 Mox Amber
 2 Terrarion
+2 Mox Amber
 2 Emry, Lurker of the Loch
 2 Once Upon a Time
 2 Mana Confluence
@@ -200,8 +207,8 @@
 2 Urborg, Tomb of Yawgmoth
 2 Lazav, the Multifarious
 2 Oath of Nissa
-3 Mox Amber
 3 Emry, Lurker of the Loch
+3 Mox Amber
 3 Mana Confluence
 3 Once Upon a Time
 3 Diligent Excavator
@@ -237,8 +244,8 @@
 1 Supreme Verdict
 1 Port Town
 2 Glacial Fortress
-2 Teferi, Hero of Dominaria
 2 Myth Realized
+2 Teferi, Hero of Dominaria
 2 Plains
 2 Blessed Alliance
 2 Supreme Verdict
@@ -251,8 +258,8 @@
 3 Glacial Fortress
 3 Plains
 3 Azorius Charm
-4 Port Town
 4 Myth Realized
+4 Port Town
 4 Glacial Fortress
 4 Plains
 4 Azorius Charm

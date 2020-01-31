@@ -1,0 +1,33 @@
+# Selesnya Aggro
+
+#### [Export MTGO List](../collection/Selesnya%20Aggro/Selesnya%20Aggro.txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=2%09Aven%20Mindcensor%0A1%09Brimaz,%20King%20of%20Oreskos%0A4%09Collected%20Company%0A4%09Forest%0A1%09Gavony%20Township%0A3%09Giver%20of%20Runes%0A4%09Hexdrinker%0A2%09Horizon%20Canopy%0A2%09Knight%20of%20Autumn%0A1%09Knight%20of%20the%20Reliquary%0A4%09Path%20to%20Exile%0A2%09Plains%0A1%09Questing%20Beast%0A3%09Ranger-Captain%20of%20Eos%0A4%09Scavenging%20Ooze%0A4%09Stirring%20Wildwood%0A4%09Strangleroot%20Geist%0A4%09Temple%20Garden%0A1%09Verdant%20Catacombs%0A4%09Voice%20of%20Resurgence%0A4%09Windswept%20Heath%0A1%09Wooded%20Foothills&deckside=2%09Collector%20Ouphe%0A3%09Damping%20Sphere%0A2%09Gaddock%20Teeg%0A1%09Knight%20of%20Autumn%0A2%09Melira,%20Sylvok%20Outcast%0A2%09Mirran%20Crusader%0A2%09Spellskite%0A1%09Thrun,%20the%20Last%20Troll)
+# Maindeck
+
+|                                           Creature (29)                                            |                                         Instant (8)                                          |                                          Land (23)                                           |
+|----------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
+|2 [Aven Mindcensor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426707)        |4 [Collected Company](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394519)|4 [Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)           |
+|1 [Brimaz, King of Oreskos](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=378377)|4 [Path to Exile](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220511)    |1 [Gavony Township](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=233242)  |
+|3 [Giver of Runes](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463962)         |                                                                                              |2 [Horizon Canopy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409571)   |
+|4 [Hexdrinker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464117)             |                                                                                              |2 [Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)           |
+|2 [Knight of Autumn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452933)       |                                                                                              |4 [Stirring Wildwood](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=433213)|
+|1 [Knight of the Reliquary](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=189145)|                                                                                              |4 [Temple Garden](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405112)    |
+|1 [Questing Beast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473133)         |                                                                                              |1 [Verdant Catacombs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405113)|
+|3 [Ranger-Captain of Eos](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463970)  |                                                                                              |4 [Windswept Heath](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405115)  |
+|4 [Scavenging Ooze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420783)        |                                                                                              |1 [Wooded Foothills](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405116) |
+|4 [Strangleroot Geist](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=262671)     |                                                                                              |                                                                                              |
+|4 [Voice of Resurgence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=368951)    |                                                                                              |                                                                                              |
+
+
+# Sideboard
+
+|                                       Artifact (3)                                        |                                           Creature (12)                                           |
+|-------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
+|3 [Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)|2 [Collector Ouphe](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464107)       |
+|                                                                                           |2 [Gaddock Teeg](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=140188)          |
+|                                                                                           |1 [Knight of Autumn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452933)      |
+|                                                                                           |2 [Melira, Sylvok Outcast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=194274)|
+|                                                                                           |2 [Mirran Crusader](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=213802)       |
+|                                                                                           |2 [Spellskite](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397743)            |
+|                                                                                           |1 [Thrun, the Last Troll](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=214050) |
+

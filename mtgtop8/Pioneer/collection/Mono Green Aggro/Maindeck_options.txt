@@ -11,8 +11,8 @@
 3 Castle Garenbrig
 2 Scavenging Ooze
 2 Vivien, Arkbow Ranger
-1 Voracious Hydra
 1 Jadelight Ranger
+1 Voracious Hydra
 2 Jadelight Ranger
 2 Voracious Hydra
 3 Voracious Hydra
@@ -90,17 +90,17 @@
 1 Tireless Tracker
 2 Tireless Tracker
 3 Tireless Tracker
-1 Collected Company
 1 Mutavault
-2 Collected Company
+1 Collected Company
 2 Mutavault
+2 Collected Company
 3 Collected Company
 4 Collected Company
 1 Heart of Kiran
 2 Heart of Kiran
 1 Kiora, Behemoth Beckoner
-1 Thrashing Brontodon
 1 Shifting Ceratops
+1 Thrashing Brontodon
 2 Shifting Ceratops
 1 Vine Mare
 1 Blossoming Defense
@@ -127,18 +127,18 @@
 3 Spatial Contortion
 4 Radiant Fountain
 1 Experiment One
-1 Barkhide Troll
 1 Avatar of the Resolute
 1 Renegade Krasis
+1 Barkhide Troll
 2 Experiment One
-2 Barkhide Troll
 2 Avatar of the Resolute
+2 Barkhide Troll
 3 Experiment One
-3 Barkhide Troll
 3 Avatar of the Resolute
+3 Barkhide Troll
 4 Experiment One
-4 Barkhide Troll
 4 Avatar of the Resolute
+4 Barkhide Troll
 1 Nullhide Ferox
 1 Growth-Chamber Guardian
 1 Carnage Tyrant
@@ -149,30 +149,6 @@
 3 Nullhide Ferox
 4 Growth-Chamber Guardian
 4 Nullhide Ferox
-1 Fabled Passage
-1 Evolving Wilds
-1 Cryptic Caves
-1 Sylvan Advocate
-1 Ramunap Excavator
-1 Wayward Swordtooth
-1 Courser of Kruphix
-2 Wayward Swordtooth
-2 Courser of Kruphix
-2 Fabled Passage
-2 Evolving Wilds
-2 Sylvan Advocate
-2 Ramunap Excavator
-3 Wayward Swordtooth
-3 Sylvan Advocate
-3 Fabled Passage
-3 Courser of Kruphix
-3 Mutavault
-4 Mutavault
-4 Gilded Goose
-4 Wayward Swordtooth
-4 Sylvan Advocate
-4 Fabled Passage
-4 Tireless Tracker
 1 Merfolk Branchwalker
 2 Merfolk Branchwalker
 3 Merfolk Branchwalker
@@ -189,29 +165,29 @@
 3 Sanctum of Ugin
 4 Elvish Rejuvenator
 4 Nissa's Pilgrimage
+1 Elvish Clancaller
 1 Thorn Lieutenant
+1 Dwynen's Elite
+1 Shaman of the Pack
 1 Wildborn Preserver
 1 Icon of Ancestry
-1 Shaman of the Pack
 1 Overgrown Tomb
 1 Blooming Marsh
-1 Dwynen's Elite
 1 Llanowar Wastes
-1 Elvish Clancaller
+2 Elvish Clancaller
+2 Shaman of the Pack
+2 Dwynen's Elite
 2 Thorn Lieutenant
 2 Wildborn Preserver
 2 Icon of Ancestry
 2 Blooming Marsh
-2 Shaman of the Pack
 2 Overgrown Tomb
-2 Elvish Clancaller
-2 Dwynen's Elite
 2 Llanowar Wastes
 3 Elvish Clancaller
 3 Shaman of the Pack
+3 Dwynen's Elite
 3 Thorn Lieutenant
 3 Wildborn Preserver
-3 Dwynen's Elite
 3 Llanowar Wastes
 3 Blooming Marsh
 3 Overgrown Tomb
@@ -227,6 +203,30 @@
 3 Rogue's Passage
 4 Rhonas the Indomitable
 4 Rogue's Passage
+1 Fabled Passage
+1 Wayward Swordtooth
+1 Ramunap Excavator
+1 Sylvan Advocate
+1 Cryptic Caves
+1 Evolving Wilds
+1 Courser of Kruphix
+2 Wayward Swordtooth
+2 Courser of Kruphix
+2 Fabled Passage
+2 Ramunap Excavator
+2 Sylvan Advocate
+2 Evolving Wilds
+3 Wayward Swordtooth
+3 Fabled Passage
+3 Courser of Kruphix
+3 Sylvan Advocate
+3 Mutavault
+4 Mutavault
+4 Gilded Goose
+4 Wayward Swordtooth
+4 Fabled Passage
+4 Tireless Tracker
+4 Sylvan Advocate
 19 Forest
 20 Forest
 21 Forest

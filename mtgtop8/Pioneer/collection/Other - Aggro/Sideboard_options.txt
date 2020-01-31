@@ -37,8 +37,8 @@
 1 Aether Gust
 2 Aethersphere Harvester
 1 Collective Effort
-1 Needle Spires
 1 Adanto Vanguard
+1 Needle Spires
 2 Collective Effort
 2 Adanto Vanguard
 2 Natural State
@@ -58,20 +58,32 @@
 2 Devout Decree
 2 Pithing Needle
 1 Abrade
-1 The Antiquities War
 1 Stubborn Denial
+1 The Antiquities War
 1 Thopter Spy Network
 1 Mizzium Mortars
 2 Stubborn Denial
 2 Mizzium Mortars
 3 Stubborn Denial
+1 Knight of Autumn
 1 Scavenging Ooze
 1 Tireless Tracker
 2 Scavenging Ooze
+2 Knight of Autumn
+1 Deputy of Detention
+1 Reflector Mage
+1 Phyrexian Revoker
+1 Mystical Dispute
+1 Time Wipe
+2 Deputy of Detention
+2 Phyrexian Revoker
+2 Mystical Dispute
+3 Phyrexian Revoker
+3 Mystical Dispute
 1 Negate
+1 The Royal Scions
 1 Chandra, Awakened Inferno
 1 Magma Spray
-1 The Royal Scions
 1 Back to Nature
 1 Search for Azcanta
 2 Negate
@@ -90,27 +102,15 @@
 2 Roast
 2 Aether Gust
 3 Aethersphere Harvester
-1 Knight of Autumn
-2 Knight of Autumn
 1 Remorseful Cleric
 1 Eidolon of Rhetoric
 1 Vivien, Arkbow Ranger
 1 Unbreakable Formation
 1 Thassa, God of the Sea
-2 Vivien, Arkbow Ranger
 2 Eidolon of Rhetoric
+2 Vivien, Arkbow Ranger
 3 Knight of Autumn
 3 Disdainful Stroke
-1 Deputy of Detention
-1 Reflector Mage
-1 Phyrexian Revoker
-1 Mystical Dispute
-1 Time Wipe
-2 Deputy of Detention
-2 Phyrexian Revoker
-2 Mystical Dispute
-3 Mystical Dispute
-3 Phyrexian Revoker
 1 The Eldest Reborn
 1 Self-Inflicted Wound
 2 Self-Inflicted Wound
@@ -124,16 +124,16 @@
 2 Giant Killer
 3 Spell Queller
 4 Spell Queller
-1 Despark
 1 Rotting Regisaur
+1 Despark
 1 Pain Seer
 1 Blood Baron of Vizkopa
 2 Rotting Regisaur
 2 Blood Baron of Vizkopa
-2 Despark
 2 Pain Seer
-3 Blood Baron of Vizkopa
+2 Despark
 3 Rotting Regisaur
+3 Blood Baron of Vizkopa
 4 Rotting Regisaur
 1 Rekindling Phoenix
 1 Angrath's Rampage
@@ -142,12 +142,12 @@
 3 Eidolon of the Great Revel
 3 Tormod's Crypt
 4 Eidolon of the Great Revel
-4 Assassin's Trophy
 1 Brave the Elements
 1 Declaration in Stone
 1 Conclave Tribunal
 2 Declaration in Stone
 4 Rest in Peace
+4 Assassin's Trophy
 3 Epic Downfall
 3 Chandra's Defeat
 4 Leyline of the Void
@@ -155,8 +155,8 @@
 1 Lyra Dawnbringer
 1 Nyx-Fleece Ram
 1 Thrashing Brontodon
-1 Witchstalker
 1 Fleecemane Lion
+1 Witchstalker
 2 Selfless Spirit
 2 Nyx-Fleece Ram
 2 Fleecemane Lion

@@ -32,11 +32,11 @@
 
 |*n*<sup>th</sup> copy|                                     Maindeck Card                                     |*n*<sup>th</sup> copy|                                     Sideboard Card                                      |
 |--------------------:|---------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------|
-|                    1|[Sixth Sense](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426889) |                    1|[Force of Vigor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464113)|
-|                    1|[Brushland](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129496)   |                    1|[Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)|
-|                    2|[Brushland](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129496)   |                    1|[Pithing Needle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129526)|
-|                    2|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)      |                    1|[Stony Silence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=247425) |
-|                    3|[Gryff's Boon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409758)|                    1|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)|
+|                    1|[Sixth Sense](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426889) |                    1|[Pithing Needle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129526)|
+|                    1|[Brushland](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129496)   |                    1|[Stony Silence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=247425) |
+|                    2|[Brushland](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129496)   |                    1|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)|
+|                    2|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)      |                    1|[Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)|
+|                    3|[Gryff's Boon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409758)|                    1|[Force of Vigor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464113)|
 |                    3|[Brushland](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129496)   |                    2|[Force of Vigor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464113)|
 |                    3|[Spider Umbra](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220555)|                    2|[Pithing Needle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129526)|
 |                    4|[Gryff's Boon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409758)|                    2|[Stony Silence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=247425) |

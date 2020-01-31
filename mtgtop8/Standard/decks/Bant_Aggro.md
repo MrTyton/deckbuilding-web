@@ -48,7 +48,7 @@
 |                    3|[Questing Beast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473133)            |                     |                                                                                             |
 |                    3|[Deputy of Detention](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457309)       |                     |                                                                                             |
 |                    3|[Temple of Mystery](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373571)         |                     |                                                                                             |
-|                    4|[Temple of Mystery](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373571)         |                     |                                                                                             |
 |                    4|[Hydroid Krasis](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457327)            |                     |                                                                                             |
+|                    4|[Temple of Mystery](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373571)         |                     |                                                                                             |
 |                    3|[Shepherd of the Flock](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472990)     |                     |                                                                                             |
 
