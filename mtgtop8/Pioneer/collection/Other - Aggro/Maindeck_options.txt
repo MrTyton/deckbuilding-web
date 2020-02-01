@@ -42,16 +42,16 @@
 3 Driven / Despair
 4 Haunted Dead
 1 Abrade
-1 Foreboding Ruins
 1 Heart of Kiran
 1 Cut / Ribbons
-2 Foreboding Ruins
+1 Foreboding Ruins
 2 Heart of Kiran
-3 Foreboding Ruins
+2 Foreboding Ruins
 3 Rekindling Phoenix
-4 Foreboding Ruins
+3 Foreboding Ruins
 4 Glorybringer
 4 Rekindling Phoenix
+4 Foreboding Ruins
 4 Scrapheap Scrounger
 8 Mountain
 9 Mountain
@@ -64,48 +64,48 @@
 1 Emry, Lurker of the Loch
 1 Bomat Courier
 1 Spire of Industry
+1 Darksteel Citadel
 1 Ensoul Artifact
+1 Hope of Ghirapur
 1 Shrapnel Blast
 1 Gingerbrute
 1 Ghostfire Blade
-1 Darksteel Citadel
-1 Skilled Animator
 1 The Royal Scions
 1 Stonecoil Serpent
+1 Skilled Animator
 1 Shivan Reef
 1 Steam Vents
-1 Hope of Ghirapur
+2 Hope of Ghirapur
 2 Steam Vents
 2 Spire of Industry
+2 Ensoul Artifact
+2 Darksteel Citadel
 2 Ghostfire Blade
 2 Shrapnel Blast
-2 Darksteel Citadel
 2 Gingerbrute
-2 Ensoul Artifact
-2 Skilled Animator
 2 Bomat Courier
 2 Shivan Reef
-2 Hope of Ghirapur
+2 Skilled Animator
 2 Stonecoil Serpent
 3 Spirebluff Canal
 3 Spire of Industry
-3 Gingerbrute
-3 Skilled Animator
-3 Ensoul Artifact
-3 Ghostfire Blade
 3 Darksteel Citadel
+3 Ensoul Artifact
+3 Gingerbrute
+3 Ghostfire Blade
 3 Shrapnel Blast
 3 Bomat Courier
+3 Skilled Animator
 3 Stonecoil Serpent
 3 Shivan Reef
 4 Stonecoil Serpent
 4 Shivan Reef
-4 Gingerbrute
-4 Skilled Animator
-4 Ensoul Artifact
 4 Darksteel Citadel
-4 Shrapnel Blast
+4 Ensoul Artifact
+4 Gingerbrute
 4 Ghostfire Blade
+4 Shrapnel Blast
+4 Skilled Animator
 4 Spirebluff Canal
 1 Castle Embereth
 1 Breeding Pool
@@ -243,9 +243,9 @@
 2 Gideon, Ally of Zendikar
 2 Inspiring Veteran
 3 Venerable Knight
-3 Clifftop Retreat
 3 History of Benalia
 3 Worthy Knight
+3 Clifftop Retreat
 3 Tajic, Legion's Edge
 3 Inspiring Veteran
 4 History of Benalia
@@ -276,25 +276,6 @@
 2 Emry, Lurker of the Loch
 2 Metallic Rebuke
 4 Bomat Courier
-1 Lightning Strike
-1 Ramunap Ruins
-1 Torbran, Thane of Red Fell
-1 Angrath's Rampage
-1 Goblin Rabblemaster
-1 Canyon Slough
-2 Ramunap Ruins
-2 Lightning Strike
-2 Torbran, Thane of Red Fell
-2 Angrath's Rampage
-2 Goblin Rabblemaster
-2 Castle Embereth
-2 Canyon Slough
-3 Chandra, Torch of Defiance
-3 Ramunap Ruins
-3 Angrath's Rampage
-3 Goblin Rabblemaster
-4 Ramunap Ruins
-4 Goblin Rabblemaster
 1 Unclaimed Territory
 1 Glint-Sleeve Siphoner
 1 Elite Guardmage
@@ -315,6 +296,25 @@
 4 Unclaimed Territory
 4 Glint-Sleeve Siphoner
 4 Kitesail Freebooter
+1 Lightning Strike
+1 Ramunap Ruins
+1 Torbran, Thane of Red Fell
+1 Angrath's Rampage
+1 Goblin Rabblemaster
+1 Canyon Slough
+2 Ramunap Ruins
+2 Lightning Strike
+2 Torbran, Thane of Red Fell
+2 Angrath's Rampage
+2 Goblin Rabblemaster
+2 Castle Embereth
+2 Canyon Slough
+3 Angrath's Rampage
+3 Chandra, Torch of Defiance
+3 Ramunap Ruins
+3 Goblin Rabblemaster
+4 Ramunap Ruins
+4 Goblin Rabblemaster
 1 Steel Leaf Champion
 1 Duskwatch Recruiter
 1 Yorvo, Lord of Garenbrig
@@ -338,9 +338,9 @@
 1 Urborg, Tomb of Yawgmoth
 1 Shambling Vent
 1 Ravenous Chupacabra
+1 Brain Maggot
 1 Wasteland Strangler
 1 Ifnir Deadlands
-1 Brain Maggot
 1 Ultimate Price
 1 Lyra Dawnbringer
 1 Liliana, the Last Hope
@@ -352,10 +352,10 @@
 1 Caves of Koilos
 1 Baffling End
 1 Shefet Dunes
-2 Wasteland Strangler
+2 Ifnir Deadlands
 2 Ravenous Chupacabra
 2 Brain Maggot
-2 Ifnir Deadlands
+2 Wasteland Strangler
 2 Shambling Vent
 2 Ultimate Price
 2 Fairgrounds Warden
@@ -366,14 +366,14 @@
 2 Caves of Koilos
 2 Shefet Dunes
 3 Mutavault
-3 Wasteland Strangler
 3 Brain Maggot
+3 Wasteland Strangler
 3 Thought-Knot Seer
 3 Caves of Koilos
 4 Thought-Knot Seer
+4 Wasteland Strangler
 4 Brain Maggot
 4 Mutavault
-4 Wasteland Strangler
 4 Caves of Koilos
 1 Militia Bugler
 1 Cloudblazer
@@ -473,44 +473,44 @@
 4 Attune with Aether
 2 Abrade
 12 Mountain
-1 Temple of Silence
-1 Lazotep Reaver
 1 Corpse Knight
-1 Cryptbreaker
 1 Wayward Servant
+1 Temple of Silence
 1 Isolated Chapel
 1 Liliana, Untouched by Death
 1 Death Baron
+1 Cryptbreaker
 1 Dread Wanderer
 1 Rally the Ancestors
+1 Lazotep Reaver
 1 Nantuko Husk
-2 Cryptbreaker
+2 Temple of Silence
 2 Corpse Knight
 2 Wayward Servant
-2 Lazotep Reaver
 2 Isolated Chapel
+2 Lazotep Reaver
 2 Nantuko Husk
 2 Dread Wanderer
 2 Death Baron
-2 Temple of Silence
 2 Liliana, Untouched by Death
+2 Cryptbreaker
 2 Rally the Ancestors
 3 Dread Wanderer
-3 Lazotep Reaver
-3 Cryptbreaker
+3 Temple of Silence
 3 Wayward Servant
 3 Isolated Chapel
 3 Corpse Knight
-3 Temple of Silence
+3 Cryptbreaker
 3 Death Baron
 3 Liliana, Untouched by Death
 3 Rally the Ancestors
 3 Swamp
+3 Lazotep Reaver
 4 Temple of Silence
-4 Cryptbreaker
 4 Isolated Chapel
 4 Wayward Servant
 4 Corpse Knight
+4 Cryptbreaker
 4 Swamp
 4 Rally the Ancestors
 5 Swamp

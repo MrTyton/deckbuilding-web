@@ -11,11 +11,11 @@
 1 Bonecrusher Giant
 2 Bonecrusher Giant
 2 Nicol Bolas, Dragon-God
+1 Dragonskull Summit
 1 Fatal Push
 1 Blood Crypt
 1 Swamp
 1 Watery Grave
-1 Dragonskull Summit
 2 Watery Grave
 2 Blood Crypt
 2 Fatal Push
@@ -36,8 +36,8 @@
 2 Island
 2 Fabled Passage
 1 Murderous Rider
-2 Swamp
 2 Murderous Rider
+2 Swamp
 3 Murderous Rider
 1 Keranos, God of Storms
 1 Mana Confluence
@@ -66,38 +66,17 @@
 1 Chandra, Flamecaller
 1 Sarkhan the Masterless
 2 Kenrith, the Returned King
-2 Magma Jet
 2 Sarkhan the Masterless
+2 Magma Jet
 2 Commit / Memory
 4 Narset, Parter of Veils
 1 Oko, Thief of Crowns
 2 Temple of Enlightenment
 2 Oko, Thief of Crowns
 4 Hallowed Fountain
-1 Temple of Deceit
-1 The Scarab God
-1 Dreadbore
-1 Brazen Borrower
-1 Glorybringer
-1 Liliana, the Last Hope
-1 Gonti, Lord of Luxury
-2 Brazen Borrower
-2 Liliana, the Last Hope
-2 Glorybringer
-2 The Scarab God
-3 Brazen Borrower
-3 The Scarab God
-3 Chandra, Torch of Defiance
-3 Glorybringer
-3 Temple of Epiphany
-4 Glorybringer
-4 Brazen Borrower
-4 Steam Vents
-4 Thoughtseize
-4 Dragonskull Summit
 1 Ob Nixilis Reignited
-1 Cavalier of Gales
 1 Sweltering Suns
+1 Cavalier of Gales
 1 Cavalier of Flame
 1 Kalitas, Traitor of Ghet
 1 Sphinx of Foresight
@@ -111,8 +90,8 @@
 2 Sphinx of Foresight
 3 Castle Vantress
 3 Fatal Push
-3 Sphinx of Foresight
 3 Cavalier of Gales
+3 Sphinx of Foresight
 3 Fabled Passage
 3 Sweltering Suns
 3 Bonecrusher Giant
@@ -122,3 +101,24 @@
 4 Fabled Passage
 4 Cavalier of Flame
 4 Bonecrusher Giant
+1 Temple of Deceit
+1 Gonti, Lord of Luxury
+1 Glorybringer
+1 The Scarab God
+1 Dreadbore
+1 Brazen Borrower
+1 Liliana, the Last Hope
+2 Glorybringer
+2 Liliana, the Last Hope
+2 Brazen Borrower
+2 The Scarab God
+3 The Scarab God
+3 Chandra, Torch of Defiance
+3 Brazen Borrower
+3 Glorybringer
+3 Temple of Epiphany
+4 Steam Vents
+4 Thoughtseize
+4 Glorybringer
+4 Dragonskull Summit
+4 Brazen Borrower

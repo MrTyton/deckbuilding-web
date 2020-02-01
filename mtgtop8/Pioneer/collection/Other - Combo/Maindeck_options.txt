@@ -19,8 +19,8 @@
 1 Thassa's Oracle
 1 Inverter of Truth
 2 Fetid Pools
-2 Jace, Wielder of Mysteries
 2 Inverter of Truth
+2 Jace, Wielder of Mysteries
 2 Thassa's Oracle
 2 Thoughtseize
 2 Swamp
@@ -88,20 +88,6 @@
 3 Breeding Pool
 3 Nahiri, the Harbinger
 4 Breeding Pool
-1 Discovery / Dispersal
-1 Temple of Deceit
-1 Castle Vantress
-1 Collective Brutality
-1 Bontu's Last Reckoning
-2 Discovery / Dispersal
-2 Temple of Deceit
-2 Collective Brutality
-2 Murderous Cut
-3 Field of Ruin
-3 Fetid Pools
-3 Discovery / Dispersal
-4 Fetid Pools
-4 Discovery / Dispersal
 1 World Breaker
 1 Kozilek's Return
 1 Glassblower's Puzzleknot
@@ -116,13 +102,13 @@
 1 Hope of Ghirapur
 2 Hope of Ghirapur
 1 Wastes
+1 Mobilized District
 1 Zhalfirin Void
 1 Heart of Kiran
 1 Stonecoil Serpent
 1 Mutavault
 1 Sea Gate Wreckage
 1 Darksteel Citadel
-1 Mobilized District
 1 Warping Wail
 1 Karn, Scion of Urza
 1 Ratchet Bomb
@@ -136,12 +122,12 @@
 2 Stonecoil Serpent
 2 Zhalfirin Void
 2 Mutavault
-2 Warping Wail
 2 Karn, Scion of Urza
 2 Ratchet Bomb
 2 Spatial Contortion
 2 Fountain of Renewal
 2 Scrap Trawler
+2 Warping Wail
 2 Blast Zone
 2 Mobilized District
 2 Karn, the Great Creator
@@ -165,6 +151,20 @@
 4 Zhalfirin Void
 4 Fountain of Renewal
 4 Karn, Scion of Urza
+1 Discovery / Dispersal
+1 Temple of Deceit
+1 Castle Vantress
+1 Collective Brutality
+1 Bontu's Last Reckoning
+2 Discovery / Dispersal
+2 Temple of Deceit
+2 Collective Brutality
+2 Murderous Cut
+3 Fetid Pools
+3 Field of Ruin
+3 Discovery / Dispersal
+4 Discovery / Dispersal
+4 Fetid Pools
 1 Geier Reach Sanitarium
 1 Day's Undoing
 1 Narset, Parter of Veils
@@ -183,9 +183,9 @@
 4 Teferi, Time Raveler
 4 Hallowed Fountain
 1 Once Upon a Time
-1 Terrarion
 1 Mox Amber
 1 Mana Confluence
+1 Terrarion
 1 Urborg, Tomb of Yawgmoth
 1 Emry, Lurker of the Loch
 1 Lazav, the Multifarious
@@ -194,12 +194,12 @@
 1 Oko, Thief of Crowns
 1 Kethis, the Hidden Hand
 1 Blooming Marsh
-2 Terrarion
 2 Mox Amber
 2 Emry, Lurker of the Loch
 2 Once Upon a Time
 2 Mana Confluence
 2 Temple Garden
+2 Terrarion
 2 Oko, Thief of Crowns
 2 Blooming Marsh
 2 Kethis, the Hidden Hand
@@ -268,8 +268,8 @@
 1 Kiora, Behemoth Beckoner
 1 Domri Rade
 1 Possibility Storm
-1 Borborygmos Enraged
 1 Enter the Infinite
+1 Borborygmos Enraged
 1 Rosethorn Acolyte
 1 Lovestruck Beast
 1 Bonecrusher Giant

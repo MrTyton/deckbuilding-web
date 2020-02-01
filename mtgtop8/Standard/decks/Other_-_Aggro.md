@@ -31,8 +31,8 @@
 
 |*n*<sup>th</sup> copy|                                            Maindeck Card                                             |*n*<sup>th</sup> copy|                                      Sideboard Card                                       |
 |--------------------:|------------------------------------------------------------------------------------------------------|--------------------:|-------------------------------------------------------------------------------------------|
-|                    1|[Growth Spiral](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457322)              |                    1|[Lovestruck Beast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473127)|
-|                    1|Dryad of the Ilysian Grove                                                                            |                    4|[Aether Gust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466796)     |
+|                    1|Dryad of the Ilysian Grove                                                                            |                    1|[Lovestruck Beast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473127)|
+|                    1|[Growth Spiral](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457322)              |                    4|[Aether Gust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466796)     |
 |                    1|Nyxbloom Ancient                                                                                      |                    2|[Lovestruck Beast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473127)|
 |                    1|[Nissa, Who Shakes the World](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461096)|                     |                                                                                           |
 |                    1|[Fabled Passage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473206)             |                     |                                                                                           |

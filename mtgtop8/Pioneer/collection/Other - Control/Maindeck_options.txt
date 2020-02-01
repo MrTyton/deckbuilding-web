@@ -142,36 +142,31 @@
 1 Goblin Rabblemaster
 2 Goblin Rabblemaster
 1 Sphinx's Revelation
-1 Thirst for Meaning
 1 Ashiok, Nightmare Muse
+1 Thirst for Meaning
 1 Whirlwind Denial
 1 Ultimate Price
 1 Detention Sphere
 1 Absorb
 2 Absorb
-1 Stomping Ground
+1 Rix Maadi Reveler
+1 Mutavault
+1 Flamewake Phoenix
+1 Distended Mindbender
+2 Rix Maadi Reveler
+2 Mutavault
+2 Flamewake Phoenix
+2 Distended Mindbender
+3 Flamewake Phoenix
 1 Rootbound Crag
+1 Stomping Ground
 2 Stomping Ground
 2 Rootbound Crag
 3 Assassin's Trophy
-1 Rix Maadi Reveler
-1 Mutavault
-1 Distended Mindbender
-1 Flamewake Phoenix
-2 Rix Maadi Reveler
-2 Mutavault
-2 Distended Mindbender
-2 Flamewake Phoenix
-3 Flamewake Phoenix
 1 Jace, Unraveler of Secrets
 1 Westvale Abbey
 2 Jace, Unraveler of Secrets
 3 Vraska's Contempt
-1 Tyrant's Scorn
-1 Erebos's Intervention
-2 Thassa's Intervention
-2 Tyrant's Scorn
-4 Jace, Vryn's Prodigy
 1 Glimmer of Genius
 1 Liliana, Dreadhorde General
 1 Hour of Devastation
@@ -188,6 +183,11 @@
 2 Angrath's Rampage
 3 Goblin Dark-Dwellers
 4 Goblin Dark-Dwellers
+1 Erebos's Intervention
+1 Tyrant's Scorn
+2 Thassa's Intervention
+2 Tyrant's Scorn
+4 Jace, Vryn's Prodigy
 1 Cast Down
 2 Hieroglyphic Illumination
 2 Cast Down
@@ -195,14 +195,14 @@
 3 Field of Ruin
 4 Field of Ruin
 4 Dig Through Time
-1 Inverter of Truth
 1 Jace, Wielder of Mysteries
+1 Inverter of Truth
 1 Murderous Cut
 1 Thassa's Oracle
 1 Hero's Downfall
+2 Jace, Wielder of Mysteries
 2 Inverter of Truth
 2 Temple of Deceit
-2 Jace, Wielder of Mysteries
 2 Thassa's Oracle
 3 Inverter of Truth
 3 Thassa's Oracle
@@ -211,31 +211,31 @@
 1 Spirebluff Canal
 1 Commit / Memory
 1 Sacred Foundry
+1 Urza's Ruinous Blast
+1 Mox Amber
 1 Heart of Kiran
 1 Spell Pierce
 1 Magma Spray
-1 Mox Amber
 1 Elspeth, Sun's Champion
 1 Sarkhan the Masterless
-1 Urza's Ruinous Blast
 1 Interplanar Beacon
 2 Spirebluff Canal
 2 Sulfur Falls
 2 Heart of Kiran
 2 Sarkhan the Masterless
 2 Sacred Foundry
+2 Mox Amber
 2 Spell Pierce
 2 Magma Spray
 2 Interplanar Beacon
-2 Mox Amber
 3 Anger of the Gods
 3 Spirebluff Canal
 3 Sacred Foundry
 3 Spell Pierce
 3 Interplanar Beacon
 4 Anger of the Gods
-4 Spirebluff Canal
 4 Narset, Parter of Veils
+4 Spirebluff Canal
 4 Steam Vents
 4 Sacred Foundry
 4 Interplanar Beacon
@@ -243,37 +243,37 @@
 3 Plains
 4 Plains
 5 Plains
-1 God-Pharaoh's Gift
-1 Angel of Invention
 1 Refurbish
 1 Hostile Desert
-1 Ipnu Rivulet
+1 Angel of Invention
 1 Charming Prince
 1 Deputy of Detention
+1 God-Pharaoh's Gift
 1 Agent of Treachery
+1 Chart a Course
 1 Reflector Mage
 1 Supreme Verdict
-1 Chart a Course
+1 Ipnu Rivulet
 1 Strategic Planning
 1 Castle Ardenvale
 1 Irrigated Farmland
 2 Glacial Fortress
 2 Refurbish
-2 God-Pharaoh's Gift
 2 Angel of Invention
-2 Chart a Course
-2 Ipnu Rivulet
+2 God-Pharaoh's Gift
 2 Reflector Mage
+2 Chart a Course
 2 Charming Prince
 2 Agent of Treachery
 2 Strategic Planning
 2 Supreme Verdict
 2 Irrigated Farmland
 2 Deputy of Detention
+2 Ipnu Rivulet
 3 Reflector Mage
-3 Chart a Course
-3 Angel of Invention
 3 God-Pharaoh's Gift
+3 Angel of Invention
+3 Chart a Course
 3 Refurbish
 3 Glacial Fortress
 3 Strategic Planning
@@ -303,54 +303,54 @@
 3 Ramunap Ruins
 4 Kroxa, Titan of Death's Hunger
 4 Ramunap Ruins
-1 Supreme Will
-1 Liliana, Death's Majesty
-1 Silumgar's Command
 1 Ravenous Chupacabra
+1 Silumgar's Command
 1 Hostage Taker
 1 Fae of Wishes
 1 Fires of Invention
+1 Liliana, Death's Majesty
+1 Supreme Will
 1 Drawn from Dreams
 2 Fires of Invention
 2 Fae of Wishes
 3 The Scarab God
 3 Fires of Invention
 4 Fires of Invention
-1 The Birth of Meletis
-1 Isolated Chapel
-1 Starfield of Nyx
-1 Final Payment
-1 Trial of Ambition
-1 Treacherous Blessing
 1 Shepherd of the Flock
-1 Ashiok, Dream Render
-1 Oath of Kaya
-1 Doom Foretold
-1 Kaya's Wrath
 1 Temple of Silence
+1 Isolated Chapel
+1 Kaya's Wrath
+1 Ashiok, Dream Render
+1 Trial of Ambition
+1 Starfield of Nyx
+1 Oath of Kaya
+1 The Birth of Meletis
+1 Doom Foretold
+1 Treacherous Blessing
+1 Final Payment
 2 Oath of Kaya
 2 Isolated Chapel
-2 Treacherous Blessing
-2 Starfield of Nyx
-2 Trial of Ambition
-2 The Birth of Meletis
-2 Final Payment
 2 Doom Foretold
+2 Final Payment
 2 Kaya's Wrath
+2 Trial of Ambition
+2 Treacherous Blessing
 2 Shambling Vent
+2 The Birth of Meletis
+2 Starfield of Nyx
 3 Oath of Kaya
 3 Isolated Chapel
-3 Treacherous Blessing
-3 Trial of Ambition
-3 Kaya's Wrath
 3 Starfield of Nyx
 3 Shambling Vent
+3 Kaya's Wrath
 3 Doom Foretold
+3 Trial of Ambition
+3 Treacherous Blessing
 4 Isolated Chapel
 4 Treacherous Blessing
 4 Trial of Ambition
-4 Shambling Vent
 4 Doom Foretold
+4 Shambling Vent
 1 Sign in Blood
 1 Ugin, the Spirit Dragon
 1 Duress

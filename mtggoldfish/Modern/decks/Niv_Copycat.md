@@ -1,7 +1,7 @@
 # Niv Copycat
 
 #### [Export MTGO List](../collection/Niv%20Copycat/Niv%20Copycat.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Arid%20Mesa%0A2%09Assassin's%20Trophy%0A4%09Birds%20of%20Paradise%0A1%09Blood%20Crypt%0A1%09Breeding%20Pool%0A4%09Bring%20to%20Light%0A1%09Deceiver%20Exarch%0A4%09Felidar%20Guardian%0A1%09Forest%0A1%09Island%0A2%09Kiki-Jiki,%20Mirror%20Breaker%0A1%09Mountain%0A1%09Niv-Mizzet%20Reborn%0A2%09Noble%20Hierarch%0A4%09Oath%20of%20Nissa%0A1%09Once%20Upon%20a%20Time%0A1%09Plains%0A1%09Sacred%20Foundry%0A4%09Saheeli%20Rai%0A2%09Scalding%20Tarn%0A1%09Steam%20Vents%0A1%09Stomping%20Ground%0A1%09Swamp%0A4%09Teferi,%20Time%20Raveler%0A1%09Temple%20Garden%0A4%09Utopia%20Sprawl%0A2%09Verdant%20Catacombs%0A4%09Wooded%20Foothills&deckside=4%09Leyline%20of%20Sanctity%0A1%09Path%20to%20Exile%0A3%09Ravenous%20Trap%0A2%09Settle%20the%20Wreckage%0A1%09Time%20Wipe%0A3%09Unmoored%20Ego%0A1%09Zealous%20Conscripts)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Arid%20Mesa%0A2%09Assassin's%20Trophy%0A4%09Birds%20of%20Paradise%0A1%09Blood%20Crypt%0A1%09Breeding%20Pool%0A4%09Bring%20to%20Light%0A1%09Deceiver%20Exarch%0A4%09Felidar%20Guardian%0A1%09Forest%0A1%09Island%0A2%09Kiki-Jiki,%20Mirror%20Breaker%0A1%09Mountain%0A1%09Niv-Mizzet%20Reborn%0A2%09Noble%20Hierarch%0A4%09Oath%20of%20Nissa%0A1%09Once%20Upon%20a%20Time%0A1%09Plains%0A1%09Sacred%20Foundry%0A4%09Saheeli%20Rai%0A2%09Scalding%20Tarn%0A1%09Steam%20Vents%0A1%09Stomping%20Ground%0A1%09Swamp%0A4%09Teferi,%20Time%20Raveler%0A1%09Temple%20Garden%0A4%09Utopia%20Sprawl%0A2%09Verdant%20Catacombs%0A4%09Wooded%20Foothills&deckside=2%09Ancient%20Grudge%0A4%09Leyline%20of%20Sanctity%0A2%09Ravenous%20Trap%0A2%09Settle%20the%20Wreckage%0A1%09Time%20Wipe%0A3%09Unmoored%20Ego%0A1%09Veil%20of%20Summer)
 # Maindeck
 
 |                                            Creature (14)                                            |                                     Enchantment (8)                                      |                                         Instant (3)                                          |                                          Land (23)                                           |                                        Planeswalker (8)                                         |                                        Sorcery (4)                                        |
@@ -25,18 +25,19 @@
 
 # Sideboard
 
-|                                         Creature (1)                                          |                                        Enchantment (4)                                         |                                          Instant (6)                                           |                                       Sorcery (4)                                       |
-|-----------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
-|1 [Zealous Conscripts](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=240082)|4 [Leyline of Sanctity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=204993)|1 [Path to Exile](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220511)      |1 [Time Wipe](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461150)   |
-|                                                                                               |                                                                                                |3 [Ravenous Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197537)      |3 [Unmoored Ego](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452962)|
-|                                                                                               |                                                                                                |2 [Settle the Wreckage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435186)|                                                                                         |
+|                                        Enchantment (4)                                         |                                          Instant (7)                                           |                                       Sorcery (4)                                       |
+|------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
+|4 [Leyline of Sanctity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=204993)|2 [Ancient Grudge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=235600)     |1 [Time Wipe](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461150)   |
+|                                                                                                |2 [Ravenous Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197537)      |3 [Unmoored Ego](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452962)|
+|                                                                                                |2 [Settle the Wreckage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435186)|                                                                                         |
+|                                                                                                |1 [Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)     |                                                                                         |
 
 
 # Other Options
 
-|*n*<sup>th</sup> copy|Maindeck Card|*n*<sup>th</sup> copy|                                     Sideboard Card                                      |
-|---------------------|-------------|--------------------:|-----------------------------------------------------------------------------------------|
-|                     |             |                    1|[Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)|
-|                     |             |                    1|[Ancient Grudge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=235600)|
-|                     |             |                    2|[Ancient Grudge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=235600)|
+|*n*<sup>th</sup> copy|Maindeck Card|*n*<sup>th</sup> copy|                                       Sideboard Card                                        |
+|---------------------|-------------|--------------------:|---------------------------------------------------------------------------------------------|
+|                     |             |                    1|[Zealous Conscripts](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=240082)|
+|                     |             |                    3|[Ravenous Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197537)     |
+|                     |             |                    1|[Path to Exile](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220511)     |
 

@@ -28,8 +28,8 @@
 
 |*n*<sup>th</sup> copy|                                         Maindeck Card                                         |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
 |--------------------:|-----------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
-|                    1|[Umezawa's Jitte](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=81979)      |                    1|[Umezawa's Jitte](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=81979)     |
-|                    1|[Phyrexian Metamorph](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=214375) |                    1|[Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452)  |
+|                    1|[Umezawa's Jitte](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=81979)      |                    1|[Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452)  |
+|                    1|[Phyrexian Metamorph](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=214375) |                    1|[Umezawa's Jitte](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=81979)     |
 |                    1|[Arcbound Worker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=222733)     |                    1|[Karn, Scion of Urza](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442889)|
 |                    1|[Cranial Plating](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=51184)      |                    1|[Warping Wail](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407522)       |
 |                    1|[Disciple of the Vault](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=49090)|                    1|[Sorcerous Spyglass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435407) |

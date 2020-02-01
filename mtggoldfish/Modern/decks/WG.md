@@ -30,8 +30,8 @@
 
 |*n*<sup>th</sup> copy|                                        Maindeck Card                                         |*n*<sup>th</sup> copy|                                       Sideboard Card                                       |
 |--------------------:|----------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------|
-|                    1|[Leyline of Sanctity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=204993)|                    1|[Hushbringer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472980)      |
-|                    1|[Ethereal Armor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=265414)     |                    1|[Pithing Needle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129526)   |
+|                    1|[Leyline of Sanctity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=204993)|                    1|[Pithing Needle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129526)   |
+|                    1|[Ethereal Armor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=265414)     |                    1|[Hushbringer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472980)      |
 |                    1|[Rancor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442175)             |                    1|[Gaddock Teeg](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=140188)     |
 |                    1|[Snow-Covered Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121267)|                    1|[Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452)|
 |                    1|[Dryad Arbor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=136196)        |                    1|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)    |

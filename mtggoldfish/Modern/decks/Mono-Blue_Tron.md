@@ -47,6 +47,6 @@
 |                    2|[Walking Ballista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423848)          |                    1|[Walking Ballista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423848)   |
 |                    2|[Field of Ruin](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435415)             |                    1|[Ensnaring Bridge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=15866)    |
 |                    2|Omen of the Sea                                                                                      |                    3|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|
-|                    6|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)                    |                    3|[Spatial Contortion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407518) |
-|                    3|Omen of the Sea                                                                                      |                    3|[Chalice of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442211)|
+|                    3|Omen of the Sea                                                                                      |                    3|[Spatial Contortion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407518) |
+|                    6|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)                    |                    3|[Chalice of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442211)|
 
