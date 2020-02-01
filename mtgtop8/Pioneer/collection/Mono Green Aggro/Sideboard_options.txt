@@ -30,8 +30,8 @@
 2 Return to Nature
 1 Ratchet Bomb
 2 Ratchet Bomb
-3 Vine Mare
 3 Ratchet Bomb
+3 Vine Mare
 4 Vine Mare
 1 Prey Upon
 2 Prey Upon
@@ -81,11 +81,6 @@
 1 Mystic Repeal
 1 Pithing Needle
 3 Prey Upon
-1 Negate
-2 Negate
-3 Negate
-3 Mystical Dispute
-4 Negate
 1 Nature's Way
 1 Aspect of Hydra
 1 Thrash / Threat
@@ -93,6 +88,11 @@
 2 Aspect of Hydra
 3 Aspect of Hydra
 4 Shapers' Sanctuary
+1 Negate
+2 Negate
+3 Mystical Dispute
+3 Negate
+4 Negate
 1 Ultimate Price
 1 Thoughtseize
 1 Golgari Charm

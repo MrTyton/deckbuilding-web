@@ -1,31 +1,19 @@
 1 Counterspell
-4 Ice-Fang Coatl
-2 Veil of Summer
 1 Volcanic Island
-1 Savannah
-5 Snow-Covered Island
+1 Prismatic Vista
+4 Ice-Fang Coatl
 1 Council's Judgment
 1 Spell Pierce
-1 Prismatic Vista
-2 Polluted Delta
 1 Sevinne's Reclamation
 2 Spell Pierce
-1 Sylvan Library
-1 Forest
-2 Tropical Island
-1 Batterskull
-1 Stoneforge Mystic
-1 True-Name Nemesis
-1 Windswept Heath
-1 Umezawa's Jitte
-1 Noble Hierarch
-2 Stoneforge Mystic
-2 True-Name Nemesis
-2 Noble Hierarch
-3 Noble Hierarch
-4 Noble Hierarch
-1 Counterbalance
+5 Snow-Covered Island
+2 Veil of Summer
+1 Monastery Mentor
+2 Prismatic Vista
+1 Savannah
+2 Polluted Delta
 2 Scalding Tarn
+1 Counterbalance
 1 Drown in the Loch
 1 Plague Engineer
 1 Leovold, Emissary of Trest
@@ -38,30 +26,33 @@
 2 Leovold, Emissary of Trest
 2 Abrupt Decay
 3 Polluted Delta
+2 Snow-Covered Plains
 1 Accumulated Knowledge
 2 Accumulated Knowledge
-2 Prismatic Vista
 3 Accumulated Knowledge
 4 Accumulated Knowledge
-1 Monastery Mentor
+1 Sylvan Library
+1 Vendilion Clique
+1 Forest
+2 Tropical Island
+1 Batterskull
+1 Stoneforge Mystic
+1 Birds of Paradise
+1 True-Name Nemesis
+1 Windswept Heath
+1 Umezawa's Jitte
+1 Noble Hierarch
+2 Windswept Heath
+2 Stoneforge Mystic
+2 True-Name Nemesis
+2 Noble Hierarch
+3 Noble Hierarch
+4 Noble Hierarch
+2 Sevinne's Reclamation
 1 Island
 1 Plains
-1 Sword of Fire and Ice
-1 Daze
-1 Wasteland
-2 Tundra
-2 Wasteland
-2 Daze
-3 Stoneforge Mystic
-3 True-Name Nemesis
-3 Wasteland
-3 Daze
-4 Daze
-4 Wasteland
-1 Birds of Paradise
-2 Windswept Heath
-2 Sevinne's Reclamation
 3 Jace, the Mind Sculptor
+1 Dovin's Veto
 1 Archmage's Charm
 2 Counterbalance
 1 Supreme Verdict
@@ -70,29 +61,28 @@
 2 Pyroblast
 3 Monastery Mentor
 3 Abrupt Decay
-2 Snow-Covered Plains
 3 Prismatic Vista
 4 Prismatic Vista
 4 Oko, Thief of Crowns
-1 Narset, Parter of Veils
 1 Thopter Foundry
 1 Mishra's Bauble
 1 Lotus Petal
 1 Chalice of the Void
 1 Ancient Tomb
 1 Sword of the Meek
+1 Narset, Parter of Veils
 1 Karn, the Great Creator
 1 Emry, Lurker of the Loch
 1 Mox Opal
 1 Urza, Lord High Artificer
 1 Seat of the Synod
 2 Thopter Foundry
+2 Narset, Parter of Veils
 2 Mishra's Bauble
 2 Lotus Petal
 2 Emry, Lurker of the Loch
 2 Seat of the Synod
 2 Karn, the Great Creator
-2 Narset, Parter of Veils
 2 Island
 2 Mox Opal
 2 Ancient Tomb
@@ -132,9 +122,20 @@
 4 Green Sun's Zenith
 4 Quirion Ranger
 4 Stasis
-1 Vendilion Clique
+1 Sword of Fire and Ice
 1 Elspeth, Knight-Errant
+1 Daze
+1 Wasteland
 1 Spell Queller
 2 Vendilion Clique
+2 Tundra
+2 Wasteland
+2 Daze
 2 Spell Queller
+3 Stoneforge Mystic
+3 True-Name Nemesis
+3 Wasteland
+3 Daze
+4 Daze
+4 Wasteland
 4 Stoneforge Mystic

@@ -49,7 +49,7 @@
 |                    2|[Order of Midnight](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473061)       |                    3|[Murderous Rider](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473059)       |
 |                    2|[Castle Locthwain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473203)        |                    3|[Sorcerous Spyglass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435407)    |
 |                    3|[Spawn of Mayhem](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457229)         |                    3|[Epic Downfall](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473047)         |
-|                    3|[Order of Midnight](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473061)       |                    4|[Embereth Shieldbreaker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473084)|
-|                    4|[Order of Midnight](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473061)       |                    3|[Drill Bit](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457217)             |
+|                    3|[Order of Midnight](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473061)       |                    3|[Drill Bit](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457217)             |
+|                    4|[Order of Midnight](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473061)       |                    4|[Embereth Shieldbreaker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473084)|
 |                    4|[Spawn of Mayhem](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457229)         |                     |                                                                                                 |
 

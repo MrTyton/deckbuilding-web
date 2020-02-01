@@ -1,8 +1,8 @@
 2 Lovestruck Beast
 9 Forest
 3 Yavimaya Coast
-1 Stubborn Denial
 1 Steel Leaf Champion
+1 Stubborn Denial
 1 Rhonas the Indomitable
 2 Stubborn Denial
 2 Steel Leaf Champion
@@ -69,15 +69,9 @@
 3 Blooming Marsh
 3 Abrupt Decay
 4 Overgrown Tomb
-1 Collected Company
-2 Collected Company
-3 Collected Company
-3 Scavenging Ooze
-4 Collected Company
-4 Brazen Borrower
 1 Risen Reef
-1 Nexus of Fate
 1 Agent of Treachery
+1 Nexus of Fate
 1 Leafkin Druid
 1 Quasiduplicate
 2 Risen Reef
@@ -86,6 +80,12 @@
 3 Risen Reef
 3 Leafkin Druid
 4 Risen Reef
+1 Collected Company
+2 Collected Company
+3 Collected Company
+3 Scavenging Ooze
+4 Collected Company
+4 Brazen Borrower
 1 Fabled Passage
 1 Growth Spiral
 1 Sea Gate Wreckage
@@ -131,10 +131,10 @@
 1 Opt
 1 Torrential Gearhulk
 1 Castle Vantress
+1 Essence Flux
 1 Essence Scatter
 1 Temple of Mystery
 1 Mystical Dispute
-1 Essence Flux
 1 Negate
 1 Admiral's Order
 1 Nightpack Ambusher
@@ -142,8 +142,8 @@
 1 Brineborn Cutthroat
 2 Dig Through Time
 2 Opt
-2 Temple of Mystery
 2 Essence Scatter
+2 Temple of Mystery
 2 Frilled Mystic
 2 Essence Flux
 2 Mystical Dispute
