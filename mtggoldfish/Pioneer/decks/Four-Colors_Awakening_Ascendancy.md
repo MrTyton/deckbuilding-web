@@ -57,7 +57,7 @@
 |                    2|[Aether Hub](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417815)          |                    1|[Ceremonious Rejection](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417613)     |
 |                    2|[Attune with Aether](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417718)  |                    2|[Natural State](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407646)             |
 |                    3|[Aether Hub](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417815)          |                    2|[Ceremonious Rejection](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417613)     |
-|                    3|[Attune with Aether](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417718)  |                    3|[Natural State](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407646)             |
-|                    4|[Aether Hub](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417815)          |                    3|[Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)                    |
+|                    3|[Attune with Aether](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417718)  |                    3|[Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)                    |
+|                    4|[Aether Hub](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417815)          |                    3|[Natural State](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407646)             |
 |                    4|[Attune with Aether](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417718)  |                    4|[Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)          |
 

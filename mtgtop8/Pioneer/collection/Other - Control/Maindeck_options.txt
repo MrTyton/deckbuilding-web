@@ -178,31 +178,23 @@
 3 Kalitas, Traitor of Ghet
 3 Aether Hub
 4 Aether Hub
+1 Erebos's Intervention
+1 Tyrant's Scorn
+2 Thassa's Intervention
+2 Tyrant's Scorn
+4 Jace, Vryn's Prodigy
+1 Cast Down
+2 Cast Down
+2 Hieroglyphic Illumination
+3 Torrential Gearhulk
+3 Field of Ruin
+4 Field of Ruin
+4 Dig Through Time
 1 Ob Nixilis Reignited
 1 Chandra, Acolyte of Flame
 2 Angrath's Rampage
 3 Goblin Dark-Dwellers
 4 Goblin Dark-Dwellers
-1 Cast Down
-2 Hieroglyphic Illumination
-2 Cast Down
-3 Torrential Gearhulk
-3 Field of Ruin
-4 Dig Through Time
-4 Field of Ruin
-1 Murderous Cut
-1 Inverter of Truth
-1 Thassa's Oracle
-1 Hero's Downfall
-1 Jace, Wielder of Mysteries
-2 Thassa's Oracle
-2 Inverter of Truth
-2 Temple of Deceit
-2 Jace, Wielder of Mysteries
-3 Inverter of Truth
-3 Thassa's Oracle
-4 Inverter of Truth
-4 Thassa's Oracle
 1 Spirebluff Canal
 1 Mox Amber
 1 Commit / Memory
@@ -228,19 +220,19 @@
 3 Sacred Foundry
 3 Spell Pierce
 3 Interplanar Beacon
-4 Anger of the Gods
 4 Narset, Parter of Veils
 4 Spirebluff Canal
 4 Steam Vents
 4 Sacred Foundry
+4 Anger of the Gods
 4 Interplanar Beacon
 2 Plains
 3 Plains
 4 Plains
 5 Plains
 1 Ipnu Rivulet
-1 Refurbish
 1 God-Pharaoh's Gift
+1 Refurbish
 1 Hostile Desert
 1 Charming Prince
 1 Deputy of Detention
@@ -254,9 +246,9 @@
 1 Irrigated Farmland
 2 Ipnu Rivulet
 2 Glacial Fortress
+2 Angel of Invention
 2 Refurbish
 2 God-Pharaoh's Gift
-2 Angel of Invention
 2 Chart a Course
 2 Strategic Planning
 2 Reflector Mage
@@ -289,11 +281,6 @@
 3 Lovestruck Beast
 4 Temple of Malady
 4 Lovestruck Beast
-1 Erebos's Intervention
-1 Tyrant's Scorn
-2 Thassa's Intervention
-2 Tyrant's Scorn
-4 Jace, Vryn's Prodigy
 1 Angrath, the Flame-Chained
 1 Ramunap Ruins
 2 Urborg, Tomb of Yawgmoth
@@ -301,23 +288,35 @@
 2 Ramunap Ruins
 3 Kroxa, Titan of Death's Hunger
 3 Ramunap Ruins
-4 Ramunap Ruins
 4 Kroxa, Titan of Death's Hunger
+4 Ramunap Ruins
 1 Liliana, Death's Majesty
+1 Supreme Will
 1 Silumgar's Command
 1 Ravenous Chupacabra
 1 Hostage Taker
 1 Fae of Wishes
 1 Fires of Invention
-1 Supreme Will
 1 Drawn from Dreams
 2 Fires of Invention
 2 Fae of Wishes
 3 The Scarab God
 3 Fires of Invention
 4 Fires of Invention
+1 Murderous Cut
+1 Thassa's Oracle
+1 Inverter of Truth
+1 Jace, Wielder of Mysteries
+1 Hero's Downfall
+2 Temple of Deceit
+2 Thassa's Oracle
+2 Inverter of Truth
+2 Jace, Wielder of Mysteries
+3 Inverter of Truth
+3 Thassa's Oracle
+4 Inverter of Truth
+4 Thassa's Oracle
 1 Shepherd of the Flock
-1 Temple of Silence
 1 Isolated Chapel
 1 Ashiok, Dream Render
 1 Trial of Ambition
@@ -328,6 +327,7 @@
 1 Kaya's Wrath
 1 Treacherous Blessing
 1 Final Payment
+1 Temple of Silence
 2 Oath of Kaya
 2 Isolated Chapel
 2 Doom Foretold
@@ -351,6 +351,21 @@
 4 Isolated Chapel
 4 Doom Foretold
 4 Shambling Vent
+1 Sign in Blood
+1 Ugin, the Spirit Dragon
+1 Duress
+1 Nissa, Vital Force
+1 Villainous Wealth
+1 Beanstalk Giant
+2 Duress
+2 Seasons Past
+2 Beanstalk Giant
+2 Sign in Blood
+2 Read the Bones
+3 Beanstalk Giant
+6 Swamp
+7 Swamp
+8 Swamp
 1 Vraska, Golgari Queen
 1 Nissa, Who Shakes the World
 1 Grisly Salvage
@@ -370,21 +385,6 @@
 3 Courser of Kruphix
 3 Tireless Tracker
 4 Grisly Salvage
-4 Traverse the Ulvenwald
 4 Abrupt Decay
+4 Traverse the Ulvenwald
 7 Forest
-1 Sign in Blood
-1 Ugin, the Spirit Dragon
-1 Duress
-1 Nissa, Vital Force
-1 Villainous Wealth
-1 Beanstalk Giant
-2 Duress
-2 Seasons Past
-2 Beanstalk Giant
-2 Sign in Blood
-2 Read the Bones
-3 Beanstalk Giant
-6 Swamp
-7 Swamp
-8 Swamp

@@ -1,7 +1,7 @@
 # Wish Breach Freeze
 
 #### [Export MTGO List](../collection/Wish%20Breach%20Freeze/Wish%20Breach%20Freeze.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Brain%20Freeze%0A4%09Brainstorm%0A3%09Burning%20Wish%0A1%09Flusterstorm%0A4%09Force%20of%20Will%0A4%09Lion's%20Eye%20Diamond%0A4%09Lotus%20Petal%0A4%09Misty%20Rainforest%0A2%09Pact%20of%20Negation%0A4%09Ponder%0A1%09Preordain%0A1%09Prismatic%20Vista%0A4%09Scalding%20Tarn%0A2%09Snow-Covered%20Island%0A1%09Snow-Covered%20Mountain%0A2%09Spell%20Pierce%0A1%09Taiga%0A4%09Thought%20Scour%0A1%09Tropical%20Island%0A4%09Underworld%20Breach%0A3%09Veil%20of%20Summer%0A2%09Volcanic%20Island&deckside=1%09Burning%20Wish%0A3%09Chain%20of%20Vapor%0A1%09Echoing%20Truth%0A1%09Empty%20the%20Warrens%0A1%09Flusterstorm%0A1%09Grapeshot%0A1%09Infernal%20Tutor%0A1%09Pyroclasm%0A1%09Reverent%20Silence%0A1%09Sevinne's%20Reclamation%0A1%09Shenanigans%0A1%09Surgical%20Extraction%0A1%09Tome%20Scour)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Brain%20Freeze%0A4%09Brainstorm%0A3%09Burning%20Wish%0A1%09Flusterstorm%0A4%09Force%20of%20Will%0A4%09Lion's%20Eye%20Diamond%0A4%09Lotus%20Petal%0A4%09Misty%20Rainforest%0A2%09Pact%20of%20Negation%0A4%09Ponder%0A1%09Preordain%0A1%09Prismatic%20Vista%0A4%09Scalding%20Tarn%0A2%09Snow-Covered%20Island%0A1%09Snow-Covered%20Mountain%0A2%09Spell%20Pierce%0A1%09Taiga%0A4%09Thought%20Scour%0A1%09Tropical%20Island%0A4%09Underworld%20Breach%0A3%09Veil%20of%20Summer%0A2%09Volcanic%20Island&deckside=1%09Burning%20Wish%0A3%09Chain%20of%20Vapor%0A1%09Empty%20the%20Warrens%0A1%09Flusterstorm%0A1%09Grapeshot%0A1%09Infernal%20Tutor%0A1%09Pyroclasm%0A1%09Reverent%20Silence%0A1%09Sevinne's%20Reclamation%0A1%09Shenanigans%0A2%09Surgical%20Extraction%0A1%09Tome%20Scour)
 # Maindeck
 
 |                                        Artifact (8)                                         |                                        Instant (24)                                         |                                            Land (16)                                             |                                       Sorcery (8)                                       |    Unknown (4)    |
@@ -21,12 +21,19 @@
 |                                          Instant (6)                                           |                                           Sorcery (9)                                            |
 |------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
 |3 [Chain of Vapor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420701)     |1 [Burning Wish](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416909)         |
-|1 [Echoing Truth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405212)      |1 [Empty the Warrens](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426587)    |
-|1 [Flusterstorm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=228255)       |1 [Grapeshot](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426588)            |
-|1 [Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|1 [Infernal Tutor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107308)       |
+|1 [Flusterstorm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=228255)       |1 [Empty the Warrens](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426587)    |
+|2 [Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|1 [Grapeshot](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426588)            |
+|                                                                                                |1 [Infernal Tutor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107308)       |
 |                                                                                                |1 [Pyroclasm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129801)            |
 |                                                                                                |1 [Reverent Silence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=22316)      |
 |                                                                                                |1 [Sevinne's Reclamation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=470551)|
 |                                                                                                |1 [Shenanigans](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464095)          |
 |                                                                                                |1 [Tome Scour](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=191598)           |
+
+
+# Other Options
+
+|*n*<sup>th</sup> copy|Maindeck Card|*n*<sup>th</sup> copy|                                     Sideboard Card                                     |
+|---------------------|-------------|--------------------:|----------------------------------------------------------------------------------------|
+|                     |             |                    1|[Echoing Truth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405212)|
 

@@ -192,13 +192,9 @@
 1 Metallic Rebuke
 1 Stubborn Denial
 2 Stubborn Denial
-2 Emry, Lurker of the Loch
 2 Metallic Rebuke
+2 Emry, Lurker of the Loch
 4 Bomat Courier
-1 Hangarback Walker
-2 The Royal Scions
-3 Steam Vents
-4 Spire of Industry
 1 Uro, Titan of Nature's Wrath
 1 Tireless Tracker
 1 Scavenging Ooze
@@ -207,6 +203,10 @@
 2 Tireless Tracker
 3 Tireless Tracker
 4 Tireless Tracker
+1 Hangarback Walker
+2 The Royal Scions
+3 Steam Vents
+4 Spire of Industry
 1 Lightning Strike
 1 Ramunap Ruins
 1 Torbran, Thane of Red Fell
@@ -292,9 +292,9 @@
 1 Baffling End
 1 Shefet Dunes
 2 Caves of Koilos
+2 Ravenous Chupacabra
 2 Wasteland Strangler
 2 Ifnir Deadlands
-2 Ravenous Chupacabra
 2 Brain Maggot
 2 Shambling Vent
 2 Ultimate Price
@@ -419,22 +419,22 @@
 4 Risen Reef
 4 Neoform
 1 Militia Bugler
-1 Cloudblazer
 1 Oketra's Monument
+1 Cloudblazer
 1 Angel of Invention
 1 Dusk / Dawn
 1 Selfless Spirit
 2 Militia Bugler
-2 Cloudblazer
 2 Oketra's Monument
+2 Cloudblazer
 2 Angel of Invention
 2 Dusk / Dawn
 2 Westvale Abbey
 2 Selfless Spirit
 3 Militia Bugler
 3 Glacial Fortress
-3 Cloudblazer
 3 Oketra's Monument
+3 Cloudblazer
 3 Angel of Invention
 3 Selfless Spirit
 3 Deputy of Detention
@@ -477,9 +477,9 @@
 4 Attune with Aether
 2 Abrade
 12 Mountain
+1 Temple of Silence
 1 Corpse Knight
 1 Wayward Servant
-1 Temple of Silence
 1 Isolated Chapel
 1 Liliana, Untouched by Death
 1 Death Baron
@@ -488,6 +488,7 @@
 1 Rally the Ancestors
 1 Lazotep Reaver
 1 Nantuko Husk
+2 Temple of Silence
 2 Corpse Knight
 2 Wayward Servant
 2 Isolated Chapel
@@ -495,15 +496,14 @@
 2 Nantuko Husk
 2 Dread Wanderer
 2 Death Baron
-2 Temple of Silence
 2 Liliana, Untouched by Death
 2 Cryptbreaker
 2 Rally the Ancestors
 3 Dread Wanderer
+3 Temple of Silence
 3 Isolated Chapel
 3 Wayward Servant
 3 Corpse Knight
-3 Temple of Silence
 3 Cryptbreaker
 3 Death Baron
 3 Liliana, Untouched by Death

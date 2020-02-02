@@ -42,25 +42,25 @@
 1 Collective Effort
 1 Boros Charm
 1 Settle the Wreckage
-1 Adanto Vanguard
 1 Needle Spires
+1 Adanto Vanguard
 2 Collective Effort
+2 Adanto Vanguard
 2 Boros Charm
 2 Fry
-2 Adanto Vanguard
 2 Natural State
 1 Grasp of Darkness
 1 Anguished Unmaking
 2 Anguished Unmaking
-1 Fragmentize
 1 Xathrid Necromancer
-2 Disenchant
+1 Fragmentize
 2 Xathrid Necromancer
+2 Disenchant
 2 Pithing Needle
 1 Abrade
 1 Stubborn Denial
-1 The Antiquities War
 1 Thopter Spy Network
+1 The Antiquities War
 1 Mizzium Mortars
 2 Stubborn Denial
 2 Mizzium Mortars
@@ -72,21 +72,15 @@
 2 Languish
 2 Noxious Grasp
 3 Blightbeetle
-1 Knight of Autumn
-1 Mystical Dispute
-2 Knight of Autumn
-1 Tamiyo, Field Researcher
-1 Baffling End
-2 Baffling End
-2 Tamiyo, Field Researcher
-3 Baffling End
-3 Knight of Autumn
 2 Damping Sphere
 3 Damping Sphere
 1 Mystic Repeal
 2 Reclamation Sage
 2 Mystic Repeal
 3 Mystic Repeal
+1 Knight of Autumn
+1 Mystical Dispute
+2 Knight of Autumn
 1 Scavenging Ooze
 1 Tireless Tracker
 2 Scavenging Ooze
@@ -98,6 +92,12 @@
 1 Search for Azcanta
 2 Negate
 3 Negate
+1 Tamiyo, Field Researcher
+1 Baffling End
+2 Baffling End
+2 Tamiyo, Field Researcher
+3 Knight of Autumn
+3 Baffling End
 1 Dive Down
 1 Wild Slash
 1 Roast
@@ -110,15 +110,6 @@
 1 Self-Inflicted Wound
 2 Self-Inflicted Wound
 3 Self-Inflicted Wound
-1 Deputy of Detention
-1 Reflector Mage
-1 Phyrexian Revoker
-1 Time Wipe
-2 Deputy of Detention
-2 Phyrexian Revoker
-2 Mystical Dispute
-3 Mystical Dispute
-3 Phyrexian Revoker
 1 Spell Queller
 1 Dusk / Dawn
 1 Lavinia, Azorius Renegade
@@ -128,6 +119,19 @@
 2 Giant Killer
 3 Spell Queller
 4 Spell Queller
+1 Witchstalker
+1 Selfless Spirit
+1 Lyra Dawnbringer
+1 Nyx-Fleece Ram
+1 Thrashing Brontodon
+1 Fleecemane Lion
+2 Witchstalker
+2 Selfless Spirit
+2 Nyx-Fleece Ram
+2 Fleecemane Lion
+3 Nyx-Fleece Ram
+3 Fleecemane Lion
+4 Nyx-Fleece Ram
 1 Despark
 1 Rotting Regisaur
 1 Blood Baron of Vizkopa
@@ -147,16 +151,12 @@
 3 Tormod's Crypt
 4 Eidolon of the Great Revel
 4 Assassin's Trophy
-1 Selfless Spirit
-1 Lyra Dawnbringer
-1 Nyx-Fleece Ram
-1 Thrashing Brontodon
-1 Fleecemane Lion
-1 Witchstalker
-2 Selfless Spirit
-2 Nyx-Fleece Ram
-2 Fleecemane Lion
-2 Witchstalker
-3 Nyx-Fleece Ram
-3 Fleecemane Lion
-4 Nyx-Fleece Ram
+1 Deputy of Detention
+1 Reflector Mage
+1 Phyrexian Revoker
+1 Time Wipe
+2 Deputy of Detention
+2 Phyrexian Revoker
+2 Mystical Dispute
+3 Mystical Dispute
+3 Phyrexian Revoker

@@ -25,3 +25,13 @@
 |1 [Murderous Rider](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473059)         |                                                                                          |2 [Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)|1 [Kaya, Orzhov Usurper](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460129)   |1 [Thought Distortion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466871)|
 |1 [The Scarab God](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430834)          |                                                                                          |                                                                                             |2 [Narset, Parter of Veils](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460988)|                                                                                               |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                      Maindeck Card                                      |*n*<sup>th</sup> copy|                                     Sideboard Card                                     |
+|--------------------:|-----------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------|
+|                    1|[The Scarab God](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430834)|                    1|[Legion's End](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466860) |
+|                    3|[Fatal Push](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423724)    |                    1|[Unmoored Ego](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452962) |
+|                    4|[Fatal Push](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423724)    |                    1|[Spell Queller](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414494)|
+|                    4|[Godless Shrine](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405099)|                     |                                                                                        |
+

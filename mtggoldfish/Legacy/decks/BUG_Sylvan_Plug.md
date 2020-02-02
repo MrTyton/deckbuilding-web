@@ -35,9 +35,11 @@
 
 # Other Options
 
-|*n*<sup>th</sup> copy|Maindeck Card|*n*<sup>th</sup> copy|                                           Sideboard Card                                            |
-|---------------------|-------------|--------------------:|-----------------------------------------------------------------------------------------------------|
-|                     |             |                    1|[Leovold, Emissary of Trest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416834)|
-|                     |             |                    1|[Thorn of Amethyst](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=140166)         |
-|                     |             |                    2|[Thorn of Amethyst](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=140166)         |
+|*n*<sup>th</sup> copy|Maindeck Card|*n*<sup>th</sup> copy|                                             Sideboard Card                                             |
+|---------------------|-------------|--------------------:|--------------------------------------------------------------------------------------------------------|
+|                     |             |                    1|[The Tabernacle at Pendrell Vale](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=1690)|
+|                     |             |                    4|[Plague Engineer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464049)              |
+|                     |             |                    1|[Leovold, Emissary of Trest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416834)   |
+|                     |             |                    1|[Thorn of Amethyst](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=140166)            |
+|                     |             |                    2|[Thorn of Amethyst](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=140166)            |
 

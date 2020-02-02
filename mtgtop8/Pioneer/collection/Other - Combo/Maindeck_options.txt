@@ -45,11 +45,11 @@
 2 Fabled Passage
 4 Forest
 2 Breeding Pool
-1 Choked Estuary
 1 Thought Erasure
+1 Choked Estuary
 2 Drown in the Loch
-2 Choked Estuary
 2 Thought Erasure
+2 Choked Estuary
 3 Fabled Passage
 4 Fabled Passage
 4 Dig Through Time
@@ -88,6 +88,20 @@
 3 Breeding Pool
 3 Nahiri, the Harbinger
 4 Breeding Pool
+1 Discovery / Dispersal
+1 Temple of Deceit
+1 Bontu's Last Reckoning
+1 Castle Vantress
+1 Collective Brutality
+2 Murderous Cut
+2 Discovery / Dispersal
+2 Temple of Deceit
+2 Collective Brutality
+3 Field of Ruin
+3 Discovery / Dispersal
+3 Fetid Pools
+4 Fetid Pools
+4 Discovery / Dispersal
 1 World Breaker
 1 Kozilek's Return
 1 Glassblower's Puzzleknot
@@ -151,20 +165,6 @@
 4 Zhalfirin Void
 4 Fountain of Renewal
 4 Karn, Scion of Urza
-1 Discovery / Dispersal
-1 Temple of Deceit
-1 Castle Vantress
-1 Collective Brutality
-1 Bontu's Last Reckoning
-2 Discovery / Dispersal
-2 Temple of Deceit
-2 Collective Brutality
-2 Murderous Cut
-3 Fetid Pools
-3 Field of Ruin
-3 Discovery / Dispersal
-4 Discovery / Dispersal
-4 Fetid Pools
 1 Geier Reach Sanitarium
 1 Day's Undoing
 1 Narset, Parter of Veils
@@ -235,8 +235,8 @@
 3 Hour of Devastation
 4 Hour of Devastation
 1 Glacial Fortress
-1 Teferi, Hero of Dominaria
 1 Myth Realized
+1 Teferi, Hero of Dominaria
 1 Blessed Alliance
 1 Azorius Charm
 1 Search for Azcanta
@@ -258,8 +258,8 @@
 3 Glacial Fortress
 3 Plains
 3 Azorius Charm
-4 Myth Realized
 4 Port Town
+4 Myth Realized
 4 Glacial Fortress
 4 Plains
 4 Azorius Charm
