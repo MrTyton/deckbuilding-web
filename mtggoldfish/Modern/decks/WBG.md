@@ -38,9 +38,9 @@
 
 |*n*<sup>th</sup> copy|                                        Maindeck Card                                         |*n*<sup>th</sup> copy|                                       Sideboard Card                                       |
 |--------------------:|----------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------|
+|                    1|[Carrion Feeder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=210133)     |                    1|[Aven Mindcensor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426707)  |
 |                    1|[Kitchen Finks](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370458)      |                    1|[Assassin's Trophy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452902)|
 |                    1|Heliod, Sun-Crowned                                                                           |                    1|[Collector Ouphe](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464107)  |
-|                    1|[Carrion Feeder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=210133)     |                    1|[Aven Mindcensor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426707)  |
 |                    1|[Snow-Covered Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121267)|                    1|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)    |
 |                    1|[Spike Feeder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=21113)        |                    1|[Scavenging Ooze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420783)  |
 |                    1|[Snow-Covered Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121192)|                    1|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)   |

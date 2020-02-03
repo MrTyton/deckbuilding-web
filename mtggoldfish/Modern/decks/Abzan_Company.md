@@ -36,8 +36,8 @@
 
 |*n*<sup>th</sup> copy|                                          Maindeck Card                                           |*n*<sup>th</sup> copy|                                        Sideboard Card                                         |
 |--------------------:|--------------------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------------|
-|                    1|[Magus of the Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=136152)      |                    1|[Eidolon of Rhetoric](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=380409) |
-|                    1|[Kessig Wolf Run](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=233256)        |                    1|[Worship](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=25553)              |
+|                    1|[Kessig Wolf Run](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=233256)        |                    1|[Eidolon of Rhetoric](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=380409) |
+|                    1|[Magus of the Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=136152)      |                    1|[Worship](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=25553)              |
 |                    1|[Wooded Foothills](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405116)       |                    1|[Bojuka Bog](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376269)          |
 |                    1|[Snow-Covered Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121233)  |                    1|[Ashiok, Dream Render](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461155)|
 |                    1|[Stomping Ground](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405110)        |                    1|[Sin Collector](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=368968)       |

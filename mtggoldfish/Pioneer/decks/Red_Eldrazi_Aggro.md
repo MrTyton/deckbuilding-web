@@ -29,7 +29,7 @@
 |                    3|[Incendiary Flow](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414432)|                    1|[Scab-Clan Berserker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=398461)       |
 |                    4|[Incendiary Flow](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414432)|                    1|[Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)                    |
 |                     |                                                                                          |                    1|[Sarkhan, the Dragonspeaker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386650)|
-|                     |                                                                                          |                    2|[Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)                    |
-|                     |                                                                                          |                    3|[Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)                    |
 |                     |                                                                                          |                    2|[Scab-Clan Berserker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=398461)       |
+|                     |                                                                                          |                    3|[Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)                    |
+|                     |                                                                                          |                    2|[Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)                    |
 

@@ -62,14 +62,14 @@
 1 Spirebluff Canal
 2 Spirebluff Canal
 1 Emry, Lurker of the Loch
-1 Bomat Courier
 1 Spire of Industry
+1 Bomat Courier
 1 The Royal Scions
+1 Hope of Ghirapur
 1 Stonecoil Serpent
 1 Ensoul Artifact
 1 Darksteel Citadel
 1 Skilled Animator
-1 Hope of Ghirapur
 1 Shivan Reef
 1 Gingerbrute
 1 Steam Vents
@@ -78,8 +78,8 @@
 2 Bomat Courier
 2 Spire of Industry
 2 Steam Vents
-2 Shivan Reef
 2 Hope of Ghirapur
+2 Shivan Reef
 2 Skilled Animator
 2 Darksteel Citadel
 2 Gingerbrute
@@ -88,8 +88,8 @@
 2 Ghostfire Blade
 2 Shrapnel Blast
 3 Bomat Courier
-3 Spirebluff Canal
 3 Spire of Industry
+3 Spirebluff Canal
 3 Darksteel Citadel
 3 Skilled Animator
 3 Stonecoil Serpent
@@ -112,22 +112,22 @@
 2 Forest
 1 Breeding Pool
 1 Llanowar Elves
-2 Breeding Pool
 2 Llanowar Elves
+2 Breeding Pool
 1 Hallowed Fountain
 1 Reflector Mage
-2 Hallowed Fountain
 2 Reflector Mage
+2 Hallowed Fountain
 3 Reflector Mage
-1 Voice of Resurgence
 1 Sunpetal Grove
 1 Collected Company
+1 Voice of Resurgence
 1 Spell Queller
 1 Elvish Mystic
 1 Temple Garden
-2 Voice of Resurgence
 2 Temple Garden
 2 Collected Company
+2 Voice of Resurgence
 2 Spell Queller
 2 Elvish Mystic
 3 Breeding Pool
@@ -192,21 +192,46 @@
 1 Metallic Rebuke
 1 Stubborn Denial
 2 Stubborn Denial
-2 Metallic Rebuke
 2 Emry, Lurker of the Loch
+2 Metallic Rebuke
 4 Bomat Courier
+1 Hangarback Walker
+2 The Royal Scions
+3 Steam Vents
+4 Spire of Industry
 1 Uro, Titan of Nature's Wrath
-1 Tireless Tracker
 1 Scavenging Ooze
+1 Tireless Tracker
 2 Uro, Titan of Nature's Wrath
 2 Scavenging Ooze
 2 Tireless Tracker
 3 Tireless Tracker
 4 Tireless Tracker
-1 Hangarback Walker
-2 The Royal Scions
-3 Steam Vents
-4 Spire of Industry
+1 Kytheon, Hero of Akros
+1 Thalia's Lieutenant
+2 Thalia's Lieutenant
+3 Thalia's Lieutenant
+4 Thalia's Lieutenant
+1 Unclaimed Territory
+1 Glint-Sleeve Siphoner
+1 Elite Guardmage
+1 Kitesail Freebooter
+1 The Scarab God
+1 Aethersphere Harvester
+2 Unclaimed Territory
+2 The Scarab God
+2 Glint-Sleeve Siphoner
+2 Elite Guardmage
+2 Kitesail Freebooter
+2 Aethersphere Harvester
+3 Unclaimed Territory
+3 Glint-Sleeve Siphoner
+3 Elite Guardmage
+3 Kitesail Freebooter
+4 Elite Guardmage
+4 Unclaimed Territory
+4 Glint-Sleeve Siphoner
+4 Kitesail Freebooter
 1 Lightning Strike
 1 Ramunap Ruins
 1 Torbran, Thane of Red Fell
@@ -226,31 +251,6 @@
 3 Goblin Rabblemaster
 4 Ramunap Ruins
 4 Goblin Rabblemaster
-1 Kytheon, Hero of Akros
-1 Thalia's Lieutenant
-2 Thalia's Lieutenant
-3 Thalia's Lieutenant
-4 Thalia's Lieutenant
-1 Unclaimed Territory
-1 Glint-Sleeve Siphoner
-1 Elite Guardmage
-1 The Scarab God
-1 Kitesail Freebooter
-1 Aethersphere Harvester
-2 Unclaimed Territory
-2 The Scarab God
-2 Glint-Sleeve Siphoner
-2 Elite Guardmage
-2 Kitesail Freebooter
-2 Aethersphere Harvester
-3 Unclaimed Territory
-3 Glint-Sleeve Siphoner
-3 Elite Guardmage
-3 Kitesail Freebooter
-4 Elite Guardmage
-4 Unclaimed Territory
-4 Glint-Sleeve Siphoner
-4 Kitesail Freebooter
 1 Steel Leaf Champion
 1 Duskwatch Recruiter
 1 Yorvo, Lord of Garenbrig
@@ -276,11 +276,11 @@
 1 Murderous Rider
 4 Fatal Push
 1 Urborg, Tomb of Yawgmoth
+1 Ifnir Deadlands
 1 Shambling Vent
 1 Ravenous Chupacabra
 1 Wasteland Strangler
 1 Brain Maggot
-1 Ifnir Deadlands
 1 Lyra Dawnbringer
 1 Ultimate Price
 1 Liliana, the Last Hope
@@ -293,9 +293,9 @@
 1 Shefet Dunes
 2 Caves of Koilos
 2 Ravenous Chupacabra
-2 Wasteland Strangler
-2 Ifnir Deadlands
 2 Brain Maggot
+2 Ifnir Deadlands
+2 Wasteland Strangler
 2 Shambling Vent
 2 Ultimate Price
 2 Fairgrounds Warden
@@ -305,14 +305,14 @@
 2 Liliana, the Last Hope
 2 Shefet Dunes
 3 Mutavault
-3 Wasteland Strangler
 3 Brain Maggot
+3 Wasteland Strangler
 3 Thought-Knot Seer
 3 Caves of Koilos
 4 Thought-Knot Seer
+4 Wasteland Strangler
 4 Brain Maggot
 4 Mutavault
-4 Wasteland Strangler
 4 Caves of Koilos
 1 Stomping Ground
 2 Stomping Ground
@@ -373,9 +373,9 @@
 1 Dauntless Bodyguard
 2 Soldier of the Pantheon
 2 Hazoret the Fervent
-2 Sacred Foundry
-2 Tithe Taker
 2 Inspiring Vantage
+2 Tithe Taker
+2 Sacred Foundry
 2 Declaration in Stone
 2 Brave the Elements
 2 Kytheon, Hero of Akros
@@ -411,8 +411,8 @@
 2 Risen Reef
 2 Neoform
 2 Mana Confluence
-3 Teferi, Time Raveler
 3 Leafkin Druid
+3 Teferi, Time Raveler
 3 Risen Reef
 3 Mana Confluence
 3 Neoform
@@ -425,8 +425,8 @@
 1 Dusk / Dawn
 1 Selfless Spirit
 2 Militia Bugler
-2 Oketra's Monument
 2 Cloudblazer
+2 Oketra's Monument
 2 Angel of Invention
 2 Dusk / Dawn
 2 Westvale Abbey
@@ -477,9 +477,9 @@
 4 Attune with Aether
 2 Abrade
 12 Mountain
-1 Temple of Silence
 1 Corpse Knight
 1 Wayward Servant
+1 Temple of Silence
 1 Isolated Chapel
 1 Liliana, Untouched by Death
 1 Death Baron
@@ -500,10 +500,10 @@
 2 Cryptbreaker
 2 Rally the Ancestors
 3 Dread Wanderer
-3 Temple of Silence
 3 Isolated Chapel
 3 Wayward Servant
 3 Corpse Knight
+3 Temple of Silence
 3 Cryptbreaker
 3 Death Baron
 3 Liliana, Untouched by Death

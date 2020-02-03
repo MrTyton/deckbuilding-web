@@ -89,6 +89,6 @@
 |                     |                                                                                                      |                    4|[Aethersphere Harvester](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423809)     |
 |                     |                                                                                                      |                    4|[Scrapheap Scrounger](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417804)        |
 |                     |                                                                                                      |                    1|[Kalitas, Traitor of Ghet](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407596)   |
-|                     |                                                                                                      |                    1|[Walk the Plank](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435284)             |
 |                     |                                                                                                      |                    1|[Lifebane Zombie](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370723)            |
+|                     |                                                                                                      |                    1|[Walk the Plank](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435284)             |
 

@@ -80,8 +80,8 @@
 |                    4|[Verdant Catacombs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405113)    |                    2|[Thorn of Amethyst](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=140166)         |
 |                    4|[Elvish Reclaimer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466923)     |                    3|[Thorn of Amethyst](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=140166)         |
 |                     |                                                                                                |                    1|[Shifting Ceratops](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466948)         |
+|                     |                                                                                                |                    2|[Pithing Needle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129526)            |
 |                     |                                                                                                |                    2|[Force of Vigor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464113)            |
 |                     |                                                                                                |                    2|[Shifting Ceratops](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466948)         |
-|                     |                                                                                                |                    2|[Pithing Needle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129526)            |
 |                     |                                                                                                |                    2|[Swan Song](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420715)                 |
 

@@ -1,3 +1,4 @@
+1 Venerated Loxodon
 2 Venerated Loxodon
 1 Soldier of the Pantheon
 2 Soldier of the Pantheon
@@ -7,42 +8,50 @@
 2 Venerable Knight
 3 Venerable Knight
 4 Venerable Knight
-16 Plains
 17 Plains
 18 Plains
+1 Nykthos, Shrine to Nyx
+1 Walking Ballista
+1 Heliod, Sun-Crowned
+1 Daxos, Blessed by the Sun
+2 Walking Ballista
+2 Heliod, Sun-Crowned
+2 Nykthos, Shrine to Nyx
+2 Daxos, Blessed by the Sun
+3 Heliod, Sun-Crowned
+3 Walking Ballista
+4 Walking Ballista
+4 Heliod, Sun-Crowned
 1 Gideon, Ally of Zendikar
+2 Gideon, Ally of Zendikar
+3 Gideon, Ally of Zendikar
+3 Nykthos, Shrine to Nyx
+1 Anafenza, Kin-Tree Spirit
+2 Anafenza, Kin-Tree Spirit
 1 Worthy Knight
 1 The Circle of Loyalty
 1 History of Benalia
 1 Acclaimed Contender
-2 Gideon, Ally of Zendikar
-2 History of Benalia
 2 Acclaimed Contender
 2 Worthy Knight
-3 Gideon, Ally of Zendikar
+2 History of Benalia
 3 Acclaimed Contender
 3 Worthy Knight
 3 History of Benalia
 4 Worthy Knight
 4 Acclaimed Contender
 4 History of Benalia
+1 Stasis Snare
+1 Arcanist's Owl
+1 Idyllic Grange
+2 Stasis Snare
+2 Arcanist's Owl
+3 Arcanist's Owl
+4 Arcanist's Owl
 1 Mutavault
 3 Castle Ardenvale
 1 Charming Prince
-1 Nykthos, Shrine to Nyx
-1 Anafenza, Kin-Tree Spirit
-1 Walking Ballista
-1 Heliod, Sun-Crowned
-1 Daxos, Blessed by the Sun
-2 Walking Ballista
-2 Anafenza, Kin-Tree Spirit
-2 Heliod, Sun-Crowned
-2 Nykthos, Shrine to Nyx
-2 Daxos, Blessed by the Sun
-3 Walking Ballista
-3 Heliod, Sun-Crowned
-4 Walking Ballista
-4 Heliod, Sun-Crowned
+19 Plains
 1 Temple Garden
 1 Collected Company
 1 Sunpetal Grove
@@ -66,27 +75,49 @@
 4 Sunpetal Grove
 4 Fortified Village
 4 Militia Bugler
+1 Tomik, Distinguished Advokist
 1 Spear of Heliod
 2 Mutavault
 3 Mutavault
+3 Stasis Snare
 3 Shefet Dunes
 4 Shefet Dunes
-3 Nykthos, Shrine to Nyx
+2 Idyllic Grange
+3 Idyllic Grange
+1 Gideon Blackblade
+3 Daxos, Blessed by the Sun
 3 Giant Killer
-19 Plains
 1 Always Watching
 2 Always Watching
 3 Always Watching
 1 Dragon Hunter
 2 Dragon Hunter
-1 Tomik, Distinguished Advokist
-2 Tomik, Distinguished Advokist
-1 Gideon Blackblade
 1 Unbreakable Formation
 1 Hanweir Militia Captain
 2 Gideon Blackblade
 2 Unbreakable Formation
 2 Hanweir Militia Captain
+2 Tomik, Distinguished Advokist
+1 Heliod, God of the Sun
+1 Quarantine Field
+1 Alseid of Life's Bounty
+2 Quarantine Field
+2 Alseid of Life's Bounty
+3 Anafenza, Kin-Tree Spirit
+3 Alseid of Life's Bounty
+1 Elspeth Conquers Death
+1 Elspeth, Sun's Champion
+2 Elspeth Conquers Death
+4 Stasis Snare
+1 Baffling End
+1 Mastery of the Unseen
+1 Gideon of the Trials
+2 Gideon of the Trials
+2 Baffling End
+2 Mastery of the Unseen
+3 Mastery of the Unseen
+4 Nykthos, Shrine to Nyx
+4 Mastery of the Unseen
 1 Stoneforge Masterwork
 4 Mutavault
 4 Castle Ardenvale
@@ -98,9 +129,9 @@
 3 Glacial Fortress
 3 Hallowed Fountain
 4 Hallowed Fountain
+1 Legion's Landing
 1 Law-Rune Enforcer
 1 Conclave Tribunal
-1 Legion's Landing
 1 Judge's Familiar
 2 Law-Rune Enforcer
 2 Legion's Landing
@@ -120,25 +151,9 @@
 2 Demotion
 3 Kytheon, Hero of Akros
 3 Demotion
-4 Giant Killer
 4 Kytheon, Hero of Akros
+4 Giant Killer
 4 Demotion
-1 Heliod, God of the Sun
-1 Quarantine Field
-1 Stasis Snare
-1 Idyllic Grange
-1 Arcanist's Owl
-1 Alseid of Life's Bounty
-2 Quarantine Field
-2 Stasis Snare
-2 Alseid of Life's Bounty
-2 Arcanist's Owl
-3 Anafenza, Kin-Tree Spirit
-3 Stasis Snare
-3 Daxos, Blessed by the Sun
-3 Alseid of Life's Bounty
-3 Arcanist's Owl
-4 Arcanist's Owl
 1 Ajani, Strength of the Pride
 1 Gisela, the Broken Blade
 1 Archangel of Thune
@@ -155,8 +170,8 @@
 2 Ajani, Strength of the Pride
 2 Lone Rider
 2 Resplendent Angel
-2 Shalai, Voice of Plenty
 2 Hushbringer
+2 Shalai, Voice of Plenty
 2 Healer's Hawk
 2 Glory-Bound Initiate
 3 Gisela, the Broken Blade
@@ -166,10 +181,10 @@
 3 Hushbringer
 3 Glory-Bound Initiate
 3 Healer's Hawk
+4 Healer's Hawk
 4 Hushbringer
 4 Glory-Bound Initiate
 4 Resplendent Angel
-4 Healer's Hawk
 4 Gisela, the Broken Blade
 20 Plains
 4 Lone Rider
