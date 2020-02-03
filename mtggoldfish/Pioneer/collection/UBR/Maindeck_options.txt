@@ -3,38 +3,39 @@
 2 Opt
 3 Opt
 4 Opt
-1 Vraska's Contempt
 1 Syncopate
-1 Dreadbore
+1 Vraska's Contempt
 1 Sulfur Falls
 1 Nicol Bolas, Dragon-God
+1 Dreadbore
 1 Dig Through Time
 1 Nicol Bolas, the Ravager
 1 Drowned Catacomb
 1 Kalitas, Traitor of Ghet
 1 Radiant Flames
-2 Nicol Bolas, Dragon-God
-2 Dreadbore
 2 Syncopate
+2 Nicol Bolas, Dragon-God
 2 Kalitas, Traitor of Ghet
 2 Dig Through Time
 2 Radiant Flames
+2 Dreadbore
 2 Nicol Bolas, the Ravager
 2 Drowned Catacomb
 3 Syncopate
 3 Nicol Bolas, the Ravager
 3 Drowned Catacomb
 4 Watery Grave
-1 Shivan Reef
 1 Spirebluff Canal
+1 Shivan Reef
 2 Shivan Reef
 2 Spirebluff Canal
 2 Island
-3 Shivan Reef
 3 Spirebluff Canal
+3 Shivan Reef
 4 Shivan Reef
 4 Spirebluff Canal
 1 Ipnu Rivulet
+1 Thought-Knot Seer
 1 Skilled Animator
 1 Darksteel Citadel
 1 Ghostfire Blade
@@ -44,10 +45,10 @@
 1 Gingerbrute
 1 Hope of Ghirapur
 1 Phyrexian Revoker
-1 Thought-Knot Seer
 1 Mutavault
 1 Bomat Courier
 2 Ipnu Rivulet
+2 Thought-Knot Seer
 2 Ensoul Artifact
 2 Ghostfire Blade
 2 Skilled Animator
@@ -57,8 +58,8 @@
 2 Gingerbrute
 2 Phyrexian Revoker
 2 Bomat Courier
-2 Thought-Knot Seer
 2 Mutavault
+3 Thought-Knot Seer
 3 Shrapnel Blast
 3 Skilled Animator
 3 Ghostfire Blade
@@ -68,17 +69,16 @@
 3 Darksteel Citadel
 3 Phyrexian Revoker
 3 Bomat Courier
-3 Thought-Knot Seer
 3 Mutavault
 4 Shrapnel Blast
 4 Ghostfire Blade
+4 Thought-Knot Seer
 4 Ensoul Artifact
 4 Skilled Animator
 4 Stonecoil Serpent
 4 Darksteel Citadel
 4 Gingerbrute
 4 Bomat Courier
-4 Thought-Knot Seer
 4 Mutavault
 1 Discovery/Dispersal
 1 Goblin Electromancer
@@ -115,5 +115,5 @@
 4 Island
 4 Hidden Strings
 4 Discovery/Dispersal
-5 Island
 6 Island
+5 Island

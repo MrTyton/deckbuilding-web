@@ -33,8 +33,8 @@
 |                    4|[Fatal Push](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423724)              |                    3|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)|
 |                    1|Tymaret, Chosen from Death                                                                         |                    1|[Ritual of Soot](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452834)|
 |                    1|Pharika's Libation                                                                                 |                     |                                                                                         |
-|                    2|Pharika's Libation                                                                                 |                     |                                                                                         |
 |                    2|Tymaret, Chosen from Death                                                                         |                     |                                                                                         |
+|                    2|Pharika's Libation                                                                                 |                     |                                                                                         |
 |                    3|[Kalitas, Traitor of Ghet](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407596)|                     |                                                                                         |
 |                   14|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)                   |                     |                                                                                         |
 

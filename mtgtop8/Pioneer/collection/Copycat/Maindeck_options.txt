@@ -21,8 +21,8 @@
 3 Attune with Aether
 4 Attune with Aether
 2 Steam Vents
-3 Steam Vents
 3 Hallowed Fountain
+3 Steam Vents
 4 Steam Vents
 1 Dig Through Time
 1 Glacial Fortress
@@ -35,9 +35,9 @@
 3 Dig Through Time
 4 Opt
 1 Supreme Verdict
-1 Clifftop Retreat
-1 Sulfur Falls
 1 Detention Sphere
+1 Sulfur Falls
+1 Clifftop Retreat
 2 Detention Sphere
 3 Glacial Fortress
 4 Glacial Fortress
@@ -50,16 +50,16 @@
 1 Hieroglyphic Illumination
 2 Hieroglyphic Illumination
 2 Clifftop Retreat
-2 Izzet Charm
-2 Sulfur Falls
-2 Censor
-2 Supreme Verdict
 2 Irrigated Farmland
+2 Izzet Charm
+2 Supreme Verdict
+2 Censor
+2 Sulfur Falls
 3 Censor
-3 Detention Sphere
-3 Sulfur Falls
-3 Supreme Verdict
 3 Izzet Charm
+3 Detention Sphere
+3 Supreme Verdict
+3 Sulfur Falls
 4 Sulfur Falls
 4 Censor
 4 Izzet Charm
@@ -92,47 +92,47 @@
 4 Sacred Foundry
 1 Deafening Clarion
 2 Deafening Clarion
-1 Godless Shrine
-1 Oath of Kaya
-1 Watery Grave
 1 Blood Crypt
 1 Swamp
+1 Godless Shrine
+1 Watery Grave
+1 Oath of Kaya
 2 Oath of Kaya
 3 Oath of Kaya
-1 Sunpetal Grove
 1 Deputy of Detention
-2 Brazen Borrower
+1 Sunpetal Grove
 2 Yavimaya Coast
-1 Bring to Light
-1 Niv-Mizzet Reborn
+2 Brazen Borrower
 1 Silumgar's Command
 1 Abrupt Decay
 1 Unmoored Ego
-1 Ojutai's Command
 1 Dreadbore
 1 Kolaghan's Command
+1 Ojutai's Command
+1 Niv-Mizzet Reborn
+1 Bring to Light
 1 Knight of Autumn
 1 Assassin's Trophy
-2 Niv-Mizzet Reborn
-2 Bring to Light
 2 Assassin's Trophy
+2 Bring to Light
 2 Mana Confluence
 2 Stomping Ground
-3 Niv-Mizzet Reborn
+2 Niv-Mizzet Reborn
 3 Bring to Light
+3 Niv-Mizzet Reborn
 3 Island
+1 Shock
+2 Shock
+4 Elvish Mystic
 1 Elvish Visionary
 1 Wicked Wolf
 2 Wicked Wolf
 4 Llanowar Elves
-1 Shock
-2 Shock
-4 Elvish Mystic
 1 Golos, Tireless Pilgrim
 1 Lumbering Falls
 1 Field of the Dead
-1 Risen Reef
 1 Eldritch Evolution
+1 Risen Reef
 1 Overgrown Tomb
 1 Arboreal Grazer
 1 Yarok, the Desecrated
@@ -162,11 +162,9 @@
 3 Lava Coil
 4 Anticipate
 4 Spirebluff Canal
-4 Fiery Impulse
 4 Dig Through Time
-1 Urborg, Tomb of Yawgmoth
+4 Fiery Impulse
 1 Search for Azcanta
-1 Thoughtseize
 1 Nicol Bolas, Dragon-God
 1 Discovery / Dispersal
 1 Languish
@@ -176,14 +174,16 @@
 1 Isolated Chapel
 1 Prophetic Prism
 1 Yahenni's Expertise
+1 Thoughtseize
+1 Urborg, Tomb of Yawgmoth
 1 Drowned Catacomb
 1 Interplanar Beacon
 1 Fatal Push
-2 Watery Grave
-2 Thoughtseize
 2 Languish
 2 Narset, Parter of Veils
 2 Fatal Push
+2 Thoughtseize
+2 Watery Grave
 2 Godless Shrine
 2 Prophetic Prism
 3 Thoughtseize
@@ -203,8 +203,8 @@
 1 Dusk / Dawn
 2 Field of Ruin
 2 Elite Guardmage
-2 Plains
 2 Tithe Taker
+2 Plains
 2 Dusk / Dawn
 2 Thraben Inspector
 2 Cloudblazer

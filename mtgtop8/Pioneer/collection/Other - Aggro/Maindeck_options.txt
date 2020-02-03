@@ -3,27 +3,27 @@
 2 Blood Crypt
 3 Blood Crypt
 4 Blood Crypt
-2 Mountain
-1 Glorybringer
-1 Chandra, Torch of Defiance
-2 Glorybringer
-2 Chandra, Torch of Defiance
-3 Glorybringer
 1 Wild Slash
 2 Wild Slash
 1 Mutavault
 2 Mutavault
 3 Wild Slash
+2 Mountain
 1 Rekindling Phoenix
 1 Soul-Scar Mage
+1 Glorybringer
 1 Goblin Chainwhirler
 1 Bonecrusher Giant
+1 Chandra, Torch of Defiance
 1 Dragonskull Summit
 2 Rekindling Phoenix
 2 Soul-Scar Mage
+2 Glorybringer
 2 Goblin Chainwhirler
 2 Bonecrusher Giant
+2 Chandra, Torch of Defiance
 2 Dragonskull Summit
+3 Glorybringer
 3 Goblin Chainwhirler
 3 Soul-Scar Mage
 3 Bonecrusher Giant
@@ -41,9 +41,9 @@
 2 Driven / Despair
 3 Driven / Despair
 4 Haunted Dead
-1 Abrade
 1 Foreboding Ruins
 1 Heart of Kiran
+1 Abrade
 1 Cut / Ribbons
 2 Foreboding Ruins
 2 Heart of Kiran
@@ -60,7 +60,6 @@
 4 Wild Slash
 1 Island
 1 Spirebluff Canal
-2 Spirebluff Canal
 1 Emry, Lurker of the Loch
 1 Spire of Industry
 1 Bomat Courier
@@ -76,6 +75,7 @@
 1 Ghostfire Blade
 1 Shrapnel Blast
 2 Bomat Courier
+2 Spirebluff Canal
 2 Spire of Industry
 2 Steam Vents
 2 Hope of Ghirapur
@@ -94,10 +94,10 @@
 3 Skilled Animator
 3 Stonecoil Serpent
 3 Gingerbrute
+3 Ensoul Artifact
 3 Ghostfire Blade
 3 Shivan Reef
 3 Shrapnel Blast
-3 Ensoul Artifact
 4 Stonecoil Serpent
 4 Shivan Reef
 4 Darksteel Citadel
@@ -108,26 +108,25 @@
 4 Shrapnel Blast
 4 Ensoul Artifact
 1 Castle Embereth
-1 Forest
-2 Forest
-1 Breeding Pool
-1 Llanowar Elves
-2 Llanowar Elves
-2 Breeding Pool
-1 Hallowed Fountain
 1 Reflector Mage
+1 Hallowed Fountain
 2 Reflector Mage
 2 Hallowed Fountain
+1 Forest
 3 Reflector Mage
 1 Sunpetal Grove
 1 Collected Company
 1 Voice of Resurgence
+1 Breeding Pool
 1 Spell Queller
+1 Llanowar Elves
 1 Elvish Mystic
 1 Temple Garden
 2 Temple Garden
 2 Collected Company
 2 Voice of Resurgence
+2 Breeding Pool
+2 Llanowar Elves
 2 Spell Queller
 2 Elvish Mystic
 3 Breeding Pool
@@ -137,13 +136,14 @@
 4 Temple Garden
 4 Collected Company
 4 Spell Queller
-3 Llanowar Elves
-1 Gilded Goose
 3 Hallowed Fountain
-4 Reflector Mage
 1 Teferi, Time Raveler
+1 Gilded Goose
+4 Reflector Mage
+2 Forest
 1 Deputy of Detention
 3 Voice of Resurgence
+3 Llanowar Elves
 4 Voice of Resurgence
 1 Lovestruck Beast
 2 Sunpetal Grove
@@ -154,24 +154,14 @@
 4 Breeding Pool
 1 Hinterland Harbor
 2 Hinterland Harbor
-1 Plains
 4 Hallowed Fountain
-4 Botanical Sanctum
-4 Llanowar Elves
-1 Charming Prince
 2 Island
+1 Plains
 1 Glacial Fortress
 2 Glacial Fortress
+1 Charming Prince
 2 Deputy of Detention
-1 Rhonas the Indomitable
-2 Gilded Goose
-1 Ashiok, Dream Render
-1 Hazoret the Fervent
 2 Teferi, Time Raveler
-1 Thraben Inspector
-2 Thraben Inspector
-3 Thraben Inspector
-4 Thraben Inspector
 1 Concealed Courtyard
 1 Godless Shrine
 2 Concealed Courtyard
@@ -180,14 +170,12 @@
 3 Concealed Courtyard
 4 Godless Shrine
 4 Concealed Courtyard
-1 Aether Hub
-2 Aether Hub
-3 Aether Hub
-4 Aether Hub
-1 Westvale Abbey
-2 Charming Prince
-3 Charming Prince
-4 Charming Prince
+1 Thraben Inspector
+2 Thraben Inspector
+3 Thraben Inspector
+4 Thraben Inspector
+2 Gilded Goose
+1 Ashiok, Dream Render
 4 Gurmag Angler
 1 Metallic Rebuke
 1 Stubborn Denial
@@ -195,43 +183,56 @@
 2 Emry, Lurker of the Loch
 2 Metallic Rebuke
 4 Bomat Courier
+1 Hazoret the Fervent
 1 Hangarback Walker
 2 The Royal Scions
 3 Steam Vents
 4 Spire of Industry
-1 Uro, Titan of Nature's Wrath
-1 Scavenging Ooze
-1 Tireless Tracker
-2 Uro, Titan of Nature's Wrath
-2 Scavenging Ooze
-2 Tireless Tracker
-3 Tireless Tracker
-4 Tireless Tracker
-1 Kytheon, Hero of Akros
-1 Thalia's Lieutenant
-2 Thalia's Lieutenant
-3 Thalia's Lieutenant
-4 Thalia's Lieutenant
-1 Unclaimed Territory
-1 Glint-Sleeve Siphoner
-1 Elite Guardmage
-1 Kitesail Freebooter
-1 The Scarab God
-1 Aethersphere Harvester
-2 Unclaimed Territory
-2 The Scarab God
-2 Glint-Sleeve Siphoner
-2 Elite Guardmage
-2 Kitesail Freebooter
-2 Aethersphere Harvester
-3 Unclaimed Territory
-3 Glint-Sleeve Siphoner
-3 Elite Guardmage
-3 Kitesail Freebooter
-4 Elite Guardmage
-4 Unclaimed Territory
-4 Glint-Sleeve Siphoner
-4 Kitesail Freebooter
+1 Fatal Push
+2 Fatal Push
+3 Fatal Push
+1 Mana Confluence
+1 Murderous Rider
+4 Fatal Push
+1 Caves of Koilos
+2 Caves of Koilos
+3 Caves of Koilos
+4 Caves of Koilos
+1 Urborg, Tomb of Yawgmoth
+1 Ifnir Deadlands
+1 Shambling Vent
+1 Ravenous Chupacabra
+1 Wasteland Strangler
+1 Brain Maggot
+1 Ultimate Price
+1 Lyra Dawnbringer
+1 Liliana, the Last Hope
+1 Silkwrap
+1 Fairgrounds Warden
+1 Thought-Knot Seer
+1 Thoughtseize
+1 Baffling End
+1 Shefet Dunes
+2 Ravenous Chupacabra
+2 Brain Maggot
+2 Ifnir Deadlands
+2 Wasteland Strangler
+2 Shambling Vent
+2 Ultimate Price
+2 Fairgrounds Warden
+2 Lyra Dawnbringer
+2 Thought-Knot Seer
+2 Thoughtseize
+2 Liliana, the Last Hope
+2 Shefet Dunes
+3 Mutavault
+3 Brain Maggot
+3 Wasteland Strangler
+3 Thought-Knot Seer
+4 Thought-Knot Seer
+4 Wasteland Strangler
+4 Brain Maggot
+4 Mutavault
 1 Lightning Strike
 1 Ramunap Ruins
 1 Torbran, Thane of Red Fell
@@ -251,16 +252,17 @@
 3 Goblin Rabblemaster
 4 Ramunap Ruins
 4 Goblin Rabblemaster
+1 Brazen Borrower
+2 Brazen Borrower
 1 Steel Leaf Champion
 1 Duskwatch Recruiter
 1 Yorvo, Lord of Garenbrig
+1 Rhonas the Indomitable
 1 Prowling Serpopard
-1 Brazen Borrower
 1 Harbinger of the Tides
 1 Rishkar, Peema Renegade
 2 Steel Leaf Champion
 2 Duskwatch Recruiter
-2 Brazen Borrower
 2 Harbinger of the Tides
 3 Steel Leaf Champion
 3 Hinterland Harbor
@@ -270,64 +272,53 @@
 4 Hinterland Harbor
 4 Lovestruck Beast
 4 Elvish Mystic
-1 Fatal Push
-2 Fatal Push
-3 Fatal Push
-1 Murderous Rider
-4 Fatal Push
-1 Urborg, Tomb of Yawgmoth
-1 Ifnir Deadlands
-1 Shambling Vent
-1 Ravenous Chupacabra
-1 Wasteland Strangler
-1 Brain Maggot
-1 Lyra Dawnbringer
-1 Ultimate Price
-1 Liliana, the Last Hope
-1 Fairgrounds Warden
-1 Silkwrap
-1 Thought-Knot Seer
-1 Thoughtseize
-1 Caves of Koilos
-1 Baffling End
-1 Shefet Dunes
-2 Caves of Koilos
-2 Ravenous Chupacabra
-2 Brain Maggot
-2 Ifnir Deadlands
-2 Wasteland Strangler
-2 Shambling Vent
-2 Ultimate Price
-2 Fairgrounds Warden
-2 Lyra Dawnbringer
-2 Thought-Knot Seer
-2 Thoughtseize
-2 Liliana, the Last Hope
-2 Shefet Dunes
-3 Mutavault
-3 Brain Maggot
-3 Wasteland Strangler
-3 Thought-Knot Seer
-3 Caves of Koilos
-4 Thought-Knot Seer
-4 Wasteland Strangler
-4 Brain Maggot
-4 Mutavault
-4 Caves of Koilos
-1 Stomping Ground
-2 Stomping Ground
+1 Westvale Abbey
+2 Charming Prince
+3 Charming Prince
+4 Charming Prince
+1 Unclaimed Territory
+1 Aether Hub
+1 Glint-Sleeve Siphoner
+1 Elite Guardmage
+1 Kytheon, Hero of Akros
+1 Kitesail Freebooter
+1 The Scarab God
+1 Thalia's Lieutenant
+1 Aethersphere Harvester
+2 The Scarab God
+2 Unclaimed Territory
+2 Aether Hub
+2 Glint-Sleeve Siphoner
+2 Elite Guardmage
+2 Kitesail Freebooter
+2 Thalia's Lieutenant
+2 Aethersphere Harvester
+3 Unclaimed Territory
+3 Aether Hub
+3 Glint-Sleeve Siphoner
+3 Elite Guardmage
+3 Kitesail Freebooter
+3 Thalia's Lieutenant
+4 Elite Guardmage
+4 Unclaimed Territory
+4 Aether Hub
+4 Glint-Sleeve Siphoner
+4 Kitesail Freebooter
+4 Thalia's Lieutenant
 1 Castle Locthwain
 1 Assassin's Trophy
 1 Mayhem Devil
 1 Vraska, Golgari Queen
 1 Sylvan Caryatid
+1 Korvold, Fae-Cursed King
 1 Cauldron Familiar
 1 Trail of Crumbs
 1 Fabled Passage
+1 Stomping Ground
 1 Witch's Oven
-1 Korvold, Fae-Cursed King
 2 Vraska, Golgari Queen
 2 Assassin's Trophy
+2 Stomping Ground
 2 Murderous Rider
 2 Mayhem Devil
 2 Witch's Oven
@@ -348,65 +339,15 @@
 4 Fabled Passage
 4 Sylvan Caryatid
 4 Trail of Crumbs
+4 Cauldron Familiar
 4 Gilded Goose
 4 Witch's Oven
-4 Cauldron Familiar
 4 Mayhem Devil
-1 Castle Ardenvale
-2 Plains
-3 Plains
-4 Plains
-5 Plains
-6 Plains
-7 Plains
-8 Plains
-9 Plains
-1 Soldier of the Pantheon
-1 Battlefield Forge
-1 Sacred Foundry
-1 Inspiring Vantage
-1 Tithe Taker
-1 Brave the Elements
-1 Declaration in Stone
-1 Benalish Marshal
-1 Knight of the White Orchid
-1 Dauntless Bodyguard
-2 Soldier of the Pantheon
-2 Hazoret the Fervent
-2 Inspiring Vantage
-2 Tithe Taker
-2 Sacred Foundry
-2 Declaration in Stone
-2 Brave the Elements
-2 Kytheon, Hero of Akros
-2 Benalish Marshal
-2 Knight of the White Orchid
-2 Dauntless Bodyguard
-3 Soldier of the Pantheon
-3 Hazoret the Fervent
-3 Kytheon, Hero of Akros
-3 Tithe Taker
-3 Sacred Foundry
-3 Inspiring Vantage
-3 Brave the Elements
-3 Knight of the White Orchid
-3 Declaration in Stone
-3 Benalish Marshal
-3 Dauntless Bodyguard
-4 Soldier of the Pantheon
-4 Sacred Foundry
-4 Inspiring Vantage
-4 Benalish Marshal
-4 Declaration in Stone
-4 Dauntless Bodyguard
-4 Brave the Elements
-4 Knight of the White Orchid
 1 Renegade Rallier
 1 Leafkin Druid
 1 Shalai, Voice of Plenty
 1 Risen Reef
 1 Neoform
-1 Mana Confluence
 2 Leafkin Druid
 2 Risen Reef
 2 Neoform
@@ -418,65 +359,61 @@
 3 Neoform
 4 Risen Reef
 4 Neoform
-1 Militia Bugler
-1 Oketra's Monument
-1 Cloudblazer
-1 Angel of Invention
-1 Dusk / Dawn
-1 Selfless Spirit
-2 Militia Bugler
-2 Cloudblazer
-2 Oketra's Monument
-2 Angel of Invention
-2 Dusk / Dawn
-2 Westvale Abbey
-2 Selfless Spirit
-3 Militia Bugler
-3 Glacial Fortress
-3 Oketra's Monument
-3 Cloudblazer
-3 Angel of Invention
-3 Selfless Spirit
-3 Deputy of Detention
-3 Island
-4 Militia Bugler
-4 Oketra's Monument
-4 Selfless Spirit
-4 Glacial Fortress
-4 Deputy of Detention
-4 Island
-1 Harnessed Lightning
-1 Attune with Aether
-1 Magma Spray
-1 Longtusk Cub
-1 Confiscation Coup
-1 Sulfur Falls
-1 Whirler Virtuoso
-1 Bristling Hydra
-1 Rogue Refiner
-2 Harnessed Lightning
-2 Attune with Aether
-2 Confiscation Coup
-2 Bristling Hydra
-2 Whirler Virtuoso
-2 Rogue Refiner
-2 Magma Spray
-2 Longtusk Cub
-3 Rogue Refiner
-3 Harnessed Lightning
-3 Longtusk Cub
-3 Whirler Virtuoso
-3 Bristling Hydra
-3 Stomping Ground
-3 Attune with Aether
-4 Rogue Refiner
-4 Harnessed Lightning
-4 Longtusk Cub
-4 Bristling Hydra
-4 Stomping Ground
-4 Attune with Aether
-2 Abrade
-12 Mountain
+2 Plains
+3 Plains
+4 Plains
+5 Plains
+6 Plains
+1 Cartouche of Solidarity
+1 Sram, Senior Edificer
+1 Alseid of Life's Bounty
+1 Karametra's Blessing
+1 Aphemia, the Cacophony
+1 Favored Hoplite
+1 Hateful Eidolon
+1 Gryff's Boon
+1 Ethereal Armor
+1 All That Glitters
+1 Sentinel's Eyes
+2 Sram, Senior Edificer
+2 Alseid of Life's Bounty
+2 Karametra's Blessing
+2 Gryff's Boon
+2 Hateful Eidolon
+2 Cartouche of Solidarity
+2 Ethereal Armor
+2 All That Glitters
+2 Favored Hoplite
+2 Aphemia, the Cacophony
+2 Sentinel's Eyes
+3 Alseid of Life's Bounty
+3 Sram, Senior Edificer
+3 Karametra's Blessing
+3 Aphemia, the Cacophony
+3 Sentinel's Eyes
+3 Gryff's Boon
+3 Hateful Eidolon
+3 All That Glitters
+3 Cartouche of Solidarity
+3 Ethereal Armor
+4 Alseid of Life's Bounty
+4 Sram, Senior Edificer
+4 Karametra's Blessing
+4 Sentinel's Eyes
+4 Cartouche of Solidarity
+4 Hateful Eidolon
+4 Ethereal Armor
+4 All That Glitters
+1 Uro, Titan of Nature's Wrath
+1 Scavenging Ooze
+1 Tireless Tracker
+2 Uro, Titan of Nature's Wrath
+2 Scavenging Ooze
+2 Tireless Tracker
+3 Tireless Tracker
+4 Botanical Sanctum
+4 Tireless Tracker
+4 Llanowar Elves
 1 Corpse Knight
 1 Wayward Servant
 1 Temple of Silence
@@ -488,13 +425,13 @@
 1 Rally the Ancestors
 1 Lazotep Reaver
 1 Nantuko Husk
+2 Dread Wanderer
 2 Temple of Silence
 2 Corpse Knight
 2 Wayward Servant
 2 Isolated Chapel
 2 Lazotep Reaver
 2 Nantuko Husk
-2 Dread Wanderer
 2 Death Baron
 2 Liliana, Untouched by Death
 2 Cryptbreaker
@@ -519,3 +456,79 @@
 4 Rally the Ancestors
 5 Swamp
 6 Swamp
+3 Glacial Fortress
+3 Island
+4 Glacial Fortress
+4 Island
+1 Militia Bugler
+1 Oketra's Monument
+1 Cloudblazer
+1 Angel of Invention
+1 Dusk / Dawn
+1 Selfless Spirit
+1 Castle Ardenvale
+2 Militia Bugler
+2 Cloudblazer
+2 Oketra's Monument
+2 Angel of Invention
+2 Dusk / Dawn
+2 Westvale Abbey
+2 Selfless Spirit
+3 Militia Bugler
+3 Cloudblazer
+3 Oketra's Monument
+3 Angel of Invention
+3 Deputy of Detention
+3 Selfless Spirit
+4 Militia Bugler
+4 Oketra's Monument
+4 Selfless Spirit
+4 Deputy of Detention
+7 Plains
+8 Plains
+9 Plains
+2 Abrade
+12 Mountain
+1 Thassa's Oracle
+1 Nykthos, Shrine to Nyx
+1 Witching Well
+1 Temple of Enlightenment
+1 Leyline of Anticipation
+1 Omen of the Sea
+1 Agent of Treachery
+1 Ashiok's Erasure
+1 Thassa, Deep-Dwelling
+1 Thassa, God of the Sea
+1 Gadwick, the Wizened
+1 Mystical Dispute
+2 Witching Well
+2 Temple of Enlightenment
+2 Leyline of Anticipation
+2 Nykthos, Shrine to Nyx
+2 Omen of the Sea
+2 Thassa's Oracle
+2 Agent of Treachery
+2 Gadwick, the Wizened
+2 Ashiok's Erasure
+2 Thassa, Deep-Dwelling
+2 Thassa, God of the Sea
+3 Witching Well
+3 Leyline of Anticipation
+3 Thassa's Oracle
+3 Gadwick, the Wizened
+3 Nykthos, Shrine to Nyx
+3 Omen of the Sea
+3 Ashiok's Erasure
+4 Leyline of Anticipation
+4 Witching Well
+4 Omen of the Sea
+4 Nykthos, Shrine to Nyx
+4 Gadwick, the Wizened
+4 Thassa's Oracle
+4 Ashiok's Erasure
+5 Island
+6 Island
+7 Island
+8 Island
+9 Island
+10 Island

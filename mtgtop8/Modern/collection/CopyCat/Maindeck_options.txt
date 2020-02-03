@@ -11,8 +11,8 @@
 3 Windswept Heath
 3 Misty Rainforest
 1 Waterlogged Grove
-1 Knight of Autumn
 1 Gilded Goose
+1 Knight of Autumn
 2 Gilded Goose
 3 Gilded Goose
 4 Gilded Goose
@@ -43,8 +43,8 @@
 1 Plains
 1 Island
 1 Wicked Wolf
-1 Abrade
 1 Blood Moon
+1 Abrade
 1 Sun Titan
 1 Karn, the Great Creator
 2 Breeding Pool
@@ -57,14 +57,23 @@
 3 Blood Moon
 3 Karn, the Great Creator
 1 Delay
-1 Glacial Fortress
 1 Narset, Parter of Veils
+1 Glacial Fortress
 2 Delay
 2 Narset, Parter of Veils
 2 Field of Ruin
 3 Lightning Helix
 3 Delay
 3 Snow-Covered Island
+1 Magus of the Moon
+1 Wall of Omens
+1 Eladamri's Call
+1 Eternal Witness
+1 Shalai, Voice of Plenty
+1 Razorverge Thicket
+1 Horizon Canopy
+2 Eladamri's Call
+4 Windswept Heath
 1 Watcher for Tomorrow
 4 Misty Rainforest
 1 Tranquil Thicket
@@ -96,15 +105,6 @@
 2 Noble Hierarch
 3 Noble Hierarch
 4 Oko, Thief of Crowns
-1 Wall of Omens
-1 Magus of the Moon
-1 Eladamri's Call
-1 Eternal Witness
-1 Shalai, Voice of Plenty
-1 Razorverge Thicket
-1 Horizon Canopy
-2 Eladamri's Call
-4 Windswept Heath
 1 Forest
 1 Kiki-Jiki, Mirror Breaker
 1 Bring to Light
@@ -115,19 +115,19 @@
 1 Niv-Mizzet Reborn
 1 Verdant Catacombs
 1 Deceiver Exarch
-2 Arid Mesa
 2 Bring to Light
+2 Arid Mesa
 2 Kiki-Jiki, Mirror Breaker
 2 Utopia Sprawl
 2 Deceiver Exarch
 3 Arid Mesa
-3 Wooded Foothills
 3 Bring to Light
+3 Wooded Foothills
 3 Mana Leak
 3 Deceiver Exarch
 3 Utopia Sprawl
-4 Wooded Foothills
 4 Arid Mesa
+4 Wooded Foothills
 4 Deceiver Exarch
 4 Utopia Sprawl
 4 Bring to Light

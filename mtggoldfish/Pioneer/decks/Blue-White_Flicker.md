@@ -36,6 +36,6 @@
 |                    4|[Teferi, Time Raveler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461148)|                    1|[Arashin Cleric](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391791)    |
 |                    4|Thassa, Deep-Dwelling                                                                          |                    2|[Disdainful Stroke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420705) |
 |                    4|[Cloudblazer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442190)         |                    2|[Supreme Verdict](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438776)   |
-|                     |                                                                                               |                    3|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)     |
 |                     |                                                                                               |                    3|[Supreme Verdict](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438776)   |
+|                     |                                                                                               |                    3|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)     |
 

@@ -2,14 +2,13 @@
 2 Thragtusk
 4 Oblivion Stone
 1 World Breaker
-1 Dismember
 1 Once Upon a Time
-1 Ugin, the Ineffable
-2 Dismember
-1 Thought-Knot Seer
-4 Wurmcoil Engine
 1 Relic of Progenitus
 2 Relic of Progenitus
+1 Ugin, the Ineffable
+1 Thought-Knot Seer
+4 Wurmcoil Engine
+1 Snow-Covered Forest
 2 Ugin, the Ineffable
 1 Wastes
 1 Chalice of the Void
@@ -17,7 +16,6 @@
 3 Chalice of the Void
 1 Everflowing Chalice
 1 Inventors' Fair
-1 Snow-Covered Forest
 1 Astral Cornucopia
 1 Mystic Forge
 1 Surge Node
@@ -43,13 +41,14 @@
 4 Everflowing Chalice
 2 Once Upon a Time
 3 Once Upon a Time
+1 Dismember
 2 Thought-Knot Seer
 1 Buried Ruin
 3 Relic of Progenitus
 3 Ugin, the Ineffable
 4 Mystic Forge
 4 Ugin, the Ineffable
-1 Nurturing Peatland
+2 Dismember
 1 Island
 1 Condescend
 3 Thought-Knot Seer
@@ -94,7 +93,8 @@
 4 Thought-Knot Seer
 4 Reality Smasher
 5 Forest
-3 Dismember
+1 Nurturing Peatland
+3 Thragtusk
 1 Teferi, Time Raveler
 1 Hallowed Fountain
 1 Batterskull

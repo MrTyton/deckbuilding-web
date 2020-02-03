@@ -1,10 +1,12 @@
-3 Runaway Steam-Kin
+1 Kiln Fiend
+2 Kiln Fiend
 4 Bedlam Reveler
-4 Burst Lightning
 3 Kiln Fiend
 3 Fiery Islet
 1 Risk Factor
 3 Sunbaked Canyon
+1 Forked Bolt
+2 Forked Bolt
 1 Snow-Covered Mountain
 1 Bloodstained Mire
 1 Wooded Foothills
@@ -28,6 +30,7 @@
 4 Eidolon of the Great Revel
 4 Boros Charm
 4 Goblin Guide
+15 Mountain
 1 Skewer the Critics
 2 Skewer the Critics
 2 Rift Bolt
@@ -37,17 +40,6 @@
 4 Rift Bolt
 3 Wooded Foothills
 4 Searing Blaze
-1 Forked Bolt
-2 Forked Bolt
-4 Sunbaked Canyon
-1 Inspiring Vantage
-1 Lightning Helix
-2 Inspiring Vantage
-2 Lightning Helix
-3 Inspiring Vantage
-3 Lightning Helix
-4 Lightning Helix
-15 Mountain
 1 Arid Mesa
 2 Arid Mesa
 3 Bloodstained Mire
@@ -60,13 +52,21 @@
 4 Mishra's Bauble
 3 Forked Bolt
 4 Runaway Steam-Kin
-4 Inspiring Vantage
+4 Sunbaked Canyon
+1 Inspiring Vantage
+1 Lightning Helix
+2 Inspiring Vantage
+2 Lightning Helix
+3 Inspiring Vantage
+3 Lightning Helix
+4 Lightning Helix
 1 Grim Lavamancer
 3 Sacred Foundry
 4 Sacred Foundry
-2 Snow-Covered Mountain
-3 Snow-Covered Mountain
 1 Stomping Ground
+1 Mutagenic Growth
+2 Mutagenic Growth
+4 Inspiring Vantage
 3 Arid Mesa
 4 Arid Mesa
 1 Skullcrack
@@ -110,6 +110,8 @@
 16 Mountain
 17 Mountain
 18 Mountain
+2 Snow-Covered Mountain
+3 Snow-Covered Mountain
 4 Snow-Covered Mountain
 5 Snow-Covered Mountain
 6 Snow-Covered Mountain

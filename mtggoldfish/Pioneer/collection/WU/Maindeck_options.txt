@@ -1,11 +1,13 @@
 1 Irrigated Farmland
+3 Reflector Mage
 2 Brazen Borrower
 1 Temple of Enlightenment
 2 Temple of Enlightenment
+2 Irrigated Farmland
 1 Castle Ardenvale
-6 Plains
 2 Teferi, Time Raveler
 3 Teferi, Time Raveler
+6 Plains
 1 Walking Ballista
 1 Heliod, Sun-Crowned
 2 Walking Ballista
@@ -14,22 +16,19 @@
 3 Heliod, Sun-Crowned
 4 Heliod, Sun-Crowned
 4 Walking Ballista
-2 Irrigated Farmland
-3 Reflector Mage
+10 Island
+1 Fblthp, the Lost
+4 Teferi, Time Raveler
 1 Thraben Inspector
 2 Thraben Inspector
 3 Thraben Inspector
 4 Thraben Inspector
 7 Plains
 1 Gideon, Ally of Zendikar
-10 Island
-1 Fblthp, the Lost
-4 Teferi, Time Raveler
-1 Anafenza, Kin-Tree Spirit
-2 Anafenza, Kin-Tree Spirit
-1 Daxos, Blessed by the Sun
-2 Daxos, Blessed by the Sun
-8 Plains
+1 Castle Vantress
+1 Supreme Verdict
+2 Supreme Verdict
+3 Supreme Verdict
 1 The Birth of Meletis
 1 Alseid of Life's Bounty
 1 Baffling End
@@ -39,30 +38,11 @@
 3 The Birth of Meletis
 3 Alseid of Life's Bounty
 4 Alseid of Life's Bounty
-1 Arcanist's Owl
-1 Knight of the White Orchid
-2 Arcanist's Owl
-2 Knight of the White Orchid
-3 Knight of the White Orchid
-4 Knight of the White Orchid
-1 Stasis Snare
-2 Castle Ardenvale
-2 Gideon, Ally of Zendikar
-2 Stasis Snare
-3 Gideon, Ally of Zendikar
-1 Castle Vantress
-1 Supreme Verdict
-2 Supreme Verdict
-3 Supreme Verdict
 3 Irrigated Farmland
-9 Plains
-1 Selfless Spirit
-1 Port Town
-2 Selfless Spirit
-3 Selfless Spirit
-4 Selfless Spirit
-1 Cast Out
-1 Detention Sphere
+1 Daxos, Blessed by the Sun
+2 Daxos, Blessed by the Sun
+1 Anafenza, Kin-Tree Spirit
+2 Anafenza, Kin-Tree Spirit
 1 Narset, Parter of Veils
 1 Dovin's Veto
 1 Teferi, Hero of Dominaria
@@ -71,25 +51,44 @@
 2 Azorius Charm
 3 Azorius Charm
 4 Supreme Verdict
+1 Cast Out
+1 Detention Sphere
+1 Selfless Spirit
+1 Port Town
+2 Selfless Spirit
+3 Selfless Spirit
+4 Selfless Spirit
+8 Plains
 1 Deputy of Detention
 1 Charming Prince
 2 Charming Prince
 2 Deputy of Detention
 1 Mystical Dispute
 1 Fabled Passage
+1 Stasis Snare
 1 Tomik, Distinguished Advokist
 1 Archangel Avacyn
 2 Tomik, Distinguished Advokist
+2 Castle Ardenvale
+2 Gideon, Ally of Zendikar
+2 Stasis Snare
 2 Archangel Avacyn
 2 Fabled Passage
+3 Gideon, Ally of Zendikar
 3 Archangel Avacyn
 4 Reflector Mage
 1 Cavalier of Dawn
+1 Arcanist's Owl
+1 Knight of the White Orchid
 2 Cavalier of Dawn
+2 Arcanist's Owl
+2 Knight of the White Orchid
 3 Baffling End
+3 Knight of the White Orchid
 3 Cavalier of Dawn
 4 The Birth of Meletis
 4 Cavalier of Dawn
+4 Knight of the White Orchid
 1 Search for Azcanta
 1 Secure the Wastes
 1 Sinister Sabotage
@@ -108,24 +107,6 @@
 3 Opt
 4 Opt
 4 Myth Realized
-1 Westvale Abbey
-1 Militia Bugler
-1 Spell Queller
-1 Metallic Rebuke
-1 Oketra's Monument
-2 Militia Bugler
-2 Spell Queller
-2 Oketra's Monument
-2 Metallic Rebuke
-3 Charming Prince
-3 Militia Bugler
-3 Spell Queller
-3 Oketra's Monument
-3 Metallic Rebuke
-4 Charming Prince
-4 Militia Bugler
-4 Spell Queller
-4 Oketra's Monument
 1 Ipnu Rivulet
 1 Chart a Course
 1 Champion of Wits
@@ -148,11 +129,11 @@
 3 Strategic Planning
 3 Refurbish
 3 God-Pharaoh's Gift
-3 Chart a Course
 3 Angel of Invention
+3 Chart a Course
 4 Champion of Wits
-4 Refurbish
 4 God-Pharaoh's Gift
+4 Refurbish
 1 Thirst for Meaning
 1 Dream Trawler
 1 Nyx-Fleece Ram
@@ -164,8 +145,8 @@
 3 Thirst for Meaning
 3 Nyx-Fleece Ram
 3 Temple of Enlightenment
-3 Cast Out
 3 Detention Sphere
+3 Cast Out
 4 Temple of Enlightenment
 4 Cast Out
 4 Nyx-Fleece Ram
@@ -190,18 +171,22 @@
 4 Brazen Borrower
 4 Azorius Charm
 4 Mutavault
-1 Idyllic Grange
-1 Elspeth Conquers Death
-2 Idyllic Grange
-2 Elspeth Conquers Death
-3 Daxos, Blessed by the Sun
-3 Anafenza, Kin-Tree Spirit
-3 Idyllic Grange
-3 Stasis Snare
-3 Arcanist's Owl
-4 Stasis Snare
-4 Idyllic Grange
-4 Arcanist's Owl
-10 Plains
-11 Plains
-12 Plains
+1 Westvale Abbey
+1 Militia Bugler
+1 Spell Queller
+1 Metallic Rebuke
+1 Oketra's Monument
+2 Militia Bugler
+2 Spell Queller
+2 Oketra's Monument
+2 Metallic Rebuke
+3 Charming Prince
+3 Militia Bugler
+3 Spell Queller
+3 Oketra's Monument
+3 Metallic Rebuke
+4 Charming Prince
+4 Militia Bugler
+4 Spell Queller
+4 Oketra's Monument
+9 Plains
