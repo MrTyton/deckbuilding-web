@@ -27,3 +27,14 @@
 |                                                                                                |                                                                                              |                                                                                                 |1 [Revoke Existence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=378397)  |                       |
 |                                                                                                |                                                                                              |                                                                                                 |2 [Thought Distortion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466871)|                       |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                       Maindeck Card                                        |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
+|--------------------:|--------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
+|                    1|[Divine Visitation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452760)|                    1|[Dead Weight](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452817)        |
+|                    5|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)            |                    1|[Ethereal Absolution](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457314)|
+|                    6|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)            |                    1|[Noxious Grasp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466864)      |
+|                    7|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)           |                    2|[Noxious Grasp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466864)      |
+|                     |                                                                                            |                    2|[Dead Weight](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452817)        |
+

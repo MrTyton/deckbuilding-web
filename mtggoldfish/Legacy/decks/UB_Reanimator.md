@@ -27,8 +27,8 @@
 
 |*n*<sup>th</sup> copy|                                        Maindeck Card                                         |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
 |--------------------:|----------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
-|                    2|[Snow-Covered Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121256) |                    1|[Void Snare](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383429)         |
-|                    2|[Snow-Covered Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121130)|                    1|[Pithing Needle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129526)     |
+|                    2|[Snow-Covered Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121256) |                    1|[Pithing Needle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129526)     |
+|                    2|[Snow-Covered Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121130)|                    1|[Void Snare](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383429)         |
 |                     |                                                                                              |                    2|[Void Snare](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383429)         |
 |                     |                                                                                              |                    2|[Pithing Needle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129526)     |
 |                     |                                                                                              |                    1|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|

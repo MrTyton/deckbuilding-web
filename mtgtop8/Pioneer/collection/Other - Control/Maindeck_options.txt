@@ -164,8 +164,8 @@
 4 Hallowed Fountain
 1 Goblin Rabblemaster
 2 Goblin Rabblemaster
-1 Rootbound Crag
 1 Stomping Ground
+1 Rootbound Crag
 2 Stomping Ground
 2 Rootbound Crag
 3 Assassin's Trophy
@@ -188,8 +188,8 @@
 1 Glimmer of Genius
 1 Hour of Devastation
 1 Ritual of Soot
-1 Liliana, Dreadhorde General
 1 Aether Hub
+1 Liliana, Dreadhorde General
 2 Glimmer of Genius
 2 Ritual of Soot
 2 Aether Hub
@@ -211,18 +211,6 @@
 3 Arboreal Grazer
 4 Hinterland Harbor
 4 Arboreal Grazer
-1 Tyrant's Scorn
-1 Erebos's Intervention
-2 Thassa's Intervention
-2 Tyrant's Scorn
-4 Jace, Vryn's Prodigy
-1 Ob Nixilis Reignited
-1 Chandra, Acolyte of Flame
-1 Anger of the Gods
-2 Angrath's Rampage
-2 Anger of the Gods
-3 Goblin Dark-Dwellers
-4 Goblin Dark-Dwellers
 2 Plains
 3 Plains
 4 Plains
@@ -242,9 +230,9 @@
 1 Strategic Planning
 1 Irrigated Farmland
 2 Ipnu Rivulet
+2 Angel of Invention
 2 Refurbish
 2 God-Pharaoh's Gift
-2 Angel of Invention
 2 Reflector Mage
 2 Charming Prince
 2 Agent of Treachery
@@ -266,6 +254,11 @@
 4 God-Pharaoh's Gift
 4 Glacial Fortress
 4 Champion of Wits
+1 Tyrant's Scorn
+1 Erebos's Intervention
+2 Thassa's Intervention
+2 Tyrant's Scorn
+4 Jace, Vryn's Prodigy
 1 Temple of Malady
 1 Pulse of Murasa
 1 Lovestruck Beast
@@ -311,22 +304,29 @@
 2 Ramunap Ruins
 3 Kroxa, Titan of Death's Hunger
 3 Ramunap Ruins
-4 Ramunap Ruins
 4 Kroxa, Titan of Death's Hunger
+4 Ramunap Ruins
 1 Liliana, Death's Majesty
+1 Supreme Will
 1 Silumgar's Command
-1 Ravenous Chupacabra
 1 Hostage Taker
 1 Jace, Architect of Thought
 1 Fae of Wishes
 1 Fires of Invention
-1 Supreme Will
+1 Ravenous Chupacabra
 1 Drawn from Dreams
 2 Fires of Invention
 2 Fae of Wishes
 3 The Scarab God
 3 Fires of Invention
 4 Fires of Invention
+1 Ob Nixilis Reignited
+1 Anger of the Gods
+1 Chandra, Acolyte of Flame
+2 Angrath's Rampage
+2 Anger of the Gods
+3 Goblin Dark-Dwellers
+4 Goblin Dark-Dwellers
 1 Temple of Silence
 1 Isolated Chapel
 1 Ashiok, Dream Render
@@ -367,8 +367,8 @@
 2 Cast Down
 3 Torrential Gearhulk
 3 Field of Ruin
-4 Dig Through Time
 4 Field of Ruin
+4 Dig Through Time
 5 Island
 1 Sign in Blood
 1 Duress
@@ -388,9 +388,9 @@
 1 Nissa, Who Shakes the World
 1 Grisly Salvage
 1 Hangarback Walker
-2 Nissa, Vastwood Seer
 2 Nissa, Who Shakes the World
 2 Grisly Salvage
+2 Nissa, Vastwood Seer
 2 Tireless Tracker
 2 Hangarback Walker
 3 Grisly Salvage

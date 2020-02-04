@@ -27,8 +27,19 @@
 
 # Other Options
 
-|*n*<sup>th</sup> copy|                                          Maindeck Card                                           |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
-|--------------------:|--------------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
-|                    2|[Narset, Parter of Veils](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460988)|                    1|[Flusterstorm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=228255)       |
-|                    3|[Mishra's Bauble](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=122122)        |                    1|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|
+|*n*<sup>th</sup> copy|                                          Maindeck Card                                           |*n*<sup>th</sup> copy|                                           Sideboard Card                                           |
+|--------------------:|--------------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------------|
+|                    3|[Mishra's Bauble](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=122122)        |                    1|[Flusterstorm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=228255)             |
+|                    2|[Narset, Parter of Veils](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460988)|                    1|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)      |
+|                    1|[Arid Mesa](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405092)              |                    1|[Monastery Mentor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391883)         |
+|                    1|[Cavern of Souls](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278058)        |                    1|[Fragmentize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417587)              |
+|                    1|[Tundra](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=885)                    |                    1|[Mindbreak Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197532)           |
+|                    1|[Plateau](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=880)                   |                    1|[Grand Arbiter Augustin IV](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107329)|
+|                    1|[Grand Abolisher](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389538)        |                    1|[Wear/Tear](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=368950)                |
+|                    2|[Grand Abolisher](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389538)        |                    2|[Monastery Mentor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391883)         |
+|                    2|[Cavern of Souls](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278058)        |                    2|[Fragmentize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417587)              |
+|                    3|[Grand Abolisher](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389538)        |                    3|[Chain of Vapor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420701)           |
+|                    3|[Cavern of Souls](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278058)        |                    4|[Chain of Vapor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420701)           |
+|                    4|[Cavern of Souls](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278058)        |                    2|[Wear/Tear](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=368950)                |
+|                    4|[Grand Abolisher](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389538)        |                     |                                                                                                    |
 

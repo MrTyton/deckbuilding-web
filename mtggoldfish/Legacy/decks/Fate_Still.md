@@ -30,6 +30,6 @@
 |---------------------|-------------|--------------------:|---------------------------------------------------------------------------------------------|
 |                     |             |                    1|[Back to Basics](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456642)    |
 |                     |             |                    1|[Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)    |
-|                     |             |                    2|[Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)    |
 |                     |             |                    3|[Agent of Treachery](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466797)|
+|                     |             |                    2|[Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)    |
 

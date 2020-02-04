@@ -1,26 +1,26 @@
+1 Knight of the Reliquary
+1 Noble Hierarch
 1 Savannah
 1 Dryad Arbor
 1 Windswept Heath
-1 Knight of the Reliquary
 1 Tireless Tracker
 1 Questing Beast
 1 Scavenging Ooze
 1 Gaea's Cradle
 1 Green Sun's Zenith
-1 Horizon Canopy
+2 Knight of the Reliquary
 2 Noble Hierarch
 2 Savannah
-2 Knight of the Reliquary
 2 Green Sun's Zenith
 2 Windswept Heath
 3 Noble Hierarch
+3 Knight of the Reliquary
 3 Windswept Heath
 3 Green Sun's Zenith
-3 Knight of the Reliquary
+4 Knight of the Reliquary
 4 Windswept Heath
 4 Noble Hierarch
 4 Swords to Plowshares
-4 Knight of the Reliquary
 4 Green Sun's Zenith
 1 Baleful Strix
 2 Baleful Strix
@@ -60,14 +60,14 @@
 3 Goblin Engineer
 3 Goblin Welder
 4 Goblin Engineer
-1 Taiga
 1 Wooded Foothills
-1 Grove of the Burnwillows
-1 Punishing Fire
 1 Snow-Covered Forest
 1 Volcanic Island
 1 Gilded Goose
+1 Grove of the Burnwillows
 1 Abrade
+1 Taiga
+1 Punishing Fire
 1 Dack Fayden
 1 Bayou
 1 Sword of Sinew and Steel
@@ -79,18 +79,18 @@
 1 Wurmcoil Engine
 1 Liquimetal Coating
 2 Taiga
-2 Grove of the Burnwillows
-2 Punishing Fire
 2 Wooded Foothills
 2 Gilded Goose
+2 Grove of the Burnwillows
+2 Punishing Fire
 2 Reclamation Sage
 2 Embereth Shieldbreaker
 2 Liquimetal Coating
 2 Abrade
 2 Dack Fayden
 2 Tin Street Hooligan
-3 Grove of the Burnwillows
 3 Wooded Foothills
+3 Grove of the Burnwillows
 3 Tin Street Hooligan
 3 Dack Fayden
 3 Liquimetal Coating
@@ -125,6 +125,7 @@
 1 Ramunap Excavator
 1 Birds of Paradise
 1 Thalia, Guardian of Thraben
+1 Scryb Ranger
 1 Stoneforge Mystic
 1 Batterskull
 1 Umezawa's Jitte
@@ -132,16 +133,15 @@
 1 Qasali Pridemage
 1 Sword of Fire and Ice
 1 Maze of Ith
-1 Scryb Ranger
 2 Verdant Catacombs
 2 Thalia, Guardian of Thraben
 2 Stoneforge Mystic
 2 Forest
 3 Verdant Catacombs
-3 Giver of Runes
+3 Savannah
 3 Thalia, Guardian of Thraben
 3 Stoneforge Mystic
-3 Savannah
+3 Giver of Runes
 4 Giver of Runes
 1 Snow-Covered Swamp
 1 Preordain
@@ -274,8 +274,8 @@
 1 Ichor Wellspring
 1 Karn, the Great Creator
 1 Grindstone
-2 Mountain
 2 Simian Spirit Guide
+2 Mountain
 2 Red Elemental Blast
 2 Blood Moon
 2 City of Traitors
@@ -285,8 +285,8 @@
 2 Grindstone
 2 Karn, the Great Creator
 2 Painter's Servant
-3 Mountain
 3 Simian Spirit Guide
+3 Mountain
 3 Great Furnace
 3 Pyroblast
 3 Ancient Tomb
@@ -295,8 +295,8 @@
 3 City of Traitors
 3 Grindstone
 3 Blood Moon
-4 Mountain
 4 Simian Spirit Guide
+4 Mountain
 4 Pyroblast
 4 Karn, the Great Creator
 4 Ancient Tomb

@@ -39,8 +39,6 @@
 1 Klothys, God of Destiny
 1 Back to Nature
 2 Klothys, God of Destiny
-1 Rending Volley
-2 Rending Volley
 1 Anger of the Gods
 1 Carnage Tyrant
 2 Anger of the Gods
@@ -54,6 +52,8 @@
 1 Rhythm of the Wild
 2 Collision / Colossus
 2 Rhythm of the Wild
+1 Rending Volley
+2 Rending Volley
 1 Lifecrafter's Bestiary
 2 Pithing Needle
 2 Lifecrafter's Bestiary
@@ -63,17 +63,9 @@
 1 Claim the Firstborn
 1 Eidolon of the Great Revel
 2 Goblin Chainwhirler
-2 Eidolon of the Great Revel
 2 Claim the Firstborn
+2 Eidolon of the Great Revel
 3 Eidolon of the Great Revel
-1 Vine Mare
-1 Oath of Chandra
-1 Questing Beast
-2 Oath of Chandra
-2 Vine Mare
-2 Questing Beast
-3 Questing Beast
-3 Oath of Chandra
 1 Goblin Rabblemaster
 1 Forest
 2 Goblin Rabblemaster
@@ -104,5 +96,13 @@
 3 Bonecrusher Giant
 4 Heroic Intervention
 3 Grafdigger's Cage
-4 Grafdigger's Cage
 4 Lava Coil
+4 Grafdigger's Cage
+1 Vine Mare
+1 Oath of Chandra
+1 Questing Beast
+2 Oath of Chandra
+2 Vine Mare
+2 Questing Beast
+3 Questing Beast
+3 Oath of Chandra
