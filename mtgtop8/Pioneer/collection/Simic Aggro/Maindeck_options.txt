@@ -53,28 +53,12 @@
 2 Yorvo, Lord of Garenbrig
 2 Ghalta, Primal Hunger
 3 Ghalta, Primal Hunger
-1 Abrupt Decay
-1 Overgrown Tomb
-1 Blooming Marsh
-1 Woodland Cemetery
-1 Vraska, Golgari Queen
-1 Tireless Tracker
-2 Overgrown Tomb
-2 Abrupt Decay
-2 Blooming Marsh
-2 Vraska, Golgari Queen
-2 Tireless Tracker
-2 Woodland Cemetery
-3 Overgrown Tomb
-3 Abrupt Decay
-3 Blooming Marsh
-4 Overgrown Tomb
 1 Collected Company
 2 Collected Company
 3 Collected Company
 3 Scavenging Ooze
-4 Collected Company
 4 Brazen Borrower
+4 Collected Company
 1 Risen Reef
 1 Agent of Treachery
 1 Nexus of Fate
@@ -86,6 +70,22 @@
 3 Risen Reef
 3 Leafkin Druid
 4 Risen Reef
+1 Abrupt Decay
+1 Overgrown Tomb
+1 Blooming Marsh
+1 Woodland Cemetery
+1 Vraska, Golgari Queen
+1 Tireless Tracker
+2 Overgrown Tomb
+2 Blooming Marsh
+2 Abrupt Decay
+2 Vraska, Golgari Queen
+2 Tireless Tracker
+2 Woodland Cemetery
+3 Blooming Marsh
+3 Overgrown Tomb
+3 Abrupt Decay
+4 Overgrown Tomb
 1 Fabled Passage
 1 Traverse the Ulvenwald
 1 Sea Gate Wreckage
@@ -94,8 +94,8 @@
 1 Shrine of the Forsaken Gods
 1 Growth Spiral
 1 Ugin, the Spirit Dragon
-1 World Breaker
 1 Ishkanah, Grafwidow
+1 World Breaker
 1 Spring / Mind
 2 Shrine of the Forsaken Gods
 2 Traverse the Ulvenwald
@@ -109,10 +109,10 @@
 3 Traverse the Ulvenwald
 3 Arboreal Grazer
 3 Growth Spiral
-4 Walking Ballista
 4 Traverse the Ulvenwald
 4 Arboreal Grazer
 4 Fabled Passage
+4 Walking Ballista
 4 Growth Spiral
 1 Voyaging Satyr
 1 Kiora, Master of the Depths

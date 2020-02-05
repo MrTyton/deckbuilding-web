@@ -1,10 +1,12 @@
-4 Bedlam Reveler
 1 Kiln Fiend
 2 Kiln Fiend
-3 Fiery Islet
-1 Risk Factor
-3 Kiln Fiend
 3 Sunbaked Canyon
+3 Fiery Islet
+1 Forked Bolt
+2 Forked Bolt
+4 Burst Lightning
+3 Kiln Fiend
+1 Snow-Covered Mountain
 1 Searing Blaze
 1 Bloodstained Mire
 1 Eidolon of the Great Revel
@@ -34,9 +36,7 @@
 4 Rift Bolt
 1 Arid Mesa
 2 Arid Mesa
-1 Forked Bolt
-2 Forked Bolt
-1 Snow-Covered Mountain
+3 Forked Bolt
 4 Sunbaked Canyon
 1 Inspiring Vantage
 1 Lightning Helix
@@ -52,7 +52,7 @@
 4 Searing Blaze
 3 Bloodstained Mire
 4 Bloodstained Mire
-3 Forked Bolt
+1 Risk Factor
 4 Runaway Steam-Kin
 1 Mishra's Bauble
 2 Mishra's Bauble
@@ -65,9 +65,15 @@
 1 Grim Lavamancer
 3 Sacred Foundry
 4 Sacred Foundry
+2 Snow-Covered Mountain
+3 Snow-Covered Mountain
+1 Gut Shot
+2 Gut Shot
 1 Stomping Ground
 1 Mutagenic Growth
 2 Mutagenic Growth
+1 Blistercoil Weird
+1 Reckless Charge
 1 Wild Slash
 2 Wild Slash
 2 Skullcrack
@@ -89,13 +95,11 @@
 4 Copperline Gorge
 4 Wild Nacatl
 4 Atarka's Command
-1 Gut Shot
 1 Nivmagus Elemental
 1 Ground Rift
 1 Grapeshot
 1 Desperate Ritual
 2 Grapeshot
-2 Gut Shot
 2 Nivmagus Elemental
 2 Ground Rift
 2 Desperate Ritual
@@ -110,8 +114,6 @@
 16 Mountain
 17 Mountain
 18 Mountain
-2 Snow-Covered Mountain
-3 Snow-Covered Mountain
 4 Snow-Covered Mountain
 5 Snow-Covered Mountain
 6 Snow-Covered Mountain
