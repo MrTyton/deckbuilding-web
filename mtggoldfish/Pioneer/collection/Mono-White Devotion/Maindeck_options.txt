@@ -1,5 +1,3 @@
-2 Charming Prince
-2 Benalish Marshal
 3 Benalish Marshal
 1 Fortified Village
 1 Temple Garden
@@ -21,22 +19,27 @@
 4 Temple Garden
 4 Militia Bugler
 4 Sunpetal Grove
-3 Charming Prince
-2 Alseid of Life's Bounty
 3 Idyllic Grange
-3 Daxos, Blessed by the Sun
-3 Anafenza, Kin-Tree Spirit
+3 Charming Prince
+1 Alseid of Life's Bounty
 1 Elspeth Conquers Death
+3 Castle Ardenvale
 2 Elspeth Conquers Death
-3 Gideon, Ally of Zendikar
 4 Stasis Snare
-1 Quarantine Field
-3 Alseid of Life's Bounty
+2 Alseid of Life's Bounty
+3 Gideon, Ally of Zendikar
+3 Daxos, Blessed by the Sun
 2 Tomik, Distinguished Advokist
+3 Anafenza, Kin-Tree Spirit
+1 Quarantine Field
 2 Selfless Spirit
-1 Gideon Blackblade
+3 Alseid of Life's Bounty
+1 Gideon of the Trials
+1 Elspeth, Sun's Nemesis
 4 Benalish Marshal
-1 Elspeth, Sun's Champion
+1 Gideon Blackblade
+2 Gideon of the Trials
+4 Idyllic Grange
 4 Alseid of Life's Bounty
 1 Legion's Landing
 2 Legion's Landing
@@ -52,29 +55,25 @@
 3 Leonin Vanguard
 4 Ajani's Pridemate
 4 Healer's Hawk
-1 Elspeth, Sun's Nemesis
-3 Selfless Spirit
-4 Idyllic Grange
+1 Elspeth, Sun's Champion
 1 Archangel Avacyn
 1 Boros Reckoner
 2 Archangel Avacyn
 2 Boros Reckoner
 3 Boros Reckoner
 19 Plains
-1 Gideon of the Trials
+1 Baffling End
+2 Baffling End
 4 Leonin Vanguard
-2 Quarantine Field
-2 Gideon of the Trials
+3 Selfless Spirit
 4 Legion's Landing
 1 Linden, the Steadfast Queen
 2 Gideon Blackblade
-1 Baffling End
-2 Baffling End
-1 Heliod, God of the Sun
-4 Selfless Spirit
 3 Archangel Avacyn
 4 Gideon, Ally of Zendikar
 4 Boros Reckoner
+2 Quarantine Field
+4 Nykthos, Shrine to Nyx
 2 Linden, the Steadfast Queen
 1 Ajani, Strength of the Pride
 1 Banishing Light
@@ -84,7 +83,9 @@
 3 Linden, the Steadfast Queen
 2 Ajani, Strength of the Pride
 3 Ajani, Strength of the Pride
-4 Nykthos, Shrine to Nyx
+4 Selfless Spirit
+1 Mastery of the Unseen
+1 Heliod, God of the Sun
 4 Daxos, Blessed by the Sun
 1 Isolated Chapel
 1 Godless Shrine
@@ -119,7 +120,6 @@
 2 Valorous Stance
 3 Valorous Stance
 4 Archangel Avacyn
-1 Mastery of the Unseen
 2 Mastery of the Unseen
 3 Mastery of the Unseen
 4 Mastery of the Unseen
@@ -127,8 +127,8 @@
 2 Hallowed Fountain
 3 Hallowed Fountain
 4 Hallowed Fountain
-1 Cavalier of Dawn
 1 Temple of Silence
+1 Cavalier of Dawn
 1 Thoughtseize
 1 Concealed Courtyard
 2 Temple of Silence

@@ -41,9 +41,9 @@
 3 Island
 4 Island
 1 Hieroglyphic Illumination
+1 Fetid Pools
 1 Negate
 1 Disallow
-1 Fetid Pools
 1 Narset, Parter of Veils
 2 Castle Vantress
 2 Disallow
@@ -102,13 +102,13 @@
 3 Traverse the Ulvenwald
 4 Traverse the Ulvenwald
 3 Courser of Kruphix
-1 Growth Spiral
 1 Uro, Titan of Nature's Wrath
+1 Growth Spiral
 1 Breeding Pool
 1 Yavimaya Coast
+1 Grapple with the Past
 1 Cavalier of Thorns
 1 Satyr Wayfinder
-1 Grapple with the Past
 1 Arboreal Grazer
 1 Ugin, the Spirit Dragon
 1 Castle Garenbrig
@@ -208,6 +208,7 @@
 1 Charming Prince
 1 Ipnu Rivulet
 1 Deputy of Detention
+1 Chart a Course
 1 Castle Ardenvale
 1 God-Pharaoh's Gift
 1 Refurbish
@@ -216,30 +217,29 @@
 1 Agent of Treachery
 1 Reflector Mage
 1 Supreme Verdict
-1 Chart a Course
 1 Irrigated Farmland
 1 Strategic Planning
 2 Ipnu Rivulet
+2 Chart a Course
 2 Angel of Invention
 2 Refurbish
 2 God-Pharaoh's Gift
 2 Reflector Mage
 2 Charming Prince
+2 Deputy of Detention
 2 Agent of Treachery
 2 Strategic Planning
 2 Supreme Verdict
-2 Chart a Course
 2 Irrigated Farmland
 2 Glacial Fortress
-2 Deputy of Detention
 3 Reflector Mage
 3 Glacial Fortress
+3 Chart a Course
 3 Angel of Invention
 3 God-Pharaoh's Gift
 3 Refurbish
 3 Strategic Planning
 3 Supreme Verdict
-3 Chart a Course
 4 Refurbish
 4 God-Pharaoh's Gift
 4 Glacial Fortress
@@ -249,21 +249,6 @@
 2 Thassa's Intervention
 2 Tyrant's Scorn
 4 Jace, Vryn's Prodigy
-1 Vraska, Golgari Queen
-1 Nissa, Who Shakes the World
-1 Grisly Salvage
-1 Hangarback Walker
-2 Nissa, Who Shakes the World
-2 Grisly Salvage
-2 Nissa, Vastwood Seer
-2 Tireless Tracker
-2 Hangarback Walker
-3 Grisly Salvage
-3 Abrupt Decay
-3 Tireless Tracker
-4 Grisly Salvage
-4 Overgrown Tomb
-4 Abrupt Decay
 1 Gilded Goose
 1 Chord of Calling
 1 Radiant Fountain
@@ -307,6 +292,21 @@
 4 Walking Ballista
 4 Collected Company
 4 Heliod, Sun-Crowned
+1 Vraska, Golgari Queen
+1 Nissa, Who Shakes the World
+1 Grisly Salvage
+1 Hangarback Walker
+2 Grisly Salvage
+2 Nissa, Who Shakes the World
+2 Nissa, Vastwood Seer
+2 Tireless Tracker
+2 Hangarback Walker
+3 Grisly Salvage
+3 Abrupt Decay
+3 Tireless Tracker
+4 Grisly Salvage
+4 Overgrown Tomb
+4 Abrupt Decay
 1 Temple of Malady
 1 Seasons Past
 1 Dark Petition
@@ -315,13 +315,13 @@
 1 Lovestruck Beast
 1 Woodland Cemetery
 1 Scavenging Ooze
+2 Temple of Malady
 2 Dark Petition
 2 Hissing Quagmire
-2 Temple of Malady
 2 Lovestruck Beast
 3 Hissing Quagmire
-3 Dark Petition
 3 Temple of Malady
+3 Dark Petition
 3 Lovestruck Beast
 4 Temple of Malady
 4 Lovestruck Beast
@@ -347,13 +347,13 @@
 4 Kroxa, Titan of Death's Hunger
 4 Ramunap Ruins
 1 Liliana, Death's Majesty
+1 Ravenous Chupacabra
 1 Supreme Will
 1 Fires of Invention
 1 Silumgar's Command
 1 Hostage Taker
 1 Jace, Architect of Thought
 1 Fae of Wishes
-1 Ravenous Chupacabra
 1 Drawn from Dreams
 2 Fires of Invention
 2 Fae of Wishes

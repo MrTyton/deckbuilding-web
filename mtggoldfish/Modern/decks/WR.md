@@ -24,3 +24,17 @@
 |2 [Eidolon of Rhetoric](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=380409)   |                                                                                        |                                                                                             |
 |4 [Hushbringer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472980)           |                                                                                        |                                                                                             |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                        Maindeck Card                                         |*n*<sup>th</sup> copy|                                           Sideboard Card                                            |
+|--------------------:|----------------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------------------|
+|                    8|[Snow-Covered Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121267)|                    1|[Phyrexian Revoker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383343)         |
+|                     |                                                                                              |                    1|[Lightning Greaves](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220528)         |
+|                     |                                                                                              |                    1|[Goblin Cratermaker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452853)        |
+|                     |                                                                                              |                    1|[Magus of the Moat](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=136148)         |
+|                     |                                                                                              |                    1|[Linvala, Keeper of Silence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425838)|
+|                     |                                                                                              |                    2|[Phyrexian Revoker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383343)         |
+|                     |                                                                                              |                    2|[Goblin Cratermaker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452853)        |
+|                     |                                                                                              |                    2|[Magus of the Moat](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=136148)         |
+

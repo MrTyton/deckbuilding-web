@@ -1,20 +1,69 @@
-4 Verdant Catacombs
 1 Steam Vents
+1 Lightning Bolt
 1 Breeding Pool
-1 Sacred Foundry
-1 Temple Garden
-1 Windswept Heath
-2 Windswept Heath
-3 Windswept Heath
+1 Blood Crypt
+1 Abrupt Decay
+1 Wrenn and Six
+1 Snow-Covered Island
+1 Misty Rainforest
+1 Oko, Thief of Crowns
+1 Waterlogged Grove
+1 Creeping Tar Pit
+1 Dead of Winter
+1 Assassin's Trophy
+1 Spell Pierce
+1 Drown in the Loch
+1 Ice-Fang Coatl
+1 Search for Azcanta
+1 Thoughtseize
+1 Fatal Push
+1 Watery Grave
+1 Cryptic Command
+1 Scalding Tarn
+1 Jace, the Mind Sculptor
+1 Field of Ruin
+1 Polluted Delta
+1 Spell Snare
+1 Snapcaster Mage
+1 Force of Negation
+2 Abrupt Decay
+2 Wrenn and Six
+2 Polluted Delta
+2 Misty Rainforest
+2 Oko, Thief of Crowns
+2 Snow-Covered Island
+2 Ice-Fang Coatl
+2 Cryptic Command
+2 Snapcaster Mage
+2 Thoughtseize
+2 Drown in the Loch
+2 Force of Negation
+2 Fatal Push
+3 Polluted Delta
+3 Oko, Thief of Crowns
+3 Snow-Covered Island
+3 Misty Rainforest
+3 Ice-Fang Coatl
+3 Snapcaster Mage
+3 Thoughtseize
+3 Cryptic Command
+4 Arcum's Astrolabe
+4 Snow-Covered Island
+5 Snow-Covered Island
+1 Forest
 1 Lightning Helix
 1 Steppe Lynx
 1 Arid Mesa
 1 Noble Hierarch
 1 Wild Nacatl
+1 Bloodbraid Elf
 1 Tribal Flames
+1 Stomping Ground
 1 Ghor-Clan Rampager
 1 Geist of Saint Traft
+1 Wooded Foothills
 1 Hallowed Fountain
+1 Tarmogoyf
 1 Plains
 2 Geist of Saint Traft
 2 Arid Mesa
@@ -22,10 +71,12 @@
 2 Steppe Lynx
 2 Noble Hierarch
 2 Lightning Helix
-2 Tribal Flames
 2 Wild Nacatl
+2 Tribal Flames
+2 Bloodbraid Elf
 2 Ghor-Clan Rampager
 2 Wooded Foothills
+2 Tarmogoyf
 3 Lightning Helix
 3 Lightning Bolt
 3 Steppe Lynx
@@ -34,7 +85,9 @@
 3 Wooded Foothills
 3 Tribal Flames
 3 Wild Nacatl
+3 Bloodbraid Elf
 3 Ghor-Clan Rampager
+3 Tarmogoyf
 4 Lightning Helix
 4 Lightning Bolt
 4 Steppe Lynx
@@ -42,92 +95,8 @@
 4 Wooded Foothills
 4 Tribal Flames
 4 Wild Nacatl
+4 Bloodbraid Elf
+4 Tarmogoyf
+4 Geist of Saint Traft
 4 Ghor-Clan Rampager
 4 Windswept Heath
-4 Geist of Saint Traft
-1 Snow-Covered Forest
-1 Snow-Covered Mountain
-1 Arcum's Astrolabe
-1 Snow-Covered Swamp
-2 Arcum's Astrolabe
-3 Arcum's Astrolabe
-1 Abrupt Decay
-1 Ice-Fang Coatl
-1 Snow-Covered Island
-1 Creeping Tar Pit
-1 Misty Rainforest
-1 Waterlogged Grove
-1 Dead of Winter
-1 Spell Pierce
-1 Drown in the Loch
-1 Search for Azcanta
-1 Spell Snare
-1 Cryptic Command
-1 Scalding Tarn
-1 Jace, the Mind Sculptor
-1 Field of Ruin
-1 Polluted Delta
-1 Force of Negation
-1 Snapcaster Mage
-2 Abrupt Decay
-2 Ice-Fang Coatl
-2 Polluted Delta
-2 Misty Rainforest
-2 Cryptic Command
-2 Snow-Covered Island
-2 Snapcaster Mage
-2 Drown in the Loch
-2 Force of Negation
-3 Polluted Delta
-3 Ice-Fang Coatl
-3 Misty Rainforest
-3 Snapcaster Mage
-3 Cryptic Command
-3 Snow-Covered Island
-4 Snow-Covered Island
-4 Arcum's Astrolabe
-5 Snow-Covered Island
-1 Giver of Runes
-1 Snow-Covered Plains
-1 Prismatic Vista
-1 Charming Prince
-1 Eternal Witness
-1 Dire Fleet Daredevil
-1 Tidehollow Sculler
-1 Wall of Omens
-1 Flickerwisp
-1 Aether Vial
-1 Godless Shrine
-1 Collected Company
-1 Marsh Flats
-1 Ephemerate
-1 Wasteland Strangler
-2 Giver of Runes
-2 Prismatic Vista
-2 Snow-Covered Plains
-2 Eternal Witness
-2 Dire Fleet Daredevil
-2 Flickerwisp
-2 Tidehollow Sculler
-2 Marsh Flats
-2 Ephemerate
-2 Charming Prince
-2 Temple Garden
-2 Aether Vial
-2 Wasteland Strangler
-2 Wall of Omens
-2 Collected Company
-3 Charming Prince
-3 Giver of Runes
-3 Dire Fleet Daredevil
-3 Prismatic Vista
-3 Eternal Witness
-3 Wasteland Strangler
-3 Tidehollow Sculler
-3 Flickerwisp
-3 Aether Vial
-4 Flickerwisp
-4 Aether Vial
-4 Dire Fleet Daredevil
-4 Tidehollow Sculler
-4 Wasteland Strangler

@@ -1,33 +1,14 @@
-1 Walking Ballista
-1 Daxos, Blessed by the Sun
-2 Heliod, Sun-Crowned
-2 Walking Ballista
 2 Nykthos, Shrine to Nyx
 2 Daxos, Blessed by the Sun
 3 Heliod, Sun-Crowned
 3 Walking Ballista
 4 Heliod, Sun-Crowned
 4 Walking Ballista
-1 Mardu Woe-Reaper
-2 Mardu Woe-Reaper
-3 Mardu Woe-Reaper
-4 Mardu Woe-Reaper
-1 Venerated Loxodon
-2 Venerated Loxodon
-1 Soldier of the Pantheon
-2 Soldier of the Pantheon
-3 Soldier of the Pantheon
-4 Soldier of the Pantheon
-1 Venerable Knight
-2 Venerable Knight
-3 Venerable Knight
-4 Venerable Knight
-1 Gideon, Ally of Zendikar
-2 Gideon, Ally of Zendikar
-3 Gideon, Ally of Zendikar
 3 Nykthos, Shrine to Nyx
 1 Anafenza, Kin-Tree Spirit
 2 Anafenza, Kin-Tree Spirit
+1 Gideon, Ally of Zendikar
+2 Gideon, Ally of Zendikar
 1 Idyllic Grange
 1 Stasis Snare
 1 Arcanist's Owl
@@ -35,7 +16,28 @@
 2 Arcanist's Owl
 3 Arcanist's Owl
 4 Arcanist's Owl
+3 Declaration in Stone
+4 Declaration in Stone
+1 Giant Killer
+2 Giant Killer
+1 Mardu Woe-Reaper
+2 Mardu Woe-Reaper
+3 Mardu Woe-Reaper
+4 Mardu Woe-Reaper
+3 Gideon, Ally of Zendikar
+1 Venerable Knight
+2 Venerable Knight
+3 Venerable Knight
+4 Venerable Knight
+1 Soldier of the Pantheon
+2 Soldier of the Pantheon
+3 Soldier of the Pantheon
+4 Soldier of the Pantheon
+1 Venerated Loxodon
+2 Venerated Loxodon
+2 Idyllic Grange
 3 Castle Ardenvale
+1 Elspeth Conquers Death
 3 Stasis Snare
 1 Worthy Knight
 1 The Circle of Loyalty
@@ -50,7 +52,7 @@
 4 Worthy Knight
 4 Acclaimed Contender
 4 History of Benalia
-2 Idyllic Grange
+3 Idyllic Grange
 1 Tomik, Distinguished Advokist
 1 Mutavault
 1 Charming Prince
@@ -64,8 +66,8 @@
 2 Temple Garden
 2 Collected Company
 2 Fortified Village
-2 Militia Bugler
 2 Charming Prince
+2 Militia Bugler
 2 Sunpetal Grove
 3 Temple Garden
 3 Collected Company
@@ -78,17 +80,21 @@
 4 Militia Bugler
 4 Sunpetal Grove
 4 Fortified Village
-1 Elspeth Conquers Death
 2 Elspeth Conquers Death
 4 Stasis Snare
+1 Baffling End
+1 Gideon of the Trials
+1 Mastery of the Unseen
+2 Baffling End
+2 Gideon of the Trials
+4 Nykthos, Shrine to Nyx
+1 Gideon Blackblade
 1 Spear of Heliod
 2 Mutavault
 3 Mutavault
-3 Idyllic Grange
+3 Daxos, Blessed by the Sun
 3 Shefet Dunes
 4 Shefet Dunes
-1 Gideon Blackblade
-3 Daxos, Blessed by the Sun
 3 Giant Killer
 1 Always Watching
 2 Always Watching
@@ -110,14 +116,9 @@
 2 Alseid of Life's Bounty
 3 Anafenza, Kin-Tree Spirit
 3 Alseid of Life's Bounty
-1 Baffling End
-1 Gideon of the Trials
-1 Mastery of the Unseen
-2 Baffling End
+4 Idyllic Grange
 2 Mastery of the Unseen
-2 Gideon of the Trials
 3 Mastery of the Unseen
-4 Nykthos, Shrine to Nyx
 4 Mastery of the Unseen
 1 Stoneforge Masterwork
 4 Mutavault

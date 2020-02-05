@@ -1,45 +1,45 @@
-1 Mountain
-1 Blood Crypt
 2 Blood Crypt
 3 Blood Crypt
 4 Blood Crypt
+2 Mountain
+1 Bonecrusher Giant
+2 Bonecrusher Giant
+3 Bonecrusher Giant
+3 Mountain
+4 Mountain
+4 Bonecrusher Giant
 1 Wild Slash
 2 Wild Slash
 1 Mutavault
 2 Mutavault
 3 Wild Slash
-2 Mountain
 1 Rekindling Phoenix
 1 Soul-Scar Mage
 1 Glorybringer
 1 Goblin Chainwhirler
-1 Bonecrusher Giant
 1 Chandra, Torch of Defiance
 1 Dragonskull Summit
 2 Rekindling Phoenix
 2 Soul-Scar Mage
 2 Glorybringer
 2 Goblin Chainwhirler
-2 Bonecrusher Giant
 2 Chandra, Torch of Defiance
 2 Dragonskull Summit
 3 Glorybringer
 3 Goblin Chainwhirler
 3 Soul-Scar Mage
-3 Bonecrusher Giant
 3 Dragonskull Summit
-3 Mountain
 4 Soul-Scar Mage
 4 Goblin Chainwhirler
-4 Mountain
 4 Dragonskull Summit
-4 Bonecrusher Giant
 5 Mountain
 6 Mountain
 7 Mountain
 1 Woodland Cemetery
 2 Driven / Despair
 3 Driven / Despair
+1 Decimator of the Provinces
+2 Decimator of the Provinces
 4 Haunted Dead
 1 Heart of Kiran
 1 Abrade
@@ -108,55 +108,60 @@
 4 Shrapnel Blast
 4 Ensoul Artifact
 1 Castle Embereth
+1 Collected Company
+1 Llanowar Elves
+1 Elvish Mystic
+2 Collected Company
+2 Llanowar Elves
+2 Elvish Mystic
+3 Collected Company
+4 Collected Company
+1 Lovestruck Beast
+2 Lovestruck Beast
+3 Lovestruck Beast
+3 Elvish Mystic
 1 Hallowed Fountain
 1 Reflector Mage
-2 Reflector Mage
 2 Hallowed Fountain
+2 Reflector Mage
+3 Llanowar Elves
 1 Forest
 3 Reflector Mage
 1 Sunpetal Grove
-1 Collected Company
 1 Voice of Resurgence
 1 Breeding Pool
 1 Spell Queller
-1 Llanowar Elves
-1 Elvish Mystic
 1 Temple Garden
 2 Temple Garden
 2 Voice of Resurgence
-2 Collected Company
 2 Breeding Pool
-2 Llanowar Elves
 2 Spell Queller
-2 Elvish Mystic
 3 Breeding Pool
 3 Temple Garden
-3 Collected Company
 3 Spell Queller
 4 Temple Garden
-4 Collected Company
 4 Spell Queller
 3 Hallowed Fountain
+4 Reflector Mage
 1 Teferi, Time Raveler
 1 Gilded Goose
-4 Reflector Mage
 2 Forest
 1 Deputy of Detention
+1 Scavenging Ooze
+4 Llanowar Elves
 3 Voice of Resurgence
-3 Llanowar Elves
 4 Voice of Resurgence
-1 Lovestruck Beast
 2 Sunpetal Grove
-2 Lovestruck Beast
 3 Sunpetal Grove
-3 Lovestruck Beast
-3 Elvish Mystic
 4 Breeding Pool
+1 Rhonas the Indomitable
+4 Lovestruck Beast
+4 Elvish Mystic
 1 Hinterland Harbor
 2 Hinterland Harbor
 4 Hallowed Fountain
-2 Island
 1 Plains
+2 Island
 1 Glacial Fortress
 2 Glacial Fortress
 1 Charming Prince
@@ -175,6 +180,11 @@
 3 Thraben Inspector
 4 Thraben Inspector
 2 Gilded Goose
+1 Stomping Ground
+2 Stomping Ground
+1 Fatal Push
+2 Fatal Push
+3 Fatal Push
 1 Ashiok, Dream Render
 4 Gurmag Angler
 1 Metallic Rebuke
@@ -188,51 +198,31 @@
 2 The Royal Scions
 3 Steam Vents
 4 Spire of Industry
-1 Fatal Push
-2 Fatal Push
-3 Fatal Push
-1 Mana Confluence
-1 Murderous Rider
-4 Fatal Push
-1 Caves of Koilos
-2 Caves of Koilos
-3 Caves of Koilos
-4 Caves of Koilos
-1 Urborg, Tomb of Yawgmoth
-1 Ifnir Deadlands
-1 Ravenous Chupacabra
-1 Shambling Vent
-1 Brain Maggot
-1 Wasteland Strangler
-1 Ultimate Price
-1 Lyra Dawnbringer
-1 Liliana, the Last Hope
-1 Silkwrap
-1 Fairgrounds Warden
-1 Thoughtseize
-1 Thought-Knot Seer
-1 Baffling End
-1 Shefet Dunes
-2 Brain Maggot
-2 Wasteland Strangler
-2 Shambling Vent
-2 Ultimate Price
-2 Fairgrounds Warden
-2 Lyra Dawnbringer
-2 Thought-Knot Seer
-2 Ravenous Chupacabra
-2 Thoughtseize
-2 Liliana, the Last Hope
-2 Ifnir Deadlands
-2 Shefet Dunes
-3 Mutavault
-3 Brain Maggot
-3 Wasteland Strangler
-3 Thought-Knot Seer
-4 Wasteland Strangler
-4 Brain Maggot
-4 Mutavault
-4 Thought-Knot Seer
+1 Uro, Titan of Nature's Wrath
+1 Tireless Tracker
+2 Uro, Titan of Nature's Wrath
+2 Scavenging Ooze
+2 Tireless Tracker
+3 Tireless Tracker
+4 Botanical Sanctum
+4 Tireless Tracker
+1 Brazen Borrower
+2 Brazen Borrower
+1 Steel Leaf Champion
+1 Duskwatch Recruiter
+1 Yorvo, Lord of Garenbrig
+1 Prowling Serpopard
+1 Harbinger of the Tides
+1 Rishkar, Peema Renegade
+2 Steel Leaf Champion
+2 Duskwatch Recruiter
+2 Harbinger of the Tides
+3 Steel Leaf Champion
+3 Hinterland Harbor
+3 Harbinger of the Tides
+4 Sunpetal Grove
+4 Steel Leaf Champion
+4 Hinterland Harbor
 1 Lightning Strike
 1 Ramunap Ruins
 1 Torbran, Thane of Red Fell
@@ -252,26 +242,48 @@
 3 Goblin Rabblemaster
 4 Ramunap Ruins
 4 Goblin Rabblemaster
-1 Brazen Borrower
-2 Brazen Borrower
-1 Steel Leaf Champion
-1 Duskwatch Recruiter
-1 Yorvo, Lord of Garenbrig
-1 Prowling Serpopard
-1 Harbinger of the Tides
-1 Rishkar, Peema Renegade
-1 Rhonas the Indomitable
-2 Steel Leaf Champion
-2 Duskwatch Recruiter
-2 Harbinger of the Tides
-3 Steel Leaf Champion
-3 Hinterland Harbor
-3 Harbinger of the Tides
-4 Sunpetal Grove
-4 Steel Leaf Champion
-4 Hinterland Harbor
-4 Lovestruck Beast
-4 Elvish Mystic
+1 Mana Confluence
+1 Murderous Rider
+4 Fatal Push
+1 Caves of Koilos
+2 Caves of Koilos
+3 Caves of Koilos
+4 Caves of Koilos
+1 Ifnir Deadlands
+1 Urborg, Tomb of Yawgmoth
+1 Shambling Vent
+1 Ravenous Chupacabra
+1 Wasteland Strangler
+1 Brain Maggot
+1 Ultimate Price
+1 Lyra Dawnbringer
+1 Liliana, the Last Hope
+1 Silkwrap
+1 Fairgrounds Warden
+1 Thoughtseize
+1 Thought-Knot Seer
+1 Baffling End
+1 Shefet Dunes
+2 Ifnir Deadlands
+2 Wasteland Strangler
+2 Brain Maggot
+2 Shambling Vent
+2 Ultimate Price
+2 Fairgrounds Warden
+2 Lyra Dawnbringer
+2 Thought-Knot Seer
+2 Ravenous Chupacabra
+2 Thoughtseize
+2 Liliana, the Last Hope
+2 Shefet Dunes
+3 Mutavault
+3 Wasteland Strangler
+3 Brain Maggot
+3 Thought-Knot Seer
+4 Brain Maggot
+4 Mutavault
+4 Thought-Knot Seer
+4 Wasteland Strangler
 1 Westvale Abbey
 2 Charming Prince
 3 Charming Prince
@@ -314,11 +326,9 @@
 1 Cauldron Familiar
 1 Trail of Crumbs
 1 Fabled Passage
-1 Stomping Ground
 1 Witch's Oven
 2 Vraska, Golgari Queen
 2 Assassin's Trophy
-2 Stomping Ground
 2 Murderous Rider
 2 Mayhem Devil
 2 Witch's Oven
@@ -359,6 +369,23 @@
 3 Neoform
 4 Risen Reef
 4 Neoform
+1 Rotting Regisaur
+1 Collision / Colossus
+1 The Great Henge
+1 Gruul Spellbreaker
+1 Combat Celebrant
+2 Rhonas the Indomitable
+2 Rotting Regisaur
+2 Collision / Colossus
+2 Gruul Spellbreaker
+2 Combat Celebrant
+2 The Great Henge
+3 The Great Henge
+3 Rhonas the Indomitable
+3 Rotting Regisaur
+3 Stomping Ground
+4 Rotting Regisaur
+4 Stomping Ground
 2 Plains
 3 Plains
 4 Plains
@@ -367,9 +394,9 @@
 1 Alseid of Life's Bounty
 1 Aphemia, the Cacophony
 1 Favored Hoplite
-1 Sram, Senior Edificer
 1 Hateful Eidolon
 1 Gryff's Boon
+1 Sram, Senior Edificer
 1 Ethereal Armor
 1 Karametra's Blessing
 1 All That Glitters
@@ -391,11 +418,11 @@
 3 Sentinel's Eyes
 3 Gryff's Boon
 3 Hateful Eidolon
-3 All That Glitters
 3 Cartouche of Solidarity
 3 Sram, Senior Edificer
 3 Ethereal Armor
 3 Karametra's Blessing
+3 All That Glitters
 4 Sentinel's Eyes
 4 Cartouche of Solidarity
 4 Sram, Senior Edificer
@@ -404,16 +431,6 @@
 4 Alseid of Life's Bounty
 4 Ethereal Armor
 4 All That Glitters
-1 Uro, Titan of Nature's Wrath
-1 Scavenging Ooze
-1 Tireless Tracker
-2 Uro, Titan of Nature's Wrath
-2 Scavenging Ooze
-2 Tireless Tracker
-3 Tireless Tracker
-4 Botanical Sanctum
-4 Tireless Tracker
-4 Llanowar Elves
 1 Corpse Knight
 1 Wayward Servant
 1 Isolated Chapel
@@ -447,10 +464,10 @@
 3 Rally the Ancestors
 3 Swamp
 3 Lazotep Reaver
+4 Temple of Silence
 4 Isolated Chapel
 4 Wayward Servant
 4 Corpse Knight
-4 Temple of Silence
 4 Cryptbreaker
 4 Swamp
 4 Rally the Ancestors
@@ -506,23 +523,23 @@
 2 Leyline of Anticipation
 2 Nykthos, Shrine to Nyx
 2 Omen of the Sea
-2 Thassa's Oracle
 2 Agent of Treachery
+2 Thassa's Oracle
 2 Gadwick, the Wizened
 2 Ashiok's Erasure
 2 Thassa, Deep-Dwelling
 2 Thassa, God of the Sea
 3 Witching Well
 3 Leyline of Anticipation
-3 Thassa's Oracle
 3 Gadwick, the Wizened
 3 Nykthos, Shrine to Nyx
 3 Omen of the Sea
+3 Thassa's Oracle
 3 Ashiok's Erasure
+4 Nykthos, Shrine to Nyx
 4 Leyline of Anticipation
 4 Witching Well
 4 Omen of the Sea
-4 Nykthos, Shrine to Nyx
 4 Gadwick, the Wizened
 4 Thassa's Oracle
 4 Ashiok's Erasure

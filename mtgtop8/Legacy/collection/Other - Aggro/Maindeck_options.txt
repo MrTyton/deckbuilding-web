@@ -63,12 +63,12 @@
 1 Wooded Foothills
 1 Snow-Covered Forest
 1 Volcanic Island
-1 Gilded Goose
-1 Grove of the Burnwillows
-1 Abrade
-1 Taiga
-1 Punishing Fire
 1 Dack Fayden
+1 Grove of the Burnwillows
+1 Punishing Fire
+1 Gilded Goose
+1 Taiga
+1 Abrade
 1 Bayou
 1 Sword of Sinew and Steel
 1 Tin Street Hooligan
@@ -80,19 +80,19 @@
 1 Liquimetal Coating
 2 Taiga
 2 Wooded Foothills
-2 Gilded Goose
-2 Grove of the Burnwillows
+2 Dack Fayden
 2 Punishing Fire
+2 Grove of the Burnwillows
+2 Gilded Goose
 2 Reclamation Sage
 2 Embereth Shieldbreaker
 2 Liquimetal Coating
 2 Abrade
-2 Dack Fayden
 2 Tin Street Hooligan
+3 Dack Fayden
 3 Wooded Foothills
 3 Grove of the Burnwillows
 3 Tin Street Hooligan
-3 Dack Fayden
 3 Liquimetal Coating
 4 Wooded Foothills
 4 Liquimetal Coating
@@ -204,17 +204,17 @@
 1 Lingering Souls
 1 Mishra's Bauble
 1 Cabal Therapy
-2 Cabal Therapy
 2 Bonecrusher Giant
 2 Arid Mesa
 2 Hymn to Tourach
 2 Plateau
-2 Bedlam Reveler
 2 Young Pyromancer
+2 Bedlam Reveler
 2 Lightning Bolt
 2 Lingering Souls
 2 Liliana, the Last Hope
 2 Mishra's Bauble
+2 Cabal Therapy
 2 Badlands
 3 Cabal Therapy
 3 Badlands

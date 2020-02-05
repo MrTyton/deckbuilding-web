@@ -1,6 +1,7 @@
 4 Searing Blood
 4 Light Up the Stage
 1 Chandra, Torch of Defiance
+1 Plains
 1 Kari Zev, Skyship Raider
 2 Kari Zev, Skyship Raider
 3 Kari Zev, Skyship Raider
@@ -8,7 +9,6 @@
 2 Abbot of Keral Keep
 3 Abbot of Keral Keep
 4 Abbot of Keral Keep
-1 Plains
 2 Plains
 3 Plains
 2 Chandra, Torch of Defiance
@@ -40,8 +40,11 @@
 3 Viashino Pyromancer
 3 Eidolon of the Great Revel
 4 Skewer the Critics
-4 Viashino Pyromancer
 4 Eidolon of the Great Revel
+4 Viashino Pyromancer
+3 Chandra, Torch of Defiance
+4 Kari Zev, Skyship Raider
+4 Chandra, Torch of Defiance
 1 Gideon of the Trials
 2 Gideon of the Trials
 2 Gideon, Ally of Zendikar
@@ -76,8 +79,8 @@
 3 Fabled Passage
 3 Chained to the Rocks
 3 Deafening Clarion
-3 Temple of Triumph
 3 Anger of the Gods
+3 Temple of Triumph
 3 Needle Spires
 3 Haktos the Unscarred
 4 Temple of Triumph
@@ -94,8 +97,8 @@
 1 Walking Ballista
 2 Heliod, Sun-Crowned
 2 Daxos, Blessed by the Sun
-2 Anafenza, Kin-Tree Spirit
 2 Tomik, Distinguished Advokist
+2 Anafenza, Kin-Tree Spirit
 2 Tajic, Legion's Edge
 2 Walking Ballista
 3 Daxos, Blessed by the Sun
@@ -107,17 +110,50 @@
 4 Walking Ballista
 4 Heliod, Sun-Crowned
 4 Zurgo Bellstriker
-1 Runaway Steam-Kin
 1 Crash Through
+1 Runaway Steam-Kin
 2 Runaway Steam-Kin
 2 Crash Through
 3 Runaway Steam-Kin
 3 Crash Through
 4 Runaway Steam-Kin
 4 Crash Through
-3 Chandra, Torch of Defiance
-4 Kari Zev, Skyship Raider
-4 Chandra, Torch of Defiance
+1 Dreadhorde Arcanist
+1 Samut's Sprint
+1 Clifftop Retreat
+1 Temur Battle Rage
+1 Favored Hoplite
+1 Infuriate
+1 Titan's Strength
+1 Gird for Battle
+1 Gods Willing
+1 Tenth District Legionnaire
+1 Satyr Hoplite
+2 Dreadhorde Arcanist
+2 Samut's Sprint
+2 Gods Willing
+2 Satyr Hoplite
+2 Favored Hoplite
+2 Infuriate
+2 Titan's Strength
+2 Tenth District Legionnaire
+2 Gird for Battle
+2 Temur Battle Rage
+2 Clifftop Retreat
+3 Samut's Sprint
+3 Gods Willing
+3 Titan's Strength
+3 Tenth District Legionnaire
+3 Satyr Hoplite
+3 Favored Hoplite
+3 Gird for Battle
+4 Samut's Sprint
+4 Titan's Strength
+4 Satyr Hoplite
+4 Tenth District Legionnaire
+4 Gird for Battle
+4 Gods Willing
+4 Favored Hoplite
 1 Brimaz, King of Oreskos
 1 Thalia, Heretic Cathar
 1 Heart of Kiran
@@ -151,10 +187,10 @@
 2 Thalia's Lieutenant
 2 Brave the Elements
 2 Soldier of the Pantheon
+2 Declaration in Stone
 2 Benalish Marshal
 2 Knight of the White Orchid
 2 Dauntless Bodyguard
-2 Declaration in Stone
 3 Thraben Inspector
 3 Tithe Taker
 3 Declaration in Stone
@@ -168,10 +204,10 @@
 4 Thraben Inspector
 4 Knight of the White Orchid
 4 Benalish Marshal
-4 Dauntless Bodyguard
 4 Soldier of the Pantheon
 4 Declaration in Stone
 4 Thalia's Lieutenant
+4 Dauntless Bodyguard
 4 Brave the Elements
 9 Plains
 3 Ghitu Lavarunner

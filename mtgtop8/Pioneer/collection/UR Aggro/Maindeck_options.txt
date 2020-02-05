@@ -1,14 +1,13 @@
 4 Spire of Industry
 3 Wild Slash
+1 Aethersphere Harvester
 1 Mountain
 4 Steam Vents
-1 Aethersphere Harvester
 1 Hazoret the Fervent
 1 Lightning Strike
 2 Shadowspear
 1 Hangarback Walker
 2 Hangarback Walker
-4 Wild Slash
 1 The Royal Scions
 1 Steel Overseer
 2 Steel Overseer
@@ -24,7 +23,6 @@
 2 Mountain
 3 Mountain
 1 Champion of Wits
-1 Elder Deep-Fiend
 1 Sanctum of Ugin
 1 Flamewake Phoenix
 1 Lightning Axe
@@ -32,11 +30,11 @@
 1 Bonecrusher Giant
 1 Kozilek's Return
 1 Rekindling Phoenix
+1 Elder Deep-Fiend
 1 Wandering Fumarole
 1 Izzet Charm
 2 Rekindling Phoenix
 2 Sanctum of Ugin
-2 Elder Deep-Fiend
 2 Flamewake Phoenix
 2 Brazen Borrower
 2 Lightning Axe
@@ -44,26 +42,30 @@
 2 Bonecrusher Giant
 2 Kozilek's Return
 2 Sulfur Falls
+2 Elder Deep-Fiend
 2 Wandering Fumarole
 3 Rekindling Phoenix
-3 Elder Deep-Fiend
 3 Kozilek's Return
 3 Brazen Borrower
 3 Flamewake Phoenix
 3 Bonecrusher Giant
-4 Elder Deep-Fiend
+3 Elder Deep-Fiend
+4 Bonecrusher Giant
 4 Brazen Borrower
 4 Flamewake Phoenix
-4 Bonecrusher Giant
+4 Elder Deep-Fiend
+4 Wild Slash
 1 Shock
 2 Shock
 4 Mountain
 5 Mountain
+1 Mizzium Skin
+2 Mizzium Skin
+1 Temur Battle Rage
+2 Temur Battle Rage
 1 Essence Scatter
 2 Essence Scatter
 2 Aethersphere Harvester
-1 Temur Battle Rage
-2 Temur Battle Rage
 1 Metallic Rebuke
 2 Metallic Rebuke
 3 Metallic Rebuke
@@ -84,8 +86,8 @@
 4 Chart a Course
 1 Light Up the Stage
 1 Wizard's Lightning
-1 Crash Through
 1 Soul-Scar Mage
+1 Crash Through
 1 Monastery Swiftspear
 1 Dreadhorde Arcanist
 1 Opt

@@ -38,8 +38,8 @@
 1 Mobilized District
 1 Zhalfirin Void
 1 Heart of Kiran
-1 Karn, Scion of Urza
 1 Mutavault
+1 Karn, Scion of Urza
 1 Sea Gate Wreckage
 1 Darksteel Citadel
 1 Stonecoil Serpent
@@ -52,10 +52,10 @@
 1 Foundry of the Consuls
 1 Karn, the Great Creator
 2 Wastes
+2 Mutavault
 2 Stonecoil Serpent
 2 Mobilized District
 2 Zhalfirin Void
-2 Mutavault
 2 Karn, Scion of Urza
 2 Ratchet Bomb
 2 Spatial Contortion
@@ -86,8 +86,8 @@
 4 Karn, Scion of Urza
 1 Hallowed Fountain
 1 Teferi, Time Raveler
-2 Teferi, Time Raveler
 2 Hallowed Fountain
+2 Teferi, Time Raveler
 3 Hallowed Fountain
 3 Teferi, Time Raveler
 4 Hallowed Fountain
@@ -108,10 +108,10 @@
 2 Urborg, Tomb of Yawgmoth
 2 Terrarion
 2 Mox Amber
+2 Temple Garden
 2 Emry, Lurker of the Loch
 2 Mana Confluence
 2 Once Upon a Time
-2 Temple Garden
 2 Lazav, the Multifarious
 2 Oko, Thief of Crowns
 2 Blooming Marsh
@@ -120,8 +120,8 @@
 2 Oath of Nissa
 3 Mox Amber
 3 Emry, Lurker of the Loch
-3 Mana Confluence
 3 Lazav, the Multifarious
+3 Mana Confluence
 3 Once Upon a Time
 3 Diligent Excavator
 3 Oath of Nissa
@@ -180,9 +180,9 @@
 2 Myth Realized
 2 Opt
 2 Port Town
+3 Port Town
 3 Azorius Charm
 3 Supreme Verdict
-3 Port Town
 3 Glacial Fortress
 3 Plains
 3 Myth Realized
@@ -201,10 +201,10 @@
 1 Possibility Storm
 1 Enter the Infinite
 1 Borborygmos Enraged
-1 Lovestruck Beast
-1 Bonecrusher Giant
-1 Captain Lannery Storm
 1 Glorybringer
+1 Lovestruck Beast
+1 Captain Lannery Storm
+1 Bonecrusher Giant
 1 Elvish Mystic
 1 Llanowar Elves
 1 Questing Beast
@@ -213,41 +213,41 @@
 1 Game Trail
 2 Possibility Storm
 2 Kiora, Behemoth Beckoner
-2 Bonecrusher Giant
-2 Lovestruck Beast
 2 Glorybringer
-2 Elvish Mystic
-2 Llanowar Elves
 2 Domri Rade
+2 Lovestruck Beast
 2 Rosethorn Acolyte
 2 Captain Lannery Storm
+2 Elvish Mystic
+2 Bonecrusher Giant
+2 Llanowar Elves
 2 Mountain
 2 Game Trail
 3 Possibility Storm
 3 Kiora, Behemoth Beckoner
-3 Bonecrusher Giant
 3 Glorybringer
+3 Llanowar Elves
 3 Elvish Mystic
 3 Lovestruck Beast
-3 Llanowar Elves
+3 Bonecrusher Giant
 3 Rootbound Crag
 3 Mountain
-4 Bonecrusher Giant
 4 Possibility Storm
 4 Elvish Mystic
 4 Llanowar Elves
 4 Lovestruck Beast
+4 Bonecrusher Giant
 4 Rootbound Crag
 5 Forest
 6 Forest
 7 Forest
 1 Drowned Catacomb
-1 Drown in the Loch
 1 Sunken Hollow
 1 Dictate of Kruphix
 1 Fabled Passage
 1 Unsummon
 1 Notion Thief
+1 Drown in the Loch
 1 Cyclonic Rift
 1 Unsubstantiate
 1 Brazen Borrower
@@ -260,8 +260,8 @@
 1 Watery Grave
 1 Dakra Mystic
 2 Drowned Catacomb
-2 Cyclonic Rift
 2 Brazen Borrower
+2 Cyclonic Rift
 2 Dictate of Kruphix
 2 Fabled Passage
 2 Engulf the Shore
