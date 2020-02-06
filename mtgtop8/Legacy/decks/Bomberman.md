@@ -39,6 +39,6 @@
 |                    1|[Karn, Scion of Urza](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442889)|                    2|[Cast Out](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426710)            |
 |                    1|[Lodestone Bauble](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3048)     |                    3|[Ensnaring Bridge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=15866)     |
 |                    2|[Karn, Scion of Urza](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442889)|                    1|[Defense Grid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45481)         |
-|                    3|[Karn, Scion of Urza](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442889)|                    1|[Wurmcoil Engine](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389756)     |
-|                    2|[Lodestone Bauble](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3048)     |                    3|[Containment Priest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389470)  |
+|                    2|[Lodestone Bauble](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3048)     |                    1|[Wurmcoil Engine](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389756)     |
+|                    3|[Karn, Scion of Urza](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442889)|                    3|[Containment Priest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389470)  |
 

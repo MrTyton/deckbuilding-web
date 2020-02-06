@@ -31,18 +31,18 @@
 
 |*n*<sup>th</sup> copy|    Maindeck Card    |*n*<sup>th</sup> copy|                                      Sideboard Card                                       |
 |--------------------:|---------------------|--------------------:|-------------------------------------------------------------------------------------------|
-|                    3|Archon of Sun's Grace|                    1|[Kaya's Wrath](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457331)    |
+|                    3|Archon of Sun's Grace|                    1|[Devout Decree](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466767)   |
+|                     |                     |                    1|[Kaya's Wrath](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457331)    |
 |                     |                     |                    1|[Cavalier of Dawn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466764)|
 |                     |                     |                    1|Agonizing Remorse                                                                          |
 |                     |                     |                    1|[Final Payment](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457315)   |
 |                     |                     |                    1|Elspeth Conquers Death                                                                     |
 |                     |                     |                    1|[Dawn of Hope](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452758)    |
 |                     |                     |                    1|Kunoros, Hound of Athreos                                                                  |
-|                     |                     |                    1|[Devout Decree](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466767)   |
+|                     |                     |                    2|[Devout Decree](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466767)   |
 |                     |                     |                    2|[Dawn of Hope](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452758)    |
 |                     |                     |                    2|Agonizing Remorse                                                                          |
 |                     |                     |                    2|Kunoros, Hound of Athreos                                                                  |
-|                     |                     |                    2|[Devout Decree](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466767)   |
 |                     |                     |                    2|[Kaya's Wrath](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457331)    |
 |                     |                     |                    3|Agonizing Remorse                                                                          |
 

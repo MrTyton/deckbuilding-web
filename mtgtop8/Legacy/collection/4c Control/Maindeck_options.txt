@@ -1,8 +1,6 @@
+1 Baleful Strix
+1 Abrupt Decay
 2 Baleful Strix
-1 Drown in the Loch
-2 Drown in the Loch
-3 Snapcaster Mage
-1 Bayou
 2 Abrupt Decay
 3 Baleful Strix
 4 Baleful Strix
@@ -10,13 +8,14 @@
 3 Terminus
 4 Misty Rainforest
 4 Snow-Covered Island
+3 Snapcaster Mage
+1 Bayou
+1 Hymn to Tourach
+1 Scrubland
+2 Hymn to Tourach
 1 Inquisition of Kozilek
 2 Inquisition of Kozilek
 3 Inquisition of Kozilek
-1 Hymn to Tourach
-2 Hymn to Tourach
-2 Underground Sea
-1 Scrubland
 2 Tundra
 1 Prismatic Vista
 2 Prismatic Vista
@@ -24,26 +23,19 @@
 2 Mystic Sanctuary
 1 Spell Pierce
 4 Ice-Fang Coatl
-1 Kolaghan's Command
-3 Hymn to Tourach
-1 Scalding Tarn
+2 Underground Sea
 1 Forest
 1 Island
-1 Lightning Bolt
-1 Fatal Push
-1 Verdant Catacombs
-1 Badlands
-1 Assassin's Trophy
 1 Counterspell
 1 Pyroblast
+1 Scalding Tarn
 1 Sevinne's Reclamation
-1 Leovold, Emissary of Trest
-1 Bloodstained Mire
-1 Thoughtseize
-2 Leovold, Emissary of Trest
-2 Fatal Push
-2 Thoughtseize
-2 Verdant Catacombs
+1 Flusterstorm
+1 Plains
+2 Island
+2 Entreat the Angels
+3 Island
+4 Island
 1 Spell Snare
 1 Snow-Covered Mountain
 1 Monastery Mentor
@@ -51,15 +43,20 @@
 2 Monastery Mentor
 3 Prismatic Vista
 4 Prismatic Vista
+1 Uro, Titan of Nature's Wrath
 1 Punishing Fire
 1 Grove of the Burnwillows
 1 Toxic Deluge
-1 Dack Fayden
+1 Lightning Bolt
+1 Fatal Push
 1 Brazen Borrower
 1 Cling to Dust
 1 Swamp
-1 Uro, Titan of Nature's Wrath
+1 Dack Fayden
+1 Verdant Catacombs
+1 Badlands
 1 Plague Engineer
+1 Assassin's Trophy
 2 Tropical Island
 2 Grove of the Burnwillows
 2 Punishing Fire
@@ -72,9 +69,5 @@
 3 Assassin's Trophy
 3 Dack Fayden
 4 Assassin's Trophy
-1 Flusterstorm
-1 Plains
-2 Island
-2 Entreat the Angels
-4 Island
-3 Island
+1 Kolaghan's Command
+3 Hymn to Tourach

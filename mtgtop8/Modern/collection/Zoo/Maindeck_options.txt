@@ -1,54 +1,23 @@
-1 Steppe Lynx
-1 Knight of the Reliquary
-2 Steppe Lynx
-2 Renegade Rallier
-2 Plated Geopede
-2 Path to Exile
-2 Knight of the Reliquary
-3 Path to Exile
-3 Steppe Lynx
-3 Renegade Rallier
-3 Knight of the Reliquary
-3 Plated Geopede
-4 Steppe Lynx
-4 Renegade Rallier
-1 Bloodbraid Elf
-1 Hexdrinker
-2 Bloodbraid Elf
-2 Horizon Canopy
-2 Hexdrinker
-3 Bloodbraid Elf
-4 Bloodbraid Elf
+1 Burning-Tree Emissary
+1 Goblin Guide
+1 Reckless Bushwhacker
 1 Devastating Summons
-1 Scavenging Ooze
+2 Burning-Tree Emissary
+2 Goblin Guide
+2 Reckless Bushwhacker
+3 Burning-Tree Emissary
+3 Goblin Guide
+3 Reckless Bushwhacker
+4 Burning-Tree Emissary
+4 Reckless Bushwhacker
+4 Goblin Guide
 1 Monastery Swiftspear
 2 Monastery Swiftspear
 3 Monastery Swiftspear
 4 Monastery Swiftspear
-1 Grim Lavamancer
-1 Dismember
-1 Light Up the Stage
-2 Grim Lavamancer
-2 Dismember
-2 Light Up the Stage
-3 Dismember
-3 Light Up the Stage
-3 Stomping Ground
-4 Dismember
-4 Light Up the Stage
 1 Wrenn and Six
 2 Wrenn and Six
 3 Wrenn and Six
-1 Hidden Herbalists
-1 Simian Spirit Guide
-2 Temple Garden
-2 Forest
-2 Simian Spirit Guide
-2 Hidden Herbalists
-3 Hidden Herbalists
-3 Simian Spirit Guide
-4 Hidden Herbalists
-1 Godless Shrine
 1 The Royal Scions
 1 Hallowed Fountain
 1 Dreadhorde Arcanist
@@ -60,6 +29,7 @@
 1 Blood Crypt
 1 Viridescent Wisps
 1 Breeding Pool
+1 Godless Shrine
 1 Ajani, Caller of the Pride
 1 Young Pyromancer
 1 Might of Alara
@@ -91,9 +61,9 @@
 1 Become Immense
 2 Become Immense
 2 Ghor-Clan Rampager
+2 Bloodstained Mire
 2 Hooting Mandrills
 2 Snow-Covered Mountain
-2 Bloodstained Mire
 2 Mishra's Bauble
 2 Street Wraith
 3 Street Wraith
@@ -102,8 +72,8 @@
 3 Hooting Mandrills
 3 Bloodstained Mire
 3 Tarmogoyf
-4 Tarmogoyf
 4 Bloodstained Mire
+4 Tarmogoyf
 4 Mishra's Bauble
 4 Street Wraith
 1 Field of Ruin
@@ -129,10 +99,10 @@
 2 Field of Ruin
 2 Rootbound Crag
 2 Raging Ravine
+2 Mountain
 2 Tireless Tracker
 2 Mirran Crusader
 2 Scavenging Ooze
-2 Mountain
 2 Plains
 2 Noble Hierarch
 3 Hexdrinker
@@ -152,3 +122,22 @@
 4 Path to Exile
 4 Knight of the Reliquary
 4 Searing Blaze
+1 Kird Ape
+1 Hidden Herbalists
+1 Simian Spirit Guide
+1 Narnam Renegade
+2 Kird Ape
+2 Temple Garden
+2 Forest
+2 Narnam Renegade
+2 Simian Spirit Guide
+2 Hidden Herbalists
+3 Atarka's Command
+3 Narnam Renegade
+3 Kird Ape
+3 Hidden Herbalists
+3 Simian Spirit Guide
+4 Atarka's Command
+4 Hidden Herbalists
+4 Narnam Renegade
+4 Kird Ape

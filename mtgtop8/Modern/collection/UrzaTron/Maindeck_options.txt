@@ -11,8 +11,8 @@
 1 Mystic Forge
 1 Surge Node
 1 Paradox Engine
-2 Everflowing Chalice
 2 Blast Zone
+2 Everflowing Chalice
 2 Paradox Engine
 2 Mystic Forge
 2 Surge Node
@@ -24,8 +24,8 @@
 3 Surge Node
 3 Astral Cornucopia
 3 Coretapper
-4 Everflowing Chalice
 4 Chalice of the Void
+4 Everflowing Chalice
 4 Surge Node
 4 Astral Cornucopia
 4 Coretapper
@@ -55,15 +55,15 @@
 1 Field of Ruin
 1 Snapcaster Mage
 1 Remand
-1 Repeal
 1 Cyclonic Rift
 1 Thirst for Knowledge
+1 Repeal
 1 Academy Ruins
-2 Island
 2 Remand
-2 Repeal
+2 Island
 2 Condescend
 2 Thirst for Knowledge
+2 Repeal
 3 Island
 3 Condescend
 3 Thirst for Knowledge
@@ -96,14 +96,14 @@
 1 Ensnaring Bridge
 1 Spine of Ish Sah
 1 Throne of Geth
-2 Ghost Quarter
 2 Ensnaring Bridge
-3 Relic of Progenitus
+2 Ghost Quarter
 1 Swamp
 2 Swamp
 2 Buried Ruin
 3 Blast Zone
 3 Thragtusk
+3 Relic of Progenitus
 1 Snow-Covered Island
 1 Teferi, Time Raveler
 1 Hallowed Fountain
@@ -136,11 +136,11 @@
 2 Gifts Ungiven
 2 Celestial Colonnade
 2 Hallowed Fountain
-3 Celestial Colonnade
 3 Hallowed Fountain
 3 Azorius Signet
 3 Champion of Wits
 3 Path to Exile
+3 Celestial Colonnade
 3 Gifts Ungiven
 4 Azorius Signet
 4 Celestial Colonnade
