@@ -1,13 +1,6 @@
 1 Emrakul, the Promised End
 2 Thragtusk
-4 Oblivion Stone
-1 World Breaker
-1 Relic of Progenitus
-2 Relic of Progenitus
-1 Once Upon a Time
 1 Ugin, the Ineffable
-1 Wastes
-1 Snow-Covered Forest
 1 Chalice of the Void
 2 Chalice of the Void
 3 Chalice of the Void
@@ -15,9 +8,9 @@
 1 Inventors' Fair
 1 Astral Cornucopia
 1 Coretapper
+1 Mystic Forge
 1 Surge Node
 1 Paradox Engine
-1 Mystic Forge
 2 Everflowing Chalice
 2 Blast Zone
 2 Paradox Engine
@@ -36,17 +29,23 @@
 4 Surge Node
 4 Astral Cornucopia
 4 Coretapper
-1 Thought-Knot Seer
+1 Once Upon a Time
+1 Wastes
+1 Snow-Covered Forest
+4 Oblivion Stone
+1 World Breaker
+1 Relic of Progenitus
+2 Relic of Progenitus
 4 Wurmcoil Engine
 1 Sea Gate Wreckage
 3 Ugin, the Ineffable
 4 Mystic Forge
+1 Buried Ruin
 2 Once Upon a Time
 3 Once Upon a Time
+1 Thought-Knot Seer
 2 Thought-Knot Seer
 4 Ugin, the Ineffable
-3 Relic of Progenitus
-1 Buried Ruin
 4 Once Upon a Time
 1 Dismember
 3 Thought-Knot Seer
@@ -54,12 +53,12 @@
 1 Condescend
 1 Tolaria West
 1 Field of Ruin
+1 Snapcaster Mage
 1 Remand
 1 Repeal
 1 Cyclonic Rift
 1 Thirst for Knowledge
 1 Academy Ruins
-1 Snapcaster Mage
 2 Island
 2 Remand
 2 Repeal
@@ -99,6 +98,11 @@
 1 Throne of Geth
 2 Ghost Quarter
 2 Ensnaring Bridge
+3 Relic of Progenitus
+1 Swamp
+2 Swamp
+2 Buried Ruin
+3 Blast Zone
 3 Thragtusk
 1 Snow-Covered Island
 1 Teferi, Time Raveler
@@ -171,10 +175,10 @@
 2 Snow-Covered Island
 2 Arcum's Astrolabe
 2 Mystic Sanctuary
-2 Scalding Tarn
 2 Misty Rainforest
 2 Mishra's Bauble
 2 Polluted Delta
+2 Scalding Tarn
 2 Engineered Explosives
 3 Scalding Tarn
 3 Cryptic Command

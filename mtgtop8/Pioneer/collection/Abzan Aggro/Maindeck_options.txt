@@ -1,44 +1,46 @@
+1 Gideon Blackblade
+1 Warden of the First Tree
+2 Gideon Blackblade
+2 Isolated Chapel
+2 Warden of the First Tree
+3 Sunpetal Grove
+3 Anafenza, the Foremost
 3 Warden of the First Tree
 4 Warden of the First Tree
-2 Forest
-1 Vraska, Golgari Queen
-1 Grim Flayer
-2 Grim Flayer
-3 Grim Flayer
-3 Gideon, Ally of Zendikar
 2 Fabled Passage
 1 Ob Nixilis Reignited
+3 Gideon, Ally of Zendikar
 1 Tireless Tracker
 2 Swamp
-1 Hissing Quagmire
-1 Scavenging Ooze
+1 Shambling Vent
 4 Grim Flayer
-3 Concealed Courtyard
+1 Courser of Kruphix
+2 Courser of Kruphix
 2 Tireless Tracker
 3 Fabled Passage
+3 Concealed Courtyard
 3 Isolated Chapel
 1 Mana Confluence
 1 Rakshasa Deathdealer
 2 Mana Confluence
 2 Rakshasa Deathdealer
 3 Rakshasa Deathdealer
-1 Shambling Vent
+2 Shambling Vent
 1 Satyr Wayfinder
 1 Ishkanah, Grafwidow
 1 Emrakul, the Promised End
-1 Courser of Kruphix
 1 Traverse the Ulvenwald
 2 Traverse the Ulvenwald
 2 Satyr Wayfinder
-2 Courser of Kruphix
 3 Courser of Kruphix
 3 Traverse the Ulvenwald
 3 Satyr Wayfinder
 4 Traverse the Ulvenwald
-2 Shambling Vent
 1 Castle Locthwain
 3 Mana Confluence
 4 Godless Shrine
+1 Voice of Resurgence
+2 Voice of Resurgence
 1 Collected Company
 1 Zulaport Cutthroat
 1 Cartel Aristocrat
@@ -51,7 +53,6 @@
 4 Collected Company
 4 Cartel Aristocrat
 4 Zulaport Cutthroat
-1 Voice of Resurgence
 1 Westvale Abbey
 1 Nantuko Husk
 1 Rally the Ancestors
@@ -60,7 +61,6 @@
 1 Hunted Witness
 1 Cruel Celebrant
 1 Blisterpod
-2 Voice of Resurgence
 2 Rally the Ancestors
 2 Nantuko Husk
 2 Return to the Ranks
@@ -78,11 +78,14 @@
 4 Voice of Resurgence
 4 Cruel Celebrant
 4 Blisterpod
+1 Walking Ballista
+2 Walking Ballista
 4 Concealed Courtyard
 3 Forest
 2 Murderous Rider
 3 Murderous Rider
 3 Abzan Charm
+2 Scavenging Ooze
 1 Urborg, Tomb of Yawgmoth
 3 Abrupt Decay
 4 Abrupt Decay
@@ -92,21 +95,31 @@
 4 Fatal Push
 1 Murderous Cut
 1 Thalia, Heretic Cathar
-1 Walking Ballista
-2 Walking Ballista
 1 Dark Petition
 1 Nissa, Vastwood Seer
 1 Painful Truths
 1 Languish
 1 Seasons Past
-1 Utter End
 1 Sandsteppe Citadel
+1 Utter End
 2 Castle Locthwain
 2 Dark Petition
 2 Nissa, Vastwood Seer
 2 Languish
 2 Sandsteppe Citadel
 3 Languish
+1 Nissa, Voice of Zendikar
+1 Tolsimir, Friend to Wolves
+1 Ifnir Deadlands
+1 Llanowar Elves
+1 Nissa, Vital Force
+1 Elvish Mystic
+2 Hissing Quagmire
+2 Llanowar Elves
+2 Elvish Mystic
+3 Elvish Mystic
+3 Llanowar Elves
+3 Walking Ballista
 1 Smuggler's Copter
 1 Gilded Goose
 1 Witch's Oven
@@ -142,7 +155,6 @@
 2 Deathrite Shaman
 2 Vessel of Nascency
 2 Collective Brutality
-2 Scavenging Ooze
 2 Vraska the Unseen
 3 Vessel of Nascency
 3 Deathrite Shaman
@@ -177,8 +189,8 @@
 2 Xathrid Necromancer
 2 Bloodsoaked Champion
 2 Plaguecrafter
-2 Kytheon, Hero of Akros
 2 Channeler Initiate
+2 Kytheon, Hero of Akros
 2 Dauntless Bodyguard
 3 Liliana, Heretical Healer
 3 Thalia's Lieutenant
