@@ -1,53 +1,42 @@
 2 Swamp
 2 Questing Beast
-1 Sylvan Caryatid
-1 Nullhide Ferox
 1 Grisly Salvage
+1 Sylvan Caryatid
 1 Soulflayer
 1 Zetalpa, Primal Dawn
 1 Gather the Pack
+2 Grisly Salvage
 2 Soulflayer
 2 Sylvan Caryatid
 2 Zetalpa, Primal Dawn
-2 Grisly Salvage
 2 Gather the Pack
 2 Lotleth Troll
 3 Murderous Rider
+3 Grisly Salvage
 3 Soulflayer
 3 Zetalpa, Primal Dawn
 3 Gather the Pack
 3 Lotleth Troll
 3 Questing Beast
 3 Sylvan Caryatid
-3 Grisly Salvage
 3 Swamp
+4 Grisly Salvage
 4 Murderous Rider
 4 Sylvan Caryatid
 4 Gather the Pack
 4 Zetalpa, Primal Dawn
-4 Grisly Salvage
 4 Soulflayer
-7 Forest
-2 Rhonas the Indomitable
+1 Vivien, Arkbow Ranger
+2 Vivien, Arkbow Ranger
 1 Urborg, Tomb of Yawgmoth
-3 Vivien, Arkbow Ranger
 1 Temple of Malady
 4 Lotleth Troll
-3 Woodland Cemetery
-2 Rishkar, Peema Renegade
+1 Nullhide Ferox
 4 Hangarback Walker
-4 Nissa, Voice of Zendikar
 2 Hashep Oasis
-4 Voracious Hydra
-1 Gifted Aetherborn
-4 Swamp
-1 Samut, Voice of Dissent
-4 Questing Beast
-2 Nullhide Ferox
-1 Pelt Collector
-2 Pelt Collector
-3 Pelt Collector
 8 Forest
+3 Vivien, Arkbow Ranger
+4 Voracious Hydra
 1 Lovestruck Beast
 2 Lovestruck Beast
 1 Steel Leaf Champion
@@ -59,66 +48,79 @@
 2 Scrapheap Scrounger
 2 Rotting Regisaur
 3 The Great Henge
-3 Scrapheap Scrounger
 3 Rotting Regisaur
+3 Scrapheap Scrounger
 4 Llanowar Elves
 4 Elvish Mystic
 4 Rotting Regisaur
 3 Lovestruck Beast
-1 Heart of Kiran
 1 Ghalta, Primal Hunger
 1 Surrak, the Hunt Caller
-2 Heart of Kiran
 2 Ghalta, Primal Hunger
 2 Surrak, the Hunt Caller
 3 Steel Leaf Champion
-3 Heart of Kiran
 3 Ghalta, Primal Hunger
 3 Surrak, the Hunt Caller
 4 Steel Leaf Champion
 4 Lovestruck Beast
-4 The Great Henge
 4 Scrapheap Scrounger
 9 Forest
-1 Commune with the Gods
+1 Gifted Aetherborn
 2 Gifted Aetherborn
 2 Temple of Malady
-4 Woodland Cemetery
+1 Samut, Voice of Dissent
+2 Nullhide Ferox
+3 Woodland Cemetery
+2 Rishkar, Peema Renegade
+4 Nissa, Voice of Zendikar
+1 Heart of Kiran
+2 Heart of Kiran
+3 Heart of Kiran
+4 The Great Henge
+4 Swamp
+1 Rankle, Master of Pranks
+4 Questing Beast
+1 Grapple with the Past
 1 Vraska, Golgari Queen
-4 Pelt Collector
+1 Pelt Collector
+2 Pelt Collector
+3 Pelt Collector
 4 Stonecoil Serpent
+1 Castle Locthwain
+1 Collective Brutality
+2 Collective Brutality
+1 Commune with the Gods
+4 Woodland Cemetery
+2 Grapple with the Past
+3 Grapple with the Past
+1 Karn's Bastion
+4 Pelt Collector
 1 Experiment One
 2 Experiment One
 3 Experiment One
 4 Experiment One
-1 Collective Brutality
-2 Collective Brutality
-1 Rankle, Master of Pranks
-1 Grapple with the Past
-2 Grapple with the Past
-3 Grapple with the Past
-1 Satyr Wayfinder
-1 Karn's Bastion
 1 Scavenging Ooze
 2 Scavenging Ooze
-1 Castle Locthwain
 1 Fatal Push
 1 Thought-Knot Seer
 2 Thought-Knot Seer
 3 Thought-Knot Seer
 4 Thought-Knot Seer
-1 Vampire of the Dire Moon
+1 Vine Mare
+1 Polukranos, Unchained
 1 Nykthos, Shrine to Nyx
 2 Vraska, Golgari Queen
 2 Commune with the Gods
 1 Avatar of the Resolute
 1 Sea Gate Wreckage
 2 Avatar of the Resolute
-1 Verdurous Gearhulk
-1 Inventors' Fair
-2 Verdurous Gearhulk
+1 Satyr Wayfinder
 2 Satyr Wayfinder
 3 Satyr Wayfinder
+1 Collected Company
+2 Collected Company
+3 Collected Company
+4 Collected Company
 1 Watery Grave
 2 Watery Grave
 3 Watery Grave
@@ -161,9 +163,9 @@
 3 Field of Ruin
 3 Tireless Tracker
 3 Fatal Push
-3 Brain Maggot
 3 Scavenging Ooze
 3 Thoughtseize
+3 Brain Maggot
 3 Wasteland Strangler
 4 Thoughtseize
 4 Fatal Push

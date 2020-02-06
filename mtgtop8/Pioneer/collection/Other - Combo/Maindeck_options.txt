@@ -12,8 +12,8 @@
 1 Temple Garden
 1 Ugin, the Ineffable
 1 Plains
-1 Nahiri, the Harbinger
 1 Spirebluff Canal
+1 Nahiri, the Harbinger
 1 Tireless Tracker
 2 Nahiri, the Harbinger
 3 Breeding Pool
@@ -65,7 +65,6 @@
 2 Fountain of Renewal
 2 Karn, the Great Creator
 3 Blast Zone
-3 Walking Ballista
 3 Stonecoil Serpent
 3 Karn, Scion of Urza
 3 Mutavault
@@ -74,6 +73,7 @@
 3 Wastes
 3 Zhalfirin Void
 3 Fountain of Renewal
+3 Walking Ballista
 3 Scrap Trawler
 3 Warping Wail
 3 Karn, the Great Creator
@@ -86,8 +86,8 @@
 4 Karn, Scion of Urza
 1 Hallowed Fountain
 1 Teferi, Time Raveler
-2 Hallowed Fountain
 2 Teferi, Time Raveler
+2 Hallowed Fountain
 3 Hallowed Fountain
 3 Teferi, Time Raveler
 4 Hallowed Fountain
@@ -110,9 +110,9 @@
 2 Mox Amber
 2 Temple Garden
 2 Emry, Lurker of the Loch
+2 Lazav, the Multifarious
 2 Mana Confluence
 2 Once Upon a Time
-2 Lazav, the Multifarious
 2 Oko, Thief of Crowns
 2 Blooming Marsh
 2 Kethis, the Hidden Hand
@@ -120,8 +120,8 @@
 2 Oath of Nissa
 3 Mox Amber
 3 Emry, Lurker of the Loch
-3 Lazav, the Multifarious
 3 Mana Confluence
+3 Lazav, the Multifarious
 3 Once Upon a Time
 3 Diligent Excavator
 3 Oath of Nissa
@@ -170,9 +170,9 @@
 1 Port Town
 1 Myth Realized
 2 Glacial Fortress
+2 Plains
 2 Teferi, Hero of Dominaria
 2 Azorius Charm
-2 Plains
 2 Blessed Alliance
 2 Supreme Verdict
 2 Dig Through Time
@@ -233,8 +233,8 @@
 3 Rootbound Crag
 3 Mountain
 4 Possibility Storm
-4 Elvish Mystic
 4 Llanowar Elves
+4 Elvish Mystic
 4 Lovestruck Beast
 4 Bonecrusher Giant
 4 Rootbound Crag
@@ -246,6 +246,7 @@
 1 Dictate of Kruphix
 1 Fabled Passage
 1 Unsummon
+1 Fatal Push
 1 Notion Thief
 1 Drown in the Loch
 1 Cyclonic Rift
@@ -256,7 +257,6 @@
 1 Swamp
 1 Engulf the Shore
 1 Wizard's Retort
-1 Fatal Push
 1 Watery Grave
 1 Dakra Mystic
 2 Drowned Catacomb
@@ -264,19 +264,19 @@
 2 Cyclonic Rift
 2 Dictate of Kruphix
 2 Fabled Passage
-2 Engulf the Shore
 2 Fatal Push
+2 Engulf the Shore
 2 Sunken Hollow
 2 Notion Thief
 2 Watery Grave
 2 Dakra Mystic
 2 Spell Pierce
 3 Brazen Borrower
+3 Fatal Push
 3 Dakra Mystic
 3 Sunken Hollow
 3 Watery Grave
 3 Notion Thief
-3 Fatal Push
 4 Watery Grave
 4 Brazen Borrower
 4 Day's Undoing
