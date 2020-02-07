@@ -2,7 +2,7 @@
 
 #### [Export MTGO List](../collection/Rakdos%20Aggro/Rakdos%20Aggro.txt)
 #### [Export Arena List](../collection/Rakdos%20Aggro/Rakdos%20Aggro_arena.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Blacklance%20Paragon%0A4%09Blood%20Crypt%0A4%09Bonecrusher%20Giant%0A1%09Castle%20Locthwain%0A2%09Drill%20Bit%0A4%09Embercleave%0A4%09Fervent%20Champion%0A4%09Gutterbones%0A4%09Knight%20of%20the%20Ebon%20Legion%0A6%09Mountain%0A2%09Murderous%20Rider%0A4%09Rotting%20Regisaur%0A4%09Stormfist%20Crusader%0A9%09Swamp%0A4%09Tournament%20Grounds&deckside=3%09Duress%0A2%09Embereth%20Shieldbreaker%0A4%09Liliana's%20Triumph%0A1%09Massacre%20Girl%0A2%09Murderous%20Rider%0A2%09Noxious%20Grasp)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Blacklance%20Paragon%0A4%09Blood%20Crypt%0A4%09Bonecrusher%20Giant%0A1%09Castle%20Locthwain%0A2%09Drill%20Bit%0A4%09Embercleave%0A4%09Fervent%20Champion%0A4%09Gutterbones%0A4%09Knight%20of%20the%20Ebon%20Legion%0A6%09Mountain%0A2%09Murderous%20Rider%0A4%09Rotting%20Regisaur%0A4%09Stormfist%20Crusader%0A9%09Swamp%0A4%09Tournament%20Grounds&deckside=3%09Duress%0A2%09Epic%20Downfall%0A2%09Legion's%20End%0A2%09Murderous%20Rider%0A4%09Noxious%20Grasp%0A2%09Sorcerous%20Spyglass)
 # Maindeck
 
 |                                      Artifact (4)                                      |                                            Creature (30)                                             |                                           Land (24)                                           |                                     Sorcery (2)                                      |
@@ -19,9 +19,25 @@
 
 # Sideboard
 
-|                                           Creature (5)                                            |                                         Instant (6)                                          |                                   Sorcery (3)                                    |
-|---------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
-|2 [Embereth Shieldbreaker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473084)|4 [Liliana's Triumph](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461025)|3 [Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)|
-|1 [Massacre Girl](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461026)         |2 [Noxious Grasp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466864)    |                                                                                  |
-|2 [Murderous Rider](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473059)       |                                                                                              |                                                                                  |
+|                                         Artifact (2)                                          |                                        Creature (2)                                        |                                       Instant (4)                                        |                                       Sorcery (7)                                        |
+|-----------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
+|2 [Sorcerous Spyglass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435407)|2 [Murderous Rider](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473059)|4 [Noxious Grasp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466864)|3 [Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)        |
+|                                                                                               |                                                                                            |                                                                                          |2 [Epic Downfall](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473047)|
+|                                                                                               |                                                                                            |                                                                                          |2 [Legion's End](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466860) |
+
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                       Maindeck Card                                       |*n*<sup>th</sup> copy|                                         Sideboard Card                                          |
+|--------------------:|-------------------------------------------------------------------------------------------|--------------------:|-------------------------------------------------------------------------------------------------|
+|                    1|[Spawn of Mayhem](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457229) |                    1|[Embereth Shieldbreaker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473084)|
+|                    2|[Spawn of Mayhem](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457229) |                    1|[Massacre Girl](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461026)         |
+|                    2|[Castle Locthwain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473203)|                    1|[Liliana's Triumph](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461025)     |
+|                    3|[Drill Bit](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457217)       |                    2|[Liliana's Triumph](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461025)     |
+|                    3|[Spawn of Mayhem](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457229) |                    2|[Embereth Shieldbreaker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473084)|
+|                    4|[Drill Bit](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457217)       |                    3|[Liliana's Triumph](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461025)     |
+|                    4|[Spawn of Mayhem](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457229) |                    4|[Liliana's Triumph](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461025)     |
+|                    8|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)        |                     |                                                                                                 |
+|                    9|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)        |                     |                                                                                                 |
+|                    7|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)        |                     |                                                                                                 |
 

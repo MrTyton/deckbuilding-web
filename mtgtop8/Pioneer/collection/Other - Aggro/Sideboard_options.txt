@@ -109,13 +109,6 @@
 2 Languish
 2 Noxious Grasp
 3 Blightbeetle
-1 Damping Sphere
-1 Driven / Despair
-2 Damping Sphere
-3 Damping Sphere
-1 Mystic Repeal
-2 Mystic Repeal
-3 Mystic Repeal
 1 Dive Down
 1 Wild Slash
 1 Roast
@@ -123,6 +116,13 @@
 2 Hangarback Walker
 2 Roast
 3 Aethersphere Harvester
+1 Damping Sphere
+1 Driven / Despair
+2 Damping Sphere
+3 Damping Sphere
+1 Mystic Repeal
+2 Mystic Repeal
+3 Mystic Repeal
 1 Deputy of Detention
 1 Tireless Tracker
 1 Phyrexian Revoker
@@ -148,19 +148,6 @@
 3 Spell Queller
 3 Rest in Peace
 4 Spell Queller
-1 Selfless Spirit
-1 Lyra Dawnbringer
-1 Nyx-Fleece Ram
-1 Thrashing Brontodon
-1 Fleecemane Lion
-1 Witchstalker
-2 Selfless Spirit
-2 Nyx-Fleece Ram
-2 Fleecemane Lion
-2 Witchstalker
-3 Nyx-Fleece Ram
-3 Fleecemane Lion
-4 Nyx-Fleece Ram
 1 Rotting Regisaur
 1 Despark
 1 Pain Seer
@@ -172,6 +159,19 @@
 3 Rotting Regisaur
 3 Blood Baron of Vizkopa
 4 Rotting Regisaur
+1 Fleecemane Lion
+1 Selfless Spirit
+1 Lyra Dawnbringer
+1 Nyx-Fleece Ram
+1 Thrashing Brontodon
+1 Witchstalker
+2 Fleecemane Lion
+2 Selfless Spirit
+2 Nyx-Fleece Ram
+2 Witchstalker
+3 Fleecemane Lion
+3 Nyx-Fleece Ram
+4 Nyx-Fleece Ram
 1 Rekindling Phoenix
 1 Angrath's Rampage
 1 Eidolon of the Great Revel

@@ -177,8 +177,8 @@
 3 Unclaimed Territory
 3 Kitesail Freebooter
 4 Thalia's Lieutenant
-4 Unclaimed Territory
 4 Aether Hub
+4 Unclaimed Territory
 4 Glint-Sleeve Siphoner
 4 Kitesail Freebooter
 4 Godless Shrine
@@ -232,6 +232,11 @@
 2 Emry, Lurker of the Loch
 2 Metallic Rebuke
 4 Bomat Courier
+1 Hazoret the Fervent
+1 Hangarback Walker
+2 The Royal Scions
+3 Steam Vents
+4 Spire of Industry
 1 The Scarab God
 1 Kytheon, Hero of Akros
 1 Aethersphere Harvester
@@ -239,11 +244,6 @@
 2 Aethersphere Harvester
 3 Elite Guardmage
 4 Elite Guardmage
-1 Hazoret the Fervent
-1 Hangarback Walker
-2 The Royal Scions
-3 Steam Vents
-4 Spire of Industry
 1 Uro, Titan of Nature's Wrath
 1 Tireless Tracker
 2 Uro, Titan of Nature's Wrath
@@ -489,27 +489,27 @@
 3 Island
 4 Glacial Fortress
 4 Island
-1 Oketra's Monument
 1 Cloudblazer
 1 Angel of Invention
 1 Dusk / Dawn
 1 Selfless Spirit
+1 Oketra's Monument
 1 Castle Ardenvale
-2 Oketra's Monument
 2 Cloudblazer
 2 Angel of Invention
 2 Dusk / Dawn
 2 Westvale Abbey
 2 Selfless Spirit
+2 Oketra's Monument
 3 Cloudblazer
-3 Oketra's Monument
 3 Angel of Invention
 3 Deputy of Detention
 3 Selfless Spirit
+3 Oketra's Monument
 4 Militia Bugler
-4 Oketra's Monument
 4 Deputy of Detention
 4 Selfless Spirit
+4 Oketra's Monument
 7 Plains
 8 Plains
 9 Plains
@@ -520,8 +520,8 @@
 1 Nykthos, Shrine to Nyx
 1 Witching Well
 1 Leyline of Anticipation
-1 Agent of Treachery
 1 Ashiok's Erasure
+1 Agent of Treachery
 1 Thassa, Deep-Dwelling
 1 Thassa, God of the Sea
 1 Temple of Enlightenment
@@ -533,9 +533,9 @@
 2 Nykthos, Shrine to Nyx
 2 Agent of Treachery
 2 Thassa's Oracle
+2 Ashiok's Erasure
 2 Temple of Enlightenment
 2 Gadwick, the Wizened
-2 Ashiok's Erasure
 2 Thassa, Deep-Dwelling
 2 Thassa, God of the Sea
 3 Witching Well

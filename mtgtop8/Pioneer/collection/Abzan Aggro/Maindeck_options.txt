@@ -41,18 +41,18 @@
 4 Godless Shrine
 1 Voice of Resurgence
 2 Voice of Resurgence
-1 Collected Company
 1 Zulaport Cutthroat
+1 Collected Company
 1 Cartel Aristocrat
 2 Collected Company
 2 Cartel Aristocrat
 2 Zulaport Cutthroat
 3 Collected Company
-3 Zulaport Cutthroat
 3 Cartel Aristocrat
+3 Zulaport Cutthroat
 4 Collected Company
-4 Cartel Aristocrat
 4 Zulaport Cutthroat
+4 Cartel Aristocrat
 1 Westvale Abbey
 1 Nantuko Husk
 1 Rally the Ancestors
@@ -120,6 +120,17 @@
 3 Walking Ballista
 3 Elvish Mystic
 3 Llanowar Elves
+1 Deathrite Shaman
+1 Collective Brutality
+1 Vessel of Nascency
+1 Vraska the Unseen
+2 Deathrite Shaman
+2 Vessel of Nascency
+2 Collective Brutality
+2 Vraska the Unseen
+3 Vessel of Nascency
+3 Deathrite Shaman
+4 Vessel of Nascency
 1 Smuggler's Copter
 1 Gilded Goose
 1 Witch's Oven
@@ -137,28 +148,17 @@
 2 Archangel Avacyn
 2 Anguished Unmaking
 3 Smuggler's Copter
+3 Archangel Avacyn
 3 Witch's Oven
 3 Trail of Crumbs
 3 Cauldron Familiar
 3 Gilded Goose
-3 Archangel Avacyn
 3 Anguished Unmaking
 3 Wicked Wolf
 4 Smuggler's Copter
 4 Witch's Oven
 4 Gilded Goose
 4 Trail of Crumbs
-1 Deathrite Shaman
-1 Collective Brutality
-1 Vessel of Nascency
-1 Vraska the Unseen
-2 Deathrite Shaman
-2 Vessel of Nascency
-2 Collective Brutality
-2 Vraska the Unseen
-3 Vessel of Nascency
-3 Deathrite Shaman
-4 Vessel of Nascency
 1 Merfolk Branchwalker
 1 Wildgrowth Walker
 1 Kalitas, Traitor of Ghet
@@ -194,10 +194,10 @@
 2 Channeler Initiate
 3 Unclaimed Territory
 3 Thalia's Lieutenant
-3 Liliana, Heretical Healer
 3 Channeler Initiate
 3 Dauntless Bodyguard
 3 Plaguecrafter
+3 Liliana, Heretical Healer
 3 Xathrid Necromancer
 3 Bloodsoaked Champion
 4 Unclaimed Territory

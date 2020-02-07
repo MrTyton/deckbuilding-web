@@ -1,32 +1,12 @@
-1 Murderous Rider
-2 Courser of Kruphix
-2 Field of Ruin
 2 Murderous Rider
-2 Fatal Push
+2 Thoughtseize
 2 Swamp
 2 Fabled Passage
 3 Fatal Push
+3 Thoughtseize
 3 Swamp
 4 Fatal Push
-1 Shaman of the Pack
-1 Dwynen's Elite
-1 Elvish Clancaller
-2 Elvish Clancaller
-2 Dwynen's Elite
-2 Shaman of the Pack
-3 Elvish Clancaller
-3 Dwynen's Elite
-3 Shaman of the Pack
-4 Elvish Clancaller
-4 Shaman of the Pack
-4 Dwynen's Elite
-2 Tireless Tracker
-1 Temple of Malady
-2 Temple of Malady
-1 Yorvo, Lord of Garenbrig
-2 Yorvo, Lord of Garenbrig
-7 Forest
-3 Fabled Passage
+4 Thoughtseize
 1 Nykthos, Shrine to Nyx
 1 Thorn Lieutenant
 2 Thorn Lieutenant
@@ -35,39 +15,39 @@
 2 Unclaimed Territory
 2 Gnarlroot Trapper
 3 Gnarlroot Trapper
+1 Temple of Malady
+2 Temple of Malady
+3 Fabled Passage
+1 Walking Ballista
+2 Walking Ballista
 1 Traverse the Ulvenwald
 1 Liliana, the Last Hope
 1 Emrakul, the Promised End
-1 Walking Ballista
 1 Castle Locthwain
 2 Traverse the Ulvenwald
 2 Liliana, the Last Hope
-2 Walking Ballista
+2 Tireless Tracker
 3 Traverse the Ulvenwald
 3 Courser of Kruphix
 4 Fabled Passage
-1 Questing Beast
-1 Rotting Regisaur
-2 Rotting Regisaur
-3 Rotting Regisaur
+1 Woodland Cemetery
+1 Hangarback Walker
 1 Dark Petition
 1 Vraska's Contempt
 1 Seasons Past
 2 Dark Petition
-1 Woodland Cemetery
+1 Scavenging Ooze
+6 Forest
 2 Hissing Quagmire
 2 Assassin's Trophy
 4 Swamp
-2 Questing Beast
-3 Questing Beast
-3 Yorvo, Lord of Garenbrig
-4 Questing Beast
-4 Rotting Regisaur
-4 Yorvo, Lord of Garenbrig
-8 Forest
+2 Woodland Cemetery
+1 Lovestruck Beast
+2 Lovestruck Beast
+3 Lovestruck Beast
+4 Lovestruck Beast
 1 Vraska, Golgari Queen
 1 Cast Down
-1 Hangarback Walker
 2 Cast Down
 2 Abrupt Decay
 1 Chord of Calling
@@ -93,7 +73,6 @@
 4 Elvish Visionary
 1 Grim Flayer
 2 Grim Flayer
-2 Woodland Cemetery
 3 Woodland Cemetery
 5 Swamp
 1 Westvale Abbey
@@ -102,16 +81,18 @@
 1 Ashiok, Dream Render
 1 Sign in Blood
 3 Field of Ruin
+2 Scavenging Ooze
 3 Tireless Tracker
-1 Gonti, Lord of Luxury
-1 Read the Bones
-4 Temple of Malady
 1 Mutavault
 1 Icon of Ancestry
 2 Mutavault
 2 Nykthos, Shrine to Nyx
 2 Icon of Ancestry
 4 Wildborn Preserver
+1 Gonti, Lord of Luxury
+1 Read the Bones
+4 Temple of Malady
+1 Questing Beast
 1 Ishkanah, Grafwidow
 1 Collective Brutality
 1 The Binding of the Titans
@@ -119,36 +100,71 @@
 3 Grim Flayer
 4 Traverse the Ulvenwald
 4 Grim Flayer
+1 Growing Rites of Itlimoc
 1 Dwynen, Gilt-Leaf Daen
 1 Marwyn, the Nurturer
-1 Growing Rites of Itlimoc
 2 Marwyn, the Nurturer
 3 Marwyn, the Nurturer
 3 Unclaimed Territory
 4 Unclaimed Territory
 4 Gnarlroot Trapper
+1 Hashep Oasis
 1 Heart of Kiran
+1 Rhonas the Indomitable
 1 Yavimaya Coast
 1 Thought-Knot Seer
+1 Rotting Regisaur
+1 The Great Henge
 1 Ghalta, Primal Hunger
 1 Surrak, the Hunt Caller
 1 Scrapheap Scrounger
 2 Heart of Kiran
 2 Yavimaya Coast
 2 Thought-Knot Seer
-2 Surrak, the Hunt Caller
+2 Rotting Regisaur
+2 The Great Henge
+2 Rhonas the Indomitable
 2 Scrapheap Scrounger
 2 Ghalta, Primal Hunger
+2 Surrak, the Hunt Caller
+2 Hashep Oasis
+3 Rotting Regisaur
 3 Yavimaya Coast
 3 Thought-Knot Seer
 3 Scrapheap Scrounger
 3 Ghalta, Primal Hunger
-3 Heart of Kiran
 3 Hashep Oasis
+3 Heart of Kiran
 4 Thought-Knot Seer
 4 Ghalta, Primal Hunger
 4 Hashep Oasis
-1 Merfolk Branchwalker
-3 Scavenging Ooze
-3 Rhonas the Indomitable
-4 Scavenging Ooze
+1 Voracious Hydra
+1 Karn's Bastion
+1 Nissa, Voice of Zendikar
+1 Stonecoil Serpent
+1 Hardened Scales
+1 Rishkar, Peema Renegade
+1 Castle Garenbrig
+1 Winding Constrictor
+1 Vivien, Arkbow Ranger
+2 Voracious Hydra
+2 Hangarback Walker
+2 Nissa, Voice of Zendikar
+2 Stonecoil Serpent
+2 Rishkar, Peema Renegade
+2 Vivien, Arkbow Ranger
+2 Hardened Scales
+2 Winding Constrictor
+3 Voracious Hydra
+3 Stonecoil Serpent
+3 Walking Ballista
+3 Hardened Scales
+3 Hangarback Walker
+3 Winding Constrictor
+3 Nissa, Voice of Zendikar
+3 Vivien, Arkbow Ranger
+4 Voracious Hydra
+4 Stonecoil Serpent
+4 Winding Constrictor
+4 Hardened Scales
+4 Walking Ballista

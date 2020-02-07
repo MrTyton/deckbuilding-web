@@ -97,12 +97,12 @@
 1 Punishing Fire
 1 Taiga
 1 Snow-Covered Forest
-1 Abrade
-1 Reclamation Sage
 1 Bayou
+1 Reclamation Sage
+1 Embereth Shieldbreaker
 1 Sword of Sinew and Steel
 1 Tin Street Hooligan
-1 Embereth Shieldbreaker
+1 Abrade
 1 Daretti, Ingenious Iconoclast
 1 Wurmcoil Engine
 1 Shenanigans
@@ -216,17 +216,17 @@
 2 Mishra's Bauble
 2 Cabal Therapy
 2 Badlands
-3 Cabal Therapy
 3 Thoughtseize
 3 Marsh Flats
-3 Badlands
 3 Arid Mesa
+3 Badlands
 3 Lightning Bolt
 3 Young Pyromancer
 3 Bedlam Reveler
 3 Faithless Looting
 3 Bloodstained Mire
 3 Lingering Souls
+3 Cabal Therapy
 3 Mishra's Bauble
 4 Marsh Flats
 4 Young Pyromancer
@@ -261,10 +261,10 @@
 4 Pteramander
 5 Island
 6 Island
-1 Simian Spirit Guide
 1 Blood Moon
 1 Red Elemental Blast
 1 Ancient Tomb
+1 Simian Spirit Guide
 1 Chandra, Torch of Defiance
 1 Ensnaring Bridge
 1 Painter's Servant
@@ -274,7 +274,6 @@
 1 Ichor Wellspring
 1 Karn, the Great Creator
 1 Grindstone
-2 Simian Spirit Guide
 2 Mountain
 2 Red Elemental Blast
 2 Blood Moon
@@ -284,19 +283,20 @@
 2 Imperial Recruiter
 2 Grindstone
 2 Karn, the Great Creator
+2 Simian Spirit Guide
 2 Painter's Servant
-3 Simian Spirit Guide
 3 Mountain
 3 Great Furnace
 3 Pyroblast
+3 Simian Spirit Guide
 3 Ancient Tomb
 3 Painter's Servant
 3 Karn, the Great Creator
 3 City of Traitors
 3 Grindstone
 3 Blood Moon
-4 Simian Spirit Guide
 4 Mountain
+4 Simian Spirit Guide
 4 Pyroblast
 4 Karn, the Great Creator
 4 Ancient Tomb
