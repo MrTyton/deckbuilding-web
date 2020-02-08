@@ -37,8 +37,8 @@
 |                    2|[Elite Guardmage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461122)     |                    1|[Arashin Cleric](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391791)    |
 |                    2|[Deputy of Detention](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457309) |                    2|[Disdainful Stroke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420705) |
 |                    3|[Brazen Borrower](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473001)     |                    2|[Supreme Verdict](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438776)   |
-|                    1|[Westvale Abbey](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=410049)      |                    3|[Supreme Verdict](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438776)   |
-|                    4|[Teferi, Time Raveler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461148)|                    3|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)     |
+|                    1|[Westvale Abbey](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=410049)      |                    3|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)     |
+|                    4|[Teferi, Time Raveler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461148)|                    3|[Supreme Verdict](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438776)   |
 |                    4|Thassa, Deep-Dwelling                                                                          |                     |                                                                                             |
 |                    4|[Cloudblazer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442190)         |                     |                                                                                             |
 

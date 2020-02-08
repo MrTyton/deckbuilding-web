@@ -40,7 +40,7 @@
 |                    3|[Selfless Spirit](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414332)     |                     |              |
 |                    3|[Teferi, Time Raveler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461148)|                     |              |
 |                    3|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)              |                     |              |
+|                    4|[Selfless Spirit](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414332)     |                     |              |
 |                   10|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)              |                     |              |
 |                   11|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)              |                     |              |
-|                    4|[Selfless Spirit](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414332)     |                     |              |
 

@@ -30,8 +30,8 @@
 
 |*n*<sup>th</sup> copy|                                      Maindeck Card                                      |*n*<sup>th</sup> copy|                                     Sideboard Card                                     |
 |--------------------:|-----------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------|
-|                    1|[The Scarab God](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430834)|                    1|[Unmoored Ego](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452962) |
-|                    3|[Fatal Push](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423724)    |                    1|[Legion's End](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466860) |
+|                    1|[The Scarab God](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430834)|                    1|[Legion's End](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466860) |
+|                    3|[Fatal Push](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423724)    |                    1|[Unmoored Ego](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452962) |
 |                    4|[Fatal Push](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423724)    |                    1|[Spell Queller](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414494)|
 |                    4|[Godless Shrine](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405099)|                     |                                                                                        |
 

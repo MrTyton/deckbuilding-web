@@ -32,33 +32,3 @@
 |2 [Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)   |                                                                                             |                                                                                            |
 |1 [Trinisphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=43545)       |                                                                                             |                                                                                            |
 
-
-# Other Options
-
-|*n*<sup>th</sup> copy|                                       Maindeck Card                                        |*n*<sup>th</sup> copy|                                        Sideboard Card                                         |
-|--------------------:|--------------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------------|
-|                    1|[Seat of the Synod](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420940)|                    1|[Lion's Eye Diamond](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3255)    |
-|                    1|[Walking Ballista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423848) |                    1|[Mesmeric Orb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=30008)         |
-|                    1|[Mesmeric Orb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=30008)      |                    1|[Basalt Monolith](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=599)        |
-|                    1|[Darksteel Citadel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389479)|                    1|[Aetherflux Reservoir](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417765)|
-|                    1|[Lion's Eye Diamond](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3255) |                    1|[Silent Gravestone](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439846)   |
-|                    1|[Echo of Eons](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463995)     |                    2|[Echoing Truth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405212)       |
-|                    2|[Mesmeric Orb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=30008)      |                    3|[Echoing Truth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405212)       |
-|                    2|[Seat of the Synod](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420940)|                    4|[Echoing Truth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405212)       |
-|                    2|[Echo of Eons](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463995)     |                     |                                                                                               |
-|                    2|[Darksteel Citadel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389479)|                     |                                                                                               |
-|                    2|[Lion's Eye Diamond](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3255) |                     |                                                                                               |
-|                    3|[Defense Grid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45481)      |                     |                                                                                               |
-|                    3|[Echo of Eons](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463995)     |                     |                                                                                               |
-|                    3|[Lion's Eye Diamond](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3255) |                     |                                                                                               |
-|                    3|[Basalt Monolith](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=599)     |                     |                                                                                               |
-|                    3|[Seat of the Synod](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420940)|                     |                                                                                               |
-|                    3|[Manifold Key](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466984)     |                     |                                                                                               |
-|                    3|[Voltaic Key](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=207889)      |                     |                                                                                               |
-|                    3|[Mesmeric Orb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=30008)      |                     |                                                                                               |
-|                    4|[Voltaic Key](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=207889)      |                     |                                                                                               |
-|                    4|[Seat of the Synod](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420940)|                     |                                                                                               |
-|                    4|[Defense Grid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45481)      |                     |                                                                                               |
-|                    4|[Echo of Eons](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463995)     |                     |                                                                                               |
-|                    4|[Manifold Key](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466984)     |                     |                                                                                               |
-

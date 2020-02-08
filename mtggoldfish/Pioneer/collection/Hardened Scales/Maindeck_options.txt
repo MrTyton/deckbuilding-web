@@ -1,10 +1,10 @@
-8 Forest
 4 Stonecoil Serpent
 1 Woodland Cemetery
+8 Forest
+1 Castle Garenbrig
 4 Llanowar Elves
 1 Swamp
 4 Elvish Mystic
-1 Castle Garenbrig
 2 Woodland Cemetery
 1 Scavenging Ooze
 1 Pelt Collector
@@ -15,6 +15,7 @@
 2 Experiment One
 3 Experiment One
 4 Experiment One
+1 Karn's Bastion
 2 Swamp
 1 Barkhide Troll
 2 Barkhide Troll
@@ -23,7 +24,6 @@
 3 Woodland Cemetery
 4 Woodland Cemetery
 2 Scavenging Ooze
-1 Karn's Bastion
 1 Vraska, Golgari Queen
 1 Avatar of the Resolute
 2 Avatar of the Resolute
@@ -58,6 +58,8 @@
 2 Verdurous Gearhulk
 1 Evolutionary Leap
 2 Evolutionary Leap
+1 Fatal Push
+2 Fatal Push
 1 Metallic Mimic
 2 Metallic Mimic
 3 Metallic Mimic

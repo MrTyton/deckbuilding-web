@@ -58,17 +58,17 @@
 3 Snow-Covered Mountain
 1 Snow-Covered Swamp
 1 Desperate Ritual
-1 Castle Locthwain
-1 Worldspine Wurm
-1 Lightning Axe
-1 Manamorphose
 1 Borborygmos Enraged
+1 Castle Locthwain
+1 Lightning Axe
+1 Worldspine Wurm
+1 Manamorphose
 1 Nourishing Shoal
 2 Snow-Covered Swamp
 2 Desperate Ritual
+2 Lightning Axe
 2 Merchant of the Vale
 2 Worldspine Wurm
-2 Lightning Axe
 2 Nourishing Shoal
 2 Borborygmos Enraged
 3 Snow-Covered Swamp
@@ -215,9 +215,9 @@
 3 Mwonvuli Acid-Moss
 3 Arbor Elf
 3 Utopia Sprawl
-4 Mwonvuli Acid-Moss
 4 Utopia Sprawl
 4 Arbor Elf
+4 Mwonvuli Acid-Moss
 1 Chandra, Torch of Defiance
 1 Chandra, Awakened Inferno
 1 Platinum Emperion
@@ -247,9 +247,9 @@
 1 Walking Ballista
 1 Eternal Witness
 1 Ramunap Excavator
-1 Primal Command
 1 Magus of the Moon
 1 Trinisphere
+1 Primal Command
 1 Hornet Queen
 1 Shriekmaw
 1 Castle Garenbrig
@@ -258,15 +258,15 @@
 1 Ohran Viper
 1 Snow-Covered Forest
 1 Field of Ruin
-2 Primal Command
+2 Snow-Covered Forest
+2 Walking Ballista
 2 Eternal Witness
 2 Nissa, Vastwood Seer
+2 Primal Command
 2 Field of Ruin
 2 Birds of Paradise
 2 Ohran Viper
 2 Acidic Slime
-2 Snow-Covered Forest
-2 Walking Ballista
 3 Birds of Paradise
 3 Snow-Covered Forest
 3 Primal Command

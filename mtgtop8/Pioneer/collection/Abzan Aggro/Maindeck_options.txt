@@ -1,7 +1,7 @@
-1 Gideon Blackblade
 1 Warden of the First Tree
-2 Gideon Blackblade
+1 Gideon Blackblade
 2 Isolated Chapel
+2 Gideon Blackblade
 2 Warden of the First Tree
 3 Sunpetal Grove
 3 Anafenza, the Foremost
@@ -30,11 +30,11 @@
 1 Ishkanah, Grafwidow
 1 Emrakul, the Promised End
 1 Traverse the Ulvenwald
-2 Traverse the Ulvenwald
 2 Satyr Wayfinder
+2 Traverse the Ulvenwald
 3 Courser of Kruphix
-3 Traverse the Ulvenwald
 3 Satyr Wayfinder
+3 Traverse the Ulvenwald
 4 Traverse the Ulvenwald
 1 Castle Locthwain
 3 Mana Confluence
@@ -95,11 +95,11 @@
 4 Fatal Push
 1 Murderous Cut
 1 Thalia, Heretic Cathar
-1 Dark Petition
 1 Nissa, Vastwood Seer
-1 Painful Truths
-1 Languish
+1 Dark Petition
 1 Seasons Past
+1 Languish
+1 Painful Truths
 1 Sandsteppe Citadel
 1 Utter End
 2 Sandsteppe Citadel
@@ -109,8 +109,8 @@
 2 Languish
 3 Languish
 1 Nissa, Voice of Zendikar
-1 Tolsimir, Friend to Wolves
 1 Ifnir Deadlands
+1 Tolsimir, Friend to Wolves
 1 Llanowar Elves
 1 Nissa, Vital Force
 1 Elvish Mystic
@@ -120,12 +120,12 @@
 3 Walking Ballista
 3 Elvish Mystic
 3 Llanowar Elves
+1 Vessel of Nascency
 1 Deathrite Shaman
 1 Collective Brutality
-1 Vessel of Nascency
 1 Vraska the Unseen
-2 Deathrite Shaman
 2 Vessel of Nascency
+2 Deathrite Shaman
 2 Collective Brutality
 2 Vraska the Unseen
 3 Vessel of Nascency
@@ -134,9 +134,9 @@
 1 Smuggler's Copter
 1 Gilded Goose
 1 Witch's Oven
+1 Archangel Avacyn
 1 Trail of Crumbs
 1 Cauldron Familiar
-1 Archangel Avacyn
 1 Anguished Unmaking
 1 Wicked Wolf
 2 Smuggler's Copter
@@ -176,8 +176,8 @@
 4 Fabled Passage
 1 Unclaimed Territory
 1 Kytheon, Hero of Akros
-1 Thalia's Lieutenant
 1 Dauntless Bodyguard
+1 Thalia's Lieutenant
 1 Xathrid Necromancer
 1 Plaguecrafter
 1 Liliana, Heretical Healer

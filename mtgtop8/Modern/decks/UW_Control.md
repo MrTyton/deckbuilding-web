@@ -77,7 +77,7 @@
 |                    2|[Search for Azcanta](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435226)       |                     |                                                                                                   |
 |                    2|[Archmage's Charm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463989)         |                     |                                                                                                   |
 |                    3|[Misty Rainforest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405102)         |                     |                                                                                                   |
-|                    4|[Force of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464001)        |                     |                                                                                                   |
 |                    4|[Jace, the Mind Sculptor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442051)  |                     |                                                                                                   |
+|                    4|[Force of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464001)        |                     |                                                                                                   |
 |                    4|[Misty Rainforest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405102)         |                     |                                                                                                   |
 

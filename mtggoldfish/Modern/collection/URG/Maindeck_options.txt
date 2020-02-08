@@ -1,36 +1,36 @@
 1 Mystic Sanctuary
-1 Cryptic Command
-2 Cryptic Command
-3 Cryptic Command
-3 Snapcaster Mage
 1 Wrenn and Six
 1 Snow-Covered Island
 2 Wrenn and Six
+1 Cryptic Command
+2 Cryptic Command
+3 Cryptic Command
 1 Snow-Covered Forest
+3 Snapcaster Mage
+1 Snow-Covered Mountain
+1 Arcum's Astrolabe
+2 Snow-Covered Island
+2 Arcum's Astrolabe
+1 Blood Moon
+1 Ice-Fang Coatl
+1 Jace, the Mind Sculptor
+1 Prismatic Vista
+2 Blood Moon
+2 Ice-Fang Coatl
+2 Jace, the Mind Sculptor
 1 Opt
 1 Force of Negation
 2 Force of Negation
 1 Archmage's Charm
 2 Archmage's Charm
-1 Snow-Covered Mountain
-1 Arcum's Astrolabe
 2 Snow-Covered Mountain
-2 Snow-Covered Island
-2 Arcum's Astrolabe
 3 Arcum's Astrolabe
 4 Arcum's Astrolabe
 1 Field of Ruin
-1 Blood Moon
-1 Ice-Fang Coatl
-1 Jace, the Mind Sculptor
 1 Logic Knot
-1 Prismatic Vista
 1 Skred
 2 Field of Ruin
-2 Blood Moon
 2 Logic Knot
-2 Ice-Fang Coatl
-2 Jace, the Mind Sculptor
 2 Skred
 3 Snow-Covered Island
 3 Ice-Fang Coatl
@@ -38,25 +38,49 @@
 4 Ice-Fang Coatl
 5 Snow-Covered Island
 6 Snow-Covered Island
+1 Spell Snare
 1 Remand
 2 Remand
 2 Steam Vents
-1 Spell Snare
 2 Spell Snare
 2 Island
 3 Remand
 3 Island
 4 Island
 4 Snapcaster Mage
+1 Spell Pierce
 1 Mountain
+1 Uro, Titan of Nature's Wrath
+1 Tireless Tracker
+2 Uro, Titan of Nature's Wrath
+3 Wrenn and Six
+3 Uro, Titan of Nature's Wrath
 1 Deprive
+1 Fiery Islet
 1 Abrade
 3 Brazen Borrower
 4 Brazen Borrower
+1 Arbor Elf
+1 Utopia Sprawl
+1 Klothys, God of Destiny
+1 Tranquil Thicket
+1 The Royal Scions
+1 Waterlogged Grove
+2 Snow-Covered Forest
+2 Prismatic Vista
+2 Klothys, God of Destiny
+2 The Royal Scions
+2 Arbor Elf
+2 Utopia Sprawl
+3 Wooded Foothills
+3 Utopia Sprawl
+3 Arbor Elf
+4 Wooded Foothills
+4 Arbor Elf
+4 Utopia Sprawl
 1 Flooded Strand
 1 Young Pyromancer
 1 Vapor Snag
-1 Spell Pierce
 1 Polluted Delta
 2 Flooded Strand
 2 Vapor Snag
@@ -74,7 +98,7 @@
 4 Remand
 4 Polluted Delta
 1 Simian Spirit Guide
-1 Fiery Islet
+1 Blast Zone
 1 As Foretold
 1 Finale of Promise
 1 Restore Balance
@@ -82,7 +106,6 @@
 1 Crashing Footfalls
 1 Greater Gargadon
 1 Karn, the Great Creator
-1 Blast Zone
 1 Izzet Charm
 1 Electrodominance
 2 Simian Spirit Guide
@@ -102,75 +125,24 @@
 3 Greater Gargadon
 3 Restore Balance
 4 Simian Spirit Guide
-4 As Foretold
 4 Crashing Footfalls
 4 Electrodominance
+4 As Foretold
 4 Restore Balance
-1 Emrakul, the Aeons Torn
-1 Birds of Paradise
-1 Tireless Tracker
-2 Birds of Paradise
-2 Tireless Tracker
-1 Garruk Wildspeaker
-1 Nykthos, Shrine to Nyx
-1 Walking Ballista
-1 Verdant Catacombs
-1 Kessig Wolf Run
-1 Arbor Elf
-1 Utopia Sprawl
-1 Castle Garenbrig
-1 Eternal Witness
-1 Primal Command
-1 Primeval Titan
-1 Overgrowth
-1 Kiora's Follower
-1 Xenagos, God of Revels
-1 Windswept Heath
-1 Hydroid Krasis
-1 Time Warp
-1 Kiora, Master of the Depths
-1 Tooth and Nail
-1 Panglacial Wurm
-2 Hydroid Krasis
-2 Eternal Witness
-2 Garruk Wildspeaker
-2 Forest
-2 Arbor Elf
-2 Utopia Sprawl
-2 Castle Garenbrig
-2 Tooth and Nail
-2 Overgrowth
-2 Windswept Heath
-2 Primal Command
-2 Kiora's Follower
-2 Kiora, Master of the Depths
-3 Windswept Heath
-3 Forest
-3 Utopia Sprawl
-3 Arbor Elf
-3 Breeding Pool
-3 Tooth and Nail
-3 Kiora's Follower
-3 Overgrowth
-3 Wooded Foothills
-4 Wooded Foothills
-4 Windswept Heath
-4 Arbor Elf
-4 Utopia Sprawl
-4 Overgrowth
 1 Magmatic Sinkhole
 1 Narset, Parter of Veils
 1 Through the Breach
 1 Engineered Explosives
 1 Sulfur Falls
+1 Emrakul, the Aeons Torn
 2 Opt
 2 Narset, Parter of Veils
 2 Emrakul, the Aeons Torn
 2 Sulfur Falls
 2 Through the Breach
 3 Opt
-3 Sulfur Falls
 3 Through the Breach
+3 Sulfur Falls
 3 Emrakul, the Aeons Torn
 4 Emrakul, the Aeons Torn
 4 Opt
@@ -179,21 +151,20 @@
 1 Ghost Quarter
 1 Dryad of the Ilysian Grove
 1 Valakut, the Molten Pinnacle
-1 Uro, Titan of Nature's Wrath
 1 Field of the Dead
 1 Ramunap Excavator
 1 Tolaria West
+1 Birds of Paradise
 2 Mystic Sanctuary
-2 Uro, Titan of Nature's Wrath
 2 Ghost Quarter
+2 Tireless Tracker
 2 Dryad of the Ilysian Grove
 2 Deprive
+2 Birds of Paradise
 2 Tolaria West
 3 Birds of Paradise
-3 Wrenn and Six
 3 Dryad of the Ilysian Grove
 3 Ghost Quarter
-3 Uro, Titan of Nature's Wrath
 4 Birds of Paradise
 4 Dryad of the Ilysian Grove
 4 Wrenn and Six
