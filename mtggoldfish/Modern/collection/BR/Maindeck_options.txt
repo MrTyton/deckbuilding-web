@@ -1,46 +1,46 @@
 1 Pashalik Mons
 1 Sling-Gang Lieutenant
+1 Aether Vial
 1 Munitions Expert
 1 Goblin Cratermaker
 1 Goblin Ringleader
 1 Goblin Chieftain
-1 Goblin Warchief
-1 Aether Vial
 1 Goblin Matron
 1 Goblin Trashmaster
 1 Skirk Prospector
 1 Mogg War Marshal
+1 Goblin Warchief
 1 Cavern of Souls
 1 Auntie's Hovel
 1 Goblin Piledriver
 2 Goblin Chieftain
+2 Cavern of Souls
+2 Aether Vial
 2 Munitions Expert
 2 Goblin Matron
-2 Aether Vial
 2 Goblin Ringleader
 2 Mogg War Marshal
 2 Auntie's Hovel
-2 Cavern of Souls
+3 Aether Vial
 3 Cavern of Souls
 3 Auntie's Hovel
 3 Goblin Ringleader
 3 Munitions Expert
-3 Aether Vial
 3 Goblin Matron
 4 Cavern of Souls
+4 Aether Vial
 4 Auntie's Hovel
 4 Goblin Matron
 4 Goblin Ringleader
-4 Aether Vial
 3 Mountain
 4 Mountain
 1 Fiery Islet
 2 Fiery Islet
 1 Frogtosser Banneret
-1 Kiki-Jiki, Mirror Breaker
 1 Siege-Gang Commander
-1 Tarfire
+1 Kiki-Jiki, Mirror Breaker
 1 Warren Instigator
+1 Tarfire
 1 Krenko, Mob Boss
 1 Earwig Squad
 1 Goblin Chainwhirler
@@ -53,69 +53,70 @@
 1 Legion Loyalist
 1 Snow-Covered Swamp
 1 Field of Ruin
+2 Field of Ruin
 2 Goblin Cratermaker
 2 Sling-Gang Lieutenant
 2 Goblin Piledriver
-2 Field of Ruin
 2 Skirk Prospector
 2 Goblin Warchief
 3 Snow-Covered Mountain
+3 Field of Ruin
 3 Goblin Cratermaker
 3 Goblin Piledriver
-3 Field of Ruin
 3 Skirk Prospector
 4 Snow-Covered Mountain
+4 Field of Ruin
 4 Goblin Piledriver
 4 Munitions Expert
-4 Field of Ruin
 5 Mountain
 6 Mountain
-1 Wooded Foothills
-1 Arid Mesa
-1 Monastery Swiftspear
-1 Blood Moon
-1 Skewer the Critics
-1 Sunbaked Canyon
-1 Searing Blaze
-1 Lava Spike
-1 Eidolon of the Great Revel
-1 Seal of Fire
-1 Rift Bolt
 1 Shard Volley
+1 Monastery Swiftspear
+1 Rift Bolt
+1 Lava Spike
 1 Goblin Guide
-2 Monastery Swiftspear
-2 Searing Blaze
-2 Wooded Foothills
-2 Arid Mesa
-2 Skewer the Critics
-2 Goblin Guide
+1 Searing Blaze
+1 Eidolon of the Great Revel
+1 Arid Mesa
+1 Sunbaked Canyon
+1 Blood Moon
+1 Wooded Foothills
+1 Seal of Fire
+1 Skewer the Critics
+2 Rift Bolt
 2 Lava Spike
-2 Shard Volley
-2 Seal of Fire
+2 Monastery Swiftspear
+2 Goblin Guide
+2 Searing Blaze
 2 Eidolon of the Great Revel
 2 Sunbaked Canyon
-2 Rift Bolt
-3 Monastery Swiftspear
-3 Fiery Islet
-3 Skewer the Critics
-3 Eidolon of the Great Revel
-3 Lava Spike
-3 Rift Bolt
-3 Seal of Fire
-3 Sunbaked Canyon
-3 Goblin Guide
-3 Shard Volley
+2 Wooded Foothills
+2 Shard Volley
+2 Arid Mesa
+2 Seal of Fire
+2 Skewer the Critics
 3 Searing Blaze
-4 Monastery Swiftspear
-4 Skewer the Critics
-4 Eidolon of the Great Revel
+3 Goblin Guide
+3 Monastery Swiftspear
+3 Lava Spike
+3 Eidolon of the Great Revel
+3 Rift Bolt
+3 Sunbaked Canyon
+3 Fiery Islet
+3 Seal of Fire
+3 Skewer the Critics
+3 Shard Volley
 4 Fiery Islet
-4 Rift Bolt
-4 Sunbaked Canyon
-4 Lava Spike
-4 Seal of Fire
-4 Searing Blaze
 4 Goblin Guide
+4 Lava Spike
+4 Monastery Swiftspear
+4 Searing Blaze
+4 Eidolon of the Great Revel
+4 Sunbaked Canyon
+4 Rift Bolt
+4 Skewer the Critics
+4 Seal of Fire
+1 Ox of Agonas
 1 Underworld Breach
 1 Goblin Bushwhacker
 1 Flameblade Adept
@@ -123,39 +124,38 @@
 1 Burning Inquiry
 1 Runaway Steam-Kin
 1 Hollow One
-1 Cathartic Reunion
-1 Ox of Agonas
 1 Flamewake Phoenix
 1 Street Wraith
+1 Cathartic Reunion
 1 Forgotten Cave
-2 Street Wraith
+2 Ox of Agonas
 2 Underworld Breach
 2 Goblin Lore
 2 Burning Inquiry
 2 Forgotten Cave
 2 Cathartic Reunion
 2 Hollow One
-2 Ox of Agonas
+2 Street Wraith
 2 Flameblade Adept
 2 Runaway Steam-Kin
 2 Flamewake Phoenix
-3 Street Wraith
 3 Ox of Agonas
+3 Street Wraith
 3 Flameblade Adept
 3 Cathartic Reunion
 3 Flamewake Phoenix
-3 Runaway Steam-Kin
 3 Burning Inquiry
 3 Forgotten Cave
 3 Goblin Lore
 3 Underworld Breach
+3 Runaway Steam-Kin
 3 Hollow One
-4 Street Wraith
 4 Flameblade Adept
 4 Hollow One
 4 Flamewake Phoenix
 4 Forgotten Cave
 4 Burning Inquiry
+4 Street Wraith
 4 Goblin Lore
 7 Mountain
 8 Mountain

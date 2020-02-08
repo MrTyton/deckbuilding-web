@@ -35,14 +35,14 @@
 3 Wasteland
 4 Wasteland
 1 Forest
+1 Questing Beast
+1 Tireless Tracker
 1 Horizon Canopy
 1 Windswept Heath
 1 Scavenging Ooze
 1 Knight of the Reliquary
-1 Questing Beast
 1 Green Sun's Zenith
 1 Noble Hierarch
-1 Tireless Tracker
 1 Savannah
 1 Dryad Arbor
 1 Plains
@@ -90,25 +90,25 @@
 3 Goblin Welder
 4 Goblin Engineer
 1 Wooded Foothills
+2 Wooded Foothills
 1 Volcanic Island
 1 Dack Fayden
 1 Grove of the Burnwillows
 1 Punishing Fire
-1 Gilded Goose
 1 Taiga
+1 Gilded Goose
 1 Snow-Covered Forest
 1 Bayou
 1 Reclamation Sage
 1 Embereth Shieldbreaker
-1 Sword of Sinew and Steel
 1 Tin Street Hooligan
 1 Abrade
 1 Daretti, Ingenious Iconoclast
 1 Wurmcoil Engine
+1 Sword of Sinew and Steel
 1 Shenanigans
 1 Liquimetal Coating
 2 Taiga
-2 Wooded Foothills
 2 Dack Fayden
 2 Punishing Fire
 2 Grove of the Burnwillows
@@ -126,6 +126,8 @@
 4 Wooded Foothills
 4 Liquimetal Coating
 4 Tin Street Hooligan
+1 Once Upon a Time
+2 Once Upon a Time
 1 Eternal Witness
 1 Thespian's Stage
 1 Titania, Protector of Argoth
@@ -136,11 +138,9 @@
 1 Oko, Thief of Crowns
 1 Dark Depths
 1 Sylvan Safekeeper
-1 Once Upon a Time
 2 Mox Diamond
 2 Tropical Island
 2 Oko, Thief of Crowns
-2 Once Upon a Time
 3 Once Upon a Time
 3 Mox Diamond
 3 Oko, Thief of Crowns
@@ -151,10 +151,11 @@
 2 Swamp
 4 Fatal Push
 1 Verdant Catacombs
+1 Ramunap Excavator
+2 Forest
 1 Thalia, Guardian of Thraben
 1 Scryb Ranger
 1 Birds of Paradise
-1 Ramunap Excavator
 1 Umezawa's Jitte
 1 Gaddock Teeg
 1 Qasali Pridemage
@@ -165,7 +166,6 @@
 2 Verdant Catacombs
 2 Thalia, Guardian of Thraben
 2 Stoneforge Mystic
-2 Forest
 3 Verdant Catacombs
 3 Thalia, Guardian of Thraben
 3 Giver of Runes
@@ -210,9 +210,9 @@
 2 Young Pyromancer
 2 Bedlam Reveler
 2 Lightning Bolt
-2 Lingering Souls
 2 Liliana, the Last Hope
 2 Mishra's Bauble
+2 Lingering Souls
 2 Hymn to Tourach
 2 Cabal Therapy
 2 Badlands
@@ -261,45 +261,83 @@
 4 Pteramander
 5 Island
 6 Island
+1 Ancient Tomb
+1 City of Traitors
+1 Karn, the Great Creator
+2 City of Traitors
+2 Ancient Tomb
+2 Karn, the Great Creator
+3 Ancient Tomb
+3 City of Traitors
+3 Karn, the Great Creator
+4 Karn, the Great Creator
+4 Ancient Tomb
+1 Elvish Spirit Guide
+1 Voracious Hydra
+1 Chrome Mox
+1 Garruk Relentless
+1 Trinisphere
+1 Shifting Ceratops
+1 Tarmogoyf
+1 Chancellor of the Tangle
+1 Chalice of the Void
+2 Elvish Spirit Guide
+2 Voracious Hydra
+2 Chrome Mox
+2 Tireless Tracker
+2 Questing Beast
+2 Shifting Ceratops
+2 Chancellor of the Tangle
+2 Chalice of the Void
+2 Trinisphere
+2 Tarmogoyf
+2 Garruk Relentless
+3 Elvish Spirit Guide
+3 Tarmogoyf
+3 Shifting Ceratops
+3 Chrome Mox
+3 Chalice of the Void
+3 Forest
+3 Trinisphere
+4 Trinisphere
+4 Chrome Mox
+4 Elvish Spirit Guide
+4 City of Traitors
+4 Shifting Ceratops
+4 Tarmogoyf
+4 Chalice of the Void
+4 Forest
+5 Forest
+6 Forest
+7 Forest
 1 Blood Moon
 1 Red Elemental Blast
 1 Ensnaring Bridge
-1 Ancient Tomb
 1 Simian Spirit Guide
 1 Chandra, Torch of Defiance
 1 Painter's Servant
-1 City of Traitors
 1 Lotus Petal
 1 Imperial Recruiter
 1 Ichor Wellspring
-1 Karn, the Great Creator
 1 Grindstone
 2 Mountain
 2 Red Elemental Blast
 2 Blood Moon
-2 City of Traitors
-2 Ancient Tomb
 2 Lotus Petal
 2 Imperial Recruiter
 2 Grindstone
-2 Karn, the Great Creator
-2 Simian Spirit Guide
 2 Painter's Servant
+2 Simian Spirit Guide
 3 Mountain
 3 Great Furnace
 3 Pyroblast
 3 Simian Spirit Guide
-3 Ancient Tomb
 3 Painter's Servant
-3 Karn, the Great Creator
-3 City of Traitors
 3 Grindstone
 3 Blood Moon
 4 Mountain
 4 Simian Spirit Guide
 4 Pyroblast
-4 Karn, the Great Creator
-4 Ancient Tomb
 4 Blood Moon
 5 Mountain
 6 Mountain

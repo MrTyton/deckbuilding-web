@@ -41,9 +41,9 @@
 3 Island
 4 Island
 1 Hieroglyphic Illumination
+1 Fetid Pools
 1 Negate
 1 Disallow
-1 Fetid Pools
 1 Narset, Parter of Veils
 2 Castle Vantress
 2 Disallow
@@ -203,6 +203,11 @@
 3 Arboreal Grazer
 4 Hinterland Harbor
 4 Arboreal Grazer
+1 Tyrant's Scorn
+1 Erebos's Intervention
+2 Thassa's Intervention
+2 Tyrant's Scorn
+4 Jace, Vryn's Prodigy
 4 Plains
 5 Plains
 1 Charming Prince
@@ -210,15 +215,15 @@
 1 Deputy of Detention
 1 Chart a Course
 1 Castle Ardenvale
-1 God-Pharaoh's Gift
-1 Refurbish
-1 Hostile Desert
 1 Angel of Invention
 1 Agent of Treachery
+1 Refurbish
 1 Reflector Mage
 1 Supreme Verdict
 1 Irrigated Farmland
+1 God-Pharaoh's Gift
 1 Strategic Planning
+1 Hostile Desert
 2 Ipnu Rivulet
 2 Chart a Course
 2 Angel of Invention
@@ -244,11 +249,6 @@
 4 God-Pharaoh's Gift
 4 Glacial Fortress
 4 Champion of Wits
-1 Tyrant's Scorn
-1 Erebos's Intervention
-2 Thassa's Intervention
-2 Tyrant's Scorn
-4 Jace, Vryn's Prodigy
 1 Nissa, Who Shakes the World
 1 Vraska, Golgari Queen
 1 Grisly Salvage
@@ -361,11 +361,11 @@
 3 Fires of Invention
 4 Fires of Invention
 1 Sphinx's Revelation
+1 Ashiok, Nightmare Muse
 1 Thirst for Meaning
 1 Temple of Deceit
 1 Whirlwind Denial
 1 Detention Sphere
-1 Ashiok, Nightmare Muse
 1 Ultimate Price
 1 Teferi, Hero of Dominaria
 1 Teferi, Time Raveler

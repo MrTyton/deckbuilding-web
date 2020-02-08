@@ -1,7 +1,7 @@
 # Boros Aggro
 
 #### [Export MTGO List](../collection/Boros%20Aggro/Boros%20Aggro.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=2%09Abbot%20of%20Keral%20Keep%0A4%09Battlefield%20Forge%0A4%09Bonecrusher%20Giant%0A1%09Castle%20Embereth%0A1%09Chandra,%20Torch%20of%20Defiance%0A4%09Clifftop%20Retreat%0A4%09Goblin%20Chainwhirler%0A3%09Kari%20Zev,%20Skyship%20Raider%0A4%09Lightning%20Strike%0A4%09Monastery%20Swiftspear%0A9%09Mountain%0A2%09Mutavault%0A2%09Rimrock%20Knight%0A4%09Sacred%20Foundry%0A3%09Shock%0A4%09Soul-Scar%20Mage%0A4%09Torbran,%20Thane%20of%20Red%20Fell%0A1%09Wild%20Slash&deckside=1%09Chained%20to%20the%20Rocks%0A1%09Chandra,%20Torch%20of%20Defiance%0A1%09Eidolon%20of%20the%20Great%20Revel%0A1%09Nahiri,%20the%20Harbinger%0A1%09Rampaging%20Ferocidon%0A1%09Rest%20in%20Peace)
+#### [Print on decklist.org](http://decklist.org/?deckmain=2%09Abbot%20of%20Keral%20Keep%0A4%09Battlefield%20Forge%0A4%09Bonecrusher%20Giant%0A1%09Castle%20Embereth%0A1%09Chandra,%20Torch%20of%20Defiance%0A4%09Clifftop%20Retreat%0A4%09Goblin%20Chainwhirler%0A3%09Kari%20Zev,%20Skyship%20Raider%0A4%09Lightning%20Strike%0A4%09Monastery%20Swiftspear%0A9%09Mountain%0A2%09Mutavault%0A2%09Rimrock%20Knight%0A4%09Sacred%20Foundry%0A3%09Shock%0A4%09Soul-Scar%20Mage%0A4%09Torbran,%20Thane%20of%20Red%20Fell%0A1%09Wild%20Slash&deckside=1%09Banishing%20Light%0A1%09Chained%20to%20the%20Rocks%0A1%09Chandra,%20Torch%20of%20Defiance%0A1%09Eidolon%20of%20the%20Great%20Revel%0A1%09Goblin%20Chainwhirler%0A1%09Nahiri,%20the%20Harbinger%0A1%09Phoenix%20of%20Ash%0A1%09Rampaging%20Ferocidon%0A1%09Rest%20in%20Peace%0A1%09Revoke%20Existence%0A1%09Searing%20Blood%0A1%09Shock%0A1%09Viashino%20Pyromancer)
 # Maindeck
 
 |                                             Creature (27)                                             |                                         Instant (8)                                         |                                          Land (24)                                           |                                           Planeswalker (1)                                            |
@@ -18,8 +18,45 @@
 
 # Sideboard
 
-|                                             Creature (2)                                              |                                         Enchantment (2)                                         |                                           Planeswalker (2)                                            |
-|-------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
-|1 [Eidolon of the Great Revel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442117)|1 [Chained to the Rocks](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373521)|1 [Chandra, Torch of Defiance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417683)|
-|1 [Rampaging Ferocidon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435308)       |1 [Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)       |1 [Nahiri, the Harbinger](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463948)     |
+|                                             Creature (4)                                              |                                         Enchantment (3)                                         |                                       Instant (2)                                        |                                           Planeswalker (2)                                            |                                         Sorcery (1)                                         |  Unknown (1)   |
+|-------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|----------------|
+|1 [Eidolon of the Great Revel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442117)|1 [Banishing Light](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405135)     |1 [Searing Blood](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=378483)|1 [Chandra, Torch of Defiance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417683)|1 [Revoke Existence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=378397)|1 Phoenix of Ash|
+|1 [Goblin Chainwhirler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443017)       |1 [Chained to the Rocks](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373521)|1 [Shock](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129732)        |1 [Nahiri, the Harbinger](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463948)     |                                                                                             |                |
+|1 [Rampaging Ferocidon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435308)       |1 [Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)       |                                                                                          |                                                                                                       |                                                                                             |                |
+|1 [Viashino Pyromancer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447302)       |                                                                                                 |                                                                                          |                                                                                                       |                                                                                             |                |
+
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                        Maindeck Card                                         |*n*<sup>th</sup> copy|Sideboard Card|
+|--------------------:|----------------------------------------------------------------------------------------------|---------------------|--------------|
+|                    1|[Inspiring Vantage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417819)  |                     |              |
+|                    1|[Runaway Steam-Kin](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452865)  |                     |              |
+|                    1|[Viashino Pyromancer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447302)|                     |              |
+|                    1|[Skewer the Critics](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457259) |                     |              |
+|                    1|[Experimental Frenzy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452849)|                     |              |
+|                    1|[Temple of Triumph](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373560)  |                     |              |
+|                    1|[Wizard's Lightning](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443040) |                     |              |
+|                    1|[Ghitu Lavarunner](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443015)   |                     |              |
+|                    1|Phoenix of Ash                                                                                |                     |              |
+|                    1|[Boros Charm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442188)        |                     |              |
+|                    1|[Light Up the Stage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457251) |                     |              |
+|                    2|[Inspiring Vantage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417819)  |                     |              |
+|                    2|[Runaway Steam-Kin](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452865)  |                     |              |
+|                    2|[Viashino Pyromancer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447302)|                     |              |
+|                    2|[Skewer the Critics](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457259) |                     |              |
+|                    2|[Boros Charm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442188)        |                     |              |
+|                    2|[Wizard's Lightning](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443040) |                     |              |
+|                    2|[Ghitu Lavarunner](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443015)   |                     |              |
+|                    2|[Light Up the Stage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457251) |                     |              |
+|                    2|[Temple of Triumph](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373560)  |                     |              |
+|                    3|[Runaway Steam-Kin](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452865)  |                     |              |
+|                    3|[Ghitu Lavarunner](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443015)   |                     |              |
+|                    3|[Inspiring Vantage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417819)  |                     |              |
+|                    3|[Boros Charm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442188)        |                     |              |
+|                    3|[Light Up the Stage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457251) |                     |              |
+|                    3|[Wizard's Lightning](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443040) |                     |              |
+|                    4|[Boros Charm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442188)        |                     |              |
+|                    4|[Runaway Steam-Kin](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452865)  |                     |              |
+|                    4|[Light Up the Stage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457251) |                     |              |
 
