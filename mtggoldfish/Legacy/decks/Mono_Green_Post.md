@@ -33,7 +33,7 @@
 |                    1|[Summoning Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425964)|                    1|[Mindbreak Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197532)|
 |                    1|[Maze of Ith](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=1824)     |                    1|[Warping Wail](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407522)  |
 |                    2|[Summoning Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425964)|                    2|[Mindbreak Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197532)|
-|                    3|[Summoning Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425964)|                    3|[Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)|
-|                     |                                                                                         |                    3|[Mindbreak Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197532)|
+|                    3|[Summoning Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425964)|                    3|[Mindbreak Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197532)|
+|                     |                                                                                         |                    3|[Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)|
 |                     |                                                                                         |                    4|[Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)|
 

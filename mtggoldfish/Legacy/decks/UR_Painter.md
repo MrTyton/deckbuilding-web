@@ -27,3 +27,16 @@
 |                                                                                           |                                                                                                   |1 [Red Elemental Blast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=814)   |                                                                                                 |
 |                                                                                           |                                                                                                   |2 [Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|                                                                                                 |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                      Maindeck Card                                      |*n*<sup>th</sup> copy|                                             Sideboard Card                                             |
+|--------------------:|-----------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------------------|
+|                    1|[Infernal Tutor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107308)|                    1|[Daretti, Ingenious Iconoclast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416831)|
+|                    2|Underworld Breach                                                                        |                    2|[Daretti, Ingenious Iconoclast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416831)|
+|                    2|[Infernal Tutor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107308)|                    2|[Pithing Needle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129526)               |
+|                    3|[Infernal Tutor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107308)|                    2|[Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)               |
+|                     |                                                                                         |                    3|[Pyroblast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=4083)                      |
+|                     |                                                                                         |                    4|[Pyroblast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=4083)                      |
+|                     |                                                                                         |                    3|[Echoing Truth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405212)                |
+

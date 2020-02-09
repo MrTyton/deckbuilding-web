@@ -44,8 +44,8 @@
 |                    2|[Prismatic Vista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464193)         |                    1|[Disallow](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423698)           |
 |                    2|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)                  |                    1|[Force of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464001)  |
 |                    3|[Prismatic Vista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464193)         |                    3|[Carpet of Flowers](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=5858)    |
-|                    3|[Ancient Tomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409567)            |                    2|[Carpet of Flowers](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=5858)    |
-|                    3|[Misty Rainforest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405102)        |                     |                                                                                              |
+|                    3|[Misty Rainforest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405102)        |                    2|[Carpet of Flowers](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=5858)    |
+|                    3|[Ancient Tomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409567)            |                     |                                                                                              |
 |                    4|[Misty Rainforest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405102)        |                     |                                                                                              |
 |                    3|[Eureka](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=1525)                    |                     |                                                                                              |
 

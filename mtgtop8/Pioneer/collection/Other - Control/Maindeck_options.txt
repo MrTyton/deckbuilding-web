@@ -203,11 +203,6 @@
 3 Arboreal Grazer
 4 Hinterland Harbor
 4 Arboreal Grazer
-1 Tyrant's Scorn
-1 Erebos's Intervention
-2 Thassa's Intervention
-2 Tyrant's Scorn
-4 Jace, Vryn's Prodigy
 4 Plains
 5 Plains
 1 Charming Prince
@@ -215,15 +210,15 @@
 1 Deputy of Detention
 1 Chart a Course
 1 Castle Ardenvale
+1 God-Pharaoh's Gift
+1 Refurbish
+1 Hostile Desert
 1 Angel of Invention
 1 Agent of Treachery
-1 Refurbish
 1 Reflector Mage
 1 Supreme Verdict
 1 Irrigated Farmland
-1 God-Pharaoh's Gift
 1 Strategic Planning
-1 Hostile Desert
 2 Ipnu Rivulet
 2 Chart a Course
 2 Angel of Invention
@@ -249,6 +244,11 @@
 4 God-Pharaoh's Gift
 4 Glacial Fortress
 4 Champion of Wits
+1 Tyrant's Scorn
+1 Erebos's Intervention
+2 Thassa's Intervention
+2 Tyrant's Scorn
+4 Jace, Vryn's Prodigy
 1 Nissa, Who Shakes the World
 1 Vraska, Golgari Queen
 1 Grisly Salvage
@@ -273,10 +273,10 @@
 1 Collected Company
 1 Knight of Autumn
 1 Voice of Resurgence
-1 Heliod, Sun-Crowned
 1 Selfless Spirit
 1 Llanowar Elves
 1 Elvish Mystic
+1 Heliod, Sun-Crowned
 1 Fortified Village
 1 Temple Garden
 1 Alseid of Life's Bounty
@@ -286,9 +286,9 @@
 2 Chord of Calling
 2 Radiant Fountain
 2 Collected Company
+2 Heliod, Sun-Crowned
 2 Sunpetal Grove
 2 Voice of Resurgence
-2 Heliod, Sun-Crowned
 2 Fortified Village
 2 Militia Bugler
 2 Llanowar Elves
@@ -347,8 +347,8 @@
 4 Kroxa, Titan of Death's Hunger
 4 Ramunap Ruins
 1 Liliana, Death's Majesty
-1 Ravenous Chupacabra
 1 Supreme Will
+1 Ravenous Chupacabra
 1 Fires of Invention
 1 Silumgar's Command
 1 Hostage Taker

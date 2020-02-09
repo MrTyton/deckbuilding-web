@@ -1,3 +1,42 @@
+1 Misty Rainforest
+1 Wasteland
+2 Wasteland
+1 Questing Beast
+1 Tireless Tracker
+1 Windswept Heath
+1 Scavenging Ooze
+1 Green Sun's Zenith
+1 Noble Hierarch
+1 Savannah
+1 Dryad Arbor
+2 Green Sun's Zenith
+2 Windswept Heath
+2 Noble Hierarch
+3 Green Sun's Zenith
+3 Windswept Heath
+4 Green Sun's Zenith
+2 Misty Rainforest
+3 Wasteland
+4 Wasteland
+1 Tropical Island
+1 Oko, Thief of Crowns
+2 Tropical Island
+2 Oko, Thief of Crowns
+3 Oko, Thief of Crowns
+3 Misty Rainforest
+1 Forest
+1 Horizon Canopy
+1 Knight of the Reliquary
+1 Plains
+1 Gaea's Cradle
+2 Knight of the Reliquary
+2 Savannah
+3 Knight of the Reliquary
+3 Noble Hierarch
+4 Knight of the Reliquary
+4 Windswept Heath
+4 Noble Hierarch
+4 Swords to Plowshares
 2 Ponder
 3 Ponder
 1 Bloodstained Mire
@@ -22,7 +61,7 @@
 3 Yuriko, the Tiger's Shadow
 4 Ponder
 4 Polluted Delta
-1 Misty Rainforest
+2 Snow-Covered Island
 1 Force of Negation
 1 Spell Pierce
 1 Island
@@ -30,41 +69,9 @@
 2 Brazen Borrower
 2 Spell Pierce
 3 Island
-1 Wasteland
-2 Wasteland
-3 Wasteland
-4 Wasteland
-1 Forest
-1 Questing Beast
-1 Tireless Tracker
-1 Horizon Canopy
-1 Windswept Heath
-1 Scavenging Ooze
-1 Knight of the Reliquary
-1 Green Sun's Zenith
-1 Noble Hierarch
-1 Savannah
-1 Dryad Arbor
-1 Plains
-1 Gaea's Cradle
-2 Green Sun's Zenith
-2 Knight of the Reliquary
-2 Windswept Heath
-2 Noble Hierarch
-2 Savannah
-3 Green Sun's Zenith
-3 Knight of the Reliquary
-3 Windswept Heath
-3 Noble Hierarch
-4 Green Sun's Zenith
-4 Knight of the Reliquary
-4 Windswept Heath
-4 Noble Hierarch
-4 Swords to Plowshares
 1 Daze
 2 Daze
 3 Daze
-2 Misty Rainforest
 1 Thoughtseize
 1 Swamp
 2 Bloodstained Mire
@@ -72,7 +79,10 @@
 1 Scalding Tarn
 2 Scalding Tarn
 1 Life from the Loam
-1 Tropical Island
+1 Gilded Goose
+1 Snow-Covered Forest
+1 Bayou
+2 Gilded Goose
 1 Kolaghan's Command
 1 Badlands
 1 Faithless Looting
@@ -96,23 +106,19 @@
 1 Grove of the Burnwillows
 1 Punishing Fire
 1 Taiga
-1 Gilded Goose
-1 Snow-Covered Forest
-1 Bayou
 1 Reclamation Sage
 1 Embereth Shieldbreaker
 1 Tin Street Hooligan
 1 Abrade
 1 Daretti, Ingenious Iconoclast
+1 Shenanigans
 1 Wurmcoil Engine
 1 Sword of Sinew and Steel
-1 Shenanigans
 1 Liquimetal Coating
 2 Taiga
 2 Dack Fayden
 2 Punishing Fire
 2 Grove of the Burnwillows
-2 Gilded Goose
 2 Reclamation Sage
 2 Embereth Shieldbreaker
 2 Liquimetal Coating
@@ -126,6 +132,23 @@
 4 Wooded Foothills
 4 Liquimetal Coating
 4 Tin Street Hooligan
+1 Abrupt Decay
+1 Leovold, Emissary of Trest
+1 Arcum's Astrolabe
+1 Teferi, Time Raveler
+1 Hexdrinker
+1 Ice-Fang Coatl
+1 Courser of Kruphix
+2 Leovold, Emissary of Trest
+2 Snow-Covered Forest
+2 Abrupt Decay
+2 Ice-Fang Coatl
+2 Teferi, Time Raveler
+2 Arcum's Astrolabe
+3 Arcum's Astrolabe
+3 Ice-Fang Coatl
+4 Ice-Fang Coatl
+4 Misty Rainforest
 1 Once Upon a Time
 2 Once Upon a Time
 1 Eternal Witness
@@ -135,16 +158,11 @@
 1 Bojuka Bog
 1 Sevinne's Reclamation
 1 Sylvan Library
-1 Oko, Thief of Crowns
 1 Dark Depths
 1 Sylvan Safekeeper
 2 Mox Diamond
-2 Tropical Island
-2 Oko, Thief of Crowns
 3 Once Upon a Time
 3 Mox Diamond
-3 Oko, Thief of Crowns
-3 Misty Rainforest
 1 Commandeer
 1 Gurmag Angler
 2 Gurmag Angler
@@ -167,8 +185,8 @@
 2 Thalia, Guardian of Thraben
 2 Stoneforge Mystic
 3 Verdant Catacombs
-3 Thalia, Guardian of Thraben
 3 Giver of Runes
+3 Thalia, Guardian of Thraben
 3 Savannah
 3 Stoneforge Mystic
 4 Giver of Runes
@@ -179,7 +197,6 @@
 2 Snow-Covered Swamp
 2 Changeling Outcast
 2 Preordain
-2 Snow-Covered Island
 3 Snow-Covered Island
 3 Changeling Outcast
 3 Preordain
@@ -267,9 +284,9 @@
 2 City of Traitors
 2 Ancient Tomb
 2 Karn, the Great Creator
+3 Karn, the Great Creator
 3 Ancient Tomb
 3 City of Traitors
-3 Karn, the Great Creator
 4 Karn, the Great Creator
 4 Ancient Tomb
 1 Elvish Spirit Guide

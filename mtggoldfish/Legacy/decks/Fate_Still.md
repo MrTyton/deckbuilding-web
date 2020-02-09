@@ -1,7 +1,7 @@
 # Fate Still
 
 #### [Export MTGO List](../collection/Fate%20Still/Fate%20Still.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Brainstorm%0A4%09Daze%0A4%09Delver%20of%20Secrets%0A3%09Flooded%20Strand%0A4%09Force%20of%20Will%0A4%09Island%0A4%09Lightning%20Bolt%0A4%09Mishra's%20Factory%0A4%09Phyrexian%20Dreadnought%0A4%09Polluted%20Delta%0A4%09Scroll%20of%20Fate%0A4%09Spell%20Pierce%0A4%09Standstill%0A4%09Stifle%0A2%09Volcanic%20Island%0A3%09Wasteland&deckside=2%09Abrade%0A2%09Agent%20of%20Treachery%0A1%09Blood%20Moon%0A2%09Dismember%0A2%09Engineered%20Explosives%0A3%09Red%20Elemental%20Blast%0A3%09Surgical%20Extraction)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Brainstorm%0A4%09Daze%0A4%09Delver%20of%20Secrets%0A3%09Flooded%20Strand%0A4%09Force%20of%20Will%0A4%09Island%0A4%09Lightning%20Bolt%0A4%09Mishra's%20Factory%0A4%09Phyrexian%20Dreadnought%0A4%09Polluted%20Delta%0A4%09Scroll%20of%20Fate%0A4%09Spell%20Pierce%0A4%09Standstill%0A4%09Stifle%0A2%09Volcanic%20Island%0A3%09Wasteland&deckside=2%09Abrade%0A2%09Agent%20of%20Treachery%0A1%09Brazen%20Borrower%0A2%09Dismember%0A2%09Engineered%20Explosives%0A3%09Red%20Elemental%20Blast%0A3%09Surgical%20Extraction)
 # Maindeck
 
 |                                       Artifact (4)                                        |                                          Creature (8)                                          |                                   Enchantment (4)                                    |                                      Instant (24)                                       |                                         Land (20)                                         |
@@ -16,20 +16,24 @@
 
 # Sideboard
 
-|                                          Artifact (2)                                           |                                         Creature (2)                                          |                                   Enchantment (1)                                    |                                          Instant (10)                                          |
-|-------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
-|2 [Engineered Explosives](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=50139)|2 [Agent of Treachery](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466797)|1 [Blood Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45386)|2 [Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)             |
-|                                                                                                 |                                                                                               |                                                                                      |2 [Dismember](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382182)          |
-|                                                                                                 |                                                                                               |                                                                                      |3 [Red Elemental Blast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=814)   |
-|                                                                                                 |                                                                                               |                                                                                      |3 [Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|
+|                                          Artifact (2)                                           |                                         Creature (3)                                          |                                          Instant (10)                                          |
+|-------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
+|2 [Engineered Explosives](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=50139)|2 [Agent of Treachery](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466797)|2 [Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)             |
+|                                                                                                 |1 [Brazen Borrower](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473001)   |2 [Dismember](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382182)          |
+|                                                                                                 |                                                                                               |3 [Red Elemental Blast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=814)   |
+|                                                                                                 |                                                                                               |3 [Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|
 
 
 # Other Options
 
-|*n*<sup>th</sup> copy|Maindeck Card|*n*<sup>th</sup> copy|                                       Sideboard Card                                        |
-|---------------------|-------------|--------------------:|---------------------------------------------------------------------------------------------|
-|                     |             |                    1|[Back to Basics](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456642)    |
-|                     |             |                    1|[Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)    |
-|                     |             |                    3|[Agent of Treachery](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466797)|
-|                     |             |                    2|[Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)    |
+|*n*<sup>th</sup> copy|                                     Maindeck Card                                      |*n*<sup>th</sup> copy|                                       Sideboard Card                                        |
+|--------------------:|----------------------------------------------------------------------------------------|--------------------:|---------------------------------------------------------------------------------------------|
+|                    1|[Spell Snare](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446100)  |                    1|[Dispel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401858)            |
+|                    1|[Scalding Tarn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405107)|                    1|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)          |
+|                    2|[Spell Snare](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446100)  |                    2|[Dispel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401858)            |
+|                    2|[Scalding Tarn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405107)|                    1|[Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)    |
+|                    3|[Spell Snare](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446100)  |                    1|[Back to Basics](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456642)    |
+|                    3|[Scalding Tarn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405107)|                    2|[Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)    |
+|                    4|[Spell Snare](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446100)  |                    3|[Agent of Treachery](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466797)|
+|                    4|[Scalding Tarn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405107)|                    1|[Blood Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45386)         |
 

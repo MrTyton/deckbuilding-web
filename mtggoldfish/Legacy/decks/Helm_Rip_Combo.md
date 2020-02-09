@@ -31,8 +31,11 @@
 
 |*n*<sup>th</sup> copy|                                       Maindeck Card                                       |*n*<sup>th</sup> copy|                                      Sideboard Card                                       |
 |--------------------:|-------------------------------------------------------------------------------------------|--------------------:|-------------------------------------------------------------------------------------------|
-|                    2|[Ancient Tomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409567)    |                    1|[Monastery Mentor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391883)|
-|                    3|[Misty Rainforest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405102)|                    2|[Monastery Mentor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391883)|
+|                    1|[Flusterstorm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=228255)    |                    2|[Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)  |
+|                    1|[Sylvan Library](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=2240)    |                    3|[Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)  |
+|                    2|[Flusterstorm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=228255)    |                    1|[Monastery Mentor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391883)|
+|                    2|[Ancient Tomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409567)    |                    2|[Monastery Mentor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391883)|
+|                    3|[Misty Rainforest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405102)|                     |                                                                                           |
 |                    3|[Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)  |                     |                                                                                           |
 |                    3|[Helm of Obedience](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3047) |                     |                                                                                           |
 |                    4|[Misty Rainforest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405102)|                     |                                                                                           |
