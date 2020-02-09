@@ -80,8 +80,8 @@
 |                     |                                                                                                   |                    3|[Prey Upon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423787)            |
 |                     |                                                                                                   |                    4|[Prey Upon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423787)            |
 |                     |                                                                                                   |                    1|[Doomfall](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430751)             |
-|                     |                                                                                                   |                    1|[Doom Blade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=247322)           |
 |                     |                                                                                                   |                    1|[Natural State](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407646)        |
+|                     |                                                                                                   |                    1|[Doom Blade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=247322)           |
 |                     |                                                                                                   |                    1|[Vine Mare](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447343)            |
 |                     |                                                                                                   |                    1|[Ratchet Bomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370623)         |
 

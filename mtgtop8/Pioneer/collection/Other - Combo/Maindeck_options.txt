@@ -54,6 +54,7 @@
 2 Wastes
 2 Mutavault
 2 Stonecoil Serpent
+2 Karn, Scion of Urza
 2 Mobilized District
 2 Fountain of Renewal
 2 Ratchet Bomb
@@ -63,7 +64,6 @@
 2 Blast Zone
 2 Zhalfirin Void
 2 Karn, the Great Creator
-2 Karn, Scion of Urza
 3 Blast Zone
 3 Stonecoil Serpent
 3 Mutavault
@@ -141,8 +141,8 @@
 1 Hour of Devastation
 2 Vessel of Nascency
 2 Hour of Devastation
-3 Emrakul, the Promised End
 3 Vessel of Nascency
+3 Emrakul, the Promised End
 3 Hour of Devastation
 4 Hour of Devastation
 1 Geier Reach Sanitarium
@@ -158,6 +158,7 @@
 4 Narset, Parter of Veils
 4 Island
 5 Island
+1 Port Town
 1 Glacial Fortress
 1 Azorius Charm
 1 Teferi, Hero of Dominaria
@@ -167,8 +168,8 @@
 1 Search for Azcanta
 1 Opt
 1 Dig Through Time
-1 Port Town
 1 Myth Realized
+2 Port Town
 2 Glacial Fortress
 2 Plains
 2 Teferi, Hero of Dominaria
@@ -179,10 +180,9 @@
 2 Search for Azcanta
 2 Myth Realized
 2 Opt
-2 Port Town
-3 Port Town
 3 Azorius Charm
 3 Supreme Verdict
+3 Port Town
 3 Glacial Fortress
 3 Plains
 3 Myth Realized
@@ -204,10 +204,10 @@
 1 Lovestruck Beast
 1 Captain Lannery Storm
 1 Bonecrusher Giant
+1 Vivien Reid
 1 Elvish Mystic
 1 Llanowar Elves
 1 Questing Beast
-1 Vivien Reid
 1 Domri Rade
 1 Chandra, Torch of Defiance
 1 Game Trail
@@ -246,8 +246,8 @@
 1 Sunken Hollow
 1 Fabled Passage
 1 Unsummon
-1 Fatal Push
 1 Drown in the Loch
+1 Fatal Push
 1 Notion Thief
 1 Cyclonic Rift
 1 Engulf the Shore

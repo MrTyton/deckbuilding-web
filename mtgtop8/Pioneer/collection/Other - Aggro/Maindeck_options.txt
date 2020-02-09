@@ -212,15 +212,15 @@
 1 Fatal Push
 2 Fatal Push
 3 Fatal Push
-1 Tithe Taker
+1 Dauntless Bodyguard
 1 Declaration in Stone
 1 Unbreakable Formation
+1 Tithe Taker
 1 Elspeth, Sun's Nemesis
-1 Dauntless Bodyguard
+2 Dauntless Bodyguard
 2 Elspeth, Sun's Nemesis
 2 Tithe Taker
 2 Declaration in Stone
-2 Dauntless Bodyguard
 3 Tithe Taker
 1 Woodland Cemetery
 2 Driven / Despair
@@ -246,9 +246,9 @@
 4 Elite Guardmage
 1 Uro, Titan of Nature's Wrath
 1 Tireless Tracker
-2 Uro, Titan of Nature's Wrath
-2 Scavenging Ooze
 2 Tireless Tracker
+2 Scavenging Ooze
+2 Uro, Titan of Nature's Wrath
 3 Tireless Tracker
 4 Botanical Sanctum
 4 Tireless Tracker
@@ -304,21 +304,21 @@
 1 Brain Maggot
 1 Ultimate Price
 1 Lyra Dawnbringer
-1 Fairgrounds Warden
 1 Liliana, the Last Hope
 1 Silkwrap
 1 Thoughtseize
 1 Thought-Knot Seer
 1 Baffling End
+1 Fairgrounds Warden
 2 Shefet Dunes
 2 Ifnir Deadlands
 2 Wasteland Strangler
 2 Brain Maggot
 2 Shambling Vent
 2 Ultimate Price
-2 Fairgrounds Warden
 2 Lyra Dawnbringer
 2 Thought-Knot Seer
+2 Fairgrounds Warden
 2 Ravenous Chupacabra
 2 Thoughtseize
 2 Liliana, the Last Hope
@@ -330,18 +330,18 @@
 4 Mutavault
 4 Thought-Knot Seer
 4 Wasteland Strangler
+1 Vraska, Golgari Queen
 1 Castle Locthwain
 1 Assassin's Trophy
 1 Mayhem Devil
-1 Vraska, Golgari Queen
 1 Sylvan Caryatid
 1 Korvold, Fae-Cursed King
 1 Cauldron Familiar
 1 Trail of Crumbs
 1 Fabled Passage
 1 Witch's Oven
-2 Vraska, Golgari Queen
 2 Assassin's Trophy
+2 Vraska, Golgari Queen
 2 Murderous Rider
 2 Mayhem Devil
 2 Witch's Oven
@@ -350,20 +350,20 @@
 2 Trail of Crumbs
 2 Sylvan Caryatid
 2 Fabled Passage
+3 Gilded Goose
 3 Korvold, Fae-Cursed King
 3 Mayhem Devil
 3 Fabled Passage
 3 Sylvan Caryatid
-3 Gilded Goose
 3 Cauldron Familiar
 3 Trail of Crumbs
 3 Witch's Oven
 3 Murderous Rider
+4 Gilded Goose
 4 Fabled Passage
 4 Sylvan Caryatid
 4 Trail of Crumbs
 4 Cauldron Familiar
-4 Gilded Goose
 4 Witch's Oven
 4 Mayhem Devil
 1 Renegade Rallier
@@ -490,20 +490,20 @@
 4 Glacial Fortress
 4 Island
 1 Cloudblazer
-1 Angel of Invention
-1 Dusk / Dawn
 1 Selfless Spirit
+1 Angel of Invention
 1 Oketra's Monument
 1 Castle Ardenvale
+1 Dusk / Dawn
 2 Cloudblazer
 2 Angel of Invention
+2 Selfless Spirit
 2 Dusk / Dawn
 2 Westvale Abbey
-2 Selfless Spirit
 2 Oketra's Monument
 3 Cloudblazer
-3 Angel of Invention
 3 Deputy of Detention
+3 Angel of Invention
 3 Selfless Spirit
 3 Oketra's Monument
 4 Militia Bugler
@@ -520,12 +520,12 @@
 1 Witching Well
 1 Nykthos, Shrine to Nyx
 1 Leyline of Anticipation
-1 Ashiok's Erasure
 1 Agent of Treachery
 1 Thassa, Deep-Dwelling
 1 Thassa, God of the Sea
 1 Temple of Enlightenment
 1 Gadwick, the Wizened
+1 Ashiok's Erasure
 1 Mystical Dispute
 2 Omen of the Sea
 2 Witching Well
@@ -533,9 +533,9 @@
 2 Nykthos, Shrine to Nyx
 2 Thassa's Oracle
 2 Agent of Treachery
-2 Ashiok's Erasure
 2 Temple of Enlightenment
 2 Gadwick, the Wizened
+2 Ashiok's Erasure
 2 Thassa, Deep-Dwelling
 2 Thassa, God of the Sea
 3 Witching Well

@@ -79,6 +79,6 @@
 |                    2|[Dig Through Time](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386518)          |                    1|[Tablet of the Guilds](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=270355)      |
 |                    3|[Crackling Drake](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452913)           |                    2|[Tablet of the Guilds](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=270355)      |
 |                    3|[Dig Through Time](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386518)          |                    3|[Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)                    |
-|                    4|[Dig Through Time](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386518)          |                    3|[Tablet of the Guilds](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=270355)      |
-|                    5|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)                    |                    4|[Tablet of the Guilds](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=270355)      |
+|                    5|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)                    |                    3|[Tablet of the Guilds](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=270355)      |
+|                    4|[Dig Through Time](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386518)          |                    4|[Tablet of the Guilds](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=270355)      |
 

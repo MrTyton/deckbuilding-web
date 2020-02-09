@@ -52,10 +52,10 @@
 1 Satyr Wayfinder
 1 Ipnu Rivulet
 1 Island
-2 Ipnu Rivulet
 2 Satyr Wayfinder
-3 Ipnu Rivulet
+2 Ipnu Rivulet
 3 Satyr Wayfinder
+3 Ipnu Rivulet
 1 Courser of Kruphix
 1 Lumbering Falls
 2 Lumbering Falls
@@ -64,8 +64,6 @@
 2 Temple of Mystery
 2 Golos, Tireless Pilgrim
 3 Golos, Tireless Pilgrim
-1 Perilous Vault
-4 Satyr Wayfinder
 4 Nissa, Who Shakes the World
 1 Haven of the Spirit Dragon
 3 Elvish Mystic
@@ -84,5 +82,7 @@
 1 Hour of Promise
 2 Hour of Promise
 2 Spatial Contortion
-4 Hashep Oasis
 3 Hour of Promise
+4 Hashep Oasis
+1 Perilous Vault
+4 Satyr Wayfinder
