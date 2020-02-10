@@ -11,7 +11,6 @@
 1 Putrid Imp
 2 Putrid Imp
 3 Putrid Imp
-1 Snow-Covered Swamp
 1 Nurturing Peatland
 1 Badlands
 1 Faithless Looting
@@ -20,6 +19,8 @@
 3 Faithless Looting
 4 Faithless Looting
 4 Putrid Imp
+1 Snow-Covered Swamp
+1 Watery Grave
 3 Badlands
 4 Bloodstained Mire
 1 Overgrown Tomb
@@ -27,7 +28,6 @@
 4 Marsh Flats
 1 Blood Crypt
 2 Snow-Covered Swamp
-1 Watery Grave
 2 Watery Grave
 3 Watery Grave
 1 Wooded Foothills
@@ -40,9 +40,9 @@
 2 Bitterblossom
 3 Bitterblossom
 4 Bitterblossom
-1 Satyr Wayfinder
 1 Forest
 1 Prismatic Vista
+1 Satyr Wayfinder
 2 Prismatic Vista
 2 Satyr Wayfinder
 3 Satyr Wayfinder

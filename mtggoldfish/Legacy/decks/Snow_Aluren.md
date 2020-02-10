@@ -39,7 +39,7 @@
 |                    2|[Cabal Therapy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413625)       |                    1|[Leovold, Emissary of Trest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416834)|
 |                    2|[Watcher for Tomorrow](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464025)|                    1|[Force of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464001)         |
 |                    2|[Tropical Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=884)        |                    2|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)       |
-|                    3|[Verdant Catacombs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405113)   |                    2|[Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)              |
-|                    3|[Prismatic Vista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464193)     |                     |                                                                                                     |
+|                    3|[Prismatic Vista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464193)     |                    2|[Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)              |
+|                    3|[Verdant Catacombs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405113)   |                     |                                                                                                     |
 |                    3|[Watcher for Tomorrow](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464025)|                     |                                                                                                     |
 

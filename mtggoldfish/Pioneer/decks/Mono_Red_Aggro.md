@@ -39,6 +39,6 @@
 |                    3|[Bomat Courier](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417772)             |                     |              |
 |                    4|[Bomat Courier](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417772)             |                     |              |
 |                    1|[Ahn-Crop Crasher](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426819)          |                     |              |
-|                    3|[Torbran, Thane of Red Fell](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473109)|                     |              |
 |                    1|[Kari Zev, Skyship Raider](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423754)  |                     |              |
+|                    3|[Torbran, Thane of Red Fell](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473109)|                     |              |
 

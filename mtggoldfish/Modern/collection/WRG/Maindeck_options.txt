@@ -1,3 +1,6 @@
+2 Plains
+1 Arid Mesa
+1 Sacred Foundry
 2 Wooded Foothills
 3 Wooded Foothills
 2 Stomping Ground
@@ -14,15 +17,15 @@
 1 Boros Charm
 1 Bloodstained Mire
 1 Wild Nacatl
-1 Eidolon of the Great Revel
 1 Searing Blaze
+1 Eidolon of the Great Revel
 1 Goblin Guide
 1 Atarka's Command
 1 Rift Bolt
 1 Lava Spike
 1 Monastery Swiftspear
-2 Sacred Foundry
 2 Boros Charm
+2 Sacred Foundry
 2 Bloodstained Mire
 2 Wild Nacatl
 2 Eidolon of the Great Revel
@@ -34,39 +37,40 @@
 3 Boros Charm
 3 Bloodstained Mire
 3 Wild Nacatl
+3 Searing Blaze
 3 Eidolon of the Great Revel
 3 Lava Spike
 3 Monastery Swiftspear
 3 Copperline Gorge
 3 Goblin Guide
 3 Atarka's Command
-3 Searing Blaze
 4 Boros Charm
 4 Bloodstained Mire
 4 Wild Nacatl
-4 Eidolon of the Great Revel
 4 Searing Blaze
+4 Eidolon of the Great Revel
+4 Atarka's Command
 4 Copperline Gorge
 4 Monastery Swiftspear
 4 Lava Spike
 4 Goblin Guide
-4 Atarka's Command
+1 Viridian Longbow
 1 Verdant Catacombs
 1 Godless Shrine
 2 Verdant Catacombs
-2 Ranger-Captain of Eos
 1 Postmortem Lunge
 2 Postmortem Lunge
 3 Postmortem Lunge
 4 Vizier of Remedies
 3 Birds of Paradise
 4 Birds of Paradise
-4 Wooded Foothills
 1 Scavenging Ooze
+4 Wooded Foothills
 4 Razorverge Thicket
+1 Sword of Fire and Ice
 1 Path to Exile
-1 Seasoned Pyromancer
 1 Kiki-Jiki, Mirror Breaker
+1 Seasoned Pyromancer
 1 Chord of Calling
 1 Magus of the Moon
 1 Eidolon of Rhetoric
@@ -79,22 +83,18 @@
 3 Restoration Angel
 4 Chord of Calling
 1 Snow-Covered Forest
-4 Stoneforge Mystic
 1 Snow-Covered Plains
 2 Path to Exile
 2 Snow-Covered Forest
 1 Sunbaked Canyon
-2 Plains
 2 Scavenging Ooze
 1 Lightning Greaves
-1 Viridian Longbow
 3 Verdant Catacombs
 1 Relic of Progenitus
 1 Searing Blood
-2 Rift Bolt
 1 Wrenn and Six
 2 Wrenn and Six
-1 Sword of Fire and Ice
+2 Rift Bolt
 1 Grove of the Burnwillows
 2 Grove of the Burnwillows
 3 Grove of the Burnwillows
@@ -149,8 +149,8 @@
 1 Selfless Spirit
 1 Wall of Roots
 2 Relic of Progenitus
-1 Phyrexian Revoker
 1 Marsh Flats
+1 Phyrexian Revoker
 2 Marsh Flats
 3 Ranger-Captain of Eos
 1 Grim Lavamancer
@@ -159,6 +159,9 @@
 2 Simian Spirit Guide
 3 Simian Spirit Guide
 3 Eldritch Evolution
+1 Misty Rainforest
+2 Misty Rainforest
+3 Temple Garden
 1 Gavony Township
 1 Deputy of Detention
 1 Teferi, Time Raveler

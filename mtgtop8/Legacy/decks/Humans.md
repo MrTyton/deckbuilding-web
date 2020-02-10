@@ -49,6 +49,6 @@
 |                    1|[Phantasmal Image](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220099)             |                    1|[Meddling Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=179547)      |
 |                    2|[Phantasmal Image](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220099)             |                    2|[Dismember](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382182)          |
 |                    4|[Unclaimed Territory](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435419)          |                    2|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|
-|                     |                                                                                                        |                    2|[Containment Priest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389470) |
 |                     |                                                                                                        |                    3|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|
+|                     |                                                                                                        |                    2|[Containment Priest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389470) |
 

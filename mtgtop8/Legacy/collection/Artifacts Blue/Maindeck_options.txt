@@ -34,6 +34,7 @@
 3 Oko, Thief of Crowns
 1 Tundra
 1 Stoneforge Mystic
+1 True-Name Nemesis
 1 Batterskull
 1 Umezawa's Jitte
 1 Brainstorm
@@ -49,9 +50,9 @@
 1 Wasteland
 1 Misty Rainforest
 1 Flooded Strand
-1 True-Name Nemesis
 1 Forest
 1 Swords to Plowshares
+2 Tundra
 2 Stoneforge Mystic
 2 Ponder
 2 Windswept Heath
@@ -64,13 +65,12 @@
 2 Wasteland
 2 Brainstorm
 2 Flooded Strand
-2 Tundra
 2 Misty Rainforest
 3 Flooded Strand
 3 Arcum's Astrolabe
-3 True-Name Nemesis
 3 Sylvan Library
 3 Stoneforge Mystic
+3 True-Name Nemesis
 3 Wasteland
 3 Ice-Fang Coatl
 3 Misty Rainforest
@@ -90,7 +90,6 @@
 2 Defense Grid
 2 Sai, Master Thopterist
 3 Defense Grid
-8 Island
 1 Engineered Explosives
 1 Spire of Industry
 1 Glimmervoid
@@ -99,3 +98,4 @@
 3 Glimmervoid
 4 Baleful Strix
 4 Glimmervoid
+8 Island
