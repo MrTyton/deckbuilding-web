@@ -5,19 +5,19 @@
 2 Languish
 3 Torrential Gearhulk
 2 Hieroglyphic Illumination
-1 Narset, Parter of Veils
-1 Liliana's Triumph
-2 Castle Locthwain
-1 Blast Zone
-1 Cast Down
 1 Sinister Sabotage
 2 Sinister Sabotage
+1 Narset, Parter of Veils
+1 Blast Zone
+2 Castle Locthwain
+1 Cast Down
+1 Murderous Rider
+1 Liliana's Triumph
+3 Field of Ruin
 2 Castle Vantress
 1 Hero's Downfall
 2 Narset, Parter of Veils
 2 Kalitas, Traitor of Ghet
-1 Murderous Rider
-3 Field of Ruin
 1 Disallow
 3 Sinister Sabotage
 3 Hieroglyphic Illumination
@@ -40,19 +40,20 @@
 2 Quench
 4 Hieroglyphic Illumination
 2 Cast Down
+4 Fabled Passage
 1 Westvale Abbey
 1 Jace, Unraveler of Secrets
-1 Collective Brutality
 4 Dig Through Time
-4 Fabled Passage
+1 Collective Brutality
 1 Ultimate Price
 1 Liliana, Death's Majesty
 1 Ashiok, Nightmare Muse
-1 Cry of the Carnarium
-2 Ashiok, Nightmare Muse
 1 Thought Erasure
 2 Thought Erasure
+1 Cry of the Carnarium
+2 Ashiok, Nightmare Muse
 1 Ritual of Soot
+2 Murderous Rider
 1 Temple of Deceit
 1 Commit/Memory
 1 Mystic Sanctuary
@@ -68,8 +69,8 @@
 2 Fae of Wishes
 3 Fae of Wishes
 1 Jace, Architect of Thought
-1 Sunken Hollow
 1 Murderous Cut
+1 Sunken Hollow
 1 Drownyard Temple
 1 Jace's Triumph
 1 Silumgar's Command
@@ -78,8 +79,15 @@
 3 Languish
 3 Liliana, the Last Hope
 3 Disallow
-1 Omen of the Sea
+1 Discovery/Dispersal
+1 Eat to Extinction
+1 Disinformation Campaign
+2 Discovery/Dispersal
+2 Disinformation Campaign
+3 Discovery/Dispersal
+3 Disinformation Campaign
 1 Thirst for Meaning
+1 Omen of the Sea
 2 Thirst for Meaning
 2 Omen of the Sea
 3 Omen of the Sea
@@ -92,7 +100,6 @@
 3 Temple of Deceit
 4 Temple of Deceit
 1 Thief of Sanity
-2 Murderous Rider
 2 Thief of Sanity
 3 Thief of Sanity
 4 Thief of Sanity

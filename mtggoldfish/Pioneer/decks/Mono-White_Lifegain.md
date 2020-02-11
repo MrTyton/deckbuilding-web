@@ -33,9 +33,9 @@
 |*n*<sup>th</sup> copy|                                            Maindeck Card                                             |*n*<sup>th</sup> copy|Sideboard Card|
 |--------------------:|------------------------------------------------------------------------------------------------------|---------------------|--------------|
 |                    3|[Linden, the Steadfast Queen](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472982)|                     |              |
-|                    3|[Benalish Marshal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442894)           |                     |              |
 |                    3|[Archangel of Thune](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438574)         |                     |              |
 |                    3|[Knight of the White Orchid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=178094) |                     |              |
+|                    3|[Benalish Marshal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442894)           |                     |              |
 |                    4|[Knight of the White Orchid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=178094) |                     |              |
 |                    4|[Archangel of Thune](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438574)         |                     |              |
 

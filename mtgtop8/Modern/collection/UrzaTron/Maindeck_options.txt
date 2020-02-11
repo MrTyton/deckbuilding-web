@@ -1,5 +1,6 @@
-1 Emrakul, the Promised End
 2 Thragtusk
+1 World Breaker
+1 Once Upon a Time
 1 Ugin, the Ineffable
 1 Chalice of the Void
 2 Chalice of the Void
@@ -29,11 +30,12 @@
 4 Surge Node
 4 Astral Cornucopia
 4 Coretapper
-1 Once Upon a Time
 1 Wastes
+1 Emrakul, the Promised End
 1 Snow-Covered Forest
 4 Oblivion Stone
-1 World Breaker
+2 Once Upon a Time
+3 Once Upon a Time
 1 Relic of Progenitus
 2 Relic of Progenitus
 4 Wurmcoil Engine
@@ -41,12 +43,11 @@
 3 Ugin, the Ineffable
 4 Mystic Forge
 1 Buried Ruin
-2 Once Upon a Time
-3 Once Upon a Time
+4 Once Upon a Time
 1 Thought-Knot Seer
 2 Thought-Knot Seer
+1 Nurturing Peatland
 4 Ugin, the Ineffable
-4 Once Upon a Time
 1 Dismember
 3 Thought-Knot Seer
 1 Island
@@ -59,11 +60,11 @@
 1 Thirst for Knowledge
 1 Repeal
 1 Academy Ruins
+2 Repeal
 2 Remand
 2 Island
 2 Condescend
 2 Thirst for Knowledge
-2 Repeal
 3 Island
 3 Condescend
 3 Thirst for Knowledge
@@ -91,7 +92,6 @@
 4 Reality Smasher
 4 Thought-Knot Seer
 5 Forest
-1 Nurturing Peatland
 1 Horizon Canopy
 1 Ensnaring Bridge
 1 Spine of Ish Sah
@@ -107,6 +107,7 @@
 1 Snow-Covered Island
 1 Teferi, Time Raveler
 1 Hallowed Fountain
+1 Sphinx's Revelation
 1 Day of Judgment
 1 Batterskull
 1 Supreme Verdict
@@ -116,7 +117,6 @@
 1 Wrath of God
 1 Unburial Rites
 1 Golos, Tireless Pilgrim
-1 Sphinx's Revelation
 1 Iona, Shield of Emeria
 1 Azorius Signet
 1 Cascading Cataracts
@@ -124,12 +124,12 @@
 1 Dream Trawler
 1 Castle Vantress
 1 Gifts Ungiven
-1 Fact or Fiction
 1 Celestial Colonnade
 1 Emrakul, the Aeons Torn
 1 Plains
 1 Elspeth, Sun's Champion
 1 Path to Exile
+1 Fact or Fiction
 2 Champion of Wits
 2 Azorius Signet
 2 Path to Exile
@@ -151,9 +151,10 @@
 1 Gilded Goose
 1 Uro, Titan of Nature's Wrath
 1 Ice-Fang Coatl
-1 Engineered Explosives
 1 Tormod's Crypt
+1 Engineered Explosives
 1 Mox Amber
+1 Arcum's Astrolabe
 1 Cryptic Command
 1 Emry, Lurker of the Loch
 1 Aether Spellbomb
@@ -162,9 +163,9 @@
 1 Urza, Lord High Artificer
 1 Polluted Delta
 1 Mishra's Bauble
-1 Arcum's Astrolabe
-2 Gilded Goose
+2 Engineered Explosives
 2 Breeding Pool
+2 Gilded Goose
 2 Metallic Rebuke
 2 Uro, Titan of Nature's Wrath
 2 Ice-Fang Coatl
@@ -179,40 +180,39 @@
 2 Mishra's Bauble
 2 Polluted Delta
 2 Scalding Tarn
-2 Engineered Explosives
-3 Scalding Tarn
+3 Misty Rainforest
 3 Gilded Goose
-3 Cryptic Command
 3 Uro, Titan of Nature's Wrath
+3 Cryptic Command
 3 Engineered Explosives
 3 Metallic Rebuke
 3 Ice-Fang Coatl
-3 Misty Rainforest
+3 Scalding Tarn
 3 Arcum's Astrolabe
 3 Mishra's Bauble
 3 Emry, Lurker of the Loch
 3 Snow-Covered Island
 3 Urza, Lord High Artificer
-4 Gilded Goose
+4 Misty Rainforest
 4 Scalding Tarn
+4 Gilded Goose
 4 Ice-Fang Coatl
 4 Urza, Lord High Artificer
 4 Snow-Covered Island
 4 Emry, Lurker of the Loch
 4 Mishra's Bauble
-4 Misty Rainforest
 4 Arcum's Astrolabe
 5 Snow-Covered Island
 1 Treasure Mage
 1 Trinket Mage
-1 Spatial Contortion
 1 Mindslaver
+1 Spatial Contortion
 1 Fabricate
 1 Myr Battlesphere
 2 Dismember
+4 Island
 4 Thirst for Knowledge
 4 Condescend
-4 Island
 5 Island
 6 Island
 7 Island

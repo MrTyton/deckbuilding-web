@@ -12,9 +12,9 @@
 1 Temple Garden
 1 Ugin, the Ineffable
 1 Plains
+1 Tireless Tracker
 1 Spirebluff Canal
 1 Nahiri, the Harbinger
-1 Tireless Tracker
 2 Nahiri, the Harbinger
 3 Breeding Pool
 3 Nahiri, the Harbinger
@@ -36,24 +36,24 @@
 2 Field of Ruin
 1 Wastes
 1 Heart of Kiran
-1 Mutavault
 1 Karn, Scion of Urza
+1 Mutavault
 1 Mobilized District
 1 Zhalfirin Void
 1 Sea Gate Wreckage
 1 Darksteel Citadel
 1 Stonecoil Serpent
 1 Warping Wail
-1 Ratchet Bomb
 1 Fountain of Renewal
+1 Ratchet Bomb
 1 Spatial Contortion
 1 Scrap Trawler
 1 Blast Zone
 1 Foundry of the Consuls
 1 Karn, the Great Creator
 2 Wastes
-2 Mutavault
 2 Stonecoil Serpent
+2 Mutavault
 2 Karn, Scion of Urza
 2 Mobilized District
 2 Fountain of Renewal
@@ -86,8 +86,8 @@
 4 Karn, Scion of Urza
 1 Hallowed Fountain
 1 Teferi, Time Raveler
-2 Teferi, Time Raveler
 2 Hallowed Fountain
+2 Teferi, Time Raveler
 3 Hallowed Fountain
 3 Teferi, Time Raveler
 4 Hallowed Fountain
@@ -95,9 +95,9 @@
 1 Oko, Thief of Crowns
 1 Once Upon a Time
 1 Mox Amber
-1 Mana Confluence
-1 Lazav, the Multifarious
 1 Urborg, Tomb of Yawgmoth
+1 Lazav, the Multifarious
+1 Mana Confluence
 1 Emry, Lurker of the Loch
 1 Jace, Wielder of Mysteries
 1 Terrarion
@@ -111,34 +111,34 @@
 2 Mox Amber
 2 Temple Garden
 2 Emry, Lurker of the Loch
-2 Mana Confluence
-2 Once Upon a Time
 2 Lazav, the Multifarious
+2 Once Upon a Time
 2 Blooming Marsh
 2 Kethis, the Hidden Hand
+2 Mana Confluence
 2 Diligent Excavator
 2 Oath of Nissa
 3 Mox Amber
 3 Emry, Lurker of the Loch
-3 Mana Confluence
 3 Lazav, the Multifarious
 3 Once Upon a Time
+3 Mana Confluence
 3 Diligent Excavator
 3 Oath of Nissa
 3 Hope of Ghirapur
 3 Blooming Marsh
 3 Kethis, the Hidden Hand
-4 Once Upon a Time
 4 Mox Amber
 4 Emry, Lurker of the Loch
+4 Once Upon a Time
 4 Diligent Excavator
 4 Oath of Nissa
 4 Hope of Ghirapur
 4 Blooming Marsh
 4 Kethis, the Hidden Hand
 4 Mana Confluence
-1 Vessel of Nascency
 1 Hour of Devastation
+1 Vessel of Nascency
 2 Vessel of Nascency
 2 Hour of Devastation
 3 Vessel of Nascency
@@ -149,9 +149,9 @@
 1 Day's Undoing
 1 Narset, Parter of Veils
 2 Geier Reach Sanitarium
-2 Day's Undoing
 2 Narset, Parter of Veils
 2 Island
+2 Day's Undoing
 3 Narset, Parter of Veils
 3 Day's Undoing
 3 Island
@@ -180,16 +180,16 @@
 2 Search for Azcanta
 2 Myth Realized
 2 Opt
+3 Plains
 3 Port Town
 3 Azorius Charm
 3 Supreme Verdict
 3 Glacial Fortress
-3 Plains
 3 Myth Realized
 3 Opt
+4 Plains
 4 Supreme Verdict
 4 Glacial Fortress
-4 Plains
 4 Opt
 4 Azorius Charm
 4 Myth Realized
@@ -201,42 +201,42 @@
 1 Enter the Infinite
 1 Borborygmos Enraged
 1 Glorybringer
-1 Lovestruck Beast
-1 Captain Lannery Storm
-1 Bonecrusher Giant
 1 Elvish Mystic
+1 Captain Lannery Storm
 1 Llanowar Elves
+1 Vivien Reid
+1 Lovestruck Beast
+1 Bonecrusher Giant
 1 Questing Beast
 1 Domri Rade
 1 Chandra, Torch of Defiance
 1 Game Trail
-1 Vivien Reid
 2 Possibility Storm
 2 Kiora, Behemoth Beckoner
 2 Glorybringer
+2 Elvish Mystic
 2 Lovestruck Beast
+2 Llanowar Elves
 2 Rosethorn Acolyte
 2 Captain Lannery Storm
-2 Elvish Mystic
 2 Bonecrusher Giant
-2 Llanowar Elves
 2 Domri Rade
 2 Mountain
 2 Game Trail
 3 Possibility Storm
 3 Kiora, Behemoth Beckoner
 3 Glorybringer
-3 Llanowar Elves
 3 Elvish Mystic
 3 Lovestruck Beast
+3 Llanowar Elves
 3 Bonecrusher Giant
 3 Rootbound Crag
 3 Mountain
 4 Possibility Storm
-4 Llanowar Elves
 4 Elvish Mystic
 4 Lovestruck Beast
 4 Bonecrusher Giant
+4 Llanowar Elves
 4 Rootbound Crag
 5 Forest
 6 Forest
@@ -260,8 +260,8 @@
 1 Watery Grave
 1 Dakra Mystic
 2 Drowned Catacomb
-2 Brazen Borrower
 2 Cyclonic Rift
+2 Brazen Borrower
 2 Dictate of Kruphix
 2 Fabled Passage
 2 Fatal Push

@@ -32,13 +32,13 @@
 
 |*n*<sup>th</sup> copy|                                         Maindeck Card                                         |*n*<sup>th</sup> copy|Sideboard Card|
 |--------------------:|-----------------------------------------------------------------------------------------------|---------------------|--------------|
-|                    1|[Selfless Spirit](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414332)     |                     |              |
 |                    1|[Teferi, Time Raveler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461148)|                     |              |
-|                    2|[Selfless Spirit](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414332)     |                     |              |
-|                    2|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)              |                     |              |
+|                    1|[Selfless Spirit](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414332)     |                     |              |
 |                    2|[Teferi, Time Raveler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461148)|                     |              |
-|                    3|[Selfless Spirit](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414332)     |                     |              |
+|                    2|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)              |                     |              |
+|                    2|[Selfless Spirit](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414332)     |                     |              |
 |                    3|[Teferi, Time Raveler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461148)|                     |              |
+|                    3|[Selfless Spirit](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414332)     |                     |              |
 |                    3|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)              |                     |              |
 |                    4|[Selfless Spirit](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414332)     |                     |              |
 |                   10|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)              |                     |              |

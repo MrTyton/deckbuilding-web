@@ -19,8 +19,8 @@
 1 Desolate Lighthouse
 1 Electrolyze
 1 Thing in the Ice
-2 Thing in the Ice
 2 Electrolyze
+2 Thing in the Ice
 2 Misty Rainforest
 3 Thing in the Ice
 3 Misty Rainforest
@@ -43,8 +43,8 @@
 3 Electrodominance
 3 As Foretold
 3 Crashing Footfalls
-4 Crashing Footfalls
 4 As Foretold
+4 Crashing Footfalls
 7 Island
 4 Ancestral Vision
 2 Flooded Strand
@@ -125,14 +125,14 @@
 1 Burst Lightning
 1 Deprive
 1 Panoptic Mirror
+1 Isochron Scepter
 1 Delver of Secrets
 1 Logic Knot
-1 Isochron Scepter
 1 Peek
 2 Delver of Secrets
 2 Deprive
-3 Delver of Secrets
 3 Spell Snare
+3 Delver of Secrets
 4 Delver of Secrets
 1 Grapeshot
 1 Lonely Sandbar
@@ -142,21 +142,21 @@
 1 Twiddle
 1 Ideas Unbound
 1 Shivan Reef
+1 Merchant Scroll
 1 Psychic Puppetry
 1 Reach Through Mists
-1 Merchant Scroll
 1 Sleight of Hand
 1 Peer Through Depths
 1 Lotus Field
 2 Past in Flames
 2 Lonely Sandbar
 2 Psychic Puppetry
+2 Ideas Unbound
+2 Lotus Field
 2 Reach Through Mists
 2 Dream's Grip
 2 Sleight of Hand
 2 Peer Through Depths
-2 Ideas Unbound
-2 Lotus Field
 2 Twiddle
 3 Psychic Puppetry
 3 Tolaria West
@@ -184,24 +184,24 @@
 2 The Royal Scions
 2 Silvergill Adept
 2 Merfolk Trickster
-2 Lord of Atlantis
 2 Vendilion Clique
 2 Faerie Conclave
 2 Master of the Pearl Trident
+2 Lord of Atlantis
 3 Fiery Islet
 3 Lord of Atlantis
 3 Merfolk Trickster
 3 Silvergill Adept
 3 Master of the Pearl Trident
-3 Faerie Conclave
 3 Mutavault
+3 Faerie Conclave
 4 Cryptic Command
 4 Brazen Borrower
 4 Fiery Islet
 4 Polluted Delta
 4 Lord of Atlantis
-4 Merfolk Trickster
 4 Master of the Pearl Trident
+4 Merfolk Trickster
 4 Silvergill Adept
 4 Mutavault
 2 Izzet Charm
@@ -221,10 +221,10 @@
 2 Castle Vantress
 2 Exhaustion
 2 Howling Mine
-3 Howling Mine
 3 Exhaustion
 3 Savor the Moment
+3 Howling Mine
 3 Fires of Invention
-4 Savor the Moment
 4 Fires of Invention
+4 Savor the Moment
 4 Mystic Sanctuary

@@ -51,7 +51,7 @@
 |                    2|[Thought Scour](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=380203)      |                     |                                                                                              |
 |                    3|[Scalding Tarn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405107)      |                     |                                                                                              |
 |                    3|[Silence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=191083)            |                     |                                                                                              |
-|                    4|[Scalding Tarn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405107)      |                     |                                                                                              |
-|                    4|[Silence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=191083)            |                     |                                                                                              |
 |                    3|[Thought Scour](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=380203)      |                     |                                                                                              |
+|                    4|[Silence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=191083)            |                     |                                                                                              |
+|                    4|[Scalding Tarn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405107)      |                     |                                                                                              |
 

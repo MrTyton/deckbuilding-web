@@ -1,54 +1,31 @@
-2 Fabled Passage
-3 Fatal Push
-3 Thoughtseize
-3 Swamp
-4 Fatal Push
-4 Thoughtseize
-4 Llanowar Wastes
-4 Forest
-5 Forest
-1 Nykthos, Shrine to Nyx
-1 Thorn Lieutenant
-2 Thorn Lieutenant
-1 Unclaimed Territory
-1 Gnarlroot Trapper
-2 Unclaimed Territory
-2 Gnarlroot Trapper
-3 Gnarlroot Trapper
-1 Temple of Malady
-2 Temple of Malady
-3 Fabled Passage
-1 Traverse the Ulvenwald
+1 Swamp
+1 Tireless Tracker
 1 Liliana, the Last Hope
 1 Emrakul, the Promised End
-1 Walking Ballista
+1 Abrupt Decay
+1 Courser of Kruphix
+1 Murderous Rider
 1 Castle Locthwain
 2 Traverse the Ulvenwald
+2 Courser of Kruphix
 2 Liliana, the Last Hope
+2 Field of Ruin
+2 Murderous Rider
+2 Thoughtseize
+2 Fatal Push
+2 Swamp
 2 Tireless Tracker
 2 Walking Ballista
+2 Fabled Passage
+3 Fatal Push
 3 Traverse the Ulvenwald
+3 Thoughtseize
 3 Courser of Kruphix
+3 Fabled Passage
+3 Swamp
+4 Fatal Push
 4 Fabled Passage
-1 Dark Petition
-1 Vraska's Contempt
-1 Seasons Past
-2 Dark Petition
-1 Scavenging Ooze
-6 Forest
-1 Woodland Cemetery
-2 Hissing Quagmire
-2 Assassin's Trophy
-4 Swamp
-1 Lovestruck Beast
-2 Lovestruck Beast
-3 Lovestruck Beast
-4 Lovestruck Beast
-1 Vraska, Golgari Queen
-1 Cast Down
-1 Hangarback Walker
-2 Cast Down
-2 Abrupt Decay
+4 Thoughtseize
 1 Chord of Calling
 2 Chord of Calling
 3 Chord of Calling
@@ -58,48 +35,31 @@
 3 Wildborn Preserver
 3 Thorn Lieutenant
 4 Thorn Lieutenant
-1 Languish
-1 Nissa's Pilgrimage
-1 Pulse of Murasa
-2 Languish
-3 Temple of Malady
-3 Murderous Rider
-3 Dark Petition
-3 Hissing Quagmire
+1 Vraska, Golgari Queen
+1 Temple of Malady
+1 Cast Down
+1 Hangarback Walker
+2 Cast Down
+2 Abrupt Decay
+2 Temple of Malady
 1 Elvish Visionary
 2 Elvish Visionary
 3 Elvish Visionary
 4 Elvish Visionary
+4 Forest
+5 Forest
 1 Grim Flayer
 2 Grim Flayer
-2 Woodland Cemetery
-3 Woodland Cemetery
-5 Swamp
-1 Blast Zone
 1 Westvale Abbey
 1 End-Raze Forerunners
+1 Blast Zone
+1 Dark Petition
+1 Vraska's Contempt
+1 Seasons Past
+2 Dark Petition
+1 Scavenging Ooze
 2 Scavenging Ooze
 3 Tireless Tracker
-1 Ashiok, Dream Render
-1 Sign in Blood
-3 Field of Ruin
-1 Gonti, Lord of Luxury
-1 Read the Bones
-4 Temple of Malady
-1 Mutavault
-1 Icon of Ancestry
-2 Mutavault
-2 Nykthos, Shrine to Nyx
-2 Icon of Ancestry
-4 Wildborn Preserver
-1 The Binding of the Titans
-1 Questing Beast
-1 Ishkanah, Grafwidow
-1 Collective Brutality
-2 The Binding of the Titans
-3 Grim Flayer
-4 Traverse the Ulvenwald
-4 Grim Flayer
 1 Dwynen, Gilt-Leaf Daen
 1 Marwyn, the Nurturer
 1 Growing Rites of Itlimoc
@@ -117,12 +77,14 @@
 1 The Great Henge
 1 Ghalta, Primal Hunger
 1 Surrak, the Hunt Caller
+1 Lovestruck Beast
 1 Scrapheap Scrounger
 2 Heart of Kiran
 2 Yavimaya Coast
 2 Thought-Knot Seer
 2 Rotting Regisaur
 2 The Great Henge
+2 Lovestruck Beast
 2 Rhonas the Indomitable
 2 Scrapheap Scrounger
 2 Ghalta, Primal Hunger
@@ -131,10 +93,34 @@
 3 Rotting Regisaur
 3 Yavimaya Coast
 3 Thought-Knot Seer
+3 Lovestruck Beast
 3 Scrapheap Scrounger
 3 Ghalta, Primal Hunger
 3 Heart of Kiran
 3 Hashep Oasis
+4 Lovestruck Beast
 4 Thought-Knot Seer
 4 Ghalta, Primal Hunger
 4 Hashep Oasis
+1 The Binding of the Titans
+1 Questing Beast
+1 Ishkanah, Grafwidow
+1 Collective Brutality
+1 Woodland Cemetery
+2 Hissing Quagmire
+2 Assassin's Trophy
+2 The Binding of the Titans
+2 Woodland Cemetery
+3 Grim Flayer
+3 Woodland Cemetery
+4 Traverse the Ulvenwald
+4 Grim Flayer
+4 Swamp
+5 Swamp
+1 Mutavault
+1 Icon of Ancestry
+2 Mutavault
+2 Nykthos, Shrine to Nyx
+2 Icon of Ancestry
+4 Wildborn Preserver
+6 Forest
