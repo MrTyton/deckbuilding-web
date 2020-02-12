@@ -42,12 +42,12 @@
 3 Glacial Fortress
 4 Glacial Fortress
 4 Hallowed Fountain
-1 Izzet Charm
 1 Irrigated Farmland
 1 Abrade
 1 Castle Vantress
 1 Censor
 1 Hieroglyphic Illumination
+1 Izzet Charm
 2 Hieroglyphic Illumination
 2 Clifftop Retreat
 2 Izzet Charm
@@ -63,13 +63,13 @@
 4 Sulfur Falls
 4 Censor
 4 Izzet Charm
-1 Renegade Rallier
-1 Corridor Monitor
-1 Prime Speaker Vannifar
 1 Thalia's Lancers
-2 Prime Speaker Vannifar
+1 Corridor Monitor
+1 Renegade Rallier
+1 Prime Speaker Vannifar
 2 Corridor Monitor
 2 Renegade Rallier
+2 Prime Speaker Vannifar
 3 Prime Speaker Vannifar
 4 Temple Garden
 4 Inspiring Vantage
@@ -92,10 +92,10 @@
 4 Sacred Foundry
 1 Deafening Clarion
 2 Deafening Clarion
-1 Watery Grave
 1 Blood Crypt
 1 Swamp
 1 Godless Shrine
+1 Watery Grave
 1 Oath of Kaya
 2 Oath of Kaya
 3 Oath of Kaya
@@ -107,11 +107,11 @@
 1 Ojutai's Command
 1 Silumgar's Command
 1 Abrupt Decay
+1 Knight of Autumn
 1 Unmoored Ego
 1 Kolaghan's Command
 1 Niv-Mizzet Reborn
 1 Bring to Light
-1 Knight of Autumn
 1 Assassin's Trophy
 2 Assassin's Trophy
 2 Bring to Light
@@ -160,13 +160,12 @@
 3 Lava Coil
 3 Fiery Impulse
 3 Spirebluff Canal
-4 Dig Through Time
 4 Anticipate
+4 Dig Through Time
 4 Fiery Impulse
 4 Spirebluff Canal
 1 Search for Azcanta
 1 Narset, Parter of Veils
-1 Drowned Catacomb
 1 Languish
 1 Cast Down
 1 Isolated Chapel
@@ -177,22 +176,23 @@
 1 Thoughtseize
 1 Teferi, Hero of Dominaria
 1 Urborg, Tomb of Yawgmoth
+1 Drowned Catacomb
 1 Interplanar Beacon
 1 Fatal Push
 2 Narset, Parter of Veils
-2 Watery Grave
 2 Languish
 2 Fatal Push
 2 Thoughtseize
+2 Watery Grave
 2 Godless Shrine
 2 Prophetic Prism
-3 Watery Grave
 3 Thoughtseize
 3 Fatal Push
 3 Prophetic Prism
 3 Godless Shrine
-4 Watery Grave
+3 Watery Grave
 4 Thoughtseize
+4 Watery Grave
 4 Harnessed Lightning
 1 Field of Ruin
 1 Elite Guardmage

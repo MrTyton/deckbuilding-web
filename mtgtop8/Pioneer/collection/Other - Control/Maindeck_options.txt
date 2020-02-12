@@ -1,38 +1,34 @@
-2 Rakdos's Return
+3 Chandra, Torch of Defiance
+3 Dreadbore
+3 Fabled Passage
 1 Drowned Catacomb
 1 Watery Grave
 2 Drowned Catacomb
 2 Watery Grave
 3 Watery Grave
 4 Watery Grave
-3 Dreadbore
-3 Fabled Passage
 1 Vraska's Contempt
-3 Drowned Catacomb
 3 Murderous Rider
-1 Languish
 1 Island
-1 The Scarab God
 1 Dig Through Time
 2 Dig Through Time
 2 Vraska's Contempt
-4 Drowned Catacomb
-1 Steam Vents
-1 Sulfur Falls
-2 Steam Vents
-3 Steam Vents
+3 Drowned Catacomb
+1 Languish
 2 Languish
 1 Opt
 2 Opt
 3 Opt
 4 Opt
 2 Island
+1 The Scarab God
 1 Torrential Gearhulk
 1 Censor
 2 Torrential Gearhulk
 2 Censor
 3 Censor
 4 Censor
+4 Drowned Catacomb
 1 Kroxa, Titan of Death's Hunger
 1 Pharika's Libation
 2 Kroxa, Titan of Death's Hunger
@@ -51,10 +47,9 @@
 2 Narset, Parter of Veils
 3 Dig Through Time
 4 Rekindling Phoenix
-1 Search for Azcanta
 3 Canyon Slough
-1 Overgrown Tomb
 1 Abrupt Decay
+1 Overgrown Tomb
 1 Assassin's Trophy
 2 Overgrown Tomb
 2 Assassin's Trophy
@@ -62,6 +57,7 @@
 1 Goblin Dark-Dwellers
 2 Goblin Dark-Dwellers
 3 Kolaghan's Command
+1 Search for Azcanta
 1 Forest
 2 Forest
 4 Swamp
@@ -121,39 +117,38 @@
 1 Nissa's Pilgrimage
 1 Gonti, Lord of Luxury
 1 Nicol Bolas, the Ravager
+1 Steam Vents
+1 Sulfur Falls
 1 Nicol Bolas, Dragon-God
 2 Nicol Bolas, Dragon-God
 2 Nicol Bolas, the Ravager
+2 Steam Vents
 3 Nicol Bolas, the Ravager
-1 Bedevil
-1 Champion of Wits
-2 Champion of Wits
-1 Sweltering Suns
-2 Sweltering Suns
-1 Wandering Fumarole
-1 Glint-Sleeve Siphoner
-2 Wandering Fumarole
-2 The Scarab God
-2 Glint-Sleeve Siphoner
-3 Glint-Sleeve Siphoner
-4 Glint-Sleeve Siphoner
+3 Steam Vents
 1 Thassa's Intervention
 1 Plains
+1 Anger of the Gods
+2 Anger of the Gods
+1 Sweltering Suns
+2 Sweltering Suns
 1 Jace, Vryn's Prodigy
 2 Jace, Vryn's Prodigy
 3 Jace, Vryn's Prodigy
 3 Walking Ballista
+2 Plains
+3 Plains
 1 Godless Shrine
 1 Shambling Vent
 2 Godless Shrine
 3 Godless Shrine
 4 Godless Shrine
-3 Champion of Wits
 1 Hallowed Fountain
 1 Glacial Fortress
 2 Hallowed Fountain
 3 Hallowed Fountain
 4 Hallowed Fountain
+1 Champion of Wits
+2 Champion of Wits
 1 Goblin Rabblemaster
 2 Goblin Rabblemaster
 1 Mutavault
@@ -172,17 +167,6 @@
 2 Fetid Pools
 3 Vraska's Contempt
 3 Narset, Parter of Veils
-1 Glimmer of Genius
-1 Hour of Devastation
-1 Ritual of Soot
-1 Aether Hub
-1 Liliana, Dreadhorde General
-2 Glimmer of Genius
-2 Ritual of Soot
-2 Aether Hub
-3 Kalitas, Traitor of Ghet
-3 Aether Hub
-4 Aether Hub
 1 Hinterland Harbor
 1 Shrine of the Forsaken Gods
 2 Hinterland Harbor
@@ -202,8 +186,8 @@
 1 Stomping Ground
 1 Rootbound Crag
 2 Stomping Ground
-2 Abrupt Decay
 2 Blooming Marsh
+2 Abrupt Decay
 2 Rootbound Crag
 3 Blooming Marsh
 3 Assassin's Trophy
@@ -218,6 +202,24 @@
 3 Grim Flayer
 4 Grim Flayer
 4 Overgrown Tomb
+1 Wandering Fumarole
+1 Glimmer of Genius
+1 Glint-Sleeve Siphoner
+1 Hour of Devastation
+1 Ritual of Soot
+1 Aether Hub
+1 Liliana, Dreadhorde General
+2 Wandering Fumarole
+2 Glimmer of Genius
+2 Ritual of Soot
+2 The Scarab God
+2 Glint-Sleeve Siphoner
+2 Aether Hub
+3 Glint-Sleeve Siphoner
+3 Kalitas, Traitor of Ghet
+3 Aether Hub
+4 Aether Hub
+4 Glint-Sleeve Siphoner
 1 Temple of Malady
 1 Seasons Past
 1 Dark Petition
@@ -252,25 +254,11 @@
 2 Ramunap Ruins
 3 Kroxa, Titan of Death's Hunger
 3 Ramunap Ruins
-4 Ramunap Ruins
 4 Kroxa, Titan of Death's Hunger
-1 Liliana, Death's Majesty
-1 Ravenous Chupacabra
-1 Supreme Will
-1 Silumgar's Command
-1 Hostage Taker
-1 Jace, Architect of Thought
-1 Fae of Wishes
-1 Fires of Invention
-1 Drawn from Dreams
-2 Fires of Invention
-2 Fae of Wishes
-3 The Scarab God
-3 Fires of Invention
-4 Fires of Invention
+4 Ramunap Ruins
+1 Thirst for Meaning
 1 Ashiok, Nightmare Muse
 1 Sphinx's Revelation
-1 Thirst for Meaning
 1 Temple of Deceit
 1 Whirlwind Denial
 1 Detention Sphere
@@ -285,15 +273,12 @@
 3 Teferi, Time Raveler
 4 Teferi, Time Raveler
 4 Languish
+1 Bedevil
 1 Ob Nixilis Reignited
-1 Anger of the Gods
 1 Chandra, Acolyte of Flame
 2 Angrath's Rampage
-2 Anger of the Gods
 3 Goblin Dark-Dwellers
 4 Goblin Dark-Dwellers
-2 Plains
-3 Plains
 4 Plains
 5 Plains
 1 Temple of Silence
@@ -320,9 +305,9 @@
 2 Starfield of Nyx
 3 Trial of Ambition
 3 Treacherous Blessing
+3 Kaya's Wrath
 3 Oath of Kaya
 3 Shambling Vent
-3 Kaya's Wrath
 3 Starfield of Nyx
 3 Isolated Chapel
 3 Doom Foretold
@@ -331,11 +316,11 @@
 4 Isolated Chapel
 4 Doom Foretold
 4 Shambling Vent
+1 Castle Ardenvale
 1 Charming Prince
 1 Ipnu Rivulet
 1 Deputy of Detention
 1 Chart a Course
-1 Castle Ardenvale
 1 Angel of Invention
 1 Agent of Treachery
 1 Refurbish
@@ -353,14 +338,15 @@
 2 Strategic Planning
 2 Supreme Verdict
 2 God-Pharaoh's Gift
-2 Refurbish
 2 Agent of Treachery
 2 Irrigated Farmland
 2 Glacial Fortress
+2 Refurbish
 2 Angel of Invention
 3 Reflector Mage
 3 Glacial Fortress
 3 Chart a Course
+3 Champion of Wits
 3 Angel of Invention
 3 God-Pharaoh's Gift
 3 Strategic Planning
@@ -380,7 +366,6 @@
 5 Island
 1 Sunpetal Grove
 1 Gilded Goose
-1 Chord of Calling
 1 Radiant Fountain
 1 Elvish Visionary
 1 Collected Company
@@ -389,6 +374,7 @@
 1 Knight of Autumn
 1 Selfless Spirit
 1 Anafenza, Kin-Tree Spirit
+1 Chord of Calling
 1 Llanowar Elves
 1 Elvish Mystic
 1 Fortified Village
@@ -422,3 +408,45 @@
 4 Militia Bugler
 4 Heliod, Sun-Crowned
 7 Forest
+1 Elspeth, Sun's Nemesis
+1 Gideon of the Trials
+1 Nahiri, the Harbinger
+1 Elspeth, Sun's Champion
+1 Gideon, Ally of Zendikar
+1 Chained to the Rocks
+1 Settle the Wreckage
+1 Haktos the Unscarred
+1 Abrade
+1 Clifftop Retreat
+1 Temple of Triumph
+1 Needle Spires
+1 Sacred Foundry
+1 Lava Coil
+2 Gideon, Ally of Zendikar
+2 Gideon of the Trials
+2 Clifftop Retreat
+2 Chained to the Rocks
+2 Temple of Triumph
+2 Sacred Foundry
+2 Settle the Wreckage
+2 Haktos the Unscarred
+2 Lava Coil
+2 Needle Spires
+3 Clifftop Retreat
+3 Anger of the Gods
+3 Gideon of the Trials
+3 Gideon, Ally of Zendikar
+3 Chained to the Rocks
+3 Temple of Triumph
+3 Needle Spires
+3 Sacred Foundry
+3 Haktos the Unscarred
+4 Clifftop Retreat
+4 Sacred Foundry
+4 Gideon of the Trials
+4 Chained to the Rocks
+4 Haktos the Unscarred
+4 Temple of Triumph
+5 Mountain
+6 Mountain
+7 Mountain

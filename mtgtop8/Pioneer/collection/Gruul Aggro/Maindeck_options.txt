@@ -1,6 +1,6 @@
+3 Embercleave
 2 Zhur-Taa Goblin
 3 Zhur-Taa Goblin
-1 Blossoming Defense
 1 Pelt Collector
 1 Experiment One
 2 Pelt Collector
@@ -13,69 +13,75 @@
 2 Voltaic Brawler
 3 Voltaic Brawler
 4 Voltaic Brawler
-1 Hazoret the Fervent
-1 Glorybringer
-2 Glorybringer
-3 Glorybringer
-1 Hashep Oasis
-2 Blossoming Defense
-3 Embercleave
-1 Kiora, Behemoth Beckoner
-4 Glorybringer
-3 Questing Beast
-1 Chandra, Torch of Defiance
-2 Chandra, Torch of Defiance
 1 Goblin Rabblemaster
 2 Goblin Rabblemaster
 3 Goblin Rabblemaster
 4 Goblin Rabblemaster
-2 Rhonas the Indomitable
 1 Heart of Kiran
 2 Heart of Kiran
-2 Hazoret the Fervent
-2 Hashep Oasis
-3 Ghor-Clan Rampager
-4 Zhur-Taa Goblin
-1 Wild Slash
-2 Wild Slash
-1 Rekindling Phoenix
-2 Rekindling Phoenix
-1 Steel Leaf Champion
-2 Steel Leaf Champion
-9 Forest
 1 Collected Company
 2 Collected Company
 3 Collected Company
+1 Glorybringer
+2 Glorybringer
+3 Glorybringer
+1 Hazoret the Fervent
+1 Chandra, Torch of Defiance
+2 Chandra, Torch of Defiance
+1 Hashep Oasis
+1 Blossoming Defense
+2 Blossoming Defense
+1 Wild Slash
+2 Wild Slash
+1 Steel Leaf Champion
+2 Steel Leaf Champion
+4 Collected Company
+1 Legion Warboss
+2 Legion Warboss
+3 Legion Warboss
+4 Legion Warboss
+9 Forest
+1 Kiora, Behemoth Beckoner
+4 Glorybringer
+3 Questing Beast
+3 Ghor-Clan Rampager
+7 Mountain
+1 Reckless Bushwhacker
+2 Reckless Bushwhacker
+2 Rhonas the Indomitable
+3 Wild Slash
 1 Commune with Dinosaurs
 1 Ghalta, Primal Hunger
-1 Regisaur Alpha
-1 Marauding Raptor
 1 Ripjaw Raptor
+1 Marauding Raptor
 1 Reckless Rage
+1 Regisaur Alpha
 2 Ghalta, Primal Hunger
-2 Ripjaw Raptor
 2 Marauding Raptor
-2 Regisaur Alpha
 2 Commune with Dinosaurs
 2 Reckless Rage
-3 Marauding Raptor
-3 Regisaur Alpha
-3 Ripjaw Raptor
+2 Regisaur Alpha
+2 Ripjaw Raptor
 3 Reckless Rage
+3 Regisaur Alpha
 3 Commune with Dinosaurs
-4 Marauding Raptor
-4 Ripjaw Raptor
-4 Regisaur Alpha
+3 Ripjaw Raptor
+3 Marauding Raptor
 4 Reckless Rage
+4 Regisaur Alpha
 4 Commune with Dinosaurs
-3 Hashep Oasis
-3 Blossoming Defense
-3 Wild Slash
+4 Ripjaw Raptor
+4 Marauding Raptor
+1 Zurgo Bellstriker
+2 Hazoret the Fervent
+2 Hashep Oasis
 3 Steel Leaf Champion
-1 Domri Rade
-3 Rekindling Phoenix
+3 Domri, Anarch of Bolas
+1 Rekindling Phoenix
+2 Rekindling Phoenix
 2 Kiora, Behemoth Beckoner
 3 Kiora, Behemoth Beckoner
+1 Scavenging Ooze
 1 Borborygmos Enraged
 1 Enter the Infinite
 1 Shared Summons
@@ -84,22 +90,16 @@
 2 Possibility Storm
 3 Possibility Storm
 4 Possibility Storm
-4 Ghor-Clan Rampager
-1 Reckless Bushwhacker
-2 Reckless Bushwhacker
 3 Reckless Bushwhacker
 4 Reckless Bushwhacker
-7 Mountain
-4 Collected Company
-1 Legion Warboss
-2 Legion Warboss
-3 Legion Warboss
-4 Legion Warboss
+4 Zhur-Taa Goblin
+3 Heart of Kiran
+1 Gallia of the Endless Dance
 1 Gilded Goose
 2 Gilded Goose
+4 Ghor-Clan Rampager
 1 Ramunap Ruins
 2 Ramunap Ruins
-1 Zurgo Bellstriker
 1 Atarka's Command
 2 Zurgo Bellstriker
 2 Atarka's Command
@@ -114,27 +114,23 @@
 2 Goblin Chainwhirler
 3 Goblin Chainwhirler
 1 Geier Reach Sanitarium
+1 Crater's Claws
 1 Bomat Courier
 1 Fling
-1 Gallia of the Endless Dance
-1 Crater's Claws
+3 Hashep Oasis
 1 Whisperwood Elemental
 2 Whisperwood Elemental
 3 Rhonas the Indomitable
-3 Domri, Anarch of Bolas
 3 Gilded Goose
 1 Incendiary Flow
 2 Incendiary Flow
 3 Incendiary Flow
+1 Domri Rade
 2 Domri Rade
+3 Rekindling Phoenix
 4 Steel Leaf Champion
+3 Blossoming Defense
 4 Blossoming Defense
-1 Sheltered Thicket
-1 Mizzium Mortars
-2 Sheltered Thicket
-2 Mizzium Mortars
-3 Mizzium Mortars
-4 Rekindling Phoenix
 1 Metallic Mimic
 1 Roast
 1 Grumgully, the Generous
@@ -163,9 +159,9 @@
 2 Goblin Instigator
 3 Mana Confluence
 3 Foundry Street Denizen
+3 Dragon Fodder
 3 Goblin Instigator
 3 Monastery Swiftspear
-3 Dragon Fodder
 4 Foundry Street Denizen
 4 Goblin Instigator
 4 Monastery Swiftspear
@@ -184,20 +180,32 @@
 4 Ramunap Ruins
 4 Goblin Chainwhirler
 4 Soul-Scar Mage
-1 Scavenging Ooze
 1 Captain Lannery Storm
 2 Scavenging Ooze
 2 Captain Lannery Storm
 3 Chandra, Torch of Defiance
 3 Captain Lannery Storm
 4 Captain Lannery Storm
+1 Firedrinker Satyr
+1 Ahn-Crop Crasher
+1 Gruul Turf
+2 Firedrinker Satyr
+2 Ahn-Crop Crasher
+2 Gruul Turf
+2 Gallia of the Endless Dance
+3 Gallia of the Endless Dance
+3 Firedrinker Satyr
+3 Gruul Turf
+3 Ahn-Crop Crasher
+4 Firedrinker Satyr
+4 Gruul Turf
+4 Ahn-Crop Crasher
 1 Lava Coil
 1 Den Protector
 1 Deathmist Raptor
 2 Lava Coil
 2 Deathmist Raptor
 2 Den Protector
-3 Heart of Kiran
 3 Lava Coil
 3 Den Protector
 3 Deathmist Raptor

@@ -68,8 +68,8 @@
 |                     |                                                                                                   |                    3|[Dead/Gone](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=126419)            |
 |                     |                                                                                                   |                    4|[Dead/Gone](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=126419)            |
 |                     |                                                                                                   |                    1|[Krosan Grip](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376394)          |
-|                     |                                                                                                   |                    2|[Krosan Grip](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376394)          |
 |                     |                                                                                                   |                    2|[Avalanche Riders](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=108835)     |
+|                     |                                                                                                   |                    2|[Krosan Grip](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376394)          |
 |                     |                                                                                                   |                    3|[Avalanche Riders](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=108835)     |
 |                     |                                                                                                   |                    4|[Avalanche Riders](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=108835)     |
 

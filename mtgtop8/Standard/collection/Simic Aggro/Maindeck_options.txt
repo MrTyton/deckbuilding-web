@@ -1,12 +1,13 @@
+1 Negate
 1 Opt
 2 Opt
-1 Negate
 1 Thassa's Intervention
 3 Opt
-3 Aether Gust
-2 Thassa's Intervention
-4 Brazen Borrower
 3 Hydroid Krasis
+2 Thassa's Intervention
+3 Aether Gust
+4 Brazen Borrower
+1 Uro, Titan of Nature's Wrath
 1 Gilded Goose
 2 Gilded Goose
 8 Forest
@@ -24,11 +25,10 @@
 1 Brineborn Cutthroat
 2 Omen of the Sea
 2 Brineborn Cutthroat
-3 Omen of the Sea
 3 Brineborn Cutthroat
+3 Omen of the Sea
 4 Omen of the Sea
 4 Brineborn Cutthroat
-1 Uro, Titan of Nature's Wrath
 3 Gilded Goose
 1 Anticipate
 2 Anticipate
@@ -43,6 +43,9 @@
 4 Opt
 3 Thassa's Intervention
 4 Thassa's Intervention
+1 Mass Manipulation
+3 Castle Vantress
+4 Hydroid Krasis
 1 Spectral Sailor
 1 Ashiok's Erasure
 2 Spectral Sailor

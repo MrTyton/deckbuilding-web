@@ -57,8 +57,8 @@
 |                     |                                                                                                    |                    3|[Wear/Tear](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=368950)             |
 |                     |                                                                                                    |                    1|[Serenity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=15360)               |
 |                     |                                                                                                    |                    2|[Lotus Petal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420602)           |
-|                     |                                                                                                    |                    2|[Dread Return](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389491)          |
 |                     |                                                                                                    |                    2|[Serenity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=15360)               |
+|                     |                                                                                                    |                    2|[Dread Return](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389491)          |
 |                     |                                                                                                    |                    3|[Serenity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=15360)               |
 |                     |                                                                                                    |                    4|[Nature's Claim](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382316)        |
 
