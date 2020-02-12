@@ -27,17 +27,10 @@
 
 # Other Options
 
-|*n*<sup>th</sup> copy|                                        Maindeck Card                                        |*n*<sup>th</sup> copy|                                         Sideboard Card                                          |
-|--------------------:|---------------------------------------------------------------------------------------------|--------------------:|-------------------------------------------------------------------------------------------------|
-|                    1|[Gutterbones](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457220)       |                    1|[Sorcerous Spyglass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435407)    |
-|                    1|[Murderous Rider](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473059)   |                    2|[Sorcerous Spyglass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435407)    |
-|                    1|[Tournament Grounds](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473210)|                    3|[Noxious Grasp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466864)         |
-|                    2|[Murderous Rider](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473059)   |                    4|[Noxious Grasp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466864)         |
-|                    2|[Gutterbones](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457220)       |                    1|[Embereth Shieldbreaker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473084)|
-|                    2|[Tournament Grounds](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473210)|                    1|[Massacre Girl](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461026)         |
-|                    3|[Tournament Grounds](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473210)|                    1|[Liliana's Triumph](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461025)     |
-|                    3|[Gutterbones](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457220)       |                    2|[Liliana's Triumph](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461025)     |
-|                    4|[Tournament Grounds](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473210)|                    2|[Embereth Shieldbreaker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473084)|
-|                    4|[Gutterbones](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457220)       |                    3|[Liliana's Triumph](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461025)     |
-|                     |                                                                                             |                    4|[Liliana's Triumph](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461025)     |
+|*n*<sup>th</sup> copy|Maindeck Card|*n*<sup>th</sup> copy|                                       Sideboard Card                                        |
+|---------------------|-------------|--------------------:|---------------------------------------------------------------------------------------------|
+|                     |             |                    1|[Sorcerous Spyglass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435407)|
+|                     |             |                    2|[Sorcerous Spyglass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435407)|
+|                     |             |                    3|[Noxious Grasp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466864)     |
+|                     |             |                    4|[Noxious Grasp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466864)     |
 

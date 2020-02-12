@@ -1,3 +1,5 @@
+1 Arid Mesa
+1 Polluted Delta
 1 Watery Grave
 1 Overgrown Tomb
 1 Glimpse the Unthinkable
@@ -5,6 +7,7 @@
 1 Hedron Crab
 1 Stitcher's Supplier
 1 Vengevine
+2 Polluted Delta
 2 Overgrown Tomb
 2 Vengevine
 2 Watery Grave
@@ -13,69 +16,65 @@
 2 Hedron Crab
 2 Glimpse the Unthinkable
 3 Hedron Crab
+3 Polluted Delta
 3 Vengevine
 3 Glimpse the Unthinkable
 3 Stitcher's Supplier
+3 Watery Grave
 3 Gravecrawler
-4 Vengevine
 4 Gravecrawler
 4 Hedron Crab
 4 Stitcher's Supplier
+4 Vengevine
 1 Merfolk Secretkeeper
 2 Merfolk Secretkeeper
 3 Merfolk Secretkeeper
+4 Merfolk Secretkeeper
 1 Carrion Feeder
 2 Carrion Feeder
-1 Swamp
-1 Polluted Delta
-2 Polluted Delta
-3 Polluted Delta
-3 Watery Grave
-1 Arid Mesa
-4 Bloodstained Mire
-4 Merfolk Secretkeeper
 3 Overgrown Tomb
 4 Polluted Delta
+1 Swamp
+1 Scalding Tarn
+2 Scalding Tarn
+3 Golgari Thug
+2 Arid Mesa
+4 Bloodstained Mire
 4 Glimpse the Unthinkable
 1 Darkslick Shores
 1 Verdant Catacombs
-3 Golgari Thug
-2 Arid Mesa
-1 Gurmag Angler
 2 Verdant Catacombs
 3 Verdant Catacombs
-3 Carrion Feeder
 1 Mana Confluence
-1 Scalding Tarn
-2 Scalding Tarn
-1 Marsh Flats
-2 Marsh Flats
-2 Darkslick Shores
-1 Once Upon a Time
-1 Island
-3 Arid Mesa
-3 Scalding Tarn
 2 Mountain
-4 Verdant Catacombs
+3 Scalding Tarn
 1 Ox of Agonas
 2 Ox of Agonas
+3 Arid Mesa
+1 Once Upon a Time
+1 Island
+1 Gurmag Angler
+3 Carrion Feeder
+2 Darkslick Shores
+1 Marsh Flats
+2 Marsh Flats
+4 Verdant Catacombs
 1 Seasoned Pyromancer
 4 Scalding Tarn
 3 Ox of Agonas
 1 Dakmor Salvage
 1 Steam Vents
 1 Ghost Quarter
-3 Marsh Flats
-2 Swamp
-2 Gurmag Angler
 1 Memory Sluice
 2 Memory Sluice
 1 Fatestitcher
+1 Blast Zone
 1 Driven / Despair
 2 Mana Confluence
-2 Gemstone Mine
 1 Snow-Covered Mountain
 2 Snow-Covered Mountain
+2 Swamp
+2 Gurmag Angler
 3 Gurmag Angler
 1 Insolent Neonate
 2 Insolent Neonate
@@ -85,4 +84,5 @@
 4 Memory Sluice
 4 Watery Grave
 1 Snow-Covered Swamp
+3 Marsh Flats
 4 Marsh Flats

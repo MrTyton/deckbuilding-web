@@ -1,4 +1,6 @@
 3 Once Upon a Time
+1 Mwonvuli Acid-Moss
+2 Windswept Heath
 3 Summoner's Pact
 4 Once Upon a Time
 1 Arboreal Grazer
@@ -6,15 +8,13 @@
 3 Arboreal Grazer
 4 Arboreal Grazer
 3 Dryad of the Ilysian Grove
-1 Mwonvuli Acid-Moss
-2 Windswept Heath
-3 Castle Garenbrig
-4 Explore
 1 Verdant Catacombs
 4 Farseek
 2 Mwonvuli Acid-Moss
-2 Forest
+3 Castle Garenbrig
+4 Explore
 3 Cinder Glade
+2 Forest
 4 Castle Garenbrig
 1 Blast Zone
 2 Misty Rainforest
@@ -24,8 +24,8 @@
 1 Island
 1 Cavern of Souls
 1 Khalni Heart Expedition
+1 Anger of the Gods
 1 Escape to the Wilds
-1 Wood Elves
 1 Uro, Titan of Nature's Wrath
 1 Ghost Quarter
 1 Bojuka Bog
@@ -40,19 +40,19 @@
 3 Misty Rainforest
 4 Misty Rainforest
 4 Mountain
-4 Lightning Bolt
-1 Chandra, Awakened Inferno
-2 Wood Elves
-3 Windswept Heath
-1 Courser of Kruphix
-1 Anger of the Gods
-2 Snow-Covered Forest
-1 Prismatic Vista
-5 Mountain
 1 Engineered Explosives
 1 Sweltering Suns
 1 Obstinate Baloth
 2 Sheltered Thicket
+1 Wood Elves
+1 Chandra, Awakened Inferno
+2 Wood Elves
+3 Windswept Heath
+1 Courser of Kruphix
+2 Snow-Covered Forest
+1 Prismatic Vista
+4 Lightning Bolt
+5 Mountain
 1 Oracle of Mul Daya
 1 Craterhoof Behemoth
 1 Reclamation Sage
@@ -69,10 +69,6 @@
 2 Khalni Heart Expedition
 3 Khalni Heart Expedition
 4 Khalni Heart Expedition
-1 Veil of Summer
-2 Veil of Summer
-3 Veil of Summer
-4 Veil of Summer
 1 Sacred Foundry
 1 Flagstones of Trokair
 1 Elvish Reclaimer

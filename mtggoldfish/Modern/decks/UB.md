@@ -175,6 +175,6 @@
 |                    3|[Bitterblossom](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397701)             |                     |                                                                                                   |
 |                    4|[Darkslick Shores](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=209400)          |                     |                                                                                                   |
 |                    4|[Fatal Push](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423724)                |                     |                                                                                                   |
-|                    4|[Bitterblossom](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397701)             |                     |                                                                                                   |
 |                    4|[Spellstutter Sprite](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=139429)       |                     |                                                                                                   |
+|                    4|[Bitterblossom](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397701)             |                     |                                                                                                   |
 
