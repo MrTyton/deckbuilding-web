@@ -1,11 +1,7 @@
-1 Fatestitcher
-1 Grove of the Burnwillows
 1 Birds of Paradise
 1 Sylvan Caryatid
-1 Swan Song
 1 Veil of Summer
 1 Serum Visions
-1 Plains
 1 Island
 1 Manamorphose
 1 Temple Garden
@@ -13,16 +9,12 @@
 1 Sleight of Hand
 1 Abundant Growth
 1 Gemstone Mine
-1 Mystic Speculation
 1 Waterlogged Grove
 1 Cerulean Wisps
-1 Nagging Thoughts
-1 Path to Exile
 2 Glittering Wish
 2 Birds of Paradise
 2 Sylvan Caryatid
 2 Gemstone Mine
-2 Manamorphose
 2 Fatestitcher
 2 Cerulean Wisps
 2 Sleight of Hand
@@ -30,15 +22,23 @@
 3 Glittering Wish
 3 Sylvan Caryatid
 3 Birds of Paradise
-3 Gemstone Mine
-3 Manamorphose
-3 Fatestitcher
 3 Serum Visions
-3 Cerulean Wisps
-3 Sleight of Hand
 4 Glittering Wish
 4 Sylvan Caryatid
 4 Serum Visions
+1 Lightning Bolt
+1 Horizon Canopy
+1 Swan Song
+1 Plains
+1 Mystic Speculation
+1 Nagging Thoughts
+1 Path to Exile
+2 Manamorphose
+3 Gemstone Mine
+3 Manamorphose
+3 Fatestitcher
+3 Cerulean Wisps
+3 Sleight of Hand
 4 Manamorphose
 4 Sleight of Hand
 4 Gemstone Mine
@@ -50,8 +50,23 @@
 5 Snow-Covered Island
 1 Witching Well
 2 Engineered Explosives
-1 Thoughtcast
 1 Misty Rainforest
+1 Wrenn and Six
+1 Surgical Extraction
+1 Fiery Islet
+1 Opt
+1 Underworld Breach
+1 Noble Hierarch
+1 Retraction Helix
+1 Botanical Sanctum
+2 Opt
+2 Misty Rainforest
+2 Underworld Breach
+2 Noble Hierarch
+2 Island
+2 Abundant Growth
+2 Veil of Summer
+1 Thoughtcast
 1 Metallic Rebuke
 2 Metallic Rebuke
 2 Sword of the Meek

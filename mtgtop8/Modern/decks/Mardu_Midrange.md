@@ -71,7 +71,7 @@
 |                    3|[Young Pyromancer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426592)         |                     |                                                                                                       |
 |                    3|[Unearth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442102)                  |                     |                                                                                                       |
 |                    3|[Blood Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=97102)               |                     |                                                                                                       |
+|                    3|[Merchant of the Vale](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473093)     |                     |                                                                                                       |
 |                    4|[Blood Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=97102)               |                     |                                                                                                       |
 |                    4|[Merchant of the Vale](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473093)     |                     |                                                                                                       |
-|                    3|[Merchant of the Vale](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473093)     |                     |                                                                                                       |
 

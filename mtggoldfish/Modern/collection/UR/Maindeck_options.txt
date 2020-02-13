@@ -1,25 +1,26 @@
-1 Omen of the Sea
-2 Omen of the Sea
-3 Omen of the Sea
-4 Omen of the Sea
-2 Archmage's Charm
-2 Spell Snare
-6 Island
-2 Jace, the Mind Sculptor
-1 Cascade Bluffs
-1 Emrakul, the Aeons Torn
-1 Through the Breach
-2 Through the Breach
-2 Emrakul, the Aeons Torn
-3 Through the Breach
-3 Emrakul, the Aeons Torn
-4 Through the Breach
-4 Emrakul, the Aeons Torn
+2 Blood Moon
 1 Thing in the Ice
 2 Thing in the Ice
 3 Thing in the Ice
-3 Serum Visions
+5 Island
+1 Spell Snare
+2 Jace, the Mind Sculptor
+6 Island
+1 Emrakul, the Aeons Torn
+1 Through the Breach
+1 Omen of the Sea
+2 Omen of the Sea
+2 Through the Breach
+2 Emrakul, the Aeons Torn
+3 Through the Breach
+3 Omen of the Sea
+3 Emrakul, the Aeons Torn
+4 Through the Breach
+4 Omen of the Sea
+4 Emrakul, the Aeons Torn
+4 Serum Visions
 1 Vendilion Clique
+2 Spell Snare
 1 Desolate Lighthouse
 1 Electrolyze
 2 Electrolyze
@@ -28,18 +29,15 @@
 4 Misty Rainforest
 4 Thing in the Ice
 3 Spirebluff Canal
-4 Serum Visions
 2 Flooded Strand
 6 Snow-Covered Island
 7 Snow-Covered Island
-1 Abrade
 3 Mystic Sanctuary
 1 Narset, Parter of Veils
 1 Ancestral Vision
 2 Ancestral Vision
 3 Ancestral Vision
 4 Spirebluff Canal
-1 Flame Slash
 1 Simian Spirit Guide
 2 Simian Spirit Guide
 1 Fiery Islet
@@ -62,6 +60,7 @@
 2 Time Warp
 3 Time Warp
 4 Time Warp
+3 Brazen Borrower
 1 Fires of Invention
 1 Castle Vantress
 1 Dictate of Kruphix
@@ -82,6 +81,7 @@
 4 Mystic Sanctuary
 4 Fires of Invention
 4 Savor the Moment
+3 Polluted Delta
 1 Finale of Promise
 2 Mountain
 2 Finale of Promise
@@ -94,48 +94,55 @@
 2 Dreadhorde Arcanist
 3 Force of Negation
 3 Dreadhorde Arcanist
+1 Flame Slash
 1 Izzet Charm
-1 Mana Leak
-2 Mana Leak
-3 Blood Moon
+1 Bonecrusher Giant
+2 Bonecrusher Giant
+1 Abrade
+1 Prismatic Vista
 7 Island
+8 Island
+3 Archmage's Charm
 2 Fiery Islet
+4 Polluted Delta
 1 The Royal Scions
-3 Brazen Borrower
-1 Tolaria West
-2 Tolaria West
 1 Brineborn Cutthroat
 1 Faerie Conclave
 2 Brineborn Cutthroat
 3 Brineborn Cutthroat
-3 Polluted Delta
 4 Brineborn Cutthroat
+1 Tolaria West
+2 Tolaria West
+1 Stubborn Denial
+1 Blast Zone
+1 Mana Leak
+1 Spell Pierce
+2 Mana Leak
 1 Sarkhan the Masterless
 1 Surgical Extraction
 1 Negate
 1 Vapor Snag
-1 Blast Zone
-1 Prismatic Vista
-1 Spell Pierce
-1 Stubborn Denial
-1 Bonecrusher Giant
-2 Bonecrusher Giant
-1 Ral, Izzet Viceroy
-1 Thirst for Meaning
-2 Thirst for Meaning
-3 Thirst for Meaning
+3 Blood Moon
+2 Magmatic Sinkhole
+3 Bonecrusher Giant
+4 Archmage's Charm
+1 Day's Undoing
+1 Temporal Mastery
+2 Temporal Mastery
+2 Day's Undoing
+3 Temporal Mastery
+4 Temporal Mastery
 4 Dreadhorde Arcanist
 4 Force of Negation
+1 Burst Lightning
 1 Deprive
 1 Panoptic Mirror
 1 Isochron Scepter
 1 Delver of Secrets
-1 Burst Lightning
 1 Logic Knot
 1 Peek
 2 Delver of Secrets
 2 Deprive
-3 Archmage's Charm
 3 Delver of Secrets
 3 Spell Snare
 4 Delver of Secrets
@@ -165,9 +172,9 @@
 2 Twiddle
 3 Tolaria West
 3 Sleight of Hand
-3 Psychic Puppetry
 3 Past in Flames
 3 Peer Through Depths
+3 Psychic Puppetry
 3 Lotus Field
 3 Twiddle
 3 Dream's Grip
@@ -180,10 +187,14 @@
 4 Dream's Grip
 4 Psychic Puppetry
 4 Reach Through Mists
+2 Izzet Charm
+3 Izzet Charm
+3 Flooded Strand
+8 Snow-Covered Island
 1 Silvergill Adept
 1 Master of the Pearl Trident
-1 Merfolk Trickster
 1 Mutavault
+1 Merfolk Trickster
 1 Lord of Atlantis
 2 The Royal Scions
 2 Master of the Pearl Trident
@@ -196,27 +207,15 @@
 3 Fiery Islet
 3 Lord of Atlantis
 3 Merfolk Trickster
+3 Faerie Conclave
 3 Silvergill Adept
 3 Master of the Pearl Trident
 3 Mutavault
-3 Faerie Conclave
 4 Cryptic Command
 4 Brazen Borrower
 4 Fiery Islet
-4 Polluted Delta
 4 Lord of Atlantis
 4 Master of the Pearl Trident
 4 Merfolk Trickster
 4 Silvergill Adept
 4 Mutavault
-2 Izzet Charm
-3 Izzet Charm
-3 Flooded Strand
-8 Snow-Covered Island
-1 Day's Undoing
-1 Temporal Mastery
-2 Temporal Mastery
-2 Day's Undoing
-3 Temporal Mastery
-4 Temporal Mastery
-8 Island

@@ -42,7 +42,7 @@
 |                     |                                                                                                     |                    3|[Hushbringer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472980)               |
 |                     |                                                                                                     |                    4|[Hushbringer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472980)               |
 |                     |                                                                                                     |                    4|[Dead Weight](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452817)               |
-|                     |                                                                                                     |                    1|[Tocatli Honor Guard](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435194)       |
 |                     |                                                                                                     |                    1|[Hushwing Gryff](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420685)            |
+|                     |                                                                                                     |                    1|[Tocatli Honor Guard](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435194)       |
 |                     |                                                                                                     |                    1|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)             |
 
