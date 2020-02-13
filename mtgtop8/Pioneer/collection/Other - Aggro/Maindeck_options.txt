@@ -222,9 +222,10 @@
 2 Emry, Lurker of the Loch
 2 Metallic Rebuke
 4 Bomat Courier
-1 Shefet Dunes
 1 Ifnir Deadlands
+1 Shefet Dunes
 1 Ravenous Chupacabra
+1 Silkwrap
 1 Shambling Vent
 1 Thought-Knot Seer
 1 Wasteland Strangler
@@ -232,7 +233,6 @@
 1 Lyra Dawnbringer
 1 Brain Maggot
 1 Ultimate Price
-1 Silkwrap
 1 Baffling End
 2 Shefet Dunes
 2 Thought-Knot Seer
@@ -399,22 +399,22 @@
 4 Alseid of Life's Bounty
 4 Ethereal Armor
 4 All That Glitters
-1 Dauntless Bodyguard
-1 Charming Prince
 1 Thalia's Lieutenant
+1 Charming Prince
+1 Dauntless Bodyguard
 1 Militia Bugler
 1 Unclaimed Territory
 1 Glint-Sleeve Siphoner
 1 Tithe Taker
-1 Declaration in Stone
 1 Elite Guardmage
+1 Declaration in Stone
 1 Unbreakable Formation
 1 Elspeth, Sun's Nemesis
 1 Kitesail Freebooter
 1 Aether Hub
-2 Dauntless Bodyguard
 2 Thalia's Lieutenant
 2 Charming Prince
+2 Dauntless Bodyguard
 2 Militia Bugler
 2 Glint-Sleeve Siphoner
 2 Unclaimed Territory
@@ -468,15 +468,16 @@
 3 Swamp
 3 Lazotep Reaver
 3 Dread Wanderer
-4 Temple of Silence
 4 Isolated Chapel
 4 Wayward Servant
 4 Corpse Knight
+4 Temple of Silence
 4 Cryptbreaker
 4 Swamp
 4 Rally the Ancestors
 5 Swamp
 6 Swamp
+1 Benalish Marshal
 1 Fortified Village
 1 Selfless Spirit
 1 Knight of Autumn
@@ -484,7 +485,6 @@
 1 Vivien, Arkbow Ranger
 1 Anafenza, Kin-Tree Spirit
 1 Walking Ballista
-1 Benalish Marshal
 1 Heliod, Sun-Crowned
 1 Courser of Kruphix
 1 Daxos, Blessed by the Sun

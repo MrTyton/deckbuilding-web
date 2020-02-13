@@ -10,23 +10,23 @@
 1 Teferi, Time Raveler
 2 Temple Garden
 2 Teferi, Time Raveler
+1 Collected Company
 1 Gavony Township
 1 Batterskull
 1 Sword of Fire and Ice
 1 Tireless Tracker
 1 Spell Queller
-1 Collected Company
 1 Stoneforge Mystic
 2 Horizon Canopy
+2 Collected Company
 2 Deputy of Detention
 2 Tireless Tracker
 2 Gavony Township
 2 Hallowed Fountain
 2 Stoneforge Mystic
-2 Collected Company
 2 Spell Queller
-3 Tireless Tracker
 3 Collected Company
+3 Tireless Tracker
 3 Spell Queller
 3 Stoneforge Mystic
 3 Deputy of Detention
@@ -72,25 +72,21 @@
 3 Prismatic Vista
 3 Snow-Covered Island
 4 Path to Exile
-1 Arbor Elf
-1 Vizier of Remedies
-1 Heliod, Sun-Crowned
-1 Spike Feeder
-1 Postmortem Lunge
-2 Arbor Elf
-2 Postmortem Lunge
-2 Heliod, Sun-Crowned
-2 Vizier of Remedies
-3 Devoted Druid
-3 Temple Garden
-3 Teferi, Time Raveler
-3 Arbor Elf
-3 Utopia Sprawl
-4 Devoted Druid
-4 Utopia Sprawl
-4 Teferi, Time Raveler
-4 Arbor Elf
-4 Snow-Covered Forest
+1 Ranger-Captain of Eos
+1 Shalai, Voice of Plenty
+1 Sylvan Caryatid
+1 Freed from the Real
+1 Heliod's Pilgrim
+1 Open the Armory
+1 Plains
+2 Dryad Arbor
+2 Freed from the Real
+2 Shalai, Voice of Plenty
+2 Open the Armory
+3 Birds of Paradise
+3 Freed from the Real
+4 Birds of Paradise
+4 Freed from the Real
 1 Vivien, Arkbow Ranger
 1 Primal Command
 1 Nissa, Who Shakes the World
@@ -98,8 +94,8 @@
 1 Garruk Wildspeaker
 1 Burning-Tree Emissary
 1 Ulamog, the Ceaseless Hunger
-1 Hydroid Krasis
 1 Emrakul, the Aeons Torn
+1 Hydroid Krasis
 1 Wooded Foothills
 1 Once Upon a Time
 1 Llanowar Tribe
@@ -125,18 +121,22 @@
 5 Forest
 6 Forest
 7 Forest
-1 Ranger-Captain of Eos
-1 Shalai, Voice of Plenty
-1 Sylvan Caryatid
-1 Freed from the Real
-1 Heliod's Pilgrim
-1 Open the Armory
-1 Plains
-2 Dryad Arbor
-2 Freed from the Real
-2 Shalai, Voice of Plenty
-2 Open the Armory
-3 Birds of Paradise
-3 Freed from the Real
-4 Birds of Paradise
-4 Freed from the Real
+1 Arbor Elf
+1 Spike Feeder
+1 Heliod, Sun-Crowned
+1 Vizier of Remedies
+1 Postmortem Lunge
+2 Arbor Elf
+2 Heliod, Sun-Crowned
+2 Postmortem Lunge
+2 Vizier of Remedies
+3 Temple Garden
+3 Teferi, Time Raveler
+3 Arbor Elf
+3 Utopia Sprawl
+3 Devoted Druid
+4 Utopia Sprawl
+4 Teferi, Time Raveler
+4 Arbor Elf
+4 Snow-Covered Forest
+4 Devoted Druid

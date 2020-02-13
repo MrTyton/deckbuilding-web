@@ -36,8 +36,8 @@
 |                    2|[Gutterbones](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457220)       |                    1|[Embereth Shieldbreaker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473084)|
 |                    2|[Tournament Grounds](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473210)|                    1|[Massacre Girl](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461026)         |
 |                    3|[Tournament Grounds](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473210)|                    1|[Liliana's Triumph](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461025)     |
-|                    3|[Gutterbones](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457220)       |                    2|[Liliana's Triumph](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461025)     |
-|                    4|[Tournament Grounds](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473210)|                    2|[Embereth Shieldbreaker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473084)|
+|                    3|[Gutterbones](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457220)       |                    2|[Embereth Shieldbreaker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473084)|
+|                    4|[Tournament Grounds](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473210)|                    2|[Liliana's Triumph](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461025)     |
 |                    4|[Gutterbones](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457220)       |                    3|[Liliana's Triumph](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461025)     |
 |                     |                                                                                             |                    4|[Liliana's Triumph](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461025)     |
 

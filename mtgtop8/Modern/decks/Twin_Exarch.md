@@ -34,8 +34,8 @@
 
 |*n*<sup>th</sup> copy|                                       Maindeck Card                                        |*n*<sup>th</sup> copy|                                         Sideboard Card                                         |
 |--------------------:|--------------------------------------------------------------------------------------------|--------------------:|------------------------------------------------------------------------------------------------|
-|                    2|[Archmage's Charm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463989) |                    1|[Fry](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466894)                  |
-|                    3|[Force of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464001)|                    1|[Dispel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401858)               |
+|                    2|[Archmage's Charm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463989) |                    1|[Dispel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401858)               |
+|                    3|[Force of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464001)|                    1|[Fry](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466894)                  |
 |                    4|[Polluted Delta](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405104)   |                    2|[Fry](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466894)                  |
 |                    1|[Fiery Islet](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464187)      |                    2|[Dispel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401858)               |
 |                    1|[Magmatic Sinkhole](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464084)|                    3|[Weather the Storm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464140)    |
@@ -53,7 +53,7 @@
 |                    2|[Breeding Pool](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=97088)     |                     |                                                                                                |
 |                    3|[Condescend](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=51223)        |                     |                                                                                                |
 |                    3|[Anger of the Gods](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438682)|                     |                                                                                                |
+|                    4|[Remand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=380255)           |                     |                                                                                                |
 |                    4|[Condescend](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=51223)        |                     |                                                                                                |
 |                    4|[Steam Vents](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405109)      |                     |                                                                                                |
-|                    4|[Remand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=380255)           |                     |                                                                                                |
 
