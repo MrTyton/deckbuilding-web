@@ -35,11 +35,11 @@
 |                    1|[Runaway Steam-Kin](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452865)  |                     |              |
 |                    1|[Ghitu Lavarunner](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443015)   |                     |              |
 |                    1|[Wizard's Lightning](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443040) |                     |              |
-|                    1|[Experimental Frenzy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452849)|                     |              |
 |                    1|[Temple of Triumph](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373560)  |                     |              |
 |                    1|Phoenix of Ash                                                                                |                     |              |
 |                    1|[Boros Charm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442188)        |                     |              |
 |                    1|[Viashino Pyromancer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447302)|                     |              |
+|                    1|[Experimental Frenzy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452849)|                     |              |
 |                    1|[Light Up the Stage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457251) |                     |              |
 |                    2|[Skewer the Critics](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457259) |                     |              |
 |                    2|[Inspiring Vantage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417819)  |                     |              |
@@ -50,13 +50,13 @@
 |                    2|[Viashino Pyromancer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447302)|                     |              |
 |                    2|[Light Up the Stage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457251) |                     |              |
 |                    2|[Temple of Triumph](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373560)  |                     |              |
-|                    3|[Inspiring Vantage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417819)  |                     |              |
+|                    3|[Boros Charm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442188)        |                     |              |
 |                    3|[Wizard's Lightning](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443040) |                     |              |
 |                    3|[Runaway Steam-Kin](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452865)  |                     |              |
 |                    3|[Ghitu Lavarunner](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443015)   |                     |              |
-|                    3|[Boros Charm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442188)        |                     |              |
+|                    3|[Inspiring Vantage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417819)  |                     |              |
 |                    3|[Light Up the Stage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457251) |                     |              |
-|                    4|[Boros Charm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442188)        |                     |              |
 |                    4|[Runaway Steam-Kin](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452865)  |                     |              |
+|                    4|[Boros Charm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442188)        |                     |              |
 |                    4|[Light Up the Stage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457251) |                     |              |
 

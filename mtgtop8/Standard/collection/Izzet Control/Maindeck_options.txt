@@ -1,10 +1,3 @@
-1 Shock
-3 Fabled Passage
-1 Niv-Mizzet, Parun
-1 Omen of the Sea
-1 Thassa's Intervention
-2 Blast Zone
-2 Thassa's Intervention
 1 Irencrag Pyromancer
 1 Thrill of Possibility
 1 The Royal Scions
@@ -14,6 +7,7 @@
 1 Castle Embereth
 2 Thrill of Possibility
 2 The Royal Scions
+2 Scorching Dragonfire
 2 Shock
 2 Improbable Alliance
 2 Chemister's Insight
@@ -29,12 +23,13 @@
 4 Irencrag Pyromancer
 4 Shock
 4 Improbable Alliance
-1 Overgrown Tomb
+4 Mountain
+1 Temple of Deceit
 1 Tyrant's Scorn
 1 Watery Grave
-1 Temple of Deceit
 1 Voracious Hydra
 1 Casualties of War
+1 Overgrown Tomb
 1 Growth Spiral
 1 Nissa, Who Shakes the World
 1 Swamp
@@ -48,8 +43,8 @@
 2 Temple of Malady
 2 Overgrown Tomb
 2 Tyrant's Scorn
-2 Voracious Hydra
 2 Temple of Deceit
+2 Voracious Hydra
 2 Casualties of War
 2 Forest
 2 Paradise Druid
@@ -70,17 +65,18 @@
 3 Growth Spiral
 3 Temple of Mystery
 3 Deathsprout
+3 Fabled Passage
 3 Paradise Druid
 3 Temple of Deceit
 3 Nissa, Who Shakes the World
 4 Overgrown Tomb
-4 Casualties of War
 4 Fabled Passage
+4 Casualties of War
 4 Paradise Druid
-4 Growth Spiral
 4 Hydroid Krasis
 4 Nissa, Who Shakes the World
 4 Deathsprout
 4 Breeding Pool
 4 Temple of Deceit
+4 Growth Spiral
 4 Voracious Hydra
