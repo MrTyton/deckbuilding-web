@@ -62,12 +62,12 @@
 1 Bomat Courier
 1 The Royal Scions
 1 Hope of Ghirapur
+1 Steam Vents
 1 Ensoul Artifact
 1 Darksteel Citadel
 1 Skilled Animator
 1 Shivan Reef
 1 Gingerbrute
-1 Steam Vents
 1 Ghostfire Blade
 1 Shrapnel Blast
 2 Stonecoil Serpent
@@ -103,20 +103,73 @@
 4 Spirebluff Canal
 4 Ghostfire Blade
 4 Ensoul Artifact
-1 Castle Embereth
 1 Forest
+1 Mana Confluence
+1 Concealed Courtyard
+1 Godless Shrine
+2 Concealed Courtyard
+2 Godless Shrine
+3 Godless Shrine
+3 Concealed Courtyard
+4 Concealed Courtyard
+1 Plains
+2 Plains
+4 Godless Shrine
+3 Plains
+4 Plains
+1 Alseid of Life's Bounty
+2 Alseid of Life's Bounty
+3 Alseid of Life's Bounty
+5 Plains
+6 Plains
+1 Aphemia, the Cacophony
+1 Cartouche of Solidarity
+1 Hateful Eidolon
+1 Gryff's Boon
+1 Sram, Senior Edificer
+1 Ethereal Armor
+1 Karametra's Blessing
+1 All That Glitters
+1 Sentinel's Eyes
+2 Gryff's Boon
+2 Karametra's Blessing
+2 Hateful Eidolon
+2 Sram, Senior Edificer
+2 Ethereal Armor
+2 All That Glitters
+2 Cartouche of Solidarity
+2 Aphemia, the Cacophony
+2 Sentinel's Eyes
+3 All That Glitters
+3 Sentinel's Eyes
+3 Aphemia, the Cacophony
+3 Gryff's Boon
+3 Hateful Eidolon
+3 Cartouche of Solidarity
+3 Sram, Senior Edificer
+3 Ethereal Armor
+3 Karametra's Blessing
+4 Sentinel's Eyes
+4 Sram, Senior Edificer
+4 Karametra's Blessing
+4 Hateful Eidolon
+4 Alseid of Life's Bounty
+4 Ethereal Armor
+1 Castle Embereth
 1 Breeding Pool
 1 Uro, Titan of Nature's Wrath
 2 Breeding Pool
 2 Uro, Titan of Nature's Wrath
+1 Isolated Chapel
+2 Isolated Chapel
 2 Island
+1 Fatal Push
+2 Fatal Push
 4 Llanowar Wastes
 1 Collected Company
 1 Scavenging Ooze
 2 Collected Company
 3 Collected Company
-3 Breeding Pool
-4 Botanical Sanctum
 1 Lovestruck Beast
 1 Llanowar Elves
 1 Elvish Mystic
@@ -128,31 +181,25 @@
 3 Elvish Mystic
 4 Collected Company
 4 Llanowar Elves
+3 Breeding Pool
+4 Botanical Sanctum
+1 Caves of Koilos
+2 Caves of Koilos
+3 Caves of Koilos
+4 Caves of Koilos
 1 Tireless Tracker
-1 Fatal Push
-2 Fatal Push
 2 Forest
-1 Plains
-1 Concealed Courtyard
-1 Godless Shrine
-2 Concealed Courtyard
-2 Godless Shrine
-3 Godless Shrine
-3 Concealed Courtyard
-4 Concealed Courtyard
-2 Plains
 1 Hallowed Fountain
 1 Reflector Mage
 2 Hallowed Fountain
 2 Reflector Mage
 3 Hallowed Fountain
 4 Hallowed Fountain
+3 Reflector Mage
+4 Reflector Mage
 2 Tireless Tracker
 3 Tireless Tracker
 4 Tireless Tracker
-3 Reflector Mage
-4 Reflector Mage
-3 Plains
 1 Sunpetal Grove
 1 Voice of Resurgence
 1 Temple Garden
@@ -164,33 +211,22 @@
 1 Glacial Fortress
 1 Teferi, Time Raveler
 2 Glacial Fortress
-1 Thoughtseize
-2 Thoughtseize
-3 Fatal Push
-1 Mana Confluence
-4 Godless Shrine
-1 Thraben Inspector
-2 Thraben Inspector
-3 Thraben Inspector
-4 Thraben Inspector
-4 Fatal Push
-1 Caves of Koilos
-2 Caves of Koilos
-3 Caves of Koilos
-4 Caves of Koilos
-1 Gilded Goose
+7 Plains
 1 Spell Queller
 2 Spell Queller
 3 Spell Queller
 4 Spell Queller
-4 Plains
-3 Thoughtseize
-4 Thoughtseize
+3 Isolated Chapel
+4 Isolated Chapel
 4 Lovestruck Beast
 4 Elvish Mystic
+1 Gilded Goose
+3 Fatal Push
 3 Forest
-1 Liliana, the Last Hope
-2 Liliana, the Last Hope
+1 Thoughtseize
+2 Thoughtseize
+3 Thoughtseize
+4 Thoughtseize
 1 Assassin's Trophy
 1 Fabled Passage
 2 Assassin's Trophy
@@ -198,19 +234,23 @@
 3 Fabled Passage
 1 Stomping Ground
 2 Stomping Ground
-1 Urborg, Tomb of Yawgmoth
-3 Mutavault
-4 Mutavault
 1 Gideon, Ally of Zendikar
 2 Gideon, Ally of Zendikar
 3 Gideon, Ally of Zendikar
-1 Isolated Chapel
-2 Isolated Chapel
-1 Murderous Rider
+1 Thraben Inspector
+2 Thraben Inspector
+3 Thraben Inspector
+4 Thraben Inspector
+4 Fatal Push
 1 Decimator of the Provinces
 2 Decimator of the Provinces
 1 Woodland Cemetery
 3 Driven / Despair
+1 Adanto Vanguard
+1 Gods Willing
+2 Gods Willing
+2 Adanto Vanguard
+4 Gryff's Boon
 1 Hazoret the Fervent
 1 Hangarback Walker
 2 The Royal Scions
@@ -222,34 +262,6 @@
 2 Emry, Lurker of the Loch
 2 Metallic Rebuke
 4 Bomat Courier
-1 Ravenous Chupacabra
-1 Ifnir Deadlands
-1 Shefet Dunes
-1 Silkwrap
-1 Shambling Vent
-1 Thought-Knot Seer
-1 Wasteland Strangler
-1 Fairgrounds Warden
-1 Lyra Dawnbringer
-1 Ultimate Price
-1 Brain Maggot
-1 Baffling End
-2 Shefet Dunes
-2 Thought-Knot Seer
-2 Brain Maggot
-2 Wasteland Strangler
-2 Shambling Vent
-2 Ultimate Price
-2 Fairgrounds Warden
-2 Lyra Dawnbringer
-2 Ifnir Deadlands
-2 Ravenous Chupacabra
-3 Thought-Knot Seer
-3 Brain Maggot
-3 Wasteland Strangler
-4 Wasteland Strangler
-4 Brain Maggot
-4 Thought-Knot Seer
 1 Lightning Strike
 1 Ramunap Ruins
 1 Torbran, Thane of Red Fell
@@ -282,6 +294,7 @@
 1 Archangel Avacyn
 1 Kunoros, Hound of Athreos
 1 Thalia, Heretic Cathar
+1 Urborg, Tomb of Yawgmoth
 1 Gideon of the Trials
 1 Knight of the Ebon Legion
 2 History of Benalia
@@ -290,13 +303,50 @@
 2 Knight of the Ebon Legion
 3 History of Benalia
 3 Heart of Kiran
+3 Mutavault
 3 Knight of the Ebon Legion
 4 History of Benalia
+4 Mutavault
 4 Knight of the Ebon Legion
+3 Glacial Fortress
+3 Island
+4 Glacial Fortress
+4 Island
+5 Island
+1 Port Town
+1 Azorius Charm
+1 Teferi, Hero of Dominaria
+1 Judge's Familiar
+1 Irrigated Farmland
+1 Dream Trawler
+1 Detention Sphere
+1 Hero of Precinct One
+1 Dovin's Veto
+1 Long Road Home
+1 Castle Ardenvale
+2 Port Town
+2 Teferi, Hero of Dominaria
+2 Azorius Charm
+2 Judge's Familiar
+2 Irrigated Farmland
+2 Dovin's Veto
+2 Detention Sphere
+2 Teferi, Time Raveler
+2 Dream Trawler
+2 Hero of Precinct One
+3 Detention Sphere
+3 Teferi, Time Raveler
+3 Hero of Precinct One
+3 Judge's Familiar
+4 Teferi, Time Raveler
+4 Hero of Precinct One
+4 Judge's Familiar
 1 Deathrite Shaman
 1 Nissa, Vastwood Seer
 1 Grim Flayer
 1 Abrupt Decay
+1 Liliana, the Last Hope
+2 Liliana, the Last Hope
 2 Deathrite Shaman
 2 Grim Flayer
 2 Abrupt Decay
@@ -309,15 +359,16 @@
 4 Deathrite Shaman
 1 Vraska, Golgari Queen
 1 Castle Locthwain
+1 Murderous Rider
 1 Mayhem Devil
 1 Korvold, Fae-Cursed King
 1 Sylvan Caryatid
 1 Cauldron Familiar
 1 Trail of Crumbs
 1 Witch's Oven
+2 Vraska, Golgari Queen
 2 Murderous Rider
 2 Gilded Goose
-2 Vraska, Golgari Queen
 2 Mayhem Devil
 2 Witch's Oven
 2 Cauldron Familiar
@@ -332,8 +383,8 @@
 3 Trail of Crumbs
 3 Witch's Oven
 3 Murderous Rider
-4 Gilded Goose
 4 Fabled Passage
+4 Gilded Goose
 4 Sylvan Caryatid
 4 Witch's Oven
 4 Cauldron Familiar
@@ -357,47 +408,9 @@
 3 Stomping Ground
 4 Rotting Regisaur
 4 Stomping Ground
-1 Alseid of Life's Bounty
-2 Alseid of Life's Bounty
-3 Alseid of Life's Bounty
-5 Plains
-6 Plains
-1 Aphemia, the Cacophony
 1 Favored Hoplite
-1 Hateful Eidolon
-1 Gryff's Boon
-1 Sram, Senior Edificer
-1 Ethereal Armor
-1 Karametra's Blessing
-1 All That Glitters
-1 Sentinel's Eyes
-1 Cartouche of Solidarity
-2 Gryff's Boon
-2 Karametra's Blessing
-2 Hateful Eidolon
-2 Sram, Senior Edificer
-2 Ethereal Armor
-2 All That Glitters
-2 Cartouche of Solidarity
 2 Favored Hoplite
-2 Aphemia, the Cacophony
-2 Sentinel's Eyes
-3 All That Glitters
-3 Sentinel's Eyes
-3 Aphemia, the Cacophony
-3 Gryff's Boon
-3 Hateful Eidolon
-3 Cartouche of Solidarity
-3 Sram, Senior Edificer
-3 Ethereal Armor
-3 Karametra's Blessing
-4 Sentinel's Eyes
 4 Cartouche of Solidarity
-4 Sram, Senior Edificer
-4 Karametra's Blessing
-4 Hateful Eidolon
-4 Alseid of Life's Bounty
-4 Ethereal Armor
 4 All That Glitters
 1 Thalia's Lieutenant
 1 Charming Prince
@@ -458,7 +471,6 @@
 2 Liliana, Untouched by Death
 2 Rally the Ancestors
 3 Lazotep Reaver
-3 Isolated Chapel
 3 Corpse Knight
 3 Temple of Silence
 3 Cryptbreaker
@@ -468,7 +480,6 @@
 3 Swamp
 3 Wayward Servant
 3 Dread Wanderer
-4 Isolated Chapel
 4 Corpse Knight
 4 Temple of Silence
 4 Cryptbreaker
@@ -502,40 +513,6 @@
 5 Forest
 6 Forest
 7 Forest
-3 Glacial Fortress
-3 Island
-4 Glacial Fortress
-4 Island
-5 Island
-1 Port Town
-1 Azorius Charm
-1 Teferi, Hero of Dominaria
-1 Judge's Familiar
-1 Irrigated Farmland
-1 Dream Trawler
-1 Detention Sphere
-1 Hero of Precinct One
-1 Dovin's Veto
-1 Long Road Home
-1 Castle Ardenvale
-2 Port Town
-2 Teferi, Hero of Dominaria
-2 Azorius Charm
-2 Judge's Familiar
-2 Irrigated Farmland
-2 Dovin's Veto
-2 Detention Sphere
-2 Teferi, Time Raveler
-2 Dream Trawler
-2 Hero of Precinct One
-3 Detention Sphere
-3 Teferi, Time Raveler
-3 Hero of Precinct One
-3 Judge's Familiar
-4 Teferi, Time Raveler
-4 Hero of Precinct One
-4 Judge's Familiar
-7 Plains
 2 Abrade
 12 Mountain
 1 Omen of the Sea

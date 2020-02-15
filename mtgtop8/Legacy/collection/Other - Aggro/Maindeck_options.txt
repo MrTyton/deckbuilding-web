@@ -35,8 +35,8 @@
 1 Gaea's Cradle
 2 Knight of the Reliquary
 3 Knight of the Reliquary
-4 Knight of the Reliquary
 4 Swords to Plowshares
+4 Knight of the Reliquary
 1 Thalia, Guardian of Thraben
 2 Thalia, Guardian of Thraben
 3 Thalia, Guardian of Thraben
@@ -44,8 +44,8 @@
 2 Once Upon a Time
 1 Mox Diamond
 2 Mox Diamond
-3 Once Upon a Time
 3 Mox Diamond
+3 Once Upon a Time
 1 Ramunap Excavator
 1 Umezawa's Jitte
 1 Sword of Fire and Ice
@@ -66,14 +66,14 @@
 1 Hexdrinker
 1 Ice-Fang Coatl
 1 Courser of Kruphix
+2 Ice-Fang Coatl
 2 Leovold, Emissary of Trest
 2 Snow-Covered Forest
 2 Abrupt Decay
-2 Ice-Fang Coatl
 2 Teferi, Time Raveler
 2 Arcum's Astrolabe
-3 Arcum's Astrolabe
 3 Ice-Fang Coatl
+3 Arcum's Astrolabe
 4 Misty Rainforest
 4 Ice-Fang Coatl
 1 Verdant Catacombs
@@ -157,62 +157,10 @@
 3 Giver of Runes
 3 Savannah
 4 Giver of Runes
-1 Bloodstained Mire
-1 Fatal Push
-2 Fatal Push
-1 Mountain
-1 Pyroblast
-2 Pyroblast
-1 Arid Mesa
-1 Bonecrusher Giant
-1 Hymn to Tourach
-1 Young Pyromancer
-1 Bedlam Reveler
-1 Lightning Bolt
-1 Thoughtseize
-1 Liliana, the Last Hope
-1 Plateau
-1 Cabal Therapy
-1 Lingering Souls
-1 Mishra's Bauble
-1 Swamp
-2 Bonecrusher Giant
-2 Arid Mesa
-2 Hymn to Tourach
-2 Plateau
-2 Young Pyromancer
-2 Bedlam Reveler
-2 Lightning Bolt
-2 Bloodstained Mire
-2 Thoughtseize
-2 Liliana, the Last Hope
-2 Mishra's Bauble
-2 Lingering Souls
-2 Cabal Therapy
-2 Badlands
-3 Marsh Flats
-3 Thoughtseize
-3 Arid Mesa
-3 Badlands
-3 Lightning Bolt
-3 Young Pyromancer
-3 Bedlam Reveler
-3 Faithless Looting
-3 Bloodstained Mire
-3 Lingering Souls
-3 Cabal Therapy
-3 Mishra's Bauble
-4 Bloodstained Mire
-4 Marsh Flats
-4 Young Pyromancer
-4 Lightning Bolt
-4 Arid Mesa
-4 Faithless Looting
-4 Mishra's Bauble
 1 Thalia, Heretic Cathar
 1 Knight of Autumn
-1 Walking Ballista
 1 Phyrexian Revoker
+1 Walking Ballista
 1 Thorn of Amethyst
 2 Plains
 2 Palace Jailer
@@ -270,6 +218,9 @@
 2 Daze
 3 Ponder
 3 Daze
+1 Bloodstained Mire
+1 Fatal Push
+2 Fatal Push
 1 Retrofitter Foundry
 1 Preordain
 1 Snow-Covered Swamp
@@ -305,6 +256,55 @@
 4 Changeling Outcast
 4 Ingenious Infiltrator
 4 Polluted Delta
+1 Mountain
+1 Pyroblast
+2 Pyroblast
+1 Arid Mesa
+1 Bonecrusher Giant
+1 Hymn to Tourach
+1 Bedlam Reveler
+1 Young Pyromancer
+1 Lightning Bolt
+1 Thoughtseize
+1 Liliana, the Last Hope
+1 Plateau
+1 Cabal Therapy
+1 Lingering Souls
+1 Mishra's Bauble
+1 Swamp
+2 Bonecrusher Giant
+2 Arid Mesa
+2 Hymn to Tourach
+2 Plateau
+2 Young Pyromancer
+2 Bedlam Reveler
+2 Lightning Bolt
+2 Bloodstained Mire
+2 Thoughtseize
+2 Liliana, the Last Hope
+2 Mishra's Bauble
+2 Lingering Souls
+2 Cabal Therapy
+2 Badlands
+3 Cabal Therapy
+3 Thoughtseize
+3 Badlands
+3 Marsh Flats
+3 Arid Mesa
+3 Lightning Bolt
+3 Young Pyromancer
+3 Bedlam Reveler
+3 Faithless Looting
+3 Bloodstained Mire
+3 Lingering Souls
+3 Mishra's Bauble
+4 Marsh Flats
+4 Lightning Bolt
+4 Young Pyromancer
+4 Arid Mesa
+4 Faithless Looting
+4 Mishra's Bauble
+4 Bloodstained Mire
 1 True-Name Nemesis
 1 Stifle
 1 Delver of Secrets

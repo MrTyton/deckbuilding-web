@@ -34,8 +34,8 @@
 
 |*n*<sup>th</sup> copy|                                        Maindeck Card                                        |*n*<sup>th</sup> copy|                                           Sideboard Card                                           |
 |--------------------:|---------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------------|
-|                    1|[Fabled Passage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473206)    |                    2|[Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)                   |
-|                    1|[Treasure Cruise](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420718)   |                    2|[Dispel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401858)                   |
+|                    1|[Fabled Passage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473206)    |                    2|[Dispel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401858)                   |
+|                    1|[Treasure Cruise](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420718)   |                    2|[Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)                   |
 |                    1|[Shivan Reef](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129731)       |                    1|[Narset, Parter of Veils](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460988)  |
 |                    1|[Crackling Drake](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452913)   |                    1|[Chandra, Awakened Inferno](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466881)|
 |                    1|[Brazen Borrower](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473001)   |                    1|[Young Pyromancer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426592)         |
