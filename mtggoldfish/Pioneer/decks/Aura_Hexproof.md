@@ -28,8 +28,8 @@
 
 |*n*<sup>th</sup> copy|                                          Maindeck Card                                           |*n*<sup>th</sup> copy|                                         Sideboard Card                                         |
 |--------------------:|--------------------------------------------------------------------------------------------------|--------------------:|------------------------------------------------------------------------------------------------|
-|                    1|[Sram, Senior Edificer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423690)  |                    1|[Gideon of the Trials](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426716) |
 |                    1|[Sentinel's Mark](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457164)        |                    1|[Mastery of the Unseen](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391878)|
+|                    1|[Sram, Senior Edificer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423690)  |                    1|[Gideon of the Trials](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426716) |
 |                    1|[Hopeful Eidolon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373616)        |                    1|[Sheltering Light](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435187)     |
 |                    1|[Cartouche of Strength](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426860)  |                    1|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)        |
 |                    1|[Dromoka's Command](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394558)      |                    1|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)       |

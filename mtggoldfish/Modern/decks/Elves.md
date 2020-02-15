@@ -1,0 +1,36 @@
+# Elves
+
+#### [Export MTGO List](../collection/Elves/Elves.txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=2%09Boreal%20Druid%0A3%09Cavern%20of%20Souls%0A4%09Chord%20of%20Calling%0A2%09Collected%20Company%0A1%09Collector%20Ouphe%0A4%09Devoted%20Druid%0A4%09Dwynen's%20Elite%0A4%09Elvish%20Archdruid%0A4%09Elvish%20Mystic%0A3%09Ezuri,%20Renegade%20Leader%0A3%09Forest%0A4%09Heritage%20Druid%0A3%09Horizon%20Canopy%0A4%09Llanowar%20Elves%0A4%09Once%20Upon%20a%20Time%0A4%09Razorverge%20Thicket%0A1%09Scavenging%20Ooze%0A1%09Shalai,%20Voice%20of%20Plenty%0A1%09Temple%20Garden%0A1%09Vizier%20of%20Remedies%0A1%09Westvale%20Abbey%0A2%09Windswept%20Heath&deckside=1%09Aven%20Mindcensor%0A1%09Chameleon%20Colossus%0A1%09Collector%20Ouphe%0A1%09Eidolon%20of%20Rhetoric%0A1%09Eternal%20Witness%0A1%09Fracturing%20Gust%0A1%09Knight%20of%20Autumn%0A3%09Path%20to%20Exile%0A1%09Phyrexian%20Revoker%0A1%09Scavenging%20Ooze%0A1%09Selfless%20Spirit%0A2%09Veil%20of%20Summer)
+# Maindeck
+
+|                                           Creature (33)                                            |                                         Instant (10)                                         |                                           Land (17)                                           |
+|----------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
+|2 [Boreal Druid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121193)           |4 [Chord of Calling](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383209) |3 [Cavern of Souls](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278058)   |
+|1 [Collector Ouphe](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464107)        |2 [Collected Company](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394519)|3 [Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)            |
+|4 [Devoted Druid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=135500)          |4 [Once Upon a Time](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473131) |3 [Horizon Canopy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409571)    |
+|4 [Dwynen's Elite](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442739)         |                                                                                              |4 [Razorverge Thicket](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=209407)|
+|4 [Elvish Archdruid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389498)       |                                                                                              |1 [Temple Garden](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405112)     |
+|4 [Elvish Mystic](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389499)          |                                                                                              |1 [Westvale Abbey](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=410049)    |
+|3 [Ezuri, Renegade Leader](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389511) |                                                                                              |2 [Windswept Heath](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405115)   |
+|4 [Heritage Druid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413713)         |                                                                                              |                                                                                               |
+|4 [Llanowar Elves](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129626)         |                                                                                              |                                                                                               |
+|1 [Scavenging Ooze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420783)        |                                                                                              |                                                                                               |
+|1 [Shalai, Voice of Plenty](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442923)|                                                                                              |                                                                                               |
+|1 [Vizier of Remedies](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426740)     |                                                                                              |                                                                                               |
+
+
+# Sideboard
+
+|                                          Creature (9)                                          |                                        Instant (6)                                         |
+|------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
+|1 [Aven Mindcensor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426707)    |1 [Fracturing Gust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=146759)|
+|1 [Chameleon Colossus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220451) |3 [Path to Exile](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220511)  |
+|1 [Collector Ouphe](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464107)    |2 [Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952) |
+|1 [Eidolon of Rhetoric](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=380409)|                                                                                            |
+|1 [Eternal Witness](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=51628)     |                                                                                            |
+|1 [Knight of Autumn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452933)   |                                                                                            |
+|1 [Phyrexian Revoker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383343)  |                                                                                            |
+|1 [Scavenging Ooze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420783)    |                                                                                            |
+|1 [Selfless Spirit](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414332)    |                                                                                            |
+

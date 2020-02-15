@@ -1,0 +1,27 @@
+# Izzet Flash
+
+#### [Export MTGO List](../collection/Izzet%20Flash/Izzet%20Flash.txt)
+#### [Export Arena List](../collection/Izzet%20Flash/Izzet%20Flash_arena.txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=2%09Blast%20Zone%0A4%09Bonecrusher%20Giant%0A4%09Brazen%20Borrower%0A4%09Brineborn%20Cutthroat%0A2%09Castle%20Vantress%0A2%09Fabled%20Passage%0A4%09Gadwick,%20the%20Wizened%0A4%09Ionize%0A8%09Island%0A3%09Mountain%0A2%09Negate%0A1%09Omen%20of%20the%20Sea%0A4%09Opt%0A3%09Quench%0A1%09Ral's%20Outburst%0A2%09Scorching%20Dragonfire%0A4%09Steam%20Vents%0A4%09Temple%20of%20Epiphany%0A2%09Thassa's%20Intervention&deckside=3%09Aether%20Gust%0A3%09Flame%20Sweep%0A2%09Lava%20Coil%0A3%09Mystical%20Dispute%0A1%09Negate%0A1%09Sorcerous%20Spyglass%0A2%09Thryx,%20the%20Sudden%20Storm)
+# Maindeck
+
+|                                          Creature (16)                                          |                                          Instant (16)                                           |                                           Land (25)                                           |      Unknown (3)      |
+|-------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|-----------------------|
+|4 [Bonecrusher Giant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473077)   |4 [Ionize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452929)              |2 [Blast Zone](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461171)        |1 Omen of the Sea      |
+|4 [Brazen Borrower](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473001)     |2 [Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)              |2 [Castle Vantress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473204)   |2 Thassa's Intervention|
+|4 [Brineborn Cutthroat](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466804) |4 [Opt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442948)                 |2 [Fabled Passage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473206)    |                       |
+|4 [Gadwick, the Wizened](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473010)|3 [Quench](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457192)              |8 [Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)            |                       |
+|                                                                                                 |1 [Ral's Outburst](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461139)      |3 [Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)          |                       |
+|                                                                                                 |2 [Scorching Dragonfire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473101)|4 [Steam Vents](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405109)       |                       |
+|                                                                                                 |                                                                                                 |4 [Temple of Epiphany](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442808)|                       |
+
+
+# Sideboard
+
+|                                         Artifact (1)                                          |                                        Instant (10)                                         |                                     Sorcery (2)                                      |       Unknown (2)       |
+|-----------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|-------------------------|
+|1 [Sorcerous Spyglass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435407)|3 [Aether Gust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466796)     |2 [Lava Coil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452858)|2 Thryx, the Sudden Storm|
+|                                                                                               |3 [Flame Sweep](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466893)     |                                                                                      |                         |
+|                                                                                               |3 [Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)|                                                                                      |                         |
+|                                                                                               |1 [Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)          |                                                                                      |                         |
+

@@ -29,8 +29,15 @@
 
 # Other Options
 
-|*n*<sup>th</sup> copy|                                      Maindeck Card                                      |*n*<sup>th</sup> copy|                                       Sideboard Card                                        |
-|--------------------:|-----------------------------------------------------------------------------------------|--------------------:|---------------------------------------------------------------------------------------------|
-|                    1|[Legion Warboss](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452859)|                    1|[Sorcerous Spyglass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435407)|
-|                     |                                                                                         |                    1|[Damping Matrix](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426043)    |
+|*n*<sup>th</sup> copy|                                        Maindeck Card                                         |*n*<sup>th</sup> copy|                                         Sideboard Card                                         |
+|--------------------:|----------------------------------------------------------------------------------------------|--------------------:|------------------------------------------------------------------------------------------------|
+|                    1|[Legion Warboss](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452859)     |                    1|[Smash to Smithereens](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397795) |
+|                    1|[Zhalfirin Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443137)     |                    1|[Leyline of Combustion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466902)|
+|                    2|[Hazoret the Fervent](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426838)|                    1|[Spellskite](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397743)           |
+|                    2|[Magus of the Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=136152)  |                    2|[Leyline of Combustion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466902)|
+|                    2|[Legion Warboss](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452859)     |                    2|[Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)       |
+|                    2|[Slagstorm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=214054)          |                    3|[Leyline of Combustion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466902)|
+|                     |                                                                                              |                    4|[Leyline of Combustion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466902)|
+|                     |                                                                                              |                    1|[Sorcerous Spyglass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435407)   |
+|                     |                                                                                              |                    1|[Damping Matrix](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426043)       |
 

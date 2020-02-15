@@ -7,8 +7,8 @@
 1 Chandra, Awakened Inferno
 1 Abrade
 1 Vivien Reid
-2 Chandra, Awakened Inferno
 2 Vivien Reid
+2 Chandra, Awakened Inferno
 2 Alpine Moon
 1 Grafdigger's Cage
 2 Grafdigger's Cage
@@ -59,12 +59,6 @@
 2 Rekindling Phoenix
 3 Rekindling Phoenix
 3 Chandra, Torch of Defiance
-1 Pithing Needle
-1 Lifecrafter's Bestiary
-2 Pithing Needle
-2 Lifecrafter's Bestiary
-3 Lifecrafter's Bestiary
-3 Magma Spray
 1 Goblin Chainwhirler
 1 Claim the Firstborn
 1 Eidolon of the Great Revel
@@ -72,6 +66,12 @@
 2 Claim the Firstborn
 2 Eidolon of the Great Revel
 3 Eidolon of the Great Revel
+1 Pithing Needle
+1 Lifecrafter's Bestiary
+2 Pithing Needle
+2 Lifecrafter's Bestiary
+3 Magma Spray
+3 Lifecrafter's Bestiary
 1 Questing Beast
 1 Vine Mare
 1 Oath of Chandra
@@ -98,16 +98,16 @@
 3 Heroic Intervention
 3 Feed the Clan
 4 Heroic Intervention
-3 Destructive Revelry
-3 Grafdigger's Cage
-4 Lava Coil
-4 Grafdigger's Cage
 1 Domri Rade
 1 Arlinn Kord
 2 Domri Rade
 2 Arlinn Kord
 3 Chandra's Defeat
 4 Cindervines
+3 Grafdigger's Cage
+3 Destructive Revelry
+4 Lava Coil
+4 Grafdigger's Cage
 1 Hazoret the Fervent
 1 Collision / Colossus
 1 Zhur-Taa Goblin

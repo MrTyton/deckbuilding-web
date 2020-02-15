@@ -29,8 +29,8 @@
 3 Censor
 4 Censor
 4 Drowned Catacomb
-1 Pharika's Libation
 1 Kroxa, Titan of Death's Hunger
+1 Pharika's Libation
 2 Kroxa, Titan of Death's Hunger
 3 Castle Locthwain
 1 Castle Vantress
@@ -111,8 +111,8 @@
 3 Overgrown Tomb
 1 Read the Bones
 1 Woodland Cemetery
-1 Tireless Tracker
 1 Hissing Quagmire
+1 Tireless Tracker
 2 Hissing Quagmire
 1 Nissa's Pilgrimage
 1 Gonti, Lord of Luxury
@@ -156,12 +156,12 @@
 1 Distended Mindbender
 1 Flamewake Phoenix
 2 Mutavault
-2 Distended Mindbender
 2 Rix Maadi Reveler
+2 Distended Mindbender
 2 Flamewake Phoenix
 3 Flamewake Phoenix
-1 Jace, Unraveler of Secrets
 1 Westvale Abbey
+1 Jace, Unraveler of Secrets
 1 Geier Reach Sanitarium
 2 Jace, Unraveler of Secrets
 2 Fetid Pools
@@ -172,9 +172,9 @@
 2 Hinterland Harbor
 2 Nissa's Pilgrimage
 2 Emrakul, the Promised End
-3 Vessel of Nascency
 3 Hinterland Harbor
 3 Arboreal Grazer
+3 Vessel of Nascency
 4 Hinterland Harbor
 4 Arboreal Grazer
 1 Tyrant's Scorn
@@ -186,12 +186,30 @@
 1 Stomping Ground
 1 Rootbound Crag
 2 Stomping Ground
-2 Blooming Marsh
 2 Abrupt Decay
+2 Blooming Marsh
 2 Rootbound Crag
 3 Blooming Marsh
 3 Assassin's Trophy
 4 Blooming Marsh
+1 Wandering Fumarole
+1 Glimmer of Genius
+1 Glint-Sleeve Siphoner
+1 Hour of Devastation
+1 Ritual of Soot
+1 Aether Hub
+1 Liliana, Dreadhorde General
+2 Wandering Fumarole
+2 Glimmer of Genius
+2 Glint-Sleeve Siphoner
+2 The Scarab God
+2 Ritual of Soot
+2 Aether Hub
+3 Kalitas, Traitor of Ghet
+3 Glint-Sleeve Siphoner
+3 Aether Hub
+4 Aether Hub
+4 Glint-Sleeve Siphoner
 1 Collective Brutality
 1 Grim Flayer
 1 Questing Beast
@@ -202,29 +220,11 @@
 3 Grim Flayer
 4 Grim Flayer
 4 Overgrown Tomb
-1 Wandering Fumarole
-1 Glimmer of Genius
-1 Glint-Sleeve Siphoner
-1 Hour of Devastation
-1 Ritual of Soot
-1 Aether Hub
-1 Liliana, Dreadhorde General
-2 Wandering Fumarole
-2 Glimmer of Genius
-2 Ritual of Soot
-2 The Scarab God
-2 Glint-Sleeve Siphoner
-2 Aether Hub
-3 Glint-Sleeve Siphoner
-3 Kalitas, Traitor of Ghet
-3 Aether Hub
-4 Aether Hub
-4 Glint-Sleeve Siphoner
 1 Temple of Malady
-1 Seasons Past
 1 Dark Petition
 1 Pulse of Murasa
 1 Lovestruck Beast
+1 Seasons Past
 1 Scavenging Ooze
 2 Temple of Malady
 2 Dark Petition
@@ -257,8 +257,8 @@
 4 Kroxa, Titan of Death's Hunger
 4 Ramunap Ruins
 1 Thirst for Meaning
-1 Ashiok, Nightmare Muse
 1 Sphinx's Revelation
+1 Ashiok, Nightmare Muse
 1 Temple of Deceit
 1 Whirlwind Denial
 1 Detention Sphere
@@ -366,15 +366,15 @@
 5 Island
 1 Sunpetal Grove
 1 Gilded Goose
+1 Chord of Calling
 1 Radiant Fountain
+1 Anafenza, Kin-Tree Spirit
 1 Elvish Visionary
 1 Collected Company
 1 Voice of Resurgence
 1 Heliod, Sun-Crowned
 1 Knight of Autumn
 1 Selfless Spirit
-1 Anafenza, Kin-Tree Spirit
-1 Chord of Calling
 1 Llanowar Elves
 1 Elvish Mystic
 1 Fortified Village
@@ -382,13 +382,13 @@
 1 Alseid of Life's Bounty
 1 Fairgrounds Warden
 1 Militia Bugler
-2 Elvish Visionary
 2 Chord of Calling
 2 Radiant Fountain
+2 Elvish Visionary
 2 Collected Company
 2 Voice of Resurgence
-2 Heliod, Sun-Crowned
 2 Sunpetal Grove
+2 Heliod, Sun-Crowned
 2 Fortified Village
 2 Militia Bugler
 2 Llanowar Elves
@@ -396,8 +396,8 @@
 2 Temple Garden
 3 Collected Company
 3 Sunpetal Grove
-3 Llanowar Elves
 3 Heliod, Sun-Crowned
+3 Llanowar Elves
 3 Elvish Mystic
 3 Temple Garden
 3 Fortified Village
@@ -405,37 +405,37 @@
 4 Temple Garden
 4 Walking Ballista
 4 Collected Company
-4 Militia Bugler
 4 Heliod, Sun-Crowned
+4 Militia Bugler
 7 Forest
 1 Elspeth, Sun's Nemesis
 1 Gideon of the Trials
-1 Nahiri, the Harbinger
 1 Elspeth, Sun's Champion
+1 Nahiri, the Harbinger
 1 Gideon, Ally of Zendikar
-1 Chained to the Rocks
 1 Settle the Wreckage
 1 Haktos the Unscarred
 1 Abrade
 1 Clifftop Retreat
 1 Temple of Triumph
+1 Chained to the Rocks
 1 Needle Spires
 1 Sacred Foundry
 1 Lava Coil
 2 Gideon, Ally of Zendikar
 2 Gideon of the Trials
 2 Clifftop Retreat
-2 Chained to the Rocks
 2 Temple of Triumph
 2 Sacred Foundry
 2 Settle the Wreckage
 2 Haktos the Unscarred
 2 Lava Coil
 2 Needle Spires
+2 Chained to the Rocks
 3 Anger of the Gods
 3 Gideon of the Trials
-3 Clifftop Retreat
 3 Gideon, Ally of Zendikar
+3 Clifftop Retreat
 3 Chained to the Rocks
 3 Temple of Triumph
 3 Needle Spires
@@ -443,9 +443,9 @@
 3 Haktos the Unscarred
 4 Sacred Foundry
 4 Gideon of the Trials
-4 Clifftop Retreat
-4 Chained to the Rocks
 4 Haktos the Unscarred
+4 Chained to the Rocks
+4 Clifftop Retreat
 4 Temple of Triumph
 5 Mountain
 6 Mountain

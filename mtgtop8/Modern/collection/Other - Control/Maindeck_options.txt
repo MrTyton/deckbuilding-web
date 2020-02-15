@@ -22,8 +22,8 @@
 2 Polluted Delta
 3 Polluted Delta
 1 Verdant Catacombs
-1 Spell Snare
 1 Fatal Push
+1 Spell Snare
 1 Force of Negation
 2 Fatal Push
 2 Force of Negation
@@ -68,10 +68,10 @@
 1 Oboro, Palace in the Clouds
 2 Courser of Kruphix
 3 Forest
-1 Blood Crypt
-1 Uro, Titan of Nature's Wrath
-1 Archmage's Charm
 1 Assassin's Trophy
+1 Uro, Titan of Nature's Wrath
+1 Blood Crypt
+1 Archmage's Charm
 2 Verdant Catacombs
 2 Uro, Titan of Nature's Wrath
 2 Assassin's Trophy
@@ -116,18 +116,18 @@
 1 Thoughtseize
 2 Snow-Covered Swamp
 2 Narset, Parter of Veils
-2 Creeping Tar Pit
 2 Liliana of the Veil
 2 Damnation
 2 Geier Reach Sanitarium
 2 Darkslick Shores
 2 Watery Grave
+2 Creeping Tar Pit
 2 Inquisition of Kozilek
 2 Serum Visions
 3 Inquisition of Kozilek
 3 Narset, Parter of Veils
-3 Creeping Tar Pit
 3 Liliana of the Veil
+3 Creeping Tar Pit
 3 Serum Visions
 4 Inquisition of Kozilek
 4 Serum Visions
@@ -137,9 +137,9 @@
 1 Liliana's Triumph
 1 Cling to Dust
 1 Deprive
+1 Shadow of Doubt
 1 Isochron Scepter
 1 Castle Locthwain
-1 Into the Story
 1 Hero's Downfall
 1 Whirlwind Denial
 1 Mystic Sanctuary
@@ -147,7 +147,7 @@
 1 Flooded Strand
 1 Opt
 1 Drowned Catacomb
-1 Shadow of Doubt
+1 Into the Story
 1 Empty the Pits
 2 Sunken Ruins
 2 Into the Story
@@ -157,27 +157,27 @@
 3 Cryptic Command
 4 Thought Scour
 1 Mwonvuli Acid-Moss
-1 Stomping Ground
-1 Windswept Heath
 1 Oath of Nissa
+1 Windswept Heath
+1 Stomping Ground
 1 Nykthos, Shrine to Nyx
 1 Gilded Goose
 1 Eternal Witness
-1 Utopia Sprawl
 1 Garruk Wildspeaker
 1 Trinisphere
 1 Genesis Hydra
+1 Utopia Sprawl
 1 Arbor Elf
 1 Burning-Tree Emissary
 1 Karn, the Great Creator
 2 Mwonvuli Acid-Moss
-2 Windswept Heath
 2 Oath of Nissa
+2 Windswept Heath
 2 Gilded Goose
-2 Utopia Sprawl
-2 Garruk Wildspeaker
 2 Eternal Witness
+2 Garruk Wildspeaker
 2 Trinisphere
+2 Utopia Sprawl
 2 Nykthos, Shrine to Nyx
 2 Karn, the Great Creator
 2 Genesis Hydra
@@ -186,7 +186,6 @@
 3 Oath of Nissa
 3 Windswept Heath
 3 Gilded Goose
-3 Utopia Sprawl
 3 Garruk Wildspeaker
 3 Mwonvuli Acid-Moss
 3 Karn, the Great Creator
@@ -194,18 +193,19 @@
 3 Nykthos, Shrine to Nyx
 3 Genesis Hydra
 3 Burning-Tree Emissary
+3 Utopia Sprawl
 4 Windswept Heath
 4 Gilded Goose
-4 Utopia Sprawl
 4 Garruk Wildspeaker
-4 Mwonvuli Acid-Moss
 4 Snow-Covered Forest
 4 Burning-Tree Emissary
+4 Mwonvuli Acid-Moss
 4 Arbor Elf
+4 Utopia Sprawl
 4 Nykthos, Shrine to Nyx
 4 Karn, the Great Creator
 5 Snow-Covered Forest
 6 Snow-Covered Forest
 7 Snow-Covered Forest
-9 Snow-Covered Forest
 8 Snow-Covered Forest
+9 Snow-Covered Forest

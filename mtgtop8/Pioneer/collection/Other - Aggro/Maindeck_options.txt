@@ -111,8 +111,8 @@
 2 Uro, Titan of Nature's Wrath
 2 Island
 4 Llanowar Wastes
-1 Scavenging Ooze
 1 Collected Company
+1 Scavenging Ooze
 2 Collected Company
 3 Collected Company
 3 Breeding Pool
@@ -211,8 +211,8 @@
 2 Decimator of the Provinces
 1 Woodland Cemetery
 3 Driven / Despair
-1 Hangarback Walker
 1 Hazoret the Fervent
+1 Hangarback Walker
 2 The Royal Scions
 3 Steam Vents
 4 Spire of Industry
@@ -248,8 +248,8 @@
 3 Brain Maggot
 3 Wasteland Strangler
 4 Wasteland Strangler
-4 Thought-Knot Seer
 4 Brain Maggot
+4 Thought-Knot Seer
 1 Lightning Strike
 1 Ramunap Ruins
 1 Torbran, Thane of Red Fell
@@ -294,8 +294,8 @@
 4 History of Benalia
 4 Knight of the Ebon Legion
 1 Deathrite Shaman
-1 Grim Flayer
 1 Nissa, Vastwood Seer
+1 Grim Flayer
 1 Abrupt Decay
 2 Deathrite Shaman
 2 Grim Flayer
@@ -416,11 +416,11 @@
 2 Charming Prince
 2 Dauntless Bodyguard
 2 Militia Bugler
-2 Glint-Sleeve Siphoner
 2 Unclaimed Territory
+2 Glint-Sleeve Siphoner
+2 Elspeth, Sun's Nemesis
 2 Tithe Taker
 2 Elite Guardmage
-2 Elspeth, Sun's Nemesis
 2 Declaration in Stone
 2 Kitesail Freebooter
 2 Aether Hub
@@ -437,28 +437,28 @@
 4 Unclaimed Territory
 4 Kitesail Freebooter
 4 Aether Hub
-1 Corpse Knight
-1 Temple of Silence
-1 Wayward Servant
-1 Liliana, Untouched by Death
-1 Death Baron
-1 Cryptbreaker
-1 Dread Wanderer
-1 Rally the Ancestors
 1 Lazotep Reaver
+1 Temple of Silence
+1 Cryptbreaker
+1 Death Baron
+1 Dread Wanderer
+1 Liliana, Untouched by Death
+1 Rally the Ancestors
+1 Wayward Servant
+1 Corpse Knight
 1 Nantuko Husk
 2 Temple of Silence
-2 Corpse Knight
-2 Wayward Servant
 2 Lazotep Reaver
+2 Cryptbreaker
+2 Wayward Servant
 2 Nantuko Husk
 2 Dread Wanderer
+2 Corpse Knight
 2 Death Baron
 2 Liliana, Untouched by Death
-2 Cryptbreaker
 2 Rally the Ancestors
+3 Lazotep Reaver
 3 Isolated Chapel
-3 Wayward Servant
 3 Corpse Knight
 3 Temple of Silence
 3 Cryptbreaker
@@ -466,19 +466,20 @@
 3 Liliana, Untouched by Death
 3 Rally the Ancestors
 3 Swamp
-3 Lazotep Reaver
+3 Wayward Servant
 3 Dread Wanderer
 4 Isolated Chapel
-4 Wayward Servant
 4 Corpse Knight
 4 Temple of Silence
 4 Cryptbreaker
 4 Swamp
+4 Wayward Servant
 4 Rally the Ancestors
 5 Swamp
 6 Swamp
 1 Benalish Marshal
 1 Fortified Village
+1 Fleecemane Lion
 1 Selfless Spirit
 1 Knight of Autumn
 1 Chord of Calling
@@ -488,7 +489,6 @@
 1 Heliod, Sun-Crowned
 1 Courser of Kruphix
 1 Daxos, Blessed by the Sun
-1 Fleecemane Lion
 2 Fortified Village
 2 Walking Ballista
 2 Chord of Calling

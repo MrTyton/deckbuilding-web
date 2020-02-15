@@ -29,8 +29,8 @@
 
 |*n*<sup>th</sup> copy|                                       Maindeck Card                                       |*n*<sup>th</sup> copy|                                       Sideboard Card                                       |
 |--------------------:|-------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------|
-|                    1|[Vendilion Clique](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442065)|                    1|Arasta of the Endless Web                                                                   |
-|                    1|Arasta of the Endless Web                                                                  |                    1|[Red Elemental Blast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=814) |
-|                     |                                                                                           |                    1|[Return to Nature](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461102) |
-|                     |                                                                                           |                    1|[Force of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464001)|
+|                    1|[Vendilion Clique](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442065)|                    1|[Force of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464001)|
+|                    1|Arasta of the Endless Web                                                                  |                    1|[Return to Nature](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461102) |
+|                     |                                                                                           |                    1|Arasta of the Endless Web                                                                   |
+|                     |                                                                                           |                    1|[Red Elemental Blast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=814) |
 

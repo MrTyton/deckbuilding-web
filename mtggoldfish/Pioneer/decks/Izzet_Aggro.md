@@ -27,8 +27,8 @@
 
 |*n*<sup>th</sup> copy|                                       Maindeck Card                                       |*n*<sup>th</sup> copy|                                   Sideboard Card                                   |
 |--------------------:|-------------------------------------------------------------------------------------------|--------------------:|------------------------------------------------------------------------------------|
-|                    1|[Lightning Strike](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383299)|                    1|[Mutavault](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370733)|
+|                    1|[Champion of Wits](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430720)|                    1|[Mutavault](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370733)|
+|                    1|[Lightning Strike](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383299)|                     |                                                                                    |
 |                    2|[Sulfur Falls](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443135)    |                     |                                                                                    |
 |                    2|[Lightning Strike](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383299)|                     |                                                                                    |
-|                    1|[Champion of Wits](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430720)|                     |                                                                                    |
 

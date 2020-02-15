@@ -1,7 +1,12 @@
+3 Temple of Mystery
+1 Temple of Malady
 1 Foulmire Knight
+1 Overgrown Tomb
+1 Swamp
+1 Order of Midnight
 1 Murderous Rider
-2 Murderous Rider
 2 Foulmire Knight
+2 Murderous Rider
 2 Order of Midnight
 2 Overgrown Tomb
 2 Swamp
@@ -12,10 +17,8 @@
 4 Foulmire Knight
 4 Swamp
 4 Overgrown Tomb
-4 Island
-2 Temple of Mystery
-1 Steam Vents
-2 Steam Vents
+1 Incubation / Incongruity
+3 Steam Vents
 1 Paradise Druid
 2 Paradise Druid
 3 Paradise Druid
@@ -29,17 +32,16 @@
 3 Temple of Malady
 6 Swamp
 3 Questing Beast
-1 Incubation / Incongruity
-3 Temple of Mystery
-3 Steam Vents
 4 Temple of Malady
 3 Order of Midnight
 8 Forest
 9 Forest
 1 Embercleave
 1 Temple of Epiphany
+4 Steam Vents
 4 Fabled Passage
 2 Incubation / Incongruity
+1 Temple of Abandon
 1 Rankle, Master of Pranks
 2 Rankle, Master of Pranks
 2 Castle Locthwain
@@ -57,7 +59,6 @@
 4 Nissa, Who Shakes the World
 4 Paradise Druid
 4 Temple of Mystery
-4 Steam Vents
 4 Escape to the Wilds
 1 Giant Killer
 1 Teferi, Time Raveler
@@ -101,24 +102,23 @@
 2 Find / Finality
 2 The Great Henge
 1 Embereth Shieldbreaker
-1 Temple of Abandon
 4 Questing Beast
 1 Domri's Ambush
 2 Embercleave
 2 Domri's Ambush
 3 Embercleave
 3 Domri's Ambush
-4 Domri's Ambush
 4 Mountain
+4 Domri's Ambush
 4 Rimrock Knight
 1 Growth Spiral
 1 Castle Vantress
 1 Castle Ardenvale
-2 Thrashing Brontodon
-2 Plains
 1 Davriel, Rogue Shadowmage
 1 Garruk, Cursed Huntsman
 2 Garruk, Cursed Huntsman
+2 Thrashing Brontodon
+2 Plains
 2 Vraska, Golgari Queen
 3 Rankle, Master of Pranks
 3 Vraska, Golgari Queen
@@ -130,8 +130,8 @@
 1 The Royal Scions
 1 Skarrgan Hellkite
 2 The Royal Scions
-2 Embereth Shieldbreaker
 2 Skarrgan Hellkite
+2 Embereth Shieldbreaker
 3 Embereth Shieldbreaker
 3 The Royal Scions
 4 The Royal Scions
@@ -142,8 +142,8 @@
 1 The First Iroan Games
 1 Klothys, God of Destiny
 1 Castle Embereth
-2 The First Iroan Games
 2 Temple of Abandon
+2 The First Iroan Games
 2 Klothys, God of Destiny
 2 Castle Embereth
 3 The First Iroan Games

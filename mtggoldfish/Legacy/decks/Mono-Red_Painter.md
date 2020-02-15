@@ -35,7 +35,7 @@
 |--------------------:|--------------------------------------------------------------------------------------------|--------------------:|------------------------------------------------------------------------------------------|
 |                    1|[Pyrite Spellbomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442796) |                    1|[Grim Lavamancer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430589)|
 |                    7|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)         |                    2|[Shenanigans](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464095)    |
-|                    2|[Bloodstained Mire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405094)|                    1|[Lightning Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=806)    |
-|                    2|[Pyrite Spellbomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442796) |                    2|[Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)         |
+|                    2|[Bloodstained Mire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405094)|                    2|[Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)         |
+|                    2|[Pyrite Spellbomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442796) |                    1|[Lightning Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=806)    |
 |                    1|[Bloodstained Mire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405094)|                     |                                                                                          |
 

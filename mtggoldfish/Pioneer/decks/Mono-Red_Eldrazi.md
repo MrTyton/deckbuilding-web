@@ -23,3 +23,15 @@
 |4 [Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)|4 [Thought-Knot Seer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407519)|2 [Chandra's Defeat](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430775)|2 [Mizzium Mortars](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405302)|
 |1 [Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)|                                                                                              |2 [Fry](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466894)             |                                                                                            |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                            Maindeck Card                                            |*n*<sup>th</sup> copy|                                           Sideboard Card                                            |
+|--------------------:|-----------------------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------------------|
+|                    1|[Hazoret the Fervent](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426838)       |                    1|[Eidolon of the Great Revel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442117)|
+|                    1|[Chandra, Torch of Defiance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417683)|                    1|[Experimental Frenzy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452849)       |
+|                     |                                                                                                     |                    1|[Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)                    |
+|                     |                                                                                                     |                    2|[Eidolon of the Great Revel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442117)|
+|                     |                                                                                                     |                    3|[Eidolon of the Great Revel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442117)|
+|                     |                                                                                                     |                    2|[Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)                    |
+

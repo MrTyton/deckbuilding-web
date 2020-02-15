@@ -1,107 +1,25 @@
-2 Boros Charm
-3 Battlefield Forge
-4 Battlefield Forge
-1 Wild Slash
-2 Wild Slash
-3 Wild Slash
-4 Wild Slash
-1 Monastery Swiftspear
-2 Monastery Swiftspear
-3 Boros Charm
-3 Monastery Swiftspear
-4 Boros Charm
-4 Monastery Swiftspear
-1 Deafening Clarion
-1 Fabled Passage
-2 Deafening Clarion
-2 Fabled Passage
-3 Fabled Passage
-3 Deafening Clarion
-4 Fabled Passage
+1 Gideon, Ally of Zendikar
+2 Gideon, Ally of Zendikar
+2 Plains
+3 Plains
 4 Plains
 5 Plains
-1 Soul-Scar Mage
-2 Soul-Scar Mage
-3 Soul-Scar Mage
-4 Soul-Scar Mage
-8 Mountain
-1 Lyra Dawnbringer
-4 Anger of the Gods
-1 Sweltering Suns
-1 Settle the Wreckage
-1 Elspeth, Sun's Nemesis
-2 Settle the Wreckage
-2 Sweltering Suns
-3 Clifftop Retreat
-4 Clifftop Retreat
-1 Shatter the Sky
-1 The Birth of Meletis
-1 Interplanar Beacon
-1 Heart of Kiran
-1 Seal Away
-1 Stormbreath Dragon
-1 Sarkhan the Masterless
-1 Chandra, Awakened Inferno
-2 Shatter the Sky
-2 Interplanar Beacon
-2 The Birth of Meletis
-2 Sarkhan the Masterless
-2 Seal Away
-2 Heart of Kiran
-2 Chandra, Awakened Inferno
-3 Sarkhan the Masterless
-3 Interplanar Beacon
-3 The Birth of Meletis
-3 Chandra, Torch of Defiance
-4 Interplanar Beacon
-4 Gideon, Ally of Zendikar
-4 The Birth of Meletis
-4 Deafening Clarion
-1 Dreadhorde Arcanist
-1 Infuriate
-1 Temur Battle Rage
-1 Satyr Hoplite
-1 Favored Hoplite
-1 Samut's Sprint
-1 Titan's Strength
-1 Gird for Battle
-1 Gods Willing
-1 Tenth District Legionnaire
-2 Dreadhorde Arcanist
-2 Infuriate
-2 Temur Battle Rage
-2 Gods Willing
-2 Gird for Battle
-2 Satyr Hoplite
-2 Favored Hoplite
-2 Titan's Strength
-2 Samut's Sprint
-2 Tenth District Legionnaire
-3 Satyr Hoplite
-3 Gods Willing
-3 Tenth District Legionnaire
-3 Favored Hoplite
-3 Titan's Strength
-3 Samut's Sprint
-3 Gird for Battle
-4 Titan's Strength
-4 Tenth District Legionnaire
-4 Satyr Hoplite
-4 Samut's Sprint
-4 Gird for Battle
-4 Gods Willing
-4 Favored Hoplite
 6 Plains
 1 Fervent Champion
-1 Benalish Marshal
+1 Wild Slash
+1 Castle Ardenvale
 1 Worthy Knight
 1 Venerable Knight
+1 Needle Spires
 1 History of Benalia
 1 The Circle of Loyalty
 1 Inspiring Veteran
+1 Benalish Marshal
 1 Dauntless Bodyguard
 2 Fervent Champion
+2 Wild Slash
 2 Venerable Knight
+2 Needle Spires
 2 The Circle of Loyalty
 2 History of Benalia
 2 Worthy Knight
@@ -110,6 +28,7 @@
 2 Castle Ardenvale
 2 Dauntless Bodyguard
 3 Fervent Champion
+3 Wild Slash
 3 Dauntless Bodyguard
 3 Benalish Marshal
 3 Venerable Knight
@@ -117,87 +36,92 @@
 3 Worthy Knight
 3 Inspiring Veteran
 4 Fervent Champion
+4 Wild Slash
 4 Worthy Knight
 4 Venerable Knight
 4 Inspiring Veteran
 4 Benalish Marshal
 4 Dauntless Bodyguard
 4 History of Benalia
-1 Light Up the Stage
-1 Searing Blood
-1 Abbot of Keral Keep
-1 Crash Through
-1 Runaway Steam-Kin
-2 Searing Blood
-2 Crash Through
-2 Runaway Steam-Kin
-2 Light Up the Stage
-2 Abbot of Keral Keep
-3 Searing Blood
-3 Runaway Steam-Kin
-3 Crash Through
-3 Light Up the Stage
-3 Abbot of Keral Keep
-4 Searing Blood
-4 Runaway Steam-Kin
-4 Crash Through
-4 Abbot of Keral Keep
-4 Light Up the Stage
+1 Gideon of the Trials
+2 Gideon of the Trials
+1 Shatter the Sky
+1 Heart of Kiran
+1 Fabled Passage
+1 The Birth of Meletis
+1 Interplanar Beacon
+1 Deafening Clarion
+1 Sarkhan the Masterless
+1 Seal Away
+1 Temple of Triumph
+1 Stormbreath Dragon
+1 Chained to the Rocks
+1 Chandra, Torch of Defiance
+1 Chandra, Awakened Inferno
+2 Shatter the Sky
+2 The Birth of Meletis
+2 Heart of Kiran
+2 Interplanar Beacon
+2 Seal Away
+2 Sarkhan the Masterless
+2 Temple of Triumph
+2 Chandra, Awakened Inferno
+2 Deafening Clarion
+2 Chained to the Rocks
+2 Chandra, Torch of Defiance
+2 Fabled Passage
+3 Sarkhan the Masterless
+3 Interplanar Beacon
+3 The Birth of Meletis
+3 Gideon, Ally of Zendikar
+3 Chandra, Torch of Defiance
+3 Gideon of the Trials
+3 Fabled Passage
+3 Chained to the Rocks
+3 Temple of Triumph
+3 Deafening Clarion
+4 Temple of Triumph
+4 Gideon of the Trials
+4 Interplanar Beacon
+4 Gideon, Ally of Zendikar
+4 Deafening Clarion
+4 Fabled Passage
+4 The Birth of Meletis
+4 Chained to the Rocks
+4 Mountain
 1 Mox Amber
-1 Heliod, Sun-Crowned
-1 Anafenza, Kin-Tree Spirit
-1 Daxos, Blessed by the Sun
 1 Walking Ballista
 1 Tajic, Legion's Edge
 1 Gideon Blackblade
+1 Heliod, Sun-Crowned
 1 Kytheon, Hero of Akros
+1 Daxos, Blessed by the Sun
 1 Zurgo Bellstriker
 1 Tomik, Distinguished Advokist
-2 Tomik, Distinguished Advokist
-2 Heliod, Sun-Crowned
-2 Tajic, Legion's Edge
-2 Walking Ballista
-2 Anafenza, Kin-Tree Spirit
+1 Anafenza, Kin-Tree Spirit
 2 Daxos, Blessed by the Sun
+2 Anafenza, Kin-Tree Spirit
+2 Tomik, Distinguished Advokist
+2 Walking Ballista
+2 Tajic, Legion's Edge
 2 Gideon Blackblade
+2 Heliod, Sun-Crowned
 2 Kytheon, Hero of Akros
 2 Zurgo Bellstriker
 2 Mox Amber
+3 Heliod, Sun-Crowned
 3 Daxos, Blessed by the Sun
 3 Anafenza, Kin-Tree Spirit
 3 Tomik, Distinguished Advokist
 3 Walking Ballista
-3 Heliod, Sun-Crowned
 3 Zurgo Bellstriker
 3 Mox Amber
 3 Kytheon, Hero of Akros
 3 Tajic, Legion's Edge
+4 Heliod, Sun-Crowned
 4 Mox Amber
 4 Walking Ballista
-4 Heliod, Sun-Crowned
 4 Kytheon, Hero of Akros
 4 Zurgo Bellstriker
 7 Plains
 8 Plains
-1 Goblin Chainwhirler
-1 Lightning Strike
-1 Wizard's Lightning
-1 Ghitu Lavarunner
-1 Bomat Courier
-2 Lightning Strike
-2 Goblin Chainwhirler
-2 Bomat Courier
-2 Wizard's Lightning
-2 Ghitu Lavarunner
-3 Goblin Chainwhirler
-3 Ghitu Lavarunner
-3 Bomat Courier
-3 Lightning Strike
-3 Wizard's Lightning
-4 Goblin Chainwhirler
-4 Bomat Courier
-4 Ghitu Lavarunner
-4 Lightning Strike
-4 Wizard's Lightning
-9 Mountain
-10 Mountain
