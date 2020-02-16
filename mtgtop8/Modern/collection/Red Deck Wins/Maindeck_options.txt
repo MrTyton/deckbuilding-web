@@ -1,7 +1,4 @@
 4 Bedlam Reveler
-3 Fiery Islet
-1 Forked Bolt
-2 Forked Bolt
 1 Bloodstained Mire
 1 Searing Blaze
 1 Eidolon of the Great Revel
@@ -33,6 +30,7 @@
 4 Rift Bolt
 4 Skewer the Critics
 4 Sunbaked Canyon
+3 Fiery Islet
 1 Arid Mesa
 2 Bloodstained Mire
 2 Sacred Foundry
@@ -40,14 +38,17 @@
 3 Snow-Covered Mountain
 3 Lightning Helix
 4 Lightning Helix
-3 Forked Bolt
+1 Kiln Fiend
+2 Kiln Fiend
+1 Forked Bolt
+2 Forked Bolt
 4 Searing Blaze
 1 Wooded Foothills
 4 Burst Lightning
 4 Inspiring Vantage
 1 Skullcrack
-1 Kiln Fiend
-2 Kiln Fiend
+3 Kiln Fiend
+3 Forked Bolt
 4 Snow-Covered Mountain
 5 Snow-Covered Mountain
 6 Snow-Covered Mountain
@@ -71,17 +72,17 @@
 3 Arid Mesa
 4 Arid Mesa
 1 Reckless Charge
-3 Kiln Fiend
 1 Blistercoil Weird
 4 Forked Bolt
+1 Wild Slash
+2 Wild Slash
 4 Fiery Islet
-14 Mountain
 1 Blood Moon
 2 Blistercoil Weird
-1 Wild Slash
 1 Warlord's Fury
-2 Wild Slash
 2 Warlord's Fury
+3 Wild Slash
+4 Wild Slash
 1 Nivmagus Elemental
 1 Ground Rift
 1 Seasoned Pyromancer
@@ -99,9 +100,7 @@
 3 Grapeshot
 4 Nivmagus Elemental
 4 Gut Shot
-1 Risk Factor
-4 Runaway Steam-Kin
-15 Mountain
+14 Mountain
 1 Wild Nacatl
 1 Relic of Progenitus
 1 Atarka's Command
