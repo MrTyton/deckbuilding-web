@@ -142,8 +142,8 @@
 2 Cartouche of Solidarity
 2 Aphemia, the Cacophony
 2 Sentinel's Eyes
-3 Cartouche of Solidarity
 3 Sram, Senior Edificer
+3 Cartouche of Solidarity
 3 All That Glitters
 3 Sentinel's Eyes
 3 Aphemia, the Cacophony
@@ -246,8 +246,8 @@
 4 Fatal Push
 1 Ipnu Rivulet
 1 Hinterland Harbor
-1 Drowned Catacomb
 1 Woodland Cemetery
+1 Drowned Catacomb
 1 Ashiok, Dream Render
 1 Metallic Rebuke
 1 Stubborn Denial
@@ -260,6 +260,15 @@
 2 The Royal Scions
 3 Steam Vents
 4 Spire of Industry
+1 Adanto Vanguard
+1 Gods Willing
+2 Adanto Vanguard
+2 Gods Willing
+4 Gryff's Boon
+1 Favored Hoplite
+2 Favored Hoplite
+4 All That Glitters
+4 Cartouche of Solidarity
 1 Lightning Strike
 1 Ramunap Ruins
 1 Torbran, Thane of Red Fell
@@ -327,10 +336,10 @@
 4 Glacial Fortress
 4 Island
 5 Island
-1 Port Town
 1 Azorius Charm
 1 Teferi, Hero of Dominaria
 1 Judge's Familiar
+1 Port Town
 1 Irrigated Farmland
 1 Dream Trawler
 1 Detention Sphere
@@ -365,8 +374,8 @@
 1 Sylvan Caryatid
 1 Trail of Crumbs
 2 Murderous Rider
-2 Gilded Goose
 2 Vraska, Golgari Queen
+2 Gilded Goose
 2 Witch's Oven
 2 Mayhem Devil
 2 Cauldron Familiar
@@ -406,10 +415,6 @@
 3 Stomping Ground
 4 Rotting Regisaur
 4 Stomping Ground
-1 Favored Hoplite
-2 Favored Hoplite
-4 Cartouche of Solidarity
-4 All That Glitters
 1 Thalia's Lieutenant
 1 Charming Prince
 1 Dauntless Bodyguard
@@ -444,15 +449,10 @@
 3 Kitesail Freebooter
 3 Aether Hub
 4 Thalia's Lieutenant
-4 Glint-Sleeve Siphoner
 4 Unclaimed Territory
+4 Glint-Sleeve Siphoner
 4 Kitesail Freebooter
 4 Aether Hub
-1 Adanto Vanguard
-1 Gods Willing
-2 Gods Willing
-2 Adanto Vanguard
-4 Gryff's Boon
 1 Lazotep Reaver
 1 Temple of Silence
 1 Cryptbreaker
@@ -510,8 +510,8 @@
 2 Heliod, Sun-Crowned
 3 Fortified Village
 3 Walking Ballista
-4 Fortified Village
 4 Sunpetal Grove
+4 Fortified Village
 4 Forest
 5 Forest
 6 Forest

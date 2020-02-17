@@ -29,17 +29,17 @@
 
 |*n*<sup>th</sup> copy|  Maindeck Card  |*n*<sup>th</sup> copy|                                         Sideboard Card                                         |
 |--------------------:|-----------------|--------------------:|------------------------------------------------------------------------------------------------|
-|                    1|Eat to Extinction|                    2|Eat to Extinction                                                                               |
-|                    2|Eat to Extinction|                    3|Eat to Extinction                                                                               |
-|                    3|Eat to Extinction|                    4|Eat to Extinction                                                                               |
-|                    2|Agonizing Remorse|                    1|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)               |
-|                    3|Agonizing Remorse|                    1|[Unmoored Ego](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452962)         |
-|                    4|Agonizing Remorse|                    2|[Unmoored Ego](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452962)         |
-|                    1|Agonizing Remorse|                    3|[Return to Nature](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461102)     |
+|                    1|Eat to Extinction|                    1|Polukranos, Unchained                                                                           |
+|                    2|Eat to Extinction|                    2|Polukranos, Unchained                                                                           |
+|                    3|Eat to Extinction|                    3|[Vraska, Golgari Queen](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452963)|
+|                    2|Agonizing Remorse|                    2|Eat to Extinction                                                                               |
+|                    3|Agonizing Remorse|                    3|Eat to Extinction                                                                               |
+|                    4|Agonizing Remorse|                    4|Eat to Extinction                                                                               |
+|                    1|Agonizing Remorse|                    1|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)               |
+|                     |                 |                    1|[Unmoored Ego](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452962)         |
+|                     |                 |                    2|[Unmoored Ego](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452962)         |
+|                     |                 |                    3|[Return to Nature](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461102)     |
 |                     |                 |                    3|[Unmoored Ego](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452962)         |
-|                     |                 |                    4|[Scorching Dragonfire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473101) |
 |                     |                 |                    4|[Epic Downfall](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473047)        |
-|                     |                 |                    1|Polukranos, Unchained                                                                           |
-|                     |                 |                    2|Polukranos, Unchained                                                                           |
-|                     |                 |                    3|[Vraska, Golgari Queen](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452963)|
+|                     |                 |                    4|[Scorching Dragonfire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473101) |
 
