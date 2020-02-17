@@ -52,6 +52,6 @@
 |                    4|[Thought Scour](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=380203)            |                     |                                                                                                |
 |                    6|[Snow-Covered Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121130)      |                     |                                                                                                |
 |                    3|[Jace, the Mind Sculptor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442051)  |                     |                                                                                                |
-|                    2|[Celestial Colonnade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457137)      |                     |                                                                                                |
 |                    1|[Celestial Colonnade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457137)      |                     |                                                                                                |
+|                    2|[Celestial Colonnade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457137)      |                     |                                                                                                |
 

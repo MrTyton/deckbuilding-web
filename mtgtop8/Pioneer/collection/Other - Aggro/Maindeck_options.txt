@@ -1,8 +1,3 @@
-3 Blood Crypt
-4 Blood Crypt
-2 Mountain
-1 Bonecrusher Giant
-2 Bonecrusher Giant
 3 Bonecrusher Giant
 3 Mountain
 4 Bonecrusher Giant
@@ -34,6 +29,7 @@
 5 Mountain
 6 Mountain
 7 Mountain
+4 Overgrown Tomb
 1 Heart of Kiran
 2 Heart of Kiran
 1 Abrade
@@ -41,6 +37,7 @@
 1 Foreboding Ruins
 2 Foreboding Ruins
 3 Rekindling Phoenix
+3 Scrapheap Scrounger
 3 Foreboding Ruins
 4 Glorybringer
 4 Rekindling Phoenix
@@ -50,9 +47,14 @@
 9 Mountain
 10 Mountain
 11 Mountain
-2 Driven / Despair
+3 Gather the Pack
+3 Gurmag Angler
 4 Gurmag Angler
 4 Haunted Dead
+4 Gather the Pack
+1 Decimator of the Provinces
+2 Decimator of the Provinces
+2 Driven / Despair
 4 Wild Slash
 1 Island
 1 Spirebluff Canal
@@ -103,7 +105,7 @@
 4 Ghostfire Blade
 4 Ensoul Artifact
 4 Stonecoil Serpent
-1 Forest
+2 Swamp
 1 Mana Confluence
 1 Concealed Courtyard
 1 Godless Shrine
@@ -122,49 +124,48 @@
 3 Alseid of Life's Bounty
 5 Plains
 6 Plains
+1 Sram, Senior Edificer
 1 Aphemia, the Cacophony
 1 Cartouche of Solidarity
 1 Hateful Eidolon
 1 Gryff's Boon
-1 Sram, Senior Edificer
 1 Ethereal Armor
 1 Karametra's Blessing
 1 All That Glitters
 1 Sentinel's Eyes
+2 Sram, Senior Edificer
 2 Gryff's Boon
 2 Karametra's Blessing
 2 Hateful Eidolon
-2 Sram, Senior Edificer
 2 Ethereal Armor
 2 All That Glitters
 2 Cartouche of Solidarity
 2 Aphemia, the Cacophony
 2 Sentinel's Eyes
+3 Cartouche of Solidarity
+3 Sram, Senior Edificer
 3 All That Glitters
 3 Sentinel's Eyes
 3 Aphemia, the Cacophony
 3 Gryff's Boon
 3 Hateful Eidolon
-3 Cartouche of Solidarity
-3 Sram, Senior Edificer
 3 Ethereal Armor
 3 Karametra's Blessing
-4 Sentinel's Eyes
 4 Sram, Senior Edificer
+4 Sentinel's Eyes
 4 Karametra's Blessing
 4 Hateful Eidolon
 4 Alseid of Life's Bounty
 4 Ethereal Armor
 1 Castle Embereth
 1 Breeding Pool
-1 Uro, Titan of Nature's Wrath
 2 Breeding Pool
-2 Uro, Titan of Nature's Wrath
 1 Isolated Chapel
 2 Isolated Chapel
 2 Island
 1 Fatal Push
 2 Fatal Push
+3 Llanowar Wastes
 4 Llanowar Wastes
 1 Collected Company
 1 Scavenging Ooze
@@ -211,6 +212,7 @@
 1 Glacial Fortress
 1 Teferi, Time Raveler
 2 Glacial Fortress
+4 Blooming Marsh
 7 Plains
 1 Spell Queller
 2 Spell Queller
@@ -242,15 +244,11 @@
 3 Thraben Inspector
 4 Thraben Inspector
 4 Fatal Push
-1 Decimator of the Provinces
-2 Decimator of the Provinces
+1 Ipnu Rivulet
+1 Hinterland Harbor
+1 Drowned Catacomb
 1 Woodland Cemetery
-3 Driven / Despair
-1 Adanto Vanguard
-1 Gods Willing
-2 Gods Willing
-2 Adanto Vanguard
-4 Gryff's Boon
+1 Ashiok, Dream Render
 1 Metallic Rebuke
 1 Stubborn Denial
 2 Stubborn Denial
@@ -368,10 +366,10 @@
 1 Trail of Crumbs
 2 Murderous Rider
 2 Gilded Goose
+2 Vraska, Golgari Queen
 2 Witch's Oven
 2 Mayhem Devil
 2 Cauldron Familiar
-2 Vraska, Golgari Queen
 2 Korvold, Fae-Cursed King
 2 Trail of Crumbs
 2 Sylvan Caryatid
@@ -450,6 +448,11 @@
 4 Unclaimed Territory
 4 Kitesail Freebooter
 4 Aether Hub
+1 Adanto Vanguard
+1 Gods Willing
+2 Gods Willing
+2 Adanto Vanguard
+4 Gryff's Boon
 1 Lazotep Reaver
 1 Temple of Silence
 1 Cryptbreaker
@@ -520,13 +523,13 @@
 1 Nykthos, Shrine to Nyx
 1 Leyline of Anticipation
 1 Brazen Borrower
+1 Ashiok's Erasure
 1 Agent of Treachery
 1 Thassa's Oracle
 1 Thassa, Deep-Dwelling
 1 Thassa, God of the Sea
 1 Temple of Enlightenment
 1 Gadwick, the Wizened
-1 Ashiok's Erasure
 1 Mystical Dispute
 2 Temple of Enlightenment
 2 Omen of the Sea
@@ -534,8 +537,8 @@
 2 Leyline of Anticipation
 2 Nykthos, Shrine to Nyx
 2 Thassa's Oracle
-2 Agent of Treachery
 2 Brazen Borrower
+2 Agent of Treachery
 2 Gadwick, the Wizened
 2 Ashiok's Erasure
 2 Thassa, God of the Sea

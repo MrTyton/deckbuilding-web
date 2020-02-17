@@ -1,9 +1,21 @@
+6 Forest
+1 Domri, Anarch of Bolas
+3 Bonecrusher Giant
+3 Tireless Tracker
+1 Magus of the Moon
+2 Magus of the Moon
+3 Glorybringer
+4 Glorybringer
+1 Pillage
+2 Pillage
+3 Pillage
+1 Inferno Titan
 1 Seasoned Pyromancer
 2 Seasoned Pyromancer
 3 Seasoned Pyromancer
-4 Bloodbraid Elf
 2 Mountain
 4 Bonecrusher Giant
+7 Forest
 1 Sheltered Thicket
 1 Verdant Catacombs
 1 Elvish Rejuvenator
@@ -13,23 +25,23 @@
 1 Arboreal Grazer
 1 Dwarven Mine
 1 Dryad of the Ilysian Grove
-1 Oracle of Mul Daya
 1 Warp World
+1 Oracle of Mul Daya
 1 Vesuva
-1 Khalni Garden
 1 Valakut, the Molten Pinnacle
 1 Cinder Glade
+1 Khalni Garden
 1 Sakura-Tribe Elder
 2 Field of the Dead
 2 Elvish Rejuvenator
 2 Arboreal Grazer
 2 Dryad of the Ilysian Grove
 2 Primeval Titan
-2 Sakura-Tribe Elder
-2 Oracle of Mul Daya
 2 Castle Garenbrig
+2 Sakura-Tribe Elder
 2 Valakut, the Molten Pinnacle
 2 Snow-Covered Mountain
+2 Oracle of Mul Daya
 2 Warp World
 3 Primeval Titan
 3 Elvish Rejuvenator
@@ -40,33 +52,28 @@
 3 Snow-Covered Mountain
 3 Sakura-Tribe Elder
 3 Field of the Dead
-4 Arboreal Grazer
 4 Primeval Titan
 4 Elvish Rejuvenator
 4 Dryad of the Ilysian Grove
+4 Arboreal Grazer
 4 Sakura-Tribe Elder
 4 Castle Garenbrig
-3 Forest
-4 Forest
-5 Forest
-6 Forest
-1 Domri, Anarch of Bolas
-3 Tireless Tracker
+1 Scavenging Ooze
+2 Scavenging Ooze
+3 Magus of the Moon
+4 Magus of the Moon
+1 Klothys, God of Destiny
+2 Klothys, God of Destiny
+4 Tireless Tracker
+1 Stone Rain
+2 Stone Rain
+1 Bonfire of the Damned
 1 Wrenn and Six
 2 Wrenn and Six
 3 Wrenn and Six
-1 Klothys, God of Destiny
-2 Klothys, God of Destiny
-1 Magus of the Moon
-2 Magus of the Moon
-3 Glorybringer
-4 Glorybringer
 1 Misty Rainforest
-1 Bonfire of the Damned
 1 Chandra, Awakened Inferno
-1 Inferno Titan
 1 Thragtusk
-7 Forest
 1 Gruul Spellbreaker
 2 Gruul Spellbreaker
 3 Gruul Spellbreaker
@@ -84,19 +91,19 @@
 1 Karplusan Forest
 1 Eldrazi Temple
 2 Questing Beast
-2 Thought-Knot Seer
-2 Reality Smasher
 2 Kessig Wolf Run
+2 Thought-Knot Seer
 2 Eldrazi Obligator
+2 Reality Smasher
 2 Grove of the Burnwillows
-2 Eldrazi Temple
 2 Karplusan Forest
+2 Eldrazi Temple
 3 Thought-Knot Seer
-3 Grove of the Burnwillows
-3 Reality Smasher
 3 Karplusan Forest
-3 Eldrazi Obligator
 3 Eldrazi Temple
+3 Reality Smasher
+3 Eldrazi Obligator
+3 Grove of the Burnwillows
 4 Eldrazi Obligator
 4 Thought-Knot Seer
 4 Karplusan Forest
@@ -104,6 +111,8 @@
 1 Tranquil Thicket
 1 Abrade
 1 Forgotten Cave
+2 Inferno Titan
+4 Gruul Spellbreaker
 3 Mountain
 1 Atarka's Command
 1 Goblin Guide
@@ -114,9 +123,9 @@
 1 Eidolon of the Great Revel
 1 Searing Blaze
 1 Grim Lavamancer
-1 Sunbaked Canyon
-1 Arid Mesa
 1 Bloodstained Mire
+1 Arid Mesa
+1 Sunbaked Canyon
 1 Copperline Gorge
 2 Atarka's Command
 2 Rift Bolt
@@ -147,14 +156,12 @@
 4 Atarka's Command
 4 Eidolon of the Great Revel
 4 Goblin Guide
-4 Monastery Swiftspear
 4 Rift Bolt
+4 Monastery Swiftspear
 4 Lava Spike
 4 Skewer the Critics
 4 Searing Blaze
-1 Stone Rain
 1 Mwonvuli Acid-Moss
-2 Stone Rain
 2 Thragtusk
 2 Chandra, Awakened Inferno
 2 Mwonvuli Acid-Moss
@@ -173,7 +180,6 @@
 2 Misty Rainforest
 3 Misty Rainforest
 3 Kiora, Behemoth Beckoner
-4 Tireless Tracker
 4 Misty Rainforest
 1 Legion Warboss
 1 Embercleave
@@ -190,24 +196,19 @@
 4 Goblin Rabblemaster
 4 Seasoned Pyromancer
 4 Birds of Paradise
-1 Scavenging Ooze
-2 Scavenging Ooze
-3 Magus of the Moon
-4 Gruul Spellbreaker
-4 Magus of the Moon
 1 Courser of Kruphix
 1 Ruric Thar, the Unbowed
 1 Zealous Conscripts
 1 Huntmaster of the Fells
 1 Ghost Quarter
 1 Domri Rade
+1 Karn, the Great Creator
 1 Raging Ravine
 1 Horizon Canopy
-1 Karn, the Great Creator
 1 Hexdrinker
 2 Hexdrinker
-2 Karn, the Great Creator
 2 Horizon Canopy
+2 Karn, the Great Creator
 3 Karn, the Great Creator
 4 Karn, the Great Creator
 1 Madcap Experiment

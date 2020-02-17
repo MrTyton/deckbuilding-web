@@ -1,7 +1,7 @@
 # Izzet Emerge
 
 #### [Export MTGO List](../collection/Izzet%20Emerge/Izzet%20Emerge.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Bonecrusher%20Giant%0A4%09Brazen%20Borrower%0A2%09Champion%20of%20Wits%0A2%09Chandra,%20Torch%20of%20Defiance%0A4%09Elder%20Deep-Fiend%0A4%09Flamewake%20Phoenix%0A2%09Island%0A4%09Izzet%20Charm%0A4%09Kozilek's%20Return%0A3%09Lightning%20Axe%0A3%09Mountain%0A4%09Rekindling%20Phoenix%0A3%09Sanctum%20of%20Ugin%0A3%09Shivan%20Reef%0A4%09Spirebluff%20Canal%0A4%09Steam%20Vents%0A2%09Sulfur%20Falls%0A4%09Wandering%20Fumarole&deckside=2%09Aether%20Gust%0A2%09Ashiok,%20Dream%20Render%0A3%09Fry%0A3%09Lava%20Coil%0A3%09Mystical%20Dispute%0A2%09Stubborn%20Denial)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Bonecrusher%20Giant%0A4%09Brazen%20Borrower%0A2%09Champion%20of%20Wits%0A2%09Chandra,%20Torch%20of%20Defiance%0A4%09Elder%20Deep-Fiend%0A4%09Flamewake%20Phoenix%0A2%09Island%0A4%09Izzet%20Charm%0A4%09Kozilek's%20Return%0A3%09Lightning%20Axe%0A3%09Mountain%0A4%09Rekindling%20Phoenix%0A3%09Sanctum%20of%20Ugin%0A3%09Shivan%20Reef%0A4%09Spirebluff%20Canal%0A4%09Steam%20Vents%0A2%09Sulfur%20Falls%0A4%09Wandering%20Fumarole&deckside=3%09Aether%20Gust%0A2%09Anger%20of%20the%20Gods%0A3%09Fry%0A3%09Lava%20Coil%0A2%09Mystical%20Dispute%0A2%09Stubborn%20Denial)
 # Maindeck
 
 |                                         Creature (22)                                         |                                        Instant (11)                                         |                                           Land (25)                                           |                                           Planeswalker (2)                                            |
@@ -18,29 +18,29 @@
 
 # Sideboard
 
-|                                        Instant (10)                                         |                                        Planeswalker (2)                                         |                                     Sorcery (3)                                      |
-|---------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
-|2 [Aether Gust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466796)     |2 [Ashiok, Dream Render](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461155)|3 [Lava Coil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452858)|
-|3 [Fry](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466894)             |                                                                                                 |                                                                                      |
-|3 [Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)|                                                                                                 |                                                                                      |
-|2 [Stubborn Denial](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386673) |                                                                                                 |                                                                                      |
+|                                        Instant (10)                                         |                                         Sorcery (5)                                          |
+|---------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
+|3 [Aether Gust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466796)     |2 [Anger of the Gods](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438682)|
+|3 [Fry](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466894)             |3 [Lava Coil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452858)        |
+|2 [Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)|                                                                                              |
+|2 [Stubborn Denial](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386673) |                                                                                              |
 
 
 # Other Options
 
-|*n*<sup>th</sup> copy|                                      Maindeck Card                                       |*n*<sup>th</sup> copy|                                       Sideboard Card                                       |
-|--------------------:|------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------|
-|                    3|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)         |                    1|[Anger of the Gods](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438682)|
-|                    1|[Ipnu Rivulet](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430869)   |                    2|[Anger of the Gods](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438682)|
-|                    1|[Stubborn Denial](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386673)|                    3|[Aether Gust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466796)      |
-|                    1|[Chart a Course](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435200) |                    1|[Glorybringer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426836)     |
-|                    1|[Wild Slash](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391959)     |                    1|[Kozilek's Return](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407608) |
-|                    2|[Ipnu Rivulet](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430869)   |                    1|[Magma Spray](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426843)      |
-|                    2|[Chart a Course](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435200) |                     |                                                                                            |
-|                    2|[Wild Slash](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391959)     |                     |                                                                                            |
-|                    3|[Sulfur Falls](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443135)   |                     |                                                                                            |
-|                    3|[Chart a Course](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435200) |                     |                                                                                            |
-|                    4|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)       |                     |                                                                                            |
-|                    4|[Chart a Course](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435200) |                     |                                                                                            |
-|                    5|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)       |                     |                                                                                            |
+|*n*<sup>th</sup> copy|                                      Maindeck Card                                       |*n*<sup>th</sup> copy|                                        Sideboard Card                                         |
+|--------------------:|------------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------------|
+|                    3|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)         |                    1|[Ashiok, Dream Render](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461155)|
+|                    1|[Stubborn Denial](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386673)|                    2|[Ashiok, Dream Render](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461155)|
+|                    1|[Chart a Course](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435200) |                    3|[Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)    |
+|                    1|[Ipnu Rivulet](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430869)   |                    1|[Magma Spray](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426843)         |
+|                    1|[Wild Slash](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391959)     |                    1|[Glorybringer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426836)        |
+|                    2|[Chart a Course](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435200) |                    1|[Kozilek's Return](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407608)    |
+|                    2|[Ipnu Rivulet](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430869)   |                     |                                                                                               |
+|                    2|[Wild Slash](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391959)     |                     |                                                                                               |
+|                    3|[Sulfur Falls](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443135)   |                     |                                                                                               |
+|                    3|[Chart a Course](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435200) |                     |                                                                                               |
+|                    4|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)       |                     |                                                                                               |
+|                    4|[Chart a Course](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435200) |                     |                                                                                               |
+|                    5|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)       |                     |                                                                                               |
 

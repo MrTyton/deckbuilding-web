@@ -2,7 +2,7 @@
 
 #### [Export MTGO List](../collection/Jund%20Snackrifice/Jund%20Snackrifice.txt)
 #### [Export Arena List](../collection/Jund%20Snackrifice/Jund%20Snackrifice_arena.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Assassin's%20Trophy%0A4%09Cauldron%20Familiar%0A4%09Fabled%20Passage%0A3%09Forest%0A4%09Gilded%20Goose%0A4%09Korvold,%20Fae-Cursed%20King%0A4%09Mayhem%20Devil%0A1%09Mountain%0A4%09Overgrown%20Tomb%0A3%09Polukranos,%20Unchained%0A4%09Stomping%20Ground%0A1%09Swamp%0A4%09Temple%20of%20Malady%0A4%09Temple%20of%20Malice%0A4%09Trail%20of%20Crumbs%0A4%09Wildborn%20Preserver%0A4%09Witch's%20Oven&deckside=4%09Agonizing%20Remorse%0A4%09Eat%20to%20Extinction%0A2%09Return%20to%20Nature%0A3%09Scorching%20Dragonfire%0A2%09Vraska,%20Golgari%20Queen)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Assassin's%20Trophy%0A4%09Cauldron%20Familiar%0A4%09Fabled%20Passage%0A3%09Forest%0A4%09Gilded%20Goose%0A4%09Korvold,%20Fae-Cursed%20King%0A4%09Mayhem%20Devil%0A1%09Mountain%0A4%09Overgrown%20Tomb%0A3%09Polukranos,%20Unchained%0A4%09Stomping%20Ground%0A1%09Swamp%0A4%09Temple%20of%20Malady%0A4%09Temple%20of%20Malice%0A4%09Trail%20of%20Crumbs%0A4%09Wildborn%20Preserver%0A4%09Witch's%20Oven&deckside=4%09Agonizing%20Remorse%0A1%09Eat%20to%20Extinction%0A3%09Epic%20Downfall%0A2%09Return%20to%20Nature%0A3%09Scorching%20Dragonfire%0A2%09Vraska,%20Golgari%20Queen)
 # Maindeck
 
 |                                      Artifact (4)                                       |                                            Creature (20)                                            |                                      Enchantment (4)                                       |                                         Instant (4)                                          |                                          Land (25)                                          |      Unknown (3)      |
@@ -19,20 +19,27 @@
 
 # Sideboard
 
-|                                           Instant (5)                                           |                                         Planeswalker (2)                                         |    Unknown (8)    |
-|-------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|-------------------|
-|2 [Return to Nature](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461102)    |2 [Vraska, Golgari Queen](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452963)|4 Agonizing Remorse|
-|3 [Scorching Dragonfire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473101)|                                                                                                  |4 Eat to Extinction|
+|                                           Instant (5)                                           |                                         Planeswalker (2)                                         |                                       Sorcery (3)                                        |    Unknown (5)    |
+|-------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|-------------------|
+|2 [Return to Nature](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461102)    |2 [Vraska, Golgari Queen](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452963)|3 [Epic Downfall](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473047)|4 Agonizing Remorse|
+|3 [Scorching Dragonfire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473101)|                                                                                                  |                                                                                          |1 Eat to Extinction|
 
 
 # Other Options
 
 |*n*<sup>th</sup> copy|  Maindeck Card  |*n*<sup>th</sup> copy|                                         Sideboard Card                                         |
 |--------------------:|-----------------|--------------------:|------------------------------------------------------------------------------------------------|
-|                    2|Eat to Extinction|                    1|[Epic Downfall](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473047)        |
-|                    3|Eat to Extinction|                    1|Polukranos, Unchained                                                                           |
-|                    1|Eat to Extinction|                    2|[Epic Downfall](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473047)        |
+|                    1|Eat to Extinction|                    2|Eat to Extinction                                                                               |
+|                    2|Eat to Extinction|                    3|Eat to Extinction                                                                               |
+|                    3|Eat to Extinction|                    4|Eat to Extinction                                                                               |
+|                    2|Agonizing Remorse|                    1|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)               |
+|                    3|Agonizing Remorse|                    1|[Unmoored Ego](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452962)         |
+|                    4|Agonizing Remorse|                    2|[Unmoored Ego](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452962)         |
+|                    1|Agonizing Remorse|                    3|[Return to Nature](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461102)     |
+|                     |                 |                    3|[Unmoored Ego](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452962)         |
+|                     |                 |                    4|[Scorching Dragonfire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473101) |
+|                     |                 |                    4|[Epic Downfall](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473047)        |
+|                     |                 |                    1|Polukranos, Unchained                                                                           |
 |                     |                 |                    2|Polukranos, Unchained                                                                           |
-|                     |                 |                    3|[Epic Downfall](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473047)        |
 |                     |                 |                    3|[Vraska, Golgari Queen](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452963)|
 

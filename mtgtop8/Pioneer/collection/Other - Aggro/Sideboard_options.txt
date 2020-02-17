@@ -1,5 +1,12 @@
 2 Scab-Clan Berserker
 3 Scab-Clan Berserker
+4 Leyline of the Void
+1 Ashiok, Dream Render
+1 Blightbeetle
+2 Blightbeetle
+1 Tormod's Crypt
+2 Tormod's Crypt
+2 Epic Downfall
 1 Rest in Peace
 2 Rest in Peace
 1 Gideon of the Trials
@@ -9,44 +16,32 @@
 2 Gideon of the Trials
 2 Dead Weight
 3 Brain Maggot
-4 Leyline of the Void
-2 Epic Downfall
-1 Blightbeetle
-2 Blightbeetle
-1 Tormod's Crypt
-2 Tormod's Crypt
-1 Ashiok, Dream Render
-1 Duress
+4 Thoughtseize
 1 Noxious Grasp
 2 Noxious Grasp
-4 Thoughtseize
-2 Duress
+2 Reclamation Sage
 1 Disdainful Stroke
-2 Disdainful Stroke
 1 Baffling End
 2 Baffling End
-1 Reclamation Sage
-2 Reclamation Sage
 1 Fry
 1 Chandra, Torch of Defiance
+2 Disdainful Stroke
 1 Mystical Dispute
 1 Aether Gust
 1 Hangarback Walker
 1 Aethersphere Harvester
 2 Aethersphere Harvester
-1 Damping Sphere
-2 Damping Sphere
-1 Ultimate Price
-1 Natural State
-2 Ultimate Price
+1 Distended Mindbender
+1 Caustic Caterpillar
+1 Elder Deep-Fiend
 2 Ashiok, Dream Render
-2 Natural State
 1 Disenchant
 1 Anguished Unmaking
 1 Grasp of Darkness
 1 Deafening Silence
 2 Anguished Unmaking
 2 Deafening Silence
+1 Duress
 2 Aether Gust
 1 Dovin's Veto
 1 Kalitas, Traitor of Ghet
@@ -73,17 +68,15 @@
 2 Stubborn Denial
 2 Mizzium Mortars
 3 Stubborn Denial
-1 Teferi, Time Raveler
-1 Reflector Mage
-1 Detention Sphere
-1 Aetherspouts
-2 Reflector Mage
-2 Detention Sphere
-3 Detention Sphere
-1 Mystic Repeal
-2 Mystic Repeal
-3 Assassin's Trophy
-3 Mystic Repeal
+1 Apostle of Purifying Light
+1 Grafdigger's Cage
+2 Apostle of Purifying Light
+3 Apostle of Purifying Light
+1 Abrupt Decay
+1 Damping Sphere
+2 Abrupt Decay
+2 Damping Sphere
+3 Fatal Push
 3 Rest in Peace
 1 Heliod, Sun-Crowned
 1 Walking Ballista
@@ -97,6 +90,15 @@
 2 Shapers' Sanctuary
 2 Dromoka's Command
 3 Dromoka's Command
+1 Teferi, Time Raveler
+1 Reflector Mage
+1 Detention Sphere
+1 Aetherspouts
+2 Reflector Mage
+2 Detention Sphere
+3 Detention Sphere
+3 Assassin's Trophy
+3 Mystic Repeal
 1 Scavenging Ooze
 1 Combat Celebrant
 1 Gruul Spellbreaker
@@ -129,17 +131,13 @@
 1 Unbreakable Formation
 1 Brave the Elements
 1 Arashin Cleric
-1 Sin Collector
 1 Erase
+1 Sin Collector
 2 Sin Collector
 2 Brave the Elements
 2 Disenchant
 2 Kunoros, Hound of Athreos
 3 Sin Collector
-1 Grafdigger's Cage
-1 Apostle of Purifying Light
-2 Apostle of Purifying Light
-3 Apostle of Purifying Light
 1 Tamiyo, Field Researcher
 1 Knight of Autumn
 2 Tamiyo, Field Researcher
@@ -165,6 +163,7 @@
 1 Yahenni's Expertise
 1 Unmoored Ego
 2 Unmoored Ego
+2 Duress
 2 Yahenni's Expertise
 3 Disdainful Stroke
 4 Disdainful Stroke

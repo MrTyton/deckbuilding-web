@@ -29,17 +29,17 @@
 3 Censor
 4 Censor
 4 Drowned Catacomb
-1 Kroxa, Titan of Death's Hunger
 1 Pharika's Libation
+1 Kroxa, Titan of Death's Hunger
 2 Kroxa, Titan of Death's Hunger
 3 Castle Locthwain
 1 Castle Vantress
 3 Island
 4 Island
-1 Fetid Pools
 1 Hieroglyphic Illumination
 1 Negate
 1 Disallow
+1 Fetid Pools
 1 Narset, Parter of Veils
 2 Castle Vantress
 2 Disallow
@@ -68,8 +68,8 @@
 4 Forest
 5 Forest
 6 Forest
-1 Traverse the Ulvenwald
 1 Emrakul, the Promised End
+1 Traverse the Ulvenwald
 2 Traverse the Ulvenwald
 3 Traverse the Ulvenwald
 4 Traverse the Ulvenwald
@@ -160,11 +160,11 @@
 2 Distended Mindbender
 2 Flamewake Phoenix
 3 Flamewake Phoenix
-1 Westvale Abbey
 1 Jace, Unraveler of Secrets
+1 Westvale Abbey
 1 Geier Reach Sanitarium
-2 Fetid Pools
 2 Jace, Unraveler of Secrets
+2 Fetid Pools
 3 Vraska's Contempt
 3 Narset, Parter of Veils
 1 Hinterland Harbor
@@ -177,11 +177,6 @@
 3 Vessel of Nascency
 4 Hinterland Harbor
 4 Arboreal Grazer
-1 Tyrant's Scorn
-1 Erebos's Intervention
-2 Thassa's Intervention
-2 Tyrant's Scorn
-4 Jace, Vryn's Prodigy
 1 Blooming Marsh
 1 Stomping Ground
 1 Rootbound Crag
@@ -196,9 +191,9 @@
 1 Glimmer of Genius
 1 Glint-Sleeve Siphoner
 1 Hour of Devastation
+1 Liliana, Dreadhorde General
 1 Ritual of Soot
 1 Aether Hub
-1 Liliana, Dreadhorde General
 2 Wandering Fumarole
 2 Glimmer of Genius
 2 Glint-Sleeve Siphoner
@@ -235,6 +230,11 @@
 3 Lovestruck Beast
 4 Temple of Malady
 4 Lovestruck Beast
+1 Tyrant's Scorn
+1 Erebos's Intervention
+2 Thassa's Intervention
+2 Tyrant's Scorn
+4 Jace, Vryn's Prodigy
 1 Gather the Pack
 1 Blast Zone
 1 Commit / Memory
@@ -258,10 +258,10 @@
 4 Ramunap Ruins
 1 Thirst for Meaning
 1 Sphinx's Revelation
-1 Ashiok, Nightmare Muse
 1 Temple of Deceit
 1 Whirlwind Denial
 1 Detention Sphere
+1 Ashiok, Nightmare Muse
 1 Ultimate Price
 1 Teferi, Hero of Dominaria
 1 Teferi, Time Raveler
@@ -286,8 +286,8 @@
 1 Treacherous Blessing
 1 Isolated Chapel
 1 Ashiok, Dream Render
-1 Trial of Ambition
 1 Kaya's Wrath
+1 Trial of Ambition
 1 Starfield of Nyx
 1 Shepherd of the Flock
 1 Doom Foretold
@@ -296,11 +296,11 @@
 2 The Birth of Meletis
 2 Treacherous Blessing
 2 Oath of Kaya
-2 Trial of Ambition
 2 Isolated Chapel
 2 Doom Foretold
 2 Final Payment
 2 Kaya's Wrath
+2 Trial of Ambition
 2 Shambling Vent
 2 Starfield of Nyx
 3 Trial of Ambition
@@ -331,7 +331,6 @@
 1 Hostile Desert
 1 Agent of Treachery
 2 Ipnu Rivulet
-2 Deputy of Detention
 2 Chart a Course
 2 Reflector Mage
 2 Charming Prince
@@ -342,6 +341,7 @@
 2 Irrigated Farmland
 2 Glacial Fortress
 2 Refurbish
+2 Deputy of Detention
 2 Angel of Invention
 3 Reflector Mage
 3 Glacial Fortress
@@ -366,7 +366,7 @@
 5 Island
 1 Sunpetal Grove
 1 Gilded Goose
-1 Chord of Calling
+1 Alseid of Life's Bounty
 1 Radiant Fountain
 1 Anafenza, Kin-Tree Spirit
 1 Elvish Visionary
@@ -375,29 +375,29 @@
 1 Heliod, Sun-Crowned
 1 Knight of Autumn
 1 Selfless Spirit
+1 Chord of Calling
 1 Llanowar Elves
 1 Elvish Mystic
 1 Fortified Village
 1 Temple Garden
-1 Alseid of Life's Bounty
 1 Fairgrounds Warden
 1 Militia Bugler
-2 Chord of Calling
 2 Radiant Fountain
-2 Elvish Visionary
 2 Collected Company
 2 Voice of Resurgence
-2 Sunpetal Grove
 2 Heliod, Sun-Crowned
+2 Sunpetal Grove
 2 Fortified Village
 2 Militia Bugler
 2 Llanowar Elves
+2 Chord of Calling
 2 Elvish Mystic
 2 Temple Garden
+2 Elvish Visionary
 3 Collected Company
 3 Sunpetal Grove
-3 Heliod, Sun-Crowned
 3 Llanowar Elves
+3 Heliod, Sun-Crowned
 3 Elvish Mystic
 3 Temple Garden
 3 Fortified Village
@@ -405,8 +405,8 @@
 4 Temple Garden
 4 Walking Ballista
 4 Collected Company
-4 Heliod, Sun-Crowned
 4 Militia Bugler
+4 Heliod, Sun-Crowned
 7 Forest
 1 Elspeth, Sun's Nemesis
 1 Gideon of the Trials
@@ -425,27 +425,27 @@
 2 Gideon of the Trials
 2 Gideon, Ally of Zendikar
 2 Clifftop Retreat
+2 Settle the Wreckage
 2 Temple of Triumph
 2 Sacred Foundry
-2 Settle the Wreckage
 2 Haktos the Unscarred
 2 Lava Coil
 2 Needle Spires
 2 Chained to the Rocks
 3 Gideon of the Trials
+3 Clifftop Retreat
 3 Anger of the Gods
 3 Gideon, Ally of Zendikar
-3 Clifftop Retreat
 3 Chained to the Rocks
 3 Temple of Triumph
 3 Needle Spires
 3 Sacred Foundry
 3 Haktos the Unscarred
 4 Sacred Foundry
+4 Clifftop Retreat
 4 Gideon of the Trials
 4 Haktos the Unscarred
 4 Chained to the Rocks
-4 Clifftop Retreat
 4 Temple of Triumph
 5 Mountain
 6 Mountain

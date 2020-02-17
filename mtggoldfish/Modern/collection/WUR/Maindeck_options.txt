@@ -39,8 +39,8 @@
 2 Teferi, Time Raveler
 3 Teferi, Time Raveler
 4 Snow-Covered Island
-1 Fires of Invention
 1 Claws of Gix
+1 Fires of Invention
 1 Wheel of Fate
 2 Narset, Parter of Veils
 2 Fires of Invention
@@ -62,59 +62,6 @@
 2 Serum Visions
 3 Serum Visions
 4 Snapcaster Mage
-1 Omen of the Sea
-1 Brazen Borrower
-1 Saheeli Rai
-1 Celestial Colonnade
-1 Felidar Guardian
-2 Force of Negation
-2 Omen of the Sea
-2 Snow-Covered Plains
-2 Felidar Guardian
-2 Saheeli Rai
-3 Field of Ruin
-3 Felidar Guardian
-3 Omen of the Sea
-3 Saheeli Rai
-4 Felidar Guardian
-1 Prismatic Vista
-1 Grinding Station
-1 Underworld Breach
-1 Thassa's Oracle
-1 Sai, Master Thopterist
-1 Noxious Revival
-1 Emry, Lurker of the Loch
-1 Metallic Rebuke
-1 Mishra's Bauble
-1 Urza, Lord High Artificer
-1 Engineered Explosives
-1 Chromatic Star
-1 Mox Amber
-2 Arid Mesa
-2 Grinding Station
-2 Underworld Breach
-2 Noxious Revival
-2 Emry, Lurker of the Loch
-2 Mishra's Bauble
-2 Metallic Rebuke
-2 Prismatic Vista
-2 Urza, Lord High Artificer
-2 Mox Amber
-2 Engineered Explosives
-3 Arid Mesa
-3 Grinding Station
-3 Underworld Breach
-3 Prismatic Vista
-3 Mox Amber
-3 Emry, Lurker of the Loch
-3 Mishra's Bauble
-3 Metallic Rebuke
-3 Urza, Lord High Artificer
-4 Underworld Breach
-4 Grinding Station
-4 Emry, Lurker of the Loch
-4 Mishra's Bauble
-4 Urza, Lord High Artificer
 1 Opt
 1 Magmatic Sinkhole
 1 Mystic Sanctuary
@@ -131,6 +78,59 @@
 3 Monastery Mentor
 4 Opt
 4 Archmage's Charm
+1 Omen of the Sea
+1 Brazen Borrower
+1 Saheeli Rai
+1 Celestial Colonnade
+1 Felidar Guardian
+2 Force of Negation
+2 Omen of the Sea
+2 Snow-Covered Plains
+2 Saheeli Rai
+2 Felidar Guardian
+3 Field of Ruin
+3 Felidar Guardian
+3 Omen of the Sea
+3 Saheeli Rai
+4 Felidar Guardian
+1 Chromatic Star
+1 Prismatic Vista
+1 Thassa's Oracle
+1 Underworld Breach
+1 Noxious Revival
+1 Emry, Lurker of the Loch
+1 Metallic Rebuke
+1 Mishra's Bauble
+1 Grinding Station
+1 Urza, Lord High Artificer
+1 Engineered Explosives
+1 Sai, Master Thopterist
+1 Mox Amber
+2 Arid Mesa
+2 Underworld Breach
+2 Noxious Revival
+2 Emry, Lurker of the Loch
+2 Mishra's Bauble
+2 Metallic Rebuke
+2 Grinding Station
+2 Prismatic Vista
+2 Urza, Lord High Artificer
+2 Mox Amber
+2 Engineered Explosives
+3 Arid Mesa
+3 Prismatic Vista
+3 Underworld Breach
+3 Grinding Station
+3 Mox Amber
+3 Emry, Lurker of the Loch
+3 Mishra's Bauble
+3 Metallic Rebuke
+3 Urza, Lord High Artificer
+4 Emry, Lurker of the Loch
+4 Grinding Station
+4 Urza, Lord High Artificer
+4 Mishra's Bauble
+4 Underworld Breach
 1 Sunbaked Canyon
 1 Meddling Mage
 1 Thalia's Lieutenant
@@ -138,12 +138,12 @@
 1 Aether Vial
 1 Mantis Rider
 1 Tajic, Legion's Edge
+1 Unclaimed Territory
 1 Champion of the Parish
 1 Cavern of Souls
 1 Phantasmal Image
 1 Haktos the Unscarred
 1 Kessig Malcontents
-1 Unclaimed Territory
 1 Thalia, Guardian of Thraben
 1 Reflector Mage
 1 Fervent Champion
@@ -155,9 +155,9 @@
 2 Haktos the Unscarred
 2 Kessig Malcontents
 2 Champion of the Parish
-2 Thalia, Guardian of Thraben
 2 Thalia's Lieutenant
 2 Reflector Mage
+2 Thalia, Guardian of Thraben
 2 Cavern of Souls
 2 Sunbaked Canyon
 2 Mantis Rider
@@ -175,11 +175,11 @@
 3 Phantasmal Image
 4 Reflector Mage
 4 Champion of the Parish
-4 Aether Vial
+4 Sunbaked Canyon
+4 Mantis Rider
 4 Phantasmal Image
 4 Thalia's Lieutenant
 4 Meddling Mage
-4 Mantis Rider
-4 Sunbaked Canyon
+4 Aether Vial
 4 Fervent Champion
 4 Cavern of Souls
