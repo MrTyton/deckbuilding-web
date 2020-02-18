@@ -40,10 +40,10 @@
 |                    1|[Enlightened Tutor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=15355)   |                    4|[Young Pyromancer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426592) |
 |                    2|[Enlightened Tutor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=15355)   |                    4|[Monastery Mentor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391883) |
 |                    2|[Lotus Petal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420602)        |                    4|[Swords to Plowshares](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=869)|
+|                    3|[Preordain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405347)          |                     |                                                                                            |
 |                    3|[Polluted Delta](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405104)     |                     |                                                                                            |
 |                    3|[Lotus Petal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420602)        |                     |                                                                                            |
 |                    3|[Tundra](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=885)                |                     |                                                                                            |
-|                    3|[Preordain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405347)          |                     |                                                                                            |
 |                    4|[Lotus Petal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420602)        |                     |                                                                                            |
 |                    4|[Preordain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405347)          |                     |                                                                                            |
 

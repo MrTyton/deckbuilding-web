@@ -1,3 +1,4 @@
+1 Lightning Helix
 1 Eidolon of the Great Revel
 1 Boros Charm
 1 Sacred Foundry
@@ -12,14 +13,12 @@
 2 Lightning Helix
 2 Rift Bolt
 3 Rift Bolt
-3 Inspiring Vantage
 3 Searing Blaze
 3 Skewer the Critics
 3 Eidolon of the Great Revel
 3 Boros Charm
 3 Goblin Guide
 4 Rift Bolt
-4 Skewer the Critics
 4 Boros Charm
 4 Eidolon of the Great Revel
 4 Sunbaked Canyon
@@ -27,19 +26,19 @@
 2 Burst Lightning
 3 Runaway Steam-Kin
 2 Sacred Foundry
-1 Bloodstained Mire
+1 Arid Mesa
+2 Bloodstained Mire
+3 Inspiring Vantage
+4 Skewer the Critics
 3 Lightning Helix
-4 Lightning Helix
 1 Wooded Foothills
 4 Bedlam Reveler
 1 Snow-Covered Mountain
 2 Snow-Covered Mountain
 3 Snow-Covered Mountain
 3 Burst Lightning
-1 Arid Mesa
-2 Bloodstained Mire
-4 Searing Blaze
-4 Inspiring Vantage
+1 Skullcrack
+4 Lightning Helix
 2 Wooded Foothills
 1 Forked Bolt
 2 Forked Bolt
@@ -47,10 +46,9 @@
 2 Kiln Fiend
 3 Fiery Islet
 4 Burst Lightning
-1 Scalding Tarn
-2 Scalding Tarn
-3 Scalding Tarn
-1 Skullcrack
+2 Skullcrack
+4 Inspiring Vantage
+4 Searing Blaze
 3 Forked Bolt
 4 Snow-Covered Mountain
 5 Snow-Covered Mountain
@@ -66,7 +64,9 @@
 3 Kiln Fiend
 1 Gut Shot
 2 Gut Shot
-2 Skullcrack
+1 Scalding Tarn
+2 Scalding Tarn
+3 Scalding Tarn
 3 Bloodstained Mire
 2 Arid Mesa
 3 Arid Mesa
@@ -82,6 +82,8 @@
 2 Blistercoil Weird
 1 Warlord's Fury
 2 Warlord's Fury
+1 Grim Lavamancer
+3 Skullcrack
 3 Wild Slash
 4 Wild Slash
 1 Nivmagus Elemental

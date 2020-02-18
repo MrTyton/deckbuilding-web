@@ -7,12 +7,12 @@
 2 Chronic Flooding
 3 Chronic Flooding
 1 Mystical Dispute
-4 Dig Through Time
-3 Breeding Pool
 1 Mana Confluence
 2 Blink of an Eye
 4 Chronic Flooding
 4 Underworld Breach
+4 Dig Through Time
+3 Breeding Pool
 2 Blast Zone
 2 Mana Confluence
 3 Mana Confluence
@@ -21,10 +21,6 @@
 1 Doublecast
 2 Doublecast
 3 Doublecast
-1 Opt
-2 Opt
-3 Opt
-4 Opt
 1 Ipnu Rivulet
 1 Stomping Ground
 1 Dissenter's Deliverance
@@ -37,13 +33,11 @@
 2 Wolfwillow Haven
 3 Wolfwillow Haven
 4 Wolfwillow Haven
-1 Growth Spiral
-1 Omniscience
-2 Growth Spiral
-2 Forest
-3 Growth Spiral
-4 Growth Spiral
-4 Breeding Pool
+1 Uro, Titan of Nature's Wrath
+1 Stealer of Secrets
+2 Stealer of Secrets
+3 Stealer of Secrets
+4 Stealer of Secrets
 1 Shimmer of Possibility
 1 Ral, Storm Conduit
 2 Shimmer of Possibility
@@ -56,6 +50,7 @@
 1 Thirst for Meaning
 1 Thrill of Possibility
 1 Anticipate
+1 Opt
 1 Negate
 1 Shivan Reef
 1 Mountain
@@ -65,6 +60,7 @@
 2 Steam Vents
 2 Thrill of Possibility
 2 Anticipate
+2 Opt
 2 Negate
 2 Shivan Reef
 2 Thassa's Oracle
@@ -75,9 +71,11 @@
 3 Steam Vents
 3 Spirebluff Canal
 3 Island
+3 Opt
 3 Negate
 3 Shivan Reef
 3 Mountain
 4 Steam Vents
 4 Spirebluff Canal
+4 Opt
 4 Shivan Reef
