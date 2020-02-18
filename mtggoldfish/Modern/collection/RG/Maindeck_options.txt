@@ -19,9 +19,9 @@
 1 Sheltered Thicket
 1 Verdant Catacombs
 1 Elvish Rejuvenator
+1 Field of the Dead
 1 Primeval Titan
 1 Castle Garenbrig
-1 Field of the Dead
 1 Arboreal Grazer
 1 Dwarven Mine
 1 Dryad of the Ilysian Grove
@@ -32,10 +32,10 @@
 1 Cinder Glade
 1 Khalni Garden
 1 Sakura-Tribe Elder
-2 Field of the Dead
 2 Elvish Rejuvenator
 2 Arboreal Grazer
 2 Dryad of the Ilysian Grove
+2 Field of the Dead
 2 Primeval Titan
 2 Castle Garenbrig
 2 Sakura-Tribe Elder
@@ -96,14 +96,14 @@
 2 Eldrazi Obligator
 2 Reality Smasher
 2 Grove of the Burnwillows
-2 Karplusan Forest
 2 Eldrazi Temple
+2 Karplusan Forest
 3 Thought-Knot Seer
+3 Grove of the Burnwillows
+3 Reality Smasher
 3 Karplusan Forest
 3 Eldrazi Temple
-3 Reality Smasher
 3 Eldrazi Obligator
-3 Grove of the Burnwillows
 4 Eldrazi Obligator
 4 Thought-Knot Seer
 4 Karplusan Forest
@@ -124,8 +124,8 @@
 1 Searing Blaze
 1 Grim Lavamancer
 1 Bloodstained Mire
-1 Arid Mesa
 1 Sunbaked Canyon
+1 Arid Mesa
 1 Copperline Gorge
 2 Atarka's Command
 2 Rift Bolt
@@ -207,8 +207,8 @@
 1 Horizon Canopy
 1 Hexdrinker
 2 Hexdrinker
-2 Horizon Canopy
 2 Karn, the Great Creator
+2 Horizon Canopy
 3 Karn, the Great Creator
 4 Karn, the Great Creator
 1 Madcap Experiment

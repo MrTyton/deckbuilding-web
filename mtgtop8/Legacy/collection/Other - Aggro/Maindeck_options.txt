@@ -11,9 +11,9 @@
 3 Windswept Heath
 1 Tireless Tracker
 1 Questing Beast
+1 Dryad Arbor
 1 Scavenging Ooze
 1 Green Sun's Zenith
-1 Dryad Arbor
 2 Green Sun's Zenith
 3 Green Sun's Zenith
 4 Green Sun's Zenith
@@ -40,12 +40,36 @@
 1 Thalia, Guardian of Thraben
 2 Thalia, Guardian of Thraben
 3 Thalia, Guardian of Thraben
+2 Snow-Covered Island
+1 Prismatic Vista
+1 Snow-Covered Swamp
+1 Yuriko, the Tiger's Shadow
+1 Ingenious Infiltrator
+1 Ornithopter
+1 Changeling Outcast
+2 Prismatic Vista
+2 Snow-Covered Swamp
+2 Changeling Outcast
+2 Yuriko, the Tiger's Shadow
+2 Ornithopter
+2 Ingenious Infiltrator
+3 Prismatic Vista
+3 Ornithopter
+3 Ingenious Infiltrator
+3 Snow-Covered Island
+3 Changeling Outcast
+3 Yuriko, the Tiger's Shadow
+4 Snow-Covered Island
+4 Prismatic Vista
+4 Ornithopter
+4 Ingenious Infiltrator
+4 Polluted Delta
 1 Once Upon a Time
 2 Once Upon a Time
 1 Mox Diamond
 2 Mox Diamond
-3 Mox Diamond
 3 Once Upon a Time
+3 Mox Diamond
 1 Ramunap Excavator
 1 Umezawa's Jitte
 1 Sword of Fire and Ice
@@ -53,23 +77,28 @@
 1 Batterskull
 2 Stoneforge Mystic
 3 Stoneforge Mystic
+1 Force of Negation
+1 Daze
+2 Ponder
+2 Daze
+3 Ponder
+3 Daze
 1 Life from the Loam
-2 Snow-Covered Island
 1 Gilded Goose
 1 Snow-Covered Forest
 1 Bayou
 2 Gilded Goose
+1 Ice-Fang Coatl
 1 Courser of Kruphix
 1 Leovold, Emissary of Trest
 1 Abrupt Decay
 1 Arcum's Astrolabe
 1 Teferi, Time Raveler
 1 Hexdrinker
-1 Ice-Fang Coatl
+2 Ice-Fang Coatl
 2 Leovold, Emissary of Trest
 2 Snow-Covered Forest
 2 Abrupt Decay
-2 Ice-Fang Coatl
 2 Teferi, Time Raveler
 2 Arcum's Astrolabe
 3 Ice-Fang Coatl
@@ -123,12 +152,12 @@
 2 Taiga
 2 Dack Fayden
 2 Punishing Fire
-2 Scalding Tarn
 2 Grove of the Burnwillows
+2 Scalding Tarn
+2 Abrade
 2 Reclamation Sage
 2 Embereth Shieldbreaker
 2 Liquimetal Coating
-2 Abrade
 2 Tin Street Hooligan
 3 Dack Fayden
 3 Grove of the Burnwillows
@@ -138,7 +167,6 @@
 4 Wooded Foothills
 4 Liquimetal Coating
 4 Tin Street Hooligan
-1 Prismatic Vista
 1 Eternal Witness
 1 Titania, Protector of Argoth
 1 Sevinne's Reclamation
@@ -157,14 +185,30 @@
 3 Giver of Runes
 3 Savannah
 4 Giver of Runes
+1 Bloodstained Mire
+1 Fatal Push
+2 Fatal Push
+1 Preordain
+1 Retrofitter Foundry
+1 Murderous Cut
+2 Underground Sea
+2 Retrofitter Foundry
+2 Preordain
+3 Retrofitter Foundry
+3 Fatal Push
+3 Preordain
+4 Preordain
+4 Ponder
+4 Retrofitter Foundry
+4 Changeling Outcast
 1 Thalia, Heretic Cathar
 1 Knight of Autumn
 1 Phyrexian Revoker
 1 Walking Ballista
 1 Thorn of Amethyst
 2 Plains
-2 Palace Jailer
 2 Phyrexian Revoker
+2 Palace Jailer
 2 Knight of Autumn
 2 Thorn of Amethyst
 3 Plains
@@ -178,7 +222,6 @@
 1 Imperial Recruiter
 2 Imperial Recruiter
 1 Waterlogged Grove
-1 Deputy of Detention
 1 Sanctum Prelate
 1 Cavern of Souls
 1 Champion of the Parish
@@ -186,12 +229,12 @@
 1 Ancient Ziggurat
 1 Kitesail Freebooter
 1 Unclaimed Territory
+1 Deputy of Detention
+1 Avacyn's Pilgrim
 1 Thalia's Lieutenant
 1 Phantasmal Image
-1 Avacyn's Pilgrim
 1 Militia Bugler
 2 Sanctum Prelate
-2 Deputy of Detention
 2 Horizon Canopy
 2 Kitesail Freebooter
 2 Unclaimed Territory
@@ -201,68 +244,26 @@
 2 Avacyn's Pilgrim
 2 Ancient Ziggurat
 2 Thalia's Lieutenant
+2 Deputy of Detention
 2 Champion of the Parish
 3 Ancient Ziggurat
 3 Horizon Canopy
-3 Thalia's Lieutenant
 3 Champion of the Parish
 3 Kitesail Freebooter
+3 Thalia's Lieutenant
 3 Cavern of Souls
 3 Militia Bugler
-4 Ancient Ziggurat
 4 Horizon Canopy
+4 Ancient Ziggurat
 4 Thalia's Lieutenant
 4 Cavern of Souls
-1 Daze
-2 Ponder
-2 Daze
-3 Ponder
-3 Daze
-1 Bloodstained Mire
-1 Fatal Push
-2 Fatal Push
-1 Preordain
-1 Retrofitter Foundry
-1 Snow-Covered Swamp
-1 Yuriko, the Tiger's Shadow
-1 Ingenious Infiltrator
-1 Ornithopter
-1 Murderous Cut
-1 Changeling Outcast
-2 Underground Sea
-2 Retrofitter Foundry
-2 Prismatic Vista
-2 Snow-Covered Swamp
-2 Changeling Outcast
-2 Ornithopter
-2 Preordain
-2 Yuriko, the Tiger's Shadow
-2 Ingenious Infiltrator
-3 Prismatic Vista
-3 Retrofitter Foundry
-3 Fatal Push
-3 Ornithopter
-3 Ingenious Infiltrator
-3 Snow-Covered Island
-3 Changeling Outcast
-3 Preordain
-3 Yuriko, the Tiger's Shadow
-4 Preordain
-4 Snow-Covered Island
-4 Prismatic Vista
-4 Ponder
-4 Ornithopter
-4 Retrofitter Foundry
-4 Changeling Outcast
-4 Ingenious Infiltrator
-4 Polluted Delta
 1 Mountain
 1 Pyroblast
 2 Pyroblast
 1 Arid Mesa
 1 Bonecrusher Giant
-1 Hymn to Tourach
 1 Bedlam Reveler
+1 Hymn to Tourach
 1 Young Pyromancer
 1 Lightning Bolt
 1 Thoughtseize
@@ -308,15 +309,14 @@
 1 True-Name Nemesis
 1 Stifle
 1 Delver of Secrets
-1 Force of Negation
 1 Spell Pierce
 1 Island
 1 Curious Obsession
 1 Pteramander
 2 Island
 2 True-Name Nemesis
-2 Brazen Borrower
 2 Stifle
+2 Brazen Borrower
 2 Delver of Secrets
 2 Spell Pierce
 2 Pteramander
@@ -338,6 +338,22 @@
 4 Pteramander
 5 Island
 6 Island
+1 Faerie Seer
+1 Snuff Out
+1 Ninja of the Deep Hours
+1 Mistblade Shinobi
+2 Force of Negation
+2 Ninja of the Deep Hours
+2 Faerie Seer
+3 Snow-Covered Swamp
+3 Force of Negation
+3 Faerie Seer
+3 Ninja of the Deep Hours
+4 Yuriko, the Tiger's Shadow
+4 Faerie Seer
+4 Ninja of the Deep Hours
+5 Snow-Covered Island
+6 Snow-Covered Island
 1 City of Traitors
 1 Karn, the Great Creator
 2 City of Traitors
@@ -389,12 +405,12 @@
 1 Ichor Wellspring
 1 Grindstone
 2 Mountain
-2 Red Elemental Blast
 2 Blood Moon
+2 Red Elemental Blast
 2 Lotus Petal
 2 Grindstone
-2 Simian Spirit Guide
 2 Painter's Servant
+2 Simian Spirit Guide
 3 Mountain
 3 Pyroblast
 3 Simian Spirit Guide

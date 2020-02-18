@@ -30,12 +30,12 @@
 1 Satyr Wayfinder
 2 Satyr Wayfinder
 3 Satyr Wayfinder
-3 Isolated Chapel
 1 Mana Confluence
 1 Rakshasa Deathdealer
 2 Mana Confluence
 2 Rakshasa Deathdealer
 3 Rakshasa Deathdealer
+3 Isolated Chapel
 1 Walking Ballista
 2 Walking Ballista
 2 Murderous Rider
@@ -67,8 +67,8 @@
 1 Hunted Witness
 1 Cruel Celebrant
 1 Blisterpod
-2 Rally the Ancestors
 2 Nantuko Husk
+2 Rally the Ancestors
 2 Return to the Ranks
 2 Hangarback Walker
 2 Cruel Celebrant
@@ -94,21 +94,21 @@
 1 Tasigur, the Golden Fang
 2 Assassin's Trophy
 4 Fatal Push
-1 Murderous Cut
 1 Thalia, Heretic Cathar
+1 Murderous Cut
 1 Heliod, Sun-Crowned
-1 Dark Petition
 1 Seasons Past
+1 Dark Petition
 1 Nissa, Vastwood Seer
 1 Languish
 1 Painful Truths
 1 Sandsteppe Citadel
 1 Utter End
 2 Sandsteppe Citadel
-2 Castle Locthwain
 2 Dark Petition
 2 Languish
 2 Nissa, Vastwood Seer
+2 Castle Locthwain
 3 Languish
 1 Ifnir Deadlands
 1 Nissa, Voice of Zendikar
@@ -138,15 +138,15 @@
 1 Trail of Crumbs
 1 Witch's Oven
 1 Cauldron Familiar
-1 Wicked Wolf
 1 Anguished Unmaking
+1 Wicked Wolf
 2 Smuggler's Copter
 2 Trail of Crumbs
 2 Cauldron Familiar
 2 Witch's Oven
 2 Gilded Goose
-2 Archangel Avacyn
 2 Anguished Unmaking
+2 Archangel Avacyn
 2 Wicked Wolf
 3 Smuggler's Copter
 3 Archangel Avacyn
@@ -157,15 +157,15 @@
 3 Anguished Unmaking
 3 Wicked Wolf
 4 Smuggler's Copter
+4 Gilded Goose
 4 Trail of Crumbs
 4 Witch's Oven
-4 Gilded Goose
 1 Unclaimed Territory
 1 Dauntless Bodyguard
 1 Thalia's Lieutenant
 1 Plaguecrafter
-1 Kytheon, Hero of Akros
 1 Xathrid Necromancer
+1 Kytheon, Hero of Akros
 1 Liliana, Heretical Healer
 1 Bloodsoaked Champion
 1 Channeler Initiate
@@ -192,20 +192,20 @@
 4 Bloodsoaked Champion
 4 Xathrid Necromancer
 1 Sorin, Vengeful Bloodlord
-1 Caves of Koilos
-1 Heart of Kiran
-1 Llanowar Wastes
-1 Pelt Collector
 1 Scrapheap Scrounger
+1 Caves of Koilos
+1 Llanowar Wastes
+1 Heart of Kiran
+1 Pelt Collector
 1 Experiment One
 1 Loxodon Smiter
 2 Pelt Collector
-2 Heart of Kiran
 2 Caves of Koilos
-2 Sorin, Vengeful Bloodlord
+2 Heart of Kiran
 2 Scrapheap Scrounger
-2 Loxodon Smiter
 2 Llanowar Wastes
+2 Sorin, Vengeful Bloodlord
+2 Loxodon Smiter
 3 Pelt Collector
 3 Scrapheap Scrounger
 3 Heart of Kiran
@@ -229,9 +229,9 @@
 4 Merfolk Branchwalker
 4 Jadelight Ranger
 4 Fabled Passage
+1 Liliana, Death's Majesty
 1 Obzedat, Ghost Council
 1 Temple of Silence
-1 Liliana, Death's Majesty
 4 Gideon, Ally of Zendikar
 4 Murderous Rider
 4 Abzan Charm

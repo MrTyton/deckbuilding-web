@@ -37,6 +37,6 @@
 |                    2|[Infernal Tutor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107308)|                    2|[Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)               |
 |                    3|[Infernal Tutor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107308)|                    2|[Daretti, Ingenious Iconoclast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416831)|
 |                     |                                                                                         |                    3|[Echoing Truth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405212)                |
-|                     |                                                                                         |                    4|[Pyroblast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=4083)                      |
 |                     |                                                                                         |                    3|[Pyroblast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=4083)                      |
+|                     |                                                                                         |                    4|[Pyroblast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=4083)                      |
 

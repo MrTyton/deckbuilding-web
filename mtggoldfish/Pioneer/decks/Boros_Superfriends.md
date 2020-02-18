@@ -27,9 +27,9 @@
 
 |*n*<sup>th</sup> copy|                                        Maindeck Card                                         |*n*<sup>th</sup> copy|                                       Sideboard Card                                       |
 |--------------------:|----------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------|
-|                    1|[Settle the Wreckage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435186)|                    1|[Lava Coil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452858)        |
 |                    1|Elspeth, Sun's Nemesis                                                                        |                    1|[Fall of the Thran](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442906)|
-|                    1|[Sweltering Suns](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426851)    |                    2|[Fall of the Thran](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442906)|
+|                    1|[Sweltering Suns](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426851)    |                    1|[Lava Coil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452858)        |
+|                    1|[Settle the Wreckage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435186)|                    2|[Fall of the Thran](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442906)|
 |                    1|[Clifftop Retreat](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443127)   |                     |                                                                                            |
 |                    2|[Sweltering Suns](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426851)    |                     |                                                                                            |
 |                    2|[Settle the Wreckage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435186)|                     |                                                                                            |

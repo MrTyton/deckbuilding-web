@@ -93,7 +93,7 @@
 |                   12|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)                     |                     |                                                                                                 |
 |                    1|[Scrabbling Claws](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=451173)           |                     |                                                                                                 |
 |                    2|[Scrabbling Claws](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=451173)           |                     |                                                                                                 |
-|                    4|[Fabled Passage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473206)             |                     |                                                                                                 |
 |                    4|Thassa's Intervention                                                                                 |                     |                                                                                                 |
+|                    4|[Fabled Passage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473206)             |                     |                                                                                                 |
 |                    4|Whirlwind Denial                                                                                      |                     |                                                                                                 |
 

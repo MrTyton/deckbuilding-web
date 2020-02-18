@@ -23,3 +23,10 @@
 |3 [Scavenging Ooze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420783) |3 [Disdainful Stroke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420705)|1 [Blast Zone](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461171)|2 [Vivien, Arkbow Ranger](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466953)|
 |2 [Tireless Tracker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409997)|4 [Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020) |                                                                                       |                                                                                                  |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|Maindeck Card|*n*<sup>th</sup> copy|                                      Sideboard Card                                      |
+|---------------------|-------------|--------------------:|------------------------------------------------------------------------------------------|
+|                     |             |                    4|[Scavenging Ooze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420783)|
+

@@ -29,17 +29,17 @@
 3 Censor
 4 Censor
 4 Drowned Catacomb
-1 Pharika's Libation
 1 Kroxa, Titan of Death's Hunger
+1 Pharika's Libation
 2 Kroxa, Titan of Death's Hunger
 3 Castle Locthwain
 1 Castle Vantress
 3 Island
 4 Island
+1 Fetid Pools
 1 Hieroglyphic Illumination
 1 Negate
 1 Disallow
-1 Fetid Pools
 1 Narset, Parter of Veils
 2 Castle Vantress
 2 Disallow
@@ -68,8 +68,8 @@
 4 Forest
 5 Forest
 6 Forest
-1 Emrakul, the Promised End
 1 Traverse the Ulvenwald
+1 Emrakul, the Promised End
 2 Traverse the Ulvenwald
 3 Traverse the Ulvenwald
 4 Traverse the Ulvenwald
@@ -177,6 +177,11 @@
 3 Vessel of Nascency
 4 Hinterland Harbor
 4 Arboreal Grazer
+1 Tyrant's Scorn
+1 Erebos's Intervention
+2 Thassa's Intervention
+2 Tyrant's Scorn
+4 Jace, Vryn's Prodigy
 1 Blooming Marsh
 1 Stomping Ground
 1 Rootbound Crag
@@ -230,11 +235,6 @@
 3 Lovestruck Beast
 4 Temple of Malady
 4 Lovestruck Beast
-1 Tyrant's Scorn
-1 Erebos's Intervention
-2 Thassa's Intervention
-2 Tyrant's Scorn
-4 Jace, Vryn's Prodigy
 1 Gather the Pack
 1 Blast Zone
 1 Commit / Memory
@@ -261,11 +261,11 @@
 1 Temple of Deceit
 1 Whirlwind Denial
 1 Detention Sphere
-1 Ashiok, Nightmare Muse
 1 Ultimate Price
 1 Teferi, Hero of Dominaria
 1 Teferi, Time Raveler
 1 Absorb
+1 Ashiok, Nightmare Muse
 2 Teferi, Hero of Dominaria
 2 Absorb
 2 Teferi, Time Raveler
@@ -282,30 +282,30 @@
 4 Plains
 5 Plains
 1 Oath of Kaya
-1 The Birth of Meletis
 1 Treacherous Blessing
+1 The Birth of Meletis
 1 Isolated Chapel
 1 Ashiok, Dream Render
-1 Kaya's Wrath
 1 Trial of Ambition
-1 Starfield of Nyx
+1 Kaya's Wrath
 1 Shepherd of the Flock
+1 Starfield of Nyx
 1 Doom Foretold
 1 Final Payment
 1 Temple of Silence
-2 The Birth of Meletis
 2 Treacherous Blessing
 2 Oath of Kaya
+2 The Birth of Meletis
+2 Trial of Ambition
+2 Starfield of Nyx
 2 Isolated Chapel
 2 Doom Foretold
 2 Final Payment
 2 Kaya's Wrath
-2 Trial of Ambition
 2 Shambling Vent
-2 Starfield of Nyx
-3 Trial of Ambition
 3 Treacherous Blessing
 3 Oath of Kaya
+3 Trial of Ambition
 3 Shambling Vent
 3 Starfield of Nyx
 3 Kaya's Wrath
@@ -395,12 +395,12 @@
 2 Elvish Visionary
 2 Sunpetal Grove
 3 Collected Company
-3 Fortified Village
 3 Llanowar Elves
 3 Heliod, Sun-Crowned
 3 Elvish Mystic
 3 Temple Garden
 3 Sunpetal Grove
+3 Fortified Village
 3 Militia Bugler
 4 Temple Garden
 4 Walking Ballista
@@ -425,15 +425,15 @@
 2 Gideon of the Trials
 2 Gideon, Ally of Zendikar
 2 Clifftop Retreat
+2 Settle the Wreckage
 2 Temple of Triumph
 2 Sacred Foundry
-2 Settle the Wreckage
 2 Haktos the Unscarred
 2 Lava Coil
 2 Needle Spires
 2 Chained to the Rocks
-3 Gideon of the Trials
 3 Gideon, Ally of Zendikar
+3 Gideon of the Trials
 3 Clifftop Retreat
 3 Anger of the Gods
 3 Chained to the Rocks
