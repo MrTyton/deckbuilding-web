@@ -24,3 +24,15 @@
 |                                                                                                 |1 [Kalitas, Traitor of Ghet](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407596)|                                                                                                |1 [Liliana, the Last Hope](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414388)|                                                                                                 |
 |                                                                                                 |2 [Plague Engineer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464049)         |                                                                                                |                                                                                                   |                                                                                                 |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                        Maindeck Card                                         |*n*<sup>th</sup> copy|                                        Sideboard Card                                         |
+|--------------------:|----------------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------------|
+|                    1|[Dark Confidant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397731)     |                    1|[Kolaghan's Command](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394613)  |
+|                    2|[Dark Confidant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397731)     |                    3|[Ashiok, Dream Render](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461155)|
+|                    3|[Liliana of the Veil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=235597)|                    1|[Damnation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425888)           |
+|                    3|[Dark Confidant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397731)     |                     |                                                                                               |
+|                    4|[Fatal Push](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423724)         |                     |                                                                                               |
+|                    3|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)              |                     |                                                                                               |
+

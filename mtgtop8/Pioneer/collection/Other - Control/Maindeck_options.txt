@@ -68,25 +68,24 @@
 4 Forest
 5 Forest
 6 Forest
-1 Traverse the Ulvenwald
 1 Emrakul, the Promised End
+1 Traverse the Ulvenwald
 2 Traverse the Ulvenwald
 3 Traverse the Ulvenwald
 4 Traverse the Ulvenwald
 3 Courser of Kruphix
 1 Walking Ballista
 2 Walking Ballista
-1 Uro, Titan of Nature's Wrath
 1 Growth Spiral
 1 Satyr Wayfinder
-1 Breeding Pool
 1 Yavimaya Coast
+1 Breeding Pool
 1 Grapple with the Past
 1 Cavalier of Thorns
 1 Arboreal Grazer
 1 Ugin, the Spirit Dragon
 1 Castle Garenbrig
-2 Uro, Titan of Nature's Wrath
+1 Uro, Titan of Nature's Wrath
 2 Castle Garenbrig
 2 Growth Spiral
 2 Satyr Wayfinder
@@ -94,15 +93,16 @@
 2 Breeding Pool
 2 Arboreal Grazer
 2 Cavalier of Thorns
+2 Uro, Titan of Nature's Wrath
 3 Uro, Titan of Nature's Wrath
-3 Castle Garenbrig
 3 Satyr Wayfinder
+3 Castle Garenbrig
 3 Yavimaya Coast
 3 Breeding Pool
 3 Cavalier of Thorns
 4 Uro, Titan of Nature's Wrath
-4 Breeding Pool
 4 Satyr Wayfinder
+4 Breeding Pool
 4 Yavimaya Coast
 1 Ishkanah, Grafwidow
 1 Vessel of Nascency
@@ -186,9 +186,9 @@
 1 Stomping Ground
 1 Rootbound Crag
 2 Stomping Ground
+2 Abrupt Decay
 2 Blooming Marsh
 2 Rootbound Crag
-2 Abrupt Decay
 3 Assassin's Trophy
 3 Blooming Marsh
 4 Blooming Marsh
@@ -283,36 +283,36 @@
 5 Plains
 1 Oath of Kaya
 1 The Birth of Meletis
-1 Treacherous Blessing
 1 Isolated Chapel
 1 Ashiok, Dream Render
-1 Trial of Ambition
 1 Kaya's Wrath
 1 Shepherd of the Flock
 1 Starfield of Nyx
+1 Trial of Ambition
 1 Doom Foretold
+1 Treacherous Blessing
 1 Final Payment
 1 Temple of Silence
-2 Treacherous Blessing
-2 Oath of Kaya
 2 The Birth of Meletis
-2 Trial of Ambition
+2 Oath of Kaya
 2 Starfield of Nyx
 2 Isolated Chapel
 2 Doom Foretold
 2 Final Payment
 2 Kaya's Wrath
+2 Trial of Ambition
+2 Treacherous Blessing
 2 Shambling Vent
-3 Treacherous Blessing
 3 Oath of Kaya
-3 Trial of Ambition
 3 Shambling Vent
 3 Starfield of Nyx
+3 Treacherous Blessing
 3 Kaya's Wrath
 3 Isolated Chapel
 3 Doom Foretold
-4 Treacherous Blessing
+3 Trial of Ambition
 4 Trial of Ambition
+4 Treacherous Blessing
 4 Isolated Chapel
 4 Doom Foretold
 4 Shambling Vent
@@ -334,6 +334,7 @@
 2 Chart a Course
 2 Reflector Mage
 2 Charming Prince
+2 Deputy of Detention
 2 Strategic Planning
 2 Supreme Verdict
 2 God-Pharaoh's Gift
@@ -341,7 +342,6 @@
 2 Irrigated Farmland
 2 Glacial Fortress
 2 Refurbish
-2 Deputy of Detention
 2 Angel of Invention
 3 Reflector Mage
 3 Glacial Fortress
@@ -370,11 +370,11 @@
 1 Radiant Fountain
 1 Anafenza, Kin-Tree Spirit
 1 Elvish Visionary
-1 Collected Company
-1 Voice of Resurgence
 1 Knight of Autumn
-1 Selfless Spirit
+1 Voice of Resurgence
+1 Collected Company
 1 Chord of Calling
+1 Selfless Spirit
 1 Llanowar Elves
 1 Elvish Mystic
 1 Heliod, Sun-Crowned
@@ -382,24 +382,24 @@
 1 Temple Garden
 1 Fairgrounds Warden
 1 Militia Bugler
+2 Sunpetal Grove
 2 Radiant Fountain
-2 Collected Company
 2 Voice of Resurgence
+2 Collected Company
+2 Elvish Visionary
+2 Chord of Calling
 2 Fortified Village
 2 Militia Bugler
 2 Llanowar Elves
-2 Chord of Calling
 2 Heliod, Sun-Crowned
 2 Elvish Mystic
 2 Temple Garden
-2 Elvish Visionary
-2 Sunpetal Grove
+3 Sunpetal Grove
 3 Collected Company
 3 Llanowar Elves
 3 Heliod, Sun-Crowned
 3 Elvish Mystic
 3 Temple Garden
-3 Sunpetal Grove
 3 Fortified Village
 3 Militia Bugler
 4 Temple Garden
@@ -422,8 +422,8 @@
 1 Needle Spires
 1 Sacred Foundry
 1 Lava Coil
-2 Gideon of the Trials
 2 Gideon, Ally of Zendikar
+2 Gideon of the Trials
 2 Clifftop Retreat
 2 Settle the Wreckage
 2 Temple of Triumph

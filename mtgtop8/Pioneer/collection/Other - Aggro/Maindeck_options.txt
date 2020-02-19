@@ -85,8 +85,8 @@
 5 Mountain
 6 Mountain
 7 Mountain
-4 Cartouche of Solidarity
 4 All That Glitters
+4 Cartouche of Solidarity
 1 Heart of Kiran
 2 Heart of Kiran
 1 Abrade
@@ -207,6 +207,11 @@
 2 Dryad Militant
 1 Favored Hoplite
 2 Favored Hoplite
+1 Adanto Vanguard
+1 Gods Willing
+2 Adanto Vanguard
+2 Gods Willing
+4 Gryff's Boon
 1 Lightning Strike
 1 Ramunap Ruins
 1 Torbran, Thane of Red Fell
@@ -252,16 +257,16 @@
 1 Anguished Unmaking
 1 History of Benalia
 1 Archangel Avacyn
-1 Glory-Bound Initiate
 1 Kunoros, Hound of Athreos
 1 Thalia, Heretic Cathar
 1 Urborg, Tomb of Yawgmoth
 1 Gideon of the Trials
 1 Knight of the Ebon Legion
+1 Glory-Bound Initiate
 2 History of Benalia
-2 Glory-Bound Initiate
 2 Gideon of the Trials
 2 Knight of the Ebon Legion
+2 Glory-Bound Initiate
 3 Heart of Kiran
 3 History of Benalia
 3 Mutavault
@@ -274,8 +279,8 @@
 4 Glacial Fortress
 4 Island
 5 Island
-1 Azorius Charm
 1 Port Town
+1 Azorius Charm
 1 Teferi, Hero of Dominaria
 1 Judge's Familiar
 1 Irrigated Farmland
@@ -353,6 +358,7 @@
 3 Stomping Ground
 4 Rotting Regisaur
 4 Stomping Ground
+1 Stonecoil Serpent
 1 Spirebluff Canal
 1 Emry, Lurker of the Loch
 1 Spire of Industry
@@ -361,7 +367,6 @@
 1 Stubborn Denial
 1 The Royal Scions
 1 Hope of Ghirapur
-1 Stonecoil Serpent
 1 Steam Vents
 1 Ensoul Artifact
 1 Darksteel Citadel
@@ -371,6 +376,7 @@
 1 Ghostfire Blade
 1 Shrapnel Blast
 2 Stubborn Denial
+2 Stonecoil Serpent
 2 Bomat Courier
 2 Emry, Lurker of the Loch
 2 Spirebluff Canal
@@ -383,20 +389,20 @@
 2 Darksteel Citadel
 2 Gingerbrute
 2 Ensoul Artifact
-2 Stonecoil Serpent
 2 Ghostfire Blade
 2 Shrapnel Blast
+3 Stonecoil Serpent
 3 Bomat Courier
 3 Spire of Industry
 3 Spirebluff Canal
 3 Darksteel Citadel
 3 Skilled Animator
-3 Stonecoil Serpent
 3 Gingerbrute
 3 Ensoul Artifact
 3 Ghostfire Blade
 3 Shivan Reef
 3 Shrapnel Blast
+4 Stonecoil Serpent
 4 Shivan Reef
 4 Bomat Courier
 4 Darksteel Citadel
@@ -406,7 +412,6 @@
 4 Spirebluff Canal
 4 Ghostfire Blade
 4 Ensoul Artifact
-4 Stonecoil Serpent
 1 Charming Prince
 1 Militia Bugler
 1 Thalia's Lieutenant
@@ -424,9 +429,9 @@
 2 Militia Bugler
 2 Thalia's Lieutenant
 2 Dauntless Bodyguard
-2 Glint-Sleeve Siphoner
 2 Elspeth, Sun's Nemesis
 2 Unclaimed Territory
+2 Glint-Sleeve Siphoner
 2 Tithe Taker
 2 Elite Guardmage
 2 Declaration in Stone
@@ -441,15 +446,10 @@
 3 Kitesail Freebooter
 3 Aether Hub
 4 Thalia's Lieutenant
-4 Unclaimed Territory
 4 Glint-Sleeve Siphoner
+4 Unclaimed Territory
 4 Kitesail Freebooter
 4 Aether Hub
-1 Adanto Vanguard
-1 Gods Willing
-2 Gods Willing
-2 Adanto Vanguard
-4 Gryff's Boon
 1 Temple of Silence
 1 Liliana, Untouched by Death
 1 Corpse Knight
@@ -519,8 +519,8 @@
 1 Witching Well
 1 Nykthos, Shrine to Nyx
 1 Leyline of Anticipation
-1 Brazen Borrower
 1 Ashiok's Erasure
+1 Brazen Borrower
 1 Agent of Treachery
 1 Thassa's Oracle
 1 Thassa, Deep-Dwelling

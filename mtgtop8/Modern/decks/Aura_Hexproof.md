@@ -51,7 +51,7 @@
 |                    2|[Suppression Field](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=83617)   |                    4|[Path to Exile](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220511)      |
 |                    3|[Suppression Field](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=83617)   |                    2|[Stony Silence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=247425)      |
 |                    3|[Hyena Umbra](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=271150)        |                    3|[Seal of Primordium](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425960) |
-|                    4|[Suppression Field](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=83617)   |                    4|[Leyline of Sanctity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=204993)|
-|                    4|[Temple Garden](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405112)      |                    4|[Seal of Primordium](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425960) |
-|                    4|[Hyena Umbra](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=271150)        |                     |                                                                                              |
+|                    4|[Temple Garden](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405112)      |                    4|[Leyline of Sanctity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=204993)|
+|                    4|[Hyena Umbra](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=271150)        |                    4|[Seal of Primordium](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425960) |
+|                    4|[Suppression Field](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=83617)   |                     |                                                                                              |
 

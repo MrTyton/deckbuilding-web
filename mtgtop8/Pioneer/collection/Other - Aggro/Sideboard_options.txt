@@ -29,8 +29,8 @@
 1 Elder Deep-Fiend
 2 Ashiok, Dream Render
 1 Disenchant
-1 Deafening Silence
 1 Anguished Unmaking
+1 Deafening Silence
 1 Grasp of Darkness
 2 Deafening Silence
 2 Anguished Unmaking
@@ -60,6 +60,16 @@
 2 Damping Sphere
 2 Abrupt Decay
 3 Fatal Push
+1 Trial of Ambition
+1 Shepherd of the Flock
+1 Tomik, Distinguished Advokist
+1 Tymaret, Chosen from Death
+1 Orzhov Charm
+1 Mire's Grasp
+1 Order of Midnight
+2 Trial of Ambition
+2 Tomik, Distinguished Advokist
+3 Trial of Ambition
 1 Dovin's Veto
 2 Mystical Dispute
 3 Mystical Dispute
@@ -72,16 +82,6 @@
 2 Reflector Mage
 2 Detention Sphere
 3 Detention Sphere
-1 Shepherd of the Flock
-1 Trial of Ambition
-1 Tomik, Distinguished Advokist
-1 Tymaret, Chosen from Death
-1 Orzhov Charm
-1 Mire's Grasp
-1 Order of Midnight
-2 Trial of Ambition
-2 Tomik, Distinguished Advokist
-3 Trial of Ambition
 3 Rest in Peace
 1 Heliod, Sun-Crowned
 1 Walking Ballista
@@ -109,10 +109,10 @@
 1 Languish
 2 Languish
 3 Blightbeetle
-1 Hushbringer
 1 Leyline of Sanctity
-2 Hushbringer
+1 Hushbringer
 2 Leyline of Sanctity
+2 Hushbringer
 3 Hushbringer
 3 Leyline of Sanctity
 3 Assassin's Trophy
@@ -126,18 +126,18 @@
 3 Surge of Righteousness
 3 Dryad Militant
 1 Kambal, Consul of Allocation
-1 Brave the Elements
 1 Unbreakable Formation
 1 Arashin Cleric
-1 Erase
+1 Brave the Elements
 1 Sin Collector
+1 Erase
 2 Sin Collector
 2 Brave the Elements
 2 Disenchant
 2 Kunoros, Hound of Athreos
 3 Sin Collector
-1 Knight of Autumn
 1 Tamiyo, Field Researcher
+1 Knight of Autumn
 2 Dovin's Veto
 2 Tamiyo, Field Researcher
 2 Knight of Autumn
@@ -148,10 +148,10 @@
 1 Roast
 1 Aethersphere Harvester
 1 Hangarback Walker
+2 Hangarback Walker
 2 Dive Down
 2 Roast
 2 Aethersphere Harvester
-2 Hangarback Walker
 3 Aethersphere Harvester
 1 Chandra's Defeat
 2 Chandra's Defeat

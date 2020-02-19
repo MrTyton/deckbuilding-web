@@ -37,11 +37,11 @@
 1 Emrakul, the Promised End
 4 Brazen Borrower
 3 Island
-1 Satyr Wayfinder
 1 Uro, Titan of Nature's Wrath
+1 Satyr Wayfinder
 1 Ipnu Rivulet
-2 Satyr Wayfinder
 2 Uro, Titan of Nature's Wrath
+2 Satyr Wayfinder
 2 Ipnu Rivulet
 3 Satyr Wayfinder
 3 Uro, Titan of Nature's Wrath
@@ -76,9 +76,9 @@
 1 Agent of Treachery
 1 Nexus of Fate
 1 Leafkin Druid
+2 Nexus of Fate
 2 Risen Reef
 2 Leafkin Druid
-2 Nexus of Fate
 3 Risen Reef
 3 Leafkin Druid
 4 Risen Reef
@@ -89,11 +89,11 @@
 4 Collected Company
 1 Sanctum of Ugin
 1 Sea Gate Wreckage
-1 Arboreal Grazer
 1 Shrine of the Forsaken Gods
+1 Arboreal Grazer
 1 Ishkanah, Grafwidow
-1 World Breaker
 1 Ugin, the Spirit Dragon
+1 World Breaker
 1 Spring / Mind
 2 Shrine of the Forsaken Gods
 2 Arboreal Grazer
@@ -135,9 +135,9 @@
 1 Gather the Pack
 1 Tamiyo, Collector of Tales
 2 Gather the Pack
-2 Tamiyo, Collector of Tales
 2 Vessel of Nascency
 2 Emrakul, the Promised End
+2 Tamiyo, Collector of Tales
 3 Gather the Pack
 3 Castle Garenbrig
 3 Vessel of Nascency
@@ -160,7 +160,6 @@
 1 Admiral's Order
 1 Brineborn Cutthroat
 2 Essence Flux
-2 Nightpack Ambusher
 2 Dig Through Time
 2 Opt
 2 Essence Scatter
@@ -169,6 +168,7 @@
 2 Mystical Dispute
 2 Admiral's Order
 2 Brineborn Cutthroat
+2 Nightpack Ambusher
 3 Opt
 3 Nightpack Ambusher
 3 Brineborn Cutthroat
