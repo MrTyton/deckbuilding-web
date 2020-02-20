@@ -1,19 +1,16 @@
-3 Once Upon a Time
 4 Once Upon a Time
 4 Forest
-1 Emrakul, the Promised End
+2 Thragtusk
 1 Karn, the Great Creator
 2 Karn, the Great Creator
-1 Relic of Progenitus
-2 Relic of Progenitus
-1 Snow-Covered Forest
 1 Ugin, the Ineffable
+1 Snow-Covered Forest
 3 Karn, the Great Creator
 1 Chalice of the Void
 2 Chalice of the Void
 3 Chalice of the Void
-1 Everflowing Chalice
 1 Inventors' Fair
+1 Everflowing Chalice
 1 Astral Cornucopia
 1 Coretapper
 1 Mystic Forge
@@ -39,22 +36,25 @@
 4 Coretapper
 4 Karn, the Great Creator
 1 Wastes
-4 Wurmcoil Engine
+1 Emrakul, the Promised End
+1 Relic of Progenitus
+2 Relic of Progenitus
 3 Ugin, the Ineffable
 4 Mystic Forge
 1 Buried Ruin
-1 Nurturing Peatland
-1 Horizon Canopy
 3 Thragtusk
 1 Sea Gate Wreckage
 4 Ugin, the Ineffable
+1 Horizon Canopy
+4 Wurmcoil Engine
+1 All Is Dust
 1 Island
 1 Condescend
 1 Field of Ruin
 1 Tolaria West
 1 Trinket Mage
-1 Academy Ruins
 1 Thirst for Knowledge
+1 Academy Ruins
 1 Mindslaver
 1 Spatial Contortion
 1 Remand
@@ -76,26 +76,22 @@
 1 Cavern of Souls
 1 Reality Smasher
 1 Thought-Knot Seer
-1 All Is Dust
 2 All Is Dust
 2 Reality Smasher
 2 Wastes
 2 Thought-Knot Seer
-3 Walking Ballista
 3 Reality Smasher
+3 Walking Ballista
 3 Thought-Knot Seer
 4 Reality Smasher
 4 Thought-Knot Seer
 5 Forest
+1 Nurturing Peatland
 1 Ensnaring Bridge
 1 Spine of Ish Sah
 1 Throne of Geth
-2 Ensnaring Bridge
 2 Ghost Quarter
-1 Swamp
-2 Swamp
-2 Buried Ruin
-3 Blast Zone
+2 Ensnaring Bridge
 1 Witching Well
 1 Gemstone Caverns
 1 Force of Negation
@@ -105,6 +101,10 @@
 2 Spatial Contortion
 2 Nimble Obstructionist
 3 Remand
+1 Swamp
+2 Swamp
+2 Buried Ruin
+3 Blast Zone
 3 Relic of Progenitus
 1 Snow-Covered Island
 1 Teferi, Time Raveler
@@ -138,9 +138,9 @@
 2 Celestial Colonnade
 2 Hallowed Fountain
 2 Champion of Wits
+3 Celestial Colonnade
 3 Hallowed Fountain
 3 Path to Exile
-3 Celestial Colonnade
 3 Champion of Wits
 3 Azorius Signet
 3 Gifts Ungiven
@@ -149,6 +149,7 @@
 4 Champion of Wits
 4 Gifts Ungiven
 4 Azorius Signet
+1 Mox Amber
 1 Breeding Pool
 1 Metallic Rebuke
 1 Uro, Titan of Nature's Wrath
@@ -156,7 +157,6 @@
 1 Ice-Fang Coatl
 1 Tormod's Crypt
 1 Engineered Explosives
-1 Mox Amber
 1 Cryptic Command
 1 Emry, Lurker of the Loch
 1 Aether Spellbomb
@@ -185,10 +185,10 @@
 2 Polluted Delta
 2 Scalding Tarn
 3 Scalding Tarn
-3 Misty Rainforest
 3 Uro, Titan of Nature's Wrath
-3 Cryptic Command
+3 Misty Rainforest
 3 Engineered Explosives
+3 Cryptic Command
 3 Gilded Goose
 3 Ice-Fang Coatl
 3 Metallic Rebuke
@@ -197,13 +197,13 @@
 3 Emry, Lurker of the Loch
 3 Snow-Covered Island
 3 Urza, Lord High Artificer
-4 Emry, Lurker of the Loch
 4 Misty Rainforest
 4 Scalding Tarn
 4 Gilded Goose
 4 Ice-Fang Coatl
 4 Urza, Lord High Artificer
 4 Snow-Covered Island
+4 Emry, Lurker of the Loch
 4 Mishra's Bauble
 4 Arcum's Astrolabe
 5 Snow-Covered Island

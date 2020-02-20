@@ -1,36 +1,6 @@
-1 Misty Rainforest
-2 Snow-Covered Island
-1 Prismatic Vista
-1 Snow-Covered Swamp
-1 Yuriko, the Tiger's Shadow
-1 Ingenious Infiltrator
-1 Ornithopter
-1 Changeling Outcast
-2 Prismatic Vista
-2 Snow-Covered Swamp
-2 Changeling Outcast
-2 Yuriko, the Tiger's Shadow
-2 Ornithopter
-2 Ingenious Infiltrator
-3 Prismatic Vista
-3 Ornithopter
-3 Ingenious Infiltrator
-3 Snow-Covered Island
-3 Changeling Outcast
-3 Yuriko, the Tiger's Shadow
-4 Snow-Covered Island
-4 Prismatic Vista
-4 Ornithopter
-4 Ingenious Infiltrator
-4 Polluted Delta
 1 Wasteland
 2 Wasteland
-1 Force of Negation
-1 Daze
-2 Ponder
-2 Daze
-3 Ponder
-3 Daze
+1 Misty Rainforest
 3 Wasteland
 4 Wasteland
 2 Misty Rainforest
@@ -67,6 +37,7 @@
 4 Windswept Heath
 3 Noble Hierarch
 4 Noble Hierarch
+2 Snow-Covered Island
 1 Gilded Goose
 1 Snow-Covered Forest
 1 Bayou
@@ -81,25 +52,25 @@
 2 Leovold, Emissary of Trest
 2 Snow-Covered Forest
 2 Abrupt Decay
-2 Teferi, Time Raveler
 2 Ice-Fang Coatl
+2 Teferi, Time Raveler
 2 Arcum's Astrolabe
 3 Ice-Fang Coatl
 3 Arcum's Astrolabe
 4 Misty Rainforest
 4 Ice-Fang Coatl
 1 Life from the Loam
+1 Wooded Foothills
+2 Wooded Foothills
 1 Kolaghan's Command
 1 Badlands
 1 Faithless Looting
 2 Kolaghan's Command
 2 Faithless Looting
-1 Wooded Foothills
-2 Wooded Foothills
-1 Dack Fayden
-1 Scalding Tarn
 1 Grove of the Burnwillows
+1 Scalding Tarn
 1 Punishing Fire
+1 Dack Fayden
 1 Volcanic Island
 1 Taiga
 1 Reclamation Sage
@@ -145,8 +116,8 @@
 1 Knight of the Reliquary
 1 Titania, Protector of Argoth
 1 Thespian's Stage
-1 Sylvan Library
 1 Dark Depths
+1 Sylvan Library
 1 Sylvan Safekeeper
 1 Gaea's Cradle
 1 Bojuka Bog
@@ -154,26 +125,11 @@
 3 Knight of the Reliquary
 4 Swords to Plowshares
 4 Knight of the Reliquary
-1 Bloodstained Mire
-1 Fatal Push
-2 Fatal Push
-1 Preordain
-1 Retrofitter Foundry
-1 Murderous Cut
-2 Underground Sea
-2 Retrofitter Foundry
-2 Preordain
-3 Retrofitter Foundry
-3 Fatal Push
-3 Preordain
-4 Preordain
-4 Ponder
-4 Retrofitter Foundry
-4 Changeling Outcast
 1 Thalia, Guardian of Thraben
 2 Karakas
 2 Thalia, Guardian of Thraben
 3 Thalia, Guardian of Thraben
+1 Prismatic Vista
 1 Ramunap Excavator
 1 Ancient Tomb
 1 Chalice of the Void
@@ -257,9 +213,12 @@
 1 Liliana, the Last Hope
 1 Plateau
 1 Cabal Therapy
+1 Bloodstained Mire
 1 Lingering Souls
 1 Mishra's Bauble
+1 Fatal Push
 1 Swamp
+2 Fatal Push
 2 Bonecrusher Giant
 2 Arid Mesa
 2 Hymn to Tourach
@@ -294,25 +253,31 @@
 4 Faithless Looting
 4 Mishra's Bauble
 4 Bloodstained Mire
+1 Force of Negation
 1 Stifle
 1 True-Name Nemesis
 1 Delver of Secrets
+1 Daze
 1 Spell Pierce
 1 Island
 1 Curious Obsession
 1 Pteramander
+2 Ponder
 2 Island
 2 Stifle
 2 True-Name Nemesis
 2 Brazen Borrower
+2 Daze
 2 Delver of Secrets
 2 Spell Pierce
 2 Pteramander
 2 Curious Obsession
 3 Spell Pierce
+3 Ponder
 3 Stifle
 3 Island
 3 Delver of Secrets
+3 Daze
 3 True-Name Nemesis
 3 Pteramander
 3 Curious Obsession
@@ -326,30 +291,52 @@
 4 Pteramander
 5 Island
 6 Island
+1 Snow-Covered Swamp
+1 Yuriko, the Tiger's Shadow
 1 Faerie Seer
-1 Snuff Out
+1 Ingenious Infiltrator
 1 Ninja of the Deep Hours
+1 Ornithopter
+1 Changeling Outcast
+1 Snuff Out
 1 Mistblade Shinobi
+2 Prismatic Vista
+2 Snow-Covered Swamp
 2 Force of Negation
+2 Changeling Outcast
 2 Ninja of the Deep Hours
+2 Yuriko, the Tiger's Shadow
+2 Ornithopter
+2 Ingenious Infiltrator
 2 Faerie Seer
+3 Prismatic Vista
 3 Snow-Covered Swamp
+3 Ornithopter
+3 Ingenious Infiltrator
+3 Snow-Covered Island
 3 Faerie Seer
+3 Changeling Outcast
 3 Ninja of the Deep Hours
 3 Force of Negation
+3 Yuriko, the Tiger's Shadow
+4 Snow-Covered Island
+4 Prismatic Vista
 4 Yuriko, the Tiger's Shadow
 4 Faerie Seer
+4 Ornithopter
+4 Ingenious Infiltrator
 4 Ninja of the Deep Hours
+4 Polluted Delta
 5 Snow-Covered Island
 6 Snow-Covered Island
 1 Elvish Spirit Guide
 1 Chrome Mox
 1 Garruk Relentless
 1 Trinisphere
-1 Voracious Hydra
 1 Shifting Ceratops
 1 Tarmogoyf
 1 City of Traitors
+1 Voracious Hydra
 1 Karn, the Great Creator
 1 Chancellor of the Tangle
 1 Verdant Catacombs
@@ -359,11 +346,11 @@
 2 Questing Beast
 2 Trinisphere
 2 Shifting Ceratops
-2 Voracious Hydra
 2 City of Traitors
 2 Karn, the Great Creator
 2 Chancellor of the Tangle
 2 Forest
+2 Voracious Hydra
 2 Tarmogoyf
 2 Garruk Relentless
 3 Elvish Spirit Guide
@@ -371,8 +358,8 @@
 3 Shifting Ceratops
 3 Karn, the Great Creator
 3 Tarmogoyf
-3 Chrome Mox
 3 City of Traitors
+3 Chrome Mox
 3 Forest
 4 Elvish Spirit Guide
 4 Trinisphere

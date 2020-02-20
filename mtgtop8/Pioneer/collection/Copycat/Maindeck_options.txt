@@ -73,8 +73,8 @@
 3 Prime Speaker Vannifar
 4 Temple Garden
 4 Inspiring Vantage
-1 Harnessed Lightning
 1 Tamiyo, Collector of Tales
+1 Harnessed Lightning
 2 Harnessed Lightning
 3 Harnessed Lightning
 4 Rogue Refiner
@@ -105,12 +105,12 @@
 2 Yavimaya Coast
 1 Dreadbore
 1 Silumgar's Command
+1 Abrupt Decay
 1 Ojutai's Command
+1 Knight of Autumn
 1 Unmoored Ego
 1 Kolaghan's Command
-1 Knight of Autumn
 1 Niv-Mizzet Reborn
-1 Abrupt Decay
 1 Bring to Light
 1 Assassin's Trophy
 2 Assassin's Trophy
@@ -128,21 +128,21 @@
 1 Shock
 2 Shock
 4 Elvish Mystic
-1 Arboreal Grazer
 1 Lumbering Falls
 1 Golos, Tireless Pilgrim
 1 Field of the Dead
 1 Eldritch Evolution
 1 Overgrown Tomb
+1 Arboreal Grazer
 1 Risen Reef
 1 Yarok, the Desecrated
 2 Golos, Tireless Pilgrim
-2 Arboreal Grazer
 2 Field of the Dead
 2 Eldritch Evolution
 2 Risen Reef
-3 Arboreal Grazer
+2 Arboreal Grazer
 3 Eldritch Evolution
+3 Arboreal Grazer
 3 Risen Reef
 4 Voice of Resurgence
 4 Risen Reef
@@ -150,8 +150,8 @@
 1 Thrill of Possibility
 1 Fiery Impulse
 1 Lava Coil
-2 Anticipate
 2 Spell Pierce
+2 Anticipate
 2 Thrill of Possibility
 2 Fiery Impulse
 2 Lava Coil
@@ -165,7 +165,6 @@
 4 Anticipate
 4 Spirebluff Canal
 1 Search for Azcanta
-1 Fatal Push
 1 Languish
 1 Narset, Parter of Veils
 1 Cast Down
@@ -179,6 +178,7 @@
 1 Urborg, Tomb of Yawgmoth
 1 Drowned Catacomb
 1 Interplanar Beacon
+1 Fatal Push
 2 Languish
 2 Narset, Parter of Veils
 2 Fatal Push
@@ -194,14 +194,13 @@
 4 Thoughtseize
 4 Watery Grave
 4 Harnessed Lightning
-1 Charming Prince
 1 Elite Guardmage
 1 Tithe Taker
+1 Charming Prince
 1 Field of Ruin
 1 Thraben Inspector
 1 Cloudblazer
 1 Dusk / Dawn
-2 Charming Prince
 2 Elite Guardmage
 2 Tithe Taker
 2 Field of Ruin
@@ -209,6 +208,7 @@
 2 Dusk / Dawn
 2 Thraben Inspector
 2 Cloudblazer
+2 Charming Prince
 3 Elite Guardmage
 3 Tithe Taker
 3 Cloudblazer

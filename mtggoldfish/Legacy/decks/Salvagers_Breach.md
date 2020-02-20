@@ -44,6 +44,6 @@
 |                    3|[Polluted Delta](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405104)     |                     |                                                                                            |
 |                    3|[Lotus Petal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420602)        |                     |                                                                                            |
 |                    3|[Tundra](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=885)                |                     |                                                                                            |
-|                    4|[Lotus Petal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420602)        |                     |                                                                                            |
 |                    4|[Preordain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405347)          |                     |                                                                                            |
+|                    4|[Lotus Petal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420602)        |                     |                                                                                            |
 

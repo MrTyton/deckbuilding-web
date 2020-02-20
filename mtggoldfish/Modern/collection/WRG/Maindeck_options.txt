@@ -42,17 +42,17 @@
 2 Horizon Canopy
 2 Utopia Sprawl
 2 Arbor Elf
+2 Pillage
 2 Blood Moon
 2 Wrenn and Six
 2 Dryad of the Ilysian Grove
-2 Pillage
 2 Glorybringer
 3 Bloodbraid Elf
 3 Blood Moon
-3 Pillage
 3 Arbor Elf
-3 Dryad of the Ilysian Grove
+3 Pillage
 3 Glorybringer
+3 Dryad of the Ilysian Grove
 3 Utopia Sprawl
 4 Lightning Helix
 4 Bloodbraid Elf
@@ -66,6 +66,49 @@
 2 Birds of Paradise
 3 Noble Hierarch
 4 Noble Hierarch
+1 Snow-Covered Forest
+1 Once Upon a Time
+2 Once Upon a Time
+1 Anafenza, Kin-Tree Spirit
+1 Snow-Covered Plains
+1 Prismatic Vista
+1 Kitchen Finks
+1 Heliod, Sun-Crowned
+1 Mirran Crusader
+1 Razorverge Thicket
+1 Walking Ballista
+1 Ranger-Captain of Eos
+1 Collected Company
+1 Giver of Runes
+1 Spike Feeder
+2 Prismatic Vista
+2 Snow-Covered Plains
+2 Kitchen Finks
+2 Snow-Covered Forest
+2 Mirran Crusader
+2 Collected Company
+2 Ranger-Captain of Eos
+2 Temple Garden
+2 Heliod, Sun-Crowned
+2 Giver of Runes
+2 Spike Feeder
+2 Razorverge Thicket
+3 Kor Firewalker
+3 Mirran Crusader
+3 Spike Feeder
+3 Collected Company
+3 Ranger-Captain of Eos
+3 Giver of Runes
+3 Prismatic Vista
+3 Heliod, Sun-Crowned
+3 Once Upon a Time
+4 Kor Firewalker
+4 Collected Company
+4 Mirran Crusader
+4 Once Upon a Time
+4 Prismatic Vista
+4 Spike Feeder
+4 Heliod, Sun-Crowned
 1 Eternal Witness
 1 Chord of Calling
 1 Kiki-Jiki, Mirror Breaker
@@ -83,9 +126,9 @@
 2 Seasoned Pyromancer
 2 Wall of Blossoms
 2 Copperline Gorge
+2 Eldritch Evolution
 2 Restoration Angel
 2 Voice of Resurgence
-2 Eldritch Evolution
 3 Birds of Paradise
 3 Chord of Calling
 3 Voice of Resurgence
@@ -95,51 +138,8 @@
 3 Stomping Ground
 4 Birds of Paradise
 4 Chord of Calling
-4 Restoration Angel
 4 Seasoned Pyromancer
-1 Snow-Covered Forest
-1 Once Upon a Time
-2 Once Upon a Time
-1 Anafenza, Kin-Tree Spirit
-1 Snow-Covered Plains
-1 Prismatic Vista
-1 Mirran Crusader
-1 Razorverge Thicket
-1 Heliod, Sun-Crowned
-1 Walking Ballista
-1 Ranger-Captain of Eos
-1 Collected Company
-1 Kitchen Finks
-1 Giver of Runes
-1 Spike Feeder
-2 Prismatic Vista
-2 Snow-Covered Plains
-2 Mirran Crusader
-2 Ranger-Captain of Eos
-2 Collected Company
-2 Kitchen Finks
-2 Temple Garden
-2 Giver of Runes
-2 Snow-Covered Forest
-2 Spike Feeder
-2 Heliod, Sun-Crowned
-2 Razorverge Thicket
-3 Kor Firewalker
-3 Mirran Crusader
-3 Spike Feeder
-3 Giver of Runes
-3 Collected Company
-3 Ranger-Captain of Eos
-3 Heliod, Sun-Crowned
-3 Prismatic Vista
-3 Once Upon a Time
-4 Kor Firewalker
-4 Collected Company
-4 Mirran Crusader
-4 Prismatic Vista
-4 Spike Feeder
-4 Heliod, Sun-Crowned
-4 Once Upon a Time
+4 Restoration Angel
 1 Finale of Devastation
 1 Duskwatch Recruiter
 1 Nissa, Who Shakes the World
@@ -163,11 +163,11 @@
 2 Eternal Witness
 2 Nissa, Who Shakes the World
 2 Leyline of Abundance
-2 Garruk Wildspeaker
 2 Nykthos, Shrine to Nyx
 2 Elvish Mystic
-2 Burning-Tree Emissary
 2 Llanowar Elves
+2 Garruk Wildspeaker
+2 Burning-Tree Emissary
 3 Eternal Witness
 3 Llanowar Elves
 3 Nykthos, Shrine to Nyx
@@ -175,11 +175,11 @@
 3 Elvish Mystic
 3 Leyline of Abundance
 3 Garruk Wildspeaker
-4 Forest
 4 Leyline of Abundance
 4 Burning-Tree Emissary
 4 Llanowar Elves
 4 Elvish Mystic
+4 Forest
 4 Nykthos, Shrine to Nyx
 5 Forest
 6 Forest

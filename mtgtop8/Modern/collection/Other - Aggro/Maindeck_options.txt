@@ -3,8 +3,8 @@
 1 Creeping Tar Pit
 1 Ice-Fang Coatl
 1 Watery Grave
-1 Ingenious Infiltrator
 1 Snow-Covered Swamp
+1 Ingenious Infiltrator
 1 Abrupt Decay
 1 Bitterblossom
 1 Gonti, Lord of Luxury
@@ -17,12 +17,12 @@
 1 Mana Leak
 1 Snapcaster Mage
 2 Ice-Fang Coatl
-2 Ingenious Infiltrator
 2 Snow-Covered Island
 2 Mana Leak
 2 Breeding Pool
 2 Watery Grave
 2 Snow-Covered Swamp
+2 Ingenious Infiltrator
 2 Abrupt Decay
 2 Fallen Shinobi
 2 Snapcaster Mage
@@ -35,41 +35,40 @@
 3 Snow-Covered Forest
 3 Snow-Covered Island
 3 Ice-Fang Coatl
-3 Ingenious Infiltrator
 3 Mana Leak
-3 Inquisition of Kozilek
 3 Abrupt Decay
+3 Inquisition of Kozilek
+3 Ingenious Infiltrator
 3 Polluted Delta
 3 Faerie Seer
-4 Ingenious Infiltrator
 4 Ice-Fang Coatl
 4 Fatal Push
 4 Snow-Covered Island
 4 Polluted Delta
+4 Ingenious Infiltrator
 4 Faerie Seer
 4 Snow-Covered Forest
-1 Rix Maadi Reveler
-1 Ramunap Ruins
 1 Liliana of the Veil
 1 Dark Confidant
 1 Blackcleave Cliffs
 1 Simian Spirit Guide
 1 Thunderkin Awakener
+1 Rix Maadi Reveler
 1 Lightning Axe
 1 Flamekin Harbinger
+1 Ramunap Ruins
 1 Ball Lightning
-2 Rix Maadi Reveler
+2 Dark Confidant
 2 Wooded Foothills
 2 Liliana of the Veil
 2 Ball Lightning
-2 Dark Confidant
 2 Blackcleave Cliffs
 2 Thunderkin Awakener
 2 Simian Spirit Guide
+2 Rix Maadi Reveler
 2 Lightning Axe
 2 Flamekin Harbinger
 2 Ramunap Ruins
-3 Rix Maadi Reveler
 3 Blood Crypt
 3 Liliana of the Veil
 3 Ball Lightning
@@ -78,10 +77,11 @@
 3 Simian Spirit Guide
 3 Ramunap Ruins
 3 Thunderkin Awakener
+3 Rix Maadi Reveler
 3 Wooded Foothills
-4 Rix Maadi Reveler
 4 Blackcleave Cliffs
 4 Thunderkin Awakener
+4 Rix Maadi Reveler
 4 Wooded Foothills
 4 Ball Lightning
 4 Ramunap Ruins
