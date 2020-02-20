@@ -60,13 +60,13 @@
 4 Misty Rainforest
 4 Ice-Fang Coatl
 1 Life from the Loam
-1 Wooded Foothills
-2 Wooded Foothills
 1 Kolaghan's Command
 1 Badlands
 1 Faithless Looting
 2 Kolaghan's Command
 2 Faithless Looting
+1 Wooded Foothills
+2 Wooded Foothills
 1 Grove of the Burnwillows
 1 Scalding Tarn
 1 Punishing Fire
@@ -89,9 +89,8 @@
 2 Taiga
 2 Dack Fayden
 2 Punishing Fire
-2 Grove of the Burnwillows
 2 Scalding Tarn
-2 Abrade
+2 Grove of the Burnwillows
 2 Reclamation Sage
 2 Embereth Shieldbreaker
 2 Goblin Welder
@@ -99,6 +98,7 @@
 2 Great Furnace
 2 Smuggler's Copter
 2 Goblin Engineer
+2 Abrade
 2 Tin Street Hooligan
 3 Dack Fayden
 3 Grove of the Burnwillows
@@ -129,40 +129,6 @@
 2 Karakas
 2 Thalia, Guardian of Thraben
 3 Thalia, Guardian of Thraben
-1 Prismatic Vista
-1 Ramunap Excavator
-1 Ancient Tomb
-1 Chalice of the Void
-2 Chalice of the Void
-2 Ancient Tomb
-3 Ancient Tomb
-3 Chalice of the Void
-4 Chalice of the Void
-4 Ancient Tomb
-1 Thalia, Heretic Cathar
-1 Knight of Autumn
-1 Phyrexian Revoker
-1 Walking Ballista
-1 Umezawa's Jitte
-1 Sword of Fire and Ice
-1 Stoneforge Mystic
-1 Batterskull
-1 Thorn of Amethyst
-2 Plains
-2 Phyrexian Revoker
-2 Palace Jailer
-2 Knight of Autumn
-2 Stoneforge Mystic
-2 Thorn of Amethyst
-3 Plains
-3 Palace Jailer
-3 Thorn of Amethyst
-3 Phyrexian Revoker
-3 Stoneforge Mystic
-4 Phyrexian Revoker
-4 Once Upon a Time
-4 Thalia, Guardian of Thraben
-4 Stoneforge Mystic
 1 Waterlogged Grove
 1 Sanctum Prelate
 1 Cavern of Souls
@@ -253,6 +219,40 @@
 4 Faithless Looting
 4 Mishra's Bauble
 4 Bloodstained Mire
+1 Prismatic Vista
+1 Ramunap Excavator
+1 Ancient Tomb
+1 Chalice of the Void
+2 Chalice of the Void
+2 Ancient Tomb
+3 Ancient Tomb
+3 Chalice of the Void
+4 Chalice of the Void
+4 Ancient Tomb
+1 Thalia, Heretic Cathar
+1 Knight of Autumn
+1 Phyrexian Revoker
+1 Walking Ballista
+1 Umezawa's Jitte
+1 Sword of Fire and Ice
+1 Stoneforge Mystic
+1 Batterskull
+1 Thorn of Amethyst
+2 Plains
+2 Phyrexian Revoker
+2 Palace Jailer
+2 Knight of Autumn
+2 Stoneforge Mystic
+2 Thorn of Amethyst
+3 Plains
+3 Palace Jailer
+3 Thorn of Amethyst
+3 Phyrexian Revoker
+3 Stoneforge Mystic
+4 Once Upon a Time
+4 Thalia, Guardian of Thraben
+4 Stoneforge Mystic
+4 Phyrexian Revoker
 1 Force of Negation
 1 Stifle
 1 True-Name Nemesis

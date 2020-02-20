@@ -1,18 +1,20 @@
-3 Chandra, Torch of Defiance
 3 Fabled Passage
+3 Chandra, Torch of Defiance
+3 Murderous Rider
+1 Island
 1 Drowned Catacomb
 1 Watery Grave
 2 Drowned Catacomb
 2 Watery Grave
 3 Watery Grave
 4 Watery Grave
-3 Murderous Rider
 1 Vraska's Contempt
-1 Island
+3 Drowned Catacomb
+4 Drowned Catacomb
 1 Dig Through Time
 2 Dig Through Time
 2 Vraska's Contempt
-3 Drowned Catacomb
+1 Thassa's Intervention
 1 Languish
 2 Languish
 1 Opt
@@ -26,8 +28,6 @@
 2 Censor
 3 Censor
 4 Censor
-4 Drowned Catacomb
-1 The Scarab God
 1 Kroxa, Titan of Death's Hunger
 1 Pharika's Libation
 2 Kroxa, Titan of Death's Hunger
@@ -37,15 +37,17 @@
 4 Island
 1 Fetid Pools
 1 Hieroglyphic Illumination
-1 Negate
+1 The Scarab God
 1 Disallow
+1 Negate
 1 Narset, Parter of Veils
 2 Castle Vantress
-2 Disallow
 2 Negate
 2 Narset, Parter of Veils
+2 Disallow
 3 Dig Through Time
 4 Rekindling Phoenix
+3 Dreadbore
 3 Canyon Slough
 1 Overgrown Tomb
 1 Abrupt Decay
@@ -53,6 +55,13 @@
 2 Overgrown Tomb
 2 Assassin's Trophy
 1 Search for Azcanta
+1 Nicol Bolas, the Ravager
+1 Sulfur Falls
+1 Nicol Bolas, Dragon-God
+2 Thassa's Intervention
+2 Nicol Bolas, Dragon-God
+2 Nicol Bolas, the Ravager
+3 Nicol Bolas, the Ravager
 1 Forest
 2 Forest
 4 Swamp
@@ -104,13 +113,13 @@
 2 Vessel of Nascency
 4 Fabled Passage
 1 Plains
-2 Plains
-3 Plains
 1 Godless Shrine
 1 Shambling Vent
 2 Godless Shrine
 3 Godless Shrine
 4 Godless Shrine
+2 Plains
+3 Plains
 4 Plains
 5 Plains
 1 Oath of Kaya
@@ -133,8 +142,8 @@
 3 Isolated Chapel
 3 Doom Foretold
 3 Trial of Ambition
-4 Trial of Ambition
 4 Treacherous Blessing
+4 Trial of Ambition
 4 Isolated Chapel
 4 Doom Foretold
 4 Shambling Vent
@@ -144,17 +153,6 @@
 1 Woodland Cemetery
 2 Hissing Quagmire
 1 Nissa's Pilgrimage
-3 Dreadbore
-1 Nicol Bolas, the Ravager
-1 Steam Vents
-1 Sulfur Falls
-1 Nicol Bolas, Dragon-God
-2 Nicol Bolas, Dragon-God
-2 Nicol Bolas, the Ravager
-2 Steam Vents
-3 Nicol Bolas, the Ravager
-3 Steam Vents
-1 Thassa's Intervention
 1 Gonti, Lord of Luxury
 1 Jace, Vryn's Prodigy
 2 Jace, Vryn's Prodigy
@@ -167,8 +165,6 @@
 2 Hallowed Fountain
 3 Hallowed Fountain
 4 Hallowed Fountain
-1 Champion of Wits
-2 Champion of Wits
 1 Goblin Rabblemaster
 2 Goblin Rabblemaster
 1 Mutavault
@@ -209,8 +205,10 @@
 4 Arboreal Grazer
 1 Tyrant's Scorn
 1 Erebos's Intervention
-2 Thassa's Intervention
+1 Steam Vents
 2 Tyrant's Scorn
+2 Steam Vents
+3 Steam Vents
 4 Jace, Vryn's Prodigy
 1 Blooming Marsh
 1 Stomping Ground
@@ -225,24 +223,6 @@
 3 Kolaghan's Command
 3 Blooming Marsh
 4 Blooming Marsh
-1 Wandering Fumarole
-1 Glimmer of Genius
-1 Glint-Sleeve Siphoner
-1 Hour of Devastation
-1 Liliana, Dreadhorde General
-1 Ritual of Soot
-1 Aether Hub
-2 Wandering Fumarole
-2 Glimmer of Genius
-2 Glint-Sleeve Siphoner
-2 The Scarab God
-2 Ritual of Soot
-2 Aether Hub
-3 Kalitas, Traitor of Ghet
-3 Glint-Sleeve Siphoner
-3 Aether Hub
-4 Aether Hub
-4 Glint-Sleeve Siphoner
 1 Grim Flayer
 1 Collective Brutality
 1 Questing Beast
@@ -251,8 +231,8 @@
 2 Tireless Tracker
 3 Woodland Cemetery
 3 Grim Flayer
-4 Grim Flayer
 4 Overgrown Tomb
+4 Grim Flayer
 1 Temple of Malady
 1 Dark Petition
 1 Pulse of Murasa
@@ -281,6 +261,17 @@
 4 Growth Spiral
 4 Castle Garenbrig
 4 Cavalier of Thorns
+1 Syncopate
+1 Radiant Flames
+1 Ashiok, Nightmare Weaver
+2 Sulfur Falls
+2 Syncopate
+2 Ashiok, Nightmare Weaver
+2 Radiant Flames
+3 Syncopate
+3 Thassa's Intervention
+4 Dreadbore
+4 Nicol Bolas, the Ravager
 1 History of Benalia
 1 Aphemia, the Cacophony
 1 Cast Out
@@ -298,8 +289,8 @@
 4 History of Benalia
 4 Aphemia, the Cacophony
 4 Final Payment
-1 Thirst for Meaning
 1 Sphinx's Revelation
+1 Thirst for Meaning
 1 Temple of Deceit
 1 Whirlwind Denial
 1 Detention Sphere
@@ -329,6 +320,7 @@
 1 Strategic Planning
 1 Hostile Desert
 1 Agent of Treachery
+1 Champion of Wits
 2 Ipnu Rivulet
 2 Chart a Course
 2 Reflector Mage
@@ -337,6 +329,7 @@
 2 Strategic Planning
 2 Supreme Verdict
 2 God-Pharaoh's Gift
+2 Champion of Wits
 2 Agent of Treachery
 2 Irrigated Farmland
 2 Glacial Fortress
@@ -417,13 +410,13 @@
 4 Militia Bugler
 4 Heliod, Sun-Crowned
 7 Forest
+1 Settle the Wreckage
 1 Elspeth, Sun's Nemesis
 1 Gideon of the Trials
 1 Elspeth, Sun's Champion
 1 Nahiri, the Harbinger
 1 Gideon, Ally of Zendikar
 1 Anger of the Gods
-1 Settle the Wreckage
 1 Haktos the Unscarred
 1 Abrade
 1 Clifftop Retreat

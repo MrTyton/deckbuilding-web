@@ -1,56 +1,58 @@
-1 Brain Maggot
-2 Dead Weight
-1 Apostle of Purifying Light
-2 Apostle of Purifying Light
-2 Brain Maggot
-3 Brain Maggot
-3 Apostle of Purifying Light
+2 Rest in Peace
+1 Grafdigger's Cage
 1 Hushbringer
 2 Hushbringer
 3 Hushbringer
-1 Reclamation Sage
-1 Mystic Repeal
-2 Mystic Repeal
-1 Damping Sphere
-2 Damping Sphere
+1 Leyline of Sanctity
+2 Leyline of Sanctity
+3 Leyline of Sanctity
+3 Thoughtseize
 1 Mystical Dispute
+1 Assassin's Trophy
+1 Fatal Push
+2 Fatal Push
 1 Disdainful Stroke
 2 Disdainful Stroke
-1 Baffling End
-2 Baffling End
-1 Ashiok, Dream Render
-1 Blightbeetle
-2 Blightbeetle
+1 Damping Sphere
+2 Damping Sphere
+2 Assassin's Trophy
+1 Leyline of the Void
+2 Leyline of the Void
+3 Leyline of the Void
 1 Noxious Grasp
 2 Noxious Grasp
-2 Reclamation Sage
+1 Blightbeetle
+2 Blightbeetle
+1 Deafening Silence
+2 Deafening Silence
+1 Ashiok, Dream Render
 1 Tormod's Crypt
 2 Tormod's Crypt
 4 Thoughtseize
-1 Grafdigger's Cage
+1 Disenchant
 1 Dromoka's Command
 1 Gideon, Ally of Zendikar
 1 Deputy of Detention
 1 Lavinia, Azorius Renegade
 2 Gideon, Ally of Zendikar
 2 Deputy of Detention
-1 Distended Mindbender
-1 Caustic Caterpillar
-1 Elder Deep-Fiend
-2 Ashiok, Dream Render
-1 Disenchant
 1 Anguished Unmaking
 1 Grasp of Darkness
-1 Deafening Silence
-2 Deafening Silence
 2 Anguished Unmaking
+1 Reclamation Sage
+1 Distended Mindbender
+1 Caustic Caterpillar
+1 Mystic Repeal
+1 Elder Deep-Fiend
+2 Ashiok, Dream Render
+2 Mystic Repeal
 1 Duress
 1 Kalitas, Traitor of Ghet
 1 Devout Decree
 2 Devout Decree
 1 Kunoros, Hound of Athreos
-1 Cast Down
 1 Elspeth Conquers Death
+1 Cast Down
 1 Kaya, Orzhov Usurper
 1 Doom Blade
 1 Arguel's Blood Fast
@@ -61,8 +63,8 @@
 2 Glare of Heresy
 1 Shepherd of the Flock
 1 Trial of Ambition
-1 Tymaret, Chosen from Death
 1 Tomik, Distinguished Advokist
+1 Tymaret, Chosen from Death
 1 Order of Midnight
 1 Orzhov Charm
 1 Mire's Grasp
@@ -96,24 +98,19 @@
 2 Shapers' Sanctuary
 2 Dromoka's Command
 3 Dromoka's Command
-1 Epic Downfall
-1 Fry
-1 Scavenging Ooze
 1 Combat Celebrant
 1 Gruul Spellbreaker
+1 Scavenging Ooze
 1 Heroic Intervention
+1 Fry
 2 Scavenging Ooze
 2 Combat Celebrant
 2 Gruul Spellbreaker
 2 Fry
+2 Reclamation Sage
 2 Heroic Intervention
 3 Reclamation Sage
 3 Scavenging Ooze
-1 Leyline of Sanctity
-2 Leyline of Sanctity
-3 Leyline of Sanctity
-3 Assassin's Trophy
-3 Mystic Repeal
 1 Dryad Militant
 1 Long Road Home
 1 Surge of Righteousness
@@ -140,14 +137,6 @@
 2 Knight of Autumn
 3 Knight of Autumn
 3 Baffling End
-1 Scab-Clan Berserker
-1 Chandra, Torch of Defiance
-1 The Eldest Reborn
-1 Self-Inflicted Wound
-2 Scab-Clan Berserker
-2 Self-Inflicted Wound
-3 Scab-Clan Berserker
-3 Self-Inflicted Wound
 1 Languish
 2 Languish
 3 Blightbeetle
@@ -156,6 +145,12 @@
 4 Dead Weight
 4 Apostle of Purifying Light
 4 Hushbringer
+1 Warbriar Blessing
+1 Witchstalker
+1 Natural State
+2 Warbriar Blessing
+2 Natural State
+4 Leyline of Sanctity
 1 Yahenni's Expertise
 1 Unmoored Ego
 2 Yahenni's Expertise
@@ -163,8 +158,9 @@
 2 Unmoored Ego
 3 Disdainful Stroke
 4 Disdainful Stroke
-1 Angrath's Rampage
 1 Rekindling Phoenix
+1 Angrath's Rampage
+1 Epic Downfall
 1 Eidolon of the Great Revel
 2 Epic Downfall
 2 Eidolon of the Great Revel
