@@ -27,7 +27,7 @@
 
 |*n*<sup>th</sup> copy|                                          Maindeck Card                                          |*n*<sup>th</sup> copy|                                          Sideboard Card                                           |
 |--------------------:|-------------------------------------------------------------------------------------------------|--------------------:|---------------------------------------------------------------------------------------------------|
-|                    1|[Shimmer of Possibility](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457195)|                    1|[Ashiok, Nightmare Weaver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373500)|
-|                   10|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)                |                    1|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)     |
+|                    1|[Shimmer of Possibility](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457195)|                    1|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)     |
+|                   10|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)                |                    1|[Ashiok, Nightmare Weaver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373500)|
 |                     |                                                                                                 |                    1|[The Scarab God](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430834)          |
 

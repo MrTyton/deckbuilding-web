@@ -35,11 +35,11 @@
 1 Castle Vantress
 3 Island
 4 Island
-1 Fetid Pools
 1 Hieroglyphic Illumination
 1 The Scarab God
 1 Disallow
 1 Negate
+1 Fetid Pools
 1 Narset, Parter of Veils
 2 Castle Vantress
 2 Negate
@@ -72,8 +72,8 @@
 4 Forest
 5 Forest
 6 Forest
-1 Traverse the Ulvenwald
 1 Emrakul, the Promised End
+1 Traverse the Ulvenwald
 2 Traverse the Ulvenwald
 3 Traverse the Ulvenwald
 4 Traverse the Ulvenwald
@@ -122,13 +122,13 @@
 3 Plains
 4 Plains
 5 Plains
+1 Temple of Silence
 1 Oath of Kaya
 1 Isolated Chapel
 1 Trial of Ambition
 1 Doom Foretold
 1 Treacherous Blessing
 1 Final Payment
-1 Temple of Silence
 2 Oath of Kaya
 2 Isolated Chapel
 2 Doom Foretold
@@ -177,8 +177,8 @@
 2 Flamewake Phoenix
 3 Flamewake Phoenix
 1 The Birth of Meletis
-1 Ashiok, Dream Render
 1 Shepherd of the Flock
+1 Ashiok, Dream Render
 1 Kaya's Wrath
 1 Starfield of Nyx
 2 The Birth of Meletis
@@ -277,9 +277,9 @@
 1 Cast Out
 1 Tymaret Calls the Dead
 2 Cast Out
-2 Temple of Silence
 2 History of Benalia
 2 Tymaret Calls the Dead
+2 Temple of Silence
 2 Aphemia, the Cacophony
 3 Cast Out
 3 History of Benalia
@@ -310,11 +310,11 @@
 1 Castle Ardenvale
 1 Ipnu Rivulet
 1 Deputy of Detention
-1 Chart a Course
 1 Angel of Invention
 1 Refurbish
 1 Reflector Mage
 1 Supreme Verdict
+1 Chart a Course
 1 Irrigated Farmland
 1 God-Pharaoh's Gift
 1 Strategic Planning
@@ -322,7 +322,6 @@
 1 Agent of Treachery
 1 Champion of Wits
 2 Ipnu Rivulet
-2 Chart a Course
 2 Reflector Mage
 2 Charming Prince
 2 Deputy of Detention
@@ -330,6 +329,7 @@
 2 Supreme Verdict
 2 God-Pharaoh's Gift
 2 Champion of Wits
+2 Chart a Course
 2 Agent of Treachery
 2 Irrigated Farmland
 2 Glacial Fortress
@@ -337,12 +337,12 @@
 2 Angel of Invention
 3 Reflector Mage
 3 Glacial Fortress
-3 Chart a Course
 3 Champion of Wits
 3 Angel of Invention
 3 God-Pharaoh's Gift
 3 Strategic Planning
 3 Supreme Verdict
+3 Chart a Course
 3 Refurbish
 4 Glacial Fortress
 4 Champion of Wits
@@ -366,8 +366,8 @@
 4 Field of Ruin
 4 Dig Through Time
 5 Island
-1 Sunpetal Grove
 1 Alseid of Life's Bounty
+1 Sunpetal Grove
 1 Gilded Goose
 1 Radiant Fountain
 1 Anafenza, Kin-Tree Spirit
@@ -384,10 +384,10 @@
 1 Temple Garden
 1 Fairgrounds Warden
 1 Militia Bugler
-2 Sunpetal Grove
 2 Radiant Fountain
 2 Voice of Resurgence
 2 Collected Company
+2 Sunpetal Grove
 2 Elvish Visionary
 2 Chord of Calling
 2 Fortified Village
@@ -396,8 +396,8 @@
 2 Heliod, Sun-Crowned
 2 Elvish Mystic
 2 Temple Garden
-3 Sunpetal Grove
 3 Collected Company
+3 Sunpetal Grove
 3 Llanowar Elves
 3 Heliod, Sun-Crowned
 3 Elvish Mystic

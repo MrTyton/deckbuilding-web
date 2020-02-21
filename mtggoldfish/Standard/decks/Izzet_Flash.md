@@ -2,7 +2,7 @@
 
 #### [Export MTGO List](../collection/Izzet%20Flash/Izzet%20Flash.txt)
 #### [Export Arena List](../collection/Izzet%20Flash/Izzet%20Flash_arena.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=2%09Blast%20Zone%0A4%09Bonecrusher%20Giant%0A4%09Brazen%20Borrower%0A4%09Brineborn%20Cutthroat%0A2%09Castle%20Vantress%0A2%09Fabled%20Passage%0A4%09Gadwick,%20the%20Wizened%0A4%09Ionize%0A8%09Island%0A3%09Mountain%0A2%09Negate%0A1%09Omen%20of%20the%20Sea%0A4%09Opt%0A3%09Quench%0A1%09Ral's%20Outburst%0A2%09Scorching%20Dragonfire%0A4%09Steam%20Vents%0A4%09Temple%20of%20Epiphany%0A2%09Thassa's%20Intervention&deckside=3%09Aether%20Gust%0A3%09Flame%20Sweep%0A2%09Lava%20Coil%0A3%09Mystical%20Dispute%0A1%09Negate%0A1%09Sorcerous%20Spyglass%0A2%09Thryx,%20the%20Sudden%20Storm)
+#### [Print on decklist.org](http://decklist.org/?deckmain=2%09Blast%20Zone%0A4%09Bonecrusher%20Giant%0A4%09Brazen%20Borrower%0A4%09Brineborn%20Cutthroat%0A2%09Castle%20Vantress%0A2%09Fabled%20Passage%0A4%09Gadwick,%20the%20Wizened%0A4%09Ionize%0A8%09Island%0A3%09Mountain%0A2%09Negate%0A1%09Omen%20of%20the%20Sea%0A4%09Opt%0A3%09Quench%0A1%09Ral's%20Outburst%0A2%09Scorching%20Dragonfire%0A4%09Steam%20Vents%0A4%09Temple%20of%20Epiphany%0A2%09Thassa's%20Intervention&deckside=3%09Aether%20Gust%0A1%09Chandra's%20Pyrohelix%0A3%09Embereth%20Shieldbreaker%0A2%09Flame%20Sweep%0A2%09Lava%20Coil%0A3%09Mystical%20Dispute%0A1%09Thryx,%20the%20Sudden%20Storm)
 # Maindeck
 
 |                                          Creature (16)                                          |                                          Instant (16)                                           |                                           Land (25)                                           |      Unknown (3)      |
@@ -18,10 +18,20 @@
 
 # Sideboard
 
-|                                         Artifact (1)                                          |                                        Instant (10)                                         |                                     Sorcery (2)                                      |       Unknown (2)       |
-|-----------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|-------------------------|
-|1 [Sorcerous Spyglass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435407)|3 [Aether Gust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466796)     |2 [Lava Coil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452858)|2 Thryx, the Sudden Storm|
-|                                                                                               |3 [Flame Sweep](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466893)     |                                                                                      |                         |
-|                                                                                               |3 [Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)|                                                                                      |                         |
-|                                                                                               |1 [Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)          |                                                                                      |                         |
+|                                           Creature (3)                                            |                                          Instant (9)                                           |                                     Sorcery (2)                                      |       Unknown (1)       |
+|---------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|-------------------------|
+|3 [Embereth Shieldbreaker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473084)|3 [Aether Gust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466796)        |2 [Lava Coil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452858)|1 Thryx, the Sudden Storm|
+|                                                                                                   |1 [Chandra's Pyrohelix](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417684)|                                                                                      |                         |
+|                                                                                                   |2 [Flame Sweep](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466893)        |                                                                                      |                         |
+|                                                                                                   |3 [Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)   |                                                                                      |                         |
+
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                        Maindeck Card                                         |*n*<sup>th</sup> copy|                                       Sideboard Card                                        |
+|--------------------:|----------------------------------------------------------------------------------------------|--------------------:|---------------------------------------------------------------------------------------------|
+|                    1|Thryx, the Sudden Storm                                                                       |                    1|[Sorcerous Spyglass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435407)|
+|                    1|[Chandra's Pyrohelix](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417684)|                    1|[Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)            |
+|                    2|[Ral's Outburst](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461139)     |                    3|[Flame Sweep](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466893)       |
+|                    4|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)           |                    2|Thryx, the Sudden Storm                                                                      |
 

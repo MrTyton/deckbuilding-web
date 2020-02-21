@@ -31,14 +31,12 @@
 1 Yorvo, Lord of Garenbrig
 1 Kalitas, Traitor of Ghet
 2 Voracious Hydra
-1 Prowling Serpopard
-2 Prowling Serpopard
 1 Kraul Harpooner
 2 Kraul Harpooner
 1 Soul-Guide Lantern
 2 Soul-Guide Lantern
-1 Aethersphere Harvester
-2 Aethersphere Harvester
+1 Prowling Serpopard
+2 Prowling Serpopard
 1 Self-Inflicted Wound
 2 Self-Inflicted Wound
 2 Grafdigger's Cage
@@ -46,13 +44,15 @@
 1 Ob Nixilis's Cruelty
 2 Gather Courage
 2 Ob Nixilis's Cruelty
+1 Aethersphere Harvester
+2 Aethersphere Harvester
 1 Cast Down
 1 Agonizing Remorse
 1 Cartouche of Ambition
 2 Tireless Tracker
+2 Cast Down
 2 Cartouche of Ambition
 2 Agonizing Remorse
-2 Cast Down
 3 Cast Down
 1 Ultimate Price
 2 Ultimate Price
@@ -66,8 +66,8 @@
 2 The Great Henge
 3 Lost Legacy
 4 Lost Legacy
-1 Doom Blade
 1 Duress
+1 Doom Blade
 1 Dead Weight
 1 Kitesail Freebooter
 2 Duress
@@ -80,10 +80,10 @@
 1 Shadowspear
 1 Vine Mare
 1 Legion's End
-2 Vine Mare
 2 Stain the Mind
 2 Shadowspear
 2 Legion's End
+2 Vine Mare
 3 Legion's End
 3 Vine Mare
 3 Stain the Mind

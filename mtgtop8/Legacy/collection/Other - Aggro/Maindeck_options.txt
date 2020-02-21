@@ -13,16 +13,16 @@
 1 Tropical Island
 1 Tireless Tracker
 1 Questing Beast
-1 Dryad Arbor
 1 Scavenging Ooze
 1 Green Sun's Zenith
+1 Dryad Arbor
 1 Oko, Thief of Crowns
 2 Tropical Island
 2 Green Sun's Zenith
 2 Oko, Thief of Crowns
-3 Misty Rainforest
 3 Green Sun's Zenith
 3 Oko, Thief of Crowns
+3 Misty Rainforest
 4 Green Sun's Zenith
 1 Horizon Canopy
 1 Forest
@@ -38,28 +38,11 @@
 3 Noble Hierarch
 4 Noble Hierarch
 2 Snow-Covered Island
+1 Life from the Loam
 1 Gilded Goose
 1 Snow-Covered Forest
 1 Bayou
 2 Gilded Goose
-1 Courser of Kruphix
-1 Leovold, Emissary of Trest
-1 Abrupt Decay
-1 Arcum's Astrolabe
-1 Teferi, Time Raveler
-1 Hexdrinker
-1 Ice-Fang Coatl
-2 Leovold, Emissary of Trest
-2 Snow-Covered Forest
-2 Abrupt Decay
-2 Ice-Fang Coatl
-2 Teferi, Time Raveler
-2 Arcum's Astrolabe
-3 Ice-Fang Coatl
-3 Arcum's Astrolabe
-4 Misty Rainforest
-4 Ice-Fang Coatl
-1 Life from the Loam
 1 Kolaghan's Command
 1 Badlands
 1 Faithless Looting
@@ -74,12 +57,12 @@
 1 Volcanic Island
 1 Taiga
 1 Reclamation Sage
-1 Embereth Shieldbreaker
 1 Goblin Welder
 1 Smuggler's Copter
 1 Tin Street Hooligan
 1 Abrade
 1 Goblin Engineer
+1 Embereth Shieldbreaker
 1 Daretti, Ingenious Iconoclast
 1 Great Furnace
 1 Shenanigans
@@ -111,6 +94,23 @@
 4 Goblin Engineer
 4 Liquimetal Coating
 4 Tin Street Hooligan
+1 Courser of Kruphix
+1 Leovold, Emissary of Trest
+1 Abrupt Decay
+1 Arcum's Astrolabe
+1 Teferi, Time Raveler
+1 Hexdrinker
+1 Ice-Fang Coatl
+2 Leovold, Emissary of Trest
+2 Snow-Covered Forest
+2 Abrupt Decay
+2 Ice-Fang Coatl
+2 Teferi, Time Raveler
+2 Arcum's Astrolabe
+3 Ice-Fang Coatl
+3 Arcum's Astrolabe
+4 Ice-Fang Coatl
+4 Misty Rainforest
 1 Sevinne's Reclamation
 1 Eternal Witness
 1 Knight of the Reliquary
@@ -130,12 +130,12 @@
 2 Thalia, Guardian of Thraben
 3 Thalia, Guardian of Thraben
 1 Waterlogged Grove
-1 Sanctum Prelate
 1 Cavern of Souls
 1 Champion of the Parish
 1 Orzhov Pontiff
 1 Ancient Ziggurat
 1 Kitesail Freebooter
+1 Sanctum Prelate
 1 Imperial Recruiter
 1 Unclaimed Territory
 1 Deputy of Detention
@@ -174,8 +174,8 @@
 1 Young Pyromancer
 1 Lightning Bolt
 1 Mountain
-1 Pyroblast
 1 Thoughtseize
+1 Pyroblast
 1 Liliana, the Last Hope
 1 Plateau
 1 Cabal Therapy
@@ -258,8 +258,8 @@
 1 True-Name Nemesis
 1 Delver of Secrets
 1 Daze
-1 Spell Pierce
 1 Island
+1 Spell Pierce
 1 Curious Obsession
 1 Pteramander
 2 Ponder
@@ -330,6 +330,7 @@
 5 Snow-Covered Island
 6 Snow-Covered Island
 1 Elvish Spirit Guide
+1 Verdant Catacombs
 1 Chrome Mox
 1 Garruk Relentless
 1 Trinisphere
@@ -339,7 +340,6 @@
 1 Voracious Hydra
 1 Karn, the Great Creator
 1 Chancellor of the Tangle
-1 Verdant Catacombs
 2 Elvish Spirit Guide
 2 Chrome Mox
 2 Tireless Tracker

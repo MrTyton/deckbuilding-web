@@ -25,8 +25,8 @@
 3 Field of Ruin
 1 Thirst for Meaning
 1 Omen of the Sea
-2 Omen of the Sea
 2 Thirst for Meaning
+2 Omen of the Sea
 3 Thirst for Meaning
 3 Cast Out
 3 Seal Away
@@ -61,14 +61,12 @@
 1 Stasis Snare
 1 Hieroglyphic Illumination
 1 Last Breath
-2 Hieroglyphic Illumination
-2 Stasis Snare
-2 Last Breath
 2 Torrential Gearhulk
+2 Stasis Snare
+2 Hieroglyphic Illumination
+2 Last Breath
 3 Torrential Gearhulk
 4 Thirst for Meaning
-1 Omen of the Sun
-4 Sinister Sabotage
 1 Panoptic Mirror
 1 Censorship
 2 Panoptic Mirror
@@ -76,6 +74,8 @@
 3 Panoptic Mirror
 3 Censorship
 4 Panoptic Mirror
+1 Omen of the Sun
+4 Sinister Sabotage
 1 Elspeth Conquers Death
 2 Elspeth, Sun's Champion
 4 Irrigated Farmland
