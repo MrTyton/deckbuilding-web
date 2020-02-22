@@ -50,10 +50,10 @@
 2 Faithless Looting
 1 Wooded Foothills
 2 Wooded Foothills
-1 Grove of the Burnwillows
-1 Scalding Tarn
-1 Punishing Fire
 1 Dack Fayden
+1 Scalding Tarn
+1 Grove of the Burnwillows
+1 Punishing Fire
 1 Volcanic Island
 1 Taiga
 1 Reclamation Sage
@@ -72,8 +72,8 @@
 2 Taiga
 2 Dack Fayden
 2 Punishing Fire
-2 Scalding Tarn
 2 Grove of the Burnwillows
+2 Scalding Tarn
 2 Reclamation Sage
 2 Embereth Shieldbreaker
 2 Goblin Welder
@@ -130,12 +130,12 @@
 2 Thalia, Guardian of Thraben
 3 Thalia, Guardian of Thraben
 1 Waterlogged Grove
+1 Sanctum Prelate
 1 Cavern of Souls
 1 Champion of the Parish
 1 Orzhov Pontiff
 1 Ancient Ziggurat
 1 Kitesail Freebooter
-1 Sanctum Prelate
 1 Imperial Recruiter
 1 Unclaimed Territory
 1 Deputy of Detention
@@ -168,12 +168,12 @@
 4 Thalia's Lieutenant
 4 Cavern of Souls
 1 Arid Mesa
+1 Mountain
 1 Bonecrusher Giant
 1 Bedlam Reveler
 1 Hymn to Tourach
 1 Young Pyromancer
 1 Lightning Bolt
-1 Mountain
 1 Thoughtseize
 1 Pyroblast
 1 Liliana, the Last Hope
@@ -344,8 +344,8 @@
 2 Chrome Mox
 2 Tireless Tracker
 2 Questing Beast
-2 Trinisphere
 2 Shifting Ceratops
+2 Trinisphere
 2 City of Traitors
 2 Karn, the Great Creator
 2 Chancellor of the Tangle
@@ -354,17 +354,17 @@
 2 Tarmogoyf
 2 Garruk Relentless
 3 Elvish Spirit Guide
-3 Trinisphere
+3 Chrome Mox
 3 Shifting Ceratops
+3 Trinisphere
 3 Karn, the Great Creator
 3 Tarmogoyf
 3 City of Traitors
-3 Chrome Mox
 3 Forest
 4 Elvish Spirit Guide
 4 Trinisphere
-4 Chrome Mox
 4 City of Traitors
+4 Chrome Mox
 4 Shifting Ceratops
 4 Forest
 4 Tarmogoyf

@@ -42,8 +42,8 @@
 
 |*n*<sup>th</sup> copy|                                        Maindeck Card                                         |*n*<sup>th</sup> copy|                                        Sideboard Card                                         |
 |--------------------:|----------------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------------|
-|                    1|[Stifle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382377)             |                    1|[Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)    |
-|                    1|[Mishra's Factory](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=2387)     |                    1|[Bitterblossom](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397701)       |
+|                    1|[Mishra's Factory](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=2387)     |                    1|[Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)    |
+|                    1|[Stifle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382377)             |                    1|[Bitterblossom](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397701)       |
 |                    1|[Delver of Secrets](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=226749)  |                    1|[Dismember](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382182)           |
 |                    1|[Daze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=189255)               |                    1|[Divert](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=429872)              |
 |                    1|[Bitterblossom](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397701)      |                    1|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706) |
