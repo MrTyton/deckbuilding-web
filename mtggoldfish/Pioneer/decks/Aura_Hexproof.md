@@ -42,7 +42,7 @@
 |                    3|[Sram, Senior Edificer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423690)  |                    1|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)       |
 |                    3|[Cartouche of Solidarity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426709)|                    1|[Sheltering Light](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435187)     |
 |                    4|[Sram, Senior Edificer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423690)  |                    1|[Mastery of the Unseen](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391878)|
-|                    4|[Cartouche of Solidarity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426709)|                    1|Warbriar Blessing                                                                               |
-|                    5|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)                 |                    1|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)        |
+|                    4|[Cartouche of Solidarity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426709)|                    1|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)        |
+|                    5|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)                 |                    1|Warbriar Blessing                                                                               |
 |                     |                                                                                                  |                    1|[Knight of Autumn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452933)     |
 

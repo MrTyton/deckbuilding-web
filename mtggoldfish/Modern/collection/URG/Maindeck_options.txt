@@ -1,70 +1,87 @@
-1 Force of Negation
-3 Remand
-1 Sulfur Falls
-1 Fiery Islet
-1 Lonely Sandbar
-1 Field of Ruin
-1 Magmatic Sinkhole
-2 Force of Negation
-4 Thought Scour
-2 Tireless Tracker
+1 Mana Leak
+2 Mana Leak
 1 Wooded Foothills
+4 Thought Scour
 1 Once Upon a Time
 2 Once Upon a Time
 3 Once Upon a Time
-2 Breeding Pool
-2 Jace, the Mind Sculptor
+3 Snapcaster Mage
+1 Force of Negation
+3 Remand
+1 Fiery Islet
+1 Sulfur Falls
 1 Island
-2 Sulfur Falls
-3 Skred
-1 Waterlogged Grove
-1 Tranquil Thicket
+2 Jace, the Mind Sculptor
+1 Field of Ruin
 2 Wooded Foothills
+1 Magmatic Sinkhole
+1 Field of the Dead
+2 Force of Negation
+4 Wrenn and Six
+1 Deprive
+1 Valakut, the Molten Pinnacle
+1 Dryad of the Ilysian Grove
+1 Tolaria West
+1 Birds of Paradise
+1 Ghost Quarter
+2 Dryad of the Ilysian Grove
+2 Deprive
+2 Tolaria West
+2 Birds of Paradise
+3 Birds of Paradise
+3 Dryad of the Ilysian Grove
+4 Dryad of the Ilysian Grove
+4 Uro, Titan of Nature's Wrath
+4 Birds of Paradise
+2 Sulfur Falls
+1 Pulse of Murasa
+3 Skred
+1 Tranquil Thicket
+1 Waterlogged Grove
+1 The Royal Scions
 1 Spell Snare
+1 Brazen Borrower
 5 Snow-Covered Island
 1 Opt
 2 Opt
 3 Opt
 4 Opt
-1 Field of the Dead
+2 Lonely Sandbar
 2 Snow-Covered Mountain
+1 Mountain
+1 Serum Visions
+2 Serum Visions
+3 Serum Visions
+4 Serum Visions
 1 Spell Pierce
-1 Forgotten Cave
-1 Brazen Borrower
-2 Brazen Borrower
-3 Mana Leak
 1 Tarmogoyf
 2 Tarmogoyf
 3 Tarmogoyf
 4 Tarmogoyf
-1 Mountain
-1 Deprive
-1 Birds of Paradise
-1 Dryad of the Ilysian Grove
-1 Tolaria West
-1 Valakut, the Molten Pinnacle
-1 Ghost Quarter
-2 Dryad of the Ilysian Grove
-2 Birds of Paradise
-2 Deprive
-2 Tolaria West
-3 Dryad of the Ilysian Grove
-3 Birds of Paradise
-4 Birds of Paradise
-4 Wrenn and Six
-4 Dryad of the Ilysian Grove
-4 Uro, Titan of Nature's Wrath
-1 Omen of the Sea
-2 Omen of the Sea
+3 Tireless Tracker
+3 Deprive
+1 Cinder Glade
+1 Bloodbraid Elf
+1 Electrolyze
+2 Bloodbraid Elf
+2 Electrolyze
+2 Pulse of Murasa
+3 Bloodbraid Elf
+4 Bloodbraid Elf
+1 Forgotten Cave
+2 Brazen Borrower
+3 Mana Leak
+1 Flooded Strand
+2 Flooded Strand
 2 Island
 3 Island
 4 Snapcaster Mage
 4 Island
 4 Remand
-1 Serum Visions
-2 Serum Visions
-3 Serum Visions
-4 Serum Visions
+1 Polluted Delta
+2 Polluted Delta
+1 Omen of the Sea
+2 Omen of the Sea
 1 Through the Breach
 1 Emrakul, the Aeons Torn
 2 Emrakul, the Aeons Torn
@@ -73,7 +90,6 @@
 3 Emrakul, the Aeons Torn
 3 Prismatic Vista
 4 Prismatic Vista
-1 Pulse of Murasa
 1 Kiki-Jiki, Mirror Breaker
 1 Deceiver Exarch
 2 Deceiver Exarch
@@ -81,21 +97,16 @@
 3 Deceiver Exarch
 4 Deceiver Exarch
 6 Snow-Covered Island
-1 The Royal Scions
-3 Wooded Foothills
 3 Sulfur Falls
 1 Archmage's Charm
+3 Wooded Foothills
 1 Fact or Fiction
 2 Fact or Fiction
 2 Spell Snare
-1 Polluted Delta
-2 Polluted Delta
-3 Steam Vents
-1 Flooded Strand
-2 Flooded Strand
+3 Mystic Sanctuary
 3 Flooded Strand
+3 Steam Vents
 1 Abrade
-3 Snow-Covered Forest
 1 Ramunap Excavator
 2 Ghost Quarter
 3 Ghost Quarter
@@ -110,34 +121,40 @@
 2 Nexus of Fate
 3 Field of Ruin
 3 Fact or Fiction
-3 Mystic Sanctuary
 3 Wilderness Reclamation
+3 Snow-Covered Forest
 1 Thirst for Meaning
 2 Thirst for Meaning
 3 Omen of the Sea
-3 Tireless Tracker
-3 Deprive
-1 Bloodbraid Elf
-1 Electrolyze
-1 Cinder Glade
-2 Bloodbraid Elf
-2 Electrolyze
-2 Pulse of Murasa
-2 Lonely Sandbar
-3 Bloodbraid Elf
-4 Bloodbraid Elf
 1 Arbor Elf
 1 Utopia Sprawl
 1 Klothys, God of Destiny
-2 The Royal Scions
 2 Klothys, God of Destiny
+2 The Royal Scions
 2 Arbor Elf
 2 Utopia Sprawl
 3 Utopia Sprawl
 3 Arbor Elf
 4 Arbor Elf
-4 Utopia Sprawl
 4 Wooded Foothills
+4 Utopia Sprawl
+1 Gemstone Caverns
+1 Chandra, Torch of Defiance
+1 Fires of Invention
+1 Time Warp
+1 Savor the Moment
+1 Mikokoro, Center of the Sea
+2 Savor the Moment
+2 Fires of Invention
+2 Chandra, Torch of Defiance
+2 Time Warp
+3 Time Warp
+3 Savor the Moment
+3 Fires of Invention
+4 Time Warp
+4 Savor the Moment
+4 Mystic Sanctuary
+4 Fires of Invention
 1 Garruk Relentless
 1 Shadow of Doubt
 1 Repudiate/Replicate
@@ -150,14 +167,14 @@
 4 Skred
 4 Spark Double
 1 Pestermite
-1 Condescend
 1 Anger of the Gods
+1 Condescend
+2 Anger of the Gods
 2 Pestermite
 2 Condescend
-2 Anger of the Gods
+3 Anger of the Gods
 3 Condescend
 3 Kiki-Jiki, Mirror Breaker
-3 Anger of the Gods
 4 Steam Vents
 4 Cryptic Command
 4 Condescend
@@ -165,13 +182,13 @@
 1 As Foretold
 1 Finale of Promise
 1 Restore Balance
+1 Electrodominance
 1 Ancestral Vision
 1 Crashing Footfalls
 1 Greater Gargadon
 1 Karn, the Great Creator
 1 Blast Zone
 1 Izzet Charm
-1 Electrodominance
 2 Simian Spirit Guide
 2 Electrodominance
 2 As Foretold

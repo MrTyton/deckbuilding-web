@@ -48,6 +48,6 @@
 |                    4|[Kaya's Wrath](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457331)               |                    2|Heliod's Intervention                                                                                 |
 |                    6|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)                      |                    2|[Ashiok, Dream Render](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461155)       |
 |                    6|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)                     |                    2|Elspeth Conquers Death                                                                                |
-|                     |                                                                                                      |                    3|[Ashiok, Dream Render](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461155)       |
 |                     |                                                                                                      |                    4|[Ashiok, Dream Render](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461155)       |
+|                     |                                                                                                      |                    3|[Ashiok, Dream Render](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461155)       |
 

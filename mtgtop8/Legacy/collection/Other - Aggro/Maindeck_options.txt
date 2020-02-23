@@ -125,6 +125,58 @@
 3 Knight of the Reliquary
 4 Swords to Plowshares
 4 Knight of the Reliquary
+1 Arid Mesa
+1 Mountain
+1 Bonecrusher Giant
+1 Bedlam Reveler
+1 Hymn to Tourach
+1 Young Pyromancer
+1 Lightning Bolt
+1 Thoughtseize
+1 Cabal Therapy
+1 Pyroblast
+1 Liliana, the Last Hope
+1 Plateau
+1 Bloodstained Mire
+1 Lingering Souls
+1 Mishra's Bauble
+1 Fatal Push
+1 Swamp
+2 Fatal Push
+2 Bonecrusher Giant
+2 Arid Mesa
+2 Hymn to Tourach
+2 Plateau
+2 Bedlam Reveler
+2 Young Pyromancer
+2 Lightning Bolt
+2 Pyroblast
+2 Thoughtseize
+2 Bloodstained Mire
+2 Cabal Therapy
+2 Liliana, the Last Hope
+2 Mishra's Bauble
+2 Lingering Souls
+2 Badlands
+3 Thoughtseize
+3 Badlands
+3 Marsh Flats
+3 Arid Mesa
+3 Lightning Bolt
+3 Young Pyromancer
+3 Bedlam Reveler
+3 Faithless Looting
+3 Bloodstained Mire
+3 Lingering Souls
+3 Cabal Therapy
+3 Mishra's Bauble
+4 Bloodstained Mire
+4 Marsh Flats
+4 Young Pyromancer
+4 Lightning Bolt
+4 Arid Mesa
+4 Faithless Looting
+4 Mishra's Bauble
 1 Thalia, Guardian of Thraben
 2 Karakas
 2 Thalia, Guardian of Thraben
@@ -167,58 +219,6 @@
 4 Ancient Ziggurat
 4 Thalia's Lieutenant
 4 Cavern of Souls
-1 Arid Mesa
-1 Mountain
-1 Bonecrusher Giant
-1 Bedlam Reveler
-1 Hymn to Tourach
-1 Young Pyromancer
-1 Lightning Bolt
-1 Thoughtseize
-1 Pyroblast
-1 Liliana, the Last Hope
-1 Plateau
-1 Cabal Therapy
-1 Bloodstained Mire
-1 Lingering Souls
-1 Mishra's Bauble
-1 Fatal Push
-1 Swamp
-2 Fatal Push
-2 Bonecrusher Giant
-2 Arid Mesa
-2 Hymn to Tourach
-2 Plateau
-2 Young Pyromancer
-2 Bedlam Reveler
-2 Lightning Bolt
-2 Pyroblast
-2 Thoughtseize
-2 Bloodstained Mire
-2 Cabal Therapy
-2 Liliana, the Last Hope
-2 Mishra's Bauble
-2 Lingering Souls
-2 Badlands
-3 Thoughtseize
-3 Badlands
-3 Marsh Flats
-3 Arid Mesa
-3 Lightning Bolt
-3 Young Pyromancer
-3 Bedlam Reveler
-3 Faithless Looting
-3 Bloodstained Mire
-3 Lingering Souls
-3 Cabal Therapy
-3 Mishra's Bauble
-4 Marsh Flats
-4 Lightning Bolt
-4 Young Pyromancer
-4 Arid Mesa
-4 Faithless Looting
-4 Mishra's Bauble
-4 Bloodstained Mire
 1 Prismatic Vista
 1 Ramunap Excavator
 1 Ancient Tomb
@@ -330,7 +330,6 @@
 5 Snow-Covered Island
 6 Snow-Covered Island
 1 Elvish Spirit Guide
-1 Verdant Catacombs
 1 Chrome Mox
 1 Garruk Relentless
 1 Trinisphere
@@ -340,6 +339,7 @@
 1 Voracious Hydra
 1 Karn, the Great Creator
 1 Chancellor of the Tangle
+1 Verdant Catacombs
 2 Elvish Spirit Guide
 2 Chrome Mox
 2 Tireless Tracker

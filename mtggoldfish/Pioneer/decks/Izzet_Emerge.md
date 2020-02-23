@@ -38,9 +38,9 @@
 |                    2|[Ipnu Rivulet](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430869)   |                    1|[Magma Spray](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426843)         |
 |                    2|[Chart a Course](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435200) |                     |                                                                                               |
 |                    2|[Wild Slash](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391959)     |                     |                                                                                               |
-|                    3|[Sulfur Falls](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443135)   |                     |                                                                                               |
 |                    3|[Chart a Course](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435200) |                     |                                                                                               |
-|                    4|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)       |                     |                                                                                               |
+|                    3|[Sulfur Falls](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443135)   |                     |                                                                                               |
 |                    4|[Chart a Course](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435200) |                     |                                                                                               |
+|                    4|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)       |                     |                                                                                               |
 |                    5|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)       |                     |                                                                                               |
 
