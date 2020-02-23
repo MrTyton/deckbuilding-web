@@ -56,8 +56,8 @@
 |                    1|[Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)     |                    1|[Return to Nature](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461102)    |
 |                    2|[Become Immense](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386487)     |                    1|[Null Rod](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383034)            |
 |                    2|[Waterlogged Grove](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464198)  |                    2|[Spellskite](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397743)          |
-|                    2|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)             |                    1|[Faerie Macabre](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=201822)      |
+|                    2|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)             |                    1|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)       |
+|                    4|[Wooded Foothills](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405116)   |                    1|[Faerie Macabre](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=201822)      |
 |                    4|[Ponder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=451051)             |                    1|[Mindbreak Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197532)      |
-|                    4|[Wooded Foothills](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405116)   |                    1|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)       |
 |                     |                                                                                              |                    3|[Swords to Plowshares](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=869)   |
 

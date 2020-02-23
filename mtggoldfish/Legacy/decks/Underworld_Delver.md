@@ -30,12 +30,12 @@
 
 |*n*<sup>th</sup> copy|                                       Maindeck Card                                        |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
 |--------------------:|--------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
-|                    1|Cling to Dust                                                                               |                    3|[Pyroblast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=4083)            |
-|                    1|Kroxa, Titan of Death's Hunger                                                              |                    1|[Baleful Strix](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376260)      |
+|                    1|Kroxa, Titan of Death's Hunger                                                              |                    3|[Pyroblast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=4083)            |
+|                    1|Cling to Dust                                                                               |                    2|[Flusterstorm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=228255)       |
 |                    1|[Karakas](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413782)          |                    1|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)|
 |                    1|[Plague Engineer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464049)  |                    1|[Force of Will](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3107)        |
-|                    1|[Flooded Strand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405098)   |                    2|[Flusterstorm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=228255)       |
+|                    1|[Flooded Strand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405098)   |                    1|[Baleful Strix](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376260)      |
 |                    2|[Flooded Strand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405098)   |                     |                                                                                              |
-|                    3|[Bloodstained Mire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405094)|                     |                                                                                              |
 |                    2|[Bloodstained Mire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405094)|                     |                                                                                              |
+|                    3|[Bloodstained Mire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405094)|                     |                                                                                              |
 

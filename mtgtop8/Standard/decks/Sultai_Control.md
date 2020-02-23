@@ -86,6 +86,6 @@
 |                    2|Polukranos, Unchained                                                                                 |                     |                                                                                                      |
 |                    3|Polukranos, Unchained                                                                                 |                     |                                                                                                      |
 |                    4|Polukranos, Unchained                                                                                 |                     |                                                                                                      |
-|                    4|[Temple of Mystery](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373571)          |                     |                                                                                                      |
 |                    4|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)                     |                     |                                                                                                      |
+|                    4|[Temple of Mystery](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373571)          |                     |                                                                                                      |
 

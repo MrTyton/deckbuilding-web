@@ -45,7 +45,7 @@
 |                    3|[Defense Grid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45481)       |                    2|[Infernal Tutor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107308)  |
 |                    2|[Ad Nauseam](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174915)        |                    3|[Hope of Ghirapur](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423821)|
 |                    1|[Misty Rainforest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405102)  |                    1|[Hurkyl's Recall](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=135260) |
-|                    2|[Misty Rainforest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405102)  |                    1|[Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)           |
-|                    4|[Misty Rainforest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405102)  |                    3|[Infernal Tutor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107308)  |
-|                    3|[Misty Rainforest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405102)  |                     |                                                                                           |
+|                    3|[Misty Rainforest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405102)  |                    3|[Infernal Tutor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107308)  |
+|                    4|[Misty Rainforest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405102)  |                    1|[Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)           |
+|                    2|[Misty Rainforest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405102)  |                     |                                                                                           |
 

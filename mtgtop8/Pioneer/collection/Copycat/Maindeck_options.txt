@@ -1,4 +1,4 @@
-1 Plains
+1 Mountain
 3 Rogue Refiner
 1 Brazen Borrower
 1 Forest
@@ -31,8 +31,8 @@
 2 Dig Through Time
 2 Island
 2 Opt
-3 Dig Through Time
 3 Opt
+3 Dig Through Time
 4 Opt
 1 Supreme Verdict
 1 Detention Sphere
@@ -48,13 +48,13 @@
 1 Irrigated Farmland
 1 Abrade
 1 Izzet Charm
-2 Izzet Charm
-2 Hieroglyphic Illumination
 2 Clifftop Retreat
+2 Hieroglyphic Illumination
 2 Censor
 2 Supreme Verdict
 2 Sulfur Falls
 2 Irrigated Farmland
+2 Izzet Charm
 3 Detention Sphere
 3 Sulfur Falls
 3 Izzet Charm
@@ -92,8 +92,8 @@
 4 Sacred Foundry
 1 Deafening Clarion
 2 Deafening Clarion
-1 Swamp
 1 Blood Crypt
+1 Swamp
 1 Godless Shrine
 1 Watery Grave
 1 Oath of Kaya
@@ -103,14 +103,14 @@
 1 Deputy of Detention
 2 Brazen Borrower
 2 Yavimaya Coast
-1 Dreadbore
-1 Ojutai's Command
 1 Silumgar's Command
-1 Knight of Autumn
 1 Unmoored Ego
-1 Kolaghan's Command
+1 Knight of Autumn
+1 Ojutai's Command
 1 Assassin's Trophy
+1 Dreadbore
 1 Niv-Mizzet Reborn
+1 Kolaghan's Command
 1 Abrupt Decay
 1 Bring to Light
 2 Assassin's Trophy
@@ -142,18 +142,18 @@
 3 Risen Reef
 4 Voice of Resurgence
 4 Risen Reef
+1 Fiery Impulse
 1 Thrill of Possibility
 1 Lava Coil
-1 Fiery Impulse
 1 Anticipate
 2 Spell Pierce
-2 Thrill of Possibility
 2 Fiery Impulse
+2 Thrill of Possibility
 2 Anticipate
 2 Lava Coil
+3 Fiery Impulse
 3 Thrill of Possibility
 3 Lava Coil
-3 Fiery Impulse
 3 Anticipate
 3 Spirebluff Canal
 4 Dig Through Time
@@ -202,9 +202,9 @@
 1 Cloudblazer
 1 Dusk / Dawn
 2 Elite Guardmage
-2 Plains
 2 Tithe Taker
 2 Field of Ruin
+2 Plains
 2 Dusk / Dawn
 2 Thraben Inspector
 2 Cloudblazer
