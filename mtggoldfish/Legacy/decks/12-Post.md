@@ -1,7 +1,7 @@
 # 12-Post
 
 #### [Export MTGO List](../collection/12-Post/12-Post.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=1%09Bojuka%20Bog%0A2%09Candelabra%20of%20Tawnos%0A1%09Cavern%20of%20Souls%0A4%09Cloudpost%0A4%09Crop%20Rotation%0A4%09Elvish%20Rejuvenator%0A1%09Emrakul,%20the%20Aeons%20Torn%0A1%09Emrakul,%20the%20Promised%20End%0A2%09Expedition%20Map%0A1%09Eye%20of%20Ugin%0A7%09Forest%0A1%09Glacial%20Chasm%0A4%09Glimmerpost%0A3%09Golos,%20Tireless%20Pilgrim%0A1%09Karakas%0A1%09Kozilek,%20the%20Great%20Distortion%0A1%09Maze%20of%20Ith%0A4%09Once%20Upon%20a%20Time%0A4%09Pithing%20Needle%0A4%09Primeval%20Titan%0A3%09Summoning%20Trap%0A2%09Ulamog,%20the%20Ceaseless%20Hunger%0A4%09Vesuva&deckside=1%09Crucible%20of%20Worlds%0A4%09Krosan%20Grip%0A2%09Mindbreak%20Trap%0A3%09Surgical%20Extraction%0A3%09Thorn%20of%20Amethyst%0A2%09Veil%20of%20Summer)
+#### [Print on decklist.org](http://decklist.org/?deckmain=1%09Bojuka%20Bog%0A2%09Candelabra%20of%20Tawnos%0A1%09Cavern%20of%20Souls%0A4%09Cloudpost%0A4%09Crop%20Rotation%0A4%09Elvish%20Rejuvenator%0A1%09Emrakul,%20the%20Aeons%20Torn%0A1%09Emrakul,%20the%20Promised%20End%0A2%09Expedition%20Map%0A1%09Eye%20of%20Ugin%0A7%09Forest%0A1%09Glacial%20Chasm%0A4%09Glimmerpost%0A3%09Golos,%20Tireless%20Pilgrim%0A1%09Karakas%0A1%09Kozilek,%20the%20Great%20Distortion%0A1%09Maze%20of%20Ith%0A4%09Once%20Upon%20a%20Time%0A4%09Pithing%20Needle%0A4%09Primeval%20Titan%0A3%09Summoning%20Trap%0A2%09Ulamog,%20the%20Ceaseless%20Hunger%0A4%09Vesuva&deckside=1%09Crucible%20of%20Worlds%0A4%09Krosan%20Grip%0A2%09Sphere%20of%20Resistance%0A3%09Surgical%20Extraction%0A3%09Thorn%20of%20Amethyst%0A2%09Veil%20of%20Summer)
 # Maindeck
 
 |                                         Artifact (8)                                         |                                              Creature (16)                                               |                                        Instant (11)                                         |                                         Land (25)                                          |
@@ -20,28 +20,27 @@
 
 # Sideboard
 
-|                                         Artifact (4)                                          |                                          Instant (11)                                          |
+|                                         Artifact (6)                                          |                                          Instant (9)                                           |
 |-----------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
 |1 [Crucible of Worlds](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129480)|4 [Krosan Grip](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376394)        |
-|3 [Thorn of Amethyst](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=140166) |2 [Mindbreak Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197532)     |
-|                                                                                               |3 [Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|
-|                                                                                               |2 [Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)     |
+|2 [Sphere of Resistance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=6160)|3 [Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|
+|3 [Thorn of Amethyst](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=140166) |2 [Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)     |
 
 
 # Other Options
 
 |*n*<sup>th</sup> copy|                                           Maindeck Card                                            |*n*<sup>th</sup> copy|                                             Sideboard Card                                             |
 |--------------------:|----------------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------------------|
-|                    3|[Expedition Map](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397742)           |                    1|[Sphere of Resistance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=6160)           |
-|                    1|[Ulamog, the Infinite Gyre](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397815)|                    2|[Sphere of Resistance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=6160)           |
-|                    1|[Ugin, the Spirit Dragon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391948)  |                    4|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)          |
+|                    3|[Expedition Map](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397742)           |                    4|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)          |
+|                    1|[Ulamog, the Infinite Gyre](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397815)|                    1|[Mindbreak Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197532)               |
+|                    1|[Ugin, the Spirit Dragon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391948)  |                    2|[Mindbreak Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197532)               |
 |                    1|[Kozilek, Butcher of Truth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397668)|                    1|[Weather the Storm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464140)            |
 |                    1|[Azusa, Lost but Seeking](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442150)  |                    2|[Weather the Storm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464140)            |
 |                    2|[Azusa, Lost but Seeking](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442150)  |                    1|[Walking Ballista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423848)             |
-|                    4|[Expedition Map](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397742)           |                    1|[The Tabernacle at Pendrell Vale](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=1690)|
+|                    1|[Explore](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=451098)                  |                    1|[The Tabernacle at Pendrell Vale](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=1690)|
+|                    2|[Explore](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=451098)                  |                     |                                                                                                        |
+|                    4|[Expedition Map](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397742)           |                     |                                                                                                        |
 |                    1|[Cascading Cataracts](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426942)      |                     |                                                                                                        |
 |                    4|[Golos, Tireless Pilgrim](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466980)  |                     |                                                                                                        |
-|                    1|[Explore](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=451098)                  |                     |                                                                                                        |
-|                    2|[Explore](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=451098)                  |                     |                                                                                                        |
 |                    3|[Explore](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=451098)                  |                     |                                                                                                        |
 

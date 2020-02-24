@@ -28,62 +28,6 @@
 3 Kozilek's Return
 3 Glassblower's Puzzleknot
 4 Kozilek's Return
-1 Walking Ballista
-2 Walking Ballista
-1 Hope of Ghirapur
-2 Hope of Ghirapur
-1 Field of Ruin
-2 Field of Ruin
-1 Wastes
-1 Stonecoil Serpent
-1 Karn, Scion of Urza
-1 Scrap Trawler
-1 Zhalfirin Void
-1 Mobilized District
-1 Mutavault
-1 Sea Gate Wreckage
-1 Heart of Kiran
-1 Darksteel Citadel
-1 Ratchet Bomb
-1 Warping Wail
-1 Spatial Contortion
-1 Blast Zone
-1 Fountain of Renewal
-1 Foundry of the Consuls
-1 Karn, the Great Creator
-2 Wastes
-2 Stonecoil Serpent
-2 Karn, Scion of Urza
-2 Scrap Trawler
-2 Mobilized District
-2 Mutavault
-2 Ratchet Bomb
-2 Spatial Contortion
-2 Warping Wail
-2 Blast Zone
-2 Zhalfirin Void
-2 Fountain of Renewal
-2 Karn, the Great Creator
-3 Blast Zone
-3 Stonecoil Serpent
-3 Walking Ballista
-3 Mutavault
-3 Warping Wail
-3 Spatial Contortion
-3 Ratchet Bomb
-3 Wastes
-3 Zhalfirin Void
-3 Karn, Scion of Urza
-3 Fountain of Renewal
-3 Scrap Trawler
-3 Karn, the Great Creator
-4 Stonecoil Serpent
-4 Shrine of the Forsaken Gods
-4 Mutavault
-4 Scrap Trawler
-4 Zhalfirin Void
-4 Fountain of Renewal
-4 Karn, Scion of Urza
 1 Hallowed Fountain
 1 Teferi, Time Raveler
 2 Teferi, Time Raveler
@@ -92,6 +36,8 @@
 3 Teferi, Time Raveler
 4 Hallowed Fountain
 4 Teferi, Time Raveler
+1 Hope of Ghirapur
+2 Hope of Ghirapur
 1 Emry, Lurker of the Loch
 1 Mox Amber
 1 Blooming Marsh
@@ -145,6 +91,60 @@
 3 Vessel of Nascency
 3 Hour of Devastation
 4 Hour of Devastation
+1 Walking Ballista
+2 Walking Ballista
+1 Field of Ruin
+2 Field of Ruin
+1 Wastes
+1 Karn, Scion of Urza
+1 Scrap Trawler
+1 Zhalfirin Void
+1 Mobilized District
+1 Sea Gate Wreckage
+1 Mutavault
+1 Heart of Kiran
+1 Ratchet Bomb
+1 Warping Wail
+1 Spatial Contortion
+1 Stonecoil Serpent
+1 Darksteel Citadel
+1 Blast Zone
+1 Fountain of Renewal
+1 Foundry of the Consuls
+1 Karn, the Great Creator
+2 Wastes
+2 Karn, Scion of Urza
+2 Scrap Trawler
+2 Mobilized District
+2 Mutavault
+2 Ratchet Bomb
+2 Spatial Contortion
+2 Warping Wail
+2 Blast Zone
+2 Zhalfirin Void
+2 Fountain of Renewal
+2 Karn, the Great Creator
+2 Stonecoil Serpent
+3 Blast Zone
+3 Walking Ballista
+3 Mutavault
+3 Warping Wail
+3 Karn, Scion of Urza
+3 Spatial Contortion
+3 Ratchet Bomb
+3 Wastes
+3 Stonecoil Serpent
+3 Zhalfirin Void
+3 Fountain of Renewal
+3 Scrap Trawler
+3 Karn, the Great Creator
+4 Shrine of the Forsaken Gods
+4 Mutavault
+4 Scrap Trawler
+4 Zhalfirin Void
+4 Fountain of Renewal
+4 Karn, Scion of Urza
+4 Stonecoil Serpent
 1 Geier Reach Sanitarium
 1 Day's Undoing
 1 Narset, Parter of Veils
@@ -181,8 +181,8 @@
 2 Search for Azcanta
 2 Opt
 3 Azorius Charm
-3 Myth Realized
 3 Supreme Verdict
+3 Myth Realized
 3 Port Town
 3 Glacial Fortress
 3 Plains
@@ -223,13 +223,13 @@
 2 Domri Rade
 2 Mountain
 2 Game Trail
+3 Glorybringer
 3 Possibility Storm
 3 Kiora, Behemoth Beckoner
 3 Elvish Mystic
 3 Lovestruck Beast
 3 Llanowar Elves
 3 Bonecrusher Giant
-3 Glorybringer
 3 Rootbound Crag
 3 Mountain
 4 Possibility Storm
@@ -241,9 +241,9 @@
 5 Forest
 6 Forest
 7 Forest
-1 Unsummon
-1 Watery Grave
 1 Drowned Catacomb
+1 Watery Grave
+1 Unsummon
 1 Sunken Hollow
 1 Fabled Passage
 1 Drown in the Loch
@@ -259,10 +259,10 @@
 1 Unsubstantiate
 1 Wizard's Retort
 1 Dakra Mystic
-2 Drowned Catacomb
 2 Brazen Borrower
 2 Watery Grave
 2 Cyclonic Rift
+2 Drowned Catacomb
 2 Fabled Passage
 2 Fatal Push
 2 Engulf the Shore
@@ -271,14 +271,14 @@
 2 Dakra Mystic
 2 Dictate of Kruphix
 2 Spell Pierce
-3 Brazen Borrower
 3 Watery Grave
+3 Brazen Borrower
 3 Fatal Push
 3 Dakra Mystic
 3 Sunken Hollow
 3 Notion Thief
-4 Watery Grave
 4 Brazen Borrower
+4 Watery Grave
 4 Day's Undoing
 4 Sunken Hollow
 4 Notion Thief

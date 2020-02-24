@@ -32,6 +32,6 @@
 |--------------------:|----------------------------------------------------------------------------------------------|--------------------:|---------------------------------------------------------------------------------------------|
 |                    1|Thryx, the Sudden Storm                                                                       |                    1|[Sorcerous Spyglass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435407)|
 |                    1|[Chandra's Pyrohelix](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417684)|                    1|[Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)            |
-|                    2|[Ral's Outburst](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461139)     |                    2|Thryx, the Sudden Storm                                                                      |
-|                    4|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)           |                    3|[Flame Sweep](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466893)       |
+|                    2|[Ral's Outburst](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461139)     |                    3|[Flame Sweep](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466893)       |
+|                    4|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)           |                    2|Thryx, the Sudden Storm                                                                      |
 

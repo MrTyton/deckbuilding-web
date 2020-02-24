@@ -1,32 +1,32 @@
-1 Kroxa, Titan of Death's Hunger
+1 Inquisition of Kozilek
 1 Blood Crypt
-2 Blood Crypt
-2 Thoughtseize
 2 Kroxa, Titan of Death's Hunger
+2 Thoughtseize
+2 Blood Crypt
 2 Blackcleave Cliffs
 2 Inquisition of Kozilek
-3 Kroxa, Titan of Death's Hunger
-3 Thoughtseize
 3 Blackcleave Cliffs
+3 Thoughtseize
+3 Kroxa, Titan of Death's Hunger
 3 Bloodstained Mire
 3 Inquisition of Kozilek
 4 Blackcleave Cliffs
-1 Unearth
 1 Swamp
 1 Fulminator Mage
+1 Unearth
 2 Swamp
 2 Fulminator Mage
 2 Unearth
-3 Swamp
 3 Fulminator Mage
 3 Unearth
+3 Swamp
 4 Unearth
+1 Liliana of the Veil
 1 Fatal Push
 1 Polluted Delta
-1 Liliana of the Veil
-2 Fatal Push
-2 Polluted Delta
 2 Liliana of the Veil
+2 Polluted Delta
+2 Fatal Push
 3 Polluted Delta
 3 Fatal Push
 1 Dreadhorde Arcanist
@@ -43,13 +43,31 @@
 1 Wooded Foothills
 2 Wooded Foothills
 1 Lightning Axe
-1 Snow-Covered Mountain
 1 Goblin Bushwhacker
+1 Snow-Covered Mountain
 2 Snow-Covered Mountain
 3 Cathartic Reunion
 3 Forgotten Cave
 3 Underworld Breach
 4 Forgotten Cave
+1 Carrion Feeder
+1 Dragonskull Summit
+1 Dreadhorde Butcher
+1 Gravecrawler
+1 Snow-Covered Swamp
+2 Carrion Feeder
+2 Dragonskull Summit
+2 Dreadhorde Butcher
+2 Gravecrawler
+2 Snow-Covered Swamp
+3 Liliana of the Veil
+3 Dreadhorde Butcher
+3 Snow-Covered Swamp
+3 Gravecrawler
+4 Liliana of the Veil
+4 Inquisition of Kozilek
+4 Dreadhorde Butcher
+4 Polluted Delta
 1 Terminate
 1 Magus of the Moon
 1 Lightning Skelemental
@@ -61,19 +79,19 @@
 2 Thrill of Possibility
 2 Lightning Skelemental
 3 Blood Crypt
+3 Marsh Flats
 3 Magus of the Moon
 3 Thrill of Possibility
-3 Marsh Flats
 3 Lightning Skelemental
 4 Lightning Skelemental
 4 Magus of the Moon
-1 Kolaghan's Command
 1 Bonecrusher Giant
 1 Castle Locthwain
 1 Dark Confidant
+1 Kolaghan's Command
 2 Dark Confidant
-2 Bonecrusher Giant
 2 Kolaghan's Command
+2 Bonecrusher Giant
 3 Dark Confidant
 3 Bonecrusher Giant
 4 Bonecrusher Giant
@@ -81,119 +99,101 @@
 4 Kroxa, Titan of Death's Hunger
 4 Dark Confidant
 4 Fulminator Mage
-1 Eldrazi Obligator
-1 Eldrazi Temple
 1 Thought-Knot Seer
-1 Dismember
-1 Simian Spirit Guide
-1 Blast Zone
 1 Chalice of the Void
+1 Simian Spirit Guide
+1 Chandra, Torch of Defiance
+1 Eldrazi Obligator
+1 Prismatic Vista
+1 Dismember
 1 Reality Smasher
 1 Wastes
-1 Hazoret the Fervent
+1 Eldrazi Temple
 1 Ghost Quarter
 1 Ramunap Ruins
 1 Cavern of Souls
 1 Scavenger Grounds
 1 Eternal Scourge
-1 Prismatic Vista
 1 Serum Powder
-1 Chandra, Torch of Defiance
+1 Blast Zone
 1 Eldrazi Mimic
+1 Hazoret the Fervent
 2 Wastes
-2 Prismatic Vista
-2 Eldrazi Temple
-2 Simian Spirit Guide
+2 Ghost Quarter
 2 Thought-Knot Seer
+2 Chalice of the Void
+2 Simian Spirit Guide
+2 Eldrazi Obligator
 2 Dismember
 2 Reality Smasher
-2 Chalice of the Void
-2 Ghost Quarter
 2 Eternal Scourge
-2 Eldrazi Obligator
+2 Prismatic Vista
+2 Eldrazi Temple
 2 Blast Zone
 2 Serum Powder
 2 Ramunap Ruins
 2 Cavern of Souls
 2 Eldrazi Mimic
-3 Prismatic Vista
 3 Simian Spirit Guide
-3 Thought-Knot Seer
-3 Reality Smasher
-3 Eldrazi Temple
 3 Chalice of the Void
+3 Prismatic Vista
+3 Eldrazi Obligator
+3 Thought-Knot Seer
 3 Dismember
 3 Eternal Scourge
 3 Eldrazi Mimic
+3 Eldrazi Temple
+3 Reality Smasher
 3 Ramunap Ruins
-3 Eldrazi Obligator
 3 Serum Powder
-4 Thought-Knot Seer
-4 Reality Smasher
-4 Chalice of the Void
 4 Simian Spirit Guide
-4 Eldrazi Temple
+4 Chalice of the Void
 4 Eldrazi Obligator
+4 Reality Smasher
 4 Eternal Scourge
 4 Eldrazi Mimic
+4 Thought-Knot Seer
 4 Serum Powder
-1 Carrion Feeder
-1 Snow-Covered Swamp
-1 Dragonskull Summit
-1 Dreadhorde Butcher
-1 Gravecrawler
-2 Carrion Feeder
-2 Snow-Covered Swamp
-2 Dragonskull Summit
-2 Dreadhorde Butcher
-2 Gravecrawler
-3 Liliana of the Veil
-3 Dreadhorde Butcher
-3 Snow-Covered Swamp
-3 Gravecrawler
-4 Polluted Delta
-4 Inquisition of Kozilek
-4 Dreadhorde Butcher
-4 Liliana of the Veil
+4 Eldrazi Temple
 1 Arid Mesa
-1 Blood Moon
-1 Monastery Swiftspear
-1 Skewer the Critics
 1 Shard Volley
+1 Eidolon of the Great Revel
 1 Searing Blaze
 1 Seal of Fire
+1 Skewer the Critics
 1 Lava Spike
-1 Eidolon of the Great Revel
-1 Rift Bolt
 1 Goblin Guide
+1 Monastery Swiftspear
+1 Rift Bolt
+1 Blood Moon
 2 Arid Mesa
-2 Monastery Swiftspear
-2 Skewer the Critics
+2 Eidolon of the Great Revel
 2 Searing Blaze
 2 Goblin Guide
+2 Lava Spike
+2 Skewer the Critics
+2 Monastery Swiftspear
+2 Rift Bolt
 2 Shard Volley
 2 Seal of Fire
-2 Eidolon of the Great Revel
 2 Sunbaked Canyon
-2 Lava Spike
-2 Rift Bolt
+3 Searing Blaze
+3 Eidolon of the Great Revel
+3 Rift Bolt
+3 Lava Spike
 3 Monastery Swiftspear
 3 Skewer the Critics
-3 Eidolon of the Great Revel
-3 Lava Spike
-3 Rift Bolt
+3 Goblin Guide
 3 Seal of Fire
 3 Sunbaked Canyon
-3 Goblin Guide
 3 Shard Volley
-3 Searing Blaze
+4 Fiery Islet
+4 Searing Blaze
+4 Eidolon of the Great Revel
+4 Rift Bolt
 4 Monastery Swiftspear
 4 Skewer the Critics
-4 Eidolon of the Great Revel
-4 Fiery Islet
-4 Rift Bolt
+4 Goblin Guide
+4 Lava Spike
 4 Sunbaked Canyon
 4 Seal of Fire
-4 Searing Blaze
-4 Lava Spike
-4 Goblin Guide

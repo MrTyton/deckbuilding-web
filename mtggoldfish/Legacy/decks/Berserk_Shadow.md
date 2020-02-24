@@ -22,3 +22,10 @@
 |4 [Sylvan Safekeeper](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389709)|2 [Carpet of Flowers](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=5858)|4 [Force of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464001)|1 [Gaea's Blessing](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417433)|
 |                                                                                              |                                                                                            |2 [Submerge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=21296)          |2 [Massacre](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=21324)        |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|Maindeck Card|*n*<sup>th</sup> copy|                                   Sideboard Card                                   |
+|---------------------|-------------|--------------------:|------------------------------------------------------------------------------------|
+|                     |             |                    1|[Open Fire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430794)|
+

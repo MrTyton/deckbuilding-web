@@ -29,9 +29,9 @@
 
 |*n*<sup>th</sup> copy|                                         Maindeck Card                                          |*n*<sup>th</sup> copy|                                      Sideboard Card                                       |
 |--------------------:|------------------------------------------------------------------------------------------------|--------------------:|-------------------------------------------------------------------------------------------|
-|                    1|[Blast Zone](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461171)           |                    1|[Lovestruck Beast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473127)|
+|                    1|[Blast Zone](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461171)           |                    2|[Lovestruck Beast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473127)|
 |                    1|[Finale of Devastation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461087)|                    4|[Aether Gust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466796)     |
-|                    1|[End-Raze Forerunners](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457268) |                    2|[Lovestruck Beast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473127)|
+|                    1|[End-Raze Forerunners](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457268) |                    1|[Lovestruck Beast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473127)|
 |                    1|[Leafkin Druid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466932)        |                     |                                                                                           |
 |                    1|[Risen Reef](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466971)           |                     |                                                                                           |
 |                    1|Thassa, Deep-Dwelling                                                                           |                     |                                                                                           |

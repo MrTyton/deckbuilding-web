@@ -1,6 +1,37 @@
 3 Fabled Passage
 3 Chandra, Torch of Defiance
 3 Murderous Rider
+1 Plains
+2 Plains
+3 Plains
+1 Godless Shrine
+1 Shambling Vent
+2 Godless Shrine
+3 Godless Shrine
+4 Godless Shrine
+4 Plains
+5 Plains
+1 Oath of Kaya
+1 Trial of Ambition
+1 Isolated Chapel
+1 Doom Foretold
+1 Treacherous Blessing
+2 Oath of Kaya
+2 Trial of Ambition
+2 Isolated Chapel
+2 Doom Foretold
+2 Treacherous Blessing
+2 Shambling Vent
+3 Trial of Ambition
+3 Shambling Vent
+3 Treacherous Blessing
+3 Isolated Chapel
+3 Doom Foretold
+4 Trial of Ambition
+4 Treacherous Blessing
+4 Isolated Chapel
+4 Doom Foretold
+4 Shambling Vent
 1 Island
 1 Drowned Catacomb
 1 Watery Grave
@@ -8,53 +39,44 @@
 2 Watery Grave
 3 Watery Grave
 4 Watery Grave
-1 Vraska's Contempt
-3 Drowned Catacomb
-4 Drowned Catacomb
-1 Dig Through Time
-2 Dig Through Time
-2 Vraska's Contempt
-1 Thassa's Intervention
-1 Languish
-2 Languish
-1 Opt
-2 Opt
-3 Opt
-4 Opt
-2 Island
-1 Torrential Gearhulk
-1 Censor
-2 Torrential Gearhulk
-2 Censor
-3 Censor
-4 Censor
 1 Kroxa, Titan of Death's Hunger
 1 Pharika's Libation
 2 Kroxa, Titan of Death's Hunger
+1 The Birth of Meletis
+1 Kaya's Wrath
+1 Starfield of Nyx
+2 The Birth of Meletis
+2 Starfield of Nyx
+2 Kaya's Wrath
+3 Kaya's Wrath
+1 Temple of Silence
+1 Final Payment
+2 Final Payment
+3 Oath of Kaya
+1 History of Benalia
+1 Cast Out
+2 Cast Out
+2 History of Benalia
+3 Cast Out
+3 History of Benalia
+4 History of Benalia
+4 Swamp
+5 Swamp
 3 Castle Locthwain
-1 Castle Vantress
-3 Island
-4 Island
-1 Fetid Pools
-1 Hieroglyphic Illumination
-1 The Scarab God
-1 Disallow
-1 Negate
-1 Narset, Parter of Veils
-2 Castle Vantress
-2 Negate
-2 Narset, Parter of Veils
-2 Disallow
-3 Dig Through Time
+1 Thassa's Intervention
 4 Rekindling Phoenix
-3 Dreadbore
-3 Canyon Slough
+1 Vraska's Contempt
 1 Overgrown Tomb
 1 Abrupt Decay
 1 Assassin's Trophy
 2 Overgrown Tomb
 2 Assassin's Trophy
-1 Search for Azcanta
+3 Canyon Slough
+3 Dreadbore
+3 Drowned Catacomb
+4 Drowned Catacomb
+1 Dig Through Time
+2 Dig Through Time
 1 Nicol Bolas, the Ravager
 1 Sulfur Falls
 1 Nicol Bolas, Dragon-God
@@ -62,18 +84,19 @@
 2 Nicol Bolas, Dragon-God
 2 Nicol Bolas, the Ravager
 3 Nicol Bolas, the Ravager
+1 Languish
+2 Languish
 1 Forest
 2 Forest
-4 Swamp
-5 Swamp
 1 Courser of Kruphix
 2 Courser of Kruphix
+2 Island
 3 Forest
 4 Forest
 5 Forest
 6 Forest
-1 Emrakul, the Promised End
 1 Traverse the Ulvenwald
+1 Emrakul, the Promised End
 2 Traverse the Ulvenwald
 3 Traverse the Ulvenwald
 4 Traverse the Ulvenwald
@@ -112,41 +135,6 @@
 1 Vessel of Nascency
 2 Vessel of Nascency
 4 Fabled Passage
-1 Plains
-1 Godless Shrine
-1 Shambling Vent
-2 Godless Shrine
-3 Godless Shrine
-4 Godless Shrine
-2 Plains
-3 Plains
-4 Plains
-5 Plains
-1 Temple of Silence
-1 Oath of Kaya
-1 Isolated Chapel
-1 Trial of Ambition
-1 Doom Foretold
-1 Treacherous Blessing
-1 Final Payment
-2 Oath of Kaya
-2 Isolated Chapel
-2 Doom Foretold
-2 Final Payment
-2 Trial of Ambition
-2 Treacherous Blessing
-2 Shambling Vent
-3 Oath of Kaya
-3 Shambling Vent
-3 Treacherous Blessing
-3 Isolated Chapel
-3 Doom Foretold
-3 Trial of Ambition
-4 Treacherous Blessing
-4 Trial of Ambition
-4 Isolated Chapel
-4 Doom Foretold
-4 Shambling Vent
 3 Overgrown Tomb
 1 Hissing Quagmire
 1 Tireless Tracker
@@ -154,17 +142,32 @@
 2 Hissing Quagmire
 1 Nissa's Pilgrimage
 1 Gonti, Lord of Luxury
-1 Jace, Vryn's Prodigy
-2 Jace, Vryn's Prodigy
-3 Jace, Vryn's Prodigy
+2 Vraska's Contempt
+1 Opt
+2 Opt
+3 Opt
+4 Opt
+1 Castle Ardenvale
+1 Torrential Gearhulk
+1 Censor
+2 Torrential Gearhulk
+2 Censor
+3 Censor
+4 Censor
 3 Walking Ballista
 1 Sweltering Suns
 2 Sweltering Suns
+1 Jace, Vryn's Prodigy
+2 Jace, Vryn's Prodigy
+3 Jace, Vryn's Prodigy
 1 Hallowed Fountain
 1 Glacial Fortress
 2 Hallowed Fountain
 3 Hallowed Fountain
 4 Hallowed Fountain
+1 Castle Vantress
+3 Island
+4 Island
 1 Goblin Rabblemaster
 2 Goblin Rabblemaster
 1 Mutavault
@@ -176,23 +179,9 @@
 2 Distended Mindbender
 2 Flamewake Phoenix
 3 Flamewake Phoenix
-1 The Birth of Meletis
 1 Shepherd of the Flock
 1 Ashiok, Dream Render
-1 Kaya's Wrath
-1 Starfield of Nyx
-2 The Birth of Meletis
-2 Starfield of Nyx
-2 Kaya's Wrath
 3 Starfield of Nyx
-3 Kaya's Wrath
-1 Westvale Abbey
-1 Jace, Unraveler of Secrets
-1 Geier Reach Sanitarium
-2 Fetid Pools
-2 Jace, Unraveler of Secrets
-3 Vraska's Contempt
-3 Narset, Parter of Veils
 1 Hinterland Harbor
 1 Shrine of the Forsaken Gods
 2 Hinterland Harbor
@@ -203,6 +192,7 @@
 3 Vessel of Nascency
 4 Hinterland Harbor
 4 Arboreal Grazer
+1 Search for Azcanta
 1 Tyrant's Scorn
 1 Erebos's Intervention
 1 Steam Vents
@@ -215,20 +205,25 @@
 1 Goblin Dark-Dwellers
 1 Rootbound Crag
 2 Stomping Ground
-2 Abrupt Decay
 2 Blooming Marsh
+2 Abrupt Decay
 2 Goblin Dark-Dwellers
 2 Rootbound Crag
 3 Assassin's Trophy
 3 Kolaghan's Command
 3 Blooming Marsh
 4 Blooming Marsh
+1 Sigil of the Empty Throne
+1 Torment of Hailfire
+3 The Birth of Meletis
+4 Cast Out
+4 Kaya's Wrath
 1 Grim Flayer
 1 Collective Brutality
 1 Questing Beast
-2 Woodland Cemetery
 2 Grim Flayer
 2 Tireless Tracker
+2 Woodland Cemetery
 3 Woodland Cemetery
 3 Grim Flayer
 4 Overgrown Tomb
@@ -272,21 +267,14 @@
 3 Thassa's Intervention
 4 Dreadbore
 4 Nicol Bolas, the Ravager
-1 History of Benalia
 1 Aphemia, the Cacophony
-1 Cast Out
 1 Tymaret Calls the Dead
-2 Cast Out
-2 History of Benalia
 2 Tymaret Calls the Dead
 2 Temple of Silence
 2 Aphemia, the Cacophony
-3 Cast Out
 3 Tymaret Calls the Dead
 3 Aphemia, the Cacophony
 3 Final Payment
-3 History of Benalia
-4 History of Benalia
 4 Aphemia, the Cacophony
 4 Final Payment
 1 Thirst for Meaning
@@ -307,21 +295,21 @@
 4 Teferi, Time Raveler
 4 Languish
 1 Charming Prince
-1 Castle Ardenvale
 1 Ipnu Rivulet
 1 Deputy of Detention
-1 Angel of Invention
 1 Agent of Treachery
+1 Chart a Course
+1 Angel of Invention
 1 Refurbish
 1 Reflector Mage
 1 Supreme Verdict
-1 Chart a Course
 1 Irrigated Farmland
 1 God-Pharaoh's Gift
 1 Strategic Planning
 1 Hostile Desert
 1 Champion of Wits
 2 Ipnu Rivulet
+2 Chart a Course
 2 Reflector Mage
 2 Charming Prince
 2 Agent of Treachery
@@ -330,18 +318,17 @@
 2 Supreme Verdict
 2 God-Pharaoh's Gift
 2 Champion of Wits
-2 Chart a Course
 2 Irrigated Farmland
 2 Glacial Fortress
 2 Refurbish
 2 Angel of Invention
 3 Reflector Mage
 3 Glacial Fortress
+3 Chart a Course
 3 Angel of Invention
 3 God-Pharaoh's Gift
 3 Strategic Planning
 3 Supreme Verdict
-3 Chart a Course
 3 Refurbish
 3 Champion of Wits
 4 Glacial Fortress
@@ -358,15 +345,25 @@
 4 Temple of Malice
 4 Kroxa, Titan of Death's Hunger
 4 Ramunap Ruins
+1 Hieroglyphic Illumination
+1 Fetid Pools
+1 The Scarab God
+1 Negate
 1 Cast Down
+1 Disallow
+1 Narset, Parter of Veils
 2 Hieroglyphic Illumination
+2 Castle Vantress
 2 Cast Down
-3 Torrential Gearhulk
+2 Negate
+2 Narset, Parter of Veils
+2 Disallow
+3 Dig Through Time
 3 Field of Ruin
+3 Torrential Gearhulk
 4 Field of Ruin
 4 Dig Through Time
 5 Island
-1 Alseid of Life's Bounty
 1 Sunpetal Grove
 1 Gilded Goose
 1 Radiant Fountain
@@ -382,6 +379,7 @@
 1 Elvish Mystic
 1 Fortified Village
 1 Temple Garden
+1 Alseid of Life's Bounty
 1 Fairgrounds Warden
 1 Militia Bugler
 2 Radiant Fountain
@@ -415,9 +413,9 @@
 1 Gideon of the Trials
 1 Elspeth, Sun's Champion
 1 Nahiri, the Harbinger
+1 Haktos the Unscarred
 1 Gideon, Ally of Zendikar
 1 Anger of the Gods
-1 Haktos the Unscarred
 1 Abrade
 1 Clifftop Retreat
 1 Temple of Triumph
@@ -430,27 +428,27 @@
 2 Settle the Wreckage
 2 Clifftop Retreat
 2 Anger of the Gods
+2 Haktos the Unscarred
 2 Temple of Triumph
 2 Sacred Foundry
-2 Haktos the Unscarred
 2 Lava Coil
 2 Needle Spires
 2 Chained to the Rocks
-3 Gideon of the Trials
 3 Clifftop Retreat
-3 Anger of the Gods
 3 Gideon, Ally of Zendikar
+3 Gideon of the Trials
+3 Anger of the Gods
 3 Chained to the Rocks
 3 Temple of Triumph
 3 Needle Spires
 3 Sacred Foundry
 3 Haktos the Unscarred
+4 Temple of Triumph
 4 Sacred Foundry
-4 Clifftop Retreat
 4 Gideon of the Trials
 4 Haktos the Unscarred
 4 Chained to the Rocks
-4 Temple of Triumph
+4 Clifftop Retreat
 5 Mountain
 6 Mountain
 7 Mountain

@@ -1,29 +1,92 @@
-1 Forest
-1 Horizon Canopy
-1 Sunbaked Canyon
-1 Plains
-2 Horizon Canopy
-2 Forest
 2 Wooded Foothills
-3 Forest
 1 Lightning Helix
+1 Sunbaked Canyon
+1 Mountain
+1 Lightning Bolt
+2 Lightning Helix
+2 Lightning Bolt
+3 Lightning Helix
+3 Lightning Bolt
+3 Wooded Foothills
+4 Lightning Bolt
+1 Inspiring Vantage
+1 Boros Charm
+1 Rest in Peace
+1 Rift Bolt
+1 Monastery Swiftspear
+1 Goblin Guide
+1 Lava Spike
+1 Skewer the Critics
+1 Searing Blaze
+1 Deflecting Palm
+1 Eidolon of the Great Revel
+1 Stony Silence
+1 Destructive Revelry
+1 Skullcrack
+1 Path to Exile
+2 Inspiring Vantage
+2 Sacred Foundry
+2 Boros Charm
+2 Path to Exile
+2 Mountain
+2 Rest in Peace
+2 Rift Bolt
+2 Sunbaked Canyon
+2 Monastery Swiftspear
+2 Skewer the Critics
+2 Lava Spike
+2 Goblin Guide
+2 Searing Blaze
+2 Arid Mesa
+2 Eidolon of the Great Revel
+2 Destructive Revelry
+2 Deflecting Palm
+2 Skullcrack
+3 Inspiring Vantage
+3 Boros Charm
+3 Goblin Guide
+3 Skewer the Critics
+3 Monastery Swiftspear
+3 Lava Spike
+3 Rift Bolt
+3 Eidolon of the Great Revel
+3 Searing Blaze
+3 Arid Mesa
+3 Destructive Revelry
+3 Sunbaked Canyon
+3 Skullcrack
+4 Boros Charm
+4 Lava Spike
+4 Goblin Guide
+4 Skewer the Critics
+4 Monastery Swiftspear
+4 Rift Bolt
+4 Eidolon of the Great Revel
+4 Searing Blaze
+4 Arid Mesa
+4 Destructive Revelry
+4 Skullcrack
+4 Sunbaked Canyon
+1 Forest
+2 Forest
+3 Forest
 1 Wrenn and Six
-1 Ruric Thar, the Unbowed
+1 Horizon Canopy
 1 Dryad of the Ilysian Grove
+1 Ruric Thar, the Unbowed
 1 Pillage
 1 Klothys, God of Destiny
 1 Blood Moon
 1 Bloodbraid Elf
 1 Utopia Sprawl
-1 Mountain
 1 Nahiri, the Harbinger
-1 Lightning Bolt
 1 Chandra, Torch of Defiance
 1 Arbor Elf
+1 Plains
 1 Glorybringer
 1 Inferno Titan
-2 Lightning Helix
 2 Wrenn and Six
+2 Horizon Canopy
 2 Dryad of the Ilysian Grove
 2 Pillage
 2 Stomping Ground
@@ -31,31 +94,23 @@
 2 Arbor Elf
 2 Bloodbraid Elf
 2 Blood Moon
-2 Lightning Bolt
 2 Glorybringer
-3 Lightning Helix
 3 Pillage
 3 Dryad of the Ilysian Grove
 3 Blood Moon
 3 Arbor Elf
-3 Lightning Bolt
 3 Glorybringer
 3 Bloodbraid Elf
-3 Wooded Foothills
 3 Utopia Sprawl
 4 Lightning Helix
 4 Blood Moon
 4 Pillage
-4 Lightning Bolt
 4 Bloodbraid Elf
 4 Utopia Sprawl
 4 Wooded Foothills
 4 Arbor Elf
 1 Finale of Devastation
 1 Duskwatch Recruiter
-1 Eternal Witness
-2 Finale of Devastation
-2 Eternal Witness
 1 Nissa, Who Shakes the World
 1 Questing Beast
 1 Primal Command
@@ -70,9 +125,12 @@
 1 Craterhoof Behemoth
 1 Wistful Selkie
 1 Garruk Wildspeaker
+1 Eternal Witness
 1 Genesis Wave
 1 Llanowar Elves
 1 Kessig Wolf Run
+2 Finale of Devastation
+2 Eternal Witness
 2 Nissa, Who Shakes the World
 2 Burning-Tree Emissary
 2 Elvish Mystic
@@ -92,43 +150,8 @@
 4 Burning-Tree Emissary
 4 Leyline of Abundance
 4 Llanowar Elves
-4 Elvish Mystic
 5 Forest
 6 Forest
 7 Forest
 8 Forest
-1 Shalai, Voice of Plenty
-1 Eladamri's Call
-1 Simian Spirit Guide
-1 Batterskull
-1 Devoted Druid
-1 Vizier of Remedies
-1 Flooded Strand
-1 Viridian Longbow
-1 Postmortem Lunge
-1 Stoneforge Mystic
-1 Path to Exile
-1 Misty Rainforest
-2 Plains
-2 Misty Rainforest
-2 Simian Spirit Guide
-2 Flooded Strand
-2 Devoted Druid
-2 Stoneforge Mystic
-2 Eladamri's Call
-2 Postmortem Lunge
-2 Vizier of Remedies
-3 Vizier of Remedies
-3 Temple Garden
-3 Horizon Canopy
-3 Simian Spirit Guide
-3 Devoted Druid
-3 Finale of Devastation
-3 Eladamri's Call
-3 Stoneforge Mystic
-4 Giver of Runes
-4 Horizon Canopy
-4 Eladamri's Call
-4 Devoted Druid
-4 Finale of Devastation
-4 Stoneforge Mystic
+4 Elvish Mystic
