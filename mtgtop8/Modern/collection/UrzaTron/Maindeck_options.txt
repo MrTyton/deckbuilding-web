@@ -1,20 +1,19 @@
-4 Once Upon a Time
-4 Forest
-2 Thragtusk
 1 Karn, the Great Creator
 2 Karn, the Great Creator
-1 Ugin, the Ineffable
+4 Forest
 3 Karn, the Great Creator
+1 Ugin, the Ineffable
+4 Karn, the Great Creator
 1 Chalice of the Void
 2 Chalice of the Void
 3 Chalice of the Void
 1 Everflowing Chalice
 1 Inventors' Fair
 1 Astral Cornucopia
-1 Mystic Forge
 1 Surge Node
 1 Coretapper
 1 Paradox Engine
+1 Mystic Forge
 2 Everflowing Chalice
 2 Blast Zone
 2 Mystic Forge
@@ -31,28 +30,29 @@
 4 Everflowing Chalice
 4 Chalice of the Void
 4 Surge Node
-4 Astral Cornucopia
 4 Coretapper
-4 Karn, the Great Creator
+4 Astral Cornucopia
 1 Wastes
+2 Thragtusk
+4 Oblivion Stone
 1 Snow-Covered Forest
 3 Ugin, the Ineffable
 4 Mystic Forge
+1 Relic of Progenitus
 1 Buried Ruin
 1 Emrakul, the Promised End
-1 Relic of Progenitus
 2 Relic of Progenitus
-3 Thragtusk
 1 Sea Gate Wreckage
 4 Ugin, the Ineffable
 1 Horizon Canopy
-4 Wurmcoil Engine
+1 Throne of Geth
 1 Ensnaring Bridge
 1 Spine of Ish Sah
-1 Throne of Geth
 2 Ensnaring Bridge
 1 All Is Dust
 2 Wastes
+3 Walking Ballista
+1 Gemstone Caverns
 1 Field of Ruin
 1 Tolaria West
 1 Academy Ruins
@@ -60,11 +60,11 @@
 1 Spatial Contortion
 1 Trinket Mage
 1 Remand
+1 Cyclonic Rift
 1 Thirst for Knowledge
 1 Mindslaver
 1 Repeal
 1 Condescend
-1 Cyclonic Rift
 2 Island
 2 Remand
 2 Condescend
@@ -84,7 +84,6 @@
 2 All Is Dust
 2 Reality Smasher
 2 Thought-Knot Seer
-3 Walking Ballista
 3 Reality Smasher
 3 Thought-Knot Seer
 4 Reality Smasher
@@ -93,7 +92,6 @@
 1 Nurturing Peatland
 2 Ghost Quarter
 1 Witching Well
-1 Gemstone Caverns
 1 Force of Negation
 1 Karn, Scion of Urza
 1 Solemn Simulacrum
@@ -105,8 +103,14 @@
 2 Buried Ruin
 2 Swamp
 3 Blast Zone
-3 Relic of Progenitus
+3 Thragtusk
+1 Explore
+2 Explore
+3 Ugin, the Spirit Dragon
+3 Explore
+4 Wurmcoil Engine
 1 Mox Amber
+1 Aether Spellbomb
 1 Breeding Pool
 1 Metallic Rebuke
 1 Uro, Titan of Nature's Wrath
@@ -118,51 +122,50 @@
 1 Arcum's Astrolabe
 1 Cryptic Command
 1 Emry, Lurker of the Loch
-1 Aether Spellbomb
 1 Snow-Covered Island
 1 Scalding Tarn
 1 Urza, Lord High Artificer
-1 Misty Rainforest
 1 Polluted Delta
 1 Mishra's Bauble
+1 Misty Rainforest
+2 Emry, Lurker of the Loch
 2 Engineered Explosives
 2 Metallic Rebuke
-2 Uro, Titan of Nature's Wrath
-2 Breeding Pool
 2 Gilded Goose
+2 Uro, Titan of Nature's Wrath
 2 Ice-Fang Coatl
+2 Breeding Pool
 2 Tormod's Crypt
 2 Urza, Lord High Artificer
 2 Cryptic Command
-2 Emry, Lurker of the Loch
 2 Snow-Covered Island
 2 Arcum's Astrolabe
 2 Mystic Sanctuary
+2 Scalding Tarn
 2 Mishra's Bauble
 2 Polluted Delta
-2 Scalding Tarn
 2 Misty Rainforest
 3 Scalding Tarn
+3 Emry, Lurker of the Loch
 3 Engineered Explosives
-3 Uro, Titan of Nature's Wrath
 3 Misty Rainforest
 3 Cryptic Command
 3 Gilded Goose
+3 Uro, Titan of Nature's Wrath
 3 Ice-Fang Coatl
 3 Metallic Rebuke
-3 Emry, Lurker of the Loch
 3 Arcum's Astrolabe
 3 Mishra's Bauble
 3 Snow-Covered Island
 3 Urza, Lord High Artificer
-4 Misty Rainforest
-4 Gilded Goose
-4 Scalding Tarn
-4 Ice-Fang Coatl
-4 Urza, Lord High Artificer
-4 Snow-Covered Island
 4 Emry, Lurker of the Loch
+4 Gilded Goose
+4 Misty Rainforest
+4 Ice-Fang Coatl
+4 Scalding Tarn
+4 Snow-Covered Island
 4 Mishra's Bauble
+4 Urza, Lord High Artificer
 4 Arcum's Astrolabe
 5 Snow-Covered Island
 1 Snapcaster Mage

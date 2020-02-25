@@ -1,76 +1,29 @@
-4 Gryff's Boon
+1 Swamp
 3 Favored Hoplite
 4 Favored Hoplite
 1 Forest
-1 Temple Garden
-2 Temple Garden
-3 Temple Garden
-4 Temple Garden
-1 Collected Company
-1 Scavenging Ooze
-2 Collected Company
-3 Collected Company
-1 Lovestruck Beast
-1 Llanowar Elves
-1 Elvish Mystic
-2 Llanowar Elves
-2 Lovestruck Beast
-2 Elvish Mystic
-3 Llanowar Elves
-3 Lovestruck Beast
-3 Elvish Mystic
-4 Collected Company
-4 Llanowar Elves
-1 Sunpetal Grove
-2 Sunpetal Grove
-3 Sunpetal Grove
-1 Tireless Tracker
-1 Hallowed Fountain
-1 Reflector Mage
-2 Hallowed Fountain
-2 Reflector Mage
-3 Hallowed Fountain
-4 Hallowed Fountain
-1 Voice of Resurgence
-1 Glacial Fortress
-1 Teferi, Time Raveler
-2 Glacial Fortress
-1 Uro, Titan of Nature's Wrath
-1 Botanical Sanctum
-2 Botanical Sanctum
-1 Breeding Pool
-2 Breeding Pool
-1 Spell Queller
-2 Spell Queller
-3 Spell Queller
-4 Spell Queller
-3 Botanical Sanctum
-2 Tireless Tracker
-3 Tireless Tracker
-3 Breeding Pool
-4 Botanical Sanctum
-1 Gilded Goose
-4 Lovestruck Beast
-4 Elvish Mystic
-2 Forest
-2 Uro, Titan of Nature's Wrath
 1 Overgrown Tomb
 1 Blooming Marsh
 2 Blooming Marsh
 2 Overgrown Tomb
 3 Overgrown Tomb
 3 Blooming Marsh
+1 Uro, Titan of Nature's Wrath
+1 Botanical Sanctum
+2 Botanical Sanctum
 1 Watery Grave
 2 Watery Grave
 1 Satyr Wayfinder
 2 Satyr Wayfinder
+2 Uro, Titan of Nature's Wrath
 3 Satyr Wayfinder
 4 Satyr Wayfinder
 1 Llanowar Wastes
 2 Llanowar Wastes
+3 Botanical Sanctum
 3 Watery Grave
-1 Creeping Chill
 1 Gurmag Angler
+1 Creeping Chill
 1 Haunted Dead
 1 Gather the Pack
 1 Stitcher's Supplier
@@ -78,6 +31,7 @@
 1 Narcomoeba
 1 Grisly Salvage
 1 Prized Amalgam
+2 Grisly Salvage
 2 Creeping Chill
 2 Gurmag Angler
 2 Gather the Pack
@@ -85,7 +39,6 @@
 2 Driven / Despair
 2 Narcomoeba
 2 Haunted Dead
-2 Grisly Salvage
 2 Prized Amalgam
 3 Creeping Chill
 3 Grisly Salvage
@@ -98,28 +51,68 @@
 4 Stitcher's Supplier
 4 Prized Amalgam
 4 Narcomoeba
-2 Voice of Resurgence
-2 Scavenging Ooze
-4 Breeding Pool
-3 Forest
-2 Mana Confluence
 1 Adanto Vanguard
 2 Adanto Vanguard
-3 Reflector Mage
-4 Reflector Mage
-1 Fortified Village
-1 Island
-4 Tireless Tracker
-1 Rhonas the Indomitable
-2 Teferi, Time Raveler
-3 Teferi, Time Raveler
-4 Teferi, Time Raveler
+1 Breeding Pool
+2 Breeding Pool
+2 Forest
+3 Forest
+1 Collected Company
+1 Scavenging Ooze
+2 Collected Company
+3 Collected Company
+1 Temple Garden
+2 Temple Garden
+3 Temple Garden
+4 Temple Garden
+1 Tireless Tracker
+1 Lovestruck Beast
+1 Llanowar Elves
+1 Elvish Mystic
+2 Llanowar Elves
+2 Lovestruck Beast
+2 Elvish Mystic
+3 Llanowar Elves
+3 Lovestruck Beast
+3 Elvish Mystic
+4 Collected Company
+4 Lovestruck Beast
+4 Elvish Mystic
+4 Llanowar Elves
+3 Breeding Pool
+4 Botanical Sanctum
 4 Overgrown Tomb
+1 Sunpetal Grove
+2 Sunpetal Grove
+3 Sunpetal Grove
 4 Forest
 4 Sunpetal Grove
+2 Mana Confluence
+1 Fortified Village
+1 Voice of Resurgence
+1 Hallowed Fountain
+1 Reflector Mage
+2 Hallowed Fountain
+2 Reflector Mage
+3 Hallowed Fountain
+4 Hallowed Fountain
+1 Island
+2 Tireless Tracker
+3 Tireless Tracker
+1 Rhonas the Indomitable
+1 Glacial Fortress
+1 Teferi, Time Raveler
+2 Glacial Fortress
+1 Spell Queller
+2 Teferi, Time Raveler
+2 Spell Queller
+3 Teferi, Time Raveler
+3 Spell Queller
+4 Teferi, Time Raveler
+4 Spell Queller
+7 Plains
 1 Brazen Borrower
 2 Brazen Borrower
-7 Plains
 1 Isolated Chapel
 2 Isolated Chapel
 1 Scrapheap Scrounger
@@ -131,6 +124,7 @@
 2 Thoughtseize
 3 Thoughtseize
 4 Thoughtseize
+1 Gilded Goose
 1 Drowned Catacomb
 1 Mountain
 1 Blood Crypt
@@ -141,39 +135,36 @@
 2 Assassin's Trophy
 2 Fabled Passage
 3 Fabled Passage
-1 Gideon, Ally of Zendikar
-2 Gideon, Ally of Zendikar
-3 Gideon, Ally of Zendikar
 3 Gather the Pack
 3 Gurmag Angler
+4 Gurmag Angler
 4 Gather the Pack
 4 Haunted Dead
-4 Gurmag Angler
-1 Shadowspear
 1 Bassara Tower Archer
+1 Shadowspear
 1 Unflinching Courage
 1 Gladecover Scout
-2 Shadowspear
-2 Unflinching Courage
 2 Bassara Tower Archer
 2 Gladecover Scout
+2 Shadowspear
+2 Unflinching Courage
+3 Gladecover Scout
+3 Bassara Tower Archer
 3 Mana Confluence
 3 Unflinching Courage
 3 Adanto Vanguard
-3 Bassara Tower Archer
-3 Gladecover Scout
+4 Gladecover Scout
+4 Bassara Tower Archer
 4 Adanto Vanguard
 4 Mana Confluence
 4 Unflinching Courage
-4 Gladecover Scout
-4 Bassara Tower Archer
 1 Dryad Militant
 2 Dryad Militant
-1 Ipnu Rivulet
 1 Hinterland Harbor
 1 Woodland Cemetery
 1 Ashiok, Dream Render
 1 Decimator of the Provinces
+1 Ipnu Rivulet
 2 Decimator of the Provinces
 1 Stomping Ground
 2 Stomping Ground
@@ -183,10 +174,9 @@
 2 Gods Willing
 3 Isolated Chapel
 4 Isolated Chapel
-1 Deputy of Detention
-2 Deputy of Detention
-3 Voice of Resurgence
-4 Voice of Resurgence
+2 Voice of Resurgence
+2 Scavenging Ooze
+4 Breeding Pool
 1 Grim Flayer
 1 Deathrite Shaman
 1 Nissa, Vastwood Seer
@@ -202,7 +192,11 @@
 3 Uro, Titan of Nature's Wrath
 4 Grim Flayer
 4 Deathrite Shaman
+4 Tireless Tracker
 4 Uro, Titan of Nature's Wrath
+1 Gideon, Ally of Zendikar
+2 Gideon, Ally of Zendikar
+3 Gideon, Ally of Zendikar
 3 Fatal Push
 1 Thraben Inspector
 2 Thraben Inspector
@@ -233,6 +227,8 @@
 4 Mutavault
 4 Fatal Push
 4 Knight of the Ebon Legion
+3 Reflector Mage
+4 Reflector Mage
 3 Glacial Fortress
 3 Island
 4 Glacial Fortress
@@ -244,9 +240,9 @@
 1 Dream Trawler
 1 Detention Sphere
 1 Azorius Charm
+1 Long Road Home
 1 Hero of Precinct One
 1 Dovin's Veto
-1 Long Road Home
 1 Judge's Familiar
 1 Castle Ardenvale
 2 Port Town
@@ -265,38 +261,6 @@
 4 Judge's Familiar
 1 Murderous Rider
 2 Murderous Rider
-1 Mayhem Devil
-1 Trail of Crumbs
-1 Cauldron Familiar
-1 Witch's Oven
-1 Vraska, Golgari Queen
-1 Korvold, Fae-Cursed King
-1 Sylvan Caryatid
-1 Castle Locthwain
-2 Gilded Goose
-2 Vraska, Golgari Queen
-2 Trail of Crumbs
-2 Witch's Oven
-2 Mayhem Devil
-2 Cauldron Familiar
-2 Korvold, Fae-Cursed King
-2 Sylvan Caryatid
-3 Gilded Goose
-3 Murderous Rider
-3 Witch's Oven
-3 Mayhem Devil
-3 Trail of Crumbs
-3 Cauldron Familiar
-3 Korvold, Fae-Cursed King
-3 Sylvan Caryatid
-4 Fabled Passage
-4 Mayhem Devil
-4 Cauldron Familiar
-4 Trail of Crumbs
-4 Witch's Oven
-4 Sylvan Caryatid
-4 Gilded Goose
-4 Blooming Marsh
 1 Kroxa, Titan of Death's Hunger
 1 Nicol Bolas, the Ravager
 1 Cast Down
@@ -315,9 +279,8 @@
 1 Dragonlord Kolaghan
 1 Dragonskull Summit
 1 Sulfur Falls
-2 Fetid Pools
-2 Kroxa, Titan of Death's Hunger
 2 Drowned Catacomb
+2 Kroxa, Titan of Death's Hunger
 2 Nicol Bolas, the Ravager
 2 Steam Vents
 2 Cast Down
@@ -327,6 +290,7 @@
 2 Kolaghan's Command
 2 Drown in the Loch
 2 Jace, Vryn's Prodigy
+2 Fetid Pools
 2 Dragonskull Summit
 3 Jace, Vryn's Prodigy
 3 Brazen Borrower
@@ -340,12 +304,45 @@
 4 Watery Grave
 4 Drowned Catacomb
 4 Steam Vents
+1 Mayhem Devil
+1 Cauldron Familiar
+1 Trail of Crumbs
+1 Witch's Oven
+1 Vraska, Golgari Queen
+1 Korvold, Fae-Cursed King
+1 Sylvan Caryatid
+1 Castle Locthwain
+2 Gilded Goose
+2 Vraska, Golgari Queen
+2 Witch's Oven
+2 Trail of Crumbs
+2 Mayhem Devil
+2 Cauldron Familiar
+2 Korvold, Fae-Cursed King
+2 Sylvan Caryatid
+3 Gilded Goose
+3 Murderous Rider
+3 Witch's Oven
+3 Mayhem Devil
+3 Trail of Crumbs
+3 Cauldron Familiar
+3 Korvold, Fae-Cursed King
+3 Sylvan Caryatid
+4 Mayhem Devil
+4 Cauldron Familiar
+4 Witch's Oven
+4 Trail of Crumbs
+4 Sylvan Caryatid
+4 Gilded Goose
+4 Blooming Marsh
+4 Fabled Passage
 1 Rotting Regisaur
+1 The Great Henge
 1 Bonecrusher Giant
 1 Collision / Colossus
-1 The Great Henge
 1 Gruul Spellbreaker
 1 Combat Celebrant
+2 The Great Henge
 2 Rhonas the Indomitable
 2 Rotting Regisaur
 2 Collision / Colossus
@@ -353,7 +350,6 @@
 2 Gruul Spellbreaker
 2 Mountain
 2 Combat Celebrant
-2 The Great Henge
 3 The Great Henge
 3 Rotting Regisaur
 3 Rhonas the Indomitable
@@ -367,23 +363,22 @@
 4 Mountain
 4 Stomping Ground
 1 Charming Prince
+1 Militia Bugler
 1 Dauntless Bodyguard
 1 Unbreakable Formation
-1 Militia Bugler
 1 Thalia's Lieutenant
 1 Unclaimed Territory
-1 Glint-Sleeve Siphoner
 1 Tithe Taker
 1 Elite Guardmage
 1 Declaration in Stone
 1 Elspeth, Sun's Nemesis
 1 Kitesail Freebooter
 1 Aether Hub
+1 Glint-Sleeve Siphoner
 2 Charming Prince
+2 Militia Bugler
 2 Dauntless Bodyguard
 2 Thalia's Lieutenant
-2 Militia Bugler
-2 Glint-Sleeve Siphoner
 2 Unclaimed Territory
 2 Tithe Taker
 2 Elite Guardmage
@@ -391,18 +386,19 @@
 2 Kitesail Freebooter
 2 Elspeth, Sun's Nemesis
 2 Aether Hub
+2 Glint-Sleeve Siphoner
 3 Charming Prince
-3 Thalia's Lieutenant
-3 Glint-Sleeve Siphoner
-3 Unclaimed Territory
 3 Militia Bugler
+3 Thalia's Lieutenant
+3 Unclaimed Territory
 3 Tithe Taker
 3 Kitesail Freebooter
+3 Glint-Sleeve Siphoner
 3 Aether Hub
 4 Unclaimed Territory
 4 Thalia's Lieutenant
-4 Glint-Sleeve Siphoner
 4 Kitesail Freebooter
+4 Glint-Sleeve Siphoner
 4 Aether Hub
 1 Benalish Marshal
 1 Vivien, Arkbow Ranger
@@ -444,13 +440,13 @@
 2 Witching Well
 2 Leyline of Anticipation
 2 Nykthos, Shrine to Nyx
+2 Thassa, Deep-Dwelling
 2 Agent of Treachery
 2 Gadwick, the Wizened
 2 Thassa's Oracle
 2 Thassa, God of the Sea
-2 Thassa, Deep-Dwelling
-3 Ashiok's Erasure
 3 Witching Well
+3 Ashiok's Erasure
 3 Leyline of Anticipation
 3 Gadwick, the Wizened
 3 Nykthos, Shrine to Nyx

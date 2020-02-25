@@ -22,3 +22,12 @@
 |2 [Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)|1 [Aven Mindcensor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426707)|1 [Deafening Silence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472972)|2 [Devout Decree](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466767)  |1 Elspeth Conquers Death|
 |                                                                                           |3 [Hushwing Gryff](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420685) |3 [Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)    |2 [Glare of Heresy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373691)|                        |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                         Maindeck Card                                          |*n*<sup>th</sup> copy|                                          Sideboard Card                                           |
+|--------------------:|------------------------------------------------------------------------------------------------|--------------------:|---------------------------------------------------------------------------------------------------|
+|                    1|[Gideon of the Trials](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426716) |                    1|[Gideon, Ally of Zendikar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401897)|
+|                    2|[Always Watching](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456527)      |                     |                                                                                                   |
+|                    4|[Mastery of the Unseen](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391878)|                     |                                                                                                   |
+

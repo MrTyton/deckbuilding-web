@@ -36,15 +36,19 @@
 1 Saheeli, Sublime Artificer
 1 Spire of Industry
 2 Hallowed Fountain
-2 Island
 2 Spire of Industry
+2 Island
 3 Spire of Industry
 3 Island
-4 Emry, Lurker of the Loch
 4 Spire of Industry
+4 Emry, Lurker of the Loch
 1 Tormod's Crypt
 2 Tormod's Crypt
 3 Spirebluff Canal
+2 Rosethorn Acolyte
+2 Forest
+3 Rosethorn Acolyte
+4 Veil of Summer
 1 Expedite
 1 Prophetic Prism
 1 Sacred Foundry
@@ -53,10 +57,6 @@
 2 Steam Vents
 3 Expedite
 4 Witching Well
-2 Rosethorn Acolyte
-2 Forest
-3 Rosethorn Acolyte
-4 Veil of Summer
 1 Expansion / Explosion
 1 Crash Through
 2 Crash Through
@@ -64,27 +64,27 @@
 4 Anticipate
 4 Fiery Impulse
 1 Walking Ballista
-1 Metallic Rebuke
 1 Teferi, Time Raveler
 1 Soul-Guide Lantern
+1 Metallic Rebuke
 1 Paradoxical Outcome
 1 Renegade Map
 1 Inspiring Vantage
 1 Thraben Inspector
 1 Sai, Master Thopterist
 2 Saheeli, Sublime Artificer
-2 Metallic Rebuke
 2 Teferi, Time Raveler
 2 Soul-Guide Lantern
+2 Metallic Rebuke
 2 Sai, Master Thopterist
 2 Paradoxical Outcome
 2 Renegade Map
 2 Inspiring Vantage
 2 Thraben Inspector
-3 Metallic Rebuke
 3 Paradoxical Outcome
 3 Teferi, Time Raveler
 3 Hallowed Fountain
+3 Metallic Rebuke
 3 Sai, Master Thopterist
 3 Renegade Map
 3 Thraben Inspector

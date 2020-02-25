@@ -8,39 +8,27 @@
 3 Stubborn Denial
 4 Yavimaya Coast
 4 Lovestruck Beast
-1 Hinterland Harbor
-2 Hinterland Harbor
+1 Island
+4 Elvish Mystic
+1 Brazen Borrower
+2 Brazen Borrower
 1 Hashep Oasis
 2 Hashep Oasis
 4 Stubborn Denial
 4 Nykthos, Shrine to Nyx
+2 Island
+1 Hinterland Harbor
+2 Hinterland Harbor
+3 Brazen Borrower
+3 Hashep Oasis
+4 Brazen Borrower
 1 Steel Leaf Champion
 1 Rhonas the Indomitable
 2 Steel Leaf Champion
 3 Steel Leaf Champion
 4 Steel Leaf Champion
-4 Elvish Mystic
-1 Island
-1 Brazen Borrower
-2 Brazen Borrower
-2 Island
-3 Hashep Oasis
-1 Questing Beast
-2 Rhonas the Indomitable
-3 Brazen Borrower
-4 Brazen Borrower
-1 Uro, Titan of Nature's Wrath
-1 Satyr Wayfinder
 1 Ipnu Rivulet
-2 Uro, Titan of Nature's Wrath
-2 Satyr Wayfinder
 2 Ipnu Rivulet
-3 Satyr Wayfinder
-3 Uro, Titan of Nature's Wrath
-4 Satyr Wayfinder
-4 Uro, Titan of Nature's Wrath
-2 Questing Beast
-3 Questing Beast
 1 Blast Zone
 1 Thought-Knot Seer
 1 Reality Smasher
@@ -52,6 +40,16 @@
 3 Reality Smasher
 4 Thought-Knot Seer
 4 Reality Smasher
+1 Uro, Titan of Nature's Wrath
+1 Satyr Wayfinder
+2 Uro, Titan of Nature's Wrath
+2 Satyr Wayfinder
+3 Satyr Wayfinder
+3 Uro, Titan of Nature's Wrath
+4 Satyr Wayfinder
+4 Uro, Titan of Nature's Wrath
+1 Questing Beast
+2 Rhonas the Indomitable
 1 Yorvo, Lord of Garenbrig
 1 Emrakul, the Promised End
 1 Voracious Hydra
@@ -69,15 +67,21 @@
 1 Ulamog, the Ceaseless Hunger
 1 Traverse the Ulvenwald
 1 Growth Spiral
+2 Castle Garenbrig
 2 Traverse the Ulvenwald
 2 Growth Spiral
-2 Castle Garenbrig
 3 Traverse the Ulvenwald
 3 Growth Spiral
 4 Growth Spiral
 1 Fabled Passage
 1 Nylea, God of the Hunt
 1 Nissa, Voice of Zendikar
+2 Questing Beast
+3 Questing Beast
+1 Vivien, Arkbow Ranger
+2 Vivien, Arkbow Ranger
+3 Vivien, Arkbow Ranger
+3 Heart of Kiran
 1 Ghalta, Primal Hunger
 2 Yorvo, Lord of Garenbrig
 2 Ghalta, Primal Hunger
@@ -103,12 +107,12 @@
 1 Shrine of the Forsaken Gods
 1 Arboreal Grazer
 1 Ishkanah, Grafwidow
-1 Ugin, the Spirit Dragon
 1 World Breaker
+1 Ugin, the Spirit Dragon
 1 Spring / Mind
+2 Ishkanah, Grafwidow
 2 Shrine of the Forsaken Gods
 2 Arboreal Grazer
-2 Ishkanah, Grafwidow
 2 Spring / Mind
 2 Fabled Passage
 3 Fabled Passage
@@ -119,14 +123,14 @@
 4 Courser of Kruphix
 4 Walking Ballista
 1 Voyaging Satyr
+1 Blink of an Eye
 1 Kiora, Master of the Depths
 1 Burning-Tree Emissary
-1 Blink of an Eye
 1 Nissa, Steward of Elements
+2 Voyaging Satyr
 2 Nissa, Steward of Elements
 2 Kiora, Master of the Depths
 2 Burning-Tree Emissary
-2 Voyaging Satyr
 3 Burning-Tree Emissary
 3 Voyaging Satyr
 3 Nissa, Steward of Elements
@@ -160,7 +164,6 @@
 1 Frilled Mystic
 1 Brineborn Cutthroat
 2 Essence Flux
-2 Nightpack Ambusher
 2 Dig Through Time
 2 Opt
 2 Temple of Mystery
@@ -168,6 +171,7 @@
 2 Mystical Dispute
 2 Admiral's Order
 2 Brineborn Cutthroat
+2 Nightpack Ambusher
 2 Frilled Mystic
 3 Opt
 3 Nightpack Ambusher

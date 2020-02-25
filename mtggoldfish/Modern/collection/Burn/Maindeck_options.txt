@@ -13,23 +13,22 @@
 3 Lightning Helix
 4 Lightning Helix
 1 Bloodstained Mire
-1 Wooded Foothills
 2 Bloodstained Mire
+1 Wooded Foothills
 1 Arid Mesa
 1 Skullcrack
 2 Wooded Foothills
 2 Arid Mesa
 3 Wooded Foothills
-2 Skullcrack
 3 Arid Mesa
-1 Scalding Tarn
-4 Wooded Foothills
+2 Skullcrack
 3 Bloodstained Mire
+4 Wooded Foothills
+1 Scalding Tarn
 2 Scalding Tarn
 3 Scalding Tarn
 3 Skullcrack
 4 Arid Mesa
-1 Snow-Covered Mountain
 14 Mountain
 1 Light Up the Stage
 1 Grapeshot
@@ -52,9 +51,8 @@
 4 Gut Shot
 4 Nivmagus Elemental
 4 Manamorphose
-2 Snow-Covered Mountain
-3 Snow-Covered Mountain
 4 Skullcrack
+1 Snow-Covered Mountain
 4 Fiery Islet
 1 Desperate Ritual
 2 Desperate Ritual
@@ -62,6 +60,8 @@
 4 Desperate Ritual
 1 Grim Lavamancer
 1 Shard Volley
+2 Snow-Covered Mountain
+3 Snow-Covered Mountain
 4 Scalding Tarn
 3 Ground Rift
 15 Mountain
@@ -70,8 +70,8 @@
 18 Mountain
 3 Sacred Foundry
 1 Kor Firewalker
-1 Deflecting Palm
 1 Smash to Smithereens
+1 Deflecting Palm
 1 Path to Exile
 2 Kor Firewalker
 2 Smash to Smithereens
@@ -80,6 +80,7 @@
 3 Smash to Smithereens
 4 Bloodstained Mire
 4 Kor Firewalker
+1 Chandra, Fire Artisan
 1 Seasoned Pyromancer
 2 Seasoned Pyromancer
 1 Rest in Peace

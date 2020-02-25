@@ -48,7 +48,7 @@
 |                    4|[Street Wraith](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442097)          |                    1|[Oko, Thief of Crowns](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473159)   |
 |                     |                                                                                                  |                    1|[Emrakul, the Aeons Torn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397905)|
 |                     |                                                                                                  |                    1|[Shelldock Isle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=146178)         |
-|                     |                                                                                                  |                    2|[Nihil Spellbomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442215)        |
 |                     |                                                                                                  |                    2|[Oko, Thief of Crowns](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473159)   |
+|                     |                                                                                                  |                    2|[Nihil Spellbomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442215)        |
 |                     |                                                                                                  |                    4|[Divining Witch](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=21318)          |
 

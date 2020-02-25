@@ -49,8 +49,8 @@
 2 Sakura-Tribe Elder
 2 Field of the Dead
 2 Warp World
-3 Snow-Covered Mountain
 3 Elvish Rejuvenator
+3 Snow-Covered Mountain
 3 Dryad of the Ilysian Grove
 3 Castle Garenbrig
 3 Sakura-Tribe Elder
@@ -142,22 +142,22 @@
 2 Mwonvuli Acid-Moss
 2 Thragtusk
 2 Bonfire of the Damned
-3 Bonfire of the Damned
 3 Thragtusk
+3 Bonfire of the Damned
 3 Mwonvuli Acid-Moss
 3 Stone Rain
 4 Bonfire of the Damned
 4 Pillage
 1 Dryad Arbor
-1 Vivien, Arkbow Ranger
+1 Nykthos, Shrine to Nyx
 1 Genesis Hydra
 1 Devoted Druid
-1 Nykthos, Shrine to Nyx
 1 Llanowar Tribe
 1 Burning-Tree Emissary
 1 Leyline of Abundance
 1 Oath of Nissa
 1 Elvish Mystic
+1 Vivien, Arkbow Ranger
 2 Vivien, Arkbow Ranger
 2 Leyline of Abundance
 2 Nykthos, Shrine to Nyx
@@ -167,11 +167,11 @@
 2 Llanowar Tribe
 2 Oath of Nissa
 2 Burning-Tree Emissary
-3 Vivien, Arkbow Ranger
 3 Oath of Nissa
 3 Burning-Tree Emissary
-3 Elvish Mystic
 3 Horizon Canopy
+3 Elvish Mystic
+3 Vivien, Arkbow Ranger
 3 Leyline of Abundance
 3 Nykthos, Shrine to Nyx
 3 Genesis Hydra
@@ -180,8 +180,8 @@
 4 Burning-Tree Emissary
 4 Vivien, Arkbow Ranger
 4 Nykthos, Shrine to Nyx
-1 Platinum Emperion
 1 Magmatic Sinkhole
+1 Platinum Emperion
 1 Madcap Experiment
 1 Primal Command
 2 Madcap Experiment
@@ -190,12 +190,12 @@
 4 Madcap Experiment
 3 Mountain
 1 Legion Warboss
-1 Goblin Rabblemaster
 1 Embercleave
+1 Goblin Rabblemaster
 1 Rootbound Crag
 2 Legion Warboss
-2 Goblin Rabblemaster
 2 Embercleave
+2 Goblin Rabblemaster
 3 Birds of Paradise
 3 Legion Warboss
 3 Goblin Rabblemaster
@@ -226,27 +226,27 @@
 2 Goblin Guide
 2 Grim Lavamancer
 2 Lava Spike
-2 Skewer the Critics
 2 Monastery Swiftspear
 2 Eidolon of the Great Revel
 2 Sunbaked Canyon
 2 Rift Bolt
+2 Skewer the Critics
 3 Arid Mesa
 3 Bloodstained Mire
 3 Atarka's Command
 3 Searing Blaze
 3 Eidolon of the Great Revel
 3 Rift Bolt
-3 Copperline Gorge
 3 Lava Spike
 3 Monastery Swiftspear
 3 Skewer the Critics
+3 Copperline Gorge
 3 Goblin Guide
 4 Arid Mesa
 4 Atarka's Command
 4 Searing Blaze
-4 Eidolon of the Great Revel
 4 Copperline Gorge
+4 Eidolon of the Great Revel
 4 Rift Bolt
 4 Monastery Swiftspear
 4 Skewer the Critics

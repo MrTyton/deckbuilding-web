@@ -1,18 +1,3 @@
-3 Fabled Passage
-3 Chandra, Torch of Defiance
-3 Murderous Rider
-1 Plains
-2 Plains
-3 Plains
-1 Godless Shrine
-1 Shambling Vent
-2 Godless Shrine
-3 Godless Shrine
-4 Godless Shrine
-4 Plains
-5 Plains
-1 Oath of Kaya
-1 Trial of Ambition
 1 Isolated Chapel
 1 Doom Foretold
 1 Treacherous Blessing
@@ -32,25 +17,15 @@
 4 Isolated Chapel
 4 Doom Foretold
 4 Shambling Vent
-1 Island
-1 Drowned Catacomb
-1 Watery Grave
-2 Drowned Catacomb
-2 Watery Grave
-3 Watery Grave
-4 Watery Grave
-1 Kroxa, Titan of Death's Hunger
-1 Pharika's Libation
-2 Kroxa, Titan of Death's Hunger
-1 The Birth of Meletis
-1 Kaya's Wrath
-1 Starfield of Nyx
-2 The Birth of Meletis
-2 Starfield of Nyx
-2 Kaya's Wrath
-3 Kaya's Wrath
-1 Temple of Silence
+2 Mountain
+3 Mountain
+2 Liliana, the Last Hope
+2 Kalitas, Traitor of Ghet
+1 Angrath's Rampage
+3 Fabled Passage
+5 Plains
 1 Final Payment
+1 Temple of Silence
 2 Final Payment
 3 Oath of Kaya
 1 History of Benalia
@@ -61,11 +36,46 @@
 3 History of Benalia
 4 History of Benalia
 4 Swamp
-5 Swamp
+1 Field of Ruin
+1 Aphemia, the Cacophony
+1 Tymaret Calls the Dead
+2 Tymaret Calls the Dead
+2 Temple of Silence
+2 Aphemia, the Cacophony
+3 Tymaret Calls the Dead
+3 Aphemia, the Cacophony
+3 Final Payment
+4 Aphemia, the Cacophony
+4 Final Payment
+4 Mountain
+2 Field of Ruin
+1 Island
+1 Drowned Catacomb
+1 Watery Grave
+2 Drowned Catacomb
+2 Watery Grave
+3 Watery Grave
+4 Watery Grave
+1 The Birth of Meletis
+1 Starfield of Nyx
+1 Kaya's Wrath
+2 The Birth of Meletis
+2 Kaya's Wrath
+2 Starfield of Nyx
+3 Kaya's Wrath
+1 Rakdos's Return
+1 Kroxa, Titan of Death's Hunger
+1 Pharika's Libation
+2 Kroxa, Titan of Death's Hunger
+2 Rakdos's Return
+3 Temple of Malice
 3 Castle Locthwain
-1 Thassa's Intervention
+5 Swamp
 4 Rekindling Phoenix
+1 Thassa's Intervention
 1 Vraska's Contempt
+3 Murderous Rider
+3 Chandra, Torch of Defiance
 1 Overgrown Tomb
 1 Abrupt Decay
 1 Assassin's Trophy
@@ -113,19 +123,19 @@
 1 Ugin, the Spirit Dragon
 1 Castle Garenbrig
 1 Uro, Titan of Nature's Wrath
-2 Castle Garenbrig
 2 Growth Spiral
 2 Satyr Wayfinder
 2 Yavimaya Coast
 2 Breeding Pool
 2 Arboreal Grazer
 2 Cavalier of Thorns
+2 Castle Garenbrig
 2 Uro, Titan of Nature's Wrath
 3 Uro, Titan of Nature's Wrath
 3 Satyr Wayfinder
-3 Castle Garenbrig
 3 Yavimaya Coast
 3 Breeding Pool
+3 Castle Garenbrig
 3 Cavalier of Thorns
 4 Uro, Titan of Nature's Wrath
 4 Satyr Wayfinder
@@ -171,12 +181,12 @@
 1 Goblin Rabblemaster
 2 Goblin Rabblemaster
 1 Mutavault
-1 Rix Maadi Reveler
 1 Distended Mindbender
+1 Rix Maadi Reveler
 1 Flamewake Phoenix
 2 Mutavault
-2 Rix Maadi Reveler
 2 Distended Mindbender
+2 Rix Maadi Reveler
 2 Flamewake Phoenix
 3 Flamewake Phoenix
 1 Shepherd of the Flock
@@ -209,18 +219,18 @@
 2 Abrupt Decay
 2 Goblin Dark-Dwellers
 2 Rootbound Crag
-3 Assassin's Trophy
 3 Kolaghan's Command
+3 Assassin's Trophy
 3 Blooming Marsh
 4 Blooming Marsh
-1 Sigil of the Empty Throne
 1 Torment of Hailfire
+1 Sigil of the Empty Throne
 3 The Birth of Meletis
 4 Cast Out
 4 Kaya's Wrath
+1 Questing Beast
 1 Grim Flayer
 1 Collective Brutality
-1 Questing Beast
 2 Woodland Cemetery
 2 Grim Flayer
 2 Tireless Tracker
@@ -248,8 +258,8 @@
 1 Blast Zone
 1 Commit / Memory
 1 Nissa, Vastwood Seer
-1 Ulamog, the Ceaseless Hunger
 1 World Breaker
+1 Ulamog, the Ceaseless Hunger
 2 World Breaker
 2 Grapple with the Past
 3 Growth Spiral
@@ -257,26 +267,16 @@
 4 Castle Garenbrig
 4 Cavalier of Thorns
 1 Syncopate
-1 Ashiok, Nightmare Weaver
 1 Radiant Flames
+1 Ashiok, Nightmare Weaver
 2 Sulfur Falls
 2 Syncopate
-2 Ashiok, Nightmare Weaver
 2 Radiant Flames
+2 Ashiok, Nightmare Weaver
 3 Syncopate
 3 Thassa's Intervention
 4 Dreadbore
 4 Nicol Bolas, the Ravager
-1 Aphemia, the Cacophony
-1 Tymaret Calls the Dead
-2 Tymaret Calls the Dead
-2 Temple of Silence
-2 Aphemia, the Cacophony
-3 Tymaret Calls the Dead
-3 Aphemia, the Cacophony
-3 Final Payment
-4 Aphemia, the Cacophony
-4 Final Payment
 1 Thirst for Meaning
 1 Sphinx's Revelation
 1 Temple of Deceit
@@ -290,45 +290,45 @@
 2 Teferi, Hero of Dominaria
 2 Absorb
 2 Teferi, Time Raveler
-3 Languish
 3 Teferi, Time Raveler
+3 Languish
 4 Teferi, Time Raveler
 4 Languish
 1 Charming Prince
 1 Ipnu Rivulet
 1 Deputy of Detention
-1 Agent of Treachery
-1 Chart a Course
-1 Angel of Invention
 1 Refurbish
 1 Reflector Mage
+1 Angel of Invention
 1 Supreme Verdict
+1 Chart a Course
 1 Irrigated Farmland
 1 God-Pharaoh's Gift
 1 Strategic Planning
 1 Hostile Desert
+1 Agent of Treachery
 1 Champion of Wits
 2 Ipnu Rivulet
-2 Chart a Course
+2 Deputy of Detention
 2 Reflector Mage
 2 Charming Prince
 2 Agent of Treachery
-2 Deputy of Detention
 2 Strategic Planning
 2 Supreme Verdict
 2 God-Pharaoh's Gift
 2 Champion of Wits
+2 Chart a Course
 2 Irrigated Farmland
 2 Glacial Fortress
 2 Refurbish
 2 Angel of Invention
 3 Reflector Mage
 3 Glacial Fortress
-3 Chart a Course
 3 Angel of Invention
 3 God-Pharaoh's Gift
 3 Strategic Planning
 3 Supreme Verdict
+3 Chart a Course
 3 Refurbish
 3 Champion of Wits
 4 Glacial Fortress
@@ -365,15 +365,15 @@
 4 Dig Through Time
 5 Island
 1 Sunpetal Grove
+1 Selfless Spirit
 1 Gilded Goose
+1 Voice of Resurgence
 1 Radiant Fountain
 1 Elvish Visionary
 1 Knight of Autumn
-1 Voice of Resurgence
 1 Collected Company
 1 Heliod, Sun-Crowned
 1 Chord of Calling
-1 Selfless Spirit
 1 Anafenza, Kin-Tree Spirit
 1 Llanowar Elves
 1 Elvish Mystic
@@ -383,24 +383,24 @@
 1 Fairgrounds Warden
 1 Militia Bugler
 2 Radiant Fountain
+2 Fortified Village
 2 Voice of Resurgence
 2 Collected Company
 2 Heliod, Sun-Crowned
 2 Sunpetal Grove
 2 Elvish Visionary
 2 Chord of Calling
-2 Fortified Village
 2 Militia Bugler
 2 Llanowar Elves
 2 Elvish Mystic
 2 Temple Garden
+3 Fortified Village
 3 Collected Company
 3 Sunpetal Grove
 3 Llanowar Elves
 3 Heliod, Sun-Crowned
 3 Elvish Mystic
 3 Temple Garden
-3 Fortified Village
 3 Militia Bugler
 4 Temple Garden
 4 Walking Ballista
@@ -408,11 +408,11 @@
 4 Militia Bugler
 4 Heliod, Sun-Crowned
 7 Forest
+1 Haktos the Unscarred
 1 Elspeth, Sun's Nemesis
 1 Gideon of the Trials
 1 Elspeth, Sun's Champion
 1 Nahiri, the Harbinger
-1 Haktos the Unscarred
 1 Gideon, Ally of Zendikar
 1 Anger of the Gods
 1 Settle the Wreckage
@@ -425,17 +425,17 @@
 1 Lava Coil
 2 Gideon, Ally of Zendikar
 2 Gideon of the Trials
-2 Settle the Wreckage
 2 Clifftop Retreat
-2 Haktos the Unscarred
+2 Settle the Wreckage
 2 Anger of the Gods
 2 Temple of Triumph
 2 Sacred Foundry
+2 Haktos the Unscarred
 2 Lava Coil
 2 Needle Spires
 2 Chained to the Rocks
-3 Clifftop Retreat
 3 Gideon, Ally of Zendikar
+3 Clifftop Retreat
 3 Gideon of the Trials
 3 Anger of the Gods
 3 Chained to the Rocks
