@@ -91,6 +91,11 @@
 5 Forest
 1 Nurturing Peatland
 2 Ghost Quarter
+1 Swamp
+2 Buried Ruin
+2 Swamp
+3 Blast Zone
+3 Thragtusk
 1 Witching Well
 1 Force of Negation
 1 Karn, Scion of Urza
@@ -99,11 +104,6 @@
 2 Spatial Contortion
 2 Nimble Obstructionist
 3 Remand
-1 Swamp
-2 Buried Ruin
-2 Swamp
-3 Blast Zone
-3 Thragtusk
 1 Explore
 2 Explore
 3 Ugin, the Spirit Dragon
@@ -128,7 +128,6 @@
 1 Polluted Delta
 1 Mishra's Bauble
 1 Misty Rainforest
-2 Emry, Lurker of the Loch
 2 Engineered Explosives
 2 Metallic Rebuke
 2 Gilded Goose
@@ -138,6 +137,7 @@
 2 Tormod's Crypt
 2 Urza, Lord High Artificer
 2 Cryptic Command
+2 Emry, Lurker of the Loch
 2 Snow-Covered Island
 2 Arcum's Astrolabe
 2 Mystic Sanctuary
@@ -146,7 +146,6 @@
 2 Polluted Delta
 2 Misty Rainforest
 3 Scalding Tarn
-3 Emry, Lurker of the Loch
 3 Engineered Explosives
 3 Misty Rainforest
 3 Cryptic Command
@@ -154,15 +153,16 @@
 3 Uro, Titan of Nature's Wrath
 3 Ice-Fang Coatl
 3 Metallic Rebuke
+3 Emry, Lurker of the Loch
 3 Arcum's Astrolabe
 3 Mishra's Bauble
 3 Snow-Covered Island
 3 Urza, Lord High Artificer
 4 Emry, Lurker of the Loch
 4 Gilded Goose
+4 Scalding Tarn
 4 Misty Rainforest
 4 Ice-Fang Coatl
-4 Scalding Tarn
 4 Snow-Covered Island
 4 Mishra's Bauble
 4 Urza, Lord High Artificer

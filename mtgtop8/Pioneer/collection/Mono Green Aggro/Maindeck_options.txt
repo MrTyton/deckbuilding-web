@@ -1,11 +1,3 @@
-4 Hashep Oasis
-4 Ghalta, Primal Hunger
-1 Syr Faren, the Hengehammer
-1 The Great Henge
-2 Questing Beast
-2 The Great Henge
-2 Vivien, Arkbow Ranger
-1 Nissa, Who Shakes the World
 2 Nissa, Who Shakes the World
 3 Nissa, Who Shakes the World
 3 Vivien, Arkbow Ranger
@@ -18,17 +10,33 @@
 4 Nissa, Who Shakes the World
 4 Nykthos, Shrine to Nyx
 4 Jadelight Ranger
+1 Questing Beast
+4 Hashep Oasis
+1 Syr Faren, the Hengehammer
+3 Yorvo, Lord of Garenbrig
+4 Voracious Hydra
+4 Vivien, Arkbow Ranger
 3 Surrak, the Hunt Caller
+4 Ghalta, Primal Hunger
+1 The Great Henge
+2 Questing Beast
+2 The Great Henge
 1 Walking Ballista
 2 Walking Ballista
 3 Walking Ballista
-4 Voracious Hydra
-4 Vivien, Arkbow Ranger
+1 Wolfwillow Haven
+1 Voyaging Satyr
+1 Karn, the Great Creator
+2 Wolfwillow Haven
+2 Karn, the Great Creator
+2 Voyaging Satyr
+3 Wolfwillow Haven
+3 Karn, the Great Creator
+4 Wolfwillow Haven
+4 Karn, the Great Creator
 2 Syr Faren, the Hengehammer
 3 Syr Faren, the Hengehammer
 17 Forest
-3 Rhonas the Indomitable
-3 Questing Beast
 1 Scavenging Ooze
 2 Scavenging Ooze
 1 Hydroid Krasis
@@ -46,36 +54,25 @@
 4 Hydroid Krasis
 1 Duskwatch Recruiter
 2 Duskwatch Recruiter
-3 Castle Garenbrig
-4 Castle Garenbrig
 4 Surrak, the Hunt Caller
-1 Wolfwillow Haven
-1 Voyaging Satyr
-1 Karn, the Great Creator
-2 Wolfwillow Haven
-2 Karn, the Great Creator
-2 Voyaging Satyr
-3 Wolfwillow Haven
-3 Karn, the Great Creator
-4 Wolfwillow Haven
-4 Karn, the Great Creator
-1 Rogue's Passage
-4 Questing Beast
 4 Walking Ballista
+3 Rhonas the Indomitable
+3 Questing Beast
 3 Botanical Sanctum
 4 Botanical Sanctum
 1 Gilded Goose
 2 Gilded Goose
-4 Yorvo, Lord of Garenbrig
+3 Castle Garenbrig
+4 Castle Garenbrig
 1 Cavalier of Thorns
 1 Arch of Orazca
 1 Ulamog, the Ceaseless Hunger
 1 Ugin, the Spirit Dragon
 1 Arboreal Grazer
 1 Nissa's Pilgrimage
+1 Sanctum of Ugin
 1 Shrine of the Forsaken Gods
 1 Elvish Rejuvenator
-1 Sanctum of Ugin
 1 Blast Zone
 1 Radiant Fountain
 2 Elvish Rejuvenator
@@ -151,7 +148,10 @@
 3 Avatar of the Resolute
 4 Experiment One
 4 Barkhide Troll
+4 Yorvo, Lord of Garenbrig
 4 Avatar of the Resolute
+1 Rogue's Passage
+4 Questing Beast
 1 Growth-Chamber Guardian
 1 Nullhide Ferox
 1 Carnage Tyrant
@@ -162,9 +162,9 @@
 3 Nullhide Ferox
 4 Growth-Chamber Guardian
 4 Nullhide Ferox
-1 Oblivion Sower
 1 Ulvenwald Hydra
 1 World Breaker
+1 Oblivion Sower
 2 Oblivion Sower
 2 Ulamog, the Ceaseless Hunger
 2 World Breaker
@@ -207,19 +207,15 @@
 4 Llanowar Wastes
 4 Overgrown Tomb
 4 Blooming Marsh
-2 Rogue's Passage
-3 Rogue's Passage
-4 Rhonas the Indomitable
-4 Rogue's Passage
 3 The Great Henge
 18 Forest
 1 Fabled Passage
-1 Ramunap Excavator
+1 Courser of Kruphix
 1 Evolving Wilds
 1 Wayward Swordtooth
 1 Sylvan Advocate
+1 Ramunap Excavator
 1 Cryptic Caves
-1 Courser of Kruphix
 2 Fabled Passage
 2 Courser of Kruphix
 2 Evolving Wilds
@@ -232,8 +228,8 @@
 3 Courser of Kruphix
 3 Sylvan Advocate
 4 Mutavault
-4 Fabled Passage
 4 Gilded Goose
+4 Fabled Passage
 4 Tireless Tracker
 4 Wayward Swordtooth
 4 Sylvan Advocate

@@ -1,17 +1,17 @@
-1 Isolated Chapel
+1 Trial of Ambition
 1 Doom Foretold
 1 Treacherous Blessing
 2 Oath of Kaya
-2 Trial of Ambition
 2 Isolated Chapel
 2 Doom Foretold
+2 Trial of Ambition
 2 Treacherous Blessing
 2 Shambling Vent
-3 Trial of Ambition
 3 Shambling Vent
 3 Treacherous Blessing
 3 Isolated Chapel
 3 Doom Foretold
+3 Trial of Ambition
 4 Trial of Ambition
 4 Treacherous Blessing
 4 Isolated Chapel
@@ -202,23 +202,23 @@
 3 Vessel of Nascency
 4 Hinterland Harbor
 4 Arboreal Grazer
-1 Search for Azcanta
 1 Tyrant's Scorn
+1 Search for Azcanta
 1 Erebos's Intervention
 1 Steam Vents
 2 Tyrant's Scorn
 2 Steam Vents
 3 Steam Vents
 4 Jace, Vryn's Prodigy
-1 Blooming Marsh
-1 Stomping Ground
-1 Goblin Dark-Dwellers
 1 Rootbound Crag
-2 Stomping Ground
+1 Stomping Ground
+1 Blooming Marsh
+1 Goblin Dark-Dwellers
 2 Blooming Marsh
 2 Abrupt Decay
-2 Goblin Dark-Dwellers
 2 Rootbound Crag
+2 Stomping Ground
+2 Goblin Dark-Dwellers
 3 Kolaghan's Command
 3 Assassin's Trophy
 3 Blooming Marsh
@@ -269,8 +269,8 @@
 1 Syncopate
 1 Radiant Flames
 1 Ashiok, Nightmare Weaver
-2 Sulfur Falls
 2 Syncopate
+2 Sulfur Falls
 2 Radiant Flames
 2 Ashiok, Nightmare Weaver
 3 Syncopate
@@ -365,6 +365,7 @@
 4 Dig Through Time
 5 Island
 1 Sunpetal Grove
+1 Alseid of Life's Bounty
 1 Selfless Spirit
 1 Gilded Goose
 1 Voice of Resurgence
@@ -379,7 +380,6 @@
 1 Elvish Mystic
 1 Fortified Village
 1 Temple Garden
-1 Alseid of Life's Bounty
 1 Fairgrounds Warden
 1 Militia Bugler
 2 Radiant Fountain

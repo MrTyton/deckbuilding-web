@@ -1,42 +1,62 @@
-1 Thoughtseize
-2 Thoughtseize
-2 Brain Maggot
-3 Brain Maggot
 1 Rest in Peace
 2 Rest in Peace
+2 Brain Maggot
+3 Brain Maggot
+1 Thoughtseize
+2 Thoughtseize
 1 Grafdigger's Cage
 1 Baffling End
 2 Baffling End
+1 Damping Sphere
+2 Damping Sphere
+1 Kalitas, Traitor of Ghet
+2 Kalitas, Traitor of Ghet
+1 Devout Decree
+1 Doom Blade
+1 Agonizing Remorse
+1 Cast Down
+1 Glare of Heresy
+1 Elspeth Conquers Death
+2 Devout Decree
+2 Agonizing Remorse
 1 Leyline of Sanctity
 2 Leyline of Sanctity
 3 Leyline of Sanctity
 1 Mystical Dispute
 3 Thoughtseize
-1 Assassin's Trophy
 1 Fatal Push
 2 Fatal Push
-1 Damping Sphere
-2 Damping Sphere
-2 Assassin's Trophy
-1 Leyline of the Void
-2 Leyline of the Void
-3 Leyline of the Void
+1 Duress
 1 Disdainful Stroke
 2 Disdainful Stroke
-1 Noxious Grasp
-2 Noxious Grasp
+1 Deputy of Detention
+2 Deputy of Detention
 2 Mystical Dispute
-1 Kalitas, Traitor of Ghet
+1 Assassin's Trophy
+2 Assassin's Trophy
+1 Dromoka's Command
 1 Unmoored Ego
-1 Duress
-2 Kalitas, Traitor of Ghet
+1 Kunoros, Hound of Athreos
+1 Lyra Dawnbringer
+1 Gideon, Ally of Zendikar
+1 Lavinia, Azorius Renegade
+2 Gideon, Ally of Zendikar
 1 Collective Brutality
 1 Foul-Tongue Invocation
-1 Silumgar's Scorn
 1 Anger of the Gods
+1 Silumgar's Scorn
 1 Legion's End
 2 Legion's End
 2 Collective Brutality
+1 Unbreakable Formation
+1 Kambal, Consul of Allocation
+1 Spell Queller
+1 Knight of Autumn
+1 Phyrexian Revoker
+2 Spell Queller
+2 Kambal, Consul of Allocation
+2 Knight of Autumn
+2 Phyrexian Revoker
 1 Reclamation Sage
 1 Ashiok, Dream Render
 1 Distended Mindbender
@@ -45,49 +65,31 @@
 1 Mystic Repeal
 2 Ashiok, Dream Render
 2 Mystic Repeal
-1 Dromoka's Command
-1 Gideon, Ally of Zendikar
-1 Lavinia, Azorius Renegade
-1 Deputy of Detention
-2 Gideon, Ally of Zendikar
-2 Deputy of Detention
-1 Kunoros, Hound of Athreos
-1 Devout Decree
-1 Doom Blade
-1 Agonizing Remorse
-1 Cast Down
 1 Kaya, Orzhov Usurper
 1 Arguel's Blood Fast
-1 Glare of Heresy
-1 Elspeth Conquers Death
-2 Devout Decree
-2 Agonizing Remorse
 2 Glare of Heresy
+1 Trial of Ambition
 1 Shepherd of the Flock
 1 Orzhov Charm
-1 Tymaret, Chosen from Death
 1 Tomik, Distinguished Advokist
+1 Tymaret, Chosen from Death
 1 Order of Midnight
 1 Mire's Grasp
-1 Trial of Ambition
 2 Trial of Ambition
 2 Tomik, Distinguished Advokist
 3 Trial of Ambition
 3 Rest in Peace
+1 Declaration in Stone
 1 Heliod, Sun-Crowned
 1 Walking Ballista
-1 Declaration in Stone
-1 Eidolon of Rhetoric
-1 Fairgrounds Warden
 1 Shapers' Sanctuary
+1 Fairgrounds Warden
+1 Eidolon of Rhetoric
 1 Fiendslayer Paladin
 2 Declaration in Stone
 2 Shapers' Sanctuary
 2 Dromoka's Command
 3 Dromoka's Command
-1 Abrupt Decay
-2 Abrupt Decay
-3 Fatal Push
 3 Mystical Dispute
 1 Teferi, Time Raveler
 1 Reflector Mage
@@ -99,19 +101,6 @@
 2 Detention Sphere
 2 Aether Gust
 3 Detention Sphere
-1 Scavenging Ooze
-1 Combat Celebrant
-1 Gruul Spellbreaker
-1 Heroic Intervention
-1 Fry
-2 Scavenging Ooze
-2 Combat Celebrant
-2 Gruul Spellbreaker
-2 Fry
-2 Reclamation Sage
-2 Heroic Intervention
-3 Scavenging Ooze
-3 Reclamation Sage
 1 Dryad Militant
 1 Long Road Home
 1 Surge of Righteousness
@@ -120,15 +109,21 @@
 2 Surge of Righteousness
 3 Dryad Militant
 3 Surge of Righteousness
-1 Languish
-1 Blightbeetle
-2 Languish
-2 Blightbeetle
-3 Blightbeetle
-4 Leyline of the Void
+1 Arashin Cleric
+1 Erase
+1 Brave the Elements
+1 Disenchant
+1 Sin Collector
+2 Kunoros, Hound of Athreos
+2 Sin Collector
+2 Disenchant
+2 Brave the Elements
+3 Sin Collector
+1 Noxious Grasp
 1 Yahenni's Expertise
 2 Duress
 2 Yahenni's Expertise
+2 Noxious Grasp
 2 Unmoored Ego
 3 Disdainful Stroke
 4 Disdainful Stroke
@@ -140,15 +135,9 @@
 2 Warbriar Blessing
 2 Natural State
 4 Leyline of Sanctity
-1 Unbreakable Formation
-1 Arashin Cleric
-1 Kambal, Consul of Allocation
-1 Erase
-1 Brave the Elements
-1 Disenchant
-1 Sin Collector
-2 Kunoros, Hound of Athreos
-2 Sin Collector
-2 Disenchant
-2 Brave the Elements
-3 Sin Collector
+1 Abrupt Decay
+1 Leyline of the Void
+2 Abrupt Decay
+2 Leyline of the Void
+3 Fatal Push
+3 Leyline of the Void
