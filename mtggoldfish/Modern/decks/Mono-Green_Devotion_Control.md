@@ -26,22 +26,3 @@
 |1 [Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)      |                                                                                             |                                                                                      |                                                                                           |
 |1 [Trinisphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=43545)          |                                                                                             |                                                                                      |                                                                                           |
 
-
-# Other Options
-
-|*n*<sup>th</sup> copy|                                       Maindeck Card                                        |*n*<sup>th</sup> copy|                                      Sideboard Card                                      |
-|--------------------:|--------------------------------------------------------------------------------------------|--------------------:|------------------------------------------------------------------------------------------|
-|                    1|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)           |                    1|[Wurmcoil Engine](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389756)|
-|                    1|[Birds of Paradise](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129906)|                    1|[Primal Command](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220571) |
-|                    2|[Birds of Paradise](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129906)|                     |                                                                                          |
-|                    2|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)           |                     |                                                                                          |
-|                    3|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)           |                     |                                                                                          |
-|                    3|[Birds of Paradise](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129906)|                     |                                                                                          |
-|                    3|[Trinisphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=43545)       |                     |                                                                                          |
-|                    4|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)           |                     |                                                                                          |
-|                    5|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)           |                     |                                                                                          |
-|                    6|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)           |                     |                                                                                          |
-|                    8|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)           |                     |                                                                                          |
-|                    9|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)           |                     |                                                                                          |
-|                    7|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)           |                     |                                                                                          |
-

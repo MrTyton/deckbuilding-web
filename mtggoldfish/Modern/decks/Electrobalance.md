@@ -24,13 +24,22 @@
 
 # Other Options
 
-|*n*<sup>th</sup> copy|Maindeck Card|*n*<sup>th</sup> copy|                                       Sideboard Card                                       |
-|---------------------|-------------|--------------------:|--------------------------------------------------------------------------------------------|
-|                     |             |                    1|[Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020) |
-|                     |             |                    2|[Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020) |
-|                     |             |                    1|[Pithing Needle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129526)   |
-|                     |             |                    3|[Fry](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466894)              |
-|                     |             |                    1|[Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452)|
-|                     |             |                    3|[Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020) |
-|                     |             |                    3|[Shattering Spree](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456224) |
+|*n*<sup>th</sup> copy|                                        Maindeck Card                                         |*n*<sup>th</sup> copy|                                         Sideboard Card                                         |
+|--------------------:|----------------------------------------------------------------------------------------------|--------------------:|------------------------------------------------------------------------------------------------|
+|                    1|[Dreadhorde Arcanist](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461052)|                    1|[Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)     |
+|                    1|[Thought Scour](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=380203)      |                    2|[Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)     |
+|                    1|[Flooded Strand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405098)     |                    1|[Pithing Needle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129526)       |
+|                    1|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)             |                    3|[Fry](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466894)                  |
+|                    1|[Stomping Ground](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405110)    |                    1|[Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452)    |
+|                    2|[Dreadhorde Arcanist](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461052)|                    1|[Torpor Orb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=233069)           |
+|                    2|[Finale of Promise](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461054)  |                    1|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)  |
+|                    2|[Thought Scour](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=380203)      |                    1|[Ceremonious Rejection](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417613)|
+|                    2|[Flooded Strand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405098)     |                    1|[Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)               |
+|                     |                                                                                              |                    1|[Ancient Grudge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=235600)       |
+|                     |                                                                                              |                    1|[Ashiok, Dream Render](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461155) |
+|                     |                                                                                              |                    1|[Dragon's Claw](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129527)        |
+|                     |                                                                                              |                    2|[Ceremonious Rejection](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417613)|
+|                     |                                                                                              |                    2|[Dragon's Claw](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129527)        |
+|                     |                                                                                              |                    3|[Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)     |
+|                     |                                                                                              |                    3|[Shattering Spree](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456224)     |
 

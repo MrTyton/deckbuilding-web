@@ -34,8 +34,8 @@
 
 |*n*<sup>th</sup> copy|                                          Maindeck Card                                           |*n*<sup>th</sup> copy|                                      Sideboard Card                                      |
 |--------------------:|--------------------------------------------------------------------------------------------------|--------------------:|------------------------------------------------------------------------------------------|
-|                    3|[Oko, Thief of Crowns](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473159)   |                    1|[Flusterstorm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=228255)   |
-|                    1|[Gurmag Angler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391850)          |                    1|[Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952) |
+|                    3|[Oko, Thief of Crowns](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473159)   |                    1|[Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952) |
+|                    1|[Gurmag Angler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391850)          |                    1|[Flusterstorm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=228255)   |
 |                    1|[Liliana's Triumph](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461025)      |                    1|[Pyroblast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=4083)        |
 |                    1|[Narset, Parter of Veils](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460988)|                    1|[Brazen Borrower](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473001)|
 |                    1|[Lightning Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=806)            |                    1|[Hydroblast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3915)       |

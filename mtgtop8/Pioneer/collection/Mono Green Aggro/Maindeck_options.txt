@@ -25,8 +25,8 @@
 2 Walking Ballista
 3 Walking Ballista
 1 Wolfwillow Haven
-1 Voyaging Satyr
 1 Karn, the Great Creator
+1 Voyaging Satyr
 2 Wolfwillow Haven
 2 Karn, the Great Creator
 2 Voyaging Satyr
@@ -107,14 +107,14 @@
 1 Shifting Ceratops
 1 Thrashing Brontodon
 2 Shifting Ceratops
-1 Sylvan Caryatid
-2 Sylvan Caryatid
-3 Scavenging Ooze
 1 Blossoming Defense
 1 Vine Mare
 2 Blossoming Defense
 2 Vine Mare
 3 Duskwatch Recruiter
+1 Sylvan Caryatid
+2 Sylvan Caryatid
+3 Scavenging Ooze
 1 Golos, Tireless Pilgrim
 1 Cascading Cataracts
 1 Scavenger Grounds
@@ -131,15 +131,10 @@
 3 Perilous Vault
 3 Spatial Contortion
 4 Radiant Fountain
-1 Merfolk Branchwalker
-2 Merfolk Branchwalker
-3 Merfolk Branchwalker
-4 Yavimaya Coast
-4 Merfolk Branchwalker
 1 Experiment One
 1 Barkhide Troll
-1 Avatar of the Resolute
 1 Renegade Krasis
+1 Avatar of the Resolute
 2 Experiment One
 2 Barkhide Troll
 2 Avatar of the Resolute
@@ -150,6 +145,11 @@
 4 Barkhide Troll
 4 Yorvo, Lord of Garenbrig
 4 Avatar of the Resolute
+1 Merfolk Branchwalker
+2 Merfolk Branchwalker
+3 Merfolk Branchwalker
+4 Yavimaya Coast
+4 Merfolk Branchwalker
 1 Rogue's Passage
 4 Questing Beast
 1 Growth-Chamber Guardian
@@ -223,8 +223,8 @@
 2 Sylvan Advocate
 2 Ramunap Excavator
 3 Mutavault
-3 Wayward Swordtooth
 3 Fabled Passage
+3 Wayward Swordtooth
 3 Courser of Kruphix
 3 Sylvan Advocate
 4 Mutavault

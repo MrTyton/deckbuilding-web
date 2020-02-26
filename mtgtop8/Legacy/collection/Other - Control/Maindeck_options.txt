@@ -1,9 +1,65 @@
 4 Hymn to Tourach
+1 Misty Rainforest
+1 Snow-Covered Forest
+1 Tropical Island
+1 Taiga
+1 Punishing Fire
+1 Grove of the Burnwillows
+1 Badlands
+1 Dack Fayden
+1 Shenanigans
+1 Abrade
+1 Gilded Goose
+1 Wurmcoil Engine
+1 Liquimetal Coating
+1 Volcanic Island
+1 Kolaghan's Command
+1 Goblin Welder
+1 Scalding Tarn
+1 Sword of Sinew and Steel
+1 Wooded Foothills
+1 Goblin Engineer
+1 Smuggler's Copter
+1 Reclamation Sage
+1 Great Furnace
+1 Embereth Shieldbreaker
+1 Daretti, Ingenious Iconoclast
+1 Life from the Loam
+1 Tin Street Hooligan
+1 Faithless Looting
+2 Grove of the Burnwillows
+2 Punishing Fire
+2 Taiga
+2 Gilded Goose
+2 Reclamation Sage
+2 Abrade
+2 Embereth Shieldbreaker
+2 Wooded Foothills
+2 Liquimetal Coating
+2 Dack Fayden
+2 Goblin Welder
+2 Smuggler's Copter
+2 Scalding Tarn
+2 Great Furnace
+2 Faithless Looting
+2 Goblin Engineer
+2 Tin Street Hooligan
+2 Kolaghan's Command
+3 Wooded Foothills
+3 Grove of the Burnwillows
+3 Dack Fayden
+3 Liquimetal Coating
+3 Tin Street Hooligan
+3 Goblin Welder
+3 Goblin Engineer
+4 Wooded Foothills
+4 Goblin Engineer
+4 Liquimetal Coating
+4 Tin Street Hooligan
 1 Fatal Push
 2 Fatal Push
 1 Underground Sea
 1 Snow-Covered Swamp
-1 Misty Rainforest
 1 Narset, Parter of Veils
 1 Polluted Delta
 1 Gurmag Angler
@@ -25,21 +81,21 @@
 2 Underground Sea
 2 Baleful Strix
 2 Force of Will
-2 Snow-Covered Swamp
 2 Ponder
 2 Snow-Covered Island
 2 Snapcaster Mage
 2 Brainstorm
 2 Leyline of the Void
 2 Prismatic Vista
+2 Snow-Covered Swamp
 2 Jace, the Mind Sculptor
 3 Snapcaster Mage
 3 Baleful Strix
 3 Force of Will
-3 Prismatic Vista
 3 Underground Sea
-3 Brainstorm
 3 Snow-Covered Swamp
+3 Brainstorm
+3 Prismatic Vista
 3 Ponder
 3 Leyline of the Void
 4 Leyline of the Void
@@ -49,24 +105,17 @@
 4 Brainstorm
 4 Ponder
 1 Bojuka Bog
-1 Ancient Tomb
-1 Chalice of the Void
-2 Ancient Tomb
-2 Chalice of the Void
-3 Ancient Tomb
-3 Chalice of the Void
-4 Chalice of the Void
 1 Dryad of the Ilysian Grove
-1 Snow-Covered Forest
-1 Tropical Island
 1 Polukranos, Unchained
 1 Waterlogged Grove
 1 Titania, Protector of Argoth
 1 Assassin's Trophy
+1 Ancient Tomb
 1 Scavenging Ooze
 1 Oko, Thief of Crowns
-1 Ramunap Excavator
 1 Trinisphere
+1 Ramunap Excavator
+1 Chalice of the Void
 1 Ghost Quarter
 1 Sylvan Library
 1 Dryad Arbor
@@ -79,16 +128,21 @@
 1 Green Sun's Zenith
 2 Misty Rainforest
 2 Snow-Covered Forest
+2 Ancient Tomb
 2 Oko, Thief of Crowns
+2 Chalice of the Void
 2 Trinisphere
 2 Green Sun's Zenith
 2 Sylvan Library
 2 Mox Diamond
 3 Oko, Thief of Crowns
+3 Ancient Tomb
+3 Chalice of the Void
+3 Trinisphere
 3 Sylvan Library
 3 Green Sun's Zenith
 3 Mox Diamond
-3 Trinisphere
+4 Chalice of the Void
 4 Sylvan Library
 4 Mox Diamond
 4 Green Sun's Zenith
@@ -117,56 +171,3 @@
 7 Swamp
 8 Swamp
 9 Swamp
-1 Mountain
-1 Blood Moon
-1 Abrade
-1 Crystal Vein
-1 Drakuseth, Maw of Flames
-1 Glorybringer
-1 Bogardan Hellkite
-1 Sneak Attack
-1 Simian Spirit Guide
-1 Thundermaw Hellkite
-1 Seething Song
-1 Fiery Confluence
-1 Nicol Bolas
-1 Zirilan of the Claw
-1 Steel Hellkite
-1 Chandra, Awakened Inferno
-1 Chrome Mox
-1 Malfegor
-1 Thunder Dragon
-1 City of Traitors
-1 Grim Monolith
-1 Dragon Tyrant
-2 Chrome Mox
-2 Fiery Confluence
-2 Blood Moon
-2 Mountain
-2 Crystal Vein
-2 Simian Spirit Guide
-2 City of Traitors
-2 Seething Song
-2 Grim Monolith
-2 Sneak Attack
-2 Zirilan of the Claw
-2 Glorybringer
-3 Fiery Confluence
-3 Grim Monolith
-3 Mountain
-3 Sneak Attack
-3 Blood Moon
-3 Simian Spirit Guide
-3 Zirilan of the Claw
-4 Zirilan of the Claw
-4 Blood Moon
-4 Ancient Tomb
-4 Simian Spirit Guide
-4 Mountain
-5 Mountain
-6 Mountain
-7 Mountain
-8 Mountain
-9 Mountain
-10 Mountain
-11 Mountain

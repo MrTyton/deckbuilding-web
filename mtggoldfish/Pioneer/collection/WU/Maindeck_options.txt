@@ -1,10 +1,10 @@
-3 Port Town
-1 Dryad Militant
-1 Archangel Avacyn
-2 Archangel Avacyn
-2 Dryad Militant
-3 Dryad Militant
 3 Spell Queller
+3 Dryad Militant
+1 Tomik, Distinguished Advokist
+1 Ojutai's Command
+2 Tomik, Distinguished Advokist
+2 Ojutai's Command
+3 Port Town
 1 Supreme Verdict
 1 Castle Ardenvale
 1 Island
@@ -20,7 +20,6 @@
 4 Supreme Verdict
 1 Field of Ruin
 1 Detention Sphere
-1 Censor
 1 Absorb
 2 Castle Ardenvale
 2 Absorb
@@ -30,25 +29,32 @@
 5 Island
 1 Geier Reach Sanitarium
 1 Narset, Parter of Veils
-2 Censor
 2 Dig Through Time
-3 Censor
 1 Opt
-1 Commit/Memory
-1 Dovin's Veto
 2 Narset, Parter of Veils
-2 Dovin's Veto
 2 Opt
 3 Opt
 4 Opt
 1 Gideon of the Trials
-2 Castle Vantress
 1 Thassa's Intervention
-1 Syncopate
 1 Cast Out
-2 Detention Sphere
 1 Elspeth, Sun's Champion
+1 Censor
 1 Seal Away
+4 Azorius Charm
+2 Censor
+3 Censor
+1 Blessed Alliance
+2 Thassa's Intervention
+2 Cast Out
+6 Island
+2 Castle Vantress
+1 Commit/Memory
+1 Dovin's Veto
+2 Dovin's Veto
+1 Syncopate
+2 Detention Sphere
+1 Dream Trawler
 1 Elspeth, Sun's Nemesis
 2 Field of Ruin
 2 Seal Away
@@ -57,14 +63,11 @@
 1 Declaration in Stone
 1 Settle the Wreckage
 1 Torrential Gearhulk
-1 Blessed Alliance
 1 Fabled Passage
 1 Approach of the Second Sun
 1 Blast Zone
-2 Thassa's Intervention
 2 Blessed Alliance
 2 Fabled Passage
-2 Cast Out
 2 Gideon of the Trials
 3 Blessed Alliance
 1 Elspeth Conquers Death
@@ -72,7 +75,6 @@
 2 Elspeth, Sun's Champion
 3 Teferi, Hero of Dominaria
 3 Dig Through Time
-4 Azorius Charm
 4 Censor
 1 Omen of the Sea
 1 Search for Azcanta
@@ -88,5 +90,4 @@
 2 Myth Realized
 3 Myth Realized
 4 Myth Realized
-6 Island
 7 Island

@@ -1,29 +1,31 @@
+1 Electrolyze
+2 Glacial Fortress
+3 Archmage's Charm
+2 Ancestral Vision
+1 Mana Leak
+4 Snow-Covered Island
 1 Opt
 2 Opt
 1 Arid Mesa
+2 Narset, Parter of Veils
 1 Teferi, Time Raveler
 2 Teferi, Time Raveler
 3 Teferi, Time Raveler
 1 Force of Negation
-1 Arcum's Astrolabe
-2 Arcum's Astrolabe
-3 Arcum's Astrolabe
-4 Arcum's Astrolabe
 1 Spirebluff Canal
 2 Spirebluff Canal
-2 Narset, Parter of Veils
 3 Spirebluff Canal
 4 Spirebluff Canal
 1 Island
 1 Mountain
+1 Fiery Islet
 1 Tolaria West
+1 Electrodominance
 1 Greater Gargadon
 1 Crashing Footfalls
-1 Electrodominance
 1 Restore Balance
 1 As Foretold
 1 Gemstone Caverns
-1 Fiery Islet
 1 Simian Spirit Guide
 1 Chalice of the Void
 2 Tolaria West
@@ -34,74 +36,91 @@
 2 Electrodominance
 2 Simian Spirit Guide
 2 Chalice of the Void
+3 Ancestral Vision
 3 Greater Gargadon
 3 As Foretold
 3 Crashing Footfalls
 3 Electrodominance
 3 Restore Balance
-3 Ancestral Vision
 3 Tolaria West
 3 Chalice of the Void
 3 Simian Spirit Guide
 4 Restore Balance
+4 Ancestral Vision
 4 As Foretold
 4 Crashing Footfalls
 4 Electrodominance
-4 Greater Gargadon
-4 Chalice of the Void
 4 Tolaria West
+4 Chalice of the Void
 4 Simian Spirit Guide
-4 Ancestral Vision
-2 Arid Mesa
-1 Mana Leak
+4 Greater Gargadon
+3 Field of Ruin
 2 Mana Leak
+2 Arid Mesa
 1 Omen of the Sea
 1 Saheeli Rai
 1 Felidar Guardian
 2 Omen of the Sea
+2 Felidar Guardian
 2 Saheeli Rai
 2 Force of Negation
-2 Felidar Guardian
 3 Felidar Guardian
 3 Saheeli Rai
 4 Felidar Guardian
 4 Serum Visions
 1 Celestial Colonnade
 1 Batterskull
-1 Sword of Feast and Famine
 1 Spell Queller
+1 Sword of Feast and Famine
 1 Stoneforge Mystic
-2 Stoneforge Mystic
 2 Spell Queller
+2 Stoneforge Mystic
 3 Stoneforge Mystic
 4 Stoneforge Mystic
 3 Opt
 4 Opt
-4 Lightning Helix
-4 Snow-Covered Island
+1 Polluted Delta
+2 Mystic Sanctuary
+2 Polluted Delta
+1 Metallic Rebuke
+1 Urza, Lord High Artificer
+1 Engineered Explosives
+1 Emry, Lurker of the Loch
+1 Mox Amber
+1 Mishra's Bauble
+2 Metallic Rebuke
+2 Emry, Lurker of the Loch
+2 Urza, Lord High Artificer
+2 Mishra's Bauble
+2 Mox Amber
+3 Mox Amber
+3 Emry, Lurker of the Loch
+3 Mishra's Bauble
+3 Metallic Rebuke
+3 Urza, Lord High Artificer
+4 Emry, Lurker of the Loch
+4 Mishra's Bauble
+4 Urza, Lord High Artificer
 3 Arid Mesa
+4 Lightning Helix
 2 Electrolyze
-2 Sulfur Falls
 1 Fires of Invention
 1 Claws of Gix
 1 Wheel of Fate
 2 Fires of Invention
+2 Sulfur Falls
 1 Brazen Borrower
 2 Snow-Covered Plains
 3 Omen of the Sea
-3 Field of Ruin
 1 Izzet Charm
 1 Finale of Promise
 2 Izzet Charm
 2 Finale of Promise
 3 Finale of Promise
 3 Izzet Charm
-1 Polluted Delta
 1 Magmatic Sinkhole
 1 Monastery Mentor
-2 Mystic Sanctuary
 2 Monastery Mentor
-2 Polluted Delta
 3 Mystic Sanctuary
 3 Polluted Delta
 3 Monastery Mentor
@@ -118,13 +137,13 @@
 1 Giver of Runes
 2 Celestial Colonnade
 2 Spell Pierce
-2 Sacred Foundry
 2 Inspiring Vantage
 2 Geist of Saint Traft
+2 Sacred Foundry
 2 Giver of Runes
+3 Spell Queller
 3 Inspiring Vantage
 3 Giver of Runes
-3 Spell Queller
 4 Inspiring Vantage
 4 Arid Mesa
 4 Spell Queller
@@ -146,39 +165,38 @@
 4 Manamorphose
 4 Thought Scour
 4 Pyromancer Ascension
-1 Chromatic Star
+1 Witching Well
+1 Tormod's Crypt
+1 Thopter Foundry
+1 Jeskai Ascendancy
+1 Aether Spellbomb
+1 Goblin Engineer
+1 Ensnaring Bridge
+1 Sword of the Meek
+1 Whir of Invention
+1 Saheeli, Sublime Artificer
+2 Thopter Foundry
+2 Goblin Engineer
+2 Jeskai Ascendancy
+2 Whir of Invention
+3 Thopter Foundry
+3 Jeskai Ascendancy
+4 Jeskai Ascendancy
 1 Prismatic Vista
+1 Sai, Master Thopterist
 1 Thassa's Oracle
 1 Noxious Revival
-1 Mox Amber
-1 Sai, Master Thopterist
-1 Emry, Lurker of the Loch
-1 Metallic Rebuke
 1 Underworld Breach
 1 Grinding Station
-1 Urza, Lord High Artificer
-1 Engineered Explosives
-1 Mishra's Bauble
-2 Grinding Station
-2 Metallic Rebuke
-2 Underworld Breach
-2 Emry, Lurker of the Loch
-2 Prismatic Vista
-2 Urza, Lord High Artificer
-2 Mishra's Bauble
-2 Mox Amber
+1 Chromatic Star
 2 Engineered Explosives
+2 Grinding Station
+2 Underworld Breach
 2 Noxious Revival
+2 Prismatic Vista
 3 Prismatic Vista
-3 Metallic Rebuke
 3 Grinding Station
-3 Mox Amber
-3 Emry, Lurker of the Loch
-3 Mishra's Bauble
 3 Underworld Breach
-3 Urza, Lord High Artificer
-4 Emry, Lurker of the Loch
-4 Mishra's Bauble
 4 Grinding Station
-4 Urza, Lord High Artificer
 4 Underworld Breach
+5 Snow-Covered Island
