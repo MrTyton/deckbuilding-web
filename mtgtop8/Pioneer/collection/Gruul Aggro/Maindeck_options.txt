@@ -1,3 +1,5 @@
+2 Zhur-Taa Goblin
+3 Zhur-Taa Goblin
 1 Pelt Collector
 1 Experiment One
 2 Pelt Collector
@@ -10,44 +12,19 @@
 2 Voltaic Brawler
 3 Voltaic Brawler
 6 Mountain
-1 Heart of Kiran
-2 Heart of Kiran
 3 Embercleave
 1 Goblin Rabblemaster
 2 Goblin Rabblemaster
 3 Goblin Rabblemaster
 4 Goblin Rabblemaster
+4 Voltaic Brawler
 3 Questing Beast
+1 Rhonas the Indomitable
 1 Glorybringer
 2 Glorybringer
 3 Glorybringer
-4 Voltaic Brawler
-1 Rhonas the Indomitable
-4 Glorybringer
-1 Chandra, Torch of Defiance
-2 Chandra, Torch of Defiance
 1 Hazoret the Fervent
-1 Hashep Oasis
-1 Blossoming Defense
-2 Blossoming Defense
-1 Reckless Bushwhacker
-2 Reckless Bushwhacker
-1 Legion Warboss
-2 Legion Warboss
-3 Legion Warboss
-4 Legion Warboss
-1 Atarka's Command
-2 Atarka's Command
-3 Atarka's Command
-4 Atarka's Command
-4 Zhur-Taa Goblin
-9 Forest
-1 Kiora, Behemoth Beckoner
-3 Ghor-Clan Rampager
-1 Gallia of the Endless Dance
-3 Reckless Bushwhacker
 2 Rhonas the Indomitable
-7 Mountain
 1 Ghalta, Primal Hunger
 1 Reckless Rage
 1 Ripjaw Raptor
@@ -66,10 +43,32 @@
 3 Ripjaw Raptor
 3 Marauding Raptor
 4 Reckless Rage
-4 Regisaur Alpha
 4 Commune with Dinosaurs
+4 Regisaur Alpha
 4 Ripjaw Raptor
 4 Marauding Raptor
+1 Hashep Oasis
+1 Blossoming Defense
+2 Blossoming Defense
+1 Reckless Bushwhacker
+2 Reckless Bushwhacker
+1 Legion Warboss
+2 Legion Warboss
+3 Legion Warboss
+4 Legion Warboss
+1 Atarka's Command
+2 Atarka's Command
+3 Atarka's Command
+4 Atarka's Command
+4 Zhur-Taa Goblin
+9 Forest
+4 Glorybringer
+3 Ghor-Clan Rampager
+1 Gallia of the Endless Dance
+1 Chandra, Torch of Defiance
+2 Chandra, Torch of Defiance
+3 Reckless Bushwhacker
+7 Mountain
 2 Hazoret the Fervent
 2 Hashep Oasis
 1 Gilded Goose
@@ -84,19 +83,10 @@
 1 Steel Leaf Champion
 2 Steel Leaf Champion
 1 Rekindling Phoenix
+1 Kiora, Behemoth Beckoner
 2 Rekindling Phoenix
-2 Kiora, Behemoth Beckoner
-3 Kiora, Behemoth Beckoner
-1 Scavenging Ooze
-1 Borborygmos Enraged
-1 Enter the Infinite
-1 Shared Summons
-1 Walking Ballista
-1 Possibility Storm
-2 Possibility Storm
-3 Possibility Storm
-4 Possibility Storm
 3 Heart of Kiran
+1 Scavenging Ooze
 2 Gallia of the Endless Dance
 1 Zurgo Bellstriker
 4 Ghor-Clan Rampager
@@ -104,14 +94,11 @@
 2 Mana Confluence
 1 Ramunap Ruins
 2 Ramunap Ruins
-1 Domri's Ambush
-2 Domri's Ambush
 4 Reckless Bushwhacker
 1 Goblin Chainwhirler
 2 Goblin Chainwhirler
 3 Goblin Chainwhirler
 1 Chandra, Fire Artisan
-1 Geier Reach Sanitarium
 1 Crater's Claws
 1 Bomat Courier
 1 Fling
@@ -122,20 +109,22 @@
 3 Rhonas the Indomitable
 3 Gilded Goose
 1 Incendiary Flow
+2 Kiora, Behemoth Beckoner
 2 Incendiary Flow
+3 Kiora, Behemoth Beckoner
 3 Incendiary Flow
 1 Domri Rade
 2 Domri Rade
-3 Steel Leaf Champion
 3 Rekindling Phoenix
+3 Steel Leaf Champion
 4 Steel Leaf Champion
 4 Collected Company
 3 Blossoming Defense
 4 Blossoming Defense
-1 Castle Embereth
-4 Questing Beast
 3 Mana Confluence
 4 Mana Confluence
+1 Castle Embereth
+4 Questing Beast
 1 Collision / Colossus
 1 Torbran, Thane of Red Fell
 1 Soul-Scar Mage
@@ -150,11 +139,19 @@
 4 Torbran, Thane of Red Fell
 4 Ramunap Ruins
 4 Soul-Scar Mage
+1 Borborygmos Enraged
+1 Enter the Infinite
+1 Shared Summons
+1 Walking Ballista
+1 Possibility Storm
 1 Captain Lannery Storm
 2 Scavenging Ooze
 2 Captain Lannery Storm
+2 Possibility Storm
 3 Chandra, Torch of Defiance
+3 Possibility Storm
 3 Captain Lannery Storm
+4 Possibility Storm
 4 Captain Lannery Storm
 1 Firedrinker Satyr
 1 Ahn-Crop Crasher
@@ -184,6 +181,7 @@
 1 Flamewake Phoenix
 1 Legion Loyalist
 1 Kari Zev's Expertise
+1 Domri's Ambush
 1 Chandra, Acolyte of Flame
 1 Bloodrage Brawler
 1 Dwarven Mine
@@ -191,13 +189,14 @@
 2 Fervent Champion
 2 Flamewake Phoenix
 2 Kari Zev's Expertise
+2 Domri's Ambush
 2 Bloodrage Brawler
 3 Domri's Ambush
 3 Fervent Champion
 3 Flamewake Phoenix
 3 Bloodrage Brawler
-4 Domri's Ambush
 4 Fervent Champion
+4 Domri's Ambush
 4 Flamewake Phoenix
 4 Bloodrage Brawler
 8 Mountain

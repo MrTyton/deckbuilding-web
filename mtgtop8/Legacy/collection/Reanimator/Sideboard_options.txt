@@ -6,8 +6,8 @@
 1 Serenity
 4 Reverent Silence
 1 Lake of the Dead
-2 Serenity
 2 Grave Titan
+2 Serenity
 2 Massacre
 4 Wear / Tear
 1 Show and Tell
@@ -23,11 +23,11 @@
 2 Assassin's Trophy
 1 Inkwell Leviathan
 1 Pithing Needle
+1 Spell Pierce
 1 Echoing Truth
 1 Pyroblast
 1 Surgical Extraction
 1 Price of Progress
-1 Spell Pierce
 1 Red Elemental Blast
 2 Spell Pierce
 2 Echoing Truth
@@ -46,6 +46,16 @@
 1 Cabal Therapy
 2 Bitterblossom
 3 Assassin's Trophy
+1 Rotting Regisaur
+1 Ratchet Bomb
+1 Duress
+1 Mire in Misery
+1 Cryptbreaker
+2 Rotting Regisaur
+2 Ratchet Bomb
+2 Mire in Misery
+2 Cryptbreaker
+3 Rotting Regisaur
 1 Silent Gravestone
 1 Oblivion Ring
 1 Sorcerous Spyglass
@@ -56,15 +66,5 @@
 2 Lake of the Dead
 2 Abrupt Decay
 3 Silent Gravestone
-1 Rotting Regisaur
-1 Duress
-1 Mire in Misery
-1 Cryptbreaker
-1 Ratchet Bomb
-2 Rotting Regisaur
-2 Ratchet Bomb
-2 Mire in Misery
-2 Cryptbreaker
-3 Rotting Regisaur
 1 Sire of Insanity
 4 Stronghold Gambit

@@ -1,7 +1,7 @@
 # Allosaurus Combo
 
 #### [Export MTGO List](../collection/Allosaurus%20Combo/Allosaurus%20Combo.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Allosaurus%20Rider%0A2%09Autochthon%20Wurm%0A4%09Botanical%20Sanctum%0A4%09Chancellor%20of%20the%20Tangle%0A4%09Eldritch%20Evolution%0A4%09Gemstone%20Mine%0A2%09Griselbrand%0A1%09Laboratory%20Maniac%0A1%09Life%20Goes%20On%0A4%09Manamorphose%0A4%09Neoform%0A4%09Nourishing%20Shoal%0A4%09Once%20Upon%20a%20Time%0A2%09Serum%20Visions%0A4%09Simian%20Spirit%20Guide%0A1%09Snow-Covered%20Island%0A4%09Summoner's%20Pact%0A2%09Veil%20of%20Summer%0A4%09Waterlogged%20Grove%0A1%09Wild%20Cantor&deckside=2%09Emrakul,%20the%20Aeons%20Torn%0A4%09Force%20of%20Vigor%0A2%09Ilharg,%20the%20Raze-Boar%0A4%09Through%20the%20Breach%0A3%09Veil%20of%20Summer)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Allosaurus%20Rider%0A2%09Autochthon%20Wurm%0A4%09Botanical%20Sanctum%0A4%09Chancellor%20of%20the%20Tangle%0A4%09Eldritch%20Evolution%0A4%09Gemstone%20Mine%0A2%09Griselbrand%0A1%09Laboratory%20Maniac%0A1%09Life%20Goes%20On%0A4%09Manamorphose%0A4%09Neoform%0A4%09Nourishing%20Shoal%0A4%09Once%20Upon%20a%20Time%0A2%09Serum%20Visions%0A4%09Simian%20Spirit%20Guide%0A1%09Snow-Covered%20Island%0A4%09Summoner's%20Pact%0A2%09Veil%20of%20Summer%0A4%09Waterlogged%20Grove%0A1%09Wild%20Cantor&deckside=4%09Dissenter's%20Deliverance%0A3%09Leyline%20of%20Sanctity%0A2%09Mystical%20Dispute%0A4%09Pact%20of%20Negation%0A2%09Veil%20of%20Summer)
 # Maindeck
 
 |                                            Creature (18)                                            |                                        Instant (19)                                         |                                           Land (13)                                            |                                         Sorcery (10)                                          |
@@ -17,28 +17,35 @@
 
 # Sideboard
 
-|                                            Creature (4)                                            |                                         Instant (11)                                         |
-|----------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
-|2 [Emrakul, the Aeons Torn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397905)|4 [Force of Vigor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464113)   |
-|2 [Ilharg, the Raze-Boar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461060)  |4 [Through the Breach](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=80250)|
-|                                                                                                    |3 [Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)   |
+|                                        Enchantment (3)                                         |                                            Instant (12)                                            |
+|------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
+|3 [Leyline of Sanctity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=204993)|4 [Dissenter's Deliverance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426866)|
+|                                                                                                |2 [Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)       |
+|                                                                                                |4 [Pact of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442057)       |
+|                                                                                                |2 [Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)         |
 
 
 # Other Options
 
 |*n*<sup>th</sup> copy|                                          Maindeck Card                                           |*n*<sup>th</sup> copy|                                          Sideboard Card                                          |
 |--------------------:|--------------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------------|
-|                    1|[Breeding Pool](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=97088)           |                    1|[Pact of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442057)       |
-|                    1|[Snow-Covered Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121192)    |                    1|[Leyline of Sanctity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=204993)    |
-|                    1|[Pact of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442057)       |                    1|[Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)       |
-|                    1|[Angel's Grace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370545)          |                    1|[Dissenter's Deliverance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426866)|
-|                    1|[Chancellor of the Annex](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=218083)|                    2|[Leyline of Sanctity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=204993)    |
-|                    2|[Breeding Pool](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=97088)           |                    2|[Pact of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442057)       |
-|                    2|[Chancellor of the Annex](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=218083)|                    2|[Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)       |
-|                    3|[Chancellor of the Annex](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=218083)|                    2|[Dissenter's Deliverance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426866)|
-|                    4|[Chancellor of the Annex](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=218083)|                    3|[Leyline of Sanctity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=204993)    |
-|                     |                                                                                                  |                    3|[Pact of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442057)       |
-|                     |                                                                                                  |                    3|[Dissenter's Deliverance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426866)|
-|                     |                                                                                                  |                    4|[Pact of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442057)       |
-|                     |                                                                                                  |                    4|[Dissenter's Deliverance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426866)|
+|                    1|[Breeding Pool](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=97088)           |                    3|[Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)         |
+|                    1|[Snow-Covered Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121192)    |                    1|[Fblthp, the Lost](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460977)       |
+|                    1|[Pact of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442057)       |                    1|[Hurkyl's Recall](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=135260)        |
+|                    1|[Angel's Grace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370545)          |                    1|[Hope of Ghirapur](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423821)       |
+|                    1|[Chancellor of the Annex](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=218083)|                    2|[Hope of Ghirapur](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423821)       |
+|                    2|[Breeding Pool](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=97088)           |                    2|[Hurkyl's Recall](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=135260)        |
+|                    2|[Chancellor of the Annex](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=218083)|                    4|[Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)         |
+|                    3|[Chancellor of the Annex](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=218083)|                    1|[Force of Vigor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464113)         |
+|                    4|[Chancellor of the Annex](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=218083)|                    1|[Through the Breach](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=80250)      |
+|                    1|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)                 |                    1|[Emrakul, the Aeons Torn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397905)|
+|                    1|[Dissenter's Deliverance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426866)|                    1|[Ilharg, the Raze-Boar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461060)  |
+|                    1|[Edge of Autumn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=243442)         |                    2|[Force of Vigor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464113)         |
+|                    2|[Dissenter's Deliverance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426866)|                    2|[Emrakul, the Aeons Torn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397905)|
+|                    3|[Dissenter's Deliverance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426866)|                    2|[Through the Breach](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=80250)      |
+|                    3|[Serum Visions](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=50145)           |                    2|[Ilharg, the Raze-Boar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461060)  |
+|                    4|[Dissenter's Deliverance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426866)|                    3|[Force of Vigor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464113)         |
+|                     |                                                                                                  |                    3|[Through the Breach](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=80250)      |
+|                     |                                                                                                  |                    4|[Through the Breach](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=80250)      |
+|                     |                                                                                                  |                    4|[Force of Vigor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464113)         |
 

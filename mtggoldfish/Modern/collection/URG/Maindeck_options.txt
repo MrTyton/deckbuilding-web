@@ -84,8 +84,8 @@
 1 Forgotten Cave
 2 Brazen Borrower
 3 Mana Leak
-3 Tireless Tracker
 3 Deprive
+3 Tireless Tracker
 1 Gemstone Caverns
 1 Chandra, Torch of Defiance
 1 Fires of Invention
@@ -150,6 +150,19 @@
 2 Through the Breach
 3 Through the Breach
 3 Emrakul, the Aeons Torn
+1 Pestermite
+1 Condescend
+1 Anger of the Gods
+2 Pestermite
+2 Condescend
+2 Anger of the Gods
+3 Condescend
+3 Sulfur Falls
+3 Kiki-Jiki, Mirror Breaker
+3 Anger of the Gods
+4 Steam Vents
+4 Cryptic Command
+4 Condescend
 1 Klothys, God of Destiny
 1 Utopia Sprawl
 1 Arbor Elf
@@ -171,19 +184,6 @@
 3 Garruk Relentless
 4 Garruk Relentless
 4 Spark Double
-1 Pestermite
-1 Condescend
-1 Anger of the Gods
-2 Pestermite
-2 Condescend
-2 Anger of the Gods
-3 Condescend
-3 Sulfur Falls
-3 Kiki-Jiki, Mirror Breaker
-3 Anger of the Gods
-4 Steam Vents
-4 Cryptic Command
-4 Condescend
 1 Simian Spirit Guide
 1 Blast Zone
 1 As Foretold
@@ -203,11 +203,11 @@
 2 Izzet Charm
 2 Fiery Islet
 3 Simian Spirit Guide
-3 Restore Balance
+3 As Foretold
 3 Electrodominance
 3 Crashing Footfalls
-3 As Foretold
 3 Greater Gargadon
+3 Restore Balance
 4 Simian Spirit Guide
 4 Electrodominance
 4 Crashing Footfalls

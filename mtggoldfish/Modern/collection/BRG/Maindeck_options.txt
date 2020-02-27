@@ -7,13 +7,13 @@
 1 Liliana of the Veil
 1 Inquisition of Kozilek
 2 Inquisition of Kozilek
+1 Snow-Covered Swamp
 2 Liliana of the Veil
 3 Liliana of the Veil
 1 Kolaghan's Command
 2 Blood Crypt
 3 Inquisition of Kozilek
 1 Wrenn and Six
-1 Snow-Covered Swamp
 2 Kroxa, Titan of Death's Hunger
 3 Lightning Bolt
 4 Inquisition of Kozilek
@@ -27,19 +27,23 @@
 1 Snow-Covered Forest
 1 Arcum's Astrolabe
 2 Snow-Covered Swamp
-2 Snow-Covered Forest
 2 Arcum's Astrolabe
+2 Snow-Covered Forest
 3 Arcum's Astrolabe
 4 Arcum's Astrolabe
 4 Liliana of the Veil
 1 Snow-Covered Mountain
 3 Fatal Push
+1 Crash Through
+2 Crash Through
 1 Assassin's Trophy
 2 Assassin's Trophy
 1 Barren Moor
 2 Kolaghan's Command
+2 Once Upon a Time
 1 Blackcleave Cliffs
 4 Bloodbraid Elf
+2 Nurturing Peatland
 2 Barren Moor
 3 Snow-Covered Swamp
 1 Dark Confidant
@@ -66,10 +70,10 @@
 2 Copperline Gorge
 2 Goblin Guide
 2 Lava Dart
+2 Lava Spike
 2 Snow-Covered Mountain
 2 Soul-Scar Mage
 2 Light Up the Stage
-2 Lava Spike
 3 Skewer the Critics
 3 Eidolon of the Great Revel
 3 Atarka's Command
@@ -95,7 +99,6 @@
 2 Unearth
 3 Blood Crypt
 3 Polluted Delta
-2 Once Upon a Time
 3 Once Upon a Time
 1 Abrupt Decay
 1 Grim Flayer
@@ -131,11 +134,8 @@
 4 Lightning Elemental
 1 Gnarlwood Dryad
 1 Maelstrom Pulse
-2 Nurturing Peatland
 1 Searing Blaze
 2 Searing Blaze
-1 Crash Through
-2 Crash Through
 1 Prismatic Vista
 1 Magus of the Moon
 1 Manamorphose
@@ -152,8 +152,8 @@
 3 Lightning Skelemental
 4 Lightning Skelemental
 3 Assassin's Trophy
-4 Traverse the Ulvenwald
 4 Fatal Push
+4 Traverse the Ulvenwald
 1 Seal of Fire
 4 Light Up the Stage
 1 Forgotten Cave
@@ -202,12 +202,12 @@
 1 Seismic Assault
 1 Life from the Loam
 1 Abrade
-2 Forgotten Cave
 2 Ensnaring Bridge
 2 Abrade
 2 Simian Spirit Guide
 2 Arid Mesa
 2 Anger of the Gods
+2 Forgotten Cave
 2 Mountain
 2 Elvish Reclaimer
 2 Field of Ruin
