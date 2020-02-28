@@ -33,12 +33,12 @@
 1 Satyr Wayfinder
 2 Satyr Wayfinder
 3 Satyr Wayfinder
-3 Isolated Chapel
 1 Mana Confluence
 1 Rakshasa Deathdealer
 2 Mana Confluence
 2 Rakshasa Deathdealer
 3 Rakshasa Deathdealer
+3 Isolated Chapel
 3 Walking Ballista
 2 Liliana, the Last Hope
 1 Castle Locthwain
@@ -96,11 +96,11 @@
 1 Tasigur, the Golden Fang
 2 Assassin's Trophy
 4 Fatal Push
-1 Murderous Cut
 1 Thalia, Heretic Cathar
+1 Murderous Cut
+1 Brain Maggot
 1 Grisly Salvage
 1 Polukranos, Unchained
-1 Brain Maggot
 1 Nissa, Who Shakes the World
 2 Grisly Salvage
 2 Nissa, Who Shakes the World
@@ -117,12 +117,12 @@
 2 Languish
 2 Castle Locthwain
 3 Languish
-1 Ifnir Deadlands
 1 Nissa, Voice of Zendikar
 1 Tolsimir, Friend to Wolves
 1 Llanowar Elves
 1 Elvish Mystic
 1 Nissa, Vital Force
+1 Ifnir Deadlands
 2 Hissing Quagmire
 2 Llanowar Elves
 2 Elvish Mystic
@@ -139,8 +139,8 @@
 3 Vessel of Nascency
 3 Deathrite Shaman
 4 Vessel of Nascency
-1 Smuggler's Copter
 1 Gilded Goose
+1 Smuggler's Copter
 1 Witch's Oven
 1 Trail of Crumbs
 1 Cauldron Familiar
@@ -206,15 +206,15 @@
 4 Jadelight Ranger
 1 Dauntless Bodyguard
 1 Kytheon, Hero of Akros
-1 Unclaimed Territory
 1 Thalia's Lieutenant
 1 Plaguecrafter
+1 Unclaimed Territory
 1 Liliana, Heretical Healer
 1 Bloodsoaked Champion
 1 Xathrid Necromancer
 1 Channeler Initiate
-2 Unclaimed Territory
 2 Thalia's Lieutenant
+2 Unclaimed Territory
 2 Dauntless Bodyguard
 2 Kytheon, Hero of Akros
 2 Plaguecrafter
@@ -235,9 +235,9 @@
 4 Bloodsoaked Champion
 4 Xathrid Necromancer
 4 Dauntless Bodyguard
+1 Liliana, Death's Majesty
 1 Temple of Silence
 1 Obzedat, Ghost Council
-1 Liliana, Death's Majesty
 4 Gideon, Ally of Zendikar
 4 Murderous Rider
 4 Abzan Charm

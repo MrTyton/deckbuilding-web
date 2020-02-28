@@ -1,68 +1,9 @@
-1 Hallowed Fountain
-1 Reflector Mage
-2 Hallowed Fountain
-2 Reflector Mage
-3 Hallowed Fountain
-4 Hallowed Fountain
-1 Collected Company
-2 Collected Company
-3 Collected Company
-4 Collected Company
-1 Scavenging Ooze
-1 Temple Garden
-2 Temple Garden
-3 Temple Garden
-1 Lovestruck Beast
-1 Llanowar Elves
-1 Elvish Mystic
-2 Llanowar Elves
-2 Lovestruck Beast
-2 Elvish Mystic
-3 Llanowar Elves
-3 Lovestruck Beast
-3 Elvish Mystic
-4 Llanowar Elves
-1 Tireless Tracker
-1 Forest
-1 Uro, Titan of Nature's Wrath
 1 Botanical Sanctum
 2 Botanical Sanctum
-1 Glacial Fortress
-1 Teferi, Time Raveler
-2 Glacial Fortress
-1 Breeding Pool
-2 Breeding Pool
-1 Voice of Resurgence
-4 Temple Garden
-2 Tireless Tracker
-3 Tireless Tracker
-1 Spell Queller
-2 Spell Queller
-3 Spell Queller
-4 Spell Queller
-3 Reflector Mage
-4 Reflector Mage
-3 Botanical Sanctum
-3 Breeding Pool
-4 Botanical Sanctum
-1 Gilded Goose
-1 Island
-2 Uro, Titan of Nature's Wrath
-1 Overgrown Tomb
-1 Blooming Marsh
-2 Blooming Marsh
-2 Overgrown Tomb
-3 Overgrown Tomb
-3 Blooming Marsh
-1 Mana Confluence
-1 Watery Grave
-2 Watery Grave
 1 Satyr Wayfinder
 2 Satyr Wayfinder
 3 Satyr Wayfinder
 4 Satyr Wayfinder
-1 Llanowar Wastes
-2 Llanowar Wastes
 3 Watery Grave
 1 Creeping Chill
 1 Narcomoeba
@@ -80,6 +21,9 @@
 2 Stitcher's Supplier
 3 Stitcher's Supplier
 4 Stitcher's Supplier
+1 Llanowar Wastes
+2 Llanowar Wastes
+3 Botanical Sanctum
 1 Gurmag Angler
 1 Haunted Dead
 1 Gather the Pack
@@ -93,6 +37,69 @@
 3 Grisly Salvage
 3 Haunted Dead
 4 Grisly Salvage
+1 Forest
+1 Uro, Titan of Nature's Wrath
+2 Uro, Titan of Nature's Wrath
+2 Swamp
+1 Thraben Inspector
+2 Thraben Inspector
+3 Thraben Inspector
+3 Scrapheap Scrounger
+1 Anguished Unmaking
+1 Thalia, Heretic Cathar
+1 Glory-Bound Initiate
+2 Glory-Bound Initiate
+2 Kunoros, Hound of Athreos
+4 Overgrown Tomb
+3 Gurmag Angler
+3 Gather the Pack
+4 Gather the Pack
+1 Breeding Pool
+2 Breeding Pool
+1 Mana Confluence
+1 Collected Company
+2 Collected Company
+3 Collected Company
+3 Breeding Pool
+4 Botanical Sanctum
+1 Scavenging Ooze
+1 Hallowed Fountain
+1 Reflector Mage
+2 Hallowed Fountain
+2 Reflector Mage
+1 Tireless Tracker
+4 Collected Company
+1 Lovestruck Beast
+1 Llanowar Elves
+1 Elvish Mystic
+2 Llanowar Elves
+2 Lovestruck Beast
+2 Elvish Mystic
+3 Llanowar Elves
+3 Lovestruck Beast
+3 Elvish Mystic
+4 Llanowar Elves
+1 Temple Garden
+2 Temple Garden
+3 Temple Garden
+3 Hallowed Fountain
+4 Hallowed Fountain
+1 Island
+2 Tireless Tracker
+3 Tireless Tracker
+1 Glacial Fortress
+1 Teferi, Time Raveler
+2 Glacial Fortress
+1 Voice of Resurgence
+4 Temple Garden
+1 Spell Queller
+2 Spell Queller
+3 Spell Queller
+4 Spell Queller
+3 Reflector Mage
+4 Reflector Mage
+1 Woodland Cemetery
+1 Gilded Goose
 4 Lovestruck Beast
 4 Elvish Mystic
 2 Voice of Resurgence
@@ -101,76 +108,37 @@
 4 Thraben Inspector
 2 Mana Confluence
 2 Island
-2 Swamp
 1 Drowned Catacomb
-3 Scrapheap Scrounger
-4 Scrapheap Scrounger
 4 Tireless Tracker
 1 Sunpetal Grove
 2 Sunpetal Grove
 3 Sunpetal Grove
 1 Fortified Village
+1 Rhonas the Indomitable
 2 Teferi, Time Raveler
 3 Teferi, Time Raveler
 4 Teferi, Time Raveler
-1 Rhonas the Indomitable
 1 Brazen Borrower
 2 Brazen Borrower
+3 Llanowar Wastes
 2 Forest
-4 Overgrown Tomb
-1 Mountain
-1 Blood Crypt
-2 Blood Crypt
-3 Blood Crypt
-4 Blood Crypt
-1 Bonecrusher Giant
-2 Bonecrusher Giant
-2 Mountain
-3 Bonecrusher Giant
-3 Mountain
-4 Bonecrusher Giant
-4 Mountain
-1 Glorybringer
-1 Dragonskull Summit
-2 Dragonskull Summit
-2 Glorybringer
-1 Wild Slash
-1 Goblin Chainwhirler
-1 Soul-Scar Mage
-1 Rekindling Phoenix
-1 Chandra, Torch of Defiance
-2 Wild Slash
-2 Goblin Chainwhirler
-2 Soul-Scar Mage
-2 Rekindling Phoenix
-2 Chandra, Torch of Defiance
-3 Glorybringer
-3 Dragonskull Summit
-3 Wild Slash
-3 Goblin Chainwhirler
-3 Soul-Scar Mage
-4 Dragonskull Summit
-4 Soul-Scar Mage
-4 Goblin Chainwhirler
-5 Mountain
-6 Mountain
-7 Mountain
+4 Scrapheap Scrounger
 1 Dauntless Bodyguard
-1 Thalia's Lieutenant
 1 Unclaimed Territory
-1 Kitesail Freebooter
+1 Thalia's Lieutenant
 1 Aether Hub
+1 Kitesail Freebooter
 1 Glint-Sleeve Siphoner
 2 Dauntless Bodyguard
-2 Thalia's Lieutenant
 2 Unclaimed Territory
+2 Thalia's Lieutenant
 2 Kitesail Freebooter
 2 Aether Hub
 2 Glint-Sleeve Siphoner
 3 Unclaimed Territory
 3 Thalia's Lieutenant
-3 Kitesail Freebooter
 3 Aether Hub
+3 Kitesail Freebooter
 4 Unclaimed Territory
 4 Thalia's Lieutenant
 4 Kitesail Freebooter
@@ -179,30 +147,33 @@
 5 Island
 3 Mana Confluence
 4 Mana Confluence
+4 Blooming Marsh
 3 Forest
+1 Mountain
+1 Blood Crypt
+2 Blood Crypt
 1 Assassin's Trophy
 1 Fabled Passage
 2 Assassin's Trophy
 2 Fabled Passage
 3 Fabled Passage
+3 Blood Crypt
+4 Blood Crypt
 1 Stomping Ground
 2 Stomping Ground
-3 Gather the Pack
-3 Gurmag Angler
 4 Gurmag Angler
-4 Gather the Pack
 4 Haunted Dead
-1 Woodland Cemetery
+1 Ipnu Rivulet
 1 Hinterland Harbor
 1 Ashiok, Dream Render
 1 Decimator of the Provinces
-1 Ipnu Rivulet
 2 Decimator of the Provinces
 1 Kytheon, Hero of Akros
 1 Kaya, Orzhov Usurper
 2 Kytheon, Hero of Akros
 2 Archangel Avacyn
 3 Gideon of the Trials
+3 Driven / Despair
 1 Deputy of Detention
 2 Deputy of Detention
 3 Voice of Resurgence
@@ -223,29 +194,6 @@
 4 Grim Flayer
 4 Deathrite Shaman
 4 Uro, Titan of Nature's Wrath
-1 Canyon Slough
-1 Lightning Strike
-1 Ramunap Ruins
-1 Castle Embereth
-1 Torbran, Thane of Red Fell
-1 Angrath's Rampage
-1 Goblin Rabblemaster
-2 Canyon Slough
-2 Ramunap Ruins
-2 Lightning Strike
-2 Torbran, Thane of Red Fell
-2 Angrath's Rampage
-2 Goblin Rabblemaster
-2 Castle Embereth
-3 Ramunap Ruins
-3 Angrath's Rampage
-3 Chandra, Torch of Defiance
-3 Goblin Rabblemaster
-4 Ramunap Ruins
-4 Goblin Rabblemaster
-4 Wild Slash
-2 Drowned Catacomb
-4 Watery Grave
 1 Murderous Rider
 2 Murderous Rider
 1 Mayhem Devil
@@ -279,7 +227,6 @@
 4 Trail of Crumbs
 4 Sylvan Caryatid
 4 Gilded Goose
-4 Blooming Marsh
 1 Charming Prince
 1 Unbreakable Formation
 1 Militia Bugler
@@ -289,23 +236,37 @@
 1 Elspeth, Sun's Nemesis
 2 Charming Prince
 2 Militia Bugler
+2 Elspeth, Sun's Nemesis
 2 Tithe Taker
 2 Elite Guardmage
 2 Declaration in Stone
-2 Elspeth, Sun's Nemesis
 3 Charming Prince
 3 Militia Bugler
 3 Tithe Taker
 3 Glint-Sleeve Siphoner
 4 Aether Hub
 4 Glint-Sleeve Siphoner
-1 Kolaghan's Command
+1 Bonecrusher Giant
+2 Bonecrusher Giant
+2 Mountain
+3 Bonecrusher Giant
+3 Mountain
+4 Bonecrusher Giant
+4 Mountain
+2 Drowned Catacomb
+4 Watery Grave
+1 Glorybringer
+1 Dragonskull Summit
+2 Glorybringer
+2 Dragonskull Summit
 1 Kroxa, Titan of Death's Hunger
 1 Nicol Bolas, the Ravager
 1 Cast Down
 1 Fetid Pools
 1 Drown in the Loch
+1 Dragonlord Kolaghan
 1 Dragonlord Silumgar
+1 Kolaghan's Command
 1 Steam Vents
 1 Silumgar's Scorn
 1 Foul-Tongue Invocation
@@ -313,7 +274,6 @@
 1 Jace, Vryn's Prodigy
 1 Dragonmaster Outcast
 1 Dig Through Time
-1 Dragonlord Kolaghan
 1 Sulfur Falls
 2 Kolaghan's Command
 2 Kroxa, Titan of Death's Hunger
@@ -325,11 +285,11 @@
 2 Jace, Vryn's Prodigy
 2 Fetid Pools
 2 Sulfur Falls
-3 Jace, Vryn's Prodigy
 3 Brazen Borrower
-3 Drowned Catacomb
 3 Nicol Bolas, the Ravager
+3 Drowned Catacomb
 3 Drown in the Loch
+3 Jace, Vryn's Prodigy
 3 Sulfur Falls
 3 Steam Vents
 3 Silumgar's Scorn
@@ -350,7 +310,6 @@
 3 The Great Henge
 3 Rotting Regisaur
 3 Rhonas the Indomitable
-3 Llanowar Wastes
 3 Stomping Ground
 4 Rotting Regisaur
 4 Llanowar Wastes
@@ -396,6 +355,7 @@
 4 Merfolk Secretkeeper
 4 Tome Scour
 4 Breaking / Entering
+1 Temple of Silence
 1 Liliana, Untouched by Death
 1 Corpse Knight
 1 Rally the Ancestors
@@ -405,7 +365,6 @@
 1 Death Baron
 1 Nantuko Husk
 1 Dread Wanderer
-1 Temple of Silence
 2 Temple of Silence
 2 Rally the Ancestors
 2 Liliana, Untouched by Death
@@ -436,17 +395,59 @@
 4 Swamp
 5 Swamp
 6 Swamp
+1 Canyon Slough
+1 Wild Slash
+1 Lightning Strike
+1 Ramunap Ruins
+1 Goblin Chainwhirler
+1 Castle Embereth
+1 Soul-Scar Mage
+1 Torbran, Thane of Red Fell
+1 Rekindling Phoenix
+1 Angrath's Rampage
+1 Goblin Rabblemaster
+1 Chandra, Torch of Defiance
+2 Wild Slash
+2 Canyon Slough
+2 Ramunap Ruins
+2 Goblin Chainwhirler
+2 Lightning Strike
+2 Soul-Scar Mage
+2 Torbran, Thane of Red Fell
+2 Rekindling Phoenix
+2 Angrath's Rampage
+2 Goblin Rabblemaster
+2 Chandra, Torch of Defiance
+2 Castle Embereth
+3 Glorybringer
+3 Wild Slash
+3 Goblin Chainwhirler
+3 Soul-Scar Mage
+3 Ramunap Ruins
+3 Angrath's Rampage
+3 Chandra, Torch of Defiance
+3 Goblin Rabblemaster
+3 Dragonskull Summit
+4 Soul-Scar Mage
+4 Goblin Chainwhirler
+4 Ramunap Ruins
+4 Goblin Rabblemaster
+4 Wild Slash
+4 Dragonskull Summit
+5 Mountain
+6 Mountain
+7 Mountain
 1 Benalish Marshal
 1 Alseid of Life's Bounty
 1 Vivien, Arkbow Ranger
 1 Chord of Calling
+1 Courser of Kruphix
 1 Selfless Spirit
 1 Knight of Autumn
 1 Anafenza, Kin-Tree Spirit
 1 Walking Ballista
 1 Heliod, Sun-Crowned
 1 Daxos, Blessed by the Sun
-1 Courser of Kruphix
 1 Fleecemane Lion
 2 Fortified Village
 2 Alseid of Life's Bounty
@@ -468,20 +469,20 @@
 1 Port Town
 1 Irrigated Farmland
 1 Teferi, Hero of Dominaria
-1 Dream Trawler
 1 Detention Sphere
 1 Azorius Charm
 1 Long Road Home
 1 Hero of Precinct One
 1 Dovin's Veto
+1 Dream Trawler
 1 Judge's Familiar
 1 Castle Ardenvale
 2 Port Town
 2 Teferi, Hero of Dominaria
 2 Irrigated Farmland
-2 Dovin's Veto
 2 Azorius Charm
 2 Detention Sphere
+2 Dovin's Veto
 2 Dream Trawler
 2 Hero of Precinct One
 2 Judge's Familiar
@@ -493,21 +494,6 @@
 5 Plains
 6 Plains
 7 Plains
-1 Abrade
-1 Cut / Ribbons
-1 Foreboding Ruins
-2 Abrade
-2 Foreboding Ruins
-3 Rekindling Phoenix
-3 Foreboding Ruins
-4 Glorybringer
-4 Rekindling Phoenix
-4 Foreboding Ruins
-8 Mountain
-9 Mountain
-10 Mountain
-11 Mountain
-12 Mountain
 1 Thassa's Oracle
 1 Nykthos, Shrine to Nyx
 1 Witching Well
