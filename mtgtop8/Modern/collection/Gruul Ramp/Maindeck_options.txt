@@ -39,11 +39,6 @@
 1 Sarkhan, the Dragonspeaker
 2 Verdant Catacombs
 3 Verdant Catacombs
-1 Oko, Thief of Crowns
-1 Breeding Pool
-2 Oko, Thief of Crowns
-3 Oko, Thief of Crowns
-4 Wrenn and Six
 1 Vengevine
 1 Kiora, Behemoth Beckoner
 1 Gruul Spellbreaker
@@ -52,8 +47,13 @@
 2 Gruul Spellbreaker
 3 Vengevine
 3 Gruul Spellbreaker
-4 Vengevine
 4 Gruul Spellbreaker
+4 Vengevine
+1 Oko, Thief of Crowns
+1 Breeding Pool
+2 Oko, Thief of Crowns
+3 Oko, Thief of Crowns
+4 Wrenn and Six
 1 Castle Embereth
 1 Goblin Rabblemaster
 1 Hexdrinker
@@ -68,21 +68,21 @@
 1 Genesis Hydra
 1 Nykthos, Shrine to Nyx
 1 Oath of Nissa
-1 Devoted Druid
 1 Scavenging Ooze
 1 Dryad Arbor
 1 Leyline of Abundance
+1 Devoted Druid
 1 Misty Rainforest
 1 Vivien, Arkbow Ranger
 2 Horizon Canopy
 2 Burning-Tree Emissary
 2 Genesis Hydra
 2 Nykthos, Shrine to Nyx
-2 Devoted Druid
 2 Oath of Nissa
 2 Leyline of Abundance
 2 Vivien, Arkbow Ranger
 2 Llanowar Elves
+2 Devoted Druid
 2 Misty Rainforest
 3 Noble Hierarch
 3 Birds of Paradise
@@ -96,9 +96,9 @@
 3 Leyline of Abundance
 4 Noble Hierarch
 4 Oath of Nissa
-4 Vivien, Arkbow Ranger
 4 Nykthos, Shrine to Nyx
 4 Burning-Tree Emissary
+4 Vivien, Arkbow Ranger
 4 Birds of Paradise
 4 Leyline of Abundance
 1 Snow-Covered Mountain

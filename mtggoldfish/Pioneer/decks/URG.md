@@ -1,7 +1,7 @@
 # URG
 
 #### [Export MTGO List](../collection/URG/URG.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Bonecrusher%20Giant%0A1%09Borborygmos%20Enraged%0A2%09Captain%20Lannery%20Storm%0A2%09Chandra,%20Torch%20of%20Defiance%0A2%09Domri,%20Anarch%20of%20Bolas%0A4%09Elvish%20Mystic%0A1%09Enter%20the%20Infinite%0A8%09Forest%0A2%09Game%20Trail%0A2%09Glorybringer%0A4%09Legion%20Warboss%0A4%09Llanowar%20Elves%0A4%09Lovestruck%20Beast%0A5%09Mountain%0A4%09Possibility%20Storm%0A4%09Rootbound%20Crag%0A1%09Shared%20Summons%0A4%09Stomping%20Ground%0A1%09The%20First%20Iroan%20Games%0A1%09Walking%20Ballista&deckside=2%09Cindervines%0A1%09Dire%20Fleet%20Daredevil%0A1%09Embereth%20Shieldbreaker%0A1%09Glorybringer%0A1%09Grafdigger's%20Cage%0A2%09Hornet%20Nest%0A3%09Oath%20of%20Chandra%0A2%09Scab-Clan%20Berserker%0A2%09Scavenging%20Ooze)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Bonecrusher%20Giant%0A1%09Borborygmos%20Enraged%0A2%09Captain%20Lannery%20Storm%0A2%09Chandra,%20Torch%20of%20Defiance%0A2%09Domri,%20Anarch%20of%20Bolas%0A4%09Elvish%20Mystic%0A1%09Enter%20the%20Infinite%0A8%09Forest%0A2%09Game%20Trail%0A2%09Glorybringer%0A4%09Legion%20Warboss%0A4%09Llanowar%20Elves%0A4%09Lovestruck%20Beast%0A5%09Mountain%0A4%09Possibility%20Storm%0A4%09Rootbound%20Crag%0A1%09Shared%20Summons%0A4%09Stomping%20Ground%0A1%09The%20First%20Iroan%20Games%0A1%09Walking%20Ballista&deckside=3%09Cindervines%0A1%09Dire%20Fleet%20Daredevil%0A1%09Glorybringer%0A1%09Grafdigger's%20Cage%0A2%09Hornet%20Nest%0A1%09Kraul%20Harpooner%0A2%09Oath%20of%20Chandra%0A2%09Scab-Clan%20Berserker%0A2%09Scavenging%20Ooze)
 # Maindeck
 
 |                                          Creature (26)                                           |                                       Enchantment (4)                                        |                                        Instant (1)                                        |                                         Land (23)                                          |                                           Planeswalker (4)                                            |                                          Sorcery (1)                                          |      Unknown (1)      |
@@ -19,20 +19,20 @@
 
 # Sideboard
 
-|                                         Artifact (1)                                         |                                           Creature (9)                                            |                                      Enchantment (5)                                       |
-|----------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
-|1 [Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452)|1 [Dire Fleet Daredevil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439756)  |2 [Cindervines](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457305)    |
-|                                                                                              |1 [Embereth Shieldbreaker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473084)|3 [Oath of Chandra](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407623)|
-|                                                                                              |1 [Glorybringer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426836)          |                                                                                            |
-|                                                                                              |2 [Hornet Nest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383267)           |                                                                                            |
-|                                                                                              |2 [Scab-Clan Berserker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=398461)   |                                                                                            |
-|                                                                                              |2 [Scavenging Ooze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420783)       |                                                                                            |
+|                                         Artifact (1)                                         |                                          Creature (9)                                           |                                      Enchantment (5)                                       |
+|----------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
+|1 [Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452)|1 [Dire Fleet Daredevil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439756)|3 [Cindervines](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457305)    |
+|                                                                                              |1 [Glorybringer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426836)        |2 [Oath of Chandra](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407623)|
+|                                                                                              |2 [Hornet Nest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383267)         |                                                                                            |
+|                                                                                              |1 [Kraul Harpooner](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452886)     |                                                                                            |
+|                                                                                              |2 [Scab-Clan Berserker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=398461) |                                                                                            |
+|                                                                                              |2 [Scavenging Ooze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420783)     |                                                                                            |
 
 
 # Other Options
 
-|*n*<sup>th</sup> copy|Maindeck Card|*n*<sup>th</sup> copy|                                      Sideboard Card                                      |
-|---------------------|-------------|--------------------:|------------------------------------------------------------------------------------------|
-|                     |             |                    1|[Kraul Harpooner](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452886)|
-|                     |             |                    3|[Cindervines](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457305)    |
+|*n*<sup>th</sup> copy|Maindeck Card|*n*<sup>th</sup> copy|                                         Sideboard Card                                          |
+|---------------------|-------------|--------------------:|-------------------------------------------------------------------------------------------------|
+|                     |             |                    1|[Embereth Shieldbreaker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473084)|
+|                     |             |                    3|[Oath of Chandra](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407623)       |
 

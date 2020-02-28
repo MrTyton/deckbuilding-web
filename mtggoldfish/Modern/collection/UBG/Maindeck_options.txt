@@ -15,11 +15,11 @@
 1 Darkslick Shores
 2 Darkslick Shores
 1 Spreading Seas
-1 Castle Locthwain
 1 Opt
 1 Murderous Rider
 1 Liliana's Triumph
 1 Blooming Marsh
+1 Castle Locthwain
 2 Spreading Seas
 2 Opt
 2 Blooming Marsh
@@ -62,46 +62,46 @@
 3 Gifts Ungiven
 4 Prismatic Vista
 4 Gifts Ungiven
-1 Gravecrawler
 1 Bloodghast
 1 Creeping Chill
 1 Hedron Crab
 1 Prized Amalgam
 1 Merfolk Secretkeeper
+1 Gravecrawler
 1 Bloodstained Mire
 1 Grisly Salvage
 1 Stitcher's Supplier
 1 Driven/Despair
 1 Vengevine
-2 Gravecrawler
 2 Hedron Crab
 2 Bloodghast
 2 Creeping Chill
 2 Prized Amalgam
 2 Bloodstained Mire
-2 Grisly Salvage
 2 Vengevine
 2 Watery Grave
-2 Merfolk Secretkeeper
 2 Stitcher's Supplier
-3 Gravecrawler
+2 Gravecrawler
+2 Grisly Salvage
+2 Merfolk Secretkeeper
 3 Watery Grave
 3 Bloodghast
 3 Creeping Chill
 3 Hedron Crab
 3 Prized Amalgam
-3 Merfolk Secretkeeper
 3 Vengevine
+3 Merfolk Secretkeeper
 3 Grisly Salvage
 3 Stitcher's Supplier
+3 Gravecrawler
 4 Bloodghast
 4 Hedron Crab
 4 Creeping Chill
 4 Prized Amalgam
 4 Gravecrawler
-4 Grisly Salvage
 4 Stitcher's Supplier
 4 Merfolk Secretkeeper
+4 Grisly Salvage
 4 Vengevine
 1 Gilded Goose
 1 Metallic Rebuke
@@ -112,8 +112,8 @@
 2 Gilded Goose
 2 Cryptic Command
 2 Tireless Tracker
-2 Urza, Lord High Artificer
 2 Mishra's Bauble
+2 Urza, Lord High Artificer
 3 Metallic Rebuke
 3 Mystic Sanctuary
 3 Cryptic Command

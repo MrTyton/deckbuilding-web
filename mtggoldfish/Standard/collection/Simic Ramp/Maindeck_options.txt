@@ -21,9 +21,9 @@
 2 Gilded Goose
 1 Questing Beast
 1 Aether Gust
-1 Paradise Druid
 1 Frilled Mystic
 1 Negate
+1 Paradise Druid
 2 Paradise Druid
 2 Negate
 2 Frilled Mystic
@@ -42,14 +42,17 @@
 3 Quench
 4 Nightpack Ambusher
 4 Frilled Mystic
-1 Quasiduplicate
 3 Gilded Goose
 4 Gilded Goose
 2 Questing Beast
-2 Quasiduplicate
 3 Thassa, Deep-Dwelling
 4 Arboreal Grazer
+1 Quasiduplicate
 3 Agent of Treachery
+2 Quasiduplicate
+1 Healer of the Glade
+2 Healer of the Glade
+3 Healer of the Glade
 1 Tamiyo, Collector of Tales
 2 Tamiyo, Collector of Tales
 12 Forest
@@ -59,6 +62,7 @@
 1 Wicked Wolf
 2 Wicked Wolf
 3 Castle Garenbrig
+4 Healer of the Glade
 1 Disdainful Stroke
 1 Shifting Ceratops
 1 Gadwick, the Wizened
@@ -67,10 +71,6 @@
 3 Paradise Druid
 3 Brazen Borrower
 4 Paradise Druid
-1 Healer of the Glade
-2 Healer of the Glade
-3 Healer of the Glade
-4 Healer of the Glade
 1 Flood of Tears
 2 Flood of Tears
 4 Agent of Treachery
