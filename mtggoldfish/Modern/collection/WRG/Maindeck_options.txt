@@ -1,9 +1,9 @@
 2 Wooded Foothills
-1 Sunbaked Canyon
 1 Lightning Bolt
+1 Sunbaked Canyon
 1 Path to Exile
-2 Path to Exile
 2 Lightning Bolt
+2 Path to Exile
 3 Lightning Bolt
 3 Wooded Foothills
 4 Lightning Bolt
@@ -27,19 +27,19 @@
 2 Sacred Foundry
 2 Boros Charm
 2 Lightning Helix
-2 Mountain
 2 Rest in Peace
-2 Skewer the Critics
 2 Rift Bolt
-2 Sunbaked Canyon
+2 Skewer the Critics
 2 Monastery Swiftspear
 2 Lava Spike
+2 Sunbaked Canyon
 2 Goblin Guide
 2 Searing Blaze
 2 Arid Mesa
 2 Eidolon of the Great Revel
 2 Destructive Revelry
 2 Deflecting Palm
+2 Mountain
 2 Skullcrack
 3 Inspiring Vantage
 3 Boros Charm
@@ -56,10 +56,10 @@
 3 Sunbaked Canyon
 3 Skullcrack
 4 Boros Charm
-4 Lava Spike
 4 Goblin Guide
 4 Searing Blaze
 4 Skewer the Critics
+4 Lava Spike
 4 Monastery Swiftspear
 4 Rift Bolt
 4 Eidolon of the Great Revel
@@ -95,13 +95,13 @@
 2 Vizier of Remedies
 3 Vizier of Remedies
 3 Razorverge Thicket
-3 Chord of Calling
 3 Birds of Paradise
-3 Gilded Goose
+3 Chord of Calling
 3 Horizon Canopy
 3 Devoted Druid
 3 Spellskite
 3 Eladamri's Call
+3 Gilded Goose
 3 Duskwatch Recruiter
 3 Postmortem Lunge
 4 Vizier of Remedies
@@ -113,24 +113,24 @@
 4 Eladamri's Call
 4 Devoted Druid
 4 Duskwatch Recruiter
-1 Questing Beast
 1 Kessig Wolf Run
+1 Questing Beast
+1 Chandra, Torch of Defiance
+1 Embercleave
 1 Field of Ruin
 1 Tranquil Thicket
 1 Wrenn and Six
-1 Embercleave
 1 Knight of the Reliquary
+1 Tireless Tracker
 1 Tarmogoyf
 1 Batterskull
 1 Sword of Fire and Ice
-1 Tireless Tracker
-1 Chandra, Torch of Defiance
 1 Stoneforge Mystic
 1 Blast Zone
 1 Ghost Quarter
 1 Snow-Covered Mountain
-2 Tireless Tracker
 2 Wrenn and Six
+2 Tireless Tracker
 2 Knight of the Reliquary
 2 Tarmogoyf
 2 Stomping Ground
@@ -145,19 +145,19 @@
 4 Wooded Foothills
 4 Stoneforge Mystic
 1 Finale of Devastation
-1 Primeval Titan
-1 Castle Garenbrig
+1 Nissa, Who Shakes the World
 1 Primal Command
 1 Burning-Tree Emissary
 1 Leyline of Abundance
 1 Nykthos, Shrine to Nyx
+1 Acidic Slime
 1 Elvish Mystic
+1 Courser of Kruphix
 1 Craterhoof Behemoth
 1 Wistful Selkie
-1 Acidic Slime
-1 Nissa, Who Shakes the World
 1 Garruk Wildspeaker
-1 Courser of Kruphix
+1 Castle Garenbrig
+1 Primeval Titan
 1 Genesis Wave
 1 Llanowar Elves
 2 Finale of Devastation
@@ -175,10 +175,10 @@
 3 Elvish Mystic
 3 Burning-Tree Emissary
 3 Garruk Wildspeaker
-4 Forest
 4 Nykthos, Shrine to Nyx
 4 Burning-Tree Emissary
 4 Leyline of Abundance
+4 Forest
 4 Llanowar Elves
 4 Elvish Mystic
 5 Forest

@@ -1,100 +1,102 @@
-2 Breeding Pool
+1 Blood Moon
+2 Blood Moon
 1 Jace, the Mind Sculptor
 1 Tireless Tracker
-1 Mana Leak
-2 Mana Leak
-2 Wooded Foothills
-2 Tireless Tracker
 4 Thought Scour
+1 Wooded Foothills
 3 Snapcaster Mage
 1 Field of the Dead
-2 Jace, the Mind Sculptor
-1 Field of Ruin
+2 Tireless Tracker
 1 Sulfur Falls
-1 Force of Negation
-3 Remand
 1 Flooded Strand
 2 Flooded Strand
-2 Snow-Covered Mountain
-1 Brazen Borrower
-1 Fiery Islet
 1 Pulse of Murasa
-1 Bloodbraid Elf
-2 Bloodbraid Elf
-3 Skred
-4 Wrenn and Six
-2 Force of Negation
+2 Wooded Foothills
 2 Sulfur Falls
-2 Lonely Sandbar
+2 Jace, the Mind Sculptor
+3 Remand
+1 Field of Ruin
+1 Force of Negation
 5 Snow-Covered Island
-1 Island
-4 Uro, Titan of Nature's Wrath
-1 Deprive
-1 Valakut, the Molten Pinnacle
-1 Dryad of the Ilysian Grove
-1 Ghost Quarter
-1 Tolaria West
-1 Birds of Paradise
-2 Dryad of the Ilysian Grove
-2 Tolaria West
-2 Deprive
-2 Birds of Paradise
-3 Dryad of the Ilysian Grove
-3 Birds of Paradise
-4 Dryad of the Ilysian Grove
-4 Birds of Paradise
-1 Serum Visions
-2 Serum Visions
-3 Mystic Sanctuary
-1 Tarmogoyf
-2 Tarmogoyf
-3 Tarmogoyf
-4 Tarmogoyf
-1 Magmatic Sinkhole
-3 Bloodbraid Elf
-4 Bloodbraid Elf
-3 Snow-Covered Forest
-1 Waterlogged Grove
-1 Tranquil Thicket
-1 The Royal Scions
 1 Kiki-Jiki, Mirror Breaker
 1 Deceiver Exarch
 2 Kiki-Jiki, Mirror Breaker
 2 Deceiver Exarch
 3 Deceiver Exarch
 4 Deceiver Exarch
-4 Remand
-3 Prismatic Vista
-4 Prismatic Vista
+1 Brazen Borrower
+3 Mystic Sanctuary
+1 Magmatic Sinkhole
+4 Wrenn and Six
+1 Bloodbraid Elf
+2 Bloodbraid Elf
+2 Snow-Covered Mountain
+3 Skred
+2 Force of Negation
+1 Fiery Islet
+1 Island
 1 Polluted Delta
 2 Polluted Delta
+2 Lonely Sandbar
+1 Ghost Quarter
+4 Uro, Titan of Nature's Wrath
+1 Deprive
+1 Tolaria West
+1 Dryad of the Ilysian Grove
+1 Birds of Paradise
+1 Valakut, the Molten Pinnacle
+2 Deprive
+2 Tolaria West
+2 Birds of Paradise
+2 Dryad of the Ilysian Grove
+3 Birds of Paradise
+3 Dryad of the Ilysian Grove
+4 Birds of Paradise
+4 Dryad of the Ilysian Grove
+1 Tarmogoyf
+2 Tarmogoyf
+3 Tarmogoyf
+4 Tarmogoyf
+3 Bloodbraid Elf
+4 Bloodbraid Elf
+3 Snow-Covered Forest
+1 Waterlogged Grove
+1 Tranquil Thicket
+1 The Royal Scions
+4 Remand
+1 Serum Visions
+2 Serum Visions
+3 Prismatic Vista
+4 Prismatic Vista
 3 Wooded Foothills
-3 Serum Visions
-4 Serum Visions
 6 Snow-Covered Island
 1 Fact or Fiction
 2 Fact or Fiction
 1 Spell Pierce
+1 Archmage's Charm
 1 Spell Snare
 3 Flooded Strand
-1 Cinder Glade
+3 Serum Visions
+4 Serum Visions
+1 Tale's End
 1 Electrolyze
+1 Cinder Glade
 2 Electrolyze
 2 Pulse of Murasa
+3 Tireless Tracker
+3 Deprive
 1 Forgotten Cave
 2 Brazen Borrower
 3 Mana Leak
-3 Tireless Tracker
-3 Deprive
 1 Gemstone Caverns
 1 Chandra, Torch of Defiance
 1 Fires of Invention
 1 Time Warp
 1 Savor the Moment
 1 Mikokoro, Center of the Sea
+2 Chandra, Torch of Defiance
 2 Savor the Moment
 2 Fires of Invention
-2 Chandra, Torch of Defiance
 2 Time Warp
 3 Time Warp
 3 Savor the Moment
@@ -110,6 +112,7 @@
 2 Nexus of Fate
 3 Wilderness Reclamation
 3 Fact or Fiction
+1 Growth Spiral
 1 Opt
 1 Omen of the Sea
 2 Opt
@@ -120,18 +123,15 @@
 4 Skred
 4 Once Upon a Time
 1 Mountain
+4 Cryptic Command
 4 Flooded Strand
-1 Archmage's Charm
+2 Archmage's Charm
+3 Archmage's Charm
 2 Island
 3 Island
 3 Steam Vents
 4 Snapcaster Mage
 4 Island
-1 Ancestral Vision
-2 Ancestral Vision
-3 Ancestral Vision
-1 Abrade
-1 Tale's End
 1 Ramunap Excavator
 2 Ghost Quarter
 3 Ghost Quarter
@@ -150,18 +150,18 @@
 2 Through the Breach
 3 Through the Breach
 3 Emrakul, the Aeons Torn
-1 Utopia Sprawl
 1 Klothys, God of Destiny
 1 Arbor Elf
-2 The Royal Scions
-2 Utopia Sprawl
-2 Arbor Elf
+1 Utopia Sprawl
 2 Klothys, God of Destiny
-3 Arbor Elf
+2 Arbor Elf
+2 Utopia Sprawl
+2 The Royal Scions
 3 Utopia Sprawl
-4 Wooded Foothills
+3 Arbor Elf
 4 Arbor Elf
 4 Utopia Sprawl
+4 Wooded Foothills
 1 Shadow of Doubt
 1 Repudiate/Replicate
 1 Spark Double
@@ -171,59 +171,31 @@
 3 Garruk Relentless
 4 Garruk Relentless
 4 Spark Double
-1 Pestermite
 1 Condescend
+1 Pestermite
 1 Anger of the Gods
-2 Anger of the Gods
 2 Pestermite
 2 Condescend
-3 Anger of the Gods
+2 Anger of the Gods
 3 Condescend
 3 Sulfur Falls
 3 Kiki-Jiki, Mirror Breaker
+3 Anger of the Gods
 4 Steam Vents
-4 Cryptic Command
 4 Condescend
-1 Simian Spirit Guide
-1 Blast Zone
-1 As Foretold
-1 Finale of Promise
-1 Restore Balance
-1 Crashing Footfalls
-1 Greater Gargadon
-1 Izzet Charm
-1 Karn, the Great Creator
-1 Electrodominance
-2 Simian Spirit Guide
-2 Electrodominance
-2 As Foretold
-2 Crashing Footfalls
-2 Greater Gargadon
-2 Restore Balance
-2 Izzet Charm
-2 Fiery Islet
-3 Simian Spirit Guide
-3 Restore Balance
-3 Electrodominance
-3 Crashing Footfalls
-3 As Foretold
-3 Greater Gargadon
-4 Simian Spirit Guide
-4 Electrodominance
-4 Crashing Footfalls
-4 As Foretold
-4 Restore Balance
 1 Domri, Anarch of Bolas
+1 Ancestral Vision
 1 Magus of the Moon
-2 Domri, Anarch of Bolas
 2 Stomping Ground
+2 Domri, Anarch of Bolas
+2 Ancestral Vision
 2 Magus of the Moon
+3 Ancestral Vision
 4 Snow-Covered Forest
 4 Ancestral Vision
-1 Growth Spiral
-7 Snow-Covered Island
 1 Young Pyromancer
 1 Flame Slash
+1 Abrade
 1 Vapor Snag
 1 Delver of Secrets
 2 Spell Snare
@@ -232,12 +204,15 @@
 2 Vapor Snag
 2 Flame Slash
 2 Delver of Secrets
-2 Archmage's Charm
 3 Spell Pierce
-3 Archmage's Charm
 3 Young Pyromancer
 3 Polluted Delta
 3 Delver of Secrets
 4 Young Pyromancer
 4 Polluted Delta
 4 Delver of Secrets
+7 Snow-Covered Island
+2 Growth Spiral
+3 Growth Spiral
+4 Archmage's Charm
+4 Growth Spiral

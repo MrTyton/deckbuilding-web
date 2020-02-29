@@ -1,96 +1,106 @@
-2 Bonecrusher Giant
-2 Mountain
-2 Snow-Covered Mountain
-1 Sheltered Thicket
-1 Elvish Rejuvenator
+4 Sakura-Tribe Elder
 1 Verdant Catacombs
+1 Blast Zone
+2 Cavern of Souls
+3 Scapeshift
+4 Stomping Ground
+1 Lightning Bolt
+2 Lightning Bolt
+3 Lightning Bolt
+4 Lightning Bolt
+2 Windswept Heath
+1 Utopia Sprawl
+1 Arbor Elf
+2 Utopia Sprawl
+2 Arbor Elf
+3 Arbor Elf
+3 Snow-Covered Forest
+3 Windswept Heath
+3 Utopia Sprawl
+4 Utopia Sprawl
+4 Arbor Elf
+4 Snow-Covered Forest
+5 Snow-Covered Forest
+6 Snow-Covered Forest
+1 Birds of Paradise
+1 Bloodbraid Elf
+2 Bloodbraid Elf
+3 Bloodbraid Elf
+1 Glorybringer
+1 Seasoned Pyromancer
+2 Glorybringer
+2 Seasoned Pyromancer
+3 Seasoned Pyromancer
+4 Bloodbraid Elf
+1 Chandra, Torch of Defiance
+2 Chandra, Torch of Defiance
+4 Windswept Heath
+1 Radiant Fountain
+1 Elvish Rejuvenator
 1 Vesuva
 1 Oracle of Mul Daya
-1 Field of the Dead
-1 Arboreal Grazer
 1 Dwarven Mine
-1 Dryad of the Ilysian Grove
-1 Castle Garenbrig
-1 Primeval Titan
-1 Valakut, the Molten Pinnacle
-1 Cinder Glade
 1 Khalni Garden
 1 Warp World
-1 Sakura-Tribe Elder
 2 Elvish Rejuvenator
 2 Oracle of Mul Daya
-2 Field of the Dead
-2 Primeval Titan
-2 Sakura-Tribe Elder
-2 Castle Garenbrig
 2 Warp World
-2 Valakut, the Molten Pinnacle
-2 Arboreal Grazer
-2 Dryad of the Ilysian Grove
 3 Elvish Rejuvenator
 3 Snow-Covered Mountain
-3 Arboreal Grazer
-3 Primeval Titan
-3 Valakut, the Molten Pinnacle
-3 Sakura-Tribe Elder
-3 Castle Garenbrig
-3 Field of the Dead
-3 Dryad of the Ilysian Grove
 4 Elvish Rejuvenator
-4 Arboreal Grazer
-4 Sakura-Tribe Elder
-4 Dryad of the Ilysian Grove
-4 Primeval Titan
-4 Castle Garenbrig
-2 Forest
-2 Birds of Paradise
-1 Scavenging Ooze
-1 Domri, Anarch of Bolas
-2 Scavenging Ooze
-3 Bonecrusher Giant
-3 Forest
-4 Forest
-5 Forest
+1 Kessig Wolf Run
+1 Klothys, God of Destiny
+2 Klothys, God of Destiny
+1 Bonecrusher Giant
+1 Magus of the Moon
+2 Magus of the Moon
+3 Magus of the Moon
+3 Glorybringer
+4 Glorybringer
+4 Magus of the Moon
+1 Misty Rainforest
+1 Wrenn and Six
+2 Wrenn and Six
 1 Chandra, Awakened Inferno
+1 Inferno Titan
 7 Snow-Covered Forest
-1 Tireless Tracker
-2 Tireless Tracker
-3 Tireless Tracker
-1 Blood Moon
 1 Pillage
-2 Blood Moon
+1 Blood Moon
 2 Pillage
+2 Blood Moon
 3 Pillage
 3 Blood Moon
 4 Blood Moon
-6 Forest
-7 Forest
+2 Birds of Paradise
+1 Gruul Spellbreaker
+2 Gruul Spellbreaker
+3 Gruul Spellbreaker
+2 Bonecrusher Giant
+3 Bonecrusher Giant
+3 Mountain
+1 Scavenging Ooze
 1 Noble Hierarch
 2 Noble Hierarch
 3 Noble Hierarch
 4 Noble Hierarch
-4 Bonecrusher Giant
-1 Gruul Spellbreaker
-2 Gruul Spellbreaker
-3 Gruul Spellbreaker
-2 Domri, Anarch of Bolas
-1 Misty Rainforest
 1 Eldrazi Obligator
 1 Eldrazi Temple
 1 Thought-Knot Seer
 1 Reality Smasher
-1 Questing Beast
 1 Grove of the Burnwillows
+1 Questing Beast
+1 Domri, Anarch of Bolas
 1 Karplusan Forest
 1 Ghor-Clan Rampager
 2 Questing Beast
 2 Eldrazi Temple
 2 Thought-Knot Seer
 2 Reality Smasher
-2 Kessig Wolf Run
 2 Grove of the Burnwillows
+2 Domri, Anarch of Bolas
 2 Eldrazi Obligator
 2 Karplusan Forest
+2 Kessig Wolf Run
 3 Thought-Knot Seer
 3 Eldrazi Temple
 3 Reality Smasher
@@ -102,16 +112,26 @@
 4 Eldrazi Obligator
 4 Karplusan Forest
 2 Chandra, Awakened Inferno
-1 Forgotten Cave
 1 Abrade
-1 Wrenn and Six
+1 Tireless Tracker
+1 Forgotten Cave
 1 Tranquil Thicket
-2 Wrenn and Six
+2 Tireless Tracker
+3 Tireless Tracker
 3 Wrenn and Six
-1 Stone Rain
-2 Stone Rain
-2 Inferno Titan
-4 Tireless Tracker
+4 Valakut, the Molten Pinnacle
+1 Magmatic Sinkhole
+1 Platinum Emperion
+1 Madcap Experiment
+1 Primal Command
+2 Madcap Experiment
+2 Platinum Emperion
+3 Madcap Experiment
+4 Bonecrusher Giant
+4 Madcap Experiment
+1 Bonfire of the Damned
+2 Scavenging Ooze
+4 Gruul Spellbreaker
 1 Elvish Mystic
 1 Karn, the Great Creator
 1 Vivien, Arkbow Ranger
@@ -136,47 +156,24 @@
 2 Llanowar Tribe
 2 Oath of Nissa
 2 Burning-Tree Emissary
+3 Forest
 3 Karn, the Great Creator
 3 Oath of Nissa
-3 Burning-Tree Emissary
 3 Horizon Canopy
+3 Burning-Tree Emissary
 3 Elvish Mystic
 3 Vivien, Arkbow Ranger
 3 Leyline of Abundance
 3 Nykthos, Shrine to Nyx
 3 Genesis Hydra
+4 Forest
 4 Karn, the Great Creator
 4 Leyline of Abundance
-4 Oath of Nissa
 4 Burning-Tree Emissary
+4 Oath of Nissa
 4 Vivien, Arkbow Ranger
 4 Nykthos, Shrine to Nyx
-1 Magmatic Sinkhole
-1 Platinum Emperion
-1 Madcap Experiment
-1 Primal Command
-2 Madcap Experiment
-2 Platinum Emperion
-3 Madcap Experiment
-4 Madcap Experiment
-3 Mountain
-1 Legion Warboss
-1 Embercleave
-1 Goblin Rabblemaster
-1 Rootbound Crag
-2 Legion Warboss
-2 Goblin Rabblemaster
-2 Embercleave
-3 Birds of Paradise
-3 Legion Warboss
-3 Goblin Rabblemaster
-4 Birds of Paradise
-4 Legion Warboss
-4 Goblin Rabblemaster
-4 Seasoned Pyromancer
-4 Mountain
-1 Bonfire of the Damned
-4 Gruul Spellbreaker
+5 Forest
 1 Bloodstained Mire
 1 Arid Mesa
 1 Atarka's Command
@@ -196,31 +193,31 @@
 2 Copperline Gorge
 2 Searing Blaze
 2 Goblin Guide
+2 Sunbaked Canyon
 2 Grim Lavamancer
 2 Lava Spike
 2 Monastery Swiftspear
-2 Eidolon of the Great Revel
-2 Sunbaked Canyon
-2 Rift Bolt
 2 Skewer the Critics
-3 Arid Mesa
+2 Eidolon of the Great Revel
+2 Rift Bolt
 3 Bloodstained Mire
+3 Arid Mesa
 3 Atarka's Command
 3 Eidolon of the Great Revel
 3 Rift Bolt
 3 Lava Spike
 3 Monastery Swiftspear
+3 Copperline Gorge
 3 Skewer the Critics
 3 Goblin Guide
-3 Copperline Gorge
 3 Searing Blaze
 4 Arid Mesa
 4 Atarka's Command
-4 Copperline Gorge
 4 Eidolon of the Great Revel
+4 Copperline Gorge
 4 Rift Bolt
 4 Monastery Swiftspear
+4 Lava Spike
 4 Skewer the Critics
 4 Searing Blaze
 4 Goblin Guide
-4 Lava Spike

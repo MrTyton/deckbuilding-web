@@ -1,3 +1,10 @@
+4 Irrigated Farmland
+1 Dryad Militant
+2 Dryad Militant
+1 Castle Ardenvale
+1 Castle Vantress
+1 Supreme Verdict
+1 Island
 1 Dig Through Time
 2 Supreme Verdict
 2 Island
@@ -5,9 +12,10 @@
 3 Island
 4 Island
 4 Supreme Verdict
-5 Island
+1 Gideon of the Trials
 1 Field of Ruin
 2 Castle Ardenvale
+5 Island
 1 Azorius Charm
 2 Azorius Charm
 1 Geier Reach Sanitarium
@@ -24,18 +32,10 @@
 2 Opt
 3 Opt
 4 Opt
-1 Gideon of the Trials
 1 Cast Out
 1 Censor
-1 Dryad Militant
-1 Archangel Avacyn
-2 Dryad Militant
-2 Archangel Avacyn
-3 Spell Queller
 3 Dryad Militant
-1 Tomik, Distinguished Advokist
 1 Ojutai's Command
-2 Tomik, Distinguished Advokist
 2 Ojutai's Command
 3 Port Town
 1 Seal Away
@@ -56,6 +56,7 @@
 6 Island
 1 Syncopate
 2 Detention Sphere
+1 Gideon, Ally of Zendikar
 1 Torrential Gearhulk
 2 Gideon of the Trials
 1 Elspeth, Sun's Nemesis
@@ -71,8 +72,8 @@
 2 Fabled Passage
 3 Blessed Alliance
 1 The Birth of Meletis
-1 Day's Undoing
 1 Void Shatter
+1 Day's Undoing
 2 The Birth of Meletis
 2 Geier Reach Sanitarium
 2 Commit/Memory
@@ -80,8 +81,8 @@
 3 Narset, Parter of Veils
 3 The Birth of Meletis
 4 Narset, Parter of Veils
-1 Elspeth Conquers Death
 1 Ipnu Rivulet
+1 Elspeth Conquers Death
 2 Elspeth, Sun's Champion
 3 Teferi, Hero of Dominaria
 3 Dig Through Time
@@ -89,7 +90,6 @@
 1 Omen of the Sea
 1 Search for Azcanta
 1 Brazen Borrower
-1 Gideon, Ally of Zendikar
 1 Whirlwind Denial
 1 Lazotep Plating
 1 Myth Realized
@@ -101,3 +101,8 @@
 3 Myth Realized
 4 Myth Realized
 7 Island
+1 Reflector Mage
+2 Reflector Mage
+4 Spell Queller
+9 Plains
+10 Plains

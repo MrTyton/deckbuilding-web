@@ -34,3 +34,18 @@
 |1 [Scavenging Ooze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420783)    |                                                                                            |
 |1 [Selfless Spirit](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414332)    |                                                                                            |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                       Maindeck Card                                        |*n*<sup>th</sup> copy|                                         Sideboard Card                                          |
+|--------------------:|--------------------------------------------------------------------------------------------|--------------------:|-------------------------------------------------------------------------------------------------|
+|                    1|[Verdant Catacombs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405113)|                    1|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)         |
+|                    1|[Selfless Spirit](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414332)  |                    1|[Choke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45431)                  |
+|                    1|[Mirror Entity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376409)    |                    1|[Burrenton Forge-Tender](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438580)|
+|                    1|[Copperhorn Scout](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416936) |                    1|[Lead the Stampede](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382295)     |
+|                    1|[Essence Warden](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389505)   |                    1|[Sylvan Messenger](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=27666)       |
+|                    1|[Pendelhaven](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442233)      |                    2|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)         |
+|                    3|[Collected Company](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394519)|                    2|[Knight of Autumn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452933)      |
+|                    4|[Horizon Canopy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409571)   |                    2|[Lead the Stampede](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382295)     |
+|                    4|[Collected Company](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394519)|                    2|[Choke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45431)                  |
+

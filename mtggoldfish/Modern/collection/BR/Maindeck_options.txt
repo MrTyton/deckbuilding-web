@@ -1,3 +1,7 @@
+1 Flameblade Adept
+1 Goblin Lore
+1 Underworld Breach
+1 Hollow One
 1 Flamewake Phoenix
 2 Ox of Agonas
 2 Forgotten Cave
@@ -26,66 +30,100 @@
 11 Mountain
 12 Mountain
 13 Mountain
+1 Castle Locthwain
+1 Dark Confidant
+2 Dark Confidant
+3 Dark Confidant
+4 Dark Confidant
+5 Swamp
+1 Dragonskull Summit
+2 Dragonskull Summit
+3 Liliana of the Veil
+4 Inquisition of Kozilek
+4 Liliana of the Veil
+1 Polluted Delta
+2 Polluted Delta
+3 Polluted Delta
+1 Terminate
+1 Fulminator Mage
+2 Fulminator Mage
+3 Fulminator Mage
 1 Lightning Skelemental
 2 Lightning Skelemental
 3 Blood Crypt
 3 Lightning Skelemental
 4 Lightning Skelemental
-1 Kolaghan's Command
-2 Kolaghan's Command
-4 Swamp
-1 Fulminator Mage
-2 Fulminator Mage
-3 Fulminator Mage
 1 Dreadhorde Arcanist
 2 Dreadhorde Arcanist
 3 Dreadhorde Arcanist
-1 Polluted Delta
-2 Polluted Delta
-3 Polluted Delta
-3 Fatal Push
 1 Fiery Islet
 1 Sunbaked Canyon
 2 Fiery Islet
 3 Fiery Islet
-1 Snow-Covered Mountain
-2 Snow-Covered Mountain
 1 Wooded Foothills
 2 Wooded Foothills
+1 Blood Moon
+1 Snow-Covered Mountain
+2 Snow-Covered Mountain
 1 Lightning Axe
+1 Lavaclaw Reaches
+1 Collective Brutality
+2 Blood Moon
+2 Collective Brutality
+2 Lavaclaw Reaches
+2 Terminate
+2 Castle Locthwain
+1 Carrion Feeder
+1 Dreadhorde Butcher
+1 Gravecrawler
+1 Snow-Covered Swamp
+2 Carrion Feeder
+2 Dreadhorde Butcher
+2 Gravecrawler
+2 Snow-Covered Swamp
+3 Snow-Covered Swamp
+3 Gravecrawler
+3 Dreadhorde Butcher
+4 Polluted Delta
+4 Dreadhorde Butcher
 1 Goblin Bushwhacker
 3 Cathartic Reunion
 3 Forgotten Cave
 3 Underworld Breach
 4 Forgotten Cave
-1 Terminate
-1 Magus of the Moon
 1 Castle Embereth
+1 Magus of the Moon
 1 Thrill of Possibility
 1 Marsh Flats
 2 Magus of the Moon
 2 Thrill of Possibility
 2 Marsh Flats
+3 Marsh Flats
 3 Magus of the Moon
 3 Thrill of Possibility
-3 Marsh Flats
 4 Magus of the Moon
-1 Castle Locthwain
 1 Bonecrusher Giant
-1 Dark Confidant
 2 Bonecrusher Giant
-2 Dark Confidant
 3 Bonecrusher Giant
-3 Dark Confidant
 4 Bonecrusher Giant
 4 Kroxa, Titan of Death's Hunger
-4 Dark Confidant
 4 Fulminator Mage
 1 Prismatic Vista
+1 Temur Battle Rage
+1 Death's Shadow
+1 Verdant Catacombs
+2 Temur Battle Rage
+2 Verdant Catacombs
+2 Death's Shadow
+3 Death's Shadow
+3 Verdant Catacombs
+4 Blood Crypt
+4 Death's Shadow
+4 Verdant Catacombs
 1 Chandra, Torch of Defiance
 1 Thought-Knot Seer
-1 Simian Spirit Guide
 1 Hazoret the Fervent
+1 Simian Spirit Guide
 1 Eldrazi Obligator
 1 Ghost Quarter
 1 Chalice of the Void
@@ -102,16 +140,16 @@
 1 Ramunap Ruins
 2 Wastes
 2 Ghost Quarter
+2 Thought-Knot Seer
 2 Prismatic Vista
 2 Simian Spirit Guide
-2 Thought-Knot Seer
 2 Eldrazi Obligator
 2 Chalice of the Void
 2 Reality Smasher
-2 Eternal Scourge
 2 Eldrazi Temple
 2 Blast Zone
 2 Dismember
+2 Eternal Scourge
 2 Serum Powder
 2 Ramunap Ruins
 2 Cavern of Souls
@@ -152,17 +190,16 @@
 1 Arid Mesa
 1 Eidolon of the Great Revel
 1 Skewer the Critics
+1 Seal of Fire
 1 Searing Blaze
 1 Goblin Guide
 1 Rift Bolt
-1 Blood Moon
-1 Seal of Fire
 2 Arid Mesa
 2 Eidolon of the Great Revel
 2 Searing Blaze
 2 Goblin Guide
-2 Rift Bolt
 2 Skewer the Critics
+2 Rift Bolt
 2 Shard Volley
 2 Seal of Fire
 3 Eidolon of the Great Revel
@@ -172,43 +209,13 @@
 3 Searing Blaze
 3 Seal of Fire
 3 Shard Volley
-4 Fiery Islet
 4 Eidolon of the Great Revel
 4 Rift Bolt
 4 Skewer the Critics
 4 Searing Blaze
 4 Goblin Guide
+4 Fiery Islet
 4 Seal of Fire
-1 Carrion Feeder
-1 Dragonskull Summit
-1 Dreadhorde Butcher
-1 Gravecrawler
-1 Snow-Covered Swamp
-2 Carrion Feeder
-2 Dragonskull Summit
-2 Dreadhorde Butcher
-2 Gravecrawler
-2 Snow-Covered Swamp
-3 Snow-Covered Swamp
-3 Gravecrawler
-3 Dreadhorde Butcher
-3 Liliana of the Veil
-4 Polluted Delta
-4 Inquisition of Kozilek
-4 Dreadhorde Butcher
-4 Liliana of the Veil
-1 Temur Battle Rage
-1 Death's Shadow
-1 Verdant Catacombs
-2 Temur Battle Rage
-2 Verdant Catacombs
-2 Death's Shadow
-3 Death's Shadow
-3 Verdant Catacombs
-4 Blood Crypt
-4 Death's Shadow
-4 Verdant Catacombs
-5 Swamp
 1 Light Up the Stage
 1 Bedlam Reveler
 1 Manamorphose
@@ -218,13 +225,13 @@
 1 Lava Dart
 2 Light Up the Stage
 2 Bedlam Reveler
-2 Burst Lightning
 2 Manamorphose
+2 Burst Lightning
 2 Lava Dart
 2 Soul-Scar Mage
 2 Crash Through
-3 Light Up the Stage
 3 Snow-Covered Mountain
+3 Light Up the Stage
 3 Manamorphose
 3 Bedlam Reveler
 3 Burst Lightning
@@ -232,8 +239,8 @@
 3 Crash Through
 3 Lava Dart
 4 Snow-Covered Mountain
-4 Light Up the Stage
 4 Manamorphose
+4 Light Up the Stage
 4 Lava Dart
 4 Crash Through
 4 Bedlam Reveler
