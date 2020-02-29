@@ -33,8 +33,8 @@
 
 |*n*<sup>th</sup> copy|                                        Maindeck Card                                         |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
 |--------------------:|----------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
-|                    4|[Arid Mesa](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405092)          |                    1|[Lightning Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=806)        |
-|                    1|[Bloodstained Mire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405094)  |                    1|Soul-Guide Lantern                                                                            |
+|                    4|[Arid Mesa](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405092)          |                    1|Soul-Guide Lantern                                                                            |
+|                    1|[Bloodstained Mire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405094)  |                    1|[Lightning Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=806)        |
 |                    1|[Smuggler's Copter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417808)  |                    1|[Red Elemental Blast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=814)   |
 |                    1|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)           |                    1|[Mycosynth Lattice](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446209)  |
 |                    1|[Great Furnace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389542)      |                    2|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|

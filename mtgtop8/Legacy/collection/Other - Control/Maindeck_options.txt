@@ -29,16 +29,16 @@
 2 Scalding Tarn
 1 Snow-Covered Forest
 1 Tropical Island
-1 Taiga
-1 Punishing Fire
-1 Grove of the Burnwillows
 1 Gilded Goose
 1 Badlands
 1 Dack Fayden
 1 Shenanigans
 1 Abrade
 1 Liquimetal Coating
+1 Grove of the Burnwillows
 1 Kolaghan's Command
+1 Taiga
+1 Punishing Fire
 1 Goblin Welder
 1 Sword of Sinew and Steel
 1 Wooded Foothills
@@ -69,8 +69,8 @@
 2 Faithless Looting
 2 Tin Street Hooligan
 2 Kolaghan's Command
-3 Wooded Foothills
 3 Grove of the Burnwillows
+3 Wooded Foothills
 3 Liquimetal Coating
 3 Tin Street Hooligan
 3 Dack Fayden
@@ -161,7 +161,6 @@
 1 Waterlogged Grove
 1 Mox Diamond
 1 Green Sun's Zenith
-2 Misty Rainforest
 2 Snow-Covered Forest
 2 Ancient Tomb
 2 Oko, Thief of Crowns
@@ -170,6 +169,7 @@
 2 Green Sun's Zenith
 2 Sylvan Library
 2 Mox Diamond
+2 Misty Rainforest
 3 Oko, Thief of Crowns
 3 Ancient Tomb
 3 Chalice of the Void
