@@ -57,8 +57,8 @@
 |                    3|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)                   |                     |                                                                                            |
 |                    3|[Fabled Passage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473206)           |                     |                                                                                            |
 |                    3|Uro, Titan of Nature's Wrath                                                                        |                     |                                                                                            |
-|                    4|Uro, Titan of Nature's Wrath                                                                        |                     |                                                                                            |
 |                    4|[Gilded Goose](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473122)             |                     |                                                                                            |
+|                    4|Uro, Titan of Nature's Wrath                                                                        |                     |                                                                                            |
 |                    4|[Hydroid Krasis](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457327)           |                     |                                                                                            |
 |                    4|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)                   |                     |                                                                                            |
 
