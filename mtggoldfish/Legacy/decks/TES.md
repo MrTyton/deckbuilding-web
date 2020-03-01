@@ -1,7 +1,7 @@
 # TES
 
 #### [Export MTGO List](../collection/TES/TES.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=1%09Ad%20Nauseam%0A1%09Badlands%0A1%09Bayou%0A4%09Bloodstained%20Mire%0A4%09Brainstorm%0A4%09Burning%20Wish%0A1%09Chain%20of%20Vapor%0A3%09Chrome%20Mox%0A4%09Dark%20Ritual%0A2%09Defense%20Grid%0A1%09Echo%20of%20Eons%0A4%09Lion's%20Eye%20Diamond%0A4%09Lotus%20Petal%0A3%09Mox%20Opal%0A4%09Polluted%20Delta%0A4%09Ponder%0A4%09Rite%20of%20Flame%0A1%09Tropical%20Island%0A1%09Underground%20Sea%0A4%09Veil%20of%20Summer%0A1%09Volcanic%20Island%0A4%09Wishclaw%20Talisman&deckside=2%09Abrupt%20Decay%0A1%09Chain%20of%20Vapor%0A1%09Echo%20of%20Eons%0A4%09Empty%20the%20Warrens%0A1%09Grapeshot%0A1%09Infernal%20Tutor%0A1%09Pulverize%0A1%09Reverent%20Silence%0A1%09Tendrils%20of%20Agony%0A2%09Xantid%20Swarm)
+#### [Print on decklist.org](http://decklist.org/?deckmain=1%09Ad%20Nauseam%0A1%09Badlands%0A1%09Bayou%0A4%09Bloodstained%20Mire%0A4%09Brainstorm%0A4%09Burning%20Wish%0A1%09Chain%20of%20Vapor%0A3%09Chrome%20Mox%0A4%09Dark%20Ritual%0A2%09Defense%20Grid%0A1%09Echo%20of%20Eons%0A4%09Lion's%20Eye%20Diamond%0A4%09Lotus%20Petal%0A3%09Mox%20Opal%0A4%09Polluted%20Delta%0A4%09Ponder%0A4%09Rite%20of%20Flame%0A1%09Tropical%20Island%0A1%09Underground%20Sea%0A4%09Veil%20of%20Summer%0A1%09Volcanic%20Island%0A4%09Wishclaw%20Talisman&deckside=2%09Abrupt%20Decay%0A2%09Chain%20of%20Vapor%0A1%09Echo%20of%20Eons%0A4%09Empty%20the%20Warrens%0A1%09Grapeshot%0A1%09Infernal%20Tutor%0A1%09Pulverize%0A1%09Tendrils%20of%20Agony%0A2%09Xantid%20Swarm)
 # Maindeck
 
 |                                        Artifact (20)                                         |                                       Instant (14)                                        |                                          Land (13)                                           |                                       Sorcery (13)                                       |
@@ -17,14 +17,13 @@
 
 # Sideboard
 
-|                                      Creature (2)                                       |                                        Instant (3)                                        |                                         Sorcery (10)                                         |
+|                                      Creature (2)                                       |                                        Instant (4)                                        |                                         Sorcery (9)                                          |
 |-----------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
 |2 [Xantid Swarm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413735)|2 [Abrupt Decay](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456061)  |1 [Echo of Eons](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463995)     |
-|                                                                                         |1 [Chain of Vapor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420701)|4 [Empty the Warrens](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426587)|
+|                                                                                         |2 [Chain of Vapor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420701)|4 [Empty the Warrens](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426587)|
 |                                                                                         |                                                                                           |1 [Grapeshot](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426588)        |
 |                                                                                         |                                                                                           |1 [Infernal Tutor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107308)   |
 |                                                                                         |                                                                                           |1 [Pulverize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=19724)         |
-|                                                                                         |                                                                                           |1 [Reverent Silence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=22316)  |
 |                                                                                         |                                                                                           |1 [Tendrils of Agony](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45842) |
 
 
@@ -32,9 +31,9 @@
 
 |*n*<sup>th</sup> copy|                                        Maindeck Card                                        |*n*<sup>th</sup> copy|                                      Sideboard Card                                       |
 |--------------------:|---------------------------------------------------------------------------------------------|--------------------:|-------------------------------------------------------------------------------------------|
-|                    1|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)            |                    2|[Chain of Vapor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420701)  |
-|                    1|[Scalding Tarn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405107)     |                    1|[Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)    |
-|                    2|[Scalding Tarn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405107)     |                    1|[Defense Grid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45481)     |
+|                    1|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)            |                    1|[Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)    |
+|                    1|[Scalding Tarn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405107)     |                    1|[Defense Grid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45481)     |
+|                    2|[Scalding Tarn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405107)     |                    1|[Reverent Silence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=22316) |
 |                    3|[Scalding Tarn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405107)     |                    1|[Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)  |
 |                    4|[Scalding Tarn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405107)     |                    2|[Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)  |
 |                    1|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)             |                    1|[Echoing Truth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405212)   |

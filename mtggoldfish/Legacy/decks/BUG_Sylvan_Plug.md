@@ -40,9 +40,9 @@
 |                    1|[Tireless Tracker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409997) |                    1|[Vraska, Golgari Queen](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452963)|
 |                    1|[Assassin's Trophy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452902)|                    1|[Shifting Ceratops](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466948)    |
 |                    1|[Tropical Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=884)     |                    1|[Golgari Charm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405245)        |
-|                     |                                                                                            |                    1|[Thorn of Amethyst](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=140166)    |
-|                     |                                                                                            |                    2|[Thorn of Amethyst](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=140166)    |
 |                     |                                                                                            |                    1|[Obstinate Baloth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438745)     |
 |                     |                                                                                            |                    3|[Choke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45431)                 |
 |                     |                                                                                            |                    4|[Plague Engineer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464049)      |
+|                     |                                                                                            |                    1|[Thorn of Amethyst](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=140166)    |
+|                     |                                                                                            |                    2|[Thorn of Amethyst](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=140166)    |
 

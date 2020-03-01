@@ -1,19 +1,47 @@
+3 Noble Hierarch
+4 Noble Hierarch
+3 Once Upon a Time
+4 Once Upon a Time
+1 Wastes
+1 Eldrazi Displacer
+1 Reality Smasher
+1 Thought-Knot Seer
+1 Brushland
+1 Eldrazi Temple
+2 Eldrazi Displacer
+2 Reality Smasher
+2 Thought-Knot Seer
+2 Brushland
+2 Eldrazi Temple
+3 Eldrazi Displacer
+3 Brushland
+3 Eldrazi Temple
+3 Reality Smasher
+3 Thought-Knot Seer
+4 Eldrazi Temple
+4 Eldrazi Displacer
+4 Reality Smasher
+4 Thought-Knot Seer
+4 Brushland
+1 Windswept Heath
+1 Bojuka Bog
+1 Azusa, Lost but Seeking
 2 Forest
 2 Temple Garden
 1 Arboreal Grazer
 1 Primeval Titan
 1 Dryad of the Ilysian Grove
 1 Reclamation Sage
-1 Castle Garenbrig
 1 Field of the Dead
 1 Gruul Turf
-1 Boros Garrison
 1 Amulet of Vigor
 1 Sunhome, Fortress of the Legion
 1 Cavern of Souls
 1 Summoner's Pact
+1 Castle Garenbrig
 1 Vesuva
 1 Selesnya Sanctuary
+1 Boros Garrison
 1 Radiant Fountain
 1 Valakut, the Molten Pinnacle
 1 Slayers' Stronghold
@@ -34,45 +62,34 @@
 3 Primeval Titan
 3 Dryad of the Ilysian Grove
 3 Castle Garenbrig
-3 Once Upon a Time
 3 Selesnya Sanctuary
 3 Azusa, Lost but Seeking
 3 Amulet of Vigor
 3 Summoner's Pact
 4 Primeval Titan
 4 Arboreal Grazer
-4 Once Upon a Time
 4 Summoner's Pact
 4 Selesnya Sanctuary
 4 Dryad of the Ilysian Grove
 4 Azusa, Lost but Seeking
 4 Amulet of Vigor
 4 Castle Garenbrig
-1 Militia Bugler
-1 Kor Skyfisher
-2 Militia Bugler
-2 Kor Skyfisher
-3 Militia Bugler
-3 Flickerwisp
-4 Militia Bugler
 1 Aven Mindcensor
-1 Thalia, Heretic Cathar
 1 Charming Prince
 2 Aven Mindcensor
-2 Thalia, Heretic Cathar
 2 Serra Avenger
 2 Charming Prince
+2 Thalia, Heretic Cathar
 5 Snow-Covered Plains
 1 Ramunap Excavator
-1 Noble Hierarch
 1 Scavenging Ooze
 1 Tireless Tracker
 1 Voice of Resurgence
 1 Gavony Township
+1 Birds of Paradise
 1 Courser of Kruphix
 1 Wooded Foothills
 1 Collected Company
-1 Birds of Paradise
 1 Blast Zone
 1 Knight of the Reliquary
 1 Tectonic Edge
@@ -80,12 +97,11 @@
 2 Courser of Kruphix
 2 Birds of Paradise
 2 Scavenging Ooze
-2 Noble Hierarch
 2 Windswept Heath
 2 Voice of Resurgence
+2 Knight of the Reliquary
 2 Tireless Tracker
 2 Collected Company
-2 Knight of the Reliquary
 2 Ramunap Excavator
 3 Wooded Foothills
 3 Birds of Paradise
@@ -95,7 +111,6 @@
 3 Courser of Kruphix
 3 Voice of Resurgence
 3 Knight of the Reliquary
-3 Noble Hierarch
 4 Wooded Foothills
 4 Windswept Heath
 4 Forest
@@ -104,4 +119,10 @@
 4 Knight of the Reliquary
 4 Courser of Kruphix
 5 Forest
-4 Noble Hierarch
+1 Militia Bugler
+1 Kor Skyfisher
+2 Militia Bugler
+2 Kor Skyfisher
+3 Militia Bugler
+3 Flickerwisp
+4 Militia Bugler

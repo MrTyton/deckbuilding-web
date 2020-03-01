@@ -1,76 +1,7 @@
-2 Wooded Foothills
-1 Lightning Bolt
-1 Sunbaked Canyon
-1 Path to Exile
-2 Lightning Bolt
-2 Path to Exile
-3 Lightning Bolt
-3 Wooded Foothills
-4 Lightning Bolt
-1 Inspiring Vantage
-1 Boros Charm
-1 Lightning Helix
-1 Rest in Peace
-1 Rift Bolt
-1 Monastery Swiftspear
-1 Goblin Guide
-1 Lava Spike
-1 Searing Blaze
-1 Skewer the Critics
-1 Deflecting Palm
-1 Eidolon of the Great Revel
-1 Stony Silence
-1 Destructive Revelry
-1 Skullcrack
-1 Mountain
-2 Inspiring Vantage
-2 Sacred Foundry
-2 Boros Charm
-2 Lightning Helix
-2 Rest in Peace
-2 Rift Bolt
-2 Skewer the Critics
-2 Monastery Swiftspear
-2 Lava Spike
-2 Sunbaked Canyon
-2 Goblin Guide
-2 Searing Blaze
-2 Arid Mesa
-2 Eidolon of the Great Revel
-2 Destructive Revelry
-2 Deflecting Palm
-2 Mountain
-2 Skullcrack
-3 Inspiring Vantage
-3 Boros Charm
-3 Lightning Helix
-3 Searing Blaze
-3 Goblin Guide
-3 Skewer the Critics
-3 Monastery Swiftspear
-3 Lava Spike
-3 Rift Bolt
-3 Eidolon of the Great Revel
-3 Arid Mesa
-3 Destructive Revelry
-3 Sunbaked Canyon
-3 Skullcrack
-4 Boros Charm
-4 Goblin Guide
-4 Searing Blaze
-4 Skewer the Critics
-4 Lava Spike
-4 Monastery Swiftspear
-4 Rift Bolt
-4 Eidolon of the Great Revel
-4 Arid Mesa
-4 Destructive Revelry
-4 Skullcrack
-4 Sunbaked Canyon
 1 Horizon Canopy
 1 Duskwatch Recruiter
-1 Forest
 1 Eternal Witness
+1 Forest
 2 Eternal Witness
 2 Forest
 3 Forest
@@ -82,8 +13,8 @@
 1 Spellskite
 1 Vizier of Remedies
 1 Plains
-1 Emrakul, the Aeons Torn
 1 Postmortem Lunge
+1 Emrakul, the Aeons Torn
 2 Chord of Calling
 2 Duskwatch Recruiter
 2 Gilded Goose
@@ -97,11 +28,11 @@
 3 Razorverge Thicket
 3 Birds of Paradise
 3 Chord of Calling
+3 Gilded Goose
 3 Horizon Canopy
 3 Devoted Druid
 3 Spellskite
 3 Eladamri's Call
-3 Gilded Goose
 3 Duskwatch Recruiter
 3 Postmortem Lunge
 4 Vizier of Remedies
@@ -115,33 +46,42 @@
 4 Duskwatch Recruiter
 1 Kessig Wolf Run
 1 Questing Beast
+2 Wooded Foothills
 1 Chandra, Torch of Defiance
-1 Embercleave
 1 Field of Ruin
+1 Lightning Bolt
+1 Embercleave
 1 Tranquil Thicket
 1 Wrenn and Six
 1 Knight of the Reliquary
 1 Tireless Tracker
+1 Sunbaked Canyon
 1 Tarmogoyf
 1 Batterskull
 1 Sword of Fire and Ice
-1 Stoneforge Mystic
 1 Blast Zone
-1 Ghost Quarter
 1 Snow-Covered Mountain
+1 Stoneforge Mystic
+1 Ghost Quarter
+1 Path to Exile
+2 Lightning Bolt
 2 Wrenn and Six
 2 Tireless Tracker
 2 Knight of the Reliquary
 2 Tarmogoyf
 2 Stomping Ground
 2 Stoneforge Mystic
-3 Path to Exile
+2 Path to Exile
+3 Lightning Bolt
 3 Knight of the Reliquary
 3 Tarmogoyf
+3 Path to Exile
 3 Stoneforge Mystic
-4 Path to Exile
-4 Knight of the Reliquary
+3 Wooded Foothills
+4 Lightning Bolt
 4 Tarmogoyf
+4 Knight of the Reliquary
+4 Path to Exile
 4 Wooded Foothills
 4 Stoneforge Mystic
 1 Finale of Devastation
@@ -154,9 +94,9 @@
 1 Elvish Mystic
 1 Courser of Kruphix
 1 Craterhoof Behemoth
-1 Wistful Selkie
 1 Garruk Wildspeaker
 1 Castle Garenbrig
+1 Wistful Selkie
 1 Primeval Titan
 1 Genesis Wave
 1 Llanowar Elves

@@ -44,7 +44,7 @@
 |                    1|[Lodestone Bauble](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3048)      |                    3|[Containment Priest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389470)  |
 |                    2|[Snow-Covered Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121267) |                     |                                                                                               |
 |                    2|[Lodestone Bauble](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3048)      |                     |                                                                                               |
-|                    2|[Seal of Cleansing](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405369)   |                     |                                                                                               |
 |                    3|[Snow-Covered Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121267) |                     |                                                                                               |
 |                    4|[Walking Ballista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423848)    |                     |                                                                                               |
+|                    2|[Seal of Cleansing](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405369)   |                     |                                                                                               |
 

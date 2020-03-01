@@ -71,13 +71,13 @@
 1 River of Tears
 1 Scalding Tarn
 1 Creeping Tar Pit
-2 Watery Grave
 2 Snow-Covered Swamp
 2 Field of Ruin
 2 Damnation
 2 Geier Reach Sanitarium
 2 Narset, Parter of Veils
 2 Darkslick Shores
+2 Watery Grave
 2 Creeping Tar Pit
 2 Serum Visions
 3 Narset, Parter of Veils
@@ -163,6 +163,7 @@
 2 Mountain
 2 Blackcleave Cliffs
 2 Lightning Bolt
+3 Bloodstained Mire
 3 Bonecrusher Giant
 3 Dark Confidant
 3 Swamp
@@ -171,7 +172,6 @@
 3 Lightning Bolt
 3 Blackcleave Cliffs
 3 Thoughtseize
-3 Bloodstained Mire
 3 Fulminator Mage
 3 Mountain
 4 Dark Confidant
@@ -221,16 +221,16 @@
 15 Snow-Covered Forest
 16 Snow-Covered Forest
 17 Snow-Covered Forest
-1 Oath of Nissa
 1 Windswept Heath
+1 Oath of Nissa
 1 Stomping Ground
 1 Gilded Goose
 1 Garruk Wildspeaker
 1 Nykthos, Shrine to Nyx
 1 Genesis Hydra
 1 Burning-Tree Emissary
-2 Oath of Nissa
 2 Windswept Heath
+2 Oath of Nissa
 2 Gilded Goose
 2 Garruk Wildspeaker
 2 Nykthos, Shrine to Nyx

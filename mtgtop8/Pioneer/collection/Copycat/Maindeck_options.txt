@@ -43,9 +43,9 @@
 4 Glacial Fortress
 4 Hallowed Fountain
 1 Irrigated Farmland
+1 Castle Vantress
 1 Hieroglyphic Illumination
 1 Censor
-1 Castle Vantress
 1 Abrade
 1 Izzet Charm
 2 Irrigated Farmland
@@ -60,8 +60,8 @@
 3 Izzet Charm
 3 Supreme Verdict
 3 Sulfur Falls
-4 Sulfur Falls
 4 Censor
+4 Sulfur Falls
 4 Izzet Charm
 1 Renegade Rallier
 1 Thalia's Lancers
@@ -103,12 +103,12 @@
 1 Deputy of Detention
 2 Brazen Borrower
 2 Yavimaya Coast
+1 Kolaghan's Command
 1 Knight of Autumn
 1 Ojutai's Command
 1 Dreadbore
 1 Unmoored Ego
 1 Niv-Mizzet Reborn
-1 Kolaghan's Command
 1 Abrupt Decay
 1 Silumgar's Command
 1 Bring to Light
@@ -121,6 +121,9 @@
 3 Bring to Light
 3 Niv-Mizzet Reborn
 3 Island
+1 Shock
+2 Shock
+4 Elvish Mystic
 1 Arboreal Grazer
 1 Lumbering Falls
 1 Golos, Tireless Pilgrim
@@ -139,21 +142,18 @@
 3 Arboreal Grazer
 4 Risen Reef
 4 Voice of Resurgence
-1 Shock
-2 Shock
-4 Elvish Mystic
 1 Fiery Impulse
 1 Thrill of Possibility
-1 Lava Coil
 1 Anticipate
-2 Spell Pierce
+1 Lava Coil
 2 Fiery Impulse
 2 Thrill of Possibility
-2 Lava Coil
+2 Spell Pierce
 2 Anticipate
-3 Lava Coil
+2 Lava Coil
 3 Thrill of Possibility
 3 Fiery Impulse
+3 Lava Coil
 3 Anticipate
 3 Spirebluff Canal
 4 Dig Through Time
@@ -179,8 +179,8 @@
 1 Narset, Parter of Veils
 1 Interplanar Beacon
 1 Fatal Push
-2 Thoughtseize
 2 Languish
+2 Thoughtseize
 2 Narset, Parter of Veils
 2 Fatal Push
 2 Watery Grave

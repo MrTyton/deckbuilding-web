@@ -39,6 +39,6 @@
 |--------------------:|------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------|
 |                    1|[Scavenging Ooze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420783)|                    3|[Flusterstorm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=228255)     |
 |                    1|[Gaddock Teeg](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=140188)   |                    1|[Swords to Plowshares](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=869)|
-|                    4|[Wasteland](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413790)      |                     |                                                                                            |
 |                    3|[Wasteland](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413790)      |                     |                                                                                            |
+|                    4|[Wasteland](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413790)      |                     |                                                                                            |
 
