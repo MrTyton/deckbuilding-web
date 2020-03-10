@@ -30,6 +30,6 @@
 
 |*n*<sup>th</sup> copy|                                        Maindeck Card                                        |*n*<sup>th</sup> copy|                                    Sideboard Card                                     |
 |--------------------:|---------------------------------------------------------------------------------------------|--------------------:|---------------------------------------------------------------------------------------|
-|                    2|[Force of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464001) |                    1|Uro, Titan of Nature's Wrath                                                           |
-|                    1|[Courser of Kruphix](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442153)|                    1|[Abrupt Decay](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456061)|
+|                    1|[Courser of Kruphix](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442153)|                    1|Uro, Titan of Nature's Wrath                                                           |
+|                    2|[Force of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464001) |                    1|[Abrupt Decay](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456061)|
 

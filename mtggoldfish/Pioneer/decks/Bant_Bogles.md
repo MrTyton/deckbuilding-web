@@ -1,0 +1,44 @@
+# Bant Bogles
+
+#### [Export MTGO List](../collection/Bant%20Bogles/Bant%20Bogles.txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09All%20That%20Glitters%0A4%09Aqueous%20Form%0A4%09Bassara%20Tower%20Archer%0A4%09Botanical%20Sanctum%0A4%09Breeding%20Pool%0A4%09Curious%20Obsession%0A4%09Ethereal%20Armor%0A3%09Failure/Comply%0A4%09Fortified%20Village%0A4%09Gladecover%20Scout%0A3%09Gryff's%20Boon%0A4%09Mana%20Confluence%0A1%09Sixth%20Sense%0A4%09Staggering%20Insight%0A4%09Temple%20Garden%0A1%09Unflinching%20Courage%0A4%09Unsubstantiate&deckside=2%09Fog%0A3%09Leyline%20of%20Sanctity%0A3%09Long%20Road%20Home%0A2%09Sheltering%20Light%0A4%09Stern%20Dismissal%0A1%09Stubborn%20Denial)
+# Maindeck
+
+|                                          Creature (8)                                           |                                        Enchantment (21)                                        |                                        Instant (7)                                        |                                          Land (20)                                           |    Unknown (4)     |
+|-------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|--------------------|
+|4 [Bassara Tower Archer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=380376)|4 [All That Glitters](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472964)  |3 [Failure/Comply](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426923)|4 [Botanical Sanctum](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417817)|4 Staggering Insight|
+|4 [Gladecover Scout](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220082)    |4 [Aqueous Form](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373715)       |4 [Unsubstantiate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414374)|4 [Breeding Pool](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=97088)     |                    |
+|                                                                                                 |4 [Curious Obsession](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439692)  |                                                                                           |4 [Fortified Village](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=410042)|                    |
+|                                                                                                 |4 [Ethereal Armor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=265414)     |                                                                                           |4 [Mana Confluence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409573)  |                    |
+|                                                                                                 |3 [Gryff's Boon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409758)       |                                                                                           |4 [Temple Garden](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405112)    |                    |
+|                                                                                                 |1 [Sixth Sense](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426889)        |                                                                                           |                                                                                              |                    |
+|                                                                                                 |1 [Unflinching Courage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446198)|                                                                                           |                                                                                              |                    |
+
+
+# Sideboard
+
+|                                        Enchantment (3)                                         |                                         Instant (8)                                         |   Unknown (4)   |
+|------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|-----------------|
+|3 [Leyline of Sanctity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=204993)|2 [Fog](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=746)                |4 Stern Dismissal|
+|                                                                                                |3 [Long Road Home](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446064)  |                 |
+|                                                                                                |2 [Sheltering Light](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435187)|                 |
+|                                                                                                |1 [Stubborn Denial](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386673) |                 |
+
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                       Maindeck Card                                       |*n*<sup>th</sup> copy|                                       Sideboard Card                                       |
+|--------------------:|-------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------|
+|                    1|[Hallowed Fountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=97071)|                    1|Karametra's Blessing                                                                        |
+|                    1|[Sunpetal Grove](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420946)  |                    1|[Dromoka's Command](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394558)|
+|                    1|[Sentinel's Mark](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457164) |                    1|[Baffling End](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439658)     |
+|                    2|[Sunpetal Grove](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420946)  |                    1|[Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)   |
+|                    2|[Sentinel's Mark](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457164) |                    1|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)   |
+|                    3|[Sunpetal Grove](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420946)  |                    2|Karametra's Blessing                                                                        |
+|                    3|[Sentinel's Mark](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457164) |                    2|[Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)   |
+|                     |                                                                                           |                    2|[Baffling End](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439658)     |
+|                     |                                                                                           |                    2|[Dromoka's Command](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394558)|
+|                     |                                                                                           |                    2|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)   |
+|                     |                                                                                           |                    3|[Dromoka's Command](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394558)|
+|                     |                                                                                           |                    4|[Dromoka's Command](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394558)|
+

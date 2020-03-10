@@ -51,8 +51,8 @@
 1 Voice of Resurgence
 2 Voice of Resurgence
 1 Collected Company
-1 Cartel Aristocrat
 1 Zulaport Cutthroat
+1 Cartel Aristocrat
 2 Collected Company
 2 Zulaport Cutthroat
 2 Cartel Aristocrat
@@ -62,23 +62,23 @@
 4 Collected Company
 4 Zulaport Cutthroat
 4 Cartel Aristocrat
-1 Return to the Ranks
+1 Hunted Witness
 1 Blisterpod
-1 Nantuko Husk
-1 Rally the Ancestors
+1 Return to the Ranks
 1 Hangarback Walker
 1 Westvale Abbey
-1 Hunted Witness
+1 Rally the Ancestors
+1 Nantuko Husk
 1 Cruel Celebrant
+2 Hunted Witness
 2 Blisterpod
-2 Nantuko Husk
-2 Rally the Ancestors
 2 Return to the Ranks
 2 Hangarback Walker
 2 Cruel Celebrant
-2 Hunted Witness
-3 Hunted Witness
+2 Rally the Ancestors
+2 Nantuko Husk
 3 Hangarback Walker
+3 Hunted Witness
 3 Voice of Resurgence
 3 Return to the Ranks
 3 Blisterpod
@@ -104,30 +104,30 @@
 1 Nissa, Who Shakes the World
 2 Grisly Salvage
 2 Nissa, Who Shakes the World
-1 Nissa, Vastwood Seer
-1 Dark Petition
-1 Languish
-1 Painful Truths
-1 Sandsteppe Citadel
-1 Utter End
-1 Seasons Past
-2 Sandsteppe Citadel
-2 Dark Petition
-2 Nissa, Vastwood Seer
-2 Languish
-2 Castle Locthwain
-3 Languish
-1 Ifnir Deadlands
-1 Nissa, Voice of Zendikar
 1 Tolsimir, Friend to Wolves
+1 Nissa, Voice of Zendikar
+1 Nissa, Vital Force
 1 Llanowar Elves
 1 Elvish Mystic
-1 Nissa, Vital Force
+1 Ifnir Deadlands
 2 Hissing Quagmire
 2 Llanowar Elves
 2 Elvish Mystic
 3 Llanowar Elves
 3 Elvish Mystic
+1 Sandsteppe Citadel
+1 Painful Truths
+1 Dark Petition
+1 Utter End
+1 Nissa, Vastwood Seer
+1 Languish
+1 Seasons Past
+2 Sandsteppe Citadel
+2 Dark Petition
+2 Castle Locthwain
+2 Nissa, Vastwood Seer
+2 Languish
+3 Languish
 1 Vessel of Nascency
 1 Deathrite Shaman
 1 Collective Brutality
@@ -139,40 +139,40 @@
 3 Vessel of Nascency
 3 Deathrite Shaman
 4 Vessel of Nascency
-1 Gilded Goose
-1 Smuggler's Copter
-1 Witch's Oven
-1 Cauldron Familiar
-1 Trail of Crumbs
 1 Anguished Unmaking
+1 Smuggler's Copter
+1 Gilded Goose
+1 Witch's Oven
+1 Trail of Crumbs
+1 Cauldron Familiar
 1 Archangel Avacyn
 1 Wicked Wolf
 2 Smuggler's Copter
 2 Archangel Avacyn
+2 Trail of Crumbs
 2 Cauldron Familiar
 2 Witch's Oven
-2 Trail of Crumbs
 2 Gilded Goose
 2 Anguished Unmaking
 2 Wicked Wolf
 3 Smuggler's Copter
-3 Archangel Avacyn
 3 Witch's Oven
-3 Cauldron Familiar
 3 Trail of Crumbs
+3 Cauldron Familiar
 3 Gilded Goose
+3 Archangel Avacyn
 3 Anguished Unmaking
 3 Wicked Wolf
 4 Smuggler's Copter
 4 Gilded Goose
-4 Witch's Oven
 4 Trail of Crumbs
+4 Witch's Oven
 1 Pelt Collector
 1 Llanowar Wastes
 1 Experiment One
 1 Heart of Kiran
-1 Caves of Koilos
 1 Sorin, Vengeful Bloodlord
+1 Caves of Koilos
 1 Scrapheap Scrounger
 1 Loxodon Smiter
 2 Pelt Collector
@@ -213,8 +213,8 @@
 1 Bloodsoaked Champion
 1 Xathrid Necromancer
 1 Channeler Initiate
-2 Thalia's Lieutenant
 2 Unclaimed Territory
+2 Thalia's Lieutenant
 2 Dauntless Bodyguard
 2 Kytheon, Hero of Akros
 2 Liliana, Heretical Healer
@@ -235,8 +235,8 @@
 4 Bloodsoaked Champion
 4 Xathrid Necromancer
 4 Dauntless Bodyguard
-1 Liliana, Death's Majesty
 1 Temple of Silence
+1 Liliana, Death's Majesty
 1 Obzedat, Ghost Council
 4 Gideon, Ally of Zendikar
 4 Murderous Rider

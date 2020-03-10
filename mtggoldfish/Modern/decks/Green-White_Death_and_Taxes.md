@@ -1,0 +1,50 @@
+# Green-White Death and Taxes
+
+#### [Export MTGO List](../collection/Green-White%20Death%20and%20Taxes/Green-White%20Death%20and%20Taxes.txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Aether%20Vial%0A2%09Aven%20Mindcensor%0A1%09Batterskull%0A2%09Charming%20Prince%0A4%09Field%20of%20Ruin%0A2%09Flickerwisp%0A4%09Ghost%20Quarter%0A4%09Giver%20of%20Runes%0A4%09Horizon%20Canopy%0A2%09Knight%20of%20Autumn%0A4%09Leonin%20Arbiter%0A4%09Path%20to%20Exile%0A4%09Razorverge%20Thicket%0A2%09Serra%20Avenger%0A1%09Snow-Covered%20Forest%0A5%09Snow-Covered%20Plains%0A4%09Stoneforge%20Mystic%0A1%09Sword%20of%20Fire%20and%20Ice%0A1%09Sword%20of%20Light%20and%20Shadow%0A3%09Thalia,%20Guardian%20of%20Thraben%0A2%09Thalia,%20Heretic%20Cathar&deckside=1%09Aven%20Mindcensor%0A3%09Burrenton%20Forge-Tender%0A2%09Collector%20Ouphe%0A3%09Eidolon%20of%20Rhetoric%0A2%09Gaddock%20Teeg%0A2%09Knight%20of%20Autumn%0A1%09Kor%20Firewalker%0A1%09Magus%20of%20the%20Moat)
+# Maindeck
+
+|                                            Artifact (7)                                             |                                             Creature (27)                                              |                                       Instant (4)                                        |                                           Land (22)                                            |
+|-----------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
+|4 [Aether Vial](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=48146)              |2 [Aven Mindcensor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426707)            |4 [Path to Exile](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220511)|4 [Field of Ruin](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435415)      |
+|1 [Batterskull](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=233055)             |2 [Charming Prince](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472970)            |                                                                                          |4 [Ghost Quarter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389534)      |
+|1 [Sword of Fire and Ice](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=46429)    |2 [Flickerwisp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376338)                |                                                                                          |4 [Horizon Canopy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409571)     |
+|1 [Sword of Light and Shadow](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=47453)|4 [Giver of Runes](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463962)             |                                                                                          |4 [Razorverge Thicket](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=209407) |
+|                                                                                                     |2 [Knight of Autumn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452933)           |                                                                                          |1 [Snow-Covered Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121192)|
+|                                                                                                     |4 [Leonin Arbiter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=432996)             |                                                                                          |5 [Snow-Covered Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121267)|
+|                                                                                                     |2 [Serra Avenger](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=288762)              |                                                                                          |                                                                                                |
+|                                                                                                     |4 [Stoneforge Mystic](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=198383)          |                                                                                          |                                                                                                |
+|                                                                                                     |3 [Thalia, Guardian of Thraben](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442025)|                                                                                          |                                                                                                |
+|                                                                                                     |2 [Thalia, Heretic Cathar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414338)     |                                                                                          |                                                                                                |
+
+
+# Sideboard
+
+|                                           Creature (15)                                           |
+|---------------------------------------------------------------------------------------------------|
+|1 [Aven Mindcensor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426707)       |
+|3 [Burrenton Forge-Tender](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438580)|
+|2 [Collector Ouphe](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464107)       |
+|3 [Eidolon of Rhetoric](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=380409)   |
+|2 [Gaddock Teeg](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=140188)          |
+|2 [Knight of Autumn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452933)      |
+|1 [Kor Firewalker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442010)        |
+|1 [Magus of the Moat](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=136148)     |
+
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                      Maindeck Card                                       |*n*<sup>th</sup> copy|                                       Sideboard Card                                        |
+|--------------------:|------------------------------------------------------------------------------------------|--------------------:|---------------------------------------------------------------------------------------------|
+|                    3|[Aven Mindcensor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426707)|                    2|[Kor Firewalker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442010)    |
+|                    1|[Militia Bugler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447165) |                    2|[Magus of the Moat](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=136148) |
+|                    1|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)         |                    2|[Aven Mindcensor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426707)   |
+|                    1|[Kor Skyfisher](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=222764)  |                    3|[Aven Mindcensor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426707)   |
+|                    2|[Militia Bugler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447165) |                    3|[Kor Firewalker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442010)    |
+|                    2|[Kor Skyfisher](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=222764)  |                    1|[Hushbringer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472980)       |
+|                    3|[Militia Bugler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447165) |                    2|[Hushbringer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472980)       |
+|                    3|[Flickerwisp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376338)    |                    3|[Hushbringer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472980)       |
+|                    4|[Militia Bugler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447165) |                    3|[Collector Ouphe](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464107)   |
+|                     |                                                                                          |                    1|[Kataki, War's Wage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382190)|
+|                     |                                                                                          |                    2|[Kataki, War's Wage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382190)|
+

@@ -30,7 +30,7 @@
 |*n*<sup>th</sup> copy|                                        Maindeck Card                                         |*n*<sup>th</sup> copy|                                         Sideboard Card                                         |
 |--------------------:|----------------------------------------------------------------------------------------------|--------------------:|------------------------------------------------------------------------------------------------|
 |                    2|[Relic of Progenitus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174824)|                    4|[Leyline of Combustion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466902)|
+|                    1|[Grim Lavamancer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430589)    |                    1|[Deflecting Palm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386516)      |
 |                    3|[Rift Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426589)          |                    2|[Relic of Progenitus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174824)  |
-|                    1|[Grim Lavamancer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430589)    |                    3|[Searing Blood](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=378483)        |
-|                     |                                                                                              |                    1|[Deflecting Palm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386516)      |
+|                     |                                                                                              |                    3|[Searing Blood](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=378483)        |
 
