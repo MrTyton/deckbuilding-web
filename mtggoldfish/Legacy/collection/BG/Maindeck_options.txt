@@ -1,60 +1,61 @@
-1 Verdant Catacombs
-1 Tireless Tracker
-1 Misty Rainforest
-2 Verdant Catacombs
-2 Tireless Tracker
-3 Tireless Tracker
-1 Snow-Covered Forest
-1 Ghost Quarter
-1 Blast Zone
-1 Valakut, the Molten Pinnacle
-1 Haunted Fengraf
-1 Life from the Loam
-1 Abrupt Decay
-1 Karakas
-1 Dark Depths
-1 Field of the Dead
-1 Bayou
-1 Dryad of the Ilysian Grove
-1 The Tabernacle at Pendrell Vale
-1 Exploration
-1 Wooded Foothills
-1 Thespian's Stage
-1 Crop Rotation
-1 Bojuka Bog
-1 Wasteland
-1 Tranquil Thicket
-1 Sakura-Tribe Scout
-1 Maze of Ith
-2 Ghost Quarter
-2 Abrupt Decay
-2 Crop Rotation
-2 Thespian's Stage
-2 Wasteland
-2 Dark Depths
-2 Field of the Dead
-2 Bayou
-2 Exploration
-2 Sakura-Tribe Scout
-2 Life from the Loam
-2 Dryad of the Ilysian Grove
-3 Bayou
-3 Dryad of the Ilysian Grove
-3 Wasteland
-3 Thespian's Stage
-3 Ghost Quarter
-3 Sakura-Tribe Scout
-3 Crop Rotation
-3 Life from the Loam
-3 Exploration
-3 Abrupt Decay
-4 Wasteland
-4 Life from the Loam
-4 Exploration
-4 Thespian's Stage
-4 Crop Rotation
+1 Dryad Arbor
+1 Green Sun's Zenith
+2 Green Sun's Zenith
+3 Green Sun's Zenith
+4 Green Sun's Zenith
+1 Elvish Mystic
+1 Gilt-Leaf Palace
+1 Overgrown Tomb
+1 Blooming Marsh
+1 Winding Way
+1 Wirewood Symbiote
+1 Heritage Druid
+1 Craterhoof Behemoth
+1 Ezuri, Renegade Leader
+1 Natural Order
+1 Nettle Sentinel
+1 Elvish Visionary
+1 Glimpse of Nature
+1 Quirion Ranger
+1 Birchlore Rangers
+1 Llanowar Elves
+2 Birchlore Rangers
+2 Llanowar Elves
+2 Craterhoof Behemoth
+2 Gilt-Leaf Palace
+2 Blooming Marsh
+2 Elvish Mystic
+2 Windswept Heath
+2 Glimpse of Nature
+2 Quirion Ranger
+2 Wirewood Symbiote
+2 Heritage Druid
+2 Ezuri, Renegade Leader
+2 Elvish Visionary
+2 Nettle Sentinel
+2 Winding Way
+3 Windswept Heath
+3 Nettle Sentinel
+3 Llanowar Elves
+3 Birchlore Rangers
+3 Glimpse of Nature
+3 Quirion Ranger
+3 Wirewood Symbiote
+3 Elvish Mystic
+3 Heritage Druid
+3 Elvish Visionary
+4 Windswept Heath
+4 Nettle Sentinel
+4 Wirewood Symbiote
+4 Heritage Druid
+4 Quirion Ranger
+4 Birchlore Rangers
+4 Elvish Visionary
+4 Llanowar Elves
+4 Glimpse of Nature
 1 Dryad Militant
 1 Elvish Spirit Guide
+1 Scavenging Ooze
 1 Trinisphere
 1 Tarmogoyf
 1 Karn, the Great Creator
@@ -66,7 +67,6 @@
 1 Chrome Mox
 1 Reclamation Sage
 1 City of Traitors
-1 Scavenging Ooze
 1 Scryb Ranger
 1 Chalice of the Void
 2 Scavenging Ooze
@@ -79,14 +79,14 @@
 2 Ancient Tomb
 2 Chalice of the Void
 2 Walking Ballista
+3 Walking Ballista
 3 Elvish Spirit Guide
 3 Forest
 3 Karn, the Great Creator
-3 Walking Ballista
 3 Ancient Tomb
+3 Chalice of the Void
 3 City of Traitors
 3 Trinisphere
-3 Chalice of the Void
 3 Chrome Mox
 4 Elvish Spirit Guide
 4 Tireless Tracker

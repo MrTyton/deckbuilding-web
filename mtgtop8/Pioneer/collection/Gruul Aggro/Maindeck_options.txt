@@ -1,3 +1,5 @@
+2 Ghor-Clan Rampager
+1 Zhur-Taa Goblin
 2 Zhur-Taa Goblin
 3 Zhur-Taa Goblin
 1 Experiment One
@@ -11,18 +13,13 @@
 1 Voltaic Brawler
 2 Voltaic Brawler
 3 Voltaic Brawler
-6 Mountain
-3 Embercleave
 1 Goblin Rabblemaster
 2 Goblin Rabblemaster
 3 Goblin Rabblemaster
 4 Goblin Rabblemaster
-4 Voltaic Brawler
 3 Questing Beast
+4 Voltaic Brawler
 1 Rhonas the Indomitable
-1 Glorybringer
-2 Glorybringer
-3 Glorybringer
 1 Hazoret the Fervent
 2 Rhonas the Indomitable
 1 Ghalta, Primal Hunger
@@ -47,6 +44,7 @@
 4 Commune with Dinosaurs
 4 Regisaur Alpha
 4 Reckless Rage
+7 Mountain
 1 Hashep Oasis
 1 Reckless Bushwhacker
 2 Reckless Bushwhacker
@@ -61,30 +59,28 @@
 4 Atarka's Command
 4 Zhur-Taa Goblin
 9 Forest
-4 Glorybringer
+1 Glorybringer
+2 Glorybringer
+3 Glorybringer
 3 Ghor-Clan Rampager
 1 Gallia of the Endless Dance
-1 Chandra, Torch of Defiance
-2 Chandra, Torch of Defiance
 3 Reckless Bushwhacker
-7 Mountain
 2 Hazoret the Fervent
 1 Blossoming Defense
 2 Blossoming Defense
 2 Hashep Oasis
-1 Gilded Goose
-2 Gilded Goose
-1 Wild Slash
-2 Wild Slash
-3 Wild Slash
 1 Collected Company
 2 Collected Company
 3 Collected Company
+1 Wild Slash
+2 Wild Slash
+3 Wild Slash
+1 Gilded Goose
+2 Gilded Goose
+4 Questing Beast
 1 Steel Leaf Champion
 2 Steel Leaf Champion
-1 Kiora, Behemoth Beckoner
-1 Rekindling Phoenix
-2 Rekindling Phoenix
+4 Glorybringer
 3 Heart of Kiran
 1 Scavenging Ooze
 2 Gallia of the Endless Dance
@@ -94,11 +90,18 @@
 2 Mana Confluence
 1 Ramunap Ruins
 2 Ramunap Ruins
+1 Chandra, Torch of Defiance
+2 Chandra, Torch of Defiance
 4 Reckless Bushwhacker
+1 Domri's Ambush
+2 Domri's Ambush
+3 Domri's Ambush
+4 Domri's Ambush
 1 Goblin Chainwhirler
 2 Goblin Chainwhirler
 3 Goblin Chainwhirler
 1 Chandra, Fire Artisan
+1 Castle Embereth
 1 Crater's Claws
 1 Bomat Courier
 1 Fling
@@ -108,12 +111,10 @@
 2 Whisperwood Elemental
 3 Rhonas the Indomitable
 3 Gilded Goose
-1 Incendiary Flow
-2 Kiora, Behemoth Beckoner
-2 Incendiary Flow
-3 Kiora, Behemoth Beckoner
-3 Incendiary Flow
+1 Kiora, Behemoth Beckoner
+1 Rekindling Phoenix
 1 Domri Rade
+2 Rekindling Phoenix
 2 Domri Rade
 3 Rekindling Phoenix
 3 Steel Leaf Champion
@@ -122,8 +123,9 @@
 4 Blossoming Defense
 3 Mana Confluence
 4 Mana Confluence
-1 Castle Embereth
-4 Questing Beast
+1 Klothys, God of Destiny
+2 Klothys, God of Destiny
+4 Embercleave
 4 Collected Company
 1 Collision / Colossus
 1 Torbran, Thane of Red Fell
@@ -136,8 +138,8 @@
 3 Torbran, Thane of Red Fell
 3 Soul-Scar Mage
 4 Goblin Chainwhirler
-4 Ramunap Ruins
 4 Torbran, Thane of Red Fell
+4 Ramunap Ruins
 4 Soul-Scar Mage
 1 Borborygmos Enraged
 1 Enter the Infinite
@@ -177,26 +179,22 @@
 3 Deathmist Raptor
 4 Den Protector
 4 Deathmist Raptor
-1 Fervent Champion
 1 Legion Loyalist
-1 Kari Zev's Expertise
 1 Dwarven Mine
 1 Cinder Glade
 1 Flamewake Phoenix
 1 Bloodrage Brawler
 1 Chandra, Acolyte of Flame
-1 Domri's Ambush
+1 Kari Zev's Expertise
+1 Fervent Champion
 2 Fervent Champion
 2 Kari Zev's Expertise
 2 Flamewake Phoenix
 2 Bloodrage Brawler
-2 Domri's Ambush
 3 Fervent Champion
 3 Bloodrage Brawler
 3 Flamewake Phoenix
-3 Domri's Ambush
 4 Fervent Champion
-4 Domri's Ambush
 4 Bloodrage Brawler
 4 Flamewake Phoenix
 8 Mountain

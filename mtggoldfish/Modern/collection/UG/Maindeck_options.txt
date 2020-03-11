@@ -4,8 +4,8 @@
 1 Gemstone Mine
 2 Golgari Rot Farm
 1 Boros Garrison
-1 Sunhome, Fortress of the Legion
 1 Slayers' Stronghold
+1 Sunhome, Fortress of the Legion
 2 Azusa, Lost but Seeking
 2 Gruul Turf
 3 Valakut, the Molten Pinnacle
@@ -18,8 +18,8 @@
 3 Tolaria West
 3 Azusa, Lost but Seeking
 4 Azusa, Lost but Seeking
-1 Eldritch Evolution
 1 Griselbrand
+1 Eldritch Evolution
 1 Allosaurus Rider
 2 Allosaurus Rider
 2 Eldritch Evolution
@@ -32,70 +32,27 @@
 2 Misty Rainforest
 2 Uro, Titan of Nature's Wrath
 3 Misty Rainforest
-1 Prismatic Vista
-1 Flooded Grove
-1 Mystic Sanctuary
-1 Archmage's Charm
-1 Sakura-Tribe Elder
-1 Remand
-1 Cryptic Command
-1 Growth Spiral
-1 Scapeshift
-1 Prismatic Omen
-1 Opt
-1 Flooded Strand
-2 Prismatic Vista
-2 Archmage's Charm
-2 Mystic Sanctuary
-2 Remand
-2 Growth Spiral
-2 Cryptic Command
-2 Sakura-Tribe Elder
-2 Scapeshift
-2 Snow-Covered Island
-2 Prismatic Omen
-2 Flooded Grove
-2 Flooded Strand
-2 Opt
-3 Archmage's Charm
-3 Growth Spiral
-3 Breeding Pool
-3 Scapeshift
-3 Snow-Covered Island
-3 Sakura-Tribe Elder
-3 Opt
-3 Cryptic Command
-4 Cryptic Command
-4 Misty Rainforest
-4 Growth Spiral
-4 Archmage's Charm
-4 Snow-Covered Island
-4 Sakura-Tribe Elder
-4 Opt
-4 Valakut, the Molten Pinnacle
-5 Snow-Covered Island
-6 Snow-Covered Island
-1 Brazen Borrower
-1 Stubborn Denial
 1 Dismember
-1 Noble Hierarch
+2 Dismember
+1 Brazen Borrower
+1 Gilded Goose
+1 Stubborn Denial
 1 Yavimaya Coast
 1 Reality Smasher
 1 Thought-Knot Seer
 1 Elder Deep-Fiend
 1 Sanctum of Ugin
+1 Noble Hierarch
 1 Matter Reshaper
 1 Waterlogged Grove
 1 Eldrazi Skyspawner
 1 Eldrazi Temple
-1 Gilded Goose
 1 Ancient Stirrings
 2 Stubborn Denial
-2 Dismember
 2 Gilded Goose
+2 Elder Deep-Fiend
 2 Thought-Knot Seer
 2 Reality Smasher
-2 Elder Deep-Fiend
 2 Matter Reshaper
 2 Noble Hierarch
 2 Ancient Stirrings
@@ -103,13 +60,13 @@
 2 Waterlogged Grove
 2 Eldrazi Skyspawner
 2 Yavimaya Coast
-3 Waterlogged Grove
 3 Uro, Titan of Nature's Wrath
+3 Waterlogged Grove
+3 Elder Deep-Fiend
 3 Matter Reshaper
 3 Yavimaya Coast
 3 Ancient Stirrings
 3 Eldrazi Temple
-3 Elder Deep-Fiend
 3 Reality Smasher
 3 Thought-Knot Seer
 3 Noble Hierarch
@@ -120,3 +77,100 @@
 4 Ancient Stirrings
 4 Eldrazi Temple
 4 Noble Hierarch
+1 Remand
+2 Remand
+1 Prismatic Vista
+1 Mystic Sanctuary
+1 Archmage's Charm
+1 Growth Spiral
+1 Cryptic Command
+1 Prismatic Omen
+1 Scapeshift
+1 Sakura-Tribe Elder
+1 Flooded Grove
+1 Opt
+1 Flooded Strand
+2 Prismatic Vista
+2 Archmage's Charm
+2 Mystic Sanctuary
+2 Growth Spiral
+2 Cryptic Command
+2 Snow-Covered Island
+2 Scapeshift
+2 Sakura-Tribe Elder
+2 Prismatic Omen
+2 Flooded Grove
+2 Flooded Strand
+2 Opt
+3 Archmage's Charm
+3 Breeding Pool
+3 Growth Spiral
+3 Scapeshift
+3 Snow-Covered Island
+3 Sakura-Tribe Elder
+3 Cryptic Command
+3 Opt
+4 Cryptic Command
+4 Misty Rainforest
+4 Growth Spiral
+4 Archmage's Charm
+4 Valakut, the Molten Pinnacle
+4 Snow-Covered Island
+4 Sakura-Tribe Elder
+4 Opt
+5 Snow-Covered Island
+6 Snow-Covered Island
+1 Benthic Biomancer
+1 Merrow Reejerey
+1 Mutavault
+1 Oboro, Palace in the Clouds
+1 Silvergill Adept
+1 Island
+1 Aether Vial
+1 Master of the Pearl Trident
+1 Spreading Seas
+1 Master of Waves
+1 Lord of Atlantis
+1 Harbinger of the Tides
+2 Benthic Biomancer
+2 Merrow Reejerey
+2 Mutavault
+2 Silvergill Adept
+2 Aether Vial
+2 Master of Waves
+2 Harbinger of the Tides
+2 Master of the Pearl Trident
+2 Island
+2 Spreading Seas
+2 Lord of Atlantis
+3 Spreading Seas
+3 Benthic Biomancer
+3 Island
+3 Mutavault
+3 Dismember
+3 Merrow Reejerey
+3 Silvergill Adept
+3 Master of the Pearl Trident
+3 Lord of Atlantis
+3 Harbinger of the Tides
+3 Aether Vial
+3 Master of Waves
+4 Spreading Seas
+4 Benthic Biomancer
+4 Island
+4 Aether Vial
+4 Lord of Atlantis
+4 Harbinger of the Tides
+4 Merrow Reejerey
+4 Master of the Pearl Trident
+4 Silvergill Adept
+4 Mutavault
+5 Island
+6 Island
+7 Island
+8 Island
+9 Island
+10 Island
+11 Island
+12 Island
+13 Island

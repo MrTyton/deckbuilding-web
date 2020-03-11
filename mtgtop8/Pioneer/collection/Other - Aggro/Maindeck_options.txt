@@ -1,10 +1,5 @@
-3 Watery Grave
-1 Botanical Sanctum
-2 Botanical Sanctum
-1 Satyr Wayfinder
-2 Satyr Wayfinder
-3 Satyr Wayfinder
-4 Satyr Wayfinder
+3 Overgrown Tomb
+3 Blooming Marsh
 1 Creeping Chill
 1 Narcomoeba
 1 Prized Amalgam
@@ -17,11 +12,17 @@
 4 Creeping Chill
 4 Prized Amalgam
 4 Narcomoeba
+1 Botanical Sanctum
+2 Botanical Sanctum
+1 Satyr Wayfinder
+2 Satyr Wayfinder
+3 Satyr Wayfinder
+4 Satyr Wayfinder
 1 Llanowar Wastes
 2 Llanowar Wastes
 3 Botanical Sanctum
-1 Gurmag Angler
 1 Haunted Dead
+1 Gurmag Angler
 1 Gather the Pack
 1 Stitcher's Supplier
 1 Driven / Despair
@@ -37,19 +38,24 @@
 3 Haunted Dead
 4 Grisly Salvage
 4 Stitcher's Supplier
-1 Forest
-3 Scrapheap Scrounger
+4 Scrapheap Scrounger
 1 Uro, Titan of Nature's Wrath
+1 Forest
 1 Thraben Inspector
 2 Thraben Inspector
 3 Thraben Inspector
 2 Uro, Titan of Nature's Wrath
-2 Swamp
 1 Anguished Unmaking
 1 Thalia, Heretic Cathar
 1 Glory-Bound Initiate
 2 Glory-Bound Initiate
+2 Swamp
 2 Kunoros, Hound of Athreos
+1 Kytheon, Hero of Akros
+1 Kaya, Orzhov Usurper
+2 Kytheon, Hero of Akros
+2 Archangel Avacyn
+3 Gideon of the Trials
 4 Overgrown Tomb
 1 Woodland Cemetery
 3 Gurmag Angler
@@ -58,16 +64,13 @@
 1 Drowned Catacomb
 1 Island
 1 Mana Confluence
-4 Scrapheap Scrounger
 1 Breeding Pool
 2 Breeding Pool
 4 Thraben Inspector
 1 Collected Company
 2 Collected Company
 3 Collected Company
-1 Blood Crypt
-2 Blood Crypt
-3 Llanowar Wastes
+2 Island
 3 Breeding Pool
 4 Botanical Sanctum
 1 Scavenging Ooze
@@ -75,8 +78,9 @@
 1 Reflector Mage
 2 Reflector Mage
 2 Hallowed Fountain
-4 Collected Company
+3 Llanowar Wastes
 1 Tireless Tracker
+4 Collected Company
 1 Lovestruck Beast
 1 Llanowar Elves
 1 Elvish Mystic
@@ -89,28 +93,23 @@
 4 Lovestruck Beast
 4 Elvish Mystic
 4 Llanowar Elves
-3 Blood Crypt
-4 Blood Crypt
-2 Island
 2 Mana Confluence
 1 Temple Garden
 2 Temple Garden
 3 Temple Garden
 3 Hallowed Fountain
 4 Hallowed Fountain
-1 Mountain
-2 Forest
 2 Tireless Tracker
 3 Tireless Tracker
-1 Rhonas the Indomitable
 1 Glacial Fortress
 1 Teferi, Time Raveler
 2 Glacial Fortress
-1 Brazen Borrower
-2 Brazen Borrower
+1 Rhonas the Indomitable
 1 Fortified Village
 1 Voice of Resurgence
 4 Temple Garden
+1 Brazen Borrower
+2 Brazen Borrower
 1 Spell Queller
 2 Spell Queller
 2 Teferi, Time Raveler
@@ -142,19 +141,18 @@
 3 Island
 4 Island
 5 Island
-4 Blooming Marsh
-1 Gilded Goose
+1 Blood Crypt
+2 Blood Crypt
 3 Mana Confluence
 4 Mana Confluence
+1 Murderous Rider
+2 Murderous Rider
 4 Watery Grave
+3 Blood Crypt
+4 Blood Crypt
+1 Mountain
+2 Forest
 3 Forest
-1 Fabled Passage
-1 Assassin's Trophy
-2 Assassin's Trophy
-2 Fabled Passage
-3 Fabled Passage
-1 Stomping Ground
-2 Stomping Ground
 1 Bonecrusher Giant
 2 Bonecrusher Giant
 2 Mountain
@@ -162,6 +160,9 @@
 3 Mountain
 4 Bonecrusher Giant
 4 Mountain
+1 Spawn of Mayhem
+2 Spawn of Mayhem
+3 Isolated Chapel
 4 Gurmag Angler
 4 Haunted Dead
 1 Hinterland Harbor
@@ -169,12 +170,6 @@
 1 Decimator of the Provinces
 1 Ipnu Rivulet
 2 Decimator of the Provinces
-1 Kytheon, Hero of Akros
-1 Kaya, Orzhov Usurper
-2 Kytheon, Hero of Akros
-2 Archangel Avacyn
-3 Gideon of the Trials
-3 Driven / Despair
 1 Declaration in Stone
 1 Tithe Taker
 1 Elite Guardmage
@@ -194,6 +189,7 @@
 3 Charming Prince
 4 Glint-Sleeve Siphoner
 4 Aether Hub
+1 Gilded Goose
 2 Scavenging Ooze
 2 Voice of Resurgence
 4 Breeding Pool
@@ -202,51 +198,25 @@
 1 Nissa, Vastwood Seer
 1 Deathrite Shaman
 1 Liliana, the Last Hope
+1 Fabled Passage
+1 Assassin's Trophy
 2 Grim Flayer
 2 Liliana, the Last Hope
+2 Assassin's Trophy
 2 Abrupt Decay
 2 Deathrite Shaman
+2 Fabled Passage
 3 Deathrite Shaman
 3 Grim Flayer
 3 Assassin's Trophy
 3 Uro, Titan of Nature's Wrath
+3 Fabled Passage
 4 Deathrite Shaman
 4 Grim Flayer
 4 Tireless Tracker
 4 Uro, Titan of Nature's Wrath
-1 Castle Locthwain
-1 Murderous Rider
-2 Murderous Rider
-1 Vraska, Golgari Queen
-1 Korvold, Fae-Cursed King
-1 Sylvan Caryatid
-1 Cauldron Familiar
-1 Trail of Crumbs
-1 Witch's Oven
-1 Mayhem Devil
-2 Gilded Goose
-2 Vraska, Golgari Queen
-2 Witch's Oven
-2 Cauldron Familiar
-2 Korvold, Fae-Cursed King
-2 Trail of Crumbs
-2 Mayhem Devil
-2 Sylvan Caryatid
-3 Gilded Goose
-3 Mayhem Devil
-3 Sylvan Caryatid
-3 Cauldron Familiar
-3 Trail of Crumbs
-3 Witch's Oven
-3 Korvold, Fae-Cursed King
-3 Murderous Rider
-4 Fabled Passage
-4 Sylvan Caryatid
-4 Cauldron Familiar
-4 Witch's Oven
-4 Trail of Crumbs
-4 Gilded Goose
-4 Mayhem Devil
+3 Driven / Despair
+4 Blooming Marsh
 2 Drowned Catacomb
 1 Dragonskull Summit
 1 Glorybringer
@@ -266,10 +236,10 @@
 1 Drown in the Loch
 1 Fetid Pools
 1 Dragonlord Silumgar
+1 Steam Vents
 1 Silumgar's Scorn
 1 Foul-Tongue Invocation
 1 Castle Vantress
-1 Steam Vents
 1 Dragonmaster Outcast
 1 Dig Through Time
 1 Sulfur Falls
@@ -296,9 +266,11 @@
 1 Collision / Colossus
 1 The Great Henge
 1 Gruul Spellbreaker
+1 Stomping Ground
 1 Combat Celebrant
 2 Rhonas the Indomitable
 2 The Great Henge
+2 Stomping Ground
 2 Rotting Regisaur
 2 Collision / Colossus
 2 Gruul Spellbreaker
@@ -320,8 +292,8 @@
 2 Rogue Refiner
 2 Tajic, Legion's Edge
 2 Mantis Rider
-3 Rogue Refiner
 3 Experiment One
+3 Rogue Refiner
 3 Inspiring Vantage
 3 Mantis Rider
 4 Experiment One
@@ -445,8 +417,9 @@
 6 Plains
 7 Plains
 1 Bomat Courier
-1 Angrath's Rampage
+1 Castle Locthwain
 1 Rekindling Phoenix
+1 Angrath's Rampage
 1 Goblin Rabblemaster
 1 Chandra, Torch of Defiance
 1 Spike Jester
@@ -467,8 +440,8 @@
 4 Swamp
 5 Mountain
 5 Swamp
-6 Mountain
 6 Swamp
+6 Mountain
 7 Mountain
 8 Mountain
 1 Thassa's Oracle
@@ -481,8 +454,8 @@
 1 Ashiok's Erasure
 1 Agent of Treachery
 1 Thassa, God of the Sea
-1 Gadwick, the Wizened
 1 Mystical Dispute
+1 Gadwick, the Wizened
 2 Omen of the Sea
 2 Witching Well
 2 Temple of Enlightenment

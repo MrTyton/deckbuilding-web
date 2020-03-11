@@ -27,18 +27,18 @@
 1 Scalding Tarn
 1 Volcanic Island
 2 Scalding Tarn
-1 Tropical Island
 1 Snow-Covered Forest
+1 Tropical Island
 1 Taiga
-1 Punishing Fire
 1 Gilded Goose
+1 Grove of the Burnwillows
+1 Punishing Fire
 1 Badlands
 1 Dack Fayden
 1 Great Furnace
 1 Liquimetal Coating
 1 Abrade
 1 Shenanigans
-1 Grove of the Burnwillows
 1 Kolaghan's Command
 1 Goblin Welder
 1 Sword of Sinew and Steel
@@ -52,8 +52,8 @@
 1 Life from the Loam
 1 Tin Street Hooligan
 1 Faithless Looting
-2 Grove of the Burnwillows
 2 Punishing Fire
+2 Grove of the Burnwillows
 2 Taiga
 2 Gilded Goose
 2 Great Furnace
@@ -83,13 +83,13 @@
 1 Underground Sea
 1 Snow-Covered Swamp
 1 Narset, Parter of Veils
-1 Gurmag Angler
 1 Baleful Strix
 1 Yuriko, the Tiger's Shadow
 1 Fallen Shinobi
 1 Snow-Covered Island
 1 Helm of Obedience
 1 Leyline of the Void
+1 Gurmag Angler
 2 Underground Sea
 2 Baleful Strix
 2 Snow-Covered Island
@@ -104,6 +104,7 @@
 4 Leyline of the Void
 4 Baleful Strix
 4 Underground Sea
+1 Lightning Bolt
 1 Thought Scour
 1 Island
 1 Tundra
@@ -117,7 +118,6 @@
 1 Dreadhorde Arcanist
 1 Teferi, Time Raveler
 1 Monastery Mentor
-1 Lightning Bolt
 1 Plains
 1 Preordain
 2 Lightning Bolt
@@ -144,12 +144,12 @@
 1 Polukranos, Unchained
 1 Titania, Protector of Argoth
 1 Ancient Tomb
-1 Assassin's Trophy
-1 Oko, Thief of Crowns
 1 Ramunap Excavator
 1 Chalice of the Void
+1 Assassin's Trophy
 1 Scavenging Ooze
 1 Ghost Quarter
+1 Oko, Thief of Crowns
 1 Dryad Arbor
 1 Volrath's Stronghold
 1 Dryad of the Ilysian Grove
@@ -163,8 +163,8 @@
 1 Green Sun's Zenith
 2 Snow-Covered Forest
 2 Ancient Tomb
-2 Oko, Thief of Crowns
 2 Chalice of the Void
+2 Oko, Thief of Crowns
 2 Trinisphere
 2 Green Sun's Zenith
 2 Sylvan Library

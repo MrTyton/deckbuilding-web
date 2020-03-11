@@ -1,19 +1,19 @@
+4 Lightning Bolt
+1 Mountain
+1 Bloodstained Mire
+1 Arid Mesa
 1 Copperline Gorge
 1 Monastery Swiftspear
 2 Bloodstained Mire
 2 Arid Mesa
-2 Wooded Foothills
 2 Copperline Gorge
 2 Monastery Swiftspear
 2 Mountain
-2 Lightning Bolt
-3 Lightning Bolt
 3 Monastery Swiftspear
 3 Copperline Gorge
 3 Mountain
 4 Copperline Gorge
 4 Monastery Swiftspear
-4 Lightning Bolt
 1 Manamorphose
 1 Crash Through
 1 Kiln Fiend
@@ -29,16 +29,16 @@
 4 Crash Through
 4 Manamorphose
 4 Mutagenic Growth
-1 Sunbaked Canyon
 2 Stomping Ground
+1 Questing Beast
+2 Windswept Heath
+1 Sunbaked Canyon
 2 Sunbaked Canyon
 3 Bloodstained Mire
 3 Arid Mesa
 1 Elvish Mystic
 2 Elvish Mystic
-2 Windswept Heath
 3 Elvish Mystic
-1 Questing Beast
 3 Birds of Paradise
 3 Misty Rainforest
 4 Birds of Paradise
@@ -51,30 +51,82 @@
 1 Klothys, God of Destiny
 1 Eidolon of the Great Revel
 1 Rift Bolt
+2 Grim Lavamancer
 2 Searing Blaze
+2 Skewer the Critics
 2 Goblin Guide
 2 Klothys, God of Destiny
-2 Grim Lavamancer
 2 Atarka's Command
 2 Lava Spike
 2 Rift Bolt
-2 Skewer the Critics
 2 Eidolon of the Great Revel
-3 Eidolon of the Great Revel
 3 Lava Spike
 3 Skewer the Critics
 3 Rift Bolt
+3 Eidolon of the Great Revel
 3 Goblin Guide
 3 Atarka's Command
 3 Searing Blaze
 4 Arid Mesa
 4 Eidolon of the Great Revel
+4 Atarka's Command
 4 Rift Bolt
 4 Lava Spike
 4 Skewer the Critics
-4 Atarka's Command
 4 Searing Blaze
 4 Goblin Guide
+1 Snow-Covered Forest
+1 Utopia Sprawl
+1 Bloodbraid Elf
+1 Verdant Catacombs
+1 Snow-Covered Mountain
+2 Snow-Covered Forest
+2 Utopia Sprawl
+2 Bloodbraid Elf
+3 Wooded Foothills
+3 Bloodbraid Elf
+3 Utopia Sprawl
+4 Wooded Foothills
+1 Sheltered Thicket
+1 Valakut, the Molten Pinnacle
+1 Ghost Quarter
+1 Forgotten Cave
+1 Dryad of the Ilysian Grove
+1 Primeval Titan
+1 Chandra, Torch of Defiance
+1 Field of the Dead
+1 Explore
+1 Tranquil Thicket
+1 Search for Tomorrow
+1 Wrenn and Six
+1 Mina and Denn, Wildborn
+1 Raging Ravine
+1 Courser of Kruphix
+1 Cinder Glade
+2 Courser of Kruphix
+2 Dryad of the Ilysian Grove
+2 Valakut, the Molten Pinnacle
+2 Forgotten Cave
+2 Primeval Titan
+2 Ghost Quarter
+2 Chandra, Torch of Defiance
+2 Field of the Dead
+2 Explore
+2 Verdant Catacombs
+2 Raging Ravine
+2 Search for Tomorrow
+2 Wrenn and Six
+3 Courser of Kruphix
+3 Dryad of the Ilysian Grove
+3 Search for Tomorrow
+3 Wrenn and Six
+3 Explore
+3 Verdant Catacombs
+4 Dryad of the Ilysian Grove
+4 Wrenn and Six
+4 Bloodbraid Elf
+4 Search for Tomorrow
+4 Explore
 1 Blossoming Defense
 1 Dismember
 1 Tarmogoyf
@@ -82,23 +134,23 @@
 1 Temur Battle Rage
 1 Become Immense
 2 Dismember
-2 Tarmogoyf
 2 Become Immense
+2 Tarmogoyf
 2 Soul-Scar Mage
 2 Temur Battle Rage
-3 Tarmogoyf
 3 Temur Battle Rage
+3 Tarmogoyf
 3 Soul-Scar Mage
-4 Tarmogoyf
 4 Temur Battle Rage
+4 Tarmogoyf
 4 Kiln Fiend
 4 Soul-Scar Mage
 1 Gut Shot
 1 Desperate Ritual
-1 Nivmagus Elemental
 1 Scalding Tarn
 1 Ground Rift
 1 Grapeshot
+1 Nivmagus Elemental
 2 Gut Shot
 2 Grapeshot
 2 Nivmagus Elemental
@@ -113,3 +165,34 @@
 4 Ground Rift
 4 Mountain
 5 Mountain
+1 Glorybringer
+1 Blood Moon
+1 Tireless Tracker
+1 Pillage
+1 Arbor Elf
+1 Inferno Titan
+2 Glorybringer
+2 Questing Beast
+2 Inferno Titan
+2 Arbor Elf
+2 Blood Moon
+2 Tireless Tracker
+2 Pillage
+3 Tireless Tracker
+3 Blood Moon
+3 Questing Beast
+3 Pillage
+3 Arbor Elf
+3 Stomping Ground
+3 Inferno Titan
+3 Glorybringer
+3 Snow-Covered Forest
+4 Tireless Tracker
+4 Glorybringer
+4 Stomping Ground
+4 Utopia Sprawl
+4 Arbor Elf
+4 Snow-Covered Forest
+4 Pillage
+5 Snow-Covered Forest
+6 Snow-Covered Forest

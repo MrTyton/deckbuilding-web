@@ -1,41 +1,8 @@
 4 Botanical Sanctum
-1 Wild Cantor
-3 Once Upon a Time
+1 Breeding Pool
 1 Misty Rainforest
 2 Misty Rainforest
-1 Windswept Heath
 1 Snow-Covered Island
-1 Stomping Ground
-1 Snow-Covered Mountain
-1 Prismatic Vista
-1 Snow-Covered Plains
-1 Overgrown Tomb
-1 Niv-Mizzet Reborn
-1 Unmoored Ego
-1 Bring to Light
-1 Teferi, Time Raveler
-1 Dreadbore
-1 Kaya's Guile
-1 Abrupt Decay
-1 Supreme Verdict
-1 Lightning Helix
-1 Pillar of the Paruns
-1 Snow-Covered Swamp
-2 Teferi, Time Raveler
-2 Prismatic Vista
-2 Pillar of the Paruns
-2 Bring to Light
-2 Niv-Mizzet Reborn
-2 Lightning Helix
-3 Prismatic Vista
-3 Teferi, Time Raveler
-3 Pillar of the Paruns
-3 Bring to Light
-3 Niv-Mizzet Reborn
-4 Bring to Light
-4 Pillar of the Paruns
-4 Teferi, Time Raveler
-4 Prismatic Vista
 1 Hallowed Fountain
 1 Ice-Fang Coatl
 1 Arcum's Astrolabe
@@ -44,46 +11,9 @@
 3 Ice-Fang Coatl
 3 Arcum's Astrolabe
 4 Arcum's Astrolabe
-1 Godless Shrine
-1 Thought Erasure
-1 Kolaghan's Command
-1 Huntmaster of the Fells
-1 Assassin's Trophy
-1 Inquisition of Kozilek
-1 Bloodstained Mire
-1 Polluted Delta
-2 Assassin's Trophy
-2 Polluted Delta
-2 Inquisition of Kozilek
-3 Inquisition of Kozilek
-3 Polluted Delta
-3 Assassin's Trophy
-3 Lightning Helix
-4 Lightning Helix
 1 Uro, Titan of Nature's Wrath
-1 Breeding Pool
 2 Uro, Titan of Nature's Wrath
 3 Uro, Titan of Nature's Wrath
-1 Verdant Catacombs
-1 Wooded Foothills
-1 Temple Garden
-1 Bloodbraid Elf
-1 Utopia Sprawl
-1 Tolsimir, Friend to Wolves
-1 Birds of Paradise
-1 Jori En, Ruin Diver
-2 Bloodbraid Elf
-2 Utopia Sprawl
-2 Abrupt Decay
-2 Kaya's Guile
-2 Birds of Paradise
-2 Snow-Covered Forest
-3 Birds of Paradise
-3 Bloodbraid Elf
-3 Utopia Sprawl
-4 Birds of Paradise
-4 Bloodbraid Elf
-4 Utopia Sprawl
 1 Detention Sphere
 1 Shadow of Doubt
 1 Jace, the Mind Sculptor
@@ -129,9 +59,145 @@
 4 Snow-Covered Island
 4 Path to Exile
 1 Forest
+1 Phantasmal Image
+1 Reflecting Pool
+1 Charming Prince
+1 Cavern of Souls
+1 Thalia's Lieutenant
+1 Aether Vial
+1 Aether Hub
+1 Dark Confidant
+1 Noble Hierarch
+1 Eternal Witness
+1 Collected Company
+1 Kessig Malcontents
+1 Unclaimed Territory
+1 Seasoned Pyromancer
+2 Phantasmal Image
+2 Charming Prince
+2 Reflecting Pool
+2 Dark Confidant
+2 Aether Vial
+2 Forest
+2 Kessig Malcontents
+2 Aether Hub
+2 Thalia's Lieutenant
+2 Unclaimed Territory
+2 Noble Hierarch
+2 Cavern of Souls
+2 Collected Company
+3 Phantasmal Image
+3 Cavern of Souls
+3 Charming Prince
+3 Kessig Malcontents
+3 Collected Company
+3 Dark Confidant
+3 Noble Hierarch
+3 Thalia's Lieutenant
+3 Aether Vial
+3 Reflecting Pool
+3 Unclaimed Territory
+4 Phantasmal Image
+4 Cavern of Souls
+4 Charming Prince
+4 Collected Company
+4 Unclaimed Territory
+4 Dark Confidant
+4 Aether Vial
+4 Thalia's Lieutenant
+4 Kessig Malcontents
+4 Reflecting Pool
+4 Noble Hierarch
+1 Temple Garden
+1 Windswept Heath
+1 Snow-Covered Mountain
+1 Stomping Ground
+1 Snow-Covered Plains
+1 Overgrown Tomb
+1 Prismatic Vista
+1 Bring to Light
+1 Niv-Mizzet Reborn
+1 Unmoored Ego
+1 Teferi, Time Raveler
+1 Dreadbore
+1 Kaya's Guile
+1 Abrupt Decay
+1 Supreme Verdict
+1 Lightning Helix
+1 Pillar of the Paruns
+1 Snow-Covered Swamp
+2 Teferi, Time Raveler
+2 Prismatic Vista
+2 Pillar of the Paruns
+2 Bring to Light
+2 Niv-Mizzet Reborn
+2 Lightning Helix
+3 Prismatic Vista
+3 Teferi, Time Raveler
+3 Pillar of the Paruns
+3 Bring to Light
+3 Niv-Mizzet Reborn
+4 Bring to Light
+4 Pillar of the Paruns
+4 Teferi, Time Raveler
+4 Prismatic Vista
+1 Wild Cantor
+3 Once Upon a Time
+1 Verdant Catacombs
+1 Wooded Foothills
+1 Waterlogged Grove
+1 Dissenter's Deliverance
+1 Godless Shrine
+1 Thought Erasure
+1 Huntmaster of the Fells
+1 Kolaghan's Command
+1 Assassin's Trophy
+1 Inquisition of Kozilek
+1 Polluted Delta
+1 Bloodstained Mire
+2 Assassin's Trophy
+2 Polluted Delta
+2 Inquisition of Kozilek
+3 Inquisition of Kozilek
+3 Assassin's Trophy
+3 Polluted Delta
+3 Lightning Helix
+4 Lightning Helix
+1 Bloodbraid Elf
+1 Utopia Sprawl
+1 Tolsimir, Friend to Wolves
+1 Birds of Paradise
+1 Jori En, Ruin Diver
+2 Bloodbraid Elf
+2 Utopia Sprawl
+2 Abrupt Decay
+2 Kaya's Guile
+2 Birds of Paradise
+2 Snow-Covered Forest
+3 Birds of Paradise
+3 Bloodbraid Elf
+3 Utopia Sprawl
+4 Birds of Paradise
+4 Bloodbraid Elf
+4 Utopia Sprawl
+2 Seasoned Pyromancer
+2 Eternal Witness
+3 Eternal Witness
+3 Mana Confluence
+3 Seasoned Pyromancer
+4 Eternal Witness
+4 Mana Confluence
+4 Seasoned Pyromancer
+1 Champion of the Parish
+1 Rogue Refiner
+2 Champion of the Parish
+2 Rogue Refiner
+3 Champion of the Parish
+3 Aether Hub
+4 Champion of the Parish
+4 Aether Hub
 1 Traverse the Ulvenwald
 1 Ancient Stirrings
-1 Street Wraith
 1 Vizier of Remedies
 1 Pact of Negation
 1 Duskwatch Recruiter
@@ -141,12 +207,12 @@
 1 Scattered Groves
 1 Devoted Druid
 1 Walking Ballista
+1 Street Wraith
 1 Horizon Canopy
 1 Finale of Devastation
 1 Hall of the Bandit Lord
 1 Mishra's Bauble
 2 Walking Ballista
-2 Street Wraith
 2 Ancient Stirrings
 2 Traverse the Ulvenwald
 2 Incubation/Incongruity
@@ -155,78 +221,22 @@
 2 Devoted Druid
 2 Pact of Negation
 2 Mishra's Bauble
+2 Street Wraith
 2 Vizier of Remedies
 2 Horizon Canopy
 3 Traverse the Ulvenwald
-3 Street Wraith
 3 Ancient Stirrings
 3 Devoted Druid
+3 Street Wraith
 3 Hall of the Bandit Lord
 3 Mishra's Bauble
 3 Vizier of Remedies
 3 Pact of Negation
-4 Street Wraith
 4 Ancient Stirrings
+4 Pact of Negation
 4 Mishra's Bauble
 4 Vizier of Remedies
-4 Pact of Negation
 4 Devoted Druid
+4 Street Wraith
 4 Hall of the Bandit Lord
 4 Traverse the Ulvenwald
-1 Phantasmal Image
-1 Reflecting Pool
-1 Cavern of Souls
-1 Thalia's Lieutenant
-1 Dark Confidant
-1 Charming Prince
-1 Unclaimed Territory
-1 Aether Vial
-1 Aether Hub
-1 Noble Hierarch
-1 Eternal Witness
-1 Collected Company
-1 Kessig Malcontents
-1 Seasoned Pyromancer
-2 Phantasmal Image
-2 Charming Prince
-2 Reflecting Pool
-2 Aether Vial
-2 Forest
-2 Seasoned Pyromancer
-2 Noble Hierarch
-2 Kessig Malcontents
-2 Dark Confidant
-2 Aether Hub
-2 Thalia's Lieutenant
-2 Unclaimed Territory
-2 Cavern of Souls
-2 Collected Company
-2 Eternal Witness
-3 Eternal Witness
-3 Phantasmal Image
-3 Cavern of Souls
-3 Charming Prince
-3 Kessig Malcontents
-3 Collected Company
-3 Seasoned Pyromancer
-3 Mana Confluence
-3 Dark Confidant
-3 Noble Hierarch
-3 Thalia's Lieutenant
-3 Aether Vial
-3 Reflecting Pool
-3 Unclaimed Territory
-4 Eternal Witness
-4 Phantasmal Image
-4 Charming Prince
-4 Collected Company
-4 Unclaimed Territory
-4 Dark Confidant
-4 Mana Confluence
-4 Seasoned Pyromancer
-4 Thalia's Lieutenant
-4 Aether Vial
-4 Kessig Malcontents
-4 Reflecting Pool
-4 Noble Hierarch
-4 Cavern of Souls

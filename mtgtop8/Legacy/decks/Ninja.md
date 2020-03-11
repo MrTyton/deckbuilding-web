@@ -48,7 +48,7 @@
 |                    4|[Baleful Strix](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376260)             |                     |                                                                                            |
 |                    4|[Ninja of the Deep Hours](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=74587)    |                     |                                                                                            |
 |                    4|[Faerie Seer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464000)               |                     |                                                                                            |
-|                    4|[Yuriko, the Tiger's Shadow](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=450653)|                     |                                                                                            |
 |                    5|[Snow-Covered Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121130)       |                     |                                                                                            |
 |                    6|[Snow-Covered Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121130)       |                     |                                                                                            |
+|                    4|[Yuriko, the Tiger's Shadow](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=450653)|                     |                                                                                            |
 

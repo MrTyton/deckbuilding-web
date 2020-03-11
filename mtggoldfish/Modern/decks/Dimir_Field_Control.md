@@ -1,7 +1,7 @@
 # Dimir Field Control
 
 #### [Export MTGO List](../collection/Dimir%20Field%20Control/Dimir%20Field%20Control.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=2%09Archmage's%20Charm%0A3%09Cryptic%20Command%0A4%09Drown%20in%20the%20Loch%0A4%09Fatal%20Push%0A4%09Field%20of%20Ruin%0A3%09Force%20of%20Negation%0A3%09Into%20the%20Story%0A5%09Island%0A3%09Mystic%20Sanctuary%0A4%09Polluted%20Delta%0A4%09Scalding%20Tarn%0A3%09Shadow%20of%20Doubt%0A4%09Snapcaster%20Mage%0A3%09Spell%20Snare%0A1%09Sunken%20Hollow%0A1%09Swamp%0A2%09Tasigur,%20the%20Golden%20Fang%0A4%09Thought%20Scour%0A1%09Torrential%20Gearhulk%0A2%09Watery%20Grave&deckside=3%09Collective%20Brutality%0A2%09Disdainful%20Stroke%0A2%09Engineered%20Explosives%0A2%09Flusterstorm%0A1%09Kalitas,%20Traitor%20of%20Ghet%0A2%09Vendilion%20Clique%0A3%09Yixlid%20Jailer)
+#### [Print on decklist.org](http://decklist.org/?deckmain=2%09Archmage's%20Charm%0A3%09Cryptic%20Command%0A4%09Drown%20in%20the%20Loch%0A4%09Fatal%20Push%0A4%09Field%20of%20Ruin%0A3%09Force%20of%20Negation%0A3%09Into%20the%20Story%0A5%09Island%0A3%09Mystic%20Sanctuary%0A4%09Polluted%20Delta%0A4%09Scalding%20Tarn%0A3%09Shadow%20of%20Doubt%0A4%09Snapcaster%20Mage%0A3%09Spell%20Snare%0A1%09Sunken%20Hollow%0A1%09Swamp%0A2%09Tasigur,%20the%20Golden%20Fang%0A4%09Thought%20Scour%0A1%09Torrential%20Gearhulk%0A2%09Watery%20Grave&deckside=4%09Collective%20Brutality%0A1%09Disdainful%20Stroke%0A2%09Engineered%20Explosives%0A2%09Flusterstorm%0A1%09Kalitas,%20Traitor%20of%20Ghet%0A2%09Vendilion%20Clique%0A3%09Yixlid%20Jailer)
 # Maindeck
 
 |                                            Creature (7)                                             |                                         Instant (29)                                         |                                          Land (24)                                          |
@@ -19,9 +19,16 @@
 
 # Sideboard
 
-|                                          Artifact (2)                                           |                                            Creature (6)                                             |                                         Instant (4)                                          |                                           Sorcery (3)                                           |
+|                                          Artifact (2)                                           |                                            Creature (6)                                             |                                         Instant (3)                                          |                                           Sorcery (4)                                           |
 |-------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
-|2 [Engineered Explosives](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=50139)|1 [Kalitas, Traitor of Ghet](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407596)|2 [Disdainful Stroke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420705)|3 [Collective Brutality](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414380)|
+|2 [Engineered Explosives](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=50139)|1 [Kalitas, Traitor of Ghet](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407596)|1 [Disdainful Stroke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420705)|4 [Collective Brutality](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414380)|
 |                                                                                                 |2 [Vendilion Clique](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442065)        |2 [Flusterstorm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=228255)     |                                                                                                 |
 |                                                                                                 |3 [Yixlid Jailer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=130702)           |                                                                                              |                                                                                                 |
+
+
+# Other Options
+
+|*n*<sup>th</sup> copy|Maindeck Card|*n*<sup>th</sup> copy|                                       Sideboard Card                                       |
+|---------------------|-------------|--------------------:|--------------------------------------------------------------------------------------------|
+|                     |             |                    2|[Disdainful Stroke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420705)|
 

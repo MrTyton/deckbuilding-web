@@ -1,87 +1,9 @@
-2 Galvanic Blast
-1 Breeding Pool
-2 Misty Rainforest
-1 Ichor Wellspring
-1 Deprive
-4 Goblin Engineer
-1 Snow-Covered Plains
-1 Tormod's Crypt
-1 Hallowed Fountain
-3 Flooded Strand
-4 Flooded Strand
-2 Mystic Sanctuary
-1 Metallic Rebuke
-1 Witching Well
-2 Metallic Rebuke
-1 Saheeli, Sublime Artificer
-1 Fatal Push
-1 Blood Crypt
-2 Fatal Push
-1 Snow-Covered Forest
-1 Wrenn and Six
-2 Wrenn and Six
-3 Wrenn and Six
-1 Prismatic Vista
-2 Prismatic Vista
-1 Wooded Foothills
-1 Stomping Ground
-2 Wooded Foothills
-1 Verdant Catacombs
-1 Thoughtseize
-1 Assassin's Trophy
-1 Overgrown Tomb
-1 Inquisition of Kozilek
-1 Kolaghan's Command
-1 Uro, Titan of Nature's Wrath
-2 Inquisition of Kozilek
-2 Overgrown Tomb
-2 Verdant Catacombs
-2 Thoughtseize
-2 Uro, Titan of Nature's Wrath
-3 Inquisition of Kozilek
-1 Talisman of Dominance
-1 Damping Sphere
-1 Sacred Foundry
-1 Smuggler's Copter
-1 Sai, Master Thopterist
-1 Pyrite Spellbomb
-1 Darksteel Citadel
-2 Smuggler's Copter
-2 Nihil Spellbomb
-2 Chromatic Star
-2 Darksteel Citadel
-2 Engineered Explosives
-3 Galvanic Blast
-3 Pentad Prism
-1 Tireless Tracker
-1 Terminate
-1 Tarmogoyf
-1 Bloodbraid Elf
-1 Lightning Bolt
-1 Snapcaster Mage
-2 Snow-Covered Forest
-2 Snow-Covered Swamp
-2 Kolaghan's Command
-2 Tarmogoyf
-2 Snapcaster Mage
-2 Bloodbraid Elf
-2 Tireless Tracker
-2 Assassin's Trophy
-2 Lightning Bolt
-3 Snapcaster Mage
-3 Verdant Catacombs
-3 Prismatic Vista
-3 Tarmogoyf
-3 Bloodbraid Elf
-3 Uro, Titan of Nature's Wrath
-4 Uro, Titan of Nature's Wrath
-4 Tarmogoyf
-1 Ghost Quarter
-1 Executioner's Capsule
-1 Lonely Sandbar
-1 Fiery Islet
-3 Misty Rainforest
-4 Misty Rainforest
+1 Scalding Tarn
+2 Scalding Tarn
+1 Polluted Delta
+2 Polluted Delta
+3 Polluted Delta
+4 Polluted Delta
 3 Wooded Foothills
 1 Liliana of the Veil
 1 Kroxa, Titan of Death's Hunger
@@ -89,29 +11,26 @@
 1 Once Upon a Time
 1 Thought Scour
 1 Lazav, the Multifarious
-2 Watery Grave
 2 Liliana of the Veil
 2 Thought Scour
+2 Watery Grave
 2 Once Upon a Time
 2 Kroxa, Titan of Death's Hunger
 2 Lazav, the Multifarious
 2 Stubborn Denial
 3 Thoughtseize
 3 Kroxa, Titan of Death's Hunger
-3 Fatal Push
 3 Thought Scour
 3 Lazav, the Multifarious
+3 Fatal Push
 3 Once Upon a Time
 4 Lazav, the Multifarious
-4 Thought Scour
-4 Fatal Push
 4 Kroxa, Titan of Death's Hunger
 4 Once Upon a Time
-1 Jeskai Ascendancy
-2 Jeskai Ascendancy
-3 Jeskai Ascendancy
-3 Metallic Rebuke
-4 Jeskai Ascendancy
+4 Fatal Push
+4 Thought Scour
+3 Scalding Tarn
+4 Scalding Tarn
 1 Life from the Loam
 1 Stinkweed Imp
 1 Ox of Agonas
@@ -120,14 +39,14 @@
 1 Conflagrate
 1 Golgari Thug
 1 Tome Scour
-1 Narcomoeba
 1 Forgotten Cave
+1 Narcomoeba
 1 Mountain
 1 Hedron Crab
-1 Bloodghast
 1 Cathartic Reunion
 1 City of Brass
 1 Creeping Chill
+1 Bloodghast
 2 Steam Vents
 2 City of Brass
 2 Life from the Loam
@@ -135,14 +54,14 @@
 2 Prized Amalgam
 2 Creeping Chill
 2 Golgari Thug
+2 Bloodghast
 2 Tome Scour
 2 Stomping Ground
-2 Bloodghast
+2 Forgotten Cave
 2 Narcomoeba
 2 Cathartic Reunion
 2 Ox of Agonas
 2 Hedron Crab
-2 Forgotten Cave
 3 Stinkweed Imp
 3 Prized Amalgam
 3 Hedron Crab
@@ -163,3 +82,42 @@
 4 Hedron Crab
 4 Narcomoeba
 4 Bloodghast
+1 Emry, Lurker of the Loch
+1 Metallic Rebuke
+1 Mox Amber
+1 Nihil Spellbomb
+1 Pithing Needle
+1 Ensnaring Bridge
+1 Mystic Sanctuary
+1 Thopter Foundry
+1 Talisman of Dominance
+1 Urza, Lord High Artificer
+1 Goblin Engineer
+1 Sword of the Meek
+1 Whir of Invention
+1 Witching Well
+1 Aether Spellbomb
+1 Mishra's Bauble
+1 Pentad Prism
+2 Metallic Rebuke
+2 Emry, Lurker of the Loch
+2 Thopter Foundry
+2 Snow-Covered Island
+2 Goblin Engineer
+2 Pentad Prism
+2 Whir of Invention
+2 Sword of the Meek
+2 Urza, Lord High Artificer
+2 Mishra's Bauble
+2 Mox Amber
+3 Mishra's Bauble
+3 Thopter Foundry
+3 Emry, Lurker of the Loch
+3 Snow-Covered Island
+3 Urza, Lord High Artificer
+4 Snow-Covered Island
+4 Emry, Lurker of the Loch
+4 Mishra's Bauble
+4 Urza, Lord High Artificer
+4 Thopter Foundry
+5 Snow-Covered Island

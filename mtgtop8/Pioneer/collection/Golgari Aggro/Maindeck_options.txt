@@ -1,10 +1,5 @@
-1 Walking Ballista
-2 Winding Constrictor
-2 Walking Ballista
-3 Winding Constrictor
 4 Winding Constrictor
 1 Vivien, Arkbow Ranger
-2 Woodland Cemetery
 2 Nissa, Voice of Zendikar
 1 Hardened Scales
 1 Hangarback Walker
@@ -15,20 +10,27 @@
 4 Hardened Scales
 1 Stonecoil Serpent
 2 Stonecoil Serpent
-8 Forest
 3 Hangarback Walker
 3 Nissa, Voice of Zendikar
 4 Walking Ballista
+2 Woodland Cemetery
 3 Stonecoil Serpent
+1 Collected Company
+2 Collected Company
+3 Collected Company
+4 Collected Company
+4 Hangarback Walker
+2 Vivien, Arkbow Ranger
+8 Forest
 4 Stonecoil Serpent
 3 Rishkar, Peema Renegade
 3 Ghalta, Primal Hunger
+1 Voracious Hydra
+2 Voracious Hydra
+3 Woodland Cemetery
 1 Surrak, the Hunt Caller
 2 Surrak, the Hunt Caller
-3 Woodland Cemetery
 4 Nissa, Voice of Zendikar
-4 Hangarback Walker
-2 Vivien, Arkbow Ranger
 1 Heart of Kiran
 1 Scrapheap Scrounger
 2 Scrapheap Scrounger
@@ -37,8 +39,7 @@
 1 Assassin's Trophy
 4 Scavenging Ooze
 2 Heart of Kiran
-1 Voracious Hydra
-2 Voracious Hydra
+2 Hashep Oasis
 3 Scrapheap Scrounger
 4 Scrapheap Scrounger
 1 Pelt Collector
@@ -89,7 +90,6 @@
 3 Voracious Hydra
 4 Voracious Hydra
 1 Evolutionary Leap
-2 Hashep Oasis
 1 Gifted Aetherborn
 2 Gifted Aetherborn
 3 Swamp
@@ -109,12 +109,14 @@
 4 The Great Henge
 1 Nessian Hornbeetle
 1 Karn's Bastion
+1 Nullhide Ferox
+2 Nullhide Ferox
 1 Aethersphere Harvester
 1 Jadelight Ranger
 1 Castle Garenbrig
 2 Jadelight Ranger
-1 Nullhide Ferox
-2 Nullhide Ferox
+1 Abrupt Decay
+2 Abrupt Decay
 1 Temple of Malady
 1 Polukranos, Unchained
 1 Castle Locthwain
@@ -128,27 +130,14 @@
 2 Slitherhead
 3 Assassin's Trophy
 3 Thoughtseize
-1 Steel Overseer
 1 Hissing Quagmire
+1 Steel Overseer
 1 Metallic Mimic
 2 Steel Overseer
 2 Metallic Mimic
 3 Steel Overseer
 3 Metallic Mimic
 4 Woodland Cemetery
-1 Unclaimed Territory
-1 Kiora, Behemoth Beckoner
-1 Thought-Knot Seer
-2 Unclaimed Territory
-2 Kiora, Behemoth Beckoner
-2 Thought-Knot Seer
-3 Hashep Oasis
-3 Kiora, Behemoth Beckoner
-3 Thought-Knot Seer
-3 Unclaimed Territory
-4 Hashep Oasis
-4 Thought-Knot Seer
-4 Unclaimed Territory
 1 Stomping Ground
 1 Blood Crypt
 1 Mana Confluence
@@ -166,6 +155,19 @@
 3 Mana Confluence
 3 Collective Brutality
 4 Mana Confluence
+1 Unclaimed Territory
+1 Kiora, Behemoth Beckoner
+1 Thought-Knot Seer
+2 Unclaimed Territory
+2 Kiora, Behemoth Beckoner
+2 Thought-Knot Seer
+3 Hashep Oasis
+3 Kiora, Behemoth Beckoner
+3 Thought-Knot Seer
+3 Unclaimed Territory
+4 Hashep Oasis
+4 Thought-Knot Seer
+4 Unclaimed Territory
 1 Dwynen's Elite
 1 Elvish Clancaller
 1 Shaman of the Pack
@@ -181,9 +183,9 @@
 2 Icon of Ancestry
 2 Thorn Lieutenant
 2 Wildborn Preserver
-3 Wildborn Preserver
 3 Shaman of the Pack
 3 Dwynen's Elite
+3 Wildborn Preserver
 3 Elvish Clancaller
 3 Thorn Lieutenant
 4 Dwynen's Elite
