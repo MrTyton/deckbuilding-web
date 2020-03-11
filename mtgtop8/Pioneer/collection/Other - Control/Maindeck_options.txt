@@ -265,26 +265,6 @@
 3 Glimmer of Genius
 3 Teferi, Hero of Dominaria
 4 Glacial Fortress
-1 Grim Flayer
-1 Hissing Quagmire
-1 Tireless Tracker
-1 Overgrown Tomb
-1 Abrupt Decay
-1 Woodland Cemetery
-1 Questing Beast
-1 Assassin's Trophy
-2 Hissing Quagmire
-2 Woodland Cemetery
-2 Grim Flayer
-2 Tireless Tracker
-2 Overgrown Tomb
-2 Assassin's Trophy
-2 Field of Ruin
-3 Woodland Cemetery
-3 Grim Flayer
-3 Overgrown Tomb
-4 Grim Flayer
-4 Overgrown Tomb
 1 Concealed Courtyard
 1 Temple of Deceit
 1 The Eldest Reborn
@@ -295,9 +275,9 @@
 2 Temple of Deceit
 4 Oath of Kaya
 1 Tyrant's Scorn
-1 Erebos's Intervention
 1 Opt
 1 Steam Vents
+1 Erebos's Intervention
 2 Tyrant's Scorn
 2 Steam Vents
 2 Opt
@@ -399,6 +379,26 @@
 3 Vessel of Nascency
 4 Hinterland Harbor
 4 Arboreal Grazer
+1 Hissing Quagmire
+1 Tireless Tracker
+1 Overgrown Tomb
+1 Abrupt Decay
+1 Woodland Cemetery
+1 Grim Flayer
+1 Questing Beast
+1 Assassin's Trophy
+2 Hissing Quagmire
+2 Woodland Cemetery
+2 Tireless Tracker
+2 Overgrown Tomb
+2 Assassin's Trophy
+2 Grim Flayer
+2 Field of Ruin
+3 Woodland Cemetery
+3 Overgrown Tomb
+3 Grim Flayer
+4 Overgrown Tomb
+4 Grim Flayer
 1 Brimaz, King of Oreskos
 1 Heart of Kiran
 1 Lightning Strike
@@ -415,8 +415,8 @@
 4 Inspiring Vantage
 4 Lightning Strike
 1 Gifted Aetherborn
-1 Ob Nixilis Reignited
 1 Liliana, Death's Majesty
+1 Ob Nixilis Reignited
 1 Plaguecrafter
 1 Liliana's Triumph
 1 Ritual of Soot

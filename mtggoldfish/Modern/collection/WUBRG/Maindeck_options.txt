@@ -98,7 +98,6 @@
 3 Reflecting Pool
 3 Unclaimed Territory
 4 Phantasmal Image
-4 Cavern of Souls
 4 Charming Prince
 4 Collected Company
 4 Unclaimed Territory
@@ -108,6 +107,7 @@
 4 Kessig Malcontents
 4 Reflecting Pool
 4 Noble Hierarch
+4 Cavern of Souls
 1 Temple Garden
 1 Windswept Heath
 1 Snow-Covered Mountain
@@ -119,12 +119,12 @@
 1 Niv-Mizzet Reborn
 1 Unmoored Ego
 1 Teferi, Time Raveler
-1 Dreadbore
-1 Kaya's Guile
 1 Abrupt Decay
-1 Supreme Verdict
+1 Kaya's Guile
+1 Dreadbore
 1 Lightning Helix
 1 Pillar of the Paruns
+1 Supreme Verdict
 1 Snow-Covered Swamp
 2 Teferi, Time Raveler
 2 Prismatic Vista
@@ -186,8 +186,8 @@
 3 Mana Confluence
 3 Seasoned Pyromancer
 4 Eternal Witness
-4 Mana Confluence
 4 Seasoned Pyromancer
+4 Mana Confluence
 1 Champion of the Parish
 1 Rogue Refiner
 2 Champion of the Parish
