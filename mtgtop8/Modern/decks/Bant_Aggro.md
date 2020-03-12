@@ -96,7 +96,7 @@
 |                    1|[Oko, Thief of Crowns](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473159)     |                     |                                                                                                  |
 |                    2|[Jace, the Mind Sculptor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442051)  |                     |                                                                                                  |
 |                    2|[Oko, Thief of Crowns](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473159)     |                     |                                                                                                  |
-|                    3|[Oko, Thief of Crowns](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473159)     |                     |                                                                                                  |
 |                    3|[Jace, the Mind Sculptor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442051)  |                     |                                                                                                  |
+|                    3|[Oko, Thief of Crowns](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473159)     |                     |                                                                                                  |
 |                    4|[Oko, Thief of Crowns](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473159)     |                     |                                                                                                  |
 

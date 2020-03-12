@@ -168,6 +168,6 @@
 |                    4|[Bloodrage Brawler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426823)     |                     |                                                                                                     |
 |                   16|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)              |                     |                                                                                                     |
 |                   17|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)              |                     |                                                                                                     |
-|                   19|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)              |                     |                                                                                                     |
 |                   18|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)              |                     |                                                                                                     |
+|                   19|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)              |                     |                                                                                                     |
 
