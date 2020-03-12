@@ -56,7 +56,7 @@
 |                    4|Alseid of Life's Bounty                                                                    |                    2|Sentinel's Eyes                                                                               |
 |                    4|[Healer's Hawk](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452764)   |                    3|Sentinel's Eyes                                                                               |
 |                    4|[Idyllic Tutor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=152938)   |                    3|[Noxious Grasp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466864)      |
-|                    7|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)          |                    3|[Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)              |
-|                    7|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)           |                    4|Sentinel's Eyes                                                                               |
-|                    8|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)           |                     |                                                                                              |
+|                    7|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)           |                    3|[Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)              |
+|                    8|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)           |                    4|Sentinel's Eyes                                                                               |
+|                    7|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)          |                     |                                                                                              |
 

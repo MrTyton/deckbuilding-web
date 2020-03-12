@@ -5,11 +5,12 @@
 4 Exploration
 1 Field of the Dead
 1 Forest
-3 Gamble
+4 Gamble
 1 Ghost Quarter
 4 Grove of the Burnwillows
 1 Karakas
 4 Life from the Loam
+1 Manabond
 2 Maze of Ith
 1 Misty Rainforest
 4 Mox Diamond
@@ -20,9 +21,7 @@
 1 The Tabernacle at Pendrell Vale
 4 Thespian's Stage
 1 Tranquil Thicket
-1 Verdant Catacombs
 4 Wasteland
-1 Waterlogged Grove
 1 Windswept Heath
 1 Wooded Foothills
 Sideboard
@@ -30,5 +29,6 @@ Sideboard
 2 Elvish Reclaimer
 3 Force of Vigor
 2 Leyline of the Void
-2 Pyroblast
+1 Pyroblast
 4 Sphere of Resistance
+1 Veil of Summer

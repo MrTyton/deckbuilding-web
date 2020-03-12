@@ -9,8 +9,8 @@
 |[Azorius Blink](./mtggoldfish/Standard/decks/Azorius_Blink.md)    |[Esper Hero](./mtggoldfish/Standard/decks/Esper_Hero.md)                        |[Jund Food](./mtggoldfish/Standard/decks/Jund_Food.md)                              |[Rakdos Aggro](./mtggoldfish/Standard/decks/Rakdos_Aggro.md)            |[Temur Adventures](./mtggoldfish/Standard/decks/Temur_Adventures.md)  |
 |[Azorius Control](./mtggoldfish/Standard/decks/Azorius_Control.md)|[Golgari Food](./mtggoldfish/Standard/decks/Golgari_Food.md)                    |[Mono-Green Troll Rampage](./mtggoldfish/Standard/decks/Mono-Green_Troll_Rampage.md)|[Rakdos Aristocats](./mtggoldfish/Standard/decks/Rakdos_Aristocats.md)  |[Temur Reclamation](./mtggoldfish/Standard/decks/Temur_Reclamation.md)|
 |[Bant MidRamp](./mtggoldfish/Standard/decks/Bant_MidRamp.md)      |[Grixis Sacrifice](./mtggoldfish/Standard/decks/Grixis_Sacrifice.md)            |[Mono-Red Aggro](./mtggoldfish/Standard/decks/Mono-Red_Aggro.md)                    |[Rakdos Aristocrats](./mtggoldfish/Standard/decks/Rakdos_Aristocrats.md)|[UG](./mtggoldfish/Standard/decks/UG.md)                              |
-|[Bant Midrange](./mtggoldfish/Standard/decks/Bant_Midrange.md)    |[Gruul Adventures Aggro](./mtggoldfish/Standard/decks/Gruul_Adventures_Aggro.md)|[Mono-Red Cavalcade](./mtggoldfish/Standard/decks/Mono-Red_Cavalcade.md)            |[Simic Flash](./mtggoldfish/Standard/decks/Simic_Flash.md)              |[WB](./mtggoldfish/Standard/decks/WB.md)                              |
-|[Bant Ramp](./mtggoldfish/Standard/decks/Bant_Ramp.md)            |[Gruul Aggro](./mtggoldfish/Standard/decks/Gruul_Aggro.md)                      |[RG](./mtggoldfish/Standard/decks/RG.md)                                            |[Simic Ramp](./mtggoldfish/Standard/decks/Simic_Ramp.md)                |                                                                      |
+|[Bant Midrange](./mtggoldfish/Standard/decks/Bant_Midrange.md)    |[Gruul Adventures Aggro](./mtggoldfish/Standard/decks/Gruul_Adventures_Aggro.md)|[Mono-Red Cavalcade](./mtggoldfish/Standard/decks/Mono-Red_Cavalcade.md)            |[Simic Flash](./mtggoldfish/Standard/decks/Simic_Flash.md)              |[URG](./mtggoldfish/Standard/decks/URG.md)                            |
+|[Bant Ramp](./mtggoldfish/Standard/decks/Bant_Ramp.md)            |[Gruul Aggro](./mtggoldfish/Standard/decks/Gruul_Aggro.md)                      |[RG](./mtggoldfish/Standard/decks/RG.md)                                            |[Simic Ramp](./mtggoldfish/Standard/decks/Simic_Ramp.md)                |[WB](./mtggoldfish/Standard/decks/WB.md)                              |
 |[Esper Control](./mtggoldfish/Standard/decks/Esper_Control.md)    |[Jeskai Fires](./mtggoldfish/Standard/decks/Jeskai_Fires.md)                    |[R](./mtggoldfish/Standard/decks/R.md)                                              |[Sultai Midrange](./mtggoldfish/Standard/decks/Sultai_Midrange.md)      |                                                                      |
 
 
@@ -88,4 +88,4 @@
 
 
 
-#### Last Updated at 01:20PM on March 11, 2020
+#### Last Updated at 01:49AM on March 12, 2020

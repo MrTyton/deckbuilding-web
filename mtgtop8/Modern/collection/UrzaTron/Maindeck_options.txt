@@ -14,12 +14,12 @@
 1 Paradox Engine
 1 Mystic Forge
 2 Everflowing Chalice
+2 Blast Zone
 2 Chalice of the Void
 2 Paradox Engine
 2 Mystic Forge
 2 Ugin, the Ineffable
 2 Astral Cornucopia
-2 Blast Zone
 2 Coretapper
 2 Surge Node
 3 Chalice of the Void
@@ -59,19 +59,21 @@
 1 Cryptic Command
 2 Cryptic Command
 3 Cryptic Command
+1 Plains
 1 Hallowed Fountain
 1 Talisman of Progress
 1 Sphinx's Revelation
 1 Mystic Gate
-1 Snapcaster Mage
+1 Supreme Verdict
+1 Celestial Colonnade
 1 Jace, the Mind Sculptor
 1 Elder Deep-Fiend
-1 Time Wipe
 1 Settle the Wreckage
+1 Path to Exile
 1 Dream Trawler
 1 Elspeth, Sun's Nemesis
-1 Wrath of God
 1 Elspeth, Sun's Champion
+1 Wrath of God
 1 Shadow of Doubt
 1 Fortune Thief
 1 Azorius Signet
@@ -79,19 +81,17 @@
 1 Torrential Gearhulk
 1 Realm-Cloaked Giant
 1 Gifts Ungiven
+1 Time Wipe
 1 Flooded Strand
 1 Wall of Omens
-1 Celestial Colonnade
 1 Midnight Clock
-1 Plains
-1 Path to Exile
-1 Supreme Verdict
+1 Snapcaster Mage
 2 Shadow of Doubt
+2 Celestial Colonnade
 2 Plains
 2 Hallowed Fountain
 2 Elder Deep-Fiend
 2 Solemn Simulacrum
-2 Celestial Colonnade
 2 Emrakul, the Promised End
 2 Flooded Strand
 2 Wall of Omens
@@ -129,8 +129,8 @@
 1 Gilded Goose
 1 Engineered Explosives
 1 Tormod's Crypt
-1 Ice-Fang Coatl
 1 Mystic Sanctuary
+1 Ice-Fang Coatl
 1 Arcum's Astrolabe
 1 Emry, Lurker of the Loch
 1 Snow-Covered Island
@@ -139,17 +139,17 @@
 1 Polluted Delta
 1 Mishra's Bauble
 1 Misty Rainforest
-2 Metallic Rebuke
 2 Gilded Goose
+2 Metallic Rebuke
 2 Uro, Titan of Nature's Wrath
 2 Breeding Pool
 2 Tormod's Crypt
-2 Ice-Fang Coatl
 2 Engineered Explosives
 2 Urza, Lord High Artificer
 2 Snow-Covered Island
 2 Arcum's Astrolabe
 2 Emry, Lurker of the Loch
+2 Ice-Fang Coatl
 2 Mystic Sanctuary
 2 Scalding Tarn
 2 Mishra's Bauble
@@ -157,20 +157,20 @@
 2 Misty Rainforest
 3 Misty Rainforest
 3 Emry, Lurker of the Loch
+3 Gilded Goose
 3 Scalding Tarn
 3 Uro, Titan of Nature's Wrath
-3 Gilded Goose
 3 Engineered Explosives
 3 Metallic Rebuke
-3 Ice-Fang Coatl
 3 Urza, Lord High Artificer
 3 Arcum's Astrolabe
 3 Mishra's Bauble
+3 Ice-Fang Coatl
 3 Snow-Covered Island
-4 Emry, Lurker of the Loch
 4 Misty Rainforest
-4 Scalding Tarn
+4 Emry, Lurker of the Loch
 4 Gilded Goose
+4 Scalding Tarn
 4 Ice-Fang Coatl
 4 Snow-Covered Island
 4 Urza, Lord High Artificer
@@ -178,6 +178,7 @@
 4 Arcum's Astrolabe
 5 Snow-Covered Island
 1 Tolaria West
+1 Remand
 1 Field of Ruin
 1 Mindslaver
 1 Witching Well
@@ -187,11 +188,10 @@
 1 Spatial Contortion
 1 Cyclonic Rift
 1 Nimble Obstructionist
-1 Remand
 1 Condescend
 1 Academy Ruins
-2 Nimble Obstructionist
 2 Remand
+2 Nimble Obstructionist
 2 Spatial Contortion
 2 Condescend
 2 Thirst for Knowledge

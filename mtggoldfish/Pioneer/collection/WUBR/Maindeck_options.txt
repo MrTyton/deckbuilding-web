@@ -1,43 +1,103 @@
+1 Island
+1 Hallowed Fountain
+1 Steam Vents
+2 Steam Vents
+2 Hallowed Fountain
+3 Hallowed Fountain
+1 Sulfur Falls
+1 Teferi, Time Raveler
+1 Plains
+2 Teferi, Time Raveler
+3 Teferi, Time Raveler
+1 Opt
+2 Opt
+3 Opt
+4 Opt
+1 Murderous Rider
+1 Isolated Chapel
+1 Blood Crypt
+1 Nicol Bolas, the Ravager
+1 Swamp
+1 Watery Grave
+1 Drowned Catacomb
+1 Silumgar's Scorn
+1 Thought Erasure
+1 Mountain
+1 Glacial Fortress
+1 Godless Shrine
+1 Fabled Passage
+1 Dragonlord Ojutai
+1 Crux of Fate
+1 Dragonlord Silumgar
+1 Fatal Push
+1 Foul-Tongue Invocation
+1 Dragonskull Summit
+1 Haven of the Spirit Dragon
+2 Murderous Rider
+2 Drowned Catacomb
+2 Nicol Bolas, the Ravager
+2 Foul-Tongue Invocation
+2 Thought Erasure
+2 Isolated Chapel
+2 Silumgar's Scorn
+2 Watery Grave
+2 Dragonlord Ojutai
+2 Crux of Fate
+2 Dragonlord Silumgar
+2 Glacial Fortress
+2 Fabled Passage
+2 Fatal Push
+3 Fatal Push
+3 Thought Erasure
+3 Foul-Tongue Invocation
+3 Dragonlord Ojutai
+3 Nicol Bolas, the Ravager
+3 Silumgar's Scorn
+3 Watery Grave
+3 Crux of Fate
+4 Thought Erasure
+4 Fatal Push
+4 Silumgar's Scorn
 2 Island
-3 Steam Vents
 3 Island
+3 Steam Vents
 4 Steam Vents
-1 Geier Reach Sanitarium
-1 Omen of the Sea
-1 Narset, Parter of Veils
-1 Deafening Clarion
-1 Detention Sphere
-1 Fae of Wishes
-1 The Birth of Meletis
-1 Thirst for Meaning
 1 Teferi, Hero of Dominaria
+1 Geier Reach Sanitarium
+1 Deafening Clarion
+1 The Birth of Meletis
 1 Castle Ardenvale
 1 Castle Vantress
+1 Thirst for Meaning
+1 Narset, Parter of Veils
 1 Fires of Invention
 1 Dream Trawler
+1 Fae of Wishes
+1 Supreme Verdict
 1 Drawn from Dreams
 1 Sacred Foundry
-1 Supreme Verdict
+1 Detention Sphere
+1 Omen of the Sea
 1 Clifftop Retreat
-2 Omen of the Sea
 2 Castle Vantress
+2 Sulfur Falls
 2 The Birth of Meletis
+2 Narset, Parter of Veils
+2 Omen of the Sea
 2 Sacred Foundry
 2 Teferi, Hero of Dominaria
 2 Plains
 2 Fires of Invention
-2 Narset, Parter of Veils
 2 Deafening Clarion
 2 Supreme Verdict
-2 Sulfur Falls
 2 Thirst for Meaning
 2 Castle Ardenvale
 2 Fae of Wishes
+3 The Birth of Meletis
 3 Narset, Parter of Veils
+3 Fae of Wishes
 3 Omen of the Sea
 3 Plains
-3 Fae of Wishes
-3 The Birth of Meletis
 3 Supreme Verdict
 3 Fires of Invention
 4 Omen of the Sea
@@ -47,109 +107,49 @@
 4 Fires of Invention
 4 The Birth of Meletis
 4 Supreme Verdict
-1 Steel Overseer
-1 Ornithopter
-1 Mutavault
-1 Aether Hub
-1 Stonecoil Serpent
-1 Hope of Ghirapur
-1 Springleaf Drum
-1 Metallic Rebuke
-1 All That Glitters
-1 Emry, Lurker of the Loch
-1 Mana Confluence
-1 Shrapnel Blast
-1 Ensoul Artifact
-1 Gingerbrute
-1 Ghostfire Blade
-1 Bomat Courier
-1 Darksteel Citadel
-1 Spire of Industry
-2 Steel Overseer
-2 Ornithopter
-2 Aether Hub
-2 Metallic Rebuke
-2 Stonecoil Serpent
-2 Hope of Ghirapur
-2 Mutavault
-2 Springleaf Drum
-2 All That Glitters
-2 Mana Confluence
-2 Ghostfire Blade
-2 Shrapnel Blast
-2 Darksteel Citadel
-2 Bomat Courier
-2 Gingerbrute
-2 Spire of Industry
-2 Ensoul Artifact
-3 Ornithopter
-3 Aether Hub
-3 Stonecoil Serpent
-3 Gingerbrute
-3 Spire of Industry
-3 Mana Confluence
-3 Ghostfire Blade
-3 Darksteel Citadel
-3 All That Glitters
-3 Shrapnel Blast
-3 Springleaf Drum
-3 Ensoul Artifact
-3 Bomat Courier
-4 Spire of Industry
-4 Ornithopter
-4 Aether Hub
-4 Stonecoil Serpent
-4 Gingerbrute
-4 Springleaf Drum
-4 Ensoul Artifact
-4 Darksteel Citadel
-4 Bomat Courier
-4 Mana Confluence
-4 Ghostfire Blade
-4 Shrapnel Blast
+1 Underworld Breach
 1 Temple of Enlightenment
-1 Ipnu Rivulet
-1 Blink of an Eye
-1 Discovery/Dispersal
+1 Lotus Field
 1 Chart a Course
 1 Chronic Flooding
 1 Spirebluff Canal
+1 Discovery/Dispersal
 1 Thassa's Oracle
+1 Blink of an Eye
 1 Dig Through Time
 1 Shivan Reef
-1 Underworld Breach
+1 Ipnu Rivulet
 1 Compelling Argument
 1 Hidden Strings
 1 Baral, Chief of Compliance
 1 Goblin Electromancer
-1 Lotus Field
 1 Strategic Planning
 2 Underworld Breach
+2 Lotus Field
 2 Strategic Planning
 2 Dig Through Time
 2 Discovery/Dispersal
-2 Spirebluff Canal
 2 Shivan Reef
 2 Hidden Strings
 2 Compelling Argument
-2 Lotus Field
+2 Spirebluff Canal
 2 Chart a Course
 2 Chronic Flooding
 2 Baral, Chief of Compliance
-3 Dig Through Time
+3 Lotus Field
 3 Hidden Strings
 3 Baral, Chief of Compliance
 3 Strategic Planning
 3 Discovery/Dispersal
-3 Lotus Field
 3 Chronic Flooding
 3 Spirebluff Canal
 3 Underworld Breach
+3 Dig Through Time
 3 Compelling Argument
+4 Hidden Strings
 4 Underworld Breach
 4 Baral, Chief of Compliance
 4 Spirebluff Canal
 4 Chronic Flooding
-4 Hidden Strings
 4 Strategic Planning
 4 Discovery/Dispersal
