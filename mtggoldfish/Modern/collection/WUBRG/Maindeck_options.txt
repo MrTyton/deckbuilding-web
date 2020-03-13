@@ -1,4 +1,3 @@
-4 Botanical Sanctum
 1 Breeding Pool
 1 Misty Rainforest
 2 Misty Rainforest
@@ -15,22 +14,20 @@
 2 Uro, Titan of Nature's Wrath
 3 Uro, Titan of Nature's Wrath
 1 Detention Sphere
-1 Shadow of Doubt
 1 Jace, the Mind Sculptor
 1 Mystic Sanctuary
 1 Mana Leak
 1 Steam Vents
 1 Archmage's Charm
+1 Flooded Strand
 1 Cryptic Command
 1 Scalding Tarn
 1 Wrenn and Six
 1 Thought Scour
-1 Flooded Strand
 1 Sacred Foundry
 1 Lonely Sandbar
 1 Path to Exile
 2 Breeding Pool
-2 Shadow of Doubt
 2 Cryptic Command
 2 Scalding Tarn
 2 Snow-Covered Island
@@ -58,6 +55,9 @@
 4 Ice-Fang Coatl
 4 Snow-Covered Island
 4 Path to Exile
+1 Shadow of Doubt
+2 Shadow of Doubt
+4 Botanical Sanctum
 1 Forest
 1 Phantasmal Image
 1 Reflecting Pool
@@ -76,6 +76,7 @@
 2 Phantasmal Image
 2 Charming Prince
 2 Reflecting Pool
+2 Dark Confidant
 2 Aether Vial
 2 Forest
 2 Kessig Malcontents
@@ -85,7 +86,6 @@
 2 Noble Hierarch
 2 Cavern of Souls
 2 Collected Company
-2 Dark Confidant
 3 Phantasmal Image
 3 Cavern of Souls
 3 Charming Prince
@@ -95,8 +95,8 @@
 3 Noble Hierarch
 3 Thalia's Lieutenant
 3 Aether Vial
-3 Reflecting Pool
 3 Unclaimed Territory
+3 Reflecting Pool
 4 Phantasmal Image
 4 Charming Prince
 4 Collected Company
@@ -115,13 +115,13 @@
 1 Snow-Covered Plains
 1 Overgrown Tomb
 1 Prismatic Vista
+1 Dreadbore
 1 Bring to Light
 1 Niv-Mizzet Reborn
 1 Unmoored Ego
 1 Teferi, Time Raveler
 1 Abrupt Decay
 1 Kaya's Guile
-1 Dreadbore
 1 Lightning Helix
 1 Pillar of the Paruns
 1 Supreme Verdict
@@ -153,21 +153,31 @@
 1 Kolaghan's Command
 1 Assassin's Trophy
 1 Inquisition of Kozilek
-1 Bloodstained Mire
 1 Polluted Delta
+1 Bloodstained Mire
 2 Assassin's Trophy
 2 Polluted Delta
 2 Inquisition of Kozilek
 3 Inquisition of Kozilek
-3 Assassin's Trophy
 3 Polluted Delta
+3 Assassin's Trophy
 3 Lightning Helix
 4 Lightning Helix
+1 Force of Negation
+4 Archmage's Charm
+2 Seasoned Pyromancer
+2 Eternal Witness
+3 Eternal Witness
+3 Mana Confluence
+3 Seasoned Pyromancer
+4 Eternal Witness
+4 Seasoned Pyromancer
+4 Mana Confluence
 1 Bloodbraid Elf
 1 Utopia Sprawl
 1 Tolsimir, Friend to Wolves
-1 Jori En, Ruin Diver
 1 Birds of Paradise
+1 Jori En, Ruin Diver
 2 Bloodbraid Elf
 2 Utopia Sprawl
 2 Abrupt Decay
@@ -180,14 +190,6 @@
 4 Birds of Paradise
 4 Bloodbraid Elf
 4 Utopia Sprawl
-2 Seasoned Pyromancer
-2 Eternal Witness
-3 Eternal Witness
-3 Mana Confluence
-3 Seasoned Pyromancer
-4 Eternal Witness
-4 Seasoned Pyromancer
-4 Mana Confluence
 1 Champion of the Parish
 1 Rogue Refiner
 2 Champion of the Parish
@@ -198,9 +200,9 @@
 4 Aether Hub
 1 Traverse the Ulvenwald
 1 Ancient Stirrings
+1 Pact of Negation
 1 Vizier of Remedies
 1 Duskwatch Recruiter
-1 Pact of Negation
 1 Deadshot Minotaur
 1 Conjurer's Bauble
 1 Incubation/Incongruity
@@ -225,16 +227,16 @@
 2 Vizier of Remedies
 2 Horizon Canopy
 3 Traverse the Ulvenwald
-3 Ancient Stirrings
 3 Devoted Druid
 3 Street Wraith
-3 Pact of Negation
+3 Ancient Stirrings
 3 Hall of the Bandit Lord
 3 Mishra's Bauble
 3 Vizier of Remedies
-4 Ancient Stirrings
+3 Pact of Negation
 4 Pact of Negation
 4 Mishra's Bauble
+4 Ancient Stirrings
 4 Vizier of Remedies
 4 Devoted Druid
 4 Street Wraith

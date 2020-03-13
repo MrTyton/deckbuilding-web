@@ -36,8 +36,8 @@
 |                    2|[Hazoret the Fervent](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426838)|                    1|[Smash to Smithereens](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397795) |
 |                    2|[Magus of the Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=136152)  |                    1|[Spellskite](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397743)           |
 |                    2|[Legion Warboss](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452859)     |                    1|[Leyline of Combustion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466902)|
-|                    2|[Slagstorm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=214054)          |                    2|[Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)       |
-|                     |                                                                                              |                    2|[Leyline of Combustion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466902)|
+|                    2|[Slagstorm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=214054)          |                    2|[Leyline of Combustion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466902)|
+|                     |                                                                                              |                    2|[Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)       |
 |                     |                                                                                              |                    4|[Leyline of Combustion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466902)|
 |                     |                                                                                              |                    3|[Leyline of Combustion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466902)|
 

@@ -35,8 +35,8 @@
 
 |*n*<sup>th</sup> copy|                                          Maindeck Card                                           |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
 |--------------------:|--------------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
-|                    1|[Teferi, Time Raveler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461148)   |                    1|[Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)     |
-|                    1|[Spell Queller](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414494)          |                    2|[Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)     |
+|                    1|[Spell Queller](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414494)          |                    1|[Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)     |
+|                    1|[Teferi, Time Raveler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461148)   |                    2|[Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)     |
 |                    2|[Mystic Sanctuary](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473209)       |                    1|[Anger of the Gods](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438682)  |
 |                    2|[Teferi, Time Raveler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461148)   |                    1|[Dispel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401858)             |
 |                    1|[Sulfur Falls](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443135)           |                    1|[Baneslayer Angel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=191065)   |

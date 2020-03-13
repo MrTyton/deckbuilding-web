@@ -16,6 +16,7 @@
 1 Murderous Rider
 1 Isolated Chapel
 1 Blood Crypt
+1 Fatal Push
 1 Nicol Bolas, the Ravager
 1 Swamp
 1 Watery Grave
@@ -29,7 +30,6 @@
 1 Dragonlord Ojutai
 1 Crux of Fate
 1 Dragonlord Silumgar
-1 Fatal Push
 1 Foul-Tongue Invocation
 1 Dragonskull Summit
 1 Haven of the Spirit Dragon
@@ -37,7 +37,6 @@
 2 Drowned Catacomb
 2 Nicol Bolas, the Ravager
 2 Foul-Tongue Invocation
-2 Thought Erasure
 2 Isolated Chapel
 2 Silumgar's Scorn
 2 Watery Grave
@@ -46,14 +45,15 @@
 2 Dragonlord Silumgar
 2 Glacial Fortress
 2 Fabled Passage
+2 Thought Erasure
 2 Fatal Push
 3 Fatal Push
 3 Thought Erasure
 3 Foul-Tongue Invocation
-3 Dragonlord Ojutai
 3 Nicol Bolas, the Ravager
 3 Silumgar's Scorn
 3 Watery Grave
+3 Dragonlord Ojutai
 3 Crux of Fate
 4 Thought Erasure
 4 Fatal Push
@@ -65,19 +65,19 @@
 1 Teferi, Hero of Dominaria
 1 Geier Reach Sanitarium
 1 Deafening Clarion
-1 The Birth of Meletis
 1 Castle Vantress
+1 The Birth of Meletis
 1 Castle Ardenvale
 1 Thirst for Meaning
 1 Narset, Parter of Veils
 1 Fires of Invention
 1 Dream Trawler
 1 Fae of Wishes
-1 Supreme Verdict
 1 Drawn from Dreams
 1 Sacred Foundry
 1 Detention Sphere
 1 Omen of the Sea
+1 Supreme Verdict
 1 Clifftop Retreat
 2 Teferi, Hero of Dominaria
 2 Castle Vantress
@@ -95,9 +95,9 @@
 2 Fae of Wishes
 3 The Birth of Meletis
 3 Narset, Parter of Veils
+3 Plains
 3 Fae of Wishes
 3 Omen of the Sea
-3 Plains
 3 Supreme Verdict
 3 Fires of Invention
 4 Omen of the Sea
@@ -129,10 +129,10 @@
 2 Strategic Planning
 2 Dig Through Time
 2 Discovery/Dispersal
+2 Spirebluff Canal
 2 Shivan Reef
 2 Hidden Strings
 2 Compelling Argument
-2 Spirebluff Canal
 2 Chart a Course
 2 Chronic Flooding
 2 Baral, Chief of Compliance
@@ -146,10 +146,10 @@
 3 Underworld Breach
 3 Dig Through Time
 3 Compelling Argument
-4 Hidden Strings
 4 Underworld Breach
 4 Baral, Chief of Compliance
 4 Spirebluff Canal
 4 Chronic Flooding
+4 Hidden Strings
 4 Strategic Planning
 4 Discovery/Dispersal

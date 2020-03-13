@@ -29,8 +29,8 @@
 
 |*n*<sup>th</sup> copy|                                        Maindeck Card                                         |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
 |--------------------:|----------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
-|                    1|Dream Trawler                                                                                 |                    1|[Deputy of Detention](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457309)|
 |                    1|[Deputy of Detention](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457309)|                    1|Dream Trawler                                                                                 |
+|                    1|Dream Trawler                                                                                 |                    1|[Deputy of Detention](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457309)|
 |                    1|Heliod's Intervention                                                                         |                    2|Dream Trawler                                                                                 |
 |                    2|Heliod's Intervention                                                                         |                    4|[Aether Gust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466796)        |
 |                    2|[Deputy of Detention](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457309)|                     |                                                                                              |

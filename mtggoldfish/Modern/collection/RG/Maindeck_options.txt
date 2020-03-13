@@ -1,14 +1,52 @@
+1 Verdant Catacombs
 4 Farseek
 1 Misty Rainforest
-1 Once Upon a Time
-2 Once Upon a Time
-3 Once Upon a Time
+1 Utopia Sprawl
+1 Bloodbraid Elf
+2 Utopia Sprawl
+2 Bloodbraid Elf
+3 Bloodbraid Elf
+3 Utopia Sprawl
 1 Noble Hierarch
 2 Noble Hierarch
 2 Misty Rainforest
 3 Noble Hierarch
 4 Noble Hierarch
+1 Questing Beast
+1 Glorybringer
+1 Pillage
+1 Blood Moon
+1 Tireless Tracker
+1 Arbor Elf
+1 Inferno Titan
+2 Glorybringer
+2 Pillage
+2 Questing Beast
+2 Arbor Elf
+2 Blood Moon
+2 Tireless Tracker
+2 Inferno Titan
+3 Tireless Tracker
+3 Pillage
+3 Blood Moon
+3 Questing Beast
+3 Arbor Elf
+3 Inferno Titan
+3 Glorybringer
+4 Pillage
+4 Tireless Tracker
+4 Glorybringer
+4 Utopia Sprawl
+4 Arbor Elf
+1 Once Upon a Time
+2 Once Upon a Time
+3 Once Upon a Time
+2 Forest
+3 Forest
+4 Forest
+5 Forest
 1 Karn, the Great Creator
+1 Vivien, Arkbow Ranger
 1 Scavenging Ooze
 1 Dryad Arbor
 1 Nykthos, Shrine to Nyx
@@ -20,20 +58,17 @@
 1 Burning-Tree Emissary
 1 Horizon Canopy
 1 Oath of Nissa
-1 Vivien, Arkbow Ranger
 2 Karn, the Great Creator
 2 Vivien, Arkbow Ranger
 2 Leyline of Abundance
 2 Horizon Canopy
 2 Nykthos, Shrine to Nyx
 2 Genesis Hydra
-2 Forest
 2 Devoted Druid
 2 Llanowar Tribe
 2 Oath of Nissa
 2 Burning-Tree Emissary
 2 Birds of Paradise
-3 Forest
 3 Oath of Nissa
 3 Burning-Tree Emissary
 3 Horizon Canopy
@@ -42,7 +77,6 @@
 3 Vivien, Arkbow Ranger
 3 Leyline of Abundance
 3 Genesis Hydra
-4 Forest
 4 Leyline of Abundance
 4 Burning-Tree Emissary
 4 Oath of Nissa
@@ -50,12 +84,10 @@
 4 Once Upon a Time
 4 Nykthos, Shrine to Nyx
 4 Karn, the Great Creator
-5 Forest
-1 Verdant Catacombs
 3 Explore
 2 Field of the Dead
 4 Dryad of the Ilysian Grove
-1 Questing Beast
+2 Snow-Covered Forest
 1 Bloodstained Mire
 1 Arid Mesa
 1 Manamorphose
@@ -83,13 +115,6 @@
 4 Copperline Gorge
 4 Monastery Swiftspear
 4 Mutagenic Growth
-1 Utopia Sprawl
-1 Bloodbraid Elf
-2 Snow-Covered Forest
-2 Utopia Sprawl
-2 Bloodbraid Elf
-3 Bloodbraid Elf
-3 Utopia Sprawl
 1 Elvish Mystic
 2 Elvish Mystic
 3 Elvish Mystic
@@ -106,12 +131,12 @@
 1 Forgotten Cave
 1 Tranquil Thicket
 1 Wrenn and Six
-1 Raging Ravine
 1 Mina and Denn, Wildborn
+1 Raging Ravine
 1 Courser of Kruphix
 2 Courser of Kruphix
-2 Ghost Quarter
 2 Chandra, Torch of Defiance
+2 Ghost Quarter
 2 Verdant Catacombs
 2 Raging Ravine
 2 Forgotten Cave
@@ -129,8 +154,8 @@
 1 Temur Battle Rage
 1 Sunbaked Canyon
 1 Become Immense
-2 Dismember
 2 Become Immense
+2 Dismember
 2 Tarmogoyf
 2 Soul-Scar Mage
 2 Sunbaked Canyon
@@ -138,8 +163,8 @@
 3 Bloodstained Mire
 3 Arid Mesa
 3 Temur Battle Rage
-3 Tarmogoyf
 3 Soul-Scar Mage
+3 Tarmogoyf
 4 Temur Battle Rage
 4 Tarmogoyf
 4 Kiln Fiend
@@ -147,9 +172,9 @@
 1 Grapeshot
 1 Gut Shot
 1 Desperate Ritual
+1 Nivmagus Elemental
 1 Scalding Tarn
 1 Ground Rift
-1 Nivmagus Elemental
 2 Gut Shot
 2 Grapeshot
 2 Nivmagus Elemental
@@ -164,32 +189,8 @@
 4 Mountain
 4 Gut Shot
 5 Mountain
-1 Glorybringer
-1 Pillage
-1 Blood Moon
-1 Tireless Tracker
-1 Arbor Elf
-1 Inferno Titan
-2 Glorybringer
-2 Pillage
-2 Questing Beast
-2 Inferno Titan
-2 Arbor Elf
-2 Blood Moon
-2 Tireless Tracker
-3 Tireless Tracker
-3 Pillage
-3 Blood Moon
-3 Questing Beast
-3 Arbor Elf
-3 Inferno Titan
-3 Glorybringer
+6 Forest
 3 Snow-Covered Forest
-4 Pillage
-4 Tireless Tracker
-4 Glorybringer
-4 Utopia Sprawl
-4 Arbor Elf
 4 Snow-Covered Forest
 5 Snow-Covered Forest
 6 Snow-Covered Forest

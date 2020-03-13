@@ -36,10 +36,10 @@
 1 Bonecrusher Giant
 2 Bonecrusher Giant
 2 Nicol Bolas, Dragon-God
+1 Swamp
 1 Watery Grave
 1 Blood Crypt
 1 Fatal Push
-1 Swamp
 1 Dragonskull Summit
 2 Watery Grave
 2 Fatal Push
@@ -51,16 +51,16 @@
 1 Cavalier of Gales
 2 Cavalier of Gales
 3 Cavalier of Gales
+2 Fabled Passage
 1 Drowned Catacomb
 1 Thoughtseize
-2 Thoughtseize
 2 Drowned Catacomb
+2 Thoughtseize
 2 Dragonskull Summit
 3 Dragonskull Summit
 3 Thoughtseize
 4 Watery Grave
 4 Blood Crypt
-2 Fabled Passage
 1 Murderous Rider
 2 Swamp
 2 Murderous Rider
@@ -88,33 +88,13 @@
 1 Rakdos's Return
 1 Thought Erasure
 1 Jace, Vryn's Prodigy
-2 Thought Erasure
 2 Crux of Fate
 2 Nicol Bolas, the Ravager
+2 Thought Erasure
 2 Tyrant's Scorn
 2 Kolaghan's Command
 3 Nicol Bolas, the Ravager
 3 Nimble Obstructionist
-1 Brazen Borrower
-1 Dreadbore
-1 Liliana, the Last Hope
-1 Glorybringer
-1 The Scarab God
-1 Temple of Deceit
-1 Gonti, Lord of Luxury
-2 Brazen Borrower
-2 The Scarab God
-2 Liliana, the Last Hope
-2 Glorybringer
-3 Chandra, Torch of Defiance
-3 Glorybringer
-3 The Scarab God
-3 Brazen Borrower
-3 Temple of Epiphany
-4 Thoughtseize
-4 Glorybringer
-4 Brazen Borrower
-4 Dragonskull Summit
 1 Thirst for Meaning
 1 The Birth of Meletis
 1 Dream Trawler
@@ -123,29 +103,27 @@
 2 Plains
 2 Castle Ardenvale
 3 The Birth of Meletis
-3 Island
 3 Plains
+3 Island
 4 Omen of the Sea
 4 Plains
 4 The Birth of Meletis
-1 Mystic Monastery
-3 Gideon of the Trials
-4 Gideon of the Trials
+1 Castle Locthwain
+3 Fabled Passage
+4 Fabled Passage
 1 Sweltering Suns
 1 Ob Nixilis Reignited
-1 Cavalier of Flame
 1 Kalitas, Traitor of Ghet
+1 Cavalier of Flame
 1 Sphinx of Foresight
-1 Castle Locthwain
-2 Kalitas, Traitor of Ghet
 2 Sweltering Suns
 2 Mountain
 2 Cavalier of Flame
+2 Kalitas, Traitor of Ghet
 2 Sphinx of Foresight
 3 Castle Vantress
 3 Fatal Push
 3 Sphinx of Foresight
-3 Fabled Passage
 3 Sweltering Suns
 3 Bonecrusher Giant
 3 Cavalier of Flame
@@ -153,7 +131,9 @@
 4 Murderous Rider
 4 Cavalier of Flame
 4 Bonecrusher Giant
-4 Fabled Passage
+1 Mystic Monastery
+3 Gideon of the Trials
+4 Gideon of the Trials
 1 Thassa, God of the Sea
 1 Idyllic Tutor
 1 Azorius Charm
@@ -163,3 +143,72 @@
 3 Kenrith, the Returned King
 3 Azorius Charm
 4 Glacial Fortress
+1 Brazen Borrower
+1 Glorybringer
+1 Dreadbore
+1 Liliana, the Last Hope
+1 The Scarab God
+1 Temple of Deceit
+1 Gonti, Lord of Luxury
+2 Brazen Borrower
+2 Liliana, the Last Hope
+2 Glorybringer
+2 The Scarab God
+3 Chandra, Torch of Defiance
+3 Glorybringer
+3 The Scarab God
+3 Brazen Borrower
+3 Temple of Epiphany
+4 Thoughtseize
+4 Glorybringer
+4 Brazen Borrower
+4 Dragonskull Summit
+1 Blooming Marsh
+1 Arboreal Grazer
+1 Rootbound Crag
+1 Courser of Kruphix
+1 Dryad of the Ilysian Grove
+1 Korvold, Fae-Cursed King
+1 Tireless Tracker
+1 Vraska, Golgari Queen
+1 Overgrown Tomb
+1 Woodland Cemetery
+1 Forest
+1 Sylvan Caryatid
+1 Karn, the Great Creator
+1 Ugin's Nexus
+1 Stomping Ground
+2 Blooming Marsh
+2 Forest
+2 Stomping Ground
+2 Arboreal Grazer
+2 Woodland Cemetery
+2 Tireless Tracker
+2 Karn, the Great Creator
+2 Overgrown Tomb
+2 Sylvan Caryatid
+2 Vraska, Golgari Queen
+2 Korvold, Fae-Cursed King
+2 Courser of Kruphix
+2 Ugin's Nexus
+3 Arboreal Grazer
+3 Vraska, Golgari Queen
+3 Courser of Kruphix
+3 Forest
+3 Stomping Ground
+3 Karn, the Great Creator
+3 Ugin's Nexus
+3 Korvold, Fae-Cursed King
+3 Overgrown Tomb
+3 Blooming Marsh
+3 Tireless Tracker
+3 Sylvan Caryatid
+4 Tireless Tracker
+4 Arboreal Grazer
+4 Vraska, Golgari Queen
+4 Stomping Ground
+4 Overgrown Tomb
+4 Karn, the Great Creator
+4 Forest
+4 Blooming Marsh
+5 Forest

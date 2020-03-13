@@ -49,8 +49,8 @@
 |                     |                                                                                             |                    1|[Embereth Shieldbreaker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473084)   |
 |                     |                                                                                             |                    1|[Massacre Girl](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461026)            |
 |                     |                                                                                             |                    1|[Liliana's Triumph](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461025)        |
-|                     |                                                                                             |                    2|[Embereth Shieldbreaker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473084)   |
 |                     |                                                                                             |                    2|[Liliana's Triumph](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461025)        |
+|                     |                                                                                             |                    2|[Embereth Shieldbreaker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473084)   |
 |                     |                                                                                             |                    3|[Liliana's Triumph](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461025)        |
 |                     |                                                                                             |                    4|[Liliana's Triumph](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461025)        |
 

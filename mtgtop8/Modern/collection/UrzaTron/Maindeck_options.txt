@@ -59,15 +59,14 @@
 1 Cryptic Command
 2 Cryptic Command
 3 Cryptic Command
-1 Plains
 1 Hallowed Fountain
+1 Plains
 1 Talisman of Progress
 1 Sphinx's Revelation
 1 Mystic Gate
 1 Supreme Verdict
 1 Celestial Colonnade
 1 Jace, the Mind Sculptor
-1 Elder Deep-Fiend
 1 Path to Exile
 1 Settle the Wreckage
 1 Dream Trawler
@@ -81,6 +80,7 @@
 1 Torrential Gearhulk
 1 Realm-Cloaked Giant
 1 Gifts Ungiven
+1 Elder Deep-Fiend
 1 Time Wipe
 1 Flooded Strand
 1 Wall of Omens
@@ -90,8 +90,8 @@
 2 Celestial Colonnade
 2 Plains
 2 Hallowed Fountain
-2 Elder Deep-Fiend
 2 Solemn Simulacrum
+2 Elder Deep-Fiend
 2 Emrakul, the Promised End
 2 Flooded Strand
 2 Wall of Omens
@@ -116,12 +116,12 @@
 2 Explore
 3 Ugin, the Spirit Dragon
 3 Explore
+4 Wurmcoil Engine
 1 Aetherflux Reservoir
 1 Scavenger Grounds
 4 Ugin, the Ineffable
-4 Wurmcoil Engine
-1 Breeding Pool
 1 Aether Spellbomb
+1 Breeding Pool
 1 Mox Amber
 1 Snow-Covered Forest
 1 Metallic Rebuke
@@ -139,8 +139,8 @@
 1 Polluted Delta
 1 Mishra's Bauble
 1 Misty Rainforest
-2 Metallic Rebuke
 2 Gilded Goose
+2 Metallic Rebuke
 2 Uro, Titan of Nature's Wrath
 2 Breeding Pool
 2 Tormod's Crypt
@@ -155,8 +155,8 @@
 2 Mishra's Bauble
 2 Polluted Delta
 2 Misty Rainforest
-3 Misty Rainforest
 3 Emry, Lurker of the Loch
+3 Misty Rainforest
 3 Gilded Goose
 3 Scalding Tarn
 3 Uro, Titan of Nature's Wrath
@@ -167,8 +167,8 @@
 3 Mishra's Bauble
 3 Ice-Fang Coatl
 3 Snow-Covered Island
-4 Misty Rainforest
 4 Emry, Lurker of the Loch
+4 Misty Rainforest
 4 Gilded Goose
 4 Scalding Tarn
 4 Ice-Fang Coatl

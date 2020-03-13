@@ -1,11 +1,11 @@
-1 Steel Overseer
 2 Steel Overseer
 4 Spire of Industry
+2 Hangarback Walker
+1 Metallic Rebuke
+2 Metallic Rebuke
 1 Mountain
 3 Steel Overseer
 4 Skilled Animator
-1 Metallic Rebuke
-2 Metallic Rebuke
 4 Steel Overseer
 2 Emry, Lurker of the Loch
 3 Hangarback Walker
@@ -16,6 +16,25 @@
 1 The Royal Scions
 2 Shock
 1 Ipnu Rivulet
+1 Ornithopter
+1 Mana Confluence
+1 Springleaf Drum
+1 Aether Hub
+1 All That Glitters
+2 Ornithopter
+2 Mana Confluence
+2 Springleaf Drum
+2 All That Glitters
+2 Aether Hub
+3 Ornithopter
+3 Mana Confluence
+3 Springleaf Drum
+3 Aether Hub
+3 All That Glitters
+4 Ornithopter
+4 Mana Confluence
+4 Springleaf Drum
+4 Aether Hub
 1 Mystical Dispute
 1 Lightning Strike
 2 Lightning Strike
@@ -31,32 +50,13 @@
 4 Stubborn Denial
 3 Lightning Strike
 4 Lightning Strike
-1 Ornithopter
-1 Mana Confluence
-1 Springleaf Drum
-1 Aether Hub
-1 All That Glitters
-2 Ornithopter
-2 Mana Confluence
-2 Springleaf Drum
-2 All That Glitters
-2 Aether Hub
-3 Ornithopter
-3 Mana Confluence
-3 Aether Hub
-3 All That Glitters
-3 Springleaf Drum
-4 Ornithopter
-4 Mana Confluence
-4 Springleaf Drum
-4 Aether Hub
 1 Sanctum of Ugin
 1 Flamewake Phoenix
 1 Rekindling Phoenix
 1 Chart a Course
 1 Lightning Axe
-1 Brazen Borrower
 1 Bonecrusher Giant
+1 Brazen Borrower
 1 Elder Deep-Fiend
 1 Kozilek's Return
 1 Sulfur Falls
@@ -66,10 +66,10 @@
 2 Elder Deep-Fiend
 2 Flamewake Phoenix
 2 Chart a Course
-2 Rekindling Phoenix
 2 Izzet Charm
-2 Lightning Axe
 2 Bonecrusher Giant
+2 Rekindling Phoenix
+2 Lightning Axe
 2 Brazen Borrower
 2 Kozilek's Return
 2 Sanctum of Ugin
@@ -80,15 +80,15 @@
 3 Kozilek's Return
 3 Flamewake Phoenix
 3 Chart a Course
-3 Brazen Borrower
 3 Bonecrusher Giant
-3 Elder Deep-Fiend
+3 Brazen Borrower
 3 Rekindling Phoenix
+3 Elder Deep-Fiend
 3 Sulfur Falls
 4 Rekindling Phoenix
 4 Chart a Course
-4 Flamewake Phoenix
 4 Bonecrusher Giant
+4 Flamewake Phoenix
 4 Brazen Borrower
 4 Elder Deep-Fiend
 5 Mountain
