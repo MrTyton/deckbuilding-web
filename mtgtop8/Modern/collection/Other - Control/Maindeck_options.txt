@@ -87,8 +87,8 @@
 1 Kolaghan's Command
 1 Utopia Sprawl
 1 Karn, the Great Creator
-1 Mwonvuli Acid-Moss
 1 Arbor Elf
+1 Mwonvuli Acid-Moss
 1 Trinisphere
 1 Eternal Witness
 2 Utopia Sprawl
@@ -101,11 +101,11 @@
 3 Karn, the Great Creator
 3 Once Upon a Time
 3 Snow-Covered Forest
-3 Arbor Elf
 3 Mwonvuli Acid-Moss
+3 Arbor Elf
+4 Snow-Covered Forest
 4 Utopia Sprawl
 4 Karn, the Great Creator
-4 Snow-Covered Forest
 4 Arbor Elf
 4 Mwonvuli Acid-Moss
 5 Snow-Covered Forest
@@ -127,18 +127,18 @@
 3 Serum Visions
 3 Liliana of the Veil
 4 Serum Visions
-1 Kroxa, Titan of Death's Hunger
 1 Seasoned Pyromancer
 1 Dark Confidant
-1 Fulminator Mage
 1 Blackcleave Cliffs
 1 Unearth
 1 Bonecrusher Giant
+1 Kroxa, Titan of Death's Hunger
 1 Mountain
+1 Fulminator Mage
+2 Kroxa, Titan of Death's Hunger
 2 Blood Crypt
 2 Bonecrusher Giant
 2 Bloodstained Mire
-2 Kroxa, Titan of Death's Hunger
 2 Kolaghan's Command
 2 Seasoned Pyromancer
 2 Thoughtseize
@@ -166,7 +166,6 @@
 4 Dark Confidant
 1 Go for the Throat
 4 Opt
-1 Sunken Hollow
 1 Drowned Catacomb
 1 Hero's Downfall
 1 Radiant Fountain
@@ -175,6 +174,7 @@
 1 Liliana's Triumph
 1 Field of the Dead
 1 Cling to Dust
+1 Sunken Hollow
 1 Into the Story
 1 Isochron Scepter
 1 Deprive
@@ -216,12 +216,12 @@
 1 Hallowed Fountain
 1 Plains
 1 Kaya's Guile
-1 Path to Exile
 1 Teferi, Hero of Dominaria
 1 Teferi, Time Raveler
 1 Logic Knot
 1 Secure the Wastes
 1 Celestial Colonnade
+1 Path to Exile
 1 Supreme Verdict
 2 Hallowed Fountain
 2 Archmage's Charm

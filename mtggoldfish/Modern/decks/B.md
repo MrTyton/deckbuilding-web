@@ -21,3 +21,19 @@
 |1 [Nihil Spellbomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442215)|                                                                                           |4 [Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)|                                                                                       |1 [Damnation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425888)           |
 |2 [Ratchet Bomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370623)   |                                                                                           |                                                                                                |                                                                                       |                                                                                                 |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                           Maindeck Card                                           |*n*<sup>th</sup> copy|                                        Sideboard Card                                         |
+|--------------------:|---------------------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------------|
+|                    1|[Collective Brutality](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414380)    |                    1|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)      |
+|                    1|[Ensnaring Bridge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=15866)         |                    1|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706) |
+|                    1|[Funeral Charm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=108895)           |                    1|[Wrench Mind](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438681)         |
+|                    1|[Nether Spirit](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464047)           |                    1|[Delirium Skeins](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107435)     |
+|                    2|[Ensnaring Bridge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=15866)         |                    2|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)      |
+|                    3|[Ensnaring Bridge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=15866)         |                    2|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706) |
+|                    4|[Raven's Crime](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=153487)           |                    2|[Collective Brutality](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414380)|
+|                    4|[Mutavault](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370733)               |                    2|[Nihil Spellbomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442215)     |
+|                    4|[Urborg, Tomb of Yawgmoth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383425)|                    2|[Delirium Skeins](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107435)     |
+|                   15|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)                   |                    2|[Wrench Mind](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438681)         |
+

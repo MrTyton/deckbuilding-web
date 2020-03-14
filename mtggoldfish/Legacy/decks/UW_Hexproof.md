@@ -28,8 +28,8 @@
 
 |*n*<sup>th</sup> copy|                                         Maindeck Card                                         |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
 |--------------------:|-----------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
-|                    1|[Force of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464001)   |                    1|[Winter Orb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=643)            |
-|                    1|[Invisible Stalker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220041)   |                    1|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)      |
+|                    1|[Force of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464001)   |                    1|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)      |
+|                    1|[Invisible Stalker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220041)   |                    1|[Winter Orb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=643)            |
 |                    2|[Brazen Borrower](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473001)     |                    2|[Winter Orb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=643)            |
 |                    2|[Invisible Stalker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220041)   |                    1|[Karakas](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413782)            |
 |                    3|Staggering Insight                                                                             |                    1|[Null Rod](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383034)           |

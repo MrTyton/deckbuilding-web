@@ -1,3 +1,6 @@
+1 Narcomoeba
+1 Prized Amalgam
+2 Creeping Chill
 2 Narcomoeba
 2 Prized Amalgam
 3 Creeping Chill
@@ -22,8 +25,8 @@
 1 Haunted Dead
 1 Gurmag Angler
 1 Gather the Pack
-1 Llanowar Wastes
 1 Stitcher's Supplier
+1 Llanowar Wastes
 1 Driven / Despair
 1 Grisly Salvage
 2 Grisly Salvage
@@ -39,9 +42,6 @@
 4 Grisly Salvage
 4 Stitcher's Supplier
 4 Scrapheap Scrounger
-1 Thraben Inspector
-2 Thraben Inspector
-3 Thraben Inspector
 1 Uro, Titan of Nature's Wrath
 1 Forest
 2 Uro, Titan of Nature's Wrath
@@ -62,26 +62,40 @@
 4 Gather the Pack
 4 Overgrown Tomb
 1 Drowned Catacomb
+4 Thraben Inspector
 1 Island
 1 Mana Confluence
-4 Thraben Inspector
 1 Breeding Pool
 2 Breeding Pool
-2 Island
 3 Breeding Pool
 4 Botanical Sanctum
+2 Island
+1 Hallowed Fountain
+2 Hallowed Fountain
 1 Collected Company
 2 Collected Company
 3 Collected Company
-1 Hallowed Fountain
 1 Reflector Mage
 2 Reflector Mage
-2 Hallowed Fountain
-2 Mana Confluence
 3 Hallowed Fountain
 4 Hallowed Fountain
+1 Glacial Fortress
+1 Spell Queller
+1 Teferi, Time Raveler
+2 Glacial Fortress
+2 Spell Queller
+2 Teferi, Time Raveler
+3 Spell Queller
+3 Teferi, Time Raveler
+2 Mana Confluence
+1 Tireless Tracker
+1 Scavenging Ooze
 3 Reflector Mage
 4 Reflector Mage
+1 Temple Garden
+2 Temple Garden
+3 Temple Garden
+4 Collected Company
 1 Unclaimed Territory
 1 Dauntless Bodyguard
 1 Aether Hub
@@ -101,17 +115,8 @@
 4 Kitesail Freebooter
 4 Unclaimed Territory
 4 Thalia's Lieutenant
-1 Temple Garden
-2 Temple Garden
-3 Temple Garden
-4 Collected Company
-1 Tireless Tracker
-1 Scavenging Ooze
 2 Tireless Tracker
 3 Tireless Tracker
-1 Glacial Fortress
-1 Teferi, Time Raveler
-2 Glacial Fortress
 1 Fortified Village
 1 Voice of Resurgence
 1 Lovestruck Beast
@@ -127,24 +132,35 @@
 4 Lovestruck Beast
 4 Elvish Mystic
 4 Llanowar Elves
-1 Spell Queller
-2 Spell Queller
-2 Teferi, Time Raveler
-3 Spell Queller
-3 Teferi, Time Raveler
 4 Spell Queller
 4 Teferi, Time Raveler
-1 Brazen Borrower
-2 Brazen Borrower
+5 Plains
+6 Plains
+7 Plains
+2 Forest
+3 Forest
+1 Anafenza, Kin-Tree Spirit
+1 Walking Ballista
+1 Heliod, Sun-Crowned
+1 Daxos, Blessed by the Sun
+2 Heliod, Sun-Crowned
+2 Walking Ballista
+3 Walking Ballista
+1 Irrigated Farmland
+1 Port Town
+1 Castle Ardenvale
+2 Irrigated Farmland
+3 Glacial Fortress
+4 Glacial Fortress
+3 Mana Confluence
+4 Mana Confluence
 3 Island
 4 Island
 5 Island
-3 Mana Confluence
-4 Mana Confluence
 1 Murderous Rider
 2 Murderous Rider
-2 Forest
-3 Forest
+1 Brazen Borrower
+2 Brazen Borrower
 4 Watery Grave
 1 Inspiring Vantage
 2 Inspiring Vantage
@@ -186,26 +202,17 @@
 4 Grim Flayer
 4 Tireless Tracker
 4 Uro, Titan of Nature's Wrath
-3 Glacial Fortress
-4 Glacial Fortress
-5 Plains
-6 Plains
-7 Plains
 1 Azorius Charm
 1 Teferi, Hero of Dominaria
-1 Irrigated Farmland
-1 Port Town
 1 Hero of Precinct One
 1 Detention Sphere
 1 Dream Trawler
 1 Dovin's Veto
 1 Long Road Home
 1 Judge's Familiar
-1 Castle Ardenvale
 2 Port Town
 2 Azorius Charm
 2 Teferi, Hero of Dominaria
-2 Irrigated Farmland
 2 Dovin's Veto
 2 Hero of Precinct One
 2 Detention Sphere
@@ -216,10 +223,6 @@
 3 Judge's Familiar
 4 Hero of Precinct One
 4 Judge's Familiar
-6 Island
-7 Island
-8 Island
-2 Drowned Catacomb
 1 Blood Crypt
 2 Blood Crypt
 1 Kolaghan's Command
@@ -286,6 +289,7 @@
 3 Glint-Sleeve Siphoner
 4 Aether Hub
 4 Glint-Sleeve Siphoner
+2 Drowned Catacomb
 1 Dragonskull Summit
 1 Glorybringer
 1 Mountain
@@ -324,6 +328,49 @@
 4 Sulfur Falls
 4 Drowned Catacomb
 4 Steam Vents
+8 Plains
+1 Benalish Marshal
+1 Bomat Courier
+2 Bomat Courier
+3 Bomat Courier
+4 Bomat Courier
+1 Reckless Bushwhacker
+1 Lightning Strike
+1 Shefet Dunes
+1 Clifftop Retreat
+1 Secure the Wastes
+1 Sacred Foundry
+1 Servo Exhibition
+1 Legion's Landing
+1 Toolcraft Exemplar
+1 Raise the Alarm
+1 Battlefield Forge
+2 Benalish Marshal
+2 Reckless Bushwhacker
+2 Shefet Dunes
+2 Sacred Foundry
+2 Legion's Landing
+2 Servo Exhibition
+2 Toolcraft Exemplar
+2 Lightning Strike
+2 Raise the Alarm
+2 Battlefield Forge
+3 Reckless Bushwhacker
+3 Benalish Marshal
+3 Sacred Foundry
+3 Toolcraft Exemplar
+3 Servo Exhibition
+3 Legion's Landing
+3 Raise the Alarm
+3 Lightning Strike
+3 Battlefield Forge
+4 Toolcraft Exemplar
+4 Benalish Marshal
+4 Legion's Landing
+4 Raise the Alarm
+4 Reckless Bushwhacker
+4 Inspiring Vantage
+4 Battlefield Forge
 1 Experiment One
 1 Tajic, Legion's Edge
 1 Rogue Refiner
@@ -338,28 +385,6 @@
 4 Experiment One
 4 Rogue Refiner
 4 Mantis Rider
-1 Merfolk Secretkeeper
-1 Tome Scour
-1 Tasigur, the Golden Fang
-1 Radical Idea
-1 Stitchwing Skaab
-1 Sleep of the Dead
-1 Breaking / Entering
-2 Merfolk Secretkeeper
-2 Tome Scour
-2 Radical Idea
-2 Stitchwing Skaab
-2 Sleep of the Dead
-2 Breaking / Entering
-2 Tasigur, the Golden Fang
-3 Merfolk Secretkeeper
-3 Tome Scour
-3 Breaking / Entering
-3 Stitchwing Skaab
-4 Merfolk Secretkeeper
-4 Tome Scour
-4 Breaking / Entering
-1 Benalish Marshal
 1 Selfless Spirit
 1 Sunpetal Grove
 1 Vivien, Arkbow Ranger
@@ -367,21 +392,14 @@
 1 Knight of Autumn
 1 Courser of Kruphix
 1 Fleecemane Lion
-1 Anafenza, Kin-Tree Spirit
-1 Walking Ballista
-1 Heliod, Sun-Crowned
 1 Alseid of Life's Bounty
-1 Daxos, Blessed by the Sun
 2 Sunpetal Grove
 2 Fortified Village
 2 Chord of Calling
 2 Vivien, Arkbow Ranger
 2 Alseid of Life's Bounty
-2 Heliod, Sun-Crowned
-2 Walking Ballista
 3 Sunpetal Grove
 3 Fortified Village
-3 Walking Ballista
 3 Alseid of Life's Bounty
 4 Forest
 4 Sunpetal Grove
@@ -389,10 +407,6 @@
 5 Forest
 6 Forest
 7 Forest
-1 Bomat Courier
-2 Bomat Courier
-3 Bomat Courier
-4 Bomat Courier
 1 Castle Locthwain
 1 Rekindling Phoenix
 1 Angrath's Rampage
@@ -424,80 +438,47 @@
 6 Mountain
 7 Mountain
 8 Mountain
-1 Reckless Bushwhacker
-1 Lightning Strike
-1 Shefet Dunes
-1 Clifftop Retreat
-1 Battlefield Forge
-1 Secure the Wastes
-1 Sacred Foundry
-1 Servo Exhibition
-1 Legion's Landing
-1 Toolcraft Exemplar
-1 Raise the Alarm
-2 Benalish Marshal
-2 Reckless Bushwhacker
-2 Shefet Dunes
-2 Sacred Foundry
-2 Legion's Landing
-2 Servo Exhibition
-2 Toolcraft Exemplar
-2 Battlefield Forge
-2 Lightning Strike
-2 Raise the Alarm
-3 Reckless Bushwhacker
-3 Benalish Marshal
-3 Sacred Foundry
-3 Toolcraft Exemplar
-3 Servo Exhibition
-3 Legion's Landing
-3 Raise the Alarm
-3 Lightning Strike
-3 Battlefield Forge
-4 Toolcraft Exemplar
-4 Benalish Marshal
-4 Legion's Landing
-4 Raise the Alarm
-4 Reckless Bushwhacker
-4 Inspiring Vantage
-4 Battlefield Forge
-8 Plains
-1 Thassa's Oracle
-1 Omen of the Sea
-1 Witching Well
+1 Merfolk Secretkeeper
+1 Tome Scour
+1 Tasigur, the Golden Fang
+1 Radical Idea
+1 Stitchwing Skaab
+1 Sleep of the Dead
+1 Breaking / Entering
+2 Merfolk Secretkeeper
+2 Tome Scour
+2 Radical Idea
+2 Stitchwing Skaab
+2 Sleep of the Dead
+2 Breaking / Entering
+2 Tasigur, the Golden Fang
+3 Merfolk Secretkeeper
+3 Tome Scour
+3 Breaking / Entering
+3 Stitchwing Skaab
+4 Merfolk Secretkeeper
+4 Tome Scour
+4 Breaking / Entering
+6 Island
+7 Island
+8 Island
 1 Nykthos, Shrine to Nyx
-1 Thassa, Deep-Dwelling
-1 Temple of Enlightenment
-1 Leyline of Anticipation
-1 Ashiok's Erasure
-1 Agent of Treachery
-1 Thassa, God of the Sea
+1 Stasis Snare
+1 Dragonlord Ojutai
+1 Tomik, Distinguished Advokist
+1 Elspeth Conquers Death
 1 Mystical Dispute
-1 Gadwick, the Wizened
-2 Omen of the Sea
-2 Witching Well
-2 Temple of Enlightenment
-2 Leyline of Anticipation
-2 Nykthos, Shrine to Nyx
-2 Agent of Treachery
-2 Thassa's Oracle
-2 Ashiok's Erasure
-2 Gadwick, the Wizened
-2 Thassa, God of the Sea
-2 Thassa, Deep-Dwelling
-3 Omen of the Sea
-3 Witching Well
-3 Leyline of Anticipation
-3 Gadwick, the Wizened
-3 Nykthos, Shrine to Nyx
-3 Thassa's Oracle
-3 Ashiok's Erasure
-4 Nykthos, Shrine to Nyx
-4 Omen of the Sea
-4 Ashiok's Erasure
-4 Witching Well
-4 Gadwick, the Wizened
-4 Leyline of Anticipation
-4 Thassa's Oracle
-9 Island
-10 Island
+1 Knight of the White Orchid
+1 Baffling End
+2 Dragonlord Ojutai
+2 Castle Ardenvale
+2 Anafenza, Kin-Tree Spirit
+2 Daxos, Blessed by the Sun
+2 Knight of the White Orchid
+3 Irrigated Farmland
+3 Heliod, Sun-Crowned
+3 Knight of the White Orchid
+4 Irrigated Farmland
+4 Knight of the White Orchid
+4 Walking Ballista
+9 Plains

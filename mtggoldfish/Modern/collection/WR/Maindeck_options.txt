@@ -8,8 +8,8 @@
 1 Flagstones of Trokair
 1 Cascading Cataracts
 1 Oust
-1 Chromatic Star
 1 Mana Tithe
+1 Chromatic Star
 1 Molten Rain
 1 Suppression Field
 1 Stormbreath Dragon
@@ -22,16 +22,16 @@
 2 Flagstones of Trokair
 2 Chromatic Star
 2 Suppression Field
-2 Rekindling Phoenix
 2 Ghostly Prison
 2 Oust
 2 Boom/Bust
 2 Stone Rain
+2 Rekindling Phoenix
 2 Mana Tithe
 2 Molten Rain
 2 Stormbreath Dragon
-2 Pillage
 2 Crack the Earth
+2 Pillage
 2 Cascading Cataracts
 3 Pillage
 3 Chromatic Star
@@ -45,10 +45,10 @@
 3 Crack the Earth
 4 Crack the Earth
 4 Stone Rain
-4 Mana Tithe
+4 Flagstones of Trokair
 4 Sacred Foundry
 4 Chromatic Star
-4 Flagstones of Trokair
+4 Mana Tithe
 4 Boom/Bust
 4 Cascading Cataracts
 4 Molten Rain
@@ -56,24 +56,24 @@
 1 Fiery Islet
 1 Skewer the Critics
 1 Skullcrack
-1 Boros Charm
 1 Bloodstained Mire
 1 Scalding Tarn
 1 Rift Bolt
 1 Soul-Scar Mage
 1 Lava Spike
 1 Lightning Bolt
+1 Boros Charm
 1 Lightning Helix
 1 Searing Blaze
 1 Monastery Swiftspear
 1 Goblin Guide
 2 Searing Blaze
+2 Scalding Tarn
 2 Skewer the Critics
 2 Skullcrack
 2 Boros Charm
 2 Bloodstained Mire
 2 Goblin Guide
-2 Scalding Tarn
 2 Soul-Scar Mage
 2 Monastery Swiftspear
 2 Rift Bolt
@@ -83,6 +83,7 @@
 3 Mountain
 3 Skewer the Critics
 3 Scalding Tarn
+3 Searing Blaze
 3 Lava Spike
 3 Lightning Bolt
 3 Monastery Swiftspear
@@ -90,7 +91,6 @@
 3 Boros Charm
 3 Goblin Guide
 3 Soul-Scar Mage
-3 Searing Blaze
 4 Skewer the Critics
 4 Scalding Tarn
 4 Boros Charm
@@ -103,40 +103,40 @@
 4 Soul-Scar Mage
 1 Serra Avenger
 1 Plains
-1 Stoneforge Mystic
 1 Sword of Fire and Ice
 1 Field of Ruin
-1 Aether Vial
-1 Sword of Light and Shadow
-1 Giver of Runes
-1 Batterskull
 1 Flickerwisp
+1 Giver of Runes
+1 Aether Vial
+1 Batterskull
+1 Sword of Light and Shadow
 1 Magus of the Moon
+1 Stoneforge Mystic
 1 Path to Exile
 2 Stoneforge Mystic
-2 Serra Avenger
 2 Field of Ruin
-2 Plains
-2 Aether Vial
-2 Giver of Runes
-2 Magus of the Moon
+2 Serra Avenger
 2 Flickerwisp
+2 Giver of Runes
+2 Aether Vial
+2 Plains
+2 Magus of the Moon
 2 Path to Exile
 3 Stoneforge Mystic
 3 Field of Ruin
-3 Aether Vial
+3 Flickerwisp
 3 Giver of Runes
+3 Aether Vial
 3 Magus of the Moon
 3 Path to Exile
 3 Plains
-3 Flickerwisp
 4 Stoneforge Mystic
 4 Field of Ruin
+4 Flickerwisp
 4 Aether Vial
 4 Giver of Runes
 4 Plains
 4 Path to Exile
-4 Flickerwisp
 4 Magus of the Moon
 5 Plains
 6 Plains

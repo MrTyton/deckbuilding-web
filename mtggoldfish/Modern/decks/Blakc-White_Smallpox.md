@@ -26,3 +26,10 @@
 |                                                                                           |2 [Plague Engineer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464049)         |2 [Kaya's Guile](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464154)       |                                                                                                 |
 |                                                                                           |                                                                                                     |1 [Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|                                                                                                 |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|    Maindeck Card     |*n*<sup>th</sup> copy|Sideboard Card|
+|--------------------:|----------------------|---------------------|--------------|
+|                    3|Elspeth, Sun's Nemesis|                     |              |
+

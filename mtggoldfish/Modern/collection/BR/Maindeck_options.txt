@@ -48,6 +48,22 @@
 3 Marsh Flats
 3 Fulminator Mage
 4 Magus of the Moon
+1 Snow-Covered Swamp
+1 Gravecrawler
+1 Carrion Feeder
+1 Polluted Delta
+1 Dreadhorde Butcher
+2 Snow-Covered Swamp
+2 Carrion Feeder
+2 Dreadhorde Butcher
+2 Polluted Delta
+2 Gravecrawler
+3 Polluted Delta
+3 Dreadhorde Butcher
+3 Snow-Covered Swamp
+3 Gravecrawler
+4 Polluted Delta
+4 Dreadhorde Butcher
 1 Lavaclaw Reaches
 1 Blood Moon
 1 Castle Locthwain
@@ -81,9 +97,9 @@
 1 Verdant Catacombs
 1 Street Wraith
 2 Street Wraith
-2 Death's Shadow
 2 Verdant Catacombs
 2 Temur Battle Rage
+2 Death's Shadow
 3 Street Wraith
 3 Death's Shadow
 3 Verdant Catacombs
@@ -114,52 +130,36 @@
 4 Shrieking Affliction
 4 Raven's Crime
 4 The Rack
-1 Snow-Covered Swamp
-1 Gravecrawler
-1 Carrion Feeder
-1 Polluted Delta
-1 Dreadhorde Butcher
-2 Snow-Covered Swamp
-2 Carrion Feeder
-2 Dreadhorde Butcher
-2 Polluted Delta
-2 Gravecrawler
-3 Polluted Delta
-3 Snow-Covered Swamp
-3 Dreadhorde Butcher
-3 Gravecrawler
-4 Polluted Delta
-4 Dreadhorde Butcher
 1 Chandra, Torch of Defiance
 1 Eldrazi Obligator
-1 Eternal Scourge
 1 Thought-Knot Seer
 1 Simian Spirit Guide
 1 Scavenger Grounds
+1 Eternal Scourge
 1 Dismember
+1 Eldrazi Mimic
 1 Eldrazi Temple
 1 Reality Smasher
 1 Serum Powder
 1 Blast Zone
-1 Eldrazi Mimic
 1 Hazoret the Fervent
 1 Ghost Quarter
 1 Ramunap Ruins
 1 Chalice of the Void
 1 Wastes
-2 Wastes
+2 Simian Spirit Guide
 2 Thought-Knot Seer
+2 Wastes
 2 Reality Smasher
 2 Ghost Quarter
+2 Chalice of the Void
 2 Eternal Scourge
 2 Eldrazi Obligator
-2 Blast Zone
-2 Simian Spirit Guide
 2 Eldrazi Temple
-2 Prismatic Vista
-2 Dismember
-2 Chalice of the Void
 2 Serum Powder
+2 Prismatic Vista
+2 Blast Zone
+2 Dismember
 2 Ramunap Ruins
 2 Eldrazi Mimic
 3 Dismember
@@ -174,6 +174,7 @@
 3 Prismatic Vista
 3 Simian Spirit Guide
 3 Serum Powder
+4 Chalice of the Void
 4 Eldrazi Obligator
 4 Simian Spirit Guide
 4 Reality Smasher
@@ -182,7 +183,6 @@
 4 Thought-Knot Seer
 4 Serum Powder
 4 Eldrazi Temple
-4 Chalice of the Void
 1 Field of Ruin
 1 Zo-Zu the Punisher
 1 Legion Loyalist
@@ -205,8 +205,8 @@
 1 Monastery Swiftspear
 1 Lava Spike
 1 Soul-Scar Mage
-1 Crash Through
 1 Burst Lightning
+1 Crash Through
 1 Lava Dart
 1 Runaway Steam-Kin
 1 Manamorphose
@@ -239,12 +239,12 @@
 4 Soul-Scar Mage
 4 Lava Spike
 4 Monastery Swiftspear
-4 Light Up the Stage
 4 Lava Dart
 4 Manamorphose
 4 Sunbaked Canyon
 4 Crash Through
 4 Bedlam Reveler
+4 Light Up the Stage
 5 Snow-Covered Mountain
 5 Mountain
 6 Snow-Covered Mountain
