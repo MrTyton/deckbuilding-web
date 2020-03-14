@@ -120,13 +120,13 @@
 1 Aetherflux Reservoir
 1 Scavenger Grounds
 4 Ugin, the Ineffable
-1 Aether Spellbomb
 1 Breeding Pool
-1 Mox Amber
-1 Snow-Covered Forest
+1 Aether Spellbomb
 1 Metallic Rebuke
+1 Mox Amber
 1 Uro, Titan of Nature's Wrath
 1 Gilded Goose
+1 Snow-Covered Forest
 1 Engineered Explosives
 1 Tormod's Crypt
 1 Mystic Sanctuary
@@ -139,8 +139,8 @@
 1 Polluted Delta
 1 Mishra's Bauble
 1 Misty Rainforest
-2 Gilded Goose
 2 Metallic Rebuke
+2 Gilded Goose
 2 Uro, Titan of Nature's Wrath
 2 Breeding Pool
 2 Tormod's Crypt
@@ -157,8 +157,8 @@
 2 Misty Rainforest
 3 Emry, Lurker of the Loch
 3 Misty Rainforest
-3 Gilded Goose
 3 Scalding Tarn
+3 Gilded Goose
 3 Uro, Titan of Nature's Wrath
 3 Engineered Explosives
 3 Metallic Rebuke
@@ -169,8 +169,8 @@
 3 Snow-Covered Island
 4 Emry, Lurker of the Loch
 4 Misty Rainforest
-4 Gilded Goose
 4 Scalding Tarn
+4 Gilded Goose
 4 Ice-Fang Coatl
 4 Snow-Covered Island
 4 Urza, Lord High Artificer
@@ -181,6 +181,7 @@
 1 Remand
 1 Field of Ruin
 1 Mindslaver
+1 Academy Ruins
 1 Witching Well
 1 Force of Negation
 1 Repeal
@@ -189,7 +190,6 @@
 1 Cyclonic Rift
 1 Nimble Obstructionist
 1 Condescend
-1 Academy Ruins
 2 Remand
 2 Nimble Obstructionist
 2 Spatial Contortion

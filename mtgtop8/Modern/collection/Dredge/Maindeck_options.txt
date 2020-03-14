@@ -1,18 +1,18 @@
 2 Mountain
 1 Darkblast
-3 Ox of Agonas
 4 Bloodstained Mire
+3 Ox of Agonas
 1 Arid Mesa
-1 City of Brass
-3 Stomping Ground
 1 Scalding Tarn
 1 Sacred Foundry
-1 Blast Zone
-3 Golgari Thug
-3 Forgotten Cave
-4 Copperline Gorge
+3 Stomping Ground
 2 Scalding Tarn
+1 Blast Zone
+1 City of Brass
+3 Golgari Thug
+4 Copperline Gorge
 1 Forest
+1 Mana Confluence
 1 Swamp
 1 Watery Grave
 1 Verdant Catacombs
@@ -49,13 +49,11 @@
 4 Glimpse the Unthinkable
 1 Snow-Covered Mountain
 2 Snow-Covered Mountain
+3 Forgotten Cave
 3 Scalding Tarn
 1 Steam Vents
-1 Ghost Quarter
 2 Arid Mesa
-3 Arid Mesa
 2 Gemstone Mine
-1 Mana Confluence
 1 Merfolk Secretkeeper
 1 Gurmag Angler
 2 Merfolk Secretkeeper
@@ -73,7 +71,9 @@
 2 Marsh Flats
 3 Gurmag Angler
 2 Darkblast
+3 Arid Mesa
 3 Darkblast
+1 Ghost Quarter
 1 Insolent Neonate
 2 Insolent Neonate
 3 Insolent Neonate
