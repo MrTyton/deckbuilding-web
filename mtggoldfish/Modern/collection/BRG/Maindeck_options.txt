@@ -58,16 +58,16 @@
 3 Light Up the Stage
 3 Snow-Covered Mountain
 3 Atarka's Command
-3 Eidolon of the Great Revel
 3 Monastery Swiftspear
+3 Eidolon of the Great Revel
 3 Soul-Scar Mage
 3 Lava Dart
 4 Goblin Guide
 4 Copperline Gorge
 4 Skewer the Critics
 4 Sunbaked Canyon
-4 Monastery Swiftspear
 4 Eidolon of the Great Revel
+4 Monastery Swiftspear
 4 Lava Spike
 4 Atarka's Command
 4 Soul-Scar Mage
@@ -109,8 +109,8 @@
 1 Glorybringer
 1 Utopia Sprawl
 1 Windswept Heath
-1 Arbor Elf
 1 Domri, Anarch of Bolas
+1 Arbor Elf
 2 Forest
 2 Windswept Heath
 2 Utopia Sprawl
@@ -123,8 +123,8 @@
 3 Stomping Ground
 3 Utopia Sprawl
 4 Windswept Heath
-4 Utopia Sprawl
 4 Forest
+4 Utopia Sprawl
 4 Wooded Foothills
 4 Arbor Elf
 5 Forest
@@ -150,9 +150,9 @@
 2 Kolaghan's Command
 3 Snow-Covered Swamp
 3 Arcum's Astrolabe
-4 Snow-Covered Swamp
 4 Kroxa, Titan of Death's Hunger
 4 Thoughtseize
+4 Snow-Covered Swamp
 4 Arcum's Astrolabe
 1 Searing Blaze
 2 Searing Blaze
@@ -163,9 +163,9 @@
 1 Unearth
 1 Lightning Skelemental
 1 Merchant of the Vale
+1 Bloodghast
 1 Greater Gargadon
 1 Collective Brutality
-1 Bloodghast
 2 Polluted Delta
 2 Unearth
 2 Lightning Skelemental
