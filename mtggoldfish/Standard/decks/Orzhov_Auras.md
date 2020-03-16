@@ -1,7 +1,7 @@
-# WB
+# Orzhov Auras
 
-#### [Export MTGO List](../collection/WB/WB.txt)
-#### [Export Arena List](../collection/WB/WB_arena.txt)
+#### [Export MTGO List](../collection/Orzhov%20Auras/Orzhov%20Auras.txt)
+#### [Export Arena List](../collection/Orzhov%20Auras/Orzhov%20Auras_arena.txt)
 #### [Print on decklist.org](http://decklist.org/?deckmain=4%09All%20That%20Glitters%0A3%09Aphemia,%20the%20Cacophony%0A3%09Dead%20Weight%0A1%09Eidolon%20of%20Obstruction%0A4%09Godless%20Shrine%0A4%09Hateful%20Eidolon%0A3%09Mire's%20Grasp%0A3%09Mogis's%20Favor%0A4%09Pious%20Wayfarer%0A7%09Plains%0A2%09Sentinel's%20Eyes%0A4%09Starfield%20Mystic%0A7%09Swamp%0A4%09Temple%20of%20Silence%0A3%09Transcendent%20Envoy%0A4%09Tymaret%20Calls%20the%20Dead&deckside=2%09Banishing%20Light%0A2%09Disenchant%0A1%09Doom%20Foretold%0A3%09Drill%20Bit%0A2%09Gideon's%20Triumph%0A1%09Kaya,%20Orzhov%20Usurper%0A2%09Noxious%20Grasp%0A2%09Unbreakable%20Formation)
 # Maindeck
 
