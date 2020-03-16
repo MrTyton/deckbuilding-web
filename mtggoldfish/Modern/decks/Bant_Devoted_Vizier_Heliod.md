@@ -32,10 +32,10 @@
 
 |*n*<sup>th</sup> copy|                                          Maindeck Card                                           |*n*<sup>th</sup> copy|                                     Sideboard Card                                     |
 |--------------------:|--------------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------|
-|                    1|[Hallowed Fountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=97071)       |                    1|[Path to Exile](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220511)|
-|                    1|[Narset, Parter of Veils](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460988)|                    2|[Path to Exile](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220511)|
+|                    1|[Narset, Parter of Veils](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460988)|                    1|[Path to Exile](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220511)|
+|                    1|[Hallowed Fountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=97071)       |                    2|[Path to Exile](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220511)|
 |                     |                                                                                                  |                    1|Heliod, Sun-Crowned                                                                     |
+|                     |                                                                                                  |                    1|[Spike Feeder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=21113)  |
 |                     |                                                                                                  |                    2|[Spike Feeder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=21113)  |
 |                     |                                                                                                  |                    3|[Spike Feeder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=21113)  |
-|                     |                                                                                                  |                    1|[Spike Feeder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=21113)  |
 

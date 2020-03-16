@@ -28,8 +28,8 @@
 
 |*n*<sup>th</sup> copy|                                           Maindeck Card                                           |*n*<sup>th</sup> copy|                                      Sideboard Card                                      |
 |--------------------:|---------------------------------------------------------------------------------------------------|--------------------:|------------------------------------------------------------------------------------------|
-|                    1|[Emry, Lurker of the Loch](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473005)|                    1|[Hydroblast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3915)       |
-|                    2|[Emry, Lurker of the Loch](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473005)|                    1|[Helm of Obedience](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3047)|
+|                    1|[Emry, Lurker of the Loch](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473005)|                    1|[Helm of Obedience](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3047)|
+|                    2|[Emry, Lurker of the Loch](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473005)|                    1|[Hydroblast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3915)       |
 |                    3|[City of Traitors](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=6168)          |                    2|[Hydroblast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3915)       |
 |                     |                                                                                                   |                    2|[Helm of Obedience](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3047)|
 

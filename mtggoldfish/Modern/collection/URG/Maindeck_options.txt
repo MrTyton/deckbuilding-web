@@ -21,52 +21,31 @@
 1 Engineered Explosives
 2 Engineered Explosives
 1 Tireless Tracker
-1 Ghost Quarter
 1 Scavenging Ooze
 1 Forgotten Cave
 1 Courser of Kruphix
 1 Veil of Summer
+1 Ghost Quarter
 2 Scavenging Ooze
 2 Ghost Quarter
 2 Veil of Summer
 2 Field of Ruin
 2 Magmatic Sinkhole
 1 Blast Zone
-1 Pulse of Murasa
 1 Brazen Borrower
 1 Search for Azcanta
-1 Wilderness Reclamation
 1 Nexus of Fate
+1 Pulse of Murasa
 1 Narset, Parter of Veils
 1 Geier Reach Sanitarium
-2 Narset, Parter of Veils
+1 Wilderness Reclamation
 2 Spell Snare
+2 Narset, Parter of Veils
 2 Wilderness Reclamation
-3 Narset, Parter of Veils
 3 Force of Negation
+3 Narset, Parter of Veils
 3 Wilderness Reclamation
 4 Wrenn and Six
-1 Sakura-Tribe Elder
-1 Scapeshift
-1 Search for Tomorrow
-1 Cascade Bluffs
-1 Flooded Grove
-1 Valakut, the Molten Pinnacle
-1 Izzet Charm
-2 Sakura-Tribe Elder
-2 Scapeshift
-2 Search for Tomorrow
-2 Valakut, the Molten Pinnacle
-3 Scapeshift
-3 Sakura-Tribe Elder
-3 Search for Tomorrow
-3 Stomping Ground
-3 Steam Vents
-4 Scapeshift
-4 Sakura-Tribe Elder
-4 Search for Tomorrow
-4 Steam Vents
-4 Stomping Ground
 1 Thirst for Meaning
 1 Sulfur Falls
 1 Omen of the Sea
@@ -75,14 +54,14 @@
 3 Omen of the Sea
 3 Snapcaster Mage
 4 Opt
-1 Through the Breach
 1 Emrakul, the Aeons Torn
 1 Flooded Strand
+1 Through the Breach
 1 Skred
 2 Emrakul, the Aeons Torn
 2 Archmage's Charm
-2 Through the Breach
 2 Skred
+2 Through the Breach
 2 Flooded Strand
 3 Through the Breach
 3 Skred
@@ -90,79 +69,100 @@
 4 Emrakul, the Aeons Torn
 4 Through the Breach
 4 Skred
-1 Chandra, Torch of Defiance
-1 Tarmogoyf
-1 Tranquil Thicket
-1 The Royal Scions
-1 Arbor Elf
-1 Utopia Sprawl
-1 Spell Pierce
-1 Waterlogged Grove
-1 Ashiok, Dream Render
-1 Fiery Islet
-2 Tarmogoyf
-2 The Royal Scions
-2 Arbor Elf
-2 Utopia Sprawl
-2 Ashiok, Dream Render
-3 Tarmogoyf
-3 Utopia Sprawl
-3 Arbor Elf
-4 Tarmogoyf
-4 Arbor Elf
-4 Utopia Sprawl
-4 Wooded Foothills
-1 Underworld Breach
-1 Metallic Rebuke
+1 Sakura-Tribe Elder
+1 Scapeshift
+1 Cascade Bluffs
+1 Search for Tomorrow
+1 Flooded Grove
+1 Valakut, the Molten Pinnacle
+1 Izzet Charm
+2 Sakura-Tribe Elder
+2 Scapeshift
+2 Valakut, the Molten Pinnacle
+2 Search for Tomorrow
+3 Scapeshift
+3 Sakura-Tribe Elder
+3 Stomping Ground
+3 Search for Tomorrow
+3 Steam Vents
+4 Steam Vents
+4 Scapeshift
+4 Sakura-Tribe Elder
+4 Stomping Ground
+4 Search for Tomorrow
 1 Thassa's Oracle
-1 Mishra's Bauble
-1 Urza, Lord High Artificer
 1 Gilded Goose
 1 Emry, Lurker of the Loch
 1 Mox Amber
 1 Paradoxical Outcome
+1 Metallic Rebuke
+1 Underworld Breach
 1 Grinding Station
+1 Urza, Lord High Artificer
+1 Mishra's Bauble
 1 Saheeli, Sublime Artificer
-2 Prismatic Vista
-2 Metallic Rebuke
 2 Mox Amber
-2 Mishra's Bauble
-2 Urza, Lord High Artificer
 2 Emry, Lurker of the Loch
 2 Gilded Goose
 2 Underworld Breach
 2 Grinding Station
+2 Metallic Rebuke
+2 Urza, Lord High Artificer
 2 Paradoxical Outcome
-3 Urza, Lord High Artificer
+2 Prismatic Vista
+2 Mishra's Bauble
 3 Emry, Lurker of the Loch
-3 Mishra's Bauble
 3 Gilded Goose
 3 Grinding Station
 3 Engineered Explosives
+3 Mishra's Bauble
 3 Paradoxical Outcome
 3 Underworld Breach
 3 Metallic Rebuke
-4 Urza, Lord High Artificer
-4 Mishra's Bauble
+3 Urza, Lord High Artificer
 4 Emry, Lurker of the Loch
 4 Grinding Station
-4 Engineered Explosives
 4 Underworld Breach
+4 Mishra's Bauble
+4 Urza, Lord High Artificer
+4 Engineered Explosives
+1 Waterlogged Grove
+1 Chandra, Torch of Defiance
+1 Tranquil Thicket
+1 Arbor Elf
+1 Fiery Islet
+1 Utopia Sprawl
+1 Ashiok, Dream Render
+1 Spell Pierce
+1 Tarmogoyf
+1 The Royal Scions
+2 Arbor Elf
+2 Utopia Sprawl
+2 Ashiok, Dream Render
+2 Tarmogoyf
+2 The Royal Scions
+3 Tarmogoyf
+3 Arbor Elf
+3 Utopia Sprawl
+4 Tarmogoyf
+4 Arbor Elf
+4 Utopia Sprawl
+4 Wooded Foothills
 1 Ancestral Vision
-1 Once Upon a Time
-1 Bloodbraid Elf
 1 Domri, Anarch of Bolas
+1 Bloodbraid Elf
 1 Magus of the Moon
+1 Once Upon a Time
 2 Ancestral Vision
-2 Bloodbraid Elf
-2 Once Upon a Time
 2 Magus of the Moon
+2 Bloodbraid Elf
 2 Domri, Anarch of Bolas
+2 Once Upon a Time
 3 Bloodbraid Elf
-3 Once Upon a Time
 3 Ancestral Vision
-4 Bloodbraid Elf
-4 Once Upon a Time
+3 Once Upon a Time
 4 Snow-Covered Forest
+4 Once Upon a Time
+4 Bloodbraid Elf
 4 Ancestral Vision
 4 Uro, Titan of Nature's Wrath

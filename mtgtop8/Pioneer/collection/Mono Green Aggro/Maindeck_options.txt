@@ -1,13 +1,13 @@
-1 Steel Leaf Champion
-2 Steel Leaf Champion
-3 Steel Leaf Champion
-4 Steel Leaf Champion
 1 Lovestruck Beast
 1 Yorvo, Lord of Garenbrig
+1 Steel Leaf Champion
 1 Ghalta, Primal Hunger
 1 Rhonas the Indomitable
+2 Steel Leaf Champion
 2 Yorvo, Lord of Garenbrig
 2 Ghalta, Primal Hunger
+3 Steel Leaf Champion
+4 Steel Leaf Champion
 1 Hashep Oasis
 2 Hashep Oasis
 2 Lovestruck Beast
@@ -22,6 +22,8 @@
 4 Aspect of Hydra
 1 Surrak, the Hunt Caller
 2 Surrak, the Hunt Caller
+1 Walking Ballista
+2 Walking Ballista
 4 Hashep Oasis
 3 Ghalta, Primal Hunger
 1 The Great Henge
@@ -35,8 +37,6 @@
 17 Forest
 3 Yorvo, Lord of Garenbrig
 1 Syr Faren, the Hengehammer
-1 Walking Ballista
-2 Walking Ballista
 1 Gilded Goose
 2 Gilded Goose
 3 Gilded Goose
@@ -56,12 +56,6 @@
 2 Duskwatch Recruiter
 2 Vine Mare
 3 Duskwatch Recruiter
-1 Collected Company
-1 Mutavault
-2 Collected Company
-2 Mutavault
-3 Collected Company
-4 Collected Company
 1 Hydroid Krasis
 1 Botanical Sanctum
 1 Breeding Pool
@@ -87,6 +81,11 @@
 3 Nullhide Ferox
 4 Growth-Chamber Guardian
 4 Nullhide Ferox
+1 Rogue's Passage
+3 Castle Garenbrig
+4 Ghalta, Primal Hunger
+4 Questing Beast
+4 Castle Garenbrig
 1 Pelt Collector
 1 Experiment One
 1 Barkhide Troll
@@ -99,69 +98,36 @@
 3 Avatar of the Resolute
 4 Experiment One
 4 Avatar of the Resolute
-1 Rogue's Passage
-3 Castle Garenbrig
-4 Ghalta, Primal Hunger
-4 Questing Beast
-4 Castle Garenbrig
-1 Wildborn Preserver
-1 Icon of Ancestry
-1 Thorn Lieutenant
-1 Shaman of the Pack
-1 Elvish Clancaller
-1 Dwynen's Elite
-1 Llanowar Wastes
-1 Overgrown Tomb
-1 Blooming Marsh
-2 Wildborn Preserver
-2 Thorn Lieutenant
-2 Icon of Ancestry
-2 Shaman of the Pack
-2 Dwynen's Elite
-2 Elvish Clancaller
-2 Blooming Marsh
-2 Overgrown Tomb
-2 Llanowar Wastes
-3 Thorn Lieutenant
-3 Dwynen's Elite
-3 Shaman of the Pack
-3 Wildborn Preserver
-3 Elvish Clancaller
-3 Llanowar Wastes
-3 Overgrown Tomb
-3 Blooming Marsh
-4 Thorn Lieutenant
-4 Elvish Clancaller
-4 Wildborn Preserver
-4 Shaman of the Pack
-4 Dwynen's Elite
-4 Llanowar Wastes
-4 Overgrown Tomb
-4 Blooming Marsh
+1 Collected Company
 1 Fabled Passage
 1 Courser of Kruphix
 1 Evolving Wilds
+1 Mutavault
 1 Wayward Swordtooth
-1 Ramunap Excavator
 1 Sylvan Advocate
+1 Ramunap Excavator
 1 Tireless Tracker
 1 Cryptic Caves
+2 Collected Company
 2 Fabled Passage
 2 Courser of Kruphix
 2 Tireless Tracker
 2 Evolving Wilds
+2 Mutavault
 2 Wayward Swordtooth
 2 Ramunap Excavator
 2 Sylvan Advocate
+3 Collected Company
 3 Mutavault
-3 Wayward Swordtooth
 3 Fabled Passage
+3 Wayward Swordtooth
 3 Courser of Kruphix
 3 Tireless Tracker
 3 Sylvan Advocate
+4 Collected Company
 4 Mutavault
-4 Tireless Tracker
 4 Fabled Passage
-4 Wayward Swordtooth
+4 Tireless Tracker
 4 Gilded Goose
+4 Wayward Swordtooth
 4 Sylvan Advocate

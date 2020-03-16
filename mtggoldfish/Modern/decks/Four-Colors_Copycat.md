@@ -33,9 +33,9 @@
 
 |*n*<sup>th</sup> copy|                                        Maindeck Card                                         |*n*<sup>th</sup> copy|                                        Sideboard Card                                         |
 |--------------------:|----------------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------------|
+|                    1|[Prismatic Vista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464193)    |                    1|[Magus of the Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=136152)   |
 |                    1|[Steam Vents](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405109)        |                    1|[Kor Firewalker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442010)      |
-|                    1|[Misty Rainforest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405102)   |                    1|[Magus of the Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=136152)   |
-|                    1|[Prismatic Vista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464193)    |                    2|[Kor Firewalker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442010)      |
+|                    1|[Misty Rainforest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405102)   |                    2|[Kor Firewalker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442010)      |
 |                    2|[Misty Rainforest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405102)   |                    2|[Magus of the Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=136152)   |
 |                    2|[Snow-Covered Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121130)|                    3|[Kor Firewalker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442010)      |
 |                    3|[Misty Rainforest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405102)   |                    3|[Magus of the Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=136152)   |

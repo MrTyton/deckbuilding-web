@@ -49,7 +49,7 @@
 |                     |                                                                                                     |                    1|[Archangel Avacyn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409741)    |
 |                     |                                                                                                     |                    1|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)      |
 |                     |                                                                                                     |                    2|[Devout Decree](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466767)       |
+|                     |                                                                                                     |                    2|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)      |
 |                     |                                                                                                     |                    3|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)       |
 |                     |                                                                                                     |                    3|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)      |
-|                     |                                                                                                     |                    2|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)      |
 

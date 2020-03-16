@@ -31,3 +31,12 @@
 |2 [Ingot Chewer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389558)       |                                                                                      |
 |2 [Wispmare](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=145974)           |                                                                                      |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                          Maindeck Card                                          |*n*<sup>th</sup> copy|Sideboard Card|
+|--------------------:|-------------------------------------------------------------------------------------------------|---------------------|--------------|
+|                    1|[Snow-Covered Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121267)   |                     |              |
+|                    1|[Snow-Covered Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121233) |                     |              |
+|                    4|[Incandescent Soulstoke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=139730)|                     |              |
+

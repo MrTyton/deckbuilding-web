@@ -31,8 +31,8 @@
 
 |*n*<sup>th</sup> copy|                                            Maindeck Card                                            |*n*<sup>th</sup> copy|                                     Sideboard Card                                     |
 |--------------------:|-----------------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------|
-|                    1|[Caves of Koilos](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129497)           |                    1|[Deicide](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=380395)      |
-|                    1|[Dusk Legion Zealot](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442078)        |                    1|[Legion's End](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466860) |
+|                    1|[Caves of Koilos](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129497)           |                    1|[Legion's End](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466860) |
+|                    1|[Dusk Legion Zealot](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442078)        |                    1|[Deicide](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=380395)      |
 |                    1|[Mutavault](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370733)                 |                    1|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)|
 |                    1|[Anguished Unmaking](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=410006)        |                    1|Elspeth Conquers Death                                                                  |
 |                    1|[Champion of Dusk](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439721)          |                    2|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)|

@@ -1,57 +1,3 @@
-1 Azusa, Lost but Seeking
-1 Snow-Covered Forest
-1 Radiant Fountain
-2 Snow-Covered Forest
-1 Once Upon a Time
-2 Once Upon a Time
-3 Once Upon a Time
-4 Once Upon a Time
-1 Primeval Titan
-1 Arboreal Grazer
-1 Bojuka Bog
-1 Reclamation Sage
-1 Dryad of the Ilysian Grove
-1 Field of the Dead
-1 Gruul Turf
-1 Snow-Covered Plains
-1 Amulet of Vigor
-1 Sunhome, Fortress of the Legion
-1 Cavern of Souls
-1 Summoner's Pact
-1 Castle Garenbrig
-1 Vesuva
-1 Selesnya Sanctuary
-1 Boros Garrison
-1 Valakut, the Molten Pinnacle
-1 Slayers' Stronghold
-2 Castle Garenbrig
-2 Field of the Dead
-2 Primeval Titan
-2 Arboreal Grazer
-2 Dryad of the Ilysian Grove
-2 Gruul Turf
-2 Amulet of Vigor
-2 Selesnya Sanctuary
-2 Summoner's Pact
-2 Valakut, the Molten Pinnacle
-2 Cavern of Souls
-2 Azusa, Lost but Seeking
-3 Arboreal Grazer
-3 Primeval Titan
-3 Castle Garenbrig
-3 Dryad of the Ilysian Grove
-3 Selesnya Sanctuary
-3 Azusa, Lost but Seeking
-3 Amulet of Vigor
-3 Summoner's Pact
-4 Arboreal Grazer
-4 Primeval Titan
-4 Castle Garenbrig
-4 Summoner's Pact
-4 Selesnya Sanctuary
-4 Dryad of the Ilysian Grove
-4 Azusa, Lost but Seeking
-4 Amulet of Vigor
 1 Ghost Quarter
 1 Path to Exile
 2 Ghost Quarter
@@ -63,6 +9,10 @@
 3 Horizon Canopy
 4 Horizon Canopy
 4 Razorverge Thicket
+1 Once Upon a Time
+2 Once Upon a Time
+3 Once Upon a Time
+4 Once Upon a Time
 1 Wastes
 1 Eldrazi Displacer
 1 Giver of Runes
@@ -91,12 +41,62 @@
 3 Thought-Knot Seer
 4 Eldrazi Displacer
 4 Giver of Runes
+4 Eldrazi Temple
 4 Reality Smasher
 4 Thought-Knot Seer
 4 Brushland
 4 Ghost Quarter
 4 Leonin Arbiter
-4 Eldrazi Temple
+1 Azusa, Lost but Seeking
+1 Snow-Covered Forest
+1 Radiant Fountain
+2 Snow-Covered Forest
+1 Primeval Titan
+1 Bojuka Bog
+1 Dryad of the Ilysian Grove
+1 Arboreal Grazer
+1 Field of the Dead
+1 Gruul Turf
+1 Snow-Covered Plains
+1 Amulet of Vigor
+1 Sunhome, Fortress of the Legion
+1 Cavern of Souls
+1 Summoner's Pact
+1 Castle Garenbrig
+1 Vesuva
+1 Selesnya Sanctuary
+1 Reclamation Sage
+1 Boros Garrison
+1 Valakut, the Molten Pinnacle
+1 Slayers' Stronghold
+2 Castle Garenbrig
+2 Field of the Dead
+2 Primeval Titan
+2 Dryad of the Ilysian Grove
+2 Arboreal Grazer
+2 Gruul Turf
+2 Amulet of Vigor
+2 Selesnya Sanctuary
+2 Summoner's Pact
+2 Valakut, the Molten Pinnacle
+2 Cavern of Souls
+2 Azusa, Lost but Seeking
+3 Arboreal Grazer
+3 Primeval Titan
+3 Castle Garenbrig
+3 Dryad of the Ilysian Grove
+3 Selesnya Sanctuary
+3 Azusa, Lost but Seeking
+3 Amulet of Vigor
+3 Summoner's Pact
+4 Arboreal Grazer
+4 Primeval Titan
+4 Summoner's Pact
+4 Selesnya Sanctuary
+4 Dryad of the Ilysian Grove
+4 Azusa, Lost but Seeking
+4 Amulet of Vigor
+4 Castle Garenbrig
 1 Aven Mindcensor
 1 Ramunap Excavator
 1 Voice of Resurgence
@@ -141,10 +141,10 @@
 2 Walking Ballista
 2 Radiant Fountain
 2 Hangarback Walker
-3 Hangarback Walker
 3 Spike Feeder
 3 Walking Ballista
 3 Arcbound Ravager
+3 Hangarback Walker
 3 Metallic Mimic
 3 Heliod, Sun-Crowned
 3 Snow-Covered Forest
@@ -153,6 +153,6 @@
 4 Walking Ballista
 4 Spike Feeder
 4 Hangarback Walker
+4 Heliod, Sun-Crowned
 4 Hardened Scales
 4 Snow-Covered Forest
-4 Heliod, Sun-Crowned

@@ -12,8 +12,8 @@
 2 Temple of Silence
 2 Final Payment
 2 Aphemia, the Cacophony
-3 Tymaret Calls the Dead
 3 Aphemia, the Cacophony
+3 Tymaret Calls the Dead
 3 Final Payment
 4 Aphemia, the Cacophony
 4 Final Payment
@@ -158,8 +158,8 @@
 2 Haktos the Unscarred
 2 Lava Coil
 2 Needle Spires
-3 Gideon, Ally of Zendikar
 3 Gideon of the Trials
+3 Gideon, Ally of Zendikar
 3 Needle Spires
 4 Gideon of the Trials
 1 Liliana, the Last Hope
@@ -211,9 +211,9 @@
 1 Temple of Malice
 1 Kroxa, Titan of Death's Hunger
 1 Glorybringer
+2 Temple of Malice
 2 Kroxa, Titan of Death's Hunger
 2 Glorybringer
-2 Temple of Malice
 3 Kroxa, Titan of Death's Hunger
 1 Collective Brutality
 2 Liliana, the Last Hope
@@ -227,8 +227,8 @@
 1 Disdainful Stroke
 1 Silence
 2 Elspeth, Sun's Nemesis
-1 Sphinx's Revelation
 1 Thought Erasure
+1 Sphinx's Revelation
 1 Drown in the Loch
 1 Ojutai's Command
 1 Ashiok, Nightmare Muse
@@ -238,8 +238,8 @@
 2 Absorb
 2 Narset, Parter of Veils
 3 Absorb
-1 Gather the Pack
 1 Nissa, Vastwood Seer
+1 Gather the Pack
 1 Commit / Memory
 1 Ulamog, the Ceaseless Hunger
 2 Grapple with the Past
@@ -265,26 +265,6 @@
 3 Censor
 3 Teferi, Hero of Dominaria
 4 Glacial Fortress
-1 Hissing Quagmire
-1 Tireless Tracker
-1 Overgrown Tomb
-1 Abrupt Decay
-1 Woodland Cemetery
-1 Grim Flayer
-1 Questing Beast
-1 Assassin's Trophy
-2 Hissing Quagmire
-2 Woodland Cemetery
-2 Tireless Tracker
-2 Overgrown Tomb
-2 Assassin's Trophy
-2 Grim Flayer
-2 Field of Ruin
-3 Woodland Cemetery
-3 Overgrown Tomb
-3 Grim Flayer
-4 Grim Flayer
-4 Overgrown Tomb
 1 Concealed Courtyard
 1 Temple of Deceit
 1 The Eldest Reborn
@@ -294,51 +274,10 @@
 2 Concealed Courtyard
 2 Temple of Deceit
 4 Oath of Kaya
-1 Gilded Goose
-1 Fairgrounds Warden
-1 Elvish Visionary
-1 Collected Company
-1 Chord of Calling
-1 Charming Prince
-1 Militia Bugler
-1 Selfless Spirit
-1 Anafenza, Kin-Tree Spirit
-1 Knight of Autumn
-1 Elvish Mystic
-1 Sunpetal Grove
-1 Voice of Resurgence
-1 Heliod, Sun-Crowned
-1 Fortified Village
-1 Temple Garden
-1 Alseid of Life's Bounty
-1 Radiant Fountain
-2 Collected Company
-2 Elvish Visionary
-2 Chord of Calling
-2 Militia Bugler
-2 Sunpetal Grove
-2 Fortified Village
-2 Radiant Fountain
-2 Temple Garden
-2 Voice of Resurgence
-2 Heliod, Sun-Crowned
-2 Elvish Mystic
-3 Collected Company
-3 Militia Bugler
-3 Sunpetal Grove
-3 Heliod, Sun-Crowned
-3 Elvish Mystic
-3 Fortified Village
-3 Temple Garden
-4 Heliod, Sun-Crowned
-4 Temple Garden
-4 Collected Company
-4 Walking Ballista
-4 Militia Bugler
 1 Tyrant's Scorn
+1 Erebos's Intervention
 1 Opt
 1 Steam Vents
-1 Erebos's Intervention
 2 Tyrant's Scorn
 2 Steam Vents
 2 Opt
@@ -393,12 +332,73 @@
 3 Kaya's Wrath
 4 Kaya's Wrath
 4 Cast Out
+1 Gilded Goose
+1 Fairgrounds Warden
+1 Elvish Visionary
+1 Chord of Calling
+1 Selfless Spirit
+1 Charming Prince
+1 Collected Company
+1 Anafenza, Kin-Tree Spirit
+1 Knight of Autumn
+1 Elvish Mystic
+1 Sunpetal Grove
+1 Voice of Resurgence
+1 Heliod, Sun-Crowned
+1 Fortified Village
+1 Temple Garden
+1 Alseid of Life's Bounty
+1 Militia Bugler
+1 Radiant Fountain
+2 Elvish Visionary
+2 Chord of Calling
+2 Collected Company
+2 Fortified Village
+2 Radiant Fountain
+2 Temple Garden
+2 Militia Bugler
+2 Voice of Resurgence
+2 Heliod, Sun-Crowned
+2 Elvish Mystic
+2 Sunpetal Grove
+3 Collected Company
+3 Sunpetal Grove
+3 Heliod, Sun-Crowned
+3 Elvish Mystic
+3 Fortified Village
+3 Temple Garden
+3 Militia Bugler
+4 Temple Garden
+4 Walking Ballista
+4 Collected Company
+4 Militia Bugler
+4 Heliod, Sun-Crowned
 1 Shrine of the Forsaken Gods
 2 Emrakul, the Promised End
 3 Hinterland Harbor
 3 Vessel of Nascency
 4 Hinterland Harbor
 4 Arboreal Grazer
+1 Hissing Quagmire
+1 Tireless Tracker
+1 Overgrown Tomb
+1 Abrupt Decay
+1 Woodland Cemetery
+1 Grim Flayer
+1 Questing Beast
+1 Assassin's Trophy
+2 Hissing Quagmire
+2 Woodland Cemetery
+2 Tireless Tracker
+2 Assassin's Trophy
+2 Grim Flayer
+2 Field of Ruin
+2 Overgrown Tomb
+3 Woodland Cemetery
+3 Grim Flayer
+3 Overgrown Tomb
+4 Overgrown Tomb
+4 Grim Flayer
 1 Brimaz, King of Oreskos
 1 Heart of Kiran
 1 Lightning Strike

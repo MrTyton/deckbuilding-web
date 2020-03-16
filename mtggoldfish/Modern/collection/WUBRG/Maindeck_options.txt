@@ -1,257 +1,96 @@
-1 Breeding Pool
-1 Misty Rainforest
-2 Misty Rainforest
-1 Snow-Covered Island
-1 Hallowed Fountain
-1 Ice-Fang Coatl
-1 Arcum's Astrolabe
-2 Arcum's Astrolabe
-2 Ice-Fang Coatl
-3 Ice-Fang Coatl
-3 Arcum's Astrolabe
-4 Arcum's Astrolabe
-1 Uro, Titan of Nature's Wrath
-2 Uro, Titan of Nature's Wrath
-3 Uro, Titan of Nature's Wrath
-1 Wrenn and Six
-1 Sacred Foundry
-2 Wrenn and Six
-3 Wrenn and Six
-1 Detention Sphere
-1 Jace, the Mind Sculptor
-1 Mystic Sanctuary
-1 Mana Leak
-1 Steam Vents
-1 Archmage's Charm
-1 Flooded Strand
-1 Cryptic Command
-1 Scalding Tarn
-1 Thought Scour
-1 Lonely Sandbar
-1 Path to Exile
-2 Breeding Pool
-2 Cryptic Command
-2 Scalding Tarn
-2 Snow-Covered Island
-2 Mystic Sanctuary
-2 Thought Scour
-2 Path to Exile
-2 Archmage's Charm
-2 Flooded Strand
-3 Scalding Tarn
-3 Thought Scour
-3 Misty Rainforest
-3 Path to Exile
-3 Flooded Strand
-3 Mystic Sanctuary
-3 Cryptic Command
-3 Snow-Covered Island
-3 Archmage's Charm
-4 Thought Scour
-4 Cryptic Command
-4 Uro, Titan of Nature's Wrath
-4 Misty Rainforest
-4 Flooded Strand
-4 Ice-Fang Coatl
-4 Snow-Covered Island
-4 Path to Exile
-1 Forest
-1 Phantasmal Image
-1 Reflecting Pool
-1 Cavern of Souls
-1 Charming Prince
-1 Thalia's Lieutenant
-1 Aether Vial
-1 Aether Hub
-1 Dark Confidant
-1 Noble Hierarch
-1 Eternal Witness
-1 Collected Company
-1 Kessig Malcontents
-1 Seasoned Pyromancer
-1 Unclaimed Territory
-2 Phantasmal Image
-2 Charming Prince
-2 Reflecting Pool
-2 Dark Confidant
-2 Aether Hub
-2 Forest
-2 Kessig Malcontents
-2 Thalia's Lieutenant
-2 Unclaimed Territory
-2 Noble Hierarch
-2 Aether Vial
-2 Cavern of Souls
-2 Collected Company
-3 Phantasmal Image
-3 Cavern of Souls
-3 Charming Prince
-3 Kessig Malcontents
-3 Collected Company
-3 Dark Confidant
-3 Noble Hierarch
-3 Thalia's Lieutenant
-3 Aether Vial
-3 Unclaimed Territory
-3 Reflecting Pool
-4 Phantasmal Image
-4 Charming Prince
-4 Collected Company
-4 Unclaimed Territory
-4 Dark Confidant
-4 Aether Vial
-4 Thalia's Lieutenant
-4 Kessig Malcontents
-4 Reflecting Pool
-4 Noble Hierarch
-4 Cavern of Souls
-1 Shadow of Doubt
-2 Shadow of Doubt
-4 Botanical Sanctum
-2 Seasoned Pyromancer
-2 Eternal Witness
-3 Eternal Witness
-3 Seasoned Pyromancer
-3 Mana Confluence
-4 Eternal Witness
-4 Seasoned Pyromancer
-4 Mana Confluence
-1 Temple Garden
-1 Windswept Heath
-1 Stomping Ground
-1 Overgrown Tomb
-1 Supreme Verdict
-1 Dreadbore
-1 Lightning Helix
-1 Niv-Mizzet Reborn
-1 Bring to Light
-1 Teferi, Time Raveler
-1 Unmoored Ego
-1 Kaya's Guile
-1 Pillar of the Paruns
-2 Pillar of the Paruns
-2 Bring to Light
-2 Niv-Mizzet Reborn
-2 Lightning Helix
-3 Pillar of the Paruns
-3 Bring to Light
-3 Niv-Mizzet Reborn
-4 Pillar of the Paruns
-1 Force of Negation
-1 Snow-Covered Mountain
-1 Prismatic Vista
-1 Snow-Covered Plains
-1 Abrupt Decay
-1 Snow-Covered Swamp
-2 Teferi, Time Raveler
-2 Prismatic Vista
-3 Prismatic Vista
-3 Teferi, Time Raveler
-4 Bring to Light
-4 Teferi, Time Raveler
-4 Prismatic Vista
-1 Verdant Catacombs
-1 Godless Shrine
-1 Thought Erasure
-1 Kolaghan's Command
-1 Huntmaster of the Fells
-1 Assassin's Trophy
-1 Inquisition of Kozilek
-2 Assassin's Trophy
-2 Inquisition of Kozilek
-3 Assassin's Trophy
-1 Birds of Paradise
-2 Kaya's Guile
-2 Birds of Paradise
-3 Birds of Paradise
-4 Birds of Paradise
-1 Wild Cantor
-3 Once Upon a Time
-1 Wooded Foothills
-1 Waterlogged Grove
-1 Dissenter's Deliverance
-1 Polluted Delta
-1 Bloodstained Mire
-2 Polluted Delta
-3 Inquisition of Kozilek
-3 Polluted Delta
-3 Lightning Helix
-4 Lightning Helix
-1 Bloodbraid Elf
-1 Utopia Sprawl
-1 Tolsimir, Friend to Wolves
-1 Jori En, Ruin Diver
-2 Bloodbraid Elf
-2 Utopia Sprawl
 2 Abrupt Decay
+2 Utopia Sprawl
+2 Uro, Titan of Nature's Wrath
+2 Bloodbraid Elf
 2 Snow-Covered Forest
+3 Uro, Titan of Nature's Wrath
 3 Bloodbraid Elf
 3 Utopia Sprawl
 4 Bloodbraid Elf
 4 Utopia Sprawl
-4 Archmage's Charm
+1 Forest
 1 Kess, Dissident Mage
 1 Arid Mesa
 1 Nahiri, the Harbinger
+1 Force of Negation
+1 Wrenn and Six
 1 Swamp
 1 Blood Crypt
 1 Eladamri's Call
+1 Sacred Foundry
 1 Plains
 1 Izzet Charm
-2 Verdant Catacombs
 2 Kolaghan's Command
+2 Wrenn and Six
 2 Windswept Heath
+2 Verdant Catacombs
 2 Arid Mesa
 2 Izzet Charm
 2 Thought Erasure
-3 Verdant Catacombs
+3 Wrenn and Six
 3 Windswept Heath
+3 Verdant Catacombs
 4 Windswept Heath
-1 Champion of the Parish
-1 Rogue Refiner
-2 Champion of the Parish
-2 Rogue Refiner
-3 Champion of the Parish
-3 Aether Hub
-4 Champion of the Parish
-4 Aether Hub
+1 Ice-Fang Coatl
+1 Arcum's Astrolabe
+1 Bloodstained Mire
+1 Polluted Delta
+2 Polluted Delta
+2 Arcum's Astrolabe
+2 Ice-Fang Coatl
+3 Lightning Helix
+3 Polluted Delta
+3 Inquisition of Kozilek
+3 Ice-Fang Coatl
+3 Arcum's Astrolabe
+4 Lightning Helix
+4 Arcum's Astrolabe
 1 Ancient Stirrings
-1 Traverse the Ulvenwald
 1 Conjurer's Bauble
 1 Vizier of Remedies
+1 Manamorphose
 1 Pact of Negation
+1 Walking Ballista
+1 Summoner's Pact
 1 Duskwatch Recruiter
-1 Deadshot Minotaur
+1 Wild Cantor
 1 Incubation/Incongruity
 1 Scattered Groves
 1 Devoted Druid
-1 Walking Ballista
+1 Deadshot Minotaur
+1 Once Upon a Time
 1 Street Wraith
-1 Horizon Canopy
 1 Finale of Devastation
+1 Horizon Canopy
 1 Hall of the Bandit Lord
+1 Traverse the Ulvenwald
 1 Mishra's Bauble
 2 Ancient Stirrings
-2 Walking Ballista
 2 Traverse the Ulvenwald
 2 Incubation/Incongruity
 2 Hall of the Bandit Lord
+2 Summoner's Pact
 2 Temple Garden
 2 Devoted Druid
+2 Once Upon a Time
 2 Pact of Negation
+2 Walking Ballista
 2 Mishra's Bauble
 2 Street Wraith
 2 Vizier of Remedies
 2 Horizon Canopy
 3 Ancient Stirrings
-3 Traverse the Ulvenwald
 3 Devoted Druid
 3 Street Wraith
+3 Traverse the Ulvenwald
+3 Pact of Negation
 3 Hall of the Bandit Lord
 3 Mishra's Bauble
 3 Vizier of Remedies
-3 Pact of Negation
+3 Summoner's Pact
+3 Once Upon a Time
 4 Ancient Stirrings
+4 Summoner's Pact
 4 Mishra's Bauble
 4 Vizier of Remedies
 4 Pact of Negation

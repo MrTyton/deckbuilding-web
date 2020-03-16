@@ -65,7 +65,7 @@
 |                    2|[Temple of Enlightenment](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=378535)|                    2|[Gideon Blackblade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463943)   |
 |                    3|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)               |                    3|[Gideon Blackblade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463943)   |
 |                    4|[Shimmer of Possibility](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457195) |                    1|Heliod's Intervention                                                                          |
-|                     |                                                                                                  |                    1|[Deputy of Detention](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457309) |
-|                     |                                                                                                  |                    2|Heliod's Intervention                                                                          |
 |                     |                                                                                                  |                    2|[Deputy of Detention](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457309) |
+|                     |                                                                                                  |                    2|Heliod's Intervention                                                                          |
+|                     |                                                                                                  |                    1|[Deputy of Detention](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457309) |
 
