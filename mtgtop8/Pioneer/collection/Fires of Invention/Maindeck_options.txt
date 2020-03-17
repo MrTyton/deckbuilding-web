@@ -1,8 +1,8 @@
 2 Jace, Architect of Thought
 4 Fae of Wishes
 1 Gideon, Ally of Zendikar
-2 Gideon, Ally of Zendikar
 2 Gideon of the Trials
+2 Gideon, Ally of Zendikar
 1 Heart of Kiran
 2 Heart of Kiran
 1 Oath of Teferi
@@ -95,12 +95,12 @@
 2 Crux of Fate
 2 Kolaghan's Command
 3 Nicol Bolas, the Ravager
-1 Thirst for Meaning
 1 The Birth of Meletis
+1 Thirst for Meaning
 1 Dream Trawler
-2 The Birth of Meletis
-2 Thirst for Meaning
 2 Plains
+2 Thirst for Meaning
+2 The Birth of Meletis
 2 Castle Ardenvale
 3 The Birth of Meletis
 3 Plains
@@ -134,8 +134,8 @@
 1 Mystic Monastery
 3 Gideon of the Trials
 4 Gideon of the Trials
-1 Idyllic Tutor
 1 Thassa, God of the Sea
+1 Idyllic Tutor
 1 Azorius Charm
 2 Azorius Charm
 3 Sulfur Falls
@@ -159,8 +159,8 @@
 3 Brazen Borrower
 3 Glorybringer
 3 Temple of Epiphany
-4 Brazen Borrower
 4 Thoughtseize
+4 Brazen Borrower
 4 Glorybringer
 4 Dragonskull Summit
 1 Blooming Marsh
@@ -168,13 +168,13 @@
 1 Rootbound Crag
 1 Dryad of the Ilysian Grove
 1 Korvold, Fae-Cursed King
-1 Vraska, Golgari Queen
 1 Tireless Tracker
 1 Overgrown Tomb
 1 Woodland Cemetery
 1 Courser of Kruphix
 1 Forest
 1 Sylvan Caryatid
+1 Vraska, Golgari Queen
 1 Karn, the Great Creator
 1 Ugin's Nexus
 1 Stomping Ground
@@ -192,6 +192,7 @@
 2 Courser of Kruphix
 2 Ugin's Nexus
 3 Arboreal Grazer
+3 Tireless Tracker
 3 Vraska, Golgari Queen
 3 Courser of Kruphix
 3 Forest
@@ -201,7 +202,6 @@
 3 Korvold, Fae-Cursed King
 3 Overgrown Tomb
 3 Blooming Marsh
-3 Tireless Tracker
 3 Sylvan Caryatid
 4 Tireless Tracker
 4 Arboreal Grazer

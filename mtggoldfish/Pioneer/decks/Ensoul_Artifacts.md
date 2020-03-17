@@ -1,7 +1,7 @@
 # Ensoul Artifacts
 
 #### [Export MTGO List](../collection/Ensoul%20Artifacts/Ensoul%20Artifacts.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Aether%20Hub%0A3%09All%20That%20Glitters%0A4%09Bomat%20Courier%0A4%09Darksteel%20Citadel%0A1%09Emry,%20Lurker%20of%20the%20Loch%0A4%09Ensoul%20Artifact%0A4%09Ghostfire%20Blade%0A4%09Gingerbrute%0A2%09Hope%20of%20Ghirapur%0A4%09Mana%20Confluence%0A2%09Metallic%20Rebuke%0A2%09Mutavault%0A4%09Ornithopter%0A4%09Shrapnel%20Blast%0A4%09Spire%20of%20Industry%0A4%09Springleaf%20Drum%0A2%09Steel%20Overseer%0A4%09Stonecoil%20Serpent&deckside=1%09Damping%20Sphere%0A4%09Fatal%20Push%0A2%09Hangarback%20Walker%0A1%09Metallic%20Rebuke%0A2%09Mystical%20Dispute%0A1%09Shadowspear%0A4%09Thoughtseize)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Aether%20Hub%0A3%09All%20That%20Glitters%0A4%09Bomat%20Courier%0A4%09Darksteel%20Citadel%0A1%09Emry,%20Lurker%20of%20the%20Loch%0A4%09Ensoul%20Artifact%0A4%09Ghostfire%20Blade%0A4%09Gingerbrute%0A2%09Hope%20of%20Ghirapur%0A4%09Mana%20Confluence%0A2%09Metallic%20Rebuke%0A2%09Mutavault%0A4%09Ornithopter%0A4%09Shrapnel%20Blast%0A4%09Spire%20of%20Industry%0A4%09Springleaf%20Drum%0A2%09Steel%20Overseer%0A4%09Stonecoil%20Serpent&deckside=1%09Damping%20Sphere%0A4%09Fatal%20Push%0A1%09Hangarback%20Walker%0A2%09Mystical%20Dispute%0A1%09Shadowspear%0A2%09Stubborn%20Denial%0A4%09Thoughtseize)
 # Maindeck
 
 |                                        Artifact (8)                                        |                                            Creature (21)                                            |                                       Enchantment (7)                                        |                                        Instant (6)                                         |                                          Land (18)                                           |
@@ -17,19 +17,19 @@
 
 # Sideboard
 
-|                                       Artifact (1)                                        |                                         Creature (2)                                         |                                         Instant (7)                                         |                                       Sorcery (4)                                       | Unknown (1) |
+|                                       Artifact (1)                                        |                                         Creature (1)                                         |                                         Instant (8)                                         |                                       Sorcery (4)                                       | Unknown (1) |
 |-------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|-------------|
-|1 [Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)|2 [Hangarback Walker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420600)|4 [Fatal Push](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423724)      |4 [Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)|1 Shadowspear|
-|                                                                                           |                                                                                              |1 [Metallic Rebuke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423706) |                                                                                         |             |
+|1 [Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)|1 [Hangarback Walker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420600)|4 [Fatal Push](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423724)      |4 [Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)|1 Shadowspear|
 |                                                                                           |                                                                                              |2 [Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)|                                                                                         |             |
+|                                                                                           |                                                                                              |2 [Stubborn Denial](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386673) |                                                                                         |             |
 
 
 # Other Options
 
 |*n*<sup>th</sup> copy|Maindeck Card|*n*<sup>th</sup> copy|                                          Sideboard Card                                           |
 |---------------------|-------------|--------------------:|---------------------------------------------------------------------------------------------------|
-|                     |             |                    1|[Stubborn Denial](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386673)         |
-|                     |             |                    2|[Stubborn Denial](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386673)         |
+|                     |             |                    1|[Metallic Rebuke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423706)         |
+|                     |             |                    2|[Hangarback Walker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420600)       |
 |                     |             |                    2|[Metallic Rebuke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423706)         |
 |                     |             |                    1|[Emry, Lurker of the Loch](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473005)|
 

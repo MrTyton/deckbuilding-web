@@ -14,21 +14,21 @@
 1 Chandra, Torch of Defiance
 2 Temple Garden
 2 Birds of Paradise
-1 Field of Ruin
 1 Sunbaked Canyon
 1 Tranquil Thicket
 1 Questing Beast
+1 Field of Ruin
 1 Blast Zone
 1 Dromoka's Command
+1 Klothys, God of Destiny
 1 Scavenging Ooze
 1 Qasali Pridemage
-1 Klothys, God of Destiny
-2 Knight of Autumn
 2 Scavenging Ooze
+2 Knight of Autumn
 2 Qasali Pridemage
-1 Dryad Arbor
 1 Glorybringer
 1 Magus of the Moon
+1 Dryad Arbor
 2 Glorybringer
 2 Magus of the Moon
 3 Magus of the Moon
@@ -46,8 +46,8 @@
 1 Wall of Roots
 1 Voice of Resurgence
 1 Wall of Blossoms
-2 Plains
 2 Restoration Angel
+2 Plains
 2 Voice of Resurgence
 2 Wall of Blossoms
 2 Eldritch Evolution
@@ -55,50 +55,50 @@
 3 Voice of Resurgence
 3 Wall of Blossoms
 3 Eldritch Evolution
-4 Birds of Paradise
 4 Voice of Resurgence
+4 Birds of Paradise
 4 Wall of Blossoms
 4 Eldritch Evolution
 1 Emrakul, the Aeons Torn
-1 Chord of Calling
 1 Shalai, Voice of Plenty
-1 Duskwatch Recruiter
 1 Eladamri's Call
 1 Gilded Goose
 1 Vizier of Remedies
+1 Duskwatch Recruiter
+1 Chord of Calling
 1 Razorverge Thicket
 1 Devoted Druid
 1 Postmortem Lunge
 1 Spellskite
-2 Chord of Calling
-2 Eternal Witness
-2 Gilded Goose
 2 Eladamri's Call
-2 Duskwatch Recruiter
+2 Gilded Goose
 2 Spellskite
 2 Horizon Canopy
-2 Razorverge Thicket
 2 Devoted Druid
+2 Razorverge Thicket
 2 Postmortem Lunge
+2 Duskwatch Recruiter
+2 Eternal Witness
+2 Chord of Calling
 2 Vizier of Remedies
-3 Devoted Druid
-3 Vizier of Remedies
-3 Razorverge Thicket
-3 Chord of Calling
 3 Gilded Goose
+3 Devoted Druid
 3 Spellskite
+3 Chord of Calling
 3 Eladamri's Call
 3 Horizon Canopy
 3 Duskwatch Recruiter
+3 Vizier of Remedies
 3 Postmortem Lunge
-4 Devoted Druid
-4 Vizier of Remedies
+3 Razorverge Thicket
 4 Horizon Canopy
-4 Razorverge Thicket
-4 Chord of Calling
 4 Gilded Goose
-4 Duskwatch Recruiter
 4 Spellskite
+4 Razorverge Thicket
+4 Duskwatch Recruiter
+4 Devoted Druid
+4 Chord of Calling
+4 Vizier of Remedies
 4 Eladamri's Call
 1 Blood Moon
 1 Utopia Sprawl
@@ -114,9 +114,9 @@
 2 Blood Moon
 2 Chandra, Acolyte of Flame
 2 Sarkhan the Masterless
-2 Nahiri, the Harbinger
 2 Arbor Elf
 2 Seasoned Pyromancer
+2 Nahiri, the Harbinger
 3 Snow-Covered Forest
 3 Utopia Sprawl
 3 Stomping Ground

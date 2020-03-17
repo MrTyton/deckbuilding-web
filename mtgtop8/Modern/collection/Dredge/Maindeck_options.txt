@@ -13,8 +13,9 @@
 4 Copperline Gorge
 1 Forest
 1 Mana Confluence
-1 Swamp
 1 Watery Grave
+1 Swamp
+1 Polluted Delta
 1 Verdant Catacombs
 1 Overgrown Tomb
 1 Stitcher's Supplier
@@ -24,7 +25,7 @@
 1 Hedron Crab
 1 Vengevine
 1 Carrion Feeder
-1 Polluted Delta
+2 Polluted Delta
 2 Watery Grave
 2 Overgrown Tomb
 2 Stitcher's Supplier
@@ -33,11 +34,10 @@
 2 Gravecrawler
 2 Hedron Crab
 2 Glimpse the Unthinkable
-2 Polluted Delta
+3 Polluted Delta
 3 Watery Grave
 3 Stitcher's Supplier
 3 Hedron Crab
-3 Polluted Delta
 3 Vengevine
 3 Glimpse the Unthinkable
 3 Gravecrawler
@@ -70,13 +70,13 @@
 2 Swamp
 2 Marsh Flats
 3 Gurmag Angler
-2 Darkblast
-3 Arid Mesa
-3 Darkblast
 1 Ghost Quarter
 1 Insolent Neonate
 2 Insolent Neonate
 3 Insolent Neonate
+2 Darkblast
+3 Arid Mesa
+3 Darkblast
 1 Memory Sluice
 2 Memory Sluice
 3 Carrion Feeder

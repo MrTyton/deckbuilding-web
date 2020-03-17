@@ -62,6 +62,6 @@
 |                     |                                                                                                    |                    2|[Nature's Chant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464159)            |
 |                     |                                                                                                    |                    3|[Nature's Chant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464159)            |
 |                     |                                                                                                    |                    1|[Elesh Norn, Grand Cenobite](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438584)|
-|                     |                                                                                                    |                    3|[Chain of Vapor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420701)            |
 |                     |                                                                                                    |                    4|[Chain of Vapor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420701)            |
+|                     |                                                                                                    |                    3|[Chain of Vapor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420701)            |
 
