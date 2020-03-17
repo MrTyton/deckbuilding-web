@@ -86,8 +86,8 @@
 |                     |                                                                                               |                    3|[Deputy of Detention](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457309)    |
 |                     |                                                                                               |                    1|[Essence Scatter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426754)        |
 |                     |                                                                                               |                    1|[Disenchant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=847)                |
-|                     |                                                                                               |                    2|[Essence Scatter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426754)        |
 |                     |                                                                                               |                    2|[Disenchant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=847)                |
+|                     |                                                                                               |                    2|[Essence Scatter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426754)        |
 |                     |                                                                                               |                    3|[Disenchant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=847)                |
 |                     |                                                                                               |                    3|[Settle the Wreckage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435186)    |
 
