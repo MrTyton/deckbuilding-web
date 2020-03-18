@@ -7,8 +7,8 @@
 1 Ugin, the Ineffable
 1 Everflowing Chalice
 1 Chalice of the Void
-1 Inventors' Fair
 1 Wastes
+1 Inventors' Fair
 1 Astral Cornucopia
 1 Coretapper
 1 Surge Node
@@ -61,18 +61,19 @@
 3 Cryptic Command
 1 Hallowed Fountain
 1 Plains
+1 Talisman of Progress
 1 Sphinx's Revelation
 1 Mystic Gate
-1 Supreme Verdict
 1 Celestial Colonnade
-1 Jace, the Mind Sculptor
 1 Path to Exile
+1 Jace, the Mind Sculptor
 1 Settle the Wreckage
 1 Dream Trawler
 1 Elspeth, Sun's Nemesis
+1 Supreme Verdict
 1 Wrath of God
-1 Elspeth, Sun's Champion
 1 Shadow of Doubt
+1 Elspeth, Sun's Champion
 1 Fortune Thief
 1 Azorius Signet
 1 Irrigated Farmland
@@ -82,14 +83,13 @@
 1 Elder Deep-Fiend
 1 Time Wipe
 1 Flooded Strand
-1 Talisman of Progress
 1 Wall of Omens
 1 Midnight Clock
 1 Snapcaster Mage
 2 Shadow of Doubt
 2 Celestial Colonnade
-2 Plains
 2 Hallowed Fountain
+2 Plains
 2 Solemn Simulacrum
 2 Elder Deep-Fiend
 2 Emrakul, the Promised End
@@ -100,11 +100,11 @@
 4 Solemn Simulacrum
 1 Nurturing Peatland
 1 Waterlogged Grove
-2 Wastes
 2 Ghost Quarter
 2 Relic of Progenitus
 1 Dismember
 2 Dismember
+2 Wastes
 2 Inventors' Fair
 2 Karn, Scion of Urza
 3 Walking Ballista
@@ -119,20 +119,20 @@
 1 Aetherflux Reservoir
 1 Scavenger Grounds
 4 Ugin, the Ineffable
-1 Breeding Pool
 1 Aether Spellbomb
 1 Metallic Rebuke
 1 Mox Amber
 1 Uro, Titan of Nature's Wrath
 1 Gilded Goose
 1 Snow-Covered Forest
-1 Engineered Explosives
 1 Tormod's Crypt
+1 Engineered Explosives
 1 Mystic Sanctuary
 1 Ice-Fang Coatl
 1 Arcum's Astrolabe
 1 Emry, Lurker of the Loch
 1 Snow-Covered Island
+1 Breeding Pool
 1 Scalding Tarn
 1 Urza, Lord High Artificer
 1 Polluted Delta
@@ -156,8 +156,8 @@
 2 Misty Rainforest
 3 Misty Rainforest
 3 Emry, Lurker of the Loch
-3 Gilded Goose
 3 Scalding Tarn
+3 Gilded Goose
 3 Uro, Titan of Nature's Wrath
 3 Engineered Explosives
 3 Metallic Rebuke
@@ -168,8 +168,8 @@
 3 Snow-Covered Island
 4 Misty Rainforest
 4 Emry, Lurker of the Loch
-4 Gilded Goose
 4 Scalding Tarn
+4 Gilded Goose
 4 Ice-Fang Coatl
 4 Snow-Covered Island
 4 Urza, Lord High Artificer
@@ -177,17 +177,17 @@
 4 Arcum's Astrolabe
 5 Snow-Covered Island
 1 Tolaria West
-1 Remand
 1 Field of Ruin
 1 Mindslaver
 1 Academy Ruins
+1 Remand
 1 Witching Well
 1 Spatial Contortion
 1 Force of Negation
+1 Nimble Obstructionist
 1 Repeal
 1 Trinket Mage
 1 Cyclonic Rift
-1 Nimble Obstructionist
 1 Condescend
 2 Remand
 2 Spatial Contortion

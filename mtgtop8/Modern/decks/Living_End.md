@@ -29,8 +29,8 @@
 
 |*n*<sup>th</sup> copy|                                         Maindeck Card                                         |*n*<sup>th</sup> copy|                                         Sideboard Card                                         |
 |--------------------:|-----------------------------------------------------------------------------------------------|--------------------:|------------------------------------------------------------------------------------------------|
-|                    1|[Architects of Will](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=179597)  |                    1|[Generous Gift](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463960)        |
-|                    1|[Windcaller Aven](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464026)     |                    1|[Faerie Macabre](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=201822)       |
+|                    1|[Windcaller Aven](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464026)     |                    1|[Generous Gift](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463960)        |
+|                    1|[Architects of Will](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=179597)  |                    1|[Faerie Macabre](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=201822)       |
 |                    1|[Fiery Islet](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464187)         |                    1|[Leyline of Sanctity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=204993)  |
 |                    1|[Tolaria West](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=136047)        |                    1|[Timely Reinforcements](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220074)|
 |                    1|[Force of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464001)   |                    1|[Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)     |

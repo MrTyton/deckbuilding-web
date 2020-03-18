@@ -32,28 +32,28 @@
 1 Elvish Mystic
 2 Elvish Mystic
 3 Smuggler's Copter
-4 Grove of the Burnwillows
 4 Reality Smasher
+4 Grove of the Burnwillows
 1 Scalding Tarn
 2 Scalding Tarn
 4 Mountain
 5 Mountain
-1 Valakut, the Molten Pinnacle
 1 Primeval Titan
 1 Explore
 1 Search for Tomorrow
+1 Valakut, the Molten Pinnacle
 1 Cinder Glade
-2 Valakut, the Molten Pinnacle
 2 Primeval Titan
 2 Explore
 2 Search for Tomorrow
+2 Valakut, the Molten Pinnacle
 3 Search for Tomorrow
 4 Search for Tomorrow
 1 Sheltered Thicket
 1 Chandra, Torch of Defiance
 1 Ghost Quarter
-1 Dryad of the Ilysian Grove
 1 Field of the Dead
+1 Dryad of the Ilysian Grove
 1 Courser of Kruphix
 1 Forgotten Cave
 1 Utopia Sprawl
@@ -64,19 +64,19 @@
 1 Verdant Catacombs
 1 Mina and Denn, Wildborn
 1 Snow-Covered Mountain
+2 Ghost Quarter
 2 Chandra, Torch of Defiance
-2 Courser of Kruphix
 2 Dryad of the Ilysian Grove
 2 Field of the Dead
 2 Raging Ravine
 2 Utopia Sprawl
 2 Forgotten Cave
 2 Wrenn and Six
-2 Ghost Quarter
 2 Verdant Catacombs
+2 Courser of Kruphix
 2 Snow-Covered Forest
-3 Courser of Kruphix
 3 Dryad of the Ilysian Grove
+3 Courser of Kruphix
 3 Wrenn and Six
 3 Explore
 3 Verdant Catacombs
@@ -125,25 +125,24 @@
 4 Tarmogoyf
 4 Kiln Fiend
 4 Soul-Scar Mage
-1 Oracle of Mul Daya
-1 Summoner's Pact
 1 Obstinate Baloth
 1 Acidic Slime
+1 Oracle of Mul Daya
 1 Beast Within
 1 Scapeshift
+1 Summoner's Pact
 1 Windswept Heath
 1 Farseek
 1 Solemn Simulacrum
 1 Sakura-Tribe Elder
 1 Inferno Titan
-2 Summoner's Pact
 2 Scapeshift
 2 Solemn Simulacrum
+2 Summoner's Pact
 2 Cinder Glade
 2 Farseek
 2 Obstinate Baloth
 2 Sakura-Tribe Elder
-3 Summoner's Pact
 3 Primeval Titan
 3 Valakut, the Molten Pinnacle
 3 Farseek
@@ -151,6 +150,7 @@
 3 Stomping Ground
 3 Sakura-Tribe Elder
 3 Scapeshift
+3 Summoner's Pact
 4 Primeval Titan
 4 Sakura-Tribe Elder
 4 Valakut, the Molten Pinnacle

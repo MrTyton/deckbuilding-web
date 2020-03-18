@@ -1,5 +1,30 @@
+5 Swamp
+1 Terminate
+1 Dragonskull Summit
+2 Dragonskull Summit
+3 Mountain
 4 Unearth
+1 Dreadhorde Arcanist
+2 Dreadhorde Arcanist
+3 Dreadhorde Arcanist
 1 Marsh Flats
+1 Ox of Agonas
+1 Dreadbore
+1 Ashiok, Dream Render
+1 Ransack the Lab
+2 Ashiok, Dream Render
+2 Ox of Agonas
+2 Ransack the Lab
+3 Ashiok, Dream Render
+3 Ransack the Lab
+3 Kolaghan's Command
+1 Blood Moon
+1 Collective Brutality
+2 Blood Moon
+2 Collective Brutality
+2 Lavaclaw Reaches
+2 Terminate
+4 Dark Confidant
 1 Magus of the Moon
 1 Castle Embereth
 1 Thrill of Possibility
@@ -8,33 +33,20 @@
 2 Thrill of Possibility
 2 Fulminator Mage
 2 Magus of the Moon
-3 Magus of the Moon
 3 Marsh Flats
 3 Thrill of Possibility
+3 Magus of the Moon
 3 Fulminator Mage
 4 Magus of the Moon
-1 Lavaclaw Reaches
-1 Blood Moon
-1 Dark Confidant
-1 Collective Brutality
-1 Castle Locthwain
-2 Blood Moon
-2 Castle Locthwain
-2 Collective Brutality
-2 Dark Confidant
-2 Lavaclaw Reaches
-2 Terminate
-3 Dark Confidant
-4 Dark Confidant
 1 Snow-Covered Swamp
 1 Gravecrawler
 1 Carrion Feeder
 1 Polluted Delta
 1 Dreadhorde Butcher
+2 Polluted Delta
 2 Snow-Covered Swamp
 2 Carrion Feeder
 2 Dreadhorde Butcher
-2 Polluted Delta
 2 Gravecrawler
 3 Polluted Delta
 3 Dreadhorde Butcher
@@ -42,13 +54,11 @@
 3 Gravecrawler
 4 Polluted Delta
 4 Dreadhorde Butcher
-1 Verdant Catacombs
 1 Death's Shadow
 1 Temur Battle Rage
-1 Street Wraith
 1 Prismatic Vista
+1 Street Wraith
 2 Street Wraith
-2 Verdant Catacombs
 2 Temur Battle Rage
 2 Death's Shadow
 3 Street Wraith
@@ -59,72 +69,72 @@
 4 Verdant Catacombs
 4 Death's Shadow
 1 Silent Clearing
-1 Gemstone Caverns
 1 The Rack
+1 Gemstone Caverns
 1 Urborg, Tomb of Yawgmoth
+1 Anger of the Gods
 1 Shrieking Affliction
 1 Raven's Crime
 1 Graven Cairns
-1 Anger of the Gods
 2 Gemstone Caverns
 2 Graven Cairns
 2 Shrieking Affliction
 2 Raven's Crime
 2 The Rack
 3 The Rack
+3 Graven Cairns
 3 Gemstone Caverns
 3 Shrieking Affliction
 3 Raven's Crime
-3 Graven Cairns
 4 Graven Cairns
 4 Gemstone Caverns
 4 Shrieking Affliction
 4 Raven's Crime
 4 The Rack
-1 Light Up the Stage
-1 Goblin Guide
-1 Monastery Swiftspear
-1 Fiery Islet
-1 Lava Spike
-1 Rift Bolt
 1 Skewer the Critics
-1 Harsh Mentor
-1 Skullcrack
+1 Light Up the Stage
 1 Sunbaked Canyon
+1 Harsh Mentor
+1 Monastery Swiftspear
+1 Skullcrack
+1 Lava Spike
 1 Fanatical Firebrand
+1 Rift Bolt
 1 Eidolon of the Great Revel
+1 Fiery Islet
+1 Goblin Guide
 2 Light Up the Stage
+2 Skewer the Critics
+2 Sunbaked Canyon
+2 Harsh Mentor
+2 Goblin Guide
 2 Lava Spike
 2 Rift Bolt
 2 Monastery Swiftspear
-2 Goblin Guide
-2 Skewer the Critics
-2 Harsh Mentor
-2 Skullcrack
 2 Eidolon of the Great Revel
-2 Sunbaked Canyon
+2 Skullcrack
 2 Fiery Islet
 3 Light Up the Stage
-3 Goblin Guide
-3 Fiery Islet
-3 Rift Bolt
-3 Monastery Swiftspear
-3 Lava Spike
 3 Skewer the Critics
+3 Fiery Islet
 3 Skullcrack
 3 Eidolon of the Great Revel
+3 Lava Spike
 3 Harsh Mentor
+3 Monastery Swiftspear
+3 Rift Bolt
 3 Sunbaked Canyon
+3 Goblin Guide
 4 Mountain
-4 Goblin Guide
-4 Lava Spike
-4 Fiery Islet
-4 Monastery Swiftspear
-4 Rift Bolt
 4 Skewer the Critics
+4 Fiery Islet
 4 Eidolon of the Great Revel
+4 Rift Bolt
+4 Monastery Swiftspear
 4 Sunbaked Canyon
 4 Skullcrack
+4 Lava Spike
+4 Goblin Guide
 4 Harsh Mentor
 4 Light Up the Stage
 5 Mountain

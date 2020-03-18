@@ -1,23 +1,15 @@
-1 Scalding Tarn
 1 Spell Snare
+2 Polluted Delta
 2 Spell Snare
-1 Watery Grave
 3 Jace, the Mind Sculptor
-3 Teferi, Time Raveler
-1 Elspeth, Sun's Nemesis
 1 Terminus
 2 Terminus
-3 Polluted Delta
 4 Snapcaster Mage
+3 Hallowed Fountain
 1 Seachrome Coast
 2 Seachrome Coast
 3 Seachrome Coast
 4 Seachrome Coast
-1 Serum Visions
-1 Spell Pierce
-2 Serum Visions
-3 Serum Visions
-4 Serum Visions
 1 Batterskull
 1 Spell Queller
 1 Stoneforge Mystic
@@ -26,44 +18,28 @@
 3 Stoneforge Mystic
 4 Stoneforge Mystic
 1 Geist of Saint Traft
-3 Hallowed Fountain
-1 Archmage's Charm
-1 Censor
-2 Dovin's Veto
-2 Censor
-2 Elspeth, Sun's Nemesis
-2 Archmage's Charm
-3 Celestial Colonnade
-3 Terminus
-4 Terminus
-4 Cryptic Command
-4 Celestial Colonnade
-1 Misty Rainforest
-1 Deprive
-1 Omen of the Sea
-2 Omen of the Sea
-1 Ghost Quarter
 1 Unsettled Mariner
 1 Giver of Runes
 1 Sword of Fire and Ice
 1 Thalia, Guardian of Thraben
-1 Brazen Borrower
 1 Flickerwisp
 1 Aether Vial
 1 Meddling Mage
+1 Brazen Borrower
+1 Ghost Quarter
 1 Reflector Mage
 2 Brazen Borrower
 2 Unsettled Mariner
-2 Ghost Quarter
 2 Giver of Runes
 2 Reflector Mage
 2 Thalia, Guardian of Thraben
 2 Meddling Mage
 2 Flickerwisp
 2 Aether Vial
-3 Ghost Quarter
+2 Ghost Quarter
 3 Thalia, Guardian of Thraben
 3 Giver of Runes
+3 Ghost Quarter
 3 Spell Queller
 3 Flickerwisp
 3 Aether Vial
@@ -73,24 +49,51 @@
 4 Aether Vial
 4 Spell Queller
 4 Flickerwisp
+1 Watery Grave
+3 Teferi, Time Raveler
+1 Elspeth, Sun's Nemesis
+1 Misty Rainforest
+1 Deprive
+1 Archmage's Charm
+2 Archmage's Charm
+4 Cryptic Command
+3 Polluted Delta
+1 Glacial Fortress
+1 Remand
+2 Remand
+3 Remand
+1 Serum Visions
+1 Spell Pierce
+2 Serum Visions
+3 Serum Visions
+4 Serum Visions
+1 Censor
+2 Dovin's Veto
+2 Censor
+2 Elspeth, Sun's Nemesis
+3 Celestial Colonnade
+3 Terminus
+4 Terminus
+4 Celestial Colonnade
+1 Omen of the Sea
+2 Omen of the Sea
+1 Jace, Vryn's Prodigy
+1 Blast Zone
+3 Narset, Parter of Veils
 1 Restoration Angel
 1 Moorland Haunt
 1 Elspeth, Knight-Errant
 1 Vapor Snag
 1 Mana Tithe
 1 Delver of Secrets
-1 Glacial Fortress
 1 Dismember
-1 Remand
 2 Vendilion Clique
-2 Remand
 2 Geist of Saint Traft
 2 Delver of Secrets
 2 Vapor Snag
 2 Glacial Fortress
 2 Restoration Angel
 3 Glacial Fortress
-3 Remand
 3 Restoration Angel
 3 Geist of Saint Traft
 3 Delver of Secrets
@@ -116,7 +119,12 @@
 3 Snow-Covered Island
 3 Puresight Merrow
 4 Snow-Covered Island
+4 Puresight Merrow
 5 Snow-Covered Island
 6 Snow-Covered Island
 7 Snow-Covered Island
-4 Puresight Merrow
+1 Entreat the Angels
+2 Deprive
+2 Misty Rainforest
+3 Archmage's Charm
+4 Mystic Sanctuary

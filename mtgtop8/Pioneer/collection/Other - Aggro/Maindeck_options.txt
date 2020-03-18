@@ -1,3 +1,59 @@
+1 Swamp
+1 Scrapheap Scrounger
+2 Scrapheap Scrounger
+1 Thoughtseize
+2 Thoughtseize
+3 Thoughtseize
+4 Thoughtseize
+1 Fatal Push
+2 Fatal Push
+3 Fatal Push
+4 Fatal Push
+2 Gideon, Ally of Zendikar
+3 Gideon, Ally of Zendikar
+1 Urborg, Tomb of Yawgmoth
+1 Heart of Kiran
+2 Heart of Kiran
+3 Heart of Kiran
+1 Concealed Courtyard
+2 Concealed Courtyard
+1 Isolated Chapel
+1 Mutavault
+1 Archangel Avacyn
+1 History of Benalia
+1 Caves of Koilos
+1 Godless Shrine
+1 Knight of the Ebon Legion
+2 Isolated Chapel
+2 Mutavault
+2 History of Benalia
+2 Knight of the Ebon Legion
+2 Godless Shrine
+2 Caves of Koilos
+3 Mutavault
+3 Caves of Koilos
+3 Concealed Courtyard
+3 Knight of the Ebon Legion
+3 Godless Shrine
+3 History of Benalia
+4 Godless Shrine
+4 History of Benalia
+4 Knight of the Ebon Legion
+4 Caves of Koilos
+4 Concealed Courtyard
+3 Scrapheap Scrounger
+1 Watery Grave
+2 Watery Grave
+3 Watery Grave
+1 Creeping Chill
+1 Narcomoeba
+1 Prized Amalgam
+2 Creeping Chill
+2 Narcomoeba
+2 Prized Amalgam
+3 Creeping Chill
+3 Prized Amalgam
+3 Narcomoeba
 4 Creeping Chill
 4 Prized Amalgam
 4 Narcomoeba
@@ -11,8 +67,8 @@
 1 Driven / Despair
 1 Overgrown Tomb
 1 Grisly Salvage
-1 Blooming Marsh
 1 Satyr Wayfinder
+1 Blooming Marsh
 2 Grisly Salvage
 2 Gurmag Angler
 2 Llanowar Wastes
@@ -26,61 +82,112 @@
 3 Grisly Salvage
 3 Stitcher's Supplier
 3 Haunted Dead
-3 Satyr Wayfinder
 3 Overgrown Tomb
+3 Satyr Wayfinder
 3 Blooming Marsh
 4 Grisly Salvage
 4 Stitcher's Supplier
 4 Satyr Wayfinder
-3 Watery Grave
-3 Scrapheap Scrounger
-4 Plains
-1 Forest
-3 Botanical Sanctum
-3 Gurmag Angler
-3 Gather the Pack
-4 Gather the Pack
-4 Overgrown Tomb
-1 Kunoros, Hound of Athreos
-4 Mutavault
 2 Swamp
 4 Scrapheap Scrounger
-1 Thraben Inspector
-2 Thraben Inspector
-3 Thraben Inspector
-1 Anguished Unmaking
-1 Thalia, Heretic Cathar
-1 Glory-Bound Initiate
-2 Glory-Bound Initiate
-2 Kunoros, Hound of Athreos
+3 Botanical Sanctum
 1 Kaya, Orzhov Usurper
 1 Kytheon, Hero of Akros
 2 Archangel Avacyn
 2 Kytheon, Hero of Akros
 3 Gideon of the Trials
+1 Kunoros, Hound of Athreos
+2 Kunoros, Hound of Athreos
+4 Mutavault
+1 Drowned Catacomb
+1 Forest
+3 Gurmag Angler
+3 Llanowar Wastes
+3 Gather the Pack
+4 Gather the Pack
+4 Overgrown Tomb
+1 Woodland Cemetery
+1 Decimator of the Provinces
+1 Murderous Rider
 1 Breeding Pool
 1 Uro, Titan of Nature's Wrath
-3 Llanowar Wastes
-4 Gurmag Angler
-1 Decimator of the Provinces
-1 Woodland Cemetery
-2 Uro, Titan of Nature's Wrath
-1 Drowned Catacomb
-1 Mana Confluence
-4 Thraben Inspector
-2 Forest
 3 Swamp
-2 Breeding Pool
-3 Breeding Pool
-4 Botanical Sanctum
+1 Island
+4 Watery Grave
+2 Murderous Rider
+1 Blood Crypt
+2 Blood Crypt
+2 Drowned Catacomb
+1 Kolaghan's Command
+1 Jace, Vryn's Prodigy
+2 Kolaghan's Command
+2 Jace, Vryn's Prodigy
+3 Blood Crypt
+4 Blood Crypt
+1 Dragonskull Summit
+1 Mountain
+2 Dragonskull Summit
+2 Forest
+1 Mana Confluence
 2 Mana Confluence
+1 Nicol Bolas, the Ravager
+1 Steam Vents
+2 Nicol Bolas, the Ravager
+3 Drowned Catacomb
+3 Nicol Bolas, the Ravager
+4 Drowned Catacomb
+1 Bonecrusher Giant
+1 Castle Locthwain
+3 Dragonskull Summit
+4 Dragonskull Summit
+1 Spawn of Mayhem
+2 Spawn of Mayhem
+3 Isolated Chapel
+1 Anguished Unmaking
+1 Thalia, Heretic Cathar
+1 Glory-Bound Initiate
+2 Glory-Bound Initiate
+1 Hinterland Harbor
+1 Ashiok, Dream Render
+1 Ipnu Rivulet
+2 Uro, Titan of Nature's Wrath
+2 Decimator of the Provinces
+4 Gurmag Angler
+1 Ashiok, Nightmare Muse
+1 Kalitas, Traitor of Ghet
+1 Nicol Bolas, Dragon-God
+1 Shadowspear
+1 Thought Erasure
+1 Vraska's Contempt
+1 Goblin Cratermaker
+1 Liliana, the Last Hope
+1 Blast Zone
+1 Fabled Passage
+1 Woe Strider
+1 Seekers' Squire
+2 Thought Erasure
+2 Nicol Bolas, Dragon-God
+2 Vraska's Contempt
+2 Seekers' Squire
+2 Kalitas, Traitor of Ghet
+2 Fabled Passage
+3 Thought Erasure
+3 Fabled Passage
+3 Vraska's Contempt
+3 Seekers' Squire
+4 Nicol Bolas, the Ravager
+4 Vraska's Contempt
+1 Glorybringer
+2 Glorybringer
 1 Temple Garden
 2 Temple Garden
 3 Temple Garden
+1 Brazen Borrower
+2 Brazen Borrower
 4 Temple Garden
-1 Hallowed Fountain
-2 Hallowed Fountain
+1 Reflector Mage
 1 Collected Company
+2 Reflector Mage
 2 Collected Company
 3 Collected Company
 4 Collected Company
@@ -89,81 +196,32 @@
 3 Llanowar Elves
 4 Llanowar Elves
 1 Voice of Resurgence
+2 Voice of Resurgence
+1 Rhonas the Indomitable
+1 Gilded Goose
 1 Fortified Village
 1 Scavenging Ooze
 1 Lovestruck Beast
 1 Elvish Mystic
 1 Tireless Tracker
+2 Tireless Tracker
+2 Scavenging Ooze
+2 Breeding Pool
 2 Lovestruck Beast
 2 Elvish Mystic
+3 Tireless Tracker
+3 Breeding Pool
 3 Lovestruck Beast
 3 Elvish Mystic
-4 Lovestruck Beast
-4 Elvish Mystic
-1 Glacial Fortress
-1 Spell Queller
-1 Teferi, Time Raveler
-2 Glacial Fortress
-2 Spell Queller
-2 Teferi, Time Raveler
-3 Spell Queller
-3 Teferi, Time Raveler
-3 Hallowed Fountain
-4 Hallowed Fountain
-1 Sunpetal Grove
-2 Sunpetal Grove
-3 Sunpetal Grove
-4 Sunpetal Grove
-1 Walking Ballista
-1 Heliod, Sun-Crowned
-1 Anafenza, Kin-Tree Spirit
-1 Daxos, Blessed by the Sun
-2 Heliod, Sun-Crowned
-2 Walking Ballista
-3 Walking Ballista
-1 Reflector Mage
-2 Reflector Mage
-1 Murderous Rider
-2 Murderous Rider
-1 Courser of Kruphix
-3 Forest
-4 Forest
-5 Forest
-6 Forest
-2 Voice of Resurgence
-1 Brazen Borrower
-2 Brazen Borrower
-1 Fleecemane Lion
-1 Island
-4 Watery Grave
-1 Spawn of Mayhem
-2 Spawn of Mayhem
-3 Isolated Chapel
-4 Haunted Dead
-1 Benalish Marshal
-1 Hinterland Harbor
-1 Ashiok, Dream Render
-1 Ipnu Rivulet
-2 Decimator of the Provinces
-1 Rhonas the Indomitable
-1 Gilded Goose
-2 Scavenging Ooze
-2 Tireless Tracker
-3 Tireless Tracker
+4 Botanical Sanctum
 4 Spell Queller
 4 Breeding Pool
+4 Lovestruck Beast
+4 Elvish Mystic
 4 Teferi, Time Raveler
-1 Blood Crypt
-2 Blood Crypt
-1 Kolaghan's Command
-1 Jace, Vryn's Prodigy
-2 Kolaghan's Command
-2 Jace, Vryn's Prodigy
 1 Wild Slash
 2 Wild Slash
 3 Wild Slash
-3 Blood Crypt
-4 Blood Crypt
 1 Wandering Fumarole
 1 Spirebluff Canal
 1 Soul-Scar Mage
@@ -172,8 +230,8 @@
 1 Wizard's Lightning
 1 Wizard's Retort
 1 Dreadhorde Arcanist
-2 Spirebluff Canal
 2 Wandering Fumarole
+2 Spirebluff Canal
 2 Soul-Scar Mage
 2 Wizard's Retort
 2 Dreadhorde Arcanist
@@ -199,27 +257,18 @@
 4 Spirebluff Canal
 3 Driven / Despair
 4 Blooming Marsh
-2 Drowned Catacomb
-1 Dragonskull Summit
-1 Glorybringer
-1 Mountain
-2 Dragonskull Summit
-2 Glorybringer
 1 Dragonlord Kolaghan
-1 Nicol Bolas, the Ravager
-1 Cast Down
 1 Kroxa, Titan of Death's Hunger
 1 Drown in the Loch
 1 Fetid Pools
+1 Cast Down
 1 Dragonlord Silumgar
 1 Foul-Tongue Invocation
-1 Steam Vents
 1 Silumgar's Scorn
 1 Castle Vantress
 1 Dragonmaster Outcast
 1 Dig Through Time
 1 Sulfur Falls
-2 Nicol Bolas, the Ravager
 2 Kroxa, Titan of Death's Hunger
 2 Steam Vents
 2 Drown in the Loch
@@ -228,23 +277,23 @@
 2 Silumgar's Scorn
 2 Sulfur Falls
 3 Brazen Borrower
-3 Drowned Catacomb
-3 Nicol Bolas, the Ravager
 3 Drown in the Loch
 3 Jace, Vryn's Prodigy
 3 Sulfur Falls
 3 Steam Vents
 3 Silumgar's Scorn
 4 Sulfur Falls
-4 Drowned Catacomb
 4 Steam Vents
-1 Bonecrusher Giant
 2 Bonecrusher Giant
 3 Bonecrusher Giant
 1 Experiment One
 2 Experiment One
 3 Experiment One
 4 Experiment One
+1 Sunpetal Grove
+2 Sunpetal Grove
+3 Sunpetal Grove
+4 Sunpetal Grove
 1 Sacred Foundry
 2 Sacred Foundry
 3 Sacred Foundry
@@ -256,6 +305,7 @@
 1 Gruul Spellbreaker
 1 Boros Charm
 1 Stomping Ground
+1 Fleecemane Lion
 1 Rootbound Crag
 2 Ghor-Clan Rampager
 2 Pelt Collector
@@ -283,72 +333,32 @@
 4 Bronzehide Lion
 4 Gruul Spellbreaker
 4 Stomping Ground
-1 Baffling End
-1 Wolfwillow Haven
-1 Temple of Plenty
-1 Sigil of the Empty Throne
-1 Gideon's Intervention
-1 Calix, Destiny's Hand
-1 Sphere of Safety
-1 Seal Away
-1 Banishing Light
-1 Setessan Champion
-1 Eidolon of Blossoms
-1 Herald of the Pantheon
-2 Seal Away
-2 Wolfwillow Haven
-2 Sigil of the Empty Throne
-2 Courser of Kruphix
-2 Herald of the Pantheon
-2 Eidolon of Blossoms
-2 Baffling End
-2 Setessan Champion
-2 Banishing Light
-2 Temple of Plenty
-2 Sphere of Safety
-3 Courser of Kruphix
-3 Temple of Plenty
-3 Setessan Champion
-3 Wolfwillow Haven
-3 Herald of the Pantheon
-3 Eidolon of Blossoms
-3 Banishing Light
-4 Courser of Kruphix
-4 Setessan Champion
-4 Temple of Plenty
-4 Banishing Light
-4 Herald of the Pantheon
-4 Eidolon of Blossoms
-4 Wolfwillow Haven
-3 Mana Confluence
-4 Mana Confluence
-5 Plains
-6 Plains
-7 Plains
-8 Plains
 1 Bomat Courier
 2 Bomat Courier
 3 Bomat Courier
 4 Bomat Courier
+3 Mana Confluence
+4 Mana Confluence
 1 Inspiring Vantage
 2 Inspiring Vantage
 3 Inspiring Vantage
+1 Benalish Marshal
 1 Reckless Bushwhacker
 1 Lightning Strike
 1 Clifftop Retreat
 1 Secure the Wastes
+1 Legion's Landing
 1 Battlefield Forge
 1 Toolcraft Exemplar
 1 Servo Exhibition
 1 Raise the Alarm
-1 Legion's Landing
 1 Shefet Dunes
 2 Benalish Marshal
 2 Reckless Bushwhacker
 2 Lightning Strike
+2 Legion's Landing
 2 Battlefield Forge
 2 Raise the Alarm
-2 Legion's Landing
 2 Shefet Dunes
 2 Toolcraft Exemplar
 2 Servo Exhibition
@@ -363,17 +373,17 @@
 4 Battlefield Forge
 4 Reckless Bushwhacker
 4 Inspiring Vantage
+4 Legion's Landing
 4 Benalish Marshal
 4 Raise the Alarm
-4 Legion's Landing
 4 Toolcraft Exemplar
-1 Unclaimed Territory
 1 Dauntless Bodyguard
+1 Unclaimed Territory
 1 Kitesail Freebooter
+1 Glint-Sleeve Siphoner
 1 Aether Hub
 1 Tajic, Legion's Edge
 1 Mantis Rider
-1 Glint-Sleeve Siphoner
 1 Thalia's Lieutenant
 1 Rogue Refiner
 2 Dauntless Bodyguard
@@ -398,20 +408,47 @@
 4 Reflector Mage
 4 Thalia's Lieutenant
 4 Mantis Rider
-1 Selfless Spirit
-1 Chord of Calling
-1 Vivien, Arkbow Ranger
-1 Knight of Autumn
-1 Alseid of Life's Bounty
-2 Fortified Village
-2 Chord of Calling
-2 Vivien, Arkbow Ranger
-2 Alseid of Life's Bounty
-3 Fortified Village
-3 Alseid of Life's Bounty
-4 Fortified Village
-7 Forest
-1 Castle Locthwain
+1 Wolfwillow Haven
+1 Temple of Plenty
+1 Sigil of the Empty Throne
+1 Gideon's Intervention
+1 Seal Away
+1 Calix, Destiny's Hand
+1 Courser of Kruphix
+1 Sphere of Safety
+1 Banishing Light
+1 Setessan Champion
+1 Eidolon of Blossoms
+1 Herald of the Pantheon
+2 Wolfwillow Haven
+2 Seal Away
+2 Sigil of the Empty Throne
+2 Courser of Kruphix
+2 Herald of the Pantheon
+2 Eidolon of Blossoms
+2 Baffling End
+2 Setessan Champion
+2 Banishing Light
+2 Temple of Plenty
+2 Sphere of Safety
+3 Courser of Kruphix
+3 Forest
+3 Temple of Plenty
+3 Setessan Champion
+3 Wolfwillow Haven
+3 Herald of the Pantheon
+3 Eidolon of Blossoms
+3 Banishing Light
+4 Forest
+4 Courser of Kruphix
+4 Setessan Champion
+4 Temple of Plenty
+4 Banishing Light
+4 Herald of the Pantheon
+4 Eidolon of Blossoms
+4 Wolfwillow Haven
+5 Forest
+6 Forest
 1 Rekindling Phoenix
 1 Goblin Rabblemaster
 1 Chandra, Torch of Defiance
@@ -425,10 +462,8 @@
 2 Chandra, Torch of Defiance
 2 Castle Locthwain
 2 Spike Jester
-3 Dragonskull Summit
 3 Chandra, Torch of Defiance
 3 Mountain
-4 Dragonskull Summit
 4 Bonecrusher Giant
 4 Swamp
 4 Mountain
@@ -466,28 +501,3 @@
 6 Island
 7 Island
 8 Island
-1 Nykthos, Shrine to Nyx
-1 Dragonlord Ojutai
-1 Irrigated Farmland
-1 Port Town
-1 Tomik, Distinguished Advokist
-1 Elspeth Conquers Death
-1 Mystical Dispute
-1 Knight of the White Orchid
-1 Castle Ardenvale
-1 Stasis Snare
-2 Dragonlord Ojutai
-2 Irrigated Farmland
-2 Castle Ardenvale
-2 Anafenza, Kin-Tree Spirit
-2 Daxos, Blessed by the Sun
-2 Knight of the White Orchid
-3 Glacial Fortress
-3 Irrigated Farmland
-3 Heliod, Sun-Crowned
-3 Knight of the White Orchid
-4 Glacial Fortress
-4 Irrigated Farmland
-4 Knight of the White Orchid
-4 Walking Ballista
-9 Plains

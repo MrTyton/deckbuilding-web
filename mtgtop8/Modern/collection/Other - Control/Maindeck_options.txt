@@ -69,11 +69,11 @@
 2 Damnation
 2 Field of Ruin
 2 Creeping Tar Pit
-3 Narset, Parter of Veils
 3 Creeping Tar Pit
+3 Narset, Parter of Veils
 4 Creeping Tar Pit
-4 Inquisition of Kozilek
 4 Narset, Parter of Veils
+4 Inquisition of Kozilek
 2 Island
 3 Watery Grave
 3 Opt
@@ -138,10 +138,10 @@
 1 Kroxa, Titan of Death's Hunger
 1 Mountain
 2 Kroxa, Titan of Death's Hunger
-2 Blood Crypt
 2 Bloodstained Mire
-2 Bonecrusher Giant
+2 Blood Crypt
 2 Kolaghan's Command
+2 Bonecrusher Giant
 2 Seasoned Pyromancer
 2 Thoughtseize
 2 Dark Confidant
@@ -150,14 +150,14 @@
 2 Mountain
 2 Unearth
 3 Thoughtseize
-3 Kroxa, Titan of Death's Hunger
+3 Bloodstained Mire
 3 Bonecrusher Giant
 3 Swamp
 3 Fulminator Mage
+3 Kroxa, Titan of Death's Hunger
 3 Blackcleave Cliffs
 3 Unearth
 3 Dark Confidant
-3 Bloodstained Mire
 3 Mountain
 4 Bonecrusher Giant
 4 Kroxa, Titan of Death's Hunger
@@ -171,9 +171,9 @@
 1 Hero's Downfall
 1 Drowned Catacomb
 1 Radiant Fountain
-1 Whirlwind Denial
 1 Shadow of Doubt
 1 Liliana's Triumph
+1 Whirlwind Denial
 1 Field of the Dead
 1 Cling to Dust
 1 Sunken Hollow
@@ -242,8 +242,8 @@
 1 Nissa, Vastwood Seer
 1 Llanowar Elves
 1 Elvish Mystic
-2 Ancient Stirrings
 2 Blast Zone
+2 Ancient Stirrings
 2 Nissa, Vastwood Seer
 2 Plow Under
 2 Primal Command
