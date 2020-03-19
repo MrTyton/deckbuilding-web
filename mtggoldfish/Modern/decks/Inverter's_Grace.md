@@ -37,6 +37,6 @@
 |                    2|[Sleight of Hand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=25557)      |                    1|[Solemnity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430711)          |
 |                    4|[Wishclaw Talisman](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473072)   |                    1|[Slaughter Pact](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=130704)     |
 |                    1|[Snow-Covered Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121256)  |                    2|[Vendilion Clique](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442065)   |
-|                     |                                                                                               |                    4|[Path to Exile](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220511)      |
 |                     |                                                                                               |                    2|[Chromatic Lantern](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420864)  |
+|                     |                                                                                               |                    4|[Path to Exile](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220511)      |
 

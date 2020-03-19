@@ -70,7 +70,7 @@
 |                    1|[Snow-Covered Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121192) |                    1|[Invisible Stalker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220041)      |
 |                    3|[Become Immense](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386487)      |                    2|[Geist of Saint Traft](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409577)   |
 |                    4|[Become Immense](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386487)      |                    2|[Invisible Stalker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220041)      |
-|                     |                                                                                               |                    3|[Invisible Stalker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220041)      |
 |                     |                                                                                               |                    3|[Force of Vigor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464113)         |
+|                     |                                                                                               |                    3|[Invisible Stalker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220041)      |
 |                     |                                                                                               |                    4|[Invisible Stalker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220041)      |
 

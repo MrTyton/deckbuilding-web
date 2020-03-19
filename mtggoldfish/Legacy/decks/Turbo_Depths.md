@@ -59,6 +59,6 @@
 |                     |                                                                                                 |                    2|[Ground Seal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=451104)         |
 |                     |                                                                                                 |                    4|[Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)      |
 |                     |                                                                                                 |                    2|[Thorn of Amethyst](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=140166)   |
-|                     |                                                                                                 |                    3|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706) |
 |                     |                                                                                                 |                    3|[Thorn of Amethyst](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=140166)   |
+|                     |                                                                                                 |                    3|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706) |
 

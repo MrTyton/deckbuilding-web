@@ -26,10 +26,21 @@
 
 # Other Options
 
-|*n*<sup>th</sup> copy|Maindeck Card|*n*<sup>th</sup> copy|                                          Sideboard Card                                           |
-|---------------------|-------------|--------------------:|---------------------------------------------------------------------------------------------------|
-|                     |             |                    1|[Metallic Rebuke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423706)         |
-|                     |             |                    2|[Hangarback Walker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420600)       |
-|                     |             |                    2|[Metallic Rebuke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423706)         |
-|                     |             |                    1|[Emry, Lurker of the Loch](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473005)|
+|*n*<sup>th</sup> copy|                                           Maindeck Card                                           |*n*<sup>th</sup> copy|                                          Sideboard Card                                           |
+|--------------------:|---------------------------------------------------------------------------------------------------|--------------------:|---------------------------------------------------------------------------------------------------|
+|                    1|Shadowspear                                                                                        |                    1|[Metallic Rebuke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423706)         |
+|                    1|[Hangarback Walker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420600)       |                    2|[Hangarback Walker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420600)       |
+|                    1|[Fatal Push](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423724)              |                    2|[Metallic Rebuke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423706)         |
+|                    1|[Steam Vents](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405109)             |                    1|[Emry, Lurker of the Loch](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473005)|
+|                    1|[Spirebluff Canal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417822)        |                    1|[Rending Volley](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394663)          |
+|                    1|[Shivan Reef](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129731)             |                    1|[Annul](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45976)                    |
+|                    2|[Emry, Lurker of the Loch](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473005)|                    1|[Aethersphere Harvester](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423809)  |
+|                    2|[Spirebluff Canal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417822)        |                    1|[Rampaging Ferocidon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435308)     |
+|                    2|[Steam Vents](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405109)             |                    1|[Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)          |
+|                    3|[Spirebluff Canal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417822)        |                    2|[Rending Volley](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394663)          |
+|                    3|[Steam Vents](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405109)             |                    2|[Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)          |
+|                    3|[Mutavault](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370733)               |                    2|[Aethersphere Harvester](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423809)  |
+|                    3|[Emry, Lurker of the Loch](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473005)|                    2|[Annul](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45976)                    |
+|                     |                                                                                                   |                    2|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)          |
+|                     |                                                                                                   |                    2|[Rampaging Ferocidon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435308)     |
 

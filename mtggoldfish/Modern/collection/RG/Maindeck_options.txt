@@ -1,3 +1,9 @@
+2 Mountain
+3 Mountain
+1 Bloodstained Mire
+1 Arid Mesa
+1 Kiln Fiend
+1 Crash Through
 1 Manamorphose
 1 Copperline Gorge
 1 Mutagenic Growth
@@ -21,7 +27,6 @@
 4 Monastery Swiftspear
 4 Crash Through
 4 Mutagenic Growth
-4 Bloodbraid Elf
 1 Kraul Harpooner
 1 Birds of Paradise
 1 Llanowar Elves
@@ -29,11 +34,6 @@
 2 Kessig Wolf Run
 2 Kraul Harpooner
 3 Kraul Harpooner
-1 Elvish Mystic
-2 Elvish Mystic
-3 Smuggler's Copter
-4 Reality Smasher
-4 Grove of the Burnwillows
 1 Scalding Tarn
 2 Scalding Tarn
 4 Mountain
@@ -104,10 +104,10 @@
 4 Ground Rift
 4 Gut Shot
 1 Blossoming Defense
+1 Dismember
 1 Tarmogoyf
 1 Soul-Scar Mage
 1 Sunbaked Canyon
-1 Dismember
 1 Temur Battle Rage
 1 Become Immense
 2 Become Immense
@@ -125,11 +125,11 @@
 4 Tarmogoyf
 4 Kiln Fiend
 4 Soul-Scar Mage
-1 Obstinate Baloth
+1 Beast Within
 1 Acidic Slime
 1 Oracle of Mul Daya
-1 Beast Within
 1 Scapeshift
+1 Obstinate Baloth
 1 Summoner's Pact
 1 Windswept Heath
 1 Farseek
