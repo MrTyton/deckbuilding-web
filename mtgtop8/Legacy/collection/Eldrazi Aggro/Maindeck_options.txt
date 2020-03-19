@@ -1,32 +1,68 @@
-2 Wastes
+3 City of Traitors
 1 Ulamog, the Ceaseless Hunger
 2 Blast Zone
 1 Warping Wail
 2 Karakas
 3 Blast Zone
 2 Umezawa's Jitte
-1 Mishra's Factory
-2 Mishra's Factory
 1 Phyrexian Revoker
 3 Endbringer
 1 Elvish Spirit Guide
 2 Elvish Spirit Guide
 3 Elvish Spirit Guide
+1 Once Upon a Time
+1 Forest
+2 Once Upon a Time
+3 Once Upon a Time
+1 Mishra's Factory
+2 Mishra's Factory
+1 Eldrazi Displacer
+1 Mox Diamond
+2 Eldrazi Displacer
+2 Mox Diamond
+3 Mox Diamond
+3 Eldrazi Displacer
+4 Eldrazi Displacer
+1 Grim Monolith
+2 Grim Monolith
+1 All Is Dust
+1 Ugin, the Ineffable
 4 Simian Spirit Guide
+1 Karn, the Great Creator
+2 Karn, the Great Creator
+3 Karn, the Great Creator
+4 Karn, the Great Creator
+1 Crystal Vein
+1 Karn, Scion of Urza
+1 Sea Gate Wreckage
+1 Spatial Contortion
+2 Spatial Contortion
+1 Plains
+1 Thorn of Amethyst
+2 Thorn of Amethyst
+2 Plains
+3 Karakas
+3 Plains
+3 Wastes
 1 Chrome Mox
 1 Blood Sun
+1 Snow-Covered Mountain
 1 Eldrazi Obligator
 1 Grove of the Burnwillows
+1 Bonecrusher Giant
 1 Punishing Fire
 1 Mountain
-1 Bonecrusher Giant
 1 Goblin Rabblemaster
+1 Chandra, Awakened Inferno
 2 Chrome Mox
+2 Snow-Covered Mountain
 2 Blood Sun
+2 Bonecrusher Giant
 2 Punishing Fire
 2 Goblin Rabblemaster
 2 Grove of the Burnwillows
 2 Mountain
+3 Snow-Covered Mountain
 3 Blood Sun
 3 Punishing Fire
 3 Grove of the Burnwillows
@@ -37,42 +73,6 @@
 4 City of Traitors
 4 Grove of the Burnwillows
 4 Goblin Rabblemaster
-1 Grim Monolith
-2 Grim Monolith
-1 All Is Dust
-1 Ugin, the Ineffable
-1 Karn, the Great Creator
-2 Karn, the Great Creator
-3 Karn, the Great Creator
-4 Karn, the Great Creator
-1 Eldrazi Displacer
-1 Mox Diamond
-2 Eldrazi Displacer
-2 Mox Diamond
-3 Mox Diamond
-3 Eldrazi Displacer
-4 Eldrazi Displacer
-1 Crystal Vein
-1 Karn, Scion of Urza
-1 Sea Gate Wreckage
-1 Spatial Contortion
-2 Spatial Contortion
-1 Once Upon a Time
-1 Forest
-2 Once Upon a Time
-3 Once Upon a Time
-1 Snow-Covered Mountain
-1 Chandra, Awakened Inferno
-2 Snow-Covered Mountain
-2 Bonecrusher Giant
-3 Snow-Covered Mountain
-1 Plains
-1 Thorn of Amethyst
-2 Thorn of Amethyst
-2 Plains
-3 Karakas
-3 Plains
-3 Wastes
 1 Thespian's Stage
 1 Trinisphere
 1 Cloudpost
@@ -94,16 +94,16 @@
 4 Glimmerpost
 4 Cloudpost
 4 Grim Monolith
-1 Thalia, Heretic Cathar
 1 Scrubland
 1 Snow-Covered Plains
+1 Thalia, Heretic Cathar
 1 Palace Jailer
 1 Containment Priest
 1 Caves of Koilos
 1 Thalia, Guardian of Thraben
 2 Palace Jailer
-2 Thalia, Heretic Cathar
 2 Containment Priest
+2 Thalia, Heretic Cathar
 2 Caves of Koilos
 2 Thalia, Guardian of Thraben
 3 Walking Ballista
@@ -114,11 +114,3 @@
 4 Caves of Koilos
 4 Thalia, Guardian of Thraben
 4 Walking Ballista
-1 Hazoret the Fervent
-1 Neheb, Dreadhorde Champion
-1 Fiery Confluence
-2 Fiery Confluence
-3 Chrome Mox
-4 Mountain
-5 Mountain
-6 Mountain

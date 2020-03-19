@@ -30,12 +30,12 @@
 
 |*n*<sup>th</sup> copy|                                       Maindeck Card                                       |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
 |--------------------:|-------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
-|                    1|[Misty Rainforest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405102)|                    1|[Painful Truths](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401981)     |
-|                    1|[Preordain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405347)       |                    1|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)|
-|                    1|[Scalding Tarn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405107)   |                    1|[Red Elemental Blast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=814)   |
-|                    2|[Scalding Tarn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405107)   |                    1|[Mystic Sanctuary](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473209)   |
-|                    2|[Young Pyromancer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426592)|                    2|[Painful Truths](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401981)     |
-|                    2|[Preordain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405347)       |                    2|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)|
+|                    1|[Misty Rainforest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405102)|                    1|[Mystic Sanctuary](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473209)   |
+|                    1|[Preordain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405347)       |                    1|[Painful Truths](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401981)     |
+|                    1|[Scalding Tarn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405107)   |                    1|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)|
+|                    2|[Scalding Tarn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405107)   |                    1|[Red Elemental Blast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=814)   |
+|                    2|[Preordain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405347)       |                    2|[Painful Truths](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401981)     |
+|                    2|[Young Pyromancer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426592)|                    2|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)|
 |                    2|[Misty Rainforest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405102)|                    3|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)|
 |                    3|[Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)    |                    4|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)|
 
