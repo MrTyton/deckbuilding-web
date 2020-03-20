@@ -2,44 +2,44 @@
 3 Yavimaya Coast
 9 Forest
 4 Llanowar Elves
+1 Island
+1 Brazen Borrower
+2 Brazen Borrower
 1 Stubborn Denial
 2 Stubborn Denial
 3 Lovestruck Beast
 3 Stubborn Denial
 4 Lovestruck Beast
 4 Yavimaya Coast
-1 Island
 4 Elvish Mystic
-1 Brazen Borrower
-2 Brazen Borrower
+3 Brazen Borrower
 1 Hashep Oasis
 2 Hashep Oasis
-4 Stubborn Denial
-3 Brazen Borrower
 3 Hashep Oasis
-4 Brazen Borrower
+4 Stubborn Denial
 1 Ipnu Rivulet
 2 Ipnu Rivulet
-2 Island
 1 Blast Zone
 1 Thought-Knot Seer
 1 Reality Smasher
 2 Thought-Knot Seer
-2 Blast Zone
 2 Reality Smasher
 3 Ipnu Rivulet
 3 Thought-Knot Seer
 3 Reality Smasher
 4 Thought-Knot Seer
 4 Reality Smasher
+4 Brazen Borrower
+2 Island
+2 Blast Zone
 4 Nykthos, Shrine to Nyx
 1 Hinterland Harbor
 2 Hinterland Harbor
+1 Vivien, Arkbow Ranger
+2 Vivien, Arkbow Ranger
+3 Heart of Kiran
+3 Vivien, Arkbow Ranger
 1 Rhonas the Indomitable
-1 Steel Leaf Champion
-2 Steel Leaf Champion
-3 Steel Leaf Champion
-4 Steel Leaf Champion
 1 Uro, Titan of Nature's Wrath
 1 Satyr Wayfinder
 2 Uro, Titan of Nature's Wrath
@@ -48,13 +48,12 @@
 3 Satyr Wayfinder
 4 Satyr Wayfinder
 4 Uro, Titan of Nature's Wrath
-1 Vivien, Arkbow Ranger
-2 Vivien, Arkbow Ranger
-3 Heart of Kiran
-3 Vivien, Arkbow Ranger
+1 Steel Leaf Champion
 1 Questing Beast
+2 Steel Leaf Champion
 2 Rhonas the Indomitable
-1 Yorvo, Lord of Garenbrig
+3 Steel Leaf Champion
+4 Steel Leaf Champion
 1 Emrakul, the Promised End
 1 Voracious Hydra
 2 Voracious Hydra
@@ -78,14 +77,10 @@
 3 Growth Spiral
 4 Growth Spiral
 1 Fabled Passage
-1 Nylea, God of the Hunt
 1 Nissa, Voice of Zendikar
+1 Nylea, God of the Hunt
 2 Questing Beast
 3 Questing Beast
-1 Ghalta, Primal Hunger
-2 Ghalta, Primal Hunger
-2 Yorvo, Lord of Garenbrig
-3 Ghalta, Primal Hunger
 1 Quasiduplicate
 1 Risen Reef
 1 Leafkin Druid
@@ -97,6 +92,8 @@
 3 Risen Reef
 3 Leafkin Druid
 4 Risen Reef
+4 Hashep Oasis
+1 Yorvo, Lord of Garenbrig
 1 Collected Company
 2 Collected Company
 3 Collected Company
@@ -125,11 +122,11 @@
 3 Castle Garenbrig
 3 Gather the Pack
 3 Vessel of Nascency
-3 Emrakul, the Promised End
 3 Tamiyo, Collector of Tales
+3 Emrakul, the Promised End
 4 Castle Garenbrig
-4 Emrakul, the Promised End
 4 Vessel of Nascency
+4 Emrakul, the Promised End
 1 Arboreal Grazer
 1 Sea Gate Wreckage
 1 Shrine of the Forsaken Gods
@@ -151,9 +148,10 @@
 4 Walking Ballista
 4 Courser of Kruphix
 1 Dig Through Time
-1 Frilled Mystic
 1 Temple of Mystery
 1 Torrential Gearhulk
+1 Essence Flux
+1 Frilled Mystic
 1 Essence Scatter
 1 Negate
 1 Admiral's Order
@@ -162,7 +160,6 @@
 1 Opt
 1 Brineborn Cutthroat
 1 Mystical Dispute
-1 Essence Flux
 2 Temple of Mystery
 2 Frilled Mystic
 2 Dig Through Time
@@ -173,9 +170,9 @@
 2 Mystical Dispute
 2 Essence Flux
 2 Opt
+3 Temple of Mystery
 3 Brineborn Cutthroat
 3 Nightpack Ambusher
-3 Temple of Mystery
 3 Essence Scatter
 3 Admiral's Order
 3 Opt

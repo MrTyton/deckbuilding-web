@@ -144,8 +144,8 @@
 2 Spawn of Mayhem
 3 Isolated Chapel
 1 Anguished Unmaking
-1 Thalia, Heretic Cathar
 1 Glory-Bound Initiate
+1 Thalia, Heretic Cathar
 2 Glory-Bound Initiate
 1 Hinterland Harbor
 1 Ashiok, Dream Render
@@ -222,43 +222,43 @@
 1 Wild Slash
 2 Wild Slash
 3 Wild Slash
+1 Wizard's Lightning
 1 Wandering Fumarole
 1 Spirebluff Canal
-1 Soul-Scar Mage
+1 Dreadhorde Arcanist
 1 Young Pyromancer
 1 Opt
-1 Wizard's Lightning
+1 Soul-Scar Mage
 1 Wizard's Retort
-1 Dreadhorde Arcanist
+2 Wizard's Lightning
 2 Wandering Fumarole
 2 Spirebluff Canal
-2 Soul-Scar Mage
-2 Wizard's Retort
 2 Dreadhorde Arcanist
+2 Wizard's Retort
+2 Soul-Scar Mage
 2 Opt
-2 Wizard's Lightning
 2 Young Pyromancer
-3 Spirebluff Canal
-3 Soul-Scar Mage
 3 Wizard's Lightning
+3 Spirebluff Canal
+3 Dreadhorde Arcanist
 3 Wandering Fumarole
 3 Young Pyromancer
 3 Wizard's Retort
-3 Dreadhorde Arcanist
 3 Opt
-4 Dreadhorde Arcanist
-4 Soul-Scar Mage
-4 Young Pyromancer
+3 Soul-Scar Mage
 4 Wizard's Lightning
-4 Opt
 4 Wild Slash
+4 Dreadhorde Arcanist
+4 Young Pyromancer
+4 Soul-Scar Mage
+4 Opt
 4 Wandering Fumarole
 4 Wizard's Retort
 4 Spirebluff Canal
 3 Driven / Despair
 4 Blooming Marsh
-1 Dragonlord Kolaghan
 1 Dragonlord Silumgar
+1 Dragonlord Kolaghan
 1 Kroxa, Titan of Death's Hunger
 1 Drown in the Loch
 1 Fetid Pools
@@ -297,23 +297,23 @@
 1 Sacred Foundry
 2 Sacred Foundry
 3 Sacred Foundry
-1 Pelt Collector
 1 Atarka's Command
 1 Bronzehide Lion
 1 Questing Beast
+1 Pelt Collector
 1 Ghor-Clan Rampager
 1 Gruul Spellbreaker
 1 Boros Charm
 1 Stomping Ground
 1 Fleecemane Lion
 1 Rootbound Crag
-2 Ghor-Clan Rampager
 2 Pelt Collector
 2 Atarka's Command
 2 Stomping Ground
 2 Bronzehide Lion
 2 Questing Beast
 2 Gruul Spellbreaker
+2 Ghor-Clan Rampager
 2 Fleecemane Lion
 2 Boros Charm
 2 Rootbound Crag
@@ -370,14 +370,13 @@
 3 Toolcraft Exemplar
 3 Servo Exhibition
 3 Raise the Alarm
-4 Battlefield Forge
 4 Reckless Bushwhacker
+4 Battlefield Forge
 4 Inspiring Vantage
 4 Legion's Landing
 4 Benalish Marshal
 4 Raise the Alarm
 4 Toolcraft Exemplar
-1 Dauntless Bodyguard
 1 Unclaimed Territory
 1 Kitesail Freebooter
 1 Glint-Sleeve Siphoner
@@ -385,8 +384,8 @@
 1 Tajic, Legion's Edge
 1 Mantis Rider
 1 Thalia's Lieutenant
+1 Dauntless Bodyguard
 1 Rogue Refiner
-2 Dauntless Bodyguard
 2 Kitesail Freebooter
 2 Unclaimed Territory
 2 Glint-Sleeve Siphoner
@@ -394,11 +393,12 @@
 2 Rogue Refiner
 2 Aether Hub
 2 Tajic, Legion's Edge
+2 Dauntless Bodyguard
 2 Mantis Rider
 3 Rogue Refiner
 3 Reflector Mage
-3 Unclaimed Territory
 3 Kitesail Freebooter
+3 Unclaimed Territory
 3 Aether Hub
 3 Thalia's Lieutenant
 3 Mantis Rider
@@ -409,13 +409,13 @@
 4 Thalia's Lieutenant
 4 Mantis Rider
 1 Wolfwillow Haven
-1 Temple of Plenty
 1 Sigil of the Empty Throne
 1 Gideon's Intervention
-1 Seal Away
 1 Calix, Destiny's Hand
 1 Courser of Kruphix
+1 Seal Away
 1 Sphere of Safety
+1 Temple of Plenty
 1 Banishing Light
 1 Setessan Champion
 1 Eidolon of Blossoms
@@ -469,13 +469,13 @@
 4 Mountain
 5 Mountain
 5 Swamp
-6 Swamp
 6 Mountain
+6 Swamp
 7 Mountain
 8 Mountain
 1 Merfolk Secretkeeper
-1 Tasigur, the Golden Fang
 1 Tome Scour
+1 Tasigur, the Golden Fang
 1 Radical Idea
 1 Stitchwing Skaab
 1 Sleep of the Dead

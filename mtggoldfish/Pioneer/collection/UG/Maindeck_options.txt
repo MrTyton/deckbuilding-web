@@ -1,58 +1,68 @@
-1 Yavimaya Coast
+2 Ipnu Rivulet
+3 Ipnu Rivulet
+4 Ipnu Rivulet
 1 World Breaker
-1 Ugin, the Spirit Dragon
-1 Fabled Passage
-1 Castle Garenbrig
-1 Forest
-2 Forest
-2 Castle Garenbrig
-2 Ugin, the Spirit Dragon
-2 Fabled Passage
-2 Yavimaya Coast
-3 Yavimaya Coast
-3 Forest
-4 Yavimaya Coast
-4 Forest
-5 Forest
-1 Shrine of the Forsaken Gods
-1 Growth Spiral
-1 Emrakul, the Promised End
-1 Lumbering Falls
-1 Ulamog, the Ceaseless Hunger
-1 Arboreal Grazer
+1 Castle Vantress
+2 Temple of Mystery
+2 Island
+1 Brazen Borrower
+1 Nykthos, Shrine to Nyx
+1 Thassa's Oracle
+1 Gadwick, the Wizened
+1 Botanical Sanctum
+1 Merfolk Trickster
+1 Harbinger of the Tides
+2 Brazen Borrower
+2 Nykthos, Shrine to Nyx
+2 Gadwick, the Wizened
+2 Thassa's Oracle
+2 Merfolk Trickster
+2 Botanical Sanctum
+3 Brazen Borrower
+3 Gadwick, the Wizened
+3 Thassa's Oracle
+3 Botanical Sanctum
+3 Merfolk Trickster
+3 Island
+4 Gadwick, the Wizened
+4 Thassa's Oracle
+4 Botanical Sanctum
+4 Island
+4 Merfolk Trickster
+5 Island
+6 Island
+1 Nissa, Vastwood Seer
 1 Kozilek, the Great Distortion
-1 Sanctum of Ugin
-1 Skyline Cascade
-1 Mage-Ring Network
-1 Unexpected Results
-1 Hour of Promise
-2 Ulamog, the Ceaseless Hunger
-2 Growth Spiral
-2 Emrakul, the Promised End
-2 Skyline Cascade
-2 Hour of Promise
-2 Mage-Ring Network
-2 Unexpected Results
-2 Arboreal Grazer
-2 Shrine of the Forsaken Gods
-3 Ulamog, the Ceaseless Hunger
-3 Mage-Ring Network
-3 Arboreal Grazer
-3 Hour of Promise
-3 Fabled Passage
-3 Growth Spiral
-3 Shrine of the Forsaken Gods
-3 Unexpected Results
-3 Emrakul, the Promised End
-3 Ugin, the Spirit Dragon
-4 Ulamog, the Ceaseless Hunger
-4 Fabled Passage
-4 Emrakul, the Promised End
-4 Ugin, the Spirit Dragon
-4 Unexpected Results
-4 Hour of Promise
-4 Growth Spiral
-4 Shrine of the Forsaken Gods
+1 Hashep Oasis
+1 Desert of the Indomitable
+2 Desert of the Indomitable
+2 Hashep Oasis
+3 Hashep Oasis
+3 Temple of Mystery
+4 Hashep Oasis
+1 Mutavault
+1 Unsummon
+1 Risen Reef
+1 Nivmagus Elemental
+1 Hinterland Harbor
+1 Opt
+1 Mystical Dispute
+1 Master of Waves
+1 Essence Flux
+1 Wizard's Retort
+2 Mutavault
+2 Master of Waves
+2 Risen Reef
+2 Wizard's Retort
+2 Opt
+3 Master of Waves
+3 Risen Reef
+3 Wizard's Retort
+3 Opt
+4 Brazen Borrower
+4 Risen Reef
+4 Master of Waves
+4 Opt
 1 Fblthp, the Lost
 1 Leyline of Anticipation
 1 Thassa, God of the Sea
@@ -61,8 +71,6 @@
 1 Collected Company
 1 Callaphe, Beloved of the Sea
 1 Spectral Sailor
-1 Temple of Mystery
-2 Temple of Mystery
 2 Leyline of Anticipation
 2 Ashiok's Erasure
 2 Thassa, God of the Sea
@@ -72,14 +80,14 @@
 3 Nykthos, Shrine to Nyx
 3 Leyline of Anticipation
 3 Thassa, God of the Sea
-3 Callaphe, Beloved of the Sea
 3 Collected Company
+3 Callaphe, Beloved of the Sea
 4 Nykthos, Shrine to Nyx
 4 Leyline of Anticipation
 4 Collected Company
 7 Island
-1 Grapple with the Past
 1 Elvish Mystic
+1 Grapple with the Past
 1 Satyr Wayfinder
 1 Nissa, Who Shakes the World
 1 Nissa's Pilgrimage
@@ -91,6 +99,7 @@
 1 Gather the Pack
 2 Elvish Mystic
 2 Nissa's Pilgrimage
+2 Uro, Titan of Nature's Wrath
 2 World Breaker
 2 Grapple with the Past
 2 Nissa, Who Shakes the World
@@ -98,7 +107,6 @@
 2 Gather the Pack
 2 Cavalier of Thorns
 2 Llanowar Elves
-2 Uro, Titan of Nature's Wrath
 3 Llanowar Elves
 3 Cavalier of Thorns
 3 Elvish Mystic
@@ -106,8 +114,8 @@
 3 Uro, Titan of Nature's Wrath
 3 Tireless Tracker
 4 Llanowar Elves
-4 Elvish Mystic
 4 Cavalier of Thorns
+4 Elvish Mystic
 4 Uro, Titan of Nature's Wrath
 6 Forest
 7 Forest

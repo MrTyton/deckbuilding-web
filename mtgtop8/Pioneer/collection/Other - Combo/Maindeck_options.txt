@@ -1,13 +1,3 @@
-4 Ulamog, the Ceaseless Hunger
-2 Breeding Pool
-2 Ugin, the Spirit Dragon
-4 Forest
-2 Emrakul, the Promised End
-3 Steam Vents
-4 Steam Vents
-1 Temple Garden
-1 Hallowed Fountain
-1 Teferi, Time Raveler
 2 Teferi, Time Raveler
 2 Hallowed Fountain
 3 Teferi, Time Raveler
@@ -26,10 +16,9 @@
 1 Terrarion
 1 Diligent Excavator
 1 Kethis, the Hidden Hand
-2 Urborg, Tomb of Yawgmoth
 2 Blooming Marsh
-2 Emry, Lurker of the Loch
 2 Mox Amber
+2 Emry, Lurker of the Loch
 2 Mana Confluence
 2 Lazav, the Multifarious
 2 Kethis, the Hidden Hand
@@ -49,12 +38,36 @@
 4 Diligent Excavator
 4 Hope of Ghirapur
 4 Kethis, the Hidden Hand
+1 Rootbound Crag
+2 Shrine of the Forsaken Gods
+3 Golos, Tireless Pilgrim
+4 Golos, Tireless Pilgrim
+4 Ulamog, the Ceaseless Hunger
+2 Ugin, the Spirit Dragon
+4 Forest
+2 Emrakul, the Promised End
+3 Steam Vents
+4 Steam Vents
+2 Temple Garden
+4 Blooming Marsh
+1 Godless Shrine
+4 Lazav, the Multifarious
+2 Urborg, Tomb of Yawgmoth
 2 Rootbound Crag
 3 Shrine of the Forsaken Gods
 1 Plains
 1 Ugin, the Ineffable
 1 Hour of Promise
 1 Radiant Fountain
+1 Watery Grave
+1 Vraska, Golgari Queen
+1 Uro, Titan of Nature's Wrath
+1 Gilded Goose
+1 Tamiyo, Collector of Tales
+2 Gilded Goose
+2 Uro, Titan of Nature's Wrath
+2 Vraska, Golgari Queen
+3 Gilded Goose
 1 World Breaker
 1 Kozilek's Return
 1 Glassblower's Puzzleknot
@@ -64,7 +77,6 @@
 3 Kozilek's Return
 3 Glassblower's Puzzleknot
 4 Kozilek's Return
-1 Godless Shrine
 1 Teshar, Ancestor's Apostle
 1 Wishclaw Talisman
 1 Concealed Courtyard
@@ -76,7 +88,6 @@
 2 Liliana, the Last Hope
 3 Terrarion
 4 Terrarion
-4 Lazav, the Multifarious
 1 Spirebluff Canal
 1 Nahiri, the Harbinger
 1 Tireless Tracker
@@ -87,13 +98,11 @@
 1 Once Upon a Time
 1 Oko, Thief of Crowns
 1 Oath of Nissa
-2 Temple Garden
 2 Once Upon a Time
 2 Oko, Thief of Crowns
 2 Oath of Nissa
 3 Once Upon a Time
 3 Oath of Nissa
-4 Blooming Marsh
 4 Oath of Nissa
 4 Once Upon a Time
 1 Walking Ballista
@@ -130,8 +139,8 @@
 2 Blast Zone
 2 Zhalfirin Void
 2 Fountain of Renewal
-3 Stonecoil Serpent
 3 Blast Zone
+3 Stonecoil Serpent
 3 Mutavault
 3 Wastes
 3 Karn, the Great Creator
@@ -143,12 +152,12 @@
 3 Fountain of Renewal
 3 Walking Ballista
 3 Scrap Trawler
+4 Shrine of the Forsaken Gods
 4 Stonecoil Serpent
 4 Mutavault
 4 Scrap Trawler
 4 Zhalfirin Void
 4 Fountain of Renewal
-4 Shrine of the Forsaken Gods
 4 Karn, Scion of Urza
 1 Vessel of Nascency
 1 Hour of Devastation
@@ -162,9 +171,9 @@
 1 Day's Undoing
 1 Narset, Parter of Veils
 2 Geier Reach Sanitarium
+2 Day's Undoing
 2 Narset, Parter of Veils
 2 Island
-2 Day's Undoing
 3 Narset, Parter of Veils
 3 Day's Undoing
 3 Island
@@ -173,6 +182,7 @@
 5 Island
 1 Blessed Alliance
 1 Azorius Charm
+1 Myth Realized
 1 Supreme Verdict
 1 Settle the Wreckage
 1 Teferi, Hero of Dominaria
@@ -181,16 +191,15 @@
 1 Glacial Fortress
 1 Dig Through Time
 1 Port Town
-1 Myth Realized
 2 Port Town
 2 Azorius Charm
 2 Teferi, Hero of Dominaria
+2 Myth Realized
 2 Supreme Verdict
 2 Blessed Alliance
 2 Plains
 2 Dig Through Time
 2 Search for Azcanta
-2 Myth Realized
 2 Opt
 2 Glacial Fortress
 3 Port Town
@@ -202,11 +211,11 @@
 3 Opt
 4 Supreme Verdict
 4 Port Town
+4 Myth Realized
+4 Azorius Charm
 4 Glacial Fortress
 4 Opt
 4 Plains
-4 Azorius Charm
-4 Myth Realized
 5 Plains
 1 Rosethorn Acolyte
 1 Bonecrusher Giant
@@ -214,8 +223,8 @@
 1 Kiora, Behemoth Beckoner
 1 Captain Lannery Storm
 1 Possibility Storm
-1 Enter the Infinite
 1 Borborygmos Enraged
+1 Enter the Infinite
 1 Llanowar Elves
 1 Elvish Mystic
 1 Lovestruck Beast
@@ -256,7 +265,6 @@
 7 Forest
 1 Drowned Catacomb
 1 Sunken Hollow
-1 Watery Grave
 1 Swamp
 1 Drown in the Loch
 1 Wizard's Retort

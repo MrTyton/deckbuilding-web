@@ -120,8 +120,8 @@
 1 Yavimaya Coast
 2 Arboreal Grazer
 2 Yavimaya Coast
-3 Yavimaya Coast
 3 Castle Garenbrig
+3 Yavimaya Coast
 3 Cavalier of Thorns
 4 Yavimaya Coast
 4 Satyr Wayfinder
@@ -190,8 +190,8 @@
 1 Narset, Parter of Veils
 2 Teferi, Hero of Dominaria
 1 Field of Ruin
-1 Ipnu Rivulet
 1 Nissa, Who Shakes the World
+1 Ipnu Rivulet
 2 Ipnu Rivulet
 2 Ugin, the Spirit Dragon
 2 Nissa, Who Shakes the World
@@ -223,9 +223,9 @@
 1 Jace, Vryn's Prodigy
 1 Sphinx's Revelation
 1 Ojutai's Command
+1 Ashiok, Nightmare Muse
 1 Drown in the Loch
 1 Cast Down
-1 Ashiok, Nightmare Muse
 2 Absorb
 2 Thought Erasure
 2 Drown in the Loch
@@ -260,20 +260,68 @@
 3 Growth Spiral
 4 Growth Spiral
 4 Castle Garenbrig
+1 Kaya's Wrath
+1 Torment of Hailfire
+1 Sigil of the Empty Throne
+2 Kaya's Wrath
+3 Kaya's Wrath
+4 Cast Out
+4 Kaya's Wrath
 1 Concealed Courtyard
 1 Temple of Deceit
 1 The Eldest Reborn
 1 Temple of Enlightenment
-2 Temple of Deceit
 2 Temple of Enlightenment
 2 Search for Azcanta
 2 Concealed Courtyard
+2 Temple of Deceit
 4 Oath of Kaya
+1 Radiant Fountain
+1 Collected Company
+1 Fairgrounds Warden
+1 Elvish Visionary
+1 Charming Prince
+1 Alseid of Life's Bounty
+1 Heliod, Sun-Crowned
+1 Selfless Spirit
+1 Anafenza, Kin-Tree Spirit
+1 Chord of Calling
+1 Knight of Autumn
+1 Elvish Mystic
+1 Gilded Goose
+1 Sunpetal Grove
+1 Voice of Resurgence
+1 Fortified Village
+1 Temple Garden
+1 Militia Bugler
+2 Radiant Fountain
+2 Collected Company
+2 Militia Bugler
+2 Chord of Calling
+2 Heliod, Sun-Crowned
+2 Fortified Village
+2 Temple Garden
+2 Voice of Resurgence
+2 Elvish Mystic
+2 Elvish Visionary
+2 Sunpetal Grove
+3 Collected Company
+3 Militia Bugler
+3 Heliod, Sun-Crowned
+3 Elvish Mystic
+3 Sunpetal Grove
+3 Fortified Village
+3 Temple Garden
+4 Walking Ballista
+4 Collected Company
+4 Temple Garden
+4 Militia Bugler
+4 Heliod, Sun-Crowned
 1 Thassa's Intervention
 1 Nicol Bolas, the Ravager
 1 Syncopate
-1 Ashiok, Nightmare Weaver
 1 Radiant Flames
+1 Ashiok, Nightmare Weaver
 1 Sulfur Falls
 1 Nicol Bolas, Dragon-God
 2 Sulfur Falls
@@ -287,8 +335,8 @@
 2 Kalitas, Traitor of Ghet
 3 Nicol Bolas, the Ravager
 3 Murderous Rider
-3 Dreadbore
 3 Syncopate
+3 Dreadbore
 3 Thassa's Intervention
 4 Nicol Bolas, the Ravager
 4 Dreadbore
@@ -315,11 +363,11 @@
 4 Elder Deep-Fiend
 4 Kozilek's Return
 1 Rakdos's Return
+1 Angrath, the Flame-Chained
 1 Pharika's Libation
 1 Rekindling Phoenix
 1 Ramunap Ruins
 1 Canyon Slough
-1 Angrath, the Flame-Chained
 2 Urborg, Tomb of Yawgmoth
 2 Canyon Slough
 2 Rakdos's Return
@@ -331,8 +379,8 @@
 3 Castle Locthwain
 3 Ramunap Ruins
 4 Temple of Malice
-4 Rekindling Phoenix
 4 Kroxa, Titan of Death's Hunger
+4 Rekindling Phoenix
 4 Ramunap Ruins
 1 Settle the Wreckage
 1 Abrade
@@ -341,54 +389,6 @@
 3 Haktos the Unscarred
 4 Haktos the Unscarred
 4 Clifftop Retreat
-1 Kaya's Wrath
-1 Torment of Hailfire
-1 Sigil of the Empty Throne
-2 Kaya's Wrath
-3 Kaya's Wrath
-4 Kaya's Wrath
-4 Cast Out
-1 Radiant Fountain
-1 Collected Company
-1 Fairgrounds Warden
-1 Elvish Visionary
-1 Charming Prince
-1 Selfless Spirit
-1 Anafenza, Kin-Tree Spirit
-1 Chord of Calling
-1 Knight of Autumn
-1 Elvish Mystic
-1 Gilded Goose
-1 Sunpetal Grove
-1 Voice of Resurgence
-1 Heliod, Sun-Crowned
-1 Fortified Village
-1 Temple Garden
-1 Alseid of Life's Bounty
-1 Militia Bugler
-2 Radiant Fountain
-2 Collected Company
-2 Chord of Calling
-2 Fortified Village
-2 Temple Garden
-2 Militia Bugler
-2 Voice of Resurgence
-2 Heliod, Sun-Crowned
-2 Elvish Mystic
-2 Elvish Visionary
-2 Sunpetal Grove
-3 Collected Company
-3 Heliod, Sun-Crowned
-3 Elvish Mystic
-3 Sunpetal Grove
-3 Fortified Village
-3 Temple Garden
-3 Militia Bugler
-4 Walking Ballista
-4 Collected Company
-4 Temple Garden
-4 Militia Bugler
-4 Heliod, Sun-Crowned
 1 Shrine of the Forsaken Gods
 2 Emrakul, the Promised End
 3 Hinterland Harbor
@@ -405,11 +405,11 @@
 1 Assassin's Trophy
 2 Woodland Cemetery
 2 Tireless Tracker
+2 Hissing Quagmire
 2 Assassin's Trophy
 2 Grim Flayer
 2 Field of Ruin
 2 Overgrown Tomb
-2 Hissing Quagmire
 3 Woodland Cemetery
 3 Grim Flayer
 3 Overgrown Tomb
@@ -441,10 +441,10 @@
 4 Thought-Knot Seer
 4 Llanowar Elves
 1 Gifted Aetherborn
+1 Liliana's Triumph
 1 Ob Nixilis Reignited
 1 Liliana, Dreadhorde General
 1 Liliana, Death's Majesty
-1 Liliana's Triumph
 1 Ritual of Soot
 1 Plaguecrafter
 1 Oath of Liliana
