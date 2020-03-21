@@ -65,40 +65,11 @@
 2 Eldrazi Obligator
 3 Eldrazi Obligator
 3 Glorybringer
-1 Dragonskull Summit
-1 Blood Crypt
-1 Foreboding Ruins
-1 Karn, Scion of Urza
-1 Fanatical Firebrand
-1 Heart of Kiran
-1 Scrapheap Scrounger
-2 Heart of Kiran
-2 Blood Crypt
-2 Dragonskull Summit
-2 Fanatical Firebrand
-2 Foreboding Ruins
-2 Karn, Scion of Urza
-2 Scrapheap Scrounger
-3 Blood Crypt
-3 Dragonskull Summit
-3 Heart of Kiran
-3 Foreboding Ruins
-3 Fanatical Firebrand
-3 Scrapheap Scrounger
-4 Scrapheap Scrounger
-4 Blood Crypt
-4 Dragonskull Summit
-4 Fanatical Firebrand
-1 Skewer the Critics
 1 Rakdos Cackler
+1 Skewer the Critics
 2 Skewer the Critics
 3 Skewer the Critics
 4 Skewer the Critics
-1 Bomat Courier
-1 Experimental Frenzy
-2 Bomat Courier
-3 Bomat Courier
-4 Bomat Courier
 1 Reckless Bushwhacker
 1 Skirk Prospector
 1 Stoke the Flames
@@ -115,6 +86,11 @@
 3 Reckless Bushwhacker
 4 Skirk Prospector
 4 Goblin Ringleader
+1 Bomat Courier
+1 Experimental Frenzy
+2 Bomat Courier
+3 Bomat Courier
+4 Bomat Courier
 1 Burning-Tree Emissary
 1 Leyline of Combustion
 1 Nykthos, Shrine to Nyx
@@ -123,15 +99,39 @@
 2 Leyline of Combustion
 2 Nykthos, Shrine to Nyx
 2 Fanatic of Mogis
-3 Anax, Hardened in the Forge
 3 Burning-Tree Emissary
 3 Leyline of Combustion
 3 Nykthos, Shrine to Nyx
+3 Anax, Hardened in the Forge
 3 Fanatic of Mogis
 4 Burning-Tree Emissary
 4 Leyline of Combustion
 4 Nykthos, Shrine to Nyx
 4 Fanatic of Mogis
+1 Dragonskull Summit
+1 Blood Crypt
+1 Karn, Scion of Urza
+1 Fanatical Firebrand
+1 Heart of Kiran
+1 Foreboding Ruins
+1 Scrapheap Scrounger
+2 Heart of Kiran
+2 Blood Crypt
+2 Dragonskull Summit
+2 Fanatical Firebrand
+2 Karn, Scion of Urza
+2 Scrapheap Scrounger
+2 Foreboding Ruins
+3 Blood Crypt
+3 Dragonskull Summit
+3 Heart of Kiran
+3 Fanatical Firebrand
+3 Scrapheap Scrounger
+3 Foreboding Ruins
+4 Scrapheap Scrounger
+4 Blood Crypt
+4 Dragonskull Summit
+4 Fanatical Firebrand
 1 Dragon Fodder
 1 Frenzied Goblin
 2 Dragon Fodder
@@ -147,23 +147,23 @@
 4 Frenzied Goblin
 1 Stomping Ground
 1 Blistercoil Weird
-1 Rootbound Crag
-1 Exquisite Firecraft
 1 Dreadhorde Arcanist
+1 Rootbound Crag
 1 Atarka's Command
+1 Exquisite Firecraft
 1 Game Trail
 2 Shock
 2 Blistercoil Weird
 2 Stomping Ground
+2 Dreadhorde Arcanist
 2 Rootbound Crag
 2 Atarka's Command
-2 Dreadhorde Arcanist
 2 Game Trail
 3 Shock
 3 Blistercoil Weird
 3 Stomping Ground
-3 Rootbound Crag
 3 Dreadhorde Arcanist
+3 Rootbound Crag
 3 Atarka's Command
 4 Shock
 4 Stomping Ground
