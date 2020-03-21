@@ -56,20 +56,20 @@
 2 Irrigated Farmland
 2 Clifftop Retreat
 3 Izzet Charm
+3 Sulfur Falls
 3 Censor
 3 Detention Sphere
 3 Supreme Verdict
-3 Sulfur Falls
-4 Sulfur Falls
 4 Izzet Charm
 4 Censor
-1 Prime Speaker Vannifar
-1 Renegade Rallier
+4 Sulfur Falls
 1 Thalia's Lancers
+1 Renegade Rallier
+1 Prime Speaker Vannifar
 1 Corridor Monitor
 2 Prime Speaker Vannifar
-2 Renegade Rallier
 2 Corridor Monitor
+2 Renegade Rallier
 3 Prime Speaker Vannifar
 4 Temple Garden
 4 Inspiring Vantage
@@ -107,8 +107,8 @@
 1 Ojutai's Command
 1 Bring to Light
 1 Niv-Mizzet Reborn
-1 Kolaghan's Command
 1 Dreadbore
+1 Kolaghan's Command
 1 Knight of Autumn
 1 Abrupt Decay
 1 Unmoored Ego
@@ -129,24 +129,30 @@
 1 Shock
 2 Shock
 4 Elvish Mystic
-1 Thrill of Possibility
-1 Lava Coil
-1 Anticipate
-1 Fiery Impulse
-2 Thrill of Possibility
-2 Spell Pierce
-2 Lava Coil
-2 Anticipate
-2 Fiery Impulse
-3 Lava Coil
-3 Fiery Impulse
-3 Thrill of Possibility
-3 Anticipate
-3 Spirebluff Canal
-4 Spirebluff Canal
-4 Dig Through Time
-4 Fiery Impulse
-4 Anticipate
+1 Tithe Taker
+1 Cloudblazer
+1 Thraben Inspector
+1 Charming Prince
+1 Field of Ruin
+1 Elite Guardmage
+1 Dusk / Dawn
+2 Tithe Taker
+2 Cloudblazer
+2 Charming Prince
+2 Elite Guardmage
+2 Thraben Inspector
+2 Field of Ruin
+2 Plains
+2 Dusk / Dawn
+3 Tithe Taker
+3 Charming Prince
+3 Elite Guardmage
+3 Thraben Inspector
+3 Cloudblazer
+3 Deafening Clarion
+4 Tithe Taker
+4 Thraben Inspector
+4 Charming Prince
 1 Golos, Tireless Pilgrim
 1 Eldritch Evolution
 1 Risen Reef
@@ -165,6 +171,24 @@
 3 Arboreal Grazer
 4 Risen Reef
 4 Voice of Resurgence
+1 Thrill of Possibility
+1 Anticipate
+1 Lava Coil
+1 Fiery Impulse
+2 Thrill of Possibility
+2 Spell Pierce
+2 Anticipate
+2 Lava Coil
+2 Fiery Impulse
+3 Lava Coil
+3 Fiery Impulse
+3 Thrill of Possibility
+3 Anticipate
+3 Spirebluff Canal
+4 Dig Through Time
+4 Fiery Impulse
+4 Anticipate
+4 Spirebluff Canal
 1 Languish
 1 Drowned Catacomb
 1 Urborg, Tomb of Yawgmoth
@@ -194,27 +218,3 @@
 3 Watery Grave
 4 Thoughtseize
 4 Watery Grave
-1 Tithe Taker
-1 Cloudblazer
-1 Charming Prince
-1 Field of Ruin
-1 Elite Guardmage
-1 Thraben Inspector
-1 Dusk / Dawn
-2 Tithe Taker
-2 Cloudblazer
-2 Charming Prince
-2 Elite Guardmage
-2 Field of Ruin
-2 Plains
-2 Dusk / Dawn
-2 Thraben Inspector
-3 Tithe Taker
-3 Charming Prince
-3 Elite Guardmage
-3 Cloudblazer
-3 Deafening Clarion
-3 Thraben Inspector
-4 Tithe Taker
-4 Charming Prince
-4 Thraben Inspector

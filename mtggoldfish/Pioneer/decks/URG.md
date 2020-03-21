@@ -85,6 +85,6 @@
 |                    3|[Castle Garenbrig](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473202)          |                     |                                                                                                      |
 |                    3|[Sylvan Caryatid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373624)           |                     |                                                                                                      |
 |                    4|[Sylvan Caryatid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373624)           |                     |                                                                                                      |
-|                    6|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)                    |                     |                                                                                                      |
 |                    5|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)                    |                     |                                                                                                      |
+|                    6|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)                    |                     |                                                                                                      |
 

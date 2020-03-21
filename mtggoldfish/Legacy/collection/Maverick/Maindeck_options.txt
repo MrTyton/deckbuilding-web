@@ -1,7 +1,7 @@
 2 Once Upon a Time
 3 Once Upon a Time
-1 Hexdrinker
 4 Once Upon a Time
+1 Hexdrinker
 4 Verdant Catacombs
 1 Ramunap Excavator
 4 Mother of Runes
@@ -23,8 +23,8 @@
 1 Snow-Covered Plains
 2 Snow-Covered Forest
 2 Scavenging Ooze
-2 Abrupt Decay
 2 Misty Rainforest
+2 Abrupt Decay
 2 Wooded Foothills
 1 Taiga
 1 Plateau
@@ -41,6 +41,7 @@
 1 Oko, Thief of Crowns
 2 Oko, Thief of Crowns
 3 Oko, Thief of Crowns
+3 Misty Rainforest
 1 Nurturing Peatland
 1 Assassin's Trophy
 1 Bojuka Bog
@@ -48,9 +49,10 @@
 2 Bayou
 3 Stoneforge Mystic
 1 Plague Engineer
+1 Tundra
+1 Palace Jailer
 1 Cavern of Souls
 1 Prismatic Vista
-1 Palace Jailer
 1 Dark Depths
 1 Thespian's Stage
 2 Umezawa's Jitte
@@ -66,8 +68,7 @@
 1 Council's Judgment
 2 Mirran Crusader
 2 Snow-Covered Plains
-1 Tundra
-3 Misty Rainforest
+4 Misty Rainforest
 1 Marsh Flats
 1 Sword of Feast and Famine
 4 Stoneforge Mystic

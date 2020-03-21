@@ -7,24 +7,24 @@
 1 Ugin, the Ineffable
 1 Everflowing Chalice
 1 Chalice of the Void
+1 Mystic Forge
 1 Inventors' Fair
 1 Wastes
 1 Astral Cornucopia
 1 Coretapper
 1 Surge Node
 1 Paradox Engine
-1 Mystic Forge
 2 Everflowing Chalice
 2 Blast Zone
-2 Chalice of the Void
 2 Mystic Forge
+2 Chalice of the Void
 2 Paradox Engine
 2 Ugin, the Ineffable
 2 Astral Cornucopia
 2 Coretapper
 2 Surge Node
-3 Chalice of the Void
 3 Mystic Forge
+3 Chalice of the Void
 3 Surge Node
 3 Astral Cornucopia
 3 Everflowing Chalice
@@ -115,10 +115,10 @@
 1 Simian Spirit Guide
 2 Simian Spirit Guide
 3 Simian Spirit Guide
-4 Wurmcoil Engine
 1 Aetherflux Reservoir
 1 Scavenger Grounds
 4 Ugin, the Ineffable
+4 Wurmcoil Engine
 1 Aether Spellbomb
 1 Metallic Rebuke
 1 Mox Amber
@@ -176,6 +176,7 @@
 4 Mishra's Bauble
 4 Arcum's Astrolabe
 5 Snow-Covered Island
+1 Trinket Mage
 1 Tolaria West
 1 Field of Ruin
 1 Mindslaver
@@ -184,9 +185,8 @@
 1 Witching Well
 1 Spatial Contortion
 1 Force of Negation
-1 Nimble Obstructionist
 1 Repeal
-1 Trinket Mage
+1 Nimble Obstructionist
 1 Cyclonic Rift
 1 Condescend
 2 Remand

@@ -28,8 +28,8 @@
 
 |*n*<sup>th</sup> copy|                                         Maindeck Card                                          |*n*<sup>th</sup> copy|                                      Sideboard Card                                       |
 |--------------------:|------------------------------------------------------------------------------------------------|--------------------:|-------------------------------------------------------------------------------------------|
-|                    1|[Massacre Girl](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461026)        |                    1|Eat to Extinction                                                                          |
-|                    1|[Vraska, Golgari Queen](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452963)|                    2|Eat to Extinction                                                                          |
+|                    1|[Vraska, Golgari Queen](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452963)|                    1|Eat to Extinction                                                                          |
+|                    1|[Massacre Girl](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461026)        |                    2|Eat to Extinction                                                                          |
 |                    1|Tymaret, Chosen from Death                                                                      |                    3|Eat to Extinction                                                                          |
 |                    1|[Paradise Druid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461098)       |                    1|[Legion's End](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466860)    |
 |                    2|[Massacre Girl](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461026)        |                    1|[Drill Bit](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457217)       |

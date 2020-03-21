@@ -144,8 +144,8 @@
 2 Spawn of Mayhem
 3 Isolated Chapel
 1 Anguished Unmaking
-1 Glory-Bound Initiate
 1 Thalia, Heretic Cathar
+1 Glory-Bound Initiate
 2 Glory-Bound Initiate
 1 Hinterland Harbor
 1 Ashiok, Dream Render
@@ -257,7 +257,6 @@
 4 Spirebluff Canal
 3 Driven / Despair
 4 Blooming Marsh
-1 Dragonlord Silumgar
 1 Dragonlord Kolaghan
 1 Kroxa, Titan of Death's Hunger
 1 Drown in the Loch
@@ -268,6 +267,7 @@
 1 Castle Vantress
 1 Dragonmaster Outcast
 1 Dig Through Time
+1 Dragonlord Silumgar
 1 Sulfur Falls
 2 Kroxa, Titan of Death's Hunger
 2 Steam Vents
@@ -348,17 +348,17 @@
 1 Clifftop Retreat
 1 Secure the Wastes
 1 Legion's Landing
+1 Battlefield Forge
 1 Toolcraft Exemplar
 1 Servo Exhibition
-1 Battlefield Forge
 1 Raise the Alarm
 1 Shefet Dunes
 2 Reckless Bushwhacker
 2 Benalish Marshal
 2 Lightning Strike
 2 Legion's Landing
-2 Raise the Alarm
 2 Battlefield Forge
+2 Raise the Alarm
 2 Shefet Dunes
 2 Toolcraft Exemplar
 2 Servo Exhibition
@@ -489,13 +489,13 @@
 2 Breaking / Entering
 2 Tasigur, the Golden Fang
 3 Merfolk Secretkeeper
-3 Tome Scour
 3 Breaking / Entering
 3 Stitchwing Skaab
 3 Island
+3 Tome Scour
 4 Merfolk Secretkeeper
-4 Tome Scour
 4 Island
+4 Tome Scour
 4 Breaking / Entering
 5 Island
 6 Island
