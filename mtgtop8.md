@@ -42,7 +42,7 @@
 |[Boros](./mtgtop8/Modern/decks/Boros.md)                        |[Gruul Utopia](./mtgtop8/Modern/decks/Gruul_Utopia.md)      |[Mono Black Control](./mtgtop8/Modern/decks/Mono_Black_Control.md)|[Teaching Control](./mtgtop8/Modern/decks/Teaching_Control.md)|[Valakut](./mtgtop8/Modern/decks/Valakut.md)          |
 |[Breach](./mtgtop8/Modern/decks/Breach.md)                      |[Hardened Scales](./mtgtop8/Modern/decks/Hardened_Scales.md)|[Nahiri Control](./mtgtop8/Modern/decks/Nahiri_Control.md)        |[Tezzerator](./mtgtop8/Modern/decks/Tezzerator.md)            |[Walks](./mtgtop8/Modern/decks/Walks.md)              |
 |[CopyCat](./mtgtop8/Modern/decks/CopyCat.md)                    |[Hatebear](./mtgtop8/Modern/decks/Hatebear.md)              |[Niv-Mizzet Reborn](./mtgtop8/Modern/decks/Niv-Mizzet_Reborn.md)  |[The Rock](./mtgtop8/Modern/decks/The_Rock.md)                |[Weenie White](./mtgtop8/Modern/decks/Weenie_White.md)|
-|[Creatures Toolbox](./mtgtop8/Modern/decks/Creatures_Toolbox.md)|[Humans](./mtgtop8/Modern/decks/Humans.md)                  |[Orzhov Midrange](./mtgtop8/Modern/decks/Orzhov_Midrange.md)      |[Twin Exarch](./mtgtop8/Modern/decks/Twin_Exarch.md)          |[Zoo](./mtgtop8/Modern/decks/Zoo.md)                  |
+|[Creatures Toolbox](./mtgtop8/Modern/decks/Creatures_Toolbox.md)|[Humans](./mtgtop8/Modern/decks/Humans.md)                  |[Orzhov Midrange](./mtgtop8/Modern/decks/Orzhov_Midrange.md)      |[Twin Exarch](./mtgtop8/Modern/decks/Twin_Exarch.md)          |                                                      |
 
 
 # Legacy
@@ -64,4 +64,4 @@
 
 
 
-#### Last Updated at 11:30AM on March 21, 2020
+#### Last Updated at 02:40PM on March 22, 2020

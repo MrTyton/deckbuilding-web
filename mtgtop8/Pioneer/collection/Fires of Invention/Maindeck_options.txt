@@ -37,8 +37,8 @@
 1 Blood Crypt
 1 Fatal Push
 1 Dragonskull Summit
-2 Fatal Push
 2 Watery Grave
+2 Fatal Push
 2 Blood Crypt
 3 Watery Grave
 3 Blood Crypt
@@ -80,8 +80,6 @@
 1 Mana Confluence
 1 Tamiyo, Collector of Tales
 2 Mizzium Mortars
-1 Oko, Thief of Crowns
-2 Oko, Thief of Crowns
 1 Search for Azcanta
 1 Tyrant's Scorn
 1 Kolaghan's Command
@@ -89,9 +87,11 @@
 1 Rakdos's Return
 1 Crux of Fate
 1 Jace, Vryn's Prodigy
+2 Kolaghan's Command
 2 Tyrant's Scorn
 2 Crux of Fate
-2 Kolaghan's Command
+1 Oko, Thief of Crowns
+2 Oko, Thief of Crowns
 1 Commit / Memory
 1 Magma Jet
 1 Chandra, Flamecaller
@@ -152,16 +152,16 @@
 1 Liliana, the Last Hope
 1 Temple of Deceit
 1 Gonti, Lord of Luxury
+2 Glorybringer
 2 Brazen Borrower
 2 Liliana, the Last Hope
-2 Glorybringer
 3 Glorybringer
 3 Brazen Borrower
 3 Chandra, Torch of Defiance
 3 The Scarab God
 3 Temple of Epiphany
-4 Glorybringer
 4 Brazen Borrower
+4 Glorybringer
 4 Dragonskull Summit
 1 Spirebluff Canal
 1 Urborg, Tomb of Yawgmoth
@@ -184,11 +184,11 @@
 1 Blooming Marsh
 1 Arboreal Grazer
 1 Rootbound Crag
-1 Korvold, Fae-Cursed King
 1 Vraska, Golgari Queen
+1 Dryad of the Ilysian Grove
+1 Korvold, Fae-Cursed King
 1 Tireless Tracker
 1 Overgrown Tomb
-1 Dryad of the Ilysian Grove
 1 Woodland Cemetery
 1 Courser of Kruphix
 1 Forest

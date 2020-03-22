@@ -69,7 +69,6 @@
 1 Grisly Salvage
 1 Satyr Wayfinder
 1 Blooming Marsh
-2 Grisly Salvage
 2 Gurmag Angler
 2 Llanowar Wastes
 2 Gather the Pack
@@ -79,6 +78,7 @@
 2 Haunted Dead
 2 Satyr Wayfinder
 2 Overgrown Tomb
+2 Grisly Salvage
 3 Grisly Salvage
 3 Stitcher's Supplier
 3 Haunted Dead
@@ -185,10 +185,10 @@
 1 Brazen Borrower
 2 Brazen Borrower
 4 Temple Garden
-1 Reflector Mage
 1 Collected Company
-2 Reflector Mage
+1 Reflector Mage
 2 Collected Company
+2 Reflector Mage
 3 Collected Company
 4 Collected Company
 1 Llanowar Elves
@@ -262,12 +262,12 @@
 1 Drown in the Loch
 1 Fetid Pools
 1 Cast Down
+1 Dragonlord Silumgar
 1 Silumgar's Scorn
 1 Foul-Tongue Invocation
 1 Castle Vantress
 1 Dragonmaster Outcast
 1 Dig Through Time
-1 Dragonlord Silumgar
 1 Sulfur Falls
 2 Kroxa, Titan of Death's Hunger
 2 Steam Vents
@@ -343,9 +343,9 @@
 2 Inspiring Vantage
 3 Inspiring Vantage
 1 Reckless Bushwhacker
-1 Benalish Marshal
 1 Lightning Strike
 1 Clifftop Retreat
+1 Benalish Marshal
 1 Secure the Wastes
 1 Legion's Landing
 1 Battlefield Forge
@@ -364,11 +364,11 @@
 2 Servo Exhibition
 3 Reckless Bushwhacker
 3 Battlefield Forge
-3 Benalish Marshal
 3 Lightning Strike
 3 Legion's Landing
 3 Toolcraft Exemplar
 3 Servo Exhibition
+3 Benalish Marshal
 3 Raise the Alarm
 4 Reckless Bushwhacker
 4 Battlefield Forge
@@ -377,8 +377,8 @@
 4 Benalish Marshal
 4 Raise the Alarm
 4 Toolcraft Exemplar
-1 Unclaimed Territory
 1 Kitesail Freebooter
+1 Unclaimed Territory
 1 Glint-Sleeve Siphoner
 1 Aether Hub
 1 Tajic, Legion's Edge
@@ -387,6 +387,7 @@
 1 Dauntless Bodyguard
 1 Rogue Refiner
 2 Kitesail Freebooter
+2 Glint-Sleeve Siphoner
 2 Unclaimed Territory
 2 Thalia's Lieutenant
 2 Rogue Refiner
@@ -394,7 +395,6 @@
 2 Tajic, Legion's Edge
 2 Dauntless Bodyguard
 2 Mantis Rider
-2 Glint-Sleeve Siphoner
 3 Rogue Refiner
 3 Reflector Mage
 3 Kitesail Freebooter
@@ -440,8 +440,8 @@
 3 Eidolon of Blossoms
 3 Banishing Light
 4 Forest
-4 Courser of Kruphix
 4 Setessan Champion
+4 Courser of Kruphix
 4 Temple of Plenty
 4 Banishing Light
 4 Herald of the Pantheon

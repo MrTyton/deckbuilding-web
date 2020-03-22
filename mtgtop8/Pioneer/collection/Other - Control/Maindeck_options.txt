@@ -252,6 +252,29 @@
 3 Censor
 3 Teferi, Hero of Dominaria
 4 Glacial Fortress
+1 Thassa's Intervention
+1 Nicol Bolas, the Ravager
+1 Syncopate
+1 Radiant Flames
+1 Ashiok, Nightmare Weaver
+1 Sulfur Falls
+1 Nicol Bolas, Dragon-God
+2 Sulfur Falls
+2 Thassa's Intervention
+2 Dreadbore
+2 Nicol Bolas, Dragon-God
+2 Nicol Bolas, the Ravager
+2 Syncopate
+2 Radiant Flames
+2 Ashiok, Nightmare Weaver
+2 Kalitas, Traitor of Ghet
+3 Nicol Bolas, the Ravager
+3 Murderous Rider
+3 Syncopate
+3 Dreadbore
+3 Thassa's Intervention
+4 Dreadbore
+4 Nicol Bolas, the Ravager
 1 Nissa, Vastwood Seer
 1 Commit / Memory
 1 Gather the Pack
@@ -312,34 +335,11 @@
 3 Sunpetal Grove
 3 Fortified Village
 3 Temple Garden
-4 Walking Ballista
 4 Collected Company
+4 Walking Ballista
 4 Temple Garden
 4 Militia Bugler
 4 Heliod, Sun-Crowned
-1 Thassa's Intervention
-1 Nicol Bolas, the Ravager
-1 Syncopate
-1 Radiant Flames
-1 Ashiok, Nightmare Weaver
-1 Sulfur Falls
-1 Nicol Bolas, Dragon-God
-2 Sulfur Falls
-2 Dreadbore
-2 Thassa's Intervention
-2 Nicol Bolas, Dragon-God
-2 Nicol Bolas, the Ravager
-2 Syncopate
-2 Radiant Flames
-2 Ashiok, Nightmare Weaver
-2 Kalitas, Traitor of Ghet
-3 Nicol Bolas, the Ravager
-3 Murderous Rider
-3 Dreadbore
-3 Syncopate
-3 Thassa's Intervention
-4 Nicol Bolas, the Ravager
-4 Dreadbore
 1 Sylvan Caryatid
 1 Stomping Ground
 1 Steam Vents
@@ -365,12 +365,12 @@
 1 Canyon Slough
 1 Pharika's Libation
 1 Rakdos's Return
-1 Angrath, the Flame-Chained
 1 Rekindling Phoenix
+1 Angrath, the Flame-Chained
 1 Ramunap Ruins
 2 Urborg, Tomb of Yawgmoth
-2 Rakdos's Return
 2 Rekindling Phoenix
+2 Rakdos's Return
 2 Pharika's Libation
 2 Ramunap Ruins
 2 Canyon Slough
@@ -395,10 +395,10 @@
 3 Vessel of Nascency
 4 Hinterland Harbor
 4 Arboreal Grazer
+1 Woodland Cemetery
 1 Hissing Quagmire
 1 Overgrown Tomb
 1 Abrupt Decay
-1 Woodland Cemetery
 1 Tireless Tracker
 1 Grim Flayer
 1 Questing Beast

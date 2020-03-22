@@ -42,6 +42,6 @@
 |                     |                                                                                                     |                    3|[Kari Zev's Expertise](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423755)|
 |                     |                                                                                                     |                    3|[Valorous Stance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391950)     |
 |                     |                                                                                                     |                    4|[Searing Blood](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=378483)       |
-|                     |                                                                                                     |                    4|[Valorous Stance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391950)     |
 |                     |                                                                                                     |                    4|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)       |
+|                     |                                                                                                     |                    4|[Valorous Stance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391950)     |
 

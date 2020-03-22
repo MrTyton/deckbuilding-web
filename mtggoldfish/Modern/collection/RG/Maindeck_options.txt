@@ -1,54 +1,11 @@
-1 Endbringer
-1 Chalice of the Void
-1 Wastes
-1 Urza's Mine
-1 Urza's Power Plant
-1 Walking Ballista
-1 Cavern of Souls
-1 Urza's Tower
-1 Expedition Map
-2 Chalice of the Void
-2 Urza's Power Plant
-2 Urza's Mine
-2 Expedition Map
-2 Urza's Tower
-2 Walking Ballista
-3 Chalice of the Void
-3 Urza's Tower
-3 Urza's Power Plant
-3 Expedition Map
-3 Urza's Mine
-4 Chalice of the Void
-4 Urza's Power Plant
-4 Expedition Map
-4 Urza's Mine
-4 Urza's Tower
-4 Bloodbraid Elf
-1 Elvish Mystic
-2 Elvish Mystic
-3 Smuggler's Copter
-4 Grove of the Burnwillows
-3 Karn, the Great Creator
-4 Karn, the Great Creator
-1 Once Upon a Time
-2 Once Upon a Time
-3 Once Upon a Time
-1 Blast Zone
-1 Mind Stone
-1 Karn Liberated
-1 All Is Dust
-1 Simian Spirit Guide
-2 Simian Spirit Guide
-2 Endbringer
-3 Walking Ballista
 2 Mountain
 3 Mountain
 1 Bloodstained Mire
 1 Arid Mesa
-1 Copperline Gorge
 1 Kiln Fiend
 1 Crash Through
 1 Manamorphose
+1 Copperline Gorge
 1 Mutagenic Growth
 1 Monastery Swiftspear
 2 Bloodstained Mire
@@ -59,11 +16,11 @@
 2 Monastery Swiftspear
 2 Crash Through
 2 Kiln Fiend
+3 Manamorphose
 3 Mutagenic Growth
 3 Monastery Swiftspear
 3 Kiln Fiend
 3 Copperline Gorge
-3 Manamorphose
 3 Crash Through
 4 Copperline Gorge
 4 Manamorphose
@@ -71,97 +28,77 @@
 4 Crash Through
 4 Mutagenic Growth
 1 Birds of Paradise
-1 Snow-Covered Forest
-2 Ghost Quarter
-1 Scalding Tarn
-2 Scalding Tarn
-4 Mountain
-5 Mountain
-1 Primeval Titan
-1 Explore
-1 Search for Tomorrow
-1 Valakut, the Molten Pinnacle
-1 Cinder Glade
-2 Primeval Titan
-2 Explore
-2 Valakut, the Molten Pinnacle
-2 Search for Tomorrow
-3 Search for Tomorrow
-4 Search for Tomorrow
-1 Chandra, Torch of Defiance
-1 Utopia Sprawl
-1 Courser of Kruphix
-2 Chandra, Torch of Defiance
-2 Utopia Sprawl
-2 Courser of Kruphix
-3 Utopia Sprawl
 1 Kraul Harpooner
 1 Llanowar Elves
 2 Questing Beast
 2 Kessig Wolf Run
 2 Kraul Harpooner
 3 Kraul Harpooner
-1 Ugin, the Spirit Dragon
-1 Tectonic Edge
-2 Blast Zone
-3 Simian Spirit Guide
-4 Once Upon a Time
-4 Simian Spirit Guide
-1 Ulamog, the Ceaseless Hunger
-1 Sea Gate Wreckage
-1 Warping Wail
-1 Wurmcoil Engine
-1 Ugin, the Ineffable
-1 Sanctum of Ugin
-2 All Is Dust
-2 Cavern of Souls
-2 Wastes
-2 Karn Liberated
-4 Walking Ballista
-1 Field of Ruin
-1 Scavenger Grounds
-2 Mind Stone
-3 Mind Stone
-3 Endbringer
-4 Mind Stone
-4 Endbringer
+1 Scalding Tarn
+2 Scalding Tarn
+4 Mountain
+5 Mountain
+1 Explore
+1 Primeval Titan
+1 Search for Tomorrow
+1 Valakut, the Molten Pinnacle
+1 Cinder Glade
+2 Valakut, the Molten Pinnacle
+2 Explore
+2 Primeval Titan
+2 Search for Tomorrow
+3 Search for Tomorrow
+4 Search for Tomorrow
+1 Chandra, Torch of Defiance
+1 Courser of Kruphix
+1 Utopia Sprawl
+2 Chandra, Torch of Defiance
+2 Utopia Sprawl
+2 Courser of Kruphix
+3 Utopia Sprawl
 1 Sheltered Thicket
-1 Field of the Dead
 1 Verdant Catacombs
-1 Wrenn and Six
 1 Forgotten Cave
+1 Wrenn and Six
+1 Ghost Quarter
+1 Field of the Dead
 1 Dryad of the Ilysian Grove
+1 Snow-Covered Forest
 1 Tranquil Thicket
-1 Mina and Denn, Wildborn
 1 Raging Ravine
+1 Mina and Denn, Wildborn
 1 Snow-Covered Mountain
 2 Verdant Catacombs
+2 Ghost Quarter
 2 Field of the Dead
 2 Snow-Covered Forest
-2 Wrenn and Six
 2 Forgotten Cave
+2 Wrenn and Six
 2 Raging Ravine
 2 Dryad of the Ilysian Grove
+3 Explore
 3 Verdant Catacombs
 3 Wrenn and Six
-3 Explore
 3 Courser of Kruphix
 3 Dryad of the Ilysian Grove
-4 Dryad of the Ilysian Grove
-4 Wrenn and Six
 4 Explore
+4 Wrenn and Six
+4 Dryad of the Ilysian Grove
 1 Grapeshot
-1 Ground Rift
 1 Desperate Ritual
+1 Ground Rift
 1 Gut Shot
+1 Once Upon a Time
 1 Nivmagus Elemental
 2 Gut Shot
 2 Grapeshot
 2 Nivmagus Elemental
 2 Ground Rift
+2 Once Upon a Time
 3 Nivmagus Elemental
 3 Gut Shot
 3 Ground Rift
+3 Once Upon a Time
 3 Grapeshot
 4 Nivmagus Elemental
 4 Ground Rift
@@ -170,13 +107,15 @@
 1 Tarmogoyf
 1 Soul-Scar Mage
 1 Sunbaked Canyon
+1 Dismember
 1 Temur Battle Rage
 1 Become Immense
 2 Become Immense
 2 Tarmogoyf
+2 Soul-Scar Mage
+2 Dismember
 2 Sunbaked Canyon
 2 Temur Battle Rage
-2 Soul-Scar Mage
 3 Bloodstained Mire
 3 Arid Mesa
 3 Temur Battle Rage
@@ -189,32 +128,32 @@
 1 Windswept Heath
 3 Stomping Ground
 4 Stomping Ground
+1 Sakura-Tribe Elder
+1 Summoner's Pact
 1 Acidic Slime
 1 Scapeshift
 1 Oracle of Mul Daya
 1 Beast Within
-1 Summoner's Pact
 1 Obstinate Baloth
 1 Farseek
 1 Solemn Simulacrum
-1 Sakura-Tribe Elder
 1 Inferno Titan
+2 Summoner's Pact
+2 Sakura-Tribe Elder
 2 Scapeshift
 2 Solemn Simulacrum
 2 Cinder Glade
-2 Summoner's Pact
 2 Farseek
 2 Obstinate Baloth
-2 Sakura-Tribe Elder
-3 Primeval Titan
-3 Solemn Simulacrum
-3 Valakut, the Molten Pinnacle
 3 Summoner's Pact
-3 Farseek
 3 Sakura-Tribe Elder
+3 Primeval Titan
+3 Valakut, the Molten Pinnacle
+3 Farseek
+3 Solemn Simulacrum
 3 Scapeshift
-4 Primeval Titan
 4 Sakura-Tribe Elder
+4 Primeval Titan
 4 Valakut, the Molten Pinnacle
 4 Scapeshift
 4 Farseek
@@ -222,23 +161,26 @@
 7 Mountain
 1 Klothys, God of Destiny
 1 Thrun, the Last Troll
-1 Pillage
-1 Stone Rain
-1 Arbor Elf
-1 Hexdrinker
 1 Blood Moon
+1 Pillage
+1 Arbor Elf
+1 Stone Rain
+1 Karn, the Great Creator
+1 Hexdrinker
 2 Windswept Heath
+2 Blood Moon
 2 Arbor Elf
 2 Klothys, God of Destiny
-2 Blood Moon
 2 Stone Rain
 2 Hexdrinker
 2 Birds of Paradise
+2 Karn, the Great Creator
 2 Pillage
 3 Hexdrinker
 3 Blood Moon
-3 Pillage
+3 Karn, the Great Creator
 3 Forest
+3 Pillage
 3 Arbor Elf
 3 Windswept Heath
 3 Stone Rain
@@ -247,6 +189,7 @@
 4 Windswept Heath
 4 Blood Moon
 4 Arbor Elf
+4 Karn, the Great Creator
 4 Pillage
 5 Forest
 6 Forest
