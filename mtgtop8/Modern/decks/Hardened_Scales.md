@@ -28,8 +28,8 @@
 
 |*n*<sup>th</sup> copy|                                       Maindeck Card                                        |*n*<sup>th</sup> copy|                                        Sideboard Card                                         |
 |--------------------:|--------------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------------|
-|                    1|[Pendelhaven](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442233)      |                    1|[Spellskite](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397743)          |
-|                    2|[Birds of Paradise](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129906)|                    1|[Dismember](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382182)           |
+|                    1|[Pendelhaven](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442233)      |                    1|[Dismember](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382182)           |
+|                    2|[Birds of Paradise](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129906)|                    1|[Spellskite](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397743)          |
 |                    4|[Once Upon a Time](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473131) |                    1|[Nature's Claim](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382316)      |
 |                    1|[Verdant Catacombs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405113)|                    2|[Nature's Claim](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382316)      |
 |                    1|[Wooded Foothills](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405116) |                    1|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706) |

@@ -46,7 +46,7 @@
 |                    1|[Castle Vantress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473204) |                    1|[Summary Dismissal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414370)|
 |                    1|[Mystic Sanctuary](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473209)|                    1|[Aetherspouts](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383178)     |
 |                    4|[Polluted Delta](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405104)  |                    1|[Assassin's Trophy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452902)|
-|                    3|[Opt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442948)             |                    2|[Ravenous Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197537)    |
-|                     |                                                                                           |                    2|[Weather the Storm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464140)|
+|                    3|[Opt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442948)             |                    2|[Weather the Storm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464140)|
+|                     |                                                                                           |                    2|[Ravenous Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197537)    |
 |                     |                                                                                           |                    3|[Ice-Fang Coatl](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464152)   |
 

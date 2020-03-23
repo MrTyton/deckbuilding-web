@@ -16,9 +16,9 @@
 1 Wrenn and Six
 1 Brazen Borrower
 1 Ghost Quarter
+1 Spell Pierce
 1 Mana Leak
 1 Ice-Fang Coatl
-1 Spell Pierce
 1 Cryptic Command
 1 Jace, the Mind Sculptor
 1 Uro, Titan of Nature's Wrath
@@ -40,25 +40,19 @@
 2 Jace, the Mind Sculptor
 2 Skred
 2 Misty Rainforest
-3 Uro, Titan of Nature's Wrath
 3 Snapcaster Mage
 3 Thought Scour
 3 Wrenn and Six
 3 Misty Rainforest
+3 Uro, Titan of Nature's Wrath
 3 Ice-Fang Coatl
 3 Snow-Covered Island
 4 Thought Scour
-4 Scalding Tarn
 4 Snow-Covered Island
 4 Misty Rainforest
 4 Ice-Fang Coatl
 4 Arcum's Astrolabe
-1 Horizon Canopy
-1 Mantis Rider
-1 Mountain
-2 Mantis Rider
-3 Mantis Rider
-4 Mantis Rider
+4 Scalding Tarn
 1 Spell Queller
 1 Kird Ape
 1 Path to Exile
@@ -70,8 +64,14 @@
 3 Arid Mesa
 3 Kird Ape
 4 Boros Charm
-4 Kird Ape
 4 Arid Mesa
+4 Kird Ape
+1 Horizon Canopy
+1 Mantis Rider
+1 Mountain
+2 Mantis Rider
+3 Mantis Rider
+4 Mantis Rider
 1 Verdant Catacombs
 1 Wall of Omens
 1 Prismatic Vista
@@ -98,8 +98,8 @@
 2 Kolaghan's Command
 2 Prismatic Vista
 2 Collected Company
-2 Aether Vial
 2 Eternal Witness
+2 Aether Vial
 2 Giver of Runes
 2 Tidehollow Sculler
 2 Dire Fleet Daredevil

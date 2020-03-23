@@ -27,8 +27,8 @@
 
 |*n*<sup>th</sup> copy|                                            Maindeck Card                                            |*n*<sup>th</sup> copy|                                     Sideboard Card                                      |
 |--------------------:|-----------------------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------|
-|                    1|[Eidolon of the Great Revel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442117)|                    1|[Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)|
-|                    1|[Desperate Ritual](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=80275)           |                    1|[Smash](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=130532)         |
+|                    1|[Desperate Ritual](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=80275)           |                    1|[Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)|
+|                    1|[Eidolon of the Great Revel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442117)|                    1|[Smash](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=130532)         |
 |                    1|[Trinisphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=43545)                |                    1|[Lava Dart](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=29766)      |
 |                    1|[Molten Rain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425928)               |                    1|[Dismember](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382182)     |
 |                    1|[Boom/Bust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=126218)                 |                    2|[Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)|

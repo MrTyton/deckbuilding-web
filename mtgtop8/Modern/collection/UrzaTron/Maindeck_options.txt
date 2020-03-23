@@ -1,10 +1,12 @@
 2 Karn, the Great Creator
+3 Karn, the Great Creator
 1 World Breaker
 2 Thragtusk
-3 Karn, the Great Creator
 4 Chromatic Sphere
 4 Karn, the Great Creator
+1 Emrakul, the Promised End
 1 Ugin, the Ineffable
+1 Relic of Progenitus
 1 Everflowing Chalice
 1 Chalice of the Void
 1 Mystic Forge
@@ -19,10 +21,10 @@
 2 Mystic Forge
 2 Chalice of the Void
 2 Paradox Engine
+2 Surge Node
 2 Ugin, the Ineffable
 2 Astral Cornucopia
 2 Coretapper
-2 Surge Node
 3 Mystic Forge
 3 Chalice of the Void
 3 Surge Node
@@ -35,18 +37,16 @@
 4 Astral Cornucopia
 4 Coretapper
 4 Everflowing Chalice
+1 Sea Gate Wreckage
 1 Buried Ruin
 4 Mystic Forge
-1 Emrakul, the Promised End
-1 Relic of Progenitus
-1 Sea Gate Wreckage
-1 Ensnaring Bridge
 1 All Is Dust
 4 Oblivion Stone
+1 Nurturing Peatland
+2 Relic of Progenitus
+1 Dismember
 1 Horizon Canopy
-1 Throne of Geth
-1 Spine of Ish Sah
-2 Ensnaring Bridge
+1 Ensnaring Bridge
 1 Island
 1 Karn, Scion of Urza
 1 Gemstone Caverns
@@ -61,12 +61,11 @@
 3 Cryptic Command
 1 Hallowed Fountain
 1 Plains
-1 Sphinx's Revelation
 1 Mystic Gate
 1 Celestial Colonnade
-1 Path to Exile
 1 Jace, the Mind Sculptor
 1 Settle the Wreckage
+1 Path to Exile
 1 Dream Trawler
 1 Elspeth, Sun's Nemesis
 1 Supreme Verdict
@@ -75,8 +74,8 @@
 1 Elspeth, Sun's Champion
 1 Fortune Thief
 1 Azorius Signet
-1 Irrigated Farmland
 1 Torrential Gearhulk
+1 Sphinx's Revelation
 1 Realm-Cloaked Giant
 1 Gifts Ungiven
 1 Elder Deep-Fiend
@@ -84,26 +83,26 @@
 1 Flooded Strand
 1 Talisman of Progress
 1 Wall of Omens
+1 Irrigated Farmland
 1 Midnight Clock
 1 Snapcaster Mage
 2 Shadow of Doubt
 2 Wall of Omens
 2 Celestial Colonnade
 2 Hallowed Fountain
-2 Plains
 2 Solemn Simulacrum
+2 Plains
 2 Elder Deep-Fiend
 2 Emrakul, the Promised End
 2 Flooded Strand
 3 Solemn Simulacrum
 3 Flooded Strand
 4 Solemn Simulacrum
-1 Nurturing Peatland
 1 Waterlogged Grove
-2 Ghost Quarter
-2 Relic of Progenitus
-1 Dismember
 2 Dismember
+1 Throne of Geth
+1 Spine of Ish Sah
+2 Ensnaring Bridge
 2 Wastes
 2 Inventors' Fair
 2 Karn, Scion of Urza
@@ -115,24 +114,24 @@
 1 Simian Spirit Guide
 2 Simian Spirit Guide
 3 Simian Spirit Guide
-4 Wurmcoil Engine
 1 Aetherflux Reservoir
 1 Scavenger Grounds
 4 Ugin, the Ineffable
+4 Wurmcoil Engine
 1 Aether Spellbomb
 1 Metallic Rebuke
-1 Mox Amber
 1 Uro, Titan of Nature's Wrath
 1 Gilded Goose
 1 Snow-Covered Forest
-1 Tormod's Crypt
+1 Mox Amber
 1 Engineered Explosives
+1 Tormod's Crypt
 1 Mystic Sanctuary
 1 Ice-Fang Coatl
 1 Arcum's Astrolabe
 1 Emry, Lurker of the Loch
-1 Snow-Covered Island
 1 Breeding Pool
+1 Snow-Covered Island
 1 Scalding Tarn
 1 Urza, Lord High Artificer
 1 Polluted Delta
@@ -144,10 +143,10 @@
 2 Breeding Pool
 2 Tormod's Crypt
 2 Engineered Explosives
+2 Emry, Lurker of the Loch
 2 Urza, Lord High Artificer
 2 Snow-Covered Island
 2 Arcum's Astrolabe
-2 Emry, Lurker of the Loch
 2 Ice-Fang Coatl
 2 Mystic Sanctuary
 2 Scalding Tarn
@@ -156,10 +155,10 @@
 2 Misty Rainforest
 3 Misty Rainforest
 3 Emry, Lurker of the Loch
-3 Scalding Tarn
 3 Gilded Goose
-3 Uro, Titan of Nature's Wrath
+3 Scalding Tarn
 3 Engineered Explosives
+3 Uro, Titan of Nature's Wrath
 3 Metallic Rebuke
 3 Urza, Lord High Artificer
 3 Arcum's Astrolabe
@@ -168,8 +167,8 @@
 3 Snow-Covered Island
 4 Misty Rainforest
 4 Emry, Lurker of the Loch
-4 Scalding Tarn
 4 Gilded Goose
+4 Scalding Tarn
 4 Ice-Fang Coatl
 4 Snow-Covered Island
 4 Urza, Lord High Artificer
@@ -178,16 +177,16 @@
 5 Snow-Covered Island
 1 Trinket Mage
 1 Tolaria West
-1 Field of Ruin
-1 Mindslaver
+1 Witching Well
 1 Academy Ruins
 1 Remand
-1 Witching Well
 1 Spatial Contortion
-1 Force of Negation
+1 Mindslaver
 1 Repeal
+1 Force of Negation
 1 Nimble Obstructionist
 1 Cyclonic Rift
+1 Field of Ruin
 1 Condescend
 2 Remand
 2 Spatial Contortion

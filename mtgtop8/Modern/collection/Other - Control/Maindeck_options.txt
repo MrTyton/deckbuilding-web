@@ -1,17 +1,19 @@
-1 Field of Ruin
+2 Blood Moon
+1 Cryptic Command
+2 Cryptic Command
 5 Snow-Covered Island
-2 Wooded Foothills
 3 Force of Negation
 1 Flooded Strand
 1 Mystic Sanctuary
-2 Mystic Sanctuary
-3 Cryptic Command
+1 Jace, the Mind Sculptor
 1 Fatal Push
 1 Polluted Delta
 2 Polluted Delta
 2 Fatal Push
 3 Fatal Push
 3 Polluted Delta
+2 Mystic Sanctuary
+3 Cryptic Command
 1 Drown in the Loch
 1 Watery Grave
 2 Drown in the Loch
@@ -38,18 +40,17 @@
 4 Remand
 6 Snow-Covered Island
 7 Snow-Covered Island
-2 Blood Moon
+2 Jace, the Mind Sculptor
 3 Blood Moon
-1 Jace, the Mind Sculptor
 1 Swamp
 1 Island
 1 Opt
 2 Opt
 4 Polluted Delta
+1 Waterlogged Grove
 1 Snow-Covered Swamp
 2 Spell Snare
 1 Archmage's Charm
-2 Jace, the Mind Sculptor
 1 Geier Reach Sanitarium
 1 Narset, Parter of Veils
 2 Watery Grave
@@ -60,6 +61,14 @@
 3 Island
 4 Snapcaster Mage
 1 Darkslick Shores
+1 Utopia Sprawl
+1 Arbor Elf
+2 Utopia Sprawl
+2 Arbor Elf
+3 Utopia Sprawl
+3 Arbor Elf
+4 Utopia Sprawl
+4 Arbor Elf
 1 Blood Crypt
 1 Kolaghan's Command
 1 Bloodstained Mire
@@ -70,26 +79,18 @@
 2 Swamp
 2 Inquisition of Kozilek
 3 Inquisition of Kozilek
-1 Utopia Sprawl
-1 Arbor Elf
 1 Mwonvuli Acid-Moss
 1 Karn, the Great Creator
 1 Trinisphere
 1 Eternal Witness
-2 Utopia Sprawl
 2 Mwonvuli Acid-Moss
-2 Arbor Elf
 2 Karn, the Great Creator
 2 Trinisphere
 2 Eternal Witness
-3 Utopia Sprawl
 3 Once Upon a Time
 3 Snow-Covered Forest
-3 Arbor Elf
 3 Karn, the Great Creator
 3 Mwonvuli Acid-Moss
-4 Utopia Sprawl
-4 Arbor Elf
 4 Karn, the Great Creator
 4 Mwonvuli Acid-Moss
 4 Snow-Covered Forest
@@ -105,33 +106,41 @@
 1 Assassin's Trophy
 1 Overgrown Tomb
 1 Verdant Catacombs
-1 Waterlogged Grove
 2 Assassin's Trophy
 2 Verdant Catacombs
+1 Tranquil Thicket
+1 Stubborn Denial
+1 Prismatic Vista
+1 Chandra, Torch of Defiance
+1 Ashiok, Dream Render
+2 Prismatic Vista
+2 The Royal Scions
+2 Ashiok, Dream Render
+3 Wooded Foothills
 1 Treetop Village
 3 Scalding Tarn
+1 Bonecrusher Giant
 1 Seasoned Pyromancer
 1 Dark Confidant
 1 Blackcleave Cliffs
 1 Unearth
-1 Bonecrusher Giant
-1 Kroxa, Titan of Death's Hunger
 1 Mountain
+1 Kroxa, Titan of Death's Hunger
 1 Fulminator Mage
 2 Kroxa, Titan of Death's Hunger
 2 Bloodstained Mire
 2 Blood Crypt
 2 Kolaghan's Command
-2 Bonecrusher Giant
 2 Seasoned Pyromancer
 2 Dark Confidant
 2 Thoughtseize
+2 Bonecrusher Giant
 2 Fulminator Mage
 2 Blackcleave Cliffs
 2 Mountain
 2 Unearth
-3 Thoughtseize
 3 Bloodstained Mire
+3 Thoughtseize
 3 Bonecrusher Giant
 3 Fulminator Mage
 3 Kroxa, Titan of Death's Hunger
@@ -160,18 +169,18 @@
 4 Narset, Parter of Veils
 4 Inquisition of Kozilek
 4 Opt
+1 Sunken Hollow
+1 Field of the Dead
 1 Hero's Downfall
 1 Sunken Ruins
 1 Drowned Catacomb
 1 Radiant Fountain
 1 Shadow of Doubt
-1 Liliana's Triumph
 1 Whirlwind Denial
-1 Field of the Dead
-1 Cling to Dust
-1 Sunken Hollow
-1 Into the Story
+1 Liliana's Triumph
 1 Isochron Scepter
+1 Cling to Dust
+1 Into the Story
 1 Deprive
 1 Empty the Pits
 2 Cling to Dust
@@ -199,8 +208,8 @@
 3 Gilded Goose
 3 Oath of Nissa
 3 Garruk Wildspeaker
-3 Nykthos, Shrine to Nyx
 3 Burning-Tree Emissary
+3 Nykthos, Shrine to Nyx
 3 Windswept Heath
 4 Gilded Goose
 4 Once Upon a Time
@@ -227,20 +236,20 @@
 2 Celestial Colonnade
 3 Path to Exile
 4 Island
-1 Ancient Stirrings
 1 Blast Zone
-1 Spore Frog
 1 Pendelhaven
+1 Spore Frog
 1 Primal Command
 1 Plow Under
 1 Nissa, Vastwood Seer
-1 Llanowar Elves
 1 Elvish Mystic
-2 Ancient Stirrings
+1 Llanowar Elves
+1 Ancient Stirrings
 2 Blast Zone
 2 Nissa, Vastwood Seer
 2 Plow Under
 2 Primal Command
+2 Ancient Stirrings
 3 Trinisphere
 3 Nissa, Vastwood Seer
 3 Primal Command
