@@ -9,8 +9,8 @@
 2 Stubborn Denial
 3 Lovestruck Beast
 3 Stubborn Denial
-4 Lovestruck Beast
 4 Yavimaya Coast
+4 Lovestruck Beast
 4 Elvish Mystic
 3 Brazen Borrower
 1 Hashep Oasis
@@ -40,16 +40,16 @@
 3 Heart of Kiran
 3 Vivien, Arkbow Ranger
 1 Rhonas the Indomitable
-1 Uro, Titan of Nature's Wrath
 1 Satyr Wayfinder
+1 Uro, Titan of Nature's Wrath
 2 Uro, Titan of Nature's Wrath
 2 Satyr Wayfinder
 3 Uro, Titan of Nature's Wrath
 3 Satyr Wayfinder
-4 Satyr Wayfinder
 4 Uro, Titan of Nature's Wrath
-1 Steel Leaf Champion
+4 Satyr Wayfinder
 1 Questing Beast
+1 Steel Leaf Champion
 2 Steel Leaf Champion
 2 Rhonas the Indomitable
 3 Steel Leaf Champion
@@ -70,40 +70,40 @@
 1 Ulamog, the Ceaseless Hunger
 1 Traverse the Ulvenwald
 1 Growth Spiral
+2 Castle Garenbrig
 2 Traverse the Ulvenwald
 2 Growth Spiral
-2 Castle Garenbrig
-3 Traverse the Ulvenwald
 3 Growth Spiral
+3 Traverse the Ulvenwald
 4 Growth Spiral
 1 Fabled Passage
 1 Nissa, Voice of Zendikar
 1 Nylea, God of the Hunt
 2 Questing Beast
 3 Questing Beast
-1 Yorvo, Lord of Garenbrig
-1 Collected Company
-2 Collected Company
-3 Collected Company
-3 Scavenging Ooze
-4 Collected Company
 1 Quasiduplicate
 1 Leafkin Druid
 1 Risen Reef
-1 Agent of Treachery
 1 Nexus of Fate
+1 Agent of Treachery
 2 Nexus of Fate
-2 Leafkin Druid
 2 Risen Reef
+2 Leafkin Druid
 3 Leafkin Druid
 3 Risen Reef
 4 Risen Reef
 4 Hashep Oasis
+1 Yorvo, Lord of Garenbrig
+1 Collected Company
+2 Collected Company
+3 Scavenging Ooze
+3 Collected Company
+4 Collected Company
 1 Blink of an Eye
+1 Nissa, Steward of Elements
 1 Voyaging Satyr
 1 Kiora, Master of the Depths
 1 Burning-Tree Emissary
-1 Nissa, Steward of Elements
 2 Nissa, Steward of Elements
 2 Kiora, Master of the Depths
 2 Burning-Tree Emissary
@@ -116,40 +116,40 @@
 1 Gather the Pack
 1 Tamiyo, Collector of Tales
 2 Vessel of Nascency
-2 Emrakul, the Promised End
-2 Gather the Pack
 2 Tamiyo, Collector of Tales
+2 Gather the Pack
+2 Emrakul, the Promised End
 3 Gather the Pack
 3 Castle Garenbrig
 3 Vessel of Nascency
-3 Tamiyo, Collector of Tales
 3 Emrakul, the Promised End
+3 Tamiyo, Collector of Tales
 4 Castle Garenbrig
-4 Vessel of Nascency
 4 Emrakul, the Promised End
+4 Vessel of Nascency
 1 Arboreal Grazer
+1 Ishkanah, Grafwidow
 1 Sea Gate Wreckage
 1 Shrine of the Forsaken Gods
-1 Ishkanah, Grafwidow
-1 Ugin, the Spirit Dragon
 1 World Breaker
+1 Ugin, the Spirit Dragon
 1 Sanctum of Ugin
 1 Spring / Mind
-2 Arboreal Grazer
 2 Fabled Passage
-2 Ishkanah, Grafwidow
+2 Arboreal Grazer
 2 Spring / Mind
 2 Shrine of the Forsaken Gods
+2 Ishkanah, Grafwidow
 3 Fabled Passage
 3 Arboreal Grazer
-4 Traverse the Ulvenwald
-4 Fabled Passage
-4 Arboreal Grazer
 4 Walking Ballista
+4 Fabled Passage
+4 Traverse the Ulvenwald
+4 Arboreal Grazer
 4 Courser of Kruphix
+1 Torrential Gearhulk
 1 Dig Through Time
 1 Temple of Mystery
-1 Torrential Gearhulk
 1 Essence Flux
 1 Frilled Mystic
 1 Essence Scatter
@@ -161,13 +161,13 @@
 1 Brineborn Cutthroat
 1 Mystical Dispute
 2 Temple of Mystery
-2 Frilled Mystic
 2 Dig Through Time
 2 Essence Scatter
 2 Admiral's Order
 2 Brineborn Cutthroat
 2 Nightpack Ambusher
 2 Mystical Dispute
+2 Frilled Mystic
 2 Essence Flux
 2 Opt
 3 Temple of Mystery

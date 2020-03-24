@@ -31,6 +31,6 @@
 
 |*n*<sup>th</sup> copy|                                       Maindeck Card                                       |*n*<sup>th</sup> copy|                                       Sideboard Card                                       |
 |--------------------:|-------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------|
-|                    3|[Ancient Ziggurat](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=189271)|                    2|[Force of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464001)|
-|                    2|[Ancient Ziggurat](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=189271)|                    3|[Force of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464001)|
+|                    2|[Ancient Ziggurat](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=189271)|                    2|[Force of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464001)|
+|                    3|[Ancient Ziggurat](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=189271)|                    3|[Force of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464001)|
 

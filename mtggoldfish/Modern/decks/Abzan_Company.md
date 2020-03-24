@@ -68,8 +68,8 @@
 |                    1|Heliod, Sun-Crowned                                                                             |                     |                                                                                               |
 |                    2|[Spike Feeder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=21113)          |                     |                                                                                               |
 |                    2|Heliod, Sun-Crowned                                                                             |                     |                                                                                               |
-|                    4|[Wooded Foothills](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405116)     |                     |                                                                                               |
 |                    1|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)                |                     |                                                                                               |
 |                    2|[Eternal Witness](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=51628)       |                     |                                                                                               |
 |                    2|[Ghost Quarter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389534)        |                     |                                                                                               |
+|                    4|[Wooded Foothills](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405116)     |                     |                                                                                               |
 

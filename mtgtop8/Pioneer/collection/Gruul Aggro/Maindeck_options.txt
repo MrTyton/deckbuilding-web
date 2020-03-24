@@ -1,8 +1,6 @@
-2 Pelt Collector
-3 Pelt Collector
-3 Experiment One
-4 Pelt Collector
-4 Experiment One
+1 Lovestruck Beast
+2 Lovestruck Beast
+8 Forest
 1 Heart of Kiran
 2 Heart of Kiran
 3 Embercleave
@@ -10,16 +8,16 @@
 2 Voltaic Brawler
 3 Voltaic Brawler
 1 Zhur-Taa Goblin
+3 Lovestruck Beast
+4 Lovestruck Beast
+6 Mountain
 2 Zhur-Taa Goblin
 3 Zhur-Taa Goblin
-6 Mountain
 4 Voltaic Brawler
 1 Goblin Rabblemaster
 2 Goblin Rabblemaster
 3 Goblin Rabblemaster
 4 Goblin Rabblemaster
-3 Questing Beast
-1 Rhonas the Indomitable
 1 Reckless Bushwhacker
 2 Reckless Bushwhacker
 1 Atarka's Command
@@ -27,8 +25,12 @@
 3 Atarka's Command
 4 Atarka's Command
 1 Gallia of the Endless Dance
-1 Hazoret the Fervent
 3 Reckless Bushwhacker
+1 Rhonas the Indomitable
+7 Mountain
+3 Questing Beast
+1 Hazoret the Fervent
+3 Ghor-Clan Rampager
 2 Rhonas the Indomitable
 1 Ghalta, Primal Hunger
 1 Reckless Rage
@@ -37,9 +39,9 @@
 1 Commune with Dinosaurs
 1 Regisaur Alpha
 2 Ghalta, Primal Hunger
+2 Reckless Rage
 2 Marauding Raptor
 2 Commune with Dinosaurs
-2 Reckless Rage
 2 Regisaur Alpha
 2 Ripjaw Raptor
 3 Regisaur Alpha
@@ -52,13 +54,13 @@
 4 Regisaur Alpha
 4 Ripjaw Raptor
 4 Marauding Raptor
-7 Mountain
+4 Reckless Bushwhacker
 1 Hashep Oasis
+4 Zhur-Taa Goblin
 1 Legion Warboss
 2 Legion Warboss
 3 Legion Warboss
 4 Legion Warboss
-4 Zhur-Taa Goblin
 3 Domri, Anarch of Bolas
 1 Wild Slash
 2 Wild Slash
@@ -66,9 +68,8 @@
 1 Glorybringer
 2 Glorybringer
 3 Glorybringer
-9 Forest
-3 Ghor-Clan Rampager
-4 Reckless Bushwhacker
+2 Gallia of the Endless Dance
+1 Zurgo Bellstriker
 2 Hazoret the Fervent
 1 Blossoming Defense
 2 Blossoming Defense
@@ -76,6 +77,7 @@
 1 Collected Company
 2 Collected Company
 3 Collected Company
+9 Forest
 1 Gilded Goose
 2 Gilded Goose
 4 Questing Beast
@@ -85,22 +87,24 @@
 2 Steel Leaf Champion
 4 Glorybringer
 3 Heart of Kiran
-1 Scavenging Ooze
-2 Gallia of the Endless Dance
-1 Zurgo Bellstriker
 4 Ghor-Clan Rampager
-1 Chandra, Torch of Defiance
-2 Chandra, Torch of Defiance
+1 Castle Embereth
+1 Bomat Courier
+1 Firedrinker Satyr
+2 Firedrinker Satyr
+3 Gallia of the Endless Dance
+3 Firedrinker Satyr
+4 Firedrinker Satyr
 1 Domri's Ambush
 2 Domri's Ambush
 3 Domri's Ambush
 4 Domri's Ambush
+8 Mountain
+9 Mountain
 1 Crater's Claws
-1 Castle Embereth
 1 Chandra, Fire Artisan
-1 Bomat Courier
-1 Ramunap Ruins
 1 Fling
+1 Ramunap Ruins
 2 Zurgo Bellstriker
 2 Ramunap Ruins
 3 Hashep Oasis
@@ -108,52 +112,52 @@
 2 Whisperwood Elemental
 3 Rhonas the Indomitable
 3 Gilded Goose
-1 Kiora, Behemoth Beckoner
 1 Rekindling Phoenix
+1 Kiora, Behemoth Beckoner
 1 Domri Rade
+1 Chandra, Torch of Defiance
 2 Rekindling Phoenix
+2 Chandra, Torch of Defiance
 2 Domri Rade
-3 Rekindling Phoenix
 3 Steel Leaf Champion
+3 Rekindling Phoenix
 4 Steel Leaf Champion
+4 Embercleave
 1 Mana Confluence
 2 Mana Confluence
 3 Mana Confluence
 4 Mana Confluence
 3 Blossoming Defense
 4 Blossoming Defense
-4 Embercleave
+1 Scavenging Ooze
 4 Collected Company
+1 Lightning Strike
+1 Anax, Hardened in the Forge
+1 Rakdos Cackler
+2 Rakdos Cackler
+2 Bomat Courier
+2 Anax, Hardened in the Forge
+2 Lightning Strike
+3 Rakdos Cackler
+3 Anax, Hardened in the Forge
+3 Bomat Courier
+3 Lightning Strike
+4 Rakdos Cackler
+4 Bomat Courier
+4 Anax, Hardened in the Forge
+4 Lightning Strike
+4 Gallia of the Endless Dance
 1 Dryad Militant
 2 Dryad Militant
 4 Wild Slash
-1 Shared Summons
-1 Enter the Infinite
-1 Walking Ballista
-1 Borborygmos Enraged
-1 Possibility Storm
-1 Captain Lannery Storm
-2 Scavenging Ooze
-2 Captain Lannery Storm
-2 Possibility Storm
-3 Chandra, Torch of Defiance
-3 Possibility Storm
-3 Captain Lannery Storm
-4 Possibility Storm
-4 Captain Lannery Storm
 1 Gruul Turf
 1 Ahn-Crop Crasher
-1 Firedrinker Satyr
 2 Ahn-Crop Crasher
 2 Gruul Turf
-2 Firedrinker Satyr
 3 Gruul Turf
 3 Ahn-Crop Crasher
-3 Gallia of the Endless Dance
-3 Firedrinker Satyr
-4 Firedrinker Satyr
-4 Gruul Turf
 4 Ahn-Crop Crasher
+4 Gruul Turf
 1 Lava Coil
 1 Deathmist Raptor
 1 Den Protector
@@ -165,29 +169,27 @@
 3 Deathmist Raptor
 4 Den Protector
 4 Deathmist Raptor
-1 Legion Loyalist
 1 Cinder Glade
 1 Fervent Champion
+1 Legion Loyalist
 1 Goblin Chainwhirler
-1 Flamewake Phoenix
-1 Bloodrage Brawler
 1 Chandra, Acolyte of Flame
+1 Bloodrage Brawler
 1 Kari Zev's Expertise
+1 Flamewake Phoenix
 1 Dwarven Mine
 2 Fervent Champion
 2 Kari Zev's Expertise
 2 Goblin Chainwhirler
-2 Flamewake Phoenix
 2 Bloodrage Brawler
+2 Flamewake Phoenix
 3 Fervent Champion
+3 Goblin Chainwhirler
 3 Bloodrage Brawler
 3 Flamewake Phoenix
-3 Goblin Chainwhirler
 4 Fervent Champion
-4 Bloodrage Brawler
 4 Flamewake Phoenix
-8 Mountain
-9 Mountain
+4 Bloodrage Brawler
 10 Mountain
 11 Mountain
 12 Mountain

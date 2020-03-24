@@ -1,34 +1,14 @@
-2 Teferi, Time Raveler
-2 Hallowed Fountain
-3 Teferi, Time Raveler
-3 Hallowed Fountain
-4 Teferi, Time Raveler
-4 Hallowed Fountain
-1 Hope of Ghirapur
-2 Hope of Ghirapur
-1 Blooming Marsh
-1 Emry, Lurker of the Loch
-1 Mox Amber
-1 Urborg, Tomb of Yawgmoth
-1 Mana Confluence
-1 Lazav, the Multifarious
-1 Jace, Wielder of Mysteries
-1 Terrarion
-1 Diligent Excavator
-1 Kethis, the Hidden Hand
 2 Blooming Marsh
-2 Mox Amber
-2 Emry, Lurker of the Loch
-2 Mana Confluence
 2 Lazav, the Multifarious
+2 Mana Confluence
 2 Kethis, the Hidden Hand
 2 Terrarion
 2 Diligent Excavator
-3 Blooming Marsh
-3 Emry, Lurker of the Loch
 3 Mox Amber
-3 Mana Confluence
+3 Emry, Lurker of the Loch
+3 Blooming Marsh
 3 Lazav, the Multifarious
+3 Mana Confluence
 3 Diligent Excavator
 3 Hope of Ghirapur
 3 Kethis, the Hidden Hand
@@ -38,6 +18,40 @@
 4 Diligent Excavator
 4 Hope of Ghirapur
 4 Kethis, the Hidden Hand
+2 Stomping Ground
+1 Servant of the Conduit
+2 Servant of the Conduit
+3 Servant of the Conduit
+4 Servant of the Conduit
+1 Steam Vents
+3 Stomping Ground
+4 Stomping Ground
+1 Ugin, the Spirit Dragon
+3 Whirler Virtuoso
+4 Whirler Virtuoso
+1 Shrine of the Forsaken Gods
+1 Golos, Tireless Pilgrim
+2 Golos, Tireless Pilgrim
+3 Ulamog, the Ceaseless Hunger
+3 Forest
+2 Breeding Pool
+1 Temple Garden
+1 Godless Shrine
+4 Lazav, the Multifarious
+2 Urborg, Tomb of Yawgmoth
+2 Steam Vents
+1 Emrakul, the Promised End
+1 Concealed Courtyard
+1 Liliana, the Last Hope
+1 Oath of Kaya
+1 Spire of Industry
+1 Wishclaw Talisman
+1 Teshar, Ancestor's Apostle
+2 Wishclaw Talisman
+2 Concealed Courtyard
+2 Liliana, the Last Hope
+3 Terrarion
+4 Terrarion
 1 Rootbound Crag
 2 Shrine of the Forsaken Gods
 3 Golos, Tireless Pilgrim
@@ -50,19 +64,16 @@
 4 Steam Vents
 2 Temple Garden
 4 Blooming Marsh
-1 Godless Shrine
-4 Lazav, the Multifarious
-2 Urborg, Tomb of Yawgmoth
 2 Rootbound Crag
 3 Shrine of the Forsaken Gods
 1 Plains
 1 Ugin, the Ineffable
-1 Hour of Promise
 1 Radiant Fountain
+1 Hour of Promise
 1 Watery Grave
+1 Gilded Goose
 1 Vraska, Golgari Queen
 1 Uro, Titan of Nature's Wrath
-1 Gilded Goose
 1 Tamiyo, Collector of Tales
 2 Gilded Goose
 2 Uro, Titan of Nature's Wrath
@@ -77,17 +88,6 @@
 3 Kozilek's Return
 3 Glassblower's Puzzleknot
 4 Kozilek's Return
-1 Teshar, Ancestor's Apostle
-1 Wishclaw Talisman
-1 Concealed Courtyard
-1 Spire of Industry
-1 Liliana, the Last Hope
-1 Oath of Kaya
-2 Concealed Courtyard
-2 Wishclaw Talisman
-2 Liliana, the Last Hope
-3 Terrarion
-4 Terrarion
 1 Spirebluff Canal
 1 Nahiri, the Harbinger
 1 Tireless Tracker
@@ -110,43 +110,43 @@
 1 Field of Ruin
 2 Field of Ruin
 1 Wastes
-1 Stonecoil Serpent
-1 Scrap Trawler
-1 Mutavault
-1 Heart of Kiran
-1 Zhalfirin Void
-1 Mobilized District
-1 Karn, the Great Creator
 1 Blast Zone
+1 Mobilized District
+1 Heart of Kiran
+1 Mutavault
+1 Zhalfirin Void
 1 Ratchet Bomb
 1 Sea Gate Wreckage
 1 Karn, Scion of Urza
+1 Karn, the Great Creator
+1 Darksteel Citadel
 1 Warping Wail
 1 Spatial Contortion
-1 Darksteel Citadel
+1 Stonecoil Serpent
+1 Scrap Trawler
 1 Fountain of Renewal
 1 Foundry of the Consuls
 2 Wastes
-2 Stonecoil Serpent
-2 Mutavault
-2 Scrap Trawler
 2 Mobilized District
-2 Karn, the Great Creator
+2 Mutavault
 2 Karn, Scion of Urza
+2 Karn, the Great Creator
+2 Blast Zone
+2 Stonecoil Serpent
 2 Ratchet Bomb
 2 Warping Wail
 2 Spatial Contortion
-2 Blast Zone
+2 Scrap Trawler
 2 Zhalfirin Void
 2 Fountain of Renewal
-3 Blast Zone
-3 Stonecoil Serpent
-3 Mutavault
 3 Wastes
+3 Blast Zone
+3 Mutavault
 3 Karn, the Great Creator
+3 Stonecoil Serpent
 3 Karn, Scion of Urza
-3 Ratchet Bomb
 3 Warping Wail
+3 Ratchet Bomb
 3 Spatial Contortion
 3 Zhalfirin Void
 3 Fountain of Renewal
@@ -171,19 +171,19 @@
 1 Day's Undoing
 1 Narset, Parter of Veils
 2 Geier Reach Sanitarium
-2 Day's Undoing
 2 Narset, Parter of Veils
 2 Island
+2 Day's Undoing
 3 Day's Undoing
 3 Narset, Parter of Veils
 3 Island
 4 Narset, Parter of Veils
 4 Island
 5 Island
-1 Blessed Alliance
 1 Azorius Charm
 1 Myth Realized
 1 Supreme Verdict
+1 Blessed Alliance
 1 Settle the Wreckage
 1 Teferi, Hero of Dominaria
 1 Search for Azcanta
@@ -217,83 +217,83 @@
 4 Opt
 4 Plains
 5 Plains
+1 Lovestruck Beast
 1 Rosethorn Acolyte
 1 Bonecrusher Giant
 1 Vivien Reid
 1 Kiora, Behemoth Beckoner
-1 Captain Lannery Storm
-1 Possibility Storm
-1 Borborygmos Enraged
-1 Enter the Infinite
-1 Llanowar Elves
-1 Elvish Mystic
-1 Lovestruck Beast
 1 Questing Beast
+1 Llanowar Elves
 1 Domri Rade
 1 Glorybringer
 1 Chandra, Torch of Defiance
+1 Elvish Mystic
+1 Captain Lannery Storm
 1 Game Trail
-2 Rosethorn Acolyte
-2 Possibility Storm
-2 Captain Lannery Storm
-2 Kiora, Behemoth Beckoner
-2 Elvish Mystic
+1 Borborygmos Enraged
+1 Enter the Infinite
+1 Possibility Storm
 2 Lovestruck Beast
-2 Llanowar Elves
+2 Rosethorn Acolyte
+2 Kiora, Behemoth Beckoner
 2 Bonecrusher Giant
+2 Llanowar Elves
 2 Domri Rade
 2 Glorybringer
 2 Mountain
+2 Possibility Storm
+2 Captain Lannery Storm
+2 Elvish Mystic
 2 Game Trail
-3 Glorybringer
-3 Possibility Storm
-3 Kiora, Behemoth Beckoner
-3 Elvish Mystic
 3 Lovestruck Beast
+3 Glorybringer
 3 Rootbound Crag
 3 Llanowar Elves
 3 Bonecrusher Giant
+3 Elvish Mystic
 3 Mountain
-4 Possibility Storm
-4 Elvish Mystic
+3 Possibility Storm
+3 Kiora, Behemoth Beckoner
 4 Lovestruck Beast
-4 Bonecrusher Giant
 4 Llanowar Elves
+4 Bonecrusher Giant
+4 Possibility Storm
 4 Rootbound Crag
+4 Elvish Mystic
 5 Forest
 6 Forest
 7 Forest
 1 Drowned Catacomb
 1 Sunken Hollow
 1 Dictate of Kruphix
-1 Swamp
-1 Drown in the Loch
 1 Wizard's Retort
+1 Drown in the Loch
+1 Swamp
 1 Fabled Passage
 1 Thoughtseize
-1 Engulf the Shore
 1 Fatal Push
-1 Unsubstantiate
+1 Engulf the Shore
 1 Notion Thief
-1 Unsummon
+1 Unsubstantiate
 1 Cyclonic Rift
+1 Unsummon
 1 Brazen Borrower
 1 Spell Pierce
 1 Dakra Mystic
 2 Drowned Catacomb
 2 Dictate of Kruphix
-2 Brazen Borrower
-2 Watery Grave
 2 Cyclonic Rift
-2 Notion Thief
+2 Watery Grave
+2 Brazen Borrower
 2 Fabled Passage
 2 Fatal Push
 2 Engulf the Shore
 2 Sunken Hollow
+2 Notion Thief
 2 Dakra Mystic
 2 Spell Pierce
-3 Watery Grave
 3 Notion Thief
+3 Watery Grave
 3 Brazen Borrower
 3 Fatal Push
 3 Dakra Mystic

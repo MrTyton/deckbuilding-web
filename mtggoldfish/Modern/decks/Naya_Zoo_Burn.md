@@ -1,7 +1,7 @@
 # Naya Zoo Burn
 
 #### [Export MTGO List](../collection/Naya%20Zoo%20Burn/Naya%20Zoo%20Burn.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=2%09Arid%20Mesa%0A4%09Atarka's%20Command%0A4%09Bloodstained%20Mire%0A4%09Boros%20Charm%0A4%09Copperline%20Gorge%0A4%09Eidolon%20of%20the%20Great%20Revel%0A4%09Goblin%20Guide%0A4%09Lava%20Spike%0A4%09Lightning%20Bolt%0A4%09Monastery%20Swiftspear%0A2%09Mountain%0A1%09Relic%20of%20Progenitus%0A2%09Rift%20Bolt%0A2%09Sacred%20Foundry%0A1%09Scalding%20Tarn%0A4%09Searing%20Blaze%0A1%09Searing%20Blood%0A2%09Stomping%20Ground%0A4%09Wild%20Nacatl%0A3%09Wooded%20Foothills&deckside=4%09Destructive%20Revelry%0A4%09Leyline%20of%20Combustion%0A3%09Path%20to%20Exile%0A2%09Rest%20in%20Peace%0A2%09Searing%20Blood)
+#### [Print on decklist.org](http://decklist.org/?deckmain=2%09Arid%20Mesa%0A4%09Atarka's%20Command%0A4%09Bloodstained%20Mire%0A4%09Boros%20Charm%0A4%09Copperline%20Gorge%0A4%09Eidolon%20of%20the%20Great%20Revel%0A4%09Goblin%20Guide%0A4%09Lava%20Spike%0A4%09Lightning%20Bolt%0A4%09Monastery%20Swiftspear%0A2%09Mountain%0A1%09Relic%20of%20Progenitus%0A2%09Rift%20Bolt%0A2%09Sacred%20Foundry%0A1%09Scalding%20Tarn%0A4%09Searing%20Blaze%0A1%09Searing%20Blood%0A2%09Stomping%20Ground%0A4%09Wild%20Nacatl%0A3%09Wooded%20Foothills&deckside=4%09Destructive%20Revelry%0A3%09Leyline%20of%20Combustion%0A3%09Path%20to%20Exile%0A1%09Relic%20of%20Progenitus%0A2%09Rest%20in%20Peace%0A2%09Searing%20Blood)
 # Maindeck
 
 |                                          Artifact (1)                                          |                                             Creature (16)                                             |                                        Instant (17)                                         |                                          Land (20)                                           |                                     Sorcery (6)                                      |
@@ -18,19 +18,30 @@
 
 # Sideboard
 
-|                                         Enchantment (6)                                          |                                          Instant (9)                                           |
-|--------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
-|4 [Leyline of Combustion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466902)|4 [Destructive Revelry](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373351)|
-|2 [Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)        |3 [Path to Exile](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220511)      |
-|                                                                                                  |2 [Searing Blood](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=378483)      |
+|                                          Artifact (1)                                          |                                         Enchantment (5)                                          |                                          Instant (9)                                           |
+|------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
+|1 [Relic of Progenitus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174824)|3 [Leyline of Combustion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466902)|4 [Destructive Revelry](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373351)|
+|                                                                                                |2 [Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)        |3 [Path to Exile](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220511)      |
+|                                                                                                |                                                                                                  |2 [Searing Blood](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=378483)      |
 
 
 # Other Options
 
-|*n*<sup>th</sup> copy|                                        Maindeck Card                                         |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
-|--------------------:|----------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
-|                    2|[Relic of Progenitus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174824)|                    1|[Deflecting Palm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386516)    |
-|                    1|[Grim Lavamancer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430589)    |                    2|[Relic of Progenitus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174824)|
-|                    3|[Rift Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426589)          |                    3|[Searing Blood](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=378483)      |
-|                     |                                                                                              |                    1|[Relic of Progenitus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174824)|
+|*n*<sup>th</sup> copy|                                        Maindeck Card                                         |*n*<sup>th</sup> copy|                                         Sideboard Card                                         |
+|--------------------:|----------------------------------------------------------------------------------------------|--------------------:|------------------------------------------------------------------------------------------------|
+|                    2|[Relic of Progenitus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174824)|                    4|[Leyline of Combustion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466902)|
+|                    1|[Sunbaked Canyon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464196)    |                    1|[Scavenging Ooze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420783)      |
+|                    1|[Kird Ape](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=1302)             |                    1|[Exquisite Firecraft](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=398513)  |
+|                    1|[Scavenging Ooze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420783)    |                    1|[Worship](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=25553)               |
+|                    1|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)             |                    1|[Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)       |
+|                    1|[Blood Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45386)          |                    1|[Choke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45431)                 |
+|                    1|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)             |                    2|[Choke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45431)                 |
+|                    2|[Sunbaked Canyon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464196)    |                    2|[Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)       |
+|                    2|[Kird Ape](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=1302)             |                    2|[Worship](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=25553)               |
+|                    2|[Blood Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45386)          |                    2|[Exquisite Firecraft](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=398513)  |
+|                    3|[Sunbaked Canyon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464196)    |                    3|[Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)       |
+|                    3|[Blood Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45386)          |                    1|[Deflecting Palm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386516)      |
+|                    4|[Sunbaked Canyon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464196)    |                    2|[Relic of Progenitus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174824)  |
+|                    1|[Grim Lavamancer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430589)    |                    3|[Searing Blood](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=378483)        |
+|                    3|[Rift Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426589)          |                     |                                                                                                |
 

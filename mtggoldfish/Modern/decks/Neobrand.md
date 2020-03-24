@@ -44,8 +44,8 @@
 |                    1|[Yavimaya Coast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129810)         |                    4|[Leyline of Sanctity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=204993)|
 |                    1|[Snow-Covered Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121192)    |                    4|[Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)     |
 |                    3|[Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)         |                    1|[Echoing Truth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405212)      |
-|                    4|[Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)         |                    1|[Fblthp, the Lost](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460977)   |
-|                    1|[Noxious Revival](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=230067)        |                    1|[Vexing Shusher](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=146016)     |
+|                    4|[Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)         |                    1|[Vexing Shusher](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=146016)     |
+|                    1|[Noxious Revival](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=230067)        |                    1|[Fblthp, the Lost](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460977)   |
 |                    1|[Reckless Charge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413686)        |                    1|[Oxidize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=46012)             |
 |                     |                                                                                                  |                    2|[Oxidize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=46012)             |
 

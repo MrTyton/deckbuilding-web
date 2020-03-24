@@ -1,37 +1,25 @@
-2 Ipnu Rivulet
-3 Ipnu Rivulet
-1 Kozilek, the Great Distortion
-1 Temple of Mystery
-2 Island
-1 Hashep Oasis
-4 Ipnu Rivulet
-1 Satyr Wayfinder
-1 Uro, Titan of Nature's Wrath
-1 Cavalier of Thorns
-2 Uro, Titan of Nature's Wrath
-3 Uro, Titan of Nature's Wrath
-4 Uro, Titan of Nature's Wrath
-1 Castle Vantress
-2 Temple of Mystery
-1 Brazen Borrower
 1 Botanical Sanctum
+1 Brazen Borrower
 1 Merfolk Trickster
 1 Harbinger of the Tides
+2 Botanical Sanctum
 2 Brazen Borrower
 2 Merfolk Trickster
-2 Botanical Sanctum
-3 Island
+3 Brazen Borrower
 3 Botanical Sanctum
 3 Merfolk Trickster
-3 Brazen Borrower
+3 Island
 4 Botanical Sanctum
 4 Island
 4 Merfolk Trickster
 5 Island
 6 Island
+1 Temple of Mystery
+2 Temple of Mystery
 1 Nykthos, Shrine to Nyx
 1 Thassa's Oracle
 1 Gadwick, the Wizened
+1 Castle Vantress
 2 Nykthos, Shrine to Nyx
 2 Thassa's Oracle
 2 Gadwick, the Wizened
@@ -52,38 +40,27 @@
 2 Wizard's Retort
 3 Wizard's Retort
 4 Brazen Borrower
-1 Nissa, Vastwood Seer
 1 Blast Zone
-1 Desert of the Indomitable
-2 Desert of the Indomitable
-2 Hashep Oasis
-3 Hashep Oasis
-3 Temple of Mystery
-4 Hashep Oasis
+1 Hornet Queen
+1 Sandwurm Convergence
+4 Castle Garenbrig
 1 Unsummon
-1 Nivmagus Elemental
-1 Opt
 1 Hinterland Harbor
+1 Nivmagus Elemental
 1 Risen Reef
+1 Opt
 1 Mystical Dispute
 1 Master of Waves
 1 Essence Flux
 2 Master of Waves
-2 Opt
 2 Risen Reef
+2 Opt
 3 Master of Waves
-3 Opt
 3 Risen Reef
-4 Opt
+3 Opt
 4 Risen Reef
 4 Master of Waves
-1 Sandwurm Convergence
-2 Satyr Wayfinder
-3 Satyr Wayfinder
-3 Castle Garenbrig
-4 Castle Garenbrig
-4 Satyr Wayfinder
-4 Arboreal Grazer
+4 Opt
 1 Merfolk Mistbinder
 1 Unclaimed Territory
 1 Kopala, Warden of Waves
@@ -91,22 +68,42 @@
 1 Benthic Biomancer
 2 Merfolk Mistbinder
 2 Silvergill Adept
-2 Kopala, Warden of Waves
 2 Harbinger of the Tides
+2 Kopala, Warden of Waves
 2 Benthic Biomancer
 3 Harbinger of the Tides
 3 Merfolk Mistbinder
 3 Mutavault
 3 Benthic Biomancer
 3 Silvergill Adept
-4 Mutavault
 4 Merfolk Mistbinder
 4 Benthic Biomancer
 4 Harbinger of the Tides
+4 Mutavault
 4 Wizard's Retort
 4 Silvergill Adept
-1 Fblthp, the Lost
+1 Lumbering Falls
+1 Desert of the Indomitable
+1 Mage-Ring Network
+1 Unexpected Results
+2 Hashep Oasis
+2 Skyline Cascade
+2 Desert of the Indomitable
+2 Mage-Ring Network
+2 Emrakul, the Promised End
+2 Unexpected Results
+3 Hashep Oasis
+3 Mage-Ring Network
+3 Temple of Mystery
+3 Ulamog, the Ceaseless Hunger
+3 Unexpected Results
+3 Emrakul, the Promised End
+4 Hashep Oasis
+4 Ulamog, the Ceaseless Hunger
+4 Unexpected Results
+4 Emrakul, the Promised End
 1 Leyline of Anticipation
+1 Fblthp, the Lost
 1 Ashiok's Erasure
 1 Hypnotic Sprite
 1 Callaphe, Beloved of the Sea
@@ -115,37 +112,39 @@
 2 Ashiok's Erasure
 2 Callaphe, Beloved of the Sea
 2 Hypnotic Sprite
-3 Nykthos, Shrine to Nyx
 3 Leyline of Anticipation
 3 Callaphe, Beloved of the Sea
-4 Nykthos, Shrine to Nyx
+3 Nykthos, Shrine to Nyx
 4 Leyline of Anticipation
+4 Nykthos, Shrine to Nyx
 7 Island
-1 Elvish Mystic
-1 Nissa, Who Shakes the World
+1 Tireless Tracker
 1 Nissa's Pilgrimage
 1 Sylvan Caryatid
 1 Grapple with the Past
-1 Tireless Tracker
+1 Nissa, Who Shakes the World
+1 Elvish Mystic
 1 Llanowar Elves
 1 Gather the Pack
+2 Tireless Tracker
+2 Nissa's Pilgrimage
 2 Elvish Mystic
 2 World Breaker
 2 Grapple with the Past
-2 Nissa's Pilgrimage
 2 Nissa, Who Shakes the World
-2 Tireless Tracker
-2 Cavalier of Thorns
 2 Gather the Pack
 2 Llanowar Elves
-3 Llanowar Elves
 3 Cavalier of Thorns
+3 Tireless Tracker
+3 Llanowar Elves
+3 Forest
 3 Elvish Mystic
 3 Nissa, Who Shakes the World
-3 Tireless Tracker
-4 Llanowar Elves
 4 Cavalier of Thorns
 4 Elvish Mystic
+4 Llanowar Elves
+4 Forest
+5 Forest
 6 Forest
 7 Forest
 8 Forest
