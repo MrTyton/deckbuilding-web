@@ -36,7 +36,7 @@
 |                    1|[Castle Garenbrig](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473202)|                    1|[Tamiyo, Collector of Tales](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461147) |
 |                    2|[Castle Garenbrig](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473202)|                    1|[Nissa, Who Shakes the World](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461096)|
 |                    1|[Hydroid Krasis](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457327)  |                    1|Nylea's Intervention                                                                                  |
-|                   11|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)          |                    1|[Frogify](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473009)                    |
-|                     |                                                                                           |                    1|[Fabled Passage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473206)             |
+|                   11|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)          |                    1|[Fabled Passage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473206)             |
+|                     |                                                                                           |                    1|[Frogify](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473009)                    |
 |                     |                                                                                           |                    2|Mystic Repeal                                                                                         |
 

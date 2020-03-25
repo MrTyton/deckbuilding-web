@@ -35,6 +35,6 @@
 |                    1|[Quicken](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426578)        |                    1|[Ashiok, Dream Render](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461155) |
 |                    2|[Quicken](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426578)        |                    1|[Grasp of Darkness](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407595)    |
 |                    3|[Quicken](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426578)        |                    2|[Grasp of Darkness](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407595)    |
-|                    4|[Dreadbore](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430622)      |                    2|[Ultimate Price](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394735)       |
-|                     |                                                                                          |                    3|Soul-Guide Lantern                                                                              |
+|                    4|[Dreadbore](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430622)      |                    3|Soul-Guide Lantern                                                                              |
+|                     |                                                                                          |                    2|[Ultimate Price](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394735)       |
 
