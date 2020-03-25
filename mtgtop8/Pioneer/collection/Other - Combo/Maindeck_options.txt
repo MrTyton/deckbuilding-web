@@ -110,19 +110,19 @@
 1 Field of Ruin
 2 Field of Ruin
 1 Wastes
+1 Ratchet Bomb
 1 Blast Zone
 1 Mobilized District
 1 Heart of Kiran
 1 Mutavault
 1 Zhalfirin Void
-1 Ratchet Bomb
 1 Sea Gate Wreckage
 1 Karn, Scion of Urza
 1 Karn, the Great Creator
 1 Darksteel Citadel
 1 Warping Wail
-1 Spatial Contortion
 1 Stonecoil Serpent
+1 Spatial Contortion
 1 Scrap Trawler
 1 Fountain of Renewal
 1 Foundry of the Consuls
@@ -139,7 +139,6 @@
 2 Scrap Trawler
 2 Zhalfirin Void
 2 Fountain of Renewal
-3 Wastes
 3 Blast Zone
 3 Mutavault
 3 Karn, the Great Creator
@@ -149,6 +148,7 @@
 3 Ratchet Bomb
 3 Spatial Contortion
 3 Zhalfirin Void
+3 Wastes
 3 Fountain of Renewal
 3 Walking Ballista
 3 Scrap Trawler
@@ -163,8 +163,8 @@
 1 Hour of Devastation
 2 Vessel of Nascency
 2 Hour of Devastation
-3 Emrakul, the Promised End
 3 Vessel of Nascency
+3 Emrakul, the Promised End
 3 Hour of Devastation
 4 Hour of Devastation
 1 Geier Reach Sanitarium
@@ -219,8 +219,8 @@
 5 Plains
 1 Lovestruck Beast
 1 Rosethorn Acolyte
-1 Bonecrusher Giant
 1 Vivien Reid
+1 Bonecrusher Giant
 1 Kiora, Behemoth Beckoner
 1 Questing Beast
 1 Llanowar Elves
@@ -235,13 +235,13 @@
 1 Possibility Storm
 2 Lovestruck Beast
 2 Rosethorn Acolyte
-2 Kiora, Behemoth Beckoner
 2 Bonecrusher Giant
 2 Llanowar Elves
 2 Domri Rade
 2 Glorybringer
 2 Mountain
 2 Possibility Storm
+2 Kiora, Behemoth Beckoner
 2 Captain Lannery Storm
 2 Elvish Mystic
 2 Game Trail

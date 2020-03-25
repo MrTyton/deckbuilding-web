@@ -26,35 +26,3 @@
 |3 [Doom Foretold](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473149)      |                                                                                    |2 Heliod's Intervention|
 |2 [Ethereal Absolution](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457314)|                                                                                    |2 Shatter the Sky      |
 
-
-# Other Options
-
-|*n*<sup>th</sup> copy|                                       Maindeck Card                                       |*n*<sup>th</sup> copy|                                      Sideboard Card                                      |
-|--------------------:|-------------------------------------------------------------------------------------------|--------------------:|------------------------------------------------------------------------------------------|
-|                    1|Nightmare Shepherd                                                                         |                    1|[Devout Decree](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466767)  |
-|                    1|Heliod, Sun-Crowned                                                                        |                    1|[Murderous Rider](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473059)|
-|                    1|[Murderous Rider](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473059) |                    1|[Noxious Grasp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466864)  |
-|                    1|[Idyllic Tutor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=152938)   |                    1|[Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)          |
-|                    1|[Fabled Passage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473206)  |                    1|Archon of Sun's Grace                                                                     |
-|                    1|[Healer's Hawk](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452764)   |                    1|Sentinel's Eyes                                                                           |
-|                    1|Mogis's Favor                                                                              |                    2|[Devout Decree](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466767)  |
-|                    2|[Fabled Passage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473206)  |                    2|[Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)          |
-|                    2|Nightmare Shepherd                                                                         |                    2|[Noxious Grasp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466864)  |
-|                    2|Heliod, Sun-Crowned                                                                        |                    2|Sentinel's Eyes                                                                           |
-|                    2|[Murderous Rider](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473059) |                    3|[Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)          |
-|                    2|[Healer's Hawk](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452764)   |                    3|Sentinel's Eyes                                                                           |
-|                    2|[Idyllic Tutor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=152938)   |                    3|[Noxious Grasp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466864)  |
-|                    3|[Murderous Rider](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473059) |                    4|Sentinel's Eyes                                                                           |
-|                    3|Alseid of Life's Bounty                                                                    |                     |                                                                                          |
-|                    3|[Healer's Hawk](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452764)   |                     |                                                                                          |
-|                    3|[Idyllic Tutor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=152938)   |                     |                                                                                          |
-|                    3|[Dead Weight](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452817)     |                     |                                                                                          |
-|                    4|Mire's Grasp                                                                               |                     |                                                                                          |
-|                    4|[Starfield Mystic](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466793)|                     |                                                                                          |
-|                    4|Alseid of Life's Bounty                                                                    |                     |                                                                                          |
-|                    4|[Healer's Hawk](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452764)   |                     |                                                                                          |
-|                    4|[Idyllic Tutor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=152938)   |                     |                                                                                          |
-|                    7|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)          |                     |                                                                                          |
-|                    7|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)           |                     |                                                                                          |
-|                    8|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)           |                     |                                                                                          |
-

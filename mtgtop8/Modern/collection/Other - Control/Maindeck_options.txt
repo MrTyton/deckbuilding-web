@@ -1,24 +1,13 @@
-2 Blood Moon
+1 Field of Ruin
 1 Cryptic Command
 2 Cryptic Command
 5 Snow-Covered Island
 3 Force of Negation
 1 Flooded Strand
 1 Mystic Sanctuary
-1 Jace, the Mind Sculptor
-1 Fatal Push
-1 Polluted Delta
-2 Polluted Delta
-2 Fatal Push
-3 Fatal Push
-3 Polluted Delta
 2 Mystic Sanctuary
-3 Cryptic Command
-1 Drown in the Loch
-1 Watery Grave
-2 Drown in the Loch
-3 Snapcaster Mage
 2 Flooded Strand
+3 Cryptic Command
 3 Flooded Strand
 4 Flooded Strand
 1 Once Upon a Time
@@ -34,33 +23,40 @@
 2 Nexus of Fate
 2 Lonely Sandbar
 3 Mystic Sanctuary
-3 Fact or Fiction
 3 Remand
 3 Wilderness Reclamation
+3 Fact or Fiction
 4 Remand
 6 Snow-Covered Island
 7 Snow-Covered Island
-2 Jace, the Mind Sculptor
 3 Blood Moon
-1 Swamp
-1 Island
-1 Opt
-2 Opt
-4 Polluted Delta
+1 Jace, the Mind Sculptor
+2 Jace, the Mind Sculptor
+1 Fatal Push
+1 Polluted Delta
+2 Polluted Delta
+2 Fatal Push
+3 Polluted Delta
+3 Fatal Push
+1 Watery Grave
+1 Drown in the Loch
+2 Drown in the Loch
+3 Snapcaster Mage
 1 Waterlogged Grove
-1 Snow-Covered Swamp
-2 Spell Snare
 1 Archmage's Charm
+1 Swamp
 1 Geier Reach Sanitarium
 1 Narset, Parter of Veils
+1 Island
+1 Opt
 2 Watery Grave
 2 Narset, Parter of Veils
 2 Island
+2 Opt
 3 Watery Grave
 3 Opt
 3 Island
-4 Snapcaster Mage
-1 Darkslick Shores
+4 Polluted Delta
 1 Utopia Sprawl
 1 Arbor Elf
 2 Utopia Sprawl
@@ -91,25 +87,26 @@
 3 Once Upon a Time
 3 Snow-Covered Forest
 3 Mwonvuli Acid-Moss
+4 Snow-Covered Forest
 4 Karn, the Great Creator
 4 Mwonvuli Acid-Moss
-4 Snow-Covered Forest
 5 Snow-Covered Forest
 6 Snow-Covered Forest
 7 Snow-Covered Forest
 8 Snow-Covered Forest
 9 Snow-Covered Forest
-1 Castle Locthwain
-1 Klothys, God of Destiny
 1 Serum Visions
+1 Klothys, God of Destiny
 2 Serum Visions
 1 Assassin's Trophy
 1 Overgrown Tomb
+1 Snow-Covered Swamp
 1 Verdant Catacombs
+2 Spell Snare
 2 Assassin's Trophy
 2 Verdant Catacombs
-1 Tranquil Thicket
 1 Stubborn Denial
+1 Tranquil Thicket
 1 Prismatic Vista
 1 Chandra, Torch of Defiance
 1 Ashiok, Dream Render
@@ -119,45 +116,9 @@
 3 Wooded Foothills
 1 Treetop Village
 3 Scalding Tarn
-1 Bonecrusher Giant
-1 Seasoned Pyromancer
-1 Dark Confidant
-1 Blackcleave Cliffs
-1 Unearth
-1 Mountain
-1 Kroxa, Titan of Death's Hunger
-1 Fulminator Mage
-2 Kroxa, Titan of Death's Hunger
-2 Bloodstained Mire
-2 Blood Crypt
-2 Kolaghan's Command
-2 Seasoned Pyromancer
-2 Dark Confidant
-2 Thoughtseize
-2 Bonecrusher Giant
-2 Fulminator Mage
-2 Blackcleave Cliffs
-2 Mountain
-2 Unearth
-3 Bloodstained Mire
-3 Thoughtseize
-3 Bonecrusher Giant
-3 Fulminator Mage
-3 Kroxa, Titan of Death's Hunger
-3 Blackcleave Cliffs
-3 Unearth
-3 Dark Confidant
-3 Swamp
-3 Mountain
-4 Kroxa, Titan of Death's Hunger
-4 Bonecrusher Giant
-4 Dark Confidant
-4 Swamp
-4 Fulminator Mage
-4 Blackcleave Cliffs
-4 Unearth
 1 Go for the Throat
 1 Creeping Tar Pit
+1 Darkslick Shores
 1 Damnation
 2 Damnation
 2 Geier Reach Sanitarium
@@ -169,27 +130,44 @@
 4 Narset, Parter of Veils
 4 Creeping Tar Pit
 4 Opt
-1 Sunken Hollow
-1 Hero's Downfall
-1 Drowned Catacomb
-1 Sunken Ruins
-1 Radiant Fountain
-1 Shadow of Doubt
-1 Liliana's Triumph
-1 Whirlwind Denial
-1 Isochron Scepter
-1 Cling to Dust
-1 Into the Story
-1 Field of the Dead
-1 Deprive
-1 Empty the Pits
-2 Cling to Dust
-2 Into the Story
-2 Sunken Ruins
-3 Drown in the Loch
-4 Fatal Push
-4 Thought Scour
-4 Drown in the Loch
+1 Bonecrusher Giant
+1 Unearth
+1 Castle Locthwain
+1 Seasoned Pyromancer
+1 Dark Confidant
+1 Blackcleave Cliffs
+1 Mountain
+1 Kroxa, Titan of Death's Hunger
+1 Fulminator Mage
+2 Kroxa, Titan of Death's Hunger
+2 Bloodstained Mire
+2 Blood Crypt
+2 Kolaghan's Command
+2 Seasoned Pyromancer
+2 Dark Confidant
+2 Unearth
+2 Thoughtseize
+2 Bonecrusher Giant
+2 Fulminator Mage
+2 Blackcleave Cliffs
+2 Mountain
+3 Bloodstained Mire
+3 Thoughtseize
+3 Kroxa, Titan of Death's Hunger
+3 Unearth
+3 Fulminator Mage
+3 Bonecrusher Giant
+3 Blackcleave Cliffs
+3 Dark Confidant
+3 Swamp
+3 Mountain
+4 Bonecrusher Giant
+4 Kroxa, Titan of Death's Hunger
+4 Swamp
+4 Fulminator Mage
+4 Blackcleave Cliffs
+4 Unearth
+4 Dark Confidant
 1 Genesis Hydra
 1 Gilded Goose
 1 Oath of Nissa
@@ -220,13 +198,13 @@
 1 Esper Charm
 1 Hallowed Fountain
 1 Kaya's Guile
-1 Plains
 1 Path to Exile
 1 Teferi, Hero of Dominaria
 1 Teferi, Time Raveler
 1 Logic Knot
 1 Secure the Wastes
 1 Celestial Colonnade
+1 Plains
 1 Supreme Verdict
 2 Hallowed Fountain
 2 Archmage's Charm
@@ -235,6 +213,7 @@
 2 Teferi, Time Raveler
 2 Celestial Colonnade
 3 Path to Exile
+4 Snapcaster Mage
 4 Island
 1 Blast Zone
 1 Pendelhaven
