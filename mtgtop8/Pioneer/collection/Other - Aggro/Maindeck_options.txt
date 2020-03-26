@@ -1,111 +1,60 @@
+1 Isolated Chapel
+1 Archangel Avacyn
+1 Caves of Koilos
+1 Concealed Courtyard
+1 Godless Shrine
+2 Isolated Chapel
+2 Archangel Avacyn
+2 Concealed Courtyard
+2 Godless Shrine
+2 Caves of Koilos
+3 Caves of Koilos
+3 Concealed Courtyard
+3 Godless Shrine
+4 Godless Shrine
 1 Swamp
 1 Thoughtseize
-1 Scrapheap Scrounger
 2 Thoughtseize
 3 Thoughtseize
 4 Thoughtseize
+1 Scrapheap Scrounger
 1 Fatal Push
 2 Fatal Push
 3 Fatal Push
 4 Fatal Push
-2 Scrapheap Scrounger
 2 Gideon, Ally of Zendikar
 3 Gideon, Ally of Zendikar
-3 Scrapheap Scrounger
+2 Scrapheap Scrounger
 1 Heart of Kiran
 2 Heart of Kiran
 3 Heart of Kiran
+3 Scrapheap Scrounger
 4 Scrapheap Scrounger
 1 Mutavault
 2 Mutavault
-1 Isolated Chapel
-1 Archangel Avacyn
 1 Kaya, Orzhov Usurper
 1 Urborg, Tomb of Yawgmoth
 1 History of Benalia
-1 Caves of Koilos
-1 Concealed Courtyard
 1 Knight of the Ebon Legion
 1 Kytheon, Hero of Akros
-1 Godless Shrine
-2 Isolated Chapel
-2 Archangel Avacyn
 2 History of Benalia
 2 Knight of the Ebon Legion
-2 Godless Shrine
-2 Concealed Courtyard
-2 Caves of Koilos
 2 Kytheon, Hero of Akros
 3 History of Benalia
 3 Mutavault
 3 Gideon of the Trials
-3 Caves of Koilos
-3 Concealed Courtyard
-3 Godless Shrine
 3 Knight of the Ebon Legion
 4 History of Benalia
-4 Godless Shrine
 4 Knight of the Ebon Legion
 4 Caves of Koilos
 4 Concealed Courtyard
-2 Swamp
-1 Satyr Wayfinder
-2 Satyr Wayfinder
-3 Satyr Wayfinder
-4 Satyr Wayfinder
-1 Overgrown Tomb
-1 Blooming Marsh
-2 Blooming Marsh
-2 Overgrown Tomb
-3 Blooming Marsh
-1 Watery Grave
-2 Watery Grave
-1 Botanical Sanctum
-1 Creeping Chill
-1 Gurmag Angler
-1 Gather the Pack
-1 Haunted Dead
-1 Driven / Despair
-1 Narcomoeba
-1 Grisly Salvage
-1 Stitcher's Supplier
-1 Prized Amalgam
-1 Llanowar Wastes
-2 Grisly Salvage
-2 Creeping Chill
-2 Botanical Sanctum
-2 Gurmag Angler
-2 Gather the Pack
-2 Driven / Despair
-2 Narcomoeba
-2 Haunted Dead
-2 Stitcher's Supplier
-2 Prized Amalgam
-2 Llanowar Wastes
-3 Gurmag Angler
-3 Creeping Chill
-3 Grisly Salvage
-3 Gather the Pack
-3 Haunted Dead
-3 Overgrown Tomb
-3 Stitcher's Supplier
-3 Prized Amalgam
-3 Llanowar Wastes
-3 Narcomoeba
-4 Creeping Chill
-4 Gather the Pack
-4 Grisly Salvage
-4 Stitcher's Supplier
-4 Prized Amalgam
-4 Overgrown Tomb
-4 Narcomoeba
+1 Gideon's Intervention
+2 Baffling End
 1 Forest
 2 Forest
 3 Forest
 4 Forest
 5 Forest
-1 Gideon's Intervention
-2 Baffling End
 1 Sunpetal Grove
 1 Temple Garden
 2 Temple Garden
@@ -115,6 +64,7 @@
 4 Sunpetal Grove
 4 Temple Garden
 6 Forest
+1 Courser of Kruphix
 1 Wolfwillow Haven
 1 Temple of Plenty
 1 Sigil of the Empty Throne
@@ -124,7 +74,6 @@
 1 Sphere of Safety
 1 Eidolon of Blossoms
 1 Setessan Champion
-1 Courser of Kruphix
 1 Herald of the Pantheon
 2 Courser of Kruphix
 2 Wolfwillow Haven
@@ -149,38 +98,47 @@
 4 Herald of the Pantheon
 4 Eidolon of Blossoms
 4 Wolfwillow Haven
-1 Murderous Rider
-3 Swamp
-2 Murderous Rider
+3 Isolated Chapel
 2 Gideon's Intervention
-4 Blooming Marsh
-3 Watery Grave
-1 Breeding Pool
-1 Blast Zone
+1 Arcanist's Owl
+2 Nykthos, Shrine to Nyx
+2 Arcanist's Owl
+3 Arcanist's Owl
+4 Arcanist's Owl
+4 Heliod, Sun-Crowned
+1 Murderous Rider
+2 Murderous Rider
+1 Benalish Marshal
+2 Benalish Marshal
+2 Swamp
 1 Dragonskull Summit
 1 Blood Crypt
 1 Mountain
 2 Dragonskull Summit
 2 Blood Crypt
-1 Liliana, the Last Hope
-1 Fabled Passage
-2 Fabled Passage
-3 Fabled Passage
 1 Bonecrusher Giant
+1 Blast Zone
 1 Island
+1 Watery Grave
+2 Watery Grave
 1 Kolaghan's Command
 1 Nicol Bolas, the Ravager
 1 Jace, Vryn's Prodigy
 1 Steam Vents
 1 Drowned Catacomb
-2 Nicol Bolas, the Ravager
 2 Kolaghan's Command
+2 Nicol Bolas, the Ravager
 2 Drowned Catacomb
 2 Jace, Vryn's Prodigy
 3 Drowned Catacomb
 3 Nicol Bolas, the Ravager
+3 Watery Grave
 4 Drowned Catacomb
 4 Watery Grave
+1 Liliana, the Last Hope
+1 Fabled Passage
+2 Fabled Passage
+3 Fabled Passage
 1 Castle Locthwain
 3 Dragonskull Summit
 3 Blood Crypt
@@ -188,71 +146,54 @@
 4 Dragonskull Summit
 1 Spawn of Mayhem
 2 Spawn of Mayhem
-3 Isolated Chapel
-1 Woodland Cemetery
-3 Botanical Sanctum
-3 Driven / Despair
-1 Decimator of the Provinces
-4 Gurmag Angler
-1 Questing Beast
-1 Field of Ruin
-1 Nissa, Vastwood Seer
-1 Tasigur, the Golden Fang
-1 Polukranos, Unchained
-1 Ramunap Excavator
-1 Hissing Quagmire
-1 Thrashing Brontodon
-1 Vraska, Golgari Queen
-1 Scavenging Ooze
-1 Ishkanah, Grafwidow
-1 Traverse the Ulvenwald
-1 Abrupt Decay
-1 Tireless Tracker
-1 Assassin's Trophy
-2 Liliana, the Last Hope
-2 Scavenging Ooze
-2 Hissing Quagmire
-2 Field of Ruin
-2 Assassin's Trophy
-2 Tireless Tracker
-2 Traverse the Ulvenwald
-3 Field of Ruin
-3 Traverse the Ulvenwald
-4 Traverse the Ulvenwald
+3 Swamp
+1 Selfless Spirit
+1 Sorin, Vengeful Bloodlord
+1 Always Watching
+2 Sorin, Vengeful Bloodlord
+2 Selfless Spirit
+2 Always Watching
+2 Stasis Snare
+4 Isolated Chapel
+1 Glorybringer
+2 Glorybringer
+1 Bomat Courier
+2 Bomat Courier
+3 Bomat Courier
+4 Bomat Courier
 1 Kunoros, Hound of Athreos
 2 Kunoros, Hound of Athreos
 4 Mutavault
-3 Daxos, Blessed by the Sun
-4 Spell Queller
 1 Starfield Mystic
 1 Cast Out
 3 Gideon's Intervention
 4 Gideon's Intervention
 1 Shadowspear
-1 Nicol Bolas, Dragon-God
 1 Kalitas, Traitor of Ghet
+1 Nicol Bolas, Dragon-God
 1 Woe Strider
-1 Thought Erasure
 1 Goblin Cratermaker
+1 Thought Erasure
 1 Vraska's Contempt
 1 Ashiok, Nightmare Muse
 1 Seekers' Squire
 2 Vraska's Contempt
 2 Nicol Bolas, Dragon-God
+2 Kalitas, Traitor of Ghet
 2 Thought Erasure
 2 Seekers' Squire
-2 Kalitas, Traitor of Ghet
 3 Thought Erasure
 3 Vraska's Contempt
 3 Seekers' Squire
 4 Nicol Bolas, the Ravager
 4 Vraska's Contempt
-1 Glorybringer
-2 Glorybringer
+3 Daxos, Blessed by the Sun
+4 Spell Queller
 1 Kroxa, Titan of Death's Hunger
 1 Dragonlord Kolaghan
 1 Drown in the Loch
 1 Fetid Pools
+1 Dragonlord Silumgar
 1 Brazen Borrower
 1 Cast Down
 1 Silumgar's Scorn
@@ -260,11 +201,10 @@
 1 Castle Vantress
 1 Dragonmaster Outcast
 1 Dig Through Time
-1 Dragonlord Silumgar
 1 Sulfur Falls
 2 Kroxa, Titan of Death's Hunger
-2 Steam Vents
 2 Drown in the Loch
+2 Steam Vents
 2 Fetid Pools
 2 Cast Down
 2 Sulfur Falls
@@ -278,10 +218,83 @@
 3 Silumgar's Scorn
 4 Sulfur Falls
 4 Steam Vents
-1 Bomat Courier
-2 Bomat Courier
-3 Bomat Courier
-4 Bomat Courier
+1 Satyr Wayfinder
+2 Satyr Wayfinder
+3 Satyr Wayfinder
+4 Satyr Wayfinder
+1 Overgrown Tomb
+1 Blooming Marsh
+2 Blooming Marsh
+2 Overgrown Tomb
+3 Blooming Marsh
+1 Questing Beast
+1 Field of Ruin
+1 Nissa, Vastwood Seer
+1 Polukranos, Unchained
+1 Ramunap Excavator
+1 Hissing Quagmire
+1 Tasigur, the Golden Fang
+1 Thrashing Brontodon
+1 Vraska, Golgari Queen
+1 Scavenging Ooze
+1 Ishkanah, Grafwidow
+1 Traverse the Ulvenwald
+1 Abrupt Decay
+1 Tireless Tracker
+1 Assassin's Trophy
+2 Liliana, the Last Hope
+2 Hissing Quagmire
+2 Field of Ruin
+2 Assassin's Trophy
+2 Tireless Tracker
+2 Traverse the Ulvenwald
+2 Scavenging Ooze
+3 Field of Ruin
+3 Traverse the Ulvenwald
+4 Traverse the Ulvenwald
+4 Blooming Marsh
+1 Breeding Pool
+1 Botanical Sanctum
+1 Creeping Chill
+1 Gurmag Angler
+1 Gather the Pack
+1 Haunted Dead
+1 Driven / Despair
+1 Narcomoeba
+1 Grisly Salvage
+1 Stitcher's Supplier
+1 Decimator of the Provinces
+1 Prized Amalgam
+1 Llanowar Wastes
+2 Creeping Chill
+2 Botanical Sanctum
+2 Gurmag Angler
+2 Gather the Pack
+2 Driven / Despair
+2 Narcomoeba
+2 Haunted Dead
+2 Grisly Salvage
+2 Stitcher's Supplier
+2 Prized Amalgam
+2 Llanowar Wastes
+3 Gurmag Angler
+3 Creeping Chill
+3 Grisly Salvage
+3 Gather the Pack
+3 Haunted Dead
+3 Overgrown Tomb
+3 Stitcher's Supplier
+3 Prized Amalgam
+3 Llanowar Wastes
+3 Narcomoeba
+4 Gurmag Angler
+4 Creeping Chill
+4 Gather the Pack
+4 Grisly Salvage
+4 Stitcher's Supplier
+4 Prized Amalgam
+4 Overgrown Tomb
+4 Narcomoeba
 2 Bonecrusher Giant
 3 Bonecrusher Giant
 1 Sacred Foundry
@@ -338,7 +351,6 @@
 1 Inspiring Vantage
 1 Toolcraft Exemplar
 1 Servo Exhibition
-1 Benalish Marshal
 1 Battlefield Forge
 1 Raise the Alarm
 1 Shefet Dunes
@@ -351,15 +363,14 @@
 2 Shefet Dunes
 2 Toolcraft Exemplar
 2 Servo Exhibition
-2 Benalish Marshal
 3 Reckless Bushwhacker
 3 Battlefield Forge
 3 Legion's Landing
+3 Benalish Marshal
 3 Lightning Strike
 3 Inspiring Vantage
 3 Toolcraft Exemplar
 3 Servo Exhibition
-3 Benalish Marshal
 3 Raise the Alarm
 4 Reckless Bushwhacker
 4 Battlefield Forge
@@ -376,54 +387,54 @@
 1 Stonecoil Serpent
 1 Spire of Industry
 1 Metallic Rebuke
-1 Ghostfire Blade
-1 Gingerbrute
-1 Ensoul Artifact
-1 Steel Overseer
-1 Shrapnel Blast
 1 Hope of Ghirapur
 1 Springleaf Drum
 1 Aether Hub
+1 Ensoul Artifact
 1 Darksteel Citadel
+1 Gingerbrute
+1 Ghostfire Blade
+1 Shrapnel Blast
+1 Steel Overseer
 1 All That Glitters
 1 Ornithopter
 2 Stonecoil Serpent
 2 Spire of Industry
 2 Metallic Rebuke
-2 Ensoul Artifact
-2 Gingerbrute
-2 Darksteel Citadel
-2 Ghostfire Blade
-2 Shrapnel Blast
-2 Steel Overseer
 2 Hope of Ghirapur
+2 Steel Overseer
 2 Aether Hub
 2 All That Glitters
 2 Ornithopter
+2 Darksteel Citadel
+2 Gingerbrute
+2 Ensoul Artifact
 2 Springleaf Drum
+2 Ghostfire Blade
+2 Shrapnel Blast
 3 Stonecoil Serpent
 3 Spire of Industry
 3 Steel Overseer
-3 Shrapnel Blast
-3 Darksteel Citadel
-3 Ghostfire Blade
-3 Ensoul Artifact
-3 Gingerbrute
 3 Mana Confluence
+3 Darksteel Citadel
 3 Ornithopter
 3 Springleaf Drum
+3 Ensoul Artifact
+3 Ghostfire Blade
+3 Shrapnel Blast
+3 Gingerbrute
 3 Aether Hub
 3 All That Glitters
-4 Stonecoil Serpent
 4 Spire of Industry
-4 Shrapnel Blast
-4 Ghostfire Blade
-4 Gingerbrute
-4 Darksteel Citadel
-4 Ensoul Artifact
+4 Stonecoil Serpent
 4 Ornithopter
+4 Darksteel Citadel
 4 Mana Confluence
 4 Springleaf Drum
+4 Gingerbrute
+4 Ghostfire Blade
+4 Shrapnel Blast
+4 Ensoul Artifact
 4 Aether Hub
 1 Wild Slash
 1 Angrath's Rampage
@@ -466,17 +477,17 @@
 1 Uro, Titan of Nature's Wrath
 1 Ipnu Rivulet
 1 Hinterland Harbor
+2 Nissa, Who Shakes the World
 2 Ipnu Rivulet
 2 Castle Garenbrig
 2 Cavalier of Thorns
 2 Yavimaya Coast
+2 Ugin, the Spirit Dragon
 2 Nissa's Pilgrimage
 2 World Breaker
-2 Ugin, the Spirit Dragon
 2 Arboreal Grazer
 2 Blast Zone
 2 Hinterland Harbor
-2 Nissa, Who Shakes the World
 2 Breeding Pool
 2 Uro, Titan of Nature's Wrath
 2 Growth Spiral
@@ -499,21 +510,15 @@
 7 Forest
 8 Forest
 9 Forest
-1 Arcanist's Owl
 1 Idyllic Grange
 1 Karn, the Great Creator
-2 Nykthos, Shrine to Nyx
 2 Elspeth Conquers Death
 2 Idyllic Grange
 2 Karn, the Great Creator
-2 Arcanist's Owl
 3 Baffling End
 3 Nykthos, Shrine to Nyx
-3 Arcanist's Owl
 3 Karn, the Great Creator
 4 Nykthos, Shrine to Nyx
-4 Arcanist's Owl
-4 Heliod, Sun-Crowned
 4 Karn, the Great Creator
 10 Plains
 11 Plains
