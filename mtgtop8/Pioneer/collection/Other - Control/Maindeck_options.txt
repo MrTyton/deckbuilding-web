@@ -1,43 +1,15 @@
-2 Hallowed Fountain
-3 Hallowed Fountain
-4 Hallowed Fountain
-1 Temple of Silence
-2 Drowned Catacomb
-3 Watery Grave
-4 Watery Grave
+3 History of Benalia
+4 Isolated Chapel
+4 Treacherous Blessing
+4 Trial of Ambition
+4 History of Benalia
+4 Shambling Vent
 2 Castle Locthwain
 2 Fabled Passage
+1 Mountain
 3 Fabled Passage
 4 Fatal Push
-1 Mountain
 2 Mountain
-1 Chandra, Torch of Defiance
-2 Chandra, Torch of Defiance
-3 Mountain
-1 Castle Ardenvale
-1 Elspeth, Sun's Champion
-1 Gideon of the Trials
-1 Gideon, Ally of Zendikar
-1 Nahiri, the Harbinger
-1 Sweltering Suns
-1 Clifftop Retreat
-1 Chained to the Rocks
-1 Sacred Foundry
-2 Sweltering Suns
-2 Sacred Foundry
-2 Gideon, Ally of Zendikar
-2 Chained to the Rocks
-3 Chained to the Rocks
-3 Sacred Foundry
-4 Sacred Foundry
-4 Mountain
-5 Mountain
-6 Mountain
-7 Mountain
-1 Bonecrusher Giant
-2 Bonecrusher Giant
-3 Bonecrusher Giant
-4 Bonecrusher Giant
 1 Dreadbore
 1 Blood Crypt
 1 Dragonskull Summit
@@ -45,22 +17,25 @@
 2 Dragonskull Summit
 3 Blood Crypt
 3 Dragonskull Summit
-4 Dragonskull Summit
 4 Blood Crypt
+3 Drowned Catacomb
+2 Dreadbore
+3 Dreadbore
+1 Kroxa, Titan of Death's Hunger
+2 Kroxa, Titan of Death's Hunger
+3 Kroxa, Titan of Death's Hunger
+4 Dragonskull Summit
+1 Bonecrusher Giant
+2 Bonecrusher Giant
+1 Chandra, Torch of Defiance
+2 Chandra, Torch of Defiance
+3 Bonecrusher Giant
+1 Temple of Silence
+4 Bonecrusher Giant
+4 Kroxa, Titan of Death's Hunger
+4 Fabled Passage
+4 Dreadbore
 4 Swamp
-1 The Birth of Meletis
-2 The Birth of Meletis
-3 The Birth of Meletis
-1 Emrakul, the Promised End
-1 Anger of the Gods
-1 Temple of Triumph
-2 Anger of the Gods
-2 Temple of Triumph
-3 Temple of Triumph
-4 Temple of Triumph
-1 Elspeth Conquers Death
-1 Murderous Rider
-2 Murderous Rider
 1 Final Payment
 1 Aphemia, the Cacophony
 1 Tymaret Calls the Dead
@@ -73,36 +48,61 @@
 3 Final Payment
 4 Aphemia, the Cacophony
 4 Final Payment
-3 Sweltering Suns
 1 Detention Sphere
 3 Teferi, Time Raveler
-2 Gideon of the Trials
 2 Glacial Fortress
 3 Glacial Fortress
-3 Drowned Catacomb
+3 Mountain
+1 Castle Ardenvale
+1 The Birth of Meletis
+2 The Birth of Meletis
+3 The Birth of Meletis
+1 Elspeth Conquers Death
+1 Chained to the Rocks
+1 Elspeth, Sun's Champion
+1 Gideon of the Trials
+1 Gideon, Ally of Zendikar
+1 Nahiri, the Harbinger
+1 Sweltering Suns
+1 Clifftop Retreat
+1 Sacred Foundry
+2 Chained to the Rocks
+2 Sweltering Suns
+2 Sacred Foundry
+2 Gideon, Ally of Zendikar
+3 Sweltering Suns
+3 Chained to the Rocks
+3 Sacred Foundry
+4 Sacred Foundry
+4 Mountain
+5 Mountain
+6 Mountain
+7 Mountain
+1 Emrakul, the Promised End
 1 Mutavault
+1 Anger of the Gods
 1 Pirate's Pillage
+1 Temple of Triumph
 1 Indomitable Creativity
 1 Dragonlord Kolaghan
 1 Void Winnower
 1 Angel of Serenity
 2 Elspeth Conquers Death
+2 Anger of the Gods
+2 Temple of Triumph
 2 Pirate's Pillage
 2 Indomitable Creativity
+3 Temple of Triumph
 3 Pirate's Pillage
 3 Indomitable Creativity
 4 The Birth of Meletis
+4 Temple of Triumph
 4 Pirate's Pillage
 4 Indomitable Creativity
 8 Mountain
-1 Liliana, the Last Hope
-2 Liliana, the Last Hope
-2 Dreadbore
-3 Dreadbore
-1 Kroxa, Titan of Death's Hunger
-2 Kroxa, Titan of Death's Hunger
-3 Kroxa, Titan of Death's Hunger
 5 Plains
+1 Murderous Rider
+2 Murderous Rider
 1 Omen of the Sea
 1 Search for Azcanta
 1 Dance of the Manse
@@ -116,93 +116,84 @@
 4 Omen of the Sea
 1 Starfield of Nyx
 2 Starfield of Nyx
-4 Fabled Passage
-5 Swamp
-1 Kalitas, Traitor of Ghet
-1 Field of Ruin
-1 Forest
-2 Forest
-1 Traverse the Ulvenwald
-1 Ishkanah, Grafwidow
-1 Abrupt Decay
-1 Overgrown Tomb
-1 Walking Ballista
-1 Tireless Tracker
-1 Questing Beast
-2 Traverse the Ulvenwald
-2 Tireless Tracker
-2 Overgrown Tomb
-3 Traverse the Ulvenwald
-3 Anger of the Gods
-4 Chained to the Rocks
-1 Elspeth, Sun's Nemesis
-1 Haktos the Unscarred
-1 Needle Spires
-1 Lava Coil
-2 Clifftop Retreat
-2 Haktos the Unscarred
-2 Lava Coil
-2 Needle Spires
-3 Gideon of the Trials
-3 Gideon, Ally of Zendikar
-3 Needle Spires
-4 Gideon of the Trials
-3 Supreme Verdict
-1 Satyr Wayfinder
-2 Satyr Wayfinder
-3 Satyr Wayfinder
-4 Satyr Wayfinder
-1 Jace, Vryn's Prodigy
-1 Ashiok, Nightmare Muse
-2 Island
-2 Jace, Vryn's Prodigy
-1 Nissa, Who Shakes the World
-1 Breeding Pool
-1 Uro, Titan of Nature's Wrath
-1 Ipnu Rivulet
-2 Breeding Pool
-2 Uro, Titan of Nature's Wrath
-3 Uro, Titan of Nature's Wrath
-3 Breeding Pool
-4 Uro, Titan of Nature's Wrath
-4 Breeding Pool
-1 Scavenging Ooze
-1 Blooming Marsh
-2 Blooming Marsh
-3 Blooming Marsh
-4 Blooming Marsh
-3 Overgrown Tomb
-4 Overgrown Tomb
-1 Hissing Quagmire
-1 Assassin's Trophy
-2 Assassin's Trophy
-2 Field of Ruin
-2 Hissing Quagmire
-4 Traverse the Ulvenwald
-3 Forest
-4 Forest
-1 Urborg, Tomb of Yawgmoth
+1 Liliana, the Last Hope
+2 Liliana, the Last Hope
+1 Discovery / Dispersal
+2 Discovery / Dispersal
+3 Discovery / Dispersal
+4 Discovery / Dispersal
+1 Canyon Slough
+2 Canyon Slough
+3 Canyon Slough
 1 Glorybringer
 1 Kolaghan's Command
 2 Kolaghan's Command
 2 Glorybringer
 3 Chandra, Torch of Defiance
 3 Kolaghan's Command
-1 Canyon Slough
-2 Canyon Slough
-3 Canyon Slough
-4 Kroxa, Titan of Death's Hunger
-1 Collective Brutality
-1 Ob Nixilis Reignited
+1 Urborg, Tomb of Yawgmoth
+3 Supreme Verdict
+1 Satyr Wayfinder
+1 Forest
+2 Satyr Wayfinder
+2 Forest
+3 Satyr Wayfinder
+1 Jace, Vryn's Prodigy
+1 Ashiok, Nightmare Muse
+2 Island
+2 Jace, Vryn's Prodigy
+4 Satyr Wayfinder
+1 Breeding Pool
+2 Breeding Pool
+3 Breeding Pool
+4 Breeding Pool
+1 Nissa, Who Shakes the World
+1 Uro, Titan of Nature's Wrath
+1 Ipnu Rivulet
+2 Uro, Titan of Nature's Wrath
+3 Uro, Titan of Nature's Wrath
+4 Uro, Titan of Nature's Wrath
+1 Traverse the Ulvenwald
+1 Abrupt Decay
+1 Overgrown Tomb
+1 Walking Ballista
+1 Ishkanah, Grafwidow
+1 Tireless Tracker
+1 Scavenging Ooze
+1 Questing Beast
+1 Blooming Marsh
+2 Traverse the Ulvenwald
+2 Tireless Tracker
+2 Blooming Marsh
+2 Overgrown Tomb
+3 Traverse the Ulvenwald
+3 Blooming Marsh
+4 Blooming Marsh
+1 Nicol Bolas, the Ravager
+2 Nicol Bolas, the Ravager
+3 Nicol Bolas, the Ravager
+4 Nicol Bolas, the Ravager
+2 Gideon of the Trials
+1 Field of Ruin
 1 Teferi, Hero of Dominaria
 1 Dovin's Veto
 1 Dig Through Time
 1 Absorb
 1 Narset, Parter of Veils
 2 Teferi, Hero of Dominaria
-4 Dreadbore
+3 Forest
+4 Forest
+1 Ob Nixilis Reignited
+5 Swamp
+1 Kalitas, Traitor of Ghet
 1 Vraska's Contempt
 4 Drowned Catacomb
+1 Spirebluff Canal
+1 Opt
+2 Spirebluff Canal
+2 Opt
+3 Opt
+4 Opt
 1 Blast Zone
 5 Forest
 1 Ugin, the Spirit Dragon
@@ -216,42 +207,70 @@
 2 Ugin, the Spirit Dragon
 2 Nissa, Who Shakes the World
 3 Ipnu Rivulet
+1 Stomping Ground
+1 Steam Vents
+2 Stomping Ground
+2 Steam Vents
+3 Stomping Ground
+3 Steam Vents
+4 Stomping Ground
+1 Essence Scatter
+2 Essence Scatter
 1 Thirst for Meaning
 1 Disdainful Stroke
 1 Silence
+1 Elspeth, Sun's Nemesis
 2 Elspeth, Sun's Nemesis
-1 Tasigur, the Golden Fang
-1 Nissa, Vastwood Seer
-1 Vraska, Golgari Queen
-1 Thrashing Brontodon
-1 Scrapheap Scrounger
-1 Ramunap Excavator
-1 Polukranos, Unchained
-2 Scavenging Ooze
-3 Field of Ruin
 1 Sphinx's Revelation
 1 Thought Erasure
 1 Ojutai's Command
 1 Cast Down
 1 Drown in the Loch
 2 Thought Erasure
+2 Drown in the Loch
 2 Absorb
 2 Narset, Parter of Veils
-2 Drown in the Loch
 3 Absorb
-1 Opulent Palace
-1 Hostage Taker
-1 Tamiyo, Collector of Tales
-2 Abrupt Decay
-3 Jace, Vryn's Prodigy
-1 Essence Scatter
+1 Quicken
+2 Quicken
+3 Quicken
+1 Syncopate
+1 Thassa's Intervention
+1 Radiant Flames
+1 Ashiok, Nightmare Weaver
+1 Sulfur Falls
+1 Nicol Bolas, Dragon-God
+2 Sulfur Falls
+2 Nicol Bolas, Dragon-God
+2 Thassa's Intervention
+2 Syncopate
+2 Radiant Flames
+2 Ashiok, Nightmare Weaver
+2 Kalitas, Traitor of Ghet
+3 Murderous Rider
+3 Syncopate
+3 Thassa's Intervention
+1 Vraska, Golgari Queen
+1 Hissing Quagmire
+1 Scrapheap Scrounger
+1 Thrashing Brontodon
+1 Ramunap Excavator
+1 Polukranos, Unchained
+1 Tasigur, the Golden Fang
+1 Nissa, Vastwood Seer
+1 Assassin's Trophy
+2 Assassin's Trophy
+2 Scavenging Ooze
+2 Field of Ruin
+2 Hissing Quagmire
+3 Field of Ruin
+4 Traverse the Ulvenwald
 1 Void Shatter
 1 Censor
 1 Kaya, Orzhov Usurper
 1 Fetid Pools
 1 Utter End
 1 Glimmer of Genius
-2 Essence Scatter
 2 Void Shatter
 2 Censor
 2 Dig Through Time
@@ -263,19 +282,6 @@
 3 Glimmer of Genius
 3 Teferi, Hero of Dominaria
 4 Glacial Fortress
-1 Woodland Cemetery
-1 Grim Flayer
-1 Vessel of Nascency
-1 Courser of Kruphix
-2 Walking Ballista
-2 Woodland Cemetery
-2 Grim Flayer
-2 Courser of Kruphix
-2 Vessel of Nascency
-3 Woodland Cemetery
-3 Grim Flayer
-3 Courser of Kruphix
-4 Grim Flayer
 1 Chandra, Flamecaller
 1 Bedevil
 1 Read the Bones
@@ -290,55 +296,63 @@
 2 Agonizing Remorse
 3 Read the Bones
 4 Read the Bones
-1 Nicol Bolas, the Ravager
-1 Thassa's Intervention
-1 Syncopate
-1 Radiant Flames
-1 Ashiok, Nightmare Weaver
-1 Sulfur Falls
-1 Nicol Bolas, Dragon-God
-2 Sulfur Falls
-2 Nicol Bolas, Dragon-God
-2 Nicol Bolas, the Ravager
-2 Thassa's Intervention
-2 Syncopate
-2 Radiant Flames
-2 Ashiok, Nightmare Weaver
-2 Kalitas, Traitor of Ghet
-3 Murderous Rider
-3 Nicol Bolas, the Ravager
-3 Syncopate
-3 Thassa's Intervention
-4 Nicol Bolas, the Ravager
-1 Discovery / Dispersal
 1 Foreboding Ruins
 1 Mire Triton
 2 Foreboding Ruins
 2 Mire Triton
-2 Discovery / Dispersal
 3 Glorybringer
-3 Discovery / Dispersal
 4 Canyon Slough
-4 Discovery / Dispersal
+3 Anger of the Gods
+4 Chained to the Rocks
+1 Botanical Sanctum
+1 Risen Reef
+1 Fiery Impulse
+1 Living Twister
+1 Mizzium Mortars
+1 Spell Pierce
+1 Young Pyromancer
+1 Chandra, Acolyte of Flame
+1 Dive Down
+1 Castle Embereth
+1 Chart a Course
+1 Treasure Cruise
+1 Wild Slash
+2 Botanical Sanctum
+2 Risen Reef
+2 Fiery Impulse
+2 Chandra, Acolyte of Flame
+2 Mizzium Mortars
+2 Dive Down
+2 Chart a Course
+2 Wild Slash
+2 Treasure Cruise
+2 Young Pyromancer
+3 Botanical Sanctum
+3 Risen Reef
+3 Young Pyromancer
+3 Spirebluff Canal
+3 Chandra, Acolyte of Flame
+3 Mizzium Mortars
+3 Chart a Course
+3 Wild Slash
+4 Steam Vents
+4 Risen Reef
+4 Young Pyromancer
+4 Spirebluff Canal
+4 Chart a Course
+4 Wild Slash
 1 Sylvan Caryatid
-1 Stomping Ground
-1 Steam Vents
-1 Elder Deep-Fiend
 1 Kozilek's Return
+1 Elder Deep-Fiend
 1 Champion of Wits
 2 Sylvan Caryatid
-2 Stomping Ground
 2 Champion of Wits
-2 Steam Vents
 2 Elder Deep-Fiend
 2 Kozilek's Return
-3 Stomping Ground
 3 Nissa, Who Shakes the World
 3 Elder Deep-Fiend
 3 Kozilek's Return
 3 Champion of Wits
-3 Steam Vents
-4 Stomping Ground
 4 Champion of Wits
 4 Elder Deep-Fiend
 4 Kozilek's Return
@@ -348,42 +362,54 @@
 1 Temple of Enlightenment
 2 Temple of Enlightenment
 2 Search for Azcanta
-2 Concealed Courtyard
 2 Temple of Deceit
+2 Concealed Courtyard
 4 Oath of Kaya
-1 Settle the Wreckage
-1 Abrade
-2 Settle the Wreckage
-3 Clifftop Retreat
-3 Haktos the Unscarred
-4 Haktos the Unscarred
-4 Clifftop Retreat
+1 Sigil of the Empty Throne
 1 Kaya's Wrath
 1 Torment of Hailfire
-1 Sigil of the Empty Throne
 2 Kaya's Wrath
 3 Kaya's Wrath
 4 Cast Out
 4 Kaya's Wrath
+1 Opulent Palace
+1 Hostage Taker
+1 Tamiyo, Collector of Tales
+2 Abrupt Decay
+3 Jace, Vryn's Prodigy
+3 Overgrown Tomb
+4 Overgrown Tomb
 1 Brimaz, King of Oreskos
+1 Haktos the Unscarred
 1 Shatter the Sky
 1 Lightning Strike
 1 Inspiring Vantage
 1 Heart of Kiran
+1 Needle Spires
+1 Lava Coil
 2 Heart of Kiran
+2 Clifftop Retreat
 2 Shatter the Sky
+2 Needle Spires
 2 Lightning Strike
+2 Haktos the Unscarred
+2 Lava Coil
 2 Inspiring Vantage
+3 Gideon of the Trials
+3 Gideon, Ally of Zendikar
 3 Heart of Kiran
 3 Inspiring Vantage
+3 Needle Spires
 3 Shatter the Sky
 3 Lightning Strike
 4 Inspiring Vantage
+4 Gideon of the Trials
 4 Lightning Strike
 1 Gifted Aetherborn
 1 Liliana, Death's Majesty
 1 Temple of Malice
 1 Liliana's Triumph
+1 Collective Brutality
 1 Plaguecrafter
 1 Liliana, Dreadhorde General
 1 Ritual of Soot

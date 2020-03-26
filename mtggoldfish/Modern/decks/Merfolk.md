@@ -51,6 +51,6 @@
 |                    2|[Cavern of Souls](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278058)    |                     |                                                                                              |
 |                    3|[Cavern of Souls](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278058)    |                     |                                                                                              |
 |                    3|[Benthic Biomancer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457176)  |                     |                                                                                              |
-|                    4|[Cavern of Souls](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278058)    |                     |                                                                                              |
 |                    4|[Benthic Biomancer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457176)  |                     |                                                                                              |
+|                    4|[Cavern of Souls](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278058)    |                     |                                                                                              |
 

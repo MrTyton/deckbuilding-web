@@ -57,6 +57,6 @@
 |                    3|[Horizon Canopy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409571)             |                     |                                                                                                   |
 |                    3|[Blade Splicer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425828)              |                     |                                                                                                   |
 |                    3|[Tectonic Edge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389711)              |                     |                                                                                                   |
-|                    4|[Thalia, Guardian of Thraben](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442025)|                     |                                                                                                   |
 |                   10|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)                     |                     |                                                                                                   |
+|                    4|[Thalia, Guardian of Thraben](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442025)|                     |                                                                                                   |
 

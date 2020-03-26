@@ -1,15 +1,14 @@
 1 Field of Ruin
-1 Cryptic Command
-2 Cryptic Command
-5 Snow-Covered Island
-3 Force of Negation
 1 Flooded Strand
+1 Cryptic Command
 1 Mystic Sanctuary
+2 Cryptic Command
 2 Mystic Sanctuary
 2 Flooded Strand
 3 Cryptic Command
 3 Flooded Strand
 4 Flooded Strand
+3 Force of Negation
 1 Once Upon a Time
 2 Once Upon a Time
 1 Fact or Fiction
@@ -29,31 +28,30 @@
 4 Remand
 6 Snow-Covered Island
 7 Snow-Covered Island
+3 Thought Scour
 3 Blood Moon
 1 Jace, the Mind Sculptor
 2 Jace, the Mind Sculptor
 1 Fatal Push
+1 Swamp
 1 Polluted Delta
 2 Polluted Delta
 2 Fatal Push
 3 Polluted Delta
 3 Fatal Push
 1 Watery Grave
-1 Drown in the Loch
-2 Drown in the Loch
-3 Snapcaster Mage
-1 Waterlogged Grove
-1 Archmage's Charm
-1 Swamp
 1 Geier Reach Sanitarium
+1 Drown in the Loch
 1 Narset, Parter of Veils
 1 Island
 1 Opt
 2 Watery Grave
 2 Narset, Parter of Veils
 2 Island
+2 Drown in the Loch
 2 Opt
 3 Watery Grave
+3 Snapcaster Mage
 3 Opt
 3 Island
 4 Polluted Delta
@@ -65,8 +63,6 @@
 3 Arbor Elf
 4 Utopia Sprawl
 4 Arbor Elf
-1 Blood Crypt
-1 Kolaghan's Command
 1 Bloodstained Mire
 1 Liliana of the Veil
 1 Thoughtseize
@@ -98,18 +94,12 @@
 1 Serum Visions
 1 Klothys, God of Destiny
 2 Serum Visions
-1 Assassin's Trophy
-1 Overgrown Tomb
-1 Snow-Covered Swamp
-1 Verdant Catacombs
-2 Spell Snare
-2 Assassin's Trophy
-2 Verdant Catacombs
 1 Stubborn Denial
 1 Tranquil Thicket
 1 Prismatic Vista
 1 Chandra, Torch of Defiance
 1 Ashiok, Dream Render
+1 Waterlogged Grove
 2 Prismatic Vista
 2 The Royal Scions
 2 Ashiok, Dream Render
@@ -117,9 +107,9 @@
 1 Treetop Village
 3 Scalding Tarn
 1 Go for the Throat
-1 Creeping Tar Pit
 1 Darkslick Shores
 1 Damnation
+1 Creeping Tar Pit
 2 Damnation
 2 Geier Reach Sanitarium
 2 Field of Ruin
@@ -135,7 +125,9 @@
 1 Castle Locthwain
 1 Seasoned Pyromancer
 1 Dark Confidant
+1 Blood Crypt
 1 Blackcleave Cliffs
+1 Kolaghan's Command
 1 Mountain
 1 Kroxa, Titan of Death's Hunger
 1 Fulminator Mage
@@ -189,12 +181,13 @@
 3 Burning-Tree Emissary
 3 Nykthos, Shrine to Nyx
 3 Windswept Heath
-4 Gilded Goose
 4 Once Upon a Time
+4 Gilded Goose
 4 Garruk Wildspeaker
-4 Burning-Tree Emissary
 4 Nykthos, Shrine to Nyx
+4 Burning-Tree Emissary
 4 Windswept Heath
+1 Archmage's Charm
 1 Esper Charm
 1 Hallowed Fountain
 1 Kaya's Guile
@@ -209,9 +202,9 @@
 2 Hallowed Fountain
 2 Archmage's Charm
 2 Path to Exile
-2 Supreme Verdict
 2 Teferi, Time Raveler
 2 Celestial Colonnade
+2 Supreme Verdict
 3 Path to Exile
 4 Snapcaster Mage
 4 Island

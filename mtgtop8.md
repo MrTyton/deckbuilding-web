@@ -59,9 +59,9 @@
 |[BUG Midrange](./mtgtop8/Legacy/decks/BUG_Midrange.md)        |[Delver (Other)](./mtgtop8/Legacy/decks/Delver_(Other).md)        |[Hogaak](./mtgtop8/Legacy/decks/Hogaak.md)                |[Ninja](./mtgtop8/Legacy/decks/Ninja.md)                      |[UWx Control](./mtgtop8/Legacy/decks/UWx_Control.md)            |
 |[Bant Aggro](./mtgtop8/Legacy/decks/Bant_Aggro.md)            |[Doomsday](./mtgtop8/Legacy/decks/Doomsday.md)                    |[Humans](./mtgtop8/Legacy/decks/Humans.md)                |[Other - Aggro](./mtgtop8/Legacy/decks/Other_-_Aggro.md)      |[Weenie White](./mtgtop8/Legacy/decks/Weenie_White.md)          |
 |[Bant Control](./mtgtop8/Legacy/decks/Bant_Control.md)        |[Dragon Stompy](./mtgtop8/Legacy/decks/Dragon_Stompy.md)          |[Infect](./mtgtop8/Legacy/decks/Infect.md)                |[Other - Combo](./mtgtop8/Legacy/decks/Other_-_Combo.md)      |[Zombi Bombardment](./mtgtop8/Legacy/decks/Zombi_Bombardment.md)|
-|[Belcher](./mtgtop8/Legacy/decks/Belcher.md)                  |[Dreadstill](./mtgtop8/Legacy/decks/Dreadstill.md)                |[Jund](./mtgtop8/Legacy/decks/Jund.md)                    |[Other - Control](./mtgtop8/Legacy/decks/Other_-_Control.md)  |[Zoo](./mtgtop8/Legacy/decks/Zoo.md)                            |
+|[Belcher](./mtgtop8/Legacy/decks/Belcher.md)                  |[Dreadstill](./mtgtop8/Legacy/decks/Dreadstill.md)                |[Jund](./mtgtop8/Legacy/decks/Jund.md)                    |[Other - Control](./mtgtop8/Legacy/decks/Other_-_Control.md)  |                                                                |
 |[Bomberman](./mtgtop8/Legacy/decks/Bomberman.md)              |[Dredge](./mtgtop8/Legacy/decks/Dredge.md)                        |[Lands](./mtgtop8/Legacy/decks/Lands.md)                  |[Painter](./mtgtop8/Legacy/decks/Painter.md)                  |                                                                |
 
 
 
-#### Last Updated at 05:14PM on March 25, 2020
+#### Last Updated at 04:32AM on March 26, 2020

@@ -1,27 +1,11 @@
-1 Plague Engineer
-1 Leonin Relic-Warder
-1 Force of Negation
-1 Swords to Plowshares
-2 Force of Negation
-1 Rest in Peace
-1 Enlightened Tutor
-1 Deafening Silence
-1 Lavinia, Azorius Renegade
-1 Grafdigger's Cage
-1 Painful Truths
-1 Peacekeeper
-1 Damping Sphere
-2 Enlightened Tutor
-2 Leonin Relic-Warder
-1 Ethersworn Canonist
-2 Ethersworn Canonist
-1 Knight of Autumn
-1 Dismember
-2 Dismember
 1 Surgical Extraction
 2 Surgical Extraction
 3 Surgical Extraction
+1 Knight of Autumn
+1 Sorcerous Spyglass
 1 Collector Ouphe
+1 Dismember
+2 Dismember
 1 Deputy of Detention
 1 Orzhov Pontiff
 1 Faerie Macabre
@@ -29,15 +13,8 @@
 1 Reflector Mage
 2 Knight of Autumn
 2 Reflector Mage
-1 Umezawa's Jitte
-1 Voice of Resurgence
-1 Mindbreak Trap
-1 Unsettled Mariner
-1 Ingot Chewer
-1 Wispmare
-1 Spitebellows
-2 Mindbreak Trap
-2 Voice of Resurgence
+1 Ethersworn Canonist
+2 Ethersworn Canonist
 1 Relic of Progenitus
 1 Emrakul, the Aeons Torn
 1 Teferi, Time Raveler
@@ -47,6 +24,7 @@
 2 Wasteland
 3 Force of Negation
 2 Plague Engineer
+1 Leyline of the Void
 1 Flusterstorm
 1 Veil of Summer
 1 Assassin's Trophy
@@ -58,9 +36,19 @@
 2 Veil of Summer
 2 Force of Vigor
 3 Veil of Summer
+1 Walking Ballista
+1 Choke
+1 Blessed Alliance
+1 Sylvan Library
+1 Engineered Explosives
+1 Containment Priest
+2 Rest in Peace
+2 Choke
+2 Blessed Alliance
+3 Rest in Peace
 1 Blood Moon
-1 Pyroblast
 1 Liliana's Triumph
+1 Pyroblast
 1 Abrade
 1 Chandra, Torch of Defiance
 2 Blood Moon
@@ -68,11 +56,15 @@
 2 Abrade
 2 Chandra, Torch of Defiance
 3 Plague Engineer
-1 Walking Ballista
-1 Blessed Alliance
-1 Sylvan Library
-1 Engineered Explosives
-1 Containment Priest
-2 Rest in Peace
-3 Rest in Peace
-2 Blessed Alliance
+1 Voice of Resurgence
+1 Umezawa's Jitte
+1 Mindbreak Trap
+1 Ingot Chewer
+1 Wispmare
+1 Unsettled Mariner
+1 Spitebellows
+2 Leyline of the Void
+2 Mindbreak Trap
+2 Voice of Resurgence
+3 Leyline of the Void
+4 Leyline of the Void
