@@ -61,8 +61,8 @@
 |                    1|Thirst for Meaning                                                                           |                    3|[Dragon's Claw](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129527)        |
 |                    2|[Spell Snare](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446100)       |                    3|[Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)       |
 |                    2|Thirst for Meaning                                                                           |                     |                                                                                                |
-|                    3|Omen of the Sea                                                                              |                     |                                                                                                |
 |                    3|Thirst for Meaning                                                                           |                     |                                                                                                |
+|                    3|Omen of the Sea                                                                              |                     |                                                                                                |
 |                    4|Omen of the Sea                                                                              |                     |                                                                                                |
 |                    3|[Blood Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45386)         |                     |                                                                                                |
 

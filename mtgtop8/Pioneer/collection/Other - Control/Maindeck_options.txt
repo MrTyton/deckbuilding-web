@@ -65,11 +65,11 @@
 2 The Birth of Meletis
 3 The Birth of Meletis
 1 Mutavault
+1 Dragonlord Kolaghan
 1 Anger of the Gods
 1 Pirate's Pillage
 1 Temple of Triumph
 1 Indomitable Creativity
-1 Dragonlord Kolaghan
 1 Void Winnower
 1 Angel of Serenity
 2 Elspeth Conquers Death
@@ -131,15 +131,15 @@
 2 Cast Out
 2 Treacherous Blessing
 2 History of Benalia
-3 Isolated Chapel
 3 Cast Out
 3 Treacherous Blessing
+3 Isolated Chapel
 3 History of Benalia
-4 Isolated Chapel
-4 Treacherous Blessing
 4 Trial of Ambition
-4 History of Benalia
 4 Shambling Vent
+4 Treacherous Blessing
+4 History of Benalia
+4 Isolated Chapel
 1 Jace, Vryn's Prodigy
 1 Ashiok, Nightmare Muse
 2 Island
@@ -230,9 +230,9 @@
 1 Tasigur, the Golden Fang
 1 Nissa, Vastwood Seer
 1 Assassin's Trophy
+1 Thrashing Brontodon
 1 Hissing Quagmire
 1 Scrapheap Scrounger
-1 Thrashing Brontodon
 1 Ramunap Excavator
 1 Polukranos, Unchained
 2 Assassin's Trophy
@@ -261,22 +261,22 @@
 3 Azorius Charm
 3 Sunpetal Grove
 4 Supreme Verdict
-1 Void Shatter
-1 Kaya, Orzhov Usurper
-1 Fetid Pools
-1 Utter End
-1 Glimmer of Genius
-2 Void Shatter
-2 Censor
-2 Glimmer of Genius
-2 Dovin's Veto
-2 Fetid Pools
-3 Void Shatter
-3 Censor
-3 Glimmer of Genius
-3 Teferi, Hero of Dominaria
-4 Glacial Fortress
-4 Drowned Catacomb
+1 Concealed Courtyard
+1 Temple of Deceit
+1 The Eldest Reborn
+1 Temple of Enlightenment
+2 Temple of Enlightenment
+2 Search for Azcanta
+2 Temple of Deceit
+2 Concealed Courtyard
+4 Oath of Kaya
+1 Nicol Bolas, the Ravager
+1 Quicken
+2 Nicol Bolas, the Ravager
+2 Quicken
+3 Nicol Bolas, the Ravager
+3 Quicken
+4 Nicol Bolas, the Ravager
 1 Chandra, Flamecaller
 1 Bedevil
 1 Read the Bones
@@ -291,13 +291,22 @@
 2 Agonizing Remorse
 3 Read the Bones
 4 Read the Bones
-1 Nicol Bolas, the Ravager
-1 Quicken
-2 Nicol Bolas, the Ravager
-2 Quicken
-3 Nicol Bolas, the Ravager
-3 Quicken
-4 Nicol Bolas, the Ravager
+1 Void Shatter
+1 Glimmer of Genius
+1 Kaya, Orzhov Usurper
+1 Fetid Pools
+1 Utter End
+2 Void Shatter
+2 Censor
+2 Glimmer of Genius
+2 Dovin's Veto
+2 Fetid Pools
+3 Void Shatter
+3 Censor
+3 Glimmer of Genius
+3 Teferi, Hero of Dominaria
+4 Glacial Fortress
+4 Drowned Catacomb
 1 Foreboding Ruins
 1 Mire Triton
 2 Foreboding Ruins
@@ -307,8 +316,8 @@
 3 Anger of the Gods
 4 Chained to the Rocks
 1 Botanical Sanctum
-1 Risen Reef
 1 Fiery Impulse
+1 Risen Reef
 1 Living Twister
 1 Spell Pierce
 1 Young Pyromancer
@@ -323,8 +332,8 @@
 2 Risen Reef
 2 Fiery Impulse
 2 Chandra, Acolyte of Flame
-2 Mizzium Mortars
 2 Dive Down
+2 Mizzium Mortars
 2 Chart a Course
 2 Wild Slash
 2 Young Pyromancer
@@ -358,21 +367,12 @@
 4 Champion of Wits
 4 Elder Deep-Fiend
 4 Kozilek's Return
-1 Concealed Courtyard
-1 Temple of Deceit
-1 The Eldest Reborn
-1 Temple of Enlightenment
-2 Temple of Enlightenment
-2 Temple of Deceit
-2 Search for Azcanta
-2 Concealed Courtyard
-4 Oath of Kaya
 1 Final Payment
 1 Aphemia, the Cacophony
 1 Tymaret Calls the Dead
 2 Tymaret Calls the Dead
-2 Final Payment
 2 Temple of Silence
+2 Final Payment
 2 Aphemia, the Cacophony
 3 Aphemia, the Cacophony
 3 Tymaret Calls the Dead
@@ -381,16 +381,16 @@
 4 Final Payment
 1 Brimaz, King of Oreskos
 1 Haktos the Unscarred
-1 Shatter the Sky
 1 Lightning Strike
 1 Inspiring Vantage
 1 Heart of Kiran
 1 Needle Spires
+1 Shatter the Sky
 1 Lava Coil
 2 Heart of Kiran
 2 Clifftop Retreat
-2 Shatter the Sky
 2 Needle Spires
+2 Shatter the Sky
 2 Lightning Strike
 2 Haktos the Unscarred
 2 Lava Coil
@@ -406,8 +406,8 @@
 4 Gideon of the Trials
 4 Lightning Strike
 1 Sigil of the Empty Throne
-1 Torment of Hailfire
 1 Kaya's Wrath
+1 Torment of Hailfire
 2 Kaya's Wrath
 3 Kaya's Wrath
 4 Cast Out
@@ -424,8 +424,8 @@
 1 Kalitas, Traitor of Ghet
 1 Oath of Liliana
 2 Gifted Aetherborn
-2 Ritual of Soot
 2 Collective Brutality
+2 Ritual of Soot
 2 Temple of Malice
 2 Liliana, Death's Majesty
 6 Swamp

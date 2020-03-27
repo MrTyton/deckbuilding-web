@@ -1,4 +1,4 @@
-1 Mountain
+1 Plains
 3 Rogue Refiner
 1 Brazen Borrower
 1 Forest
@@ -42,17 +42,17 @@
 3 Glacial Fortress
 4 Glacial Fortress
 4 Hallowed Fountain
+1 Izzet Charm
 1 Censor
 1 Hieroglyphic Illumination
 1 Castle Vantress
 1 Irrigated Farmland
 1 Abrade
-1 Izzet Charm
 2 Sulfur Falls
 2 Izzet Charm
 2 Hieroglyphic Illumination
-2 Censor
 2 Supreme Verdict
+2 Censor
 2 Irrigated Farmland
 2 Clifftop Retreat
 3 Izzet Charm
@@ -61,8 +61,8 @@
 3 Supreme Verdict
 3 Censor
 4 Sulfur Falls
-4 Censor
 4 Izzet Charm
+4 Censor
 1 Prime Speaker Vannifar
 1 Renegade Rallier
 1 Thalia's Lancers
@@ -73,8 +73,8 @@
 3 Prime Speaker Vannifar
 4 Temple Garden
 4 Inspiring Vantage
-1 Tamiyo, Collector of Tales
 1 Harnessed Lightning
+1 Tamiyo, Collector of Tales
 2 Harnessed Lightning
 3 Harnessed Lightning
 4 Rogue Refiner
@@ -103,19 +103,19 @@
 1 Sunpetal Grove
 2 Brazen Borrower
 2 Yavimaya Coast
-1 Assassin's Trophy
-1 Knight of Autumn
 1 Dreadbore
+1 Kolaghan's Command
+1 Knight of Autumn
 1 Unmoored Ego
 1 Silumgar's Command
+1 Assassin's Trophy
 1 Niv-Mizzet Reborn
-1 Kolaghan's Command
 1 Abrupt Decay
 1 Bring to Light
 1 Ojutai's Command
-2 Mana Confluence
 2 Assassin's Trophy
 2 Bring to Light
+2 Mana Confluence
 2 Stomping Ground
 2 Niv-Mizzet Reborn
 3 Bring to Light
@@ -137,9 +137,9 @@
 1 Arboreal Grazer
 1 Yarok, the Desecrated
 2 Eldritch Evolution
+2 Field of the Dead
 2 Risen Reef
 2 Golos, Tireless Pilgrim
-2 Field of the Dead
 2 Arboreal Grazer
 3 Eldritch Evolution
 3 Risen Reef
@@ -147,14 +147,14 @@
 4 Risen Reef
 4 Voice of Resurgence
 1 Thrill of Possibility
-1 Fiery Impulse
-1 Lava Coil
 1 Anticipate
+1 Lava Coil
+1 Fiery Impulse
 2 Thrill of Possibility
-2 Fiery Impulse
 2 Spell Pierce
 2 Anticipate
 2 Lava Coil
+2 Fiery Impulse
 3 Lava Coil
 3 Fiery Impulse
 3 Thrill of Possibility
@@ -165,15 +165,15 @@
 4 Anticipate
 4 Spirebluff Canal
 1 Search for Azcanta
-1 Urborg, Tomb of Yawgmoth
-1 Yahenni's Expertise
+1 Nicol Bolas, Dragon-God
 1 Languish
 1 Isolated Chapel
 1 Prophetic Prism
-1 Nicol Bolas, Dragon-God
 1 Discovery / Dispersal
+1 Yahenni's Expertise
 1 Thoughtseize
 1 Teferi, Hero of Dominaria
+1 Urborg, Tomb of Yawgmoth
 1 Drowned Catacomb
 1 Narset, Parter of Veils
 1 Cast Down

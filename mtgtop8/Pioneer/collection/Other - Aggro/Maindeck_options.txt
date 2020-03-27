@@ -174,10 +174,10 @@
 1 Staggering Insight
 1 Slip Through Space
 1 The Royal Scions
-1 Tenth District Legionnaire
-1 Defiant Strike
 1 Favored Hoplite
 1 Faerie Vandal
+1 Defiant Strike
+1 Tenth District Legionnaire
 1 Curious Obsession
 1 Sentinel's Eyes
 2 Reckless Rage
@@ -185,31 +185,31 @@
 2 Gods Willing
 2 Staggering Insight
 2 Steam Vents
-2 Tenth District Legionnaire
 2 The Royal Scions
-2 Defiant Strike
 2 Favored Hoplite
+2 Tenth District Legionnaire
 2 Curious Obsession
 2 Faerie Vandal
+2 Defiant Strike
 3 Favored Hoplite
 3 Reckless Rage
 3 Monastery Swiftspear
-3 The Royal Scions
-3 Defiant Strike
-3 Gods Willing
 3 Faerie Vandal
+3 Defiant Strike
 3 Staggering Insight
 3 Tenth District Legionnaire
+3 The Royal Scions
+3 Gods Willing
 3 Steam Vents
 3 Curious Obsession
 4 Favored Hoplite
 4 Reckless Rage
 4 Monastery Swiftspear
-4 Gods Willing
-4 Defiant Strike
 4 Curious Obsession
+4 Defiant Strike
 4 Tenth District Legionnaire
 4 Steam Vents
+4 Gods Willing
 4 Staggering Insight
 1 Castle Locthwain
 2 Swamp
@@ -303,7 +303,6 @@
 2 Stitcher's Supplier
 2 Prized Amalgam
 2 Llanowar Wastes
-3 Gurmag Angler
 3 Creeping Chill
 3 Grisly Salvage
 3 Gather the Pack
@@ -312,6 +311,7 @@
 3 Stitcher's Supplier
 3 Prized Amalgam
 3 Llanowar Wastes
+3 Gurmag Angler
 3 Narcomoeba
 4 Gurmag Angler
 4 Creeping Chill
@@ -340,11 +340,11 @@
 1 Mana Confluence
 2 Mana Confluence
 1 Atarka's Command
+1 Boros Charm
 1 Pelt Collector
 1 Ghor-Clan Rampager
 1 Bronzehide Lion
 1 Gruul Spellbreaker
-1 Boros Charm
 1 Experiment One
 1 Stomping Ground
 1 Fleecemane Lion
@@ -352,10 +352,10 @@
 2 Questing Beast
 2 Atarka's Command
 2 Stomping Ground
+2 Boros Charm
 2 Gruul Spellbreaker
 2 Ghor-Clan Rampager
 2 Fleecemane Lion
-2 Boros Charm
 2 Rootbound Crag
 2 Pelt Collector
 2 Bronzehide Lion
@@ -365,11 +365,11 @@
 3 Questing Beast
 3 Ghor-Clan Rampager
 3 Voice of Resurgence
+3 Boros Charm
 3 Rootbound Crag
 3 Bronzehide Lion
 3 Experiment One
 3 Gruul Spellbreaker
-3 Boros Charm
 3 Stomping Ground
 4 Pelt Collector
 4 Experiment One
@@ -382,16 +382,16 @@
 1 Legion's Landing
 1 Clifftop Retreat
 1 Secure the Wastes
+1 Battlefield Forge
 1 Toolcraft Exemplar
 1 Servo Exhibition
-1 Battlefield Forge
 1 Raise the Alarm
 1 Shefet Dunes
 2 Reckless Bushwhacker
 2 Lightning Strike
 2 Legion's Landing
-2 Raise the Alarm
 2 Battlefield Forge
+2 Raise the Alarm
 2 Shefet Dunes
 2 Toolcraft Exemplar
 2 Servo Exhibition
@@ -412,8 +412,8 @@
 4 Toolcraft Exemplar
 1 Island
 1 Kolaghan's Command
-1 Shadowspear
 1 Woe Strider
+1 Shadowspear
 1 Kalitas, Traitor of Ghet
 1 Nicol Bolas, the Ravager
 1 Goblin Cratermaker
@@ -445,64 +445,64 @@
 4 Watery Grave
 1 Stonecoil Serpent
 1 Spire of Industry
-1 Metallic Rebuke
-1 Hope of Ghirapur
 1 Springleaf Drum
-1 Aether Hub
-1 Ensoul Artifact
-1 Darksteel Citadel
-1 Gingerbrute
+1 Metallic Rebuke
 1 Ghostfire Blade
-1 Shrapnel Blast
+1 Gingerbrute
+1 Ensoul Artifact
 1 Steel Overseer
+1 Shrapnel Blast
+1 Hope of Ghirapur
+1 Aether Hub
+1 Darksteel Citadel
 1 All That Glitters
 1 Ornithopter
 2 Stonecoil Serpent
 2 Spire of Industry
+2 Springleaf Drum
 2 Metallic Rebuke
-2 Hope of Ghirapur
+2 Ensoul Artifact
+2 Gingerbrute
+2 Darksteel Citadel
+2 Shrapnel Blast
+2 Ghostfire Blade
 2 Steel Overseer
+2 Hope of Ghirapur
 2 Aether Hub
 2 All That Glitters
 2 Ornithopter
-2 Darksteel Citadel
-2 Gingerbrute
-2 Ensoul Artifact
-2 Springleaf Drum
-2 Ghostfire Blade
-2 Shrapnel Blast
+3 Steel Overseer
 3 Stonecoil Serpent
 3 Spire of Industry
-3 Steel Overseer
-3 Mana Confluence
-3 Darksteel Citadel
-3 Ornithopter
 3 Springleaf Drum
-3 Gingerbrute
-3 Ensoul Artifact
-3 Ghostfire Blade
 3 Shrapnel Blast
+3 Darksteel Citadel
+3 Ghostfire Blade
+3 Ensoul Artifact
+3 Gingerbrute
+3 Mana Confluence
+3 Ornithopter
 3 Aether Hub
 3 All That Glitters
 4 Spire of Industry
+4 Ghostfire Blade
 4 Stonecoil Serpent
-4 Ornithopter
+4 Shrapnel Blast
+4 Gingerbrute
 4 Darksteel Citadel
+4 Ensoul Artifact
+4 Ornithopter
 4 Mana Confluence
 4 Springleaf Drum
-4 Gingerbrute
-4 Ghostfire Blade
-4 Shrapnel Blast
-4 Ensoul Artifact
 4 Aether Hub
 1 Wild Slash
-1 Angrath's Rampage
 1 Rekindling Phoenix
 1 Glorybringer
 1 Goblin Rabblemaster
 1 Chandra, Torch of Defiance
 1 Spike Jester
 1 Unlicensed Disintegration
+1 Angrath's Rampage
 2 Wild Slash
 2 Rekindling Phoenix
 2 Glorybringer
