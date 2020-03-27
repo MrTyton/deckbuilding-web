@@ -33,12 +33,12 @@
 1 Satyr Wayfinder
 2 Satyr Wayfinder
 3 Satyr Wayfinder
-3 Isolated Chapel
 1 Rakshasa Deathdealer
 1 Mana Confluence
 2 Mana Confluence
 2 Rakshasa Deathdealer
 3 Rakshasa Deathdealer
+3 Isolated Chapel
 3 Walking Ballista
 2 Liliana, the Last Hope
 1 Castle Locthwain
@@ -62,8 +62,8 @@
 4 Zulaport Cutthroat
 4 Collected Company
 4 Cartel Aristocrat
-1 Blisterpod
 1 Westvale Abbey
+1 Blisterpod
 1 Nantuko Husk
 1 Return to the Ranks
 1 Hangarback Walker
@@ -96,8 +96,8 @@
 1 Tasigur, the Golden Fang
 2 Assassin's Trophy
 4 Fatal Push
-1 Murderous Cut
 1 Thalia, Heretic Cathar
+1 Murderous Cut
 1 Polukranos, Unchained
 1 Grisly Salvage
 1 Nissa, Who Shakes the World
@@ -128,20 +128,20 @@
 2 Languish
 2 Dark Petition
 3 Languish
+1 Deathrite Shaman
 1 Vessel of Nascency
 1 Collective Brutality
 1 Vraska the Unseen
-1 Deathrite Shaman
-2 Vessel of Nascency
-2 Collective Brutality
 2 Deathrite Shaman
+2 Collective Brutality
+2 Vessel of Nascency
 2 Vraska the Unseen
-3 Vessel of Nascency
 3 Deathrite Shaman
+3 Vessel of Nascency
 4 Vessel of Nascency
 1 Smuggler's Copter
-1 Gilded Goose
 1 Archangel Avacyn
+1 Gilded Goose
 1 Anguished Unmaking
 1 Trail of Crumbs
 1 Witch's Oven
@@ -167,18 +167,18 @@
 4 Witch's Oven
 4 Gilded Goose
 4 Trail of Crumbs
+1 Caves of Koilos
 1 Scrapheap Scrounger
 1 Sorin, Vengeful Bloodlord
-1 Caves of Koilos
 1 Llanowar Wastes
 1 Experiment One
 1 Pelt Collector
 1 Heart of Kiran
 1 Loxodon Smiter
-2 Heart of Kiran
-2 Scrapheap Scrounger
 2 Caves of Koilos
 2 Sorin, Vengeful Bloodlord
+2 Scrapheap Scrounger
+2 Heart of Kiran
 2 Llanowar Wastes
 2 Pelt Collector
 2 Loxodon Smiter
@@ -187,8 +187,8 @@
 3 Pelt Collector
 3 Dromoka's Command
 3 Loxodon Smiter
-4 Scrapheap Scrounger
 4 Pelt Collector
+4 Scrapheap Scrounger
 4 Loxodon Smiter
 1 Wildgrowth Walker
 1 Merfolk Branchwalker
@@ -204,8 +204,8 @@
 4 Fabled Passage
 4 Merfolk Branchwalker
 4 Jadelight Ranger
-1 Kytheon, Hero of Akros
 1 Dauntless Bodyguard
+1 Kytheon, Hero of Akros
 1 Unclaimed Territory
 1 Plaguecrafter
 1 Thalia's Lieutenant
@@ -213,17 +213,17 @@
 1 Bloodsoaked Champion
 1 Xathrid Necromancer
 1 Channeler Initiate
-2 Kytheon, Hero of Akros
-2 Dauntless Bodyguard
 2 Plaguecrafter
+2 Dauntless Bodyguard
+2 Kytheon, Hero of Akros
 2 Thalia's Lieutenant
 2 Liliana, Heretical Healer
 2 Xathrid Necromancer
 2 Bloodsoaked Champion
 2 Channeler Initiate
 2 Unclaimed Territory
-3 Thalia's Lieutenant
 3 Plaguecrafter
+3 Thalia's Lieutenant
 3 Channeler Initiate
 3 Dauntless Bodyguard
 3 Liliana, Heretical Healer
@@ -235,8 +235,8 @@
 4 Bloodsoaked Champion
 4 Xathrid Necromancer
 4 Dauntless Bodyguard
-1 Temple of Silence
 1 Liliana, Death's Majesty
+1 Temple of Silence
 1 Obzedat, Ghost Council
 4 Gideon, Ally of Zendikar
 4 Murderous Rider

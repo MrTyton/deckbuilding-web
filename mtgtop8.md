@@ -4,15 +4,14 @@
 
 # Standard
 
-|                                A                                 |                                 B                                  |                               C                                |                             D                              |                           E                            |
-|------------------------------------------------------------------|--------------------------------------------------------------------|----------------------------------------------------------------|------------------------------------------------------------|--------------------------------------------------------|
-|[45C Control](./mtgtop8/Standard/decks/45C_Control.md)            |[Esper Control](./mtgtop8/Standard/decks/Esper_Control.md)          |[Jund](./mtgtop8/Standard/decks/Jund.md)                        |[Red Deck Wins](./mtgtop8/Standard/decks/Red_Deck_Wins.md)  |[UB Control](./mtgtop8/Standard/decks/UB_Control.md)    |
-|[Adventure](./mtgtop8/Standard/decks/Adventure.md)                |[Esper Midrange](./mtgtop8/Standard/decks/Esper_Midrange.md)        |[Mardu Aggro](./mtgtop8/Standard/decks/Mardu_Aggro.md)          |[Simic Aggro](./mtgtop8/Standard/decks/Simic_Aggro.md)      |[UW Control](./mtgtop8/Standard/decks/UW_Control.md)    |
-|[Azorius Aggro](./mtgtop8/Standard/decks/Azorius_Aggro.md)        |[Fires of Invention](./mtgtop8/Standard/decks/Fires_of_Invention.md)|[Mono Black Aggro](./mtgtop8/Standard/decks/Mono_Black_Aggro.md)|[Simic Control](./mtgtop8/Standard/decks/Simic_Control.md)  |[Weenie White](./mtgtop8/Standard/decks/Weenie_White.md)|
-|[Bant Aggro](./mtgtop8/Standard/decks/Bant_Aggro.md)              |[Golgari Aggro](./mtgtop8/Standard/decks/Golgari_Aggro.md)          |[Mono Green Aggro](./mtgtop8/Standard/decks/Mono_Green_Aggro.md)|[Sultai Aggro](./mtgtop8/Standard/decks/Sultai_Aggro.md)    |                                                        |
-|[Bant Control](./mtgtop8/Standard/decks/Bant_Control.md)          |[Grixis Control](./mtgtop8/Standard/decks/Grixis_Control.md)        |[Orzhov Aggro](./mtgtop8/Standard/decks/Orzhov_Aggro.md)        |[Sultai Control](./mtgtop8/Standard/decks/Sultai_Control.md)|                                                        |
-|[Devotion to Black](./mtgtop8/Standard/decks/Devotion_to_Black.md)|[Gruul Aggro](./mtgtop8/Standard/decks/Gruul_Aggro.md)              |[Orzhov Control](./mtgtop8/Standard/decks/Orzhov_Control.md)    |[Temur Aggro](./mtgtop8/Standard/decks/Temur_Aggro.md)      |                                                        |
-|[Dimir Midrange](./mtgtop8/Standard/decks/Dimir_Midrange.md)      |[Izzet Control](./mtgtop8/Standard/decks/Izzet_Control.md)          |[Rakdos Aggro](./mtgtop8/Standard/decks/Rakdos_Aggro.md)        |[Temur Control](./mtgtop8/Standard/decks/Temur_Control.md)  |                                                        |
+|                                A                                 |                                 B                                  |                               C                                |                             D                              |                             E                              |
+|------------------------------------------------------------------|--------------------------------------------------------------------|----------------------------------------------------------------|------------------------------------------------------------|------------------------------------------------------------|
+|[45C Control](./mtgtop8/Standard/decks/45C_Control.md)            |[Dimir Midrange](./mtgtop8/Standard/decks/Dimir_Midrange.md)        |[Gruul Aggro](./mtgtop8/Standard/decks/Gruul_Aggro.md)          |[Orzhov Control](./mtgtop8/Standard/decks/Orzhov_Control.md)|[Sultai Control](./mtgtop8/Standard/decks/Sultai_Control.md)|
+|[Adventure](./mtgtop8/Standard/decks/Adventure.md)                |[Esper Control](./mtgtop8/Standard/decks/Esper_Control.md)          |[Izzet Control](./mtgtop8/Standard/decks/Izzet_Control.md)      |[Rakdos Aggro](./mtgtop8/Standard/decks/Rakdos_Aggro.md)    |[Temur Aggro](./mtgtop8/Standard/decks/Temur_Aggro.md)      |
+|[Azorius Aggro](./mtgtop8/Standard/decks/Azorius_Aggro.md)        |[Esper Midrange](./mtgtop8/Standard/decks/Esper_Midrange.md)        |[Jund](./mtgtop8/Standard/decks/Jund.md)                        |[Red Deck Wins](./mtgtop8/Standard/decks/Red_Deck_Wins.md)  |[Temur Control](./mtgtop8/Standard/decks/Temur_Control.md)  |
+|[Bant Aggro](./mtgtop8/Standard/decks/Bant_Aggro.md)              |[Fires of Invention](./mtgtop8/Standard/decks/Fires_of_Invention.md)|[Mardu Aggro](./mtgtop8/Standard/decks/Mardu_Aggro.md)          |[Simic Aggro](./mtgtop8/Standard/decks/Simic_Aggro.md)      |[UB Control](./mtgtop8/Standard/decks/UB_Control.md)        |
+|[Bant Control](./mtgtop8/Standard/decks/Bant_Control.md)          |[Golgari Aggro](./mtgtop8/Standard/decks/Golgari_Aggro.md)          |[Mono Black Aggro](./mtgtop8/Standard/decks/Mono_Black_Aggro.md)|[Simic Control](./mtgtop8/Standard/decks/Simic_Control.md)  |[UW Control](./mtgtop8/Standard/decks/UW_Control.md)        |
+|[Devotion to Black](./mtgtop8/Standard/decks/Devotion_to_Black.md)|[Grixis Control](./mtgtop8/Standard/decks/Grixis_Control.md)        |[Mono Green Aggro](./mtgtop8/Standard/decks/Mono_Green_Aggro.md)|[Sultai Aggro](./mtgtop8/Standard/decks/Sultai_Aggro.md)    |[Weenie White](./mtgtop8/Standard/decks/Weenie_White.md)    |
 
 
 # Pioneer
@@ -64,4 +63,4 @@
 
 
 
-#### Last Updated at 04:56PM on March 26, 2020
+#### Last Updated at 04:12AM on March 27, 2020
