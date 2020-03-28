@@ -92,7 +92,7 @@
 |                    3|[Archmage's Charm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463989)         |                     |                                                                                                |
 |                    3|[Scalding Tarn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405107)            |                     |                                                                                                |
 |                    3|[Thought Scour](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=380203)            |                     |                                                                                                |
-|                    4|[Cryptic Command](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438614)          |                     |                                                                                                |
 |                    4|Uro, Titan of Nature's Wrath                                                                        |                     |                                                                                                |
+|                    4|[Cryptic Command](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438614)          |                     |                                                                                                |
 |                    4|[Thought Scour](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=380203)            |                     |                                                                                                |
 

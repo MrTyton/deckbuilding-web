@@ -34,7 +34,7 @@
 
 # Other Options
 
-|*n*<sup>th</sup> copy|Maindeck Card|*n*<sup>th</sup> copy|    Sideboard Card     |
-|---------------------|-------------|--------------------:|-----------------------|
-|                     |             |                    1|Klothys, God of Destiny|
+|*n*<sup>th</sup> copy|                                    Maindeck Card                                     |*n*<sup>th</sup> copy|    Sideboard Card     |
+|--------------------:|--------------------------------------------------------------------------------------|--------------------:|-----------------------|
+|                    3|[Lightning Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=806)|                    1|Klothys, God of Destiny|
 

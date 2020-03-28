@@ -46,8 +46,8 @@
 |                    1|[Haunted Fengraf](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442229)  |                    1|[Reclamation Sage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389651)   |
 |                    2|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)           |                    1|[Assassin's Trophy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452902)  |
 |                    3|[Bayou](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=879)               |                    1|[Chalice of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442211)|
-|                    3|[Sakura-Tribe Scout](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=74210)|                    2|[Golgari Charm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405245)      |
-|                    3|Dryad of the Ilysian Grove                                                                  |                    2|[Chalice of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442211)|
+|                    3|Dryad of the Ilysian Grove                                                                  |                    2|[Golgari Charm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405245)      |
+|                    3|[Sakura-Tribe Scout](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=74210)|                    2|[Chalice of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442211)|
 |                     |                                                                                            |                    2|[Ramunap Excavator](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430818)  |
 |                     |                                                                                            |                    3|[Chalice of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442211)|
 

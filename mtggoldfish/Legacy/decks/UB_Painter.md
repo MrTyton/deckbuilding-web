@@ -34,8 +34,8 @@
 |                    1|[Mox Diamond](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=5193)               |                    2|[Helm of Obedience](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3047)|
 |                    1|[Ponder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=451051)                  |                    1|[Teferi's Realm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3651)   |
 |                    2|[Ponder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=451051)                  |                    1|[Force of Will](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3107)    |
-|                    3|[Ponder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=451051)                  |                    2|[Teferi's Realm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3651)   |
-|                    4|[Ponder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=451051)                  |                    2|[Force of Will](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3107)    |
+|                    3|[Ponder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=451051)                  |                    2|[Force of Will](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3107)    |
+|                    4|[Ponder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=451051)                  |                    2|[Teferi's Realm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3651)   |
 |                     |                                                                                                   |                    3|[Teferi's Realm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3651)   |
 |                     |                                                                                                   |                    3|[Force of Will](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3107)    |
 
