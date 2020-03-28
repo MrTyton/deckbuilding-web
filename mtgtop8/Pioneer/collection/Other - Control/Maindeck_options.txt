@@ -129,17 +129,17 @@
 1 History of Benalia
 1 Cast Out
 2 Cast Out
-2 Treacherous Blessing
 2 History of Benalia
+2 Treacherous Blessing
 3 Cast Out
 3 Treacherous Blessing
 3 Isolated Chapel
 3 History of Benalia
 4 Trial of Ambition
-4 Shambling Vent
-4 Treacherous Blessing
 4 History of Benalia
 4 Isolated Chapel
+4 Treacherous Blessing
+4 Shambling Vent
 1 Jace, Vryn's Prodigy
 1 Ashiok, Nightmare Muse
 2 Island
@@ -216,8 +216,8 @@
 1 Drown in the Loch
 2 Absorb
 2 Thought Erasure
-2 Narset, Parter of Veils
 2 Drown in the Loch
+2 Narset, Parter of Veils
 3 Absorb
 1 Deathrite Shaman
 1 Distended Mindbender
@@ -261,15 +261,6 @@
 3 Azorius Charm
 3 Sunpetal Grove
 4 Supreme Verdict
-1 Concealed Courtyard
-1 Temple of Deceit
-1 The Eldest Reborn
-1 Temple of Enlightenment
-2 Temple of Enlightenment
-2 Search for Azcanta
-2 Temple of Deceit
-2 Concealed Courtyard
-4 Oath of Kaya
 1 Nicol Bolas, the Ravager
 1 Quicken
 2 Nicol Bolas, the Ravager
@@ -367,12 +358,21 @@
 4 Champion of Wits
 4 Elder Deep-Fiend
 4 Kozilek's Return
-1 Final Payment
+1 Concealed Courtyard
+1 Temple of Deceit
+1 The Eldest Reborn
+1 Temple of Enlightenment
+2 Temple of Enlightenment
+2 Search for Azcanta
+2 Temple of Deceit
+2 Concealed Courtyard
+4 Oath of Kaya
 1 Aphemia, the Cacophony
 1 Tymaret Calls the Dead
+1 Final Payment
 2 Tymaret Calls the Dead
-2 Temple of Silence
 2 Final Payment
+2 Temple of Silence
 2 Aphemia, the Cacophony
 3 Aphemia, the Cacophony
 3 Tymaret Calls the Dead
@@ -406,8 +406,8 @@
 4 Gideon of the Trials
 4 Lightning Strike
 1 Sigil of the Empty Throne
-1 Kaya's Wrath
 1 Torment of Hailfire
+1 Kaya's Wrath
 2 Kaya's Wrath
 3 Kaya's Wrath
 4 Cast Out

@@ -59,6 +59,6 @@
 |                     |                                                                                              |                    4|[Deputy of Detention](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457309)          |
 |                     |                                                                                              |                    4|[Disdainful Stroke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420705)            |
 |                     |                                                                                              |                    1|[Nebelgast Herald](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414366)             |
-|                     |                                                                                              |                    2|[Tireless Tracker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409997)             |
 |                     |                                                                                              |                    3|[Seal Away](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442919)                    |
+|                     |                                                                                              |                    2|[Tireless Tracker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409997)             |
 

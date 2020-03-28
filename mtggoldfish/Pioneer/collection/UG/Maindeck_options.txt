@@ -10,8 +10,8 @@
 4 Merfolk Trickster
 5 Island
 6 Island
-1 Merfolk Mistbinder
 1 Thassa, God of the Sea
+1 Merfolk Mistbinder
 1 Kopala, Warden of Waves
 1 Silvergill Adept
 1 Unclaimed Territory
@@ -19,16 +19,16 @@
 1 Benthic Biomancer
 2 Harbinger of the Tides
 2 Merfolk Mistbinder
-2 Thassa, God of the Sea
 2 Silvergill Adept
 2 Kopala, Warden of Waves
 2 Benthic Biomancer
 2 Collected Company
+2 Thassa, God of the Sea
 3 Merfolk Mistbinder
 3 Mutavault
 3 Harbinger of the Tides
-3 Thassa, God of the Sea
 3 Collected Company
+3 Thassa, God of the Sea
 3 Benthic Biomancer
 3 Silvergill Adept
 4 Merfolk Mistbinder
@@ -52,12 +52,12 @@
 1 Blast Zone
 1 Sandwurm Convergence
 4 Castle Garenbrig
+1 Gadwick, the Wizened
 1 Unsummon
 1 Thassa's Oracle
 1 Nykthos, Shrine to Nyx
 1 Nivmagus Elemental
 1 Castle Vantress
-1 Gadwick, the Wizened
 1 Risen Reef
 1 Mystical Dispute
 1 Opt
@@ -65,9 +65,9 @@
 1 Master of Waves
 1 Essence Flux
 2 Nykthos, Shrine to Nyx
-2 Thassa's Oracle
-2 Risen Reef
 2 Gadwick, the Wizened
+2 Risen Reef
+2 Thassa's Oracle
 2 Master of Waves
 2 Opt
 3 Master of Waves
@@ -75,11 +75,11 @@
 3 Gadwick, the Wizened
 3 Thassa's Oracle
 3 Opt
+4 Thassa's Oracle
 4 Risen Reef
 4 Opt
-4 Gadwick, the Wizened
-4 Thassa's Oracle
 4 Master of Waves
+4 Gadwick, the Wizened
 1 Lumbering Falls
 1 Unexpected Results
 1 Desert of the Indomitable

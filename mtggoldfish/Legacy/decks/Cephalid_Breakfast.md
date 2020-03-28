@@ -31,8 +31,8 @@
 
 |*n*<sup>th</sup> copy|                                          Maindeck Card                                          |*n*<sup>th</sup> copy|                                        Sideboard Card                                         |
 |--------------------:|-------------------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------------|
-|                    1|[Brazen Borrower](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473001)       |                    2|[Force of Will](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3107)         |
-|                    2|[Daze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=189255)                  |                    2|[Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)        |
+|                    1|[Brazen Borrower](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473001)       |                    2|[Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)        |
+|                    2|[Daze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=189255)                  |                    2|[Force of Will](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3107)         |
 |                    4|[Aether Vial](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=48146)            |                    2|[Flusterstorm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=228255)        |
 |                    3|[Misty Rainforest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405102)      |                    2|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706) |
 |                    4|[Tundra](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=885)                   |                    1|[Brazen Borrower](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473001)     |
