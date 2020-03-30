@@ -56,9 +56,9 @@
 |                     |                                                                                                |                    1|[Sanctum Prelate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416780)      |
 |                     |                                                                                                |                    1|[Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)         |
 |                     |                                                                                                |                    1|[Worship](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=25553)               |
+|                     |                                                                                                |                    1|[Containment Priest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389470)   |
 |                     |                                                                                                |                    1|[Weathered Wayfarer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=83311)    |
 |                     |                                                                                                |                    1|[True-Name Nemesis](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446104)    |
-|                     |                                                                                                |                    1|[Containment Priest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389470)   |
 |                     |                                                                                                |                    1|[Spark Double](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460995)         |
 |                     |                                                                                                |                    1|[Glen Elendra Archmage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=157977)|
 

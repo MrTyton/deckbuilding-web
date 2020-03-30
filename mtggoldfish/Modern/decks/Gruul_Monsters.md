@@ -28,8 +28,8 @@
 
 |*n*<sup>th</sup> copy|                                   Maindeck Card                                   |*n*<sup>th</sup> copy|    Sideboard Card     |
 |--------------------:|-----------------------------------------------------------------------------------|--------------------:|-----------------------|
-|                    1|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)|                    1|Klothys, God of Destiny|
-|                    1|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)  |                     |                       |
+|                    1|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)  |                    1|Klothys, God of Destiny|
+|                    1|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)|                     |                       |
 |                    2|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)  |                     |                       |
 |                    4|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)  |                     |                       |
 |                    5|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)  |                     |                       |

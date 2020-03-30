@@ -261,6 +261,27 @@
 3 Azorius Charm
 3 Sunpetal Grove
 4 Supreme Verdict
+1 Nicol Bolas, the Ravager
+1 Quicken
+2 Nicol Bolas, the Ravager
+2 Quicken
+3 Nicol Bolas, the Ravager
+3 Quicken
+4 Nicol Bolas, the Ravager
+1 Chandra, Flamecaller
+1 Bedevil
+1 Read the Bones
+1 Agonizing Remorse
+1 Arguel's Blood Fast
+1 Languish
+1 Doom Blade
+2 Read the Bones
+2 Vraska's Contempt
+2 Chandra, Flamecaller
+2 Bedevil
+2 Agonizing Remorse
+3 Read the Bones
+4 Read the Bones
 1 Void Shatter
 1 Glimmer of Genius
 1 Kaya, Orzhov Usurper
@@ -277,27 +298,6 @@
 3 Teferi, Hero of Dominaria
 4 Glacial Fortress
 4 Drowned Catacomb
-1 Chandra, Flamecaller
-1 Bedevil
-1 Read the Bones
-1 Agonizing Remorse
-1 Arguel's Blood Fast
-1 Languish
-1 Doom Blade
-2 Read the Bones
-2 Vraska's Contempt
-2 Chandra, Flamecaller
-2 Bedevil
-2 Agonizing Remorse
-3 Read the Bones
-4 Read the Bones
-1 Nicol Bolas, the Ravager
-1 Quicken
-2 Nicol Bolas, the Ravager
-2 Quicken
-3 Nicol Bolas, the Ravager
-3 Quicken
-4 Nicol Bolas, the Ravager
 1 Foreboding Ruins
 1 Mire Triton
 2 Foreboding Ruins
@@ -311,13 +311,13 @@
 1 Risen Reef
 1 Living Twister
 1 Spell Pierce
-1 Young Pyromancer
 1 Mizzium Mortars
+1 Young Pyromancer
 1 Chandra, Acolyte of Flame
-1 Dive Down
 1 Castle Embereth
 1 Chart a Course
 1 Treasure Cruise
+1 Dive Down
 1 Wild Slash
 2 Botanical Sanctum
 2 Young Pyromancer
@@ -327,8 +327,8 @@
 2 Risen Reef
 2 Chandra, Acolyte of Flame
 2 Mizzium Mortars
-2 Dive Down
 2 Wild Slash
+2 Dive Down
 3 Botanical Sanctum
 3 Chart a Course
 3 Risen Reef
@@ -363,16 +363,16 @@
 1 The Eldest Reborn
 1 Temple of Enlightenment
 2 Temple of Enlightenment
-2 Temple of Deceit
 2 Search for Azcanta
+2 Temple of Deceit
 2 Concealed Courtyard
 4 Oath of Kaya
 1 Aphemia, the Cacophony
 1 Tymaret Calls the Dead
 1 Final Payment
-2 Tymaret Calls the Dead
 2 Final Payment
 2 Temple of Silence
+2 Tymaret Calls the Dead
 2 Aphemia, the Cacophony
 3 Aphemia, the Cacophony
 3 Tymaret Calls the Dead
@@ -395,13 +395,13 @@
 2 Lightning Strike
 2 Lava Coil
 2 Inspiring Vantage
+3 Shatter the Sky
 3 Gideon of the Trials
 3 Heart of Kiran
 3 Inspiring Vantage
 3 Gideon, Ally of Zendikar
 3 Lightning Strike
 3 Needle Spires
-3 Shatter the Sky
 4 Inspiring Vantage
 4 Gideon of the Trials
 4 Lightning Strike
@@ -424,8 +424,8 @@
 1 Liliana, Death's Majesty
 1 Oath of Liliana
 2 Gifted Aetherborn
-2 Ritual of Soot
 2 Collective Brutality
+2 Ritual of Soot
 2 Temple of Malice
 2 Liliana, Death's Majesty
 6 Swamp

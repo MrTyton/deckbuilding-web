@@ -91,13 +91,6 @@
 1 Mana Confluence
 1 Tamiyo, Collector of Tales
 2 Mizzium Mortars
-1 Commit / Memory
-1 Chandra, Flamecaller
-1 Magma Jet
-2 Commit / Memory
-2 Magma Jet
-1 Oko, Thief of Crowns
-2 Oko, Thief of Crowns
 1 Search for Azcanta
 1 Bedevil
 1 Tyrant's Scorn
@@ -105,9 +98,16 @@
 1 Kolaghan's Command
 1 Rakdos's Return
 1 Jace, Vryn's Prodigy
+2 Kolaghan's Command
 2 Tyrant's Scorn
 2 Crux of Fate
-2 Kolaghan's Command
+1 Commit / Memory
+1 Chandra, Flamecaller
+1 Magma Jet
+2 Commit / Memory
+2 Magma Jet
+1 Oko, Thief of Crowns
+2 Oko, Thief of Crowns
 3 Nimble Obstructionist
 1 Karn, Scion of Urza
 2 Geier Reach Sanitarium
@@ -118,23 +118,6 @@
 2 Castle Ardenvale
 3 Island
 4 Omen of the Sea
-1 Brazen Borrower
-1 Dreadbore
-1 Glorybringer
-1 Liliana, the Last Hope
-1 Temple of Deceit
-1 Gonti, Lord of Luxury
-2 Glorybringer
-2 Brazen Borrower
-2 Liliana, the Last Hope
-3 Glorybringer
-3 Chandra, Torch of Defiance
-3 Brazen Borrower
-3 The Scarab God
-3 Temple of Epiphany
-4 Brazen Borrower
-4 Glorybringer
-4 Dragonskull Summit
 1 Thassa, God of the Sea
 1 Azorius Charm
 2 Azorius Charm
@@ -163,6 +146,23 @@
 4 Cavalier of Flame
 4 Bonecrusher Giant
 4 Gideon of the Trials
+1 Brazen Borrower
+1 Dreadbore
+1 Glorybringer
+1 Liliana, the Last Hope
+1 Temple of Deceit
+1 Gonti, Lord of Luxury
+2 Brazen Borrower
+2 Liliana, the Last Hope
+2 Glorybringer
+3 Chandra, Torch of Defiance
+3 Brazen Borrower
+3 The Scarab God
+3 Temple of Epiphany
+3 Glorybringer
+4 Brazen Borrower
+4 Glorybringer
+4 Dragonskull Summit
 1 Spirebluff Canal
 1 Urborg, Tomb of Yawgmoth
 1 Hostage Taker
@@ -177,10 +177,10 @@
 3 Drowned Catacomb
 4 Censor
 4 Spirebluff Canal
-4 Nicol Bolas, the Ravager
 4 Thought Erasure
 4 Drowned Catacomb
 4 Fatal Push
+4 Nicol Bolas, the Ravager
 1 Karn, the Great Creator
 2 Karn, the Great Creator
 3 Karn, the Great Creator
@@ -202,12 +202,12 @@
 2 Forest
 2 Arboreal Grazer
 2 Stomping Ground
-2 Vraska, Golgari Queen
+2 Woodland Cemetery
 2 Tireless Tracker
+2 Vraska, Golgari Queen
 2 Blooming Marsh
 2 Overgrown Tomb
 2 Sylvan Caryatid
-2 Woodland Cemetery
 2 Korvold, Fae-Cursed King
 2 Courser of Kruphix
 2 Ugin's Nexus
