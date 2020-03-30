@@ -45,8 +45,8 @@
 |                    4|[Ipnu Rivulet](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430869)          |                     |                                                                                                |
 |                    1|Nessian Hornbeetle                                                                               |                     |                                                                                                |
 |                    2|Nessian Hornbeetle                                                                               |                     |                                                                                                |
-|                    2|[Rhonas the Indomitable](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426884)|                     |                                                                                                |
-|                    3|[Scavenging Ooze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420783)       |                     |                                                                                                |
 |                    3|Nessian Hornbeetle                                                                               |                     |                                                                                                |
+|                    3|[Scavenging Ooze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420783)       |                     |                                                                                                |
 |                    4|Nessian Hornbeetle                                                                               |                     |                                                                                                |
+|                    2|[Rhonas the Indomitable](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426884)|                     |                                                                                                |
 

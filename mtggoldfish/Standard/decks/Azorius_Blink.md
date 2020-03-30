@@ -44,6 +44,6 @@
 |                    1|[Cavalier of Gales](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466806)|                     |                                                                                              |
 |                    2|[Cavalier of Gales](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466806)|                     |                                                                                              |
 |                    3|[Castle Vantress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473204)  |                     |                                                                                              |
-|                    3|[Fabled Passage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473206)   |                     |                                                                                              |
 |                    4|[Fabled Passage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473206)   |                     |                                                                                              |
+|                    3|[Fabled Passage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473206)   |                     |                                                                                              |
 

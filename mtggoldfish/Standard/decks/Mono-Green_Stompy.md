@@ -26,3 +26,18 @@
 |3 [Thrashing Brontodon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456570)|                                                                                      |             |
 |2 [Voracious Hydra](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466954)    |                                                                                      |             |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                           Maindeck Card                                           |*n*<sup>th</sup> copy|                                        Sideboard Card                                         |
+|--------------------:|---------------------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------------|
+|                    1|Nessian Hornbeetle                                                                                 |                    1|Setessan Petitioner                                                                            |
+|                    2|Nessian Hornbeetle                                                                                 |                    1|Nylea, Keen-Eyed                                                                               |
+|                    3|Nessian Hornbeetle                                                                                 |                    1|[End-Raze Forerunners](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457268)|
+|                    4|[Questing Beast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473133)          |                    1|[God-Eternal Rhonas](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461090)  |
+|                    4|[Yorvo, Lord of Garenbrig](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473147)|                    1|[Thorn Mammoth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476041)       |
+|                    4|Nessian Hornbeetle                                                                                 |                    1|[Steelbane Hydra](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476040)     |
+|                    4|[Vivien, Arkbow Ranger](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466953)   |                    2|Setessan Petitioner                                                                            |
+|                     |                                                                                                   |                    3|Setessan Petitioner                                                                            |
+|                     |                                                                                                   |                    4|Setessan Petitioner                                                                            |
+

@@ -1,8 +1,8 @@
 2 Teferi, Time Raveler
 3 Teferi, Time Raveler
 4 Teferi, Time Raveler
-1 Utopia Sprawl
 1 Birds of Paradise
+1 Utopia Sprawl
 1 Oath of Nissa
 2 Utopia Sprawl
 2 Oath of Nissa
@@ -12,22 +12,22 @@
 4 Oath of Nissa
 4 Utopia Sprawl
 1 Windswept Heath
+1 Karn, the Great Creator
 1 Jace, the Mind Sculptor
+1 Ashiok, Dream Render
 1 Narset, Parter of Veils
 1 Wrenn and Six
 1 Interplanar Beacon
 1 Arbor Elf
-1 Ashiok, Dream Render
 1 Dovin, Hand of Control
-1 Karn, the Great Creator
 2 Jace, the Mind Sculptor
-2 Windswept Heath
 2 Karn, the Great Creator
+2 Wrenn and Six
+2 Windswept Heath
 2 Breeding Pool
 2 Narset, Parter of Veils
 2 Interplanar Beacon
 2 Arbor Elf
-2 Wrenn and Six
 2 Dovin, Hand of Control
 3 Karn, the Great Creator
 3 Windswept Heath
@@ -47,8 +47,8 @@
 2 Misty Rainforest
 3 Misty Rainforest
 4 Misty Rainforest
-2 Forest
 2 Ashiok, Dream Render
+2 Forest
 3 Forest
 4 Forest
 1 Vraska, Golgari Queen
@@ -71,33 +71,66 @@
 2 Snow-Covered Forest
 3 Snow-Covered Forest
 4 Snow-Covered Forest
-1 Verdant Catacombs
-1 Island
+1 Bring to Light
+1 Niv-Mizzet Reborn
+1 Assassin's Trophy
+2 Bring to Light
+2 Niv-Mizzet Reborn
+3 Bring to Light
+4 Bring to Light
 1 Swamp
-1 Steam Vents
+1 Verdant Catacombs
 2 Verdant Catacombs
+1 Island
+1 Steam Vents
+1 Arid Mesa
+1 Blood Crypt
+1 Noble Hierarch
+1 Kiki-Jiki, Mirror Breaker
+1 Mountain
+1 Saheeli Rai
+1 Scalding Tarn
+1 Plains
+1 Sacred Foundry
+1 Felidar Guardian
+2 Scalding Tarn
+2 Noble Hierarch
+2 Arid Mesa
+2 Felidar Guardian
+2 Saheeli Rai
+3 Scalding Tarn
+3 Birds of Paradise
+3 Arid Mesa
+3 Saheeli Rai
+3 Felidar Guardian
+3 Noble Hierarch
+4 Birds of Paradise
+4 Arid Mesa
+4 Saheeli Rai
+4 Noble Hierarch
+4 Felidar Guardian
 1 Polluted Delta
 2 Polluted Delta
 3 Polluted Delta
 1 Satyr Wayfinder
 1 Jace, Vryn's Prodigy
-1 Stitcher's Supplier
 1 Unearth
 1 Merfolk Secretkeeper
 1 Gravecrawler
 1 Watery Grave
 1 Skaab Ruinator
+1 Stitcher's Supplier
 1 Hedron Crab
 1 Darkslick Shores
 1 Vengevine
 1 Drown in Filth
 1 Creeping Chill
 1 Claim/Fame
-2 Overgrown Tomb
 2 Satyr Wayfinder
+2 Overgrown Tomb
 2 Jace, Vryn's Prodigy
-2 Claim/Fame
 2 Creeping Chill
+2 Claim/Fame
 2 Skaab Ruinator
 2 Darkslick Shores
 2 Vengevine
@@ -125,72 +158,93 @@
 4 Stitcher's Supplier
 4 Merfolk Secretkeeper
 4 Vengevine
-1 Bring to Light
-1 Niv-Mizzet Reborn
-1 Assassin's Trophy
-2 Bring to Light
-2 Niv-Mizzet Reborn
-3 Bring to Light
-4 Bring to Light
-1 Snow-Covered Mountain
-1 Thought Erasure
-1 Snow-Covered Plains
 1 Godless Shrine
-1 Hallowed Fountain
+1 Abrupt Decay
+1 Thought Erasure
+1 Prismatic Vista
+1 Snow-Covered Swamp
 1 Huntmaster of the Fells
 1 Supreme Verdict
 1 Unmoored Ego
-1 Abrupt Decay
 1 Lightning Helix
+1 Snow-Covered Plains
 1 Dreadbore
 1 Inquisition of Kozilek
 1 Kolaghan's Command
+1 Hallowed Fountain
 1 Bloodstained Mire
 1 Snow-Covered Island
-1 Prismatic Vista
 1 Pillar of the Paruns
 1 Kaya's Guile
-1 Snow-Covered Swamp
+1 Snow-Covered Mountain
+2 Prismatic Vista
 2 Assassin's Trophy
 2 Lightning Helix
 2 Pillar of the Paruns
-2 Prismatic Vista
 2 Inquisition of Kozilek
-3 Inquisition of Kozilek
 3 Lightning Helix
 3 Assassin's Trophy
 3 Pillar of the Paruns
-3 Niv-Mizzet Reborn
+3 Inquisition of Kozilek
 3 Prismatic Vista
+3 Niv-Mizzet Reborn
 3 Ice-Fang Coatl
 3 Arcum's Astrolabe
 4 Lightning Helix
 4 Pillar of the Paruns
 4 Prismatic Vista
 4 Arcum's Astrolabe
-1 Arid Mesa
-1 Blood Crypt
-1 Noble Hierarch
-1 Kiki-Jiki, Mirror Breaker
-1 Mountain
-1 Saheeli Rai
-1 Scalding Tarn
-1 Plains
-1 Sacred Foundry
-1 Felidar Guardian
-2 Scalding Tarn
-2 Arid Mesa
-2 Felidar Guardian
-2 Saheeli Rai
-2 Noble Hierarch
-3 Birds of Paradise
-3 Scalding Tarn
-3 Arid Mesa
-3 Saheeli Rai
-3 Felidar Guardian
-3 Noble Hierarch
-4 Birds of Paradise
-4 Arid Mesa
-4 Saheeli Rai
-4 Felidar Guardian
-4 Noble Hierarch
+1 Urborg, Tomb of Yawgmoth
+1 Homing Sliver
+1 Cavern of Souls
+1 Unsettled Mariner
+1 Necrotic Sliver
+1 Sinew Sliver
+1 Aether Vial
+1 Sidewinder Sliver
+1 Cloudshredder Sliver
+1 Mutavault
+1 Galerider Sliver
+1 Sliver Hive
+1 Predatory Sliver
+1 Collected Company
+1 Striking Sliver
+1 Frenetic Sliver
+1 Leeching Sliver
+1 Manaweft Sliver
+1 Dregscape Sliver
+1 Sedge Sliver
+2 Cavern of Souls
+2 Leeching Sliver
+2 Aether Vial
+2 Mutavault
+2 Galerider Sliver
+2 Sinew Sliver
+2 Sedge Sliver
+2 Unsettled Mariner
+2 Sliver Hive
+2 Manaweft Sliver
+2 Predatory Sliver
+2 Cloudshredder Sliver
+2 Striking Sliver
+2 Collected Company
+3 Cavern of Souls
+3 Sliver Hive
+3 Collected Company
+3 Cloudshredder Sliver
+3 Sinew Sliver
+3 Manaweft Sliver
+3 Galerider Sliver
+3 Sedge Sliver
+3 Predatory Sliver
+3 Unsettled Mariner
+3 Aether Vial
+3 Mutavault
+3 Verdant Catacombs
+4 Cavern of Souls
+4 Mutavault
+4 Sinew Sliver
+4 Aether Vial
+4 Predatory Sliver
+4 Sliver Hive
+4 Sedge Sliver

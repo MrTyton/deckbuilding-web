@@ -1,3 +1,4 @@
+5 Snow-Covered Island
 1 Field of Ruin
 1 Flooded Strand
 1 Cryptic Command
@@ -8,34 +9,35 @@
 3 Cryptic Command
 3 Flooded Strand
 4 Flooded Strand
-3 Force of Negation
-1 Once Upon a Time
-2 Once Upon a Time
 1 Fact or Fiction
 1 Wilderness Reclamation
 1 Nexus of Fate
 1 Remand
-1 Mishra's Bauble
 2 Fact or Fiction
 2 Remand
 2 Wilderness Reclamation
-2 Nexus of Fate
-2 Lonely Sandbar
 3 Mystic Sanctuary
 3 Remand
 3 Wilderness Reclamation
 3 Fact or Fiction
 4 Remand
 6 Snow-Covered Island
+3 Force of Negation
+1 Once Upon a Time
+2 Once Upon a Time
+1 Mishra's Bauble
+2 Nexus of Fate
+2 Lonely Sandbar
 7 Snow-Covered Island
-3 Thought Scour
 3 Blood Moon
+1 Polluted Delta
+2 Polluted Delta
 1 Jace, the Mind Sculptor
+1 Archmage's Charm
+2 Archmage's Charm
 2 Jace, the Mind Sculptor
 1 Fatal Push
 1 Swamp
-1 Polluted Delta
-2 Polluted Delta
 2 Fatal Push
 3 Polluted Delta
 3 Fatal Push
@@ -83,8 +85,8 @@
 3 Once Upon a Time
 3 Snow-Covered Forest
 3 Mwonvuli Acid-Moss
-4 Snow-Covered Forest
 4 Karn, the Great Creator
+4 Snow-Covered Forest
 4 Mwonvuli Acid-Moss
 5 Snow-Covered Forest
 6 Snow-Covered Forest
@@ -110,8 +112,8 @@
 1 Darkslick Shores
 1 Damnation
 1 Creeping Tar Pit
-2 Damnation
 2 Geier Reach Sanitarium
+2 Damnation
 2 Field of Ruin
 2 Creeping Tar Pit
 3 Narset, Parter of Veils
@@ -120,9 +122,9 @@
 4 Narset, Parter of Veils
 4 Creeping Tar Pit
 4 Opt
-1 Bonecrusher Giant
 1 Unearth
 1 Castle Locthwain
+1 Bonecrusher Giant
 1 Seasoned Pyromancer
 1 Dark Confidant
 1 Blood Crypt
@@ -147,17 +149,17 @@
 3 Thoughtseize
 3 Kroxa, Titan of Death's Hunger
 3 Unearth
-3 Fulminator Mage
 3 Bonecrusher Giant
+3 Fulminator Mage
 3 Blackcleave Cliffs
 3 Dark Confidant
 3 Swamp
 3 Mountain
-4 Bonecrusher Giant
 4 Blackcleave Cliffs
 4 Kroxa, Titan of Death's Hunger
 4 Swamp
 4 Fulminator Mage
+4 Bonecrusher Giant
 4 Unearth
 4 Dark Confidant
 1 Genesis Hydra
@@ -178,16 +180,15 @@
 3 Gilded Goose
 3 Oath of Nissa
 3 Garruk Wildspeaker
-3 Burning-Tree Emissary
 3 Nykthos, Shrine to Nyx
+3 Burning-Tree Emissary
 3 Windswept Heath
 4 Once Upon a Time
 4 Gilded Goose
 4 Garruk Wildspeaker
-4 Nykthos, Shrine to Nyx
 4 Burning-Tree Emissary
+4 Nykthos, Shrine to Nyx
 4 Windswept Heath
-1 Archmage's Charm
 1 Esper Charm
 1 Hallowed Fountain
 1 Kaya's Guile
@@ -196,18 +197,27 @@
 1 Teferi, Time Raveler
 1 Logic Knot
 1 Secure the Wastes
-1 Celestial Colonnade
 1 Plains
 1 Supreme Verdict
+1 Celestial Colonnade
 2 Hallowed Fountain
-2 Archmage's Charm
 2 Path to Exile
 2 Teferi, Time Raveler
-2 Celestial Colonnade
 2 Supreme Verdict
+2 Celestial Colonnade
 3 Path to Exile
 4 Snapcaster Mage
 4 Island
+1 Growth Spiral
+1 Torrential Gearhulk
+1 Lumbering Falls
+2 Growth Spiral
+3 Breeding Pool
+3 Archmage's Charm
+3 Growth Spiral
+4 Thought Scour
+4 Wilderness Reclamation
+4 Growth Spiral
 1 Blast Zone
 1 Pendelhaven
 1 Spore Frog

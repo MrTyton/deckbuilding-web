@@ -1,9 +1,5 @@
 1 Dreadbore
 2 Kolaghan's Command
-1 Dark Confidant
-2 Dark Confidant
-3 Liliana of the Veil
-4 Kroxa, Titan of Death's Hunger
 1 Polluted Delta
 2 Polluted Delta
 1 Dragonskull Summit
@@ -22,6 +18,10 @@
 3 Bloodghast
 3 Merchant of the Vale
 4 Dreadhorde Arcanist
+1 Dark Confidant
+2 Dark Confidant
+3 Liliana of the Veil
+4 Kroxa, Titan of Death's Hunger
 1 Cavern of Souls
 2 Cavern of Souls
 4 Fatal Push
@@ -37,13 +37,13 @@
 1 Notorious Throng
 1 Earwig Squad
 1 Frogtosser Banneret
-2 Watery Grave
 2 Brazen Borrower
 2 Oona's Blackguard
 2 Notorious Throng
 2 Island
 2 Earwig Squad
 2 Stinkdrinker Bandit
+2 Watery Grave
 2 Drowned Catacomb
 2 Frogtosser Banneret
 2 Slither Blade
@@ -83,6 +83,8 @@
 1 Batterskull
 1 Giver of Runes
 1 Prismatic Vista
+1 Misty Rainforest
+1 Ranger-Captain of Eos
 1 Spell Queller
 1 Horizon Canopy
 1 Temple Garden
@@ -94,11 +96,9 @@
 1 Razorverge Thicket
 1 Windswept Heath
 1 Breeding Pool
-1 Misty Rainforest
 1 Ashiok, Dream Render
 1 Waterlogged Grove
 1 Path to Exile
-1 Ranger-Captain of Eos
 2 Snow-Covered Island
 2 Prismatic Vista
 2 Horizon Canopy
@@ -106,12 +106,12 @@
 2 Teferi, Time Raveler
 2 Giver of Runes
 2 Noble Hierarch
+2 Ranger-Captain of Eos
 2 Spell Queller
 2 Ice-Fang Coatl
 2 Razorverge Thicket
 2 Uro, Titan of Nature's Wrath
 2 Windswept Heath
-2 Ranger-Captain of Eos
 2 Path to Exile
 2 Snow-Covered Plains
 2 Collected Company
@@ -135,16 +135,17 @@
 1 Urborg, Tomb of Yawgmoth
 1 Silent Clearing
 1 Murderous Rider
+1 Tidehollow Sculler
 1 Carrion Feeder
 1 Gravecrawler
 1 Stitcher's Supplier
-1 Tidehollow Sculler
 1 Wayward Servant
 1 Aether Vial
 1 Concealed Courtyard
 1 Geralf's Messenger
 1 Undead Augur
 1 Relentless Dead
+2 Tidehollow Sculler
 2 Silent Clearing
 2 Gravecrawler
 2 Carrion Feeder
@@ -153,32 +154,31 @@
 2 Murderous Rider
 2 Wayward Servant
 2 Geralf's Messenger
-2 Tidehollow Sculler
 2 Relentless Dead
 2 Aether Vial
 2 Undead Augur
 3 Carrion Feeder
 3 Cavern of Souls
+3 Tidehollow Sculler
 3 Silent Clearing
 3 Gravecrawler
 3 Stitcher's Supplier
 3 Concealed Courtyard
 3 Relentless Dead
 3 Undead Augur
-3 Tidehollow Sculler
 3 Geralf's Messenger
 3 Aether Vial
 4 Carrion Feeder
 4 Cavern of Souls
 4 Concealed Courtyard
-4 Silent Clearing
 4 Aether Vial
+4 Tidehollow Sculler
 4 Gravecrawler
-4 Swamp
+4 Silent Clearing
 4 Stitcher's Supplier
+4 Swamp
 4 Relentless Dead
 4 Undead Augur
 4 Geralf's Messenger
-4 Tidehollow Sculler
 5 Swamp
 6 Swamp

@@ -91,51 +91,51 @@
 5 Island
 6 Island
 1 Benthic Biomancer
+1 Wizard's Retort
+1 Silvergill Adept
+1 Merfolk Trickster
+1 Kopala, Warden of Waves
 1 Mutavault
 1 Unclaimed Territory
-1 Silvergill Adept
-1 Kopala, Warden of Waves
 1 Merfolk Mistbinder
 1 Thassa, God of the Sea
 1 Harbinger of the Tides
-1 Merfolk Trickster
-1 Wizard's Retort
 2 Mutavault
 2 Thassa, God of the Sea
+2 Wizard's Retort
 2 Benthic Biomancer
 2 Kopala, Warden of Waves
+2 Merfolk Trickster
 2 Silvergill Adept
 2 Merfolk Mistbinder
 2 Harbinger of the Tides
-2 Merfolk Trickster
-2 Wizard's Retort
 3 Mutavault
 3 Silvergill Adept
+3 Merfolk Trickster
 3 Benthic Biomancer
 3 Thassa, God of the Sea
+3 Wizard's Retort
 3 Harbinger of the Tides
 3 Merfolk Mistbinder
-3 Wizard's Retort
-3 Merfolk Trickster
 4 Mutavault
-4 Silvergill Adept
 4 Wizard's Retort
+4 Silvergill Adept
+4 Merfolk Trickster
 4 Harbinger of the Tides
 4 Benthic Biomancer
 4 Merfolk Mistbinder
-4 Merfolk Trickster
-4 Hashep Oasis
-1 Quasiduplicate
 1 Agent of Treachery
 1 Risen Reef
 1 Leafkin Druid
 1 Nexus of Fate
+1 Quasiduplicate
 2 Nexus of Fate
 2 Risen Reef
 2 Leafkin Druid
 3 Risen Reef
 3 Leafkin Druid
 4 Risen Reef
+4 Hashep Oasis
 1 Blink of an Eye
 1 Nissa, Steward of Elements
 1 Voyaging Satyr
@@ -154,18 +154,18 @@
 1 Vessel of Nascency
 2 Emrakul, the Promised End
 2 Gather the Pack
-2 Vessel of Nascency
 2 Tamiyo, Collector of Tales
+2 Vessel of Nascency
 3 Gather the Pack
 3 Emrakul, the Promised End
+3 Tamiyo, Collector of Tales
 3 Castle Garenbrig
 3 Vessel of Nascency
-3 Tamiyo, Collector of Tales
 4 Castle Garenbrig
 4 Emrakul, the Promised End
 4 Vessel of Nascency
-1 Ishkanah, Grafwidow
 1 Sea Gate Wreckage
+1 Ishkanah, Grafwidow
 1 Ugin, the Spirit Dragon
 1 Arboreal Grazer
 1 World Breaker
@@ -189,10 +189,10 @@
 1 Opt
 1 Essence Scatter
 1 Temple of Mystery
+1 Essence Flux
 1 Castle Vantress
 1 Frilled Mystic
 1 Negate
-1 Essence Flux
 1 Admiral's Order
 1 Nightpack Ambusher
 1 Brineborn Cutthroat

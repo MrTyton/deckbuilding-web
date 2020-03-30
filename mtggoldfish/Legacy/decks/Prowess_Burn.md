@@ -22,3 +22,17 @@
 |                                                                                            |3 [Red Elemental Blast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=814)    |                                                                                   |
 |                                                                                            |4 [Smash to Smithereens](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397795)|                                                                                   |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                      Maindeck Card                                       |*n*<sup>th</sup> copy|                                     Sideboard Card                                      |
+|--------------------:|------------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------|
+|                    1|[Manamorphose](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370568)   |                    1|[Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)|
+|                    1|[Mishra's Bauble](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=122122)|                    1|[Shenanigans](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464095)   |
+|                    2|[Manamorphose](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370568)   |                    1|[Blood Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45386)     |
+|                    2|[Mishra's Bauble](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=122122)|                    2|[Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)|
+|                    3|[Manamorphose](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370568)   |                    2|[Blood Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45386)     |
+|                    3|[Mishra's Bauble](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=122122)|                    3|[Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)|
+|                    4|[Manamorphose](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370568)   |                    4|[Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)|
+|                    4|[Mishra's Bauble](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=122122)|                    4|[Pyroblast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=4083)       |
+
