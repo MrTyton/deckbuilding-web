@@ -26,10 +26,10 @@
 
 # Other Options
 
-|*n*<sup>th</sup> copy|                                      Maindeck Card                                      |*n*<sup>th</sup> copy|                                          Sideboard Card                                           |
-|--------------------:|-----------------------------------------------------------------------------------------|--------------------:|---------------------------------------------------------------------------------------------------|
-|                    3|[Steel Overseer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=222714)|                    2|[Hangarback Walker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420600)       |
-|                     |                                                                                         |                    1|[Metallic Rebuke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423706)         |
-|                     |                                                                                         |                    2|[Metallic Rebuke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423706)         |
-|                     |                                                                                         |                    1|[Emry, Lurker of the Loch](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473005)|
+|*n*<sup>th</sup> copy|                                       Maindeck Card                                       |*n*<sup>th</sup> copy|                                          Sideboard Card                                           |
+|--------------------:|-------------------------------------------------------------------------------------------|--------------------:|---------------------------------------------------------------------------------------------------|
+|                    3|[Steel Overseer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=222714)  |                    2|[Hangarback Walker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420600)       |
+|                    1|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)          |                    1|[Metallic Rebuke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423706)         |
+|                    1|[Tezzeret's Touch](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423805)|                    2|[Metallic Rebuke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423706)         |
+|                    2|[Tezzeret's Touch](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423805)|                    1|[Emry, Lurker of the Loch](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473005)|
 

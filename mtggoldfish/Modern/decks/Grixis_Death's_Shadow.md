@@ -76,7 +76,7 @@
 |                     |                                                                                                 |                    2|[Rise/Fall](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=259266)             |
 |                     |                                                                                                 |                    2|[Relic of Progenitus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174824)   |
 |                     |                                                                                                 |                    2|[Mana Leak](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45242)              |
-|                     |                                                                                                 |                    3|[Aether Gust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466796)           |
 |                     |                                                                                                 |                    3|[Nihil Spellbomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442215)       |
+|                     |                                                                                                 |                    3|[Aether Gust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466796)           |
 |                     |                                                                                                 |                    4|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)   |
 

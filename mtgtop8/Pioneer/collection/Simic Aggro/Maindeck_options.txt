@@ -1,45 +1,44 @@
 3 Yavimaya Coast
 1 Castle Garenbrig
 4 Llanowar Elves
-9 Forest
 1 Island
 1 Brazen Borrower
 2 Brazen Borrower
+9 Forest
+3 Brazen Borrower
+4 Elvish Mystic
 4 Yavimaya Coast
+1 Ipnu Rivulet
+2 Ipnu Rivulet
 1 Stubborn Denial
 2 Stubborn Denial
 3 Lovestruck Beast
 3 Stubborn Denial
 4 Lovestruck Beast
-4 Elvish Mystic
-3 Brazen Borrower
-1 Hashep Oasis
-2 Hashep Oasis
-3 Hashep Oasis
-4 Stubborn Denial
-1 Ipnu Rivulet
-2 Ipnu Rivulet
 4 Brazen Borrower
+3 Ipnu Rivulet
 1 Blast Zone
 1 Thought-Knot Seer
+1 Hashep Oasis
 1 Reality Smasher
+2 Hashep Oasis
 2 Thought-Knot Seer
 2 Reality Smasher
-3 Ipnu Rivulet
+3 Hashep Oasis
 3 Thought-Knot Seer
 3 Reality Smasher
 4 Thought-Knot Seer
+4 Stubborn Denial
 4 Reality Smasher
 2 Island
 2 Blast Zone
-4 Nykthos, Shrine to Nyx
 1 Hinterland Harbor
+4 Nykthos, Shrine to Nyx
 2 Hinterland Harbor
 1 Vivien, Arkbow Ranger
 2 Vivien, Arkbow Ranger
 3 Heart of Kiran
 3 Vivien, Arkbow Ranger
-1 Rhonas the Indomitable
 1 Uro, Titan of Nature's Wrath
 1 Satyr Wayfinder
 2 Uro, Titan of Nature's Wrath
@@ -48,13 +47,8 @@
 3 Satyr Wayfinder
 4 Uro, Titan of Nature's Wrath
 4 Satyr Wayfinder
-1 Questing Beast
-1 Steel Leaf Champion
-2 Rhonas the Indomitable
-2 Steel Leaf Champion
-3 Steel Leaf Champion
-4 Steel Leaf Champion
 3 Island
+1 Rhonas the Indomitable
 1 Emrakul, the Promised End
 1 Voracious Hydra
 2 Voracious Hydra
@@ -62,11 +56,11 @@
 1 Courser of Kruphix
 2 Courser of Kruphix
 3 Courser of Kruphix
-3 Hinterland Harbor
-4 Hinterland Harbor
 1 Cavalier of Thorns
 2 Cavalier of Thorns
 3 Cavalier of Thorns
+3 Hinterland Harbor
+4 Hinterland Harbor
 1 Ulamog, the Ceaseless Hunger
 1 Growth Spiral
 1 Traverse the Ulvenwald
@@ -76,66 +70,92 @@
 3 Growth Spiral
 3 Traverse the Ulvenwald
 4 Growth Spiral
+1 Risen Reef
+2 Risen Reef
+3 Risen Reef
+4 Risen Reef
 1 Collected Company
 2 Collected Company
 3 Collected Company
 4 Collected Company
-1 Fabled Passage
-1 Nissa, Voice of Zendikar
-1 Nylea, God of the Hunt
-2 Questing Beast
-3 Questing Beast
-1 Yorvo, Lord of Garenbrig
-3 Scavenging Ooze
 4 Island
 5 Island
 6 Island
-1 Benthic Biomancer
 1 Wizard's Retort
-1 Silvergill Adept
 1 Merfolk Trickster
-1 Kopala, Warden of Waves
 1 Mutavault
+1 Harbinger of the Tides
+2 Mutavault
+2 Wizard's Retort
+2 Merfolk Trickster
+3 Mutavault
+3 Merfolk Trickster
+4 Mutavault
+4 Merfolk Trickster
+1 Opt
+1 Castle Vantress
+1 Mystical Dispute
+2 Opt
+2 Mystical Dispute
+3 Opt
+4 Opt
+1 Fabled Passage
+1 Nissa, Voice of Zendikar
+1 Nylea, God of the Hunt
+1 Quasiduplicate
+1 Agent of Treachery
+1 Leafkin Druid
+1 Nexus of Fate
+2 Nexus of Fate
+2 Leafkin Druid
+3 Leafkin Druid
+1 Benthic Biomancer
+1 Silvergill Adept
+1 Kopala, Warden of Waves
 1 Unclaimed Territory
 1 Merfolk Mistbinder
 1 Thassa, God of the Sea
-1 Harbinger of the Tides
-2 Mutavault
 2 Thassa, God of the Sea
-2 Wizard's Retort
 2 Benthic Biomancer
 2 Kopala, Warden of Waves
-2 Merfolk Trickster
 2 Silvergill Adept
 2 Merfolk Mistbinder
 2 Harbinger of the Tides
-3 Mutavault
 3 Silvergill Adept
-3 Merfolk Trickster
 3 Benthic Biomancer
 3 Thassa, God of the Sea
 3 Wizard's Retort
 3 Harbinger of the Tides
 3 Merfolk Mistbinder
-4 Mutavault
 4 Wizard's Retort
 4 Silvergill Adept
-4 Merfolk Trickster
 4 Harbinger of the Tides
 4 Benthic Biomancer
 4 Merfolk Mistbinder
-1 Agent of Treachery
-1 Risen Reef
-1 Leafkin Druid
-1 Nexus of Fate
-1 Quasiduplicate
-2 Nexus of Fate
-2 Risen Reef
-2 Leafkin Druid
-3 Risen Reef
-3 Leafkin Druid
-4 Risen Reef
+1 Questing Beast
+1 Steel Leaf Champion
+1 Yorvo, Lord of Garenbrig
+2 Rhonas the Indomitable
+2 Steel Leaf Champion
+3 Steel Leaf Champion
+3 Scavenging Ooze
+4 Steel Leaf Champion
 4 Hashep Oasis
+1 Omen of the Sea
+1 Master of Waves
+1 Thassa's Oracle
+1 Gadwick, the Wizened
+1 Unsummon
+2 Master of Waves
+2 Gadwick, the Wizened
+2 Unsummon
+2 Omen of the Sea
+3 Gadwick, the Wizened
+3 Master of Waves
+3 Omen of the Sea
+4 Gadwick, the Wizened
+4 Master of Waves
+4 Ipnu Rivulet
 1 Blink of an Eye
 1 Nissa, Steward of Elements
 1 Voyaging Satyr
@@ -143,8 +163,8 @@
 1 Burning-Tree Emissary
 2 Nissa, Steward of Elements
 2 Kiora, Master of the Depths
-2 Burning-Tree Emissary
 2 Voyaging Satyr
+2 Burning-Tree Emissary
 3 Voyaging Satyr
 3 Burning-Tree Emissary
 3 Nissa, Steward of Elements
@@ -153,62 +173,56 @@
 1 Gather the Pack
 1 Vessel of Nascency
 2 Emrakul, the Promised End
-2 Gather the Pack
 2 Tamiyo, Collector of Tales
+2 Gather the Pack
 2 Vessel of Nascency
 3 Gather the Pack
-3 Emrakul, the Promised End
 3 Tamiyo, Collector of Tales
+3 Emrakul, the Promised End
 3 Castle Garenbrig
 3 Vessel of Nascency
 4 Castle Garenbrig
 4 Emrakul, the Promised End
 4 Vessel of Nascency
+1 Shrine of the Forsaken Gods
 1 Sea Gate Wreckage
 1 Ishkanah, Grafwidow
 1 Ugin, the Spirit Dragon
 1 Arboreal Grazer
 1 World Breaker
-1 Shrine of the Forsaken Gods
 1 Sanctum of Ugin
 1 Spring / Mind
+2 Shrine of the Forsaken Gods
 2 Arboreal Grazer
 2 Spring / Mind
-2 Shrine of the Forsaken Gods
 2 Ishkanah, Grafwidow
 2 Fabled Passage
 3 Arboreal Grazer
 3 Fabled Passage
 4 Walking Ballista
 4 Fabled Passage
-4 Traverse the Ulvenwald
 4 Arboreal Grazer
+4 Traverse the Ulvenwald
 4 Courser of Kruphix
-1 Torrential Gearhulk
 1 Dig Through Time
-1 Opt
 1 Essence Scatter
+1 Torrential Gearhulk
 1 Temple of Mystery
 1 Essence Flux
-1 Castle Vantress
 1 Negate
 1 Frilled Mystic
 1 Admiral's Order
 1 Nightpack Ambusher
 1 Brineborn Cutthroat
-1 Mystical Dispute
-2 Frilled Mystic
-2 Opt
 2 Dig Through Time
 2 Essence Scatter
 2 Temple of Mystery
+2 Frilled Mystic
 2 Admiral's Order
-2 Mystical Dispute
-2 Nightpack Ambusher
 2 Brineborn Cutthroat
+2 Nightpack Ambusher
 2 Essence Flux
 3 Frilled Mystic
-3 Opt
 3 Temple of Mystery
 3 Brineborn Cutthroat
 3 Nightpack Ambusher
@@ -216,7 +230,6 @@
 3 Admiral's Order
 3 Essence Flux
 4 Frilled Mystic
-4 Opt
 4 Nightpack Ambusher
 4 Temple of Mystery
 4 Essence Scatter

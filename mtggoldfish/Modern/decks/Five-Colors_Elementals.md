@@ -75,6 +75,6 @@
 |                     |                                                                                                 |                    1|[Omnath, Locus of the Roil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466970)|
 |                     |                                                                                                 |                    2|[Gaddock Teeg](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=140188)             |
 |                     |                                                                                                 |                    2|[Alpine Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447264)              |
-|                     |                                                                                                 |                    3|[Alpine Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447264)              |
 |                     |                                                                                                 |                    4|[Healer of the Glade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466930)      |
+|                     |                                                                                                 |                    3|[Alpine Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447264)              |
 

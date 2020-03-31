@@ -26,6 +26,8 @@
 
 |*n*<sup>th</sup> copy|                                         Maindeck Card                                         |*n*<sup>th</sup> copy|                                          Sideboard Card                                           |
 |--------------------:|-----------------------------------------------------------------------------------------------|--------------------:|---------------------------------------------------------------------------------------------------|
-|                    2|[Gideon of the Trials](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426716)|                    1|[Gideon, Ally of Zendikar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401897)|
-|                    1|[Gideon of the Trials](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426716)|                    2|[Gideon, Ally of Zendikar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401897)|
+|                    2|[Gideon of the Trials](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426716)|                    3|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)           |
+|                    1|[Gideon of the Trials](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426716)|                    4|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)           |
+|                     |                                                                                               |                    1|[Gideon, Ally of Zendikar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401897)|
+|                     |                                                                                               |                    2|[Gideon, Ally of Zendikar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401897)|
 

@@ -34,7 +34,10 @@
 
 # Other Options
 
-|*n*<sup>th</sup> copy|                                     Maindeck Card                                     |*n*<sup>th</sup> copy|                                       Sideboard Card                                       |
-|--------------------:|---------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------|
-|                    2|[Abrupt Decay](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456061)|                    1|[Assassin's Trophy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452902)|
+|*n*<sup>th</sup> copy|                                         Maindeck Card                                         |*n*<sup>th</sup> copy|                                          Sideboard Card                                           |
+|--------------------:|-----------------------------------------------------------------------------------------------|--------------------:|---------------------------------------------------------------------------------------------------|
+|                    1|[Grisly Salvage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405253)      |                    1|[Assassin's Trophy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452902)       |
+|                    2|[Nissa, Vastwood Seer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=398438)|                    2|[Blightbeetle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466841)            |
+|                    2|[Abrupt Decay](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456061)        |                    2|[Kalitas, Traitor of Ghet](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407596)|
+|                     |                                                                                               |                    3|[Ashiok, Dream Render](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461155)    |
 

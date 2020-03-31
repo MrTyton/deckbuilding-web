@@ -80,7 +80,7 @@
 |                   16|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)                  |                     |                                                                                         |
 |                   17|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)                  |                     |                                                                                         |
 |                   18|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)                  |                     |                                                                                         |
-|                   19|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)                  |                     |                                                                                         |
 |                   20|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)                  |                     |                                                                                         |
 |                   21|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)                  |                     |                                                                                         |
+|                   19|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)                  |                     |                                                                                         |
 

@@ -1,11 +1,11 @@
 2 Wastes
 1 Ulamog, the Ceaseless Hunger
-1 Elvish Spirit Guide
 1 Once Upon a Time
-2 Elvish Spirit Guide
 2 Once Upon a Time
-3 Elvish Spirit Guide
 3 Once Upon a Time
+1 Elvish Spirit Guide
+2 Elvish Spirit Guide
+3 Elvish Spirit Guide
 1 Phyrexian Revoker
 3 Endbringer
 1 Mishra's Factory
@@ -19,6 +19,9 @@
 4 Elvish Spirit Guide
 1 All Is Dust
 1 Ugin, the Ineffable
+1 Mox Diamond
+2 Mox Diamond
+3 Mox Diamond
 1 Karn, the Great Creator
 2 Karn, the Great Creator
 3 Karn, the Great Creator
@@ -36,6 +39,24 @@
 2 Oblivion Sower
 3 Thorn of Amethyst
 4 Thorn of Amethyst
+1 Snow-Covered Forest
+1 Oko, Thief of Crowns
+1 Snow-Covered Island
+1 Yavimaya Coast
+1 Prismatic Vista
+1 Drowner of Hope
+1 Eldrazi Skyspawner
+2 Snow-Covered Forest
+2 Eldrazi Skyspawner
+2 Prismatic Vista
+2 Drowner of Hope
+2 Oko, Thief of Crowns
+2 Yavimaya Coast
+3 Oko, Thief of Crowns
+3 Prismatic Vista
+3 Yavimaya Coast
+4 Once Upon a Time
+4 Yavimaya Coast
 1 Chrome Mox
 1 Blood Sun
 1 Punishing Fire
@@ -78,9 +99,9 @@
 2 Vesuva
 2 Ugin, the Ineffable
 2 All Is Dust
+2 Grim Monolith
 2 Cloudpost
 2 Glimmerpost
-2 Grim Monolith
 3 Vesuva
 3 Grim Monolith
 3 Cloudpost
@@ -96,7 +117,6 @@
 1 Palace Jailer
 1 Containment Priest
 1 Caves of Koilos
-1 Mox Diamond
 1 Thalia, Guardian of Thraben
 2 Palace Jailer
 2 Containment Priest
@@ -104,9 +124,7 @@
 2 Caves of Koilos
 2 Eldrazi Displacer
 2 Thalia, Guardian of Thraben
-2 Mox Diamond
 3 Walking Ballista
-3 Mox Diamond
 3 Thalia, Guardian of Thraben
 3 Caves of Koilos
 3 Eldrazi Displacer

@@ -55,9 +55,9 @@
 2 Supreme Verdict
 2 Irrigated Farmland
 2 Clifftop Retreat
-3 Izzet Charm
-3 Detention Sphere
 3 Sulfur Falls
+3 Detention Sphere
+3 Izzet Charm
 3 Supreme Verdict
 3 Censor
 4 Sulfur Falls
@@ -104,7 +104,6 @@
 2 Brazen Borrower
 2 Yavimaya Coast
 1 Assassin's Trophy
-1 Knight of Autumn
 1 Unmoored Ego
 1 Silumgar's Command
 1 Dreadbore
@@ -112,6 +111,7 @@
 1 Kolaghan's Command
 1 Abrupt Decay
 1 Bring to Light
+1 Knight of Autumn
 1 Ojutai's Command
 2 Assassin's Trophy
 2 Bring to Light
@@ -130,8 +130,8 @@
 4 Llanowar Elves
 1 Golos, Tireless Pilgrim
 1 Risen Reef
-1 Eldritch Evolution
 1 Lumbering Falls
+1 Eldritch Evolution
 1 Field of the Dead
 1 Overgrown Tomb
 1 Arboreal Grazer
@@ -164,9 +164,9 @@
 4 Fiery Impulse
 4 Anticipate
 4 Spirebluff Canal
+1 Search for Azcanta
 1 Isolated Chapel
 1 Narset, Parter of Veils
-1 Search for Azcanta
 1 Nicol Bolas, Dragon-God
 1 Languish
 1 Prophetic Prism
