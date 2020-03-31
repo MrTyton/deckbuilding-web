@@ -2,7 +2,7 @@
 
 #### [Export MTGO List](../collection/Mardu%20Aggro/Mardu%20Aggro.txt)
 #### [Export Arena List](../collection/Mardu%20Aggro/Mardu%20Aggro_arena.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Blood%20Crypt%0A3%09Castle%20Locthwain%0A4%09Cauldron%20Familiar%0A4%09Claim%20the%20Firstborn%0A4%09Cruel%20Celebrant%0A3%09Fabled%20Passage%0A4%09Godless%20Shrine%0A3%09Gutterbones%0A4%09Mayhem%20Devil%0A4%09Midnight%20Reaper%0A1%09Mountain%0A1%09Plains%0A4%09Priest%20of%20Forgotten%20Gods%0A2%09Rankle,%20Master%20of%20Pranks%0A4%09Sacred%20Foundry%0A3%09Swamp%0A1%09Temple%20of%20Malice%0A4%09Witch's%20Oven%0A3%09Woe%20Strider&deckside=3%09Despark%0A3%09Duress%0A3%09Epic%20Downfall%0A1%09Legion's%20End%0A2%09Sorcerous%20Spyglass%0A3%09Unchained%20Berserker)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Blood%20Crypt%0A3%09Castle%20Locthwain%0A4%09Cauldron%20Familiar%0A4%09Claim%20the%20Firstborn%0A4%09Cruel%20Celebrant%0A3%09Fabled%20Passage%0A4%09Godless%20Shrine%0A3%09Gutterbones%0A4%09Mayhem%20Devil%0A4%09Midnight%20Reaper%0A1%09Mountain%0A1%09Plains%0A4%09Priest%20of%20Forgotten%20Gods%0A2%09Rankle,%20Master%20of%20Pranks%0A4%09Sacred%20Foundry%0A3%09Swamp%0A1%09Temple%20of%20Malice%0A4%09Witch's%20Oven%0A3%09Woe%20Strider&deckside=1%09Agonizing%20Remorse%0A2%09Despark%0A3%09Duress%0A3%09Epic%20Downfall%0A2%09Legion's%20End%0A1%09Tibalt,%20Rakish%20Instigator%0A3%09Unchained%20Berserker)
 # Maindeck
 
 |                                      Artifact (4)                                       |                                            Creature (25)                                            |                                          Land (24)                                          |                                          Sorcery (4)                                           | Unknown (3) |
@@ -20,18 +20,18 @@
 
 # Sideboard
 
-|                                         Artifact (2)                                          |                                          Creature (3)                                          |                                    Instant (3)                                     |                                       Sorcery (7)                                        |
-|-----------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
-|2 [Sorcerous Spyglass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435407)|3 [Unchained Berserker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466918)|3 [Despark](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461117)|3 [Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)        |
-|                                                                                               |                                                                                                |                                                                                    |3 [Epic Downfall](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473047)|
-|                                                                                               |                                                                                                |                                                                                    |1 [Legion's End](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466860) |
+|                                          Creature (3)                                          |                                    Instant (2)                                     |                                           Planeswalker (1)                                           |                                       Sorcery (8)                                        |    Unknown (1)    |
+|------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|-------------------|
+|3 [Unchained Berserker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466918)|2 [Despark](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461117)|1 [Tibalt, Rakish Instigator](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461073)|3 [Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)        |1 Agonizing Remorse|
+|                                                                                                |                                                                                    |                                                                                                      |3 [Epic Downfall](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473047)|                   |
+|                                                                                                |                                                                                    |                                                                                                      |2 [Legion's End](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466860) |                   |
 
 
 # Other Options
 
-|*n*<sup>th</sup> copy|Maindeck Card|*n*<sup>th</sup> copy|                                           Sideboard Card                                           |
-|---------------------|-------------|--------------------:|----------------------------------------------------------------------------------------------------|
-|                     |             |                    1|[Tibalt, Rakish Instigator](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461073)|
-|                     |             |                    2|[Legion's End](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466860)             |
-|                     |             |                    1|Agonizing Remorse                                                                                   |
+|*n*<sup>th</sup> copy|Maindeck Card|*n*<sup>th</sup> copy|                                       Sideboard Card                                        |
+|---------------------|-------------|--------------------:|---------------------------------------------------------------------------------------------|
+|                     |             |                    1|[Sorcerous Spyglass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435407)|
+|                     |             |                    2|[Sorcerous Spyglass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435407)|
+|                     |             |                    3|[Despark](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461117)           |
 

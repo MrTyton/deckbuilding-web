@@ -141,8 +141,8 @@
 1 Discovery / Dispersal
 2 Discovery / Dispersal
 3 Discovery / Dispersal
-4 Dreadbore
 4 Discovery / Dispersal
+4 Dreadbore
 1 Dovin's Veto
 1 Absorb
 1 Tamiyo, Collector of Tales
@@ -222,14 +222,14 @@
 1 Opulent Palace
 1 Hostage Taker
 3 Jace, Vryn's Prodigy
+1 Nissa, Vastwood Seer
+1 Polukranos, Unchained
 1 Assassin's Trophy
 1 Hissing Quagmire
 1 Scrapheap Scrounger
 1 Thrashing Brontodon
 1 Ramunap Excavator
-1 Polukranos, Unchained
 1 Tasigur, the Golden Fang
-1 Nissa, Vastwood Seer
 2 Assassin's Trophy
 2 Scavenging Ooze
 2 Field of Ruin
@@ -271,6 +271,13 @@
 3 Nicol Bolas, the Ravager
 3 Quicken
 4 Nicol Bolas, the Ravager
+1 Demonic Pact
+1 Flicker of Fate
+1 The Eldest Reborn
+2 Demonic Pact
+2 The Eldest Reborn
+3 Demonic Pact
+4 Demonic Pact
 1 Void Shatter
 1 Glimmer of Genius
 1 Kaya, Orzhov Usurper
@@ -286,13 +293,6 @@
 3 Teferi, Hero of Dominaria
 4 Glacial Fortress
 4 Drowned Catacomb
-1 Demonic Pact
-1 Flicker of Fate
-1 The Eldest Reborn
-2 Demonic Pact
-2 The Eldest Reborn
-3 Demonic Pact
-4 Demonic Pact
 1 Urborg, Tomb of Yawgmoth
 1 Sigil of the Empty Throne
 1 Kaya's Wrath
@@ -304,26 +304,26 @@
 1 Sylvan Caryatid
 2 Sylvan Caryatid
 4 Champion of Wits
+1 Dive Down
 1 Fiery Impulse
 1 Risen Reef
 1 Living Twister
 1 Spell Pierce
-1 Young Pyromancer
 1 Mizzium Mortars
+1 Young Pyromancer
 1 Chandra, Acolyte of Flame
-1 Dive Down
 1 Castle Embereth
 1 Treasure Cruise
 1 Wild Slash
 2 Young Pyromancer
 2 Chart a Course
 2 Treasure Cruise
+2 Chandra, Acolyte of Flame
 2 Fiery Impulse
 2 Risen Reef
-2 Chandra, Acolyte of Flame
+2 Dive Down
 2 Mizzium Mortars
 2 Wild Slash
-2 Dive Down
 3 Botanical Sanctum
 3 Chart a Course
 3 Young Pyromancer
@@ -355,8 +355,8 @@
 2 Temple of Silence
 2 Tymaret Calls the Dead
 2 Aphemia, the Cacophony
-3 Aphemia, the Cacophony
 3 Tymaret Calls the Dead
+3 Aphemia, the Cacophony
 3 Final Payment
 4 Aphemia, the Cacophony
 4 Final Payment
@@ -369,9 +369,9 @@
 1 Needle Spires
 1 Shatter the Sky
 1 Lava Coil
-2 Haktos the Unscarred
 2 Heart of Kiran
 2 Clifftop Retreat
+2 Haktos the Unscarred
 2 Lava Coil
 2 Needle Spires
 2 Shatter the Sky
@@ -388,16 +388,16 @@
 4 Lightning Strike
 1 Chandra, Flamecaller
 1 Bedevil
-1 Read the Bones
 1 Ob Nixilis Reignited
+1 Read the Bones
 1 Agonizing Remorse
 1 Arguel's Blood Fast
 1 Languish
 1 Doom Blade
+2 Bedevil
 2 Read the Bones
 2 Vraska's Contempt
 2 Chandra, Flamecaller
-2 Bedevil
 2 Agonizing Remorse
 3 Read the Bones
 4 Read the Bones

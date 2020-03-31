@@ -24,3 +24,23 @@
 |3 [Disfigure](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442076)    |2 [Liliana, Dreadhorde General](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461024)|4 [Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)       |2 Pharika's Libation|
 |2 [Noxious Grasp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466864)|                                                                                                        |2 [Legion's End](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466860)|                    |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                         Maindeck Card                                         |*n*<sup>th</sup> copy|                                      Sideboard Card                                       |
+|--------------------:|-----------------------------------------------------------------------------------------------|--------------------:|-------------------------------------------------------------------------------------------|
+|                    1|[Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)               |                    1|Mire's Grasp                                                                               |
+|                    1|Drag to the Underworld                                                                         |                    1|Erebos's Intervention                                                                      |
+|                    1|[Bolas's Citadel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461006)     |                    1|[Ritual of Soot](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452834)  |
+|                    1|[Syr Konrad, the Grim](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473069)|                    1|[Grotesque Demise](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457219)|
+|                    1|Erebos's Intervention                                                                          |                    1|[Plaguecrafter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452832)   |
+|                    1|[Mausoleum Secrets](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452825)   |                    1|[Doom Whisperer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452819)  |
+|                    2|[Bolas's Citadel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461006)     |                    2|Mire's Grasp                                                                               |
+|                    2|[Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)               |                    2|[Ritual of Soot](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452834)  |
+|                    2|[Mausoleum Secrets](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452825)   |                    2|[Grotesque Demise](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457219)|
+|                    2|Drag to the Underworld                                                                         |                    2|[Plaguecrafter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452832)   |
+|                    3|[Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)               |                    3|Pharika's Libation                                                                         |
+|                    4|[Murderous Rider](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473059)     |                    3|Mire's Grasp                                                                               |
+|                   22|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)               |                    3|[Grotesque Demise](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457219)|
+|                   23|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)               |                     |                                                                                           |
+

@@ -25,3 +25,21 @@
 |                                                                                              |3 [Noxious Grasp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466864)   |1 [Thought Distortion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466871)|2 Mystic Repeal        |
 |                                                                                              |1 [Return to Nature](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461102)|                                                                                               |                       |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                        Maindeck Card                                         |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
+|--------------------:|----------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
+|                    1|[Golgari Findbroker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452925) |                    1|Agonizing Remorse                                                                             |
+|                    1|[The Great Henge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473123)    |                    1|[Thrashing Brontodon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456570)|
+|                    1|[Bond of Flourishing](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461082)|                    1|[Massacre Girl](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461026)      |
+|                    1|[Find/Finality](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452975)      |                    1|Tymaret, Chosen from Death                                                                    |
+|                    2|[Find/Finality](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452975)      |                    2|[Thought Distortion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466871) |
+|                    2|[Golgari Findbroker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452925) |                    2|[Massacre Girl](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461026)      |
+|                    2|[Bond of Flourishing](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461082)|                    2|Agonizing Remorse                                                                             |
+|                    4|[Murderous Rider](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473059)    |                    2|Tymaret, Chosen from Death                                                                    |
+|                    4|[Beanstalk Giant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473111)    |                    2|[Thrashing Brontodon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456570)|
+|                    4|[Casualties of War](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461114)  |                    3|Agonizing Remorse                                                                             |
+|                    8|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)             |                    3|Tymaret, Chosen from Death                                                                    |
+|                    6|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)              |                    4|Agonizing Remorse                                                                             |
+

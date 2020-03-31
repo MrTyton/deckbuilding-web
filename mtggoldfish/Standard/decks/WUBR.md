@@ -26,3 +26,22 @@
 |                                                                                                 |                                                                                      |3 [Devout Decree](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466767)         |
 |                                                                                                 |                                                                                      |2 [Ritual of Soot](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452834)        |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                         Maindeck Card                                         |*n*<sup>th</sup> copy|                                        Sideboard Card                                         |
+|--------------------:|-----------------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------------|
+|                    1|Ashiok, Nightmare Muse                                                                         |                    1|[The Elderspell](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461016)      |
+|                    4|[Temple of Silence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373522)   |                    1|Kunoros, Hound of Athreos                                                                      |
+|                    1|[Despark](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461117)             |                    1|Agonizing Remorse                                                                              |
+|                    1|[Sacred Foundry](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405106)      |                    2|Kunoros, Hound of Athreos                                                                      |
+|                    1|[Blood Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=97102)          |                    3|Kunoros, Hound of Athreos                                                                      |
+|                    3|Agonizing Remorse                                                                              |                    1|[Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)    |
+|                    1|[Disfigure](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442076)           |                    2|[Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)    |
+|                    1|[Hero of Precinct One](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457155)|                    3|[Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)    |
+|                    1|[Elite Guardmage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461122)     |                    1|[Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)               |
+|                    2|[Elite Guardmage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461122)     |                    3|[Hero of Precinct One](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457155)|
+|                    2|[Hero of Precinct One](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457155)|                     |                                                                                               |
+|                    3|[Elite Guardmage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461122)     |                     |                                                                                               |
+|                    4|[Elite Guardmage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461122)     |                     |                                                                                               |
+
