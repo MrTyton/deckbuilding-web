@@ -34,8 +34,8 @@
 |                    1|[Kraul Harpooner](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452886)  |                    1|[Pulse of Murasa](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446177)    |
 |                    1|[Birds of Paradise](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129906)|                    2|[Relic of Progenitus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174824)|
 |                    1|[Llanowar Elves](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129626)   |                     |                                                                                              |
-|                    2|[Questing Beast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473133)   |                     |                                                                                              |
 |                    2|[Kraul Harpooner](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452886)  |                     |                                                                                              |
-|                    2|[Kessig Wolf Run](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=233256)  |                     |                                                                                              |
+|                    2|[Questing Beast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473133)   |                     |                                                                                              |
 |                    3|[Kraul Harpooner](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452886)  |                     |                                                                                              |
+|                    2|[Kessig Wolf Run](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=233256)  |                     |                                                                                              |
 

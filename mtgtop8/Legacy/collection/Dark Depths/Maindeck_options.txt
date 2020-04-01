@@ -1,5 +1,4 @@
 4 Dark Confidant
-3 Wasteland
 1 Pithing Needle
 2 Pithing Needle
 2 Sylvan Scrying
@@ -8,6 +7,7 @@
 3 Elvish Spirit Guide
 3 Duress
 1 Nurturing Peatland
+3 Wasteland
 1 Lotus Petal
 2 Lotus Petal
 3 Lotus Petal
@@ -24,12 +24,11 @@
 4 Pithing Needle
 3 Sylvan Scrying
 4 Sylvan Scrying
-1 Green Sun's Zenith
-1 Dryad Arbor
 2 Nurturing Peatland
 3 Once Upon a Time
 3 Not of This World
-2 Green Sun's Zenith
+1 Green Sun's Zenith
+1 Dryad Arbor
 4 Once Upon a Time
 3 Inquisition of Kozilek
 1 Life from the Loam
@@ -37,19 +36,17 @@
 1 Blast Zone
 1 Snow-Covered Swamp
 1 Assassin's Trophy
-1 Windswept Heath
-2 Windswept Heath
-3 Windswept Heath
-2 Forest
+2 Green Sun's Zenith
 1 Hymn to Tourach
 2 Hymn to Tourach
 3 Hymn to Tourach
 4 Hymn to Tourach
 1 Maze of Ith
+1 Field of the Dead
 1 Toxic Deluge
 1 Surgical Extraction
-1 Field of the Dead
 2 Surgical Extraction
+2 Forest
 2 Toxic Deluge
 3 Surgical Extraction
 2 Sylvan Library
@@ -58,32 +55,10 @@
 1 Shizo, Death's Storehouse
 2 Into the North
 1 Overgrown Tomb
+1 Windswept Heath
+2 Windswept Heath
 2 Overgrown Tomb
-1 Savannah
-1 Taiga
-1 Giver of Runes
-1 Ramunap Excavator
-1 Ancient Tomb
-1 Knight of the Reliquary
-1 Flagstones of Trokair
-1 Horizon Canopy
-1 Scryb Ranger
-1 Plains
-1 Knight of Autumn
-1 Thalia, Guardian of Thraben
-2 Horizon Canopy
-2 Giver of Runes
-2 Savannah
-2 Thalia, Guardian of Thraben
-2 Knight of the Reliquary
-3 Savannah
-3 Giver of Runes
-3 Green Sun's Zenith
-3 Knight of the Reliquary
-3 Thalia, Guardian of Thraben
-4 Windswept Heath
-4 Green Sun's Zenith
-4 Knight of the Reliquary
+3 Windswept Heath
 1 Living Wish
 2 Assassin's Trophy
 2 Living Wish
@@ -105,19 +80,19 @@
 2 Cabal Therapy
 2 Reality Smasher
 2 Thought-Knot Seer
+2 Mishra's Factory
 2 Eldrazi Temple
 2 Bloodghast
-2 Mishra's Factory
 2 Liliana of the Veil
-3 Swamp
-3 Bloodghast
 3 Eldrazi Temple
+3 Bloodghast
 3 Fatal Push
 3 Liliana of the Veil
 3 Thought-Knot Seer
+3 Swamp
 4 Thought-Knot Seer
 4 Swamp
 4 Bloodghast
-5 Swamp
 6 Swamp
 7 Swamp
+5 Swamp

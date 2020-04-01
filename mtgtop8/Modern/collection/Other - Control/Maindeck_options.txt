@@ -57,14 +57,14 @@
 3 Opt
 3 Island
 4 Polluted Delta
-1 Utopia Sprawl
 1 Arbor Elf
-2 Utopia Sprawl
+1 Utopia Sprawl
 2 Arbor Elf
-3 Utopia Sprawl
+2 Utopia Sprawl
 3 Arbor Elf
-4 Utopia Sprawl
+3 Utopia Sprawl
 4 Arbor Elf
+4 Utopia Sprawl
 1 Bloodstained Mire
 1 Liliana of the Veil
 1 Thoughtseize
@@ -78,13 +78,13 @@
 1 Trinisphere
 1 Eternal Witness
 2 Karn, the Great Creator
-2 Mwonvuli Acid-Moss
 2 Trinisphere
+2 Mwonvuli Acid-Moss
 2 Eternal Witness
 3 Karn, the Great Creator
+3 Mwonvuli Acid-Moss
 3 Once Upon a Time
 3 Snow-Covered Forest
-3 Mwonvuli Acid-Moss
 4 Snow-Covered Forest
 4 Karn, the Great Creator
 4 Mwonvuli Acid-Moss
@@ -147,8 +147,8 @@
 2 Mountain
 3 Bloodstained Mire
 3 Thoughtseize
-3 Kroxa, Titan of Death's Hunger
 3 Unearth
+3 Kroxa, Titan of Death's Hunger
 3 Bonecrusher Giant
 3 Fulminator Mage
 3 Blackcleave Cliffs
@@ -156,39 +156,12 @@
 3 Swamp
 3 Mountain
 4 Blackcleave Cliffs
-4 Kroxa, Titan of Death's Hunger
 4 Swamp
+4 Kroxa, Titan of Death's Hunger
 4 Fulminator Mage
 4 Bonecrusher Giant
 4 Unearth
 4 Dark Confidant
-1 Genesis Hydra
-1 Gilded Goose
-1 Oath of Nissa
-1 Garruk Wildspeaker
-1 Nykthos, Shrine to Nyx
-1 Windswept Heath
-1 Burning-Tree Emissary
-2 Genesis Hydra
-2 Gilded Goose
-2 Oath of Nissa
-2 Garruk Wildspeaker
-2 Windswept Heath
-2 Nykthos, Shrine to Nyx
-2 Burning-Tree Emissary
-3 Genesis Hydra
-3 Gilded Goose
-3 Oath of Nissa
-3 Garruk Wildspeaker
-3 Nykthos, Shrine to Nyx
-3 Burning-Tree Emissary
-3 Windswept Heath
-4 Once Upon a Time
-4 Gilded Goose
-4 Garruk Wildspeaker
-4 Burning-Tree Emissary
-4 Nykthos, Shrine to Nyx
-4 Windswept Heath
 1 Esper Charm
 1 Hallowed Fountain
 1 Kaya's Guile
@@ -208,6 +181,33 @@
 3 Path to Exile
 4 Snapcaster Mage
 4 Island
+1 Genesis Hydra
+1 Gilded Goose
+1 Oath of Nissa
+1 Nykthos, Shrine to Nyx
+1 Garruk Wildspeaker
+1 Windswept Heath
+1 Burning-Tree Emissary
+2 Genesis Hydra
+2 Gilded Goose
+2 Oath of Nissa
+2 Windswept Heath
+2 Nykthos, Shrine to Nyx
+2 Garruk Wildspeaker
+2 Burning-Tree Emissary
+3 Genesis Hydra
+3 Gilded Goose
+3 Oath of Nissa
+3 Nykthos, Shrine to Nyx
+3 Garruk Wildspeaker
+3 Burning-Tree Emissary
+3 Windswept Heath
+4 Once Upon a Time
+4 Gilded Goose
+4 Burning-Tree Emissary
+4 Nykthos, Shrine to Nyx
+4 Windswept Heath
+4 Garruk Wildspeaker
 1 Lumbering Falls
 1 Torrential Gearhulk
 1 Growth Spiral
