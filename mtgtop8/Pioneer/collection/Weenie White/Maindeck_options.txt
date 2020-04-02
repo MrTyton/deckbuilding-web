@@ -3,23 +3,19 @@
 18 Plains
 2 Elspeth Conquers Death
 3 Stasis Snare
-4 Stasis Snare
 19 Plains
-1 Selfless Spirit
 1 Leonin Vanguard
 1 Legion's Landing
 1 Ajani, Strength of the Pride
 1 Ajani's Pridemate
 1 Alseid of Life's Bounty
 1 Healer's Hawk
-2 Selfless Spirit
 2 Alseid of Life's Bounty
 2 Healer's Hawk
 2 Ajani, Strength of the Pride
 2 Legion's Landing
 2 Ajani's Pridemate
 2 Leonin Vanguard
-3 Selfless Spirit
 3 Legion's Landing
 3 Daxos, Blessed by the Sun
 3 Ajani's Pridemate
@@ -32,10 +28,14 @@
 4 Ajani's Pridemate
 4 Leonin Vanguard
 20 Plains
+1 Selfless Spirit
+2 Selfless Spirit
+3 Selfless Spirit
+4 Stasis Snare
 1 Benalish Marshal
 2 Benalish Marshal
-2 Tomik, Distinguished Advokist
 1 Skysovereign, Consul Flagship
+2 Tomik, Distinguished Advokist
 1 Dryad Militant
 1 Gideon Blackblade
 1 Banishing Light
@@ -43,5 +43,3 @@
 3 Baffling End
 3 Gideon, Ally of Zendikar
 3 Elspeth Conquers Death
-3 Anafenza, Kin-Tree Spirit
-3 Benalish Marshal

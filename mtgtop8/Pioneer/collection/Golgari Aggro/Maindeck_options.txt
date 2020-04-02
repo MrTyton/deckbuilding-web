@@ -4,11 +4,6 @@
 3 Scavenging Ooze
 4 Scavenging Ooze
 2 Yorvo, Lord of Garenbrig
-1 Surrak, the Hunt Caller
-2 Surrak, the Hunt Caller
-1 Woodland Cemetery
-3 Rishkar, Peema Renegade
-2 Woodland Cemetery
 1 Walking Ballista
 1 Hardened Scales
 1 Winding Constrictor
@@ -24,6 +19,11 @@
 4 Hardened Scales
 4 Winding Constrictor
 4 Walking Ballista
+3 Rishkar, Peema Renegade
+1 Surrak, the Hunt Caller
+2 Surrak, the Hunt Caller
+1 Woodland Cemetery
+4 Nissa, Voice of Zendikar
 4 The Great Henge
 1 Swamp
 2 Swamp
@@ -52,17 +52,28 @@
 4 Catacomb Sifter
 4 Woe Strider
 4 Zulaport Cutthroat
+2 Woodland Cemetery
 1 Heart of Kiran
 2 Heart of Kiran
-1 Questing Beast
-3 Woodland Cemetery
+1 Vivien, Arkbow Ranger
+2 Vivien, Arkbow Ranger
 1 Voracious Hydra
 2 Voracious Hydra
+1 Mutavault
+2 Mutavault
+3 Mutavault
 1 Experiment One
 2 Experiment One
 3 Experiment One
 4 Experiment One
-4 Nissa, Voice of Zendikar
+1 Hangarback Walker
+1 Stonecoil Serpent
+2 Hangarback Walker
+2 Stonecoil Serpent
+3 Hangarback Walker
+3 Stonecoil Serpent
+1 Questing Beast
+3 Woodland Cemetery
 1 Weaponcraft Enthusiast
 2 Weaponcraft Enthusiast
 3 Priest of Forgotten Gods
@@ -71,7 +82,43 @@
 2 Nessian Hornbeetle
 3 Nessian Hornbeetle
 4 Nessian Hornbeetle
+3 Voracious Hydra
+4 Rishkar, Peema Renegade
+4 Voracious Hydra
+10 Forest
+11 Forest
+2 Hashep Oasis
+4 Hangarback Walker
+4 Stonecoil Serpent
 2 Questing Beast
+1 Blossoming Defense
+1 Kraul Harpooner
+2 Blossoming Defense
+2 Kraul Harpooner
+1 Heroic Intervention
+1 Tireless Tracker
+2 Tireless Tracker
+1 Abrupt Decay
+2 Abrupt Decay
+1 Assassin's Trophy
+3 Surrak, the Hunt Caller
+1 Pelt Collector
+1 Fatal Push
+1 Evolutionary Leap
+2 Pelt Collector
+2 Fatal Push
+3 Pelt Collector
+3 Fatal Push
+4 Pelt Collector
+4 Fatal Push
+3 Vivien, Arkbow Ranger
+4 Mutavault
+4 Vivien, Arkbow Ranger
+1 Nantuko Husk
+1 Blisterpod
+2 Nantuko Husk
+3 Gruesome Menagerie
+4 Satyr Wayfinder
 1 Murderous Rider
 1 Traverse the Ulvenwald
 1 Urborg, Tomb of Yawgmoth
@@ -110,47 +157,3 @@
 4 Zetalpa, Primal Dawn
 4 Traverse the Ulvenwald
 4 Soulflayer
-1 Mutavault
-2 Mutavault
-3 Mutavault
-3 Voracious Hydra
-4 Rishkar, Peema Renegade
-4 Voracious Hydra
-10 Forest
-11 Forest
-1 Vivien, Arkbow Ranger
-2 Vivien, Arkbow Ranger
-1 Hangarback Walker
-1 Stonecoil Serpent
-2 Hangarback Walker
-2 Stonecoil Serpent
-3 Hangarback Walker
-3 Stonecoil Serpent
-4 Hangarback Walker
-1 Blossoming Defense
-1 Kraul Harpooner
-2 Blossoming Defense
-2 Kraul Harpooner
-1 Heroic Intervention
-1 Tireless Tracker
-2 Tireless Tracker
-1 Abrupt Decay
-2 Hashep Oasis
-2 Abrupt Decay
-1 Assassin's Trophy
-3 Surrak, the Hunt Caller
-1 Pelt Collector
-1 Fatal Push
-1 Evolutionary Leap
-2 Pelt Collector
-2 Fatal Push
-3 Pelt Collector
-3 Fatal Push
-4 Pelt Collector
-4 Fatal Push
-4 Stonecoil Serpent
-1 Nantuko Husk
-1 Blisterpod
-2 Nantuko Husk
-3 Gruesome Menagerie
-4 Satyr Wayfinder

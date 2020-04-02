@@ -1,9 +1,9 @@
-1 Aethersphere Harvester
-2 Windstorm
+4 Thoughtseize
 4 Fatal Push
+2 Reclamation Sage
+1 Scavenging Ooze
 1 Damping Sphere
 2 Damping Sphere
-1 Scavenging Ooze
 2 Scavenging Ooze
 1 Brain Maggot
 2 Brain Maggot
@@ -21,12 +21,6 @@
 1 Stain the Mind
 1 Assassin's Trophy
 2 Phyrexian Revoker
-1 Mystic Repeal
-1 Leyline of Sanctity
-1 Savage Summoning
-2 Leyline of Sanctity
-2 Savage Summoning
-3 Leyline of Sanctity
 1 Soul-Guide Lantern
 1 Epic Downfall
 2 Soul-Guide Lantern
@@ -40,6 +34,7 @@
 1 Shifting Ceratops
 2 Shifting Ceratops
 1 Abrupt Decay
+1 Unravel the Aether
 1 Agonizing Remorse
 2 Agonizing Remorse
 1 Grafdigger's Cage
@@ -48,15 +43,26 @@
 2 Cartouche of Ambition
 2 Cast Down
 3 Damping Sphere
-1 Unravel the Aether
 1 Vivien Reid
 2 Vivien Reid
 2 Stain the Mind
 1 Blightbeetle
 2 Blightbeetle
+2 Abrupt Decay
+2 Assassin's Trophy
+3 Abrupt Decay
+1 Mystic Repeal
+1 Leyline of Sanctity
+1 Savage Summoning
+2 Leyline of Sanctity
+2 Savage Summoning
+3 Leyline of Sanctity
 3 Reclamation Sage
-3 Shifting Ceratops
-3 Cast Down
+1 Hangarback Walker
+1 Scrapheap Scrounger
+2 Unravel the Aether
+2 Scrapheap Scrounger
+3 Scrapheap Scrounger
 1 Evolutionary Leap
 1 Duress
 1 Kalitas, Traitor of Ghet
@@ -65,6 +71,5 @@
 2 Evolutionary Leap
 3 Duress
 4 Duress
-2 Abrupt Decay
-2 Assassin's Trophy
-3 Abrupt Decay
+3 Shifting Ceratops
+3 Cast Down

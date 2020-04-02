@@ -158,9 +158,9 @@
 1 Kytheon, Hero of Akros
 1 Spawn of Mayhem
 1 Knight of the Ebon Legion
-2 Spawn of Mayhem
 2 History of Benalia
 2 Knight of the Ebon Legion
+2 Spawn of Mayhem
 2 Kytheon, Hero of Akros
 3 History of Benalia
 3 Mutavault
@@ -176,11 +176,11 @@
 1 Dreadhorde Butcher
 1 Dreadbore
 1 Kroxa, Titan of Death's Hunger
+2 Kroxa, Titan of Death's Hunger
 2 Foreboding Ruins
 2 Dreadhorde Butcher
 2 Vraska, Golgari Queen
 2 Kalitas, Traitor of Ghet
-2 Kroxa, Titan of Death's Hunger
 3 Tireless Tracker
 3 Foreboding Ruins
 3 Dreadhorde Butcher
@@ -191,8 +191,6 @@
 1 Starfield Mystic
 3 Gideon's Intervention
 4 Gideon's Intervention
-3 Daxos, Blessed by the Sun
-4 Spell Queller
 1 Voice of Resurgence
 2 Voice of Resurgence
 1 Radiant Fountain
@@ -213,10 +211,12 @@
 3 Collected Company
 3 Elvish Mystic
 3 Militia Bugler
+4 Elvish Mystic
 4 Fortified Village
 4 Collected Company
 4 Militia Bugler
-4 Elvish Mystic
+3 Daxos, Blessed by the Sun
+4 Spell Queller
 1 Sacred Foundry
 2 Sacred Foundry
 3 Sacred Foundry
@@ -328,7 +328,6 @@
 1 Llanowar Wastes
 1 Watery Grave
 1 Driven / Despair
-2 Grisly Salvage
 2 Watery Grave
 2 Creeping Chill
 2 Botanical Sanctum
@@ -337,6 +336,7 @@
 2 Narcomoeba
 2 Driven / Despair
 2 Haunted Dead
+2 Grisly Salvage
 2 Stitcher's Supplier
 2 Prized Amalgam
 2 Llanowar Wastes
@@ -351,8 +351,8 @@
 3 Narcomoeba
 4 Gurmag Angler
 4 Creeping Chill
-4 Gather the Pack
 4 Grisly Salvage
+4 Gather the Pack
 4 Stitcher's Supplier
 4 Prized Amalgam
 4 Narcomoeba
@@ -377,9 +377,9 @@
 2 Pelt Collector
 2 Bronzehide Lion
 2 Experiment One
-3 Questing Beast
 3 Atarka's Command
 3 Ghor-Clan Rampager
+3 Questing Beast
 3 Voice of Resurgence
 3 Rootbound Crag
 3 Pelt Collector
@@ -414,10 +414,10 @@
 2 Servo Exhibition
 3 Reckless Bushwhacker
 3 Legion's Landing
-3 Benalish Marshal
 3 Lightning Strike
 3 Toolcraft Exemplar
 3 Servo Exhibition
+3 Benalish Marshal
 3 Battlefield Forge
 3 Raise the Alarm
 4 Legion's Landing
@@ -468,9 +468,9 @@
 3 Mana Confluence
 3 Aether Hub
 3 All That Glitters
+4 Stonecoil Serpent
 4 Spire of Industry
 4 Shrapnel Blast
-4 Stonecoil Serpent
 4 Ghostfire Blade
 4 Ornithopter
 4 Darksteel Citadel
@@ -502,8 +502,8 @@
 4 Mountain
 5 Mountain
 5 Swamp
-6 Mountain
 6 Swamp
+6 Mountain
 7 Mountain
 8 Mountain
 1 Kiora Bests the Sea God
