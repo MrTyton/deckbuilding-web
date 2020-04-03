@@ -107,6 +107,6 @@
 |                    1|[Lightning Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=806)                |                    1|[Confusion in the Ranks](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=49528)      |
 |                    2|[Lightning Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=806)                |                    2|[Confusion in the Ranks](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=49528)      |
 |                    3|[Lightning Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=806)                |                    3|[Confusion in the Ranks](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=49528)      |
-|                    4|[Lightning Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=806)                |                     |                                                                                                      |
 |                    7|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)                   |                     |                                                                                                      |
+|                    4|[Lightning Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=806)                |                     |                                                                                                      |
 
