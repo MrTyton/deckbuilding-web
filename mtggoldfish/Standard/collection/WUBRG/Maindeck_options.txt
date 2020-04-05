@@ -114,7 +114,6 @@
 1 Ilharg, the Raze-Boar
 1 Cauldron Familiar
 1 Spark Double
-1 Heliod, Sun-Crowned
 1 Dreadhorde Arcanist
 1 Lazav, the Multifarious
 1 Nissa, Who Shakes the World
@@ -122,10 +121,11 @@
 1 Neoform
 1 Plaguecrafter
 1 Field of Ruin
-1 Mobilized District
 1 Fblthp, the Lost
 1 Storrev, Devkarin Lich
 1 Kiora, Behemoth Beckoner
+1 Mobilized District
+1 Tithe Taker
 1 Athreos, Shroud-Veiled
 1 Phoenix of Ash
 1 Cerulean Drake
@@ -133,16 +133,15 @@
 1 Biogenic Ooze
 1 Nightmare Shepherd
 1 Kunoros, Hound of Athreos
-1 Hushbringer
 1 Thief of Sanity
 1 Thorn Mammoth
 1 Kroxa, Titan of Death's Hunger
 1 Charming Prince
-1 Apostle of Purifying Light
 1 Deputy of Detention
 1 Karn, the Great Creator
 1 Eidolon of Obstruction
 1 Shifting Ceratops
+1 Apostle of Purifying Light
 1 Etrata, the Silencer
 1 Chulane, Teller of Tales
 1 Molderhulk
@@ -157,11 +156,12 @@
 1 End-Raze Forerunners
 1 Rienne, Angel of Rebirth
 1 Cavalier of Thorns
+1 Hushbringer
 1 Gruul Spellbreaker
+1 Heliod, Sun-Crowned
 1 Nylea, Keen-Eyed
 1 Lavinia, Azorius Renegade
 1 Ravager Wurm
-1 Tithe Taker
 1 Bounty Agent
 1 Nightpack Ambusher
 2 Temple of Abandon
@@ -187,8 +187,8 @@
 3 Prime Speaker Vannifar
 3 Temple of Deceit
 4 Temple of Triumph
-4 Temple of Malice
 4 Temple of Abandon
+4 Temple of Malice
 4 Temple of Silence
 4 Kiora, Behemoth Beckoner
 4 Nissa, Who Shakes the World
@@ -324,17 +324,17 @@
 4 Shimmer of Possibility
 1 Garruk, Cursed Huntsman
 1 Captive Audience
-1 The Birth of Meletis
-1 Mystical Dispute
-2 The Birth of Meletis
-2 Mystical Dispute
 1 Omen of the Hunt
 2 Tyrant's Scorn
 1 Ashiok, Dream Render
 2 Ashiok, Dream Render
 2 Chandra, Awakened Inferno
-1 Golgari Guildgate
+1 The Birth of Meletis
+1 Mystical Dispute
+2 Mystical Dispute
+2 The Birth of Meletis
 1 Archon of Sun's Grace
+1 Golgari Guildgate
 1 Disinformation Campaign
 1 Dimir Guildgate
 2 Atris, Oracle of Half-Truths
