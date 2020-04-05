@@ -3,14 +3,14 @@
 3 Forest
 4 Forest
 5 Forest
-1 Sunpetal Grove
 1 Temple Garden
+1 Sunpetal Grove
 2 Temple Garden
 2 Sunpetal Grove
 3 Temple Garden
 3 Sunpetal Grove
-4 Sunpetal Grove
 4 Temple Garden
+4 Sunpetal Grove
 1 Gideon's Intervention
 2 Baffling End
 1 Courser of Kruphix
@@ -18,35 +18,35 @@
 3 Courser of Kruphix
 6 Forest
 1 Wolfwillow Haven
+1 Setessan Champion
 1 Temple of Plenty
 1 Sigil of the Empty Throne
 1 Banishing Light
-1 Calix, Destiny's Hand
 1 Seal Away
 1 Sphere of Safety
-1 Setessan Champion
 1 Eidolon of Blossoms
+1 Calix, Destiny's Hand
 1 Herald of the Pantheon
+2 Setessan Champion
 2 Wolfwillow Haven
 2 Banishing Light
 2 Sigil of the Empty Throne
-2 Setessan Champion
 2 Eidolon of Blossoms
 2 Herald of the Pantheon
 2 Temple of Plenty
 2 Sphere of Safety
 3 Temple of Plenty
-3 Eidolon of Blossoms
 3 Setessan Champion
+3 Eidolon of Blossoms
 3 Wolfwillow Haven
 3 Herald of the Pantheon
 3 Banishing Light
 4 Setessan Champion
-4 Courser of Kruphix
-4 Temple of Plenty
 4 Banishing Light
+4 Temple of Plenty
 4 Eidolon of Blossoms
 4 Herald of the Pantheon
+4 Courser of Kruphix
 4 Wolfwillow Haven
 4 Heliod, Sun-Crowned
 1 Llanowar Elves
@@ -154,18 +154,18 @@
 2 Mutavault
 1 History of Benalia
 1 Kaya, Orzhov Usurper
-1 Urborg, Tomb of Yawgmoth
 1 Kytheon, Hero of Akros
+1 Urborg, Tomb of Yawgmoth
 1 Spawn of Mayhem
 1 Knight of the Ebon Legion
 2 History of Benalia
+2 Kytheon, Hero of Akros
 2 Knight of the Ebon Legion
 2 Spawn of Mayhem
-2 Kytheon, Hero of Akros
 3 History of Benalia
-3 Mutavault
 3 Gideon of the Trials
 3 Knight of the Ebon Legion
+3 Mutavault
 4 History of Benalia
 4 Caves of Koilos
 4 Knight of the Ebon Legion
@@ -182,8 +182,8 @@
 2 Vraska, Golgari Queen
 2 Kalitas, Traitor of Ghet
 3 Tireless Tracker
-3 Foreboding Ruins
 3 Dreadhorde Butcher
+3 Foreboding Ruins
 4 Tireless Tracker
 4 Foreboding Ruins
 4 Dreadhorde Butcher
@@ -191,32 +191,10 @@
 1 Starfield Mystic
 3 Gideon's Intervention
 4 Gideon's Intervention
-1 Voice of Resurgence
-2 Voice of Resurgence
-1 Radiant Fountain
-1 Shared Summons
-1 Fortified Village
-1 Collected Company
-1 Bygone Bishop
-1 Elvish Mystic
-1 Militia Bugler
-2 Radiant Fountain
-2 Shared Summons
-2 Fortified Village
-2 Collected Company
-2 Militia Bugler
-2 Elvish Mystic
-3 Radiant Fountain
-3 Fortified Village
-3 Collected Company
-3 Elvish Mystic
-3 Militia Bugler
-4 Elvish Mystic
-4 Fortified Village
-4 Collected Company
-4 Militia Bugler
 3 Daxos, Blessed by the Sun
 4 Spell Queller
+1 Voice of Resurgence
+2 Voice of Resurgence
 1 Sacred Foundry
 2 Sacred Foundry
 3 Sacred Foundry
@@ -225,50 +203,72 @@
 3 Inspiring Vantage
 4 Sacred Foundry
 1 Gods Willing
-1 Reckless Rage
-1 Spirebluff Canal
+1 Curious Obsession
 1 Monastery Swiftspear
 1 Staggering Insight
-1 Slip Through Space
+1 Reckless Rage
 1 The Royal Scions
 1 Favored Hoplite
 1 Steam Vents
+1 Spirebluff Canal
 1 Faerie Vandal
+1 Slip Through Space
 1 Defiant Strike
 1 Tenth District Legionnaire
-1 Curious Obsession
 1 Sentinel's Eyes
-2 Reckless Rage
+2 Curious Obsession
 2 Monastery Swiftspear
 2 Gods Willing
 2 Staggering Insight
-2 Steam Vents
+2 Reckless Rage
 2 The Royal Scions
 2 Favored Hoplite
 2 Tenth District Legionnaire
-2 Curious Obsession
+2 Steam Vents
 2 Faerie Vandal
 2 Defiant Strike
-3 Favored Hoplite
-3 Reckless Rage
 3 Monastery Swiftspear
+3 Curious Obsession
 3 The Royal Scions
+3 Reckless Rage
 3 Staggering Insight
 3 Faerie Vandal
+3 Favored Hoplite
 3 Defiant Strike
 3 Tenth District Legionnaire
 3 Gods Willing
 3 Steam Vents
-3 Curious Obsession
 4 Favored Hoplite
-4 Reckless Rage
+4 Curious Obsession
 4 Monastery Swiftspear
 4 Staggering Insight
-4 Curious Obsession
+4 Reckless Rage
 4 Defiant Strike
 4 Tenth District Legionnaire
 4 Steam Vents
 4 Gods Willing
+1 Elvish Mystic
+1 Collected Company
+1 Shared Summons
+1 Radiant Fountain
+1 Bygone Bishop
+1 Fortified Village
+1 Militia Bugler
+2 Elvish Mystic
+2 Collected Company
+2 Shared Summons
+2 Radiant Fountain
+2 Fortified Village
+2 Militia Bugler
+3 Elvish Mystic
+3 Collected Company
+3 Radiant Fountain
+3 Fortified Village
+3 Militia Bugler
+4 Elvish Mystic
+4 Collected Company
+4 Militia Bugler
+4 Fortified Village
 1 Blast Zone
 1 Nissa, Vastwood Seer
 1 Tasigur, the Golden Fang
@@ -290,6 +290,7 @@
 4 Blooming Marsh
 1 Anguished Unmaking
 1 Bolas's Citadel
+1 Archangel of Tithes
 1 Temple of Silence
 1 Seraph of the Scales
 1 Shalai, Voice of Plenty
@@ -301,7 +302,6 @@
 1 Archangel of Thune
 1 Grasp of Darkness
 1 Revival / Revenge
-1 Archangel of Tithes
 1 Shambling Vent
 2 Temple of Silence
 2 Seraph of the Scales
@@ -342,12 +342,12 @@
 2 Llanowar Wastes
 3 Creeping Chill
 3 Grisly Salvage
+3 Gurmag Angler
 3 Gather the Pack
 3 Haunted Dead
 3 Stitcher's Supplier
 3 Prized Amalgam
 3 Llanowar Wastes
-3 Gurmag Angler
 3 Narcomoeba
 4 Gurmag Angler
 4 Creeping Chill
@@ -358,43 +358,42 @@
 4 Narcomoeba
 1 Mana Confluence
 2 Mana Confluence
+1 Boros Charm
+1 Bronzehide Lion
 1 Atarka's Command
 1 Pelt Collector
 1 Ghor-Clan Rampager
-1 Bronzehide Lion
 1 Gruul Spellbreaker
-1 Boros Charm
 1 Experiment One
 1 Fleecemane Lion
 1 Rootbound Crag
 2 Questing Beast
-2 Atarka's Command
+2 Bronzehide Lion
+2 Boros Charm
 2 Gruul Spellbreaker
+2 Atarka's Command
 2 Ghor-Clan Rampager
 2 Fleecemane Lion
-2 Boros Charm
 2 Rootbound Crag
 2 Pelt Collector
-2 Bronzehide Lion
 2 Experiment One
-3 Atarka's Command
 3 Ghor-Clan Rampager
 3 Questing Beast
-3 Voice of Resurgence
+3 Bronzehide Lion
 3 Rootbound Crag
 3 Pelt Collector
-3 Bronzehide Lion
+3 Voice of Resurgence
 3 Experiment One
 3 Gruul Spellbreaker
 3 Boros Charm
 3 Stomping Ground
-4 Experiment One
+3 Atarka's Command
+4 Bronzehide Lion
 4 Voice of Resurgence
 4 Gruul Spellbreaker
 4 Pelt Collector
-4 Bronzehide Lion
+4 Experiment One
 4 Stomping Ground
-1 Reckless Bushwhacker
 1 Legion's Landing
 1 Lightning Strike
 1 Secure the Wastes
@@ -403,12 +402,13 @@
 1 Servo Exhibition
 1 Battlefield Forge
 1 Raise the Alarm
+1 Reckless Bushwhacker
 1 Shefet Dunes
-2 Reckless Bushwhacker
 2 Legion's Landing
 2 Lightning Strike
 2 Raise the Alarm
 2 Battlefield Forge
+2 Reckless Bushwhacker
 2 Shefet Dunes
 2 Toolcraft Exemplar
 2 Servo Exhibition
@@ -428,71 +428,71 @@
 4 Battlefield Forge
 4 Toolcraft Exemplar
 1 Stonecoil Serpent
-1 Spire of Industry
 1 Metallic Rebuke
-1 Ghostfire Blade
-1 Ornithopter
-1 Gingerbrute
-1 Ensoul Artifact
-1 Shrapnel Blast
-1 Hope of Ghirapur
+1 Spire of Industry
 1 Springleaf Drum
 1 Aether Hub
+1 Ensoul Artifact
 1 Darksteel Citadel
+1 Gingerbrute
+1 Ghostfire Blade
+1 Shrapnel Blast
 1 Steel Overseer
 1 All That Glitters
+1 Hope of Ghirapur
+1 Ornithopter
 2 Stonecoil Serpent
-2 Spire of Industry
 2 Metallic Rebuke
-2 Ensoul Artifact
-2 Gingerbrute
-2 Darksteel Citadel
-2 Shrapnel Blast
-2 Ornithopter
-2 Ghostfire Blade
-2 Springleaf Drum
 2 Hope of Ghirapur
 2 Steel Overseer
+2 Spire of Industry
 2 Aether Hub
 2 All That Glitters
+2 Ornithopter
+2 Darksteel Citadel
+2 Gingerbrute
+2 Ensoul Artifact
+2 Springleaf Drum
+2 Ghostfire Blade
+2 Shrapnel Blast
 3 Steel Overseer
 3 Stonecoil Serpent
-3 Spire of Industry
-3 Shrapnel Blast
-3 Springleaf Drum
-3 Ornithopter
-3 Darksteel Citadel
-3 Ghostfire Blade
-3 Ensoul Artifact
-3 Gingerbrute
 3 Mana Confluence
+3 Spire of Industry
+3 Darksteel Citadel
+3 Ornithopter
+3 Springleaf Drum
+3 Gingerbrute
+3 Ensoul Artifact
+3 Ghostfire Blade
+3 Shrapnel Blast
 3 Aether Hub
 3 All That Glitters
 4 Stonecoil Serpent
-4 Spire of Industry
-4 Shrapnel Blast
-4 Ghostfire Blade
+4 Mana Confluence
 4 Ornithopter
 4 Darksteel Citadel
-4 Ensoul Artifact
 4 Springleaf Drum
 4 Gingerbrute
-4 Mana Confluence
+4 Ghostfire Blade
+4 Shrapnel Blast
+4 Ensoul Artifact
+4 Spire of Industry
 4 Aether Hub
 1 Wild Slash
 1 Dragonskull Summit
+1 Spike Jester
 1 Rekindling Phoenix
 1 Goblin Rabblemaster
-1 Spike Jester
 1 Unlicensed Disintegration
 1 Angrath's Rampage
 2 Wild Slash
 2 Dragonskull Summit
+2 Spike Jester
+2 Chandra, Torch of Defiance
 2 Rekindling Phoenix
 2 Goblin Rabblemaster
 2 Unlicensed Disintegration
-2 Chandra, Torch of Defiance
-2 Spike Jester
 3 Wild Slash
 3 Dragonskull Summit
 3 Chandra, Torch of Defiance
@@ -502,48 +502,48 @@
 4 Mountain
 5 Mountain
 5 Swamp
-6 Swamp
 6 Mountain
+6 Swamp
 7 Mountain
 8 Mountain
-1 Castle Garenbrig
 1 Kiora Bests the Sea God
 1 Cavalier of Thorns
-1 World Breaker
+1 Hinterland Harbor
 1 Nissa's Pilgrimage
-1 Yavimaya Coast
+1 World Breaker
+1 Castle Garenbrig
+1 Growth Spiral
 1 Tamiyo, Collector of Tales
 1 Arboreal Grazer
 1 Nissa, Who Shakes the World
 1 Ugin, the Spirit Dragon
 1 Uro, Titan of Nature's Wrath
-1 Growth Spiral
+1 Yavimaya Coast
 1 Island
 1 Ipnu Rivulet
-1 Hinterland Harbor
 2 Nissa, Who Shakes the World
-2 Ipnu Rivulet
-2 Castle Garenbrig
 2 Cavalier of Thorns
-2 Yavimaya Coast
 2 Nissa's Pilgrimage
 2 World Breaker
-2 Ugin, the Spirit Dragon
-2 Arboreal Grazer
-2 Blast Zone
 2 Hinterland Harbor
+2 Castle Garenbrig
+2 Growth Spiral
+2 Ugin, the Spirit Dragon
+2 Blast Zone
+2 Arboreal Grazer
 2 Breeding Pool
 2 Uro, Titan of Nature's Wrath
-2 Growth Spiral
+2 Ipnu Rivulet
+2 Yavimaya Coast
 3 Hinterland Harbor
-3 Ipnu Rivulet
+3 Nissa, Who Shakes the World
+3 Nissa's Pilgrimage
 3 Cavalier of Thorns
 3 Castle Garenbrig
-3 Nissa's Pilgrimage
 3 Ugin, the Spirit Dragon
-3 Nissa, Who Shakes the World
 3 Uro, Titan of Nature's Wrath
 3 Breeding Pool
+3 Ipnu Rivulet
 3 Arboreal Grazer
 4 Ipnu Rivulet
 4 Cavalier of Thorns

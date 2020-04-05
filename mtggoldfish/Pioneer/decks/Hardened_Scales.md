@@ -29,12 +29,12 @@
 
 |*n*<sup>th</sup> copy|                                      Maindeck Card                                       |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
 |--------------------:|------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
-|                    1|[Doom Blade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=247322)     |                    1|[Dreadhorde Invasion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461013)|
-|                    1|[Pelt Collector](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452891) |                    2|[Dreadhorde Invasion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461013)|
-|                    1|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)          |                    3|[Dreadhorde Invasion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461013)|
-|                    2|[Pelt Collector](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452891) |                    4|[Dreadhorde Invasion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461013)|
-|                    2|[Doom Blade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=247322)     |                     |                                                                                              |
+|                    1|[Pelt Collector](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452891) |                    1|[Dreadhorde Invasion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461013)|
+|                    1|[Doom Blade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=247322)     |                    2|[Dreadhorde Invasion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461013)|
+|                    2|[Pelt Collector](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452891) |                    3|[Dreadhorde Invasion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461013)|
+|                    2|[Doom Blade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=247322)     |                    4|[Dreadhorde Invasion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461013)|
+|                    3|[Pelt Collector](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452891) |                     |                                                                                              |
 |                    4|[Pelt Collector](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452891) |                     |                                                                                              |
 |                    4|[Scavenging Ooze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420783)|                     |                                                                                              |
-|                    3|[Pelt Collector](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452891) |                     |                                                                                              |
+|                    1|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)          |                     |                                                                                              |
 

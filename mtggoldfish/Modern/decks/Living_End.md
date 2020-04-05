@@ -36,7 +36,7 @@
 |                    1|[Bloodstained Mire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405094)       |                    1|[Gnaw to the Bone](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=247420)  |
 |                    2|[Bloodstained Mire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405094)       |                    3|[Ricochet Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=191549)     |
 |                    3|[Beast Within](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446158)            |                    4|[Shriekmaw](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220572)         |
-|                    4|[Grove of the Burnwillows](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=130595)|                     |                                                                                             |
-|                    4|[Simian Spirit Guide](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442137)     |                     |                                                                                             |
 |                    3|[Archfiend of Ifnir](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426780)      |                     |                                                                                             |
+|                    4|[Simian Spirit Guide](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442137)     |                     |                                                                                             |
+|                    4|[Grove of the Burnwillows](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=130595)|                     |                                                                                             |
 

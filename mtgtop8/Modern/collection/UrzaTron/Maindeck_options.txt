@@ -9,9 +9,9 @@
 2 Relic of Progenitus
 1 Emrakul, the Promised End
 1 Everflowing Chalice
-1 Chalice of the Void
 1 Mystic Forge
 1 Inventors' Fair
+1 Chalice of the Void
 1 Wastes
 1 Astral Cornucopia
 1 Coretapper
@@ -19,15 +19,15 @@
 1 Paradox Engine
 2 Everflowing Chalice
 2 Blast Zone
-2 Mystic Forge
 2 Chalice of the Void
+2 Mystic Forge
 2 Surge Node
 2 Paradox Engine
 2 Ugin, the Ineffable
 2 Astral Cornucopia
 2 Coretapper
-3 Mystic Forge
 3 Chalice of the Void
+3 Mystic Forge
 3 Surge Node
 3 Astral Cornucopia
 3 Everflowing Chalice
@@ -51,12 +51,14 @@
 1 Kozilek, the Great Distortion
 1 Ensnaring Bridge
 1 Island
+1 Solemn Simulacrum
 1 Hallowed Fountain
 1 Talisman of Progress
 1 Mystic Gate
+1 Sphinx's Revelation
 1 Torrential Gearhulk
 1 Celestial Colonnade
-1 Solemn Simulacrum
+1 Time Wipe
 1 Dream Trawler
 1 Jace, the Mind Sculptor
 1 Settle the Wreckage
@@ -64,15 +66,13 @@
 1 Path to Exile
 1 Realm-Cloaked Giant
 1 Elspeth, Sun's Nemesis
-1 Elder Deep-Fiend
 1 Supreme Verdict
+1 Elder Deep-Fiend
 1 Wrath of God
 1 Midnight Clock
 1 Shadow of Doubt
-1 Time Wipe
 1 Fortune Thief
 1 Azorius Signet
-1 Sphinx's Revelation
 1 Flooded Strand
 1 Gifts Ungiven
 1 Cryptic Command
@@ -81,11 +81,11 @@
 1 Irrigated Farmland
 1 Plains
 1 Snapcaster Mage
-2 Shadow of Doubt
 2 Wall of Omens
+2 Shadow of Doubt
 2 Hallowed Fountain
-2 Solemn Simulacrum
 2 Celestial Colonnade
+2 Solemn Simulacrum
 2 Elder Deep-Fiend
 2 Cryptic Command
 2 Plains
@@ -106,8 +106,8 @@
 2 Inventors' Fair
 1 Throne of Geth
 1 Spine of Ish Sah
-2 Wastes
 2 Ensnaring Bridge
+2 Wastes
 3 Walking Ballista
 1 Gemstone Caverns
 1 Explore

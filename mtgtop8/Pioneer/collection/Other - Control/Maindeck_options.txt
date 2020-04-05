@@ -1,8 +1,8 @@
 2 Kroxa, Titan of Death's Hunger
 3 Blood Crypt
 3 Kroxa, Titan of Death's Hunger
-4 Blood Crypt
 4 Fabled Passage
+4 Blood Crypt
 1 Forest
 1 Satyr Wayfinder
 2 Satyr Wayfinder
@@ -12,8 +12,8 @@
 1 Emrakul, the Promised End
 1 Questing Beast
 1 Abrupt Decay
-1 Traverse the Ulvenwald
 1 Murderous Rider
+1 Traverse the Ulvenwald
 1 Overgrown Tomb
 1 Walking Ballista
 1 Ishkanah, Grafwidow
@@ -97,8 +97,8 @@
 2 Hinterland Harbor
 1 Steam Vents
 2 Steam Vents
-3 Stomping Ground
 3 Steam Vents
+3 Stomping Ground
 4 Stomping Ground
 1 Kozilek's Return
 1 Elder Deep-Fiend
@@ -178,18 +178,18 @@
 4 Opt
 4 The Birth of Meletis
 3 Gideon of the Trials
-1 Chained to the Rocks
-1 Gideon, Ally of Zendikar
 1 Nahiri, the Harbinger
+1 Chained to the Rocks
 1 Sweltering Suns
+1 Gideon, Ally of Zendikar
 1 Clifftop Retreat
 1 Sacred Foundry
 2 Chained to the Rocks
 2 Sweltering Suns
 2 Sacred Foundry
 2 Gideon, Ally of Zendikar
-3 Sweltering Suns
 3 Chained to the Rocks
+3 Sweltering Suns
 3 Sacred Foundry
 4 Sacred Foundry
 4 Mountain
@@ -198,67 +198,51 @@
 7 Mountain
 1 Essence Scatter
 2 Essence Scatter
-1 Yahenni's Expertise
 1 Drown in the Loch
+1 Yahenni's Expertise
 2 Elspeth, Sun's Nemesis
-2 Thought Erasure
-2 Thirst for Meaning
 2 Hero's Downfall
+2 Thirst for Meaning
+2 Thought Erasure
 1 Courser of Kruphix
 1 Deathrite Shaman
 1 Distended Mindbender
 2 Deathrite Shaman
 3 Deathrite Shaman
 1 Opulent Palace
-1 Jace, Vryn's Prodigy
-1 Hostage Taker
 1 Ashiok, Nightmare Muse
+1 Hostage Taker
+1 Jace, Vryn's Prodigy
 2 Island
 2 Jace, Vryn's Prodigy
 3 Jace, Vryn's Prodigy
 1 Sphinx's Revelation
-1 Lumbering Falls
 1 Syncopate
-1 Azorius Charm
+1 Lumbering Falls
 1 Negate
-1 Approach of the Second Sun
 1 Seal Away
 1 Sunpetal Grove
 1 Castle Vantress
+1 Approach of the Second Sun
 1 Temple Garden
 1 Sinister Sabotage
-2 Azorius Charm
+1 Azorius Charm
 2 Negate
+2 Azorius Charm
 2 Sinister Sabotage
 2 Temple Garden
 2 Sunpetal Grove
 3 Sinister Sabotage
-3 Azorius Charm
 3 Sunpetal Grove
+3 Azorius Charm
 4 Supreme Verdict
-1 Dance of the Manse
-1 Oath of Jace
-1 Disdainful Stroke
-2 Omen of the Sea
-2 Dance of the Manse
-2 Oath of Jace
-3 Omen of the Sea
-3 Dance of the Manse
-4 Omen of the Sea
-1 Nicol Bolas, the Ravager
 1 Quicken
-2 Nicol Bolas, the Ravager
+1 Nicol Bolas, the Ravager
 2 Quicken
-3 Nicol Bolas, the Ravager
+2 Nicol Bolas, the Ravager
 3 Quicken
+3 Nicol Bolas, the Ravager
 4 Nicol Bolas, the Ravager
-1 Demonic Pact
-1 Flicker of Fate
-1 The Eldest Reborn
-2 Demonic Pact
-2 The Eldest Reborn
-3 Demonic Pact
-4 Demonic Pact
 1 Nissa, Vastwood Seer
 1 Polukranos, Unchained
 1 Assassin's Trophy
@@ -273,70 +257,78 @@
 2 Hissing Quagmire
 3 Field of Ruin
 4 Traverse the Ulvenwald
+1 Demonic Pact
+1 Flicker of Fate
+1 The Eldest Reborn
+2 Demonic Pact
+2 The Eldest Reborn
+3 Demonic Pact
+4 Demonic Pact
+1 Dance of the Manse
+1 Oath of Jace
+1 Disdainful Stroke
+2 Dance of the Manse
+2 Omen of the Sea
+2 Oath of Jace
+3 Dance of the Manse
+3 Omen of the Sea
+4 Omen of the Sea
+1 Sylvan Caryatid
+2 Sylvan Caryatid
+4 Champion of Wits
 1 Void Shatter
 1 Glimmer of Genius
 1 Kaya, Orzhov Usurper
 1 Dovin's Veto
 1 Utter End
 1 Absorb
+2 Fetid Pools
 2 Void Shatter
 2 Glimmer of Genius
 2 Censor
 2 Dovin's Veto
-2 Fetid Pools
 3 Void Shatter
 3 Censor
 3 Glimmer of Genius
 3 Teferi, Hero of Dominaria
-4 Glacial Fortress
 4 Drowned Catacomb
-1 Sigil of the Empty Throne
-1 Urborg, Tomb of Yawgmoth
-1 Kaya's Wrath
-1 Torment of Hailfire
-2 Kaya's Wrath
-3 Kaya's Wrath
-4 Cast Out
-4 Kaya's Wrath
-1 Sylvan Caryatid
-2 Sylvan Caryatid
-4 Champion of Wits
-1 Mizzium Mortars
+4 Glacial Fortress
 1 Dive Down
-1 Fiery Impulse
-1 Risen Reef
+1 Mizzium Mortars
 1 Living Twister
-1 Spell Pierce
 1 Young Pyromancer
 1 Chandra, Acolyte of Flame
+1 Risen Reef
+1 Spell Pierce
+1 Fiery Impulse
 1 Castle Embereth
 1 Treasure Cruise
 1 Wild Slash
+2 Treasure Cruise
 2 Young Pyromancer
 2 Chart a Course
-2 Treasure Cruise
-2 Mizzium Mortars
 2 Chandra, Acolyte of Flame
-2 Fiery Impulse
-2 Risen Reef
 2 Dive Down
 2 Wild Slash
-3 Botanical Sanctum
+2 Fiery Impulse
+2 Risen Reef
+2 Mizzium Mortars
 3 Chart a Course
+3 Botanical Sanctum
 3 Young Pyromancer
-3 Risen Reef
-3 Chandra, Acolyte of Flame
 3 Spirebluff Canal
+3 Risen Reef
 3 Mizzium Mortars
+3 Chandra, Acolyte of Flame
 3 Wild Slash
-4 Steam Vents
 4 Chart a Course
 4 Young Pyromancer
-4 Risen Reef
+4 Steam Vents
 4 Spirebluff Canal
+4 Risen Reef
 4 Wild Slash
-1 Kolaghan's Command
 1 Foreboding Ruins
+1 Kolaghan's Command
 1 Mire Triton
 2 Glorybringer
 2 Kolaghan's Command
@@ -357,40 +349,48 @@
 3 Final Payment
 4 Aphemia, the Cacophony
 4 Final Payment
+1 Sigil of the Empty Throne
+1 Urborg, Tomb of Yawgmoth
+1 Kaya's Wrath
+1 Torment of Hailfire
+2 Kaya's Wrath
+3 Kaya's Wrath
+4 Kaya's Wrath
+4 Cast Out
 4 Arboreal Grazer
-1 Brimaz, King of Oreskos
 1 Haktos the Unscarred
+1 Brimaz, King of Oreskos
+1 Needle Spires
 1 Lightning Strike
 1 Inspiring Vantage
 1 Heart of Kiran
-1 Needle Spires
 1 Shatter the Sky
 1 Lava Coil
 2 Haktos the Unscarred
 2 Heart of Kiran
-2 Clifftop Retreat
 2 Lava Coil
 2 Needle Spires
 2 Lightning Strike
 2 Inspiring Vantage
 2 Shatter the Sky
+2 Clifftop Retreat
 3 Shatter the Sky
 3 Heart of Kiran
-3 Inspiring Vantage
 3 Gideon, Ally of Zendikar
+3 Inspiring Vantage
 3 Lightning Strike
 3 Needle Spires
-4 Inspiring Vantage
 4 Gideon of the Trials
+4 Inspiring Vantage
 4 Lightning Strike
-1 Chandra, Flamecaller
-1 Bedevil
-1 Ob Nixilis Reignited
-1 Read the Bones
-1 Agonizing Remorse
-1 Arguel's Blood Fast
-1 Languish
 1 Doom Blade
+1 Bedevil
+1 Read the Bones
+1 Chandra, Flamecaller
+1 Ob Nixilis Reignited
+1 Languish
+1 Arguel's Blood Fast
+1 Agonizing Remorse
 2 Bedevil
 2 Read the Bones
 2 Vraska's Contempt
@@ -416,9 +416,9 @@
 3 Cavalier of Thorns
 3 Nissa's Pilgrimage
 3 Castle Garenbrig
-4 Ipnu Rivulet
 4 Thought-Knot Seer
 4 Yavimaya Coast
+4 Ipnu Rivulet
 4 Cavalier of Thorns
 4 Llanowar Elves
 6 Forest
@@ -431,8 +431,8 @@
 1 Dragonlord Kolaghan
 1 Void Winnower
 1 Angel of Serenity
-2 Elspeth Conquers Death
 2 Anger of the Gods
+2 Elspeth Conquers Death
 2 Temple of Triumph
 2 Pirate's Pillage
 2 Indomitable Creativity

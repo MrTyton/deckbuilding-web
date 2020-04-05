@@ -34,6 +34,6 @@
 
 |*n*<sup>th</sup> copy|                                           Maindeck Card                                            |*n*<sup>th</sup> copy|                                 Sideboard Card                                  |
 |--------------------:|----------------------------------------------------------------------------------------------------|--------------------:|---------------------------------------------------------------------------------|
-|                    1|[Chandra, Acolyte of Flame](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466880)|                    1|[Boil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14630)   |
-|                    2|[Cut/Ribbons](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426925)              |                    2|[Pillage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14755)|
+|                    1|[Chandra, Acolyte of Flame](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466880)|                    2|[Pillage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14755)|
+|                    2|[Cut/Ribbons](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426925)              |                    1|[Boil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14630)   |
 
