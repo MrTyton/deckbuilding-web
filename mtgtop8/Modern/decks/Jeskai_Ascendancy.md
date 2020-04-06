@@ -48,9 +48,9 @@
 |                    3|[Manamorphose](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370568)      |                     |                                                                                               |
 |                    3|[Fatestitcher](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=176456)      |                     |                                                                                               |
 |                    3|[Gemstone Mine](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=109761)     |                     |                                                                                               |
+|                    4|[Birds of Paradise](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129906) |                     |                                                                                               |
 |                    4|[Sleight of Hand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=25557)    |                     |                                                                                               |
 |                    4|[Gemstone Mine](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=109761)     |                     |                                                                                               |
-|                    4|[Birds of Paradise](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129906) |                     |                                                                                               |
 |                    4|[Flooded Strand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405098)    |                     |                                                                                               |
 |                    4|[Manamorphose](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370568)      |                     |                                                                                               |
 

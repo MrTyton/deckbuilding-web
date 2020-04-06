@@ -25,3 +25,15 @@
 |4 [Dragon's Claw](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129527) |2 [Magus of the Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=136152)          |2 [Blossoming Defense](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417719)|
 |4 [Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)|2 [Thalia, Guardian of Thraben](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442025)|1 [Path to Exile](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220511)     |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|Maindeck Card|*n*<sup>th</sup> copy|                                            Sideboard Card                                            |
+|---------------------|-------------|--------------------:|------------------------------------------------------------------------------------------------------|
+|                     |             |                    1|[Dismember](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382182)                  |
+|                     |             |                    1|[Collector Ouphe](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464107)            |
+|                     |             |                    2|[Path to Exile](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220511)              |
+|                     |             |                    2|[Collector Ouphe](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464107)            |
+|                     |             |                    3|[Magus of the Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=136152)          |
+|                     |             |                    3|[Thalia, Guardian of Thraben](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442025)|
+
