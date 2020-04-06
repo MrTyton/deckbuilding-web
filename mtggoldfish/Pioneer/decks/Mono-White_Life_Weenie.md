@@ -39,6 +39,6 @@
 |                     |                                                                                               |                    3|[Baffling End](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439658)              |
 |                     |                                                                                               |                    3|[Apostle of Purifying Light](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466760)|
 |                     |                                                                                               |                    4|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)            |
-|                     |                                                                                               |                    4|[Apostle of Purifying Light](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466760)|
 |                     |                                                                                               |                    4|[Baffling End](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439658)              |
+|                     |                                                                                               |                    4|[Apostle of Purifying Light](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466760)|
 

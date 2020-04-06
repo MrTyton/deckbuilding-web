@@ -19,8 +19,8 @@
 2 Tireless Tracker
 2 Disdainful Stroke
 1 Narset, Parter of Veils
-1 The Eldest Reborn
 1 Ashiok, Nightmare Muse
+1 The Eldest Reborn
 1 Dream Trawler
 1 Gideon, Ally of Zendikar
 3 Leyline of the Void
@@ -54,18 +54,18 @@
 1 Chromium, the Mutable
 1 Kozilek's Return
 2 Kozilek's Return
+1 Collective Defiance
+1 Chandra's Defeat
+1 Mystic Repeal
+1 Saheeli, Sublime Artificer
+1 Rending Volley
+1 Entrancing Melody
+2 Mystic Repeal
 1 Agonizing Remorse
 1 Magma Spray
 1 Chandra, Acolyte of Flame
 1 By Force
 2 Chandra, Acolyte of Flame
-1 Collective Defiance
-1 Chandra's Defeat
-1 Mystic Repeal
-1 Rending Volley
-1 Saheeli, Sublime Artificer
-1 Entrancing Melody
-2 Mystic Repeal
 1 Abrupt Decay
 1 Languish
 1 The Scarab God
@@ -73,11 +73,6 @@
 1 Doom Blade
 2 Doom Blade
 2 Legion's End
-1 Kunoros, Hound of Athreos
-1 Apostle of Purifying Light
-1 Underworld Connections
-2 Apostle of Purifying Light
-2 Kunoros, Hound of Athreos
 1 Plaguecrafter
 1 Massacre Girl
 1 Phyrexian Revoker
@@ -88,6 +83,11 @@
 1 Golgari Charm
 2 Ashiok, Dream Render
 2 Davriel, Rogue Shadowmage
+1 Kunoros, Hound of Athreos
+1 Apostle of Purifying Light
+1 Underworld Connections
+2 Kunoros, Hound of Athreos
+2 Apostle of Purifying Light
 1 Scavenging Ooze
 1 Lovestruck Beast
 1 Settle the Wreckage
@@ -100,12 +100,6 @@
 2 Gideon's Intervention
 2 Heliod's Intervention
 3 Gideon's Intervention
-1 Elspeth, Sun's Nemesis
-1 Murderous Rider
-1 Spell Queller
-2 Spell Queller
-2 Dream Trawler
-3 Spell Queller
 1 Arguel's Blood Fast
 1 Crux of Fate
 1 Angrath, the Flame-Chained
@@ -117,6 +111,12 @@
 3 Tireless Tracker
 2 Chandra, Awakened Inferno
 3 Aether Gust
+1 Elspeth, Sun's Nemesis
+1 Murderous Rider
+1 Spell Queller
+2 Dream Trawler
+2 Spell Queller
+3 Spell Queller
 1 Sphere of Safety
 1 Lyra Dawnbringer
 1 Pithing Needle

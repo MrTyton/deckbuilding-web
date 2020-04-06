@@ -1,8 +1,8 @@
 2 Kroxa, Titan of Death's Hunger
 3 Blood Crypt
 3 Kroxa, Titan of Death's Hunger
-4 Blood Crypt
 4 Fabled Passage
+4 Blood Crypt
 1 Forest
 1 Satyr Wayfinder
 2 Satyr Wayfinder
@@ -66,10 +66,10 @@
 1 Elspeth Conquers Death
 1 Champion of Wits
 1 Concealed Courtyard
+1 Hero's Downfall
 1 Thought Erasure
 1 Cast Down
 1 Elspeth, Sun's Nemesis
-1 Hero's Downfall
 2 Cast Down
 2 Concealed Courtyard
 2 Search for Azcanta
@@ -180,14 +180,14 @@
 3 Gideon of the Trials
 1 Nahiri, the Harbinger
 1 Chained to the Rocks
-1 Sweltering Suns
 1 Gideon, Ally of Zendikar
 1 Clifftop Retreat
+1 Sweltering Suns
 1 Sacred Foundry
 2 Chained to the Rocks
-2 Sweltering Suns
 2 Sacred Foundry
 2 Gideon, Ally of Zendikar
+2 Sweltering Suns
 3 Chained to the Rocks
 3 Sweltering Suns
 3 Sacred Foundry
@@ -198,8 +198,8 @@
 7 Mountain
 1 Essence Scatter
 2 Essence Scatter
-1 Drown in the Loch
 1 Yahenni's Expertise
+1 Drown in the Loch
 2 Elspeth, Sun's Nemesis
 2 Hero's Downfall
 2 Thirst for Meaning
@@ -210,17 +210,17 @@
 2 Deathrite Shaman
 3 Deathrite Shaman
 1 Opulent Palace
-1 Ashiok, Nightmare Muse
 1 Hostage Taker
 1 Jace, Vryn's Prodigy
+1 Ashiok, Nightmare Muse
 2 Island
 2 Jace, Vryn's Prodigy
 3 Jace, Vryn's Prodigy
 1 Sphinx's Revelation
 1 Syncopate
 1 Lumbering Falls
-1 Negate
 1 Seal Away
+1 Negate
 1 Sunpetal Grove
 1 Castle Vantress
 1 Approach of the Second Sun
@@ -307,8 +307,8 @@
 2 Treasure Cruise
 2 Young Pyromancer
 2 Chart a Course
-2 Chandra, Acolyte of Flame
 2 Dive Down
+2 Chandra, Acolyte of Flame
 2 Wild Slash
 2 Fiery Impulse
 2 Risen Reef
@@ -360,24 +360,24 @@
 4 Arboreal Grazer
 1 Haktos the Unscarred
 1 Brimaz, King of Oreskos
+1 Inspiring Vantage
 1 Needle Spires
 1 Lightning Strike
-1 Inspiring Vantage
 1 Heart of Kiran
 1 Shatter the Sky
 1 Lava Coil
 2 Haktos the Unscarred
 2 Heart of Kiran
 2 Lava Coil
+2 Inspiring Vantage
 2 Needle Spires
 2 Lightning Strike
-2 Inspiring Vantage
 2 Shatter the Sky
 2 Clifftop Retreat
 3 Shatter the Sky
 3 Heart of Kiran
-3 Gideon, Ally of Zendikar
 3 Inspiring Vantage
+3 Gideon, Ally of Zendikar
 3 Lightning Strike
 3 Needle Spires
 4 Gideon of the Trials
@@ -386,9 +386,9 @@
 1 Doom Blade
 1 Bedevil
 1 Read the Bones
+1 Languish
 1 Chandra, Flamecaller
 1 Ob Nixilis Reignited
-1 Languish
 1 Arguel's Blood Fast
 1 Agonizing Remorse
 2 Bedevil

@@ -3,16 +3,16 @@
 2 Eldritch Evolution
 2 Botanical Sanctum
 3 Eldritch Evolution
+1 Glittering Wish
 1 Gemstone Mine
-1 Nourishing Shoal
 1 Mana Confluence
+1 Nourishing Shoal
 1 Veil of Summer
 1 Summoner's Pact
-1 Life Goes On
 1 Neoform
-1 Glittering Wish
 1 Laboratory Maniac
 1 Chancellor of the Tangle
+1 Life Goes On
 1 Allosaurus Rider
 1 Manamorphose
 1 City of Brass
@@ -26,17 +26,17 @@
 2 Summoner's Pact
 2 Gemstone Mine
 2 Manamorphose
-2 Veil of Summer
 2 City of Brass
 2 Autochthon Wurm
+2 Veil of Summer
 2 Griselbrand
 3 Glittering Wish
 3 Nourishing Shoal
 3 Gemstone Mine
-3 Manamorphose
 3 Summoner's Pact
 3 Allosaurus Rider
 3 City of Brass
+3 Manamorphose
 3 Neoform
 3 Chancellor of the Tangle
 4 Glittering Wish
@@ -49,8 +49,8 @@
 4 Gemstone Mine
 4 Chancellor of the Tangle
 3 Botanical Sanctum
-3 Veil of Summer
 3 Wrenn and Six
+3 Veil of Summer
 1 Once Upon a Time
 2 Once Upon a Time
 3 Narset, Parter of Veils
@@ -58,20 +58,23 @@
 2 Wooded Foothills
 3 Wooded Foothills
 4 Wooded Foothills
-1 Noble Hierarch
 1 Kiki-Jiki, Mirror Breaker
+1 Noble Hierarch
 2 Noble Hierarch
 3 Noble Hierarch
 4 Noble Hierarch
+1 Bring to Light
+1 Niv-Mizzet Reborn
+1 Assassin's Trophy
+2 Bring to Light
+2 Niv-Mizzet Reborn
+3 Bring to Light
 1 Swamp
 1 Island
 1 Steam Vents
 1 Felidar Guardian
 1 Arid Mesa
-1 Niv-Mizzet Reborn
-1 Bring to Light
 1 Saheeli Rai
-1 Assassin's Trophy
 1 Blood Crypt
 1 Mountain
 1 Scalding Tarn
@@ -80,13 +83,10 @@
 2 Saheeli Rai
 2 Felidar Guardian
 2 Scalding Tarn
-2 Bring to Light
-2 Niv-Mizzet Reborn
 2 Arid Mesa
-3 Saheeli Rai
 3 Arid Mesa
+3 Saheeli Rai
 3 Felidar Guardian
-3 Bring to Light
 4 Bring to Light
 4 Felidar Guardian
 4 Arid Mesa
@@ -98,11 +98,11 @@
 1 Jace, Vryn's Prodigy
 1 Merfolk Secretkeeper
 1 Stitcher's Supplier
-1 Unearth
 1 Watery Grave
-1 Darkslick Shores
+1 Unearth
 1 Skaab Ruinator
 1 Hedron Crab
+1 Darkslick Shores
 1 Vengevine
 1 Claim/Fame
 1 Polluted Delta
@@ -131,11 +131,11 @@
 3 Hedron Crab
 3 Claim/Fame
 3 Vengevine
+3 Stitcher's Supplier
 3 Polluted Delta
 3 Unearth
 3 Creeping Chill
 3 Drown in Filth
-3 Stitcher's Supplier
 3 Gravecrawler
 4 Merfolk Secretkeeper
 4 Satyr Wayfinder
@@ -143,11 +143,17 @@
 4 Hedron Crab
 4 Stitcher's Supplier
 4 Vengevine
-3 Scalding Tarn
 3 Birds of Paradise
 4 Birds of Paradise
-1 Hallowed Fountain
+3 Scalding Tarn
 2 Snow-Covered Forest
+1 Ice-Fang Coatl
+1 Arcum's Astrolabe
+2 Arcum's Astrolabe
+2 Ice-Fang Coatl
+1 Hallowed Fountain
+1 Snow-Covered Plains
+1 Snow-Covered Island
 1 Waterlogged Grove
 1 Dissenter's Deliverance
 1 Safewright Quest
@@ -161,14 +167,9 @@
 1 Deceiver Exarch
 2 Deceiver Exarch
 3 Deceiver Exarch
-1 Ice-Fang Coatl
-1 Arcum's Astrolabe
-2 Arcum's Astrolabe
-2 Ice-Fang Coatl
 3 Snow-Covered Forest
 4 Snow-Covered Forest
 1 Wall of Roots
-1 Snow-Covered Plains
 1 Prime Speaker Vannifar
 1 Chord of Calling
 1 Renegade Rallier
@@ -177,7 +178,6 @@
 1 Voice of Resurgence
 1 Bounding Krasis
 1 Corridor Monitor
-1 Snow-Covered Island
 1 Magus of the Moon
 1 Eternal Witness
 1 Restoration Angel
@@ -195,22 +195,47 @@
 4 Prime Speaker Vannifar
 4 Voice of Resurgence
 4 Wall of Roots
+1 Snow-Covered Mountain
+1 Tolsimir, Friend to Wolves
+1 Supreme Verdict
+1 Unmoored Ego
+1 Lightning Helix
+1 Dreadbore
+1 Kolaghan's Command
+1 Uro, Titan of Nature's Wrath
+1 Prismatic Vista
+1 Pillar of the Paruns
+1 Kaya's Guile
+1 Snow-Covered Swamp
+2 Snow-Covered Plains
+2 Assassin's Trophy
+2 Lightning Helix
+2 Pillar of the Paruns
+2 Uro, Titan of Nature's Wrath
+2 Prismatic Vista
+3 Assassin's Trophy
+3 Pillar of the Paruns
+3 Lightning Helix
+3 Uro, Titan of Nature's Wrath
+3 Arcum's Astrolabe
+4 Lightning Helix
+4 Arcum's Astrolabe
 1 Urborg, Tomb of Yawgmoth
 1 Godless Shrine
 1 Homing Sliver
 1 Cavern of Souls
 1 Mutavault
 1 Unsettled Mariner
+1 Galerider Sliver
 1 Sinew Sliver
 1 Aether Vial
 1 Cloudshredder Sliver
-1 Galerider Sliver
 1 Sliver Hive
 1 Predatory Sliver
-1 Sidewinder Sliver
 1 Collected Company
 1 Striking Sliver
 1 Frenetic Sliver
+1 Sidewinder Sliver
 1 Leeching Sliver
 1 Manaweft Sliver
 1 Dregscape Sliver
@@ -219,6 +244,7 @@
 2 Mutavault
 2 Leeching Sliver
 2 Aether Vial
+2 Galerider Sliver
 2 Sinew Sliver
 2 Sedge Sliver
 2 Unsettled Mariner
@@ -228,20 +254,19 @@
 2 Cloudshredder Sliver
 2 Striking Sliver
 2 Collected Company
-2 Galerider Sliver
 2 Cavern of Souls
 3 Cavern of Souls
 3 Verdant Catacombs
 3 Unsettled Mariner
 3 Sliver Hive
 3 Collected Company
+3 Mutavault
 3 Manaweft Sliver
 3 Galerider Sliver
 3 Sinew Sliver
 3 Sedge Sliver
 3 Predatory Sliver
 3 Aether Vial
-3 Mutavault
 3 Cloudshredder Sliver
 4 Cavern of Souls
 4 Mutavault

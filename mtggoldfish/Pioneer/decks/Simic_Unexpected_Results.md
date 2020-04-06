@@ -38,6 +38,6 @@
 |                    2|[Skyline Cascade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=402038)              |                     |                                                                                                        |
 |                    1|[Blast Zone](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461171)                   |                     |                                                                                                        |
 |                    1|[Nissa, Vastwood Seer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=398438)         |                     |                                                                                                        |
-|                    1|[Castle Vantress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473204)              |                     |                                                                                                        |
 |                    1|[Temple of Mystery](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373571)            |                     |                                                                                                        |
+|                    1|[Castle Vantress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473204)              |                     |                                                                                                        |
 

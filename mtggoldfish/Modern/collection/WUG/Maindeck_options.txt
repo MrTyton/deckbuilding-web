@@ -18,6 +18,7 @@
 2 Ice-Fang Coatl
 3 Ice-Fang Coatl
 1 Birds of Paradise
+1 Knight of the Reliquary
 1 Chord of Calling
 1 Ramunap Excavator
 1 Field of Ruin
@@ -25,7 +26,6 @@
 1 Simic Growth Chamber
 1 Tatyova, Benthic Druid
 1 Retreat to Coralhelm
-1 Knight of the Reliquary
 1 Sejiri Steppe
 2 Knight of the Reliquary
 2 Chord of Calling
@@ -63,13 +63,13 @@
 1 Horizon Canopy
 1 Knight of Autumn
 1 Coiling Oracle
-2 Hallowed Fountain
 2 Force of Negation
 2 Eladamri's Call
 2 Watcher for Tomorrow
 2 Soulherder
 2 Ephemerate
 2 Snow-Covered Island
+2 Hallowed Fountain
 2 Coiling Oracle
 2 Snow-Covered Plains
 3 Ephemerate
@@ -82,18 +82,18 @@
 2 Hour of Promise
 3 Hour of Promise
 4 Hour of Promise
+1 Scapeshift
 1 Remand
 1 Flooded Grove
 1 Archmage's Charm
-1 Scapeshift
 1 Mystic Sanctuary
 1 Island
 1 Cryptic Command
 1 Bring to Light
+2 Scapeshift
 2 Mystic Sanctuary
 2 Remand
 2 Archmage's Charm
-2 Scapeshift
 2 Cryptic Command
 2 Bring to Light
 2 Island
@@ -103,8 +103,8 @@
 3 Uro, Titan of Nature's Wrath
 3 Cryptic Command
 4 Flooded Strand
-4 Island
 4 Cryptic Command
+4 Island
 4 Archmage's Charm
 5 Island
 6 Island

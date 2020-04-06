@@ -32,7 +32,7 @@
 |--------------------:|-------------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------|
 |                    1|[Grim Monolith](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=12626)    |                    1|[Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)        |
 |                    2|[Red Elemental Blast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=814)|                    2|[Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)        |
-|                    3|[Taiga](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=883)              |                    3|[Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)|
-|                    3|[City of Traitors](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=6168)  |                    2|[Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)|
+|                    3|[Taiga](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=883)              |                    2|[Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)|
+|                    3|[City of Traitors](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=6168)  |                    3|[Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)|
 |                    3|[Goblin Engineer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464077) |                     |                                                                                         |
 

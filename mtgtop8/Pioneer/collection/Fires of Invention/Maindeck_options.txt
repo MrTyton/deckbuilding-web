@@ -19,9 +19,9 @@
 3 Anger of the Gods
 4 Narset, Parter of Veils
 1 Omen of the Sea
-1 Drawn from Dreams
 1 Thirst for Meaning
 1 Dream Trawler
+1 Drawn from Dreams
 2 Omen of the Sea
 2 Sulfur Falls
 2 Thirst for Meaning
@@ -57,8 +57,8 @@
 1 Fatal Push
 2 Watery Grave
 2 Dragonskull Summit
-2 Murderous Rider
 2 Thief of Sanity
+2 Murderous Rider
 2 Thought Erasure
 2 The Scarab God
 2 Blood Crypt
@@ -70,22 +70,22 @@
 2 Swamp
 2 Drowned Catacomb
 3 Murderous Rider
+3 Watery Grave
 3 Fatal Push
 3 Thought Erasure
 3 Blood Crypt
 3 Thoughtseize
 3 Nicol Bolas, the Ravager
 3 Spirebluff Canal
-3 Watery Grave
 3 Drowned Catacomb
 3 Censor
 4 Censor
+4 Watery Grave
 4 Drowned Catacomb
 4 Thoughtseize
 4 Fatal Push
 4 Spirebluff Canal
 4 Murderous Rider
-4 Watery Grave
 4 Thought Erasure
 4 Nicol Bolas, the Ravager
 4 Blood Crypt
@@ -98,12 +98,12 @@
 1 Rootbound Crag
 1 Dryad of the Ilysian Grove
 1 Vraska, Golgari Queen
-1 Tireless Tracker
-1 Korvold, Fae-Cursed King
 1 Courser of Kruphix
+1 Korvold, Fae-Cursed King
 1 Fabled Passage
 1 Overgrown Tomb
 1 Forest
+1 Tireless Tracker
 1 Sylvan Caryatid
 1 Woodland Cemetery
 1 Ugin's Nexus
@@ -111,19 +111,19 @@
 2 Blooming Marsh
 2 Arboreal Grazer
 2 Stomping Ground
-2 Forest
-2 Woodland Cemetery
-2 Vraska, Golgari Queen
-2 Courser of Kruphix
 2 Tireless Tracker
+2 Vraska, Golgari Queen
+2 Forest
+2 Courser of Kruphix
 2 Overgrown Tomb
 2 Sylvan Caryatid
+2 Woodland Cemetery
 2 Korvold, Fae-Cursed King
 2 Fabled Passage
 2 Ugin's Nexus
 3 Arboreal Grazer
-3 Forest
 3 Vraska, Golgari Queen
+3 Forest
 3 Stomping Ground
 3 Tireless Tracker
 3 Courser of Kruphix
@@ -135,8 +135,8 @@
 3 Korvold, Fae-Cursed King
 4 Arboreal Grazer
 4 Forest
-4 Tireless Tracker
 4 Stomping Ground
+4 Tireless Tracker
 4 Vraska, Golgari Queen
 4 Overgrown Tomb
 4 Fabled Passage
@@ -145,7 +145,6 @@
 1 Idyllic Tutor
 1 Banishing Light
 1 Gideon's Intervention
-1 Elspeth Conquers Death
 1 The Akroan War
 1 Heliod, Sun-Crowned
 1 Chained to the Rocks
@@ -153,12 +152,13 @@
 1 Rest in Peace
 1 Sigil of the Empty Throne
 1 Outpost Siege
+1 Elspeth Conquers Death
 1 Quarantine Field
 1 Dawn of Hope
 2 Idyllic Tutor
-2 Elspeth Conquers Death
 2 Banishing Light
 2 Gideon's Intervention
+2 Elspeth Conquers Death
 2 Mountain
 2 Chained to the Rocks
 3 Idyllic Tutor
@@ -167,11 +167,11 @@
 3 Chained to the Rocks
 3 Mountain
 4 Temple of Triumph
+4 Mountain
+4 Sacred Foundry
 4 Gideon's Intervention
 4 Idyllic Tutor
-4 Sacred Foundry
 4 Chained to the Rocks
-4 Mountain
 5 Plains
 6 Mountain
 7 Mountain
