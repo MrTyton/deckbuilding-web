@@ -1,17 +1,14 @@
-1 Pelt Collector
-2 Pelt Collector
-3 Pelt Collector
-4 Pelt Collector
-1 Paradise Druid
-2 Paradise Druid
-3 Paradise Druid
-4 Paradise Druid
-1 Scorch Spitter
-2 Scorch Spitter
-3 Scorch Spitter
-4 Embercleave
+3 Gruul Spellbreaker
+4 Gruul Spellbreaker
+1 Fervent Champion
+2 Fervent Champion
+3 Fervent Champion
 4 Zhur-Taa Goblin
-3 Anax, Hardened in the Forge
+4 Embercleave
+1 Anax, Hardened in the Forge
+2 Anax, Hardened in the Forge
+4 Fervent Champion
+9 Mountain
 3 Temple of Abandon
 1 Rimrock Knight
 2 Rimrock Knight
@@ -19,66 +16,108 @@
 4 Rimrock Knight
 2 Fabled Passage
 4 Temple of Abandon
-4 Scorch Spitter
-9 Forest
+1 Scorch Spitter
+2 Scorch Spitter
+3 Scorch Spitter
+3 Anax, Hardened in the Forge
 3 Domri's Ambush
-4 Anax, Hardened in the Forge
+4 Scorch Spitter
+2 Castle Embereth
 3 Fabled Passage
-2 Klothys, God of Destiny
 1 Edgewall Innkeeper
 2 Edgewall Innkeeper
 3 Edgewall Innkeeper
 4 Edgewall Innkeeper
-1 Phoenix of Ash
-2 Phoenix of Ash
-4 Domri's Ambush
-2 Castle Embereth
-1 Gallia of the Endless Dance
+2 Klothys, God of Destiny
 1 The Great Henge
-1 Collision/Colossus
-2 Collision/Colossus
-1 Domri, Anarch of Bolas
-2 Gallia of the Endless Dance
-2 The Great Henge
-1 Skarrgan Hellkite
-1 Thrash/Threat
+4 Domri's Ambush
 10 Forest
-1 Nissa, Who Shakes the World
-2 Nissa, Who Shakes the World
-1 Nullhide Ferox
-2 Nullhide Ferox
-3 Nullhide Ferox
-4 Nullhide Ferox
-2 Domri, Anarch of Bolas
-1 God-Eternal Rhonas
-2 God-Eternal Rhonas
-1 Scorching Dragonfire
-2 Scorching Dragonfire
-3 Scorching Dragonfire
-1 Ilharg, the Raze-Boar
-1 Shifting Ceratops
-3 Gallia of the Endless Dance
-4 Gallia of the Endless Dance
-4 Fabled Passage
-1 Rugged Highlands
-2 Rugged Highlands
-3 Rugged Highlands
-4 Rugged Highlands
-1 Thrashing Brontodon
-1 The First Iroan Games
-2 Thrash/Threat
-1 Wildborn Preserver
-1 Kraul Harpooner
-1 Yorvo, Lord of Garenbrig
-2 Wildborn Preserver
-2 Kraul Harpooner
-2 Yorvo, Lord of Garenbrig
-3 Kraul Harpooner
+2 The Great Henge
+4 Anax, Hardened in the Forge
 11 Forest
 12 Forest
 13 Forest
 14 Forest
+3 The Great Henge
+15 Forest
+16 Forest
+17 Forest
+18 Forest
+19 Forest
+1 Yorvo, Lord of Garenbrig
+2 Yorvo, Lord of Garenbrig
+1 The First Iroan Games
+1 Barkhide Troll
+1 Stonecoil Serpent
+1 Castle Garenbrig
+2 Barkhide Troll
+2 Stonecoil Serpent
+2 Castle Garenbrig
+3 Stonecoil Serpent
+3 Barkhide Troll
+3 Castle Garenbrig
+3 Yorvo, Lord of Garenbrig
+1 Wildborn Preserver
+2 Wildborn Preserver
+1 Phoenix of Ash
+2 Phoenix of Ash
+2 The First Iroan Games
+1 Vivien, Arkbow Ranger
+2 Vivien, Arkbow Ranger
+3 Vivien, Arkbow Ranger
+4 Barkhide Troll
+4 Stonecoil Serpent
+1 Voracious Hydra
+1 Domri, Anarch of Bolas
+4 Castle Garenbrig
+1 Gallia of the Endless Dance
+3 Wildborn Preserver
+2 Voracious Hydra
+1 Collision/Colossus
+2 Collision/Colossus
+1 Skarrgan Hellkite
+1 Kraul Harpooner
+2 Kraul Harpooner
+2 Domri, Anarch of Bolas
+1 Wildwood Tracker
+2 Wildwood Tracker
+3 Wildwood Tracker
+1 Karn's Bastion
+1 Thrashing Brontodon
+4 Wildborn Preserver
+20 Forest
+2 Gallia of the Endless Dance
+4 Fabled Passage
+1 Nullhide Ferox
+2 Nullhide Ferox
+3 Nullhide Ferox
+4 Nullhide Ferox
+1 Nissa, Who Shakes the World
+2 Nissa, Who Shakes the World
+3 Kraul Harpooner
+1 God-Eternal Rhonas
+2 God-Eternal Rhonas
+1 Thrash/Threat
 3 Domri, Anarch of Bolas
+1 Mobilized District
+4 Wildwood Tracker
+1 Ilharg, the Raze-Boar
+1 Scorching Dragonfire
+2 Scorching Dragonfire
+3 Scorching Dragonfire
+4 Kraul Harpooner
+2 Thrashing Brontodon
+1 Shifting Ceratops
+3 Gallia of the Endless Dance
+4 Gallia of the Endless Dance
+1 Cavalier of Thorns
+2 Cavalier of Thorns
+3 Cavalier of Thorns
+1 Rugged Highlands
+2 Rugged Highlands
+3 Rugged Highlands
+4 Rugged Highlands
+2 Thrash/Threat
 1 Tibalt, Rakish Instigator
 2 Tibalt, Rakish Instigator
 1 Krenko, Tin Street Kingpin
@@ -89,35 +128,35 @@
 1 Shadowspear
 1 Weaselback Redcap
 1 Grim Initiate
-1 Cavalcade of Calamity
 1 Tin Street Dodger
+1 Cavalcade of Calamity
 1 Chandra, Acolyte of Flame
 1 Samut, Tyrant Smasher
-1 Chandra's Spitfire
+1 Satyr's Cunning
 1 Act of Treason
 1 Goblin Smuggler
-1 Satyr's Cunning
 1 Tibalt's Rager
+1 Chandra's Spitfire
 1 Fire Urchin
 1 Goblin Banneret
-2 Cavalcade of Calamity
 2 Grim Initiate
+2 Cavalcade of Calamity
 2 Tin Street Dodger
 2 Shock
 2 Goblin Banneret
 2 Chandra's Spitfire
-2 Act of Treason
 2 Fire Urchin
+2 Act of Treason
 3 Act of Treason
-3 Cavalcade of Calamity
 3 Tin Street Dodger
+3 Cavalcade of Calamity
 3 Shock
 3 Goblin Banneret
 3 Chandra's Spitfire
-4 Shock
 4 Cavalcade of Calamity
 4 Act of Treason
 4 Chandra's Spitfire
+4 Shock
 11 Mountain
 12 Mountain
 13 Mountain
@@ -138,10 +177,12 @@
 2 Dreadhorde Arcanist
 2 Giant Growth
 3 Giant Growth
+1 Grafdigger's Cage
+2 Grafdigger's Cage
 1 Evolving Wilds
 1 Domri, Chaos Bringer
-2 Evolving Wilds
 2 Shifting Ceratops
+2 Evolving Wilds
 1 Blast Zone
 1 Cryptic Caves
 2 Ilharg, the Raze-Boar
@@ -153,51 +194,48 @@
 3 Nissa, Who Shakes the World
 3 Gilded Goose
 3 Thrash/Threat
-2 The First Iroan Games
+1 Wolfwillow Haven
+2 Wolfwillow Haven
+3 Wolfwillow Haven
+4 Cavalier of Thorns
 3 The First Iroan Games
 4 The First Iroan Games
+2 Skarrgan Hellkite
+3 Skarrgan Hellkite
+4 Skarrgan Hellkite
 1 Leafkin Druid
 1 Arboreal Grazer
-1 Cavalier of Thorns
 1 Circuitous Route
 1 Cavalier of Flame
 2 Leafkin Druid
 2 Arboreal Grazer
-2 Cavalier of Thorns
 2 Circuitous Route
 2 Cavalier of Flame
-3 Cavalier of Thorns
 3 Arboreal Grazer
-3 Cavalier of Flame
 3 Circuitous Route
+3 Cavalier of Flame
 4 Circuitous Route
 4 Arboreal Grazer
-1 Wildwood Tracker
-2 Wildwood Tracker
-3 Wildwood Tracker
-4 Wildwood Tracker
 1 Legion Warboss
 1 Purphoros's Intervention
 1 Thrill of Possibility
 1 Careless Celebrant
 2 Legion Warboss
-2 Thrill of Possibility
 2 Purphoros's Intervention
+2 Thrill of Possibility
 2 Careless Celebrant
 3 Phoenix of Ash
 3 Thrill of Possibility
-3 Careless Celebrant
 3 Legion Warboss
+3 Careless Celebrant
 4 Legion Warboss
 4 Thrill of Possibility
 4 Careless Celebrant
-1 Voracious Hydra
 1 Nessian Hornbeetle
-1 Kiora, Behemoth Beckoner
 1 Ox of Agonas
+1 Kiora, Behemoth Beckoner
 1 Sunder Shaman
 1 Ilysian Caryatid
-2 Voracious Hydra
 2 Kiora, Behemoth Beckoner
 2 Nessian Hornbeetle
 2 Ilysian Caryatid
@@ -207,29 +245,17 @@
 3 Sunder Shaman
 4 Sunder Shaman
 4 Ilysian Caryatid
-1 Light Up the Stage
+3 Thrashing Brontodon
+4 Thrashing Brontodon
+21 Forest
+22 Forest
+23 Forest
 1 Torbran, Thane of Red Fell
-2 Light Up the Stage
+1 Light Up the Stage
 2 Torbran, Thane of Red Fell
+2 Light Up the Stage
 2 Runaway Steam-Kin
 3 Light Up the Stage
 3 Runaway Steam-Kin
 4 Runaway Steam-Kin
 4 Light Up the Stage
-2 Thrashing Brontodon
-3 The Great Henge
-3 Wildborn Preserver
-3 Thrashing Brontodon
-3 Yorvo, Lord of Garenbrig
-4 Wildborn Preserver
-4 Kraul Harpooner
-4 Thrashing Brontodon
-15 Forest
-16 Forest
-17 Forest
-18 Forest
-20 Forest
-21 Forest
-22 Forest
-23 Forest
-19 Forest

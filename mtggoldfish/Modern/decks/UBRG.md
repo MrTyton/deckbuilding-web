@@ -83,8 +83,8 @@
 |                    4|[Misty Rainforest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405102)    |                     |                                                                                            |
 |                    4|[Violent Outburst](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=185056)    |                     |                                                                                            |
 |                    4|[Windcaller Aven](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464026)     |                     |                                                                                            |
-|                    4|[Striped Riverwinder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430737) |                     |                                                                                            |
 |                    4|[Spirebluff Canal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417822)    |                     |                                                                                            |
 |                    4|[Curator of Mysteries](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426751)|                     |                                                                                            |
 |                    4|[Street Wraith](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442097)       |                     |                                                                                            |
+|                    4|[Striped Riverwinder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430737) |                     |                                                                                            |
 

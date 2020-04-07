@@ -44,7 +44,7 @@
 |                    1|[Inferno Titan](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376371)         |                    3|[Relic of Progenitus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174824)      |
 |                    1|[Kitchen Finks](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370458)         |                    4|[Relic of Progenitus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174824)      |
 |                    1|[Birds of Paradise](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129906)     |                    1|Soul-Guide Lantern                                                                                  |
-|                     |                                                                                                 |                    2|[Pithing Needle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129526)           |
 |                     |                                                                                                 |                    2|Soul-Guide Lantern                                                                                  |
+|                     |                                                                                                 |                    2|[Pithing Needle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129526)           |
 |                     |                                                                                                 |                    1|[Pithing Needle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129526)           |
 

@@ -55,9 +55,9 @@
 |                     |                                                                                              |                    2|[Nimble Obstructionist](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430729) |
 |                     |                                                                                              |                    1|[Declaration in Stone](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409750)  |
 |                     |                                                                                              |                    2|[Declaration in Stone](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409750)  |
-|                     |                                                                                              |                    3|[Remorseful Cleric](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447169)     |
 |                     |                                                                                              |                    2|[Gideon of the Trials](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426716)  |
 |                     |                                                                                              |                    3|[Disdainful Stroke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420705)     |
+|                     |                                                                                              |                    3|[Remorseful Cleric](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447169)     |
 |                     |                                                                                              |                    1|[Surge of Righteousness](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394720)|
 |                     |                                                                                              |                    2|[Surge of Righteousness](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394720)|
 

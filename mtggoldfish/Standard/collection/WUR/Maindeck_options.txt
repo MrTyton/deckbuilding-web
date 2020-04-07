@@ -42,8 +42,8 @@
 3 Fae of Wishes
 4 Fae of Wishes
 3 Omen of the Sea
-4 Narset, Parter of Veils
 4 Omen of the Sea
+4 Narset, Parter of Veils
 1 Chandra, Awakened Inferno
 3 Temple of Epiphany
 1 Cavalier of Flame
@@ -56,25 +56,25 @@
 4 Fabled Passage
 1 Blast Zone
 1 Bounty Agent
+1 Lavinia, Azorius Renegade
+1 Thassa's Intervention
 1 Deputy of Detention
 1 Sky Tether
 1 Elspeth, Sun's Nemesis
-1 Lavinia, Azorius Renegade
-1 Thassa's Intervention
 1 Giant Killer
 2 Deputy of Detention
 2 Sky Tether
-2 Lavinia, Azorius Renegade
 2 Bounty Agent
+2 Lavinia, Azorius Renegade
 2 Giant Killer
 3 Bounty Agent
 3 Giant Killer
 3 Dream Trawler
 4 Island
 5 Island
-1 Gadwick, the Wizened
-1 The Akroan War
 1 Cavalier of Dawn
+1 The Akroan War
+1 Gadwick, the Wizened
 1 Claim the Firstborn
 2 The Akroan War
 2 Lava Coil
@@ -83,10 +83,10 @@
 4 Thassa, Deep-Dwelling
 4 The Akroan War
 2 Chandra, Awakened Inferno
-3 The Birth of Meletis
 3 Chandra, Awakened Inferno
-4 Elspeth Conquers Death
+3 The Birth of Meletis
 4 The Birth of Meletis
+4 Elspeth Conquers Death
 5 Plains
 1 Prison Realm
 2 Prison Realm
@@ -110,29 +110,13 @@
 1 Solar Blaze
 2 Time Wipe
 3 Castle Vantress
-1 Mu Yanling, Sky Dancer
 1 Mobilized District
+1 Mu Yanling, Sky Dancer
 2 Dovin, Hand of Control
-2 Mobilized District
 2 Mu Yanling, Sky Dancer
+2 Mobilized District
 3 Scorching Dragonfire
 3 Dovin, Hand of Control
-1 Opt
-1 Ral's Outburst
-1 Ionize
-1 Expansion/Explosion
-1 Storm's Wrath
-1 Whirlwind Denial
-2 Opt
-2 Ral's Outburst
-2 Ionize
-2 Whirlwind Denial
-3 Opt
-3 Temple of Triumph
-3 Ral's Outburst
-4 Opt
-4 Temple of Epiphany
-4 Temple of Triumph
 1 Shimmer of Possibility
 1 Sphinx of Foresight
 1 Izzet Guildgate
@@ -144,6 +128,22 @@
 3 Sphinx of Foresight
 3 Izzet Guildgate
 4 Sphinx of Foresight
+1 Ral's Outburst
+1 Ionize
+1 Opt
+1 Whirlwind Denial
+1 Expansion/Explosion
+1 Storm's Wrath
+2 Ral's Outburst
+2 Ionize
+2 Whirlwind Denial
+2 Opt
+3 Ral's Outburst
+3 Temple of Triumph
+3 Opt
+4 Temple of Epiphany
+4 Opt
+4 Temple of Triumph
 1 Dawn of Hope
 1 Role Reversal
 1 Callous Dismissal
@@ -153,23 +153,23 @@
 3 Role Reversal
 4 Role Reversal
 1 Sinister Sabotage
-1 Absorb
 1 Stonecoil Serpent
 1 Robber of the Rich
+1 Absorb
 2 Sinister Sabotage
 2 Stonecoil Serpent
 2 Robber of the Rich
 2 Absorb
-3 Robber of the Rich
 3 Sinister Sabotage
-3 Brazen Borrower
+3 Robber of the Rich
 3 Stonecoil Serpent
 3 Absorb
-4 Robber of the Rich
+3 Brazen Borrower
 4 Absorb
-4 Brazen Borrower
-4 Bonecrusher Giant
 4 Sinister Sabotage
+4 Bonecrusher Giant
+4 Robber of the Rich
+4 Brazen Borrower
 4 The Royal Scions
 3 Kenrith, the Returned King
 4 Mountain

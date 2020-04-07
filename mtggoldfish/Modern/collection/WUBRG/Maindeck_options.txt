@@ -10,11 +10,11 @@
 1 Summoner's Pact
 1 Life Goes On
 1 Neoform
+1 Manamorphose
 1 Glittering Wish
 1 Laboratory Maniac
 1 Chancellor of the Tangle
 1 Allosaurus Rider
-1 Manamorphose
 1 City of Brass
 1 Griselbrand
 1 Autochthon Wurm
@@ -42,8 +42,8 @@
 4 Glittering Wish
 4 Nourishing Shoal
 4 Summoner's Pact
-4 City of Brass
 4 Allosaurus Rider
+4 City of Brass
 4 Manamorphose
 4 Eldritch Evolution
 4 Gemstone Mine
@@ -73,9 +73,9 @@
 1 Saheeli Rai
 1 Assassin's Trophy
 1 Blood Crypt
+1 Plains
 1 Mountain
 1 Scalding Tarn
-1 Plains
 1 Sacred Foundry
 2 Saheeli Rai
 2 Felidar Guardian
@@ -116,11 +116,11 @@
 2 Creeping Chill
 2 Claim/Fame
 2 Skaab Ruinator
-2 Hedron Crab
 2 Darkslick Shores
 2 Vengevine
 2 Stitcher's Supplier
 2 Gravecrawler
+2 Hedron Crab
 2 Unearth
 2 Drown in Filth
 2 Polluted Delta
@@ -150,8 +150,8 @@
 2 Snow-Covered Forest
 1 Waterlogged Grove
 1 Dissenter's Deliverance
-1 Safewright Quest
 1 Pact of Negation
+1 Safewright Quest
 1 Grand Abolisher
 1 Time Wipe
 2 Grand Abolisher
@@ -201,13 +201,14 @@
 1 Cavern of Souls
 1 Mutavault
 1 Unsettled Mariner
+1 Sidewinder Sliver
+1 Necrotic Sliver
 1 Sinew Sliver
 1 Aether Vial
 1 Cloudshredder Sliver
 1 Galerider Sliver
 1 Sliver Hive
 1 Predatory Sliver
-1 Sidewinder Sliver
 1 Collected Company
 1 Striking Sliver
 1 Frenetic Sliver
@@ -215,7 +216,6 @@
 1 Manaweft Sliver
 1 Dregscape Sliver
 1 Sedge Sliver
-1 Necrotic Sliver
 2 Mutavault
 2 Leeching Sliver
 2 Aether Vial
@@ -227,9 +227,9 @@
 2 Predatory Sliver
 2 Cloudshredder Sliver
 2 Striking Sliver
+2 Cavern of Souls
 2 Collected Company
 2 Galerider Sliver
-2 Cavern of Souls
 3 Cavern of Souls
 3 Verdant Catacombs
 3 Unsettled Mariner

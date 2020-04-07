@@ -18,31 +18,31 @@
 3 Courser of Kruphix
 6 Forest
 1 Wolfwillow Haven
-1 Setessan Champion
 1 Temple of Plenty
 1 Sigil of the Empty Throne
+1 Calix, Destiny's Hand
+1 Setessan Champion
 1 Banishing Light
 1 Seal Away
 1 Sphere of Safety
 1 Eidolon of Blossoms
-1 Calix, Destiny's Hand
 1 Herald of the Pantheon
-2 Setessan Champion
 2 Wolfwillow Haven
+2 Setessan Champion
 2 Banishing Light
 2 Sigil of the Empty Throne
 2 Eidolon of Blossoms
 2 Herald of the Pantheon
 2 Temple of Plenty
 2 Sphere of Safety
-3 Setessan Champion
 3 Temple of Plenty
+3 Setessan Champion
 3 Eidolon of Blossoms
 3 Wolfwillow Haven
 3 Herald of the Pantheon
 3 Banishing Light
-4 Setessan Champion
 4 Banishing Light
+4 Setessan Champion
 4 Temple of Plenty
 4 Eidolon of Blossoms
 4 Herald of the Pantheon
@@ -154,14 +154,14 @@
 2 Mutavault
 1 History of Benalia
 1 Kaya, Orzhov Usurper
-1 Kytheon, Hero of Akros
 1 Urborg, Tomb of Yawgmoth
+1 Kytheon, Hero of Akros
 1 Spawn of Mayhem
 1 Knight of the Ebon Legion
 2 History of Benalia
-2 Kytheon, Hero of Akros
 2 Knight of the Ebon Legion
 2 Spawn of Mayhem
+2 Kytheon, Hero of Akros
 3 History of Benalia
 3 Gideon of the Trials
 3 Knight of the Ebon Legion
@@ -314,6 +314,39 @@
 4 Temple of Silence
 4 Resplendent Angel
 4 Bishop of Wings
+1 Reckless Bushwhacker
+1 Legion's Landing
+1 Lightning Strike
+1 Secure the Wastes
+1 Clifftop Retreat
+1 Toolcraft Exemplar
+1 Raise the Alarm
+1 Servo Exhibition
+1 Battlefield Forge
+1 Shefet Dunes
+2 Reckless Bushwhacker
+2 Legion's Landing
+2 Lightning Strike
+2 Toolcraft Exemplar
+2 Raise the Alarm
+2 Battlefield Forge
+2 Shefet Dunes
+2 Servo Exhibition
+3 Reckless Bushwhacker
+3 Legion's Landing
+3 Lightning Strike
+3 Toolcraft Exemplar
+3 Servo Exhibition
+3 Benalish Marshal
+3 Battlefield Forge
+3 Raise the Alarm
+4 Legion's Landing
+4 Reckless Bushwhacker
+4 Inspiring Vantage
+4 Toolcraft Exemplar
+4 Benalish Marshal
+4 Raise the Alarm
+4 Battlefield Forge
 1 Breeding Pool
 1 Creeping Chill
 1 Botanical Sanctum
@@ -359,10 +392,10 @@
 1 Mana Confluence
 2 Mana Confluence
 1 Boros Charm
+1 Bronzehide Lion
 1 Atarka's Command
 1 Pelt Collector
 1 Ghor-Clan Rampager
-1 Bronzehide Lion
 1 Gruul Spellbreaker
 1 Experiment One
 1 Fleecemane Lion
@@ -394,44 +427,10 @@
 4 Gruul Spellbreaker
 4 Pelt Collector
 4 Stomping Ground
-1 Reckless Bushwhacker
-1 Legion's Landing
-1 Lightning Strike
-1 Secure the Wastes
-1 Clifftop Retreat
-1 Toolcraft Exemplar
-1 Servo Exhibition
-1 Battlefield Forge
-1 Raise the Alarm
-1 Shefet Dunes
-2 Reckless Bushwhacker
-2 Legion's Landing
-2 Lightning Strike
-2 Raise the Alarm
-2 Battlefield Forge
-2 Shefet Dunes
-2 Toolcraft Exemplar
-2 Servo Exhibition
-3 Reckless Bushwhacker
-3 Legion's Landing
-3 Lightning Strike
-3 Toolcraft Exemplar
-3 Servo Exhibition
-3 Benalish Marshal
-3 Battlefield Forge
-3 Raise the Alarm
-4 Legion's Landing
-4 Reckless Bushwhacker
-4 Inspiring Vantage
-4 Benalish Marshal
-4 Raise the Alarm
-4 Battlefield Forge
-4 Toolcraft Exemplar
 1 Stonecoil Serpent
 1 Metallic Rebuke
-1 Springleaf Drum
-1 Hope of Ghirapur
 1 Spire of Industry
+1 Springleaf Drum
 1 Aether Hub
 1 Ensoul Artifact
 1 Darksteel Citadel
@@ -440,9 +439,9 @@
 1 Shrapnel Blast
 1 Steel Overseer
 1 All That Glitters
+1 Hope of Ghirapur
 1 Ornithopter
 2 Stonecoil Serpent
-2 Springleaf Drum
 2 Metallic Rebuke
 2 Hope of Ghirapur
 2 Steel Overseer
@@ -453,15 +452,16 @@
 2 Darksteel Citadel
 2 Gingerbrute
 2 Ensoul Artifact
+2 Springleaf Drum
 2 Ghostfire Blade
 2 Shrapnel Blast
 3 Steel Overseer
 3 Stonecoil Serpent
 3 Mana Confluence
-3 Springleaf Drum
 3 Spire of Industry
 3 Darksteel Citadel
 3 Ornithopter
+3 Springleaf Drum
 3 Gingerbrute
 3 Ensoul Artifact
 3 Ghostfire Blade

@@ -1,29 +1,17 @@
-1 Eat to Extinction
-2 Eat to Extinction
-1 Tyrant's Scorn
-2 Tyrant's Scorn
-1 Sinister Sabotage
-2 Sinister Sabotage
-3 Sinister Sabotage
-6 Island
-1 Thassa's Intervention
-3 Agonizing Remorse
+3 Atris, Oracle of Half-Truths
+1 The Elderspell
+1 Karn's Bastion
+2 The Elderspell
+3 Cry of the Carnarium
+3 Ritual of Soot
+3 Liliana, Dreadhorde General
+3 Murderous Rider
+4 Murderous Rider
 6 Swamp
-7 Island
 1 Blast Zone
-4 Agonizing Remorse
-4 Sinister Sabotage
-1 Omen of the Sea
-1 Dismal Backwater
-1 Erebos's Intervention
-2 Omen of the Sea
-1 Into the Story
+3 Agonizing Remorse
 3 Tyrant's Scorn
-1 Liliana's Triumph
-1 Mystic Sanctuary
-2 Blast Zone
-2 Erebos's Intervention
-3 Omen of the Sea
+7 Island
 1 Chemister's Insight
 1 God-Eternal Kefnet
 2 Thassa's Intervention
@@ -32,14 +20,29 @@
 1 Opt
 2 Opt
 2 Castle Vantress
+4 Agonizing Remorse
+4 Sinister Sabotage
+1 Omen of the Sea
+1 Dismal Backwater
+1 Erebos's Intervention
+2 Omen of the Sea
+1 Into the Story
+1 Augur of Bolas
+2 Augur of Bolas
+3 Opt
+1 Liliana's Triumph
+1 Mystic Sanctuary
+2 Blast Zone
+2 Erebos's Intervention
+3 Omen of the Sea
 1 Ashiok, Dream Render
 2 Ashiok, Dream Render
 3 Ashiok, Dream Render
 2 Dismal Backwater
 2 Into the Story
 1 Agent of Treachery
-1 Lochmere Serpent
 1 Whirlwind Denial
+1 Lochmere Serpent
 1 Brazen Borrower
 1 Rankle, Master of Pranks
 2 Brazen Borrower
@@ -51,9 +54,7 @@
 1 Pharika's Libation
 1 Interplanar Beacon
 2 Interplanar Beacon
-1 Augur of Bolas
-2 Augur of Bolas
-3 Opt
+3 Augur of Bolas
 1 Ashiok's Erasure
 1 Witching Well
 2 Ashiok's Erasure
@@ -63,28 +64,11 @@
 3 Witching Well
 3 Erebos's Intervention
 4 Omen of the Sea
-1 Blacklance Paragon
-1 Shadowspear
-1 Tale's End
-1 Brineborn Cutthroat
-1 Whisper Agent
-2 Tale's End
-2 Blacklance Paragon
-2 Rankle, Master of Pranks
-2 Whirlwind Denial
-2 Brineborn Cutthroat
-2 Whisper Agent
-3 Blacklance Paragon
-3 Brineborn Cutthroat
-3 Whisper Agent
-4 Blacklance Paragon
-4 Tyrant's Scorn
-4 Brineborn Cutthroat
 1 Merfolk Secretkeeper
-1 Enter the God-Eternals
 1 Overwhelmed Apprentice
 1 Didn't Say Please
 1 Drown in the Loch
+1 Enter the God-Eternals
 1 Vantress Gargoyle
 2 Merfolk Secretkeeper
 2 Enter the God-Eternals
@@ -100,6 +84,23 @@
 4 Overwhelmed Apprentice
 4 Vantress Gargoyle
 4 Into the Story
+1 Brineborn Cutthroat
+1 Blacklance Paragon
+1 Tale's End
+1 Shadowspear
+1 Whisper Agent
+2 Brineborn Cutthroat
+2 Tale's End
+2 Blacklance Paragon
+2 Whirlwind Denial
+2 Rankle, Master of Pranks
+2 Whisper Agent
+3 Brineborn Cutthroat
+3 Blacklance Paragon
+3 Whisper Agent
+4 Brineborn Cutthroat
+4 Tyrant's Scorn
+4 Blacklance Paragon
 1 Duress
 2 Duress
 2 God-Eternal Kefnet
@@ -110,10 +111,11 @@
 1 Fblthp, the Lost
 1 Mire Triton
 1 Tymaret Calls the Dead
-1 Blood for Bones
 1 Tomebound Lich
+1 Blood for Bones
 1 Mesmerizing Benthid
 1 Alirios, Enraptured
+2 Agent of Treachery
 2 Thassa, Deep-Dwelling
 2 Mire Triton
 2 Fblthp, the Lost
@@ -121,19 +123,18 @@
 2 Blood for Bones
 2 Tomebound Lich
 2 Alirios, Enraptured
-2 Agent of Treachery
-3 Thassa, Deep-Dwelling
 3 Agent of Treachery
+3 Thassa, Deep-Dwelling
 3 Mire Triton
 3 Fblthp, the Lost
 3 Blood for Bones
 3 Tomebound Lich
-4 Fblthp, the Lost
 4 Agent of Treachery
+4 Fblthp, the Lost
 4 Thassa, Deep-Dwelling
-4 Fabled Passage
 4 Mire Triton
 4 Blood for Bones
 4 Tomebound Lich
+4 Fabled Passage
 7 Swamp
 8 Swamp

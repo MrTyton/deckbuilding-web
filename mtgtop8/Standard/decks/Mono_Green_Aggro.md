@@ -30,8 +30,8 @@
 
 |*n*<sup>th</sup> copy|                                       Maindeck Card                                       |*n*<sup>th</sup> copy|                                       Sideboard Card                                       |
 |--------------------:|-------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------|
-|                    1|[Rotting Regisaur](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466865)|                    1|[Legion's End](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466860)     |
-|                    1|[The Great Henge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473123) |                    1|Agonizing Remorse                                                                           |
+|                    1|[The Great Henge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473123) |                    1|[Legion's End](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466860)     |
+|                    1|[Rotting Regisaur](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466865)|                    1|Agonizing Remorse                                                                           |
 |                    1|Nessian Hornbeetle                                                                         |                    1|[Epic Downfall](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473047)    |
 |                    1|[Fabled Passage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473206)  |                    1|[Assassin's Trophy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452902)|
 |                    1|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)           |                    2|Agonizing Remorse                                                                           |
@@ -54,8 +54,8 @@
 |                    3|[Temple of Malady](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=380515)|                     |                                                                                            |
 |                    3|[Overgrown Tomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405103)  |                     |                                                                                            |
 |                    4|[Rotting Regisaur](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466865)|                     |                                                                                            |
-|                    4|[Temple of Malady](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=380515)|                     |                                                                                            |
 |                    4|Nessian Hornbeetle                                                                         |                     |                                                                                            |
 |                    4|[Questing Beast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473133)  |                     |                                                                                            |
+|                    4|[Temple of Malady](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=380515)|                     |                                                                                            |
 |                    4|[Overgrown Tomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405103)  |                     |                                                                                            |
 
