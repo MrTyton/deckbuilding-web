@@ -79,8 +79,8 @@
 |                    1|[Time Sieve](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=189649)              |                     |                                                                                                   |
 |                    1|[Tezzeret, Agent of Bolas](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=214065)|                     |                                                                                                   |
 |                    1|[Aether Spellbomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220525)        |                     |                                                                                                   |
-|                    2|[Tezzeret, Agent of Bolas](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=214065)|                     |                                                                                                   |
 |                    2|[Nihil Spellbomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442215)         |                     |                                                                                                   |
+|                    2|[Tezzeret, Agent of Bolas](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=214065)|                     |                                                                                                   |
 |                    4|[Thopter Foundry](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=183017)         |                     |                                                                                                   |
 |                    7|[Snow-Covered Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121130)     |                     |                                                                                                   |
 

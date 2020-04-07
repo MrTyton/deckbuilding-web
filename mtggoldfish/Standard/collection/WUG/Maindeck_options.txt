@@ -1,44 +1,44 @@
 2 Agent of Treachery
 3 Thassa, Deep-Dwelling
-1 Fblthp, the Lost
-1 Hydroid Krasis
 3 Agent of Treachery
+1 Fblthp, the Lost
 1 Charming Prince
 2 Charming Prince
 2 Fblthp, the Lost
 3 Charming Prince
-2 Hydroid Krasis
+1 Hydroid Krasis
 4 Thassa, Deep-Dwelling
+2 Hydroid Krasis
 3 Fblthp, the Lost
 3 Nissa, Who Shakes the World
 1 Alirios, Enraptured
-1 Aether Gust
 1 Mystical Dispute
+1 Aether Gust
 2 Aether Gust
 2 Alirios, Enraptured
-1 Tamiyo, Collector of Tales
 2 Mystical Dispute
 3 Shatter the Sky
-2 Temple of Plenty
 3 Plains
 4 Nissa, Who Shakes the World
-4 Temple of Mystery
+1 Tamiyo, Collector of Tales
+2 Temple of Plenty
 1 Omen of the Sea
 2 Omen of the Sea
 1 The Birth of Meletis
 2 The Birth of Meletis
-4 Elspeth Conquers Death
-3 Forest
-1 Brazen Borrower
 1 Archon of Sun's Grace
 1 Kiora Bests the Sea God
 2 Kiora Bests the Sea God
+4 Elspeth Conquers Death
+1 Brazen Borrower
 1 Time Wipe
-3 Hydroid Krasis
 2 Knight of Autumn
+4 Temple of Mystery
+3 Forest
 2 Archon of Sun's Grace
 3 Archon of Sun's Grace
 3 Omen of the Sea
+3 Hydroid Krasis
 1 Smothering Tithe
 1 Emergency Powers
 1 Nyxbloom Ancient
@@ -48,11 +48,8 @@
 3 Smothering Tithe
 3 The Birth of Meletis
 2 Brazen Borrower
-1 Cavalier of Thorns
-2 Cavalier of Thorns
 1 Frilled Mystic
 2 Frilled Mystic
-2 Tamiyo, Collector of Tales
 3 Emergency Powers
 4 Smothering Tithe
 1 Fae of Wishes
@@ -60,60 +57,58 @@
 3 Frilled Mystic
 4 Frilled Mystic
 1 Nightpack Ambusher
+1 Cavalier of Thorns
+2 Cavalier of Thorns
 2 Fae of Wishes
 3 Fae of Wishes
 1 Kenrith, the Returned King
 4 Emergency Powers
+2 Tamiyo, Collector of Tales
 2 Nightpack Ambusher
 3 Nightpack Ambusher
 4 Nightpack Ambusher
 3 Island
 4 Archon of Sun's Grace
 3 Temple of Enlightenment
-3 Cavalier of Thorns
-1 Finale of Devastation
-1 Cavalier of Gales
-4 Forest
 3 Nyxbloom Ancient
 4 The Birth of Meletis
-1 Deputy of Detention
-2 Deputy of Detention
-3 Deputy of Detention
+4 Forest
 1 Elite Guardmage
 2 Elite Guardmage
 1 Leafkin Druid
 2 Leafkin Druid
 3 Leafkin Druid
 4 Leafkin Druid
-1 Tolsimir, Friend to Wolves
+1 Cavalier of Gales
+3 Cavalier of Thorns
+1 Finale of Devastation
 1 Dovin's Veto
 1 Nadir Kraken
 2 Nadir Kraken
 1 Ashiok, Dream Render
 4 Hydroid Krasis
 1 Castle Garenbrig
-1 Arboreal Grazer
 3 Mystical Dispute
-3 Elite Guardmage
-4 Elite Guardmage
 1 Wolfwillow Haven
 2 Wolfwillow Haven
 3 Nadir Kraken
 4 Nadir Kraken
 1 Banishing Light
+3 Elite Guardmage
+4 Elite Guardmage
 2 Castle Ardenvale
-2 Finale of Devastation
 1 Quench
 2 Quench
+1 Tolsimir, Friend to Wolves
 4 Plains
 1 Merfolk Secretkeeper
 2 Merfolk Secretkeeper
 3 Aether Gust
-2 Arboreal Grazer
-4 Deputy of Detention
-1 Paradise Druid
-2 Paradise Druid
-3 Paradise Druid
+1 Arboreal Grazer
+1 Deputy of Detention
+2 Deputy of Detention
+3 Deputy of Detention
+1 Jace, Wielder of Mysteries
 1 Lovestruck Beast
 2 Lovestruck Beast
 3 Lovestruck Beast
@@ -121,11 +116,9 @@
 2 Gilded Goose
 3 Gilded Goose
 4 Gilded Goose
-1 Jace, Wielder of Mysteries
 3 Brazen Borrower
+2 Finale of Devastation
 4 Cavalier of Thorns
-3 Merfolk Secretkeeper
-3 Arboreal Grazer
 3 Wolfwillow Haven
 4 Wolfwillow Haven
 1 Lotus Field
@@ -148,6 +141,7 @@
 1 Wilderness Reclamation
 2 Thassa's Intervention
 2 Wilderness Reclamation
+3 Merfolk Secretkeeper
 1 Thassa's Oracle
 2 Ashiok, Dream Render
 3 Tamiyo, Collector of Tales
@@ -157,19 +151,24 @@
 2 Absorb
 3 Absorb
 4 Absorb
-1 Spark Double
+2 Arboreal Grazer
+4 Deputy of Detention
+1 Paradise Druid
+2 Paradise Druid
+3 Paradise Druid
 1 Cavalier of Dawn
 1 Thirst for Meaning
 2 Thirst for Meaning
 3 Thirst for Meaning
 4 Thirst for Meaning
-3 Dream Trawler
-4 Island
 1 Narset, Parter of Veils
 5 Plains
+3 Dream Trawler
+4 Island
 4 Merfolk Secretkeeper
 2 Banishing Light
 3 Banishing Light
+3 Arboreal Grazer
 4 Arboreal Grazer
 4 Paradise Druid
 4 Fae of Wishes
@@ -209,6 +208,7 @@
 3 Tower Defense
 4 Huatli, the Sun's Heart
 4 Yoked Ox
+1 Spark Double
 2 Spark Double
 1 Beanstalk Giant
 1 Edgewall Innkeeper
@@ -223,8 +223,6 @@
 1 Dryad of the Ilysian Grove
 2 Dryad of the Ilysian Grove
 3 Dryad of the Ilysian Grove
-3 Temple of Plenty
-4 Temple of Plenty
 1 Setessan Champion
 1 Alseid of Life's Bounty
 1 Sentinel's Eyes
@@ -247,12 +245,8 @@
 2 Cloudkin Seer
 1 Dovin, Grand Arbiter
 2 Dovin, Grand Arbiter
-1 Vivien, Champion of the Wilds
-1 Roalesk, Apex Hybrid
-2 Roalesk, Apex Hybrid
 1 Chainweb Aracnir
 2 Chainweb Aracnir
-3 Finale of Devastation
 1 Trostani Discordant
 3 Time Wipe
 3 Quench
@@ -309,9 +303,11 @@
 3 Starfield Mystic
 3 Siona, Captain of the Pyleas
 3 Staggering Insight
+3 Temple of Plenty
 3 Starlit Mantle
 4 Starfield Mystic
 4 Alseid of Life's Bounty
+4 Temple of Plenty
 4 Sentinel's Eyes
 1 Vivien's Arkbow
 2 Tolsimir, Friend to Wolves

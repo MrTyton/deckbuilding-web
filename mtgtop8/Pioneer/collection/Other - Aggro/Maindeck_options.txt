@@ -35,15 +35,15 @@
 2 Herald of the Pantheon
 2 Temple of Plenty
 2 Sphere of Safety
-3 Temple of Plenty
 3 Setessan Champion
+3 Temple of Plenty
 3 Eidolon of Blossoms
 3 Wolfwillow Haven
 3 Herald of the Pantheon
 3 Banishing Light
 4 Setessan Champion
-4 Temple of Plenty
 4 Banishing Light
+4 Temple of Plenty
 4 Eidolon of Blossoms
 4 Herald of the Pantheon
 4 Courser of Kruphix
@@ -247,19 +247,19 @@
 4 Staggering Insight
 4 Curious Obsession
 4 Steam Vents
-1 Elvish Mystic
 1 Collected Company
 1 Bygone Bishop
 1 Shared Summons
 1 Radiant Fountain
+1 Elvish Mystic
 1 Fortified Village
 1 Militia Bugler
-2 Elvish Mystic
 2 Collected Company
 2 Shared Summons
 2 Radiant Fountain
 2 Fortified Village
 2 Militia Bugler
+2 Elvish Mystic
 3 Elvish Mystic
 3 Collected Company
 3 Radiant Fountain
@@ -388,12 +388,13 @@
 3 Boros Charm
 3 Stomping Ground
 3 Atarka's Command
+4 Experiment One
 4 Bronzehide Lion
 4 Voice of Resurgence
 4 Gruul Spellbreaker
 4 Pelt Collector
-4 Experiment One
 4 Stomping Ground
+1 Reckless Bushwhacker
 1 Legion's Landing
 1 Lightning Strike
 1 Secure the Wastes
@@ -402,13 +403,12 @@
 1 Servo Exhibition
 1 Battlefield Forge
 1 Raise the Alarm
-1 Reckless Bushwhacker
 1 Shefet Dunes
+2 Reckless Bushwhacker
 2 Legion's Landing
 2 Lightning Strike
 2 Raise the Alarm
 2 Battlefield Forge
-2 Reckless Bushwhacker
 2 Shefet Dunes
 2 Toolcraft Exemplar
 2 Servo Exhibition
@@ -506,13 +506,13 @@
 6 Swamp
 7 Mountain
 8 Mountain
+1 Growth Spiral
 1 Kiora Bests the Sea God
 1 Cavalier of Thorns
-1 Hinterland Harbor
+1 Castle Garenbrig
 1 Nissa's Pilgrimage
 1 World Breaker
-1 Castle Garenbrig
-1 Growth Spiral
+1 Hinterland Harbor
 1 Arboreal Grazer
 1 Nissa, Who Shakes the World
 1 Ugin, the Spirit Dragon
@@ -522,12 +522,12 @@
 1 Island
 1 Ipnu Rivulet
 2 Nissa, Who Shakes the World
+2 Growth Spiral
+2 Castle Garenbrig
+2 Hinterland Harbor
 2 Cavalier of Thorns
 2 Nissa's Pilgrimage
 2 World Breaker
-2 Hinterland Harbor
-2 Castle Garenbrig
-2 Growth Spiral
 2 Ugin, the Spirit Dragon
 2 Blast Zone
 2 Arboreal Grazer
@@ -537,9 +537,9 @@
 2 Yavimaya Coast
 3 Hinterland Harbor
 3 Nissa, Who Shakes the World
+3 Castle Garenbrig
 3 Nissa's Pilgrimage
 3 Cavalier of Thorns
-3 Castle Garenbrig
 3 Ugin, the Spirit Dragon
 3 Uro, Titan of Nature's Wrath
 3 Breeding Pool

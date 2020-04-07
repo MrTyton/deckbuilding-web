@@ -1,24 +1,20 @@
-3 Game Trail
-6 Mountain
-1 Llanowar Elves
-1 Elvish Mystic
-2 Elvish Mystic
 2 Llanowar Elves
 3 Llanowar Elves
 3 Elvish Mystic
-1 Questing Beast
-2 Questing Beast
-7 Forest
+6 Mountain
 1 Mana Confluence
+1 Reckless Bushwhacker
+2 Reckless Bushwhacker
 3 Reckless Bushwhacker
-3 Ghor-Clan Rampager
-2 Gallia of the Endless Dance
+4 Experiment One
+3 Zhur-Taa Goblin
+4 Voltaic Brawler
 4 Elvish Mystic
 4 Llanowar Elves
-7 Mountain
-3 Zhur-Taa Goblin
 1 Hazoret the Fervent
 1 Klothys, God of Destiny
+1 Questing Beast
+2 Questing Beast
 3 Embercleave
 4 Game Trail
 1 Goblin Rabblemaster
@@ -29,7 +25,11 @@
 2 Lovestruck Beast
 3 Lovestruck Beast
 4 Lovestruck Beast
+7 Forest
+3 Ghor-Clan Rampager
+2 Gallia of the Endless Dance
 4 Reckless Bushwhacker
+7 Mountain
 1 Hashep Oasis
 2 Hashep Oasis
 1 Dryad Militant
@@ -40,6 +40,8 @@
 2 Legion Warboss
 3 Legion Warboss
 4 Legion Warboss
+1 Heart of Kiran
+2 Heart of Kiran
 1 Bomat Courier
 1 Rakdos Cackler
 1 Anax, Hardened in the Forge
@@ -49,14 +51,6 @@
 4 Bomat Courier
 8 Mountain
 9 Mountain
-1 Zurgo Bellstriker
-1 Firedrinker Satyr
-2 Firedrinker Satyr
-3 Gallia of the Endless Dance
-3 Firedrinker Satyr
-4 Firedrinker Satyr
-1 Heart of Kiran
-2 Heart of Kiran
 2 Hazoret the Fervent
 3 Hashep Oasis
 1 Domri Rade
@@ -64,12 +58,18 @@
 10 Mountain
 1 Lightning Strike
 2 Lightning Strike
+1 Zurgo Bellstriker
+1 Firedrinker Satyr
 2 Rakdos Cackler
+2 Firedrinker Satyr
 3 Rakdos Cackler
 3 Anax, Hardened in the Forge
+3 Gallia of the Endless Dance
+3 Firedrinker Satyr
 4 Anax, Hardened in the Forge
 4 Rakdos Cackler
 4 Gallia of the Endless Dance
+4 Firedrinker Satyr
 3 Domri, Anarch of Bolas
 1 Collected Company
 1 Scavenging Ooze
@@ -81,17 +81,17 @@
 2 Wild Slash
 3 Wild Slash
 1 Castle Embereth
-4 Ghor-Clan Rampager
 4 Questing Beast
 1 Legion Loyalist
 1 Chandra, Fire Artisan
 2 Zurgo Bellstriker
-2 Domri Rade
 1 Rampaging Ferocidon
 2 Scavenging Ooze
 2 Rampaging Ferocidon
 3 Rampaging Ferocidon
 3 Heart of Kiran
+2 Domri Rade
+4 Ghor-Clan Rampager
 1 Domri's Ambush
 2 Domri's Ambush
 3 Domri's Ambush
@@ -108,14 +108,6 @@
 2 Gilded Goose
 3 Glorybringer
 4 Glorybringer
-1 Gruul Turf
-1 Ahn-Crop Crasher
-2 Ahn-Crop Crasher
-2 Gruul Turf
-3 Gruul Turf
-3 Ahn-Crop Crasher
-4 Ahn-Crop Crasher
-4 Gruul Turf
 1 Rhonas the Indomitable
 1 Ghalta, Primal Hunger
 1 Reckless Rage

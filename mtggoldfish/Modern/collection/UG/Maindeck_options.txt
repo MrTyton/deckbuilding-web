@@ -6,73 +6,17 @@
 1 Scalding Tarn
 2 Scalding Tarn
 4 Flooded Strand
-1 Waterlogged Grove
-1 Verdant Catacombs
-1 Forest
-1 Distortion Strike
-1 Spellskite
-1 Inkmoth Nexus
-1 Pendelhaven
-1 Vines of Vastwood
-1 Blighted Agent
-1 Noble Hierarch
-1 Blossoming Defense
-1 Glistener Elf
-1 Mutagenic Growth
-1 Might of Old Krosa
-1 Mishra's Bauble
-1 Become Immense
-1 Scale Up
-2 Become Immense
-2 Pendelhaven
-2 Inkmoth Nexus
-2 Vines of Vastwood
-2 Scale Up
-2 Forest
-2 Verdant Catacombs
-2 Noble Hierarch
-2 Mutagenic Growth
-2 Blossoming Defense
-2 Distortion Strike
-2 Waterlogged Grove
-2 Blighted Agent
-2 Mishra's Bauble
-2 Might of Old Krosa
-2 Glistener Elf
-3 Inkmoth Nexus
-3 Mutagenic Growth
-3 Might of Old Krosa
-3 Vines of Vastwood
-3 Blighted Agent
-3 Mishra's Bauble
-3 Scale Up
-3 Glistener Elf
-3 Blossoming Defense
-3 Noble Hierarch
-4 Inkmoth Nexus
-4 Glistener Elf
-4 Blighted Agent
-4 Might of Old Krosa
-4 Mishra's Bauble
-4 Vines of Vastwood
-4 Noble Hierarch
-4 Mutagenic Growth
 2 Field of Ruin
-1 Windswept Heath
-2 Windswept Heath
 1 Torrential Gearhulk
 1 Lumbering Falls
-1 Wooded Foothills
-2 Spellskite
-2 Wooded Foothills
-3 Become Immense
-3 Verdant Catacombs
 2 Nexus of Fate
 4 Ice-Fang Coatl
 1 Blast Zone
 1 Tranquil Thicket
+1 Windswept Heath
 1 Gilded Goose
 1 Flooded Grove
+1 Waterlogged Grove
 1 Jace, Vryn's Prodigy
 1 Jace, the Mind Sculptor
 1 Ayula's Influence
@@ -86,6 +30,7 @@
 2 Tranquil Thicket
 2 Gilded Goose
 2 Jace, the Mind Sculptor
+2 Windswept Heath
 2 Shape Anew
 2 Life from the Loam
 2 Ayula's Influence
@@ -122,17 +67,17 @@
 2 Island
 2 Spreading Seas
 2 Lord of Atlantis
-2 Mutavault
 2 Cavern of Souls
+2 Mutavault
 3 Spreading Seas
 3 Mutavault
 3 Benthic Biomancer
 3 Dismember
-3 Master of the Pearl Trident
 3 Lord of Atlantis
 3 Merrow Reejerey
 3 Silvergill Adept
 3 Harbinger of the Tides
+3 Master of the Pearl Trident
 3 Island
 3 Aether Vial
 3 Master of Waves
@@ -140,10 +85,10 @@
 4 Spreading Seas
 4 Benthic Biomancer
 4 Mutavault
-4 Merrow Reejerey
 4 Aether Vial
 4 Lord of Atlantis
 4 Harbinger of the Tides
+4 Merrow Reejerey
 4 Master of the Pearl Trident
 4 Silvergill Adept
 5 Island
