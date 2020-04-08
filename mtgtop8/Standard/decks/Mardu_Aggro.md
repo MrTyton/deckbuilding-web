@@ -26,12 +26,3 @@
 |                                                                                               |                                                                                                |                                                                                    |3 [Epic Downfall](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473047)|
 |                                                                                               |                                                                                                |                                                                                    |1 [Legion's End](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466860) |
 
-
-# Other Options
-
-|*n*<sup>th</sup> copy|Maindeck Card|*n*<sup>th</sup> copy|                                           Sideboard Card                                           |
-|---------------------|-------------|--------------------:|----------------------------------------------------------------------------------------------------|
-|                     |             |                    1|[Tibalt, Rakish Instigator](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461073)|
-|                     |             |                    2|[Legion's End](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466860)             |
-|                     |             |                    1|Agonizing Remorse                                                                                   |
-

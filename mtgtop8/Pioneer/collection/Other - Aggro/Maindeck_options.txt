@@ -124,8 +124,8 @@
 4 Bonecrusher Giant
 1 Heart of Kiran
 2 Heart of Kiran
-3 Heart of Kiran
 3 Scrapheap Scrounger
+3 Heart of Kiran
 4 Scrapheap Scrounger
 1 Satyr Wayfinder
 2 Satyr Wayfinder
@@ -247,19 +247,19 @@
 4 Staggering Insight
 4 Curious Obsession
 4 Steam Vents
-1 Collected Company
+1 Elvish Mystic
 1 Bygone Bishop
 1 Shared Summons
+1 Collected Company
 1 Radiant Fountain
-1 Elvish Mystic
 1 Fortified Village
 1 Militia Bugler
+2 Elvish Mystic
 2 Collected Company
 2 Shared Summons
 2 Radiant Fountain
 2 Fortified Village
 2 Militia Bugler
-2 Elvish Mystic
 3 Elvish Mystic
 3 Collected Company
 3 Radiant Fountain
@@ -275,8 +275,8 @@
 1 Ramunap Excavator
 1 Hissing Quagmire
 1 Polukranos, Unchained
-1 Thrashing Brontodon
 1 Ishkanah, Grafwidow
+1 Thrashing Brontodon
 1 Traverse the Ulvenwald
 2 Liliana, the Last Hope
 2 Hissing Quagmire
@@ -289,12 +289,12 @@
 4 Traverse the Ulvenwald
 4 Blooming Marsh
 1 Anguished Unmaking
+1 Liliana, Dreadhorde General
 1 Bolas's Citadel
 1 Archangel of Tithes
 1 Temple of Silence
 1 Seraph of the Scales
 1 Shalai, Voice of Plenty
-1 Liliana, Dreadhorde General
 1 Lyra Dawnbringer
 1 Bishop of Wings
 1 Gisela, the Broken Blade
@@ -314,7 +314,7 @@
 4 Temple of Silence
 4 Resplendent Angel
 4 Bishop of Wings
-1 Reckless Bushwhacker
+1 Shefet Dunes
 1 Legion's Landing
 1 Lightning Strike
 1 Secure the Wastes
@@ -323,16 +323,15 @@
 1 Raise the Alarm
 1 Servo Exhibition
 1 Battlefield Forge
-1 Shefet Dunes
-2 Reckless Bushwhacker
+1 Reckless Bushwhacker
 2 Legion's Landing
+2 Shefet Dunes
 2 Lightning Strike
 2 Toolcraft Exemplar
 2 Raise the Alarm
 2 Battlefield Forge
-2 Shefet Dunes
+2 Reckless Bushwhacker
 2 Servo Exhibition
-3 Reckless Bushwhacker
 3 Legion's Landing
 3 Lightning Strike
 3 Toolcraft Exemplar
@@ -340,6 +339,7 @@
 3 Benalish Marshal
 3 Battlefield Forge
 3 Raise the Alarm
+3 Reckless Bushwhacker
 4 Legion's Landing
 4 Reckless Bushwhacker
 4 Inspiring Vantage
@@ -489,8 +489,8 @@
 2 Wild Slash
 2 Dragonskull Summit
 2 Spike Jester
-2 Chandra, Torch of Defiance
 2 Rekindling Phoenix
+2 Chandra, Torch of Defiance
 2 Goblin Rabblemaster
 2 Unlicensed Disintegration
 3 Wild Slash
