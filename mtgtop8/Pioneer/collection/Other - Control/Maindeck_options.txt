@@ -1,18 +1,29 @@
-2 Kroxa, Titan of Death's Hunger
-3 Blood Crypt
-3 Kroxa, Titan of Death's Hunger
-4 Fabled Passage
-4 Blood Crypt
+4 Bonecrusher Giant
+1 Discovery / Dispersal
+2 Discovery / Dispersal
+3 Discovery / Dispersal
+4 Discovery / Dispersal
+4 Dreadbore
+1 Canyon Slough
+2 Canyon Slough
+3 Canyon Slough
+4 Dragonskull Summit
+2 Oath of Kaya
+3 Godless Shrine
+3 Glacial Fortress
+1 Liliana, the Last Hope
+1 Murderous Rider
+2 Liliana, the Last Hope
 1 Forest
 1 Satyr Wayfinder
 2 Satyr Wayfinder
 3 Satyr Wayfinder
-1 Nissa, Who Shakes the World
 4 Satyr Wayfinder
+1 Nissa, Who Shakes the World
 1 Emrakul, the Promised End
+2 Murderous Rider
 1 Questing Beast
 1 Abrupt Decay
-1 Murderous Rider
 1 Traverse the Ulvenwald
 1 Overgrown Tomb
 1 Walking Ballista
@@ -25,6 +36,8 @@
 2 Overgrown Tomb
 3 Blooming Marsh
 4 Blooming Marsh
+3 Teferi, Time Raveler
+1 Teferi, Hero of Dominaria
 2 Forest
 1 Breeding Pool
 2 Breeding Pool
@@ -32,25 +45,12 @@
 4 Breeding Pool
 1 Uro, Titan of Nature's Wrath
 2 Uro, Titan of Nature's Wrath
-1 Bonecrusher Giant
-2 Bonecrusher Giant
+1 Search for Azcanta
+1 Thirst for Meaning
+1 Omen of the Sea
 1 Fetid Pools
 1 Narset, Parter of Veils
-3 Shambling Vent
-3 Oath of Kaya
-2 Plains
-3 Plains
-4 Plains
-1 Treacherous Blessing
-1 History of Benalia
-2 History of Benalia
-2 Treacherous Blessing
-3 History of Benalia
-3 Treacherous Blessing
-3 Isolated Chapel
-4 Godless Shrine
-4 Treacherous Blessing
-1 Liliana, the Last Hope
+1 Vraska's Contempt
 1 Ipnu Rivulet
 3 Uro, Titan of Nature's Wrath
 4 Uro, Titan of Nature's Wrath
@@ -58,35 +58,27 @@
 2 Stomping Ground
 3 Forest
 4 Forest
-1 Castle Ardenvale
-1 Irrigated Farmland
 1 Elspeth, Sun's Champion
-1 Vraska's Contempt
-1 Gideon of the Trials
-1 Elspeth Conquers Death
+1 Irrigated Farmland
 1 Champion of Wits
+1 Elspeth Conquers Death
 1 Concealed Courtyard
+1 Elspeth, Sun's Nemesis
 1 Thought Erasure
 1 Cast Down
-1 Elspeth, Sun's Nemesis
 1 Hero's Downfall
 2 Cast Down
 2 Concealed Courtyard
 2 Search for Azcanta
 3 Cast Down
 3 Concealed Courtyard
-3 Hallowed Fountain
-4 Hallowed Fountain
+1 Foreboding Ruins
+1 Kolaghan's Command
+2 Kolaghan's Command
+2 Foreboding Ruins
+3 Kolaghan's Command
 1 Hinterland Harbor
 2 Nissa, Who Shakes the World
-3 Bonecrusher Giant
-1 Dragonskull Summit
-2 Dreadbore
-2 Dragonskull Summit
-3 Dragonskull Summit
-3 Dreadbore
-4 Kroxa, Titan of Death's Hunger
-1 Blast Zone
 1 Ugin, the Spirit Dragon
 1 Castle Garenbrig
 1 Cavalier of Thorns
@@ -94,12 +86,12 @@
 2 Castle Garenbrig
 2 Ugin, the Spirit Dragon
 2 Ipnu Rivulet
-2 Hinterland Harbor
 1 Steam Vents
 2 Steam Vents
 3 Steam Vents
 3 Stomping Ground
 4 Stomping Ground
+2 Hinterland Harbor
 1 Kozilek's Return
 1 Elder Deep-Fiend
 2 Champion of Wits
@@ -111,58 +103,60 @@
 3 Champion of Wits
 4 Elder Deep-Fiend
 4 Kozilek's Return
-1 Chandra, Torch of Defiance
-2 Chandra, Torch of Defiance
-3 Mountain
-1 The Birth of Meletis
-2 The Birth of Meletis
-3 The Birth of Meletis
+1 Isolated Chapel
+1 Glorybringer
+3 Hallowed Fountain
+4 Hallowed Fountain
 2 Abrupt Decay
 3 Overgrown Tomb
 4 Overgrown Tomb
-1 Starfield of Nyx
-2 Starfield of Nyx
-5 Plains
-1 Cast Out
-2 Cast Out
-3 Cast Out
-4 Isolated Chapel
-4 Trial of Ambition
-4 Shambling Vent
-4 History of Benalia
-4 Bonecrusher Giant
-1 Final Payment
-2 Final Payment
-1 Vraska, Golgari Queen
-1 Glorybringer
+1 Gideon of the Trials
 1 Opt
 2 Opt
 3 Opt
-2 Murderous Rider
+1 Trial of Ambition
+1 Doom Foretold
+2 Trial of Ambition
+2 Doom Foretold
+2 Isolated Chapel
+3 Trial of Ambition
+3 Doom Foretold
+4 Doom Foretold
+1 Castle Ardenvale
+1 Blast Zone
+1 Vraska, Golgari Queen
 2 Tireless Tracker
 3 Traverse the Ulvenwald
-1 Discovery / Dispersal
-2 Discovery / Dispersal
-3 Discovery / Dispersal
-4 Discovery / Dispersal
-4 Dreadbore
-1 Canyon Slough
-2 Canyon Slough
-3 Canyon Slough
-4 Dragonskull Summit
-2 Castle Locthwain
-4 Swamp
+3 Shambling Vent
+2 Plains
+3 Plains
+1 The Birth of Meletis
+2 The Birth of Meletis
+3 The Birth of Meletis
+3 Oath of Kaya
+4 Plains
+1 Treacherous Blessing
+1 History of Benalia
+1 Starfield of Nyx
+2 History of Benalia
+2 Treacherous Blessing
+2 Starfield of Nyx
+3 History of Benalia
+3 Treacherous Blessing
+3 Isolated Chapel
+4 Godless Shrine
+4 Treacherous Blessing
+5 Plains
 1 Arboreal Grazer
 1 Llanowar Elves
 2 Arboreal Grazer
 3 Arboreal Grazer
 3 Ipnu Rivulet
 3 Supreme Verdict
-2 Liliana, the Last Hope
 1 Tamiyo, Collector of Tales
-2 Gideon of the Trials
 1 Detention Sphere
 2 Detention Sphere
+2 Gideon of the Trials
 2 Blast Zone
 1 Field of Ruin
 5 Forest
@@ -204,6 +198,9 @@
 2 Hero's Downfall
 2 Thirst for Meaning
 2 Thought Erasure
+1 Goblin Dark-Dwellers
+2 Goblin Dark-Dwellers
+3 Foreboding Ruins
 1 Courser of Kruphix
 1 Deathrite Shaman
 1 Distended Mindbender
@@ -216,10 +213,15 @@
 2 Island
 2 Jace, Vryn's Prodigy
 3 Jace, Vryn's Prodigy
+1 Mire Triton
+2 Glorybringer
+2 Mire Triton
+3 Glorybringer
+3 Chandra, Torch of Defiance
+4 Canyon Slough
 1 Sphinx's Revelation
 1 Syncopate
 1 Lumbering Falls
-1 Seal Away
 1 Negate
 1 Sunpetal Grove
 1 Castle Vantress
@@ -227,6 +229,7 @@
 1 Temple Garden
 1 Sinister Sabotage
 1 Azorius Charm
+1 Seal Away
 2 Negate
 2 Azorius Charm
 2 Sinister Sabotage
@@ -239,22 +242,17 @@
 1 Demonic Pact
 1 Flicker of Fate
 1 The Eldest Reborn
+1 Final Payment
 2 Demonic Pact
 2 The Eldest Reborn
+2 Final Payment
 3 Demonic Pact
 4 Demonic Pact
-1 Quicken
-1 Nicol Bolas, the Ravager
-2 Quicken
-2 Nicol Bolas, the Ravager
-3 Quicken
-3 Nicol Bolas, the Ravager
-4 Nicol Bolas, the Ravager
 1 Nissa, Vastwood Seer
 1 Polukranos, Unchained
-1 Assassin's Trophy
 1 Thrashing Brontodon
 1 Scrapheap Scrounger
+1 Assassin's Trophy
 1 Hissing Quagmire
 1 Ramunap Excavator
 1 Tasigur, the Golden Fang
@@ -273,6 +271,13 @@
 3 Dance of the Manse
 3 Omen of the Sea
 4 Omen of the Sea
+1 Quicken
+1 Nicol Bolas, the Ravager
+2 Quicken
+2 Nicol Bolas, the Ravager
+3 Quicken
+3 Nicol Bolas, the Ravager
+4 Nicol Bolas, the Ravager
 1 Sylvan Caryatid
 2 Sylvan Caryatid
 4 Champion of Wits
@@ -284,8 +289,8 @@
 1 Absorb
 2 Fetid Pools
 2 Void Shatter
-2 Censor
 2 Glimmer of Genius
+2 Censor
 2 Dovin's Veto
 3 Void Shatter
 3 Censor
@@ -293,8 +298,8 @@
 3 Teferi, Hero of Dominaria
 4 Drowned Catacomb
 4 Glacial Fortress
-1 Dive Down
 1 Mizzium Mortars
+1 Dive Down
 1 Living Twister
 1 Chandra, Acolyte of Flame
 1 Risen Reef
@@ -306,13 +311,13 @@
 1 Young Pyromancer
 2 Chart a Course
 2 Chandra, Acolyte of Flame
+2 Treasure Cruise
 2 Dive Down
+2 Mizzium Mortars
 2 Wild Slash
 2 Fiery Impulse
 2 Risen Reef
 2 Young Pyromancer
-2 Mizzium Mortars
-2 Treasure Cruise
 3 Chart a Course
 3 Botanical Sanctum
 3 Spirebluff Canal
@@ -327,43 +332,28 @@
 4 Risen Reef
 4 Young Pyromancer
 4 Wild Slash
-1 Foreboding Ruins
-1 Kolaghan's Command
-1 Mire Triton
-2 Glorybringer
-2 Kolaghan's Command
-2 Foreboding Ruins
-2 Mire Triton
-3 Chandra, Torch of Defiance
-3 Glorybringer
-3 Kolaghan's Command
-4 Canyon Slough
-1 Aphemia, the Cacophony
-1 Tymaret Calls the Dead
-1 Temple of Silence
-2 Temple of Silence
-2 Tymaret Calls the Dead
-2 Aphemia, the Cacophony
-3 Tymaret Calls the Dead
-3 Aphemia, the Cacophony
-3 Final Payment
-4 Aphemia, the Cacophony
-4 Final Payment
 1 Sigil of the Empty Throne
 1 Urborg, Tomb of Yawgmoth
 1 Kaya's Wrath
 1 Torment of Hailfire
+1 Cast Out
+2 Cast Out
 2 Kaya's Wrath
+3 Cast Out
 3 Kaya's Wrath
+4 Isolated Chapel
+4 Trial of Ambition
 4 Kaya's Wrath
+4 Shambling Vent
+4 History of Benalia
 4 Cast Out
 4 Arboreal Grazer
 1 Haktos the Unscarred
 1 Brimaz, King of Oreskos
 1 Inspiring Vantage
+1 Needle Spires
 1 Lightning Strike
 1 Heart of Kiran
-1 Needle Spires
 1 Shatter the Sky
 1 Lava Coil
 2 Haktos the Unscarred
@@ -383,26 +373,28 @@
 4 Gideon of the Trials
 4 Inspiring Vantage
 4 Lightning Strike
-1 Doom Blade
 1 Bedevil
-1 Languish
-1 Arguel's Blood Fast
 1 Agonizing Remorse
+1 Doom Blade
+1 Arguel's Blood Fast
 1 Ob Nixilis Reignited
+1 Languish
 1 Chandra, Flamecaller
 1 Read the Bones
+2 Castle Locthwain
 2 Bedevil
 2 Agonizing Remorse
 2 Chandra, Flamecaller
 2 Vraska's Contempt
 2 Read the Bones
 3 Read the Bones
+4 Swamp
 4 Read the Bones
 5 Swamp
 1 Hydroid Krasis
-1 Thought-Knot Seer
 1 World Breaker
 1 Yavimaya Coast
+1 Thought-Knot Seer
 1 Nissa's Pilgrimage
 2 Thought-Knot Seer
 2 World Breaker

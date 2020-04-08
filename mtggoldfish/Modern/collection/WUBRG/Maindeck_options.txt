@@ -39,12 +39,12 @@
 3 City of Brass
 3 Neoform
 3 Chancellor of the Tangle
-4 Glittering Wish
 4 Nourishing Shoal
 4 Summoner's Pact
 4 Allosaurus Rider
 4 City of Brass
 4 Manamorphose
+4 Glittering Wish
 4 Eldritch Evolution
 4 Gemstone Mine
 4 Chancellor of the Tangle
@@ -67,9 +67,9 @@
 1 Island
 1 Steam Vents
 1 Felidar Guardian
+1 Niv-Mizzet Reborn
 1 Arid Mesa
 1 Bring to Light
-1 Niv-Mizzet Reborn
 1 Saheeli Rai
 1 Assassin's Trophy
 1 Blood Crypt
@@ -89,8 +89,8 @@
 3 Bring to Light
 4 Bring to Light
 4 Felidar Guardian
-4 Arid Mesa
 4 Saheeli Rai
+4 Arid Mesa
 4 Botanical Sanctum
 1 Verdant Catacombs
 2 Verdant Catacombs
@@ -111,8 +111,8 @@
 1 Drown in Filth
 2 Overgrown Tomb
 2 Satyr Wayfinder
-2 Merfolk Secretkeeper
 2 Jace, Vryn's Prodigy
+2 Merfolk Secretkeeper
 2 Creeping Chill
 2 Claim/Fame
 2 Skaab Ruinator
@@ -124,10 +124,10 @@
 2 Unearth
 2 Drown in Filth
 2 Polluted Delta
-3 Merfolk Secretkeeper
 3 Darkslick Shores
 3 Satyr Wayfinder
 3 Jace, Vryn's Prodigy
+3 Merfolk Secretkeeper
 3 Hedron Crab
 3 Claim/Fame
 3 Vengevine
@@ -137,21 +137,21 @@
 3 Drown in Filth
 3 Stitcher's Supplier
 3 Gravecrawler
-4 Merfolk Secretkeeper
 4 Satyr Wayfinder
 4 Polluted Delta
 4 Hedron Crab
 4 Stitcher's Supplier
+4 Merfolk Secretkeeper
 4 Vengevine
 3 Scalding Tarn
 3 Birds of Paradise
 4 Birds of Paradise
 1 Hallowed Fountain
 2 Snow-Covered Forest
-1 Waterlogged Grove
-1 Dissenter's Deliverance
 1 Pact of Negation
 1 Safewright Quest
+1 Waterlogged Grove
+1 Dissenter's Deliverance
 1 Grand Abolisher
 1 Time Wipe
 2 Grand Abolisher
@@ -172,9 +172,9 @@
 1 Prime Speaker Vannifar
 1 Chord of Calling
 1 Renegade Rallier
+1 Voice of Resurgence
 1 Gilded Goose
 1 Scavenging Ooze
-1 Voice of Resurgence
 1 Bounding Krasis
 1 Corridor Monitor
 1 Snow-Covered Island
@@ -184,14 +184,14 @@
 2 Wall of Roots
 2 Prime Speaker Vannifar
 2 Chord of Calling
-2 Gilded Goose
 2 Voice of Resurgence
+2 Gilded Goose
 2 Stomping Ground
 2 Restoration Angel
 3 Prime Speaker Vannifar
-3 Chord of Calling
 3 Voice of Resurgence
 3 Wall of Roots
+3 Chord of Calling
 4 Prime Speaker Vannifar
 4 Voice of Resurgence
 4 Wall of Roots

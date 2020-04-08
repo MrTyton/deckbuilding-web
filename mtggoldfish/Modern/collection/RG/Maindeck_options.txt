@@ -1,43 +1,11 @@
 1 Mountain
 1 Forest
 4 Utopia Sprawl
-2 Chandra, Torch of Defiance
-1 Primeval Titan
-1 Explore
-1 Search for Tomorrow
-1 Valakut, the Molten Pinnacle
-1 Cinder Glade
-2 Valakut, the Molten Pinnacle
-2 Primeval Titan
-2 Explore
-2 Search for Tomorrow
-3 Search for Tomorrow
-4 Search for Tomorrow
-1 Summoner's Pact
-1 Scapeshift
-1 Sakura-Tribe Elder
-1 Farseek
-2 Summoner's Pact
-2 Scapeshift
-2 Cinder Glade
-2 Farseek
-2 Mountain
-2 Sakura-Tribe Elder
-3 Primeval Titan
-3 Farseek
-3 Valakut, the Molten Pinnacle
-3 Scapeshift
-3 Sakura-Tribe Elder
-3 Mountain
-4 Primeval Titan
-4 Sakura-Tribe Elder
-4 Scapeshift
-1 Sheltered Thicket
-1 Field of the Dead
 1 Blood Moon
 1 Stone Rain
 1 Birds of Paradise
 1 Karn, the Great Creator
+2 Chandra, Torch of Defiance
 2 Blood Moon
 2 Karn, the Great Creator
 2 Stone Rain
@@ -46,13 +14,45 @@
 3 Karn, the Great Creator
 4 Arbor Elf
 4 Karn, the Great Creator
+1 Summoner's Pact
+1 Primeval Titan
+1 Explore
+1 Scapeshift
+1 Search for Tomorrow
+1 Valakut, the Molten Pinnacle
+1 Cinder Glade
+1 Farseek
+1 Sakura-Tribe Elder
+2 Summoner's Pact
+2 Valakut, the Molten Pinnacle
+2 Primeval Titan
+2 Explore
+2 Scapeshift
+2 Search for Tomorrow
+2 Cinder Glade
+2 Farseek
+2 Mountain
+2 Sakura-Tribe Elder
+3 Primeval Titan
+3 Farseek
+3 Search for Tomorrow
+3 Valakut, the Molten Pinnacle
+3 Scapeshift
+3 Sakura-Tribe Elder
+3 Mountain
+4 Primeval Titan
+4 Sakura-Tribe Elder
+4 Scapeshift
+4 Search for Tomorrow
 2 Forest
+1 Sheltered Thicket
+1 Field of the Dead
 1 Relic of Progenitus
 1 Tireless Tracker
 1 Mwonvuli Acid-Moss
-2 Relic of Progenitus
 2 Mwonvuli Acid-Moss
 2 Sheltered Thicket
+2 Relic of Progenitus
 3 Snow-Covered Mountain
 1 Thrun, the Last Troll
 3 Hexdrinker
@@ -64,11 +64,11 @@
 6 Forest
 7 Forest
 8 Forest
+1 Inferno Titan
 1 Courser of Kruphix
 2 Courser of Kruphix
-1 Verdant Catacombs
-1 Inferno Titan
 1 Tarmogoyf
+1 Verdant Catacombs
 1 Misty Rainforest
 2 Tarmogoyf
 3 Tarmogoyf
@@ -76,31 +76,12 @@
 1 Chandra, Acolyte of Flame
 4 Molten Rain
 4 Hexdrinker
-1 Dryad of the Ilysian Grove
-1 Tranquil Thicket
-1 Forgotten Cave
-1 Raging Ravine
-1 Mina and Denn, Wildborn
-1 Ghost Quarter
-2 Verdant Catacombs
-2 Field of the Dead
-2 Raging Ravine
-2 Forgotten Cave
-2 Ghost Quarter
-2 Dryad of the Ilysian Grove
-3 Verdant Catacombs
-3 Courser of Kruphix
-3 Dryad of the Ilysian Grove
-3 Explore
-4 Dryad of the Ilysian Grove
-4 Wrenn and Six
-4 Explore
 1 Abrade
 1 Chandra, Awakened Inferno
 1 Glorybringer
+1 Prismatic Vista
 1 Questing Beast
 1 Blast Zone
-1 Prismatic Vista
 2 Abrade
 2 Glorybringer
 5 Snow-Covered Forest
@@ -115,11 +96,11 @@
 2 Solemn Simulacrum
 2 Scalding Tarn
 2 Obstinate Baloth
-3 Summoner's Pact
 3 Solemn Simulacrum
+3 Summoner's Pact
 4 Valakut, the Molten Pinnacle
-4 Farseek
 4 Mountain
+4 Farseek
 5 Mountain
 6 Mountain
 7 Mountain

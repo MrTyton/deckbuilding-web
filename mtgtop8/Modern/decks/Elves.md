@@ -32,9 +32,9 @@
 
 |*n*<sup>th</sup> copy|                                        Maindeck Card                                        |*n*<sup>th</sup> copy|                                         Sideboard Card                                          |
 |--------------------:|---------------------------------------------------------------------------------------------|--------------------:|-------------------------------------------------------------------------------------------------|
-|                    1|[Overgrown Tomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405103)    |                    1|[Nissa, Vital Force](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417736)    |
-|                    1|[Nurturing Peatland](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464192)|                    1|[Plague Engineer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464049)       |
-|                    1|[Elvish Visionary](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=175124)  |                    1|[Shapers' Sanctuary](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435362)    |
+|                    1|[Overgrown Tomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405103)    |                    1|[Shapers' Sanctuary](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435362)    |
+|                    1|[Nurturing Peatland](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464192)|                    1|[Nissa, Vital Force](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417736)    |
+|                    1|[Elvish Visionary](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=175124)  |                    1|[Plague Engineer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464049)       |
 |                    1|[Westvale Abbey](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=410049)    |                    1|[Pithing Needle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129526)        |
 |                    1|[Once Upon a Time](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473131)  |                    1|[Steel Leaf Champion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443070)   |
 |                    1|[Elvish Champion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129534)   |                    1|[Phyrexian Revoker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383343)     |
@@ -47,7 +47,7 @@
 |                    3|[Nettle Sentinel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442171)   |                     |                                                                                                 |
 |                    4|[Overgrown Tomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405103)    |                     |                                                                                                 |
 |                    4|[Nettle Sentinel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442171)   |                     |                                                                                                 |
-|                    4|[Elvish Clancaller](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447315) |                     |                                                                                                 |
 |                    6|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)            |                     |                                                                                                 |
 |                    7|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)            |                     |                                                                                                 |
+|                    4|[Elvish Clancaller](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447315) |                     |                                                                                                 |
 
