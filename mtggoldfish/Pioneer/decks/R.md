@@ -27,8 +27,8 @@
 
 |*n*<sup>th</sup> copy|                                        Maindeck Card                                        |*n*<sup>th</sup> copy|                                        Sideboard Card                                         |
 |--------------------:|---------------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------------|
-|                    1|[Skewer the Critics](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457259)|                    1|[Ash Zealot](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=253623)          |
-|                    1|[Shock](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129732)             |                    1|[Scab-Clan Berserker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=398461) |
+|                    1|[Shock](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129732)             |                    1|[Ash Zealot](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=253623)          |
+|                    1|[Skewer the Critics](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457259)|                    1|[Scab-Clan Berserker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=398461) |
 |                    1|[Ash Zealot](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=253623)        |                    1|[Rampaging Ferocidon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435308) |
 |                    1|[Zurgo Bellstriker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394748) |                    1|[Kari Zev's Expertise](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423755)|
 |                    2|[Skewer the Critics](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457259)|                    1|[Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)              |

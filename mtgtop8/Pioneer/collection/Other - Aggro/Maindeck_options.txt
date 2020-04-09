@@ -41,11 +41,11 @@
 2 Temple of Plenty
 2 Sphere of Safety
 3 Setessan Champion
+3 Banishing Light
 3 Temple of Plenty
 3 Eidolon of Blossoms
 3 Wolfwillow Haven
 3 Herald of the Pantheon
-3 Banishing Light
 4 Banishing Light
 4 Temple of Plenty
 4 Eidolon of Blossoms
@@ -205,8 +205,8 @@
 2 Inspiring Vantage
 3 Inspiring Vantage
 4 Sacred Foundry
-1 Gods Willing
 1 Curious Obsession
+1 Gods Willing
 1 Monastery Swiftspear
 1 Staggering Insight
 1 Reckless Rage
@@ -221,12 +221,12 @@
 1 Sentinel's Eyes
 2 Curious Obsession
 2 Monastery Swiftspear
-2 Gods Willing
 2 Staggering Insight
 2 Reckless Rage
 2 Tenth District Legionnaire
 2 Defiant Strike
 2 Faerie Vandal
+2 Gods Willing
 2 The Royal Scions
 2 Favored Hoplite
 2 Steam Vents
@@ -349,7 +349,6 @@
 3 Bomat Courier
 4 Bomat Courier
 1 Reckless Bushwhacker
-1 Shefet Dunes
 1 Legion's Landing
 1 Lightning Strike
 1 Secure the Wastes
@@ -358,13 +357,14 @@
 1 Servo Exhibition
 1 Battlefield Forge
 1 Raise the Alarm
+1 Shefet Dunes
 2 Reckless Bushwhacker
 2 Legion's Landing
-2 Shefet Dunes
 2 Lightning Strike
 2 Toolcraft Exemplar
 2 Raise the Alarm
 2 Battlefield Forge
+2 Shefet Dunes
 2 Servo Exhibition
 3 Reckless Bushwhacker
 3 Legion's Landing
@@ -487,9 +487,9 @@
 3 Tireless Tracker
 3 Dreadhorde Butcher
 3 Blood Crypt
+4 Dreadhorde Butcher
 4 Tireless Tracker
 4 Foreboding Ruins
-4 Dreadhorde Butcher
 4 Blood Crypt
 4 Bonecrusher Giant
 1 Metallic Rebuke

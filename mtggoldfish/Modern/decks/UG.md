@@ -74,7 +74,7 @@
 |                    3|[Jace, Vryn's Prodigy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=398434)   |                     |                                                                                                  |
 |                    3|[Snow-Covered Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121192)    |                     |                                                                                                  |
 |                    3|[Gilded Goose](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473122)           |                     |                                                                                                  |
-|                    4|[Gilded Goose](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473122)           |                     |                                                                                                  |
 |                    4|[Breeding Pool](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=97088)           |                     |                                                                                                  |
+|                    4|[Gilded Goose](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473122)           |                     |                                                                                                  |
 |                    4|[Shape Anew](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=194201)             |                     |                                                                                                  |
 

@@ -24,8 +24,8 @@
 1 Primeval Titan
 2 Crop Rotation
 2 Once Upon a Time
-3 Crop Rotation
 3 Once Upon a Time
+3 Crop Rotation
 4 Once Upon a Time
 1 Basalt Monolith
 2 Karakas
@@ -49,8 +49,8 @@
 1 Dunes of the Dead
 2 Lodestone Golem
 2 Ratchet Bomb
-2 Wasteland
 2 Karn, Scion of Urza
+2 Wasteland
 2 Tangle Wire
 2 Smokestack
 2 Mishra's Factory
@@ -75,40 +75,40 @@
 4 Metalworker
 4 Eldrazi Temple
 1 Green Sun's Zenith
+1 Forest
 1 Brainstorm
-1 Island
-1 Reclamation Sage
 1 Tropical Island
 1 Elvish Reclaimer
+1 Island
 1 Trickbind
 1 Uro, Titan of Nature's Wrath
 1 Misty Rainforest
-1 Forest
-2 Uro, Titan of Nature's Wrath
+1 Reclamation Sage
 2 Tropical Island
-2 Green Sun's Zenith
 2 Forest
+2 Green Sun's Zenith
+2 Uro, Titan of Nature's Wrath
 2 Brainstorm
 2 Elvish Reclaimer
 2 Trickbind
 2 Misty Rainforest
 3 Tropical Island
-3 Brainstorm
 3 Green Sun's Zenith
 3 Misty Rainforest
+3 Brainstorm
 3 Elvish Reclaimer
 3 Trickbind
 4 Misty Rainforest
-4 Green Sun's Zenith
-4 Brainstorm
 4 Elvish Reclaimer
 4 Tropical Island
+4 Green Sun's Zenith
 4 Trickbind
-1 Snow-Covered Forest
+4 Brainstorm
 1 Pithing Needle
 1 Expedition Map
 1 Summoning Trap
 1 Kozilek, the Great Distortion
+1 Snow-Covered Forest
 1 Elvish Rejuvenator
 2 Snow-Covered Forest
 2 Cavern of Souls
@@ -117,9 +117,9 @@
 2 Elvish Rejuvenator
 2 Expedition Map
 2 Primeval Titan
+3 Snow-Covered Forest
 3 Pithing Needle
 3 Primeval Titan
-3 Snow-Covered Forest
 3 Summoning Trap
 3 Expedition Map
 3 Elvish Rejuvenator
