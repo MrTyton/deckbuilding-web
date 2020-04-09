@@ -6,8 +6,6 @@
 3 Witch's Oven
 4 Cauldron Familiar
 4 Witch's Oven
-1 Temple of Malice
-2 Temple of Malice
 1 Mayhem Devil
 2 Mayhem Devil
 3 Mayhem Devil
@@ -16,23 +14,27 @@
 2 Claim the Firstborn
 3 Claim the Firstborn
 4 Fabled Passage
-1 Judith, the Scourge Diva
 1 Dreadhorde Butcher
 2 Dreadhorde Butcher
+1 Temple of Malice
+2 Temple of Malice
+4 Claim the Firstborn
+3 Dreadhorde Butcher
+4 Dreadhorde Butcher
+1 Priest of Forgotten Gods
+2 Priest of Forgotten Gods
+1 Judith, the Scourge Diva
 2 Judith, the Scourge Diva
 7 Mountain
 8 Mountain
 1 Footlight Fiend
 2 Footlight Fiend
-3 Dreadhorde Butcher
 3 Footlight Fiend
-4 Dreadhorde Butcher
 3 Temple of Malice
-4 Claim the Firstborn
+3 Priest of Forgotten Gods
+4 Priest of Forgotten Gods
 1 Woe Strider
-1 Priest of Forgotten Gods
 2 Woe Strider
-2 Priest of Forgotten Gods
 3 Judith, the Scourge Diva
 4 Judith, the Scourge Diva
 7 Swamp
@@ -47,24 +49,34 @@
 3 Fervent Champion
 4 Fervent Champion
 9 Mountain
-1 Drill Bit
-2 Drill Bit
-3 Drill Bit
 1 Lampad of Death's Vigil
 1 Gingerbrute
 2 Gingerbrute
 2 Lampad of Death's Vigil
 3 Gingerbrute
-3 Priest of Forgotten Gods
-4 Priest of Forgotten Gods
+1 Drill Bit
+2 Drill Bit
+3 Drill Bit
+1 Cling to Dust
+1 Dreadhorde Arcanist
+1 Vicious Rumors
+2 Dreadhorde Arcanist
+2 Vicious Rumors
+3 Vicious Rumors
+3 Midnight Reaper
+3 Dreadhorde Arcanist
+3 Woe Strider
+4 Temple of Malice
+4 Vicious Rumors
+4 Dreadhorde Arcanist
 1 Torbran, Thane of Red Fell
 1 Act of Treason
 1 Tin Street Dodger
 1 Castle Embereth
+1 Light Up the Stage
 1 Cavalcade of Calamity
 1 Grim Initiate
 1 Anax, Hardened in the Forge
-1 Light Up the Stage
 2 Chandra, Acolyte of Flame
 2 Tin Street Dodger
 2 Torbran, Thane of Red Fell
@@ -81,23 +93,19 @@
 4 Cavalcade of Calamity
 4 Tin Street Dodger
 4 Grim Initiate
+1 Tymaret Calls the Dead
+2 Tymaret Calls the Dead
+3 Rankle, Master of Pranks
+3 Tymaret Calls the Dead
+4 Kroxa, Titan of Death's Hunger
+4 Castle Locthwain
+4 Rankle, Master of Pranks
+4 Tymaret Calls the Dead
 1 Heartfire
 2 Heartfire
 3 Heartfire
 4 Footlight Fiend
 4 Heartfire
-1 Cling to Dust
-1 Dreadhorde Arcanist
-1 Vicious Rumors
-2 Dreadhorde Arcanist
-2 Vicious Rumors
-3 Vicious Rumors
-3 Midnight Reaper
-3 Dreadhorde Arcanist
-3 Woe Strider
-4 Temple of Malice
-4 Dreadhorde Arcanist
-4 Vicious Rumors
 1 Legion Warboss
 1 Robber of the Rich
 1 Rix Maadi Reveler

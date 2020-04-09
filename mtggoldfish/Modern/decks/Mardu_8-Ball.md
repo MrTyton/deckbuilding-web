@@ -43,8 +43,8 @@
 |                     |                                                                                               |                    4|[Fulminator Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397686)       |
 |                     |                                                                                               |                    1|[Liliana, the Last Hope](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414388)|
 |                     |                                                                                               |                    1|[Spitebellows](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376515)          |
-|                     |                                                                                               |                    1|[Gifted Aetherborn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423728)     |
-|                     |                                                                                               |                    2|[Gifted Aetherborn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423728)     |
 |                     |                                                                                               |                    1|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)        |
 |                     |                                                                                               |                    2|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)        |
+|                     |                                                                                               |                    1|[Gifted Aetherborn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423728)     |
+|                     |                                                                                               |                    2|[Gifted Aetherborn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423728)     |
 

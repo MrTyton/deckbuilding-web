@@ -1,9 +1,8 @@
+1 Collision/Colossus
 2 Collision/Colossus
 3 Fabled Passage
-4 Zhur-Taa Goblin
 1 Skarrgan Hellkite
 4 Temple of Abandon
-4 Fabled Passage
 1 Ilharg, the Raze-Boar
 1 Domri, Anarch of Bolas
 2 Domri, Anarch of Bolas
@@ -12,14 +11,7 @@
 2 Rimrock Knight
 3 Rimrock Knight
 4 Rimrock Knight
-1 Nullhide Ferox
-2 Nullhide Ferox
-3 Nullhide Ferox
-4 Nullhide Ferox
-1 The Great Henge
-1 God-Eternal Rhonas
-2 The Great Henge
-2 God-Eternal Rhonas
+4 Fabled Passage
 4 Embercleave
 2 Ilharg, the Raze-Boar
 3 Ilharg, the Raze-Boar
@@ -46,8 +38,8 @@
 2 Rhythm of the Wild
 2 Drakuseth, Maw of Flames
 2 Golden Egg
-3 Storm's Wrath
 3 Purphoros, Bronze-Blooded
+3 Storm's Wrath
 3 Rhythm of the Wild
 3 Irencrag Feat
 3 Terror of Mount Velus
@@ -55,30 +47,11 @@
 4 Golden Egg
 4 Rhythm of the Wild
 4 Irencrag Feat
+1 Cavalier of Flame
+2 Cavalier of Flame
 3 Domri's Ambush
 4 Domri's Ambush
 1 Gallia of the Endless Dance
-1 Cavalier of Flame
-2 Cavalier of Flame
-1 Thrashing Brontodon
-1 Lovestruck Beast
-2 Lovestruck Beast
-3 Lovestruck Beast
-1 The First Iroan Games
-1 Kraul Harpooner
-1 Nissa, Who Shakes the World
-1 Yorvo, Lord of Garenbrig
-1 Wildborn Preserver
-2 Kraul Harpooner
-2 Yorvo, Lord of Garenbrig
-2 Wildborn Preserver
-2 Nissa, Who Shakes the World
-3 Kraul Harpooner
-10 Forest
-11 Forest
-12 Forest
-13 Forest
-14 Forest
 1 Robber of the Rich
 2 Robber of the Rich
 3 Robber of the Rich
@@ -89,6 +62,19 @@
 2 Phoenix of Ash
 3 Fervent Champion
 4 Fervent Champion
+1 Thrashing Brontodon
+1 Nullhide Ferox
+2 Nullhide Ferox
+3 Nullhide Ferox
+4 Nullhide Ferox
+1 The First Iroan Games
+1 Lovestruck Beast
+1 The Great Henge
+1 God-Eternal Rhonas
+2 Lovestruck Beast
+2 The Great Henge
+2 God-Eternal Rhonas
+3 Lovestruck Beast
 15 Mountain
 1 Shock
 1 Scorch Spitter
@@ -107,9 +93,9 @@
 1 Satyr's Cunning
 1 Tibalt, Rakish Instigator
 1 Chandra's Spitfire
-1 Krenko, Tin Street Kingpin
 1 Goblin Smuggler
 1 Tibalt's Rager
+1 Krenko, Tin Street Kingpin
 1 Fire Urchin
 1 Goblin Banneret
 1 Weaselback Redcap
@@ -144,15 +130,6 @@
 1 Vivien, Champion of the Wilds
 2 Fling
 2 Vivien's Arkbow
-1 Incubation Druid
-1 Gilded Goose
-1 Thrash/Threat
-2 Gilded Goose
-2 Incubation Druid
-2 Thrash/Threat
-3 Gilded Goose
-3 Thrash/Threat
-3 Nissa, Who Shakes the World
 2 The First Iroan Games
 3 The First Iroan Games
 4 The First Iroan Games
@@ -179,8 +156,8 @@
 2 Skarrgan Hellkite
 3 Skarrgan Hellkite
 4 Skarrgan Hellkite
-1 Wildwood Tracker
 1 Shifting Ceratops
+1 Wildwood Tracker
 2 Wildwood Tracker
 3 Wildwood Tracker
 4 Wildwood Tracker
@@ -219,14 +196,28 @@
 3 Light Up the Stage
 4 Runaway Steam-Kin
 4 Light Up the Stage
+1 Kraul Harpooner
+1 Nissa, Who Shakes the World
+1 Yorvo, Lord of Garenbrig
+1 Wildborn Preserver
+2 Kraul Harpooner
+2 Yorvo, Lord of Garenbrig
+2 Wildborn Preserver
+2 Nissa, Who Shakes the World
 2 Thrashing Brontodon
 3 The Great Henge
 3 Wildborn Preserver
 3 Yorvo, Lord of Garenbrig
 3 Thrashing Brontodon
+3 Kraul Harpooner
 4 Kraul Harpooner
 4 Thrashing Brontodon
 4 Wildborn Preserver
+10 Forest
+11 Forest
+12 Forest
+13 Forest
+14 Forest
 15 Forest
 16 Forest
 17 Forest

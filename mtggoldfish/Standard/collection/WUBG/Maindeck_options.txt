@@ -16,14 +16,14 @@
 4 Watery Grave
 3 Overgrown Tomb
 1 Temple of Deceit
-1 Polukranos, Unchained
 1 Kenrith, the Returned King
+1 Polukranos, Unchained
 1 Mountain
 3 Dryad of the Ilysian Grove
 4 Fabled Passage
 1 Charming Prince
-2 Charming Prince
 2 Knight of Autumn
+2 Charming Prince
 1 Glowspore Shaman
 1 Blood for Bones
 1 Cavalier of Thorns
@@ -51,8 +51,8 @@
 1 Temple of Silence
 2 Temple of Silence
 1 Thought Erasure
-2 Thought Erasure
 2 Temple of Deceit
+2 Thought Erasure
 3 Thought Erasure
 4 Teferi, Time Raveler
 1 Vraska, Golgari Queen
@@ -63,49 +63,26 @@
 3 Interplanar Beacon
 4 Interplanar Beacon
 3 Flicker of Fate
-1 Banishing Light
-1 Athreos, Shroud-Veiled
-1 Dream Eater
 1 The Birth of Meletis
+1 Athreos, Shroud-Veiled
+1 Banishing Light
+1 Dream Eater
+2 The Birth of Meletis
 2 Banishing Light
 2 Setessan Champion
-2 The Birth of Meletis
 3 Plains
-3 Banishing Light
 3 The Birth of Meletis
+3 Banishing Light
 3 Setessan Champion
 4 The Birth of Meletis
-1 Atris, Oracle of Half-Truths
-1 Hero of Precinct One
-1 Dance of the Manse
-1 Calix, Destiny's Hand
-1 Narset, Parter of Veils
-1 Doom Foretold
-1 Tyrant's Scorn
-2 Hero of Precinct One
-2 Atris, Oracle of Half-Truths
-2 Narset, Parter of Veils
-2 Tyrant's Scorn
-2 Doom Foretold
-2 Oath of Kaya
-2 Dance of the Manse
-2 Godless Shrine
-3 Temple of Silence
-3 Hero of Precinct One
-3 Doom Foretold
-3 Omen of the Sea
-3 Oath of Kaya
-3 Godless Shrine
-4 Godless Shrine
-4 Hero of Precinct One
-1 Kasmina, Enigmatic Mentor
 1 Thrashing Brontodon
 1 Tomebound Lich
-2 Kasmina, Enigmatic Mentor
+1 Kasmina, Enigmatic Mentor
 2 Thrashing Brontodon
 2 Tomebound Lich
 2 Massacre Girl
 2 Dream Trawler
+2 Kasmina, Enigmatic Mentor
 2 Cavalier of Thorns
 2 Temple of Malady
 3 Tomebound Lich
@@ -114,12 +91,12 @@
 4 Agent of Treachery
 4 Tomebound Lich
 1 Field of Ruin
+1 Shatter the Sky
 1 Cavalier of Gales
 1 Discovery/Dispersal
-1 Shatter the Sky
-1 Scholar of the Ages
 1 Connive/Concoct
 1 Thirst for Meaning
+1 Scholar of the Ages
 2 Thirst for Meaning
 2 Discovery/Dispersal
 2 Shatter the Sky
@@ -136,27 +113,50 @@
 1 Dread Presence
 2 Deputy of Detention
 2 Yarok, the Desecrated
-2 Dread Presence
 2 Fblthp, the Lost
 2 Golos, Tireless Pilgrim
 2 Elite Guardmage
+2 Dread Presence
 3 Fblthp, the Lost
 3 Thassa, Deep-Dwelling
 3 Golos, Tireless Pilgrim
 4 Dryad of the Ilysian Grove
+1 Atris, Oracle of Half-Truths
+1 Hero of Precinct One
+1 Dance of the Manse
+1 Calix, Destiny's Hand
+1 Narset, Parter of Veils
+1 Tyrant's Scorn
+1 Doom Foretold
+2 Atris, Oracle of Half-Truths
+2 Hero of Precinct One
+2 Narset, Parter of Veils
+2 Tyrant's Scorn
+2 Doom Foretold
+2 Oath of Kaya
+2 Dance of the Manse
+2 Godless Shrine
+3 Temple of Silence
+3 Hero of Precinct One
+3 Omen of the Sea
+3 Oath of Kaya
+3 Doom Foretold
+3 Godless Shrine
+4 Hero of Precinct One
+4 Godless Shrine
 1 Blightbeetle
-1 Lazav, the Multifarious
 1 Kaya, Orzhov Usurper
 1 Hydroid Krasis
 1 Thryx, the Sudden Storm
 1 Nissa, Who Shakes the World
-1 Sorin, Vengeful Bloodlord
 1 Alseid of Life's Bounty
+1 Sorin, Vengeful Bloodlord
 1 Kethis, the Hidden Hand
+1 Lazav, the Multifarious
 2 Blightbeetle
-2 Lazav, the Multifarious
 2 Hydroid Krasis
 2 Alseid of Life's Bounty
+2 Lazav, the Multifarious
 2 Temple of Plenty
 2 Nissa, Who Shakes the World
 2 Kethis, the Hidden Hand
@@ -165,12 +165,12 @@
 3 Nissa, Who Shakes the World
 4 Lazav, the Multifarious
 4 Kethis, the Hidden Hand
+1 Command the Dreadhorde
 1 The Wanderer
 1 Tamiyo, Collector of Tales
 1 Wicked Wolf
 1 Nightpack Ambusher
 1 Find/Finality
-1 Command the Dreadhorde
 1 Leyline Prowler
 2 Tamiyo, Collector of Tales
 2 Command the Dreadhorde
@@ -178,8 +178,8 @@
 2 Nightpack Ambusher
 2 The Wanderer
 2 Leyline Prowler
-3 Wicked Wolf
 3 Nightpack Ambusher
+3 Wicked Wolf
 3 Tolsimir, Friend to Wolves
 4 Wicked Wolf
 4 Nightpack Ambusher

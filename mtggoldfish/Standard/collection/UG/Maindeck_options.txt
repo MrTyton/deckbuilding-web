@@ -3,8 +3,8 @@
 1 Nightpack Ambusher
 1 Sinister Sabotage
 1 Frilled Mystic
-2 Sinister Sabotage
 2 Nightpack Ambusher
+2 Sinister Sabotage
 2 Frilled Mystic
 3 Sinister Sabotage
 3 Nightpack Ambusher
@@ -21,14 +21,14 @@
 9 Forest
 1 Lovestruck Beast
 2 Lovestruck Beast
-1 Spectral Sailor
 1 Essence Capture
 1 Whirlwind Denial
+1 Spectral Sailor
 1 Gilded Goose
 1 Quench
-2 Spectral Sailor
 2 Whirlwind Denial
 2 Gilded Goose
+2 Spectral Sailor
 2 Quench
 3 Spectral Sailor
 3 Gilded Goose
@@ -71,12 +71,12 @@
 1 Thrashing Brontodon
 2 Leafkin Druid
 2 Leyline of Abundance
-2 Thrashing Brontodon
 2 Maraleaf Pixie
-3 Leyline of Abundance
+2 Thrashing Brontodon
 3 Lovestruck Beast
-3 Thrashing Brontodon
+3 Leyline of Abundance
 3 Maraleaf Pixie
+3 Thrashing Brontodon
 4 Lovestruck Beast
 3 Incubation Druid
 4 Incubation Druid
@@ -103,6 +103,12 @@
 3 Agent of Treachery
 3 Overwhelmed Apprentice
 3 Gadwick, the Wizened
+2 Questing Beast
+4 Thrashing Brontodon
+3 Leafkin Druid
+4 Leafkin Druid
+4 Leyline of Abundance
+4 Lotus Field
 1 End-Raze Forerunners
 1 The Great Henge
 1 Simic Ascendancy
@@ -110,19 +116,13 @@
 2 Pelt Collector
 2 The Great Henge
 2 Simic Ascendancy
-3 Pelt Collector
-3 Voracious Hydra
 3 The Great Henge
+3 Voracious Hydra
 3 Simic Ascendancy
+3 Pelt Collector
 4 Pelt Collector
-3 Leafkin Druid
-4 Leafkin Druid
-4 Leyline of Abundance
-2 Questing Beast
-4 Thrashing Brontodon
-4 Lotus Field
-1 Brineborn Cutthroat
 1 Negate
+1 Brineborn Cutthroat
 2 Brineborn Cutthroat
 2 Negate
 3 Brineborn Cutthroat
@@ -145,9 +145,9 @@
 2 Kiora Bests the Sea God
 2 Mirrormade
 2 Leyline of Anticipation
-2 Castle Garenbrig
 2 Yorvo, Lord of Garenbrig
 2 Vivien, Arkbow Ranger
+2 Castle Garenbrig
 2 Bioessence Hydra
 3 Wildborn Preserver
 3 Vivien, Arkbow Ranger

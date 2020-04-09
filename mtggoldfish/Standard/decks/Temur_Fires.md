@@ -69,7 +69,7 @@
 |                    1|Thassa, Deep-Dwelling                                                                                 |                    4|[Aether Gust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466796)               |
 |                    2|Thassa, Deep-Dwelling                                                                                 |                    4|[Robber of the Rich](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473100)        |
 |                    4|[Agent of Treachery](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466797)         |                    1|[Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)                    |
-|                     |                                                                                                      |                    2|[Cerulean Drake](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466807)            |
 |                     |                                                                                                      |                    2|[Chandra, Awakened Inferno](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466881) |
+|                     |                                                                                                      |                    2|[Cerulean Drake](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466807)            |
 |                     |                                                                                                      |                    3|[Hydroid Krasis](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457327)            |
 

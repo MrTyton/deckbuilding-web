@@ -15,10 +15,10 @@
 2 Temple of Enlightenment
 3 Temple of Enlightenment
 4 Temple of Enlightenment
-1 Skarrgan Hellkite
-1 Cavalier of Flame
-1 Sphinx of Foresight
 1 Cavalier of Gales
+1 Sphinx of Foresight
+1 Cavalier of Flame
+1 Skarrgan Hellkite
 2 Sphinx of Foresight
 3 Sphinx of Foresight
 4 Sphinx of Foresight
@@ -37,64 +37,64 @@
 1 Erebos, Bleak-Hearted
 1 Lavinia, Azorius Renegade
 1 Athreos, Shroud-Veiled
-1 Field of Ruin
 1 Drakuseth, Maw of Flames
 1 Purphoros, Bronze-Blooded
 1 Spark Double
 1 Yarok, the Desecrated
 1 Lazav, the Multifarious
-1 Plaguecrafter
 1 Charming Prince
-1 Mobilized District
-1 Wicked Wolf
 1 Lotus Field
 1 Heliod, Sun-Crowned
-1 Gruul Spellbreaker
 1 Biogenic Ooze
-1 Finale of Devastation
 1 Klothys, God of Destiny
+1 Finale of Devastation
 1 Dreadhorde Arcanist
 1 Cerulean Drake
+1 End-Raze Forerunners
+1 Cavalier of Thorns
 1 Kiora, Behemoth Beckoner
 1 Karn, the Great Creator
 1 Cavalier of Night
 1 Thryx, the Sudden Storm
+1 Plaguecrafter
 1 Apostle of Purifying Light
 1 Thorn Mammoth
 1 Atris, Oracle of Half-Truths
 1 Eidolon of Obstruction
 1 Deputy of Detention
-1 Shifting Ceratops
 1 Thassa, Deep-Dwelling
 1 Nissa, Who Shakes the World
 1 Neoform
 1 Tajic, Legion's Edge
 1 Kunoros, Hound of Athreos
 1 Robber of the Rich
+1 Shifting Ceratops
 1 Etrata, the Silencer
 1 Chulane, Teller of Tales
 1 Molderhulk
 1 Fblthp, the Lost
 1 Rankle, Master of Pranks
+1 Wicked Wolf
 1 Mesmerizing Benthid
 1 Golos, Tireless Pilgrim
 1 Impervious Greatwurm
 1 Phoenix of Ash
 1 Prime Speaker Vannifar
-1 End-Raze Forerunners
 1 Rienne, Angel of Rebirth
-1 Cavalier of Thorns
 1 Hushbringer
 1 Tolsimir, Friend to Wolves
 1 Nylea, Keen-Eyed
 1 Massacre Girl
 1 Trostani Discordant
+1 Field of Ruin
+1 Mobilized District
 1 Storrev, Devkarin Lich
 1 Questing Beast
 1 Kroxa, Titan of Death's Hunger
-1 Agent of Treachery
-1 Tithe Taker
 1 Nightpack Ambusher
+1 Agent of Treachery
+1 Gruul Spellbreaker
+1 Tithe Taker
 2 Arboreal Grazer
 2 Kiora, Behemoth Beckoner
 2 Finale of Devastation
@@ -108,6 +108,7 @@
 2 Prime Speaker Vannifar
 2 Temple of Abandon
 2 Temple of Plenty
+3 Temple of Malice
 3 Kiora, Behemoth Beckoner
 3 Temple of Malady
 3 Arboreal Grazer
@@ -124,21 +125,20 @@
 3 Temple of Triumph
 3 Forest
 3 Neoform
-3 Temple of Malice
 4 Temple of Triumph
 4 Temple of Silence
 4 Hydroid Krasis
+4 Temple of Malice
 4 Arboreal Grazer
 4 Temple of Plenty
-4 Finale of Devastation
 4 Temple of Mystery
-4 Nissa, Who Shakes the World
 4 Temple of Abandon
+4 Finale of Devastation
+4 Nissa, Who Shakes the World
 4 Prime Speaker Vannifar
-4 Temple Garden
 4 Temple of Malady
+4 Temple Garden
 4 Forest
-4 Temple of Malice
 4 Karn, the Great Creator
 4 Overgrown Tomb
 4 Neoform
@@ -206,24 +206,24 @@
 4 Blood Crypt
 4 Thought Erasure
 4 Watery Grave
-1 Spawn of Mayhem
 1 Sorin, Imperious Bloodlord
 1 Claim the Firstborn
 1 Chandra, Awakened Inferno
-1 Rotting Regisaur
 1 Ugin, the Ineffable
 1 Korvold, Fae-Cursed King
 1 Act of Treason
 1 Castle Locthwain
+1 Rotting Regisaur
 1 Witch's Oven
+1 Spawn of Mayhem
 1 Revival/Revenge
 1 Murderous Rider
-2 Chandra, Awakened Inferno
 2 Spawn of Mayhem
+2 Chandra, Awakened Inferno
 2 Claim the Firstborn
-2 Rotting Regisaur
 2 Witch's Oven
 2 Korvold, Fae-Cursed King
+2 Rotting Regisaur
 2 Cauldron Familiar
 2 Act of Treason
 2 Revival/Revenge
@@ -324,11 +324,11 @@
 1 Scorching Dragonfire
 1 Bonecrusher Giant
 2 Cavalier of Gales
-2 Skarrgan Hellkite
 2 Swiftwater Cliffs
 2 Brazen Borrower
 2 Bonecrusher Giant
 2 Mountain
+2 Skarrgan Hellkite
 2 Cavalier of Flame
 2 Castle Embereth
 2 Scorching Dragonfire
