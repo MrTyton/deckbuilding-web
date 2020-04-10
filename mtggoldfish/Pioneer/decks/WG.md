@@ -54,6 +54,6 @@
 |                    4|[Hangarback Walker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420600)       |                     |                                                                                               |
 |                    6|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)                  |                     |                                                                                               |
 |                    7|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)                  |                     |                                                                                               |
-|                    8|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)                  |                     |                                                                                               |
 |                    9|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)                  |                     |                                                                                               |
+|                    8|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)                  |                     |                                                                                               |
 
