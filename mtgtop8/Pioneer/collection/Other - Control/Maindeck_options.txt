@@ -119,8 +119,8 @@
 2 Trial of Ambition
 2 Doom Foretold
 2 Isolated Chapel
-3 Trial of Ambition
 3 Doom Foretold
+3 Trial of Ambition
 4 Doom Foretold
 1 Castle Ardenvale
 1 Blast Zone
@@ -136,16 +136,16 @@
 3 Oath of Kaya
 4 Plains
 1 Treacherous Blessing
-1 History of Benalia
 1 Starfield of Nyx
-2 History of Benalia
-2 Treacherous Blessing
+1 History of Benalia
 2 Starfield of Nyx
+2 Treacherous Blessing
+2 History of Benalia
 3 History of Benalia
 3 Treacherous Blessing
 3 Isolated Chapel
-4 Godless Shrine
 4 Treacherous Blessing
+4 Godless Shrine
 5 Plains
 1 Arboreal Grazer
 1 Llanowar Elves
@@ -239,15 +239,6 @@
 3 Sunpetal Grove
 3 Azorius Charm
 4 Supreme Verdict
-1 Demonic Pact
-1 Flicker of Fate
-1 The Eldest Reborn
-1 Final Payment
-2 Demonic Pact
-2 The Eldest Reborn
-2 Final Payment
-3 Demonic Pact
-4 Demonic Pact
 1 Nissa, Vastwood Seer
 1 Polukranos, Unchained
 1 Thrashing Brontodon
@@ -262,6 +253,15 @@
 2 Hissing Quagmire
 3 Field of Ruin
 4 Traverse the Ulvenwald
+1 Demonic Pact
+1 Flicker of Fate
+1 Final Payment
+1 The Eldest Reborn
+2 Demonic Pact
+2 The Eldest Reborn
+2 Final Payment
+3 Demonic Pact
+4 Demonic Pact
 1 Disdainful Stroke
 1 Dance of the Manse
 1 Oath of Jace
@@ -298,6 +298,7 @@
 3 Teferi, Hero of Dominaria
 4 Drowned Catacomb
 4 Glacial Fortress
+1 Young Pyromancer
 1 Dive Down
 1 Mizzium Mortars
 1 Living Twister
@@ -308,19 +309,18 @@
 1 Castle Embereth
 1 Treasure Cruise
 1 Wild Slash
-1 Young Pyromancer
-2 Chart a Course
-2 Chandra, Acolyte of Flame
 2 Treasure Cruise
+2 Chart a Course
+2 Young Pyromancer
+2 Chandra, Acolyte of Flame
 2 Dive Down
 2 Mizzium Mortars
 2 Wild Slash
 2 Fiery Impulse
 2 Risen Reef
-2 Young Pyromancer
 3 Chart a Course
-3 Chandra, Acolyte of Flame
 3 Botanical Sanctum
+3 Chandra, Acolyte of Flame
 3 Spirebluff Canal
 3 Young Pyromancer
 3 Risen Reef
@@ -332,29 +332,29 @@
 4 Risen Reef
 4 Young Pyromancer
 4 Wild Slash
+4 Arboreal Grazer
 1 Sigil of the Empty Throne
 1 Urborg, Tomb of Yawgmoth
-1 Kaya's Wrath
 1 Torment of Hailfire
+1 Kaya's Wrath
 1 Cast Out
 2 Cast Out
 2 Kaya's Wrath
 3 Cast Out
 3 Kaya's Wrath
-4 Isolated Chapel
 4 Trial of Ambition
+4 History of Benalia
+4 Isolated Chapel
+4 Cast Out
 4 Kaya's Wrath
 4 Shambling Vent
-4 History of Benalia
-4 Cast Out
-4 Arboreal Grazer
 1 Haktos the Unscarred
 1 Brimaz, King of Oreskos
 1 Inspiring Vantage
 1 Needle Spires
+1 Shatter the Sky
 1 Lightning Strike
 1 Heart of Kiran
-1 Shatter the Sky
 1 Lava Coil
 2 Haktos the Unscarred
 2 Heart of Kiran
@@ -366,13 +366,13 @@
 2 Clifftop Retreat
 3 Shatter the Sky
 3 Heart of Kiran
-3 Inspiring Vantage
 3 Gideon, Ally of Zendikar
+3 Inspiring Vantage
 3 Lightning Strike
 3 Needle Spires
-4 Gideon of the Trials
 4 Inspiring Vantage
 4 Lightning Strike
+4 Gideon of the Trials
 1 Bedevil
 1 Doom Blade
 1 Arguel's Blood Fast

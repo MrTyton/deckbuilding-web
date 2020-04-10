@@ -77,6 +77,6 @@
 |                    4|[Impulse](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446087)                |                    1|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)     |
 |                     |                                                                                                  |                    1|[Stifle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382377)                  |
 |                     |                                                                                                  |                    2|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)     |
-|                     |                                                                                                  |                    4|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)     |
 |                     |                                                                                                  |                    3|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)     |
+|                     |                                                                                                  |                    4|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)     |
 

@@ -1,7 +1,17 @@
+3 Absorb
+1 Nightpack Ambusher
+1 Quench
+1 Brineborn Cutthroat
+1 Spectral Sailor
+1 Frilled Mystic
+1 Sinister Sabotage
+2 Quench
+2 Frilled Mystic
+2 Nightpack Ambusher
+2 Spectral Sailor
 2 Brineborn Cutthroat
+2 Sinister Sabotage
 3 Spectral Sailor
-3 Brazen Borrower
-3 Temple of Mystery
 3 Quench
 3 Frilled Mystic
 3 Nightpack Ambusher
@@ -11,110 +21,105 @@
 4 Brazen Borrower
 4 Nightpack Ambusher
 4 Brineborn Cutthroat
-1 Time Wipe
-2 Temple of Enlightenment
-1 Castle Ardenvale
-1 Growth Spiral
+1 Castle Vantress
+2 Arboreal Grazer
+3 Hydroid Krasis
+1 Paradise Druid
+2 Paradise Druid
+3 Paradise Druid
+4 Paradise Druid
 1 Knight of Autumn
-1 Dovin's Veto
 1 Hero of Precinct One
+1 Dovin's Veto
 1 Ajani, the Greathearted
-2 Growth Spiral
 2 Knight of Autumn
 2 Hero of Precinct One
-2 Mystical Dispute
 2 Ajani, the Greathearted
-3 Growth Spiral
-3 Hero of Precinct One
 3 Temple of Enlightenment
+3 Hero of Precinct One
 3 Ajani, the Greathearted
-4 Growth Spiral
 4 Hero of Precinct One
-1 Arboreal Grazer
-2 Arboreal Grazer
-3 Forest
 1 Deputy of Detention
 2 Deputy of Detention
-1 Castle Vantress
 3 Arboreal Grazer
 4 Arboreal Grazer
 1 Fae of Wishes
-1 Merfolk Secretkeeper
 1 Gilded Goose
+1 Merfolk Secretkeeper
 1 Yoked Ox
 1 High Alert
 1 Tower Defense
 1 Elite Arrester
 1 Huatli, the Sun's Heart
 2 Fae of Wishes
-2 Merfolk Secretkeeper
-2 Huatli, the Sun's Heart
 2 Gilded Goose
+2 Huatli, the Sun's Heart
 2 Tower Defense
 2 High Alert
 2 Yoked Ox
+2 Merfolk Secretkeeper
+3 Gilded Goose
 3 Deputy of Detention
 3 Fae of Wishes
 3 Huatli, the Sun's Heart
 3 Merfolk Secretkeeper
 3 High Alert
-3 Gilded Goose
 3 Yoked Ox
 3 Tower Defense
-4 Fae of Wishes
 4 Gilded Goose
+4 Fae of Wishes
 4 Yoked Ox
 4 Merfolk Secretkeeper
 4 Deputy of Detention
 4 Huatli, the Sun's Heart
-4 Plains
 1 Shatter the Sky
-3 Hydroid Krasis
+4 Plains
+1 Nissa, Who Shakes the World
+2 Nissa, Who Shakes the World
+3 Nissa, Who Shakes the World
+1 Thassa, Deep-Dwelling
+1 Agent of Treachery
+1 Elite Guardmage
+2 Agent of Treachery
+2 Thassa, Deep-Dwelling
+2 Elite Guardmage
+3 Thassa, Deep-Dwelling
+1 Elspeth Conquers Death
+2 Shatter the Sky
+2 Elspeth Conquers Death
+3 Temple of Plenty
+4 Temple of Plenty
 1 Banishing Light
 2 Banishing Light
 3 Banishing Light
-1 Paradise Druid
-2 Paradise Druid
-3 Paradise Druid
-4 Paradise Druid
 2 Time Wipe
-1 Fortifying Provisions
-2 Fortifying Provisions
-3 Fortifying Provisions
 1 Dovin, Grand Arbiter
 2 Dovin, Grand Arbiter
 3 Mystical Dispute
+1 Fortifying Provisions
+2 Fortifying Provisions
+3 Fortifying Provisions
+1 Questing Beast
+1 Lovestruck Beast
+2 Questing Beast
+2 Lovestruck Beast
+3 Questing Beast
+4 Questing Beast
 1 Spark Double
-1 Omen of the Sea
 1 Labyrinth of Skophos
+1 Omen of the Sea
 1 Opt
 1 Jace, Wielder of Mysteries
 1 Chemister's Insight
 2 Omen of the Sea
 2 Opt
 2 Spark Double
-3 Opt
-3 Dream Trawler
 3 Omen of the Sea
+3 Dream Trawler
+3 Opt
 3 Spark Double
-4 Banishing Light
 4 Island
-1 Agent of Treachery
-1 Thassa, Deep-Dwelling
-1 Nissa, Who Shakes the World
-1 Hushbringer
-1 Elite Guardmage
-1 Biogenic Ooze
-2 Thassa, Deep-Dwelling
-2 Hushbringer
-2 Nissa, Who Shakes the World
-2 Elite Guardmage
-2 Agent of Treachery
-3 Nissa, Who Shakes the World
-3 Thassa, Deep-Dwelling
-3 Hushbringer
-4 Hushbringer
-4 Fabled Passage
+4 Banishing Light
 1 Staggering Insight
 1 Setessan Champion
 1 Alseid of Life's Bounty
@@ -126,52 +131,67 @@
 1 Starfield Mystic
 2 Staggering Insight
 2 Setessan Champion
-2 Starlit Mantle
 2 Alseid of Life's Bounty
+2 Starlit Mantle
 2 Siona, Captain of the Pyleas
 2 All That Glitters
 2 Sentinel's Eyes
 2 Starfield Mystic
-3 Temple of Plenty
 3 Staggering Insight
 3 Setessan Champion
 3 Alseid of Life's Bounty
 3 Starfield Mystic
 3 Starlit Mantle
-3 All That Glitters
 3 Sentinel's Eyes
+3 All That Glitters
 3 Siona, Captain of the Pyleas
 4 Alseid of Life's Bounty
 4 Setessan Champion
 4 Sentinel's Eyes
 4 Starfield Mystic
-4 Temple of Plenty
+1 Biogenic Ooze
+1 Hushbringer
+2 Hushbringer
+3 Hushbringer
+4 Hushbringer
+4 Fabled Passage
 4 High Alert
 4 Tower Defense
+1 Risen Reef
+1 Charming Prince
+1 Cavalier of Thorns
+2 Risen Reef
+2 Charming Prince
+2 Cavalier of Thorns
+3 Risen Reef
+3 Elite Guardmage
+3 Agent of Treachery
+3 Cavalier of Thorns
+4 Forest
+4 Elite Guardmage
+5 Forest
+6 Forest
 1 Thornwood Falls
 1 Narset, Parter of Veils
 1 Kiora Bests the Sea God
 1 Planar Cleansing
 1 Archon of Sun's Grace
 1 Tranquil Cove
-1 Elspeth Conquers Death
 1 Midnight Clock
 1 Karn, the Great Creator
 1 The Birth of Meletis
-2 Shatter the Sky
 2 Kiora Bests the Sea God
 2 Tranquil Cove
 2 The Birth of Meletis
 2 Thornwood Falls
-2 Elspeth Conquers Death
 2 Castle Ardenvale
 3 Elspeth Conquers Death
 3 The Birth of Meletis
 3 Tranquil Cove
 3 Thornwood Falls
 4 Hydroid Krasis
-4 Tranquil Cove
 4 Thornwood Falls
+4 Tranquil Cove
 4 Elspeth Conquers Death
 4 Uro, Titan of Nature's Wrath
 5 Plains

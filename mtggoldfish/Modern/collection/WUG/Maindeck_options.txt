@@ -1,24 +1,20 @@
-2 Breeding Pool
 4 Windswept Heath
+2 Breeding Pool
 1 Wooded Foothills
 2 Wooded Foothills
 1 Noble Hierarch
+1 Birds of Paradise
 1 Waterlogged Grove
 2 Noble Hierarch
 3 Noble Hierarch
 4 Noble Hierarch
-1 Ice-Fang Coatl
-2 Ice-Fang Coatl
-3 Breeding Pool
-3 Ice-Fang Coatl
-4 Misty Rainforest
-1 Birds of Paradise
 1 Knight of the Reliquary
 1 Chord of Calling
 1 Ramunap Excavator
 1 Collected Company
 1 Simic Growth Chamber
 1 Tatyova, Benthic Druid
+1 Ice-Fang Coatl
 1 Uro, Titan of Nature's Wrath
 1 Retreat to Coralhelm
 1 Field of Ruin
@@ -27,6 +23,7 @@
 2 Chord of Calling
 2 Ramunap Excavator
 2 Collected Company
+2 Ice-Fang Coatl
 2 Uro, Titan of Nature's Wrath
 2 Temple Garden
 2 Retreat to Coralhelm
@@ -34,51 +31,16 @@
 2 Waterlogged Grove
 3 Knight of the Reliquary
 3 Chord of Calling
+3 Breeding Pool
 3 Collected Company
+3 Ice-Fang Coatl
 3 Birds of Paradise
 3 Snow-Covered Forest
 4 Knight of the Reliquary
 4 Ice-Fang Coatl
 4 Collected Company
+4 Misty Rainforest
 4 Birds of Paradise
-1 Path to Exile
-2 Path to Exile
-3 Path to Exile
-4 Path to Exile
-1 Deputy of Detention
-1 Force of Negation
-1 Eladamri's Call
-1 Jace, the Mind Sculptor
-1 Acidic Slime
-1 Flooded Strand
-1 Ephemerate
-1 Vendilion Clique
-1 Thragtusk
-1 Venser, Shaper Savant
-1 Eternal Witness
-1 Watcher for Tomorrow
-1 Horizon Canopy
-1 Knight of Autumn
-1 Soulherder
-1 Coiling Oracle
-2 Force of Negation
-2 Eladamri's Call
-2 Watcher for Tomorrow
-2 Ephemerate
-2 Flooded Strand
-2 Snow-Covered Island
-2 Coiling Oracle
-2 Hallowed Fountain
-2 Snow-Covered Plains
-2 Soulherder
-3 Ephemerate
-3 Coiling Oracle
-3 Soulherder
-3 Flooded Strand
-3 Watcher for Tomorrow
-3 Force of Negation
-4 Ephemerate
-4 Watcher for Tomorrow
 2 Hour of Promise
 3 Hour of Promise
 4 Hour of Promise
@@ -92,9 +54,10 @@
 1 Eldrazi Displacer
 1 Reality Smasher
 1 Thought-Knot Seer
-1 Eldrazi Temple
 1 Matter Reshaper
 1 Giver of Runes
+1 Eldrazi Temple
+1 Path to Exile
 1 Ancient Stirrings
 2 Drowner of Hope
 2 Questing Beast
@@ -104,12 +67,14 @@
 2 Eldrazi Displacer
 2 Giver of Runes
 2 Matter Reshaper
+2 Path to Exile
 2 Ancient Stirrings
 2 Eldrazi Temple
 2 Cavern of Souls
 2 Stubborn Denial
 3 Matter Reshaper
 3 Eldrazi Displacer
+3 Path to Exile
 3 Ancient Stirrings
 3 Eldrazi Temple
 3 Reality Smasher
@@ -117,6 +82,7 @@
 3 Cavern of Souls
 4 Reality Smasher
 4 Thought-Knot Seer
+4 Path to Exile
 4 Ancient Stirrings
 4 Eldrazi Displacer
 4 Matter Reshaper
