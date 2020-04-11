@@ -45,11 +45,11 @@
 4 Plains
 4 Ghost Quarter
 4 Leonin Arbiter
+4 Chalice of the Void
 4 Reality Smasher
 4 Eternal Scourge
-4 Chalice of the Void
-4 Eldrazi Temple
 4 Thought-Knot Seer
+4 Eldrazi Temple
 4 Shefet Dunes
 2 Sacred Foundry
 1 Searing Blaze
@@ -73,66 +73,13 @@
 4 Monastery Swiftspear
 4 Lightning Bolt
 4 Lava Spike
-1 Bomat Courier
-2 Bomat Courier
-2 Mountain
-3 Bomat Courier
-4 Bomat Courier
-1 Thraben Inspector
-2 Thraben Inspector
-3 Thraben Inspector
-4 Thraben Inspector
-1 Experimental Frenzy
-1 Battlefield Forge
-1 Toolcraft Exemplar
-1 Signal Pest
-1 Ornithopter
-1 Kuldotha Rebirth
-1 Devastating Summons
-1 Springleaf Drum
-1 Venerated Loxodon
-1 Memnite
-1 Reckless Bushwhacker
-1 Darksteel Citadel
-2 Springleaf Drum
-2 Toolcraft Exemplar
-2 Battlefield Forge
-2 Reckless Bushwhacker
-2 Devastating Summons
-2 Signal Pest
-2 Venerated Loxodon
-2 Kuldotha Rebirth
-2 Ornithopter
-2 Darksteel Citadel
-2 Memnite
-3 Venerated Loxodon
-3 Kuldotha Rebirth
-3 Memnite
-3 Signal Pest
-3 Reckless Bushwhacker
-3 Devastating Summons
-3 Springleaf Drum
-3 Toolcraft Exemplar
-3 Battlefield Forge
-3 Ornithopter
-3 Darksteel Citadel
-4 Signal Pest
-4 Kuldotha Rebirth
-4 Springleaf Drum
-4 Reckless Bushwhacker
-4 Darksteel Citadel
-4 Ornithopter
-4 Venerated Loxodon
-4 Toolcraft Exemplar
-4 Memnite
-4 Battlefield Forge
 1 Snow-Covered Mountain
 1 Skullcrack
-1 Boros Charm
 1 Lightning Helix
+1 Boros Charm
 1 Eidolon of the Great Revel
-1 Exquisite Firecraft
 1 Rift Bolt
+1 Exquisite Firecraft
 1 Goblin Guide
 2 Snow-Covered Mountain
 2 Skullcrack
@@ -150,20 +97,24 @@
 3 Goblin Guide
 3 Rift Bolt
 4 Sacred Foundry
+4 Boros Charm
+4 Lightning Helix
 4 Eidolon of the Great Revel
 4 Rift Bolt
 4 Skullcrack
-4 Lightning Helix
-4 Boros Charm
 4 Goblin Guide
+1 Thraben Inspector
+2 Thraben Inspector
+3 Thraben Inspector
+4 Thraben Inspector
 1 Charming Prince
-1 Cavern of Souls
 1 Avalanche Riders
 1 Thalia's Lieutenant
+1 Flooded Strand
 1 Marsh Flats
 1 Windswept Heath
 1 Champion of the Parish
-1 Flooded Strand
+1 Cavern of Souls
 1 Ephemerate
 2 Cavern of Souls
 2 Charming Prince
@@ -174,17 +125,66 @@
 3 Champion of the Parish
 3 Cavern of Souls
 3 Ephemerate
-3 Avalanche Riders
 3 Charming Prince
+3 Avalanche Riders
 3 Thalia's Lieutenant
 4 Thalia, Guardian of Thraben
 4 Champion of the Parish
 4 Charming Prince
-4 Ephemerate
+4 Avalanche Riders
 4 Magus of the Moon
 4 Thalia's Lieutenant
-4 Avalanche Riders
+4 Ephemerate
 4 Cavern of Souls
+1 Bomat Courier
+2 Bomat Courier
+2 Mountain
+3 Bomat Courier
+4 Bomat Courier
+1 Experimental Frenzy
+1 Battlefield Forge
+1 Toolcraft Exemplar
+1 Signal Pest
+1 Devastating Summons
+1 Kuldotha Rebirth
+1 Springleaf Drum
+1 Venerated Loxodon
+1 Memnite
+1 Ornithopter
+1 Reckless Bushwhacker
+1 Darksteel Citadel
+2 Toolcraft Exemplar
+2 Battlefield Forge
+2 Reckless Bushwhacker
+2 Devastating Summons
+2 Signal Pest
+2 Venerated Loxodon
+2 Kuldotha Rebirth
+2 Ornithopter
+2 Springleaf Drum
+2 Darksteel Citadel
+2 Memnite
+3 Kuldotha Rebirth
+3 Memnite
+3 Darksteel Citadel
+3 Signal Pest
+3 Reckless Bushwhacker
+3 Devastating Summons
+3 Venerated Loxodon
+3 Springleaf Drum
+3 Toolcraft Exemplar
+3 Battlefield Forge
+3 Ornithopter
+4 Signal Pest
+4 Kuldotha Rebirth
+4 Springleaf Drum
+4 Reckless Bushwhacker
+4 Darksteel Citadel
+4 Venerated Loxodon
+4 Battlefield Forge
+4 Toolcraft Exemplar
+4 Memnite
+4 Ornithopter
 1 Fiery Islet
 1 Grim Lavamancer
 1 Skewer the Critics
@@ -199,15 +199,15 @@
 3 Mountain
 3 Grim Lavamancer
 3 Skewer the Critics
+3 Searing Blaze
 3 Wizard's Lightning
 3 Bloodstained Mire
 3 Soul-Scar Mage
-3 Searing Blaze
 4 Mountain
 4 Wooded Foothills
-4 Grim Lavamancer
 4 Wizard's Lightning
 4 Searing Blaze
+4 Grim Lavamancer
 4 Bloodstained Mire
 4 Skewer the Critics
 4 Soul-Scar Mage

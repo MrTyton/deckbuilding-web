@@ -1,6 +1,5 @@
 1 Dreadhorde Butcher
-2 Dreadhorde Butcher
-3 Dreadhorde Butcher
+3 Midnight Reaper
 1 Light Up the Stage
 1 Act of Treason
 1 Assassin's Trophy
@@ -8,45 +7,44 @@
 2 Assassin's Trophy
 3 Light Up the Stage
 4 Light Up the Stage
-3 Midnight Reaper
+2 Dreadhorde Butcher
+3 Dreadhorde Butcher
 1 Agonizing Remorse
-4 Dreadhorde Butcher
 1 Kroxa, Titan of Death's Hunger
 2 Kroxa, Titan of Death's Hunger
 3 Kroxa, Titan of Death's Hunger
-1 Bonecrusher Giant
-2 Bonecrusher Giant
 3 Forest
 1 Bedevil
 1 Storm's Wrath
 2 Storm's Wrath
 2 Bedevil
-1 Klothys, God of Destiny
-2 Klothys, God of Destiny
+1 Bonecrusher Giant
+2 Bonecrusher Giant
+4 Dreadhorde Butcher
 1 Vraska, Golgari Queen
 1 Angrath's Rampage
 1 Chandra, Awakened Inferno
 1 Liliana, Dreadhorde General
+1 Klothys, God of Destiny
 2 Angrath's Rampage
+2 Klothys, God of Destiny
 3 Angrath's Rampage
 3 Bedevil
-1 Ox of Agonas
 1 Legion Warboss
 1 Garruk, Cursed Huntsman
 1 Murderous Rider
 1 Shock
+1 Ox of Agonas
 1 Disfigure
-2 Ox of Agonas
 2 Legion Warboss
 2 Disfigure
 2 Murderous Rider
 2 Shock
+2 Ox of Agonas
 3 Legion Warboss
 3 Disfigure
 3 Shock
 4 Swamp
-3 Bonecrusher Giant
-4 Bonecrusher Giant
 1 Chandra, Acolyte of Flame
 1 Trail of Crumbs
 2 Trail of Crumbs
@@ -56,6 +54,8 @@
 1 Temple of Abandon
 1 Temple of Malady
 2 Temple of Malice
+3 Bonecrusher Giant
+4 Bonecrusher Giant
 1 Polukranos, Unchained
 1 Glowspore Shaman
 2 Glowspore Shaman
@@ -63,13 +63,6 @@
 3 Glowspore Shaman
 4 Glowspore Shaman
 4 Kroxa, Titan of Death's Hunger
-1 Cindervines
-2 Cindervines
-1 Embercleave
-1 Robber of the Rich
-2 Robber of the Rich
-2 Embercleave
-3 Robber of the Rich
 1 Duress
 1 Paradise Druid
 2 Paradise Druid
@@ -90,10 +83,12 @@
 4 Agonizing Remorse
 1 God-Eternal Bontu
 1 Evolving Wilds
+1 Cindervines
 1 Massacre Girl
 1 Savvy Hunter
 1 Spark Harvest
 2 Evolving Wilds
+2 Cindervines
 2 Spark Harvest
 2 Savvy Hunter
 3 Evolving Wilds
@@ -103,16 +98,21 @@
 4 Spark Harvest
 4 Evolving Wilds
 1 Plaguecrafter
-1 Questing Beast
-1 Shadowspear
 1 Pelt Collector
+1 Embercleave
+1 Shadowspear
+1 Robber of the Rich
+1 Questing Beast
 1 Rotting Regisaur
 1 Knight of the Ebon Legion
+2 Robber of the Rich
 2 Questing Beast
 2 Plaguecrafter
 2 Pelt Collector
+2 Embercleave
 2 Rotting Regisaur
 2 Knight of the Ebon Legion
+3 Robber of the Rich
 3 Plaguecrafter
 3 Knight of the Ebon Legion
 3 Rotting Regisaur
@@ -124,10 +124,10 @@
 1 Casualties of War
 1 Gruul Spellbreaker
 2 Find/Finality
+2 Temple of Abandon
 2 Temple of Malady
 2 Casualties of War
 2 Gruul Spellbreaker
-2 Temple of Abandon
 3 Temple of Malady
 3 Polukranos, Unchained
 3 Casualties of War
@@ -135,25 +135,3 @@
 4 Casualties of War
 4 Polukranos, Unchained
 4 Forest
-1 Grim Initiate
-1 Torbran, Thane of Red Fell
-1 Heartfire
-1 Leyline of Combustion
-1 Footlight Fiend
-2 Grim Initiate
-2 Torbran, Thane of Red Fell
-2 Heartfire
-2 Leyline of Combustion
-2 Footlight Fiend
-3 Footlight Fiend
-3 Cindervines
-3 Leyline of Combustion
-3 Klothys, God of Destiny
-3 Torbran, Thane of Red Fell
-4 Robber of the Rich
-4 Footlight Fiend
-4 Cindervines
-4 Leyline of Combustion
-4 Mountain
-5 Mountain
-6 Mountain

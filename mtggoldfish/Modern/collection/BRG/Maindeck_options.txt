@@ -31,21 +31,21 @@
 2 Putrid Goblin
 3 Skirk Prospector
 3 Cavern of Souls
-3 Goblin Matron
 3 Auntie's Hovel
-3 Aether Vial
 3 Unclaimed Territory
 3 Metallic Mimic
 3 Goblin Ringleader
 3 Putrid Goblin
 3 Munitions Expert
+3 Aether Vial
+3 Goblin Matron
 3 Murderous Redcap
 3 Mountain
+4 Cavern of Souls
 4 Auntie's Hovel
 4 Goblin Matron
 4 Unclaimed Territory
 4 Munitions Expert
-4 Cavern of Souls
 4 Goblin Ringleader
 4 Putrid Goblin
 4 Aether Vial
@@ -58,51 +58,43 @@
 4 Ancient Ziggurat
 1 Dark Confidant
 2 Dark Confidant
+3 Dark Confidant
 3 Verdant Catacombs
 1 Lightning Bolt
-1 Fatal Push
-1 Inquisition of Kozilek
-1 Barren Moor
-1 Liliana of the Veil
-2 Lightning Bolt
-2 Inquisition of Kozilek
-2 Liliana of the Veil
-3 Liliana of the Veil
-3 Inquisition of Kozilek
-3 Dark Confidant
-4 Verdant Catacombs
 1 Lightning Skelemental
 1 Unearth
+1 Inquisition of Kozilek
 1 Kroxa, Titan of Death's Hunger
+1 Barren Moor
+1 Fatal Push
 1 Collective Brutality
+1 Liliana of the Veil
+2 Lightning Bolt
 2 Collective Brutality
 2 Unearth
 2 Kroxa, Titan of Death's Hunger
+2 Inquisition of Kozilek
 2 Lightning Skelemental
+2 Liliana of the Veil
+3 Liliana of the Veil
+3 Inquisition of Kozilek
 3 Lightning Skelemental
 4 Lightning Skelemental
 4 Blackcleave Cliffs
-1 Wrenn and Six
-2 Wrenn and Six
-2 Fatal Push
-3 Wrenn and Six
-1 Kolaghan's Command
-3 Lightning Bolt
-1 Snow-Covered Swamp
-1 Snow-Covered Mountain
-2 Snow-Covered Swamp
-3 Snow-Covered Swamp
-1 Wooded Foothills
-2 Wooded Foothills
+4 Verdant Catacombs
 1 Mogg Fanatic
 2 Fiery Islet
+1 Wrenn and Six
 1 Smallpox
 1 Goblin Rabblemaster
 1 Marsh Flats
 1 Angrath's Rampage
+2 Wrenn and Six
 2 Goblin Rabblemaster
+2 Fatal Push
 2 Smallpox
 3 Kroxa, Titan of Death's Hunger
+3 Wrenn and Six
 4 Wrenn and Six
 4 Inquisition of Kozilek
 1 Wishclaw Talisman
@@ -112,18 +104,22 @@
 1 Scalding Tarn
 1 Worldspine Wurm
 1 Nourishing Shoal
+1 Snow-Covered Swamp
 1 Cathartic Reunion
 1 Manamorphose
+1 Snow-Covered Mountain
 2 Desperate Ritual
-2 Nourishing Shoal
 2 Night's Whisper
 2 Scalding Tarn
+2 Snow-Covered Swamp
 2 Stomping Ground
 2 Snow-Covered Mountain
 2 Cathartic Reunion
 2 Worldspine Wurm
+2 Nourishing Shoal
 2 Merchant of the Vale
 2 Borborygmos Enraged
+3 Snow-Covered Swamp
 3 Simian Spirit Guide
 3 Cathartic Reunion
 3 Nourishing Shoal
@@ -136,9 +132,9 @@
 4 Worldspine Wurm
 4 Night's Whisper
 4 Nourishing Shoal
-1 Gilded Goose
 1 Woe Strider
 1 Dryad Arbor
+1 Gilded Goose
 1 Claim the Firstborn
 1 Mayhem Devil
 1 Falkenrath Aristocrat
@@ -146,21 +142,23 @@
 1 Blooming Marsh
 1 Cauldron Familiar
 1 Priest of Forgotten Gods
+1 Wooded Foothills
 2 Woe Strider
 2 Gilded Goose
 2 Claim the Firstborn
 2 Mayhem Devil
+2 Wooded Foothills
 2 Witch's Oven
 2 Cauldron Familiar
 2 Falkenrath Aristocrat
 2 Blooming Marsh
 2 Priest of Forgotten Gods
 3 Gilded Goose
+3 Falkenrath Aristocrat
 3 Claim the Firstborn
 3 Cauldron Familiar
 3 Priest of Forgotten Gods
 3 Witch's Oven
-3 Falkenrath Aristocrat
 3 Mayhem Devil
 3 Woe Strider
 4 Gilded Goose
@@ -174,36 +172,16 @@
 1 Terminate
 1 Castle Embereth
 1 Forgotten Cave
+1 Kolaghan's Command
 1 Castle Locthwain
 1 Spike Jester
 1 Seasoned Pyromancer
 2 Seasoned Pyromancer
 2 Spike Jester
+3 Lightning Bolt
 3 Spike Jester
 3 Unearth
 3 Seasoned Pyromancer
 4 Lightning Bolt
 4 Dark Confidant
 4 Unearth
-1 Bloodbraid Elf
-1 Blood Moon
-1 Snow-Covered Forest
-1 Tarmogoyf
-1 Raging Ravine
-1 Maelstrom Pulse
-1 Scavenging Ooze
-1 Assassin's Trophy
-2 Assassin's Trophy
-2 Bloodbraid Elf
-2 Blood Moon
-2 Tarmogoyf
-2 Kolaghan's Command
-2 Scavenging Ooze
-2 Snow-Covered Forest
-3 Bloodbraid Elf
-3 Snow-Covered Forest
-3 Tarmogoyf
-4 Bloodbraid Elf
-4 Tarmogoyf
-4 Liliana of the Veil
-4 Snow-Covered Forest
