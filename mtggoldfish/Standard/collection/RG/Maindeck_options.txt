@@ -1,54 +1,63 @@
+1 Robber of the Rich
+2 Robber of the Rich
+3 Robber of the Rich
+1 Domri, Anarch of Bolas
+9 Forest
+1 Ilharg, the Raze-Boar
+4 Zhur-Taa Goblin
+1 Shifting Ceratops
+3 Fabled Passage
+1 Collision/Colossus
+2 Collision/Colossus
+1 Skarrgan Hellkite
+1 Marauding Raptor
+2 Marauding Raptor
+3 Marauding Raptor
+10 Mountain
+2 Ilharg, the Raze-Boar
+3 Ilharg, the Raze-Boar
+1 Thrill of Possibility
+2 Thrill of Possibility
+3 Thrill of Possibility
+4 Thrill of Possibility
+11 Mountain
+12 Mountain
+13 Mountain
+14 Mountain
+1 Storm's Wrath
 1 Purphoros, Bronze-Blooded
 1 Terror of Mount Velus
+1 Irencrag Feat
 1 Drakuseth, Maw of Flames
 1 Rhythm of the Wild
 2 Storm's Wrath
+2 Irencrag Feat
 2 Terror of Mount Velus
 2 Purphoros, Bronze-Blooded
 2 Rhythm of the Wild
 2 Drakuseth, Maw of Flames
 3 Rhythm of the Wild
 3 Purphoros, Bronze-Blooded
-3 Terror of Mount Velus
-8 Forest
-1 Thrill of Possibility
-2 Thrill of Possibility
-2 Fabled Passage
-1 Zhur-Taa Goblin
-2 Zhur-Taa Goblin
-3 Zhur-Taa Goblin
-14 Mountain
-4 Bonecrusher Giant
-4 Purphoros, Bronze-Blooded
 3 Storm's Wrath
-4 Rhythm of the Wild
-3 Thrill of Possibility
-4 Thrill of Possibility
-9 Forest
-15 Mountain
-1 Irencrag Feat
-2 Irencrag Feat
 3 Irencrag Feat
+3 Terror of Mount Velus
+4 Rhythm of the Wild
 4 Irencrag Feat
-1 Klothys, God of Destiny
-2 Klothys, God of Destiny
-4 Zhur-Taa Goblin
-1 Collision/Colossus
-2 Collision/Colossus
-3 Drakuseth, Maw of Flames
-3 Fabled Passage
-1 Skarrgan Hellkite
-4 Temple of Abandon
-3 Cavalier of Flame
-1 Domri, Anarch of Bolas
+2 Gallia of the Endless Dance
+1 Thrashing Brontodon
+1 Cavalier of Flame
+2 Cavalier of Flame
 2 Domri, Anarch of Bolas
 3 Domri, Anarch of Bolas
-16 Mountain
+15 Mountain
+2 Shifting Ceratops
+3 Shifting Ceratops
+4 Marauding Raptor
+4 Shifting Ceratops
 1 Nullhide Ferox
 2 Nullhide Ferox
 3 Nullhide Ferox
 4 Nullhide Ferox
-1 Thrashing Brontodon
 1 Lovestruck Beast
 1 The Great Henge
 1 God-Eternal Rhonas
@@ -92,34 +101,25 @@
 2 Rimrock Knight
 3 Rimrock Knight
 4 Rimrock Knight
+1 The First Iroan Games
 4 Lovestruck Beast
-1 Fires of Invention
-2 Fires of Invention
-3 Fires of Invention
-4 Fires of Invention
-1 Vivien's Arkbow
-2 Vivien's Arkbow
+4 Embercleave
+3 Domri's Ambush
+4 Domri's Ambush
+4 Purphoros, Bronze-Blooded
 4 Ilharg, the Raze-Boar
-4 Terror of Mount Velus
 1 Golden Egg
 2 Golden Egg
 3 Golden Egg
 4 Golden Egg
-1 The First Iroan Games
-4 Embercleave
-3 Domri's Ambush
-4 Domri's Ambush
-1 Gallia of the Endless Dance
-1 Robber of the Rich
-2 Robber of the Rich
-3 Robber of the Rich
 4 Robber of the Rich
 1 Phoenix of Ash
 1 Fervent Champion
-2 Fervent Champion
 2 Phoenix of Ash
+2 Fervent Champion
 3 Fervent Champion
 4 Fervent Champion
+16 Mountain
 1 Scorch Spitter
 1 Runaway Steam-Kin
 1 Shock
@@ -128,36 +128,36 @@
 4 Scorch Spitter
 1 Shadowspear
 1 Dreadhorde Arcanist
-1 Act of Treason
+1 Grim Initiate
+1 Cavalcade of Calamity
+1 Tin Street Dodger
 1 Chandra, Acolyte of Flame
 1 Samut, Tyrant Smasher
 1 Satyr's Cunning
-1 Cavalcade of Calamity
 1 Tibalt, Rakish Instigator
 1 Chandra's Spitfire
-1 Tin Street Dodger
+1 Act of Treason
 1 Goblin Smuggler
 1 Tibalt's Rager
 1 Krenko, Tin Street Kingpin
-1 Grim Initiate
 1 Fire Urchin
 1 Goblin Banneret
 1 Weaselback Redcap
 2 Grim Initiate
-2 Act of Treason
 2 Cavalcade of Calamity
 2 Tin Street Dodger
+2 Shock
+2 Act of Treason
 2 Goblin Banneret
 2 Chandra's Spitfire
 2 Tibalt, Rakish Instigator
-2 Shock
 2 Fire Urchin
 3 Tin Street Dodger
 3 Cavalcade of Calamity
+3 Shock
 3 Goblin Banneret
 3 Chandra's Spitfire
 3 Act of Treason
-3 Shock
 4 Cavalcade of Calamity
 4 Act of Treason
 4 Chandra's Spitfire
@@ -168,28 +168,19 @@
 20 Mountain
 21 Mountain
 22 Mountain
+1 Nylea, Keen-Eyed
 1 Incubation Druid
 1 Pulse of Murasa
-1 Experimental Frenzy
-1 Brought Back
-1 Dovin, Hand of Control
-2 Brought Back
-1 Gravitic Punch
-1 Response/Resurgence
-2 Gravitic Punch
 1 Fling
+1 Vivien's Arkbow
 1 Vivien, Champion of the Wilds
 2 Fling
+2 Vivien's Arkbow
 1 Scorching Dragonfire
 1 Cryptic Caves
 1 Blast Zone
 2 Scorching Dragonfire
 3 Scorching Dragonfire
-1 Marauding Raptor
-1 Crashing Drawbridge
-2 Marauding Raptor
-2 Crashing Drawbridge
-3 Marauding Raptor
 2 The First Iroan Games
 3 The First Iroan Games
 4 The First Iroan Games
@@ -201,6 +192,7 @@
 2 Leafkin Druid
 2 Arboreal Grazer
 2 Cavalier of Thorns
+3 Cavalier of Flame
 3 Cavalier of Thorns
 3 Arboreal Grazer
 3 Circuitous Route
@@ -209,17 +201,19 @@
 2 Skarrgan Hellkite
 3 Skarrgan Hellkite
 4 Skarrgan Hellkite
-1 Shifting Ceratops
 1 Wildwood Tracker
 2 Wildwood Tracker
 3 Wildwood Tracker
 4 Wildwood Tracker
+1 Crashing Drawbridge
+2 Crashing Drawbridge
+3 Drakuseth, Maw of Flames
+4 Terror of Mount Velus
 1 Legion Warboss
 1 Purphoros's Intervention
 1 Careless Celebrant
 2 Legion Warboss
 2 Purphoros's Intervention
-2 Gallia of the Endless Dance
 2 Careless Celebrant
 3 Phoenix of Ash
 3 Legion Warboss
@@ -228,15 +222,15 @@
 4 Legion Warboss
 4 Gallia of the Endless Dance
 4 Careless Celebrant
+1 Light Up the Stage
 1 Torbran, Thane of Red Fell
 1 Anax, Hardened in the Forge
-1 Light Up the Stage
-2 Anax, Hardened in the Forge
 2 Torbran, Thane of Red Fell
 2 Light Up the Stage
+2 Anax, Hardened in the Forge
 2 Runaway Steam-Kin
-3 Anax, Hardened in the Forge
 3 Runaway Steam-Kin
+3 Anax, Hardened in the Forge
 3 Light Up the Stage
 4 Runaway Steam-Kin
 4 Light Up the Stage

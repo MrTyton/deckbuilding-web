@@ -2,58 +2,62 @@
 1 Mountain
 1 Plains
 2 Forest
-3 Glorybringer
-4 Snow-Covered Forest
+1 Scavenging Ooze
+1 Sunbaked Canyon
+2 Scavenging Ooze
+1 Path to Exile
+2 Path to Exile
+1 Knight of Autumn
 1 Tarmogoyf
 2 Tarmogoyf
 3 Tarmogoyf
 4 Tarmogoyf
-1 Scavenging Ooze
-1 Path to Exile
-2 Path to Exile
+3 Path to Exile
 1 Noble Hierarch
 2 Noble Hierarch
 1 Wild Nacatl
 2 Wild Nacatl
 3 Wild Nacatl
 4 Wild Nacatl
-1 Knight of Autumn
-2 Scavenging Ooze
+3 Glorybringer
+4 Snow-Covered Forest
 3 Noble Hierarch
 4 Noble Hierarch
-3 Path to Exile
 4 Path to Exile
-1 Sunbaked Canyon
-1 Kessig Wolf Run
-1 Ghost Quarter
+1 Sword of Fire and Ice
+3 Klothys, God of Destiny
 1 Voice of Resurgence
 2 Voice of Resurgence
-2 Plains
-4 Arid Mesa
-1 Dromoka's Command
-1 Knight of the Reliquary
-2 Knight of Autumn
-2 Knight of the Reliquary
-3 Knight of the Reliquary
-4 Knight of the Reliquary
 3 Forest
-1 Horizon Canopy
-3 Klothys, God of Destiny
-2 Temple Garden
+2 Knight of Autumn
+1 Kessig Wolf Run
+1 Ghost Quarter
 1 Restoration Angel
 1 Kiki-Jiki, Mirror Breaker
 1 Eternal Witness
 2 Restoration Angel
-1 Wrenn and Six
-2 Wrenn and Six
-1 Sword of Fire and Ice
-1 Tireless Tracker
-2 Sacred Foundry
-1 Grove of the Burnwillows
+2 Plains
+1 Horizon Canopy
+4 Arid Mesa
 1 Chord of Calling
 2 Chord of Calling
 3 Chord of Calling
 4 Chord of Calling
+1 Dromoka's Command
+1 Knight of the Reliquary
+2 Knight of the Reliquary
+3 Knight of the Reliquary
+4 Knight of the Reliquary
+2 Temple Garden
+1 Wrenn and Six
+2 Wrenn and Six
+1 Misty Rainforest
+1 Tireless Tracker
+1 Grove of the Burnwillows
+3 Birds of Paradise
+4 Birds of Paradise
+3 Restoration Angel
+2 Sacred Foundry
 1 Declaration in Stone
 1 Atarka's Command
 1 Goblin Guide
@@ -63,8 +67,8 @@
 3 Atarka's Command
 4 Atarka's Command
 4 Goblin Guide
-1 Tarfire
 1 Eidolon of the Great Revel
+1 Tarfire
 1 Char
 1 Lightning Helix
 1 Skewer the Critics
@@ -88,10 +92,15 @@
 1 Pillage
 2 Pillage
 3 Pillage
+1 Questing Beast
+2 Questing Beast
+2 Misty Rainforest
 3 Wrenn and Six
 2 Tireless Tracker
 1 Wall of Roots
-1 Misty Rainforest
+1 Eldritch Evolution
+2 Eldritch Evolution
+1 Fire-Lit Thicket
 1 Devoted Druid
 1 Vizier of Remedies
 1 Viridian Longbow
@@ -100,20 +109,18 @@
 2 Eternal Witness
 3 Vizier of Remedies
 3 Devoted Druid
-3 Restoration Angel
 4 Devoted Druid
-1 Fire-Lit Thicket
-3 Birds of Paradise
-4 Birds of Paradise
 2 Horizon Canopy
 1 Domri, Anarch of Bolas
-1 Questing Beast
-2 Questing Beast
 1 Qasali Pridemage
 2 Qasali Pridemage
+2 Sunbaked Canyon
+1 Gilded Goose
+1 Sheltered Thicket
+2 Gilded Goose
+3 Gilded Goose
 1 Karn, the Great Creator
 2 Karn, the Great Creator
-2 Misty Rainforest
 3 Karn, the Great Creator
 4 Karn, the Great Creator
 1 Walking Ballista
@@ -133,9 +140,48 @@
 3 Eternal Witness
 4 Eternal Witness
 4 Restoration Angel
-1 Eldritch Evolution
+1 Thraben Inspector
+1 Reckless Bushwhacker
+1 Memnite
+1 Venerated Loxodon
+1 Kuldotha Rebirth
+1 Ornithopter
+1 Signal Pest
+1 Bloodstained Mire
+1 Burning-Tree Emissary
+1 Inspiring Vantage
+2 Bloodstained Mire
+2 Mountain
+2 Thraben Inspector
+2 Memnite
+2 Ornithopter
+2 Kuldotha Rebirth
+2 Venerated Loxodon
+2 Signal Pest
+2 Reckless Bushwhacker
+2 Inspiring Vantage
+2 Burning-Tree Emissary
+3 Inspiring Vantage
+3 Bloodstained Mire
+3 Ornithopter
+3 Horizon Canopy
+3 Thraben Inspector
+3 Reckless Bushwhacker
+3 Signal Pest
+3 Memnite
+3 Kuldotha Rebirth
+3 Venerated Loxodon
+3 Burning-Tree Emissary
+4 Bloodstained Mire
+4 Memnite
+4 Ornithopter
+4 Reckless Bushwhacker
+4 Kuldotha Rebirth
+4 Signal Pest
+4 Thraben Inspector
+4 Burning-Tree Emissary
+4 Horizon Canopy
 1 Wall of Blossoms
-2 Eldritch Evolution
 2 Wall of Blossoms
 3 Voice of Resurgence
 3 Eldritch Evolution
@@ -163,44 +209,3 @@
 3 Blood Moon
 4 Boom/Bust
 4 Flagstones of Trokair
-1 Thraben Inspector
-1 Reckless Bushwhacker
-1 Memnite
-1 Venerated Loxodon
-1 Ornithopter
-1 Kuldotha Rebirth
-1 Signal Pest
-1 Bloodstained Mire
-1 Burning-Tree Emissary
-1 Inspiring Vantage
-2 Inspiring Vantage
-2 Bloodstained Mire
-2 Mountain
-2 Thraben Inspector
-2 Memnite
-2 Ornithopter
-2 Kuldotha Rebirth
-2 Venerated Loxodon
-2 Signal Pest
-2 Reckless Bushwhacker
-2 Burning-Tree Emissary
-3 Inspiring Vantage
-3 Bloodstained Mire
-3 Ornithopter
-3 Thraben Inspector
-3 Reckless Bushwhacker
-3 Signal Pest
-3 Memnite
-3 Kuldotha Rebirth
-3 Venerated Loxodon
-3 Horizon Canopy
-3 Burning-Tree Emissary
-4 Memnite
-4 Ornithopter
-4 Reckless Bushwhacker
-4 Kuldotha Rebirth
-4 Signal Pest
-4 Thraben Inspector
-4 Burning-Tree Emissary
-4 Horizon Canopy
-4 Bloodstained Mire

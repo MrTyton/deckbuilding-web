@@ -5,7 +5,6 @@
 2 Polluted Delta
 3 Polluted Delta
 1 Thought Scour
-1 Field of Ruin
 1 Bonecrusher Giant
 1 Seasoned Pyromancer
 1 Bloodstained Mire
@@ -23,12 +22,13 @@
 1 Kolaghan's Command
 1 Kroxa, Titan of Death's Hunger
 1 Lightning Bolt
+1 Field of Ruin
 1 Gurmag Angler
 1 Snapcaster Mage
 2 Thought Scour
-2 Field of Ruin
 2 Seasoned Pyromancer
 2 Bloodstained Mire
+2 Field of Ruin
 2 Gurmag Angler
 2 Blood Crypt
 2 Mana Leak
@@ -42,20 +42,20 @@
 2 Fatal Push
 2 Kolaghan's Command
 3 Thought Scour
-3 Fatal Push
-3 Kolaghan's Command
 3 Seasoned Pyromancer
 3 Bloodstained Mire
 3 Mana Leak
+3 Fatal Push
+3 Kolaghan's Command
 3 Lightning Bolt
 3 Spell Pierce
 4 Thought Scour
 4 Spell Pierce
 4 Lightning Bolt
 1 Snow-Covered Swamp
+1 Serum Visions
 1 Talisman of Dominance
 1 Ensnaring Bridge
-1 Serum Visions
 1 Pithing Needle
 1 Time Sieve
 1 Snow-Covered Island
@@ -94,9 +94,9 @@
 3 Arcum's Astrolabe
 3 Goblin Engineer
 4 Polluted Delta
+4 Serum Visions
 4 Urza, Lord High Artificer
 4 Mishra's Bauble
-4 Serum Visions
 4 Snow-Covered Island
 4 Arcum's Astrolabe
 4 Goblin Engineer

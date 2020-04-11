@@ -1,3 +1,5 @@
+1 Polukranos, Unchained
+1 Temple of Malady
 1 Escape to the Wilds
 1 Temple of Silence
 1 Ravager Wurm
@@ -5,57 +7,64 @@
 2 Escape to the Wilds
 2 Temple of Malady
 3 Escape to the Wilds
+1 Cavalier of Flame
 3 Temple of Epiphany
 4 Temple of Epiphany
-1 Temple of Abandon
 1 Temple of Mystery
 3 Stomping Ground
-4 Paradise Druid
+1 Ilharg, the Raze-Boar
+1 Drakuseth, Maw of Flames
+1 Purphoros, Bronze-Blooded
+2 Forest
+3 Forest
 1 Cavalier of Dawn
 2 Temple of Enlightenment
 3 Temple of Enlightenment
 4 Temple of Enlightenment
-1 Cavalier of Gales
 1 Skarrgan Hellkite
 1 Sphinx of Foresight
-1 Cavalier of Flame
+1 Cavalier of Gales
 2 Sphinx of Foresight
 3 Sphinx of Foresight
 4 Sphinx of Foresight
+4 Forest
+5 Forest
+6 Forest
 1 Arboreal Grazer
 1 Golos, Tireless Pilgrim
 1 Agent of Treachery
 2 Arboreal Grazer
+2 Temple of Abandon
+3 Temple of Abandon
+1 Temple of Malice
 1 Blast Zone
 1 Thief of Sanity
 1 Temple of Deceit
-1 Temple of Malice
 2 Temple of Deceit
 1 Kenrith, the Returned King
-1 Drakuseth, Maw of Flames
 1 Temple of Plenty
-1 Purphoros, Bronze-Blooded
 1 Dream Eater
-1 Erebos, Bleak-Hearted
+1 Thassa, Deep-Dwelling
 1 Bounty Agent
-1 Nightmare Shepherd
+1 Erebos, Bleak-Hearted
 1 Lavinia, Azorius Renegade
+1 Nightmare Shepherd
 1 Plaguecrafter
 1 Cavalier of Night
 1 Athreos, Shroud-Veiled
-1 Massacre Girl
-1 Field of Ruin
 1 Spark Double
 1 Yarok, the Desecrated
 1 Lazav, the Multifarious
+1 Fblthp, the Lost
 1 Charming Prince
-1 Klothys, God of Destiny
 1 Lotus Field
 1 Heliod, Sun-Crowned
 1 Gruul Spellbreaker
 1 Biogenic Ooze
 1 Finale of Devastation
+1 Klothys, God of Destiny
 1 End-Raze Forerunners
+1 Deputy of Detention
 1 Cavalier of Thorns
 1 Karn, the Great Creator
 1 Dreadhorde Arcanist
@@ -63,12 +72,10 @@
 1 Cerulean Drake
 1 Tolsimir, Friend to Wolves
 1 Thorn Mammoth
-1 Thryx, the Sudden Storm
-1 Atris, Oracle of Half-Truths
 1 Kiora, Behemoth Beckoner
-1 Deputy of Detention
+1 Thryx, the Sudden Storm
 1 Eidolon of Obstruction
-1 Thassa, Deep-Dwelling
+1 Atris, Oracle of Half-Truths
 1 Nissa, Who Shakes the World
 1 Neoform
 1 Tajic, Legion's Edge
@@ -78,7 +85,6 @@
 1 Etrata, the Silencer
 1 Chulane, Teller of Tales
 1 Molderhulk
-1 Fblthp, the Lost
 1 Rankle, Master of Pranks
 1 Wicked Wolf
 1 Mesmerizing Benthid
@@ -88,57 +94,53 @@
 1 Rienne, Angel of Rebirth
 1 Hushbringer
 1 Nylea, Keen-Eyed
-1 Ilharg, the Raze-Boar
+1 Massacre Girl
 1 Trostani Discordant
+1 Field of Ruin
 1 Mobilized District
 1 Storrev, Devkarin Lich
 1 Questing Beast
 1 Kroxa, Titan of Death's Hunger
 1 Nightpack Ambusher
 1 Tithe Taker
-2 Kiora, Behemoth Beckoner
 2 Finale of Devastation
 2 Karn, the Great Creator
-2 Forest
 2 Neoform
+2 Kiora, Behemoth Beckoner
 2 Temple of Malice
 2 Nissa, Who Shakes the World
 2 Temple of Silence
 2 Temple of Mystery
 2 Prime Speaker Vannifar
-2 Temple of Abandon
 2 Temple of Plenty
-3 Kiora, Behemoth Beckoner
 3 Arboreal Grazer
+3 Temple of Malady
 3 Temple of Plenty
-3 Temple of Abandon
 3 Finale of Devastation
 3 Hydroid Krasis
 3 Temple of Silence
 3 Temple of Mystery
-3 Karn, the Great Creator
 3 Nissa, Who Shakes the World
 3 Prime Speaker Vannifar
 3 Temple of Deceit
 3 Temple of Triumph
-3 Forest
+3 Karn, the Great Creator
 3 Neoform
+3 Kiora, Behemoth Beckoner
 3 Temple of Malice
-3 Temple of Malady
 4 Temple of Triumph
 4 Escape to the Wilds
 4 Hydroid Krasis
-4 Temple of Malady
-4 Temple of Silence
 4 Temple of Mystery
 4 Arboreal Grazer
 4 Temple of Plenty
+4 Temple of Silence
 4 Temple of Abandon
 4 Finale of Devastation
 4 Nissa, Who Shakes the World
 4 Prime Speaker Vannifar
+4 Temple of Malady
 4 Temple Garden
-4 Forest
 4 Temple of Malice
 4 Karn, the Great Creator
 4 Overgrown Tomb
@@ -146,8 +148,6 @@
 4 Stomping Ground
 4 Kiora, Behemoth Beckoner
 4 Temple of Deceit
-5 Forest
-6 Forest
 7 Forest
 8 Forest
 9 Forest
@@ -195,41 +195,41 @@
 3 Narset, Parter of Veils
 3 Fae of Wishes
 1 Ashiok, Nightmare Muse
-1 Ritual of Soot
 1 Thought Erasure
-2 Ritual of Soot
+1 Ritual of Soot
 2 Thought Erasure
+2 Ritual of Soot
 2 Blood Crypt
-3 Blood Crypt
 3 Thought Erasure
+3 Blood Crypt
 3 Watery Grave
 4 Blood Crypt
 4 Thought Erasure
 4 Watery Grave
 1 Spawn of Mayhem
 1 Sorin, Imperious Bloodlord
-1 Rotting Regisaur
-1 Claim the Firstborn
 1 Chandra, Awakened Inferno
+1 Claim the Firstborn
+1 Rotting Regisaur
 1 Ugin, the Ineffable
+1 Korvold, Fae-Cursed King
 1 Act of Treason
 1 Castle Locthwain
-1 Witch's Oven
-1 Korvold, Fae-Cursed King
 1 Revival/Revenge
+1 Witch's Oven
 1 Murderous Rider
 2 Chandra, Awakened Inferno
 2 Spawn of Mayhem
-2 Act of Treason
-2 Rotting Regisaur
 2 Claim the Firstborn
+2 Rotting Regisaur
 2 Witch's Oven
-2 Korvold, Fae-Cursed King
 2 Cauldron Familiar
+2 Korvold, Fae-Cursed King
+2 Act of Treason
 2 Revival/Revenge
 3 Chandra, Awakened Inferno
-3 Rotting Regisaur
 3 Revival/Revenge
+3 Rotting Regisaur
 4 Rotting Regisaur
 2 Castle Vantress
 1 Tamiyo, Collector of Tales
@@ -237,10 +237,10 @@
 3 Niv-Mizzet Reborn
 4 Niv-Mizzet Reborn
 1 Drawn from Dreams
-1 Angrath's Rampage
 1 Bedevil
-2 Drawn from Dreams
+1 Angrath's Rampage
 2 Angrath's Rampage
+2 Drawn from Dreams
 2 Bedevil
 2 Swamp
 3 Ritual of Soot
@@ -251,6 +251,37 @@
 2 Godless Shrine
 3 Nicol Bolas, Dragon-God
 4 Interplanar Beacon
+1 Castle Embereth
+2 Mountain
+2 Cavalier of Flame
+2 Castle Embereth
+3 Cavalier of Flame
+3 Mountain
+4 Mountain
+5 Mountain
+1 Rhythm of the Wild
+1 Terror of Mount Velus
+1 Storm's Wrath
+2 Drakuseth, Maw of Flames
+2 Rhythm of the Wild
+2 Purphoros, Bronze-Blooded
+2 Terror of Mount Velus
+2 Ilharg, the Raze-Boar
+2 Storm's Wrath
+3 Terror of Mount Velus
+3 Purphoros, Bronze-Blooded
+3 Rhythm of the Wild
+3 Ilharg, the Raze-Boar
+3 Drakuseth, Maw of Flames
+4 Purphoros, Bronze-Blooded
+6 Mountain
+7 Mountain
+8 Mountain
+9 Mountain
+10 Mountain
+11 Mountain
+12 Mountain
+13 Mountain
 3 Hallowed Fountain
 1 Omen of the Sea
 2 Omen of the Sea
@@ -261,10 +292,10 @@
 1 Mu Yanling, Sky Dancer
 1 Legion's End
 1 Mystical Dispute
-2 Ashiok, Nightmare Muse
 2 Thief of Sanity
 2 Legion's End
 2 Mystical Dispute
+2 Ashiok, Nightmare Muse
 3 Mystical Dispute
 4 Mystical Dispute
 1 Shimmer of Possibility
@@ -291,6 +322,14 @@
 2 Tamiyo, Collector of Tales
 2 Knight of Autumn
 3 Ionize
+1 Dovin, Hand of Control
+1 Vivien's Arkbow
+1 Experimental Frenzy
+1 Brought Back
+2 Vivien's Arkbow
+2 Brought Back
+3 Storm's Wrath
+4 Rhythm of the Wild
 1 Liliana, Dreadhorde General
 1 Enter the God-Eternals
 3 Drawn from Dreams
@@ -299,33 +338,52 @@
 4 Angrath's Rampage
 4 Swamp
 4 Drawn from Dreams
+1 Justice Strike
+1 Solar Blaze
+1 Aether Gust
+2 Justice Strike
+2 Elspeth Conquers Death
+2 Dream Trawler
+2 Deafening Clarion
+2 Cavalier of Dawn
+2 Plains
+2 Sacred Foundry
+3 Deafening Clarion
+3 Elspeth Conquers Death
+3 Cavalier of Dawn
+3 Sacred Foundry
+4 Elspeth Conquers Death
+4 Cavalier of Dawn
+4 Omen of the Sea
+4 Sacred Foundry
+4 Hallowed Fountain
+1 Boros Guildgate
+1 Izzet Guildgate
 1 Circuitous Route
 1 Labyrinth of Skophos
 1 Gateway Plaza
 1 Azorius Guildgate
 1 Gruul Guildgate
-1 Izzet Guildgate
 1 Simic Guildgate
 1 Guild Summit
 1 Gates Ablaze
 1 Selesnya Guildgate
 1 Rakdos Guildgate
 1 Orzhov Guildgate
-1 Boros Guildgate
 1 Gatebreaker Ram
+2 Izzet Guildgate
 2 Circuitous Route
 2 Selesnya Guildgate
 2 Simic Guildgate
 2 Guild Summit
-2 Boros Guildgate
 2 Gatebreaker Ram
 2 Gates Ablaze
 2 Agent of Treachery
 2 Orzhov Guildgate
 2 Gateway Plaza
+2 Boros Guildgate
 2 Golos, Tireless Pilgrim
 2 Azorius Guildgate
-2 Izzet Guildgate
 3 Circuitous Route
 3 Gateway Plaza
 3 Golos, Tireless Pilgrim
@@ -335,52 +393,34 @@
 3 Gatebreaker Ram
 3 Gates Ablaze
 4 Circuitous Route
-4 Gatebreaker Ram
 4 Gateway Plaza
-1 Justice Strike
-1 Solar Blaze
-1 Aether Gust
-2 Justice Strike
-2 Cavalier of Dawn
-2 Deafening Clarion
-2 Plains
-2 Sacred Foundry
-2 Elspeth Conquers Death
-2 Dream Trawler
-3 Cavalier of Dawn
-3 Deafening Clarion
-3 Elspeth Conquers Death
-3 Sacred Foundry
-4 Elspeth Conquers Death
-4 Cavalier of Dawn
-4 Omen of the Sea
-4 Sacred Foundry
-4 Hallowed Fountain
+4 Gatebreaker Ram
+1 Thrill of Possibility
+1 Response/Resurgence
+1 Gravitic Punch
+2 Thrill of Possibility
+2 Gravitic Punch
+4 Terror of Mount Velus
+14 Mountain
+15 Mountain
+16 Mountain
 1 Swiftwater Cliffs
-1 Castle Embereth
 1 Brazen Borrower
 1 Scorching Dragonfire
 1 Bonecrusher Giant
 2 Cavalier of Gales
-2 Skarrgan Hellkite
 2 Swiftwater Cliffs
+2 Skarrgan Hellkite
 2 Brazen Borrower
 2 Bonecrusher Giant
-2 Mountain
-2 Cavalier of Flame
-2 Castle Embereth
 2 Scorching Dragonfire
 3 Island
 3 Brazen Borrower
 3 Skarrgan Hellkite
-3 Cavalier of Flame
 3 Bonecrusher Giant
-3 Mountain
 4 Skarrgan Hellkite
-4 Island
 4 Cavalier of Flame
-4 Mountain
+4 Island
 4 Bonecrusher Giant
-4 Brazen Borrower
 5 Island
-5 Mountain
+4 Brazen Borrower

@@ -1,31 +1,87 @@
-1 Field of Ruin
-1 Thought Scour
-2 Thought Scour
-3 Thought Scour
-4 Thought Scour
+2 Hieroglyphic Illumination
+7 Snow-Covered Island
+8 Snow-Covered Island
 1 Scalding Tarn
 2 Scalding Tarn
+3 Flooded Strand
+1 Field of Ruin
 4 Flooded Strand
+4 Ice-Fang Coatl
+1 Waterlogged Grove
+1 Forest
+1 Noble Hierarch
+2 Forest
+2 Noble Hierarch
+3 Noble Hierarch
+1 Verdant Catacombs
+1 Mutagenic Growth
+1 Distortion Strike
+1 Blighted Agent
+1 Pendelhaven
+1 Inkmoth Nexus
+1 Vines of Vastwood
+1 Blossoming Defense
+1 Spellskite
+1 Glistener Elf
+1 Might of Old Krosa
+1 Mishra's Bauble
+1 Scale Up
+1 Become Immense
+2 Become Immense
+2 Mutagenic Growth
+2 Waterlogged Grove
+2 Vines of Vastwood
+2 Inkmoth Nexus
+2 Verdant Catacombs
+2 Scale Up
+2 Pendelhaven
+2 Blossoming Defense
+2 Distortion Strike
+2 Blighted Agent
+2 Mishra's Bauble
+2 Might of Old Krosa
+2 Glistener Elf
+3 Blossoming Defense
+3 Mutagenic Growth
+3 Might of Old Krosa
+3 Vines of Vastwood
+3 Blighted Agent
+3 Mishra's Bauble
+3 Scale Up
+3 Glistener Elf
+3 Inkmoth Nexus
+4 Mutagenic Growth
+4 Blighted Agent
+4 Might of Old Krosa
+4 Mishra's Bauble
+4 Inkmoth Nexus
+4 Vines of Vastwood
+4 Noble Hierarch
+4 Glistener Elf
 2 Field of Ruin
+1 Windswept Heath
+2 Windswept Heath
 1 Torrential Gearhulk
 1 Lumbering Falls
 2 Nexus of Fate
-4 Ice-Fang Coatl
+1 Wooded Foothills
+2 Spellskite
+2 Wooded Foothills
+3 Become Immense
+3 Verdant Catacombs
 1 Beast Within
 1 Blast Zone
-1 Gilded Goose
 1 Tranquil Thicket
-1 Windswept Heath
+1 Gilded Goose
 1 Flooded Grove
 1 Gingerbread Cabin
-1 Waterlogged Grove
 1 Jace, Vryn's Prodigy
 1 Jace, the Mind Sculptor
+1 Life from the Loam
 1 Ayula's Influence
 1 Blightsteel Colossus
 1 Shape Anew
 1 Regrowth
-1 Life from the Loam
 2 Jace, Vryn's Prodigy
 2 Gilded Goose
 2 Tranquil Thicket
@@ -33,17 +89,18 @@
 2 Shape Anew
 2 Life from the Loam
 2 Ayula's Influence
-2 Windswept Heath
+3 Gilded Goose
 3 Windswept Heath
 3 Shape Anew
 3 Jace, Vryn's Prodigy
-3 Gilded Goose
 3 Snow-Covered Forest
-4 Gilded Goose
 4 Breeding Pool
+4 Gilded Goose
 4 Shape Anew
+3 Polluted Delta
+3 Scalding Tarn
+4 Scalding Tarn
 1 Trinisphere
-1 Forest
 1 Repudiate/Replicate
 1 Acidic Slime
 1 Mwonvuli Acid-Moss
@@ -51,7 +108,6 @@
 1 Karn, the Great Creator
 1 Stampeding Serow
 1 Castle Garenbrig
-1 Noble Hierarch
 1 Utopia Sprawl
 1 Plow Under
 1 Walking Ballista
@@ -63,8 +119,6 @@
 2 Trinisphere
 2 Karn, the Great Creator
 2 Acidic Slime
-2 Forest
-2 Noble Hierarch
 2 Utopia Sprawl
 2 Castle Garenbrig
 2 Arbor Elf
@@ -79,18 +133,17 @@
 3 Mwonvuli Acid-Moss
 3 Eternal Witness
 3 Castle Garenbrig
-3 Noble Hierarch
 3 Utopia Sprawl
 4 Eternal Witness
-4 Forest
 4 Karn, the Great Creator
 4 Primal Command
 4 Mwonvuli Acid-Moss
+4 Arbor Elf
 4 Utopia Sprawl
 4 Castle Garenbrig
+4 Forest
 5 Forest
 6 Forest
-7 Forest
 8 Forest
 9 Forest
 10 Forest
@@ -100,4 +153,4 @@
 14 Forest
 15 Forest
 16 Forest
-4 Arbor Elf
+7 Forest

@@ -1,4 +1,9 @@
-1 Field of Ruin
+3 Lightning Helix
+3 Opt
+4 Opt
+1 Serum Visions
+2 Serum Visions
+3 Serum Visions
 1 Glacial Fortress
 1 Bonecrusher Giant
 1 Prismatic Vista
@@ -6,26 +11,6 @@
 2 Bonecrusher Giant
 3 Batterskull
 4 Lightning Helix
-1 Remand
-2 Remand
-1 Spell Queller
-2 Spell Queller
-3 Spell Queller
-1 Sword of Feast and Famine
-1 Vendilion Clique
-1 Serum Visions
-2 Serum Visions
-3 Serum Visions
-2 Arid Mesa
-3 Force of Negation
-3 Teferi, Time Raveler
-1 The Royal Scions
-1 Geist of Saint Traft
-2 Mountain
-2 Geist of Saint Traft
-2 Field of Ruin
-2 The Royal Scions
-3 Plains
 1 Narset, Parter of Veils
 1 Spreading Seas
 1 Saheeli Rai
@@ -38,13 +23,16 @@
 2 Felidar Guardian
 2 Saheeli Rai
 3 Narset, Parter of Veils
-3 Felidar Guardian
 3 Seasoned Pyromancer
+3 Felidar Guardian
 3 Saheeli Rai
 4 Narset, Parter of Veils
 4 Serum Visions
 4 Saheeli Rai
 4 Felidar Guardian
+2 Arid Mesa
+3 Force of Negation
+3 Teferi, Time Raveler
 1 Wooded Foothills
 1 Izzet Charm
 1 Dwarven Mine
@@ -68,9 +56,9 @@
 3 Polymorph
 3 Dwarven Mine
 3 Remand
+3 Quicken
 3 Indomitable Creativity
 3 Bloodstained Mire
-3 Quicken
 3 Arid Mesa
 4 Force of Negation
 4 Indomitable Creativity
@@ -78,6 +66,18 @@
 4 Remand
 4 Dwarven Mine
 4 Teferi, Time Raveler
+1 Sword of Feast and Famine
+1 Spell Queller
+2 Spell Queller
+3 Spell Queller
+1 Vendilion Clique
+1 The Royal Scions
+1 Geist of Saint Traft
+2 Mountain
+2 The Royal Scions
+2 Geist of Saint Traft
+2 Field of Ruin
+3 Plains
 1 Mystic Sanctuary
 1 Cryptic Command
 1 Jace, the Mind Sculptor

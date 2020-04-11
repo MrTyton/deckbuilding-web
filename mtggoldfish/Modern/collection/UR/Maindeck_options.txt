@@ -1,4 +1,5 @@
 1 Polluted Delta
+2 Mountain
 4 Snow-Covered Island
 1 Crashing Footfalls
 2 Crashing Footfalls
@@ -17,8 +18,15 @@
 2 Archmage's Charm
 2 Flooded Strand
 2 Finale of Promise
+1 Magmatic Sinkhole
+1 Sleight of Hand
+1 Manamorphose
+2 Sleight of Hand
+2 Manamorphose
+3 Manamorphose
+3 Sleight of Hand
+4 Manamorphose
 1 Tolaria West
-2 Mountain
 1 Field of Ruin
 2 Field of Ruin
 4 Island
@@ -53,24 +61,16 @@
 4 Simian Spirit Guide
 3 Force of Negation
 2 Snow-Covered Mountain
-1 Sleight of Hand
-1 Arclight Phoenix
 1 Chart a Course
 1 Pyromancer Ascension
-1 Manamorphose
-2 Sleight of Hand
+1 Arclight Phoenix
 2 Arclight Phoenix
 2 Pyromancer Ascension
-2 Manamorphose
 2 Chart a Course
 3 Arclight Phoenix
-3 Manamorphose
 3 Chart a Course
-3 Sleight of Hand
-4 Arclight Phoenix
-4 Manamorphose
 4 Chart a Course
-1 Magmatic Sinkhole
+4 Arclight Phoenix
 1 Young Pyromancer
 2 Young Pyromancer
 3 Young Pyromancer
@@ -79,16 +79,16 @@
 2 Mystic Sanctuary
 3 Flooded Strand
 3 Mystic Sanctuary
+3 Fiery Islet
+1 The Royal Scions
 1 Sphinx of Foresight
 1 Restore Balance
 2 Sphinx of Foresight
 2 Restore Balance
-3 Fiery Islet
 3 Finale of Promise
 1 Mana Leak
 1 Flame Slash
 1 Sulfur Falls
-1 The Royal Scions
 1 Misty Rainforest
 2 Mana Leak
 2 Misty Rainforest
@@ -114,8 +114,8 @@
 4 Pyromancer Ascension
 1 Castle Vantress
 1 Brazen Borrower
-1 Through the Breach
 1 Emrakul, the Aeons Torn
+1 Through the Breach
 2 Brazen Borrower
 2 Through the Breach
 2 Emrakul, the Aeons Torn
@@ -127,6 +127,28 @@
 4 Emrakul, the Aeons Torn
 4 Brazen Borrower
 4 Archmage's Charm
+1 Gut Shot
+1 Soul-Scar Mage
+1 Stormchaser Mage
+1 Mutagenic Growth
+1 Monastery Swiftspear
+2 Magmatic Sinkhole
+2 The Royal Scions
+2 Gut Shot
+2 Monastery Swiftspear
+2 Mutagenic Growth
+2 Soul-Scar Mage
+2 Stormchaser Mage
+3 Mutagenic Growth
+3 Monastery Swiftspear
+3 Stormchaser Mage
+3 Soul-Scar Mage
+4 Fiery Islet
+4 Stormchaser Mage
+4 Sleight of Hand
+4 Monastery Swiftspear
+4 Mutagenic Growth
+4 Soul-Scar Mage
 1 Narset, Parter of Veils
 1 Vendilion Clique
 1 Delver of Secrets

@@ -10,16 +10,12 @@
 2 Containment Priest
 2 Sanctum Prelate
 4 Once Upon a Time
-1 Flooded Strand
-2 Flooded Strand
-4 Walking Ballista
 1 Brushland
 2 Brushland
 3 Brushland
-1 Ghost Quarter
-4 Plains
-5 Plains
-3 Snow-Covered Plains
+1 Flooded Strand
+2 Flooded Strand
+4 Walking Ballista
 1 Ulamog, the Ceaseless Hunger
 1 Eye of Ugin
 1 Endless One
@@ -35,8 +31,12 @@
 3 Eldrazi Mimic
 3 Endless One
 3 Eye of Ugin
-4 Eldrazi Mimic
 4 Endless One
+4 Eldrazi Mimic
+1 Ghost Quarter
+4 Plains
+5 Plains
+3 Snow-Covered Plains
 1 Council's Judgment
 1 Leonin Arbiter
 1 Flagstones of Trokair
@@ -70,6 +70,9 @@
 2 Stoneforge Mystic
 3 Stoneforge Mystic
 3 City of Traitors
+1 Oblivion Ring
+3 Lotus Petal
+4 Brushland
 1 Caves of Koilos
 2 Caves of Koilos
 3 Caves of Koilos
