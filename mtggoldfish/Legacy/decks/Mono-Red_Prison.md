@@ -60,7 +60,7 @@
 |                     |                                                                                                    |                    2|[Ensnaring Bridge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=15866)    |
 |                     |                                                                                                    |                    3|[Ensnaring Bridge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=15866)    |
 |                     |                                                                                                    |                    4|[Ensnaring Bridge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=15866)    |
-|                     |                                                                                                    |                    1|[Helm of Obedience](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3047)    |
 |                     |                                                                                                    |                    1|[Winter Orb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=643)            |
+|                     |                                                                                                    |                    1|[Helm of Obedience](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3047)    |
 |                     |                                                                                                    |                    4|[Sulfur Elemental](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=122416)   |
 

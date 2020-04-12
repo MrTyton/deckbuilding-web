@@ -30,7 +30,7 @@
 
 |*n*<sup>th</sup> copy|                                        Maindeck Card                                         |*n*<sup>th</sup> copy|                                          Sideboard Card                                          |
 |--------------------:|----------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------------|
-|                    2|[Simian Spirit Guide](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442137)|                    1|Soul-Guide Lantern                                                                                |
-|                     |                                                                                              |                    1|[Ugin, the Spirit Dragon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391948)|
+|                    2|[Simian Spirit Guide](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442137)|                    1|[Ugin, the Spirit Dragon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391948)|
+|                     |                                                                                              |                    1|Soul-Guide Lantern                                                                                |
 |                     |                                                                                              |                    2|[Ugin, the Spirit Dragon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391948)|
 

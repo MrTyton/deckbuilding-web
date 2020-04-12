@@ -40,6 +40,6 @@
 |                    3|[Collective Brutality](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414380)  |                    2|[Big Game Hunter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=134739)        |
 |                    3|[Bloodghast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438648)            |                     |                                                                                                  |
 |                    4|[Once Upon a Time](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473131)      |                     |                                                                                                  |
-|                    4|[Inquisition of Kozilek](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416897)|                     |                                                                                                  |
 |                    4|[Lightning Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=806)           |                     |                                                                                                  |
+|                    4|[Inquisition of Kozilek](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416897)|                     |                                                                                                  |
 

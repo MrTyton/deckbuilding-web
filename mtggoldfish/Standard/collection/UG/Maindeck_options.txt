@@ -40,19 +40,19 @@
 1 Cavalier of Gales
 1 Mass Manipulation
 2 Cavalier of Gales
-4 Spectral Sailor
-1 Unsummon
 1 Castle Garenbrig
+1 Unsummon
 2 Unsummon
 3 Omen of the Sea
 3 Unsummon
-4 Nissa, Who Shakes the World
 4 Omen of the Sea
 4 Paradise Druid
+4 Nissa, Who Shakes the World
+4 Spectral Sailor
 10 Forest
 1 Cavalier of Thorns
-1 The Great Henge
 1 Pelt Collector
+1 The Great Henge
 2 The Great Henge
 2 Cavalier of Thorns
 2 Pelt Collector
@@ -62,54 +62,54 @@
 10 Island
 1 Negate
 2 Negate
+4 Aether Gust
 1 End-Raze Forerunners
 1 Incubation Druid
 1 Simic Ascendancy
 2 Incubation Druid
 2 Simic Ascendancy
-3 Hydroid Krasis
 3 Voracious Hydra
+3 Hydroid Krasis
+3 Incubation Druid
 3 Cavalier of Thorns
 3 Simic Ascendancy
-3 Incubation Druid
 4 Hydroid Krasis
 4 Incubation Druid
-4 Aether Gust
-1 Questing Beast
 1 Lovestruck Beast
-1 Vivien, Arkbow Ranger
+1 Questing Beast
 1 Barkhide Troll
+1 Vivien, Arkbow Ranger
 2 Lovestruck Beast
-2 Vivien, Arkbow Ranger
 2 Questing Beast
+2 Vivien, Arkbow Ranger
 2 Barkhide Troll
-3 Lovestruck Beast
 3 Questing Beast
+3 Lovestruck Beast
 3 Vivien, Arkbow Ranger
 3 Barkhide Troll
 4 Lovestruck Beast
 11 Forest
-1 Kiora, Behemoth Beckoner
-1 Agent of Treachery
 1 Thassa, Deep-Dwelling
-1 Gadwick, the Wizened
-1 Leyline of Anticipation
-1 Thassa's Oracle
-1 Arcanist's Owl
-1 Nyx Lotus
-1 Jace, Wielder of Mysteries
 1 Sphinx Mindbreaker
-2 Kiora, Behemoth Beckoner
+1 Jace, Wielder of Mysteries
+1 Thassa's Oracle
+1 Kiora, Behemoth Beckoner
+1 Leyline of Anticipation
+1 Arcanist's Owl
+1 Gadwick, the Wizened
+1 Agent of Treachery
+1 Nyx Lotus
+2 Thassa's Oracle
 2 Thassa, Deep-Dwelling
+2 Kiora, Behemoth Beckoner
 2 Gadwick, the Wizened
 2 Leyline of Anticipation
-2 Thassa's Oracle
 2 Arcanist's Owl
 2 Nyx Lotus
-3 Kiora, Behemoth Beckoner
-3 Castle Vantress
 3 Thassa's Oracle
 3 Thassa, Deep-Dwelling
+3 Castle Vantress
+3 Kiora, Behemoth Beckoner
 3 Nyx Lotus
 3 Gadwick, the Wizened
 3 Leyline of Anticipation
@@ -124,6 +124,6 @@
 14 Island
 15 Island
 16 Island
-17 Island
 18 Island
 19 Island
+17 Island

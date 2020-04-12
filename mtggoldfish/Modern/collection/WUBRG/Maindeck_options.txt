@@ -1,9 +1,58 @@
-3 Narset, Parter of Veils
-1 Wooded Foothills
-2 Wooded Foothills
+2 Misty Rainforest
+3 Uro, Titan of Nature's Wrath
+2 Bloodbraid Elf
+1 Klothys, God of Destiny
+1 Birds of Paradise
+3 Misty Rainforest
+4 Misty Rainforest
 3 Wooded Foothills
+4 Teferi, Time Raveler
+2 Birds of Paradise
+1 Oath of Nissa
+2 Oath of Nissa
+3 Oath of Nissa
+4 Oath of Nissa
+1 Forest
+1 Vraska, Golgari Queen
+2 Breeding Pool
+1 Karn, the Great Creator
+1 Jace, the Mind Sculptor
+1 Interplanar Beacon
+1 Narset, Parter of Veils
+1 Dovin, Hand of Control
+1 Arbor Elf
+2 Karn, the Great Creator
+2 Dovin, Hand of Control
+2 Interplanar Beacon
+2 Narset, Parter of Veils
+2 Arbor Elf
+2 Jace, the Mind Sculptor
+3 Interplanar Beacon
+3 Karn, the Great Creator
+3 Dovin, Hand of Control
+3 Arbor Elf
+4 Karn, the Great Creator
+4 Interplanar Beacon
+4 Arbor Elf
+1 Simian Spirit Guide
+2 Simian Spirit Guide
+3 Simian Spirit Guide
+4 Simian Spirit Guide
+2 Forest
+2 Ashiok, Dream Render
+3 Forest
+4 Forest
+2 Assassin's Trophy
+3 Bloodbraid Elf
+4 Pillar of the Paruns
+4 Prismatic Vista
+4 Bring to Light
+1 Verdant Catacombs
+1 Drown in the Loch
+1 Nahiri, the Harbinger
+3 Narset, Parter of Veils
 4 Wooded Foothills
-1 Steam Vents
+1 Blood Crypt
 1 Island
 1 Swamp
 1 Noble Hierarch
@@ -17,40 +66,39 @@
 1 Arid Mesa
 1 Felidar Guardian
 1 Saheeli Rai
-1 Bring to Light
-1 Blood Crypt
 1 Plains
-1 Niv-Mizzet Reborn
 1 Mountain
-1 Assassin's Trophy
-2 Saheeli Rai
 2 Felidar Guardian
-2 Bring to Light
+2 Saheeli Rai
 2 Arid Mesa
-2 Niv-Mizzet Reborn
 3 Saheeli Rai
 3 Felidar Guardian
 3 Arid Mesa
-3 Bring to Light
 4 Felidar Guardian
 4 Saheeli Rai
-4 Bring to Light
 4 Arid Mesa
-1 Verdant Catacombs
+4 Wrenn and Six
+1 Hallowed Fountain
 2 Verdant Catacombs
+3 Birds of Paradise
+4 Birds of Paradise
+1 Watery Grave
 3 Scalding Tarn
+1 Flooded Strand
+2 Glittering Wish
+1 Gemstone Caverns
+1 Kroxa, Titan of Death's Hunger
+1 Polluted Delta
 1 Darkslick Shores
 1 Satyr Wayfinder
 1 Jace, Vryn's Prodigy
 1 Skaab Ruinator
 1 Vengevine
+1 Unearth
 1 Drown in Filth
 1 Stitcher's Supplier
 1 Merfolk Secretkeeper
-1 Unearth
-1 Polluted Delta
 1 Creeping Chill
-1 Watery Grave
 1 Gravecrawler
 1 Hedron Crab
 1 Claim/Fame
@@ -88,23 +136,28 @@
 4 Vengevine
 4 Hedron Crab
 4 Polluted Delta
-1 Hallowed Fountain
-1 Snow-Covered Forest
-3 Birds of Paradise
-4 Birds of Paradise
-2 Snow-Covered Forest
+1 Ice-Fang Coatl
+2 Ice-Fang Coatl
+1 Thought Erasure
+1 Expansion/Explosion
 1 Grand Abolisher
 1 Time Wipe
 2 Grand Abolisher
 1 Tranquil Thicket
 2 Tranquil Thicket
+1 Thoughtseize
+1 Deafening Clarion
+2 Thoughtseize
 1 Deceiver Exarch
 2 Deceiver Exarch
 3 Deceiver Exarch
-1 Arcum's Astrolabe
-1 Ice-Fang Coatl
-2 Ice-Fang Coatl
-2 Arcum's Astrolabe
+1 Tolsimir, Friend to Wolves
+2 Snow-Covered Plains
+3 Assassin's Trophy
+4 Lightning Helix
+1 The Royal Scions
+1 Angrath's Rampage
+4 Niv-Mizzet Reborn
 3 Snow-Covered Forest
 4 Snow-Covered Forest
 1 Eldritch Evolution
@@ -114,7 +167,6 @@
 3 Botanical Sanctum
 3 Eldritch Evolution
 1 Wall of Roots
-1 Snow-Covered Plains
 1 Chord of Calling
 1 Prime Speaker Vannifar
 1 Renegade Rallier
@@ -125,7 +177,6 @@
 1 Magus of the Moon
 1 Restoration Angel
 1 Bounding Krasis
-1 Snow-Covered Island
 1 Eternal Witness
 2 Wall of Roots
 2 Chord of Calling
@@ -147,8 +198,8 @@
 1 Mutavault
 1 Cavern of Souls
 1 Unsettled Mariner
-1 Galerider Sliver
 1 Sinew Sliver
+1 Galerider Sliver
 1 Aether Vial
 1 Cloudshredder Sliver
 1 Sliver Hive
@@ -157,9 +208,9 @@
 1 Homing Sliver
 1 Dregscape Sliver
 1 Necrotic Sliver
-1 Sidewinder Sliver
 1 Collected Company
 1 Striking Sliver
+1 Sidewinder Sliver
 1 Predatory Sliver
 1 Frenetic Sliver
 1 Leeching Sliver
@@ -170,16 +221,16 @@
 2 Predatory Sliver
 2 Cavern of Souls
 2 Collected Company
-2 Galerider Sliver
 2 Leeching Sliver
 2 Unsettled Mariner
 2 Manaweft Sliver
+2 Galerider Sliver
 2 Sinew Sliver
 2 Cloudshredder Sliver
 2 Striking Sliver
+3 Cavern of Souls
 3 Verdant Catacombs
 3 Mutavault
-3 Cavern of Souls
 3 Unsettled Mariner
 3 Manaweft Sliver
 3 Aether Vial
@@ -207,7 +258,6 @@
 1 Mystic Sanctuary
 1 Violent Outburst
 1 Ardent Plea
-1 Flooded Strand
 1 Street Wraith
 2 Desert Cerodon
 2 Striped Riverwinder
@@ -226,8 +276,8 @@
 3 Living End
 3 Desert Cerodon
 3 Force of Negation
-3 Curator of Mysteries
 3 Striped Riverwinder
+3 Curator of Mysteries
 3 Ardent Plea
 3 Flooded Strand
 3 Violent Outburst
@@ -236,8 +286,8 @@
 4 Scalding Tarn
 4 Desert Cerodon
 4 Force of Negation
-4 Brazen Borrower
 4 Striped Riverwinder
+4 Brazen Borrower
 4 Curator of Mysteries
 4 Ardent Plea
 4 Violent Outburst
@@ -249,45 +299,43 @@
 1 Nourishing Shoal
 1 Griselbrand
 1 Neoform
-1 Life Goes On
 1 Manamorphose
 1 Autochthon Wurm
 1 Pact of Negation
-1 Glittering Wish
 1 Laboratory Maniac
 1 Safewright Quest
 1 Allosaurus Rider
 1 Veil of Summer
 1 Summoner's Pact
+1 Life Goes On
 1 Chancellor of the Tangle
 1 City of Brass
 2 Nourishing Shoal
 2 Allosaurus Rider
+2 Neoform
 2 Summoner's Pact
 2 Chancellor of the Tangle
 2 Griselbrand
 2 Gemstone Mine
 2 Manamorphose
 2 City of Brass
-2 Neoform
 2 Autochthon Wurm
-2 Glittering Wish
 2 Veil of Summer
 3 Glittering Wish
 3 Nourishing Shoal
 3 Gemstone Mine
-3 Manamorphose
 3 City of Brass
+3 Manamorphose
 3 Allosaurus Rider
 3 Summoner's Pact
 3 Chancellor of the Tangle
 3 Neoform
 4 Eldritch Evolution
-4 Nourishing Shoal
-4 Manamorphose
 4 Glittering Wish
+4 Nourishing Shoal
 4 Chancellor of the Tangle
 4 Summoner's Pact
+4 Manamorphose
 4 Gemstone Mine
 4 Allosaurus Rider
 4 City of Brass

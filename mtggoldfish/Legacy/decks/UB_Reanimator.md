@@ -40,9 +40,9 @@
 |                    1|[Iona, Shield of Emeria](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397800)  |                    3|[Show and Tell](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416878)  |
 |                    2|[Bloodstained Mire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405094)       |                    4|[Show and Tell](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416878)  |
 |                    2|[Misty Rainforest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405102)        |                     |                                                                                          |
+|                    2|[Snow-Covered Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121256)      |                     |                                                                                          |
 |                    2|[Collective Brutality](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414380)    |                     |                                                                                          |
 |                    2|[Ponder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=451051)                  |                     |                                                                                          |
-|                    2|[Snow-Covered Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121256)      |                     |                                                                                          |
 |                    3|[Collective Brutality](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414380)    |                     |                                                                                          |
 |                    4|[Underground Sea](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=886)            |                     |                                                                                          |
 

@@ -214,8 +214,8 @@
 2 Jace, Vryn's Prodigy
 3 Jace, Vryn's Prodigy
 1 Mire Triton
-2 Glorybringer
 2 Mire Triton
+2 Glorybringer
 3 Glorybringer
 3 Chandra, Torch of Defiance
 4 Canyon Slough
@@ -239,6 +239,15 @@
 3 Sunpetal Grove
 3 Azorius Charm
 4 Supreme Verdict
+1 Demonic Pact
+1 Final Payment
+1 Flicker of Fate
+1 The Eldest Reborn
+2 Demonic Pact
+2 The Eldest Reborn
+2 Final Payment
+3 Demonic Pact
+4 Demonic Pact
 1 Nissa, Vastwood Seer
 1 Polukranos, Unchained
 1 Thrashing Brontodon
@@ -253,15 +262,6 @@
 2 Hissing Quagmire
 3 Field of Ruin
 4 Traverse the Ulvenwald
-1 Demonic Pact
-1 Final Payment
-1 Flicker of Fate
-1 The Eldest Reborn
-2 Demonic Pact
-2 The Eldest Reborn
-2 Final Payment
-3 Demonic Pact
-4 Demonic Pact
 1 Disdainful Stroke
 1 Dance of the Manse
 1 Oath of Jace
@@ -319,8 +319,8 @@
 2 Fiery Impulse
 2 Risen Reef
 3 Chart a Course
-3 Botanical Sanctum
 3 Chandra, Acolyte of Flame
+3 Botanical Sanctum
 3 Spirebluff Canal
 3 Young Pyromancer
 3 Risen Reef
@@ -365,8 +365,8 @@
 2 Shatter the Sky
 2 Clifftop Retreat
 3 Heart of Kiran
-3 Shatter the Sky
 3 Gideon, Ally of Zendikar
+3 Shatter the Sky
 3 Inspiring Vantage
 3 Lightning Strike
 3 Needle Spires

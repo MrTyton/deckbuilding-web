@@ -33,6 +33,6 @@
 
 |*n*<sup>th</sup> copy|                                    Maindeck Card                                     |*n*<sup>th</sup> copy|Sideboard Card|
 |--------------------:|--------------------------------------------------------------------------------------|---------------------|--------------|
-|                    1|[Risk Factor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452863)|                     |              |
 |                    2|[Risk Factor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452863)|                     |              |
+|                    1|[Risk Factor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452863)|                     |              |
 
