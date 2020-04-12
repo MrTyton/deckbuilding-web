@@ -6,6 +6,8 @@
 3 Embercleave
 1 Scavenging Ooze
 2 Scavenging Ooze
+3 Legion Warboss
+4 Legion Warboss
 1 Pelt Collector
 2 Pelt Collector
 3 Pelt Collector
@@ -20,18 +22,11 @@
 2 Experiment One
 3 Voltaic Brawler
 3 Experiment One
+4 Voltaic Brawler
 1 Gallia of the Endless Dance
 1 Zhur-Taa Goblin
-2 Zhur-Taa Goblin
-3 Legion Warboss
-4 Legion Warboss
-1 Reckless Bushwhacker
-2 Reckless Bushwhacker
-3 Reckless Bushwhacker
-4 Experiment One
-4 Voltaic Brawler
-3 Zhur-Taa Goblin
 1 Hazoret the Fervent
+2 Zhur-Taa Goblin
 2 Klothys, God of Destiny
 1 Glorybringer
 2 Glorybringer
@@ -43,15 +38,18 @@
 3 Collected Company
 4 Collected Company
 3 Ghor-Clan Rampager
-2 Gallia of the Endless Dance
+1 Reckless Bushwhacker
+2 Reckless Bushwhacker
+3 Reckless Bushwhacker
 4 Reckless Bushwhacker
-7 Mountain
 1 Hashep Oasis
 2 Hashep Oasis
 1 Dryad Militant
 2 Dryad Militant
+4 Experiment One
+7 Mountain
 3 Questing Beast
-2 Mana Confluence
+3 Zhur-Taa Goblin
 3 Glorybringer
 4 Glorybringer
 1 Chandra, Torch of Defiance
@@ -61,6 +59,7 @@
 1 Anax, Hardened in the Forge
 2 Bomat Courier
 2 Anax, Hardened in the Forge
+2 Gallia of the Endless Dance
 3 Bomat Courier
 4 Bomat Courier
 8 Mountain
@@ -79,10 +78,10 @@
 2 Hazoret the Fervent
 3 Hashep Oasis
 1 Domri Rade
-4 Zhur-Taa Goblin
-10 Mountain
+2 Mana Confluence
 1 Lightning Strike
 2 Lightning Strike
+10 Mountain
 1 Zurgo Bellstriker
 1 Firedrinker Satyr
 2 Rakdos Cackler
@@ -102,7 +101,6 @@
 4 Questing Beast
 1 Heart of Kiran
 2 Heart of Kiran
-1 Legion Loyalist
 1 Chandra, Fire Artisan
 2 Zurgo Bellstriker
 1 Gilded Goose
@@ -116,10 +114,10 @@
 4 Domri's Ambush
 4 Embercleave
 4 Wild Slash
-3 Mana Confluence
-4 Mana Confluence
 3 Lightning Strike
 4 Lightning Strike
+1 Legion Loyalist
+4 Zhur-Taa Goblin
 1 Ghalta, Primal Hunger
 1 Rhonas the Indomitable
 1 Regisaur Alpha
@@ -148,8 +146,8 @@
 1 Xenagos, the Reveler
 1 Borborygmos Enraged
 1 Possibility Storm
-1 Shared Summons
 1 Enter the Infinite
+1 Shared Summons
 1 Captain Lannery Storm
 2 Captain Lannery Storm
 2 Possibility Storm

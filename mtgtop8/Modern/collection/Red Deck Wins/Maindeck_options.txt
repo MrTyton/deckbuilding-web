@@ -22,38 +22,38 @@
 11 Mountain
 1 Bedlam Reveler
 2 Bedlam Reveler
-12 Mountain
-3 Fiery Islet
 4 Lava Dart
+12 Mountain
 1 Bloodstained Mire
 13 Mountain
 1 Burst Lightning
 2 Burst Lightning
+1 Runaway Steam-Kin
+2 Runaway Steam-Kin
+3 Fiery Islet
 3 Bedlam Reveler
 1 Arid Mesa
 2 Arid Mesa
-1 Runaway Steam-Kin
-2 Runaway Steam-Kin
 4 Lightning Helix
 4 Searing Blaze
 2 Bloodstained Mire
 1 Skullcrack
 2 Skullcrack
-3 Burst Lightning
 4 Bedlam Reveler
 1 Kiln Fiend
 2 Kiln Fiend
-3 Kiln Fiend
 1 Snow-Covered Mountain
 2 Snow-Covered Mountain
 3 Snow-Covered Mountain
 3 Runaway Steam-Kin
-4 Burst Lightning
-3 Wooded Foothills
+3 Burst Lightning
+3 Kiln Fiend
 3 Bloodstained Mire
+3 Wooded Foothills
 3 Arid Mesa
 4 Arid Mesa
 3 Skullcrack
+4 Burst Lightning
 4 Fiery Islet
 1 Gut Shot
 1 Bonecrusher Giant
@@ -67,6 +67,7 @@
 11 Snow-Covered Mountain
 12 Snow-Covered Mountain
 13 Snow-Covered Mountain
+14 Mountain
 1 Wild Slash
 2 Wild Slash
 1 Grim Lavamancer
@@ -86,5 +87,4 @@
 4 Runaway Steam-Kin
 3 Wild Slash
 4 Kiln Fiend
-14 Mountain
 4 Wild Slash
