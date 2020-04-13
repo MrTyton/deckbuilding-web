@@ -24,20 +24,3 @@
 |2 [Thrashing Brontodon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456570)|                                                                                          |2 [Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)            |                            |
 |                                                                                                |                                                                                          |2 [Ritual of Soot](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452834)   |                            |
 
-
-# Other Options
-
-|*n*<sup>th</sup> copy|                                        Maindeck Card                                         |*n*<sup>th</sup> copy|                                    Sideboard Card                                     |
-|--------------------:|----------------------------------------------------------------------------------------------|--------------------:|---------------------------------------------------------------------------------------|
-|                    1|[Thrashing Brontodon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456570)|                    1|[Legion's End](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466860)|
-|                    1|Shadowspear                                                                                   |                    1|[Drill Bit](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457217)   |
-|                    1|Polukranos, Unchained                                                                         |                    1|Eat to Extinction                                                                      |
-|                    2|[Thrashing Brontodon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456570)|                    2|[Drill Bit](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457217)   |
-|                    2|[Castle Locthwain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473203)   |                    2|[Legion's End](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466860)|
-|                    2|Shadowspear                                                                                   |                    2|Eat to Extinction                                                                      |
-|                    3|Polukranos, Unchained                                                                         |                    3|[Drill Bit](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457217)   |
-|                    4|[Fabled Passage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473206)     |                    3|[Legion's End](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466860)|
-|                    4|[Murderous Rider](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473059)    |                    3|Eat to Extinction                                                                      |
-|                    2|Polukranos, Unchained                                                                         |                    4|[Drill Bit](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457217)   |
-|                     |                                                                                              |                    4|Eat to Extinction                                                                      |
-
