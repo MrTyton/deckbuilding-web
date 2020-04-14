@@ -41,6 +41,7 @@
 1 Memnite
 1 Reckless Bushwhacker
 1 Darksteel Citadel
+2 Springleaf Drum
 2 Toolcraft Exemplar
 2 Battlefield Forge
 2 Reckless Bushwhacker
@@ -49,15 +50,14 @@
 2 Venerated Loxodon
 2 Kuldotha Rebirth
 2 Ornithopter
-2 Springleaf Drum
 2 Darksteel Citadel
 2 Memnite
+3 Venerated Loxodon
 3 Kuldotha Rebirth
 3 Memnite
 3 Signal Pest
 3 Reckless Bushwhacker
 3 Devastating Summons
-3 Venerated Loxodon
 3 Springleaf Drum
 3 Toolcraft Exemplar
 3 Battlefield Forge
@@ -76,10 +76,10 @@
 3 Thalia, Guardian of Thraben
 1 Simian Spirit Guide
 1 Ghost Quarter
-1 Banishing Light
-1 Leonin Arbiter
-1 Cast Out
 1 Winds of Abandon
+1 Leonin Arbiter
+1 Banishing Light
+1 Cast Out
 1 Rest in Peace
 1 Aven Mindcensor
 1 Reality Smasher
@@ -98,8 +98,8 @@
 2 Rest in Peace
 2 Winds of Abandon
 2 Aven Mindcensor
-2 Reality Smasher
 2 Gemstone Caverns
+2 Reality Smasher
 2 Eternal Scourge
 2 Shefet Dunes
 2 Thought-Knot Seer
@@ -131,8 +131,8 @@
 1 Lightning Helix
 1 Boros Charm
 1 Eidolon of the Great Revel
-1 Rift Bolt
 1 Exquisite Firecraft
+1 Rift Bolt
 1 Goblin Guide
 2 Snow-Covered Mountain
 2 Skullcrack
@@ -149,10 +149,10 @@
 3 Eidolon of the Great Revel
 3 Goblin Guide
 3 Rift Bolt
-4 Lightning Helix
 4 Eidolon of the Great Revel
 4 Rift Bolt
 4 Skullcrack
+4 Lightning Helix
 4 Sacred Foundry
 4 Boros Charm
 4 Goblin Guide
@@ -171,15 +171,15 @@
 2 Thalia's Lieutenant
 2 Champion of the Parish
 2 Avalanche Riders
+3 Charming Prince
 3 Champion of the Parish
 3 Cavern of Souls
 3 Ephemerate
 3 Avalanche Riders
-3 Charming Prince
 3 Thalia's Lieutenant
+4 Charming Prince
 4 Thalia, Guardian of Thraben
 4 Champion of the Parish
-4 Charming Prince
 4 Avalanche Riders
 4 Ephemerate
 4 Magus of the Moon
@@ -199,15 +199,15 @@
 3 Mountain
 3 Grim Lavamancer
 3 Skewer the Critics
-3 Searing Blaze
 3 Wizard's Lightning
 3 Bloodstained Mire
 3 Soul-Scar Mage
+3 Searing Blaze
 4 Mountain
 4 Wooded Foothills
+4 Grim Lavamancer
 4 Wizard's Lightning
 4 Searing Blaze
-4 Grim Lavamancer
 4 Bloodstained Mire
 4 Skewer the Critics
 4 Soul-Scar Mage

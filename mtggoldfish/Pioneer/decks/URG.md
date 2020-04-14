@@ -28,3 +28,10 @@
 |2 [Scab-Clan Berserker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=398461) |                                                                                            |
 |3 [Scavenging Ooze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420783)     |                                                                                            |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                        Maindeck Card                                         |*n*<sup>th</sup> copy|Sideboard Card|
+|--------------------:|----------------------------------------------------------------------------------------------|---------------------|--------------|
+|                    3|[Goblin Rabblemaster](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438486)|                     |              |
+

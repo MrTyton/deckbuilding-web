@@ -31,8 +31,8 @@
 
 |*n*<sup>th</sup> copy|                                         Maindeck Card                                          |*n*<sup>th</sup> copy|                                         Sideboard Card                                          |
 |--------------------:|------------------------------------------------------------------------------------------------|--------------------:|-------------------------------------------------------------------------------------------------|
-|                    1|[Unbreakable Formation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457173)|                    1|[Disenchant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=847)               |
-|                    1|Shadowspear                                                                                     |                    2|[Disenchant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=847)               |
+|                    1|Shadowspear                                                                                     |                    1|[Disenchant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=847)               |
+|                    1|[Unbreakable Formation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457173)|                    2|[Disenchant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=847)               |
 |                    1|[Castle Embereth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473201)      |                    1|[Gideon Blackblade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463943)     |
 |                    1|[Chance for Glory](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452909)     |                    1|[Sorcerous Spyglass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435407)    |
 |                    1|[Rimrock Knight](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473099)       |                    1|[The Circle of Loyalty](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472971) |
@@ -42,6 +42,6 @@
 |                    2|[Conclave Tribunal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452756)    |                    3|[Lava Coil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452858)             |
 |                    2|[Rimrock Knight](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473099)       |                    3|[Embereth Shieldbreaker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473084)|
 |                    3|[Conclave Tribunal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452756)    |                     |                                                                                                 |
-|                    7|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)               |                     |                                                                                                 |
 |                    4|[Skyknight Vanguard](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466972)   |                     |                                                                                                 |
+|                    7|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)               |                     |                                                                                                 |
 

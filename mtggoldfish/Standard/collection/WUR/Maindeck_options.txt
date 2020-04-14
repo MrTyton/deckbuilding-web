@@ -1,53 +1,54 @@
+1 Omen of the Sea
+2 Omen of the Sea
+3 Omen of the Sea
+4 Omen of the Sea
+3 Shatter the Sky
+1 Fires of Invention
+2 Fires of Invention
+2 Mountain
+3 Fires of Invention
+4 Fires of Invention
 1 Dovin, Hand of Control
 3 Island
-1 Interplanar Beacon
-1 Omen of the Sea
-2 Interplanar Beacon
-2 Omen of the Sea
-3 Interplanar Beacon
-3 Omen of the Sea
-4 Interplanar Beacon
-4 Omen of the Sea
-4 Narset, Parter of Veils
+1 Castle Ardenvale
 2 Fae of Wishes
 3 Fae of Wishes
 4 Fae of Wishes
+1 Interplanar Beacon
+2 Interplanar Beacon
+3 Interplanar Beacon
+4 Interplanar Beacon
+4 Narset, Parter of Veils
 4 Plains
-3 Shatter the Sky
 1 Kenrith, the Returned King
 1 Cavalier of Flame
-1 Fires of Invention
-2 Cavalier of Flame
-2 Fires of Invention
 2 Kenrith, the Returned King
-2 Mountain
+2 Cavalier of Flame
 3 Cavalier of Flame
-3 Fires of Invention
 4 Cavalier of Flame
-4 Fires of Invention
+2 Castle Vantress
 2 Scorching Dragonfire
 1 Saheeli, Sublime Artificer
 2 Saheeli, Sublime Artificer
-1 Castle Ardenvale
 4 Island
+3 Dream Trawler
 1 Blast Zone
 1 Bounty Agent
 1 Lavinia, Azorius Renegade
 1 Karn, the Great Creator
-1 Thassa's Intervention
 1 Elspeth, Sun's Nemesis
-1 Time Wipe
+1 Thassa's Intervention
 1 Deputy of Detention
+1 Time Wipe
 1 Giant Killer
 1 Sky Tether
-2 Lavinia, Azorius Renegade
+2 Giant Killer
 2 Deputy of Detention
+2 Lavinia, Azorius Renegade
 2 Bounty Agent
 2 Sky Tether
-2 Giant Killer
 3 Giant Killer
 3 Bounty Agent
-3 Dream Trawler
 4 Fabled Passage
 5 Island
 1 Charming Prince
@@ -58,9 +59,9 @@
 1 Gadwick, the Wizened
 1 Lava Coil
 1 Claim the Firstborn
+2 The Akroan War
 2 Agent of Treachery
 2 Lava Coil
-2 The Akroan War
 2 Thassa, Deep-Dwelling
 3 Thassa, Deep-Dwelling
 3 The Akroan War
@@ -73,7 +74,6 @@
 4 The Birth of Meletis
 4 Elspeth Conquers Death
 5 Plains
-2 Castle Vantress
 2 Cavalier of Gales
 3 Kenrith, the Returned King
 3 Mountain
@@ -83,46 +83,21 @@
 3 Sphinx of Foresight
 4 Sphinx of Foresight
 3 Temple of Epiphany
+1 Banishing Light
+2 Banishing Light
 1 Dovin's Veto
 2 Dovin's Veto
+1 Storm's Wrath
 1 Ral, Izzet Viceroy
 1 Prison Realm
 2 Prison Realm
 1 Shimmer of Possibility
 1 Boros Guildgate
 1 Izzet Guildgate
-1 Banishing Light
 2 Shimmer of Possibility
 2 Izzet Guildgate
-2 Banishing Light
 3 Shimmer of Possibility
 3 Izzet Guildgate
-1 Ral's Outburst
-1 Niv-Mizzet, Parun
-1 Ionize
-1 Expansion/Explosion
-1 Opt
-1 Whirlwind Denial
-1 Storm's Wrath
-2 Ral's Outburst
-2 Ionize
-2 Whirlwind Denial
-2 Opt
-3 Temple of Triumph
-3 Ral's Outburst
-3 Opt
-4 Temple of Triumph
-4 Temple of Epiphany
-4 Opt
-1 Nadir Kraken
-1 The Royal Scions
-1 Swiftwater Cliffs
-1 Wind-Scarred Crag
-2 Nadir Kraken
-2 The Royal Scions
-2 Wind-Scarred Crag
-2 Swiftwater Cliffs
-4 Bonecrusher Giant
 1 Mobilized District
 1 Sarkhan the Masterless
 1 Mu Yanling, Sky Dancer
@@ -135,3 +110,43 @@
 3 Saheeli, Sublime Artificer
 3 Dovin, Hand of Control
 4 Sarkhan the Masterless
+1 Whirlwind Denial
+1 Niv-Mizzet, Parun
+1 Ral's Outburst
+1 Opt
+1 Ionize
+1 Expansion/Explosion
+2 Ral's Outburst
+2 Opt
+2 Ionize
+2 Whirlwind Denial
+3 Temple of Triumph
+3 Opt
+3 Ral's Outburst
+4 Temple of Triumph
+4 Temple of Epiphany
+4 Opt
+1 The Royal Scions
+1 Swiftwater Cliffs
+1 Nadir Kraken
+1 Wind-Scarred Crag
+2 Nadir Kraken
+2 The Royal Scions
+2 Wind-Scarred Crag
+2 Swiftwater Cliffs
+4 Bonecrusher Giant
+1 Heliod, Sun-Crowned
+1 Glint-Horn Buccaneer
+1 Benthic Biomancer
+2 Castle Ardenvale
+2 Heliod, Sun-Crowned
+2 Glint-Horn Buccaneer
+2 Benthic Biomancer
+2 Storm's Wrath
+3 Banishing Light
+3 Glint-Horn Buccaneer
+3 Benthic Biomancer
+3 Heliod, Sun-Crowned
+4 Shatter the Sky
+4 Benthic Biomancer
+4 Glint-Horn Buccaneer

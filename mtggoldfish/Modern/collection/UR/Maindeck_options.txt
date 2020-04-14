@@ -1,26 +1,23 @@
-2 Thought Scour
-3 Thought Scour
-4 Thought Scour
-4 Electrodominance
-1 As Foretold
-2 As Foretold
 3 As Foretold
 4 As Foretold
 4 Ancestral Vision
-3 Island
 1 Izzet Charm
 1 Crashing Footfalls
 2 Crashing Footfalls
 3 Crashing Footfalls
 4 Crashing Footfalls
 2 Mountain
-2 Polluted Delta
+1 Spell Snare
 4 Snapcaster Mage
-2 Flooded Strand
-2 Finale of Promise
+2 Polluted Delta
 2 Mystic Sanctuary
+2 Archmage's Charm
+2 Finale of Promise
 3 Force of Negation
-1 Magmatic Sinkhole
+1 Thought Scour
+2 Thought Scour
+3 Thought Scour
+4 Thought Scour
 1 Sleight of Hand
 1 Manamorphose
 2 Sleight of Hand
@@ -31,7 +28,7 @@
 1 Tolaria West
 1 Field of Ruin
 2 Field of Ruin
-4 Island
+3 Island
 1 Abrade
 2 Abrade
 1 Tormod's Crypt
@@ -57,6 +54,7 @@
 4 Living End
 4 Striped Riverwinder
 4 Curator of Mysteries
+4 Island
 1 Chart a Course
 1 Pyromancer Ascension
 1 Arclight Phoenix
@@ -72,26 +70,25 @@
 2 Simian Spirit Guide
 3 Simian Spirit Guide
 4 Simian Spirit Guide
-1 Young Pyromancer
-2 Young Pyromancer
-3 Young Pyromancer
 1 Thing in the Ice
 2 Thing in the Ice
 3 Thing in the Ice
+3 Polluted Delta
+4 Polluted Delta
+2 Flooded Strand
+3 Flooded Strand
+3 Mystic Sanctuary
+6 Snow-Covered Island
 1 Sulfur Falls
 1 Misty Rainforest
 2 Misty Rainforest
-6 Snow-Covered Island
-3 Polluted Delta
-4 Polluted Delta
-3 Flooded Strand
-3 Mystic Sanctuary
 1 Brazen Borrower
 2 Brazen Borrower
 3 Brazen Borrower
 3 Archmage's Charm
-1 The Royal Scions
 3 Fiery Islet
+1 Magmatic Sinkhole
+1 The Royal Scions
 1 Restore Balance
 1 Sphinx of Foresight
 2 Restore Balance
@@ -106,7 +103,10 @@
 4 Arcum's Astrolabe
 1 Mana Leak
 1 Flame Slash
+1 Young Pyromancer
+2 Young Pyromancer
 2 Mana Leak
+3 Young Pyromancer
 3 Field of Ruin
 4 Young Pyromancer
 1 Dreadhorde Arcanist
@@ -135,28 +135,6 @@
 3 Baral, Chief of Compliance
 3 Pyromancer Ascension
 4 Pyromancer Ascension
-1 Gut Shot
-1 Soul-Scar Mage
-1 Stormchaser Mage
-1 Mutagenic Growth
-1 Monastery Swiftspear
-2 Magmatic Sinkhole
-2 The Royal Scions
-2 Gut Shot
-2 Mutagenic Growth
-2 Soul-Scar Mage
-2 Monastery Swiftspear
-2 Stormchaser Mage
-3 Mutagenic Growth
-3 Monastery Swiftspear
-3 Stormchaser Mage
-3 Soul-Scar Mage
-4 Fiery Islet
-4 Sleight of Hand
-4 Monastery Swiftspear
-4 Stormchaser Mage
-4 Mutagenic Growth
-4 Soul-Scar Mage
 1 Blood Moon
 1 Spreading Seas
 1 Mystical Dispute
@@ -166,15 +144,25 @@
 3 Misty Rainforest
 4 Misty Rainforest
 7 Snow-Covered Island
-1 Narset, Parter of Veils
-1 Vendilion Clique
-1 Delver of Secrets
-1 Pteramander
-2 Narset, Parter of Veils
-2 Delver of Secrets
-2 Pteramander
-3 Pteramander
-3 Delver of Secrets
-4 Pteramander
-4 Delver of Secrets
-5 Island
+1 Gut Shot
+1 Soul-Scar Mage
+1 Stormchaser Mage
+1 Mutagenic Growth
+1 Monastery Swiftspear
+2 Magmatic Sinkhole
+2 The Royal Scions
+2 Monastery Swiftspear
+2 Gut Shot
+2 Mutagenic Growth
+2 Soul-Scar Mage
+2 Stormchaser Mage
+3 Mutagenic Growth
+3 Monastery Swiftspear
+3 Stormchaser Mage
+3 Soul-Scar Mage
+4 Fiery Islet
+4 Stormchaser Mage
+4 Sleight of Hand
+4 Monastery Swiftspear
+4 Mutagenic Growth
+4 Soul-Scar Mage

@@ -3,14 +3,14 @@
 1 Arid Mesa
 2 Arid Mesa
 2 Kolaghan's Command
-1 Mountain
-2 Mountain
 4 Seasoned Pyromancer
 1 Swamp
+1 Mountain
+2 Mountain
 1 Ox of Agonas
 2 Ox of Agonas
-1 Goblin Lore
 1 Flameblade Adept
+1 Goblin Lore
 1 Hollow One
 1 Bloodghast
 1 Street Wraith
@@ -36,10 +36,9 @@
 4 Goblin Lore
 2 Collective Brutality
 3 Arid Mesa
-1 Sunbaked Canyon
 1 Wooded Foothills
 2 Wooded Foothills
-3 Mountain
+1 Sunbaked Canyon
 1 Rotting Regisaur
 1 Mishra's Bauble
 2 Rotting Regisaur
@@ -52,6 +51,7 @@
 2 Magus of the Moon
 1 Dreadhorde Arcanist
 2 Dreadhorde Arcanist
+3 Mountain
 1 Flamewake Phoenix
 2 Flamewake Phoenix
 3 Flamewake Phoenix
@@ -60,7 +60,18 @@
 1 Ashiok, Dream Render
 2 Castle Locthwain
 3 Wooded Foothills
+1 Lavaclaw Reaches
+1 Dreadbore
+2 Ashiok, Dream Render
+2 Verdant Catacombs
+3 Ashiok, Dream Render
+3 Kolaghan's Command
+3 Swamp
+3 Snow-Covered Mountain
+4 Wooded Foothills
 4 Mountain
+4 Flamewake Phoenix
+4 Arid Mesa
 1 Goblin Guide
 1 Rift Bolt
 1 Skewer the Critics
@@ -68,68 +79,33 @@
 1 Skullcrack
 1 Monastery Swiftspear
 1 Lava Spike
+1 Searing Blaze
+1 Shard Volley
+1 Bump in the Night
 2 Rift Bolt
 2 Goblin Guide
 2 Skullcrack
 2 Skewer the Critics
 2 Lava Spike
 2 Monastery Swiftspear
+2 Searing Blaze
 2 Sunbaked Canyon
+2 Bump in the Night
 3 Rift Bolt
 3 Goblin Guide
+3 Searing Blaze
 3 Monastery Swiftspear
-3 Skullcrack
 3 Skewer the Critics
+3 Skullcrack
 3 Lava Spike
 3 Sunbaked Canyon
+3 Bump in the Night
 4 Goblin Guide
-4 Skullcrack
 4 Lava Spike
 4 Skewer the Critics
+4 Skullcrack
 4 Rift Bolt
 4 Monastery Swiftspear
-1 Lavaclaw Reaches
-1 Dreadbore
-2 Ashiok, Dream Render
-2 Verdant Catacombs
-3 Kolaghan's Command
-3 Swamp
-3 Ashiok, Dream Render
-3 Snow-Covered Mountain
-4 Wooded Foothills
-4 Flamewake Phoenix
-4 Arid Mesa
-1 Searing Blaze
-1 Shard Volley
-1 Bump in the Night
-2 Searing Blaze
-2 Bump in the Night
-3 Searing Blaze
-3 Bump in the Night
 4 Bump in the Night
 4 Dark Confidant
 5 Snow-Covered Swamp
-1 Eidolon of the Great Revel
-1 Light Up the Stage
-1 Harsh Mentor
-1 Fanatical Firebrand
-2 Fiery Islet
-2 Eidolon of the Great Revel
-2 Light Up the Stage
-2 Harsh Mentor
-3 Eidolon of the Great Revel
-3 Fiery Islet
-3 Light Up the Stage
-3 Harsh Mentor
-4 Fiery Islet
-4 Eidolon of the Great Revel
-4 Light Up the Stage
-4 Sunbaked Canyon
-4 Harsh Mentor
-5 Mountain
-6 Mountain
-7 Mountain
-8 Mountain
-9 Mountain
-10 Mountain
-11 Mountain

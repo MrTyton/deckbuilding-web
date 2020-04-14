@@ -25,3 +25,13 @@
 |1 [Sorcerous Spyglass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435407)|                                                                                            |                                                                                                |                                                                                             |                                                                                              |                                                                                                 |
 |1 [Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)    |                                                                                            |                                                                                                |                                                                                             |                                                                                              |                                                                                                 |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                         Maindeck Card                                         |*n*<sup>th</sup> copy|                                      Sideboard Card                                       |
+|--------------------:|-----------------------------------------------------------------------------------------------|--------------------:|-------------------------------------------------------------------------------------------|
+|                    1|[Collective Brutality](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414380)|                    1|[Murderous Rider](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473059) |
+|                    2|[Collective Brutality](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414380)|                    1|[Contagion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3069)         |
+|                    3|[Plague Engineer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464049)     |                    3|[To the Slaughter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409889)|
+|                    9|[Snow-Covered Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121256)  |                     |                                                                                           |
+

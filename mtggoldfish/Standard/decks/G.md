@@ -23,3 +23,11 @@
 |2 [Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452)|4 [Shifting Ceratops](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466948)  |4 Destiny Spinner    |
 |                                                                                              |3 [Thrashing Brontodon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456570)|2 Setessan Petitioner|
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                      Maindeck Card                                       |*n*<sup>th</sup> copy|Sideboard Card|
+|--------------------:|------------------------------------------------------------------------------------------|---------------------|--------------|
+|                    1|[Voracious Hydra](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466954)|                     |              |
+|                    2|[Voracious Hydra](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466954)|                     |              |
+
