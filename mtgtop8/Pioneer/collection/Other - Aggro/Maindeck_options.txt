@@ -4,14 +4,14 @@
 3 Forest
 4 Forest
 5 Forest
-1 Temple Garden
 1 Sunpetal Grove
-2 Temple Garden
+1 Temple Garden
 2 Sunpetal Grove
-3 Temple Garden
+2 Temple Garden
 3 Sunpetal Grove
-4 Sunpetal Grove
+3 Temple Garden
 4 Temple Garden
+4 Sunpetal Grove
 1 Llanowar Elves
 2 Llanowar Elves
 3 Llanowar Elves
@@ -146,19 +146,23 @@
 4 Isolated Chapel
 2 Seal Away
 1 Collected Company
-1 Militia Bugler
 1 Bygone Bishop
 1 Shared Summons
 1 Radiant Fountain
+1 Militia Bugler
 2 Collected Company
-2 Militia Bugler
 2 Radiant Fountain
+2 Militia Bugler
 2 Shared Summons
 3 Collected Company
 3 Radiant Fountain
 3 Militia Bugler
 4 Collected Company
 4 Militia Bugler
+1 Cast Out
+1 Starfield Mystic
+3 Gideon's Intervention
+4 Gideon's Intervention
 3 Swamp
 1 Castle Locthwain
 2 Castle Locthwain
@@ -203,30 +207,26 @@
 3 Aether Hub
 3 Springleaf Drum
 3 Shrapnel Blast
-3 Mana Confluence
 3 Ornithopter
 3 Darksteel Citadel
 3 Ghostfire Blade
 3 Ensoul Artifact
 3 Gingerbrute
 3 Spire of Industry
+3 Mana Confluence
 3 All That Glitters
 3 Steel Overseer
 4 Stonecoil Serpent
 4 Spire of Industry
 4 Aether Hub
 4 Ghostfire Blade
-4 Mana Confluence
 4 Shrapnel Blast
 4 Darksteel Citadel
 4 Ensoul Artifact
 4 Ornithopter
 4 Springleaf Drum
 4 Gingerbrute
-1 Cast Out
-1 Starfield Mystic
-3 Gideon's Intervention
-4 Gideon's Intervention
+4 Mana Confluence
 3 Daxos, Blessed by the Sun
 4 Spell Queller
 1 Kalitas, Traitor of Ghet
@@ -373,10 +373,10 @@
 1 Revival / Revenge
 1 Temple of Silence
 1 Shambling Vent
-2 Temple of Silence
 2 Resplendent Angel
 2 Revival / Revenge
 2 Bishop of Wings
+2 Temple of Silence
 2 Seraph of the Scales
 3 Temple of Silence
 3 Bishop of Wings
@@ -384,8 +384,8 @@
 4 Temple of Silence
 4 Resplendent Angel
 4 Bishop of Wings
-1 Reckless Bushwhacker
 1 Legion's Landing
+1 Reckless Bushwhacker
 1 Shefet Dunes
 1 Lightning Strike
 1 Secure the Wastes
@@ -421,29 +421,29 @@
 4 Battlefield Forge
 1 Ghor-Clan Rampager
 1 Pelt Collector
-1 Atarka's Command
 1 Experiment One
+1 Atarka's Command
 1 Bronzehide Lion
 1 Boros Charm
 1 Gruul Spellbreaker
 1 Fleecemane Lion
 1 Rootbound Crag
 2 Ghor-Clan Rampager
+2 Questing Beast
 2 Pelt Collector
-2 Atarka's Command
 2 Experiment One
+2 Atarka's Command
 2 Bronzehide Lion
 2 Boros Charm
 2 Gruul Spellbreaker
 2 Fleecemane Lion
-2 Questing Beast
 2 Rootbound Crag
 3 Pelt Collector
 3 Experiment One
 3 Atarka's Command
 3 Ghor-Clan Rampager
-3 Questing Beast
 3 Bronzehide Lion
+3 Questing Beast
 3 Rootbound Crag
 3 Gruul Spellbreaker
 3 Boros Charm
@@ -474,9 +474,9 @@
 3 Dreadhorde Butcher
 3 Blood Crypt
 3 Overgrown Tomb
-4 Dreadhorde Butcher
 4 Tireless Tracker
 4 Foreboding Ruins
+4 Dreadhorde Butcher
 4 Blood Crypt
 4 Overgrown Tomb
 4 Bonecrusher Giant

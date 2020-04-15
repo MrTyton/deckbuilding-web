@@ -82,8 +82,8 @@
 |                    3|[Silence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=191083)               |                    1|[Detection Tower](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447386)        |
 |                    2|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)                |                    1|[Pernicious Deed](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442201)        |
 |                    3|[Wishclaw Talisman](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473072)     |                    1|[Extirpate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370384)              |
-|                     |                                                                                                 |                    2|[Pernicious Deed](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442201)        |
 |                     |                                                                                                 |                    2|[Extirpate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370384)              |
+|                     |                                                                                                 |                    2|[Pernicious Deed](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442201)        |
 |                     |                                                                                                 |                    3|[Flusterstorm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=228255)           |
 |                     |                                                                                                 |                    4|[Flusterstorm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=228255)           |
 
