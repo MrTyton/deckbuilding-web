@@ -18,14 +18,14 @@
 1 Horizon Canopy
 1 Prismatic Vista
 1 Noble Hierarch
+1 Collected Company
 1 Snow-Covered Island
 1 Uro, Titan of Nature's Wrath
-1 Collected Company
 1 Ice-Fang Coatl
 1 Breeding Pool
 1 Razorverge Thicket
-1 Deputy of Detention
 1 Batterskull
+1 Deputy of Detention
 1 Teferi, Time Raveler
 1 Hallowed Fountain
 1 Windswept Heath
@@ -36,11 +36,11 @@
 1 Stoneforge Mystic
 1 Path to Exile
 2 Ranger-Captain of Eos
-2 Giver of Runes
 2 Prismatic Vista
 2 Collected Company
-2 Noble Hierarch
+2 Giver of Runes
 2 Horizon Canopy
+2 Noble Hierarch
 2 Snow-Covered Island
 2 Uro, Titan of Nature's Wrath
 2 Ice-Fang Coatl
@@ -61,20 +61,21 @@
 3 Windswept Heath
 3 Uro, Titan of Nature's Wrath
 3 Razorverge Thicket
-4 Collected Company
 4 Stoneforge Mystic
 4 Prismatic Vista
-4 Noble Hierarch
+4 Collected Company
 4 Ice-Fang Coatl
+4 Noble Hierarch
 4 Spell Queller
 4 Path to Exile
 1 Cavern of Souls
 2 Cavern of Souls
 4 Fatal Push
 1 Bitterblossom
-1 Polluted Delta
 1 Drowned Catacomb
+1 Polluted Delta
 1 Brazen Borrower
+1 Earwig Squad
 1 Island
 1 Triton Shorestalker
 1 Slither Blade
@@ -82,27 +83,26 @@
 1 Watery Grave
 1 Oona's Blackguard
 1 Notorious Throng
-1 Earwig Squad
 1 Frogtosser Banneret
 2 Bitterblossom
+2 Frogtosser Banneret
 2 Polluted Delta
 2 Brazen Borrower
 2 Drowned Catacomb
+2 Earwig Squad
 2 Oona's Blackguard
 2 Notorious Throng
 2 Island
-2 Earwig Squad
 2 Stinkdrinker Bandit
 2 Watery Grave
-2 Frogtosser Banneret
 2 Slither Blade
 2 Triton Shorestalker
 3 Bitterblossom
 3 Brazen Borrower
 3 Watery Grave
+3 Frogtosser Banneret
 3 Drowned Catacomb
 3 Polluted Delta
-3 Frogtosser Banneret
 3 Earwig Squad
 3 Triton Shorestalker
 3 Slither Blade
@@ -157,7 +157,6 @@
 3 Aether Vial
 3 Gravecrawler
 4 Carrion Feeder
-4 Cavern of Souls
 4 Silent Clearing
 4 Swamp
 4 Tidehollow Sculler
@@ -168,5 +167,6 @@
 4 Aether Vial
 4 Undead Augur
 4 Geralf's Messenger
+4 Cavern of Souls
 5 Swamp
 6 Swamp

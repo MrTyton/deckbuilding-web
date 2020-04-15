@@ -1,15 +1,10 @@
 2 Warping Wail
-1 Karn Liberated
 2 Endbringer
+1 Karn Liberated
 1 Sea Gate Wreckage
 1 Field of Ruin
 1 Emrakul, the Promised End
 1 Forest
-1 Once Upon a Time
-2 Once Upon a Time
-3 Once Upon a Time
-4 Once Upon a Time
-2 Forest
 1 Stomping Ground
 1 Noble Hierarch
 1 Eldrazi Obligator
@@ -21,6 +16,7 @@
 1 Karplusan Forest
 2 Stomping Ground
 2 Noble Hierarch
+2 Forest
 2 Bonecrusher Giant
 2 Bloodbraid Elf
 2 Eldrazi Obligator
@@ -36,9 +32,13 @@
 4 Eldrazi Obligator
 4 Lightning Bolt
 4 Karplusan Forest
-2 Karn Liberated
 2 All Is Dust
 1 Ulamog, the Ceaseless Hunger
+2 Karn Liberated
+1 Once Upon a Time
+2 Once Upon a Time
+3 Once Upon a Time
+4 Once Upon a Time
 1 Wooded Foothills
 1 Gruul Spellbreaker
 1 Smuggler's Copter
@@ -71,6 +71,8 @@
 1 Gemstone Caverns
 2 Simian Spirit Guide
 2 Gemstone Caverns
+1 Ugin, the Spirit Dragon
+3 Blast Zone
 1 Radiant Fountain
 3 Wastes
 3 Mind Stone
