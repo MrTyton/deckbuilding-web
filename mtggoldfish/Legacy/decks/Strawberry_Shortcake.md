@@ -30,9 +30,9 @@
 
 |*n*<sup>th</sup> copy|                                        Maindeck Card                                         |*n*<sup>th</sup> copy|                                          Sideboard Card                                          |
 |--------------------:|----------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------------|
-|                    2|[Simian Spirit Guide](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442137)|                    1|[Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)                 |
-|                    1|[Scalding Tarn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405107)      |                    1|Soul-Guide Lantern                                                                                |
+|                    1|[Scalding Tarn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405107)      |                    1|[Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)                 |
+|                    2|[Scalding Tarn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405107)      |                    1|Soul-Guide Lantern                                                                                |
 |                    3|[Scalding Tarn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405107)      |                    1|[Ugin, the Spirit Dragon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391948)|
 |                    4|[Scalding Tarn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405107)      |                    2|[Ugin, the Spirit Dragon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391948)|
-|                    2|[Scalding Tarn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405107)      |                     |                                                                                                  |
+|                    2|[Simian Spirit Guide](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442137)|                     |                                                                                                  |
 

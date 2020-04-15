@@ -30,8 +30,8 @@
 
 |*n*<sup>th</sup> copy|                                        Maindeck Card                                         |*n*<sup>th</sup> copy|                                         Sideboard Card                                         |
 |--------------------:|----------------------------------------------------------------------------------------------|--------------------:|------------------------------------------------------------------------------------------------|
-|                    1|[Legion Warboss](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452859)     |                    1|[Welding Jar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=48328)           |
-|                    1|[Zhalfirin Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443137)     |                    1|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)       |
+|                    1|[Legion Warboss](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452859)     |                    1|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)       |
+|                    1|[Zhalfirin Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443137)     |                    1|[Welding Jar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=48328)           |
 |                    2|[Hazoret the Fervent](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426838)|                    1|[Hazoret the Fervent](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426838)  |
 |                    2|[Magus of the Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=136152)  |                    1|[Damping Matrix](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426043)       |
 |                    2|[Legion Warboss](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452859)     |                    1|[Smash to Smithereens](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397795) |

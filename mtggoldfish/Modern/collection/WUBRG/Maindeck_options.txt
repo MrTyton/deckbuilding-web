@@ -18,20 +18,20 @@
 2 Breeding Pool
 2 Ashiok, Dream Render
 1 Karn, the Great Creator
-1 Interplanar Beacon
 1 Jace, the Mind Sculptor
 1 Narset, Parter of Veils
 1 Dovin, Hand of Control
 1 Arbor Elf
+1 Interplanar Beacon
 2 Karn, the Great Creator
 2 Dovin, Hand of Control
 2 Interplanar Beacon
 2 Narset, Parter of Veils
 2 Arbor Elf
 2 Jace, the Mind Sculptor
-3 Interplanar Beacon
 3 Karn, the Great Creator
 3 Dovin, Hand of Control
+3 Interplanar Beacon
 3 Arbor Elf
 4 Karn, the Great Creator
 4 Interplanar Beacon
@@ -90,8 +90,8 @@
 1 Kroxa, Titan of Death's Hunger
 1 Polluted Delta
 1 Satyr Wayfinder
-1 Merfolk Secretkeeper
 1 Jace, Vryn's Prodigy
+1 Merfolk Secretkeeper
 1 Skaab Ruinator
 1 Vengevine
 1 Unearth
@@ -104,8 +104,8 @@
 1 Claim/Fame
 2 Overgrown Tomb
 2 Satyr Wayfinder
-2 Merfolk Secretkeeper
 2 Jace, Vryn's Prodigy
+2 Merfolk Secretkeeper
 2 Creeping Chill
 2 Claim/Fame
 2 Darkslick Shores
@@ -118,9 +118,9 @@
 2 Vengevine
 2 Polluted Delta
 3 Darkslick Shores
-3 Merfolk Secretkeeper
 3 Satyr Wayfinder
 3 Jace, Vryn's Prodigy
+3 Merfolk Secretkeeper
 3 Hedron Crab
 3 Unearth
 3 Drown in Filth
@@ -130,9 +130,9 @@
 3 Claim/Fame
 3 Creeping Chill
 3 Gravecrawler
-4 Merfolk Secretkeeper
 4 Satyr Wayfinder
 4 Stitcher's Supplier
+4 Merfolk Secretkeeper
 4 Vengevine
 4 Hedron Crab
 4 Polluted Delta
@@ -165,43 +165,43 @@
 1 Botanical Sanctum
 2 Eldritch Evolution
 2 Botanical Sanctum
-3 Eldritch Evolution
 3 Botanical Sanctum
-1 Chord of Calling
-1 Prime Speaker Vannifar
+3 Eldritch Evolution
 1 Wall of Roots
+1 Chord of Calling
 1 Renegade Rallier
 1 Voice of Resurgence
-1 Gilded Goose
 1 Magus of the Moon
 1 Scavenging Ooze
 1 Corridor Monitor
 1 Restoration Angel
 1 Bounding Krasis
+1 Prime Speaker Vannifar
 1 Eternal Witness
-2 Chord of Calling
-2 Prime Speaker Vannifar
+1 Gilded Goose
 2 Wall of Roots
-2 Gilded Goose
+2 Chord of Calling
 2 Voice of Resurgence
+2 Gilded Goose
 2 Stomping Ground
+2 Prime Speaker Vannifar
 2 Restoration Angel
-3 Prime Speaker Vannifar
 3 Voice of Resurgence
+3 Prime Speaker Vannifar
 3 Chord of Calling
 3 Wall of Roots
 4 Voice of Resurgence
-4 Prime Speaker Vannifar
 4 Wall of Roots
+4 Prime Speaker Vannifar
 4 Botanical Sanctum
 1 Urborg, Tomb of Yawgmoth
 1 Godless Shrine
 1 Cavern of Souls
 1 Mutavault
+1 Aether Vial
 1 Unsettled Mariner
 1 Sinew Sliver
 1 Galerider Sliver
-1 Aether Vial
 1 Cloudshredder Sliver
 1 Sliver Hive
 1 Manaweft Sliver
@@ -232,10 +232,10 @@
 3 Cavern of Souls
 3 Verdant Catacombs
 3 Mutavault
+3 Aether Vial
 3 Unsettled Mariner
 3 Manaweft Sliver
 3 Sinew Sliver
-3 Aether Vial
 3 Cloudshredder Sliver
 3 Sliver Hive
 3 Sedge Sliver
@@ -244,8 +244,8 @@
 3 Galerider Sliver
 4 Cavern of Souls
 4 Mutavault
-4 Sedge Sliver
 4 Aether Vial
+4 Sedge Sliver
 4 Predatory Sliver
 4 Sliver Hive
 4 Sinew Sliver
@@ -277,8 +277,8 @@
 3 Brazen Borrower
 3 Living End
 3 Desert Cerodon
-3 Striped Riverwinder
 3 Curator of Mysteries
+3 Striped Riverwinder
 3 Ardent Plea
 3 Violent Outburst
 3 Street Wraith
@@ -299,8 +299,8 @@
 1 Mana Confluence
 1 Nourishing Shoal
 1 Griselbrand
-1 Neoform
 1 Manamorphose
+1 Neoform
 1 Autochthon Wurm
 1 Pact of Negation
 1 Laboratory Maniac

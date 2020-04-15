@@ -1,76 +1,23 @@
-2 Eladamri's Call
-3 Razorverge Thicket
-1 Sword of Fire and Ice
-1 Batterskull
-1 Stoneforge Mystic
-2 Stoneforge Mystic
-3 Stoneforge Mystic
-1 Knight of Autumn
-1 Giver of Runes
-2 Giver of Runes
-3 Giver of Runes
-4 Horizon Canopy
-4 Razorverge Thicket
-2 Plains
-1 Path to Exile
-2 Path to Exile
-3 Path to Exile
-4 Stoneforge Mystic
-4 Path to Exile
-1 Ghost Quarter
-1 Field of Ruin
-2 Ghost Quarter
-1 Aven Mindcensor
-1 Thalia, Guardian of Thraben
-1 Charming Prince
-1 Leonin Arbiter
-1 Flickerwisp
-1 Aether Vial
-1 Sword of Light and Shadow
-2 Field of Ruin
-2 Charming Prince
-2 Knight of Autumn
-2 Thalia, Guardian of Thraben
-2 Leonin Arbiter
-2 Flickerwisp
-2 Aven Mindcensor
-2 Aether Vial
-3 Charming Prince
-3 Field of Ruin
-3 Ghost Quarter
-3 Thalia, Guardian of Thraben
-3 Leonin Arbiter
-3 Aether Vial
-4 Giver of Runes
-4 Aether Vial
-4 Ghost Quarter
-4 Field of Ruin
-4 Leonin Arbiter
-1 Snow-Covered Forest
-1 Snow-Covered Plains
-1 Mirran Crusader
-1 Chord of Calling
-2 Snow-Covered Plains
-3 Snow-Covered Plains
-4 Snow-Covered Plains
-4 Charming Prince
-3 Forest
+1 Forest
 2 Mirran Crusader
-3 Temple Garden
+1 Noble Hierarch
+2 Noble Hierarch
+3 Noble Hierarch
 1 Prismatic Vista
 2 Prismatic Vista
+4 Noble Hierarch
 1 Wastes
 1 Eldrazi Displacer
 1 Sword of Feast and Famine
 1 Engineered Explosives
 1 Thought-Knot Seer
 1 Elspeth, Knight-Errant
+1 Reality Smasher
 1 Dromoka's Command
 1 Eldrazi Temple
 1 Boreal Druid
 1 Cavern of Souls
 1 Matter Reshaper
-1 Reality Smasher
 1 Blast Zone
 1 Brushland
 1 Ancient Stirrings
@@ -78,18 +25,18 @@
 2 Eldrazi Displacer
 2 Thought-Knot Seer
 2 Reality Smasher
-2 Matter Reshaper
 2 Brushland
+2 Matter Reshaper
 2 Ancient Stirrings
 2 Boreal Druid
-2 Cavern of Souls
 2 Eldrazi Temple
+2 Cavern of Souls
 3 Thought-Knot Seer
 3 Eldrazi Displacer
+3 Brushland
 3 Matter Reshaper
 3 Eldrazi Temple
 3 Reality Smasher
-3 Brushland
 3 Ancient Stirrings
 4 Thought-Knot Seer
 4 Eldrazi Temple
@@ -97,30 +44,60 @@
 4 Reality Smasher
 4 Ancient Stirrings
 4 Brushland
-1 Marsh Flats
-1 Grand Abolisher
 3 Aven Mindcensor
-1 Viridian Longbow
-1 Wooded Foothills
-1 Courser of Kruphix
-3 Eladamri's Call
-4 Eladamri's Call
+1 Birds of Paradise
+1 Temple Garden
+1 Windswept Heath
+1 Collected Company
+2 Windswept Heath
+2 Temple Garden
+2 Birds of Paradise
+2 Collected Company
+3 Windswept Heath
+3 Temple Garden
+3 Birds of Paradise
+3 Collected Company
+4 Windswept Heath
+4 Collected Company
+1 Finale of Devastation
+1 Eternal Witness
+1 Walking Ballista
+1 Vizier of Remedies
 1 Duskwatch Recruiter
+1 Heliod, Sun-Crowned
+1 Spike Feeder
+1 Devoted Druid
+1 Ranger-Captain of Eos
 2 Finale of Devastation
+2 Forest
+2 Ranger-Captain of Eos
+2 Devoted Druid
 2 Duskwatch Recruiter
+2 Heliod, Sun-Crowned
+2 Spike Feeder
 2 Walking Ballista
-3 Walking Ballista
+2 Vizier of Remedies
+3 Forest
+3 Spike Feeder
+3 Ranger-Captain of Eos
+3 Heliod, Sun-Crowned
 3 Vizier of Remedies
-4 Spike Feeder
+3 Walking Ballista
+3 Devoted Druid
 4 Temple Garden
+4 Spike Feeder
+4 Devoted Druid
+4 Ranger-Captain of Eos
 1 Flagstones of Trokair
 1 Sylvan Scrying
 1 Bojuka Bog
 1 Ramunap Excavator
 1 Tireless Tracker
 1 Voice of Resurgence
+1 Gavony Township
 1 Dryad of the Ilysian Grove
 1 Valakut, the Molten Pinnacle
+1 Scavenging Ooze
 1 Llanowar Elves
 1 Knight of the Reliquary
 2 Sylvan Scrying
@@ -128,10 +105,10 @@
 2 Llanowar Elves
 2 Tireless Tracker
 2 Voice of Resurgence
+2 Ramunap Excavator
 2 Scavenging Ooze
 2 Valakut, the Molten Pinnacle
 2 Knight of the Reliquary
-2 Ramunap Excavator
 2 Snow-Covered Forest
 3 Snow-Covered Forest
 3 Dryad of the Ilysian Grove

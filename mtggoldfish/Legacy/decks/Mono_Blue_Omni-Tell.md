@@ -40,10 +40,10 @@
 |                    3|[Misty Rainforest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405102)|                     |                                                                                              |
 |                    4|[Misty Rainforest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405102)|                     |                                                                                              |
 |                    2|[Impulse](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446087)         |                     |                                                                                              |
-|                    4|[Ancient Tomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409567)    |                     |                                                                                              |
 |                    1|[Flusterstorm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=228255)    |                     |                                                                                              |
 |                    2|[Flusterstorm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=228255)    |                     |                                                                                              |
 |                    4|[Lotus Petal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420602)     |                     |                                                                                              |
-|                    3|[Impulse](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446087)         |                     |                                                                                              |
+|                    4|[Ancient Tomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409567)    |                     |                                                                                              |
 |                    2|[Intuition](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=4707)         |                     |                                                                                              |
+|                    3|[Impulse](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446087)         |                     |                                                                                              |
 

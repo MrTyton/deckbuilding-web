@@ -32,10 +32,10 @@
 1 Voice of Resurgence
 2 Voice of Resurgence
 3 Forest
-1 Chord of Calling
 1 Restoration Angel
 1 Kiki-Jiki, Mirror Breaker
 1 Eternal Witness
+1 Chord of Calling
 2 Restoration Angel
 2 Chord of Calling
 3 Chord of Calling
@@ -59,8 +59,8 @@
 2 Atarka's Command
 3 Goblin Guide
 3 Atarka's Command
-4 Goblin Guide
 4 Atarka's Command
+4 Goblin Guide
 1 Eidolon of the Great Revel
 1 Tarfire
 1 Char
@@ -95,14 +95,14 @@
 1 Grove of the Burnwillows
 3 Birds of Paradise
 4 Birds of Paradise
-1 Viridian Longbow
-1 Vizier of Remedies
 1 Devoted Druid
+1 Vizier of Remedies
+1 Viridian Longbow
+2 Vizier of Remedies
 2 Devoted Druid
 2 Eternal Witness
-2 Vizier of Remedies
-3 Vizier of Remedies
 3 Devoted Druid
+3 Vizier of Remedies
 4 Devoted Druid
 2 Horizon Canopy
 1 Domri, Anarch of Bolas
@@ -134,6 +134,16 @@
 2 Flame Slash
 3 Flame Slash
 4 Flame Slash
+1 Verdant Catacombs
+1 Summoning Trap
+2 Grove of the Burnwillows
+2 Summoning Trap
+2 Kiki-Jiki, Mirror Breaker
+3 Summoning Trap
+3 Kiki-Jiki, Mirror Breaker
+3 Eternal Witness
+4 Eternal Witness
+4 Restoration Angel
 1 Thraben Inspector
 1 Reckless Bushwhacker
 1 Memnite
@@ -166,25 +176,15 @@
 3 Kuldotha Rebirth
 3 Venerated Loxodon
 3 Burning-Tree Emissary
-4 Horizon Canopy
-4 Memnite
 4 Bloodstained Mire
-4 Reckless Bushwhacker
+4 Memnite
 4 Ornithopter
+4 Reckless Bushwhacker
 4 Kuldotha Rebirth
 4 Signal Pest
 4 Thraben Inspector
 4 Burning-Tree Emissary
-1 Verdant Catacombs
-1 Summoning Trap
-2 Grove of the Burnwillows
-2 Summoning Trap
-2 Kiki-Jiki, Mirror Breaker
-3 Summoning Trap
-3 Kiki-Jiki, Mirror Breaker
-3 Eternal Witness
-4 Eternal Witness
-4 Restoration Angel
+4 Horizon Canopy
 1 Grim Lavamancer
 1 Blood Moon
 1 Sword of Light and Shadow
@@ -194,8 +194,8 @@
 1 Burning-Tree Shaman
 1 Glittering Wish
 2 Blood Moon
-2 Flagstones of Trokair
 2 Simian Spirit Guide
+2 Flagstones of Trokair
 2 Burning-Tree Shaman
 2 Boom/Bust
 2 Glittering Wish

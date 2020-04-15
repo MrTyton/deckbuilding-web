@@ -31,8 +31,8 @@
 
 |*n*<sup>th</sup> copy|                                        Maindeck Card                                        |*n*<sup>th</sup> copy|                                       Sideboard Card                                        |
 |--------------------:|---------------------------------------------------------------------------------------------|--------------------:|---------------------------------------------------------------------------------------------|
-|                    1|[Sorcerous Spyglass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435407)|                    1|[Steel Hellkite](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389693)    |
-|                    1|[Cavern of Souls](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278058)   |                    1|[Walking Ballista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423848)  |
+|                    1|[Cavern of Souls](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278058)   |                    1|[Steel Hellkite](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389693)    |
+|                    1|[Sorcerous Spyglass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435407)|                    1|[Walking Ballista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423848)  |
 |                    1|[Walking Ballista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423848)  |                    1|[Sorcerous Spyglass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435407)|
 |                    1|[Warping Wail](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407522)      |                    1|[Spine of Ish Sah](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376514)  |
 |                    1|[Planar Bridge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423838)     |                    1|[Mycosynth Lattice](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446209) |
