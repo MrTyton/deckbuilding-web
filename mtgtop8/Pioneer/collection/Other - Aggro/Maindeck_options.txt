@@ -60,31 +60,31 @@
 1 Sigil of the Empty Throne
 1 Banishing Light
 1 Calix, Destiny's Hand
+1 Setessan Champion
 1 Seal Away
 1 Sphere of Safety
-1 Setessan Champion
 1 Eidolon of Blossoms
 1 Herald of the Pantheon
 2 Wolfwillow Haven
-2 Temple of Plenty
-2 Banishing Light
 2 Setessan Champion
+2 Banishing Light
 2 Eidolon of Blossoms
 2 Sigil of the Empty Throne
 2 Herald of the Pantheon
+2 Temple of Plenty
 2 Sphere of Safety
 3 Wolfwillow Haven
 3 Banishing Light
+3 Setessan Champion
 3 Temple of Plenty
 3 Eidolon of Blossoms
-3 Setessan Champion
 3 Herald of the Pantheon
 4 Banishing Light
 4 Temple of Plenty
+4 Setessan Champion
 4 Eidolon of Blossoms
 4 Herald of the Pantheon
 4 Courser of Kruphix
-4 Setessan Champion
 4 Wolfwillow Haven
 2 Gideon's Intervention
 1 Selfless Spirit
@@ -175,7 +175,6 @@
 4 Bomat Courier
 1 Mana Confluence
 2 Mana Confluence
-1 Aether Hub
 1 Springleaf Drum
 1 Stonecoil Serpent
 1 Ornithopter
@@ -186,11 +185,11 @@
 1 Shrapnel Blast
 1 Spire of Industry
 1 Hope of Ghirapur
+1 Aether Hub
 1 Darksteel Citadel
 1 Steel Overseer
 1 All That Glitters
 2 Stonecoil Serpent
-2 Aether Hub
 2 Springleaf Drum
 2 Ensoul Artifact
 2 Spire of Industry
@@ -202,9 +201,9 @@
 2 Hope of Ghirapur
 2 All That Glitters
 2 Steel Overseer
+2 Aether Hub
 2 Metallic Rebuke
 3 Stonecoil Serpent
-3 Aether Hub
 3 Springleaf Drum
 3 Shrapnel Blast
 3 Ornithopter
@@ -216,9 +215,9 @@
 3 Mana Confluence
 3 All That Glitters
 3 Steel Overseer
-4 Stonecoil Serpent
+3 Aether Hub
 4 Spire of Industry
-4 Aether Hub
+4 Stonecoil Serpent
 4 Ghostfire Blade
 4 Shrapnel Blast
 4 Darksteel Citadel
@@ -226,6 +225,7 @@
 4 Ornithopter
 4 Springleaf Drum
 4 Gingerbrute
+4 Aether Hub
 4 Mana Confluence
 3 Daxos, Blessed by the Sun
 4 Spell Queller
@@ -293,7 +293,6 @@
 2 Satyr Wayfinder
 3 Satyr Wayfinder
 4 Satyr Wayfinder
-1 Growth Spiral
 1 Kiora Bests the Sea God
 1 Cavalier of Thorns
 1 Castle Garenbrig
@@ -308,6 +307,7 @@
 1 Yavimaya Coast
 1 Island
 1 Ipnu Rivulet
+1 Growth Spiral
 1 Breeding Pool
 2 Blast Zone
 2 Growth Spiral
@@ -323,8 +323,8 @@
 2 Uro, Titan of Nature's Wrath
 2 Ipnu Rivulet
 2 Yavimaya Coast
-3 Hinterland Harbor
 3 Nissa, Who Shakes the World
+3 Hinterland Harbor
 3 Castle Garenbrig
 3 Nissa's Pilgrimage
 3 Cavalier of Thorns

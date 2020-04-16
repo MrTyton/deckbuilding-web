@@ -19,20 +19,20 @@
 2 Ashiok, Dream Render
 1 Karn, the Great Creator
 1 Jace, the Mind Sculptor
+1 Interplanar Beacon
 1 Narset, Parter of Veils
 1 Dovin, Hand of Control
 1 Arbor Elf
-1 Interplanar Beacon
 2 Karn, the Great Creator
-2 Dovin, Hand of Control
 2 Interplanar Beacon
+2 Dovin, Hand of Control
 2 Narset, Parter of Veils
 2 Arbor Elf
 2 Jace, the Mind Sculptor
-3 Karn, the Great Creator
-3 Dovin, Hand of Control
 3 Interplanar Beacon
+3 Karn, the Great Creator
 3 Arbor Elf
+3 Dovin, Hand of Control
 4 Karn, the Great Creator
 4 Interplanar Beacon
 4 Arbor Elf
@@ -69,8 +69,8 @@
 1 Plains
 1 Mountain
 2 Felidar Guardian
-2 Saheeli Rai
 2 Arid Mesa
+2 Saheeli Rai
 3 Saheeli Rai
 3 Felidar Guardian
 3 Arid Mesa
@@ -91,12 +91,12 @@
 1 Polluted Delta
 1 Satyr Wayfinder
 1 Jace, Vryn's Prodigy
-1 Merfolk Secretkeeper
 1 Skaab Ruinator
 1 Vengevine
 1 Unearth
 1 Drown in Filth
 1 Stitcher's Supplier
+1 Merfolk Secretkeeper
 1 Darkslick Shores
 1 Creeping Chill
 1 Gravecrawler
@@ -105,7 +105,6 @@
 2 Overgrown Tomb
 2 Satyr Wayfinder
 2 Jace, Vryn's Prodigy
-2 Merfolk Secretkeeper
 2 Creeping Chill
 2 Claim/Fame
 2 Darkslick Shores
@@ -116,16 +115,17 @@
 2 Drown in Filth
 2 Skaab Ruinator
 2 Vengevine
+2 Merfolk Secretkeeper
 2 Polluted Delta
 3 Darkslick Shores
+3 Unearth
 3 Satyr Wayfinder
 3 Jace, Vryn's Prodigy
-3 Merfolk Secretkeeper
 3 Hedron Crab
-3 Unearth
 3 Drown in Filth
 3 Stitcher's Supplier
 3 Vengevine
+3 Merfolk Secretkeeper
 3 Polluted Delta
 3 Claim/Fame
 3 Creeping Chill
@@ -139,8 +139,8 @@
 1 Ice-Fang Coatl
 2 Ice-Fang Coatl
 1 Thought Erasure
-1 Ashiok, Nightmare Muse
 1 Expansion/Explosion
+1 Ashiok, Nightmare Muse
 1 Grand Abolisher
 1 Time Wipe
 2 Grand Abolisher
@@ -165,8 +165,8 @@
 1 Botanical Sanctum
 2 Eldritch Evolution
 2 Botanical Sanctum
-3 Botanical Sanctum
 3 Eldritch Evolution
+3 Botanical Sanctum
 1 Wall of Roots
 1 Chord of Calling
 1 Renegade Rallier
@@ -194,6 +194,7 @@
 4 Wall of Roots
 4 Prime Speaker Vannifar
 4 Botanical Sanctum
+1 Homing Sliver
 1 Urborg, Tomb of Yawgmoth
 1 Godless Shrine
 1 Cavern of Souls
@@ -206,7 +207,6 @@
 1 Sliver Hive
 1 Manaweft Sliver
 1 Sedge Sliver
-1 Homing Sliver
 1 Dregscape Sliver
 1 Necrotic Sliver
 1 Collected Company
@@ -231,7 +231,6 @@
 2 Striking Sliver
 3 Cavern of Souls
 3 Verdant Catacombs
-3 Mutavault
 3 Aether Vial
 3 Unsettled Mariner
 3 Manaweft Sliver
@@ -242,6 +241,7 @@
 3 Predatory Sliver
 3 Collected Company
 3 Galerider Sliver
+3 Mutavault
 4 Cavern of Souls
 4 Mutavault
 4 Aether Vial
@@ -249,52 +249,6 @@
 4 Predatory Sliver
 4 Sliver Hive
 4 Sinew Sliver
-1 Desert Cerodon
-1 Living End
-1 Curator of Mysteries
-1 Striped Riverwinder
-1 Brazen Borrower
-1 Windcaller Aven
-1 Mystic Sanctuary
-1 Violent Outburst
-1 Ardent Plea
-1 Street Wraith
-1 Force of Negation
-2 Desert Cerodon
-2 Flooded Strand
-2 Striped Riverwinder
-2 Curator of Mysteries
-2 Living End
-2 Windcaller Aven
-2 Brazen Borrower
-2 Street Wraith
-2 Steam Vents
-2 Force of Negation
-2 Ardent Plea
-2 Island
-2 Violent Outburst
-3 Flooded Strand
-3 Brazen Borrower
-3 Living End
-3 Desert Cerodon
-3 Curator of Mysteries
-3 Striped Riverwinder
-3 Ardent Plea
-3 Violent Outburst
-3 Street Wraith
-3 Force of Negation
-3 Steam Vents
-4 Flooded Strand
-4 Scalding Tarn
-4 Force of Negation
-4 Desert Cerodon
-4 Striped Riverwinder
-4 Brazen Borrower
-4 Curator of Mysteries
-4 Ardent Plea
-4 Violent Outburst
-4 Street Wraith
-4 Steam Vents
 1 Gemstone Mine
 1 Mana Confluence
 1 Nourishing Shoal
@@ -340,3 +294,49 @@
 4 Gemstone Mine
 4 Allosaurus Rider
 4 City of Brass
+1 Striped Riverwinder
+1 Desert Cerodon
+1 Living End
+1 Curator of Mysteries
+1 Brazen Borrower
+1 Mystic Sanctuary
+1 Violent Outburst
+1 Ardent Plea
+1 Windcaller Aven
+1 Street Wraith
+1 Force of Negation
+2 Living End
+2 Curator of Mysteries
+2 Desert Cerodon
+2 Striped Riverwinder
+2 Flooded Strand
+2 Brazen Borrower
+2 Street Wraith
+2 Steam Vents
+2 Force of Negation
+2 Ardent Plea
+2 Island
+2 Windcaller Aven
+2 Violent Outburst
+3 Flooded Strand
+3 Brazen Borrower
+3 Striped Riverwinder
+3 Living End
+3 Curator of Mysteries
+3 Desert Cerodon
+3 Ardent Plea
+3 Violent Outburst
+3 Street Wraith
+3 Force of Negation
+3 Steam Vents
+4 Flooded Strand
+4 Scalding Tarn
+4 Curator of Mysteries
+4 Striped Riverwinder
+4 Force of Negation
+4 Desert Cerodon
+4 Ardent Plea
+4 Violent Outburst
+4 Street Wraith
+4 Steam Vents
+4 Brazen Borrower

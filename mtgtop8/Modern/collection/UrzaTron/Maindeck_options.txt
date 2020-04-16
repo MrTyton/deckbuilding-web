@@ -1,17 +1,14 @@
 3 Karn, the Great Creator
-1 Ugin, the Ineffable
-1 Once Upon a Time
 4 Karn, the Great Creator
+1 Ugin, the Ineffable
 1 Emrakul, the Promised End
 1 World Breaker
 1 Sundering Titan
-2 Walking Ballista
 3 Relic of Progenitus
 1 Dismember
-2 Once Upon a Time
-3 Once Upon a Time
-4 Once Upon a Time
 5 Forest
+1 Once Upon a Time
+2 Walking Ballista
 1 Chalice of the Void
 1 Everflowing Chalice
 1 Inventors' Fair
@@ -23,14 +20,14 @@
 1 Surge Node
 1 Paradox Engine
 2 Everflowing Chalice
-2 Blast Zone
 2 Chalice of the Void
-2 Paradox Engine
 2 Mystic Forge
 2 Surge Node
 2 Ugin, the Ineffable
 2 Astral Cornucopia
+2 Blast Zone
 2 Coretapper
+2 Paradox Engine
 3 Chalice of the Void
 3 Mystic Forge
 3 Surge Node
@@ -44,9 +41,10 @@
 4 Surge Node
 4 Everflowing Chalice
 1 Island
-1 All Is Dust
-4 Oblivion Stone
 1 Kozilek, the Great Distortion
+2 Once Upon a Time
+3 Once Upon a Time
+4 Once Upon a Time
 1 Buried Ruin
 4 Mystic Forge
 1 Thirst for Knowledge
@@ -56,15 +54,15 @@
 5 Island
 1 Tolaria West
 1 Talisman of Dominance
-1 Myr Battlesphere
 1 Mindslaver
 1 Tectonic Edge
-1 Cyclonic Rift
 1 Remand
 1 Omen of the Sea
 1 Condescend
 1 Repeal
+1 Cyclonic Rift
 1 River of Tears
+1 Myr Battlesphere
 1 Field of Ruin
 1 Academy Ruins
 2 Remand
@@ -77,13 +75,12 @@
 4 Thirst for Knowledge
 4 Condescend
 1 Snapcaster Mage
+1 Solemn Simulacrum
 1 Hallowed Fountain
 1 Talisman of Progress
-1 Dream Trawler
 1 Torrential Gearhulk
-1 Sphinx's Revelation
 1 Wall of Omens
-1 Solemn Simulacrum
+1 Sphinx's Revelation
 1 Celestial Colonnade
 1 Time Wipe
 1 Elder Deep-Fiend
@@ -102,6 +99,7 @@
 1 Gifts Ungiven
 1 Cryptic Command
 1 Elspeth, Sun's Champion
+1 Dream Trawler
 1 Irrigated Farmland
 1 Mystic Gate
 1 Plains
@@ -119,6 +117,7 @@
 3 Solemn Simulacrum
 3 Cryptic Command
 4 Solemn Simulacrum
+1 All Is Dust
 1 Nurturing Peatland
 1 Waterlogged Grove
 2 Dismember
@@ -129,17 +128,13 @@
 1 Simian Spirit Guide
 2 Simian Spirit Guide
 3 Simian Spirit Guide
-1 Gemstone Caverns
-1 Explore
-2 Explore
-3 Ugin, the Spirit Dragon
-3 Explore
 1 Aetherflux Reservoir
 1 Scavenger Grounds
 4 Ugin, the Ineffable
 1 Spell Burst
 2 River of Tears
 4 Remand
+4 Oblivion Stone
 4 Relic of Progenitus
 1 Trinket Mage
 1 Batterskull

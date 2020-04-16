@@ -42,6 +42,6 @@
 |                    1|[Faerie Macabre](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=201822)          |                    1|[Murderous Rider](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473059)    |
 |                    1|[Wooded Foothills](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405116)        |                    1|[Kolaghan's Command](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394613) |
 |                    1|[Bloodstained Mire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405094)       |                    3|[Ricochet Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=191549)      |
-|                    3|[Beast Within](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446158)            |                    4|[Shriekmaw](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220572)          |
-|                    2|[Bloodstained Mire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405094)       |                     |                                                                                              |
+|                    2|[Bloodstained Mire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405094)       |                    4|[Shriekmaw](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220572)          |
+|                    3|[Beast Within](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446158)            |                     |                                                                                              |
 

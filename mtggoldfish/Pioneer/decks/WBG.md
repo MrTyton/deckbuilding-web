@@ -19,13 +19,14 @@
 
 # Sideboard
 
-|                                         Creature (13)                                          |     Unknown (2)     |
-|------------------------------------------------------------------------------------------------|---------------------|
-|2 [Blightbeetle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466841)       |2 Setessan Petitioner|
-|2 [Eidolon of Rhetoric](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=380409)|                     |
-|1 [Phyrexian Revoker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383343)  |                     |
-|1 [Poison-Tip Archer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447357)  |                     |
-|2 [Reclamation Sage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389651)   |                     |
-|2 [Scavenging Ooze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420783)    |                     |
-|3 [Thorn Lieutenant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447339)   |                     |
+|                                         Creature (15)                                          |
+|------------------------------------------------------------------------------------------------|
+|2 [Blightbeetle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466841)       |
+|2 [Eidolon of Rhetoric](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=380409)|
+|1 [Phyrexian Revoker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383343)  |
+|1 [Poison-Tip Archer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447357)  |
+|2 [Reclamation Sage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389651)   |
+|2 [Scavenging Ooze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420783)    |
+|2 [Setessan Petitioner](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476450)|
+|3 [Thorn Lieutenant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447339)   |
 

@@ -43,21 +43,22 @@
 1 Castle Locthwain
 1 Blood Crypt
 1 Nicol Bolas, the Ravager
-1 Spirebluff Canal
 1 Urborg, Tomb of Yawgmoth
+1 Drowned Catacomb
 1 Thief of Sanity
 1 Nicol Bolas, Dragon-God
 1 Hostage Taker
+1 Spirebluff Canal
 1 Thoughtseize
 1 Fatal Push
 1 Watery Grave
-1 Drowned Catacomb
 1 Censor
 1 Thought Erasure
 1 The Scarab God
 1 Murderous Rider
 1 Dragonskull Summit
 2 Watery Grave
+2 Drowned Catacomb
 2 Nicol Bolas, the Ravager
 2 Thief of Sanity
 2 Thought Erasure
@@ -68,9 +69,9 @@
 2 Fatal Push
 2 Censor
 2 Swamp
-2 Drowned Catacomb
 2 Murderous Rider
 2 Dragonskull Summit
+3 Drowned Catacomb
 3 Nicol Bolas, the Ravager
 3 Thoughtseize
 3 Fatal Push
@@ -79,13 +80,12 @@
 3 Blood Crypt
 3 Spirebluff Canal
 3 Watery Grave
-3 Drowned Catacomb
 3 Censor
 4 Censor
+4 Drowned Catacomb
 4 Nicol Bolas, the Ravager
 4 Thoughtseize
 4 Fatal Push
-4 Drowned Catacomb
 4 Spirebluff Canal
 4 Murderous Rider
 4 Watery Grave
@@ -99,7 +99,6 @@
 1 Arboreal Grazer
 1 Rootbound Crag
 1 Dryad of the Ilysian Grove
-1 Vraska, Golgari Queen
 1 Tireless Tracker
 1 Korvold, Fae-Cursed King
 1 Fabled Passage
@@ -107,40 +106,41 @@
 1 Blooming Marsh
 1 Forest
 1 Sylvan Caryatid
+1 Vraska, Golgari Queen
 1 Woodland Cemetery
 1 Ugin's Nexus
 1 Stomping Ground
 2 Overgrown Tomb
-2 Stomping Ground
 2 Courser of Kruphix
+2 Stomping Ground
 2 Arboreal Grazer
+2 Woodland Cemetery
 2 Forest
 2 Tireless Tracker
 2 Vraska, Golgari Queen
 2 Blooming Marsh
 2 Sylvan Caryatid
-2 Woodland Cemetery
 2 Korvold, Fae-Cursed King
 2 Fabled Passage
 2 Ugin's Nexus
 3 Courser of Kruphix
 3 Arboreal Grazer
-3 Forest
 3 Vraska, Golgari Queen
+3 Overgrown Tomb
+3 Forest
 3 Tireless Tracker
 3 Stomping Ground
 3 Ugin's Nexus
 3 Fabled Passage
 3 Sylvan Caryatid
-3 Overgrown Tomb
 3 Blooming Marsh
 3 Korvold, Fae-Cursed King
+4 Overgrown Tomb
+4 Arboreal Grazer
 4 Forest
 4 Tireless Tracker
-4 Arboreal Grazer
 4 Vraska, Golgari Queen
 4 Stomping Ground
-4 Overgrown Tomb
 4 Fabled Passage
 4 Blooming Marsh
 5 Forest

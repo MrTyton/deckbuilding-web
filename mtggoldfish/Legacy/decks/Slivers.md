@@ -32,7 +32,7 @@
 |--------------------:|-----------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
 |                    1|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)              |                    2|[Ethersworn Canonist](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174931)|
 |                    2|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)              |                    1|[Unsettled Mariner](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464165)  |
-|                    3|[Cloudshredder Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464144)|                    4|[Chalice of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442211)|
-|                    3|[Ancient Ziggurat](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=189271)    |                    1|[Mindbreak Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197532)     |
-|                     |                                                                                               |                    2|[Mindbreak Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197532)     |
+|                    3|[Cloudshredder Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464144)|                    1|[Mindbreak Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197532)     |
+|                    3|[Ancient Ziggurat](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=189271)    |                    2|[Mindbreak Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197532)     |
+|                     |                                                                                               |                    4|[Chalice of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442211)|
 

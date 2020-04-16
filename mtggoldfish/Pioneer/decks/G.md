@@ -20,11 +20,11 @@
 
 # Sideboard
 
-|                                       Artifact (1)                                        |                                        Creature (6)                                         |                                          Instant (6)                                           | Unknown (2) |
-|-------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|-------------|
-|1 [Pithing Needle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129526)|2 [Kraul Harpooner](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452886) |2 [Blossoming Defense](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417719) |2 Shadowspear|
-|                                                                                           |2 [Mistcutter Hydra](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373727)|2 [Heroic Intervention](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423776)|             |
-|                                                                                           |2 [Scavenging Ooze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420783) |2 [Return to Nature](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461102)   |             |
+|                                       Artifact (3)                                        |                                        Creature (6)                                         |                                          Instant (6)                                           |
+|-------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
+|1 [Pithing Needle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129526)|2 [Kraul Harpooner](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452886) |2 [Blossoming Defense](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417719) |
+|2 [Shadowspear](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476487)   |2 [Mistcutter Hydra](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373727)|2 [Heroic Intervention](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423776)|
+|                                                                                           |2 [Scavenging Ooze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420783) |2 [Return to Nature](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461102)   |
 
 
 # Other Options
@@ -32,13 +32,13 @@
 |*n*<sup>th</sup> copy|                                          Maindeck Card                                           |*n*<sup>th</sup> copy|                                       Sideboard Card                                        |
 |--------------------:|--------------------------------------------------------------------------------------------------|--------------------:|---------------------------------------------------------------------------------------------|
 |                    1|[Questing Beast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473133)         |                    1|[Shapers' Sanctuary](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435362)|
-|                    1|Nessian Hornbeetle                                                                                |                    1|[Sorcerous Spyglass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435407)|
+|                    1|[Nessian Hornbeetle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476433)     |                    1|[Sorcerous Spyglass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435407)|
 |                    2|[Questing Beast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473133)         |                    1|[Prey Upon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423787)         |
 |                    3|[Hashep Oasis](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430866)           |                    1|[Vine Mare](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447343)         |
 |                    3|[Aspect of Hydra](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=378489)        |                    1|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)    |
 |                    4|[Surrak, the Hunt Caller](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394721)|                    2|[Shapers' Sanctuary](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435362)|
 |                    4|[Hashep Oasis](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430866)           |                    2|[Sorcerous Spyglass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435407)|
-|                     |                                                                                                  |                    2|[Vine Mare](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447343)         |
 |                     |                                                                                                  |                    2|[Prey Upon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423787)         |
+|                     |                                                                                                  |                    2|[Vine Mare](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447343)         |
 |                     |                                                                                                  |                    2|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)    |
 

@@ -44,20 +44,20 @@
 1 Woe Strider
 1 Catacomb Sifter
 1 Plaguecrafter
-1 Zulaport Cutthroat
 1 Westvale Abbey
+1 Zulaport Cutthroat
 1 Satyr Wayfinder
 2 Priest of Forgotten Gods
 2 Catacomb Sifter
+2 Zulaport Cutthroat
 2 Woe Strider
 2 Plaguecrafter
 2 Gruesome Menagerie
 2 Westvale Abbey
-2 Zulaport Cutthroat
 2 Satyr Wayfinder
+3 Zulaport Cutthroat
 3 Woe Strider
 3 Catacomb Sifter
-3 Zulaport Cutthroat
 3 Plaguecrafter
 3 Satyr Wayfinder
 4 Zulaport Cutthroat
@@ -95,25 +95,21 @@
 3 Rhonas the Indomitable
 3 Heart of Kiran
 4 The Great Henge
-1 Nantuko Husk
-1 Blisterpod
-2 Nantuko Husk
-3 Gruesome Menagerie
-4 Satyr Wayfinder
 1 Abrupt Decay
 2 Abrupt Decay
 4 Hangarback Walker
+1 Gifted Aetherborn
 1 Traverse the Ulvenwald
 1 Grisly Salvage
 1 Murderous Rider
 1 Sylvan Caryatid
 1 Gather the Pack
-1 Urborg, Tomb of Yawgmoth
 1 Zetalpa, Primal Dawn
-1 Gifted Aetherborn
+1 Urborg, Tomb of Yawgmoth
 1 Soulflayer
 1 Lotleth Troll
 1 Nullhide Ferox
+2 Gifted Aetherborn
 2 Murderous Rider
 2 Sylvan Caryatid
 2 Lotleth Troll
@@ -121,12 +117,11 @@
 2 Zetalpa, Primal Dawn
 2 Soulflayer
 2 Traverse the Ulvenwald
-2 Gifted Aetherborn
 2 Nullhide Ferox
 2 Grisly Salvage
 3 Sylvan Caryatid
-3 Lotleth Troll
 3 Murderous Rider
+3 Lotleth Troll
 3 Gather the Pack
 3 Traverse the Ulvenwald
 3 Zetalpa, Primal Dawn
@@ -141,6 +136,11 @@
 4 Gather the Pack
 4 Sylvan Caryatid
 4 Grisly Salvage
+1 Blisterpod
+1 Nantuko Husk
+2 Nantuko Husk
+3 Gruesome Menagerie
+4 Satyr Wayfinder
 1 Surrak, the Hunt Caller
 2 Surrak, the Hunt Caller
 10 Forest

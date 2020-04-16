@@ -18,10 +18,12 @@
 
 # Sideboard
 
-|                                         Artifact (2)                                         |                                          Creature (7)                                          |     Unknown (6)     |
-|----------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|---------------------|
-|2 [Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452)|4 [Shifting Ceratops](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466948)  |4 Destiny Spinner    |
-|                                                                                              |3 [Thrashing Brontodon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456570)|2 Setessan Petitioner|
+|                                         Artifact (2)                                         |                                         Creature (13)                                          |
+|----------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
+|2 [Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452)|4 [Destiny Spinner](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476419)    |
+|                                                                                              |2 [Setessan Petitioner](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476450)|
+|                                                                                              |4 [Shifting Ceratops](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466948)  |
+|                                                                                              |3 [Thrashing Brontodon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456570)|
 
 
 # Other Options

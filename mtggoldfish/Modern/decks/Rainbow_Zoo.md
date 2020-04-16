@@ -36,8 +36,8 @@
 
 |*n*<sup>th</sup> copy|                                       Maindeck Card                                       |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
 |--------------------:|-------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
-|                    1|[Knight of Autumn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452933)|                    1|[Cindervines](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457305)        |
-|                    3|[Snapcaster Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=227676) |                    1|[Ajani Vengeant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174852)     |
+|                    1|[Knight of Autumn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452933)|                    1|[Ajani Vengeant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174852)     |
+|                    3|[Snapcaster Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=227676) |                    1|[Cindervines](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457305)        |
 |                    1|[Meddling Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=179547)   |                    1|[Collector Ouphe](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464107)    |
 |                    1|[The Royal Scions](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473161)|                    1|[Stony Silence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=247425)      |
 |                    1|[Qasali Pridemage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=179556)|                    1|[Destructive Revelry](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373351)|
@@ -46,9 +46,9 @@
 |                    1|[Narnam Renegade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423784) |                    1|[Dromoka's Command](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394558)  |
 |                    2|[Qasali Pridemage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=179556)|                    1|[Knight of Autumn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452933)   |
 |                    2|[Narnam Renegade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423784) |                    1|[Remorseful Cleric](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447169)  |
-|                    2|[Arid Mesa](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405092)       |                    2|[Cindervines](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457305)        |
+|                    2|[Arid Mesa](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405092)       |                    1|[Plague Engineer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464049)    |
 |                    3|[Arid Mesa](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405092)       |                    2|[Remorseful Cleric](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447169)  |
-|                    3|[Narnam Renegade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423784) |                    1|[Plague Engineer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464049)    |
+|                    3|[Narnam Renegade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423784) |                    2|[Cindervines](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457305)        |
 |                    4|[Arid Mesa](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405092)       |                     |                                                                                              |
 |                    4|[Narnam Renegade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423784) |                     |                                                                                              |
 

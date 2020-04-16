@@ -33,7 +33,7 @@
 |*n*<sup>th</sup> copy|                                        Maindeck Card                                         |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
 |--------------------:|----------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
 |                    1|[Sorcerous Spyglass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435407) |                    1|[Oblivion Ring](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174909)      |
-|                    3|[Snow-Covered Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121267)|                    1|[Ethersworn Canonist](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174931)|
-|                    3|[Sorcerous Spyglass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435407) |                    1|[Disenchant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=847)            |
-|                    2|[Sorcerous Spyglass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435407) |                    2|[Oblivion Ring](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174909)      |
+|                    2|[Sorcerous Spyglass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435407) |                    1|[Disenchant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=847)            |
+|                    3|[Sorcerous Spyglass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435407) |                    1|[Ethersworn Canonist](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174931)|
+|                    3|[Snow-Covered Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121267)|                    2|[Oblivion Ring](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174909)      |
 
