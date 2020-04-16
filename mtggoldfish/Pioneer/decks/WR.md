@@ -79,7 +79,7 @@
 |                    4|[Heroic Reinforcements](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447353)|                     |                                                                                               |
 |                    4|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)             |                     |                                                                                               |
 |                    4|[Goblin Instigator](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447278)    |                     |                                                                                               |
-|                    5|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)             |                     |                                                                                               |
 |                    6|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)             |                     |                                                                                               |
 |                    7|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)             |                     |                                                                                               |
+|                    5|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)             |                     |                                                                                               |
 
