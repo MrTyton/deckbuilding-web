@@ -13,7 +13,6 @@
 1 Claim the Firstborn
 1 Revival/Revenge
 1 Gilded Goose
-1 Act of Treason
 1 Murderous Rider
 1 Ugin, the Ineffable
 1 Sorin, Imperious Bloodlord
@@ -21,24 +20,25 @@
 1 Rotting Regisaur
 1 Witch's Oven
 1 Spawn of Mayhem
-1 Chandra, Awakened Inferno
+1 Act of Treason
 1 Korvold, Fae-Cursed King
+1 Chandra, Awakened Inferno
 1 Cauldron Familiar
 2 Claim the Firstborn
 2 Chandra, Awakened Inferno
-2 Act of Treason
-2 Spawn of Mayhem
-2 Witch's Oven
-2 Gilded Goose
 2 Cauldron Familiar
+2 Spawn of Mayhem
+2 Gilded Goose
+2 Witch's Oven
 2 Korvold, Fae-Cursed King
+2 Act of Treason
 2 Revival/Revenge
 2 Rotting Regisaur
+3 Rotting Regisaur
 3 Chandra, Awakened Inferno
 3 Revival/Revenge
 3 Gilded Goose
 3 Overgrown Tomb
-3 Rotting Regisaur
 4 Gilded Goose
 4 Rotting Regisaur
 4 Fabled Passage
@@ -53,20 +53,20 @@
 1 Ilharg, the Raze-Boar
 1 Rhythm of the Wild
 1 Drakuseth, Maw of Flames
+1 Storm's Wrath
 1 Terror of Mount Velus
 1 Castle Embereth
-1 Purphoros, Bronze-Blooded
-1 Storm's Wrath
 1 Cavalier of Flame
+1 Purphoros, Bronze-Blooded
 2 Paradise Druid
 2 Ilharg, the Raze-Boar
 2 Drakuseth, Maw of Flames
 2 Rhythm of the Wild
-2 Terror of Mount Velus
 2 Purphoros, Bronze-Blooded
 2 Castle Embereth
 2 Storm's Wrath
 2 Cavalier of Flame
+2 Terror of Mount Velus
 3 Paradise Druid
 3 Drakuseth, Maw of Flames
 3 Mountain
@@ -97,9 +97,9 @@
 2 Dream Trawler
 2 Omen of the Sea
 2 Sacred Foundry
-3 Elspeth Conquers Death
 3 Omen of the Sea
 3 Sacred Foundry
+3 Elspeth Conquers Death
 3 Hallowed Fountain
 4 Hallowed Fountain
 4 Omen of the Sea
@@ -142,8 +142,8 @@
 1 Legion's End
 1 Temple of Malice
 1 Leyline of the Void
-1 Blast Zone
 1 Thief of Sanity
+1 Blast Zone
 1 Mystical Dispute
 1 Mu Yanling, Sky Dancer
 2 Legion's End
@@ -181,6 +181,17 @@
 4 Elspeth Conquers Death
 4 Temple of Enlightenment
 4 Cavalier of Dawn
+1 Liliana, Dreadhorde General
+2 Temple of Epiphany
+3 Temple of Epiphany
+3 Swamp
+3 Bedevil
+3 Drawn from Dreams
+3 Nicol Bolas, Dragon-God
+4 Temple of Epiphany
+4 Angrath's Rampage
+4 Drawn from Dreams
+4 Swamp
 1 Shimmer of Possibility
 1 Castle Ardenvale
 2 Shimmer of Possibility
@@ -188,17 +199,6 @@
 3 Shimmer of Possibility
 4 Deafening Clarion
 4 Shimmer of Possibility
-1 Liliana, Dreadhorde General
-2 Temple of Epiphany
-3 Temple of Epiphany
-3 Swamp
-3 Nicol Bolas, Dragon-God
-3 Bedevil
-3 Drawn from Dreams
-4 Temple of Epiphany
-4 Angrath's Rampage
-4 Drawn from Dreams
-4 Swamp
 1 Gruul Guildgate
 1 Labyrinth of Skophos
 1 Selesnya Guildgate
@@ -206,36 +206,36 @@
 1 Arboreal Grazer
 1 Circuitous Route
 1 Golos, Tireless Pilgrim
-1 Izzet Guildgate
+1 Orzhov Guildgate
 1 Boros Guildgate
 1 Simic Guildgate
-1 Orzhov Guildgate
 1 Guild Summit
 1 Rakdos Guildgate
+1 Izzet Guildgate
 1 Gates Ablaze
 1 Azorius Guildgate
 1 Gatebreaker Ram
 2 Arboreal Grazer
 2 Hydroid Krasis
-2 Circuitous Route
-2 Selesnya Guildgate
 2 Golos, Tireless Pilgrim
-2 Orzhov Guildgate
-2 Azorius Guildgate
-2 Izzet Guildgate
+2 Selesnya Guildgate
 2 Gatebreaker Ram
+2 Circuitous Route
+2 Azorius Guildgate
+2 Orzhov Guildgate
+2 Izzet Guildgate
 2 Gates Ablaze
-2 Boros Guildgate
-2 Simic Guildgate
 2 Guild Summit
+2 Simic Guildgate
+2 Boros Guildgate
 3 Circuitous Route
+3 Simic Guildgate
 3 Azorius Guildgate
 3 Gates Ablaze
 3 Gateway Plaza
 3 Gatebreaker Ram
 3 Boros Guildgate
 3 Golos, Tireless Pilgrim
-3 Simic Guildgate
 4 Circuitous Route
 4 Gatebreaker Ram
 4 Gateway Plaza

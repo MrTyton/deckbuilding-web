@@ -64,8 +64,8 @@
 |                    1|[Thassa's Intervention](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476323)    |                     |                                                                                                 |
 |                    2|[Hypnotic Sprite](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473011)          |                     |                                                                                                 |
 |                    2|[Thassa's Intervention](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476323)    |                     |                                                                                                 |
-|                    3|[Hypnotic Sprite](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473011)          |                     |                                                                                                 |
 |                    3|[Thassa's Intervention](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476323)    |                     |                                                                                                 |
+|                    3|[Hypnotic Sprite](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473011)          |                     |                                                                                                 |
 |                    4|[Sinister Sabotage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452804)        |                     |                                                                                                 |
 |                    4|[Hypnotic Sprite](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473011)          |                     |                                                                                                 |
 

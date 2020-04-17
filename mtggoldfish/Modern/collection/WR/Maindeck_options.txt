@@ -1,63 +1,9 @@
-3 Thalia, Guardian of Thraben
-1 Simian Spirit Guide
-1 Ghost Quarter
-1 Leonin Arbiter
-1 Banishing Light
-1 Cast Out
-1 Winds of Abandon
-1 Rest in Peace
-1 Aven Mindcensor
-1 Reality Smasher
-1 Gemstone Caverns
-1 Thought-Knot Seer
-1 Eldrazi Temple
-1 Scavenger Grounds
-1 Blast Zone
-1 Eternal Scourge
-1 Shefet Dunes
-1 Chalice of the Void
-2 Simian Spirit Guide
-2 Banishing Light
-2 Ghost Quarter
-2 Leonin Arbiter
-2 Rest in Peace
-2 Winds of Abandon
-2 Aven Mindcensor
-2 Gemstone Caverns
-2 Reality Smasher
-2 Eternal Scourge
-2 Shefet Dunes
-2 Thought-Knot Seer
-2 Chalice of the Void
-2 Eldrazi Temple
-2 Scavenger Grounds
-3 Simian Spirit Guide
-3 Ghost Quarter
-3 Leonin Arbiter
-3 Reality Smasher
-3 Eternal Scourge
-3 Scavenger Grounds
-3 Shefet Dunes
-3 Chalice of the Void
-3 Eldrazi Temple
-3 Thought-Knot Seer
-4 Simian Spirit Guide
-4 Plains
-4 Ghost Quarter
-4 Leonin Arbiter
-4 Reality Smasher
-4 Eternal Scourge
-4 Chalice of the Void
-4 Eldrazi Temple
-4 Thought-Knot Seer
-4 Shefet Dunes
-2 Sacred Foundry
 1 Searing Blaze
 1 Wooded Foothills
 1 Lava Spike
 1 Lightning Bolt
-1 Monastery Swiftspear
 1 Light Up the Stage
+1 Monastery Swiftspear
 2 Searing Blaze
 2 Wooded Foothills
 2 Monastery Swiftspear
@@ -73,6 +19,7 @@
 4 Lightning Bolt
 4 Lava Spike
 4 Light Up the Stage
+2 Sacred Foundry
 1 Bomat Courier
 2 Bomat Courier
 2 Mountain
@@ -87,14 +34,13 @@
 1 Toolcraft Exemplar
 1 Signal Pest
 1 Ornithopter
-1 Kuldotha Rebirth
 1 Devastating Summons
+1 Kuldotha Rebirth
 1 Springleaf Drum
 1 Venerated Loxodon
 1 Memnite
 1 Reckless Bushwhacker
 1 Darksteel Citadel
-2 Springleaf Drum
 2 Toolcraft Exemplar
 2 Battlefield Forge
 2 Reckless Bushwhacker
@@ -103,6 +49,7 @@
 2 Venerated Loxodon
 2 Kuldotha Rebirth
 2 Ornithopter
+2 Springleaf Drum
 2 Darksteel Citadel
 2 Memnite
 3 Venerated Loxodon
@@ -128,17 +75,17 @@
 4 Battlefield Forge
 1 Snow-Covered Mountain
 1 Skullcrack
-1 Boros Charm
 1 Lightning Helix
+1 Boros Charm
 1 Eidolon of the Great Revel
-1 Exquisite Firecraft
 1 Rift Bolt
+1 Exquisite Firecraft
 1 Goblin Guide
 2 Snow-Covered Mountain
 2 Boros Charm
 2 Goblin Guide
-2 Eidolon of the Great Revel
 2 Skullcrack
+2 Eidolon of the Great Revel
 2 Lightning Helix
 2 Rift Bolt
 3 Skullcrack
@@ -149,13 +96,66 @@
 3 Eidolon of the Great Revel
 3 Goblin Guide
 3 Rift Bolt
+4 Boros Charm
 4 Eidolon of the Great Revel
+4 Lightning Helix
 4 Rift Bolt
 4 Skullcrack
-4 Lightning Helix
 4 Sacred Foundry
-4 Boros Charm
 4 Goblin Guide
+3 Thalia, Guardian of Thraben
+1 Simian Spirit Guide
+1 Ghost Quarter
+1 Leonin Arbiter
+1 Banishing Light
+1 Cast Out
+1 Winds of Abandon
+1 Rest in Peace
+1 Aven Mindcensor
+1 Reality Smasher
+1 Gemstone Caverns
+1 Thought-Knot Seer
+1 Eldrazi Temple
+1 Scavenger Grounds
+1 Blast Zone
+1 Eternal Scourge
+1 Shefet Dunes
+1 Chalice of the Void
+2 Simian Spirit Guide
+2 Banishing Light
+2 Ghost Quarter
+2 Leonin Arbiter
+2 Rest in Peace
+2 Winds of Abandon
+2 Aven Mindcensor
+2 Reality Smasher
+2 Gemstone Caverns
+2 Eternal Scourge
+2 Shefet Dunes
+2 Thought-Knot Seer
+2 Chalice of the Void
+2 Eldrazi Temple
+2 Scavenger Grounds
+3 Simian Spirit Guide
+3 Ghost Quarter
+3 Leonin Arbiter
+3 Reality Smasher
+3 Eternal Scourge
+3 Scavenger Grounds
+3 Shefet Dunes
+3 Chalice of the Void
+3 Eldrazi Temple
+3 Thought-Knot Seer
+4 Simian Spirit Guide
+4 Plains
+4 Ghost Quarter
+4 Leonin Arbiter
+4 Reality Smasher
+4 Eternal Scourge
+4 Chalice of the Void
+4 Eldrazi Temple
+4 Shefet Dunes
+4 Thought-Knot Seer
 1 Charming Prince
 1 Cavern of Souls
 1 Avalanche Riders
@@ -180,10 +180,10 @@
 4 Thalia, Guardian of Thraben
 4 Champion of the Parish
 4 Charming Prince
+4 Avalanche Riders
 4 Ephemerate
 4 Magus of the Moon
 4 Thalia's Lieutenant
-4 Avalanche Riders
 4 Cavern of Souls
 1 Fiery Islet
 1 Grim Lavamancer
@@ -206,9 +206,9 @@
 4 Skewer the Critics
 4 Mountain
 4 Wooded Foothills
-4 Grim Lavamancer
 4 Wizard's Lightning
 4 Searing Blaze
+4 Grim Lavamancer
 4 Bloodstained Mire
 4 Soul-Scar Mage
 5 Mountain

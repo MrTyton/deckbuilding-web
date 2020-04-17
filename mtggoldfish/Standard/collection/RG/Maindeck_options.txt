@@ -1,20 +1,21 @@
+20 Forest
+21 Forest
+22 Forest
+23 Forest
+4 Questing Beast
+1 Stomping Ground
 1 Mountain
-1 Paradise Druid
 1 Bonecrusher Giant
 1 Gruul Spellbreaker
 2 Stomping Ground
 2 Gruul Spellbreaker
-2 Paradise Druid
 2 Mountain
 3 Stomping Ground
 3 Gruul Spellbreaker
-3 Paradise Druid
 3 Mountain
 4 Stomping Ground
-4 Questing Beast
 4 Mountain
 4 Gruul Spellbreaker
-4 Paradise Druid
 1 Fabled Passage
 1 Temple of Abandon
 1 Klothys, God of Destiny
@@ -23,8 +24,8 @@
 2 Fabled Passage
 2 Temple of Abandon
 2 Klothys, God of Destiny
-2 Bonecrusher Giant
 2 Embercleave
+2 Bonecrusher Giant
 2 Zhur-Taa Goblin
 3 Temple of Abandon
 3 Fabled Passage
@@ -33,15 +34,22 @@
 3 Bonecrusher Giant
 4 Fabled Passage
 4 Temple of Abandon
+1 Mobilized District
+1 Vivien, Arkbow Ranger
+1 Castle Garenbrig
+2 Castle Garenbrig
+2 Vivien, Arkbow Ranger
+3 Vivien, Arkbow Ranger
+3 Castle Garenbrig
+4 Vivien, Arkbow Ranger
 1 Domri's Ambush
 5 Mountain
 6 Mountain
 1 Castle Embereth
 2 Castle Embereth
 1 The First Iroan Games
-4 Lovestruck Beast
-1 Gallia of the Endless Dance
 1 Ilharg, the Raze-Boar
+1 Gallia of the Endless Dance
 2 Domri's Ambush
 4 Bonecrusher Giant
 1 Domri, Anarch of Bolas
@@ -53,14 +61,33 @@
 4 Zhur-Taa Goblin
 4 Embercleave
 4 Skarrgan Hellkite
-1 Thrash/Threat
+1 Growth-Chamber Guardian
+1 Wildwood Tracker
+2 Growth-Chamber Guardian
+2 Wildwood Tracker
+3 Growth-Chamber Guardian
+3 Wildwood Tracker
+4 Growth-Chamber Guardian
+4 Wildwood Tracker
+1 Voracious Hydra
+1 Stonecoil Serpent
+1 Barkhide Troll
+1 Karn, the Great Creator
+2 Voracious Hydra
+2 Stonecoil Serpent
+2 Barkhide Troll
+3 Stonecoil Serpent
+3 Barkhide Troll
+4 Barkhide Troll
+4 Stonecoil Serpent
 1 Shifting Ceratops
 1 Lava Coil
 1 Robber of the Rich
+1 Thrash/Threat
 1 Scorching Dragonfire
-2 Thrash/Threat
 2 Lava Coil
 2 Shifting Ceratops
+2 Thrash/Threat
 2 Robber of the Rich
 2 Scorching Dragonfire
 3 Shifting Ceratops
@@ -68,7 +95,7 @@
 3 Lava Coil
 3 Thrash/Threat
 4 Shifting Ceratops
-4 Lava Coil
 4 Robber of the Rich
 4 Thrash/Threat
+4 Lava Coil
 7 Mountain

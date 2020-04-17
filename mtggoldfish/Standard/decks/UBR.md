@@ -32,7 +32,6 @@
 |*n*<sup>th</sup> copy|                                             Maindeck Card                                             |*n*<sup>th</sup> copy|Sideboard Card|
 |--------------------:|-------------------------------------------------------------------------------------------------------|---------------------|--------------|
 |                    1|[Angrath's Rampage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461112)           |                     |              |
-|                    1|[Tibalt, Rakish Instigator](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461073)   |                     |              |
 |                    1|[Commence the Endgame](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460972)        |                     |              |
 |                    1|[Lazotep Plating](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460986)             |                     |              |
 |                    1|[Spark Harvest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461032)               |                     |              |
@@ -53,6 +52,7 @@
 |                    1|[Herald of the Dreadhorde](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461020)    |                     |              |
 |                    1|[Ahn-Crop Invader](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461040)            |                     |              |
 |                    1|[Wall of Runes](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461002)               |                     |              |
+|                    1|[Tibalt, Rakish Instigator](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461073)   |                     |              |
 |                    1|[Dreadhorde Butcher](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461121)          |                     |              |
 |                    2|[Spark Harvest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461032)               |                     |              |
 |                    2|[Wall of Runes](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461002)               |                     |              |
@@ -76,10 +76,10 @@
 |                    6|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)                       |                     |              |
 |                    7|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)                    |                     |              |
 |                    7|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)                      |                     |              |
-|                    8|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)                       |                     |              |
+|                    7|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)                       |                     |              |
 |                    8|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)                    |                     |              |
 |                    8|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)                      |                     |              |
+|                    8|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)                       |                     |              |
 |                    9|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)                      |                     |              |
 |                    9|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)                       |                     |              |
-|                    7|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)                       |                     |              |
 
