@@ -43,12 +43,12 @@
 |                    1|[Bleeding Edge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461005)               |                     |              |
 |                    1|[Shriekdiver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461030)                 |                     |              |
 |                    1|[Angrath, Captain of Chaos](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461154)   |                     |              |
-|                    1|[Ob Nixilis, the Hate-Twisted](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461027)|                     |              |
 |                    1|[Davriel's Shadowfugue](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461011)       |                     |              |
 |                    1|[Relentless Advance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460991)          |                     |              |
 |                    1|[Vizier of the Scorpion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461038)      |                     |              |
 |                    1|[Tamiyo's Epiphany](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460998)           |                     |              |
 |                    1|[Crush Dissent](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460974)               |                     |              |
+|                    1|[Ob Nixilis, the Hate-Twisted](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461027)|                     |              |
 |                    1|[Herald of the Dreadhorde](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461020)    |                     |              |
 |                    1|[Ahn-Crop Invader](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461040)            |                     |              |
 |                    1|[Wall of Runes](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461002)               |                     |              |
@@ -58,8 +58,8 @@
 |                    2|[Wall of Runes](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461002)               |                     |              |
 |                    2|[Tamiyo's Epiphany](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460998)           |                     |              |
 |                    2|[Relentless Advance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460991)          |                     |              |
-|                    2|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)                    |                     |              |
 |                    2|[Crush Dissent](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460974)               |                     |              |
+|                    2|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)                    |                     |              |
 |                    3|[Wall of Runes](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461002)               |                     |              |
 |                    3|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)                      |                     |              |
 |                    3|[Relentless Advance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460991)          |                     |              |
@@ -72,14 +72,14 @@
 |                    5|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)                      |                     |              |
 |                    5|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)                       |                     |              |
 |                    6|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)                    |                     |              |
-|                    6|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)                      |                     |              |
 |                    6|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)                       |                     |              |
+|                    6|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)                      |                     |              |
 |                    7|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)                    |                     |              |
-|                    7|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)                      |                     |              |
 |                    7|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)                       |                     |              |
 |                    8|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)                    |                     |              |
-|                    8|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)                      |                     |              |
 |                    8|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)                       |                     |              |
+|                    8|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)                      |                     |              |
 |                    9|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)                      |                     |              |
 |                    9|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)                       |                     |              |
+|                    7|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)                      |                     |              |
 
