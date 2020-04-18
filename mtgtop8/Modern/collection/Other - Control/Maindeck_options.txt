@@ -1,13 +1,13 @@
+1 Remand
 1 Fact or Fiction
 1 Wilderness Reclamation
 1 Nexus of Fate
-1 Remand
-2 Fact or Fiction
 2 Remand
+2 Fact or Fiction
 2 Wilderness Reclamation
+3 Remand
 3 Mystic Sanctuary
 3 Wilderness Reclamation
-3 Remand
 4 Remand
 6 Snow-Covered Island
 3 Force of Negation
@@ -34,8 +34,8 @@
 2 Archmage's Charm
 1 Once Upon a Time
 1 Mishra's Bauble
-2 Lonely Sandbar
 2 Nexus of Fate
+2 Lonely Sandbar
 2 Once Upon a Time
 7 Snow-Covered Island
 3 Blood Moon
@@ -51,12 +51,12 @@
 3 Scalding Tarn
 1 Growth Spiral
 2 Growth Spiral
-3 Breeding Pool
 3 Archmage's Charm
 3 Growth Spiral
+3 Breeding Pool
 4 Thought Scour
-4 Wilderness Reclamation
 4 Growth Spiral
+4 Wilderness Reclamation
 1 Waterlogged Grove
 1 Snow-Covered Swamp
 1 Kolaghan's Command
@@ -74,27 +74,12 @@
 3 Island
 3 Watery Grave
 2 Field of Ruin
+1 Treetop Village
 1 Lumbering Falls
 1 Torrential Gearhulk
-1 Treetop Village
 1 Serum Visions
 1 Klothys, God of Destiny
 2 Serum Visions
-1 Arbor Elf
-1 Utopia Sprawl
-1 Stubborn Denial
-1 Tranquil Thicket
-1 Chandra, Torch of Defiance
-1 Ashiok, Dream Render
-2 Arbor Elf
-2 Utopia Sprawl
-2 The Royal Scions
-2 Ashiok, Dream Render
-3 Arbor Elf
-3 Wooded Foothills
-3 Utopia Sprawl
-4 Arbor Elf
-4 Utopia Sprawl
 1 Inquisition of Kozilek
 1 Go for the Throat
 1 Thoughtseize
@@ -104,9 +89,9 @@
 1 Damnation
 1 Creeping Tar Pit
 2 Inquisition of Kozilek
-2 Geier Reach Sanitarium
-2 Damnation
 2 Swamp
+2 Damnation
+2 Geier Reach Sanitarium
 2 Creeping Tar Pit
 2 Liliana of the Veil
 3 Narset, Parter of Veils
@@ -135,27 +120,42 @@
 3 Path to Exile
 4 Snapcaster Mage
 4 Island
+1 Utopia Sprawl
+1 Stubborn Denial
+1 Tranquil Thicket
+1 Chandra, Torch of Defiance
+1 Arbor Elf
+1 Ashiok, Dream Render
+2 Utopia Sprawl
+2 The Royal Scions
+2 Arbor Elf
+2 Ashiok, Dream Render
+3 Wooded Foothills
+3 Utopia Sprawl
+3 Arbor Elf
+4 Utopia Sprawl
+4 Arbor Elf
 1 Dead of Winter
 1 Fabled Passage
 1 Abominable Treefolk
 2 Snow-Covered Swamp
 2 Dead of Winter
 2 Fabled Passage
-3 Snow-Covered Forest
 3 Field of Ruin
+3 Drown in the Loch
 3 Assassin's Trophy
 3 Dead of Winter
 3 Prismatic Vista
 3 Fabled Passage
-3 Drown in the Loch
+3 Snow-Covered Forest
 4 Wrenn and Six
-4 Assassin's Trophy
 4 Field of Ruin
+4 Assassin's Trophy
 4 Drown in the Loch
 4 Fabled Passage
 4 Dead of Winter
 4 Prismatic Vista
-4 Mystic Sanctuary
-4 Cryptic Command
 4 Archmage's Charm
+4 Cryptic Command
+4 Mystic Sanctuary
 4 Scalding Tarn

@@ -53,8 +53,8 @@
 1 Time Wipe
 2 Time Wipe
 1 Absorb
-1 Hushbringer
 1 Biogenic Ooze
+1 Hushbringer
 2 Absorb
 2 Hushbringer
 3 Absorb
@@ -73,34 +73,34 @@
 3 Questing Beast
 4 Questing Beast
 1 Thornwood Falls
+1 Tranquil Cove
 1 Simic Guildgate
 1 Blossoming Sands
-1 Tranquil Cove
 1 Tolsimir, Friend to Wolves
 1 Devout Decree
 2 Thornwood Falls
-2 Tolsimir, Friend to Wolves
 2 Tranquil Cove
+2 Tolsimir, Friend to Wolves
 2 Devout Decree
-3 Tranquil Cove
 3 Thornwood Falls
+3 Tranquil Cove
 3 Shatter the Sky
 3 Elspeth Conquers Death
 4 Thornwood Falls
 4 Tranquil Cove
 1 Quasiduplicate
-1 Finale of Devastation
 1 End-Raze Forerunners
+1 Finale of Devastation
+1 Repudiate/Replicate
 1 Bronzehide Lion
 1 Trostani Discordant
-1 Repudiate/Replicate
 1 Hero of Precinct One
 1 Archon of Absolution
 1 God-Eternal Kefnet
 1 Knight of Autumn
 1 Spark Double
-2 Quasiduplicate
 2 Finale of Devastation
+2 Quasiduplicate
 2 Repudiate/Replicate
 2 Hero of Precinct One
 2 Spark Double
@@ -110,18 +110,18 @@
 4 Island
 4 Hero of Precinct One
 1 Starfield Mystic
-1 Staggering Insight
 1 Karametra's Blessing
 1 Season of Growth
 1 All That Glitters
+1 Staggering Insight
 1 Setessan Champion
 1 Sentinel's Eyes
 1 Setessan Training
 1 Alseid of Life's Bounty
 1 Archon of Sun's Grace
 2 Starfield Mystic
-2 Staggering Insight
 2 Karametra's Blessing
+2 Staggering Insight
 2 Alseid of Life's Bounty
 2 Setessan Champion
 2 Season of Growth
@@ -129,11 +129,11 @@
 2 Archon of Sun's Grace
 2 Sentinel's Eyes
 2 Setessan Training
-3 Staggering Insight
 3 Archon of Sun's Grace
 3 Alseid of Life's Bounty
 3 Setessan Training
 3 Season of Growth
+3 Staggering Insight
 3 All That Glitters
 3 Karametra's Blessing
 3 Setessan Champion
@@ -141,22 +141,22 @@
 4 Alseid of Life's Bounty
 4 Sentinel's Eyes
 4 Season of Growth
-4 Archon of Sun's Grace
 4 Setessan Champion
+4 Archon of Sun's Grace
 4 All That Glitters
 4 High Alert
 4 Tower Defense
-1 The Birth of Meletis
 1 Dance of the Manse
+1 The Birth of Meletis
 1 Omen of the Sea
 1 Calix, Destiny's Hand
 1 Banishing Light
-1 Smothering Tithe
 1 Omen of the Sun
 1 Rampage of the Clans
+1 Smothering Tithe
+2 Dance of the Manse
 2 The Birth of Meletis
 2 Calix, Destiny's Hand
-2 Dance of the Manse
 2 Omen of the Sea
 2 Banishing Light
 2 Smothering Tithe
@@ -169,10 +169,10 @@
 3 Omen of the Sun
 3 Rampage of the Clans
 3 Smothering Tithe
-4 Plains
-4 The Birth of Meletis
 4 Temple of Mystery
+4 The Birth of Meletis
 4 Omen of the Sea
+4 Plains
 4 Smothering Tithe
 5 Plains
 1 Charming Prince

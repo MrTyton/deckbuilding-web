@@ -1,49 +1,29 @@
-1 Archmage's Charm
-1 Snapcaster Mage
-1 Mystic Sanctuary
-1 Cryptic Command
-2 Cryptic Command
-2 Snapcaster Mage
-3 Snapcaster Mage
-3 Cryptic Command
-5 Snow-Covered Island
-1 Field of Ruin
-2 Field of Ruin
-3 Island
-1 As Foretold
-1 Tolaria West
-2 As Foretold
-3 As Foretold
-4 As Foretold
-4 Ancestral Vision
-1 Izzet Charm
-4 Electrodominance
-1 Abrade
-2 Abrade
-1 Curator of Mysteries
-1 Living End
-1 Tormod's Crypt
-1 Fulminator Mage
-1 Desert Cerodon
-1 Striped Riverwinder
-2 Striped Riverwinder
-2 Tormod's Crypt
-2 Fulminator Mage
-2 Tolaria West
-2 Desert Cerodon
-2 Curator of Mysteries
-2 Living End
-3 Desert Cerodon
-3 Fulminator Mage
-3 Curator of Mysteries
-3 Living End
-3 Tolaria West
-3 Striped Riverwinder
-4 Desert Cerodon
-4 Living End
-4 Striped Riverwinder
-4 Curator of Mysteries
-4 Island
+1 Lightning Bolt
+2 Lightning Bolt
+3 Lightning Bolt
+1 Serum Visions
+2 Serum Visions
+3 Serum Visions
+4 Serum Visions
+1 Scalding Tarn
+2 Scalding Tarn
+3 Scalding Tarn
+4 Lightning Bolt
+4 Scalding Tarn
+1 Thought Scour
+2 Thought Scour
+3 Thought Scour
+3 Steam Vents
+4 Thought Scour
+1 Force of Negation
+2 Force of Negation
+1 Sleight of Hand
+1 Manamorphose
+2 Manamorphose
+2 Sleight of Hand
+3 Manamorphose
+3 Sleight of Hand
+4 Manamorphose
 1 Arclight Phoenix
 1 Chart a Course
 1 Pyromancer Ascension
@@ -54,45 +34,40 @@
 3 Chart a Course
 4 Arclight Phoenix
 4 Chart a Course
+1 Snow-Covered Island
+1 Snow-Covered Mountain
+2 Snow-Covered Island
+3 Snow-Covered Island
+4 Snow-Covered Island
 2 Finale of Promise
+1 Opt
+2 Opt
+3 Opt
+4 Opt
 3 Force of Negation
 1 Thing in the Ice
 2 Thing in the Ice
 3 Thing in the Ice
+1 Flooded Strand
 1 Crashing Footfalls
+1 Polluted Delta
 2 Crashing Footfalls
 2 Polluted Delta
 3 Crashing Footfalls
 4 Crashing Footfalls
-1 Spell Snare
-4 Snapcaster Mage
-1 Sulfur Falls
-1 Misty Rainforest
-2 Misty Rainforest
+1 Archmage's Charm
+1 Snapcaster Mage
+1 Cryptic Command
+1 Mystic Sanctuary
+2 Snapcaster Mage
 2 Archmage's Charm
+2 Cryptic Command
 2 Mystic Sanctuary
+3 Snapcaster Mage
+3 Cryptic Command
+5 Snow-Covered Island
 6 Snow-Covered Island
-1 Magmatic Sinkhole
-1 The Royal Scions
 3 Fiery Islet
-1 Breeding Pool
-1 Arcum's Astrolabe
-2 Spell Snare
-2 Arcum's Astrolabe
-2 Flooded Strand
-3 Mystic Sanctuary
-3 Arcum's Astrolabe
-3 Flooded Strand
-4 Arcum's Astrolabe
-4 Flooded Strand
-1 Mana Leak
-1 Flame Slash
-1 Young Pyromancer
-2 Mana Leak
-2 Young Pyromancer
-3 Young Pyromancer
-3 Field of Ruin
-4 Young Pyromancer
 1 Simian Spirit Guide
 1 Restore Balance
 1 Sphinx of Foresight
@@ -106,8 +81,8 @@
 4 Polluted Delta
 1 Lava Dart
 2 Izzet Charm
-2 Snow-Covered Mountain
 2 Lava Dart
+2 Snow-Covered Mountain
 3 Izzet Charm
 4 Thing in the Ice
 1 Baral, Chief of Compliance
@@ -115,38 +90,55 @@
 3 Baral, Chief of Compliance
 3 Pyromancer Ascension
 4 Pyromancer Ascension
+1 Spell Snare
+1 Breeding Pool
+1 Arcum's Astrolabe
+2 Spell Snare
+2 Arcum's Astrolabe
+2 Flooded Strand
+3 Arcum's Astrolabe
+3 Flooded Strand
+3 Mystic Sanctuary
+4 Arcum's Astrolabe
+4 Flooded Strand
+4 Snapcaster Mage
 1 Brazen Borrower
+1 Sulfur Falls
 1 Blood Moon
 1 Spreading Seas
 1 Mystical Dispute
+1 Misty Rainforest
 2 Blood Moon
 2 Brazen Borrower
 2 Spreading Seas
+2 Misty Rainforest
 3 Spreading Seas
 3 Archmage's Charm
-3 Brazen Borrower
 3 Misty Rainforest
+3 Brazen Borrower
 4 Misty Rainforest
 7 Snow-Covered Island
-1 Gut Shot
+1 Monastery Swiftspear
 1 Soul-Scar Mage
+1 Magmatic Sinkhole
+1 Gut Shot
+1 The Royal Scions
 1 Stormchaser Mage
 1 Mutagenic Growth
-1 Monastery Swiftspear
+2 Monastery Swiftspear
+2 Soul-Scar Mage
 2 The Royal Scions
 2 Gut Shot
-2 Monastery Swiftspear
 2 Mutagenic Growth
-2 Soul-Scar Mage
 2 Stormchaser Mage
 2 Magmatic Sinkhole
-3 Mutagenic Growth
-3 Monastery Swiftspear
-3 Stormchaser Mage
 3 Soul-Scar Mage
+3 Monastery Swiftspear
+3 Mutagenic Growth
+3 Stormchaser Mage
 4 Fiery Islet
+4 Soul-Scar Mage
+4 Monastery Swiftspear
 4 Stormchaser Mage
 4 Sleight of Hand
-4 Monastery Swiftspear
 4 Mutagenic Growth
-4 Soul-Scar Mage

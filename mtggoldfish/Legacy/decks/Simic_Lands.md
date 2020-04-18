@@ -37,3 +37,17 @@
 |                                                                                               |                                                                                           |                                                                                       |2 [Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|                                                                                                 |
 |                                                                                               |                                                                                           |                                                                                       |1 [Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)     |                                                                                                 |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                       Maindeck Card                                        |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
+|--------------------:|--------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
+|                    1|[Cavern of Souls](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278058)  |                    1|[Thorn of Amethyst](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=140166)  |
+|                    1|[Manabond](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=6154)           |                    1|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)|
+|                    2|[Sylvan Library](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=2240)     |                    2|[Thorn of Amethyst](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=140166)  |
+|                    2|[Dark Depths](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121155)      |                    2|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)|
+|                    2|[Windswept Heath](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405115)  |                    3|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)|
+|                    3|[Sylvan Library](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=2240)     |                     |                                                                                              |
+|                    3|[Field of the Dead](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=467001)|                     |                                                                                              |
+|                    4|[Rishadan Port](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442235)    |                     |                                                                                              |
+

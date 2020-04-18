@@ -57,8 +57,8 @@
 2 Baffling End
 1 Wolfwillow Haven
 1 Temple of Plenty
-1 Sigil of the Empty Throne
 1 Banishing Light
+1 Sigil of the Empty Throne
 1 Calix, Destiny's Hand
 1 Setessan Champion
 1 Seal Away
@@ -80,8 +80,8 @@
 3 Eidolon of Blossoms
 3 Herald of the Pantheon
 4 Banishing Light
-4 Setessan Champion
 4 Temple of Plenty
+4 Setessan Champion
 4 Eidolon of Blossoms
 4 Herald of the Pantheon
 4 Courser of Kruphix
@@ -146,8 +146,8 @@
 4 Isolated Chapel
 2 Seal Away
 1 Collected Company
-1 Bygone Bishop
 1 Shared Summons
+1 Bygone Bishop
 1 Radiant Fountain
 1 Militia Bugler
 2 Collected Company
@@ -175,16 +175,16 @@
 4 Bomat Courier
 1 Mana Confluence
 2 Mana Confluence
-1 Springleaf Drum
 1 Stonecoil Serpent
+1 Springleaf Drum
 1 Ornithopter
 1 Ghostfire Blade
 1 Gingerbrute
 1 Ensoul Artifact
+1 Metallic Rebuke
 1 Shrapnel Blast
 1 Spire of Industry
 1 Hope of Ghirapur
-1 Metallic Rebuke
 1 Aether Hub
 1 Darksteel Citadel
 1 Steel Overseer
@@ -198,11 +198,11 @@
 2 Shrapnel Blast
 2 Ghostfire Blade
 2 Ornithopter
+2 Metallic Rebuke
 2 Hope of Ghirapur
 2 All That Glitters
 2 Steel Overseer
 2 Aether Hub
-2 Metallic Rebuke
 3 Stonecoil Serpent
 3 Springleaf Drum
 3 Shrapnel Blast
@@ -222,8 +222,8 @@
 4 Shrapnel Blast
 4 Darksteel Citadel
 4 Ensoul Artifact
-4 Ornithopter
 4 Springleaf Drum
+4 Ornithopter
 4 Gingerbrute
 4 Aether Hub
 4 Mana Confluence
@@ -299,18 +299,17 @@
 1 Nissa's Pilgrimage
 1 World Breaker
 1 Hinterland Harbor
+1 Tamiyo, Collector of Tales
 1 Arboreal Grazer
 1 Ugin, the Spirit Dragon
 1 Nissa, Who Shakes the World
 1 Uro, Titan of Nature's Wrath
-1 Tamiyo, Collector of Tales
 1 Yavimaya Coast
 1 Island
 1 Ipnu Rivulet
 1 Growth Spiral
 1 Breeding Pool
 2 Blast Zone
-2 Growth Spiral
 2 Nissa, Who Shakes the World
 2 Hinterland Harbor
 2 Castle Garenbrig
@@ -321,6 +320,7 @@
 2 Arboreal Grazer
 2 Breeding Pool
 2 Uro, Titan of Nature's Wrath
+2 Growth Spiral
 2 Ipnu Rivulet
 2 Yavimaya Coast
 3 Nissa, Who Shakes the World
@@ -398,8 +398,8 @@
 2 Reckless Bushwhacker
 2 Shefet Dunes
 2 Lightning Strike
-2 Toolcraft Exemplar
 2 Gideon, Ally of Zendikar
+2 Toolcraft Exemplar
 2 Raise the Alarm
 2 Battlefield Forge
 2 Servo Exhibition
@@ -513,16 +513,16 @@
 5 Swamp
 6 Swamp
 7 Swamp
-1 Idyllic Grange
 1 Karn, the Great Creator
+1 Idyllic Grange
+2 Karn, the Great Creator
 2 Elspeth Conquers Death
 2 Idyllic Grange
-2 Karn, the Great Creator
+3 Karn, the Great Creator
 3 Baffling End
 3 Nykthos, Shrine to Nyx
-3 Karn, the Great Creator
-4 Nykthos, Shrine to Nyx
 4 Karn, the Great Creator
+4 Nykthos, Shrine to Nyx
 10 Plains
 11 Plains
 12 Plains

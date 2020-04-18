@@ -1,14 +1,15 @@
-16 Mountain
 2 Torbran, Thane of Red Fell
-1 Chandra, Torch of Defiance
-1 Shock
+16 Mountain
 3 Rampaging Ferocidon
+1 Shock
+2 Shock
 1 Abbot of Keral Keep
 2 Abbot of Keral Keep
-2 Shock
+1 Chandra, Torch of Defiance
+4 Rampaging Ferocidon
 1 Rimrock Knight
 2 Rimrock Knight
-2 Chandra, Torch of Defiance
+3 Torbran, Thane of Red Fell
 1 Light Up the Stage
 2 Light Up the Stage
 3 Light Up the Stage
@@ -16,8 +17,7 @@
 1 Bomat Courier
 2 Bomat Courier
 3 Abbot of Keral Keep
-4 Rampaging Ferocidon
-3 Castle Embereth
+4 Abbot of Keral Keep
 17 Mountain
 1 Wizard's Lightning
 1 Ghitu Lavarunner
@@ -30,6 +30,14 @@
 2 Skewer the Critics
 3 Skewer the Critics
 4 Skewer the Critics
+3 Shock
+3 Rimrock Knight
+1 Robber of the Rich
+2 Robber of the Rich
+3 Robber of the Rich
+3 Bomat Courier
+4 Robber of the Rich
+4 Bomat Courier
 1 Dragonskull Summit
 1 Blood Crypt
 1 Scrapheap Scrounger
@@ -41,30 +49,22 @@
 3 Scrapheap Scrounger
 4 Blood Crypt
 4 Scrapheap Scrounger
-1 Goblin Chainwhirler
-2 Goblin Chainwhirler
-3 Goblin Chainwhirler
-4 Goblin Chainwhirler
-3 Rimrock Knight
-3 Shock
-3 Torbran, Thane of Red Fell
-1 Glorybringer
-1 Ash Zealot
-2 Ash Zealot
 1 Viashino Pyromancer
 2 Viashino Pyromancer
 3 Viashino Pyromancer
 4 Viashino Pyromancer
+1 Ash Zealot
+2 Ash Zealot
+1 Glorybringer
+1 Goblin Chainwhirler
+2 Goblin Chainwhirler
+3 Goblin Chainwhirler
+4 Goblin Chainwhirler
 4 Ghitu Lavarunner
-3 Bomat Courier
-4 Bomat Courier
-4 Abbot of Keral Keep
-1 Anax, Hardened in the Forge
-2 Anax, Hardened in the Forge
-3 Kari Zev, Skyship Raider
+2 Chandra, Torch of Defiance
+3 Castle Embereth
 4 Shock
 4 Rimrock Knight
-1 Experimental Frenzy
 3 Chandra, Torch of Defiance
 1 Rekindling Phoenix
 2 Glorybringer
@@ -75,32 +75,11 @@
 3 Ash Zealot
 3 Zurgo Bellstriker
 4 Ash Zealot
-1 Robber of the Rich
-2 Robber of the Rich
-3 Robber of the Rich
-4 Robber of the Rich
 4 Torbran, Thane of Red Fell
 1 Searing Blood
 2 Searing Blood
 3 Searing Blood
 4 Searing Blood
-1 Legion Warboss
-1 Fanatical Firebrand
-1 Karn, Scion of Urza
-1 Heart of Kiran
-1 Foreboding Ruins
-2 Heart of Kiran
-2 Legion Warboss
-2 Fanatical Firebrand
-2 Karn, Scion of Urza
-2 Foreboding Ruins
-3 Heart of Kiran
-3 Legion Warboss
-3 Fanatical Firebrand
-3 Foreboding Ruins
-4 Fanatical Firebrand
-4 Legion Warboss
-4 Dragonskull Summit
 1 Blistercoil Weird
 1 Exquisite Firecraft
 1 Stomping Ground
@@ -112,8 +91,8 @@
 2 Stomping Ground
 2 Rootbound Crag
 2 Atarka's Command
-2 Dreadhorde Arcanist
 2 Game Trail
+2 Dreadhorde Arcanist
 3 Stomping Ground
 3 Rootbound Crag
 3 Dreadhorde Arcanist
@@ -124,7 +103,10 @@
 4 Rootbound Crag
 4 Blistercoil Weird
 4 Atarka's Command
+1 Anax, Hardened in the Forge
+2 Anax, Hardened in the Forge
 3 Embercleave
+3 Kari Zev, Skyship Raider
 3 Anax, Hardened in the Forge
 3 Mutavault
 4 Castle Embereth

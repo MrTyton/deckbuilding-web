@@ -8,16 +8,16 @@
 4 Tyrant's Scorn
 4 Narset, Parter of Veils
 1 Castle Vantress
-3 Fabled Passage
 2 Dovin's Veto
 1 Ashiok, Nightmare Muse
 2 Atris, Oracle of Half-Truths
+3 Fabled Passage
 4 Thought Erasure
-1 Kaya's Wrath
-2 Kaya's Wrath
 2 Ashiok, Nightmare Muse
 1 Erebos's Intervention
 1 Kaya, Orzhov Usurper
+1 Kaya's Wrath
+2 Kaya's Wrath
 4 Agonizing Remorse
 1 The Elderspell
 1 Legion's End
@@ -26,12 +26,12 @@
 2 Kaya, Orzhov Usurper
 1 Despark
 3 Atris, Oracle of Half-Truths
-3 Plains
 1 Ashiok, Dream Render
 4 Kaya's Wrath
 1 Field of Ruin
 1 Agent of Treachery
 2 Agent of Treachery
+3 Plains
 2 Ashiok, Dream Render
 1 The Birth of Meletis
 2 Legion's End
@@ -43,58 +43,25 @@
 3 Temple of Deceit
 4 Temple of Deceit
 2 The Birth of Meletis
-3 Swamp
-1 Murderous Rider
-2 Murderous Rider
-3 Murderous Rider
 1 Archon of Sun's Grace
-4 Swamp
-5 Swamp
-1 Kunoros, Hound of Athreos
-1 Yarok's Fenlurker
-1 Basilica Bell-Haunt
-1 Charming Prince
-1 Burglar Rat
-2 Yarok's Fenlurker
-2 Basilica Bell-Haunt
-2 Burglar Rat
-2 Charming Prince
-3 Yarok's Fenlurker
-3 Burglar Rat
-3 Charming Prince
-4 Yarok's Fenlurker
-4 Charming Prince
-2 Castle Locthwain
-2 Castle Ardenvale
-4 Plains
 1 Ritual of Soot
-1 Cavalier of Night
-1 Plaguecrafter
-1 Nightmare Shepherd
-1 Cavalier of Dawn
-2 Cavalier of Dawn
-2 Cavalier of Night
-2 Kunoros, Hound of Athreos
-2 Plaguecrafter
-2 Nightmare Shepherd
-3 Nightmare Shepherd
-3 Kunoros, Hound of Athreos
-3 Castle Locthwain
-3 Plaguecrafter
-4 Nightmare Shepherd
-4 Burglar Rat
+3 Swamp
 1 Absorb
 1 Liliana's Triumph
 2 Liliana's Triumph
 3 The Birth of Meletis
 1 Thassa, Deep-Dwelling
 2 Thassa, Deep-Dwelling
-6 Swamp
+1 Murderous Rider
+2 Murderous Rider
+3 Murderous Rider
 1 Eat to Extinction
-1 Elspeth's Nightmare
-2 Elspeth's Nightmare
 2 Despark
 2 Archon of Sun's Grace
+1 Elspeth's Nightmare
+2 Elspeth's Nightmare
+4 Swamp
+5 Swamp
 1 Thryx, the Sudden Storm
 1 Epic Downfall
 1 Duress
@@ -104,6 +71,7 @@
 2 Chemister's Insight
 2 The Elderspell
 2 Absorb
+1 Kunoros, Hound of Athreos
 1 Cry of the Carnarium
 2 Cry of the Carnarium
 2 Castle Vantress
@@ -119,6 +87,8 @@
 1 Daxos, Blessed by the Sun
 1 Witch's Oven
 1 Cauldron Familiar
+2 Castle Locthwain
+2 Castle Ardenvale
 2 Heliod, Sun-Crowned
 2 Witch's Oven
 2 Midnight Reaper
@@ -134,14 +104,27 @@
 4 Cauldron Familiar
 4 Oath of Kaya
 4 Temple of Silence
+1 Yarok's Fenlurker
 1 Bolas's Citadel
+1 Basilica Bell-Haunt
 1 Davriel, Rogue Shadowmage
+1 Charming Prince
 1 Flicker of Fate
+1 Burglar Rat
+2 Yarok's Fenlurker
+2 Basilica Bell-Haunt
 2 Davriel, Rogue Shadowmage
 2 Flicker of Fate
+2 Burglar Rat
+2 Charming Prince
 3 Davriel, Rogue Shadowmage
+3 Yarok's Fenlurker
 3 Basilica Bell-Haunt
 3 Flicker of Fate
+3 Burglar Rat
+3 Charming Prince
+4 Yarok's Fenlurker
+4 Charming Prince
 4 Flicker of Fate
 4 Davriel, Rogue Shadowmage
 1 Leyline of the Void
@@ -151,8 +134,8 @@
 1 Omen of the Sea
 2 Omen of the Sea
 2 Erebos's Intervention
-2 Interplanar Beacon
 2 Leyline of the Void
+2 Interplanar Beacon
 2 Eat to Extinction
 2 Mindwrack Harpy
 3 Ashiok, Nightmare Muse
@@ -160,7 +143,8 @@
 3 Archon of Sun's Grace
 3 Eat to Extinction
 3 Island
+4 Plains
 4 Island
-5 Island
+6 Swamp
 7 Swamp
-5 Plains
+5 Island
