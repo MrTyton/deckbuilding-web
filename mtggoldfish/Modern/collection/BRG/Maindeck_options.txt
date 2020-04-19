@@ -86,8 +86,6 @@
 1 Snow-Covered Mountain
 2 Snow-Covered Mountain
 4 Verdant Catacombs
-3 Snow-Covered Mountain
-4 Snow-Covered Mountain
 1 Seasoned Pyromancer
 1 Terminate
 1 Castle Embereth
@@ -102,8 +100,10 @@
 3 Spike Jester
 3 Unearth
 4 Unearth
-4 Dark Confidant
 4 Lightning Bolt
+4 Dark Confidant
+3 Snow-Covered Mountain
+4 Snow-Covered Mountain
 1 Wrenn and Six
 1 Angrath's Rampage
 1 Smallpox
@@ -152,6 +152,7 @@
 4 Nourishing Shoal
 1 Blooming Marsh
 1 Dryad Arbor
+1 Priest of Forgotten Gods
 1 Witch's Oven
 1 Gilded Goose
 1 Claim the Firstborn
@@ -159,9 +160,9 @@
 1 Falkenrath Aristocrat
 1 Mayhem Devil
 1 Cauldron Familiar
-1 Priest of Forgotten Gods
 1 Wooded Foothills
 2 Blooming Marsh
+2 Priest of Forgotten Gods
 2 Cauldron Familiar
 2 Witch's Oven
 2 Gilded Goose
@@ -170,7 +171,6 @@
 2 Falkenrath Aristocrat
 2 Woe Strider
 2 Claim the Firstborn
-2 Priest of Forgotten Gods
 3 Witch's Oven
 3 Cauldron Familiar
 3 Gilded Goose

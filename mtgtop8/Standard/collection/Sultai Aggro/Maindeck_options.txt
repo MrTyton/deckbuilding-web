@@ -57,15 +57,15 @@
 2 Swamp
 1 Quench
 1 Nightpack Ambusher
-1 Brineborn Cutthroat
 1 Brazen Borrower
+1 Brineborn Cutthroat
 2 Nightpack Ambusher
+2 Quench
 2 Brineborn Cutthroat
 2 Brazen Borrower
-2 Quench
-3 Brineborn Cutthroat
 3 Brazen Borrower
 3 Nightpack Ambusher
+3 Brineborn Cutthroat
 3 Quench
 4 Quench
 1 Tyrant's Scorn
@@ -73,47 +73,46 @@
 2 Questing Beast
 1 Shadowspear
 2 Lotus Field
-3 Temple of Deceit
-4 Temple of Mystery
-4 Kiora, Behemoth Beckoner
-1 Pteramander
-1 Mystical Dispute
+1 Omen of the Sea
 1 Erebos's Intervention
 1 Sinister Sabotage
 1 Spectral Sailor
 1 Drown in the Loch
+1 Mystical Dispute
 1 Lochmere Serpent
-1 Omen of the Sea
-2 Drown in the Loch
-2 Mystical Dispute
-2 Omen of the Sea
+1 Pteramander
 2 Sinister Sabotage
+2 Omen of the Sea
+2 Mystical Dispute
+2 Drown in the Loch
 3 Omen of the Sea
-3 Mystical Dispute
 3 Tyrant's Scorn
+3 Mystical Dispute
 3 Drown in the Loch
 4 Island
 1 Frilled Mystic
-1 Heartless Act
-1 Negate
-1 Neutralize
 1 Cunning Nightbonder
 1 Slitherwisp
+1 Neutralize
+1 Negate
+1 Heartless Act
 2 Frilled Mystic
-2 Heartless Act
-2 Slitherwisp
 2 Neutralize
-2 Negate
 2 Cunning Nightbonder
-3 Heartless Act
+2 Slitherwisp
+2 Heartless Act
+2 Negate
 3 Frilled Mystic
-3 Neutralize
 3 Slitherwisp
 3 Cunning Nightbonder
-4 Brineborn Cutthroat
+3 Neutralize
+3 Heartless Act
 4 Brazen Borrower
 4 Nightpack Ambusher
 4 Neutralize
+4 Brineborn Cutthroat
+3 Temple of Deceit
+4 Temple of Mystery
 1 Mire Triton
 1 Vraska, Golgari Queen
 1 Assassin's Trophy
@@ -123,9 +122,9 @@
 1 Thief of Sanity
 1 Lazav, the Multifarious
 2 Mire Triton
+2 Thought Erasure
 2 Enter the God-Eternals
 2 Thief of Sanity
-2 Thought Erasure
 2 Find / Finality
 2 Lazav, the Multifarious
 3 Mire Triton
@@ -134,8 +133,9 @@
 3 Thought Erasure
 3 Lazav, the Multifarious
 4 Thief of Sanity
-4 Lazav, the Multifarious
 4 Thought Erasure
+4 Lazav, the Multifarious
+4 Kiora, Behemoth Beckoner
 1 Blast Zone
 1 Repudiate / Replicate
 1 Castle Garenbrig

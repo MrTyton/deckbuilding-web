@@ -1,4 +1,4 @@
-4 Searing Blaze
+4 Grim Lavamancer
 4 Bloodstained Mire
 3 Arid Mesa
 1 Plains
@@ -39,54 +39,20 @@
 2 Stoneforge Mystic
 2 Giver of Runes
 2 Seasoned Pyromancer
-2 Force of Virtue
 2 Field of Ruin
+2 Force of Virtue
 2 Path to Exile
 3 Squadron Hawk
 3 Stoneforge Mystic
 3 Giver of Runes
 3 Field of Ruin
-3 Path to Exile
 3 Force of Virtue
+3 Path to Exile
 4 Squadron Hawk
 4 Giver of Runes
 4 Path to Exile
 4 Field of Ruin
 2 Sacred Foundry
-1 Thraben Inspector
-2 Thraben Inspector
-3 Thraben Inspector
-4 Thraben Inspector
-3 Thalia, Guardian of Thraben
-1 Charming Prince
-1 Cavern of Souls
-1 Avalanche Riders
-1 Thalia's Lieutenant
-1 Marsh Flats
-1 Windswept Heath
-1 Champion of the Parish
-1 Flooded Strand
-1 Ephemerate
-2 Cavern of Souls
-2 Charming Prince
-2 Ephemerate
-2 Thalia's Lieutenant
-2 Avalanche Riders
-2 Champion of the Parish
-3 Charming Prince
-3 Champion of the Parish
-3 Cavern of Souls
-3 Avalanche Riders
-3 Thalia's Lieutenant
-3 Ephemerate
-4 Charming Prince
-4 Thalia, Guardian of Thraben
-4 Champion of the Parish
-4 Ephemerate
-4 Cavern of Souls
-4 Magus of the Moon
-4 Thalia's Lieutenant
-4 Avalanche Riders
 1 Lightning Helix
 2 Lightning Helix
 3 Lightning Helix
@@ -103,6 +69,7 @@
 4 Simian Spirit Guide
 4 Plains
 4 Chalice of the Void
+3 Thalia, Guardian of Thraben
 1 Ghost Quarter
 1 Winds of Abandon
 1 Leonin Arbiter
@@ -122,8 +89,8 @@
 2 Rest in Peace
 2 Winds of Abandon
 2 Aven Mindcensor
-2 Thought-Knot Seer
 2 Reality Smasher
+2 Thought-Knot Seer
 2 Eternal Scourge
 2 Shefet Dunes
 2 Eldrazi Temple
@@ -143,9 +110,12 @@
 4 Eldrazi Temple
 4 Thought-Knot Seer
 4 Shefet Dunes
+1 Thraben Inspector
+2 Thraben Inspector
+3 Thraben Inspector
+4 Thraben Inspector
 1 Experimental Frenzy
 1 Signal Pest
-1 Battlefield Forge
 1 Toolcraft Exemplar
 1 Ornithopter
 1 Kuldotha Rebirth
@@ -154,45 +124,46 @@
 1 Springleaf Drum
 1 Venerated Loxodon
 1 Reckless Bushwhacker
+1 Battlefield Forge
 1 Darksteel Citadel
-2 Springleaf Drum
 2 Toolcraft Exemplar
+2 Springleaf Drum
+2 Reckless Bushwhacker
 2 Kuldotha Rebirth
 2 Devastating Summons
 2 Signal Pest
-2 Reckless Bushwhacker
 2 Venerated Loxodon
 2 Ornithopter
 2 Battlefield Forge
 2 Darksteel Citadel
 2 Memnite
 3 Kuldotha Rebirth
+3 Darksteel Citadel
 3 Signal Pest
 3 Reckless Bushwhacker
-3 Devastating Summons
-3 Venerated Loxodon
 3 Springleaf Drum
+3 Devastating Summons
 3 Toolcraft Exemplar
 3 Battlefield Forge
+3 Venerated Loxodon
 3 Memnite
 3 Ornithopter
-3 Darksteel Citadel
 4 Memnite
 4 Signal Pest
 4 Kuldotha Rebirth
 4 Springleaf Drum
 4 Reckless Bushwhacker
-4 Ornithopter
-4 Toolcraft Exemplar
 4 Venerated Loxodon
+4 Ornithopter
 4 Battlefield Forge
+4 Toolcraft Exemplar
 4 Darksteel Citadel
 1 Snow-Covered Mountain
 1 Skullcrack
 1 Boros Charm
 1 Eidolon of the Great Revel
-1 Exquisite Firecraft
 1 Rift Bolt
+1 Exquisite Firecraft
 1 Goblin Guide
 2 Snow-Covered Mountain
 2 Boros Charm
@@ -201,10 +172,10 @@
 2 Skullcrack
 2 Rift Bolt
 3 Sacred Foundry
-3 Snow-Covered Mountain
-3 Goblin Guide
-3 Boros Charm
 3 Eidolon of the Great Revel
+3 Snow-Covered Mountain
+3 Boros Charm
+3 Goblin Guide
 3 Skullcrack
 3 Rift Bolt
 4 Eidolon of the Great Revel
@@ -213,39 +184,67 @@
 4 Sacred Foundry
 4 Boros Charm
 4 Goblin Guide
+1 Charming Prince
+1 Cavern of Souls
+1 Avalanche Riders
+1 Thalia's Lieutenant
+1 Marsh Flats
+1 Champion of the Parish
+1 Flooded Strand
+1 Ephemerate
+1 Windswept Heath
+2 Cavern of Souls
+2 Charming Prince
+2 Ephemerate
+2 Thalia's Lieutenant
+2 Avalanche Riders
+2 Champion of the Parish
+3 Charming Prince
+3 Champion of the Parish
+3 Cavern of Souls
+3 Avalanche Riders
+3 Ephemerate
+3 Thalia's Lieutenant
+4 Charming Prince
+4 Thalia, Guardian of Thraben
+4 Champion of the Parish
+4 Avalanche Riders
+4 Magus of the Moon
+4 Ephemerate
+4 Thalia's Lieutenant
+4 Cavern of Souls
 1 Chandra, Torch of Defiance
 1 Anger of the Gods
 1 Emrakul, the Aeons Torn
 1 Temple of Triumph
 1 Gideon Jura
-1 Wrath of God
 1 Nahiri, the Harbinger
 1 Rugged Prairie
+1 Wrath of God
 1 Elspeth, Sun's Champion
 1 Blood Moon
 2 Blood Moon
 2 Chandra, Torch of Defiance
 2 Anger of the Gods
 2 Temple of Triumph
-2 Nahiri, the Harbinger
 2 Wrath of God
+2 Nahiri, the Harbinger
 2 Gideon Jura
 3 Blood Moon
-3 Chandra, Torch of Defiance
 3 Wrath of God
+3 Anger of the Gods
 3 Temple of Triumph
 3 Nahiri, the Harbinger
-3 Anger of the Gods
-4 Temple of Triumph
+3 Chandra, Torch of Defiance
 4 Anger of the Gods
 4 Blood Moon
+4 Temple of Triumph
 4 Nahiri, the Harbinger
 5 Plains
 6 Plains
 7 Plains
 1 Bedlam Reveler
 1 Forked Bolt
-1 Mutagenic Growth
 1 Finale of Promise
 1 Electrostatic Field
 1 Manamorphose
@@ -255,6 +254,7 @@
 1 Burst Lightning
 1 Crash Through
 1 Kiln Fiend
+1 Mutagenic Growth
 2 Forked Bolt
 2 Mutagenic Growth
 2 Lava Dart
@@ -262,8 +262,8 @@
 2 Firebolt
 2 Kiln Fiend
 2 Crash Through
-3 Manamorphose
 3 Mutagenic Growth
+3 Manamorphose
 3 Kiln Fiend
 3 Crash Through
 3 Lava Dart

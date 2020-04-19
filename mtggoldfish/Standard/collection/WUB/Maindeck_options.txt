@@ -15,9 +15,9 @@
 4 Thought Erasure
 2 Ashiok, Nightmare Muse
 1 Erebos's Intervention
-1 Kaya, Orzhov Usurper
 1 Kaya's Wrath
 2 Kaya's Wrath
+1 Kaya, Orzhov Usurper
 4 Agonizing Remorse
 1 The Elderspell
 1 Legion's End
@@ -31,9 +31,9 @@
 1 Field of Ruin
 1 Agent of Treachery
 2 Agent of Treachery
-3 Plains
 2 Ashiok, Dream Render
 1 The Birth of Meletis
+3 Plains
 2 Legion's End
 3 Liliana, Dreadhorde General
 4 Fabled Passage
@@ -45,28 +45,17 @@
 2 The Birth of Meletis
 1 Archon of Sun's Grace
 1 Ritual of Soot
-3 Swamp
 1 Absorb
 1 Liliana's Triumph
 2 Liliana's Triumph
 3 The Birth of Meletis
-1 Thassa, Deep-Dwelling
-2 Thassa, Deep-Dwelling
-1 Murderous Rider
-2 Murderous Rider
-3 Murderous Rider
+3 Swamp
 1 Eat to Extinction
 2 Despark
 2 Archon of Sun's Grace
-1 Elspeth's Nightmare
-2 Elspeth's Nightmare
-4 Swamp
-5 Swamp
 1 Thryx, the Sudden Storm
 1 Epic Downfall
 1 Duress
-1 Planar Cleansing
-2 Planar Cleansing
 1 Chemister's Insight
 2 Chemister's Insight
 2 The Elderspell
@@ -74,29 +63,36 @@
 1 Kunoros, Hound of Athreos
 1 Cry of the Carnarium
 2 Cry of the Carnarium
+1 Thassa, Deep-Dwelling
+2 Thassa, Deep-Dwelling
+1 Murderous Rider
+1 Planar Cleansing
+2 Planar Cleansing
+2 Murderous Rider
+3 Murderous Rider
 2 Castle Vantress
 4 Mystical Dispute
 1 Dismal Backwater
 2 Drawn from Dreams
 2 Dismal Backwater
 4 The Birth of Meletis
-1 Glass Casket
-1 Heliod, Sun-Crowned
 1 Midnight Reaper
-1 Ajani, Strength of the Pride
+1 Glass Casket
 1 Daxos, Blessed by the Sun
+1 Heliod, Sun-Crowned
+1 Ajani, Strength of the Pride
 1 Witch's Oven
 1 Cauldron Familiar
-2 Castle Locthwain
-2 Castle Ardenvale
-2 Heliod, Sun-Crowned
-2 Witch's Oven
 2 Midnight Reaper
 2 Daxos, Blessed by the Sun
+2 Heliod, Sun-Crowned
+2 Castle Ardenvale
+2 Witch's Oven
 2 Cauldron Familiar
-3 Heliod, Sun-Crowned
+2 Castle Locthwain
 3 Midnight Reaper
 3 Daxos, Blessed by the Sun
+3 Heliod, Sun-Crowned
 3 Cauldron Familiar
 3 Witch's Oven
 4 Daxos, Blessed by the Sun
@@ -104,47 +100,28 @@
 4 Cauldron Familiar
 4 Oath of Kaya
 4 Temple of Silence
-1 Yarok's Fenlurker
-1 Bolas's Citadel
-1 Basilica Bell-Haunt
-1 Charming Prince
-1 Flicker of Fate
-1 Davriel, Rogue Shadowmage
-1 Burglar Rat
-2 Yarok's Fenlurker
-2 Basilica Bell-Haunt
-2 Flicker of Fate
-2 Burglar Rat
-2 Charming Prince
-2 Davriel, Rogue Shadowmage
-3 Davriel, Rogue Shadowmage
-3 Yarok's Fenlurker
-3 Basilica Bell-Haunt
-3 Flicker of Fate
-3 Burglar Rat
-3 Charming Prince
-4 Yarok's Fenlurker
-4 Charming Prince
-4 Flicker of Fate
-4 Davriel, Rogue Shadowmage
 1 Leyline of the Void
 1 Deputy of Detention
+1 Elspeth's Nightmare
 1 Interplanar Beacon
 1 Mindwrack Harpy
 1 Omen of the Sea
 2 Omen of the Sea
 2 Erebos's Intervention
-2 Interplanar Beacon
 2 Leyline of the Void
+2 Interplanar Beacon
 2 Eat to Extinction
+2 Elspeth's Nightmare
 2 Mindwrack Harpy
 3 Ashiok, Nightmare Muse
 3 Leyline of the Void
 3 Archon of Sun's Grace
 3 Eat to Extinction
 3 Island
+4 Swamp
 4 Plains
 4 Island
+5 Swamp
 6 Swamp
 7 Swamp
 5 Island

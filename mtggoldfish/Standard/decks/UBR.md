@@ -72,14 +72,14 @@
 |                    5|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)                      |                     |              |
 |                    5|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)                       |                     |              |
 |                    6|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)                    |                     |              |
-|                    6|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)                       |                     |              |
 |                    6|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)                      |                     |              |
+|                    6|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)                       |                     |              |
 |                    7|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)                    |                     |              |
+|                    7|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)                      |                     |              |
 |                    7|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)                       |                     |              |
 |                    8|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)                    |                     |              |
-|                    8|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)                       |                     |              |
 |                    8|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)                      |                     |              |
+|                    8|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)                       |                     |              |
 |                    9|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)                      |                     |              |
 |                    9|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)                       |                     |              |
-|                    7|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)                      |                     |              |
 

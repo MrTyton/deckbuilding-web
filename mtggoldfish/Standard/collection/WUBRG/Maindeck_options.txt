@@ -1,45 +1,3 @@
-1 Interplanar Beacon
-2 Interplanar Beacon
-3 Interplanar Beacon
-1 Overgrown Tomb
-1 Watery Grave
-1 Castle Locthwain
-1 Claim the Firstborn
-1 Blood Crypt
-1 Ugin, the Ineffable
-1 Gilded Goose
-1 Nicol Bolas, Dragon-God
-1 Murderous Rider
-1 Sorin, Imperious Bloodlord
-1 Dryad of the Ilysian Grove
-1 Rotting Regisaur
-1 Witch's Oven
-1 Spawn of Mayhem
-1 Act of Treason
-1 Korvold, Fae-Cursed King
-1 Chandra, Awakened Inferno
-1 Cauldron Familiar
-1 Revival/Revenge
-2 Claim the Firstborn
-2 Chandra, Awakened Inferno
-2 Spawn of Mayhem
-2 Nicol Bolas, Dragon-God
-2 Gilded Goose
-2 Cauldron Familiar
-2 Witch's Oven
-2 Overgrown Tomb
-2 Korvold, Fae-Cursed King
-2 Act of Treason
-2 Rotting Regisaur
-2 Revival/Revenge
-3 Rotting Regisaur
-3 Chandra, Awakened Inferno
-3 Revival/Revenge
-3 Gilded Goose
-3 Overgrown Tomb
-4 Gilded Goose
-4 Rotting Regisaur
-4 Fabled Passage
 1 Paradise Druid
 2 Paradise Druid
 3 Paradise Druid
@@ -64,11 +22,11 @@
 3 Cavalier of Flame
 3 Drakuseth, Maw of Flames
 3 Rhythm of the Wild
-3 Forest
 3 Purphoros, Bronze-Blooded
-3 Mountain
+3 Forest
 3 Ilharg, the Raze-Boar
 3 Terror of Mount Velus
+3 Mountain
 4 Purphoros, Bronze-Blooded
 4 Mountain
 5 Mountain
@@ -86,47 +44,24 @@
 4 Teferi, Time Raveler
 1 Fae of Wishes
 1 Omen of the Sea
+2 Fae of Wishes
 2 Steam Vents
 2 Elspeth Conquers Death
 2 Omen of the Sea
 2 Sacred Foundry
-2 Fae of Wishes
 3 Steam Vents
-3 Elspeth Conquers Death
 3 Omen of the Sea
 3 Sacred Foundry
 3 Hallowed Fountain
+3 Elspeth Conquers Death
 4 Steam Vents
 4 Hallowed Fountain
 4 Omen of the Sea
 4 Sacred Foundry
-1 Time Wipe
 1 Temple of Abandon
+1 Time Wipe
 1 Temple of Enlightenment
-1 Thought Erasure
-1 Temple of Malady
-1 Garruk, Cursed Huntsman
-1 Angrath's Rampage
-1 Temple of Malice
-1 Bedevil
-1 Assassin's Trophy
-1 Godless Shrine
-1 Niv-Mizzet Reborn
-1 Connive/Concoct
-1 Temple of Deceit
-1 Temple of Silence
-1 Casualties of War
-1 Enter the God-Eternals
-1 Temple of Plenty
-1 Mortify
-2 Thought Erasure
-2 Mortify
-2 Casualties of War
-2 Assassin's Trophy
-2 Niv-Mizzet Reborn
-3 Thought Erasure
-3 Niv-Mizzet Reborn
-4 Niv-Mizzet Reborn
+4 Fabled Passage
 1 Cavalier of Dawn
 1 Aether Gust
 1 Narset, Parter of Veils
@@ -134,34 +69,23 @@
 1 Solar Blaze
 2 Justice Strike
 2 Cavalier of Dawn
+2 Plains
 2 Temple of Enlightenment
 2 Narset, Parter of Veils
-2 Plains
 3 Narset, Parter of Veils
 3 Cavalier of Dawn
 3 Temple of Enlightenment
 4 Elspeth Conquers Death
 4 Temple of Enlightenment
 4 Cavalier of Dawn
-1 Shimmer of Possibility
-1 Castle Ardenvale
-2 Castle Vantress
-2 Shimmer of Possibility
-2 Time Wipe
-3 Shimmer of Possibility
-3 Fae of Wishes
-4 Fae of Wishes
-4 Interplanar Beacon
-4 Deafening Clarion
-4 Shimmer of Possibility
 1 Arboreal Grazer
 1 Gruul Guildgate
 1 Selesnya Guildgate
 1 Hydroid Krasis
+1 Gateway Plaza
 1 Labyrinth of Skophos
 1 Circuitous Route
 1 Golos, Tireless Pilgrim
-1 Gateway Plaza
 1 Izzet Guildgate
 1 Boros Guildgate
 1 Simic Guildgate
@@ -173,29 +97,69 @@
 1 Gatebreaker Ram
 2 Arboreal Grazer
 2 Hydroid Krasis
-2 Circuitous Route
-2 Golos, Tireless Pilgrim
 2 Selesnya Guildgate
 2 Gatebreaker Ram
+2 Circuitous Route
 2 Gateway Plaza
 2 Orzhov Guildgate
-2 Boros Guildgate
+2 Golos, Tireless Pilgrim
 2 Azorius Guildgate
 2 Izzet Guildgate
 2 Gates Ablaze
+2 Boros Guildgate
 2 Guild Summit
 2 Simic Guildgate
 3 Circuitous Route
+3 Simic Guildgate
 3 Gates Ablaze
 3 Azorius Guildgate
 3 Gatebreaker Ram
 3 Gateway Plaza
 3 Boros Guildgate
 3 Golos, Tireless Pilgrim
-3 Simic Guildgate
 4 Circuitous Route
-4 Gatebreaker Ram
 4 Gateway Plaza
+4 Gatebreaker Ram
+1 Thought Erasure
+1 Enter the God-Eternals
+1 Temple of Malice
+1 Bedevil
+1 Angrath's Rampage
+1 Assassin's Trophy
+1 Overgrown Tomb
+1 Godless Shrine
+1 Niv-Mizzet Reborn
+1 Temple of Malady
+1 Temple of Plenty
+1 Connive/Concoct
+1 Temple of Deceit
+1 Watery Grave
+1 Temple of Silence
+1 Garruk, Cursed Huntsman
+1 Casualties of War
+1 Mortify
+2 Thought Erasure
+2 Mortify
+2 Assassin's Trophy
+2 Casualties of War
+2 Niv-Mizzet Reborn
+3 Thought Erasure
+3 Niv-Mizzet Reborn
+4 Niv-Mizzet Reborn
+1 Interplanar Beacon
+1 Shimmer of Possibility
+1 Castle Ardenvale
+2 Interplanar Beacon
+2 Shimmer of Possibility
+2 Time Wipe
+2 Castle Vantress
+3 Fae of Wishes
+3 Interplanar Beacon
+3 Shimmer of Possibility
+4 Fae of Wishes
+4 Interplanar Beacon
+4 Deafening Clarion
+4 Shimmer of Possibility
 1 Experimental Frenzy
 1 Vivien's Arkbow
 1 Brought Back

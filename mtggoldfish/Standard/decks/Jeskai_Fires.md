@@ -110,7 +110,7 @@
 |                    4|[Banishing Light](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405135)          |                     |                                                                                                      |
 |                    1|[Elspeth, Sun's Nemesis](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476265)   |                     |                                                                                                      |
 |                    2|[Dream Trawler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476465)            |                     |                                                                                                      |
-|                    2|[Castle Ardenvale](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473200)         |                     |                                                                                                      |
 |                    2|[Elspeth, Sun's Nemesis](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476265)   |                     |                                                                                                      |
+|                    2|[Castle Ardenvale](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473200)         |                     |                                                                                                      |
 |                    4|[Sarkhan the Masterless](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461070)   |                     |                                                                                                      |
 
