@@ -3,16 +3,16 @@
 2 Wooded Foothills
 3 Wooded Foothills
 4 Wooded Foothills
-1 Steam Vents
-1 Island
-1 Swamp
 1 Noble Hierarch
 1 Kiki-Jiki, Mirror Breaker
 2 Noble Hierarch
 3 Noble Hierarch
 4 Noble Hierarch
-1 Scalding Tarn
 1 Sacred Foundry
+1 Steam Vents
+1 Island
+1 Swamp
+1 Scalding Tarn
 2 Scalding Tarn
 1 Felidar Guardian
 1 Saheeli Rai
@@ -25,15 +25,15 @@
 1 Blood Crypt
 2 Saheeli Rai
 2 Felidar Guardian
-2 Arid Mesa
 2 Bring to Light
+2 Arid Mesa
 2 Niv-Mizzet Reborn
 3 Saheeli Rai
 3 Felidar Guardian
 3 Arid Mesa
 3 Bring to Light
-4 Saheeli Rai
 4 Felidar Guardian
+4 Saheeli Rai
 4 Arid Mesa
 4 Bring to Light
 1 Verdant Catacombs
@@ -47,10 +47,10 @@
 1 Stitcher's Supplier
 1 Merfolk Secretkeeper
 1 Unearth
-1 Darkslick Shores
 1 Polluted Delta
 1 Creeping Chill
 1 Watery Grave
+1 Darkslick Shores
 1 Gravecrawler
 1 Hedron Crab
 1 Claim/Fame
@@ -93,6 +93,58 @@
 3 Birds of Paradise
 4 Birds of Paradise
 2 Snow-Covered Forest
+1 Arcum's Astrolabe
+1 Ice-Fang Coatl
+2 Ice-Fang Coatl
+2 Arcum's Astrolabe
+3 Snow-Covered Forest
+1 Chord of Calling
+1 Restoration Angel
+1 Snow-Covered Island
+1 Eternal Witness
+1 Snow-Covered Plains
+2 Chord of Calling
+2 Stomping Ground
+2 Restoration Angel
+3 Chord of Calling
+1 Snow-Covered Mountain
+1 Prismatic Vista
+1 Ephemerate
+1 Avalanche Riders
+1 Acidic Slime
+1 Knight of Autumn
+1 Venser, Shaper Savant
+1 Wall of Blossoms
+1 Huntmaster of the Fells
+1 Soulherder
+1 Coiling Oracle
+2 Ephemerate
+2 Avalanche Riders
+2 Wall of Blossoms
+2 Eternal Witness
+2 Coiling Oracle
+2 Soulherder
+2 Snow-Covered Island
+2 Prismatic Vista
+3 Eternal Witness
+3 Avalanche Riders
+3 Ephemerate
+3 Coiling Oracle
+3 Prismatic Vista
+3 Arcum's Astrolabe
+3 Wall of Blossoms
+3 Soulherder
+3 Ice-Fang Coatl
+4 Soulherder
+4 Ephemerate
+4 Avalanche Riders
+4 Eternal Witness
+4 Prismatic Vista
+4 Coiling Oracle
+4 Ice-Fang Coatl
+4 Wall of Blossoms
+4 Chord of Calling
+4 Arcum's Astrolabe
 1 Grand Abolisher
 1 Time Wipe
 2 Grand Abolisher
@@ -101,47 +153,7 @@
 1 Deceiver Exarch
 2 Deceiver Exarch
 3 Deceiver Exarch
-1 Arcum's Astrolabe
-1 Ice-Fang Coatl
-2 Ice-Fang Coatl
-2 Arcum's Astrolabe
-3 Snow-Covered Forest
 4 Snow-Covered Forest
-1 Eldritch Evolution
-1 Botanical Sanctum
-2 Eldritch Evolution
-2 Botanical Sanctum
-3 Eldritch Evolution
-3 Botanical Sanctum
-1 Snow-Covered Plains
-1 Wall of Roots
-1 Chord of Calling
-1 Renegade Rallier
-1 Gilded Goose
-1 Voice of Resurgence
-1 Magus of the Moon
-1 Scavenging Ooze
-1 Corridor Monitor
-1 Restoration Angel
-1 Bounding Krasis
-1 Snow-Covered Island
-1 Prime Speaker Vannifar
-1 Eternal Witness
-2 Wall of Roots
-2 Chord of Calling
-2 Gilded Goose
-2 Voice of Resurgence
-2 Stomping Ground
-2 Prime Speaker Vannifar
-2 Restoration Angel
-3 Voice of Resurgence
-3 Chord of Calling
-3 Prime Speaker Vannifar
-3 Wall of Roots
-4 Voice of Resurgence
-4 Wall of Roots
-4 Prime Speaker Vannifar
-4 Botanical Sanctum
 1 Urborg, Tomb of Yawgmoth
 1 Godless Shrine
 1 Cavern of Souls
@@ -157,9 +169,9 @@
 1 Homing Sliver
 1 Dregscape Sliver
 1 Necrotic Sliver
+1 Sidewinder Sliver
 1 Collected Company
 1 Striking Sliver
-1 Sidewinder Sliver
 1 Predatory Sliver
 1 Frenetic Sliver
 1 Leeching Sliver
@@ -182,7 +194,6 @@
 3 Aether Vial
 3 Unsettled Mariner
 3 Manaweft Sliver
-3 Sinew Sliver
 3 Cloudshredder Sliver
 3 Sliver Hive
 3 Sedge Sliver
@@ -190,13 +201,40 @@
 3 Cavern of Souls
 3 Collected Company
 3 Galerider Sliver
+3 Sinew Sliver
 4 Predatory Sliver
 4 Mutavault
 4 Aether Vial
 4 Sedge Sliver
+4 Sinew Sliver
 4 Sliver Hive
 4 Cavern of Souls
-4 Sinew Sliver
+1 Eldritch Evolution
+1 Botanical Sanctum
+2 Eldritch Evolution
+2 Botanical Sanctum
+3 Eldritch Evolution
+3 Botanical Sanctum
+1 Wall of Roots
+1 Renegade Rallier
+1 Gilded Goose
+1 Magus of the Moon
+1 Scavenging Ooze
+1 Voice of Resurgence
+1 Corridor Monitor
+1 Bounding Krasis
+1 Prime Speaker Vannifar
+2 Wall of Roots
+2 Gilded Goose
+2 Voice of Resurgence
+2 Prime Speaker Vannifar
+3 Voice of Resurgence
+3 Prime Speaker Vannifar
+3 Wall of Roots
+4 Voice of Resurgence
+4 Wall of Roots
+4 Prime Speaker Vannifar
+4 Botanical Sanctum
 1 Gemstone Mine
 1 Mana Confluence
 1 Griselbrand
@@ -265,9 +303,9 @@
 2 Desert Cerodon
 2 Steam Vents
 2 Force of Negation
-2 Windcaller Aven
 2 Ardent Plea
 2 Island
+2 Windcaller Aven
 2 Violent Outburst
 3 Flooded Strand
 3 Brazen Borrower

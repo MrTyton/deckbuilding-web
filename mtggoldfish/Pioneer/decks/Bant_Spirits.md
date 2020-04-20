@@ -1,7 +1,7 @@
 # Bant Spirits
 
 #### [Export MTGO List](../collection/Bant%20Spirits/Bant%20Spirits.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Botanical%20Sanctum%0A3%09Breeding%20Pool%0A4%09Collected%20Company%0A4%09Empyrean%20Eagle%0A4%09Glacial%20Fortress%0A4%09Hallowed%20Fountain%0A2%09Island%0A4%09Mausoleum%20Wanderer%0A4%09Nebelgast%20Herald%0A2%09Plains%0A4%09Rattlechains%0A4%09Selfless%20Spirit%0A4%09Spectral%20Sailor%0A4%09Spell%20Queller%0A4%09Supreme%20Phantom%0A4%09Temple%20Garden%0A1%09Yavimaya%20Coast&deckside=2%09Annul%0A2%09Deputy%20of%20Detention%0A2%09Disdainful%20Stroke%0A4%09Mystical%20Dispute%0A2%09Permeating%20Mass%0A2%09Remorseful%20Cleric%0A1%09Seal%20Away)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Botanical%20Sanctum%0A3%09Breeding%20Pool%0A4%09Collected%20Company%0A4%09Empyrean%20Eagle%0A4%09Glacial%20Fortress%0A4%09Hallowed%20Fountain%0A2%09Island%0A4%09Mausoleum%20Wanderer%0A4%09Nebelgast%20Herald%0A2%09Plains%0A4%09Rattlechains%0A4%09Selfless%20Spirit%0A4%09Spectral%20Sailor%0A4%09Spell%20Queller%0A4%09Supreme%20Phantom%0A4%09Temple%20Garden%0A1%09Yavimaya%20Coast&deckside=2%09Annul%0A3%09Deputy%20of%20Detention%0A2%09Disdainful%20Stroke%0A4%09Mystical%20Dispute%0A2%09Permeating%20Mass%0A2%09Remorseful%20Cleric)
 # Maindeck
 
 |                                         Creature (32)                                         |                                         Instant (4)                                          |                                          Land (24)                                           |
@@ -18,33 +18,33 @@
 
 # Sideboard
 
-|                                          Creature (6)                                          |                                   Enchantment (1)                                    |                                         Instant (8)                                          |
-|------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
-|2 [Deputy of Detention](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457309)|1 [Seal Away](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442919)|2 [Annul](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45976)             |
-|2 [Permeating Mass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414467)    |                                                                                      |2 [Disdainful Stroke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420705)|
-|2 [Remorseful Cleric](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447169)  |                                                                                      |4 [Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020) |
+|                                          Creature (7)                                          |                                         Instant (8)                                          |
+|------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
+|3 [Deputy of Detention](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457309)|2 [Annul](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45976)             |
+|2 [Permeating Mass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414467)    |2 [Disdainful Stroke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420705)|
+|2 [Remorseful Cleric](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447169)  |4 [Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020) |
 
 
 # Other Options
 
 |*n*<sup>th</sup> copy|                                       Maindeck Card                                        |*n*<sup>th</sup> copy|                                         Sideboard Card                                         |
 |--------------------:|--------------------------------------------------------------------------------------------|--------------------:|------------------------------------------------------------------------------------------------|
-|                    4|[Breeding Pool](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=97088)     |                    3|[Deputy of Detention](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457309)  |
+|                    4|[Breeding Pool](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=97088)     |                    1|[Seal Away](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442919)            |
 |                    1|[Remorseful Cleric](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447169)|                    1|[Settle the Wreckage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435186)  |
 |                    2|[Remorseful Cleric](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447169)|                    4|[Deputy of Detention](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457309)  |
 |                    1|[Brazen Borrower](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473001)  |                    1|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)        |
-|                    2|[Brazen Borrower](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473001)  |                    2|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)        |
-|                    2|[Mutavault](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370733)        |                    2|[Seal Away](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442919)            |
+|                    2|[Brazen Borrower](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473001)  |                    2|[Seal Away](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442919)            |
+|                    2|[Mutavault](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370733)        |                    2|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)        |
 |                    1|[Mutavault](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370733)        |                    2|[Settle the Wreckage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435186)  |
 |                     |                                                                                            |                    3|[Disdainful Stroke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420705)    |
 |                     |                                                                                            |                    3|[Seal Away](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442919)            |
 |                     |                                                                                            |                    1|[Dromoka's Command](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394558)    |
 |                     |                                                                                            |                    3|[Annul](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45976)                 |
-|                     |                                                                                            |                    1|[Heliod's Intervention](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476270)|
+|                     |                                                                                            |                    3|[Remorseful Cleric](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447169)    |
 |                     |                                                                                            |                    1|[Archangel Avacyn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409741)     |
 |                     |                                                                                            |                    1|[Aether Gust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466796)          |
+|                     |                                                                                            |                    1|[Heliod's Intervention](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476270)|
 |                     |                                                                                            |                    2|[Aether Gust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466796)          |
-|                     |                                                                                            |                    3|[Remorseful Cleric](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447169)    |
 |                     |                                                                                            |                    1|[Failure/Comply](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426923)       |
 |                     |                                                                                            |                    2|[Failure/Comply](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426923)       |
 

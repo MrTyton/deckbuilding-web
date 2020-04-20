@@ -1,13 +1,18 @@
-1 Sword of Fire and Ice
-1 Scavenging Ooze
-2 Scavenging Ooze
-2 Birds of Paradise
-1 Mountain
+1 Forest
 1 Sunbaked Canyon
+1 Mountain
 1 Plains
 2 Forest
+1 Wrenn and Six
+2 Wrenn and Six
+1 Bonecrusher Giant
+2 Bonecrusher Giant
+2 Birds of Paradise
+3 Forest
 3 Glorybringer
 3 Klothys, God of Destiny
+1 Questing Beast
+2 Questing Beast
 1 Tarmogoyf
 2 Tarmogoyf
 3 Tarmogoyf
@@ -19,24 +24,21 @@
 4 Wild Nacatl
 1 Path to Exile
 2 Path to Exile
+1 Pillage
+2 Pillage
+3 Pillage
 4 Snow-Covered Forest
-1 Wrenn and Six
-2 Wrenn and Six
 3 Path to Exile
 1 Noble Hierarch
 2 Noble Hierarch
 3 Noble Hierarch
 4 Noble Hierarch
 1 Knight of Autumn
-3 Forest
 4 Path to Exile
 2 Knight of Autumn
 1 Kessig Wolf Run
 1 Voice of Resurgence
 2 Voice of Resurgence
-1 Pillage
-2 Pillage
-3 Pillage
 2 Sacred Foundry
 1 Tarfire
 1 Eidolon of the Great Revel
@@ -65,8 +67,6 @@
 4 Goblin Guide
 4 Atarka's Command
 4 Kird Ape
-1 Questing Beast
-2 Questing Beast
 2 Plains
 1 Knight of the Reliquary
 1 Ghost Quarter
@@ -92,6 +92,7 @@
 2 Misty Rainforest
 1 Grove of the Burnwillows
 3 Restoration Angel
+4 Forest
 1 Vizier of Remedies
 1 Devoted Druid
 2 Devoted Druid
@@ -126,8 +127,8 @@
 2 Flame Slash
 3 Flame Slash
 4 Flame Slash
-1 Verdant Catacombs
 1 Viridian Longbow
+1 Verdant Catacombs
 1 Summoning Trap
 2 Grove of the Burnwillows
 2 Kiki-Jiki, Mirror Breaker
@@ -167,13 +168,13 @@
 1 Winds of Abandon
 2 Duskwatch Recruiter
 2 Winds of Abandon
-2 Aven Mindcensor
 2 Gemstone Caverns
+2 Aven Mindcensor
 2 Thalia, Guardian of Thraben
 2 Chalice of the Void
 3 Temple Garden
-3 Thalia, Guardian of Thraben
 3 Plains
+3 Thalia, Guardian of Thraben
 3 Chalice of the Void
 3 Simian Spirit Guide
 3 Aven Mindcensor
@@ -184,7 +185,6 @@
 4 Simian Spirit Guide
 4 Plains
 4 Chalice of the Void
-4 Forest
 5 Plains
 5 Forest
 6 Plains

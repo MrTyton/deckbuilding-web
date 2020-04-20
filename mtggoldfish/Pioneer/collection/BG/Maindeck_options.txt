@@ -1,7 +1,6 @@
-1 Satyr Wayfinder
 1 Swamp
 2 Swamp
-5 Forest
+1 Satyr Wayfinder
 2 Satyr Wayfinder
 3 Satyr Wayfinder
 1 Zulaport Cutthroat
@@ -13,9 +12,9 @@
 1 Gruesome Menagerie
 1 Priest of Forgotten Gods
 2 Collected Company
+2 Plaguecrafter
 2 Westvale Abbey
 2 Gruesome Menagerie
-2 Plaguecrafter
 2 Woe Strider
 2 Zulaport Cutthroat
 2 Catacomb Sifter
@@ -33,48 +32,50 @@
 2 Weaponcraft Enthusiast
 3 Priest of Forgotten Gods
 4 Priest of Forgotten Gods
+5 Forest
 4 Plaguecrafter
 1 Scavenging Ooze
 3 Gruesome Menagerie
+1 Hangarback Walker
+2 Hangarback Walker
+3 Hangarback Walker
+1 Thoughtseize
+1 Fatal Push
+2 Thoughtseize
+2 Fatal Push
+3 Fatal Push
+3 Thoughtseize
+4 Thoughtseize
+4 Fatal Push
 2 Scavenging Ooze
 4 Satyr Wayfinder
 1 Traverse the Ulvenwald
 1 Murderous Rider
+1 Abrupt Decay
 1 Courser of Kruphix
 1 Grim Flayer
 1 Liliana, the Last Hope
-1 Fatal Push
-1 Thoughtseize
 1 Ishkanah, Grafwidow
 1 Fabled Passage
 1 Tireless Tracker
-1 Abrupt Decay
-1 Kalitas, Traitor of Ghet
 1 Hissing Quagmire
+1 Kalitas, Traitor of Ghet
 2 Traverse the Ulvenwald
 2 Liliana, the Last Hope
 2 Grim Flayer
 2 Courser of Kruphix
 2 Murderous Rider
-2 Thoughtseize
 2 Abrupt Decay
-2 Fatal Push
 2 Tireless Tracker
 2 Fabled Passage
 3 Traverse the Ulvenwald
-3 Fatal Push
 3 Fabled Passage
-3 Thoughtseize
 3 Swamp
-4 Fatal Push
-4 Thoughtseize
 4 Fabled Passage
+1 Urborg, Tomb of Yawgmoth
 1 Nantuko Husk
 1 Blisterpod
 2 Nantuko Husk
-1 Hangarback Walker
-2 Hangarback Walker
-3 Hangarback Walker
 1 Emrakul, the Promised End
 1 Castle Garenbrig
 1 Distended Mindbender
@@ -87,7 +88,6 @@
 1 Languish
 1 Heart of Kiran
 1 Nissa, Vital Force
-1 Urborg, Tomb of Yawgmoth
 1 Collective Brutality
 1 Noxious Gearhulk
 2 Kalitas, Traitor of Ghet
@@ -95,8 +95,14 @@
 3 Tireless Tracker
 3 Grim Flayer
 4 Grim Flayer
-1 Karn's Bastion
-1 Jadelight Ranger
-2 Jadelight Ranger
-3 Jadelight Ranger
-4 Jadelight Ranger
+1 Steel Overseer
+1 Animation Module
+1 Metallic Mimic
+2 Animation Module
+2 Steel Overseer
+2 Metallic Mimic
+3 Steel Overseer
+3 Metallic Mimic
+3 Animation Module
+4 Metallic Mimic
+4 Hangarback Walker

@@ -1,8 +1,24 @@
+1 Elspeth Conquers Death
+4 Teferi, Time Raveler
+1 Fae of Wishes
+1 Omen of the Sea
+2 Fae of Wishes
+2 Steam Vents
+2 Elspeth Conquers Death
+2 Omen of the Sea
+3 Steam Vents
+3 Omen of the Sea
+3 Hallowed Fountain
+3 Elspeth Conquers Death
+4 Hallowed Fountain
+4 Omen of the Sea
+1 Dream Trawler
+2 Dream Trawler
+2 Mountain
 1 Paradise Druid
 2 Paradise Druid
 3 Paradise Druid
 4 Paradise Druid
-2 Mountain
 1 Cavalier of Flame
 1 Drakuseth, Maw of Flames
 1 Purphoros, Bronze-Blooded
@@ -13,17 +29,17 @@
 1 Rhythm of the Wild
 2 Cavalier of Flame
 2 Ilharg, the Raze-Boar
-2 Purphoros, Bronze-Blooded
-2 Rhythm of the Wild
 2 Drakuseth, Maw of Flames
+2 Rhythm of the Wild
+2 Purphoros, Bronze-Blooded
 2 Castle Embereth
 2 Storm's Wrath
 2 Terror of Mount Velus
 3 Cavalier of Flame
 3 Drakuseth, Maw of Flames
+3 Forest
 3 Rhythm of the Wild
 3 Purphoros, Bronze-Blooded
-3 Forest
 3 Ilharg, the Raze-Boar
 3 Terror of Mount Velus
 3 Mountain
@@ -38,47 +54,59 @@
 11 Mountain
 12 Mountain
 13 Mountain
-1 Dream Trawler
-2 Dream Trawler
-1 Elspeth Conquers Death
-4 Teferi, Time Raveler
-1 Fae of Wishes
-1 Omen of the Sea
-2 Fae of Wishes
-2 Steam Vents
-2 Elspeth Conquers Death
-2 Omen of the Sea
+3 Fae of Wishes
+4 Fae of Wishes
+1 Narset, Parter of Veils
+2 Narset, Parter of Veils
+4 Elspeth Conquers Death
 2 Sacred Foundry
-3 Steam Vents
-3 Omen of the Sea
 3 Sacred Foundry
-3 Hallowed Fountain
-3 Elspeth Conquers Death
 4 Steam Vents
-4 Hallowed Fountain
-4 Omen of the Sea
 4 Sacred Foundry
+1 Temple of Plenty
 1 Temple of Abandon
 1 Time Wipe
 1 Temple of Enlightenment
 4 Fabled Passage
+1 Arboreal Grazer
+2 Arboreal Grazer
+1 Raugrin Triome
+1 Narset of the Ancient Way
+1 Omen of the Hunt
+1 Ketria Triome
+1 Shark Typhoon
+1 Tamiyo, Collector of Tales
+1 Omen of the Forge
+2 Raugrin Triome
+2 Narset of the Ancient Way
+2 Shark Typhoon
+2 Omen of the Forge
+2 Tamiyo, Collector of Tales
+2 Ketria Triome
+3 Raugrin Triome
+3 Stomping Ground
+3 Arboreal Grazer
+3 Ketria Triome
+3 Omen of the Forge
+3 Temple Garden
+4 Raugrin Triome
+4 Stomping Ground
+4 Arboreal Grazer
+4 Ketria Triome
+4 Temple Garden
 1 Cavalier of Dawn
 1 Aether Gust
-1 Narset, Parter of Veils
 1 Justice Strike
 1 Solar Blaze
 2 Justice Strike
 2 Cavalier of Dawn
 2 Plains
 2 Temple of Enlightenment
-2 Narset, Parter of Veils
 3 Narset, Parter of Veils
 3 Cavalier of Dawn
 3 Temple of Enlightenment
-4 Elspeth Conquers Death
 4 Temple of Enlightenment
 4 Cavalier of Dawn
-1 Arboreal Grazer
 1 Gruul Guildgate
 1 Selesnya Guildgate
 1 Hydroid Krasis
@@ -86,17 +114,17 @@
 1 Labyrinth of Skophos
 1 Circuitous Route
 1 Golos, Tireless Pilgrim
+1 Orzhov Guildgate
 1 Izzet Guildgate
 1 Boros Guildgate
 1 Simic Guildgate
-1 Orzhov Guildgate
 1 Azorius Guildgate
 1 Guild Summit
 1 Rakdos Guildgate
 1 Gates Ablaze
 1 Gatebreaker Ram
-2 Arboreal Grazer
 2 Hydroid Krasis
+2 Gates Ablaze
 2 Selesnya Guildgate
 2 Gatebreaker Ram
 2 Circuitous Route
@@ -105,15 +133,14 @@
 2 Golos, Tireless Pilgrim
 2 Azorius Guildgate
 2 Izzet Guildgate
-2 Gates Ablaze
 2 Boros Guildgate
 2 Guild Summit
 2 Simic Guildgate
 3 Circuitous Route
 3 Simic Guildgate
-3 Gates Ablaze
-3 Azorius Guildgate
 3 Gatebreaker Ram
+3 Azorius Guildgate
+3 Gates Ablaze
 3 Gateway Plaza
 3 Boros Guildgate
 3 Golos, Tireless Pilgrim
@@ -128,9 +155,8 @@
 1 Assassin's Trophy
 1 Overgrown Tomb
 1 Godless Shrine
-1 Niv-Mizzet Reborn
 1 Temple of Malady
-1 Temple of Plenty
+1 Niv-Mizzet Reborn
 1 Connive/Concoct
 1 Temple of Deceit
 1 Watery Grave
@@ -153,10 +179,8 @@
 2 Shimmer of Possibility
 2 Time Wipe
 2 Castle Vantress
-3 Fae of Wishes
 3 Interplanar Beacon
 3 Shimmer of Possibility
-4 Fae of Wishes
 4 Interplanar Beacon
 4 Deafening Clarion
 4 Shimmer of Possibility
@@ -175,8 +199,8 @@
 1 Response/Resurgence
 1 Thrill of Possibility
 2 Temple of Abandon
-2 Gravitic Punch
 2 Thrill of Possibility
+2 Gravitic Punch
 3 Temple of Abandon
 4 Terror of Mount Velus
 14 Mountain

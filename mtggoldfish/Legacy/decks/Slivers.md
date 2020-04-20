@@ -1,7 +1,7 @@
 # Slivers
 
 #### [Export MTGO List](../collection/Slivers/Slivers.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Aether%20Vial%0A2%09Ancient%20Ziggurat%0A4%09Cavern%20of%20Souls%0A2%09Cloudshredder%20Sliver%0A4%09Crystalline%20Sliver%0A4%09Force%20of%20Will%0A4%09Galerider%20Sliver%0A3%09Hibernation%20Sliver%0A2%09Karakas%0A2%09Muscle%20Sliver%0A3%09Mutavault%0A4%09Predatory%20Sliver%0A2%09Sidewinder%20Sliver%0A4%09Sinew%20Sliver%0A4%09Sliver%20Hive%0A4%09Striking%20Sliver%0A4%09Unclaimed%20Territory%0A3%09Unsettled%20Mariner%0A1%09Waterlogged%20Grove&deckside=3%09Chalice%20of%20the%20Void%0A2%09Dismember%0A1%09Ethersworn%20Canonist%0A3%09Force%20of%20Negation%0A2%09Harmonic%20Sliver%0A4%09Leyline%20of%20the%20Void)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Aether%20Vial%0A2%09Ancient%20Ziggurat%0A4%09Cavern%20of%20Souls%0A2%09Cloudshredder%20Sliver%0A4%09Crystalline%20Sliver%0A4%09Force%20of%20Will%0A4%09Galerider%20Sliver%0A3%09Hibernation%20Sliver%0A2%09Karakas%0A2%09Muscle%20Sliver%0A3%09Mutavault%0A4%09Predatory%20Sliver%0A2%09Sidewinder%20Sliver%0A4%09Sinew%20Sliver%0A4%09Sliver%20Hive%0A4%09Striking%20Sliver%0A4%09Unclaimed%20Territory%0A3%09Unsettled%20Mariner%0A1%09Waterlogged%20Grove&deckside=2%09Chalice%20of%20the%20Void%0A2%09Dismember%0A2%09Ethersworn%20Canonist%0A3%09Force%20of%20Negation%0A2%09Harmonic%20Sliver%0A4%09Leyline%20of%20the%20Void)
 # Maindeck
 
 |                                     Artifact (4)                                      |                                          Creature (32)                                          |                                      Instant (4)                                       |                                           Land (20)                                            |
@@ -20,9 +20,9 @@
 
 # Sideboard
 
-|                                          Artifact (3)                                          |                                          Creature (3)                                          |                                        Enchantment (4)                                         |                                         Instant (5)                                          |
+|                                          Artifact (2)                                          |                                          Creature (4)                                          |                                        Enchantment (4)                                         |                                         Instant (5)                                          |
 |------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
-|3 [Chalice of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442211)|1 [Ethersworn Canonist](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174931)|4 [Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)|2 [Dismember](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382182)        |
+|2 [Chalice of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442211)|2 [Ethersworn Canonist](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174931)|4 [Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)|2 [Dismember](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382182)        |
 |                                                                                                |2 [Harmonic Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=109706)    |                                                                                                |3 [Force of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464001)|
 
 
@@ -30,9 +30,9 @@
 
 |*n*<sup>th</sup> copy|                                         Maindeck Card                                         |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
 |--------------------:|-----------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
-|                    1|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)              |                    2|[Ethersworn Canonist](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174931)|
-|                    2|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)              |                    1|[Unsettled Mariner](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464165)  |
-|                    3|[Cloudshredder Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464144)|                    1|[Mindbreak Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197532)     |
+|                    3|[Cloudshredder Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464144)|                    3|[Chalice of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442211)|
+|                    1|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)              |                    1|[Unsettled Mariner](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464165)  |
+|                    2|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)              |                    1|[Mindbreak Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197532)     |
 |                    3|[Ancient Ziggurat](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=189271)    |                    2|[Mindbreak Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197532)     |
 |                     |                                                                                               |                    4|[Chalice of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442211)|
 

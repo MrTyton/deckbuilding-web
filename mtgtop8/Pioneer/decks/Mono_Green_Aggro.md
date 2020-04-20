@@ -72,6 +72,6 @@
 |                    1|[Nessian Hornbeetle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476433)      |                     |                                                                                                 |
 |                    1|[Ugin, the Spirit Dragon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391948) |                     |                                                                                                 |
 |                    1|[Ugin, the Ineffable](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460929)     |                     |                                                                                                 |
-|                    3|[Voyaging Satyr](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416952)          |                     |                                                                                                 |
 |                    3|[The Great Henge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473123)         |                     |                                                                                                 |
+|                    3|[Voyaging Satyr](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416952)          |                     |                                                                                                 |
 

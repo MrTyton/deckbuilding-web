@@ -1,0 +1,24 @@
+# WUR
+
+#### [Export MTGO List](../collection/WUR/WUR.txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Boros%20Charm%0A4%09Defiant%20Strike%0A4%09Favored%20Hoplite%0A1%09Fight%20as%20One%0A4%09Gods%20Willing%0A4%09Hallowed%20Fountain%0A4%09Inspiring%20Vantage%0A4%09Mana%20Confluence%0A4%09Monastery%20Swiftspear%0A4%09Sacred%20Foundry%0A2%09Shock%0A4%09Slip%20Through%20Space%0A4%09Soul-Scar%20Mage%0A4%09Spirebluff%20Canal%0A4%09Sprite%20Dragon%0A4%09Titan's%20Strength%0A1%09Treasure%20Cruise&deckside=1%09Chandra's%20Defeat%0A1%09Lurrus%20of%20the%20Dream%20Den%0A2%09Mystical%20Dispute%0A4%09Reckless%20Rage%0A2%09Rending%20Volley%0A2%09Tomik,%20Distinguished%20Advokist%0A3%09Young%20Pyromancer)
+# Maindeck
+
+|                                          Creature (12)                                          |                                        Instant (18)                                         |                                          Land (20)                                           |                                          Sorcery (5)                                          |  Unknown (5)  |
+|-------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|---------------|
+|4 [Favored Hoplite](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373596)     |4 [Boros Charm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442188)     |4 [Hallowed Fountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=97071) |4 [Slip Through Space](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407557)|1 Fight as One |
+|4 [Monastery Swiftspear](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438706)|4 [Defiant Strike](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386515)  |4 [Inspiring Vantage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417819)|1 [Treasure Cruise](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420718)   |4 Sprite Dragon|
+|4 [Soul-Scar Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426850)      |4 [Gods Willing](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442005)    |4 [Mana Confluence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409573)  |                                                                                               |               |
+|                                                                                                 |2 [Shock](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129732)           |4 [Sacred Foundry](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405106)   |                                                                                               |               |
+|                                                                                                 |4 [Titan's Strength](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=398680)|4 [Spirebluff Canal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417822) |                                                                                               |               |
+
+
+# Sideboard
+
+|                                               Creature (5)                                               |                                         Instant (9)                                         |       Unknown (1)       |
+|----------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|-------------------------|
+|2 [Tomik, Distinguished Advokist](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460961)|1 [Chandra's Defeat](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430775)|1 Lurrus of the Dream Den|
+|3 [Young Pyromancer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426592)             |2 [Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)|                         |
+|                                                                                                          |4 [Reckless Rage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439767)   |                         |
+|                                                                                                          |2 [Rending Volley](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394663)  |                         |
+

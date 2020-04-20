@@ -1,4 +1,3 @@
-3 Forest
 1 Snow-Covered Island
 1 Misty Rainforest
 1 Breeding Pool
@@ -7,6 +6,7 @@
 1 Tolaria West
 2 Misty Rainforest
 3 Snow-Covered Forest
+3 Forest
 2 Simic Growth Chamber
 3 Misty Rainforest
 1 Hour of Promise
@@ -34,14 +34,6 @@
 1 Pact of Negation
 2 Tolaria West
 3 Simic Growth Chamber
-1 Abrupt Decay
-1 Obstinate Baloth
-1 Fatal Push
-1 Stomping Ground
-2 Abrupt Decay
-2 Obstinate Baloth
-2 Fatal Push
-3 Abrupt Decay
 1 Gemstone Caverns
 4 Arboreal Grazer
 4 Cavern of Souls

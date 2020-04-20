@@ -116,11 +116,11 @@
 3 Opt
 1 Trial of Ambition
 1 Doom Foretold
-2 Isolated Chapel
-2 Doom Foretold
 2 Trial of Ambition
-3 Doom Foretold
+2 Doom Foretold
+2 Isolated Chapel
 3 Trial of Ambition
+3 Doom Foretold
 4 Doom Foretold
 1 Castle Ardenvale
 1 Blast Zone
@@ -138,14 +138,14 @@
 1 History of Benalia
 1 Starfield of Nyx
 1 Treacherous Blessing
-2 Starfield of Nyx
 2 History of Benalia
 2 Treacherous Blessing
-3 Isolated Chapel
+2 Starfield of Nyx
 3 History of Benalia
 3 Treacherous Blessing
-4 Treacherous Blessing
+3 Isolated Chapel
 4 Godless Shrine
+4 Treacherous Blessing
 5 Plains
 1 Arboreal Grazer
 1 Llanowar Elves
@@ -213,15 +213,6 @@
 1 Goblin Dark-Dwellers
 2 Goblin Dark-Dwellers
 3 Foreboding Ruins
-1 The Eldest Reborn
-1 Demonic Pact
-1 Final Payment
-1 Flicker of Fate
-2 Final Payment
-2 Demonic Pact
-2 The Eldest Reborn
-3 Demonic Pact
-4 Demonic Pact
 1 Mire Triton
 2 Mire Triton
 2 Glorybringer
@@ -332,7 +323,15 @@
 4 Risen Reef
 4 Young Pyromancer
 4 Wild Slash
-4 Arboreal Grazer
+1 The Eldest Reborn
+1 Flicker of Fate
+1 Demonic Pact
+1 Final Payment
+2 Final Payment
+2 The Eldest Reborn
+2 Demonic Pact
+3 Demonic Pact
+4 Demonic Pact
 1 Sigil of the Empty Throne
 1 Urborg, Tomb of Yawgmoth
 1 Kaya's Wrath
@@ -342,12 +341,13 @@
 2 Kaya's Wrath
 3 Cast Out
 3 Kaya's Wrath
-4 Trial of Ambition
-4 History of Benalia
 4 Isolated Chapel
+4 Trial of Ambition
+4 Shambling Vent
+4 History of Benalia
 4 Cast Out
 4 Kaya's Wrath
-4 Shambling Vent
+4 Arboreal Grazer
 1 Haktos the Unscarred
 1 Brimaz, King of Oreskos
 1 Shatter the Sky
@@ -432,8 +432,8 @@
 3 Temple of Triumph
 3 Pirate's Pillage
 3 Indomitable Creativity
-4 Chained to the Rocks
 4 Temple of Triumph
+4 Chained to the Rocks
 4 Indomitable Creativity
 4 Pirate's Pillage
 8 Mountain
