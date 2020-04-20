@@ -38,7 +38,7 @@
 |                    2|[Slagstorm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=214054)          |                    1|[Spellskite](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397743)           |
 |                     |                                                                                              |                    1|[Leyline of Combustion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466902)|
 |                     |                                                                                              |                    2|[Leyline of Combustion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466902)|
-|                     |                                                                                              |                    2|[Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)       |
-|                     |                                                                                              |                    4|[Leyline of Combustion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466902)|
 |                     |                                                                                              |                    3|[Leyline of Combustion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466902)|
+|                     |                                                                                              |                    4|[Leyline of Combustion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466902)|
+|                     |                                                                                              |                    2|[Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)       |
 

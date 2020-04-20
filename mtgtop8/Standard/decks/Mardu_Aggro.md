@@ -51,7 +51,7 @@
 |                    2|[Blood Aspirant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476379)                |                     |                                                                                                    |
 |                    2|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)                      |                     |                                                                                                    |
 |                    3|[Kroxa, Titan of Death's Hunger](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476472)|                     |                                                                                                    |
-|                    3|[Blood Aspirant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476379)                |                     |                                                                                                    |
 |                    3|[Chandra, Acolyte of Flame](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466880)     |                     |                                                                                                    |
+|                    3|[Blood Aspirant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476379)                |                     |                                                                                                    |
 |                    4|[Blood Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=97102)                    |                     |                                                                                                    |
 

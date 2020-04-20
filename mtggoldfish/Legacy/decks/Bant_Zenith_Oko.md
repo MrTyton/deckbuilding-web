@@ -35,6 +35,6 @@
 |*n*<sup>th</sup> copy|                                Maindeck Card                                 |*n*<sup>th</sup> copy|                                         Sideboard Card                                         |
 |--------------------:|------------------------------------------------------------------------------|--------------------:|------------------------------------------------------------------------------------------------|
 |                    1|[Tithe](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3730)|                    1|[Ceremonious Rejection](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417613)|
-|                     |                                                                              |                    2|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)  |
 |                     |                                                                              |                    3|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)  |
+|                     |                                                                              |                    2|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)  |
 
