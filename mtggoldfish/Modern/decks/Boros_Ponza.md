@@ -27,8 +27,8 @@
 
 |*n*<sup>th</sup> copy|                                         Maindeck Card                                         |*n*<sup>th</sup> copy|                                       Sideboard Card                                        |
 |--------------------:|-----------------------------------------------------------------------------------------------|--------------------:|---------------------------------------------------------------------------------------------|
-|                    1|[Stone Rain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=822)             |                    1|[Lightning Helix](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=249386)   |
-|                    1|[Oust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401649)                |                    1|[Kataki, War's Wage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382190)|
+|                    1|[Oust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401649)                |                    1|[Lightning Helix](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=249386)   |
+|                    1|[Stone Rain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=822)             |                    1|[Kataki, War's Wage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382190)|
 |                    1|[Suppression Field](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=83617)    |                    1|[Anger of the Gods](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438682) |
 |                    1|[Rekindling Phoenix](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439768)  |                    2|[Anger of the Gods](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438682) |
 |                    2|[Suppression Field](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=83617)    |                    2|[Lightning Helix](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=249386)   |

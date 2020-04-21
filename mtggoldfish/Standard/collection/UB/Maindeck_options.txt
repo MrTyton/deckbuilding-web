@@ -1,104 +1,100 @@
-4 Swamp
-6 Island
-5 Swamp
-3 Quench
-4 Quench
-2 Castle Locthwain
-1 Spectral Sailor
-1 Heartless Act
-1 Brineborn Cutthroat
-1 Sea-Dasher Octopus
-1 Dirge Bat
-1 Slitherwisp
-2 Heartless Act
-2 Spectral Sailor
-2 Brineborn Cutthroat
-2 Sea-Dasher Octopus
-2 Slitherwisp
-3 Heartless Act
-3 Spectral Sailor
-3 Brineborn Cutthroat
-3 Slitherwisp
-3 Sea-Dasher Octopus
-4 Spectral Sailor
-4 Brineborn Cutthroat
-4 Slitherwisp
-7 Island
-1 Murderous Rider
-2 Murderous Rider
-6 Swamp
-1 Omen of the Sea
-2 Omen of the Sea
-1 Stonecoil Serpent
-2 Stonecoil Serpent
 7 Swamp
 8 Swamp
-3 Fabled Passage
-4 Fabled Passage
-1 Duress
-2 Duress
-3 Duress
-1 Commence the Endgame
 1 Stern Dismissal
+7 Island
 8 Island
 9 Island
-1 Voracious Greatshark
-1 Neutralize
-1 Aether Gust
-1 Brazen Borrower
-2 Neutralize
-2 Brazen Borrower
-3 Brazen Borrower
-3 Neutralize
-4 Neutralize
-1 Shadowspear
-2 Shadowspear
-1 Nightveil Predator
-2 Nightveil Predator
-1 Lazotep Reaver
-1 Crush Dissent
-1 Aven Eternal
-1 Lazotep Plating
-1 Nyx Lotus
-1 Dreadhorde Invasion
-1 Enter the God-Eternals
-1 Winged Words
-1 Unexplained Vision
-1 Ill-Gotten Inheritance
-1 Callous Dismissal
-1 Eternal Skylord
-1 Gravewaker
-1 Gleaming Overseer
-1 Foulmire Knight
-1 Murder
-2 Crush Dissent
-2 Lazotep Reaver
-2 Lazotep Plating
-2 Dreadhorde Invasion
-2 Murder
-2 Gleaming Overseer
-2 Winged Words
-2 Foulmire Knight
-2 Callous Dismissal
-2 Eternal Skylord
-2 Ill-Gotten Inheritance
-2 Aven Eternal
-3 Lazotep Reaver
-3 Eternal Skylord
-3 Callous Dismissal
-4 Callous Dismissal
-1 Spawn of Mayhem
+1 Cling to Dust
+1 Drown in the Loch
+1 Labyrinth of Skophos
+1 Dismal Backwater
+1 Connive/Concoct
+1 Thief of Sanity
+1 Mass Manipulation
+1 Mission Briefing
+1 Dimir Spybug
+1 Cry of the Carnarium
+1 Eat to Extinction
+1 Discovery/Dispersal
+1 Thoughtbound Phantasm
+1 House Guildmage
+1 Whisper Agent
+1 Whispering Snitch
+1 Etrata, the Silencer
+1 Notion Rain
+1 Doom Whisperer
+1 Nightveil Sprite
+1 Blast Zone
+1 Underworld Dreams
+1 Sea God's Scorn
+2 Dismal Backwater
+2 Underworld Dreams
+2 Nightveil Sprite
+2 Cry of the Carnarium
+2 Whisper Agent
+2 Discovery/Dispersal
+2 Whispering Snitch
+2 Dimir Spybug
+2 Thoughtbound Phantasm
+2 Stern Dismissal
+2 Doom Whisperer
+3 Dismal Backwater
+3 Nightveil Sprite
+4 Dismal Backwater
+9 Swamp
+1 Duress
+1 Temple of Deceit
+2 Duress
+2 Temple of Deceit
+3 Temple of Deceit
+3 Duress
+1 Wavebreak Hippocamp
+1 Liliana, Dreadhorde General
+1 Thought Erasure
+1 Opt
+1 Thassa's Intervention
+1 Omen of the Sea
+1 Narset, Parter of Veils
+1 Ashiok, Nightmare Muse
+1 Quench
+1 Lochmere Serpent
+1 Thirst for Meaning
+2 Wavebreak Hippocamp
+2 Thought Erasure
+2 Opt
+2 Omen of the Sea
+2 Commence the Endgame
+2 Lochmere Serpent
+2 Narset, Parter of Veils
+2 Thirst for Meaning
+2 Ashiok, Nightmare Muse
+2 Quench
+3 Thought Erasure
+3 Omen of the Sea
+3 Wavebreak Hippocamp
+3 Commence the Endgame
+3 Quench
+3 Opt
+4 Quench
+4 Omen of the Sea
+10 Island
+11 Island
 1 Gingerbrute
+1 Spawn of Mayhem
+1 Stonecoil Serpent
 1 Gutterbones
 1 Blacklance Paragon
 1 Rankle, Master of Pranks
 1 Stealth Mission
+1 Castle Locthwain
 1 Knight of the Ebon Legion
-2 Spawn of Mayhem
 2 Gingerbrute
+2 Spawn of Mayhem
 2 Gutterbones
-2 Stealth Mission
+2 Castle Locthwain
+2 Stonecoil Serpent
 2 Rankle, Master of Pranks
+2 Stealth Mission
 2 Blacklance Paragon
 2 Knight of the Ebon Legion
 3 Rankle, Master of Pranks
@@ -111,73 +107,9 @@
 4 Stonecoil Serpent
 4 Gutterbones
 4 Murderous Rider
-4 Duress
 4 Castle Locthwain
+4 Duress
 4 Rankle, Master of Pranks
 4 Knight of the Ebon Legion
+4 Temple of Deceit
 4 Blacklance Paragon
-1 Cling to Dust
-1 Discovery/Dispersal
-1 Connive/Concoct
-1 Mass Manipulation
-1 Underworld Dreams
-1 Thief of Sanity
-1 Labyrinth of Skophos
-1 Mission Briefing
-1 Dimir Spybug
-1 Cry of the Carnarium
-1 Thoughtbound Phantasm
-1 House Guildmage
-1 Whisper Agent
-1 Whispering Snitch
-1 Notion Rain
-1 Etrata, the Silencer
-1 Doom Whisperer
-1 Nightveil Sprite
-1 Blast Zone
-1 Sea God's Scorn
-2 Discovery/Dispersal
-2 Underworld Dreams
-2 Nightveil Sprite
-2 Cry of the Carnarium
-2 Thoughtbound Phantasm
-2 Whispering Snitch
-2 Dimir Spybug
-2 Stern Dismissal
-2 Doom Whisperer
-2 Whisper Agent
-3 Dismal Backwater
-3 Nightveil Sprite
-4 Dismal Backwater
-9 Swamp
-1 Ashiok, Nightmare Muse
-1 Thirst for Meaning
-1 Liliana, Dreadhorde General
-1 Opt
-1 Narset, Parter of Veils
-1 Wavebreak Hippocamp
-1 Thought Erasure
-2 Ashiok, Nightmare Muse
-2 Wavebreak Hippocamp
-2 Thirst for Meaning
-2 Opt
-2 Narset, Parter of Veils
-2 Commence the Endgame
-2 Lochmere Serpent
-2 Thought Erasure
-3 Opt
-3 Omen of the Sea
-3 Thought Erasure
-3 Wavebreak Hippocamp
-3 Commence the Endgame
-4 Omen of the Sea
-10 Island
-11 Island
-1 Cunning Nightbonder
-2 Dirge Bat
-2 Cunning Nightbonder
-3 Cunning Nightbonder
-4 Heartless Act
-4 Mystical Dispute
-4 Cunning Nightbonder
-4 Sea-Dasher Octopus

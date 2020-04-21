@@ -54,6 +54,6 @@
 |                     |                                                                                                      |                    1|[Nissa, Who Shakes the World](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461096)|
 |                     |                                                                                                      |                    1|[Fry](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466894)                        |
 |                     |                                                                                                      |                    1|[Claim the Firstborn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473080)        |
-|                     |                                                                                                      |                    4|[Scorching Dragonfire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473101)       |
 |                     |                                                                                                      |                    3|[Aether Gust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466796)                |
+|                     |                                                                                                      |                    4|[Scorching Dragonfire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473101)       |
 

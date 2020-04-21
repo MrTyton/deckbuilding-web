@@ -65,9 +65,9 @@
 1 Marsh Flats
 1 Waterlogged Grove
 1 Grand Abolisher
+2 Grand Abolisher
 2 Hallowed Fountain
 2 Flooded Strand
-2 Grand Abolisher
 1 Vines of Vastwood
 2 Vines of Vastwood
 3 Vines of Vastwood
@@ -77,12 +77,11 @@
 3 Temple Garden
 1 Wall of Roots
 1 Eldritch Evolution
-1 Kiki-Jiki, Mirror Breaker
 1 Knight of Autumn
 1 Tireless Tracker
 1 Deceiver Exarch
 1 Deputy of Detention
-1 Crashing Drawbridge
+1 Kiki-Jiki, Mirror Breaker
 1 Prime Speaker Vannifar
 1 Bounding Krasis
 1 Renegade Rallier
@@ -95,10 +94,11 @@
 1 Island
 1 Sacred Foundry
 1 Scryb Ranger
+1 Crashing Drawbridge
 1 Reflector Mage
 2 Kiki-Jiki, Mirror Breaker
-2 Prime Speaker Vannifar
 2 Stomping Ground
+2 Prime Speaker Vannifar
 2 Bounding Krasis
 2 Breaching Hippocamp
 3 Prime Speaker Vannifar
@@ -158,8 +158,8 @@
 4 Yawgmoth, Thran Physician
 4 Young Wolf
 4 Strangleroot Geist
-4 Wall of Roots
 4 Geralf's Messenger
+4 Wall of Roots
 4 Eldritch Evolution
 4 Twilight Mire
 4 Blooming Marsh

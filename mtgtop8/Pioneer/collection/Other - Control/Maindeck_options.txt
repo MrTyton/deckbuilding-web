@@ -239,6 +239,13 @@
 3 Sunpetal Grove
 3 Azorius Charm
 4 Supreme Verdict
+1 Nicol Bolas, the Ravager
+1 Quicken
+2 Nicol Bolas, the Ravager
+2 Quicken
+3 Nicol Bolas, the Ravager
+3 Quicken
+4 Nicol Bolas, the Ravager
 1 Dance of the Manse
 1 Disdainful Stroke
 1 Oath of Jace
@@ -249,26 +256,19 @@
 3 Dance of the Manse
 4 Omen of the Sea
 1 Polukranos, Unchained
-1 Hissing Quagmire
+1 Tasigur, the Golden Fang
 1 Nissa, Vastwood Seer
 1 Thrashing Brontodon
 1 Assassin's Trophy
 1 Ramunap Excavator
 1 Scrapheap Scrounger
-1 Tasigur, the Golden Fang
+1 Hissing Quagmire
 2 Hissing Quagmire
 2 Assassin's Trophy
 2 Scavenging Ooze
 2 Field of Ruin
 3 Field of Ruin
 4 Traverse the Ulvenwald
-1 Quicken
-1 Nicol Bolas, the Ravager
-2 Quicken
-2 Nicol Bolas, the Ravager
-3 Quicken
-3 Nicol Bolas, the Ravager
-4 Nicol Bolas, the Ravager
 1 Sylvan Caryatid
 2 Sylvan Caryatid
 4 Champion of Wits
@@ -289,26 +289,26 @@
 3 Teferi, Hero of Dominaria
 4 Drowned Catacomb
 4 Glacial Fortress
-1 Young Pyromancer
+1 Spell Pierce
 1 Chandra, Acolyte of Flame
 1 Mizzium Mortars
 1 Living Twister
 1 Castle Embereth
 1 Risen Reef
-1 Spell Pierce
 1 Fiery Impulse
 1 Treasure Cruise
 1 Dive Down
 1 Wild Slash
-2 Treasure Cruise
+1 Young Pyromancer
 2 Chart a Course
-2 Young Pyromancer
 2 Chandra, Acolyte of Flame
 2 Mizzium Mortars
+2 Treasure Cruise
 2 Wild Slash
 2 Dive Down
 2 Fiery Impulse
 2 Risen Reef
+2 Young Pyromancer
 3 Chart a Course
 3 Botanical Sanctum
 3 Chandra, Acolyte of Flame
@@ -373,12 +373,12 @@
 4 Inspiring Vantage
 4 Lightning Strike
 4 Gideon of the Trials
-1 Doom Blade
 1 Bedevil
 1 Arguel's Blood Fast
 1 Agonizing Remorse
-1 Languish
+1 Doom Blade
 1 Ob Nixilis Reignited
+1 Languish
 1 Chandra, Flamecaller
 1 Read the Bones
 2 Castle Locthwain
@@ -388,8 +388,8 @@
 2 Vraska's Contempt
 2 Read the Bones
 3 Read the Bones
-4 Swamp
 4 Read the Bones
+4 Swamp
 5 Swamp
 1 Hydroid Krasis
 1 World Breaker
@@ -428,12 +428,12 @@
 2 Pirate's Pillage
 2 Elspeth Conquers Death
 2 Indomitable Creativity
-3 Anger of the Gods
 3 Temple of Triumph
+3 Anger of the Gods
 3 Pirate's Pillage
 3 Indomitable Creativity
-4 Chained to the Rocks
 4 Temple of Triumph
+4 Chained to the Rocks
 4 Indomitable Creativity
 4 Pirate's Pillage
 8 Mountain
