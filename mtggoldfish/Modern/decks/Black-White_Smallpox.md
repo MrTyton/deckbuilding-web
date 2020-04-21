@@ -31,8 +31,8 @@
 
 |*n*<sup>th</sup> copy|                                        Maindeck Card                                        |*n*<sup>th</sup> copy|                                        Sideboard Card                                         |
 |--------------------:|---------------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------------|
-|                    2|[Fetid Heath](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442227)       |                    1|[Kaya, Orzhov Usurper](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460129)|
-|                    1|[Anguished Unmaking](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=410006)|                    1|[Fulminator Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397686)     |
+|                    2|[Fetid Heath](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442227)       |                    1|[Fulminator Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397686)     |
+|                    1|[Anguished Unmaking](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=410006)|                    1|[Kaya, Orzhov Usurper](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460129)|
 |                    1|[Lashwrithe](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389575)        |                    2|[Fulminator Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397686)     |
 |                    3|[Fetid Heath](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442227)       |                    2|[Plague Engineer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464049)     |
 |                    1|[Ghost Quarter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389534)     |                    3|[Fulminator Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397686)     |

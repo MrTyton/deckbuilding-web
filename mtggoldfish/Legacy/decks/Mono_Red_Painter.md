@@ -83,7 +83,7 @@
 |                    1|[Chandra, Torch of Defiance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417683)   |                     |                                                                                                    |
 |                    1|[Embereth Shieldbreaker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473084)       |                     |                                                                                                    |
 |                    2|[Chandra, Torch of Defiance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417683)   |                     |                                                                                                    |
-|                    4|[City of Traitors](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=6168)               |                     |                                                                                                    |
 |                    4|[Simian Spirit Guide](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442137)          |                     |                                                                                                    |
+|                    4|[City of Traitors](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=6168)               |                     |                                                                                                    |
 |                    3|[Simian Spirit Guide](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442137)          |                     |                                                                                                    |
 

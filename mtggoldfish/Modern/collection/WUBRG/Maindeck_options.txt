@@ -36,6 +36,61 @@
 4 Saheeli Rai
 4 Arid Mesa
 4 Bring to Light
+1 Hallowed Fountain
+1 Snow-Covered Forest
+3 Birds of Paradise
+4 Birds of Paradise
+2 Snow-Covered Forest
+1 Arcum's Astrolabe
+1 Ice-Fang Coatl
+2 Ice-Fang Coatl
+2 Arcum's Astrolabe
+3 Snow-Covered Forest
+1 Chord of Calling
+1 Restoration Angel
+1 Snow-Covered Island
+1 Eternal Witness
+1 Snow-Covered Plains
+2 Chord of Calling
+2 Stomping Ground
+3 Chord of Calling
+1 Snow-Covered Mountain
+1 Prismatic Vista
+1 Ephemerate
+1 Avalanche Riders
+1 Knight of Autumn
+1 Venser, Shaper Savant
+1 Wall of Blossoms
+1 Huntmaster of the Fells
+1 Soulherder
+1 Coiling Oracle
+2 Ephemerate
+2 Avalanche Riders
+2 Wall of Blossoms
+2 Eternal Witness
+2 Coiling Oracle
+2 Soulherder
+2 Snow-Covered Island
+2 Prismatic Vista
+3 Eternal Witness
+3 Ephemerate
+3 Avalanche Riders
+3 Coiling Oracle
+3 Arcum's Astrolabe
+3 Wall of Blossoms
+3 Prismatic Vista
+3 Soulherder
+3 Ice-Fang Coatl
+4 Soulherder
+4 Ephemerate
+4 Avalanche Riders
+4 Eternal Witness
+4 Prismatic Vista
+4 Coiling Oracle
+4 Ice-Fang Coatl
+4 Wall of Blossoms
+4 Chord of Calling
+4 Arcum's Astrolabe
 1 Verdant Catacombs
 2 Verdant Catacombs
 3 Scalding Tarn
@@ -43,10 +98,10 @@
 1 Jace, Vryn's Prodigy
 1 Skaab Ruinator
 1 Vengevine
-1 Unearth
 1 Drown in Filth
 1 Stitcher's Supplier
 1 Merfolk Secretkeeper
+1 Unearth
 1 Polluted Delta
 1 Creeping Chill
 1 Watery Grave
@@ -88,63 +143,9 @@
 4 Vengevine
 4 Hedron Crab
 4 Polluted Delta
-1 Hallowed Fountain
-1 Snow-Covered Forest
-3 Birds of Paradise
-4 Birds of Paradise
-2 Snow-Covered Forest
-1 Arcum's Astrolabe
-1 Ice-Fang Coatl
-2 Ice-Fang Coatl
-2 Arcum's Astrolabe
-3 Snow-Covered Forest
-1 Chord of Calling
-1 Restoration Angel
-1 Snow-Covered Island
-1 Eternal Witness
-1 Snow-Covered Plains
-2 Chord of Calling
 2 Restoration Angel
-2 Stomping Ground
-3 Chord of Calling
-1 Snow-Covered Mountain
-1 Prismatic Vista
-1 Ephemerate
-1 Avalanche Riders
+1 Uro, Titan of Nature's Wrath
 1 Acidic Slime
-1 Knight of Autumn
-1 Venser, Shaper Savant
-1 Wall of Blossoms
-1 Huntmaster of the Fells
-1 Soulherder
-1 Coiling Oracle
-2 Ephemerate
-2 Avalanche Riders
-2 Wall of Blossoms
-2 Eternal Witness
-2 Coiling Oracle
-2 Soulherder
-2 Snow-Covered Island
-2 Prismatic Vista
-3 Eternal Witness
-3 Ephemerate
-3 Avalanche Riders
-3 Soulherder
-3 Prismatic Vista
-3 Arcum's Astrolabe
-3 Wall of Blossoms
-3 Coiling Oracle
-3 Ice-Fang Coatl
-4 Soulherder
-4 Ephemerate
-4 Avalanche Riders
-4 Eternal Witness
-4 Coiling Oracle
-4 Ice-Fang Coatl
-4 Prismatic Vista
-4 Wall of Blossoms
-4 Chord of Calling
-4 Arcum's Astrolabe
 1 Grand Abolisher
 1 Time Wipe
 2 Grand Abolisher
@@ -160,8 +161,8 @@
 1 Mutavault
 1 Aether Vial
 1 Unsettled Mariner
-1 Sinew Sliver
 1 Galerider Sliver
+1 Sinew Sliver
 1 Cloudshredder Sliver
 1 Sliver Hive
 1 Manaweft Sliver
@@ -194,7 +195,6 @@
 3 Aether Vial
 3 Unsettled Mariner
 3 Manaweft Sliver
-3 Sinew Sliver
 3 Cloudshredder Sliver
 3 Sliver Hive
 3 Sedge Sliver
@@ -202,6 +202,7 @@
 3 Cavern of Souls
 3 Collected Company
 3 Galerider Sliver
+3 Sinew Sliver
 4 Predatory Sliver
 4 Mutavault
 4 Aether Vial
@@ -218,8 +219,8 @@
 1 Wall of Roots
 1 Renegade Rallier
 1 Gilded Goose
-1 Magus of the Moon
 1 Scavenging Ooze
+1 Magus of the Moon
 1 Voice of Resurgence
 1 Corridor Monitor
 1 Bounding Krasis
@@ -255,9 +256,9 @@
 2 Griselbrand
 2 Nourishing Shoal
 2 Allosaurus Rider
-2 Neoform
 2 Summoner's Pact
 2 Chancellor of the Tangle
+2 Neoform
 2 Gemstone Mine
 2 Manamorphose
 2 City of Brass
@@ -303,9 +304,9 @@
 2 Desert Cerodon
 2 Steam Vents
 2 Force of Negation
-2 Windcaller Aven
 2 Ardent Plea
 2 Island
+2 Windcaller Aven
 2 Violent Outburst
 3 Flooded Strand
 3 Brazen Borrower

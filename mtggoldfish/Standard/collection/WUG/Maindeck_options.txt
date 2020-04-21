@@ -1,17 +1,15 @@
 2 Island
-2 Temple of Plenty
 3 Forest
+2 Temple of Plenty
 1 Fabled Passage
 1 Thassa, Deep-Dwelling
-1 Elite Guardmage
-2 Elite Guardmage
 1 Growth Spiral
 2 Growth Spiral
-1 Teferi, Time Raveler
-2 Teferi, Time Raveler
 2 Fabled Passage
 2 Thassa, Deep-Dwelling
 3 Thassa, Deep-Dwelling
+1 Elite Guardmage
+2 Elite Guardmage
 1 Paradise Druid
 2 Paradise Druid
 3 Paradise Druid
@@ -19,29 +17,36 @@
 3 Growth Spiral
 4 Growth Spiral
 2 Temple of Mystery
-2 Temple of Enlightenment
-1 Dream Trawler
-2 Dream Trawler
-1 Uro, Titan of Nature's Wrath
-2 Uro, Titan of Nature's Wrath
-3 Teferi, Time Raveler
 1 Charming Prince
 2 Charming Prince
 1 Spark Double
 2 Spark Double
 3 Temple of Mystery
-1 Nissa, Who Shakes the World
-2 Nissa, Who Shakes the World
-3 Island
-3 Fabled Passage
+1 Teferi, Time Raveler
+2 Teferi, Time Raveler
+2 Temple of Enlightenment
 1 Gyruda, Doom of Depths
-1 Luminous Broodmoth
 2 Gyruda, Doom of Depths
-2 Luminous Broodmoth
 3 Spark Double
 3 Charming Prince
 3 Gyruda, Doom of Depths
 4 Spark Double
+1 Dream Trawler
+2 Dream Trawler
+3 Fabled Passage
+1 Uro, Titan of Nature's Wrath
+2 Uro, Titan of Nature's Wrath
+3 Teferi, Time Raveler
+1 Nissa, Who Shakes the World
+2 Nissa, Who Shakes the World
+3 Island
+1 Luminous Broodmoth
+2 Luminous Broodmoth
+1 Wolfwillow Haven
+1 Migration Path
+2 Migration Path
+4 Charming Prince
+4 Thassa, Deep-Dwelling
 1 Elspeth Conquers Death
 2 Elspeth Conquers Death
 3 Elite Guardmage
@@ -70,11 +75,6 @@
 3 Hushbringer
 3 Nissa, Who Shakes the World
 4 Hushbringer
-1 Wolfwillow Haven
-1 Migration Path
-2 Migration Path
-4 Charming Prince
-4 Thassa, Deep-Dwelling
 1 Fiend Artisan
 1 Humble Naturalist
 2 Fiend Artisan
@@ -84,21 +84,21 @@
 3 Luminous Broodmoth
 4 Humble Naturalist
 1 Thornwood Falls
-1 Tranquil Cove
 1 Simic Guildgate
+1 Tolsimir, Friend to Wolves
 1 Hydroid Krasis
 1 Blossoming Sands
-1 Aether Gust
-1 Tolsimir, Friend to Wolves
 1 Devout Decree
+1 Tranquil Cove
+1 Aether Gust
 2 Thornwood Falls
-2 Tranquil Cove
 2 Tolsimir, Friend to Wolves
 2 Hydroid Krasis
+2 Tranquil Cove
 2 Devout Decree
 2 Aether Gust
-3 Thornwood Falls
 3 Tranquil Cove
+3 Thornwood Falls
 3 Elspeth Conquers Death
 3 Shatter the Sky
 4 Thornwood Falls
@@ -123,18 +123,18 @@
 4 Island
 4 Hero of Precinct One
 1 Starfield Mystic
+1 Staggering Insight
 1 Karametra's Blessing
 1 Archon of Sun's Grace
+1 Setessan Training
 1 Season of Growth
 1 All That Glitters
-1 Setessan Training
-1 Staggering Insight
 1 Setessan Champion
 1 Sentinel's Eyes
 1 Alseid of Life's Bounty
 2 Starfield Mystic
-2 Karametra's Blessing
 2 Staggering Insight
+2 Karametra's Blessing
 2 Alseid of Life's Bounty
 2 Setessan Champion
 2 Season of Growth
@@ -144,10 +144,10 @@
 2 Setessan Training
 3 Archon of Sun's Grace
 3 Alseid of Life's Bounty
-3 Season of Growth
-3 Setessan Training
-3 All That Glitters
 3 Staggering Insight
+3 Setessan Training
+3 Season of Growth
+3 All That Glitters
 3 Karametra's Blessing
 3 Setessan Champion
 3 Sentinel's Eyes
@@ -157,19 +157,28 @@
 4 Setessan Champion
 4 Archon of Sun's Grace
 4 All That Glitters
+1 Dream Eater
+2 Wolfwillow Haven
+2 Dream Eater
+3 Wolfwillow Haven
+3 Dream Eater
+3 Migration Path
+4 Migration Path
+4 Dream Eater
+4 Wolfwillow Haven
 4 High Alert
 4 Tower Defense
-1 Dance of the Manse
 1 The Birth of Meletis
+1 Dance of the Manse
 1 Omen of the Sea
 1 Calix, Destiny's Hand
 1 Banishing Light
 1 Omen of the Sun
 1 Rampage of the Clans
 1 Smothering Tithe
-2 Dance of the Manse
 2 The Birth of Meletis
 2 Calix, Destiny's Hand
+2 Dance of the Manse
 2 Omen of the Sea
 2 Banishing Light
 2 Smothering Tithe
@@ -182,8 +191,8 @@
 3 Smothering Tithe
 3 Omen of the Sun
 3 Rampage of the Clans
-4 Temple of Mystery
 4 The Birth of Meletis
+4 Temple of Mystery
 4 Omen of the Sea
 4 Plains
 4 Smothering Tithe

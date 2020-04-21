@@ -1,63 +1,65 @@
 4 Swamp
 6 Island
-1 Murderous Rider
-2 Murderous Rider
 5 Swamp
-6 Swamp
-7 Swamp
-8 Swamp
-1 Omen of the Sea
-2 Omen of the Sea
 3 Quench
 4 Quench
-1 Duress
-2 Duress
-3 Duress
-1 Stern Dismissal
-7 Island
-8 Island
-9 Island
-1 Commence the Endgame
 2 Castle Locthwain
 1 Spectral Sailor
-3 Fabled Passage
-4 Fabled Passage
-1 Voracious Greatshark
-1 Aether Gust
 1 Heartless Act
 1 Brineborn Cutthroat
-1 Brazen Borrower
 1 Sea-Dasher Octopus
 1 Dirge Bat
-1 Neutralize
 1 Slitherwisp
-2 Spectral Sailor
 2 Heartless Act
+2 Spectral Sailor
 2 Brineborn Cutthroat
-2 Brazen Borrower
 2 Sea-Dasher Octopus
 2 Slitherwisp
-2 Neutralize
-3 Brazen Borrower
+3 Heartless Act
 3 Spectral Sailor
 3 Brineborn Cutthroat
-3 Heartless Act
-3 Neutralize
 3 Slitherwisp
 3 Sea-Dasher Octopus
 4 Spectral Sailor
 4 Brineborn Cutthroat
-4 Neutralize
 4 Slitherwisp
+7 Island
+1 Murderous Rider
+2 Murderous Rider
+6 Swamp
+1 Omen of the Sea
+2 Omen of the Sea
+1 Stonecoil Serpent
+2 Stonecoil Serpent
+7 Swamp
+8 Swamp
+3 Fabled Passage
+4 Fabled Passage
+1 Duress
+2 Duress
+3 Duress
+1 Commence the Endgame
+1 Stern Dismissal
+8 Island
+9 Island
+1 Voracious Greatshark
+1 Neutralize
+1 Aether Gust
+1 Brazen Borrower
+2 Neutralize
+2 Brazen Borrower
+3 Brazen Borrower
+3 Neutralize
+4 Neutralize
 1 Shadowspear
 2 Shadowspear
 1 Nightveil Predator
 2 Nightveil Predator
-1 Crush Dissent
 1 Lazotep Reaver
+1 Crush Dissent
 1 Aven Eternal
-1 Nyx Lotus
 1 Lazotep Plating
+1 Nyx Lotus
 1 Dreadhorde Invasion
 1 Enter the God-Eternals
 1 Winged Words
@@ -78,23 +80,52 @@
 2 Winged Words
 2 Foulmire Knight
 2 Callous Dismissal
+2 Eternal Skylord
 2 Ill-Gotten Inheritance
 2 Aven Eternal
-2 Eternal Skylord
 3 Lazotep Reaver
-3 Callous Dismissal
 3 Eternal Skylord
+3 Callous Dismissal
 4 Callous Dismissal
+1 Spawn of Mayhem
+1 Gingerbrute
+1 Gutterbones
+1 Blacklance Paragon
+1 Rankle, Master of Pranks
+1 Stealth Mission
+1 Knight of the Ebon Legion
+2 Spawn of Mayhem
+2 Gingerbrute
+2 Gutterbones
+2 Stealth Mission
+2 Rankle, Master of Pranks
+2 Blacklance Paragon
+2 Knight of the Ebon Legion
+3 Rankle, Master of Pranks
+3 Gutterbones
+3 Murderous Rider
+3 Stonecoil Serpent
+3 Castle Locthwain
+3 Blacklance Paragon
+3 Knight of the Ebon Legion
+4 Stonecoil Serpent
+4 Gutterbones
+4 Murderous Rider
+4 Duress
+4 Castle Locthwain
+4 Rankle, Master of Pranks
+4 Knight of the Ebon Legion
+4 Blacklance Paragon
 1 Cling to Dust
+1 Discovery/Dispersal
 1 Connive/Concoct
 1 Mass Manipulation
-1 Labyrinth of Skophos
 1 Underworld Dreams
 1 Thief of Sanity
+1 Labyrinth of Skophos
 1 Mission Briefing
 1 Dimir Spybug
 1 Cry of the Carnarium
-1 Discovery/Dispersal
 1 Thoughtbound Phantasm
 1 House Guildmage
 1 Whisper Agent
@@ -105,14 +136,14 @@
 1 Nightveil Sprite
 1 Blast Zone
 1 Sea God's Scorn
+2 Discovery/Dispersal
 2 Underworld Dreams
 2 Nightveil Sprite
 2 Cry of the Carnarium
-2 Discovery/Dispersal
-2 Dimir Spybug
-2 Whispering Snitch
-2 Stern Dismissal
 2 Thoughtbound Phantasm
+2 Whispering Snitch
+2 Dimir Spybug
+2 Stern Dismissal
 2 Doom Whisperer
 2 Whisper Agent
 3 Dismal Backwater
@@ -142,34 +173,11 @@
 4 Omen of the Sea
 10 Island
 11 Island
-1 Spawn of Mayhem
-1 Gutterbones
-1 Stonecoil Serpent
-1 Blacklance Paragon
-1 Rankle, Master of Pranks
-1 Gingerbrute
-1 Stealth Mission
-1 Knight of the Ebon Legion
-2 Spawn of Mayhem
-2 Gingerbrute
-2 Gutterbones
-2 Stonecoil Serpent
-2 Rankle, Master of Pranks
-2 Knight of the Ebon Legion
-2 Stealth Mission
-2 Blacklance Paragon
-3 Rankle, Master of Pranks
-3 Gutterbones
-3 Murderous Rider
-3 Stonecoil Serpent
-3 Castle Locthwain
-3 Blacklance Paragon
-3 Knight of the Ebon Legion
-4 Stonecoil Serpent
-4 Gutterbones
-4 Murderous Rider
-4 Duress
-4 Castle Locthwain
-4 Rankle, Master of Pranks
-4 Knight of the Ebon Legion
-4 Blacklance Paragon
+1 Cunning Nightbonder
+2 Dirge Bat
+2 Cunning Nightbonder
+3 Cunning Nightbonder
+4 Heartless Act
+4 Mystical Dispute
+4 Cunning Nightbonder
+4 Sea-Dasher Octopus
