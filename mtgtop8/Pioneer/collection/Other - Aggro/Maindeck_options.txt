@@ -80,8 +80,8 @@
 3 Eidolon of Blossoms
 3 Herald of the Pantheon
 4 Banishing Light
-4 Setessan Champion
 4 Temple of Plenty
+4 Setessan Champion
 4 Eidolon of Blossoms
 4 Herald of the Pantheon
 4 Courser of Kruphix
@@ -148,15 +148,15 @@
 1 Collected Company
 1 Shared Summons
 1 Bygone Bishop
-1 Radiant Fountain
 1 Militia Bugler
+1 Radiant Fountain
 2 Collected Company
 2 Radiant Fountain
 2 Militia Bugler
 2 Shared Summons
 3 Collected Company
-3 Radiant Fountain
 3 Militia Bugler
+3 Radiant Fountain
 4 Collected Company
 4 Militia Bugler
 1 Cast Out
@@ -176,12 +176,12 @@
 1 Gods Willing
 1 Monastery Swiftspear
 1 Staggering Insight
+1 Faerie Vandal
 1 Reckless Rage
 1 The Royal Scions
 1 Favored Hoplite
 1 Steam Vents
 1 Spirebluff Canal
-1 Faerie Vandal
 1 Slip Through Space
 1 Defiant Strike
 1 Tenth District Legionnaire
@@ -189,6 +189,7 @@
 2 Curious Obsession
 2 Monastery Swiftspear
 2 Staggering Insight
+2 Faerie Vandal
 2 Reckless Rage
 2 The Royal Scions
 2 Favored Hoplite
@@ -196,13 +197,12 @@
 2 Defiant Strike
 2 Gods Willing
 2 Steam Vents
-2 Faerie Vandal
 3 Monastery Swiftspear
 3 Curious Obsession
+3 Faerie Vandal
 3 The Royal Scions
 3 Reckless Rage
 3 Staggering Insight
-3 Faerie Vandal
 3 Favored Hoplite
 3 Defiant Strike
 3 Tenth District Legionnaire
@@ -225,10 +225,10 @@
 4 Satyr Wayfinder
 1 Cavalier of Thorns
 1 Castle Garenbrig
+1 Kiora Bests the Sea God
 1 Nissa's Pilgrimage
 1 World Breaker
 1 Hinterland Harbor
-1 Kiora Bests the Sea God
 1 Tamiyo, Collector of Tales
 1 Arboreal Grazer
 1 Ugin, the Spirit Dragon
@@ -351,8 +351,8 @@
 3 Raise the Alarm
 4 Legion's Landing
 4 Reckless Bushwhacker
-4 Inspiring Vantage
 4 Toolcraft Exemplar
+4 Inspiring Vantage
 4 Benalish Marshal
 4 Raise the Alarm
 4 Battlefield Forge
@@ -474,9 +474,9 @@
 3 Dreadhorde Butcher
 3 Blood Crypt
 3 Overgrown Tomb
-4 Dreadhorde Butcher
 4 Tireless Tracker
 4 Foreboding Ruins
+4 Dreadhorde Butcher
 4 Blood Crypt
 4 Overgrown Tomb
 4 Bonecrusher Giant

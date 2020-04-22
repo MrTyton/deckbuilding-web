@@ -1,10 +1,10 @@
 1 Lotus Field
-1 Lovestruck Beast
 1 Shifting Ceratops
+1 Lovestruck Beast
 1 Growth Spiral
 1 End-Raze Forerunners
-2 Lovestruck Beast
 2 Shifting Ceratops
+2 Lovestruck Beast
 2 Growth Spiral
 3 Lovestruck Beast
 3 The Great Henge
@@ -14,19 +14,19 @@
 4 Shifting Ceratops
 4 Growth Spiral
 3 Temple of Mystery
-1 Agent of Treachery
-1 Risen Reef
+1 Yarok, the Desecrated
 1 Healer of the Glade
 1 Leafkin Druid
+1 Agent of Treachery
+1 Risen Reef
 1 Jace, Wielder of Mysteries
 1 Command the Dreadhorde
-1 Yarok, the Desecrated
 1 Quasiduplicate
+2 Yarok, the Desecrated
 2 Command the Dreadhorde
 2 Healer of the Glade
 2 Leafkin Druid
 2 Risen Reef
-2 Yarok, the Desecrated
 2 Quasiduplicate
 2 Tamiyo, Collector of Tales
 3 Command the Dreadhorde
@@ -38,18 +38,18 @@
 1 Nissa, Who Shakes the World
 2 Aether Gust
 3 Hydroid Krasis
-1 Ilysian Caryatid
 1 Arboreal Grazer
+1 Ilysian Caryatid
 1 Murderous Rider
-2 Nissa, Who Shakes the World
-2 Ilysian Caryatid
+2 Arboreal Grazer
 2 Casualties of War
 2 Polukranos, Unchained
-2 Arboreal Grazer
+2 Nissa, Who Shakes the World
 2 Murderous Rider
+2 Ilysian Caryatid
 3 Nissa, Who Shakes the World
-3 Ilysian Caryatid
 3 Polukranos, Unchained
+3 Ilysian Caryatid
 4 Ilysian Caryatid
 1 Castle Vantress
 1 Voracious Hydra
@@ -57,8 +57,8 @@
 2 Swamp
 1 Quench
 1 Nightpack Ambusher
-1 Brazen Borrower
 1 Brineborn Cutthroat
+1 Brazen Borrower
 2 Nightpack Ambusher
 2 Quench
 2 Brineborn Cutthroat
@@ -73,14 +73,35 @@
 2 Questing Beast
 1 Shadowspear
 2 Lotus Field
+1 Frilled Mystic
+1 Neutralize
+1 Heartless Act
+1 Negate
+1 Slitherwisp
+1 Cunning Nightbonder
+2 Frilled Mystic
+2 Neutralize
+2 Slitherwisp
+2 Cunning Nightbonder
+2 Heartless Act
+2 Negate
+3 Frilled Mystic
+3 Neutralize
+3 Heartless Act
+3 Cunning Nightbonder
+3 Slitherwisp
+4 Brazen Borrower
+4 Nightpack Ambusher
+4 Brineborn Cutthroat
+4 Neutralize
 1 Omen of the Sea
-1 Lochmere Serpent
+1 Pteramander
 1 Erebos's Intervention
+1 Lochmere Serpent
 1 Sinister Sabotage
 1 Spectral Sailor
 1 Drown in the Loch
 1 Mystical Dispute
-1 Pteramander
 2 Omen of the Sea
 2 Sinister Sabotage
 2 Mystical Dispute
@@ -90,39 +111,18 @@
 3 Mystical Dispute
 3 Drown in the Loch
 4 Island
-1 Frilled Mystic
-1 Slitherwisp
-1 Heartless Act
-1 Negate
-1 Cunning Nightbonder
-1 Neutralize
-2 Frilled Mystic
-2 Slitherwisp
-2 Cunning Nightbonder
-2 Neutralize
-2 Heartless Act
-2 Negate
-3 Frilled Mystic
-3 Slitherwisp
-3 Neutralize
-3 Cunning Nightbonder
-3 Heartless Act
-4 Brazen Borrower
-4 Nightpack Ambusher
-4 Neutralize
-4 Brineborn Cutthroat
 1 Mire Triton
+1 Thief of Sanity
 1 Vraska, Golgari Queen
 1 Assassin's Trophy
 1 Enter the God-Eternals
 1 Thought Erasure
 1 Find / Finality
-1 Thief of Sanity
 1 Lazav, the Multifarious
 2 Mire Triton
+2 Thief of Sanity
 2 Thought Erasure
 2 Enter the God-Eternals
-2 Thief of Sanity
 2 Find / Finality
 2 Lazav, the Multifarious
 3 Mire Triton
@@ -139,8 +139,8 @@
 1 Blast Zone
 1 Repudiate / Replicate
 1 Castle Garenbrig
-1 Vivien, Champion of the Wilds
 1 Maraleaf Pixie
+1 Vivien, Champion of the Wilds
 1 Gargos, Vicious Watcher
 1 Bond of Flourishing
 1 Spark Double
@@ -152,9 +152,9 @@
 2 Gargos, Vicious Watcher
 2 Bond of Flourishing
 3 Castle Garenbrig
-3 Questing Beast
 3 Voracious Hydra
 3 Bond of Flourishing
+3 Questing Beast
 3 Paradise Druid
 3 Repudiate / Replicate
 3 Gargos, Vicious Watcher

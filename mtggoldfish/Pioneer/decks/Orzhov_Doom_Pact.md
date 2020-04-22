@@ -65,6 +65,6 @@
 |                    1|[Underworld Connections](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405428)  |                     |                                                                                                     |
 |                    2|[Fatal Push](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423724)              |                     |                                                                                                     |
 |                    3|[Elspeth's Nightmare](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476342)     |                     |                                                                                                     |
-|                    1|[Gideon, Ally of Zendikar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401897)|                     |                                                                                                     |
 |                    1|[Tymaret Calls the Dead](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476369)  |                     |                                                                                                     |
+|                    1|[Gideon, Ally of Zendikar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401897)|                     |                                                                                                     |
 

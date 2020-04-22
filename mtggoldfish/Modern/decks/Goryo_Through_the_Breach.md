@@ -30,7 +30,8 @@
 
 # Other Options
 
-|*n*<sup>th</sup> copy|Maindeck Card|*n*<sup>th</sup> copy|                                   Sideboard Card                                   |
-|---------------------|-------------|--------------------:|------------------------------------------------------------------------------------|
-|                     |             |                    2|[Blood Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45386)|
+|*n*<sup>th</sup> copy|Maindeck Card|*n*<sup>th</sup> copy|                                        Sideboard Card                                         |
+|---------------------|-------------|--------------------:|-----------------------------------------------------------------------------------------------|
+|                     |             |                    2|[Blood Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45386)           |
+|                     |             |                    1|[Ashiok, Dream Render](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461155)|
 

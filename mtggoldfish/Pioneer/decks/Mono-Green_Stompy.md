@@ -37,8 +37,8 @@
 |                    3|[Hashep Oasis](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430866)           |                    1|[Mistcutter Hydra](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373727)   |
 |                    3|[Aspect of Hydra](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=378489)        |                    1|[Scavenging Ooze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420783)    |
 |                    4|[Surrak, the Hunt Caller](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394721)|                    2|[Kraul Harpooner](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452886)    |
-|                    4|[Hashep Oasis](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430866)           |                    2|[Shadowspear](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476487)        |
-|                     |                                                                                                  |                    2|[Mistcutter Hydra](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373727)   |
+|                    4|[Hashep Oasis](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430866)           |                    2|[Mistcutter Hydra](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373727)   |
 |                     |                                                                                                  |                    2|[Heroic Intervention](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423776)|
 |                     |                                                                                                  |                    2|[Scavenging Ooze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420783)    |
+|                     |                                                                                                  |                    2|[Shadowspear](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476487)        |
 

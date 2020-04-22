@@ -37,7 +37,7 @@
 |                    3|[Temple Garden](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405112)               |                    1|[Kor Firewalker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442010)     |
 |                    1|[Uro, Titan of Nature's Wrath](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476480)|                    2|[Auriok Champion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=72921)     |
 |                    1|[Ranger-Captain of Eos](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463970)       |                    1|[Heliod, Sun-Crowned](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476269)|
-|                    1|[Kitchen Finks](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370458)               |                    1|[Spike Feeder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=21113)        |
-|                     |                                                                                                       |                    2|[Spike Feeder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=21113)        |
+|                    1|[Kitchen Finks](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370458)               |                    2|[Spike Feeder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=21113)        |
 |                     |                                                                                                       |                    3|[Spike Feeder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=21113)        |
+|                     |                                                                                                       |                    1|[Spike Feeder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=21113)        |
 

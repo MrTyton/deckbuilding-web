@@ -1,16 +1,15 @@
-1 Phoenix of Ash
 1 Shock
+1 Phoenix of Ash
 2 Shock
-3 Shock
+1 Tibalt, Rakish Instigator
 1 Tin Street Dodger
+3 Shock
+2 Tibalt, Rakish Instigator
 4 Embercleave
 2 Tin Street Dodger
-1 Tibalt, Rakish Instigator
-2 Tibalt, Rakish Instigator
-3 Tin Street Dodger
 2 Phoenix of Ash
+3 Tin Street Dodger
 4 Shock
-19 Mountain
 4 Tin Street Dodger
 1 Blood Crypt
 1 Rix Maadi Reveler
@@ -20,20 +19,19 @@
 3 Rix Maadi Reveler
 4 Blood Crypt
 4 Torbran, Thane of Red Fell
-1 Infuriate
 1 Unchained Berserker
 2 Unchained Berserker
 1 Grim Initiate
 2 Grim Initiate
 3 Grim Initiate
-20 Mountain
-2 Infuriate
-1 Chandra, Acolyte of Flame
+19 Mountain
 1 Chandra, Fire Artisan
+1 Chandra, Acolyte of Flame
 2 Chandra, Acolyte of Flame
 2 Chandra, Fire Artisan
 3 Chandra, Fire Artisan
 3 Chandra, Acolyte of Flame
+20 Mountain
 1 Stonecoil Serpent
 2 Stonecoil Serpent
 3 Stonecoil Serpent
@@ -41,17 +39,19 @@
 3 Unchained Berserker
 4 Grim Initiate
 4 Rix Maadi Reveler
-1 Slaying Fire
-2 Slaying Fire
 1 Skewer the Critics
 2 Skewer the Critics
 3 Skewer the Critics
 4 Skewer the Critics
 1 Experimental Frenzy
+1 Infuriate
+2 Infuriate
 3 Tibalt, Rakish Instigator
 4 Unchained Berserker
 3 Phoenix of Ash
 4 Phoenix of Ash
+1 Slaying Fire
+2 Slaying Fire
 3 Slaying Fire
 4 Slaying Fire
 1 Embereth Shieldbreaker
@@ -62,6 +62,8 @@
 2 Temple of Malice
 1 Lava Coil
 2 Lava Coil
+1 Fire Prophecy
+2 Fire Prophecy
 1 Dwarven Mine
 2 Dwarven Mine
 1 Heartfire
@@ -73,7 +75,3 @@
 2 Torch Courier
 3 Torch Courier
 4 Torch Courier
-1 Uncaged Fury
-2 Uncaged Fury
-3 Uncaged Fury
-21 Mountain

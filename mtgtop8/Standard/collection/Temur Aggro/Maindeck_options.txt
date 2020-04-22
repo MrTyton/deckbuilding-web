@@ -31,10 +31,10 @@
 2 Risen Reef
 2 Cavalier of Thorns
 2 Agent of Treachery
-3 Omnath, Locus of the Roil
-3 Forest
 3 Cavalier of Thorns
+3 Forest
 3 Risen Reef
+3 Omnath, Locus of the Roil
 4 Omnath, Locus of the Roil
 4 Cavalier of Thorns
 4 Risen Reef
@@ -47,8 +47,8 @@
 1 Thassa, Deep-Dwelling
 1 Leafkin Druid
 1 Genesis Ultimatum
-2 Leafkin Druid
 2 Genesis Ultimatum
+2 Leafkin Druid
 3 Leafkin Druid
 3 Island
 4 Leafkin Druid
@@ -63,27 +63,28 @@
 2 Thassa, Deep-Dwelling
 2 Parcelbeast
 3 Arboreal Grazer
-3 Temple of Epiphany
-3 Genesis Ultimatum
 3 Temple of Abandon
+3 Genesis Ultimatum
+3 Temple of Epiphany
 4 Temple of Abandon
+4 Agent of Treachery
 4 Genesis Ultimatum
 4 Temple of Epiphany
-4 Agent of Treachery
-1 Spectral Sailor
 1 Ral's Outburst
+1 Spectral Sailor
 2 Ral's Outburst
-3 Hydroid Krasis
 3 Negate
+3 Hydroid Krasis
 4 Scorching Dragonfire
 1 Paradise Druid
 2 Whirlwind Denial
 3 Aether Gust
+4 Ionize
 4 Mystical Dispute
-1 Shark Typhoon
 1 Wilderness Reclamation
 1 Expansion / Explosion
 1 Thassa's Intervention
+1 Shark Typhoon
 2 Wilderness Reclamation
 2 Thassa's Intervention
 2 Expansion / Explosion
@@ -91,7 +92,6 @@
 3 Expansion / Explosion
 4 Wilderness Reclamation
 4 Expansion / Explosion
-4 Ionize
 1 Tamiyo, Collector of Tales
 2 Tamiyo, Collector of Tales
 4 Forest

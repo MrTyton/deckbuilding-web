@@ -31,14 +31,17 @@
 
 # Other Options
 
-|*n*<sup>th</sup> copy|                                     Maindeck Card                                      |*n*<sup>th</sup> copy|                                         Sideboard Card                                          |
-|--------------------:|----------------------------------------------------------------------------------------|--------------------:|-------------------------------------------------------------------------------------------------|
-|                    2|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)       |                    1|[Sorcerous Spyglass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435407)    |
-|                    3|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)       |                    1|[Shadowspear](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476487)           |
-|                    4|[High Alert](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457326)   |                    1|[Knight of Autumn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452933)      |
-|                    4|[Tower Defense](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=366404)|                    2|[Knight of Autumn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452933)      |
-|                     |                                                                                        |                    3|[Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)      |
-|                     |                                                                                        |                    3|[Aether Gust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466796)           |
-|                     |                                                                                        |                    1|[Azorius Knight-Arbiter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457298)|
-|                     |                                                                                        |                    2|[Azorius Knight-Arbiter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457298)|
+|*n*<sup>th</sup> copy|                                       Maindeck Card                                        |*n*<sup>th</sup> copy|                                         Sideboard Card                                          |
+|--------------------:|--------------------------------------------------------------------------------------------|--------------------:|-------------------------------------------------------------------------------------------------|
+|                    3|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)           |                    3|[Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)      |
+|                    4|[Tower Defense](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=366404)    |                    1|Luminous Broodmoth                                                                               |
+|                    2|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)           |                    1|Wilt                                                                                             |
+|                    4|[High Alert](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457326)       |                    1|[Sorcerous Spyglass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435407)    |
+|                    1|Aegis Turtle                                                                                |                    1|[Shadowspear](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476487)           |
+|                    1|[Lead the Stampede](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382295)|                    1|[Knight of Autumn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452933)      |
+|                    2|[Lead the Stampede](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382295)|                    2|[Knight of Autumn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452933)      |
+|                    2|Aegis Turtle                                                                                |                    3|[Aether Gust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466796)           |
+|                    3|Aegis Turtle                                                                                |                    1|[Azorius Knight-Arbiter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457298)|
+|                    3|[Lead the Stampede](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382295)|                    2|[Azorius Knight-Arbiter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457298)|
+|                    4|Aegis Turtle                                                                                |                     |                                                                                                 |
 

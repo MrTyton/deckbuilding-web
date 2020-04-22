@@ -22,3 +22,30 @@
 |2 [Shadowspear](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476487)       |                                                                                           |1 [Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)|               |
 |2 [Sorcerous Spyglass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435407)|                                                                                           |                                                                                             |               |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                         Maindeck Card                                         |*n*<sup>th</sup> copy|                                      Sideboard Card                                       |
+|--------------------:|-----------------------------------------------------------------------------------------------|--------------------:|-------------------------------------------------------------------------------------------|
+|                    4|[Opt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442948)                 |                    1|[So Tiny](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473026)         |
+|                    1|[Gadwick, the Wizened](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473010)|                    4|[Cerulean Drake](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466807)  |
+|                    1|[Starlit Mantle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476318)      |                    1|Mystic Subdual                                                                             |
+|                    1|Cunning Nightbonder                                                                            |                    1|[Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)          |
+|                    1|[Faerie Vandal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473007)       |                    1|[Brazen Borrower](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473001) |
+|                    1|[Pteramander](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457191)         |                    2|Mystic Subdual                                                                             |
+|                    1|Mystic Subdual                                                                                 |                    2|[Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)          |
+|                    2|[Gadwick, the Wizened](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473010)|                    2|[Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)|
+|                    2|[Starlit Mantle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476318)      |                    3|[Aether Gust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466796)     |
+|                    2|Cunning Nightbonder                                                                            |                    4|[Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)|
+|                    2|Mystic Subdual                                                                                 |                    4|[Aether Gust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466796)     |
+|                    2|[Faerie Vandal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473007)       |                    3|[Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)|
+|                    2|[Pteramander](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457191)         |                     |                                                                                           |
+|                    3|[Castle Vantress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473204)     |                     |                                                                                           |
+|                    3|[Gadwick, the Wizened](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473010)|                     |                                                                                           |
+|                    3|Cunning Nightbonder                                                                            |                     |                                                                                           |
+|                    3|[Faerie Vandal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473007)       |                     |                                                                                           |
+|                    4|[Gadwick, the Wizened](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473010)|                     |                                                                                           |
+|                    4|Cunning Nightbonder                                                                            |                     |                                                                                           |
+|                    4|[Castle Vantress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473204)     |                     |                                                                                           |
+|                    4|[Faerie Vandal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473007)       |                     |                                                                                           |
+
