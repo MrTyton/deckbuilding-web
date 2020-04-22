@@ -1,9 +1,9 @@
 1 Deafening Clarion
 2 Deafening Clarion
-1 Island
 1 Fabled Passage
 1 Fires of Invention
 1 Mountain
+1 Island
 1 Plains
 2 Fabled Passage
 2 Fires of Invention
@@ -53,7 +53,6 @@
 4 Narset, Parter of Veils
 1 Casualties of War
 2 Casualties of War
-1 Stomping Ground
 1 Whirlwind of Thought
 1 Narset of the Ancient Way
 1 Shark Typhoon
@@ -65,8 +64,8 @@
 2 Whirlwind of Thought
 2 Saheeli, Sublime Artificer
 2 Shark Typhoon
-2 Mystical Dispute
 2 Narset of the Ancient Way
+2 Mystical Dispute
 2 Raugrin Triome
 3 Narset of the Ancient Way
 3 Shark Typhoon
@@ -74,6 +73,7 @@
 3 Whirlwind of Thought
 4 Raugrin Triome
 1 Agonizing Remorse
+1 Stomping Ground
 4 Gilded Goose
 1 Cavalier of Dawn
 1 Aether Gust
@@ -86,31 +86,6 @@
 4 Temple of Enlightenment
 4 Elspeth Conquers Death
 4 Cavalier of Dawn
-1 Growth Spiral
-2 Growth Spiral
-3 Growth Spiral
-4 Growth Spiral
-1 Castle Locthwain
-1 Kaya, Orzhov Usurper
-1 Liliana, Dreadhorde General
-1 Vraska, Golgari Queen
-1 Heartless Act
-1 Nissa, Who Shakes the World
-1 Nicol Bolas, Dragon-God
-2 Nicol Bolas, Dragon-God
-2 Liliana, Dreadhorde General
-2 Nissa, Who Shakes the World
-2 Heartless Act
-2 Castle Locthwain
-3 Castle Locthwain
-3 Nicol Bolas, Dragon-God
-3 Heartless Act
-3 Casualties of War
-3 Watery Grave
-4 Nicol Bolas, Dragon-God
-4 Savai Triome
-4 Heartless Act
-4 Watery Grave
 1 Shimmer of Possibility
 1 Kenrith, the Returned King
 1 Castle Ardenvale
@@ -121,7 +96,6 @@
 3 Shimmer of Possibility
 4 Deafening Clarion
 4 Shimmer of Possibility
-1 Forest
 1 Temple of Abandon
 1 Enter the God-Eternals
 1 Angrath's Rampage
@@ -135,6 +109,7 @@
 1 Temple of Deceit
 1 Temple of Silence
 1 Mortify
+1 Forest
 1 Temple of Mystery
 1 Paradise Druid
 1 Connive/Concoct
@@ -143,48 +118,28 @@
 2 Paradise Druid
 3 Paradise Druid
 4 Paradise Druid
-1 Gruul Guildgate
-1 Selesnya Guildgate
-1 Agent of Treachery
-1 Gateway Plaza
-1 Labyrinth of Skophos
-1 Arboreal Grazer
-1 Circuitous Route
-1 Gatebreaker Ram
-1 Izzet Guildgate
-1 Boros Guildgate
-1 Golos, Tireless Pilgrim
-1 Hydroid Krasis
-1 Simic Guildgate
-1 Orzhov Guildgate
-1 Azorius Guildgate
-1 Guild Summit
-1 Rakdos Guildgate
-1 Gates Ablaze
-2 Agent of Treachery
-2 Selesnya Guildgate
-2 Circuitous Route
-2 Gatebreaker Ram
-2 Arboreal Grazer
-2 Boros Guildgate
-2 Gateway Plaza
-2 Hydroid Krasis
-2 Orzhov Guildgate
-2 Stomping Ground
-2 Azorius Guildgate
-2 Simic Guildgate
-2 Golos, Tireless Pilgrim
-2 Izzet Guildgate
-2 Gates Ablaze
-2 Guild Summit
-3 Simic Guildgate
-3 Azorius Guildgate
-3 Gatebreaker Ram
-3 Circuitous Route
-3 Gates Ablaze
-3 Gateway Plaza
-3 Boros Guildgate
-3 Golos, Tireless Pilgrim
-4 Circuitous Route
-4 Gatebreaker Ram
-4 Gateway Plaza
+1 Castle Locthwain
+1 Kaya, Orzhov Usurper
+1 Liliana, Dreadhorde General
+1 Vraska, Golgari Queen
+1 Heartless Act
+1 Growth Spiral
+1 Nissa, Who Shakes the World
+1 Nicol Bolas, Dragon-God
+2 Nicol Bolas, Dragon-God
+2 Liliana, Dreadhorde General
+2 Growth Spiral
+2 Nissa, Who Shakes the World
+2 Heartless Act
+2 Castle Locthwain
+3 Castle Locthwain
+3 Nicol Bolas, Dragon-God
+3 Heartless Act
+3 Growth Spiral
+3 Casualties of War
+3 Watery Grave
+4 Nicol Bolas, Dragon-God
+4 Savai Triome
+4 Heartless Act
+4 Watery Grave
+4 Growth Spiral

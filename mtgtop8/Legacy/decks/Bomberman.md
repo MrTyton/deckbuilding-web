@@ -53,8 +53,8 @@
 |                    3|Zirda, the Dawnwaker                                                                          |                     |                                                                                              |
 |                    3|[Grim Monolith](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=12626)       |                     |                                                                                              |
 |                    3|[Chromatic Star](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=135279)     |                     |                                                                                              |
-|                    4|[Walking Ballista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423848)   |                     |                                                                                              |
 |                    4|[Snow-Covered Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121267)|                     |                                                                                              |
+|                    4|[Walking Ballista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423848)   |                     |                                                                                              |
 |                    4|[Chromatic Star](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=135279)     |                     |                                                                                              |
 |                    4|[Grim Monolith](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=12626)       |                     |                                                                                              |
 

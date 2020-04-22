@@ -1,23 +1,20 @@
-1 Grim Lavamancer
-2 Grim Lavamancer
+1 Skullcrack
+2 Skullcrack
 3 Lightning Helix
 4 Lightning Helix
 3 Wooded Foothills
-3 Sacred Foundry
 1 Light Up the Stage
-2 Light Up the Stage
-3 Light Up the Stage
-4 Light Up the Stage
-3 Arid Mesa
 1 Soul-Scar Mage
+2 Light Up the Stage
 2 Soul-Scar Mage
+3 Light Up the Stage
 3 Soul-Scar Mage
 4 Mountain
 4 Soul-Scar Mage
+4 Light Up the Stage
 5 Mountain
 6 Mountain
-1 Scalding Tarn
-2 Scalding Tarn
+3 Arid Mesa
 4 Arid Mesa
 1 Plains
 2 Plains
@@ -34,7 +31,6 @@
 3 Chalice of the Void
 4 Simian Spirit Guide
 4 Chalice of the Void
-1 Cast Out
 3 Thalia, Guardian of Thraben
 1 Leonin Arbiter
 1 Reality Smasher
@@ -56,14 +52,15 @@
 4 Ghost Quarter
 4 Reality Smasher
 4 Thought-Knot Seer
+1 Cast Out
 4 Plains
 1 Winds of Abandon
 1 Aven Mindcensor
+1 Banishing Light
 1 Rest in Peace
 1 Scavenger Grounds
 1 Eternal Scourge
 1 Blast Zone
-1 Banishing Light
 1 Shefet Dunes
 2 Banishing Light
 2 Aven Mindcensor
@@ -77,51 +74,33 @@
 3 Scavenger Grounds
 4 Shefet Dunes
 4 Eternal Scourge
-1 Snow-Covered Mountain
-2 Snow-Covered Mountain
-4 Sacred Foundry
-1 Rift Bolt
-2 Rift Bolt
-3 Rift Bolt
-4 Rift Bolt
+1 Scalding Tarn
+2 Scalding Tarn
 3 Bloodstained Mire
 1 Seal of Fire
 2 Seal of Fire
 3 Seal of Fire
 4 Seal of Fire
+3 Sacred Foundry
 1 Lava Dart
 1 Burst Lightning
 2 Lava Dart
 3 Lava Dart
 4 Lava Dart
 4 Wooded Foothills
-1 Battlefield Forge
-2 Battlefield Forge
 1 Bomat Courier
 2 Bomat Courier
 3 Bomat Courier
 4 Bomat Courier
+1 Snow-Covered Mountain
+2 Snow-Covered Mountain
 1 Silent Clearing
 2 Silent Clearing
 4 Thalia, Guardian of Thraben
+1 Battlefield Forge
+2 Battlefield Forge
 3 Battlefield Forge
 4 Battlefield Forge
-1 Exquisite Firecraft
-3 Snow-Covered Mountain
-3 Skullcrack
-4 Skullcrack
-1 Vexing Devil
-2 Vexing Devil
-3 Vexing Devil
-4 Vexing Devil
-1 Abbot of Keral Keep
-2 Fiery Islet
-2 Burst Lightning
-2 Abbot of Keral Keep
-3 Abbot of Keral Keep
-3 Burst Lightning
-4 Abbot of Keral Keep
-4 Burst Lightning
 1 Magus of the Moon
 1 Aether Vial
 1 Ranger-Captain of Eos
@@ -156,13 +135,21 @@
 3 Field of Ruin
 3 Stoneforge Mystic
 3 Giver of Runes
-3 Path to Exile
 3 Force of Virtue
 3 Squadron Hawk
+3 Path to Exile
 4 Field of Ruin
 4 Giver of Runes
 4 Path to Exile
 4 Squadron Hawk
+1 Rift Bolt
+1 Vexing Devil
+2 Vexing Devil
+2 Rift Bolt
+3 Rift Bolt
+3 Vexing Devil
+4 Vexing Devil
+4 Rift Bolt
 1 Wizard's Lightning
 2 Wizard's Lightning
 3 Wizard's Lightning
@@ -187,6 +174,15 @@
 3 Snow-Covered Plains
 4 Eldrazi Displacer
 4 Bonecrusher Giant
+1 Abbot of Keral Keep
+2 Fiery Islet
+2 Burst Lightning
+2 Abbot of Keral Keep
+3 Abbot of Keral Keep
+3 Burst Lightning
+4 Sacred Foundry
+4 Burst Lightning
+4 Abbot of Keral Keep
 1 Thraben Inspector
 2 Thraben Inspector
 3 Thraben Inspector
@@ -254,77 +250,34 @@
 3 Avalanche Riders
 4 Champion of the Parish
 4 Charming Prince
-4 Avalanche Riders
-4 Magus of the Moon
 4 Thalia's Lieutenant
+4 Avalanche Riders
 4 Cavern of Souls
 4 Ephemerate
-1 Cascading Cataracts
-1 Molten Rain
-1 Flagstones of Trokair
-1 Stone Rain
-1 Rubble Reading
-1 Oust
-1 Suppression Field
-1 Soul Tithe
-1 Rekindling Phoenix
-1 Boom/Bust
-1 Ghostly Prison
-1 Mana Tithe
-1 Pillage
-1 Goblin Dark-Dwellers
-2 Molten Rain
-2 Cascading Cataracts
-2 Goblin Dark-Dwellers
-2 Mana Tithe
-2 Cast Out
-2 Pillage
-2 Rubble Reading
-2 Stone Rain
-2 Flagstones of Trokair
-2 Suppression Field
-2 Rekindling Phoenix
-2 Ghostly Prison
-2 Oust
-2 Boom/Bust
-3 Pillage
-3 Flagstones of Trokair
-3 Stone Rain
-3 Suppression Field
-3 Ghostly Prison
-3 Boom/Bust
-3 Molten Rain
-3 Cascading Cataracts
-3 Mana Tithe
-4 Boom/Bust
-4 Mana Tithe
-4 Molten Rain
-4 Stone Rain
-4 Flagstones of Trokair
-4 Pillage
+4 Magus of the Moon
 1 Chandra, Torch of Defiance
 1 Anger of the Gods
 1 Emrakul, the Aeons Torn
+1 Blood Moon
 1 Temple of Triumph
 1 Rugged Prairie
 1 Gideon Jura
 1 Elspeth, Sun's Champion
 1 Nahiri, the Harbinger
 1 Wrath of God
-1 Blood Moon
 2 Temple of Triumph
-2 Blood Moon
 2 Chandra, Torch of Defiance
 2 Anger of the Gods
+2 Blood Moon
 2 Wrath of God
 2 Nahiri, the Harbinger
 2 Gideon Jura
-3 Temple of Triumph
 3 Blood Moon
+3 Temple of Triumph
 3 Nahiri, the Harbinger
 3 Anger of the Gods
-3 Wrath of God
 3 Chandra, Torch of Defiance
+3 Wrath of God
 4 Temple of Triumph
 4 Anger of the Gods
 4 Nahiri, the Harbinger

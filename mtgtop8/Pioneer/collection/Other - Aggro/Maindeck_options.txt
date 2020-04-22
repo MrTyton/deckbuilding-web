@@ -80,8 +80,8 @@
 3 Eidolon of Blossoms
 3 Herald of the Pantheon
 4 Banishing Light
-4 Temple of Plenty
 4 Setessan Champion
+4 Temple of Plenty
 4 Eidolon of Blossoms
 4 Herald of the Pantheon
 4 Courser of Kruphix
@@ -209,10 +209,10 @@
 3 Gods Willing
 3 Steam Vents
 4 Favored Hoplite
-4 Curious Obsession
 4 Monastery Swiftspear
 4 Reckless Rage
 4 Staggering Insight
+4 Curious Obsession
 4 Defiant Strike
 4 Tenth District Legionnaire
 4 Steam Vents
@@ -405,7 +405,6 @@
 1 Stonecoil Serpent
 1 Springleaf Drum
 1 Metallic Rebuke
-1 Hope of Ghirapur
 1 Spire of Industry
 1 Aether Hub
 1 Ensoul Artifact
@@ -415,10 +414,11 @@
 1 Shrapnel Blast
 1 Steel Overseer
 1 All That Glitters
+1 Hope of Ghirapur
 1 Ornithopter
 2 Stonecoil Serpent
-2 Springleaf Drum
 2 Hope of Ghirapur
+2 Springleaf Drum
 2 Metallic Rebuke
 2 All That Glitters
 2 Steel Overseer
@@ -431,9 +431,9 @@
 2 Ghostfire Blade
 2 Shrapnel Blast
 3 Stonecoil Serpent
+3 Mana Confluence
 3 Springleaf Drum
 3 Spire of Industry
-3 Mana Confluence
 3 Darksteel Citadel
 3 Ornithopter
 3 Gingerbrute
@@ -455,22 +455,22 @@
 4 Shrapnel Blast
 4 Ensoul Artifact
 1 Foreboding Ruins
-1 Dreadhorde Butcher
 1 Glorybringer
 1 Chandra, Torch of Defiance
 1 Dreadbore
 1 Mountain
 1 Blood Crypt
 1 Kroxa, Titan of Death's Hunger
+1 Dreadhorde Butcher
 2 Glorybringer
 2 Foreboding Ruins
 2 Vraska, Golgari Queen
-2 Dreadhorde Butcher
 2 Blood Crypt
 2 Mountain
 2 Kroxa, Titan of Death's Hunger
-3 Foreboding Ruins
+2 Dreadhorde Butcher
 3 Tireless Tracker
+3 Foreboding Ruins
 3 Dreadhorde Butcher
 3 Blood Crypt
 3 Overgrown Tomb

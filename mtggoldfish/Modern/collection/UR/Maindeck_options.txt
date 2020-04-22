@@ -1,76 +1,19 @@
-1 Lightning Bolt
-2 Lightning Bolt
-3 Lightning Bolt
-1 Serum Visions
-2 Serum Visions
-4 Lightning Bolt
-3 Serum Visions
-4 Serum Visions
-1 Scalding Tarn
-2 Scalding Tarn
-3 Scalding Tarn
-4 Scalding Tarn
-3 Steam Vents
-1 Manamorphose
-2 Manamorphose
-3 Manamorphose
-4 Manamorphose
+2 Electrodominance
+2 Crashing Footfalls
+2 Polluted Delta
+3 Electrodominance
+3 Crashing Footfalls
+4 Crashing Footfalls
+3 Force of Negation
+1 Finale of Promise
 1 Thought Scour
 2 Thought Scour
 3 Thought Scour
 4 Thought Scour
-1 Force of Negation
-2 Force of Negation
 1 Sleight of Hand
 2 Sleight of Hand
 3 Sleight of Hand
-1 Snow-Covered Mountain
-1 Chart a Course
-1 Arclight Phoenix
-1 Pyromancer Ascension
-2 Pyromancer Ascension
-2 Arclight Phoenix
-2 Chart a Course
-3 Arclight Phoenix
-3 Chart a Course
-4 Chart a Course
-4 Arclight Phoenix
-1 Snow-Covered Island
-2 Snow-Covered Island
-3 Snow-Covered Island
-4 Snow-Covered Island
-2 Finale of Promise
-3 Fiery Islet
-1 Opt
-2 Opt
-3 Opt
-4 Opt
-3 Force of Negation
-1 Thing in the Ice
-2 Thing in the Ice
-3 Thing in the Ice
-1 Flooded Strand
-1 Crashing Footfalls
-1 Polluted Delta
-2 Crashing Footfalls
-2 Polluted Delta
-3 Crashing Footfalls
-4 Crashing Footfalls
-1 Snapcaster Mage
-1 Cryptic Command
-1 Mystic Sanctuary
-1 Archmage's Charm
-2 Snapcaster Mage
-2 Cryptic Command
-2 Mystic Sanctuary
-2 Archmage's Charm
-3 Snapcaster Mage
-3 Cryptic Command
-5 Snow-Covered Island
-6 Snow-Covered Island
-1 Lava Dart
-2 Snow-Covered Mountain
-2 Lava Dart
+2 Mountain
 1 Soul-Scar Mage
 1 Monastery Swiftspear
 2 Soul-Scar Mage
@@ -92,46 +35,66 @@
 4 Arcum's Astrolabe
 4 Snapcaster Mage
 4 Flooded Strand
+4 Electrodominance
+1 Ancestral Vision
+1 As Foretold
 1 Simian Spirit Guide
 1 Restore Balance
+1 Tolaria West
 1 Sphinx of Foresight
+2 Ancestral Vision
+2 As Foretold
+2 Finale of Promise
 2 Simian Spirit Guide
 2 Restore Balance
 2 Sphinx of Foresight
+3 Ancestral Vision
 3 Polluted Delta
+3 As Foretold
 3 Finale of Promise
 3 Simian Spirit Guide
 4 Simian Spirit Guide
+4 Ancestral Vision
 4 Polluted Delta
-2 Izzet Charm
-3 Izzet Charm
-4 Thing in the Ice
-1 Baral, Chief of Compliance
-2 Baral, Chief of Compliance
-3 Baral, Chief of Compliance
-3 Pyromancer Ascension
-4 Pyromancer Ascension
-1 Magmatic Sinkhole
+4 As Foretold
 1 Stormchaser Mage
 1 Gut Shot
+1 Magmatic Sinkhole
 1 The Royal Scions
 1 Mutagenic Growth
-2 Magmatic Sinkhole
 2 Stormchaser Mage
 2 Gut Shot
 2 Mutagenic Growth
 2 The Royal Scions
+2 Magmatic Sinkhole
 3 Stormchaser Mage
 3 Mutagenic Growth
 4 Stormchaser Mage
 4 Sleight of Hand
 4 Mutagenic Growth
+1 Chart a Course
+1 Pyromancer Ascension
+1 Arclight Phoenix
+1 Baral, Chief of Compliance
+2 Arclight Phoenix
+2 Pyromancer Ascension
+2 Chart a Course
+2 Baral, Chief of Compliance
+3 Island
+3 Baral, Chief of Compliance
+3 Arclight Phoenix
+3 Pyromancer Ascension
+3 Chart a Course
+4 Chart a Course
+4 Pyromancer Ascension
+4 Arclight Phoenix
 1 Bloodstained Mire
 1 Sprite Dragon
 1 Crash Through
 1 Bedlam Reveler
 1 Arid Mesa
 1 Lava Spike
+1 Lava Dart
 1 Light Up the Stage
 1 Mishra's Bauble
 2 Bloodstained Mire
@@ -139,6 +102,8 @@
 2 Crash Through
 2 Sprite Dragon
 2 Lava Spike
+2 Snow-Covered Mountain
+2 Lava Dart
 2 Arid Mesa
 2 Light Up the Stage
 2 Mishra's Bauble
@@ -163,15 +128,20 @@
 1 Sulfur Falls
 1 Brazen Borrower
 1 Spreading Seas
+1 Thing in the Ice
 1 Mystical Dispute
+1 Abrade
 1 Misty Rainforest
-2 Brazen Borrower
 2 Blood Moon
+2 Abrade
+2 Brazen Borrower
 2 Spreading Seas
+2 Thing in the Ice
 2 Misty Rainforest
 3 Spreading Seas
+3 Archmage's Charm
+3 Thing in the Ice
 3 Misty Rainforest
 3 Brazen Borrower
-3 Archmage's Charm
 4 Misty Rainforest
 7 Snow-Covered Island

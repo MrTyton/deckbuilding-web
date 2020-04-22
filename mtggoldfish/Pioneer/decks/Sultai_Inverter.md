@@ -1,7 +1,7 @@
 # Sultai Inverter
 
 #### [Export MTGO List](../collection/Sultai%20Inverter/Sultai%20Inverter.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Blooming%20Marsh%0A3%09Botanical%20Sanctum%0A4%09Dig%20Through%20Time%0A4%09Drowned%20Catacomb%0A4%09Fabled%20Passage%0A4%09Fatal%20Push%0A1%09Forest%0A4%09Grisly%20Salvage%0A4%09Inverter%20of%20Truth%0A2%09Island%0A2%09Jace,%20Wielder%20of%20Mysteries%0A2%09Murderous%20Rider%0A2%09Swamp%0A4%09Thassa's%20Oracle%0A2%09Thought%20Erasure%0A4%09Thoughtseize%0A2%09Tyrant's%20Scorn%0A4%09Uro,%20Titan%20of%20Nature's%20Wrath%0A4%09Watery%20Grave&deckside=1%09Languish%0A2%09Legion's%20End%0A4%09Mystical%20Dispute%0A2%09Narset,%20Parter%20of%20Veils%0A2%09Noxious%20Grasp%0A1%09Ritual%20of%20Soot%0A1%09The%20Elderspell%0A2%09Unravel%20the%20Aether)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Blooming%20Marsh%0A3%09Botanical%20Sanctum%0A4%09Dig%20Through%20Time%0A4%09Drowned%20Catacomb%0A4%09Fabled%20Passage%0A4%09Fatal%20Push%0A1%09Forest%0A4%09Grisly%20Salvage%0A4%09Inverter%20of%20Truth%0A2%09Island%0A2%09Jace,%20Wielder%20of%20Mysteries%0A2%09Murderous%20Rider%0A2%09Swamp%0A4%09Thassa's%20Oracle%0A2%09Thought%20Erasure%0A4%09Thoughtseize%0A2%09Tyrant's%20Scorn%0A4%09Uro,%20Titan%20of%20Nature's%20Wrath%0A4%09Watery%20Grave&deckside=2%09Agonizing%20Remorse%0A2%09Disdainful%20Stroke%0A1%09Languish%0A1%09Legion's%20End%0A3%09Mystical%20Dispute%0A1%09Ritual%20of%20Soot%0A2%09Unmoored%20Ego%0A3%09Unravel%20the%20Aether)
 # Maindeck
 
 |                                              Creature (14)                                              |                                        Instant (14)                                         |                                          Land (24)                                           |                                           Planeswalker (2)                                            |                                        Sorcery (6)                                         |
@@ -18,27 +18,28 @@
 
 # Sideboard
 
-|                                          Instant (8)                                          |                                          Planeswalker (2)                                          |                                        Sorcery (5)                                        |
-|-----------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
-|4 [Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)  |2 [Narset, Parter of Veils](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460988)|1 [Languish](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420731)      |
-|2 [Noxious Grasp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466864)     |                                                                                                    |2 [Legion's End](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466860)  |
-|2 [Unravel the Aether](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=378515)|                                                                                                    |1 [Ritual of Soot](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452834)|
-|                                                                                               |                                                                                                    |1 [The Elderspell](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461016)|
+|                                          Instant (8)                                          |                                         Sorcery (7)                                          |
+|-----------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
+|2 [Disdainful Stroke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420705) |2 [Agonizing Remorse](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476334)|
+|3 [Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)  |1 [Languish](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420731)         |
+|3 [Unravel the Aether](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=378515)|1 [Legion's End](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466860)     |
+|                                                                                               |1 [Ritual of Soot](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452834)   |
+|                                                                                               |2 [Unmoored Ego](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452962)     |
 
 
 # Other Options
 
-|*n*<sup>th</sup> copy|                                      Maindeck Card                                       |*n*<sup>th</sup> copy|                                       Sideboard Card                                        |
-|--------------------:|------------------------------------------------------------------------------------------|--------------------:|---------------------------------------------------------------------------------------------|
-|                    1|[Satyr Wayfinder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=378508)|                    1|[Agonizing Remorse](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476334) |
-|                    1|[Overgrown Tomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405103) |                    1|[Disdainful Stroke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420705) |
-|                    1|[Breeding Pool](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=97088)   |                    1|[Unmoored Ego](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452962)      |
-|                    2|[Breeding Pool](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=97088)   |                    2|[Unmoored Ego](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452962)      |
-|                    2|[Satyr Wayfinder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=378508)|                    2|[Agonizing Remorse](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476334) |
-|                    2|[Overgrown Tomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405103) |                    2|[Disdainful Stroke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420705) |
-|                    2|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)         |                    3|[Unravel the Aether](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=378515)|
-|                    3|[Breeding Pool](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=97088)   |                     |                                                                                             |
-|                    3|[Satyr Wayfinder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=378508)|                     |                                                                                             |
-|                    4|[Satyr Wayfinder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=378508)|                     |                                                                                             |
-|                    4|[Breeding Pool](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=97088)   |                     |                                                                                             |
+|*n*<sup>th</sup> copy|                                      Maindeck Card                                       |*n*<sup>th</sup> copy|                                          Sideboard Card                                          |
+|--------------------:|------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------------|
+|                    1|[Satyr Wayfinder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=378508)|                    1|[The Elderspell](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461016)         |
+|                    1|[Overgrown Tomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405103) |                    1|[Noxious Grasp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466864)          |
+|                    1|[Breeding Pool](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=97088)   |                    1|[Narset, Parter of Veils](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460988)|
+|                    2|[Satyr Wayfinder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=378508)|                    2|[Noxious Grasp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466864)          |
+|                    2|[Overgrown Tomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405103) |                    2|[Legion's End](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466860)           |
+|                    2|[Breeding Pool](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=97088)   |                    2|[Narset, Parter of Veils](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460988)|
+|                    2|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)         |                    4|[Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)       |
+|                    3|[Breeding Pool](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=97088)   |                     |                                                                                                  |
+|                    3|[Satyr Wayfinder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=378508)|                     |                                                                                                  |
+|                    4|[Satyr Wayfinder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=378508)|                     |                                                                                                  |
+|                    4|[Breeding Pool](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=97088)   |                     |                                                                                                  |
 

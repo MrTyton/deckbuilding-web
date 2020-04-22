@@ -1,23 +1,23 @@
-3 Chord of Calling
-3 Birds of Paradise
-3 Snow-Covered Forest
-3 Eldritch Evolution
 3 Restoration Angel
 3 Coiling Oracle
 3 Eternal Witness
 3 Wall of Roots
 3 Ephemerate
+3 Birds of Paradise
 3 Prismatic Vista
 3 Reflector Mage
-4 Prismatic Vista
-4 Birds of Paradise
-4 Snow-Covered Forest
-4 Chord of Calling
+3 Chord of Calling
+3 Eldritch Evolution
+3 Snow-Covered Forest
 4 Restoration Angel
 4 Coiling Oracle
 4 Eldritch Evolution
 4 Windswept Heath
 4 Ephemerate
+4 Birds of Paradise
+4 Snow-Covered Forest
+4 Chord of Calling
+4 Prismatic Vista
 1 Force of Negation
 1 Hallowed Fountain
 1 Uro, Titan of Nature's Wrath
@@ -26,37 +26,35 @@
 1 Wrenn and Six
 2 Wrenn and Six
 3 Wrenn and Six
-1 Felidar Guardian
+1 Waterlogged Grove
 1 Teferi, Time Raveler
-1 Jace, the Mind Sculptor
+1 Felidar Guardian
 1 Saheeli Rai
+1 Jace, the Mind Sculptor
 1 Brazen Borrower
 1 Oath of Nissa
-1 Waterlogged Grove
 1 Path to Exile
-2 Felidar Guardian
 2 Saheeli Rai
+2 Felidar Guardian
 2 Force of Negation
-2 Teferi, Time Raveler
 2 Brazen Borrower
+2 Teferi, Time Raveler
 2 Oath of Nissa
 2 Flooded Strand
 2 Path to Exile
 3 Saheeli Rai
 3 Felidar Guardian
+3 Force of Negation
 3 Path to Exile
 3 Oath of Nissa
-3 Force of Negation
 3 Teferi, Time Raveler
 4 Felidar Guardian
 4 Oath of Nissa
 1 Snow-Covered Mountain
 2 Steam Vents
-1 Sacred Foundry
 1 Snapcaster Mage
 1 Elvish Reclaimer
 1 Supreme Verdict
-1 Flagstones of Trokair
 1 Growth Spiral
 1 Field of the Dead
 1 Cryptic Command
@@ -64,18 +62,20 @@
 1 Island
 1 Archmage's Charm
 1 Scapeshift
+1 Flagstones of Trokair
 1 Primeval Titan
+1 Sacred Foundry
 1 Valakut, the Molten Pinnacle
 1 Bring to Light
 1 Plains
 1 Forest
 1 Sakura-Tribe Elder
-2 Breeding Pool
 2 Island
 2 Elvish Reclaimer
-2 Flagstones of Trokair
+2 Breeding Pool
 2 Cryptic Command
 2 Scapeshift
+2 Flagstones of Trokair
 2 Bring to Light
 2 Growth Spiral
 2 Field of the Dead
@@ -85,7 +85,6 @@
 2 Sakura-Tribe Elder
 3 Cryptic Command
 3 Elvish Reclaimer
-3 Flagstones of Trokair
 3 Steam Vents
 3 Primeval Titan
 3 Bring to Light
@@ -93,12 +92,14 @@
 3 Stomping Ground
 3 Sakura-Tribe Elder
 3 Growth Spiral
-4 Flagstones of Trokair
+3 Flagstones of Trokair
 4 Elvish Reclaimer
 4 Dryad of the Ilysian Grove
 4 Growth Spiral
-1 Lightning Bolt
+4 Flagstones of Trokair
+1 Greater Gargadon
 1 Ancestral Vision
+1 Lightning Bolt
 1 Serum Visions
 1 As Foretold
 1 Finale of Promise
@@ -107,19 +108,18 @@
 1 Electrodominance
 1 Crashing Footfalls
 1 Bloodstained Mire
-1 Greater Gargadon
 1 Scalding Tarn
 1 Fiery Islet
 1 Izzet Charm
 2 Bloodstained Mire
 2 Finale of Promise
+2 Greater Gargadon
 2 Scalding Tarn
 2 Ancestral Vision
 2 Electrodominance
 2 As Foretold
 2 Crashing Footfalls
 2 Snow-Covered Mountain
-2 Greater Gargadon
 2 Simian Spirit Guide
 2 Restore Balance
 2 Izzet Charm
@@ -127,8 +127,8 @@
 2 Serum Visions
 2 Fiery Islet
 3 Bloodstained Mire
-3 Snow-Covered Mountain
 3 Scalding Tarn
+3 Snow-Covered Mountain
 3 Serum Visions
 3 Electrodominance
 3 Crashing Footfalls

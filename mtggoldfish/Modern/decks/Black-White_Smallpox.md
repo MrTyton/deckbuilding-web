@@ -42,7 +42,7 @@
 |                    4|[Fatal Push](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423724)        |                    1|[Vampire Hexmage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389735)     |
 |                     |                                                                                             |                    2|[Vampire Hexmage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389735)     |
 |                     |                                                                                             |                    3|[Plague Engineer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464049)     |
+|                     |                                                                                             |                    3|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)       |
 |                     |                                                                                             |                    3|[Vampire Hexmage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389735)     |
 |                     |                                                                                             |                    4|[Fulminator Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397686)     |
-|                     |                                                                                             |                    3|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)       |
 
