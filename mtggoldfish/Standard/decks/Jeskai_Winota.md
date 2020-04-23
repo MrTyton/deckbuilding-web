@@ -2,7 +2,7 @@
 
 #### [Export MTGO List](../collection/Jeskai%20Winota/Jeskai%20Winota.txt)
 #### [Export Arena List](../collection/Jeskai%20Winota/Jeskai%20Winota_arena.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Agent%20of%20Treachery%0A4%09Bonecrusher%20Giant%0A2%09Brazen%20Borrower%0A4%09Charming%20Prince%0A4%09Elite%20Guardmage%0A3%09Fabled%20Passage%0A3%09Fblthp,%20the%20Lost%0A4%09Hallowed%20Fountain%0A1%09Island%0A2%09Legion%20Warboss%0A3%09Lukka,%20Coppercoat%20Outcast%0A2%09Mountain%0A2%09Plains%0A4%09Raugrin%20Triome%0A4%09Sacred%20Foundry%0A2%09Spectral%20Sailor%0A4%09Steam%20Vents%0A1%09Temple%20of%20Epiphany%0A1%09Temple%20of%20Triumph%0A2%09Thassa,%20Deep-Dwelling%0A4%09Winota,%20Joiner%20of%20Forces&deckside=2%09Aether%20Gust%0A2%09Cubwarden%0A1%09Dovin's%20Veto%0A1%09Fire%20Prophecy%0A4%09Mystical%20Dispute%0A2%09Redcap%20Melee%0A3%09Scorching%20Dragonfire)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Agent%20of%20Treachery%0A4%09Bonecrusher%20Giant%0A2%09Brazen%20Borrower%0A4%09Charming%20Prince%0A4%09Elite%20Guardmage%0A3%09Fabled%20Passage%0A3%09Fblthp,%20the%20Lost%0A4%09Hallowed%20Fountain%0A1%09Island%0A2%09Legion%20Warboss%0A3%09Lukka,%20Coppercoat%20Outcast%0A2%09Mountain%0A2%09Plains%0A4%09Raugrin%20Triome%0A4%09Sacred%20Foundry%0A2%09Spectral%20Sailor%0A4%09Steam%20Vents%0A1%09Temple%20of%20Epiphany%0A1%09Temple%20of%20Triumph%0A2%09Thassa,%20Deep-Dwelling%0A4%09Winota,%20Joiner%20of%20Forces&deckside=2%09Aether%20Gust%0A2%09Cubwarden%0A1%09Dovin's%20Veto%0A4%09Mystical%20Dispute%0A1%09Mythos%20of%20Vadrok%0A2%09Redcap%20Melee%0A3%09Scorching%20Dragonfire)
 # Maindeck
 
 |                                          Creature (27)                                           |                                           Land (22)                                           |       Unknown (11)        |
@@ -20,22 +20,22 @@
 
 # Sideboard
 
-|                                          Instant (12)                                           |  Unknown (3)  |
-|-------------------------------------------------------------------------------------------------|---------------|
-|2 [Aether Gust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466796)         |2 Cubwarden    |
-|1 [Dovin's Veto](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461120)        |1 Fire Prophecy|
-|4 [Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)    |               |
-|2 [Redcap Melee](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473097)        |               |
-|3 [Scorching Dragonfire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473101)|               |
+|                                          Instant (12)                                           |   Unknown (3)    |
+|-------------------------------------------------------------------------------------------------|------------------|
+|2 [Aether Gust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466796)         |2 Cubwarden       |
+|1 [Dovin's Veto](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461120)        |1 Mythos of Vadrok|
+|4 [Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)    |                  |
+|2 [Redcap Melee](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473097)        |                  |
+|3 [Scorching Dragonfire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473101)|                  |
 
 
 # Other Options
 
 |*n*<sup>th</sup> copy|                                           Maindeck Card                                            |*n*<sup>th</sup> copy|                                        Sideboard Card                                         |
 |--------------------:|----------------------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------------|
-|                    3|[Legion Warboss](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452859)           |                    1|[Hanged Executioner](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466776)  |
-|                    4|[Legion Warboss](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452859)           |                    1|[Disdainful Stroke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420705)   |
-|                    1|[Chandra, Acolyte of Flame](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466880)|                    1|Mythos of Vadrok                                                                               |
+|                    3|[Legion Warboss](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452859)           |                    1|Fire Prophecy                                                                                  |
+|                    4|[Legion Warboss](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452859)           |                    1|[Hanged Executioner](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466776)  |
+|                    1|[Chandra, Acolyte of Flame](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466880)|                    1|[Disdainful Stroke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420705)   |
 |                    2|[Chandra, Acolyte of Flame](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466880)|                    2|Mythos of Vadrok                                                                               |
 |                    3|[Chandra, Acolyte of Flame](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466880)|                    2|Fire Prophecy                                                                                  |
 |                    1|[Scorching Dragonfire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473101)     |                    2|[Hanged Executioner](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466776)  |

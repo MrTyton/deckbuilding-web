@@ -37,10 +37,10 @@
 1 Coiling Oracle
 2 Kiki-Jiki, Mirror Breaker
 2 Felidar Guardian
-2 Saheeli Rai
 2 Coiling Oracle
 2 Temple Garden
 2 Grove of the Burnwillows
+2 Saheeli Rai
 3 Coiling Oracle
 3 Felidar Guardian
 3 Gilded Goose
@@ -120,6 +120,7 @@
 1 Force of Negation
 1 Living End
 1 Mystic Sanctuary
+1 Island
 1 Ardent Plea
 1 Desert Cerodon
 1 Curator of Mysteries
@@ -127,17 +128,16 @@
 1 Scalding Tarn
 1 Street Wraith
 1 Violent Outburst
-1 Island
 1 Windcaller Aven
 1 Striped Riverwinder
 2 Force of Negation
 2 Brazen Borrower
-2 Scalding Tarn
+2 Striped Riverwinder
 2 Ardent Plea
 2 Violent Outburst
 2 Steam Vents
 2 Island
-2 Striped Riverwinder
+2 Scalding Tarn
 2 Curator of Mysteries
 2 Street Wraith
 2 Desert Cerodon
@@ -177,25 +177,25 @@
 1 Galerider Sliver
 1 Sinew Sliver
 1 Swamp
+1 Sidewinder Sliver
 1 Necrotic Sliver
 1 Cloudshredder Sliver
 1 Sliver Hive
 1 Predatory Sliver
-1 Sidewinder Sliver
 1 Collected Company
 1 Striking Sliver
 1 Frenetic Sliver
 1 Manaweft Sliver
 1 Leeching Sliver
+1 Dregscape Sliver
 1 Sedge Sliver
 1 Forest
-1 Dregscape Sliver
 2 Mutavault
 2 Verdant Catacombs
 2 Aether Vial
-2 Manaweft Sliver
 2 Leeching Sliver
 2 Striking Sliver
+2 Manaweft Sliver
 2 Sinew Sliver
 2 Sedge Sliver
 2 Unsettled Mariner
@@ -216,8 +216,8 @@
 3 Unsettled Mariner
 3 Manaweft Sliver
 3 Galerider Sliver
-3 Predatory Sliver
 3 Sedge Sliver
+3 Predatory Sliver
 4 Predatory Sliver
 4 Mutavault
 4 Cavern of Souls

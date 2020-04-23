@@ -1,21 +1,23 @@
-1 Seal of Fire
-2 Seal of Fire
-3 Lightning Helix
-4 Lightning Helix
+1 Grim Lavamancer
+2 Grim Lavamancer
 3 Wooded Foothills
-3 Bloodstained Mire
-3 Seal of Fire
-4 Seal of Fire
-3 Arid Mesa
-4 Arid Mesa
-1 Scalding Tarn
-2 Scalding Tarn
-1 Skullcrack
-2 Skullcrack
 1 Rift Bolt
 2 Rift Bolt
 3 Rift Bolt
 4 Rift Bolt
+3 Bloodstained Mire
+1 Seal of Fire
+2 Seal of Fire
+3 Arid Mesa
+3 Sacred Foundry
+4 Arid Mesa
+3 Seal of Fire
+4 Seal of Fire
+1 Scalding Tarn
+2 Scalding Tarn
+1 Skullcrack
+2 Skullcrack
+4 Bloodstained Mire
 1 Light Up the Stage
 1 Soul-Scar Mage
 2 Light Up the Stage
@@ -73,9 +75,9 @@
 1 Eternal Scourge
 1 Blast Zone
 1 Shefet Dunes
-2 Banishing Light
 2 Aven Mindcensor
 2 Winds of Abandon
+2 Banishing Light
 2 Shefet Dunes
 2 Rest in Peace
 2 Eternal Scourge
@@ -85,7 +87,6 @@
 3 Scavenger Grounds
 4 Shefet Dunes
 4 Eternal Scourge
-3 Sacred Foundry
 1 Lava Dart
 1 Burst Lightning
 2 Lava Dart
@@ -109,6 +110,12 @@
 2 Vexing Devil
 3 Vexing Devil
 4 Vexing Devil
+1 Wizard's Lightning
+2 Wizard's Lightning
+3 Wizard's Lightning
+3 Grim Lavamancer
+4 Wizard's Lightning
+4 Grim Lavamancer
 1 Magus of the Moon
 1 Aether Vial
 1 Ranger-Captain of Eos
@@ -150,13 +157,6 @@
 4 Giver of Runes
 4 Path to Exile
 4 Squadron Hawk
-1 Wizard's Lightning
-2 Wizard's Lightning
-3 Wizard's Lightning
-3 Grim Lavamancer
-4 Wizard's Lightning
-4 Grim Lavamancer
-4 Bloodstained Mire
 1 Thalia, Heretic Cathar
 1 Bonecrusher Giant
 1 Eldrazi Displacer
@@ -265,9 +265,9 @@
 1 Elspeth, Sun's Champion
 1 Nahiri, the Harbinger
 1 Wrath of God
-2 Temple of Triumph
 2 Chandra, Torch of Defiance
 2 Anger of the Gods
+2 Temple of Triumph
 2 Blood Moon
 2 Wrath of God
 2 Nahiri, the Harbinger
