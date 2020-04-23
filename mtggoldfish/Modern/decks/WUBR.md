@@ -36,7 +36,6 @@
 |--------------------:|-----------------------------------------------------------------------------------------------|---------------------|--------------|
 |                    4|[Snow-Covered Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121130) |                     |              |
 |                    4|[Path to Exile](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220511)       |                     |              |
-|                    4|[Force of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464001)   |                     |              |
 |                    4|[Omen of the Sea](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476309)     |                     |              |
 |                    4|[Wall of Omens](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=247400)       |                     |              |
 |                    4|[Scalding Tarn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405107)       |                     |              |
@@ -45,6 +44,7 @@
 |                    4|[Felidar Guardian](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423686)    |                     |              |
 |                    4|[Teferi, Time Raveler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461148)|                     |              |
 |                    4|[Oath of Kaya](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461136)        |                     |              |
+|                    4|[Force of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464001)   |                     |              |
 |                    4|[Arcum's Astrolabe](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464169)   |                     |              |
 |                    4|[Seasoned Pyromancer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464094) |                     |              |
 |                    4|[Flooded Strand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405098)      |                     |              |

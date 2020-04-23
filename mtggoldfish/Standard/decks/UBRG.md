@@ -28,3 +28,14 @@
 |3 Migratory Greathorn     |
 |3 Parcelbeast             |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|Maindeck Card|*n*<sup>th</sup> copy|                                        Sideboard Card                                         |
+|---------------------|-------------|--------------------:|-----------------------------------------------------------------------------------------------|
+|                     |             |                    1|[Domri, Chaos Bringer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460128)|
+|                     |             |                    1|[Thrash/Threat](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457373)       |
+|                     |             |                    2|[Thrash/Threat](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457373)       |
+|                     |             |                    2|[Domri, Chaos Bringer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460128)|
+|                     |             |                    3|[Thrash/Threat](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457373)       |
+

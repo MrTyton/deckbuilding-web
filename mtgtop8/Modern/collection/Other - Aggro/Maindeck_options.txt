@@ -1,73 +1,8 @@
-2 Castle Locthwain
-3 Dark Confidant
-4 Blood Crypt
-1 Dreadhorde Arcanist
-2 Dreadhorde Arcanist
-2 Kolaghan's Command
-3 Dreadhorde Arcanist
-4 Unearth
 1 Castle Embereth
+3 Inquisition of Kozilek
+3 Marsh Flats
+4 Ransack the Lab
 4 Kroxa, Titan of Death's Hunger
-1 Misty Rainforest
-1 Snow-Covered Forest
-1 Stoneforge Mystic
-1 Sword of Feast and Famine
-1 Hexdrinker
-1 Snow-Covered Plains
-1 Temple Garden
-1 Ranger-Captain of Eos
-1 Giver of Runes
-1 Noble Hierarch
-1 Collected Company
-1 Spell Queller
-1 Snow-Covered Island
-1 Uro, Titan of Nature's Wrath
-1 Prismatic Vista
-1 Ice-Fang Coatl
-1 Horizon Canopy
-1 Breeding Pool
-1 Batterskull
-1 Path to Exile
-1 Deputy of Detention
-1 Teferi, Time Raveler
-1 Hallowed Fountain
-1 Razorverge Thicket
-1 Windswept Heath
-1 Waterlogged Grove
-1 Ashiok, Dream Render
-2 Stoneforge Mystic
-2 Ranger-Captain of Eos
-2 Razorverge Thicket
-2 Giver of Runes
-2 Collected Company
-2 Prismatic Vista
-2 Noble Hierarch
-2 Horizon Canopy
-2 Spell Queller
-2 Snow-Covered Island
-2 Uro, Titan of Nature's Wrath
-2 Ice-Fang Coatl
-2 Path to Exile
-2 Windswept Heath
-2 Teferi, Time Raveler
-2 Snow-Covered Plains
-3 Stoneforge Mystic
-3 Collected Company
-3 Noble Hierarch
-3 Spell Queller
-3 Prismatic Vista
-3 Ice-Fang Coatl
-3 Path to Exile
-3 Razorverge Thicket
-3 Windswept Heath
-3 Uro, Titan of Nature's Wrath
-4 Path to Exile
-4 Stoneforge Mystic
-4 Prismatic Vista
-4 Collected Company
-4 Spell Queller
-4 Ice-Fang Coatl
-4 Noble Hierarch
 1 Island
 1 Watery Grave
 1 Polluted Delta
@@ -80,30 +15,30 @@
 2 Cavern of Souls
 4 Fatal Push
 1 Drowned Catacomb
-1 Triton Shorestalker
 1 Bitterblossom
+1 Earwig Squad
 1 Slither Blade
 1 Stinkdrinker Bandit
+1 Triton Shorestalker
 1 Oona's Blackguard
 1 Notorious Throng
 1 Brazen Borrower
-1 Earwig Squad
 1 Frogtosser Banneret
 2 Frogtosser Banneret
-2 Oona's Blackguard
+2 Drowned Catacomb
+2 Bitterblossom
 2 Earwig Squad
+2 Oona's Blackguard
 2 Stinkdrinker Bandit
 2 Brazen Borrower
-2 Drowned Catacomb
-2 Slither Blade
-2 Bitterblossom
 2 Triton Shorestalker
+2 Slither Blade
 2 Notorious Throng
-3 Brazen Borrower
 3 Watery Grave
+3 Brazen Borrower
 3 Frogtosser Banneret
-3 Bitterblossom
 3 Drowned Catacomb
+3 Bitterblossom
 3 Earwig Squad
 3 Triton Shorestalker
 3 Slither Blade
@@ -113,16 +48,17 @@
 4 Watery Grave
 4 Frogtosser Banneret
 4 Brazen Borrower
-4 Triton Shorestalker
+4 Slither Blade
 4 Drowned Catacomb
 4 Notorious Throng
-4 Slither Blade
 4 Stinkdrinker Bandit
 4 Bitterblossom
+4 Triton Shorestalker
 4 Oona's Blackguard
 1 Cling to Dust
 1 Spirebluff Canal
 1 Drown in the Loch
+1 Force of Negation
 1 Delver of Secrets
 1 Serum Visions
 1 Scalding Tarn
@@ -133,7 +69,6 @@
 1 Mana Leak
 1 Mishra's Bauble
 1 Snapcaster Mage
-1 Force of Negation
 1 Opt
 2 Drown in the Loch
 2 Delver of Secrets
@@ -145,22 +80,22 @@
 2 Scalding Tarn
 2 Archmage's Charm
 2 Opt
-2 Mishra's Bauble
 2 Force of Negation
+2 Mishra's Bauble
 2 Serum Visions
 3 Serum Visions
 3 Delver of Secrets
 3 Mishra's Bauble
 3 Force of Negation
 3 Sprite Dragon
-3 Darkslick Shores
 3 Scalding Tarn
 3 Opt
+3 Darkslick Shores
 4 Darkslick Shores
 4 Serum Visions
 4 Delver of Secrets
-4 Opt
 4 Sprite Dragon
+4 Opt
 4 Mishra's Bauble
 4 Scalding Tarn
 1 Carrion Feeder
@@ -168,22 +103,22 @@
 1 Silent Clearing
 1 Murderous Rider
 1 Geralf's Messenger
-1 Concealed Courtyard
 1 Wayward Servant
 1 Urborg, Tomb of Yawgmoth
 1 Aether Vial
 1 Gravecrawler
+1 Concealed Courtyard
 1 Stitcher's Supplier
 1 Undead Augur
 1 Relentless Dead
 2 Tidehollow Sculler
 2 Silent Clearing
 2 Murderous Rider
-2 Concealed Courtyard
 2 Carrion Feeder
 2 Geralf's Messenger
 2 Aether Vial
 2 Wayward Servant
+2 Concealed Courtyard
 2 Stitcher's Supplier
 2 Gravecrawler
 2 Relentless Dead
@@ -196,18 +131,18 @@
 3 Undead Augur
 3 Relentless Dead
 3 Aether Vial
-3 Geralf's Messenger
 3 Stitcher's Supplier
 3 Gravecrawler
-4 Carrion Feeder
+3 Geralf's Messenger
 4 Silent Clearing
+4 Carrion Feeder
 4 Swamp
 4 Tidehollow Sculler
 4 Relentless Dead
 4 Gravecrawler
-4 Aether Vial
-4 Concealed Courtyard
 4 Stitcher's Supplier
+4 Concealed Courtyard
+4 Aether Vial
 4 Undead Augur
 4 Geralf's Messenger
 5 Swamp

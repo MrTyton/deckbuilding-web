@@ -27,6 +27,6 @@
 
 |*n*<sup>th</sup> copy|                                Maindeck Card                                 |*n*<sup>th</sup> copy|                                     Sideboard Card                                      |
 |--------------------:|------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------|
-|                    4|[Opt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442948)|                    1|[So Tiny](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473026)       |
-|                     |                                                                              |                    4|[Cerulean Drake](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466807)|
+|                    4|Neutralize                                                                    |                    1|[So Tiny](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473026)       |
+|                    4|[Opt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442948)|                    4|[Cerulean Drake](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466807)|
 

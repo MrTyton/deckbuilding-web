@@ -37,7 +37,7 @@
 |                    3|[Haktos the Unscarred](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476469)|                    3|[Careless Celebrant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476380)|
 |                    3|[Rotting Regisaur](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466865)    |                    4|[Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)             |
 |                    4|[Embercleave](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473082)         |                    4|[Careless Celebrant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476380)|
-|                    4|[Rotting Regisaur](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466865)    |                     |                                                                                             |
 |                    4|[Temple of Triumph](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373560)   |                     |                                                                                             |
+|                    4|[Rotting Regisaur](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466865)    |                     |                                                                                             |
 |                    4|[Blacklance Paragon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473041)  |                     |                                                                                             |
 

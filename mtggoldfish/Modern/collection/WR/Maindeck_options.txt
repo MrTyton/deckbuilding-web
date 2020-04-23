@@ -1,8 +1,21 @@
-1 Skullcrack
-2 Skullcrack
+1 Seal of Fire
+2 Seal of Fire
 3 Lightning Helix
 4 Lightning Helix
 3 Wooded Foothills
+3 Bloodstained Mire
+3 Seal of Fire
+4 Seal of Fire
+3 Arid Mesa
+4 Arid Mesa
+1 Scalding Tarn
+2 Scalding Tarn
+1 Skullcrack
+2 Skullcrack
+1 Rift Bolt
+2 Rift Bolt
+3 Rift Bolt
+4 Rift Bolt
 1 Light Up the Stage
 1 Soul-Scar Mage
 2 Light Up the Stage
@@ -10,12 +23,10 @@
 3 Light Up the Stage
 3 Soul-Scar Mage
 4 Mountain
-4 Soul-Scar Mage
 4 Light Up the Stage
+4 Soul-Scar Mage
 5 Mountain
 6 Mountain
-3 Arid Mesa
-4 Arid Mesa
 1 Plains
 2 Plains
 3 Plains
@@ -74,13 +85,6 @@
 3 Scavenger Grounds
 4 Shefet Dunes
 4 Eternal Scourge
-1 Scalding Tarn
-2 Scalding Tarn
-3 Bloodstained Mire
-1 Seal of Fire
-2 Seal of Fire
-3 Seal of Fire
-4 Seal of Fire
 3 Sacred Foundry
 1 Lava Dart
 1 Burst Lightning
@@ -101,6 +105,10 @@
 2 Battlefield Forge
 3 Battlefield Forge
 4 Battlefield Forge
+1 Vexing Devil
+2 Vexing Devil
+3 Vexing Devil
+4 Vexing Devil
 1 Magus of the Moon
 1 Aether Vial
 1 Ranger-Captain of Eos
@@ -129,8 +137,8 @@
 2 Flickerwisp
 2 Field of Ruin
 2 Seasoned Pyromancer
-2 Force of Virtue
 2 Path to Exile
+2 Force of Virtue
 2 Squadron Hawk
 3 Field of Ruin
 3 Stoneforge Mystic
@@ -142,14 +150,6 @@
 4 Giver of Runes
 4 Path to Exile
 4 Squadron Hawk
-1 Rift Bolt
-1 Vexing Devil
-2 Vexing Devil
-2 Rift Bolt
-3 Rift Bolt
-3 Vexing Devil
-4 Vexing Devil
-4 Rift Bolt
 1 Wizard's Lightning
 2 Wizard's Lightning
 3 Wizard's Lightning
@@ -157,17 +157,17 @@
 4 Wizard's Lightning
 4 Grim Lavamancer
 4 Bloodstained Mire
+1 Thalia, Heretic Cathar
 1 Bonecrusher Giant
 1 Eldrazi Displacer
-1 Thalia, Heretic Cathar
 1 Dismember
 1 Wastes
 1 Snow-Covered Plains
 2 Bonecrusher Giant
 2 Eldrazi Displacer
-2 Thalia, Heretic Cathar
-2 Snow-Covered Plains
 2 Dismember
+2 Snow-Covered Plains
+2 Thalia, Heretic Cathar
 3 Eldrazi Displacer
 3 Gemstone Caverns
 3 Bonecrusher Giant
@@ -187,8 +187,8 @@
 2 Thraben Inspector
 3 Thraben Inspector
 4 Thraben Inspector
-1 Experimental Frenzy
 1 Springleaf Drum
+1 Experimental Frenzy
 1 Toolcraft Exemplar
 1 Kuldotha Rebirth
 1 Darksteel Citadel
@@ -211,11 +211,11 @@
 3 Springleaf Drum
 3 Darksteel Citadel
 3 Memnite
-3 Ornithopter
 3 Toolcraft Exemplar
 3 Kuldotha Rebirth
 3 Devastating Summons
 3 Venerated Loxodon
+3 Ornithopter
 3 Signal Pest
 3 Reckless Bushwhacker
 4 Kuldotha Rebirth
@@ -228,31 +228,31 @@
 4 Reckless Bushwhacker
 4 Toolcraft Exemplar
 1 Windswept Heath
+1 Cavern of Souls
 1 Charming Prince
 1 Champion of the Parish
 1 Flooded Strand
 1 Thalia's Lieutenant
 1 Marsh Flats
-1 Cavern of Souls
 1 Ephemerate
 1 Avalanche Riders
-2 Cavern of Souls
 2 Charming Prince
+2 Cavern of Souls
 2 Ephemerate
 2 Thalia's Lieutenant
 2 Avalanche Riders
 2 Champion of the Parish
+3 Cavern of Souls
 3 Champion of the Parish
 3 Charming Prince
 3 Ephemerate
 3 Thalia's Lieutenant
-3 Cavern of Souls
 3 Avalanche Riders
+4 Cavern of Souls
 4 Champion of the Parish
 4 Charming Prince
 4 Thalia's Lieutenant
 4 Avalanche Riders
-4 Cavern of Souls
 4 Ephemerate
 4 Magus of the Moon
 1 Chandra, Torch of Defiance
@@ -286,20 +286,20 @@
 6 Plains
 7 Plains
 1 Finale of Promise
+1 Manamorphose
 1 Bedlam Reveler
 1 Forked Bolt
 1 Crash Through
-1 Manamorphose
 1 Firebolt
 1 Blistercoil Weird
 1 Mutagenic Growth
 1 Electrostatic Field
 1 Kiln Fiend
-2 Forked Bolt
-2 Crash Through
 2 Manamorphose
-2 Kiln Fiend
+2 Forked Bolt
 2 Mutagenic Growth
+2 Crash Through
+2 Kiln Fiend
 2 Firebolt
 3 Manamorphose
 3 Kiln Fiend

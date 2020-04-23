@@ -16,9 +16,9 @@
 3 Rest in Peace
 1 Deafening Silence
 2 Deafening Silence
-1 Starfield of Nyx
 1 Sphere of Safety
 1 Cast Out
+1 Starfield of Nyx
 1 Nyx-Fleece Ram
 2 Nyx-Fleece Ram
 3 Deafening Silence
@@ -34,8 +34,8 @@
 1 Leyline of the Void
 2 Leyline of the Void
 1 Kalitas, Traitor of Ghet
-1 Shifting Ceratops
 1 Ashiok, Dream Render
+1 Shifting Ceratops
 1 Blightbeetle
 1 Despise
 1 Davriel, Rogue Shadowmage
@@ -46,10 +46,6 @@
 1 Duress
 2 Ashiok, Dream Render
 2 Davriel, Rogue Shadowmage
-1 Oath of Kaya
-1 Authority of the Consuls
-2 Oath of Kaya
-2 Authority of the Consuls
 1 Eidolon of Rhetoric
 1 Hushbringer
 1 Fairgrounds Warden
@@ -61,6 +57,10 @@
 2 Anguished Unmaking
 1 Secure the Wastes
 2 Settle the Wreckage
+1 Oath of Kaya
+1 Authority of the Consuls
+2 Oath of Kaya
+2 Authority of the Consuls
 1 Gideon's Intervention
 2 Gideon's Intervention
 2 Starfield of Nyx
@@ -87,11 +87,11 @@
 2 Chandra, Torch of Defiance
 3 Dromoka's Command
 3 Declaration in Stone
-1 Cerulean Drake
+1 Improbable Alliance
 1 Irencrag Pyromancer
+1 Cerulean Drake
 1 Wear / Tear
 1 Apostle of Purifying Light
-1 Improbable Alliance
 2 Wear / Tear
 2 Apostle of Purifying Light
 3 Wear / Tear
@@ -107,9 +107,9 @@
 3 Revoke Existence
 3 Solemnity
 1 Skysovereign, Consul Flagship
-1 The Immortal Sun
 1 Tormod's Crypt
 1 Cataclysmic Gearhulk
+1 The Immortal Sun
 1 Glass Casket
 1 Walking Ballista
 3 Glare of Heresy

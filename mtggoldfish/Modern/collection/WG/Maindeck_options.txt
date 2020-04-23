@@ -17,7 +17,6 @@
 1 Sword of Feast and Famine
 1 Thought-Knot Seer
 1 Engineered Explosives
-1 Elspeth, Knight-Errant
 1 Dromoka's Command
 1 Reality Smasher
 1 Eldrazi Temple
@@ -25,6 +24,7 @@
 1 Cavern of Souls
 1 Matter Reshaper
 1 Blast Zone
+1 Elspeth, Knight-Errant
 2 Blast Zone
 2 Thought-Knot Seer
 2 Mirran Crusader
@@ -34,14 +34,14 @@
 2 Boreal Druid
 2 Cavern of Souls
 3 Thought-Knot Seer
-3 Eldrazi Displacer
 3 Matter Reshaper
 3 Eldrazi Temple
+3 Eldrazi Displacer
 3 Reality Smasher
 4 Thought-Knot Seer
 4 Eldrazi Temple
-4 Eldrazi Displacer
 4 Reality Smasher
+4 Eldrazi Displacer
 2 Temple Garden
 1 Birds of Paradise
 1 Windswept Heath
@@ -49,9 +49,9 @@
 2 Windswept Heath
 2 Birds of Paradise
 2 Collected Company
-3 Windswept Heath
 3 Birds of Paradise
 3 Collected Company
+3 Windswept Heath
 4 Windswept Heath
 4 Collected Company
 4 Birds of Paradise
@@ -92,6 +92,7 @@
 4 Inkmoth Nexus
 1 Tarmogoyf
 1 Hangarback Walker
+1 The Ozolith
 1 Hardened Scales
 1 Llanowar Reborn
 1 Blinkmoth Nexus
@@ -100,13 +101,12 @@
 1 Arcbound Ravager
 1 Springleaf Drum
 1 Animation Module
-1 The Ozolith
 1 Phyrexia's Core
 2 Tarmogoyf
 2 Hangarback Walker
+2 The Ozolith
 2 Springleaf Drum
 2 Animation Module
-2 The Ozolith
 2 Llanowar Reborn
 2 Hardened Scales
 2 Arcbound Ravager
@@ -143,7 +143,6 @@
 2 Might of Old Krosa
 2 Scale Up
 2 Glistener Elf
-3 Forest
 3 Groundswell
 3 Might of Old Krosa
 3 Scale Up
@@ -151,6 +150,7 @@
 3 Vines of Vastwood
 3 Rancor
 3 Ichorclaw Myr
+3 Forest
 3 Blossoming Defense
 4 Scale Up
 4 Glistener Elf
@@ -162,31 +162,31 @@
 1 Bojuka Bog
 1 Ramunap Excavator
 1 Tireless Tracker
+1 Dryad of the Ilysian Grove
 1 Gavony Township
 1 Sylvan Scrying
 1 Llanowar Elves
-1 Dryad of the Ilysian Grove
 1 Valakut, the Molten Pinnacle
 1 Scavenging Ooze
 1 Knight of the Reliquary
 1 Voice of Resurgence
+2 Dryad of the Ilysian Grove
 2 Llanowar Elves
 2 Tireless Tracker
 2 Ramunap Excavator
 2 Scavenging Ooze
 2 Valakut, the Molten Pinnacle
 2 Sylvan Scrying
-2 Dryad of the Ilysian Grove
 2 Knight of the Reliquary
 2 Voice of Resurgence
 2 Snow-Covered Forest
 3 Snow-Covered Forest
+3 Dryad of the Ilysian Grove
 3 Tireless Tracker
 3 Scavenging Ooze
 3 Voice of Resurgence
 3 Knight of the Reliquary
 3 Ramunap Excavator
-3 Dryad of the Ilysian Grove
 4 Dryad of the Ilysian Grove
 4 Knight of the Reliquary
 4 Ramunap Excavator

@@ -34,8 +34,8 @@
 
 |*n*<sup>th</sup> copy|                                          Maindeck Card                                           |*n*<sup>th</sup> copy|                                         Sideboard Card                                          |
 |--------------------:|--------------------------------------------------------------------------------------------------|--------------------:|-------------------------------------------------------------------------------------------------|
-|                    1|[Murderous Rider](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473059)        |                    2|[Flame Sweep](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466893)           |
-|                    2|[Cavalier of Gales](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466806)      |                    2|[Ashiok, Dream Render](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461155)  |
-|                    2|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)               |                    3|[Flame Sweep](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466893)           |
-|                    2|[Nicol Bolas, Dragon-God](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463947)|                    1|[Command the Dreadhorde](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461009)|
+|                    1|[Murderous Rider](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473059)        |                    1|[Command the Dreadhorde](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461009)|
+|                    2|[Cavalier of Gales](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466806)      |                    2|[Flame Sweep](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466893)           |
+|                    2|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)               |                    2|[Ashiok, Dream Render](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461155)  |
+|                    2|[Nicol Bolas, Dragon-God](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463947)|                    3|[Flame Sweep](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466893)           |
 
