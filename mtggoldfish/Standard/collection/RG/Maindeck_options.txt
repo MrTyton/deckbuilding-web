@@ -1,4 +1,8 @@
-10 Forest
+4 Questing Beast
+7 Mountain
+9 Forest
+1 Quartzwood Crasher
+2 Quartzwood Crasher
 1 Paradise Druid
 1 Pelt Collector
 2 Paradise Druid
@@ -8,6 +12,24 @@
 4 Pelt Collector
 1 Lovestruck Beast
 2 Lovestruck Beast
+10 Forest
+1 Stonecoil Serpent
+2 Stonecoil Serpent
+3 Stonecoil Serpent
+4 Stonecoil Serpent
+3 Lovestruck Beast
+4 Lovestruck Beast
+1 Domri's Ambush
+1 Bonecrusher Giant
+1 Castle Embereth
+1 Robber of the Rich
+1 Gruul Spellbreaker
+2 Castle Embereth
+2 Gruul Spellbreaker
+2 Robber of the Rich
+3 Robber of the Rich
+3 Gruul Spellbreaker
+4 Robber of the Rich
 4 Paradise Druid
 11 Forest
 1 Castle Garenbrig
@@ -27,46 +49,6 @@
 17 Forest
 18 Forest
 19 Forest
-1 Stonecoil Serpent
-2 Stonecoil Serpent
-3 Stonecoil Serpent
-4 Stonecoil Serpent
-3 Lovestruck Beast
-4 Lovestruck Beast
-2 Thrashing Brontodon
-3 Thrashing Brontodon
-4 Thrashing Brontodon
-1 Gemrazer
-2 Gemrazer
-3 Gemrazer
-4 Gemrazer
-1 Barkhide Troll
-2 Barkhide Troll
-3 Barkhide Troll
-4 Barkhide Troll
-1 Mobilized District
-1 The Great Henge
-2 The Great Henge
-4 Vivien, Arkbow Ranger
-1 Domri's Ambush
-1 Bonecrusher Giant
-1 Castle Embereth
-1 Robber of the Rich
-1 Gruul Spellbreaker
-2 Castle Embereth
-2 Gruul Spellbreaker
-2 Robber of the Rich
-3 Robber of the Rich
-3 Gruul Spellbreaker
-4 Robber of the Rich
-1 Shadowspear
-1 Flame Sweep
-2 Flame Sweep
-1 Karn, the Great Creator
-1 Nissa, Who Shakes the World
-1 Voracious Hydra
-2 Nissa, Who Shakes the World
-2 Voracious Hydra
 1 Fabled Passage
 1 Skarrgan Hellkite
 2 Fabled Passage
@@ -75,6 +57,27 @@
 3 Bonecrusher Giant
 4 Bonecrusher Giant
 4 Embercleave
+1 Shadowspear
+1 Flame Sweep
+2 Flame Sweep
+1 Gemrazer
+2 Gemrazer
+3 Gemrazer
+4 Gemrazer
+1 Karn, the Great Creator
+1 Barkhide Troll
+2 Barkhide Troll
+3 Barkhide Troll
+4 Barkhide Troll
+1 Mobilized District
+1 The Great Henge
+2 The Great Henge
+4 Vivien, Arkbow Ranger
+1 Nissa, Who Shakes the World
+1 Voracious Hydra
+2 Nissa, Who Shakes the World
+2 Voracious Hydra
+3 Flame Sweep
 1 Growth-Chamber Guardian
 1 Kraul Harpooner
 1 Wildwood Tracker
@@ -82,11 +85,14 @@
 2 Kraul Harpooner
 2 Wildwood Tracker
 3 Growth-Chamber Guardian
-3 The Great Henge
 3 Wildwood Tracker
+3 The Great Henge
 3 Kraul Harpooner
 4 Growth-Chamber Guardian
 4 Wildwood Tracker
+2 Karn, the Great Creator
+3 Karn, the Great Creator
+4 Karn, the Great Creator
 1 Lava Coil
 1 Thrash/Threat
 2 Lava Coil

@@ -25,3 +25,23 @@
 |1 [Stonecoil Serpent](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473197)  |                                                                                          |2 [Epic Downfall](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473047)     |
 |1 [Thrashing Brontodon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456570)|                                                                                          |1 [Thought Distortion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466871)|
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                          Maindeck Card                                           |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
+|--------------------:|--------------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
+|                    1|Indatha Triome                                                                                    |                    1|Gemrazer                                                                                      |
+|                    1|Zagoth Triome                                                                                     |                    1|Kaheera, the Orphanguard                                                                      |
+|                    1|Vivien, Monsters' Advocate                                                                        |                    1|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)|
+|                    1|Gemrazer                                                                                          |                    3|[Shifting Ceratops](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466948)  |
+|                    1|[Arboreal Grazer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461076)        |                    2|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)|
+|                    1|Nethroi, Apex of Death                                                                            |                     |                                                                                              |
+|                    1|Brokkos, Apex of Forever                                                                          |                     |                                                                                              |
+|                    2|[Garruk, Cursed Huntsman](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473153)|                     |                                                                                              |
+|                    2|[Arboreal Grazer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461076)        |                     |                                                                                              |
+|                    3|[Arboreal Grazer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461076)        |                     |                                                                                              |
+|                    4|[Arboreal Grazer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461076)        |                     |                                                                                              |
+|                    4|[Leyline Prowler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461129)        |                     |                                                                                              |
+|                    9|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)                 |                     |                                                                                              |
+|                    4|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)                  |                     |                                                                                              |
+
