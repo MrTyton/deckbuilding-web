@@ -33,13 +33,13 @@
 1 Mu Yanling, Sky Dancer
 2 Absorb
 1 Omen of the Sea
+1 Unsummon
 1 Elspeth, Sun's Nemesis
-1 Narset, Parter of Veils
 1 Gateway Plaza
 1 Pacifism
 1 Winged Words
 1 Drowned Secrets
-1 Unsummon
+1 Narset, Parter of Veils
 1 Dovin's Veto
 1 Elite Guardmage
 1 Ajani's Pridemate
@@ -49,13 +49,25 @@
 2 Omen of the Sea
 2 Narset, Parter of Veils
 2 Dovin's Veto
+2 Unsummon
 2 Ajani's Pridemate
 2 Winged Words
-2 Unsummon
 2 Elite Guardmage
 2 Lawmage's Binding
 2 Pacifism
 3 Ajani's Pridemate
+1 Cerulean Drake
+1 Hushbringer
+2 Stonecoil Serpent
+2 Cerulean Drake
+2 Hushbringer
+3 Dream Trawler
+3 Cerulean Drake
+3 Hushbringer
+3 Stonecoil Serpent
+4 Stonecoil Serpent
+4 Hushbringer
+4 Cerulean Drake
 4 Voracious Greatshark
 1 Mythos of Snapdax
 1 God-Pharaoh's Statue
@@ -64,11 +76,11 @@
 1 Narset's Reversal
 1 Emergency Powers
 1 Callous Dismissal
+1 Thought Collapse
 1 Clear the Mind
 1 Keep Safe
 1 Vantress Gargoyle
 1 Dovin, Hand of Control
-1 Thought Collapse
 1 Wall of Lost Thoughts
 1 Flood of Tears
 1 Blade Banish
@@ -76,17 +88,17 @@
 1 Tranquil Cove
 1 Teferi's Time Twist
 2 Dovin, Hand of Control
-2 Narset's Reversal
 2 Blade Banish
+2 Callous Dismissal
 2 Clear the Mind
 2 Mystic Sanctuary
 2 Tranquil Cove
 2 Mu Yanling, Sky Dancer
-2 Callous Dismissal
 2 Teferi's Time Twist
 2 Keep Safe
 2 Wall of Lost Thoughts
 2 Rule of Law
+2 Narset's Reversal
 3 Absorb
 3 Tranquil Cove
 3 Mu Yanling, Sky Dancer
@@ -98,9 +110,9 @@
 1 Skycat Sovereign
 1 Unbreakable Formation
 1 Healer's Hawk
+2 Unbreakable Formation
 2 Faerie Guidemother
 2 Healer's Hawk
-2 Unbreakable Formation
 2 Deputy of Detention
 2 Skycat Sovereign
 3 Skycat Sovereign
@@ -110,57 +122,45 @@
 4 Brazen Borrower
 4 Healer's Hawk
 4 Skycat Sovereign
-1 Cerulean Drake
-1 Hushbringer
-2 Stonecoil Serpent
-2 Cerulean Drake
-2 Hushbringer
-3 Dream Trawler
-3 Stonecoil Serpent
-3 Cerulean Drake
-3 Hushbringer
-4 Stonecoil Serpent
-4 Hushbringer
-4 Cerulean Drake
-1 Sentinel's Eyes
-1 Pious Wayfarer
+1 Gingerbrute
 1 Karametra's Blessing
 1 All That Glitters
 1 Daxos, Blessed by the Sun
+1 Sentinel's Eyes
+1 Pious Wayfarer
 1 Starlit Mantle
-1 Gingerbrute
-2 Sentinel's Eyes
-2 Pious Wayfarer
+2 Gingerbrute
 2 All That Glitters
 2 Karametra's Blessing
 2 Daxos, Blessed by the Sun
 2 Starlit Mantle
-2 Gingerbrute
-3 Pious Wayfarer
-3 Sentinel's Eyes
-3 Castle Ardenvale
-3 Karametra's Blessing
-3 All That Glitters
+2 Sentinel's Eyes
+2 Pious Wayfarer
 3 Gingerbrute
 3 Daxos, Blessed by the Sun
 3 Starlit Mantle
 3 Heliod, Sun-Crowned
+3 Castle Ardenvale
+3 Sentinel's Eyes
+3 All That Glitters
+3 Karametra's Blessing
+3 Pious Wayfarer
 4 Sentinel's Eyes
 4 Karametra's Blessing
-4 All That Glitters
 4 Daxos, Blessed by the Sun
 4 Gingerbrute
+4 All That Glitters
 4 Starlit Mantle
 11 Plains
+1 Brineborn Cutthroat
 1 Negate
 1 Essence Capture
-1 Brineborn Cutthroat
 2 Brineborn Cutthroat
 2 Essence Capture
 3 Brineborn Cutthroat
-3 Neutralize
 3 Opt
 3 Quench
-4 Opt
+3 Neutralize
 4 Brineborn Cutthroat
+4 Opt
 13 Island

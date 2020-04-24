@@ -5,10 +5,6 @@
 2 Snow-Covered Mountain
 1 Snow-Covered Swamp
 3 Wooded Foothills
-1 Collective Brutality
-2 Collective Brutality
-3 Arid Mesa
-4 Arid Mesa
 3 Snow-Covered Mountain
 4 Wooded Foothills
 4 Mountain
@@ -19,11 +15,11 @@
 1 Marsh Flats
 1 Dreadbore
 1 Magus of the Moon
-1 Inquisition of Kozilek
 1 Kolaghan's Command
 1 Thoughtseize
 1 Fulminator Mage
 1 Ashiok, Dream Render
+1 Inquisition of Kozilek
 1 Bedevil
 2 Dragonskull Summit
 2 Dreadbore
@@ -49,9 +45,13 @@
 4 Kroxa, Titan of Death's Hunger
 4 Simian Spirit Guide
 4 Thoughtseize
-1 Searing Blaze
+1 Collective Brutality
+2 Collective Brutality
+3 Arid Mesa
+4 Arid Mesa
 1 Skullcrack
 1 Shard Volley
+1 Searing Blaze
 1 Fiery Islet
 1 Bump in the Night
 1 Lava Spike
@@ -69,14 +69,14 @@
 2 Skewer the Critics
 2 Lava Spike
 2 Rift Bolt
-3 Rift Bolt
-3 Searing Blaze
 3 Lava Spike
 3 Skewer the Critics
+3 Searing Blaze
 3 Sunbaked Canyon
 3 Goblin Guide
 3 Skullcrack
 3 Monastery Swiftspear
+3 Rift Bolt
 3 Bump in the Night
 4 Rift Bolt
 4 Monastery Swiftspear

@@ -7,8 +7,8 @@
 4 Pelt Collector
 1 Glorybringer
 1 Chandra, Torch of Defiance
-2 Glorybringer
 2 Chandra, Torch of Defiance
+2 Glorybringer
 1 Questing Beast
 2 Questing Beast
 2 Klothys, God of Destiny
@@ -51,11 +51,11 @@
 4 Experiment One
 7 Mountain
 3 Zhur-Taa Goblin
-1 Bomat Courier
 1 Rakdos Cackler
 1 Anax, Hardened in the Forge
-2 Bomat Courier
+1 Bomat Courier
 2 Anax, Hardened in the Forge
+2 Bomat Courier
 2 Gallia of the Endless Dance
 3 Bomat Courier
 4 Bomat Courier
@@ -112,9 +112,6 @@
 2 Wild Slash
 3 Wild Slash
 4 Wild Slash
-1 Castle Embereth
-3 Lightning Strike
-4 Lightning Strike
 1 Legion Loyalist
 4 Zhur-Taa Goblin
 1 Domri's Ambush
@@ -124,3 +121,6 @@
 4 Domri's Ambush
 4 Embercleave
 4 Questing Beast
+1 Castle Embereth
+3 Lightning Strike
+4 Lightning Strike

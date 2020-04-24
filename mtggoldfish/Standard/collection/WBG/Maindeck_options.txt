@@ -6,9 +6,9 @@
 1 Vivien, Monsters' Advocate
 1 Lurrus of the Dream Den
 2 General's Enforcer
+2 Vivien, Monsters' Advocate
 2 Sorin, Vengeful Bloodlord
 2 Lurrus of the Dream Den
-2 Vivien, Monsters' Advocate
 3 General's Enforcer
 3 Lurrus of the Dream Den
 3 Vivien, Monsters' Advocate
@@ -18,41 +18,41 @@
 2 Luminous Broodmoth
 3 Temple of Silence
 3 Plains
-1 Woe Strider
-1 Knight of the Ebon Legion
+1 God-Eternal Rhonas
 1 Liliana, Dreadhorde General
 1 Kunoros, Hound of Athreos
 1 Elspeth, Sun's Nemesis
 1 Command the Dreadhorde
+1 Woe Strider
 1 Fiend Artisan
 1 Cruel Celebrant
-1 God-Eternal Rhonas
 1 Priest of Forgotten Gods
-2 Knight of the Ebon Legion
-2 Woe Strider
+1 Knight of the Ebon Legion
 2 Castle Ardenvale
-2 Kunoros, Hound of Athreos
-2 Cruel Celebrant
-2 Priest of Forgotten Gods
 2 Fiend Artisan
-3 Knight of the Ebon Legion
-3 Woe Strider
+2 Kunoros, Hound of Athreos
+2 Woe Strider
+2 Cruel Celebrant
+2 Knight of the Ebon Legion
+2 Priest of Forgotten Gods
+3 Fiend Artisan
 3 Kunoros, Hound of Athreos
 3 Priest of Forgotten Gods
-3 Fiend Artisan
+3 Knight of the Ebon Legion
+3 Woe Strider
 3 Cruel Celebrant
-4 Plains
-4 Knight of the Ebon Legion
-4 Temple of Silence
+4 Fiend Artisan
 4 Woe Strider
 4 Priest of Forgotten Gods
+4 Plains
+4 Knight of the Ebon Legion
 4 Cruel Celebrant
+4 Temple of Silence
 4 Swamp
-4 Fiend Artisan
 3 Elspeth Conquers Death
-1 Knight of Autumn
-1 Trostani Discordant
 1 Tolsimir, Friend to Wolves
+1 Trostani Discordant
+1 Knight of Autumn
 2 Tolsimir, Friend to Wolves
 4 Murderous Rider
 1 Gilded Goose
@@ -71,41 +71,41 @@
 2 Doom Foretold
 3 Doom Foretold
 4 Doom Foretold
-1 Yorion, Sky Nomad
 1 Charming Prince
+1 Omen of the Hunt
+1 Golden Egg
+1 Wicked Wolf
+1 Yorion, Sky Nomad
 1 Heartless Act
 1 Urban Utopia
-1 Golden Egg
-1 Omen of the Hunt
 1 Izoni, Thousand-Eyed
 1 Sumala Woodshaper
-1 Wicked Wolf
-2 Knight of Autumn
 2 Charming Prince
-2 Heartless Act
+2 Omen of the Hunt
 2 Golden Egg
 2 Temple of Plenty
-2 Sumala Woodshaper
 2 Wicked Wolf
+2 Heartless Act
+2 Sumala Woodshaper
+2 Knight of Autumn
 2 Urban Utopia
-2 Omen of the Hunt
+3 Golden Egg
+3 Wicked Wolf
 3 Charming Prince
 3 Heartless Act
 3 Sumala Woodshaper
-3 Omen of the Hunt
-3 Wicked Wolf
-3 Golden Egg
 3 Urban Utopia
-4 Charming Prince
-4 Heartless Act
+3 Omen of the Hunt
 4 Golden Egg
+4 Charming Prince
 4 Wicked Wolf
+4 Heartless Act
 1 Lavabrink Venturer
 1 Gideon Blackblade
-1 Cavalier of Night
+1 Harmonious Archon
 1 Mortify
 1 Cubwarden
-1 Harmonious Archon
+1 Cavalier of Night
 2 Mortify
 2 Cubwarden
 3 Cubwarden
@@ -113,15 +113,23 @@
 2 Angel of Grace
 3 Luminous Broodmoth
 4 Luminous Broodmoth
-1 Ugin, the Ineffable
-1 Kaya's Wrath
-1 Questing Beast
-1 Polukranos, Unchained
-2 Polukranos, Unchained
-2 Ugin, the Ineffable
-3 Garruk, Cursed Huntsman
-4 Oath of Kaya
-4 Assassin's Trophy
+1 Paradise Druid
+1 Destiny Spinner
+1 Kaya, Orzhov Usurper
+1 Cavalier of Dawn
+2 Cavalier of Dawn
+2 Paradise Druid
+2 Destiny Spinner
+2 Kaya, Orzhov Usurper
+3 Treacherous Blessing
+3 Cavalier of Dawn
+3 Paradise Druid
+3 Destiny Spinner
+3 Vraska, Golgari Queen
+3 Castle Locthwain
+4 Paradise Druid
+4 Destiny Spinner
+4 Treacherous Blessing
 4 Chevill, Bane of Monsters
 1 Massacre Girl
 1 Witch's Oven
@@ -137,6 +145,15 @@
 4 Cauldron Familiar
 4 Witch's Oven
 4 Trail of Crumbs
+1 Polukranos, Unchained
+1 Ugin, the Ineffable
+1 Kaya's Wrath
+1 Questing Beast
+2 Ugin, the Ineffable
+2 Polukranos, Unchained
+3 Garruk, Cursed Huntsman
+4 Assassin's Trophy
+4 Oath of Kaya
 1 Nissa, Who Shakes the World
 1 Seraph of the Scales
 1 Eerie Ultimatum
@@ -146,58 +163,41 @@
 3 Dire Tactics
 3 Temple of Malady
 4 Temple of Malady
-1 Hateful Eidolon
-1 Aphemia, the Cacophony
+1 Starfield Mystic
 1 All That Glitters
 1 Karametra's Blessing
-1 Transcendent Envoy
-1 Starfield Mystic
 1 Setessan Training
 1 Season of Growth
 1 Angelic Gift
+1 Aphemia, the Cacophony
+1 Hateful Eidolon
+1 Transcendent Envoy
 1 Alseid of Life's Bounty
-2 Karametra's Blessing
-2 Aphemia, the Cacophony
-2 All That Glitters
-2 Hateful Eidolon
 2 Starfield Mystic
-2 Transcendent Envoy
+2 All That Glitters
+2 Karametra's Blessing
 2 Season of Growth
+2 Aphemia, the Cacophony
+2 Transcendent Envoy
 2 Angelic Gift
+2 Hateful Eidolon
 2 Setessan Training
 2 Alseid of Life's Bounty
-3 All That Glitters
-3 Hateful Eidolon
-3 Aphemia, the Cacophony
 3 Starfield Mystic
 3 Karametra's Blessing
+3 All That Glitters
 3 Setessan Training
+3 Aphemia, the Cacophony
 3 Transcendent Envoy
+3 Hateful Eidolon
 3 Alseid of Life's Bounty
 3 Season of Growth
 3 Angelic Gift
-4 Hateful Eidolon
+4 Starfield Mystic
 4 All That Glitters
 4 Karametra's Blessing
-4 Starfield Mystic
 4 Season of Growth
 4 Alseid of Life's Bounty
 4 Angelic Gift
+4 Hateful Eidolon
 4 Setessan Training
-1 Cavalier of Dawn
-1 Kaya, Orzhov Usurper
-1 Destiny Spinner
-1 Paradise Druid
-2 Cavalier of Dawn
-2 Kaya, Orzhov Usurper
-2 Paradise Druid
-2 Destiny Spinner
-3 Treacherous Blessing
-3 Vraska, Golgari Queen
-3 Cavalier of Dawn
-3 Destiny Spinner
-3 Paradise Druid
-3 Castle Locthwain
-4 Treacherous Blessing
-4 Paradise Druid
-4 Destiny Spinner

@@ -8,13 +8,13 @@
 2 Ashiok, Nightmare Muse
 1 Drown in the Loch
 1 Easy Prey
-1 Shark Typhoon
 1 Field of Ruin
-1 Negate
+1 Shark Typhoon
 1 Extinction Event
-2 Shark Typhoon
+1 Negate
 2 Easy Prey
 2 Field of Ruin
+2 Shark Typhoon
 2 Negate
 2 Extinction Event
 3 Narset, Parter of Veils
@@ -26,10 +26,10 @@
 4 Heartless Act
 4 Temple of Deceit
 10 Island
-1 Slitherwisp
 1 Dirge Bat
-2 Slitherwisp
+1 Slitherwisp
 2 Dirge Bat
+2 Slitherwisp
 3 Dirge Bat
 3 Slitherwisp
 4 Dirge Bat
@@ -66,49 +66,9 @@
 2 Ashiok's Erasure
 2 Essence Scatter
 3 Castle Vantress
-1 Nightveil Predator
-2 Nightveil Predator
-1 Fabled Passage
-1 Lazotep Reaver
-1 Dreadhorde Invasion
-1 Enter the God-Eternals
-1 Crush Dissent
-1 Lazotep Plating
-1 Unexplained Vision
-1 Aven Eternal
-1 Callous Dismissal
-1 Shadowspear
-1 Winged Words
-1 Ill-Gotten Inheritance
-1 Eternal Skylord
-1 Gravewaker
-1 Nyx Lotus
-1 Foulmire Knight
-1 Gleaming Overseer
-1 Murder
-2 Fabled Passage
-2 Lazotep Reaver
-2 Dreadhorde Invasion
-2 Shadowspear
-2 Lazotep Plating
-2 Crush Dissent
-2 Callous Dismissal
-2 Murder
-2 Foulmire Knight
-2 Eternal Skylord
-2 Ill-Gotten Inheritance
-2 Gleaming Overseer
-2 Aven Eternal
-2 Winged Words
-3 Lazotep Reaver
-3 Fabled Passage
-3 Callous Dismissal
-3 Eternal Skylord
-4 Fabled Passage
-4 Callous Dismissal
 1 Thirst for Meaning
-1 Wavebreak Hippocamp
 1 Thassa's Intervention
+1 Wavebreak Hippocamp
 1 Duress
 2 Wavebreak Hippocamp
 2 Thirst for Meaning
@@ -120,15 +80,55 @@
 3 Wavebreak Hippocamp
 3 Commence the Endgame
 4 Omen of the Sea
+1 Nightveil Predator
+2 Nightveil Predator
+1 Fabled Passage
+1 Lazotep Reaver
+1 Dreadhorde Invasion
+1 Lazotep Plating
+1 Crush Dissent
+1 Unexplained Vision
+1 Aven Eternal
+1 Shadowspear
+1 Callous Dismissal
+1 Enter the God-Eternals
+1 Winged Words
+1 Ill-Gotten Inheritance
+1 Eternal Skylord
+1 Gravewaker
+1 Nyx Lotus
+1 Murder
+1 Foulmire Knight
+1 Gleaming Overseer
+2 Fabled Passage
+2 Lazotep Reaver
+2 Dreadhorde Invasion
+2 Shadowspear
+2 Lazotep Plating
+2 Crush Dissent
+2 Callous Dismissal
+2 Murder
+2 Foulmire Knight
+2 Ill-Gotten Inheritance
+2 Gleaming Overseer
+2 Eternal Skylord
+2 Aven Eternal
+2 Winged Words
+3 Lazotep Reaver
+3 Fabled Passage
+3 Callous Dismissal
+3 Eternal Skylord
+4 Fabled Passage
+4 Callous Dismissal
+1 Blast Zone
 1 Cling to Dust
 1 Labyrinth of Skophos
 1 Connive/Concoct
 1 Discovery/Dispersal
 1 Thief of Sanity
 1 Mass Manipulation
-1 Blast Zone
 1 Sea God's Scorn
-1 Doom Whisperer
+1 Mission Briefing
 1 Dimir Spybug
 1 Thoughtbound Phantasm
 1 House Guildmage
@@ -136,7 +136,7 @@
 1 Whispering Snitch
 1 Notion Rain
 1 Etrata, the Silencer
-1 Mission Briefing
+1 Doom Whisperer
 1 Nightveil Sprite
 1 Underworld Dreams
 2 Discovery/Dispersal
@@ -154,12 +154,12 @@
 1 Unsummon
 2 Unsummon
 3 Brazen Borrower
-3 Unsummon
 3 Voracious Greatshark
+3 Unsummon
 4 Brazen Borrower
 4 Spectral Sailor
-4 Opt
 4 Unsummon
+4 Opt
 12 Island
 13 Island
 14 Island

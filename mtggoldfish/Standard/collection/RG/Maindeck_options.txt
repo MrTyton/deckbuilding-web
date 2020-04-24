@@ -1,36 +1,19 @@
 4 Questing Beast
 7 Mountain
 9 Forest
+10 Forest
 1 Quartzwood Crasher
 2 Quartzwood Crasher
-1 Paradise Druid
 1 Pelt Collector
-2 Paradise Druid
 2 Pelt Collector
-3 Paradise Druid
 3 Pelt Collector
 4 Pelt Collector
+1 Paradise Druid
+2 Paradise Druid
+3 Paradise Druid
+4 Paradise Druid
 1 Lovestruck Beast
 2 Lovestruck Beast
-10 Forest
-1 Stonecoil Serpent
-2 Stonecoil Serpent
-3 Stonecoil Serpent
-4 Stonecoil Serpent
-3 Lovestruck Beast
-4 Lovestruck Beast
-1 Domri's Ambush
-1 Bonecrusher Giant
-1 Castle Embereth
-1 Robber of the Rich
-1 Gruul Spellbreaker
-2 Castle Embereth
-2 Gruul Spellbreaker
-2 Robber of the Rich
-3 Robber of the Rich
-3 Gruul Spellbreaker
-4 Robber of the Rich
-4 Paradise Druid
 11 Forest
 1 Castle Garenbrig
 1 Yorvo, Lord of Garenbrig
@@ -49,65 +32,107 @@
 17 Forest
 18 Forest
 19 Forest
-1 Fabled Passage
-1 Skarrgan Hellkite
-2 Fabled Passage
-2 Bonecrusher Giant
-3 Embercleave
-3 Bonecrusher Giant
-4 Bonecrusher Giant
-4 Embercleave
+3 Lovestruck Beast
+4 Lovestruck Beast
 1 Shadowspear
 1 Flame Sweep
 2 Flame Sweep
+1 Domri's Ambush
 1 Gemrazer
 2 Gemrazer
 3 Gemrazer
 4 Gemrazer
 1 Karn, the Great Creator
+1 Stonecoil Serpent
 1 Barkhide Troll
+2 Stonecoil Serpent
 2 Barkhide Troll
+3 Stonecoil Serpent
 3 Barkhide Troll
+4 Stonecoil Serpent
 4 Barkhide Troll
 1 Mobilized District
 1 The Great Henge
 2 The Great Henge
 4 Vivien, Arkbow Ranger
+1 Growth-Chamber Guardian
+2 Growth-Chamber Guardian
+3 Growth-Chamber Guardian
+1 Robber of the Rich
+1 Gruul Spellbreaker
+2 Gruul Spellbreaker
+2 Robber of the Rich
+3 Robber of the Rich
+3 Gruul Spellbreaker
+4 Robber of the Rich
+4 Gruul Spellbreaker
+1 Bonecrusher Giant
+1 Castle Embereth
+2 Castle Embereth
+2 Domri's Ambush
+8 Mountain
 1 Nissa, Who Shakes the World
 1 Voracious Hydra
 2 Nissa, Who Shakes the World
 2 Voracious Hydra
 3 Flame Sweep
-1 Growth-Chamber Guardian
+1 Domri, Anarch of Bolas
+1 Kogla, the Titan Ape
+1 Skarrgan Hellkite
+1 Dryad of the Ilysian Grove
+1 Ilharg, the Raze-Boar
+2 Domri, Anarch of Bolas
+2 Skarrgan Hellkite
+2 Kogla, the Titan Ape
+2 Ilharg, the Raze-Boar
+2 Dryad of the Ilysian Grove
+3 Domri, Anarch of Bolas
+3 Ilharg, the Raze-Boar
+1 Edgewall Innkeeper
+1 Phoenix of Ash
+1 Rimrock Knight
+1 Gallia of the Endless Dance
+2 Edgewall Innkeeper
+2 Rimrock Knight
+2 Bonecrusher Giant
+2 Gallia of the Endless Dance
+3 Edgewall Innkeeper
+3 Gallia of the Endless Dance
+3 Domri's Ambush
+3 Rimrock Knight
+3 Embercleave
+3 Bonecrusher Giant
+4 Bonecrusher Giant
+4 Domri's Ambush
+4 Edgewall Innkeeper
+4 Rimrock Knight
+4 Embercleave
 1 Kraul Harpooner
 1 Wildwood Tracker
-2 Growth-Chamber Guardian
 2 Kraul Harpooner
 2 Wildwood Tracker
-3 Growth-Chamber Guardian
-3 Wildwood Tracker
 3 The Great Henge
+3 Wildwood Tracker
 3 Kraul Harpooner
 4 Growth-Chamber Guardian
 4 Wildwood Tracker
-2 Karn, the Great Creator
-3 Karn, the Great Creator
-4 Karn, the Great Creator
 1 Lava Coil
 1 Thrash/Threat
 2 Lava Coil
 2 Thrash/Threat
+3 Lava Coil
 3 Shifting Ceratops
 3 Thrash/Threat
-3 Lava Coil
 4 Shifting Ceratops
 4 Lava Coil
 4 Thrash/Threat
-4 Gruul Spellbreaker
+2 Karn, the Great Creator
+3 Karn, the Great Creator
+4 Karn, the Great Creator
 1 Return of the Wildspeaker
 1 Ram Through
 1 The Ozolith
-2 The Ozolith
 2 Return of the Wildspeaker
+2 The Ozolith
 2 Ram Through
 20 Forest

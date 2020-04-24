@@ -17,12 +17,12 @@
 3 Gyruda, Doom of Depths
 4 Thassa, Deep-Dwelling
 4 Spark Double
-1 Migration Path
-1 Wolfwillow Haven
 1 Dream Eater
-2 Migration Path
-2 Wolfwillow Haven
+1 Wolfwillow Haven
+1 Migration Path
 2 Dream Eater
+2 Wolfwillow Haven
+2 Migration Path
 3 Migration Path
 3 Wolfwillow Haven
 3 Dream Eater
@@ -107,8 +107,8 @@
 2 Questing Beast
 2 Ram Through
 2 Hydroid Krasis
-3 Castle Garenbrig
 3 Gemrazer
+3 Castle Garenbrig
 3 Questing Beast
 3 Hydroid Krasis
 3 Nissa, Who Shakes the World
@@ -126,22 +126,22 @@
 1 Karn's Bastion
 1 Shadowspear
 1 Crystalline Giant
+1 Mystic Forge
 1 Emry, Lurker of the Loch
 1 Steel Overseer
 1 Ugin, the Ineffable
 1 Chamber Sentry
-1 Mystic Forge
 1 Crashing Drawbridge
-2 The Ozolith
 2 Gingerbrute
+2 The Ozolith
 2 Chamber Sentry
 2 Emry, Lurker of the Loch
 2 Crystalline Giant
 2 Steel Overseer
 2 Ugin, the Ineffable
 2 Crashing Drawbridge
-3 Karn, the Great Creator
 3 Gingerbrute
+3 Karn, the Great Creator
 3 Steel Overseer
 3 Chamber Sentry
 3 Crashing Drawbridge
@@ -172,34 +172,33 @@
 4 Neutralize
 3 Essence Scatter
 4 Essence Scatter
-4 Wicked Wolf
 1 Fiend Artisan
 2 Fiend Artisan
 3 Voracious Hydra
 3 Fiend Artisan
 4 Fiend Artisan
 4 Gyruda, Doom of Depths
-1 Edgewall Innkeeper
 1 Beanstalk Giant
 1 Fae of Wishes
+1 Edgewall Innkeeper
 1 The Great Henge
-1 Lovestruck Beast
 1 Merfolk Secretkeeper
 1 Tamiyo, Collector of Tales
+1 Lovestruck Beast
 1 Lucky Clover
-2 Edgewall Innkeeper
-2 Lovestruck Beast
 2 Beanstalk Giant
 2 The Great Henge
 2 Fae of Wishes
+2 Edgewall Innkeeper
+2 Lovestruck Beast
 2 Lucky Clover
 2 Tamiyo, Collector of Tales
 2 Merfolk Secretkeeper
 3 Edgewall Innkeeper
-3 Lovestruck Beast
 3 Lucky Clover
 3 Beanstalk Giant
 3 Fae of Wishes
+3 Lovestruck Beast
 3 Merfolk Secretkeeper
 4 Edgewall Innkeeper
 4 Lovestruck Beast
@@ -214,3 +213,4 @@
 2 Risen Reef
 3 Finale of Devastation
 4 Finale of Devastation
+4 Wicked Wolf

@@ -1,23 +1,9 @@
 2 Castle Embereth
-1 Goblin Rabblemaster
-2 Goblin Rabblemaster
-3 Goblin Rabblemaster
-4 Goblin Rabblemaster
-1 Torbran, Thane of Red Fell
-2 Torbran, Thane of Red Fell
-1 Embercleave
-2 Embercleave
-1 Bomat Courier
-1 Collective Defiance
-2 Bomat Courier
-2 Collective Defiance
-3 Bomat Courier
-4 Bomat Courier
-17 Mountain
 1 Rimrock Knight
 1 Kari Zev, Skyship Raider
 2 Rimrock Knight
 2 Kari Zev, Skyship Raider
+17 Mountain
 1 Runaway Steam-Kin
 1 Light Up the Stage
 2 Runaway Steam-Kin
@@ -30,23 +16,26 @@
 2 Abbot of Keral Keep
 3 Abbot of Keral Keep
 4 Abbot of Keral Keep
-3 Castle Embereth
-1 Mutavault
-2 Mutavault
 1 Legion Warboss
+1 Torbran, Thane of Red Fell
+2 Torbran, Thane of Red Fell
 2 Legion Warboss
 3 Torbran, Thane of Red Fell
+1 Embercleave
+2 Embercleave
 3 Embercleave
+1 Mutavault
+1 Goblin Rabblemaster
+2 Goblin Rabblemaster
+2 Mutavault
+3 Goblin Rabblemaster
+4 Goblin Rabblemaster
 1 Kari Zev's Expertise
 1 Goblin Chainwhirler
 2 Goblin Chainwhirler
 3 Rimrock Knight
 3 Kari Zev, Skyship Raider
 3 Goblin Chainwhirler
-1 Robber of the Rich
-2 Robber of the Rich
-3 Robber of the Rich
-4 Robber of the Rich
 1 Fervent Champion
 1 Anax, Hardened in the Forge
 2 Fervent Champion
@@ -54,10 +43,16 @@
 3 Fervent Champion
 3 Anax, Hardened in the Forge
 4 Fervent Champion
+1 Bomat Courier
 1 Rampaging Ferocidon
+1 Collective Defiance
+2 Bomat Courier
+2 Collective Defiance
 2 Rampaging Ferocidon
+3 Bomat Courier
 3 Collective Defiance
 3 Rampaging Ferocidon
+4 Bomat Courier
 4 Collective Defiance
 4 Rampaging Ferocidon
 1 Legion Loyalist
@@ -72,6 +67,7 @@
 2 Goblin Piledriver
 2 Fanatical Firebrand
 2 Goblin Instigator
+3 Castle Embereth
 3 Legion Warboss
 3 Mutavault
 3 Goblin Piledriver

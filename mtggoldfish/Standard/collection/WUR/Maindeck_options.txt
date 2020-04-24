@@ -124,17 +124,17 @@
 1 Improbable Alliance
 2 Drannith Healer
 2 Valiant Rescuer
-2 Startling Development
 2 Flourishing Fox
 2 Go for Blood
+2 Startling Development
 2 Drannith Stinger
 2 Improbable Alliance
 3 Valiant Rescuer
 3 Flourishing Fox
 3 Startling Development
+3 Go for Blood
 3 Zenith Flare
 3 Drannith Healer
-3 Go for Blood
 3 Drannith Stinger
 3 Ominous Seas
 3 Improbable Alliance
@@ -174,15 +174,15 @@
 1 Sarkhan the Masterless
 1 Field of Ruin
 1 Thassa's Intervention
+2 Shock
+3 Shock
 1 Blast Zone
 1 Ionize
 1 Ral, Izzet Viceroy
 2 Ionize
 3 Ionize
-3 Inspired Ultimatum
-2 Shock
-3 Shock
 3 Chandra, Acolyte of Flame
+3 Inspired Ultimatum
 1 Drawn from Dreams
 1 Disdainful Stroke
 3 Essence Scatter
@@ -218,9 +218,9 @@
 1 Glint-Horn Buccaneer
 1 Heliod, Sun-Crowned
 1 Storm's Wrath
-2 Storm's Wrath
 2 Fires of Invention
 2 Glint-Horn Buccaneer
+2 Storm's Wrath
 2 Banishing Light
 2 Heliod, Sun-Crowned
 2 Benthic Biomancer
@@ -242,8 +242,6 @@
 2 Unpredictable Cyclone
 3 Unpredictable Cyclone
 4 Unpredictable Cyclone
-5 Island
-1 Footlight Fiend
 1 Justice Strike
 1 Hero of Precinct One
 1 Lightning Stormkin
@@ -253,27 +251,28 @@
 1 Embercleave
 1 Skyknight Vanguard
 1 Regal Leosaur
+1 Footlight Fiend
 1 Swiftblade Vindicator
 1 Sprite Dragon
 2 Justice Strike
-2 Footlight Fiend
 2 Hero of Precinct One
 2 Lightning Stormkin
 2 Regal Leosaur
 2 Embercleave
+2 Footlight Fiend
 2 Tajic, Legion's Edge
 2 Sprite Dragon
 2 Aurelia, Exemplar of Justice
 2 Glass of the Guildpact
 2 Skyknight Vanguard
 2 Swiftblade Vindicator
-3 Footlight Fiend
 3 Lightning Stormkin
 3 Skyknight Vanguard
 3 Glass of the Guildpact
 3 Hero of Precinct One
 3 Justice Strike
 3 Regal Leosaur
+3 Footlight Fiend
 4 Footlight Fiend
 4 Skyknight Vanguard
 4 Hero of Precinct One
@@ -281,3 +280,4 @@
 4 Regal Leosaur
 4 Lightning Stormkin
 4 Glass of the Guildpact
+5 Island

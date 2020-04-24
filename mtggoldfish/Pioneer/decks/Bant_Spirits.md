@@ -42,7 +42,7 @@
 |                     |                                                                                            |                    3|[Remorseful Cleric](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447169)    |
 |                     |                                                                                            |                    3|[Disdainful Stroke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420705)    |
 |                     |                                                                                            |                    1|Jegantha, the Wellspring                                                                        |
-|                     |                                                                                            |                    1|[Aether Gust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466796)          |
 |                     |                                                                                            |                    1|[Heliod's Intervention](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476270)|
+|                     |                                                                                            |                    1|[Aether Gust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466796)          |
 |                     |                                                                                            |                    2|[Aether Gust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466796)          |
 

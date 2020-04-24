@@ -42,27 +42,27 @@
 1 Sword of Feast and Famine
 1 Thought-Knot Seer
 1 Engineered Explosives
-1 Dromoka's Command
 1 Reality Smasher
+1 Dromoka's Command
 1 Eldrazi Temple
+1 Elspeth, Knight-Errant
 1 Boreal Druid
 1 Cavern of Souls
 1 Matter Reshaper
 1 Blast Zone
-1 Elspeth, Knight-Errant
 2 Thought-Knot Seer
 2 Mirran Crusader
-2 Reality Smasher
 2 Matter Reshaper
+2 Reality Smasher
 2 Blast Zone
 2 Boreal Druid
 2 Cavern of Souls
 2 Eldrazi Temple
 3 Thought-Knot Seer
 3 Matter Reshaper
-3 Eldrazi Temple
-3 Eldrazi Displacer
 3 Reality Smasher
+3 Eldrazi Displacer
+3 Eldrazi Temple
 4 Thought-Knot Seer
 4 Eldrazi Temple
 4 Reality Smasher
@@ -111,13 +111,13 @@
 1 Hangarback Walker
 1 The Ozolith
 1 Llanowar Reborn
-1 Blinkmoth Nexus
 1 Arcbound Worker
 1 Throne of Geth
 1 Arcbound Ravager
 1 Hardened Scales
 1 Springleaf Drum
 1 Animation Module
+1 Blinkmoth Nexus
 1 Phyrexia's Core
 2 Tarmogoyf
 2 Hangarback Walker
@@ -145,14 +145,14 @@
 1 Blossoming Defense
 1 Rancor
 1 Ichorclaw Myr
+1 Vines of Vastwood
 1 Glistener Elf
 1 Groundswell
-1 Vines of Vastwood
 1 Might of Old Krosa
 1 Scale Up
 2 Rancor
-2 Vines of Vastwood
 2 Pendelhaven
+2 Vines of Vastwood
 2 Ichorclaw Myr
 2 Blossoming Defense
 2 Groundswell
@@ -163,9 +163,9 @@
 3 Groundswell
 3 Might of Old Krosa
 3 Scale Up
-3 Glistener Elf
 3 Vines of Vastwood
 3 Rancor
+3 Glistener Elf
 3 Ichorclaw Myr
 3 Blossoming Defense
 4 Scale Up
@@ -179,18 +179,18 @@
 1 Tireless Tracker
 1 Dryad of the Ilysian Grove
 1 Sylvan Scrying
-1 Llanowar Elves
-1 Valakut, the Molten Pinnacle
 1 Bojuka Bog
+1 Valakut, the Molten Pinnacle
+1 Llanowar Elves
 1 Voice of Resurgence
 2 Dryad of the Ilysian Grove
 2 Llanowar Elves
 2 Tireless Tracker
 2 Ramunap Excavator
-2 Scavenging Ooze
 2 Valakut, the Molten Pinnacle
 2 Sylvan Scrying
 2 Knight of the Reliquary
+2 Scavenging Ooze
 2 Voice of Resurgence
 2 Snow-Covered Forest
 3 Snow-Covered Forest
@@ -201,9 +201,9 @@
 3 Knight of the Reliquary
 3 Ramunap Excavator
 4 Dryad of the Ilysian Grove
+4 Snow-Covered Forest
 4 Ramunap Excavator
 4 Knight of the Reliquary
-4 Snow-Covered Forest
 5 Snow-Covered Forest
 3 Plains
 4 Plains

@@ -1,38 +1,57 @@
-2 Forest
-1 Questing Beast
-1 Abrupt Decay
-1 Tireless Tracker
-1 Traverse the Ulvenwald
-1 Overgrown Tomb
-1 Walking Ballista
-1 Ishkanah, Grafwidow
-1 Scavenging Ooze
-1 Blooming Marsh
-2 Traverse the Ulvenwald
-2 Blooming Marsh
-2 Overgrown Tomb
-3 Blooming Marsh
-4 Blooming Marsh
-1 Breeding Pool
-2 Breeding Pool
-3 Breeding Pool
-4 Breeding Pool
-1 Uro, Titan of Nature's Wrath
-2 Uro, Titan of Nature's Wrath
-3 Uro, Titan of Nature's Wrath
-4 Uro, Titan of Nature's Wrath
-3 Forest
+4 Opt
+2 Plains
+3 Plains
+3 Teferi, Hero of Dominaria
+1 Nissa, Vastwood Seer
+1 Courser of Kruphix
+1 Thraben Inspector
+2 Thraben Inspector
+3 Thraben Inspector
+4 Thraben Inspector
+2 Elspeth Conquers Death
+1 Baffling End
+1 Growth Spiral
+2 Courser of Kruphix
+2 Baffling End
+2 Nissa, Vastwood Seer
+2 Omen of the Sea
+2 Lumbering Falls
+2 Growth Spiral
+3 Temple Garden
+3 Omen of the Sea
+3 Elspeth Conquers Death
+3 Growth Spiral
+3 Baffling End
+4 Temple Garden
+4 Baffling End
+4 Teferi, Time Raveler
+4 Omen of the Sea
+4 Growth Spiral
+1 Nissa, Who Shakes the World
+1 Mountain
+2 Swamp
+1 Emrakul, the Promised End
+2 Mountain
+1 Bonecrusher Giant
+2 Bonecrusher Giant
+1 Blood Crypt
+1 Dreadbore
+1 Kroxa, Titan of Death's Hunger
+2 Blood Crypt
+2 Kroxa, Titan of Death's Hunger
+3 Blood Crypt
+3 Kroxa, Titan of Death's Hunger
+4 Blood Crypt
+1 Castle Locthwain
 1 Watery Grave
-1 Plains
-1 Teferi, Hero of Dominaria
-1 Hallowed Fountain
-1 Glacial Fortress
-1 Teferi, Time Raveler
-1 Supreme Verdict
-2 Supreme Verdict
-2 Teferi, Time Raveler
-2 Hallowed Fountain
-2 Glacial Fortress
+1 Murderous Rider
+3 Swamp
+1 Dragonskull Summit
+2 Dreadbore
+2 Dragonskull Summit
+3 Dragonskull Summit
+3 Dreadbore
+4 Kroxa, Titan of Death's Hunger
 1 Drowned Catacomb
 2 Drowned Catacomb
 2 Watery Grave
@@ -44,39 +63,61 @@
 1 Shambling Vent
 2 Godless Shrine
 2 Shambling Vent
-1 Hinterland Harbor
-3 Teferi, Time Raveler
-1 Opt
-2 Opt
-3 Opt
+3 Bonecrusher Giant
+1 Liliana, the Last Hope
+1 Discovery / Dispersal
+2 Discovery / Dispersal
+3 Discovery / Dispersal
+4 Discovery / Dispersal
+4 Dreadbore
+4 Bonecrusher Giant
+1 Chandra, Torch of Defiance
+2 Chandra, Torch of Defiance
+3 Mountain
+1 Canyon Slough
+2 Canyon Slough
+3 Canyon Slough
+4 Dragonskull Summit
+2 Murderous Rider
+1 Questing Beast
+1 Tireless Tracker
+1 Traverse the Ulvenwald
+1 Abrupt Decay
+1 Overgrown Tomb
+1 Walking Ballista
+1 Ishkanah, Grafwidow
+1 Scavenging Ooze
+1 Blooming Marsh
+2 Traverse the Ulvenwald
+2 Blooming Marsh
+2 Overgrown Tomb
+3 Blooming Marsh
+4 Blooming Marsh
+2 Liliana, the Last Hope
 1 Ipnu Rivulet
 1 Stomping Ground
 2 Stomping Ground
 4 Forest
-1 Elspeth Conquers Death
-1 Vraska's Contempt
-1 Omen of the Sea
+2 Nissa, Who Shakes the World
 2 Oath of Kaya
 3 Godless Shrine
+1 Irrigated Farmland
 1 Fetid Pools
 1 Narset, Parter of Veils
 3 Glacial Fortress
-2 Hinterland Harbor
-1 Irrigated Farmland
-2 Nissa, Who Shakes the World
-1 Elspeth, Sun's Champion
-3 Supreme Verdict
+1 Vraska's Contempt
 1 Champion of Wits
+1 Elspeth, Sun's Champion
 1 Search for Azcanta
 1 Thirst for Meaning
-1 Hero's Downfall
+1 Cast Down
 1 Thought Erasure
 1 Elspeth, Sun's Nemesis
-1 Cast Down
+1 Hero's Downfall
 1 Concealed Courtyard
 2 Search for Azcanta
-2 Cast Down
 2 Concealed Courtyard
+2 Cast Down
 3 Concealed Courtyard
 3 Cast Down
 1 Kolaghan's Command
@@ -84,12 +125,6 @@
 2 Kolaghan's Command
 2 Foreboding Ruins
 3 Kolaghan's Command
-2 Teferi, Hero of Dominaria
-3 Hallowed Fountain
-4 Hallowed Fountain
-2 Plains
-3 Plains
-4 Opt
 1 Ugin, the Spirit Dragon
 1 Castle Garenbrig
 1 Cavalier of Thorns
@@ -104,18 +139,17 @@
 4 Stomping Ground
 1 Kozilek's Return
 1 Elder Deep-Fiend
-2 Kozilek's Return
 2 Elder Deep-Fiend
+2 Kozilek's Return
 2 Champion of Wits
-3 Elder Deep-Fiend
 3 Nissa, Who Shakes the World
+3 Elder Deep-Fiend
 3 Kozilek's Return
 3 Champion of Wits
 4 Elder Deep-Fiend
 4 Kozilek's Return
-1 Gideon of the Trials
-1 Glorybringer
 1 Castle Ardenvale
+1 Gideon of the Trials
 1 Blast Zone
 1 Isolated Chapel
 3 Shambling Vent
@@ -123,7 +157,6 @@
 2 The Birth of Meletis
 3 The Birth of Meletis
 4 The Birth of Meletis
-4 Plains
 1 Trial of Ambition
 1 Starfield of Nyx
 1 Demonic Pact
@@ -141,75 +174,41 @@
 3 Trial of Ambition
 3 Oath of Kaya
 3 Demonic Pact
-3 Treacherous Blessing
 3 Isolated Chapel
 3 Doom Foretold
+3 Treacherous Blessing
 4 Treacherous Blessing
+4 Plains
 4 Godless Shrine
 4 Demonic Pact
 4 Doom Foretold
 5 Plains
-1 Thraben Inspector
-2 Thraben Inspector
-3 Thraben Inspector
-4 Thraben Inspector
+1 Glorybringer
 2 Abrupt Decay
 3 Overgrown Tomb
 4 Overgrown Tomb
-1 Courser of Kruphix
 4 Swamp
 5 Swamp
-2 Island
 1 Vraska, Golgari Queen
-1 Nissa, Vastwood Seer
-1 Lumbering Falls
-1 Sunpetal Grove
-1 Detention Sphere
-1 Temple Garden
-2 Detention Sphere
-2 Temple Garden
-2 Sunpetal Grove
-4 Supreme Verdict
 2 Tireless Tracker
 3 Traverse the Ulvenwald
-3 Teferi, Hero of Dominaria
 1 Tamiyo, Collector of Tales
 1 Arboreal Grazer
 1 Llanowar Elves
 2 Arboreal Grazer
 3 Arboreal Grazer
 3 Ipnu Rivulet
-2 Gideon of the Trials
 1 Field of Ruin
 2 Blast Zone
 1 Censor
 1 Dig Through Time
 2 Dig Through Time
 5 Forest
-2 Elspeth Conquers Death
 1 Botanical Sanctum
 2 Botanical Sanctum
 1 Chart a Course
 1 Mass Manipulation
-1 Baffling End
-1 Growth Spiral
-2 Courser of Kruphix
-2 Baffling End
-2 Nissa, Vastwood Seer
-2 Omen of the Sea
-2 Lumbering Falls
-2 Growth Spiral
-3 Temple Garden
-3 Omen of the Sea
-3 Elspeth Conquers Death
-3 Growth Spiral
-3 Baffling End
-4 Temple Garden
-4 Baffling End
-4 Teferi, Time Raveler
 4 Teferi, Hero of Dominaria
-4 Omen of the Sea
-4 Growth Spiral
 1 Urborg, Tomb of Yawgmoth
 1 Cling to Dust
 1 Elspeth's Nightmare
@@ -233,25 +232,7 @@
 7 Plains
 1 Spirebluff Canal
 2 Spirebluff Canal
-3 Gideon of the Trials
-1 Gideon, Ally of Zendikar
-1 Sweltering Suns
-1 Chained to the Rocks
-1 Nahiri, the Harbinger
-1 Clifftop Retreat
-1 Sacred Foundry
-2 Gideon, Ally of Zendikar
-2 Sweltering Suns
-2 Chained to the Rocks
-2 Sacred Foundry
-3 Sweltering Suns
-3 Chained to the Rocks
-3 Sacred Foundry
-4 Sacred Foundry
-4 Mountain
-5 Mountain
-6 Mountain
-7 Mountain
+2 Gideon of the Trials
 1 Essence Scatter
 2 Essence Scatter
 1 Yahenni's Expertise
@@ -264,6 +245,7 @@
 1 History of Benalia
 2 History of Benalia
 2 The Eldest Reborn
+3 Gideon of the Trials
 3 History of Benalia
 1 Distended Mindbender
 1 Deathrite Shaman
@@ -353,66 +335,41 @@
 3 Glimmer of Genius
 4 Drowned Catacomb
 4 Glacial Fortress
+1 Risen Reef
 1 Chandra, Acolyte of Flame
 1 Spell Pierce
 1 Mizzium Mortars
 1 Living Twister
 1 Castle Embereth
-1 Risen Reef
 1 Fiery Impulse
 1 Treasure Cruise
 1 Dive Down
 1 Wild Slash
 1 Young Pyromancer
+2 Risen Reef
 2 Chart a Course
 2 Chandra, Acolyte of Flame
 2 Mizzium Mortars
-2 Treasure Cruise
 2 Wild Slash
 2 Dive Down
 2 Fiery Impulse
-2 Risen Reef
 2 Young Pyromancer
+2 Treasure Cruise
+3 Risen Reef
 3 Chart a Course
 3 Chandra, Acolyte of Flame
 3 Spirebluff Canal
 3 Young Pyromancer
-3 Risen Reef
 3 Mizzium Mortars
 3 Botanical Sanctum
 3 Wild Slash
+4 Risen Reef
 4 Steam Vents
 4 Chart a Course
 4 Spirebluff Canal
-4 Risen Reef
 4 Young Pyromancer
 4 Wild Slash
 4 Arboreal Grazer
-1 Haktos the Unscarred
-1 Brimaz, King of Oreskos
-1 Inspiring Vantage
-1 Shatter the Sky
-1 Lightning Strike
-1 Heart of Kiran
-1 Needle Spires
-1 Lava Coil
-2 Heart of Kiran
-2 Haktos the Unscarred
-2 Lava Coil
-2 Inspiring Vantage
-2 Clifftop Retreat
-2 Shatter the Sky
-2 Needle Spires
-2 Lightning Strike
-3 Shatter the Sky
-3 Heart of Kiran
-3 Inspiring Vantage
-3 Gideon, Ally of Zendikar
-3 Lightning Strike
-3 Needle Spires
-4 Inspiring Vantage
-4 Lightning Strike
-4 Gideon of the Trials
 1 Hydroid Krasis
 1 World Breaker
 1 Yavimaya Coast
@@ -437,24 +394,42 @@
 4 Llanowar Elves
 6 Forest
 7 Forest
-1 Mutavault
+1 Gideon, Ally of Zendikar
+1 Sweltering Suns
+1 Sacred Foundry
 1 Dragonlord Kolaghan
+1 Chained to the Rocks
 1 Anger of the Gods
+1 Nahiri, the Harbinger
+1 Mutavault
+1 Clifftop Retreat
 1 Pirate's Pillage
 1 Temple of Triumph
 1 Indomitable Creativity
 1 Void Winnower
 1 Angel of Serenity
+2 Gideon, Ally of Zendikar
+2 Sweltering Suns
 2 Anger of the Gods
+2 Sacred Foundry
+2 Chained to the Rocks
 2 Temple of Triumph
 2 Pirate's Pillage
 2 Indomitable Creativity
+3 Sweltering Suns
+3 Sacred Foundry
 3 Temple of Triumph
 3 Anger of the Gods
+3 Chained to the Rocks
 3 Pirate's Pillage
 3 Indomitable Creativity
-4 Chained to the Rocks
+4 Sacred Foundry
 4 Temple of Triumph
+4 Chained to the Rocks
 4 Indomitable Creativity
 4 Pirate's Pillage
+4 Mountain
+5 Mountain
+6 Mountain
+7 Mountain
 8 Mountain
