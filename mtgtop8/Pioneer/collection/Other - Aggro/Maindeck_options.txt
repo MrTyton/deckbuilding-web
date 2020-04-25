@@ -58,33 +58,33 @@
 1 Wolfwillow Haven
 1 Temple of Plenty
 1 Banishing Light
-1 Sigil of the Empty Throne
 1 Calix, Destiny's Hand
-1 Sphere of Safety
 1 Setessan Champion
+1 Sigil of the Empty Throne
+1 Sphere of Safety
 1 Eidolon of Blossoms
 1 Seal Away
 1 Herald of the Pantheon
 2 Wolfwillow Haven
+2 Setessan Champion
 2 Banishing Light
 2 Sphere of Safety
-2 Setessan Champion
 2 Eidolon of Blossoms
 2 Sigil of the Empty Throne
 2 Herald of the Pantheon
 2 Temple of Plenty
 3 Wolfwillow Haven
-3 Banishing Light
 3 Temple of Plenty
-3 Eidolon of Blossoms
+3 Banishing Light
 3 Setessan Champion
+3 Eidolon of Blossoms
 3 Herald of the Pantheon
-4 Banishing Light
 4 Temple of Plenty
+4 Setessan Champion
+4 Banishing Light
 4 Eidolon of Blossoms
 4 Herald of the Pantheon
 4 Courser of Kruphix
-4 Setessan Champion
 4 Wolfwillow Haven
 2 Gideon's Intervention
 1 Selfless Spirit
@@ -236,7 +236,6 @@
 2 Monastery Swiftspear
 2 The Royal Scions
 2 Steam Vents
-3 Faerie Vandal
 3 The Royal Scions
 3 Defiant Strike
 3 Favored Hoplite
@@ -244,6 +243,7 @@
 3 Staggering Insight
 3 Curious Obsession
 3 Reckless Rage
+3 Faerie Vandal
 3 Monastery Swiftspear
 3 Tenth District Legionnaire
 3 Steam Vents
@@ -265,10 +265,10 @@
 1 Growth Spiral
 1 Cavalier of Thorns
 1 Castle Garenbrig
-1 Kiora Bests the Sea God
 1 Nissa's Pilgrimage
 1 Hinterland Harbor
 1 World Breaker
+1 Kiora Bests the Sea God
 1 Tamiyo, Collector of Tales
 1 Arboreal Grazer
 1 Ugin, the Spirit Dragon
@@ -346,10 +346,10 @@
 1 Anguished Unmaking
 1 Archangel of Tithes
 2 Seraph of the Scales
+2 Temple of Silence
 2 Resplendent Angel
 2 Revival / Revenge
 2 Bishop of Wings
-2 Temple of Silence
 3 Temple of Silence
 3 Bishop of Wings
 3 Resplendent Angel
@@ -369,8 +369,8 @@
 1 Pelt Collector
 1 Experiment One
 1 Atarka's Command
-1 Bronzehide Lion
 1 Boros Charm
+1 Bronzehide Lion
 1 Gruul Spellbreaker
 1 Fleecemane Lion
 1 Rootbound Crag
@@ -379,26 +379,26 @@
 2 Pelt Collector
 2 Experiment One
 2 Atarka's Command
-2 Bronzehide Lion
 2 Boros Charm
 2 Gruul Spellbreaker
 2 Fleecemane Lion
 2 Rootbound Crag
+2 Bronzehide Lion
 3 Pelt Collector
 3 Experiment One
 3 Atarka's Command
 3 Ghor-Clan Rampager
-3 Bronzehide Lion
 3 Questing Beast
 3 Boros Charm
 3 Rootbound Crag
+3 Bronzehide Lion
 3 Gruul Spellbreaker
 3 Stomping Ground
 4 Pelt Collector
 4 Experiment One
-4 Bronzehide Lion
 4 Voice of Resurgence
 4 Gruul Spellbreaker
+4 Bronzehide Lion
 4 Stomping Ground
 1 Mutavault
 2 Mutavault

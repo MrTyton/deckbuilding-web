@@ -34,6 +34,7 @@
 
 |*n*<sup>th</sup> copy|                                         Maindeck Card                                         |*n*<sup>th</sup> copy|Sideboard Card|
 |--------------------:|-----------------------------------------------------------------------------------------------|---------------------|--------------|
+|                    4|[Oath of Kaya](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461136)        |                     |              |
 |                    4|[Snow-Covered Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121130) |                     |              |
 |                    4|[Path to Exile](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220511)       |                     |              |
 |                    4|[Omen of the Sea](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476309)     |                     |              |
@@ -43,7 +44,6 @@
 |                    4|[Saheeli Rai](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417759)         |                     |              |
 |                    4|[Felidar Guardian](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423686)    |                     |              |
 |                    4|[Teferi, Time Raveler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461148)|                     |              |
-|                    4|[Oath of Kaya](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461136)        |                     |              |
 |                    4|[Force of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464001)   |                     |              |
 |                    4|[Arcum's Astrolabe](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464169)   |                     |              |
 |                    4|[Seasoned Pyromancer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464094) |                     |              |
