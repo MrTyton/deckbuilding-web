@@ -1,31 +1,73 @@
+1 Beast Within
+1 Tranquil Thicket
+1 Windswept Heath
+1 Thought Scour
+1 Waterlogged Grove
+1 Jace, Vryn's Prodigy
+1 Force of Negation
+1 Mystic Sanctuary
+1 Ayula's Influence
+1 Gingerbread Cabin
+1 Ice-Fang Coatl
+1 Blightsteel Colossus
+1 Cryptic Command
+1 Jace, the Mind Sculptor
+1 Shape Anew
+1 Gilded Goose
+1 Field of Ruin
+1 Regrowth
+1 Flooded Grove
+1 Life from the Loam
+2 Ice-Fang Coatl
+2 Jace, Vryn's Prodigy
+2 Jace, the Mind Sculptor
+2 Tranquil Thicket
+2 Thought Scour
+2 Gilded Goose
+2 Snow-Covered Island
+2 Cryptic Command
+2 Shape Anew
+2 Field of Ruin
+2 Life from the Loam
+2 Ayula's Influence
+2 Windswept Heath
+2 Force of Negation
+3 Ice-Fang Coatl
+3 Breeding Pool
+3 Thought Scour
+3 Shape Anew
+3 Jace, Vryn's Prodigy
+3 Force of Negation
+3 Gilded Goose
+3 Snow-Covered Forest
+3 Windswept Heath
+4 Thought Scour
+4 Gilded Goose
+4 Breeding Pool
+4 Shape Anew
 1 Acidic Slime
-1 Forest
+1 Repudiate/Replicate
 1 Trinisphere
 1 Walking Ballista
 1 Karn, the Great Creator
-1 Primal Command
 1 Mwonvuli Acid-Moss
 1 Stampeding Serow
-1 Castle Garenbrig
 1 Noble Hierarch
 1 Utopia Sprawl
 1 Plow Under
 1 Eternal Witness
 1 Arbor Elf
-1 Repudiate/Replicate
 1 Hornet Queen
-2 Forest
+2 Repudiate/Replicate
 2 Karn, the Great Creator
 2 Trinisphere
 2 Acidic Slime
 2 Mwonvuli Acid-Moss
 2 Utopia Sprawl
-2 Castle Garenbrig
 2 Arbor Elf
 2 Plow Under
 2 Primal Command
 2 Noble Hierarch
-2 Repudiate/Replicate
 2 Eternal Witness
 3 Forest
 3 Karn, the Great Creator
@@ -33,7 +75,6 @@
 3 Primal Command
 3 Eternal Witness
 3 Mwonvuli Acid-Moss
-3 Castle Garenbrig
 3 Trinisphere
 3 Noble Hierarch
 3 Utopia Sprawl
@@ -43,11 +84,10 @@
 4 Primal Command
 4 Mwonvuli Acid-Moss
 4 Utopia Sprawl
-4 Castle Garenbrig
-4 Arbor Elf
 5 Forest
 6 Forest
 7 Forest
+8 Forest
 9 Forest
 10 Forest
 11 Forest
@@ -56,4 +96,4 @@
 14 Forest
 15 Forest
 16 Forest
-8 Forest
+4 Arbor Elf

@@ -12,38 +12,55 @@
 2 Uro, Titan of Nature's Wrath
 2 Breeding Pool
 3 Uro, Titan of Nature's Wrath
-4 Uro, Titan of Nature's Wrath
 1 Overgrown Tomb
 2 Temple Garden
 2 Overgrown Tomb
-1 Ashiok, Nightmare Muse
+4 Uro, Titan of Nature's Wrath
 1 Island
-2 Temple of Enlightenment
 3 Breeding Pool
+1 Ashiok, Nightmare Muse
+2 Temple of Enlightenment
 1 Hydroid Krasis
 1 Nissa, Who Shakes the World
 2 Nissa, Who Shakes the World
 2 Hydroid Krasis
 3 Overgrown Tomb
-2 Tamiyo, Collector of Tales
 1 Temple of Mystery
-2 Temple of Mystery
-3 Temple of Mystery
-4 Breeding Pool
 1 Fabled Passage
 1 Growth Spiral
 1 Forest
 2 Fabled Passage
-2 Forest
 2 Growth Spiral
-2 Island
 3 Fabled Passage
-3 Growth Spiral
-4 Growth Spiral
+2 Tamiyo, Collector of Tales
 1 Ketria Triome
 2 Ketria Triome
+1 Raugrin Triome
+1 Temple of Plenty
+1 Polukranos, Unchained
+1 Plains
+1 Savai Triome
+1 Solar Blaze
+1 Zagoth Triome
+1 Gilded Goose
+1 Niv-Mizzet Reborn
+2 Gilded Goose
+2 Niv-Mizzet Reborn
+3 Gilded Goose
+3 Niv-Mizzet Reborn
+2 Temple of Mystery
+3 Temple of Mystery
+4 Breeding Pool
+2 Forest
+2 Island
+3 Growth Spiral
+4 Growth Spiral
 3 Ketria Triome
 4 Ketria Triome
+1 Mountain
+1 Stomping Ground
+2 Stomping Ground
+4 Fabled Passage
 1 Agent of Treachery
 1 Omnath, Locus of the Roil
 1 Thassa, Deep-Dwelling
@@ -55,8 +72,6 @@
 1 Genesis Ultimatum
 1 Temple of Abandon
 1 Temple of Epiphany
-1 Mountain
-1 Stomping Ground
 1 Quasiduplicate
 2 Temple of Epiphany
 2 Agent of Treachery
@@ -68,31 +83,29 @@
 2 Leafkin Druid
 2 Genesis Ultimatum
 2 Mythos of Illuna
-2 Stomping Ground
 2 Temple of Abandon
 3 Omnath, Locus of the Roil
-3 Arboreal Grazer
 3 Genesis Ultimatum
 3 Risen Reef
+3 Temple of Epiphany
 3 Leafkin Druid
 3 Agent of Treachery
-3 Temple of Epiphany
+3 Arboreal Grazer
 3 Temple of Abandon
 3 Cavalier of Thorns
 3 Forest
 3 Stomping Ground
 3 Steam Vents
 3 Island
-4 Fabled Passage
 4 Omnath, Locus of the Roil
 4 Genesis Ultimatum
 4 Risen Reef
 4 Steam Vents
 4 Temple of Mystery
-4 Arboreal Grazer
 4 Agent of Treachery
 4 Leafkin Druid
 4 Temple of Epiphany
+4 Arboreal Grazer
 4 Temple of Abandon
 4 Cavalier of Thorns
 4 Stomping Ground
@@ -102,36 +115,35 @@
 1 Spark Double
 1 Command the Dreadhorde
 2 Kaya, Orzhov Usurper
-1 Zagoth Triome
-1 Savai Triome
-1 Solar Blaze
 1 Indatha Triome
-1 Gilded Goose
 1 Tyrant's Scorn
 1 Despark
-1 Niv-Mizzet Reborn
-2 Zagoth Triome
 2 Savai Triome
 2 Indatha Triome
-2 Despark
-2 Gilded Goose
-2 Niv-Mizzet Reborn
 2 Solar Blaze
-3 Zagoth Triome
-3 Indatha Triome
-3 Gilded Goose
-3 Niv-Mizzet Reborn
+2 Despark
+2 Zagoth Triome
 3 Solar Blaze
+3 Indatha Triome
+3 Zagoth Triome
 4 Zagoth Triome
 4 Niv-Mizzet Reborn
 4 Indatha Triome
-1 Elite Guardmage
-1 Soul Diviner
-1 Elspeth, Sun's Nemesis
-2 Elite Guardmage
-2 Soul Diviner
-4 Oath of Kaya
-4 Elspeth Conquers Death
+1 Assassin's Trophy
+1 Paradise Druid
+1 Klothys, God of Destiny
+1 Vraska, Golgari Queen
+1 Kunoros, Hound of Athreos
+1 Drown in the Loch
+1 Deafening Clarion
+1 Knight of Autumn
+1 Dovin's Veto
+2 Paradise Druid
+2 Deafening Clarion
+2 Drown in the Loch
+2 Knight of Autumn
+3 Paradise Druid
+4 Gilded Goose
 1 Time Wipe
 1 Omen of the Sea
 2 Ashiok, Nightmare Muse
@@ -141,7 +153,6 @@
 4 Omen of the Sea
 1 Mystical Dispute
 1 Brazen Borrower
-1 Raugrin Triome
 2 Mystical Dispute
 2 Brazen Borrower
 2 Raugrin Triome
@@ -149,10 +160,14 @@
 3 Brazen Borrower
 4 Mystical Dispute
 4 Brazen Borrower
-1 Temple of Plenty
-1 Polukranos, Unchained
+1 Elspeth, Sun's Nemesis
+1 Elite Guardmage
+1 Soul Diviner
+2 Elite Guardmage
+2 Soul Diviner
+4 Elspeth Conquers Death
+4 Oath of Kaya
 1 Casualties of War
-1 Plains
 1 Aether Gust
 2 Temple of Plenty
 2 Aether Gust

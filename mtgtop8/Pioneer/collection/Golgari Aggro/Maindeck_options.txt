@@ -6,9 +6,9 @@
 3 Walking Ballista
 3 Hardened Scales
 3 Winding Constrictor
+4 Walking Ballista
 4 Hardened Scales
 4 Winding Constrictor
-4 Walking Ballista
 1 Rishkar, Peema Renegade
 1 Nissa, Voice of Zendikar
 2 Nissa, Voice of Zendikar
@@ -39,21 +39,21 @@
 4 Nessian Hornbeetle
 2 Swamp
 1 Woe Strider
+1 Catacomb Sifter
 1 Zulaport Cutthroat
-1 Westvale Abbey
 1 Plaguecrafter
+1 Westvale Abbey
 1 Satyr Wayfinder
 1 Gruesome Menagerie
-1 Catacomb Sifter
 1 Priest of Forgotten Gods
 2 Woe Strider
-2 Plaguecrafter
+2 Catacomb Sifter
 2 Zulaport Cutthroat
 2 Westvale Abbey
 2 Priest of Forgotten Gods
 2 Gruesome Menagerie
+2 Plaguecrafter
 2 Satyr Wayfinder
-2 Catacomb Sifter
 3 Woe Strider
 3 Satyr Wayfinder
 3 Zulaport Cutthroat
@@ -63,16 +63,16 @@
 4 Plaguecrafter
 4 Catacomb Sifter
 4 Zulaport Cutthroat
-1 Weaponcraft Enthusiast
-2 Weaponcraft Enthusiast
-3 Priest of Forgotten Gods
-4 Priest of Forgotten Gods
 1 Experiment One
 2 Experiment One
 3 Experiment One
 3 Rishkar, Peema Renegade
-4 Rishkar, Peema Renegade
 4 Experiment One
+4 Rishkar, Peema Renegade
+1 Weaponcraft Enthusiast
+2 Weaponcraft Enthusiast
+3 Priest of Forgotten Gods
+4 Priest of Forgotten Gods
 1 Tireless Tracker
 1 Shadowspear
 1 Hangarback Walker
@@ -130,15 +130,16 @@
 2 Murderous Rider
 2 Sylvan Caryatid
 2 Woodland Cemetery
-2 Nullhide Ferox
 2 Questing Beast
 2 Traverse the Ulvenwald
+2 Nullhide Ferox
 2 Soulflayer
 2 Gifted Aetherborn
 2 Zetalpa, Primal Dawn
 2 Grisly Salvage
 2 Gather the Pack
 2 Lotleth Troll
+3 Grisly Salvage
 3 Woodland Cemetery
 3 Questing Beast
 3 Sylvan Caryatid
@@ -148,12 +149,11 @@
 3 Traverse the Ulvenwald
 3 Zetalpa, Primal Dawn
 3 Lotleth Troll
-3 Grisly Salvage
 3 Swamp
+4 Grisly Salvage
 4 Traverse the Ulvenwald
 4 Sylvan Caryatid
 4 Gather the Pack
-4 Grisly Salvage
 4 Lotleth Troll
 4 Zetalpa, Primal Dawn
 4 Soulflayer

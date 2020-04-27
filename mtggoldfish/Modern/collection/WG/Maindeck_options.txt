@@ -1,93 +1,93 @@
+1 Horizon Canopy
+1 Noble Hierarch
+2 Temple Garden
+1 Giver of Runes
+2 Giver of Runes
+3 Giver of Runes
+4 Giver of Runes
+2 Noble Hierarch
+3 Noble Hierarch
+4 Noble Hierarch
+2 Forest
+2 Horizon Canopy
+3 Temple Garden
+3 Horizon Canopy
+1 Batterskull
+1 Stoneforge Mystic
+2 Stoneforge Mystic
+3 Stoneforge Mystic
+4 Stoneforge Mystic
+1 Windswept Heath
+2 Windswept Heath
+3 Windswept Heath
+1 Birds of Paradise
+2 Birds of Paradise
+3 Birds of Paradise
+4 Windswept Heath
+4 Birds of Paradise
+1 Heliod, Sun-Crowned
+1 Spike Feeder
+1 Ranger-Captain of Eos
+2 Ranger-Captain of Eos
+3 Ranger-Captain of Eos
+4 Ranger-Captain of Eos
+1 Aether Vial
+2 Aether Vial
+3 Aether Vial
+4 Aether Vial
+1 Collected Company
+2 Collected Company
+4 Horizon Canopy
+3 Collected Company
+4 Collected Company
+1 Sword of Light and Shadow
+1 Umbral Mantle
+1 Gavony Township
 1 Wooded Foothills
 2 Wooded Foothills
 3 Wooded Foothills
+1 Shalai, Voice of Plenty
 1 Scavenging Ooze
 1 Knight of the Reliquary
 1 Hexdrinker
 1 Dryad Arbor
 1 Loxodon Hierarch
-1 Shalai, Voice of Plenty
 1 Eladamri's Call
 1 Burrenton Forge-Tender
 2 Eladamri's Call
 3 Eladamri's Call
 4 Eladamri's Call
-2 Walking Ballista
-1 Pendelhaven
-1 Inkmoth Nexus
-2 Inkmoth Nexus
-3 Inkmoth Nexus
-4 Inkmoth Nexus
-1 Ancient Stirrings
-2 Ancient Stirrings
-3 Ancient Stirrings
-4 Ancient Stirrings
-1 Tarmogoyf
-1 Hangarback Walker
-1 Llanowar Reborn
-1 Blinkmoth Nexus
-1 Arcbound Worker
-1 Throne of Geth
-1 Arcbound Ravager
-1 Hardened Scales
-1 Springleaf Drum
-1 Animation Module
-1 The Ozolith
-1 Phyrexia's Core
-2 Tarmogoyf
-2 Hangarback Walker
-2 Springleaf Drum
-2 Animation Module
-2 Throne of Geth
-2 Llanowar Reborn
-2 The Ozolith
-2 Hardened Scales
-2 Arcbound Worker
-2 Phyrexia's Core
-2 Blinkmoth Nexus
-2 Arcbound Ravager
-3 Arcbound Ravager
-3 Springleaf Drum
-3 The Ozolith
-3 Hardened Scales
-3 Hangarback Walker
-3 Arcbound Worker
-4 Arcbound Ravager
-4 Hardened Scales
-4 Arcbound Worker
-4 Hangarback Walker
-4 The Ozolith
+3 Forest
 1 Blossoming Defense
-1 Vines of Vastwood
 1 Rancor
 1 Ichorclaw Myr
+1 Vines of Vastwood
 1 Glistener Elf
-1 Groundswell
 1 Might of Old Krosa
+1 Groundswell
 1 Scale Up
 2 Rancor
 2 Pendelhaven
 2 Vines of Vastwood
 2 Ichorclaw Myr
 2 Blossoming Defense
+2 Scale Up
 2 Groundswell
 2 Might of Old Krosa
-2 Scale Up
 2 Glistener Elf
 3 Groundswell
-3 Forest
 3 Glistener Elf
 3 Might of Old Krosa
 3 Vines of Vastwood
 3 Rancor
-3 Ichorclaw Myr
 3 Scale Up
+3 Ichorclaw Myr
 3 Blossoming Defense
 4 Scale Up
-4 Vines of Vastwood
 4 Glistener Elf
 4 Might of Old Krosa
 4 Blossoming Defense
+4 Vines of Vastwood
 4 Ichorclaw Myr
 1 Eldrazi Displacer
 2 Eldrazi Displacer
@@ -103,8 +103,8 @@
 3 Walking Ballista
 3 Wooded Bastion
 3 Duskwatch Recruiter
-4 Heliod, Sun-Crowned
 4 Spike Feeder
+4 Heliod, Sun-Crowned
 4 Duskwatch Recruiter
 4 Wooded Bastion
 4 Path to Exile
@@ -126,21 +126,52 @@
 1 Aven Mindcensor
 1 Thalia, Guardian of Thraben
 1 Flickerwisp
-2 Charming Prince
 2 Field of Ruin
-2 Thalia, Guardian of Thraben
 2 Knight of Autumn
+2 Thalia, Guardian of Thraben
 2 Flickerwisp
 2 Aven Mindcensor
-3 Charming Prince
+2 Charming Prince
 3 Thalia, Guardian of Thraben
 3 Field of Ruin
+3 Charming Prince
 4 Charming Prince
 4 Field of Ruin
+2 Snow-Covered Forest
+1 Llanowar Elves
+2 Llanowar Elves
+1 Ezuri, Renegade Leader
+1 Leyline of Abundance
+1 Elvish Archdruid
+1 Heritage Druid
+1 Joraga Treespeaker
+1 Devoted Druid
+1 Elvish Mystic
+2 Ezuri, Renegade Leader
+2 Elvish Mystic
+2 Leyline of Abundance
+2 Elvish Archdruid
+2 Devoted Druid
+2 Joraga Treespeaker
+2 Heritage Druid
+3 Elvish Mystic
+3 Llanowar Elves
+3 Devoted Druid
+3 Ezuri, Renegade Leader
+3 Leyline of Abundance
+3 Elvish Archdruid
+3 Heritage Druid
+4 Llanowar Elves
+4 Heritage Druid
+4 Devoted Druid
+4 Elvish Mystic
+4 Elvish Archdruid
+4 Ezuri, Renegade Leader
 3 Eldrazi Displacer
 1 Mirran Crusader
+1 Boreal Druid
+2 Boreal Druid
 2 Snow-Covered Plains
-2 Snow-Covered Forest
 1 Prismatic Vista
 2 Prismatic Vista
 3 Snow-Covered Forest
@@ -150,10 +181,9 @@
 1 Thought-Knot Seer
 1 Engineered Explosives
 1 Dromoka's Command
+1 Cavern of Souls
 1 Eldrazi Temple
 1 Elspeth, Knight-Errant
-1 Boreal Druid
-1 Cavern of Souls
 1 Matter Reshaper
 1 Reality Smasher
 1 Blast Zone
@@ -161,7 +191,6 @@
 2 Mirran Crusader
 2 Matter Reshaper
 2 Reality Smasher
-2 Boreal Druid
 2 Blast Zone
 2 Eldrazi Temple
 2 Cavern of Souls
@@ -171,14 +200,16 @@
 3 Reality Smasher
 4 Thought-Knot Seer
 4 Eldrazi Temple
-4 Eldrazi Displacer
 4 Reality Smasher
-1 Llanowar Elves
-2 Llanowar Elves
+4 Eldrazi Displacer
 2 Zirda, the Dawnwaker
 3 Snow-Covered Plains
 3 Aven Mindcensor
 4 Snow-Covered Plains
+3 Joraga Treespeaker
+4 Wooded Foothills
+4 Leyline of Abundance
+4 Joraga Treespeaker
 1 Arboreal Grazer
 1 Castle Ardenvale
 1 Thorn of Amethyst
@@ -201,43 +232,18 @@
 2 Brimaz, King of Oreskos
 3 Arboreal Grazer
 3 King of the Pride
-3 Pride Sovereign
 3 Qasali Pridemage
 3 Mana Tithe
+3 Pride Sovereign
 4 Arboreal Grazer
 4 Temple Garden
 4 Pride Sovereign
-1 Ezuri, Renegade Leader
-1 Leyline of Abundance
-1 Elvish Archdruid
-1 Heritage Druid
-1 Joraga Treespeaker
-1 Devoted Druid
-1 Elvish Mystic
-2 Ezuri, Renegade Leader
-2 Elvish Mystic
-2 Leyline of Abundance
-2 Elvish Archdruid
-2 Devoted Druid
-2 Joraga Treespeaker
-2 Heritage Druid
-3 Elvish Mystic
-3 Llanowar Elves
-3 Leyline of Abundance
-3 Devoted Druid
-3 Elvish Archdruid
-3 Joraga Treespeaker
-3 Heritage Druid
-3 Ezuri, Renegade Leader
-4 Llanowar Elves
-4 Wooded Foothills
-4 Heritage Druid
-4 Leyline of Abundance
-4 Joraga Treespeaker
-4 Devoted Druid
-4 Elvish Mystic
-4 Elvish Archdruid
-4 Ezuri, Renegade Leader
+1 Verdant Catacombs
+1 Mirror Entity
+1 Selfless Spirit
+2 Umbral Mantle
+3 Umbral Mantle
+4 Umbral Mantle
 1 Flagstones of Trokair
 1 Ramunap Excavator
 1 Tireless Tracker
@@ -249,20 +255,20 @@
 2 Dryad of the Ilysian Grove
 2 Tireless Tracker
 2 Valakut, the Molten Pinnacle
-2 Scavenging Ooze
 2 Sylvan Scrying
 2 Knight of the Reliquary
 2 Ramunap Excavator
+2 Scavenging Ooze
 2 Voice of Resurgence
 3 Tireless Tracker
-3 Scavenging Ooze
 3 Voice of Resurgence
-3 Dryad of the Ilysian Grove
 3 Knight of the Reliquary
 3 Ramunap Excavator
-4 Dryad of the Ilysian Grove
+3 Scavenging Ooze
+3 Dryad of the Ilysian Grove
 4 Ramunap Excavator
 4 Knight of the Reliquary
+4 Dryad of the Ilysian Grove
 5 Snow-Covered Forest
 3 Plains
 4 Plains

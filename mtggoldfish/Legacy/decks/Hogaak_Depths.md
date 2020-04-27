@@ -28,3 +28,10 @@
 |                                                                                           |                                                                                              |                                                                                                |1 [Assassin's Trophy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452902)|                                                                                    |
 |                                                                                           |                                                                                              |                                                                                                |1 [Force of Vigor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464113)   |                                                                                    |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                  Maindeck Card                                   |*n*<sup>th</sup> copy|                                   Sideboard Card                                    |
+|--------------------:|----------------------------------------------------------------------------------|--------------------:|-------------------------------------------------------------------------------------|
+|                    1|[Karakas](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413782)|                    1|[Bojuka Bog](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376269)|
+
