@@ -1,0 +1,40 @@
+# Burn
+
+#### [Export MTGO List](../collection/Burn/Burn.txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=1%09Bonecrusher%20Giant%0A4%09Chain%20Lightning%0A4%09Eidolon%20of%20the%20Great%20Revel%0A4%09Exquisite%20Firecraft%0A4%09Fireblast%0A4%09Goblin%20Guide%0A4%09Lava%20Spike%0A4%09Lightning%20Bolt%0A4%09Monastery%20Swiftspear%0A19%09Mountain%0A4%09Price%20of%20Progress%0A4%09Rift%20Bolt&deckside=2%09Dead%20/%20Gone%0A2%09Ensnaring%20Bridge%0A1%09Harsh%20Mentor%0A4%09Leyline%20of%20the%20Void%0A1%09Red%20Elemental%20Blast%0A3%09Smash%20to%20Smithereens%0A2%09Sulfuric%20Vortex)
+# Maindeck
+
+|                                             Creature (13)                                             |                                         Instant (12)                                         |                                      Land (19)                                       |                                          Sorcery (16)                                          |
+|-------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
+|1 [Bonecrusher Giant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473077)         |4 [Fireblast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=189239)        |19 [Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)|4 [Chain Lightning](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446139)    |
+|4 [Eidolon of the Great Revel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442117)|4 [Lightning Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=806)      |                                                                                      |4 [Exquisite Firecraft](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=398513)|
+|4 [Goblin Guide](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425921)              |4 [Price of Progress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413683)|                                                                                      |4 [Lava Spike](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=79084)          |
+|4 [Monastery Swiftspear](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438706)      |                                                                                              |                                                                                      |4 [Rift Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426589)          |
+
+
+# Sideboard
+
+|                                        Artifact (2)                                        |                                      Creature (1)                                       |                                        Enchantment (6)                                         |                                           Instant (4)                                           | Unknown (2) |
+|--------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|-------------|
+|2 [Ensnaring Bridge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=15866)|1 [Harsh Mentor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426837)|4 [Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)|1 [Red Elemental Blast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=814)    |2 Dead / Gone|
+|                                                                                            |                                                                                         |2 [Sulfuric Vortex](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382379)    |3 [Smash to Smithereens](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397795)|             |
+
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                       Maindeck Card                                        |*n*<sup>th</sup> copy|                                        Sideboard Card                                         |
+|--------------------:|--------------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------------|
+|                    1|[Barbarian Ring](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=29906)    |                    2|[Harsh Mentor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426837)        |
+|                    2|[Bonecrusher Giant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473077)|                    1|[Pyroblast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=4083)             |
+|                    2|[Barbarian Ring](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=29906)    |                    1|[Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)      |
+|                   20|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)         |                    1|[Sudden Shock](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370388)        |
+|                    1|[Pyrostatic Pillar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=44290) |                    1|[Volcanic Fallout](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220512)    |
+|                    1|[Grim Lavamancer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430589)  |                    2|[Pyroblast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=4083)             |
+|                    2|[Pyrostatic Pillar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=44290) |                    2|[Sudden Shock](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370388)        |
+|                     |                                                                                            |                    2|[Volcanic Fallout](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220512)    |
+|                     |                                                                                            |                    3|[Pyroblast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=4083)             |
+|                     |                                                                                            |                    1|[Pithing Needle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129526)      |
+|                     |                                                                                            |                    1|[Alpine Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447264)         |
+|                     |                                                                                            |                    3|[Sulfuric Vortex](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382379)     |
+|                     |                                                                                            |                    4|[Smash to Smithereens](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397795)|
+

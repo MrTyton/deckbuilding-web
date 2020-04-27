@@ -1,0 +1,64 @@
+# Boros Aggro
+
+#### [Export MTGO List](../collection/Boros%20Aggro/Boros%20Aggro.txt)
+#### [Export Arena List](../collection/Boros%20Aggro/Boros%20Aggro_arena.txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Boon%20of%20the%20Wish-Giver%0A4%09Drannith%20Healer%0A4%09Drannith%20Stinger%0A4%09Flourishing%20Fox%0A4%09Footfall%20Crater%0A4%09Frostveil%20Ambush%0A4%09Go%20for%20Blood%0A4%09Memory%20Leak%0A5%09Mountain%0A7%09Plains%0A4%09Sacred%20Foundry%0A4%09Startling%20Development%0A4%09Valiant%20Rescuer%0A4%09Zenith%20Flare&deckside=3%09Deafening%20Clarion%0A3%09Fry%0A3%09Hushbringer%0A1%09Lurrus%20of%20the%20Dream-Den%0A2%09Reptilian%20Reflection%0A3%09Scorching%20Dragonfire)
+# Maindeck
+
+|                                         Land (16)                                         |      Unknown (44)      |
+|-------------------------------------------------------------------------------------------|------------------------|
+|5 [Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)      |4 Boon of the Wish-Giver|
+|7 [Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)        |4 Drannith Healer       |
+|4 [Sacred Foundry](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405106)|4 Drannith Stinger      |
+|                                                                                           |4 Flourishing Fox       |
+|                                                                                           |4 Footfall Crater       |
+|                                                                                           |4 Frostveil Ambush      |
+|                                                                                           |4 Go for Blood          |
+|                                                                                           |4 Memory Leak           |
+|                                                                                           |4 Startling Development |
+|                                                                                           |4 Valiant Rescuer       |
+|                                                                                           |4 Zenith Flare          |
+
+
+# Sideboard
+
+|                                      Creature (3)                                      |                                           Instant (6)                                           |                                         Sorcery (3)                                          |       Unknown (3)       |
+|----------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|-------------------------|
+|3 [Hushbringer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472980)|3 [Fry](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466894)                 |3 [Deafening Clarion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452915)|1 Lurrus of the Dream-Den|
+|                                                                                        |3 [Scorching Dragonfire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473101)|                                                                                              |2 Reptilian Reflection   |
+
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                       Maindeck Card                                        |*n*<sup>th</sup> copy|                                           Sideboard Card                                            |
+|--------------------:|--------------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------------------|
+|                    1|[Blood Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=97102)       |                    1|[Shatter the Sky](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476288)           |
+|                    1|[Godless Shrine](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405099)   |                    1|Savai Thundermane                                                                                    |
+|                    2|[Godless Shrine](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405099)   |                    2|Savai Thundermane                                                                                    |
+|                    3|[Godless Shrine](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405099)   |                    2|[Shatter the Sky](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476288)           |
+|                    4|[Godless Shrine](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405099)   |                    3|Savai Thundermane                                                                                    |
+|                    1|[Blast Zone](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461171)       |                    1|Blitz of the Thunder-Raptor                                                                          |
+|                    1|[Temple of Triumph](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373560)|                    1|Light of Hope                                                                                        |
+|                    1|Savai Triome                                                                                |                    1|[Apostle of Purifying Light](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466760)|
+|                    1|Yidaro, Wandering Monster                                                                   |                    2|Blitz of the Thunder-Raptor                                                                          |
+|                    1|Raugrin Triome                                                                              |                    2|[Apostle of Purifying Light](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466760)|
+|                    1|[Banishing Light](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405135)  |                    2|Light of Hope                                                                                        |
+|                    1|Reptilian Reflection                                                                        |                    3|[Apostle of Purifying Light](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466760)|
+|                    1|[Castle Ardenvale](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473200) |                    3|Blitz of the Thunder-Raptor                                                                          |
+|                    1|Raking Claws                                                                                |                    1|[Bonecrusher Giant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473077)         |
+|                    2|[Blast Zone](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461171)       |                    2|[Bonecrusher Giant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473077)         |
+|                    2|Savai Triome                                                                                |                    3|Reptilian Reflection                                                                                 |
+|                    2|[Temple of Triumph](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373560)|                    4|[Deafening Clarion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452915)         |
+|                    2|Yidaro, Wandering Monster                                                                   |                    4|[Scorching Dragonfire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473101)      |
+|                    2|Reptilian Reflection                                                                        |                    4|Reptilian Reflection                                                                                 |
+|                    2|[Banishing Light](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405135)  |                    1|[Devout Decree](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466767)             |
+|                    2|Raking Claws                                                                                |                    1|[Revoke Existence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=378397)          |
+|                    3|Savai Triome                                                                                |                    1|[Tibalt, Rakish Instigator](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461073) |
+|                    3|Yidaro, Wandering Monster                                                                   |                    1|[Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452)         |
+|                    3|Reptilian Reflection                                                                        |                    2|[Devout Decree](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466767)             |
+|                    3|Raking Claws                                                                                |                    2|[Revoke Existence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=378397)          |
+|                    4|Savai Triome                                                                                |                    2|[Tibalt, Rakish Instigator](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461073) |
+|                    4|Yidaro, Wandering Monster                                                                   |                    2|[Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452)         |
+|                    4|Reptilian Reflection                                                                        |                    3|[Shatter the Sky](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476288)           |
+|                    6|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)         |                    3|[Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452)         |
+

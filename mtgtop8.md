@@ -11,7 +11,7 @@
 |[Adventure](./mtgtop8/Standard/decks/Adventure.md)          |[Fires of Invention](./mtgtop8/Standard/decks/Fires_of_Invention.md)|[Mono Black Aggro](./mtgtop8/Standard/decks/Mono_Black_Aggro.md)|[Rakdos Aggro](./mtgtop8/Standard/decks/Rakdos_Aggro.md)      |[UB Control](./mtgtop8/Standard/decks/UB_Control.md)      |
 |[Azorius Aggro](./mtgtop8/Standard/decks/Azorius_Aggro.md)  |[Golgari Aggro](./mtgtop8/Standard/decks/Golgari_Aggro.md)          |[Mono Blue Aggro](./mtgtop8/Standard/decks/Mono_Blue_Aggro.md)  |[Red Deck Wins](./mtgtop8/Standard/decks/Red_Deck_Wins.md)    |[UR Aggro](./mtgtop8/Standard/decks/UR_Aggro.md)          |
 |[Bant Aggro](./mtgtop8/Standard/decks/Bant_Aggro.md)        |[Gruul Aggro](./mtgtop8/Standard/decks/Gruul_Aggro.md)              |[Mono Green Aggro](./mtgtop8/Standard/decks/Mono_Green_Aggro.md)|[Simic Aggro](./mtgtop8/Standard/decks/Simic_Aggro.md)        |[UW Control](./mtgtop8/Standard/decks/UW_Control.md)      |
-|[Bant Control](./mtgtop8/Standard/decks/Bant_Control.md)    |[Gyruda](./mtgtop8/Standard/decks/Gyruda.md)                        |[Naya Aggro](./mtgtop8/Standard/decks/Naya_Aggro.md)            |[Simic Control](./mtgtop8/Standard/decks/Simic_Control.md)    |                                                          |
+|[Bant Control](./mtgtop8/Standard/decks/Bant_Control.md)    |[Gyruda](./mtgtop8/Standard/decks/Gyruda.md)                        |[Naya Aggro](./mtgtop8/Standard/decks/Naya_Aggro.md)            |[Simic Control](./mtgtop8/Standard/decks/Simic_Control.md)    |[Weenie White](./mtgtop8/Standard/decks/Weenie_White.md)  |
 |[Boros Aggro](./mtgtop8/Standard/decks/Boros_Aggro.md)      |[Jeskai Control](./mtgtop8/Standard/decks/Jeskai_Control.md)        |[Orzhov Aggro](./mtgtop8/Standard/decks/Orzhov_Aggro.md)        |[Sultai Aggro](./mtgtop8/Standard/decks/Sultai_Aggro.md)      |                                                          |
 |[Dimir Midrange](./mtgtop8/Standard/decks/Dimir_Midrange.md)|[Jeskai Midrange](./mtgtop8/Standard/decks/Jeskai_Midrange.md)      |[Orzhov Control](./mtgtop8/Standard/decks/Orzhov_Control.md)    |[Sultai Control](./mtgtop8/Standard/decks/Sultai_Control.md)  |                                                          |
 
@@ -61,4 +61,4 @@
 
 
 
-#### Last Updated at 01:22PM on April 25, 2020
+#### Last Updated at 11:49PM on April 26, 2020
