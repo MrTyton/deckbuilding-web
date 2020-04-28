@@ -28,3 +28,21 @@
 |1 [Sorcerous Spyglass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435407)|                                                                                             |                                                                                             |                      |
 |1 [Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)    |                                                                                             |                                                                                             |                      |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                        Maindeck Card                                         |*n*<sup>th</sup> copy|                                       Sideboard Card                                       |
+|--------------------:|----------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------|
+|                    1|[Mox Diamond](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=5193)          |                    1|[Swords to Plowshares](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=869)|
+|                    1|[Mystic Forge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466987)       |                    1|[Echoing Truth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405212)    |
+|                    2|[Mox Diamond](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=5193)          |                    2|[Swords to Plowshares](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=869)|
+|                    2|[Mystic Forge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466987)       |                    4|[Swords to Plowshares](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=869)|
+|                    3|[Manifold Key](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466984)       |                    3|[Swords to Plowshares](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=869)|
+|                    3|[Tundra](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=885)                |                     |                                                                                            |
+|                    3|[Mystic Forge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466987)       |                     |                                                                                            |
+|                    3|[Mox Diamond](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=5193)          |                     |                                                                                            |
+|                    4|[Mystic Forge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466987)       |                     |                                                                                            |
+|                    4|[City of Traitors](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=6168)     |                     |                                                                                            |
+|                    4|[Karn, Scion of Urza](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442889)|                     |                                                                                            |
+|                    4|[Cavern of Souls](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278058)    |                     |                                                                                            |
+

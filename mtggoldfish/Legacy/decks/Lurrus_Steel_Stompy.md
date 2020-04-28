@@ -1,7 +1,7 @@
 # Lurrus Steel Stompy
 
 #### [Export MTGO List](../collection/Lurrus%20Steel%20Stompy/Lurrus%20Steel%20Stompy.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Ancient%20Den%0A4%09Ancient%20Tomb%0A4%09Arcbound%20Ravager%0A4%09Chalice%20of%20the%20Void%0A4%09City%20of%20Traitors%0A1%09Hangarback%20Walker%0A2%09Karakas%0A4%09Lotus%20Petal%0A3%09Mishra's%20Factory%0A4%09Mox%20Opal%0A4%09Phyrexian%20Revoker%0A1%09Plains%0A4%09Steel%20Overseer%0A4%09Stonecoil%20Serpent%0A2%09Thorn%20of%20Amethyst%0A1%09Urborg,%20Tomb%20of%20Yawgmoth%0A4%09Urza's%20Bauble%0A4%09Walking%20Ballista%0A2%09Wasteland&deckside=2%09Disenchant%0A1%09Lurrus%20of%20the%20Dream%20Den%0A2%09Sorcerous%20Spyglass%0A2%09Swords%20to%20Plowshares%0A2%09Thorn%20of%20Amethyst%0A2%09Tormod's%20Crypt%0A2%09Warping%20Wail%0A2%09Wasteland)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Ancient%20Den%0A4%09Ancient%20Tomb%0A4%09Arcbound%20Ravager%0A4%09Chalice%20of%20the%20Void%0A4%09City%20of%20Traitors%0A1%09Hangarback%20Walker%0A2%09Karakas%0A4%09Lotus%20Petal%0A3%09Mishra's%20Factory%0A4%09Mox%20Opal%0A4%09Phyrexian%20Revoker%0A1%09Plains%0A4%09Steel%20Overseer%0A4%09Stonecoil%20Serpent%0A2%09Thorn%20of%20Amethyst%0A1%09Urborg,%20Tomb%20of%20Yawgmoth%0A4%09Urza's%20Bauble%0A4%09Walking%20Ballista%0A2%09Wasteland&deckside=1%09Disenchant%0A1%09Lurrus%20of%20the%20Dream%20Den%0A1%09Plague%20Engineer%0A2%09Sorcerous%20Spyglass%0A2%09Swords%20to%20Plowshares%0A2%09Thorn%20of%20Amethyst%0A2%09Tormod's%20Crypt%0A2%09Warping%20Wail%0A2%09Wasteland)
 # Maindeck
 
 |                                         Artifact (18)                                          |                                        Creature (21)                                         |                                              Land (21)                                              |
@@ -18,16 +18,19 @@
 
 # Sideboard
 
-|                                         Artifact (6)                                          |                                         Instant (6)                                          |                                       Land (2)                                       |       Unknown (1)       |
-|-----------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|-------------------------|
-|2 [Sorcerous Spyglass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435407)|2 [Disenchant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=847)          |2 [Wasteland](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413790)|1 Lurrus of the Dream Den|
-|2 [Thorn of Amethyst](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=140166) |2 [Swords to Plowshares](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=869)|                                                                                      |                         |
-|2 [Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)    |2 [Warping Wail](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407522)     |                                                                                      |                         |
+|                                         Artifact (6)                                          |                                        Creature (1)                                        |                                         Instant (5)                                          |                                       Land (2)                                       |       Unknown (1)       |
+|-----------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|-------------------------|
+|2 [Sorcerous Spyglass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435407)|1 [Plague Engineer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464049)|1 [Disenchant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=847)          |2 [Wasteland](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413790)|1 Lurrus of the Dream Den|
+|2 [Thorn of Amethyst](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=140166) |                                                                                            |2 [Swords to Plowshares](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=869)|                                                                                      |                         |
+|2 [Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)    |                                                                                            |2 [Warping Wail](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407522)     |                                                                                      |                         |
 
 
 # Other Options
 
-|*n*<sup>th</sup> copy|Maindeck Card|*n*<sup>th</sup> copy|                                      Sideboard Card                                      |
-|---------------------|-------------|--------------------:|------------------------------------------------------------------------------------------|
-|                     |             |                    1|[Plague Engineer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464049)|
+|*n*<sup>th</sup> copy|                                      Maindeck Card                                      |*n*<sup>th</sup> copy|                                             Sideboard Card                                             |
+|--------------------:|-----------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------------------|
+|                    1|[Umezawa's Jitte](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=81979)|                    2|[Disenchant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=847)                      |
+|                    3|[Wasteland](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413790)     |                    1|[The Tabernacle at Pendrell Vale](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=1690)|
+|                    4|[Wasteland](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413790)     |                    2|[Sphere of Resistance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=6160)           |
+|                     |                                                                                         |                    1|[Sphere of Resistance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=6160)           |
 

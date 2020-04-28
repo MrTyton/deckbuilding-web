@@ -1,6 +1,6 @@
+2 Temple Garden
 1 Horizon Canopy
 1 Noble Hierarch
-2 Temple Garden
 1 Giver of Runes
 2 Giver of Runes
 3 Giver of Runes
@@ -25,8 +25,8 @@
 3 Birds of Paradise
 4 Windswept Heath
 4 Birds of Paradise
-1 Heliod, Sun-Crowned
 1 Spike Feeder
+1 Heliod, Sun-Crowned
 1 Ranger-Captain of Eos
 2 Ranger-Captain of Eos
 3 Ranger-Captain of Eos
@@ -41,6 +41,7 @@
 3 Collected Company
 4 Collected Company
 1 Sword of Light and Shadow
+3 Walking Ballista
 1 Umbral Mantle
 1 Gavony Township
 1 Wooded Foothills
@@ -59,29 +60,29 @@
 4 Eladamri's Call
 3 Forest
 1 Blossoming Defense
+1 Vines of Vastwood
 1 Rancor
 1 Ichorclaw Myr
-1 Vines of Vastwood
 1 Glistener Elf
-1 Might of Old Krosa
 1 Groundswell
+1 Might of Old Krosa
 1 Scale Up
 2 Rancor
 2 Pendelhaven
 2 Vines of Vastwood
 2 Ichorclaw Myr
 2 Blossoming Defense
-2 Scale Up
 2 Groundswell
 2 Might of Old Krosa
+2 Scale Up
 2 Glistener Elf
+3 Rancor
 3 Groundswell
 3 Glistener Elf
 3 Might of Old Krosa
 3 Vines of Vastwood
-3 Rancor
-3 Scale Up
 3 Ichorclaw Myr
+3 Scale Up
 3 Blossoming Defense
 4 Scale Up
 4 Glistener Elf
@@ -98,11 +99,10 @@
 2 Wooded Bastion
 2 Duskwatch Recruiter
 2 Spike Feeder
-3 Heliod, Sun-Crowned
 3 Spike Feeder
-3 Walking Ballista
 3 Wooded Bastion
 3 Duskwatch Recruiter
+3 Heliod, Sun-Crowned
 4 Spike Feeder
 4 Heliod, Sun-Crowned
 4 Duskwatch Recruiter
@@ -126,25 +126,25 @@
 1 Aven Mindcensor
 1 Thalia, Guardian of Thraben
 1 Flickerwisp
-2 Field of Ruin
 2 Knight of Autumn
+2 Field of Ruin
+2 Charming Prince
 2 Thalia, Guardian of Thraben
 2 Flickerwisp
 2 Aven Mindcensor
-2 Charming Prince
+3 Charming Prince
 3 Thalia, Guardian of Thraben
 3 Field of Ruin
-3 Charming Prince
 4 Charming Prince
 4 Field of Ruin
 2 Snow-Covered Forest
 1 Llanowar Elves
 2 Llanowar Elves
 1 Ezuri, Renegade Leader
-1 Leyline of Abundance
-1 Elvish Archdruid
 1 Heritage Druid
+1 Elvish Archdruid
 1 Joraga Treespeaker
+1 Leyline of Abundance
 1 Devoted Druid
 1 Elvish Mystic
 2 Ezuri, Renegade Leader
@@ -181,9 +181,9 @@
 1 Thought-Knot Seer
 1 Engineered Explosives
 1 Dromoka's Command
-1 Cavern of Souls
 1 Eldrazi Temple
 1 Elspeth, Knight-Errant
+1 Cavern of Souls
 1 Matter Reshaper
 1 Reality Smasher
 1 Blast Zone
@@ -200,9 +200,11 @@
 3 Reality Smasher
 4 Thought-Knot Seer
 4 Eldrazi Temple
-4 Reality Smasher
 4 Eldrazi Displacer
+4 Reality Smasher
 2 Zirda, the Dawnwaker
+3 Animation Module
+4 Walking Ballista
 3 Snow-Covered Plains
 3 Aven Mindcensor
 4 Snow-Covered Plains
@@ -213,22 +215,22 @@
 1 Arboreal Grazer
 1 Castle Ardenvale
 1 Thorn of Amethyst
-1 Regal Caracal
 1 Brimaz, King of Oreskos
 1 King of the Pride
 1 Mana Tithe
 1 Sunpetal Grove
+1 Regal Caracal
 1 Qasali Pridemage
 1 Stirring Wildwood
 1 Pride Sovereign
 2 Arboreal Grazer
 2 Thorn of Amethyst
+2 King of the Pride
 2 Qasali Pridemage
 2 Mana Tithe
 2 Sunpetal Grove
 2 Pride Sovereign
 2 Regal Caracal
-2 King of the Pride
 2 Brimaz, King of Oreskos
 3 Arboreal Grazer
 3 King of the Pride
@@ -247,28 +249,28 @@
 1 Flagstones of Trokair
 1 Ramunap Excavator
 1 Tireless Tracker
+1 Valakut, the Molten Pinnacle
 1 Dryad of the Ilysian Grove
 1 Bojuka Bog
 1 Sylvan Scrying
-1 Valakut, the Molten Pinnacle
 1 Voice of Resurgence
+2 Valakut, the Molten Pinnacle
 2 Dryad of the Ilysian Grove
 2 Tireless Tracker
-2 Valakut, the Molten Pinnacle
+2 Scavenging Ooze
 2 Sylvan Scrying
 2 Knight of the Reliquary
 2 Ramunap Excavator
-2 Scavenging Ooze
 2 Voice of Resurgence
+3 Dryad of the Ilysian Grove
 3 Tireless Tracker
+3 Scavenging Ooze
 3 Voice of Resurgence
 3 Knight of the Reliquary
 3 Ramunap Excavator
-3 Scavenging Ooze
-3 Dryad of the Ilysian Grove
+4 Dryad of the Ilysian Grove
 4 Ramunap Excavator
 4 Knight of the Reliquary
-4 Dryad of the Ilysian Grove
 5 Snow-Covered Forest
 3 Plains
 4 Plains

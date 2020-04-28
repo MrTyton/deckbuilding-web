@@ -24,8 +24,8 @@
 1 Flooded Strand
 2 Flooded Strand
 3 Opt
-1 Hallowed Fountain
 1 Field of Ruin
+1 Hallowed Fountain
 1 Deprive
 1 Kaya's Guile
 2 Field of Ruin
@@ -64,9 +64,9 @@
 1 Lonely Sandbar
 1 Stomping Ground
 1 Hedron Crab
+1 Ketria Triome
 1 Creeping Chill
 1 Bloodghast
-1 Ketria Triome
 1 Ox of Agonas
 1 Conflagrate
 1 Golgari Thug
@@ -93,13 +93,13 @@
 2 Lonely Sandbar
 3 Hedron Crab
 3 Creeping Chill
-3 Steam Vents
 3 Bloodghast
 3 Cathartic Reunion
 3 Prized Amalgam
 3 Life from the Loam
 3 Tome Scour
 3 Stinkweed Imp
+3 Steam Vents
 3 Narcomoeba
 4 Hedron Crab
 4 Creeping Chill
@@ -110,13 +110,11 @@
 4 Prized Amalgam
 4 Narcomoeba
 4 Life from the Loam
-1 Wooded Foothills
 1 Castle Vantress
 1 Summoner's Pact
 1 Forgotten Cave
-1 Valakut, the Molten Pinnacle
-1 Bojuka Bog
 1 Dryad of the Ilysian Grove
+1 Valakut, the Molten Pinnacle
 1 Pendelhaven
 1 Field of the Dead
 1 Oboro, Palace in the Clouds
@@ -126,16 +124,18 @@
 1 Forest
 1 Minamo, School at Water's Edge
 1 Sakura-Tribe Scout
+1 Wooded Foothills
 1 Explore
 1 Bring to Light
-2 Wooded Foothills
+1 Bojuka Bog
 2 Field of the Dead
 2 Summoner's Pact
-2 Valakut, the Molten Pinnacle
 2 Dryad of the Ilysian Grove
+2 Valakut, the Molten Pinnacle
 2 Explore
 2 Scapeshift
 2 Bring to Light
+2 Wooded Foothills
 2 Sakura-Tribe Scout
 3 Wooded Foothills
 3 Dryad of the Ilysian Grove

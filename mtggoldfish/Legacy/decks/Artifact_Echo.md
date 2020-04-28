@@ -66,6 +66,6 @@
 |                     |                                                                                                        |                    1|[Pyroblast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=4083)             |
 |                     |                                                                                                        |                    1|[Teferi's Puzzle Box](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=15410)  |
 |                     |                                                                                                        |                    1|[Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)              |
-|                     |                                                                                                        |                    2|[Pyroblast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=4083)             |
 |                     |                                                                                                        |                    3|[Pyroblast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=4083)             |
+|                     |                                                                                                        |                    2|[Pyroblast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=4083)             |
 

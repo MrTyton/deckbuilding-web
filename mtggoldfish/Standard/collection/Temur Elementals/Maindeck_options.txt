@@ -1,20 +1,21 @@
+2 Nissa, Who Shakes the World
+3 Nissa, Who Shakes the World
+5 Forest
 1 Castle Vantress
-1 Agent of Treachery
 1 Thassa, Deep-Dwelling
-2 Agent of Treachery
 2 Thassa, Deep-Dwelling
-4 Omnath, Locus of the Roil
+4 Steam Vents
+1 Illuna, Apex of Wishes
 6 Forest
 1 Hydroid Krasis
 2 Hydroid Krasis
-1 Illuna, Apex of Wishes
 3 Agent of Treachery
-4 Steam Vents
 4 Temple of Mystery
 1 Parcelbeast
 4 Arboreal Grazer
 1 Tamiyo, Collector of Tales
 2 Tamiyo, Collector of Tales
+2 Temple of Abandon
 1 Genesis Ultimatum
 1 Temple of Epiphany
 4 Nissa, Who Shakes the World
@@ -26,7 +27,6 @@
 2 Parcelbeast
 2 Mountain
 2 Temple of Epiphany
-2 Temple of Abandon
 3 Thassa, Deep-Dwelling
 2 Genesis Ultimatum
 3 Parcelbeast
@@ -42,23 +42,28 @@
 4 Island
 5 Island
 1 Mystical Dispute
-1 Overgrown Tomb
 1 Gilded Goose
 1 Temple of Malady
-1 Swamp
 1 Watery Grave
+1 Swamp
+1 Overgrown Tomb
 1 Yarok, the Desecrated
-2 Gilded Goose
-2 Overgrown Tomb
 2 Temple of Malady
+2 Gilded Goose
 2 Watery Grave
+2 Overgrown Tomb
 2 Yarok, the Desecrated
-3 Overgrown Tomb
 3 Gilded Goose
 3 Watery Grave
-4 Overgrown Tomb
+3 Overgrown Tomb
 4 Gilded Goose
+4 Overgrown Tomb
+2 Illuna, Apex of Wishes
+3 Illuna, Apex of Wishes
 1 Flame Sweep
+1 Scampering Scorcher
+2 Scampering Scorcher
+3 Scampering Scorcher
 1 Jace, Wielder of Mysteries
 1 Healer of the Glade
 1 Quasiduplicate
@@ -66,121 +71,123 @@
 3 Healer of the Glade
 1 Finale of Devastation
 4 Parcelbeast
+1 Lotus Field
+1 Bonders' Enclave
 1 Song of Creation
 1 Dryad of the Ilysian Grove
 1 Thornwood Falls
-1 Lotus Field
 1 Nyxbloom Ancient
-1 Bonders' Enclave
 1 Cloudkin Seer
-2 Cloudkin Seer
 2 Rugged Highlands
+2 Cloudkin Seer
 2 Thornwood Falls
 2 Dryad of the Ilysian Grove
 3 Cloudkin Seer
 1 Zagoth Triome
-1 Castle Locthwain
 1 Vivien, Monsters' Advocate
 1 Kogla, the Titan Ape
+1 Castle Locthwain
 1 Atris, Oracle of Half-Truths
 1 Assassin's Trophy
 1 Golgari Findbroker
 1 Wicked Wolf
-2 Zagoth Triome
 2 Vivien, Monsters' Advocate
+2 Zagoth Triome
 2 Assassin's Trophy
 3 Zagoth Triome
 3 Temple of Malady
 4 Zagoth Triome
 1 Mythos of Illuna
 2 Mythos of Illuna
-3 Temple of Epiphany
 3 Temple of Abandon
-4 Genesis Ultimatum
+3 Temple of Epiphany
 4 Temple of Epiphany
+4 Genesis Ultimatum
 4 Temple of Abandon
-1 Temple of Plenty
-1 Plains
-1 Temple of Enlightenment
-1 Blast Zone
 1 Raugrin Triome
-1 Temple Garden
 1 Sacred Foundry
-1 The Great Henge
 1 Charming Prince
+1 Plains
+1 Temple of Plenty
+1 Temple Garden
 1 Hallowed Fountain
+1 Temple of Enlightenment
+1 The Great Henge
+1 Blast Zone
 1 Escape to the Wilds
 1 End-Raze Forerunners
 1 Maraleaf Pixie
 1 Paradise Druid
-2 Temple of Plenty
 2 Raugrin Triome
+2 Temple of Plenty
+2 Charming Prince
+2 Hallowed Fountain
 2 Temple Garden
 2 Paradise Druid
-2 Charming Prince
 2 Maraleaf Pixie
-2 Hallowed Fountain
 3 Raugrin Triome
-3 Paradise Druid
-3 Temple Garden
 3 Hallowed Fountain
+3 Temple Garden
+3 Paradise Druid
 3 Maraleaf Pixie
-4 Hallowed Fountain
 4 Temple Garden
+4 Hallowed Fountain
 4 Paradise Druid
-1 Fblthp, the Lost
 1 Thassa's Oracle
-2 Fblthp, the Lost
+1 Fblthp, the Lost
 2 Thassa's Oracle
+2 Fblthp, the Lost
 2 Spark Double
 3 Spark Double
 6 Island
 1 Incubation/Incongruity
-1 Scampering Scorcher
 1 Thunderkin Awakener
-2 Scampering Scorcher
-2 Thunderkin Awakener
 2 Incubation/Incongruity
+2 Thunderkin Awakener
 3 Incubation/Incongruity
-3 Scampering Scorcher
 4 Incubation/Incongruity
 2 Mystical Dispute
 2 Flame Sweep
-2 Illuna, Apex of Wishes
 3 Flame Sweep
-3 Illuna, Apex of Wishes
+1 Umori, the Collector
+1 Brazen Borrower
+1 Yorion, Sky Nomad
+2 Umori, the Collector
+2 Yorion, Sky Nomad
+2 Brazen Borrower
+3 Brazen Borrower
 1 Storm's Wrath
 2 Storm's Wrath
 2 Jace, Wielder of Mysteries
-3 Jace, Wielder of Mysteries
 3 Storm's Wrath
+3 Jace, Wielder of Mysteries
+1 Polukranos, Unchained
+1 Temple of Deceit
+1 Command the Dreadhorde
+2 Command the Dreadhorde
+2 Temple of Deceit
+2 Quasiduplicate
+3 Command the Dreadhorde
+4 Watery Grave
+4 Healer of the Glade
 1 Inspired Ultimatum
-1 Ruinous Ultimatum
-1 Clear the Mind
 1 Mystic Sanctuary
 1 Fires of Invention
+1 Clear the Mind
+1 Ruinous Ultimatum
 2 Inspired Ultimatum
 2 Fires of Invention
 2 Castle Vantress
 2 Ruinous Ultimatum
 3 Inspired Ultimatum
-3 Ruinous Ultimatum
 3 Fires of Invention
+3 Ruinous Ultimatum
 4 Fires of Invention
 4 Ruinous Ultimatum
-1 Polukranos, Unchained
-1 Command the Dreadhorde
-1 Temple of Deceit
-2 Command the Dreadhorde
-2 Temple of Deceit
-2 Quasiduplicate
-3 Command the Dreadhorde
-4 Healer of the Glade
-4 Watery Grave
 1 Unsummon
 2 Unsummon
-3 Hydroid Krasis
 3 Unsummon
+3 Hydroid Krasis
 7 Forest
 8 Forest
 9 Forest

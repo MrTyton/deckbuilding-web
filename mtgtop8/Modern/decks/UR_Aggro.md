@@ -26,3 +26,12 @@
 |                                                                                                 |2 [Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)|1 [Unearth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442102)             |                         |
 |                                                                                                 |1 [Spell Snare](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446100)     |                                                                                                 |                         |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                     Maindeck Card                                      |*n*<sup>th</sup> copy|                                        Sideboard Card                                         |
+|--------------------:|----------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------------|
+|                    4|[Scalding Tarn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405107)|                    1|[Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)      |
+|                    2|[Spell Snare](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446100)  |                    3|[Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)    |
+|                     |                                                                                        |                    3|[Collective Brutality](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414380)|
+

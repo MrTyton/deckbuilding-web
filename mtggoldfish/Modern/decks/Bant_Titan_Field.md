@@ -37,11 +37,11 @@
 
 |*n*<sup>th</sup> copy|                                       Maindeck Card                                       |*n*<sup>th</sup> copy|Sideboard Card|
 |--------------------:|-------------------------------------------------------------------------------------------|---------------------|--------------|
+|                    1|[Wooded Foothills](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405116)|                     |              |
+|                    2|[Wooded Foothills](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405116)|                     |              |
+|                    4|[Windswept Heath](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405115) |                     |              |
 |                    2|[Hour of Promise](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430809) |                     |              |
 |                    2|[Breeding Pool](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=97088)    |                     |              |
 |                    3|[Hour of Promise](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430809) |                     |              |
 |                    4|[Hour of Promise](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430809) |                     |              |
-|                    1|[Wooded Foothills](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405116)|                     |              |
-|                    2|[Wooded Foothills](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405116)|                     |              |
-|                    4|[Windswept Heath](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405115) |                     |              |
 

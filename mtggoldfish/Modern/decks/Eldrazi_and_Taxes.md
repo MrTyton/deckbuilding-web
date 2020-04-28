@@ -55,6 +55,6 @@
 |                    2|[Tectonic Edge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389711)           |                    1|[Fairgrounds Warden](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417586)       |
 |                    4|[Charming Prince](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472970)         |                    1|[Giant Killer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472976)             |
 |                    1|[Field of Ruin](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435415)           |                    1|[Sword of Feast and Famine](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=214070)|
-|                    2|[Field of Ruin](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435415)           |                    1|[Wall of Omens](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=247400)            |
-|                     |                                                                                                   |                    2|[Remorseful Cleric](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447169)        |
+|                    2|[Field of Ruin](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435415)           |                    2|[Remorseful Cleric](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447169)        |
+|                     |                                                                                                   |                    1|[Wall of Omens](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=247400)            |
 

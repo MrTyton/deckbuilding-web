@@ -10,8 +10,8 @@
 2 Sunpetal Grove
 3 Sunpetal Grove
 3 Temple Garden
-4 Sunpetal Grove
 4 Temple Garden
+4 Sunpetal Grove
 1 Llanowar Elves
 2 Llanowar Elves
 3 Llanowar Elves
@@ -26,8 +26,8 @@
 2 Elvish Mystic
 3 Elvish Mystic
 3 Fortified Village
-4 Fortified Village
 4 Elvish Mystic
+4 Fortified Village
 3 Voice of Resurgence
 7 Forest
 8 Forest
@@ -66,13 +66,13 @@
 1 Calix, Destiny's Hand
 1 Herald of the Pantheon
 2 Wolfwillow Haven
-2 Banishing Light
 2 Setessan Champion
-2 Sphere of Safety
+2 Banishing Light
 2 Eidolon of Blossoms
 2 Sigil of the Empty Throne
 2 Herald of the Pantheon
 2 Temple of Plenty
+2 Sphere of Safety
 3 Temple of Plenty
 3 Wolfwillow Haven
 3 Eidolon of Blossoms
@@ -102,8 +102,8 @@
 4 Godless Shrine
 1 Isolated Chapel
 1 Archangel Avacyn
-2 Isolated Chapel
 2 Archangel Avacyn
+2 Isolated Chapel
 1 Benalish Marshal
 2 Benalish Marshal
 1 Caves of Koilos
@@ -138,17 +138,13 @@
 1 Always Watching
 2 Selfless Spirit
 2 Sorin, Vengeful Bloodlord
-2 Always Watching
 2 Stasis Snare
+2 Always Watching
 2 Caves of Koilos
 3 Isolated Chapel
 3 Caves of Koilos
 4 Isolated Chapel
 2 Seal Away
-1 Starfield Mystic
-1 Cast Out
-3 Gideon's Intervention
-4 Gideon's Intervention
 1 Collected Company
 1 Shared Summons
 1 Bygone Bishop
@@ -163,6 +159,10 @@
 3 Radiant Fountain
 4 Collected Company
 4 Militia Bugler
+1 Starfield Mystic
+1 Cast Out
+3 Gideon's Intervention
+4 Gideon's Intervention
 3 Daxos, Blessed by the Sun
 4 Spell Queller
 1 Sacred Foundry
@@ -177,50 +177,50 @@
 4 Bomat Courier
 1 Legion's Landing
 1 Reckless Bushwhacker
+1 Battlefield Forge
 1 Shefet Dunes
 1 Lightning Strike
 1 Secure the Wastes
-1 Battlefield Forge
 1 Toolcraft Exemplar
 1 Servo Exhibition
 1 Clifftop Retreat
 1 Raise the Alarm
 2 Legion's Landing
+2 Battlefield Forge
 2 Reckless Bushwhacker
 2 Shefet Dunes
 2 Lightning Strike
-2 Battlefield Forge
 2 Toolcraft Exemplar
 2 Gideon, Ally of Zendikar
 2 Raise the Alarm
 2 Servo Exhibition
-3 Legion's Landing
-3 Reckless Bushwhacker
-3 Lightning Strike
 3 Battlefield Forge
+3 Reckless Bushwhacker
+3 Legion's Landing
+3 Lightning Strike
 3 Toolcraft Exemplar
+3 Benalish Marshal
 3 Gideon, Ally of Zendikar
 3 Servo Exhibition
-3 Benalish Marshal
 3 Raise the Alarm
-4 Legion's Landing
-4 Reckless Bushwhacker
-4 Battlefield Forge
 4 Inspiring Vantage
-4 Toolcraft Exemplar
+4 Battlefield Forge
+4 Reckless Bushwhacker
+4 Legion's Landing
 4 Benalish Marshal
+4 Toolcraft Exemplar
 4 Raise the Alarm
 4 Sacred Foundry
+1 Faerie Vandal
 1 Defiant Strike
 1 Favored Hoplite
-1 Staggering Insight
 1 Gods Willing
+1 Staggering Insight
 1 Curious Obsession
 1 Reckless Rage
 1 Steam Vents
 1 The Royal Scions
 1 Spirebluff Canal
-1 Faerie Vandal
 1 Slip Through Space
 1 Tenth District Legionnaire
 1 Monastery Swiftspear
@@ -230,18 +230,18 @@
 2 Gods Willing
 2 Staggering Insight
 2 Curious Obsession
-2 Reckless Rage
 2 Tenth District Legionnaire
 2 Monastery Swiftspear
 2 The Royal Scions
 2 Steam Vents
+2 Reckless Rage
 2 Faerie Vandal
 3 The Royal Scions
 3 Defiant Strike
 3 Favored Hoplite
 3 Gods Willing
-3 Curious Obsession
 3 Staggering Insight
+3 Curious Obsession
 3 Reckless Rage
 3 Faerie Vandal
 3 Monastery Swiftspear
@@ -265,10 +265,9 @@
 1 Growth Spiral
 1 Cavalier of Thorns
 1 Castle Garenbrig
-1 Nissa's Pilgrimage
 1 Hinterland Harbor
-1 World Breaker
 1 Tamiyo, Collector of Tales
+1 World Breaker
 1 Kiora Bests the Sea God
 1 Arboreal Grazer
 1 Ugin, the Spirit Dragon
@@ -276,6 +275,7 @@
 1 Uro, Titan of Nature's Wrath
 1 Yavimaya Coast
 1 Island
+1 Nissa's Pilgrimage
 1 Ipnu Rivulet
 1 Breeding Pool
 2 Growth Spiral
@@ -283,36 +283,36 @@
 2 Castle Garenbrig
 2 Cavalier of Thorns
 2 Ugin, the Spirit Dragon
-2 Nissa's Pilgrimage
-2 World Breaker
 2 Ipnu Rivulet
+2 World Breaker
 2 Blast Zone
 2 Hinterland Harbor
+2 Nissa's Pilgrimage
 2 Arboreal Grazer
 2 Breeding Pool
 2 Uro, Titan of Nature's Wrath
 2 Yavimaya Coast
 3 Nissa, Who Shakes the World
 3 Hinterland Harbor
-3 Castle Garenbrig
-3 Nissa's Pilgrimage
-3 Cavalier of Thorns
-3 Ugin, the Spirit Dragon
 3 Ipnu Rivulet
+3 Ugin, the Spirit Dragon
 3 Uro, Titan of Nature's Wrath
 3 Breeding Pool
+3 Cavalier of Thorns
 3 Arboreal Grazer
-4 Ipnu Rivulet
+3 Nissa's Pilgrimage
+3 Castle Garenbrig
 4 Cavalier of Thorns
+4 Ipnu Rivulet
 4 Breeding Pool
 4 Uro, Titan of Nature's Wrath
 4 Nissa's Pilgrimage
 4 Arboreal Grazer
 1 Nissa, Vastwood Seer
-1 Hissing Quagmire
-1 Ramunap Excavator
-1 Tasigur, the Golden Fang
 1 Polukranos, Unchained
+1 Ramunap Excavator
+1 Hissing Quagmire
+1 Tasigur, the Golden Fang
 1 Ishkanah, Grafwidow
 1 Thrashing Brontodon
 1 Scrapheap Scrounger
@@ -330,6 +330,7 @@
 1 Castle Locthwain
 2 Castle Locthwain
 4 Concealed Courtyard
+1 Shalai, Voice of Plenty
 1 Bolas's Citadel
 1 Temple of Silence
 1 Shambling Vent
@@ -337,7 +338,6 @@
 1 Seraph of the Scales
 1 Lyra Dawnbringer
 1 Liliana, Dreadhorde General
-1 Shalai, Voice of Plenty
 1 Bishop of Wings
 1 Gisela, the Broken Blade
 1 Resplendent Angel
@@ -346,10 +346,10 @@
 1 Anguished Unmaking
 1 Archangel of Tithes
 2 Seraph of the Scales
+2 Temple of Silence
 2 Resplendent Angel
 2 Revival / Revenge
 2 Bishop of Wings
-2 Temple of Silence
 3 Temple of Silence
 3 Bishop of Wings
 3 Resplendent Angel
@@ -368,8 +368,8 @@
 1 Ghor-Clan Rampager
 1 Pelt Collector
 1 Experiment One
-1 Atarka's Command
 1 Boros Charm
+1 Atarka's Command
 1 Bronzehide Lion
 1 Gruul Spellbreaker
 1 Fleecemane Lion
@@ -378,18 +378,18 @@
 2 Questing Beast
 2 Pelt Collector
 2 Experiment One
-2 Atarka's Command
 2 Boros Charm
+2 Atarka's Command
 2 Gruul Spellbreaker
 2 Fleecemane Lion
 2 Rootbound Crag
 2 Bronzehide Lion
 3 Pelt Collector
 3 Experiment One
+3 Boros Charm
 3 Atarka's Command
 3 Ghor-Clan Rampager
 3 Questing Beast
-3 Boros Charm
 3 Rootbound Crag
 3 Bronzehide Lion
 3 Gruul Spellbreaker
@@ -403,54 +403,54 @@
 1 Mutavault
 2 Mutavault
 1 Stonecoil Serpent
-1 Spire of Industry
-1 Gingerbrute
 1 Steel Overseer
-1 Metallic Rebuke
-1 Ghostfire Blade
-1 Hope of Ghirapur
-1 Springleaf Drum
 1 Aether Hub
+1 Springleaf Drum
+1 Metallic Rebuke
+1 Hope of Ghirapur
+1 Spire of Industry
 1 Ensoul Artifact
 1 Darksteel Citadel
+1 Gingerbrute
+1 Ghostfire Blade
 1 Shrapnel Blast
 1 All That Glitters
 1 Ornithopter
 2 Stonecoil Serpent
-2 Springleaf Drum
-2 Spire of Industry
-2 Gingerbrute
 2 Steel Overseer
+2 Aether Hub
+2 Springleaf Drum
 2 Metallic Rebuke
 2 Hope of Ghirapur
 2 All That Glitters
-2 Aether Hub
+2 Spire of Industry
 2 Ornithopter
 2 Darksteel Citadel
+2 Gingerbrute
 2 Ensoul Artifact
 2 Ghostfire Blade
 2 Shrapnel Blast
 3 Stonecoil Serpent
-3 Mana Confluence
-3 Aether Hub
-3 Gingerbrute
 3 Steel Overseer
 3 Springleaf Drum
+3 Aether Hub
+3 Mana Confluence
 3 Spire of Industry
 3 Darksteel Citadel
 3 Ornithopter
+3 Gingerbrute
 3 Ensoul Artifact
 3 Ghostfire Blade
 3 Shrapnel Blast
 3 All That Glitters
-4 Stonecoil Serpent
 4 Spire of Industry
-4 Aether Hub
-4 Gingerbrute
-4 Ornithopter
-4 Darksteel Citadel
+4 Stonecoil Serpent
 4 Mana Confluence
 4 Springleaf Drum
+4 Aether Hub
+4 Ornithopter
+4 Darksteel Citadel
+4 Gingerbrute
 4 Ghostfire Blade
 4 Shrapnel Blast
 4 Ensoul Artifact
@@ -483,8 +483,8 @@
 1 Champion of Dusk
 1 Sorin, Imperious Bloodlord
 1 Dusk Legion Zealot
-1 Kaya, Orzhov Usurper
 1 Blood Baron of Vizkopa
+1 Kaya, Orzhov Usurper
 1 Gifted Aetherborn
 1 Urborg, Tomb of Yawgmoth
 1 Oathsworn Vampire
@@ -492,10 +492,10 @@
 2 Sorin, Imperious Bloodlord
 2 Champion of Dusk
 2 Dusk Legion Zealot
+2 Kaya, Orzhov Usurper
 2 Gifted Aetherborn
 2 Knight of the Ebon Legion
 2 Blood Baron of Vizkopa
-2 Kaya, Orzhov Usurper
 2 Oathsworn Vampire
 3 Dusk Legion Zealot
 3 Sorin, Imperious Bloodlord
@@ -513,16 +513,16 @@
 5 Swamp
 6 Swamp
 7 Swamp
-1 Karn, the Great Creator
 1 Idyllic Grange
+1 Karn, the Great Creator
+2 Idyllic Grange
 2 Karn, the Great Creator
 2 Elspeth Conquers Death
-2 Idyllic Grange
 3 Karn, the Great Creator
 3 Baffling End
 3 Nykthos, Shrine to Nyx
-4 Nykthos, Shrine to Nyx
 4 Karn, the Great Creator
+4 Nykthos, Shrine to Nyx
 10 Plains
 11 Plains
 12 Plains

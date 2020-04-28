@@ -1,41 +1,54 @@
-2 Gideon's Intervention
-18 Plains
-1 Skysovereign, Consul Flagship
-1 Tomik, Distinguished Advokist
-2 Elspeth Conquers Death
-3 Stasis Snare
-1 Legion's Landing
-2 Legion's Landing
-3 Daxos, Blessed by the Sun
-4 Nykthos, Shrine to Nyx
-1 Hallowed Fountain
 1 Glacial Fortress
 2 Hallowed Fountain
 2 Glacial Fortress
-3 Hallowed Fountain
 3 Glacial Fortress
+3 Hallowed Fountain
 4 Hallowed Fountain
 4 Glacial Fortress
-1 Charming Prince
 1 Teferi, Time Raveler
 1 Irrigated Farmland
 1 Temple of Enlightenment
 1 Reflector Mage
-2 Charming Prince
 2 Teferi, Time Raveler
 2 Temple of Enlightenment
 2 Irrigated Farmland
 2 Reflector Mage
-3 Charming Prince
+3 Reflector Mage
 3 Teferi, Time Raveler
 3 Irrigated Farmland
-3 Reflector Mage
 3 Temple of Enlightenment
-4 Charming Prince
 4 Reflector Mage
 4 Temple of Enlightenment
 4 Irrigated Farmland
+4 Charming Prince
+1 Idyllic Grange
+2 Idyllic Grange
+2 Gideon's Intervention
+3 Idyllic Grange
 3 Baffling End
+3 Stasis Snare
+3 Gideon of the Trials
+3 Daxos, Blessed by the Sun
+3 Elspeth Conquers Death
+4 Baffling End
+18 Plains
+1 Gideon, Ally of Zendikar
+1 Legion's Landing
+2 Legion's Landing
+1 Tomik, Distinguished Advokist
+2 Gideon, Ally of Zendikar
+1 Skysovereign, Consul Flagship
+1 Port Town
+1 The Birth of Meletis
+2 The Birth of Meletis
+4 Teferi, Time Raveler
+2 Tomik, Distinguished Advokist
+19 Plains
+20 Plains
+1 Karn, the Great Creator
+2 Karn, the Great Creator
+3 Karn, the Great Creator
+4 Karn, the Great Creator
 1 Healer's Hawk
 1 Ajani's Pridemate
 1 Ajani, Strength of the Pride
@@ -56,96 +69,86 @@
 4 Legion's Landing
 4 Alseid of Life's Bounty
 4 Leonin Vanguard
-19 Plains
-20 Plains
-1 Port Town
-1 The Birth of Meletis
-2 The Birth of Meletis
-4 Teferi, Time Raveler
+3 Anafenza, Kin-Tree Spirit
 1 Selfless Spirit
 2 Selfless Spirit
 3 Selfless Spirit
-2 Tomik, Distinguished Advokist
-3 Elspeth Conquers Death
-4 Baffling End
-1 Banishing Light
-2 Skysovereign, Consul Flagship
+4 Idyllic Grange
+21 Plains
+22 Plains
+23 Plains
+24 Plains
 1 Benalish Marshal
 2 Benalish Marshal
 4 Stasis Snare
-1 Karn, the Great Creator
-2 Karn, the Great Creator
-3 Karn, the Great Creator
-4 Karn, the Great Creator
-1 Toolcraft Exemplar
-1 Mox Amber
-1 Dauntless Bodyguard
-1 Kytheon, Hero of Akros
 1 Glass Casket
 1 Brave the Elements
 1 Heart of Kiran
-2 Mox Amber
+1 Mox Amber
+1 Kytheon, Hero of Akros
+1 Toolcraft Exemplar
+1 Dauntless Bodyguard
 2 Toolcraft Exemplar
 2 Glass Casket
-2 Dauntless Bodyguard
+2 Heart of Kiran
 2 Kytheon, Hero of Akros
 2 Brave the Elements
-2 Heart of Kiran
-3 Anafenza, Kin-Tree Spirit
-3 Kytheon, Hero of Akros
-3 Mox Amber
-3 Toolcraft Exemplar
-3 Glass Casket
-3 Dauntless Bodyguard
+2 Mox Amber
+2 Dauntless Bodyguard
 3 Heart of Kiran
+3 Dauntless Bodyguard
+3 Glass Casket
+3 Mox Amber
+3 Kytheon, Hero of Akros
+3 Toolcraft Exemplar
 4 Toolcraft Exemplar
-4 Mox Amber
 4 Kytheon, Hero of Akros
+4 Mox Amber
 4 Dauntless Bodyguard
 4 Selfless Spirit
 1 Ipnu Rivulet
-1 Mana Confluence
 1 Curious Obsession
-1 Gods Willing
-1 Fight as One
+1 Mana Confluence
 1 Staggering Insight
-1 Seeker of the Way
+1 Gods Willing
 1 Siren Stormtamer
-1 Light of Hope
 1 Lagonna-Band Trailblazer
 1 Favored Hoplite
 1 Defiant Strike
-2 Curious Obsession
-2 Siren Stormtamer
-2 Seeker of the Way
+1 Light of Hope
+1 Fight as One
+1 Seeker of the Way
 2 Mana Confluence
-2 Light of Hope
+2 Curious Obsession
 2 Lagonna-Band Trailblazer
 2 Staggering Insight
-2 Fight as One
+2 Siren Stormtamer
 2 Gods Willing
+2 Seeker of the Way
 2 Favored Hoplite
+2 Fight as One
 2 Ipnu Rivulet
 2 Defiant Strike
-3 Siren Stormtamer
-3 Seeker of the Way
-3 Staggering Insight
-3 Fight as One
-3 Light of Hope
+2 Light of Hope
 3 Lagonna-Band Trailblazer
 3 Curious Obsession
+3 Fight as One
+3 Staggering Insight
+3 Siren Stormtamer
+3 Seeker of the Way
 3 Gods Willing
 3 Favored Hoplite
 3 Ipnu Rivulet
+3 Light of Hope
 3 Defiant Strike
-4 Seeker of the Way
-4 Light of Hope
-4 Siren Stormtamer
-4 Fight as One
-4 Staggering Insight
-4 Curious Obsession
 4 Lagonna-Band Trailblazer
 4 Ipnu Rivulet
+4 Fight as One
+4 Staggering Insight
+4 Siren Stormtamer
+4 Curious Obsession
 4 Defiant Strike
+4 Seeker of the Way
 4 Gods Willing
 4 Favored Hoplite
+4 Light of Hope
