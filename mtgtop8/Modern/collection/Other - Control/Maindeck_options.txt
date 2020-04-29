@@ -1,7 +1,7 @@
-3 Scalding Tarn
-2 Archmage's Charm
 1 Mana Leak
+3 Polluted Delta
 3 Thought Scour
+2 Archmage's Charm
 1 Field of Ruin
 1 Flooded Strand
 1 The Royal Scions
@@ -24,57 +24,56 @@
 2 Growth Spiral
 3 Growth Spiral
 4 Growth Spiral
-1 Jace, the Mind Sculptor
-1 Spell Snare
 1 Mishra's Bauble
+4 Scalding Tarn
+1 Jace, the Mind Sculptor
+2 Jace, the Mind Sculptor
+1 Spell Snare
+1 Skred
+1 Spell Pierce
+2 Skred
 1 Watery Grave
 1 Fatal Push
 2 Fatal Push
 3 Fatal Push
 4 Polluted Delta
-4 Scalding Tarn
-2 Flooded Strand
-3 Flooded Strand
-4 Flooded Strand
-2 Jace, the Mind Sculptor
-1 Skred
-1 Spell Pierce
-2 Skred
 3 Breeding Pool
 4 Thought Scour
 4 Wilderness Reclamation
+2 Flooded Strand
+3 Flooded Strand
 3 Fact or Fiction
-1 Drown in the Loch
+4 Flooded Strand
 2 Blood Moon
 2 Wooded Foothills
+4 Mystic Sanctuary
 1 Serum Visions
 2 Serum Visions
-4 Mystic Sanctuary
 2 Lonely Sandbar
-3 Snapcaster Mage
-2 Drown in the Loch
-1 Opt
-2 Opt
+1 Drown in the Loch
 1 Inquisition of Kozilek
 2 Inquisition of Kozilek
-1 Island
-1 Swamp
-2 Watery Grave
-2 Island
-3 Island
-3 Watery Grave
 1 Snow-Covered Swamp
 1 Kolaghan's Command
-1 Unearth
+3 Snapcaster Mage
 1 Tyrant's Scorn
+1 Unearth
 2 Mishra's Bauble
 3 Mishra's Bauble
 4 Mishra's Bauble
 4 Fatal Push
 3 Serum Visions
 4 Serum Visions
-3 Opt
+1 Opt
+2 Opt
+1 Island
+1 Swamp
 1 Darkslick Shores
+2 Watery Grave
+2 Island
+3 Island
+3 Watery Grave
+2 Drown in the Loch
 1 Once Upon a Time
 2 Nexus of Fate
 2 Once Upon a Time
@@ -83,11 +82,12 @@
 4 Cryptic Command
 4 Archmage's Charm
 1 Cling to Dust
-1 Waterlogged Grove
 1 Deprive
 2 Darkslick Shores
 3 Darkslick Shores
 4 Force of Negation
+1 Waterlogged Grove
+3 Opt
 1 Assassin's Trophy
 2 Assassin's Trophy
 1 Thoughtseize
@@ -97,12 +97,9 @@
 1 Prismatic Vista
 2 Prismatic Vista
 2 Field of Ruin
-1 Geier Reach Sanitarium
-1 Narset, Parter of Veils
-2 Narset, Parter of Veils
 1 Blast Zone
-1 Lumbering Falls
 1 Torrential Gearhulk
+1 Lumbering Falls
 1 Seal of Fire
 1 Overgrown Tomb
 1 Abrupt Decay
@@ -110,40 +107,32 @@
 1 Engineered Explosives
 1 Klothys, God of Destiny
 1 Treetop Village
+1 Time Warp
+1 Walk the Aeons
+1 Exhaustion
+1 Ketria Triome
+1 Gemstone Caverns
+2 Time Warp
+2 Chandra, Torch of Defiance
+2 Gemstone Caverns
+2 Ketria Triome
+2 Steam Vents
+3 Time Warp
+4 Time Warp
 1 Search for Azcanta
-1 Thing in the Ice
 1 Nihil Spellbomb
+1 Thing in the Ice
 2 Tyrant's Scorn
-2 Unearth
 2 Nihil Spellbomb
+2 Unearth
 2 Thing in the Ice
 3 Thing in the Ice
 4 Thing in the Ice
-1 Walk the Aeons
-1 Exhaustion
-1 Time Warp
-1 Ketria Triome
-1 Gemstone Caverns
-2 Gemstone Caverns
-2 Time Warp
-2 Ketria Triome
-2 Steam Vents
-2 Chandra, Torch of Defiance
-3 Time Warp
-4 Time Warp
-1 Jace, Vryn's Prodigy
-1 Delver of Secrets
-2 Jace, Vryn's Prodigy
-2 Deprive
-2 Delver of Secrets
-3 Jace, Vryn's Prodigy
-3 Delver of Secrets
-4 Delver of Secrets
 1 Utopia Sprawl
-1 Stubborn Denial
 1 Tranquil Thicket
 1 Ashiok, Dream Render
 1 Arbor Elf
+1 Stubborn Denial
 2 Utopia Sprawl
 2 The Royal Scions
 2 Ashiok, Dream Render
@@ -153,57 +142,49 @@
 3 Arbor Elf
 4 Utopia Sprawl
 4 Arbor Elf
-1 Go for the Throat
-1 Bloodstained Mire
-1 Damnation
-1 Creeping Tar Pit
-1 Liliana of the Veil
-2 Damnation
-2 Geier Reach Sanitarium
-2 Swamp
-2 Creeping Tar Pit
-2 Liliana of the Veil
-3 Narset, Parter of Veils
-3 Creeping Tar Pit
-4 Narset, Parter of Veils
-4 Creeping Tar Pit
-4 Opt
-4 Inquisition of Kozilek
+1 Abominable Treefolk
 1 Dead of Winter
 1 Fabled Passage
-1 Abominable Treefolk
-2 Snow-Covered Swamp
 2 Dead of Winter
 2 Fabled Passage
+2 Snow-Covered Swamp
 3 Field of Ruin
-3 Assassin's Trophy
 3 Dead of Winter
 3 Drown in the Loch
+3 Assassin's Trophy
 3 Prismatic Vista
 3 Fabled Passage
 3 Snow-Covered Forest
+4 Dead of Winter
 4 Field of Ruin
 4 Assassin's Trophy
 4 Drown in the Loch
 4 Fabled Passage
-4 Dead of Winter
 4 Prismatic Vista
-1 Esper Charm
-1 Teferi, Hero of Dominaria
-1 Teferi, Time Raveler
-1 Hallowed Fountain
-1 Secure the Wastes
-1 Logic Knot
-1 Plains
-1 Kaya's Guile
-1 Path to Exile
-1 Supreme Verdict
-1 Celestial Colonnade
-2 Hallowed Fountain
-2 Teferi, Time Raveler
-2 Celestial Colonnade
-2 Supreme Verdict
-2 Path to Exile
-3 Path to Exile
-4 Island
-4 Snapcaster Mage
+1 Geier Reach Sanitarium
+1 Creeping Tar Pit
+1 Liliana of the Veil
+1 Bloodstained Mire
+1 Narset, Parter of Veils
+1 Damnation
+1 Go for the Throat
+2 Creeping Tar Pit
+2 Liliana of the Veil
+2 Geier Reach Sanitarium
+2 Narset, Parter of Veils
+2 Damnation
+2 Swamp
+3 Narset, Parter of Veils
+3 Creeping Tar Pit
+4 Creeping Tar Pit
+4 Opt
+4 Inquisition of Kozilek
+4 Narset, Parter of Veils
+1 Jace, Vryn's Prodigy
+1 Delver of Secrets
+2 Jace, Vryn's Prodigy
+2 Deprive
+2 Delver of Secrets
+3 Jace, Vryn's Prodigy
+3 Delver of Secrets
+4 Delver of Secrets

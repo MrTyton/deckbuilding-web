@@ -1,7 +1,7 @@
 # Belcher
 
 #### [Export MTGO List](../collection/Belcher/Belcher.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Burning%20Wish%0A4%09Chrome%20Mox%0A4%09Desperate%20Ritual%0A3%09Echo%20of%20Eons%0A4%09Elvish%20Spirit%20Guide%0A3%09Empty%20the%20Warrens%0A3%09Gamble%0A4%09Goblin%20Charbelcher%0A4%09Land%20Grant%0A4%09Lion's%20Eye%20Diamond%0A4%09Lotus%20Petal%0A1%09Manamorphose%0A1%09Pyretic%20Ritual%0A4%09Rite%20of%20Flame%0A4%09Seething%20Song%0A4%09Simian%20Spirit%20Guide%0A1%09Taiga%0A4%09Tinder%20Wall&deckside=1%09Autumn's%20Veil%0A1%09Chain%20Lightning%0A1%09Echo%20of%20Eons%0A1%09Empty%20the%20Warrens%0A1%09Gamble%0A1%09Goblin%20War%20Strike%0A1%09Irencrag%20Feat%0A1%09Pyroclasm%0A1%09Reverent%20Silence%0A1%09Shattering%20Spree%0A1%09Tendrils%20of%20Agony%0A4%09Veil%20of%20Summer)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Burning%20Wish%0A4%09Chrome%20Mox%0A4%09Desperate%20Ritual%0A3%09Echo%20of%20Eons%0A4%09Elvish%20Spirit%20Guide%0A3%09Empty%20the%20Warrens%0A3%09Gamble%0A4%09Goblin%20Charbelcher%0A4%09Land%20Grant%0A4%09Lion's%20Eye%20Diamond%0A4%09Lotus%20Petal%0A1%09Manamorphose%0A1%09Pyretic%20Ritual%0A4%09Rite%20of%20Flame%0A4%09Seething%20Song%0A4%09Simian%20Spirit%20Guide%0A1%09Taiga%0A4%09Tinder%20Wall&deckside=1%09Chain%20Lightning%0A1%09Echo%20of%20Eons%0A1%09Empty%20the%20Warrens%0A1%09Gamble%0A1%09Goblin%20War%20Strike%0A1%09Grapeshot%0A1%09Irencrag%20Feat%0A1%09Pyroclasm%0A1%09Reverent%20Silence%0A1%09Shattering%20Spree%0A1%09Tendrils%20of%20Agony%0A4%09Veil%20of%20Summer)
 # Maindeck
 
 |                                         Artifact (16)                                         |                                         Creature (12)                                          |                                        Instant (10)                                        |                                   Land (1)                                    |                                         Sorcery (21)                                         |
@@ -16,13 +16,14 @@
 
 # Sideboard
 
-|                                        Instant (5)                                        |                                         Sorcery (10)                                         |
+|                                        Instant (4)                                        |                                         Sorcery (11)                                         |
 |-------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
-|1 [Autumn's Veil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205051) |1 [Chain Lightning](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446139)  |
-|4 [Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)|1 [Echo of Eons](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463995)     |
+|4 [Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)|1 [Chain Lightning](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446139)  |
+|                                                                                           |1 [Echo of Eons](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463995)     |
 |                                                                                           |1 [Empty the Warrens](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426587)|
 |                                                                                           |1 [Gamble](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413674)           |
 |                                                                                           |1 [Goblin War Strike](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=6594)  |
+|                                                                                           |1 [Grapeshot](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426588)        |
 |                                                                                           |1 [Irencrag Feat](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473089)    |
 |                                                                                           |1 [Pyroclasm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129801)        |
 |                                                                                           |1 [Reverent Silence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=22316)  |
@@ -32,33 +33,18 @@
 
 # Other Options
 
-|*n*<sup>th</sup> copy|                                      Maindeck Card                                       |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
-|--------------------:|------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
-|                    2|[Manamorphose](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370568)   |                    2|[Autumn's Veil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205051)      |
-|                    2|[Pyretic Ritual](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205067) |                    1|[Telemin Performance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=189085)|
-|                    3|[Pyretic Ritual](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205067) |                    1|[Xantid Swarm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413735)       |
-|                    1|[Stomping Ground](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405110)|                    1|[Grapeshot](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426588)          |
-|                    3|[Manamorphose](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370568)   |                    2|[Xantid Swarm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413735)       |
-|                    4|[Manamorphose](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370568)   |                    1|[Pact of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442057)   |
-|                    4|[Pyretic Ritual](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205067) |                    2|[Pact of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442057)   |
-|                     |                                                                                          |                    2|[Irencrag Feat](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473089)      |
-|                     |                                                                                          |                    3|[Irencrag Feat](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473089)      |
-|                     |                                                                                          |                    1|[Arcum's Astrolabe](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464169)  |
-|                     |                                                                                          |                    1|[Pyretic Ritual](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205067)     |
-|                     |                                                                                          |                    1|[Banefire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=186613)           |
-|                     |                                                                                          |                    1|[Overmaster](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=29868)          |
-|                     |                                                                                          |                    1|[Reforge the Soul](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278256)   |
-|                     |                                                                                          |                    1|[Bonus Round](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446024)        |
-|                     |                                                                                          |                    1|[Hull Breach](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376367)        |
-|                     |                                                                                          |                    1|[Trash for Treasure](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420753) |
-|                     |                                                                                          |                    1|[Infernal Tutor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107308)     |
-|                     |                                                                                          |                    3|[Xantid Swarm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413735)       |
-|                     |                                                                                          |                    1|[Tarmogoyf](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=136142)          |
-|                     |                                                                                          |                    1|[Force of Vigor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464113)     |
-|                     |                                                                                          |                    2|[Force of Vigor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464113)     |
-|                     |                                                                                          |                    3|[Force of Vigor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464113)     |
-|                     |                                                                                          |                    4|[Force of Vigor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464113)     |
-|                     |                                                                                          |                    1|[Rishadan Brigand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=19670)    |
-|                     |                                                                                          |                    4|[Irencrag Feat](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473089)      |
-|                     |                                                                                          |                    4|[Xantid Swarm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413735)       |
+|*n*<sup>th</sup> copy|                                      Maindeck Card                                      |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
+|--------------------:|-----------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
+|                    2|[Manamorphose](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370568)  |                    1|[Telemin Performance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=189085)|
+|                    2|[Pyretic Ritual](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205067)|                    1|[Xantid Swarm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413735)       |
+|                    3|[Pyretic Ritual](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205067)|                    1|[Autumn's Veil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205051)      |
+|                     |                                                                                         |                    2|[Autumn's Veil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205051)      |
+|                     |                                                                                         |                    1|[Infernal Tutor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107308)     |
+|                     |                                                                                         |                    1|[Trash for Treasure](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420753) |
+|                     |                                                                                         |                    2|[Xantid Swarm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413735)       |
+|                     |                                                                                         |                    3|[Xantid Swarm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413735)       |
+|                     |                                                                                         |                    1|[Force of Vigor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464113)     |
+|                     |                                                                                         |                    2|[Force of Vigor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464113)     |
+|                     |                                                                                         |                    3|[Force of Vigor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464113)     |
+|                     |                                                                                         |                    4|[Force of Vigor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464113)     |
 

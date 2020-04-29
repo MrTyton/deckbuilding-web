@@ -1,23 +1,23 @@
 1 Baffling End
 1 Growth Spiral
-2 Baffling End
 2 Nissa, Vastwood Seer
-2 Lumbering Falls
 2 Courser of Kruphix
+2 Baffling End
 2 Elspeth Conquers Death
 2 Omen of the Sea
+2 Lumbering Falls
 2 Growth Spiral
-3 Temple Garden
-3 Baffling End
 3 Omen of the Sea
 3 Elspeth Conquers Death
 3 Teferi, Hero of Dominaria
 3 Growth Spiral
-4 Temple Garden
-4 Baffling End
-4 Teferi, Time Raveler
+3 Baffling End
+3 Temple Garden
 4 Omen of the Sea
+4 Teferi, Time Raveler
 4 Growth Spiral
+4 Baffling End
+4 Temple Garden
 1 Swamp
 1 Thoughtseize
 2 Thoughtseize
@@ -40,34 +40,34 @@
 3 Godless Shrine
 2 Murderous Rider
 1 Trial of Ambition
-1 Treacherous Blessing
-1 Doom Foretold
 1 The Birth of Meletis
-1 Flicker of Fate
 1 Isolated Chapel
+1 Doom Foretold
 1 Starfield of Nyx
 1 Demonic Pact
+1 Flicker of Fate
+1 Treacherous Blessing
 1 Final Payment
 2 Trial of Ambition
-2 Doom Foretold
-2 Treacherous Blessing
 2 The Birth of Meletis
 2 Isolated Chapel
+2 Doom Foretold
+2 Treacherous Blessing
 2 Demonic Pact
 2 Starfield of Nyx
 3 Trial of Ambition
-3 Doom Foretold
 3 The Birth of Meletis
 3 Shambling Vent
 3 Oath of Kaya
 3 Demonic Pact
 3 Isolated Chapel
+3 Doom Foretold
 3 Treacherous Blessing
-4 Doom Foretold
-4 Plains
 4 The Birth of Meletis
+4 Plains
 4 Godless Shrine
 4 Demonic Pact
+4 Doom Foretold
 5 Plains
 1 Mountain
 1 Nissa, Who Shakes the World
@@ -86,19 +86,19 @@
 4 Swamp
 5 Swamp
 1 Gideon of the Trials
-1 Urborg, Tomb of Yawgmoth
-1 Caves of Koilos
-1 Elspeth's Nightmare
 1 Temple of Silence
-2 Flicker of Fate
+1 Urborg, Tomb of Yawgmoth
+1 Elspeth's Nightmare
+1 Caves of Koilos
 2 Caves of Koilos
 2 Elspeth's Nightmare
+2 Flicker of Fate
 3 Flicker of Fate
-4 Trial of Ambition
-4 Flicker of Fate
-4 Oath of Kaya
-4 Shambling Vent
 4 Isolated Chapel
+4 Shambling Vent
+4 Oath of Kaya
+4 Flicker of Fate
+4 Trial of Ambition
 6 Plains
 1 Dragonskull Summit
 2 Dreadbore
@@ -115,8 +115,8 @@
 4 Discovery / Dispersal
 4 Dreadbore
 4 Bonecrusher Giant
-1 Canyon Slough
 1 Chandra, Torch of Defiance
+1 Canyon Slough
 2 Chandra, Torch of Defiance
 2 Canyon Slough
 3 Mountain
@@ -152,7 +152,6 @@
 2 Castle Locthwain
 1 Champion of Wits
 1 Fetid Pools
-1 Concealed Courtyard
 1 Thirst for Meaning
 1 Cast Down
 1 Thought Erasure
@@ -160,6 +159,7 @@
 1 Elspeth, Sun's Nemesis
 1 Hero's Downfall
 1 Search for Azcanta
+1 Concealed Courtyard
 1 Narset, Parter of Veils
 2 Search for Azcanta
 2 Concealed Courtyard
@@ -192,8 +192,8 @@
 2 Castle Garenbrig
 2 Ugin, the Spirit Dragon
 2 Ipnu Rivulet
-3 Nissa, Who Shakes the World
 3 Elder Deep-Fiend
+3 Nissa, Who Shakes the World
 3 Kozilek's Return
 3 Champion of Wits
 4 Elder Deep-Fiend
@@ -209,14 +209,14 @@
 1 Blast Zone
 1 Tamiyo, Collector of Tales
 1 Field of Ruin
-1 Mass Manipulation
-4 Teferi, Hero of Dominaria
-1 Kaya's Wrath
 1 Easy Prey
 1 Underworld Connections
+1 Kaya's Wrath
 3 Caves of Koilos
 3 Elspeth's Nightmare
 4 Caves of Koilos
+1 Mass Manipulation
+4 Teferi, Hero of Dominaria
 1 Cling to Dust
 2 Cling to Dust
 3 Starfield of Nyx
@@ -235,6 +235,14 @@
 2 Thirst for Meaning
 2 Thought Erasure
 2 Hero's Downfall
+1 The Eldest Reborn
+1 History of Benalia
+2 The Eldest Reborn
+2 History of Benalia
+2 Blast Zone
+2 Gideon of the Trials
+3 Gideon of the Trials
+3 History of Benalia
 1 Deathrite Shaman
 1 Distended Mindbender
 2 Deathrite Shaman
@@ -265,28 +273,20 @@
 1 Goblin Dark-Dwellers
 2 Goblin Dark-Dwellers
 3 Foreboding Ruins
-1 History of Benalia
-1 The Eldest Reborn
-2 History of Benalia
-2 The Eldest Reborn
-2 Blast Zone
-2 Gideon of the Trials
-3 Gideon of the Trials
-3 History of Benalia
-1 Nicol Bolas, the Ravager
 1 Quicken
-2 Nicol Bolas, the Ravager
+1 Nicol Bolas, the Ravager
 2 Quicken
-3 Nicol Bolas, the Ravager
+2 Nicol Bolas, the Ravager
 3 Quicken
+3 Nicol Bolas, the Ravager
 4 Nicol Bolas, the Ravager
 1 Sylvan Caryatid
 2 Sylvan Caryatid
 3 Ipnu Rivulet
 4 Champion of Wits
 1 Languish
-1 Agonizing Remorse
 1 Bedevil
+1 Agonizing Remorse
 1 Doom Blade
 1 Arguel's Blood Fast
 1 Read the Bones
@@ -300,44 +300,44 @@
 3 Read the Bones
 4 Read the Bones
 1 Essence Scatter
-1 Young Pyromancer
 1 Risen Reef
 1 Treasure Cruise
-1 Spell Pierce
 1 Dive Down
+1 Spell Pierce
 1 Mizzium Mortars
 1 Chandra, Acolyte of Flame
+1 Young Pyromancer
 1 Castle Embereth
 1 Fiery Impulse
 1 Wild Slash
 1 Living Twister
 2 Essence Scatter
-2 Young Pyromancer
 2 Risen Reef
 2 Treasure Cruise
 2 Chart a Course
-2 Dive Down
-2 Mizzium Mortars
 2 Chandra, Acolyte of Flame
+2 Young Pyromancer
+2 Mizzium Mortars
 2 Wild Slash
+2 Dive Down
 2 Fiery Impulse
 3 Risen Reef
 3 Botanical Sanctum
-3 Young Pyromancer
 3 Chandra, Acolyte of Flame
 3 Chart a Course
 3 Spirebluff Canal
+3 Young Pyromancer
 3 Mizzium Mortars
 3 Wild Slash
-4 Risen Reef
 4 Steam Vents
+4 Risen Reef
 4 Young Pyromancer
-4 Spirebluff Canal
 4 Chart a Course
+4 Spirebluff Canal
 4 Wild Slash
 1 Mire Triton
-2 Mire Triton
 2 Glorybringer
+2 Mire Triton
 3 Glorybringer
 3 Chandra, Torch of Defiance
 4 Canyon Slough
@@ -346,17 +346,17 @@
 2 Arboreal Grazer
 3 Arboreal Grazer
 4 Arboreal Grazer
+1 Polukranos, Unchained
 1 Tasigur, the Golden Fang
 1 Hissing Quagmire
 1 Thrashing Brontodon
 1 Assassin's Trophy
-1 Ramunap Excavator
 1 Scrapheap Scrounger
-1 Polukranos, Unchained
-2 Hissing Quagmire
+1 Ramunap Excavator
 2 Assassin's Trophy
 2 Scavenging Ooze
 2 Field of Ruin
+2 Hissing Quagmire
 3 Field of Ruin
 4 Traverse the Ulvenwald
 5 Forest

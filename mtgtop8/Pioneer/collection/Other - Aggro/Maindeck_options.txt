@@ -102,8 +102,8 @@
 4 Godless Shrine
 1 Isolated Chapel
 1 Archangel Avacyn
-2 Archangel Avacyn
 2 Isolated Chapel
+2 Archangel Avacyn
 1 Benalish Marshal
 2 Benalish Marshal
 1 Caves of Koilos
@@ -145,6 +145,12 @@
 3 Caves of Koilos
 4 Isolated Chapel
 2 Seal Away
+1 Starfield Mystic
+1 Cast Out
+3 Gideon's Intervention
+4 Gideon's Intervention
+3 Daxos, Blessed by the Sun
+4 Spell Queller
 1 Collected Company
 1 Shared Summons
 1 Bygone Bishop
@@ -159,12 +165,6 @@
 3 Radiant Fountain
 4 Collected Company
 4 Militia Bugler
-1 Starfield Mystic
-1 Cast Out
-3 Gideon's Intervention
-4 Gideon's Intervention
-3 Daxos, Blessed by the Sun
-4 Spell Queller
 1 Sacred Foundry
 2 Sacred Foundry
 3 Sacred Foundry
@@ -178,21 +178,21 @@
 1 Legion's Landing
 1 Reckless Bushwhacker
 1 Battlefield Forge
-1 Shefet Dunes
 1 Lightning Strike
-1 Secure the Wastes
 1 Toolcraft Exemplar
 1 Servo Exhibition
 1 Clifftop Retreat
+1 Secure the Wastes
 1 Raise the Alarm
+1 Shefet Dunes
 2 Legion's Landing
 2 Battlefield Forge
 2 Reckless Bushwhacker
-2 Shefet Dunes
 2 Lightning Strike
 2 Toolcraft Exemplar
 2 Gideon, Ally of Zendikar
 2 Raise the Alarm
+2 Shefet Dunes
 2 Servo Exhibition
 3 Battlefield Forge
 3 Reckless Bushwhacker
@@ -212,30 +212,31 @@
 4 Raise the Alarm
 4 Sacred Foundry
 1 Faerie Vandal
+1 Steam Vents
+1 Spirebluff Canal
+1 Slip Through Space
+1 The Royal Scions
+1 Gods Willing
 1 Defiant Strike
 1 Favored Hoplite
-1 Gods Willing
 1 Staggering Insight
 1 Curious Obsession
 1 Reckless Rage
-1 Steam Vents
-1 The Royal Scions
-1 Spirebluff Canal
-1 Slip Through Space
 1 Tenth District Legionnaire
 1 Monastery Swiftspear
 1 Sentinel's Eyes
+2 Steam Vents
+2 The Royal Scions
 2 Defiant Strike
 2 Favored Hoplite
 2 Gods Willing
 2 Staggering Insight
 2 Curious Obsession
+2 Reckless Rage
 2 Tenth District Legionnaire
 2 Monastery Swiftspear
-2 The Royal Scions
-2 Steam Vents
-2 Reckless Rage
 2 Faerie Vandal
+3 Steam Vents
 3 The Royal Scions
 3 Defiant Strike
 3 Favored Hoplite
@@ -246,15 +247,14 @@
 3 Faerie Vandal
 3 Monastery Swiftspear
 3 Tenth District Legionnaire
-3 Steam Vents
 4 Favored Hoplite
 4 Gods Willing
 4 Defiant Strike
-4 Curious Obsession
+4 Steam Vents
 4 Staggering Insight
+4 Curious Obsession
 4 Reckless Rage
 4 Tenth District Legionnaire
-4 Steam Vents
 4 Monastery Swiftspear
 3 Swamp
 1 Blast Zone
@@ -309,18 +309,18 @@
 4 Nissa's Pilgrimage
 4 Arboreal Grazer
 1 Nissa, Vastwood Seer
-1 Polukranos, Unchained
 1 Ramunap Excavator
 1 Hissing Quagmire
 1 Tasigur, the Golden Fang
+1 Polukranos, Unchained
 1 Ishkanah, Grafwidow
 1 Thrashing Brontodon
 1 Scrapheap Scrounger
 1 Traverse the Ulvenwald
 2 Liliana, the Last Hope
+2 Hissing Quagmire
 2 Field of Ruin
 2 Assassin's Trophy
-2 Hissing Quagmire
 2 Traverse the Ulvenwald
 3 Field of Ruin
 3 Traverse the Ulvenwald
@@ -345,8 +345,8 @@
 1 Revival / Revenge
 1 Anguished Unmaking
 1 Archangel of Tithes
-2 Seraph of the Scales
 2 Temple of Silence
+2 Seraph of the Scales
 2 Resplendent Angel
 2 Revival / Revenge
 2 Bishop of Wings
@@ -404,11 +404,11 @@
 2 Mutavault
 1 Stonecoil Serpent
 1 Steel Overseer
-1 Aether Hub
 1 Springleaf Drum
 1 Metallic Rebuke
 1 Hope of Ghirapur
 1 Spire of Industry
+1 Aether Hub
 1 Ensoul Artifact
 1 Darksteel Citadel
 1 Gingerbrute
@@ -418,12 +418,12 @@
 1 Ornithopter
 2 Stonecoil Serpent
 2 Steel Overseer
-2 Aether Hub
 2 Springleaf Drum
 2 Metallic Rebuke
 2 Hope of Ghirapur
 2 All That Glitters
 2 Spire of Industry
+2 Aether Hub
 2 Ornithopter
 2 Darksteel Citadel
 2 Gingerbrute
@@ -431,10 +431,10 @@
 2 Ghostfire Blade
 2 Shrapnel Blast
 3 Stonecoil Serpent
+3 Mana Confluence
+3 Aether Hub
 3 Steel Overseer
 3 Springleaf Drum
-3 Aether Hub
-3 Mana Confluence
 3 Spire of Industry
 3 Darksteel Citadel
 3 Ornithopter
@@ -445,9 +445,9 @@
 3 All That Glitters
 4 Spire of Industry
 4 Stonecoil Serpent
-4 Mana Confluence
-4 Springleaf Drum
 4 Aether Hub
+4 Springleaf Drum
+4 Mana Confluence
 4 Ornithopter
 4 Darksteel Citadel
 4 Gingerbrute
@@ -483,8 +483,8 @@
 1 Champion of Dusk
 1 Sorin, Imperious Bloodlord
 1 Dusk Legion Zealot
-1 Blood Baron of Vizkopa
 1 Kaya, Orzhov Usurper
+1 Blood Baron of Vizkopa
 1 Gifted Aetherborn
 1 Urborg, Tomb of Yawgmoth
 1 Oathsworn Vampire
