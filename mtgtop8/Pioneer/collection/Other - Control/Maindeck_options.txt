@@ -1,14 +1,14 @@
 1 Baffling End
 1 Growth Spiral
+2 Nissa, Vastwood Seer
 2 Courser of Kruphix
 2 Baffling End
-2 Nissa, Vastwood Seer
 2 Elspeth Conquers Death
 2 Omen of the Sea
 2 Lumbering Falls
 2 Growth Spiral
-3 Elspeth Conquers Death
 3 Omen of the Sea
+3 Elspeth Conquers Death
 3 Teferi, Hero of Dominaria
 3 Growth Spiral
 3 Baffling End
@@ -39,8 +39,8 @@
 2 Shambling Vent
 3 Godless Shrine
 2 Murderous Rider
-1 The Birth of Meletis
 1 Trial of Ambition
+1 The Birth of Meletis
 1 Isolated Chapel
 1 Doom Foretold
 1 Starfield of Nyx
@@ -48,20 +48,20 @@
 1 Flicker of Fate
 1 Treacherous Blessing
 1 Final Payment
+2 Trial of Ambition
 2 The Birth of Meletis
 2 Isolated Chapel
 2 Doom Foretold
-2 Trial of Ambition
 2 Treacherous Blessing
 2 Demonic Pact
 2 Starfield of Nyx
+3 Trial of Ambition
 3 The Birth of Meletis
 3 Shambling Vent
 3 Oath of Kaya
 3 Demonic Pact
 3 Isolated Chapel
 3 Doom Foretold
-3 Trial of Ambition
 3 Treacherous Blessing
 4 Plains
 4 The Birth of Meletis
@@ -74,13 +74,13 @@
 2 Mountain
 1 Bonecrusher Giant
 2 Bonecrusher Giant
-1 Blood Crypt
 1 Kroxa, Titan of Death's Hunger
+1 Blood Crypt
 1 Dreadbore
-2 Blood Crypt
 2 Kroxa, Titan of Death's Hunger
-3 Blood Crypt
+2 Blood Crypt
 3 Kroxa, Titan of Death's Hunger
+3 Blood Crypt
 4 Blood Crypt
 1 Castle Ardenvale
 4 Swamp
@@ -123,9 +123,9 @@
 3 Canyon Slough
 4 Dragonskull Summit
 1 Emrakul, the Promised End
+1 Ishkanah, Grafwidow
 1 Questing Beast
 1 Tireless Tracker
-1 Ishkanah, Grafwidow
 1 Traverse the Ulvenwald
 1 Abrupt Decay
 1 Overgrown Tomb
@@ -155,18 +155,18 @@
 1 Thirst for Meaning
 1 Cast Down
 1 Thought Erasure
-1 Elspeth, Sun's Champion
 1 Elspeth, Sun's Nemesis
+1 Elspeth, Sun's Champion
 1 Hero's Downfall
 1 Search for Azcanta
 1 Concealed Courtyard
 1 Narset, Parter of Veils
-2 Search for Azcanta
 2 Concealed Courtyard
+2 Search for Azcanta
 2 Cast Down
-3 Glacial Fortress
 3 Concealed Courtyard
 3 Cast Down
+3 Glacial Fortress
 1 Kolaghan's Command
 1 Foreboding Ruins
 2 Kolaghan's Command
@@ -222,8 +222,8 @@
 3 Starfield of Nyx
 4 Starfield of Nyx
 6 Swamp
-7 Swamp
 7 Plains
+7 Swamp
 1 Chart a Course
 1 Botanical Sanctum
 2 Botanical Sanctum
@@ -232,33 +232,33 @@
 1 Yahenni's Expertise
 1 Drown in the Loch
 2 Elspeth, Sun's Nemesis
-2 Thirst for Meaning
 2 Thought Erasure
 2 Hero's Downfall
-1 The Eldest Reborn
+2 Thirst for Meaning
 1 History of Benalia
-2 The Eldest Reborn
+1 The Eldest Reborn
 2 History of Benalia
+2 The Eldest Reborn
 2 Blast Zone
 2 Gideon of the Trials
 3 Gideon of the Trials
 3 History of Benalia
-1 Opulent Palace
-1 Jace, Vryn's Prodigy
-1 Ashiok, Nightmare Muse
-1 Hostage Taker
-2 Jace, Vryn's Prodigy
-3 Jace, Vryn's Prodigy
 1 Deathrite Shaman
 1 Distended Mindbender
 2 Deathrite Shaman
 3 Deathrite Shaman
+1 Opulent Palace
+1 Ashiok, Nightmare Muse
+1 Hostage Taker
+1 Jace, Vryn's Prodigy
+2 Jace, Vryn's Prodigy
+3 Jace, Vryn's Prodigy
 1 Sphinx's Revelation
 1 Seal Away
+1 Syncopate
 1 Censor
 1 Negate
 1 Castle Vantress
-1 Syncopate
 1 Approach of the Second Sun
 1 Dig Through Time
 1 Sinister Sabotage
@@ -292,33 +292,33 @@
 1 Chandra, Flamecaller
 1 Bedevil
 1 Ob Nixilis Reignited
+2 Vraska's Contempt
 2 Agonizing Remorse
 2 Chandra, Flamecaller
 2 Bedevil
-2 Vraska's Contempt
 2 Read the Bones
 3 Read the Bones
 4 Read the Bones
-1 Essence Scatter
 1 Risen Reef
-1 Treasure Cruise
+1 Essence Scatter
 1 Spell Pierce
-1 Mizzium Mortars
 1 Dive Down
+1 Treasure Cruise
+1 Mizzium Mortars
+1 Chandra, Acolyte of Flame
 1 Young Pyromancer
 1 Castle Embereth
-1 Chandra, Acolyte of Flame
 1 Fiery Impulse
 1 Wild Slash
 1 Living Twister
-2 Essence Scatter
 2 Risen Reef
-2 Chandra, Acolyte of Flame
+2 Essence Scatter
 2 Chart a Course
 2 Treasure Cruise
-2 Young Pyromancer
 2 Dive Down
+2 Young Pyromancer
 2 Mizzium Mortars
+2 Chandra, Acolyte of Flame
 2 Wild Slash
 2 Fiery Impulse
 3 Risen Reef
@@ -329,8 +329,8 @@
 3 Young Pyromancer
 3 Mizzium Mortars
 3 Wild Slash
-4 Steam Vents
 4 Risen Reef
+4 Steam Vents
 4 Young Pyromancer
 4 Chart a Course
 4 Spirebluff Canal

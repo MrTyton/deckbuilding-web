@@ -1,7 +1,9 @@
 1 Fabled Passage
+1 Nissa, Who Shakes the World
 1 Breeding Pool
 1 Nightpack Ambusher
 1 Forest
+1 Temple of Mystery
 2 Frilled Mystic
 2 Forest
 2 Nightpack Ambusher
@@ -12,16 +14,14 @@
 1 Sinister Sabotage
 2 Sinister Sabotage
 3 Sinister Sabotage
-1 Nissa, Who Shakes the World
-1 Temple of Mystery
-2 Fabled Passage
-4 Nightpack Ambusher
 2 Temple of Mystery
 2 Nissa, Who Shakes the World
-3 Frilled Mystic
+2 Fabled Passage
+4 Nightpack Ambusher
 1 Growth Spiral
 2 Growth Spiral
 3 Growth Spiral
+3 Frilled Mystic
 4 Growth Spiral
 3 Temple of Mystery
 20 Island
@@ -29,7 +29,6 @@
 1 Uro, Titan of Nature's Wrath
 1 Negate
 3 Forest
-3 Fabled Passage
 1 Mountain
 1 Steam Vents
 1 Stomping Ground
@@ -45,6 +44,7 @@
 4 Steam Vents
 4 Stomping Ground
 4 Nissa, Who Shakes the World
+3 Fabled Passage
 4 Frilled Mystic
 1 Hydroid Krasis
 4 Forest
@@ -58,7 +58,6 @@
 1 Essence Scatter
 2 Essence Scatter
 2 Uro, Titan of Nature's Wrath
-4 Sinister Sabotage
 1 Wilderness Reclamation
 2 Wilderness Reclamation
 3 Wilderness Reclamation
@@ -67,35 +66,48 @@
 4 Quench
 4 Ketria Triome
 1 Bonecrusher Giant
-2 Bonecrusher Giant
 1 Hypnotic Sprite
 2 Hypnotic Sprite
+4 Sinister Sabotage
+2 Bonecrusher Giant
 4 Neutralize
 2 Negate
-3 Essence Scatter
 3 Scorching Dragonfire
 1 Voracious Greatshark
 2 Voracious Greatshark
 3 Hydroid Krasis
+3 Essence Scatter
 1 Shark Typhoon
 1 Paradise Druid
-2 Paradise Druid
 2 Shark Typhoon
-3 Paradise Druid
+2 Paradise Druid
 3 Shark Typhoon
+3 Paradise Druid
 1 Unsummon
 2 Unsummon
 4 Opt
+1 Pouncing Shoreshark
+1 Narset's Reversal
+1 Faerie Miscreant
+1 Pteramander
+2 Pouncing Shoreshark
+2 Faerie Miscreant
+2 Pteramander
+2 Narset's Reversal
+3 Faerie Miscreant
+3 Pteramander
+4 Faerie Miscreant
+4 Pteramander
 1 Chemister's Insight
-1 Temple Garden
 1 Temple of Enlightenment
 1 Hallowed Fountain
 1 Temple of Plenty
 1 Teferi, Time Raveler
+1 Temple Garden
 1 Elspeth Conquers Death
 1 Plains
-2 Temple Garden
 2 Teferi, Time Raveler
+2 Temple Garden
 2 Temple of Enlightenment
 2 Hallowed Fountain
 2 Elspeth Conquers Death
@@ -106,26 +118,3 @@
 4 Hallowed Fountain
 4 Temple Garden
 4 Teferi, Time Raveler
-1 Watery Grave
-1 Swamp
-1 Tyrant's Scorn
-1 Zagoth Triome
-1 Overgrown Tomb
-1 Slitherwisp
-1 Cunning Nightbonder
-2 Watery Grave
-2 Tyrant's Scorn
-2 Slitherwisp
-2 Zagoth Triome
-2 Overgrown Tomb
-2 Swamp
-2 Cunning Nightbonder
-3 Watery Grave
-3 Zagoth Triome
-3 Cunning Nightbonder
-3 Slitherwisp
-3 Overgrown Tomb
-4 Watery Grave
-4 Cunning Nightbonder
-4 Slitherwisp
-4 Overgrown Tomb

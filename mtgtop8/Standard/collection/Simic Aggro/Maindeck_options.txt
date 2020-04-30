@@ -1,20 +1,20 @@
-4 Sinister Sabotage
 1 Brineborn Cutthroat
 2 Brineborn Cutthroat
 3 Brazen Borrower
 3 Fabled Passage
+4 Sinister Sabotage
 3 Aether Gust
-2 Negate
 4 Mystical Dispute
 3 Brineborn Cutthroat
 4 Nissa, Who Shakes the World
-2 Spectral Sailor
+2 Negate
 4 Quench
 4 Brazen Borrower
 4 Fabled Passage
+2 Spectral Sailor
 4 Brineborn Cutthroat
-1 Thassa, Deep-Dwelling
 8 Forest
+1 Thassa, Deep-Dwelling
 2 Thassa, Deep-Dwelling
 1 Risen Reef
 1 Agent of Treachery
@@ -25,7 +25,11 @@
 3 Uro, Titan of Nature's Wrath
 3 Risen Reef
 4 Risen Reef
+1 Paradise Druid
+2 Paradise Druid
+3 Paradise Druid
 3 Thassa, Deep-Dwelling
+1 End-Raze Forerunners
 1 Whirlwind Denial
 1 Wilderness Reclamation
 2 Wilderness Reclamation
@@ -33,17 +37,13 @@
 4 Wilderness Reclamation
 1 Gilded Goose
 2 Gilded Goose
-1 Paradise Druid
-2 Paradise Druid
-3 Paradise Druid
+1 Arboreal Grazer
+2 Arboreal Grazer
 4 Paradise Druid
 1 Wildborn Preserver
 2 Wildborn Preserver
-1 End-Raze Forerunners
 3 Hydroid Krasis
 4 Uro, Titan of Nature's Wrath
-1 Arboreal Grazer
-2 Arboreal Grazer
 1 Fblthp, the Lost
 2 Fblthp, the Lost
 3 Fblthp, the Lost
@@ -58,34 +58,35 @@
 2 Leafkin Druid
 3 Leafkin Druid
 4 Leafkin Druid
+1 Castle Garenbrig
+2 Castle Garenbrig
+2 End-Raze Forerunners
 1 Kogla, the Titan Ape
+9 Forest
 1 Stonecoil Serpent
 2 Stonecoil Serpent
 1 Repudiate / Replicate
 1 Thassa's Oracle
-2 Repudiate / Replicate
 2 Thassa's Oracle
+2 Repudiate / Replicate
 3 Agent of Treachery
 3 Gilded Goose
 1 Neutralize
 2 Neutralize
 3 Neutralize
 1 Ketria Triome
-1 Sea-Dasher Octopus
 1 Thrash / Threat
+1 Sea-Dasher Octopus
 2 Ketria Triome
-2 Sea-Dasher Octopus
 2 Thrash / Threat
+2 Sea-Dasher Octopus
 3 Sea-Dasher Octopus
-1 Tamiyo, Collector of Tales
 1 Finale of Devastation
 1 Healer of the Glade
-1 Castle Garenbrig
+1 Tamiyo, Collector of Tales
 2 Tamiyo, Collector of Tales
 2 Finale of Devastation
 2 Healer of the Glade
-2 Castle Garenbrig
-2 End-Raze Forerunners
 3 Healer of the Glade
 3 Castle Garenbrig
 4 Healer of the Glade
@@ -98,13 +99,13 @@
 1 Essence Capture
 3 Spectral Sailor
 4 Spectral Sailor
-1 Migration Path
 1 Dream Eater
+1 Migration Path
 1 Wolfwillow Haven
 1 Gyruda, Doom of Depths
 1 Spark Double
-2 Migration Path
 2 Dream Eater
+2 Migration Path
 2 Wolfwillow Haven
 2 Gyruda, Doom of Depths
 2 Spark Double
@@ -114,20 +115,20 @@
 3 Spark Double
 3 Gyruda, Doom of Depths
 4 Thassa, Deep-Dwelling
-4 Fblthp, the Lost
 4 Wolfwillow Haven
+4 Fblthp, the Lost
 4 Spark Double
 1 Humble Naturalist
-1 Ram Through
 1 Honey Mammoth
+1 Ram Through
 1 Pheres-Band Brawler
 1 Voracious Typhon
 1 Affectionate Indrik
 2 Humble Naturalist
+2 Ram Through
 2 Affectionate Indrik
 2 Pheres-Band Brawler
 2 Voracious Typhon
-2 Ram Through
 2 Honey Mammoth
 3 Humble Naturalist
 3 Honey Mammoth
@@ -135,8 +136,38 @@
 3 Affectionate Indrik
 4 Essence Scatter
 4 Humble Naturalist
-4 Honey Mammoth
 4 Thornwood Falls
+4 Honey Mammoth
 4 Affectionate Indrik
 9 Island
-9 Forest
+1 Parcelbeast
+1 Migratory Greathorn
+1 Gemrazer
+1 Illuna, Apex of Wishes
+1 Pollywog Symbiote
+1 Auspicious Starrix
+2 Pollywog Symbiote
+2 Parcelbeast
+2 Migratory Greathorn
+2 Gemrazer
+2 Illuna, Apex of Wishes
+2 Auspicious Starrix
+3 Pollywog Symbiote
+3 Gemrazer
+3 Migratory Greathorn
+3 Arboreal Grazer
+3 End-Raze Forerunners
+3 Auspicious Starrix
+3 Parcelbeast
+3 Illuna, Apex of Wishes
+4 Pollywog Symbiote
+4 Migratory Greathorn
+4 Arboreal Grazer
+4 Parcelbeast
+4 Illuna, Apex of Wishes
+4 Auspicious Starrix
+10 Forest
+11 Forest
+12 Forest
+13 Forest
+14 Forest
