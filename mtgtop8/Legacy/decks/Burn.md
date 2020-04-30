@@ -26,8 +26,8 @@
 
 |*n*<sup>th</sup> copy|                                       Maindeck Card                                       |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
 |--------------------:|-------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
-|                    1|[Pyrostatic Pillar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=44290)|                    1|[Red Elemental Blast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=814)   |
-|                    1|[Grim Lavamancer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430589) |                    1|[Ensnaring Bridge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=15866)    |
+|                    1|[Pyrostatic Pillar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=44290)|                    1|[Ensnaring Bridge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=15866)    |
+|                    1|[Grim Lavamancer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430589) |                    1|[Red Elemental Blast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=814)   |
 |                    2|[Pyrostatic Pillar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=44290)|                    1|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)|
 |                   17|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)        |                    1|[Harsh Mentor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426837)       |
 |                   19|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)        |                    2|[Ensnaring Bridge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=15866)    |

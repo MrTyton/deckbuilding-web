@@ -25,10 +25,16 @@
 
 # Other Options
 
-|*n*<sup>th</sup> copy|                                   Maindeck Card                                   |*n*<sup>th</sup> copy|                                     Sideboard Card                                      |
-|--------------------:|-----------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------|
-|                    4|Neutralize                                                                         |                    3|[Aether Gust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466796)   |
-|                    1|[Unsummon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=136218)|                    4|[Aether Gust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466796)   |
-|                   21|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)  |                    4|[Cerulean Drake](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466807)|
-|                    4|[Opt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442948)     |                    1|[So Tiny](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473026)       |
+|*n*<sup>th</sup> copy|                                      Maindeck Card                                       |*n*<sup>th</sup> copy|                                         Sideboard Card                                          |
+|--------------------:|------------------------------------------------------------------------------------------|--------------------:|-------------------------------------------------------------------------------------------------|
+|                    4|Neutralize                                                                                |                    3|[Aether Gust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466796)           |
+|                    1|[Unsummon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=136218)       |                    4|[Aether Gust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466796)           |
+|                   21|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)         |                    1|[Disdainful Stroke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420705)     |
+|                    1|[Hypnotic Sprite](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473011)|                    1|[Omen of the Sea](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476309)       |
+|                    2|[Hypnotic Sprite](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473011)|                    1|[Essence Scatter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426754)       |
+|                    4|[Opt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442948)            |                    1|[Mu Yanling, Sky Dancer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466822)|
+|                     |                                                                                          |                    1|[Opt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442948)                   |
+|                     |                                                                                          |                    1|[So Tiny](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473026)               |
+|                     |                                                                                          |                    4|[Cerulean Drake](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466807)        |
+|                     |                                                                                          |                    2|[Disdainful Stroke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420705)     |
 

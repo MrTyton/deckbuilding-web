@@ -1,0 +1,49 @@
+# Jeskai Auras
+
+#### [Export MTGO List](../collection/Jeskai%20Auras/Jeskai%20Auras.txt)
+#### [Export Arena List](../collection/Jeskai%20Auras/Jeskai%20Auras_arena.txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Defiant%20Strike%0A2%09Fight%20as%20One%0A4%09Gods%20Willing%0A4%09Hallowed%20Fountain%0A4%09Karametra's%20Blessing%0A4%09Opt%0A2%09Plains%0A4%09Pteramander%0A2%09Raking%20Claws%0A4%09Raugrin%20Triome%0A4%09Sacred%20Foundry%0A4%09Sentinel's%20Eyes%0A4%09Sprite%20Dragon%0A4%09Staggering%20Insight%0A4%09Steam%20Vents%0A1%09Temple%20of%20Enlightenment%0A1%09Temple%20of%20Triumph%0A4%09Tenth%20District%20Legionnaire&deckside=2%09Drannith%20Magistrate%0A2%09Fry%0A3%09Light%20of%20Hope%0A1%09Lurrus%20of%20the%20Dream%20Den%0A3%09Mystical%20Dispute%0A4%09Shock)
+# Maindeck
+
+|                                             Creature (8)                                              |                                        Enchantment (8)                                        |                                          Instant (16)                                           |                                             Land (16)                                              |  Unknown (12)  |
+|-------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|----------------|
+|4 [Pteramander](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457191)               |4 [Sentinel's Eyes](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476287)   |4 [Defiant Strike](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386515)      |4 [Hallowed Fountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=97071)       |2 Fight as One  |
+|4 [Tenth District Legionnaire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461149)|4 [Staggering Insight](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476479)|4 [Gods Willing](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442005)        |2 [Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)                 |2 Raking Claws  |
+|                                                                                                       |                                                                                               |4 [Karametra's Blessing](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476277)|4 [Sacred Foundry](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405106)         |4 Raugrin Triome|
+|                                                                                                       |                                                                                               |4 [Opt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442948)                 |4 [Steam Vents](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405109)            |4 Sprite Dragon |
+|                                                                                                       |                                                                                               |                                                                                                 |1 [Temple of Enlightenment](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=378535)|                |
+|                                                                                                       |                                                                                               |                                                                                                 |1 [Temple of Triumph](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373560)      |                |
+
+
+# Sideboard
+
+|                                         Instant (9)                                         |       Unknown (6)       |
+|---------------------------------------------------------------------------------------------|-------------------------|
+|2 [Fry](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466894)             |2 Drannith Magistrate    |
+|3 [Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)|3 Light of Hope          |
+|4 [Shock](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129732)           |1 Lurrus of the Dream Den|
+
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                          Maindeck Card                                           |*n*<sup>th</sup> copy|                                           Sideboard Card                                            |
+|--------------------:|--------------------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------------------|
+|                    1|[Temple of Epiphany](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442808)     |                    1|[Goblin Cratermaker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452853)        |
+|                    2|[Temple of Enlightenment](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=378535)|                    1|[Hushbringer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472980)               |
+|                    1|[Bolt Bend](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461042)              |                    1|Drannith Healer                                                                                      |
+|                    1|[Shock](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129732)                  |                    2|Drannith Healer                                                                                      |
+|                    2|[Shock](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129732)                  |                    1|[Scorching Dragonfire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473101)      |
+|                    3|[Shock](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129732)                  |                    1|[Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452)         |
+|                    4|[Shock](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129732)                  |                    2|[Scorching Dragonfire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473101)      |
+|                    3|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)                 |                    2|[Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452)         |
+|                     |                                                                                                  |                    3|[Scorching Dragonfire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473101)      |
+|                     |                                                                                                  |                    3|[Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452)         |
+|                     |                                                                                                  |                    1|[Apostle of Purifying Light](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466760)|
+|                     |                                                                                                  |                    1|[Aether Gust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466796)               |
+|                     |                                                                                                  |                    1|Fight as One                                                                                         |
+|                     |                                                                                                  |                    2|[Apostle of Purifying Light](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466760)|
+|                     |                                                                                                  |                    2|Fight as One                                                                                         |
+|                     |                                                                                                  |                    2|[Aether Gust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466796)               |
+|                     |                                                                                                  |                    3|[Apostle of Purifying Light](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466760)|
+|                     |                                                                                                  |                    4|[Apostle of Purifying Light](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466760)|
+

@@ -43,8 +43,8 @@
 1 Murderous Rider
 2 Indatha Triome
 2 Forest
-2 Vraska, Golgari Queen
 2 Mythos of Nethroi
+2 Vraska, Golgari Queen
 2 Sandsteppe Citadel
 2 Castle Ardenvale
 2 Hangarback Walker
@@ -91,9 +91,9 @@
 2 Chained to the Rocks
 2 Indomitable Creativity
 3 The Birth of Meletis
+3 Temple of Triumph
 3 Sweltering Suns
 3 Gideon of the Trials
-3 Temple of Triumph
 3 Chained to the Rocks
 3 Indomitable Creativity
 3 Pirate's Pillage
@@ -105,9 +105,9 @@
 4 Indomitable Creativity
 1 Dauntless Bodyguard
 1 Kytheon, Hero of Akros
-1 Venerated Loxodon
 1 Thalia's Lieutenant
 1 Thraben Inspector
+1 Venerated Loxodon
 2 Dauntless Bodyguard
 2 Kytheon, Hero of Akros
 2 Thalia's Lieutenant
@@ -130,15 +130,15 @@
 2 Mutavault
 1 General Kudro of Drannith
 1 Kitesail Freebooter
-1 Giant Killer
 1 Elspeth, Sun's Nemesis
+1 Giant Killer
 1 Dire Tactics
 1 Bloodsoaked Champion
 2 General Kudro of Drannith
 2 Kitesail Freebooter
-2 Giant Killer
-2 Dire Tactics
 2 Elspeth, Sun's Nemesis
+2 Dire Tactics
+2 Giant Killer
 2 Bloodsoaked Champion
 3 General Kudro of Drannith
 3 Kitesail Freebooter
@@ -148,14 +148,15 @@
 3 Bloodsoaked Champion
 4 Kitesail Freebooter
 4 Dire Tactics
-4 Giant Killer
 4 General Kudro of Drannith
+4 Giant Killer
 4 Bloodsoaked Champion
 1 Blood Crypt
 2 Blood Crypt
 1 Urborg, Tomb of Yawgmoth
 3 Blood Crypt
 4 Blood Crypt
+1 Kroxa, Titan of Death's Hunger
 1 Dragonskull Summit
 1 Pack Rat
 1 Insolent Neonate
@@ -164,31 +165,30 @@
 1 Castle Locthwain
 1 Claim/Fame
 1 Mire Triton
-1 Kroxa, Titan of Death's Hunger
 1 Cryptbreaker
 1 Dreadbore
 1 Liliana, Heretical Healer
 1 Dreadhorde Arcanist
 2 Dreadbore
+2 Kroxa, Titan of Death's Hunger
 2 Dragonskull Summit
 2 Pack Rat
 2 Claim/Fame
 2 Mire Triton
 2 Agonizing Remorse
-2 Kroxa, Titan of Death's Hunger
 2 Dreadhorde Arcanist
 2 Liliana, Heretical Healer
 2 Castle Locthwain
+3 Kroxa, Titan of Death's Hunger
 3 Dragonskull Summit
 3 Pack Rat
-3 Mire Triton
 3 Claim/Fame
-3 Kroxa, Titan of Death's Hunger
+3 Mire Triton
 3 Liliana, Heretical Healer
 3 Dreadhorde Arcanist
-4 Dreadhorde Arcanist
-4 Mire Triton
 4 Kroxa, Titan of Death's Hunger
+4 Mire Triton
+4 Dreadhorde Arcanist
 4 Claim/Fame
 4 Dragonskull Summit
 4 Pack Rat
@@ -199,12 +199,12 @@
 2 Temple Garden
 2 Return to the Ranks
 2 Satyr Wayfinder
-2 Ayli, Eternal Pilgrim
 2 Garrison Cat
+2 Ayli, Eternal Pilgrim
 3 Return to the Ranks
 3 Cartel Aristocrat
-3 Cruel Celebrant
 3 Garrison Cat
+3 Cruel Celebrant
 3 Temple Garden
 3 Satyr Wayfinder
 4 Cruel Celebrant
@@ -220,7 +220,6 @@
 1 Ipnu Rivulet
 1 Temple of Epiphany
 1 Temple of Malice
-1 Storm Herald
 1 Abrade
 1 Jace, Vryn's Prodigy
 1 Burning Anger
@@ -229,15 +228,16 @@
 1 Ox of Agonas
 1 Watery Grave
 1 Cathartic Reunion
+1 Storm Herald
 2 Temple of Malice
 2 Temple of Epiphany
-2 Storm Herald
 2 Abrade
 2 Ox of Agonas
 2 Burning Anger
 2 Watery Grave
 2 Colossification
 2 Breaking/Entering
+2 Storm Herald
 2 Cathartic Reunion
 2 Jace, Vryn's Prodigy
 3 Ox of Agonas
@@ -251,9 +251,9 @@
 3 Colossification
 4 Watery Grave
 4 Jace, Vryn's Prodigy
-4 Storm Herald
 4 Breaking/Entering
 4 Burning Anger
+4 Storm Herald
 4 Cathartic Reunion
 4 Colossification
 1 Questing Beast
@@ -356,26 +356,26 @@
 1 Conclave Tribunal
 2 Benalish Marshal
 2 Inspiring Vantage
-2 Venerated Loxodon
 2 Venerable Knight
+2 Venerated Loxodon
 2 Conclave Tribunal
 2 History of Benalia
 2 Brave the Elements
 2 Soldier of the Pantheon
 2 Boros Elite
 3 Inspiring Vantage
-3 Venerated Loxodon
 3 Venerable Knight
 3 Brave the Elements
 3 Boros Elite
 3 Benalish Marshal
 3 Soldier of the Pantheon
+3 Venerated Loxodon
 4 Inspiring Vantage
 4 Venerable Knight
-4 Venerated Loxodon
 4 Soldier of the Pantheon
 4 Benalish Marshal
 4 Brave the Elements
+4 Venerated Loxodon
 7 Plains
 8 Plains
 9 Plains
@@ -434,8 +434,8 @@
 1 Curious Obsession
 1 Unsubstantiate
 1 Sea-Dasher Octopus
-1 Dive Down
 1 Tempest Djinn
+1 Dive Down
 1 Essence Capture
 1 Siren Stormtamer
 2 Brazen Borrower

@@ -57,13 +57,13 @@
 2 Baffling End
 1 Wolfwillow Haven
 1 Temple of Plenty
+1 Calix, Destiny's Hand
 1 Banishing Light
 1 Sigil of the Empty Throne
 1 Sphere of Safety
 1 Setessan Champion
 1 Eidolon of Blossoms
 1 Seal Away
-1 Calix, Destiny's Hand
 1 Herald of the Pantheon
 2 Wolfwillow Haven
 2 Banishing Light
@@ -175,16 +175,17 @@
 2 Bomat Courier
 3 Bomat Courier
 4 Bomat Courier
+1 Shefet Dunes
 1 Legion's Landing
 1 Reckless Bushwhacker
 1 Battlefield Forge
 1 Lightning Strike
 1 Toolcraft Exemplar
-1 Secure the Wastes
 1 Servo Exhibition
 1 Clifftop Retreat
+1 Secure the Wastes
 1 Raise the Alarm
-1 Shefet Dunes
+2 Shefet Dunes
 2 Legion's Landing
 2 Reckless Bushwhacker
 2 Battlefield Forge
@@ -192,7 +193,6 @@
 2 Toolcraft Exemplar
 2 Gideon, Ally of Zendikar
 2 Raise the Alarm
-2 Shefet Dunes
 2 Servo Exhibition
 3 Battlefield Forge
 3 Reckless Bushwhacker
@@ -211,10 +211,10 @@
 4 Benalish Marshal
 4 Raise the Alarm
 4 Sacred Foundry
-1 Faerie Vandal
 1 Steam Vents
 1 Spirebluff Canal
 1 Slip Through Space
+1 Faerie Vandal
 1 The Royal Scions
 1 Gods Willing
 1 Defiant Strike
@@ -227,6 +227,7 @@
 1 Sentinel's Eyes
 2 Steam Vents
 2 The Royal Scions
+2 Faerie Vandal
 2 Defiant Strike
 2 Favored Hoplite
 2 Gods Willing
@@ -235,7 +236,6 @@
 2 Reckless Rage
 2 Tenth District Legionnaire
 2 Monastery Swiftspear
-2 Faerie Vandal
 3 Steam Vents
 3 The Royal Scions
 3 Defiant Strike
@@ -266,12 +266,12 @@
 1 Cavalier of Thorns
 1 Castle Garenbrig
 1 Hinterland Harbor
+1 Kiora Bests the Sea God
 1 Tamiyo, Collector of Tales
 1 World Breaker
 1 Arboreal Grazer
 1 Ugin, the Spirit Dragon
 1 Nissa, Who Shakes the World
-1 Kiora Bests the Sea God
 1 Uro, Titan of Nature's Wrath
 1 Yavimaya Coast
 1 Island
@@ -380,25 +380,25 @@
 2 Experiment One
 2 Boros Charm
 2 Atarka's Command
+2 Bronzehide Lion
 2 Gruul Spellbreaker
 2 Fleecemane Lion
 2 Rootbound Crag
-2 Bronzehide Lion
 3 Pelt Collector
 3 Experiment One
 3 Boros Charm
 3 Ghor-Clan Rampager
 3 Atarka's Command
 3 Questing Beast
-3 Rootbound Crag
 3 Bronzehide Lion
+3 Rootbound Crag
 3 Gruul Spellbreaker
 3 Stomping Ground
 4 Pelt Collector
 4 Experiment One
 4 Voice of Resurgence
-4 Gruul Spellbreaker
 4 Bronzehide Lion
+4 Gruul Spellbreaker
 4 Stomping Ground
 1 Mutavault
 2 Mutavault
@@ -492,8 +492,8 @@
 2 Sorin, Imperious Bloodlord
 2 Champion of Dusk
 2 Dusk Legion Zealot
-2 Kaya, Orzhov Usurper
 2 Gifted Aetherborn
+2 Kaya, Orzhov Usurper
 2 Knight of the Ebon Legion
 2 Blood Baron of Vizkopa
 2 Oathsworn Vampire

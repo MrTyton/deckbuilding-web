@@ -41,10 +41,10 @@
 |                     |                                                                                         |                    2|[Autumn's Veil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205051)      |
 |                     |                                                                                         |                    1|[Infernal Tutor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107308)     |
 |                     |                                                                                         |                    1|[Trash for Treasure](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420753) |
-|                     |                                                                                         |                    2|[Xantid Swarm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413735)       |
-|                     |                                                                                         |                    3|[Xantid Swarm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413735)       |
 |                     |                                                                                         |                    1|[Force of Vigor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464113)     |
 |                     |                                                                                         |                    2|[Force of Vigor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464113)     |
 |                     |                                                                                         |                    3|[Force of Vigor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464113)     |
 |                     |                                                                                         |                    4|[Force of Vigor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464113)     |
+|                     |                                                                                         |                    2|[Xantid Swarm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413735)       |
+|                     |                                                                                         |                    3|[Xantid Swarm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413735)       |
 

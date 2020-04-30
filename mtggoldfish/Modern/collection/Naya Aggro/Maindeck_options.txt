@@ -9,13 +9,13 @@
 1 Bonecrusher Giant
 2 Bonecrusher Giant
 4 Snow-Covered Forest
+1 Forest
+2 Forest
+3 Forest
 1 Pillage
 2 Pillage
 3 Pillage
 1 Mountain
-1 Forest
-2 Forest
-3 Forest
 1 Plains
 4 Arid Mesa
 5 Snow-Covered Forest
@@ -27,6 +27,37 @@
 2 Flame Slash
 3 Flame Slash
 4 Flame Slash
+1 Misty Rainforest
+1 Grove of the Burnwillows
+1 Kiki-Jiki, Mirror Breaker
+1 Restoration Angel
+1 Eternal Witness
+1 Vizier of Remedies
+1 Summoning Trap
+1 Devoted Druid
+1 Viridian Longbow
+1 Verdant Catacombs
+1 Chord of Calling
+2 Grove of the Burnwillows
+2 Kiki-Jiki, Mirror Breaker
+2 Summoning Trap
+2 Devoted Druid
+2 Temple Garden
+2 Restoration Angel
+2 Eternal Witness
+2 Vizier of Remedies
+2 Chord of Calling
+3 Devoted Druid
+3 Chord of Calling
+3 Restoration Angel
+3 Eternal Witness
+3 Vizier of Remedies
+3 Summoning Trap
+3 Kiki-Jiki, Mirror Breaker
+4 Restoration Angel
+4 Chord of Calling
+4 Devoted Druid
+4 Eternal Witness
 1 Lukka, Coppercoat Outcast
 1 Goblin Rabblemaster
 1 Planebound Accomplice
@@ -42,8 +73,8 @@
 3 Stomping Ground
 3 Planebound Accomplice
 3 Goblin Rabblemaster
+4 Lukka, Coppercoat Outcast
 4 Stomping Ground
-4 Goblin Rabblemaster
 5 Forest
 6 Forest
-4 Lukka, Coppercoat Outcast
+4 Goblin Rabblemaster
