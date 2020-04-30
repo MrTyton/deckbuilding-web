@@ -1,30 +1,24 @@
+2 Karn, the Great Creator
 5 Forest
-1 Sundering Titan
+3 Relic of Progenitus
 2 Ugin, the Spirit Dragon
 1 Ghost Quarter
 3 Karn, the Great Creator
 4 Karn, the Great Creator
-3 Relic of Progenitus
 1 Emrakul, the Promised End
 1 Dismember
-1 All Is Dust
-1 Kozilek, the Great Distortion
-1 Once Upon a Time
 2 Walking Ballista
-1 Chalice of the Void
 1 Island
+1 Chalice of the Void
 1 Thirst for Knowledge
 2 Island
 3 Island
 4 Island
 5 Island
 1 Field of Ruin
-1 River of Tears
 1 Talisman of Dominance
 1 Tolaria West
-1 Omen of the Sea
 1 Remand
-1 Tectonic Edge
 1 Repeal
 1 Cyclonic Rift
 1 Mindslaver
@@ -40,6 +34,10 @@
 3 Thirst for Knowledge
 4 Thirst for Knowledge
 4 Condescend
+1 All Is Dust
+1 Kozilek, the Great Distortion
+1 Once Upon a Time
+4 Relic of Progenitus
 1 Everflowing Chalice
 1 Mystic Forge
 1 Wastes
@@ -47,8 +45,8 @@
 1 Inventors' Fair
 1 Astral Cornucopia
 1 Coretapper
-1 Surge Node
 1 Paradox Engine
+1 Surge Node
 2 Everflowing Chalice
 2 Blast Zone
 2 Chalice of the Void
@@ -70,42 +68,50 @@
 4 Coretapper
 4 Surge Node
 4 Everflowing Chalice
+1 Karn, Scion of Urza
+2 Karn, Scion of Urza
+4 Remand
+1 River of Tears
+1 Omen of the Sea
+1 Tectonic Edge
+2 Talisman of Dominance
+6 Island
 1 Snapcaster Mage
 1 Hallowed Fountain
+1 Wall of Omens
 1 Midnight Clock
-1 Dream Trawler
 1 Solemn Simulacrum
 1 Shadow of Doubt
-1 Wall of Omens
-1 Elder Deep-Fiend
+1 Elspeth, Sun's Nemesis
+1 Sphinx's Revelation
 1 Elspeth, Sun's Champion
-1 Realm-Cloaked Giant
+1 Time Wipe
 1 Jace, the Mind Sculptor
 1 Supreme Verdict
 1 Torrential Gearhulk
+1 Realm-Cloaked Giant
 1 Path to Exile
 1 Fortune Thief
 1 Azorius Signet
 1 Settle the Wreckage
-1 Sphinx's Revelation
 1 Flooded Strand
 1 Gifts Ungiven
-1 Time Wipe
+1 Elder Deep-Fiend
 1 Talisman of Progress
 1 Cryptic Command
 1 Celestial Colonnade
 1 Wrath of God
+1 Dream Trawler
 1 Irrigated Farmland
 1 Mystic Gate
 1 Plains
-1 Elspeth, Sun's Nemesis
 2 Wall of Omens
 2 Hallowed Fountain
 2 Shadow of Doubt
-2 Elder Deep-Fiend
 2 Cryptic Command
 2 Plains
 2 Solemn Simulacrum
+2 Elder Deep-Fiend
 2 Celestial Colonnade
 2 Emrakul, the Promised End
 2 Flooded Strand
@@ -114,15 +120,14 @@
 3 Cryptic Command
 4 Solemn Simulacrum
 1 Nurturing Peatland
-1 Ensnaring Bridge
-1 Karn, Scion of Urza
-2 Karn, Scion of Urza
-2 Inventors' Fair
-4 Oblivion Stone
-4 Relic of Progenitus
 1 Spell Burst
 2 River of Tears
-4 Remand
+1 Ensnaring Bridge
+2 Inventors' Fair
+1 Trinket Mage
+1 Batterskull
+3 Repeal
+4 Oblivion Stone
 1 Waterlogged Grove
 2 Once Upon a Time
 3 Once Upon a Time
@@ -132,8 +137,6 @@
 2 Simian Spirit Guide
 3 Simian Spirit Guide
 4 Mystic Forge
-1 Trinket Mage
-1 Batterskull
-2 Talisman of Dominance
-3 Repeal
-6 Island
+1 Gemstone Caverns
+1 Trinisphere
+7 Island

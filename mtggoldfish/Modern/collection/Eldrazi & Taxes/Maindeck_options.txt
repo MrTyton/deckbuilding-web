@@ -23,9 +23,9 @@
 2 Aven Mindcensor
 2 Winds of Abandon
 4 Plains
-1 Cast Out
 1 Banishing Light
 1 Rest in Peace
+1 Cast Out
 1 Scavenger Grounds
 1 Blast Zone
 1 Eternal Scourge
@@ -36,8 +36,8 @@
 2 Shefet Dunes
 2 Scavenger Grounds
 3 Eternal Scourge
-3 Scavenger Grounds
 3 Shefet Dunes
+3 Scavenger Grounds
 4 Eternal Scourge
 4 Shefet Dunes
 1 Shambling Vent
@@ -52,14 +52,14 @@
 4 Charming Prince
 1 Thalia, Heretic Cathar
 1 Bonecrusher Giant
-1 Battlefield Forge
+1 Sacred Foundry
 1 Dismember
 1 Wastes
-1 Sacred Foundry
+1 Battlefield Forge
 2 Bonecrusher Giant
-2 Battlefield Forge
 2 Dismember
 2 Thalia, Heretic Cathar
+2 Battlefield Forge
 3 Bonecrusher Giant
 3 Sunbaked Canyon
 3 Battlefield Forge
@@ -70,17 +70,55 @@
 2 Giver of Runes
 3 Giver of Runes
 4 Silent Clearing
+1 Temple Garden
+1 Windswept Heath
+2 Windswept Heath
+3 Windswept Heath
+4 Windswept Heath
+1 Godless Shrine
+1 Marsh Flats
+1 Verdant Catacombs
+1 Eternal Witness
+1 Field of Ruin
+1 Fiend Hunter
+1 Wildborn Preserver
+1 Overgrown Tomb
+1 Scavenging Ooze
+1 Knight of Autumn
+1 Snow-Covered Forest
+1 Noble Hierarch
+1 Razorverge Thicket
+1 Collected Company
+1 Anafenza, the Foremost
+1 Ephemerate
+1 Horizon Canopy
+1 Kitesail Freebooter
+1 Wall of Omens
+2 Marsh Flats
+2 Eternal Witness
+2 Verdant Catacombs
+2 Horizon Canopy
+2 Noble Hierarch
+2 Ephemerate
+2 Wall of Omens
+2 Collected Company
+2 Scavenging Ooze
+3 Marsh Flats
+3 Eternal Witness
+3 Collected Company
+3 Ephemerate
+4 Collected Company
+4 Ephemerate
+4 Wasteland Strangler
 1 Shalai, Voice of Plenty
 1 Emrakul, the Aeons Torn
 1 Batterskull
 1 Sword of Fire and Ice
 1 Vizier of Remedies
 1 Duskwatch Recruiter
-1 Temple Garden
 1 Devoted Druid
 1 Walking Ballista
 1 Sword of Feast and Famine
-1 Windswept Heath
 1 Stoneforge Mystic
 1 Forest
 2 Forest
@@ -89,22 +127,19 @@
 2 Temple Garden
 2 Vizier of Remedies
 2 Stoneforge Mystic
-2 Windswept Heath
 3 Temple Garden
+3 Aven Mindcensor
 3 Devoted Druid
 3 Winds of Abandon
 3 Forest
 3 Vizier of Remedies
 3 Duskwatch Recruiter
 3 Stoneforge Mystic
-3 Aven Mindcensor
-3 Windswept Heath
 4 Temple Garden
 4 Forest
-4 Windswept Heath
 4 Devoted Druid
 4 Stoneforge Mystic
-5 Plains
 5 Forest
-6 Plains
+5 Plains
 6 Forest
+6 Plains

@@ -1,7 +1,10 @@
-5 Snow-Covered Plains
-6 Snow-Covered Plains
-7 Snow-Covered Plains
+2 Hanged Executioner
+3 Hanged Executioner
+4 Hanged Executioner
 5 Plains
+8 Snow-Covered Plains
+9 Snow-Covered Plains
+10 Snow-Covered Plains
 1 Razorverge Thicket
 1 Mirran Crusader
 2 Razorverge Thicket
@@ -11,18 +14,17 @@
 3 Flickerwisp
 4 Thalia, Guardian of Thraben
 6 Plains
-1 Sword of Feast and Famine
-8 Snow-Covered Plains
-9 Snow-Covered Plains
-10 Snow-Covered Plains
 1 Temple Garden
-1 Scavenging Ooze
 2 Temple Garden
+3 Temple Garden
+1 Sword of Feast and Famine
+1 Scavenging Ooze
 2 Scavenging Ooze
 2 Mirran Crusader
-3 Temple Garden
 4 Silent Clearing
+1 Snow-Covered Forest
 7 Plains
+1 Eiganjo Castle
 1 Dark Confidant
 1 Concealed Courtyard
 2 Dark Confidant
@@ -31,27 +33,25 @@
 3 Dark Confidant
 4 Dark Confidant
 4 Concealed Courtyard
-1 Eiganjo Castle
-1 Snow-Covered Forest
+1 Smuggler's Copter
+1 Kytheon, Hero of Akros
+1 Mishra's Bauble
+1 Dauntless Bodyguard
+2 Smuggler's Copter
+2 Mishra's Bauble
+2 Dauntless Bodyguard
+3 Dauntless Bodyguard
+3 Mishra's Bauble
+4 Mishra's Bauble
 4 Flickerwisp
 1 Bojuka Bog
-1 Smuggler's Copter
 1 Godless Shrine
 1 Snow-Covered Swamp
 1 Dead Weight
-1 Dauntless Bodyguard
-1 Kytheon, Hero of Akros
-1 Mishra's Bauble
-2 Smuggler's Copter
 2 Dead Weight
-2 Dauntless Bodyguard
 2 Bojuka Bog
-2 Mishra's Bauble
 2 Godless Shrine
-3 Dauntless Bodyguard
 3 Smuggler's Copter
-3 Mishra's Bauble
-4 Mishra's Bauble
 1 Lurrus of the Dream Den
 2 Lurrus of the Dream Den
 3 Lurrus of the Dream Den
@@ -61,21 +61,19 @@
 11 Plains
 1 Knight of Autumn
 1 Forest
+1 Sunbaked Canyon
 1 Thalia, Heretic Cathar
 2 Thalia, Heretic Cathar
 1 Spellskite
-1 Selfless Spirit
+4 Temple Garden
+2 Sunbaked Canyon
 1 Tithe Taker
+1 Selfless Spirit
 2 Spellskite
-1 Sunbaked Canyon
 1 Remorseful Cleric
 1 Judge's Familiar
-2 Sunbaked Canyon
 2 Remorseful Cleric
 2 Judge's Familiar
-2 Knight of Autumn
-3 Charming Prince
-4 Charming Prince
 1 Noble Hierarch
 1 Voice of Resurgence
 2 Forest
@@ -83,27 +81,49 @@
 2 Voice of Resurgence
 3 Noble Hierarch
 4 Noble Hierarch
-4 Temple Garden
-1 Ethersworn Canonist
-1 Giant Killer
-1 Mutavault
-1 Force of Virtue
-1 Ranger-Captain of Eos
-2 Mutavault
-2 Ranger-Captain of Eos
-2 Force of Virtue
-2 Giant Killer
-3 Force of Virtue
-3 Mutavault
-4 Mutavault
-4 Force of Virtue
+2 Knight of Autumn
+3 Charming Prince
+4 Charming Prince
+1 Mana Tithe
+1 Castle Ardenvale
+1 Sunpetal Grove
+1 Gavony Township
+1 Collected Company
+1 Thorn of Amethyst
+1 Qasali Pridemage
+1 Arboreal Grazer
+1 Brimaz, King of Oreskos
+1 Regal Caracal
+1 King of the Pride
+1 Pride Sovereign
+1 Stirring Wildwood
+2 Snow-Covered Forest
+2 Mana Tithe
+2 Collected Company
+2 Qasali Pridemage
+2 Thorn of Amethyst
+2 Arboreal Grazer
+2 Sunpetal Grove
+2 Pride Sovereign
+2 King of the Pride
+2 Regal Caracal
+2 Brimaz, King of Oreskos
+3 Arboreal Grazer
+3 Snow-Covered Forest
+3 Qasali Pridemage
+3 Pride Sovereign
+3 King of the Pride
+3 Mana Tithe
+4 Arboreal Grazer
+4 Snow-Covered Forest
+4 Pride Sovereign
 1 Island
 1 Restoration Angel
 1 Blade Splicer
 1 Meddling Mage
 1 Deputy of Detention
-1 Hallowed Fountain
 1 Flooded Strand
+1 Hallowed Fountain
 1 Seachrome Coast
 1 Spell Queller
 2 Hallowed Fountain
@@ -118,12 +138,25 @@
 3 Restoration Angel
 3 Meddling Mage
 3 Deputy of Detention
-3 Seachrome Coast
 3 Spell Queller
+3 Seachrome Coast
 4 Seachrome Coast
 4 Deputy of Detention
 4 Spell Queller
 4 Meddling Mage
+1 Ethersworn Canonist
+1 Giant Killer
+1 Mutavault
+1 Force of Virtue
+1 Ranger-Captain of Eos
+2 Giant Killer
+2 Mutavault
+2 Ranger-Captain of Eos
+2 Force of Virtue
+3 Force of Virtue
+3 Mutavault
+4 Mutavault
+4 Force of Virtue
 1 Tectonic Edge
 1 Tidehollow Sculler
 1 Swamp
@@ -131,3 +164,71 @@
 2 Tidehollow Sculler
 3 Tidehollow Sculler
 4 Tidehollow Sculler
+1 Gingerbrute
+1 Sacred Foundry
+1 Shadowspear
+1 Colossus Hammer
+1 Kor Outfitter
+1 Arid Mesa
+1 Steelshaper's Gift
+1 Inkmoth Nexus
+1 Swiftblade Vindicator
+1 Kor Duelist
+1 Sigarda's Aid
+1 Inspiring Vantage
+1 Magnetic Theft
+2 Gingerbrute
+2 Steelshaper's Gift
+2 Sacred Foundry
+2 Shadowspear
+2 Inkmoth Nexus
+2 Kor Outfitter
+2 Inspiring Vantage
+2 Sigarda's Aid
+2 Arid Mesa
+2 Swiftblade Vindicator
+2 Colossus Hammer
+2 Magnetic Theft
+2 Kor Duelist
+3 Arid Mesa
+3 Sunbaked Canyon
+3 Gingerbrute
+3 Inspiring Vantage
+3 Magnetic Theft
+3 Kor Duelist
+3 Sigarda's Aid
+3 Colossus Hammer
+3 Steelshaper's Gift
+3 Kor Outfitter
+3 Inkmoth Nexus
+3 Swiftblade Vindicator
+4 Arid Mesa
+4 Kor Duelist
+4 Kor Outfitter
+4 Sigarda's Aid
+4 Steelshaper's Gift
+4 Inspiring Vantage
+4 Colossus Hammer
+4 Swiftblade Vindicator
+1 Mox Amber
+1 Isamaru, Hound of Konda
+1 Anafenza, Kin-Tree Spirit
+1 Thraben Inspector
+2 Anafenza, Kin-Tree Spirit
+2 Kytheon, Hero of Akros
+2 Thraben Inspector
+2 Mox Amber
+2 Isamaru, Hound of Konda
+3 Anafenza, Kin-Tree Spirit
+3 Mox Amber
+3 Kytheon, Hero of Akros
+3 Isamaru, Hound of Konda
+3 Thraben Inspector
+4 Mox Amber
+4 Dauntless Bodyguard
+4 Kytheon, Hero of Akros
+4 Thraben Inspector
+4 Isamaru, Hound of Konda
+11 Snow-Covered Plains
+12 Snow-Covered Plains
+13 Snow-Covered Plains

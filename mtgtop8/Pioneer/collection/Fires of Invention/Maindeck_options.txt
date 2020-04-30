@@ -11,12 +11,12 @@
 1 Raugrin Triome
 2 Oath of Chandra
 2 Raugrin Triome
-3 Elspeth Conquers Death
 3 Oath of Chandra
-3 Raugrin Triome
 3 Narset, Parter of Veils
-3 Steam Vents
 3 Omen of the Sea
+3 Raugrin Triome
+3 Steam Vents
+3 Elspeth Conquers Death
 4 Fae of Wishes
 4 Raugrin Triome
 4 Steam Vents
@@ -31,71 +31,111 @@
 1 Heart of Kiran
 1 Gideon, Ally of Zendikar
 2 Sarkhan the Masterless
-2 Gideon, Ally of Zendikar
 2 Nimble Obstructionist
+2 Gideon, Ally of Zendikar
 2 Heart of Kiran
-1 Castle Locthwain
 1 Swamp
-1 Dragonskull Summit
+1 Castle Locthwain
 1 Blood Crypt
 1 Nicol Bolas, the Ravager
 1 Thief of Sanity
-1 Hostage Taker
 1 Spirebluff Canal
+1 Dragonskull Summit
+1 Murderous Rider
+1 Hostage Taker
 1 Thoughtseize
 1 Urborg, Tomb of Yawgmoth
 1 Watery Grave
 1 Drowned Catacomb
 1 The Scarab God
-1 Murderous Rider
 1 Nicol Bolas, Dragon-God
 1 Censor
 1 Thought Erasure
 1 Fatal Push
 2 Watery Grave
 2 Blood Crypt
-2 Dragonskull Summit
-2 Swamp
 2 Thief of Sanity
+2 Dragonskull Summit
+2 Spirebluff Canal
+2 Thought Erasure
+2 Murderous Rider
 2 Thoughtseize
 2 Nicol Bolas, the Ravager
-2 Spirebluff Canal
 2 Fatal Push
 2 Censor
+2 Swamp
 2 Drowned Catacomb
-2 Murderous Rider
 2 The Scarab God
-2 Thought Erasure
-3 Watery Grave
 3 Murderous Rider
-3 Blood Crypt
 3 Thought Erasure
+3 Watery Grave
 3 Thoughtseize
+3 Spirebluff Canal
+3 Blood Crypt
 3 Fatal Push
 3 Nicol Bolas, the Ravager
-3 Spirebluff Canal
 3 Drowned Catacomb
 3 Censor
-4 Watery Grave
 4 Censor
 4 Murderous Rider
-4 Blood Crypt
 4 Thought Erasure
+4 Watery Grave
+4 Spirebluff Canal
+4 Blood Crypt
 4 Thoughtseize
 4 Fatal Push
 4 Drowned Catacomb
-4 Spirebluff Canal
 4 Nicol Bolas, the Ravager
 1 Karn, the Great Creator
 2 Karn, the Great Creator
 3 Karn, the Great Creator
 4 Karn, the Great Creator
-1 Courser of Kruphix
+1 Gideon's Intervention
+1 Banishing Light
+1 Heliod, Sun-Crowned
+1 Chained to the Rocks
+1 The Akroan War
+1 The Birth of Meletis
+1 Sphere of Safety
+1 Dawn of Hope
+1 Idyllic Tutor
+1 Rest in Peace
+1 Sigil of the Empty Throne
+1 Outpost Siege
+1 Quarantine Field
+2 Gideon's Intervention
+2 Banishing Light
+2 Chained to the Rocks
+2 Clifftop Retreat
+2 Plains
+2 Mountain
+2 Idyllic Tutor
+2 The Birth of Meletis
+3 Gideon's Intervention
+3 Plains
+3 Chained to the Rocks
+3 Temple of Triumph
+3 Mountain
+3 The Birth of Meletis
+3 Idyllic Tutor
+4 Gideon's Intervention
+4 Plains
+4 Chained to the Rocks
+4 Temple of Triumph
+4 Mountain
+4 The Birth of Meletis
+4 Idyllic Tutor
+5 Plains
+5 Mountain
+6 Mountain
+7 Mountain
+8 Mountain
 1 Woodland Cemetery
 1 Arboreal Grazer
-1 Tireless Tracker
 1 Dryad of the Ilysian Grove
+1 Tireless Tracker
 1 Overgrown Tomb
+1 Courser of Kruphix
 1 Blooming Marsh
 1 Forest
 1 Korvold, Fae-Cursed King
@@ -106,73 +146,33 @@
 1 Rootbound Crag
 2 Woodland Cemetery
 2 Arboreal Grazer
-2 Courser of Kruphix
-2 Tireless Tracker
 2 Vraska, Golgari Queen
+2 Tireless Tracker
 2 Forest
 2 Stomping Ground
 2 Overgrown Tomb
 2 Sylvan Caryatid
 2 Korvold, Fae-Cursed King
 2 Blooming Marsh
+2 Courser of Kruphix
 2 Ugin's Nexus
 3 Forest
 3 Arboreal Grazer
 3 Blooming Marsh
 3 Vraska, Golgari Queen
-3 Tireless Tracker
 3 Courser of Kruphix
+3 Overgrown Tomb
+3 Tireless Tracker
 3 Ugin's Nexus
 3 Stomping Ground
 3 Sylvan Caryatid
-3 Overgrown Tomb
 3 Korvold, Fae-Cursed King
 4 Tireless Tracker
-4 Forest
+4 Overgrown Tomb
+4 Blooming Marsh
 4 Arboreal Grazer
 4 Fabled Passage
 4 Vraska, Golgari Queen
 4 Stomping Ground
-4 Overgrown Tomb
-4 Blooming Marsh
+4 Forest
 5 Forest
-1 Gideon's Intervention
-1 Banishing Light
-1 Sigil of the Empty Throne
-1 The Akroan War
-1 The Birth of Meletis
-1 Sphere of Safety
-1 Dawn of Hope
-1 Idyllic Tutor
-1 Chained to the Rocks
-1 Rest in Peace
-1 Outpost Siege
-1 Heliod, Sun-Crowned
-1 Quarantine Field
-2 Gideon's Intervention
-2 Banishing Light
-2 Plains
-2 Mountain
-2 Idyllic Tutor
-2 The Birth of Meletis
-2 Clifftop Retreat
-2 Chained to the Rocks
-3 Gideon's Intervention
-3 Plains
-3 Temple of Triumph
-3 The Birth of Meletis
-3 Chained to the Rocks
-3 Idyllic Tutor
-3 Mountain
-4 Gideon's Intervention
-4 Plains
-4 Temple of Triumph
-4 The Birth of Meletis
-4 Idyllic Tutor
-4 Chained to the Rocks
-4 Mountain
-5 Plains
-5 Mountain
-6 Mountain
-7 Mountain
-8 Mountain

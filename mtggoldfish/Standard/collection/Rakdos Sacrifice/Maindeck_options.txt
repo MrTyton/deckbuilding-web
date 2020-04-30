@@ -2,35 +2,35 @@
 1 Midnight Reaper
 2 Midnight Reaper
 8 Swamp
-1 Forest
+3 Midnight Reaper
+1 Temple of Malice
+1 Stomping Ground
 1 Gilded Goose
 1 Overgrown Tomb
 1 Korvold, Fae-Cursed King
-1 Stomping Ground
-2 Gilded Goose
-2 Overgrown Tomb
-2 Forest
+1 Forest
 2 Stomping Ground
+2 Gilded Goose
+2 Forest
+2 Overgrown Tomb
 2 Korvold, Fae-Cursed King
-3 Overgrown Tomb
-3 Gilded Goose
 3 Stomping Ground
+3 Gilded Goose
 3 Forest
+3 Overgrown Tomb
 3 Korvold, Fae-Cursed King
-4 Overgrown Tomb
-4 Gilded Goose
 4 Stomping Ground
-3 Midnight Reaper
-1 Priest of Forgotten Gods
-2 Priest of Forgotten Gods
-3 Priest of Forgotten Gods
-1 Temple of Malice
+4 Gilded Goose
+4 Overgrown Tomb
+4 Midnight Reaper
 4 Forest
 1 Lurrus of the Dream Den
 1 Knight of the Ebon Legion
 2 Knight of the Ebon Legion
 3 Knight of the Ebon Legion
-4 Midnight Reaper
+1 Priest of Forgotten Gods
+2 Priest of Forgotten Gods
+3 Priest of Forgotten Gods
 1 Agonizing Remorse
 2 Agonizing Remorse
 3 Agonizing Remorse
@@ -40,34 +40,36 @@
 3 Trail of Crumbs
 4 Trail of Crumbs
 4 Priest of Forgotten Gods
-1 Fiend Artisan
-2 Fiend Artisan
-3 Fiend Artisan
-9 Swamp
-10 Swamp
-11 Swamp
-1 Murderous Rider
-2 Murderous Rider
+2 Lurrus of the Dream Den
 1 Liliana, Dreadhorde General
 1 Extinction Event
 2 Extinction Event
 3 Extinction Event
 4 Extinction Event
+2 Temple of Malice
+1 Cavalier of Night
 4 Knight of the Ebon Legion
+1 Murderous Rider
+2 Murderous Rider
 1 Heartless Act
 2 Heartless Act
 1 Call of the Death-Dweller
-2 Lurrus of the Dream Den
+1 Fiend Artisan
 1 Gray Merchant of Asphodel
 1 Ayara, First of Locthwain
 1 Nightmare Shepherd
+2 Fiend Artisan
 2 Gray Merchant of Asphodel
 2 Ayara, First of Locthwain
 2 Nightmare Shepherd
+3 Fiend Artisan
 3 Ayara, First of Locthwain
 3 Gray Merchant of Asphodel
 4 Fiend Artisan
 4 Gray Merchant of Asphodel
+9 Swamp
+10 Swamp
+11 Swamp
 12 Swamp
 13 Swamp
 14 Swamp
@@ -75,23 +77,20 @@
 16 Swamp
 17 Swamp
 18 Swamp
-1 Tymaret, Chosen from Death
 1 Castle Embereth
-1 Cavalier of Night
-1 Bedevil
 1 Savai Triome
+1 Bedevil
 2 Savai Triome
+3 Judith, the Scourge Diva
+1 Bonecrusher Giant
+1 Vraska, Golgari Queen
+1 Thrashing Brontodon
+1 Assassin's Trophy
+2 Bonecrusher Giant
+2 Assassin's Trophy
+3 Bonecrusher Giant
 2 Call of the Death-Dweller
 3 Lurrus of the Dream Den
-2 Temple of Malice
-3 Judith, the Scourge Diva
-1 Vraska, Golgari Queen
-1 Assassin's Trophy
-1 Thrashing Brontodon
-1 Bonecrusher Giant
-2 Assassin's Trophy
-2 Bonecrusher Giant
-3 Bonecrusher Giant
 1 Tymaret Calls the Dead
 2 Tymaret Calls the Dead
 3 Tymaret Calls the Dead
@@ -103,10 +102,7 @@
 3 Gemrazer
 4 Korvold, Fae-Cursed King
 5 Forest
-1 Kroxa, Titan of Death's Hunger
-6 Mountain
-7 Mountain
-8 Mountain
+1 Tymaret, Chosen from Death
 1 Yarok's Fenlurker
 2 Tymaret, Chosen from Death
 2 Yarok's Fenlurker

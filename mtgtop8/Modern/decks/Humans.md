@@ -62,6 +62,6 @@
 |                     |                                                                                                      |                    3|[Plague Engineer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464049)             |
 |                     |                                                                                                      |                    1|[Ravenous Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197537)               |
 |                     |                                                                                                      |                    1|[Kambal, Consul of Allocation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417756)|
-|                     |                                                                                                      |                    1|[Kessig Malcontents](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=240114)          |
 |                     |                                                                                                      |                    2|[Ravenous Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197537)               |
+|                     |                                                                                                      |                    1|[Kessig Malcontents](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=240114)          |
 

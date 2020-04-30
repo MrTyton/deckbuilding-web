@@ -45,8 +45,8 @@
 3 Goblin Chainwhirler
 1 Blood Crypt
 1 Scrapheap Scrounger
-2 Blood Crypt
 2 Scrapheap Scrounger
+2 Blood Crypt
 3 Scrapheap Scrounger
 3 Blood Crypt
 4 Scrapheap Scrounger
@@ -64,8 +64,8 @@
 3 Light Up the Stage
 4 Runaway Steam-Kin
 4 Light Up the Stage
-1 Kari Zev's Expertise
 1 Legion Warboss
+1 Kari Zev's Expertise
 2 Legion Warboss
 1 Anax, Hardened in the Forge
 1 Fervent Champion
@@ -75,37 +75,6 @@
 3 Fervent Champion
 4 Fervent Champion
 4 Goblin Chainwhirler
-1 Forest
-1 Experiment One
-1 Ahn-Crop Crasher
-1 Overgrown Tomb
-1 Pelt Collector
-1 Blooming Marsh
-1 Burning-Tree Emissary
-1 Stomping Ground
-1 Rootbound Crag
-2 Overgrown Tomb
-2 Experiment One
-2 Ahn-Crop Crasher
-2 Blooming Marsh
-2 Stomping Ground
-2 Pelt Collector
-2 Rootbound Crag
-2 Burning-Tree Emissary
-3 Blooming Marsh
-3 Experiment One
-3 Ahn-Crop Crasher
-3 Burning-Tree Emissary
-3 Stomping Ground
-3 Overgrown Tomb
-3 Pelt Collector
-4 Experiment One
-4 Blooming Marsh
-4 Ahn-Crop Crasher
-4 Burning-Tree Emissary
-4 Pelt Collector
-4 Stomping Ground
-4 Overgrown Tomb
 1 Crash Through
 1 Warlord's Fury
 1 Battlefield Forge
@@ -116,15 +85,15 @@
 2 Battlefield Forge
 2 Inspiring Vantage
 2 Sacred Foundry
+3 Crash Through
 3 Inspiring Vantage
 3 Warlord's Fury
 3 Sacred Foundry
-3 Crash Through
 3 Battlefield Forge
-4 Sacred Foundry
 4 Warlord's Fury
 4 Battlefield Forge
 4 Crash Through
+4 Sacred Foundry
 4 Inspiring Vantage
 1 Skewer the Critics
 2 Skewer the Critics
@@ -132,3 +101,34 @@
 3 Skewer the Critics
 4 Skewer the Critics
 4 Ash Zealot
+1 Pelt Collector
+1 Experiment One
+1 Ahn-Crop Crasher
+1 Burning-Tree Emissary
+1 Overgrown Tomb
+1 Blooming Marsh
+1 Forest
+1 Stomping Ground
+1 Rootbound Crag
+2 Pelt Collector
+2 Ahn-Crop Crasher
+2 Experiment One
+2 Stomping Ground
+2 Burning-Tree Emissary
+2 Blooming Marsh
+2 Rootbound Crag
+2 Overgrown Tomb
+3 Ahn-Crop Crasher
+3 Pelt Collector
+3 Stomping Ground
+3 Experiment One
+3 Burning-Tree Emissary
+3 Overgrown Tomb
+3 Blooming Marsh
+4 Pelt Collector
+4 Burning-Tree Emissary
+4 Ahn-Crop Crasher
+4 Stomping Ground
+4 Experiment One
+4 Overgrown Tomb
+4 Blooming Marsh
