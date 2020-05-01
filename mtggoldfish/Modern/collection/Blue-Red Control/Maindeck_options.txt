@@ -29,22 +29,22 @@
 2 Jace, the Mind Sculptor
 1 Snow-Covered Island
 1 Snow-Covered Mountain
-2 Snow-Covered Island
 2 Misty Rainforest
+2 Snow-Covered Island
 3 Snow-Covered Island
 4 Snow-Covered Island
 5 Snow-Covered Island
 1 Logic Knot
 4 Remand
-1 Thought Scour
 1 Chart a Course
 1 Arclight Phoenix
 1 Pyromancer Ascension
-2 Thought Scour
+1 Thought Scour
 2 Arclight Phoenix
 2 Pyromancer Ascension
-3 Thought Scour
+2 Thought Scour
 3 Arclight Phoenix
+3 Thought Scour
 4 Thought Scour
 4 Arclight Phoenix
 1 Sleight of Hand
@@ -54,14 +54,14 @@
 3 Sleight of Hand
 2 Mountain
 2 Sulfur Falls
-1 Magma Jet
-1 Electrolyze
 1 Narset, Parter of Veils
-1 Chandra, Torch of Defiance
 1 Arcum's Astrolabe
+1 Electrolyze
+1 Magma Jet
+1 Chandra, Torch of Defiance
 1 Spell Pierce
-2 Spell Pierce
 2 Arcum's Astrolabe
+2 Spell Pierce
 3 Arcum's Astrolabe
 3 Polluted Delta
 4 Polluted Delta
@@ -87,9 +87,9 @@
 4 Chart a Course
 4 Pyromancer Ascension
 1 Mutagenic Growth
+1 The Royal Scions
 1 Stormchaser Mage
 1 Gut Shot
-1 The Royal Scions
 1 Soul-Scar Mage
 1 Monastery Swiftspear
 2 The Royal Scions
@@ -110,18 +110,18 @@
 4 Monastery Swiftspear
 4 Soul-Scar Mage
 1 Omen of the Sea
+1 Fire Prophecy
 1 Emrakul, the Aeons Torn
 1 Through the Breach
-1 Fire Prophecy
 2 Omen of the Sea
 2 Emrakul, the Aeons Torn
-2 Through the Breach
 2 Logic Knot
+2 Through the Breach
 2 Fire Prophecy
-3 Emrakul, the Aeons Torn
-3 Through the Breach
 3 Fire Prophecy
 3 Mystic Sanctuary
+3 Through the Breach
+3 Emrakul, the Aeons Torn
 4 Through the Breach
 8 Island
 9 Island
@@ -129,8 +129,8 @@
 1 Mystical Dispute
 2 Spreading Seas
 3 Spreading Seas
-3 Brazen Borrower
 3 Misty Rainforest
+3 Brazen Borrower
 4 Misty Rainforest
 6 Snow-Covered Island
 7 Snow-Covered Island

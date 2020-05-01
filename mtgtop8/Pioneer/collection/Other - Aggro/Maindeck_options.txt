@@ -47,8 +47,8 @@
 3 Hardened Scales
 3 Hangarback Walker
 3 Dromoka's Command
-4 Nissa, Voice of Zendikar
 4 Hardened Scales
+4 Nissa, Voice of Zendikar
 4 Hangarback Walker
 1 Courser of Kruphix
 2 Courser of Kruphix
@@ -150,20 +150,20 @@
 3 Caves of Koilos
 4 Isolated Chapel
 2 Seal Away
-1 Splendor Mare
 1 Duskwatch Recruiter
+1 Splendor Mare
 1 Zirda, the Dawnwaker
 1 Gilded Goose
 2 Gilded Goose
 2 Splendor Mare
-2 Duskwatch Recruiter
 2 Zirda, the Dawnwaker
+2 Duskwatch Recruiter
 3 Splendor Mare
-3 Duskwatch Recruiter
 3 Gilded Goose
+3 Duskwatch Recruiter
 3 Scavenging Ooze
-4 Duskwatch Recruiter
 4 Gilded Goose
+4 Duskwatch Recruiter
 1 Starfield Mystic
 1 Cast Out
 3 Gideon's Intervention
@@ -180,76 +180,16 @@
 3 Militia Bugler
 3 Radiant Fountain
 4 Militia Bugler
-3 Swamp
-1 Castle Locthwain
-2 Castle Locthwain
-4 Concealed Courtyard
-1 Mutavault
-2 Mutavault
-1 Bomat Courier
-2 Bomat Courier
-3 Bomat Courier
-4 Bomat Courier
-1 Mana Confluence
-2 Mana Confluence
-1 Stonecoil Serpent
-1 Aether Hub
-1 Metallic Rebuke
-1 Steel Overseer
-1 Shrapnel Blast
-1 Ensoul Artifact
-1 Springleaf Drum
-1 Ghostfire Blade
-1 Ornithopter
-1 Gingerbrute
-1 Spire of Industry
-1 Hope of Ghirapur
-1 Darksteel Citadel
-1 All That Glitters
-2 Stonecoil Serpent
-2 Aether Hub
-2 Metallic Rebuke
-2 Steel Overseer
-2 Shrapnel Blast
-2 Ghostfire Blade
-2 Ensoul Artifact
-2 Ornithopter
-2 Springleaf Drum
-2 Darksteel Citadel
-2 Gingerbrute
-2 Spire of Industry
-2 Hope of Ghirapur
-2 All That Glitters
-3 Stonecoil Serpent
-3 Steel Overseer
-3 Aether Hub
-3 Shrapnel Blast
-3 Ghostfire Blade
-3 Ensoul Artifact
-3 Spire of Industry
-3 Darksteel Citadel
-3 Springleaf Drum
-3 Ornithopter
-3 Gingerbrute
-3 Mana Confluence
-3 All That Glitters
-4 Stonecoil Serpent
-4 Aether Hub
-4 Spire of Industry
-4 Ensoul Artifact
-4 Shrapnel Blast
-4 Ghostfire Blade
-4 Ornithopter
-4 Mana Confluence
-4 Darksteel Citadel
-4 Gingerbrute
-4 Springleaf Drum
 1 Sacred Foundry
 2 Sacred Foundry
 3 Sacred Foundry
 1 Inspiring Vantage
 2 Inspiring Vantage
 3 Inspiring Vantage
+1 Bomat Courier
+2 Bomat Courier
+3 Bomat Courier
+4 Bomat Courier
 1 Shefet Dunes
 1 Legion's Landing
 1 Battlefield Forge
@@ -285,22 +225,15 @@
 4 Benalish Marshal
 4 Toolcraft Exemplar
 4 Raise the Alarm
-1 Kalitas, Traitor of Ghet
-2 Kalitas, Traitor of Ghet
-1 Bonecrusher Giant
-1 Stomping Ground
-2 Bonecrusher Giant
-2 Stomping Ground
-3 Bonecrusher Giant
 4 Sacred Foundry
 1 Spirebluff Canal
-1 Faerie Vandal
+1 Slip Through Space
 1 The Royal Scions
 1 Steam Vents
-1 Slip Through Space
-1 Favored Hoplite
-1 Defiant Strike
+1 Faerie Vandal
 1 Gods Willing
+1 Defiant Strike
+1 Favored Hoplite
 1 Staggering Insight
 1 Curious Obsession
 1 Reckless Rage
@@ -308,11 +241,11 @@
 1 Monastery Swiftspear
 1 Sentinel's Eyes
 2 The Royal Scions
-2 Faerie Vandal
 2 Steam Vents
+2 Faerie Vandal
+2 Defiant Strike
 2 Favored Hoplite
 2 Gods Willing
-2 Defiant Strike
 2 Staggering Insight
 2 Curious Obsession
 2 Tenth District Legionnaire
@@ -321,23 +254,24 @@
 3 Steam Vents
 3 The Royal Scions
 3 Faerie Vandal
-3 Favored Hoplite
-3 Staggering Insight
 3 Defiant Strike
+3 Favored Hoplite
 3 Gods Willing
+3 Staggering Insight
 3 Curious Obsession
 3 Reckless Rage
 3 Monastery Swiftspear
 3 Tenth District Legionnaire
 4 Favored Hoplite
-4 Curious Obsession
-4 Steam Vents
-4 Staggering Insight
-4 Defiant Strike
 4 Gods Willing
+4 Defiant Strike
+4 Steam Vents
+4 Curious Obsession
+4 Staggering Insight
 4 Reckless Rage
 4 Tenth District Legionnaire
 4 Monastery Swiftspear
+3 Swamp
 1 Blast Zone
 1 Satyr Wayfinder
 2 Satyr Wayfinder
@@ -389,6 +323,18 @@
 4 Uro, Titan of Nature's Wrath
 4 Nissa's Pilgrimage
 4 Arboreal Grazer
+1 Castle Locthwain
+2 Castle Locthwain
+4 Concealed Courtyard
+1 Kalitas, Traitor of Ghet
+2 Kalitas, Traitor of Ghet
+1 Bonecrusher Giant
+1 Stomping Ground
+2 Bonecrusher Giant
+2 Stomping Ground
+3 Bonecrusher Giant
+1 Mana Confluence
+2 Mana Confluence
 1 Boros Charm
 1 Ghor-Clan Rampager
 1 Pelt Collector
@@ -468,18 +414,72 @@
 4 Temple of Silence
 4 Resplendent Angel
 4 Bishop of Wings
+1 Mutavault
+2 Mutavault
+1 Stonecoil Serpent
+1 Steel Overseer
+1 Springleaf Drum
+1 Aether Hub
+1 Metallic Rebuke
+1 Hope of Ghirapur
+1 Spire of Industry
+1 Ensoul Artifact
+1 Darksteel Citadel
+1 Gingerbrute
+1 Ghostfire Blade
+1 Shrapnel Blast
+1 All That Glitters
+1 Ornithopter
+2 Stonecoil Serpent
+2 Steel Overseer
+2 Springleaf Drum
+2 Aether Hub
+2 Metallic Rebuke
+2 Hope of Ghirapur
+2 All That Glitters
+2 Spire of Industry
+2 Ornithopter
+2 Darksteel Citadel
+2 Gingerbrute
+2 Ensoul Artifact
+2 Ghostfire Blade
+2 Shrapnel Blast
+3 Stonecoil Serpent
+3 Steel Overseer
+3 Springleaf Drum
+3 Mana Confluence
+3 Aether Hub
+3 Spire of Industry
+3 Darksteel Citadel
+3 Ornithopter
+3 Gingerbrute
+3 Ensoul Artifact
+3 Ghostfire Blade
+3 Shrapnel Blast
+3 All That Glitters
+4 Spire of Industry
+4 Stonecoil Serpent
+4 Aether Hub
+4 Mana Confluence
+4 Ornithopter
+4 Darksteel Citadel
+4 Springleaf Drum
+4 Gingerbrute
+4 Ghostfire Blade
+4 Shrapnel Blast
+4 Ensoul Artifact
 1 Dreadhorde Butcher
 1 Dreadbore
-1 Blood Crypt
 1 Kroxa, Titan of Death's Hunger
+1 Blood Crypt
 1 Foreboding Ruins
 1 Chandra, Torch of Defiance
 1 Glorybringer
 1 Mountain
 2 Dreadhorde Butcher
 2 Glorybringer
-2 Blood Crypt
 2 Kroxa, Titan of Death's Hunger
+2 Blood Crypt
 2 Foreboding Ruins
 2 Vraska, Golgari Queen
 2 Mountain

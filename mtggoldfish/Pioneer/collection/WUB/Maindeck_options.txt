@@ -5,17 +5,73 @@
 3 Cast Down
 1 Drown in the Loch
 1 Languish
-1 The Eldest Reborn
 1 Yahenni's Expertise
-1 Doom Blade
 1 Utter End
 1 Commit/Memory
+1 The Eldest Reborn
+1 Doom Blade
 2 Teferi, Hero of Dominaria
 2 Narset, Parter of Veils
 3 Narset, Parter of Veils
 3 Teferi, Hero of Dominaria
 4 Concealed Courtyard
+1 Mountain
+2 Mountain
+3 Mountain
+1 Mutavault
+4 Mountain
+5 Mountain
+6 Mountain
+7 Mountain
+8 Mountain
+1 Emrakul, the Promised End
+1 Clifftop Retreat
+1 The Birth of Meletis
+1 Temple of Triumph
+1 Sweltering Suns
+1 Castle Ardenvale
+1 Gideon, Ally of Zendikar
+1 Nahiri, the Harbinger
+1 Chandra, Torch of Defiance
+1 Pirate's Pillage
+1 Chained to the Rocks
+1 Indomitable Creativity
+1 Sacred Foundry
+1 Dragonlord Kolaghan
+1 Void Winnower
+1 Anger of the Gods
+1 Angel of Serenity
+2 The Birth of Meletis
+2 Temple of Triumph
+2 Anger of the Gods
+2 Gideon, Ally of Zendikar
+2 Gideon of the Trials
+2 Plains
+2 Sacred Foundry
+2 Chandra, Torch of Defiance
+2 Elspeth Conquers Death
+2 Pirate's Pillage
+2 Sweltering Suns
+2 Chained to the Rocks
+2 Indomitable Creativity
+3 Temple of Triumph
+3 The Birth of Meletis
+3 Gideon of the Trials
+3 Sweltering Suns
+3 Pirate's Pillage
+3 Chained to the Rocks
+3 Indomitable Creativity
+3 Plains
+3 Sacred Foundry
+4 The Birth of Meletis
+4 Temple of Triumph
+4 Indomitable Creativity
+4 Sacred Foundry
+4 Chained to the Rocks
+4 Pirate's Pillage
 2 Swamp
+3 Swamp
+4 Swamp
 1 Dream Eater
 1 Castle Vantress
 1 Quench
@@ -26,16 +82,16 @@
 1 Lochmere Serpent
 1 Essence Scatter
 1 Torrential Gearhulk
+1 Spell Shrivel
+1 Negate
 1 Hieroglyphic Illumination
 1 Chemister's Insight
-1 Negate
 1 Syncopate
 1 Vraska's Contempt
 1 Glimmer of Genius
 1 Field of Ruin
-1 Void Shatter
 1 Horribly Awry
-1 Spell Shrivel
+1 Void Shatter
 2 Dig Through Time
 2 Quench
 2 Chemister's Insight
@@ -45,174 +101,156 @@
 2 Sunken Hollow
 2 Field of Ruin
 2 Negate
-2 Vraska's Contempt
 2 Void Shatter
+2 Vraska's Contempt
 3 Island
-3 Swamp
 3 Void Shatter
-3 Field of Ruin
 3 Vraska's Contempt
+3 Field of Ruin
 4 Island
-4 Field of Ruin
-4 Swamp
 4 Vraska's Contempt
 4 Void Shatter
-1 Mountain
-1 Mutavault
-2 Mountain
-3 Mountain
-4 Mountain
-5 Mountain
-6 Mountain
-7 Mountain
-8 Mountain
-1 Emrakul, the Promised End
-1 The Birth of Meletis
-1 Clifftop Retreat
-1 Temple of Triumph
-1 Sweltering Suns
-1 Castle Ardenvale
-1 Chained to the Rocks
-1 Nahiri, the Harbinger
-1 Void Winnower
-1 Anger of the Gods
-1 Angel of Serenity
-1 Gideon, Ally of Zendikar
-1 Chandra, Torch of Defiance
-1 Sacred Foundry
-1 Dragonlord Kolaghan
-1 Indomitable Creativity
-1 Pirate's Pillage
-2 The Birth of Meletis
-2 Temple of Triumph
-2 Anger of the Gods
-2 Gideon, Ally of Zendikar
-2 Gideon of the Trials
-2 Plains
-2 Chained to the Rocks
-2 Chandra, Torch of Defiance
-2 Pirate's Pillage
-2 Sacred Foundry
-2 Elspeth Conquers Death
-2 Sweltering Suns
-2 Indomitable Creativity
-3 Temple of Triumph
-3 The Birth of Meletis
-3 Pirate's Pillage
-3 Sacred Foundry
-3 Plains
-3 Gideon of the Trials
-3 Chained to the Rocks
-3 Sweltering Suns
-3 Indomitable Creativity
-4 The Birth of Meletis
-4 Temple of Triumph
-4 Pirate's Pillage
-4 Indomitable Creativity
-4 Sacred Foundry
-4 Chained to the Rocks
+4 Field of Ruin
 1 Blood Crypt
 2 Blood Crypt
-1 Traverse the Ulvenwald
-1 Forest
-1 Grisly Salvage
-1 Lotleth Troll
-1 Questing Beast
-1 Sylvan Caryatid
-1 Hashep Oasis
-1 Urborg, Tomb of Yawgmoth
-1 Overgrown Tomb
-1 Blooming Marsh
-1 Soulflayer
-1 Zetalpa, Primal Dawn
-1 Chromanticore
-1 Ghor-Clan Rampager
-1 Mana Confluence
-1 Samut, Voice of Dissent
-1 Gather the Pack
-2 Overgrown Tomb
-2 Traverse the Ulvenwald
-2 Questing Beast
-2 Samut, Voice of Dissent
-2 Blooming Marsh
-2 Soulflayer
-2 Sylvan Caryatid
-2 Mana Confluence
-2 Grisly Salvage
-2 Zetalpa, Primal Dawn
-2 Gather the Pack
-2 Lotleth Troll
-2 Chromanticore
-3 Blooming Marsh
-3 Traverse the Ulvenwald
-3 Questing Beast
-3 Soulflayer
-3 Lotleth Troll
-3 Gather the Pack
-3 Zetalpa, Primal Dawn
-3 Samut, Voice of Dissent
-3 Mana Confluence
-3 Grisly Salvage
-3 Overgrown Tomb
-3 Chromanticore
-3 Sylvan Caryatid
-4 Blooming Marsh
-4 Sylvan Caryatid
-4 Chromanticore
-4 Gather the Pack
-4 Grisly Salvage
-4 Lotleth Troll
-4 Mana Confluence
-4 Overgrown Tomb
-4 Soulflayer
-4 Zetalpa, Primal Dawn
+3 Blood Crypt
+4 Blood Crypt
 1 Ipnu Rivulet
 1 Temple of Malice
 1 Jace, Vryn's Prodigy
+1 Abrade
 1 Temple of Epiphany
+1 Steam Vents
 1 Spirebluff Canal
 1 Burning Anger
-1 Steam Vents
-1 Cathartic Reunion
-1 Ox of Agonas
 1 Breaking/Entering
 1 Colossification
-1 Abrade
+1 Cathartic Reunion
+1 Ox of Agonas
 1 Storm Herald
-2 Temple of Epiphany
 2 Temple of Malice
+2 Temple of Epiphany
 2 Steam Vents
 2 Jace, Vryn's Prodigy
-2 Storm Herald
-2 Abrade
-2 Ox of Agonas
 2 Spirebluff Canal
-2 Cathartic Reunion
 2 Burning Anger
-2 Colossification
+2 Ox of Agonas
 2 Breaking/Entering
+2 Storm Herald
+2 Colossification
+2 Cathartic Reunion
+2 Abrade
 3 Ox of Agonas
 3 Steam Vents
 3 Temple of Malice
 3 Jace, Vryn's Prodigy
 3 Storm Herald
 3 Cathartic Reunion
+3 Burning Anger
 3 Breaking/Entering
 3 Colossification
-3 Blood Crypt
-3 Burning Anger
-4 Cathartic Reunion
 4 Jace, Vryn's Prodigy
 4 Breaking/Entering
 4 Burning Anger
-4 Colossification
 4 Storm Herald
-4 Blood Crypt
+4 Cathartic Reunion
+4 Colossification
+1 Urborg, Tomb of Yawgmoth
+1 Traverse the Ulvenwald
+1 Forest
+1 Grisly Salvage
+1 Questing Beast
+1 Overgrown Tomb
+1 Soulflayer
+1 Gather the Pack
+1 Sylvan Caryatid
+1 Ghor-Clan Rampager
+1 Samut, Voice of Dissent
+1 Hashep Oasis
+1 Lotleth Troll
+1 Blooming Marsh
+1 Mana Confluence
+1 Zetalpa, Primal Dawn
+1 Chromanticore
+2 Overgrown Tomb
+2 Traverse the Ulvenwald
+2 Questing Beast
+2 Samut, Voice of Dissent
+2 Lotleth Troll
+2 Blooming Marsh
+2 Chromanticore
+2 Mana Confluence
+2 Zetalpa, Primal Dawn
+2 Grisly Salvage
+2 Gather the Pack
+2 Soulflayer
+2 Sylvan Caryatid
+3 Blooming Marsh
+3 Traverse the Ulvenwald
+3 Questing Beast
+3 Mana Confluence
+3 Zetalpa, Primal Dawn
+3 Chromanticore
+3 Gather the Pack
+3 Overgrown Tomb
+3 Grisly Salvage
+3 Soulflayer
+3 Sylvan Caryatid
+3 Samut, Voice of Dissent
+3 Lotleth Troll
+4 Blooming Marsh
+4 Sylvan Caryatid
+4 Grisly Salvage
+4 Lotleth Troll
+4 Mana Confluence
+4 Zetalpa, Primal Dawn
+4 Chromanticore
+4 Overgrown Tomb
+4 Gather the Pack
+4 Soulflayer
+1 Kroxa, Titan of Death's Hunger
+1 Insolent Neonate
+1 Dragonskull Summit
+1 Mire Triton
+1 Agonizing Remorse
+1 Pack Rat
+1 Liliana, the Last Hope
+1 Cryptbreaker
+1 Castle Locthwain
+1 Dreadbore
+1 Dreadhorde Arcanist
+1 Liliana, Heretical Healer
+1 Claim/Fame
+2 Dreadbore
+2 Kroxa, Titan of Death's Hunger
+2 Agonizing Remorse
+2 Dragonskull Summit
+2 Mire Triton
+2 Liliana, Heretical Healer
+2 Claim/Fame
+2 Dreadhorde Arcanist
+2 Castle Locthwain
+2 Pack Rat
+3 Kroxa, Titan of Death's Hunger
+3 Mire Triton
+3 Pack Rat
+3 Fabled Passage
+3 Dragonskull Summit
+3 Liliana, Heretical Healer
+3 Claim/Fame
+3 Dreadhorde Arcanist
+4 Dreadhorde Arcanist
+4 Kroxa, Titan of Death's Hunger
+4 Mire Triton
+4 Claim/Fame
+4 Dragonskull Summit
+4 Pack Rat
+5 Swamp
 1 Fanatical Firebrand
 1 Foundry Street Denizen
 1 Shock
-1 Castle Embereth
 1 Ramunap Ruins
+1 Castle Embereth
 1 Torbran, Thane of Red Fell
 1 Bomat Courier
 1 Anax, Hardened in the Forge
@@ -222,29 +260,29 @@
 1 Legion Warboss
 1 Legion Loyalist
 1 Experimental Frenzy
-1 Rampaging Ferocidon
 1 Hazoret the Fervent
-1 Stoke the Flames
+1 Rampaging Ferocidon
 1 Lightning Strike
+1 Village Messenger
+1 Soul-Scar Mage
+1 Falkenrath Gorger
+1 Exquisite Firecraft
 1 Wild Slash
+1 Stoke the Flames
+1 Embercleave
+1 Firedrinker Satyr
+1 Runaway Steam-Kin
 1 Goblin Rabblemaster
-1 Eidolon of the Great Revel
 1 Tin Street Dodger
-1 Ash Zealot
 1 Ghitu Lavarunner
 1 Bonecrusher Giant
-1 Zurgo Bellstriker
-1 Firedrinker Satyr
-1 Light Up the Stage
-1 Embercleave
-1 Runaway Steam-Kin
-1 Soul-Scar Mage
-1 Kari Zev, Skyship Raider
-1 Falkenrath Gorger
-1 Village Messenger
-1 Monastery Swiftspear
+1 Eidolon of the Great Revel
 1 Incendiary Flow
-1 Exquisite Firecraft
+1 Monastery Swiftspear
+1 Light Up the Stage
+1 Ash Zealot
+1 Zurgo Bellstriker
+1 Kari Zev, Skyship Raider
 1 Goblin Chainwhirler
 2 Ramunap Ruins
 2 Castle Embereth

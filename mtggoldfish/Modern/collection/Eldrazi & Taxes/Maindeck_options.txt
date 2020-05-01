@@ -1,7 +1,7 @@
 1 Shefet Dunes
 2 Shefet Dunes
-1 Batterskull
 1 Stoneforge Mystic
+1 Batterskull
 1 Sword of Fire and Ice
 2 Stoneforge Mystic
 3 Stoneforge Mystic
@@ -32,11 +32,11 @@
 2 Reality Smasher
 3 Reality Smasher
 4 Reality Smasher
-1 Simian Spirit Guide
 1 Gemstone Caverns
+1 Simian Spirit Guide
 1 Chalice of the Void
-2 Simian Spirit Guide
 2 Gemstone Caverns
+2 Simian Spirit Guide
 2 Chalice of the Void
 3 Simian Spirit Guide
 3 Chalice of the Void
@@ -71,7 +71,9 @@
 1 Wastes
 1 Brushland
 1 Prismatic Vista
+1 Engineered Explosives
 1 Dromoka's Command
+1 Knight of Autumn
 1 Elspeth, Knight-Errant
 1 Noble Hierarch
 1 Razorverge Thicket
@@ -79,8 +81,6 @@
 1 Forest
 1 Cavern of Souls
 1 Matter Reshaper
-1 Engineered Explosives
-1 Knight of Autumn
 1 Ancient Stirrings
 2 Brushland
 2 Blast Zone
@@ -110,10 +110,10 @@
 1 Kor Firewalker
 2 Kor Firewalker
 2 Shambling Vent
+1 Sacred Foundry
 1 Thalia, Heretic Cathar
 1 Bonecrusher Giant
 1 Battlefield Forge
-1 Sacred Foundry
 1 Dismember
 2 Bonecrusher Giant
 2 Thalia, Heretic Cathar

@@ -1,15 +1,3 @@
-1 Ionize
-2 Ionize
-2 Negate
-3 Ionize
-3 Sinister Sabotage
-1 Brineborn Cutthroat
-2 Brineborn Cutthroat
-3 Brineborn Cutthroat
-4 Brineborn Cutthroat
-4 Bonecrusher Giant
-4 Brazen Borrower
-3 Uro, Titan of Nature's Wrath
 4 Fabled Passage
 1 Ketria Triome
 2 Ketria Triome
@@ -31,44 +19,58 @@
 4 Cavalier of Thorns
 4 Ketria Triome
 1 Leafkin Druid
-1 Thassa, Deep-Dwelling
 2 Leafkin Druid
 3 Leafkin Druid
+3 Sinister Sabotage
+3 Brazen Borrower
 3 Agent of Treachery
 4 Uro, Titan of Nature's Wrath
-1 Quasiduplicate
-1 Genesis Ultimatum
-2 Genesis Ultimatum
 3 Island
 4 Leafkin Druid
+2 Temple of Epiphany
+1 Thassa, Deep-Dwelling
+1 Arboreal Grazer
+2 Arboreal Grazer
+3 Arboreal Grazer
+4 Agent of Treachery
+2 Temple of Abandon
+1 Ionize
+2 Ionize
+2 Negate
+3 Ionize
+1 Genesis Ultimatum
+2 Genesis Ultimatum
+1 Quasiduplicate
+2 Thassa, Deep-Dwelling
+1 Brineborn Cutthroat
+2 Brineborn Cutthroat
+3 Brineborn Cutthroat
+4 Brineborn Cutthroat
+4 Bonecrusher Giant
+4 Brazen Borrower
+1 Castle Vantress
+1 Hydroid Krasis
+2 Hydroid Krasis
+3 Temple of Abandon
+4 Temple of Abandon
+3 Genesis Ultimatum
+4 Genesis Ultimatum
+1 Mythos of Illuna
+2 Mythos of Illuna
 1 Wildborn Preserver
 2 Wildborn Preserver
 4 Quench
-2 Thassa, Deep-Dwelling
-2 Temple of Epiphany
-1 Arboreal Grazer
-2 Arboreal Grazer
-3 Genesis Ultimatum
-3 Arboreal Grazer
-4 Genesis Ultimatum
-4 Agent of Treachery
-2 Temple of Abandon
-3 Wildborn Preserver
 1 Scorching Dragonfire
 2 Scorching Dragonfire
-1 Castle Vantress
 3 Temple of Epiphany
-3 Temple of Abandon
 4 Temple of Epiphany
-4 Temple of Abandon
-1 Hydroid Krasis
-2 Hydroid Krasis
-1 Mythos of Illuna
-2 Mythos of Illuna
+4 Arboreal Grazer
 2 Quasiduplicate
+3 Hydroid Krasis
 4 Forest
 5 Forest
 6 Forest
+3 Wildborn Preserver
 1 Whirlwind Denial
 3 Mystical Dispute
 2 Castle Vantress
@@ -76,7 +78,11 @@
 1 Tamiyo, Collector of Tales
 1 Parcelbeast
 2 Parcelbeast
-4 Arboreal Grazer
+1 Chandra, Awakened Inferno
+1 Wilt
+2 Wilt
+3 Mythos of Illuna
+4 Mythos of Illuna
 1 Omen of the Sea
 1 Repudiate / Replicate
 2 Omen of the Sea
@@ -93,7 +99,6 @@
 1 Ral's Outburst
 2 Ral's Outburst
 3 Negate
-3 Hydroid Krasis
 4 Scorching Dragonfire
 1 Paradise Druid
 2 Tamiyo, Collector of Tales

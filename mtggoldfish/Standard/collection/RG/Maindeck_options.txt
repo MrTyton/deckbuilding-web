@@ -1,72 +1,29 @@
-1 Mountain
-1 Bonecrusher Giant
-1 Embercleave
-1 Gruul Spellbreaker
-1 Stomping Ground
-2 Mountain
-2 Embercleave
-2 Gruul Spellbreaker
-2 Stomping Ground
-2 Bonecrusher Giant
-3 Embercleave
-3 Gruul Spellbreaker
-3 Stomping Ground
-3 Mountain
-3 Bonecrusher Giant
-4 Stomping Ground
-4 Mountain
-5 Mountain
-6 Mountain
-3 Fabled Passage
-1 Temple of Abandon
-1 Incubation/Incongruity
-1 Scorching Dragonfire
-1 Collision/Colossus
-2 Domri's Ambush
-2 Scorching Dragonfire
-2 Collision/Colossus
-2 Temple of Abandon
-2 Incubation/Incongruity
-3 Domri's Ambush
-3 Temple of Abandon
-3 Incubation/Incongruity
-3 Collision/Colossus
-4 Temple of Abandon
-1 Lovestruck Beast
-2 Lovestruck Beast
-3 Lovestruck Beast
-4 Lovestruck Beast
-4 Vivien, Arkbow Ranger
-1 Wildborn Preserver
-2 Wildborn Preserver
-3 Wildborn Preserver
 1 Ram Through
 2 Ram Through
-4 Bonecrusher Giant
-1 Shadowspear
-2 Shadowspear
-1 Voracious Hydra
-2 Voracious Hydra
 1 Gilded Goose
 2 Gilded Goose
 3 Gilded Goose
 1 Swamp
-1 Memory Leak
 1 Overgrown Tomb
-1 Castle Locthwain
+1 Memory Leak
+1 Vraska, Golgari Queen
 1 Temple of Malady
-1 Shifting Ceratops
+1 Castle Locthwain
+1 Shadowspear
 1 Ritual of Soot
 1 Return to Nature
 1 Murderous Rider
-1 Vraska, Golgari Queen
+1 Fabled Passage
+1 Shifting Ceratops
 2 Memory Leak
+2 Vraska, Golgari Queen
 2 Temple of Malady
 2 Swamp
-2 Shifting Ceratops
 2 Ritual of Soot
+2 Shifting Ceratops
 2 Murderous Rider
-2 Vraska, Golgari Queen
+2 Shadowspear
+2 Fabled Passage
 3 Murderous Rider
 3 Vraska, Golgari Queen
 3 Swamp
@@ -74,6 +31,10 @@
 5 Swamp
 6 Swamp
 7 Swamp
+1 Lovestruck Beast
+2 Lovestruck Beast
+3 Lovestruck Beast
+4 Lovestruck Beast
 1 Bonders' Enclave
 4 Gilded Goose
 1 Grafdigger's Cage
@@ -81,33 +42,13 @@
 2 Grafdigger's Cage
 3 Temple of Malady
 4 Temple of Malady
-1 The Ozolith
-2 The Ozolith
-4 Castle Garenbrig
-1 Nissa, Who Shakes the World
-4 Gruul Spellbreaker
-1 Karn's Bastion
-2 Nissa, Who Shakes the World
-2 Karn's Bastion
-3 Voracious Hydra
-3 The Ozolith
-4 The Ozolith
-4 Yorvo, Lord of Garenbrig
-4 Voracious Hydra
-1 Castle Embereth
-1 Robber of the Rich
-1 Skarrgan Hellkite
-2 Castle Embereth
-2 Robber of the Rich
-3 Robber of the Rich
-4 Robber of the Rich
-4 Embercleave
-7 Mountain
 1 Rankle, Master of Pranks
 2 Overgrown Tomb
 2 Rankle, Master of Pranks
 2 Castle Locthwain
 3 Return to Nature
+1 Voracious Hydra
+2 Voracious Hydra
 1 Mobilized District
 3 Ritual of Soot
 4 Murderous Rider
@@ -115,41 +56,37 @@
 1 Leyline of the Void
 2 Leyline of the Void
 1 Return of the Wildspeaker
+1 The Ozolith
+2 The Ozolith
 2 Return of the Wildspeaker
+1 Chevill, Bane of Monsters
 1 Treacherous Blessing
 1 Mystic Repeal
-1 Chevill, Bane of Monsters
 1 Wicked Wolf
 2 Chevill, Bane of Monsters
 2 Wicked Wolf
 2 Treacherous Blessing
+3 Vivien, Monsters' Advocate
 1 Arboreal Grazer
 2 Arboreal Grazer
 3 Arboreal Grazer
-3 Vivien, Monsters' Advocate
+4 Castle Garenbrig
 1 Duress
 2 Duress
+3 Fabled Passage
 4 Fabled Passage
 1 Wildwood Tracker
 2 Wildwood Tracker
 3 Wildwood Tracker
 4 Wildwood Tracker
-1 Adventurous Impulse
-1 Vivien, Champion of the Wilds
-1 Gingerbrute
-2 Adventurous Impulse
-2 Gingerbrute
-2 Vivien, Champion of the Wilds
-3 Gingerbrute
-3 Adventurous Impulse
-4 Adventurous Impulse
-4 Gingerbrute
 1 Migratory Greathorn
+1 Nissa, Who Shakes the World
 1 Nessian Hornbeetle
 2 Migratory Greathorn
 2 Nessian Hornbeetle
 3 Migratory Greathorn
 3 Nessian Hornbeetle
+4 Questing Beast
 4 Migratory Greathorn
 4 Nessian Hornbeetle
 21 Forest
