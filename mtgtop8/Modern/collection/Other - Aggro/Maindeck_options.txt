@@ -16,13 +16,13 @@
 4 Monastery Swiftspear
 4 Dark Confidant
 4 Abbot of Keral Keep
-1 Lavaclaw Reaches
-2 Castle Locthwain
-4 Blood Crypt
 1 Castle Embereth
 3 Inquisition of Kozilek
 4 Ransack the Lab
 4 Kroxa, Titan of Death's Hunger
+1 Lavaclaw Reaches
+2 Castle Locthwain
+4 Blood Crypt
 1 Island
 1 Watery Grave
 1 Polluted Delta
@@ -42,9 +42,8 @@
 1 Notorious Throng
 1 Brazen Borrower
 1 Cavern of Souls
-2 Drowned Catacomb
-2 Frogtosser Banneret
 2 Cavern of Souls
+2 Frogtosser Banneret
 2 Brazen Borrower
 2 Bitterblossom
 2 Earwig Squad
@@ -52,12 +51,13 @@
 2 Notorious Throng
 2 Stinkdrinker Bandit
 2 Triton Shorestalker
+2 Drowned Catacomb
 2 Slither Blade
 3 Watery Grave
-3 Drowned Catacomb
 3 Brazen Borrower
 3 Frogtosser Banneret
 3 Bitterblossom
+3 Drowned Catacomb
 3 Earwig Squad
 3 Slither Blade
 3 Stinkdrinker Bandit
@@ -77,7 +77,6 @@
 4 Oona's Blackguard
 1 Cling to Dust
 1 Delver of Secrets
-1 Sprite Dragon
 1 Drown in the Loch
 1 Spirebluff Canal
 1 Serum Visions
@@ -87,12 +86,13 @@
 1 Opt
 1 Darkslick Shores
 1 Steam Vents
+1 Sprite Dragon
 1 Snapcaster Mage
 1 Force of Negation
 2 Delver of Secrets
-2 Sprite Dragon
 2 Serum Visions
 2 Drown in the Loch
+2 Sprite Dragon
 2 Mana Leak
 2 Snapcaster Mage
 2 Steam Vents
@@ -103,14 +103,14 @@
 2 Force of Negation
 3 Force of Negation
 3 Delver of Secrets
-3 Sprite Dragon
 3 Scalding Tarn
 3 Opt
 3 Serum Visions
+3 Sprite Dragon
 3 Darkslick Shores
 4 Serum Visions
 4 Darkslick Shores
-4 Sprite Dragon
 4 Opt
 4 Delver of Secrets
+4 Sprite Dragon
 4 Scalding Tarn

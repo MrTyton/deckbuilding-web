@@ -1,17 +1,19 @@
 16 Mountain
-2 Embercleave
 17 Mountain
+2 Embercleave
 3 Torbran, Thane of Red Fell
 3 Rampaging Ferocidon
 1 Rimrock Knight
 2 Rimrock Knight
 3 Rimrock Knight
-4 Rampaging Ferocidon
 1 Shock
-3 Castle Embereth
+4 Rampaging Ferocidon
 2 Shock
-1 Collective Defiance
-2 Collective Defiance
+3 Castle Embereth
+1 Abbot of Keral Keep
+2 Abbot of Keral Keep
+3 Abbot of Keral Keep
+4 Abbot of Keral Keep
 1 Robber of the Rich
 1 Bomat Courier
 2 Bomat Courier
@@ -20,10 +22,8 @@
 3 Robber of the Rich
 4 Bomat Courier
 4 Robber of the Rich
-1 Abbot of Keral Keep
-2 Abbot of Keral Keep
-3 Abbot of Keral Keep
-4 Abbot of Keral Keep
+1 Collective Defiance
+2 Collective Defiance
 1 Rakdos Cackler
 2 Rakdos Cackler
 3 Rakdos Cackler
@@ -31,16 +31,18 @@
 4 Rakdos Cackler
 1 Chandra, Torch of Defiance
 3 Kari Zev, Skyship Raider
-3 Embercleave
-1 Ash Zealot
-2 Ash Zealot
 3 Collective Defiance
 4 Collective Defiance
+3 Embercleave
 4 Castle Embereth
 18 Mountain
 1 Goblin Chainwhirler
 2 Goblin Chainwhirler
 3 Goblin Chainwhirler
+1 Ash Zealot
+2 Ash Zealot
+3 Shock
+4 Shock
 1 Dragonskull Summit
 1 Blood Crypt
 1 Scrapheap Scrounger
@@ -53,31 +55,42 @@
 4 Blood Crypt
 4 Scrapheap Scrounger
 1 Glorybringer
-3 Shock
-4 Shock
-3 Ash Zealot
 1 Kari Zev's Expertise
 1 Legion Warboss
 2 Legion Warboss
 4 Goblin Chainwhirler
 1 Skewer the Critics
 2 Skewer the Critics
+3 Ash Zealot
 3 Zurgo Bellstriker
 3 Skewer the Critics
 4 Skewer the Critics
 4 Ash Zealot
+1 Crash Through
+1 Warlord's Fury
 1 Runaway Steam-Kin
 1 Light Up the Stage
-1 Fervent Champion
-1 Anax, Hardened in the Forge
-2 Anax, Hardened in the Forge
-2 Fervent Champion
-2 Runaway Steam-Kin
+1 Battlefield Forge
+1 Inspiring Vantage
+1 Sacred Foundry
+2 Crash Through
+2 Warlord's Fury
+2 Battlefield Forge
+2 Inspiring Vantage
+2 Sacred Foundry
 2 Light Up the Stage
-3 Anax, Hardened in the Forge
-3 Fervent Champion
+2 Runaway Steam-Kin
+3 Crash Through
+3 Inspiring Vantage
 3 Runaway Steam-Kin
+3 Warlord's Fury
+3 Sacred Foundry
 3 Light Up the Stage
-4 Fervent Champion
+3 Battlefield Forge
+4 Sacred Foundry
+4 Warlord's Fury
+4 Battlefield Forge
 4 Runaway Steam-Kin
+4 Crash Through
+4 Inspiring Vantage
 4 Light Up the Stage

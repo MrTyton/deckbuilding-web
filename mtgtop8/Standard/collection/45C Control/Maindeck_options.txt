@@ -53,8 +53,8 @@
 2 Indatha Triome
 3 Zagoth Triome
 3 Indatha Triome
-4 Zagoth Triome
 4 Indatha Triome
+4 Zagoth Triome
 1 Temple of Mystery
 4 Elspeth Conquers Death
 3 Overgrown Tomb
@@ -65,8 +65,8 @@
 1 Temple of Plenty
 1 Polukranos, Unchained
 1 Savai Triome
-1 Niv-Mizzet Reborn
 1 Solar Blaze
+1 Niv-Mizzet Reborn
 1 Gilded Goose
 2 Niv-Mizzet Reborn
 2 Gilded Goose
@@ -111,80 +111,80 @@
 1 Temple of Abandon
 1 Temple of Epiphany
 1 Quasiduplicate
-2 Omnath, Locus of the Roil
 2 Genesis Ultimatum
+2 Omnath, Locus of the Roil
 2 Agent of Treachery
+2 Mythos of Illuna
 2 Thassa, Deep-Dwelling
 2 Cavalier of Thorns
-2 Temple of Epiphany
 2 Arboreal Grazer
-2 Mythos of Illuna
+2 Temple of Epiphany
 2 Temple of Abandon
 3 Omnath, Locus of the Roil
 3 Genesis Ultimatum
 3 Temple of Epiphany
-3 Temple of Abandon
-3 Agent of Treachery
 3 Arboreal Grazer
+3 Agent of Treachery
+3 Temple of Abandon
 3 Stomping Ground
 3 Cavalier of Thorns
 3 Steam Vents
 4 Omnath, Locus of the Roil
 4 Agent of Treachery
 4 Genesis Ultimatum
+4 Temple of Epiphany
 4 Steam Vents
 4 Temple of Mystery
-4 Temple of Abandon
-4 Temple of Epiphany
 4 Arboreal Grazer
+4 Temple of Abandon
 4 Cavalier of Thorns
 4 Stomping Ground
-1 Rugged Highlands
 1 Thornwood Falls
 1 Cloudkin Seer
 1 Fire Prophecy
+1 Rugged Highlands
 1 Tranquil Cove
 1 Swiftwater Cliffs
-1 Neoform
-1 Evolving Wilds
 1 Scampering Scorcher
+1 Neoform
+1 Teferi's Time Twist
+1 Wind-Scarred Crag
+1 Evolving Wilds
 1 Meteor Golem
 1 Frost Lynx
 1 Flicker of Fate
 1 Blossoming Sands
-1 Wind-Scarred Crag
 1 Centaur Peacemaker
-1 Teferi's Time Twist
-2 Rugged Highlands
 2 Thornwood Falls
 2 Cloudkin Seer
 2 Fire Prophecy
+2 Rugged Highlands
 2 Tranquil Cove
+2 Scampering Scorcher
 2 Evolving Wilds
+2 Teferi's Time Twist
+2 Wind-Scarred Crag
 2 Flicker of Fate
 2 Swiftwater Cliffs
-2 Scampering Scorcher
 2 Neoform
 2 Blossoming Sands
-2 Teferi's Time Twist
 2 Mountain
 2 Frost Lynx
-2 Wind-Scarred Crag
 3 Plains
 3 Thornwood Falls
 3 Cloudkin Seer
 3 Elite Guardmage
-3 Tranquil Cove
 3 Mountain
+3 Tranquil Cove
+3 Scampering Scorcher
 3 Evolving Wilds
 3 Fire Prophecy
 3 Frost Lynx
 3 Blossoming Sands
 3 Neoform
 3 Flicker of Fate
-3 Scampering Scorcher
-4 Evolving Wilds
 4 Thornwood Falls
+4 Evolving Wilds
 4 Fire Prophecy
 4 Neoform
 4 Cloudkin Seer
@@ -193,14 +193,14 @@
 4 Forest
 4 Flicker of Fate
 5 Forest
-1 Elspeth, Sun's Nemesis
-1 Soul Diviner
-2 Soul Diviner
 1 Fblthp, the Lost
 1 Kasmina, Enigmatic Mentor
 1 Command the Dreadhorde
 1 Ral, Izzet Viceroy
 2 Kaya, Orzhov Usurper
+1 Elspeth, Sun's Nemesis
+1 Soul Diviner
+2 Soul Diviner
 1 Time Wipe
 2 Time Wipe
 2 Ashiok, Nightmare Muse
@@ -219,17 +219,17 @@
 3 Narset of the Ancient Way
 4 Raugrin Triome
 1 Assassin's Trophy
-1 Knight of Autumn
 1 Paradise Druid
-1 Klothys, God of Destiny
 1 Vraska, Golgari Queen
+1 Klothys, God of Destiny
+1 Knight of Autumn
 1 Kunoros, Hound of Athreos
 1 Drown in the Loch
 1 Dovin's Veto
 1 Deafening Clarion
 2 Drown in the Loch
-2 Knight of Autumn
 2 Paradise Druid
+2 Knight of Autumn
 2 Deafening Clarion
 3 Paradise Druid
 4 Gilded Goose
