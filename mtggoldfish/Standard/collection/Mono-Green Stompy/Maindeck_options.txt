@@ -1,5 +1,8 @@
+1 Mountain
+2 Mountain
+3 Mountain
+1 Embercleave
 2 Embercleave
-4 Questing Beast
 1 Gruul Spellbreaker
 2 Gruul Spellbreaker
 3 Gruul Spellbreaker
@@ -11,16 +14,14 @@
 3 Bonecrusher Giant
 1 Domri's Ambush
 2 Domri's Ambush
-1 Fabled Passage
-2 Fabled Passage
 1 Temple of Abandon
 3 Embercleave
-3 Vivien, Arkbow Ranger
-4 Barkhide Troll
+1 Fabled Passage
+2 Fabled Passage
 2 Temple of Abandon
-2 Vivien, Monsters' Advocate
 1 Lovestruck Beast
 2 Lovestruck Beast
+20 Forest
 3 Domri's Ambush
 4 Gruul Spellbreaker
 1 Collision/Colossus
@@ -37,7 +38,6 @@
 3 Lovestruck Beast
 4 Lovestruck Beast
 4 Bonecrusher Giant
-20 Forest
 4 Vivien, Arkbow Ranger
 1 Voracious Hydra
 2 Voracious Hydra
@@ -47,20 +47,20 @@
 1 Zhur-Taa Goblin
 2 Zhur-Taa Goblin
 7 Mountain
+1 Bonders' Enclave
 3 Zhur-Taa Goblin
 4 Zhur-Taa Goblin
-1 Bonders' Enclave
 1 Mobilized District
-1 Shifting Ceratops
 4 Yorvo, Lord of Garenbrig
 4 Castle Garenbrig
 1 Robber of the Rich
 2 Robber of the Rich
 3 Robber of the Rich
 4 Robber of the Rich
+1 Nissa, Who Shakes the World
+1 Shifting Ceratops
 1 Shadowspear
 2 Shadowspear
-1 Nissa, Who Shakes the World
 1 Karn's Bastion
 1 The Ozolith
 2 Nissa, Who Shakes the World
@@ -70,7 +70,6 @@
 3 The Ozolith
 4 The Ozolith
 4 Voracious Hydra
-2 Shifting Ceratops
 1 Ram Through
 2 Ram Through
 1 Wildwood Tracker
@@ -97,6 +96,7 @@
 8 Mountain
 9 Mountain
 1 Phoenix of Ash
+2 Shifting Ceratops
 3 Shifting Ceratops
 1 Everquill Phoenix
 2 Everquill Phoenix
@@ -105,8 +105,8 @@
 2 Fervent Champion
 3 Fervent Champion
 4 Fervent Champion
-1 Castle Vantress
 1 Steam Vents
+1 Castle Vantress
 1 The Royal Scions
 2 Steam Vents
 2 The Royal Scions
@@ -116,9 +116,6 @@
 1 Uro, Titan of Nature's Wrath
 2 Illuna, Apex of Wishes
 2 Uro, Titan of Nature's Wrath
-1 Gilded Goose
-2 Gilded Goose
-3 Gilded Goose
 1 Arboreal Grazer
 2 Arboreal Grazer
 3 Arboreal Grazer
@@ -134,6 +131,9 @@
 2 Sedge Scorpion
 2 Thrash/Threat
 3 Kraul Harpooner
+1 Gilded Goose
+2 Gilded Goose
+3 Gilded Goose
 4 Gilded Goose
 1 Rimrock Knight
 1 Edgewall Innkeeper
@@ -145,6 +145,24 @@
 3 Rimrock Knight
 3 Edgewall Innkeeper
 4 Edgewall Innkeeper
+1 Fae of Wishes
+1 Hydroid Krasis
+1 Nullhide Ferox
+1 Incubation Druid
+1 Temple of Mystery
+2 Fae of Wishes
+2 Hydroid Krasis
+2 Incubation Druid
+2 Nullhide Ferox
+2 Island
+3 Fae of Wishes
+3 Hydroid Krasis
+3 Nullhide Ferox
+3 Incubation Druid
+4 Fae of Wishes
+4 Hydroid Krasis
+4 Fabled Passage
+4 Incubation Druid
 1 Adventurous Impulse
 1 Gingerbrute
 1 Vivien, Champion of the Wilds
@@ -155,24 +173,6 @@
 3 Adventurous Impulse
 4 Adventurous Impulse
 4 Gingerbrute
-1 Hydroid Krasis
-1 Fae of Wishes
-1 Nullhide Ferox
-1 Incubation Druid
-1 Temple of Mystery
-2 Hydroid Krasis
-2 Fae of Wishes
-2 Incubation Druid
-2 Nullhide Ferox
-2 Island
-3 Hydroid Krasis
-3 Fae of Wishes
-3 Nullhide Ferox
-3 Incubation Druid
-4 Hydroid Krasis
-4 Fae of Wishes
-4 Fabled Passage
-4 Incubation Druid
 1 Leafkin Druid
 2 Leafkin Druid
 2 Klothys, God of Destiny
@@ -200,41 +200,19 @@
 4 Shark Typhoon
 4 Growth Spiral
 4 Uro, Titan of Nature's Wrath
-1 Castle Locthwain
-1 Overgrown Tomb
-1 Temple of Malady
-1 Swamp
-1 Return to Nature
-1 Murderous Rider
-1 Grafdigger's Cage
-1 Vraska, Golgari Queen
-1 Memory Leak
-1 Ritual of Soot
-1 Rankle, Master of Pranks
-2 Castle Locthwain
-2 Overgrown Tomb
-2 Murderous Rider
-2 Rankle, Master of Pranks
-2 Return to Nature
-2 Ritual of Soot
-2 Swamp
-2 Grafdigger's Cage
-2 Memory Leak
-2 Temple of Malady
-2 Vraska, Golgari Queen
-3 Swamp
-3 Return to Nature
-3 Murderous Rider
-3 Temple of Malady
-3 Vraska, Golgari Queen
-4 Swamp
-4 Temple of Malady
-5 Swamp
-6 Swamp
-7 Swamp
 2 Phoenix of Ash
 3 Gallia of the Endless Dance
 3 Phoenix of Ash
-4 Gallia of the Endless Dance
 4 Phoenix of Ash
+4 Gallia of the Endless Dance
 10 Mountain
+1 Migratory Greathorn
+1 Nessian Hornbeetle
+2 Migratory Greathorn
+2 Nessian Hornbeetle
+3 Migratory Greathorn
+3 Nessian Hornbeetle
+4 Migratory Greathorn
+4 Nessian Hornbeetle
+21 Forest
+22 Forest

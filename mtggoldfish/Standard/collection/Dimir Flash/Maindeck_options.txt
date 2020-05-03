@@ -1,6 +1,6 @@
-1 Sinister Sabotage
 2 Sinister Sabotage
 3 Sinister Sabotage
+2 Aether Gust
 1 Watery Grave
 1 Swamp
 1 Slitherwisp
@@ -33,17 +33,17 @@
 2 Heartless Act
 2 Voracious Greatshark
 4 Temple of Deceit
-6 Swamp
-1 Zagoth Triome
-2 Zagoth Triome
 1 Fabled Passage
 2 Fabled Passage
+6 Swamp
+1 Negate
+1 Zagoth Triome
+2 Zagoth Triome
+2 Negate
 1 Hypnotic Sprite
 2 Hypnotic Sprite
-1 Dirge Bat
-1 Negate
-2 Negate
 3 Fabled Passage
+1 Dirge Bat
 1 Lochmere Serpent
 2 Lochmere Serpent
 3 Lochmere Serpent
@@ -58,16 +58,30 @@
 1 Tyrant's Scorn
 3 Zagoth Triome
 4 Sinister Sabotage
+1 Essence Scatter
+2 Essence Scatter
+1 Forest
+1 Breeding Pool
+1 Nightpack Ambusher
+1 Frilled Mystic
+2 Breeding Pool
+2 Forest
+2 Nightpack Ambusher
+2 Frilled Mystic
+3 Breeding Pool
+3 Frilled Mystic
+3 Nightpack Ambusher
+4 Frilled Mystic
+4 Nightpack Ambusher
+4 Breeding Pool
 1 Blast Zone
 1 Narset, Parter of Veils
-1 Extinction Event
 1 Duress
+1 Extinction Event
 2 Duress
-1 Essence Scatter
+1 Omen of the Sea
 1 Faerie Vandal
 1 Thought Collapse
-1 Omen of the Sea
-2 Essence Scatter
 2 Omen of the Sea
 2 Faerie Vandal
 3 Shark Typhoon
@@ -78,6 +92,11 @@
 1 Blacklance Paragon
 2 Blacklance Paragon
 3 Blacklance Paragon
+1 Overgrown Tomb
+2 Overgrown Tomb
+2 Tyrant's Scorn
+3 Overgrown Tomb
+4 Overgrown Tomb
 1 Pouncing Shoreshark
 1 Lore Drakkis
 2 Pouncing Shoreshark
@@ -85,25 +104,50 @@
 4 Heartless Act
 3 Unsummon
 4 Unsummon
-1 Forest
-1 Breeding Pool
-1 Nightpack Ambusher
-1 Overgrown Tomb
-1 Frilled Mystic
-2 Breeding Pool
-2 Overgrown Tomb
-2 Nightpack Ambusher
-2 Frilled Mystic
-2 Tyrant's Scorn
-2 Forest
-3 Overgrown Tomb
-3 Frilled Mystic
-3 Breeding Pool
-3 Nightpack Ambusher
-4 Overgrown Tomb
-4 Frilled Mystic
-4 Nightpack Ambusher
-4 Breeding Pool
+1 Temple of Mystery
+1 Nissa, Who Shakes the World
+2 Temple of Mystery
+2 Nissa, Who Shakes the World
+3 Nissa, Who Shakes the World
+3 Temple of Mystery
+3 Forest
+4 Temple of Mystery
+4 Forest
+5 Forest
 1 Mystic Sanctuary
 1 Tale's End
 8 Swamp
+1 Castle Embereth
+1 Risk Factor
+1 Ionize
+1 Bonecrusher Giant
+1 Temple of Epiphany
+1 Steam Vents
+1 Mountain
+1 Shock
+1 Sprite Dragon
+2 Bonecrusher Giant
+2 Ionize
+2 Sprite Dragon
+2 Risk Factor
+2 Steam Vents
+2 Shock
+2 Mountain
+2 Temple of Epiphany
+3 Ionize
+3 Bonecrusher Giant
+3 Sprite Dragon
+3 Risk Factor
+3 Temple of Epiphany
+3 Steam Vents
+3 Shock
+3 Mountain
+4 Ionize
+4 Temple of Epiphany
+4 Steam Vents
+4 Bonecrusher Giant
+4 Sprite Dragon
+4 Risk Factor
+4 Mountain
+4 Shock
+5 Mountain

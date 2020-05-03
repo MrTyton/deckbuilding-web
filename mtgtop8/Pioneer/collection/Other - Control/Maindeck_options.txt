@@ -5,17 +5,17 @@
 2 Omen of the Sea
 2 Lumbering Falls
 2 Growth Spiral
-3 Temple Garden
 3 Elspeth Conquers Death
 3 Omen of the Sea
 3 Teferi, Hero of Dominaria
 3 Growth Spiral
 3 Baffling End
-4 Temple Garden
+3 Temple Garden
 4 Teferi, Time Raveler
 4 Omen of the Sea
 4 Growth Spiral
 4 Baffling End
+4 Temple Garden
 3 Satyr Wayfinder
 4 Satyr Wayfinder
 1 Swamp
@@ -47,19 +47,19 @@
 1 Flicker of Fate
 1 Treacherous Blessing
 1 Final Payment
-2 Trial of Ambition
 2 The Birth of Meletis
 2 Isolated Chapel
 2 Doom Foretold
+2 Trial of Ambition
 2 Treacherous Blessing
 2 Demonic Pact
-3 Trial of Ambition
 3 The Birth of Meletis
 3 Shambling Vent
 3 Oath of Kaya
 3 Demonic Pact
 3 Isolated Chapel
 3 Doom Foretold
+3 Trial of Ambition
 3 Treacherous Blessing
 4 Plains
 4 The Birth of Meletis
@@ -157,14 +157,14 @@
 1 Irrigated Farmland
 1 Emrakul, the Promised End
 1 Thirst for Meaning
-1 Cast Down
+1 Fetid Pools
 1 Thought Erasure
+1 Cast Down
 1 Elspeth, Sun's Champion
 1 Elspeth, Sun's Nemesis
 1 Hero's Downfall
 1 Search for Azcanta
 1 Concealed Courtyard
-1 Fetid Pools
 1 Narset, Parter of Veils
 2 Search for Azcanta
 2 Concealed Courtyard
@@ -214,8 +214,8 @@
 3 Steam Vents
 3 Stomping Ground
 4 Stomping Ground
-1 Yahenni's Expertise
 1 Drown in the Loch
+1 Yahenni's Expertise
 2 Elspeth, Sun's Nemesis
 2 Thirst for Meaning
 2 Thought Erasure
@@ -240,10 +240,10 @@
 3 Jace, Vryn's Prodigy
 1 Sphinx's Revelation
 1 Seal Away
+1 Syncopate
 1 Censor
 1 Negate
 1 Castle Vantress
-1 Syncopate
 1 Approach of the Second Sun
 1 Dig Through Time
 1 Sinister Sabotage
@@ -267,52 +267,52 @@
 4 Nicol Bolas, the Ravager
 1 Languish
 1 Doom Blade
+1 Chandra, Flamecaller
 1 Arguel's Blood Fast
 1 Read the Bones
-1 Chandra, Flamecaller
 1 Bedevil
 1 Ob Nixilis Reignited
+2 Vraska's Contempt
 2 Chandra, Flamecaller
 2 Bedevil
-2 Vraska's Contempt
 2 Read the Bones
 3 Read the Bones
 4 Read the Bones
-1 Risen Reef
 1 Essence Scatter
-1 Dive Down
 1 Treasure Cruise
-1 Mizzium Mortars
-1 Castle Embereth
-1 Chandra, Acolyte of Flame
 1 Spell Pierce
+1 Mizzium Mortars
+1 Chandra, Acolyte of Flame
+1 Risen Reef
+1 Castle Embereth
 1 Fiery Impulse
+1 Dive Down
 1 Wild Slash
 1 Young Pyromancer
 1 Living Twister
-2 Risen Reef
 2 Essence Scatter
 2 Chandra, Acolyte of Flame
-2 Chart a Course
 2 Treasure Cruise
-2 Dive Down
+2 Chart a Course
+2 Risen Reef
 2 Mizzium Mortars
 2 Wild Slash
+2 Dive Down
 2 Young Pyromancer
 2 Fiery Impulse
-3 Risen Reef
-3 Botanical Sanctum
 3 Chandra, Acolyte of Flame
+3 Botanical Sanctum
 3 Chart a Course
 3 Spirebluff Canal
+3 Risen Reef
 3 Young Pyromancer
 3 Mizzium Mortars
 3 Wild Slash
-4 Risen Reef
 4 Steam Vents
 4 Young Pyromancer
-4 Spirebluff Canal
 4 Chart a Course
+4 Spirebluff Canal
+4 Risen Reef
 4 Wild Slash
 1 Mire Triton
 2 Glorybringer
@@ -321,22 +321,22 @@
 3 Chandra, Torch of Defiance
 4 Canyon Slough
 1 Ugin, the Spirit Dragon
-1 Elder Deep-Fiend
+1 Kozilek's Return
 1 Arboreal Grazer
 1 Castle Garenbrig
 1 Llanowar Elves
-1 Kozilek's Return
+1 Elder Deep-Fiend
 1 Cavalier of Thorns
-2 Elder Deep-Fiend
 2 Kozilek's Return
 2 Cavalier of Thorns
 2 Champion of Wits
 2 Castle Garenbrig
 2 Arboreal Grazer
 2 Ugin, the Spirit Dragon
+2 Elder Deep-Fiend
 2 Ipnu Rivulet
-3 Elder Deep-Fiend
 3 Nissa, Who Shakes the World
+3 Elder Deep-Fiend
 3 Kozilek's Return
 3 Champion of Wits
 3 Arboreal Grazer
@@ -345,11 +345,11 @@
 4 Arboreal Grazer
 1 Polukranos, Unchained
 1 Tasigur, the Golden Fang
-1 Ramunap Excavator
 1 Hissing Quagmire
 1 Thrashing Brontodon
 1 Assassin's Trophy
 1 Scrapheap Scrounger
+1 Ramunap Excavator
 2 Assassin's Trophy
 2 Scavenging Ooze
 2 Field of Ruin

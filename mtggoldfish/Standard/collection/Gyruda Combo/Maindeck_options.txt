@@ -1,36 +1,35 @@
-2 End-Raze Forerunners
-1 Kogla, the Titan Ape
+1 End-Raze Forerunners
 2 Dream Trawler
 2 Luminous Broodmoth
+2 End-Raze Forerunners
 4 Thassa, Deep-Dwelling
 3 Island
 4 Temple of Mystery
 1 Fiend Artisan
 2 Fiend Artisan
-4 Elite Guardmage
+3 Temple of Plenty
 3 Wolfwillow Haven
-1 Umori, the Collector
-2 Umori, the Collector
+1 Dream Eater
 1 Thassa's Oracle
 4 Fabled Passage
 1 Overgrown Tomb
+4 Elite Guardmage
 1 Incubation Druid
 2 Incubation Druid
 3 Incubation Druid
-3 Temple of Plenty
-1 Dream Eater
 2 Dream Eater
 3 Migration Path
 1 Watery Grave
 1 Swamp
-2 Swamp
 2 Overgrown Tomb
+2 Swamp
 3 Overgrown Tomb
 4 Overgrown Tomb
 4 Wolfwillow Haven
 4 Island
 5 Island
-1 Castle Vantress
+1 Umori, the Collector
+2 Umori, the Collector
 1 Humble Naturalist
 2 Humble Naturalist
 1 Sphinx of Foresight
@@ -47,6 +46,7 @@
 4 Incubation Druid
 3 Humble Naturalist
 4 Humble Naturalist
+1 Castle Vantress
 4 Watery Grave
 1 Polukranos, Unchained
 2 Polukranos, Unchained
@@ -79,12 +79,6 @@
 6 Forest
 1 Fae of Wishes
 2 Fae of Wishes
-1 Incubation/Incongruity
-1 Atris, Oracle of Half-Truths
-1 Heartless Act
-2 Atris, Oracle of Half-Truths
-2 Heartless Act
-3 Heartless Act
 1 Indatha Triome
 1 Godless Shrine
 3 Fiend Artisan
@@ -94,29 +88,34 @@
 2 Hydroid Krasis
 2 Acolyte of Affliction
 3 Hydroid Krasis
+1 Atris, Oracle of Half-Truths
+1 Heartless Act
+2 Atris, Oracle of Half-Truths
+2 Heartless Act
+3 Heartless Act
 3 Luminous Broodmoth
 4 Temple of Plenty
 1 Nightmare Shepherd
 1 Assassin's Trophy
 2 Nightmare Shepherd
 2 Assassin's Trophy
-3 Zagoth Triome
 3 Swamp
+3 Zagoth Triome
 3 Nightmare Shepherd
 3 Assassin's Trophy
 4 Zagoth Triome
+1 Fires of Invention
+2 Fires of Invention
+3 Fires of Invention
+3 Fae of Wishes
+4 Fires of Invention
+4 Fae of Wishes
 1 Creeping Chill
 2 Creeping Chill
 3 Creeping Chill
 4 Creeping Chill
-1 Fires of Invention
-2 Fires of Invention
-3 Fae of Wishes
-3 Fires of Invention
-4 Fae of Wishes
-4 Fires of Invention
-1 Chemister's Insight
 1 Expansion/Explosion
+1 Chemister's Insight
 1 Nightpack Ambusher
 1 Scorching Dragonfire
 1 Shifting Ceratops
@@ -132,6 +131,11 @@
 3 Expansion/Explosion
 4 Expansion/Explosion
 4 Wilderness Reclamation
+3 Thassa's Oracle
+4 Thassa's Oracle
+6 Island
+7 Forest
+7 Island
 1 Bonders' Enclave
 1 Pacifism
 1 Maraleaf Pixie
@@ -152,8 +156,3 @@
 3 Ilysian Caryatid
 4 Maraleaf Pixie
 4 Ilysian Caryatid
-3 Thassa's Oracle
-4 Thassa's Oracle
-6 Island
-7 Forest
-7 Island
