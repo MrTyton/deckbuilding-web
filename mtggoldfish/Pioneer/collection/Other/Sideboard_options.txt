@@ -1,20 +1,15 @@
-1 Yorion, Sky Nomad
-4 Mystical Dispute
-3 Damping Sphere
-1 Drannith Magistrate
-1 Legion's End
+3 Dead Weight
+1 Keening Apparition
+2 Keening Apparition
 1 Abrupt Decay
 1 Mire's Grasp
-2 Drannith Magistrate
-2 Legion's End
 1 Aether Gust
 2 Aether Gust
+1 Drannith Magistrate
+1 Legion's End
 1 Brain Maggot
-1 Felidar Cub
 1 Barrier Breach
 2 Barrier Breach
-1 Fatal Push
-2 Fatal Push
 3 Aether Gust
 1 Rest in Peace
 1 Archon of Sun's Grace
@@ -25,14 +20,18 @@
 4 Aether Gust
 1 Grafdigger's Cage
 1 Duress
+2 Drannith Magistrate
+1 Fatal Push
+2 Fatal Push
+2 Legion's End
 1 Knight of Autumn
 2 Knight of Autumn
 3 Knight of Autumn
 1 Baffling End
 2 Baffling End
 3 Baffling End
-1 Hushbringer
 2 Rest in Peace
+1 Hushbringer
 2 Brain Maggot
 1 Annul
 2 Annul
@@ -46,14 +45,28 @@
 1 Zirda, the Dawnwaker
 1 Settle the Wreckage
 1 Lavinia of the Tenth
+1 Tormod's Crypt
+1 Fry
+1 Abrade
+1 Chandra's Defeat
+1 Scab-Clan Berserker
+1 Rending Volley
+1 Harness by Force
+1 Chandra, Torch of Defiance
+1 Tibalt, Rakish Instigator
+1 Chandra, Acolyte of Flame
+1 Lutri, the Spellchaser
+1 Searing Blood
+1 Smash to Smithereens
+1 Lava Coil
+1 Skullcrack
 1 Walking Ballista
+1 The Immortal Sun
+1 Cataclysmic Gearhulk
 1 God-Pharaoh's Statue
 1 Pithing Needle
-1 The Immortal Sun
-1 Skysovereign, Consul Flagship
 1 Glass Casket
-1 Tormod's Crypt
-1 Cataclysmic Gearhulk
+1 Skysovereign, Consul Flagship
 2 Abrupt Decay
 1 Extinction Event
 2 Extinction Event
@@ -65,85 +78,38 @@
 2 Hidden Stockpile
 1 Negate
 1 Saheeli, Sublime Artificer
-1 Fry
-1 Abrade
-1 Alpine Moon
 1 Magma Spray
+1 Alpine Moon
 1 Disdainful Stroke
 2 Saheeli, Sublime Artificer
-2 Abrade
-2 Alpine Moon
 2 Magma Spray
+2 Alpine Moon
+2 Abrade
 1 Tomik, Distinguished Advokist
+1 Felidar Cub
 2 Felidar Cub
 1 Charming Prince
 2 Charming Prince
 2 Assassin's Trophy
 3 Charming Prince
-1 Fairgrounds Warden
-2 Hushbringer
-2 Fairgrounds Warden
-3 Rest in Peace
-3 Hushbringer
+3 Legion's End
 1 Painful Truths
 2 Grafdigger's Cage
 2 Painful Truths
 3 Grafdigger's Cage
 3 Back to Nature
-3 Legion's End
+1 Fairgrounds Warden
+2 Fairgrounds Warden
+2 Hushbringer
+3 Rest in Peace
+3 Hushbringer
+3 Keening Apparition
+4 Dead Weight
 1 Aethersphere Harvester
 3 Fatal Push
 4 Fatal Push
 3 Archon of Sun's Grace
 4 Archon of Sun's Grace
-3 Keening Apparition
-4 Dead Weight
-1 Scavenging Ooze
-1 Heartless Act
-1 Golgari Charm
-2 Scavenging Ooze
-2 Heartless Act
-2 Golgari Charm
-3 Heartless Act
-3 Duress
-4 Duress
-4 Monastery Mentor
-1 Emrakul, the Promised End
-4 Knight of Autumn
-1 Cling to Dust
-1 Easy Prey
-2 Cling to Dust
-2 Easy Prey
-2 Negate
-3 Negate
-3 Easy Prey
-4 Negate
-4 Easy Prey
-1 Vivien, Champion of the Wilds
-1 Devout Decree
-1 Glare of Heresy
-1 Vivien Reid
-2 Devout Decree
-2 Glare of Heresy
-3 Devout Decree
-3 Glare of Heresy
-4 Devout Decree
-4 Glare of Heresy
-1 Scab-Clan Berserker
-1 Goblin Chainwhirler
-1 Chandra's Defeat
-1 Kari Zev's Expertise
-1 Obosh, the Preypiercer
-1 Rending Volley
-2 Goblin Chainwhirler
-2 Rending Volley
-2 Chandra's Defeat
-2 Kari Zev's Expertise
-2 Scab-Clan Berserker
-3 Scab-Clan Berserker
-3 Rending Volley
-4 Rending Volley
-4 Scab-Clan Berserker
 1 Courser of Kruphix
 1 Jegantha, the Wellspring
 1 Reality Shift
@@ -153,6 +119,49 @@
 2 Reality Shift
 3 Nimble Obstructionist
 4 Nimble Obstructionist
+1 Emrakul, the Promised End
+4 Knight of Autumn
+1 Scavenging Ooze
+1 Heartless Act
+1 Golgari Charm
+2 Scavenging Ooze
+2 Heartless Act
+2 Golgari Charm
+3 Duress
+3 Heartless Act
+4 Duress
+1 Obosh, the Preypiercer
+1 Goblin Chainwhirler
+1 Kari Zev's Expertise
+2 Chandra's Defeat
+2 Goblin Chainwhirler
+2 Kari Zev's Expertise
+2 Scab-Clan Berserker
+2 Rending Volley
+3 Scab-Clan Berserker
+3 Rending Volley
+4 Rending Volley
+4 Scab-Clan Berserker
+1 Glare of Heresy
+1 Vivien, Champion of the Wilds
+1 Devout Decree
+1 Vivien Reid
+2 Glare of Heresy
+2 Devout Decree
+3 Glare of Heresy
+3 Devout Decree
+4 Glare of Heresy
+4 Devout Decree
+4 Monastery Mentor
+1 Cling to Dust
+1 Easy Prey
+2 Cling to Dust
+2 Negate
+2 Easy Prey
+3 Negate
+3 Easy Prey
+4 Negate
+4 Easy Prey
 1 Entrancing Melody
 2 Entrancing Melody
 3 Annul

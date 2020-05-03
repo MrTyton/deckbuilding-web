@@ -1,8 +1,8 @@
-3 Walking Ballista
 3 Winding Constrictor
-4 Hardened Scales
-4 Winding Constrictor
+3 Hardened Scales
 4 Walking Ballista
+4 Winding Constrictor
+4 Hardened Scales
 1 Mutavault
 2 Mutavault
 3 Mutavault
@@ -47,15 +47,15 @@
 1 Priest of Forgotten Gods
 2 Satyr Wayfinder
 2 Catacomb Sifter
+2 Plaguecrafter
 2 Westvale Abbey
 2 Priest of Forgotten Gods
 2 Gruesome Menagerie
-2 Plaguecrafter
 2 Woe Strider
 2 Zulaport Cutthroat
-3 Satyr Wayfinder
-3 Catacomb Sifter
 3 Plaguecrafter
+3 Catacomb Sifter
+3 Satyr Wayfinder
 3 Woe Strider
 3 Zulaport Cutthroat
 4 Plaguecrafter
@@ -69,13 +69,13 @@
 1 Hangarback Walker
 2 Hangarback Walker
 3 Hangarback Walker
-4 Nessian Hornbeetle
 3 Rishkar, Peema Renegade
 4 Rishkar, Peema Renegade
 1 Weaponcraft Enthusiast
 2 Weaponcraft Enthusiast
 3 Priest of Forgotten Gods
 4 Priest of Forgotten Gods
+4 Nessian Hornbeetle
 1 Tireless Tracker
 1 Shadowspear
 1 Fatal Push
@@ -95,20 +95,15 @@
 1 Nissa, Who Shakes the World
 1 Yorvo, Lord of Garenbrig
 1 Mana Confluence
-2 Nissa, Who Shakes the World
 2 Yorvo, Lord of Garenbrig
+2 Nissa, Who Shakes the World
 1 Heart of Kiran
 2 Heart of Kiran
 3 Rhonas the Indomitable
 3 Heart of Kiran
-1 Nantuko Husk
-1 Blisterpod
-2 Nantuko Husk
-3 Gruesome Menagerie
-4 Satyr Wayfinder
+1 The Ozolith
 1 Avatar of the Resolute
 1 Pelt Collector
-1 The Ozolith
 2 Avatar of the Resolute
 2 Pelt Collector
 2 The Ozolith
@@ -123,25 +118,30 @@
 2 Steel Overseer
 2 Metallic Mimic
 3 Animation Module
-3 Metallic Mimic
 3 Steel Overseer
+3 Metallic Mimic
 4 Metallic Mimic
+1 Nantuko Husk
+1 Blisterpod
+2 Nantuko Husk
+3 Gruesome Menagerie
+4 Satyr Wayfinder
 1 Traverse the Ulvenwald
 1 Grisly Salvage
+1 Nullhide Ferox
 1 Sylvan Caryatid
 1 Murderous Rider
-1 Nullhide Ferox
 1 Lotleth Troll
 1 Gifted Aetherborn
 1 Soulflayer
 1 Zetalpa, Primal Dawn
 1 Gather the Pack
 2 Traverse the Ulvenwald
-2 Sylvan Caryatid
+2 Nullhide Ferox
 2 Murderous Rider
+2 Sylvan Caryatid
 2 Questing Beast
 2 Gather the Pack
-2 Nullhide Ferox
 2 Soulflayer
 2 Gifted Aetherborn
 2 Zetalpa, Primal Dawn
@@ -149,17 +149,17 @@
 2 Lotleth Troll
 3 Woodland Cemetery
 3 Grisly Salvage
+3 Swamp
 3 Questing Beast
-3 Traverse the Ulvenwald
 3 Sylvan Caryatid
 3 Murderous Rider
 3 Soulflayer
 3 Gather the Pack
 3 Zetalpa, Primal Dawn
+3 Traverse the Ulvenwald
 3 Lotleth Troll
-3 Swamp
-4 Grisly Salvage
 4 Traverse the Ulvenwald
+4 Grisly Salvage
 4 Sylvan Caryatid
 4 Gather the Pack
 4 Lotleth Troll

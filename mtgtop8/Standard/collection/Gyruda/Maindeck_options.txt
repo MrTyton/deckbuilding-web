@@ -1,23 +1,25 @@
+3 Fabled Passage
+1 Kogla, the Titan Ape
 1 Luminous Broodmoth
 2 Luminous Broodmoth
 2 End-Raze Forerunners
-3 Fabled Passage
-1 Kogla, the Titan Ape
 1 Migration Path
 2 Migration Path
 3 Wolfwillow Haven
 4 Wolfwillow Haven
+4 Fabled Passage
 1 Humble Naturalist
+4 Forest
 1 Dream Eater
 2 Dream Eater
-4 Fabled Passage
+1 Thassa's Oracle
 1 Fiend Artisan
 2 Fiend Artisan
+5 Forest
+4 Island
 3 Migration Path
-4 Forest
 1 Umori, the Collector
 2 Umori, the Collector
-1 Thassa's Oracle
 4 Temple of Mystery
 1 Incubation Druid
 2 Incubation Druid
@@ -27,8 +29,6 @@
 1 Swamp
 1 Watery Grave
 2 Watery Grave
-5 Forest
-4 Island
 4 Migration Path
 1 Overgrown Tomb
 2 Overgrown Tomb
@@ -36,18 +36,25 @@
 3 Watery Grave
 4 Overgrown Tomb
 4 Watery Grave
+5 Island
 3 Dream Eater
 2 Swamp
+2 Thassa's Oracle
 3 Luminous Broodmoth
 1 Zagoth Triome
 2 Zagoth Triome
-5 Island
-3 Temple of Enlightenment
+6 Island
+6 Forest
+7 Island
 4 Dream Eater
+1 Fae of Wishes
+2 Fae of Wishes
+3 Fae of Wishes
+4 Fae of Wishes
+3 Temple of Enlightenment
 2 Plains
 1 Extinction Event
 2 Extinction Event
-2 Thassa's Oracle
 2 Kogla, the Titan Ape
 4 Fiend Artisan
 1 Polukranos, Unchained
@@ -58,6 +65,23 @@
 4 Zagoth Triome
 3 Temple of Plenty
 4 Temple of Plenty
+1 Fires of Invention
+1 Ketria Triome
+1 Castle Vantress
+1 Steam Vents
+1 Mountain
+1 Stomping Ground
+2 Castle Vantress
+2 Fires of Invention
+2 Ketria Triome
+2 Steam Vents
+2 Stomping Ground
+3 Ketria Triome
+3 Fires of Invention
+3 Steam Vents
+4 Ketria Triome
+4 Fires of Invention
+4 Steam Vents
 2 Humble Naturalist
 3 Humble Naturalist
 4 Humble Naturalist
@@ -68,27 +92,6 @@
 3 Essence Scatter
 3 Shark Typhoon
 4 Essence Scatter
-1 Fires of Invention
-1 Ketria Triome
-1 Castle Vantress
-1 Steam Vents
-1 Mountain
-1 Fae of Wishes
-1 Stomping Ground
-2 Castle Vantress
-2 Fires of Invention
-2 Ketria Triome
-2 Steam Vents
-2 Stomping Ground
-2 Fae of Wishes
-3 Ketria Triome
-3 Fires of Invention
-3 Steam Vents
-3 Fae of Wishes
-4 Ketria Triome
-4 Fires of Invention
-4 Steam Vents
-4 Fae of Wishes
 1 Sphinx of Foresight
 1 Thought Erasure
 2 Sphinx of Foresight
@@ -97,24 +100,24 @@
 3 Thought Erasure
 4 Sphinx of Foresight
 4 Thought Erasure
-1 The Birth of Meletis
 1 Shatter the Sky
 1 Heartless Act
 1 Godless Shrine
 1 Temple of Deceit
 1 Temple of Silence
-2 The Birth of Meletis
-2 Heartless Act
+1 The Birth of Meletis
 2 Temple of Deceit
 2 Godless Shrine
 2 Shatter the Sky
+2 The Birth of Meletis
 2 Temple of Silence
-3 The Birth of Meletis
-3 Heartless Act
-3 Plains
+2 Heartless Act
 3 Thassa's Oracle
 3 Extinction Event
+3 The Birth of Meletis
 3 Temple of Silence
+3 Plains
+3 Heartless Act
 3 Temple of Deceit
 4 Extinction Event
 4 Plains
@@ -125,7 +128,12 @@
 2 Fblthp, the Lost
 3 Fblthp, the Lost
 4 Fblthp, the Lost
-6 Island
-6 Forest
 7 Forest
-7 Island
+1 Thornwood Falls
+1 Golgari Raiders
+2 Thornwood Falls
+2 Golgari Raiders
+3 Thornwood Falls
+3 Golgari Raiders
+4 Thornwood Falls
+4 Golgari Raiders
