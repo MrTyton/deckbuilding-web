@@ -39,7 +39,7 @@
 |                    3|[Castle Vantress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473204)  |                    1|[Opt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442948)                   |
 |                    2|[Unsummon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=136218)         |                    1|[Unsummon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=136218)              |
 |                     |                                                                                            |                    2|[Unsummon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=136218)              |
+|                     |                                                                                            |                    2|[Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)      |
 |                     |                                                                                            |                    1|[So Tiny](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473026)               |
 |                     |                                                                                            |                    4|[Cerulean Drake](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466807)        |
-|                     |                                                                                            |                    2|[Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)      |
 

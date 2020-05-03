@@ -1,8 +1,8 @@
+3 Walking Ballista
 3 Winding Constrictor
-3 Hardened Scales
-4 Walking Ballista
-4 Winding Constrictor
 4 Hardened Scales
+4 Winding Constrictor
+4 Walking Ballista
 1 Mutavault
 2 Mutavault
 3 Mutavault
@@ -38,30 +38,30 @@
 1 Ghalta, Primal Hunger
 2 Swamp
 1 Satyr Wayfinder
-1 Zulaport Cutthroat
-1 Priest of Forgotten Gods
 1 Catacomb Sifter
 1 Plaguecrafter
 1 Westvale Abbey
 1 Gruesome Menagerie
 1 Woe Strider
-2 Zulaport Cutthroat
+1 Zulaport Cutthroat
+1 Priest of Forgotten Gods
 2 Satyr Wayfinder
-2 Priest of Forgotten Gods
 2 Catacomb Sifter
 2 Westvale Abbey
+2 Priest of Forgotten Gods
 2 Gruesome Menagerie
 2 Plaguecrafter
 2 Woe Strider
-3 Zulaport Cutthroat
+2 Zulaport Cutthroat
+3 Satyr Wayfinder
 3 Catacomb Sifter
 3 Plaguecrafter
-3 Satyr Wayfinder
 3 Woe Strider
-4 Zulaport Cutthroat
+3 Zulaport Cutthroat
 4 Plaguecrafter
 4 Catacomb Sifter
 4 Woe Strider
+4 Zulaport Cutthroat
 1 Experiment One
 2 Experiment One
 3 Experiment One
@@ -69,13 +69,13 @@
 1 Hangarback Walker
 2 Hangarback Walker
 3 Hangarback Walker
+4 Nessian Hornbeetle
+3 Rishkar, Peema Renegade
+4 Rishkar, Peema Renegade
 1 Weaponcraft Enthusiast
 2 Weaponcraft Enthusiast
 3 Priest of Forgotten Gods
 4 Priest of Forgotten Gods
-4 Nessian Hornbeetle
-3 Rishkar, Peema Renegade
-4 Rishkar, Peema Renegade
 1 Tireless Tracker
 1 Shadowspear
 1 Fatal Push
@@ -84,8 +84,8 @@
 2 Thoughtseize
 3 Fatal Push
 3 Thoughtseize
-4 Thoughtseize
 4 Fatal Push
+4 Thoughtseize
 4 Hangarback Walker
 1 Questing Beast
 1 Urborg, Tomb of Yawgmoth
@@ -101,9 +101,14 @@
 2 Heart of Kiran
 3 Rhonas the Indomitable
 3 Heart of Kiran
-1 The Ozolith
+1 Nantuko Husk
+1 Blisterpod
+2 Nantuko Husk
+3 Gruesome Menagerie
+4 Satyr Wayfinder
 1 Avatar of the Resolute
 1 Pelt Collector
+1 The Ozolith
 2 Avatar of the Resolute
 2 Pelt Collector
 2 The Ozolith
@@ -111,45 +116,6 @@
 3 Pelt Collector
 4 Pelt Collector
 4 Avatar of the Resolute
-1 Traverse the Ulvenwald
-1 Grisly Salvage
-1 Sylvan Caryatid
-1 Zetalpa, Primal Dawn
-1 Lotleth Troll
-1 Murderous Rider
-1 Gather the Pack
-1 Soulflayer
-1 Nullhide Ferox
-1 Gifted Aetherborn
-2 Traverse the Ulvenwald
-2 Sylvan Caryatid
-2 Soulflayer
-2 Murderous Rider
-2 Gather the Pack
-2 Zetalpa, Primal Dawn
-2 Lotleth Troll
-2 Questing Beast
-2 Nullhide Ferox
-2 Gifted Aetherborn
-2 Grisly Salvage
-3 Woodland Cemetery
-3 Grisly Salvage
-3 Swamp
-3 Lotleth Troll
-3 Sylvan Caryatid
-3 Soulflayer
-3 Gather the Pack
-3 Zetalpa, Primal Dawn
-3 Murderous Rider
-3 Questing Beast
-3 Traverse the Ulvenwald
-4 Traverse the Ulvenwald
-4 Grisly Salvage
-4 Soulflayer
-4 Gather the Pack
-4 Zetalpa, Primal Dawn
-4 Lotleth Troll
-4 Sylvan Caryatid
 1 Animation Module
 1 Steel Overseer
 1 Metallic Mimic
@@ -160,10 +126,44 @@
 3 Metallic Mimic
 3 Steel Overseer
 4 Metallic Mimic
-1 Nantuko Husk
-1 Blisterpod
-2 Nantuko Husk
-3 Gruesome Menagerie
-4 Satyr Wayfinder
+1 Traverse the Ulvenwald
+1 Grisly Salvage
+1 Sylvan Caryatid
+1 Murderous Rider
+1 Nullhide Ferox
+1 Lotleth Troll
+1 Gifted Aetherborn
+1 Soulflayer
+1 Zetalpa, Primal Dawn
+1 Gather the Pack
+2 Traverse the Ulvenwald
+2 Sylvan Caryatid
+2 Murderous Rider
+2 Questing Beast
+2 Gather the Pack
+2 Nullhide Ferox
+2 Soulflayer
+2 Gifted Aetherborn
+2 Zetalpa, Primal Dawn
+2 Grisly Salvage
+2 Lotleth Troll
+3 Woodland Cemetery
+3 Grisly Salvage
+3 Questing Beast
+3 Traverse the Ulvenwald
+3 Sylvan Caryatid
+3 Murderous Rider
+3 Soulflayer
+3 Gather the Pack
+3 Zetalpa, Primal Dawn
+3 Lotleth Troll
+3 Swamp
+4 Grisly Salvage
+4 Traverse the Ulvenwald
+4 Sylvan Caryatid
+4 Gather the Pack
+4 Lotleth Troll
+4 Zetalpa, Primal Dawn
+4 Soulflayer
 2 Ghalta, Primal Hunger
 4 The Great Henge

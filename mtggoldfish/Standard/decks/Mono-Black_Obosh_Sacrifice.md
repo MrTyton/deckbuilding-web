@@ -23,11 +23,16 @@
 
 # Other Options
 
-|*n*<sup>th</sup> copy|                                      Maindeck Card                                       |*n*<sup>th</sup> copy|                                 Sideboard Card                                 |
-|--------------------:|------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------|
-|                    1|[Witch's Cottage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473211)|                    3|[Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)|
-|                   20|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)          |                    4|[Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)|
-|                    1|[Midnight Reaper](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452827)|                     |                                                                                |
-|                    3|[Murderous Rider](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473059)|                     |                                                                                |
-|                    1|[Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)          |                     |                                                                                |
+|*n*<sup>th</sup> copy|                                      Maindeck Card                                       |*n*<sup>th</sup> copy|                                       Sideboard Card                                        |
+|--------------------:|------------------------------------------------------------------------------------------|--------------------:|---------------------------------------------------------------------------------------------|
+|                    1|Lurrus of the Dream Den                                                                   |                    3|[Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)             |
+|                    2|Lurrus of the Dream Den                                                                   |                    1|[Shadowspear](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476487)       |
+|                    1|Obosh, the Preypiercer                                                                    |                    1|[Dead Weight](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452817)       |
+|                   20|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)          |                    1|[Murderous Rider](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473059)   |
+|                    1|[Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)          |                    2|[Dead Weight](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452817)       |
+|                    1|[Midnight Reaper](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452827)|                    2|[Shadowspear](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476487)       |
+|                    3|[Murderous Rider](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473059)|                    3|[Pharika's Libation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476362)|
+|                    1|[Witch's Cottage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473211)|                    3|[Dead Weight](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452817)       |
+|                     |                                                                                          |                    3|[Cavalier of Night](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466848) |
+|                     |                                                                                          |                    4|[Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)             |
 

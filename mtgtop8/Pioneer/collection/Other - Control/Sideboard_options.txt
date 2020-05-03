@@ -61,11 +61,6 @@
 1 Magma Spray
 1 By Force
 2 Chandra, Acolyte of Flame
-1 Gideon, Ally of Zendikar
-1 Apostle of Purifying Light
-2 Apostle of Purifying Light
-2 Kunoros, Hound of Athreos
-2 Duress
 1 Disdainful Stroke
 1 Chandra's Defeat
 1 Mystic Repeal
@@ -73,20 +68,25 @@
 1 Saheeli, Sublime Artificer
 1 Collective Defiance
 1 Rending Volley
-2 Mystic Repeal
 2 Abrade
+2 Mystic Repeal
+1 Gideon, Ally of Zendikar
+1 Apostle of Purifying Light
+2 Apostle of Purifying Light
+2 Kunoros, Hound of Athreos
+2 Duress
 1 Doom Blade
-1 Infinite Obliteration
 1 Fry
-2 Legion's End
+1 Infinite Obliteration
 2 Fry
+2 Legion's End
 2 Doom Blade
 1 Plaguecrafter
 1 Phyrexian Revoker
 1 Golgari Charm
 1 Massacre Girl
-1 Davriel, Rogue Shadowmage
 1 Shifting Ceratops
+1 Davriel, Rogue Shadowmage
 2 Davriel, Rogue Shadowmage
 1 Scavenging Ooze
 1 Lovestruck Beast
@@ -97,18 +97,18 @@
 2 Disdainful Stroke
 2 Settle the Wreckage
 3 Lovestruck Beast
-1 Murderous Rider
-1 Elspeth, Sun's Nemesis
-1 Spell Queller
-2 Spell Queller
-2 Dream Trawler
-3 Spell Queller
 1 Ritual of Soot
 2 Blightbeetle
 3 Blightbeetle
 1 Kozilek's Return
 2 Kozilek's Return
 3 Leyline of the Void
+1 Brazen Borrower
+1 Display of Dominance
+2 Brazen Borrower
+2 Chandra, Awakened Inferno
+3 Aether Gust
+3 Unravel the Aether
 1 Goblin Rabblemaster
 1 Arguel's Blood Fast
 1 Crux of Fate
@@ -117,9 +117,9 @@
 3 Goblin Rabblemaster
 3 Slaughter Games
 4 Goblin Rabblemaster
-1 Brazen Borrower
-1 Display of Dominance
-2 Brazen Borrower
-2 Chandra, Awakened Inferno
-3 Aether Gust
-3 Unravel the Aether
+1 Murderous Rider
+1 Elspeth, Sun's Nemesis
+1 Spell Queller
+2 Spell Queller
+2 Dream Trawler
+3 Spell Queller

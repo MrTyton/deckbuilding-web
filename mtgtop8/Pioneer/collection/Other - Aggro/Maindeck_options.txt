@@ -29,6 +29,14 @@
 2 Scavenging Ooze
 6 Forest
 1 Mystical Dispute
+1 Hangarback Walker
+1 Hardened Scales
+2 Hangarback Walker
+2 Hardened Scales
+3 Hangarback Walker
+3 Hardened Scales
+4 Hardened Scales
+4 Hangarback Walker
 3 Voice of Resurgence
 7 Forest
 8 Forest
@@ -36,55 +44,47 @@
 1 Nissa, Voice of Zendikar
 1 Vivien, Arkbow Ranger
 1 Dromoka's Command
-1 Hangarback Walker
-1 Hardened Scales
 2 Nissa, Voice of Zendikar
-2 Hangarback Walker
 2 Vivien, Arkbow Ranger
 2 Dromoka's Command
-2 Hardened Scales
 3 Nissa, Voice of Zendikar
-3 Hardened Scales
-3 Hangarback Walker
 3 Dromoka's Command
-4 Hardened Scales
 4 Nissa, Voice of Zendikar
-4 Hangarback Walker
 1 Courser of Kruphix
 2 Courser of Kruphix
 3 Courser of Kruphix
 1 Gideon's Intervention
 2 Baffling End
 1 Wolfwillow Haven
-1 Calix, Destiny's Hand
 1 Temple of Plenty
-1 Banishing Light
-1 Sigil of the Empty Throne
-1 Sphere of Safety
+1 Calix, Destiny's Hand
 1 Setessan Champion
+1 Sigil of the Empty Throne
+1 Banishing Light
+1 Sphere of Safety
 1 Eidolon of Blossoms
 1 Seal Away
 1 Herald of the Pantheon
 2 Wolfwillow Haven
-2 Banishing Light
 2 Setessan Champion
+2 Banishing Light
+2 Herald of the Pantheon
 2 Eidolon of Blossoms
 2 Sigil of the Empty Throne
-2 Herald of the Pantheon
 2 Temple of Plenty
 2 Sphere of Safety
 3 Temple of Plenty
 3 Wolfwillow Haven
-3 Eidolon of Blossoms
 3 Setessan Champion
+3 Eidolon of Blossoms
 3 Herald of the Pantheon
 3 Banishing Light
 4 Temple of Plenty
+4 Setessan Champion
 4 Banishing Light
 4 Eidolon of Blossoms
 4 Herald of the Pantheon
 4 Courser of Kruphix
-4 Setessan Champion
 4 Wolfwillow Haven
 1 Collected Company
 2 Collected Company
@@ -104,45 +104,55 @@
 3 Concealed Courtyard
 3 Godless Shrine
 4 Godless Shrine
+1 Swamp
+1 Fatal Push
+2 Fatal Push
+3 Fatal Push
 1 Isolated Chapel
 1 Archangel Avacyn
 2 Isolated Chapel
 2 Archangel Avacyn
 1 Shalai, Voice of Plenty
-1 Benalish Marshal
-2 Benalish Marshal
-1 Caves of Koilos
-1 Swamp
-1 Fatal Push
-2 Fatal Push
-3 Fatal Push
-1 Liliana, the Last Hope
-1 Fabled Passage
-2 Fabled Passage
 1 Thoughtseize
-1 Murderous Rider
-2 Murderous Rider
 2 Thoughtseize
 2 Swamp
 3 Thoughtseize
 4 Thoughtseize
-1 Field of Ruin
-1 Questing Beast
-1 Assassin's Trophy
-1 Vraska, Golgari Queen
+1 Liliana, the Last Hope
+1 Fabled Passage
+2 Fabled Passage
 1 Overgrown Tomb
-1 Abrupt Decay
-1 Tireless Tracker
 1 Blooming Marsh
-2 Tireless Tracker
 2 Blooming Marsh
 2 Overgrown Tomb
-3 Fabled Passage
 4 Fatal Push
+3 Swamp
+1 Caves of Koilos
+1 Murderous Rider
+2 Murderous Rider
+1 Questing Beast
+3 Blooming Marsh
+4 Blooming Marsh
+1 Field of Ruin
+1 Assassin's Trophy
+1 Vraska, Golgari Queen
+1 Abrupt Decay
+1 Tireless Tracker
+2 Tireless Tracker
+3 Fabled Passage
+3 Overgrown Tomb
+4 Overgrown Tomb
+1 Mutavault
+1 Urborg, Tomb of Yawgmoth
+1 Castle Locthwain
+2 Castle Locthwain
+4 Concealed Courtyard
+1 Benalish Marshal
 1 Sorin, Vengeful Bloodlord
 1 Always Watching
-2 Selfless Spirit
+2 Benalish Marshal
 2 Sorin, Vengeful Bloodlord
+2 Selfless Spirit
 2 Stasis Snare
 2 Always Watching
 2 Caves of Koilos
@@ -150,20 +160,42 @@
 3 Caves of Koilos
 4 Isolated Chapel
 2 Seal Away
+1 Blast Zone
+1 Satyr Wayfinder
+2 Satyr Wayfinder
+3 Satyr Wayfinder
+4 Satyr Wayfinder
+1 Nissa, Vastwood Seer
+1 Hissing Quagmire
+1 Ramunap Excavator
+1 Tasigur, the Golden Fang
+1 Polukranos, Unchained
+1 Ishkanah, Grafwidow
+1 Thrashing Brontodon
+1 Scrapheap Scrounger
+1 Traverse the Ulvenwald
+2 Liliana, the Last Hope
+2 Hissing Quagmire
+2 Field of Ruin
+2 Assassin's Trophy
+2 Traverse the Ulvenwald
+3 Field of Ruin
+3 Traverse the Ulvenwald
+4 Traverse the Ulvenwald
 1 Duskwatch Recruiter
 1 Splendor Mare
 1 Zirda, the Dawnwaker
 1 Gilded Goose
 2 Gilded Goose
 2 Splendor Mare
-2 Zirda, the Dawnwaker
 2 Duskwatch Recruiter
+2 Zirda, the Dawnwaker
 3 Splendor Mare
-3 Gilded Goose
 3 Duskwatch Recruiter
+3 Gilded Goose
 3 Scavenging Ooze
-4 Gilded Goose
 4 Duskwatch Recruiter
+4 Gilded Goose
 1 Starfield Mystic
 1 Cast Out
 3 Gideon's Intervention
@@ -180,69 +212,95 @@
 3 Militia Bugler
 3 Radiant Fountain
 4 Militia Bugler
+1 Kalitas, Traitor of Ghet
+2 Kalitas, Traitor of Ghet
+1 Stonecoil Serpent
+1 Steel Overseer
+2 Stonecoil Serpent
+2 Steel Overseer
+3 Steel Overseer
+2 Mutavault
+1 Mana Confluence
+2 Mana Confluence
+1 Bomat Courier
+1 Gingerbrute
+1 Spire of Industry
+1 Shrapnel Blast
+1 Ensoul Artifact
+1 Springleaf Drum
+1 Ornithopter
+1 Hope of Ghirapur
+1 Ghostfire Blade
+1 Metallic Rebuke
+1 Aether Hub
+1 Darksteel Citadel
+1 All That Glitters
+2 Bomat Courier
+2 Gingerbrute
+2 Spire of Industry
+2 Shrapnel Blast
+2 Ghostfire Blade
+2 Ensoul Artifact
+2 Ornithopter
+2 Springleaf Drum
+2 Darksteel Citadel
+2 Hope of Ghirapur
+2 All That Glitters
+2 Aether Hub
+2 Metallic Rebuke
+3 Stonecoil Serpent
+3 Aether Hub
+3 Mana Confluence
+3 Bomat Courier
+3 Gingerbrute
+3 Shrapnel Blast
+3 Ghostfire Blade
+3 Ensoul Artifact
+3 Spire of Industry
+3 Darksteel Citadel
+3 Springleaf Drum
+3 Ornithopter
+3 All That Glitters
+4 Stonecoil Serpent
+4 Aether Hub
+4 Bomat Courier
+4 Gingerbrute
+4 Spire of Industry
+4 Ensoul Artifact
+4 Mana Confluence
+4 Shrapnel Blast
+4 Ghostfire Blade
+4 Ornithopter
+4 Darksteel Citadel
+4 Springleaf Drum
+1 Bonecrusher Giant
+1 Stomping Ground
+2 Bonecrusher Giant
+2 Stomping Ground
+3 Bonecrusher Giant
 1 Sacred Foundry
 2 Sacred Foundry
 3 Sacred Foundry
-1 Inspiring Vantage
-2 Inspiring Vantage
-3 Inspiring Vantage
-1 Bomat Courier
-2 Bomat Courier
-3 Bomat Courier
-4 Bomat Courier
-1 Shefet Dunes
-1 Legion's Landing
-1 Battlefield Forge
-1 Clifftop Retreat
-1 Reckless Bushwhacker
-1 Lightning Strike
-1 Toolcraft Exemplar
-1 Servo Exhibition
-1 Secure the Wastes
-1 Raise the Alarm
-2 Shefet Dunes
-2 Legion's Landing
-2 Battlefield Forge
-2 Reckless Bushwhacker
-2 Lightning Strike
-2 Toolcraft Exemplar
-2 Gideon, Ally of Zendikar
-2 Raise the Alarm
-2 Servo Exhibition
-3 Battlefield Forge
-3 Reckless Bushwhacker
-3 Legion's Landing
-3 Benalish Marshal
-3 Lightning Strike
-3 Toolcraft Exemplar
-3 Gideon, Ally of Zendikar
-3 Servo Exhibition
-3 Raise the Alarm
-4 Battlefield Forge
-4 Inspiring Vantage
-4 Reckless Bushwhacker
-4 Legion's Landing
-4 Benalish Marshal
-4 Toolcraft Exemplar
-4 Raise the Alarm
 4 Sacred Foundry
+1 Faerie Vandal
 1 Spirebluff Canal
 1 Slip Through Space
 1 The Royal Scions
 1 Steam Vents
-1 Faerie Vandal
 1 Gods Willing
 1 Defiant Strike
 1 Favored Hoplite
 1 Staggering Insight
 1 Curious Obsession
 1 Reckless Rage
+1 Inspiring Vantage
 1 Tenth District Legionnaire
 1 Monastery Swiftspear
 1 Sentinel's Eyes
+2 Inspiring Vantage
 2 The Royal Scions
-2 Steam Vents
 2 Faerie Vandal
+2 Steam Vents
 2 Defiant Strike
 2 Favored Hoplite
 2 Gods Willing
@@ -251,15 +309,16 @@
 2 Tenth District Legionnaire
 2 Monastery Swiftspear
 2 Reckless Rage
+3 Inspiring Vantage
 3 Steam Vents
 3 The Royal Scions
-3 Faerie Vandal
 3 Defiant Strike
 3 Favored Hoplite
 3 Gods Willing
 3 Staggering Insight
 3 Curious Obsession
 3 Reckless Rage
+3 Faerie Vandal
 3 Monastery Swiftspear
 3 Tenth District Legionnaire
 4 Favored Hoplite
@@ -271,16 +330,10 @@
 4 Reckless Rage
 4 Tenth District Legionnaire
 4 Monastery Swiftspear
-3 Swamp
-1 Blast Zone
-1 Satyr Wayfinder
-2 Satyr Wayfinder
-3 Satyr Wayfinder
-4 Satyr Wayfinder
+1 Kiora Bests the Sea God
 1 Cavalier of Thorns
 1 Castle Garenbrig
 1 Hinterland Harbor
-1 Kiora Bests the Sea God
 1 Tamiyo, Collector of Tales
 1 World Breaker
 1 Arboreal Grazer
@@ -323,18 +376,6 @@
 4 Uro, Titan of Nature's Wrath
 4 Nissa's Pilgrimage
 4 Arboreal Grazer
-1 Castle Locthwain
-2 Castle Locthwain
-4 Concealed Courtyard
-1 Kalitas, Traitor of Ghet
-2 Kalitas, Traitor of Ghet
-1 Bonecrusher Giant
-1 Stomping Ground
-2 Bonecrusher Giant
-2 Stomping Ground
-3 Bonecrusher Giant
-1 Mana Confluence
-2 Mana Confluence
 1 Boros Charm
 1 Ghor-Clan Rampager
 1 Pelt Collector
@@ -370,31 +411,12 @@
 4 Gruul Spellbreaker
 4 Bronzehide Lion
 4 Stomping Ground
-1 Nissa, Vastwood Seer
-1 Ramunap Excavator
-1 Hissing Quagmire
-1 Tasigur, the Golden Fang
-1 Polukranos, Unchained
-1 Ishkanah, Grafwidow
-1 Thrashing Brontodon
-1 Scrapheap Scrounger
-1 Traverse the Ulvenwald
-2 Liliana, the Last Hope
-2 Hissing Quagmire
-2 Field of Ruin
-2 Assassin's Trophy
-2 Traverse the Ulvenwald
-3 Field of Ruin
-3 Traverse the Ulvenwald
-3 Blooming Marsh
-4 Traverse the Ulvenwald
-4 Blooming Marsh
 1 Bolas's Citadel
 1 Temple of Silence
 1 Shambling Vent
 1 Seraph of the Scales
-1 Lyra Dawnbringer
 1 Liliana, Dreadhorde General
+1 Lyra Dawnbringer
 1 Bishop of Wings
 1 Gisela, the Broken Blade
 1 Resplendent Angel
@@ -414,60 +436,6 @@
 4 Temple of Silence
 4 Resplendent Angel
 4 Bishop of Wings
-1 Mutavault
-2 Mutavault
-1 Stonecoil Serpent
-1 Steel Overseer
-1 Springleaf Drum
-1 Aether Hub
-1 Metallic Rebuke
-1 Hope of Ghirapur
-1 Spire of Industry
-1 Ensoul Artifact
-1 Darksteel Citadel
-1 Gingerbrute
-1 Ghostfire Blade
-1 Shrapnel Blast
-1 All That Glitters
-1 Ornithopter
-2 Stonecoil Serpent
-2 Steel Overseer
-2 Springleaf Drum
-2 Aether Hub
-2 Metallic Rebuke
-2 Hope of Ghirapur
-2 All That Glitters
-2 Spire of Industry
-2 Ornithopter
-2 Darksteel Citadel
-2 Gingerbrute
-2 Ensoul Artifact
-2 Ghostfire Blade
-2 Shrapnel Blast
-3 Stonecoil Serpent
-3 Steel Overseer
-3 Springleaf Drum
-3 Mana Confluence
-3 Aether Hub
-3 Spire of Industry
-3 Darksteel Citadel
-3 Ornithopter
-3 Gingerbrute
-3 Ensoul Artifact
-3 Ghostfire Blade
-3 Shrapnel Blast
-3 All That Glitters
-4 Spire of Industry
-4 Stonecoil Serpent
-4 Aether Hub
-4 Mana Confluence
-4 Ornithopter
-4 Darksteel Citadel
-4 Springleaf Drum
-4 Gingerbrute
-4 Ghostfire Blade
-4 Shrapnel Blast
-4 Ensoul Artifact
 1 Dreadhorde Butcher
 1 Dreadbore
 1 Kroxa, Titan of Death's Hunger
@@ -487,20 +455,34 @@
 3 Blood Crypt
 3 Foreboding Ruins
 3 Tireless Tracker
-3 Overgrown Tomb
 4 Dreadhorde Butcher
 4 Blood Crypt
 4 Tireless Tracker
 4 Foreboding Ruins
-4 Overgrown Tomb
 4 Bonecrusher Giant
+1 Metallic Mimic
+1 The Ozolith
+1 Evolutionary Leap
+1 Winding Constrictor
+1 Llanowar Wastes
+2 The Ozolith
+2 Metallic Mimic
+2 Evolutionary Leap
+2 Winding Constrictor
+2 Llanowar Wastes
+3 Winding Constrictor
+3 Metallic Mimic
+3 Llanowar Wastes
+4 Winding Constrictor
+4 Metallic Mimic
+4 Llanowar Wastes
+4 Steel Overseer
 1 Champion of Dusk
 1 Sorin, Imperious Bloodlord
 1 Dusk Legion Zealot
 1 Blood Baron of Vizkopa
 1 Kaya, Orzhov Usurper
 1 Gifted Aetherborn
-1 Urborg, Tomb of Yawgmoth
 1 Oathsworn Vampire
 1 Knight of the Ebon Legion
 2 Sorin, Imperious Bloodlord
@@ -541,8 +523,8 @@
 11 Plains
 12 Plains
 13 Plains
-14 Plains
 15 Plains
+16 Plains
 17 Plains
 18 Plains
-16 Plains
+14 Plains

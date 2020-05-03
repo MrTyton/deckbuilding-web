@@ -44,9 +44,9 @@
 |                    4|[Fabled Passage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473206)              |                     |              |
 |                    4|[Temple Garden](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405112)               |                     |              |
 |                    4|[Opt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442948)                         |                     |              |
+|                    4|[Satyr Wayfinder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=378508)             |                     |              |
 |                    4|[Uro, Titan of Nature's Wrath](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476480)|                     |              |
 |                    4|[Breeding Pool](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=97088)                |                     |              |
-|                    4|[Satyr Wayfinder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=378508)             |                     |              |
 |                    4|[Baffling End](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439658)                |                     |              |
 |                    4|[Thraben Inspector](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409784)           |                     |              |
 |                    4|[Hallowed Fountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=97071)            |                     |              |
