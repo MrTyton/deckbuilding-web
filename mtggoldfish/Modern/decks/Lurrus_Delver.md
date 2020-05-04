@@ -114,8 +114,8 @@
 |                    2|[Dreadhorde Arcanist](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461052)   |                     |                                                                                                |
 |                    2|[Vapor Snag](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=249373)            |                     |                                                                                                |
 |                    2|[Disrupting Shoal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=74128)       |                     |                                                                                                |
-|                    3|[Disrupting Shoal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=74128)       |                     |                                                                                                |
 |                    3|[Dreadhorde Arcanist](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461052)   |                     |                                                                                                |
+|                    3|[Disrupting Shoal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=74128)       |                     |                                                                                                |
 |                    3|[Steam Vents](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405109)           |                     |                                                                                                |
 |                    4|[Dreadhorde Arcanist](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461052)   |                     |                                                                                                |
 

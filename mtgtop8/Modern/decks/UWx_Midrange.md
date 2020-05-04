@@ -32,8 +32,8 @@
 
 |*n*<sup>th</sup> copy|                                        Maindeck Card                                         |*n*<sup>th</sup> copy|                                         Sideboard Card                                         |
 |--------------------:|----------------------------------------------------------------------------------------------|--------------------:|------------------------------------------------------------------------------------------------|
-|                    2|[Mana Leak](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45242)           |                    1|[Disdainful Stroke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420705)    |
-|                    4|[Field of Ruin](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435415)      |                    1|[Kor Firewalker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442010)       |
+|                    2|[Mana Leak](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45242)           |                    1|[Kor Firewalker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442010)       |
+|                    4|[Field of Ruin](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435415)      |                    1|[Disdainful Stroke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420705)    |
 |                    1|[Serum Visions](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=50145)       |                    1|[Ashiok, Dream Render](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461155) |
 |                    2|[Serum Visions](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=50145)       |                    2|[Ashiok, Dream Render](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461155) |
 |                    2|[Polluted Delta](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405104)     |                    2|[Kor Firewalker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442010)       |

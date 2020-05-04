@@ -1,20 +1,29 @@
-1 Castle Locthwain
-4 Cruel Celebrant
-4 Sacred Foundry
-1 Hunted Witness
-2 Savai Triome
-2 Hunted Witness
-4 Priest of Forgotten Gods
-1 Woe Strider
-1 Castle Ardenvale
-1 Mayhem Devil
-2 Mayhem Devil
-2 Woe Strider
-3 Fabled Passage
-3 Mayhem Devil
-4 Fabled Passage
+1 Corpse Knight
+1 Claim the Firstborn
+1 Rix Maadi Reveler
+1 Robber of the Rich
+1 Fight as One
+1 Mire's Grasp
+2 Corpse Knight
+2 Rix Maadi Reveler
+2 Claim the Firstborn
+2 Fight as One
+3 Claim the Firstborn
+3 Corpse Knight
 1 Midnight Reaper
 2 Midnight Reaper
+1 Luminous Broodmoth
+2 Luminous Broodmoth
+3 Luminous Broodmoth
+3 Midnight Reaper
+3 Hunted Witness
+3 Woe Strider
+4 Mayhem Devil
+1 Fiend Artisan
+2 Fiend Artisan
+2 Savai Triome
+4 Priest of Forgotten Gods
+1 Castle Ardenvale
 1 Dire Tactics
 2 Dire Tactics
 3 Dire Tactics
@@ -38,10 +47,8 @@
 3 Blood Aspirant
 3 Chandra, Acolyte of Flame
 1 Temple of Malice
-1 Fiend Artisan
 1 Temple of Silence
 1 Gutterbones
-2 Fiend Artisan
 2 Gutterbones
 2 Castle Locthwain
 3 Castle Locthwain
@@ -49,6 +56,8 @@
 3 Gutterbones
 4 Castle Locthwain
 4 Gutterbones
+3 Fiend Artisan
+4 Woe Strider
 3 Plains
 1 Fervent Champion
 1 Blacklance Paragon
@@ -68,8 +77,8 @@
 2 Worthy Knight
 2 Blacklance Paragon
 2 Murderous Rider
-2 Acclaimed Contender
 2 Knight of the Ebon Legion
+2 Acclaimed Contender
 3 Knight of the Ebon Legion
 3 Fervent Champion
 3 Tournament Grounds
@@ -85,6 +94,10 @@
 4 Tournament Grounds
 4 Stormfist Crusader
 4 Acclaimed Contender
+1 Bastion of Remembrance
+2 Bastion of Remembrance
+4 Luminous Broodmoth
+4 Hunted Witness
 1 Memory Leak
 1 Unknown Card
 1 Go for Blood
@@ -102,13 +115,13 @@
 2 Go for Blood
 2 Boon of the Wish-Giver
 2 Unknown Card
-2 Frostveil Ambush
 2 Footfall Crater
 2 Startling Development
 2 Valiant Rescuer
 2 Flourishing Fox
 2 Drannith Healer
 2 Zenith Flare
+2 Frostveil Ambush
 3 Boon of the Wish-Giver
 3 Memory Leak
 3 Unknown Card
@@ -131,14 +144,3 @@
 4 Frostveil Ambush
 4 Go for Blood
 4 Unknown Card
-1 Luminous Broodmoth
-1 Bastion of Remembrance
-2 Luminous Broodmoth
-2 Bastion of Remembrance
-3 Luminous Broodmoth
-3 Midnight Reaper
-3 Hunted Witness
-3 Woe Strider
-4 Luminous Broodmoth
-4 Hunted Witness
-4 Mayhem Devil
