@@ -1,7 +1,7 @@
 2 Gideon of the Trials
+3 Damping Sphere
 1 Knight of Autumn
 2 Knight of Autumn
-3 Damping Sphere
 3 Gideon of the Trials
 1 Unravel the Aether
 2 Unravel the Aether
@@ -20,12 +20,12 @@
 3 Thoughtseize
 1 Deafening Silence
 2 Deafening Silence
+3 Deafening Silence
 1 Sphere of Safety
 1 Cast Out
 1 Starfield of Nyx
 1 Nyx-Fleece Ram
 2 Nyx-Fleece Ram
-3 Deafening Silence
 1 Glare of Heresy
 2 Glare of Heresy
 1 Infinite Obliteration
@@ -43,13 +43,13 @@
 2 Leyline of the Void
 1 Kalitas, Traitor of Ghet
 1 Ashiok, Dream Render
+1 Phyrexian Revoker
 1 Shifting Ceratops
 1 Blightbeetle
 1 Despise
 1 Davriel, Rogue Shadowmage
 1 Massacre Girl
 1 Golgari Charm
-1 Phyrexian Revoker
 1 Plaguecrafter
 2 Ashiok, Dream Render
 2 Davriel, Rogue Shadowmage
@@ -61,8 +61,8 @@
 2 Gideon's Intervention
 3 Gideon's Intervention
 1 Cataclysmic Gearhulk
-1 Skysovereign, Consul Flagship
 1 The Immortal Sun
+1 Skysovereign, Consul Flagship
 1 Pithing Needle
 1 Tormod's Crypt
 1 Walking Ballista
@@ -72,42 +72,31 @@
 2 Scavenging Ooze
 1 Courser of Kruphix
 1 Questing Beast
-1 Agonizing Remorse
 1 Lost Legacy
+1 Agonizing Remorse
 1 Slaughter Games
 2 Courser of Kruphix
 2 Agonizing Remorse
 2 Slaughter Games
 3 Leyline of the Void
-1 Dromoka's Command
-1 Chandra, Torch of Defiance
-1 Declaration in Stone
-1 Gideon Blackblade
-1 Rekindling Phoenix
-2 Dromoka's Command
-2 Declaration in Stone
-2 Rekindling Phoenix
-2 Chandra, Torch of Defiance
-3 Dromoka's Command
-3 Declaration in Stone
 1 Abrupt Decay
 1 Lurrus of the Dream Den
 1 Heartless Act
 1 Barrier Breach
-2 Abrupt Decay
 2 Duress
 2 Heartless Act
+2 Abrupt Decay
 2 Barrier Breach
 3 Barrier Breach
+1 Apostle of Purifying Light
+2 Apostle of Purifying Light
 1 Irencrag Pyromancer
 1 Wear / Tear
 1 Fry
-1 Apostle of Purifying Light
 1 Cerulean Drake
 1 Improbable Alliance
 2 Wear / Tear
 2 Fry
-2 Apostle of Purifying Light
 3 Wear / Tear
 1 Zirda, the Dawnwaker
 3 Baffling End
@@ -129,11 +118,21 @@
 2 Fatal Push
 2 Stubborn Denial
 3 Fatal Push
-4 Fatal Push
 4 Thoughtseize
+4 Fatal Push
+1 Chandra, Awakened Inferno
+1 Yorion, Sky Nomad
+1 Drannith Magistrate
+1 Lena, Selfless Champion
+2 Chandra, Awakened Inferno
+2 Lena, Selfless Champion
+2 Drannith Magistrate
+3 Drannith Magistrate
+3 Apostle of Purifying Light
+4 Apostle of Purifying Light
 1 Ashiok's Erasure
-1 Aether Gust
 1 Display of Dominance
+1 Aether Gust
 1 Skylasher
 2 Aether Gust
 2 Skylasher

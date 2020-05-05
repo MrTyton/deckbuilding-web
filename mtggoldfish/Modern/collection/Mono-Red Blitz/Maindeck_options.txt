@@ -11,7 +11,6 @@
 2 Bedlam Reveler
 1 Burst Lightning
 2 Burst Lightning
-3 Kiln Fiend
 3 Bedlam Reveler
 5 Mountain
 6 Mountain
@@ -22,23 +21,24 @@
 11 Mountain
 12 Mountain
 13 Mountain
+14 Mountain
+3 Kiln Fiend
 3 Fiery Islet
 3 Scalding Tarn
 3 Bloodstained Mire
 4 Bloodstained Mire
 3 Sacred Foundry
-14 Mountain
+4 Fiery Islet
+3 Burst Lightning
 1 Wooded Foothills
 1 Blistercoil Weird
 2 Blistercoil Weird
 4 Snow-Covered Mountain
-3 Burst Lightning
-4 Fiery Islet
 4 Scalding Tarn
 1 Blackcleave Cliffs
 1 Blood Crypt
-2 Blood Crypt
 2 Blackcleave Cliffs
+2 Blood Crypt
 3 Blackcleave Cliffs
 4 Blackcleave Cliffs
 1 Abbot of Keral Keep
@@ -47,8 +47,8 @@
 4 Abbot of Keral Keep
 1 Wild Slash
 2 Wild Slash
-1 Mutagenic Growth
-4 Bedlam Reveler
+1 Runaway Steam-Kin
+2 Runaway Steam-Kin
 2 Wooded Foothills
 1 Tarmogoyf
 1 Stomping Ground
@@ -57,35 +57,35 @@
 3 Tarmogoyf
 3 Stomping Ground
 4 Tarmogoyf
-2 Mutagenic Growth
 1 Unearth
 2 Unearth
+1 Mutagenic Growth
+2 Mutagenic Growth
 3 Wild Slash
 4 Burst Lightning
-1 Runaway Steam-Kin
-2 Runaway Steam-Kin
+4 Bedlam Reveler
 1 Searing Blaze
 1 Tarfire
 2 Tarfire
 1 Warlord's Fury
 2 Warlord's Fury
-1 Risk Factor
 1 Bonecrusher Giant
+1 Risk Factor
 3 Runaway Steam-Kin
-3 Wooded Foothills
-4 Wooded Foothills
 1 Sprite Dragon
 1 Steam Vents
-2 Sprite Dragon
 2 Steam Vents
-3 Sprite Dragon
+2 Sprite Dragon
 3 Steam Vents
+3 Sprite Dragon
 4 Sprite Dragon
-3 Blood Crypt
-4 Kiln Fiend
-1 Kor Firewalker
+3 Wooded Foothills
+4 Wooded Foothills
 1 Goblin Guide
-2 Kor Firewalker
+1 Kor Firewalker
 2 Goblin Guide
+2 Kor Firewalker
 3 Goblin Guide
 4 Goblin Guide
+3 Blood Crypt
+4 Kiln Fiend

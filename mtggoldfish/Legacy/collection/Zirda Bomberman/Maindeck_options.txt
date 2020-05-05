@@ -17,11 +17,6 @@
 3 Chromatic Star
 4 Chromatic Star
 1 Snow-Covered Plains
-1 Tundra
-1 Seat of the Synod
-2 Tundra
-2 Seat of the Synod
-3 Seat of the Synod
 1 Mishra's Bauble
 2 Mishra's Bauble
 5 Plains
@@ -31,11 +26,6 @@
 2 Snow-Covered Plains
 3 Snow-Covered Plains
 4 Snow-Covered Plains
-1 Urza, Lord High Artificer
-2 Urza, Lord High Artificer
-3 Urza, Lord High Artificer
-4 Seat of the Synod
-3 Tundra
 1 Mountain
 1 Great Furnace
 2 Great Furnace
@@ -43,8 +33,18 @@
 3 Great Furnace
 3 Mountain
 4 Great Furnace
+1 Tundra
+1 Seat of the Synod
+2 Tundra
+2 Seat of the Synod
+3 Tundra
+3 Seat of the Synod
+1 Urza, Lord High Artificer
 1 Mox Diamond
+2 Urza, Lord High Artificer
 2 Mox Diamond
+3 Urza, Lord High Artificer
+4 Seat of the Synod
 2 Chromatic Sphere
 1 Simian Spirit Guide
 2 Simian Spirit Guide
@@ -67,9 +67,6 @@
 1 Stoneforge Mystic
 2 Stoneforge Mystic
 3 Stoneforge Mystic
-1 Emry, Lurker of the Loch
-2 Emry, Lurker of the Loch
-3 Emry, Lurker of the Loch
 1 Teferi, Hero of Dominaria
 1 Azorius Signet
 1 Teferi, Time Raveler

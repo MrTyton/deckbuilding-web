@@ -12,19 +12,19 @@
 1 Talisman of Dominance
 1 Tolaria West
 1 Remand
+1 Mindslaver
+1 Condescend
 1 Repeal
 1 Cyclonic Rift
 1 Thirst for Knowledge
 1 Myr Battlesphere
-1 Mindslaver
-1 Condescend
 1 Academy Ruins
 2 Remand
-2 Island
+2 Repeal
 2 Condescend
+2 Island
 2 Thirst for Knowledge
 2 Walking Ballista
-2 Repeal
 3 Island
 3 Condescend
 3 Remand
@@ -47,13 +47,13 @@
 1 Paradox Engine
 1 Surge Node
 2 Everflowing Chalice
-2 Blast Zone
 2 Chalice of the Void
 2 Mystic Forge
 2 Surge Node
 2 Paradox Engine
 2 Ugin, the Ineffable
 2 Astral Cornucopia
+2 Blast Zone
 2 Coretapper
 3 Chalice of the Void
 3 Mystic Forge
@@ -70,19 +70,19 @@
 1 Karn, Scion of Urza
 2 Karn, Scion of Urza
 4 Remand
-1 River of Tears
 1 Tectonic Edge
+1 River of Tears
 1 Omen of the Sea
 2 Talisman of Dominance
 6 Island
 1 Nurturing Peatland
 1 Once Upon a Time
-1 Spell Burst
-2 River of Tears
 1 Ensnaring Bridge
 2 Inventors' Fair
-1 Trinket Mage
+1 Spell Burst
+2 River of Tears
 1 Batterskull
+1 Trinket Mage
 1 Snapcaster Mage
 3 Repeal
 1 Buried Ruin
@@ -90,6 +90,6 @@
 2 Simian Spirit Guide
 3 Simian Spirit Guide
 4 Mystic Forge
-1 Gemstone Caverns
 1 Trinisphere
+1 Gemstone Caverns
 7 Island

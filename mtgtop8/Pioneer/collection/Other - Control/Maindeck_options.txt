@@ -8,14 +8,14 @@
 3 Elspeth Conquers Death
 3 Omen of the Sea
 3 Teferi, Hero of Dominaria
-3 Growth Spiral
 3 Baffling End
+3 Growth Spiral
 3 Temple Garden
+4 Temple Garden
 4 Teferi, Time Raveler
 4 Omen of the Sea
-4 Growth Spiral
 4 Baffling End
-4 Temple Garden
+4 Growth Spiral
 3 Satyr Wayfinder
 4 Satyr Wayfinder
 1 Swamp
@@ -61,8 +61,8 @@
 3 Doom Foretold
 3 Trial of Ambition
 3 Treacherous Blessing
-4 Plains
 4 The Birth of Meletis
+4 Plains
 4 Godless Shrine
 4 Demonic Pact
 4 Doom Foretold
@@ -95,17 +95,15 @@
 4 Caves of Koilos
 6 Plains
 1 Mountain
-1 Kroxa, Titan of Death's Hunger
 1 Blood Crypt
+1 Kroxa, Titan of Death's Hunger
 1 Dreadbore
 2 Blood Crypt
 2 Kroxa, Titan of Death's Hunger
 2 Mountain
-3 Kroxa, Titan of Death's Hunger
 3 Blood Crypt
+3 Kroxa, Titan of Death's Hunger
 4 Blood Crypt
-1 Bonecrusher Giant
-2 Bonecrusher Giant
 1 Dragonskull Summit
 2 Dreadbore
 2 Dragonskull Summit
@@ -114,6 +112,8 @@
 4 Kroxa, Titan of Death's Hunger
 1 Watery Grave
 1 Liliana, the Last Hope
+1 Bonecrusher Giant
+2 Bonecrusher Giant
 1 Discovery / Dispersal
 2 Discovery / Dispersal
 3 Discovery / Dispersal
@@ -121,8 +121,8 @@
 4 Discovery / Dispersal
 4 Dreadbore
 4 Bonecrusher Giant
-1 Chandra, Torch of Defiance
 1 Canyon Slough
+1 Chandra, Torch of Defiance
 2 Chandra, Torch of Defiance
 2 Canyon Slough
 3 Mountain
@@ -144,6 +144,7 @@
 2 Overgrown Tomb
 3 Blooming Marsh
 4 Blooming Marsh
+1 Irrigated Farmland
 1 Drowned Catacomb
 2 Drowned Catacomb
 2 Watery Grave
@@ -154,13 +155,12 @@
 2 Agonizing Remorse
 2 Final Payment
 4 Treacherous Blessing
-1 Irrigated Farmland
 1 Emrakul, the Promised End
 1 Thirst for Meaning
 1 Thought Erasure
 1 Cast Down
-1 Elspeth, Sun's Nemesis
 1 Elspeth, Sun's Champion
+1 Elspeth, Sun's Nemesis
 1 Hero's Downfall
 1 Search for Azcanta
 1 Concealed Courtyard
@@ -172,8 +172,8 @@
 3 Glacial Fortress
 3 Concealed Courtyard
 3 Cast Down
-1 Kolaghan's Command
 1 Foreboding Ruins
+1 Kolaghan's Command
 2 Foreboding Ruins
 2 Kolaghan's Command
 3 Kolaghan's Command
@@ -183,14 +183,14 @@
 3 Overgrown Tomb
 4 Overgrown Tomb
 1 Vraska, Golgari Queen
-1 Stomping Ground
-2 Stomping Ground
 1 Blast Zone
 2 Tireless Tracker
 3 Traverse the Ulvenwald
 1 Tamiyo, Collector of Tales
 1 Field of Ruin
 1 Champion of Wits
+1 Stomping Ground
+2 Stomping Ground
 1 Ipnu Rivulet
 2 Temple of Silence
 1 Mass Manipulation
@@ -200,26 +200,37 @@
 3 Starfield of Nyx
 4 Starfield of Nyx
 6 Swamp
-7 Plains
 7 Swamp
+7 Plains
 4 Forest
-1 Chart a Course
 2 Nissa, Who Shakes the World
-1 Spirebluff Canal
-2 Spirebluff Canal
-1 Steam Vents
-1 Botanical Sanctum
-2 Botanical Sanctum
-2 Steam Vents
-3 Steam Vents
-3 Stomping Ground
-4 Stomping Ground
+1 Censor
+1 Castle Vantress
+1 Azorius Charm
+2 Azorius Charm
+3 Azorius Charm
 1 Drown in the Loch
+1 Chart a Course
 1 Yahenni's Expertise
 2 Elspeth, Sun's Nemesis
 2 Thirst for Meaning
 2 Thought Erasure
 2 Hero's Downfall
+1 Sphinx's Revelation
+1 Seal Away
+1 Negate
+1 Approach of the Second Sun
+1 Syncopate
+1 Dig Through Time
+1 Sinister Sabotage
+2 Negate
+2 Sinister Sabotage
+2 Dig Through Time
+3 Sinister Sabotage
+3 Sunpetal Grove
+1 Goblin Dark-Dwellers
+2 Goblin Dark-Dwellers
+3 Foreboding Ruins
 1 History of Benalia
 1 The Eldest Reborn
 2 History of Benalia
@@ -232,45 +243,27 @@
 1 Distended Mindbender
 2 Deathrite Shaman
 3 Deathrite Shaman
+1 Opulent Palace
 1 Ashiok, Nightmare Muse
 1 Hostage Taker
-1 Opulent Palace
 1 Jace, Vryn's Prodigy
 2 Jace, Vryn's Prodigy
 3 Jace, Vryn's Prodigy
-1 Sphinx's Revelation
-1 Seal Away
-1 Censor
-1 Negate
-1 Approach of the Second Sun
-1 Castle Vantress
-1 Syncopate
-1 Dig Through Time
-1 Sinister Sabotage
-1 Azorius Charm
-2 Negate
-2 Azorius Charm
-2 Sinister Sabotage
-2 Dig Through Time
-3 Sinister Sabotage
-3 Sunpetal Grove
-3 Azorius Charm
-1 Goblin Dark-Dwellers
-2 Goblin Dark-Dwellers
-3 Foreboding Ruins
 1 Quicken
+1 Spirebluff Canal
 1 Nicol Bolas, the Ravager
 2 Quicken
+2 Spirebluff Canal
 2 Nicol Bolas, the Ravager
 3 Nicol Bolas, the Ravager
 3 Quicken
 4 Nicol Bolas, the Ravager
 1 Languish
+1 Bedevil
 1 Chandra, Flamecaller
 1 Arguel's Blood Fast
 1 Read the Bones
 1 Doom Blade
-1 Bedevil
 1 Ob Nixilis Reignited
 2 Bedevil
 2 Chandra, Flamecaller
@@ -278,71 +271,85 @@
 2 Read the Bones
 3 Read the Bones
 4 Read the Bones
-1 Risen Reef
-1 Essence Scatter
-1 Treasure Cruise
-1 Chandra, Acolyte of Flame
-1 Spell Pierce
-1 Mizzium Mortars
-1 Castle Embereth
-1 Fiery Impulse
-1 Dive Down
-1 Wild Slash
-1 Young Pyromancer
-1 Living Twister
-2 Risen Reef
-2 Essence Scatter
-2 Treasure Cruise
-2 Chart a Course
-2 Chandra, Acolyte of Flame
-2 Wild Slash
-2 Dive Down
-2 Young Pyromancer
-2 Fiery Impulse
-2 Mizzium Mortars
-3 Risen Reef
-3 Botanical Sanctum
-3 Chart a Course
-3 Chandra, Acolyte of Flame
-3 Spirebluff Canal
-3 Young Pyromancer
-3 Mizzium Mortars
-3 Wild Slash
-4 Risen Reef
-4 Steam Vents
-4 Young Pyromancer
-4 Chart a Course
-4 Spirebluff Canal
-4 Wild Slash
 1 Mire Triton
 2 Glorybringer
 2 Mire Triton
-3 Glorybringer
 3 Chandra, Torch of Defiance
+3 Glorybringer
 4 Canyon Slough
 1 Ugin, the Spirit Dragon
 1 Kozilek's Return
 1 Arboreal Grazer
 1 Castle Garenbrig
 1 Llanowar Elves
+1 Steam Vents
 1 Elder Deep-Fiend
 1 Cavalier of Thorns
+1 Botanical Sanctum
+2 Botanical Sanctum
 2 Kozilek's Return
 2 Cavalier of Thorns
 2 Champion of Wits
 2 Castle Garenbrig
+2 Steam Vents
 2 Arboreal Grazer
 2 Ugin, the Spirit Dragon
 2 Elder Deep-Fiend
 2 Ipnu Rivulet
+3 Steam Vents
+3 Stomping Ground
 3 Nissa, Who Shakes the World
 3 Elder Deep-Fiend
 3 Kozilek's Return
 3 Champion of Wits
 3 Arboreal Grazer
+4 Stomping Ground
 4 Elder Deep-Fiend
 4 Kozilek's Return
 4 Arboreal Grazer
+1 Raugrin Triome
+1 Neutralize
+1 Clifftop Retreat
+1 Shark Typhoon
+1 Nimble Obstructionist
+1 Hieroglyphic Illumination
+1 Flourishing Fox
+1 Sulfur Falls
+1 Zenith Flare
+1 Cast Out
+2 Raugrin Triome
+2 Cast Out
+2 Neutralize
+2 Shark Typhoon
+2 Clifftop Retreat
+2 Censor
+2 Nimble Obstructionist
+2 Zenith Flare
+2 Irrigated Farmland
+2 Flourishing Fox
+2 Hieroglyphic Illumination
+2 Sulfur Falls
+3 Censor
+3 Irrigated Farmland
+3 Flourishing Fox
+3 Clifftop Retreat
+3 Neutralize
+3 Hieroglyphic Illumination
+3 Shark Typhoon
+3 Zenith Flare
+3 Island
+3 Sulfur Falls
+3 Cast Out
+4 Irrigated Farmland
+4 Censor
+4 Zenith Flare
+4 Shark Typhoon
+4 Flourishing Fox
+4 Neutralize
+4 Azorius Charm
+4 Hieroglyphic Illumination
+4 Cast Out
+4 Sulfur Falls
 1 Polukranos, Unchained
 1 Tasigur, the Golden Fang
 1 Hissing Quagmire
