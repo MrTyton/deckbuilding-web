@@ -39,8 +39,8 @@
 |[BUG Control](./mtgtop8/Modern/decks/BUG_Control.md)            |[Faeries](./mtgtop8/Modern/decks/Faeries.md)                |[Junk](./mtgtop8/Modern/decks/Junk.md)                            |[Slivers](./mtgtop8/Modern/decks/Slivers.md)                  |[Urza](./mtgtop8/Modern/decks/Urza.md)                |
 |[Balance](./mtgtop8/Modern/decks/Balance.md)                    |[Goblins](./mtgtop8/Modern/decks/Goblins.md)                |[Mardu Midrange](./mtgtop8/Modern/decks/Mardu_Midrange.md)        |[Spirit Aggro](./mtgtop8/Modern/decks/Spirit_Aggro.md)        |[Valakut](./mtgtop8/Modern/decks/Valakut.md)          |
 |[Bant Control](./mtgtop8/Modern/decks/Bant_Control.md)          |[Gruul Aggro](./mtgtop8/Modern/decks/Gruul_Aggro.md)        |[Merfolk](./mtgtop8/Modern/decks/Merfolk.md)                      |[Teaching Control](./mtgtop8/Modern/decks/Teaching_Control.md)|[Walks](./mtgtop8/Modern/decks/Walks.md)              |
-|[Breach](./mtgtop8/Modern/decks/Breach.md)                      |[Gruul Utopia](./mtgtop8/Modern/decks/Gruul_Utopia.md)      |[Mono Black Control](./mtgtop8/Modern/decks/Mono_Black_Control.md)|[The Rock](./mtgtop8/Modern/decks/The_Rock.md)                |[Weenie White](./mtgtop8/Modern/decks/Weenie_White.md)|
-|[CopyCat](./mtgtop8/Modern/decks/CopyCat.md)                    |[Hardened Scales](./mtgtop8/Modern/decks/Hardened_Scales.md)|[Nahiri Control](./mtgtop8/Modern/decks/Nahiri_Control.md)        |[UB Mill](./mtgtop8/Modern/decks/UB_Mill.md)                  |[Zoo](./mtgtop8/Modern/decks/Zoo.md)                  |
+|[Breach](./mtgtop8/Modern/decks/Breach.md)                      |[Gruul Utopia](./mtgtop8/Modern/decks/Gruul_Utopia.md)      |[Mono Black Control](./mtgtop8/Modern/decks/Mono_Black_Control.md)|[The Rock](./mtgtop8/Modern/decks/The_Rock.md)                |[Zoo](./mtgtop8/Modern/decks/Zoo.md)                  |
+|[CopyCat](./mtgtop8/Modern/decks/CopyCat.md)                    |[Hardened Scales](./mtgtop8/Modern/decks/Hardened_Scales.md)|[Nahiri Control](./mtgtop8/Modern/decks/Nahiri_Control.md)        |[UB Mill](./mtgtop8/Modern/decks/UB_Mill.md)                  |                                                      |
 |[Creatures Toolbox](./mtgtop8/Modern/decks/Creatures_Toolbox.md)|[Hatebear](./mtgtop8/Modern/decks/Hatebear.md)              |[Niv-Mizzet Reborn](./mtgtop8/Modern/decks/Niv-Mizzet_Reborn.md)  |[UR Aggro](./mtgtop8/Modern/decks/UR_Aggro.md)                |                                                      |
 |[Death's Shadow](./mtgtop8/Modern/decks/Death's_Shadow.md)      |[Humans](./mtgtop8/Modern/decks/Humans.md)                  |[Other - Aggro](./mtgtop8/Modern/decks/Other_-_Aggro.md)          |[UR Control](./mtgtop8/Modern/decks/UR_Control.md)            |                                                      |
 
@@ -62,4 +62,4 @@
 
 
 
-#### Last Updated at 07:08PM on May 04, 2020
+#### Last Updated at 12:41AM on May 05, 2020

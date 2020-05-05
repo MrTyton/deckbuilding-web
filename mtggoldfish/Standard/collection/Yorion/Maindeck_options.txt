@@ -1,107 +1,125 @@
-6 Island
 4 Elspeth Conquers Death
+6 Island
 2 Castle Ardenvale
 7 Island
 1 Cavalier of Dawn
-1 Brazen Borrower
-2 Brazen Borrower
 1 Mystical Dispute
 2 Mystical Dispute
 3 Mystical Dispute
+1 Brazen Borrower
+2 Brazen Borrower
 7 Plains
 8 Plains
 8 Island
 9 Plains
 1 The Birth of Meletis
 2 The Birth of Meletis
-3 Time Wipe
 1 Temple of Deceit
-1 Godless Shrine
+1 Watery Grave
 1 Swamp
 1 Oath of Kaya
-1 Watery Grave
-2 Godless Shrine
-2 Oath of Kaya
+1 Godless Shrine
 2 Watery Grave
+2 Oath of Kaya
+2 Godless Shrine
 3 Watery Grave
 3 Oath of Kaya
 3 Godless Shrine
 4 Watery Grave
-1 Atris, Oracle of Half-Truths
+3 Time Wipe
 1 Aether Gust
+1 Atris, Oracle of Half-Truths
 2 Aether Gust
 9 Island
 4 Godless Shrine
 3 Shatter the Sky
-1 Deputy of Detention
 3 Castle Vantress
-1 Essence Scatter
 1 Neutralize
+1 Essence Scatter
 2 Essence Scatter
 10 Island
 4 Oath of Kaya
+1 Blast Zone
+1 Deputy of Detention
 1 Yorion, Sky Nomad
 2 Neutralize
-1 Blast Zone
-2 Deputy of Detention
-1 Cavalier of Gales
 1 Omen of the Sun
 2 Omen of the Sun
-3 Castle Ardenvale
+4 Agent of Treachery
+1 Cavalier of Gales
 3 The Birth of Meletis
+3 Castle Ardenvale
 4 The Birth of Meletis
-3 Deputy of Detention
 3 Aether Gust
-1 Labyrinth of Skophos
 1 Absorb
 1 Dream Eater
+1 Tranquil Cove
 1 Elspeth, Sun's Nemesis
 1 Prison Realm
+1 Labyrinth of Skophos
 1 Midnight Clock
-1 Tranquil Cove
 2 Absorb
+2 Deputy of Detention
 2 Prison Realm
 2 Tranquil Cove
 2 Midnight Clock
 2 Cavalier of Gales
 3 Absorb
 3 Tranquil Cove
+3 Deputy of Detention
 4 Absorb
 4 Tranquil Cove
 1 Shark Typhoon
-4 Agent of Treachery
 10 Plains
 1 Glass Casket
 2 Atris, Oracle of Half-Truths
 1 Temple of Silence
 1 Thought Erasure
-2 Temple of Deceit
 2 Temple of Silence
+2 Temple of Deceit
 2 Thought Erasure
 3 Thought Erasure
-1 Alirios, Enraptured
-2 Alirios, Enraptured
+3 Omen of the Sun
+1 Raugrin Triome
+2 Raugrin Triome
+3 Raugrin Triome
+4 Raugrin Triome
+2 Blast Zone
 1 Kiora Bests the Sea God
 2 Shark Typhoon
-1 Narset, Parter of Veils
-2 Narset, Parter of Veils
-3 Temple of Silence
-3 Temple of Deceit
-4 Thought Erasure
-1 Dream Trawler
-1 Gyruda, Doom of Depths
-1 Raugrin Triome
 1 Spark Double
-2 Raugrin Triome
-2 Gyruda, Doom of Depths
+1 Gyruda, Doom of Depths
+1 Dream Trawler
 2 Spark Double
-3 Raugrin Triome
+2 Gyruda, Doom of Depths
 3 Spark Double
 3 Gyruda, Doom of Depths
-4 Shatter the Sky
-4 Raugrin Triome
 4 Gyruda, Doom of Depths
 4 Spark Double
+4 Shatter the Sky
+1 Kenrith, the Returned King
+1 Field of Ruin
+1 Winota, Joiner of Forces
+1 Sacred Foundry
+1 Bonecrusher Giant
+1 Steam Vents
+1 Chandra, Acolyte of Flame
+1 Mythos of Illuna
+1 Mountain
+2 Winota, Joiner of Forces
+2 Sacred Foundry
+2 Steam Vents
+2 Bonecrusher Giant
+2 Mythos of Illuna
+2 Chandra, Acolyte of Flame
+2 Mountain
+2 Kenrith, the Returned King
+3 Winota, Joiner of Forces
+3 Sacred Foundry
+3 Steam Vents
+3 Bonecrusher Giant
+3 Chandra, Acolyte of Flame
+4 Bonecrusher Giant
 2 Glass Casket
 3 Brazen Borrower
 4 Mystical Dispute
@@ -111,56 +129,17 @@
 1 Burglar Rat
 2 Swamp
 2 Burglar Rat
-3 Omen of the Sun
 3 Burglar Rat
 4 Burglar Rat
-1 Temple of Mystery
-1 Risen Reef
-1 Temple of Plenty
-1 Knight of Autumn
-1 Growth Spiral
-1 Temple Garden
-1 Uro, Titan of Nature's Wrath
-1 Breeding Pool
-1 Tamiyo, Collector of Tales
-1 Tolsimir, Friend to Wolves
-1 Forest
-2 Risen Reef
-2 Temple of Mystery
-2 Temple Garden
-2 Temple of Plenty
-2 Knight of Autumn
-2 Uro, Titan of Nature's Wrath
-2 Forest
-2 Growth Spiral
-2 Tolsimir, Friend to Wolves
-2 Tamiyo, Collector of Tales
-2 Breeding Pool
-3 Risen Reef
-3 Temple of Mystery
-3 Breeding Pool
-3 Forest
-3 Temple Garden
-3 Uro, Titan of Nature's Wrath
-3 Growth Spiral
-4 Temple Garden
-4 Risen Reef
-4 Temple of Mystery
-4 Breeding Pool
-4 Forest
-4 Growth Spiral
-4 Uro, Titan of Nature's Wrath
+1 Narset, Parter of Veils
+2 Narset, Parter of Veils
+3 Temple of Deceit
+3 Temple of Silence
+4 Thought Erasure
 1 Brought Back
 1 Tithe Taker
-2 Blast Zone
+1 Alirios, Enraptured
 2 Cavalier of Dawn
-2 Tithe Taker
 2 Brought Back
-1 Drannith Magistrate
-1 Luminous Broodmoth
-2 Luminous Broodmoth
-2 Drannith Magistrate
-3 Luminous Broodmoth
-3 Alirios, Enraptured
-4 Luminous Broodmoth
-4 Deputy of Detention
+2 Tithe Taker
+2 Alirios, Enraptured

@@ -17,8 +17,8 @@
 3 Growth Spiral
 4 Growth Spiral
 1 The Royal Scions
-1 Snow-Covered Swamp
 1 Kolaghan's Command
+1 Snow-Covered Swamp
 1 Jace, the Mind Sculptor
 2 Jace, the Mind Sculptor
 3 Breeding Pool
@@ -33,8 +33,8 @@
 1 Unearth
 2 Mishra's Bauble
 3 Mishra's Bauble
-4 Mishra's Bauble
 4 Fatal Push
+4 Mishra's Bauble
 4 Mystic Sanctuary
 1 Lightning Bolt
 2 Lightning Bolt
@@ -43,8 +43,8 @@
 2 Mana Leak
 1 Brazen Borrower
 1 Fiery Islet
-1 Blood Moon
 1 Tarmogoyf
+1 Blood Moon
 1 Wooded Foothills
 1 Stomping Ground
 2 Tarmogoyf
@@ -62,9 +62,9 @@
 4 Serum Visions
 1 Opt
 2 Opt
-1 Island
-1 Swamp
 1 Darkslick Shores
+1 Swamp
+1 Island
 2 Watery Grave
 2 Island
 3 Watery Grave
@@ -77,10 +77,10 @@
 4 Cryptic Command
 4 Archmage's Charm
 1 Seal of Fire
-1 Engineered Explosives
-1 Abrupt Decay
 1 Overgrown Tomb
+1 Abrupt Decay
 1 Blood Crypt
+1 Engineered Explosives
 1 Skred
 1 Spell Pierce
 2 Skred
@@ -105,21 +105,35 @@
 1 Lumbering Falls
 1 Blast Zone
 1 Treetop Village
-2 Kolaghan's Command
 2 Abrupt Decay
+2 Kolaghan's Command
 3 Blood Moon
-1 Exhaustion
-1 Time Warp
 1 Walk the Aeons
+1 Exhaustion
 1 Ketria Triome
 1 Gemstone Caverns
+1 Time Warp
 2 Time Warp
-2 Ketria Triome
 2 Gemstone Caverns
+2 Ketria Triome
 2 Steam Vents
 2 Chandra, Torch of Defiance
 3 Time Warp
 4 Time Warp
+1 Arbor Elf
+1 Utopia Sprawl
+1 Tranquil Thicket
+1 Ashiok, Dream Render
+1 Stubborn Denial
+2 Arbor Elf
+2 Utopia Sprawl
+2 The Royal Scions
+2 Ashiok, Dream Render
+3 Wooded Foothills
+3 Arbor Elf
+3 Utopia Sprawl
+4 Arbor Elf
+4 Utopia Sprawl
 1 Delver of Secrets
 1 Jace, Vryn's Prodigy
 2 Jace, Vryn's Prodigy
@@ -132,38 +146,24 @@
 1 Thing in the Ice
 1 Nihil Spellbomb
 2 Tyrant's Scorn
-2 Thing in the Ice
 2 Nihil Spellbomb
+2 Thing in the Ice
 2 Unearth
 3 Thing in the Ice
 4 Thing in the Ice
-1 Utopia Sprawl
-1 Tranquil Thicket
-1 Arbor Elf
-1 Ashiok, Dream Render
-1 Stubborn Denial
-2 Utopia Sprawl
-2 The Royal Scions
-2 Arbor Elf
-2 Ashiok, Dream Render
-3 Wooded Foothills
-3 Utopia Sprawl
-3 Arbor Elf
-4 Utopia Sprawl
-4 Arbor Elf
-1 Creeping Tar Pit
 1 Liliana of the Veil
 1 Damnation
 1 Geier Reach Sanitarium
 1 Bloodstained Mire
 1 Narset, Parter of Veils
+1 Creeping Tar Pit
 1 Go for the Throat
-2 Creeping Tar Pit
 2 Liliana of the Veil
 2 Geier Reach Sanitarium
 2 Narset, Parter of Veils
 2 Damnation
 2 Swamp
+2 Creeping Tar Pit
 3 Narset, Parter of Veils
 3 Creeping Tar Pit
 4 Narset, Parter of Veils
@@ -173,18 +173,18 @@
 1 Dead of Winter
 1 Fabled Passage
 1 Abominable Treefolk
-2 Snow-Covered Swamp
 2 Dead of Winter
+2 Snow-Covered Swamp
 2 Fabled Passage
-3 Drown in the Loch
 3 Snow-Covered Forest
 3 Field of Ruin
 3 Dead of Winter
+3 Drown in the Loch
 3 Assassin's Trophy
 3 Prismatic Vista
 3 Fabled Passage
-4 Drown in the Loch
 4 Field of Ruin
+4 Drown in the Loch
 4 Assassin's Trophy
 4 Fabled Passage
 4 Dead of Winter

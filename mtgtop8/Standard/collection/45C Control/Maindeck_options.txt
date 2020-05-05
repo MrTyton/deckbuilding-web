@@ -1,41 +1,21 @@
-2 Cry of the Carnarium
-1 Temple Garden
-1 Temple of Enlightenment
 1 Tamiyo, Collector of Tales
 1 Uro, Titan of Nature's Wrath
 1 Breeding Pool
 2 Uro, Titan of Nature's Wrath
-2 Breeding Pool
 3 Uro, Titan of Nature's Wrath
 1 Island
-4 Uro, Titan of Nature's Wrath
 1 Overgrown Tomb
 2 Temple Garden
-2 Overgrown Tomb
+2 Breeding Pool
 3 Breeding Pool
+2 Tamiyo, Collector of Tales
+4 Uro, Titan of Nature's Wrath
+1 Zagoth Triome
 1 Forest
 1 Fabled Passage
-1 Growth Spiral
 2 Fabled Passage
-2 Growth Spiral
 3 Fabled Passage
-3 Shatter the Sky
-4 Temple of Silence
-4 Breeding Pool
-2 Forest
-3 Growth Spiral
-4 Growth Spiral
-2 Tamiyo, Collector of Tales
-1 Plains
 4 Fabled Passage
-1 Zagoth Triome
-1 Omen of the Sea
-2 Omen of the Sea
-3 Omen of the Sea
-4 Omen of the Sea
-1 Casualties of War
-2 Casualties of War
-3 Temple Garden
 1 Indatha Triome
 2 Zagoth Triome
 2 Indatha Triome
@@ -43,26 +23,54 @@
 3 Indatha Triome
 4 Indatha Triome
 4 Zagoth Triome
-1 Hydroid Krasis
-1 Nissa, Who Shakes the World
-2 Nissa, Who Shakes the World
-2 Hydroid Krasis
+1 Plains
+4 Breeding Pool
+1 Growth Spiral
+2 Growth Spiral
+2 Overgrown Tomb
+1 Omen of the Sea
+2 Omen of the Sea
+3 Omen of the Sea
+4 Omen of the Sea
+1 Casualties of War
+2 Casualties of War
+2 Forest
+1 Kaya, Orzhov Usurper
+3 Growth Spiral
+4 Growth Spiral
 4 Elspeth Conquers Death
-2 Island
+2 Cry of the Carnarium
 2 Plains
-1 Temple of Mystery
+1 Raugrin Triome
+1 Temple of Enlightenment
 1 Ketria Triome
 2 Ketria Triome
+3 Casualties of War
 1 Agent of Treachery
 2 Agent of Treachery
-3 Agent of Treachery
-2 Temple of Mystery
-3 Temple of Mystery
+3 Shatter the Sky
+4 Temple of Silence
+1 Ashiok, Nightmare Muse
+2 Raugrin Triome
 3 Ketria Triome
-4 Ketria Triome
 1 Mountain
 1 Stomping Ground
 2 Stomping Ground
+1 Savai Triome
+1 Niv-Mizzet Reborn
+2 Niv-Mizzet Reborn
+3 Niv-Mizzet Reborn
+1 Temple of Mystery
+2 Island
+3 Agent of Treachery
+1 Cavalier of Thorns
+1 Mythos of Illuna
+2 Cavalier of Thorns
+2 Mythos of Illuna
+3 Cavalier of Thorns
+2 Temple of Mystery
+3 Temple of Mystery
+4 Ketria Triome
 1 Omnath, Locus of the Roil
 1 Thassa, Deep-Dwelling
 1 Risen Reef
@@ -75,18 +83,14 @@
 3 Island
 4 Risen Reef
 4 Leafkin Druid
-1 Genesis Ultimatum
-1 Cavalier of Thorns
 1 Arboreal Grazer
-1 Mythos of Illuna
+1 Genesis Ultimatum
 1 Temple of Abandon
 1 Temple of Epiphany
-2 Omnath, Locus of the Roil
 2 Genesis Ultimatum
-2 Cavalier of Thorns
+2 Omnath, Locus of the Roil
 2 Arboreal Grazer
 2 Temple of Epiphany
-2 Mythos of Illuna
 2 Temple of Abandon
 3 Omnath, Locus of the Roil
 3 Genesis Ultimatum
@@ -94,93 +98,108 @@
 3 Arboreal Grazer
 3 Temple of Abandon
 3 Stomping Ground
-3 Cavalier of Thorns
 3 Steam Vents
 4 Omnath, Locus of the Roil
 4 Genesis Ultimatum
 4 Temple of Mystery
-4 Temple of Epiphany
 4 Arboreal Grazer
 4 Agent of Treachery
+4 Temple of Epiphany
 4 Steam Vents
 4 Cavalier of Thorns
 4 Stomping Ground
+3 Mythos of Illuna
 1 Heartless Act
 1 Shark Typhoon
 2 Heartless Act
 2 Shark Typhoon
+3 Temple Garden
 3 Agonizing Remorse
-1 Raugrin Triome
-4 Oath of Kaya
 1 Mystical Dispute
-3 Hydroid Krasis
-3 Nissa, Who Shakes the World
+1 Hydroid Krasis
+1 Nissa, Who Shakes the World
+2 Nissa, Who Shakes the World
+2 Hydroid Krasis
+4 Oath of Kaya
+3 Raugrin Triome
+4 Raugrin Triome
+2 Ashiok, Nightmare Muse
+4 Niv-Mizzet Reborn
+1 Klothys, God of Destiny
+1 Deafening Clarion
+2 Deafening Clarion
+1 Vraska, Golgari Queen
+1 Paradise Druid
+1 Knight of Autumn
+2 Paradise Druid
+2 Knight of Autumn
+3 Paradise Druid
 1 Blood Crypt
 1 Duress
 4 Atris, Oracle of Half-Truths
-1 Ashiok, Nightmare Muse
-1 Klothys, God of Destiny
-3 Overgrown Tomb
-2 Temple of Enlightenment
-2 Raugrin Triome
-1 Temple of Plenty
-1 Polukranos, Unchained
-1 Savai Triome
-1 Niv-Mizzet Reborn
 1 Solar Blaze
 1 Gilded Goose
-2 Niv-Mizzet Reborn
 2 Gilded Goose
-3 Niv-Mizzet Reborn
 3 Gilded Goose
 1 Elite Guardmage
 2 Elite Guardmage
 1 Spark Double
-3 Mythos of Illuna
 1 Disinformation Campaign
 1 Extinction Event
 2 Disinformation Campaign
 2 Extinction Event
 3 Disinformation Campaign
 3 Heartless Act
-3 Casualties of War
 3 Shark Typhoon
 4 Agonizing Remorse
 2 Swamp
+3 Hydroid Krasis
+3 Nissa, Who Shakes the World
 4 Nissa, Who Shakes the World
+1 Kenrith, the Returned King
+1 Unmoored Ego
+3 Deafening Clarion
+4 Casualties of War
+1 Treacherous Blessing
+2 Vraska, Golgari Queen
+3 Vraska, Golgari Queen
+3 Knight of Autumn
+4 Mythos of Illuna
+4 Vraska, Golgari Queen
+4 Paradise Druid
 1 Quasiduplicate
 2 Thassa, Deep-Dwelling
 4 Temple of Abandon
 1 Scampering Scorcher
+1 Wind-Scarred Crag
 1 Tranquil Cove
 1 Thornwood Falls
 1 Rugged Highlands
-1 Wind-Scarred Crag
-1 Neoform
 1 Swiftwater Cliffs
+1 Meteor Golem
+1 Neoform
+1 Flicker of Fate
 1 Fire Prophecy
 1 Blossoming Sands
 1 Frost Lynx
-1 Meteor Golem
-1 Flicker of Fate
 1 Evolving Wilds
 1 Centaur Peacemaker
 1 Cloudkin Seer
 1 Teferi's Time Twist
 2 Scampering Scorcher
+2 Wind-Scarred Crag
 2 Tranquil Cove
 2 Thornwood Falls
-2 Rugged Highlands
-2 Wind-Scarred Crag
 2 Swiftwater Cliffs
-2 Fire Prophecy
 2 Flicker of Fate
+2 Fire Prophecy
 2 Cloudkin Seer
 2 Neoform
+2 Rugged Highlands
 2 Blossoming Sands
 2 Mountain
-2 Evolving Wilds
 2 Frost Lynx
+2 Evolving Wilds
 2 Teferi's Time Twist
 3 Plains
 3 Scampering Scorcher
@@ -188,17 +207,17 @@
 3 Elite Guardmage
 3 Mountain
 3 Tranquil Cove
+3 Flicker of Fate
 3 Fire Prophecy
 3 Evolving Wilds
-3 Frost Lynx
 3 Blossoming Sands
+3 Frost Lynx
 3 Cloudkin Seer
 3 Neoform
-3 Flicker of Fate
 4 Thornwood Falls
 4 Fire Prophecy
-4 Neoform
 4 Cloudkin Seer
+4 Neoform
 4 Evolving Wilds
 4 Island
 4 Frost Lynx
@@ -209,40 +228,32 @@
 1 Kasmina, Enigmatic Mentor
 1 Command the Dreadhorde
 1 Ral, Izzet Viceroy
+2 Temple of Enlightenment
 2 Kaya, Orzhov Usurper
 1 Elspeth, Sun's Nemesis
 1 Soul Diviner
 2 Soul Diviner
-1 Time Wipe
-2 Time Wipe
-2 Ashiok, Nightmare Muse
 1 Despark
 1 Tyrant's Scorn
+2 Solar Blaze
 2 Savai Triome
 2 Despark
-2 Solar Blaze
 3 Solar Blaze
-4 Niv-Mizzet Reborn
+1 Time Wipe
+2 Time Wipe
+3 Overgrown Tomb
 1 Narset of the Ancient Way
 1 Tale's End
 2 Tale's End
 2 Narset of the Ancient Way
-3 Raugrin Triome
 3 Narset of the Ancient Way
-4 Raugrin Triome
 1 Assassin's Trophy
-1 Vraska, Golgari Queen
-1 Paradise Druid
+1 Temple of Plenty
+1 Polukranos, Unchained
 1 Kunoros, Hound of Athreos
-1 Deafening Clarion
-1 Knight of Autumn
 1 Drown in the Loch
 1 Dovin's Veto
 2 Drown in the Loch
-2 Paradise Druid
-2 Deafening Clarion
-2 Knight of Autumn
-3 Paradise Druid
 4 Gilded Goose
 1 Brazen Borrower
 2 Mystical Dispute
@@ -251,8 +262,3 @@
 3 Brazen Borrower
 4 Mystical Dispute
 4 Brazen Borrower
-1 Aether Gust
-2 Temple of Plenty
-2 Aether Gust
-4 Hydroid Krasis
-4 Overgrown Tomb

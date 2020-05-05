@@ -58,17 +58,17 @@
 1 Wolfwillow Haven
 1 Calix, Destiny's Hand
 1 Temple of Plenty
-1 Banishing Light
 1 Sigil of the Empty Throne
-1 Setessan Champion
+1 Banishing Light
 1 Sphere of Safety
+1 Setessan Champion
 1 Eidolon of Blossoms
 1 Seal Away
 1 Herald of the Pantheon
 2 Wolfwillow Haven
-2 Setessan Champion
 2 Banishing Light
 2 Herald of the Pantheon
+2 Setessan Champion
 2 Eidolon of Blossoms
 2 Sigil of the Empty Throne
 2 Temple of Plenty
@@ -76,15 +76,15 @@
 3 Temple of Plenty
 3 Wolfwillow Haven
 3 Banishing Light
-3 Setessan Champion
 3 Eidolon of Blossoms
+3 Setessan Champion
 3 Herald of the Pantheon
 4 Temple of Plenty
+4 Courser of Kruphix
 4 Banishing Light
-4 Setessan Champion
 4 Eidolon of Blossoms
 4 Herald of the Pantheon
-4 Courser of Kruphix
+4 Setessan Champion
 4 Wolfwillow Haven
 1 Collected Company
 2 Collected Company
@@ -182,6 +182,20 @@
 3 Field of Ruin
 3 Traverse the Ulvenwald
 4 Traverse the Ulvenwald
+1 Splendor Mare
+1 Duskwatch Recruiter
+1 Zirda, the Dawnwaker
+1 Gilded Goose
+2 Gilded Goose
+2 Duskwatch Recruiter
+2 Splendor Mare
+2 Zirda, the Dawnwaker
+3 Gilded Goose
+3 Duskwatch Recruiter
+3 Splendor Mare
+3 Scavenging Ooze
+4 Gilded Goose
+4 Duskwatch Recruiter
 1 Shared Summons
 1 Militia Bugler
 1 Bygone Bishop
@@ -192,20 +206,6 @@
 3 Militia Bugler
 3 Radiant Fountain
 4 Militia Bugler
-1 Splendor Mare
-1 Duskwatch Recruiter
-1 Zirda, the Dawnwaker
-1 Gilded Goose
-2 Gilded Goose
-2 Splendor Mare
-2 Duskwatch Recruiter
-2 Zirda, the Dawnwaker
-3 Duskwatch Recruiter
-3 Splendor Mare
-3 Gilded Goose
-3 Scavenging Ooze
-4 Duskwatch Recruiter
-4 Gilded Goose
 1 Starfield Mystic
 1 Cast Out
 3 Gideon's Intervention
@@ -227,21 +227,20 @@
 1 Slip Through Space
 1 The Royal Scions
 1 Steam Vents
-1 Faerie Vandal
-1 Gods Willing
 1 Defiant Strike
 1 Favored Hoplite
+1 Gods Willing
 1 Staggering Insight
 1 Curious Obsession
 1 Reckless Rage
 1 Inspiring Vantage
+1 Faerie Vandal
 1 Tenth District Legionnaire
 1 Monastery Swiftspear
 1 Sentinel's Eyes
 2 Inspiring Vantage
 2 The Royal Scions
 2 Steam Vents
-2 Faerie Vandal
 2 Defiant Strike
 2 Favored Hoplite
 2 Gods Willing
@@ -250,23 +249,24 @@
 2 Tenth District Legionnaire
 2 Monastery Swiftspear
 2 Reckless Rage
+2 Faerie Vandal
 3 Inspiring Vantage
 3 Steam Vents
 3 The Royal Scions
-3 Faerie Vandal
 3 Defiant Strike
 3 Favored Hoplite
-3 Gods Willing
 3 Staggering Insight
+3 Gods Willing
 3 Curious Obsession
 3 Reckless Rage
+3 Faerie Vandal
 3 Monastery Swiftspear
 3 Tenth District Legionnaire
 4 Favored Hoplite
 4 Gods Willing
+4 Curious Obsession
 4 Defiant Strike
 4 Steam Vents
-4 Curious Obsession
 4 Staggering Insight
 4 Reckless Rage
 4 Tenth District Legionnaire
@@ -274,6 +274,7 @@
 1 Kiora Bests the Sea God
 1 Cavalier of Thorns
 1 Castle Garenbrig
+1 Hinterland Harbor
 1 Tamiyo, Collector of Tales
 1 World Breaker
 1 Arboreal Grazer
@@ -286,7 +287,6 @@
 1 Ipnu Rivulet
 1 Growth Spiral
 1 Breeding Pool
-1 Hinterland Harbor
 2 Growth Spiral
 2 Nissa, Who Shakes the World
 2 Ugin, the Spirit Dragon
@@ -334,28 +334,28 @@
 2 Pelt Collector
 2 Experiment One
 2 Atarka's Command
-2 Bronzehide Lion
 2 Gruul Spellbreaker
 2 Fleecemane Lion
 2 Rootbound Crag
+2 Bronzehide Lion
 3 Boros Charm
 3 Pelt Collector
 3 Experiment One
 3 Ghor-Clan Rampager
 3 Atarka's Command
 3 Questing Beast
-3 Bronzehide Lion
 3 Rootbound Crag
+3 Bronzehide Lion
 3 Gruul Spellbreaker
 3 Stomping Ground
 4 Pelt Collector
 4 Experiment One
-4 Bronzehide Lion
 4 Voice of Resurgence
 4 Gruul Spellbreaker
+4 Bronzehide Lion
 4 Stomping Ground
-1 Bolas's Citadel
 1 Temple of Silence
+1 Bolas's Citadel
 1 Shambling Vent
 1 Seraph of the Scales
 1 Lyra Dawnbringer
@@ -436,9 +436,9 @@
 4 Ghostfire Blade
 4 Shrapnel Blast
 4 Ensoul Artifact
-1 Kroxa, Titan of Death's Hunger
 1 Dreadbore
 1 Blood Crypt
+1 Kroxa, Titan of Death's Hunger
 1 Foreboding Ruins
 1 Chandra, Torch of Defiance
 1 Glorybringer
@@ -465,8 +465,8 @@
 1 Evolutionary Leap
 1 Winding Constrictor
 1 Llanowar Wastes
-2 The Ozolith
 2 Metallic Mimic
+2 The Ozolith
 2 Evolutionary Leap
 2 Winding Constrictor
 2 Llanowar Wastes
@@ -478,16 +478,16 @@
 4 Llanowar Wastes
 4 Steel Overseer
 1 Champion of Dusk
-1 Sorin, Imperious Bloodlord
 1 Dusk Legion Zealot
+1 Sorin, Imperious Bloodlord
 1 Blood Baron of Vizkopa
 1 Kaya, Orzhov Usurper
 1 Gifted Aetherborn
 1 Oathsworn Vampire
 1 Knight of the Ebon Legion
-2 Sorin, Imperious Bloodlord
 2 Champion of Dusk
 2 Dusk Legion Zealot
+2 Sorin, Imperious Bloodlord
 2 Kaya, Orzhov Usurper
 2 Gifted Aetherborn
 2 Knight of the Ebon Legion
