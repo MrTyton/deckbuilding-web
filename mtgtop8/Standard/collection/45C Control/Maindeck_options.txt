@@ -1,4 +1,4 @@
-1 Tamiyo, Collector of Tales
+1 Temple Garden
 1 Uro, Titan of Nature's Wrath
 1 Breeding Pool
 2 Uro, Titan of Nature's Wrath
@@ -17,10 +17,10 @@
 3 Fabled Passage
 4 Fabled Passage
 1 Indatha Triome
-2 Zagoth Triome
 2 Indatha Triome
-3 Zagoth Triome
+2 Zagoth Triome
 3 Indatha Triome
+3 Zagoth Triome
 4 Indatha Triome
 4 Zagoth Triome
 1 Plains
@@ -71,10 +71,10 @@
 2 Temple of Mystery
 3 Temple of Mystery
 4 Ketria Triome
-1 Omnath, Locus of the Roil
 1 Thassa, Deep-Dwelling
 1 Risen Reef
 1 Leafkin Druid
+1 Omnath, Locus of the Roil
 2 Risen Reef
 2 Leafkin Druid
 3 Risen Reef
@@ -88,17 +88,17 @@
 1 Temple of Abandon
 1 Temple of Epiphany
 2 Genesis Ultimatum
-2 Omnath, Locus of the Roil
 2 Arboreal Grazer
 2 Temple of Epiphany
+2 Omnath, Locus of the Roil
 2 Temple of Abandon
-3 Omnath, Locus of the Roil
+3 Temple of Abandon
 3 Genesis Ultimatum
 3 Temple of Epiphany
 3 Arboreal Grazer
-3 Temple of Abandon
 3 Stomping Ground
 3 Steam Vents
+3 Omnath, Locus of the Roil
 4 Omnath, Locus of the Roil
 4 Genesis Ultimatum
 4 Temple of Mystery
@@ -144,6 +144,13 @@
 1 Elite Guardmage
 2 Elite Guardmage
 1 Spark Double
+1 Quasiduplicate
+2 Thassa, Deep-Dwelling
+4 Temple of Abandon
+1 Kenrith, the Returned King
+1 Unmoored Ego
+3 Deafening Clarion
+4 Casualties of War
 1 Disinformation Campaign
 1 Extinction Event
 2 Disinformation Campaign
@@ -156,46 +163,39 @@
 3 Hydroid Krasis
 3 Nissa, Who Shakes the World
 4 Nissa, Who Shakes the World
-1 Quasiduplicate
-2 Thassa, Deep-Dwelling
-4 Temple of Abandon
-1 Kenrith, the Returned King
-1 Unmoored Ego
-3 Deafening Clarion
-4 Casualties of War
 1 Treacherous Blessing
 2 Vraska, Golgari Queen
 3 Vraska, Golgari Queen
 3 Knight of Autumn
-4 Vraska, Golgari Queen
 4 Mythos of Illuna
+4 Vraska, Golgari Queen
 4 Paradise Druid
 1 Scampering Scorcher
 1 Tranquil Cove
 1 Thornwood Falls
-1 Flicker of Fate
-1 Rugged Highlands
 1 Swiftwater Cliffs
 1 Wind-Scarred Crag
 1 Meteor Golem
 1 Neoform
+1 Flicker of Fate
 1 Fire Prophecy
 1 Blossoming Sands
 1 Frost Lynx
 1 Evolving Wilds
 1 Centaur Peacemaker
+1 Rugged Highlands
 1 Cloudkin Seer
 1 Teferi's Time Twist
 2 Scampering Scorcher
 2 Tranquil Cove
 2 Thornwood Falls
-2 Rugged Highlands
 2 Wind-Scarred Crag
 2 Swiftwater Cliffs
 2 Flicker of Fate
 2 Fire Prophecy
 2 Cloudkin Seer
 2 Neoform
+2 Rugged Highlands
 2 Blossoming Sands
 2 Mountain
 2 Frost Lynx
@@ -215,11 +215,11 @@
 3 Neoform
 3 Flicker of Fate
 4 Thornwood Falls
-4 Fire Prophecy
 4 Cloudkin Seer
 4 Neoform
 4 Evolving Wilds
 4 Island
+4 Fire Prophecy
 4 Frost Lynx
 4 Forest
 4 Flicker of Fate

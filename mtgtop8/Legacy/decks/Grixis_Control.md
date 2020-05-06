@@ -30,10 +30,10 @@
 
 |*n*<sup>th</sup> copy|                                      Maindeck Card                                      |*n*<sup>th</sup> copy|                                       Sideboard Card                                        |
 |--------------------:|-----------------------------------------------------------------------------------------|--------------------:|---------------------------------------------------------------------------------------------|
-|                    1|[Dark Confidant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397731)|                    1|[Null Rod](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383034)          |
-|                    2|[Dark Confidant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397731)|                    1|[Hymn to Tourach](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413634)   |
-|                    4|[Scalding Tarn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405107) |                    2|[Goblin Cratermaker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452853)|
-|                    4|[Polluted Delta](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405104)|                    2|[Hymn to Tourach](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413634)   |
-|                    4|[Wasteland](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413790)     |                    2|[Baleful Strix](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376260)     |
-|                     |                                                                                         |                    3|[Red Elemental Blast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=814)  |
+|                    1|[Dark Confidant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397731)|                    1|[Hymn to Tourach](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413634)   |
+|                    2|[Dark Confidant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397731)|                    1|[Null Rod](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383034)          |
+|                    4|[Scalding Tarn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405107) |                    2|[Hymn to Tourach](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413634)   |
+|                    4|[Polluted Delta](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405104)|                    2|[Goblin Cratermaker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452853)|
+|                    4|[Wasteland](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413790)     |                    3|[Red Elemental Blast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=814)  |
+|                     |                                                                                         |                    2|[Baleful Strix](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376260)     |
 

@@ -14,12 +14,12 @@
 1 Ice-Fang Coatl
 1 Uro, Titan of Nature's Wrath
 2 Force of Negation
-2 Abundant Growth
 2 Ice-Fang Coatl
+2 Abundant Growth
 3 Snow-Covered Island
 3 Misty Rainforest
-3 Ice-Fang Coatl
 3 Force of Negation
+3 Ice-Fang Coatl
 4 Ice-Fang Coatl
 4 Misty Rainforest
 1 Dead of Winter
@@ -37,31 +37,21 @@
 2 Abrupt Decay
 2 Baleful Strix
 3 Abrupt Decay
-1 Kinnan, Bonder Prodigy
 1 Urza, Lord High Artificer
+1 Kinnan, Bonder Prodigy
 1 Volcanic Island
 1 Retrofitter Foundry
 1 Basalt Monolith
 1 Snow-Covered Mountain
-2 Kinnan, Bonder Prodigy
 2 Retrofitter Foundry
 2 Urza, Lord High Artificer
 2 Dead of Winter
+2 Kinnan, Bonder Prodigy
 2 Basalt Monolith
 3 Urza, Lord High Artificer
 3 Retrofitter Foundry
 3 Basalt Monolith
 4 Retrofitter Foundry
-1 Stoneforge Mystic
-1 Batterskull
-1 Flusterstorm
-1 Umezawa's Jitte
-1 Drown in the Loch
-2 Veil of Summer
-2 Snapcaster Mage
-2 Stoneforge Mystic
-3 Abundant Growth
-3 Stoneforge Mystic
 1 Urza's Bauble
 1 Spell Snare
 1 Mishra's Bauble
@@ -70,6 +60,16 @@
 3 Teferi, Time Raveler
 3 Lurrus of the Dream Den
 3 Mishra's Bauble
+1 Stoneforge Mystic
+1 Batterskull
+1 Flusterstorm
+1 Umezawa's Jitte
+1 Drown in the Loch
+2 Veil of Summer
+2 Snapcaster Mage
+2 Stoneforge Mystic
+3 Stoneforge Mystic
+3 Abundant Growth
 1 Sevinne's Reclamation
 1 Engineered Explosives
 1 Intuition

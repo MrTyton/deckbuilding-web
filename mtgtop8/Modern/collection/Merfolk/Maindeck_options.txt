@@ -1,32 +1,3 @@
-9 Island
-1 Master of Waves
-1 Minamo, School at Water's Edge
-1 Oboro, Palace in the Clouds
-4 Mutavault
-4 Spreading Seas
-1 Cursecatcher
-1 Fiery Islet
-2 Cursecatcher
-2 Fiery Islet
-10 Island
-1 Harbinger of the Tides
-1 Benthic Biomancer
-2 Harbinger of the Tides
-2 Benthic Biomancer
-3 Benthic Biomancer
-4 Benthic Biomancer
-1 Misty Rainforest
-1 Swift Warden
-2 Misty Rainforest
-2 Swift Warden
-1 Polluted Delta
-2 Polluted Delta
-3 Brazen Borrower
-3 Dismember
-4 Brazen Borrower
-1 Spirebluff Canal
-1 The Royal Scions
-1 Brineborn Cutthroat
 1 Cryptic Command
 1 Lightning Bolt
 2 The Royal Scions
@@ -36,10 +7,10 @@
 2 Cryptic Command
 3 Spirebluff Canal
 3 Brineborn Cutthroat
-3 Cryptic Command
 3 Fiery Islet
 3 The Royal Scions
 3 Lightning Bolt
+3 Cryptic Command
 4 Spirebluff Canal
 4 Brineborn Cutthroat
 4 Lightning Bolt
@@ -60,5 +31,29 @@
 2 Kira, Great Glass-Spinner
 3 Cursecatcher
 4 Force of Negation
-11 Island
 4 Cursecatcher
+11 Island
+1 Botanical Sanctum
+1 Breeding Pool
+1 Misty Rainforest
+1 Dismember
+1 Merfolk Mistbinder
+1 Kumena's Speaker
+1 Waterlogged Grove
+1 Swift Warden
+2 Botanical Sanctum
+2 Misty Rainforest
+2 Dismember
+2 Merfolk Mistbinder
+2 Swift Warden
+2 Waterlogged Grove
+2 Breeding Pool
+2 Kumena's Speaker
+3 Botanical Sanctum
+3 Waterlogged Grove
+3 Merfolk Mistbinder
+3 Kumena's Speaker
+4 Waterlogged Grove
+4 Botanical Sanctum
+4 Kumena's Speaker
+4 Merfolk Mistbinder

@@ -75,7 +75,7 @@
 |                     |                                                                                                  |                    3|[Shifting Ceratops](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466948)      |
 |                     |                                                                                                  |                    1|[Pithing Needle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129526)         |
 |                     |                                                                                                  |                    3|[Pyroclasm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129801)              |
-|                     |                                                                                                  |                    4|[Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452)      |
 |                     |                                                                                                  |                    4|[Defense Grid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45481)            |
+|                     |                                                                                                  |                    4|[Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452)      |
 |                     |                                                                                                  |                    2|[Pithing Needle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129526)         |
 

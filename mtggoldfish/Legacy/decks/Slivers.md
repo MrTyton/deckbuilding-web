@@ -37,7 +37,7 @@
 |                     |                                                                                            |                    3|[Chalice of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442211)|
 |                     |                                                                                            |                    3|[Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)     |
 |                     |                                                                                            |                    1|[Mindbreak Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197532)     |
+|                     |                                                                                            |                    1|[Null Rod](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383034)           |
 |                     |                                                                                            |                    2|[Mindbreak Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197532)     |
 |                     |                                                                                            |                    2|[Null Rod](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383034)           |
-|                     |                                                                                            |                    1|[Null Rod](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383034)           |
 

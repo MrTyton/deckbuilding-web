@@ -41,10 +41,10 @@
 2 Murderous Rider
 1 Trial of Ambition
 1 The Birth of Meletis
-1 Isolated Chapel
 1 Doom Foretold
 1 Demonic Pact
 1 Flicker of Fate
+1 Isolated Chapel
 1 Treacherous Blessing
 1 Final Payment
 2 The Birth of Meletis
@@ -79,8 +79,8 @@
 2 Flicker of Fate
 3 Flicker of Fate
 4 Shambling Vent
-4 Isolated Chapel
 4 Oath of Kaya
+4 Isolated Chapel
 4 Flicker of Fate
 4 Trial of Ambition
 1 Starfield of Nyx
@@ -104,30 +104,29 @@
 3 Blood Crypt
 3 Kroxa, Titan of Death's Hunger
 4 Blood Crypt
-1 Dragonskull Summit
+1 Watery Grave
 2 Dreadbore
-2 Dragonskull Summit
-3 Dragonskull Summit
 3 Dreadbore
 4 Kroxa, Titan of Death's Hunger
-1 Watery Grave
 1 Liliana, the Last Hope
-1 Bonecrusher Giant
-2 Bonecrusher Giant
-1 Discovery / Dispersal
-2 Discovery / Dispersal
-3 Discovery / Dispersal
-3 Bonecrusher Giant
-4 Discovery / Dispersal
-4 Dreadbore
-4 Bonecrusher Giant
 1 Canyon Slough
+1 Dragonskull Summit
 1 Chandra, Torch of Defiance
+2 Dragonskull Summit
 2 Chandra, Torch of Defiance
 2 Canyon Slough
+3 Dragonskull Summit
 3 Mountain
 3 Canyon Slough
 4 Dragonskull Summit
+1 Foreboding Ruins
+1 Kolaghan's Command
+1 Discovery / Dispersal
+2 Discovery / Dispersal
+2 Kolaghan's Command
+3 Discovery / Dispersal
+4 Discovery / Dispersal
+4 Dreadbore
 1 Nissa, Who Shakes the World
 2 Liliana, the Last Hope
 1 Ishkanah, Grafwidow
@@ -144,20 +143,20 @@
 2 Overgrown Tomb
 3 Blooming Marsh
 4 Blooming Marsh
-1 Irrigated Farmland
-1 Drowned Catacomb
-2 Drowned Catacomb
-2 Watery Grave
-3 Drowned Catacomb
-3 Watery Grave
-4 Watery Grave
+1 Bonecrusher Giant
+2 Bonecrusher Giant
 1 Agonizing Remorse
 2 Agonizing Remorse
 2 Final Payment
 4 Treacherous Blessing
+1 Irrigated Farmland
 1 Emrakul, the Promised End
+2 Watery Grave
+3 Watery Grave
+4 Watery Grave
 1 Thirst for Meaning
 1 Thought Erasure
+1 Drowned Catacomb
 1 Cast Down
 1 Elspeth, Sun's Champion
 1 Elspeth, Sun's Nemesis
@@ -168,30 +167,34 @@
 1 Narset, Parter of Veils
 2 Search for Azcanta
 2 Concealed Courtyard
+2 Drowned Catacomb
 2 Cast Down
+3 Drowned Catacomb
 3 Glacial Fortress
 3 Concealed Courtyard
 3 Cast Down
-1 Foreboding Ruins
-1 Kolaghan's Command
 2 Foreboding Ruins
-2 Kolaghan's Command
+3 Bonecrusher Giant
 3 Kolaghan's Command
+4 Bonecrusher Giant
 1 Glorybringer
 1 Vraska's Contempt
 2 Abrupt Decay
 3 Overgrown Tomb
 4 Overgrown Tomb
-1 Vraska, Golgari Queen
-1 Blast Zone
+1 Jace, Vryn's Prodigy
+2 Jace, Vryn's Prodigy
+3 Jace, Vryn's Prodigy
 2 Tireless Tracker
 3 Traverse the Ulvenwald
+1 Vraska, Golgari Queen
 1 Tamiyo, Collector of Tales
+1 Blast Zone
 1 Field of Ruin
 1 Champion of Wits
+1 Ipnu Rivulet
 1 Stomping Ground
 2 Stomping Ground
-1 Ipnu Rivulet
 2 Temple of Silence
 1 Mass Manipulation
 4 Teferi, Hero of Dominaria
@@ -213,6 +216,9 @@
 1 Chart a Course
 1 Yahenni's Expertise
 2 Elspeth, Sun's Nemesis
+1 Opulent Palace
+1 Ashiok, Nightmare Muse
+1 Hostage Taker
 2 Thirst for Meaning
 2 Thought Erasure
 2 Hero's Downfall
@@ -243,21 +249,6 @@
 1 Distended Mindbender
 2 Deathrite Shaman
 3 Deathrite Shaman
-1 Opulent Palace
-1 Ashiok, Nightmare Muse
-1 Hostage Taker
-1 Jace, Vryn's Prodigy
-2 Jace, Vryn's Prodigy
-3 Jace, Vryn's Prodigy
-1 Quicken
-1 Spirebluff Canal
-1 Nicol Bolas, the Ravager
-2 Quicken
-2 Spirebluff Canal
-2 Nicol Bolas, the Ravager
-3 Nicol Bolas, the Ravager
-3 Quicken
-4 Nicol Bolas, the Ravager
 1 Languish
 1 Bedevil
 1 Chandra, Flamecaller
@@ -271,14 +262,26 @@
 2 Read the Bones
 3 Read the Bones
 4 Read the Bones
+1 Spirebluff Canal
+1 Heartless Act
+1 Soul-Guide Lantern
+1 Strategic Planning
+2 Spirebluff Canal
+2 Heartless Act
+2 Strategic Planning
+3 Spirebluff Canal
+3 Strategic Planning
+4 Jace, Vryn's Prodigy
+4 Spirebluff Canal
+4 Strategic Planning
 1 Mire Triton
 2 Glorybringer
 2 Mire Triton
 3 Chandra, Torch of Defiance
 3 Glorybringer
 4 Canyon Slough
-1 Ugin, the Spirit Dragon
 1 Kozilek's Return
+1 Ugin, the Spirit Dragon
 1 Arboreal Grazer
 1 Castle Garenbrig
 1 Llanowar Elves
@@ -324,10 +327,10 @@
 2 Clifftop Retreat
 2 Censor
 2 Nimble Obstructionist
+2 Hieroglyphic Illumination
 2 Zenith Flare
 2 Irrigated Farmland
 2 Flourishing Fox
-2 Hieroglyphic Illumination
 2 Sulfur Falls
 3 Censor
 3 Irrigated Farmland

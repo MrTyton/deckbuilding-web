@@ -56,18 +56,18 @@
 1 Gideon's Intervention
 2 Baffling End
 1 Wolfwillow Haven
-1 Calix, Destiny's Hand
 1 Temple of Plenty
-1 Banishing Light
 1 Sigil of the Empty Throne
+1 Calix, Destiny's Hand
 1 Setessan Champion
+1 Banishing Light
 1 Sphere of Safety
 1 Eidolon of Blossoms
 1 Seal Away
 1 Herald of the Pantheon
 2 Wolfwillow Haven
-2 Setessan Champion
 2 Banishing Light
+2 Setessan Champion
 2 Herald of the Pantheon
 2 Eidolon of Blossoms
 2 Sigil of the Empty Throne
@@ -109,15 +109,15 @@
 2 Fatal Push
 3 Fatal Push
 1 Blast Zone
-1 Sacred Foundry
 1 Steam Vents
 1 Inspiring Vantage
-2 Sacred Foundry
+1 Sacred Foundry
 2 Steam Vents
-3 Sacred Foundry
+2 Sacred Foundry
 3 Steam Vents
-4 Sacred Foundry
+3 Sacred Foundry
 4 Steam Vents
+4 Sacred Foundry
 1 Island
 2 Blast Zone
 1 Mountain
@@ -144,7 +144,6 @@
 1 Chained to the Rocks
 2 Reflector Mage
 2 Castle Embereth
-2 Battlefield Forge
 2 Cloudblazer
 2 Eldrazi Displacer
 2 Fire Prophecy
@@ -157,9 +156,9 @@
 2 Phyrexian Revoker
 2 Raugrin Triome
 2 Chandra, Acolyte of Flame
+2 Battlefield Forge
 2 Chained to the Rocks
 3 Reflector Mage
-3 Battlefield Forge
 3 Raugrin Triome
 3 Eldrazi Displacer
 3 Fire Prophecy
@@ -168,15 +167,15 @@
 3 Winota, Joiner of Forces
 3 Cloudblazer
 3 Lavinia of the Tenth
-3 Agent of Treachery
 3 Blast Zone
 3 Chandra, Acolyte of Flame
+3 Agent of Treachery
 3 Hanged Executioner
 3 Castle Embereth
 3 Clifftop Retreat
 3 Chained to the Rocks
+3 Battlefield Forge
 4 Reflector Mage
-4 Battlefield Forge
 4 Raugrin Triome
 4 Winota, Joiner of Forces
 4 Goblin Instigator
@@ -187,6 +186,7 @@
 4 Hanged Executioner
 4 Castle Embereth
 4 Chained to the Rocks
+4 Battlefield Forge
 1 Thoughtseize
 2 Thoughtseize
 2 Swamp
@@ -263,8 +263,8 @@
 3 Traverse the Ulvenwald
 4 Traverse the Ulvenwald
 1 Splendor Mare
-1 Duskwatch Recruiter
 1 Zirda, the Dawnwaker
+1 Duskwatch Recruiter
 1 Gilded Goose
 2 Gilded Goose
 2 Zirda, the Dawnwaker
@@ -305,7 +305,6 @@
 1 Tenth District Legionnaire
 1 Monastery Swiftspear
 1 Sentinel's Eyes
-2 Inspiring Vantage
 2 The Royal Scions
 2 Defiant Strike
 2 Favored Hoplite
@@ -315,14 +314,15 @@
 2 Tenth District Legionnaire
 2 Monastery Swiftspear
 2 Reckless Rage
+2 Inspiring Vantage
 2 Faerie Vandal
-3 Inspiring Vantage
 3 The Royal Scions
 3 Defiant Strike
 3 Favored Hoplite
 3 Staggering Insight
 3 Gods Willing
 3 Curious Obsession
+3 Inspiring Vantage
 3 Reckless Rage
 3 Faerie Vandal
 3 Monastery Swiftspear
@@ -480,28 +480,28 @@
 4 Metallic Mimic
 4 Steel Overseer
 4 Llanowar Wastes
+1 Foreboding Ruins
 1 Dreadbore
 1 Kroxa, Titan of Death's Hunger
 1 Blood Crypt
-1 Foreboding Ruins
 1 Chandra, Torch of Defiance
 1 Glorybringer
-1 Stomping Ground
 1 Dreadhorde Butcher
+1 Stomping Ground
 2 Glorybringer
 2 Kroxa, Titan of Death's Hunger
 2 Blood Crypt
 2 Foreboding Ruins
 2 Vraska, Golgari Queen
-2 Stomping Ground
 2 Dreadhorde Butcher
+2 Stomping Ground
 3 Blood Crypt
 3 Tireless Tracker
 3 Foreboding Ruins
 3 Dreadhorde Butcher
-4 Dreadhorde Butcher
 4 Blood Crypt
 4 Tireless Tracker
+4 Dreadhorde Butcher
 4 Foreboding Ruins
 4 Bonecrusher Giant
 1 Champion of Dusk

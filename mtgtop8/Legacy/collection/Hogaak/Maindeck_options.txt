@@ -1,9 +1,4 @@
 1 Dryad Arbor
-1 Wooded Foothills
-1 Undiscovered Paradise
-2 Wooded Foothills
-3 Wooded Foothills
-4 Wooded Foothills
 4 Bloodstained Mire
 1 Marsh Flats
 1 Once Upon a Time
@@ -12,13 +7,19 @@
 3 Marsh Flats
 4 Putrid Imp
 4 Polluted Delta
+1 Wooded Foothills
+1 Undiscovered Paradise
+2 Wooded Foothills
+3 Wooded Foothills
+4 Wooded Foothills
 1 Polukranos, Unchained
 1 Blast Zone
-1 Reclamation Sage
 1 Nurturing Peatland
 1 Castle Locthwain
-1 Green Sun's Zenith
 1 Forest
+1 Windswept Heath
+1 Volrath's Stronghold
+1 Green Sun's Zenith
 1 Khalni Garden
 1 Satyr Wayfinder
 1 Mox Diamond
@@ -29,20 +30,19 @@
 1 Snow-Covered Forest
 1 Ancient Tomb
 1 Karakas
-1 Windswept Heath
 1 Grasping Dunes
 1 Cavern of Souls
 1 Elvish Reclaimer
 1 Wasteland
 1 Primeval Titan
 1 Fierce Empath
-1 Volrath's Stronghold
+1 Reclamation Sage
 1 Bojuka Bog
 2 Elvish Reclaimer
 2 Forest
+2 Windswept Heath
 2 Satyr Wayfinder
 2 Mox Diamond
-2 Windswept Heath
 2 Wasteland
 2 Field of the Dead
 2 Fierce Empath
@@ -55,6 +55,6 @@
 3 Green Sun's Zenith
 3 Wasteland
 4 Elvish Reclaimer
-4 Mox Diamond
 4 Satyr Wayfinder
+4 Mox Diamond
 4 Green Sun's Zenith

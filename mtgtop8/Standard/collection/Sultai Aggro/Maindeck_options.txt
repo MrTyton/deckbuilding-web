@@ -19,11 +19,11 @@
 1 Ilysian Caryatid
 1 Arboreal Grazer
 1 Murderous Rider
+2 Casualties of War
 2 Polukranos, Unchained
 2 Arboreal Grazer
 2 Ilysian Caryatid
 2 Murderous Rider
-2 Casualties of War
 3 Ilysian Caryatid
 3 Nissa, Who Shakes the World
 3 Polukranos, Unchained
@@ -56,9 +56,9 @@
 2 Nightpack Ambusher
 2 Brineborn Cutthroat
 2 Quench
-3 Brazen Borrower
 3 Brineborn Cutthroat
 3 Quench
+3 Brazen Borrower
 4 Quench
 4 Temple of Mystery
 1 Lotus Field
@@ -73,14 +73,14 @@
 4 Lovestruck Beast
 4 Shifting Ceratops
 2 Swamp
-1 Neutralize
 1 Frilled Mystic
 1 Heartless Act
 1 Slitherwisp
-2 Neutralize
+1 Neutralize
 2 Heartless Act
 2 Frilled Mystic
 2 Slitherwisp
+2 Neutralize
 3 Frilled Mystic
 3 Slitherwisp
 4 Brazen Borrower
@@ -103,8 +103,8 @@
 1 Golgari Findbroker
 1 Kogla, the Titan Ape
 1 Atris, Oracle of Half-Truths
-2 Fiend Artisan
 2 Vivien, Monsters' Advocate
+2 Fiend Artisan
 2 Assassin's Trophy
 2 Agent of Treachery
 2 Thassa, Deep-Dwelling
@@ -122,18 +122,18 @@
 3 Temple of Deceit
 1 Drown in the Loch
 1 Pteramander
-1 Lochmere Serpent
 1 Erebos's Intervention
+1 Lochmere Serpent
 1 Sinister Sabotage
 1 Omen of the Sea
 2 Drown in the Loch
-2 Omen of the Sea
 2 Mystical Dispute
+2 Omen of the Sea
 2 Sinister Sabotage
 3 Tyrant's Scorn
 3 Drown in the Loch
-3 Omen of the Sea
 3 Mystical Dispute
+3 Omen of the Sea
 4 Island
 1 Negate
 1 Cunning Nightbonder
@@ -146,15 +146,36 @@
 4 Nightpack Ambusher
 2 Spectral Sailor
 4 Frilled Mystic
-1 Bond of Flourishing
+1 Vraska, Golgari Queen
+1 Thought Erasure
+1 Mire Triton
+1 Enter the God-Eternals
+1 Find / Finality
+1 Thief of Sanity
+1 Lazav, the Multifarious
+2 Thought Erasure
+2 Mire Triton
+2 Thief of Sanity
+2 Enter the God-Eternals
+2 Find / Finality
+2 Lazav, the Multifarious
+3 Thought Erasure
+3 Thief of Sanity
+3 Mire Triton
+3 Enter the God-Eternals
+3 Lazav, the Multifarious
+4 Thought Erasure
+4 Thief of Sanity
+4 Lazav, the Multifarious
 1 Blast Zone
+1 Bond of Flourishing
 1 Repudiate / Replicate
 1 Maraleaf Pixie
 1 Vivien, Champion of the Wilds
 1 Castle Garenbrig
 1 Gargos, Vicious Watcher
-2 Bond of Flourishing
 2 Blast Zone
+2 Bond of Flourishing
 2 Repudiate / Replicate
 2 Castle Garenbrig
 2 Gargos, Vicious Watcher
@@ -166,12 +187,12 @@
 4 Bond of Flourishing
 4 Repudiate / Replicate
 4 Kiora, Behemoth Beckoner
+1 Knight of the Ebon Legion
 1 Insatiable Hemophage
 1 Pollywog Symbiote
 1 Boneyard Lurker
 1 Gemrazer
 1 Stonecoil Serpent
-1 Knight of the Ebon Legion
 2 Knight of the Ebon Legion
 2 Insatiable Hemophage
 2 Pollywog Symbiote
@@ -192,24 +213,3 @@
 4 Gemrazer
 4 Stonecoil Serpent
 4 Sea-Dasher Octopus
-1 Vraska, Golgari Queen
-1 Mire Triton
-1 Enter the God-Eternals
-1 Find / Finality
-1 Thief of Sanity
-1 Thought Erasure
-1 Lazav, the Multifarious
-2 Mire Triton
-2 Thief of Sanity
-2 Enter the God-Eternals
-2 Find / Finality
-2 Thought Erasure
-2 Lazav, the Multifarious
-3 Mire Triton
-3 Thief of Sanity
-3 Enter the God-Eternals
-3 Lazav, the Multifarious
-3 Thought Erasure
-4 Thief of Sanity
-4 Lazav, the Multifarious
-4 Thought Erasure

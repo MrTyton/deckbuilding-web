@@ -108,13 +108,13 @@
 2 Reflector Mage
 3 Reflector Mage
 4 Reflector Mage
-1 Archon of Sun's Grace
 1 Silkwrap
 1 Charming Prince
 1 Walking Ballista
 1 Thraben Inspector
 1 Heliod, Sun-Crowned
 1 Temple of Enlightenment
+1 Archon of Sun's Grace
 2 Silkwrap
 2 Temple of Enlightenment
 2 Heliod, Sun-Crowned
@@ -164,30 +164,30 @@
 3 Unbridled Growth
 4 Unbridled Growth
 1 Zagoth Triome
-1 Call of the Death-Dweller
 1 Soul-Guide Lantern
+1 Chevill, Bane of Monsters
 1 Grim Flayer
 1 Mystical Dispute
 1 Abrupt Decay
 1 Dead Weight
 1 Scavenging Ooze
-1 Chevill, Bane of Monsters
 1 Blooming Marsh
+1 Call of the Death-Dweller
 2 Zagoth Triome
+2 Grim Flayer
 2 Soul-Guide Lantern
 2 Chevill, Bane of Monsters
 2 Dead Weight
 2 Blooming Marsh
-2 Grim Flayer
 2 Mystical Dispute
 2 Abrupt Decay
 2 Scavenging Ooze
+3 Grim Flayer
 3 Scavenging Ooze
 3 Hero's Downfall
 3 Blooming Marsh
-3 Grim Flayer
-4 Blooming Marsh
 4 Grim Flayer
+4 Blooming Marsh
 1 Supreme Verdict
 2 Supreme Verdict
 3 Supreme Verdict
@@ -294,10 +294,10 @@
 2 Woodland Cemetery
 2 Siege Rhino
 2 Indatha Triome
+2 Courser of Kruphix
 2 Knight of Autumn
 2 Liliana, the Last Hope
 2 Gilded Goose
-2 Courser of Kruphix
 2 Glass Casket
 2 Brain Maggot
 2 Grisly Salvage
@@ -380,9 +380,9 @@
 2 Phyrexian Revoker
 2 Cloudblazer
 3 Hanged Executioner
+3 Agent of Treachery
 3 Chandra, Acolyte of Flame
 3 Blast Zone
-3 Agent of Treachery
 3 Castle Embereth
 3 Lavinia of the Tenth
 3 Cloudblazer
@@ -434,8 +434,8 @@
 4 Fires of Invention
 4 Gideon of the Trials
 9 Island
-1 Omen of the Hunt
 1 Wolfwillow Haven
+1 Omen of the Hunt
 1 Lumbering Falls
 1 Sea Gate Wreckage
 1 Woodland Bellower
@@ -447,8 +447,8 @@
 1 Yavimaya Coast
 1 Shrine of the Forsaken Gods
 1 Haven of the Spirit Dragon
-2 Omen of the Hunt
 2 Wolfwillow Haven
+2 Omen of the Hunt
 2 Ipnu Rivulet
 2 Ugin, the Spirit Dragon
 2 Castle Garenbrig
@@ -462,8 +462,8 @@
 2 Yavimaya Coast
 3 Wolfwillow Haven
 3 Omen of the Hunt
-3 Ugin, the Spirit Dragon
 3 Castle Garenbrig
+3 Ugin, the Spirit Dragon
 3 Temple of Mystery
 3 Shrine of the Forsaken Gods
 3 Elvish Rejuvenator
@@ -517,9 +517,9 @@
 3 Kunoros, Hound of Athreos
 3 Heart of Kiran
 4 Blood Crypt
-1 Crash Through
 1 Paradise Druid
 1 Warlord's Fury
+1 Crash Through
 1 Ketria Triome
 1 Botanical Sanctum
 1 Spirebluff Canal
@@ -531,9 +531,9 @@
 1 Treasure Cruise
 1 Stomping Ground
 1 Expedite
-2 Crash Through
 2 Paradise Druid
 2 Warlord's Fury
+2 Crash Through
 2 Ketria Triome
 2 Botanical Sanctum
 2 Spirebluff Canal
@@ -553,9 +553,9 @@
 3 Treasure Cruise
 3 Attune with Aether
 3 Aether Hub
+4 Crash Through
 4 Paradise Druid
 4 Botanical Sanctum
-4 Crash Through
 4 Aether Hub
 4 Treasure Cruise
 4 Jeskai Ascendancy
