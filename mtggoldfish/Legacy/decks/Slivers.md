@@ -36,8 +36,8 @@
 |                    4|[Ancient Ziggurat](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=189271) |                    3|[Dismember](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382182)          |
 |                     |                                                                                            |                    3|[Chalice of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442211)|
 |                     |                                                                                            |                    3|[Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)     |
-|                     |                                                                                            |                    1|[Mindbreak Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197532)     |
 |                     |                                                                                            |                    1|[Null Rod](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383034)           |
+|                     |                                                                                            |                    1|[Mindbreak Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197532)     |
 |                     |                                                                                            |                    2|[Mindbreak Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197532)     |
 |                     |                                                                                            |                    2|[Null Rod](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383034)           |
 

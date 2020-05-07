@@ -23,14 +23,14 @@
 3 Call of the Death-Dweller
 3 Mire Triton
 4 Fiend Artisan
+1 Ayara, First of Locthwain
+1 Gray Merchant of Asphodel
 1 Nightmare Shepherd
 1 Midnight Reaper
-1 Gray Merchant of Asphodel
-1 Ayara, First of Locthwain
-2 Midnight Reaper
-2 Nightmare Shepherd
 2 Gray Merchant of Asphodel
 2 Ayara, First of Locthwain
+2 Midnight Reaper
+2 Nightmare Shepherd
 3 Gray Merchant of Asphodel
 4 Gray Merchant of Asphodel
 20 Swamp
@@ -49,8 +49,8 @@
 2 Orzhov Enforcer
 2 Blast Zone
 4 Murderous Rider
-1 Footlight Fiend
 1 Lazotep Reaver
+1 Footlight Fiend
 1 Dead Weight
 2 Footlight Fiend
 2 Dead Weight
@@ -63,10 +63,6 @@
 1 Lurrus of the Dream-Den
 2 Lurrus of the Dream-Den
 3 Lurrus of the Dream-Den
-3 Dead Weight
-3 Footlight Fiend
-4 Dead Weight
-4 Mire Triton
 1 Rankle, Master of Pranks
 1 Yarok's Fenlurker
 1 Erebos's Intervention
@@ -83,6 +79,10 @@
 3 Nightmare Shepherd
 3 Yarok's Fenlurker
 3 Agonizing Remorse
-4 Agonizing Remorse
 4 Yarok's Fenlurker
+4 Agonizing Remorse
 21 Swamp
+3 Dead Weight
+3 Footlight Fiend
+4 Dead Weight
+4 Mire Triton
