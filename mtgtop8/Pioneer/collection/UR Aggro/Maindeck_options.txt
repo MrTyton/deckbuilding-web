@@ -8,8 +8,8 @@
 3 Aether Hub
 3 Springleaf Drum
 3 Mana Confluence
-4 Spire of Industry
 4 Springleaf Drum
+4 Spire of Industry
 4 Aether Hub
 4 Mana Confluence
 1 Emry, Lurker of the Loch
@@ -42,10 +42,10 @@
 1 Wizard's Lightning
 1 Crash Through
 1 Shock
-1 Treasure Cruise
 1 Curious Obsession
 1 Goblin Chainwhirler
 1 Dreadhorde Arcanist
+1 Treasure Cruise
 1 Opt
 2 Light Up the Stage
 2 Wizard's Lightning
@@ -66,10 +66,12 @@
 4 Crash Through
 4 Steam Vents
 4 Opt
-1 Tormod's Crypt
-1 Shadowspear
-1 Key to the City
-3 Metallic Rebuke
+1 Unlicensed Disintegration
+1 Swamp
+2 Unlicensed Disintegration
+2 Swamp
+3 Unlicensed Disintegration
+4 Unlicensed Disintegration
 1 Lightning Strike
 2 Lightning Strike
 2 Emry, Lurker of the Loch
@@ -82,15 +84,15 @@
 1 Heart of Kiran
 1 Bonecrusher Giant
 1 Chandra, Acolyte of Flame
+1 Chandra, Fire Artisan
 1 Oath of Chandra
 1 Nykthos, Shrine to Nyx
 1 Insult / Injury
 1 Izzet Charm
-1 Chandra, Fire Artisan
 2 Torbran, Thane of Red Fell
 2 Izzet Charm
-2 Chandra, Acolyte of Flame
 2 Heart of Kiran
+2 Chandra, Acolyte of Flame
 2 Sulfur Falls
 2 The Royal Scions
 2 Bonecrusher Giant
@@ -107,9 +109,7 @@
 6 Mountain
 7 Mountain
 8 Mountain
-1 Swamp
-1 Unlicensed Disintegration
-2 Swamp
-2 Unlicensed Disintegration
-3 Unlicensed Disintegration
-4 Unlicensed Disintegration
+1 Tormod's Crypt
+1 Shadowspear
+1 Key to the City
+3 Metallic Rebuke

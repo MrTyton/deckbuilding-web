@@ -40,7 +40,6 @@
 1 Castle Embereth
 1 Anax, Hardened in the Forge
 1 Judith, the Scourge Diva
-1 Blood Aspirant
 1 Slaughter-Priest of Mogis
 1 Seraph of the Scales
 1 Chandra, Acolyte of Flame
@@ -50,12 +49,13 @@
 1 Aurelia, Exemplar of Justice
 1 Temple of Abandon
 1 Temple of Enlightenment
-2 Blood Aspirant
+1 Blood Aspirant
 2 Slaughter-Priest of Mogis
 2 Chandra, Acolyte of Flame
+2 Blood Aspirant
 2 Elspeth Conquers Death
-3 Blood Aspirant
 3 Chandra, Acolyte of Flame
+3 Blood Aspirant
 3 Fiend Artisan
 4 Woe Strider
 1 Bastion of Remembrance
@@ -109,38 +109,38 @@
 4 Frostveil Ambush
 4 Go for Blood
 4 Unknown Card
-1 Stormfist Crusader
 1 Venerable Knight
 1 Tournament Grounds
 1 Worthy Knight
-1 Blacklance Paragon
 1 Inspiring Veteran
+1 Blacklance Paragon
+1 Stormfist Crusader
 1 Acclaimed Contender
 1 Fervent Champion
 1 Murderous Rider
 1 Knight of the Ebon Legion
-2 Stormfist Crusader
-2 Blacklance Paragon
 2 Inspiring Veteran
 2 Venerable Knight
 2 Tournament Grounds
 2 Worthy Knight
+2 Blacklance Paragon
 2 Fervent Champion
 2 Murderous Rider
 2 Knight of the Ebon Legion
 2 Acclaimed Contender
-3 Stormfist Crusader
-3 Knight of the Ebon Legion
+2 Stormfist Crusader
 3 Tournament Grounds
 3 Inspiring Veteran
 3 Venerable Knight
+3 Knight of the Ebon Legion
+3 Stormfist Crusader
 3 Acclaimed Contender
 3 Fervent Champion
 4 Dire Tactics
-4 Stormfist Crusader
-4 Knight of the Ebon Legion
 4 Inspiring Veteran
 4 Tournament Grounds
 4 Venerable Knight
+4 Knight of the Ebon Legion
+4 Stormfist Crusader
 4 Acclaimed Contender
 4 Fervent Champion

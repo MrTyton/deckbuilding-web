@@ -7,8 +7,8 @@
 1 Ice-Fang Coatl
 2 Ice-Fang Coatl
 3 Ice-Fang Coatl
-4 Uro, Titan of Nature's Wrath
 4 Ice-Fang Coatl
+4 Uro, Titan of Nature's Wrath
 4 Flooded Strand
 1 Mox Amber
 2 Snow-Covered Forest
@@ -17,8 +17,8 @@
 2 Archmage's Charm
 1 Snow-Covered Mountain
 1 Abundant Growth
-2 Aether Spellbomb
 2 Abundant Growth
+2 Aether Spellbomb
 4 Galvanic Blast
 1 Pyrite Spellbomb
 1 Scrabbling Claws
@@ -57,19 +57,37 @@
 1 Birds of Paradise
 2 Birds of Paradise
 2 Scrabbling Claws
-1 Kinnan, Bonder Prodigy
-1 Restoration Angel
-1 Springleaf Drum
 1 Wall of Blossoms
-2 Restoration Angel
+1 Kinnan, Bonder Prodigy
+1 Springleaf Drum
+1 Restoration Angel
 2 Kinnan, Bonder Prodigy
 2 Springleaf Drum
-3 Restoration Angel
-3 Kinnan, Bonder Prodigy
+2 Restoration Angel
 3 Mox Amber
+3 Kinnan, Bonder Prodigy
 3 Springleaf Drum
+3 Restoration Angel
 4 Kinnan, Bonder Prodigy
 1 Blood Moon
+4 Wrenn and Six
+1 Goblin Engineer
+1 Pithing Needle
+1 Pentad Prism
+1 Damping Sphere
+1 Sacred Foundry
+2 Goblin Engineer
+2 Pentad Prism
+3 Goblin Engineer
+4 Thopter Foundry
+4 Goblin Engineer
+1 Remand
+1 Glass Casket
+2 Teferi, Time Raveler
+2 Remand
+2 Hallowed Fountain
+4 Path to Exile
+7 Snow-Covered Island
 1 Talisman of Dominance
 1 Fatal Push
 1 Drown in the Loch
@@ -80,23 +98,5 @@
 2 Talisman of Dominance
 2 Fatal Push
 2 Thoughtseize
-2 Inquisition of Kozilek
 4 Mystic Sanctuary
-4 Wrenn and Six
-1 Remand
-1 Glass Casket
-2 Teferi, Time Raveler
-2 Remand
-2 Hallowed Fountain
-4 Path to Exile
-7 Snow-Covered Island
-1 Pithing Needle
-1 Pentad Prism
-1 Goblin Engineer
-1 Damping Sphere
-1 Sacred Foundry
-2 Goblin Engineer
-2 Pentad Prism
-3 Goblin Engineer
-4 Goblin Engineer
-4 Thopter Foundry
+2 Inquisition of Kozilek

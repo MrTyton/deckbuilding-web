@@ -39,9 +39,9 @@
 |                     |                                                                                           |                    3|[Generous Gift](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463960)       |
 |                     |                                                                                           |                    1|[Nature's Chant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464159)      |
 |                     |                                                                                           |                    2|[Nature's Chant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464159)      |
-|                     |                                                                                           |                    1|[All Is Dust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397750)         |
-|                     |                                                                                           |                    1|[Declaration in Stone](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409750)|
 |                     |                                                                                           |                    1|[Disenchant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=847)             |
 |                     |                                                                                           |                    2|[Disenchant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=847)             |
 |                     |                                                                                           |                    3|[Thorn of Amethyst](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=140166)   |
+|                     |                                                                                           |                    1|[Declaration in Stone](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409750)|
+|                     |                                                                                           |                    1|[All Is Dust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397750)         |
 

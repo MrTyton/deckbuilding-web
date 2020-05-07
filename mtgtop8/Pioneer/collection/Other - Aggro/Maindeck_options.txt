@@ -47,28 +47,28 @@
 2 Vivien, Arkbow Ranger
 2 Dromoka's Command
 3 Nissa, Voice of Zendikar
-3 Voice of Resurgence
 3 Dromoka's Command
+3 Voice of Resurgence
 4 Nissa, Voice of Zendikar
 1 Courser of Kruphix
 2 Courser of Kruphix
 3 Courser of Kruphix
 1 Gideon's Intervention
 2 Baffling End
+1 Calix, Destiny's Hand
 1 Wolfwillow Haven
 1 Temple of Plenty
-1 Calix, Destiny's Hand
 1 Sigil of the Empty Throne
-1 Setessan Champion
 1 Banishing Light
 1 Sphere of Safety
+1 Setessan Champion
 1 Eidolon of Blossoms
 1 Seal Away
 1 Herald of the Pantheon
 2 Wolfwillow Haven
-2 Setessan Champion
 2 Banishing Light
 2 Herald of the Pantheon
+2 Setessan Champion
 2 Eidolon of Blossoms
 2 Sigil of the Empty Throne
 2 Temple of Plenty
@@ -126,67 +126,67 @@
 2 Mountain
 3 Bonecrusher Giant
 1 Reflector Mage
+1 Agent of Treachery
+1 Hanged Executioner
 1 Castle Embereth
 1 Lavinia of the Tenth
-1 Fire Prophecy
-1 Goblin Instigator
-1 Winota, Joiner of Forces
-1 Cloudblazer
-1 Eldrazi Displacer
-1 Hanged Executioner
-1 Agent of Treachery
 1 Clifftop Retreat
 1 Raugrin Triome
 1 Chandra, Acolyte of Flame
 1 Phyrexian Revoker
+1 Eldrazi Displacer
+1 Cloudblazer
 1 Temple of Triumph
 1 Battlefield Forge
 1 Chained to the Rocks
+1 Winota, Joiner of Forces
+1 Goblin Instigator
+1 Fire Prophecy
 2 Reflector Mage
 2 Castle Embereth
-2 Goblin Instigator
-2 Cloudblazer
-2 Eldrazi Displacer
-2 Fire Prophecy
-2 Winota, Joiner of Forces
-2 Hanged Executioner
 2 Agent of Treachery
+2 Hanged Executioner
 2 Clifftop Retreat
 2 Phyrexian Revoker
 2 Raugrin Triome
 2 Chandra, Acolyte of Flame
 2 Lavinia of the Tenth
+2 Winota, Joiner of Forces
+2 Fire Prophecy
+2 Cloudblazer
 2 Battlefield Forge
+2 Goblin Instigator
 2 Chained to the Rocks
+2 Eldrazi Displacer
 3 Reflector Mage
 3 Raugrin Triome
+3 Hanged Executioner
+3 Chandra, Acolyte of Flame
+3 Blast Zone
+3 Agent of Treachery
+3 Castle Embereth
+3 Fire Prophecy
+3 Clifftop Retreat
 3 Eldrazi Displacer
-3 Goblin Instigator
-3 Phyrexian Revoker
-3 Winota, Joiner of Forces
 3 Cloudblazer
 3 Lavinia of the Tenth
-3 Fire Prophecy
-3 Agent of Treachery
-3 Blast Zone
-3 Chandra, Acolyte of Flame
-3 Hanged Executioner
-3 Castle Embereth
-3 Clifftop Retreat
 3 Chained to the Rocks
+3 Winota, Joiner of Forces
+3 Phyrexian Revoker
 3 Battlefield Forge
+3 Goblin Instigator
 4 Reflector Mage
 4 Raugrin Triome
-4 Winota, Joiner of Forces
-4 Goblin Instigator
-4 Clifftop Retreat
-4 Blast Zone
-4 Fire Prophecy
-4 Agent of Treachery
 4 Hanged Executioner
+4 Agent of Treachery
 4 Castle Embereth
+4 Fire Prophecy
+4 Goblin Instigator
+4 Blast Zone
 4 Chained to the Rocks
+4 Clifftop Retreat
 4 Battlefield Forge
+4 Winota, Joiner of Forces
 1 Thoughtseize
 2 Thoughtseize
 2 Swamp
@@ -262,18 +262,18 @@
 3 Field of Ruin
 3 Traverse the Ulvenwald
 4 Traverse the Ulvenwald
-1 Splendor Mare
 1 Zirda, the Dawnwaker
 1 Duskwatch Recruiter
 1 Gilded Goose
+1 Splendor Mare
 2 Gilded Goose
-2 Splendor Mare
 2 Zirda, the Dawnwaker
+2 Splendor Mare
 2 Duskwatch Recruiter
-3 Duskwatch Recruiter
-3 Splendor Mare
 3 Gilded Goose
 3 Scavenging Ooze
+3 Splendor Mare
+3 Duskwatch Recruiter
 4 Duskwatch Recruiter
 4 Gilded Goose
 1 Starfield Mystic
@@ -292,6 +292,65 @@
 3 Radiant Fountain
 3 Militia Bugler
 4 Militia Bugler
+1 Stonecoil Serpent
+1 Steel Overseer
+2 Stonecoil Serpent
+2 Steel Overseer
+3 Steel Overseer
+2 Mutavault
+1 Bomat Courier
+1 Springleaf Drum
+1 Shrapnel Blast
+1 Gingerbrute
+1 Ensoul Artifact
+1 Spire of Industry
+1 Ornithopter
+1 Ghostfire Blade
+1 Hope of Ghirapur
+1 Metallic Rebuke
+1 Aether Hub
+1 Darksteel Citadel
+1 All That Glitters
+1 Mana Confluence
+2 Mana Confluence
+2 Bomat Courier
+2 Shrapnel Blast
+2 Ensoul Artifact
+2 Springleaf Drum
+2 Darksteel Citadel
+2 Gingerbrute
+2 Spire of Industry
+2 Ghostfire Blade
+2 Hope of Ghirapur
+2 All That Glitters
+2 Aether Hub
+2 Ornithopter
+2 Metallic Rebuke
+3 Stonecoil Serpent
+3 Aether Hub
+3 Mana Confluence
+3 Bomat Courier
+3 Shrapnel Blast
+3 Ensoul Artifact
+3 Spire of Industry
+3 Darksteel Citadel
+3 Springleaf Drum
+3 Gingerbrute
+3 Ghostfire Blade
+3 Ornithopter
+3 All That Glitters
+4 Stonecoil Serpent
+4 Aether Hub
+4 Spire of Industry
+4 Shrapnel Blast
+4 Ensoul Artifact
+4 Bomat Courier
+4 Gingerbrute
+4 Ghostfire Blade
+4 Mana Confluence
+4 Darksteel Citadel
+4 Ornithopter
+4 Springleaf Drum
 1 The Royal Scions
 1 Slip Through Space
 1 Spirebluff Canal
@@ -379,9 +438,9 @@
 4 Uro, Titan of Nature's Wrath
 4 Nissa's Pilgrimage
 4 Arboreal Grazer
-1 Bolas's Citadel
 1 Temple of Silence
 1 Shambling Vent
+1 Bolas's Citadel
 1 Seraph of the Scales
 1 Lyra Dawnbringer
 1 Liliana, Dreadhorde General
@@ -404,11 +463,6 @@
 4 Temple of Silence
 4 Resplendent Angel
 4 Bishop of Wings
-1 Stonecoil Serpent
-1 Steel Overseer
-2 Stonecoil Serpent
-2 Steel Overseer
-3 Steel Overseer
 1 The Ozolith
 1 Metallic Mimic
 1 Evolutionary Leap
@@ -450,60 +504,6 @@
 4 Dreadhorde Butcher
 4 Foreboding Ruins
 4 Bonecrusher Giant
-2 Mutavault
-1 Bomat Courier
-1 Springleaf Drum
-1 Gingerbrute
-1 Spire of Industry
-1 Ornithopter
-1 Ghostfire Blade
-1 Hope of Ghirapur
-1 Metallic Rebuke
-1 Aether Hub
-1 Ensoul Artifact
-1 Darksteel Citadel
-1 Shrapnel Blast
-1 All That Glitters
-1 Mana Confluence
-2 Mana Confluence
-2 Bomat Courier
-2 Darksteel Citadel
-2 Springleaf Drum
-2 Gingerbrute
-2 Spire of Industry
-2 Ornithopter
-2 Hope of Ghirapur
-2 All That Glitters
-2 Aether Hub
-2 Ensoul Artifact
-2 Metallic Rebuke
-2 Ghostfire Blade
-2 Shrapnel Blast
-3 Stonecoil Serpent
-3 Aether Hub
-3 Mana Confluence
-3 Bomat Courier
-3 Darksteel Citadel
-3 Springleaf Drum
-3 Gingerbrute
-3 Ornithopter
-3 Spire of Industry
-3 Ensoul Artifact
-3 Ghostfire Blade
-3 Shrapnel Blast
-3 All That Glitters
-4 Stonecoil Serpent
-4 Aether Hub
-4 Bomat Courier
-4 Darksteel Citadel
-4 Mana Confluence
-4 Gingerbrute
-4 Ornithopter
-4 Ensoul Artifact
-4 Springleaf Drum
-4 Ghostfire Blade
-4 Shrapnel Blast
-4 Spire of Industry
 1 Champion of Dusk
 1 Sorin, Imperious Bloodlord
 1 Dusk Legion Zealot
