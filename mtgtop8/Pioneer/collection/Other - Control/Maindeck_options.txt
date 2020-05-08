@@ -1,8 +1,7 @@
-2 Baffling End
-2 Courser of Kruphix
-2 Nissa, Vastwood Seer
 2 Elspeth Conquers Death
 2 Omen of the Sea
+2 Detention Sphere
+2 Sunpetal Grove
 2 Lumbering Falls
 2 Growth Spiral
 3 Elspeth Conquers Death
@@ -15,6 +14,7 @@
 4 Omen of the Sea
 4 Baffling End
 4 Growth Spiral
+4 Supreme Verdict
 4 Temple Garden
 3 Satyr Wayfinder
 4 Satyr Wayfinder
@@ -46,20 +46,19 @@
 1 Flicker of Fate
 1 Isolated Chapel
 1 Treacherous Blessing
-1 Final Payment
 2 The Birth of Meletis
 2 Isolated Chapel
 2 Doom Foretold
 2 Trial of Ambition
 2 Treacherous Blessing
 2 Demonic Pact
-3 Trial of Ambition
 3 The Birth of Meletis
 3 Shambling Vent
 3 Oath of Kaya
 3 Demonic Pact
 3 Isolated Chapel
 3 Doom Foretold
+3 Trial of Ambition
 3 Treacherous Blessing
 4 The Birth of Meletis
 4 Plains
@@ -79,19 +78,22 @@
 2 Caves of Koilos
 3 Flicker of Fate
 4 Shambling Vent
-4 Oath of Kaya
 4 Isolated Chapel
 4 Flicker of Fate
 4 Trial of Ambition
+1 Final Payment
 1 Starfield of Nyx
-2 Starfield of Nyx
 2 Castle Locthwain
-1 Castle Ardenvale
+3 Caves of Koilos
+3 Elspeth's Nightmare
+4 Oath of Kaya
+2 Starfield of Nyx
+4 Treacherous Blessing
+1 Agonizing Remorse
+2 Agonizing Remorse
 1 Easy Prey
 1 Underworld Connections
 1 Kaya's Wrath
-3 Caves of Koilos
-3 Elspeth's Nightmare
 4 Caves of Koilos
 6 Plains
 1 Mountain
@@ -104,6 +106,9 @@
 3 Blood Crypt
 3 Kroxa, Titan of Death's Hunger
 4 Blood Crypt
+6 Swamp
+1 Concealed Courtyard
+2 Concealed Courtyard
 1 Watery Grave
 2 Dreadbore
 3 Dreadbore
@@ -127,11 +132,10 @@
 3 Discovery / Dispersal
 4 Discovery / Dispersal
 4 Dreadbore
-1 Nissa, Who Shakes the World
 2 Liliana, the Last Hope
 1 Ishkanah, Grafwidow
-1 Questing Beast
 1 Tireless Tracker
+1 Questing Beast
 1 Traverse the Ulvenwald
 1 Abrupt Decay
 1 Overgrown Tomb
@@ -143,29 +147,27 @@
 2 Overgrown Tomb
 3 Blooming Marsh
 4 Blooming Marsh
+2 Gideon of the Trials
+1 Castle Ardenvale
+2 Final Payment
 1 Bonecrusher Giant
 2 Bonecrusher Giant
-1 Agonizing Remorse
-2 Agonizing Remorse
-2 Final Payment
-4 Treacherous Blessing
-1 Irrigated Farmland
-1 Emrakul, the Promised End
 2 Watery Grave
 3 Watery Grave
 4 Watery Grave
+1 Nissa, Who Shakes the World
+1 Emrakul, the Promised End
+1 Irrigated Farmland
 1 Thirst for Meaning
 1 Thought Erasure
 1 Drowned Catacomb
-1 Cast Down
 1 Elspeth, Sun's Champion
-1 Elspeth, Sun's Nemesis
 1 Hero's Downfall
+1 Elspeth, Sun's Nemesis
 1 Search for Azcanta
-1 Concealed Courtyard
 1 Fetid Pools
 1 Narset, Parter of Veils
-2 Concealed Courtyard
+1 Cast Down
 2 Search for Azcanta
 2 Drowned Catacomb
 2 Cast Down
@@ -188,34 +190,29 @@
 2 Tireless Tracker
 3 Traverse the Ulvenwald
 1 Vraska, Golgari Queen
-1 Tamiyo, Collector of Tales
 1 Blast Zone
-1 Field of Ruin
 1 Champion of Wits
 1 Ipnu Rivulet
 1 Stomping Ground
 2 Stomping Ground
 2 Temple of Silence
+1 Kunoros, Hound of Athreos
+2 Kunoros, Hound of Athreos
+3 Kunoros, Hound of Athreos
 1 Mass Manipulation
 4 Teferi, Hero of Dominaria
 1 Cling to Dust
 2 Cling to Dust
 3 Starfield of Nyx
 4 Starfield of Nyx
-6 Swamp
 7 Swamp
 7 Plains
 4 Forest
-2 Nissa, Who Shakes the World
-1 Censor
-1 Castle Vantress
-1 Azorius Charm
-2 Azorius Charm
-3 Azorius Charm
-1 Drown in the Loch
 1 Chart a Course
+1 Drown in the Loch
 1 Yahenni's Expertise
 2 Elspeth, Sun's Nemesis
+1 Tamiyo, Collector of Tales
 1 Hostage Taker
 1 Opulent Palace
 1 Ashiok, Nightmare Muse
@@ -234,21 +231,8 @@
 2 History of Benalia
 2 The Eldest Reborn
 2 Blast Zone
-2 Gideon of the Trials
 3 History of Benalia
 3 Gideon of the Trials
-1 Sphinx's Revelation
-1 Seal Away
-1 Negate
-1 Approach of the Second Sun
-1 Syncopate
-1 Dig Through Time
-1 Sinister Sabotage
-2 Negate
-2 Sinister Sabotage
-2 Dig Through Time
-3 Sinister Sabotage
-3 Sunpetal Grove
 1 Doom Blade
 1 Bedevil
 1 Languish
@@ -298,6 +282,7 @@
 2 Steam Vents
 2 Arboreal Grazer
 2 Ugin, the Spirit Dragon
+2 Nissa, Who Shakes the World
 2 Ipnu Rivulet
 3 Steam Vents
 3 Elder Deep-Fiend
@@ -311,15 +296,18 @@
 4 Kozilek's Return
 4 Arboreal Grazer
 1 Raugrin Triome
+1 Cast Out
 1 Neutralize
 1 Clifftop Retreat
+1 Censor
 1 Shark Typhoon
 1 Nimble Obstructionist
+1 Castle Vantress
 1 Hieroglyphic Illumination
 1 Flourishing Fox
 1 Sulfur Falls
+1 Azorius Charm
 1 Zenith Flare
-1 Cast Out
 2 Raugrin Triome
 2 Cast Out
 2 Neutralize
@@ -327,10 +315,11 @@
 2 Clifftop Retreat
 2 Censor
 2 Nimble Obstructionist
-2 Hieroglyphic Illumination
+2 Azorius Charm
 2 Zenith Flare
 2 Irrigated Farmland
 2 Flourishing Fox
+2 Hieroglyphic Illumination
 2 Sulfur Falls
 3 Censor
 3 Irrigated Farmland
@@ -339,6 +328,7 @@
 3 Neutralize
 3 Hieroglyphic Illumination
 3 Shark Typhoon
+3 Azorius Charm
 3 Zenith Flare
 3 Island
 3 Sulfur Falls
@@ -360,6 +350,7 @@
 1 Assassin's Trophy
 1 Scrapheap Scrounger
 1 Ramunap Excavator
+1 Field of Ruin
 2 Assassin's Trophy
 2 Scavenging Ooze
 2 Field of Ruin

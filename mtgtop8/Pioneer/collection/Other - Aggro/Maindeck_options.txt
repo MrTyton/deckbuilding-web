@@ -1,55 +1,54 @@
-1 Forest
-2 Forest
-3 Forest
-4 Forest
-5 Forest
-1 Sunpetal Grove
-1 Temple Garden
-2 Temple Garden
-2 Sunpetal Grove
-3 Sunpetal Grove
-3 Temple Garden
-4 Temple Garden
-4 Sunpetal Grove
-1 Llanowar Elves
-2 Llanowar Elves
-3 Llanowar Elves
-4 Llanowar Elves
-1 Scavenging Ooze
-1 Elvish Mystic
-1 Fortified Village
-2 Fortified Village
-2 Elvish Mystic
-3 Elvish Mystic
-3 Fortified Village
-4 Elvish Mystic
-4 Fortified Village
-2 Scavenging Ooze
-6 Forest
-1 Voice of Resurgence
-2 Voice of Resurgence
-1 Mystical Dispute
-1 Hangarback Walker
-1 Hardened Scales
-2 Hangarback Walker
-2 Hardened Scales
-3 Hardened Scales
-3 Hangarback Walker
-4 Hardened Scales
-4 Hangarback Walker
-7 Forest
-8 Forest
-9 Forest
-1 Nissa, Voice of Zendikar
-1 Vivien, Arkbow Ranger
-1 Dromoka's Command
-2 Nissa, Voice of Zendikar
-2 Vivien, Arkbow Ranger
-2 Dromoka's Command
-3 Nissa, Voice of Zendikar
-3 Dromoka's Command
 3 Voice of Resurgence
+3 Dromoka's Command
 4 Nissa, Voice of Zendikar
+1 Anafenza, Kin-Tree Spirit
+2 Anafenza, Kin-Tree Spirit
+1 Baffling End
+1 Castle Ardenvale
+1 Daxos, Blessed by the Sun
+2 Daxos, Blessed by the Sun
+1 Nykthos, Shrine to Nyx
+1 Thraben Inspector
+1 Knight of the White Orchid
+2 Castle Ardenvale
+2 Thraben Inspector
+2 Knight of the White Orchid
+3 Thraben Inspector
+3 Knight of the White Orchid
+4 Thraben Inspector
+5 Plains
+6 Plains
+7 Plains
+1 Gideon of the Trials
+2 Gideon of the Trials
+1 Elspeth Conquers Death
+8 Plains
+9 Plains
+1 Stasis Snare
+1 Tomik, Distinguished Advokist
+1 Hallowed Fountain
+2 Hallowed Fountain
+3 Hallowed Fountain
+4 Hallowed Fountain
+1 Gideon, Ally of Zendikar
+1 Irrigated Farmland
+2 Irrigated Farmland
+3 Irrigated Farmland
+4 Irrigated Farmland
+1 Glacial Fortress
+2 Glacial Fortress
+3 Glacial Fortress
+1 Port Town
+1 Teferi, Time Raveler
+1 Spell Queller
+1 Dragonlord Ojutai
+2 Teferi, Time Raveler
+2 Spell Queller
+2 Dragonlord Ojutai
+3 Teferi, Time Raveler
+3 Spell Queller
+4 Knight of the White Orchid
+4 Glacial Fortress
 1 Courser of Kruphix
 2 Courser of Kruphix
 3 Courser of Kruphix
@@ -80,12 +79,12 @@
 3 Setessan Champion
 3 Herald of the Pantheon
 4 Temple of Plenty
+4 Wolfwillow Haven
 4 Courser of Kruphix
 4 Banishing Light
 4 Eidolon of Blossoms
 4 Herald of the Pantheon
 4 Setessan Champion
-4 Wolfwillow Haven
 1 Collected Company
 2 Collected Company
 3 Collected Company
@@ -109,6 +108,12 @@
 2 Fatal Push
 3 Fatal Push
 1 Blast Zone
+1 Island
+1 Clifftop Retreat
+1 Raugrin Triome
+2 Clifftop Retreat
+2 Raugrin Triome
+3 Clifftop Retreat
 1 Steam Vents
 1 Inspiring Vantage
 1 Sacred Foundry
@@ -118,7 +123,6 @@
 3 Sacred Foundry
 4 Steam Vents
 4 Sacred Foundry
-1 Island
 2 Blast Zone
 1 Mountain
 1 Bonecrusher Giant
@@ -130,8 +134,6 @@
 1 Hanged Executioner
 1 Castle Embereth
 1 Lavinia of the Tenth
-1 Clifftop Retreat
-1 Raugrin Triome
 1 Chandra, Acolyte of Flame
 1 Phyrexian Revoker
 1 Eldrazi Displacer
@@ -146,9 +148,7 @@
 2 Castle Embereth
 2 Agent of Treachery
 2 Hanged Executioner
-2 Clifftop Retreat
 2 Phyrexian Revoker
-2 Raugrin Triome
 2 Chandra, Acolyte of Flame
 2 Lavinia of the Tenth
 2 Winota, Joiner of Forces
@@ -160,13 +160,12 @@
 2 Eldrazi Displacer
 3 Reflector Mage
 3 Raugrin Triome
-3 Hanged Executioner
 3 Chandra, Acolyte of Flame
+3 Hanged Executioner
 3 Blast Zone
 3 Agent of Treachery
 3 Castle Embereth
 3 Fire Prophecy
-3 Clifftop Retreat
 3 Eldrazi Displacer
 3 Cloudblazer
 3 Lavinia of the Tenth
@@ -182,9 +181,9 @@
 4 Castle Embereth
 4 Fire Prophecy
 4 Goblin Instigator
+4 Clifftop Retreat
 4 Blast Zone
 4 Chained to the Rocks
-4 Clifftop Retreat
 4 Battlefield Forge
 4 Winota, Joiner of Forces
 1 Thoughtseize
@@ -206,6 +205,7 @@
 2 Archangel Avacyn
 1 Shalai, Voice of Plenty
 3 Swamp
+1 Cast Out
 1 Murderous Rider
 2 Murderous Rider
 3 Blooming Marsh
@@ -240,6 +240,7 @@
 3 Isolated Chapel
 3 Caves of Koilos
 4 Isolated Chapel
+1 Mystical Dispute
 2 Seal Away
 1 Satyr Wayfinder
 2 Satyr Wayfinder
@@ -276,8 +277,49 @@
 3 Duskwatch Recruiter
 4 Duskwatch Recruiter
 4 Gilded Goose
+1 Supreme Verdict
+1 Castle Vantress
+1 Zenith Flare
+1 Azorius Charm
+1 Sulfur Falls
+1 Flourishing Fox
+1 Hieroglyphic Illumination
+1 Shark Typhoon
+1 Censor
+1 Neutralize
+1 Nimble Obstructionist
+2 Sulfur Falls
+2 Hieroglyphic Illumination
+2 Flourishing Fox
+2 Zenith Flare
+2 Azorius Charm
+2 Nimble Obstructionist
+2 Censor
+2 Shark Typhoon
+2 Neutralize
+2 Cast Out
+2 Supreme Verdict
+2 Island
+3 Island
+3 Cast Out
+3 Sulfur Falls
+3 Zenith Flare
+3 Azorius Charm
+3 Shark Typhoon
+3 Hieroglyphic Illumination
+3 Neutralize
+3 Flourishing Fox
+3 Censor
+4 Sulfur Falls
+4 Cast Out
+4 Hieroglyphic Illumination
+4 Azorius Charm
+4 Neutralize
+4 Flourishing Fox
+4 Shark Typhoon
+4 Zenith Flare
+4 Censor
 1 Starfield Mystic
-1 Cast Out
 3 Gideon's Intervention
 4 Gideon's Intervention
 3 Daxos, Blessed by the Sun
@@ -301,30 +343,30 @@
 1 Bomat Courier
 1 Springleaf Drum
 1 Shrapnel Blast
-1 Gingerbrute
+1 Ghostfire Blade
 1 Ensoul Artifact
 1 Spire of Industry
+1 Gingerbrute
 1 Ornithopter
-1 Ghostfire Blade
 1 Hope of Ghirapur
 1 Metallic Rebuke
 1 Aether Hub
 1 Darksteel Citadel
 1 All That Glitters
 1 Mana Confluence
-2 Mana Confluence
 2 Bomat Courier
 2 Shrapnel Blast
 2 Ensoul Artifact
 2 Springleaf Drum
 2 Darksteel Citadel
-2 Gingerbrute
 2 Spire of Industry
 2 Ghostfire Blade
+2 Gingerbrute
 2 Hope of Ghirapur
 2 All That Glitters
 2 Aether Hub
 2 Ornithopter
+2 Mana Confluence
 2 Metallic Rebuke
 3 Stonecoil Serpent
 3 Aether Hub
@@ -335,8 +377,8 @@
 3 Spire of Industry
 3 Darksteel Citadel
 3 Springleaf Drum
-3 Gingerbrute
 3 Ghostfire Blade
+3 Gingerbrute
 3 Ornithopter
 3 All That Glitters
 4 Stonecoil Serpent
@@ -345,9 +387,9 @@
 4 Shrapnel Blast
 4 Ensoul Artifact
 4 Bomat Courier
-4 Gingerbrute
-4 Ghostfire Blade
 4 Mana Confluence
+4 Ghostfire Blade
+4 Gingerbrute
 4 Darksteel Citadel
 4 Ornithopter
 4 Springleaf Drum
@@ -394,6 +436,7 @@
 4 Reckless Rage
 4 Tenth District Legionnaire
 4 Monastery Swiftspear
+1 Growth Spiral
 1 Kiora Bests the Sea God
 1 Hinterland Harbor
 1 Cavalier of Thorns
@@ -405,12 +448,11 @@
 1 Ugin, the Spirit Dragon
 1 Uro, Titan of Nature's Wrath
 1 Yavimaya Coast
-1 Growth Spiral
 1 Nissa's Pilgrimage
 1 Ipnu Rivulet
 1 Breeding Pool
-2 Growth Spiral
 2 Nissa, Who Shakes the World
+2 Growth Spiral
 2 Ugin, the Spirit Dragon
 2 Castle Garenbrig
 2 Cavalier of Thorns
@@ -428,14 +470,14 @@
 3 Ugin, the Spirit Dragon
 3 Uro, Titan of Nature's Wrath
 3 Breeding Pool
+3 Nissa's Pilgrimage
 3 Cavalier of Thorns
 3 Arboreal Grazer
-3 Nissa's Pilgrimage
 3 Castle Garenbrig
 4 Cavalier of Thorns
 4 Ipnu Rivulet
-4 Breeding Pool
 4 Uro, Titan of Nature's Wrath
+4 Breeding Pool
 4 Nissa's Pilgrimage
 4 Arboreal Grazer
 1 Temple of Silence
@@ -480,8 +522,8 @@
 4 Metallic Mimic
 4 Steel Overseer
 4 Llanowar Wastes
-1 Foreboding Ruins
 1 Dreadbore
+1 Foreboding Ruins
 1 Kroxa, Titan of Death's Hunger
 1 Blood Crypt
 1 Chandra, Torch of Defiance
@@ -530,8 +572,8 @@
 3 Mutavault
 4 Dusk Legion Zealot
 4 Sorin, Imperious Bloodlord
-4 Swamp
 4 Knight of the Ebon Legion
+4 Swamp
 4 Mutavault
 5 Swamp
 6 Swamp

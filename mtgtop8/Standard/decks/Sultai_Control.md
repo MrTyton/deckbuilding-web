@@ -131,6 +131,6 @@
 |                    1|[Cry of the Carnarium](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457214)        |                     |                                                                                                  |
 |                    2|[Vraska, Golgari Queen](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452963)       |                     |                                                                                                  |
 |                    2|[Assassin's Trophy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452902)           |                     |                                                                                                  |
-|                    2|[Cry of the Carnarium](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457214)        |                     |                                                                                                  |
 |                    2|[Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)                       |                     |                                                                                                  |
+|                    2|[Cry of the Carnarium](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457214)        |                     |                                                                                                  |
 
