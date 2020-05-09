@@ -40,10 +40,10 @@
 2 Duress
 1 Epic Downfall
 2 Epic Downfall
-1 Heliod's Intervention
-2 Heliod's Intervention
 1 Commence the Endgame
 2 Commence the Endgame
+1 Heliod's Intervention
+2 Heliod's Intervention
 1 Shifting Ceratops
 2 Shifting Ceratops
 2 Thought Distortion
@@ -62,14 +62,6 @@
 1 Heartless Act
 2 Heartless Act
 3 Tolsimir, Friend to Wolves
-1 Mortify
-1 Keruga, the Macrosage
-1 The Wanderer
-1 Neutralize
-2 Mortify
-2 The Wanderer
-2 Neutralize
-3 Mortify
 2 Klothys, God of Destiny
 3 Scorching Dragonfire
 3 Aether Gust
@@ -78,6 +70,14 @@
 2 Cindervines
 3 Cindervines
 3 Disdainful Stroke
+1 Mortify
+1 Keruga, the Macrosage
+1 The Wanderer
+1 Neutralize
+2 Mortify
+2 The Wanderer
+2 Neutralize
+3 Mortify
 3 Kaya, Orzhov Usurper
 4 Mystical Dispute
 4 Cry of the Carnarium
@@ -93,8 +93,8 @@
 3 Return to Nature
 3 Negate
 4 Healer of the Glade
-4 Return to Nature
 4 Negate
+4 Return to Nature
 1 Agent of Treachery
 1 Elspeth Conquers Death
 2 Knight of Autumn

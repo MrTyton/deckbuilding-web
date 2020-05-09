@@ -37,8 +37,8 @@
 3 Lightning Bolt
 4 Lightning Bolt
 3 Inquisition of Kozilek
-1 Nurturing Peatland
 1 Traverse the Ulvenwald
+1 Nurturing Peatland
 2 Traverse the Ulvenwald
 3 Traverse the Ulvenwald
 1 Stomping Ground
@@ -49,19 +49,19 @@
 1 Hex Parasite
 2 Kolaghan's Command
 3 Kroxa, Titan of Death's Hunger
-1 Become Immense
 1 Forest
 1 Wooded Foothills
 1 Mutagenic Growth
 1 Monastery Swiftspear
+1 Become Immense
 2 Become Immense
 2 Wooded Foothills
 2 Mutagenic Growth
 2 Monastery Swiftspear
-3 Mutagenic Growth
 3 Temur Battle Rage
 3 Become Immense
 3 Wooded Foothills
+3 Mutagenic Growth
 3 Monastery Swiftspear
 4 Monastery Swiftspear
 1 Seal of Fire
@@ -85,17 +85,13 @@
 1 Sunbaked Canyon
 2 Sunbaked Canyon
 1 Wrenn and Six
-1 Drannith Magistrate
 1 Scavenging Ooze
 1 Snow-Covered Forest
+1 Drannith Magistrate
 1 Abrupt Decay
 2 Seal of Fire
 2 Wrenn and Six
 3 Nurturing Peatland
-1 Crash Through
-2 Crash Through
-3 Crash Through
-4 Mutagenic Growth
 1 Snow-Covered Mountain
 1 Delver of Secrets
 2 Delver of Secrets
@@ -124,3 +120,7 @@
 3 Stoneforge Mystic
 4 Godless Shrine
 4 Stoneforge Mystic
+1 Crash Through
+2 Crash Through
+3 Crash Through
+4 Mutagenic Growth

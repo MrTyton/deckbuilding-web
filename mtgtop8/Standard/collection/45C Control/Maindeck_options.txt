@@ -83,14 +83,14 @@
 3 Island
 4 Risen Reef
 4 Leafkin Druid
-1 Temple of Epiphany
 1 Arboreal Grazer
-1 Genesis Ultimatum
+1 Temple of Epiphany
 1 Temple of Abandon
+1 Genesis Ultimatum
 2 Genesis Ultimatum
 2 Temple of Epiphany
-2 Temple of Abandon
 2 Arboreal Grazer
+2 Temple of Abandon
 2 Omnath, Locus of the Roil
 3 Genesis Ultimatum
 3 Temple of Epiphany
@@ -170,15 +170,15 @@
 4 Mythos of Illuna
 4 Paradise Druid
 4 Vraska, Golgari Queen
-1 Scampering Scorcher
 1 Thornwood Falls
 1 Cloudkin Seer
+1 Scampering Scorcher
 1 Flicker of Fate
 1 Teferi's Time Twist
 1 Tranquil Cove
 1 Wind-Scarred Crag
-1 Neoform
 1 Meteor Golem
+1 Neoform
 1 Fire Prophecy
 1 Blossoming Sands
 1 Frost Lynx
@@ -186,8 +186,8 @@
 1 Evolving Wilds
 1 Centaur Peacemaker
 1 Rugged Highlands
-2 Scampering Scorcher
 2 Thornwood Falls
+2 Scampering Scorcher
 2 Flicker of Fate
 2 Teferi's Time Twist
 2 Tranquil Cove
@@ -233,6 +233,12 @@
 1 Elspeth, Sun's Nemesis
 1 Soul Diviner
 2 Soul Diviner
+1 Despark
+1 Tyrant's Scorn
+2 Savai Triome
+2 Despark
+2 Solar Blaze
+3 Solar Blaze
 1 Time Wipe
 2 Time Wipe
 3 Overgrown Tomb
@@ -241,12 +247,6 @@
 2 Tale's End
 2 Narset of the Ancient Way
 3 Narset of the Ancient Way
-1 Despark
-1 Tyrant's Scorn
-2 Savai Triome
-2 Despark
-2 Solar Blaze
-3 Solar Blaze
 1 Assassin's Trophy
 1 Temple of Plenty
 1 Polukranos, Unchained

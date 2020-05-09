@@ -54,9 +54,9 @@
 3 Courser of Kruphix
 1 Gideon's Intervention
 2 Baffling End
-1 Calix, Destiny's Hand
 1 Wolfwillow Haven
 1 Temple of Plenty
+1 Calix, Destiny's Hand
 1 Sigil of the Empty Throne
 1 Banishing Light
 1 Sphere of Safety
@@ -161,9 +161,9 @@
 3 Reflector Mage
 3 Raugrin Triome
 3 Chandra, Acolyte of Flame
-3 Hanged Executioner
 3 Blast Zone
 3 Agent of Treachery
+3 Hanged Executioner
 3 Castle Embereth
 3 Fire Prophecy
 3 Eldrazi Displacer
@@ -176,13 +176,13 @@
 3 Goblin Instigator
 4 Reflector Mage
 4 Raugrin Triome
-4 Hanged Executioner
 4 Agent of Treachery
+4 Hanged Executioner
 4 Castle Embereth
+4 Blast Zone
 4 Fire Prophecy
 4 Goblin Instigator
 4 Clifftop Retreat
-4 Blast Zone
 4 Chained to the Rocks
 4 Battlefield Forge
 4 Winota, Joiner of Forces
@@ -263,18 +263,18 @@
 3 Field of Ruin
 3 Traverse the Ulvenwald
 4 Traverse the Ulvenwald
+1 Splendor Mare
 1 Zirda, the Dawnwaker
 1 Duskwatch Recruiter
 1 Gilded Goose
-1 Splendor Mare
 2 Gilded Goose
-2 Zirda, the Dawnwaker
 2 Splendor Mare
+2 Zirda, the Dawnwaker
 2 Duskwatch Recruiter
+3 Duskwatch Recruiter
+3 Splendor Mare
 3 Gilded Goose
 3 Scavenging Ooze
-3 Splendor Mare
-3 Duskwatch Recruiter
 4 Duskwatch Recruiter
 4 Gilded Goose
 1 Supreme Verdict
@@ -307,9 +307,9 @@
 3 Azorius Charm
 3 Shark Typhoon
 3 Hieroglyphic Illumination
-3 Neutralize
 3 Flourishing Fox
 3 Censor
+3 Neutralize
 4 Sulfur Falls
 4 Cast Out
 4 Hieroglyphic Illumination
@@ -341,35 +341,34 @@
 3 Steel Overseer
 2 Mutavault
 1 Bomat Courier
-1 Springleaf Drum
 1 Shrapnel Blast
-1 Ghostfire Blade
 1 Ensoul Artifact
-1 Spire of Industry
+1 Springleaf Drum
 1 Gingerbrute
+1 Spire of Industry
+1 Aether Hub
 1 Ornithopter
+1 Ghostfire Blade
 1 Hope of Ghirapur
 1 Metallic Rebuke
-1 Aether Hub
 1 Darksteel Citadel
 1 All That Glitters
 1 Mana Confluence
 2 Bomat Courier
 2 Shrapnel Blast
 2 Ensoul Artifact
-2 Springleaf Drum
 2 Darksteel Citadel
+2 Springleaf Drum
+2 Gingerbrute
 2 Spire of Industry
 2 Ghostfire Blade
-2 Gingerbrute
-2 Hope of Ghirapur
-2 All That Glitters
 2 Aether Hub
 2 Ornithopter
+2 Hope of Ghirapur
+2 All That Glitters
 2 Mana Confluence
 2 Metallic Rebuke
 3 Stonecoil Serpent
-3 Aether Hub
 3 Mana Confluence
 3 Bomat Courier
 3 Shrapnel Blast
@@ -377,20 +376,21 @@
 3 Spire of Industry
 3 Darksteel Citadel
 3 Springleaf Drum
-3 Ghostfire Blade
 3 Gingerbrute
+3 Ghostfire Blade
 3 Ornithopter
+3 Aether Hub
 3 All That Glitters
 4 Stonecoil Serpent
 4 Aether Hub
 4 Spire of Industry
-4 Shrapnel Blast
 4 Ensoul Artifact
+4 Shrapnel Blast
 4 Bomat Courier
-4 Mana Confluence
-4 Ghostfire Blade
 4 Gingerbrute
+4 Ghostfire Blade
 4 Darksteel Citadel
+4 Mana Confluence
 4 Ornithopter
 4 Springleaf Drum
 1 The Royal Scions

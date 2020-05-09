@@ -1,7 +1,7 @@
 # Doomsday
 
 #### [Export MTGO List](../collection/Doomsday/Doomsday.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=3%09Arcum's%20Astrolabe%0A4%09Brainstorm%0A4%09Dark%20Ritual%0A4%09Doomsday%0A1%09Duress%0A1%09Edge%20of%20Autumn%0A4%09Flooded%20Strand%0A4%09Force%20of%20Will%0A1%09Ideas%20Unbound%0A1%09Lion's%20Eye%20Diamond%0A2%09Lotus%20Petal%0A1%09Marsh%20Flats%0A4%09Polluted%20Delta%0A4%09Ponder%0A1%09Predict%0A4%09Preordain%0A1%09Scrubland%0A3%09Snow-Covered%20Island%0A1%09Snow-Covered%20Swamp%0A1%09Street%20Wraith%0A2%09Teferi,%20Time%20Raveler%0A2%09Thassa's%20Oracle%0A2%09Thoughtseize%0A1%09Tundra%0A2%09Underground%20Sea%0A1%09Veil%20of%20Summer%0A1%09Verdant%20Catacombs&deckside=2%09Abrupt%20Decay%0A2%09Divining%20Witch%0A2%09Flusterstorm%0A2%09Monastery%20Mentor%0A1%09Plague%20Engineer%0A2%09Surgical%20Extraction%0A2%09Swords%20to%20Plowshares%0A2%09Veil%20of%20Summer)
+#### [Print on decklist.org](http://decklist.org/?deckmain=3%09Arcum's%20Astrolabe%0A4%09Brainstorm%0A4%09Dark%20Ritual%0A4%09Doomsday%0A1%09Duress%0A1%09Edge%20of%20Autumn%0A4%09Flooded%20Strand%0A4%09Force%20of%20Will%0A1%09Ideas%20Unbound%0A1%09Lion's%20Eye%20Diamond%0A2%09Lotus%20Petal%0A1%09Marsh%20Flats%0A4%09Polluted%20Delta%0A4%09Ponder%0A1%09Predict%0A4%09Preordain%0A1%09Scrubland%0A3%09Snow-Covered%20Island%0A1%09Snow-Covered%20Swamp%0A1%09Street%20Wraith%0A2%09Teferi,%20Time%20Raveler%0A2%09Thassa's%20Oracle%0A2%09Thoughtseize%0A1%09Tundra%0A2%09Underground%20Sea%0A1%09Veil%20of%20Summer%0A1%09Verdant%20Catacombs&deckside=2%09Abrupt%20Decay%0A1%09Carpet%20of%20Flowers%0A2%09Divining%20Witch%0A2%09Flusterstorm%0A2%09Monastery%20Mentor%0A2%09Surgical%20Extraction%0A2%09Swords%20to%20Plowshares%0A2%09Veil%20of%20Summer)
 # Maindeck
 
 |                                         Artifact (6)                                         |                                        Creature (3)                                        |                                       Instant (14)                                        |                                           Land (18)                                            |                                        Planeswalker (2)                                         |                                       Sorcery (17)                                        |
@@ -19,20 +19,20 @@
 
 # Sideboard
 
-|                                        Creature (5)                                         |                                          Instant (10)                                          |
-|---------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
-|2 [Divining Witch](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=21318)   |2 [Abrupt Decay](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456061)       |
-|2 [Monastery Mentor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391883)|2 [Flusterstorm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=228255)       |
-|1 [Plague Engineer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464049) |2 [Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|
-|                                                                                             |2 [Swords to Plowshares](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=869)  |
-|                                                                                             |2 [Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)     |
+|                                        Creature (4)                                         |                                      Enchantment (1)                                       |                                          Instant (10)                                          |
+|---------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
+|2 [Divining Witch](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=21318)   |1 [Carpet of Flowers](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=5858)|2 [Abrupt Decay](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456061)       |
+|2 [Monastery Mentor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391883)|                                                                                            |2 [Flusterstorm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=228255)       |
+|                                                                                             |                                                                                            |2 [Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|
+|                                                                                             |                                                                                            |2 [Swords to Plowshares](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=869)  |
+|                                                                                             |                                                                                            |2 [Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)     |
 
 
 # Other Options
 
 |*n*<sup>th</sup> copy|                                         Maindeck Card                                         |*n*<sup>th</sup> copy|                                        Sideboard Card                                         |
 |--------------------:|-----------------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------------|
-|                    1|[Misty Rainforest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405102)    |                    1|[Carpet of Flowers](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=5858)     |
+|                    1|[Misty Rainforest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405102)    |                    1|[Plague Engineer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464049)     |
 |                    2|[Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)      |                    2|[Carpet of Flowers](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=5858)     |
 |                    2|[Misty Rainforest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405102)    |                    2|[Plague Engineer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464049)     |
 |                    3|[Misty Rainforest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405102)    |                    3|[Abrupt Decay](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456061)        |
