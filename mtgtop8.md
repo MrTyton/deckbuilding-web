@@ -52,11 +52,11 @@
 |[Artifacts Blue](./mtgtop8/Legacy/decks/Artifacts_Blue.md)|[Dark Depths](./mtgtop8/Legacy/decks/Dark_Depths.md)              |[Goblins](./mtgtop8/Legacy/decks/Goblins.md)              |[Ninja](./mtgtop8/Legacy/decks/Ninja.md)                |[Storm](./mtgtop8/Legacy/decks/Storm.md)                          |
 |[BUG Control](./mtgtop8/Legacy/decks/BUG_Control.md)      |[Death & Taxes](./mtgtop8/Legacy/decks/Death_&_Taxes.md)          |[Grixis Control](./mtgtop8/Legacy/decks/Grixis_Control.md)|[Other - Aggro](./mtgtop8/Legacy/decks/Other_-_Aggro.md)|[UR Delver](./mtgtop8/Legacy/decks/UR_Delver.md)                  |
 |[BUG Midrange](./mtgtop8/Legacy/decks/BUG_Midrange.md)    |[Death's Shadow](./mtgtop8/Legacy/decks/Death's_Shadow.md)        |[Grixis Delver](./mtgtop8/Legacy/decks/Grixis_Delver.md)  |[Other - Combo](./mtgtop8/Legacy/decks/Other_-_Combo.md)|[UWx Control](./mtgtop8/Legacy/decks/UWx_Control.md)              |
-|[Bant Control](./mtgtop8/Legacy/decks/Bant_Control.md)    |[Delver (Other)](./mtgtop8/Legacy/decks/Delver_(Other).md)        |[Hogaak](./mtgtop8/Legacy/decks/Hogaak.md)                |[Painter](./mtgtop8/Legacy/decks/Painter.md)            |[Weenie White](./mtgtop8/Legacy/decks/Weenie_White.md)            |
+|[Bant Control](./mtgtop8/Legacy/decks/Bant_Control.md)    |[Delver (Other)](./mtgtop8/Legacy/decks/Delver_(Other).md)        |[Hogaak](./mtgtop8/Legacy/decks/Hogaak.md)                |[Painter](./mtgtop8/Legacy/decks/Painter.md)            |                                                                  |
 |[Belcher](./mtgtop8/Legacy/decks/Belcher.md)              |[Doomsday](./mtgtop8/Legacy/decks/Doomsday.md)                    |[Infect](./mtgtop8/Legacy/decks/Infect.md)                |[Patriot Aggro](./mtgtop8/Legacy/decks/Patriot_Aggro.md)|                                                                  |
 |[Bomberman](./mtgtop8/Legacy/decks/Bomberman.md)          |[Dragon Stompy](./mtgtop8/Legacy/decks/Dragon_Stompy.md)          |[Lands](./mtgtop8/Legacy/decks/Lands.md)                  |[Reanimator](./mtgtop8/Legacy/decks/Reanimator.md)      |                                                                  |
 |[Burn](./mtgtop8/Legacy/decks/Burn.md)                    |[Dredge](./mtgtop8/Legacy/decks/Dredge.md)                        |[Loam](./mtgtop8/Legacy/decks/Loam.md)                    |[Show and Tell](./mtgtop8/Legacy/decks/Show_and_Tell.md)|                                                                  |
 
 
 
-#### Last Updated at 11:19PM on May 08, 2020
+#### Last Updated at 04:57AM on May 10, 2020

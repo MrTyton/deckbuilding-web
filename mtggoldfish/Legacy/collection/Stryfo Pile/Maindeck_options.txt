@@ -1,49 +1,50 @@
-1 Force of Negation
-2 Cling to Dust
 1 Snow-Covered Island
 1 Snow-Covered Forest
-4 Misty Rainforest
+1 Force of Negation
+2 Cling to Dust
 1 Ice-Fang Coatl
-2 Snow-Covered Forest
 2 Snow-Covered Island
 2 Ice-Fang Coatl
-3 Snow-Covered Forest
-3 Ice-Fang Coatl
-3 Snow-Covered Island
-4 Ice-Fang Coatl
+1 Snow-Covered Swamp
+1 Veil of Summer
+1 Arcum's Astrolabe
+1 Abrupt Decay
+2 Oko, Thief of Crowns
+2 Abrupt Decay
+2 Arcum's Astrolabe
+2 Veil of Summer
+3 Arcum's Astrolabe
+4 Misty Rainforest
 1 Prismatic Vista
 2 Prismatic Vista
-1 Klothys, God of Destiny
-1 Red Elemental Blast
-3 Cling to Dust
-1 Leovold, Emissary of Trest
-1 Gilded Goose
-1 Baleful Strix
-1 Snow-Covered Swamp
-1 Cavern Harpy
-1 Shardless Agent
-1 Aluren
-1 Abrupt Decay
-1 Cauldron Familiar
-2 Oko, Thief of Crowns
-2 Gilded Goose
-2 Baleful Strix
-2 Abrupt Decay
-2 Leovold, Emissary of Trest
-2 Cavern Harpy
-2 Shardless Agent
-2 Aluren
-3 Gilded Goose
+2 Snow-Covered Forest
+3 Ice-Fang Coatl
+3 Snow-Covered Island
+1 Wasteland
+1 Ashiok, Dream Render
+1 Scavenging Ooze
+1 True-Name Nemesis
+1 Volrath's Stronghold
+1 Dead of Winter
+1 Mystic Sanctuary
+2 True-Name Nemesis
+2 Mystic Sanctuary
 3 Oko, Thief of Crowns
-3 Aluren
-3 Cavern Harpy
+3 Drown in the Loch
 3 Abrupt Decay
-4 Aluren
+4 Arcum's Astrolabe
+1 Red Elemental Blast
+1 Klothys, God of Destiny
+1 Baleful Strix
+1 Leovold, Emissary of Trest
+2 Baleful Strix
+2 Plague Engineer
+3 Cling to Dust
 1 Simic Growth Chamber
 1 Growth Spiral
 1 Field of the Dead
 1 Show and Tell
-1 Breeding Pool
+1 Azorius Chancery
 1 Exploration
 1 Drop of Honey
 1 Golgari Rot Farm
@@ -51,21 +52,20 @@
 1 Windswept Heath
 1 Cavern of Souls
 1 Stifle
-1 Azorius Chancery
+1 Breeding Pool
 1 Waterlogged Grove
 1 Primeval Titan
 1 Maze of Ith
 1 Life from the Loam
-1 Wasteland
 2 Simic Growth Chamber
 2 Growth Spiral
 2 Field of the Dead
 2 Drop of Honey
+2 Exploration
 2 Stifle
 2 Primeval Titan
 2 Show and Tell
 2 Cavern of Souls
-2 Exploration
 3 Growth Spiral
 3 Primeval Titan
 3 Exploration
@@ -79,11 +79,11 @@
 1 Taiga
 1 Xantid Swarm
 1 Misthollow Griffin
+1 Chrome Mox
 1 Manipulate Fate
 1 Scalding Tarn
 1 Purphoros, God of the Forge
 1 Wooded Foothills
-1 Chrome Mox
 1 Food Chain
 2 Watcher for Tomorrow
 2 Xantid Swarm
@@ -94,6 +94,7 @@
 2 Misthollow Griffin
 2 Manipulate Fate
 2 Chrome Mox
+3 Snow-Covered Forest
 3 Food Chain
 3 Scalding Tarn
 3 Watcher for Tomorrow
@@ -101,6 +102,7 @@
 3 Manipulate Fate
 3 Chrome Mox
 4 Snow-Covered Island
+4 Ice-Fang Coatl
 4 Watcher for Tomorrow
 4 Misthollow Griffin
 4 Food Chain

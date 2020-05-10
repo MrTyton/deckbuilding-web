@@ -1,9 +1,3 @@
-3 Arid Mesa
-3 Ghor-Clan Rampager
-2 Klothys, God of Destiny
-2 Temple Garden
-3 Tarmogoyf
-4 Tarmogoyf
 1 Goblin Bushwhacker
 1 Legion Loyalist
 2 Legion Loyalist
@@ -11,20 +5,22 @@
 3 Goblin Bushwhacker
 4 Goblin Bushwhacker
 1 Snow-Covered Forest
-2 Stomping Ground
-1 Waterlogged Grove
+3 Arid Mesa
+3 Ghor-Clan Rampager
+1 Zhur-Taa Goblin
 1 Domri, Anarch of Bolas
 1 Nurturing Peatland
 1 Robber of the Rich
-1 Zhur-Taa Goblin
 1 Bloodstained Mire
 1 Slaughterhorn
+1 Waterlogged Grove
 1 Copperline Gorge
+2 Zhur-Taa Goblin
 2 Domri, Anarch of Bolas
 2 Robber of the Rich
 2 Copperline Gorge
+2 Stomping Ground
 2 Bloodstained Mire
-2 Zhur-Taa Goblin
 2 Slaughterhorn
 3 Robber of the Rich
 3 Copperline Gorge
@@ -34,11 +30,12 @@
 4 Copperline Gorge
 4 Stomping Ground
 4 Bloodstained Mire
+2 Klothys, God of Destiny
 2 Mountain
 3 Mountain
 3 Legion Loyalist
-4 Legion Loyalist
 4 Mountain
+4 Legion Loyalist
 5 Mountain
 6 Mountain
 7 Mountain
@@ -51,10 +48,12 @@
 14 Mountain
 15 Mountain
 1 Mishra's Bauble
+2 Temple Garden
 2 Mishra's Bauble
 3 Mishra's Bauble
+3 Tarmogoyf
+4 Tarmogoyf
 4 Mishra's Bauble
-1 Scavenging Ooze
 1 Hexdrinker
 1 Light Up the Stage
 1 Foundry Street Denizen
@@ -71,11 +70,8 @@
 4 Foundry Street Denizen
 4 Fanatical Firebrand
 1 Snow-Covered Mountain
+1 Scavenging Ooze
 1 Seal of Fire
-1 Pillar of Flame
-2 Sacred Foundry
-2 Scavenging Ooze
-2 Pillar of Flame
 1 Castle Embereth
 1 Signal Pest
 1 Ornithopter
