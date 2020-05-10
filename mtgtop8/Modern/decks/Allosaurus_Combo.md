@@ -31,8 +31,8 @@
 
 |*n*<sup>th</sup> copy|                                        Maindeck Card                                         |*n*<sup>th</sup> copy|                                       Sideboard Card                                       |
 |--------------------:|----------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------|
-|                    1|[Safewright Quest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=142038)   |                    1|[Eladamri's Call](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442192)  |
-|                    1|[Mana Confluence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409573)    |                    1|[Abrupt Decay](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456061)     |
+|                    1|[Safewright Quest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=142038)   |                    1|[Abrupt Decay](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456061)     |
+|                    1|[Mana Confluence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409573)    |                    1|[Eladamri's Call](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442192)  |
 |                    1|[Temple Garden](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405112)      |                    1|[Neoform](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461133)          |
 |                    1|[Snow-Covered Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121192)|                    1|[Nature's Claim](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382316)   |
 |                    1|[Breeding Pool](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=97088)       |                    1|[Guttural Response](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426628)|

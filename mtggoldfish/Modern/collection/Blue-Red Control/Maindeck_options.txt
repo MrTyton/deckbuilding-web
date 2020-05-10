@@ -19,8 +19,8 @@
 8 Island
 1 Logic Knot
 2 Jace, the Mind Sculptor
-1 Snow-Covered Island
 1 Snow-Covered Mountain
+1 Snow-Covered Island
 2 Snow-Covered Island
 2 Misty Rainforest
 3 Snow-Covered Island
@@ -35,34 +35,34 @@
 4 Snow-Covered Island
 5 Snow-Covered Island
 1 Thought Scour
+1 Arclight Phoenix
+1 Manamorphose
 1 Chart a Course
 1 Pyromancer Ascension
-1 Manamorphose
-1 Arclight Phoenix
 2 Thought Scour
 2 Arclight Phoenix
+2 Manamorphose
 2 Pyromancer Ascension
 2 Spirebluff Canal
-2 Manamorphose
 3 Thought Scour
-3 Manamorphose
 3 Arclight Phoenix
+3 Manamorphose
 3 Spirebluff Canal
 4 Thought Scour
+4 Arclight Phoenix
 4 Manamorphose
 4 Spirebluff Canal
-4 Arclight Phoenix
 3 Misty Rainforest
 4 Misty Rainforest
 1 Narset, Parter of Veils
 1 Arid Mesa
 1 Field of Ruin
 1 Cascade Bluffs
-1 Arcum's Astrolabe
 1 Chandra, Torch of Defiance
 1 Electrolyze
 1 Magma Jet
 1 Spell Pierce
+1 Arcum's Astrolabe
 2 Arcum's Astrolabe
 2 Spell Pierce
 3 Arcum's Astrolabe
@@ -70,33 +70,9 @@
 1 Wandering Fumarole
 3 Mana Leak
 3 Sulfur Falls
-1 Stoneforge Mystic
-1 Batterskull
-1 Raugrin Triome
-1 Hallowed Fountain
-1 Sword of Feast and Famine
-1 Lightning Helix
-1 Teferi, Time Raveler
-1 Sacred Foundry
-1 Inspired Ultimatum
-1 Vendilion Clique
-1 Plains
-1 Path to Exile
-1 Celestial Colonnade
-2 Stoneforge Mystic
-2 Hallowed Fountain
-2 Vendilion Clique
-2 Celestial Colonnade
-2 Path to Exile
-2 Lightning Helix
-3 Stoneforge Mystic
-3 Celestial Colonnade
-4 Stoneforge Mystic
-3 Bonecrusher Giant
-4 Bonecrusher Giant
 1 Wrenn and Six
-1 Ketria Triome
 1 Blast Zone
+1 Ketria Triome
 1 Search for Azcanta
 1 Pulse of Murasa
 1 Snow-Covered Forest
@@ -105,16 +81,18 @@
 1 Breeding Pool
 1 Nexus of Fate
 2 Narset, Parter of Veils
-2 Ketria Triome
 2 Wrenn and Six
 2 Uro, Titan of Nature's Wrath
 2 Breeding Pool
 2 Wilderness Reclamation
+2 Ketria Triome
 3 Wrenn and Six
 3 Narset, Parter of Veils
 3 Wilderness Reclamation
-4 Wrenn and Six
 4 Cryptic Command
+4 Wrenn and Six
+3 Bonecrusher Giant
+4 Bonecrusher Giant
 1 Noxious Revival
 1 Izzet Charm
 1 Lightning Axe
@@ -141,9 +119,31 @@
 3 Chart a Course
 4 Pyromancer Ascension
 4 Chart a Course
+1 Raugrin Triome
+1 Vendilion Clique
+1 Lightning Helix
+1 Teferi, Time Raveler
+1 Hallowed Fountain
+1 Sacred Foundry
+1 Inspired Ultimatum
+1 Sword of Feast and Famine
+1 Batterskull
+1 Stoneforge Mystic
+1 Plains
+1 Path to Exile
+1 Celestial Colonnade
+2 Hallowed Fountain
+2 Path to Exile
+2 Vendilion Clique
+2 Celestial Colonnade
+2 Stoneforge Mystic
+2 Lightning Helix
+3 Celestial Colonnade
+3 Stoneforge Mystic
+4 Stoneforge Mystic
 1 Omen of the Sea
-1 Through the Breach
 1 Fire Prophecy
+1 Through the Breach
 1 Emrakul, the Aeons Torn
 2 Omen of the Sea
 2 Through the Breach

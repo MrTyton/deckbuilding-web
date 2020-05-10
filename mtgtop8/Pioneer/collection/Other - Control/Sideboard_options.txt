@@ -54,15 +54,15 @@
 1 Tireless Tracker
 1 Kozilek's Return
 2 Kozilek's Return
-1 Abrupt Decay
-1 The Scarab God
-2 Languish
 1 Agonizing Remorse
 1 Magma Spray
 1 Abrade
 1 By Force
 1 Chandra, Acolyte of Flame
 2 Chandra, Acolyte of Flame
+1 Abrupt Decay
+1 The Scarab God
+2 Languish
 1 Cling to Dust
 1 Elspeth's Nightmare
 2 Elspeth's Nightmare
@@ -73,17 +73,6 @@
 2 Ashiok, Dream Render
 2 Blightbeetle
 3 Blightbeetle
-1 Jace's Defeat
-1 Liliana's Triumph
-1 Soul-Guide Lantern
-1 Disdainful Stroke
-1 Lurrus of the Dream-Den
-1 Dead Weight
-2 Liliana's Triumph
-2 Disdainful Stroke
-2 Jace's Defeat
-2 Dead Weight
-3 Liliana's Triumph
 1 Grafdigger's Cage
 2 Grafdigger's Cage
 3 Grafdigger's Cage
@@ -100,6 +89,12 @@
 2 Brazen Borrower
 3 Aether Gust
 3 Unravel the Aether
+1 Elspeth, Sun's Nemesis
+1 Cry of the Carnarium
+1 Spell Queller
+2 Dream Trawler
+2 Spell Queller
+3 Spell Queller
 1 Pack Rat
 1 Infinite Obliteration
 1 Gideon of the Trials
@@ -107,9 +102,14 @@
 2 Infinite Obliteration
 4 Leyline of the Void
 4 Kaya's Wrath
-1 Cry of the Carnarium
-1 Elspeth, Sun's Nemesis
-1 Spell Queller
-2 Dream Trawler
-2 Spell Queller
-3 Spell Queller
+1 Jace's Defeat
+1 Liliana's Triumph
+1 Soul-Guide Lantern
+1 Disdainful Stroke
+1 Lurrus of the Dream-Den
+1 Dead Weight
+2 Liliana's Triumph
+2 Disdainful Stroke
+2 Jace's Defeat
+2 Dead Weight
+3 Liliana's Triumph

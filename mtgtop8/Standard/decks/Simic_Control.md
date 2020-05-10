@@ -54,7 +54,7 @@
 |                    3|[Wolfwillow Haven](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476456)           |                     |                                                                                            |
 |                    4|[Nissa, Who Shakes the World](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461096)|                     |                                                                                            |
 |                    2|[Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)           |                     |                                                                                            |
-|                    3|[Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)           |                     |                                                                                            |
-|                    4|[Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)           |                     |                                                                                            |
 |                    4|[Fabled Passage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473206)             |                     |                                                                                            |
+|                    4|[Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)           |                     |                                                                                            |
+|                    3|[Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)           |                     |                                                                                            |
 

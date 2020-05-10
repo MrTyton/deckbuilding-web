@@ -1,5 +1,5 @@
-3 Voice of Resurgence
 3 Dromoka's Command
+3 Voice of Resurgence
 4 Nissa, Voice of Zendikar
 1 Swamp
 1 Fatal Push
@@ -121,13 +121,13 @@
 1 Agent of Treachery
 1 Castle Embereth
 1 Lavinia of the Tenth
-1 Goblin Instigator
 1 Fire Prophecy
-1 Winota, Joiner of Forces
+1 Goblin Instigator
 1 Cloudblazer
+1 Winota, Joiner of Forces
 1 Eldrazi Displacer
-1 Hanged Executioner
 1 Phyrexian Revoker
+1 Hanged Executioner
 1 Chandra, Acolyte of Flame
 1 Temple of Triumph
 1 Battlefield Forge
@@ -137,10 +137,10 @@
 2 Agent of Treachery
 2 Cloudblazer
 2 Lavinia of the Tenth
+2 Eldrazi Displacer
 2 Goblin Instigator
 2 Fire Prophecy
 2 Winota, Joiner of Forces
-2 Eldrazi Displacer
 2 Hanged Executioner
 2 Phyrexian Revoker
 2 Chandra, Acolyte of Flame
@@ -149,12 +149,12 @@
 3 Reflector Mage
 3 Raugrin Triome
 3 Agent of Treachery
-3 Phyrexian Revoker
-3 Goblin Instigator
-3 Winota, Joiner of Forces
-3 Lavinia of the Tenth
-3 Cloudblazer
 3 Eldrazi Displacer
+3 Goblin Instigator
+3 Phyrexian Revoker
+3 Winota, Joiner of Forces
+3 Cloudblazer
+3 Lavinia of the Tenth
 3 Fire Prophecy
 3 Hanged Executioner
 3 Chandra, Acolyte of Flame
@@ -166,8 +166,8 @@
 4 Raugrin Triome
 4 Agent of Treachery
 4 Winota, Joiner of Forces
-4 Clifftop Retreat
 4 Goblin Instigator
+4 Clifftop Retreat
 4 Fire Prophecy
 4 Blast Zone
 4 Hanged Executioner
@@ -305,40 +305,65 @@
 4 Shark Typhoon
 4 Zenith Flare
 4 Censor
-1 Wolfwillow Haven
-1 Setessan Champion
-1 Temple of Plenty
-1 Starfield Mystic
-1 Sigil of the Empty Throne
-1 Calix, Destiny's Hand
-1 Banishing Light
-1 Sphere of Safety
-1 Eidolon of Blossoms
-1 Seal Away
-1 Herald of the Pantheon
-2 Wolfwillow Haven
-2 Setessan Champion
-2 Banishing Light
-2 Herald of the Pantheon
-2 Eidolon of Blossoms
-2 Sigil of the Empty Throne
-2 Temple of Plenty
-2 Sphere of Safety
-3 Temple of Plenty
-3 Setessan Champion
-3 Wolfwillow Haven
-3 Banishing Light
-3 Gideon's Intervention
-3 Eidolon of Blossoms
-3 Herald of the Pantheon
-4 Temple of Plenty
-4 Wolfwillow Haven
-4 Setessan Champion
-4 Courser of Kruphix
-4 Banishing Light
-4 Gideon's Intervention
-4 Eidolon of Blossoms
-4 Herald of the Pantheon
+1 Steel Overseer
+1 Stonecoil Serpent
+2 Stonecoil Serpent
+2 Steel Overseer
+3 Steel Overseer
+2 Mutavault
+1 Bomat Courier
+1 Springleaf Drum
+1 Ensoul Artifact
+1 Shrapnel Blast
+1 Spire of Industry
+1 Ghostfire Blade
+1 Aether Hub
+1 Gingerbrute
+1 Ornithopter
+1 Hope of Ghirapur
+1 Metallic Rebuke
+1 Darksteel Citadel
+1 All That Glitters
+1 Mana Confluence
+2 Bomat Courier
+2 Shrapnel Blast
+2 Ensoul Artifact
+2 Springleaf Drum
+2 Darksteel Citadel
+2 Spire of Industry
+2 Ghostfire Blade
+2 Gingerbrute
+2 Aether Hub
+2 Ornithopter
+2 Hope of Ghirapur
+2 All That Glitters
+2 Mana Confluence
+2 Metallic Rebuke
+3 Stonecoil Serpent
+3 Mana Confluence
+3 Bomat Courier
+3 Shrapnel Blast
+3 Ensoul Artifact
+3 Spire of Industry
+3 Darksteel Citadel
+3 Springleaf Drum
+3 Ornithopter
+3 Ghostfire Blade
+3 Gingerbrute
+3 Aether Hub
+3 All That Glitters
+4 Stonecoil Serpent
+4 Aether Hub
+4 Spire of Industry
+4 Ensoul Artifact
+4 Shrapnel Blast
+4 Bomat Courier
+4 Springleaf Drum
+4 Ghostfire Blade
+4 Darksteel Citadel
+4 Mana Confluence
+4 Gingerbrute
+4 Ornithopter
 1 Port Town
 1 Teferi, Time Raveler
 1 Spell Queller
@@ -352,65 +377,6 @@
 4 Knight of the White Orchid
 4 Spell Queller
 4 Glacial Fortress
-1 Steel Overseer
-1 Stonecoil Serpent
-2 Stonecoil Serpent
-2 Steel Overseer
-3 Steel Overseer
-2 Mutavault
-1 Bomat Courier
-1 Shrapnel Blast
-1 Ensoul Artifact
-1 Springleaf Drum
-1 Gingerbrute
-1 Spire of Industry
-1 Aether Hub
-1 Ghostfire Blade
-1 Ornithopter
-1 Hope of Ghirapur
-1 Metallic Rebuke
-1 Darksteel Citadel
-1 All That Glitters
-1 Mana Confluence
-2 Bomat Courier
-2 Shrapnel Blast
-2 Ensoul Artifact
-2 Darksteel Citadel
-2 Springleaf Drum
-2 Spire of Industry
-2 Gingerbrute
-2 Ghostfire Blade
-2 Aether Hub
-2 Ornithopter
-2 Hope of Ghirapur
-2 All That Glitters
-2 Mana Confluence
-2 Metallic Rebuke
-3 Stonecoil Serpent
-3 Mana Confluence
-3 Shrapnel Blast
-3 Ensoul Artifact
-3 Bomat Courier
-3 Spire of Industry
-3 Darksteel Citadel
-3 Springleaf Drum
-3 Gingerbrute
-3 Ghostfire Blade
-3 Ornithopter
-3 Aether Hub
-3 All That Glitters
-4 Stonecoil Serpent
-4 Aether Hub
-4 Spire of Industry
-4 Shrapnel Blast
-4 Ensoul Artifact
-4 Bomat Courier
-4 Gingerbrute
-4 Ghostfire Blade
-4 Darksteel Citadel
-4 Mana Confluence
-4 Ornithopter
-4 Springleaf Drum
 1 Shared Summons
 1 Bygone Bishop
 1 Militia Bugler
@@ -435,8 +401,8 @@
 1 Tenth District Legionnaire
 1 Monastery Swiftspear
 2 The Royal Scions
-2 Defiant Strike
 2 Faerie Vandal
+2 Defiant Strike
 2 Favored Hoplite
 2 Gods Willing
 2 Staggering Insight
@@ -445,27 +411,27 @@
 2 Monastery Swiftspear
 2 Reckless Rage
 2 Inspiring Vantage
+3 Faerie Vandal
 3 The Royal Scions
 3 Defiant Strike
-3 Faerie Vandal
 3 Favored Hoplite
-3 Staggering Insight
 3 Gods Willing
+3 Staggering Insight
 3 Curious Obsession
 3 Inspiring Vantage
 3 Reckless Rage
 3 Monastery Swiftspear
 3 Tenth District Legionnaire
 4 Favored Hoplite
-4 Curious Obsession
-4 Defiant Strike
-4 Staggering Insight
 4 Gods Willing
+4 Defiant Strike
+4 Curious Obsession
+4 Staggering Insight
 4 Reckless Rage
 4 Tenth District Legionnaire
 4 Monastery Swiftspear
-1 Growth Spiral
 1 Kiora Bests the Sea God
+1 Growth Spiral
 1 Cavalier of Thorns
 1 Hinterland Harbor
 1 Castle Garenbrig
@@ -550,34 +516,68 @@
 4 Metallic Mimic
 4 Steel Overseer
 4 Llanowar Wastes
+1 Wolfwillow Haven
+1 Temple of Plenty
+1 Calix, Destiny's Hand
+1 Starfield Mystic
+1 Sigil of the Empty Throne
+1 Banishing Light
+1 Sphere of Safety
+1 Setessan Champion
+1 Eidolon of Blossoms
+1 Seal Away
+1 Herald of the Pantheon
+2 Wolfwillow Haven
+2 Banishing Light
+2 Herald of the Pantheon
+2 Setessan Champion
+2 Eidolon of Blossoms
+2 Sigil of the Empty Throne
+2 Temple of Plenty
+2 Sphere of Safety
+3 Temple of Plenty
+3 Wolfwillow Haven
+3 Banishing Light
+3 Gideon's Intervention
+3 Eidolon of Blossoms
+3 Setessan Champion
+3 Herald of the Pantheon
+4 Temple of Plenty
+4 Wolfwillow Haven
+4 Banishing Light
+4 Courser of Kruphix
+4 Gideon's Intervention
+4 Eidolon of Blossoms
+4 Herald of the Pantheon
+4 Setessan Champion
 1 Foreboding Ruins
 1 Chandra, Torch of Defiance
 1 Glorybringer
 1 Dreadhorde Butcher
+2 Dreadhorde Butcher
 2 Glorybringer
 2 Foreboding Ruins
 2 Vraska, Golgari Queen
-2 Dreadhorde Butcher
+3 Dreadhorde Butcher
 3 Tireless Tracker
 3 Foreboding Ruins
-3 Dreadhorde Butcher
-4 Tireless Tracker
 4 Dreadhorde Butcher
+4 Tireless Tracker
 4 Foreboding Ruins
 4 Bonecrusher Giant
 1 Champion of Dusk
 1 Sorin, Imperious Bloodlord
 1 Dusk Legion Zealot
 1 Blood Baron of Vizkopa
-1 Gifted Aetherborn
 1 Kaya, Orzhov Usurper
+1 Gifted Aetherborn
 1 Oathsworn Vampire
 1 Knight of the Ebon Legion
 2 Sorin, Imperious Bloodlord
 2 Champion of Dusk
 2 Dusk Legion Zealot
-2 Kaya, Orzhov Usurper
 2 Gifted Aetherborn
+2 Kaya, Orzhov Usurper
 2 Blood Baron of Vizkopa
 2 Knight of the Ebon Legion
 2 Oathsworn Vampire
