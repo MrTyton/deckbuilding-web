@@ -31,8 +31,8 @@
 
 |*n*<sup>th</sup> copy|                                        Maindeck Card                                         |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
 |--------------------:|----------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
-|                    1|[Pashalik Mons](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464087)      |                    1|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)     |
-|                    1|[Frogtosser Banneret](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=152587)|                    1|[Goblin Trashmaster](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447280) |
+|                    1|[Pashalik Mons](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464087)      |                    1|[Goblin Trashmaster](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447280) |
+|                    1|[Frogtosser Banneret](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=152587)|                    1|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)     |
 |                    2|[Ancient Ziggurat](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=189271)   |                    2|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)     |
 |                    1|[Arid Mesa](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405092)          |                    1|[Ravenous Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197537)      |
 |                    1|[Goblin Cratermaker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452853) |                    2|[Ravenous Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197537)      |

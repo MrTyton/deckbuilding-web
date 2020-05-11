@@ -75,7 +75,7 @@
 |                    4|[Abrupt Decay](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456061)                |                    1|Extinction Event                                                                                     |
 |                    4|[Frilled Mystic](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457318)              |                    2|Extinction Event                                                                                     |
 |                    3|[Grisly Salvage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405253)              |                    2|Barrier Breach                                                                                       |
+|                    3|[Tireless Tracker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409997)            |                     |                                                                                                     |
 |                    4|[Grisly Salvage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405253)              |                     |                                                                                                     |
 |                    4|[Tireless Tracker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409997)            |                     |                                                                                                     |
-|                    3|[Tireless Tracker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409997)            |                     |                                                                                                     |
 

@@ -41,7 +41,6 @@
 |                    3|[Omen of the Sea](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476309)        |                     |              |
 |                    3|[Hallowed Fountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=97071)       |                     |              |
 |                    3|[Elspeth Conquers Death](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476264) |                     |              |
-|                    4|[Elspeth Conquers Death](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476264) |                     |              |
 |                    4|[Teferi, Time Raveler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461148)   |                     |              |
 |                    4|[Narset, Parter of Veils](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460988)|                     |              |
 |                    4|[The Birth of Meletis](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476256)   |                     |              |
@@ -50,6 +49,7 @@
 |                    4|[Hallowed Fountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=97071)       |                     |              |
 |                    4|Raugrin Triome                                                                                    |                     |              |
 |                    4|[Omen of the Sea](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476309)        |                     |              |
+|                    4|[Elspeth Conquers Death](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476264) |                     |              |
 |                    4|[Steam Vents](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405109)            |                     |              |
 |                    4|[Sacred Foundry](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405106)         |                     |              |
 

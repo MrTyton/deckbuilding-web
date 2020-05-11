@@ -10,6 +10,7 @@
 1 Grove of the Burnwillows
 1 Noble Hierarch
 1 Domri, Anarch of Bolas
+1 Stomping Ground
 1 Kessig Wolf Run
 1 Smuggler's Copter
 1 Gruul Spellbreaker
@@ -22,7 +23,6 @@
 1 Lightning Bolt
 1 Karplusan Forest
 1 Forest
-1 Stomping Ground
 2 Wooded Foothills
 2 Grove of the Burnwillows
 2 Noble Hierarch
@@ -65,8 +65,6 @@
 2 Gemstone Caverns
 2 Simian Spirit Guide
 2 Ghost Quarter
-1 Spatial Contortion
-2 Karn Liberated
 1 Ugin, the Spirit Dragon
 3 Blast Zone
 3 Mind Stone
@@ -75,5 +73,7 @@
 1 Elvish Mystic
 2 Elvish Mystic
 3 Smuggler's Copter
-4 Grove of the Burnwillows
 4 Bloodbraid Elf
+4 Grove of the Burnwillows
+1 Spatial Contortion
+2 Karn Liberated

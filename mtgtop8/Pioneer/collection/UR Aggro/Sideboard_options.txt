@@ -1,16 +1,5 @@
 2 Aethersphere Harvester
 1 Stubborn Denial
-1 Damping Sphere
-1 Thoughtseize
-2 Thoughtseize
-3 Thoughtseize
-4 Thoughtseize
-1 Fatal Push
-2 Fatal Push
-3 Fatal Push
-4 Fatal Push
-1 Hangarback Walker
-2 Stubborn Denial
 1 Disdainful Stroke
 1 Spell Pierce
 2 Abrade
@@ -22,15 +11,26 @@
 2 Spell Pierce
 2 Reckless Rage
 1 Sorcerous Spyglass
-2 Hangarback Walker
+2 Stubborn Denial
+1 Damping Sphere
+1 Thoughtseize
+2 Thoughtseize
+3 Thoughtseize
+4 Thoughtseize
+1 Hangarback Walker
+1 Fatal Push
+2 Fatal Push
+3 Fatal Push
+4 Fatal Push
 1 Lurrus of the Dream-Den
 2 Damping Sphere
 1 Lava Coil
-1 Pithing Needle
-1 Dive Down
 1 Legion's End
 1 Hope of Ghirapur
 2 Hope of Ghirapur
+1 Pithing Needle
+1 Dive Down
+2 Hangarback Walker
 1 The Akroan War
 1 Anger of the Gods
 1 Chandra's Triumph
@@ -38,8 +38,6 @@
 2 Sorcerous Spyglass
 2 The Akroan War
 2 Chandra's Triumph
-1 Metallic Rebuke
-2 Metallic Rebuke
 3 Scab-Clan Berserker
 1 Ratchet Bomb
 1 Soul-Guide Lantern
