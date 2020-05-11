@@ -29,8 +29,8 @@
 
 |*n*<sup>th</sup> copy|                                        Maindeck Card                                         |*n*<sup>th</sup> copy|                                       Sideboard Card                                       |
 |--------------------:|----------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------|
-|                    3|[Hedron Crab](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=180348)        |                    1|[Cabal Therapy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413625)    |
-|                    3|[Careful Study](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=29727)       |                    3|[Assassin's Trophy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452902)|
+|                    3|[Careful Study](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=29727)       |                    1|[Cabal Therapy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413625)    |
+|                    3|[Hedron Crab](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=180348)        |                    3|[Assassin's Trophy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452902)|
 |                    3|[Underground Sea](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=886)       |                    2|[Cabal Therapy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413625)    |
 |                    4|[Careful Study](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=29727)       |                    3|[Cabal Therapy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413625)    |
 |                    4|[Hedron Crab](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=180348)        |                    4|[Assassin's Trophy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452902)|

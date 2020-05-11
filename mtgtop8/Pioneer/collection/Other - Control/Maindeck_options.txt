@@ -47,14 +47,13 @@
 4 Opt
 1 Hinterland Harbor
 3 Forest
-1 Nissa, Vastwood Seer
 1 Sunpetal Grove
 1 Baffling End
 1 Lumbering Falls
 1 Growth Spiral
 1 Detention Sphere
 1 Temple Garden
-2 Sunpetal Grove
+1 Nissa, Vastwood Seer
 2 Baffling End
 2 Courser of Kruphix
 2 Temple Garden
@@ -64,6 +63,7 @@
 2 Elspeth Conquers Death
 2 Omen of the Sea
 2 Detention Sphere
+2 Sunpetal Grove
 2 Lumbering Falls
 2 Growth Spiral
 3 Elspeth Conquers Death
@@ -118,17 +118,17 @@
 2 Watery Grave
 3 Watery Grave
 4 Watery Grave
+1 Foreboding Ruins
 1 Kolaghan's Command
 1 Discovery / Dispersal
-1 Foreboding Ruins
 2 Kolaghan's Command
 2 Dreadbore
 2 Discovery / Dispersal
-3 Discovery / Dispersal
 3 Dreadbore
+3 Discovery / Dispersal
+4 Kroxa, Titan of Death's Hunger
 4 Discovery / Dispersal
 4 Dreadbore
-4 Kroxa, Titan of Death's Hunger
 1 Irrigated Farmland
 1 Clifftop Retreat
 1 Neutralize
@@ -179,7 +179,6 @@
 4 Cast Out
 4 Sulfur Falls
 1 Thirst for Meaning
-1 Cast Down
 1 Thought Erasure
 1 Drowned Catacomb
 1 Elspeth, Sun's Champion
@@ -188,6 +187,7 @@
 1 Search for Azcanta
 1 Fetid Pools
 1 Narset, Parter of Veils
+1 Cast Down
 2 Search for Azcanta
 2 Drowned Catacomb
 2 Cast Down
@@ -197,18 +197,18 @@
 3 Cast Down
 1 Bonecrusher Giant
 2 Bonecrusher Giant
+1 Canyon Slough
 1 Dragonskull Summit
 1 Chandra, Torch of Defiance
-1 Canyon Slough
-2 Dragonskull Summit
 2 Foreboding Ruins
+2 Dragonskull Summit
 2 Chandra, Torch of Defiance
 2 Canyon Slough
 3 Bonecrusher Giant
+3 Kolaghan's Command
+3 Dragonskull Summit
 3 Mountain
 3 Canyon Slough
-3 Dragonskull Summit
-3 Kolaghan's Command
 4 Bonecrusher Giant
 4 Dragonskull Summit
 1 Nissa, Who Shakes the World
@@ -256,15 +256,15 @@
 7 Swamp
 7 Plains
 1 Chart a Course
-1 Vraska's Contempt
 1 Yahenni's Expertise
 1 Drown in the Loch
+1 Vraska's Contempt
 2 Elspeth, Sun's Nemesis
 2 Thirst for Meaning
 2 Thought Erasure
 2 Hero's Downfall
-1 Vraska, Golgari Queen
 1 Deathrite Shaman
+1 Vraska, Golgari Queen
 1 Distended Mindbender
 2 Deathrite Shaman
 3 Deathrite Shaman
@@ -275,8 +275,8 @@
 2 Tireless Tracker
 3 Traverse the Ulvenwald
 1 Goblin Dark-Dwellers
-2 Goblin Dark-Dwellers
 2 Liliana, the Last Hope
+2 Goblin Dark-Dwellers
 3 Foreboding Ruins
 1 The Eldest Reborn
 1 Blast Zone
@@ -284,12 +284,6 @@
 2 Blast Zone
 3 Gideon of the Trials
 3 History of Benalia
-1 Mire Triton
-2 Mire Triton
-2 Glorybringer
-3 Chandra, Torch of Defiance
-3 Glorybringer
-4 Canyon Slough
 1 Heartless Act
 1 Spirebluff Canal
 1 Soul-Guide Lantern
@@ -302,17 +296,22 @@
 4 Jace, Vryn's Prodigy
 4 Spirebluff Canal
 4 Strategic Planning
-1 Elder Deep-Fiend
+1 Mire Triton
+2 Mire Triton
+2 Glorybringer
+3 Glorybringer
+3 Chandra, Torch of Defiance
+4 Canyon Slough
 1 Kozilek's Return
 1 Ugin, the Spirit Dragon
 1 Arboreal Grazer
 1 Castle Garenbrig
 1 Llanowar Elves
 1 Steam Vents
+1 Elder Deep-Fiend
 1 Cavalier of Thorns
 1 Botanical Sanctum
 2 Botanical Sanctum
-2 Elder Deep-Fiend
 2 Kozilek's Return
 2 Cavalier of Thorns
 2 Champion of Wits
@@ -321,11 +320,12 @@
 2 Arboreal Grazer
 2 Ugin, the Spirit Dragon
 2 Nissa, Who Shakes the World
+2 Elder Deep-Fiend
 2 Ipnu Rivulet
 3 Steam Vents
-3 Elder Deep-Fiend
 3 Kozilek's Return
 3 Nissa, Who Shakes the World
+3 Elder Deep-Fiend
 3 Champion of Wits
 3 Arboreal Grazer
 3 Stomping Ground

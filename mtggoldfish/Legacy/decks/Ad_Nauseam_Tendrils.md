@@ -65,7 +65,7 @@
 |                    2|[Verdant Catacombs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405113)  |                    1|[Fatal Push](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423724)             |
 |                     |                                                                                              |                    2|[Daze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=189255)                   |
 |                     |                                                                                              |                    2|[Hurkyl's Recall](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=135260)        |
-|                     |                                                                                              |                    1|[Echo of Eons](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463995)           |
 |                     |                                                                                              |                    1|[Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)           |
+|                     |                                                                                              |                    1|[Echo of Eons](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463995)           |
 |                     |                                                                                              |                    1|[Past in Flames](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420748)         |
 

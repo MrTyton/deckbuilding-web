@@ -31,8 +31,8 @@
 |--------------------:|-----------------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------|
 |                    2|[Knight of the White Orchid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=178094)|                    2|[Path to Exile](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220511)    |
 |                    1|[Umezawa's Jitte](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=81979)            |                    2|[Seal of Cleansing](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405369)|
-|                    2|[Umezawa's Jitte](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=81979)            |                    2|[Cataclysm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=6050)          |
-|                    2|[Vantress Gargoyle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473033)         |                    3|[Path to Exile](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220511)    |
+|                    2|[Umezawa's Jitte](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=81979)            |                    3|[Path to Exile](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220511)    |
+|                    2|[Vantress Gargoyle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473033)         |                    2|[Cataclysm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=6050)          |
 |                    3|[Marsh Flats](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405101)               |                     |                                                                                            |
 |                    3|[Vantress Gargoyle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473033)         |                     |                                                                                            |
 

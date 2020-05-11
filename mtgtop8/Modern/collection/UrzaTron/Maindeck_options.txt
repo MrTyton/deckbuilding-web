@@ -1,15 +1,17 @@
+2 Thragtusk
 3 Wurmcoil Engine
 1 Dismember
-2 Karn, the Great Creator
+3 Karn, the Great Creator
+4 Karn, the Great Creator
+1 Remand
 1 Field of Ruin
 1 Island
 1 Tolaria West
 1 Talisman of Dominance
 1 Cyclonic Rift
 1 Thirst for Knowledge
-1 Myr Battlesphere
 1 Mindslaver
-1 Remand
+1 Myr Battlesphere
 1 Repeal
 1 Condescend
 1 Academy Ruins
@@ -27,8 +29,6 @@
 4 Condescend
 4 Island
 5 Island
-3 Karn, the Great Creator
-4 Karn, the Great Creator
 1 Chalice of the Void
 1 Kozilek, the Great Distortion
 1 World Breaker
@@ -41,11 +41,11 @@
 2 Talisman of Dominance
 6 Island
 1 Ghost Quarter
+2 Ugin, the Spirit Dragon
+1 All Is Dust
 1 Nurturing Peatland
 1 Spell Burst
 2 River of Tears
-1 All Is Dust
-2 Ugin, the Spirit Dragon
 1 Trinket Mage
 1 Batterskull
 1 Snapcaster Mage
@@ -55,9 +55,43 @@
 1 Karn, Scion of Urza
 2 Karn, Scion of Urza
 7 Island
+1 Simian Spirit Guide
+2 Simian Spirit Guide
+3 Simian Spirit Guide
+1 Lightning Bolt
+1 Stone Rain
+1 Pyroclasm
+1 Blasphemous Act
+1 Painter's Servant
+1 Pyromancer's Goggles
+1 Mountain
+1 Stuffy Doll
+2 Mountain
+2 Stone Rain
+2 Pyroclasm
+2 Lightning Bolt
+2 Painter's Servant
+2 Stuffy Doll
+2 Blasphemous Act
+3 Ugin, the Spirit Dragon
+3 Stone Rain
+3 Lightning Bolt
+3 Blasphemous Act
+3 Painter's Servant
+3 Stuffy Doll
+3 Mountain
+4 Lightning Bolt
+4 Simian Spirit Guide
+4 Stone Rain
+4 Ugin, the Spirit Dragon
+4 Mountain
+5 Mountain
+6 Mountain
+7 Mountain
+8 Mountain
+9 Mountain
 1 Inventors' Fair
 1 Everflowing Chalice
-1 Simian Spirit Guide
 1 Sea Gate Wreckage
 1 Wastes
 1 Buried Ruin
@@ -67,7 +101,6 @@
 1 Paradox Engine
 1 Surge Node
 2 Everflowing Chalice
-2 Simian Spirit Guide
 2 Chalice of the Void
 2 Paradox Engine
 2 Mystic Forge
@@ -76,17 +109,16 @@
 2 Astral Cornucopia
 2 Blast Zone
 2 Coretapper
-3 Simian Spirit Guide
 3 Chalice of the Void
 3 Mystic Forge
 3 Surge Node
+3 Astral Cornucopia
 3 Everflowing Chalice
 3 Ugin, the Ineffable
-3 Astral Cornucopia
 3 Coretapper
 4 Chalice of the Void
+4 Mystic Forge
 4 Astral Cornucopia
 4 Coretapper
-4 Mystic Forge
 4 Surge Node
 4 Everflowing Chalice

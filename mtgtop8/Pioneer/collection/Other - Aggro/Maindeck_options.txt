@@ -120,14 +120,14 @@
 1 Reflector Mage
 1 Agent of Treachery
 1 Castle Embereth
-1 Lavinia of the Tenth
 1 Fire Prophecy
+1 Lavinia of the Tenth
 1 Goblin Instigator
-1 Cloudblazer
 1 Winota, Joiner of Forces
+1 Cloudblazer
 1 Eldrazi Displacer
-1 Phyrexian Revoker
 1 Hanged Executioner
+1 Phyrexian Revoker
 1 Chandra, Acolyte of Flame
 1 Temple of Triumph
 1 Battlefield Forge
@@ -135,11 +135,11 @@
 2 Reflector Mage
 2 Castle Embereth
 2 Agent of Treachery
+2 Eldrazi Displacer
 2 Cloudblazer
 2 Lavinia of the Tenth
-2 Eldrazi Displacer
-2 Goblin Instigator
 2 Fire Prophecy
+2 Goblin Instigator
 2 Winota, Joiner of Forces
 2 Hanged Executioner
 2 Phyrexian Revoker
@@ -153,8 +153,8 @@
 3 Goblin Instigator
 3 Phyrexian Revoker
 3 Winota, Joiner of Forces
-3 Cloudblazer
 3 Lavinia of the Tenth
+3 Cloudblazer
 3 Fire Prophecy
 3 Chandra, Acolyte of Flame
 3 Hanged Executioner
@@ -183,8 +183,8 @@
 1 Stasis Snare
 1 Archangel Avacyn
 1 Isolated Chapel
-2 Archangel Avacyn
 2 Isolated Chapel
+2 Archangel Avacyn
 1 Shalai, Voice of Plenty
 1 Field of Ruin
 1 Elspeth Conquers Death
@@ -231,7 +231,6 @@
 1 Hero's Downfall
 2 Dreadbore
 3 Abrupt Decay
-1 Tasigur, the Golden Fang
 1 Nissa, Vastwood Seer
 1 Polukranos, Unchained
 1 Hissing Quagmire
@@ -240,6 +239,7 @@
 1 Traverse the Ulvenwald
 1 Ishkanah, Grafwidow
 1 Ramunap Excavator
+1 Tasigur, the Golden Fang
 2 Liliana, the Last Hope
 2 Assassin's Trophy
 2 Field of Ruin
@@ -248,20 +248,6 @@
 3 Field of Ruin
 3 Traverse the Ulvenwald
 4 Traverse the Ulvenwald
-1 Zirda, the Dawnwaker
-1 Duskwatch Recruiter
-1 Gilded Goose
-1 Splendor Mare
-2 Gilded Goose
-2 Zirda, the Dawnwaker
-2 Splendor Mare
-2 Duskwatch Recruiter
-3 Gilded Goose
-3 Scavenging Ooze
-3 Splendor Mare
-3 Duskwatch Recruiter
-4 Duskwatch Recruiter
-4 Gilded Goose
 1 Cast Out
 1 Supreme Verdict
 1 Zenith Flare
@@ -305,63 +291,77 @@
 4 Shark Typhoon
 4 Zenith Flare
 4 Censor
+1 Zirda, the Dawnwaker
+1 Duskwatch Recruiter
+1 Gilded Goose
+1 Splendor Mare
+2 Gilded Goose
+2 Zirda, the Dawnwaker
+2 Splendor Mare
+2 Duskwatch Recruiter
+3 Gilded Goose
+3 Scavenging Ooze
+3 Splendor Mare
+3 Duskwatch Recruiter
+4 Gilded Goose
+4 Duskwatch Recruiter
 1 Steel Overseer
 1 Stonecoil Serpent
 2 Stonecoil Serpent
 2 Steel Overseer
 3 Steel Overseer
 2 Mutavault
+1 Aether Hub
 1 Bomat Courier
-1 Springleaf Drum
-1 Ensoul Artifact
+1 Gingerbrute
 1 Shrapnel Blast
+1 Ensoul Artifact
+1 Springleaf Drum
 1 Spire of Industry
 1 Ghostfire Blade
-1 Aether Hub
-1 Gingerbrute
 1 Ornithopter
 1 Hope of Ghirapur
 1 Metallic Rebuke
 1 Darksteel Citadel
 1 All That Glitters
 1 Mana Confluence
+2 Aether Hub
 2 Bomat Courier
-2 Shrapnel Blast
-2 Ensoul Artifact
-2 Springleaf Drum
 2 Darksteel Citadel
+2 Ensoul Artifact
+2 Shrapnel Blast
+2 Springleaf Drum
 2 Spire of Industry
+2 Ornithopter
 2 Ghostfire Blade
 2 Gingerbrute
-2 Aether Hub
-2 Ornithopter
 2 Hope of Ghirapur
 2 All That Glitters
 2 Mana Confluence
 2 Metallic Rebuke
 3 Stonecoil Serpent
-3 Mana Confluence
 3 Bomat Courier
-3 Shrapnel Blast
-3 Ensoul Artifact
 3 Spire of Industry
+3 Mana Confluence
+3 Aether Hub
 3 Darksteel Citadel
+3 Ensoul Artifact
+3 Shrapnel Blast
 3 Springleaf Drum
 3 Ornithopter
 3 Ghostfire Blade
 3 Gingerbrute
-3 Aether Hub
 3 All That Glitters
 4 Stonecoil Serpent
-4 Aether Hub
+4 Bomat Courier
 4 Spire of Industry
 4 Ensoul Artifact
 4 Shrapnel Blast
-4 Bomat Courier
+4 Aether Hub
 4 Springleaf Drum
+4 Mana Confluence
 4 Ghostfire Blade
 4 Darksteel Citadel
-4 Mana Confluence
 4 Gingerbrute
 4 Ornithopter
 1 Port Town
@@ -384,8 +384,8 @@
 2 Radiant Fountain
 2 Militia Bugler
 2 Shared Summons
-3 Radiant Fountain
 3 Militia Bugler
+3 Radiant Fountain
 4 Militia Bugler
 1 The Royal Scions
 1 Slip Through Space
@@ -430,8 +430,8 @@
 4 Reckless Rage
 4 Tenth District Legionnaire
 4 Monastery Swiftspear
-1 Kiora Bests the Sea God
 1 Growth Spiral
+1 Kiora Bests the Sea God
 1 Cavalier of Thorns
 1 Hinterland Harbor
 1 Castle Garenbrig
@@ -517,20 +517,20 @@
 4 Steel Overseer
 4 Llanowar Wastes
 1 Wolfwillow Haven
-1 Temple of Plenty
 1 Calix, Destiny's Hand
+1 Temple of Plenty
 1 Starfield Mystic
 1 Sigil of the Empty Throne
+1 Setessan Champion
 1 Banishing Light
 1 Sphere of Safety
-1 Setessan Champion
 1 Eidolon of Blossoms
 1 Seal Away
 1 Herald of the Pantheon
 2 Wolfwillow Haven
 2 Banishing Light
-2 Herald of the Pantheon
 2 Setessan Champion
+2 Herald of the Pantheon
 2 Eidolon of Blossoms
 2 Sigil of the Empty Throne
 2 Temple of Plenty
@@ -550,10 +550,10 @@
 4 Eidolon of Blossoms
 4 Herald of the Pantheon
 4 Setessan Champion
+1 Dreadhorde Butcher
 1 Foreboding Ruins
 1 Chandra, Torch of Defiance
 1 Glorybringer
-1 Dreadhorde Butcher
 2 Dreadhorde Butcher
 2 Glorybringer
 2 Foreboding Ruins
@@ -569,15 +569,15 @@
 1 Sorin, Imperious Bloodlord
 1 Dusk Legion Zealot
 1 Blood Baron of Vizkopa
-1 Kaya, Orzhov Usurper
 1 Gifted Aetherborn
+1 Kaya, Orzhov Usurper
 1 Oathsworn Vampire
 1 Knight of the Ebon Legion
 2 Sorin, Imperious Bloodlord
 2 Champion of Dusk
 2 Dusk Legion Zealot
-2 Gifted Aetherborn
 2 Kaya, Orzhov Usurper
+2 Gifted Aetherborn
 2 Blood Baron of Vizkopa
 2 Knight of the Ebon Legion
 2 Oathsworn Vampire
