@@ -42,10 +42,10 @@
 3 Dead Weight
 4 Dead Weight
 4 Mire's Grasp
-1 Aphemia, the Cacophony
 1 Karametra's Blessing
-2 Aphemia, the Cacophony
+1 Aphemia, the Cacophony
 2 Karametra's Blessing
+2 Aphemia, the Cacophony
 3 All That Glitters
 4 All That Glitters
 1 Midnight Reaper
@@ -63,38 +63,57 @@
 2 Fight as One
 1 Heartless Act
 2 Heartless Act
+1 Treacherous Blessing
 1 Basilica Bell-Haunt
 1 Field of Ruin
-1 Yarok's Fenlurker
 1 Kaya, Orzhov Usurper
 1 Cavalier of Dawn
+1 Yarok's Fenlurker
 1 Elspeth Conquers Death
+1 Plaguecrafter
+1 Sorin, Vengeful Bloodlord
 1 Leyline of Sanctity
 1 Murderous Rider
 1 Kaya's Wrath
 1 Planar Cleansing
-1 Plaguecrafter
 1 Wishclaw Talisman
-1 Treacherous Blessing
-1 Sorin, Vengeful Bloodlord
 1 Ugin, the Ineffable
 1 The Birth of Meletis
 2 Erebos's Intervention
-2 Yarok's Fenlurker
+2 Sorin, Vengeful Bloodlord
 2 Basilica Bell-Haunt
 2 Kaya, Orzhov Usurper
 2 Murderous Rider
-2 Elspeth Conquers Death
+2 Yarok's Fenlurker
 2 Kaya's Wrath
-2 Sorin, Vengeful Bloodlord
+2 Elspeth Conquers Death
 2 The Birth of Meletis
 2 Castle Ardenvale
 3 Erebos's Intervention
 3 Yarok's Fenlurker
-3 Murderous Rider
 3 Sorin, Vengeful Bloodlord
+3 Murderous Rider
 3 Kaya's Wrath
 3 Basilica Bell-Haunt
+1 Mythos of Nethroi
+1 Stonecoil Serpent
+1 Indatha Triome
+1 Overgrown Tomb
+1 Temple Garden
+1 Drill Bit
+2 Mythos of Nethroi
+2 Temple Garden
+2 Indatha Triome
+2 Stonecoil Serpent
+2 Overgrown Tomb
+2 Drill Bit
+3 Mythos of Nethroi
+3 Stonecoil Serpent
+4 Stonecoil Serpent
+1 Durable Coilbug
+2 Durable Coilbug
+3 Durable Coilbug
+4 Durable Coilbug
 1 Bastion of Remembrance
 1 Luminous Broodmoth
 2 Luminous Broodmoth
@@ -104,25 +123,46 @@
 3 Woe Strider
 4 Corpse Knight
 4 Luminous Broodmoth
-1 Stonecoil Serpent
-1 Indatha Triome
-1 Overgrown Tomb
-1 Temple Garden
-1 Mythos of Nethroi
-1 Drill Bit
-2 Indatha Triome
-2 Temple Garden
-2 Stonecoil Serpent
-2 Overgrown Tomb
-2 Mythos of Nethroi
-2 Drill Bit
-3 Mythos of Nethroi
-3 Stonecoil Serpent
-4 Stonecoil Serpent
-1 Durable Coilbug
-2 Durable Coilbug
-3 Durable Coilbug
-4 Durable Coilbug
+1 Fervent Champion
+1 Skyknight Vanguard
+1 Tournament Grounds
+1 Inspiring Veteran
+1 Worthy Knight
+1 Venerable Knight
+1 Stormfist Crusader
+1 Blacklance Paragon
+1 Blood Crypt
+1 Unbreakable Formation
+1 Sacred Foundry
+2 Blacklance Paragon
+2 Fervent Champion
+2 Skyknight Vanguard
+2 Tournament Grounds
+2 Inspiring Veteran
+2 Worthy Knight
+2 Venerable Knight
+2 Blood Crypt
+2 Unbreakable Formation
+2 Sacred Foundry
+2 Stormfist Crusader
+3 Fervent Champion
+3 Skyknight Vanguard
+3 Tournament Grounds
+3 Inspiring Veteran
+3 Worthy Knight
+3 Venerable Knight
+3 Fight as One
+3 Blood Crypt
+3 Sacred Foundry
+4 Sacred Foundry
+4 Fervent Champion
+4 Skyknight Vanguard
+4 Worthy Knight
+4 Tournament Grounds
+4 Inspiring Veteran
+4 Venerable Knight
+4 Fight as One
+4 Blood Crypt
 1 Sentinel's Eyes
 1 Giant Killer
 1 Starfield Mystic
@@ -137,59 +177,19 @@
 3 Angelic Gift
 4 Karametra's Blessing
 4 Angelic Gift
-1 Blood Crypt
-1 Unbreakable Formation
-1 Worthy Knight
-1 Inspiring Veteran
-1 Venerable Knight
-1 Stormfist Crusader
-1 Tournament Grounds
-1 Skyknight Vanguard
-1 Fervent Champion
-1 Sacred Foundry
-1 Blacklance Paragon
-2 Blood Crypt
-2 Unbreakable Formation
-2 Tournament Grounds
-2 Venerable Knight
-2 Fervent Champion
-2 Sacred Foundry
-2 Skyknight Vanguard
-2 Worthy Knight
-2 Inspiring Veteran
-2 Blacklance Paragon
-2 Stormfist Crusader
-3 Blood Crypt
-3 Skyknight Vanguard
-3 Fervent Champion
-3 Venerable Knight
-3 Sacred Foundry
-3 Fight as One
-3 Worthy Knight
-3 Inspiring Veteran
-3 Tournament Grounds
-4 Sacred Foundry
-4 Blood Crypt
-4 Worthy Knight
-4 Skyknight Vanguard
-4 Venerable Knight
-4 Tournament Grounds
-4 Fight as One
-4 Inspiring Veteran
-4 Fervent Champion
 1 Omen of the Dead
-1 Healer's Hawk
 1 Kaya's Ghostform
-1 Scoured Barrens
-1 Dawn of Hope
+1 Healer's Hawk
 1 Finale of Eternity
+1 Dawn of Hope
+1 Scoured Barrens
 1 Spark Harvest
 1 Soul-Guide Lantern
 1 Final Payment
 1 Impassioned Orator
 2 Omen of the Dead
-2 Healer's Hawk
 2 Kaya's Ghostform
+2 Healer's Hawk
 2 Scoured Barrens
 3 Omen of the Dead
 3 Healer's Hawk

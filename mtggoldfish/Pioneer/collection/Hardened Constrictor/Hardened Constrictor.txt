@@ -1,7 +1,7 @@
 4 Blooming Marsh
 2 Evolutionary Leap
 4 Fatal Push
-4 Forest
+5 Forest
 4 Hangarback Walker
 4 Hardened Scales
 4 Llanowar Wastes
@@ -10,7 +10,7 @@
 4 Overgrown Tomb
 4 Steel Overseer
 2 Stonecoil Serpent
-4 Swamp
+3 Swamp
 2 The Ozolith
 4 Thoughtseize
 1 Urborg, Tomb of Yawgmoth
@@ -20,7 +20,8 @@ Sideboard
 2 Abrupt Decay
 3 Barrier Breach
 3 Damping Sphere
-2 Dead Weight
+1 Dead Weight
+1 Duress
 2 Heartless Act
 1 Lurrus of the Dream Den
 2 Scavenging Ooze

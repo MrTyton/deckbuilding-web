@@ -1,105 +1,8 @@
-6 Island
-1 Omen of the Sun
-2 Omen of the Sun
-1 Swamp
-1 Oath of Kaya
-1 Godless Shrine
-1 Watery Grave
-2 Oath of Kaya
-2 Watery Grave
-2 Godless Shrine
 3 Oath of Kaya
 3 Godless Shrine
-3 Watery Grave
-1 Cavalier of Dawn
-7 Island
-1 Yorion, Sky Nomad
-7 Plains
-8 Island
-4 Thassa, Deep-Dwelling
-2 Castle Ardenvale
-4 Watery Grave
-1 The Birth of Meletis
-8 Plains
-9 Plains
-3 Omen of the Sun
-4 Godless Shrine
-2 The Birth of Meletis
-1 Brazen Borrower
-2 Brazen Borrower
-1 Mystical Dispute
-2 Mystical Dispute
-3 Shatter the Sky
-1 Temple of Deceit
-2 Swamp
-9 Island
-3 Mystical Dispute
-3 Time Wipe
-4 Oath of Kaya
-1 Temple of Silence
-1 Neutralize
-2 Temple of Silence
-1 Atris, Oracle of Half-Truths
-1 Elspeth, Sun's Nemesis
-10 Island
-1 Thought Erasure
-2 Thought Erasure
-3 Thought Erasure
-1 Blast Zone
-1 Burglar Rat
-2 Burglar Rat
-2 Temple of Deceit
-3 Burglar Rat
-2 Neutralize
-1 Deputy of Detention
-3 Castle Vantress
-1 Essence Scatter
-2 Essence Scatter
-4 Burglar Rat
-3 Swamp
-4 Agent of Treachery
-2 Atris, Oracle of Half-Truths
-3 Atris, Oracle of Half-Truths
-4 Thought Erasure
-1 Shark Typhoon
-1 Cavalier of Gales
-1 Dream Eater
-1 Absorb
-1 Labyrinth of Skophos
-1 Midnight Clock
-2 Absorb
-2 Deputy of Detention
-3 Castle Ardenvale
-3 The Birth of Meletis
-3 Absorb
-4 The Birth of Meletis
-4 Omen of the Sun
-1 Field of Ruin
-1 Mythos of Illuna
-2 Blast Zone
+1 Time Wipe
 1 Forest
-1 Aether Gust
-2 Aether Gust
-3 Aether Gust
-10 Plains
-2 Shark Typhoon
-2 Yorion, Sky Nomad
-1 Omen of the Dead
-1 Alirios, Enraptured
-2 Omen of the Dead
-2 Alirios, Enraptured
-3 Alirios, Enraptured
-3 Omen of the Dead
-4 Atris, Oracle of Half-Truths
-4 Alirios, Enraptured
-1 Archon of Sun's Grace
-2 Archon of Sun's Grace
-3 Archon of Sun's Grace
-1 Glass Casket
-4 Mystical Dispute
-3 Deputy of Detention
-1 Tale's End
-2 Tale's End
+2 Time Wipe
 1 Temple of Plenty
 1 Breeding Pool
 1 Temple Garden
@@ -111,11 +14,120 @@
 4 Breeding Pool
 4 Temple Garden
 1 Knight of Autumn
-1 Dovin's Veto
 2 Knight of Autumn
+1 Deputy of Detention
+2 Deputy of Detention
+1 Uro, Titan of Nature's Wrath
+2 Uro, Titan of Nature's Wrath
+2 Forest
+1 Tamiyo, Collector of Tales
+1 Temple of Mystery
+2 Temple of Mystery
+1 Growth Spiral
+1 Risen Reef
+2 Tamiyo, Collector of Tales
+2 Growth Spiral
+2 Risen Reef
+3 Temple of Mystery
+3 Forest
+3 Growth Spiral
+3 Risen Reef
+3 Uro, Titan of Nature's Wrath
+4 Uro, Titan of Nature's Wrath
+4 Temple of Mystery
+4 Growth Spiral
+4 Forest
+3 Fblthp, the Lost
+4 Elite Guardmage
+4 Watery Grave
+2 Swamp
+4 Godless Shrine
+4 Oath of Kaya
+1 Temple of Silence
+4 Risen Reef
+1 Temple of Deceit
+1 Thought Erasure
+2 Thought Erasure
+3 Thought Erasure
+5 Island
+3 Swamp
+4 Fblthp, the Lost
+4 Thought Erasure
+4 Omen of the Sun
+1 Mystical Dispute
+2 Mystical Dispute
+1 Cavalier of Thorns
+2 Cavalier of Thorns
+1 Atris, Oracle of Half-Truths
+2 Atris, Oracle of Half-Truths
+3 Mystical Dispute
+2 Yorion, Sky Nomad
+1 Shatter the Sky
+2 Shatter the Sky
+5 Plains
+2 Temple of Silence
+3 Thassa, Deep-Dwelling
+1 Elspeth, Sun's Nemesis
+1 Shark Typhoon
+2 Shark Typhoon
+4 Mystical Dispute
+3 Agent of Treachery
+6 Island
+6 Plains
+1 Burglar Rat
+2 Burglar Rat
+2 Temple of Deceit
+3 Burglar Rat
+3 Shatter the Sky
+3 Atris, Oracle of Half-Truths
+1 Cavalier of Dawn
+1 The Birth of Meletis
+2 The Birth of Meletis
+1 Tolsimir, Friend to Wolves
+2 Tolsimir, Friend to Wolves
+4 Burglar Rat
+1 Blast Zone
+1 Dovin's Veto
 2 Dovin's Veto
+2 Castle Ardenvale
+7 Plains
+7 Island
+8 Island
+1 Mythos of Illuna
+2 Blast Zone
+1 Field of Ruin
+1 Omen of the Dead
+1 Alirios, Enraptured
+2 Omen of the Dead
+2 Alirios, Enraptured
+3 Alirios, Enraptured
+3 Omen of the Dead
+4 Atris, Oracle of Half-Truths
+4 Alirios, Enraptured
+1 Trostani Discordant
+1 Neutralize
+1 Absorb
+1 Archon of Sun's Grace
+1 Labyrinth of Skophos
+1 Midnight Clock
+2 Neutralize
+2 Absorb
+2 Archon of Sun's Grace
+3 The Birth of Meletis
+3 Castle Ardenvale
+3 Castle Vantress
+3 Absorb
+3 Archon of Sun's Grace
+4 The Birth of Meletis
+8 Plains
+9 Island
+9 Plains
+1 Tale's End
+2 Tale's End
+3 Time Wipe
+1 Dream Eater
+4 Thassa, Deep-Dwelling
 3 Knight of Autumn
-1 Basilica Bell-Haunt
 1 Disinformation Campaign
 3 Temple of Silence
 4 Swamp
@@ -123,42 +135,35 @@
 2 Mythos of Illuna
 2 Raugrin Triome
 3 Raugrin Triome
+4 Agent of Treachery
 4 Raugrin Triome
-1 Heartless Act
-1 Kiora Bests the Sea God
 1 Drown in the Loch
+1 Heartless Act
 1 Cloudkin Seer
 2 Elspeth, Sun's Nemesis
-1 Uro, Titan of Nature's Wrath
-2 Forest
-2 Uro, Titan of Nature's Wrath
 2 Cavalier of Dawn
 3 Shark Typhoon
+1 Narset, Parter of Veils
+1 Disdainful Stroke
+2 Trostani Discordant
+2 Disdainful Stroke
+3 Trostani Discordant
 1 Savai Triome
 1 Indatha Triome
-1 Zagoth Triome
 1 Yarok, the Desecrated
+1 Zagoth Triome
 2 Indatha Triome
 2 Yarok, the Desecrated
-3 Dovin's Veto
 3 Indatha Triome
+3 Dovin's Veto
 3 Blast Zone
-1 Tamiyo, Collector of Tales
-1 Narset, Parter of Veils
-1 Temple of Mystery
-1 Trostani Discordant
-1 Disdainful Stroke
-2 Temple of Mystery
-2 Disdainful Stroke
-2 Trostani Discordant
-3 Trostani Discordant
 1 Kenrith, the Returned King
 1 Sacred Foundry
 1 Bonecrusher Giant
 1 Chandra, Acolyte of Flame
-1 Steam Vents
 1 Winota, Joiner of Forces
 1 Mountain
+1 Steam Vents
 2 Steam Vents
 2 Sacred Foundry
 2 Bonecrusher Giant
@@ -166,31 +171,24 @@
 2 Chandra, Acolyte of Flame
 2 Mountain
 2 Kenrith, the Returned King
-3 Sacred Foundry
 3 Steam Vents
+3 Sacred Foundry
 3 Chandra, Acolyte of Flame
 3 Bonecrusher Giant
 3 Winota, Joiner of Forces
 4 Bonecrusher Giant
-1 Tranquil Cove
-1 Prison Realm
-2 Cavalier of Gales
-2 Tranquil Cove
-2 Midnight Clock
-2 Prison Realm
-3 Tranquil Cove
-4 Absorb
-4 Tranquil Cove
-2 Glass Casket
-3 Brazen Borrower
-4 Brazen Borrower
-4 Time Wipe
+1 Cavalier of Gales
 3 Neutralize
+3 Deputy of Detention
 4 Neutralize
 4 Deputy of Detention
+1 Brazen Borrower
+2 Brazen Borrower
+10 Island
 1 Doom Foretold
-1 Dovin's Acuity
 1 Ashiok, Nightmare Muse
+1 Dovin's Acuity
+1 Basilica Bell-Haunt
 1 Davriel, Rogue Shadowmage
 2 Ashiok, Nightmare Muse
 2 Doom Foretold

@@ -1,16 +1,17 @@
-4 Isolated Chapel
+4 Swamp
 4 Flicker of Fate
+4 The Birth of Meletis
+2 Castle Locthwain
+3 Caves of Koilos
+4 Oath of Kaya
 5 Swamp
 1 Final Payment
-4 The Birth of Meletis
 1 Thraben Inspector
 2 Thraben Inspector
 3 Thraben Inspector
 4 Thraben Inspector
 1 Fabled Passage
 1 Island
-2 Fabled Passage
-3 Fabled Passage
 1 Supreme Verdict
 1 Hallowed Fountain
 2 Supreme Verdict
@@ -23,8 +24,10 @@
 2 Glacial Fortress
 2 Teferi, Time Raveler
 3 Teferi, Time Raveler
-4 Fabled Passage
+2 Fabled Passage
+3 Fabled Passage
 2 Island
+4 Fabled Passage
 1 Forest
 1 Satyr Wayfinder
 2 Satyr Wayfinder
@@ -80,58 +83,37 @@
 4 Temple Garden
 3 Satyr Wayfinder
 4 Satyr Wayfinder
-2 Castle Locthwain
-3 Caves of Koilos
-3 Elspeth's Nightmare
-4 Oath of Kaya
-1 Starfield of Nyx
-3 Fatal Push
-4 Fatal Push
 1 Kaya's Wrath
 4 Caves of Koilos
+3 Elspeth's Nightmare
 1 Agonizing Remorse
 2 Agonizing Remorse
 6 Plains
-2 Starfield of Nyx
 2 Gideon of the Trials
+1 Starfield of Nyx
+3 Fatal Push
+4 Fatal Push
+2 Starfield of Nyx
 4 Treacherous Blessing
 1 Easy Prey
 1 Underworld Connections
+1 Duress
+2 Duress
+2 Kaya's Wrath
+3 Murderous Rider
 6 Swamp
 1 Concealed Courtyard
 2 Concealed Courtyard
+1 Blast Zone
 1 History of Benalia
 2 History of Benalia
 1 Castle Ardenvale
 2 Final Payment
 1 Watery Grave
-1 Mountain
-1 Blood Crypt
-1 Dreadbore
-1 Kroxa, Titan of Death's Hunger
-2 Blood Crypt
-2 Mountain
-2 Kroxa, Titan of Death's Hunger
-3 Blood Crypt
-3 Kroxa, Titan of Death's Hunger
-4 Blood Crypt
-2 Watery Grave
-3 Watery Grave
-4 Watery Grave
-1 Foreboding Ruins
-1 Kolaghan's Command
-1 Discovery / Dispersal
-2 Kolaghan's Command
-2 Dreadbore
-2 Discovery / Dispersal
-3 Dreadbore
-3 Discovery / Dispersal
-4 Kroxa, Titan of Death's Hunger
-4 Discovery / Dispersal
-4 Dreadbore
 1 Irrigated Farmland
-1 Clifftop Retreat
+1 Cast Out
 1 Neutralize
+1 Clifftop Retreat
 1 Shark Typhoon
 1 Censor
 1 Nimble Obstructionist
@@ -141,7 +123,6 @@
 1 Sulfur Falls
 1 Azorius Charm
 1 Zenith Flare
-1 Cast Out
 1 Raugrin Triome
 2 Raugrin Triome
 2 Cast Out
@@ -159,10 +140,10 @@
 3 Sulfur Falls
 3 Irrigated Farmland
 3 Shark Typhoon
-3 Neutralize
 3 Censor
 3 Flourishing Fox
 3 Clifftop Retreat
+3 Neutralize
 3 Hieroglyphic Illumination
 3 Azorius Charm
 3 Zenith Flare
@@ -173,11 +154,14 @@
 4 Zenith Flare
 4 Shark Typhoon
 4 Flourishing Fox
-4 Neutralize
 4 Azorius Charm
 4 Hieroglyphic Illumination
 4 Cast Out
+4 Neutralize
 4 Sulfur Falls
+2 Watery Grave
+3 Watery Grave
+4 Watery Grave
 1 Thirst for Meaning
 1 Thought Erasure
 1 Drowned Catacomb
@@ -195,26 +179,18 @@
 3 Drowned Catacomb
 3 Glacial Fortress
 3 Cast Down
-1 Bonecrusher Giant
-2 Bonecrusher Giant
-1 Canyon Slough
-1 Dragonskull Summit
-1 Chandra, Torch of Defiance
-2 Foreboding Ruins
-2 Dragonskull Summit
-2 Chandra, Torch of Defiance
-2 Canyon Slough
-3 Bonecrusher Giant
-3 Kolaghan's Command
-3 Dragonskull Summit
-3 Mountain
-3 Canyon Slough
-4 Bonecrusher Giant
-4 Dragonskull Summit
+1 Mountain
+1 Blood Crypt
+1 Dreadbore
+1 Kroxa, Titan of Death's Hunger
+2 Blood Crypt
+2 Mountain
+2 Kroxa, Titan of Death's Hunger
+3 Blood Crypt
+3 Kroxa, Titan of Death's Hunger
+4 Blood Crypt
 1 Nissa, Who Shakes the World
 1 Emrakul, the Promised End
-1 Liliana, the Last Hope
-1 Glorybringer
 1 Ishkanah, Grafwidow
 1 Traverse the Ulvenwald
 1 Tireless Tracker
@@ -235,18 +211,26 @@
 1 Jace, Vryn's Prodigy
 2 Jace, Vryn's Prodigy
 3 Jace, Vryn's Prodigy
+1 Liliana, the Last Hope
+1 Kolaghan's Command
+1 Discovery / Dispersal
+1 Foreboding Ruins
+2 Kolaghan's Command
+2 Dreadbore
+2 Discovery / Dispersal
+3 Dreadbore
+3 Discovery / Dispersal
+4 Kroxa, Titan of Death's Hunger
+4 Discovery / Dispersal
+4 Dreadbore
 1 Champion of Wits
+1 Ipnu Rivulet
 1 Stomping Ground
 2 Stomping Ground
-1 Ipnu Rivulet
 2 Temple of Silence
 1 Kunoros, Hound of Athreos
 2 Kunoros, Hound of Athreos
 3 Kunoros, Hound of Athreos
-1 Duress
-2 Duress
-2 Kaya's Wrath
-3 Murderous Rider
 1 Mass Manipulation
 4 Teferi, Hero of Dominaria
 1 Cling to Dust
@@ -255,9 +239,11 @@
 4 Starfield of Nyx
 7 Swamp
 7 Plains
+1 Bonecrusher Giant
+2 Bonecrusher Giant
+1 Drown in the Loch
 1 Chart a Course
 1 Yahenni's Expertise
-1 Drown in the Loch
 1 Vraska's Contempt
 2 Elspeth, Sun's Nemesis
 2 Thirst for Meaning
@@ -265,6 +251,7 @@
 2 Hero's Downfall
 1 Deathrite Shaman
 1 Vraska, Golgari Queen
+1 Glorybringer
 1 Distended Mindbender
 2 Deathrite Shaman
 3 Deathrite Shaman
@@ -274,44 +261,52 @@
 1 Ashiok, Nightmare Muse
 2 Tireless Tracker
 3 Traverse the Ulvenwald
-1 Goblin Dark-Dwellers
-2 Liliana, the Last Hope
-2 Goblin Dark-Dwellers
-3 Foreboding Ruins
 1 The Eldest Reborn
-1 Blast Zone
 2 The Eldest Reborn
 2 Blast Zone
 3 Gideon of the Trials
 3 History of Benalia
+1 Strategic Planning
 1 Heartless Act
 1 Spirebluff Canal
 1 Soul-Guide Lantern
-1 Strategic Planning
+2 Strategic Planning
 2 Spirebluff Canal
 2 Heartless Act
-2 Strategic Planning
-3 Spirebluff Canal
 3 Strategic Planning
+3 Spirebluff Canal
 4 Jace, Vryn's Prodigy
-4 Spirebluff Canal
 4 Strategic Planning
-1 Mire Triton
-2 Mire Triton
-2 Glorybringer
-3 Glorybringer
-3 Chandra, Torch of Defiance
-4 Canyon Slough
+4 Spirebluff Canal
+1 Canyon Slough
+1 Chandra, Torch of Defiance
+1 Dragonskull Summit
+1 Goblin Dark-Dwellers
+2 Liliana, the Last Hope
+2 Dragonskull Summit
+2 Chandra, Torch of Defiance
+2 Foreboding Ruins
+2 Goblin Dark-Dwellers
+2 Canyon Slough
+3 Bonecrusher Giant
+3 Kolaghan's Command
+3 Mountain
+3 Canyon Slough
+3 Dragonskull Summit
+3 Foreboding Ruins
+4 Bonecrusher Giant
+4 Dragonskull Summit
+1 Elder Deep-Fiend
 1 Kozilek's Return
 1 Ugin, the Spirit Dragon
 1 Arboreal Grazer
 1 Castle Garenbrig
 1 Llanowar Elves
 1 Steam Vents
-1 Elder Deep-Fiend
 1 Cavalier of Thorns
 1 Botanical Sanctum
 2 Botanical Sanctum
+2 Elder Deep-Fiend
 2 Kozilek's Return
 2 Cavalier of Thorns
 2 Champion of Wits
@@ -320,12 +315,11 @@
 2 Arboreal Grazer
 2 Ugin, the Spirit Dragon
 2 Nissa, Who Shakes the World
-2 Elder Deep-Fiend
 2 Ipnu Rivulet
 3 Steam Vents
+3 Elder Deep-Fiend
 3 Kozilek's Return
 3 Nissa, Who Shakes the World
-3 Elder Deep-Fiend
 3 Champion of Wits
 3 Arboreal Grazer
 3 Stomping Ground

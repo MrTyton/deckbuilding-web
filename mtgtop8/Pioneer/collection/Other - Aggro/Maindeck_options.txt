@@ -1,21 +1,21 @@
-3 Dromoka's Command
 3 Voice of Resurgence
+3 Dromoka's Command
 4 Nissa, Voice of Zendikar
 1 Swamp
 1 Fatal Push
 2 Fatal Push
 3 Fatal Push
+2 Swamp
 1 Thoughtseize
 2 Thoughtseize
-2 Swamp
 3 Thoughtseize
 4 Thoughtseize
+3 Swamp
 1 Overgrown Tomb
 1 Blooming Marsh
 2 Blooming Marsh
 2 Overgrown Tomb
 4 Fatal Push
-3 Swamp
 3 Blooming Marsh
 4 Blooming Marsh
 1 Fabled Passage
@@ -57,10 +57,6 @@
 3 Grim Flayer
 4 Unbridled Growth
 4 Grim Flayer
-1 Collected Company
-2 Collected Company
-3 Collected Company
-4 Collected Company
 1 Anafenza, Kin-Tree Spirit
 2 Anafenza, Kin-Tree Spirit
 1 Gideon of the Trials
@@ -68,6 +64,7 @@
 1 Castle Ardenvale
 1 Daxos, Blessed by the Sun
 2 Daxos, Blessed by the Sun
+5 Plains
 1 Nykthos, Shrine to Nyx
 1 Thraben Inspector
 1 Knight of the White Orchid
@@ -77,13 +74,8 @@
 3 Thraben Inspector
 3 Knight of the White Orchid
 4 Thraben Inspector
-5 Plains
 6 Plains
 7 Plains
-1 Liliana, the Last Hope
-1 Murderous Rider
-2 Murderous Rider
-1 Selfless Spirit
 1 Concealed Courtyard
 1 Godless Shrine
 2 Concealed Courtyard
@@ -91,7 +83,14 @@
 3 Concealed Courtyard
 3 Godless Shrine
 4 Godless Shrine
-1 Baffling End
+1 Liliana, the Last Hope
+1 Murderous Rider
+2 Murderous Rider
+1 Collected Company
+2 Collected Company
+3 Collected Company
+4 Collected Company
+1 Selfless Spirit
 1 Questing Beast
 1 Vraska, Golgari Queen
 1 Tireless Tracker
@@ -120,9 +119,9 @@
 1 Reflector Mage
 1 Agent of Treachery
 1 Castle Embereth
+1 Goblin Instigator
 1 Fire Prophecy
 1 Lavinia of the Tenth
-1 Goblin Instigator
 1 Winota, Joiner of Forces
 1 Cloudblazer
 1 Eldrazi Displacer
@@ -135,23 +134,23 @@
 2 Reflector Mage
 2 Castle Embereth
 2 Agent of Treachery
-2 Eldrazi Displacer
 2 Cloudblazer
 2 Lavinia of the Tenth
+2 Eldrazi Displacer
 2 Fire Prophecy
 2 Goblin Instigator
 2 Winota, Joiner of Forces
 2 Hanged Executioner
-2 Phyrexian Revoker
 2 Chandra, Acolyte of Flame
+2 Phyrexian Revoker
 2 Battlefield Forge
 2 Chained to the Rocks
 3 Reflector Mage
-3 Raugrin Triome
 3 Agent of Treachery
+3 Raugrin Triome
 3 Eldrazi Displacer
-3 Goblin Instigator
 3 Phyrexian Revoker
+3 Goblin Instigator
 3 Winota, Joiner of Forces
 3 Lavinia of the Tenth
 3 Cloudblazer
@@ -165,15 +164,16 @@
 4 Reflector Mage
 4 Raugrin Triome
 4 Agent of Treachery
-4 Winota, Joiner of Forces
-4 Goblin Instigator
-4 Clifftop Retreat
-4 Fire Prophecy
 4 Blast Zone
+4 Winota, Joiner of Forces
+4 Clifftop Retreat
+4 Goblin Instigator
+4 Fire Prophecy
 4 Hanged Executioner
 4 Castle Embereth
 4 Chained to the Rocks
 4 Battlefield Forge
+1 Caves of Koilos
 1 Tomik, Distinguished Advokist
 1 Arcanist's Owl
 2 Nykthos, Shrine to Nyx
@@ -188,22 +188,19 @@
 1 Shalai, Voice of Plenty
 1 Field of Ruin
 1 Elspeth Conquers Death
+1 Baffling End
 8 Plains
 9 Plains
-1 Courser of Kruphix
-2 Courser of Kruphix
-3 Courser of Kruphix
-1 Caves of Koilos
+4 Concealed Courtyard
+2 Caves of Koilos
+3 Caves of Koilos
 1 Gideon, Ally of Zendikar
+1 Kalitas, Traitor of Ghet
+2 Kalitas, Traitor of Ghet
 1 Hallowed Fountain
 2 Hallowed Fountain
 3 Hallowed Fountain
 4 Hallowed Fountain
-1 Kalitas, Traitor of Ghet
-2 Kalitas, Traitor of Ghet
-1 Gideon's Intervention
-2 Baffling End
-2 Gideon's Intervention
 1 Glacial Fortress
 2 Glacial Fortress
 3 Glacial Fortress
@@ -215,7 +212,6 @@
 1 Urborg, Tomb of Yawgmoth
 1 Castle Locthwain
 2 Castle Locthwain
-4 Concealed Courtyard
 1 Benalish Marshal
 1 Sorin, Vengeful Bloodlord
 1 Always Watching
@@ -224,22 +220,20 @@
 2 Sorin, Vengeful Bloodlord
 2 Stasis Snare
 2 Always Watching
-2 Caves of Koilos
-3 Caves of Koilos
 3 Isolated Chapel
 4 Isolated Chapel
 1 Hero's Downfall
 2 Dreadbore
 3 Abrupt Decay
-1 Nissa, Vastwood Seer
 1 Polukranos, Unchained
+1 Tasigur, the Golden Fang
+1 Nissa, Vastwood Seer
 1 Hissing Quagmire
 1 Thrashing Brontodon
 1 Scrapheap Scrounger
 1 Traverse the Ulvenwald
 1 Ishkanah, Grafwidow
 1 Ramunap Excavator
-1 Tasigur, the Golden Fang
 2 Liliana, the Last Hope
 2 Assassin's Trophy
 2 Field of Ruin
@@ -248,17 +242,17 @@
 3 Field of Ruin
 3 Traverse the Ulvenwald
 4 Traverse the Ulvenwald
-1 Cast Out
 1 Supreme Verdict
 1 Zenith Flare
 1 Azorius Charm
 1 Sulfur Falls
 1 Flourishing Fox
-1 Castle Vantress
 1 Hieroglyphic Illumination
+1 Castle Vantress
 1 Censor
 1 Shark Typhoon
 1 Neutralize
+1 Cast Out
 1 Nimble Obstructionist
 2 Hieroglyphic Illumination
 2 Flourishing Fox
@@ -277,22 +271,22 @@
 3 Zenith Flare
 3 Azorius Charm
 3 Hieroglyphic Illumination
+3 Neutralize
 3 Flourishing Fox
 3 Censor
-3 Neutralize
 3 Shark Typhoon
 3 Sulfur Falls
 4 Sulfur Falls
+4 Neutralize
 4 Cast Out
 4 Hieroglyphic Illumination
 4 Azorius Charm
-4 Neutralize
 4 Flourishing Fox
 4 Shark Typhoon
 4 Zenith Flare
 4 Censor
-1 Zirda, the Dawnwaker
 1 Duskwatch Recruiter
+1 Zirda, the Dawnwaker
 1 Gilded Goose
 1 Splendor Mare
 2 Gilded Goose
@@ -312,10 +306,10 @@
 3 Steel Overseer
 2 Mutavault
 1 Aether Hub
+1 Ensoul Artifact
+1 Shrapnel Blast
 1 Bomat Courier
 1 Gingerbrute
-1 Shrapnel Blast
-1 Ensoul Artifact
 1 Springleaf Drum
 1 Spire of Industry
 1 Ghostfire Blade
@@ -326,41 +320,41 @@
 1 All That Glitters
 1 Mana Confluence
 2 Aether Hub
-2 Bomat Courier
-2 Darksteel Citadel
 2 Ensoul Artifact
 2 Shrapnel Blast
+2 Darksteel Citadel
+2 Bomat Courier
 2 Springleaf Drum
 2 Spire of Industry
-2 Ornithopter
 2 Ghostfire Blade
 2 Gingerbrute
 2 Hope of Ghirapur
 2 All That Glitters
+2 Ornithopter
 2 Mana Confluence
 2 Metallic Rebuke
 3 Stonecoil Serpent
-3 Bomat Courier
 3 Spire of Industry
-3 Mana Confluence
-3 Aether Hub
-3 Darksteel Citadel
-3 Ensoul Artifact
 3 Shrapnel Blast
+3 Ensoul Artifact
+3 Mana Confluence
+3 Darksteel Citadel
+3 Aether Hub
+3 Bomat Courier
 3 Springleaf Drum
-3 Ornithopter
 3 Ghostfire Blade
 3 Gingerbrute
+3 Ornithopter
 3 All That Glitters
 4 Stonecoil Serpent
-4 Bomat Courier
-4 Spire of Industry
-4 Ensoul Artifact
 4 Shrapnel Blast
+4 Ensoul Artifact
+4 Spire of Industry
 4 Aether Hub
+4 Bomat Courier
 4 Springleaf Drum
-4 Mana Confluence
 4 Ghostfire Blade
+4 Mana Confluence
 4 Darksteel Citadel
 4 Gingerbrute
 4 Ornithopter
@@ -377,14 +371,17 @@
 4 Knight of the White Orchid
 4 Spell Queller
 4 Glacial Fortress
+1 Courser of Kruphix
 1 Shared Summons
 1 Bygone Bishop
 1 Militia Bugler
 1 Radiant Fountain
+2 Courser of Kruphix
 2 Radiant Fountain
 2 Militia Bugler
 2 Shared Summons
 3 Militia Bugler
+3 Courser of Kruphix
 3 Radiant Fountain
 4 Militia Bugler
 1 The Royal Scions
@@ -430,8 +427,8 @@
 4 Reckless Rage
 4 Tenth District Legionnaire
 4 Monastery Swiftspear
-1 Growth Spiral
 1 Kiora Bests the Sea God
+1 Growth Spiral
 1 Cavalier of Thorns
 1 Hinterland Harbor
 1 Castle Garenbrig
@@ -474,6 +471,47 @@
 4 Breeding Pool
 4 Nissa's Pilgrimage
 4 Arboreal Grazer
+4 Swamp
+5 Swamp
+1 Garrison Cat
+1 Gutterbones
+1 Priest of Forgotten Gods
+1 Zulaport Cutthroat
+1 Fiend Artisan
+1 Cartel Aristocrat
+1 Stitcher's Supplier
+1 Cruel Celebrant
+1 Rally the Ancestors
+1 Return to the Ranks
+1 Hunted Witness
+2 Garrison Cat
+2 Gutterbones
+2 Priest of Forgotten Gods
+2 Zulaport Cutthroat
+2 Fiend Artisan
+2 Return to the Ranks
+2 Cartel Aristocrat
+2 Cruel Celebrant
+2 Hunted Witness
+2 Stitcher's Supplier
+2 Rally the Ancestors
+3 Garrison Cat
+3 Zulaport Cutthroat
+3 Priest of Forgotten Gods
+3 Cartel Aristocrat
+3 Stitcher's Supplier
+3 Rally the Ancestors
+3 Hunted Witness
+3 Fiend Artisan
+4 Rally the Ancestors
+4 Garrison Cat
+4 Zulaport Cutthroat
+4 Priest of Forgotten Gods
+4 Stitcher's Supplier
+4 Fiend Artisan
+4 Cartel Aristocrat
+4 Caves of Koilos
+4 Hunted Witness
 1 Bolas's Citadel
 1 Seraph of the Scales
 1 Revival / Revenge
@@ -516,51 +554,17 @@
 4 Metallic Mimic
 4 Steel Overseer
 4 Llanowar Wastes
-1 Wolfwillow Haven
-1 Calix, Destiny's Hand
-1 Temple of Plenty
-1 Starfield Mystic
-1 Sigil of the Empty Throne
-1 Setessan Champion
-1 Banishing Light
-1 Sphere of Safety
-1 Eidolon of Blossoms
-1 Seal Away
-1 Herald of the Pantheon
-2 Wolfwillow Haven
-2 Banishing Light
-2 Setessan Champion
-2 Herald of the Pantheon
-2 Eidolon of Blossoms
-2 Sigil of the Empty Throne
-2 Temple of Plenty
-2 Sphere of Safety
-3 Temple of Plenty
-3 Wolfwillow Haven
-3 Banishing Light
-3 Gideon's Intervention
-3 Eidolon of Blossoms
-3 Setessan Champion
-3 Herald of the Pantheon
-4 Temple of Plenty
-4 Wolfwillow Haven
-4 Banishing Light
-4 Courser of Kruphix
-4 Gideon's Intervention
-4 Eidolon of Blossoms
-4 Herald of the Pantheon
-4 Setessan Champion
 1 Dreadhorde Butcher
 1 Foreboding Ruins
 1 Chandra, Torch of Defiance
 1 Glorybringer
 2 Dreadhorde Butcher
 2 Glorybringer
-2 Foreboding Ruins
 2 Vraska, Golgari Queen
+2 Foreboding Ruins
 3 Dreadhorde Butcher
-3 Foreboding Ruins
 3 Tireless Tracker
+3 Foreboding Ruins
 4 Dreadhorde Butcher
 4 Tireless Tracker
 4 Foreboding Ruins
@@ -592,16 +596,17 @@
 4 Dusk Legion Zealot
 4 Sorin, Imperious Bloodlord
 4 Knight of the Ebon Legion
-4 Swamp
 4 Mutavault
-5 Swamp
 6 Swamp
 7 Swamp
 1 Idyllic Grange
 1 Karn, the Great Creator
+1 Gideon's Intervention
 2 Idyllic Grange
 2 Karn, the Great Creator
+2 Baffling End
 2 Elspeth Conquers Death
+2 Gideon's Intervention
 3 Karn, the Great Creator
 3 Baffling End
 3 Nykthos, Shrine to Nyx

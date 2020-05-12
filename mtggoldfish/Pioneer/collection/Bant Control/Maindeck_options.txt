@@ -1,7 +1,7 @@
-3 Plains
 3 Omen of the Sea
-3 Temple Garden
 3 Elspeth Conquers Death
+3 Forest
+3 Temple Garden
 3 Thraben Inspector
 4 Fabled Passage
 4 Omen of the Sea
@@ -21,18 +21,6 @@
 1 Censor
 2 Censor
 3 Censor
-1 Sinister Sabotage
-1 Ipnu Rivulet
-1 Thassa's Intervention
-1 Castle Ardenvale
-1 Azorius Charm
-1 Dream Trawler
-2 Sinister Sabotage
-2 Azorius Charm
-2 Dream Trawler
-3 Sinister Sabotage
-3 Azorius Charm
-4 Azorius Charm
 1 Silkwrap
 2 Silkwrap
 3 Silkwrap
@@ -40,9 +28,16 @@
 4 Censor
 1 Mass Manipulation
 4 Teferi, Hero of Dominaria
+1 Sinister Sabotage
+1 Thassa's Intervention
+1 Castle Ardenvale
+1 Azorius Charm
+1 Ipnu Rivulet
+1 Dream Trawler
+2 Sinister Sabotage
+2 Azorius Charm
+2 Dream Trawler
+3 Sinister Sabotage
+3 Azorius Charm
 3 Island
-1 Narset, Parter of Veils
-1 Dovin's Veto
-2 Thassa's Intervention
-3 Glacial Fortress
-4 Glacial Fortress
+4 Azorius Charm
