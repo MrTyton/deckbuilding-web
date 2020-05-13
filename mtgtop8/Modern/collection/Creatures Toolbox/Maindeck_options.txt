@@ -2,7 +2,6 @@
 2 Chord of Calling
 4 Postmortem Lunge
 2 Walking Ballista
-1 Scavenging Ooze
 1 Spike Feeder
 1 Heliod, Sun-Crowned
 2 Heliod, Sun-Crowned
@@ -14,26 +13,27 @@
 2 Spike Feeder
 3 Collected Company
 4 Collected Company
+1 Scavenging Ooze
 2 Verdant Catacombs
 1 Kitchen Finks
 2 Kitchen Finks
 3 Kitchen Finks
 4 Kitchen Finks
-1 Eternal Witness
 3 Ranger-Captain of Eos
 3 Spike Feeder
 4 Ranger-Captain of Eos
 4 Horizon Canopy
+1 Eternal Witness
 1 Breeding Pool
 1 Snow-Covered Plains
-1 Misty Rainforest
 2 Plains
 4 Spike Feeder
 4 Heliod, Sun-Crowned
 1 Overgrown Tomb
 1 Godless Shrine
-1 Shalai, Voice of Plenty
 2 Eternal Witness
+1 Misty Rainforest
+1 Shalai, Voice of Plenty
 1 Flooded Strand
 1 Teferi, Time Raveler
 2 Teferi, Time Raveler
@@ -41,13 +41,11 @@
 1 Viscera Seer
 1 Grand Abolisher
 2 Grand Abolisher
-3 Chord of Calling
 1 Snow-Covered Forest
 2 Snow-Covered Forest
 3 Snow-Covered Forest
 3 Verdant Catacombs
-1 Hallowed Fountain
-2 Misty Rainforest
+3 Chord of Calling
 4 Chord of Calling
 1 Batterskull
 1 Stoneforge Mystic
@@ -58,22 +56,18 @@
 1 Swamp
 1 Gavony Township
 2 Gavony Township
-3 Wooded Foothills
-1 Knight of Autumn
+1 Hallowed Fountain
 2 Hallowed Fountain
 2 Flooded Strand
+2 Misty Rainforest
 1 Anafenza, Kin-Tree Spirit
 1 Viridian Longbow
 4 Verdant Catacombs
 1 Path to Exile
 2 Path to Exile
 3 Path to Exile
-1 Sacred Foundry
-1 Eldritch Evolution
-1 Kiki-Jiki, Mirror Breaker
-1 Stomping Ground
-2 Stomping Ground
-4 Wooded Foothills
+3 Wooded Foothills
+1 Knight of Autumn
 1 Courser of Kruphix
 1 Waterlogged Grove
 1 Marsh Flats
@@ -81,50 +75,6 @@
 2 Overgrown Tomb
 2 Spellskite
 3 Grand Abolisher
-1 Renegade Rallier
-1 Wall of Roots
-1 Fire-Lit Thicket
-1 Prime Speaker Vannifar
-1 Deputy of Detention
-1 Breaching Hippocamp
-1 Zealous Conscripts
-1 Steam Vents
-1 Bounding Krasis
-1 Village Bell-Ringer
-1 Tireless Tracker
-1 Woodland Bellower
-1 Scryb Ranger
-1 Deceiver Exarch
-1 Island
-1 Crashing Drawbridge
-1 Reflector Mage
-2 Kiki-Jiki, Mirror Breaker
-2 Bounding Krasis
-2 Breaching Hippocamp
-2 Prime Speaker Vannifar
-3 Prime Speaker Vannifar
-4 Prime Speaker Vannifar
-1 Sunbaked Canyon
-1 Restoration Angel
-1 Sheltered Thicket
-1 Arid Mesa
-1 Wrenn and Six
-1 Mountain
-1 Magus of the Moon
-1 Gilded Goose
-1 Voice of Resurgence
-1 Seasoned Pyromancer
-2 Restoration Angel
-2 Knight of Autumn
-2 Gilded Goose
-2 Scavenging Ooze
-2 Eldritch Evolution
-2 Seasoned Pyromancer
-3 Restoration Angel
-3 Seasoned Pyromancer
-3 Gilded Goose
-4 Gilded Goose
-4 Seasoned Pyromancer
 1 Eldrazi Displacer
 1 Prismatic Vista
 1 Zirda, the Dawnwaker
@@ -137,6 +87,33 @@
 3 Walking Ballista
 4 Duskwatch Recruiter
 4 Brushland
+1 Sacred Foundry
+1 Sunbaked Canyon
+1 Restoration Angel
+1 Sheltered Thicket
+1 Arid Mesa
+1 Wrenn and Six
+1 Eldritch Evolution
+1 Kiki-Jiki, Mirror Breaker
+1 Mountain
+1 Magus of the Moon
+1 Gilded Goose
+1 Stomping Ground
+1 Voice of Resurgence
+1 Seasoned Pyromancer
+2 Restoration Angel
+2 Knight of Autumn
+2 Gilded Goose
+2 Stomping Ground
+2 Scavenging Ooze
+2 Eldritch Evolution
+2 Seasoned Pyromancer
+3 Restoration Angel
+3 Seasoned Pyromancer
+3 Gilded Goose
+4 Gilded Goose
+4 Seasoned Pyromancer
+4 Wooded Foothills
 1 Thoughtseize
 1 Utopia Sprawl
 1 Arbor Elf

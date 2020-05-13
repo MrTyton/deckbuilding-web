@@ -166,8 +166,8 @@
 3 Thoughtseize
 3 Wishclaw Talisman
 3 Dark Ritual
-4 Wishclaw Talisman
 4 Grindstone
+4 Wishclaw Talisman
 4 Dark Ritual
 1 Brazen Borrower
 1 Green Sun's Zenith
@@ -359,11 +359,11 @@
 2 Charming Prince
 2 Unsettled Mariner
 4 Dark Confidant
-1 Birds of Paradise
 1 Knight of Autumn
-1 Scryb Ranger
 1 Knight of the Reliquary
 1 Gaddock Teeg
+1 Birds of Paradise
+1 Scryb Ranger
 1 Gaea's Cradle
 2 Knight of the Reliquary
 3 Knight of the Reliquary
@@ -420,27 +420,27 @@
 2 Collective Brutality
 2 Badlands
 3 Chrome Mox
-3 Burning Wish
 3 Grave Titan
 3 Collective Brutality
 3 Badlands
 3 Sire of Insanity
 3 Exhume
+3 Burning Wish
 3 Unmask
 3 Griselbrand
 3 Swamp
 3 Cabal Ritual
 4 Marsh Flats
-4 Burning Wish
 4 Cabal Ritual
 4 Unmask
 4 Chrome Mox
 4 Griselbrand
 4 Grave Titan
+4 Burning Wish
 4 Sire of Insanity
+1 Fire-Lit Thicket
 1 Chandra, Awakened Inferno
 1 Blood Sun
-1 Fire-Lit Thicket
 1 Leyline of the Void
 1 Trinisphere
 1 Serum Powder
@@ -483,11 +483,11 @@
 2 Bloodstained Mire
 3 Bloodstained Mire
 1 Wooded Foothills
-1 Sacred Foundry
 1 Lava Spike
 1 Monastery Swiftspear
 1 Sunbaked Canyon
 1 Seal of Fire
+1 Sacred Foundry
 1 Fireblast
 1 Boros Charm
 1 Eidolon of the Great Revel
@@ -605,15 +605,15 @@
 3 Ichorid
 3 Narcomoeba
 3 Shambling Shell
-4 Golgari Thug
+4 Ichorid
 4 Stinkweed Imp
 4 Golgari Grave-Troll
 4 Bridge from Below
+4 Golgari Thug
 4 Chancellor of the Annex
 4 Phantasmagorian
 4 Street Wraith
 4 Dread Return
-4 Ichorid
 4 Narcomoeba
 4 Nether Shadow
 1 Botanical Sanctum

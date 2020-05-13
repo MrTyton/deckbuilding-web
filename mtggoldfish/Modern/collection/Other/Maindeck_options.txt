@@ -106,16 +106,16 @@
 1 Archmage's Charm
 1 Omen of the Sea
 1 Counterbalance
-1 Terminus
 1 Entreat the Angels
 1 Spell Snare
+1 Terminus
 1 Logic Knot
 1 Prairie Stream
 2 Omen of the Sea
 2 Counterbalance
 2 Archmage's Charm
-2 Terminus
 2 Logic Knot
+2 Terminus
 3 Terminus
 3 Counterbalance
 3 Omen of the Sea
@@ -308,10 +308,10 @@
 2 Field of Ruin
 3 Field of Ruin
 1 Spreading Seas
-1 Vendilion Clique
 1 Restoration Angel
 1 Kitchen Finks
 1 Celestial Colonnade
+1 Vendilion Clique
 1 Wall of Omens
 1 On Thin Ice
 1 Venser, Shaper Savant
@@ -442,7 +442,6 @@
 4 Concealed Courtyard
 4 Ranger-Captain of Eos
 1 Simian Spirit Guide
-1 Street Wraith
 1 Violent Outburst
 1 Living End
 1 Ardent Plea
@@ -450,6 +449,7 @@
 1 Curator of Mysteries
 1 Spirebluff Canal
 1 Desert Cerodon
+1 Street Wraith
 1 Striped Riverwinder
 2 Violent Outburst
 2 Spirebluff Canal
@@ -611,6 +611,7 @@
 4 Sakura-Tribe Elder
 4 Primeval Titan
 4 Farseek
+1 Eternal Witness
 1 Blood Moon
 1 Elderscale Wurm
 1 Xenagos, God of Revels
@@ -621,7 +622,6 @@
 1 Nissa, Worldwaker
 1 Overgrowth
 1 Primal Command
-1 Eternal Witness
 1 Kiora, Behemoth Beckoner
 2 Magus of the Moon
 2 Blood Moon

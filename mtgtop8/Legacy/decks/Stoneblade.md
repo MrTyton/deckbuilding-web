@@ -34,6 +34,6 @@
 |*n*<sup>th</sup> copy|                                   Maindeck Card                                    |*n*<sup>th</sup> copy|                                       Sideboard Card                                       |
 |--------------------:|------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------|
 |                    2|[Preordain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405347)|                    1|[Blue Elemental Blast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=694)|
-|                     |                                                                                    |                    1|[Blazing Volley](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426821)   |
 |                     |                                                                                    |                    3|[Pyroblast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=4083)          |
+|                     |                                                                                    |                    1|[Blazing Volley](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426821)   |
 
