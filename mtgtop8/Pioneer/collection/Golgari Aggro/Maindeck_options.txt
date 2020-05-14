@@ -49,16 +49,16 @@
 1 Zulaport Cutthroat
 1 Priest of Forgotten Gods
 2 Satyr Wayfinder
-2 Catacomb Sifter
 2 Plaguecrafter
+2 Catacomb Sifter
 2 Westvale Abbey
 2 Gruesome Menagerie
 2 Woe Strider
 2 Zulaport Cutthroat
 2 Priest of Forgotten Gods
+3 Satyr Wayfinder
 3 Catacomb Sifter
 3 Plaguecrafter
-3 Satyr Wayfinder
 3 Woe Strider
 3 Zulaport Cutthroat
 4 Plaguecrafter
@@ -99,8 +99,8 @@
 3 Experiment One
 4 Experiment One
 1 Vraska, Golgari Queen
-1 Nissa, Who Shakes the World
 1 Yorvo, Lord of Garenbrig
+1 Nissa, Who Shakes the World
 1 Mana Confluence
 2 Yorvo, Lord of Garenbrig
 2 Nissa, Who Shakes the World
@@ -115,12 +115,17 @@
 1 Heart of Kiran
 1 Questing Beast
 2 Heart of Kiran
-3 Heart of Kiran
 3 Rhonas the Indomitable
+3 Heart of Kiran
 1 Animation Module
 2 Animation Module
 3 Animation Module
 3 Swamp
+1 Nantuko Husk
+1 Blisterpod
+2 Nantuko Husk
+3 Gruesome Menagerie
+4 Satyr Wayfinder
 1 Woodland Cemetery
 1 Avatar of the Resolute
 1 Pelt Collector
@@ -135,8 +140,3 @@
 4 The Great Henge
 3 Rishkar, Peema Renegade
 4 Rishkar, Peema Renegade
-1 Nantuko Husk
-1 Blisterpod
-2 Nantuko Husk
-3 Gruesome Menagerie
-4 Satyr Wayfinder

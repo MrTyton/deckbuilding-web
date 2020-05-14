@@ -39,16 +39,16 @@
 3 Blood Crypt
 4 Blood Crypt
 1 Assassin's Trophy
+1 Chevill, Bane of Monsters
 1 Kolaghan's Command
 1 Soul-Guide Lantern
 1 Unbridled Growth
 1 Dead Weight
-1 Chevill, Bane of Monsters
 1 Grim Flayer
+2 Chevill, Bane of Monsters
 2 Soul-Guide Lantern
 2 Abrupt Decay
 2 Dead Weight
-2 Chevill, Bane of Monsters
 2 Unbridled Growth
 2 Grim Flayer
 3 Kroxa, Titan of Death's Hunger
@@ -113,8 +113,8 @@
 4 Sacred Foundry
 1 Raugrin Triome
 1 Clifftop Retreat
-2 Clifftop Retreat
 2 Raugrin Triome
+2 Clifftop Retreat
 3 Clifftop Retreat
 1 Reflector Mage
 1 Agent of Treachery
@@ -132,11 +132,11 @@
 1 Battlefield Forge
 1 Chained to the Rocks
 2 Reflector Mage
-2 Castle Embereth
 2 Agent of Treachery
+2 Castle Embereth
+2 Eldrazi Displacer
 2 Cloudblazer
 2 Lavinia of the Tenth
-2 Eldrazi Displacer
 2 Fire Prophecy
 2 Goblin Instigator
 2 Winota, Joiner of Forces
@@ -147,7 +147,6 @@
 2 Chained to the Rocks
 3 Reflector Mage
 3 Agent of Treachery
-3 Raugrin Triome
 3 Eldrazi Displacer
 3 Phyrexian Revoker
 3 Goblin Instigator
@@ -161,14 +160,15 @@
 3 Blast Zone
 3 Chained to the Rocks
 3 Battlefield Forge
+3 Raugrin Triome
 4 Reflector Mage
 4 Raugrin Triome
 4 Agent of Treachery
-4 Blast Zone
 4 Winota, Joiner of Forces
 4 Clifftop Retreat
 4 Goblin Instigator
 4 Fire Prophecy
+4 Blast Zone
 4 Hanged Executioner
 4 Castle Embereth
 4 Chained to the Rocks
@@ -243,17 +243,17 @@
 3 Traverse the Ulvenwald
 4 Traverse the Ulvenwald
 1 Supreme Verdict
+1 Cast Out
 1 Zenith Flare
 1 Azorius Charm
 1 Sulfur Falls
+1 Neutralize
+1 Castle Vantress
 1 Flourishing Fox
 1 Hieroglyphic Illumination
-1 Castle Vantress
 1 Nimble Obstructionist
 1 Censor
 1 Shark Typhoon
-1 Neutralize
-1 Cast Out
 2 Hieroglyphic Illumination
 2 Flourishing Fox
 2 Zenith Flare
@@ -261,8 +261,8 @@
 2 Nimble Obstructionist
 2 Censor
 2 Shark Typhoon
-2 Sulfur Falls
 2 Neutralize
+2 Sulfur Falls
 2 Cast Out
 2 Supreme Verdict
 2 Island
@@ -271,9 +271,9 @@
 3 Zenith Flare
 3 Azorius Charm
 3 Hieroglyphic Illumination
-3 Neutralize
 3 Flourishing Fox
 3 Censor
+3 Neutralize
 3 Shark Typhoon
 3 Sulfur Falls
 4 Sulfur Falls
@@ -306,10 +306,10 @@
 3 Steel Overseer
 2 Mutavault
 1 Aether Hub
-1 Ensoul Artifact
-1 Shrapnel Blast
 1 Bomat Courier
 1 Gingerbrute
+1 Shrapnel Blast
+1 Ensoul Artifact
 1 Springleaf Drum
 1 Spire of Industry
 1 Ghostfire Blade
@@ -320,10 +320,10 @@
 1 All That Glitters
 1 Mana Confluence
 2 Aether Hub
+2 Bomat Courier
+2 Darksteel Citadel
 2 Ensoul Artifact
 2 Shrapnel Blast
-2 Darksteel Citadel
-2 Bomat Courier
 2 Springleaf Drum
 2 Spire of Industry
 2 Ghostfire Blade
@@ -334,24 +334,24 @@
 2 Mana Confluence
 2 Metallic Rebuke
 3 Stonecoil Serpent
-3 Spire of Industry
-3 Shrapnel Blast
-3 Ensoul Artifact
-3 Mana Confluence
-3 Darksteel Citadel
-3 Aether Hub
 3 Bomat Courier
+3 Spire of Industry
+3 Aether Hub
+3 Darksteel Citadel
+3 Mana Confluence
+3 Ensoul Artifact
+3 Shrapnel Blast
 3 Springleaf Drum
 3 Ghostfire Blade
 3 Gingerbrute
 3 Ornithopter
 3 All That Glitters
 4 Stonecoil Serpent
-4 Shrapnel Blast
-4 Ensoul Artifact
-4 Spire of Industry
-4 Aether Hub
 4 Bomat Courier
+4 Spire of Industry
+4 Ensoul Artifact
+4 Shrapnel Blast
+4 Aether Hub
 4 Springleaf Drum
 4 Ghostfire Blade
 4 Mana Confluence
@@ -413,8 +413,8 @@
 3 Defiant Strike
 3 Favored Hoplite
 3 Gods Willing
-3 Staggering Insight
 3 Curious Obsession
+3 Staggering Insight
 3 Inspiring Vantage
 3 Reckless Rage
 3 Monastery Swiftspear

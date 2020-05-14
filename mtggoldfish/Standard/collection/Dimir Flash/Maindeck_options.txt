@@ -69,30 +69,30 @@
 1 Pteramander
 2 Pteramander
 4 Opt
-1 Mountain
-1 Bonecrusher Giant
 1 Temple of Epiphany
 1 Steam Vents
+1 Bonecrusher Giant
+1 Mountain
 1 Irencrag Pyromancer
-2 Mountain
 2 Temple of Epiphany
-2 Bonecrusher Giant
 2 Steam Vents
+2 Bonecrusher Giant
 2 Irencrag Pyromancer
+2 Mountain
 3 Temple of Epiphany
-3 Mountain
 3 Steam Vents
 3 Irencrag Pyromancer
 3 Bonecrusher Giant
-4 Mountain
+3 Mountain
 4 Steam Vents
 4 Bonecrusher Giant
+4 Mountain
 2 Castle Locthwain
-1 Dream Eater
-1 Zagoth Triome
-1 Tyrant's Scorn
 1 Thassa's Intervention
+1 Tyrant's Scorn
+1 Dream Eater
 1 Thryx, the Sudden Storm
+1 Zagoth Triome
 2 Zagoth Triome
 3 Voracious Greatshark
 1 Whirlwind Denial
@@ -111,23 +111,23 @@
 4 Pteramander
 1 Threnody Singer
 2 Threnody Singer
-1 Heraldic Banner
+1 Shark Typhoon
 1 Starlit Mantle
 1 Overwhelmed Apprentice
-1 Shark Typhoon
-2 Heraldic Banner
+1 Heraldic Banner
 2 Mystic Sanctuary
 2 Starlit Mantle
 2 Shark Typhoon
 2 Overwhelmed Apprentice
-3 Shark Typhoon
-3 Heraldic Banner
+2 Heraldic Banner
 3 Starlit Mantle
 3 Mystic Sanctuary
 3 Overwhelmed Apprentice
+3 Heraldic Banner
+3 Shark Typhoon
 4 Castle Vantress
-4 Heraldic Banner
 4 Overwhelmed Apprentice
+4 Heraldic Banner
 4 Mystic Sanctuary
 1 Omen of the Sea
 1 Narset, Parter of Veils
@@ -136,6 +136,8 @@
 2 Cavern Whisperer
 1 Mysterious Egg
 4 Knight of the Ebon Legion
+4 Sinister Sabotage
+4 Quench
 1 Gingerbrute
 1 Ionize
 2 Gingerbrute
@@ -145,18 +147,16 @@
 4 Temple of Epiphany
 4 Gingerbrute
 4 Ionize
-4 Quench
-4 Sinister Sabotage
+1 Plains
+1 Dovin's Veto
 1 Faerie Vandal
 1 Hallowed Fountain
 1 Skycat Sovereign
-1 Dovin's Veto
 1 Staggering Insight
 1 Gods Willing
-1 Plains
+2 Plains
 2 Staggering Insight
 2 Gods Willing
-2 Plains
 2 Faerie Vandal
 2 Hallowed Fountain
 2 Skycat Sovereign

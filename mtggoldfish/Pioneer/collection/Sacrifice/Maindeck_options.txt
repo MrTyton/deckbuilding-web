@@ -16,8 +16,8 @@
 3 Swamp
 3 Plains
 3 Caves of Koilos
-4 Plains
 4 Swamp
+4 Plains
 4 Caves of Koilos
 5 Swamp
 1 Gutterbones
@@ -30,12 +30,8 @@
 1 Call of the Death-Dweller
 1 Keening Apparition
 2 Ayli, Eternal Pilgrim
-1 Mana Confluence
-1 Voice of Resurgence
-2 Mana Confluence
-2 Voice of Resurgence
-3 Voice of Resurgence
-4 Voice of Resurgence
+3 Gutterbones
+4 Gutterbones
 1 Witch's Oven
 1 Cauldron Familiar
 2 Witch's Oven
@@ -46,5 +42,9 @@
 4 Witch's Oven
 6 Swamp
 7 Swamp
-3 Gutterbones
-4 Gutterbones
+1 Mana Confluence
+1 Voice of Resurgence
+2 Mana Confluence
+2 Voice of Resurgence
+3 Voice of Resurgence
+4 Voice of Resurgence
