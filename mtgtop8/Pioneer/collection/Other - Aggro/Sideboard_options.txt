@@ -44,6 +44,9 @@
 2 Gideon, Ally of Zendikar
 1 Ratchet Bomb
 2 Ratchet Bomb
+1 Anguished Unmaking
+1 Aethersphere Harvester
+2 Anguished Unmaking
 1 Leyline of the Void
 2 Leyline of the Void
 1 Plaguecrafter
@@ -67,16 +70,6 @@
 1 Oath of Kaya
 2 Authority of the Consuls
 2 Oath of Kaya
-1 Anguished Unmaking
-1 Aethersphere Harvester
-2 Anguished Unmaking
-1 Questing Beast
-1 Courser of Kruphix
-1 Lost Legacy
-1 Agonizing Remorse
-2 Courser of Kruphix
-2 Agonizing Remorse
-3 Leyline of the Void
 1 Supreme Verdict
 1 Narset, Parter of Veils
 1 Dream Trawler
@@ -85,6 +78,13 @@
 2 Blessed Alliance
 3 Blessed Alliance
 3 Dovin's Veto
+1 Questing Beast
+1 Courser of Kruphix
+1 Lost Legacy
+1 Agonizing Remorse
+2 Courser of Kruphix
+2 Agonizing Remorse
+3 Leyline of the Void
 1 Apostle of Purifying Light
 2 Apostle of Purifying Light
 1 Irencrag Pyromancer
@@ -137,11 +137,11 @@
 1 Yorion, Sky Nomad
 1 Lena, Selfless Champion
 2 Drannith Magistrate
-2 Lena, Selfless Champion
 2 Chandra, Awakened Inferno
-3 Drannith Magistrate
+2 Lena, Selfless Champion
 3 Deafening Silence
 3 Apostle of Purifying Light
+3 Drannith Magistrate
 4 Apostle of Purifying Light
 1 Ashiok's Erasure
 1 Display of Dominance

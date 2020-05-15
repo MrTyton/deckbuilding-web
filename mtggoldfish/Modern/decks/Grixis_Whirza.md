@@ -83,6 +83,6 @@
 |                    2|[Mystic Sanctuary](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473209)           |                     |                                                                                                   |
 |                    2|[Prismatic Vista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464193)            |                     |                                                                                                   |
 |                    3|[Whir of Invention](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423716)          |                     |                                                                                                   |
-|                    3|[Galvanic Blast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442781)             |                     |                                                                                                   |
 |                    4|[Galvanic Blast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442781)             |                     |                                                                                                   |
+|                    3|[Galvanic Blast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442781)             |                     |                                                                                                   |
 

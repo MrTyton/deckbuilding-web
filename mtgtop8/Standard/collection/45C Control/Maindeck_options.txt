@@ -1,28 +1,25 @@
-1 Temple Garden
-1 Uro, Titan of Nature's Wrath
-1 Breeding Pool
 2 Uro, Titan of Nature's Wrath
 3 Uro, Titan of Nature's Wrath
-1 Island
+1 Tamiyo, Collector of Tales
+1 Temple Garden
 1 Overgrown Tomb
 2 Temple Garden
+2 Tamiyo, Collector of Tales
 2 Breeding Pool
 3 Breeding Pool
-2 Tamiyo, Collector of Tales
 4 Uro, Titan of Nature's Wrath
 1 Zagoth Triome
+1 Island
 1 Forest
 1 Fabled Passage
 2 Fabled Passage
 3 Fabled Passage
 4 Fabled Passage
 1 Indatha Triome
-2 Indatha Triome
 2 Zagoth Triome
+2 Indatha Triome
 3 Indatha Triome
 3 Zagoth Triome
-4 Indatha Triome
-4 Zagoth Triome
 1 Plains
 4 Breeding Pool
 1 Growth Spiral
@@ -35,25 +32,32 @@
 1 Casualties of War
 2 Casualties of War
 2 Forest
-1 Kaya, Orzhov Usurper
+4 Elspeth Conquers Death
 3 Growth Spiral
 4 Growth Spiral
-4 Elspeth Conquers Death
-2 Cry of the Carnarium
+4 Zagoth Triome
+4 Indatha Triome
 2 Plains
+3 Casualties of War
+3 Shatter the Sky
+2 Steam Vents
+1 Shark Typhoon
+2 Shark Typhoon
+3 Temple Garden
+2 Island
 1 Raugrin Triome
-1 Temple of Enlightenment
 1 Ketria Triome
 2 Ketria Triome
-3 Casualties of War
 1 Agent of Treachery
 2 Agent of Treachery
-3 Shatter the Sky
+1 Kaya, Orzhov Usurper
 4 Temple of Silence
 1 Ashiok, Nightmare Muse
 2 Raugrin Triome
+2 Cry of the Carnarium
 3 Ketria Triome
 1 Mountain
+1 Vraska, Golgari Queen
 1 Stomping Ground
 2 Stomping Ground
 1 Savai Triome
@@ -61,7 +65,6 @@
 2 Niv-Mizzet Reborn
 3 Niv-Mizzet Reborn
 1 Temple of Mystery
-2 Island
 3 Agent of Treachery
 1 Cavalier of Thorns
 1 Mythos of Illuna
@@ -72,9 +75,9 @@
 3 Temple of Mystery
 4 Ketria Triome
 1 Thassa, Deep-Dwelling
+1 Omnath, Locus of the Roil
 1 Risen Reef
 1 Leafkin Druid
-1 Omnath, Locus of the Roil
 2 Risen Reef
 2 Leafkin Druid
 3 Risen Reef
@@ -85,8 +88,8 @@
 4 Leafkin Druid
 1 Arboreal Grazer
 1 Temple of Epiphany
-1 Temple of Abandon
 1 Genesis Ultimatum
+1 Temple of Abandon
 2 Temple of Epiphany
 2 Arboreal Grazer
 2 Temple of Abandon
@@ -101,26 +104,27 @@
 3 Genesis Ultimatum
 4 Steam Vents
 4 Arboreal Grazer
-4 Agent of Treachery
 4 Temple of Epiphany
+4 Agent of Treachery
 4 Temple of Mystery
 4 Genesis Ultimatum
 4 Cavalier of Thorns
 4 Omnath, Locus of the Roil
 4 Stomping Ground
+1 Temple of Enlightenment
 3 Mythos of Illuna
+3 Shark Typhoon
 1 Heartless Act
-1 Shark Typhoon
 2 Heartless Act
-2 Shark Typhoon
-3 Temple Garden
 3 Agonizing Remorse
+2 Vraska, Golgari Queen
 1 Mystical Dispute
 1 Nissa, Who Shakes the World
 1 Hydroid Krasis
 2 Nissa, Who Shakes the World
 2 Hydroid Krasis
 4 Oath of Kaya
+3 Overgrown Tomb
 3 Raugrin Triome
 4 Raugrin Triome
 2 Ashiok, Nightmare Muse
@@ -128,8 +132,8 @@
 1 Klothys, God of Destiny
 1 Deafening Clarion
 2 Deafening Clarion
+1 Dovin's Veto
 1 Paradise Druid
-1 Vraska, Golgari Queen
 1 Knight of Autumn
 2 Paradise Druid
 2 Knight of Autumn
@@ -143,7 +147,6 @@
 3 Gilded Goose
 1 Elite Guardmage
 2 Elite Guardmage
-1 Spark Double
 1 Kenrith, the Returned King
 1 Unmoored Ego
 3 Deafening Clarion
@@ -154,19 +157,23 @@
 2 Extinction Event
 3 Disinformation Campaign
 3 Heartless Act
-3 Shark Typhoon
 4 Agonizing Remorse
-1 Quasiduplicate
-2 Thassa, Deep-Dwelling
-4 Temple of Abandon
+1 Castle Vantress
+1 Glass Casket
+2 Dovin's Veto
+2 Glass Casket
+3 Tamiyo, Collector of Tales
+4 Temple Garden
 2 Swamp
 3 Nissa, Who Shakes the World
 3 Hydroid Krasis
 4 Nissa, Who Shakes the World
+1 Quasiduplicate
+2 Thassa, Deep-Dwelling
+4 Temple of Abandon
 1 Treacherous Blessing
-2 Vraska, Golgari Queen
-3 Knight of Autumn
 3 Vraska, Golgari Queen
+3 Knight of Autumn
 4 Mythos of Illuna
 4 Paradise Druid
 4 Vraska, Golgari Queen
@@ -176,17 +183,19 @@
 1 Thornwood Falls
 1 Swiftwater Cliffs
 1 Teferi's Time Twist
+1 Spark Double
 1 Wind-Scarred Crag
 1 Rugged Highlands
-1 Flicker of Fate
 1 Meteor Golem
+1 Flicker of Fate
 1 Neoform
 1 Fire Prophecy
-1 Blossoming Sands
 1 Frost Lynx
+1 Blossoming Sands
 1 Centaur Peacemaker
 1 Cloudkin Seer
 2 Scampering Scorcher
+2 Wind-Scarred Crag
 2 Tranquil Cove
 2 Thornwood Falls
 2 Teferi's Time Twist
@@ -200,7 +209,6 @@
 2 Blossoming Sands
 2 Mountain
 2 Frost Lynx
-2 Wind-Scarred Crag
 3 Plains
 3 Scampering Scorcher
 3 Tranquil Cove
@@ -217,19 +225,15 @@
 4 Flicker of Fate
 4 Evolving Wilds
 4 Thornwood Falls
-4 Fire Prophecy
 4 Cloudkin Seer
-4 Neoform
 4 Island
+4 Neoform
+4 Fire Prophecy
 4 Frost Lynx
 4 Forest
 5 Forest
-1 Fblthp, the Lost
-1 Kasmina, Enigmatic Mentor
-1 Command the Dreadhorde
-1 Ral, Izzet Viceroy
-2 Temple of Enlightenment
-2 Kaya, Orzhov Usurper
+1 Time Wipe
+2 Time Wipe
 1 Elspeth, Sun's Nemesis
 1 Soul Diviner
 2 Soul Diviner
@@ -239,9 +243,6 @@
 2 Despark
 2 Solar Blaze
 3 Solar Blaze
-1 Time Wipe
-2 Time Wipe
-3 Overgrown Tomb
 1 Tale's End
 1 Narset of the Ancient Way
 2 Tale's End
@@ -252,7 +253,6 @@
 1 Polukranos, Unchained
 1 Kunoros, Hound of Athreos
 1 Drown in the Loch
-1 Dovin's Veto
 2 Drown in the Loch
 4 Gilded Goose
 1 Brazen Borrower

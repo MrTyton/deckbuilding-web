@@ -48,6 +48,6 @@
 |                    2|[Path to Exile](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220511)      |                     |                                                                                                 |
 |                    3|[Path to Exile](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220511)      |                     |                                                                                                 |
 |                    1|[Snow-Covered Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121192)|                     |                                                                                                 |
-|                    2|[Snow-Covered Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121192)|                     |                                                                                                 |
 |                    3|[Wooded Foothills](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405116)   |                     |                                                                                                 |
+|                    2|[Snow-Covered Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121192)|                     |                                                                                                 |
 

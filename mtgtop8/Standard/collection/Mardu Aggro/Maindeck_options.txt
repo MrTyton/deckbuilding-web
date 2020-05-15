@@ -27,8 +27,8 @@
 1 Dreadhorde Butcher
 2 Dreadhorde Butcher
 3 Dreadhorde Butcher
-4 Dreadhorde Butcher
 4 Serrated Scorpion
+4 Dreadhorde Butcher
 1 Stormfist Crusader
 2 Stormfist Crusader
 2 Savai Triome
@@ -87,32 +87,33 @@
 2 Bastion of Remembrance
 4 Stormfist Crusader
 4 Plains
-1 Tajic, Legion's Edge
 1 General Kudro of Drannith
-1 General's Enforcer
 1 Hero of Precinct One
+1 Tajic, Legion's Edge
 1 Outlaws' Merriment
 1 Lavabrink Venturer
-2 Tajic, Legion's Edge
-2 General Kudro of Drannith
-2 General's Enforcer
+1 General's Enforcer
 2 Judith, the Scourge Diva
+2 General Kudro of Drannith
 2 Hero of Precinct One
+2 General's Enforcer
 2 Lavabrink Venturer
-3 Tajic, Legion's Edge
+2 Tajic, Legion's Edge
+3 Judith, the Scourge Diva
 3 General Kudro of Drannith
 3 Hero of Precinct One
 3 General's Enforcer
-3 Judith, the Scourge Diva
+3 Tajic, Legion's Edge
+4 Savai Triome
 4 Hero of Precinct One
 4 General's Enforcer
-4 Savai Triome
 1 Order of Midnight
 2 Order of Midnight
 1 Castle Embereth
 1 Slaughter-Priest of Mogis
-1 Evolving Wilds
+1 Seraph of the Scales
 1 Anax, Hardened in the Forge
+1 Evolving Wilds
 1 Kenrith, the Returned King
 1 Elspeth Conquers Death
 1 Aurelia, Exemplar of Justice
@@ -120,7 +121,6 @@
 1 Chandra, Acolyte of Flame
 1 Temple of Enlightenment
 1 Blood Aspirant
-1 Seraph of the Scales
 2 Slaughter-Priest of Mogis
 2 Blood Aspirant
 2 Chandra, Acolyte of Flame
@@ -138,25 +138,25 @@
 3 Swiftblade Vindicator
 3 Despark
 3 Lavabrink Venturer
+1 Icon of Ancestry
+1 Sorin, Vengeful Bloodlord
+1 Revival / Revenge
+2 Icon of Ancestry
+2 Sorin, Vengeful Bloodlord
+2 Revival / Revenge
+4 General Kudro of Drannith
+1 Acclaimed Contender
+1 Murderous Rider
+2 Acclaimed Contender
+2 Murderous Rider
+3 Acclaimed Contender
+4 Acclaimed Contender
 1 Smitten Swordmaster
 2 Smitten Swordmaster
 3 Smitten Swordmaster
 4 Smitten Swordmaster
-1 Sorin, Vengeful Bloodlord
-1 Revival / Revenge
-1 Icon of Ancestry
-2 Sorin, Vengeful Bloodlord
-2 Icon of Ancestry
-2 Revival / Revenge
-4 General Kudro of Drannith
 3 Fiend Artisan
 4 Woe Strider
-1 Acclaimed Contender
-1 Murderous Rider
-2 Murderous Rider
-2 Acclaimed Contender
-3 Acclaimed Contender
-4 Acclaimed Contender
 4 Luminous Broodmoth
 4 Hunted Witness
 1 Memory Leak

@@ -64,22 +64,22 @@
 1 Neutralize
 1 Nightpack Ambusher
 1 Frilled Mystic
-1 Quench
-1 Heartless Act
 1 Brineborn Cutthroat
 1 Slitherwisp
+1 Quench
+1 Heartless Act
 2 Neutralize
 2 Nightpack Ambusher
 2 Frilled Mystic
-2 Heartless Act
-2 Slitherwisp
-2 Brineborn Cutthroat
 2 Quench
+2 Brineborn Cutthroat
+2 Slitherwisp
+2 Heartless Act
 3 Brazen Borrower
 3 Frilled Mystic
+3 Slitherwisp
 3 Brineborn Cutthroat
 3 Quench
-3 Slitherwisp
 4 Brazen Borrower
 4 Quench
 4 Brineborn Cutthroat
@@ -116,10 +116,10 @@
 4 Paradise Druid
 2 Lotus Field
 3 Temple of Deceit
-1 Negate
 1 Cunning Nightbonder
-2 Negate
+1 Negate
 2 Cunning Nightbonder
+2 Negate
 3 Neutralize
 3 Nightpack Ambusher
 3 Heartless Act
@@ -129,6 +129,29 @@
 1 Spectral Sailor
 2 Spectral Sailor
 4 Frilled Mystic
+1 Vraska, Golgari Queen
+1 Tyrant's Scorn
+1 Mire Triton
+1 Lazav, the Multifarious
+1 Enter the God-Eternals
+1 Find / Finality
+1 Thief of Sanity
+1 Thought Erasure
+2 Mire Triton
+2 Lazav, the Multifarious
+2 Thief of Sanity
+2 Tyrant's Scorn
+2 Enter the God-Eternals
+2 Find / Finality
+2 Thought Erasure
+3 Mire Triton
+3 Lazav, the Multifarious
+3 Thief of Sanity
+3 Thought Erasure
+3 Enter the God-Eternals
+4 Thief of Sanity
+4 Thought Erasure
+4 Lazav, the Multifarious
 1 Blast Zone
 1 Repudiate / Replicate
 1 Maraleaf Pixie
@@ -152,49 +175,26 @@
 1 Knight of the Ebon Legion
 1 Insatiable Hemophage
 1 Pollywog Symbiote
-1 Gemrazer
 1 Stonecoil Serpent
+1 Gemrazer
 1 Boneyard Lurker
 2 Knight of the Ebon Legion
 2 Insatiable Hemophage
-2 Pollywog Symbiote
-2 Gemrazer
-2 Stonecoil Serpent
 2 Sea-Dasher Octopus
+2 Pollywog Symbiote
+2 Stonecoil Serpent
+2 Gemrazer
 2 Boneyard Lurker
 2 Castle Locthwain
 3 Knight of the Ebon Legion
 3 Insatiable Hemophage
+3 Sea-Dasher Octopus
 3 Pollywog Symbiote
+3 Dirge Bat
 3 Gemrazer
 3 Stonecoil Serpent
-3 Sea-Dasher Octopus
-3 Dirge Bat
 4 Dirge Bat
+4 Sea-Dasher Octopus
 4 Pollywog Symbiote
 4 Gemrazer
 4 Stonecoil Serpent
-4 Sea-Dasher Octopus
-1 Vraska, Golgari Queen
-1 Tyrant's Scorn
-1 Mire Triton
-1 Lazav, the Multifarious
-1 Enter the God-Eternals
-1 Find / Finality
-1 Thief of Sanity
-1 Thought Erasure
-2 Mire Triton
-2 Lazav, the Multifarious
-2 Thief of Sanity
-2 Enter the God-Eternals
-2 Tyrant's Scorn
-2 Find / Finality
-2 Thought Erasure
-3 Mire Triton
-3 Lazav, the Multifarious
-3 Thief of Sanity
-3 Enter the God-Eternals
-3 Thought Erasure
-4 Thief of Sanity
-4 Lazav, the Multifarious
-4 Thought Erasure

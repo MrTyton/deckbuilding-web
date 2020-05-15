@@ -1,13 +1,13 @@
-2 Teferi, Time Raveler
+1 Temple of Enlightenment
 2 Irrigated Farmland
+2 Teferi, Time Raveler
 2 Temple of Enlightenment
-3 Teferi, Time Raveler
 3 Irrigated Farmland
+3 Teferi, Time Raveler
 3 Temple of Enlightenment
 4 Irrigated Farmland
 4 Temple of Enlightenment
 14 Plains
-4 Charming Prince
 4 Knight of the White Orchid
 1 Reflector Mage
 2 Reflector Mage
@@ -16,15 +16,15 @@
 3 Baffling End
 1 Castle Ardenvale
 4 Baffling End
-3 Elspeth Conquers Death
 1 Tomik, Distinguished Advokist
+3 Elspeth Conquers Death
 3 Stasis Snare
 1 Gideon's Intervention
 2 Gideon's Intervention
+2 Castle Ardenvale
 3 Daxos, Blessed by the Sun
 2 Tomik, Distinguished Advokist
 4 Teferi, Time Raveler
-2 Castle Ardenvale
 15 Plains
 16 Plains
 1 Gideon of the Trials
@@ -34,48 +34,80 @@
 1 The Birth of Meletis
 2 The Birth of Meletis
 1 Port Town
-1 Gideon, Ally of Zendikar
 17 Plains
 3 Idyllic Grange
 18 Plains
+1 Gideon, Ally of Zendikar
 1 Legion's Landing
 2 Legion's Landing
-2 Gideon, Ally of Zendikar
-3 Anafenza, Kin-Tree Spirit
-1 Detention Sphere
 19 Plains
 20 Plains
 21 Plains
 22 Plains
+3 Gideon of the Trials
+1 Skysovereign, Consul Flagship
+3 Anafenza, Kin-Tree Spirit
+1 Detention Sphere
+4 Idyllic Grange
 23 Plains
 24 Plains
 1 Benalish Marshal
 2 Benalish Marshal
-3 Gideon of the Trials
-1 Skysovereign, Consul Flagship
+2 Gideon, Ally of Zendikar
 4 Stasis Snare
 2 Detention Sphere
 1 Teferi, Hero of Dominaria
 2 Port Town
 3 Tomik, Distinguished Advokist
+1 Lurrus of the Dream-Den
+1 Banishing Light
+3 Gideon's Intervention
+4 Gideon of the Trials
 3 The Birth of Meletis
 4 The Birth of Meletis
 4 Elspeth Conquers Death
 1 Karn, the Great Creator
 2 Karn, the Great Creator
 3 Karn, the Great Creator
-4 Idyllic Grange
 4 Karn, the Great Creator
 3 Benalish Marshal
 4 Benalish Marshal
 25 Plains
+1 Toolcraft Exemplar
+1 Dauntless Bodyguard
+1 Kytheon, Hero of Akros
+1 Glass Casket
+1 Selfless Spirit
+1 Heart of Kiran
+1 Mox Amber
+1 Brave the Elements
+2 Toolcraft Exemplar
+2 Dauntless Bodyguard
+2 Kytheon, Hero of Akros
+2 Glass Casket
+2 Selfless Spirit
+2 Heart of Kiran
+2 Brave the Elements
+2 Mox Amber
+3 Dauntless Bodyguard
+3 Heart of Kiran
+3 Glass Casket
+3 Selfless Spirit
+3 Mox Amber
+3 Kytheon, Hero of Akros
+3 Toolcraft Exemplar
+4 Dauntless Bodyguard
+4 Toolcraft Exemplar
+4 Kytheon, Hero of Akros
+4 Mox Amber
+4 Selfless Spirit
 1 Curious Obsession
 1 Mana Confluence
+1 Seeker of the Way
 1 Staggering Insight
 1 Lagonna-Band Trailblazer
-1 Seeker of the Way
-1 Siren Stormtamer
 1 Gods Willing
+1 Siren Stormtamer
 1 Light of Hope
 1 Favored Hoplite
 1 Ipnu Rivulet
@@ -83,10 +115,10 @@
 1 Fight as One
 2 Curious Obsession
 2 Seeker of the Way
-2 Siren Stormtamer
 2 Lagonna-Band Trailblazer
 2 Staggering Insight
 2 Mana Confluence
+2 Siren Stormtamer
 2 Gods Willing
 2 Light of Hope
 2 Favored Hoplite
@@ -94,52 +126,24 @@
 2 Defiant Strike
 2 Fight as One
 3 Seeker of the Way
-3 Staggering Insight
-3 Siren Stormtamer
 3 Lagonna-Band Trailblazer
 3 Curious Obsession
-3 Gods Willing
+3 Staggering Insight
+3 Siren Stormtamer
 3 Fight as One
+3 Gods Willing
 3 Light of Hope
 3 Favored Hoplite
 3 Ipnu Rivulet
 3 Defiant Strike
-4 Fight as One
 4 Seeker of the Way
+4 Lagonna-Band Trailblazer
 4 Staggering Insight
+4 Ipnu Rivulet
 4 Siren Stormtamer
 4 Curious Obsession
-4 Lagonna-Band Trailblazer
-4 Ipnu Rivulet
-4 Light of Hope
 4 Defiant Strike
+4 Fight as One
 4 Gods Willing
 4 Favored Hoplite
-1 Toolcraft Exemplar
-1 Glass Casket
-1 Heart of Kiran
-1 Mox Amber
-1 Kytheon, Hero of Akros
-1 Selfless Spirit
-1 Brave the Elements
-1 Dauntless Bodyguard
-2 Toolcraft Exemplar
-2 Glass Casket
-2 Heart of Kiran
-2 Kytheon, Hero of Akros
-2 Brave the Elements
-2 Selfless Spirit
-2 Mox Amber
-2 Dauntless Bodyguard
-3 Heart of Kiran
-3 Glass Casket
-3 Dauntless Bodyguard
-3 Selfless Spirit
-3 Mox Amber
-3 Kytheon, Hero of Akros
-3 Toolcraft Exemplar
-4 Toolcraft Exemplar
-4 Kytheon, Hero of Akros
-4 Mox Amber
-4 Dauntless Bodyguard
-4 Selfless Spirit
+4 Light of Hope
