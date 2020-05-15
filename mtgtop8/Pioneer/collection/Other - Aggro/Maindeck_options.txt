@@ -29,8 +29,8 @@
 3 Satyr Wayfinder
 4 Satyr Wayfinder
 1 Mountain
-1 Kroxa, Titan of Death's Hunger
 1 Dreadbore
+1 Kroxa, Titan of Death's Hunger
 1 Blood Crypt
 1 Stomping Ground
 2 Kroxa, Titan of Death's Hunger
@@ -124,8 +124,8 @@
 1 Goblin Instigator
 1 Winota, Joiner of Forces
 1 Cloudblazer
-1 Eldrazi Displacer
 1 Phyrexian Revoker
+1 Eldrazi Displacer
 1 Hanged Executioner
 1 Chandra, Acolyte of Flame
 1 Temple of Triumph
@@ -138,8 +138,8 @@
 2 Lavinia of the Tenth
 2 Eldrazi Displacer
 2 Winota, Joiner of Forces
-2 Goblin Instigator
 2 Fire Prophecy
+2 Goblin Instigator
 2 Hanged Executioner
 2 Chandra, Acolyte of Flame
 2 Phyrexian Revoker
@@ -164,9 +164,9 @@
 4 Reflector Mage
 4 Raugrin Triome
 4 Agent of Treachery
-4 Blast Zone
 4 Clifftop Retreat
 4 Goblin Instigator
+4 Blast Zone
 4 Winota, Joiner of Forces
 4 Fire Prophecy
 4 Hanged Executioner
@@ -227,9 +227,9 @@
 3 Abrupt Decay
 1 Polukranos, Unchained
 1 Nissa, Vastwood Seer
-1 Hissing Quagmire
 1 Thrashing Brontodon
 1 Tasigur, the Golden Fang
+1 Hissing Quagmire
 1 Scrapheap Scrounger
 1 Traverse the Ulvenwald
 1 Ishkanah, Grafwidow
@@ -306,10 +306,10 @@
 3 Steel Overseer
 2 Mutavault
 1 Aether Hub
-1 Bomat Courier
-1 Gingerbrute
-1 Shrapnel Blast
 1 Ensoul Artifact
+1 Shrapnel Blast
+1 Gingerbrute
+1 Bomat Courier
 1 Springleaf Drum
 1 Spire of Industry
 1 Ghostfire Blade
@@ -320,10 +320,10 @@
 1 All That Glitters
 1 Mana Confluence
 2 Aether Hub
-2 Bomat Courier
-2 Darksteel Citadel
 2 Ensoul Artifact
 2 Shrapnel Blast
+2 Darksteel Citadel
+2 Bomat Courier
 2 Springleaf Drum
 2 Spire of Industry
 2 Ghostfire Blade
@@ -334,27 +334,27 @@
 2 Mana Confluence
 2 Metallic Rebuke
 3 Stonecoil Serpent
-3 Bomat Courier
 3 Spire of Industry
+3 Shrapnel Blast
+3 Ensoul Artifact
+3 Darksteel Citadel
 3 Mana Confluence
 3 Aether Hub
-3 Darksteel Citadel
-3 Ensoul Artifact
-3 Shrapnel Blast
+3 Bomat Courier
 3 Springleaf Drum
 3 Ghostfire Blade
 3 Gingerbrute
 3 Ornithopter
 3 All That Glitters
 4 Stonecoil Serpent
-4 Bomat Courier
-4 Spire of Industry
-4 Ensoul Artifact
 4 Shrapnel Blast
+4 Ensoul Artifact
+4 Spire of Industry
 4 Aether Hub
+4 Bomat Courier
+4 Mana Confluence
 4 Springleaf Drum
 4 Ghostfire Blade
-4 Mana Confluence
 4 Darksteel Citadel
 4 Gingerbrute
 4 Ornithopter
@@ -385,9 +385,7 @@
 3 Radiant Fountain
 4 Militia Bugler
 1 The Royal Scions
-1 Slip Through Space
 1 Spirebluff Canal
-1 Faerie Vandal
 1 Defiant Strike
 1 Favored Hoplite
 1 Gods Willing
@@ -395,10 +393,11 @@
 1 Curious Obsession
 1 Reckless Rage
 1 Sentinel's Eyes
+1 Faerie Vandal
+1 Slip Through Space
 1 Tenth District Legionnaire
 1 Monastery Swiftspear
 2 The Royal Scions
-2 Faerie Vandal
 2 Defiant Strike
 2 Favored Hoplite
 2 Gods Willing
@@ -408,8 +407,8 @@
 2 Monastery Swiftspear
 2 Reckless Rage
 2 Inspiring Vantage
+2 Faerie Vandal
 3 The Royal Scions
-3 Faerie Vandal
 3 Defiant Strike
 3 Favored Hoplite
 3 Gods Willing
@@ -418,6 +417,7 @@
 3 Inspiring Vantage
 3 Reckless Rage
 3 Monastery Swiftspear
+3 Faerie Vandal
 3 Tenth District Legionnaire
 4 Favored Hoplite
 4 Gods Willing
@@ -569,32 +569,32 @@
 4 Tireless Tracker
 4 Foreboding Ruins
 4 Bonecrusher Giant
-1 Champion of Dusk
-1 Sorin, Imperious Bloodlord
 1 Dusk Legion Zealot
+1 Sorin, Imperious Bloodlord
+1 Champion of Dusk
 1 Blood Baron of Vizkopa
 1 Gifted Aetherborn
 1 Kaya, Orzhov Usurper
 1 Oathsworn Vampire
 1 Knight of the Ebon Legion
-2 Sorin, Imperious Bloodlord
-2 Champion of Dusk
 2 Dusk Legion Zealot
+2 Champion of Dusk
+2 Sorin, Imperious Bloodlord
 2 Kaya, Orzhov Usurper
 2 Gifted Aetherborn
 2 Blood Baron of Vizkopa
 2 Knight of the Ebon Legion
 2 Oathsworn Vampire
-3 Dusk Legion Zealot
 3 Sorin, Imperious Bloodlord
+3 Dusk Legion Zealot
 3 Murderous Rider
 3 Gifted Aetherborn
 3 Knight of the Ebon Legion
 3 Blood Baron of Vizkopa
 3 Castle Locthwain
 3 Mutavault
-4 Dusk Legion Zealot
 4 Sorin, Imperious Bloodlord
+4 Dusk Legion Zealot
 4 Knight of the Ebon Legion
 4 Mutavault
 6 Swamp

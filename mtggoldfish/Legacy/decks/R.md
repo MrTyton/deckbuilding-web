@@ -27,8 +27,8 @@
 
 |*n*<sup>th</sup> copy|                                       Maindeck Card                                        |*n*<sup>th</sup> copy|                                     Sideboard Card                                      |
 |--------------------:|--------------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------|
-|                    1|[Sudden Shock](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370388)     |                    1|[Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)|
-|                    1|[Eldrazi Obligator](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407606)|                    1|[Tumble Magnet](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397755) |
+|                    1|[Sudden Shock](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370388)     |                    1|[Tumble Magnet](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397755) |
+|                    1|[Eldrazi Obligator](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407606)|                    1|[Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)|
 |                     |                                                                                            |                    1|[Ratchet Bomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370623)  |
 |                     |                                                                                            |                    2|[Trinisphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=43545)    |
 |                     |                                                                                            |                    2|[Ratchet Bomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370623)  |

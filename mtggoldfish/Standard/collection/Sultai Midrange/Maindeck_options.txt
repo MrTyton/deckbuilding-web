@@ -1,7 +1,5 @@
-1 Duress
-4 Temple of Mystery
-1 Swamp
 1 Island
+1 Swamp
 1 Forest
 2 Forest
 2 Hydroid Krasis
@@ -10,8 +8,9 @@
 2 Fabled Passage
 3 Fabled Passage
 1 Heartless Act
-2 Vraska, Golgari Queen
 4 Growth Spiral
+2 Cry of the Carnarium
+2 Assassin's Trophy
 4 Fabled Passage
 2 Shark Typhoon
 2 Swamp
@@ -19,12 +18,13 @@
 1 Cavalier of Thorns
 2 Cavalier of Thorns
 2 Temple of Deceit
+2 Vraska, Golgari Queen
 3 Casualties of War
 1 Extinction Event
 3 Forest
 2 Extinction Event
-1 Thassa's Intervention
 3 Cavalier of Thorns
+1 Thassa's Intervention
 1 Atris, Oracle of Half-Truths
 3 Extinction Event
 4 Casualties of War
@@ -37,38 +37,45 @@
 1 Arboreal Grazer
 1 Tale's End
 1 Eat to Extinction
-2 Arboreal Grazer
 2 Mystic Sanctuary
+2 Arboreal Grazer
 2 Narset, Parter of Veils
 3 Narset, Parter of Veils
 1 Liliana, Dreadhorde General
 1 Agent of Treachery
 1 Thought Distortion
 2 Agent of Treachery
-1 Wolfwillow Haven
-1 Migration Path
-1 Spark Double
-1 Emergent Ultimatum
 1 Murderous Rider
-2 Wolfwillow Haven
-2 Migration Path
+1 Migration Path
+1 Wolfwillow Haven
+1 Emergent Ultimatum
+1 Spark Double
 2 Liliana, Dreadhorde General
 2 Emergent Ultimatum
+2 Migration Path
+2 Wolfwillow Haven
 2 Spark Double
 3 Migration Path
 3 Wolfwillow Haven
 3 Emergent Ultimatum
 4 Emergent Ultimatum
 4 Wolfwillow Haven
-1 Shifting Ceratops
+1 Drown in the Loch
+1 Ritual of Soot
+1 Unmoored Ego
+1 Questing Beast
+2 Drown in the Loch
+3 Shark Typhoon
+4 Shark Typhoon
 1 Negate
+1 Shifting Ceratops
 2 Shifting Ceratops
 3 Heartless Act
 4 Heartless Act
 1 Aether Gust
 2 Aether Gust
-3 Tyrant's Scorn
 3 Aether Gust
+3 Tyrant's Scorn
 4 Cavalier of Thorns
 1 Paradise Druid
 2 Paradise Druid
@@ -78,10 +85,51 @@
 4 Nissa, Who Shakes the World
 4 Paradise Druid
 4 Agent of Treachery
-1 Drown in the Loch
-1 Unmoored Ego
-1 Questing Beast
-1 Ritual of Soot
-2 Drown in the Loch
-3 Shark Typhoon
-4 Shark Typhoon
+1 Expansion/Explosion
+1 Inspired Ultimatum
+1 Storm's Wrath
+1 Circuitous Route
+1 Selesnya Guildgate
+1 Plaza of Harmony
+1 Izzet Guildgate
+1 Gruul Guildgate
+1 Simic Guildgate
+1 Azorius Guildgate
+1 Guild Summit
+1 Gates Ablaze
+1 Gatebreaker Ram
+2 Expansion/Explosion
+2 Storm's Wrath
+2 Selesnya Guildgate
+2 Gatebreaker Ram
+2 Circuitous Route
+2 Simic Guildgate
+2 Plaza of Harmony
+2 Azorius Guildgate
+2 Inspired Ultimatum
+2 Guild Summit
+2 Izzet Guildgate
+2 Gruul Guildgate
+2 Gates Ablaze
+3 Storm's Wrath
+3 Simic Guildgate
+3 Gatebreaker Ram
+3 Azorius Guildgate
+3 Inspired Ultimatum
+3 Guild Summit
+3 Circuitous Route
+3 Gates Ablaze
+3 Izzet Guildgate
+3 Selesnya Guildgate
+3 Plaza of Harmony
+3 Gruul Guildgate
+4 Circuitous Route
+4 Izzet Guildgate
+4 Simic Guildgate
+4 Gates Ablaze
+4 Azorius Guildgate
+4 Selesnya Guildgate
+4 Guild Summit
+4 Plaza of Harmony
+4 Gatebreaker Ram
+4 Gruul Guildgate

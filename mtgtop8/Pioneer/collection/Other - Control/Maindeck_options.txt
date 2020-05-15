@@ -181,13 +181,13 @@
 3 Cast Down
 1 Mountain
 1 Blood Crypt
-1 Dreadbore
 1 Kroxa, Titan of Death's Hunger
+1 Dreadbore
 2 Blood Crypt
-2 Mountain
 2 Kroxa, Titan of Death's Hunger
-3 Kroxa, Titan of Death's Hunger
+2 Mountain
 3 Blood Crypt
+3 Kroxa, Titan of Death's Hunger
 4 Blood Crypt
 1 Kolaghan's Command
 1 Discovery / Dispersal
@@ -225,8 +225,8 @@
 1 Chart a Course
 1 Drown in the Loch
 2 Elspeth, Sun's Nemesis
-2 Thirst for Meaning
 2 Thought Erasure
+2 Thirst for Meaning
 2 Hero's Downfall
 1 The Eldest Reborn
 2 The Eldest Reborn
@@ -246,8 +246,8 @@
 3 Spirebluff Canal
 3 Strategic Planning
 4 Jace, Vryn's Prodigy
-4 Strategic Planning
 4 Spirebluff Canal
+4 Strategic Planning
 1 Ishkanah, Grafwidow
 1 Traverse the Ulvenwald
 1 Deathrite Shaman
@@ -271,9 +271,9 @@
 3 Blooming Marsh
 4 Overgrown Tomb
 4 Blooming Marsh
-1 Canyon Slough
 1 Dragonskull Summit
 1 Chandra, Torch of Defiance
+1 Canyon Slough
 1 Goblin Dark-Dwellers
 2 Liliana, the Last Hope
 2 Dragonskull Summit

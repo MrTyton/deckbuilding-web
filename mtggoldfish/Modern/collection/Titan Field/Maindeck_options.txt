@@ -3,26 +3,26 @@
 1 Primal Command
 1 Hydroid Krasis
 1 Verdant Catacombs
-1 Snow-Covered Swamp
-1 Nurturing Peatland
 1 Overgrown Tomb
 1 Swamp
+1 Snow-Covered Swamp
+1 Nurturing Peatland
 1 Golgari Rot Farm
 2 Verdant Catacombs
 2 Golgari Rot Farm
 3 Verdant Catacombs
 4 Verdant Catacombs
+1 Zagoth Triome
 1 Karn, the Great Creator
 2 Karn, the Great Creator
 3 Karn, the Great Creator
 4 Karn, the Great Creator
-1 Zagoth Triome
+1 Stomping Ground
 1 Mountain
-1 Sheltered Thicket
 1 Wooded Foothills
+1 Sheltered Thicket
 1 Snow-Covered Mountain
 1 Cinder Glade
-1 Stomping Ground
 2 Snow-Covered Mountain
 2 Stomping Ground
 2 Wooded Foothills
@@ -37,30 +37,32 @@
 3 Mountain
 1 Scapeshift
 2 Scapeshift
-3 Scapeshift
 3 Snow-Covered Mountain
+3 Scapeshift
 4 Scapeshift
-1 Windswept Heath
-4 Valakut, the Molten Pinnacle
-1 Lightning Bolt
-2 Lightning Bolt
 3 Field of the Dead
 1 Hour of Promise
 2 Hour of Promise
-1 Mwonvuli Acid-Moss
+1 Windswept Heath
+4 Valakut, the Molten Pinnacle
 3 Farseek
-2 Cinder Glade
-3 Lightning Bolt
+4 Farseek
+1 Mwonvuli Acid-Moss
+1 Lightning Bolt
+2 Lightning Bolt
 2 Island
 3 Hour of Promise
 3 Simic Growth Chamber
-4 Farseek
 2 Mwonvuli Acid-Moss
+2 Cinder Glade
+3 Lightning Bolt
 1 Elvish Reclaimer
 1 Oracle of Mul Daya
 1 Dwarven Mine
 2 Elvish Reclaimer
 1 Prismatic Vista
+1 Tireless Tracker
+1 Temple of Malady
 1 Courser of Kruphix
 1 Chandra, Awakened Inferno
 1 Klothys, God of Destiny
@@ -70,9 +72,6 @@
 1 Brazen Borrower
 1 Pact of Negation
 2 Tolaria West
-1 Veil of Summer
-2 Veil of Summer
-3 Veil of Summer
 4 Simic Growth Chamber
 1 Ketria Triome
 1 Tatyova, Benthic Druid

@@ -39,7 +39,7 @@
 |                    1|[Tireless Tracker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409997)            |                    1|[Flusterstorm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=228255)    |
 |                    1|[Karakas](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413782)                     |                    1|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)  |
 |                    1|[Titania, Protector of Argoth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389721)|                    2|[Carpet of Flowers](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=5858) |
-|                    2|[Gilded Goose](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473122)                |                     |                                                                                           |
 |                    2|[Wasteland](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413790)                   |                     |                                                                                           |
+|                    2|[Gilded Goose](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473122)                |                     |                                                                                           |
 |                    4|[Verdant Catacombs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405113)           |                     |                                                                                           |
 
