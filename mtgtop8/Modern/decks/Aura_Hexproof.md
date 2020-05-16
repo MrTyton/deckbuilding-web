@@ -32,10 +32,10 @@
 |                    1|[Sentinel's Eyes](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476287)|                    1|[Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452)  |
 |                    1|[Keen Sense](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=122451)     |                    1|[Stony Silence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=247425)      |
 |                    2|[Sentinel's Eyes](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476287)|                    1|[Leyline of Sanctity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=204993)|
-|                    2|[Keen Sense](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=122451)     |                    2|[Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452)  |
+|                    2|[Spirit Mantle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220154)  |                    2|[Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452)  |
 |                    3|[Gryff's Boon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409758)   |                    2|[Suppression Field](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=83617)   |
 |                    4|[Gryff's Boon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409758)   |                    2|[Stony Silence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=247425)      |
-|                    2|[Spirit Mantle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220154)  |                    2|[Leyline of Sanctity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=204993)|
+|                    2|[Keen Sense](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=122451)     |                    2|[Leyline of Sanctity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=204993)|
 |                     |                                                                                          |                    4|[Leyline of Sanctity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=204993)|
 |                     |                                                                                          |                    3|[Leyline of Sanctity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=204993)|
 

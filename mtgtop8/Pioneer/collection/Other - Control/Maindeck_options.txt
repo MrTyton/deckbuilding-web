@@ -75,12 +75,12 @@
 3 Growth Spiral
 3 Temple Garden
 3 Omen of the Sea
-4 Teferi, Time Raveler
 4 Supreme Verdict
 4 Omen of the Sea
 4 Baffling End
 4 Growth Spiral
 4 Temple Garden
+4 Teferi, Time Raveler
 1 Kaya's Wrath
 4 Caves of Koilos
 3 Elspeth's Nightmare
@@ -109,12 +109,12 @@
 1 Cast Out
 1 Censor
 1 Raugrin Triome
-2 Cast Out
 2 Irrigated Farmland
 2 Sulfur Falls
-2 Neutralize
 2 Clifftop Retreat
 2 Shark Typhoon
+2 Cast Out
+2 Neutralize
 2 Nimble Obstructionist
 2 Azorius Charm
 2 Zenith Flare
@@ -125,9 +125,9 @@
 3 Sulfur Falls
 3 Irrigated Farmland
 3 Shark Typhoon
-3 Neutralize
 3 Flourishing Fox
 3 Clifftop Retreat
+3 Neutralize
 3 Hieroglyphic Illumination
 3 Azorius Charm
 3 Zenith Flare
@@ -210,8 +210,8 @@
 2 Cling to Dust
 3 Starfield of Nyx
 4 Starfield of Nyx
-7 Swamp
 7 Plains
+7 Swamp
 1 Champion of Wits
 1 Liliana, the Last Hope
 1 Bonecrusher Giant
@@ -221,12 +221,12 @@
 1 Stomping Ground
 2 Stomping Ground
 1 Vraska's Contempt
-1 Yahenni's Expertise
-1 Chart a Course
 1 Drown in the Loch
+1 Chart a Course
+1 Yahenni's Expertise
 2 Elspeth, Sun's Nemesis
-2 Thought Erasure
 2 Thirst for Meaning
+2 Thought Erasure
 2 Hero's Downfall
 1 The Eldest Reborn
 2 The Eldest Reborn
@@ -235,26 +235,26 @@
 3 History of Benalia
 1 Jace, Vryn's Prodigy
 1 Spirebluff Canal
-1 Strategic Planning
 1 Heartless Act
 1 Soul-Guide Lantern
+1 Strategic Planning
 2 Jace, Vryn's Prodigy
 2 Spirebluff Canal
-2 Strategic Planning
 2 Heartless Act
+2 Strategic Planning
 3 Jace, Vryn's Prodigy
 3 Spirebluff Canal
 3 Strategic Planning
 4 Jace, Vryn's Prodigy
-4 Spirebluff Canal
 4 Strategic Planning
+4 Spirebluff Canal
 1 Ishkanah, Grafwidow
 1 Traverse the Ulvenwald
 1 Deathrite Shaman
 1 Questing Beast
 1 Vraska, Golgari Queen
-1 Tireless Tracker
 1 Glorybringer
+1 Tireless Tracker
 1 Abrupt Decay
 1 Overgrown Tomb
 1 Walking Ballista
@@ -275,9 +275,9 @@
 1 Chandra, Torch of Defiance
 1 Canyon Slough
 1 Goblin Dark-Dwellers
-2 Liliana, the Last Hope
 2 Dragonskull Summit
 2 Chandra, Torch of Defiance
+2 Liliana, the Last Hope
 2 Goblin Dark-Dwellers
 2 Foreboding Ruins
 2 Canyon Slough
@@ -289,17 +289,18 @@
 3 Foreboding Ruins
 4 Bonecrusher Giant
 4 Dragonskull Summit
+1 Elder Deep-Fiend
 1 Kozilek's Return
 1 Ugin, the Spirit Dragon
 1 Arboreal Grazer
 1 Castle Garenbrig
 1 Llanowar Elves
 1 Steam Vents
-1 Elder Deep-Fiend
 1 Ipnu Rivulet
 1 Cavalier of Thorns
 1 Botanical Sanctum
 2 Botanical Sanctum
+2 Elder Deep-Fiend
 2 Kozilek's Return
 2 Cavalier of Thorns
 2 Champion of Wits
@@ -308,11 +309,10 @@
 2 Arboreal Grazer
 2 Ugin, the Spirit Dragon
 2 Nissa, Who Shakes the World
-2 Elder Deep-Fiend
 2 Ipnu Rivulet
+3 Elder Deep-Fiend
 3 Kozilek's Return
 3 Nissa, Who Shakes the World
-3 Elder Deep-Fiend
 3 Champion of Wits
 3 Arboreal Grazer
 3 Stomping Ground

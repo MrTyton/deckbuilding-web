@@ -3,17 +3,13 @@
 1 Karakas
 1 Sylvan Library
 4 Misty Rainforest
-1 Lotus Petal
-2 Lotus Petal
 1 Abrupt Decay
 2 Bayou
 2 Abrupt Decay
 3 Abrupt Decay
-1 Wasteland
-2 Wasteland
+1 Forest
 1 Ancient Tomb
 2 Ancient Tomb
-1 Forest
 1 Waterlogged Grove
 3 Ancient Tomb
 4 Ancient Tomb
@@ -55,8 +51,8 @@
 3 Once Upon a Time
 1 Emrakul, the Aeons Torn
 1 Hour of Promise
-1 Pithing Needle
 1 Warping Wail
+1 Pithing Needle
 1 Maze of Ith
 1 Boompile
 1 Ancient Stirrings
@@ -72,6 +68,10 @@
 4 Pithing Needle
 4 Ancient Stirrings
 4 Crop Rotation
+1 Wasteland
+2 Wasteland
+1 Lotus Petal
+2 Lotus Petal
 2 Punishing Fire
 2 Dack Fayden
 3 Snow-Covered Island
@@ -101,24 +101,22 @@
 4 Polluted Delta
 1 Mox Opal
 2 Mox Opal
-3 Lotus Petal
 1 Tundra
-1 Island
-3 Wasteland
-4 Lotus Petal
-1 Scrubland
 1 Snow-Covered Plains
+1 Island
 1 Swords to Plowshares
 2 Swords to Plowshares
+1 Scrubland
+3 Lotus Petal
 3 Mox Opal
 1 Flooded Strand
 2 Flooded Strand
+4 Lotus Petal
 1 Painter's Servant
 1 Grindstone
 2 Painter's Servant
 2 Grindstone
 3 Painter's Servant
-1 Cavern of Souls
 3 Grove of the Burnwillows
 1 Blast Zone
 1 Grim Monolith
@@ -148,6 +146,8 @@
 2 Thran Dynamo
 2 Ugin, the Ineffable
 3 Eldrazi Temple
+3 Wasteland
+1 Cavern of Souls
 1 Pyroblast
 4 Mox Opal
 1 Lion's Eye Diamond
@@ -175,38 +175,38 @@
 1 Brazen Borrower
 1 Preordain
 2 Life from the Loam
-1 Savannah
-1 Windswept Heath
 3 Swords to Plowshares
 4 Swords to Plowshares
+1 Windswept Heath
+1 Savannah
 1 Swamp
 4 Verdant Catacombs
 1 Cabal Therapy
 2 Cabal Therapy
 3 Cabal Therapy
 4 Cabal Therapy
-1 Abundant Growth
 1 Eternal Witness
+1 Abundant Growth
 1 Growth Spiral
 1 Thragtusk
+1 Reclamation Sage
 1 Dead of Winter
 1 Collector Ouphe
-1 Reclamation Sage
 1 Veteran Explorer
 1 Questing Beast
 2 Abundant Growth
+2 Leovold, Emissary of Trest
 2 Snow-Covered Swamp
 2 Dead of Winter
 2 Veteran Explorer
-2 Leovold, Emissary of Trest
 2 Field of the Dead
 3 Veteran Explorer
 4 Green Sun's Zenith
 4 Veteran Explorer
 3 Lightning Bolt
 1 Bonecrusher Giant
-1 Snapcaster Mage
 1 Tarmogoyf
+1 Snapcaster Mage
 4 Scalding Tarn
 4 Grove of the Burnwillows
 1 Gilded Goose
@@ -217,35 +217,35 @@
 3 Pyroblast
 2 Veil of Summer
 3 Veil of Summer
-1 Noble Hierarch
 1 Mother of Runes
 2 Mother of Runes
 3 Mother of Runes
-2 Cavern of Souls
+1 Noble Hierarch
+1 Thalia, Guardian of Thraben
 2 Karakas
-3 Cavern of Souls
+2 Thalia, Guardian of Thraben
+3 Thalia, Guardian of Thraben
+4 Mother of Runes
 1 Thalia's Lieutenant
 1 Champion of the Parish
 1 Unclaimed Territory
 1 Horizon Canopy
 1 Meddling Mage
-1 Thalia, Guardian of Thraben
 2 Noble Hierarch
 2 Thalia's Lieutenant
 2 Unclaimed Territory
+2 Cavern of Souls
 2 Meddling Mage
 2 Horizon Canopy
-2 Thalia, Guardian of Thraben
 2 Champion of the Parish
-3 Meddling Mage
-3 Thalia, Guardian of Thraben
-3 Champion of the Parish
 3 Noble Hierarch
+3 Champion of the Parish
+3 Meddling Mage
 3 Thalia's Lieutenant
 3 Unclaimed Territory
+3 Cavern of Souls
 4 Noble Hierarch
 4 Champion of the Parish
-4 Mother of Runes
 4 Thalia's Lieutenant
 4 Cavern of Souls
 4 Unclaimed Territory
@@ -277,12 +277,12 @@
 1 Mountain
 2 Preordain
 3 Preordain
-1 Jace, the Mind Sculptor
 1 Cling to Dust
 1 Toxic Deluge
 1 Fatal Push
-2 Fatal Push
+1 Jace, the Mind Sculptor
 2 Cling to Dust
+2 Fatal Push
 3 Assassin's Trophy
 3 Punishing Fire
 3 Cling to Dust
@@ -299,8 +299,8 @@
 2 Klothys, God of Destiny
 3 Snow-Covered Forest
 3 Snapcaster Mage
-3 Tarmogoyf
 3 Seasoned Pyromancer
+3 Tarmogoyf
 4 Tarmogoyf
 4 Seasoned Pyromancer
 4 Snow-Covered Island
@@ -310,20 +310,25 @@
 2 Simian Spirit Guide
 1 Burning Wish
 2 Burning Wish
-1 Badlands
-1 Bloodstained Mire
-2 Bloodstained Mire
-3 Bloodstained Mire
+1 Charming Prince
+2 Charming Prince
+4 Thalia, Guardian of Thraben
 4 Wasteland
-1 Goblin Cratermaker
-2 Goblin Cratermaker
-1 Enlightened Tutor
-1 Arid Mesa
-1 Plateau
-2 Arid Mesa
+1 Aether Vial
+2 Aether Vial
+3 Aether Vial
+4 Aether Vial
 1 Chain Lightning
 4 Lightning Bolt
 4 Mishra's Bauble
+1 Bloodstained Mire
+1 Arid Mesa
+1 Plateau
+2 Arid Mesa
+2 Bloodstained Mire
+3 Bloodstained Mire
+1 Enlightened Tutor
+1 Badlands
 1 Spell Snare
 1 Vapor Snag
 1 Hexdrinker
@@ -339,15 +344,15 @@
 1 Fire/Ice
 1 Forked Bolt
 1 Daze
-1 Birds of Paradise
 1 Ramunap Excavator
+1 Birds of Paradise
 1 Dark Depths
 1 Tireless Tracker
 2 Dark Depths
 2 Thespian's Stage
-2 Tireless Tracker
 2 Birds of Paradise
 2 Primeval Titan
+2 Tireless Tracker
 1 Mox Amber
 1 Kinnan, Bonder Prodigy
 1 Basalt Monolith
@@ -362,14 +367,26 @@
 3 Blast Zone
 1 Walking Ballista
 3 Ugin, the Spirit Dragon
+1 General Kudro of Drannith
+1 Mana Confluence
+1 Deputy of Detention
+1 Imperial Recruiter
+1 Ancient Ziggurat
+1 Kitesail Freebooter
+1 Palace Jailer
+1 Sanctum Prelate
+2 General Kudro of Drannith
+2 Deputy of Detention
+2 Kitesail Freebooter
+2 Imperial Recruiter
+2 Ancient Ziggurat
+3 Ancient Ziggurat
+3 Kitesail Freebooter
 4 Thoughtseize
 1 Silent Clearing
-1 Charming Prince
 1 Unsettled Mariner
 2 Silent Clearing
-2 Charming Prince
 2 Unsettled Mariner
-4 Thalia, Guardian of Thraben
 4 Dark Confidant
 4 Meddling Mage
 1 Zagoth Triome
@@ -388,27 +405,6 @@
 2 Silence
 3 Flooded Strand
 4 Flooded Strand
-1 General Kudro of Drannith
-1 Mana Confluence
-1 Palace Jailer
-1 Deputy of Detention
-1 Imperial Recruiter
-1 Ancient Ziggurat
-1 Kitesail Freebooter
-1 Aether Vial
-1 Sanctum Prelate
-2 General Kudro of Drannith
-2 Deputy of Detention
-2 Kitesail Freebooter
-2 Aether Vial
-2 Imperial Recruiter
-2 Ancient Ziggurat
-3 Ancient Ziggurat
-3 Kitesail Freebooter
-3 Aether Vial
-4 Aether Vial
-2 Badlands
-3 Badlands
 1 Griselbrand
 2 Griselbrand
 1 Sire of Insanity
@@ -423,19 +419,21 @@
 1 Animate Dead
 2 Grave Titan
 2 Lake of the Dead
+2 Sire of Insanity
 2 Animate Dead
 2 Chrome Mox
 2 Marsh Flats
 2 Swamp
 2 Exhume
-2 Sire of Insanity
 2 Cabal Ritual
 2 Unmask
 2 Collective Brutality
+2 Badlands
 3 Marsh Flats
 3 Grave Titan
 3 Collective Brutality
 3 Chrome Mox
+3 Badlands
 3 Sire of Insanity
 3 Swamp
 3 Exhume
@@ -452,21 +450,21 @@
 4 Burning Wish
 4 Sire of Insanity
 4 Vesuva
-1 Sunbaked Canyon
-2 Sunbaked Canyon
 1 Wooded Foothills
-1 Seal of Fire
 1 Lava Spike
 1 Monastery Swiftspear
+1 Seal of Fire
+1 Sunbaked Canyon
 1 Sacred Foundry
 1 Fireblast
 1 Boros Charm
 1 Eidolon of the Great Revel
 1 Rift Bolt
 1 Goblin Guide
-2 Chain Lightning
 2 Lava Spike
 2 Monastery Swiftspear
+2 Chain Lightning
+2 Sunbaked Canyon
 2 Wooded Foothills
 2 Boros Charm
 2 Goblin Guide
@@ -508,47 +506,15 @@
 3 Guttersnipe
 4 Aria of Flame
 4 Guttersnipe
-1 Goblin Piledriver
-1 Mogg War Marshal
-1 Grenzo, Havoc Raiser
-1 Munitions Expert
-1 Skirk Prospector
-1 Goblin Lackey
-1 Smuggler's Copter
-1 Phyrexian Revoker
-1 Mogg Fanatic
-1 Call of the Death-Dweller
-2 Call of the Death-Dweller
-2 Mogg War Marshal
-2 Goblin Piledriver
-2 Munitions Expert
-2 Skirk Prospector
-2 Goblin Lackey
-2 Smuggler's Copter
-2 Phyrexian Revoker
-2 Mogg Fanatic
-2 Grenzo, Havoc Raiser
-3 Goblin Piledriver
-3 Mogg War Marshal
-3 Goblin Cratermaker
-3 Smuggler's Copter
-3 Goblin Lackey
-3 Grenzo, Havoc Raiser
-3 Munitions Expert
-3 Mogg Fanatic
-3 Skirk Prospector
-4 Goblin Piledriver
-4 Badlands
-4 Goblin Lackey
-4 Munitions Expert
-4 Bloodstained Mire
 1 Raugrin Triome
 1 Goblin Engineer
-1 Ethersworn Canonist
 1 Nihil Spellbomb
+1 Goblin Cratermaker
 1 Goblin Welder
+1 Ethersworn Canonist
 1 Great Furnace
 2 Goblin Engineer
+2 Goblin Cratermaker
 2 Goblin Welder
 2 Enlightened Tutor
 3 Arid Mesa
@@ -655,6 +621,41 @@
 4 Ichorid
 4 Narcomoeba
 4 Nether Shadow
+1 Stoneforge Mystic
+1 Umezawa's Jitte
+1 Serra Avenger
+1 Remorseful Cleric
+1 Basilisk Collar
+1 Flagstones of Trokair
+1 Rishadan Port
+1 Mask of Memory
+1 Plains
+1 Phyrexian Revoker
+1 Benevolent Bodyguard
+2 Plains
+2 Stoneforge Mystic
+2 Serra Avenger
+2 Remorseful Cleric
+2 Snow-Covered Plains
+2 Phyrexian Revoker
+2 Rishadan Port
+2 Benevolent Bodyguard
+3 Stoneforge Mystic
+3 Charming Prince
+3 Karakas
+3 Phyrexian Revoker
+3 Serra Avenger
+3 Snow-Covered Plains
+3 Plains
+3 Remorseful Cleric
+3 Rishadan Port
+4 Stoneforge Mystic
+4 Rishadan Port
+4 Plains
+4 Snow-Covered Plains
+4 Charming Prince
+5 Plains
+5 Snow-Covered Plains
 1 Utopia Sprawl
 1 Rest in Peace
 1 Oblivion Ring
@@ -675,13 +676,13 @@
 2 Oblivion Ring
 2 Enchantress's Presence
 2 Serra's Sanctum
-2 Elephant Grass
 2 Setessan Champion
 2 Helm of Obedience
 2 Wild Growth
 2 Sterling Grove
 2 Solitary Confinement
 2 Argothian Enchantress
+2 Elephant Grass
 2 Destiny Spinner
 3 Utopia Sprawl
 3 Rest in Peace
