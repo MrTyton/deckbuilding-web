@@ -25,8 +25,8 @@
 1 Wrenn and Six
 2 Wrenn and Six
 1 Sword of Feast and Famine
-1 Batterskull
 1 Stoneforge Mystic
+1 Batterskull
 2 Stoneforge Mystic
 3 Stoneforge Mystic
 4 Stoneforge Mystic
@@ -106,10 +106,10 @@
 1 Mountain
 1 Forest
 1 Swamp
-1 Field of the Dead
 1 Overgrown Tomb
-1 Verdant Catacombs
+1 Field of the Dead
 1 Bojuka Bog
+1 Verdant Catacombs
 2 Field of the Dead
 2 Verdant Catacombs
 3 Verdant Catacombs
@@ -154,8 +154,8 @@
 1 Nihil Spellbomb
 1 Wooded Foothills
 1 Snow-Covered Swamp
-1 Thoughtseize
 1 Fatal Push
+1 Thoughtseize
 1 Mishra's Bauble
 2 Mishra's Bauble
 3 Mishra's Bauble
@@ -222,8 +222,8 @@
 1 Noble Hierarch
 2 Scavenging Ooze
 2 Noble Hierarch
-3 Scavenging Ooze
 3 Wooded Foothills
+3 Scavenging Ooze
 3 Noble Hierarch
 4 Noble Hierarch
 2 Sunbaked Canyon
@@ -305,8 +305,8 @@
 1 Reflector Mage
 1 Kiki-Jiki, Mirror Breaker
 2 Eldritch Evolution
-2 Prime Speaker Vannifar
 2 Chord of Calling
+2 Prime Speaker Vannifar
 2 Reflector Mage
 3 Eldritch Evolution
 3 Prime Speaker Vannifar
@@ -405,9 +405,9 @@
 2 Mana Tithe
 3 Mana Tithe
 1 Dryad Arbor
+1 Qasali Pridemage
 1 Collected Company
 1 Castle Ardenvale
-1 Qasali Pridemage
 1 Regal Caracal
 1 Pride Sovereign
 1 Brimaz, King of Oreskos
@@ -415,16 +415,16 @@
 1 Stirring Wildwood
 1 Thalia, Guardian of Thraben
 1 Qasali Ambusher
-2 Temple Garden
 2 Qasali Pridemage
-2 Collected Company
 2 Ghost Quarter
+2 Collected Company
 2 Brimaz, King of Oreskos
 2 Qasali Ambusher
 2 Horizon Canopy
 2 Leonin Arbiter
 2 Thalia, Guardian of Thraben
 2 Pride Sovereign
+2 Temple Garden
 3 Temple Garden
 3 Qasali Pridemage
 3 Thalia, Guardian of Thraben
@@ -440,8 +440,8 @@
 1 Dark Confidant
 1 Westvale Abbey
 1 Nurturing Peatland
-2 Overgrown Tomb
 2 Hour of Promise
+2 Overgrown Tomb
 2 Nurturing Peatland
 2 Gilded Goose
 2 Assassin's Trophy
@@ -514,8 +514,8 @@
 4 Sunbaked Canyon
 4 Nahiri, the Harbinger
 1 Neutralize
-1 Spell Pierce
 1 Brineborn Cutthroat
+1 Spell Pierce
 1 Creeping Tar Pit
 1 Sunken Ruins
 1 Spectral Sailor
