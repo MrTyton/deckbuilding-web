@@ -52,6 +52,6 @@
 |                    1|[Stingscourger](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413691)       |                    3|[Pyrokinesis](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3180)          |
 |                    2|[Goblin Chieftain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438481)    |                     |                                                                                              |
 |                    2|[Wooded Foothills](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405116)    |                     |                                                                                              |
-|                    3|[Wooded Foothills](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405116)    |                     |                                                                                              |
 |                    3|[Goblin Cratermaker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452853)  |                     |                                                                                              |
+|                    3|[Wooded Foothills](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405116)    |                     |                                                                                              |
 

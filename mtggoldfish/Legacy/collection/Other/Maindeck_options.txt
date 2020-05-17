@@ -24,10 +24,10 @@
 1 Golos, Tireless Pilgrim
 1 Glimmerpost
 1 Vesuva
-2 Ugin, the Spirit Dragon
 2 Vesuva
 2 Cloudpost
 2 Ulamog, the Ceaseless Hunger
+2 Ugin, the Spirit Dragon
 2 Glimmerpost
 3 Glimmerpost
 3 Cloudpost
@@ -188,17 +188,17 @@
 1 Eternal Witness
 1 Abundant Growth
 1 Growth Spiral
-1 Thragtusk
 1 Reclamation Sage
 1 Dead of Winter
 1 Collector Ouphe
+1 Thragtusk
 1 Veteran Explorer
 1 Questing Beast
 2 Abundant Growth
-2 Leovold, Emissary of Trest
 2 Snow-Covered Swamp
 2 Dead of Winter
 2 Veteran Explorer
+2 Leovold, Emissary of Trest
 2 Field of the Dead
 3 Veteran Explorer
 4 Green Sun's Zenith
@@ -330,8 +330,8 @@
 1 Enlightened Tutor
 1 Badlands
 1 Spell Snare
-1 Vapor Snag
 1 Hexdrinker
+1 Vapor Snag
 1 True-Name Nemesis
 1 Elvish Reclaimer
 1 Thought Scour
@@ -344,8 +344,8 @@
 1 Fire/Ice
 1 Forked Bolt
 1 Daze
-1 Ramunap Excavator
 1 Birds of Paradise
+1 Ramunap Excavator
 1 Dark Depths
 1 Tireless Tracker
 2 Dark Depths
@@ -409,14 +409,15 @@
 2 Griselbrand
 1 Sire of Insanity
 1 Grave Titan
+1 Collective Brutality
 1 Lake of the Dead
 1 Unmask
-1 Collective Brutality
 1 Chrome Mox
 1 Marsh Flats
 1 Exhume
 1 Cabal Ritual
 1 Animate Dead
+2 Collective Brutality
 2 Grave Titan
 2 Lake of the Dead
 2 Sire of Insanity
@@ -427,7 +428,6 @@
 2 Exhume
 2 Cabal Ritual
 2 Unmask
-2 Collective Brutality
 2 Badlands
 3 Marsh Flats
 3 Grave Titan
@@ -496,10 +496,10 @@
 1 Guttersnipe
 1 Aria of Flame
 1 Rampaging Ferocidon
-2 Aria of Flame
 2 Lava Dart
 2 Guttersnipe
 2 Misdirection
+2 Aria of Flame
 2 Rampaging Ferocidon
 3 Aria of Flame
 3 Lava Dart
@@ -559,9 +559,9 @@
 3 Simian Spirit Guide
 3 Elvish Spirit Guide
 3 Trinisphere
+4 Bonecrusher Giant
 4 Blood Sun
 4 Trinisphere
-4 Bonecrusher Giant
 4 City of Traitors
 4 Leyline of the Void
 4 Simian Spirit Guide
@@ -650,17 +650,17 @@
 3 Remorseful Cleric
 3 Rishadan Port
 4 Stoneforge Mystic
+4 Charming Prince
 4 Rishadan Port
 4 Plains
 4 Snow-Covered Plains
-4 Charming Prince
 5 Plains
 5 Snow-Covered Plains
 1 Utopia Sprawl
 1 Rest in Peace
+1 Destiny Spinner
 1 Oblivion Ring
 1 Solitary Confinement
-1 Destiny Spinner
 1 Sigil of the Empty Throne
 1 Argothian Enchantress
 1 Setessan Champion
@@ -674,6 +674,7 @@
 2 Savannah
 2 Utopia Sprawl
 2 Oblivion Ring
+2 Destiny Spinner
 2 Enchantress's Presence
 2 Serra's Sanctum
 2 Setessan Champion
@@ -683,11 +684,10 @@
 2 Solitary Confinement
 2 Argothian Enchantress
 2 Elephant Grass
-2 Destiny Spinner
 3 Utopia Sprawl
 3 Rest in Peace
-3 Elephant Grass
 3 Destiny Spinner
+3 Elephant Grass
 3 Enchantress's Presence
 3 Argothian Enchantress
 3 Wild Growth

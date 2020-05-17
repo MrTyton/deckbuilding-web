@@ -27,8 +27,8 @@
 1 Geier Reach Sanitarium
 6 Island
 1 Commit/Memory
-1 Isolated Chapel
 1 Godless Shrine
+1 Isolated Chapel
 2 Godless Shrine
 3 Godless Shrine
 4 Trial of Ambition
@@ -52,8 +52,8 @@
 1 Uro, Titan of Nature's Wrath
 2 Breeding Pool
 2 Uro, Titan of Nature's Wrath
-3 Uro, Titan of Nature's Wrath
 3 Breeding Pool
+3 Uro, Titan of Nature's Wrath
 4 Breeding Pool
 1 Karn, the Great Creator
 2 Karn, the Great Creator
@@ -67,10 +67,10 @@
 7 Forest
 8 Forest
 9 Forest
-1 Growth Spiral
 1 Wolfwillow Haven
 1 Omen of the Hunt
 1 Sea Gate Wreckage
+1 Growth Spiral
 1 Lumbering Falls
 1 Castle Garenbrig
 1 Arboreal Grazer
@@ -81,9 +81,9 @@
 1 Shrine of the Forsaken Gods
 1 Haven of the Spirit Dragon
 1 Woodland Bellower
-2 Growth Spiral
 2 Wolfwillow Haven
 2 Omen of the Hunt
+2 Growth Spiral
 2 Castle Garenbrig
 2 Ugin, the Spirit Dragon
 2 Cavalier of Thorns
@@ -95,8 +95,8 @@
 2 Shrine of the Forsaken Gods
 2 Yavimaya Coast
 3 Cavalier of Thorns
-3 Growth Spiral
 3 Wolfwillow Haven
+3 Growth Spiral
 3 Omen of the Hunt
 3 Ugin, the Spirit Dragon
 3 Castle Garenbrig
@@ -106,8 +106,8 @@
 3 Yavimaya Coast
 3 Woodland Bellower
 3 Arboreal Grazer
-4 Growth Spiral
 4 Cavalier of Thorns
+4 Growth Spiral
 4 Ugin, the Spirit Dragon
 4 Yavimaya Coast
 4 Omen of the Hunt
@@ -119,8 +119,8 @@
 1 Fetid Pools
 2 Fetid Pools
 1 Settle the Wreckage
-1 Torrential Gearhulk
 1 Mystical Dispute
+1 Torrential Gearhulk
 1 Render Silent
 1 Seal Away
 2 Seal Away
@@ -132,8 +132,8 @@
 3 Seal Away
 4 Seal Away
 4 Render Silent
-1 Sunpetal Grove
 1 Temple Garden
+1 Sunpetal Grove
 2 Temple Garden
 2 Sunpetal Grove
 3 Temple Garden
@@ -144,13 +144,13 @@
 3 Overgrown Tomb
 4 Overgrown Tomb
 1 Walking Ballista
-1 Indatha Triome
-1 Traverse the Ulvenwald
 1 Kunoros, Hound of Athreos
 1 Vivien, Monsters' Advocate
+1 Traverse the Ulvenwald
+1 Indatha Triome
 1 Ishkanah, Grafwidow
-2 Indatha Triome
 2 Traverse the Ulvenwald
+2 Indatha Triome
 3 Traverse the Ulvenwald
 4 Traverse the Ulvenwald
 4 Godless Shrine
@@ -165,8 +165,8 @@
 1 Emrakul, the Promised End
 1 Siege Rhino
 1 Kaya, Orzhov Usurper
-1 Knight of Autumn
 1 Kalitas, Traitor of Ghet
+1 Knight of Autumn
 2 Courser of Kruphix
 2 Siege Rhino
 2 Knight of Autumn
@@ -201,40 +201,40 @@
 2 Shambling Vent
 1 Mana Confluence
 6 Plains
-1 Staggering Insight
 1 Curious Obsession
 1 Seeker of the Way
+1 Defiant Strike
+1 Staggering Insight
 1 Gods Willing
 1 Favored Hoplite
 1 Light of Hope
 1 Lagonna-Band Trailblazer
 1 Fight as One
-1 Defiant Strike
 1 Siren Stormtamer
-2 Staggering Insight
 2 Curious Obsession
 2 Seeker of the Way
+2 Defiant Strike
+2 Staggering Insight
 2 Gods Willing
 2 Fight as One
 2 Lagonna-Band Trailblazer
 2 Mana Confluence
 2 Light of Hope
 2 Favored Hoplite
-2 Defiant Strike
 2 Siren Stormtamer
-3 Staggering Insight
 3 Curious Obsession
 3 Fight as One
 3 Seeker of the Way
+3 Staggering Insight
 3 Light of Hope
 3 Lagonna-Band Trailblazer
 3 Defiant Strike
 3 Favored Hoplite
 3 Siren Stormtamer
 3 Gods Willing
-4 Staggering Insight
 4 Curious Obsession
 4 Seeker of the Way
+4 Staggering Insight
 4 Ipnu Rivulet
 4 Defiant Strike
 4 Fight as One
@@ -269,10 +269,10 @@
 3 Elvish Mystic
 4 Elvish Mystic
 4 Llanowar Elves
-1 Blooming Marsh
 1 Llanowar Wastes
-2 Blooming Marsh
+1 Blooming Marsh
 2 Llanowar Wastes
+2 Blooming Marsh
 3 Blooming Marsh
 4 Blooming Marsh
 1 Fiend Artisan
@@ -302,9 +302,9 @@
 2 Temple of Deceit
 1 Polukranos, Unchained
 1 Gonti, Lord of Luxury
+2 Mystical Dispute
 1 Archon of Sun's Grace
 2 Archon of Sun's Grace
-2 Mystical Dispute
 3 Concealed Courtyard
 1 Flicker of Fate
 1 Doom Foretold
@@ -314,20 +314,20 @@
 3 Flicker of Fate
 4 Flicker of Fate
 4 Reflector Mage
-1 Detention Sphere
 1 Hinterland Harbor
 1 Tamiyo, Collector of Tales
 1 Soul-Guide Lantern
+1 Detention Sphere
 1 Ojutai's Command
-2 Hinterland Harbor
 2 Soul-Guide Lantern
-2 Detention Sphere
 2 Baffling End
+2 Hinterland Harbor
+2 Detention Sphere
 3 Soul-Guide Lantern
 3 Baffling End
 3 Hinterland Harbor
-4 Baffling End
 4 Soul-Guide Lantern
+4 Baffling End
 4 Sunpetal Grove
 1 Kogla, the Titan Ape
 1 Liliana, the Last Hope
@@ -352,9 +352,9 @@
 2 Deputy of Detention
 2 Dromoka's Command
 2 Voice of Resurgence
-2 Scavenging Ooze
 2 Botanical Sanctum
 2 Spell Queller
+2 Scavenging Ooze
 3 Collected Company
 3 Dromoka's Command
 3 Spell Queller
@@ -362,33 +362,33 @@
 4 Collected Company
 4 Spell Queller
 4 Botanical Sanctum
+1 Mystic Sanctuary
 1 Shark Typhoon
 1 Azorius Charm
-1 Fae of Wishes
-1 Sphinx's Revelation
-1 Mystic Sanctuary
 1 Hour of Revelation
+1 Sphinx's Revelation
+1 Fae of Wishes
 1 Omen of the Sun
+2 Mystic Sanctuary
 2 Shark Typhoon
 2 Azorius Charm
-2 Fae of Wishes
-2 Sphinx's Revelation
-2 Mystic Sanctuary
 2 Omen of the Sun
 2 Hour of Revelation
-3 Absorb
-3 Azorius Charm
+2 Fae of Wishes
+2 Sphinx's Revelation
 3 Shark Typhoon
-3 Fae of Wishes
-3 Castle Ardenvale
 3 Mystic Sanctuary
+3 Absorb
+3 Fae of Wishes
 3 Sphinx's Revelation
 3 Hour of Revelation
-4 Azorius Charm
-4 Absorb
+3 Castle Ardenvale
+3 Azorius Charm
 4 Shark Typhoon
 4 Castle Ardenvale
 4 The Birth of Meletis
+4 Absorb
+4 Azorius Charm
 4 Fae of Wishes
 4 Sphinx's Revelation
 1 Mountain
@@ -396,8 +396,8 @@
 2 Steam Vents
 1 Castle Embereth
 1 Bonecrusher Giant
-2 Castle Embereth
 2 Mountain
+2 Castle Embereth
 1 Agent of Treachery
 1 Hanged Executioner
 1 Chandra, Acolyte of Flame
@@ -405,13 +405,13 @@
 1 Clifftop Retreat
 1 Chained to the Rocks
 1 Temple of Triumph
-1 Blast Zone
-1 Lavinia of the Tenth
 1 Eldrazi Displacer
 1 Inspiring Vantage
 1 Cloudblazer
 1 Winota, Joiner of Forces
+1 Blast Zone
 1 Phyrexian Revoker
+1 Lavinia of the Tenth
 1 Battlefield Forge
 1 Goblin Instigator
 1 Fire Prophecy
@@ -440,10 +440,10 @@
 3 Steam Vents
 3 Bonecrusher Giant
 3 Sacred Foundry
-3 Blast Zone
 3 Chained to the Rocks
 3 Phyrexian Revoker
 3 Fire Prophecy
+3 Blast Zone
 3 Castle Embereth
 3 Eldrazi Displacer
 3 Lavinia of the Tenth
@@ -458,11 +458,11 @@
 4 Sacred Foundry
 4 Hanged Executioner
 4 Chained to the Rocks
+4 Blast Zone
 4 Fire Prophecy
 4 Goblin Instigator
 4 Winota, Joiner of Forces
 4 Castle Embereth
-4 Blast Zone
 4 Clifftop Retreat
 4 Battlefield Forge
 1 Disinformation Campaign
@@ -470,9 +470,9 @@
 2 Disinformation Campaign
 2 Basilica Bell-Haunt
 3 Disinformation Campaign
+3 Elspeth Conquers Death
 3 Basilica Bell-Haunt
 3 Elspeth's Nightmare
-3 Elspeth Conquers Death
 4 Isolated Chapel
 4 Oath of Kaya
 4 Elspeth Conquers Death
@@ -480,23 +480,23 @@
 4 Disinformation Campaign
 4 Basilica Bell-Haunt
 1 Censor
-1 Hero's Downfall
 1 Thassa's Oracle
 1 Atris, Oracle of Half-Truths
+1 Hero's Downfall
 1 Inverter of Truth
 1 Hostage Taker
 1 Choked Estuary
 1 Jace, Wielder of Mysteries
-2 Censor
-2 Thassa's Oracle
 2 Hero's Downfall
+2 Thassa's Oracle
 2 Jace, Wielder of Mysteries
 2 Choked Estuary
+2 Censor
 2 Inverter of Truth
-3 Censor
 3 Thassa's Oracle
 3 Jace, Wielder of Mysteries
 3 Inverter of Truth
+3 Censor
 3 Choked Estuary
 4 Thassa's Oracle
 4 Inverter of Truth
@@ -510,13 +510,13 @@
 2 Ashiok, Nightmare Muse
 2 Ritual of Soot
 2 Geier Reach Sanitarium
-3 Ashiok, Nightmare Muse
 3 Temple of Deceit
+3 Ashiok, Nightmare Muse
 3 Ritual of Soot
-4 Temple of Deceit
 4 Narset, Parter of Veils
 4 Ashiok, Nightmare Muse
 4 Ritual of Soot
+4 Temple of Deceit
 5 Swamp
 6 Swamp
 7 Island
@@ -525,23 +525,23 @@
 1 Collective Brutality
 2 Walking Ballista
 1 Neutralize
-1 Search for Azcanta
 1 Drown in the Loch
+1 Search for Azcanta
 1 Utter End
 1 Languish
 2 Languish
 3 Heartless Act
 3 Languish
-1 Gideon of the Trials
-1 Realm-Cloaked Giant
-1 Elspeth, Sun's Champion
 1 Mythos of Nethroi
 1 Shadowspear
+1 Realm-Cloaked Giant
 1 Vraska, Golgari Queen
-1 Liliana, Dreadhorde General
 1 Chevill, Bane of Monsters
+1 Liliana, Dreadhorde General
 1 Sandsteppe Citadel
+1 Elspeth, Sun's Champion
 1 Hangarback Walker
+1 Gideon of the Trials
 2 Vraska, Golgari Queen
 2 Mythos of Nethroi
 2 Sandsteppe Citadel
@@ -554,54 +554,37 @@
 2 Dauntless Bodyguard
 3 Dauntless Bodyguard
 4 Dauntless Bodyguard
+1 Castle Locthwain
 1 Kitesail Freebooter
 1 Thalia's Lieutenant
 1 Caves of Koilos
 1 Drannith Magistrate
-1 Dire Tactics
-1 Castle Locthwain
 1 Return to the Ranks
 1 Knight of the White Orchid
+1 Dire Tactics
 2 Thalia's Lieutenant
 2 Kitesail Freebooter
 2 Caves of Koilos
-2 Dead Weight
 2 Drannith Magistrate
+2 Dead Weight
 2 Dire Tactics
 2 Return to the Ranks
 2 Knight of the White Orchid
 3 Thalia's Lieutenant
 3 Kitesail Freebooter
 3 Caves of Koilos
-3 Dire Tactics
 3 Knight of the White Orchid
+3 Dire Tactics
 4 Kitesail Freebooter
 4 Thalia's Lieutenant
 4 Concealed Courtyard
 4 Caves of Koilos
 4 Dire Tactics
-1 Rankle, Master of Pranks
-1 Gifted Aetherborn
-1 Erebos, God of the Dead
-1 Spark Trooper
-1 Temple of Malady
-1 Sunblade Angel
-1 Skull Prophet
-1 Vine Mare
-1 Grapple with the Past
-2 Gifted Aetherborn
-2 Skull Prophet
-2 Temple of Malady
-2 Vine Mare
-3 Gifted Aetherborn
-3 Gather the Pack
-4 Gifted Aetherborn
-4 Gather the Pack
 1 Lovestruck Beast
-1 Rotting Regisaur
 1 Steel Leaf Champion
 1 Yorvo, Lord of Garenbrig
 1 The Great Henge
+1 Rotting Regisaur
 2 Lovestruck Beast
 2 Rotting Regisaur
 2 Steel Leaf Champion
@@ -610,26 +593,26 @@
 2 Yorvo, Lord of Garenbrig
 3 Lovestruck Beast
 3 The Great Henge
-3 Rotting Regisaur
 3 Steel Leaf Champion
-4 Lovestruck Beast
+3 Rotting Regisaur
 4 Rotting Regisaur
+4 Lovestruck Beast
 4 Llanowar Wastes
 4 Steel Leaf Champion
+1 Jace, Vryn's Prodigy
 1 Temple of Epiphany
 1 Colossification
-1 Blood Crypt
-1 Jace, Vryn's Prodigy
 1 Burning Anger
 1 Temple of Malice
 1 Liliana, Death's Majesty
 1 Breaking/Entering
+1 Blood Crypt
 1 Cathartic Reunion
 1 Storm Herald
-2 Blood Crypt
-2 Colossification
 2 Jace, Vryn's Prodigy
+2 Colossification
 2 Collective Brutality
+2 Blood Crypt
 2 Burning Anger
 2 Breaking/Entering
 2 Storm Herald
@@ -637,44 +620,62 @@
 2 Cathartic Reunion
 2 Liliana, Death's Majesty
 3 Temple of Malice
-3 Blood Crypt
 3 Jace, Vryn's Prodigy
 3 Collective Brutality
 3 Storm Herald
 3 Cathartic Reunion
 3 Liliana, Death's Majesty
+3 Blood Crypt
 3 Burning Anger
 3 Breaking/Entering
 3 Colossification
-4 Blood Crypt
 4 Jace, Vryn's Prodigy
 4 Breaking/Entering
+4 Blood Crypt
 4 Burning Anger
 4 Storm Herald
 4 Cathartic Reunion
 4 Colossification
+1 Rankle, Master of Pranks
+1 Erebos, God of the Dead
+1 Spark Trooper
+1 Temple of Malady
+1 Sunblade Angel
+1 Skull Prophet
+1 Vine Mare
+1 Grapple with the Past
+1 Gifted Aetherborn
+2 Gifted Aetherborn
+2 Skull Prophet
+2 Temple of Malady
+2 Vine Mare
+3 Gather the Pack
+3 Gifted Aetherborn
+4 Gather the Pack
+4 Gifted Aetherborn
 1 Vampire of the Dire Moon
 1 Stitcher's Supplier
 2 Fiend Artisan
 2 Stitcher's Supplier
 3 Fiend Artisan
+3 Murderous Rider
 3 Stitcher's Supplier
 3 Woodland Cemetery
-3 Murderous Rider
 3 Rhonas the Indomitable
-4 Fiend Artisan
 4 Murderous Rider
+4 Fiend Artisan
 4 Stitcher's Supplier
 4 Woodland Cemetery
 4 Questing Beast
 1 Runaway Steam-Kin
 1 Light Up the Stage
+1 Mutavault
 1 Wild Slash
 1 Robber of the Rich
 1 Legion Loyalist
+1 Shock
 1 Rampaging Ferocidon
 1 Soul-Scar Mage
-1 Shock
 1 Tin Street Dodger
 1 Anax, Hardened in the Forge
 1 Eidolon of the Great Revel
@@ -698,7 +699,6 @@
 1 Ghitu Lavarunner
 1 Foundry Street Denizen
 1 Burning-Tree Emissary
-1 Mutavault
 1 Incendiary Flow
 1 Ash Zealot
 1 Zurgo Bellstriker

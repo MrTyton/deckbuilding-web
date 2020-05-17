@@ -1,18 +1,17 @@
 1 Kolaghan's Command
-2 Fatal Push
-2 Drown in the Loch
-1 Thoughtseize
+1 Blood Crypt
 1 Drowned Catacomb
+1 Misty Rainforest
 2 Spell Snare
+2 Drown in the Loch
 3 Archmage's Charm
 3 Watery Grave
+1 Swamp
 1 Snow-Covered Island
-1 Misty Rainforest
-2 Thoughtseize
-1 Cling to Dust
-3 Snapcaster Mage
 1 Remand
 2 Remand
+2 Unearth
+3 Snapcaster Mage
 1 Snow-Covered Mountain
 1 Sacred Foundry
 1 Hallowed Fountain
@@ -21,8 +20,9 @@
 2 Flooded Strand
 3 Flooded Strand
 4 Flooded Strand
-4 Darkslick Shores
-2 Unearth
+3 Fatal Push
+4 Fatal Push
+1 Thoughtseize
 2 Kolaghan's Command
 1 Lightning Helix
 1 Snow-Covered Plains
@@ -32,70 +32,76 @@
 3 Lightning Helix
 1 Path to Exile
 2 Path to Exile
-1 Jace, Vryn's Prodigy
-1 Swamp
+3 Inquisition of Kozilek
+1 Mystic Sanctuary
+1 Deprive
+1 Tyrant's Scorn
+3 Island
+4 Darkslick Shores
+1 Thought Scour
+2 Thought Scour
+2 Thoughtseize
 1 Meddling Mage
 1 Cryptic Command
 2 Meddling Mage
 3 Meddling Mage
 4 Snapcaster Mage
-1 Mystic Sanctuary
-1 Deprive
-1 Tyrant's Scorn
-2 Deprive
-3 Island
-3 Fatal Push
-4 Fatal Push
-2 Jace, Vryn's Prodigy
-3 Jace, Vryn's Prodigy
-4 Meddling Mage
-1 Terminate
-3 Inquisition of Kozilek
-3 Spell Snare
+1 Jace, Vryn's Prodigy
+1 Cling to Dust
+1 Nihil Spellbomb
+2 Mystic Sanctuary
 3 Remand
-1 Snow-Covered Swamp
+1 Search for Azcanta
+1 Thing in the Ice
+2 Tyrant's Scorn
+2 Thing in the Ice
+2 Nihil Spellbomb
+3 Thing in the Ice
+4 Thing in the Ice
 3 Steam Vents
-1 Thought Scour
+4 Meddling Mage
+2 Deprive
+1 Terminate
+3 Spell Snare
+3 Thought Scour
+4 Thought Scour
+1 Snow-Covered Swamp
+1 Lotus Field
 1 Underworld Breach
 1 Dream's Grip
 1 Wishclaw Talisman
 1 Thassa's Oracle
 1 Tome Scour
 1 Izzet Charm
-1 Lotus Field
-2 Thought Scour
 2 Underworld Breach
+2 Lotus Field
 2 Tome Scour
 2 Dream's Grip
 2 Wishclaw Talisman
-2 Lotus Field
-3 Underworld Breach
-3 Thought Scour
-3 Tome Scour
 3 Lotus Field
+3 Underworld Breach
+3 Tome Scour
 3 Dream's Grip
-4 Steam Vents
 4 Lotus Field
+4 Steam Vents
 4 Remand
 4 Dream's Grip
-4 Thought Scour
 1 Dreadhorde Arcanist
 1 Vapor Snag
 2 Dreadhorde Arcanist
 2 Vapor Snag
 3 Dreadhorde Arcanist
-1 Murderous Cut
-1 Mountain
-1 Seal of Fire
-1 Nihil Spellbomb
-2 Mystic Sanctuary
-2 Cryptic Command
-2 Cling to Dust
-2 Snow-Covered Island
-1 Fae of Wishes
-1 Fiery Islet
+1 Breeding Pool
 2 Misty Rainforest
 3 Misty Rainforest
+1 Murderous Cut
+1 Fae of Wishes
+1 Fiery Islet
+1 Mountain
+1 Seal of Fire
+2 Cryptic Command
+2 Jace, Vryn's Prodigy
+3 Jace, Vryn's Prodigy
 1 Fight as One
 1 Arid Mesa
 3 Seachrome Coast
@@ -104,16 +110,30 @@
 2 Young Pyromancer
 3 Young Pyromancer
 4 Young Pyromancer
-1 Breeding Pool
 2 Izzet Charm
 4 Underworld Breach
+1 Disrupting Shoal
+1 Sulfur Falls
+1 Glacial Fortress
+2 Disrupting Shoal
+3 Disrupting Shoal
+4 Dreadhorde Arcanist
+1 Abrupt Decay
+1 Overgrown Tomb
+1 Tarmogoyf
+1 Maelstrom Pulse
+1 Nimble Mongoose
+1 Forest
+2 Tarmogoyf
+2 Abrupt Decay
+2 Nimble Mongoose
+3 Tarmogoyf
+3 Abrupt Decay
+3 Nimble Mongoose
+4 Tarmogoyf
+4 Misty Rainforest
+4 Nimble Mongoose
 1 Spellstutter Sprite
 2 Spellstutter Sprite
 3 Spellstutter Sprite
 4 Spellstutter Sprite
-1 Sulfur Falls
-1 Glacial Fortress
-1 Disrupting Shoal
-2 Disrupting Shoal
-3 Disrupting Shoal
-4 Dreadhorde Arcanist

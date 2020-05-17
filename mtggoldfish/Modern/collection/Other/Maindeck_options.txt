@@ -100,21 +100,21 @@
 2 Oust
 2 Narset, Parter of Veils
 3 Narset, Parter of Veils
-1 Bring to Light
 1 Search for Tomorrow
-1 Mwonvuli Acid-Moss
-1 Scapeshift
 1 Valakut, the Molten Pinnacle
-2 Valakut, the Molten Pinnacle
-2 Scapeshift
+1 Scapeshift
+1 Bring to Light
+1 Mwonvuli Acid-Moss
 2 Ketria Triome
+2 Search for Tomorrow
+2 Scapeshift
+2 Valakut, the Molten Pinnacle
 2 Remand
 2 Bring to Light
-2 Search for Tomorrow
-3 Remand
 3 Search for Tomorrow
-3 Bring to Light
 3 Stomping Ground
+3 Remand
+3 Bring to Light
 4 Bring to Light
 4 Stomping Ground
 4 Search for Tomorrow
@@ -162,8 +162,8 @@
 3 Aether Vial
 3 Cavern of Souls
 4 Aether Vial
-1 Voice of Resurgence
 1 Risen Reef
+1 Voice of Resurgence
 1 Vesperlark
 1 Spitebellows
 1 Thunderkin Awakener
@@ -175,27 +175,27 @@
 1 Smokebraider
 1 Omnath, Locus of the Roil
 1 Primal Beyond
+2 Risen Reef
 2 Fiery Islet
 2 Voice of Resurgence
 2 Vesperlark
 2 Unclaimed Territory
 2 Smokebraider
 2 Primal Beyond
-2 Risen Reef
 2 Ancient Ziggurat
 2 Lightning Skelemental
 2 Thunderkin Awakener
 2 Flamekin Harbinger
+3 Risen Reef
 3 Primal Beyond
 3 Ancient Ziggurat
 3 Flamekin Harbinger
-3 Risen Reef
 3 Lightning Skelemental
 3 Smokebraider
 3 Thunderkin Awakener
 3 Unclaimed Territory
-4 Flamekin Harbinger
 4 Risen Reef
+4 Flamekin Harbinger
 4 Ancient Ziggurat
 4 Thunderkin Awakener
 4 Cavern of Souls
@@ -205,8 +205,8 @@
 2 Seasoned Pyromancer
 4 Wooded Foothills
 1 Burst Lightning
-1 Search for Azcanta
 1 The Royal Scions
+1 Search for Azcanta
 1 Bonecrusher Giant
 1 Fact or Fiction
 1 Abrade
@@ -227,17 +227,11 @@
 2 Nihil Spellbomb
 3 Lightning Helix
 4 Lightning Helix
-1 Oath of Chandra
-1 Wall of Blossoms
-2 Wall of Blossoms
-2 Oath of Chandra
-4 Archmage's Charm
-4 Narset, Parter of Veils
 1 Coiling Oracle
 1 Sakura-Tribe Scout
 1 Agent of Treachery
-1 Blade Splicer
 1 Winota, Joiner of Forces
+1 Blade Splicer
 1 Auratouched Mage
 1 Pia Nalaar
 1 Nimble Obstructionist
@@ -257,8 +251,8 @@
 4 Coiling Oracle
 4 Seasoned Pyromancer
 4 Winota, Joiner of Forces
-4 Sakura-Tribe Scout
 4 Agent of Treachery
+4 Sakura-Tribe Scout
 1 Renegade Rallier
 1 Prime Speaker Vannifar
 1 Corridor Monitor
@@ -276,6 +270,12 @@
 3 Sakura-Tribe Elder
 4 Steam Vents
 4 Sakura-Tribe Elder
+1 Oath of Chandra
+1 Wall of Blossoms
+2 Wall of Blossoms
+2 Oath of Chandra
+4 Archmage's Charm
+4 Narset, Parter of Veils
 1 Spell Queller
 1 Waterlogged Grove
 2 Spell Queller
@@ -286,8 +286,8 @@
 6 Snow-Covered Forest
 1 Omen of the Sun
 1 Telling Time
-2 Telling Time
 2 Omen of the Sun
+2 Telling Time
 3 Omen of the Sun
 3 Logic Knot
 7 Snow-Covered Island
@@ -310,41 +310,41 @@
 1 Chandra, Torch of Defiance
 2 Chandra, Torch of Defiance
 1 Time Warp
-1 Electrolyze
 1 Narset of the Ancient Way
-1 Inspired Ultimatum
+1 Electrolyze
 1 Izzet Charm
 1 Whirlwind of Thought
+1 Inspired Ultimatum
 1 Terminate
 1 Magma Spray
 1 Angrath's Rampage
 1 Kess, Dissident Mage
+1 Damnation
 1 Dreadbore
 1 Collective Brutality
-1 Damnation
 1 Sleight of Hand
 1 Growth Spiral
 1 Wilt
 1 Sweltering Suns
 2 Growth Spiral
 2 Forest
-3 Ketria Triome
 3 Growth Spiral
 3 Scapeshift
+3 Ketria Triome
 4 Growth Spiral
 1 Wrath of God
 1 Shadow of Doubt
 1 Thought Scour
-1 Blessed Alliance
 1 Tale's End
+1 Blessed Alliance
 1 On Thin Ice
-1 Lutri, the Spellchaser
 1 Ancestral Vision
 1 Exclude
 1 Condemn
 1 Irrigated Farmland
 1 Celestial Colonnade
 1 Azorius Charm
+1 Lutri, the Spellchaser
 1 Peek
 1 Narset Transcendent
 1 Mission Briefing
@@ -354,8 +354,8 @@
 1 Monastery Mentor
 2 Plains
 2 Serum Visions
-2 Mana Leak
 2 Monastery Mentor
+2 Mana Leak
 3 Serum Visions
 3 Monastery Mentor
 4 Serum Visions
@@ -416,8 +416,8 @@
 1 Westvale Abbey
 1 Bloodstained Mire
 2 Overgrown Tomb
-2 Hour of Promise
 2 Nurturing Peatland
+2 Hour of Promise
 2 Gilded Goose
 2 Field of the Dead
 2 Verdant Catacombs
@@ -438,10 +438,10 @@
 4 Assassin's Trophy
 1 Knight of the Reliquary
 1 Blast Zone
-1 Shadowspear
 1 Kessig Wolf Run
-1 Umbral Mantle
 1 Embercleave
+1 Umbral Mantle
+1 Shadowspear
 2 Knight of the Reliquary
 3 Knight of the Reliquary
 4 Knight of the Reliquary
@@ -449,21 +449,21 @@
 1 Nahiri, the Harbinger
 1 Cascading Cataracts
 1 Ajani Vengeant
+1 Molten Rain
 1 Emrakul, the Aeons Torn
 1 Flagstones of Trokair
+1 Flame Slash
 1 Pillage
 1 Chandra, Acolyte of Flame
 1 Talisman of Conviction
 1 Inspiring Vantage
-1 Molten Rain
 1 Boom/Bust
-1 Flame Slash
-2 Chandra, Acolyte of Flame
 2 Molten Rain
 2 Flagstones of Trokair
 2 Wrath of God
-2 Flame Slash
 2 Pillage
+2 Flame Slash
+2 Chandra, Acolyte of Flame
 2 Cascading Cataracts
 2 Sacred Foundry
 2 Inspiring Vantage
@@ -495,23 +495,23 @@
 1 Creeping Tar Pit
 1 Brineborn Cutthroat
 1 Neutralize
+1 Omen of the Dead
 1 Spell Pierce
 1 Sunken Ruins
-1 Omen of the Dead
 1 Slitherwisp
 2 Brazen Borrower
 2 Spell Pierce
-2 Brineborn Cutthroat
 2 Spectral Sailor
+2 Brineborn Cutthroat
 2 Sunken Ruins
 2 Slitherwisp
+3 Slitherwisp
 3 Brineborn Cutthroat
 3 Spell Pierce
-3 Slitherwisp
 3 Thoughtseize
+4 Slitherwisp
 4 Brineborn Cutthroat
 4 Thoughtseize
-4 Slitherwisp
 4 Watery Grave
 1 Seachrome Coast
 1 Spreading Seas
@@ -534,8 +534,8 @@
 2 Dismember
 2 Silvergill Adept
 2 Lord of Atlantis
-3 Hallowed Fountain
 3 Chalice of the Void
+3 Hallowed Fountain
 3 Master of the Pearl Trident
 3 Lord of Atlantis
 3 Silvergill Adept

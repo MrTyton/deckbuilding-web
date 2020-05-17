@@ -37,8 +37,8 @@
 2 Midnight Reaper
 4 Gray Merchant of Asphodel
 1 Yarok's Fenlurker
-2 Yarok's Fenlurker
 2 Rankle, Master of Pranks
+2 Yarok's Fenlurker
 3 Nightmare Shepherd
 3 Yarok's Fenlurker
 4 Yarok's Fenlurker
@@ -59,47 +59,47 @@
 3 Ayara, First of Locthwain
 3 Shadowspear
 4 Fiend Artisan
-1 Stonecoil Serpent
 1 Spawn of Mayhem
+1 Stonecoil Serpent
+2 Spawn of Mayhem
 2 Stonecoil Serpent
 2 Dread Presence
-2 Spawn of Mayhem
 3 Spawn of Mayhem
 4 Nightmare Shepherd
 4 Spawn of Mayhem
-1 Blast Zone
 1 Orzhov Enforcer
+1 Blast Zone
 1 Mire Triton
+2 Orzhov Enforcer
 2 Blast Zone
 2 Mire Triton
-2 Orzhov Enforcer
 3 Heartless Act
 3 Call of the Death-Dweller
 3 Mire Triton
 4 Heartless Act
 4 Call of the Death-Dweller
-1 Dreadhorde Invasion
-1 Murder
-1 Sorin's Thirst
-1 Spark Harvest
-1 Bloodthirsty Aerialist
 1 Grimdancer
+1 Murder
 1 Boot Nipper
+1 Sorin's Thirst
+1 Bloodthirsty Aerialist
+1 Dreadhorde Invasion
+1 Spark Harvest
 1 Omen of the Dead
 2 Murder
+2 Grimdancer
+2 Boot Nipper
 2 Sorin's Thirst
+2 Bloodthirsty Aerialist
 2 Omen of the Dead
 2 Witch's Cottage
-2 Bloodthirsty Aerialist
-2 Boot Nipper
-2 Grimdancer
 3 Murder
 3 Omen of the Dead
 3 Tymaret, Chosen from Death
+3 Grimdancer
+3 Bloodthirsty Aerialist
 3 Boot Nipper
 3 Witch's Cottage
-3 Bloodthirsty Aerialist
-3 Grimdancer
 4 Murder
 4 Bloodthirsty Aerialist
 4 Boot Nipper
@@ -114,6 +114,7 @@
 4 Agonizing Remorse
 21 Swamp
 1 Cruel Celebrant
+1 Orzhov Guildgate
 1 Lampad of Death's Vigil
 1 Hateful Eidolon
 1 Scoured Barrens
@@ -122,14 +123,13 @@
 1 Soul-Guide Lantern
 1 Dead Weight
 1 Burglar Rat
-1 Orzhov Guildgate
 1 Plains
 2 Lampad of Death's Vigil
 2 Cruel Celebrant
+2 Orzhov Guildgate
 2 Kaya's Ghostform
 2 Hateful Eidolon
 2 Scoured Barrens
-2 Orzhov Guildgate
 2 Dead Weight
 3 Cruel Celebrant
 3 Scoured Barrens
