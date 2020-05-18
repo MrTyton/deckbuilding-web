@@ -106,8 +106,8 @@
 |                    4|[Scalding Tarn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405107)        |                     |                                                                                                     |
 |                    1|[Kor Firewalker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442010)       |                     |                                                                                                     |
 |                    1|[Goblin Guide](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425921)         |                     |                                                                                                     |
-|                    2|[Goblin Guide](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425921)         |                     |                                                                                                     |
 |                    2|[Kor Firewalker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442010)       |                     |                                                                                                     |
+|                    2|[Goblin Guide](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425921)         |                     |                                                                                                     |
 |                    3|[Goblin Guide](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425921)         |                     |                                                                                                     |
 |                    4|[Goblin Guide](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425921)         |                     |                                                                                                     |
 

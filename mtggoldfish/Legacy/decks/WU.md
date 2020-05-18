@@ -42,8 +42,8 @@
 |                    1|[Baleful Strix](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376260)       |                     |                                                                                                |
 |                    1|[Bojuka Bog](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376269)          |                     |                                                                                                |
 |                    1|[Scrubland](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=882)              |                     |                                                                                                |
-|                    1|[Underground Sea](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=886)        |                     |                                                                                                |
 |                    2|[Baleful Strix](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376260)       |                     |                                                                                                |
 |                    3|[Baleful Strix](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376260)       |                     |                                                                                                |
 |                    4|[Baleful Strix](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376260)       |                     |                                                                                                |
+|                    1|[Underground Sea](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=886)        |                     |                                                                                                |
 

@@ -1,10 +1,14 @@
-2 Stormfist Crusader
+2 Foulmire Knight
 2 Mountain
+3 Dire Tactics
+1 Stormfist Crusader
+2 Stormfist Crusader
+2 Unbreakable Formation
 3 Swamp
 1 Call of the Death-Dweller
-1 Witch's Oven
 1 Cauldron Familiar
 1 Cruel Celebrant
+1 Witch's Oven
 2 Cruel Celebrant
 2 Witch's Oven
 2 Cauldron Familiar
@@ -12,40 +16,44 @@
 3 Witch's Oven
 3 Cruel Celebrant
 4 Witch's Oven
-1 Dire Tactics
-2 Dire Tactics
-3 Dire Tactics
+4 Dire Tactics
 1 Priest of Forgotten Gods
 2 Priest of Forgotten Gods
 4 Cauldron Familiar
+2 Savai Triome
 4 Swamp
+1 Castle Locthwain
 1 Serrated Scorpion
 2 Serrated Scorpion
 3 Serrated Scorpion
-1 Castle Locthwain
 3 Priest of Forgotten Gods
 1 Kroxa, Titan of Death's Hunger
 2 Kroxa, Titan of Death's Hunger
 2 Fabled Passage
 4 Cruel Celebrant
+3 Savai Triome
 1 Dreadhorde Butcher
 2 Dreadhorde Butcher
 3 Dreadhorde Butcher
 4 Serrated Scorpion
 4 Dreadhorde Butcher
-2 Savai Triome
 1 Hunted Witness
 2 Hunted Witness
-2 Unbreakable Formation
-4 Dire Tactics
-3 Savai Triome
+1 Drill Bit
+2 Drill Bit
+3 Drill Bit
+1 Smitten Swordmaster
+2 Smitten Swordmaster
+3 Smitten Swordmaster
+3 Corpse Knight
+3 Blacklance Paragon
 1 Fiend Artisan
 2 Fiend Artisan
 4 Priest of Forgotten Gods
 3 Stormfist Crusader
+3 Kroxa, Titan of Death's Hunger
 1 Midnight Reaper
 2 Midnight Reaper
-3 Kroxa, Titan of Death's Hunger
 1 Woe Strider
 1 Mayhem Devil
 2 Mayhem Devil
@@ -53,6 +61,7 @@
 3 Fabled Passage
 3 Mayhem Devil
 4 Fabled Passage
+1 Temple of Triumph
 1 Rix Maadi Reveler
 1 Claim the Firstborn
 1 Robber of the Rich
@@ -60,11 +69,6 @@
 2 Rix Maadi Reveler
 2 Claim the Firstborn
 3 Claim the Firstborn
-3 Corpse Knight
-1 Temple of Triumph
-1 Drill Bit
-2 Drill Bit
-3 Drill Bit
 1 Temple of Malice
 1 Temple of Silence
 1 Gutterbones
@@ -74,6 +78,11 @@
 3 Castle Locthwain
 4 Gutterbones
 4 Castle Locthwain
+1 Rimrock Knight
+2 Rimrock Knight
+3 Rimrock Knight
+4 Rimrock Knight
+4 Blacklance Paragon
 1 Castle Ardenvale
 1 Luminous Broodmoth
 2 Luminous Broodmoth
@@ -85,8 +94,8 @@
 1 Judith, the Scourge Diva
 1 Bastion of Remembrance
 2 Bastion of Remembrance
-4 Stormfist Crusader
 4 Plains
+4 Stormfist Crusader
 1 General Kudro of Drannith
 1 Lavabrink Venturer
 1 Hero of Precinct One
@@ -107,6 +116,8 @@
 4 Hero of Precinct One
 4 Savai Triome
 4 General's Enforcer
+1 Chance for Glory
+2 Chance for Glory
 1 Order of Midnight
 2 Order of Midnight
 1 Castle Embereth
@@ -145,9 +156,6 @@
 2 Icon of Ancestry
 2 Revival / Revenge
 4 General Kudro of Drannith
-1 Smitten Swordmaster
-2 Smitten Swordmaster
-3 Smitten Swordmaster
 4 Smitten Swordmaster
 3 Fiend Artisan
 4 Woe Strider
@@ -161,12 +169,12 @@
 4 Hunted Witness
 1 Memory Leak
 1 Unknown Card
-1 Go for Blood
 1 Startling Development
 1 Drannith Healer
 1 Zenith Flare
 1 Boon of the Wish-Giver
 1 Valiant Rescuer
+1 Go for Blood
 1 Footfall Crater
 1 Frostveil Ambush
 1 Flourishing Fox
@@ -185,6 +193,7 @@
 2 Zenith Flare
 3 Memory Leak
 3 Unknown Card
+3 Frostveil Ambush
 3 Drannith Stinger
 3 Go for Blood
 3 Flourishing Fox
@@ -192,7 +201,6 @@
 3 Zenith Flare
 3 Boon of the Wish-Giver
 3 Startling Development
-3 Frostveil Ambush
 3 Valiant Rescuer
 4 Boon of the Wish-Giver
 4 Memory Leak
@@ -206,7 +214,6 @@
 4 Unknown Card
 4 Drannith Healer
 2 Call of the Death-Dweller
-3 Blacklance Paragon
 3 Mountain
 4 Mountain
 5 Plains

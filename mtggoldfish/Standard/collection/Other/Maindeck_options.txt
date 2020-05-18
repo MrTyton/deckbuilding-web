@@ -56,8 +56,8 @@
 2 Stomping Ground
 3 Stomping Ground
 4 Stomping Ground
-1 Haktos the Unscarred
 1 Marauding Raptor
+1 Haktos the Unscarred
 1 Charming Prince
 1 Arboreal Grazer
 1 Sphinx of Foresight
@@ -176,8 +176,8 @@
 1 Wind-Scarred Crag
 1 Tranquil Cove
 1 Evolving Wilds
-1 Storm's Wrath
 1 Omen of the Forge
+1 Storm's Wrath
 1 Archon of Sun's Grace
 1 Thryx, the Sudden Storm
 1 Yorion, Sky Nomad
@@ -213,22 +213,22 @@
 3 Overgrown Tomb
 4 Overgrown Tomb
 1 Temple of Mystery
-1 Kogla, the Titan Ape
 1 Risen Reef
 1 Thassa, Deep-Dwelling
 1 Lazav, the Multifarious
-1 Cavalier of Thorns
 1 Yarok, the Desecrated
 1 Vivien, Monsters' Advocate
+1 Cavalier of Thorns
 1 Nethroi, Apex of Death
 1 Elspeth's Nightmare
+1 Kogla, the Titan Ape
 1 Leafkin Druid
 1 Spark Double
 1 Acolyte of Affliction
 2 Temple of Mystery
-2 Cavalier of Thorns
 2 Nethroi, Apex of Death
 2 Risen Reef
+2 Cavalier of Thorns
 2 Thassa, Deep-Dwelling
 2 Lazav, the Multifarious
 2 Yarok, the Desecrated
@@ -239,9 +239,9 @@
 3 Temple of Malady
 3 Temple of Mystery
 3 Fiend Artisan
-3 Cavalier of Thorns
 3 Watery Grave
 3 Risen Reef
+3 Cavalier of Thorns
 3 Leafkin Druid
 4 Fiend Artisan
 4 Risen Reef
@@ -317,18 +317,18 @@
 2 Rankle, Master of Pranks
 1 Mythos of Nethroi
 1 Casualties of War
+1 Barrier Breach
 1 Labyrinth of Skophos
 1 Mortify
-1 Barrier Breach
 1 Suffocating Fumes
 1 Shifting Ceratops
 2 Casualties of War
 2 Realm-Cloaked Giant
 2 Barrier Breach
 2 Mythos of Nethroi
-2 Shifting Ceratops
 2 Mortify
 2 Suffocating Fumes
+2 Shifting Ceratops
 2 Labyrinth of Skophos
 3 Mortify
 3 Casualties of War
@@ -350,9 +350,9 @@
 4 Thought Erasure
 4 Assassin's Trophy
 4 Niv-Mizzet Reborn
+1 Gallia of the Endless Dance
 1 Klothys, God of Destiny
 1 Ilharg, the Raze-Boar
-1 Gallia of the Endless Dance
 1 Whirlwind of Thought
 1 Saheeli, Sublime Artificer
 1 Glass Casket
@@ -538,9 +538,9 @@
 2 Midnight Reaper
 1 Smitten Swordmaster
 1 Foulmire Knight
-1 Edgewall Innkeeper
 1 Lucky Clover
 1 Blacklance Paragon
+1 Edgewall Innkeeper
 1 Flaxen Intruder
 2 Smitten Swordmaster
 2 Foulmire Knight
@@ -552,8 +552,8 @@
 3 Blacklance Paragon
 3 Foulmire Knight
 3 Midnight Reaper
-3 Edgewall Innkeeper
 3 Lucky Clover
+3 Edgewall Innkeeper
 3 Flaxen Intruder
 4 Blacklance Paragon
 4 Smitten Swordmaster
@@ -566,19 +566,19 @@
 4 Flaxen Intruder
 1 Forbidden Friendship
 1 Sarkhan the Masterless
-1 Domri, Anarch of Bolas
 1 Castle Embereth
-1 Tibalt, Rakish Instigator
+1 Domri, Anarch of Bolas
 1 End-Raze Forerunners
+1 Tibalt, Rakish Instigator
 1 Ajani, the Greathearted
 1 Flower/Flourish
 1 Raise the Alarm
 1 Omen of the Sun
 1 March of the Multitudes
+2 Domri, Anarch of Bolas
 2 Forbidden Friendship
 2 Sarkhan the Masterless
 2 Castle Embereth
-2 Domri, Anarch of Bolas
 2 Tibalt, Rakish Instigator
 2 Raise the Alarm
 2 Ajani, the Greathearted
@@ -627,8 +627,8 @@
 4 Loyal Pegasus
 10 Swamp
 1 Robber of the Rich
-1 Embercleave
 1 Rotting Regisaur
+1 Embercleave
 1 Steelclaw Lance
 1 Fervent Champion
 2 Robber of the Rich
@@ -636,17 +636,17 @@
 2 Embercleave
 2 Fervent Champion
 2 Steelclaw Lance
-3 Dreadhorde Butcher
 3 Robber of the Rich
 3 Embercleave
+3 Dreadhorde Butcher
 3 Heartless Act
 3 Rotting Regisaur
 3 Steelclaw Lance
 3 Blood Crypt
 3 Fervent Champion
+4 Robber of the Rich
 4 Embercleave
 4 Dreadhorde Butcher
-4 Robber of the Rich
 4 Rotting Regisaur
 4 Blood Crypt
 4 Fervent Champion
