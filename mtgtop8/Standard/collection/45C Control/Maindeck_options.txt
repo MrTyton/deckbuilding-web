@@ -95,9 +95,9 @@
 2 Temple of Abandon
 2 Omnath, Locus of the Roil
 2 Genesis Ultimatum
+3 Temple of Abandon
 3 Temple of Epiphany
 3 Arboreal Grazer
-3 Temple of Abandon
 3 Stomping Ground
 3 Steam Vents
 3 Omnath, Locus of the Roil
@@ -147,6 +147,9 @@
 3 Gilded Goose
 1 Elite Guardmage
 2 Elite Guardmage
+1 Quasiduplicate
+2 Thassa, Deep-Dwelling
+4 Temple of Abandon
 1 Kenrith, the Returned King
 1 Unmoored Ego
 3 Deafening Clarion
@@ -162,9 +165,6 @@
 3 Nissa, Who Shakes the World
 3 Hydroid Krasis
 4 Nissa, Who Shakes the World
-1 Quasiduplicate
-2 Thassa, Deep-Dwelling
-4 Temple of Abandon
 1 Castle Vantress
 1 Glass Casket
 2 Dovin's Veto
@@ -178,12 +178,12 @@
 4 Paradise Druid
 4 Vraska, Golgari Queen
 1 Scampering Scorcher
-1 Tranquil Cove
 1 Blossoming Sands
 1 Evolving Wilds
 1 Teferi's Time Twist
 1 Rugged Highlands
 1 Thornwood Falls
+1 Tranquil Cove
 1 Swiftwater Cliffs
 1 Wind-Scarred Crag
 1 Spark Double
@@ -195,9 +195,9 @@
 1 Centaur Peacemaker
 1 Cloudkin Seer
 2 Scampering Scorcher
-2 Tranquil Cove
 2 Teferi's Time Twist
 2 Rugged Highlands
+2 Tranquil Cove
 2 Thornwood Falls
 2 Wind-Scarred Crag
 2 Blossoming Sands
@@ -222,10 +222,10 @@
 3 Frost Lynx
 3 Cloudkin Seer
 3 Neoform
+4 Fire Prophecy
 4 Flicker of Fate
 4 Evolving Wilds
 4 Thornwood Falls
-4 Fire Prophecy
 4 Cloudkin Seer
 4 Island
 4 Neoform

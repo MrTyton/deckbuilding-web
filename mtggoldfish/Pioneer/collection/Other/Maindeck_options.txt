@@ -27,8 +27,8 @@
 1 Geier Reach Sanitarium
 6 Island
 1 Commit/Memory
-1 Godless Shrine
 1 Isolated Chapel
+1 Godless Shrine
 2 Godless Shrine
 3 Godless Shrine
 4 Trial of Ambition
@@ -144,13 +144,13 @@
 3 Overgrown Tomb
 4 Overgrown Tomb
 1 Walking Ballista
+1 Indatha Triome
+1 Traverse the Ulvenwald
 1 Kunoros, Hound of Athreos
 1 Vivien, Monsters' Advocate
-1 Traverse the Ulvenwald
-1 Indatha Triome
 1 Ishkanah, Grafwidow
-2 Traverse the Ulvenwald
 2 Indatha Triome
+2 Traverse the Ulvenwald
 3 Traverse the Ulvenwald
 4 Traverse the Ulvenwald
 4 Godless Shrine
@@ -165,8 +165,8 @@
 1 Emrakul, the Promised End
 1 Siege Rhino
 1 Kaya, Orzhov Usurper
-1 Kalitas, Traitor of Ghet
 1 Knight of Autumn
+1 Kalitas, Traitor of Ghet
 2 Courser of Kruphix
 2 Siege Rhino
 2 Knight of Autumn
@@ -302,9 +302,9 @@
 2 Temple of Deceit
 1 Polukranos, Unchained
 1 Gonti, Lord of Luxury
-2 Mystical Dispute
 1 Archon of Sun's Grace
 2 Archon of Sun's Grace
+2 Mystical Dispute
 3 Concealed Courtyard
 1 Flicker of Fate
 1 Doom Foretold
@@ -352,9 +352,9 @@
 2 Deputy of Detention
 2 Dromoka's Command
 2 Voice of Resurgence
+2 Scavenging Ooze
 2 Botanical Sanctum
 2 Spell Queller
-2 Scavenging Ooze
 3 Collected Company
 3 Dromoka's Command
 3 Spell Queller
@@ -396,19 +396,19 @@
 2 Steam Vents
 1 Bonecrusher Giant
 1 Castle Embereth
-2 Mountain
 2 Castle Embereth
+2 Mountain
 1 Agent of Treachery
 1 Chandra, Acolyte of Flame
 1 Sacred Foundry
 1 Clifftop Retreat
 1 Chained to the Rocks
 1 Temple of Triumph
+1 Blast Zone
 1 Eldrazi Displacer
 1 Inspiring Vantage
 1 Cloudblazer
 1 Winota, Joiner of Forces
-1 Blast Zone
 1 Phyrexian Revoker
 1 Lavinia of the Tenth
 1 Battlefield Forge
@@ -417,8 +417,8 @@
 1 Fire Prophecy
 1 Raugrin Triome
 2 Agent of Treachery
-2 Hanged Executioner
 2 Chandra, Acolyte of Flame
+2 Hanged Executioner
 2 Clifftop Retreat
 2 Chained to the Rocks
 2 Sacred Foundry
@@ -435,11 +435,11 @@
 2 Lavinia of the Tenth
 3 Agent of Treachery
 3 Hanged Executioner
+3 Chandra, Acolyte of Flame
 3 Clifftop Retreat
 3 Steam Vents
 3 Bonecrusher Giant
 3 Sacred Foundry
-3 Chandra, Acolyte of Flame
 3 Chained to the Rocks
 3 Phyrexian Revoker
 3 Fire Prophecy
@@ -480,15 +480,15 @@
 4 Disinformation Campaign
 4 Basilica Bell-Haunt
 1 Censor
+1 Hero's Downfall
 1 Thassa's Oracle
 1 Atris, Oracle of Half-Truths
-1 Hero's Downfall
 1 Inverter of Truth
 1 Hostage Taker
 1 Choked Estuary
 1 Jace, Wielder of Mysteries
-2 Hero's Downfall
 2 Thassa's Oracle
+2 Hero's Downfall
 2 Jace, Wielder of Mysteries
 2 Choked Estuary
 2 Censor
@@ -525,8 +525,8 @@
 1 Collective Brutality
 2 Walking Ballista
 1 Neutralize
-1 Drown in the Loch
 1 Search for Azcanta
+1 Drown in the Loch
 1 Utter End
 1 Languish
 2 Languish
@@ -536,8 +536,8 @@
 1 Shadowspear
 1 Realm-Cloaked Giant
 1 Vraska, Golgari Queen
-1 Chevill, Bane of Monsters
 1 Liliana, Dreadhorde General
+1 Chevill, Bane of Monsters
 1 Sandsteppe Citadel
 1 Elspeth, Sun's Champion
 1 Hangarback Walker
@@ -554,11 +554,11 @@
 2 Dauntless Bodyguard
 3 Dauntless Bodyguard
 4 Dauntless Bodyguard
-1 Castle Locthwain
 1 Kitesail Freebooter
 1 Thalia's Lieutenant
 1 Caves of Koilos
 1 Drannith Magistrate
+1 Castle Locthwain
 1 Return to the Ranks
 1 Knight of the White Orchid
 1 Dire Tactics
@@ -580,11 +580,28 @@
 4 Concealed Courtyard
 4 Caves of Koilos
 4 Dire Tactics
+1 Rankle, Master of Pranks
+1 Gifted Aetherborn
+1 Erebos, God of the Dead
+1 Spark Trooper
+1 Temple of Malady
+1 Sunblade Angel
+1 Skull Prophet
+1 Vine Mare
+1 Grapple with the Past
+2 Gifted Aetherborn
+2 Skull Prophet
+2 Temple of Malady
+2 Vine Mare
+3 Gifted Aetherborn
+3 Gather the Pack
+4 Gifted Aetherborn
+4 Gather the Pack
 1 Lovestruck Beast
+1 Rotting Regisaur
 1 Steel Leaf Champion
 1 Yorvo, Lord of Garenbrig
 1 The Great Henge
-1 Rotting Regisaur
 2 Lovestruck Beast
 2 Rotting Regisaur
 2 Steel Leaf Champion
@@ -593,84 +610,66 @@
 2 Yorvo, Lord of Garenbrig
 3 Lovestruck Beast
 3 The Great Henge
-3 Steel Leaf Champion
 3 Rotting Regisaur
-4 Rotting Regisaur
+3 Steel Leaf Champion
 4 Lovestruck Beast
+4 Rotting Regisaur
 4 Llanowar Wastes
 4 Steel Leaf Champion
-1 Jace, Vryn's Prodigy
 1 Temple of Epiphany
+1 Blood Crypt
 1 Colossification
 1 Temple of Malice
+1 Jace, Vryn's Prodigy
 1 Burning Anger
 1 Liliana, Death's Majesty
 1 Breaking/Entering
-1 Blood Crypt
 1 Cathartic Reunion
 1 Storm Herald
-2 Temple of Malice
-2 Jace, Vryn's Prodigy
-2 Colossification
-2 Collective Brutality
 2 Blood Crypt
+2 Colossification
+2 Jace, Vryn's Prodigy
+2 Collective Brutality
 2 Burning Anger
 2 Breaking/Entering
 2 Storm Herald
+2 Temple of Malice
 2 Cathartic Reunion
 2 Liliana, Death's Majesty
+3 Blood Crypt
 3 Jace, Vryn's Prodigy
 3 Temple of Malice
 3 Collective Brutality
 3 Storm Herald
 3 Cathartic Reunion
 3 Liliana, Death's Majesty
-3 Blood Crypt
 3 Burning Anger
 3 Breaking/Entering
 3 Colossification
+4 Blood Crypt
 4 Jace, Vryn's Prodigy
 4 Breaking/Entering
-4 Blood Crypt
 4 Burning Anger
 4 Storm Herald
 4 Cathartic Reunion
 4 Colossification
-1 Rankle, Master of Pranks
-1 Erebos, God of the Dead
-1 Spark Trooper
-1 Temple of Malady
-1 Sunblade Angel
-1 Skull Prophet
-1 Vine Mare
-1 Grapple with the Past
-1 Gifted Aetherborn
-2 Gifted Aetherborn
-2 Skull Prophet
-2 Temple of Malady
-2 Vine Mare
-3 Gather the Pack
-3 Gifted Aetherborn
-4 Gather the Pack
-4 Gifted Aetherborn
 1 Vampire of the Dire Moon
 1 Stitcher's Supplier
 2 Fiend Artisan
 2 Stitcher's Supplier
 3 Fiend Artisan
-3 Murderous Rider
 3 Stitcher's Supplier
 3 Woodland Cemetery
+3 Murderous Rider
 3 Rhonas the Indomitable
-4 Murderous Rider
 4 Fiend Artisan
+4 Murderous Rider
 4 Stitcher's Supplier
 4 Woodland Cemetery
 4 Questing Beast
+1 Light Up the Stage
 1 Torbran, Thane of Red Fell
 1 Runaway Steam-Kin
-1 Light Up the Stage
-1 Mutavault
 1 Wild Slash
 1 Robber of the Rich
 1 Legion Loyalist
@@ -699,6 +698,7 @@
 1 Ghitu Lavarunner
 1 Foundry Street Denizen
 1 Burning-Tree Emissary
+1 Mutavault
 1 Incendiary Flow
 1 Ash Zealot
 1 Zurgo Bellstriker
