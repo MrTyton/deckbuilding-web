@@ -21,8 +21,8 @@
 1 Interplanar Beacon
 2 Interplanar Beacon
 2 Narset, Parter of Veils
-3 Narset, Parter of Veils
 3 Interplanar Beacon
+3 Narset, Parter of Veils
 4 Interplanar Beacon
 1 Keruga, the Macrosage
 1 Godless Shrine
@@ -50,21 +50,21 @@
 3 Wind-Scarred Crag
 1 Chandra, Awakened Inferno
 1 Questing Beast
-1 Stomping Ground
 1 Forest
 1 Vivien, Monsters' Advocate
 1 Shifting Ceratops
 1 Domri, Anarch of Bolas
+1 Stomping Ground
 2 Questing Beast
-2 Stomping Ground
 2 Forest
 2 Vivien, Monsters' Advocate
 2 Domri, Anarch of Bolas
 2 Shifting Ceratops
+2 Stomping Ground
 3 Questing Beast
-3 Stomping Ground
-3 Shifting Ceratops
 3 Forest
+3 Shifting Ceratops
+3 Stomping Ground
 3 Domri, Anarch of Bolas
 4 Mountain
 4 Forest
@@ -81,31 +81,31 @@
 1 Haktos the Unscarred
 1 Prison Realm
 2 Haktos the Unscarred
-1 Lukka, Coppercoat Outcast
 1 Omen of the Sun
+1 Lukka, Coppercoat Outcast
 1 Elspeth, Sun's Nemesis
 1 Agent of Treachery
-2 Elspeth, Sun's Nemesis
 2 Omen of the Sun
 2 Lukka, Coppercoat Outcast
 2 Agent of Treachery
+2 Elspeth, Sun's Nemesis
 3 Agent of Treachery
+1 Saheeli, Sublime Artificer
+1 The Royal Scions
 1 Banishing Light
 1 Kiora, Behemoth Beckoner
 1 Kasmina, Enigmatic Mentor
 1 Ox of Agonas
 1 Raugrin Crystal
 1 Angel of Grace
-1 The Royal Scions
 1 Gideon Blackblade
-1 Saheeli, Sublime Artificer
+2 The Royal Scions
 2 Banishing Light
 2 Kiora, Behemoth Beckoner
 2 Angel of Grace
-2 The Royal Scions
 2 Storm's Wrath
-3 Temple of Enlightenment
 3 The Royal Scions
+3 Temple of Enlightenment
 3 Storm's Wrath
 4 Shark Typhoon
 1 Castle Ardenvale
@@ -113,35 +113,24 @@
 2 Godless Shrine
 3 Mystical Dispute
 4 Mystical Dispute
-1 Ashiok, Nightmare Muse
 1 Temple of Malice
-1 Temple of Deceit
 1 Fae of Wishes
 1 Omen of the Sea
-1 Liliana, Dreadhorde General
 1 Drawn from Dreams
+1 Temple of Deceit
+1 Liliana, Dreadhorde General
+1 Ashiok, Nightmare Muse
 2 Ashiok, Nightmare Muse
 2 Temple of Malice
-2 Liliana, Dreadhorde General
 2 Fae of Wishes
 2 Omen of the Sea
-2 Blood Crypt
 2 Drawn from Dreams
 2 Temple of Deceit
+2 Liliana, Dreadhorde General
+2 Blood Crypt
 3 Fae of Wishes
 4 Narset, Parter of Veils
 4 Fae of Wishes
-1 Temple Garden
-1 Knight of Autumn
-1 Gruul Spellbreaker
-2 Gruul Spellbreaker
-2 Temple Garden
-2 Knight of Autumn
-3 Gruul Spellbreaker
-3 Temple Garden
-4 Questing Beast
-4 Stomping Ground
-4 Temple Garden
 1 Tranquil Cove
 1 Evolving Wilds
 1 Swiftwater Cliffs
@@ -149,11 +138,22 @@
 2 Swiftwater Cliffs
 3 Tranquil Cove
 4 Wind-Scarred Crag
+1 Temple Garden
+1 Knight of Autumn
+1 Gruul Spellbreaker
+2 Temple Garden
+2 Gruul Spellbreaker
+2 Knight of Autumn
+3 Temple Garden
+3 Gruul Spellbreaker
+4 Questing Beast
+4 Temple Garden
+4 Stomping Ground
 1 The Great Henge
 1 Castle Embereth
 1 Thrashing Brontodon
-1 Yidaro, Wandering Monster
 1 Bonders' Enclave
+1 Yidaro, Wandering Monster
 1 Lovestruck Beast
 1 Rugged Highlands
 2 The Great Henge
@@ -165,6 +165,6 @@
 3 Yidaro, Wandering Monster
 3 Rugged Highlands
 4 Yidaro, Wandering Monster
-7 Forest
 7 Mountain
+7 Forest
 4 Rugged Highlands

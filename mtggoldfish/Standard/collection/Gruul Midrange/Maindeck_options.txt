@@ -2,12 +2,12 @@
 3 Gemrazer
 1 Bonecrusher Giant
 2 Bonecrusher Giant
-1 Robber of the Rich
 1 Gallia of the Endless Dance
-2 Robber of the Rich
+1 Robber of the Rich
 2 Gallia of the Endless Dance
-3 Robber of the Rich
+2 Robber of the Rich
 3 Bonecrusher Giant
+3 Robber of the Rich
 8 Mountain
 9 Mountain
 1 Quartzwood Crasher
@@ -40,19 +40,16 @@
 1 Thrashing Brontodon
 2 Thrashing Brontodon
 2 Domri, Anarch of Bolas
-4 Gemrazer
 1 Marauding Raptor
 2 Marauding Raptor
+4 Gemrazer
 11 Forest
-1 Lovestruck Beast
-2 Lovestruck Beast
-3 Lovestruck Beast
-2 Vivien, Arkbow Ranger
 1 Paradise Druid
 2 Paradise Druid
 3 Paradise Druid
-1 The Great Henge
-2 The Great Henge
+1 Lovestruck Beast
+2 Lovestruck Beast
+3 Lovestruck Beast
 1 Castle Garenbrig
 2 Castle Garenbrig
 12 Forest
@@ -62,9 +59,9 @@
 16 Forest
 17 Forest
 18 Forest
-1 Yorvo, Lord of Garenbrig
-2 Yorvo, Lord of Garenbrig
-19 Forest
+2 Vivien, Arkbow Ranger
+1 The Great Henge
+2 The Great Henge
 4 Embercleave
 4 Bonecrusher Giant
 1 Anax, Hardened in the Forge
@@ -75,43 +72,40 @@
 2 Legion Warboss
 1 Fire Prophecy
 2 Fire Prophecy
+19 Forest
 1 Shock
 2 Domri's Ambush
+3 Thrashing Brontodon
 1 Voracious Hydra
 2 Voracious Hydra
-3 Thrashing Brontodon
 4 Lovestruck Beast
-3 Vivien, Arkbow Ranger
+1 Mobilized District
 3 Castle Garenbrig
+4 Paradise Druid
+1 Yorvo, Lord of Garenbrig
+2 Yorvo, Lord of Garenbrig
 3 Marauding Raptor
 4 Marauding Raptor
 4 Fabled Passage
 1 Scorching Dragonfire
 4 Ketria Triome
+1 Migratory Greathorn
+2 Migratory Greathorn
+3 Migratory Greathorn
+4 Migratory Greathorn
 1 Thrash/Threat
-1 Mobilized District
-4 Paradise Druid
+3 Vivien, Arkbow Ranger
 1 Barkhide Troll
 2 Barkhide Troll
 3 Barkhide Troll
 3 Yorvo, Lord of Garenbrig
-1 Growth-Chamber Guardian
-2 Growth-Chamber Guardian
-3 Growth-Chamber Guardian
-4 Growth-Chamber Guardian
 3 Voracious Hydra
 20 Forest
+1 Nullhide Ferox
 1 Bond of Flourishing
+2 Scorching Dragonfire
 1 Cindervines
 2 Cindervines
-2 Scorching Dragonfire
-1 Incubation Druid
-1 Rabid Bite
-1 Gargos, Vicious Watcher
-1 Oakenform
-1 Keeper of Fables
-2 Oakenform
-2 Gargos, Vicious Watcher
 2 Thrash/Threat
 1 Kiora, Behemoth Beckoner
 1 Adventurous Impulse
@@ -147,65 +141,74 @@
 3 Kraul Harpooner
 4 Thrashing Brontodon
 4 Kraul Harpooner
-1 Wildborn Preserver
-1 Vivien, Champion of the Wilds
-2 Wildborn Preserver
-2 Vivien, Champion of the Wilds
-4 Castle Garenbrig
+1 Gilded Goose
+1 End-Raze Forerunners
+2 Gilded Goose
+2 Mobilized District
+2 End-Raze Forerunners
+3 End-Raze Forerunners
+3 Gilded Goose
 4 Barkhide Troll
-1 Nullhide Ferox
-1 Migratory Greathorn
-2 Migratory Greathorn
-3 Migratory Greathorn
-4 Migratory Greathorn
+4 Gilded Goose
 1 Castle Embereth
 1 Grafdigger's Cage
 1 Lava Coil
-2 Shock
-2 Grafdigger's Cage
 2 Lava Coil
+2 Grafdigger's Cage
+2 Shock
 3 Domri's Ambush
 4 Domri's Ambush
 1 Nethroi, Apex of Death
+1 Overgrown Tomb
 1 Eat to Extinction
 1 Shatter the Sky
-1 Savai Triome
-1 Temple of Malady
 1 Temple Garden
-1 Indatha Triome
 1 Temple of Plenty
-1 Extinction Event
-1 Heartless Act
+1 Indatha Triome
+1 Temple of Malady
 1 Elspeth Conquers Death
 1 Mythos of Nethroi
+1 Heartless Act
 1 Blast Zone
 1 Leyline Prowler
-1 Overgrown Tomb
-1 Cubwarden
+1 Extinction Event
 1 Snapdax, Apex of the Hunt
+1 Savai Triome
 1 Boot Nipper
-2 Savai Triome
-2 Temple Garden
+1 Cubwarden
 2 Temple of Malady
-2 Indatha Triome
-2 Extinction Event
-2 Leyline Prowler
+2 Savai Triome
 2 Overgrown Tomb
+2 Temple Garden
+2 Indatha Triome
+2 Leyline Prowler
+2 Extinction Event
 2 Cubwarden
 2 Snapdax, Apex of the Hunt
 2 Boot Nipper
 3 Indatha Triome
 3 Savai Triome
+3 Overgrown Tomb
 3 Cubwarden
 3 Snapdax, Apex of the Hunt
 3 Temple Garden
-3 Overgrown Tomb
 4 Indatha Triome
 4 Temple Garden
 4 Savai Triome
+4 Overgrown Tomb
 4 Cubwarden
 4 Snapdax, Apex of the Hunt
-4 Overgrown Tomb
+1 Incubation Druid
+1 Rabid Bite
+1 Gargos, Vicious Watcher
+1 Oakenform
+1 Keeper of Fables
+1 Growth-Chamber Guardian
+2 Oakenform
+2 Gargos, Vicious Watcher
+2 Growth-Chamber Guardian
+3 Growth-Chamber Guardian
+4 Growth-Chamber Guardian
 1 Nessian Hornbeetle
 2 Nessian Hornbeetle
 3 Nessian Hornbeetle

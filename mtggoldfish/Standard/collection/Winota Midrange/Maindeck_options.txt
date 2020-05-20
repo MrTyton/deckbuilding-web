@@ -1,32 +1,14 @@
 1 Temple of Epiphany
 1 Chandra, Acolyte of Flame
 4 Fabled Passage
-1 Incubation/Incongruity
-2 Incubation/Incongruity
+2 Hanged Executioner
+3 Hanged Executioner
+2 Chandra, Acolyte of Flame
 1 Bonecrusher Giant
 2 Bonecrusher Giant
-1 Castle Embereth
-2 Hanged Executioner
-2 Chandra, Acolyte of Flame
-1 Brazen Borrower
-3 Bonecrusher Giant
-3 Incubation/Incongruity
-3 Hanged Executioner
-3 Spectral Sailor
-1 Castle Vantress
 4 Hanged Executioner
 3 Plains
 3 Mountain
-1 Fires of Invention
-2 Fires of Invention
-2 Brazen Borrower
-1 Elite Guardmage
-2 Elite Guardmage
-1 Castle Ardenvale
-2 Temple of Triumph
-3 Fires of Invention
-4 Fires of Invention
-1 Ketria Triome
 1 Arboreal Grazer
 1 Forest
 1 Stomping Ground
@@ -36,6 +18,7 @@
 3 Stomping Ground
 4 Arboreal Grazer
 4 Stomping Ground
+1 Ketria Triome
 1 Temple Garden
 1 Breeding Pool
 2 Temple Garden
@@ -44,7 +27,33 @@
 1 Neoform
 2 Neoform
 3 Neoform
+1 Castle Vantress
+1 Fires of Invention
+2 Fires of Invention
+1 Gilded Goose
+1 Alirios, Enraptured
+2 Gilded Goose
+2 Alirios, Enraptured
+3 Breeding Pool
+3 Gilded Goose
+4 Breeding Pool
+4 Temple Garden
+2 Forest
+3 Spectral Sailor
+2 Temple of Triumph
+1 Elite Guardmage
+2 Elite Guardmage
+1 Castle Ardenvale
+1 Brazen Borrower
+1 Castle Embereth
+3 Bonecrusher Giant
+1 Incubation/Incongruity
+2 Incubation/Incongruity
+3 Fires of Invention
+4 Fires of Invention
 4 Plains
+4 Neoform
+4 Gilded Goose
 1 Fae of Wishes
 1 Elspeth Conquers Death
 2 Elspeth Conquers Death
@@ -55,72 +64,84 @@
 4 Elspeth Conquers Death
 2 Temple of Enlightenment
 3 Chandra, Acolyte of Flame
-4 Temple Garden
-1 Gilded Goose
-1 Alirios, Enraptured
-2 Gilded Goose
-2 Alirios, Enraptured
-3 Breeding Pool
-3 Gilded Goose
-4 Breeding Pool
-3 Brazen Borrower
 2 Ketria Triome
 3 Ketria Triome
-2 Forest
-4 Incubation/Incongruity
+2 Brazen Borrower
 1 Lukka, Coppercoat Outcast
-4 Neoform
-4 Gilded Goose
+3 Incubation/Incongruity
 3 Elite Guardmage
 4 Chandra, Acolyte of Flame
+3 Brazen Borrower
 4 Brazen Borrower
+4 Incubation/Incongruity
+3 Temple of Triumph
+4 Bonecrusher Giant
+1 Tajic, Legion's Edge
+2 Tajic, Legion's Edge
+2 Temple of Epiphany
+3 Island
+4 Mountain
+5 Mountain
+5 Plains
+3 Alirios, Enraptured
+4 Elite Guardmage
 1 Sphinx of Foresight
 2 Sphinx of Foresight
 3 Sphinx of Foresight
-3 Temple of Triumph
-4 Bonecrusher Giant
-2 Temple of Epiphany
-3 Island
-3 Alirios, Enraptured
-4 Elite Guardmage
 2 Castle Vantress
 2 Lukka, Coppercoat Outcast
 3 Fblthp, the Lost
-4 Sphinx of Foresight
-1 Stonecoil Serpent
-2 Stonecoil Serpent
-1 Tajic, Legion's Edge
-2 Tajic, Legion's Edge
 3 Kenrith, the Returned King
-4 Mountain
-5 Plains
-5 Mountain
+1 Fight as One
+1 Embercleave
+1 Skyknight Vanguard
+2 Skyknight Vanguard
+2 Fight as One
+3 Skyknight Vanguard
+6 Mountain
+6 Plains
+7 Plains
+7 Mountain
+8 Mountain
 1 Irreverent Revelers
 2 Irreverent Revelers
-1 Fire Prophecy
-1 Omen of the Sea
-2 Fire Prophecy
-2 Omen of the Sea
 1 Gallia of the Endless Dance
 2 Gallia of the Endless Dance
 1 Mystical Dispute
 2 Mystical Dispute
+1 Fire Prophecy
+1 Omen of the Sea
+2 Omen of the Sea
+2 Fire Prophecy
 1 Dovin's Veto
 2 Dovin's Veto
 3 Dovin's Veto
 4 Ketria Triome
+4 Sphinx of Foresight
 1 Goblin Gathering
 2 Goblin Gathering
 3 Goblin Gathering
 4 Goblin Gathering
+1 Stonecoil Serpent
+2 Stonecoil Serpent
 3 Stonecoil Serpent
 4 Stonecoil Serpent
-1 Marauding Raptor
-2 Marauding Raptor
-3 Marauding Raptor
-4 Marauding Raptor
-1 Questing Beast
+1 Chance for Glory
+1 Robber of the Rich
+1 Alseid of Life's Bounty
+1 Hero of the Nyxborn
+2 Alseid of Life's Bounty
+2 Hero of the Nyxborn
+2 Robber of the Rich
+2 Castle Embereth
+3 Fight as One
+3 Alseid of Life's Bounty
+3 Robber of the Rich
+4 Alseid of Life's Bounty
+4 Robber of the Rich
+4 Skyknight Vanguard
 1 Shifting Ceratops
+1 Questing Beast
 1 Roalesk, Apex Hybrid
 1 Paradise Druid
 2 Paradise Druid
@@ -130,24 +151,13 @@
 3 Questing Beast
 4 Forest
 5 Forest
-1 Fight as One
 1 Lavabrink Venturer
-1 Embercleave
-1 Skyknight Vanguard
 1 Response/Resurgence
 1 Gods Willing
 2 Gods Willing
-2 Skyknight Vanguard
 2 Embercleave
 2 Response/Resurgence
-2 Fight as One
 2 Lavabrink Venturer
-3 Skyknight Vanguard
 3 Lavabrink Venturer
 3 Haktos the Unscarred
-6 Mountain
-6 Plains
-7 Plains
-7 Mountain
-8 Mountain
 8 Plains
