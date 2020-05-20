@@ -1,205 +1,189 @@
-15 Island
-16 Island
-1 Negate
-2 Negate
-17 Island
-18 Island
-1 Opt
 2 Opt
 3 Opt
-1 Stonecoil Serpent
-2 Stonecoil Serpent
-3 Stonecoil Serpent
-1 Sinister Sabotage
-2 Sinister Sabotage
-3 Slitherwisp
-3 Temple of Deceit
-4 Mystical Dispute
-7 Swamp
-4 Stonecoil Serpent
+1 Neutralize
 1 Dirge Bat
-4 Slitherwisp
-1 Fabled Passage
-4 Temple of Deceit
-1 Shark Typhoon
-2 Shark Typhoon
-3 Essence Capture
-1 Pouncing Shoreshark
-2 Dirge Bat
-2 Pouncing Shoreshark
-2 Fabled Passage
-1 Unsummon
-19 Island
-4 Opt
-1 Castle Locthwain
-1 Heartless Act
-2 Heartless Act
-1 Zagoth Triome
 1 Pollywog Symbiote
 1 Insatiable Hemophage
 2 Pollywog Symbiote
 2 Insatiable Hemophage
-3 Pouncing Shoreshark
-3 Insatiable Hemophage
 3 Pollywog Symbiote
+3 Insatiable Hemophage
 4 Pollywog Symbiote
-1 Omen of the Sea
-4 Cunning Nightbonder
+2 Dirge Bat
+2 Neutralize
+1 Essence Capture
+2 Essence Capture
+1 Quench
+2 Quench
+1 Temple of Deceit
+2 Temple of Deceit
 1 Knight of the Ebon Legion
 2 Knight of the Ebon Legion
+7 Swamp
+3 Quench
+3 Essence Capture
+3 Temple of Deceit
+4 Temple of Deceit
+19 Island
+4 Insatiable Hemophage
+3 Neutralize
+1 Sinister Sabotage
+2 Sinister Sabotage
+4 Opt
+8 Swamp
+3 Dirge Bat
+1 Negate
+1 Unsummon
+3 Mystical Dispute
+20 Island
+1 Slitherwisp
+2 Slitherwisp
+2 Negate
+3 Negate
+4 Negate
+1 Fabled Passage
+2 Fabled Passage
 3 Knight of the Ebon Legion
 4 Knight of the Ebon Legion
-4 Pouncing Shoreshark
-2 Castle Locthwain
-20 Island
-2 Zagoth Triome
-3 Sinister Sabotage
-3 Negate
+4 Mystical Dispute
 4 Neutralize
-3 Dirge Bat
-4 Insatiable Hemophage
-4 Essence Capture
-4 Quench
-1 Essence Scatter
-2 Essence Scatter
-8 Swamp
-2 Omen of the Sea
-3 Omen of the Sea
-4 Negate
-1 Voracious Greatshark
-2 Voracious Greatshark
-1 Lochmere Serpent
-2 Lochmere Serpent
-4 Sinister Sabotage
 1 Temple of Epiphany
 1 Mountain
 1 Ionize
 1 Steam Vents
 2 Steam Vents
-2 Ionize
-3 Steam Vents
-3 Ionize
-4 Steam Vents
-1 Pteramander
-1 Shock
 2 Temple of Epiphany
 2 Mountain
-2 Pteramander
-2 Shock
+2 Ionize
+3 Steam Vents
 3 Temple of Epiphany
-3 Pteramander
+3 Ionize
 3 Mountain
 4 Temple of Epiphany
-4 Pteramander
+4 Steam Vents
 4 Ionize
 4 Mountain
-5 Mountain
+4 Essence Capture
+1 Pteramander
+2 Pteramander
+3 Pteramander
+4 Pteramander
 1 Bonecrusher Giant
 2 Bonecrusher Giant
 3 Bonecrusher Giant
 4 Bonecrusher Giant
-1 Ashiok's Erasure
-2 Ashiok's Erasure
+1 Shock
+2 Shock
+5 Mountain
+1 Chamber Sentry
+2 Chamber Sentry
+3 Chamber Sentry
+4 Chamber Sentry
+2 Unsummon
+3 Sinister Sabotage
+4 Quench
+3 Fabled Passage
+4 Fabled Passage
+4 Cunning Nightbonder
+3 Slitherwisp
+4 Slitherwisp
+1 Essence Scatter
+2 Essence Scatter
+3 Essence Scatter
+4 Essence Scatter
+1 Omen of the Sea
+1 Zagoth Triome
 1 Flame Sweep
 2 Flame Sweep
 3 Shock
 4 Shock
-1 Blacklance Paragon
-2 Blacklance Paragon
-3 Heartless Act
-4 Omen of the Sea
-1 Murderous Rider
-9 Swamp
-3 Voracious Greatshark
-1 Tale's End
-2 Tale's End
-1 Stern Dismissal
-2 Stern Dismissal
-2 Unsummon
-1 Thryx, the Sudden Storm
-2 Thryx, the Sudden Storm
-1 Tyrant's Scorn
-3 Shark Typhoon
-3 Castle Vantress
-3 Fabled Passage
+1 Ashiok's Erasure
+2 Ashiok's Erasure
 3 Ashiok's Erasure
-1 Temple of Mystery
-1 Nightpack Ambusher
-1 Embercleave
-1 Threnody Singer
-1 Breeding Pool
-1 Ketria Triome
-1 Forest
-2 Nightpack Ambusher
-2 Embercleave
-2 Threnody Singer
-2 Breeding Pool
-2 Ketria Triome
-3 Nightpack Ambusher
-3 Breeding Pool
-3 Ketria Triome
-4 Breeding Pool
-4 Nightpack Ambusher
 4 Ashiok's Erasure
-4 Ketria Triome
-1 Mutual Destruction
+1 Castle Locthwain
+2 Castle Locthwain
+2 Omen of the Sea
+1 Shark Typhoon
+2 Shark Typhoon
+4 Sinister Sabotage
+3 Castle Vantress
+1 Skewer the Critics
+1 Risk Factor
+2 Skewer the Critics
+2 Zagoth Triome
+1 Murderous Rider
 1 Thassa's Intervention
+1 Thryx, the Sudden Storm
 2 Thassa's Intervention
-2 Murderous Rider
-3 Murderous Rider
-1 Chemister's Insight
-1 Whirlwind Denial
-2 Chemister's Insight
-2 Whirlwind Denial
-3 Whirlwind Denial
-3 Unsummon
-3 Blacklance Paragon
+2 Thryx, the Sudden Storm
+1 Cavern Whisperer
+2 Cavern Whisperer
+1 Voracious Greatshark
+1 Gadwick, the Wizened
+1 Starlit Mantle
+2 Gadwick, the Wizened
+2 Starlit Mantle
+3 Shark Typhoon
+3 Omen of the Sea
 1 Field of Ruin
 1 Crystalline Giant
 2 Crystalline Giant
 3 Crystalline Giant
-4 Fabled Passage
-1 Ashiok, Dream Render
-4 Heartless Act
+1 Blacklance Paragon
+2 Blacklance Paragon
+3 Blacklance Paragon
+1 Gingerbrute
+1 Irencrag Pyromancer
+2 Gingerbrute
+2 Irencrag Pyromancer
+3 Gingerbrute
+3 Irencrag Pyromancer
+4 Gingerbrute
+3 Unsummon
+4 Unsummon
 1 Lazotep Plating
+1 Tale's End
+2 Tale's End
 2 Lazotep Plating
 3 Lazotep Plating
 4 Lazotep Plating
-1 Risk Factor
-1 Skewer the Critics
+1 Stern Dismissal
 2 Risk Factor
-2 Skewer the Critics
+2 Stern Dismissal
 3 Skewer the Critics
 4 Skewer the Critics
-1 Blast Zone
-1 Gadwick, the Wizened
-1 Nadir Kraken
-2 Blast Zone
-2 Gadwick, the Wizened
-2 Nadir Kraken
-3 Nadir Kraken
-3 Blast Zone
-3 Gadwick, the Wizened
-4 Shark Typhoon
-4 Blast Zone
-4 Gadwick, the Wizened
+1 Tyrant's Scorn
+1 Heartless Act
 1 Drill Bit
 1 Dreamtail Heron
 1 Zagoth Mamba
 2 Tyrant's Scorn
-2 Drill Bit
-2 Zagoth Mamba
+2 Heartless Act
 2 Dreamtail Heron
+2 Zagoth Mamba
+2 Drill Bit
 3 Zagoth Triome
 3 Dreamtail Heron
 3 Zagoth Mamba
 4 Zagoth Triome
 4 Zagoth Mamba
+1 The Royal Scions
+1 Legion Warboss
+1 Scorch Spitter
+1 Raugrin Triome
+2 The Royal Scions
+2 Legion Warboss
+2 Scorch Spitter
+2 Raugrin Triome
+3 Legion Warboss
+3 Scorch Spitter
+4 Scorch Spitter
+6 Mountain
+9 Swamp
 1 Hypnotic Sprite
 1 Convolute
 2 Hypnotic Sprite
 2 Convolute
-3 Essence Scatter
 3 Hypnotic Sprite
-4 Essence Scatter
 21 Island

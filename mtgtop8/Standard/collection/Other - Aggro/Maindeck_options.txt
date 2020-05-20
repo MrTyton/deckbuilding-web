@@ -1,9 +1,119 @@
+1 Island
+2 Island
 1 Castle Vantress
 3 Island
 4 Island
+1 Castle Garenbrig
+1 Arboreal Grazer
+1 Gemrazer
+1 Auspicious Starrix
+1 Migratory Greathorn
+1 Pollywog Symbiote
+1 Pouncing Shoreshark
+1 Breeding Pool
+1 Forest
+2 Arboreal Grazer
+2 Auspicious Starrix
+2 Migratory Greathorn
+2 Pollywog Symbiote
+2 Pouncing Shoreshark
+2 Forest
+2 Breeding Pool
+3 Arboreal Grazer
+3 Migratory Greathorn
+3 Pollywog Symbiote
+3 Auspicious Starrix
+3 Pouncing Shoreshark
+3 Breeding Pool
+3 Forest
+4 Arboreal Grazer
+4 Migratory Greathorn
+4 Pollywog Symbiote
+4 Breeding Pool
+4 Forest
+5 Forest
+6 Forest
+7 Forest
+1 Sea-Dasher Octopus
+2 Sea-Dasher Octopus
+3 Sea-Dasher Octopus
+4 Sea-Dasher Octopus
 5 Island
 6 Island
 7 Island
+1 Ketria Triome
+1 Parcelbeast
+1 Illuna, Apex of Wishes
+1 Thassa, Deep-Dwelling
+1 Risen Reef
+1 Agent of Treachery
+1 Temple of Mystery
+2 Castle Garenbrig
+2 Ketria Triome
+2 Parcelbeast
+2 Illuna, Apex of Wishes
+2 Risen Reef
+2 Temple of Mystery
+3 Parcelbeast
+3 Illuna, Apex of Wishes
+3 Temple of Mystery
+3 Risen Reef
+4 Pouncing Shoreshark
+4 Parcelbeast
+4 Auspicious Starrix
+4 Risen Reef
+1 Improbable Alliance
+1 Frostveil Ambush
+1 Drannith Stinger
+1 Footfall Crater
+1 Go for Blood
+1 Valiant Rescuer
+1 Boon of the Wish-Giver
+1 Zenith Flare
+1 Startling Development
+1 Drannith Healer
+1 Flourishing Fox
+1 Raugrin Triome
+1 Hallowed Fountain
+1 Steam Vents
+1 Plains
+2 Raugrin Triome
+2 Improbable Alliance
+2 Zenith Flare
+2 Valiant Rescuer
+2 Footfall Crater
+2 Frostveil Ambush
+2 Boon of the Wish-Giver
+2 Go for Blood
+2 Startling Development
+2 Drannith Stinger
+2 Drannith Healer
+2 Flourishing Fox
+2 Plains
+2 Steam Vents
+2 Hallowed Fountain
+3 Raugrin Triome
+3 Valiant Rescuer
+3 Frostveil Ambush
+3 Startling Development
+3 Boon of the Wish-Giver
+3 Zenith Flare
+3 Drannith Healer
+3 Flourishing Fox
+3 Go for Blood
+3 Drannith Stinger
+3 Plains
+3 Improbable Alliance
+3 Hallowed Fountain
+4 Flourishing Fox
+4 Go for Blood
+4 Drannith Stinger
+4 Drannith Healer
+4 Zenith Flare
+4 Startling Development
+4 Valiant Rescuer
+4 Frostveil Ambush
+4 Improbable Alliance
 1 Sinister Sabotage
 1 Watery Grave
 1 Neutralize
@@ -12,12 +122,9 @@
 1 Slitherwisp
 1 Heartless Act
 1 Cunning Nightbonder
-1 Sea-Dasher Octopus
 1 Dirge Bat
-1 Swamp
 1 Quench
 1 Brineborn Cutthroat
-1 Castle Locthwain
 1 Omen of the Sea
 2 Sinister Sabotage
 2 Watery Grave
@@ -28,10 +135,8 @@
 2 Heartless Act
 2 Cunning Nightbonder
 2 Omen of the Sea
-2 Sea-Dasher Octopus
 2 Brineborn Cutthroat
 2 Dirge Bat
-2 Swamp
 2 Quench
 3 Dirge Bat
 3 Sinister Sabotage
@@ -43,68 +148,30 @@
 3 Neutralize
 3 Spectral Sailor
 3 Slitherwisp
-3 Sea-Dasher Octopus
-3 Swamp
 4 Neutralize
 4 Watery Grave
 4 Cunning Nightbonder
 4 Spectral Sailor
 4 Temple of Deceit
 4 Slitherwisp
-4 Swamp
 4 Brineborn Cutthroat
-4 Sea-Dasher Octopus
-5 Swamp
-6 Swamp
-1 Ketria Triome
-1 Castle Garenbrig
-1 Arboreal Grazer
-1 Gemrazer
-1 Parcelbeast
-1 Auspicious Starrix
-1 Illuna, Apex of Wishes
-1 Migratory Greathorn
-1 Pollywog Symbiote
-1 Pouncing Shoreshark
-1 Thassa, Deep-Dwelling
-1 Risen Reef
-1 Agent of Treachery
-1 Breeding Pool
-1 Forest
-1 Temple of Mystery
-2 Castle Garenbrig
-2 Arboreal Grazer
-2 Ketria Triome
-2 Pollywog Symbiote
-2 Parcelbeast
-2 Auspicious Starrix
-2 Illuna, Apex of Wishes
-2 Migratory Greathorn
-2 Pouncing Shoreshark
-2 Forest
-2 Risen Reef
-2 Temple of Mystery
-2 Breeding Pool
-3 Arboreal Grazer
-3 Pollywog Symbiote
-3 Illuna, Apex of Wishes
-3 Parcelbeast
-3 Auspicious Starrix
-3 Migratory Greathorn
-3 Pouncing Shoreshark
-3 Breeding Pool
-3 Temple of Mystery
-3 Forest
-3 Risen Reef
-4 Pouncing Shoreshark
-4 Arboreal Grazer
-4 Pollywog Symbiote
-4 Migratory Greathorn
-4 Auspicious Starrix
-4 Parcelbeast
-4 Breeding Pool
-4 Risen Reef
-4 Forest
-5 Forest
-6 Forest
-7 Forest
+1 Paradise Druid
+1 Nylea, Keen-Eyed
+1 Hydroid Krasis
+1 Setessan Petitioner
+1 End-Raze Forerunners
+1 Beast Whisperer
+2 End-Raze Forerunners
+2 Paradise Druid
+2 Hydroid Krasis
+2 Nylea, Keen-Eyed
+2 Castle Vantress
+2 Setessan Petitioner
+2 Beast Whisperer
+3 Paradise Druid
+3 Setessan Petitioner
+4 Paradise Druid
+8 Forest
+10 Forest
+11 Forest
+9 Forest

@@ -1,13 +1,10 @@
+1 Mountain
 1 Wild Slash
 2 Wild Slash
 3 Steam Vents
-2 Hope of Ghirapur
-1 Mountain
-3 Wild Slash
-4 Wild Slash
 1 Stormchaser Mage
-1 The Royal Scions
 1 Sulfur Falls
+1 The Royal Scions
 1 Soul-Scar Mage
 1 Monastery Swiftspear
 2 Stormchaser Mage
@@ -17,9 +14,9 @@
 3 Soul-Scar Mage
 3 Monastery Swiftspear
 3 Mountain
-4 Soul-Scar Mage
 4 Mountain
 4 Monastery Swiftspear
+4 Soul-Scar Mage
 5 Mountain
 1 Light Up the Stage
 1 Shock
@@ -42,16 +39,19 @@
 3 Crash Through
 3 Shock
 3 Curious Obsession
+3 Wild Slash
 3 Dreadhorde Arcanist
 3 Opt
+4 Wild Slash
 4 Wizard's Lightning
 4 Stormchaser Mage
 4 Crash Through
 4 Steam Vents
 4 Opt
+2 Hope of Ghirapur
 1 Unlicensed Disintegration
-1 Aether Hub
 1 Mana Confluence
+1 Aether Hub
 2 Unlicensed Disintegration
 2 Mana Confluence
 2 Aether Hub
@@ -72,22 +72,16 @@
 4 Mana Confluence
 4 Unlicensed Disintegration
 4 Springleaf Drum
-1 Lightning Strike
-1 Emry, Lurker of the Loch
-2 Lightning Strike
-2 Emry, Lurker of the Loch
-3 Mutavault
-4 Mutavault
-1 Chandra, Fire of Kaladesh
 1 Torbran, Thane of Red Fell
+1 Chandra, Fire of Kaladesh
 1 Nykthos, Shrine to Nyx
 1 Abbot of Keral Keep
-1 Heart of Kiran
 1 Izzet Charm
+1 Heart of Kiran
 1 Chandra, Torch of Defiance
+1 Oath of Chandra
 1 Bonecrusher Giant
 1 Chandra, Acolyte of Flame
-1 Oath of Chandra
 1 Insult / Injury
 1 Chandra, Fire Artisan
 2 Izzet Charm
@@ -95,8 +89,8 @@
 2 Chandra, Acolyte of Flame
 2 Chandra, Torch of Defiance
 2 Heart of Kiran
-2 Sulfur Falls
 2 Bonecrusher Giant
+2 Sulfur Falls
 2 The Royal Scions
 2 Chandra, Fire Artisan
 2 Insult / Injury
@@ -115,10 +109,10 @@
 1 Hangarback Walker
 1 Walking Ballista
 1 Hardened Scales
-1 Overgrown Tomb
 1 Urborg, Tomb of Yawgmoth
-1 Blooming Marsh
 1 Botanical Sanctum
+1 Overgrown Tomb
+1 Blooming Marsh
 2 Metallic Mimic
 2 Walking Ballista
 2 Hangarback Walker

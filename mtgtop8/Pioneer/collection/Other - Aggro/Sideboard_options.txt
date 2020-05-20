@@ -43,8 +43,8 @@
 2 Gideon, Ally of Zendikar
 1 Ratchet Bomb
 2 Ratchet Bomb
-1 Aethersphere Harvester
 1 Anguished Unmaking
+1 Aethersphere Harvester
 2 Anguished Unmaking
 1 Leyline of the Void
 2 Leyline of the Void
@@ -52,12 +52,12 @@
 1 Kalitas, Traitor of Ghet
 1 Golgari Charm
 1 Phyrexian Revoker
-1 Blightbeetle
 1 Ashiok, Dream Render
+1 Blightbeetle
 1 Shifting Ceratops
 1 Despise
-1 Davriel, Rogue Shadowmage
 1 Massacre Girl
+1 Davriel, Rogue Shadowmage
 2 Ashiok, Dream Render
 2 Davriel, Rogue Shadowmage
 1 Yorion, Sky Nomad
@@ -68,9 +68,9 @@
 2 Brazen Borrower
 2 Trial of Ambition
 2 Deputy of Detention
+1 Narset, Parter of Veils
 1 Dovin's Veto
 1 Supreme Verdict
-1 Narset, Parter of Veils
 1 Dream Trawler
 1 Blessed Alliance
 2 Supreme Verdict
@@ -78,13 +78,6 @@
 2 Blessed Alliance
 3 Blessed Alliance
 3 Dovin's Veto
-1 Questing Beast
-1 Courser of Kruphix
-1 Agonizing Remorse
-1 Lost Legacy
-2 Courser of Kruphix
-2 Agonizing Remorse
-3 Leyline of the Void
 1 Apostle of Purifying Light
 2 Apostle of Purifying Light
 1 Irencrag Pyromancer
@@ -95,8 +88,15 @@
 2 Fry
 2 Wear / Tear
 3 Wear / Tear
-1 Lurrus of the Dream Den
+1 Questing Beast
+1 Courser of Kruphix
+1 Agonizing Remorse
+1 Lost Legacy
+2 Courser of Kruphix
+2 Agonizing Remorse
+3 Leyline of the Void
 1 Heartless Act
+1 Lurrus of the Dream Den
 1 Abrupt Decay
 2 Heartless Act
 2 Abrupt Decay
@@ -148,6 +148,6 @@
 1 Skylasher
 2 Aether Gust
 2 Skylasher
-3 Skylasher
 3 Aether Gust
+3 Skylasher
 4 Unravel the Aether
