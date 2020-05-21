@@ -4,11 +4,6 @@
 1 Eye Collector
 1 Sorcerous Spyglass
 1 Serrated Scorpion
-1 Kraul Harpooner
-1 Heartless Act
-2 Gutterbones
-2 Heartless Act
-4 Elvish Reclaimer
 1 Hateful Eidolon
 1 Soul-Guide Lantern
 1 Lampad of Death's Vigil
@@ -29,6 +24,11 @@
 4 Castle Locthwain
 4 Dead Weight
 4 Chevill, Bane of Monsters
+1 Kraul Harpooner
+1 Heartless Act
+2 Gutterbones
+2 Heartless Act
+4 Elvish Reclaimer
 1 Questing Beast
 1 Arboreal Grazer
 2 Questing Beast
@@ -39,16 +39,16 @@
 9 Forest
 1 Jungle Hollow
 1 Nightmare Shepherd
-1 Syr Konrad, the Grim
 1 Incubation Druid
+1 Syr Konrad, the Grim
 1 Lovestruck Beast
-1 Voracious Hydra
-1 Murderous Rider
 1 Oakhame Adversary
+1 Murderous Rider
 1 Kogla, the Titan Ape
 1 Gnarlback Rhino
 1 Garenbrig Paladin
 1 Fierce Witchstalker
+1 Voracious Hydra
 1 Deathless Knight
 1 Renata, Called to the Hunt
 2 Jungle Hollow
@@ -56,12 +56,12 @@
 2 Syr Konrad, the Grim
 2 Incubation Druid
 2 Lovestruck Beast
-2 Voracious Hydra
 2 Murderous Rider
 2 Oakhame Adversary
 2 Kogla, the Titan Ape
 2 Garenbrig Paladin
 2 Fierce Witchstalker
+2 Voracious Hydra
 2 Gnarlback Rhino
 2 Deathless Knight
 3 Murderous Rider
@@ -77,13 +77,13 @@
 1 Vivien, Arkbow Ranger
 1 Zagoth Triome
 1 Finale of Eternity
+1 Nethroi, Apex of Death
 1 Gemrazer
 1 Indatha Triome
 1 Shadowspear
-1 Nethroi, Apex of Death
-1 Leyline Prowler
-1 Garruk, Cursed Huntsman
 1 Brokkos, Apex of Forever
+1 Garruk, Cursed Huntsman
+1 Leyline Prowler
 1 Cavalier of Thorns
 2 Vivien, Arkbow Ranger
 2 Garruk, Cursed Huntsman
@@ -95,8 +95,8 @@
 3 Leyline Prowler
 3 Cavalier of Thorns
 3 Finale of Eternity
-4 Assassin's Trophy
 4 Questing Beast
 4 Vivien, Arkbow Ranger
 4 Leyline Prowler
+4 Assassin's Trophy
 4 Finale of Eternity

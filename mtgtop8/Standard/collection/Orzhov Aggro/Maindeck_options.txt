@@ -49,10 +49,10 @@
 1 Final Payment
 3 Kaya's Ghostform
 1 Soul-Guide Lantern
-1 Omen of the Dead
 1 Healer's Hawk
-2 Omen of the Dead
+1 Omen of the Dead
 2 Healer's Hawk
+2 Omen of the Dead
 3 Healer's Hawk
 4 Healer's Hawk
 9 Plains
@@ -60,8 +60,8 @@
 2 Indatha Triome
 3 Dead Weight
 4 Dead Weight
-1 Karametra's Blessing
 1 Aphemia, the Cacophony
+1 Karametra's Blessing
 2 Aphemia, the Cacophony
 2 Karametra's Blessing
 3 All That Glitters
@@ -86,33 +86,33 @@
 1 Field of Ruin
 1 Kaya, Orzhov Usurper
 1 Murderous Rider
-1 Basilica Bell-Haunt
-1 Kaya's Wrath
 1 Treacherous Blessing
+1 Basilica Bell-Haunt
+1 Sorin, Vengeful Bloodlord
 1 Planar Cleansing
-1 Yarok's Fenlurker
 1 Cavalier of Dawn
+1 Yarok's Fenlurker
 1 Elspeth Conquers Death
+1 Kaya's Wrath
+1 Leyline of Sanctity
 1 Plaguecrafter
 1 Wishclaw Talisman
-1 Sorin, Vengeful Bloodlord
-1 Leyline of Sanctity
 1 The Birth of Meletis
 2 Kaya, Orzhov Usurper
 2 Basilica Bell-Haunt
-2 Kaya's Wrath
 2 Murderous Rider
-2 Erebos's Intervention
 2 Yarok's Fenlurker
+2 Erebos's Intervention
 2 Elspeth Conquers Death
+2 Kaya's Wrath
 2 Sorin, Vengeful Bloodlord
 2 Castle Ardenvale
 2 The Birth of Meletis
 3 Erebos's Intervention
 3 Basilica Bell-Haunt
-3 Kaya's Wrath
 3 Murderous Rider
 3 Yarok's Fenlurker
+3 Kaya's Wrath
 3 Sorin, Vengeful Bloodlord
 1 Dreadhorde Invasion
 1 Blood for Bones
@@ -122,19 +122,16 @@
 2 Tithe Taker
 3 Indatha Triome
 4 Indatha Triome
-1 Mythos of Nethroi
-1 Stonecoil Serpent
-1 Overgrown Tomb
-1 Drill Bit
-1 Temple Garden
-2 Mythos of Nethroi
-2 Stonecoil Serpent
-2 Overgrown Tomb
-2 Temple Garden
-2 Drill Bit
-3 Mythos of Nethroi
-3 Stonecoil Serpent
-4 Stonecoil Serpent
+1 Pilfering Imp
+1 Murder
+1 Orzhov Guildgate
+1 Boot Nipper
+1 Shadowspear
+1 Memory Leak
+2 Murder
+2 Orzhov Guildgate
+2 Memory Leak
+4 Kaya's Ghostform
 4 Castle Locthwain
 1 Fervent Champion
 1 Stormfist Crusader
@@ -159,10 +156,10 @@
 2 Inspiring Veteran
 3 Blood Crypt
 3 Fervent Champion
-3 Fight as One
 3 Skyknight Vanguard
 3 Venerable Knight
 3 Sacred Foundry
+3 Fight as One
 3 Worthy Knight
 3 Tournament Grounds
 3 Inspiring Veteran
@@ -180,37 +177,33 @@
 2 Durable Coilbug
 3 Durable Coilbug
 4 Durable Coilbug
+1 Mythos of Nethroi
+1 Stonecoil Serpent
+1 Overgrown Tomb
+1 Drill Bit
+1 Temple Garden
+2 Mythos of Nethroi
+2 Stonecoil Serpent
+2 Overgrown Tomb
+2 Temple Garden
+2 Drill Bit
+3 Mythos of Nethroi
+3 Stonecoil Serpent
+4 Stonecoil Serpent
 1 Sentinel's Eyes
-1 Angelic Gift
-1 Giant Killer
 1 Starfield Mystic
-2 Sentinel's Eyes
-2 Giant Killer
+1 Giant Killer
+1 Angelic Gift
 2 Angelic Gift
+2 Sentinel's Eyes
 2 Starfield Mystic
-3 Starfield Mystic
+2 Giant Killer
 3 Angelic Gift
+3 Starfield Mystic
 3 Karametra's Blessing
 3 Sentinel's Eyes
 4 Karametra's Blessing
 4 Angelic Gift
-1 Luminous Broodmoth
-1 Bastion of Remembrance
-2 Luminous Broodmoth
-3 Luminous Broodmoth
-3 Midnight Reaper
-3 Woe Strider
-4 Luminous Broodmoth
-1 Pilfering Imp
-1 Murder
-1 Orzhov Guildgate
-1 Boot Nipper
-1 Shadowspear
-1 Memory Leak
-2 Murder
-2 Orzhov Guildgate
-2 Memory Leak
-4 Kaya's Ghostform
 1 Impassioned Orator
 1 Spark Harvest
 1 Dawn of Hope
@@ -218,3 +211,10 @@
 3 Omen of the Dead
 4 Omen of the Dead
 10 Plains
+1 Luminous Broodmoth
+1 Bastion of Remembrance
+2 Luminous Broodmoth
+3 Luminous Broodmoth
+3 Midnight Reaper
+3 Woe Strider
+4 Luminous Broodmoth
