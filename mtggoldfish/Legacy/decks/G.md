@@ -36,7 +36,7 @@
 
 |*n*<sup>th</sup> copy|                                  Maindeck Card                                  |*n*<sup>th</sup> copy|                                     Sideboard Card                                      |
 |--------------------:|---------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------|
-|                    4|[Vesuva](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=113543)|                    2|[Force of Vigor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464113)|
+|                    4|[Vesuva](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=113543)|                    1|[Force of Vigor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464113)|
 |                     |                                                                                 |                    3|[Force of Vigor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464113)|
-|                     |                                                                                 |                    1|[Force of Vigor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464113)|
+|                     |                                                                                 |                    2|[Force of Vigor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464113)|
 

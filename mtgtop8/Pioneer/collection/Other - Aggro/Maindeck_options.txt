@@ -1,33 +1,33 @@
-3 Forest
-4 Forest
-5 Forest
-1 Walking Ballista
+2 Forest
 2 Walking Ballista
+3 Forest
 3 Walking Ballista
+4 Forest
 4 Walking Ballista
+5 Forest
 1 Plains
-1 Heliod, Sun-Crowned
-2 Heliod, Sun-Crowned
-3 Heliod, Sun-Crowned
-4 Heliod, Sun-Crowned
 1 Sunpetal Grove
 1 Llanowar Elves
 1 Elvish Mystic
+1 Heliod, Sun-Crowned
 1 Fortified Village
 1 Temple Garden
 2 Sunpetal Grove
 2 Fortified Village
 2 Llanowar Elves
+2 Heliod, Sun-Crowned
 2 Elvish Mystic
 2 Temple Garden
 3 Sunpetal Grove
 3 Llanowar Elves
+3 Heliod, Sun-Crowned
 3 Elvish Mystic
 3 Temple Garden
 3 Fortified Village
 4 Sunpetal Grove
 4 Temple Garden
 4 Elvish Mystic
+4 Heliod, Sun-Crowned
 4 Fortified Village
 4 Llanowar Elves
 1 Voice of Resurgence
@@ -40,10 +40,6 @@
 3 Hardened Scales
 4 Hangarback Walker
 4 Hardened Scales
-6 Forest
-7 Forest
-8 Forest
-9 Forest
 1 Vivien, Arkbow Ranger
 1 Dromoka's Command
 1 Nissa, Voice of Zendikar
@@ -54,6 +50,10 @@
 3 Voice of Resurgence
 3 Nissa, Voice of Zendikar
 4 Nissa, Voice of Zendikar
+6 Forest
+7 Forest
+8 Forest
+9 Forest
 1 Hero's Downfall
 2 Plains
 3 Plains
@@ -62,15 +62,6 @@
 2 Collected Company
 3 Collected Company
 4 Collected Company
-1 Murderous Rider
-2 Murderous Rider
-1 Questing Beast
-1 Vraska, Golgari Queen
-1 Tireless Tracker
-1 Liliana, the Last Hope
-2 Tireless Tracker
-1 Anafenza, Kin-Tree Spirit
-2 Anafenza, Kin-Tree Spirit
 1 Caves of Koilos
 1 Concealed Courtyard
 1 Godless Shrine
@@ -79,41 +70,15 @@
 3 Concealed Courtyard
 3 Godless Shrine
 4 Godless Shrine
-1 Selfless Spirit
+4 Concealed Courtyard
 2 Caves of Koilos
 3 Caves of Koilos
-1 Thraben Inspector
-2 Thraben Inspector
-3 Thraben Inspector
-4 Thraben Inspector
-5 Plains
-1 Castle Ardenvale
-1 Tomik, Distinguished Advokist
-1 Arcanist's Owl
-1 Daxos, Blessed by the Sun
-1 Nykthos, Shrine to Nyx
-1 Knight of the White Orchid
-2 Castle Ardenvale
-2 Nykthos, Shrine to Nyx
-2 Daxos, Blessed by the Sun
-2 Arcanist's Owl
-2 Knight of the White Orchid
-3 Arcanist's Owl
-3 Knight of the White Orchid
-4 Arcanist's Owl
-6 Plains
-7 Plains
-4 Concealed Courtyard
-1 Elspeth Conquers Death
-2 Elspeth Conquers Death
-1 Island
 4 Caves of Koilos
-1 Ipnu Rivulet
-2 Ipnu Rivulet
 1 Hallowed Fountain
 2 Hallowed Fountain
 3 Hallowed Fountain
 4 Hallowed Fountain
+1 Island
 1 Eldrazi Displacer
 2 Eldrazi Displacer
 3 Eldrazi Displacer
@@ -121,13 +86,16 @@
 1 Silkwrap
 1 Shefet Dunes
 1 Ulamog's Nullifier
+1 Elspeth Conquers Death
 1 Wastes
 1 Wasteland Strangler
 1 Omen of the Sea
 1 Spell Queller
 1 Archon of Sun's Grace
-1 Charming Prince
 1 Thought-Knot Seer
+1 Charming Prince
+1 Thraben Inspector
+1 Ipnu Rivulet
 1 Watery Grave
 1 Brain Maggot
 2 Trial of Ambition
@@ -138,10 +106,13 @@
 2 Wasteland Strangler
 2 Omen of the Sea
 2 Spell Queller
+2 Ipnu Rivulet
 2 Archon of Sun's Grace
+2 Elspeth Conquers Death
 2 Thought-Knot Seer
 2 Watery Grave
 2 Brain Maggot
+2 Thraben Inspector
 2 Charming Prince
 3 Watery Grave
 3 Silkwrap
@@ -150,22 +121,22 @@
 3 Wasteland Strangler
 3 Spell Queller
 3 Thought-Knot Seer
+3 Thraben Inspector
 3 Charming Prince
 4 Watery Grave
 4 Silkwrap
 4 Wasteland Strangler
-4 Eldrazi Displacer
 4 Omen of the Sea
+4 Eldrazi Displacer
 4 Brain Maggot
 4 Thought-Knot Seer
 4 Spell Queller
 4 Charming Prince
-1 Blast Zone
+4 Thraben Inspector
 1 Bonecrusher Giant
 2 Bonecrusher Giant
 2 Mountain
 3 Bonecrusher Giant
-2 Blast Zone
 1 Steam Vents
 1 Inspiring Vantage
 1 Sacred Foundry
@@ -184,15 +155,16 @@
 1 Castle Embereth
 1 Agent of Treachery
 1 Lavinia of the Tenth
-1 Phyrexian Revoker
 1 Fire Prophecy
 1 Goblin Instigator
 1 Hanged Executioner
 1 Winota, Joiner of Forces
 1 Cloudblazer
+1 Phyrexian Revoker
 1 Chandra, Acolyte of Flame
-1 Battlefield Forge
+1 Blast Zone
 1 Temple of Triumph
+1 Battlefield Forge
 1 Chained to the Rocks
 2 Reflector Mage
 2 Agent of Treachery
@@ -205,6 +177,7 @@
 2 Hanged Executioner
 2 Chandra, Acolyte of Flame
 2 Phyrexian Revoker
+2 Blast Zone
 2 Battlefield Forge
 2 Chained to the Rocks
 3 Reflector Mage
@@ -235,47 +208,16 @@
 4 Chained to the Rocks
 4 Battlefield Forge
 1 Kalitas, Traitor of Ghet
+1 Murderous Rider
 2 Kalitas, Traitor of Ghet
-1 Mutavault
+2 Murderous Rider
 1 Urborg, Tomb of Yawgmoth
-1 Benalish Marshal
-1 Sorin, Vengeful Bloodlord
-1 Archangel Avacyn
-1 Always Watching
-1 Isolated Chapel
-1 Stasis Snare
-2 Benalish Marshal
-2 Sorin, Vengeful Bloodlord
-2 Selfless Spirit
-2 Always Watching
-2 Isolated Chapel
-2 Archangel Avacyn
-2 Stasis Snare
-3 Isolated Chapel
-4 Isolated Chapel
+1 Mutavault
 1 Evolving Wilds
 2 Evolving Wilds
 3 Evolving Wilds
 2 Dreadbore
 3 Abrupt Decay
-1 Nissa, Vastwood Seer
-1 Polukranos, Unchained
-1 Thrashing Brontodon
-1 Tasigur, the Golden Fang
-1 Hissing Quagmire
-1 Scrapheap Scrounger
-1 Traverse the Ulvenwald
-1 Ramunap Excavator
-1 Ishkanah, Grafwidow
-1 Field of Ruin
-2 Liliana, the Last Hope
-2 Assassin's Trophy
-2 Field of Ruin
-2 Traverse the Ulvenwald
-2 Hissing Quagmire
-3 Field of Ruin
-3 Traverse the Ulvenwald
-4 Traverse the Ulvenwald
 1 Irrigated Farmland
 1 Censor
 1 Cast Out
@@ -285,8 +227,8 @@
 1 Neutralize
 1 Flourishing Fox
 1 Hieroglyphic Illumination
-1 Castle Vantress
 1 Shark Typhoon
+1 Castle Vantress
 1 Nimble Obstructionist
 1 Supreme Verdict
 2 Irrigated Farmland
@@ -311,8 +253,8 @@
 3 Neutralize
 3 Flourishing Fox
 3 Sulfur Falls
-3 Island
 3 Shark Typhoon
+3 Island
 4 Irrigated Farmland
 4 Sulfur Falls
 4 Cast Out
@@ -342,11 +284,14 @@
 4 Duskwatch Recruiter
 1 Courser of Kruphix
 1 Shared Summons
+1 Selfless Spirit
 1 Bygone Bishop
+1 Anafenza, Kin-Tree Spirit
 1 Militia Bugler
 1 Radiant Fountain
 2 Courser of Kruphix
 2 Radiant Fountain
+2 Anafenza, Kin-Tree Spirit
 2 Militia Bugler
 2 Shared Summons
 3 Militia Bugler
@@ -383,14 +328,14 @@
 3 Defiant Strike
 3 Favored Hoplite
 3 Gods Willing
-3 Staggering Insight
 3 Curious Obsession
+3 Staggering Insight
 3 Inspiring Vantage
-3 Reckless Rage
 3 Faerie Vandal
 3 Glacial Fortress
 3 Monastery Swiftspear
 3 Tenth District Legionnaire
+3 Reckless Rage
 4 Favored Hoplite
 4 Gods Willing
 4 Defiant Strike
@@ -399,53 +344,53 @@
 4 Reckless Rage
 4 Tenth District Legionnaire
 4 Monastery Swiftspear
-1 Kiora Bests the Sea God
-1 Growth Spiral
-1 Hinterland Harbor
-1 Cavalier of Thorns
-1 Castle Garenbrig
-1 Tamiyo, Collector of Tales
-1 Arboreal Grazer
-1 Nissa, Who Shakes the World
-1 Ugin, the Spirit Dragon
-1 Breeding Pool
-1 Uro, Titan of Nature's Wrath
-1 Yavimaya Coast
-1 World Breaker
-1 Nissa's Pilgrimage
-2 Hinterland Harbor
-2 Growth Spiral
-2 Ugin, the Spirit Dragon
-2 Nissa, Who Shakes the World
-2 Castle Garenbrig
-2 Cavalier of Thorns
-2 World Breaker
-2 Nissa's Pilgrimage
-2 Arboreal Grazer
-2 Breeding Pool
-2 Uro, Titan of Nature's Wrath
-2 Yavimaya Coast
-3 Hinterland Harbor
-3 Nissa, Who Shakes the World
-3 Ipnu Rivulet
-3 Ugin, the Spirit Dragon
-3 Uro, Titan of Nature's Wrath
-3 Breeding Pool
-3 Nissa's Pilgrimage
-3 Cavalier of Thorns
-3 Arboreal Grazer
-3 Castle Garenbrig
-4 Cavalier of Thorns
-4 Ipnu Rivulet
-4 Uro, Titan of Nature's Wrath
-4 Breeding Pool
-4 Nissa's Pilgrimage
-4 Arboreal Grazer
+1 The Ozolith
+1 Metallic Mimic
+1 Steel Overseer
+1 Evolutionary Leap
+1 Stonecoil Serpent
+1 Winding Constrictor
+1 Llanowar Wastes
+2 The Ozolith
+2 Metallic Mimic
+2 Steel Overseer
+2 Evolutionary Leap
+2 Winding Constrictor
+2 Stonecoil Serpent
+2 Llanowar Wastes
+3 Metallic Mimic
+3 Steel Overseer
+3 Llanowar Wastes
+3 Winding Constrictor
+4 Metallic Mimic
+4 Steel Overseer
+4 Winding Constrictor
+4 Llanowar Wastes
+1 Questing Beast
+1 Vraska, Golgari Queen
+1 Liliana, the Last Hope
+1 Foreboding Ruins
+1 Tireless Tracker
+1 Chandra, Torch of Defiance
+1 Glorybringer
+1 Dreadhorde Butcher
+2 Glorybringer
+2 Vraska, Golgari Queen
+2 Foreboding Ruins
+2 Tireless Tracker
+2 Dreadhorde Butcher
+3 Tireless Tracker
+3 Foreboding Ruins
+3 Dreadhorde Butcher
+4 Foreboding Ruins
+4 Dreadhorde Butcher
+4 Tireless Tracker
+4 Bonecrusher Giant
 4 Swamp
 5 Swamp
+1 Garrison Cat
 1 Priest of Forgotten Gods
 1 Zulaport Cutthroat
-1 Garrison Cat
 1 Gutterbones
 1 Cartel Aristocrat
 1 Stitcher's Supplier
@@ -454,9 +399,9 @@
 1 Rally the Ancestors
 1 Return to the Ranks
 1 Hunted Witness
+2 Garrison Cat
 2 Priest of Forgotten Gods
 2 Zulaport Cutthroat
-2 Garrison Cat
 2 Gutterbones
 2 Fiend Artisan
 2 Return to the Ranks
@@ -481,117 +426,28 @@
 4 Stitcher's Supplier
 4 Fiend Artisan
 4 Hunted Witness
-1 Steel Overseer
-1 Stonecoil Serpent
-2 Steel Overseer
-2 Stonecoil Serpent
-3 Steel Overseer
-1 The Ozolith
-1 Metallic Mimic
-1 Evolutionary Leap
-1 Winding Constrictor
-1 Llanowar Wastes
-2 The Ozolith
-2 Metallic Mimic
-2 Evolutionary Leap
-2 Winding Constrictor
-2 Llanowar Wastes
-3 Metallic Mimic
-3 Llanowar Wastes
-3 Winding Constrictor
-4 Metallic Mimic
-4 Steel Overseer
-4 Winding Constrictor
-4 Llanowar Wastes
-1 Foreboding Ruins
-1 Chandra, Torch of Defiance
-1 Glorybringer
-1 Dreadhorde Butcher
-2 Glorybringer
-2 Vraska, Golgari Queen
-2 Foreboding Ruins
-2 Dreadhorde Butcher
-3 Tireless Tracker
-3 Foreboding Ruins
-3 Dreadhorde Butcher
-4 Tireless Tracker
-4 Foreboding Ruins
-4 Dreadhorde Butcher
-4 Bonecrusher Giant
-2 Mutavault
-1 Aether Hub
-1 Gingerbrute
-1 Ensoul Artifact
-1 Shrapnel Blast
-1 Spire of Industry
-1 Bomat Courier
-1 Springleaf Drum
-1 Metallic Rebuke
-1 Ghostfire Blade
-1 Ornithopter
-1 Hope of Ghirapur
-1 Darksteel Citadel
-1 All That Glitters
-1 Mana Confluence
-2 Aether Hub
-2 Ensoul Artifact
-2 Shrapnel Blast
-2 Darksteel Citadel
-2 Spire of Industry
-2 Bomat Courier
-2 Springleaf Drum
-2 Gingerbrute
-2 Ghostfire Blade
-2 Ornithopter
-2 Hope of Ghirapur
-2 All That Glitters
-2 Mana Confluence
-2 Metallic Rebuke
-3 Spire of Industry
-3 Shrapnel Blast
-3 Ensoul Artifact
-3 Darksteel Citadel
-3 Mana Confluence
-3 Aether Hub
-3 Bomat Courier
-3 Springleaf Drum
-3 Ghostfire Blade
-3 Gingerbrute
-3 Ornithopter
-3 Stonecoil Serpent
-3 All That Glitters
-4 Shrapnel Blast
-4 Ensoul Artifact
-4 Spire of Industry
-4 Aether Hub
-4 Bomat Courier
-4 Mana Confluence
-4 Springleaf Drum
-4 Ghostfire Blade
-4 Gingerbrute
-4 Darksteel Citadel
-4 Ornithopter
-4 Stonecoil Serpent
+5 Plains
+1 Gifted Aetherborn
 1 Dusk Legion Zealot
 1 Sorin, Imperious Bloodlord
 1 Champion of Dusk
 1 Kaya, Orzhov Usurper
 1 Castle Locthwain
-1 Gifted Aetherborn
 1 Oathsworn Vampire
 1 Blood Baron of Vizkopa
 1 Knight of the Ebon Legion
+2 Gifted Aetherborn
 2 Dusk Legion Zealot
 2 Champion of Dusk
 2 Sorin, Imperious Bloodlord
 2 Kaya, Orzhov Usurper
-2 Gifted Aetherborn
 2 Knight of the Ebon Legion
 2 Blood Baron of Vizkopa
 2 Oathsworn Vampire
+2 Mutavault
 2 Castle Locthwain
-3 Gifted Aetherborn
 3 Murderous Rider
+3 Gifted Aetherborn
 3 Sorin, Imperious Bloodlord
 3 Dusk Legion Zealot
 3 Knight of the Ebon Legion
@@ -604,27 +460,3 @@
 4 Mutavault
 6 Swamp
 7 Swamp
-1 Idyllic Grange
-1 Karn, the Great Creator
-1 Gideon's Intervention
-1 Baffling End
-2 Idyllic Grange
-2 Karn, the Great Creator
-2 Gideon's Intervention
-2 Baffling End
-3 Karn, the Great Creator
-3 Baffling End
-3 Nykthos, Shrine to Nyx
-4 Karn, the Great Creator
-4 Nykthos, Shrine to Nyx
-8 Plains
-9 Plains
-10 Plains
-11 Plains
-12 Plains
-13 Plains
-15 Plains
-16 Plains
-17 Plains
-18 Plains
-14 Plains

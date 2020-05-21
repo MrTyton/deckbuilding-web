@@ -316,15 +316,16 @@
 4 Wall of Blossoms
 3 Forest
 1 Eldritch Evolution
+1 Restoration Angel
 1 Wall of Omens
 1 Blade Splicer
 1 Marsh Flats
 1 Flickerwisp
-1 Restoration Angel
 1 Sunpetal Grove
 1 Siege Rhino
 2 Eldritch Evolution
 2 Godless Shrine
+2 Restoration Angel
 2 Wall of Omens
 2 Abrupt Decay
 2 Marsh Flats
@@ -333,9 +334,8 @@
 2 Siege Rhino
 2 Flickerwisp
 2 Sunpetal Grove
-2 Restoration Angel
-3 Restoration Angel
 3 Eldritch Evolution
+3 Restoration Angel
 3 Plains
 3 Wall of Omens
 3 Marsh Flats
@@ -343,8 +343,8 @@
 3 Blade Splicer
 3 Flickerwisp
 3 Siege Rhino
-4 Restoration Angel
 4 Eldritch Evolution
+4 Restoration Angel
 4 Plains
 4 Wall of Omens
 4 Marsh Flats
@@ -440,11 +440,11 @@
 1 Primeval Titan
 1 Field of the Dead
 1 Arboreal Grazer
-1 Bojuka Bog
 1 Kenrith, the Returned King
 1 Dryad Arbor
 1 Dryad of the Ilysian Grove
 1 Castle Garenbrig
+1 Bojuka Bog
 1 Woodland Bellower
 2 Primeval Titan
 2 Field of the Dead
@@ -681,6 +681,7 @@
 4 Glittering Wish
 4 Underworld Breach
 1 Paradise Mantle
+1 Shadowspear
 1 Inkmoth Nexus
 1 Sigarda's Aid
 1 Silent Clearing
@@ -692,7 +693,6 @@
 1 Welding Jar
 1 Memnite
 1 Ornithopter
-1 Shadowspear
 2 Silent Clearing
 2 Sigarda's Aid
 2 Shadowspear

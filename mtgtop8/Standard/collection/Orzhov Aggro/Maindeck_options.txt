@@ -82,18 +82,18 @@
 2 Fight as One
 1 Heartless Act
 2 Heartless Act
+1 Ugin, the Ineffable
 1 Field of Ruin
 1 Kaya, Orzhov Usurper
 1 Murderous Rider
 1 Basilica Bell-Haunt
 1 Kaya's Wrath
 1 Treacherous Blessing
-1 Yarok's Fenlurker
-1 Elspeth Conquers Death
-1 Cavalier of Dawn
 1 Planar Cleansing
+1 Yarok's Fenlurker
+1 Cavalier of Dawn
+1 Elspeth Conquers Death
 1 Plaguecrafter
-1 Ugin, the Ineffable
 1 Wishclaw Talisman
 1 Sorin, Vengeful Bloodlord
 1 Leyline of Sanctity
@@ -136,11 +136,6 @@
 3 Stonecoil Serpent
 4 Stonecoil Serpent
 4 Castle Locthwain
-1 Tymaret, Chosen from Death
-1 Durable Coilbug
-2 Durable Coilbug
-3 Durable Coilbug
-4 Durable Coilbug
 1 Fervent Champion
 1 Stormfist Crusader
 1 Blood Crypt
@@ -171,6 +166,7 @@
 3 Worthy Knight
 3 Tournament Grounds
 3 Inspiring Veteran
+4 Sacred Foundry
 4 Blood Crypt
 4 Fervent Champion
 4 Worthy Knight
@@ -179,7 +175,11 @@
 4 Tournament Grounds
 4 Fight as One
 4 Inspiring Veteran
-4 Sacred Foundry
+1 Tymaret, Chosen from Death
+1 Durable Coilbug
+2 Durable Coilbug
+3 Durable Coilbug
+4 Durable Coilbug
 1 Sentinel's Eyes
 1 Angelic Gift
 1 Giant Killer

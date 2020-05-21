@@ -113,7 +113,7 @@
 |                    2|[Paradigm Shift](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=4492)        |                    3|[Soul-Guide Lantern](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476488)     |
 |                    2|[Nihil Spellbomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442215)     |                    4|[Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)         |
 |                    2|[Divining Witch](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=21318)       |                    3|[Terminus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=262703)               |
-|                    3|[Divining Witch](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=21318)       |                    3|[Monastery Mentor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391883)       |
-|                    3|[Thassa's Oracle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476324)     |                     |                                                                                                  |
+|                    3|[Thassa's Oracle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476324)     |                    3|[Monastery Mentor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391883)       |
+|                    3|[Divining Witch](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=21318)       |                     |                                                                                                  |
 |                    4|[Thassa's Oracle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476324)     |                     |                                                                                                  |
 
