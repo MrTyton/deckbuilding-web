@@ -1,10 +1,12 @@
+1 Urborg, Tomb of Yawgmoth
+1 Temple of Silence
 4 Swamp
 4 Shambling Vent
-4 The Birth of Meletis
-4 Oath of Kaya
-2 Castle Locthwain
 3 Caves of Koilos
+2 Castle Locthwain
 5 Swamp
+3 Elspeth's Nightmare
+4 Caves of Koilos
 1 Final Payment
 1 Thraben Inspector
 2 Thraben Inspector
@@ -12,144 +14,142 @@
 4 Thraben Inspector
 1 Island
 1 Fabled Passage
-1 Supreme Verdict
 1 Hallowed Fountain
-2 Supreme Verdict
 2 Hallowed Fountain
-1 Glacial Fortress
 1 Elspeth Conquers Death
-1 Omen of the Sea
 1 Teferi, Time Raveler
-2 Glacial Fortress
+1 Omen of the Sea
 2 Teferi, Time Raveler
 3 Teferi, Time Raveler
 3 Hallowed Fountain
 4 Hallowed Fountain
+1 Supreme Verdict
+2 Supreme Verdict
 2 Fabled Passage
-3 Supreme Verdict
-1 Teferi, Hero of Dominaria
 2 Elspeth Conquers Death
 2 Omen of the Sea
 3 Omen of the Sea
-4 Supreme Verdict
 4 Omen of the Sea
 4 Teferi, Time Raveler
-2 Island
+1 Glacial Fortress
+2 Glacial Fortress
 3 Fabled Passage
 4 Fabled Passage
+3 Supreme Verdict
+1 Teferi, Hero of Dominaria
+4 Supreme Verdict
+2 Island
 1 Opt
 2 Opt
 3 Opt
 4 Opt
-1 Breeding Pool
-1 Uro, Titan of Nature's Wrath
-1 Forest
-1 Satyr Wayfinder
-1 Hinterland Harbor
-2 Satyr Wayfinder
-2 Forest
-2 Breeding Pool
-2 Uro, Titan of Nature's Wrath
-3 Uro, Titan of Nature's Wrath
-3 Breeding Pool
-3 Forest
-4 Uro, Titan of Nature's Wrath
-4 Breeding Pool
 1 Sunpetal Grove
 1 Baffling End
 1 Lumbering Falls
 1 Courser of Kruphix
-1 Growth Spiral
+1 Hinterland Harbor
 1 Detention Sphere
+1 Satyr Wayfinder
 1 Temple Garden
+1 Uro, Titan of Nature's Wrath
+1 Breeding Pool
 1 Nissa, Vastwood Seer
+1 Growth Spiral
+1 Forest
 2 Teferi, Hero of Dominaria
 2 Detention Sphere
 2 Baffling End
 2 Courser of Kruphix
-2 Temple Garden
-2 Hinterland Harbor
-2 Nissa, Vastwood Seer
-2 Sunpetal Grove
 2 Lumbering Falls
 2 Growth Spiral
+2 Hinterland Harbor
+2 Forest
+2 Sunpetal Grove
+2 Nissa, Vastwood Seer
+2 Uro, Titan of Nature's Wrath
+2 Satyr Wayfinder
+2 Temple Garden
+2 Breeding Pool
 3 Elspeth Conquers Death
 3 Teferi, Hero of Dominaria
 3 Temple Garden
 3 Baffling End
 3 Growth Spiral
+3 Uro, Titan of Nature's Wrath
+3 Breeding Pool
+3 Forest
 4 Temple Garden
 4 Baffling End
 4 Growth Spiral
+4 Breeding Pool
+4 Uro, Titan of Nature's Wrath
 2 Gideon of the Trials
+3 Fatal Push
+4 Fatal Push
 1 Kaya's Wrath
-4 Caves of Koilos
-3 Elspeth's Nightmare
 1 Agonizing Remorse
 2 Agonizing Remorse
 6 Plains
 1 Starfield of Nyx
+4 Treacherous Blessing
 3 Satyr Wayfinder
 4 Satyr Wayfinder
-3 Fatal Push
-4 Fatal Push
+1 Watery Grave
+2 Watery Grave
+3 Watery Grave
+4 Watery Grave
 1 Concealed Courtyard
 2 Concealed Courtyard
 2 Starfield of Nyx
-4 Treacherous Blessing
 1 Irrigated Farmland
 1 Shark Typhoon
 2 Shark Typhoon
 3 Shark Typhoon
 1 Clifftop Retreat
+1 Cast Out
 1 Nimble Obstructionist
-1 Castle Vantress
-1 Hieroglyphic Illumination
-1 Flourishing Fox
-1 Neutralize
 1 Sulfur Falls
 1 Azorius Charm
 1 Zenith Flare
-1 Cast Out
+1 Neutralize
+1 Hieroglyphic Illumination
 1 Censor
+1 Castle Vantress
 1 Raugrin Triome
-2 Irrigated Farmland
+1 Flourishing Fox
 2 Clifftop Retreat
+2 Irrigated Farmland
 2 Sulfur Falls
 2 Cast Out
 2 Neutralize
 2 Nimble Obstructionist
 2 Azorius Charm
-2 Zenith Flare
 2 Censor
-2 Raugrin Triome
-2 Flourishing Fox
 2 Hieroglyphic Illumination
+2 Flourishing Fox
+2 Raugrin Triome
+2 Zenith Flare
 3 Sulfur Falls
 3 Irrigated Farmland
-3 Flourishing Fox
-3 Clifftop Retreat
 3 Neutralize
 3 Hieroglyphic Illumination
+3 Island
 3 Azorius Charm
 3 Zenith Flare
-3 Island
-3 Censor
 3 Cast Out
+3 Censor
+3 Flourishing Fox
+3 Clifftop Retreat
 4 Censor
 4 Irrigated Farmland
-4 Zenith Flare
 4 Shark Typhoon
-4 Flourishing Fox
-4 Neutralize
 4 Azorius Charm
-4 Hieroglyphic Illumination
+4 Flourishing Fox
+4 Zenith Flare
 4 Cast Out
+4 Neutralize
+4 Hieroglyphic Illumination
 4 Sulfur Falls
-1 Watery Grave
-2 Watery Grave
-3 Watery Grave
-4 Watery Grave
 1 Easy Prey
 1 Underworld Connections
 1 Duress
@@ -170,24 +170,24 @@
 3 Gideon of the Trials
 2 Thirst for Meaning
 1 Search for Azcanta
+1 Elspeth, Sun's Champion
 1 Elspeth, Sun's Nemesis
 1 Hero's Downfall
-1 Elspeth, Sun's Champion
 1 Fetid Pools
-1 Thought Erasure
 1 Narset, Parter of Veils
+1 Thought Erasure
 1 Cast Down
 2 Search for Azcanta
 2 Cast Down
 3 Concealed Courtyard
 3 Cast Down
-1 Mountain
 1 Blood Crypt
 1 Kolaghan's Command
 1 Kroxa, Titan of Death's Hunger
-1 Dreadbore
 1 Discovery / Dispersal
+1 Dreadbore
 1 Foreboding Ruins
+1 Mountain
 2 Kolaghan's Command
 2 Discovery / Dispersal
 2 Dreadbore
@@ -208,6 +208,13 @@
 3 Kunoros, Hound of Athreos
 1 Mass Manipulation
 4 Teferi, Hero of Dominaria
+1 Temple of Deceit
+1 Archon of Sun's Grace
+2 Archon of Sun's Grace
+2 Temple of Deceit
+3 Temple of Deceit
+4 Elspeth's Nightmare
+4 Temple of Deceit
 1 Kaya, Orzhov Usurper
 1 Oath of Liliana
 1 Gideon, Ally of Zendikar
@@ -216,21 +223,19 @@
 3 Thirst for Meaning
 4 Gideon of the Trials
 4 Thirst for Meaning
-4 Glacial Fortress
 4 Drowned Catacomb
+4 Glacial Fortress
 1 Cling to Dust
 2 Cling to Dust
 3 Starfield of Nyx
 4 Starfield of Nyx
 7 Plains
 7 Swamp
-1 Champion of Wits
-1 Bonecrusher Giant
-2 Bonecrusher Giant
 1 Vraska's Contempt
 1 Drown in the Loch
 1 Chart a Course
 1 Yahenni's Expertise
+1 Champion of Wits
 2 Elspeth, Sun's Nemesis
 2 Thought Erasure
 2 Hero's Downfall
@@ -238,43 +243,27 @@
 2 The Eldest Reborn
 2 Blast Zone
 3 History of Benalia
-1 Botanical Sanctum
-1 Elder Deep-Fiend
-1 Emrakul, the Promised End
-1 Kozilek's Return
-1 Ugin, the Spirit Dragon
-1 Arboreal Grazer
-1 Nissa, Who Shakes the World
-1 Castle Garenbrig
-1 Llanowar Elves
-1 Steam Vents
-1 Ipnu Rivulet
-1 Cavalier of Thorns
-1 Stomping Ground
-2 Botanical Sanctum
-2 Elder Deep-Fiend
-2 Kozilek's Return
-2 Cavalier of Thorns
-2 Champion of Wits
-2 Stomping Ground
-2 Castle Garenbrig
-2 Steam Vents
-2 Arboreal Grazer
-2 Ugin, the Spirit Dragon
-2 Nissa, Who Shakes the World
-2 Ipnu Rivulet
-3 Elder Deep-Fiend
-3 Kozilek's Return
-3 Nissa, Who Shakes the World
-3 Champion of Wits
-3 Arboreal Grazer
-3 Stomping Ground
-3 Steam Vents
-4 Elder Deep-Fiend
-4 Stomping Ground
-4 Arboreal Grazer
-4 Kozilek's Return
-4 Forest
+1 Bonecrusher Giant
+1 Chandra, Torch of Defiance
+1 Liliana, the Last Hope
+1 Goblin Dark-Dwellers
+1 Dragonskull Summit
+1 Canyon Slough
+2 Bonecrusher Giant
+2 Chandra, Torch of Defiance
+2 Liliana, the Last Hope
+2 Foreboding Ruins
+2 Goblin Dark-Dwellers
+2 Canyon Slough
+2 Dragonskull Summit
+3 Bonecrusher Giant
+3 Kolaghan's Command
+3 Canyon Slough
+3 Dragonskull Summit
+3 Mountain
+3 Foreboding Ruins
+4 Bonecrusher Giant
+4 Dragonskull Summit
 1 Jace, Vryn's Prodigy
 1 Heartless Act
 1 Spirebluff Canal
@@ -288,24 +277,5 @@
 3 Spirebluff Canal
 3 Strategic Planning
 4 Jace, Vryn's Prodigy
-4 Strategic Planning
 4 Spirebluff Canal
-1 Chandra, Torch of Defiance
-1 Liliana, the Last Hope
-1 Canyon Slough
-1 Dragonskull Summit
-1 Goblin Dark-Dwellers
-2 Chandra, Torch of Defiance
-2 Liliana, the Last Hope
-2 Goblin Dark-Dwellers
-2 Foreboding Ruins
-2 Canyon Slough
-2 Dragonskull Summit
-3 Bonecrusher Giant
-3 Kolaghan's Command
-3 Canyon Slough
-3 Dragonskull Summit
-3 Mountain
-3 Foreboding Ruins
-4 Bonecrusher Giant
-4 Dragonskull Summit
+4 Strategic Planning
