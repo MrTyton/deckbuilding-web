@@ -1,6 +1,6 @@
 1 All Is Dust
 1 Batterskull
-2 Blast Zone
+3 Blast Zone
 1 Cavern of Souls
 4 Chalice of the Void
 2 Dismember
@@ -13,7 +13,6 @@
 1 Mind Stone
 4 Reality Smasher
 1 Scavenger Grounds
-1 Simian Spirit Guide
 1 Tectonic Edge
 4 Thought-Knot Seer
 2 Ugin, the Ineffable
@@ -23,6 +22,7 @@
 3 Walking Ballista
 2 Wastes
 Sideboard
+1 All Is Dust
 1 Ensnaring Bridge
 1 Grafdigger's Cage
 1 Liquimetal Coating
@@ -35,5 +35,4 @@ Sideboard
 1 Torpor Orb
 1 Trinisphere
 1 Walking Ballista
-1 Warping Wail
 1 Wurmcoil Engine

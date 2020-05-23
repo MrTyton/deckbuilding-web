@@ -1,17 +1,17 @@
 1 Claim the Firstborn
-1 Act of Treason
 1 Pharika's Libation
 2 Pharika's Libation
-2 Act of Treason
-1 Jegantha, the Wellspring
+1 Act of Treason
 1 Drill Bit
 2 Drill Bit
+1 Jegantha, the Wellspring
+2 Act of Treason
+3 Drill Bit
 1 Heartless Act
 2 Heartless Act
 1 Midnight Reaper
 1 Extinction Event
 3 Heartless Act
-3 Drill Bit
 2 Claim the Firstborn
 3 Claim the Firstborn
 3 Embereth Shieldbreaker
@@ -19,6 +19,8 @@
 1 Noxious Grasp
 3 Act of Treason
 4 Drill Bit
+1 Legion's End
+2 Legion's End
 1 Agonizing Remorse
 1 Grafdigger's Cage
 2 Agonizing Remorse
@@ -29,18 +31,7 @@
 2 Leyline of the Void
 3 Leyline of the Void
 3 Pharika's Libation
-1 Redcap Melee
-2 Redcap Melee
-1 Epic Downfall
-1 Mire's Grasp
 1 Casualties of War
-1 Stonecoil Serpent
-2 Stonecoil Serpent
-1 Cavalier of Night
-1 Lurrus of the Dream Den
-1 Dead Weight
-1 Bolas's Citadel
-2 Lurrus of the Dream Den
 1 Shredded Sails
 1 Sorcerous Spyglass
 2 Shredded Sails
@@ -48,28 +39,53 @@
 1 Kroxa, Titan of Death's Hunger
 1 Cling to Dust
 2 Cling to Dust
-1 Legion's End
-2 Legion's End
-1 Bastion of Remembrance
-1 Suffocating Fumes
-1 Kaya, Orzhov Usurper
-1 Heliod's Intervention
-1 Despark
-1 General's Enforcer
-2 Suffocating Fumes
-2 Heliod's Intervention
-2 General's Enforcer
 1 Dreadhorde Butcher
 1 Call of the Death-Dweller
-1 Revoke Existence
 1 Devout Decree
+1 Revoke Existence
 2 Revoke Existence
 2 Devout Decree
+1 Bastion of Remembrance
+1 Suffocating Fumes
+1 Stonecoil Serpent
+1 Heliod's Intervention
+1 Despark
+1 Kaya, Orzhov Usurper
+1 General's Enforcer
+2 Suffocating Fumes
+2 Stonecoil Serpent
+2 General's Enforcer
+2 Heliod's Intervention
+2 Grafdigger's Cage
+3 Grafdigger's Cage
+1 Blazing Volley
+1 Redcap Melee
+2 Blazing Volley
+2 Redcap Melee
+3 Redcap Melee
+2 Extinction Event
+3 Soul-Guide Lantern
+3 Extinction Event
+1 Rotting Regisaur
+2 Rotting Regisaur
+3 Rotting Regisaur
+1 Tentative Connection
+1 Epic Downfall
+1 Underworld Dreams
+2 Underworld Dreams
+3 Underworld Dreams
+1 Ritual of Soot
+1 Mephitic Vapors
+1 Specter's Shriek
+2 Specter's Shriek
+2 Mephitic Vapors
+3 Specter's Shriek
 1 Blood for Bones
 1 Spark Harvest
 1 Storm's Wrath
 1 Plaguecrafter
 1 Blood Aspirant
+1 Cavalier of Night
 1 Tibalt, Rakish Instigator
 2 Spark Harvest
 2 Storm's Wrath
@@ -79,39 +95,13 @@
 2 Cavalier of Night
 2 Plaguecrafter
 3 Storm's Wrath
-1 Rotting Regisaur
-2 Rotting Regisaur
-3 Rotting Regisaur
-1 Blazing Volley
-2 Blazing Volley
-3 Redcap Melee
-1 Lava Coil
-1 Flame Sweep
-1 Elspeth's Nightmare
-1 Ill-Gotten Inheritance
-2 Epic Downfall
-2 Lava Coil
-2 Elspeth's Nightmare
-2 Flame Sweep
-2 Ill-Gotten Inheritance
-3 Elspeth's Nightmare
-3 Flame Sweep
-2 Extinction Event
-3 Extinction Event
-3 Soul-Guide Lantern
-2 Grafdigger's Cage
-3 Grafdigger's Cage
-1 Tentative Connection
-1 Underworld Dreams
-2 Underworld Dreams
-3 Underworld Dreams
 1 Disdainful Stroke
-1 Angrath's Rampage
+1 Cry of the Carnarium
 1 Ashiok, Nightmare Muse
 1 Mystical Dispute
-1 Cry of the Carnarium
-2 Disdainful Stroke
+1 Angrath's Rampage
 2 Mystical Dispute
+2 Disdainful Stroke
 2 Angrath's Rampage
 2 Cry of the Carnarium
 3 Disdainful Stroke
@@ -122,36 +112,37 @@
 2 Midnight Reaper
 2 Fry
 3 Fry
-1 Genesis Ultimatum
-1 Kiora Bests the Sea God
-1 Shadowspear
-1 Banishing Light
+3 Cindervines
+4 Cindervines
 1 The Elderspell
+1 Shadowspear
 1 Return to Nature
+1 Genesis Ultimatum
 1 Mnemonic Betrayal
 1 Underworld Fires
-2 Banishing Light
+1 Kiora Bests the Sea God
+1 Banishing Light
 2 Return to Nature
+2 Banishing Light
 2 Underworld Fires
 3 Return to Nature
 4 Return to Nature
-3 Cindervines
-4 Cindervines
 1 Ashiok's Erasure
-1 Dreadhorde Invasion
+1 Mire's Grasp
 1 Liliana, Dreadhorde General
-2 Liliana, Dreadhorde General
+1 Dreadhorde Invasion
 2 Mire's Grasp
+2 Liliana, Dreadhorde General
 3 Mire's Grasp
 3 Thrashing Brontodon
 4 Leyline of the Void
 4 Thrashing Brontodon
-1 Goblin Cratermaker
 1 Ashiok, Dream Render
-2 Goblin Cratermaker
+1 Goblin Cratermaker
 2 Ashiok, Dream Render
+2 Goblin Cratermaker
 3 Ashiok, Dream Render
 3 Goblin Cratermaker
-4 Ashiok, Dream Render
 4 Goblin Cratermaker
+4 Ashiok, Dream Render
 4 Pharika's Libation

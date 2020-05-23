@@ -10,9 +10,9 @@
 2 Heliod, Sun-Crowned
 3 Heliod, Sun-Crowned
 1 Sunpetal Grove
+1 Fortified Village
 1 Llanowar Elves
 1 Elvish Mystic
-1 Fortified Village
 1 Temple Garden
 2 Sunpetal Grove
 2 Fortified Village
@@ -87,12 +87,12 @@
 3 Eldrazi Displacer
 1 Trial of Ambition
 1 Silkwrap
-1 Shefet Dunes
-1 Ulamog's Nullifier
 1 Elspeth Conquers Death
+1 Shefet Dunes
+1 Omen of the Sea
+1 Ulamog's Nullifier
 1 Wastes
 1 Wasteland Strangler
-1 Omen of the Sea
 1 Spell Queller
 1 Archon of Sun's Grace
 1 Thought-Knot Seer
@@ -106,8 +106,8 @@
 2 Wastes
 2 Ulamog's Nullifier
 2 Shefet Dunes
-2 Wasteland Strangler
 2 Omen of the Sea
+2 Wasteland Strangler
 2 Spell Queller
 2 Ipnu Rivulet
 2 Archon of Sun's Grace
@@ -120,8 +120,8 @@
 3 Watery Grave
 3 Silkwrap
 3 Brain Maggot
-3 Wasteland Strangler
 3 Omen of the Sea
+3 Wasteland Strangler
 3 Spell Queller
 3 Thought-Knot Seer
 3 Thraben Inspector
@@ -155,61 +155,61 @@
 2 Clifftop Retreat
 3 Clifftop Retreat
 1 Reflector Mage
+1 Chandra, Acolyte of Flame
 1 Castle Embereth
 1 Agent of Treachery
 1 Lavinia of the Tenth
-1 Fire Prophecy
-1 Goblin Instigator
-1 Hanged Executioner
-1 Winota, Joiner of Forces
-1 Cloudblazer
-1 Chandra, Acolyte of Flame
 1 Phyrexian Revoker
+1 Cloudblazer
 1 Blast Zone
 1 Temple of Triumph
 1 Battlefield Forge
 1 Chained to the Rocks
+1 Winota, Joiner of Forces
+1 Hanged Executioner
+1 Goblin Instigator
+1 Fire Prophecy
 2 Reflector Mage
 2 Agent of Treachery
-2 Castle Embereth
-2 Cloudblazer
-2 Lavinia of the Tenth
-2 Winota, Joiner of Forces
-2 Goblin Instigator
-2 Fire Prophecy
-2 Hanged Executioner
 2 Chandra, Acolyte of Flame
+2 Hanged Executioner
+2 Castle Embereth
 2 Phyrexian Revoker
+2 Winota, Joiner of Forces
+2 Fire Prophecy
+2 Cloudblazer
 2 Blast Zone
+2 Goblin Instigator
 2 Battlefield Forge
+2 Lavinia of the Tenth
 2 Chained to the Rocks
 3 Reflector Mage
+3 Hanged Executioner
+3 Chandra, Acolyte of Flame
 3 Agent of Treachery
+3 Blast Zone
+3 Fire Prophecy
+3 Castle Embereth
+3 Lavinia of the Tenth
+3 Chained to the Rocks
 3 Winota, Joiner of Forces
 3 Phyrexian Revoker
-3 Goblin Instigator
-3 Cloudblazer
-3 Lavinia of the Tenth
-3 Castle Embereth
-3 Fire Prophecy
-3 Blast Zone
-3 Chandra, Acolyte of Flame
-3 Hanged Executioner
-3 Chained to the Rocks
 3 Battlefield Forge
 3 Raugrin Triome
+3 Cloudblazer
+3 Goblin Instigator
 4 Reflector Mage
-4 Winota, Joiner of Forces
-4 Clifftop Retreat
-4 Goblin Instigator
-4 Castle Embereth
-4 Fire Prophecy
-4 Blast Zone
-4 Agent of Treachery
 4 Hanged Executioner
+4 Agent of Treachery
+4 Blast Zone
+4 Fire Prophecy
+4 Goblin Instigator
 4 Raugrin Triome
+4 Castle Embereth
 4 Chained to the Rocks
+4 Clifftop Retreat
 4 Battlefield Forge
+4 Winota, Joiner of Forces
 4 Swamp
 1 Castle Locthwain
 1 Knight of the Ebon Legion
@@ -232,19 +232,19 @@
 1 Castle Vantress
 1 Censor
 1 Hieroglyphic Illumination
-1 Neutralize
 1 Zenith Flare
 1 Azorius Charm
 1 Sulfur Falls
-1 Shark Typhoon
 1 Nimble Obstructionist
+1 Shark Typhoon
 1 Cast Out
+1 Neutralize
 1 Supreme Verdict
 2 Irrigated Farmland
+2 Censor
+2 Hieroglyphic Illumination
 2 Zenith Flare
 2 Flourishing Fox
-2 Hieroglyphic Illumination
-2 Censor
 2 Azorius Charm
 2 Nimble Obstructionist
 2 Neutralize
@@ -256,22 +256,22 @@
 3 Irrigated Farmland
 3 Flourishing Fox
 3 Censor
+3 Cast Out
 3 Zenith Flare
 3 Azorius Charm
 3 Island
 3 Hieroglyphic Illumination
 3 Neutralize
-3 Cast Out
 3 Sulfur Falls
 3 Shark Typhoon
 4 Irrigated Farmland
 4 Sulfur Falls
 4 Hieroglyphic Illumination
 4 Neutralize
+4 Cast Out
 4 Zenith Flare
 4 Flourishing Fox
 4 Azorius Charm
-4 Cast Out
 4 Censor
 4 Shark Typhoon
 1 Gilded Goose
@@ -305,14 +305,32 @@
 3 Courser of Kruphix
 3 Radiant Fountain
 4 Militia Bugler
+1 Castle Ardenvale
+1 Karn, Scion of Urza
+1 Heart of Kiran
+1 Pack Rat
+1 Scrapheap Scrounger
+1 Shambling Vent
+2 Karn, Scion of Urza
+2 Heart of Kiran
+2 Pack Rat
+2 Shambling Vent
+2 Scrapheap Scrounger
+3 Karn, Scion of Urza
+3 Heart of Kiran
+3 Pack Rat
+3 Scrapheap Scrounger
+4 Karn, Scion of Urza
+4 Pack Rat
+4 Scrapheap Scrounger
 1 The Royal Scions
 1 Slip Through Space
 1 Spirebluff Canal
 1 Gods Willing
 1 Defiant Strike
 1 Favored Hoplite
-1 Curious Obsession
 1 Staggering Insight
+1 Curious Obsession
 1 Reckless Rage
 1 Sentinel's Eyes
 1 Glacial Fortress
@@ -323,8 +341,8 @@
 2 Defiant Strike
 2 Favored Hoplite
 2 Gods Willing
-2 Curious Obsession
 2 Staggering Insight
+2 Curious Obsession
 2 Tenth District Legionnaire
 2 Monastery Swiftspear
 2 Reckless Rage
@@ -335,8 +353,8 @@
 3 Defiant Strike
 3 Favored Hoplite
 3 Gods Willing
-3 Curious Obsession
 3 Staggering Insight
+3 Curious Obsession
 3 Inspiring Vantage
 3 Faerie Vandal
 3 Glacial Fortress
@@ -345,30 +363,12 @@
 3 Reckless Rage
 4 Favored Hoplite
 4 Gods Willing
-4 Defiant Strike
 4 Curious Obsession
+4 Defiant Strike
 4 Staggering Insight
 4 Reckless Rage
 4 Tenth District Legionnaire
 4 Monastery Swiftspear
-1 Castle Ardenvale
-1 Heart of Kiran
-1 Pack Rat
-1 Scrapheap Scrounger
-1 Karn, Scion of Urza
-1 Shambling Vent
-2 Heart of Kiran
-2 Pack Rat
-2 Shambling Vent
-2 Scrapheap Scrounger
-2 Karn, Scion of Urza
-3 Heart of Kiran
-3 Pack Rat
-3 Scrapheap Scrounger
-3 Karn, Scion of Urza
-4 Scrapheap Scrounger
-4 Pack Rat
-4 Karn, Scion of Urza
 1 The Ozolith
 1 Metallic Mimic
 1 Steel Overseer
@@ -412,8 +412,8 @@
 4 Tireless Tracker
 4 Bonecrusher Giant
 5 Swamp
-1 Garrison Cat
 1 Gutterbones
+1 Garrison Cat
 1 Priest of Forgotten Gods
 1 Zulaport Cutthroat
 1 Cartel Aristocrat
@@ -423,10 +423,10 @@
 1 Rally the Ancestors
 1 Return to the Ranks
 1 Hunted Witness
-2 Garrison Cat
-2 Priest of Forgotten Gods
 2 Gutterbones
+2 Priest of Forgotten Gods
 2 Zulaport Cutthroat
+2 Garrison Cat
 2 Fiend Artisan
 2 Return to the Ranks
 2 Cartel Aristocrat
@@ -434,8 +434,8 @@
 2 Hunted Witness
 2 Stitcher's Supplier
 2 Rally the Ancestors
-3 Garrison Cat
 3 Zulaport Cutthroat
+3 Garrison Cat
 3 Priest of Forgotten Gods
 3 Cartel Aristocrat
 3 Stitcher's Supplier
@@ -444,9 +444,9 @@
 3 Fiend Artisan
 4 Cartel Aristocrat
 4 Rally the Ancestors
-4 Garrison Cat
 4 Zulaport Cutthroat
 4 Priest of Forgotten Gods
+4 Garrison Cat
 4 Stitcher's Supplier
 4 Fiend Artisan
 4 Hunted Witness

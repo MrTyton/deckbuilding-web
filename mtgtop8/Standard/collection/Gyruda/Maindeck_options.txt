@@ -56,6 +56,8 @@
 1 Extinction Event
 2 Extinction Event
 2 Kogla, the Titan Ape
+3 Temple of Plenty
+4 Temple of Plenty
 1 Polukranos, Unchained
 1 Wilt
 2 Polukranos, Unchained
@@ -80,8 +82,9 @@
 4 Steam Vents
 4 Fires of Invention
 4 Ketria Triome
-3 Temple of Plenty
-4 Temple of Plenty
+2 Humble Naturalist
+3 Humble Naturalist
+4 Humble Naturalist
 1 Shark Typhoon
 1 Essence Scatter
 2 Shark Typhoon
@@ -89,9 +92,6 @@
 3 Essence Scatter
 3 Shark Typhoon
 4 Essence Scatter
-2 Humble Naturalist
-3 Humble Naturalist
-4 Humble Naturalist
 1 Sphinx of Foresight
 1 Thought Erasure
 2 Sphinx of Foresight
@@ -112,12 +112,12 @@
 2 The Birth of Meletis
 2 Temple of Silence
 2 Heartless Act
-3 Heartless Act
-3 Extinction Event
 3 Thassa's Oracle
+3 Extinction Event
 3 The Birth of Meletis
 3 Temple of Silence
 3 Plains
+3 Heartless Act
 3 Temple of Deceit
 4 Extinction Event
 4 Heartless Act
