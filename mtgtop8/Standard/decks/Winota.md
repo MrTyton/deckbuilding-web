@@ -164,6 +164,6 @@
 |                    4|[Leafkin Druid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466932)              |                     |                                                                                                     |
 |                    4|[Thunderkin Awakener](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466916)        |                     |                                                                                                     |
 |                    4|[Scampering Scorcher](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466912)        |                     |                                                                                                     |
-|                    4|Savai Thundermane                                                                                     |                     |                                                                                                     |
 |                    4|[Risen Reef](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466971)                 |                     |                                                                                                     |
+|                    4|Savai Thundermane                                                                                     |                     |                                                                                                     |
 

@@ -13,9 +13,9 @@
 1 Supreme Verdict
 2 Supreme Verdict
 3 Supreme Verdict
-1 Geier Reach Sanitarium
 1 Ritual of Soot
 1 Ashiok, Nightmare Muse
+1 Geier Reach Sanitarium
 2 Ritual of Soot
 2 Geier Reach Sanitarium
 3 Ritual of Soot
@@ -46,10 +46,10 @@
 2 Breeding Pool
 1 Uro, Titan of Nature's Wrath
 2 Uro, Titan of Nature's Wrath
-3 Breeding Pool
 3 Uro, Titan of Nature's Wrath
-4 Breeding Pool
+3 Breeding Pool
 4 Uro, Titan of Nature's Wrath
+4 Breeding Pool
 1 Ipnu Rivulet
 1 Thirst for Meaning
 1 Fetid Pools
@@ -60,16 +60,16 @@
 2 Satyr Wayfinder
 3 Satyr Wayfinder
 4 Satyr Wayfinder
-1 Temple Garden
 1 Sunpetal Grove
+1 Temple Garden
 2 Temple Garden
 3 Temple Garden
 4 Temple Garden
 2 Woodland Cemetery
 1 Rest in Peace
 1 Dovin's Veto
-2 Rest in Peace
 2 Dovin's Veto
+2 Rest in Peace
 1 Kaya, Orzhov Usurper
 1 Kalitas, Traitor of Ghet
 4 Traverse the Ulvenwald
@@ -139,8 +139,8 @@
 1 Irrigated Farmland
 2 Sunpetal Grove
 1 Indatha Triome
-1 Siege Rhino
 1 Knight of Autumn
+1 Siege Rhino
 2 Indatha Triome
 2 Siege Rhino
 2 Knight of Autumn
@@ -153,25 +153,25 @@
 3 Grisly Salvage
 4 Grisly Salvage
 1 Agent of Treachery
+1 Zagoth Triome
 1 Eat to Extinction
 1 Cry of the Carnarium
-1 Zagoth Triome
-2 Cry of the Carnarium
 2 Zagoth Triome
+2 Cry of the Carnarium
 3 Cry of the Carnarium
 4 Shark Typhoon
 3 Island
 1 Soul-Guide Lantern
 1 Botanical Sanctum
+1 Kunoros, Hound of Athreos
 1 Courser of Kruphix
 1 Vivien, Monsters' Advocate
-1 Kunoros, Hound of Athreos
 1 Ishkanah, Grafwidow
 2 Courser of Kruphix
 3 Courser of Kruphix
 4 Courser of Kruphix
-4 Supreme Verdict
 4 Oath of Kaya
+4 Supreme Verdict
 1 Elspeth's Nightmare
 2 Elspeth's Nightmare
 2 Thirst for Meaning
@@ -207,35 +207,35 @@
 2 Questing Beast
 3 Questing Beast
 4 Swamp
+1 Temple of Malady
 1 Rankle, Master of Pranks
-1 Gifted Aetherborn
 1 Erebos, God of the Dead
 1 Spark Trooper
-1 Temple of Malady
 1 Sunblade Angel
 1 Gather the Pack
 1 Skull Prophet
 1 Vine Mare
 1 Grapple with the Past
+1 Gifted Aetherborn
 1 Soulflayer
 1 Lotleth Troll
 1 Zetalpa, Primal Dawn
+2 Temple of Malady
 2 Gifted Aetherborn
 2 Skull Prophet
 2 Lotleth Troll
 2 Zetalpa, Primal Dawn
-2 Temple of Malady
 2 Soulflayer
 2 Vine Mare
 2 Gather the Pack
-3 Gifted Aetherborn
 3 Zetalpa, Primal Dawn
 3 Gather the Pack
 3 Soulflayer
+3 Gifted Aetherborn
 3 Lotleth Troll
-4 Gifted Aetherborn
 4 Lotleth Troll
 4 Zetalpa, Primal Dawn
+4 Gifted Aetherborn
 4 Gather the Pack
 4 Soulflayer
 3 Concealed Courtyard
@@ -270,8 +270,8 @@
 6 Island
 7 Island
 8 Island
-4 Concealed Courtyard
 4 Caves of Koilos
+4 Concealed Courtyard
 1 Archon of Sun's Grace
 1 Silkwrap
 2 Archon of Sun's Grace
@@ -293,13 +293,8 @@
 3 Fetid Pools
 3 Oath of Jace
 4 Flicker of Fate
-1 Oath of Liliana
-2 Kaya, Orzhov Usurper
-3 Thirst for Meaning
-4 Gideon of the Trials
-4 Thirst for Meaning
-1 Kogla, the Titan Ape
 1 Gilded Goose
+1 Kogla, the Titan Ape
 1 Glass Casket
 1 Pilgrim's Eye
 1 Greenwarden of Murasa
@@ -308,6 +303,11 @@
 2 Pilgrim's Eye
 3 Gilded Goose
 4 Gilded Goose
+1 Oath of Liliana
+2 Kaya, Orzhov Usurper
+3 Thirst for Meaning
+4 Gideon of the Trials
+4 Thirst for Meaning
 2 Eat to Extinction
 4 Cry of the Carnarium
 1 Llanowar Elves
@@ -315,15 +315,15 @@
 1 Vraska, Golgari Queen
 1 Jadelight Ranger
 2 Vraska, Golgari Queen
-2 Scavenging Ooze
 2 Jadelight Ranger
 2 Llanowar Elves
 2 Elvish Mystic
+2 Scavenging Ooze
 3 Indatha Triome
+3 Scavenging Ooze
 3 Liliana, the Last Hope
 3 Llanowar Elves
 3 Elvish Mystic
-3 Scavenging Ooze
 3 Jadelight Ranger
 4 Indatha Triome
 4 Siege Rhino
@@ -341,8 +341,8 @@
 1 Absorb
 1 Castle Vantress
 1 Ojutai's Command
-2 Absorb
 2 Hinterland Harbor
+2 Absorb
 3 Sunpetal Grove
 3 Hinterland Harbor
 4 Soul-Guide Lantern
@@ -350,76 +350,29 @@
 1 Eldrazi Displacer
 2 Eldrazi Displacer
 3 Eldrazi Displacer
-1 Mountain
-1 Blast Zone
-1 Steam Vents
-2 Steam Vents
-1 Chandra, Acolyte of Flame
-1 Temple of Triumph
-1 Sacred Foundry
-1 Battlefield Forge
-1 Bonecrusher Giant
-1 Phyrexian Revoker
-1 Castle Embereth
-1 Inspiring Vantage
-1 Cloudblazer
-1 Clifftop Retreat
-1 Winota, Joiner of Forces
-1 Lavinia of the Tenth
-1 Chained to the Rocks
-1 Hanged Executioner
-1 Goblin Instigator
-1 Fire Prophecy
-1 Raugrin Triome
-2 Agent of Treachery
-2 Chandra, Acolyte of Flame
-2 Hanged Executioner
-2 Castle Embereth
-2 Battlefield Forge
-2 Phyrexian Revoker
-2 Bonecrusher Giant
-2 Fire Prophecy
-2 Mountain
-2 Blast Zone
-2 Sacred Foundry
-2 Raugrin Triome
-2 Goblin Instigator
-2 Winota, Joiner of Forces
-2 Lavinia of the Tenth
-2 Cloudblazer
-2 Clifftop Retreat
-2 Chained to the Rocks
-3 Agent of Treachery
-3 Hanged Executioner
-3 Chandra, Acolyte of Flame
-3 Steam Vents
-3 Sacred Foundry
-3 Battlefield Forge
-3 Blast Zone
-3 Bonecrusher Giant
-3 Fire Prophecy
-3 Raugrin Triome
-3 Castle Embereth
-3 Lavinia of the Tenth
-3 Cloudblazer
-3 Clifftop Retreat
-3 Chained to the Rocks
-3 Goblin Instigator
-3 Phyrexian Revoker
-3 Winota, Joiner of Forces
-4 Raugrin Triome
-4 Hanged Executioner
-4 Sacred Foundry
-4 Agent of Treachery
-4 Steam Vents
-4 Battlefield Forge
-4 Blast Zone
-4 Fire Prophecy
-4 Castle Embereth
-4 Goblin Instigator
-4 Chained to the Rocks
-4 Clifftop Retreat
-4 Winota, Joiner of Forces
+1 Spell Queller
+1 Wasteland Strangler
+1 Thought-Knot Seer
+1 Wastes
+1 Ulamog's Nullifier
+1 Shefet Dunes
+2 Wasteland Strangler
+2 Spell Queller
+2 Thought-Knot Seer
+2 Shefet Dunes
+2 Ulamog's Nullifier
+2 Wastes
+3 Brain Maggot
+3 Wasteland Strangler
+3 Spell Queller
+3 Silkwrap
+3 Thought-Knot Seer
+4 Silkwrap
+4 Brain Maggot
+4 Eldrazi Displacer
+4 Wasteland Strangler
+4 Spell Queller
+4 Thought-Knot Seer
 1 Disinformation Campaign
 1 Basilica Bell-Haunt
 2 Disinformation Campaign
@@ -431,33 +384,80 @@
 4 Elspeth's Nightmare
 4 Disinformation Campaign
 4 Basilica Bell-Haunt
-1 Spell Queller
-1 Wasteland Strangler
-1 Thought-Knot Seer
-1 Wastes
-1 Ulamog's Nullifier
-1 Shefet Dunes
-2 Spell Queller
-2 Wasteland Strangler
-2 Thought-Knot Seer
-2 Shefet Dunes
-2 Ulamog's Nullifier
-2 Wastes
-3 Wasteland Strangler
-3 Brain Maggot
-3 Thought-Knot Seer
-3 Spell Queller
-3 Silkwrap
-4 Eldrazi Displacer
-4 Wasteland Strangler
-4 Spell Queller
-4 Silkwrap
-4 Thought-Knot Seer
-4 Brain Maggot
+1 Mountain
+1 Blast Zone
+1 Steam Vents
+2 Steam Vents
+1 Chandra, Acolyte of Flame
+1 Lavinia of the Tenth
+1 Phyrexian Revoker
+1 Castle Embereth
+1 Bonecrusher Giant
+1 Inspiring Vantage
+1 Cloudblazer
+1 Clifftop Retreat
+1 Winota, Joiner of Forces
+1 Sacred Foundry
+1 Temple of Triumph
+1 Battlefield Forge
+1 Chained to the Rocks
+1 Hanged Executioner
+1 Goblin Instigator
+1 Fire Prophecy
+1 Raugrin Triome
+2 Castle Embereth
+2 Chandra, Acolyte of Flame
+2 Hanged Executioner
+2 Mountain
+2 Phyrexian Revoker
+2 Fire Prophecy
+2 Bonecrusher Giant
+2 Blast Zone
+2 Sacred Foundry
+2 Agent of Treachery
+2 Raugrin Triome
+2 Goblin Instigator
+2 Winota, Joiner of Forces
+2 Battlefield Forge
+2 Lavinia of the Tenth
+2 Cloudblazer
+2 Clifftop Retreat
+2 Chained to the Rocks
+3 Agent of Treachery
+3 Hanged Executioner
+3 Chandra, Acolyte of Flame
+3 Blast Zone
+3 Fire Prophecy
+3 Raugrin Triome
+3 Castle Embereth
+3 Lavinia of the Tenth
+3 Cloudblazer
+3 Clifftop Retreat
+3 Chained to the Rocks
+3 Bonecrusher Giant
+3 Goblin Instigator
+3 Phyrexian Revoker
+3 Winota, Joiner of Forces
+3 Battlefield Forge
+3 Sacred Foundry
+3 Steam Vents
+4 Hanged Executioner
+4 Agent of Treachery
+4 Blast Zone
+4 Fire Prophecy
+4 Raugrin Triome
+4 Castle Embereth
+4 Goblin Instigator
+4 Sacred Foundry
+4 Chained to the Rocks
+4 Clifftop Retreat
+4 Steam Vents
+4 Winota, Joiner of Forces
+4 Battlefield Forge
 1 Tyrant's Scorn
+2 Dig Through Time
 2 Tyrant's Scorn
 2 Ashiok, Nightmare Muse
-2 Dig Through Time
 3 Temple of Deceit
 3 Ashiok, Nightmare Muse
 4 Ashiok, Nightmare Muse
@@ -467,44 +467,44 @@
 6 Swamp
 2 Castle Ardenvale
 4 Plains
+1 Cast Out
+1 Stasis Snare
+1 Shatter the Sky
 1 Labyrinth of Skophos
 1 Westvale Abbey
-1 Cast Out
+1 Gideon's Intervention
+1 Omen of the Sun
 1 Quarantine Field
 1 Nykthos, Shrine to Nyx
 1 History of Benalia
 1 Sphere of Safety
-1 Shatter the Sky
 1 Desert of the True
 1 Arch of Orazca
-1 Omen of the Sun
-1 Stasis Snare
-1 Gideon's Intervention
-2 Cast Out
-2 History of Benalia
-2 Omen of the Sun
-2 Nykthos, Shrine to Nyx
-2 Gideon's Intervention
 2 Stasis Snare
-2 Desert of the True
+2 Cast Out
 2 Shatter the Sky
+2 Omen of the Sun
+2 Gideon's Intervention
+2 History of Benalia
+2 Nykthos, Shrine to Nyx
+2 Desert of the True
 2 Sphere of Safety
-3 Cast Out
+3 Castle Ardenvale
+3 Stasis Snare
 3 Shatter the Sky
 3 Archon of Sun's Grace
 3 Sphere of Safety
 3 Nykthos, Shrine to Nyx
 3 Desert of the True
-3 Castle Ardenvale
 3 History of Benalia
-3 Stasis Snare
-4 Castle Ardenvale
-4 Cast Out
+3 Cast Out
 4 The Birth of Meletis
+4 Castle Ardenvale
 4 Archon of Sun's Grace
 4 Desert of the True
 4 History of Benalia
 4 Nykthos, Shrine to Nyx
+4 Cast Out
 5 Plains
 6 Plains
 7 Plains
@@ -517,90 +517,90 @@
 14 Plains
 15 Plains
 16 Plains
-1 Neutralize
-1 Commit/Memory
 1 Search for Azcanta
+1 Neutralize
 1 Drown in the Loch
+1 Commit/Memory
 1 Languish
 1 Utter End
 2 Languish
 3 Heartless Act
 3 Languish
-1 Thalia's Lieutenant
-1 Drannith Magistrate
-1 Kitesail Freebooter
 1 Castle Locthwain
 1 Dead Weight
+1 Drannith Magistrate
+1 Thalia's Lieutenant
+1 Kitesail Freebooter
 1 Kytheon, Hero of Akros
 1 Return to the Ranks
 1 Knight of the White Orchid
 1 Dauntless Bodyguard
 1 Dire Tactics
-2 Thalia's Lieutenant
 2 Dead Weight
 2 Drannith Magistrate
+2 Thalia's Lieutenant
 2 Kitesail Freebooter
 2 Dire Tactics
 2 Return to the Ranks
 2 Kytheon, Hero of Akros
 2 Knight of the White Orchid
 2 Dauntless Bodyguard
-3 Dire Tactics
 3 Thalia's Lieutenant
 3 Kitesail Freebooter
 3 Knight of the White Orchid
 3 Dauntless Bodyguard
+3 Dire Tactics
 4 Kitesail Freebooter
 4 Thalia's Lieutenant
 4 Dire Tactics
 4 Dauntless Bodyguard
-1 Stonecoil Serpent
 1 The Ozolith
+1 Ratchet Bomb
+1 Evolutionary Leap
+1 Stonecoil Serpent
 1 Hardened Scales
 1 Mutavault
 1 Hooded Hydra
 1 Winding Constrictor
 1 Hangarback Walker
-1 Ratchet Bomb
-1 Evolutionary Leap
-2 Walking Ballista
-2 The Ozolith
-2 Stonecoil Serpent
-2 Winding Constrictor
 2 Ratchet Bomb
+2 Winding Constrictor
 2 Hooded Hydra
+2 The Ozolith
 2 Hardened Scales
 2 Hangarback Walker
-3 Walking Ballista
+2 Stonecoil Serpent
+2 Walking Ballista
+3 The Ozolith
 3 Ratchet Bomb
 3 Stonecoil Serpent
 3 Hardened Scales
+3 Walking Ballista
 3 Winding Constrictor
 3 Woodland Cemetery
-3 The Ozolith
 3 Hangarback Walker
-4 Walking Ballista
 4 Stonecoil Serpent
+4 Ratchet Bomb
 4 Hardened Scales
 4 Winding Constrictor
-4 Ratchet Bomb
+4 Walking Ballista
 4 Hangarback Walker
 4 Woodland Cemetery
-1 Temple of Epiphany
 1 Jace, Vryn's Prodigy
 1 Temple of Malice
+1 Blood Crypt
 1 Collective Brutality
+1 Temple of Epiphany
 1 Burning Anger
 1 Liliana, Death's Majesty
 1 Breaking/Entering
 1 Colossification
-1 Blood Crypt
 1 Cathartic Reunion
 1 Storm Herald
 2 Temple of Malice
 2 Jace, Vryn's Prodigy
-2 Collective Brutality
 2 Blood Crypt
+2 Collective Brutality
 2 Burning Anger
 2 Breaking/Entering
 2 Storm Herald
@@ -608,12 +608,12 @@
 2 Cathartic Reunion
 2 Liliana, Death's Majesty
 3 Jace, Vryn's Prodigy
+3 Blood Crypt
 3 Temple of Malice
 3 Collective Brutality
 3 Storm Herald
 3 Cathartic Reunion
 3 Liliana, Death's Majesty
-3 Blood Crypt
 3 Burning Anger
 3 Breaking/Entering
 3 Colossification
@@ -624,48 +624,48 @@
 4 Storm Herald
 4 Cathartic Reunion
 4 Colossification
-1 Ketria Triome
+1 Aether Hub
 1 Paradise Druid
-1 Stomping Ground
 1 Warlord's Fury
 1 Crash Through
-1 Jeskai Ascendancy
 1 Attune with Aether
-1 Aether Hub
+1 Jeskai Ascendancy
 1 Sylvan Awakening
 1 Quicken
+1 Ketria Triome
 1 Unbridled Growth
 1 Spirebluff Canal
 1 Treasure Cruise
+1 Stomping Ground
 1 Expedite
 2 Ketria Triome
+2 Aether Hub
 2 Paradise Druid
 2 Warlord's Fury
 2 Crash Through
+2 Attune with Aether
 2 Jeskai Ascendancy
 2 Spirebluff Canal
 2 Unbridled Growth
 2 Botanical Sanctum
-2 Attune with Aether
 2 Quicken
 2 Sylvan Awakening
 2 Expedite
 2 Treasure Cruise
-2 Aether Hub
+3 Aether Hub
 3 Paradise Druid
 3 Crash Through
+3 Attune with Aether
 3 Jeskai Ascendancy
 3 Sylvan Awakening
-3 Aether Hub
 3 Treasure Cruise
 3 Unbridled Growth
 3 Botanical Sanctum
-3 Attune with Aether
 3 Spirebluff Canal
+4 Aether Hub
 4 Crash Through
 4 Paradise Druid
 4 Unbridled Growth
-4 Aether Hub
 4 Treasure Cruise
 4 Jeskai Ascendancy
 4 Botanical Sanctum
@@ -673,10 +673,10 @@
 1 Sea-Dasher Octopus
 1 Spell Pierce
 1 Unsubstantiate
-1 Mystical Dispute
 1 Master of Waves
 1 Spectral Sailor
 1 Cloudfin Raptor
+1 Mystical Dispute
 1 Tempest Djinn
 1 Siren Stormtamer
 1 Curious Obsession
@@ -693,8 +693,8 @@
 2 Siren Stormtamer
 3 Spectral Sailor
 3 Sea-Dasher Octopus
-3 Mystical Dispute
 3 Siren Stormtamer
+3 Mystical Dispute
 3 Tempest Djinn
 3 Essence Capture
 3 Unsubstantiate

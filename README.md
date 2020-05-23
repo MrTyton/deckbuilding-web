@@ -16,13 +16,12 @@
 
 # Pioneer
 
-|                                A                                |                                          B                                          |                                    C                                    |                                 D                                 |                                E                                |
-|-----------------------------------------------------------------|-------------------------------------------------------------------------------------|-------------------------------------------------------------------------|-------------------------------------------------------------------|-----------------------------------------------------------------|
-|[Azorius Control](./mtggoldfish/Pioneer/decks/Azorius_Control.md)|[Gyruda Combo](./mtggoldfish/Pioneer/decks/Gyruda_Combo.md)                          |[Lotus Breach](./mtggoldfish/Pioneer/decks/Lotus_Breach.md)              |[Orzhov Auras](./mtggoldfish/Pioneer/decks/Orzhov_Auras.md)        |[Sultai Delirium](./mtggoldfish/Pioneer/decks/Sultai_Delirium.md)|
-|[Bant Control](./mtggoldfish/Pioneer/decks/Bant_Control.md)      |[Hardened Constrictor](./mtggoldfish/Pioneer/decks/Hardened_Constrictor.md)          |[Mono-Black Aggro](./mtggoldfish/Pioneer/decks/Mono-Black_Aggro.md)      |[Orzhov Doom Pact](./mtggoldfish/Pioneer/decks/Orzhov_Doom_Pact.md)|[Superfriends](./mtggoldfish/Pioneer/decks/Superfriends.md)      |
-|[Boros Feather](./mtggoldfish/Pioneer/decks/Boros_Feather.md)    |[Jeskai Cycling](./mtggoldfish/Pioneer/decks/Jeskai_Cycling.md)                      |[Mono-Red Aggro](./mtggoldfish/Pioneer/decks/Mono-Red_Aggro.md)          |[Other](./mtggoldfish/Pioneer/decks/Other.md)                      |[WUBR](./mtggoldfish/Pioneer/decks/WUBR.md)                      |
-|[Burn](./mtggoldfish/Pioneer/decks/Burn.md)                      |[Jeskai Fires Superfriends](./mtggoldfish/Pioneer/decks/Jeskai_Fires_Superfriends.md)|[Mono-White Devotion](./mtggoldfish/Pioneer/decks/Mono-White_Devotion.md)|[Sacrifice](./mtggoldfish/Pioneer/decks/Sacrifice.md)              |                                                                 |
-|[Dimir Inverter](./mtggoldfish/Pioneer/decks/Dimir_Inverter.md)  |[Jund](./mtggoldfish/Pioneer/decks/Jund.md)                                          |[Niv to Light](./mtggoldfish/Pioneer/decks/Niv_to_Light.md)              |[Simic Ramp](./mtggoldfish/Pioneer/decks/Simic_Ramp.md)            |                                                                 |
+|                                A                                |                                     B                                     |                                          C                                          |                                    D                                    |                                E                                |
+|-----------------------------------------------------------------|---------------------------------------------------------------------------|-------------------------------------------------------------------------------------|-------------------------------------------------------------------------|-----------------------------------------------------------------|
+|[Azorius Control](./mtggoldfish/Pioneer/decks/Azorius_Control.md)|[Dimir Inverter](./mtggoldfish/Pioneer/decks/Dimir_Inverter.md)            |[Jeskai Fires Superfriends](./mtggoldfish/Pioneer/decks/Jeskai_Fires_Superfriends.md)|[Mono-White Devotion](./mtggoldfish/Pioneer/decks/Mono-White_Devotion.md)|[Other](./mtggoldfish/Pioneer/decks/Other.md)                    |
+|[Bant Control](./mtggoldfish/Pioneer/decks/Bant_Control.md)      |[Gyruda Combo](./mtggoldfish/Pioneer/decks/Gyruda_Combo.md)                |[Jund](./mtggoldfish/Pioneer/decks/Jund.md)                                          |[Niv to Light](./mtggoldfish/Pioneer/decks/Niv_to_Light.md)              |[Sacrifice](./mtggoldfish/Pioneer/decks/Sacrifice.md)            |
+|[Boros Feather](./mtggoldfish/Pioneer/decks/Boros_Feather.md)    |[Hardened Constrictor](./mtggoldfish/Pioneer/decks/Hardened_Constrictor.md)|[Lotus Breach](./mtggoldfish/Pioneer/decks/Lotus_Breach.md)                          |[Orzhov Auras](./mtggoldfish/Pioneer/decks/Orzhov_Auras.md)              |[Sultai Delirium](./mtggoldfish/Pioneer/decks/Sultai_Delirium.md)|
+|[Burn](./mtggoldfish/Pioneer/decks/Burn.md)                      |[Jeskai Cycling](./mtggoldfish/Pioneer/decks/Jeskai_Cycling.md)            |[Mono-Red Aggro](./mtggoldfish/Pioneer/decks/Mono-Red_Aggro.md)                      |[Orzhov Doom Pact](./mtggoldfish/Pioneer/decks/Orzhov_Doom_Pact.md)      |[Superfriends](./mtggoldfish/Pioneer/decks/Superfriends.md)      |
 
 
 # Modern
@@ -54,4 +53,4 @@
 
 
 
-#### Last Updated at 02:15PM on May 22, 2020
+#### Last Updated at 10:53AM on May 23, 2020

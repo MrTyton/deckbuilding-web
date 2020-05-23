@@ -1,5 +1,5 @@
-1 Reclamation Sage
 1 God-Pharaoh's Statue
+1 Skysovereign, Consul Flagship
 1 Bow of Nylea
 1 Perilous Vault
 1 God-Pharaoh's Gift
@@ -35,8 +35,8 @@
 1 Kunoros, Hound of Athreos
 1 Noxious Grasp
 1 Dryad Militant
-2 Dryad Militant
 2 Noxious Grasp
+2 Dryad Militant
 3 Noxious Grasp
 1 Thoughtseize
 1 Abrupt Decay
@@ -49,28 +49,28 @@
 2 Thoughtseize
 3 Thoughtseize
 4 Thoughtseize
-1 Lurrus of the Dream Den
 1 Dead Weight
+1 Lurrus of the Dream Den
 1 Gideon of the Trials
 1 Ashiok, Dream Render
 1 Supreme Verdict
-1 Tormod's Crypt
 1 Darksteel Citadel
 1 The Immortal Sun
+1 Tormod's Crypt
 1 Noxious Gearhulk
 2 Ashiok, Dream Render
-1 Aether Gust
 1 Entrancing Melody
-2 Aether Gust
+1 Aether Gust
 2 Entrancing Melody
+2 Aether Gust
+1 Agonizing Remorse
+2 Gideon of the Trials
+2 Agonizing Remorse
+2 Collective Brutality
 1 Glass Casket
 1 Phyrexian Revoker
 1 Cataclysmic Gearhulk
 2 Phyrexian Revoker
-2 Collective Brutality
-1 Agonizing Remorse
-2 Gideon of the Trials
-2 Agonizing Remorse
 1 Drannith Magistrate
 2 Drannith Magistrate
 1 Gideon, Ally of Zendikar
@@ -80,16 +80,16 @@
 2 Deputy of Detention
 2 Trial of Ambition
 2 Brazen Borrower
+1 Chandra's Defeat
 1 Tireless Tracker
 1 Jegantha, the Wellspring
+1 Natural State
 1 Magma Spray
 1 Crackling Drake
-1 Chandra's Defeat
 1 Wilt
-1 Natural State
+2 Chandra's Defeat
 2 Tireless Tracker
 2 Magma Spray
-2 Chandra's Defeat
 2 Wilt
 2 Grafdigger's Cage
 1 Kalitas, Traitor of Ghet
@@ -105,25 +105,31 @@
 1 Treacherous Blessing
 1 Oath of Kaya
 1 Loxodon Smiter
+2 Sin Collector
 2 Tolsimir, Friend to Wolves
 2 Loxodon Smiter
-2 Sin Collector
 2 Treacherous Blessing
 1 Keening Apparition
 1 Collective Effort
 1 Fatal Push
 2 Soul-Guide Lantern
 3 Soul-Guide Lantern
+1 Kaya, Orzhov Usurper
+1 Void Shatter
+1 Absorb
+1 Kaheera, the Orphanguard
+2 Void Shatter
+2 Kaya, Orzhov Usurper
+3 Void Shatter
 1 Disdainful Stroke
 2 Disdainful Stroke
 3 Legion's End
-1 Kaya, Orzhov Usurper
-1 Absorb
-1 Kaheera, the Orphanguard
-1 Void Shatter
-2 Kaya, Orzhov Usurper
-2 Void Shatter
-3 Void Shatter
+1 Knight of Autumn
+1 Glare of Heresy
+2 Knight of Autumn
+3 Knight of Autumn
+4 Knight of Autumn
+4 Damping Sphere
 1 Deafening Silence
 2 Deafening Silence
 1 Gideon's Intervention
@@ -131,15 +137,9 @@
 1 Ixalan's Binding
 1 Lyra Dawnbringer
 1 Heliod, God of the Sun
-2 Gideon's Intervention
 2 Tomik, Distinguished Advokist
+2 Gideon's Intervention
 4 Rest in Peace
-1 Knight of Autumn
-1 Glare of Heresy
-2 Knight of Autumn
-3 Knight of Autumn
-4 Knight of Autumn
-4 Damping Sphere
 1 Isolate
 2 Isolate
 3 Ashiok, Dream Render
@@ -149,16 +149,16 @@
 1 Apostle of Purifying Light
 1 Lena, Selfless Champion
 2 Chandra, Awakened Inferno
-2 Apostle of Purifying Light
 2 Lena, Selfless Champion
+2 Apostle of Purifying Light
 3 Drannith Magistrate
 3 Deafening Silence
 3 Apostle of Purifying Light
 4 Apostle of Purifying Light
 1 Shapers' Sanctuary
 1 Infinite Obliteration
-2 Infinite Obliteration
 2 Dead Weight
+2 Infinite Obliteration
 3 Infinite Obliteration
 4 Infinite Obliteration
 1 Easy Prey

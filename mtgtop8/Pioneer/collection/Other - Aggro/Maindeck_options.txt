@@ -120,8 +120,8 @@
 3 Watery Grave
 3 Silkwrap
 3 Brain Maggot
-3 Omen of the Sea
 3 Wasteland Strangler
+3 Omen of the Sea
 3 Spell Queller
 3 Thought-Knot Seer
 3 Thraben Inspector
@@ -129,8 +129,8 @@
 4 Watery Grave
 4 Silkwrap
 4 Wasteland Strangler
-4 Omen of the Sea
 4 Eldrazi Displacer
+4 Omen of the Sea
 4 Brain Maggot
 4 Thought-Knot Seer
 4 Spell Queller
@@ -192,9 +192,9 @@
 3 Lavinia of the Tenth
 3 Castle Embereth
 3 Fire Prophecy
+3 Blast Zone
 3 Chandra, Acolyte of Flame
 3 Hanged Executioner
-3 Blast Zone
 3 Chained to the Rocks
 3 Battlefield Forge
 3 Raugrin Triome
@@ -222,11 +222,11 @@
 2 Kalitas, Traitor of Ghet
 2 Murderous Rider
 1 Urborg, Tomb of Yawgmoth
+2 Dreadbore
+3 Abrupt Decay
 1 Evolving Wilds
 2 Evolving Wilds
 3 Evolving Wilds
-2 Dreadbore
-3 Abrupt Decay
 1 Irrigated Farmland
 1 Flourishing Fox
 1 Castle Vantress
@@ -256,22 +256,22 @@
 3 Irrigated Farmland
 3 Flourishing Fox
 3 Censor
-3 Cast Out
 3 Zenith Flare
 3 Azorius Charm
 3 Island
 3 Hieroglyphic Illumination
 3 Neutralize
+3 Cast Out
 3 Sulfur Falls
 3 Shark Typhoon
 4 Irrigated Farmland
 4 Sulfur Falls
 4 Hieroglyphic Illumination
 4 Neutralize
-4 Cast Out
 4 Zenith Flare
 4 Flourishing Fox
 4 Azorius Charm
+4 Cast Out
 4 Censor
 4 Shark Typhoon
 1 Gilded Goose
@@ -391,9 +391,9 @@
 4 Steel Overseer
 4 Winding Constrictor
 4 Llanowar Wastes
-1 Questing Beast
 1 Vraska, Golgari Queen
 1 Liliana, the Last Hope
+1 Questing Beast
 1 Foreboding Ruins
 1 Tireless Tracker
 1 Chandra, Torch of Defiance
@@ -424,8 +424,8 @@
 1 Return to the Ranks
 1 Hunted Witness
 2 Garrison Cat
-2 Gutterbones
 2 Priest of Forgotten Gods
+2 Gutterbones
 2 Zulaport Cutthroat
 2 Fiend Artisan
 2 Return to the Ranks
@@ -452,29 +452,29 @@
 4 Hunted Witness
 5 Plains
 1 Gifted Aetherborn
-1 Dusk Legion Zealot
-1 Sorin, Imperious Bloodlord
 1 Champion of Dusk
+1 Sorin, Imperious Bloodlord
+1 Dusk Legion Zealot
 1 Kaya, Orzhov Usurper
 1 Oathsworn Vampire
 1 Blood Baron of Vizkopa
 2 Gifted Aetherborn
-2 Dusk Legion Zealot
-2 Champion of Dusk
-2 Sorin, Imperious Bloodlord
 2 Kaya, Orzhov Usurper
+2 Sorin, Imperious Bloodlord
+2 Champion of Dusk
+2 Dusk Legion Zealot
 2 Blood Baron of Vizkopa
 2 Oathsworn Vampire
 2 Castle Locthwain
 3 Murderous Rider
 3 Gifted Aetherborn
-3 Sorin, Imperious Bloodlord
 3 Dusk Legion Zealot
+3 Sorin, Imperious Bloodlord
 3 Blood Baron of Vizkopa
 3 Castle Locthwain
 3 Mutavault
-4 Sorin, Imperious Bloodlord
 4 Dusk Legion Zealot
+4 Sorin, Imperious Bloodlord
 4 Mutavault
 6 Swamp
 7 Swamp

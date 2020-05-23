@@ -43,8 +43,8 @@
 2 Opt
 3 Opt
 4 Opt
-1 Sunpetal Grove
 1 Baffling End
+1 Sunpetal Grove
 1 Lumbering Falls
 1 Courser of Kruphix
 1 Hinterland Harbor
@@ -56,6 +56,7 @@
 1 Nissa, Vastwood Seer
 1 Growth Spiral
 1 Forest
+2 Sunpetal Grove
 2 Teferi, Hero of Dominaria
 2 Detention Sphere
 2 Baffling End
@@ -64,7 +65,6 @@
 2 Growth Spiral
 2 Hinterland Harbor
 2 Forest
-2 Sunpetal Grove
 2 Nissa, Vastwood Seer
 2 Uro, Titan of Nature's Wrath
 2 Satyr Wayfinder
@@ -78,9 +78,9 @@
 3 Uro, Titan of Nature's Wrath
 3 Breeding Pool
 3 Forest
-4 Temple Garden
 4 Baffling End
 4 Growth Spiral
+4 Temple Garden
 4 Breeding Pool
 4 Uro, Titan of Nature's Wrath
 2 Gideon of the Trials
@@ -117,8 +117,8 @@
 1 Castle Vantress
 1 Raugrin Triome
 1 Flourishing Fox
-2 Clifftop Retreat
 2 Irrigated Farmland
+2 Clifftop Retreat
 2 Sulfur Falls
 2 Cast Out
 2 Neutralize
@@ -131,27 +131,27 @@
 2 Zenith Flare
 3 Sulfur Falls
 3 Irrigated Farmland
+3 Cast Out
+3 Clifftop Retreat
 3 Neutralize
 3 Hieroglyphic Illumination
 3 Island
 3 Azorius Charm
 3 Zenith Flare
-3 Cast Out
 3 Censor
 3 Flourishing Fox
-3 Clifftop Retreat
 4 Censor
 4 Irrigated Farmland
 4 Shark Typhoon
+4 Cast Out
 4 Azorius Charm
 4 Flourishing Fox
 4 Zenith Flare
-4 Cast Out
 4 Neutralize
 4 Hieroglyphic Illumination
 4 Sulfur Falls
-1 Easy Prey
 1 Underworld Connections
+1 Easy Prey
 1 Duress
 2 Duress
 2 Kaya's Wrath
@@ -170,22 +170,22 @@
 3 Gideon of the Trials
 2 Thirst for Meaning
 1 Search for Azcanta
-1 Elspeth, Sun's Champion
 1 Elspeth, Sun's Nemesis
+1 Cast Down
 1 Hero's Downfall
 1 Fetid Pools
 1 Narset, Parter of Veils
 1 Thought Erasure
-1 Cast Down
+1 Elspeth, Sun's Champion
 2 Search for Azcanta
 2 Cast Down
 3 Concealed Courtyard
 3 Cast Down
 1 Blood Crypt
-1 Kolaghan's Command
 1 Kroxa, Titan of Death's Hunger
 1 Discovery / Dispersal
 1 Dreadbore
+1 Kolaghan's Command
 1 Foreboding Ruins
 1 Mountain
 2 Kolaghan's Command
@@ -199,15 +199,13 @@
 3 Kroxa, Titan of Death's Hunger
 3 Discovery / Dispersal
 4 Kroxa, Titan of Death's Hunger
+4 Blood Crypt
 4 Discovery / Dispersal
 4 Dreadbore
-4 Blood Crypt
 2 Temple of Silence
 1 Kunoros, Hound of Athreos
 2 Kunoros, Hound of Athreos
 3 Kunoros, Hound of Athreos
-1 Mass Manipulation
-4 Teferi, Hero of Dominaria
 1 Temple of Deceit
 1 Archon of Sun's Grace
 2 Archon of Sun's Grace
@@ -218,13 +216,15 @@
 1 Kaya, Orzhov Usurper
 1 Oath of Liliana
 1 Gideon, Ally of Zendikar
-2 Kaya, Orzhov Usurper
 2 Gideon, Ally of Zendikar
+2 Kaya, Orzhov Usurper
 3 Thirst for Meaning
-4 Gideon of the Trials
 4 Thirst for Meaning
+4 Gideon of the Trials
 4 Drowned Catacomb
 4 Glacial Fortress
+1 Mass Manipulation
+4 Teferi, Hero of Dominaria
 1 Cling to Dust
 2 Cling to Dust
 3 Starfield of Nyx
